@@ -13,7 +13,7 @@ source_collection: external
 
 치과 진료·면허·개설 관련 한국 헌법재판소 결정례를 정리한 리뷰 — 치과 경영·법률 컨텍스트 자료. 기존 한국 치과 정책 자료 [[practice-management/jkda-2024-62-6-001]](치과의사 인력 지역 분포)와 함께 "치과의사 관련 제도·법령" 라인을 구성.
 
-## One-line Summary
+## Three-line Summary
 Korean-language review (대한치과의사협회지) cataloguing Korean Constitutional Court decisions and constitutional complaints relevant to dentists and dental practice.
 
 ## 1. Document Information

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Saudi Dental Journal 2020, PubMed search 2010–2019) classifying dental ceramics by composition (glass-based, glass-infiltrated, polycrystalline) and fabrication method (stacking, heat-press, slip-cast, dry-press, CAD/CAM), with flexural strength benchmarks and clinical indication guidance.
+Narrative review (Saudi Dental Journal 2020; PubMed 2010–2019, 2,173 articles) providing a two-axis classification of dental ceramics by composition (glass-based, glass-infiltrated, polycrystalline) and fabrication method (stacking, heat-press, slip-cast, dry-press, CAD/CAM).
 
-## 한줄요약
+Flexural strength benchmarks span 70–90 MPa (feldspathic) → 300–500 MPa (lithium disilicate) → 800–1500 MPa (Y-TZP zirconia), with indication mapping from veneers and inlays to short-span anterior FPDs and monolithic posterior crowns.
 
-서술적 고찰(SDJ 2020): 치과 세라믹을 조성(유리계·유리침윤형·다결정)과 제조법(적층소결·열가압·슬립캐스팅·건식압축·CAD/CAM)으로 분류하고 굴곡강도 수치와 임상 적응증을 정리.
+Ceramic success depends on material selection, restoration design, occlusion, and cementation medium; monolithic designs are more durable posteriorly while bi-layered designs offer superior aesthetics at the cost of delamination risk.
+
+## 세줄요약
+
+서술적 고찰(Saudi Dental Journal 2020; PubMed 2010–2019, 2,173편): 치과 세라믹을 조성(유리계·유리침윤형·다결정)과 제조법(적층소결·열가압·슬립캐스팅·건식압축·CAD/CAM) 두 축으로 분류.
+
+굴곡강도: 장석질(Feldspathic) 70–90 MPa → 리튬 디실리케이트(Lithium Disilicate) 300–500 MPa → Y-TZP 지르코니아(Zirconia) 800–1500 MPa; 비니어·인레이부터 단경간 전치부 FPD·단일체 구치부 크라운까지 적응증 매핑.
+
+재료 선택·수복물 설계·교합·접착 매체가 세라믹 성공을 결정하며, 단일체(Monolithic) 디자인은 구치부 내구성 우수, 이중층(Bi-layered)은 심미성은 높으나 베니어 층 탈락 위험 존재.
 
 ## Summary
 

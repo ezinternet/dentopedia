@@ -13,13 +13,23 @@ source_collection: external
 
 기존 상악동 막 천공 위험 예측 연구들 ([[wiki/sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]], [[wiki/sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]])이 상악동 내부 해부학(격벽, 잔류골 높이)에 집중한 반면, 상악동 배농 경로인 오스티오메아탈 복합체 (Osteomeatal Complex, OMC)의 해부학적 변이가 막 두께에 미치는 영향은 미탐구 상태였다. 본 연구(n=1957 상악동)는 OMC 구조 변이(관절구 세포, 하르 세포, 상비갑개 기포) CBCT 측정값과 점막 두께의 관계를 정량화하여, 시술 전 CBCT 평가 체크리스트의 해부학적 축을 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective CBCT study (n=1957 sinuses) found that osteomeatal complex variations — including ostium width, infundibulum length, ethmoidal bulla diameter, and UPSA types 3/4/6 — are significantly associated with maxillary sinus mucosal thickening and ostium obstruction, with implications for pre-surgical sinus floor elevation risk assessment.
 
-## 한줄요약
+(incomplete)
 
-후향적 CBCT 연구 (n=1957 상악동): 오스티오메아탈 복합체 (Osteomeatal Complex, OMC) 변이 — 골공 폭 (Ostium Width, OW), 누두부 길이 (Infundibulum Length, IL), 사골포 직경 (Ethmoidal Bulla Diameter, EBD), 구개돌기 상부 부착 (Uncinate Process Superior Attachment, UPSA) 유형 3·4·6 — 이 최대상악동 점막 두께 (Mucosal Thickness, MT) 및 골공 폐쇄와 유의하게 연관됨을 입증; 상악동저 거상술 (Sinus Floor Elevation, SFE) 시술 전 위험 평가 축 확장.
+(incomplete)
+
+## 세줄요약
+
+
+후향적 CBCT 연구 (n=1957 상악동): 오스티오메아탈 복합체 (Osteomeatal Complex, OMC) 변이 — 골공 폭 (Ostium Width, OW), 누두부 길이 (Infundibulum Length, IL), 사골포 직경 (Ethmoidal Bulla Diameter, EBD), 구개돌기 상부 부착 (Uncinate Process Superior Attachment, UPSA) 유형 3·4·6 — 이 최대상악동 점막 두께 (Mucosal Thickness, MT) 및 골공 폐쇄와 유의하게 연관됨을 입증;
+
+상악동저 거상술 (Sinus Floor Elevation, SFE) 시술 전 위험 평가 축 확장.
+
+(incomplete)
 
 ## 1. Document Information
 

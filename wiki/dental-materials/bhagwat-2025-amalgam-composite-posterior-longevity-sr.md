@@ -13,11 +13,21 @@ source_collection: external
 tags: [amalgam, composite-resin, longevity, survival, posterior-teeth, secondary-caries, fracture, high-caries-risk, single-surface]
 ---
 
-## One-line Summary
-SR of amalgam vs composite resin longevity in posterior teeth (Cureus 2025, 1990–2024): amalgam median survival >16 years vs composite ~11 years; gap narrowing in recent studies; secondary caries is the primary composite failure mode.
+## Three-line Summary
 
-## 한줄요약
-후방부 아말감 vs 복합레진 수명 SR (Cureus 2025, PubMed+Cochrane+Google Scholar 1990–2024): 아말감 중앙생존기간 >16년 vs 레진 ~11년; 최신 연구에서 격차 축소; 재이차우식(Secondary Caries)이 레진 주요 실패 원인.
+Systematic review without meta-analysis (Cureus 2025; PubMed, Cochrane, Google Scholar, 1990–2024; CASP quality assessment; clinical trials + observational studies; ≥12 months; permanent posterior teeth) comparing longevity of amalgam versus composite resin restorations.
+
+Amalgam median survival exceeds 16 years versus composite ~11 years historically, though post-2015 composite studies show a narrowing gap as materials and bonding techniques have improved; secondary caries and marginal discoloration are primary composite failure modes, while fracture dominates amalgam failures.
+
+High caries-risk patients show significantly higher composite failure rates; single-surface restorations have comparable survival between materials — patient risk stratification is essential for material selection.
+
+## 세줄요약
+
+체계적 문헌고찰, 메타분석 미시행(Cureus 2025; PubMed·Cochrane·Google Scholar, 1990–2024; CASP 질 평가; 임상시험+관찰연구; 추적 ≥12개월; 영구 구치부): 아말감 vs 복합레진 수명 비교.
+
+아말감 중앙 생존기간 >16년 vs 복합레진 ~11년(역사적 문헌 기준); 2015년 이후 연구에서 재료·접착 기술 발전으로 격차 축소 중; 복합레진 주요 실패: 이차우식(Secondary Caries)·변연 변색, 아말감: 파절.
+
+고우식위험군(High Caries-risk) 환자에서 복합레진 실패율 유의하게 높음; 단면(Single-surface) 수복은 두 재료 생존율 동등 — 재료 선택 시 환자 위험도 분류 필수.
 
 ## Summary
 Systematic review without meta-analysis comparing longevity of amalgam and composite resin restorations in permanent posterior teeth. Databases: PubMed, Cochrane, Google Scholar (1990–2024). Inclusion: clinical trials and observational studies with ≥12 months follow-up; posterior permanent teeth; both materials compared. Quality assessment by CASP. No meta-analysis performed due to study heterogeneity.

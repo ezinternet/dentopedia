@@ -13,13 +13,21 @@ source_collection: external
 tags: [implant-overdenture, IFCD, IOD, patient-reported-outcomes, OHIP, OHRQoL, edentulous, complete-denture]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (28 prospective studies, n=1457) found large treatment-effect sizes for both implant-supported fixed complete dentures (IFCD, g=1.68) and implant overdentures (IOD, g=1.26) on patient-reported outcomes; no significant overall difference between prosthesis types, but denture stability significantly favored IFCDs.
+SR+MA (PROSPERO-registered, 28 prospective studies, n=1457 edentulous patients) comparing treatment effects of implant-supported fixed complete dentures (IFCD) vs implant overdentures (IOD) on dental patient-reported outcomes (dPROs) using Hedges' g effect sizes.
 
-## 한줄요약
+Both IFCD (g=1.68) and IOD (g=1.26) produced large dPRO improvements over pre-treatment baselines with no significant overall difference between prosthesis types (p=.165); the only dPRO domain favoring IFCD was denture stability (ES difference 2.37, p=.032); mandibular IODs with two implants showed significantly better dPROs than single-implant designs (ES difference 0.73, p<.001).
 
-전향적 연구 28편(n=1457)의 SR+MA: IFCD(g=1.68)와 IOD(g=1.26) 모두 환자보고결과에서 큰 치료 효과 크기를 보였으며, 전체 dPRO는 양군 간 유의한 차이 없음(p=.165). 다만 의치 안정성은 IFCD가 유의하게 우수(ES 차이 2.37, p=.032).
+Attachment type (ball vs bar) and follow-up duration did not moderate dPROs, so for most patients prosthesis-type choice can be based on cost, biology, and stability preference rather than assumed patient-experience differences.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA(전향적 연구 28편, 완전 무치악 환자 n=1457): 임플란트지지 고정성 총의치(Implant-supported Fixed Complete Denture, IFCD) vs 임플란트 오버덴쳐(Implant Overdenture, IOD)의 치과 환자보고결과(dPRO) 치료 효과를 Hedges' g로 비교.
+
+IFCD(g=1.68)·IOD(g=1.26) 모두 치료 전 기저치 대비 큰 dPRO 개선; 전체 dPRO 양군 간 유의한 차이 없음(p=.165); IFCD가 유의하게 우수한 유일 영역은 의치 안정성(ES 차이 2.37, p=.032); 하악 2개 임플란트 IOD가 1개보다 유의하게 높은 dPRO(ES 차이 0.73, p<.001).
+
+어태치먼트 유형(볼 vs 바)·추적 기간은 dPRO를 조절하지 않으므로, 대부분 환자에서 보철 유형 선택은 비용·생물학적 조건·안정성 선호도 기반으로 결정할 수 있다.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: pavlovic-2022-interradicular-septum-morphology-molar-iip.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 CBCT cross-sectional analysis of maxillary molar inter-radicular septum (IRS) morphology, framed as objective criteria for IIP feasibility.
 
 ## 1. Document Information

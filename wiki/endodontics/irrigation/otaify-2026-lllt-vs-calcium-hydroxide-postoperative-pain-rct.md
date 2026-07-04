@@ -24,13 +24,21 @@ relations:
     target: shunmugavelu-2025-intracanal-medications-periapical-abscess-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Parallel RCT (n=46 single-canalled symptomatic apical periodontitis teeth) — low-level laser therapy (LLLT, 976 nm diode, 30 s) vs Calcium Hydroxide intracanal medication: no significant intergroup difference in postoperative pain (6/12/24/48 h, all p>0.05), percussion pain (1 wk, p=0.708), or reduction of periapical IL-8 (p=0.123) and Substance P (p=0.385); both gave comparable acute symptom relief, supporting LLLT as a single-visit alternative — but CH's antimicrobial role was not assessed.
+First RCT directly comparing LLLT (976 nm diode, 0.5 W, 30 s applied to empty canal) vs Calcium Hydroxide intracanal dressing in 46 patients with single-canalled symptomatic apical periodontitis, with dual primary endpoints of VAS pain and periapical inflammatory biomarkers (IL-8, Substance P by ELISA).
 
-## 한줄요약
+No significant intergroup difference was found at any time point — postoperative pain 6/12/24/48 h (all p>0.05), percussion pain at 1 week (p=0.708), IL-8 reduction (p=0.123), or Substance P reduction (p=0.385) — with both groups achieving significant within-group improvement, positioning LLLT as a single-visit alternative for acute symptom control.
 
-단일근관 증상성 치근단치주염 평행 RCT (n=46)에서 저출력레이저치료 (Low-Level Laser Therapy, LLLT, 976 nm 다이오드, 30초)와 수산화칼슘 (Calcium Hydroxide, CH) 근관내 첩약은 수술후 통증(6/12/24/48시간 모두 p>0.05)·1주 타진통(p=0.708)·치근단 IL-8(p=0.123)·물질P(p=0.385) 감소에서 군간 차이가 없었다. 급성 증상 완화는 동등해 LLLT가 단일내원 대체옵션이 될 수 있으나, CH의 항균 역할은 평가되지 않았다.
+The critical caveat is that CH's antimicrobial/disinfection role was deliberately not evaluated in this trial, so LLLT cannot be considered a replacement for CH where long-term canal disinfection is the primary goal; the study is also limited by single-canalled-teeth restriction and unblinded participants.
+
+## 세줄요약
+
+단일근관 증상성 치근단치주염 46명에서 LLLT(976 nm 다이오드, 0.5 W, 30초, 빈 근관 적용)와 수산화칼슘 근관내 첩약을 직접 비교한 최초 RCT — VAS 통증과 치근단 염증 표지자(IL-8·Substance P ELISA) 이중 1차 결과지표.
+
+모든 시점에서 군간 유의차 없음 — 술후 통증 6/12/24/48시간(모두 p>0.05)·1주 타진통(p=0.708)·IL-8 감소(p=0.123)·Substance P 감소(p=0.385) — 양 군 모두 군내 유의한 호전을 보여 LLLT가 급성 증상 조절 목적의 단일내원 대안으로 정립.
+
+핵심 한계: CH의 항균·소독 역할은 이 연구에서 의도적으로 평가하지 않아, 장기 근관 소독이 목적일 때 LLLT가 CH를 대체할 수 없음; 단일근관 치아 한정·피험자 비맹검 등 추가 한계.
 
 ## Summary
 

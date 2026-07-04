@@ -16,11 +16,21 @@ relations:
     target: duangthip-2017-occlusal-stress-nccl-abfraction-sr
 ---
 
-## One-line Summary
-PRISMA-ScR scoping review (only 6 of 1449 studies included) concluding the evidence is insufficient to confirm or refute occlusal loads as a cause of abfraction, and that prospective longitudinal studies isolating abfraction from erosion/abrasion are needed.
+## Three-line Summary
 
-## 한줄요약
-PRISMA-ScR scoping review(1449→6편) — 교합부하의 abfraction 원인 역할 확정·반박 모두 불가, 전향 종단연구 필요.
+PRISMA-ScR registered scoping review (INPLASY protocol; PubMed + Scopus; "abfraction" AND "NCCL"; 1449 articles identified → 6 included; ROBINS-I bias assessment) appraising whether occlusal loads cause abfraction lesions.
+
+The 6 included studies provide insufficient evidence to confirm or refute occlusal-load aetiology; some suggestive clues exist but Duangthip 2017's pro-abfraction 81% figure is criticized as lab/FEA-weighted and unable to isolate true abfraction from erosive/abrasive lesions.
+
+This is the most methodologically rigorous appraisal of the abfraction controversy; the "evidence is genuinely inconclusive" anchor position; prospective longitudinal studies separating abfraction from erosion/abrasion are specifically required.
+
+## 세줄요약
+
+PRISMA-ScR 등록 scoping review(INPLASY 프로토콜; PubMed+Scopus; 1449편 → 6편 포함; ROBINS-I 비뚤림 평가): 교합부하가 abfraction 병변을 유발하는가를 평가.
+
+6편의 포함 연구는 교합부하의 병인 역할을 확정하거나 반박하기에 불충분 — Duangthip 2017의 81% 연관 결과는 FEA 등 실험실 연구 편중, abfraction-erosion/abrasion 미분리 방법론 문제로 비판.
+
+abfraction 논쟁에 대한 가장 엄밀한 방법론적 평가; "증거가 실질적으로 불충분"한 입장을 앵커링; erosion/abrasion과 격리된 전향 종단연구가 결론 도출을 위해 필요함.
 
 ## Summary
 This registered scoping review (PRISMA-ScR, INPLASY protocol, ROBINS-I bias assessment) is the most methodologically rigorous appraisal of the abfraction controversy to date. Searching PubMed and Scopus for "abfraction" AND "NCCL," the authors screened 1449 articles and included only 6 that correlated NCCL progression with applied forces. Their analysis found that these studies do not provide sufficient evidence to confirm or refute the aetiological role of occlusal loads in abfraction; some suggestive "clues" emerged but require confirmation through prospective longitudinal studies that also account for coexisting erosion and abrasion. The review explicitly critiques Duangthip 2017's pro-abfraction conclusion, noting that it did not differentiate true abfraction from purely erosive/abrasive lesions, was weighted toward laboratory (FEA) work, and itself acknowledged that no clinical studies link occlusal stress to NCCLs. This paper anchors the "evidence is genuinely inconclusive" position in the occlusion debate.

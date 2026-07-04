@@ -18,13 +18,21 @@ relations:
     target: thoma-2021-soft-tissue-management-implants-eao-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Chinese multi-center expert consensus (IJOS 2025, 29 authors) establishing a site- and residual-KM-width-driven decision tree for selecting ARF, FGG, SFGG, or soft tissue substitutes for peri-implant keratinized mucosa augmentation at second-stage surgery.
+Expert consensus from 29 specialists at 20 Chinese academic centers (Int J Oral Sci 2025) addressing technique selection for peri-implant keratinized mucosa augmentation specifically at second-stage (implant uncovery) surgery.
 
-## 한줄요약
+A site- and residual-KM-width-driven decision tree was established: mandible with KM <2 mm → FGG before second-stage; esthetic zone → SFGG + substitute; posterior maxilla → ARF; technique performance ranged from FGG (~4.1 mm KM gain, 12–16% contraction) to XCM (~1.8 mm, 34–51% contraction).
 
-중국 다기관 전문가 컨센서스(IJOS 2025, 저자 29인): 임플란트 2차 수술 시 각화점막 증대를 위해 임플란트 위치·잔존 각화점막 폭·점막 두께에 따른 ARF·FGG·SFGG·소프트티슈 대체재 선택 결정 트리를 제시한 실용적 임상 가이드.
+Second-stage surgery is the optimal augmentation window; thin biotype mandates FGG or MARF as ARF alone does not reliably address thickness deficiency.
+
+## 세줄요약
+
+임플란트 2차 노출 수술 시 각화점막(KM) 증대 기법 선택을 위한 중국 20개 학술 기관 29인 전문가 컨센서스(Int J Oral Sci 2025).
+
+잔존 KM 폭·부위별 결정 트리 제시: 하악 KM <2 mm → 2차 수술 전 FGG 필수; 심미 부위 → SFGG + 대체재; 상악 구치부 → ARF; FGG는 KM ~4.1 mm 획득(수축 12–16%), XCM은 ~1.8 mm(수축 34–51%).
+
+2차 수술이 최적의 증대 시점이며, 얇은 생물형은 ARF 단독 불충분 — FGG 또는 MARF 필요.
 
 ## Summary
 

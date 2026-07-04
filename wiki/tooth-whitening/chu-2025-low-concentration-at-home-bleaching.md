@@ -18,13 +18,21 @@ relations:
     target: terra-2025-effect-at-home-agents-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth triple-blind RCT (n=22, 2 weeks) found 3% HP (Invisalign) achieved greater ΔE than 8% CP (iWhite) (5.39 vs 4.75, p<0.05), while 8% CP caused less sensitivity (p<0.05) and less enamel alteration on SEM; both products clinically acceptable and improved OHRQoL.
+Split-mouth triple-blind RCT (n=22, 2-week duration, 6–8 h/day) comparing Invisalign 3% HP (acidic gel) vs Beyke iWhite 8% CP (alkaline formulation) for at-home bleaching with spectrophotometric, SEM, sensitivity, and OHRQoL endpoints.
 
-## 한줄요약
+3% HP achieved greater whitening (ΔE 5.39 vs 4.75, p<0.05) but caused more enamel surface undulations (SEM) and higher tooth sensitivity (p<0.05); 8% CP's alkaline pH protected enamel and reduced sensitivity; both products exceeded the clinical acceptability threshold (ΔE >1.8) and significantly improved OHRQoL.
 
-분할구강 RCT(n=22)에서 3% HP는 8% CP보다 미백 효과가 컸으나(ΔE 5.39 vs 4.75), 8% CP는 민감도가 낮고 법랑질 변화가 적었으며 두 제품 모두 OHRQoL을 유의하게 개선했다.
+When choosing between low-concentration at-home agents, 8% CP (alkaline) is preferred for sensitivity-prone patients with less enamel alteration, while 3% HP provides slightly faster whitening; the alkaline pH mechanism explains the differential enamel and sensitivity outcomes.
+
+## 세줄요약
+
+분할구강 삼중맹검 RCT(n=22, 2주, 6–8h/일)에서 Invisalign 3% HP(산성 겔) 대 Beyke iWhite 8% CP(알칼리 제형)를 색도계·SEM·민감도·OHRQoL로 비교.
+
+3% HP가 미백 효과 큼(ΔE 5.39 vs 4.75, p<0.05)이나 법랑질 표면 변화 많고 민감도 높음(p<0.05); 8% CP의 알칼리 pH가 법랑질 보호·민감도 감소; 두 제품 모두 임상 허용 기준(ΔE >1.8) 충족, OHRQoL 유의하게 개선.
+
+민감도 위험 환자는 8% CP(알칼리) 선택이 법랑질 보호·민감도 감소에 유리하며, 3% HP는 미백 속도 약간 빠름; 알칼리 pH 기전이 법랑질·민감도 차이를 설명.
 
 ## Summary
 

@@ -16,11 +16,21 @@ relations:
     target: subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric
 ---
 
-## One-line Summary
-Triple-blind RCT (n=45 children, 6-10 y): for IANB, 8% lidocaine gel was NOT superior to 20% benzocaine or 5% EMLA — no significant differences in FLACC, Wong-Baker FACES, or pulse rate.
+## Three-line Summary
 
-## 한줄요약
-삼중맹검 RCT(소아 45명, 6-10세): IANB에서 8% lidocaine 겔이 20% benzocaine·5% EMLA보다 우월하지 않음 — FLACC·Wong-Baker FACES·맥박 모두 유의차 없음.
+Triple-blind 3-arm RCT (n=45 schoolchildren, 6–10 y, 15/arm) comparing 2-min application of 20% benzocaine gel, 8% lidocaine gel, and 5% EMLA cream before IANB, using FLACC behavioral scale, Wong-Baker FACES self-report, and pulse rate as outcomes.
+
+No statistically significant differences were found across any outcome — FLACC p=0.806, Wong-Baker FACES p=0.593, post-IANB pulse p=0.351 — indicating 8% lidocaine gel offered no advantage over standard 20% benzocaine or EMLA.
+
+With only 15 children per arm this trial is underpowered to demonstrate equivalence; the fixed 2-min application time also likely disadvantaged EMLA (which requires ~5 min for full effect).
+
+## 세줄요약
+
+삼중맹검 3군 RCT (n=45 학령기 소아, 6–10세, 군당 15명): IANB 전 20% benzocaine 겔·8% lidocaine 겔·5% EMLA 크림을 2분 도포 후 FLACC 행동 척도·Wong-Baker FACES·맥박으로 비교.
+
+모든 결과에서 통계적 유의차 없음 — FLACC p=0.806, Wong-Baker FACES p=0.593, 마취 후 맥박 p=0.351 — 8% lidocaine 겔은 표준 20% benzocaine 또는 EMLA 대비 우월하지 않음.
+
+군당 15명으로 동등성 입증에는 검정력 부족; 2분 도포 시간은 ~5분이 필요한 EMLA에 불리하게 작용했을 가능성이 있다.
 
 ## Summary
 This triple-blinded, three-arm RCT in 45 schoolchildren (6-10 y, 15 per arm) compared three topical anesthetics applied for 2 minutes before inferior alveolar nerve block (IANB): 8% lidocaine gel, 20% benzocaine gel (control), and 5% EMLA cream. Across all outcomes — FLACC behavioral scale, Wong-Baker FACES self-report, and pulse rate — there were no statistically significant differences. The higher-concentration 8% lidocaine gel offered no advantage over standard 20% benzocaine. The small per-arm sample means non-significance is not equivalence, and the fixed 2-min application may disadvantage EMLA (recommended ~5-min onset).

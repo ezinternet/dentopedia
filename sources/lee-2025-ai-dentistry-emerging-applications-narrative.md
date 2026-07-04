@@ -9,7 +9,7 @@ pdf_filename: lee-2025-ai-dentistry-emerging-applications-narrative.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Dent 2025;155:105648 — narrative review (120 articles, 4 reviewers) of AI applications across dental education, patient care, and practice management; emphasises adaptive learning, simulation/VR training, multi-specialty diagnostic/clinical decision support, and operational workflow integration.
 
 ## 1. Document Information

@@ -19,13 +19,21 @@ relations:
     target: li-2024-zirconia-surface-treatments-monomers-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (72 studies SR / 68 in MA): 10-MDP-pretreated resin-to-zirconia bond strength falls significantly after aging (MD 5.58 MPa), is unaffected by the MDP application vehicle, and is significantly stronger when 10-MDP is combined with additional surface treatments (MD 10.17 MPa) than when used alone.
+Systematic review + meta-analysis (72 studies in SR, 68 in MA; PubMed/Scopus/Web of Science/CNKI/Wanfang; RevMan 5.4) examining 10-MDP-pretreated resin-to-zirconia bonding durability, stratified by aging method, MDP application vehicle, and additional surface treatment.
 
-## 한줄요약
+10-MDP-pretreated zirconia bond strength decreased significantly after aging (MD 5.58 MPa, 95% CI 5.11–6.05, p<0.001); the MDP delivery vehicle (primer vs adhesive vs resin cement) did not affect post-aging strength; combining 10-MDP with additional surface treatment significantly improved post-aging strength over MDP alone (MD 10.17 MPa, 95% CI 8.20–12.14, p<0.001).
 
-체계적 문헌고찰 + 메타분석 (SR 72편 / MA 68편): 10-MDP 전처리 레진-지르코니아 결합강도는 노화 후 유의 감소(MD 5.58 MPa), MDP 적용 매개체에 따른 차이는 없으며, 추가 표면처리 병용 시 MDP 단독 대비 노화 후 결합강도가 유의하게 강함(MD 10.17 MPa).
+10-MDP alone is insufficient to maintain durable zirconia bonds; combining it with alumina sandblasting, tribochemical silica coating, etching, or plasma — regardless of MDP delivery vehicle — provides roughly twice the aging-loss protection; abstract-only retrieval limits full methodological appraisal.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 (SR 72편, MA 68편; PubMed/Scopus/Web of Science/CNKI/Wanfang; RevMan 5.4): 노화 방법, 10-MDP 적용 매개체, 추가 표면처리 유무로 층화해 10-MDP 전처리 레진-지르코니아 접착 내구성 분석.
+
+노화 후 결합강도 유의 감소(MD 5.58 MPa, 95% CI 5.11–6.05, p<0.001); MDP 적용 매개체(프라이머·접착제·레진 시멘트)에 따른 노화 후 강도 차이 없음; 10-MDP에 추가 표면처리 병용 시 MDP 단독 대비 유의하게 높은 노화 후 결합강도(MD 10.17 MPa, 95% CI 8.20–12.14, p<0.001).
+
+10-MDP 단독으로는 지르코니아 접착 내구성 유지 불충분; 알루미나 샌드블라스팅, 트리보화학 실리카 코팅, 산부식, 플라즈마 등 추가 표면처리 병용이 노화 손실 대비 약 2배의 보호 효과 제공(적용 매개체 무관); 초록만 확보하여 방법론 세부 검토는 제한적.
 
 ## Summary
 

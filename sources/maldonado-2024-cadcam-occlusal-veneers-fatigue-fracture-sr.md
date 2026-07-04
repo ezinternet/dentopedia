@@ -13,13 +13,23 @@ source_collection: external
 
 Wiki coverage of occlusal veneers lacked a dedicated in-vitro mechanical performance summary for CAD/CAM resin vs. lithium disilicate. This SR synthesizes all fatigue and fracture resistance data on CAD/CAM occlusal veneers for severely worn posterior teeth and fills the gap in [[wiki/veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]], which covers clinical survival but not mechanical/in-vitro endpoints.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (6 in-vitro studies) finding comparable fracture resistance between CAD/CAM composite resin and lithium disilicate occlusal veneers, with two studies showing higher fatigue resistance for composite resin.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰 (in vitro 연구 6편): CAD/CAM 교합면 비니어에서 레진 복합체와 리튬 디실리케이트 세라믹의 파절저항성(Fracture Resistance)은 동등하며, 피로저항성(Fatigue Resistance)은 2편의 연구에서 레진이 더 우수한 결과를 보임.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

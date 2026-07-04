@@ -13,13 +13,21 @@ source_collection: external
 
 OMS (구강원성 상악동염, Odontogenic Maxillary Sinusitis) 클러스터 보강 목적 — 기존 [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] 및 [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]가 리뷰/consensus 레벨인 반면, 본 De Corso 2022 논문은 262례 대규모 후향적 코호트로 내시경적 접근의 실제 치료 성과(96.5% 성공률, SNOT-22 43.4→6)와 OAF 동시 처치 프로토콜을 제공하여 임상 의사결정 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=262) from an Italian academic ENT center demonstrates 96.5% success rate for endoscopic endonasal surgery (FESS) in managing sinonasal complications of dental disease or treatment (SCDDT), with SNOT-22 improvement from 43.4 to 6 at 15 days; 55.34% were iatrogenic (implant/extraction), 44.65% from dental pathology.
+Monocentric retrospective cohort (n=262, Rome, August 2015–May 2022) of sinonasal complications of dental disease or treatment (SCDDT) managed exclusively with a functional endoscopic endonasal approach (FESS); 55.34% iatrogenic (implant/extraction-related), 44.65% from dental pathology; classified using the Felisati 2013 SCDDT taxonomy.
 
-## 한줄요약
+Overall FESS success rate 96.5%; mean SNOT-22 improved from 43.4 pre-op to 6 at 15 days post-op (p<0.05); simultaneous dental treatment was feasible in 58% of cases; oroantral fistula repair success 95.8%.
 
-이탈리아 3차 병원 ENT과의 후향적 코호트(262례)에서 치성 시노비강 합병증(SCDDT)에 대한 내시경 비내 수술의 전체 성공률 96.5%, SNOT-22가 43.4에서 6으로 감소(술 후 15일); 원인의 55.34%는 의인성(임플란트·발치), 44.65%는 치성 병변.
+FESS is the primary recommended treatment modality for SCDDT regardless of etiology; implant removal is only required for frank dislocation into the sinus, not for peri-implantitis complications alone — a sinus-sparing, implant-sparing policy.
+
+## 세줄요약
+
+단일기관 후향적 코호트(262례, 로마, 2015–2022): 치과 질환·치료의 부비강 합병증(SCDDT)을 기능적 내시경 비내 수술(Functional Endoscopic Sinus Surgery, FESS)만으로 치료; 원인은 의인성 55.34%(임플란트·발치), 치성 병변 44.65%; Felisati 2013 분류 적용.
+
+FESS 전체 성공률 96.5%; SNOT-22 평균 43.4(술전) → 6(술후 15일, p<0.05); 동시 치과 처치 58%에서 가능; 구강-상악동 누공(Oroantral Fistula, OAF) 수복 성공률 95.8%.
+
+FESS는 원인과 무관하게 SCDDT의 1차 치료; 임플란트 제거는 명백한 상악동 내 전위(Dislocation) 때만 필요하며, 임플란트 주위염만으로는 제거 불요 — 보존적 접근.
 
 ## 1. Document Information
 

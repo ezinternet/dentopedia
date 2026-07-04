@@ -16,13 +16,21 @@ relations:
     target: fischer-2022-bone-envelope-arp-dbbm-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (n=10 patients, 130–319 day healing): ARP with species-specific collagen-enriched DBBM block (C-DBBM) + bovine cross-linked collagen membrane using open-healing technique resulted in histological bone formation via appositional membranous osteogenesis and 0% requiring GBR at implant placement; 2.5–4.5 year follow-up with no complications.
+Prospective case series (n=10 patients, healing 130–319 days) of alveolar ridge preservation (ARP) using a novel species-specific collagen-enriched DBBM block (C-DBBM: 95% DBBM + 5% bovine collagen) + bovine cross-linked collagen membrane with open-healing technique.
 
-## 한줄요약
+Histology showed appositional membranous osteogenesis with lattice-pattern cancellous bone trabeculae surrounding residual C-DBBM granules; 0/10 patients required GBR at implant placement; no biological or technical complications over 2.5–4.5 years.
 
-전향적 증례집(n=10, 130–319일): 우종별 교원소 함유 DBBM 블록 + 소 교원막 개방치유 ARP → 막상골 형성 확인, 임플란트 시 GBR 불필요(0%), 2.5–4.5년 무합병증.
+The all-bovine material chain is relevant for halal-compliant/porcine-free practice; the 0% GBR rate likely reflects case selection and longer healing periods rather than superiority over standard DBBM ARP — no control group.
+
+## 세줄요약
+
+치조제보존술 (Alveolar Ridge Preservation, ARP)을 위한 우종별 교원소 함유 DBBM 블록 (C-DBBM: 탈단백우골 DBBM 95% + 소 교원질 5%) + 소 교차결합 교원막 개방치유법 전향적 증례집 (n=10, 치유 130–319일).
+
+조직학적 관찰: 잔존 C-DBBM 과립 주변의 격자형 해면골 형성 (막상골 직접골화 appositional membranous osteogenesis); 0/10명 임플란트 시 GBR 불필요; 2.5–4.5년 추적 무합병증.
+
+전소(全牛) 재료 체계는 할랄·무돈(無豚) 환경에 적합; 0% GBR 비율은 증례 선택 편향·장기 치유 기간 반영 가능 — 대조군 없어 표준 DBBM ARP와 직접 비교 불가.
 
 ## Summary
 

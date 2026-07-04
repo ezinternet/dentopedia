@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]]가 치근단 병소의 병인·분류를 다루지만, 생활치아의 치근단 병소(ALEO in vital teeth)와 새로운 8-범주 진단 분류 체계 및 생활치수요법 적응 확장 근거가 없음. 본 리뷰는 vital/nonvital 치아 모두의 AP 임상·방사선 소견을 종합하고 VPT 우선 치료 원칙을 명문화한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (IEJ 2024) proposing a new 8-diagnosis taxonomy for apical periodontitis (AP) in vital and nonvital teeth, advocating vital pulp therapy (VPT) with 92–99% long-term success as first-line treatment for vital teeth with AP, and summarizing global AP prevalence at ~52%.
+Narrative review (IEJ 2024) synthesizing clinical/radiographic features of apical periodontitis (AP) in both vital and nonvital teeth across four treatment scenarios, with a proposed 8-category diagnostic taxonomy integrating pulp vitality, percussion test, and radiographic PDL status.
 
-## 한줄요약
+Global AP prevalence is approximately 52% in adults (meta-analysis 2021); vital pulp therapy (VPT) achieves 92% success for pulpitis-with-AP cases and 99% overall survival in a 10-year cohort, supporting VPT as first-line over immediate root canal treatment.
 
-서사 리뷰(IEJ 2024) — 생활·비생활 치아 모두의 치근단 주위염(AP) 임상·방사선 소견을 정리하고, 새 8범주 진단 분류를 제안하며, 생활치수요법(VPT)의 장기 성공률 92–99%를 근거로 생활치 AP의 1차 치료로 VPT를 권고함.
+The article advocates retiring "reversible/irreversible pulpitis" terminology and proposes a paradigm shift toward preserving vital pulps with AP, but the narrative design and immature evidence base for AP-in-vital-teeth pathogenesis limit the strength of recommendations.
+
+## 세줄요약
+
+IEJ 2024 서술적 종설 — 생활·비생활 치아의 치근단 주위염(Apical Periodontitis, AP) 임상·방사선 소견과 4가지 치료 시나리오를 통합하는 새 8범주 진단 분류(치수활력·타진·방사선 PDL 상태 조합)를 제안.
+
+성인 AP 전세계 유병률 약 52%(2021 메타분석); 치수염+AP 경우 생활치수요법(Vital Pulp Therapy, VPT) 성공률 92%, 전체 10년 생존율 99%로, VPT를 근관치료(Root Canal Treatment, RCT) 대신 1차 치료로 권고.
+
+"가역·비가역 치수염" 용어 폐기와 생활치수 보존 패러다임 전환을 주장하나, 생활치 AP의 병태생리는 근거가 미성숙하고 서술적 종설 설계로 권고 강도가 제한됨.
 
 ## 1. Document Information
 

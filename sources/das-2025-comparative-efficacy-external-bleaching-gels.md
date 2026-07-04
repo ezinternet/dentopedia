@@ -15,13 +15,21 @@ text_filename: das-2025-comparative-efficacy-external-bleaching-gels.txt
 
 Provides a comparative summary of CP vs HP bleaching gel efficacy and sensitivity (ΔE and ΔSGU outcomes) needed to contextualize the concentration NMA findings — extends the evidence base in [[tooth-whitening/terra-2025-at-home-bleaching-concentration-tooth-sensitivity]] by including a head-to-head agent comparison with GRADE quality-of-evidence rating.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PROSPERO CRD42023483434) comparing HP vs CP external bleaching gels found carbamide peroxide superior by ΔE but equivalent by ΔSGU; both have moderate-quality evidence for sensitivity outcomes; higher-concentration CP showed less sensitivity than higher-concentration HP.
+Systematic review (PROSPERO CRD42023483434) of HP vs CP external bleaching gels; databases searched through August 2024 with two independent reviewers applying GRADE.
 
-## 한줄요약
+CP gels were superior on ΔE (spectrophotometric color change) but equivalent to HP on ΔSGU; higher-concentration CP produced less tooth sensitivity than higher-concentration HP; quality of evidence moderate for both outcomes.
 
-CP 대 HP 외부 미백 겔을 비교한 SR에서 CP가 ΔE에서 우수했고 ΔSGU는 동등했으며, 고농도 CP는 고농도 HP보다 민감도가 낮았다(근거 수준: 중등도).
+Clinical implication: CP is preferable for sensitivity-prone patients; higher-concentration CP is a better choice than high-concentration HP; definitive conclusions on longevity are limited by absence of meta-analysis.
+
+## 세줄요약
+
+체계적 문헌고찰(PROSPERO CRD42023483434): HP 대 CP 외부 미백 겔을 2024년 8월까지 검색, 독립 두 검토자, GRADE 근거 수준 평가 적용.
+
+CP 겔이 ΔE(분광측광 색차)에서 우월했으나 ΔSGU(색조 단위 변화)에서는 동등; 고농도 CP는 고농도 HP보다 민감도가 낮았으며 두 지표 모두 근거 수준 중등도.
+
+민감도가 높은 환자에게는 CP가 우선 선택이며, 고농도 선택 시 CP가 HP보다 유리; 미백 지속성 결론은 메타분석 부재로 제한됨.
 
 ## 1. Document Information
 

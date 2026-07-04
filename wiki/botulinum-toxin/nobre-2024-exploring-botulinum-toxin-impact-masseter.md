@@ -14,11 +14,21 @@ source_collection: external
 tags: [masseter-hypertrophy, masseter, masticatory-performance, ultrasound, emg, adverse-effects, abobotulinumtoxinA, aesthetic, functional-loss]
 ---
 
-## One-line Summary
-Triple-blinded RCT (n=26 women) on masseter hypertrophy: a single 75 U abobotulinumtoxinA injection per masseter caused transient thinning and EMG suppression that recovered by 6 months, whereas a second injection produced persistent masseter thinning and EMG suppression (p<0.05) without additional aesthetic (Merz) benefit, while masticatory performance was impaired in both groups — multiple injections add functional cost without incremental cosmetic gain.
+## Three-line Summary
 
-## 한줄요약
-교근비대에 보툴리눔 A 주사는 효과적이나 반복 주사 시 교근 두께·EMG 활성·저작효율의 지속적 저하가 발생함을 보인 삼중맹검 RCT (n=26).
+Triple-blinded RCT (n=26 Brazilian women, ages 25–50, Merz II–V) receiving 75 U abobotulinumtoxinA per masseter at baseline; at 3 months randomized to second BoNT-A (G2, n=12) vs saline (G1, n=10), with masseter US thickness, surface EMG, masticatory performance (ViewGum colorimetric VOH), and Merz prominence tracked to 6 months.
+
+A single injection caused transient masseter thinning and EMG suppression that recovered by 6 months; a second injection produced persistent left-masseter thinning (G2 < G1 at 6 mo, p<0.02) and sustained EMG suppression bilaterally (p<0.005 right, p<0.044 left) without any additional Merz aesthetic benefit beyond month 1; masticatory performance (VOH) was significantly worse than baseline in both groups at every follow-up (p<0.03).
+
+Clinical implication: single low-dose session is the rational default for aesthetic masseter hypertrophy — the second injection adds persistent functional cost (muscle atrophy, chewing impairment) without incremental cosmetic gain; counsel patients on masticatory efficiency loss before any injection, and pair with the temporalis companion paper when discussing whole-system trade-offs.
+
+## 세줄요약
+
+삼중맹검 RCT(n=26 브라질 여성, Merz II–V) — baseline 양측 교근 75U abobotulinumtoxinA 주사 후 3개월째 재주사(G2) vs 생리식염수(G1) 무작위 배정; 교근 두께(초음파), EMG, 저작효율(ViewGum VOH), Merz 돌출도를 6개월까지 추적.
+
+단회 주사는 교근 두께·EMG를 일시적으로 감소시켰다 6개월에 회복; 재주사는 좌측 교근 두께 지속 감소(G2 < G1, p<0.02) 및 양측 EMG 지속 억제(오른쪽 p<0.005, 왼쪽 p<0.044)를 유발했으나 Merz 미적 개선은 1개월 이후 G1과 동등; 양 군 모두 전 추적 시점에서 저작효율(VOH) 유의 저하(p<0.03).
+
+임상 의미: 미용 목적 교근비대에는 단회 저용량이 합리적 기본 전략 — 재주사는 미적 추가 이득 없이 기능 비용(근위축·저작장애)만 더함; 모든 환자에게 주사 전 저작효율 저하를 상담하고 측두근 동반 논문과 함께 교합계 전체 영향을 설명해야 함.
 
 ## Summary
 Companion paper to [[botulinum-toxin/de-souza-nobre-2024-temporalis-muscle-changes-following]] — same 26-woman cohort, same protocol, same randomization. This paper reports the masseter-side primary outcomes (thickness, EMG, masticatory performance, prominence).

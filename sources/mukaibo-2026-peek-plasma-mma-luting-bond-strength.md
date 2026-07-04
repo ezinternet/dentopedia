@@ -17,13 +17,23 @@ text_filename: mukaibo-2026-peek-plasma-mma-luting-bond-strength.txt
 
 Super-Bond(4-META/MMA-TBB계 레진시멘트)의 적응증을 현대 CAD-CAM 보철 기질로 확장하는 근거. PEEK는 화학적으로 불활성이라 접착이 어렵고, 표면처리(알루미나 샌드블라스팅 + 비열 플라즈마)가 결합강도·내구성에 미치는 영향을 SBS로 직접 평가한 in-vitro 연구. Super-Bond가 두 MMA계 luting system 중 하나(SB)로 직접 시험됨. 어떤 기능성 모노머/접착 화학이 어떤 기질에 작동하는가라는 질문에서, 4-META/MMA-TBB 화학과 표면처리의 상보성을 보여줘 [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] (functional-monomer 기술 리뷰)와 [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]] (MMA/adhesive-monomer → substrate 형제 페이지)를 임플란트·금속 외 substrate로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro SBS study (CAD-CAM PEEK, 244 specimens, n=10/group) showing alumina airborne-particle abrasion + non-thermal plasma treatment, combined with MMA-based luting systems (Beautylink BL and Super-Bond SB), gives superior or comparable shear bond strength and markedly improved post-thermocycling (20,000×) durability vs single treatments; AB drives durability for SB, plasma adds wettability/durability especially for BL.
 
-## 한줄요약
+In-vitro SBS study (CAD-CAM PEEK, 244 specimens, n=10/group) showing alumina airborne-particle abrasion + non-thermal plasma treatment, combined with MMA-based luting systems (Beautylink BL and Super-Bond SB), gives superior or comparable shear bond strength and markedly improved post-thermocycling (20,000×) durability vs single treatments;
+
+AB drives durability for SB, plasma adds wettability/durability especially for BL.
+
+(incomplete)
+
+## 세줄요약
+
 
 In-vitro 전단결합강도(SBS) 연구(CAD-CAM PEEK 244개, 군당 n=10): 알루미나 샌드블라스팅(AB) 후 비열 플라즈마(PT) 병용 + MMA계 레진시멘트(Beautylink·Super-Bond)가 단일 처리보다 우월하거나 동등한 결합강도와 2만회 열순환 후 향상된 내구성을 보임 — Super-Bond는 AB가 내구성의 주역, Beautylink는 플라즈마가 젖음성·내구성에 기여.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

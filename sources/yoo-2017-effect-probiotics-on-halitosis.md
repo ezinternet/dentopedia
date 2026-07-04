@@ -13,13 +13,23 @@ source_collection: external
 
 구취 임상 관리에서 프로바이오틱스의 효과가 기존 연구마다 상이하여, 이를 종합한 SR+MA가 필요한 상황. 본 리뷰는 OLT 점수(기관능관능 평가)와 VSC(휘발성 황화합물) 두 지표를 메타분석하여 프로바이오틱스의 구취 억제 효과를 정량화한 최초의 SR+MA 중 하나임. [[wiki/halitosis/jkda-2022-60-4-001]] 페이지의 한국 구취 클리닉 코호트와 대비하여 치료 효과 근거를 제공함.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 3 RCTs (2017): probiotics (mainly Lactobacillus) significantly reduce organoleptic halitosis scores (SMD −1.93) but do not significantly lower volatile sulfur compound concentrations (SMD −0.02).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (RCT 3편, 2017): 프로바이오틱스(주로 Lactobacillus)는 기관능관능 구취 점수를 유의하게 낮추나(SMD −1.93), VSC 농도에는 유의한 차이 없음(SMD −0.02).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

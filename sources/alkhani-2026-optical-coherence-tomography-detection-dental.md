@@ -17,13 +17,21 @@ text_filename: alkhani-2026-optical-coherence-tomography-detection-dental.txt
 
 VRF/crack diagnosis in the wiki is currently anchored on radiographs, CBCT, and clinical adjuncts (transillumination, QLF, dye) as covered in [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] and [[cracked-tooth/kindaro-2025-diagnostic-accuracy-detect-cracked-teeth]]; this scoping review adds a distinct, non-ionizing imaging modality (OCT) that has not been represented in the wiki, mapping its diagnostic accuracy (sensitivity 83%–98%, specificity 63%–100%) and — critically — its current technical barrier (1–3 mm penetration depth) that explains why OCT still cannot substitute CBCT as the reference standard for VRF diagnosis.
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR, 10 in-vitro studies, 2008–2021, n=6–80 teeth per study) of optical coherence tomography (OCT) for detecting dental cracks and vertical root fractures (VRF); OCT showed sensitivity 83%–98% and specificity 63%–100%, offering non-ionizing, real-time, high-resolution imaging, but limited penetration depth (1–3 mm) and lack of intraoral/root-canal-compatible probe design currently restrict it to laboratory use, well short of replacing CBCT.
+Scoping review (PRISMA-ScR, 5 databases + grey literature, 10 in-vitro studies, 2008–2021, n=6–80 teeth per study) of optical coherence tomography (OCT) for detecting dental cracks and vertical root fractures (VRF) across TD-OCT, SD-OCT, and SS-OCT systems.
 
-## 한줄요약
+OCT showed sensitivity 83%–98% and specificity 63%–100%, outperforming visual inspection and transillumination in head-to-head comparisons; the two delivery approaches (catheter-based intracanal vs. non-invasive crown scanning) differ in penetration depth and procedural invasiveness.
 
-Scoping review(PRISMA-ScR, in-vitro 연구 10편, 2008–2021, 연구당 n=6–80치아)로 치아 균열 및 수직치근파절(Vertical Root Fracture, VRF) 검출을 위한 광간섭단층촬영(Optical Coherence Tomography, OCT)의 진단능을 종합; 민감도 83%–98%, 특이도 63%–100%로 비방사선·실시간·고해상도 영상이라는 장점이 있으나, 침투 깊이 한계(1–3mm)와 근관 내 삽입 가능한 프로브 설계 부재로 현재는 실험실 연구 단계에 머물러 있어 CBCT를 대체하기엔 이르다.
+OCT offers promising non-ionizing, high-resolution crack detection, but a 1–3 mm penetration depth limit and absence of intraoral/root-canal-compatible probe designs currently confine it to laboratory use — all 10 studies were in-vitro, and no in-vivo clinical data exist to support chairside implementation over CBCT.
+
+## 세줄요약
+
+Scoping review(PRISMA-ScR, 5개 DB + 회색문헌, in-vitro 연구 10편, 2008–2021, 연구당 n=6–80치아): TD-OCT·SD-OCT·SS-OCT 등 시스템별로 치아 균열 및 수직치근파절(VRF) 검출을 위한 광간섭단층촬영(OCT) 진단능 종합.
+
+민감도 83%–98%, 특이도 63%–100%; 시각 검사·투조법 대비 우수; 근관 내 카테터 방식 vs 비침습 치관 스캔 방식으로 이원화됨.
+
+비방사선·고해상도 균열 검출의 가능성이 있으나, 침투 깊이 1–3mm 한계와 구강 내 삽입 가능한 프로브 부재로 현재 실험실 연구 단계에 머물러 있음 — 10편 모두 in-vitro 연구이며 in-vivo 임상 데이터 부재로 CBCT 대체는 시기상조.
 
 ## 1. Document Information
 

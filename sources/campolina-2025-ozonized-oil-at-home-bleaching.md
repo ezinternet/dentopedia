@@ -16,13 +16,21 @@ text_filename: campolina-2025-ozonized-oil-at-home-bleaching.txt
 
 Ozone therapy is an emerging adjunct in dentistry (anti-inflammatory, antioxidant, analgesic) and this is the first RCT testing ozonized oil as a desensitizer during at-home bleaching — directly addresses the sensitivity limitation raised in [[tooth-whitening/terra-2025-at-home-bleaching-concentration-tooth-sensitivity]]. Negative result with important clinical message: ozonized oil does not reduce bleaching-induced sensitivity and has poor patient acceptance.
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=40) found ozonized sunflower oil applied after 10% HP at-home bleaching did not reduce tooth sensitivity (p=0.536) or improve color change; patients reported unpleasant taste and odor.
+Double-blind parallel RCT (n=40; ozonized sunflower oil n=20 vs non-ozonized placebo n=20) evaluating ozonized oil as a post-bleaching desensitizer applied for 1 min/day after 10% hydrogen peroxide at-home bleaching over 21 days.
 
-## 한줄요약
+Ozonized oil did not reduce tooth sensitivity intensity (VAS, p=0.536) or duration (p=0.256) versus placebo, produced equivalent whitening outcomes, and resulted in significantly worse taste (p=0.002) and odor ratings (p=0.010) compared with non-ozonized oil.
 
-이중맹검 RCT(n=40)에서 오존화 해바라기유는 10% HP 재가 미백 시 치아 민감도를 감소시키지 못했고(p=0.536) 불쾌한 맛·냄새로 환자 수용도가 낮았다.
+Ozone delivered via oil vehicle lacks the analgesic effect seen with ozone gas in in-office studies; ozonized oil cannot be recommended as a desensitizing adjunct for at-home bleaching given poor efficacy and patient acceptance.
+
+## 세줄요약
+
+이중맹검 병렬 RCT (n=40): 오존화 해바라기유(n=20)를 10% 과산화수소(HP) 재가 미백 후 1분 도포, 21일간 비오존화 위약(n=20)과 비교.
+
+오존화유는 치아 민감도 강도(VAS, p=0.536) 및 지속기간(p=0.256)을 감소시키지 못했고 미백 효과도 동등했으나, 맛(p=0.002)·냄새(p=0.010) 평가에서 유의하게 불량한 환자 수용도를 보였다.
+
+오일 매개체를 통한 오존 전달은 오존 가스의 진통 효과를 재현하지 못하므로, 재가 미백 탈감제로 오존화유는 효능·수용도 모두 불량하여 권고하기 어렵다.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA of mandibular premolar implant models shows cementless screw-retained (base abutment + titanium link screw) zirconia crowns produce substantially lower implant and bone stress than conventional cement-retained crowns under both vertical and oblique loading.
+3D FEA (2 mandibular premolar implant models, 100 N vertical and 30° oblique loading) comparing conventional cement-retained vs novel cementless screw-retained ("screw-in-screw") zirconia crowns.
 
-## 한줄요약
+Cementless screw-retained produced ~60% lower implant stress vertically (26.3 vs 65.3 MPa) and ~71% lower bone stress (9.97 vs 34.04 MPa); advantages were maintained under oblique loading (−28% implant, −61% bone stress).
 
-하악 소구치 임플란트 3D 유한요소분석에서 신형 시멘트-프리 나사유지형(베이스 어버트먼트+링크 스크류) 지르코니아 크라운이 기존 시멘트 유지형보다 임플란트 및 골 응력을 수직·사방 부하 모두에서 현저히 낮게 보임.
+The cementless design eliminates residual cement risk while simultaneously reducing implant and bone stress; its null hypothesis of no difference between retention types was rejected under all loading conditions.
+
+## 세줄요약
+
+기존 시멘트 유지형과 신형 시멘트-프리 나사유지형("스크류-인-스크류") 지르코니아 크라운을 비교한 하악 소구치 임플란트 3D 유한요소분석(FEA)(100 N 수직·30° 사방 하중).
+
+시멘트-프리 나사유지형이 수직 하중 시 임플란트 응력 약 60% 감소(26.3 vs 65.3 MPa), 골 응력 약 71% 감소(9.97 vs 34.04 MPa); 사방 하중에서도 임플란트 −28%, 골 −61%.
+
+시멘트 잔류 위험 없이 임플란트·골 응력을 동시에 감소시키는 설계로, 모든 하중 조건에서 귀무가설(두 유지 방식 간 차이 없음)이 기각됨.
 
 ## Summary
 

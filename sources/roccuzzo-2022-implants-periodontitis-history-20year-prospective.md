@@ -9,7 +9,7 @@ pdf_filename: roccuzzo-2022-implants-periodontitis-history-20year-prospective.pd
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 치주염 병력 유무에 따른 임플란트 20년 전향적 연구: 생존율, MBL, 치주염 병력의 영향.
 
 ## 1. Document Information

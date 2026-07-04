@@ -17,13 +17,21 @@ text_filename: badahdah-2025-dental-water-jet-plaque-gingivitis-sr.txt
 
 Existing water-jet evidence in the wiki splits by population: [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] covers only orthodontic patients, and [[interdental-cleaning/mohapatra-2024-water-flosser-vs-floss-plaque-sr]] pools regular adults on plaque. This SR+MA spans BOTH regular AND orthodontic patients in one analysis with subgroup stratification by comparator (vs floss / vs brushing-alone) and by time (short/intermediate/long), giving a single contextual anchor that resolves where the device adds value. It also directly disputes Mohapatra's PI-superiority claim (attributing it to no-follow-up before/after assessments), and aligns with the orthodontic emphasis — a useful tension/agreement node for the [[overviews/interdental-cleaning-devices-synthesis]] page.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (18 RCTs, 15 in MA, n≈1005) of water jet (WJ) adjunct to manual brushing vs floss or brushing-alone in regular and orthodontic patients: WJ gives slight, time/population-dependent BI and GI benefits (moderate certainty for bleeding), no consistent plaque advantage, with benefits more pronounced vs brushing-alone than vs floss and in orthodontic patients.
+SR+MA (18 RCTs, 15 in MA, n≈1005; PROSPERO-registered; Cochrane RoB 2 + GRADE) spanning both regular and orthodontic patients, comparing water jet (WJ) + manual brushing vs floss or brushing-alone, with time-stratified subgroups (2–3 wk / 4–6 wk / >6 wk).
 
-## 한줄요약
+WJ showed slight time- and population-dependent bleeding index (BI) and gingival index (GI) benefits (moderate certainty for BI vs floss at 4–6 wk); no consistent plaque index advantage was found; benefits were more pronounced vs brushing-alone than vs floss, and in orthodontic vs regular patients.
 
-체계적 문헌고찰+메타분석(RCT 18편, MA 15편, n≈1005) — 물제트(WJ)를 칫솔질에 추가 시, 치실/칫솔질-단독 대비 출혈지수·치은지수에서 시기·인구집단에 따라 약간의 이득(출혈은 중등도 근거)을 보이나 치면세균막 감소엔 일관된 우위 없음. 이득은 치실보다 '칫솔질 단독' 대비, 그리고 일반환자보다 교정환자에서 더 뚜렷함.
+WJ is a useful adjunct for bleeding reduction (especially in orthodontic patients) but is not a replacement for brushing; most benefits are short-to-intermediate term and the evidence quality is low-to-very-low for plaque and GI.
+
+## 세줄요약
+
+SR+MA(RCT 18편, MA 15편, n≈1005; PROSPERO 등록; Cochrane RoB 2+GRADE) — 일반환자·교정환자 양쪽을 포함하여 물제트(WJ)+칫솔질 vs 치실/칫솔질 단독 비교, 기간별 하위분석(2–3주/4–6주/>6주) 포함.
+
+WJ는 출혈지수(BI)·치은지수(GI)에서 시기·집단 의존적 소폭 이득(치실 대비 4–6주 BI는 중등도 근거); 치면세균막지수(PI) 일관 우위 없음; 이득은 치실 대비보다 '칫솔질 단독' 대비에서, 일반환자보다 교정환자에서 더 뚜렷.
+
+WJ는 출혈 감소 보조기구로 유용(특히 교정환자)하나 칫솔질 대체 불가 — PI·GI 근거수준 낮음~매우낮음, 단기~중간기 이득 위주.
 
 ## 1. Document Information
 

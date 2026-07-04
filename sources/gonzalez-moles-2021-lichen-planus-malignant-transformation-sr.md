@@ -9,7 +9,7 @@ pdf_filename: gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 OLP 악성전환을 보고한 고품질 연구만 선별 분석: 진정한 OLP-to-SCC 전환율 추정.
 
 ## 1. Document Information

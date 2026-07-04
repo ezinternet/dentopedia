@@ -17,11 +17,21 @@ text_filename: yalcinkaya-2026-degree-conversion-luting-hybrid-ceramic.txt
 
 기존 [[resin-bonding/li-2025-curing-modes-dual-cure-dentin]]는 dual-cure resin cement의 광중합 vs 자가중합 curing mode가 dentin 접착에 미치는 영향을 다뤘는데, 본 논문(Yalçinkaya Cengiz 2026)은 같은 dual-cure resin cement의 degree of conversion 질문을 CAD/CAM hybrid ceramic 수복물 두께(1.5/2.0/2.5mm)라는 광투과 제약 변수로 확장하고, dual-cure resin cement를 flowable composite·bulk-fill composite와 직접 비교한다는 점에서 luting material 선택 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro FTIR study (n=7 per group, 63 specimens total) evaluating degree of conversion of dual-cure resin cement, flowable composite, and bulk-fill composite polymerized beneath hybrid ceramic (Cerasmart) CAD/CAM substrates at 1.5/2.0/2.5 mm thicknesses, finding flowable composite had the highest DC at ≤2.0 mm but the lowest at 2.5 mm, while dual-cure resin cement gave the most stable DC across all thicknesses and the highest DC at 2.5 mm.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro FTIR 연구(그룹당 n=7, 총 63개 시편) — hybrid ceramic(Cerasmart) CAD/CAM 기판 두께(1.5/2.0/2.5mm) 아래에서 중합된 dual-cure resin cement·flowable composite·bulk-fill composite의 degree of conversion 비교: flowable composite가 ≤2.0mm에서는 DC 최고이나 2.5mm에서는 최저, dual-cure resin cement는 전 두께에서 가장 안정적이며 2.5mm에서 DC 최고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: BMC Oral Health, volume 26, issue 1 (2026)

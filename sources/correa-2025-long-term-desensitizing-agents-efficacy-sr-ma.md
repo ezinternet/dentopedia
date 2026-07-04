@@ -16,13 +16,21 @@ text_filename: correa-2025-long-term-desensitizing-agents-efficacy-sr-ma.txt
 
 지각과민(DH) **치료법의 장기(≥6개월) 효능을 작용기전별로 순위화**한 SR+MA — 기전·진단을 다룬 종설([[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]], [[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]])에 빠져 있던 "어느 치료가 오래 가는가"의 정량 근거를 보완. 레이저 단독 SR-MA([[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]])를 전(全) 제제 비교로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (22 studies / 15 meta-analyzed; RCTs, ≥6-month follow-up, 1991–2024): for long-term dentin-hypersensitivity relief, glutaraldehyde and low-level laser therapy achieved the largest effect sizes, whereas adhesive systems and calcium-phosphate–based agents showed no statistically significant long-term benefit (abstract-only).
+SR+MA (PROSPERO CRD42020210693; 22 studies in SR, 15 meta-analyzed; RCTs with ≥6-month follow-up for dentin hypersensitivity in adults; 1991–2024; 6 databases; outcome: bias-corrected standardized mean change in pain intensity).
 
-## 한줄요약
+Glutaraldehyde (Gluma-type) and low-level laser therapy (LLLT) produced the largest long-term effect sizes for dentin-hypersensitivity relief; adhesive systems and calcium-phosphate–based agents (e.g., CPP-ACP) showed no statistically significant long-term benefit.
 
-SR+MA(22편/메타 15편, RCT·최소 6개월 추적, 1991–2024): 지각과민 장기 완화에서 **글루타르알데히드(Gluma 계열)와 저출력 레이저(LLLT)가 최대 효과크기**, 반면 **접착시스템·칼슘인산염계는 통계적으로 유의한 장기 효과 없음** (초록 기반).
+Glutaraldehyde or LLLT should be preferred when durable (≥6-month) relief is the clinical goal; adhesives and calcium-phosphate agents should not be assumed to provide sustained relief; findings are limited by abstract-only ingest (exact SMC values and heterogeneity data not captured).
+
+## 세줄요약
+
+SR+MA(PROSPERO CRD42020210693; SR 22편·메타분석 15편; 성인 상아질 지각과민(DH) RCT·최소 6개월 추적; 1991–2024; 6개 데이터베이스; 결과: 통증강도 편향보정 표준화 평균 변화량).
+
+글루타르알데히드(Gluma 계열)와 저출력 레이저(LLLT)가 장기 지각과민 완화에서 최대 효과크기; 접착시스템·칼슘인산염계(CPP-ACP 등)는 장기 추적에서 통계적으로 유의한 효과 없음.
+
+6개월 이상 지속적 완화가 목표일 때 글루타르알데히드 또는 LLLT 우선 권고; 접착제·칼슘인산염계의 장기 효과는 가정 불가; 초록만 수집된 논문으로 정확한 SMC 수치·이질성 상세 데이터 미확인.
 
 ## 1. Document Information
 

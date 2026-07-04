@@ -22,13 +22,21 @@ relations:
     target: yassir-2022-cat-vs-fat-overview-systematic-reviews
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR) of 4 retrospective CBCT studies: after clear-aligner treatment, condylar position and joint spaces stay largely unchanged in adult Class I (extraction + non-extraction) and Class II non-extraction; Class II div 2 non-extraction shows forward condylar repositioning; adolescent Class II div 1 functional aligners show growth-driven changes. All 4 studies serious RoB (ROBINS-I) — evidence exploratory, not confirmatory.
+PRISMA-ScR scoping review (6 databases, 320 records → 4 retrospective CBCT comparative studies; all from China, 2023–2025; ROBINS-I risk of bias) mapping TMJ morphological and positional changes after clear-aligner orthodontic treatment — the first scoping review dedicated to this question.
 
-## 한줄요약
+In adults, clear aligner treatment produced no significant change in condylar position or joint spaces in skeletal Class I (extraction + non-extraction) and Class II non-extraction; Class II division 2 showed forward condylar repositioning (posterior fraction 61%→14%) in both aligner and fixed groups; adolescent Class II division 1 functional aligners produced growth-driven condylar-dimension and fossa changes comparable to Twin Block.
 
-CBCT 후향 4편 scoping review(PRISMA-ScR): 클리어 얼라이너 치료 후 성인 Class I(발치·비발치)·Class II 비발치는 과두 위치·관절강 거의 변화 없음. Class II div 2 비발치는 과두 전방 재위치, 청소년 Class II div 1 기능성 얼라이너는 성장 관련 변화. 4편 모두 serious RoB → 탐색적 근거.
+Current CBCT evidence is reassuring for routine adult Class I and Class II non-extraction aligner cases, but all 4 studies carry serious risk of bias, no RCTs exist, no clinical TMD outcomes were measured — findings are exploratory only.
+
+## 세줄요약
+
+PRISMA-ScR scoping review (6개 데이터베이스, 320건 → 후향 CBCT 비교연구 4편; 모두 중국, 2023–2025; ROBINS-I): 투명교정 후 TMJ 형태·위치 변화를 다룬 최초 scoping review.
+
+성인에서 투명교정 후 골격성 Class I(발치·비발치)·Class II 비발치에서 과두 위치·관절강 거의 변화 없음; Class II div 2는 투명교정·고정장치 모두 과두 전방 재위치(후방 분율 61%→14%); 청소년 Class II div 1 기능성 투명교정은 트윈블록과 유사한 성장 기반 과두 변화.
+
+일상적 성인 Class I·Class II 비발치 투명교정 케이스에서 CBCT 근거는 안심할 만하나, 4편 모두 serious 비뚤림 위험, RCT 없음, 임상 TMD 지표 없음 — 탐색적 근거에 불과.
 
 ## Summary
 

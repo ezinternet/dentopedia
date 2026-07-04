@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Narrative consensus review (Korean Academy of Periodontology, J Periodontal Implant Sci 2024) on peri-implant diseases: peri-implant mucositis prevalence 43%, peri-implantitis 22%; key risk indicators are poor oral hygiene, periodontitis history, diabetes, and smoking; treatment hierarchy is non-surgical for mucositis and mechanical/chemical debridement plus surgical access for peri-implantitis, with removal and reconstruction for failed implants.
+## Three-line Summary
 
-## 한줄요약
-대한치주과학회 합의안 narrative review (J Periodontal Implant Sci 2024): peri-implant mucositis 43% + peri-implantitis 22% 유병률. 위험인자: 구강위생 불량, periodontitis 병력, 당뇨, 흡연. 치료: mucositis는 비외과, peri-implantitis는 mechanical+chemical debridement + 외과 access; 실패한 implant는 제거 후 결손 복원. 한국 임상 가이드 정리.
+Narrative consensus review (Korean Academy of Periodontology, J Periodontal Implant Sci 2024) synthesizing definition, prevalence, risk factors, diagnosis, and treatment of peri-implant diseases for Korean clinicians.
+
+Peri-implant mucositis prevalence 43%, peri-implantitis 22%; key risk indicators: poor oral hygiene, periodontitis history, diabetes, and smoking; prosthesis design and soft-tissue condition also influence outcomes.
+
+Treatment hierarchy: non-surgical for mucositis; mechanical/chemical debridement ± surgical access for peri-implantitis; implant removal + defect reconstruction for failed implants; SPT is critical throughout.
+
+## 세줄요약
+
+대한치주과학회 합의안 서술적 고찰(J Periodontal Implant Sci 2024): 임플란트 주위 질환의 정의·유병률·위험인자·진단·치료를 한국 임상가를 위해 종합.
+
+임플란트 주위 점막염 43%, 임플란트 주위염 22%; 주요 위험인자: 구강위생 불량·치주염 병력·당뇨·흡연; 보철 디자인과 연조직 상태도 예후에 영향.
+
+치료 단계: 점막염은 비외과, 임플란트 주위염은 mechanical/chemical debridement ± 외과적 접근; 실패 임플란트는 제거 후 결손 복원; SPT가 전 단계에 필수.
 
 ## Summary
 Narrative review backing the Korean Academy of Periodontology consensus report on peri-implant diseases. Covers definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.

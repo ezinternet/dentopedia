@@ -16,13 +16,23 @@ text_filename: eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.txt
 
 This assessor-blinded RCT (80 implants / 26 patients, 5 arms, 6 mo) reinforces the in-vitro biofilm-removal finding [[wiki/implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol]] with clinical short-term outcomes for air-powder abrasion, and complements the adjunctive-therapy synthesis in [[wiki/implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]]. It directly tests whether common nonsurgical adjuncts (CHX, ozone, glycine powder air abrasion) add benefit over mechanical instrumentation alone in early peri-implantitis.
 
-## One-line Summary
+## Three-line Summary
+
 
 Assessor-blinded multi-arm RCT (80 implants, 26 patients, 5 nonsurgical arms, 6 mo): all modalities improved PPD/BOP/plaque, with glycine powder air abrasion + mechanical instrumentation giving the greatest numerical reductions, but NO statistically significant between-group differences.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 평가자-맹검 다군 RCT (임플란트 80개, 환자 26명, 비외과 5군, 6개월): 모든 방법이 PPD·BOP·치태를 개선했고 글리신 분말 에어아브레이전+기계적 기구조작이 수치상 가장 큰 감소를 보였으나, 군 간 통계적 유의차는 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

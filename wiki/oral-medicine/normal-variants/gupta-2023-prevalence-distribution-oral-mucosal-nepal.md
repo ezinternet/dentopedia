@@ -17,13 +17,21 @@ text_filename: gupta-2023-prevalence-distribution-oral-mucosal-nepal.txt
 tags: [fordyce-granules, linea-alba, normal-variant, oral-mucosal-lesions, epidemiology]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=16,572 Nepalese dental OPD patients) found 21.08% had oral mucosal lesions and 13.96% had benign normal variants — most commonly frictional keratosis, linea alba, and Fordyce's granules — overwhelmingly located on the buccal mucosa.
+Retrospective cross-sectional record review (n=16,572 outpatient dental records, Lalitpur Nepal tertiary hospital, 2016–2019; WHO-guide-based diagnosis) establishing the first population-level prevalence baseline for oral mucosal lesions (OMLs) and benign normal variants in this population.
 
-## 한줄요약
+21.08% had an OML; 13.96% had a benign normal variant — most commonly frictional keratosis, linea alba (교흔), and Fordyce's granules (포다이스 그래뉼, 8.84% overall); 80.10% of all normal variants were located on the buccal mucosa.
 
-네팔 치과 외래환자 16,572명 단면연구에서 구강점막병소 21.08%, 양성 정상 변이 13.96%가 관찰되었고, 마찰성 각화증·교흔(linea alba)·포다이스 그래뉼이 가장 흔한 정상 변이였으며 대부분 협점막(buccal mucosa)에 위치했다.
+Cross-population Fordyce's granule prevalence varies enormously (1.2–82.8% across studies) — clinicians should recognize the lesion pattern as benign rather than calibrating against a single global prevalence figure; buccal mucosa dominance underscores its role in differentiating normal variants from potentially malignant buccal lesions.
+
+## 세줄요약
+
+네팔 라릿푸르 3차 치과병원 외래 환자 16,572명 후향적 단면 기록 검토(2016–2019년; WHO 진단 가이드 기반) — 네팔 최초 구강점막병소·정상 변이 인구 기반 유병률 기준선 수립.
+
+구강점막병소(OML) 21.08%; 양성 정상 변이 13.96% — 가장 흔한 정상 변이: 마찰성 각화증·교흔(linea alba)·포다이스 그래뉼(8.84%); 정상 변이의 80.10%가 협점막(buccal mucosa)에 위치.
+
+포다이스 그래뉼 유병률은 연구 간 1.2–82.8%로 극변동 — 단일 글로벌 기준치보다 병소 패턴 인식이 중요; 협점막 집중은 잠재악성 협점막 병소와의 감별에서 위치 정보의 중요성 강조.
 
 ## Summary
 

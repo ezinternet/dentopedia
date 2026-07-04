@@ -17,13 +17,21 @@ text_filename: cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr.tx
 
 Existing clear-aligner FEA/biomechanics coverage was anchored on [[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] (single design variable — trimline extension). This 2025 SR is the first to systematically map the *whole* CA biomechanics literature simulated by FEA (29 studies) across all three movement directions and every auxiliary class (attachments, power ridges, divots, intermaxillary elastics, membrane thickness/composition). It extends the trimline-focused review into a full FEA biomechanics atlas and supplies the mechanistic "uneven crown-vs-root stress → torque → side effect → auxiliary counterbalance" framework that underlies aligner attachment and biomechanics pages.
 
-## One-line Summary
+## Three-line Summary
 
-PROSPERO-registered systematic review of 29 FEA studies of clear-aligner biomechanics: all CA side effects (roller-coaster effect, anchorage loss, tipping, rotation) stem from uneven crown-vs-root stress distribution, and auxiliaries (attachments, power ridges, divots, intermaxillary elastics, membrane thickness) are designed to rebalance stress and convert tipping into translation; CA exerts up to 8-11× PDL pressure on anchorage teeth vs fixed appliances during extraction-space closure.
+PROSPERO-registered systematic review (29 FEA studies; 18 mesiodistal, 13 buccolingual, 8 occlusal movement studies; graded SBU/CRD "B" for all) mapping the entire FEA-simulated clear-aligner biomechanics literature across all movement directions and auxiliary classes.
 
-## 한줄요약
+All characteristic clear-aligner side effects (roller-coaster effect, anchorage loss, tipping, rotation) arise from inherent crown-vs-root stress imbalance as aligners contact only crowns; auxiliaries (attachments, power ridges, divots, intermaxillary elastics, membrane thickness/layering) rebalance PDL stress to convert tipping into translation; clear aligners exert up to 8–11× higher PDL pressure on anchorage teeth than fixed appliances during extraction-space closure.
 
-29편 FEA 연구를 모은 PROSPERO 등록 체계적 문헌고찰: 투명교정장치 (Clear Aligner, CA)의 모든 부작용(롤러코스터 효과, 고정원 손실, 경사이동, 회전)은 치관-치근 간 불균등 응력 분포에서 비롯되며, 보조장치(어태치먼트, 파워릿지, 디봇, 악간고무, 멤브레인 두께)는 응력을 재균형화해 경사이동을 평행이동으로 바꾸는 역할을 한다; 발치공간 폐쇄 시 CA는 고정성 장치 대비 치주인대에 최대 8-11배 압력을 가한다.
+Clinicians must pair clear-aligner treatment with appropriately selected auxiliaries to counteract biomechanical side effects; the high anchorage-tooth PDL load during extraction cases requires careful planning to avoid periodontal harm.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 문헌고찰(29편 유한요소해석(FEA, Finite Element Analysis) 연구; 근원심·협설·수직 이동 방향별 분류; SBU/CRD 기준 전편 "B" 등급): 투명교정장치(CA, Clear Aligner) 전체 FEA 생역학 문헌 지도.
+
+모든 CA 부작용(롤러코스터 효과, 고정원 손실, 경사이동, 회전)은 치관 접촉만으로 힘을 전달하는 구조적 특성에서 비롯된 치관-치근 간 불균등 응력에 기인; 보조장치(어태치먼트·파워릿지·디봇·악간고무·멤브레인 두께·다층 구조)는 응력을 재균형화해 경사이동을 평행이동으로 변환; 발치공간 폐쇄 시 CA는 고정성 장치 대비 치주인대(PDL)에 최대 8~11배 압력.
+
+CA 치료 시 생역학적 부작용을 상쇄하기 위한 적절한 보조장치 선택이 필수이며, 발치 증례의 고정원 치아 PDL 고부하는 치주 손상을 막기 위한 신중한 계획을 요구한다.
 
 ## 1. Document Information
 

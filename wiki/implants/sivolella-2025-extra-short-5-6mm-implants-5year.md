@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective 5-year follow-up of extra-short (5–6 mm) posterior implants (56 implants, 34 patients): overall survival 89% (immediate loading 94% vs conventional 87%), with immediate loading associated with higher MBL (+0.21 mm, p=0.02) and intermediate abutment use with lower MBL (−0.23 mm, p=0.003).
+## Three-line Summary
 
-## 한줄요약
-5–6 mm extra-short implant 5년 추적(n=56/34명): 전체 survival 89% (즉시부하 94% vs conventional 87%), 즉시부하는 MBL ↑(+0.21mm), intermediate abutment는 MBL ↓(-0.23mm) — 부하 프로토콜과 abutment 선택이 MBL에 직접 영향.
+Retrospective single-center 5-year follow-up of 56 extra-short (5–6 mm) posterior implants in 34 patients comparing conventional vs immediate loading protocols and assessing the role of intermediate abutments on marginal bone loss (MBL).
+
+Overall 5-year survival was 89% (immediate loading 94% vs conventional 87%); immediate loading was associated with higher MBL (+0.21 mm, p=0.02) while intermediate abutment use was associated with lower MBL (−0.23 mm, p=0.003) on multivariable analysis.
+
+These findings support extra-short implants as viable posterior options but suggest conventional loading and intermediate abutment use help minimize peri-implant bone loss; interpretation is limited by small n=56 and clustering of 4 failures in a single patient.
+
+## 세줄요약
+
+단일기관 후향적 5년 추적 (5–6 mm extra-short 임플란트 56개, 34명) — 즉시부하 vs 통상부하, intermediate abutment 유무별 변연골소실(MBL) 비교.
+
+전체 5년 생존율 89% (즉시부하 94% vs 통상부하 87%); 즉시부하는 MBL +0.21 mm 증가(p=0.02), intermediate abutment는 MBL −0.23 mm 감소(p=0.003).
+
+Extra-short 임플란트는 후방부 적용 가능하나, 변연골 보존을 위해 통상부하 + intermediate abutment 선택이 유리; 실패 4개가 1명에 집중된 소표본 한계 고려.
 
 ## Summary
 Five-year clinical and radiological follow-up of extra-short (5–6 mm) implants in posterior maxilla/mandible. Compares conventional vs immediate loading and assesses the role of intermediate abutments. 56 implants in 34 patients.

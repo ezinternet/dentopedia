@@ -19,13 +19,21 @@ relations:
     target: lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hygiene care programme (10-min flash video + brochures + toothpick method, delivered by 5 hygienists) significantly reduced plaque index after each session in patients with mental disorders (P<0.0001; between-group P=0.036); oral dryness improved, but stimulated saliva and caries activity did not.
+RCT (n=73 patients with mental disorders; 3 groups; 12-week follow-up with sessions at 4-week intervals; delivered by 5 dental hygienists) testing a multi-component dental hygiene programme (10-minute flash video + brochures + toothpick method instruction).
 
-## 한줄요약
+The programme significantly reduced plaque index after each session across all three groups (P<0.0001) with a significant between-group difference (P=0.036); subjective oral dryness improved, but stimulated saliva and dental caries activity did not change.
 
-정신질환 환자 73명 RCT(3군, 12주·4주 간격): 10분 플래시 동영상 + 브로셔 + 토스픽법(toothpick method)을 묶은 다요소 구강위생 관리 프로그램이 매 세션 후 치면세균막 지수를 유의하게 감소시켰고(P<0.0001) 군간 차이도 유의(P=0.036). 구강건조감은 개선됐으나 자극타액·우식활성도는 변화 없었다.
+The toothpick method was one component of a bundled programme and its isolated effect cannot be separated from the educational video and brochures; the study demonstrates that a brief, hygienist-delivered programme can reduce plaque even in a psychiatrically vulnerable special-needs population.
+
+## 세줄요약
+
+정신질환 환자 대상 RCT (n=73; 3군; 4주 간격 12주 추적; 치과위생사 5명 시행): 10분 플래시 동영상 + 브로셔 + 이쑤시개법 구강위생 관리 프로그램 효과 평가.
+
+3개 군 모두 매 세션 후 치면세균막 지수 유의하게 감소(P<0.0001), 군간 차이도 유의(P=0.036); 구강건조감 주관적 개선, 자극 타액량·우식 활성도는 변화 없음.
+
+이쑤시개법은 프로그램의 한 요소로 그 단독 효과는 이 설계에서 분리 불가; 정신건강 취약 특수 환자에서도 간단한 위생사 주도 프로그램이 치면세균막을 줄일 수 있음을 보여준다.
 
 ## Summary
 

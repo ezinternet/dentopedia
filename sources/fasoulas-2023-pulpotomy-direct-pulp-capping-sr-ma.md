@@ -9,7 +9,7 @@ pdf_filename: fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 우식 치아 DPC/pulpotomy 재료 비교 SR+MA(RCT): Biodentine·MTA가 Ca(OH)₂ 대비 유의미하게 높은 성공률.
 
 ## 1. Document Information

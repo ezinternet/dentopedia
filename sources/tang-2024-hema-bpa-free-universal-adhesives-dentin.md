@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Durability benchmark for HEMA/BPA-free universal adhesives; supports [[resin-bonding/tang-2024-hema-bpa-free-universal-adhesives-dentin]] and the [[resin-bonding/clearfil-se-bond-product-reference]] page.
 
-## One-line Summary
-In-vitro multi-parameter study using CSE Bond 2 as gold standard; HEMA/BPA-free universals match CSE2 and beat Scotchbond Universal after 50k thermocycles.
+## Three-line Summary
 
-## 한줄요약
+In-vitro multi-parameter study using CSE Bond 2 as gold standard;
+
+HEMA/BPA-free universals match CSE2 and beat Scotchbond Universal after 50k thermocycles.
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro — CSE2 기준, HEMA/BPA-free universal이 CSE2 동등·Scotchbond Universal 우위(50k thermocycle).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 J Adhes Dent 2024. DOI 10.3290/j.jad.b4949669. KU Leuven (BIOMAT, Van Meerbeek group) and collaborators.

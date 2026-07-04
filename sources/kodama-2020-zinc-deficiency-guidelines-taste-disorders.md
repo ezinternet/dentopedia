@@ -17,13 +17,23 @@ text_filename: kodama-2020-zinc-deficiency-guidelines-taste-disorders.txt
 
 미각상실 병인 스펙트럼에 "아연결핍 단독" 축을 추가하기 위해 검색. 기존 [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]가 COVID-19 감염이 유발하는 아연결핍을 부수 기전으로 다뤘다면, 본 논문은 일본 임상영양학회의 공식 진단·치료 가이드라인으로 아연결핍성 미각장애 자체를 1차 병인으로 다루며, 진단기준(혈청아연 컷오프)·치료 프로토콜(폴라프레진크 용량·기간)까지 구체적으로 제공해 COVID 논문의 "아연결핍" 각주를 독립된 임상 프로토콜로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review summarizing Japan's 2018 Practical Guideline for Zinc Deficiency (diagnostic criteria: serum zinc <60 μg/dL = deficiency, 60–80 μg/dL = marginal; symptom-based + exclusion + zinc-responsiveness criteria) with a focused section on zinc-deficiency taste disorders — affecting ~240,000 Japanese patients (1.7× increase since 1990), improved by oral zinc (Polaprezinc 150mg/day) in 50–82% of cases but requiring ≥3 months of therapy for full effect (13.6% response at week 4 rising to 58.8% at week 24).
 
-## 한줄요약
+Narrative review summarizing Japan's 2018 Practical Guideline for Zinc Deficiency (diagnostic criteria: serum zinc <60 μg/dL = deficiency, 60–80 μg/dL = marginal;
+
+symptom-based + exclusion + zinc-responsiveness criteria) with a focused section on zinc-deficiency taste disorders — affecting ~240,000 Japanese patients (1.7× increase since 1990), improved by oral zinc (Polaprezinc 150mg/day) in 50–82% of cases but requiring ≥3 months of therapy for full effect (13.6% response at week 4 rising to 58.8% at week 24).
+
+(incomplete)
+
+## 세줄요약
+
 
 일본 임상영양학회 2018년 아연결핍 진단·치료 실무 가이드라인 종설 — 혈청아연 <60μg/dL(결핍)·60-80μg/dL(경계결핍) 진단기준, 아연결핍성 미각장애는 일본 내 약 24만 명(1990년 대비 1.7배 증가)에 영향을 미치며 경구 아연치료(폴라프레진크 150mg/일)로 50-82% 호전되나 효과 발현에 최소 3개월 필요(4주차 13.6%→24주차 58.8% 반응률).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

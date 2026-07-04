@@ -13,13 +13,21 @@ text_filename: zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of *Streptococcus sanguinis* biofilm formation mechanisms and antagonistic interactions with cariogenic and periodontopathic pathogens, highlighting this commensal's dual role in oral health protection and infective endocarditis risk.
+Narrative review (Future Microbiology 2018) synthesizing S. sanguinis SK36 biofilm initiation (PilA/B/C fimbriae, SsaB/SrpA adhesins), maturation (GtfP glucan, SpxB-H₂O₂-driven eDNA), and competitive antagonism against S. mutans (H₂O₂ via SpxB), P. gingivalis (mfa1 suppression but paradoxical GAPDH-scaffold), F. nucleatum (coaggregation via RadD/Aid1), and A. actinomycetemcomitans.
 
-## 한줄요약
+L-arginine selectively reduces S. mutans biomass relative to S. sanguinis in dual-species biofilms and synergizes with fluoride; infective endocarditis virulence is biofilm-independent (4 of 8 biofilm-defective mutants retained full cardiac virulence) and sucrose-dependent glucan is absent in blood.
 
-*Streptococcus sanguinis*의 생물막 형성 기전과 *S. mutans* 및 치주병원균에 대한 길항 기전을 정리하고, 구강 건강 공생세균이면서 감염성 심내막염 원인균이라는 이중 역할을 기술한 서술 리뷰 (Future Microbiology, 2018).
+This review argues for research parity between commensals and pathogens, positioning S. sanguinis H₂O₂ and ADS pH-buffering as ecologically exploitable mechanisms for caries prevention, while the commensal-as-scaffold paradox for periodontal pathogens remains unresolved.
+
+## 세줄요약
+
+Narrative review (Future Microbiology 2018): S. sanguinis SK36의 생물막 초기 부착(PilA·SsaB·SrpA)·성숙(GtfP 글루칸·SpxB-H₂O₂-eDNA)·S. mutans 길항(H₂O₂)·P. gingivalis(mfa1 억제 + GAPDH 발판 역설)·F. nucleatum(RadD/Aid1 공응집)·A. actinomycetemcomitans 경쟁 기전 종합.
+
+L-아르기닌은 이중종 생물막에서 S. mutans 생체량을 선택적으로 감소시키고 불소와 상승효과; 감염성 심내막염 독성은 생물막 능력과 무관(8개 생물막 결손 돌연변이 중 4개 완전 독성 유지)하고 혈중 자당 없어 glucan도 없음.
+
+본 리뷰는 공생균과 병원균 간 연구 균형을 주장하며, S. sanguinis H₂O₂·ADS pH 완충을 우식 예방에 활용 가능한 생태학적 기전으로 제시하나, 치주병원균을 위한 발판 역할의 역설은 미해결 상태.
 
 ## Summary
 

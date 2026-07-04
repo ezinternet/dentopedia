@@ -10,7 +10,7 @@ pdf_filename: kim-2020-sa-implant-acid-etched-alumina-long-term.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Retrospective study (96 Osstem SA implants, 45 patients, ≥8yr follow-up): 94.8% survival; early complications + MBL >1mm within 1yr both significant failure predictors; ISQ measured at placement and loading.
 
 ## 1. Document Information

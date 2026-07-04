@@ -24,13 +24,21 @@ relations:
     target: barootchi-2024-autologous-platelet-concentrates-root-coverage
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 21 RCTs (all class II furcation defects, 786 patients, mean 9.42-mo follow-up): adding PRF to OFD or to a bone graft significantly improves PPD/VCAL/HCAL (OFD vs OFD/PRF: PPD MD 1.73 mm, VCAL MD 1.42 mm, HCAL MD 1.21 mm), PRF alone is clinically equivalent to bone graft/collagen membrane/PRP/rhBMP2, and layering a small biomolecule (metformin, bisphosphonate, statin) or amniotic membrane onto PRF further improves outcomes — amid very high heterogeneity (I²≈85–94%).
+SR+MA of 21 RCTs (all class II furcation defects, 786 patients, mean 9.42-month follow-up, no smokers): adding PRF to OFD significantly improves PPD (MD 1.73 mm), VCAL (MD 1.42 mm), and HCAL (MD 1.21 mm) over OFD alone; adding PRF to a bone graft also yields significant additional gains (PPD MD 0.73 mm, VCAL 0.82 mm, HCAL 1.29 mm).
 
-## 한줄요약
+Head-to-head, PRF alone is clinically equivalent to bone graft, collagen membrane, PRP, and rhBMP2 (all comparisons non-significant); adding small biomolecules (metformin, bisphosphonate, statin) or amniotic membrane to PRF provides significant further benefit, whereas adding a bone graft to PRF does not (NS for PPD).
 
-21개 RCT(전부 2급 치근이개부병소, 786명, 평균 9.42개월) SR+메타분석: 치은박리소파술(OFD) 또는 골이식에 혈소판농축피브린(PRF)을 더하면 PPD·수직/수평 부착수준이 유의하게 개선(OFD vs OFD/PRF: PPD 1.73 mm, VCAL 1.42 mm, HCAL 1.21 mm)되고, PRF 단독은 골이식·콜라겐막·PRP·rhBMP2와 임상적으로 동등하며, PRF에 소분자(메트포르민·비스포스포네이트·스타틴)나 양막을 추가하면 결과가 더 개선된다 — 이질성은 매우 높음(I²≈85–94%).
+PRF is a low-cost autologous carrier and equivalent alternative to established regenerative modalities for class II furcations, but evidence is limited by very high heterogeneity (I² 85–94%), sub-12-month follow-up, absence of human histology, and no smoker data.
+
+## 세줄요약
+
+21개 RCT (전부 2급 치근이개부병소, 786명, 평균 9.42개월 추적, 흡연자 없음) SR+MA: OFD에 PRF 추가 시 PPD(MD 1.73 mm)·수직부착(VCAL, 1.42 mm)·수평부착(HCAL, 1.21 mm) 유의하게 개선; 골이식재에 PRF 추가 시에도 추가 이점(PPD 0.73 mm, VCAL 0.82 mm, HCAL 1.29 mm).
+
+직접 비교에서 PRF 단독은 골이식재·콜라겐막·PRP·rhBMP2와 동등(모두 NS); PRF에 메트포르민·비스포스포네이트·스타틴·양막 추가 시 유의한 추가 이점, 반면 PRF+골이식재 추가는 PPD NS.
+
+PRF는 저비용 자가 재료로 2급 치근이개부 재생 치료에서 확립된 생물학적 재료와 동등한 대안이나, 높은 이질성(I² 85–94%)·12개월 미만 추적·인체 조직학적 확인 부재·흡연자 데이터 없음이 주요 한계.
 
 ## Summary
 

@@ -24,11 +24,21 @@ relations:
     target: xie-2023-white-spot-lesion-therapies-sr-nma
 ---
 
-## One-line Summary
-Prospective controlled clinical trial (n=40, 4 groups) around clear-aligner attachments: over 6 months all remineralization protocols beat control (which worsened +4.35 DIAGNOdent), with nano-hydroxyapatite superior (−5.36) to CPP-ACP (−4.02) and quarterly fluoride varnish (−4.45); non-randomized pilot with a very large effect size (η²=0.974).
+## Three-line Summary
 
-## 한줄요약
-투명교정 어태치먼트 주위 6개월 임상시험(n=40, 4군): 모든 재광화 프로토콜이 대조군(DIAGNOdent +4.35 악화)을 능가, nHAp(−5.36)가 CPP-ACP(−4.02)·분기 불소바니시(−4.45)보다 우수. 비무작위 파일럿, 거대 효과크기(η²=0.974).
+Prospective controlled clinical trial (n=40, 4 groups of 10; non-randomized preference allocation) measuring DIAGNOdent values around clear-aligner composite attachments at baseline, 1, 3, and 6 months; groups received 1450 ppm fluoride toothpaste alone (control), nightly CPP-ACP, intensive nano-hydroxyapatite (nHAp), or quarterly 5% NaF varnish.
+
+All three remineralization protocols improved enamel demineralization significantly vs control (which worsened +4.35 units); nHAp gave the greatest reduction (−5.36), numerically superior to fluoride varnish (−4.45) and CPP-ACP (−4.02); overall group effect F=438.4, partial η²=0.974.
+
+Active remineralization from the start of aligner therapy is warranted at attachment sites; nHAp ranks first in this pilot but the non-randomized design, n=10/group, and more intensive nHAp protocol limit generalizability; passive fluoride toothpaste alone is insufficient.
+
+## 세줄요약
+
+투명교정 장치 복합 레진 어태치먼트(attachment) 주위 DIAGNOdent 값을 기저·1·3·6개월에 측정한 전향적 대조 임상시험(n=40, 4군 각 10명; 비무작위 선호 배정). 군 구성: 대조군(1450 ppm 불소 치약), CPP-ACP 야간 적용, 집중 nano-hydroxyapatite (nHAp), 분기별 5% NaF 바니시.
+
+세 재광화 프로토콜 모두 대조군(+4.35 악화) 대비 유의하게 개선; nHAp 최대 감소(−5.36), 불소바니시(−4.45)·CPP-ACP(−4.02) 수치적 우위; 군 효과 F=438.4, 편η²=0.974.
+
+어태치먼트 부위는 투명교정 초기부터 능동적 재광화가 필요; nHAp가 이 파일럿에서 1위이나 비무작위 설계·군 당 10명·nHAp 프로토콜 강도 차이로 일반화 제한; 불소 치약 단독은 불충분.
 
 ## Summary
 BMC Oral Health 2025 controlled clinical trial (Istanbul). Clear-aligner attachments create plaque-retentive enamel-composite margins where white spot lesions (WSLs) form; anterior attachments are an independent WSL risk factor (OR=2.192). Forty patients on active aligner therapy were allocated (by preference) to control (fluoride toothpaste) or one of three add-on remineralization protocols, and demineralization around attachments was tracked quantitatively with DIAGNOdent at baseline, 1, 3, and 6 months.

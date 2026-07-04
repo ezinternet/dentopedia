@@ -16,13 +16,21 @@ text_filename: vidal-2022-resin-composite-color-change-bleaching.txt
 tags: [tooth-whitening, bleaching, resin-composite, restorations, color-stability, in-vitro, CIELAB]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA with meta-regression (23 in vitro studies) — resin-based composites measurably change color after peroxide bleaching, but the change is not clinically significant; measured ΔE is driven by storage time, measuring device, and background color, NOT by the bleaching agent or application time.
+SR+MA with meta-regression of 23 in vitro studies (from 1,335 screened) evaluating CIELAB color change (ΔE) of resin-based composites (RBC) after HP/CP bleaching.
 
-## 한줄요약
+RBC color change after bleaching is statistically detectable but not clinically significant; significant moderators of measured ΔE are storage time (p≤0.01), color-measuring device (p≤0.01), and background color (p≤0.01) — not bleaching agent type or application time.
 
-메타회귀 SR+MA (in vitro 23편) — 레진 복합체는 미백 후 색이 변하지만 임상적으로 유의하지 않음. 색차는 미백제 종류·적용시간이 아니라 보관시간·측정기기·배경색에 의해 좌우됨.
+Bleaching does not lighten existing composites, so shade-matched restorations may appear darker after adjacent enamel whitening; replacement should be considered only after bleaching has stabilized (~2 weeks).
+
+## 세줄요약
+
+메타회귀 SR+MA (1,335건 검색 → 23편 인비트로) — HP/CP 미백 후 레진 복합체(RBC)의 CIELAB 색차(ΔE) 평가.
+
+미백 후 RBC 색변화는 통계적으로 감지 가능하나 임상적으로 유의하지 않음; ΔE의 유의한 조절변수는 보관시간·측정기기·배경색(모두 p≤0.01)이고, 미백제 종류·적용시간은 비유의.
+
+미백은 기존 복합레진을 밝게 하지 않으므로, 미백 후 인접 법랑질보다 어두워 보이면 미백 안정화(약 2주) 후 수복물 교체를 고려해야 함.
 
 ## Summary
 

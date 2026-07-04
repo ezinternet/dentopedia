@@ -9,7 +9,7 @@ pdf_filename: marenzi-2018-micromorphological-structure-implant-drills.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In vitro study (BioMed Res Int 2018) characterizing implant drill surface roughness across five manufacturers via white-light interferometry; multivariate discriminant analysis shows manufacturer-specific microstructural signatures that predict differences in durability, heat generation, and wear.
 
 ## 1. Document Information

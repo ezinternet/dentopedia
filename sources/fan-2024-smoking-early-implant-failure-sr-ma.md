@@ -10,7 +10,7 @@ pdf_filename: fan-2024-smoking-early-implant-failure-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (J Dent 2024, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 OR 2.59 (95% CI 2.08-3.23) at implant level; 환자 단위에서도 유의한 증가.
 
 ## 2. Key Contributions

@@ -9,8 +9,21 @@ pdf_filename: estrin-2025-extended-prf-lateral-window-sinus.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Multicenter case series (22 patients / 22 lateral window sinus lifts / 31 implants) using extended platelet-rich fibrin (e-PRF, heat-denatured albumin) as the sole barrier membrane covering the lateral window: 100% uneventful healing at 6 months, mean post-op sinus height 12.3 mm with mean endosinus bone gain 8.0 mm; suggests e-PRF as a 100% autologous, low-cost alternative to collagen membrane.
+## Three-line Summary
+
+Multicenter case series (22 patients, 22 lateral window sinus lifts, 31 implants) using extended platelet-rich fibrin (e-PRF, heat-denatured albumin prolonging resorption to 4–6 months) as the sole barrier membrane over the lateral antrostomy window.
+
+100% uneventful healing and 100% implant survival at 6-month second-stage surgery; mean post-op sinus height 12.3 mm with mean endosinus bone gain 8.0 mm; no soft tissue invagination through the window.
+
+e-PRF offers a 100% autologous, low-cost alternative to collagen membranes for lateral window coverage, but its benefit over collagen requires confirmation in a controlled trial.
+
+## 세줄요약
+
+다기관 증례 연구 (22명, 22례 측방 창 상악동거상술, 31개 임플란트): 열처리로 흡수 기간을 4–6개월로 연장한 연장형 혈소판풍부피브린(extended platelet-rich fibrin, e-PRF)을 측방 창의 유일한 차폐막으로 사용.
+
+6개월 second-stage 수술 시 100% 합병증 없는 치유 및 임플란트 생존; 평균 술후 상악동 높이 12.3 mm, 평균 동내 골 획득 8.0 mm; 측방 창 통한 연조직 함입 없음.
+
+e-PRF는 100% 자가 유래의 저비용 차폐막 대안이 될 수 있으나, 교원질 막 대비 우위는 대조 임상시험으로 확인이 필요하다.
 
 ## 1. Document Information
 - **Journal**: Clinical Implant Dentistry and Related Research 2025;27(1):e13427.

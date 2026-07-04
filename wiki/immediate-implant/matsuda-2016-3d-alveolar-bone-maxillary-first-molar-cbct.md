@@ -20,13 +20,21 @@ relations:
     target: liu-2024-maxillary-immediate-molar-palatal-root-socket
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cross-sectional study (95 patients, 150 healthy maxillary first molars): mean buccal/palatal plate 1.58/1.34 mm, sinus floor-to-furcation 6.51 mm, palatal root apex intrudes a mean −2.2 mm into the sinus (deeper than MB/DB roots); ~32% of MFMs judged contraindicated for immediate implant placement on residual-bone grounds.
+Retrospective CBCT cross-sectional study (95 patients, 150 healthy maxillary first molars) mapping 3D alveolar bone anatomy: mean buccal plate 1.58 mm, palatal plate 1.34 mm, sinus floor-to-furcation 6.51 mm, and palatal root apex intruded deepest into the sinus (mean −2.2 mm vs MB −0.36 mm and DB +0.32 mm).
 
-## 한줄요약
+The palatal root socket provides the densest and deepest apical anchorage target; approximately 32% of maxillary first molars were classified as contraindicated for immediate implant placement based on residual bone criteria.
 
-후향적 CBCT 단면연구 (환자 95명, 건강한 상악 제1대구치 150개): 평균 협측/구개측 골판 두께 1.58/1.34 mm, 상악동저-치근분지부 거리 6.51 mm, 구개측 치근단은 평균 −2.2 mm로 상악동 안으로 가장 깊이 함입(MB/DB 치근보다 깊음); MFM의 약 32%가 잔존골 기준 즉시식립 금기로 판정됨.
+A 3-tier decision framework (favorable/intermediate/contraindicated) keyed to sinus floor-to-apex, sinus floor-to-furcation, and inter-root distances with explicit numeric thresholds was proposed; healthy-molar-only sampling is the main limitation.
+
+## 세줄요약
+
+후향적 CBCT 단면연구(환자 95명, 건강한 상악 제1대구치 150개): 평균 협측 골판 1.58 mm, 구개측 1.34 mm, 상악동저–치근분지부 6.51 mm이며, 구개측 치근단은 평균 −2.2 mm로 상악동에 가장 깊이 함입(MB −0.36, DB +0.32 mm보다 깊음).
+
+구개측 치근 소켓이 가장 조밀하고 깊은 고정 표적을 제공하며, 잔존골 기준으로 상악 제1대구치의 약 32%가 즉시 식립 금기로 판정되었다.
+
+상악동저–치근첨·치근분지부 거리, 치근간 거리에 기반한 3단계 의사결정 체계(양호/중간/금기)를 제안했으나, 건강한 대구치만 표본화한 점이 한계이다.
 
 ## Summary
 

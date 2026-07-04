@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial]] established ethanol wet-bonding (EWB) on coronal dentin. This 2024 in vitro study reinforces and extends that anchor to radicular dentin under fiber-post cementation with a modern multi-mode universal adhesive, adding direct push-out and in situ zymography evidence that ethanol pre-treatment raises bond strength and lowers MMP activity even at the root.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (60 single-root teeth, 4 groups): ethanol pre-treatment significantly increased push-out bond strength of a multi-mode adhesive on radicular dentin (p<0.01) and reduced hybrid-layer MMP activity (p<0.01), while etching time (15 vs 30 s) did not affect bond strength.
+In vitro push-out bond-strength study (n=60 mono-radicular human teeth, 4 groups: 15 s or 30 s phosphoric-acid etch ± ethanol wet-bonding pre-treatment) using Clearfil Universal Bond Quick and dual-cure fiber-post cementation; outcomes: push-out strength, nanoleakage, and in situ zymography for MMP activity at 24 h.
 
-## 한줄요약
+Ethanol pre-treatment significantly increased push-out bond strength on radicular dentin (p<0.01) and significantly reduced hybrid-layer MMP gelatinolytic activity (p<0.01); etching time (15 vs 30 s) had no significant effect on bond strength; 30 s etching significantly increased MMP activity.
 
-60개 단근치 in vitro 실험(4군): 에탄올 전처리가 다목적 접착제의 근관내 상아질 push-out 접착강도를 유의하게 증가(p<0.01)시키고 혼성층 MMP 활성을 감소(p<0.01)시켰으며, 산부식 시간(15 vs 30초)은 접착강도에 영향 없음.
+Ethanol wet-bonding extends from coronal to radicular dentin, improving adhesive durability for fiber-post cementation; etching beyond 15 s is counterproductive due to elevated MMP activation; results are limited to a single adhesive system and 24 h storage.
+
+## 세줄요약
+
+인비트로 Push-out 접착강도 연구(n=60 단근치, 4군: 인산 산부식 15초·30초 × 에탄올 전처리 유무; Clearfil Universal Bond Quick + 이중경화 파이버포스트; 24시간 후 push-out 강도·나노누출·in situ zymography로 MMP 활성 측정).
+
+에탄올 전처리는 근관내 상아질 push-out 접착강도를 유의 증가(p<0.01)시키고 혼성층 MMP 활성을 유의 감소(p<0.01)시켰으며; 산부식 시간(15 vs 30초)은 접착강도에 무영향; 30초 산부식은 오히려 MMP 활성을 유의 증가시킴.
+
+에탄올 습윤 접착(EWB)의 이점이 근관 상아질까지 확장되어 파이버포스트 합착 내구성 향상; 15초 이상 산부식은 MMP 활성화로 역효과; 단일 접착제·24시간 저장 한정 연구로 임상 장기 근거 필요.
 
 ## 1. Document Information
 

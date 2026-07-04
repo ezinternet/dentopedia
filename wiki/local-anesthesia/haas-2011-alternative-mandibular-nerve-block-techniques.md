@@ -19,13 +19,21 @@ relations:
     target: malamed-2011-mandibular-nerve-block-passe
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Review: the Gow-Gates mandibular nerve block (open-mouth, anesthetic deposited near the mandibular condyle neck close to the trigeminal nerve's exit from the foramen ovale) and the Akinosi-Vazirani closed-mouth block (anesthetic fills the pterygomandibular space) are reliable alternatives to standard IANB, particularly valuable when a patient has a history of IANB failure from anatomical variability or accessory innervation.
+Narrative review describing two established alternatives to the standard IANB: the Gow-Gates block (open-mouth, deposition near the mandibular condyle neck, proximal to the foramen ovale) and the Akinosi-Vazirani closed-mouth block (fills the pterygomandibular space, useful when mouth opening is limited).
 
-## 한줄요약
+Both techniques are indicated for any mandibular procedure, but are especially valuable when standard IANB has failed due to anatomical variability or accessory innervation — the Gow-Gates approach deposits more proximally, potentially capturing accessory branches missed by a standard IANB.
 
-리뷰: Gow-Gates 하악신경차단(개구위, 하악과두경 근처·정원공을 나온 삼차신경 부근에 마취제 침착)과 Akinosi-Vazirani 폐구위 차단(익돌하악강을 마취제로 채움)은 표준 IANB의 신뢰할 만한 대안이며, 해부학적 변이·부가신경 지배로 IANB 실패 이력이 있는 환자에 특히 유용하다.
+Clinician proficiency in both techniques is recommended to broaden the ability to achieve reliable mandibular anesthesia in anatomically challenging or previously failed cases.
+
+## 세줄요약
+
+표준 IANB에 대한 두 가지 확립된 대안 기법 서술적 리뷰: Gow-Gates 차단(개구위, 하악과두경 근처·정원공 인접 침착)과 Akinosi-Vazirani 폐구위 차단(익돌하악강 충전, 개구 제한 환자에 유용).
+
+두 기법 모두 모든 하악 치료에 적용 가능하나, 해부학적 변이나 부가신경 지배로 인한 IANB 실패 경험이 있는 환자에 특히 유용 — Gow-Gates는 더 근위부에 침착하여 표준 IANB에서 놓친 부가 분지를 차단할 수 있음.
+
+두 기법 모두 숙달하면 해부학적으로 어렵거나 IANB 실패 경험이 있는 환자에서 신뢰할 수 있는 하악마취를 달성하는 데 도움이 된다.
 
 ## Summary
 

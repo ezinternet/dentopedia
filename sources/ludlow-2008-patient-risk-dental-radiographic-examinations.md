@@ -16,13 +16,23 @@ text_filename: ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 
 치과 방사선 유효선량(유효선량, Effective Dose, ED)의 표준 기준 논문. [[radiology/stervik-2024-radiation-exposure-during-orthodontic-treatment]]과 [[radiology/lee-2021-dental-imaging-doses-web-dose-calculator]]에서 반복 인용하는 원천 데이터 제공. ICRP 2007 권고안 적용 후 계산 값이 32–422% 상승했음을 처음으로 정량화.
 
-## One-line Summary
+## Three-line Summary
+
 
 Phantom-based dosimetry study recalculating effective doses of common dental radiographs using 2007 ICRP recommendations: intraoral PSP+rect-collimation full-mouth 34.9 µSv, 4 bitewings 5.0 µSv, panoramic 14–24 µSv.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 2007 ICRP 권고안 적용 재계산: 구내 전악(PSP+직사각조준) 34.9 µSv, 4매 bite-wing 5.0 µSv, 파노라마 14–24 µSv — 이전 값 대비 32–422% 상승.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -30,13 +30,21 @@ tags: [occlusal-veneer, table-top, tooth-wear, dental-erosion, minimally-invasiv
 > - 탈착·재사용: Er,Cr:YSGG 레이저 탈착 시간은 재료 무관(~87초, p=0.995)이나 **e.max·지르코니아는 무손상, 고결정 LiSi(GC Initial)는 60% 손상** → LiSi 레이저 재활용 고위험(el-sheikh).
 > - 근거 한계: RCT·case series 소표본(n=11·n=8), SR 6편 전부 high/medium 편향 — 결론은 방향성 신호이지 강한 확정 아님.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 papers (4 in-vitro, 1 SR, 1 RCT, 1 retrospective case series) on ultrathin occlusal (table-top) veneers for tooth wear and erosion — converging on ultrathin ceramic being mechanically viable beyond physiologic posterior forces, ceramic and CAD/CAM composite being clinically equivalent for survival, an unsettled 0.5–1.0 mm minimum-thickness threshold, Monobond etch & prime ≥ HF ≫ APF for conditioning, and repairability as the additive philosophy's core advantage.
+Synthesis of 7 papers (4 in-vitro, 1 SR, 1 RCT, 1 retrospective case series) on ultrathin occlusal (table-top) veneers for posterior tooth wear/erosion rehabilitation: ultrathin ceramic (0.5–0.8 mm) is mechanically viable well beyond physiologic posterior forces (al-Akhali 2017: 100% survival after 1.2 million cycles at 98 N across all CAD/CAM materials), and material type (ceramic vs CAD/CAM composite) has no significant effect on clinical survival — 3-year ceramic 100% vs composite 84.7% (NS, p=.124, Schlichting 2022 RCT) and 5-year ceramic 93.1% vs composite 86.3% (NS, p=0.107, Ferrando-Cascales 2023).
 
-## 한줄요약
+The minimum-thickness threshold is an unresolved field controversy — 0.7/1.0 mm yielded 100% survival vs 12.5% for thin 0.3/0.6 mm enamel-only preparations (Sasse 2015); yet Essam 2023 validated 0.5 mm with fracture loads of 962–1277 N (vs physiologic 400–800 N); the safe range is 0.5–1.0 mm depending on substrate (dentin/composite bonding compensates for thin ceramic), material, and parafunction; surface conditioning ranks Monobond etch & prime ≥ HF ≫ APF (APF causes debonding at 0.5 mm and is contraindicated in parafunction, Essam 2023).
 
-교합면 비니어 7편 종합: 초박형 세라믹은 구치 교합력을 상회하고 재료(세라믹 vs 복합레진)는 생존율에 무의미하나, 최소두께(0.5~1.0mm)는 기질·재료·이악물기에 따라 논쟁적이며 표면처리는 모노본드 Etch&Prime≥HF≫APF, 위치(후방)가 유일 유의 실패인자이고 실패는 대개 수리가능한 chipping임.
+The additive philosophy's decisive practical advantage is that failures are predominantly minor repairable chipping (Schlichting 2022: zero complete failures, all 5 failures were directly restorable; Ferrando-Cascales 2023: 18/21 complications repaired directly), with posterior/occlusal location as the only significant failure predictor (HR 0.143, p=0.008, Ferrando-Cascales 2023).
+
+## 세줄요약
+
+교합면 비니어(Occlusal/Table-top Veneer) 7편 종합(in-vitro 4·SR 1·RCT 1·후향 case series 1): 초박형 세라믹(0.5–0.8 mm)은 생리적 구치 교합력(400–800 N)을 훨씬 상회하고(al-Akhali 2017: 120만 회·98N 저작 100% 생존), 재료 종류(세라믹 vs CAD/CAM 복합레진)는 임상 생존율에 무의미(세라믹 93–100% vs 복합레진 84–87%, 모두 NS).
+
+최소두께 논쟁은 미해결: 0.7/1.0 mm만 안전하다(Sasse 2015, 0.3 mm enamel-only 12.5% 생존)는 주장 vs 0.5 mm도 충분하다(Essam 2023, 파절하중 962–1277 N)는 주장이 충돌 — 기질(상아질/복합레진 접착이 법랑질보다 우수)·재료·이악물기에 따라 0.5–1.0 mm 범위; 표면처리 서열: 모노본드 Etch&Prime ≥ HF ≫ APF(APF는 0.5mm+이악물기 환자에 금기, Essam 2023).
+
+실패는 대개 수리 가능한 chipping(Schlichting 2022 완전 실패 0건, Ferrando-Cascales 2023 21건 중 18건 직접 수리), 후방/교합면 위치가 유일 유의 실패 예측인자(HR 0.143, p=0.008) — additive 접착 철학의 가역성이 핵심 강점.
 
 ## Summary
 

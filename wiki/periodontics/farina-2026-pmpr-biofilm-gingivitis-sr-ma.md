@@ -23,13 +23,21 @@ relations:
     target: cyris-2024-guided-biofilm-therapy-versus-conventional
 ---
 
-## One-line Summary
+## Three-line Summary
 
-EFP 21st Workshop systematic review + meta-analysis (11 studies; mostly RCTs) showing that, for dental biofilm-induced gingivitis, OHI is first-line and professional mechanical plaque removal (PMPR) adds benefit only as an adjunct to OHI (low certainty), with air polishing + ultrasonics as effective as but faster than ultrasonic + rubber-cup polishing (very low certainty) and diode laser offering no adjunctive benefit.
+EFP 21st Workshop SR+MA (11 studies, mostly RCTs) addressing three focused questions on professional mechanical plaque removal (PMPR) for dental biofilm-induced gingivitis in adults with no plaque-retentive factors.
 
-## 한줄요약
+PMPR alone has no effect in patients with continuing ineffective oral hygiene; PMPR+OHI outperforms OHI alone (low certainty); air polishing+ultrasonics is as effective as ultrasonic+rubber-cup polishing but faster (very low certainty); diode laser adds no benefit.
 
-치태-유발 치은염에서 구강위생교육(OHI)이 1차 치료이고 전문가 기계적 치태제거(PMPR)는 OHI에 더해질 때만 이득(low certainty)을 주며, 에어폴리싱+초음파가 초음파+러버컵 폴리싱과 동등하면서 더 빠르고, 다이오드 레이저는 부가 이득이 없다는 EFP SR+MA(11편).
+OHI is first-line for biofilm-induced gingivitis; PMPR should be offered as an OHI adjunct, particularly in generalised cases (BOP ≥33%), with air polishing+ultrasonics preferred for efficiency — the target endpoint is full-mouth BOP <10%.
+
+## 세줄요약
+
+EFP 21차 워크숍 SR+MA (11편, 주로 RCT): 판막방해 인자 없는 성인의 치태-유발 치은염에서 전문가 기계적 치태제거 (Professional Mechanical Plaque Removal, PMPR)에 대한 3개 집중 질문 검토.
+
+PMPR 단독은 구강위생 불량 지속 환자에서 효과 없음; PMPR+구강위생교육(OHI) > OHI 단독 (low certainty); 에어폴리싱+초음파 = 초음파+러버컵 폴리싱 (효과 동등, 더 빠름, very low certainty); 다이오드 레이저 부가 이득 없음.
+
+치태-유발 치은염에서 OHI가 1차 치료; PMPR은 OHI 보조로 제공(전반적 치은염, BOP ≥33%일 때 효과 뚜렷), 에어폴리싱+초음파가 효율 면에서 선호됨 — 목표 종료점은 전악 BOP <10%.
 
 ## Summary
 

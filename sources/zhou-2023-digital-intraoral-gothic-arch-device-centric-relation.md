@@ -17,13 +17,23 @@ text_filename: zhou-2023-digital-intraoral-gothic-arch-device-centric-relation.t
 
 This paper extends the Gothic-arch / jaw-relation cluster of the wiki into the **complete-denture centric-relation (CR)** workflow with a CAD/CAM-fabricated intraoral tracer. It complements [[wiki/occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth]] (mandibular positioning and occlusal stability) and sits alongside the vertical-dimension determination evidence in [[wiki/complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] — jaw-relation registration in edentulous prosthodontics requires both a vertical (VDO) and a horizontal (CR via Gothic-arch tracing) record, and this study addresses the horizontal axis with a digital device. Source is PubMed/PMC; Chinese-language journal (Journal of Peking University, Health Sciences). Retrieved as **abstract-only** — full text not available from PMC.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective in-mouth paired comparison (n=10 edentulous patients) showing a digitally manufactured simple intraoral Gothic arch tracer (T1) matches the conventional intraoral tracer (T2) in centric-relation registration — all mandibular positional deviations <0.5 mm — while cutting clinical chair time from ~57.5 to ~41.9 min (P<0.01).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 무치악 환자 10명을 대상으로 한 구내 짝지움 전향적 비교 연구로, 디지털 제작 간이 구내 고딕아치 장치(T1)가 전통적 구내 장치(T2)와 정중관계(centric relation) 등록에서 일치(하악 위치 편차 모두 0.5 mm 이내)하면서도 임상 의자 시간을 약 57.5분에서 41.9분으로 단축(P<0.01)함을 보였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

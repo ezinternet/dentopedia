@@ -13,11 +13,21 @@ source_collection: external
 tags: [miniscrew, TAD, anchorage, failure-rate, anatomical-site, palate, interradicular, root-contact]
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (61 studies) of orthodontic miniscrew implant (OMI) failure rates stratified by anatomical insertion site: midpalatal lowest (1.3%) and zygomatic buttress highest (16.4%), with root contact the dominant modifiable risk factor (RR 8.7, 95% CI 5.1–14.7, moderate quality evidence).
+## Three-line Summary
 
-## 한줄요약
-SR+MA (61편): 정중구개 삽입 실패율 1.3%로 최저, 광대뼈 지지부 16.4%로 최고; 치근 접촉 시 실패 위험비 8.7배 상승 (moderate quality evidence).
+SR+MA of 61 studies (PRISMA; up to October 2017) reporting orthodontic miniscrew implant (OMI) failure rates separately for each anatomical insertion site, providing site-specific clinical guidance beyond pooled overall estimates.
+
+Failure rates ranged from 1.3% at the midpalate to 16.4% at the zygomatic buttress; maxillary buccal inter-radicular (M1–P2) 9.2%, mandibular buccal (M1–P2) 13.5%; root contact was the dominant modifiable risk factor (RR 8.7, 95% CI 5.1–14.7, moderate quality).
+
+Palatal sites — especially the midpalate — are the most reliable anchorage locations; avoiding root contact during inter-radicular placement is the single most impactful modifiable decision.
+
+## 세줄요약
+
+교정용 미니스크류 임플란트(OMI)의 해부학적 삽입 부위별 실패율을 처음으로 분리 보고한 SR+MA (61편, 2017년까지).
+
+정중구개 1.3%로 최저, 광대뼈 지지부 16.4%로 최고; 상악협측 인접근(M1–P2) 9.2%, 하악협측(M1–P2) 13.5%; 치근 접촉은 실패 위험비 8.7배(중등질 근거)로 가장 중요한 가변 위험 인자.
+
+구개 부위(특히 정중구개)가 가장 신뢰할 수 있는 고정원 위치이며, 인접근 식립 시 치근 접촉 회피가 단일 가장 중요한 임상적 결정사항임.
 
 ## Summary
 A systematic review and meta-analysis of 61 studies examining failure rates of orthodontic miniscrew implants (OMIs) stratified by anatomical insertion site. Palatal sites — especially the midpalate — demonstrated the lowest failure rates, while the zygomatic buttress had the highest. Mandibular buccal interradicular sites showed intermediate failure rates. The most clinically important finding was that **root contact increased failure risk by a factor of 8.7** (RR 8.7, 95% CI 5.1–14.7), based on moderate quality evidence.

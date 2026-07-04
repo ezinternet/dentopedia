@@ -9,7 +9,7 @@ pdf_filename: shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective study (n=16, RBH 4–7mm, oblique sinus floor): Densah bur osseodensification achieves mean lift 4.42mm, seating torque 35.5 Ncm; 1/16 perforation; 100% 1-year success.
 
 ## 1. Document Information

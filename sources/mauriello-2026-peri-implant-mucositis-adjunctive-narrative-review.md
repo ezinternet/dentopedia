@@ -13,7 +13,7 @@ source_collection: external
 
 [[implants/peri-implantitis]] subcategory 첫 paper. [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] (항생제 peri-implantitis MA) 와 함께 peri-implant 질환 보조요법 evidence — PiM(역행 가능 단계)에서 보조요법 효과 정량. 답: PMPR 단독이 gold standard, 보조요법 일관된 추가 benefit 없음.
 
-## One-line Summary
+## Three-line Summary
 Narrative review (Quintessence Int 2026, 9 RCT 414 patients): PMPR이 PiM gold standard — chlorhexidine/local antibiotics/NaOCl/probiotics/bioactive agents 보조요법 모두 within-group 개선 but PMPR 단독 대비 추가 benefit 일관성 부족·통계 NS 다수.
 
 ## 1. Document Information

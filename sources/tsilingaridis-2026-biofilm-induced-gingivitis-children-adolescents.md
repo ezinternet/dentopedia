@@ -17,13 +17,23 @@ text_filename: tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescent
 
 New 2026 JCP systematic review (EFP/EAPD-commissioned, 269 included studies) characterizing the occurrence, determinants, management and OHRQoL of plaque/biofilm-induced gingivitis in systemically-healthy children & adolescents (< 18 yr) — it defines the **pediatric baseline** for the 2017 World Workshop gingivitis case definition. Extends [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] (the 2017 WW framework this review applies) into the under-18 population, and notes that none of the 269 studies actually used the new WW gingivitis criteria — a measurement gap.
 
-## One-line Summary
+## Three-line Summary
 
-EFP/EAPD-commissioned systematic review (269 studies, 47 countries; 22 large low-bias studies pooled) — dental biofilm-induced gingivitis affects ~52% of children/adolescents (95% CI 42–62%, I²>99%; 34% CPI to 80% bleeding-index), rises with age/puberty, is socioeconomically patterned, and is best controlled by supervised fluoride toothbrushing + school/caregiver education (flossing adds nothing; CHX is an adjunct only).
 
-## 한줄요약
+EFP/EAPD-commissioned systematic review (269 studies, 47 countries;
 
-EFP/EAPD 의뢰 체계적 문헌고찰(269편, 47개국; 대규모·저편향 22편 풀링) — 전신질환 없는 소아·청소년의 치면세균막유발 치은염 유병률은 약 52%(95% CI 42–62%, I²>99%; 진단법에 따라 CPI 34%~출혈지수 80%), 연령·사춘기와 함께 증가하고 사회경제적 격차를 따르며, 관리는 감독하 불소 칫솔질 + 학교·보호자 교육이 핵심(치실은 효과 없음, CHX는 보조).
+22 large low-bias studies pooled) — dental biofilm-induced gingivitis affects ~52% of children/adolescents (95% CI 42–62%, I²>99%;
+
+34% CPI to 80% bleeding-index), rises with age/puberty, is socioeconomically patterned, and is best controlled by supervised fluoride toothbrushing + school/caregiver education (flossing adds nothing; CHX is an adjunct only).
+
+## 세줄요약
+
+
+EFP/EAPD 의뢰 체계적 문헌고찰(269편, 47개국;
+
+대규모·저편향 22편 풀링) — 전신질환 없는 소아·청소년의 치면세균막유발 치은염 유병률은 약 52%(95% CI 42–62%, I²>99%;
+
+진단법에 따라 CPI 34%~출혈지수 80%), 연령·사춘기와 함께 증가하고 사회경제적 격차를 따르며, 관리는 감독하 불소 칫솔질 + 학교·보호자 교육이 핵심(치실은 효과 없음, CHX는 보조).
 
 ## 1. Document Information
 

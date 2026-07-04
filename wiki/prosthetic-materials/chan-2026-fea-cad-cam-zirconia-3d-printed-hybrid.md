@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-3D finite element analysis (FEA) of five crown–abutment material combinations on a mandibular molar implant (vertical 600 N / oblique 225 N @ 45°): a CAD/CAM zirconia crown + 3D-printed ceramic-filled hybrid abutment minimized stress, reducing custom-abutment von Mises stress by ~90% and Ti-base stress by ~27%, while peri-implant cortical/cancellous bone stress was relatively insensitive to material choice.
+## Three-line Summary
 
-## 한줄요약
-3D FEA: CAD/CAM zirconia crown + 3D-printed ceramic-filled hybrid abutment 조합이 custom abutment 응력 -90%, Ti-base 응력 -27%로 가장 우수. cortical/cancellous bone 응력은 그룹 간 큰 차이 없음.
+3D FEA comparative study of five crown–abutment material combinations on a mandibular molar bone-level implant, loaded vertically (600 N) and obliquely (225 N at 45°).
+
+A CAD/CAM zirconia crown paired with a 3D-printed ceramic-filled hybrid abutment minimized prosthetic stress, reducing custom-abutment von Mises stress by ~90% and Ti-base stress by ~27% versus metal-based alternatives.
+
+Peri-implant cortical and cancellous bone stress was relatively insensitive to crown–abutment material choice, limiting direct clinical conclusions on bone biology.
+
+## 세줄요약
+
+하악 대구치 골유착형 임플란트에서 5종 크라운-지대주 재료 조합을 비교한 3D 유한요소 분석(수직 600 N / 사선 225 N).
+
+CAD/CAM 지르코니아 크라운 + 3D 프린팅 세라믹 충전 하이브리드 지대주 조합이 금속 지대주 대비 custom abutment 응력 약 90%, Ti-base 응력 약 27% 감소로 가장 우수했다.
+
+피질골·해면골 응력은 재료 선택에 크게 영향을 받지 않아 골생물학적 임상 결론 도출에는 한계가 있다.
 
 ## Summary
 Comparative 3D FEA evaluating stress distribution across five combinations of CAD/CAM zirconia and 3D-printed ceramic-filled hybrid materials for crown and CAD/CAM custom abutment on mandibular molar implants.

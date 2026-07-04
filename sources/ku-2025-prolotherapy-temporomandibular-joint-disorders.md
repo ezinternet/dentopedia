@@ -13,11 +13,21 @@ source_collection: external
 
 chairside 매뉴얼의 TMJ 적응증 카드가 기존엔 [[wiki/pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]]의 한 줄 언급에만 의존했다. 본 리뷰는 TMD prolotherapy(dextrose vs PDRN)의 기전·프로토콜·근거를 직접 다뤄 TMJ 카드를 narrative 수준에서 보강한다. 동반 ingest한 [[wiki/pdrn/choi-2026-efficacy-prolotherapy-temporomandibular-joint-disorders]] retrospective와 짝을 이룸.
 
-## One-line Summary
-Narrative review of TMJ prolotherapy: dextrose is the most validated proliferant; PDRN offers comparable efficacy with less discomfort and shorter intervals; clinical data show reduced pain and improved mouth opening, minimal transient adverse events.
+## Three-line Summary
 
-## 한줄요약
-TMJ prolotherapy 서술 리뷰. dextrose가 근거 가장 탄탄, PDRN은 유사 효능에 불편 적고 시술 간격 짧음. 통증 감소·최대개구 개선 일관, 이상반응 경미·일시적. RCT 부족.
+Narrative review of TMJ prolotherapy: dextrose is the most validated proliferant;
+
+PDRN offers comparable efficacy with less discomfort and shorter intervals;
+
+clinical data show reduced pain and improved mouth opening, minimal transient adverse events.
+
+## 세줄요약
+
+TMJ prolotherapy 서술 리뷰.
+
+dextrose가 근거 가장 탄탄, PDRN은 유사 효능에 불편 적고 시술 간격 짧음.
+
+통증 감소·최대개구 개선 일관, 이상반응 경미·일시적. RCT 부족.
 
 ## 1. Document Information
 - Journal: J Korean Assoc Oral Maxillofac Surg 2025;51(6):354-361

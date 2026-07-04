@@ -9,7 +9,7 @@ pdf_filename: miyazaki-2013-current-status-zirconia-restoration-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Prosthodont Res 2013: narrative review — Y-TZP/Ce-TZP properties, CAD/CAM workflow, zirconia-veneer bond (chipping main complication), zirconia-resin bond (MDP primer required), surface finish + enamel wear, clinical outcomes.
 
 ## 1. Key Results

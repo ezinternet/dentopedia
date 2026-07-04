@@ -19,13 +19,21 @@ relations:
     target: kanzow-2016-etiology-pathogenesis-dental-erosion
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 8 systematic reviews (PRISMA 2020, JBI, AMSTAR 2, ConQual): fluoridated dentifrices outperform non-fluoridated for enamel/dentin protection, and stannous-containing (stabilized SnF2 / multi-ion) formulations are most consistently superior to NaF/NaMFP under erosive and erosive-abrasive protocols — certainty moderate for stannous, low/very-low for calcium-based and biomimetic technologies — but the evidence is dominated by in vitro/in situ short-term models and is NOT proof of reduced clinical ETW progression.
+Umbrella review of 8 systematic reviews (databases up to January 2026; PRISMA 2020, JBI methodology; AMSTAR 2 quality appraisal; ConQual certainty grading; narrative synthesis due to heterogeneity) evaluating anti-erosive dentifrice chemistries — the highest-level secondary evidence pyramid for this clinical question.
 
-## 한줄요약
+Fluoridated dentifrices consistently outperformed non-fluoridated controls for enamel and dentin protection; among fluoride types, stabilized stannous fluoride (SnF2) and multi-ion systems most consistently surpassed conventional NaF/NaMFP under erosive and erosive-abrasive protocols (moderate certainty), whereas calcium-based and biomimetic technologies showed heterogeneous, largely short-term experimental evidence (low/very-low certainty).
 
-SR 8편 엄브렐러 리뷰(PRISMA 2020·JBI·AMSTAR 2·ConQual): 불소 함유 치약이 비함유보다 법랑질·상아질 보호에 우수하고, 그중 주석 함유(안정화 SnF2·다중이온) 제형이 침식·침식마모 조건에서 NaF/NaMFP보다 가장 일관되게 우수(주석=중등도 확실성, 칼슘계·생체모방 신기술=낮음/매우 낮음). 단 근거가 in vitro/in situ 단기 모델 위주라 임상 ETW 진행 감소의 증거로 해석하면 안 됨.
+The evidence base is dominated by in vitro/in situ short-term models and should NOT be over-interpreted as proof of reduced clinical ETW progression; stannous-containing dentifrices may be pragmatically preferred for high-erosive-risk patients, but long-term RCTs with standardized ETW endpoints remain absent.
+
+## 세줄요약
+
+2026년 1월까지 데이터베이스 검색, PRISMA 2020·JBI 방법론, AMSTAR 2·ConQual 근거평가를 적용한 8편 체계적 고찰의 엄브렐러 리뷰로, 치아 침식 예방 치약 성분 근거의 최상위 합성이다.
+
+불소 함유 치약이 비함유 대조군보다 법랑질·상아질 보호에 일관되게 우수했으며, 불소 성분 중 안정화 SnF2 및 다중이온 제형이 침식·침식마모 조건에서 NaF/NaMFP보다 가장 일관된 우위를 보였다(근거 확실성 중등도). 칼슘계·생체모방 신기술은 이질적·단기적 근거만 있어 확실성이 낮음/매우 낮음이었다.
+
+근거 대부분이 in vitro/in situ 단기 모델이므로 임상적 침식성 치아마모(ETW) 진행 감소의 증거로 과대해석하면 안 되며, 고위험 환자에게 주석 함유 치약이 실용적으로 선호되지만 표준화된 ETW 지표를 사용한 장기 무작위대조시험은 여전히 없다.
 
 ## Summary
 

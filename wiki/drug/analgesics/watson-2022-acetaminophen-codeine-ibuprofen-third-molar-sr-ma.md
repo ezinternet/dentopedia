@@ -14,11 +14,21 @@ source_collection: external
 tags: [third-molar, post-extraction-pain, ibuprofen, acetaminophen, codeine, opioid, SR-MA, opioid-sparing, ADA-2022]
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (Pain Med 2022; randomized blinded placebo-controlled RCTs, third molar extraction): ibuprofen 400 mg alone was equivalent to or better than acetaminophen 600 mg + codeine 60 mg combination, directly supporting opioid-sparing prescribing (ADA 2022 acute dental pain guidelines).
+## Three-line Summary
 
-## 한줄요약
-SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
+SR+MA of randomized blinded placebo-controlled RCTs (Pain Med 2022) comparing acetaminophen 600 mg + codeine 60 mg vs ibuprofen 400 mg for postoperative pain after third molar extraction.
+
+Ibuprofen 400 mg alone was equivalent to or superior to the acetaminophen + codeine combination for third molar pain relief, while avoiding opioid side effects.
+
+This directly contradicts long-standing opioid combination prescribing patterns for routine third molar surgery and is a key evidence base for the ADA 2022 acute dental pain guidelines on opioid sparing.
+
+## 세줄요약
+
+SR+MA (Pain Med 2022): 제3대구치 발치 후 통증에서 아세트아미노펜 600 mg + 코데인 60 mg 병용 vs 이부프로펜 400 mg 단독을 무작위·맹검·위약대조 RCT만 대상으로 비교.
+
+이부프로펜 400 mg 단독이 APAP+코데인 병용과 동등하거나 우수하고 오피오이드 부작용을 피할 수 있음.
+
+제3대구치 수술에 대한 오피오이드 병용 처방 관행을 정면으로 반박 — ADA 2022 급성 치과 통증 opioid sparing 가이드라인의 핵심 근거.
 
 ## Summary
 SR+MA of randomized, blinded, placebo-controlled RCTs comparing combination acetaminophen 600mg + codeine 60mg vs ibuprofen 400mg alone for third molar extraction pain. Ibuprofen 400mg alone equivalent to or better than APAP 600 + codeine 60 combination, while avoiding opioid side effects.

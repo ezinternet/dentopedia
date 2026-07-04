@@ -13,13 +13,21 @@ source_collection: external
 tags: [dental-handpiece, bur, diamond-bur, tungsten-carbide, bur-selection, grit, color-coding, cutting-efficiency, infection-control]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire survey (131/150 practitioners) on dental-bur selection, usage, sterilization and disposal: diamond burs preferred (75%) over tungsten carbide (15%), most reused until worn out (85%), with cutting efficiency known to fall with wear/grit/duration, variable sterilization, and universal dustbin disposal.
+Cross-sectional questionnaire survey (131/150 general dental practitioners, Visakhapatnam India) covering 20 items across bur selection, usage, sterilization, and disposal domains.
 
-## 한줄요약
+Diamond burs were preferred (75%) over tungsten carbide (15%); 85% reused burs until worn out yet only 33% recognized that cutting efficiency declines with wear; sterilization frequency varied (35% once daily, 35% every patient); 100% discarded burs in a standard dustbin.
 
-단면 설문조사(개원의 131/150) — 다이아몬드 bur 선호(75%) > 텅스텐카바이드(15%), 대부분 마모까지 재사용(85%), 절삭효율은 마모·grit·시간에 따라 감소, 멸균 빈도 가변, 폐기는 전원 일반쓰레기.
+Survey documents a gap between known CE decline physics and actual reuse behavior, and universal non-segregated bur disposal represents an unaddressed cross-infection-control risk in this setting.
+
+## 세줄요약
+
+인도 비사카파트남 개원 치과의사 설문조사(131/150) — bur 선택·사용·멸균·폐기 4개 영역 20항목.
+
+다이아몬드 bur 선호 75% vs 텅스텐카바이드 15%; 85%가 마모까지 재사용하나 절삭효율 저하 인지는 33%에 불과; 멸균 빈도 가변(1일 1회 35%, 매 환자 35%); 폐기는 100% 일반쓰레기.
+
+절삭효율 저하의 과학적 사실과 실제 재사용 행동 사이의 격차, 비분리 폐기에 따른 감염관리 위험이 실제 임상 현장에 존재함을 보여 준다.
 
 ## Summary
 

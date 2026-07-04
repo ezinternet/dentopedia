@@ -20,13 +20,21 @@ relations:
     target: althobaiti-2023-osseodensification-conventional-drilling-isq-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=7 patients, 14 implant sites, maxillary anterior zone): Densah bur osseodensification yielded significantly higher primary ISQ (70.1 vs 49.0) and labial plate thickness vs Magnetic Mallet, with comparable bone density and crestal width at 6 months.
+Split-mouth RCT (n=7 patients, 14 sites, maxillary anterior esthetic zone) comparing rotary Densah bur (DB) vs pulse-based Magnetic Mallet (MM) osseodensification for implant placement stability.
 
-## 한줄요약
+Densah bur produced significantly higher primary ISQ (70.1 vs 49.0, p<0.001) and greater labial plate thickness at placement and 6 months; both groups showed equivalent bone density and crestal width at 6 months; MM had two intraoperative complications (1 labial plate fracture causing implant failure, 1 palatal crack).
 
-분할구 RCT (7명, 14부위, 상악 전치부): Densah bur 골밀화가 Magnetic Mallet 대비 1차 ISQ(70.1 vs 49.0) 및 순측 골판 두께에서 유의하게 우수했고, 골밀도와 치조정 폭경은 6개월 시점에 동등했다.
+Densah bur osseodensification consistently exceeds the ISQ ≥70 loading threshold in the esthetic anterior maxilla; Magnetic Mallet carries a steep learning curve and complication risk in thin anterior ridges.
+
+## 세줄요약
+
+분할구 무작위대조시험 (RCT, 7명, 14부위, 상악 전치부 심미 영역): 회전식 Densah bur (DB) vs 펄스식 Magnetic Mallet (MM) 골밀도화 (Osseodensification, OD) 임플란트 안정성 비교.
+
+Densah bur가 1차 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 유의하게 우수 (70.1 vs 49.0, p<0.001), 순측 골판 두께도 즉시 및 6개월 시점 모두 우세; 골밀도·치조정 폭경은 6개월에 동등; MM군에서 술중 합병증 2건 발생(1건 순측 골판 파절로 임플란트 실패, 1건 구개측 균열).
+
+Densah bur OD는 상악 전치부 심미 영역에서 ISQ ≥70 임계값을 일관되게 달성; Magnetic Mallet은 전치부 박막 골능에서 학습 곡선이 가파르고 합병증 위험이 있다.
 
 ## Summary
 

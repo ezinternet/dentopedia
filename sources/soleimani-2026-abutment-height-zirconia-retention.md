@@ -9,7 +9,7 @@ pdf_filename: soleimani-2026-abutment-height-zirconia-retention.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 IJOD 2026: abutment height (2mm vs 4mm) × TheraCem vs GI cement for monolithic zirconia — strong positive correlation between abutment height and pull-out force; TheraCem > GI at both heights; zirconia + self-adhesive resin cement viable for short clinical crowns.
 
 ## 1. Key Results

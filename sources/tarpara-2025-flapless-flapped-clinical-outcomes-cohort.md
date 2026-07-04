@@ -17,13 +17,23 @@ text_filename: tarpara-2025-flapless-flapped-clinical-outcomes-cohort.txt
 
 Part of the user's flapless-implant PubMed ingest. Paired with [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] (RCT), this non-randomized cohort gives the **opposite crestal-bone verdict** — flapless and flapped lost bone equally at 12 months — so the two pages together show how design and follow-up shape the answer. It also adds the pain / probing-depth dimension that the immediate-implant flapless syntheses ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]]) and ridge-preservation flap papers ([[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]]) do not cover for healed-ridge placement.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective non-randomized cohort (n=20, single posterior implants, 12-month post-load) finding flapless placement gave significantly less postoperative pain and lower probing depth at 6 months, but **no difference in crestal bone height** vs the flapped technique at any time point.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 단일 구치부 임플란트 비무작위 코호트 (n=20, 부하 후 12개월)에서 무피판(flapless)이 술후 통증·6개월 탐침깊이는 유의하게 낮았으나, 치조정 골높이(CBH)는 피판군과 어느 시점에도 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

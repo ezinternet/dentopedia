@@ -21,13 +21,23 @@ relations:
     target: ren-2024-morse-taper-abutment-subsidence-locking-force
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative/literature-search review (MEDLINE-PubMed, 10-year window; 84 articles screened → 36 analyzed, no quality appraisal) cataloguing the factors that cause loss of preload in implant abutment screws — material (gold > Ti-alloy > surface-treated Ti > pure Ti), connection type (internal > external hex), calibrated torque, retorque after 10 min, lubrication, settling effect, and abutment collar length.
+Literature-search narrative review (MEDLINE-PubMed 10-year window; 84 articles screened → 36 analyzed; no quality appraisal) cataloguing all reported factors that cause preload loss in implant abutment screws.
 
-## 한줄요약
+Preload retention ranked: gold > Ti-alloy > surface-treated Ti > pure Ti; internal connection outperformed external hex; calibrated torque device, retorque after 10 min, lubrication, and greater implant-abutment contact area all help preserve preload; the settling effect (embedment relaxation) was identified as the unifying upstream mechanism.
 
-문헌검색 기반 서술적 리뷰(MEDLINE-PubMed 10년, 84편 → 36편 분석, 질평가 없음)로, 임플란트 지대주 나사의 예압(preload) 손실 유발 요인을 총정리한다 — 재료(금 > 티타늄 합금 > 표면처리 Ti > 순 Ti), 연결형태(내부 > 외부 hex), 보정된 토크기, 10분 후 재토크, 윤활, 세틀링 효과, 지대주 칼라 길이.
+Greatest abutment collar height was associated with significantly greater torque loss after cyclic loading — an underappreciated design variable; no risk-of-bias appraisal was performed, limiting evidence grading.
+
+## 세줄요약
+
+임플란트 지대주 나사 예압(Preload) 손실 유발 요인을 정리한 서술적 문헌검색 리뷰(MEDLINE-PubMed 10년, 84편 → 36편 분석, 질평가 없음).
+
+예압 유지: 금 > Ti 합금 > 표면처리 Ti > 순 Ti; 내부 연결이 외부 헥스보다 우월; 보정된 토크기 사용·10분 후 재토크·윤활·광범위한 계면 접촉이 모두 예압 보존에 기여; 세틀링 효과(Settling Effect, 매입 이완)가 공통 근본 기전.
+
+지대주 칼라 높이가 클수록 사이클 하중 후 토크 손실 유의하게 증가(과소평가된 설계 변수); 질평가 미시행으로 근거 등급화 불가.
+
+
 
 ## Summary
 

@@ -22,13 +22,21 @@ relations:
     target: cafferata-2025-impaired-treg-mediated-immune-regulation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Immunohistochemical study of granulation tissue biopsies from 20 human peri-implantitis lesions: macrophages occupy ~14% of the inflammatory connective tissue, with M1 (CD80) significantly exceeding M2 (CD206) at advanced sites; CD68 and M1 expression correlate with probing depth.
+Cross-sectional immunohistochemical study (n=20 patients, 20 implants; Goethe University Frankfurt) characterizing the macrophage compartment of peri-implantitis granulation tissue curetted from intrabony defects during surgery, stratified by disease severity (slight/moderate/advanced).
 
-## 한줄요약
+Macrophages constituted 14.36% (95% CI 11.4–17.2) of inflammatory connective tissue; M1 (CD80) significantly exceeded M2 (CD206) only at advanced sites (M1/M2 ratio 1.56), and CD68 and M1 expression positively correlated with probing depth (R=0.77 and R=0.57 respectively).
 
-사람 임플란트주위염 병소 20개의 육아조직 생검 면역조직화학 연구: 대식세포가 염증성 결합조직의 약 14%를 차지하고, 진행 병소에서 M1(CD80)이 M2(CD206)보다 유의하게 우세; CD68·M1 발현이 탐침깊이와 상관.
+An M1-skewed, destructive macrophage response accompanies deeper pockets and advanced osteolysis in peri-implantitis, suggesting that shifting macrophage polarization from M1 to M2 may be a key target for resolution and repair beyond mechanical debridement.
+
+## 세줄요약
+
+임플란트주위염 수술 중 골내 결손부에서 채취한 육아조직의 대식세포(Macrophage) 구획을 면역조직화학으로 분석한 단면 연구(n=20명, 중증도 별 분류; 프랑크푸르트 괴테 대학).
+
+대식세포가 염증성 결합조직의 14.36%(95% CI 11.4–17.2)를 차지했으며, 진행된 병소에서만 M1(CD80)이 M2(CD206)보다 유의하게 우세(M1/M2 비 1.56), CD68·M1 발현이 탐침깊이(Probing Depth, PD)와 양의 상관(R=0.77, R=0.57).
+
+탐침깊이가 깊고 골용해가 진행된 임플란트주위염에서 M1 편향 파괴적 대식세포 반응이 동반되므로, 기계적 변연부 청소 외에 대식세포 M1→M2 분극 전환이 해소 및 복구의 핵심 표적이 될 수 있음을 시사.
 
 ## Summary
 

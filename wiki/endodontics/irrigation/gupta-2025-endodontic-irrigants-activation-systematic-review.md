@@ -16,13 +16,21 @@ relations:
     target: boutsioukis-2022-irrigants-irrigation-methods-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PROSPERO CRD420250655029, 2015–2025) of emerging endodontic irrigants (nanoparticle-based, herbal, photoactivated) and activation systems (ultrasonic, laser-activated, multisonic, negative-pressure): they enhance antimicrobial action, biofilm disruption, and smear-layer removal over conventional NaOCl/EDTA, but long-term clinical/healing benefit is unproven (e.g., no significant 12-month periapical-healing difference).
+Systematic review (PROSPERO CRD420250655029, 2015–2025) mapping two intersecting frontiers: next-generation irrigants (nanoparticle, herbal, photoactivated) and next-generation activation systems (PUI, laser/SWEEPS, multisonic GentleWave, apical negative-pressure EndoVac).
 
-## 한줄요약
+Bench and short-term in vitro data consistently favor novel agents and activation systems over conventional NaOCl/EDTA for biofilm penetration, antimicrobial kill, and smear-layer removal — with activation hierarchy laser > ultrasonic > syringe — but no significant periapical-healing difference was found at 12 months in available RCTs.
 
-근관 세정제·활성화 시스템 최신 발전(2015–2025)을 정리한 체계적 고찰 — 나노입자·허브·광활성 세정제와 초음파·레이저·멀티소닉·음압 활성화가 기존 NaOCl/EDTA보다 항균력·바이오필름 제거·스미어층 제거를 향상시키나, 12개월 치유율 등 장기 임상 이득은 아직 입증되지 않았다.
+Clinical enthusiasm should be tempered: the compelling in vitro and short-term signals have not yet translated into statistically significant long-term healing outcomes, and the evidence base remains thin and underpowered for the clinical endpoints that matter most.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 고찰(2015–2025): 신세대 세정제(나노입자·허브·광활성) 및 활성화 시스템(초음파·레이저 SWEEPS·멀티소닉 GentleWave·음압 EndoVac)을 동시에 맵핑.
+
+In vitro·단기 데이터에서는 신세대 세정제·활성화가 기존 NaOCl/EDTA 대비 바이오필름 제거·항균력 우월(활성화 위계: 레이저>초음파>주사기)하나, 이용 가능한 RCT에서 12개월 치근단 치유율 유의차 없음.
+
+체외·단기 이점이 장기 임상 치유 결과로 전환되지 않음 — 근거가 여전히 박약하므로 임상 도입에 신중한 접근 필요.
 
 ## Summary
 

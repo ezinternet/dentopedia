@@ -9,7 +9,7 @@ pdf_filename: gupta-2016-burning-mouth-syndrome-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 BMS 정의, 역학, 병인론, 진단 및 치료 개요를 포괄하는 기초 고찰.
 
 ## 1. Document Information

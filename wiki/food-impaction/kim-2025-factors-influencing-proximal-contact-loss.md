@@ -16,11 +16,19 @@ relations:
     target: kim-2026-proximal-contact-loss-implants-10years
 ---
 
-## One-line Summary
-Retrospective cast-model study (293 implants from 240 patients, posterior): 30.7% of implant sites developed PCL, half by 19.2 months; a pre-existing interproximal gap between adjacent natural teeth was the strongest factor (logistic OR 2.684, P=0.007; GEE OR 3.255, P=0.003).
+## Three-line Summary
+Retrospective cast-model study (293 posterior implants, 240 patients, Korea) evaluating 8 patient/anatomic factors for proximal contact loss (PCL) between fixed implant prostheses and adjacent natural teeth.
 
-## 한줄요약
-후향 cast model 연구(293 임플란트, 240명): 30.7%에서 PCL, 절반이 19.2개월 내; 인접 자연치 간 기존 interproximal gap이 최강 인자(OR 2.684/3.255).
+PCL occurred in 30.7% of sites (90/293); Kaplan–Meier showed half of all cases emerged by 19.2 months; a pre-existing interproximal gap between adjacent natural teeth was the dominant factor (logistic OR 2.684, P=0.007; GEE OR 3.255, P=0.003).
+
+Pre-existing interproximal gap and generalized arch gap should be assessed pre-prosthetically; patients with these features warrant early proximal-contact surveillance and heightened recall.
+
+## 세줄요약
+후향 cast model 연구(한국, 240명·293 구치부 임플란트): 설치 전·후 인상모형으로 8가지 해부·환자 인자와 PCL(인접 자연치와의 근접접촉 소실) 발생의 관계를 분석.
+
+PCL 발생률 30.7%(90/293); Kaplan–Meier에서 절반이 19.2개월 이내 발생; 인접 자연치 간 기존 interproximal gap이 최강 독립인자(logistic OR 2.684, P=0.007; GEE OR 3.255, P=0.003).
+
+보철 전 기존 치간 공간과 전악 gap을 평가해야 하며, 이들 인자가 있는 환자는 조기 접촉 모니터링·단기 리콜이 필요하다.
 
 ## Summary
 This Korean retrospective study used cast-model analysis to identify causal factors for proximal contact loss (PCL) between posterior fixed implant prostheses and adjacent natural teeth. From 653 implants, 293 in 240 patients were analyzed against sex, implant site, jaw position, Angle's classification, anterior overbite, a pre-existing interproximal gap between the adjacent (mesial) natural teeth, generalized full-arch gap, and mandibular anterior crowding. Ninety sites (30.7%) showed PCL, and Kaplan–Meier analysis showed a gradual time-dependent increase with half of cases occurring by 19.2 months. A pre-existing interproximal gap between adjacent natural teeth was the dominant factor, significant on chi-square (P=0.002), logistic regression (OR 2.684, P=0.007), and GEE (OR 3.255, P=0.003); a generalized arch gap was also significant on chi-square (P=0.027). The work extends the PCL factor list toward patient-specific pre-existing dentition geometry.

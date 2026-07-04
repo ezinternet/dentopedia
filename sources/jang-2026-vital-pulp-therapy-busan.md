@@ -9,7 +9,7 @@ pdf_filename: jang-2026-vital-pulp-therapy-busan.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 A 69-slide Korean clinical lecture presented in Busan (April 2026) by a clinician named Jang, covering step-by-step protocols for Vital Pulpotomy and Vital Pulpectomy using bioceramic materials (Endoseem), with FAQ and case-based illustrations.
 
 ## 1. Document Information

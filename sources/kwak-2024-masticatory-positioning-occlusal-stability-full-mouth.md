@@ -13,13 +13,23 @@ source_collection: external
 
 Adds a long-term (10-year) human clinical anchor for the centric-relation / therapeutic-position concept that underpins occlusal-scheme choices — extends [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]]'s static guidance-scheme framing into a longitudinal, function-driven (chewing-pattern) definition of the therapeutic position, and complements digital concordance-measurement work like [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] by reporting concordance of mandibular movements (CM-H vs MICP) over a decade.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 10-year follow-up case series (n=16) using an intraoral Gothic arch tracer to set the normalized hard-food chewing position (CM-H) as the therapeutic position for full-mouth rehabilitation; 63% concordance between CM-H and MICP at both timepoints, with overall stomatognathic recovery improving 19%, supporting long-term stability of chewing-position-centered occlusal reconstruction.
 
-## 한줄요약
+Prospective 10-year follow-up case series (n=16) using an intraoral Gothic arch tracer to set the normalized hard-food chewing position (CM-H) as the therapeutic position for full-mouth rehabilitation;
 
-전악 수복 환자 16명을 약 10년 추적한 전향적 증례군 — 구내 고딕아치 트레이서로 정상화한 단단한 음식 저작위치(CM-H)를 치료위(therapeutic position)로 설정. CM-H와 최대교두감합위(MICP) 일치율이 1차·2차 모두 63%로 유지되고 4가지 운동 전체 일치율은 19% 개선되어, 저작위 중심 교합 재건의 장기 안정성과 구강악계 회복을 임상적으로 뒷받침.
+63% concordance between CM-H and MICP at both timepoints, with overall stomatognathic recovery improving 19%, supporting long-term stability of chewing-position-centered occlusal reconstruction.
+
+(incomplete)
+
+## 세줄요약
+
+
+전악 수복 환자 16명을 약 10년 추적한 전향적 증례군 — 구내 고딕아치 트레이서로 정상화한 단단한 음식 저작위치(CM-H)를 치료위(therapeutic position)로 설정.
+
+CM-H와 최대교두감합위(MICP) 일치율이 1차·2차 모두 63%로 유지되고 4가지 운동 전체 일치율은 19% 개선되어, 저작위 중심 교합 재건의 장기 안정성과 구강악계 회복을 임상적으로 뒷받침.
+
+(incomplete)
 
 ## 1. Document Information
 

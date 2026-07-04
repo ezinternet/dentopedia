@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, oxygen-plasma, anodization, transgingival, fibroblast, soft-tissue, titanium-alloy, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro preliminary report: anodized Ti-6Al-4V discs (28/67/78/98 V) with half additionally treated by low-pressure RF oxygen plasma ("S"); plasma left morphology unchanged but raised surface oxygen ~1% and produced significantly higher human-fibroblast proliferation and adhesion than anodized-only "A", with no cytotoxicity (best corrosion resistance at 78 V).
+In vitro preliminary report on grade-23 Ti-6Al-4V discs anodized at four voltages (28/67/78/98 V), with half further treated by low-pressure RF oxygen plasma ("S" groups vs "A" only), targeting the transgingival (soft-tissue) implant surface — tested with CHO cells and primary human fibroblasts.
 
-## 한줄요약
+Oxygen plasma did not change surface morphology but raised surface oxygen content by approximately 1% (XPS), and "S" specimens showed significantly higher human fibroblast proliferation and adhesion than anodized-only "A" specimens, with no cytotoxicity; best corrosion resistance was at 78 V.
 
-in vitro 예비보고: 양극산화 Ti-6Al-4V(28/67/78/98 V) 중 절반에 저압 RF 산소 플라즈마("S") — 형태 불변·표면 산소 약 1%↑, "S"가 양극산화 단독 "A"보다 섬유아세포 증식·부착 유의하게 높고 세포독성 없음(부식저항 78 V 최고).
+Results are preliminary and in vitro only — no in vivo soft-tissue sealing data exist and the anodization protocol was not yet finalized, making this a proof-of-concept for plasma's incremental benefit on the transgingival surface.
+
+## 세줄요약
+
+줄1: Grade-23 Ti-6Al-4V 디스크 4개 전압(28/67/78/98 V) 양극산화 후 절반에 저압 RF 산소 플라즈마("S" vs 양극산화만 "A") in vitro 예비보고 — 경조직보다 치은 통과 연조직 표면 타겟, CHO+1차 인체 섬유아세포.
+
+줄2: 산소 플라즈마는 표면 형태 불변, 표면 산소 약 1%↑(XPS); "S"가 "A"보다 섬유아세포 증식·부착 유의하게 높고 세포독성 없음; 부식저항 78 V 최고.
+
+줄3: 예비·in vitro에 국한 — in vivo 연조직 밀봉 데이터 없고 양극산화 프로토콜 미확정; 경조직 대비 연조직면 플라즈마 증분 이점의 개념검증.
 
 ## Summary
 

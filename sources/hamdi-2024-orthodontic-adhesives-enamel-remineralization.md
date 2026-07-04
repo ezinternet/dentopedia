@@ -17,11 +17,21 @@ text_filename: hamdi-2024-orthodontic-adhesives-enamel-remineralization.txt
 
 교정 브라켓 주위 백반병소(WSL) 예방을 "접착제 자체에 재광화제를 넣는" 재료 관점에서 정리해, WSL 요법 network MA [[caries/xie-2023-white-spot-lesion-therapies-sr-nma]]와 재광화 기술 SR [[caries/malcangi-2023-enamel-remineralization-techniques-sr]]가 다루는 topical agent 접근을 접착제-전달 축으로 확장한다. 또한 재광화 평가법(micro-CT/TMR/PLM/단면경도/FTIR/EDS)의 방법론 프레임을 제공.
 
-## One-line Summary
+## Three-line Summary
+
 PRISMA/PROSPERO SR of 24 in vitro studies: orthodontic adhesives loaded with bioactive fillers (bioactive glass, n-HAP, n-ACP, n-AFCP, nCaF2) or fluoride-releasing cements significantly remineralize/anti-demineralize enamel around brackets, but evidence is weak (15/24 high risk of bias, heterogeneous, no meta-analysis).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 교정 접착제에 생체활성 필러(BAG, n-HAP, n-ACP, n-AFCP, nCaF2)나 불소방출을 넣으면 브라켓 주위 법랑질을 재광화/탈회억제한다는 in vitro 24편 SR — 그러나 24편 중 15편 고비뚤림, 이질성 커 메타분석 불가, 근거 약함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Oral Health 2024;24(1):1446. PMC11603835. DOI 10.1186/s12903-024-05237-y.

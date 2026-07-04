@@ -14,11 +14,21 @@ source_collection: external
 tags: [immediate-implant, GBR, barrier-membrane, DDBM, dentine-derived-membrane, e-PRF, Alb-PRF, posterior-mandible, ISQ, marginal-bone-loss, RCT]
 ---
 
-## One-line Summary
-RCT (BMC Oral Health 2026, n=40, immediate implant + GBR in non-restorable posterior mandibular molars, 24-month follow-up): autogenous dentine-derived barrier membrane (DDBM) vs extended/albumin PRF (e-PRF) membrane over identical allograft — no significant intergroup difference in implant stability (ISQ), PPD, marginal bone loss, or bone density; both arms 100% survival. The two autogenous biological membranes are equivalent.
+## Three-line Summary
 
-## 한줄요약
-Mansoura Univ RCT (BMC Oral Health 2026, n=40, 하악 구치 즉시 식립 + GBR, 24개월): 자가 DDBM(상아질 유래 차폐막) vs e-PRF 차폐막 — implant stability·PPD·MBL·골밀도 전부 군간 유의차 없음, 둘 다 100% 생존. 두 생물학적 자가 막이 동등.
+RCT (n=40, BMC Oral Health 2026) comparing autogenous dentine-derived barrier membrane (DDBM) vs extended/albumin PRF (e-PRF) membrane for GBR at immediate posterior mandibular molar implants over 24 months.
+
+Both groups achieved 100% survival with no significant intergroup differences in ISQ (median 78 vs 79 at 12 months, p=0.201), probing depth, marginal bone loss, or bone density.
+
+Both autogenous biological membranes are clinically equivalent 24-month options; neither absolute regenerative benefit nor chairside preparation burden can be compared against non-grafted controls, limiting practice-changing conclusions.
+
+## 세줄요약
+
+RCT (n=40, BMC Oral Health 2026): 하악 구치부 즉시식립 + GBR에서 자가 상아질 유래 차폐막(DDBM) vs e-PRF 차폐막을 24개월간 비교.
+
+양군 모두 생존율 100%, ISQ (12개월 중앙값 78 vs 79, p=0.201)·PPD·변연골소실·골밀도 모두 군간 유의차 없음.
+
+두 생물학적 자가 차폐막은 24개월 임상·방사선 결과가 동등하나, 비이식 대조군 부재로 차폐막 자체의 기여분을 분리할 수 없다는 한계가 있다.
 
 ## Summary
 Randomized controlled trial comparing two biological autogenous barrier membranes — a dentine-derived barrier membrane (DDBM) versus an extended/albumin PRF (e-PRF) membrane — for guided bone regeneration accompanying immediate implant placement in non-restorable posterior mandibular molars. Forty patients (20/group) received immediate implants with the peri-implant gap filled by allograft; the two arms differed only in the covering membrane.

@@ -16,13 +16,21 @@ relations:
     target: miao-2021-rubber-dam-isolation-restorative-treatment
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Examiner-blind split-mouth RCT (30 patients, 60 NCCL restorations, 18-month follow-up) found no significant difference between rubber dam and cotton roll/retraction cord isolation for retention rate (73% vs 73% at 18 months), gingival damage, patient preference, or chairside time.
+Examiner-blind split-mouth RCT (Oper Dent 2015; 30 patients, 60 NCCL restorations, FDI-criteria evaluation at baseline, 6, 12, 18 months) comparing rubber dam versus cotton roll/retraction cord isolation for adhesive NCCL restorations placed with a one-step self-etch adhesive.
 
-## 한줄요약
+Rubber dam and cotton roll/retraction cord isolation showed no significant difference in restoration retention (73% vs 73% at 18 months), gingival damage, patient preference (RD 54% vs CR/RC 46%, P=0.86), or chairside time (20.8 vs 21.2 min, P=0.77) at any timepoint.
 
-Examiner-blind split-mouth RCT(환자 30명, 유치경부병소 수복물 60개, 18개월 추적)에서 러버댐과 코튼롤/견인사 격리법 간 유지율(18개월 73% vs 73%), 치은손상, 환자 선호도, 시술시간 모두 유의한 차이가 없었다.
+Cotton roll/retraction cord is a valid alternative to rubber dam for NCCL adhesive restorations when performed by experienced operators; the low 18-month overall retention rate (73%) in this study reflects the one-step adhesive chemistry rather than the isolation method.
+
+## 세줄요약
+
+Examiner-blind 분할 구강 RCT(Oper Dent 2015; 환자 30명, 비우식성 치경부병소(NCCL) 수복물 60개, FDI 기준 baseline·6·12·18개월 평가) — 1단계 자가산부식 접착제를 사용한 NCCL 수복에서 러버댐 vs 코튼롤/견인사 격리법 비교.
+
+러버댐과 코튼롤/견인사 간 수복물 유지율(18개월 73% vs 73%), 치은 손상, 환자 선호도(RD 54% vs CR/RC 46%, P=0.86), 시술 시간(20.8 vs 21.2분, P=0.77) 모두 어느 시점에서도 유의한 차이 없음.
+
+경험 있는 술자가 시행할 경우 코튼롤/견인사는 NCCL 수복의 러버댐 대안으로 유효하며; 이 연구의 낮은 18개월 전체 유지율(73%)은 격리법이 아닌 1단계 접착제의 특성에 기인한다.
 
 ## Summary
 

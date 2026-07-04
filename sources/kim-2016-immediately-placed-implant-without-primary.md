@@ -13,7 +13,7 @@ source_collection: local
 tags: [immediate-implant-placement, primary-stability, extraction-socket, osseointegration, healing, case-report]
 ---
 
-## One-line Summary
+## Three-line Summary
 Case report and literature review of successfully osseointegrated implants placed immediately in extraction sockets despite lack of primary stability.
 
 ## 1. Document Information

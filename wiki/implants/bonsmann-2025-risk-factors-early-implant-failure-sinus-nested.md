@@ -14,11 +14,21 @@ source_collection: external
 tags: [sinus-augmentation, early-implant-failure, nested-case-control, risk-factors, multi-center, Germany, JCP, multivariable]
 ---
 
-## One-line Summary
-Multi-center nested case-control study (8 German centers, 2016–2021; 129 cases + 273 matched controls) of early implant failure (≤12 months) in the sinus augmentation context, using multivariable logistic regression to estimate confounder-adjusted ORs for risk factors (smoking, periodontitis history, simultaneous vs delayed placement, sinus anatomy, augmentation material).
+## Three-line Summary
 
-## 한줄요약
-JCP 2025 다기관 nested case-control (8 독일 센터, 2016-2021, n=129 case + 273 control): sinus augmentation 후 조기 임플란트 실패 (≤12 month) — multivariable logistic regression으로 위험인자 OR 산출.
+Multi-center nested case-control study (8 German centers, 2016–2021; 129 cases of early implant failure ≤12 months + 273 matched controls) specifically within the sinus augmentation context, using multivariable logistic regression for confounder-adjusted OR estimation.
+
+Risk factors examined included smoking, periodontitis history, simultaneous vs delayed implant placement, sinus anatomy, and augmentation material; multivariable adjustment provides the first confounder-controlled estimates in this specific clinical context.
+
+This is the first multi-center nested case-control study focused on early failure after sinus augmentation; findings apply only to ≤12-month failure and 8 German centers, limiting generalizability to non-sinus implants or other populations.
+
+## 세줄요약
+
+다기관 nested case-control 연구(8 독일 센터, 2016-2021; 조기 실패 n=129 케이스·대조 n=273): 상악동거상술(Sinus Augmentation) 후 ≤12개월 조기 임플란트 실패 위험인자를 multivariable logistic regression으로 교란변수 보정 OR 산출.
+
+검토 위험인자: 흡연·치주염 병력·동시 vs 지연 식립·동 해부·증대 재료; 이 특정 임상 맥락에서 최초의 다기관 교란변수 보정 추정치 제공.
+
+sinus augmentation 후 조기 실패에 특화된 최초 다기관 nested case-control; ≤12개월 실패·8개 독일 센터로 제한되어 비상악동 임플란트·타 집단으로 일반화 어려움.
 
 ## Summary
 Multi-center nested case-control study across 8 German centers examining determinants of early implant failure (within 12 months of placement) specifically in the sinus augmentation context. Includes 129 cases (lost implants) and 273 matched controls (implants not lost within 12 months). Multivariable logistic regression provides OR estimates adjusted for confounders.

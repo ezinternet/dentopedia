@@ -38,11 +38,21 @@ source_papers:
 > - **결정 2번째 gate(C/I·부하)**: 단, Torres-Alemany 2020은 C/I 비가 임플란트 상실(p=0.9)·MBL(p=0.36)에 유의 영향 없음 → 높은 C/I 단독은 숏 거부의 약한 이유, 진짜 gate는 교합부하/parafunction. 예외: 비고정(nonsplinted) 숏 단일치관(≤6 mm)은 장기 생존 열위(Xu 2020, RR 0.94, p=.01) → splinting/거상 고려.
 > - **결정 3·4번째**: 동등 시 숏은 이환·비용·시간·술후통증 우위, 거상은 publish된 track record 우위 → 환자 우선순위로 tie-break. 거상 시 RBH 충분하면 경치조골(transcrestal)이 측방창보다 술후 통증 적음(Menini 2025, PROM 초록 기반·미검증).
 
-## One-line Summary
-Across six SR/MAs and one PROM meta-analysis, short implants (4–8 mm, no sinus lift) match standard/long implants + sinus augmentation on survival, show consistently less marginal bone loss, and carry lower morbidity — so the decision hinges on residual bone height, crown-to-implant ratio, and patient-experience factors rather than survival.
+## Three-line Summary
 
-## 한줄요약
-SR/MA 6편 + PROM 메타분석 1편 종합 — short implant(4–8 mm, 무거상)는 표준/장축 임플란트+상악동거상과 생존율 동등, 변연골소실은 일관되게 더 적고 침습·이환은 낮음. 따라서 선택 기준은 생존율이 아니라 잔존골고(RBH)·치관-임플란트 비(C/I)·환자경험이다.
+Synthesis of 15 papers (6 SR+MAs, 2 umbrella reviews, 1 PROM SR+MA, 1 10-year RCT, 5 additional studies) comparing short implants (4–8 mm, no sinus lift) vs standard/long implants plus sinus augmentation in the atrophic posterior maxilla.
+
+Across all 6 independent meta-analyses, survival equivalence is non-significant (representative: Toledano 2022 RR 1.02, p=0.09; Chaware 2021 RR 1.01, I²=0%; Thoma 2024 10-year RCT 96.0% vs 100%, p=0.24); short implants show consistently less marginal bone loss (Mester 2023 WMD −0.29 mm, p=0.005; Alenezi 2025 MD −0.26 mm, p<0.001) and lower biological complication rates (Mester RR 0.46, p=0.03; Alenezi OR 0.39, p=0.02).
+
+The decision shifts from survival to four gates: (1) residual bone height — RBH ≥5–6 mm favors 6–8 mm short implants; RBH <4–5 mm favors sinus augmentation (benchmark >97% survival, Derbishi 2026); (2) non-splinted ultra-short ≤6 mm single crowns show inferior long-term survival (Xu 2020 RR 0.94, p=0.01); (3) the ≥5-year evidence pool is thin and low-certainty; (4) when equivalent, short implants win on morbidity, cost, and time.
+
+## 세줄요약
+
+15편 종합(SR+MA 6편, 우산형 리뷰 2, PROM SR+MA 1, 10년 RCT 1, 기타 5) — 위축된 후방 상악에서 숏 임플란트(4–8 mm, 무거상) vs 표준/장축 임플란트+상악동거상 비교.
+
+6개 독립 메타분석 모두 생존율 차이 비유의(Toledano 2022 RR 1.02, p=0.09; Thoma 2024 10년 RCT 96.0% vs 100%, p=0.24); 숏 임플란트는 일관되게 변연골소실(MBL) 적고(Mester 2023 WMD −0.29 mm, p=0.005; Alenezi 2025 MD −0.26 mm, p<0.001) 생물학적 합병증도 낮다(Mester RR 0.46, p=0.03; Alenezi OR 0.39, p=0.02).
+
+선택 기준 4단계 게이트: ①잔존골고(RBH) ≥5–6 mm → 6–8 mm 숏 우선, <4–5 mm → 거상(생존 >97%); ②비연결형 극초단(≤6 mm) 단일치관은 장기 생존 열위(Xu 2020 RR 0.94, p=0.01); ③≥5년 풀은 얇아 장기근거 낮음; ④동등 시 숏이 이환·비용·시간 면에서 유리.
 
 ## Thesis
 The clinical question is no longer "does the short implant survive as well as the grafted long implant?" — six independent meta-analyses answer that with a consistent **yes** (survival equivalent, all non-significant). The dataset's strongest and most reproducible signal is that **short implants lose less marginal bone**, and they avoid the morbidity and PROM burden of sinus augmentation. The decision therefore shifts to four real discriminators: residual bone height, crown-to-implant ratio / occlusal load, the long-term (≥5 y) evidence gap, and patient preference for lower morbidity.

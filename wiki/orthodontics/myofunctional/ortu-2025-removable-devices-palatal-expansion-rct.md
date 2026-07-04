@@ -19,13 +19,21 @@ relations:
     target: ortu-2024-haas-expander-vs-elastodontic-crossbite
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=70 children, mean age 11±1 y) comparing the Eptamed Equilibrator elastodontic device (series 00) vs the Schwartz plate for palatal expansion of posterior crossbite; the elastodontic device achieved expansion comparable to the conventional removable plate, with greater comfort and compliance.
+Randomised open-label clinical trial (n=70 children, mean age 11±1 y; 30 boys, 40 girls) comparing Eptamed Equilibrator elastodontic device (series 00) vs Schwartz plate for palatal expansion of posterior crossbite, with inter-premolar width measured at 6 and 12 months.
 
-## 한줄요약
+The elastodontic device achieved palatal expansion comparable to the Schwartz plate, while delivering greater patient comfort and compliance; exact mm expansion values are not retrievable from the abstract.
 
-후방 교차교합 아동 70명(평균 11±1세)을 엘라스토돈틱 장치(Eptamed Equilibrator series 00) 군과 슈바르츠 판(Schwartz plate) 군으로 무작위 배정한 RCT. 엘라스토돈틱 장치는 전통적 가철식 확장 장치와 동등한 구개 확장량을 보였고, 편안함과 순응도는 더 높았다 (초록만 확보).
+The Eptamed Equilibrator is a viable comfort-favourable alternative to the screw-activated Schwartz plate for mild posterior crossbite in children, but fixed/screw expanders (Haas/RME) should be preferred when larger skeletal expansion is required.
+
+## 세줄요약
+
+무작위 공개 임상시험(n=70, 평균 11±1세, 남 30·여 40명) — Eptamed Equilibrator 탄성교정장치(00 시리즈) vs 슈바르츠 판(Schwartz plate) 구개 확장 비교; 6·12개월 제1소구치간 폭경 측정.
+
+탄성교정장치는 슈바르츠 판과 동등한 구개 확장을 달성하면서 환자 편안함·순응도가 더 높았음; 초록만 확보되어 수치(mm) 및 통계적 유의값 불가.
+
+Eptamed Equilibrator는 성장기 아동 후방 반대교합의 경도 확장에 슈바르츠 판 대안으로 적합하나, 더 큰 골격적 확장 필요 시 고정식 확장장치(Haas/급속구개확장, RME) 선택.
 
 ## Summary
 

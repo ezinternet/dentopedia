@@ -13,8 +13,21 @@ source_collection: external
 
 경치조골 상악동 거상 기법 비교축에 antral balloon vs Densah(OD)를 추가. [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]], [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]와 함께 [[overviews/sinus-lift-technique-selection]] 갱신. balloon의 즉시 골높이 이득이 6개월에 유의하게 흡수된다는 점이 임상 의사결정 포인트.
 
-## One-line Summary
-RCT (crestal sinus lift + simultaneous implant, 12-month): both successful; Densah/OD gave higher implant primary stability (p=0.004) and bone density; antral balloon gave more immediate vertical bone gain but significant resorption by 6 months.
+## Three-line Summary
+
+RCT comparing antral membrane balloon vs Densah bur (osseodensification, OD) for crestal transcrestal sinus lift with simultaneous implant placement; 12-month clinical and radiographic follow-up.
+
+All implants succeeded at 12 months; Densah/OD provided significantly higher primary stability (p=0.004) and bone density; antral balloon produced greater immediate vertical bone height gain (p<0.0001) but showed significant resorption by 6 months (p<0.0001).
+
+Both techniques are viable; Densah/OD is preferred when primary stability and bone density are critical; the antral balloon's initial vertical gain advantage is partially transient, limiting its role as a purely volume-based approach.
+
+## 세줄요약
+
+RCT — 경치조골 상악동거상술(transcrestal sinus lift) + 동시 임플란트 식립에서 풍선 상악동거상(antral membrane balloon) vs Densah 버(골밀도화, OD) 비교; 12개월 추적.
+
+모든 임플란트 12개월 성공; Densah/OD에서 일차 안정성(p=0.004)·골밀도 유의하게 높음; 풍선에서 즉시 수직 골높이 이득 유의하게 크나(p<0.0001), 6개월까지 유의하게 흡수(p<0.0001).
+
+두 술식 모두 임상적으로 유용하나, 일차 안정성·골밀도가 중요한 경우 Densah/OD 선호; 풍선의 즉시 수직 이득은 부분적으로 소실되어 단순 부피 확보 용도로만 사용하기 어려움.
 
 ## 1. Document Information
 - BMC Oral Health 2024;24:916. doi 10.1186/s12903-024-04609-8. Randomized clinical trial.

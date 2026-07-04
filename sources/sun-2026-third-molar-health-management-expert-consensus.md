@@ -17,13 +17,23 @@ text_filename: sun-2026-third-molar-health-management-expert-consensus.txt
 
 A 2026 Chinese multi-center expert consensus covering the full clinical lifecycle of third molar management — from developmental classification through surgical technique, socket regeneration, severe-complication rescue, and functional utilization — represents the highest-level synthesis available on this topic. It directly complements and extends [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]], which is limited to extraction-indication frameworks, by adding surgical protocol granularity, a modified Pell & Gregory Category D subclassification, coronectomy decision rules, and autotransplantation criteria. It also contextualizes [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] recommendations within a broader operative decision tree.
 
-## One-line Summary
+## Three-line Summary
+
 
 Chinese multi-center expert consensus (2026) covering the full clinical spectrum of third molar management: developmental trajectory, classification, extraction indications, preoperative preparation, surgical techniques (including coronectomy, root-removal-first, orthodontic traction, and digital navigation), socket graft materials, severe-complication rescue protocols, and functional utilization via autotransplantation or orthodontic mesialization.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 2026년 중국 다기관 전문가 합의문으로, 사랑니(제3대구치)의 발생·분류·발치 적응증·수술 기법(발치 전 치관절제술, 치근우선 발치, 교정적 견인, 디지털 가이드)·소켓 이식재·중증 합병증 처치 및 기능적 활용(자가치아이식, 교정적 근심이동)을 총망라한 최고 수준의 지침서.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

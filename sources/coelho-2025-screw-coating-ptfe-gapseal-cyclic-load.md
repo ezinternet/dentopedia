@@ -20,13 +20,21 @@ relations:
 
 Prior page [[prosthetic-materials/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] tested PTFE vs GapSeal under static (non-cyclic) conditions. This 2025 follow-up by the same group adds the critical clinical dimension of cyclic loading (ISO 14801: 300,000 cycles, 37 °C distilled water, simulating 1 year of chewing), revealing that cyclic loading reverses PTFE's RTV deficit — making it the highest-RTV coating under oral simulation despite consistently lowering preload. Extends and qualifies the 2024 finding.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=90, ±CL): GapSeal maintained best overall RTV without cyclic loading; PTFE uniquely reversed to highest RTV (31.50 Ncm) after 300,000-cycle ISO loading, though PTFE consistently reduced preload in both conditions.
+In vitro randomized study (n=90, 3 coatings × 2 loading conditions: non-cyclic vs ISO 14801 300,000-cycle, 37°C) comparing GapSeal and PTFE tape on preload and removal torque (RTV) with and without simulated chewing on external-hex implant complexes.
 
-## 한줄요약
+Without cyclic loading, GapSeal had the highest RTV (28.48 Ncm) and PTFE the lowest (15.30 Ncm); after cyclic loading this reversed, with PTFE achieving the highest RTV (31.50 Ncm), while PTFE consistently reduced preload in both conditions.
 
-체외 연구(n=90, 사이클 하중 유무): GapSeal은 비사이클 조건에서 RTV가 가장 높았으나, PTFE는 ISO 30만 사이클 하중 후 오히려 RTV가 가장 높아져(31.50 Ncm) 하중 전후 결과가 역전됨; 단, PTFE는 모든 조건에서 예압(preload)을 유의하게 감소시킴.
+PTFE's loading-dependent RTV reversal is attributed to mechanical interlocking of fragmented PTFE debris; the persistent preload deficit with PTFE remains a clinical concern not resolved by this in vitro external-hex model.
+
+## 세줄요약
+
+체외 무작위 연구(n=90, 3코팅 × 비사이클/ISO 14801 30만 사이클·37°C): 외부 육각 임플란트에서 GapSeal·PTFE의 프리로드·제거 토크(RTV)를 하중 유무 두 조건에서 비교.
+
+비사이클 조건: GapSeal 최고 RTV(28.48 Ncm), PTFE 최저(15.30 Ncm) → 사이클 하중 후 역전: PTFE 최고 RTV(31.50 Ncm); 단, PTFE는 모든 조건에서 프리로드 유의하게 감소.
+
+PTFE의 RTV 역전은 파쇄된 PTFE 파편의 기계적 맞물림으로 추정되나, 프리로드 감소 문제는 해결되지 않았으며 내부 연결 임플란트로의 일반화 전 추가 검증 필요.
 
 ## 1. Document Information
 

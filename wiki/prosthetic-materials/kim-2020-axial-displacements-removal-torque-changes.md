@@ -20,13 +20,21 @@ relations:
     target: seong-2016-external-internal-implant-connection-system
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro static-loading study (5 implant-abutment connection designs, n=10 each, 700 N vertical load) showing settling (axial displacement) increases with tapered interfaces (external butt-joint lowest at 0.8 µm, internal 8° Morse-taper octagon highest at 25.6 µm), and that two-piece abutments lose removal torque (preload) from settling while one-piece abutments gain it through friction.
+In-vitro static-loading study of 5 Osstem implant-abutment connection designs (n=10 each) under a single 700 N vertical load measuring axial settling and post-load removal torque.
 
-## 한줄요약
+Settling scaled with interface taper: external butt-joint 0.8 µm (lowest) vs internal 8° Morse-taper octagon 25.6 µm (highest); two-piece abutments lost removal torque (near-total in Int-O2: 1.14 Ncm), while one-piece abutments gained it via friction (Int-O1: 39.64 Ncm).
 
-In-vitro 정적하중 연구(5종 임플란트-지대주 연결, 군당 n=10, 700 N 수직하중): settling(축방향 변위)은 테이퍼 계면일수록 커지고(외부 버트조인트 0.8 µm 최소 → 내부 8° Morse-taper 옥타곤 25.6 µm 최대), 2-piece 지대주는 settling으로 제거토크(preload)가 감소하나 1-piece 지대주는 마찰로 오히려 증가.
+Steep-taper internal connections with two-piece abutments carry the highest screw-loosening risk after load; settling can also lower the occlusal table after posterior crown delivery.
+
+## 세줄요약
+
+5종 오스템 임플란트-지대주 연결 디자인(군당 n=10)에 700 N 단일 수직하중을 가해 축방향 settling과 제거토크를 측정한 in-vitro 정적하중 연구.
+
+Settling은 테이퍼 각도에 비례(외부 버트조인트 0.8 µm 최소, 내부 8° Morse-taper 옥타곤 25.6 µm 최대); 2-piece 지대주는 제거토크 감소(Int-O2: 1.14 Ncm까지 거의 소실), 1-piece 지대주는 마찰로 오히려 증가(Int-O1: 39.64 Ncm).
+
+경사형 내부연결+2-piece 지대주 조합이 부하 후 나사 풀림 위험 가장 높으며, settling으로 구치부 크라운 장착 후 교합이 낮아질 수 있어 주의 필요.
 
 ## Summary
 

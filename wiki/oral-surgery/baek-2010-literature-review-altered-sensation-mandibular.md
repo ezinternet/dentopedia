@@ -13,13 +13,21 @@ source_collection: external
 tags: [altered-sensation, paresthesia, IAN, inferior-alveolar-nerve, mental-nerve, lingual-nerve, mandibular-implant, nerve-injury, oral-surgery, safety-zone, microneurosurgery, Korean-thesis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (15 studies, PubMed 1990–2009) of altered sensation following posterior mandibular implant placement: incidence 0–55% across studies, mainly IAN/mental nerve, mostly transient (resolves within 6 months), with NSAIDs recommended for non-surgical management and microneuroanastomosis for surgical cases.
+Narrative review (Korean master's thesis, Catholic University of Korea, 2010; 15 studies, PubMed 1990–2009) of altered sensation (paresthesia/anesthesia/dysesthesia) following posterior mandibular implant placement.
 
-## 한줄요약
+Incidence ranges widely from 0.08% (prospective series) to 55% (retrospective questionnaire), reflecting design-dependent overestimation; IAN and mental nerve are most commonly affected, and transient cases (the majority) resolve within 6 months.
 
-서사적 문헌 고찰(15편, PubMed 1990–2009) — 하악 구치부 임플란트 식립 후 감각이상(Altered Sensation)의 이환율은 연구 설계에 따라 0–55%로 이질적이며, 주로 하치조신경(IAN, Inferior Alveolar Nerve)·이신경(Mental Nerve) 손상이고 일시적 증례는 6개월 이내 자연회복; 비외과적 치료는 NSAIDs, 외과적 치료는 미세신경문합술(Microneuroanastomosis).
+Non-surgical management is NSAIDs (ibuprofen 800 mg) first; microneuroanastomosis is indicated when total anesthesia persists >3 months or dysesthesia >4 months without improvement; prevention relies on maintaining a safety zone ≥2 mm above the mandibular canal on panoramic.
+
+## 세줄요약
+
+서술적 문헌고찰(Narrative Review; 한국 석사논문, 가톨릭대학교 구강악안면외과, 2010; 15편, PubMed 1990–2009) — 하악 구치부 임플란트 식립 후 감각이상(Altered Sensation: 감각저하·마취·이상감각) 평가.
+
+이환율은 연구 설계에 따라 0.08%(전향적 연속 연구) ~ 55%(후향적 설문)로 이질적; 주로 하치조신경(Inferior Alveolar Nerve, IAN)·이신경(Mental Nerve) 손상이며, 일시적 증례(다수)는 6개월 이내 자연회복.
+
+비외과적 1차 치료 — NSAIDs(이부프로펜 800mg); 외과적 치료는 전마취 >3개월 또는 이상감각 >4개월 지속 시 미세신경문합술(Microneuroanastomosis) 적응; 예방은 파노라마 기준 하악관 상방 ≥2mm 안전구역 확보.
 
 ## Summary
 

@@ -13,8 +13,21 @@ source_collection: external
 
 치과 환자에서 약물상호작용(Drug-Drug Interaction, DDI)의 실제 유병률·중증도를 정량화한 실세계 근거 — 특히 심혈관질환 환자의 에피네프린(Epinephrine)+베타차단제(Beta-blocker) 같은 주요 DDI를 연령·동반질환별로 층화. 전신질환 환자 치과관리 종합의 약물안전 축을 채운다. See [[overviews/drug-systemic-disease-dental-management-overview]].
 
-## One-line Summary
-Retrospective real-world study (n=105 dental patients, Timișoara private practice, Nov–Dec 2024): DrugBank Drug Interaction Checker analysis of 1,332 drug pairs found 542 DDIs — 2.3% major / 25.0% moderate / 13.4% minor; major DDI burden concentrated in age 31–60 (61.3%) and patients with cardiovascular disease (epinephrine + beta-blocker as flagship example).
+## Three-line Summary
+
+Retrospective real-world cohort study (n=105 consecutive dental patients, single Romanian private practice, Nov–Dec 2024) using DrugBank Drug Interaction Checker to assess drug-drug interaction (DDI) severity across 1,332 drug pairs.
+
+Of 542 DDIs identified, 2.3% were major, 25.0% moderate, and 13.4% minor; major DDIs were concentrated in age 31–60 (61.3%) and cardiovascular patients, with epinephrine + beta-blocker as the highest-profile pairing.
+
+Small single-center sample (n=105) and computational-only flagging without clinical outcome data limit generalizability; results nonetheless underscore the need for systematic DDI screening in medically complex dental patients.
+
+## 세줄요약
+
+후향적 실세계 코호트 연구(루마니아 사설 치과, n=105명, 2024년 11–12월): DrugBank 약물상호작용 검사기로 1,332 약물 쌍을 분석해 DDI 542건 확인 — 주요(major) 2.3%, 중등(moderate) 25.0%, 경미(minor) 13.4%.
+
+주요 DDI는 31–60세(61.3%)와 심혈관계 질환 환자에 집중; 에피네프린+베타차단제가 대표 고위험 조합.
+
+단일 기관 소규모(n=105)·전산 분류만 수행(임상 결과 미수집)으로 일반화에 한계가 있으나, 복합 전신질환 치과 환자에서 체계적 DDI 스크리닝 필요성을 입증.
 
 ## 1. Document Information
 - **Journal**: Dentistry Journal 2025, 13, 255 (received Mar, accepted Jun, published 9 Jun 2025).

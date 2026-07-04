@@ -16,13 +16,21 @@ relations:
     target: silva-2017-periodontitis-associated-with-halitosis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 observational studies (n=2176) found a ~4-fold increased odds of halitosis in periodontitis patients using both organoleptic (OR=4.05) and VSC-based (OR=4.52) assessment methods.
+SR+MA of 9 observational studies (585 cases, 1591 controls; n=2,176; searched through August 2023) examining the association between halitosis and periodontitis with subgroup analysis by measurement method.
 
-## 한줄요약
+Both organoleptic testing (OR=4.05, 95% CI 1.76–9.30) and VSC-based measurement (OR=4.52, 95% CI 1.89–10.83) showed a statistically significant ~4-fold increased odds of halitosis in periodontitis patients; wide confidence intervals reflect high heterogeneity.
 
-9편 관찰연구(n=2176) SR+MA: 치주염 환자에서 구취 발생 위험이 관능검사(OR=4.05) 및 VSC 측정(OR=4.52) 모두에서 약 4배 유의하게 증가하나, 이질성이 높아 결론은 잠정적이다.
+The association holds regardless of halitosis measurement method; high heterogeneity signals the need for standardized measurement and periodontal classification in future studies before clinical thresholds can be established.
+
+## 세줄요약
+
+구취-치주염 연관성을 관능검사 vs VSC 측정 소집단 분석으로 평가한 9편 관찰연구(사례 585·대조 1591, n=2,176; 2023년 8월 검색) SR+MA.
+
+관능검사 기반(OR=4.05, 95% CI 1.76–9.30)과 VSC 측정 기반(OR=4.52, 95% CI 1.89–10.83) 모두 치주염 환자에서 구취 오즈 약 4배 유의하게 증가; 넓은 신뢰구간은 높은 이질성 반영.
+
+구취 측정 방법에 무관하게 연관성 일관; 임상 역치 설정 전에 표준화된 측정 도구 및 치주 분류 체계 적용이 필요.
 
 ## Summary
 

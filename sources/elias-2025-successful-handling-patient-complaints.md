@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 The education capstone of the pipeline: CODE turns the expectation/response evidence into a teachable, dual-track curriculum. It is the constructive counterpart to the 'what not to do' findings of [[complaint-management/12913_2021_Article_6733]] and the structural diagnosis of [[complaint-management/pone.0325185]].
 
-## One-line Summary
+## Three-line Summary
+
 Program description of CODE (Compassion, Operational Support, De-escalation, Empowerment): a dual-track curriculum pairing procedural/operational training with interpersonal communication training for complaint staff.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 CODE(Compassion·Operational Support·De-escalation·Empowerment) 모델 소개 — 운영·절차 트랙과 대인 커뮤니케이션 트랙을 결합한 민원담당자 이중구조 교육과정.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Patient Experience 2025;12. Program/innovation description.

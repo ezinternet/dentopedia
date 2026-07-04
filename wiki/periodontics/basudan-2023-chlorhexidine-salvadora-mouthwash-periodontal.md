@@ -19,13 +19,21 @@ relations:
     target: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=191, 6 weeks, India) — 0.12% CHX and Salvadora persica (miswak) mouthwash equally effective for periodontal inflammation after NSPT in non-smokers; CHX superior for reducing oral Candida; smokers show no benefit from either mouthwash on Candida.
+Single-blind parallel-arm RCT (n=191; India; 6 weeks twice daily) comparing 0.12% CHX, Salvadora persica (miswak/SPM), and distilled water (control) as NSPT adjuncts across three groups (smokers with periodontitis, non-smokers with periodontitis, non-smoker healthy).
 
-## 한줄요약
+In non-smoker periodontitis patients, CHX and SPM equally reduced PI, GI, and PD (p<0.01 vs control); CHX was superior for oral Candida reduction (p<0.01 vs SPM); in smokers, neither mouthwash reduced Candida carriage.
 
-단순맹검 RCT (191명, 6주) — 0.12% CHX와 miswak 가글은 비흡연 치주염 NSPT 후 치주 항염 효과 동등; CHX는 Candida 억제에서 우월; 흡연자에서는 가글의 항진균 효과 없음.
+Miswak can substitute for CHX for periodontal anti-inflammatory purposes, but CHX remains necessary when antifungal efficacy is required; smokers should not expect antifungal benefit from either rinse.
+
+## 세줄요약
+
+단순맹검 RCT(191명, 인도, 6주) — 0.12% CHX·Salvadora persica(miswak) 가글·대조(증류수) 3군으로 NSPT 보조 효과 및 흡연 상태별 항진균 효과 비교.
+
+비흡연 치주염 환자에서 CHX와 miswak 가글은 치주 항염(PI·GI·PD 감소) 효과 동등; CHX는 구강 Candida 억제에서 miswak보다 우월(p<0.01); 흡연자에서는 어떤 가글도 Candida 감소 없음.
+
+치주 항염 목적으로는 허브 가글(miswak)이 CHX 대체 가능하나, 항진균 효과가 필요한 경우 CHX가 선택; 흡연자에게는 가글의 항진균 기대치를 재설정해야 함.
 
 ## Summary
 

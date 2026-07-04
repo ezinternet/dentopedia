@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Bioactive resins represent a frontier strategy against secondary caries — the leading cause of resin restoration failure — directly complementing caries-diet research covered in [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] and biofilm pathogenesis described in oral-microbiology cluster papers such as [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]].
 
-## One-line Summary
+## Three-line Summary
+
 Narrative critical review synthesizing strategies for incorporating antimicrobial, remineralizing, and antidegradation bioactivity into resin composites and adhesives to prevent secondary caries, identifying key material vulnerabilities limiting clinical translation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: 이차 우식 예방을 위한 항균·재광화·항분해 bioactive resin 개발 전략 총괄 — 입자 응집·색상 변화·기계적 물성 저하 등 임상 적용 한계 식별.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dental Research 2023;102(11):1180–1190. Published online 2023-08-09.

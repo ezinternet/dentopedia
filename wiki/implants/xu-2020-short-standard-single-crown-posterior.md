@@ -16,13 +16,21 @@ relations:
     target: xu-2020-short-vs-longer-implants-posterior-5year-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 RCTs finding short implants (≤6 mm) supporting single crowns in the posterior region have survival comparable to standard implants short-term but significantly poorer long-term (RR 0.94), with no MBL difference.
+SR+MA (PRISMA/PROSPERO, 5 RCTs, short ≤6 mm vs standard >6 mm single crowns in the posterior region, searched to August 2019): short implants matched standard implants for short-term survival (RR 0.99, 95% CI 0.97–1.02, p=0.72) but showed significantly lower long-term survival (RR 0.94, 95% CI 0.90–0.99, p=0.01).
 
-## 한줄요약
+Marginal bone loss did not differ between short and standard implants despite the higher crown-to-implant ratio of short implants (MD 0.00, 95% CI −0.10 to 0.11, p=0.94).
 
-RCT 5편 체계적 고찰·메타분석. 구치부 단일 크라운을 지지하는 짧은 임플란트(≤6mm)는 단기 생존은 표준과 동등했으나 장기에서 유의하게 낮았고(RR 0.94, p=.01) MBL 차이는 없었다 — 비스플린트 short 단일 크라운은 신중히.
+Short single crowns are acceptable posteriorly but carry a time-dependent survival penalty — the non-splinted scenario removes the architectural support that multi-unit bridges provide to short implants.
+
+## 세줄요약
+
+SR+MA(PRISMA/PROSPERO, 5 RCT, short ≤6 mm vs standard >6 mm, 구치부 단일 크라운, 검색 2019년 8월): 단기 생존율은 차이 없었으나(RR 0.99, p=0.72) 장기 생존율은 short가 유의하게 낮았다(RR 0.94, 95% CI 0.90–0.99, p=0.01).
+
+높은 크라운-임플란트 비율(Crown-to-Implant ratio)에도 불구하고 변연골소실(MBL)은 두 군 간 차이 없었다(MD 0.00, p=0.94).
+
+구치부 단일 크라운으로서 short implant는 허용되나 시간이 지남에 따라 생존 차이가 나타나며, 스플린트 없는 단독 설계는 다수 연결 보철이 제공하는 구조적 지지를 결여한다.
 
 ## Summary
 

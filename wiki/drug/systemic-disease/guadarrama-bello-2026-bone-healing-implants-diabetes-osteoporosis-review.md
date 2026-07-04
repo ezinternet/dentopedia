@@ -24,13 +24,21 @@ relations:
     target: enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (in vitro/in vivo/clinical) of how diabetes (hyperglycemia, AGE-RAGE, oxidative stress, prolonged inflammation, impaired angiogenesis) and osteoporosis (resorption-shifted remodeling, low BMD) impair peri-implant bone healing, and how titanium surface modifications—especially nanotopography (<25 nm)—can rescue deficient healing pathways.
+Narrative review (Advanced Healthcare Materials 2026, in vitro/in vivo/clinical evidence) integrating how diabetes and osteoporosis separately impair peri-implant bone healing and how titanium surface modifications can rescue those deficient pathways.
 
-## 한줄요약
+Diabetes impairs repair metabolically (AGE-RAGE, oxidative stress, M1 inflammation, impaired angiogenesis → bone forms but fails to integrate; higher peri-implantitis/MBL in uncontrolled patients), while osteoporosis degrades structure (resorption-shifted remodeling, low BV/TV, lower primary stability; OVX models show decreased BIC/removal torque); well-managed patients in both groups can reach >90% survival.
 
-내러티브 리뷰 — 당뇨와 골다공증이 임플란트 주위 골치유를 손상시키는 세포·분자 기전을 정리하고, 티타늄 표면처리(특히 나노토포그래피)가 손상된 치유 경로를 회복시킬 수 있음을 제시한다.
+Nanoscale titanium surface modifications (<25 nm nanotopography) modulate macrophage polarization (M1→M2), osteoblast differentiation, and oxidative-stress response via Wnt/β-catenin, BMP/Smad, and Nrf2 pathways, offering a coating-free strategy to rescue healing in metabolically compromised hosts.
+
+## 세줄요약
+
+서술적 종설(Advanced Healthcare Materials 2026, in vitro·동물·임상 근거 통합): 당뇨와 골다공증이 임플란트 주위 골치유를 손상시키는 별개 기전과 티타늄 표면처리가 이를 회복시키는 원리를 정리.
+
+당뇨는 대사 이상(AGE-RAGE, 산화스트레스, 지속 염증, 혈관신생 저해)으로 골은 형성되나 접촉 실패; 골다공증은 흡수 우세 리모델링으로 BV/TV·BIC·제거 토크 감소 — 두 질환 모두 조절 양호 시 임플란트 생존율 >90% 가능.
+
+나노토포그래피(<25 nm) 표면처리는 대식세포 분극(M1→M2)·조골세포 분화·Nrf2 산화스트레스 경로를 조절해 생체활성 코팅 없이 대사 손상 숙주에서 골치유를 회복시키는 전략으로 제시된다.
 
 ## Summary
 

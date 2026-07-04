@@ -17,13 +17,23 @@ text_filename: xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars.txt
 
 사용자가 요청한 PMC 전문 논문으로, 유치 치수 상태가 애매한(equivocal) 대구치에서 pulpotomy vs pulpectomy 장기 생존율을 성향점수매칭(PSM)으로 직접 비교한 후향적 코호트(312치아, 156쌍 매칭)이다. `[[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]]`(비가역성 치수염 진단에서 두 술식 무차이, 근거 매우 낮음, 단 2편)를 확장(extends)하는 근거로, "애매한 진단" 하위그룹에서는 오히려 pulpotomy가 통계적으로 우월함을 큰 표본으로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort study with 1:1 propensity score matching (312 primary molars with diagnostically equivocal pulp status, 156 matched pairs per group) found pulpotomy (iRoot BP Plus) had significantly higher 24-month survival than pulpectomy (ZOE-iodoform) — 86.4% vs 67.1%, log-rank p<0.001; benefit concentrated in asymptomatic teeth (HR=0.42, p=0.002) with no significant difference in symptomatic teeth (HR=0.88, p=0.41); pulpotomy showed more internal resorption, pulpectomy more external resorption/periapical radiolucency.
 
-## 한줄요약
+Retrospective cohort study with 1:1 propensity score matching (312 primary molars with diagnostically equivocal pulp status, 156 matched pairs per group) found pulpotomy (iRoot BP Plus) had significantly higher 24-month survival than pulpectomy (ZOE-iodoform) — 86.4% vs 67.1%, log-rank p<0.001;
 
-성향점수매칭(PSM) 후향적 코호트 연구(치수 상태가 애매한 유구치 312개, 매칭 후 156쌍)에서 24개월 생존율이 pulpotomy(iRoot BP Plus군) 86.4% vs pulpectomy(ZOE-요오드폼군) 67.1%로 유의하게 높음(log-rank p<0.001); 무증상 치아에서만 pulpotomy 유리(HR=0.42, p=0.002), 유증상 치아는 차이 없음(HR=0.88, p=0.41); pulpotomy군은 내흡수, pulpectomy군은 외흡수·치근단 투과상이 더 흔함.
+benefit concentrated in asymptomatic teeth (HR=0.42, p=0.002) with no significant difference in symptomatic teeth (HR=0.88, p=0.41);
+
+pulpotomy showed more internal resorption, pulpectomy more external resorption/periapical radiolucency.
+
+## 세줄요약
+
+
+성향점수매칭(PSM) 후향적 코호트 연구(치수 상태가 애매한 유구치 312개, 매칭 후 156쌍)에서 24개월 생존율이 pulpotomy(iRoot BP Plus군) 86.4% vs pulpectomy(ZOE-요오드폼군) 67.1%로 유의하게 높음(log-rank p<0.001);
+
+무증상 치아에서만 pulpotomy 유리(HR=0.42, p=0.002), 유증상 치아는 차이 없음(HR=0.88, p=0.41);
+
+pulpotomy군은 내흡수, pulpectomy군은 외흡수·치근단 투과상이 더 흔함.
 
 ## 1. Document Information
 

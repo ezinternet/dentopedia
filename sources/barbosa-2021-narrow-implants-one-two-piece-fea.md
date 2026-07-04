@@ -13,13 +13,21 @@ source_collection: external
 
 Narrow- and extra-narrow-diameter implants are frequently selected for anatomically restricted sites; their biomechanical safety — especially in one-piece vs. two-piece configurations — has direct clinical implications. This FEA study fills a gap complementing [[wiki/implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] (clinical narrow-implant outcomes) with a stress-distribution analysis across three diameters and two implant-body designs under axial and angled loading.
 
-## One-line Summary
+## Three-line Summary
 
-FEA of three narrow/extra-narrow implant models (2.5 mm one-piece, 3.0 mm one-piece, 3.5 mm two-piece Morse taper) under 150 N axial and 30° angled loads shows the 2.5 mm extra-narrow one-piece implant exceeds titanium yield strength under angled loading, while 3.0 mm one-piece and 3.5 mm two-piece designs remain within safe stress limits.
+In-vitro FEA study (3 implant models: 2.5 mm one-piece, 3.0 mm one-piece, 3.5 mm two-piece Morse taper) loaded with 150 N axial and 30° angled forces in a maxillary-lateral-incisor bone model; von Mises and Mohr-Coulomb stress analyses performed.
 
-## 한줄요약
+The 2.5 mm extra-narrow one-piece implant exceeded titanium yield strength (1130 MPa) by 93.6% under angled loading (2188 MPa), indicating fracture risk; the 3.0 mm one-piece and 3.5 mm two-piece Morse-taper implants remained within safe stress limits under both loading conditions.
 
-FEA 연구(n=3 모델): 2.5 mm 초소경 one-piece 임플란트는 경사하중 시 티타늄 항복강도(1130 MPa)를 93.6% 초과해 위험하고, 3.0 mm one-piece 및 3.5 mm Morse taper two-piece는 축방향·경사 하중 모두에서 안전한 응력 분포를 보임.
+Extra-narrow (2.5 mm) one-piece implants carry a structural fracture risk under angled forces; the 3.5 mm Morse-taper two-piece design also reduces cortical bone stress by redistributing load to the internal cone, making it biomechanically preferable.
+
+## 세줄요약
+
+FEA 연구(3 모델: 2.5 mm one-piece, 3.0 mm one-piece, 3.5 mm two-piece Morse taper) — 상악 측절치 골모델에서 150 N 축방향·30° 경사 하중; 폰미제스·모어-쿨롱 응력 분석.
+
+2.5 mm 초소경 one-piece는 경사하중 시 티타늄 항복강도(1130 MPa)를 93.6% 초과(2188 MPa)해 파절 위험; 3.0 mm one-piece 및 3.5 mm Morse taper two-piece는 축방향·경사 하중 모두에서 안전 범위 유지.
+
+2.5 mm one-piece 임플란트는 경사력 하에서 구조적 파절 위험이 있고, 3.5 mm Morse taper two-piece는 하중을 내부 콘으로 분산해 피질골 응력을 감소시키므로 생역학적으로 더 유리하다.
 
 ## 1. Document Information
 

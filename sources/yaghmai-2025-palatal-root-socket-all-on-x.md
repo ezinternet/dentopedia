@@ -9,7 +9,7 @@ pdf_filename: yaghmai-2025-palatal-root-socket-all-on-x.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Case report describing immediate implant placement into maxillary molar palatal root sockets specifically to provide distal support in All-on-X full-arch rehabilitations, avoiding long cantilevers.
 
 ## 1. Document Information

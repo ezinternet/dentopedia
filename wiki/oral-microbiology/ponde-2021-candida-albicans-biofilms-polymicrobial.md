@@ -13,11 +13,21 @@ source_collection: external
 tags: [Candida-albicans, fungal-biofilm, ECM, polymicrobial, antifungal-resistance, Als-adhesins, candidaemia]
 ---
 
-## One-line Summary
-Narrative review of C. albicans biofilm biology — ECM composition (proteins 55%, carbohydrates 25%, lipids 15%, eDNA 5%), transcriptional regulation by a 6-factor core network, dispersal-mediated virulence, and polymicrobial interactions with oral bacteria — in the context of candidaemia affecting >400,000 patients/year with ~50% mortality.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: C. albicans 바이오필름 ECM(proteins 55%, carbohydrates 25%, lipids 15%, nucleic acids 5%)·6인자 핵심 전사 네트워크·dispersal 독성·구강 세균과의 cross-kingdom 상호작용 총괄.
+Narrative review (Critical Reviews in Microbiology 2021) of C. albicans biofilm development through four stages — adhesion, microcolony formation, maturation (ECM: proteins 55%, carbohydrates 25%, lipids 15%, nucleic acids 5%), and dispersal — regulated by a core 6-factor transcriptional network controlling ~1,000 genes.
+
+Dispersed cells display enhanced virulence and antifungal resistance; candidaemia affects >400,000 patients/year with ~50% mortality; DNase + acetazolamide improves amphotericin B efficacy against mature biofilms in vitro.
+
+Cross-kingdom interactions (S. mutans Gtf-glucan coating of C. albicans, R. dentocariosa inhibition of dispersal) highlight the clinical relevance of polymicrobial oral context for antifungal strategy.
+
+## 세줄요약
+
+Narrative review (Critical Reviews Microbiology 2021): C. albicans 바이오필름 4단계 발달 — 부착→미세군락→성숙(ECM: 단백질 55%·탄수화물 25%·지질 15%·핵산 5%)→분산 — 을 ~1,000개 유전자를 제어하는 6인자 핵심 전사 네트워크 관점에서 정리.
+
+분산 세포는 독성·항진균 내성 증가; 칸디다혈증 연간 >40만 명·사망률 ~50%; DNase + acetazolamide는 시험관 내 amphotericin B 효능 향상.
+
+S. mutans Gtf-glucan이 C. albicans 표면을 코팅하고 R. dentocariosa가 분산을 억제하는 cross-kingdom 상호작용은 구강 다균종 환경에서의 항진균 전략에 임상적 함의를 가짐.
 
 ## Summary
 Ponde et al. comprehensively review C. albicans biofilm development through four stages: adhesion (mediated by Als, Hwp, and Iff/Hyr adhesin families), microcolony formation, maturation (ECM: proteins 55%, carbohydrates 25%, lipids 15%, nucleic acids 5%; predominant polysaccharide: mannan–β-1,6 glucan complex), and dispersal of virulence-enhanced cells. A core transcriptional network of 6 regulators (Bcr1p, Tec1p, Efg1p, Ndt80p, Rob1p, Brg1p) controls ~1,000 genes governing hypha formation, adhesion, ECM production, and drug resistance. Biofilm maturation occurs within 24–48 h on PVC catheters. Dispersed cells display enhanced virulence, filamentation capacity, and antifungal resistance. Cross-kingdom interactions with S. mutans (Gtf-mediated glucan coating of fungal surfaces) and R. dentocariosa (inhibition of dispersal) highlight the polymicrobial context. Candidaemia affects >400,000 patients/year with ~50% mortality.

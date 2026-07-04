@@ -20,13 +20,21 @@ relations:
     target: gulbey-2026-osteomeatal-complex-variations-maxillary
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (244 scans; maxillary-sinusitis vs normal groups) — accessory maxillary ostium (AMO) presence did NOT correlate with maxillary sinusitis (p = 0.104), but primary maxillary ostium (PMO) obstruction was significantly more frequent in the sinusitis group (p < 0.001); AMO frequency depended on gender (p = 0.013).
+Cross-sectional retrospective CBCT study (n=244 scans, 134 F / 110 M, mean age 34.16 y) comparing accessory maxillary ostium (AMO) and primary maxillary ostium (PMO) findings between maxillary-sinusitis and normal groups.
 
-## 한줄요약
+AMO presence showed no significant association with maxillary sinusitis (p=0.104), while PMO obstruction was significantly more frequent in the sinusitis group (p<0.001); paradoxical concha (p<0.001) and bifid concha (p=0.017) were paradoxically more frequent in the normal group; AMO frequency was gender-dependent (p=0.013).
 
-CBCT 단면연구 (244 스캔, 상악동염군 vs 정상군) — 부이관(Accessory Maxillary Ostium, AMO) 존재는 상악동염과 상관 없음 (p = 0.104)이나, 원발 상악동공(Primary Maxillary Ostium, PMO) 폐쇄는 부비동염군에서 유의하게 흔했다 (p < 0.001); AMO 빈도는 성별 의존적 (p = 0.013).
+Pre-sinus-lift CBCT should prioritize assessment of PMO/ostiomeatal-complex patency over cataloguing accessory ostia, as PMO obstruction — not AMO — tracks with sinus pathology.
+
+## 세줄요약
+
+후향적 CBCT 단면연구 (n=244 스캔, 상악동염군 vs 정상군): 부이관 (Accessory Maxillary Ostium, AMO) 존재와 상악동염 간 유의한 상관 없음 (p=0.104); 원발 상악동공 (Primary Maxillary Ostium, PMO) 폐쇄는 상악동염군에서 유의하게 높음 (p<0.001).
+
+역설적 하비갑 (paradoxical concha, p<0.001)·분기형 하비갑 (bifid concha, p=0.017)은 오히려 정상군에서 흔했고; AMO 빈도는 성별 의존적 (p=0.013).
+
+부비동 리프트 전 콘빔 전산화 단층촬영 (CBCT)에서는 부이관 목록 작성보다 원발 상악동공 및 오스티오메아탈 복합체 (Osteomeatal Complex, OMC) 개통 여부 평가에 집중해야 함.
 
 ## Summary
 

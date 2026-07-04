@@ -16,13 +16,21 @@ relations:
     target: buser-2017-implant-placement-timing-post-extraction-esthetic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter RCT (124 subjects, anterior/premolar single teeth) comparing immediate vs 12-week delayed implant placement; immediate placement required more bone augmentation (72% vs 43.9%), had more wound failures (26.1% vs 5.3%), deeper 1-year probing depths, and more inadequate pink-esthetic scores (42% vs 19%), leading to a recommendation against immediate placement where esthetics matter.
+Multicenter RCT (124 subjects, 7 practices, single anterior/premolar teeth) comparing immediate vs 12-week delayed implant placement with masked examiners.
 
-## 한줄요약
+Immediate placement required more bone augmentation (72% vs 43.9%, p=0.01), had more wound-healing failures (26.1% vs 5.3%, p=0.02), deeper 1-year probing depths (4.1 vs 3.3 mm, p<0.01), and more inadequate pink-esthetic scores (42% vs 19%, p=0.03).
 
-다기관 RCT(124명, 전치·소구치 단일치) — 즉시식립이 지연식립보다 골증대 필요(72% vs 43.9%)·창상실패(26.1% vs 5.3%)·1년 탐침깊이·부적절 심미점수(42% vs 19%)가 모두 많아, 심미가 중요한 경우 즉시식립을 권장하지 않는다는 결론.
+Immediate implant placement should be limited to selected cases and not recommended where esthetics are important; PROMs were equivalent between groups.
+
+## 세줄요약
+
+다기관 RCT (124명, 7개 진료소): 전치·소구치 단일치에서 즉시식립 vs 12주 지연식립을 무작위 배정, 평가자 맹검.
+
+즉시식립에서 골증대 필요(72% vs 43.9%, p=0.01), 창상 실패(26.1% vs 5.3%, p=0.02), 1년 탐침깊이(4.1 vs 3.3 mm), 부적절 핑크심미점수(PES)(42% vs 19%) 모두 유의하게 높았다.
+
+심미가 중요한 경우 즉시식립은 선택된 증례에 한정해야 하며, 환자 보고 결과(PROMs)는 두 군 동등.
 
 ## Summary
 

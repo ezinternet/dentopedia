@@ -20,13 +20,21 @@ relations:
     target: mohapatra-2024-water-flosser-vs-floss-plaque-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (JBI / PRISMA-ScR; 275 sources, 1962–2023, 185 clinical trials + 15 SRs) mapping the whole oral-irrigation-device evidence base: oral irrigators consistently reduce periodontal/peri-implant inflammation (likely via microbiota modulation), are safe and well-accepted, but plaque-removal evidence is mixed and caries/PROM/pediatric/cost/environmental data are sparse.
+First comprehensive scoping review of oral irrigation devices (JBI/PRISMA-ScR; 275 sources, 1962–2023, 4 databases + 8 gray-literature sources; 185 clinical trials, 15 SRs, 30 in vitro, 13 animal), mapping evidence from all device types, populations, irrigants, and outcome domains (Waterpik the most-studied brand, ~139–156 sources).
 
-## 한줄요약
+Oral irrigators consistently reduce periodontal and peri-implant inflammation across populations and solutions (likely via microbiota modulation from dysbiosis toward health-associated early colonizers), are safe within 70–90 psi limits, and well accepted; however, plaque-removal evidence is mixed (≈23 studies no benefit vs ≈31 improvement) and subgingival tips reach 64–100% of pocket depth versus 44–71% for supragingival tips.
 
-스코핑 리뷰(JBI/PRISMA-ScR, 275편·1962–2023, 임상시험 185편 + SR 15편): 구강세정기(oral irrigator, 워터플로서)는 치주·임플란트주위 염증을 일관되게 줄이고 안전성·환자수용도가 높지만, 플라크 제거 효과는 엇갈리고 우식·환자보고결과·소아·비용·환경 근거는 부족하다.
+Evidence is sparse for caries prevention, validated PROMs, pediatric/special-needs populations, peri-implantitis, cost, and environmental impact — these are the priority gaps for future trials; bacteremia risk warrants caution in infective-endocarditis-risk patients.
+
+## 세줄요약
+
+구강세정기(oral irrigator, 워터플로서) 첫 포괄적 스코핑 리뷰(JBI/PRISMA-ScR; 275편, 1962–2023, 4개 DB + 8개 회색문헌; 임상시험 185편, SR 15편, 시험관 30편, 동물 13편): Waterpik이 가장 많이 연구된 브랜드(~139–156편).
+
+구강세정기는 치주·임플란트주위 염증을 일관되게 줄이고(건강 연관 초기 군집화 쪽으로의 미생물군집 조절 기전 추정), 70–90 psi 이내에서 안전하며 수용도 높음; 치태 제거는 엇갈림(무효 ≈23편 vs 개선 ≈31편); 치은연하 팁이 포켓 깊이 64–100%까지 도달해 치은연상 팁(44–71%)보다 우수.
+
+우식 예방·검증된 환자보고결과(Patient-Reported Outcomes, PROM)·소아·임플란트주위염·비용·환경 영향 근거가 미비하며 향후 연구 우선순위임; 심내막염 위험 환자에서 균혈증 주의가 필요하다.
 
 ## Summary
 

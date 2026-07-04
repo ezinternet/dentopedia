@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (62 in vitro studies, 58 meta-analyzed) of composition strategies for reducing polymerization shrinkage stress in resin-based materials found resin matrix modification contributes most to stress reduction, while alternative photoinitiators alone showed no significant benefit (p=0.29); SDR (Stress Decreasing Resin) chemistry highlighted as a validated approach.
+## Three-line Summary
 
-## 한줄요약
-7개 데이터베이스 62개 in vitro 연구 SR+MA: 레진 기질(matrix) 개질이 중합수축응력 감소에 가장 큰 기여; 대체 광개시제 단독은 유의미한 효과 없음(p=0.29); SDR™ 화학 및 저수축·벌크필 소재가 유망한 임상 적용.
+SR+MA (62 in-vitro studies, 58 meta-analyzed; 7 databases, search to December 2016) of composition strategies for reducing polymerization shrinkage stress in resin-based dental materials, grouped into filler phase, coupling agent, and resin matrix modification.
+
+Resin matrix modification contributed most to stress reduction; filler phase and coupling agent modifications also showed significant benefit; alternative photoinitiators alone showed no significant effect (p=0.29).
+
+SDR (Stress Decreasing Resin) chemistry — optimizing both urethane-dimethacrylate matrix and filler — was validated as the most complete approach; the key clinical harm is interfacial stress at the bonded tooth-restoration interface, not volumetric shrinkage per se.
+
+## 세줄요약
+
+SR+MA (in-vitro 연구 62편, 메타분석 58편; 7개 데이터베이스, 2016년 12월까지): 중합수축응력(Polymerization Shrinkage Stress, PSS) 감소를 위한 조성 전략을 충전제 상·커플링제·레진 기질 개질 3개 하위군으로 분류 분석.
+
+레진 기질(Matrix) 개질이 응력 감소에 가장 큰 기여; 충전제 상·커플링제 개질도 유의; 대체 광개시제 단독은 유의한 효과 없음(p=0.29).
+
+SDR™ 화학(우레탄다이메타크릴레이트 기질 + 충전제 최적화)이 가장 검증된 접근법; 임상 핵심 해악은 부피 수축이 아닌 결합된 치아-수복물 계면의 응력.
 
 ## Summary
 This SR+MA (J Mech Behav Biomed Mater 2018, Vol. 82) systematically reviewed the literature up to December 2016 across 7 databases to identify composition strategies for reducing polymerization shrinkage stress in resin-based dental materials. Only direct testing studies were included. Of 6,113 eligible articles, 62 were included in qualitative analysis and 58 in the meta-analysis. Composition strategies were grouped into three subgroups: filler phase modification, coupling agent modification, and resin matrix modification. Random-effects models were used (α = 0.05). Resin matrix modification showed the largest contribution to stress reduction. The only subgroup without statistical benefit was "alternative photoinitiators" (p = 0.29). SDR (Stress Decreasing Resin) technology was highlighted as a validated approach combining optimized matrix and filler to reduce and control stress.

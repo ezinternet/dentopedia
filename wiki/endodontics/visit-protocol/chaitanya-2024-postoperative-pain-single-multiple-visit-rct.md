@@ -18,13 +18,21 @@ relations:
     target: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=100): single-visit vs multiple-visit RCT showed no significant difference in post-operative pain (VAS at 24/48/72 h); single-visit group trended toward higher complete-healing rates at 6 and 12 months.
+Prospective RCT (n=100, tertiary care center, 2021–2022) comparing single-visit vs multiple-visit root canal therapy for irreversible pulpitis or apical periodontitis, measuring post-operative pain by VAS at 24/48/72 hours and radiographic healing at 6 and 12 months.
 
-## 한줄요약
+Post-operative pain was statistically comparable between groups at all time points (24 h VAS 3.2 vs 3.5, 48 h 2.8 vs 3.0, 72 h 2.5 vs 2.7; all NS); single-visit group trended toward higher complete-healing rates at 6 and 12 months.
 
-전향적 RCT (n=100): 단일내원 vs 다회내원 근관치료가 술후 통증(VAS 24/48/72시간)에서 유의차 없었고, 단일내원군이 6·12개월 완전치유율에서 더 높은 경향을 보임.
+Single-visit root canal treatment provides equivalent post-operative pain control to multiple-visit treatment and may offer a modest healing advantage, likely due to reduced inter-appointment recontamination risk.
+
+## 세줄요약
+
+전향적 RCT(n=100, 3차 의료기관, 2021–2022): 비가역성 치수염·근단치주염 대상 단일내원 vs 다회내원 근관치료; 술후 통증(VAS 24/48/72시간) 및 6·12개월 방사선학적 치유 비교.
+
+전 시점 술후 통증 유의차 없음(24시간 VAS 3.2 vs 3.5, 48시간 2.8 vs 3.0, 72시간 2.5 vs 2.7); 단일내원군이 6·12개월 완전 치유율에서 더 높은 경향.
+
+단일내원 근관치료는 동등한 술후 통증 조절을 제공하며, 내원간 재오염 감소로 치유에서 미약한 이점을 가질 수 있음.
 
 ## Summary
 

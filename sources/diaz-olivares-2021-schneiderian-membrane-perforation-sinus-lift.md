@@ -10,8 +10,21 @@ pdf_filename: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift.pd
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA(7개 연구, 3604개 임플란트): 슈나이더막 천공 후 수복된 막 하 임플란트 생존율 97.68% vs 비천공 98.88% — 통계적 유의차 없음; 천공 발생률 30.6%; 수복 방법(콜라겐막, 회전식 재위치)이 결과에 영향.
+## Three-line Summary
+
+SR+MA (7 studies, 1,598 sinus augmentations, 3,604 implants) comparing implant survival after repaired Schneiderian membrane perforation vs intact membrane during lateral window sinus floor elevation.
+
+Implant survival was 97.68% (perforated/repaired) vs 98.88% (intact) — no statistically significant difference; overall perforation rate was 30.6%; repair method (collagen membrane, rotational flap) influenced outcomes.
+
+Schneiderian membrane perforation repaired appropriately does not independently increase implant failure risk; preoperative CBCT to identify membrane thickness and septa is recommended to anticipate and prevent large perforations.
+
+## 세줄요약
+
+SR+MA(7개 연구, 1,598개 상악동거상술, 3,604개 임플란트) — 측방 창접근 상악동거상술 중 슈나이더막(Schneiderian Membrane, SM) 천공 후 수복 vs 비천공 임플란트 생존율 비교.
+
+천공 수복군 97.68% vs 비천공군 98.88%로 통계적 유의차 없음; 전체 천공 발생률 30.6%; 수복 방법(콜라겐막·회전식 재위치)이 결과에 영향.
+
+적절히 수복된 막 천공은 임플란트 실패의 독립 위험인자가 아니며, 수술 전 CBCT로 막 두께·중격을 확인해 대천공(>10 mm)을 예방하는 것이 중요.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry 2021;7:46

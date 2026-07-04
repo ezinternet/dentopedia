@@ -13,13 +13,21 @@ source_collection: external
 
 Adds an Iraqi (Middle Eastern) subpopulation data point to the C-shaped canal prevalence map, complementing the Korean cross-sectional micro-CT morphology data in [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] and extending coverage beyond the East-Asian populations that dominate the literature. It uniquely reports both mandibular AND maxillary second molar C-shaped/fused-root configurations in the same cohort, reinforcing the female-predominance and bilateral-symmetry signals seen across the sibling prevalence pages ([[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]]).
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (368 mandibular + 369 maxillary second molars, Iraqi subpopulation): C-shaped canal prevalence 17.4% in mandibular vs 7.9% in maxillary second molars; significantly higher in females (23% vs 10.4%, p=0.001); C2 most common mandibular type (56.3%), MB-DB fusion most common maxillary type (65.5%).
+Retrospective CBCT cross-sectional study (Iraqi subpopulation, 368 mandibular + 369 maxillary second molars; single center, Kurdistan Region/Iraq 2018–2020).
 
-## 한줄요약
+C-shaped canal prevalence: mandibular 17.4% vs maxillary 7.9%; mandibular significantly higher in females (23% vs 10.4%, p=0.001); C2 most common mandibular type (56.3%), MB-DB fusion most common maxillary type (65.5%).
 
-CBCT 횡단 연구(이라크 인구, 하악 제2대구치 368개·상악 제2대구치 369개): C-shaped 근관 유병률은 하악 17.4% vs 상악 7.9%, 여성에서 유의하게 높음(23% vs 10.4%, p=0.001); 하악은 C2형(56.3%), 상악은 MB-DB 융합(65.5%)이 가장 흔함.
+Iraqi rates lie within the wide cross-ethnic range but below East Asian peaks; bilateral symmetry predominates in mandibular C-shaped canals — surgeons should check the contralateral side and apply 3D CBCT planning in female patients.
+
+## 세줄요약
+
+후향적 CBCT 횡단 연구(이라크 쿠르디스탄 단일기관; 하악 제2대구치 368개·상악 제2대구치 369개, 2018–2020).
+
+C-shaped 근관 유병률은 하악 17.4% vs 상악 7.9%이며, 하악은 여성에서 유의하게 높음(23% vs 10.4%, p=0.001); 하악은 C2형(56.3%), 상악은 MB-DB 융합형(65.5%)이 가장 흔함.
+
+이라크 유병률은 동아시아 최대치보다 낮으나, 하악 C-shaped 근관은 주로 양측성 → 여성 환자에서는 반드시 반대측 확인 및 3D CBCT 계획이 필요.
 
 ## 1. Document Information
 

@@ -14,11 +14,19 @@ source_collection: external
 tags: [intraoral-scanner, ios, digital-impression, accuracy, trueness, precision, trios, primescan, umbrella-review]
 ---
 
-## One-line Summary
-Umbrella review (10 SRs, 30+ IOS devices): TRIOS 3 and Primescan have the highest full-arch accuracy; IOS improves time efficiency and patient comfort; accuracy limited in edentulous arches.
+## Three-line Summary
+Umbrella review (Cureus 2025;17(9):e93202, 10 systematic reviews covering 30+ IOS devices) comparing intraoral scanner accuracy, clinical performance, and patient comfort against conventional and extraoral impressions.
 
-## 한줄요약
-우산형 리뷰 (10 SRs, 30+ IOS): TRIOS 3·Primescan 전체악궁 정확도 최상; IOS 시간절약·편의성↑; 무치악 정확도 제한
+TRIOS 3 and Primescan demonstrated the highest full-arch accuracy; IOS significantly improved time efficiency and patient comfort compared to conventional impressions, but accuracy was limited in edentulous arches and only 2 of 10 included SRs were rated high-quality by AMSTAR-2.
+
+IOS is strongly recommended for single-crown and multi-unit fixed restorations, while full-arch edentulous cases still warrant adjunctive techniques or high-precision scanners due to cumulative error with arch extension.
+
+## 세줄요약
+우산형 리뷰(Cureus 2025;17(9):e93202, 10개 SR, 30개 이상 IOS 기기): 구강스캐너의 정확도·임상 성능·환자 편의를 기존 인상과 비교.
+
+TRIOS 3·Primescan이 전악 정확도 최상위; IOS는 기존 인상 대비 시간 단축·편의성 우수하나 무치악 전악에서 정확도 제한적이며, 포함 SR 10개 중 AMSTAR-2 고품질은 2개뿐으로 전반 근거 수준이 낮음.
+
+단일 크라운·다단위 고정성 보철에는 IOS 전환 적극 권장; 무치악 전악 임플란트 수복은 고정밀 스캐너 선택 및 보조 기법 병용 고려.
 
 ## Summary
 우산 고찰(10개 SR/MA). **TRIOS 3·Primescan이 전악 정확도 최상위**. IOS는 기존 인상 대비 시간 단축·환자 편의 우수. 단, 부분/완전 무치악에서 정확도 한계. 포함 고찰 10개 중 AMSTAR-2 고품질 2개뿐 — 근거 수준 전반적으로 중등도~낮음.

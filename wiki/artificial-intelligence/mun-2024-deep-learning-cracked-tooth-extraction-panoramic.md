@@ -21,13 +21,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-center deep-learning study: three CNNs (InceptionV3, ResNet50, EfficientNetB0; ImageNet transfer learning) trained on 418 individual-tooth crops from panoramic radiographs (200 patients; 209 vertical-root-fracture [VRF] teeth needing extraction vs 209 normal, 1:1) predicted the cracked-tooth extraction indication with high sensitivity (90.43–94.26%) but low specificity (52.63–60.77%), accuracy 72.01–75.84%, F1 76.36–79.00, AUC 0.80–0.82 (ResNet50 best, AUC 0.82) under fivefold cross-validation.
+Retrospective single-center deep-learning study (200 patients; 418 cropped panoramic tooth images — 209 vertical root fracture [VRF] requiring extraction vs 209 contralateral normal teeth, 1:1; Jan 2019–Apr 2023) training three CNNs (InceptionV3, ResNet50, EfficientNetB0) with ImageNet transfer learning under fivefold cross-validation.
 
-## 한줄요약
+All three models behaved as high-sensitivity, low-specificity screeners: sensitivity 90.43–94.26%, specificity 52.63–60.77%, accuracy 72.01–75.84%, AUC 0.80–0.82; ResNet50 was best (AUC 0.82, accuracy 75.84%, F1 79.00).
 
-단일기관 후향 딥러닝 연구: 파노라마에서 잘라낸 개별 치아 영상 418개(환자 200명; 발치가 필요한 수직치근파절(VRF) 209개 vs 정상 209개, 1:1)로 CNN 3종(InceptionV3·ResNet50·EfficientNetB0, ImageNet 전이학습)을 학습 → 균열치 발치 적응증을 민감도 90~94%로는 잘 잡지만 특이도는 53~61%로 낮음(정확도 72~76%, F1 76~79, AUC 0.80~0.82, ResNet50가 0.82로 최고; 5겹 교차검증).
+The high-sensitivity/low-specificity pattern suits triage to justify CBCT rather than standalone diagnosis; the main limitations are single-center data, small sample, and the inherent depth-information loss of 2D panoramic imaging for a 3D fracture.
+
+## 세줄요약
+
+단일기관 후향 딥러닝 연구: 파노라마에서 잘라낸 개별 치아 영상 418개(환자 200명; 발치가 필요한 수직치근파절(Vertical Root Fracture, VRF) 209개 vs 정상 209개, 1:1 균형)로 CNN 3종(InceptionV3·ResNet50·EfficientNetB0, ImageNet 전이 학습) 훈련.
+
+균열치 발치 적응증 예측: 민감도 90–94%이나 특이도 53–61%로 낮음(정확도 72–76%, F1 76–79, 곡선하면적(AUC) 0.80–0.82; ResNet50가 0.82로 최고; 5겹 교차검증).
+
+높은 민감도·낮은 특이도 패턴 → VRF 선별 도구로 유용하나 위양성 많아 단독 진단 부적합 — Cone-Beam Computed Tomography(CBCT) 시행 정당화를 위한 트리아지 보조로 포지셔닝.
 
 ## Summary
 

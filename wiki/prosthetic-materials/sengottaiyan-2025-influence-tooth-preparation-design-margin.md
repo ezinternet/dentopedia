@@ -16,13 +16,21 @@ relations:
     target: tiu-2015-clinical-tooth-preparations-measuring-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation, and increased taper plus planar occlusal reduction improved fit of digitally fabricated zirconia prostheses (all within the ~60–120 µm clinically acceptable range).
+Systematic review (PRISMA/PROSPERO; 27 in vitro studies) examining how finish-line design, taper, and occlusal reduction affect marginal discrepancy and internal gap in fully digital (scan→CAD→mill) complete-coverage zirconia prostheses.
 
-## 한줄요약
+Rounded-shoulder finish lines minimized marginal gap; chamfer minimized internal gap; increased taper and planar occlusal reduction improved both — all reported values remained within clinically acceptable thresholds (~60–120 µm marginal, ~50–100 µm internal).
 
-27편 in vitro 연구 체계적 고찰: 디지털 제작 지르코니아 보철에서 둥근 숄더 변연선은 변연 적합을, 챔퍼는 내면 적합을 유리하게 했고, 테이퍼 증가와 평면형 교합삭제가 적합도를 개선(모두 임상 허용범위 ~60–120 µm 이내).
+Optimal preparation geometry depends on which fit dimension is prioritized, but the design choice is an optimization within an already-acceptable range rather than a pass/fail decision.
+
+## 세줄요약
+
+체계적 고찰(PRISMA/PROSPERO, in vitro 27편): 완전 디지털 방식(스캔→CAD→밀링) 지르코니아 완전 피개 보철에서 변연선 디자인·테이퍼·교합삭제가 변연 간극(marginal discrepancy) 및 내면 간극(internal gap)에 미치는 영향 분석.
+
+둥근 숄더(rounded shoulder) 변연선은 변연 적합에 유리, 챔퍼(chamfer)는 내면 적합에 유리; 테이퍼 증가 및 평면형 교합삭제는 양쪽 모두 개선 — 모든 값은 임상 허용범위(변연 ~60–120 µm, 내면 ~50–100 µm) 이내.
+
+변연 적합과 내면 적합 중 어느 쪽을 우선시하느냐에 따라 최적 변연선 디자인이 달라지나, 두 선택 모두 임상적으로 허용 가능한 범위 내 최적화에 해당.
 
 ## Summary
 

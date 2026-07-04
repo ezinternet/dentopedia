@@ -20,13 +20,21 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, 1287 implants in 634 patients) of modern alveolar-ridge-split-and-expansion (ARSE) devices: ultrasonographic/piezo (USG) achieves 3.40 mm ridge width gain vs motorized ridge expander (MRE) 2.83 mm (p<0.0001), with overall implant survival 98.07%; USG fits osteo-mobilization, MRE fits minimally invasive osteo-condensation.
+PROSPERO-registered SR+MA (24 studies: 22 cohort + 2 RCT; 1287 implants in 634 patients; GRADE very Low) comparing modern alveolar ridge split and expansion (ARSE) devices — ultrasonographic/piezo (USG) vs motorized ridge expander (MRE) — for horizontally deficient (2–6 mm) ridges.
 
-## 한줄요약
+USG achieved greater ridge width gain than MRE (3.40 vs 2.83 mm, p<0.0001) but overall implant survival was equivalent (~98.42% USG vs ~98.97% MRE; pooled 98.07%); high heterogeneity in width gain (I²>96%) limits pooled estimates.
 
-치조제 분할·확장(ARSE) 현대 기구 비교 SR+MA(24편, 환자 634명·임플란트 1287개): 초음파/피에조(USG)가 골폭 증가 3.40 mm로 전동확장기(MRE) 2.83 mm보다 우수(p<0.0001), 전체 임플란트 생존율 98.07%. USG는 골이동술(osteo-mobilization), MRE는 최소침습 골응축(osteo-condensation)에 적합.
+USG suits osteo-mobilization with delayed implant placement; MRE suits minimally-invasive crestal osteo-condensation with immediate implant placement — device selection should follow the intended split biology, not width gain alone.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA(24편: 코호트 22+RCT 2, 634명·1287 임플란트, GRADE 매우 낮음): 수평결핍(2–6 mm) 치조제에서 초음파/피에조(Ultrasonographic/piezo, USG) vs 전동치조제확장기(Motorized Ridge Expander, MRE) 비교.
+
+USG 골폭 증가 3.40 mm vs MRE 2.83 mm (p<0.0001); 임플란트 생존율은 동등(USG ~98.42%, MRE ~98.97%, 전체 98.07%); 골폭 증가 이질성 높음(I²>96%).
+
+USG는 지연 식립 골이동술(Osteo-Mobilization, OM), MRE는 즉시 식립 최소침습 골응축(Crestal Osteo-Condensation, CO-OC)에 적합 — 기기 선택은 원하는 분할 생물학에 따라 결정.
 
 ## Summary
 

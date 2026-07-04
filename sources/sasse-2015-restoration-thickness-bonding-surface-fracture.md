@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/veneers/hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma]]는 접착 강도 측면에서 법랑질 접착이 복합레진 코어보다 우수하다는 SR+MA 결과를 제공했지만, 교합면 비니어의 최소 두께 기준에 대한 in-vitro 근거는 제시하지 않았다. 본 연구(Sasse 2015)는 0.3–0.7 mm 협착부터 0.6–1.0 mm 교두까지 세 가지 두께와 세 가지 접착 기질(법랑질 단독, 법랑질+상아질, 법랑질+복합레진)을 교두 시뮬레이터 600,000 사이클 동안 직접 비교하여 임상 최소 두께 권고값(0.7–1.0 mm)의 in-vitro 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=72 molars, 9 groups) of IPS e.max CAD occlusal veneers: only the thickest group (0.7 mm fissure / 1.0 mm cusp) survived all 600,000 chewing cycles undamaged; minimum thickness of 0.7–1.0 mm recommended.
 
-## 한줄요약
+In-vitro study (n=72 molars, 9 groups) of IPS e.max CAD occlusal veneers: only the thickest group (0.7 mm fissure / 1.0 mm cusp) survived all 600,000 chewing cycles undamaged;
 
-In-vitro 연구 (n=72 구치, 9개 군): IPS e.max CAD 교합면 비니어 (리튬 디실리케이트 세라믹, Lithium Disilicate Ceramic, LDS)에서 두꺼운 군(협착부 0.7 mm/교두 1.0 mm)만 교합 시뮬레이터 600,000 사이클을 무손상 완주; 최소 두께 0.7–1.0 mm 권고.
+minimum thickness of 0.7–1.0 mm recommended.
+
+(incomplete)
+
+## 세줄요약
+
+
+In-vitro 연구 (n=72 구치, 9개 군): IPS e.max CAD 교합면 비니어 (리튬 디실리케이트 세라믹, Lithium Disilicate Ceramic, LDS)에서 두꺼운 군(협착부 0.7 mm/교두 1.0 mm)만 교합 시뮬레이터 600,000 사이클을 무손상 완주;
+
+최소 두께 0.7–1.0 mm 권고.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/communication-relationship/choi-2024-determinants-dentist-patient-relationships]]가 "communication이 DPR 최대 결정요인"임을 밝힌 뒤, 그 communication을 어떻게 실제로 하고 가르치는지의 실무·교육 layer가 필요. 본 overview(HKU, Dent J 2025)는 중요성·장벽·전략·교육을 한 장에 정리 — 위생사·전공의 커뮤니케이션 교육 자료의 직접 골격. MI를 교육 핵심요소로 포함해 MI 하위 카테고리와 연결.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative overview (HKU) of dentist–patient communication — covers why it matters (efficiency, less litigation, less anxiety, more adherence/satisfaction), barriers (time, rapport, oral-health illiteracy, language, dentist skill/perception), strategies (patient-centered approach, jargon-free verbal + non-verbal skills), and training (didactic + role-play + interviewing + assessment; MI, open-ended questions, affirmations, reflective listening, summaries).
 
-## 한줄요약
+Narrative overview (HKU) of dentist–patient communication — covers why it matters (efficiency, less litigation, less anxiety, more adherence/satisfaction), barriers (time, rapport, oral-health illiteracy, language, dentist skill/perception), strategies (patient-centered approach, jargon-free verbal + non-verbal skills), and training (didactic + role-play + interviewing + assessment;
 
-의사-환자 커뮤니케이션 내러티브 overview(홍콩대) — 중요성(효율·소송감소·불안완화·순응도·만족), 장벽(시간·라포·구강건강 문해력·언어·술자 역량), 전략(환자중심·비전문용어·언어/비언어 스킬), 교육(강의+롤플레이+면담+평가; MI·개방형 질문·인정·반영적 경청·요약)을 한 장에 정리.
+MI, open-ended questions, affirmations, reflective listening, summaries).
+
+(incomplete)
+
+## 세줄요약
+
+
+의사-환자 커뮤니케이션 내러티브 overview(홍콩대) — 중요성(효율·소송감소·불안완화·순응도·만족), 장벽(시간·라포·구강건강 문해력·언어·술자 역량), 전략(환자중심·비전문용어·언어/비언어 스킬), 교육(강의+롤플레이+면담+평가;
+
+MI·개방형 질문·인정·반영적 경청·요약)을 한 장에 정리.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Dentistry Journal (MDPI) 2025;13(1):31

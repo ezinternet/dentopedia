@@ -18,11 +18,21 @@ relations:
     target: al-juboori-2024-cortical-thickness-implant-stability-sr
 ---
 
-## One-line Summary
-Finite element analysis showing lower trabecular bone density (D4) and reduced cortical thickness increase peri-implant stress, and that thread design and abutment angulation modulate stress distribution under a 30° 200 N oblique load.
+## Three-line Summary
 
-## 한줄요약
-FEA — D4 저밀도골·cortical 두께 감소가 임플란트 주위 응력을 높이고, 나사 설계·지대주 각도가 경사하중 응력분포를 좌우.
+3D finite element analysis (two implant designs × four bone types D1–D4 × two abutment angulations) under a 30° oblique 200 N load: peri-implant stress concentrated coronally and rose progressively as trabecular bone density decreased, reaching its maximum in D4 bone with the thinnest cortex.
+
+Thread design and abutment angulation independently shifted both the magnitude and distribution of stress on bone and implant; all bone types showed peak stress at the crestal cortical layer.
+
+The study extends the cortical-thickness and macrogeometry story from primary stability into the functional loading phase, providing a biomechanical rationale for design selection in low-density sites — limited by idealized static loading and homogeneous material assumptions.
+
+## 세줄요약
+
+3D 유한요소분석 (Finite Element Analysis, FEA; 임플란트 2종 × 골유형 D1–D4 × 지대주 각도 2종, 30° 경사 200 N 하중): 골소주 밀도 감소·피질골 두께 감소 시 임플란트 주위 응력 최고 — D4 저밀도골 + 얇은 피질골에서 응력 최대.
+
+나사산 디자인 및 지대주 각도가 골·임플란트 응력 크기·분포를 독립적으로 변화; 모든 골유형에서 치조정 피질층에서 최고 응력.
+
+초기 안정성에서 이미 알려진 피질골 두께·거시적 설계의 중요성이 기능적 하중 단계까지 연장됨을 보여줌 — 저밀도 부위의 임플란트 설계 선택의 생역학적 근거 제공; 이상화된 정적 하중·균질 재료 가정이 한계.
 
 ## Summary
 This finite element study links bone quality to biomechanics: under a 30° oblique 200 N load, peri-implant stress concentrated coronally and rose as trabecular density fell (highest in D4 bone) and as cortical thickness decreased. Thread design and abutment angulation independently shifted stress on both bone and implant. The study extends the cortical-thickness/macrogeometry story from primary stability into the loading phase — the same bone factors that weaken initial fixation also raise functional stress, compounding risk in low-density sites and giving a biomechanical rationale for design selection there. As an in silico model it assumes idealized material behavior and static loading.

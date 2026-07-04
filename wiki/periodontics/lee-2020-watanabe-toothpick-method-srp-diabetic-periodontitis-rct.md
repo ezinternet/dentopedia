@@ -22,13 +22,21 @@ relations:
     target: simpson-2022-treatment-periodontitis-glycaemic-control-people
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=60 T2DM chronic-periodontitis patients; 3 arms — control / SRP / SRP + Watanabe-method toothpick toothbrushing once weekly ×5; 12 wk): both SRP and SRP+toothbrushing (SRPAT) improved HbA1c and periodontal status, but vs SRP alone the SRPAT arm had significantly less bleeding on probing (−16.5% vs −7.3%) and was the only arm with a significant serum-endotoxin decrease (−0.78 EU/mL, p=0.003).
+Double-blind RCT (n=60 type 2 diabetes mellitus chronic-periodontitis patients; 3 arms: control, SRP, SRP + Watanabe-method professional toothbrushing once weekly ×5 visits; 12-week follow-up).
 
-## 한줄요약
+Both treatment arms significantly reduced HbA1c (~0.17–0.25%) and improved periodontal parameters; the SRPAT arm uniquely achieved a significant serum-endotoxin decrease (−0.78 EU/mL, p=0.003 vs NS for SRP alone) and far greater BOP reduction (−16.5% vs −7.3%).
 
-이중맹검 RCT(2형 당뇨 만성 치주염 60명; 3군 — 대조 / SRP / SRP+와타나베 toothpick법 주1회 ×5; 12주): SRP군과 SRP+추가칫솔질군(SRPAT) 모두 HbA1c·치주상태 개선. 다만 SRP 단독 대비 SRPAT군은 출혈(BOP)이 유의하게 더 감소(−16.5% vs −7.3%)했고, 혈청 내독소가 유의 감소한 유일한 군(−0.78 EU/mL, p=0.003)이었다.
+Adding the Watanabe toothpick-method professional brushing to SRP provides extra benefit precisely where T2DM patients are most vulnerable — bleeding control and systemic endotoxin load — though a short 12-week follow-up and extra-visit confound limit conclusions.
+
+## 세줄요약
+
+이중맹검 무작위 대조시험 (n=60, 2형 당뇨 만성 치주염; 3군: 대조·SRP·SRP+와타나베 이쑤시개법 전문 칫솔질 주 1회 ×5회; 12주).
+
+SRP군과 SRPAT군 모두 HbA1c(약 0.17–0.25%)·치주지표를 유의하게 개선했으나, SRPAT군만 혈청 내독소가 유의하게 감소(−0.78 EU/mL, p=0.003; SRP 단독은 유의하지 않음)하고 BOP 감소폭도 더 컸다(−16.5% vs −7.3%).
+
+와타나베 이쑤시개법 추가는 당뇨 환자에서 가장 취약한 출혈 조절과 전신 내독소 부하에 추가 이점을 제공하나, 12주의 짧은 추적 기간과 추가 방문 수 혼동이 결론의 강도를 제한한다.
 
 ## Summary
 

@@ -16,11 +16,21 @@ relations:
     target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
 ---
 
-## One-line Summary
-BDJ narrative review plus 2 case reports arguing that ARP's statistically significant dimensional preservation does not automatically translate into clinical patient benefit, presenting cases of xenograft chronic failure (fibrous encapsulation, peri-implantitis-like presentation) 5–13 years post-procedure, and questioning indiscriminate ARP application.
+## Three-line Summary
 
-## 한줄요약
-BDJ 게재 narrative review + 2개 case report로 ARP의 통계적 효과가 임상적 환자 이득으로 직결되지 않음을 지적, 5~13년 후 xenograft 만성 실패(섬유 포함·peri-implantitis 양상) 사례를 제시하며 ARP의 무차별 적용에 회의를 표함.
+BDJ narrative review (single author) plus two illustrative case reports from a UK general practice, arguing that statistically significant dimensional preservation from ARP does not automatically translate into clinical patient benefit.
+
+Cases presented show xenograft chronic failure presenting as peri-implantitis-like fistula/inflammation at 5–13 years post-ARP, with histology revealing non-integrated graft particles and granulation tissue; the author recommends limiting ARP to specific socket types (Elian Type 2/3, >50% buccal wall loss) rather than universal application.
+
+Evidence level is low (single narrative review, two cases) but aligns directionally with Atieh 2021 Cochrane's "very low certainty" conclusion and provides a useful clinical counterpoint to pro-ARP SR evidence, particularly relevant for informed consent about long-term xenograft complications.
+
+## 세줄요약
+
+BDJ 서사적 고찰 + 영국 일반의 증례 2건: 치조제 보존술(Alveolar Ridge Preservation, ARP)의 통계적 치수 보존 효과가 임상적 환자 이득으로 자동 변환되지 않음을 지적.
+
+ARP 시술 5–13년 후 이종골 만성 실패 사례 2건: 배농 누공·peri-implantitis 양상 발현, 조직학에서 비통합 이식재 입자·육아조직; Elian Type 2/3·협측 골 손실 >50% 등 특정 적응증으로 좁혀야 한다고 권고.
+
+근거 수준 낮음(서사적 고찰·증례 2건)이나 Atieh 2021 Cochrane "매우 낮은 확실성" 결론과 방향 일치; 장기 이종골 합병증에 대한 ARP 동의서 및 균형 잡힌 임상 판단에 활용 가치 있음.
 
 ## Summary
 Avila-Ortiz·Majzoub 같은 ARP-positive SR 흐름에 대한 **수정주의적 counterpoint**. 영국 일반의가 자신의 진료실 케이스(5–10년 후 xenograft가 fibrous encapsulation·만성 감염·peri-implantitis 양상으로 실패)를 BDJ에 보고하며, "통계적 dimensional preservation"이 "long-term patient benefit"으로 자동 변환되지 않는다는 점을 강조. Adams 본인이 SR을 쓴 게 아니므로 evidence 등급은 낮으나, 동시기 Atieh 2021 Cochrane의 "very low certainty" 결론과 결이 맞아 ARP 임상 판단에 균형추로 인용 가치가 있음.

@@ -17,11 +17,21 @@ text_filename: mojaver-2025-occlusal-overload-peri-implant-health-sr.txt
 
 기존 occlusion 카테고리에는 [[occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis]] (492→7편 SR, ROBINS-I)가 교합 과부하–임플란트주위 골소실 관계를 보수적으로 다뤘다. 본 Mojaver 2025 SR(80편)은 동일 PICO를 훨씬 넓은 근거 풀로 재검토하며 골소실 정량범위(0.65–3.0 mm)와 임플란트주위염 발생률(20–50%) 수치를 제공하고, 기계적 과부하–biofilm 염증의 dual-pathway 모델을 제시해 di-fiore 페이지를 보강·확장한다. 또한 [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]의 교합외상 개념을 임플란트 맥락으로 contextualize.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative SR (160→80 studies, no meta-analysis) reporting that occlusal overload/trauma associates with marginal bone loss (0.65–3.0 mm) and peri-implantitis incidence (20–50%), driven by a mechanical-overload × biofilm-inflammation dual pathway.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 서술적 SR(160→80편, 메타분석 없음) — 교합 과부하·외상이 임플란트 변연골소실(0.65–3.0 mm) 및 임플란트주위염 발생률(20–50%)과 연관되며, 기계적 과부하 × biofilm 염증의 이중 경로가 핵심 동인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Under pressure: Unraveling the impact of occlusal overload on peri-implant health – A systematic review

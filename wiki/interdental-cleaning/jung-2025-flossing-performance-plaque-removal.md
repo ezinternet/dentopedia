@@ -20,13 +20,21 @@ relations:
     target: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-cohort pre/post intervention (n=37 young adults): video instruction raised flossing technique (FPS 2.0→2.83, p<.001) but plaque removal did not improve (PSPI difference 0.17 vs 0.21, p=.112) and was uncorrelated with technique — even correct flossing does not substantially reduce interdental plaque.
+Prospective single-cohort pre/post intervention (n=37 young motivated university students, Germany) measuring flossing technique (Flossing Performance Score, FPS) and plaque removal (Proximal Surface Plaque Index, PSPI on intraoral scans) before and after a video-instruction + one-week practice intervention.
 
-## 한줄요약
+Video instruction significantly improved technique (FPS 2.0→2.83, p<.001) including correct adaptation and vertical movement, but plaque removal did not improve (PSPI removal 0.17 vs 0.21, p=.112), and FPS was not correlated with plaque removed; pre-floss plaque was the dominant predictor of post-floss plaque.
 
-전향적 단일 코호트 전후 중재연구(n=37, 젊은 성인): 동영상 교육으로 치실 술식(FPS 2.0→2.83, p<.001)은 향상됐으나 치태 제거량은 개선되지 않았고(PSPI 감소 0.17 vs 0.21, p=.112) 술식 숙련도와도 무관 — 올바른 치실 사용조차 치간 치태를 의미 있게 줄이지 못한다.
+Even correct flossing technique does not substantially reduce interdental plaque — the "inadequate application" explanation for floss's weak trial record is refuted, shifting the rationale toward alternative interdental approaches.
+
+## 세줄요약
+
+전향적 단일 코호트 전후 중재연구(n=37, 독일 대학생): 동영상 교육+1주 연습 전후에 치실 술식(Flossing Performance Score, FPS)과 치태 제거량(구강 내 스캔 기반 Proximal Surface Plaque Index, PSPI)을 측정.
+
+동영상 교육으로 치실 술식은 유의하게 향상됐으나(FPS 2.0→2.83, p<.001), 치태 제거량은 개선되지 않았고(PSPI 0.17 vs 0.21, p=.112), FPS와 치태 제거량은 무상관; 치실 전 치태 수준이 치실 후 치태의 가장 강력한 예측인자.
+
+올바른 치실 기법도 치간 치태를 의미 있게 줄이지 못한다 — "기술 부족" 설명이 반박되며, 치실의 낮은 효능은 기법 문제가 아니라 기기 자체의 한계임을 시사한다.
 
 ## Summary
 

@@ -18,11 +18,21 @@ relations:
     target: slete-2018-histomorphometric-comparison-three-osteotomy-techniques
 ---
 
-## One-line Summary
-Cadaver-goat experimental study (44 implants, 4 approaches) showing combined lateral (undersized) + axial (under-depth) bone compression significantly increases insertion torque and %BIC vs standard drilling in low-density bone.
+## Three-line Summary
 
-## 한줄요약
-염소 사체 실험(임플란트 44개)에서 측방압축(언더사이즈)+축방향압축(깊이 미달)을 결합하면 표준 드릴링 대비 식립 토크와 BIC가 유의하게 증가.
+Ex vivo cadaver-goat femoral condyle study (44 implants, 4 osteotomy approaches: standard, axial under-depth only, lateral undersized diameter only, and combined lateral + axial) testing whether two independent compression axes can raise primary implant stability in low-density bone.
+
+Both axial and lateral compression independently increased insertion torque vs standard drilling (p<0.05); undersized-diameter approaches (with or without under-depth) drove the %BIC gain, and under-depth alone increased inner-zone bone volume.
+
+The combined lateral + axial compression approach is proposed as a low-density bone strategy, but this is an ex vivo feasibility study with n=11 per group and no in vivo healing follow-up; pending confirmation in living bone models.
+
+## 세줄요약
+
+염소 사체 대퇴과 ex vivo 연구 (임플란트 44개, 4가지 approach: 표준, 축방향 깊이 미달 단독, 측방 언더사이즈 단독, 결합) — 저밀도 골에서 두 독립적 압축 벡터의 1차 안정성 기여 분리 검증.
+
+축방향 및 측방 압축 모두 표준 드릴링 대비 식립 토크 독립적으로 증가 (p<0.05); 언더사이즈 직경 군(3·4)에서 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) % 최고; 깊이 미달 단독(2)은 내부 주위골 용적 증가.
+
+결합 압축 approach가 저밀도 골 전략으로 제안되나, n=11/군 ex vivo 파일럿으로 생체 내 치유 데이터 없음 — 생체 in vivo 검증 필요.
 
 ## Summary
 This ex vivo study tested whether bone can be compressed along two independent axes during osteotomy to raise primary implant stability in low-density bone. Forty-four implants were placed in goat femoral condyles using four drilling approaches: standard, axial under-depth only, lateral undersized only, and combined. Both axial and lateral compression independently raised insertion torque over the standard protocol, and undersized-diameter approaches (with or without under-depth) produced the highest %BIC. The combined approach is proposed as an alternative for type IV bone, pending in vivo confirmation.

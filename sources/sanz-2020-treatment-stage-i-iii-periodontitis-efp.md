@@ -9,7 +9,7 @@ pdf_filename: sanz-2020-treatment-stage-i-iii-periodontitis-efp.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 EFP S3 level clinical practice guideline for stage I–III periodontitis treatment using stepwise therapy; based on 15 commissioned SRs and GRADE methodology.
 
 ## 1. Document Information

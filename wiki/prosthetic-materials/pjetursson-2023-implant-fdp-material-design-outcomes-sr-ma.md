@@ -20,13 +20,21 @@ text_filename: pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.txt
 full_text: false
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (32 studies, posterior iFDP, 3y): PFM 98.3%, veneered Zr 97.5%, monolithic/micro-veneered Zr 98.9%, LDS 97.0% survival — equivalent across materials; veneered restorations had significantly more ceramic chipping and fracture (p<0.01), with veneered Zr showing the highest fracture rate.
+SR+MA (32 studies, 42 arms; posterior implant-supported multi-unit FDPs; Poisson regression pooled 3-year survival) comparing PFM, veneered zirconia, monolithic/micro-veneered zirconia, and lithium disilicate iFDPs.
 
-## 한줄요약
+3-year survival was statistically equivalent across all material groups (PFM 98.3%, veneered Zr 97.5%, monolithic Zr 98.9%, LDS 97.0%); veneered restorations had significantly more ceramic chipping and fracture (p<0.01), with veneered zirconia FDPs showing the highest fracture rate.
 
-SR+MA(32개 연구, 후방부 임플란트 다단위 FDP, 3년): 재료 간 생존율 동등(PFM 98.3%·모놀리식 Zr 98.9%); 베니어 보철 칩핑·파절 유의미하게 높음(p<0.01), 베니어 지르코니아 FDP가 최고 파절률.
+Monolithic zirconia is the preferred FDP design for minimizing fracture/chipping; LDS multi-unit iFDPs remain under-studied (wide CI: 84.8–99.9%); FDP with pontic vs splinted crown designs showed no difference in survival or complications.
+
+## 세줄요약
+
+PFM, 베니어 지르코니아, 모놀리식/마이크로 베니어 지르코니아, 리튬디실리케이트 임플란트 지지 다단위 FDP를 비교한 SR+MA(32편, 42개 연구군; 후방부; 포아송 회귀 3년 생존율).
+
+재료 간 3년 생존율 통계적으로 동등(PFM 98.3%, 베니어 Zr 97.5%, 모놀리식 Zr 98.9%, LDS 97.0%); 베니어 수복물이 도재 칩핑·파절 유의하게 많음(p<0.01), 베니어 지르코니아 FDP가 최고 파절률.
+
+다단위 FDP에서 모놀리식 지르코니아가 파절·칩핑 최소화에 적합; LDS 다단위 iFDP는 근거 불충분(95% CI 84.8–99.9%); FDP 폰틱 vs 스플린트 크라운 디자인 간 생존율·합병증 차이 없음.
 
 ## Summary
 

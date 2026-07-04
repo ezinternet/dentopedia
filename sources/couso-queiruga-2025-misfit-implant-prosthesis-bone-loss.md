@@ -17,13 +17,21 @@ text_filename: couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.txt
 
 프레임워크 미스피트(misfit)가 임플란트주위 골 소실에 미치는 임상적 영향을 최초로 정량화한 연구. 한계값 ≥0.1 mm gap → DIB 증가를 수치로 제시. [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] 의 "misfit이 골 소실에 미치는 영향 불명확" 결론을 업데이트.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective (n=301 patients, 505 implants, 10.6yr): ISPs with marginal gaps show higher bone loss (DIB 3.43 vs 3.22 mm, P=.001); gaps ≥0.1 mm are the threshold; each 0.1 mm increment adds 0.08 mm bone loss; smoking and periodontitis are the strongest independent risk factors.
+Retrospective cohort (n=301 patients, 505 tissue-level implants, mean 10.6 years follow-up, University of Bern) examining the impact of prosthetic marginal misfit on peri-implant bone loss (DIB).
 
-## 한줄요약
+Implants with marginal gaps showed greater bone loss than those without (DIB 3.43 vs 3.22 mm, P=.001); the dose-response threshold was ≥0.1 mm (each additional 0.1 mm gap → +0.08 mm DIB), though misfit lost significance in multivariable models where smoking (+0.36 mm) and periodontitis history (+0.16 mm) dominated.
 
-후향 코호트 (n=505 임플란트, 10.6년): 변연 갭 있는 보철이 없는 것보다 골 소실 더 큼(DIB 3.43 vs 3.22 mm, P=.001); 갭 ≥0.1 mm가 임계값; 0.1 mm 증가마다 DIB +0.08 mm; 흡연·치주병력이 최강 독립 위험인자.
+The study is the first to quantify a specific misfit threshold linked to DIB increase; tissue-level implants only and retrospective radiographic gap assessment limit generalizability.
+
+## 세줄요약
+
+후향적 코호트 (Bern대학; n=505 연조직 수준 임플란트, 평균 10.6년): 변연 갭이 있는 보철에서 없는 것보다 임플란트-골 거리 (Distance Implant-Bone, DIB) 더 큼(3.43 vs 3.22 mm, P=.001).
+
+갭 ≥0.1 mm가 DIB 증가 임계값; 0.1 mm 추가마다 DIB +0.08 mm — 단, 다변량에서 흡연(+0.36 mm)·치주병력(+0.16 mm)이 미스피트보다 강한 독립 예측인자.
+
+미스피트 임계값을 정량화한 첫 연구; 연조직 수준 임플란트 단독 설계·단일기관·후향적 한계 있음.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2025;37(1):69-78

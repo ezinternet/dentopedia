@@ -17,13 +17,23 @@ text_filename: halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly.txt
 
 미각상실·침분비저하 관련 논문을 독립 검색하던 중, 노인 다약제복용(polypharmacy)이 침분비저하(hyposalivation)와 미각이상(dysgeusia)을 동시에 유발하는 임상적으로 흔한 원인임을 다룬 이 narrative review를 발견. 기존 [[geriatric-dentistry/kumar-2025-nutritional-status-dry-mouth-older-adults]]가 구강건조→영양실조 결과를 다뤘다면, 본 논문은 그 원인(약물 기전별 침분비저하 경로) 및 치과 임상 관리 프로토콜을 채워 원인-결과 사슬을 완성한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review synthesizing 2013–2024 literature on polypharmacy (≥5 medications, 30–44% prevalence in older adults) causing xerostomia/hyposalivation and dysgeusia via distinct pharmacological mechanisms (anticholinergic M3-receptor blockade, β-blocker Na-K-2Cl cotransporter inhibition, thiazide carbonic-anhydrase inhibition), with a proposed interprofessional deprescribing-first management framework for dental practitioners.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰(2013–2024 문헌 종합) — 노인 다약제복용(polypharmacy, 5제 이상, 유병률 30~44%)이 여러 약물별 기전(항콜린제의 M3 수용체 차단, 베타차단제의 Na-K-2Cl 공동수송체 억제, 티아지드의 탄산탈수효소 억제 등)을 통해 침분비저하·구강건조증과 미각이상(dysgeusia)을 동시에 유발함을 정리하고, 치과의사 주도의 탈처방(deprescribing) 우선 다학제 관리 틀을 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

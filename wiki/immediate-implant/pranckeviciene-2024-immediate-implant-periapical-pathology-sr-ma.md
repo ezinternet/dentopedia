@@ -13,11 +13,21 @@ source_collection: external
 tags: ['periapical pathology', 'infected socket', 'IIP', 'long-term', 'antibiotic']
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (109 publications screened, 22 full-text reviewed) comparing immediate implant placement into sockets with vs without periapical pathology; with thorough debridement and antibiotic prophylaxis, survival of immediate implants in infected sites is comparable to non-infected sites.
+## Three-line Summary
 
-## 한줄요약
-SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs 없는 부위 즉시식립 — 장기 임상 결과 비교; 적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
+Systematic review and meta-analysis (109 publications screened, 22 full-text reviewed) comparing long-term clinical outcomes of immediate implant placement (IIP) into extraction sockets with vs without periapical pathology.
+
+With thorough socket debridement and antibiotic prophylaxis, survival of immediate implants in sites with periapical pathology was comparable to non-infected sites; acute infection with purulent exudate or sinus perforation remained a contraindication.
+
+The traditional view of periapical pathology as an absolute contraindication to IIP is not supported by the evidence when careful debridement and antibiotic protocols are followed; however, methodological heterogeneity across included studies limits the strength of conclusions.
+
+## 세줄요약
+
+SR+MA (109편 검색, 22편 전문 검토): 치근단 병변 있는 발치와 즉시식립 vs 없는 발치와 즉시식립의 장기 임상 결과 비교.
+
+발치와 철저한 소파와 항생제 예방 요법을 동반하면 치근단 병변 부위의 즉시식립 생존율이 비감염 부위와 동등; 급성 화농성 감염·동 천공은 금기 유지.
+
+만성 치근단 병변이 즉시식립의 절대 금기라는 통념은 철저한 처치 프로토콜 하에서 지지되지 않음; 단, 포함 연구 간 방법론적 이질성이 높아 결론의 근거 수준에 한계가 있다.
 
 ## Summary
 To evaluate long-term clinical outcomes of immediate implants placed into fresh sockets with vs without periapical pathology. 109 publications screened, 22 full-text reviewed, included studies analyzed for survival, MBL, complications.

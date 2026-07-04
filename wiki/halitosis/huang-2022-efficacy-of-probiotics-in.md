@@ -18,13 +18,21 @@ relations:
     target: lopez-valverde-2022-role-probiotics-halitosis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs showing probiotics significantly reduce OLP scores and VSC levels in the short term (≤4 weeks), but only OLP scores remain significantly improved in the long term (>4 weeks).
+SR+MA of 7 RCTs (n=23–68 per study; follow-up 2–12 weeks) evaluating Lactobacillus, Streptococcus salivarius K12, and Weissella cibaria strains for halitosis management.
 
-## 한줄요약
+Short-term (≤4 weeks): probiotics significantly reduced organoleptic scores (OLP; SMD −0.58, p<0.0001) and total VSC levels (SMD −0.26, p=0.04); long-term (>4 weeks): only OLP improvement persisted (SMD −0.45, p=0.03), while VSC reduction was not sustained.
 
-7개 RCT를 포함한 SR+MA로, 프로바이오틱스가 단기(≤4주)에 관능검사 점수(OLP)와 VSC 농도를 유의하게 감소시키나, 장기(>4주)에는 OLP 점수만 유의한 개선이 지속됨.
+VSC reduction does not persist beyond 4 weeks, suggesting probiotics are best used as adjuncts to mechanical hygiene rather than standalone therapy; no effect was seen on tongue coating or plaque index.
+
+## 세줄요약
+
+구취 환자 대상 7개 RCT(n=23–68, 추적 2–12주) SR+MA; Lactobacillus, S. salivarius K12, Weissella cibaria 균주 평가.
+
+단기(≤4주): 프로바이오틱스는 관능검사(OLP) 점수(SMD −0.58, p<0.0001)와 VSC 농도(SMD −0.26, p=0.04)를 유의하게 감소; 장기(>4주): OLP 점수 개선만 지속(SMD −0.45, p=0.03), VSC 감소는 지속되지 않음.
+
+4주 이후 VSC 감소가 소실되므로 프로바이오틱스는 기계적 구강위생의 보조 수단으로 사용해야 하며, 설태·치태 지수에는 효과 없음.
 
 ## Summary
 

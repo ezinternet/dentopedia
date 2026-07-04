@@ -13,13 +13,23 @@ source_collection: external
 
 This is the seminal articulation of the APT (Aesthetic Pre-evaluative Temporary) / mock-up-guided minimally invasive porcelain laminate veneer (PLV) preparation philosophy — prepare *through* the mock-up so reduction is referenced to the final restorative contour, not the existing (often worn/dark) tooth, thereby preserving enamel. It is the conceptual ancestor of the thickness/preparation criteria synthesized in [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] and the no-prep vs conventional debate in [[veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Clinical technique / narrative paper establishing the Aesthetic Pre-evaluative Temporary (APT) workflow — mock-up → wax-up → APT → silicone index — that lets the clinician prepare porcelain laminate veneer teeth *through* the approved provisional, referencing reduction to the final restorative contour to maximize enamel preservation and patient/laboratory communication.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 도재 라미네이트 비니어(Porcelain Laminate Veneer, PLV)의 최소 삭제 철학을 정립한 임상 기법/내러티브 논문 — 목업→왁스업→심미 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)→실리콘 인덱스 순서로, 기존 치아가 아닌 최종 보철 윤곽을 기준으로 APT를 통과해(through the APT) 삭제하여 법랑질(enamel)을 최대한 보존하고 환자·기공실과의 의사소통을 강화한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

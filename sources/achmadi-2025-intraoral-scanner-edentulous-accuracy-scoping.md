@@ -9,8 +9,21 @@ pdf_filename: achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping.pdf
 source_collection: external
 ---
 
-## One-line Summary
-무치악 악궁 인상 정확도 IOS vs 기공실 스캐너 scoping review (BDJ Open 2025): PRISMA-ScR; 312건 검색 → 8편 선정; IOS는 무치악에도 유용하나 형태학적 차이가 스캔 결과에 영향.
+## Three-line Summary
+
+Scoping review (BDJ Open 2025; PRISMA-ScR; Universitas Padjadjaran, Indonesia; 312 articles screened, 8 included) comparing impression accuracy of intraoral scanners (IOS) versus laboratory scanners for fully and partially edentulous arches.
+
+IOS shows promise for edentulous cases but faces accuracy challenges from smooth featureless mucosa that impedes stitching algorithms and accumulates cumulative error over extended scan paths; laboratory scanners (indirect digitization of conventional casts) generally maintain higher accuracy in edentulous conditions.
+
+IOS cannot yet fully replace conventional impressions for fully edentulous patients — longer scanning paths and lack of anatomical landmarks remain key limitations; newer IOS generations may improve performance but evidence is still sparse (only 8 studies).
+
+## 세줄요약
+
+스코핑 리뷰 (BDJ Open 2025; PRISMA-ScR; 파자자란 대학교, 인도네시아; 312편 스크리닝 → 8편 선정): 무치악 및 부분 무치악 악궁에서 구내 스캐너 (Intraoral Scanner, IOS)와 기공실 스캐너의 인상 정확도 비교.
+
+IOS는 무치악에서 가능성 있으나, 편평하고 특징 없는 점막면이 스티칭 알고리즘 방해 및 긴 스캔 경로에서 누적 오차 증가 → 정확도 도전; 기공실 스캐너(통상 인상 → 모형 → 스캔 간접법)가 무치악에서 일반적으로 더 정확.
+
+IOS는 아직 완전 무치악 환자의 통상 인상을 대체하기 어려움 — 긴 스캔 경로·해부학적 랜드마크 부족이 핵심 한계; 신세대 IOS가 개선 가능성 있으나 근거 부족(8편).
 
 ## 1. Document Information
 - **Journal**: BDJ Open 2025, 11:13

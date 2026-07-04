@@ -19,13 +19,23 @@ text_filename: farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
 
 "Oral prophylaxis" 요청의 두 번째 코어 논문. 21st European Workshop on Periodontology(EFP) Working Group 1 SR로, [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]](저위험 성인 루틴 프로필락시스 무효)과 대비되는 **established gingivitis 치료 맥락**에서 PMPR의 역할을 규명한다 — OHI가 1차, PMPR은 OHI에 대한 adjunct일 때만 이득. 또한 [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]]·[[overviews/professional-biofilm-management-gbt-air-polishing-overview]]의 air-polishing vs rubber-cup 논쟁에 SR+MA 근거(동등 효능·짧은 시간)를 더한다. PMC full text 확보.
 
-## One-line Summary
+## Three-line Summary
 
-EFP 21st Workshop systematic review + meta-analysis (11 studies; mostly RCTs) showing that, for dental biofilm-induced gingivitis, OHI is first-line and professional mechanical plaque removal (PMPR) adds benefit only as an adjunct to OHI (low certainty), with air polishing + ultrasonics as effective as but faster than ultrasonic + rubber-cup polishing (very low certainty) and diode laser offering no adjunctive benefit.
 
-## 한줄요약
+EFP 21st Workshop systematic review + meta-analysis (11 studies;
+
+mostly RCTs) showing that, for dental biofilm-induced gingivitis, OHI is first-line and professional mechanical plaque removal (PMPR) adds benefit only as an adjunct to OHI (low certainty), with air polishing + ultrasonics as effective as but faster than ultrasonic + rubber-cup polishing (very low certainty) and diode laser offering no adjunctive benefit.
+
+(incomplete)
+
+## 세줄요약
+
 
 치태-유발 치은염에서 구강위생교육(OHI)이 1차 치료이고 전문가 기계적 치태제거(PMPR)는 OHI에 더해질 때만 이득(low certainty)을 주며, 에어폴리싱+초음파가 초음파+러버컵 폴리싱과 동등하면서 더 빠르고, 다이오드 레이저는 부가 이득이 없다는 EFP SR+MA(11편).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

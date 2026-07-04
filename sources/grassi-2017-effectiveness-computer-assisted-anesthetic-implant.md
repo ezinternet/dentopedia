@@ -17,13 +17,23 @@ text_filename: grassi-2017-effectiveness-computer-assisted-anesthetic-implant.tx
 
 임플란트 수술 마취 시 통증·불안 관리 근거를 보강하기 위해 인제스트. Computerized Local Anesthesia(CLA, STA 시스템)를 임플란트 수술에 적용한 within-patient 비교(동일 환자의 과거 전통마취 경험 vs 신규 CLA 경험) 연구로, needle-free/저침습 마취 전달 근거를 다루는 [[local-anesthesia/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort]]와 짝을 이루며 임플란트 시술 맥락에서의 마취 전달 시스템 비교 근거를 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective cohort study (n=45) found computer-assisted Single Tooth Anesthesia (STA) delivered markedly less pain (mean 1.6/10) than patients' prior experience with conventional anesthesia (mean 7.9/10) during dental implant surgery, using half the anesthetic volume.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 코호트 연구(n=45)에서 컴퓨터 제어 국소마취(Single Tooth Anesthesia, STA)가 임플란트 수술 시 기존 전통마취(Conventional Anesthesia, CA) 대비 통증을 크게 낮췄으며(평균 1.6 vs 7.9/10), 마취제 사용량도 절반으로 감소했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -9,8 +9,21 @@ pdf_filename: bhandarkar-2023-rfa-mathematical-modeling-implant-stability.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Engineering / in-vitro mathematical model (2 DOF) of a dental implant under electromagnetic resonance frequency analysis (RFA): finite element analysis derived stiffness/damping; MATLAB FFT analysis of an input range 5–15 kHz extracted resonance frequencies and corresponding maximum micro-displacements; the framework validates and quantifies the electromagnetic RFA technique for monitoring primary implant stability.
+## Three-line Summary
+
+Engineering in-silico study (2-degree-of-freedom mathematical model + FEA) of a dental implant under electromagnetic RFA, using MATLAB FFT analysis across 5–15 kHz to extract resonance frequencies and maximum micro-displacements.
+
+Higher stiffness (denser cortical bone, greater BIC) → higher resonance frequency → higher ISQ → lower micro-displacement; the 2-DOF model reproduced measured RFA behavior closely enough to validate the electromagnetic RFA (Osstell/Penguin) principle.
+
+Model is theoretical with no clinical correlation data; simplified bone model does not address non-linear viscoelastic trabecular behavior; findings must be integrated with clinical ISQ validation literature.
+
+## 세줄요약
+
+공학 인-실리코 연구(2자유도 수학 모델 + 유한요소분석) — 전자기 공명주파수분석(Resonance Frequency Analysis, RFA) 하에서 임플란트를 5–15 kHz MATLAB FFT 분석으로 공명 주파수와 최대 미세변위 추출.
+
+골 강성↑(치밀 피질골, 높은 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)) → 공명 주파수↑ → ISQ↑ → 미세변위↓; 2자유도 모델이 전자기 RFA(Osstell/Penguin) 원리를 충분히 재현하여 타당성 검증.
+
+임상 상관 데이터 없는 이론 모델; 단순화된 골 모델(비선형 점탄성 해면골 반영 불가); 임상 ISQ 검증 문헌과 통합 필요.
 
 ## 1. Document Information
 - **Journal**: e-Prime — Advances in Electrical Engineering, Electronics and Energy, Vol 6 (2023) 100314

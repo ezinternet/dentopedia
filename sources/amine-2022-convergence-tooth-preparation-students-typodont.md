@@ -9,8 +9,21 @@ pdf_filename: amine-2022-convergence-tooth-preparation-students-typodont.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Int J Dent 2022:7615892 (Casablanca, Morocco) — preclinical study of 140 preparations by 35 third-year students on typodont vs simulator scanned with IDENTICA HYBRID; mean TOC ~12° (typodont 11.99° ± 4.48; simulator 11.31° ± 4.16); both within recommended 6-16° range; simulator slightly tighter than typodont.
+## Three-line Summary
+
+Preclinical in vitro study (140 preparations, 35 third-year dental students, Casablanca) comparing total occlusal convergence (TOC) on typodont versus simulator using IDENTICA HYBRID scanner.
+
+Mean TOC was 11.99° ± 4.48 on typodont and 11.31° ± 4.16 on simulator; both platforms fell within the recommended 6–16° range, with no statistically significant difference between platforms.
+
+Both typodont and simulator support equivalent preclinical training for crown preparation convergence; the ideal 6° taper remains unachievable in controlled preclinical settings.
+
+## 세줄요약
+
+전임상 실험 연구(140개 치아삭제, 35명 3학년 치과대학생, 카사블랑카): 타이포돈트(typodont) 대 시뮬레이터에서 크라운 치아삭제 총수렴각(Total Occlusal Convergence, TOC) 비교(IDENTICA HYBRID 스캐너 사용).
+
+타이포돈트에서 평균 TOC 11.99° ± 4.48, 시뮬레이터에서 11.31° ± 4.16으로 두 플랫폼 모두 권장 범위(6–16°) 이내이며 플랫폼 간 유의차 없었다.
+
+두 플랫폼 모두 크라운 치아삭제 교육에 동등하게 적합하나, 이상적인 6° 경사각은 전임상 환경에서도 달성하기 어렵다.
 
 ## 1. Document Information
 - Journal: International Journal of Dentistry 2022:7615892

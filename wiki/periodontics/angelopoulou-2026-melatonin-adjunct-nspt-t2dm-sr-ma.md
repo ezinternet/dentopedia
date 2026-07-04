@@ -22,13 +22,21 @@ relations:
     target: barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 3 RCTs (149 patients; 2 pooled, n=94) — systemic melatonin (3 mg nightly) adjunct to NSPT in T2DM + periodontitis significantly improved PPD (SMD −1.99), CAL (SMD −1.49), HbA1c (SMD −1.15) and hs-CRP (SMD −0.97) vs NSPT/placebo, but all GRADE-low certainty.
+SR+MA of 3 RCTs (149 patients total; 2 pooled, n=94) evaluating systemic melatonin (3 mg nightly × 8 weeks) as an adjunct to non-surgical periodontal therapy (NSPT) in patients with type 2 diabetes mellitus and periodontitis.
 
-## 한줄요약
+Pooled melatonin significantly improved PPD (SMD −1.99), CAL (SMD −1.49), HbA1c (SMD −1.15), and hs-CRP (SMD −0.97) versus NSPT/placebo; TAC, TNF-α, and IL-6 were non-significant.
 
-RCT 3편(149명, 2편 풀링 n=94) SR+MA — T2DM 치주염 환자에서 비외과적 치주치료(NSPT)에 전신 멜라토닌(밤 3 mg) 보조 시 치주낭깊이(PPD, SMD −1.99)·임상부착수준(CAL, SMD −1.49)·당화혈색소(HbA1c, SMD −1.15)·hs-CRP(SMD −0.97)가 유의하게 개선되나 모두 GRADE 근거수준은 낮음(low).
+All outcomes rated GRADE-low certainty; only 3 eligible RCTs exist, so melatonin cannot yet be recommended as standard host-modulating adjunct therapy.
+
+## 세줄요약
+
+RCT 3편(149명, 2편 풀링 n=94) SR+MA — 제2형 당뇨(T2DM) 치주염 환자에서 NSPT에 전신 멜라토닌(밤 3 mg × 8주) 보조 효과를 평가.
+
+멜라토닌 보조군은 PPD(SMD −1.99)·CAL(SMD −1.49)·HbA1c(SMD −1.15)·hs-CRP(SMD −0.97) 모두 유의 개선; TAC·TNF-α·IL-6는 비유의.
+
+모든 결과지표가 GRADE 근거수준 낮음(low)이고 적격 RCT가 3편뿐이므로 표준 보조요법으로 권고하기에는 이른 단계.
 
 ## Summary
 

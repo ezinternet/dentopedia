@@ -19,13 +19,21 @@ relations:
     target: schmutz-2019-teamwork-performance-healthcare-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey (modified MOSPSC, 4 US dental institutions, n=656, 40.6% response) finding medical institutions outperform dental on 9/10 safety-culture dimensions, with dental clinics strongest in organizational learning (85%) and teamwork (79%).
+Cross-sectional survey using the AHRQ MOSPSC adapted for dentistry (4 US dental institutions, 2016; n=656 of 1615 invited, 40.6% response) benchmarking dental safety culture against the medical sector.
 
-## 한줄요약
+Medical institutions outperformed dental on 9 of 10 safety-culture dimensions and on 6/6 overall quality and 8/9 patient-safety items; dental clinics' relative strengths were organizational learning (85% positive) and teamwork (79% positive).
 
-미국 4개 치과기관 단면조사(수정 MOSPSC 설문, n=656, 응답률 40.6%): 의료기관이 10개 안전문화 영역 중 9개에서 치과를 앞섰고, 치과는 조직학습(85%)·팀워크(79%)에서 가장 강점을 보였다 (초록 전용 — 전문 미확보).
+Dentistry lags medicine on most patient-safety culture measures but heterogeneity persists within dental institution types (academic vs private); administering the MOSPSC is recommended as a baseline improvement tool for dental practices.
+
+## 세줄요약
+
+미국 치과기관 4곳을 대상으로 치과용으로 수정한 AHRQ MOSPSC 설문 단면조사(2016년; n=656/1615, 응답률 40.6%): 의료 부문 대비 치과 안전문화 벤치마크.
+
+의료기관이 안전문화 10개 영역 중 9개, 전반 질 6개 중 6개, 환자안전·질 9개 중 8개에서 치과를 앞섰고, 치과의 상대적 강점은 조직학습(85%)과 팀워크(79%).
+
+치과는 대부분의 환자안전 문화 지표에서 의료에 뒤지며, 학술·비학술 치과기관 간에도 이질성이 있음 — MOSPSC 설문 시행이 개선 영역 식별의 출발점으로 권고됨.
 
 ## Summary
 

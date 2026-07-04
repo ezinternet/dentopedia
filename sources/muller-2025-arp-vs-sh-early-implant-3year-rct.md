@@ -13,13 +13,23 @@ source_collection: external
 
 치조제보존술 (Alveolar Ridge Preservation, ARP) 후 조기식립 (early implant placement) 3년 장기 결과를 보고하는 RCT로, 기존 1년 추적 데이터를 보고한 선행 연구들을 3년까지 확장한다. [[bone-regeneration/ridge-preservation/strauss-2024-ridge-preservation-early-implant-aesthetic]]와 비교하여 조기 식립 프로토콜에서 ARP의 장기 효과(외형 변화 및 방사선학적 MBL)를 평가하는 핵심 근거.
 
-## One-line Summary
+## Three-line Summary
+
 
 Exploratory RCT (n=35) comparing DBBM-C/CM, DBBM-C, and spontaneous healing (SH) before early implant placement: all groups showed significant but clinically acceptable contour reduction at 3 years (−0.23, −0.21, −0.33 mm), with no significant differences in marginal bone loss between groups.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 탈단백 소 골 미네랄 (Deproteinized Bovine Bone Mineral, DBBM)-C/CM, DBBM-C, 자발적 치유 (Spontaneous Healing, SH) 세 군을 조기 식립 전에 비교한 탐색적 무작위 대조 시험 (Randomized Controlled Trial, RCT) (n=35): 3년 추적에서 모든 군 외형 감소 통계적 유의 (−0.23, −0.21, −0.33 mm), 군 간 변연골 소실 (Marginal Bone Level, MBL) 차이는 유의하지 않음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

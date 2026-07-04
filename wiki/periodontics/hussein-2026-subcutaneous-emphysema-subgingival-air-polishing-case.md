@@ -19,13 +19,21 @@ relations:
     target: cyris-2024-guided-biofilm-therapy-versus-conventional
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report: glycine-based subgingival air polishing with a subgingival nozzle in a 5 mm pocket caused subcutaneous facial emphysema (periorbital + cheek swelling), requiring 3-day hospitalisation and antibiotics, with full recovery — a device-/protocol-specific safety caveat to the favorable air-polishing evidence. (abstract-only — full text not retrieved)
+Case report (n=1) of subcutaneous facial emphysema following glycine-based subgingival air polishing with a dedicated subgingival nozzle deployed into a 5 mm periodontal pocket during supportive periodontal therapy.
 
-## 한줄요약
+The patient developed periorbital and right-cheek swelling, required 3-day hospital admission with antibiotic cover, and was discharged with full recovery.
 
-증례보고: 5 mm 치주낭에 글라이신(glycine) 치은연하 노즐로 air polishing 시행 후 안면 피하기종(subcutaneous facial emphysema)이 발생해 안와주위·뺨 부종으로 3일 입원·항생제 투여 후 완전 회복 — 호의적인 air polishing 근거에 대한 기기·프로토콜별 안전성 경고. (abstract-only — 전문 미확보)
+Subcutaneous emphysema is a rare but serious complication of subgingival air polishing that can occur even at sites without overt signs of infection (no BOP/suppuration); clinicians should adhere strictly to device-specific instructions, avoid over-pressurization in deep pockets, and be prepared for early recognition of swelling or crepitus.
+
+## 세줄요약
+
+증례 보고 (n=1): 지지적 치주치료(Supportive Periodontal Therapy, SPT) 중 글라이신(glycine) 분말을 치은연하 전용 노즐로 5 mm 치주낭에 에어폴리싱 시행 후 피하 안면 기종(Subcutaneous Facial Emphysema, SFE) 발생.
+
+안와주위 및 우측 뺨 부종으로 3일 입원·항생제 투여 후 완전 회복.
+
+치은연하 에어폴리싱에 의한 피하기종은 드물지만 중증 합병증으로, 출혈탐침(BOP)·분비물 없는 부위에서도 발생 가능; 기기별 지침 엄수·깊은 치주낭 과압 방지·조기 부종·염발음 인식 대비가 필수적이다. (abstract-only — 전문 미확보)
 
 ## Summary
 

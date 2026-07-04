@@ -13,12 +13,21 @@ source_collection: external
 tags: [coronectomy, third-molar, IAN, nerve-injury, oral-surgery]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 16 studies (2,176 coronectomy cases) reporting an inferior alveolar nerve (IAN) injury rate of only 0.59% (vs 0.5–8% for complete extraction), lingual nerve injury 0.22%, infection 3.95%, dry socket 1.12%, and root re-extraction in 5.28%; concludes coronectomy is a safe and feasible alternative when third molar roots contact the IAN, though most included studies were of low methodological quality.
+PROSPERO-registered systematic review (16 studies, 2,176 coronectomy cases) documenting the full complication profile of mandibular third molar coronectomy including IAN injury, lingual nerve injury, infection, dry socket, root migration, and reintervention rates.
 
-## 한줄요약
-SR 16편 2,176례: 부분 치관절제술(관상절제술)의 하치조신경 손상률 0.59% — 하치조신경 근접 하악 제3대구치에서 안전하고 실행 가능한 대안 술식.
+IAN injury rate was only 0.59% (versus 0.5–8% for complete extraction); lingual nerve injury 0.22%; infection 3.95%; dry socket 1.12%; root re-extraction required in 5.28%; pain was the most commonly reported complication (22.04%); only 5/16 studies met high methodological quality standards.
+
+Coronectomy is confirmed as a safe and feasible alternative when third molar roots contact the inferior alveolar canal, but the evidence base is hampered by low study quality — higher-quality RCTs are needed for definitive recommendations.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 문헌고찰(16편, 2,176례): 하악 제3대구치 치관절제술의 하치조신경 손상, 설신경 손상, 감염, 건성치조염, 치근 이동, 재수술 포함 전체 합병증 프로파일 기술.
+
+하치조신경(IAN) 손상 0.59%(완전 발치 0.5–8% 대비); 설신경 손상 0.22%; 감염 3.95%; 건성치조염 1.12%; 치근 재발치 필요 5.28%; 통증이 가장 흔한 합병증(22.04%); 고방법론 질 연구는 16편 중 5편뿐.
+
+하치조신경관 접촉 증례에서 치관절제술의 안전성·실행 가능성 확인 — 단 연구 질 저하로 확정적 권고를 위한 고품질 RCT 추가 필요.
 
 ## Summary
 Systematic review of 16 studies covering 2,176 관상절제술 (coronectomy, intentional partial odontectomy) cases. The 하치조신경 (Inferior Alveolar Nerve, IAN) injury rate was only 0.59%, compared to 0.5–8% for complete third molar extraction. Lingual nerve injury occurred in 0.22%. Infection rate was 3.95%, dry socket 1.12%, and root re-extraction required in 5.28% of cases. Pain was the most commonly reported complication (22.04%). Only 5 of 16 studies met high methodological quality standards; PROSPERO-registered.

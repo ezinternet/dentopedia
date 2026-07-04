@@ -11,7 +11,7 @@ pdf_filename: kumar-2023-irrigant-activation-working-length-sr-meta-analysis.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA on irrigant activation techniques (IATs) vs conventional needle irrigation (CNI): ANP best at working-length delivery, followed by PUI > SI > MDA; IATs routinely recommended.
 
 ## 1. Document Information

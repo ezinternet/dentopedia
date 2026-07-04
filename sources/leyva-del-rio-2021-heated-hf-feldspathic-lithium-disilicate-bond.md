@@ -13,13 +13,23 @@ source_collection: external
 
 가열 HF 산 처리가 세라믹 표면 거칠기와 레진 접착강도에 미치는 영향을 정량화한 논문으로, [[resin-bonding/venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond]]의 HF 농도 연구를 온도 변수로 확장하고, [[resin-bonding/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength]]의 리튬 디실리케이트 접착 프로토콜에 물리적 표면 처리 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n per group, 9% HF ± heating to 70°C): Heated HF significantly increased surface roughness and bond strength (μTBS) for lithium disilicate (L70: 29.11 MPa) but not for feldspathic ceramic; room-temperature HF groups for both ceramics showed similar μTBS (~18–20 MPa).
 
-## 한줄요약
+In vitro (n per group, 9% HF ± heating to 70°C): Heated HF significantly increased surface roughness and bond strength (μTBS) for lithium disilicate (L70: 29.11 MPa) but not for feldspathic ceramic;
+
+room-temperature HF groups for both ceramics showed similar μTBS (~18–20 MPa).
+
+(incomplete)
+
+## 세줄요약
+
 
 In vitro (9% HF ± 70°C 가열): 리튬 디실리케이트에서 가열 HF가 표면 거칠기와 μTBS를 유의하게 증가(29.11 MPa)시켰으나, 장석계 세라믹에서는 가열 효과 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

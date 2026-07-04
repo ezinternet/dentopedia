@@ -9,7 +9,7 @@ pdf_filename: hardan-2022-immediate-dentin-sealing-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Meta-analysis of 21 in vitro studies confirms IDS improves bond strength over DDS for indirect restorations; long-term benefit largest with 3-step etch-and-rinse adhesives or addition of a flowable resin layer.
 
 ## 1. Document Information

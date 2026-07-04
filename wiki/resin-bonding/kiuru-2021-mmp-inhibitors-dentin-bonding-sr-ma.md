@@ -20,13 +20,21 @@ relations:
     target: breschi-2025-adhesive-dentistry-evolution-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (740→43 studies; MA on 21 chlorhexidine articles) showing chlorhexidine (an MMP inhibitor) has no effect on immediate resin-dentin bond strength but significantly preserves aged bond strength at 6/12/24 months, with the advantage growing over time.
+SR+MA (J Dent Res 2021; 740 records screened → 43 studies included; meta-analysis subset: 21 chlorhexidine articles pooled by aging time) examining the effect of MMP inhibitors on resin-dentin bond strength durability.
 
-## 한줄요약
+Chlorhexidine (0.2–2%) had no significant effect on immediate bond strength (p=0.308), but significantly preserved bond strength at 6 months, 12 months, and 24 months (all p<0.001; I²=0% at 24 months), with the protective advantage growing with longer aging.
 
-체계적 문헌고찰 + 메타분석 (740→43편; CHX 21편 메타분석) — 클로르헥시딘(기질금속단백분해효소 억제제, MMP inhibitor)은 즉시 결합강도에는 영향이 없으나 6·12·24개월 노화 후 레진-상아질 결합강도를 유의하게 보존하며 노화 기간이 길수록 이점이 커진다.
+CHX dentin pretreatment is a validated adjunct to slow hybrid-layer collagen degradation and extend restoration longevity; however, all 21 pooled studies were medium or high risk of bias (zero low-risk studies), limiting certainty.
+
+## 세줄요약
+
+SR+MA (J Dent Res 2021; 740편 → 43편; 클로르헥시딘(CHX) 21편 메타분석) — MMP 억제제가 레진-상아질 결합강도 내구성에 미치는 영향 평가.
+
+CHX(0.2–2%)는 즉시 결합강도에 유의한 영향이 없으나(p=0.308), 6·12·24개월 노화 후 결합강도를 유의하게 보존하며(모두 p<0.001), 24개월에서 I²=0%로 노화 기간이 길수록 이점이 커진다.
+
+CHX 상아질 전처리는 혼성층 콜라겐 분해를 억제해 수복물 수명을 연장하는 근거 있는 보조 술식이나, 포함된 모든 연구가 중등도 이상의 비뚤림 위험으로 근거 수준에 한계가 있다.
 
 ## Summary
 

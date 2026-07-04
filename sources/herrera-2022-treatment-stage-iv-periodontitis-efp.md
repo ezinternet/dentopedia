@@ -9,7 +9,7 @@ pdf_filename: herrera-2022-treatment-stage-iv-periodontitis-efp.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 EFP S3 guideline for stage IV periodontitis: interdisciplinary rehabilitation (orthodontics, splinting, prosthetics) following active periodontal therapy; based on 13 commissioned SRs.
 
 ## 1. Document Information

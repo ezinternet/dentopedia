@@ -17,13 +17,23 @@ text_filename: sierra-rebolledo-2021-undersized-drilling-immediate-tapered-impla
 
 골밀도화 시계방향 osteotomy의 cadaveric 1차 안정성 연구 [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]]는 undersized drilling을 1차 안정성을 높이는 대안 술식으로 함께 논의한다. 이 RCT는 그 대안 술식(undersized drilling)을 즉시식립 상악 전치부에서 직접 검증해, "축경 드릴링이 IT는 올리지만 RFA 안정성은 개선하지 않는다"는 임상 근거를 제공한다 — cadaveric/벤치 모델의 IT↑ 소견을 RCT에서 한정/반박하는 자료.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=30 immediate tapered implants, anterior maxilla; 16 conventional vs 14 undersized drilling): undersized drilling did NOT significantly improve primary stability — IT slightly higher in UD (41.36 vs 38.44 Ncm, p=0.654) but RFA/ISQ consistently higher in conventional group at all timepoints, no significant between-group ISQ difference over 12 weeks.
 
-## 한줄요약
+RCT (n=30 immediate tapered implants, anterior maxilla;
 
-RCT (즉시식립 tapered 임플란트 30개, 상악 전치부; 통상 16 vs 축경 14): 축경(undersized) 드릴링은 1차 안정성을 유의하게 개선하지 못함 — 삽입 토크는 축경군이 약간 높았으나(41.36 vs 38.44 Ncm, p=0.654) RFA/ISQ는 오히려 통상군이 모든 시점에서 더 높았고 12주간 군간 ISQ 차이는 유의하지 않음.
+16 conventional vs 14 undersized drilling): undersized drilling did NOT significantly improve primary stability — IT slightly higher in UD (41.36 vs 38.44 Ncm, p=0.654) but RFA/ISQ consistently higher in conventional group at all timepoints, no significant between-group ISQ difference over 12 weeks.
+
+(incomplete)
+
+## 세줄요약
+
+
+RCT (즉시식립 tapered 임플란트 30개, 상악 전치부;
+
+통상 16 vs 축경 14): 축경(undersized) 드릴링은 1차 안정성을 유의하게 개선하지 못함 — 삽입 토크는 축경군이 약간 높았으나(41.36 vs 38.44 Ncm, p=0.654) RFA/ISQ는 오히려 통상군이 모든 시점에서 더 높았고 12주간 군간 ISQ 차이는 유의하지 않음.
+
+(incomplete)
 
 ## 1. Document Information
 

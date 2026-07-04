@@ -16,11 +16,19 @@ relations:
     target: bruxism-muscle-overload-axis
 ---
 
-## One-line Summary
-SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective); occlusal trauma is linked to tooth sensitivity and TMD; greatest contact forces on non-functional cusps (48%).
+## Three-line Summary
+Systematic review (10 studies, mixed observational/OR/case-control designs) of occlusal analysis methods and occlusal trauma in natural dentition.
 
-## 한줄요약
-SR(10편) - 디지털 교합분석이 교합지(주관적)보다 객관적; 교합외상이 치아 민감·TMD와 연관; 최대 접촉력은 비기능 교두에서(48%).
+Digital occlusal analysis (T-Scan) is more objective than articulating paper (subjective); greatest contact forces occur on non-functional cusps (48%); occlusal trauma is linked to tooth sensitivity and TMD.
+
+Digital occlusal analysis should be preferred over articulating paper alone for accurate force mapping; occlusal trauma assessment should consider non-functional cusp loading and its association with TMD.
+
+## 세줄요약
+자연치열 교합분석 방법과 교합외상을 다룬 체계적 문헌고찰(10편, 관찰/오즈비/증례-대조 혼합 설계).
+
+디지털 교합분석(T-Scan)이 교합지보다 객관적이며, 비기능 교두에 최대 접촉력(48%) 집중; 교합외상은 치아 과민증·턱관절장애(TMD)와 연관됨.
+
+정확한 교합력 분포 파악에는 교합지 단독보다 디지털 교합분석이 권고되며, 교합외상 평가 시 비기능 교두 과부하 및 TMD 연관성을 고려해야 한다.
 
 ## Summary
 자연치열 교합분석 SR. 디지털 교합분석의 객관성이 교합지보다 우수함을 정리하고, 교합외상-치아민감-TMD 연관을 종합.

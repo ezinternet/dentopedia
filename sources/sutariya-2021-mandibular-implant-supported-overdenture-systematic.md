@@ -13,13 +13,23 @@ source_collection: external
 
 하악 임플란트 지지 피개의치(Mandibular Implant-Supported Overdenture, MISO) 어태치먼트 선택에 대한 SR+MA로, 기존 [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]]보다 연구 기간(2010–2020)이 겹치는 독립적 SR+MA. 두 리뷰가 서로 다른 포함 기준과 메타분석 결과를 보고하므로 비교 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 6 RCTs (2010–2020) comparing ball, bar, magnet, locator, and telescopic attachments for mandibular 2-implant overdentures — ball < locator in prosthodontic complications (RR 0.55, p=0.03); bar ≈ telescopic in MBL and probing depth; bar = best retention, telescopic = best patient satisfaction.
 
-## 한줄요약
+SR+MA of 6 RCTs (2010–2020) comparing ball, bar, magnet, locator, and telescopic attachments for mandibular 2-implant overdentures — ball < locator in prosthodontic complications (RR 0.55, p=0.03);
 
-하악 2임플란트 피개의치 어태치먼트 비교 SR+MA (6 RCT): 볼 어태치먼트가 로케이터보다 보철합병증 적음 (RR 0.55, p=0.03); 바≈텔레스코픽 (MBL·탐침깊이 유의차 없음); 최고 유지력=바, 최고 환자만족=텔레스코픽.
+bar ≈ telescopic in MBL and probing depth;
+
+bar = best retention, telescopic = best patient satisfaction.
+
+## 세줄요약
+
+
+하악 2임플란트 피개의치 어태치먼트 비교 SR+MA (6 RCT): 볼 어태치먼트가 로케이터보다 보철합병증 적음 (RR 0.55, p=0.03);
+
+바≈텔레스코픽 (MBL·탐침깊이 유의차 없음);
+
+최고 유지력=바, 최고 환자만족=텔레스코픽.
 
 ## 1. Document Information
 

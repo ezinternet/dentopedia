@@ -14,13 +14,21 @@ pdf_filename: solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt
 tags: [chlorhexidine, surgery, periodontal, implant, mouthwash]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies, search 2018) — CHX rinse after periodontal/implant surgery reduces plaque 29–86% and bleeding up to 73% at 1 week; 0.12% concentration with antidiscoloration additives offers the best benefit-to-side-effect profile.
+Systematic review (11 studies, 691 titles screened; search cutoff June 2018) of CHX rinse after periodontal or implant surgery vs placebo or lower-concentration/non-staining formulations.
 
-## 한줄요약
+CHX reduces plaque 29–86% and bleeding up to 73% at 1 week vs placebo; 0.12% concentration is equivalent in efficacy to 0.2% but with fewer side effects; PPD improvement was not observed beyond what mechanical debridement achieved.
 
-SR (11편, 2018 검색) — 치주·임플란트 수술 후 CHX 가글은 1주 치태 29–86%·출혈 73% 감소; 0.12% + 항착색 첨가 제형이 효능/부작용 비율 최적.
+0.12% CHX with antidiscoloration system (ADS; ascorbic acid, sodium bisulfate) offers the best benefit-to-side-effect profile for the mandatory post-surgical period when normal mechanical hygiene is impossible.
+
+## 세줄요약
+
+치주·임플란트 수술 후 CHX 가글 vs 위약/저농도/비착색 제형을 비교한 SR (11편; 2018년 6월 검색 종료).
+
+수술 후 1주 치태 29–86%·출혈 최대 73% 감소; 0.12% 농도는 0.2%와 동등 효능에 부작용 적음; PPD 추가 개선 효과는 없음.
+
+항착색 시스템(ADS) 첨가 0.12% CHX가 기계적 구강위생 수행이 어려운 술후 기간의 화학적 예방 도구로 효능과 부작용 최적 균형을 제공함.
 
 ## Summary
 

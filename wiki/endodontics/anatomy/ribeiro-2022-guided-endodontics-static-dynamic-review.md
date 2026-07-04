@@ -13,11 +13,21 @@ source_collection: external
 tags: [guided-endodontics, static-navigation, dynamic-navigation, PCO, access-cavity, CBCT]
 ---
 
-## One-line Summary
-Literature review (63 studies, 2011–2021): both static navigation (SN, 3D-printed CBCT-derived templates) and dynamic navigation (DN, real-time tracking) guided endodontics deliver accurate, minimally invasive access for pulp canal obliteration (PCO) and complex anatomy, reducing iatrogenic damage especially for less experienced operators; no RCT or cost-benefit data comparing SN vs DN yet exists.
+## Three-line Summary
 
-## 한줄요약
-문헌고찰 (63편): 정적·동적 컴퓨터 유도 근관치료 모두 석회화 및 복잡 해부 구조에서 정확한 최소침습 접근 제공 — 임상 상황에 따라 각 방법의 적응증이 다름.
+Literature review (63 studies, 2011–2021) comparing static navigation (SN: pre-planned 3D-printed CBCT-derived templates) and dynamic navigation (DN: real-time intraoperative tracking) for guided endodontics in pulp canal obliteration (PCO) and complex anatomy.
+
+Both SN and DN deliver accurate, minimally invasive access, reduce iatrogenic damage, and benefit less experienced operators more than conventional techniques; SN is best for predictable anatomy while DN offers greater flexibility during surgery.
+
+A critical evidence gap remains — no RCTs or cost-benefit studies directly comparing SN vs DN exist, leaving the choice dependent on clinical scenario, operator expertise, and available infrastructure.
+
+## 세줄요약
+
+문헌고찰(63편, 2011–2021): 정적 항법(SN, 3D 인쇄 템플릿)과 동적 항법(DN, 술중 실시간 추적)을 근관 석회화(PCO) 및 복잡 해부에 대한 유도 근관치료로 비교.
+
+두 방법 모두 정확한 최소침습 접근 제공·의원성 손상 감소, 경험 부족 술자에게 더 큰 이득; SN은 예측 가능한 해부에, DN은 수술 중 유연성이 필요한 복잡 상황에 적합.
+
+핵심 근거 공백: SN vs DN 직접 비교 RCT·비용-편익 연구 부재 — 방법 선택은 임상 상황·술자 숙련도·인프라에 따라 결정.
 
 ## Summary
 Literature review of 63 studies comparing 정적 항법 (Static Navigation, SN) and 동적 항법 (Dynamic Navigation, DN) approaches for 유도 근관치료 (guided endodontics). Both techniques provide accurate, minimally invasive access cavities especially for 근관강 석회화 (Pulp Canal Obliteration, PCO) and calcified canals. SN uses 3D-printed templates derived from CBCT; DN uses real-time intraoperative tracking. Guided endodontics reduces iatrogenic damage and preserves tooth structure better than conventional techniques, with greater benefit for less experienced operators. No cost-benefit or time-efficiency studies exist.

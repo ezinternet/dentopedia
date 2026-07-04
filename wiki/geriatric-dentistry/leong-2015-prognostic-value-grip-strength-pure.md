@@ -18,13 +18,21 @@ relations:
     target: zhu-2024-prevalence-unfavourable-outcome-oral-frailty
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Large prospective cohort (PURE, n=139,691, 17 countries, 4.0-year follow-up) demonstrates grip strength is a stronger predictor of all-cause and cardiovascular mortality than systolic blood pressure, with HR 1.16 per 5 kg grip-strength reduction for all-cause mortality.
+Prospective cohort from the PURE study (n=139,691 participants, 17 low/middle/high-income countries, median follow-up 4.0 years; 3,379 deaths) assessing grip strength measured by Jamar dynamometer as a prognostic biomarker.
 
-## 한줄요약
+Per 5 kg grip-strength reduction: all-cause mortality HR 1.16 (95% CI 1.13–1.20), cardiovascular mortality HR 1.17, myocardial infarction HR 1.07, stroke HR 1.09; grip strength was a stronger predictor of both all-cause and cardiovascular mortality than systolic blood pressure.
 
-전향적 코호트 (PURE, n=139,691, 17개국, 추적 4.0년): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (Hazard Ratio, HR) 1.16으로, 수축기혈압 (Systolic Blood Pressure)보다 강한 사망 예측인자임을 확인.
+Grip strength is a simple, universally applicable physical frailty screening measure; consistent across income strata; directly underpins the physical frailty dimension of oral frailty research and provides motivation for chair-side grip strength assessment in geriatric dental settings.
+
+## 세줄요약
+
+PURE 전향적 코호트(n=139,691명, 17개국 저·중·고소득국, 중앙값 4.0년 추적; 사망 3,379명) — Jamar 악력계로 측정한 악력(Grip Strength, GS)의 예후 바이오마커로서의 역할 평가.
+
+악력 5 kg 감소당 전사망 위험비(Hazard Ratio, HR) 1.16(95% CI 1.13–1.20), 심혈관 사망 HR 1.17, 심근경색(Myocardial Infarction, MI) HR 1.07, 뇌졸중(Stroke) HR 1.09; 악력이 수축기혈압보다 강한 전사망·심혈관 사망 예측인자.
+
+악력은 단순하고 소득 수준에 무관하게 적용 가능한 신체노쇠(Physical Frailty) 스크리닝 도구; 구강노쇠(Oral Frailty) 연구의 신체노쇠 차원에 대한 핵심 근거로, 노인 치과 진료 시 악력 평가의 동기 제공.
 
 ## Summary
 

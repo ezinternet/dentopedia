@@ -20,13 +20,21 @@ relations:
 tags: [gingivitis, toothpaste, lysozyme, lactoferrin, lactoperoxidase, plaque-control, gingival-index]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=251, Chinese adults with gingivitis, 26 weeks): a fluoride toothpaste containing enzymes + proteins (lysozyme, lactoferrin, colostrum-IgG, lactoperoxidase + amyloglucosidase/glucose oxidase) significantly reduced Gingival Index (between-product diff −0.53 at 26 wk, p<0.0001) and supragingival plaque (MQHPI diff −0.96, p<0.0001) vs control fluoride toothpaste, raising non-bleeding sites from 35.7% to 93.8% (control 45.3%).
+Industry-sponsored double-blind parallel RCT (n=251 Chinese adults with gingivitis, GI ≥1.0, 26 weeks, twice-daily brushing, no pre-baseline prophylaxis) comparing fluoride toothpaste with enzymes+proteins (lysozyme, lactoferrin, colostrum-IgG, lactoperoxidase system) versus plain fluoride control.
 
-## 한줄요약
+The enzyme-protein toothpaste significantly reduced Gingival Index by 26 weeks (between-product diff −0.53, p<0.0001) and supragingival plaque (MQHPI diff −0.96, p<0.0001); non-bleeding sites rose from 35.7% to 93.8% vs 45.3% in control.
 
-이중맹검 RCT (n=251, 치은염 중국 성인, 26주): 효소-단백(리소짐·락토페린·초유 IgG·락토퍼옥시다제) 함유 불소 치약이 대조 불소 치약 대비 치은지수(GI, 26주 between-product 차 −0.53, p<0.0001)와 치은연상 치태(MQHPI 차 −0.96, p<0.0001)를 유의하게 낮췄고 비출혈 부위를 35.7%→93.8%(대조 45.3%)로 끌어올렸다.
+An enzyme-protein fluoride toothpaste can clinically meaningful reduce gingival inflammation and plaque in a Chinese population with gingivitis, building cross-population evidence for the formulation; however, industry sponsorship, no pre-baseline prophylaxis, and differential dropout are key limitations.
+
+## 세줄요약
+
+업계 후원 이중맹검 평행군 RCT (중국 치은염 성인 n=251, GI ≥1.0, 26주, 1일 2회 칫솔질, 기준선 전 전문 구강 청결 없음): 효소-단백질(리소짐, 락토페린, 초유 IgG, 락토퍼옥시다제 시스템) 함유 불소 치약 vs 일반 불소 치약 대조.
+
+26주 시 치은지수(GI) between-product 차 −0.53 (p<0.0001), 치은연상 치태(MQHPI) 차 −0.96 (p<0.0001); 비출혈 부위 35.7%→93.8% vs 대조 45.3%.
+
+효소-단백 불소 치약이 치은염 중국 성인에서 임상적으로 의미 있는 치은 염증·치태 감소를 보여 제형의 교차 인구 근거를 보강하지만, 업계 후원·기준선 전 전문 처치 없음·불균형 탈락 등 한계가 있다.
 
 ## Summary
 

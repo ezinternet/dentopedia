@@ -13,11 +13,21 @@ source_collection: external
 tags: [history, implant-surfaces, narrative-review, education, surface-treatment]
 ---
 
-## One-line Summary
-Narrative historical-perspective review tracing dental implants across ~4,500 years — from ancient gold ligature wire (Egyptians ~2500 BC) and Mayan shell implants through early modern pioneers (Maggiolo, Greenfield, the Strock brothers' Vitallium screws, Formiggini) to Brånemark's titanium osseointegration and modern surface treatments (machined, acid-etched, SLA, hydroxyapatite, fluoride, statin). No quantitative/comparative data; suitable for teaching context only, not for surface-selection decisions.
+## Three-line Summary
 
-## 한줄요약
-서술적 리뷰 (narrative review) — 치과 임플란트의 ~2500 BC 이집트 금사 결찰부터 Brånemark 티타늄 골유착 (Osseointegration)과 현대 표면처리 (machined, acid-etched, SLA, hydroxyapatite, fluoride, statin)까지 약사. 정량적 근거 없음, 교육·맥락 자료로만 사용 권장.
+Narrative historical-perspective review (single author, Baylor 2014) tracing dental implant history across ~4,500 years from Egyptian gold ligature wire (~2500 BC), Mayan shell implants, and early modern pioneers (Maggiolo, Greenfield, Strock brothers, Formiggini) to Brånemark's osseointegration paradigm.
+
+Modern surface treatments catalogued include machined, sand-blasted, acid-etched, SLA, hydroxyapatite, fluoride, and statin coatings; no comparative data or quantitative outcomes presented.
+
+Suitable only for teaching/orientation context (historical chronology); must not be cited for surface-selection decisions, as it predates nanoscale topography, SLActive, and UV photofunctionalization evidence.
+
+## 세줄요약
+
+서술적 리뷰(단일저자, Baylor 2014): 이집트 금사 결찰(~2500 BC) → 마야 조개껍데기 임플란트 → Strock 형제의 Vitallium 스크류 → Brånemark 골유착 (Osseointegration) 패러다임까지 약 4,500년 치과 임플란트 역사 조망.
+
+현대 표면처리(machined, SLA, HA, fluoride, statin) 카탈로그화; 정량 비교 데이터 없음.
+
+교육·맥락 자료로만 사용 권장; 나노 표면·SLActive·UV 광기능화 (UV Photofunctionalization) 등장 이전 문헌으로 표면 선택 의사결정에 인용 불가.
 
 ## Summary
 Abraham (2014) is a historical-perspective narrative review tracing dental implants across roughly 4,500 years. It begins with ancient civilizations using gold ligature wire (Egyptians, ~2500 BC), gold bands and ox-bone replacements (Etruscans, ~500 BC), shell implants in Mayan mandibles (~600 AD, with bone formation visible on 1970s radiographs), and stone implants in early Honduran culture (~800 AD). It then moves to early modern figures — John Hunter's 1700s tooth-in-rooster-comb experiment, Maggiolo's 1809 gold tube, Greenfield's 1913 iridio-platinum lattice, the Strock brothers' 1930s Vitallium screws, and Formiggini's 1940s spiral design — and finally to Brånemark's titanium osseointegration paradigm.

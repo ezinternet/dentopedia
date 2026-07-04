@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 44 RCTs (search 1995–2023): in periodontitis patients with concurrent systemic conditions (diabetes, CVD, RA, pregnancy, etc.), NSPT vs untreated/SGS/OHI controls gave 0.55 mm lower mean PD at 3 months (95%CI −0.69 to −0.41, low/some-concern bias studies), plus reduced CAL and %BOP and increased %PD≤3 mm.
+SR+MA (44 RCTs, 1995–2023) examining NSPT monotherapy vs untreated/supragingival-scaling/OHI controls in periodontitis patients who also had a concurrent systemic condition (diabetes, CVD, RA, CKD, pregnancy, COPD, etc.).
 
-## 한줄요약
+NSPT gave 0.55 mm lower mean PD at 3 months (95% CI −0.69 to −0.41, low/some-concern-bias studies) plus reduced CAL, %BOP, and increased %PD ≤3 mm vs controls.
 
-RCT 44편 SR+MA(1995–2023 검색): 전신질환(당뇨·심혈관·류마티스·임신 등) 동반 치주염 환자에서 비외과적 치주치료(NSPT)가 무치료/치은연상치석제거/구강위생교육 대조군 대비 3개월째 평균 탐침깊이(PD)를 0.55 mm 더 감소(95%CI −0.69~−0.41)시켰고 CAL·%BOP 감소 및 %PD≤3 mm 증가도 확인 — 전신질환자에서도 NSPT가 효과적임을 입증.
+NSPT is effective for managing periodontitis even in comorbid populations, supporting routine delivery and reimbursement regardless of systemic status.
+
+## 세줄요약
+
+RCT 44편 SR+MA(1995–2023): 전신질환(당뇨·심혈관·류마티스·만성콩팥병·임신·COPD 등) 동반 치주염 환자에서 NSPT 단독요법 대 무치료/치은연상치석제거/구강위생교육 대조군을 비교.
+
+3개월째 평균 탐침깊이(PD) 0.55 mm 추가 감소(95% CI −0.69~−0.41, 낮음/일부우려 비뚤림 연구), CAL·%BOP 감소 및 %PD≤3 mm 증가도 유의.
+
+전신질환 동반 환자에서도 NSPT는 치주염 관리에 효과적이며, 일상적 시행 및 급여 적용을 지지하는 근거로 활용 가능.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: rizzo-lorenzo-2020-influence-information-computerized-anesthesia-
 
 "바늘없는 압력 침윤마취기" 관련 조사 중 The Wand(컴퓨터 제어 정압 침윤마취 시스템) 관련 근거를 찾다가 확인. 이 RCT는 장비 자체의 임상효과가 아니라 "환자에게 장비 작동원리를 설명하는 것"이 불안·통증을 줄이는지를 검증한다는 점에서 [[behavioral-dentistry/dental-anxiety/appukuttan-2016-strategies-manage-dental-anxiety-phobia]]가 제시하는 "정보 제공 → 불안 감소" 전략의 반증 사례로서 가치가 있다.
 
-## One-line Summary
+## Three-line Summary
 
-Single-blinded RCT (n=68, Barcelona) among upper third molar extraction patients found that a detailed verbal explanation of The Wand computerized anesthesia system before injection did NOT significantly reduce dental anxiety (ISAR/MDAS/DFS/STAI-S) or perceived pain (VAS) vs no information; need of intraoperative re-anesthesia (42.6%) was unrelated to anxiety but significantly related to longer operative time (p=0.007).
 
-## 한줄요약
+Single-blinded RCT (n=68, Barcelona) among upper third molar extraction patients found that a detailed verbal explanation of The Wand computerized anesthesia system before injection did NOT significantly reduce dental anxiety (ISAR/MDAS/DFS/STAI-S) or perceived pain (VAS) vs no information;
 
-단일맹검 RCT (n=68, 바르셀로나, 상악 제3대구치 발치): The Wand 컴퓨터 제어 마취 시스템 작동원리에 대한 상세 구두 설명이 불안(ISAR/MDAS/DFS/STAI-S)이나 통증(VAS)을 유의하게 줄이지 못함; 술중 재마취 필요율(42.6%)은 불안도와 무관했으나 수술시간 증가와는 유의한 관련(p=0.007).
+need of intraoperative re-anesthesia (42.6%) was unrelated to anxiety but significantly related to longer operative time (p=0.007).
+
+(incomplete)
+
+## 세줄요약
+
+
+단일맹검 RCT (n=68, 바르셀로나, 상악 제3대구치 발치): The Wand 컴퓨터 제어 마취 시스템 작동원리에 대한 상세 구두 설명이 불안(ISAR/MDAS/DFS/STAI-S)이나 통증(VAS)을 유의하게 줄이지 못함;
+
+술중 재마취 필요율(42.6%)은 불안도와 무관했으나 수술시간 증가와는 유의한 관련(p=0.007).
+
+(incomplete)
 
 ## 1. Document Information
 

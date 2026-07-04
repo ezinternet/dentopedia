@@ -17,13 +17,23 @@ text_filename: kim-2026-probiotics-nspt-periodontal-db-rct.txt
 
 치주비수술치료(Non-Surgical Periodontal Treatment, NSPT) 보조제로서 프로바이오틱스(Probiotics)의 이중맹검 무작위대조시험(Double-Blind Randomized Controlled Trial, DB-RCT). 임상에서 "프로바이오틱스 효과 있나" 질문이 많음; J Clin Periodontol 수준의 고수준 근거로 [[periodontics]] 영역 빈 자리를 채움. 16S rRNA 시퀀싱 + 메타게노믹스 기반의 포괄적 미생물 평가라는 방법론적 강점이 있어 향후 overview synthesis에 핵심 근거가 될 논문.
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=80; 61 completers); Lactobacillus PB01 + Enterococcus EB10 lozenges as adjunct to NSPT over 12 weeks reduced BoP% and PPD ≥5 mm sites significantly vs. placebo, with concurrent reduction in red/orange complex pathogens in subgingival and salivary microbiota.
 
-## 한줄요약
+Double-blind RCT (n=80;
 
-이중맹검 무작위대조시험(n=80; 완료 61명); Lactobacillus PB01 + Enterococcus EB10 로젠지를 비수술치주치료(NSPT) 보조제로 12주간 사용 시 위약 대비 출혈양성률(BoP%)과 치주낭깊이(PPD) ≥5 mm 부위 수가 유의하게 감소하였고, 치주낭 및 타액 내 적색·오렌지색 복합군 병원균이 감소함.
+61 completers);
+
+Lactobacillus PB01 + Enterococcus EB10 lozenges as adjunct to NSPT over 12 weeks reduced BoP% and PPD ≥5 mm sites significantly vs. placebo, with concurrent reduction in red/orange complex pathogens in subgingival and salivary microbiota.
+
+## 세줄요약
+
+
+이중맹검 무작위대조시험(n=80;
+
+완료 61명);
+
+Lactobacillus PB01 + Enterococcus EB10 로젠지를 비수술치주치료(NSPT) 보조제로 12주간 사용 시 위약 대비 출혈양성률(BoP%)과 치주낭깊이(PPD) ≥5 mm 부위 수가 유의하게 감소하였고, 치주낭 및 타액 내 적색·오렌지색 복합군 병원균이 감소함.
 
 ## 1. Document Information
 

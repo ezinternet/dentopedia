@@ -9,7 +9,7 @@ pdf_filename: gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (n=56): alternate ibuprofen 400mg / paracetamol 1000mg every 4h for 48h is superior to concurrent dosing every 8h for post-3rd molar extraction pain; 85% vs 53% required rescue medication (p=0.002).
 
 ## 1. Document Information

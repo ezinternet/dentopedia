@@ -17,13 +17,21 @@ text_filename: corbella-2025-surgical-techniques-vertical-root-fractures-sr.txt
 
 Super-Bond 4-META/MMA-TBB의 대표 적응증인 수직치근파절(VRF) 단편 접착(intraoral 또는 의도적 재식립 후 extraoral)의 최고근거(SR)를 정리하기 위해. 6개 study 중 4개가 4-META/MMA-TBB resin으로 파절선을 접착했고, intentional replantation 프로토콜(Okaguchi)에서 6/6 성공을 보고하는 등 Super-Bond fragment-reattachment의 임상 신호와 동시에 SR 수준의 evidence-quality caveat(전부 case series, low quality, MA 불가)을 함께 보여준다. 4-META adhesive monomer 성분/기전 reference로 [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]]에 연결.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (8 articles / 6 case series, ~64 teeth) of surgical management of confirmed vertical root fractures (VRF): 4 of 6 studies bonded fracture fragments with 4-META/MMA-TBB resin (Super-Bond), with widely heterogeneous survival; evidence is sparse and of low quality (all case series, no meta-analysis possible).
+PROSPERO-registered systematic review (8 articles = 6 case series, ~64 teeth with confirmed VRF, PRISMA 2020) evaluating the efficacy of surgical techniques — primarily 4-META/MMA-TBB resin (Super-Bond) fragment bonding with or without intentional replantation — for preserving vertically root-fractured teeth.
 
-## 한줄요약
+4 of 6 studies used 4-META/MMA-TBB resin bonding; intentional replantation + fragment bonding showed the most favorable signals (Okaguchi: 6/6 successful at mean 50 mo; Sugaya: 9/12 functional); all included studies are case series with high heterogeneity and low quality; meta-analysis was not feasible.
 
-확진된 수직치근파절(VRF) 외과적 관리에 대한 체계적 문헌고찰(논문 8편/연구 6건, case series만): 6개 연구 중 4개가 4-META/MMA-TBB 레진(Super-Bond)으로 파절 단편을 접착했고 생존율이 매우 이질적이며, 전부 case series·low quality라 메타분석 불가·표준 술식 권고 불가.
+Evidence is too sparse and low-quality to recommend any surgical technique as standard; resin-ionomer and silver glass-ionomer repairs failed uniformly and are not supported; complete (through-and-through) VRF is the primary failure mode; accurate diagnosis is essential before attempting repair.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 문헌고찰(논문 8편/연구 6건, 확진 수직치근파절(VRF) ~64개 치아; PRISMA 2020): 주로 4-META/MMA-TBB 레진(Super-Bond) 파절 단편 접착(± 의도적 재식립)으로 수직파절치 보존하는 외과적 술식 효과 평가.
+
+6개 연구 중 4개가 4-META/MMA-TBB 레진 사용; 의도적 재식립+파절 접착에서 가장 긍정적 신호(Okaguchi: 평균 50개월 6/6 성공; Sugaya: 9/12 기능적); 전체 연구가 소규모 case series·높은 이질성·낮은 근거질로 메타분석 불가.
+
+근거가 너무 희소하고 질이 낮아 어떤 외과적 술식도 표준 권고 불가; 레진이오노머·실버 글래스아이오노머 수복은 전례 실패로 지지되지 않음; 완전 파절이 주 실패 양상; 수복 시도 전 정확한 진단 필수.
 
 ## 1. Document Information
 

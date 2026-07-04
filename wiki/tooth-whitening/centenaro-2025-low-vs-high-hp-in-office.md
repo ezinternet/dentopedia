@@ -18,13 +18,21 @@ relations:
     target: de-geus-2025-at-home-vs-in-office-bleaching
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Parallel double-blind RCT (n=140, 3 sessions of 50 min) found 35% HP superior to 6% HP for in-office whitening (ΔE MD=6.3; 90% CI 4.8–7.7) but 6% HP halved tooth sensitivity risk (44% vs 74%, p=0.0005); 6% HP is a valid EU-compliant sensitivity-reducing alternative.
+Parallel double-blind RCT (n=140; 70 per group) comparing 6% vs 35% HP in-office bleaching over 3 sessions × 50 min with equivalence design, motivated by the EU restriction limiting in-office HP to 6%.
 
-## 한줄요약
+35% HP achieved significantly greater whitening than 6% HP (ΔE MD=6.3; 90% CI 4.8–7.7) at all time points (non-equivalence); 6% HP halved tooth sensitivity risk (44% vs 74%, p=0.0005) and reduced intensity at immediate and 24 h post-session, with both groups equal at 48 h.
 
-이중맹검 병렬 RCT(n=140)에서 35% HP는 6% HP보다 유의하게 더 많은 미백 효과(ΔE MD=6.3)를 달성했으나 치아 민감도 발생은 절반 수준(44% vs 74%, p=0.0005)이었다.
+Both concentrations produce clinically significant whitening; the 6%/35% HP trade-off enables an evidence-based patient choice: 6% HP for sensitivity-prone patients or EU-regulated settings, 35% HP when maximum whitening is prioritized.
+
+## 세줄요약
+
+EU 진료실 HP 6% 규제 근거 마련을 위해 6% 대 35% HP 진료실 미백(3회 세션 × 50분)을 동등성 설계로 비교한 이중맹검 병렬 RCT(n=140; 군당 70명).
+
+35% HP가 모든 시점에서 6% HP보다 미백 우수(ΔE MD=6.3; 비동등성); 6% HP는 민감도 발생 위험을 절반으로 줄이고(44% vs 74%, p=0.0005) 즉시·24h 민감도 강도 낮음; 48h에는 두 군 동등.
+
+두 농도 모두 임상적으로 유의한 미백 효과; 민감도 위험 환자나 EU 규제 임상은 6% HP, 최대 미백 목표 환자는 35% HP 선택 근거 제공.
 
 ## Summary
 

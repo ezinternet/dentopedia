@@ -25,11 +25,22 @@ relations:
 > - **임상 프로토콜**: 술전 HbA1c 확인 → 8–9%면 아목시실린(Amoxicillin) 2g 술전 + 클로르헥시딘(Chlorhexidine, CHX) 0.12% 2주 + osseointegration 시간 연장 + 지연부하; 매 리콜 MBL 추적(장기적으로 gap 확대); 주위염 지표(BOP/PD) 집중 관리.
 > - **면책**: 의사결정 지원용 — 최종 임상 판단·책임은 술자에게 있다.
 
-## One-line Summary
-Cross-paper synthesis of when a diabetic patient can receive an immediate implant: DM is not an absolute contraindication, but the go/no-go is gated by **HbA1c band (<8% / 8–9% / ≥9%)** and **site (maxilla carries the significant DM failure signal; mandible does not)** — the two governing SR+MAs agree on short-term/mandibular survival but genuinely conflict on maxillary/long-term risk.
+## Three-line Summary
 
-## 한줄요약
+
+Cross-paper synthesis (4 contributing papers: Wagner 2022 SR, Al-Ansari 2022 SR+MA 89 studies, Andrade 2021 SR+MA, Ragucci 2020 SR+MA) on when a diabetic patient can receive an immediate implant: DM is not an absolute contraindication, but the decision is gated by HbA1c band (<8% proceed / 8–9% enhanced precautions / ≥9% defer) and site (maxilla carries the significant DM failure signal OR 1.777, p<0.001; mandible does not).
+
+The two governing SR+MAs conflict: Andrade 2021 finds no survival penalty for immediately loaded implants even in uncontrolled T2DM (RR 1.08, NS) but covers mostly ≤24-month follow-up; Al-Ansari 2022 (89 studies, 68,290 implants) shows a real DM failure signal localized to the maxilla and a marginal bone loss divergence that widens over time (+0.776 mm, +0.032 mm/month) — weight Al-Ansari for maxillary/long-term decisions.
+
+Immediate placement technique itself achieves ~97–98% molar-socket survival equal to delayed placement provided inter-radicular septum anchorage is achieved (Ragucci 2020), so the risk axes are the host (HbA1c) and site (maxilla vs mandible), not immediacy per se; in the 8–9% gray zone at a maxillary posterior site the safest combination is glycemic optimization → immediate placement + delayed loading + intensified SPT with MBL tracking.
+
+## 세줄요약
+
 당뇨 환자 즉시식립 가부를 여러 논문으로 종합한 페이지: DM은 절대 금기가 아니며, 결정은 **HbA1c 밴드(<8%/8–9%/≥9%)** 와 **부위(상악은 당뇨 실패 유의, 하악은 비유의)** 로 갈린다 — 두 SR+MA는 단기·하악 생존에선 일치하나 상악·장기 위험에선 충돌한다.
+
+(incomplete)
+
+(incomplete)
 
 ## Summary
 

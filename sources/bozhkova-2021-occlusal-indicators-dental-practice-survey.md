@@ -17,13 +17,21 @@ text_filename: bozhkova-2021-occlusal-indicators-dental-practice-survey.txt
 
 심스탁(shim stock foil)을 포함한 교합 지시재(occlusal indicator) 전반의 임상 사용 실태를 조사한 설문연구. 기존 [[occlusion/rovira-lastra-2026-articulating-paper-accuracy-occlusal-points]]가 교합지의 정확도를 정량화했다면, 본 논문은 "현장에서 무엇을 실제로 쓰는가"를 보여준다 — 교합지가 압도적 1위(52%)이고 shim stock은 2.45%로 거의 안 쓰임. shim stock이 접촉 유무만 판정(표면 시각화 불가)한다는 도구 특성과, 정량(T-Scan/OccluSense) 디지털 전환 의향(59%)을 함께 정리해 교합 지시재 선택 맥락을 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 228 Bulgarian dentists: articulating paper is by far the most-used occlusal indicator (52.4%), followed by articulation foil (26.2%) and silk (16.8%); shim stock foil (2.45%), T-Scan (1.4%), and OccluSense (0.7%) are rarely used, while 58.7% expressed willingness to adopt quantitative/digital occlusion methods.
+Cross-sectional questionnaire survey (228 Bulgarian dentists; anonymous online, 2014; response rate 14.87%) assessing real-world usage of occlusal indicators and attitudes toward quantitative digital occlusion methods.
 
-## 한줄요약
+Articulating paper dominated usage (52.4%), followed by articulation foil (26.2%) and silk (16.8%); shim stock foil (2.45%), T-Scan (1.4%), and OccluSense (0.7%) were rarely used; 58.7% expressed willingness to adopt quantitative methods; specialty possession correlated with attitudes (χ²=14.73, p=0.005).
 
-불가리아 치과의사 228명 단면 설문: 교합지가 압도적 1위 교합 지시재(52.4%)이고 교합박(foil 26.2%)·실크(16.8%)가 뒤를 이으며, 심스탁(2.45%)·T-Scan(1.4%)·OccluSense(0.7%)는 거의 안 쓰이고, 58.7%가 정량·디지털 교합 분석 도입 의향을 보였다.
+A low response rate (14.87%), single-country sample, and self-reported rather than observed usage limit generalizability; near-zero uptake of digital/quantitative tools reflects a major implementation gap despite expressed willingness.
+
+## 세줄요약
+
+단면 설문 연구(불가리아 치과의사 228명; 익명 온라인, 2014; 응답률 14.87%): 교합 지시재 실제 사용 실태와 정량 디지털 교합 분석 도입 의향 평가.
+
+교합지(articulating paper) 압도적 1위(52.4%), 교합박(foil 26.2%)·실크(16.8%) 순; 심스탁(2.45%)·T-Scan(1.4%)·OccluSense(0.7%) 거의 미사용; 58.7%가 정량 방법 도입 의향; 전문 자격 보유가 태도와 상관(χ²=14.73, p=0.005).
+
+낮은 응답률(14.87%)·단일국가·자기보고 방식이 일반화를 제한; 디지털/정량 도구의 실제 사용이 거의 없어 의향과 실천 간 큰 격차 존재.
 
 ## 1. Document Information
 

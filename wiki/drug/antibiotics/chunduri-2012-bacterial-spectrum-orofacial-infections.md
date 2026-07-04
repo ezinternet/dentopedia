@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Susceptibility study (n=68 orofacial infections, India, 151 isolates): amoxicillin-clavulanate covers all tested species at 92-100%; erythromycin shows poor coverage of Prevotella (62%) and Fusobacterium (66%) and is of questionable empirical benefit.
+## Three-line Summary
 
-## 한줄요약
-구강안면감염 68명(151균주) 감수성 연구: amox-clav은 모든 균종 92-100% 감수성·clindamycin 양호, Prevotella(62%)·Fusobacterium(66%) 내성인 erythromycin은 효용 의문.
+Descriptive microbiology study of 68 orofacial-infection patients (mean age 32 y, India) using aseptic aspiration to culture 151 isolates aerobically and anaerobically before antibiotic initiation, with Kirby-Bauer disc diffusion susceptibility testing against five agents.
+
+Amoxicillin-clavulanate achieved the highest susceptibility across all organisms (92–100%), clindamycin was 85–100% effective; erythromycin showed poor coverage of Prevotella (62%) and Fusobacterium (66%), undermining its use as a penicillin-allergy substitute; anaerobic Gram-negative bacilli predominated (40% of isolates).
+
+Amoxicillin-clavulanate is the broadest-spectrum empirical agent for orofacial infections; erythromycin should not be used as a first-line penicillin-allergy alternative, and levofloxacin disc susceptibility is misleadingly high because MIC values are elevated.
+
+## 세줄요약
+
+인도 3차 의료기관에서 구강안면감염 68명(평균 32세)의 농양을 무균 천자로 채취하여 항생제 투여 전 151균주를 호기·혐기 배양하고 Kirby-Bauer 디스크 확산법으로 5종 항생제 감수성 평가.
+
+아목시실린-클라불라네이트(Amoxicillin-Clavulanate)는 전 균종 92–100% 감수성으로 가장 넓은 커버리지; 클린다마이신 85–100%; 에리스로마이신은 Prevotella(62%)·Fusobacterium(66%) 감수성 낮아 경험적 사용 부적합; 혐기 그람음성 간균이 전체 40%.
+
+구강안면감염의 1차 경험적 선택은 아목시실린-클라불라네이트이며, 에리스로마이신은 페니실린 알레르기 대체제로 부적절하고 레보플록사신의 디스크 감수성은 MIC와 불일치하므로 주의가 필요하다.
 
 ## Summary
 Single-center descriptive microbiology study of 68 orofacial infection patients at a tertiary oral and maxillofacial surgery department in Hyderabad, India. Pus was collected by aseptic aspiration before antibiotic initiation; organisms were cultured aerobically and anaerobically and susceptibility tested by Kirby-Bauer disc diffusion against five antibiotics. A total of 151 isolates were recovered (64 aerobic, 87 anaerobic; 2.2/patient). Anaerobic Gram-negative bacilli predominated (40% of isolates) over aerobic Gram-positive cocci (34%). Amoxicillin-clavulanate achieved the highest susceptibility rates across all tested organisms (92-100%), followed closely by clindamycin (85-100%). Erythromycin showed insufficient coverage, especially for Prevotella (62%) and Fusobacterium (66%). Levofloxacin disc susceptibility appeared high, but MIC values were elevated, limiting its practical benefit. The submandibular space was most frequently involved (34%).

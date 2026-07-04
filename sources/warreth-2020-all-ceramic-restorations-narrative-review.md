@@ -13,13 +13,23 @@ source_collection: external
 
 치과 세라믹의 분류·물성·제조법 전반을 체계적으로 정리한 기초 참고 문헌으로 인제스트. [[prosthetic-materials/gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct]]와 같은 지르코니아 임상 결과 논문의 재료과학 배경지식을 보완하며, wiki의 dental-materials 카테고리에서 세라믹 분류 기준점 역할을 한다. PubMed 10년 검색(2010–2019) 기반 서술 고찰로, 현재 임상에서 사용되는 세라믹 유형과 제조 방법을 한눈에 정리한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (Saudi Dental Journal 2020, PubMed search 2010–2019) providing a comprehensive classification of dental ceramics by composition (glass-based, glass-infiltrated, polycrystalline) and fabrication method (stacking/sintering, heat-pressing, slip-casting, dry-pressing, CAD/CAM), with clinical selection guidance.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서술적 고찰(Saudi Dental Journal 2020): 치과 세라믹을 조성(유리계·유리침윤형·다결정)과 제조법(적층소결·열가압·슬립캐스팅·건식압축·CAD/CAM)으로 분류하고, 임상적 재료 선택 기준을 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

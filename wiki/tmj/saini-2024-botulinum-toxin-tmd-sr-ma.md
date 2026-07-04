@@ -13,11 +13,19 @@ source_collection: external
 tags: [botulinum-toxin, btx, tmd, meta-analysis, myofascial-pain]
 ---
 
-## One-line Summary
-SR+MA (PLoS ONE, 2024) of botulinum toxin (BTX) for TMD: BTX is significantly superior to placebo for pain reduction across TMD subtypes (most pronounced in myofascial pain), with modest MMO improvement in some disc-displacement subgroups; GRADE certainty low to moderate. Updates and extends Zhu 2020.
+## Three-line Summary
+SR+MA (PLoS ONE 2024, King Khalid University) of BTX (types A and B) vs placebo/active comparator for TMD, searching PubMed/Embase/Cochrane CENTRAL/Scopus/Web of Science; extends the Zhu 2020 evidence base with RCTs published to 2024.
 
-## 한줄요약
-2024년 PLoS ONE SR+MA: 보툴리눔독소(BTX)가 악관절증(TMD) 여러 아형에서 위약 대비 통증을 유의하게 감소시킴; Zhu 2020 결과를 더 큰 증거 기반으로 재확인.
+BTX was significantly superior to placebo for pain reduction (VAS/NRS) across TMD subtypes, with the strongest and most consistent benefit in myofascial pain; modest MMO improvement found in disc-displacement subgroup analyses; quality-of-life outcomes included; GRADE certainty low to moderate; adverse effects transient and mild.
+
+BTX is an evidence-supported option for refractory TMD pain, particularly myofascial subtype; low-to-moderate GRADE certainty limits routine first-line use and aligns with the BMJ 2023 guideline's conditional recommendation for refractory cases.
+
+## 세줄요약
+PLoS ONE 2024 SR+MA (킹칼리드대학교): BTX(A·B형) vs 위약/활성 대조군, PubMed·Embase·Cochrane CENTRAL·Scopus·Web of Science 검색; Zhu 2020 이후 RCT 포함해 근거 기반 확장.
+
+BTX가 TMD 여러 아형에서 위약 대비 통증(VAS/NRS) 유의하게 감소; 효과 가장 일관된 아형은 근막통증형; 디스크변위형 하위분석에서 최대개구량(MMO) 소폭 개선; QoL 결과 포함; GRADE 근거 확실성 낮음~중등; 부작용 경미·일시적.
+
+BTX는 불응성 TMD 통증(특히 근막통증형)에 근거 지지된 치료 선택지; 낮음~중등 GRADE 확실성은 1차 일상 사용보다 불응성 환자에 제한적 사용을 지지하며, BMJ 2023 가이드라인의 조건부 권고와 일치.
 
 ## Summary
 This 2024 systematic review and meta-analysis from King Khalid University, published in PLoS ONE, provides the most current comprehensive synthesis of 보툴리눔독소 (Botulinum Toxin, BTX) effectiveness for 악관절증 (TMD). The study incorporates trials published after Zhu et al. (2020) and confirms BTX is significantly superior to placebo for pain reduction across TMD subtypes, with effect most pronounced in myofascial pain. Modest MMO improvement was found in disc displacement subgroups in some analyses. GRADE certainty was rated low to moderate. The review consolidates BTX as an evidence-supported option for refractory TMD pain.

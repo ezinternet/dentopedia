@@ -16,13 +16,21 @@ relations:
     target: pertek-hatipoglu-2025-radicular-grooves-cshaped-taurodontism-premolars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (17 CBCT studies, 7,047 participants, 12,523 teeth; random-effects) of C-shaped canal prevalence in adult mandibular second premolars: pooled 1.31% participant-level (95% CI 0.68–2.53) and 0.96% tooth-level (95% CI 0.46–2.00), high heterogeneity (I²=90–93%); highest in South America (5.83%), lowest in Australia (0.42%).
+SR+MA (17 CBCT studies, n=7,047 participants / 12,523 teeth, random-effects) estimating C-shaped canal prevalence in adult mandibular second premolars across 5 continents (2012–2024).
 
-## 한줄요약
+Pooled prevalence: 1.31% at participant level (95% CI 0.68–2.53) and 0.96% at tooth level (95% CI 0.46–2.00), with high heterogeneity (I²=90–93%) and confirmed publication bias (Egger's p<0.01).
 
-성인 하악 제2소구치의 C자형 근관(C-shaped canal) 유병률 SR+MA(17개 CBCT 연구, 7,047명, 12,523치아, 랜덤효과): 환자 기준 1.31%(95% CI 0.68–2.53), 치아 기준 0.96%(95% CI 0.46–2.00), 이질성 높음(I²=90–93%), 남미 최고(5.83%)·호주 최저(0.42%).
+South America showed the highest regional prevalence (5.83% tooth-level), while Australia had the lowest (0.42%); a ~1% overall rate means C-shaped anatomy in mandibular second premolars is uncommon but clinically real, warranting CBCT in suspicious cases.
+
+## 세줄요약
+
+SR+MA (17개 CBCT 연구, 7,047명/12,523치아, 랜덤효과): 성인 하악 제2소구치 C-shaped canal 유병률을 5개 대륙에서 분석.
+
+환자 기준 1.31%(95% CI 0.68–2.53), 치아 기준 0.96%(95% CI 0.46–2.00) — 이질성 높음(I²=90–93%), 출판 편향 확인(Egger's p<0.01).
+
+남미 최고(치아 기준 5.83%), 호주 최저(0.42%); 전체 약 1%의 유병률은 드물지만 임상에서 접할 수 있어 의심 증례에서 CBCT 촬영이 권고된다.
 
 ## Summary
 

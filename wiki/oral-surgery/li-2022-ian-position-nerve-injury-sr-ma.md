@@ -18,12 +18,21 @@ superseded_scope: partial
 > [!note] Partially superseded → [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]]
 > 18-study SR+MA (GRADE moderate-high) reports lingual position OR 3.82 (95% CI 1.95–7.39), updating this paper's OR 4.96 (I²=65%, directional only). Thereza-Bussolaro also quantifies 7 additional CBCT features. This page retains value as the foundational CBCT-position reference and as the anchor OR cited in earlier overviews. (set 2026-06-26)
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis (Healthcare 2022; 11 studies) of inferior alveolar canal (IAC) position relative to lower third molars: a lingual IAC position is significantly associated with higher inferior alveolar nerve (IAN) injury risk than a buccal position, supporting CBCT-based pre-surgical nerve-position assessment.
+Systematic review and meta-analysis (Healthcare 2022; 11 studies, PubMed/Cochrane/Web of Science 2009–2021) comparing IAN injury rates by inferior alveolar canal (IAC) position — lingual versus buccal — relative to lower third molar roots.
 
-## 한줄요약
-하치조신경관(IAC) 위치(설측 vs 협측)와 하치조신경(IAN) 손상 연관성 SR+MA (Healthcare 2022): 11편 포함; 설측 위치 → 신경 손상 위험 유의하게 높음; 사전 영상평가로 고위험군 식별 가능.
+Lingual IAC position is significantly associated with higher IAN injury risk than buccal position; meta-analysis confirms this anatomical risk factor as the strongest CBCT-identifiable predictor of nerve damage; buccal position carries comparatively lower but non-zero risk.
+
+This provides quantitative justification for CBCT-guided pre-surgical nerve position assessment in cases with OPG signs of root-canal proximity; it is partially superseded by a larger 18-study SR+MA (Thereza-Bussolaro 2026) which refines the OR estimate.
+
+## 세줄요약
+
+SR+MA(Healthcare 2022; 11편; PubMed·Cochrane·Web of Science 2009–2021): 하악 제3대구치 치근에 대한 하치조신경관(IAC) 위치(설측 vs 협측)별 하치조신경(IAN) 손상률 비교.
+
+설측 IAC 위치가 협측 대비 IAN 손상 위험 유의하게 높음; 메타분석이 이를 CBCT로 식별 가능한 가장 강력한 해부학적 위험 인자로 확인; 협측 위치도 위험이 없지는 않음.
+
+OPG에서 치근-신경관 근접 소견 시 CBCT 기반 신경 위치 평가의 정량적 근거 제공; 18편 대규모 SR+MA(Thereza-Bussolaro 2026)로 OR 추정치 부분 갱신됨.
 
 ## Summary
 Systematic review and meta-analysis comparing IAN injury rates between buccal and lingual positions of the inferior alveolar canal (IAC) relative to lower third molars (LM3). Searched PubMed, Cochrane CENTRAL, Web of Science, Journals@Ovid (2009–2021). 1,063 articles initially searched; full texts of 53 read; 11 studies included. Meta-analysis via Review Manager (Cochrane).

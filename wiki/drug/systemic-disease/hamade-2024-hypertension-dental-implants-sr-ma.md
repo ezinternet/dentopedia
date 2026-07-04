@@ -22,13 +22,21 @@ relations:
     target: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, 21,066 implants) finding that hypertensive patients show no higher dental-implant failure odds than normotensive patients (OR 1.100, 95% CI 0.709-1.707, p=0.671).
+SR+MA (PROSPERO CRD42023487489, PRISMA 2020; 24 studies, 8 prospective/16 retrospective; 21,066 implants: 4,874 hypertensive vs 16,192 normotensive) evaluating dental-implant failure odds in hypertensive vs normotensive patients, random-effects model, all studies rated "good" quality by NIH tool.
 
-## 한줄요약
+Pooled implant failure OR was 1.100 (95% CI 0.709–1.707, p=0.671) — not significant; heterogeneity was high (I²=72.96%); meta-regression showed no follow-up duration effect (p=0.824); funnel plot showed no publication bias.
 
-24편·임플란트 21,066개 SR+MA — 고혈압 환자의 임플란트 실패 위험은 정상혈압 환자와 차이 없음 (OR 1.100, 95% CI 0.709-1.707, p=0.671).
+Despite theoretical mechanisms (RANKL-driven osteoclastogenesis, microvascular rarefaction), hypertension per se does not significantly increase dental-implant failure odds; the main clinical caveat is the poor characterization of hypertension control status across included studies.
+
+## 세줄요약
+
+고혈압 vs 정상혈압 환자의 임플란트 실패 오즈를 무작위효과모형으로 분석한 SR+MA(PROSPERO CRD42023487489, PRISMA 2020; 24편, 8건 전향/16건 후향; 임플란트 21,066개: 고혈압 4,874 vs 정상 16,192, 모두 NIH 도구 "good" 등급).
+
+합산 실패 OR 1.100(95% CI 0.709–1.707, p=0.671) — 유의하지 않음; 이질성 높음(I²=72.96%); 추적기간 메타회귀 p=0.824(효과 없음); 깔때기 도식 비뚤림 없음.
+
+RANKL 매개 파골세포 증가·미세혈관 희소화 등 이론적 기전에도 불구하고 고혈압 자체는 임플란트 실패 위험을 유의하게 높이지 않으며, 주요 한계는 포함 연구들의 혈압 조절 상태 기술 불충분이다.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: lu-2025-socket-shield-conventional-aesthetic-meta.txt
 
 PubMed surveillance(2025–2026 IIP SR/MA) 중 dedup 게이트를 통과한 최신·최대 SST 메타분석. 기존 [[wiki/overviews/socket-shield-technique-overview]]의 thesis(SST가 협측골·PES·ISQ 우월, 생존 동등)가 더 큰 풀(27편/1307임플란트)에서도 유지되는지 검증 → **supersession이 아니라 reinforces**로 판명(결론 동일, 근거강도 동급 sr+ma지만 풀 최대). 또한 shield 높이(crest 상/동일/하)·두께(≤/>1.5mm)·gap 이식 유무와 **무관하게** SST 우월이라는 subgroup 입도를 추가해 [[wiki/immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]]·[[wiki/immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]]를 extends.
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis (27 studies = 22 RCT + 5 NRSI, 1307 implants) finding the socket shield technique (SST) significantly reduces horizontal (MD −0.50 mm) and vertical (MD −0.56 mm) buccal bone loss and improves PES (+1.25) and ISQ (+5.83) vs conventional immediate implant placement (CIIP), with comparable implant success (RR 1.00); SST superiority held across shield height, thickness, and grafting subgroups, but high heterogeneity, short follow-up, and absent standardized protocols temper the evidence.
 
-## 한줄요약
+Meta-analysis (27 studies = 22 RCT + 5 NRSI, 1307 implants) finding the socket shield technique (SST) significantly reduces horizontal (MD −0.50 mm) and vertical (MD −0.56 mm) buccal bone loss and improves PES (+1.25) and ISQ (+5.83) vs conventional immediate implant placement (CIIP), with comparable implant success (RR 1.00);
 
-소켓실드 기법(Socket Shield Technique, SST) vs 전통 즉시식립(CIIP) 메타분석(27편·1307임플란트). SST가 협측 수평 골소실 −0.50 mm·수직 −0.56 mm 감소, 핑크심미점수(PES) +1.25, 임플란트 안정성지수(ISQ) +5.83 우월, 생존율은 동등(RR 1.00). 실드 높이·두께·골이식 무관하게 SST 우월. 현존 최대 풀이나 이질성 높고 장기 데이터 부족.
+SST superiority held across shield height, thickness, and grafting subgroups, but high heterogeneity, short follow-up, and absent standardized protocols temper the evidence.
+
+(incomplete)
+
+## 세줄요약
+
+
+소켓실드 기법(Socket Shield Technique, SST) vs 전통 즉시식립(CIIP) 메타분석(27편·1307임플란트).
+
+SST가 협측 수평 골소실 −0.50 mm·수직 −0.56 mm 감소, 핑크심미점수(PES) +1.25, 임플란트 안정성지수(ISQ) +5.83 우월, 생존율은 동등(RR 1.00).
+
+실드 높이·두께·골이식 무관하게 SST 우월. 현존 최대 풀이나 이질성 높고 장기 데이터 부족.
 
 ## 1. Document Information
 

@@ -16,13 +16,23 @@ text_filename: enislidis-2006-staged-ridge-splitting-implant-mandible.txt
 
 "Alveolar Greenstick Fracture" PMC 전문 감시 인제스트의 핵심 결과물. 치조제를 의도적으로 녹색골절(greenstick fracture)시키는 ridge-split의 가장 canonical한 술식 논문으로, 기존 [[wiki/bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]](단일-단계 ridge split)를 보강·대비한다 — 본 논문은 하악 피질골 두께 때문에 단일-단계에서 통제 불가능한 녹색골절 위치를 **2단계(corticotomy → 40일 치유 → split)로 미리 결정**하는 개념을 제시한다. PMC 전문 부재로 abstract-only(`full_text: false`). [[wiki/implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]]와도 연결.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective technical note (n=5 patients, 6 sites, 17 implants): a two-stage mandibular ridge-split that predetermines the greenstick-fracture line via a prior buccal corticotomy, keeping the buccal segment periosteally pedicled — all segments fractured as planned and all implants were stable and loaded at 6 months.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 2단계 하악 치조제 분할(prospective 기술노트, 환자 5명·17 임플란트): 먼저 협측 corticotomy로 녹색골절 위치를 미리 정해 두고 40일 치유 후 분할 → 협측 분절을 골막 유경피판으로 유지, 전 분절이 계획대로 골절되고 6개월에 전 임플란트가 안정·부하 성공.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

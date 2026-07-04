@@ -13,13 +13,23 @@ source_collection: external
 
 각화점막 폭경(Keratinized Mucosa Width, KMW)이 임플란트 주위염 위험인자인지에 대한 문헌은 수십 년간 상충된 결과를 보여왔다. 이 우산 리뷰는 기존 10개 SR/MA를 집대성하여 KMW ≥2 mm 기준의 임상적 근거를 종합한다는 점에서, 기존 개별 SR 논문인 [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]]에서 제시된 20년 장기 단일기관 관찰 결과를 보강하고 더 넓은 증거 기반으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Umbrella review of 10 SRs/MAs (7,139 participants) finds that keratinized mucosa width ≥2 mm is consistently associated with reduced peri-implant inflammation, plaque accumulation, mucosal recession, and peri-implantitis risk, though evidence on bleeding and long-term survival remains inconclusive.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 10개 SR/MA(7,139명) 우산 리뷰: 각화점막 폭경 ≥2 mm이 임플란트 주위 염증·치태·점막퇴축·주위염 위험 감소와 일관되게 연관되나, 출혈 및 장기 생존율 근거는 아직 불충분하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

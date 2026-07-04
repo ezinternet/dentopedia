@@ -13,11 +13,19 @@ source_collection: external
 tags: [endodontics, intracanal-medicament, calcium-hydroxide, apical-periodontitis, staging, flare-up, antimicrobial-peptide]
 ---
 
-## One-line Summary
-Companion IEJ 2022 narrative review proposing a four-stage AP severity classification to guide intracanal medicament use, with calcium hydroxide as the standard and ~19% severe postoperative pain incidence quantified as a key clinical trigger.
+## Three-line Summary
+IEJ 2022 narrative review (NIH/NCATS funded) proposing a four-stage apical periodontitis (AP) severity classification — analogous to oncological staging — to stratify indications for multi-visit treatment with intracanal medicaments, with key quantitative thresholds from an 800-patient prospective cohort and prospective pain studies.
 
-## 한줄요약
-Narrative review: AP 4단계 병기 분류 제안 — 수산화칼슘이 표준 근관내 약제이며, 술후 심한 통증 19%·만성 통증 10% 수치를 임상 결정의 기준으로 제시.
+Calcium hydroxide (pH ~12.5) remains the cornerstone intracanal medicament for bactericidal activity, LPS inactivation, and healing confirmation, but is less effective against E. faecalis and Candida biofilm; quantified clinical triggers include ~19% incidence of severe postoperative pain at 1 week and ~10% chronic pain at 6 months.
+
+Future directions include RCT validation of the four-stage AP classification, and antimicrobial peptides (AMPs) as next-generation agents offering broad-spectrum, biofilm-penetrating, low-resistance-risk alternatives to calcium hydroxide.
+
+## 세줄요약
+근관내 약제 사용 적응증을 계층화하기 위해 4단계 치근단 치주염(AP) 병기 분류(종양학적 병기 유추)를 제안한 IEJ 2022 내러티브 리뷰 — 800명 전향 코호트와 통증 연구에서 핵심 수치 도출.
+
+수산화칼슘(Ca(OH)₂, pH ~12.5)은 살균·LPS 불활성화·초기 치유 확인 목적의 표준 근관내 약제이나 E. faecalis·Candida 바이오필름에는 효과 제한; 임상 결정 기준: 1주 심한 술후 통증 ~19%, 6개월 만성 통증 ~10%.
+
+향후 방향: 4단계 AP 분류 RCT 검증 및 광범위 항균·바이오필름 침투·내성 저위험 차세대 약제로 항균 펩타이드(AMP) 전환 연구.
 
 ## Summary
 Ordinola-Zapata and colleagues review the clinical rationale for intracanal medicaments, arguing that the binary presence/absence model of apical periodontitis fails to capture disease severity. They propose a four-stage AP classification (analogous to oncological staging) to stratify indications for multi-visit treatment with intracanal medicaments. Calcium hydroxide (pH ~12.5) remains the cornerstone agent, valued for bactericidal activity, LPS inactivation, and confirmation of initial healing. Key prognostic factors from an 800-patient prospective cohort (Ng et al. 2011) are synthesised, and postoperative pain incidence data (19% severe at 1 week; 10% chronic at 6 months) provide quantitative clinical thresholds. Future directions include validated AP staging RCTs and antimicrobial peptide translation.

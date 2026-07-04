@@ -13,13 +13,21 @@ source_collection: external
 tags: [halitosis, ohrqol, quality-of-life, meta-analysis, systematic-review, oral-malodor, patient-reported-outcomes]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 cross-sectional studies (n=2,692) found halitosis significantly associated with impaired OHRQoL (SMD 0.51, 95% CI 0.27–0.75), with the association persisting only in adults, not in children/adolescents.
+SR+MA of 10 cross-sectional studies (n=2,692) examining the association between halitosis and oral-health-related quality of life (OHRQoL) across all ages.
 
-## 한줄요약
+Halitosis was significantly associated with impaired OHRQoL (SMD 0.51, 95% CI 0.27–0.75); subgroup analysis showed this association was significant in adults only, not in children or adolescents.
 
-10개 횡단연구 (n=2,692) SR+MA: 구취 (halitosis)가 있는 성인에서 구강건강관련 삶의 질 (OHRQoL)이 유의하게 저하됨 (SMD 0.51, 95% CI 0.27–0.75); 소아·청소년에서는 유의한 연관 없음.
+The result held regardless of OHRQoL instrument or halitosis measurement method, but cross-sectional design precludes causal inference, and high-risk-of-bias studies overestimated the effect by ~20%.
+
+## 세줄요약
+
+10개 횡단연구(n=2,692) SR+MA; 전 연령대에서 구취(Halitosis)와 구강건강관련삶의질(OHRQoL) 연관성 평가.
+
+구취는 성인에서 OHRQoL을 유의하게 저하시켰으나(SMD 0.51, 95% CI 0.27–0.75), 소아·청소년에서는 유의한 연관 없음.
+
+OHRQoL 측정 도구나 구취 평가 방법에 무관하게 결과 일관; 횡단연구만 포함되어 인과관계 확인 불가, 방법론 질이 낮은 연구는 효과 크기를 과대 추정.
 
 ## Summary
 

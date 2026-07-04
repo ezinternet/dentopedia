@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 in-vitro studies, PRISMA) finding that CAD/CAM composite resin and lithium disilicate ceramic occlusal veneers have comparable fracture resistance (both exceeding maximum bite force), while two of three fatigue studies show higher survival for composite resin.
+PRISMA systematic review (INPLASY 2021.10.0036; 9 databases, 400 studies identified, 6 in vitro studies included — 3 fracture, 3 fatigue) comparing CAD/CAM composite resin versus CAD/CAM lithium disilicate ceramic occlusal veneers for severely worn posterior teeth.
 
-## 한줄요약
+Both material classes exceeded maximum non-parafunctional bite force (424–630 N) in fracture testing (composite 1,018–3,584 N; LDS comparable), with no significant difference after thermomechanical cycling at 0.5 mm; 2 of 3 fatigue studies found composite resin had significantly higher survival than lithium disilicate.
 
-체계적 문헌고찰 (in vitro 6편): CAD/CAM 교합면 비니어에서 레진 복합체와 리튬 디실리케이트 세라믹의 파절저항성(Fracture Resistance)은 동등(최대 교합력 424–630 N 초과)하며, 피로저항성(Fatigue Resistance)은 2편에서 레진이 더 우수함.
+All 6 studies carried high or medium risk of bias, meta-analysis was not possible, and evidence does not differentiate between specific CAD/CAM composite brands — minimum thickness recommendations are composite <1 mm and lithium disilicate 0.7–1.5 mm.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (INPLASY 2021.10.0036; 9개 DB·400편 식별·6편 인비트로 포함 — 파절 3, 피로 3): 중증 마모 구치 대상 CAD/CAM 레진 복합재 vs LDS 세라믹 교합면 비니어의 기계적 성능 비교.
+
+비교합면 최대 교합력(424–630 N) 대비 파절 하중: 레진 1,018–3,584 N·LDS 동등; 열기계 하중 후 0.5 mm 두께에서 양 재료 유의차 없음; 피로저항성(Fatigue Resistance)은 3편 중 2편에서 레진이 LDS보다 유의하게 높음.
+
+6편 전체 고·중등 비뚤림 위험으로 메타분석 불가; 권장 최소 두께 레진 <1 mm·LDS 0.7–1.5 mm; 특정 CAD/CAM 레진 브랜드 간 구별 불가.
 
 ## Summary
 

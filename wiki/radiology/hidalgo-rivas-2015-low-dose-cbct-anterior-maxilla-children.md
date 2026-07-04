@@ -16,13 +16,21 @@ relations:
     target: oenning-2019-halve-dose-paediatric-cone-beam-ct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Phantom dosimetry + clinician IQ scoring: a paediatric anterior-maxilla CBCT low-dose protocol (DAP ≥127 mGy·cm², CNR ≥4.8) gives ~50% dose cut vs manufacturer.
+Image-quality phantom study combined with paediatric skull phantom scoring by 8 clinicians (9 image-quality aspects, 5-point scale) for impacted maxillary canine assessment, defining objective (PTFE contrast-to-noise ratio) and subjective thresholds for acceptable paediatric anterior-maxilla CBCT.
 
-## 한줄요약
+A minimum acceptable protocol was defined as DAP ≥127 mGy·cm² with PTFE CNR ≥4.8, yielding up to ~50% dose reduction versus the manufacturer's recommended protocol while maintaining diagnostic quality for impacted canine assessment.
 
-팬텀 선량+임상의 화질평가: 소아 전치부 CBCT 저선량 프로토콜(DAP ≥127 mGy·cm², CNR ≥4.8)로 제조사 권장 대비 ~50% 선량 절감.
+This was described as the first study addressing dose optimization specifically for paediatric clinical dental CBCT protocols; the resulting low-dose threshold provides a practical benchmark for other centers adopting similar ALARA-driven protocol development.
+
+## 세줄요약
+
+매복 상악 견치 평가를 위한 소아 전치부 CBCT에서 임상의 8인의 화질 평점(화질 9항목, 5점 척도)과 팬텀 PTFE 대조잡음비(Contrast-to-Noise Ratio, CNR) 객관 측정을 결합해 수용 가능한 최소 프로토콜을 도출한 연구.
+
+수용 가능 최소 기준: DAP ≥127 mGy·cm² × PTFE CNR ≥4.8 — 제조사 권장 프로토콜 대비 ~50% 선량 절감하면서 매복 견치 평가 진단 화질 유지.
+
+소아 임상 치과 CBCT의 선량 최적화를 처음 다룬 연구로 보고됨; 도출된 저선량 임계값은 ALARA 기반 프로토콜 개발 시 실용적 기준점 제공.
 
 ## Summary
 

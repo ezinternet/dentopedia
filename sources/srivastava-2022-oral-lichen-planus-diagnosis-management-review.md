@@ -9,7 +9,7 @@ pdf_filename: srivastava-2022-oral-lichen-planus-diagnosis-management-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 OLP 진단 기준, 임상 유형 분류, 병리기전, 치료 옵션 전반을 다루는 실용적 임상 고찰.
 
 ## 1. Document Information

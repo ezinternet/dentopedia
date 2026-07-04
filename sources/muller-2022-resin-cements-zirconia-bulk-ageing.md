@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Zirconia-bonding technique + material comparison for resin cements; supports [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] and [[resin/theracem-bisco-product-reference]].
 
-## One-line Summary
-In-vitro: resin-cement-to-zirconia adhesion under incremental vs bulk build-up, mould, and ageing; TheraCem among strongest.
+## Three-line Summary
 
-## 한줄요약
+In-vitro: resin-cement-to-zirconia adhesion under incremental vs bulk build-up, mould, and ageing;
+
+TheraCem among strongest.
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro — 지르코니아 합착 적층기법·mould·노화 영향, TheraCem 상위.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Materials 2022; 15: 2186. DOI 10.3390/ma15062186. Open access. University of Zurich (Özcan group).

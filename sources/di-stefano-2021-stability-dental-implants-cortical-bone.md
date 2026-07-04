@@ -9,8 +9,21 @@ pdf_filename: di-stefano-2021-stability-dental-implants-cortical-bone.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review of 13 studies finding that cortical bone thickness generally correlates positively with implant primary stability (ISQ, IT), though evidence is preliminary and MBL correlations are inconsistent.
+## Three-line Summary
+
+Systematic review (PRISMA) of 13 clinical and cadaver studies (8 prospective, 4 retrospective, 1 cadaver) examining the relationship between cortical bone thickness/density and implant primary stability (ISQ, IT, PTV) and marginal bone loss (MBL).
+
+Cortical bone thickness generally correlated positively with primary stability — strongest correlations were r = 0.84 (ISQ, Miyamoto 2005) and r = 0.935 (IT, Salimov 2014); bicortical anchorage produced the highest IT and ISQ values — though weak or non-significant correlations were also reported and MBL data remained inconclusive.
+
+Cortical bone thickness is a stronger predictor of primary stability than trabecular density in most studies, but evidence is preliminary due to small sample sizes, heterogeneous measurement methods, and inconsistent ISQ threshold definitions.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 — 피질골 두께/밀도와 임플란트 일차안정성(ISQ·IT·PTV) 및 변연골 소실(MBL)의 관계를 평가한 13편(전향적 8, 후향적 4, 사체 1) 포함.
+
+피질골 두께는 대부분의 연구에서 일차안정성과 양의 상관관계를 보였으며(최대 r=0.84 ISQ, r=0.935 IT), 이피질 고정(bicortical anchorage)이 가장 높은 IT·ISQ를 나타냈다; 그러나 일부 연구에서는 약한 상관 또는 유의하지 않은 결과가 보고되었고 MBL과의 관계는 불일치.
+
+피질골 두께는 해면골 밀도보다 일차안정성 예측력이 높은 것으로 보이나, 소규모 표본·측정 방법 이질성·ISQ 기준치 불일치로 인해 근거 수준이 아직 예비적이다.
 
 ## 1. Document Information
 - **Journal**: Materials 2021, 14, 7183 (MDPI)

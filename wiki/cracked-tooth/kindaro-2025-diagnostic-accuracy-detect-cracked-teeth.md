@@ -18,13 +18,21 @@ text_filename: kindaro-2025-diagnostic-accuracy-detect-cracked-teeth.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Ex vivo diagnostic-accuracy study (n=30 extracted teeth, micro-CT gold standard, STARD/QUADAS-2, 4 examiners) comparing macrophotography, surgical microscope (5.1/12.5/21.25x), fiber-optic transillumination, and DIAGNOcam: transillumination was most accurate (65.3%) and most sensitive (68.8%) but had poor specificity (53.6%, many false positives), whereas high-magnification microscope and macrophotography gave the highest specificity (92.9%) and PPV (96.7%/96.4%); no single visual tool can definitively diagnose or locate cracks.
+Ex vivo STARD/QUADAS-2 diagnostic-accuracy study (n=30 crack-suspected extracted teeth, micro-CT gold standard, 4 examiners of varying experience) comparing macrophotography, surgical microscope at three magnifications, fiber-optic transillumination, and DIAGNOcam.
 
-## 한줄요약
+Fiber-optic transillumination achieved the highest accuracy (65.3%) and sensitivity (68.8%) but poor specificity (53.6%), while high-magnification microscopy (21.25×) and macrophotography had the highest specificity (92.9%) and PPV (96.7%/96.4%); crack location accuracy was poor across all tools (~43–55%); clinical experience improved mean accuracy (64.6% vs 56.8%, p=0.011).
 
-치아 균열 진단 도구 4종(매크로촬영, 수술용 현미경 5.1/12.5/21.25배, 광섬유 투조, DIAGNOcam)을 마이크로CT 기준표준에 대해 비교한 생체외 진단정확도 연구(발치 치아 30개, 검사자 4명, STARD/QUADAS-2). 투조가 정확도 65.3%·민감도 68.8%로 가장 높았으나 특이도 53.6%로 위양성이 많았고, 고배율 현미경·매크로촬영은 특이도 92.9%·PPV 96.7%/96.4%로 가장 높았다. 단일 시각 도구로는 균열을 확실히 진단하거나 위치를 파악할 수 없다.
+No single visual tool reliably diagnoses or localizes cracks — combine high-sensitivity (transillumination/DIAGNOcam) to rule in with high-specificity (high-mag microscopy/macrophotography) to confirm; transillumination risks overtreatment (~47% false-positive rate in crack-free teeth).
+
+## 세줄요약
+
+STARD/QUADAS-2 생체외 진단정확도 연구 (균열 의심 발치 치아 30개, 마이크로CT 기준표준, 검사자 4명): 매크로촬영·수술용 현미경 3배율·광섬유 투조·DIAGNOcam 비교.
+
+투조가 정확도 최고(65.3%)·민감도 최고(68.8%)이나 특이도 저하(53.6%); 고배율 현미경(21.25×)·매크로촬영은 특이도·PPV 가장 높음(92.9%/96.7%); 모든 도구에서 균열 위치 파악 불량(43–55%); 경험이 정확도 개선(64.6% vs 56.8%, p=0.011).
+
+단일 시각 도구로 균열 진단·위치 파악 불가 — 고민감도 도구(투조/DIAGNOcam)로 발견 후 고특이도 도구(고배율 현미경/매크로촬영)로 확진하는 복합 전략 필요; 투조 단독 사용 시 위양성 과잉치료 주의.
 
 ## Summary
 

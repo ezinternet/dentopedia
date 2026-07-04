@@ -18,11 +18,23 @@ superseded_scope: full
 > [!warning] Superseded (full) → [[marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]]
 > This earlier qualitative SR (no pooled effect sizes) is superseded quantitatively by later OD meta-analyses. Pointer updated from the now-superseded [[inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] to the chain tail — Marzorati 2026 (SR+MA, torque/ISQ). Prefer the meta-analytic estimates there. (set 2026-05-31; chain-tail update 2026-06-24)
 
-## One-line Summary
-Systematic review (SR, qualitative; 12 studies — 8 animal histologic, 2 human clinical) of osseodensification (OD): OD trends toward higher insertion torque, bone-to-implant contact (BIC), and bone area fraction occupancy (BAFO) vs conventional drilling, but the animal-dominated evidence base precludes conclusions on long-term clinical success (no pooled effect sizes).
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 (Systematic Review, SR), n=12편 (2010~2018.11) — 골밀도화 (Osseodensification, OD)는 통상적 드릴링 대비 삽입 토크, 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골면적분율 (Bone Area Fraction Occupancy, BAFO) 모두 평균적으로 증가시킴. 다만 12편 중 8편이 동물 조직학 연구, 인간 임상은 2편뿐이라 장기 임상 결과로의 외삽은 어렵다.
+Systematic review (qualitative, 12 studies — 8 animal histologic, 2 human clinical, 1 case series, 1 case report; PubMed/Embase/Google Scholar 2010–Nov 2018) of osseodensification (OD) using the Densah bur technique introduced in 2015.
+
+OD consistently trended toward higher insertion torque, bone-to-implant contact (BIC), and bone area fraction occupancy (BAFO) vs conventional drilling across all included studies, with 6/8 animal studies rated high quality on ARRIVE.
+
+No meta-analytic pooling was possible due to design heterogeneity; long-term clinical success "cannot be ascertained" from this evidence base — this paper serves as a 2018 landscape map only.
+
+## 세줄요약
+
+체계적 문헌고찰(Systematic Review, SR, 정성적; 12편 — 동물 조직학 8·인간 임상 2·증례시리즈 1·증례보고 1; 2010–2018.11)로 골밀도화(Osseodensification, OD, Densah bur) 첫 전용 SR.
+
+OD는 통상 드릴링 대비 삽입 토크(Insertion Torque, IT), 골-임플란트 접촉률(Bone-to-Implant Contact, BIC), 골면적분율(Bone Area Fraction Occupancy, BAFO) 모두에서 증가 경향 — 동물연구 6/8편 ARRIVE 고질적 평가.
+
+메타분석 미시행(설계 이질성) → 효과 크기·장기 임상 결과 외삽 불가; 2018년 시점 OD 근거 지형도로만 활용.
+
+
 
 ## Summary
 Padhye et al. published one of the first systematic reviews focused exclusively on osseodensification (OD), the Densah-bur technique introduced by Huwais in 2015. They searched PubMed-Medline, Embase, and Google Scholar (2010 through Nov 2018) with no language restriction. From 132 hits they included 12 articles: 8 animal histologic studies, 2 human clinical studies, 1 case series, and 1 case report.

@@ -28,13 +28,21 @@ tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, growth-factor, bmp2, colla
 > - 가장 임상적으로 강한 음성 신호: 동시 교정이동(OTM) 부위에 DBBM/DBB 단독 금기 — 비흡수성 입자가 치근흡수를 공백 대조군의 1.87배로 유발(Jiang 2020); BMP2 기능화 CaP(BioCaP)가 대안.
 > - 임상 결정: 상악동거상술 routine 1차는 DBBM(장기 임플란트 생존 데이터 우위), L-PRF 추가는 비용 대비 합리적, BCP는 신생골 속도가 우선일 때. BCP는 단일 재료가 아니라 이질성 높음(I²=86%) 주의.
 
-## One-line Summary
+## Three-line Summary
 
-Across 10 papers spanning animal models, prospective series, RCTs, and SR+MAs, DBBM emerges as an indispensable osteoconductive scaffold with a well-documented slow-resorption trade-off: BCP hybrids and PRF adjuncts consistently rescue the new bone formation gap, collagen modifications and BMP2 functionalization extend the engineering frontier, and a partially demineralized allograft plug matches DBBM on dimensional stability and vital bone while turning over faster (lower residual graft).
+Synthesis of 10 papers (animal models, prospective series, RCTs, SR+MAs) on DBBM and bone substitute adjuncts: DBBM's slow resorption preserves volume but can paradoxically suppress early new bone formation (DBBM alone < empty control at 4 weeks, p=0.025, Fujioka-Kobayashi 2022); BCP (60% HA/40% β-TCP) consistently outperforms DBBM on new bone in rabbit models (+70%, Chakar 2014) and in clinical sinus SR+MA (+3.48% new bone, −8.41% residual graft, Alkandari 2025).
 
-## 한줄요약
+The highest-evidence adjunct is L-PRF: adding L-PRF to DBBM in sinus augmentation yields +7.07% new bone and −7.93% residual graft with I²=0% for residual graft — zero heterogeneity signaling a mechanistically consistent effect (Almutairi 2025 SR+MA, 5 RCTs); A-PRF shows a larger single-RCT effect (+11.6 percentage points new bone, Motimath 2026) but no direct L-PRF vs A-PRF comparison exists; DBBM is contraindicated as a solo graft in sites undergoing simultaneous orthodontic tooth movement (root resorption 1.87× control, Jiang 2020).
 
-10편(동물·전향·RCT·SR+MA) 종합: DBBM은 탁월한 골전도 공간 유지 재료이나 흡수가 느려 단독 사용 시 신생골 형성 열등; BCP 혼합·PRF 보조가 이 간극을 일관되게 메우고, 콜라겐 변형과 BMP2 기능화가 차세대 가능성을 제시하며, 부분탈회 동종골 plug는 DBBM과 동등한 차원 안정성·생활골에 더 빠른 graft turnover를 보인다.
+Clinical bottom line: routine sinus augmentation should use DBBM as first line (best long-term implant survival data), with L-PRF addition as a reasonable low-cost adjunct; BCP is preferred when faster new bone formation matters (implant stability concern); collagen-modified DBBM and BMP2-functionalized CaP represent next-generation options for specific scenarios; a partially demineralized allograft plug matches DBBM on dimensional stability and vital bone but turns over faster (lower residual graft, Rao 2026).
+
+## 세줄요약
+
+10편(동물·전향·RCT·SR+MA) 종합: DBBM의 느린 흡수는 부피를 보존하지만 초기 신생골 형성을 역설적으로 억제할 수 있음(DBBM 단독 < 무이식 대조군 4주, p=0.025, Fujioka-Kobayashi 2022); BCP는 토끼 모델서 신생골 +70%(Chakar 2014), 임상 상악동 SR+MA서 +3.48% 신생골·−8.41% 잔존(Alkandari 2025)으로 일관되게 DBBM 초과.
+
+최고 근거 보조제는 L-PRF: 상악동 SR+MA(5 RCT) 결과 +7.07% 신생골·−7.93% 잔존, 잔존 I²=0%로 기전적 일관성 확인(Almutairi 2025); A-PRF는 단일 RCT 더 큰 효과(+11.6%p, Motimath 2026); 동시 교정이동 부위에 DBBM 단독 금기(치근흡수 1.87배, Jiang 2020).
+
+임상 결론: 상악동거상 루틴 1차는 DBBM(장기 임플란트 생존 데이터 우위), L-PRF 추가는 비용 대비 합리적, BCP는 신생골 속도 우선 시; 부분탈회 동종골 plug는 DBBM과 차원 안정성·생활골 동등 + 더 빠른 graft turnover(Rao 2026).
 
 ## Summary
 

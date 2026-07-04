@@ -9,7 +9,7 @@ pdf_filename: farina-2023-minimal-invasiveness-transcrestal-sinus-elevation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review (19 articles, 15 studies) on what makes transcrestal sinus floor elevation (tSFE) less invasive: powered instruments with stop devices, screwable osteotomes, standardized drill sequences with trephine cores, and immediate implant placement at molar extraction sites with ≥4 mm interradicular septum all reduce invasiveness while preserving clinical effectiveness.
 
 ## 1. Document Information

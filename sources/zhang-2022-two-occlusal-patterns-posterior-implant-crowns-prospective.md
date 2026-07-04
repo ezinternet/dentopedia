@@ -13,11 +13,21 @@ source_collection: external
 
 신설 occlusion. [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]](SR+MA)의 1차 임상 근거; 임플란트 교합양식 설계·정기 점검 뒷받침.
 
-## One-line Summary
-12-month prospective study (n=50, T-Scan III) of implant-protected occlusion: light vs normal occlusion on single posterior implant crowns. Light occlusion kept relative occlusal force lower (4.91→10.34% vs 10.45→18.15%) but the reduction was not stable over time; no overload complications; force rises over time so long-term follow-up is needed.
+## Three-line Summary
 
-## 한줄요약
-단일 구치 임플란트 단관에서 약교합(light) vs 정상교합을 12개월 전향 비교(n=50, T-Scan III). 약교합이 상대 교합력을 낮게 유지(4.91→10.34% vs 10.45→18.15%)했으나 시간이 지나며 유지 안 됨; 과부하 합병증 없음; 교합력이 증가하므로 장기 추적 필요.
+12-month prospective study (n=50, T-Scan III) of implant-protected occlusion: light vs normal occlusion on single posterior implant crowns.
+
+Light occlusion kept relative occlusal force lower (4.91→10.34% vs 10.45→18.15%) but the reduction was not stable over time;
+
+no overload complications; force rises over time so long-term follow-up is needed.
+
+## 세줄요약
+
+단일 구치 임플란트 단관에서 약교합(light) vs 정상교합을 12개월 전향 비교(n=50, T-Scan III).
+
+약교합이 상대 교합력을 낮게 유지(4.91→10.34% vs 10.45→18.15%)했으나 시간이 지나며 유지 안 됨;
+
+과부하 합병증 없음; 교합력이 증가하므로 장기 추적 필요.
 
 ## 1. Document Information
 J Prosthet Dent 2022 · Ru Zhang, Xiaoyu Hao, Kaiyu Zhang · 2022 · DOI: 10.1016/j.prosdent.2022.11.026. Study type: prospective.

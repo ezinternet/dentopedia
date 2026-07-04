@@ -14,11 +14,21 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, incobotulinumtoxin-a, xeomin, lip-repositioning-surgery, combined-approach, hypermobility, longitudinal]
 ---
 
-## One-line Summary
-Experimental single-arm series (n=10 female): pre-surgical incobotulinumtoxinA → lip repositioning surgery → repeat BTX-A at 2/4/8 months reduced gingival display from 5.12 to 0 mm (sustained 14 days–8 months) with only 0.78 mm relapse at 12 months (p<0.0001) — a combined protocol claimed more durable than BTX-A alone or surgery alone.
+## Three-line Summary
 
-## 한줄요약
-Experimental n=10 female: IncoBotulinumTox A 사전 주입 → 입술 재배치 수술 → 2/4/8개월 반복 BTX-A; 잇몸노출 5.12 → 0 mm (14일~8개월 유지), 12개월 0.78 mm minimal relapse — BTX-A 단독·수술 단독보다 안정적이라 주장한 1년 follow-up 단일군 연구.
+Experimental single-arm prospective series (n=10 White female, age 25–37, upper lip hypermobility, vertical maxillary excess excluded) testing a 5-stage combined protocol: incobotulinumtoxinA (Xeomin) injection → lip repositioning surgery at 2 weeks → repeat BTX-A maintenance at 2, 4, and 8 months; dose individualized at 1 U per mm gingival display at the Yonsei point.
+
+Gingival display was eliminated (5.12 → 0 mm) and sustained from 14 days through 8 months with only 0.78 mm relapse at 12 months (p<0.0001); interlabial distance decreased from 17.99 to 6.84 mm at 14 days and gradually returned to 12.21 mm at 12 months.
+
+The combined protocol is proposed to be more durable than BTX-A alone (expected full reversal by 6 months) or surgery alone (high relapse rate), through mechanical stabilization of reduced vestibular depth during muscle relaxation, though the small all-female sample limits generalizability.
+
+## 세줄요약
+
+줄1: 단일군 전향적 실험 계열 연구(여성 10명, 25~37세, 상순 과가동성) — IncoBotulinumTox A(Xeomin) 1 U/mm 주사 → 2주 후 입술 재배치 수술 → 2·4·8개월 반복 유지 주사(5단계 복합 프로토콜).
+
+줄2: 잇몸 노출 5.12 → 0 mm(14일~8개월 완전 제거), 12개월 0.78 mm만 재발(p<0.0001); 구순간 거리 17.99 → 6.84 mm(14일) → 12.21 mm(12개월).
+
+줄3: 근육 이완 기간 중 섬유화 성숙을 통한 기계적 안정화로 BTX-A 단독·수술 단독보다 지속성 높다고 주장하나, 소규모 여성 단일군으로 일반화 제한.
 
 ## Summary
 Experimental single-arm study (n=10 female, age 25-37) of a 5-stage combined protocol: Stage 1 — IncoBotulinumTox A (Xeomin) injection; Stage 2 — lip repositioning surgery 2 weeks later; Stages 3-5 — repeat Xeomin at 2, 4, 8 months. Dose individualized to gingival display (1 U per mm at Yonsei point). Result: gingival display 5.12 → 0 mm sustained from 14 days through 8 months, only 0.78 mm relapse at 12 months; interlabial distance 17.99 → 6.84 mm at 14 days, gradually 12.21 mm at 12 months. No serious complications. Authors propose this combined approach produces longer-lasting outcomes than either BTX-A alone or surgery alone.

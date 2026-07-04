@@ -14,11 +14,19 @@ source_collection: external
 tags: [TMD, TMJ, masticatory-muscle-disorder, myofascial-pain, trigger-point, disc-displacement, arthrocentesis, stabilizing-splint, trigger-point-injection, KDA-journal, narrative-review]
 ---
 
-## One-line Summary
-Single-author narrative clinical review (Korean Dental Association Journal, 2012) on TMD diagnosis and treatment: a seven-step bedside exam differentiating masticatory muscle vs intracapsular joint disorders (end-feel, opening-pathway deviation/deflection, loading test, diagnostic anesthesia) and a reversible-first treatment ladder (NSAIDs/physiotherapy/stabilization splint → arthrocentesis/lavage → arthroscopy → open surgery).
+## Three-line Summary
+Single-author narrative clinical review (Korean Dental Association Journal, 2012) for general dentists managing TMD with a seven-step bedside exam differentiating masticatory muscle from intracapsular joint disorders via end-feel, opening-pathway, loading test, and diagnostic anesthesia.
 
-## 한줄요약
-KDA Journal 임상가 특집 (Dong-A 의대 OMFS): 측두하악장애 (TMD) 진단·치료 narrative review — "정상기능 + 자극 > 생리적 내성 → TMD" 공식, 근육·관절장애 감별(end-feel·개구경로 deflection/deviation·하중검사·진단마취), 치료는 가역적 술식 우선(NSAID·물리치료·교합안정장치 → 관절천자세정술 → 관절경 → 개방수술).
+No primary outcomes; the clinical guide frames TMD etiology as "normal function + stimuli > physiological tolerance" and provides a reversible-first treatment ladder progressing from NSAIDs/physiotherapy/stabilization splint to arthrocentesis/lavage, arthroscopy, and open surgery.
+
+Most durable value is the bedside differential protocol (end-feel, deviation vs deflection, bilateral loading test) and trigger-point injection technique; specific treatment recommendations should be cross-checked against post-2014 evidence including DC/TMD and the Singh 2024 Cochrane review.
+
+## 세줄요약
+KDA 임상가 특집 (2012): 교합안정장치 등 가역적 보존치료를 우선하고 개방수술은 최후 수단으로 두는 TMD 진단·치료 narrative review; 대상은 전문 장비 없이 외래에서 TMD를 다루는 일반 치과의사.
+
+1차 성과 지표 없는 임상 가이드; 7단계 침상 감별법(end-feel·개구경로 편향·관절 하중검사·진단마취)과 트리거포인트 주사기법(2% 리도카인 무혈관수축제, 부채꼴 니들링)을 상세 제공.
+
+침상 감별 프로토콜은 현재도 유용하나, 구체적 치료 권고는 2014년 이후 근거(DC/TMD, Singh 2024 Cochrane SR)로 교차 검증 필요.
 
 ## Summary
 

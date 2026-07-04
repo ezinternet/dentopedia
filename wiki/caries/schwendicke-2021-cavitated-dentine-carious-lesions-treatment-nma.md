@@ -20,13 +20,21 @@ relations:
     target: urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR + network meta-analysis (27 RCTs, 3350 participants, 4195 teeth, search to 2020): across carious-tissue-removal strategies, conventional complete removal (CR) carried the highest probability of failure for deep lesions vs selective (SE), stepwise (SW), and Hall technique (HT); in primary teeth HT outperformed CR (CR-vs-HT failure OR 8.35) and NRCC, while SE ranked best for permanent deep lesions — most certainty low/very-low.
+Cochrane SR+NMA (27 RCTs, 3350 participants, 4195 teeth, 11 countries, search to 2020) comparing six carious-tissue-removal strategies — conventional complete removal (CR), selective excavation (SE), stepwise (SW), sealant, Hall technique (HT), and non-restorative cavity control (NRCC) — using a composite failure outcome.
 
-## 한줄요약
+For deep lesions, CR had the highest failure probability: CR vs SW (permanent) OR 2.06 (moderate certainty); SE ranked best in permanent teeth (SW vs SE OR 2.25, moderate certainty; CR vs SE OR 11.32, very low certainty); in primary teeth, HT outperformed CR (OR 8.35, low certainty) and NRCC.
 
-코크란 SR+네트워크 메타분석(27 RCT·환자 3350명·치아 4195개, 2020년까지 검색): 우식조직 절삭 전략 비교에서 깊은 우식의 경우 완전절삭 후 통상수복(CR)이 실패 확률 최고였고, 선택적절삭(SE)·단계적절삭(SW)·홀테크닉(HT)이 더 나았다. 유치에서는 HT가 CR(실패 OR 8.35)·비복원 우식조절(NRCC)보다 우수, 영구치 깊은 우식에서는 SE가 최선 — 다만 근거확실성은 대부분 낮음/매우낮음.
+Removing less carious tissue performs at least as well as, and often better than, complete removal; SE is the preferred strategy for permanent deep lesions, HT for primary teeth; all results are limited by high risk of bias across included trials.
+
+## 세줄요약
+
+코크란 SR + 네트워크 메타분석(RCT 27편, 환자 3350명, 치아 4195개, 11개국, 2020년까지 검색) — 완전절삭(Conventional complete Removal, CR), 선택적절삭(Selective Excavation, SE), 단계적절삭(Stepwise, SW), 실란트, 홀테크닉(Hall Technique, HT), 비복원 우식조절(Non-Restorative Cavity Control, NRCC) 6가지 전략을 복합 실패 지표로 비교.
+
+깊은 우식에서 CR 실패 확률 최고: CR vs SW(영구치) OR 2.06(중등도 근거); 영구치에서 SE 최선(SW vs SE OR 2.25, 중등도; CR vs SE OR 11.32, 매우낮음); 유치에서 HT가 CR(OR 8.35, 낮음)·NRCC보다 우수.
+
+우식조직을 덜 제거할수록 완전절삭과 동등하거나 더 나은 결과; 영구치 깊은 우식에서 SE, 유치에서 HT가 선호 전략; 포함 RCT 전체 고위험 편향으로 근거 수준 제한.
 
 ## Summary
 

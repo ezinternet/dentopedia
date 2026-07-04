@@ -17,13 +17,23 @@ text_filename: garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus
 
 Part of an autoimmune-dentistry batch building out the oral-medicine view of systemic autoimmune disease. Where [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] covers whether implants survive in autoimmune patients (SLE among them), this SR maps the *oral mucosal/soft-tissue burden* of SLE itself — oral ulcers (the most prevalent, and a classification criterion), hyposalivation, mucosal lesions, caries and periodontal disease — which is the diagnostic and risk context a clinician needs before considering any implant or restorative work in these patients. It also reinforces the oral-mucosal differential-diagnosis theme shared with [[wiki/oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] (SLE oral lesions mimic lichen planus, pemphigus, syphilis).
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (15 STROBE-appraised observational studies, PRISMA/PROSPERO CRD42021291356) finding oral ulcers the most prevalent oral manifestation of SLE (11 of 14 prevalence studies), most commonly on the hard palate, with hyposalivation, pigmentation, glossodynia, cheilitis and secondary Sjögren also frequent.
 
-## 한줄요약
+(incomplete)
 
-전신홍반루푸스(SLE) 환자의 구강 증상을 다룬 15편 관찰연구 체계적 고찰 — 구강궤양(oral ulcer)이 가장 흔한 증상(14편 중 11편)이며 경구개(hard palate)에 호발, 타액감소·색소침착·설통·구순염·이차 쇼그렌도 빈번. 구강궤양은 청소년기 발병 SLE에서 특히 흔하다.
+(incomplete)
+
+## 세줄요약
+
+
+전신홍반루푸스(SLE) 환자의 구강 증상을 다룬 15편 관찰연구 체계적 고찰 — 구강궤양(oral ulcer)이 가장 흔한 증상(14편 중 11편)이며 경구개(hard palate)에 호발, 타액감소·색소침착·설통·구순염·이차 쇼그렌도 빈번.
+
+구강궤양은 청소년기 발병 SLE에서 특히 흔하다.
+
+(incomplete)
 
 ## 1. Document Information
 

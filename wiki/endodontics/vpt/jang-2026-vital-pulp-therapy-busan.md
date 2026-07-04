@@ -13,11 +13,19 @@ source_collection: external
 tags: [vital-pulpotomy, vital-pulpectomy, endoseem, bioceramic, vpt, pulp-preservation, cracked-tooth, clinical-lecture]
 ---
 
-## One-line Summary
-Clinical lecture on vital pulpectomy (Busan 2026): removes only coronal/upper-root pulp while preserving apical pulp — Endoseem ≥3 mm barrier, working length set 2–3 mm short of apex, ultrasonic + NaOCl irrigation protocol.
+## Three-line Summary
+Clinical expert lecture (69 slides, Busan April 2026) presenting a step-by-step protocol for vital pulpectomy — a technique that removes only coronal and upper-root pulp while preserving the apical vital pulp using an Endoseem (bioceramic) barrier of ≥3 mm thickness.
 
-## 한줄요약
-바이탈 근관치료 (Vital Pulpectomy, VPT) 임상 강의 (부산 2026, 장 원장): 감염 근관 상부 치수만 제거하고 근단 치수를 보존하는 술식 — 엔도셈 (Endoseem) ≥3mm 배리어, 작업장 길이 근단에서 2–3mm 단축, 초음파+NaOCl 세정 프로토콜.
+Working length is intentionally set 2–3 mm short of the apex (distinguishing this from full RCT), using 5.25% NaOCl + ultrasonic irrigation (no EDTA) and sustained wet-cotton pressure hemostasis; crown restoration is mandatory for long-term Endoseem stability.
+
+This protocol is especially suited for cracked teeth, geriatric patients, and over-erupted implant-opposing teeth, but is based on clinical expert opinion rather than controlled trial data.
+
+## 세줄요약
+임상 강의(슬라이드 69매, 부산 2026년 4월): 치관부 및 근관 상부 치수만 제거하고 근단 치수를 보존하는 바이탈 근관치료(Vital Pulpectomy) 프로토콜 — 엔도셈(Endoseem) 바이오세라믹 배리어 ≥3mm 적용.
+
+작업장 길이(Working Length, WL)를 근단에서 2–3mm 단축하여 완전 근관치료와 구별하며, 5.25% NaOCl + 초음파 세정(EDTA 불사용)·습윤 면구 가압 지혈 프로토콜 적용; 크라운 수복 필수.
+
+균열치, 노인 환자, 과맹출 임플란트 대합치에 특히 적합하지만, 본 프로토콜은 임상 전문가 강의 기반으로 대조 연구 근거가 없다.
 
 ## Summary
 This 69-slide clinical lecture, presented in Busan on April 12, 2026, outlines a comprehensive protocol for Vital Pulp Therapy (VPT) with emphasis on Vital Pulpectomy — a technique that removes only the coronal and upper-root pulp tissue while preserving healthy apical pulp to stimulate tertiary dentin formation. The presenter advocates Endoseem (a bioceramic material) as the barrier material, placed at ≥3 mm thickness between the resin core and the residual vital pulp. Working length is intentionally set 2–3 mm short of the apical constriction, distinguishing this technique from full root canal treatment. The lecture covers specific indications (cracked teeth, geriatric patients, over-erupted opposing teeth), step-by-step protocol, hemostasis management, FAQ, and clinical cases.

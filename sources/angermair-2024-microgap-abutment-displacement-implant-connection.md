@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트-지대주 연결부(Implant-Abutment Connection, IAC)의 마이크로갭(microgap) 거동은 생물학적·기계적 합병증의 핵심 원인으로 논의되나, 원추각(cone angle)에 따른 차이를 고해상도 방사광(synchrotron) 영상으로 직접 비교한 연구는 드물다. 이 논문은 기존 [[prosthetic-materials/implant-connection]] 관련 지식을 보강하며, 소원추각(<12°) friction-fit 연결부와 대원추각(~45°) butt-joint 연결부의 변위 모드 차이를 0.1 μm 정밀도로 정량화한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro synchrotron microtomography study (n=4 systems, static 30–200 N loading) found pre-existing microgaps (0.15–9 μm) in all IAC designs that expanded up to 40.5 μm under load; small-angle conical friction-fit connections (<12°) caused inward abutment displacement deforming the outer implant wall, while the large-angle butt-joint (45°) distributed force differently without implant-wall deformation.
+In vitro synchrotron X-ray microtomography study (4 IAC systems: 3 conical friction-fit <12°, 1 butt-joint ~45°; 2 specimens each; static loading 30–200 N per ISO 14801; sub-μm resolution) assessing microgap behavior and abutment displacement under load.
 
-## 한줄요약
+Pre-existing microgaps (0.15–9 μm) were found in all systems before loading and expanded up to 40.5 μm under load; conical (<12°) connections showed inward abutment displacement deforming the outer implant wall, whereas the 45° butt-joint distributed force differently without implant-wall deformation.
 
-방사광 마이크로단층촬영으로 4종 임플란트 시스템(3종 소원추각 friction-fit, 1종 대원추각 butt-joint) 정하중 시험 시 모든 연결부에서 하중 전 마이크로갭(0.15–9 μm)이 존재했고 하중 증가 시 최대 40.5 μm까지 증가했으며, 소원추각 연결부는 지대주 내측 변위로 임플란트 외벽 변형을 유발한 반면 대원추각 butt-joint는 다른 힘 분산 양상을 보였다.
+No IAC design was microgap-free; the distinct displacement modes between conical and butt-joint connections have implications for peri-implant bone stress, but clinical outcome correlation and cyclic loading data are still lacking.
+
+## 세줄요약
+
+방사광(Synchrotron) 마이크로단층촬영 in vitro 연구(IAC 4종: 소원추각 friction-fit <12° 3개 시스템, 대원추각 butt-joint ~45° 1개 시스템; 각 2 시편; 정하중 30–200 N; 0.1 μm 분해능) — 마이크로갭 거동 및 지대주 변위 비교.
+
+모든 시스템에서 하중 전부터 마이크로갭(0.15–9 μm) 존재, 하중 증가 시 최대 40.5 μm까지 확대; 소원추각 연결부는 지대주 내측 변위로 임플란트 외벽 변형 유발, 대원추각 butt-joint는 다른 힘 분산 양상으로 외벽 변형 없음.
+
+어떤 연결부 디자인도 마이크로갭에서 자유롭지 않으며, 변위 양상 차이가 골 응력에 미치는 영향은 주기하중·생물학적 결과 연구로 추가 검증 필요.
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy.txt
 
 교흔(morsicatio labiorum/buccarum)의 임상 감별진단 도구(dermoscopy)를 다루는 케이스 리포트로, 역학 데이터 중심의 [[oral-medicine/normal-variants/nautiyal-2024-prevalence-keratosis-oral-cavity]]를 보완한다. 실제 임상에서 oral lichen planus와의 오진 위험(steroid 치료 무반응 사례)을 구체적으로 보여줘 chairside 감별 기준을 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1) describing dermoscopic features of morsicatio labiorum — whitish/yellowish structureless areas, dotted-vessel erosions, and loose white scales without Wickham striae — that distinguished it from a prior misdiagnosis of oral lichen planus unresponsive to topical steroids.
+Case report (n=1; 46-year-old woman, 2-year history of whitish lip plaques previously misdiagnosed as oral lichen planus unresponsive to topical steroids) describing dermoscopic characterization of morsicatio labiorum.
 
-## 한줄요약
+Dermoscopy revealed whitish/yellowish structureless areas, dotted-vessel erosions, and loose removable white scales without Wickham striae, distinguishing it from oral lichen planus and enabling diagnosis without biopsy.
 
-교순증(morsicatio labiorum) 증례 1례(46세 여성, 국소 스테로이드 치료에 반응 없던 구강편평태선 오진 사례)에서 더모스코피 소견(백황색 무구조 영역, 점상혈관을 동반한 미란, Wickham striae 없는 느슨한 백색 인설)이 정확한 진단과 침습적 검사 회피에 기여했다.
+This is reportedly the first dermoscopic report specifically of morsicatio labiorum; absence of Wickham striae is the key negative differentiator from OLP, but diagnostic-accuracy data (sensitivity/specificity) are lacking.
+
+## 세줄요약
+
+증례 보고(n=1; 46세 여성; 2년간 구강편평태선으로 오진되어 국소 스테로이드에 반응 없던 교순증(morsicatio labiorum) 사례) — 교순증의 더모스코피 특성 기술.
+
+더모스코피 소견: 백황색 무구조 영역, 점상혈관을 동반한 미란, 쉽게 제거되는 느슨한 백색 인설 + Wickham striae 부재 → 구강편평태선과 감별 진단, 조직검사 없이 진단 가능.
+
+교순증에 대한 최초 더모스코피 보고로 알려지며, Wickham striae 부재가 OLP 감별의 핵심 음성 소견이나 민감도·특이도 데이터는 아직 없음.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: [probiotics, halitosis, oral-malodor, streptococcus-salivarius, VSC, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 4 RCTs (n=283): probiotics (Streptococcus salivarius K12/M18, Weissella cibaria) did not significantly reduce oral halitosis overall (p=0.53), but individual trials suggest possible benefit, warranting further research.
+SR+MA of 4 RCTs (n=283; Streptococcus salivarius K12/M18 and Weissella cibaria; follow-up 4–12 weeks) assessing probiotics specifically for genuine oral halitosis.
 
-## 한줄요약
+Fixed-effects meta-analysis found no statistically significant overall reduction in halitosis (p=0.53), though individual trials showed benefit: S. salivarius M18 reduced VSC in orthodontic patients and S. salivarius K12 post-chlorhexidine showed longer-term benefit.
 
-4개 RCT SR+MA (n=283): 프로바이오틱스(Streptococcus salivarius K12/M18, Weissella cibaria)가 전체적으로 구강 구취를 유의하게 줄이지 못했으나(p=0.53) 일부 연구에서 긍정적 효과가 관찰돼 추가 연구 필요.
+Current evidence is insufficient to recommend probiotics as standard halitosis treatment; critical gaps include lack of dose standardization, short follow-up, and heterogeneous outcome measures.
+
+## 세줄요약
+
+구강성 구취에 대한 프로바이오틱스(S. salivarius K12/M18, Weissella cibaria) 효과를 평가한 4개 RCT(n=283, 추적 4–12주) SR+MA.
+
+고정효과 메타분석에서 전체적 구취 감소는 비유의(p=0.53); 개별 시험에서는 S. salivarius M18(교정 환자 VSC 감소), K12+CHX 처치 후 장기 효과 관찰.
+
+현재 근거는 프로바이오틱스를 구취 표준 치료로 권고하기 불충분; 용량 미표준화·짧은 추적·이질적 결과 측정이 주요 한계.
 
 ## Summary
 

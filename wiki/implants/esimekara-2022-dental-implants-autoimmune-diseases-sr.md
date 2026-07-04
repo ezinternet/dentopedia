@@ -16,13 +16,21 @@ relations:
     target: aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic critical review (55 studies, 9 autoimmune diseases) finding dental implant survival comparable to the general population, though secondary Sjögren's and erosive oral lichen planus raise peri-mucositis and marginal bone loss risk.
+PRISMA systematic critical review (55 studies, 9 autoimmune diseases including Sjögren's, OLP, RA, T1DM, SSc, SLE, MMP, PV, Crohn's): implant survival rates across the autoimmune spectrum are comparable to the general population with no disease-specific contraindications identified.
 
-## 한줄요약
+Secondary Sjögren's syndrome had peri-mucositis prevalence up to 94% (Korfage); erosive OLP showed 24% survival without corticosteroids vs 100% with LDSC protocol (Aboushelib); T1DM failures clustered in early healing when HbA1c ≥8.0%.
 
-PRISMA 체계적 비판적 고찰 (55편, 자가면역질환 9종): 치과 임플란트 생존율은 일반 인구와 동등하나, 이차 쇼그렌증후군과 미란성 구강편평태선에서 임플란트주위점막염(peri-mucositis)과 변연골소실(MBL) 위험 증가.
+No blanket contraindication for any of the 9 diseases; protocol modifications (LDSC in active OLP, glycemic control in T1DM, strict hygiene recall for all) replace the "contraindicated" default; all findings are from predominantly retrospective/case-series data without meta-analysis.
+
+## 세줄요약
+
+PRISMA 체계적 비판적 고찰 (55편, 9종 자가면역질환): 자가면역질환 전체 스펙트럼에서 임플란트 생존율은 일반 인구와 동등하며, 특정 질환 금기증은 없음.
+
+이차 쇼그렌증후군 임플란트주위점막염(peri-mucositis) 최대 94%; 미란성 구강편평태선(OLP) — 스테로이드 없이 24% vs LDSC 프로토콜 100% 생존; 1형 당뇨(T1DM) 실패는 HbA1c ≥8.0% 환자에서 집중.
+
+9종 모두 절대 금기 없음; OLP는 LDSC, T1DM은 혈당 조절, 전체 자가면역 환자는 철저한 유지관리가 필수 프로토콜; 근거의 대부분이 후향 코호트·증례 연구로 메타분석 불가.
 
 ## Summary
 

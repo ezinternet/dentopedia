@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[implants/soft-tissue/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]]는 연조직 결손 관리에서 CTG 등 연조직 이식 위주의 근거를 제공하지만, GBR을 통해 하방 골 윤곽을 보강함으로써 연조직 두께와 출현 윤곽을 개선한다는 "Aesthetic Contour Graft" 개념은 별도로 정리가 필요함. 본 임상 논문은 GBR이 연조직 이식을 대체 또는 보완할 수 있다는 임상적 프레임을 제시한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Clinical article describing the "Aesthetic Contour Graft" concept — using GBR (particulate allograft + collagen membrane) to augment underlying labial/ridge bone contour and thereby enhance peri-implant soft tissue emergence profiles and pontic sites, sometimes obviating separate soft tissue grafts.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 임상 논문: GBR로 순측 골 윤곽을 증대("Aesthetic Contour Graft")함으로써 임플란트 주위 연조직 출현 윤곽 및 폰틱 부위 심미성을 개선하며, 경우에 따라 별도의 연조직 이식 없이도 2-3 mm 연조직 두께 확보 가능.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

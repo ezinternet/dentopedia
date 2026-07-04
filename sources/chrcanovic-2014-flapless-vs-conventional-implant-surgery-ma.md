@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 수술 시 flap 거상 여부(flapless vs. open flap)가 임플란트 실패율에 미치는 영향을 정량화한 최초 수준의 메타분석으로, 수술 접근법 선택 근거가 필요할 때 핵심 참고문헌. [[wiki/implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]]와 함께 임플란트 프로토콜 결정 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis of 23 studies (10 RCTs, 7 CCTs, 6 retrospective) found flapless implant surgery associated with significantly higher implant failure rate (RR 1.75, 95% CI 1.07–2.86) compared to open flap, but no significant difference in postoperative infection or marginal bone loss.
+Meta-analysis of 23 studies (10 RCTs, 7 CCTs, 6 retrospective; PRISMA; Malmö/Göteborg University) comparing flapless vs conventional flapped implant surgery on three outcomes: failure rate, postoperative infection, and marginal bone loss; 16/23 studies at high risk of bias.
 
-## 한줄요약
+Flapless surgery was associated with significantly higher implant failure rate (RR 1.75, 95% CI 1.07–2.86, p=0.03); no significant difference in postoperative infection (RR 0.96, p=0.96) or marginal bone loss (MD −0.07 mm, p=0.16); sensitivity analysis restricted to low-risk-of-bias studies rendered the failure-rate difference non-significant.
 
-23개 연구 메타분석에서 무피판(flapless) 임플란트 수술은 개방 피판술 대비 실패율 유의하게 높았으나(RR 1.75), 감염률 및 변연골 소실에는 유의한 차이 없었음.
+Flapless implant surgery carries a measurably higher failure risk in this pooled analysis, but the finding is driven by high-risk-of-bias studies; the technique still has advantages (reduced morbidity, shorter surgery) when site anatomy is clearly visualized via CBCT and case selection is appropriate.
+
+## 세줄요약
+
+PRISMA 메타분석(23편 — RCT 10·비무작위 7·후향 6; 16편 높은 비뚤림위험; Malmö/Göteborg 대학교): 무피판(Flapless) vs 전통 피판 임플란트 수술의 실패율·술후 감염·변연골소실 비교.
+
+무피판 수술은 임플란트 실패율 유의하게 높음(RR 1.75, 95% CI 1.07–2.86, p=0.03); 술후 감염(RR 0.96, p=0.96)·변연골소실(MD −0.07 mm, p=0.16)은 유의차 없음; 낮은 비뚤림위험 연구만 포함한 민감도분석에서는 실패율 차이 비유의.
+
+무피판 수술의 높은 실패 위험 신호는 비뚤림위험 높은 연구에서 주도되므로 과잉 해석 금지; CBCT 기반 해부학 파악과 환자 선택 적절 시 이환율 감소·수술 시간 단축 장점은 유지됨.
 
 ## 1. Document Information
 

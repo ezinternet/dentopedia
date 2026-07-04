@@ -17,13 +17,23 @@ text_filename: sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.txt
 
 Surveillance ingest on 이가탄(Igatan)-family OTC periodontal drug ingredients: 이가탄에프(CELC) lists **vitamin C (ascorbic acid)** among its actives, so this 3-arm RCT — testing vitamin-C-loaded I-PRF vs I-PRF vs mechanical therapy alone in non-surgical periodontal therapy — is a direct clinical-efficacy check on whether topically/locally delivered vitamin C adds benefit over mechanical debridement. It reinforces the recurring "nutraceutical adjuncts have limited clinical efficacy beyond mechanical therapy" finding seen in the 이가탄 CELC RCT [[wiki/periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] and in CoQ10 adjunct evidence.
 
-## One-line Summary
+## Three-line Summary
 
-3-arm double-blind RCT (n=45, stage-II grade A periodontitis) showing that injectable platelet-rich fibrin (I-PRF) with or without vitamin C added NO clinical benefit (BOP/PD/CAL/PI/bone) over professional mechanical plaque removal (PMPR) alone at 6 months; the only adjunct advantage was lower post-operative pain.
 
-## 한줄요약
+3-arm double-blind RCT (n=45, stage-II grade A periodontitis) showing that injectable platelet-rich fibrin (I-PRF) with or without vitamin C added NO clinical benefit (BOP/PD/CAL/PI/bone) over professional mechanical plaque removal (PMPR) alone at 6 months;
+
+the only adjunct advantage was lower post-operative pain.
+
+(incomplete)
+
+## 세줄요약
+
 
 3군 이중맹검 RCT (n=45, 2기 grade A 치주염): 비타민C를 넣은 주사형 혈소판농축피브린(I-PRF)이든 그냥 I-PRF든, 기계적 치석제거(PMPR) 단독 대비 6개월 시점에서 BOP·PD·CAL·PI·골 변화에 추가 임상이득이 없었고, 유일한 차이는 술후 통증이 낮았다는 점뿐이었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

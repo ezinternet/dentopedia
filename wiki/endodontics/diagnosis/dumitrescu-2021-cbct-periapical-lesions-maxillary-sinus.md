@@ -18,11 +18,21 @@ relations:
     target: psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review
 ---
 
-## One-line Summary
-Prospective observational study (n=50, 328 maxillary teeth) showing periapical lesions correlate with significantly greater CBCT-measured sinus mucosal thickening (3.95 mm vs 1.23 mm, p<0.01); histology yielded 50% granuloma / 40% cyst; IHC revealed CD20+/CD79α+ B-cell-dominant chronic infiltrate in both lesion types.
+## Three-line Summary
 
-## 한줄요약
-전향적 관찰연구(n=50, 치아 328개) — 근단병소 인접 상악동 점막두께 3.95 mm vs 병소 없는 치아 1.23 mm (p<0.01); 조직병리: 육아종 50%·낭종 40%; 면역병리: CD20+/CD79α+ B림프구 우세 만성 염증 침윤.
+Prospective observational study (n=50 adults, 328 maxillary teeth, single center Romania 2017–2020) linking CBCT periapical status index (PSI) with maxillary sinus mucosal thickening (MSMT) and histological/immunohistochemical lesion characterization after apicectomy.
+
+MSMT adjacent to periapical-lesion teeth was significantly greater than at lesion-free teeth (3.95±0.8 mm vs 1.23±0.6 mm, p<0.01); 33% of sinuses showed Class 5 thickening (>10 mm); histology: 50% granuloma / 40% cyst / 10% intermediate — CBCT PSI alone could not differentiate lesion type.
+
+IHC demonstrated CD20+/CD79α+ B-cell-dominant chronic infiltrate across lesion types, with CD8+ T-cells prominent in cyst walls; the extent of periapical pathology directly influences post-surgical osseous defect size and sinus-lift candidacy.
+
+## 세줄요약
+
+전향적 관찰연구(n=50, 상악치아 328개, 루마니아 단일기관 2017–2020): CBCT 치근단 상태지수(Periapical Status Index, PSI)와 상악동 점막두께(Maxillary Sinus Mucosa Thickness, MSMT), 치근단 절제술 후 조직학·면역병리 소견 연계 분석.
+
+근단병소 인접 MSMT 3.95±0.8 mm vs 병소 없는 치아 1.23±0.6 mm (p<0.01); 상악동 33%에서 Class 5(>10 mm) 두꺼워짐; 조직병리: 육아종 50%·낭종 40%·중간형 10% — CBCT PSI만으로는 병소 유형 감별 불가.
+
+면역병리(IHC): CD20+/CD79α+ B림프구 우세 만성 침윤(전 병소 유형), 낭종벽에 CD8+ T세포 우세; 근단병소 범위는 발치 후 결손 크기·상악동거상술 적응증에 직접 영향을 줌.
 
 ## Summary
 Dumitrescu et al. (2021) recruited 50 systemically healthy adults with chronic maxillary periapical lesions originally referred from an ENT department, performing CBCT, apicectomy/curettage, and histological/immunohistochemical (IHC) analysis. The primary finding is a statistically significant correlation between 치근단 상태 지수 (Periapical Status Index, PSI) on CBCT and 상악동 점막두께 (Maxillary Sinus Mucosa Thickness, MSMT): mean MSMT adjacent to lesion-bearing teeth was 3.95 ± 0.8 mm versus 1.23 ± 0.6 mm for lesion-free teeth (p < 0.01). Among 100 sinuses examined, 92 showed measurable thickening; 33% exceeded 10 mm (Class 5). Histopathology from 50 lesions showed 50% periapical granulomas, 40% periapical cysts, and 10% granulomas with cystic potential — confirming that CBCT-based PSI alone cannot reliably differentiate lesion type. IHC profiling identified a mixed chronic inflammatory infiltrate dominated by CD20+ and CD79α+ B-lymphocytes/plasma cells across both granulomas and cysts, while CD8+ cytotoxic T-cells predominated in cyst walls and CD79α+ plasma cells were especially dense in granulomas. The authors argue this dual humoral (B-cell) + cellular (T-cell) immune mechanism drives lesion progression and chronicity. Clinically, the extent of periapical pathology directly impacts post-surgical healing and shapes both implant planning (shorter implants may be necessary) and sinus-lifting eligibility.

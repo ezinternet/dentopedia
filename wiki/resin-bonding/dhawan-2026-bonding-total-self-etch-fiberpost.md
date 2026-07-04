@@ -18,13 +18,21 @@ relations:
     target: breschi-2025-adhesive-dentistry-evolution-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro push-out study (n=60 mandibular premolars, 3 groups, n=20 each) comparing adhesive systems for glass fiber post cementation: self-etch yielded highest bond strength (131.03 N) vs total-etch (115.25 N) vs self-adhesive (75.04 N), with highly significant ANOVA difference (p=0.001).
+In vitro push-out bond strength study (60 mandibular premolars, 3 groups n=20 each: total-etch, self-etch, and self-adhesive systems) comparing adhesive system classes for glass fiber post (GFP) cementation to root dentin using ParaCore cement.
 
-## 한줄요약
+Self-etch achieved the highest push-out bond strength (131.03 N) versus total-etch (115.25 N) versus self-adhesive (75.04 N); all pairwise comparisons were significant (one-way ANOVA, p=0.001); self-adhesive was attributed to insufficient micromechanical interlocking, total-etch to moisture-control challenges in confined canal space.
 
-in vitro 연구(하악 소구치 60개, 그룹당 n=20): 글래스 파이버 포스트(Glass Fiber Post, GFP) 접착 시 자가산부식(Self-Etch, SE) 131.03 N > 전산부식(Total-Etch, TE) 115.25 N > 자가접착(Self-Adhesive, SA) 75.04 N 순으로 push-out 결합강도 유의차(p=0.001) — SE 계열 추천.
+Self-etch adhesive systems are the recommended luting strategy for glass fiber posts in endodontically treated teeth, as they reliably penetrate the smear layer without the over-drying/over-wetting risk inherent to total-etch in root canals.
+
+## 세줄요약
+
+In vitro 푸시아웃 결합강도 연구 (하악 소구치 60개, 그룹당 n=20: 전산부식·자가산부식·자가접착 시스템) — ParaCore 시멘트를 이용한 글래스 파이버 포스트 (Glass Fiber Post, GFP) 상아질 접착력 비교.
+
+자가산부식 (Self-Etch, SE) 최고 결합강도(131.03 N) > 전산부식 (Total-Etch, TE, 115.25 N) > 자가접착 (Self-Adhesive, SA, 75.04 N); 모든 쌍별 비교 유의(one-way ANOVA, p=0.001); 자가접착은 미세기계적 맞물림 불충분, 전산부식은 근관 내 수분조절 어려움이 원인.
+
+근관치료 치아의 글래스 파이버 포스트 접착에 자가산부식 접착 시스템 권장 — 근관 내 과건조·과습 위험 없이 스미어층 안정적 침투 가능.
 
 ## Summary
 

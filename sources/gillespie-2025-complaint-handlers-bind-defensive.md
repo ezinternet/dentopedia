@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Explains WHY responders default to the defensive moves catalogued in [[complaint-management/12913_2021_Article_6733]]: contradictory organisational demands. Moves the response axis from blaming individuals to fixing the system -- the lever a clinic owner actually controls.
 
-## One-line Summary
+## Three-line Summary
+
 Mixed-methods study of UK hospital staff responding to online criticism, identifying six defensive tactics arising from contradictory work demands.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 온라인 비판에 응답하는 영국 병원 직원 혼합방법 연구 — 모순된 업무 요구에서 비롯된 6가지 방어 전술 규명.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - PLOS One 2025;20(6):e0325185. CC BY. No specific funding.

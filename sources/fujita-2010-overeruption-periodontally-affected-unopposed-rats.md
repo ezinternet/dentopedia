@@ -13,13 +13,23 @@ source_collection: external
 
 Supplies a key modifier for the [[wiki/overviews/unopposed-tooth-overeruption-overview]] thesis that overeruption is a periodontal-ligament/alveolar-bone phenomenon (so whether a tooth is endodontically treated vs. vital is irrelevant — the active tissue is the periodontium, not the pulp). This controlled rat micro-CT experiment dissociates the two drivers — loss of antagonist and periodontitis — and shows periodontitis *amplifies* the supraposition of an unopposed tooth, with the largest effect on the lingual alveolar bone level. It reinforces [[wiki/occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] (clinical CBCT magnitude of unopposed molar overeruption) by giving the mechanistic/animal-model counterpart for why compromised periodontium accelerates extrusion.
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal study (60 adult male rats, 4 groups, 4 wk, micro-CT) showing loss of antagonist causes unopposed-molar overeruption that becomes significantly *larger* in the presence of experimentally induced periodontitis, with the lingual alveolar bone level lowered most.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 동물실험(성체 수컷 백서 60마리, 4군, 4주, micro-CT): 대합치 상실은 무대합 대구치의 과맹출(supraposition)을 유발하고, 실험적 치주염(periodontitis)이 동반되면 과맹출이 유의하게 더 커지며, 설측 치조골(alveolar bone) 수준이 가장 많이 낮아졌다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

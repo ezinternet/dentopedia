@@ -17,13 +17,21 @@ text_filename: bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (19 articles, Aug 2015–Aug 2024) mapping how gingival crevicular fluid (GCF) inflammatory mediators, enzymes and bone-turnover markers (PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMP-1/2/3/8/9/13, osteocalcin, N-telopeptide) rise and fall during orthodontic tooth movement, arguing GCF sampling could non-invasively monitor OTM to shorten treatment and avoid adverse effects.
+Narrative review (Medicina 2024, 19 articles, PubMed/Embase/Scopus, Aug 2015–Aug 2024) mapping how GCF inflammatory mediators, enzymes, and bone-turnover markers — PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMP-1/2/3/8/9/13, osteocalcin, N-telopeptide — rise and fall during orthodontic tooth movement (OTM).
 
-## 한줄요약
+Biomarker patterns differ by side (pressure vs tension) and timing (early inflammation vs later bone turnover): e.g., RANKL/OPG ratio rises on the compression side to drive osteoclastogenesis; MMP-9 is detectable by 4 h as an early OTM marker; ALP peaks day 14 on the tension side as a bone-formation signal; and appliance type (fixed, lingual, clear aligner, functional) shifts specific marker time courses.
 
-내러티브 리뷰(논문 19편, 2015.8–2024.8): 교정 치아이동(OTM) 동안 치은열구액(GCF) 내 염증매개체·효소·골재형성 표지자(PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMP, 오스테오칼신, N-telopeptide)가 압박측·긴장측 골재형성에 따라 변하며, GCF를 비침습적으로 채취해 OTM을 모니터링하면 치료기간 단축·부작용 회피가 가능하다는 관점을 제시한다.
+The practical potential is non-invasive chairside GCF sampling to monitor OTM rate and avoid adverse effects (root resorption, bone thinning), but ELISA assay cost and the need to control gingival inflammation as a confounder remain barriers to routine clinical use.
+
+## 세줄요약
+
+내러티브 리뷰(Medicina 2024, 19편, PubMed/Embase/Scopus, 2015.8–2024.8): 교정 치아이동(OTM) 동안 GCF 내 염증매개체·효소·골대사 지표(PGE2·TNF-α·IL-1β·RANKL/OPG·ALP·MMP·오스테오칼신·N-telopeptide)의 변화 양상을 체계화.
+
+압박측에서 RANKL/OPG 비가 상승해 파골세포 형성 촉진; MMP-9은 4시간 이내 검출되는 조기 OTM 표지자; ALP는 긴장측에서 14일째 정점(골형성 신호); 장치 종류(고정식·설측·투명교정·기능성)에 따라 특정 지표 시간 경과가 달라짐.
+
+GCF 비침습 채취로 OTM 속도·부작용(치근흡수·골박화)을 모니터링할 잠재성이 있으나, ELISA 비용과 치은염증을 교란변수로 통제해야 하는 어려움이 일상 임상 적용의 걸림돌.
 
 ## Summary
 

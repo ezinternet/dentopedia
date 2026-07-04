@@ -17,13 +17,23 @@ text_filename: lampl-2025-crown-failures-primary-teeth-sr-ma.txt
 
 사용자가 유치(primary teeth) 스테인리스강관(SSC) 보철에 대한 PMC 전문 논문 추가를 요청. 본 SR+MA(13 RCT + 5 clinical study, 1172+2667개 크라운)는 SSC를 포함한 5개 재료(compomer, composite resin, RMGIC, SSC, zirconia, strip crown)의 5년 유지율과 실패 원인을 정량화한 최신(2025) 근거로, 기존 prosthetic-materials 카테고리에 소아 유치관 관련 페이지가 없어 신규 하위 주제를 개설한다. [[wiki/prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]]와 함께 향후 소아 지르코니아관(pediatric zirconia crown) 관련 근거 축적의 출발점이 된다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis (13 RCTs, n=454 children/1172 crowns; 5 clinical studies, n=810 children/2667 crowns) found pooled 5-year retention rates of 97.88% for stainless steel crowns (SSC), 97.09% for zirconia, 92.18% for composite resin, 90.30% for RMGIC, 88.90% for compomer, and 83.48% for strip crowns, with SSC showing zero decementation/chipping/fracture events among RCT retention complications while zirconia had the highest gingival inflammation (21.8% in clinical studies) and composite resin had the highest technical/esthetic complication burden.
 
-## 한줄요약
+Systematic review and meta-analysis (13 RCTs, n=454 children/1172 crowns;
+
+5 clinical studies, n=810 children/2667 crowns) found pooled 5-year retention rates of 97.88% for stainless steel crowns (SSC), 97.09% for zirconia, 92.18% for composite resin, 90.30% for RMGIC, 88.90% for compomer, and 83.48% for strip crowns, with SSC showing zero decementation/chipping/fracture events among RCT retention complications while zirconia had the highest gingival inflammation (21.8% in clinical studies) and composite resin had the highest technical/esthetic complication burden.
+
+(incomplete)
+
+## 세줄요약
+
 
 13개 RCT(454명 아동, 크라운 1172개)와 5개 임상연구(810명, 크라운 2667개)를 포함한 체계적 문헌고찰 및 메타분석 결과, 5년 유지율은 스테인리스강관(SSC) 97.88%, 지르코니아 97.09%, 복합레진 92.18%, RMGIC 90.30%, 컴포머 88.90%, 스트립관 83.48%였으며, SSC는 RCT에서 탈락·칩핑·파절 등 유지 관련 합병증이 전무했던 반면 지르코니아는 치은염증(임상연구 21.8%)이 가장 높고 복합레진은 기술적·심미적 합병증 부담이 가장 컸다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

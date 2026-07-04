@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective CBCT study (n=120) found that maxillary central incisors in Class III canine relationships have significantly thinner labial bone (often <1 mm apically) and greater labial root inclination than Class I, indicating malocclusion class is an under-appreciated covariate to screen before immediate implant placement.
+## Three-line Summary
 
-## 한줄요약
-CBCT 후향적 연구(n=120): Class III 견치 관계에서는 상악 중절치의 치근축이 더 협측으로 기울어 있고 순측 골 두께가 얇아지는 경향이 있어, 즉시 식립 시 술 전 평가에 견치 관계도 변수로 포함해야 한다.
+Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal root angulation of maxillary central incisors stratified by Angle Class I versus Class III canine relationship.
+
+Class III patients had significantly thinner labial bone plates (often <1 mm in apical thirds) and greater labial root inclination, reducing bone available palatal to the apex and adversely affecting immediate implant placement indications.
+
+Malocclusion class is an under-appreciated covariate of esthetic-zone bone morphology and should be screened preoperatively; implications are anatomy-only with no outcome data.
+
+## 세줄요약
+
+상악 중절치의 치조골 폭과 치축 경사를 Class I vs Class III 견치 관계로 층화 분석한 후향적 CBCT 연구(n=120).
+
+Class III에서 순측 골판이 유의하게 얇고(치근단 1/3부 <1 mm 다수), 순측 치근 경사가 더 크며, 치근단 구개측 잔존골도 감소하여 즉시 식립 적응증이 불리해진다.
+
+교합 분류(구치 관계)가 심미 영역 골 형태의 간과되기 쉬운 공변량임을 시사하며, 결과 데이터가 없어 해부학적 추론에 그친다는 한계가 있다.
 
 ## Summary
 Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal tooth angulation of maxillary central incisors stratified by Class I vs Class III canine relationship. Class III had significantly thinner labial bone and greater labial root inclination, complicating immediate implant placement planning.

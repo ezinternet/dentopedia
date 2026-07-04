@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 CR-MIP 과두 변위(Condylar Displacement, CD)와 부정교합·두개안면 형태의 관계를 정리한 scoping review. [[tmj/]] 카테고리의 TMD 위험 요인 및 [[occlusion/]] 카테고리의 교합-TMJ 관계 근거 보강.
 
-## One-line Summary
-Scoping review (10 studies): hyperdivergent facial pattern is the primary skeletal risk factor for increased CR-MIP condylar displacement; condyles typically displace posteroinferiorly; evidence on other malocclusions remains inconclusive.
+## Three-line Summary
 
-## 한줄요약
-스코핑 리뷰 (10편): 과두발산형(hyperdivergent) 안면 골격이 CR-MIP 과두 변위의 주요 위험 요소; 과두는 주로 후하방 변위; 기타 부정교합과의 관계는 불확실.
+Scoping review (10 studies): hyperdivergent facial pattern is the primary skeletal risk factor for increased CR-MIP condylar displacement;
+
+condyles typically displace posteroinferiorly;
+
+evidence on other malocclusions remains inconclusive.
+
+## 세줄요약
+
+스코핑 리뷰 (10편): 과두발산형(hyperdivergent) 안면 골격이 CR-MIP 과두 변위의 주요 위험 요소;
+
+과두는 주로 후하방 변위;
+
+기타 부정교합과의 관계는 불확실.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2023, 12, 689

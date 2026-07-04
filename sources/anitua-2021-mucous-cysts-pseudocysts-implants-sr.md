@@ -14,8 +14,21 @@ source_collection: external
 
 상악동 점액낭종/위낭종이 임플란트 실패의 위험인자인가에 대한 **SR-level anchor**. 결정 트리의 1단계 (위험 자체가 큰가)에 대한 합의 근거. 본 SR이 부정적이면 적극 처치는 과잉치료, 긍정적이면 처치 옵션 선택 (제거·흡인·미처치) 문제로 좁혀짐. 결정 트리의 후속 단계는 [[sinus-lift/pseudocyst/yu-2023-immediate-delayed-sinus-pseudocyst-rct]]·[[sinus-lift/pseudocyst/fu-2025-antral-pseudocyst-management-lsfe]]가 다룸.
 
-## One-line Summary
-SR (Anitua 그룹): mucous retention cysts (MRCs)·pseudocysts in maxillary sinus — implant 또는 sinus lift 술식 후 outcome에 미치는 risk factor 여부 평가. 다수 연구 합산 결과 **임상적으로 유의한 위험 증가 미입증** — 단, 절차적 주의·중간 옵션 선택은 필요.
+## Three-line Summary
+
+Systematic review (cohort studies and case series, PubMed/Embase) evaluating whether maxillary sinus mucous retention cysts (MRCs) and pseudocysts are risk factors for dental implants and sinus lift procedures.
+
+Implant survival rates were generally maintained in the presence of MRCs/pseudocysts; no clinically significant increase in failure risk was established; complication rates (sinusitis, membrane perforation) varied by case.
+
+Sinus MRCs/pseudocysts are not absolute contraindications for implant placement or sinus lift; a stratified approach is recommended, and high-quality RCT evidence remains lacking.
+
+## 세줄요약
+
+체계적 문헌고찰(코호트 및 증례집, PubMed/Embase): 상악동 점액낭종(Mucous Retention Cyst, MRC)·위낭종(Pseudocyst)이 임플란트 또는 상악동 거상술의 위험인자인지 평가.
+
+임플란트 생존율은 낭종 존재 시에도 일반적으로 높게 유지되었으며, 임상적으로 유의한 위험 증가는 입증되지 않았으나 상악동염·막 천공 등 합병증은 증례별 차이가 있었다.
+
+상악동 낭종·위낭종은 임플란트 식립이나 상악동 거상술의 절대적 금기가 아니지만 계층화된 접근이 권장되며, 근거 수준은 제한적이다.
 
 ## 1. Document Information
 Systematic review, 2021, UIRMI (Vitoria, Spain). Eduardo Anitua = Anitua Foundation·BTI Biotechnology Institute.

@@ -13,13 +13,23 @@ source_collection: external
 
 Symptomatic irreversible pulpitis (SIP)의 "hot tooth" IANB 실패율(literature 44–81%)은 [[wiki/drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]]가 다루지 않은 임상 난제이며, 본 double-blind RCT는 buffering과 precooling(intraoral cryotherapy)이 SIP success rate를 conventional 38.9% → buffered 86.2% → precooled 78.9%로 끌어올림을 직접 비교한다. Buffered-LA cluster의 SIP-success anchor로 sibling [[wiki/drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]](동일 SIP 모델, preheated/buffered 비교)와 짝을 이루고 [[wiki/drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]]의 onset 데이터를 SIP 맥락으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=45, 15/group), IANB in mandibular molar with symptomatic irreversible pulpitis: buffered 2% lidocaine gave the highest anesthetic success (84.2% per Table 2; abstract states 86.2%) vs precooled 72.0% (abstract 78.9%) vs conventional 36.8% (abstract 38.9%), with buffered also showing fastest onset (61.1 s vs 79.6 s precooled vs 139.6 s conventional, p<0.001) and longest duration (313.8 min vs 278 vs 193.3 min).
 
-## 한줄요약
+Double-blind RCT (n=45, 15/group), IANB in mandibular molar with symptomatic irreversible pulpitis: buffered 2% lidocaine gave the highest anesthetic success (84.2% per Table 2;
 
-이중맹검 RCT (n=45, 군당 15명), 증후성 비가역치수염(SIP) 하악 대구치 IANB: buffered 2% 리도카인이 마취 성공률 최고(Table 2 기준 84.2%, 초록은 86.2%) > precooled 72.0%(초록 78.9%) > conventional 36.8%(초록 38.9%); buffered가 발현도 가장 빠르고(61.1초 vs 79.6초 vs 139.6초, p<0.001) 지속도 가장 김(313.8분 vs 278분 vs 193.3분).
+abstract states 86.2%) vs precooled 72.0% (abstract 78.9%) vs conventional 36.8% (abstract 38.9%), with buffered also showing fastest onset (61.1 s vs 79.6 s precooled vs 139.6 s conventional, p<0.001) and longest duration (313.8 min vs 278 vs 193.3 min).
+
+(incomplete)
+
+## 세줄요약
+
+
+이중맹검 RCT (n=45, 군당 15명), 증후성 비가역치수염(SIP) 하악 대구치 IANB: buffered 2% 리도카인이 마취 성공률 최고(Table 2 기준 84.2%, 초록은 86.2%) > precooled 72.0%(초록 78.9%) > conventional 36.8%(초록 38.9%);
+
+buffered가 발현도 가장 빠르고(61.1초 vs 79.6초 vs 139.6초, p<0.001) 지속도 가장 김(313.8분 vs 278분 vs 193.3분).
+
+(incomplete)
 
 ## 1. Document Information
 

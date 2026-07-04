@@ -13,11 +13,19 @@ source_collection: external
 tags: [pdrn, meta-analysis, pain, musculoskeletal, non-dental, cross-domain]
 ---
 
-## One-line Summary
-Meta-analysis (1 RCT + 3 retrospective, musculoskeletal): PDRN injection significantly improved tendon/ligament pain (SMD −1.43, 95% CI −1.80 to −1.06, P<0.00001); rotator-cuff pain improved but function and strength did not. Non-dental — dental extrapolation is interpretive.
+## Three-line Summary
+PRISMA-compliant meta-analysis pooling 1 RCT and 3 retrospective studies of PDRN injection for musculoskeletal tendon/ligament pain (databases through January 2020).
 
-## 한줄요약
-근골격계 PDRN 메타분석. PDRN 주사가 건/인대 통증 유의 개선(SMD −1.43, P<0.00001), 단 기능·근력은 무변화. 비치과 — 치과 외삽은 해석 수준.
+PDRN injection significantly improved pain overall (SMD −1.43, 95% CI −1.80 to −1.06, P<0.00001) and in the rotator-cuff subgroup (SMD −2.34), but shoulder pain-and-disability index and abduction strength did not change.
+
+This is the highest-grade quantitative evidence for PDRN analgesia but is in a non-dental domain; dental extrapolation (e.g., TMJ prolotherapy) remains interpretive, and the small study base (n=4, mostly retrospective) limits certainty.
+
+## 세줄요약
+줄1: 근골격계 건/인대 통증에 대한 PDRN 주사의 PRISMA 준수 메타분석 (RCT 1편 + 후향 연구 3편, 2020년 1월까지 데이터베이스).
+
+줄2: PDRN 주사가 전체 통증(SMD −1.43, P<0.00001) 및 회전근개 아군(SMD −2.34)에서 유의 개선; 기능(SPADI)·근력은 무변화.
+
+줄3: PDRN 진통 효과의 최고 등급 정량적 근거이나 비치과 영역이며 포함 연구 수(4편)가 적어 치과(TMJ 등)로 외삽 시 해석에 주의.
 
 ## Summary
 This PRISMA-compliant meta-analysis pooled one RCT and three retrospective studies of PDRN injection for tendon/ligament pain. Pain improved significantly overall (SMD −1.43) and in the rotator-cuff subgroup (SMD −2.34), but shoulder pain-and-disability index and abduction strength did not change. It is the highest-grade quantitative evidence that PDRN injection reduces pain in humans — but the domain is musculoskeletal, not dental. It is recorded here as cross-domain support for PDRN's analgesic action behind the dental post-extraction-pain RCT and TMJ prolotherapy cohort, not as a dental indication itself.

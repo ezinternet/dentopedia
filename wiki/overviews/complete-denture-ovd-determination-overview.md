@@ -28,13 +28,21 @@ source_wiki:
 > - 임상 워크플로: 한 가지에 의존하지 말고 ①안정위−자유공극(2–4 mm) ②발음(/s/ closest speaking space, /m/) ③안모·입술지지 ④필요시 안면계측·두부계측을 **교차 확인**, 환자 적응 고려해 점진 조정.
 > - 용어: 자유공극(Freeway Space, 안정위-교합위 차 ~2–4 mm), 안정위(rest position), 발음공간(closest speaking space).
 
-## One-line Summary
+## Three-line Summary
 
-Across one comprehensive review (Fayad 2025), one method-classification review (Alhajj 2017), one anthropometric-validity SR+MA (Goyal 2026), one EEG consequence study (Matsuda 2014) and a classic cephalometric rest-position study (Sheppard 1975), the consistent message is that **no single method reliably establishes complete-denture OVD** — clinicians must cross-check several (rest position + freeway space, phonetics, esthetics/facial, anthropometric, cephalometric), because the rest position alone is unstable and a wrong VD produces measurable functional and psychological harm; reduced VD specifically presents as a shortened lower face with mentalis strain (the "bunched chin" sign), and increased VD as a strained, elongated face.
+Synthesis of 5 papers (Fayad 2025 comprehensive review, Alhajj 2017 method classification, Goyal 2026 SR+MA of anthropometric validity, Matsuda 2014 EEG consequence study, Sheppard 1975 cephalometric rest-position study): no single method reliably establishes complete-denture OVD — the physiologic rest position alone is unstable (soft tissue masks skeletal change; shifts on denture insertion, Sheppard 1975), and anthropometric adjuncts are corroborating only (thumb length r ≈ 0.63 best correlate, I² = 99%, Goyal 2026).
 
-## 한줄요약
+A wrong VD produces measurable harm: acute +5 mm increase raises an EEG negative-mood indicator, and −3 mm decrease lowers occlusal force (Matsuda 2014); reduced VD presents clinically as shortened lower face, drooping commissures, angular cheilitis, and mentalis hyperactivity ("bunched chin"), while increased VD shows elongated face, strained incompetent lips, and clicking teeth during speech.
 
-총의치 OVD는 단일 기법으로 정확히 못 잡으며(안정위는 특히 불안정, Sheppard 1975), 여러 방법 교차검증이 표준 — 안면계측은 보조 지표(엄지/새끼손가락, Goyal 2026), VD 오류는 심리·교합력에 실제 악영향(Matsuda 2014); VD 과소 시 짧은 하안면·이근 과활성(턱끝 뭉침), 과다 시 긴 하안면·입술 긴장 (Fayad 2025).
+Clinical bottom line: cross-check at least three methods in sequence — rest position minus freeway space (2–4 mm), phonetics (/s/ closest speaking space), and esthetic/lip-support assessment — seek convergence rather than relying on any single technique, and adjust gradually allowing patient adaptation (Fayad 2025).
+
+## 세줄요약
+
+5편 종합(Fayad 2025 종합리뷰, Alhajj 2017 방법 분류, Goyal 2026 안면계측 SR+MA, Matsuda 2014 EEG 결과, Sheppard 1975 두부계측 안정위): 총의치 OVD를 정확히 잡는 단일 신뢰 기법 없음 — 안정위는 불안정(연조직이 골격 변화를 가리고, 의치 장착 시 이동, Sheppard 1975); 안면계측은 보조지표(엄지 길이 r≈0.63 최강, I²=99%, Goyal 2026).
+
+VD 오류는 실제 결과: +5mm 즉각 증가 시 EEG 부정 심리지표 상승, -3mm 감소 시 교합력 저하(Matsuda 2014); 과소 VD는 짧은 하안면·구각 처짐·구각구순염·이근 과활성("턱끝 뭉침"), 과다 VD는 긴 하안면·긴장된 입술·치아 부딪힘 소견(Fayad 2025).
+
+임상 결론: 안정위-자유공극(2–4mm) → 발음(/s/ 근접 발화 공간) → 안모·입술 지지 등 최소 3가지 방법을 교차 검증해 합의점을 찾고, 단계적으로 조정하며 적응 허용(Fayad 2025).
 
 ## Thesis
 

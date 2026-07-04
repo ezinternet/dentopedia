@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides the molecular mechanistic depth underpinning the keystone-pathogen concept introduced in [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]], detailing how P. gingivalis serially subverts epithelial cells, complement, neutrophil killing, and adaptive immunity to orchestrate community-wide dysbiosis.
 
-## One-line Summary
-Narrative review mechanistically dissecting how P. gingivalis manipulates host immunity — via FimA/SerB invasion of gingival epithelial cells, C5aR–TLR2 crosstalk suppressing iNOS killing and IL-12/IFN-γ immunity, gingipain-mediated complement evasion, and Mfa1–SspA/B interspecies signaling — to function as a keystone pathogen enabling periodontal dysbiosis.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: P. gingivalis의 분자적 면역 조작 기전 총정리 — FimA 침투, SerB의 NF-κB p65 탈인산화, C5aR-TLR2 crosstalk으로 iNOS·IL-12 억제, gingipain의 C3 분해로 보체 회피, Mfa1–SspA/B 종간 시그널링으로 keystone pathogen 역할 수행.
+Narrative review mechanistically dissecting how P.
+
+gingivalis manipulates host immunity — via FimA/SerB invasion of gingival epithelial cells, C5aR–TLR2 crosstalk suppressing iNOS killing and IL-12/IFN-γ immunity, gingipain-mediated complement evasion, and Mfa1–SspA/B interspecies signaling — to function as a keystone pathogen enabling periodontal dysbiosis.
+
+(incomplete)
+
+## 세줄요약
+
+Narrative review: P.
+
+gingivalis의 분자적 면역 조작 기전 총정리 — FimA 침투, SerB의 NF-κB p65 탈인산화, C5aR-TLR2 crosstalk으로 iNOS·IL-12 억제, gingipain의 C3 분해로 보체 회피, Mfa1–SspA/B 종간 시그널링으로 keystone pathogen 역할 수행.
+
+(incomplete)
 
 ## 1. Document Information
 - Eur J Immunol. 2014;44(2):328–338. NIH Public Access Author Manuscript.

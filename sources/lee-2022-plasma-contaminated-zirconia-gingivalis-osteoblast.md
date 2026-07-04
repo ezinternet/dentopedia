@@ -13,13 +13,23 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)에서 zirconia 표면의 제염(항균)과 골모세포 반응을 함께 본 in vitro 근거이자, **처리시간이 짧을 때만(60초) 유익하고 길어지면(300초+) 오히려 세균부착이 늘어나는** 비단조(non-monotonic) 용량반응을 보여주는 중요한 연구. [[wiki/implants/surface/plasma/alqutaibi-2023-cap-bacterial-reduction-implants-sr]] 제염 SR의 primary 근거.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study on contaminated zirconia: at 60 s of non-thermal plasma (NTP), Porphyromonas gingivalis adhesion did not differ from control (p=0.91), but adhesion significantly increased at 300 s and 600 s (p<0.05); meanwhile osteoblast (MC3T3-E1) activity on P. gingivalis-contaminated zirconia significantly increased at 72 and 96 h after 60/120 s NTP (p<0.017). Authors conclude 60 s NTP inhibits P. gingivalis proliferation and increases osseointegration on contaminated zirconia.
 
-## 한줄요약
+In vitro study on contaminated zirconia: at 60 s of non-thermal plasma (NTP), Porphyromonas gingivalis adhesion did not differ from control (p=0.91), but adhesion significantly increased at 300 s and 600 s (p<0.05);
 
-오염 지르코니아 in vitro: 비열 플라즈마(NTP) 60초에서는 Porphyromonas gingivalis 부착이 대조군과 차이 없음(p=0.91)이었으나 300·600초에서는 부착이 유의하게 증가(p<0.05); 한편 골모세포(MC3T3-E1) 활성은 60/120초 처리 후 72·96시간에 유의하게 증가(p<0.017). 저자 결론: 60초 NTP가 P. gingivalis 증식을 억제하고 오염 지르코니아의 골유착을 높임.
+meanwhile osteoblast (MC3T3-E1) activity on P.
+
+gingivalis-contaminated zirconia significantly increased at 72 and 96 h after 60/120 s NTP (p<0.017). Authors conclude 60 s NTP inhibits P. gingivalis proliferation and increases osseointegration on contaminated zirconia.
+
+## 세줄요약
+
+
+오염 지르코니아 in vitro: 비열 플라즈마(NTP) 60초에서는 Porphyromonas gingivalis 부착이 대조군과 차이 없음(p=0.91)이었으나 300·600초에서는 부착이 유의하게 증가(p<0.05);
+
+한편 골모세포(MC3T3-E1) 활성은 60/120초 처리 후 72·96시간에 유의하게 증가(p<0.017).
+
+저자 결론: 60초 NTP가 P. gingivalis 증식을 억제하고 오염 지르코니아의 골유착을 높임.
 
 ## 1. Document Information
 

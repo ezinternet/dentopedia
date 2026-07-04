@@ -16,13 +16,21 @@ text_filename: teles-2024-gutta-percha-points-mrsa-mssa-contamination.txt
 tags: [gutta-percha, contamination, MRSA, MSSA, staphylococcus-aureus, cross-infection, PCR]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro screen of 315 in-use gutta-percha points (2 brands, packages open 1 month) found only 6 (1.9%) contaminated — PCR-confirmed as 1 MRSA + 5 MSSA — and a 3% NaOCl 60-s chairside disinfection cleared all six (100%).
+In-vitro contamination screen of 315 gutta-percha points from packages in clinical use for 1 month (2 brands, 6 ISO gauges; BHI enrichment culture + chromogenic selective medium + PCR with mecA/MSSA-specific genes) sampling the realistic cross-infection scenario at a university dental clinic.
 
-## 한줄요약
+Only 6/315 points (1.9%) were contaminated, PCR-confirmed as 1 MRSA and 5 MSSA; a 3% NaOCl 60-second chairside disinfection protocol cleared all six (100% efficacy with no re-growth).
 
-사용 1개월 된 개봉 거타퍼차(GP) 포인트 315개 중 6개(1.9%)만 오염됐고, PCR로 MRSA 1개·MSSA 5개로 확인됐으며, 3% NaOCl 60초 체어사이드 소독으로 6개 전부(100%) 제거된 in-vitro 연구.
+GP-cone contamination is low but non-negligible given MRSA's nosocomial burden and national high-prevalence context; the 1-minute NaOCl protocol is sufficient and extended immersion (>1 min) risks GP elasticity loss and chloride-crystal formation.
+
+## 세줄요약
+
+포르투 대학 치과 클리닉에서 1개월 사용 중인 개봉 GP 포인트 315개(2 브랜드, ISO 6게이지)를 BHI 배양·발색 선택 배지·PCR(mecA/MSSA 특이 유전자)로 스크리닝한 in-vitro 감염관리 연구다.
+
+315개 중 6개(1.9%)만 오염됐으며, PCR로 MRSA 1개·MSSA 5개로 확인됐다; 3% NaOCl 60초 진료실 소독으로 6개 전부 제거됐다(100% 효능, 재배양 음성).
+
+GP 포인트 오염률은 낮으나 MRSA의 원내 부담과 포르투갈의 높은 MRSA 유병률을 고려하면 무시할 수 없으며, 1분 NaOCl 프로토콜로 충분하고 그 이상 침지 시 GP 탄성 손실·염화물 결정 형성의 위험이 있다.
 
 ## Summary
 

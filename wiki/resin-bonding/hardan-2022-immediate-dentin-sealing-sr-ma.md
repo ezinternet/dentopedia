@@ -13,11 +13,21 @@ source_collection: external
 tags: [ids, immediate-dentin-sealing, indirect-restoration, bond-strength, etch-and-rinse, flowable-resin]
 ---
 
-## One-line Summary
-In-vitro SR+MA of 21 studies on immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) for indirect restoration cementation: IDS improved bond strength for both immediate (p<0.001) and aged (p=0.001) testing, with the advantage driven mainly by 3-step etch-and-rinse adhesives and adhesive + flowable resin overlay combinations.
+## Three-line Summary
 
-## 한줄요약
-IDS의 결합강도 효과를 정량화한 in vitro SR/MA (21편): IDS가 즉시·노화 모두에서 DDS 대비 결합강도 우세, 가장 큰 효과는 3-step EAR 또는 (접착제 + flowable resin) 조합에서.
+In vitro SR+MA (PRISMA; PubMed/Cochrane/ISI/Scielo/Scopus/Embase through Jan 2022; 3,717 initial hits; 21 studies included) comparing immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) for bond strength of indirect restoration cementation.
+
+IDS significantly improved bond strength vs DDS at both immediate (p<0.001) and aged (thermocycling/water storage, p=0.001) testing; the advantage was driven by 3-step EAR adhesives (strongest effect) and adhesive + flowable resin overlay combinations; 2-step EAR and 1-step SE subgroups showed no significant benefit.
+
+3-step EAR adhesive with a flowable resin overlay is the most reliable IDS protocol — though this is in vitro only and clinical RCT translation is still needed to confirm patient-level benefits.
+
+## 세줄요약
+
+In vitro 체계적 문헌고찰+메타분석(PRISMA; PubMed·Cochrane·ISI·Scielo·Scopus·Embase, 2022년 1월까지; 초기 3,717편; 21편 포함): 간접 수복물 합착 시 즉시 상아질 실링(Immediate Dentin Sealing, IDS) vs 지연 상아질 실링(Delayed Dentin Sealing, DDS)의 결합강도 비교.
+
+IDS가 즉시(p<0.001)·노화(p=0.001) 모두에서 DDS보다 유의하게 높은 결합강도; 3-step 산부식-세척(Etch-and-Rinse, ER) 접착제와 (접착제 + 유동성 레진 오버레이) 조합에서 효과 최대; 2-step ER·1-step SE 하위군에서는 유의한 이점 없음.
+
+3-step ER 접착제 + 유동성 레진 오버레이가 가장 신뢰할 수 있는 IDS 프로토콜이나, 현재는 in vitro 근거만 있으며 임상 RCT에서의 환자 수준 이점 확인이 필요함.
 
 ## Summary
 SR+MA of 21 in vitro studies (3,717 initial hits) on bond strength of IDS vs DDS for indirect restoration cementation. Overall, IDS improved bond strength for both immediate (p<0.001) and aged (p=0.001) testing. Subgroup analysis revealed advantage was driven mainly by 3-step etch-and-rinse adhesives and by adhesive + flowable resin combinations; 2-step EAR and 1-step SE subgroups showed no significant advantage. Authors recommend 3-step EAR + flowable resin overlay as the most reliable IDS protocol.

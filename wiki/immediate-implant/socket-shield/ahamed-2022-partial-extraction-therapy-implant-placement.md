@@ -13,13 +13,21 @@ source_collection: external
 tags: [socket-shield, partial-extraction-therapy, pontic-shield, root-submergence, immediate-implant, emergence-profile]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of partial extraction therapy (PET) — socket shield, pontic shield, and root submergence — describing how retaining root structure preserves buccal bone and soft tissue, improves emergence profile, and reduces grafting needs at immediate implant placement, while noting the lack of standardized shield-design protocols.
+Narrative review of partial extraction therapy (PET) encompassing socket shield, pontic shield, and root submergence techniques for implant site development; no quantitative synthesis.
 
-## 한줄요약
+Retaining root structure at implant placement preserves buccal bone and peri-implant soft tissue, improves emergence profile and esthetics, reduces grafting needs, and shortens treatment time compared to full extraction.
 
-부분발치술(PET — 소켓 쉴드·폰틱 쉴드·치근 매몰) 서술적 리뷰 — 치근 구조를 보존하면 협측골·연조직이 유지되고 emergence profile이 개선되며 골이식 필요가 줄지만, 표준화된 쉴드 디자인 프로토콜이 부재함을 지적.
+No published study clearly standardizes shield design protocols, limiting PET to a practitioner-oriented primer rather than evidence-based guidance; lack of standardization is the primary limitation.
+
+## 세줄요약
+
+부분발치술(Partial Extraction Therapy, PET) — 소켓 쉴드·폰틱 쉴드·치근 매몰 기법의 서사적 고찰; 정량적 합성 없음.
+
+치근 구조 보존이 협측골·연조직 유지, emergence profile 개선, 골이식 감소 및 치료기간 단축으로 이어진다고 서술.
+
+표준화된 쉴드 디자인 프로토콜이 부재하여 근거 기반 지침이 아닌 술자 안내서 수준에 그치며, 프로토콜 표준화 부재가 핵심 한계.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 HF 산 농도가 장석계 세라믹의 레진 접착 내구성에 미치는 영향을 정량적으로 비교한 in vitro 연구로, [[resin-bonding/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength]]의 표면 처리 프로토콜(HF 에칭 후 실란)에 대한 농도 선택 근거를 보강한다. 1%~10% HF 비교 데이터가 임상 프로토콜 수립에 필요하다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In vitro RCT (n=40 blocks, Vita Mark II): HF ≥3% provides durable resin bond to feldspathic ceramic after 230-day aging + 12,000 thermocycles, while 1% HF shows significant bond strength degradation.
 
-## 한줄요약
+(incomplete)
 
-In vitro (n=40, Vita Mark II): HF 농도 3% 이상에서 장기 열순환 후에도 레진 접착력 유지; 1% HF는 접착력 유의하게 감소.
+(incomplete)
+
+## 세줄요약
+
+
+In vitro (n=40, Vita Mark II): HF 농도 3% 이상에서 장기 열순환 후에도 레진 접착력 유지;
+
+1% HF는 접착력 유의하게 감소.
+
+(incomplete)
 
 ## 1. Document Information
 

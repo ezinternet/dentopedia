@@ -9,7 +9,7 @@ pdf_filename: kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 OLP를 OPMD로 분류하는 것의 근거와 한계를 비판적으로 검토한 letter/appraisal.
 
 ## 1. Document Information

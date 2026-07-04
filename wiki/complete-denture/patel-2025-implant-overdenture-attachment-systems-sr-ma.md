@@ -13,11 +13,21 @@ source_collection: external
 tags: [overdenture, attachment, locator, bar, telescopic, magnet, prosthodontic-complications]
 ---
 
-## One-line Summary
-SR+MA (14 RCT/crossover trials, all low risk of bias): among implant overdenture attachment systems, bar gives the highest retention, telescopic the highest patient satisfaction, locator is favorable for limited interarch space or angulated implants, and magnet performs worst on both retention and soft-tissue response; implant survival is independent of attachment type.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(RCT/크로스오버 14편): 임플란트 오버덴쳐 어태치먼트 중 **바**는 유지력 최고, **텔레스코픽**은 환자만족도 최고, **로케이터**는 협소한 악간공간·경사 임플란트에 유리, **자석**은 유지력·연조직 반응 모두 열위; 임플란트 생존율은 어태치먼트 종류와 무관.
+SR+MA of 14 RCTs/crossover trials (2010–2020, all low risk of bias via Cochrane RoB tool) compared bar, locator, ball, telescopic, and magnet attachments for mandibular implant overdentures on retention, tissue response, patient satisfaction, and implant survival.
+
+Bar attachments achieved the highest retention, telescopic attachments the highest patient satisfaction, locator attachments were advantageous with limited interarch space (<10 mm) or angulated implants (up to ~40°), and magnet attachments performed worst on both retention and soft-tissue response.
+
+Implant survival did not differ significantly across attachment types, meaning attachment choice should be driven by anatomical constraints, hygiene access, and patient expectations rather than fear of implant failure.
+
+## 세줄요약
+
+SR+MA(RCT/크로스오버 14편, 2010–2020, Cochrane RoB 저위험)로 하악 임플란트 오버덴처 어태치먼트 5가지(바·로케이터·볼·텔레스코픽·자석)를 유지력·연조직 반응·환자만족도·임플란트 생존율 측면에서 비교하였다.
+
+바 어태치먼트가 유지력 최고, 텔레스코픽이 환자만족도 최고, 로케이터는 협소한 악간공간(<10 mm)이나 경사 임플란트(최대 ~40°)에 유리하였으며, 자석은 유지력과 연조직 반응 모두 열위였다.
+
+임플란트 생존율은 어태치먼트 종류와 무관하여, 어태치먼트 선택은 해부학적 제약·위생관리 접근성·환자 기대치에 따라 결정해야 한다.
 
 ## Summary
 Edentulism is common in older adults, and implant-supported overdentures (OD) improve retention and patient satisfaction over conventional dentures. The choice of attachment system, however, materially affects peri-implant tissue response, prosthodontic maintenance, and patient-reported outcomes. This 2025 systematic review and meta-analysis pooled 14 randomized or crossover trials (2010–2020) on mandibular implant overdentures with ≥1-year follow-up, all rated low risk of bias, to compare attachment systems head-to-head.

@@ -17,13 +17,23 @@ text_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.t
 
 기존 GBR barrier 페이지들은 non-resorbable(Ti-mesh/PTFE)과 collagen membrane에 집중돼 있고, resorbable space-maintaining *scaffold*(PCL/PLGA/β-TCP/poly-D-L-lactide)가 Ti-mesh를 대체할 수 있는지 묻는 직접적 SR 근거가 비어 있었다. 본 Seiler 2026 SR은 resorbable scaffold가 second-stage mesh removal을 피하는 대안임을 제시하되 근거 수준이 낮음을 명시 — [[bone-regeneration/wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct]]의 단일 PLA membrane RCT와 [[bone-regeneration/liu-2026-barrier-membranes-gbr-design-applications]]의 막 설계 리뷰를 묶는 상위 합성 근거로 활용. degradation kinetics gap은 [[bone-regeneration/kim-2025-serine-collagen-scaffold-degradation]]의 scaffold 분해 연구와 직접 맞닿는다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/PROSPERO; 7 human studies, 39 patients, 45 ridges) finding resorbable scaffolds (PLA/PCL/PLGA/β-TCP) are a viable alternative to conventional grafting for alveolar ridge augmentation that avoids second-stage mesh removal, but evidence is too sparse and heterogeneous for meta-analysis (1 RCT, mostly case series; high risk of bias; degradation kinetics unreported in every study).
 
-## 한줄요약
+Systematic review (PRISMA/PROSPERO;
+
+7 human studies, 39 patients, 45 ridges) finding resorbable scaffolds (PLA/PCL/PLGA/β-TCP) are a viable alternative to conventional grafting for alveolar ridge augmentation that avoids second-stage mesh removal, but evidence is too sparse and heterogeneous for meta-analysis (1 RCT, mostly case series;
+
+high risk of bias; degradation kinetics unreported in every study).
+
+## 세줄요약
+
 
 체계적 문헌고찰(7개 임상연구, 환자 39명·치조제 45부위): resorbable scaffold(PLA/PCL/PLGA/β-TCP)는 2차 mesh 제거 수술을 피할 수 있는 conventional 골이식 대안으로 보이나, RCT 1편·대부분 증례군에 이질성이 커 메타분석 불가하고 비뚤림 위험이 높으며 모든 연구에서 분해속도(degradation time)가 보고되지 않았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

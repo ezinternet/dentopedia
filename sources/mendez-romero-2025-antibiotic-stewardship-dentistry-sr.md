@@ -17,13 +17,23 @@ text_filename: mendez-romero-2025-antibiotic-stewardship-dentistry-sr.txt
 
 치과 항생제 부적절 처방률(50–80%)과 항균제 내성(AMR) 문제가 반복적으로 등장하는 맥락에서, 기존 wiki에는 처방 현황 분석(sbricoli-2024, sutej-2024, mendez-millan-2024)만 있고 **중재 효과를 메타분석한 SR**이 없었음. 이 SR+MA(n=23 studies, k=10 in MA)는 감사(audit)·교육·디지털 도구가 부적절 처방을 70% 감소시킬 수 있다는 최초의 정량적 근거를 제공함. [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]]의 처방 현황 SR을 중재 효과 측면에서 확장.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 23 studies (1997–2023) finds that stewardship interventions — particularly audit+feedback and audit+education — reduce inappropriate antibiotic prescribing among dentists by 70% (95% CI 33.3%–86.4%), though evidence quality is low due to predominance of pre-post designs without control groups.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 항생제 처방 중재 SR+MA (23개 연구, 1997–2023): 감사·교육·피드백 기반 항생제 청지기 프로그램 (Antibiotic Stewardship Program, ASP)이 치과의사의 부적절 처방을 70% 감소시키나, 대부분 대조군 없는 사전-사후 설계로 근거 수준은 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

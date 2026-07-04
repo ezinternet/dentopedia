@@ -10,7 +10,7 @@ pdf_filename: ghimire-2022-medically-compromised-prosthodontic-patients.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review covering prosthodontic-specific modifications for 9 systemic disease groups: arthritis, CVD, endocrine, hematologic/oncologic, neurologic, bone disorders, pulmonary, liver, kidney disease.
 
 ## 1. Document Information

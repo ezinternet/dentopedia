@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]]의 재료·modality 비교를 독립 표본(21 RCT, 1,816 참가자, 1,948 치아)으로 재확인하기 위해 ingest. 본 J Oral Sci (Pusa 2025) SR+MA는 DPC에서 MTA가 Ca(OH)2보다 유의 우월(RR 1.21)함을 보여 anchor 결론을 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 21 RCTs (1,816 participants, 1,948 permanent teeth) finding direct pulp capping with MTA significantly more successful than calcium hydroxide (RR 1.21, 95% CI 1.02–1.42, P=0.03), with no significant MTA-vs-Biodentine or partial-vs-full-pulpotomy difference.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 21편 RCT(참가자 1,816명·치아 1,948개)의 SR+MA로, 직접치수복조에서 MTA가 수산화칼슘보다 유의하게 높은 성공률(RR 1.21, 95% CI 1.02–1.42, P=0.03)을 보였고 MTA vs Biodentine, 부분 vs 전체 치수절단술 간에는 유의차가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

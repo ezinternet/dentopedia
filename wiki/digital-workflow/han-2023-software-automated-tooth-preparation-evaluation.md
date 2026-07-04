@@ -18,13 +18,21 @@ relations:
     target: sadid-zadeh-2020-teeth-prepared-students-cadcam
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro feasibility study (35 graduate-prepared mandibular first molars) showing software-based automated evaluation (SAE) of crown tooth preparation via a computational geometric algorithm achieves perfect intra-rater agreement (vs moderate-to-good for human digitally assisted evaluation, DAE) with almost-perfect SAE–DAE agreement.
+In-vitro feasibility study (Sci Rep 2023, 35 graduate-student mandibular first molars prepared for single-unit anatomic-contour crowns) validating software-based automated evaluation (SAE) using a computational geometric algorithm for crown tooth preparation quality assessment.
 
-## 한줄요약
+SAE achieved perfect intra-rater agreement on all criteria (vs moderate-to-good for human digitally assisted evaluation, DAE); SAE–DAE inter-rater agreement was almost-perfect to substantial, with no significant score difference (p>0.05); mean TOC was 26.44° (MD) and 18.60° (BL), occlusal reduction 1.39–1.88 mm per cusp.
 
-In-vitro 타당성 연구(대학원생 형성 하악 제1대구치 35개): computational geometric algorithm 기반 자동 평가(SAE)는 crown 형성치의 교합면 삭제량·TOC를 완벽한 재현성으로 평가했고, 인간의 디지털 보조 평가(DAE, moderate~good)보다 일관됐으며 SAE–DAE 간 일치도도 거의 완벽했다.
+SAE removes the human-assigned-metric bottleneck of existing digital preparation tools and offers reliable, reproducible objective quantification of TOC and occlusal reduction for dental education feedback and clinical skill assessment.
+
+## 세줄요약
+
+In-vitro 타당성 연구 (Sci Rep 2023, 대학원생이 형성한 하악 제1대구치 35개): computational geometric algorithm 기반 자동 평가(SAE)로 단일 관 형성치의 품질 평가 타당성 검증.
+
+SAE는 모든 기준에서 완벽한 검사자 내 일치도(DAE의 moderate~good 대비); SAE–DAE 검사자 간 일치도는 거의 완벽~상당 수준이며 점수 차이 비유의(p>0.05); 평균 TOC 26.44°(MD)·18.60°(BL), 교합면 삭제량 큐스프당 1.39–1.88 mm.
+
+SAE는 기존 디지털 형성 도구의 인간 의존적 측정 병목을 제거하고 TOC·교합면 삭제량의 신뢰성 있는 객관적 정량화를 치과 교육 피드백 및 임상 술기 평가에 제공한다.
 
 ## Summary
 

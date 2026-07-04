@@ -14,7 +14,7 @@ source_collection: external
 
 [[sinus-lift/pseudocyst/yu-2023-immediate-delayed-sinus-pseudocyst-rct]]가 "언제(when)"를 다뤘다면 본 연구는 "무엇을(what)" — 점액낭종을 **제거 vs 잔존**시킬지를 다룬 후향 코호트. 3D volumetric 분석으로 hard/soft tissue 변화를 다시점 추적했다는 점에서 의사결정 트리에 필수.
 
-## One-line Summary
+## Three-line Summary
 후향 코호트 n=26 환자/38 implants (2016-2021): 점액낭종 제거군 (RC, n=13) vs 잔존군 (LC, n=13) — multilevel 3D volumetric change를 T1 (immediate postop) ~ T4 (2-5년)까지 비교. 두 그룹 모두 임플란트 식립 가능, 합병증 차이 분석.
 
 ## 1. Document Information

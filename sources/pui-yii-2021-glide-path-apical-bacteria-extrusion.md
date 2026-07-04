@@ -13,7 +13,7 @@ source_collection: external
 
 [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]]·[[endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]]가 glide path "shape" 측면을 다룬다면, 본 RCT는 "biological" 측면(apical bacterial extrusion) — flare-up 위험·post-op pain 직결. WaveOne Gold Glider reciprocation의 새 design이 manual K-file·One G 대비 bacterial extrusion 어떤지 의사결정 근거.
 
-## One-line Summary
+## Three-line Summary
 Ex-vivo extracted teeth E. faecalis 모델: 3 glide path system 모두 apical bacterial extrusion 측정 가능 — manual K vs One G vs WaveOne Gold Glider 간 유의차 분석 (본문에서 자세 결과는 PDF 직접 확인).
 
 ## 1. Document Information

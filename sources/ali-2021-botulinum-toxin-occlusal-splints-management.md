@@ -10,8 +10,21 @@ pdf_filename: ali-2021-botulinum-toxin-occlusal-splints-management.pdf
 source_collection: external
 ---
 
-## One-line Summary
-3-arm RCT (n=42, NCT04366869) in implant-overdenture (OD) bruxer patients: BTX and occlusal splints both significantly improved patient satisfaction (TMD/NS) and Pittsburgh Sleep Quality Index (PSQI) vs. controls at 3, 6, 9, 12 months; BTX provided the largest gains at 9-12 months.
+## Three-line Summary
+
+3-arm parallel single-blinded RCT (n=42, NCT04366869) in implant-overdenture patients with definite sleep bruxism (Bruxoff EMG/AASM criteria), comparing BTX injection vs. occlusal splint vs. nightly denture removal over 12 months.
+
+Both BTX and splint significantly improved patient satisfaction (TMD/NS) and Pittsburgh Sleep Quality Index (PSQI) vs. controls at all timepoints; BTX achieved the lowest scores (greatest improvement) for both outcomes, with the advantage over splints widening at 9–12 months (PSQI 5.04 vs. 6.94).
+
+BTX outperforms occlusal splints in implant-overdenture bruxers, particularly for long-term sleep quality; however, the modest sample (n=14/arm) and single-blind design limit confidence, and no direct VAS pain outcome was measured.
+
+## 세줄요약
+
+3군 평행 단일맹검 RCT(n=42, NCT04366869): 임플란트 오버덴쳐(OD) 착용 수면이갈이(SB) 환자에서 보툴리눔독소(BTX) 주사 vs 교합안정장치 vs 야간 의치제거 12개월 비교.
+
+BTX와 교합안정장치 모두 대조군 대비 환자만족도(TMD/NS)·수면질(PSQI)을 전 시점에서 유의하게 개선; BTX가 양 지표에서 가장 큰 개선을 보였고 9–12개월에 교합안정장치 대비 우위 심화(PSQI 5.04 vs 6.94).
+
+임플란트 오버덴쳐 이갈이 환자에서 BTX가 교합안정장치보다 장기 수면질 개선 효과 우수; 다만 소규모(군당 14명)·단일맹검 설계와 VAS 통증 지표 부재가 한계.
 
 ## 1. Document Information
 - **Journal**: Saudi Dental Journal 2021;33(8):1004-1011

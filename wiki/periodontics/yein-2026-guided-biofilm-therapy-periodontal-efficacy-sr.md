@@ -22,13 +22,21 @@ relations:
     target: stahli-2024-clinical-evaluation-novel-protocol-supportive
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (5 RCTs, n=231, Cochrane RoB-2 + GRADE very-low) finds Guided Biofilm Therapy (GBT) improves patient satisfaction, pain, and treatment time over scaling/root debridement (SRD) but does NOT consistently outperform SRD on PPD/CAL/BOP — no clinical superiority on disease-related outcomes.
+PRISMA SR (PROSPERO-registered; 8 databases; 5 RCTs, n=231; Cochrane RoB-2 + GRADE; descriptive synthesis) evaluating GBT (erythritol air-polishing + piezo scaling, no hand curettes) as standalone non-surgical periodontal therapy vs conventional scaling/root debridement (SRD).
 
-## 한줄요약
+GBT produced consistent patient-centered advantages (higher comfort, less perceived discomfort, sometimes reduced chair time) but did not consistently outperform SRD on PPD, CAL, or BOP (4/5 trials: no significant between-group difference); overall GRADE certainty was very low (downgraded for RoB, indirectness, imprecision, inconsistency).
 
-PRISMA 체계적 문헌고찰(RCT 5편, n=231, Cochrane RoB-2 + GRADE 매우 낮음): 유도생체막치료(Guided Biofilm Therapy, GBT)는 환자 만족도·통증·치료시간에서 전통적 스케일링·치근활택술(SRD)보다 나으나, PPD/CAL/BOP 1차 임상지표에서는 일관된 우위가 없음 — 질환 지표에서 임상적 우월성 근거 없음.
+Current evidence does not support clinical superiority of GBT over SRD for disease-related periodontal outcomes; the value proposition of GBT is comfort and efficiency, not better periodontal healing, and the evidence base (5 RCTs, n=231) is insufficient to change practice guidelines.
+
+## 세줄요약
+
+PROSPERO 등록 PRISMA SR (8개 데이터베이스; RCT 5편, n=231; Cochrane RoB-2 + GRADE; 기술적 합성): GBT(에리스리톨 에어폴리싱+피에조 스케일링, 수기기구 미사용)를 비외과 치주치료 단독 중재로서 전통적 SRD와 비교.
+
+GBT는 환자 중심 결과(편안감·통증 감소·치료시간 단축)에서 일관된 이점을 보였으나, PPD·CAL·BOP에서는 5편 중 4편이 군간 유의차 없음; 전체 GRADE 근거 수준 매우 낮음(비뚤림 위험·간접성·비정밀성·비일관성으로 강등).
+
+GBT는 질환 관련 임상 결과에서 SRD 대비 임상적 우월성 근거 없음; 가치는 편안함과 효율성이며, 현재 근거(RCT 5편, n=231)는 진료지침 변경에 불충분함.
 
 ## Summary
 

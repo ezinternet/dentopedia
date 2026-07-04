@@ -19,13 +19,21 @@ relations:
     target: mohsen-2024-vitamin-d-deficiency-osseointegration-prospective
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (174 implants / 109 patients) found NO statistically significant correlation between low serum vitamin D and early dental implant failure — the 8 failed cases even had a higher mean serum vitamin D (42.54 ng/mL) than successful patients (31.92 ng/mL).
+Prospective cohort (174 implants / 109 patients) measuring serum vitamin D on the day of implant placement and following patients to restoration (~3–6 months) to assess correlation with early dental implant failure.
 
-## 한줄요약
+No statistically significant correlation was found between low serum vitamin D and early failure; counterintuitively, the 8 failed cases had a higher mean serum vitamin D (42.54 ng/mL) than the 101 successful patients (31.92 ng/mL).
 
-전향적 코호트(임플란트 174개 / 환자 109명)에서 낮은 혈청 25-하이드록시비타민 D(serum 25(OH)D)와 조기 임플란트 실패(Early Dental Implant Failure, EDIF) 사이에 유의한 상관관계가 없었던 음성 결과(negative/no-correlation) 연구 — 실패한 8건은 오히려 성공군(31.92 ng/mL)보다 높은 평균 비타민 D(42.54 ng/mL)를 보임.
+This null finding tempers a one-directional reading of the vitamin D–osseointegration literature; small failure-event count (n=8) limits statistical power and the directional reversal may reflect chance.
+
+## 세줄요약
+
+전향적 코호트(임플란트 174개/환자 109명): 임플란트 식립 당일 혈청 25-하이드록시비타민 D(serum 25-hydroxyvitamin D, 25(OH)D) 측정 후 보철 수복(약 3–6개월)까지 추적해 조기 임플란트 실패(Early Dental Implant Failure, EDIF)와의 상관관계를 분석.
+
+낮은 혈청 비타민 D와 조기 실패 사이에 유의한 상관관계 없음(음성 결과); 오히려 실패 8건의 평균 비타민 D(42.54 ng/mL)가 성공군(31.92 ng/mL)보다 높아 역방향성 관찰.
+
+실패 사례 수가 8건으로 검정력이 제한적이며 역방향성은 우연일 수 있으나, 비타민 D–골유착 문헌의 일방향적 해석에 균형을 제공하는 반례 연구이다.
 
 ## Summary
 

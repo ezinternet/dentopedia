@@ -32,13 +32,21 @@ source_wiki:
 > - 연결부 선택: 내부 연결 (Internal Connection, IC) 특히 모스 테이퍼 (Morse taper) 가 외부 육각형 (External Hexagon, EH) 대비 마이크로갭 (microgap) 이 치조정 골에서 멀어져 세균 오염 감소 + 나사 안정성 우수 — 플랫폼 스위칭과 조합 시 변연골소실 (MBL) 최소화 (Seong 2016 대한치과의사협회지 서술리뷰). [합의수준]
 > - 임상 메모: 단일 임플란트 10년 추적에서 인접접촉상실 (Proximal Contact Loss, PCL) 이 흔하므로 "5–10년 사이 보철 조정이 필요할 수 있다"를 환자 설명에 포함한다.
 
-## One-line Summary
+## Three-line Summary
 
-General-implant clinical decision ladder integrating ~130 papers (implants top-level + surface + ISQ) across 6 axes — patient risk factors (smoking/periodontitis/bone density/systemic disease), implant design (short implants/platform switching/tissue-vs-bone level/connection), drill thermal & preparation protocol, peri-implant soft tissue, peri-implantitis prevention/diagnosis/treatment, and prosthetic format. Core thesis: stratify by risk (peri-mucositis 43–46%/peri-implantitis 21–22%; smoking early-failure OR 2.59; Type IV bone failure 1.5–1.9×), prefer short implants and platform switching where augmentation can be avoided, maintain keratinized tissue ≥2 mm, and manage thermal stress; ISQ, surface, and OD depth are delegated to dedicated overviews.
+General-implant clinical decision ladder integrating ~130 papers across 6 axes: patient risk stratification (peri-mucositis 43–46% / peri-implantitis 21–22% prevalence; smoking early-failure OR 2.59; Type IV bone failure 1.5–1.9×; Galarraga-Vinueza 2025 SR+MA n=13,030; Rosa 2024 SR+MA; Fan 2024 SR+MA), implant design (short ≤6 mm implants non-inferior to augmentation+long with 68% fewer complications at 5–8y; platform switching reduces MBL 0.255–0.49 mm), and drill thermal / soft-tissue / peri-implantitis / prosthetic format axes.
 
-## 한줄요약
+Core thesis: risk stratification drives timing and protocol (Low/Moderate/High tiers), short implants and platform switching are preferred when augmentation can be avoided, keratinized tissue ≥2 mm must be maintained; drill thermal stress is an underappreciated failure variable (47°C/1-min threshold) mitigated by osseodensification technique; ISQ, surface, and OD details are delegated to dedicated overviews.
 
-임플란트 일반 5축 — 환자 위험인자(흡연·치주염력·골밀도·전신질환) · 임플란트 디자인(short·platform switching·tissue vs bone level) · Drill thermal·preparation protocol · 연조직 · peri-implantitis 예방·진단·치료. EFP/AAP Workshop SR + Cochrane + 2024–2026 신규 SR-MA를 thesis 분기·결정 트리에 통합.
+Peri-implantitis management follows a stepwise ladder: mucositis (BoP+, no bone loss) → non-surgical debridement + CHX; peri-implantitis (BoP+, bone loss ≥2 mm) → non-surgical ± adjunct antibiotics (PPD −0.6 to −1.15 mm extra) → unresolved cases → surgical resective or regenerative.
+
+## 세줄요약
+
+임플란트 일반 임상 결정 ladder 6축 (~130편 통합): 위험 계층화(임플란트주위 점막염 43–46%·임플란트주위염 21–22%; 흡연 조기실패 OR 2.59; Type IV 골 실패 1.5–1.9배; Galarraga-Vinueza 2025 SR+MA n=13,030; Rosa 2024; Fan 2024), 디자인(단기 ≤6 mm 임플란트 5–8년 비열등+합병증 68%↓; 플랫폼스위칭 MBL 0.255–0.49 mm 감소), 드릴 열·연조직·임플란트주위염·보철 형식 축.
+
+핵심: 위험 Low/Moderate/High 계층으로 시기·프로토콜 결정, 골증대 회피 가능하면 단기 임플란트·플랫폼스위칭 우선, 각화점막 ≥2 mm 유지; 드릴 열 응력(47°C/1분 임계값)이 과소평가된 실패 변수, 골밀도화로 일부 경감; ISQ·표면처리·OD 깊이는 전용 overview로 위임.
+
+임플란트주위염 관리 ladder: 점막염(BoP+, 골소실 없음) → 비외과 debridement + CHX; 임플란트주위염(BoP+, 골소실 ≥2 mm) → 비외과 ± 항생제 보조(PPD −0.6~−1.15 mm 추가) → 미해소 → 절제형/재생형 외과.
 
 ## Summary
 

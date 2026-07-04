@@ -17,13 +17,23 @@ text_filename: wang-2022-unopposed-molar-overeruption-implant-cbct.txt
 
 임상 질문: 대합치가 없는 치아(unopposed tooth)의 정출(overeruption)이 보철 계획에 얼마나 영향을 주는가, 그리고 그 정출이 endo치(실활치) vs 생활치에 따라 달라지는가. 기존 occlusion 카테고리에는 [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]](임플란트 단관의 시간 경과 교합접촉 변화)는 있으나 **대합치 상실 자체로 인한 자연치 정출의 정량 데이터**가 없었다. 본 CBCT 코호트(Wang 2022)는 발치~임플란트 보철 사이 ~9개월 동안 unopposed molar가 평균 0.43 mm(최대 0.75 mm) 정출함을 3D로 측정해 그 공백을 메운다. 정출이 치수 생활력(pulp vitality)이 아니라 치주인대(PDL)·치조골 매개 현상임을 뒷받침하는 근거로도 활용 — 어떤 측정도 endo/vital을 층화하지 않았다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective CBCT cohort (59 patients, 68 unopposed molars): unopposed molars over-erupted a mean 0.43 mm (max 0.75 mm) and tipped 1.7° buccally within ~9 months between antagonist extraction and implant restoration — overeruption is fastest early and is a true 3D movement (vertical + tipping + rotation).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 CBCT 코호트(환자 59명·대합치 없는 대구치 68개): 대합치 발치부터 임플란트 보철까지 약 9개월 사이 대합치 없는 대구치가 평균 0.43 mm(최대 0.75 mm) 정출하고 협측으로 1.7° 경사 — 정출은 초기에 가장 빠르며 수직 이동·경사·회전이 섞인 3차원 움직임이다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

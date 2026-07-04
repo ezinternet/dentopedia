@@ -13,13 +13,21 @@ source_collection: external
 tags: [pdrn, keratinized-tissue, soft-tissue, animal, dose-response]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Canine preclinical study (5 dogs, 20 buccally positioned implants) comparing FGG vs XCM vs XCM+PDRN 2 mg/mL vs 4 mg/mL for keratinized-tissue (KT) regeneration: PDRN 2 mg/mL approached FGG on histomorphometric KT outcomes with no added benefit from 4 mg/mL, but FGG still produced the greatest clinical KT height.
+Canine preclinical dose-response study (5 dogs, 20 buccally positioned implants, 4-group split-mouth: FGG / XCM / XCM+PDRN 2 mg/mL / XCM+PDRN 4 mg/mL) examining soft-tissue keratinized-tissue (KT) augmentation strategies for buccally placed implants with thin buccal plates.
 
-## 한줄요약
+XCM+PDRN 2 mg/mL histomorphometric KT outcomes approached FGG, while 4 mg/mL offered no additional benefit over 2 mg/mL; FGG still achieved the greatest clinically measured KT height (4.70 ± 1.00 mm vs. XCM 3.53 ± 0.60 mm).
 
-Canine 5마리 buccally positioned implant 모델에서 FGG/XCM/XCM+PDRN 2mg/4mg 비교. PDRN 2 mg/mL이 FGG와 비슷한 KT 형성을 보였으나 FGG가 clinical KT height에서 여전히 우위. 4 mg/mL은 추가 이득 없음.
+PDRN does not show a linear dose-response for KT regeneration, and XCM+PDRN 2 mg/mL may serve as an autograft-sparing alternative when palatal donor morbidity is a concern.
+
+## 세줄요약
+
+줄1: Canine 5마리 buccally positioned implant(얇은 buccal plate) 모델에서 FGG vs XCM vs XCM+PDRN 2mg/mL vs 4mg/mL의 4군 split-mouth 각화치은(KT) 재생 비교.
+
+줄2: XCM+PDRN 2 mg/mL이 조직형태학적 KT 결과에서 FGG와 유사; 4 mg/mL은 추가 이득 없음; FGG는 임상 KT 높이(4.70 mm)에서 여전히 우위.
+
+줄3: PDRN의 KT 재생 효과는 농도 증가에 비례하지 않으며 XCM+PDRN 2 mg/mL이 구개 공여부 이환을 피하는 자가이식 대안으로 유망.
 
 ## Summary
 

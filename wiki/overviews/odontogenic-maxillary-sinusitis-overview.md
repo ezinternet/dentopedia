@@ -53,13 +53,21 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 > - **FESS 거부 시 대안**: 만성 상악동염 + 완전 혼탁 환자에서 측방창 거상술 중 **의도적 슈나이더막 절개(#15 blade)로 구강내 배액·세척 후 동시 이식·식립** 시도 — 천공은 배액 후 긴장 해소로 자가 정복되어 별도 봉합 불요, 1년 추적 임플란트 100% 생존·부비동염 0건·자연공 개존 회복(Park 2024, n=2 흡연자). source-control-first 명제를 거상술 한 세션 안에 통합한 사례.
 > - **주의**: 예방축은 채워졌으나 대부분 관측연구이고 통합 위험점수의 예측 타당도를 검증한 RCT는 없음 — 점수화는 의사결정 보조이지 확정 도구 아님.
 
-## One-line Summary
+## Three-line Summary
 
-Across 10 papers, odontogenic maxillary sinusitis is a treat-the-source disease: it is under-recognised (30–40%+ of chronic/unilateral maxillary sinusitis), increasingly iatrogenic (implants/extractions ≈ half of cases), diagnosed by dual confirmation (dental exam + CBCT, where periodontal bone loss outweighs periapical lesions as a mucosal-thickening predictor), and resolved in 90–100% only when the dental source is controlled — with FESS as an adjunct (not a substitute) and oroantral fistula closure chosen by defect size (buccal fat pad superior for medium–large defects, acute repair ~95% vs chronic 67%).
+Synthesis of 10 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
 
-## 한줄요약
+Antibiotics alone fail for treatable odontogenic lesions; 90–100% resolution requires concurrent dental source removal (RCT/extraction/periodontal treatment/foreign-body removal) ± FESS — FESS independently achieves 96.5% success but is adjunctive, not a substitute for source control; one-stage dental+ESS achieves ~97% success with recurrence <1–6%.
 
-10편 종합: 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS)은 **원인(치아) 제거가 핵심**인 질환이다 — 과소진단(만성/단측 상악동염의 30–40%+), 의인성 증가(임플란트·발치가 약 절반), 이중확인 진단(치과검사 + CBCT, 여기서 치주골소실이 치근단병소보다 강한 점막비후 예측인자), 그리고 **치과적 감염원 제거가 동반될 때만** 90–100% 해소. 내시경 부비동수술(FESS)은 보조 수단이며, 구강상악동루(OAF) 폐쇄는 결손 크기로 선택(중대형엔 협측지방패드 우위, 급성 ~95% vs 만성 67%).
+Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm self-healing → <5 mm primary closure → ≥5 mm flap → >10 mm palatal rotation flap; buccal fat pad (BFP) is superior for medium-large defects (NMA OR 15 vs buccal advancement/palatal flap, Oliva 2024); acute primary closure achieves ~95% vs chronic secondary closure ~67% (Lazow 1999) — timing is the dominant outcome driver.
+
+## 세줄요약
+
+치성 상악동염(Odontogenic Maxillary Sinusitis, OMS) 10편 종합: OMS는 과소진단(만성 상악동염의 30–40%, 단측 혼탁의 45–72%가 치성)되고 있으며 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변(De Corso 2022); 이중확인 진단(부비동 영상 + 치성 원인)이 필수이고 치주골소실이 치근단병소보다 점막비후의 강한 예측인자(OR 2.2, Bisla 2022).
+
+항생제 단독 실패; 치과적 감염원 제거(근관치료·발치·치주처치·이물 제거) 병행 시에만 90–100% 해소 — FESS(내시경 부비동수술)는 단독 96.5% 성공이나 어디까지나 보조 수단이며, 치과+ESS 동시 진행은 성공률 ~97%(재발률 <1–6%).
+
+구강상악동루(Oroantral Fistula, OAF) 폐쇄는 크기+타이밍 결정: <3 mm 자연치유 / <5 mm 단순봉합 / ≥5 mm 피판; 중대형엔 협측지방패드(BFP) 우위(NMA OR 15, Oliva 2024); 급성 1차 폐쇄 ~95% vs 만성 지연 ~67%(Lazow 1999) — 타이밍이 결과를 좌우한다.
 
 ## Thesis
 

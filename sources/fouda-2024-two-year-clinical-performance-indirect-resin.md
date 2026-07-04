@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] compared direct vs indirect composite inlay/onlay broadly but did not resolve, within indirect CAD/CAM restorations of endodontically treated molars, whether cuspal coverage (overlay) outperforms cusp preservation (inlay). This 2024 2-year RCT reinforces the indirect-restoration evidence base by directly testing inlay vs overlay cavity design and favoring cuspal reduction in ETT.
 
-## One-line Summary
+## Three-line Summary
+
 
 2-year double-blind RCT (30 participants, MOD ETT molars): CAD/CAM nano-hybrid composite overlay (with cuspal reduction) showed better marginal adaptation, less discoloration/fracture, and less caries than the inlay (no cuspal reduction) design at 24 months.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 2년 이중맹검 RCT(30명, MOD 근관치료 대구치): CAD/CAM 나노하이브리드 복합레진 오버레이(교두삭제)가 인레이(교두보존) 대비 24개월 시점 변연적합 우수·변색/파절 적음·우식 적음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

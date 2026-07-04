@@ -13,13 +13,23 @@ source_collection: external
 
 총의치 수명(총의치 장수, longevity)에 대한 근거 기반 데이터가 부족한 상황에서, 이 SR+MA는 42개 연구를 풀링하여 상악/하악별 가중평균 수명과 실패율 추이를 정량화한 유일한 메타분석이다. [[wiki/complete-denture/sanjeevan-2021-efficiency-simplified-versus-traditional-denture]]에서 총의치 제작 효율을 다루지만, 완성된 보철물이 얼마나 오래 기능하는지에 대한 근거는 없어 임상적 수명 상담(교체 시기 안내)에 직접 활용 가능한 수치를 보완한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 42 studies found complete dentures have a weighted mean longevity of 10.1 ± 4.0 years overall, with maxillary dentures lasting longer (10.3 yr) than mandibular (8.6 yr), and failure proportions rising from 5% at ≤2 years to 41% at ≥10 years.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 42개 연구의 SR+MA 결과, 총의치 가중평균 수명은 10.1 ± 4.0년이며, 상악의치(10.3년)가 하악의치(8.6년)보다 길고, 실패율은 2년 이하 5%에서 10년 이상 41%로 증가한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

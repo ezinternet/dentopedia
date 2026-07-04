@@ -18,11 +18,21 @@ relations:
     target: tabassum-2021-undersized-axial-compression-primary-stability
 ---
 
-## One-line Summary
-In-vitro polyurethane study (120 implants, 2 macrogeometries × 3 osteotomy techniques) showing undersized osteotomy improves stability only in PCF-20 (not PCF-10) bone, while healing-chamber macrogeometry retains more surface bone after pullout.
+## Three-line Summary
 
-## 한줄요약
-In-vitro 폴리우레탄 실험(120개) — undersized osteotomy는 PCF-20에서만 안정성 향상, 최저밀도 PCF-10에서는 한계; healing chamber 설계가 표면 잔류골 확보에 기여.
+In-vitro study (120 implants, 2 macrogeometries × 3 osteotomy techniques, n=20/group) in PCF-10 and PCF-20 polyurethane blocks measuring insertion torque, initial stability, pullout resistance, and residual surface bone weight.
+
+Undersized osteotomy significantly improved all measured stability values in PCF-20 (denser) blocks but failed to rescue primary stability in PCF-10 (lowest-density) blocks; healing-chamber macrogeometry retained more bone on the implant surface after pullout in both densities.
+
+There is a bone density floor below which undersized osteotomy alone cannot achieve adequate primary stability; healing-chamber macrogeometry functions as a complementary lever when drilling modification is insufficient.
+
+## 세줄요약
+
+In-vitro 연구 (임플란트 120개, 2가지 거시형태 × 3가지 골절제 기법, 그룹당 n=20) — PCF-10 및 PCF-20 폴리우레탄 블록에서 삽입 토크, 초기 안정성, 풀아웃 저항, 잔류 표면골 중량 측정.
+
+Undersized osteotomy는 PCF-20(고밀도) 블록에서 모든 안정성 지표를 유의하게 향상시켰으나 PCF-10(최저밀도) 블록에서는 효과 없음; healing chamber 거시형태는 두 밀도 모두에서 풀아웃 후 표면 잔류골 더 많이 유지.
+
+Undersized osteotomy 단독으로는 극도로 낮은 골밀도에서 적절한 1차 안정성 확보가 불가능; healing chamber 거시형태는 드릴링 변형이 불충분할 때의 보완적 수단으로 기능.
 
 ## Summary
 This bench study separates two levers for primary stability in low-density bone — drilling technique and implant macrogeometry. Across 120 implants in PCF-10 and PCF-20 polyurethane blocks, undersized osteotomy significantly improved insertion torque, initial stability, and pullout resistance, but only in the denser PCF-20 blocks; in the lowest-density PCF-10 blocks all groups showed poor initial stability. Implants with healing-chamber macrogeometry retained more bone on their surface after pullout, suggesting macrogeometry is a complementary variable when drilling modification alone is insufficient.

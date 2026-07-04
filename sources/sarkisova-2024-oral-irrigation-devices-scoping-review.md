@@ -17,13 +17,23 @@ text_filename: sarkisova-2024-oral-irrigation-devices-scoping-review.txt
 
 The interdental-cleaning category holds several head-to-head water-flosser RCTs/SRs (e.g. [[interdental-cleaning/mohapatra-2024-water-flosser-vs-floss-plaque-sr]], [[interdental-cleaning/mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct]]) but no map of the *whole* oral-irrigator evidence base. This is the first broad scoping review (275 sources, 1962–2023) that frames device types, mechanism, safety, and the evidence gaps those narrower trials sit inside — an anchor/overview backbone for the category.
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (JBI / PRISMA-ScR; 275 sources spanning 1962–2023) mapping the entire oral-irrigation-device evidence base: oral irrigators consistently reduce periodontal/peri-implant inflammation (likely via microbiota modulation, not full biofilm removal), are safe and well-accepted when used correctly, but their plaque-removal effect is mixed and caries/PROM/pediatric/cost/environmental evidence is sparse.
 
-## 한줄요약
+Scoping review (JBI / PRISMA-ScR;
+
+275 sources spanning 1962–2023) mapping the entire oral-irrigation-device evidence base: oral irrigators consistently reduce periodontal/peri-implant inflammation (likely via microbiota modulation, not full biofilm removal), are safe and well-accepted when used correctly, but their plaque-removal effect is mixed and caries/PROM/pediatric/cost/environmental evidence is sparse.
+
+(incomplete)
+
+## 세줄요약
+
 
 스코핑 리뷰(JBI/PRISMA-ScR, 275편, 1962–2023): 구강세정기(oral irrigator)는 치주·임플란트주위 염증을 일관되게 줄이지만(완전 바이오필름 제거가 아니라 미생물총 조절이 기전으로 추정), 플라크 제거 효과는 엇갈리고 우식·환자보고결과·소아·비용·환경 근거는 부족하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

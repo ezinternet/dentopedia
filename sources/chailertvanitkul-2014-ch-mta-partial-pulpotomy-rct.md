@@ -9,8 +9,21 @@ pdf_filename: chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-소아(7–10세) 영구 구치 우식 노출 partial pulpotomy: Ca(OH)₂ vs MTA RCT(84개 치아) — 치료 성공률 비교.
+## Three-line Summary
+
+RCT of 84 caries-exposed permanent molars in 80 children aged 7–10 years (reversible pulpitis) comparing calcium hydroxide (Ca(OH)₂) and mineral trioxide aggregate (MTA) for partial pulpotomy; radiographic and clinical follow-up performed.
+
+MTA trended toward superior outcomes over Ca(OH)₂ for partial pulpotomy in cariously exposed permanent molar pulps in children; full quantitative data are abstract-based only.
+
+This early RCT confirmed partial pulpotomy as a viable vital pulp therapy in immature permanent teeth; small size, short follow-up, and pediatric-only population limit generalizability to mature permanent teeth in adults.
+
+## 세줄요약
+
+가역성 치수염이 있는 7–10세 소아 80명(84개 영구 구치)에서 우식 노출 치수에 대한 부분 치수절단술(Partial Pulpotomy) 시 Ca(OH)₂와 MTA를 비교한 RCT; 방사선·임상 추적 시행.
+
+MTA가 Ca(OH)₂보다 치료 성공률에서 우위 방향성을 보였으나 전체 정량 데이터는 초록 기반으로만 확인 가능.
+
+소아 영구치(미완성 치근) 대상의 초기 RCT로 부분 치수절단술의 적응증 확인; 소규모·단기 추적·소아 한정으로 성인 완성 치근에의 일반화 제한.
 
 ## 1. Document Information
 - **Title**: Randomized control trial comparing calcium hydroxide and mineral trioxide aggregate for partial pulpotomies in cariously exposed pulps of permanent molars

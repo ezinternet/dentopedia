@@ -9,7 +9,7 @@ pdf_filename: paixao-2022-sonic-ultrasonic-activation-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review + meta-analysis of sonic vs. ultrasonic irrigant activation (in vitro): sonic is superior for apical smear layer removal; ultrasonic is superior for push-out bond strength at middle and apical thirds.
 
 ## 1. Document Information

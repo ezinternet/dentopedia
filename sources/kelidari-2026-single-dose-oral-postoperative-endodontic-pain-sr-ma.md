@@ -17,13 +17,23 @@ text_filename: kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-m
 
 기존 [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] (동일 2저자 Samani의 NSAID 중심 endodontic network meta-analysis)을 보강·확장한다. 본 Kelidari 2026 NMA는 NSAID 단독에 그치지 않고 단회투여(single-dose) 후처치 약물 전체 — diclofenac+acetaminophen, Novafen(ibuprofen+acetaminophen+caffeine), naproxen, tramadol, ibuprofen+alprazolam — 를 6–8h/12h/24h 시간대별로 직접 순위화하여, "어느 단회투여 약을 처방할지"라는 임상 질문에 시간대별 답을 제공한다. 단회투여로 한정해 환자 순응도·부작용·비용 부담을 줄이는 실용적 처방 가이드라인.
 
-## One-line Summary
+## Three-line Summary
+
 
 Frequentist network meta-analysis (10 RCTs qualitative, 5 quantitative, n=347): single-dose oral analgesics after non-surgical RCT — Diclofenac+Acetaminophen best for immediate (6–8 h) relief (MD −6.28), Novafen and Naproxen sustained at 12–24 h.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 네트워크 메타분석 (RCT 10편 정성·5편 정량, n=347): 비수술 근관치료 후 단회투여 경구 진통제 중 디클로페낙+아세트아미노펜이 즉각(6–8h) 진통 최고(MD −6.28), 노바펜·나프록센이 12–24h 지속 효과 우수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

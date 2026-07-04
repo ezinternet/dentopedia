@@ -15,11 +15,21 @@ tags: [immediate-implant-placement, primary-stability, extraction-socket, osseoi
 ---
 
 
-## One-line Summary
-Clinical case report with literature review documenting successful osseointegration of an immediately placed implant despite the absence of primary stability, arguing that biological factors (bone density, cortical bone, healing potential) can compensate for mechanical deficiency when delayed loading (6+ months) and a modified surgical protocol are used.
+## Three-line Summary
 
-## 한줄요약
-증례보고: 1차 안정성 없이도 생물학적 요소(골밀도·피질골·치유잠재력)로 보상 가능; 6개월 이상 지연부하 + 변형 수술프로토콜 필요
+Case report with literature review documenting successful osseointegration of an immediately placed implant despite the absence of primary stability, using a modified surgical protocol.
+
+Biological factors (bone density, cortical bone, healing potential) can compensate for lack of mechanical fixation when delayed loading of 6+ months and careful gap management are applied.
+
+This case-level evidence supports the feasibility of immediate placement without primary stability in selected sites, but comparative outcome data are lacking.
+
+## 세줄요약
+
+1차 안정성이 없는 상태에서 즉시 식립한 임플란트의 성공적 골유착을 보고한 증례보고 및 문헌 고찰.
+
+골밀도·피질골·치유잠재력 등 생물학적 요소로 기계적 안정성 부재를 보상할 수 있었으며, 6개월 이상의 지연부하가 필수적이었다.
+
+증례 수준의 근거로 선택적 적응증에서 가능성을 시사하지만, 대조군 비교 데이터가 없어 일반화에 주의가 필요하다.
 
 # Immediate Implant Placement Without Primary Stability: Case Report and Evidence
 

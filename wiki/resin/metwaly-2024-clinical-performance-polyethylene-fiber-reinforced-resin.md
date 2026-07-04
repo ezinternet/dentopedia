@@ -16,13 +16,21 @@ relations:
     target: boaro-2019-bulk-fill-composites-clinical-properties-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-24-month double-blind RCT (n=240 ETT lower molars): polyethylene-fiber-reinforced bulk-fill vs plain bulk-fill resin composite showed no significant difference on any modified USPHS parameter, with Alpha scores for retention, gross fracture, and secondary caries at all intervals.
+24-month double-blind RCT (n=240, endodontically treated lower molars with Class II cavities, ClinicalTrials NCT05180903) comparing polyethylene-fiber-reinforced bulk-fill composite versus plain bulk-fill composite.
 
-## 한줄요약
+No significant between-group difference on any modified USPHS parameter at any time point (baseline, 6, 12, 24 months); both groups maintained Alpha scores for retention, gross fracture, and secondary caries throughout.
 
-24개월 이중맹검 RCT(n=240 근관치료 하악대구치): 폴리에틸렌섬유 강화 벌크필 vs 일반 벌크필 복합레진은 모든 modified USPHS 항목에서 유의차 없었고, 유지·파절·이차우식에서 전 시점 Alpha 점수 유지.
+Plain bulk-fill performs satisfactorily in structurally compromised endodontically treated molars; adding polyethylene-fiber reinforcement provided no measurable clinical advantage at 2 years.
+
+## 세줄요약
+
+24개월 이중맹검 RCT(n=240, 근관치료(Endodontically Treated Tooth, ETT) 하악대구치 Class II 와동, ClinicalTrials NCT05180903): 폴리에틸렌(Polyethylene) 섬유강화 벌크필 vs 일반 벌크필 복합레진 비교.
+
+기저·6·12·24개월 전 시점에서 모든 modified USPHS 항목의 군간 유의차 없음; 두 군 모두 유지·파절·이차우식에서 Alpha 점수 유지.
+
+구조가 취약한 근관치료 대구치에서도 일반 벌크필은 충분한 성적을 보이며, 폴리에틸렌 섬유강화가 2년 시점에서 측정 가능한 추가 이득을 제공하지 않음.
 
 ## Summary
 

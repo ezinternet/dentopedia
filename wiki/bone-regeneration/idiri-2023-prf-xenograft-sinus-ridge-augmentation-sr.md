@@ -16,13 +16,21 @@ relations:
     target: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR of 7 RCTs: PRF addition to DBBM/BioOss does not significantly improve histomorphometric outcomes in sinus lift, but may reduce graft resorption in mandibular GBR.
+Systematic review (PROSPERO CRD42023411160, PRISMA 2020) of 7 RCTs evaluating PRF or L-PRF added to DBBM/BioOss in sinus floor elevation and alveolar ridge augmentation; meta-analysis was not possible due to high clinical heterogeneity.
 
-## 한줄요약
+Across sinus lift RCTs, PRF + DBBM did not significantly improve new bone formation %, residual graft %, or soft tissue content vs DBBM alone; one mandibular GBR study demonstrated significant graft resorption reduction with PRF.
 
-7편 RCT SR: PRF+DBBM은 상악동거상술 조직형태계측 지표에서 유의한 이점 없음; 하악 GBR에서 이식재 흡수 감소 가능성 시사.
+PRF preparation protocol heterogeneity (solid PRF vs L-PRF, variable centrifugation) is the key barrier to pooling evidence; routine PRF adjunction to DBBM in sinus lift lacks sufficient RCT support for clinical recommendation.
+
+## 세줄요약
+
+7편 무작위대조시험(Randomized Controlled Trial, RCT) 체계적 문헌고찰(PROSPERO CRD42023411160): 상악동거상술 및 치조제 증대에서 다혈소판피브린(Platelet-Rich Fibrin, PRF) 또는 L-PRF를 DBBM/BioOss에 추가 시 효과 평가; 이질성으로 메타분석 불가.
+
+상악동거상술 RCT에서 PRF+DBBM은 신생골 형성률·잔여이식재율·연조직 함량 유의차 없음; 하악 GBR 1편에서만 PRF의 이식재 흡수 감소 유의.
+
+PRF 제조 프로토콜(고형 PRF vs L-PRF, 원심분리 조건) 이질성이 근거 합산의 핵심 장벽; 상악동거상술에서 PRF 일상적 사용은 현재 RCT 수준 근거 부족.
 
 ## Summary
 

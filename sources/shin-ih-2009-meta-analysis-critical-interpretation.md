@@ -9,8 +9,21 @@ pdf_filename: shin-ih-2009-meta-analysis-critical-interpretation.pdf
 source_collection: external
 ---
 
-## One-line Summary
-A Korean-language invited lecture (2009 KASL Autumn Conference) that walks clinicians through the rationale, prerequisites, statistical machinery, and common pitfalls of meta-analysis for critical appraisal.
+## Three-line Summary
+
+Korean-language invited lecture/handout (2009 KASL Autumn Conference, Catholic University of Daegu) providing a step-by-step introduction to meta-analysis rationale, statistical tools, and interpretation for clinicians — educational document with no original empirical results.
+
+Covers PICO framing, forest/funnel plot reading, pooled effect sizes for continuous (mean difference/Cohen's d) and categorical (OR/RR/rate difference) outcomes, publication bias sources, and heterogeneity testing with worked examples from 17 mixed-significance trials.
+
+Pre-dates PRISMA 2020, GRADE, and network meta-analysis — useful as a foundational Korean-language primer on classical meta-analysis but should be supplemented with current methodological standards.
+
+## 세줄요약
+
+한국어 초청 강의 자료(2009 대한간학회 추계학술대회, 대구가톨릭대 의학통계학과) — 메타분석의 개념, 통계 도구, 해석 실무를 임상의 대상으로 단계별 설명; 원저 실증 데이터 없음.
+
+PICO 설정부터 forest plot/funnel plot 해석, 연속·범주형 결과의 효과크기(d / OR/RR/rate difference), 발표 편향, 동질성 검정까지 17개 혼합 유의성 연구 예시로 정리.
+
+PRISMA 2020·GRADE·네트워크 메타분석 이전 자료 — 고전적 메타분석 한국어 입문서로 유용하나 최신 방법론 기준으로 보완 필요.
 
 ## 1. Document Information
 - Format: Invited lecture handout (proceedings S22–S32, Korean), Catholic University of Daegu, Department of Medical Statistics

@@ -13,11 +13,21 @@ source_collection: external
 
 신설 occlusion의 full-arch 임상 종합. 개별 FEA([[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]]·[[occlusion/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea]])·임상([[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]])을 위험요인 관점으로 묶는 narrative — occlusion overview의 임상 프레임 제공.
 
-## One-line Summary
-Narrative review of occlusion and biomechanical risk factors (cantilever, material, occlusal scheme, parafunction) in implant-supported full-arch fixed prostheses, with risk-reduction recommendations.
+## Three-line Summary
 
-## 한줄요약
-임플란트 지지 full-arch 고정성 보철의 교합·생역학 위험요인(캔틸레버·재료·교합양식·부기능)을 정리한 서술 고찰; 위험 저감 권고 포함.
+Narrative review of occlusion and biomechanical risk factors in implant-supported full-arch fixed prostheses, covering cantilever length, prosthetic material, occlusal scheme, and parafunction.
+
+Cantilever length, occlusal scheme design, parafunctional loading, and material selection are identified as the dominant biomechanical risk factors; specific risk-reduction design recommendations are provided at expert-consensus level.
+
+No quantitative meta-analysis was performed; findings reflect qualitative expert synthesis and should be integrated with higher-level RCT/SR evidence for individual clinical decisions.
+
+## 세줄요약
+
+임플란트 지지 전악 고정성 보철(Full-arch Fixed Dental Prostheses)의 교합·생역학 위험요인(캔틸레버 길이·재료·교합양식·부기능 하중)에 대한 서술 고찰.
+
+캔틸레버 길이·교합양식 설계·부기능(Parafunction)·재료가 핵심 생역학 위험 요인으로 확인; 위험 저감 설계 권고 전문가 합의 수준으로 제시.
+
+정량적 메타분석 없는 서술 고찰이므로 개별 임상 결정 시 RCT/SR 수준의 근거와 통합 필요.
 
 ## 1. Document Information
 J Pers Med 2025;15:65 · A. Berzaghi, T. Testori, R. Scaini, S. Bortolini · 2025 · DOI: 10.3390/jpm15020065. Study type: narrative-review.

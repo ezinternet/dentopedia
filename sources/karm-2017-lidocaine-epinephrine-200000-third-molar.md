@@ -10,7 +10,7 @@ pdf_filename: karm-2017-lidocaine-epinephrine-200000-third-molar.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Korean-language KDA Journal introduction of a multicenter, randomized, double-blind, crossover phase IV RCT (NCT02696369, n=65 enrolled / 51 analyzed) comparing 2% lidocaine + 1:80,000 vs 1:200,000 epinephrine for surgical extraction of bilateral impacted mandibular third molars — analgesic efficacy equivalent; hemodynamic safety (SBP, HR) significantly better with 1:200,000 epinephrine.
 
 ## 1. Document Information

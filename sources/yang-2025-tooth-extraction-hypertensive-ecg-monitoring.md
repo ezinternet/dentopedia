@@ -17,13 +17,23 @@ text_filename: yang-2025-tooth-extraction-hypertensive-ecg-monitoring.txt
 
 기존 [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]]가 심혈관계 부담 우려 환자에서 발치/마취의 안전성을 다루지만, 고혈압 환자의 발치 중 실시간 혈압·심전도 위험인자에 대한 정량 임계값은 없었다. 본 대규모 retrospective (n=2,059)는 술전 SBP ≥159 mmHg, 수술 시간, 발치 개수를 발치 중 심혈관 사건의 독립 예측인자로 제시해, medically compromised 환자의 발치 술전 평가·intraoperative 모니터링 의사결정 근거를 보강한다. [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]]가 다루는 polypharmacy 고령 환자군과 인구학적으로 겹친다 (평균 74.6세, 70% 동반질환).
 
-## One-line Summary
+## Three-line Summary
 
-Single-center retrospective case-control study (n=2,059 extractions in 1,314 hypertensive patients under intraoperative ECG monitoring): 8.01% needed intraoperative antihypertensive drugs and 37.20% developed transient new-onset ECG abnormalities (all non-lethal); preoperative SBP ≥159 mmHg (AUC 0.91) and operative time (OR 3.62) predicted BP intervention, while age, female sex, cerebrovascular disease, number of teeth extracted, and operative time predicted ECG abnormalities.
 
-## 한줄요약
+Single-center retrospective case-control study (n=2,059 extractions in 1,314 hypertensive patients under intraoperative ECG monitoring): 8.01% needed intraoperative antihypertensive drugs and 37.20% developed transient new-onset ECG abnormalities (all non-lethal);
 
-고혈압 환자 발치 2,059건 후향 연구: 8.01%가 발치 중 혈압강하제 필요, 37.20%에서 일과성 신규 부정맥(모두 비치명적) 발생; 술전 SBP ≥159 mmHg(AUC 0.91)와 수술시간이 혈압 개입을, 고령·여성·뇌혈관질환·발치개수·수술시간이 신규 심전도 이상을 예측.
+preoperative SBP ≥159 mmHg (AUC 0.91) and operative time (OR 3.62) predicted BP intervention, while age, female sex, cerebrovascular disease, number of teeth extracted, and operative time predicted ECG abnormalities.
+
+(incomplete)
+
+## 세줄요약
+
+
+고혈압 환자 발치 2,059건 후향 연구: 8.01%가 발치 중 혈압강하제 필요, 37.20%에서 일과성 신규 부정맥(모두 비치명적) 발생;
+
+술전 SBP ≥159 mmHg(AUC 0.91)와 수술시간이 혈압 개입을, 고령·여성·뇌혈관질환·발치개수·수술시간이 신규 심전도 이상을 예측.
+
+(incomplete)
 
 ## 1. Document Information
 

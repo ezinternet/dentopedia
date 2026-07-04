@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]](의료 일반)와 [[wiki/behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]](성인 치주)의 MI 근거가 "치과 일반진료(GDP)"에 적용되는지 보강 필요. 본 SR(Kay 2016, BDJ)은 dental practice에 한정한 8편 평가로, MI를 치과 팀 스킬셋에 도입할지에 대한 영국 가이드 근거. Rogers 2022가 이 SR을 직접 인용.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (8 papers; 5 RCTs) of motivational interviewing within general dental practice — all 5 RCTs showed MI-inclusive interventions positively affected oral health and health behaviour; MI proposed as a high-value addition to the dental team skill set.
 
-## 한줄요약
+Systematic review (8 papers;
 
-치과 일반진료에 한정한 MI 체계적 문헌고찰(8편, RCT 5편) — RCT 5편 전부에서 MI 포함 개입이 구강건강·건강행동에 긍정적 효과. MI를 치과 팀 스킬셋에 추가할 가치가 있다는 영국발 근거.
+5 RCTs) of motivational interviewing within general dental practice — all 5 RCTs showed MI-inclusive interventions positively affected oral health and health behaviour;
+
+MI proposed as a high-value addition to the dental team skill set.
+
+## 세줄요약
+
+
+치과 일반진료에 한정한 MI 체계적 문헌고찰(8편, RCT 5편) — RCT 5편 전부에서 MI 포함 개입이 구강건강·건강행동에 긍정적 효과.
+
+MI를 치과 팀 스킬셋에 추가할 가치가 있다는 영국발 근거.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: British Dental Journal 2016;221(12):785–791

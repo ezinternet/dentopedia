@@ -13,11 +13,21 @@ source_collection: external
 
 신설 local-anesthesia. [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]]가 1차 BI를 다룬다면, 본 NMA는 IANB 실패 후 보충 전략을 정량화 - 마취 의사결정 트리 핵심.
 
-## One-line Summary
-Network MA (28 RCTs) - both supplementary-after-failure (SUPP, RR 2.02) and combined-as-primary (COMB, RR 1.86) injections significantly outperform IANB alone for irreversible pulpitis; SUPP and COMB are comparable.
+## Three-line Summary
 
-## 한줄요약
+Network MA (28 RCTs) - both supplementary-after-failure (SUPP, RR 2.02) and combined-as-primary (COMB, RR 1.86) injections significantly outperform IANB alone for irreversible pulpitis;
+
+SUPP and COMB are comparable.
+
+(incomplete)
+
+## 세줄요약
+
 네트워크 MA(28 RCT) - 비가역 치수염에서 IANB 단독 대비 실패후 보충주사(SUPP, RR 2.02)·1차 병용주사(COMB, RR 1.86) 모두 유의 우월, SUPP≈COMB.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 International Endodontic Journal 2025;58:1681-1710 · Thanatpong Rujirawan, Sittichoke Osiri, Kanet Chotvorrarak (Mahidol Univ) · 2025 · DOI: 10.1111/iej.70007. Study type: sr+ma.

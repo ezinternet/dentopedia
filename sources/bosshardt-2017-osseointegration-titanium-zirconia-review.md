@@ -13,13 +13,21 @@ source_collection: external
 
 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)과 표면처리별 osseointegration 속도 차이를 다루는 기존 페이지들의 생물학적 기반 근거가 부족하여 ingest. 이 리뷰는 Ti/TiZr/지르코니아(Zirconia) 임플란트의 골유착 시간적 순서, 표면처리 효과, 미래 과제를 종합적으로 정리하여 [[implants/surface/buser-2017-slaactive-vs-sla-early-loading]] 등 표면처리 페이지들의 생물학적 배경 참조원으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Periodontology 2000, 2017) by Bosshardt, Chappuis & Buser synthesizing preclinical osseointegration evidence for cpTi grade 4, TiZr, Ti6Al4V, and zirconia implants — covering wound-healing sequence, surface modification effects (%BIC), multinucleated giant cells, and open questions on marginal bone loss.
+Narrative review (Periodontology 2000, 2017; Bosshardt, Chappuis & Buser, University of Bern) synthesizing predominantly preclinical osseointegration evidence for cpTi grade 4, TiZr (Roxolid), Ti6Al4V, and Y-TZP zirconia implants across the 4-phase wound-healing cascade.
 
-## 한줄요약
+SLActive surfaces showed significantly higher %BIC vs SLA at 2 and 4 weeks; TiZr was comparable to cpTi while Ti6Al4V had lower peak %BIC and significantly more multinucleated giant cells (MNGCs); surface-modified zirconia achieved bone apposition but with more MNGCs than cpTi.
 
-Bosshardt 등의 서사 리뷰 (2017): 상업용 순 티타늄, 티타늄-지르코늄 합금, Ti6Al4V, 지르코니아 임플란트의 골유착 생물학 — 창상치유 순서, 표면처리별 골-임플란트 접촉률, 다핵거대세포 반응, 변연골 소실 미해결 과제 종합.
+Marginal bone loss unrelated to peri-implantitis remains unresolved, likely multifactorial (medications, titanium particle/ion release, immune factors); the transient stability dip at ~3–4 weeks is physiologically normal and clinicians should not interpret it as failure.
+
+## 세줄요약
+
+서술형 리뷰(Periodontology 2000, 2017; Bern대 Bosshardt·Chappuis·Buser): 순 티타늄·TiZr·Ti6Al4V·Y-TZP 지르코니아 임플란트의 골유착 4단계 창상치유 연쇄, 표면처리별 BIC, 다핵거대세포(MNGC) 반응을 전임상 근거 중심으로 종합.
+
+SLActive가 SLA 대비 2·4주 %BIC 유의하게 높고, TiZr은 cpTi와 동등, Ti6Al4V는 최고 %BIC 낮고 MNGC 유의하게 많음; 표면처리 지르코니아는 골형성 확인되나 MNGC 더 많음.
+
+치주염 무관 변연골 소실은 미해결 과제(약물·Ti 입자·면역인자 등 다인자); 3–4주 안정성 일시 저하(stability dip)는 정상 생물학적 과정.
 
 ## 1. Document Information
 

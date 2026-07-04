@@ -13,13 +13,23 @@ source_collection: external
 
 Extends [[wiki/implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] from the implant-type axis (tissue- vs bone-level) to the full set of prosthetic design factors driving peri-implant marginal bone loss, with a current (search through Dec 2023) 93-study AO/AAP joint SR+MA that quantifies each factor's effect on MBL and peri-implantitis risk.
 
-## One-line Summary
+## Three-line Summary
 
-AO/AAP SR+MA of 93 studies: nonsplinted (8 articles, p=0.04), platform-switched (20 articles, p<0.0001), conical internal connections (20 articles, p<0.0001), abutment height ≥2 mm (12 articles, p<0.0001), and one-abutment-one-time (10 articles, p<0.0001) each reduce peri-implant MBL; screw- vs cement-retention (p=0.51) and crown-to-implant ratio (p=0.32) showed no significant MBL difference.
 
-## 한줄요약
+AO/AAP SR+MA of 93 studies: nonsplinted (8 articles, p=0.04), platform-switched (20 articles, p<0.0001), conical internal connections (20 articles, p<0.0001), abutment height ≥2 mm (12 articles, p<0.0001), and one-abutment-one-time (10 articles, p<0.0001) each reduce peri-implant MBL;
+
+screw- vs cement-retention (p=0.51) and crown-to-implant ratio (p=0.32) showed no significant MBL difference.
+
+(incomplete)
+
+## 세줄요약
+
 
 93편 AO/AAP SR+MA: 비연결(nonsplinted, p=0.04), 플랫폼스위칭(p<0.0001), 원추형 내부연결(p<0.0001), 어버트먼트 높이 ≥2 mm(p<0.0001), one-abutment-one-time(p<0.0001)은 임플란트주위 변연골소실(MBL)을 줄였고, 나사 vs 시멘트 유지(p=0.51)·치관-임플란트 비(p=0.32)는 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

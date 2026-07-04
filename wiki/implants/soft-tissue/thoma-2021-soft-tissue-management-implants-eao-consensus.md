@@ -16,13 +16,21 @@ relations:
     target: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-6th EAO consensus report (group 2; based on 3 systematic reviews + 1 critical review) concluding that soft tissue augmentation at immediate or delayed implant placement reduces mid-buccal recession and (at immediate placement) increases mucosal thickness in esthetic sites, with autologous grafts showing a consistent but non-significant tendency to outperform substitutes, and insufficient evidence on optimal timing.
+6th EAO Consensus Conference (Group 2) report synthesizing 3 systematic reviews and 1 critical review on soft tissue management at dental implants in esthetic zones.
 
-## 한줄요약
+STA at immediate placement reduced mid-buccal recession and increased mucosal thickness (4 RCTs, 2 CCTs); STA at delayed placement also reduced recession (1 RCT, 5 CCTs) but did not significantly increase mucosal thickness; autologous grafts showed a consistent but statistically non-significant tendency to outperform substitutes.
 
-제6차 EAO 합의문(group 2) — 심미부에서 즉시·지연 식립 시 연조직 증대가 중안면 점막 퇴축을 줄이고(즉시식립은 점막 두께도 증가), 자가이식이 대체재보다 일관되나 유의하지 않게 우세하며, 증대 시점에 대한 근거는 불충분하다.
+Evidence on optimal augmentation timing remains insufficient; simultaneous STA with immediate placement is recommended in high-esthetic-priority cases.
+
+## 세줄요약
+
+임플란트 심미부에서의 연조직 처치를 주제로 SR 3편·비평 리뷰 1편을 기반으로 작성된 제6차 EAO 합의 보고(그룹 2).
+
+즉시식립 시 STA는 중안면 퇴축 감소 및 점막 두께 증가(4 RCT, 2 CCT); 지연식립 시 STA는 퇴축 감소(1 RCT, 5 CCT)에 그침; 자가이식이 일관되게 우세하나 통계적 유의성 없음.
+
+최적 증대 시점에 대한 근거 불충분 — 심미 우선 즉시식립 증례에 STA 동시 시행 권장.
 
 ## Summary
 

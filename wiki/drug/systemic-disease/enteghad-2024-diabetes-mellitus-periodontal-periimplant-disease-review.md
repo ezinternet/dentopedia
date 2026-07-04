@@ -16,11 +16,21 @@ relations:
     target: wagner-2022-diabetes-mellitus-dental-implants-sr
 ---
 
-## One-line Summary
-Narrative review - the relationship between diabetes mellitus and periodontal/peri-implant disease is bidirectional and appears causal; disease severity correlates directly with glycemic (metabolic) control, and implant success is attainable in well-controlled diabetes.
+## Three-line Summary
 
-## 한줄요약
-서술 고찰 - 당뇨병과 치주/임플란트주위 질환은 양방향이며 인과적으로 보임; 질환 중증도가 혈당(대사) 조절과 직접 비례하고, 잘 조절된 당뇨에서 임플란트 성공 가능.
+Narrative review (Int Dent J 2024) updating the epidemiological and mechanistic evidence on the bidirectional relationship between diabetes mellitus and periodontal/peri-implant disease, covering glycemic control, AGE-RAGE pathway, oxidative stress, and cytokine-mediated mechanisms.
+
+The DM–periodontitis relationship is bidirectional and appears causal: disease severity correlates directly with glycemic control, and both conditions worsen each other via shared inflammatory pathways; implant success is attainable in well-controlled diabetes.
+
+Well-controlled diabetics can achieve implant outcomes approaching those of healthy patients; glycemic control level is the primary clinical gating factor for both periodontal treatment response and peri-implant maintenance.
+
+## 세줄요약
+
+당뇨병과 치주/임플란트주위 질환의 양방향·인과적 관계를 역학·기전(AGE-RAGE 경로, 산화 스트레스, 사이토카인 매개 기전) 측면에서 업데이트한 서술 고찰(Int Dent J 2024).
+
+당뇨↔치주/임플란트주위 질환의 양방향·인과 관계는 공통 염증 경로를 통해 상호 악화되며, 질환 중증도는 혈당(대사) 조절 수준과 직접 비례; 잘 조절된 당뇨에서 임플란트 성공 가능.
+
+혈당 조절 수준이 치주 치료 반응과 임플란트 주위 관리 모두에 대한 1차 임상 기준점이며, 당뇨 환자에서 임플란트 예후 예측 시 HbA1c 수치가 핵심 변수이다.
 
 ## Summary
 당뇨-치주/임플란트주위 질환의 양방향·인과 관계를 역학·기전 측면에서 업데이트한 서술 고찰. 혈당 조절이 질환 중증도와 임플란트 예후를 좌우.

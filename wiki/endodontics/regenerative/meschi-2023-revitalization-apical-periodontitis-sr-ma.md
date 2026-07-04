@@ -13,11 +13,21 @@ source_collection: external
 tags: [revitalization, apical-periodontitis, necrotic-pulp, immature, mature, RET]
 ---
 
-## One-line Summary
-SR+MA of revitalization for pulp necrosis with apical periodontitis (IEJ 2023): good clinical symptom resolution and apical healing; evidence for application in mature teeth is limited.
+## Three-line Summary
 
-## 한줄요약
-치수괴사+치근단 치주염에서 revitalization SR+MA(IEJ 2023): 임상 증상 소실 및 치근단 치유 양호, 성숙치 적용 증거 제한적.
+SR+MA (IEJ 2023) evaluating revitalization efficacy in immature and mature permanent teeth with pulp necrosis and apical periodontitis, using PICO-based outcome criteria.
+
+Revitalization achieved high clinical symptom resolution rates and favorable radiographic periapical healing across included studies.
+
+Evidence for revitalization in mature teeth is limited and based on small samples, making the technique's generalizability beyond immature teeth uncertain.
+
+## 세줄요약
+
+SR+MA(IEJ 2023)로 치수괴사와 치근단 치주염을 동반한 미성숙·성숙 영구치에서 revitalization 효과를 PICO 기반으로 평가.
+
+임상 증상 소실률 및 방사선학적 치근단 치유는 전반적으로 양호한 결과를 보임.
+
+성숙치에 대한 근거는 소규모 연구에 한정되어 있어 미성숙치 이외로의 일반화는 불확실하다.
 
 ## Summary
 IEJ 2023 Supplement. 치수괴사(미성숙+성숙) + 치근단 치주염 대상 revitalization 효과 PICO 기반 SR+MA. 1차 outcome: 임상 증상 소실, 치근단 방사선 치유.

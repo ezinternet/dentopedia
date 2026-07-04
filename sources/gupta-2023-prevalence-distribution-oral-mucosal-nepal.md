@@ -17,13 +17,23 @@ text_filename: gupta-2023-prevalence-distribution-oral-mucosal-nepal.txt
 
 정상범주 구강내 병소(Fordyce granules, linea alba 등) 전용 서브카테고리 [[oral-medicine/normal-variants]] 신설의 근거 논문. 16,572명 규모의 대표 cross-sectional 자료로 Fordyce's granules(8.84%), linea alba(연령별 최대 37.21%), frictional keratosis 등 normal variant의 인구 기반 유병률을 제공해 케이스 단위 보고([[oral-medicine/normal-variants/baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy]])와 대비되는 역학적 기준선 역할.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cross-sectional study of 16,572 Nepalese dental OPD patients found 21.08% had oral mucosal lesions (OMLs) and 13.96% had normal mucosal variants (most commonly frictional keratosis, linea alba, and Fordyce's granules), with buccal mucosa the dominant site for both.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 네팔 치과 외래 환자 16,572명 대상 단면연구에서 구강점막병소(OML) 21.08%, 정상 변이(normal variant) 13.96%가 확인되었고, 정상 변이 중 마찰성 각화증·교흔(linea alba)·포다이스 그래뉼(Fordyce's granules)이 가장 흔했으며 협점막이 주요 호발 부위였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

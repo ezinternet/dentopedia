@@ -22,13 +22,21 @@ relations:
     target: makdissi-2016-effects-device-position-operators-radiation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective quality-assessment study of 127 single-tooth radiographs taken with a handheld Nomad Pro 2 device in German nursing-home domiciliary dental care, graded by 3 dentists against German Federal Dental Association criteria: 80% showed no quality defects, periapical bone was diagnostic in 86%, and unexpected clinically important secondary findings appeared in 61% — quality was comparable to conventional wall-mounted units.
+Prospective quality-assessment study of 127 single-tooth radiographs taken with a handheld Nomad Pro 2 in German nursing-home domiciliary dental care, graded against German Federal Dental Association criteria by 3 dentists of varying experience.
 
-## 한줄요약
+80% showed no quality defects; periapical bone was diagnostic in 86%; field of view was adequate in 84%; unexpected clinically important secondary findings appeared in 61% of images.
 
-독일 요양원 방문진료 (domiciliary dental care) 환경에서 핸드헬드 (handheld) 이동형 X-ray 장비 Nomad Pro 2로 촬영한 단일치아 방사선사진 127장을 치과의사 3인이 독일치과의사협회 화질 기준으로 평가한 전향적 연구 — 80%는 화질 결함 없음, 근단부 (periapical) 골 구조 진단가능 86%, 예상치 못한 임상적으로 중요한 부수소견 (secondary finding) 61%에서 발견되어, 벽걸이형 (wall-mounted) 장비와 비교해 화질이 대등함을 확인.
+Handheld mobile radiography achieves image quality comparable to conventional wall-mounted units, supporting its use for domiciliary dental care and the legal justification of surgical procedures in nursing-home patients.
+
+## 세줄요약
+
+독일 요양원 방문진료 (domiciliary dental care) 환경에서 핸드헬드 Nomad Pro 2로 촬영한 단일치아 방사선사진 127장을 경험 수준이 다른 치과의사 3인이 독일치과의사협회 화질 기준으로 평가한 전향적 연구.
+
+화질 결함 없음 80%; 치근단 (periapical) 골 구조 진단 가능 86%; 시야각 적합 84%; 예상치 못한 임상적으로 중요한 부수소견 (secondary finding) 61%에서 발견.
+
+핸드헬드 이동형 방사선 장비의 화질이 벽걸이형 장비와 대등 — 요양원 방문진료 및 수술 처치의 법적 정당화를 위한 방사선 촬영에 적합.
 
 ## Summary
 

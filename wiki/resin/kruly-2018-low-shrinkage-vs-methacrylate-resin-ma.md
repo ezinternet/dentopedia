@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (21 RCTs, follow-up up to 60 months) comparing low-polymerization-shrinkage composites (silorane, ormocer, bulk-fill) with conventional methacrylate composites found clinical equivalence on all outcomes except marginal adaptation at 12 months (favoring methacrylate), concluding that low shrinkage is not the principal determinant of clinical resin superiority.
+## Three-line Summary
 
-## 한줄요약
-21개 RCT(최장 60개월) 메타분석: 실로란(silorane)·오르모서(ormocer)·벌크필 포함 저수축 레진은 전통 메타크릴레이트 레진과 임상적으로 동등; 12개월 변연적합도만 메타크릴레이트 레진이 유의하게 우수하며, "저수축=임상 우월"은 성립하지 않음.
+SR+MA (21 RCTs, up to 60 months follow-up; PROSPERO CRD42015023940) comparing low-polymerization-shrinkage composites (silorane, ormocer, bulk-fill) versus conventional methacrylate composites for posterior permanent teeth.
+
+All outcomes were equivalent except marginal adaptation at 12 months, which favored conventional methacrylate (the only statistically significant finding); all other parameters — discoloration, caries, retention, sensitivity — showed no difference.
+
+Low polymerization shrinkage alone is not the principal determinant of clinical superiority; the ≥24-month sensitivity analysis confirmed the same conclusion.
+
+## 세줄요약
+
+SR+MA (21개 RCT, 최장 60개월; PROSPERO CRD42015023940): 저수축 레진(실로란(Silorane)·오르모서(Ormocer)·벌크필) vs 기존 메타크릴레이트 복합레진의 구치부 임상 성적 비교.
+
+12개월 변연적합도(Marginal Adaptation)만 기존 메타크릴레이트 레진이 유의하게 우수한 유일한 통계적 유의 결과; 변연착색·이차우식·유지력·술 후 민감도는 모두 차이 없음.
+
+저중합수축이 임상 우월성의 주요 결정인자가 아님; 24개월 이상 민감도 분석도 동일 결론.
 
 ## Summary
 This SR+MA (PROSPERO CRD42015023940) searched PubMed, Web of Science, Scopus, LILACS, and EMBASE, screening 14,217 studies and including 21 RCTs with ≥6 months follow-up (longest: 60 months). Target composites were defined by modified monomers designed to reduce polymerization shrinkage — silorane, ormocer, and bulk-fill composites — compared to conventional Bis-GMA/methacrylate-based composites. The meta-analysis found that only marginal adaptation at 12 months showed a statistically significant difference, with conventional methacrylate composites performing better. All other outcomes (marginal discoloration, recurrent caries, retention, postoperative sensitivity) showed no statistically significant differences. Excluding studies <24 months did not change results. The study concluded that low polymerization shrinkage is not the principal factor determining clinical resin superiority.

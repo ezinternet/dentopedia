@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA pub4 (47 RCTs, n=5805): single-visit and multiple-visit root canal treatment achieve equivalent radiological success; single-visit carries modestly higher pain within 1 week (RR 1.55, 95% CI 1.14–2.09, moderate certainty), especially in vital teeth.
+Cochrane SR+MA 4th edition (47 RCTs, 5,805 participants) comparing single-visit vs multiple-visit root canal treatment in permanent teeth, with updated GRADE certainty assessment and exclusion of studies lacking rubber dam or NaOCl.
 
-## 한줄요약
+Single-visit and multiple-visit RCT achieved equivalent radiological success at ≥1 year (RR 0.93, moderate certainty); single-visit was associated with higher pain within 1 week (RR 1.55, 95% CI 1.14–2.09, moderate certainty), most pronounced in vital teeth (RR 2.16).
 
-Cochrane SR+MA pub4 (47건 RCT, 5805명): 단회·다회 근관치료의 방사선학적 성공률은 동등하며, 단회군에서 1주 이내 통증 보고율이 더 높음 (RR 1.55, 95% CI 1.14–2.09, 중등도 근거), 특히 생활치에서 두드러짐.
+Neither protocol is superior in efficacy; clinician and patient preference may guide the choice, with caution for single-visit in vital teeth where short-term pain is a concern.
+
+## 세줄요약
+
+영구치 단회 vs 다회 근관치료 비교 Cochrane SR+MA 제4판(47편 RCT, 5,805명); GRADE 확실성 평가 업데이트, 러버댐·차아염소산나트륨(NaOCl) 미사용 연구 제외.
+
+단회·다회 근관치료는 ≥1년 방사선학적 성공에서 동등(RR 0.93, 중등도 근거); 단회군에서 1주 이내 통증 보고율 유의하게 높음(RR 1.55, 95% CI 1.14–2.09), 생활치에서 가장 두드러짐(RR 2.16).
+
+두 프로토콜 간 효능 차이 없음; 임상가·환자 선호도로 선택하되, 단기 통증이 우려되는 생활치의 경우 단회법 선택 시 주의.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, primary-stability, bench-study, bic, bmd, foundational, huwais]
 ---
 
-## One-line Summary
-Foundational in vitro bench study (72 porcine tibial osteotomies, 2 implant diameters): osseodensification (OD) using the same multi-fluted bur run counterclockwise significantly raised insertion/removal torque and roughly tripled bone-to-implant contact (BIC) vs standard drilling and formed a peri-osteotomy layer of increased bone mineral density (BMD), while implant stability quotient (ISQ) and temperature did not differ between groups.
+## Three-line Summary
 
-## 한줄요약
-시험관 벤치 연구 (in vitro), 돼지 경골 (porcine tibia) 72 골삭제 (osteotomy) — 같은 다중날 (multi-fluted) 버 (bur)를 반시계방향으로 회전시키는 골밀도화 (Osseodensification, OD)가 표준 드릴링 대비 삽입·제거 토크 (Insertion/Removal Torque)와 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC, 약 3배)을 유의하게 상승시키고 골삭제 둘레에 골밀도 (Bone Mineral Density, BMD) 증가층을 형성했으나, 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 온도 상승은 군간 차이 없음. 임상 적용 한계: 생체 외 모델로 치유반응 미반영이며 발명자 주도 연구이므로 후속 동물·임상 메타분석 (Meta-Analysis)으로 보완 필요.
+Foundational in vitro bench study (72 porcine tibial osteotomies, 3-arm design: standard drilling vs clockwise extraction vs counterclockwise OD, 2 implant diameters 4.1 and 6.0 mm): the same multi-fluted tapered bur run counterclockwise introduces osseodensification (OD).
+
+OD significantly raised insertion and removal torque and roughly tripled bone-to-implant contact (BIC) vs standard drilling; a discrete peri-osteotomy layer of increased bone mineral density (BMD) was confirmed by SEM and micro-CT; ISQ and intraosseous temperature did not differ among groups.
+
+Mechanistic anchor for all downstream OD research; BIC ratio is from immediate bench measurement not biological healing; inventor-driven study with inherent conflict-of-interest — torque–ISQ dissociation flagged early and recurs in subsequent human SR+MAs.
+
+## 세줄요약
+
+기초 in vitro 벤치 연구 (돼지 경골 72 골삭제, 3군 설계: 표준 드릴링 vs 시계방향 추출 vs 반시계방향 골밀도화(OD), 임플란트 직경 4.1·6.0 mm): 같은 다중날 테이퍼형 버를 반시계방향으로 회전시키는 골밀도화(Osseodensification, OD)를 최초 도입한 논문.
+
+OD가 삽입·제거 토크를 유의하게 높이고 BIC를 약 3배 증가; SEM·마이크로 CT로 골삭제 주변 골밀도(BMD) 증가층 확인; ISQ와 온도는 군간 유의차 없음 — 토크-ISQ 해리(dissociation) 초기 보고.
+
+후속 모든 OD 연구의 기계론적 기반; BIC 3배는 즉시 계측값이며 생물학적 치유 반영 아님; 발명자 주도 연구로 이해충돌 존재 — 독립 메타분석에서 방향성은 확인되나 효과 크기는 다름.
 
 ## Summary
 This is the foundational publication that introduced osseodensification (OD) to the implant literature. Huwais (the inventor and patent holder) and Meyer designed an elegant three-arm bench comparison in porcine tibial bone to isolate the effect of bur rotation direction from bur geometry: the same tapered multi-fluted bur was used both as an extractor (clockwise) and as a densifier (counterclockwise), with conventional standard drills as a separate cutting control. Across 72 osteotomies and two implant diameters (4.1 mm, 6.0 mm), OD significantly raised insertion and removal torque, tripled bone-to-implant contact (BIC) versus standard drilling, and produced a measurable peri-osteotomy layer of increased bone mineral density visible on SEM and micro-CT.

@@ -25,13 +25,21 @@ tags: [patient-safety, safety-culture, teamwork, human-factors, practice-managem
 > - **중요한 단서**: 팀워크 기둥(Schmutz·Manser)은 수술실·중환자실·응급실 등 **일반 의료 근거를 치과에 유추 적용**한 것 — 치과 고유 추정치가 아니라 방향성 앵커로 봐야 한다. 치과 안전문화 연구 자체는 아직 미성숙(주로 2차 진료·학계).
 > - **임상·운영 takeaway**: ① MOSPSC로 우리 치과의 안전문화를 측정하고, ② 근거가 가장 강하고 개선 가능한 팀워크에 투자하며, ③ 인적요인 관점으로 워크플로를 설계하고, ④ 제2의 피해자를 지지하며, ⑤ 과잉규제(over-regulation)는 개방적 보고·학습을 억제하므로 경계한다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 papers arguing that dentistry trails medicine on patient safety culture (medicine beat dentistry on 9/10 MOSPSC dimensions; dentistry strongest in organizational learning 85% and teamwork 79%), that ~95% of dental care happens in primary care where the safety evidence was not generated, and that teamwork — the dental safety culture's relative strength and a measurable, improvable driver of clinical performance (r=0.28, OR≈2.8) and safety in general healthcare — is the most actionable lever to close the gap, alongside human-factors design, second-victim support, and restraint on over-regulation.
+Synthesis of 4 papers (2 dental-specific, 2 general-healthcare cross-applied): dentistry lags medicine on 9/10 MOSPSC safety-culture dimensions, with ~95% of dental care delivered in primary care where the safety evidence was not generated (Yansane 2020, Bailey 2021).
 
-## 한줄요약
+Teamwork is dentistry's relative strength (79%) and the best-evidenced lever to close the gap: general-healthcare SR+MA (Schmutz 2019, 31 studies, 1390 teams) quantifies teamwork→performance at r=0.28 (OR≈2.8) with the effect holding in routine care, not only crises.
 
-치과는 안전문화 10개 영역 중 9개에서 의료에 뒤처지고(조직학습 85%·팀워크 79%가 그나마 강점), 진료의 95%가 근거가 생산되지 않은 일차의료에서 이뤄진다 — 격차를 좁히는 측정·개선 가능한 핵심 지렛대는 팀워크(일반 의료 근거 r=0.28·OR 2.8 차용)이며, 인적요인 설계·제2의 피해자 지지·과잉규제 경계가 이를 뒷받침한다고 본 4편 종합.
+Practical toolkit: measure with MOSPSC, invest in team training for everyday workflows, design for human factors (not blame), support second victims, and restrain over-regulation which suppresses open reporting.
+
+## 세줄요약
+
+4편 종합: 치과는 환자안전문화(Patient Safety Culture) 10개 영역 중 9개에서 의료에 뒤처지며(조직학습 85%·팀워크 79%가 그나마 강점), 진료의 ~95%가 근거가 생산되지 않은 일차의료(primary care)에서 이뤄짐(Yansane 2020, Bailey 2021).
+
+격차 해소 핵심 지렛대는 팀워크 — 일반 의료 SR+MA(Schmutz 2019, 31편·1390팀)에서 팀워크↔임상성과 r=0.28(OR≈2.8), 일상 진료에서도 효과 일관(위기 한정 아님); 단 치과 고유 추정치가 아닌 차용 근거임.
+
+임상 takeaway: MOSPSC로 측정 → 팀워크에 투자 → 인적요인(Human Factors) 시스템 설계 → 제2의 피해자(second victim) 지지 → 과잉규제 경계.
 
 ## Thesis
 

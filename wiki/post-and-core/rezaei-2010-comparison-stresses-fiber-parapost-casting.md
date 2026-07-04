@@ -19,13 +19,21 @@ relations:
     target: wang-2019-fiber-posts-vs-metal-posts-severely-damaged
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro photoelastic study (PSM-5 blocks, 3 posts × 3): rigid ParaPost (metal) concentrates stress apically under vertical load (FO=4) and cervically under oblique load (FO=5), while fiber and cast posts distribute stress evenly (FO=2+); a 1.25 mm glass fiber post fractured before 90 N oblique load.
+In-vitro photoelastic study (9 PSM-5 dentin-analogue epoxy blocks, 3 groups × 3) comparing stress distribution in FiberLux glass fiber post, titanium ParaPost, and Ni-Cr cast post of matched 1.25 mm geometry under 135 N vertical and 90 N oblique loading.
 
-## 한줄요약
+The rigid ParaPost concentrated stress most severely — apically (fringe order FO=4) under vertical load and cervically (FO=5) under oblique load — while fiber and cast posts distributed stress evenly along the length (FO=2+); the 1.25 mm glass fiber post fractured before reaching 90 N oblique load.
 
-광탄성 인비트로 연구 (PSM-5 블록, 포스트 3종×3): 강성 금속 ParaPost는 수직하중 시 근단부(FO=4)·경사하중 시 치경부(FO=5)에 응력이 집중되나 fiber·cast post는 고르게 분포(FO=2+); 1.25 mm 유리섬유 포스트는 90 N 경사하중 전 파절.
+This photoelastic evidence explains the clinical mechanism: metal ParaPosts transfer concentrated stress to dentin, but narrow fiber posts are also mechanically weak under lateral load — both width and rigidity must be considered in post selection.
+
+## 세줄요약
+
+광탄성 인비트로 연구 (PSM-5 상아질 유사 에폭시 블록 9개, 3군×3): 동일 직경 1.25 mm의 FiberLux 유리섬유포스트, 티타늄 ParaPost, Ni-Cr 주조포스트를 135 N 수직 및 90 N 경사하중 하에서 응력 분포 비교.
+
+강성 ParaPost가 응력 집중이 가장 심함 — 수직하중 시 근단부(FO=4), 경사하중 시 치경부(FO=5) 집중; 섬유·주조 포스트는 전장에 고르게 분포(FO=2+); 1.25 mm 유리섬유포스트는 90 N 경사하중 도달 전 파절.
+
+이 광탄성 증거는 임상 기전을 설명한다: 금속 ParaPost는 상아질에 집중 응력을 전달하나, 가는 유리섬유포스트도 측방하중에 취약하여 — 포스트 선택 시 강성과 직경 모두 고려해야 한다.
 
 ## Summary
 

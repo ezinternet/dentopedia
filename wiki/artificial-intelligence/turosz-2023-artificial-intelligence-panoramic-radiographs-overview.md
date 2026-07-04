@@ -17,13 +17,21 @@ text_filename: turosz-2023-artificial-intelligence-panoramic-radiographs-overvie
 tags: [artificial-intelligence, deep-learning, panoramic-radiograph, overview-of-reviews, umbrella-review, ROBIS]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Overview of systematic reviews (umbrella review; 12 SRs, ROBIS-appraised) finding recent AI models on dental panoramic radiographs reach high accuracy across caries (91.5%), osteoporosis (89.29%), maxillary sinusitis (87.5%), periodontal bone loss (93.09%), and teeth ID/numbering (93.67%), with periapical-lesion detection at 99.95% sensitivity / 92% specificity — interpreted cautiously given few, heterogeneous source studies.
+Umbrella review (overview of systematic reviews; 12 SRs, ROBIS-appraised, PROSPERO CRD42023416048) synthesizing AI applications on dental panoramic radiographs (DPRs) across six tasks spanning the period 1988–2023.
 
-## 한줄요약
+The latest AI models reached high accuracy for caries detection (91.5%), periodontal bone loss (93.09%), teeth identification/numbering (93.67%), osteoporosis (89.29%), maxillary sinusitis (87.5%), and periapical lesion detection (sensitivity 99.95%, specificity 92%) — confirming panoramic-image-labeling as a mature AI domain.
 
-시스템 리뷰를 종합한 상위(umbrella) 리뷰(12편 SR, ROBIS 평가) — 파노라마 방사선 사진에서 최신 인공지능(AI) 모델이 우식 91.5%, 골다공증 89.29%, 상악동염 87.5%, 치주 골소실 93.09%, 치아 식별·번호매김 93.67%의 정확도를, 치근단 병소는 민감도 99.95%·특이도 92%를 보였으나 원천 연구가 적고 이질적이라 신중히 해석해야 한다.
+The results must be interpreted with caution because each task rests on a small number of heterogeneous primary studies, and the authors note that AI-focused SRs become outdated rapidly and require regular updating.
+
+## 세줄요약
+
+파노라마 방사선 사진(Dental Panoramic Radiograph, DPR) AI 응용에 관한 12편 SR을 ROBIS로 평가한 상위(umbrella) 리뷰(PROSPERO 등록, 1988–2023 범위).
+
+최신 AI 모델의 과제별 정확도: 우식 91.5%, 치주 골소실 93.09%, 치아 식별·번호매김 93.67%, 골다공증 89.29%, 상악동염 87.5%, 치근단 병소 민감도 99.95%·특이도 92% — 파노라마 영상 라벨링이 AI 치의학의 성숙 영역임을 상위 리뷰 수준에서 확인.
+
+다만 각 과제를 뒷받침하는 원천 연구 수가 적고 이질성이 높으며, AI 분야의 빠른 발전으로 관련 SR이 빠르게 노후화되므로 수치 해석과 임상 적용에 신중이 요구된다.
 
 ## Summary
 

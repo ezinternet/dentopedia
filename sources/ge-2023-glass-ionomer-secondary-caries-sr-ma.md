@@ -9,7 +9,7 @@ pdf_filename: ge-2023-glass-ionomer-secondary-caries-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Meta-analysis of 64 RCTs finds glass ionomer cement (GIC) restorations are superior to amalgam and equivalent to resin-composite in preventing secondary caries, in both primary and permanent dentition.
 
 ## 1. Document Information

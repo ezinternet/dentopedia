@@ -16,13 +16,23 @@ text_filename: yoshihara-2011-nanolayering-mdp-enamel-dentin.txt
 
 This is the landmark in-vitro paper that establishes the chemical-bonding basis of 10-MDP — self-assembled "nanolayering" of MDP-calcium salts on tooth substrate, following the adhesion-decalcification (AD) concept. It resolves the wiki's standing [[10-MDP]] concept gap by grounding *why* MDP-based mild self-etch and universal adhesives bond chemically (not just micromechanically) to enamel and dentin. It pairs directly with the sibling page [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]], which demonstrates the analogous MDP chemical interaction on zirconia — together they anchor the MDP chemical-bonding mechanism across both tooth-substrate (HAp) and ceramic (ZrO₂) targets.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro XRD + TEM study (experimental 10-MDP primer vs Clearfil SE Bond primer) showing self-assembled MDP-Ca nanolayering occurs on enamel and dentin under a clinical protocol — significantly greater on dentin than enamel, proportional to 10-MDP concentration, and enhanced by active rubbing.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 10-MDP 실험용 프라이머와 Clearfil SE Bond 프라이머를 XRD·TEM으로 비교한 in-vitro 연구로, 임상 프로토콜 하에서도 MDP-칼슘염 나노레이어링(nanolayering)이 법랑질·상아질 모두에 형성되며 — 상아질에서 더 강하고, 10-MDP 농도에 비례하며, 문지르기(rubbing)로 증대됨을 보여 마일드 셀프에치의 법랑질 접착이 약한 이유를 화학적으로 설명한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

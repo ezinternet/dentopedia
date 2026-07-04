@@ -10,7 +10,7 @@ pdf_filename: singh-2025-intraoral-scanners-accuracy-umbrella-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 구강 내 스캐너(IOS) 정확도 및 임상 성능 우산 고찰(10개 SR/MA, 2020-2024): TRIOS 3·Primescan이 전악 정확도 최상; IOS가 기존 인상보다 시간 절약·환자 편의 우수; 부분/완전 무치악에서는 정확도 한계 있음.
 
 ## 1. Document Information

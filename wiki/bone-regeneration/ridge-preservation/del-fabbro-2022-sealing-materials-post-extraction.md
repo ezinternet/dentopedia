@@ -13,11 +13,21 @@ source_collection: external
 tags: [systematic-review, network-meta-analysis, sealing-material, ARP, IAO-consensus]
 ---
 
-## One-line Summary
-NMA integrating 12 RCTs (312 sites) for an IAO consensus paper — autologous soft tissue graft ranks highest by SUCRA for horizontal preservation; collagen membrane, d-PTFE, and ADM show no major differences among themselves.
+## Three-line Summary
 
-## 한줄요약
-12 RCT(312 site)를 NMA로 통합한 IAO consensus paper — 발치와 sealing 재료 중 자가 연조직 이식(autologous soft tissue graft)이 horizontal preservation에서 SUCRA 최상위, collagen membrane·d-PTFE·ADM은 서로 큰 차이 없음.
+Network meta-analysis (12 RCTs, 312 sites) prepared as an Italian Society of Osseointegration (IAO) consensus paper — the first NMA focused exclusively on sealing materials (membrane, soft tissue graft, collagen matrix) rather than grafting materials for post-extraction socket ARP.
+
+By SUCRA ranking, autologous soft tissue graft (connective tissue or free gingival graft) ranks highest for horizontal preservation; collagen membrane, d-PTFE, and acellular dermal matrix (ADM) show no major differences among themselves; buccal bone >1 mm is associated with better outcomes regardless of sealing choice.
+
+Clinical implication: autologous soft tissue sealing is optimal but carries donor site morbidity — for most posterior sites, collagen membrane and d-PTFE are equivalent and cost-effective alternatives; sparse network limits ranking confidence.
+
+## 세줄요약
+
+네트워크 메타분석 (Network Meta-Analysis, NMA, 12개 무작위 대조 시험, 312 부위): 이탈리아 골유착학회 (Italian Society of Osseointegration, IAO) consensus paper — 이식재 재료가 아닌 소켓 밀봉 재료 (막·연조직 이식·콜라겐 기질)에 초점을 맞춘 첫 NMA.
+
+표면 하 누적 순위 확률 (Surface Under the Cumulative RAnking curve, SUCRA)으로 자가 연조직 이식 (Autologous Soft Tissue Graft)이 수평 보존에서 최상위; 콜라겐 막·치밀 폴리테트라플루오로에틸렌 (d-PTFE)·무세포 진피 기질 (Acellular Dermal Matrix, ADM) 간 유의차 없음; 협측골 >1 mm 시 어떤 밀봉재도 성적 양호.
+
+자가 연조직 밀봉이 최적이지만 공여부 이환율 동반 — 대부분 구치부에서 콜라겐 막과 d-PTFE는 동등한 비용효과적 대안; 희소 네트워크로 순위 신뢰도 제한.
 
 ## Summary
 ARP에서 grafting material(예: Bio-Oss, allograft) 비교는 많지만 그 위를 덮는 sealing material(membrane, soft tissue graft, collagen matrix 등)을 직접 비교한 RCT는 적다. 본 NMA는 그 gap을 메우며, Italian Society of Osseointegration(IAO) consensus paper로 발표. 핵심 메시지: **graft 위에 무엇을 덮느냐도 결과에 영향을 주며, 자가 연조직 이식이 가장 우월**. 다만 network이 sparse해서 prediction interval이 넓고, 실제 임상 판단은 cost·morbidity·시술 시간을 함께 고려해야 한다.

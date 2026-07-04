@@ -16,13 +16,21 @@ text_filename: cucchi-2021-dptfe-titanium-mesh-vertical-ridge-rct.txt
 
 GBR 6패널 분류 인터랙티브 도구의 Panel III vs Panel IV–V 근거 논문. Cucchi 계열 RCT 중 **임플란트 주변 연·경조직 1년 결과**를 보고하는 파트. [[wiki/implants/vertical-ridge-augmentation/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct]]의 초기 결과 후속 논문으로, 수직골증대 후 임플란트 PBL·연조직 파라미터가 두 술식 간 동등함을 1년에 걸쳐 확인. abstract-only (PMC 미등재).
 
-## One-line Summary
+## Three-line Summary
 
-RCT 1-year outcomes (n=30 completed of 40) comparing Ti-reinforced d-PTFE membranes (Group A) vs Ti meshes + collagen membranes (Group B) after VRA in posterior mandible: equivalent peri-implant bone loss (0.67 vs 0.61 mm) and soft-tissue parameters.
+RCT 1-year follow-up (n=30 of 40 enrolled, posterior mandible; abstract-only) comparing Ti-reinforced d-PTFE membranes (Group A) vs Ti meshes + collagen membranes (Group B) after vertical ridge augmentation, evaluated after prosthetic restoration.
 
-## 한줄요약
+Peri-implant bone loss was equivalent between groups (0.67 vs 0.61 mm, treatment difference −0.05 mm, 95% CI −0.27 to 0.16, p>0.93); all soft-tissue parameters (PPD, mPI, mGI, keratinized tissue thickness/width, fornix depth) were also non-significantly different; a strong correlation was found between interproximal bone peaks and peri-implant bone levels (p<0.0001).
 
-하악 구치부 수직골증대 RCT 1년 결과(n=30): Ti 강화 d-PTFE막 vs Ti 메시+콜라겐막 — 임플란트 골소실(0.67 vs 0.61mm), 연조직 지표 모두 동등.
+Single-center, single-surgeon study with 25% dropout (30/40) and abstract-only availability, limiting access to detailed per-parameter values and longer-term bone-remodeling data.
+
+## 세줄요약
+
+하악 구치부 수직골증대(Vertical Ridge Augmentation, VRA) RCT 1년 결과 (총 40명 중 30명 완료, 초록 한정) — Ti 강화 d-PTFE막(A군) vs Ti 메쉬+콜라겐막(B군), 보철 수복 후 평가.
+
+임플란트주위골소실(Peri-implant Bone Loss, PBL) 동등(0.67 vs 0.61 mm, 치료차이 −0.05 mm, 95% CI −0.27~0.16, p>0.93); 치주낭깊이·치태지수·치은지수·각화점막두께/폭·전정부 깊이 모두 군간 유의차 없음; 인접면 골정점과 PBL 간 강한 상관(p<0.0001).
+
+단일 센터·단일 술자, 25% 중도탈락(30/40), 초록 한정 접근으로 세부 파라미터값 및 장기 골개조 데이터 미확인.
 
 ## 1. Document Information
 

@@ -18,13 +18,21 @@ relations:
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=72 sinuses, 59 patients): MSO diameter fell from 1.8 mm to 1.1 mm and infundibulum occlusion peaked at 19.4% one week after lateral-window SFE, fully recovering to 1.5 mm / 1.4% at 9 months with zero sinusitis cases.
+Retrospective CBCT study (n=72 sinuses, 59 patients) with serial measurements at baseline, 1 week, and 9 months after lateral-window sinus floor augmentation (SFA), quantifying maxillary sinus ostium (MSO) diameter and infundibulum patency over time.
 
-## 한줄요약
+MSO diameter fell from 1.83 mm (baseline) to 1.07 mm (1 week) and recovered to 1.55 mm (9 months); infundibulum occlusion peaked at 19.4% at 1 week and resolved to 1.4% at 9 months; zero sinusitis cases throughout follow-up.
 
-후향적 CBCT 연구 (n=72 상악동, 59명): 측방창 상악동거상술(Lateral-Window Sinus Floor Elevation, LWSFE) 후 1주에 상악동 자연공(Maxillary Sinus Ostium, MSO) 직경이 1.8→1.1 mm로 감소하고 누두(Infundibulum) 폐쇄가 19.4%까지 증가하지만, 9개월에 1.5 mm/1.4%로 완전 회복되고 부비동염(Sinusitis) 발생 없음.
+Transient post-operative MSO obstruction is common (19.4% at 1 week) but self-limiting and does not cause sinusitis; accessory maxillary ostia (AMO) were present in 9.7% of sinuses and may provide supplementary drainage when the primary MSO is transiently obstructed.
+
+## 세줄요약
+
+후향적 CBCT 연구 (n=72 상악동, 59명): 측방창 상악동거상술 (Lateral-Window Sinus Floor Augmentation, SFA) 전·1주 후·9개월 후 상악동 자연공 (Maxillary Sinus Ostium, MSO) 직경 및 누두 (Infundibulum) 개통성 연속 측정.
+
+MSO 직경 1.83 mm (기저) → 1.07 mm (1주) → 1.55 mm (9개월); 누두 폐쇄 4.2% → 19.4% (1주 최대) → 1.4% (9개월); 추적 기간 중 부비동염 (Sinusitis) 0례.
+
+술후 MSO 폐쇄는 흔하나 자기제한적이며 부비동염 유발 없음; 부 상악동 구멍 (Accessory Maxillary Ostia, AMO) 9.7% 존재 → 일시적 MSO 폐쇄 시 보조 배액로 역할 가능.
 
 ## Summary
 

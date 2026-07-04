@@ -13,13 +13,23 @@ source_collection: external
 
 EDC crosslinking (carbodiimide chemistry) is mechanistically distinct from GA crosslinking and produces zero cytotoxic byproducts — this study provides head-to-head evidence that EDC-crosslinked collagen membrane (Rapigide) remains largely intact at 8 weeks while supporting vascularized tissue integration and adequate new bone. Directly complements [[bone-regeneration/verissimo-2014-collagen-membranes-gbr-rat-calvarial]] which tested GA crosslinking, enabling crosslinking-agent comparison.
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal study (n=12 rabbits, 8-mm calvarial CSDs, 2w and 8w) demonstrating that EDC-crosslinked collagen membrane (Rapigide) integrates well into host tissue with sustained barrier function at 8 weeks and supports new bone formation when combined with biphasic calcium phosphate graft.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 동물실험(토끼 12마리, 8-mm 두개골 결손, 2·8주) — EDC 가교 1형 콜라겐 막이 8주까지 장벽 기능을 유지하고, BCP 골이식재와 병용 시 신생골 형성에 효과적임을 조직학적으로 입증.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

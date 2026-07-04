@@ -13,13 +13,21 @@ source_collection: external
 
 The wiki's oral frailty cluster (구강노쇠, Oral Frailty) documents oral manifestations of physical decline but lacked an anchor establishing why grip strength matters as a systemic frailty biomarker. This large UK Biobank prospective cohort (n=502,293) quantifies the dose–response relationship between 악력 (grip strength, GS) and cardiovascular, respiratory, cancer, and all-cause mortality — the general-medicine evidence base that underpins clinical use of grip strength as a physical frailty (신체노쇠, Physical Frailty) screening tool. Without this anchor, the [[wiki/geriatric-dentistry/li-2024-prevalence-oral-frailty-older-adults]] oral frailty prevalence study and the [[wiki/overviews/oral-frailty-geriatric-synthesis]] synthesis lack the mortality-outcome evidence to justify grip-strength measurement in dental settings. Also reinforces the sibling companion study [[wiki/geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] (PURE study, n=139,691) by extending its findings to a far larger, UK-based cohort with a broader outcome set including cancer sub-types.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort study (n=502,293 UK Biobank participants, mean 7.1 years follow-up) found that each 5 kg lower grip strength was independently associated with 16–20% higher all-cause mortality, 19–24% higher cardiovascular mortality, 24–31% higher respiratory mortality, and 10–17% higher cancer mortality, and adding grip strength to an office-based risk score improved cardiovascular mortality prediction (ΔC=0.012).
+Prospective cohort study (n=502,293 UK Biobank participants, aged 40–69 at recruitment, mean 7.1 years mortality follow-up; 22 UK assessment centres; 13,322 deaths) examining grip strength as a predictor of cardiovascular, respiratory, cancer, and all-cause mortality; 4-model Cox regression with landmark analysis to address reverse causality.
 
-## 한줄요약
+Each 5 kg lower grip strength was independently associated with 16–20% higher all-cause mortality (HR 1.16–1.20), 19–22% higher cardiovascular mortality, 24–31% higher respiratory mortality, and 10–17% higher cancer mortality; associations were larger in younger participants (≤55 years); muscle weakness thresholds (≤26 kg men, ≤16 kg women) identified as clinically useful strata.
 
-UK 바이오뱅크 502,293명 전향적 코호트(추적 7.1년): 악력 (Grip Strength, GS) 5 kg 감소당 전사망 위험비 (Hazard Ratio, HR) 1.16–1.20, 심혈관 사망 1.19–1.22, 호흡기 사망 1.24–1.31로 독립적으로 증가; 악력 추가 시 사무실기반 위험점수의 전사망 예측 C-index 0.013 향상.
+Adding grip strength to an office-based risk score (age/sex/BMI/blood pressure/diabetes/smoking) improved C-index for cardiovascular mortality by 0.012 and all-cause mortality by 0.013; UK Biobank response rate ~5.5% introduces healthy volunteer bias and limits generalizability.
+
+## 세줄요약
+
+UK 바이오뱅크 전향적 코호트(n=502,293명, 40–69세, 추적 7.1년, 사망 13,322건): 악력(Grip Strength, GS)을 사망 결과(전사망·심혈관·호흡기·암)의 예측인자로 4단계 Cox 회귀분석(이른 사건 제외 landmark 분석 포함)으로 검증.
+
+GS 5 kg 감소당 전사망 위험비(Hazard Ratio, HR) 1.16–1.20, 심혈관 사망 1.19–1.22, 호흡기 사망 1.24–1.31, 암 사망 1.10–1.17로 독립적으로 증가; 55세 이하에서 HR 더 큼(생물학적 노쇠 반영); 근력약화(남 ≤26 kg, 여 ≤16 kg) 임계값이 위험 계층화에 유용.
+
+사무실기반 위험점수(나이·성·BMI·혈압·당뇨·흡연)에 GS 추가 시 심혈관 사망 C-index +0.012, 전사망 +0.013 개선; 바이오뱅크 응답률 ~5.5%로 건강 자원봉사자 편향·외적 타당도 제한.
 
 ## 1. Document Information
 

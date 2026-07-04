@@ -16,13 +16,21 @@ text_filename: de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr.txt
 
 10-MDP는 in-vitro에서 hydroxyapatite와 안정적인 chemical bond (MDP-Ca salt, nanolayering)를 형성한다는 근거가 강하지만, 이 분자적 이점이 **self-etch dentin 접착의 실제 임상 성과**로 이어지는지는 별개의 질문이다. 본 SR+MA (de Oliveira 2021, 11 RCTs)는 NCCL(주로 dentin substrate) 수복에서 10-MDP 함유 vs 비함유 self-etch 접착제를 직접 비교해 임상 결과(retention 등)에 차이가 없음을 보여, in-vitro bond-strength 우위가 임상으로 자동 전이되지 않는다는 경고를 제공한다. Sibling SR+MA [[wiki/resin-bonding/fehrenbach-2021-10-mdp-bonding-performance-sr-ma]] (bond-strength 관점)와 짝을 이뤄 "분자 vs 임상" gap을 메운다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 RCTs (NCCL restorations) found no significant difference in clinical performance between self-etch adhesives with vs without the 10-MDP functional monomer (p=0.05; I²=0–53%; moderate-to-high GRADE certainty).
+SR+MA of 11 RCTs (PROSPERO CRD42016050538; 4,208 records screened) comparing clinical performance of self-etch adhesives with vs without the 10-MDP functional monomer in noncarious cervical lesion (NCCL) restorations; risk of bias assessed with Cochrane tool (9 low risk, 2 unclear); GRADE certainty moderate-to-high.
 
-## 한줄요약
+No significant difference was found in clinical performance between 10-MDP-containing and 10-MDP-free self-etch adhesives across all evaluated criteria (p=0.05; I²=0–53%).
 
-11개 RCT를 메타분석한 결과, NCCL 수복에서 10-MDP 함유 self-etch 접착제와 비함유 접착제 사이에 임상 성과 차이가 없었다 (p=0.05, I²=0–53%, GRADE 중등도–높음).
+The clinical null result cautions against assuming that 10-MDP's favorable in-vitro chemistry (hydroxyapatite nanolayering, MDP-Ca salts) automatically translates into superior clinical restoration outcomes in NCCL — the molecular advantage does not confer a measurable clinical benefit in this substrate.
+
+## 세줄요약
+
+SR+MA(11편 RCT, PROSPERO CRD42016050538; 4,208건 스크리닝): 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 수복에서 10-MDP 함유 vs 비함유 자가산부식 접착제의 임상 성과 비교; Cochrane 비뚤림 위험(9편 낮음, 2편 불명확); GRADE 중등도–높음.
+
+10-MDP 함유 여부에 따른 임상 성과 차이 없음 — 전 평가 기준에서 p=0.05, I²=0–53%.
+
+In vitro에서 10-MDP의 분자적 이점(수산화인회석 나노층 형성·MDP-Ca 염)이 NCCL 임상 성과로 자동 전이되지 않음 — 분자 vs 임상 gap의 경고 신호.
 
 ## 1. Document Information
 

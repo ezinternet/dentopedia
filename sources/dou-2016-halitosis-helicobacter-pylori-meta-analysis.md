@@ -13,13 +13,21 @@ source_collection: external
 
 Clarifies the gastric/extra-oral etiology of halitosis by meta-analyzing the H. pylori–halitosis relationship, a question not addressed by the existing oral-etiology-focused wiki pages (e.g., [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]]). Provides quantified odds ratios and eradication therapy data that directly inform clinical decision-making for refractory halitosis.
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis of 21 studies (n varied by subgroup) found H. pylori infection significantly associated with halitosis (OR 2.85, 95% CI 1.40–5.83), and successful H. pylori eradication markedly reduced halitosis (RR 0.17, 95% CI 0.08–0.39).
+Meta-analysis of 21 studies across 4 comparative subgroups examining the association between Helicobacter pylori infection and halitosis, with subgroup analyses by direction of association and eradication outcomes.
 
-## 한줄요약
+H. pylori-infected patients had 2.85-fold higher odds of halitosis (OR 2.85, 95% CI 1.40–5.83), and successful H. pylori eradication reduced halitosis by 83% (RR 0.17, 95% CI 0.08–0.39), with pre-eradication halitosis 4.78-fold higher than post-eradication.
 
-21개 연구를 메타분석한 결과, 헬리코박터 파일로리(H. pylori) 감염은 구취와 유의하게 연관되었으며(OR 2.85), 제균 치료 성공 시 구취가 현저히 감소(RR 0.17)하였다.
+H. pylori eradication is an evidence-supported therapeutic option for refractory halitosis, though causality remains unproven; confounding variables (periodontal disease, oral hygiene, tongue coating) were not consistently controlled across studies.
+
+## 세줄요약
+
+4개 소그룹으로 분류된 21개 연구의 메타분석으로, 헬리코박터 파일로리 감염과 구취 간의 연관성을 양방향 및 제균 결과별로 검토한 비교 연구.
+
+H. pylori 감염자의 구취 발생 확률은 2.85배 높았으며(OR 2.85, 95% CI 1.40–5.83), 제균 치료 성공 시 구취가 83% 감소(RR 0.17, 95% CI 0.08–0.39), 제균 전후 구취 유병률이 4.78배 차이.
+
+H. pylori 제균은 난치성 구취의 근거 기반 치료 옵션이나, 인과관계는 미확립되었으며 치주질환·구강위생·설태 등 혼란 변수가 연구 간에 일관되게 배제되지 않음.
 
 ## 1. Document Information
 

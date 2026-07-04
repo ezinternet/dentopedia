@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, Densah, primary-stability, D3-bone, sinus-lift, critical-review]
 ---
 
-## One-line Summary
-Critical narrative review (Dent J 2025) of osseodensification (OD): primary implant stability (insertion torque) is consistently higher with OD vs conventional drilling, the ISQ advantage is inconsistent, benefits are most pronounced in D3/D4 soft bone and transcrestal sinus augmentation, and long-term RCT evidence is lacking.
+## Three-line Summary
 
-## 한줄요약
-비판적 서술고찰(Dent J 2025): OD 기법 근거 평가 — 1차 안정성 향상 일관되게 확인; ISQ 이점 가변적; D3/D4 및 경치조골 거상에서 효과 가장 큼; 장기 RCT 부족.
+Critical narrative review (Dent J 2025) evaluating the evidence base for osseodensification (OD) across multiple clinical outcomes in implant dentistry.
+
+Primary stability (insertion torque) is consistently higher with OD vs conventional drilling; ISQ advantage is present in some studies but inconsistent; benefits are most pronounced in D3/D4 soft bone and transcrestal sinus floor elevation; long-term RCTs and standardized protocols are absent.
+
+OD has a defensible role in soft bone and transcrestal sinus augmentation, but the absence of long-term RCT data and inconsistent ISQ findings prevent recommending OD as a universal drilling replacement.
+
+## 세줄요약
+
+비판적 서술 고찰 (Dent J 2025) — 임플란트 치과에서 골밀도화 (Osseodensification, OD) 기법의 근거 평가.
+
+1차 안정성 (삽입 토크) 향상은 일관되게 확인; 임플란트 안정성 지수 (ISQ) 이점은 일부 연구에서만 확인, 가변적; D3/D4 연질 골 및 경치조골 상악동 거상 (Crestal Sinus Floor Elevation, CSFE)에서 효과 가장 뚜렷; 장기 무작위대조시험 (RCT) 및 표준화 프로토콜 부재.
+
+OD는 연질 골·경치조골 거상에서 방어 가능한 근거 있음; 그러나 장기 RCT 부재·ISQ 불일치로 범용 드릴링 대체로 권고 불가.
 
 ## Summary
 Critical narrative review evaluating the evidence base for osseodensification (OD) in implant dentistry. Consistently confirms higher primary implant stability with OD vs conventional drilling. ISQ advantage is present in some studies but inconsistent across reports. OD benefits are most pronounced in D3/D4 (soft) bone quality and transcrestal sinus augmentation. Major limitation: absence of long-term RCTs and standardised protocols.

@@ -21,13 +21,21 @@ relations:
     target: kyaw-2023-effect-chemical-electrochemical-decontamination-protocols
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study of 50 used healing abutments across 5 enzymatic-cleaner decontamination strategies (A–E): Groups D/E removed the most debris/protein and Group A the least, but ALL cleaned groups still induced high macrophage inflammatory cytokine secretion (9-cytokine multiplex, up to 5 days) vs new controls — authors conclude clinicians should not reuse HAs even after decontamination and sterilization.
+In vitro study (50 used healing abutments, 5 enzymatic-cleaner decontamination strategies A–E, n=10 each; 10 new sterile HAs as controls) comparing macroscopic/proteomic cleanliness (Micro BCA residual protein + Phloxine B debris staining) against biologic inertness (human primary macrophage 9-cytokine multiplex, up to 5 days).
 
-## 한줄요약
+Groups D/E (prophy jet + enzymatic steps) removed the most debris and protein, Group A the least; however, all cleaned groups — including the cleanest — still induced high inflammatory cytokine secretion vs new controls for up to 5 days, demonstrating that cleanliness does not predict biologic inertness.
 
-사용된 힐링어버트먼트 50개를 효소세정제 5개 프로토콜(A~E)로 처리한 in vitro 연구 — D/E군이 잔여 debris·단백질을 가장 잘 제거하고 A군이 최하였으나, 세정한 모든 군이 대조(신품) 대비 대식세포 염증성 사이토카인 분비(9종 멀티플렉스, 최대 5일)를 높게 유발 → 저자 결론은 "재멸균·재세정해도 힐링어버트먼트를 재사용하지 말라".
+Clinical implication: the strongest explicit anti-reuse conclusion in the batch — clinicians should NOT reuse healing abutments even after enzymatic decontamination and sterilization; this "sterile ≠ inert" decoupling extends the anchor SR's caution (Bidra 2019) into a biologic-response endpoint.
+
+## 세줄요약
+
+사용된 힐링어버트먼트 50개를 효소세정제 5개 프로토콜(A–E, 각 n=10)로 처리 후 신품 10개와 비교 — 육안/Micro BCA 단백질 잔류(세정 품질)와 인간 대식세포 9종 사이토카인(생물학적 불활성도)을 동시 평가.
+
+D/E군이 잔여 debris·단백질 최소(A군 최대); 그러나 가장 깨끗한 군 포함, 세정된 모든 군이 대조(신품) 대비 최대 5일간 높은 염증 사이토카인 분비 유발 → "세정 품질 ≠ 생물학적 불활성도" 디커플링 확인.
+
+임상 의미: 이 batch에서 가장 강한 재사용 금지 결론 — 효소세정·멸균 후에도 힐링어버트먼트를 재사용하지 말 것; "멸균됐어도 불활성이 아님"의 생물학적 근거로 Bidra 2019 SR의 주의 권고를 biologic endpoint로 확장.
 
 ## Summary
 

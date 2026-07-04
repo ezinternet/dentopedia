@@ -9,7 +9,7 @@ pdf_filename: tian-2026-large-sinus-membrane-perforations-collagen.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Technical note describing a tack-stabilized collagen membrane technique for repairing large (>10 mm) Schneiderian membrane perforations during lateral-window maxillary sinus floor elevation, permitting simultaneous bone augmentation rather than aborting/reentry.
 
 ## 1. Document Information

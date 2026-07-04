@@ -13,13 +13,21 @@ source_collection: external
 tags: [implant-abutment-connection, microgap, synchrotron, cone-angle, abutment-displacement, peri-implantitis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro synchrotron microtomography of 4 IAC designs under static loading (30–200 N) found pre-load microgaps in all systems (0.15–9 μm) expanding to 40.5 μm under load; small-angle conical friction-fit (<12°) caused inward abutment displacement deforming the outer implant wall, while large-angle butt-joint (~45°) showed different force distribution without outer-wall deformation.
+In vitro synchrotron microtomography study (n=2 per system, 4 IAC designs) examining microgap formation and abutment displacement under static loading (30–200 N).
 
-## 한줄요약
+All four systems had pre-existing microgaps (0.15–9 μm) before any load; under 100 N the largest gap reached 40.5 μm, and small-angle conical connections (<12°) caused inward abutment displacement deforming the outer implant wall.
 
-4종 임플란트 연결부(3종 소원추각 friction-fit <12°, 1종 대원추각 butt-joint ~45°)의 방사광 마이크로단층촬영 정하중 시험에서 하중 전부터 모든 시스템에 마이크로갭(0.15–9 μm)이 존재했고 하중 시 최대 40.5 μm로 증가했으며, 소원추각 연결부는 임플란트 외벽 변형을 유발하는 반면 대원추각 butt-joint는 다른 힘 분산 패턴을 보였다.
+Large-angle butt-joint (~45°) distributed forces differently without outer-wall deformation, suggesting cone angle critically determines crestal bone stress transmission.
+
+## 세줄요약
+
+체외 방사광 마이크로단층촬영 연구(시스템당 n=2, 4종 임플란트-지대주 연결부): 정하중(30–200 N) 하 마이크로갭 형성 및 지대주 변위 평가.
+
+4종 모두 하중 전부터 마이크로갭(0.15–9 μm)이 존재했고, 100 N 시 최대 40.5 μm로 확대; 소원추각(<12°) 연결부는 지대주 축내 침하로 임플란트 외벽을 변형시켰다.
+
+대원추각 butt-joint(~45°)는 외벽 변형 없이 다른 힘 분산 경로를 보여, 원추 각도가 치조정 골응력 전달의 핵심 인자임을 시사한다.
 
 ## Summary
 

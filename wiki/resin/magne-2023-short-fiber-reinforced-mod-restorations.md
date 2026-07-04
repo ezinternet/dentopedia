@@ -19,11 +19,21 @@ relations:
     target: meereis-2018-polymerization-shrinkage-stress-resin-sr-ma
 ---
 
-## One-line Summary
-In-vitro fatigue + enamel-crack study (36 maxillary molars, n=12/group) showing polymerization-shrinkage stress causes large (>3 mm) enamel cracks in 67-83% of direct MOD restorations of severely undermined cusps, whereas CAD/CAM inlays with a short-fiber-reinforced composite (SFRC) base (lowest V-factor) produce essentially no shrinkage cracks and the best survival and most reparable failure modes.
+## Three-line Summary
 
-## 한줄요약
-In-vitro 피로·균열 연구(상악 대구치 36개, 군당 12): 심하게 undermine된 교두의 대형 MOD에서 중합수축응력이 직접수복의 67-83%에 >3 mm 법랑질 균열을 유발; SFRC base + CAD/CAM 인레이(최저 V-factor)는 수축균열 거의 0·최고 생존율·가장 reparable한 파절양상.
+In-vitro fatigue and enamel-crack study (36 maxillary molars, n=12/group) of large MOD restorations with severely undermined cusps comparing direct composite, direct SFRC-base composite, and CAD/CAM inlay over SFRC base.
+
+Polymerization shrinkage stress caused large (>3 mm) enamel cracks in 83% of direct controls and 67% of direct-SFRC cases, versus 0% in the CAD/CAM inlay group; inlays also had the best fatigue survival and the most reparable failure modes (75% reparable vs 100% irreparable for the direct control).
+
+For severely undermined cusps, the thin luting-cement layer of a CAD/CAM inlay (minimum V-factor) virtually eliminates shrinkage-induced cracking; direct techniques remain high-risk for this indication regardless of SFRC use.
+
+## 세줄요약
+
+In-vitro 피로·균열 연구(상악 대구치 36개, 군당 12): 심하게 undermine된 교두의 대형 MOD에서 직접 레진·직접 SFRC base 레진·CAD/CAM 인레이+SFRC base 3군 비교.
+
+중합수축응력으로 인한 >3 mm 법랑질 균열: 직접 대조군 83%, 직접 SFRC군 67%, CAD/CAM 인레이군 0%; 인레이군 피로 생존율 최고 및 파절 양상 가장 수리 가능(75% reparable vs 직접 대조군 100% irreparable).
+
+심하게 undermine된 교두에는 박층 luting cement(최저 V-factor)를 갖는 CAD/CAM 인레이가 수축균열을 사실상 제거; SFRC base를 사용해도 직접 수복은 여전히 고위험.
 
 ## Summary
 This Journal of Adhesive Dentistry (2023) study by Magne and Milani is the clinical-consequence bookend to the bench shrinkage literature: it shows what polymerization-shrinkage stress actually does to a tooth. Thirty-six maxillary molars received standardized large MOD preparations (5×5 mm) with severely undermined, unsupported enamel cusps, then were restored three ways: (1) direct composite alone (Gradia Direct), (2) direct with a short-fiber-reinforced composite (SFRC, everX Flow) base, or (3) a CAD/CAM inlay (Cerasmart 270) over an SFRC base. Enamel cracking was tracked by transillumination before and after restoration. Shrinkage stress produced large (>3 mm) enamel cracks in 83% of the direct control and 67% of the direct-SFRC group, but essentially none in the inlay group — because the inlay's thin luting layer minimizes the volume of shrinking material (V-factor). Inlays also had the best fatigue survival and the most reparable failures; the direct control had 100% catastrophic failures. Notably, the flowable everX Flow only modestly reduced cracking because its shrinkage (-2.58%) is higher than the original everX Posterior (-1.52%).

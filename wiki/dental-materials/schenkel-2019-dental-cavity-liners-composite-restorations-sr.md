@@ -20,13 +20,21 @@ relations:
     target: singh-2024-gic-rmgic-biological-response-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR + meta-analysis (8 RCTs, >700 participants) found inconsistent, low-quality evidence that a cavity liner under Class I/II posterior composite reduces postoperative hypersensitivity, and no evidence it improves restoration longevity.
+Cochrane SR + meta-analysis (8 RCTs, >700 participants; permanent teeth; databases through November 2018) assessing whether a cavity liner placed under Class I/II posterior resin-based composite reduces postoperative hypersensitivity or improves restoration longevity.
 
-## 한줄요약
+Postoperative hypersensitivity showed only inconsistent, low-quality benefit at some time points but not others; restoration failure at 1–2 years was identical in both groups (one trial RR 1.00, 95% CI 0.07–15.00; zero failures in three others).
 
-코크란 SR+MA(8 RCT, 700명 초과): Class I/II 구치부 컴포지트 밑에 cavity liner를 깔아도 술후 과민증 감소 근거는 일관성 없는 저질이고, 수복물 수명 향상 근거는 없음 → 라이너 통상 사용의 적응증 약함.
+Routine lining under a posterior composite is not supported by high-certainty evidence; placement is justified only by case-specific indications (deep cavity, dentin sealing, blocking undercuts).
+
+## 세줄요약
+
+코크란 SR+MA(8 RCT, 700명 초과; 영구치; 2018년 11월까지 DB 검색): Class I/II 구치부 레진 복합체(Resin-Based Composite, RBC) 하방에 cavity liner를 위치시키는 것이 술후 과민증 또는 수복물 수명에 미치는 효과 평가.
+
+술후 과민증은 일부 시점에서만 일관성 없는 저질(Low-quality) 근거로 감소; 1–2년 수복물 실패율은 두 군 동등(한 연구 RR 1.00, 95% CI 0.07–15.00; 나머지 세 연구 실패 없음).
+
+구치부 컴포지트 하방에 라이너를 일상적으로 위치시키는 것은 고질(High-certainty) 근거로 지지되지 않으며, 심와동·상아질 밀봉·언더컷 차단 등 증례별 이유에서만 정당화됨.
 
 ## Summary
 

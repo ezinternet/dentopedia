@@ -13,11 +13,21 @@ source_collection: external
 
 [[practice-management/jkda-2024-62-6-001]]의 임상 practice-pattern 관점에 미국 PBRN 데이터 기반 endodontist vs GP NSRCT 술식 격차 근거 추가. rubber dam·확대경·NaOCl/EDTA 사용 등 표준 술식 채택률 차이를 정량화해 우리 클리닉 SOP 벤치마크로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 Prospective cohort (US PBRN PREDICT) showing endodontists were significantly more likely than general dentists to use >5× magnification, rubber dam isolation, NaOCl, and EDTA/H2O2/chlorhexidine irrigation during non-surgical root canal treatment.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 전향 코호트(미국 PBRN PREDICT): 비외과 근관치료(NSRCT)에서 치과의사(GD) 대비 근관전문의가 >5× 확대경·러버댐·NaOCl·EDTA/H2O2/CHX 세정 사용률이 유의하게 높음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Int Endod J 2025;58:1408–1419. National Dental PBRN PREDICT Project. Prospective cohort.

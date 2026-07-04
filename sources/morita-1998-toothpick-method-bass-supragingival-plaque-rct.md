@@ -16,13 +16,23 @@ text_filename: morita-1998-toothpick-method-bass-supragingival-plaque-rct.txt
 
 This is the origin/cornerstone RCT of the Watanabe Toothpick method (T. Watanabe, the method's eponym, is a coauthor) and the single direct head-to-head trial showing the Toothpick method removes more proximal plaque than the Bass method. It supplies the empirical primary-study evidence that the systematic review [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] cites, and anchors the clinical-outcome line carried forward by [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]].
 
-## One-line Summary
+## Three-line Summary
+
 
 RCT (n=20 dental students, split-mouth, modified Quigley-Hein index): the Toothpick toothbrushing method removed significantly more proximal-surface plaque than the Bass method.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 무작위 대조시험(치대생 20명, split-mouth, 변형 Quigley-Hein 지수): 이쑤시개법(Toothpick method)이 Bass법보다 인접면 치면세균막을 유의하게 더 많이 제거했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -9,7 +9,7 @@ pdf_filename: lim-2023-milled-vs-3d-printed-inlays-accuracy.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 인비트로(n=52): 전통레진(TS)·밀링 하이브리드(LU)·밀링 지르코니아(ZR)·3D프린팅(NextDent) 인레이 4그룹 변연/내부적합도 및 3D 정확도 비교
 
 ## 1. Document Information

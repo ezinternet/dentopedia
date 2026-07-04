@@ -13,11 +13,19 @@ source_collection: external
 
 Herrera 2018 [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]]이 endo-perio 병변(EPL)을 분류했다면, 본 overview는 그 복합병변의 미세수술적 처치(microsurgery + GTR/골이식/차폐막)를 정리한다. EPL 분류→치료의 연결고리.
 
-## One-line Summary
-Narrative overview arguing that microsurgical management of combined endodontic-periodontal lesions — endodontic microsurgery plus concurrent bone grafting, membrane barriers, and papilla-preserving flaps for primary closure — outperforms traditional surgical approaches.
+## Three-line Summary
+Narrative overview (J Conserv Dent 2014) synthesizing microsurgical principles for combined endodontic-periodontal lesions (EPLs), arguing that endodontic microsurgery combined with concurrent bone grafting, barrier membranes, and papilla-preserving flaps for primary closure outperforms traditional approaches.
 
-## 한줄요약
-복합 치수치주병변의 미세수술적 처치 overview — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판을 통한 1차 폐쇄가 전통적 술식보다 우수하다는 주장.
+Key principle: concurrent regenerative procedures (GTR with graft submergence) prevent epithelial downgrowth and enable cementum/fiber/bone regeneration, which determines case outcome more than the endodontic component alone.
+
+This is a narrative overview without pooled outcome data or comparative trials, and results depend heavily on operator microsurgical skill — it provides a conceptual framework rather than evidence-based thresholds.
+
+## 세줄요약
+서술적 고찰(J Conserv Dent 2014) — 복합 치수치주병변(EPL)에서 근관 미세수술+동시 골이식·차폐막·유두보존 피판을 통한 1차 폐쇄가 전통 술식보다 우월하다는 논지를 종합.
+
+핵심 원리: GTR(골이식 매몰+차폐막)으로 상피 하방 이동을 차단하고 백악질·섬유·골 재생을 도모하는 것이 예후를 결정하는 핵심 단계임.
+
+비교 임상시험 없는 서술적 고찰이며 결과는 술자의 미세수술 숙련도에 크게 의존 — 근거 기반 임계값보다는 개념적 프레임워크를 제공함.
 
 ## 1. Document Information
 - J Conserv Dent 2014;17(6):510–516. Overview. DOI 10.4103/0972-0707.144571. PMCID PMC4252921.

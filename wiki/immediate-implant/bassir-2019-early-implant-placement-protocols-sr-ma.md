@@ -16,13 +16,21 @@ relations:
     target: tonetti-2017-immediate-vs-delayed-implant-timing-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 12 studies finding early implant placement yields implant failure rates equivalent to immediate and delayed protocols, but with significantly less marginal bone loss than immediate placement into fresh sockets (WMD −0.14 mm, 95% CI −0.22 to −0.05).
+SR+MA (12 studies, J Periodontol 2019) comparing early implant placement (4–8 weeks) against immediate and delayed protocols across failure rates, marginal bone loss, probing depth, and soft-tissue outcomes.
 
-## 한줄요약
+Implant failure rates were statistically equivalent across all three timing protocols; early placement produced significantly less marginal bone loss than immediate placement into fresh sockets (WMD −0.14 mm, 95% CI −0.22 to −0.05, p=0.001).
 
-12편 SR+MA — 조기식립은 즉시·지연 식립과 임플란트 실패율이 동등하나, 신선 발치와 즉시식립보다 변연골소실이 유의하게 적었다(WMD −0.14 mm).
+Early placement offers a balanced timing choice — matching immediate and delayed protocols for survival while providing superior peri-implant hard-tissue stability over immediate placement, supporting it as a first-line option when soft-tissue maturation before implantation is feasible.
+
+## 세줄요약
+
+SR+MA (12편, J Periodontol 2019): 조기식립(4–8주)과 즉시·지연 식립을 실패율·변연골소실·탐침깊이·연조직 수준에서 비교.
+
+임플란트 실패율은 세 타이밍 모두 통계적으로 동등; 조기식립이 신선 발치와 즉시식립보다 변연골소실 유의하게 적음(WMD −0.14 mm, 95% CI −0.22 to −0.05, p=0.001).
+
+조기식립은 즉시·지연 식립과 동등한 생존율을 유지하면서 경조직 안정성 면에서 즉시식립보다 유리해, 연조직 성숙 후 식립이 가능한 경우 균형 잡힌 우선 선택지로 지지된다.
 
 ## Summary
 

@@ -22,13 +22,21 @@ relations:
     target: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 16 RCTs (712 patients): adjunctive subgingival irrigation with chemical agents (PVP-I, CHX, essential oils, ozonated water, boric acid) during NSPT gave NO additional benefit over water/saline in PPD reduction (MD 0.01 mm), CAL gain (MD 0.09 mm), or BOP; evidence low to very low.
+SR+MA (PRISMA; PROSPERO 1011516) of 16 RCTs (712 patients; agents: PVP-I, CHX, essential oils, ozonated water, boric acid; ≥3 months follow-up) testing whether subgingival irrigation with chemical agents during NSPT adds benefit over water/saline.
 
-## 한줄요약
+No additional benefit was found for PPD (MD 0.01 mm), CAL (MD 0.09 mm), or BOP reduction; no subgroup by agent, irrigation method, follow-up, or furcation involvement changed this null result; evidence rated low to very low (GRADE).
 
-16편 RCT(712명) SR+MA — NSPT에 약제(PVP-I·CHX·정유·오존수·붕산) 치은연하 세척을 더해도 물/식염수 대비 PPD(MD 0.01mm)·CAL(MD 0.09mm)·BOP에 추가 이득 없음(근거수준 낮음~매우낮음).
+Under antimicrobial-stewardship principles, routine adjunctive subgingival irrigation with chemical agents during NSPT is not supported by current evidence.
+
+## 세줄요약
+
+NSPT 중 약제(PVP-I·CHX·정유·오존수·붕산) 치은연하 세척이 물/식염수 대비 추가 이득을 주는지 평가한 16편 RCT(712명; ≥3개월 추적) SR+MA(PRISMA; PROSPERO 1011516).
+
+PPD(MD 0.01 mm)·CAL(MD 0.09 mm)·BOP 감소 모두 추가 이득 없음; 약제별·세척방법별·추적기간별·치근분지별 하위분석에서도 음성 결과 유지; 근거수준 낮음~매우낮음(GRADE).
+
+항균제 내성 관리 원칙하에 NSPT 중 약제 치은연하 세척의 일상적 사용은 현재 근거로 지지되지 않음.
 
 ## Summary
 

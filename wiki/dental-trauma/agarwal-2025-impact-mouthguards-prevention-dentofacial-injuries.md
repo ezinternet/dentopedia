@@ -19,13 +19,21 @@ relations:
     target: debrier-2020-storage-avulsed-tooth-prior
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (9 SRs, AMSTAR-2 appraised; variable/low underlying quality): mouthguards significantly reduce dentofacial injuries — especially avulsions and fractures — with custom-made designs superior in protection and comfort; performance effects mixed.
+Umbrella review (PRIOR-guided overview of reviews; 466 records → 9 SRs included; AMSTAR-2 quality appraisal; Corrected Covered Area overlap index) synthesizing the evidence on mouthguards for preventing dentofacial injuries in athletes.
 
-## 한줄요약
+Mouthguards significantly reduce dentofacial injuries — particularly the high-consequence avulsions and fractures — with custom-made (lab-fabricated) designs outperforming stock and boil-and-bite on protection and comfort; effects on athletic performance are mixed.
 
-엄브렐러 리뷰 (SR 9편, AMSTAR-2 평가; 근거질 가변·낮음): 마우스가드(MG)는 치아안면 손상, 특히 탈구·파절을 유의하게 감소시키며 맞춤형(custom-made)이 보호·착용감에서 우수하다. 운동수행 영향은 혼재.
+The overall conclusion is limited by methodological variability and low AMSTAR-2 quality across several underlying reviews, but the prevention benefit is consistent enough to support mandatory-use policies and athlete education.
+
+## 세줄요약
+
+엄브렐러 리뷰 (PRIOR 가이드; 466건 검색 → SR 9편 포함; AMSTAR-2 질 평가; Corrected Covered Area 중복 지수): 운동선수의 치아안면 손상 예방에 대한 마우스가드(Mouthguard, MG) 근거 종합.
+
+마우스가드가 치아안면 손상 — 특히 예후가 불량한 탈구(avulsion)와 파절 — 을 유의하게 감소시키며, 맞춤형(custom-made)이 기성품 및 끓는 물 성형형보다 보호·착용감 우수; 운동 수행 능력에 대한 영향은 혼재.
+
+기저 SR 다수의 AMSTAR-2 질이 낮아 전체 결론의 강도는 제한되나, 예방 효과는 일관되어 의무 착용 정책과 선수 교육을 지지할 만한 수준이다.
 
 ## Summary
 

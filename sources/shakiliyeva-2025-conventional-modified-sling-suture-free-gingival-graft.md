@@ -13,13 +13,23 @@ source_collection: external
 
 Part of a focused collection on suture techniques & primary wound closure (this batch = suture biomechanics / tissue adhesive / gingival graft suturing). This is the clinical RCT anchor of the batch — it tests whether suture technique (conventional vs modified sling) and graft technique (gingival unit transfer vs conventional graft) affect free gingival graft (FGG) shrinkage and keratinized-tissue gain in patients. It contextualizes the ex-vivo flap-stabilization findings of [[suture-wound-closure/pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap]] with a real-patient soft-tissue-graft outcome.
 
-## One-line Summary
+## Three-line Summary
 
-Three-month parallel-design RCT (60 enrolled, 52 completed; 4 groups of n=13): in free gingival graft surgery, graft technique mattered more than suture technique — gingival unit transfer (GUT) showed less graft shrinkage than conventional graft (CG) regardless of suture, while the modified sling suture (MSS) gave no advantage and GUT+conventional-suture had the largest keratinized-tissue-width gain.
 
-## 한줄요약
+Three-month parallel-design RCT (60 enrolled, 52 completed;
 
-3개월 평행설계 RCT (60명 등록, 52명 완료; 4군 각 n=13): 유리치은이식술(FGG)에서 봉합법보다 이식편 기법이 더 중요했음 — 치은단위이식(GUT)이 봉합법과 무관하게 통상이식(CG)보다 이식편 수축이 적었고, 변형 슬링봉합(MSS)은 이점이 없었으며 GUT+통상봉합이 각화조직폭 증가가 가장 컸음.
+4 groups of n=13): in free gingival graft surgery, graft technique mattered more than suture technique — gingival unit transfer (GUT) showed less graft shrinkage than conventional graft (CG) regardless of suture, while the modified sling suture (MSS) gave no advantage and GUT+conventional-suture had the largest keratinized-tissue-width gain.
+
+(incomplete)
+
+## 세줄요약
+
+
+3개월 평행설계 RCT (60명 등록, 52명 완료;
+
+4군 각 n=13): 유리치은이식술(FGG)에서 봉합법보다 이식편 기법이 더 중요했음 — 치은단위이식(GUT)이 봉합법과 무관하게 통상이식(CG)보다 이식편 수축이 적었고, 변형 슬링봉합(MSS)은 이점이 없었으며 GUT+통상봉합이 각화조직폭 증가가 가장 컸음.
+
+(incomplete)
 
 ## 1. Document Information
 

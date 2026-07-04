@@ -13,13 +13,21 @@ source_collection: external
 
 This is the foundational paper that first formalized the **six factors governing osseointegration** (implant material, design, surface finish, status of the bone, surgical technique, loading conditions) — the conceptual bedrock under every modern stability, surface-modification, and loading-protocol page in the wiki. It anchors and gives historical provenance to [[implants/surface/abu-alfaraj-2023-osseointegration-strategies-implantology-review]] and [[implants/surface/smeets-2016-implant-surface-modifications-osseointegration]], which review how implant-surface technology has advanced from the empirical "somewhat rougher" finishes Albrektsson described to today's SLA/anodized/bioactive surfaces.
 
-## One-line Summary
+## Three-line Summary
 
-Landmark clinical/ultrastructural study (n=38 stable titanium screws removed from 18 patients; ~3000 implants placed since 1965, 400-patient base) that defined osseointegration as direct light- and electron-microscopic bone-to-implant contact and codified six prerequisites for achieving it: implant material, design, finish, bone status, surgical technique, and loading conditions.
+Landmark clinical/ultrastructural study (38 stable titanium screws retrieved from 18 patients; ~3000 implants placed since 1965; 400-patient outcome base) that first defined osseointegration as direct bone-to-implant contact confirmed at the electron-microscopic level.
 
-## 한줄요약
+The paper codified six prerequisites for osseointegration: implant material (unalloyed titanium), design (threaded), surface finish, bone status, surgical technique (minimal trauma, cooling), and loading conditions (3–4 months unloaded healing in man).
 
-골유착(osseointegration)을 광학·전자현미경 수준의 직접 골-임플란트 접촉으로 정의하고, 이를 달성하기 위한 6가지 전제조건(임플란트 재료·디자인·표면처리·골 상태·외과적 술식·하중 조건)을 처음으로 체계화한 기념비적 임상·초미세구조 연구 (환자 18명에서 회수한 안정된 티타늄 스크류 38개; 1965년 이래 약 3000개 식립, 400명 환자 기반).
+Immediate loading and rigid coupling to natural teeth were identified as major causes of fibrous encapsulation; 5-year survival was ~100% (mandible) and ~95% (maxilla) in the 400-patient cohort.
+
+## 세줄요약
+
+기념비적 임상·초미세구조 연구(환자 18명에서 회수한 안정된 티타늄 스크류 38개; 1965년 이래 약 3000개 식립): 골유착(osseointegration)을 광학·전자현미경 수준의 직접 골-임플란트 접촉으로 처음 정의.
+
+골유착 달성을 위한 6가지 전제조건 체계화 — 임플란트 재료(순티타늄), 디자인(나사형), 표면처리, 골 상태, 외과적 술식(최소 외상·냉각), 하중 조건(인체에서 3–4개월 비하중 치유).
+
+즉시 하중과 자연치아로의 강성 연결이 섬유성 피막의 주요 원인으로 지목; 400명 코호트에서 5년 생존율 하악 약 100%, 상악 약 95%.
 
 ## 1. Document Information
 

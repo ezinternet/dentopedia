@@ -19,13 +19,21 @@ relations:
     target: sabri-2024-titanium-mesh-bone-augmentation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (n=9): 3D-printed Ti mesh; vertical gain 4.8 ± 2.4 mm, volumetric gain 0.49 cm³; mesh exposure 77.8% (7/9); complete early exposure in 22.2% → total graft loss.
+Retrospective consecutive case series (n=9 patients, University of Florida Periodontology) using customized 3D-printed Ti mesh for GBR in combined large (n=5), vertical large (n=2), and combined medium (n=2) alveolar defects; introduced CBCT subtraction volumetric analysis and "augmentation efficacy" (cm³/mm) as outcome metrics.
 
-## 한줄요약
+Mean overall vertical bone gain was 4.8 ± 2.4 mm; volumetric gain 0.49 ± 0.20 cm³; graft volume stability 87.9 ± 19.5%; mesh exposure occurred in 7/9 (77.8%), with complete early exposure in 2/9 (22.2%) leading to total graft loss in both cases.
 
-후향 증례시리즈 (n=9): 3D 프린팅 Ti 메쉬; 수직 골증대 4.8 ± 2.4 mm, 용적 증대 0.49 cm³; 메쉬 노출 77.8%(7/9); 조기 완전노출 22.2% → 이식물 전손실.
+The 77.8% exposure rate stands in stark contrast to Keller 2026 (0% with micro-perforated grade-2 Ti, pure autograft) — both used 3D-printed Ti mesh, confirming that exposure risk is design- and technique-dependent, not inherent to 3D printing; complete early exposure is a catastrophic all-or-nothing event that necessitates graft revision.
+
+## 세줄요약
+
+후향적 연속 증례 시리즈(n=9명, 플로리다대학교 치주과): 맞춤형 3D 프린팅 Ti 메시로 복합 대형(n=5)·수직 대형(n=2)·복합 중형(n=2) 치조 결손에 골유도재생술(GBR) 시행; CBCT 감산 용적 분석 및 "증대 효율(Augmentation Efficacy, cm³/mm)" 지표 도입.
+
+전체 평균 수직 골증대 4.8 ± 2.4 mm; 용적 증대 0.49 ± 0.20 cm³; 이식재 용적 안정성 87.9 ± 19.5%; 메시 노출 7/9(77.8%), 완전 조기 노출 2/9(22.2%) → 양 증례 이식재 전손실.
+
+77.8% 노출률은 Keller 2026(마이크로 퍼포레이션 grade-2 Ti, 순수 자가골에서 0%)과 직접 대조됨 — 동일한 3D 프린팅 기술로 극단적 차이가 나타나, 노출 위험이 기술 자체가 아닌 메시 디자인·술식에 의존함을 확인; 완전 조기 노출은 이식재 전손실로 이어지는 파국적 사건.
 
 ## Summary
 

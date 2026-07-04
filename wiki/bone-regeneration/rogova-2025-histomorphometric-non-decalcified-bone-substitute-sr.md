@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Methodological systematic review (118 studies, 2015–2024, non-decalcified plastic-embedded specimens): in bone-regeneration histomorphometry the most-used animal models are rat > rabbit > sheep > dog, toluidine blue is the dominant stain, and outcomes center on new-bone formation, residual graft, and MAR (Mineral Apposition Rate via calcein green) — highlighting the need for methodological standardization.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰(118편, 2015–2024, 비탈회 plastic-embedded specimens): 골재생 연구의 동물모델은 rat>rabbit>sheep>dog 순; 염색은 toluidine blue 우세; 평가지표는 신생골 형성·잔존 이식재·MAR(Mineral Apposition Rate, calcein green) 중심 — 연구방법론 표준화 필요성 지적.
+Methodological systematic review (PCC framework, 118 studies, 2015–2024) mapping non-decalcified plastic-embedded histomorphometry practice across bone-regeneration studies using bone substitute materials.
+
+The most-used animal models rank rat > rabbit > sheep > dog > mini-pig, toluidine blue is the dominant stain, and the most common single parameter is new bone formation (%); residual graft (%), particle osseointegration (%), BIC, and MAR (Mineral Apposition Rate via calcein green fluorochrome) are standard secondary outcomes.
+
+Non-standardization of outcome definitions and measurement methods across studies is the dominant methodological gap that prevents pooling in meta-analyses.
+
+## 세줄요약
+
+방법론 체계적 문헌고찰(PCC 프레임워크, 118편, 2015–2024): 이식재를 사용한 골재생 비탈회 플라스틱 포매 조직형태계측 연구의 방법론 분포 지도 작성.
+
+동물모델: rat > rabbit > sheep > dog > mini-pig; 주요 염색: toluidine blue; 가장 흔한 단일 평가지표: 신생골 형성률(NB%); 표준 부지표: 잔존 이식재(RG%)·입자 골유착률(OI%)·골임플란트 접촉률(BIC)·광화부착속도(Mineral Apposition Rate, MAR, calcein green).
+
+평가지표 정의·측정법 비표준화가 메타분석 합산을 방해하는 핵심 방법론적 문제.
 
 ## Summary
 Rogova 등(2025, Varna 의대)은 비탈회 plastic-embedded specimen을 이용한 골재생 조직형태계측 연구 10년치(2015–2024) 118편을 PCC 프레임워크로 정리했다. 임상논문이 아니라 방법론 review로, 어떤 동물모델·염색·평가지표가 표준으로 자리잡았는지 보여주는 지도(map) 역할이다. 동물모델은 rat이 가장 많고(스크리닝 단계), 인체와의 골치유 유사도가 높은 dog·mini-pig는 상대적으로 적다. 평가지표의 약 절반이 골 관련(신생골 면적, 잔존 이식재, particle osseointegration, BIC 등)이며, 동적 평가는 calcein green을 이용한 MAR가 표준화돼 있다.

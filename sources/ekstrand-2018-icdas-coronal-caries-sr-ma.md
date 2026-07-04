@@ -9,7 +9,7 @@ pdf_filename: ekstrand-2018-icdas-coronal-caries-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 ICDAS 재현성·정확도 SR(54개 연구): 재현성 pooled >0.65, SROC 면적 D1 기준 >0.75로 전반적 양호; 병소 활성도 평가 시스템도 중등도 성능.
 
 ## 1. Document Information

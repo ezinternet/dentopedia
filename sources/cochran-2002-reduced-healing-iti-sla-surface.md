@@ -15,13 +15,21 @@ Foundational early-loading evidence for the SLA surface: this is the landmark pr
 
 > Note on source: the ingested PDF is the Wiley Online Library abstract + reference-list page (pp. 144–153 of Clin Oral Implants Res 13(2)), not the full article body. All quantitative claims below are taken verbatim from the structured abstract; methodological detail beyond the abstract is not available in this PDF.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective multicenter clinical trial (6 centers, 4 countries; 326 SLA ITI implants in 110 patients) showing 4.1 mm SLA solid-screw implants can be restored at ~6 weeks (~12 weeks for poor-quality class IV bone) with 99.3% abutment-placement success and 99.1% life-table implant success at 1 and 2 years.
+Prospective multicenter clinical trial (6 centers, 4 countries; 326 SLA ITI implants in 110 patients) testing whether a reduced ~6-week healing period was viable for 4.1 mm solid-screw implants in healthy patients with class I–III bone quality.
 
-## 한줄요약
+SLA implants restored after a mean 49 days achieved 99.3% abutment-placement success and a 99.1% life-table implant success rate at 1 and 2 years; class IV bone sites were held to the conventional ~12-week interval.
 
-전향적 다기관 임상연구(6개 센터·4개국, 110명·326개 SLA ITI 임플란트): 4.1 mm SLA 솔리드 스크류 임플란트를 약 6주(불량 골질 class IV는 약 12주)에 보철 수복했을 때 보철 연결 성공률 99.3%, 1·2년 생명표 임플란트 성공률 99.1%로, 짧아진 치유기간에도 높은 예측성을 입증함.
+These early results established the SLA surface as the historical baseline for early-loading protocols, though they derive from an abstract-only PDF and a selected healthy cohort without a control arm.
+
+## 세줄요약
+
+전향적 다기관 임상연구(6개 센터·4개국, 110명·326개 SLA ITI 임플란트): 건강한 환자·양호한 골질(class I–III)에서 4.1 mm SLA 솔리드 스크류 임플란트를 평균 49일(약 7주) 만에 보철 수복하는 단축 치유 프로토콜을 검증.
+
+보철 연결 성공률 99.3%, 1·2년 생명표 임플란트 성공률 99.1% — 불량 골질(class IV) 부위는 약 12주 대기로 제한.
+
+SLA 조기 부하의 역사적 기준점을 수립한 초기 근거이나, 초록 전용 PDF에서 추출한 데이터이며 대조군 없이 선별된 코호트에 국한됨.
 
 ## 1. Document Information
 

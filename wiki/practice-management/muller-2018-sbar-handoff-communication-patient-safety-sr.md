@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies: 8 before–after + 3 controlled trials; general healthcare) finds MODERATE evidence that the SBAR hand-off tool improves patient safety — 8 of 26 outcomes significantly improved, strongest for structured nurse-to-physician telephone communication, with overall low study quality.
+Systematic review of 11 general-healthcare studies (8 before–after, 2 CCTs, 1 RCT; hospitals, nursing homes, rehabilitation) evaluating whether the SBAR structured hand-off tool improves hard patient-safety outcomes.
 
-## 한줄요약
+8 of 26 measured outcomes improved significantly; strongest gains were in structured nurse-to-physician telephone hand-offs (unexpected deaths, readmissions, avoidable hospitalisations significantly reduced); 11 more outcomes improved descriptively but without statistical tests.
 
-체계적 문헌고찰(11편: 전후비교 8 + 대조시험 3, 일반 의료) — 표준화 인계도구 SBAR가 환자안전을 개선한다는 중등도 근거. 26개 결과 중 8개가 유의하게 개선됐고, 특히 간호사→의사 전화 인계에서 가장 강했으나 전반적 연구의 질은 낮음.
+Overall evidence quality is low (9/11 studies rated weak on EPHPP; no power calculations); MODERATE evidence grade overall — SBAR is a practical dental-team communication template but its safety payoff is still under-evidenced.
+
+## 세줄요약
+
+일반 의료팀 11편(전후비교 8·CCT 2·RCT 1; 병원·요양원·재활기관)에서 SBAR 구조화 인계가 환자안전 결과(hard outcome)에 미치는 효과를 평가한 체계적 문헌고찰.
+
+26개 결과 중 8개가 유의하게 개선(간호사→의사 전화인계에서 가장 강; 예기치 못한 사망·재입원·예방 가능 입원 유의 감소)되었고, 11개는 기술적 개선(통계검정 없음).
+
+전반 연구 질이 낮고(11편 중 9편 EPHPP 약함, 검정력 계산 없음) 전체 근거 등급은 중등도 — SBAR는 치과팀 인계에 바로 적용 가능하나 환자안전 개선 효과는 아직 과소입증 상태.
 
 ## Summary
 

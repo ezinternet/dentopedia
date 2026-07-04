@@ -13,11 +13,21 @@ source_collection: external
 tags: ['placement timing', 'loading protocol', 'single implant', 'site-specific', 'ITI']
 ---
 
-## One-line Summary
-Systematic review (45 publications: 13 RCTs + 21 prospective + 11 retrospective; ITI Group 2) of single-implant placement × loading protocols across four sites (anterior/posterior maxilla and mandible), computing weighted survival per protocol per location (e.g. anterior maxilla 97.5–99.6% across 35 studies, 1,391 implants) and finding immediate placement + conventional loading generally safe while Type 1A (immediate placement + immediate loading) remains selection-sensitive and case-specific.
+## Three-line Summary
 
-## 한줄요약
-SR (45 publications: 13 RCT + 21 prospective + 11 retrospective): site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
+Systematic review (45 publications: 13 RCTs + 21 prospective + 11 retrospective; ITI Group 2) of single-implant placement × loading protocol combinations across four anatomic sites (anterior maxilla, anterior mandible, posterior maxilla, posterior mandible), computing weighted mean survival rates per protocol per location.
+
+Across 35 studies and 1,391 implants in the anterior maxilla, weighted survival ranged 97.5–99.6%; immediate placement + conventional loading was generally safe across sites, while Type 1A (immediate placement + immediate loading) remains selection-sensitive and case-specific.
+
+This ITI site-specific decision matrix is the reference framework for tailoring placement and loading protocols to bone quality, primary stability, and esthetic risk — not a one-size-fits-all protocol.
+
+## 세줄요약
+
+체계적 고찰(45편: 13 RCT + 21 전향 + 11 후향; ITI Group 2): 4개 부위(전·후치 상악 및 하악)별 단일 임플란트 식립 × 부하 프로토콜 조합을 검토하고 부위별 가중 평균 생존율을 산출.
+
+전치 상악 35편·1,391개 임플란트의 가중 생존율 97.5–99.6%; 즉시식립+통상부하는 대체로 안전했으나, Type 1A(즉시식립+즉시부하)는 선례와 증례 선택에 민감.
+
+이 ITI 부위별 의사결정 행렬은 골질·1차 안정성·심미 위험도에 맞춘 식립·부하 프로토콜 선택의 기준 틀이며, 단일 표준 프로토콜로 사용하면 안 된다.
 
 ## Summary
 To analyze effect of implant placement and loading protocols (protocol types) on single implant survival in different locations. Weighted mean survival rate per protocol per location calculated. Study design, sample size, outcome homogeneity used to evaluate protocol validation.

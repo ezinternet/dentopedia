@@ -16,11 +16,19 @@ relations:
     target: zhu-2024-prevalence-unfavourable-outcome-oral-frailty
 ---
 
-## One-line Summary
-SR+MA (18 studies, 12,932 older adults) - pooled oral frailty prevalence 24% and oral pre-frailty 57%; prevalence varies by assessment tool (OFI-8 44% vs OFI-6 18%), sex, setting and region.
+## Three-line Summary
+SR + MA (18 studies, 12,932 older adults, 10 databases searched to September 2023) estimating pooled oral frailty and oral pre-frailty prevalence with subgroup and meta-regression analysis by assessment tool, sex, setting, and region.
 
-## 한줄요약
-SR+MA(18편, 12,932명) - oral frailty 통합 유병률 24%·전(前)단계 57%; 평가도구(OFI-8 44% vs OFI-6 18%)·성별·세팅·지역에 따라 변동.
+Pooled oral frailty prevalence was 24% (95% CI 20–28%) and oral pre-frailty 57% (52–61%); large tool-dependent variation was observed — OFI-8 yielded 44% vs OFI-6 18% — and prevalence was higher in women, hospital settings, and Chinese populations.
+
+Clinically, the large tool-dependent variation highlights the urgent need to standardize oral frailty assessment instruments before prevalence data can guide policy or screening programs.
+
+## 세줄요약
+SR+MA(18편, 노인 12,932명, 10개 DB 2023년 9월까지) — 구강노쇠(Oral Frailty, OF)·구강전노쇠 유병률을 평가도구·성별·세팅·지역별 하위군·메타회귀로 추정.
+
+OF 통합 유병률 24%(95% CI 20–28%), 구강전노쇠 57%(52–61%); 평가도구에 따라 큰 차이 — OFI-8 44% vs OFI-6 18% — 여성·병원·중국에서 높음.
+
+임상적 의의: 도구 의존적 유병률 변동이 크므로 선별 프로그램·정책 수립 이전에 구강노쇠 평가 도구 표준화가 시급함.
 
 ## Summary
 oral frailty 유병률을 평가도구별로 정밀 추정한 SR+MA(24%, pre-frailty 57%). 도구 의존성을 드러내 표준화 필요성을 제기.

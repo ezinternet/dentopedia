@@ -38,13 +38,21 @@ relations:
 > - 공백: 단일 임플란트 오버덴처 즉시부하 RCT 희소, full-arch 장기(>5년) 비교 부재, 로딩 타이밍×골질(D1–D4) 교호작용 미검증.
 > - 확신도: 단관 즉시부하·단일 오버덴처 금기 = [근거강함], full-arch·tilted·다수 오버덴처 = [합의수준], 즉시식립+즉시부하 선별 = [claude해석].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the implant-loading cluster across prosthesis types: when primary stability is adequate, the loading protocol label (immediate / early / conventional) is largely NOT a determinant of marginal bone loss or medium-term survival — this holds for single crowns (Benic 2014), unsplinted mandibular overdentures on multiple implants (Liu 2021), maxillary full-arch fixed prostheses (Abdunabi 2019), and tilted vs axial immediately loaded atrophic maxillae (Mehta 2021); the failure risk concentrates instead in two vulnerable configurations — a single unsplinted implant immediately loaded under an overdenture (Kern 2018, noninferiority NOT shown) and immediate placement + immediate provisionalization in fresh esthetic-zone sockets (Donker 2025, early failures clustered) — so prosthesis configuration and primary stability, not the loading timing, drive the decision.
+Synthesis of 8 implant-loading papers across prosthesis types: when primary stability is adequate, the loading protocol label (immediate / early / conventional) is largely NOT a determinant of marginal bone loss or medium-term survival — confirmed for single crowns (Benic 2014 SR+MA), unsplinted mandibular overdentures on multiple implants (Liu 2021 SR+MA), maxillary full-arch fixed prostheses (Abdunabi 2019 SR), tilted vs axial immediately loaded atrophic maxillae (Mehta 2021 SR+MA), and cross-prosthesis (Esposito 2013 Cochrane 26 RCT).
 
-## 한줄요약
+The failure risk concentrates in two vulnerable configurations: a single unsplinted implant immediately loaded under an overdenture (Kern 2018 RCT — noninferiority NOT shown, 9 early failures <3 months) and immediate placement + immediate provisionalization in fresh esthetic-zone sockets (Donker 2025 prospective, 3/30 early failures); for multi-unit splinted FDPs, delayed-placement–immediate-loading equals delayed-placement–delayed-loading (Aiquel 2021 SR+MA, 97.2% vs 98.1%, p=.227).
 
-보철 구성별 임플란트 로딩 6편 통합. **1차 안정성이 충분하면 로딩 타이밍(즉시/조기/통상)은 변연골소실·중기 생존율의 결정 인자가 아니다** — 단관(Benic 2014), 다수 임플란트 하악 오버덴처(Liu 2021), 상악 full-arch 고정성(Abdunabi 2019), 위축 상악 tilted vs axial 즉시부하(Mehta 2021) 모두 동등. 단 **실패 위험은 두 취약 구성에 집중** — 오버덴처를 지지하는 단일·비연결 임플란트 즉시부하(Kern 2018, 비열등성 입증 실패)와 신선 발치와 즉시식립+즉시 임시보철(Donker 2025, 조기 실패 집중). 즉 **로딩 타이밍이 아니라 보철 구성·1차 안정성이 결정 변수**.
+Clinical bottom line: prosthesis configuration and primary stability — not loading timing — are the decision variables; for single crowns ISQ ≥60–65 and torque ≥20–45 Ncm permit immediate loading, while the single unsplinted implant overdenture should receive delayed loading.
+
+## 세줄요약
+
+8편 종합(SR+MA 5, Cochrane 1, RCT 1, 전향 1): 1차 안정성이 충분하면 로딩 타이밍(즉시/조기/통상)은 변연골소실·중기 생존율의 결정 인자가 아니다 — 단관(Benic 2014), 다수 임플란트 오버덴처(Liu 2021), 상악 full-arch(Abdunabi 2019), 위축 상악 tilted vs axial(Mehta 2021), 교차 보철 Cochrane(Esposito 2013) 모두 동등 확인.
+
+실패 위험은 두 취약 구성에 집중 — 오버덴처를 지지하는 단일·비연결 임플란트 즉시부하(Kern 2018, 비열등성 입증 실패·9건 조기실패)와 신선 발치와 즉시식립+즉시 임시보철(Donker 2025, 3/30 조기실패); 다수 임플란트 지지 FDP는 DPIL≈DPDL(Aiquel 2021, 97.2% vs 98.1%, p=.227).
+
+임상 결론: 로딩 타이밍이 아니라 보철 구성·1차 안정성이 결정 변수 — 단관은 ISQ ≥60–65·토크 ≥20–45 Ncm 충족 시 즉시부하 가능, 단일 비연결 임플란트 오버덴처는 지연부하 권장.
 
 ## Thesis
 

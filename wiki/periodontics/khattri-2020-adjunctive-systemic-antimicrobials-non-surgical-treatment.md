@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty, mostly clinically marginal benefits on CAL/PD/closed pockets/BOP for non-surgical periodontitis treatment, with no reliable evidence one antibiotic is superior.
+Cochrane SR+MA (45 RCTs, search to March 2020) comparing SRP plus systemic antimicrobials versus SRP alone or versus another antibiotic in adults with untreated chronic or aggressive periodontitis.
 
-## 한줄요약
+Amoxicillin+metronidazole achieved a 16.2% more closed pockets and −0.47 mm CAL at ≥1 year vs SRP alone, but all evidence is very low certainty and most effects fall below or near the MICD; no antibiotic was reliably superior to another.
 
-Cochrane 체계적고찰+메타분석(RCT 45편): SRP에 전신 항생제(가장 많이 연구된 조합은 아목시실린+메트로니다졸)를 추가해도 비외과적 치주염 치료에서 CAL·PD·closed pocket·BOP 개선 효과는 모두 매우 낮은 확실성이며 임상적으로 미미하고, 특정 항생제가 더 우수하다는 신뢰할 만한 근거도 없음.
+Systemic antibiotics should not be a routine SRP adjunct given very-low-certainty evidence, marginal clinical gains, and antibiotic stewardship concerns.
+
+## 세줄요약
+
+Cochrane SR+MA(RCT 45편, 2020년 3월까지): 미치료 만성·공격성 치주염 환자에서 SRP+전신 항생제 대 SRP 단독 또는 항생제 간 비교.
+
+아목시실린+메트로니다졸은 ≥1년에서 폐쇄 포켓 16.2% 추가, CAL −0.47 mm 추가 개선을 보였으나 모든 근거가 매우 낮은 확실성이며 대부분의 효과가 최소 임상 중요 차이(MICD) 이하이거나 근접; 어떤 항생제도 다른 것보다 신뢰할 만하게 우월하지 않음.
+
+매우 낮은 확실성의 근거, 미미한 임상 이득, 항생제 내성 관리 측면에서 전신 항생제는 SRP의 일상적 보조요법으로 권장되지 않는다.
 
 ## Summary
 

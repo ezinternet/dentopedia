@@ -16,13 +16,21 @@ relations:
     target: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Zurich 2026, n=clinical cases + literature synthesis) showing that concave emergence profile with tall titanium base abutment is the critical modifiable prosthetic variable for preventing and reversing peri-implant inflammation and bone loss.
+Narrative review (Zurich 2026) synthesizing histological, cross-sectional, and RCT evidence on prosthetic emergence geometry and peri-implant tissue health, with two illustrative clinical cases demonstrating bone defect resolution after prosthetic redesign.
 
-## 한줄요약
+A restorative angle >30° and convex emergence profile are associated with peri-implant inflammation; replacing a convex short-abutment crown with a concave tall-abutment design resolved a 4-year angular bone defect radiographically at 4 months.
 
-내러티브 리뷰(취리히 2026): 오목한 출현 프로파일(emergence profile)과 높은 티타늄 베이스 지대주가 치주위임플란트 건강의 핵심 수정 가능 보철 변수임을 임상 증례와 문헌 종합으로 제시.
+Concave subcritical contour, ≥2 mm Ti-base height, and surface roughness <0.2 µm Ra are recommended as modifiable prosthetic variables to prevent and reverse peri-implant disease — independent of patient compliance.
+
+## 세줄요약
+
+내러티브 리뷰(취리히 2026): 조직학적·횡단·소규모 무작위대조시험(RCT) 근거와 임상 증례 2건을 종합해 보철 출현 형태(Emergence Profile, EP)가 임플란트 주위 조직 건강에 미치는 영향을 분석.
+
+출현각(Emergence Angle) >30°·볼록 출현 윤곽은 임플란트 주위 염증과 연관되며, 볼록·짧은 지대주 보철을 오목·높은 지대주(≥2 mm Ti-base)로 교체한 증례에서 4개월 내 각형 골결손이 방사선학적으로 회복됨을 확인.
+
+오목 하임계(Subcritical) 윤곽·티타늄 베이스 높이 ≥2 mm·표면 거칠기(Ra) <0.2 µm는 임플란트 주위염 예방·역전에 기여하는 수정 가능한 보철 변수로, 환자 순응도와 무관하게 고려해야 한다.
 
 ## Summary
 

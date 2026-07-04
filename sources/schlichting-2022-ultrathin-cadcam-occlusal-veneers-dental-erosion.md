@@ -13,13 +13,23 @@ source_collection: external
 
 치아 침식증(dental erosion)에 의한 후방 교합면 마모의 보존적 수복을 위한 CAD-CAM 교합면 비니어(occlusal veneer)의 중기(최대 3년) RCT 임상 성적 데이터가 위키에 부족하였음. 이 논문은 세라믹(e.max CAD) vs 복합레진(Lava Ultimate) 초박형 교합면 비니어를 무작위 비교하여 생존율·합병증을 보고한 핵심 전향적 근거임. [[wiki/veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]에서 다루지 않은 교합면(occlusal) 비니어와 복합레진 CAD-CAM 계열을 보완한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective RCT (n=11 participants, 60 restorations) comparing CAD-CAM ceramic (e.max CAD) vs composite resin (Lava Ultimate) ultrathin occlusal veneers for severe dental erosion over up to 3 years: 100% vs 84.7% Kaplan-Meier survival with no statistically significant difference (P=.124), but significantly greater surface degradation in the composite resin group (P=.003).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 무작위대조시험(Randomized Controlled Trial, RCT) (n=11명, 60개 수복물): 중증 치아 침식증(dental erosion)에 CAD-CAM 세라믹 교합면 비니어(occlusal veneer, e.max CAD) vs 복합레진(composite resin, Lava Ultimate)을 최대 3년 추적 — 카플란-마이어(Kaplan-Meier) 생존율 100% vs 84.7% (P=.124, 유의하지 않음), 레진군에서 표면 조도(surface roughness) 유의하게 높음 (P=.003).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

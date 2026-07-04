@@ -42,13 +42,21 @@ source_papers:
 > - **술식·프로토콜 축(단일콘 시스템)**: 단일콘은 콤팩션 부족→void가 약점인데, Feng 2025 (lab SR+MA, 20편) — **초음파 실러 활성화(ultrasonic activation, UA)** 가 기공률을 유의하게 낮추고(micro-CT MD −1.21) 치근단·중앙부 실러 침투를 늘림(CLSM SMD 2.28/2.69; 단 결합강도는 비일관). Surana-Bhandari 2026 (split-tooth in-vitro) — **세정 프로토콜이 계면을 좌우**: HEDP 지속적 킬레이션(continuous chelation)이 dentin 침식↓·미네랄 계면↑·실러 항균성↑하나, **모든 실러는 세정된 dentin 접촉 후 항균력 감소** → 소독은 충전 *전*에 끝내야 함. 둘 다 lab-only라 임상 동등성 결론은 불변, 술식 근거만 보강.
 > - **근거 한계(caveats)**: 임상은 단일군·후향 코호트 + 소규모 RCT + 저근거 메타 1편, 추적 ≤36개월로 ESE 권장 4년 미달; 술식·물성·세포 근거 다수는 in-vitro; 세라실 radiopacity(~6.5 mmAl)가 AH Plus(10~12)보다 낮아 미세 압출 과소검출 가능; class-level SR+MA(Elmsmari 2025)는 있으나 GRADE-low·세라실 특이 아님 → **장기(≥5년)·세라실 전용 RCT 부재**가 갱신 시 최우선 보강 대상.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 clinical (2 prospective cohorts, 2 RCTs) + 6 bench studies on **Ceraseal**, a premixed calcium-silicate bioceramic sealer: at 24–36 months it matches the AH Plus epoxy-resin gold standard on healing (≈91–92%) and survival (≈93–98%), while offering less post-obturation pain than AH Plus, equal-or-lower (and sometimes resorbing) apical extrusion, full retrievability in retreatment, and a biocompatible/bioactive set state — the practical caveat being that fresh unset Ceraseal is transiently cytotoxic and strongly alkaline, so precise placement (avoid gross overextension) matters more than sealer choice.
+Synthesis of 4 clinical (2 prospective cohorts, 2 RCTs) + 10 bench studies on Ceraseal (premixed calcium-silicate bioceramic sealer): at 24–36 months it matches AH Plus epoxy-resin on healing (~91–92%) and survival (~93–98%); Elmsmari 2025 SR+MA (3 RCTs, n=259) found no statistically significant difference at 6/12/18 months (OR 1.12–2.09, all p>0.05), though GRADE evidence is low.
 
-## 한줄요약
+Key advantages over AH Plus: less post-obturation pain (Abada 2025 RCT, p<0.001); equal or lower apical extrusion with single-cone (Zamparini 2026 retrospective: carrier-based has significantly more extrusion, 75% vs 48.2%); full retreatability (92.5% removal with WaveOne Gold + XPF; Shim 2025 in vitro, higher than standard AH Plus); biocompatible set state (Kumar 2022: day-7 viability 97.2%); and superior apatite deposition (Maharti 2024).
 
-세라실(프리믹스 칼슘실리케이트 생체세라믹 실러)에 대한 임상 4편(전향 코호트 2 + RCT 2) + 벤치 6편 종합: 24~36개월 치유(약 91~92%)·생존(약 93~98%)이 AH Plus gold standard와 동등하며, 술후통증은 더 적고, 압출은 같거나 적고(일부 흡수), 재근관치료 제거성 우수, 경화 후 생체적합·생체활성. 단 미경화 상태는 일시적 세포독성·강알칼리이므로 **실러 선택보다 정밀 충전(과충전 회피)이 더 중요**.
+Clinical takeaway: Ceraseal users need not change protocols, but fresh unset Ceraseal is transiently cytotoxic (29.9% viability at 0h) — precise placement and avoidance of gross overextension matters more than sealer choice; ultrasonic sealer activation reduces voids in single-cone (Feng 2025 lab SR+MA); ensure disinfection is complete before obturation as all sealers lose antimicrobial activity on contact with conditioned dentin.
+
+## 세줄요약
+
+세라실(Ceraseal, 프리믹스 칼슘실리케이트 생체세라믹 실러) 임상 4편(전향 코호트 2 + RCT 2) + 벤치 10편 종합: 24–36개월 치유 ~91–92%·생존 ~93–98%이 AH Plus gold standard와 동등; Elmsmari 2025 SR+MA(RCT 3편, n=259)에서 6/12/18개월 모두 통계적 유의차 없음(OR 1.12–2.09, p>0.05) — 단 GRADE 근거 낮음.
+
+AH Plus 대비 이점: 술후통증 ↓(Abada 2025 RCT, p<0.001); 단일콘에서 압출 ↓(Zamparini 2026: carrier-based는 유의하게 더 많음, 75% vs 48.2%); 재근관치료 제거성 우수(92.5%; Shim 2025 in vitro); 경화 후 생체적합·생체활성(아파타이트 침착 > AH Plus Bioceramic; Maharti 2024).
+
+임상 결론: 실러 선택보다 정밀 충전(과충전 회피)이 더 중요 — 미경화 세라실은 일시적 세포독성(0h 생존 29.9%, 24h 96.4%로 회복; Kumar 2022); 초음파 활성화(ultrasonic activation)가 단일콘 기공률 감소(Feng 2025 lab SR+MA); 모든 실러는 세정된 dentin 접촉 후 항균력 감소 → 소독은 충전 전 완료.
 
 ## Summary
 

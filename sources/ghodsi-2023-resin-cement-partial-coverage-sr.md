@@ -9,7 +9,7 @@ pdf_filename: ghodsi-2023-resin-cement-partial-coverage-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative SR of 68 articles deriving resin cement selection criteria for partial coverage restorations (inlay/onlay/veneer/endocrown) based on restoration material, thickness, and translucency.
 
 ## 1. Document Information

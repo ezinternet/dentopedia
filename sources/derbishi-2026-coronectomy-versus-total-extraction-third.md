@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] established the IAN-protective effect but predates modern meta-analytic rigor (Peto OR for rare events, GRADE, trial sequential analysis). This 2026 SR+MA reinforces the anchor with a conclusive effect estimate (Peto OR 0.23 for IAN injury, TSA-confirmed) and modern certainty grading, strengthening rather than overturning the foundational conclusion.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001; TSA-conclusive), with no difference in dry socket or infection and a low 1.2% root-retrieval re-operation rate.
+SR+MA of 8 studies (3 RCTs + 5 cohorts, 1488 teeth) comparing coronectomy vs total extraction for mandibular third molars at high IAN risk.
 
-## 한줄요약
+Coronectomy significantly reduced inferior alveolar nerve injury (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001; TSA-conclusive), with no significant difference in dry socket (RR 0.68) or postoperative infection (RR 0.87), and root-retrieval re-operation rate of only 1.2%.
 
-SR+MA (8편 — RCT 3 + 코호트 5, 1488치): 치관절제가 발치 대비 하치조신경 손상 감소 (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001, TSA 확정), 건성치조염·감염은 차이 없음, 치근 회수 재수술률 1.2%로 낮음.
+Coronectomy is the preferred technique when IAN proximity is radiographically confirmed; root migration is frequent but rarely requires secondary surgery.
+
+## 세줄요약
+
+하치조신경(IAN) 근접 위험 하악 제3대구치를 대상으로 치관절제술과 완전발치를 비교한 SR+MA (8편 — RCT 3 + 코호트 5, 1488치).
+
+치관절제가 IAN 손상을 유의하게 감소 (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001, TSA 확정); 건성치조염(RR 0.68)·감염(RR 0.87)은 차이 없음; 치근 회수 재수술률 1.2%.
+
+방사선상 IAN 근접이 확인된 경우 치관절제가 선택 술식; 치근 이동은 흔하나 재수술 필요성은 드묾.
 
 ## 1. Document Information
 

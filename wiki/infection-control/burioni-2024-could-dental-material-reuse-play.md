@@ -20,11 +20,21 @@ relations:
     target: bidra-2019-should-healing-abutments-cover-screws
 ---
 
-## One-line Summary
-In vitro study (TG=40 reused+sterilized vs CG=35 new titanium healing abutments): a decontamination+autoclave protocol achieved 100% sterility (no bacterial growth) but left significantly more residual surface protein on reused HAs (18.76 vs 9.35 µg/mL, mean diff 9.41, 95% CI 4.28–14.54, t(30)=4.52, p<0.001; ~12 µg/screw); clinical significance of the difference undetermined.
+## Three-line Summary
 
-## 한줄요약
-인 비트로 연구(재사용+멸균 40 vs 신품 35 티타늄 힐링어버트먼트): 세척+오토클레이브가 세균은 100% 사멸시켰으나 재사용 어버트먼트 표면 잔류 단백질은 유의하게 더 많음(18.76 vs 9.35 µg/mL, 평균차 9.41, 95% CI 4.28–14.54, p<0.001, 스크류당 약 12 µg) — 멸균은 되나 완전히 깨끗하진 않으며 그 차이의 임상적 의미는 미결정.
+In vitro study (IRCCS San Raffaele, Milan; TG=40 patient-used+sterilized vs CG=35 new Winsix titanium healing abutments) using Micro BCA protein assay and turbidity-based sterility testing to decouple sterilization efficacy from surface cleanliness.
+
+The decontamination + autoclave protocol achieved 100% sterility (no bacterial growth in either group), but reused HAs carried significantly more residual surface protein than new ones (18.76 vs 9.35 µg/mL; mean difference 9.41, 95% CI 4.28–14.54; t(30)=4.52, p<0.001; ~12 µg/screw); the clinical significance of this residual-protein difference cannot be determined a priori.
+
+Clinical implication: "sterile" is not the same as "clean" for reused HAs — the protocol reliably kills bacteria but does not strip the residual denatured protein/organic film; this paper quantifies the gap the anchor SR (Bidra 2019) identified and provides the cleanliness-side mechanistic substrate for Abreu 2024's inflammatory-response finding.
+
+## 세줄요약
+
+산 라파엘레 병원 인 비트로 연구(재사용+멸균 40개 vs 신품 35개 Winsix 티타늄 힐링어버트먼트) — Micro BCA 단백질 분석과 탁도 기반 무균 검사로 멸균 효과와 표면 청결도를 분리 평가.
+
+세척+오토클레이브 프로토콜은 100% 무균 달성(양 군 모두 세균 무성장)했으나, 재사용 어버트먼트 잔류 표면 단백질이 신품보다 유의하게 많음(18.76 vs 9.35 µg/mL; 평균차 9.41, 95% CI 4.28–14.54, p<0.001; 스크류당 약 12 µg); 이 잔류 단백질 차이의 임상적 유의성은 사전 결정 불가.
+
+임상 의미: 재사용 HA에서 "멸균됨"은 "완전히 깨끗함"과 다름 — 세균은 사멸하나 변성 단백질/유기막 제거 불완전; Bidra 2019 SR이 식별한 청결도 gap을 정량화하고, Abreu 2024의 염증 반응 발견에 대한 세정 측면 기전적 근거를 제공.
 
 ## Summary
 

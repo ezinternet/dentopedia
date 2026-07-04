@@ -13,11 +13,19 @@ source_collection: external
 tags: ['immediate provisionalization', 'midfacial mucosal level', 'esthetic zone', 'RCT only']
 ---
 
-## One-line Summary
-SR+MA (RCTs only) of maxillary esthetic-zone single immediate implants comparing immediate vs delayed loading/provisionalization, focused on midfacial mucosal level: immediate provisionalization trends toward better midfacial mucosa preservation, with small differences in PES, MBL, and survival (concordant with Pitman 2022).
+## Three-line Summary
+RCT-only SR+MA comparing immediate vs delayed loading/provisionalization in maxillary esthetic-zone single immediate implants, with midfacial mucosal level as the primary outcome (PubMed/WoS/Embase/Cochrane to Dec 2021).
 
-## 한줄요약
-SR+MA (RCT only): 상악 심미부 단일 즉시식립 시 즉시 부하 (= immediate provisionalization) vs 지연부하 — midfacial mucosal level 중심 비교; PES·MBL·생존율 보조 평가.
+Immediate provisionalization showed a favorable trend for midfacial mucosa preservation; PES, MBL, and survival differences were small, consistent with Pitman 2022.
+
+The RCT-only design strengthens internal validity but the small pooled effect underscores that case selection (intact buccal plate, adequate primary stability) is the main determinant.
+
+## 세줄요약
+상악 심미부 단일 즉시식립에서 즉시 vs 지연 부하를 비교한 RCT only SR+MA; midfacial mucosal level이 1차 결과(PES·MBL·생존율은 보조 평가).
+
+즉시임시치관 군에서 협측 점막 수준 보존에 유리한 경향; PES·MBL·생존율의 군간 차이는 작았으며 Pitman 2022와 결론 일치.
+
+RCT only 설계로 내적 타당도 높으나, 효과 크기가 작아 협측 골판 보존·충분한 1차안정성 등 환자선택이 핵심임을 강조.
 
 ## Summary
 Determine whether immediate implant placement + immediate loading differs from delayed loading regarding midfacial mucosal level in maxillary esthetic area. PubMed/WoS/Embase/Cochrane pre-Dec 2021. Only RCTs included.

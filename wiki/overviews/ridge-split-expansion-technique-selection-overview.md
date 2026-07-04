@@ -35,13 +35,21 @@ source: synthesis
 > - OD 보조 분할(Guner 2025 후향, n=268): OD가 분할 맥락에서 상악·하악구치부 ISQ를 유의하게 높이고(전부 ISQ ≥65 달성) 골폭 증대는 동등 — 즉 OD는 폭을 더 늘리진 않아도 저밀도골 1차 안정성을 보강. 단 in-vitro(Chen 2022)는 OD 확장 이득이 좁은 골(6.75 mm)에서만 나타나고 탄성반발로 식립깊이가 얕아지는 trade-off를 보임.
 > - 합병증·안전 경고: 주된 술중 위험은 협측판 골절(buccal plate fracture, 4–10%)·열개(dehiscence)이며 골폭 <3 mm에서 급증(Lin 2023); 과도한 OD 압축은 혈류 감소·발열로 임플란트 실패를 유발할 수 있음(Rizk 2024 RCT 3건 실패, López-Valverde 2025 인용). 임상근거 전반은 비무작위 위주·GRADE 낮음 → 동의서에 근거 수준 명시 권장.
 
-## One-line Summary
+## Three-line Summary
 
-Hub synthesis of 10 wiki pages (4 SR+MA, 1 qualitative SR, 1 SR+MA on staging, 2 classic case-series, 1 in-vitro bench, 1 retrospective) on alveolar ridge split / expansion for horizontal augmentation of the narrow ridge. Core thesis: ridge split reliably delivers ~3.3–3.7 mm width gain and ~98–99% implant survival without a donor site (Lin 2023); against its alternatives the bone-gain hierarchy is GBR 4.04 > RS 3.66 > OD 2.15 mm (Vorovenci 2024, P=0.002) but survival is technique-independent (~99%), so selection hinges on starting width (RS for the narrowest 2.5–3 mm crests, OD for low-density D3–D4), staging (one-stage favoured ~SMD 0.89 but low-certainty, Khanum 2024; two-stage for the dense mandible where greenstick fracture is uncontrollable), grafting (≥3 mm → expansion alone, <3 mm → selective graft, Abdallaoui 2025), and device (piezo/USG bigger gain, MRE enables immediate placement, Manekar 2022).
+Hub synthesis of 10 wiki pages (4 SR+MA, 1 qualitative SR, 1 SR+MA on staging, 2 classic case-series, 1 in-vitro bench, 1 retrospective) on alveolar ridge split/expansion for horizontal augmentation of the narrow crest; ridge split reliably delivers ~3.3–3.7 mm width gain and ~98–99% implant survival without a donor site (Lin 2023 SR+MA).
 
-## 한줄요약
+The bone-gain hierarchy vs alternatives is GBR 4.04 > RS 3.66 > OD 2.15 mm (Vorovenci 2024, P=0.002), but survival is technique-independent (~99%) across all three modalities, so selection hinges on starting crest width (RS for ≤3 mm, OD for low-density D3–D4), staging (one-stage favoured SMD ~0.89 but low-certainty, Khanum 2024; two-stage for dense mandible), grafting threshold (≥3 mm → expansion alone, <3 mm → selective graft, Abdallaoui 2025), and device (piezo/USG larger gain, MRE enables immediate placement, Manekar 2022).
 
-좁은 치조제 수평 골증대에서 치조제 분할·확장술 10개 위키 페이지를 종합: 분할술은 공여부 없이 폭 +3.3–3.7 mm·생존 ~98–99%를 신뢰성 있게 달성하며(Lin 2023), GBR 4.04 > RS 3.66 > OD 2.15 mm로 골증대량은 GBR이 가장 크지만 생존율은 세 술식 동등(~99%, Vorovenci 2024)이라 선택은 시작 골폭(가장 좁으면 RS, 저밀도골이면 OD)·단계(1단계 우세하나 근거 낮음, 하악 치밀골은 2단계)·이식 여부(≥3 mm 단독, <3 mm 선택적)·기구(피에조 큰 증대, MRE 즉시식립)로 결정한다.
+Buccal plate fracture (4–10%) and dehiscence are the main intraoperative risks, rising sharply when crest width is <3 mm; the primary clinical takeaway is that technique choice should be driven by bone width, density, arch, and operator skill — not by survival rate expectations, which converge at ~98–99% regardless of method.
+
+## 세줄요약
+
+10개 위키 페이지 종합 — 치조제 분할·확장술(Alveolar Ridge Split, ARS/RS)은 공여부 없이 폭 +3.3–3.7 mm·생존율 ~98–99%를 신뢰성 있게 달성하며(Lin 2023 SR+MA), 대안 대비 골증대량 서열은 골유도재생술(GBR) 4.04 > 치조제 분할술(RS) 3.66 > 골밀도화(OD) 2.15 mm이나(Vorovenci 2024, P=0.002) 생존율은 세 술식 모두 ~99%로 동등하다.
+
+술식 선택 기준: 시작 골폭(가장 좁으면 RS, 저밀도골 D3–D4이면 OD), 단계(1단계 SMD ~0.89로 우세하나 근거 낮음, 하악 치밀골은 2단계·지연식립), 이식 여부(≥3 mm 단독, <3 mm 선택적 이식, Abdallaoui 2025), 기구(피에조 폭 증대 큼, 전동확장기(MRE) 즉시식립 적합, Manekar 2022).
+
+주요 합병증은 협측판 골절(4–10%)·열개로 골폭 <3 mm에서 급증하며, 핵심 임상 결론은 생존율은 술식과 무관하게 ~98–99%로 수렴하므로 선택은 골폭·밀도·악궁·술자 숙련도로 결정해야 한다는 것이다.
 
 ---
 

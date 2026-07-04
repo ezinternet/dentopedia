@@ -17,13 +17,21 @@ text_filename: aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr.txt
 
 Gutta-percha (GP) cones are contaminated during storage/handling and cannot be heat-sterilised, so chairside chemical decontamination is a mandatory but under-standardised obturation step — yet [[endodontics/obturation/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] and other single-cone workflow pages treat cone asepsis only in passing. This SR is the ANCHOR of a 4-paper GP-cone-decontamination cluster that pins down which agent (NaOCl vs CHX), concentration, and exposure time actually decontaminate cones, extending the obturation literature toward the cross-infection-control gap. Pairs directly with the chairside-disinfection sibling [[endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 7 in vitro studies of 309 screened) finding higher-concentration NaOCl (5.25%/6%) eliminates E. faecalis and S. aureus from GP cones within 1–5 min while CHX data are limited (promising mainly against Candida); all 7 studies at moderate/high risk of bias.
+Systematic review (PRISMA, INPLASY-registered; 309 records screened → 7 in vitro studies included) comparing NaOCl vs chlorhexidine (CHX) for gutta-percha (GP) cone chairside decontamination against E. faecalis, S. aureus, and C. albicans at various concentrations and exposure times.
 
-## 한줄요약
+Higher-concentration NaOCl (5.25%/6%) eliminates E. faecalis and S. aureus from GP cones within 1–5 min and is the gold standard; CHX data are limited but CHX (± cetrimide) appears promising, particularly against Candida albicans where it was the only solution effective without agitation; 5/7 studies rated high risk of bias.
 
-거타퍼차(gutta-percha, GP) cone 소독에서 고농도 NaOCl(5.25%/6%)이 1–5분 내 E. faecalis·S. aureus를 제거하지만 CHX 근거는 부족(주로 Candida에 유망)하다는 체계적 문헌고찰(in vitro 7편, 309편 스크리닝), 7편 모두 중등도/높은 비뚤림 위험.
+The fragmented, heterogeneous in vitro evidence (single-species testing, varying concentrations/times) prevents meta-analysis and definitive protocol formulation; a clinically practical minimum is 1-min immersion in 5.25% NaOCl before cone placement.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA, INPLASY 등록; 309편 스크리닝 → 체외 연구 7편 포함) — 거타퍼차(gutta-percha, GP) cone의 의장소독에서 차아염소산나트륨(NaOCl) vs 클로르헥시딘(chlorhexidine, CHX)의 항균 효능을 E. faecalis·S. aureus·C. albicans 대상으로 비교.
+
+고농도 NaOCl(5.25%/6%)이 1–5분 내 E. faecalis·S. aureus를 제거(금본위)하며, CHX(±cetrimide)는 Candida albicans에 agitation 없이 효과적인 유일한 물질로 유망하나 E. faecalis 데이터는 부족; 7편 중 5편이 높은 비뚤림 위험.
+
+단일 균종 실험·농도/시간 이질성으로 메타분석 불가하고 확정적 프로토콜 제시가 어려우며, 임상적 최소 기준으로 5.25% NaOCl 1분 침지가 권장됨.
 
 ## 1. Document Information
 

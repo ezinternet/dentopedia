@@ -18,13 +18,23 @@ SR+MA testing whether an oral irrigator / water flosser (added to toothbrushing)
 
 > Note: **abstract-only** — full text not retrieved (no PMC open access). All numbers below are extracted verbatim from the PubMed abstract.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (4 studies eligible, 3 meta-analysed) — adding an oral irrigator to toothbrushing did NOT outperform dental floss for plaque-index (SMD −0.88, 95% CI −2.25 to 0.50, p=0.10, I²=98%) or bleeding-index (SMD −0.90, 95% CI −2.78 to 0.98, p=0.35) reduction in fixed-orthodontic patients; very high heterogeneity, weak evidence.
 
-## 한줄요약
+SR+MA (4 studies eligible, 3 meta-analysed) — adding an oral irrigator to toothbrushing did NOT outperform dental floss for plaque-index (SMD −0.88, 95% CI −2.25 to 0.50, p=0.10, I²=98%) or bleeding-index (SMD −0.90, 95% CI −2.78 to 0.98, p=0.35) reduction in fixed-orthodontic patients;
 
-SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔질에 구강세정기(oral irrigator)를 추가해도 치실 대비 치태지수(PI SMD −0.88, 95% CI −2.25~0.50, p=0.10, I²=98%)·출혈지수(BI SMD −0.90, 95% CI −2.78~0.98, p=0.35) 감소에서 우월하지 않았다. 이질성이 매우 커 근거가 약하다.
+very high heterogeneity, weak evidence.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔질에 구강세정기(oral irrigator)를 추가해도 치실 대비 치태지수(PI SMD −0.88, 95% CI −2.25~0.50, p=0.10, I²=98%)·출혈지수(BI SMD −0.90, 95% CI −2.78~0.98, p=0.35) 감소에서 우월하지 않았다.
+
+이질성이 매우 커 근거가 약하다.
+
+(incomplete)
 
 ## 1. Document Information
 

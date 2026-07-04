@@ -17,11 +17,21 @@ text_filename: albu-2025-treatment-landscape-odontogenic-sinusitis.txt
 
 기존 [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] ODS 클러스터에 최신(2025) 치료전략 종합 추가 — 항생제(amox-clav 경험적) 위치, 치과치료 vs ESS 순서, 병행수술 ~97% 성공이라는 실무 의사결정축 보강. sinus augmentation 합병증 맥락과도 연결.
 
-## One-line Summary
-Narrative review (6 SRs + 24 clinical studies): empirical amoxicillin/amox-clav is first-line for ODS but antibiotics alone rarely cure; resolving the dental source is essential, and concurrent one-stage dental + ESS yields ~97% success.
+## Three-line Summary
 
-## 한줄요약
-ODS 치료 종합 리뷰: 경험적 1차 amoxicillin/amox-clav지만 항생제 단독 비치료적 — 치과 원인 제거 필수, 치과+ESS 병행 성공률 최고(~97%).
+Narrative review (6 SRs + 24 clinical studies, January 2008–August 2025) synthesizing the treatment landscape of odontogenic sinusitis (ODS), covering antibiotic selection, dental treatment alone, and combined surgical approaches.
+
+Empirical amoxicillin/amox-clav is first-line but antibiotics alone are non-curative; dental treatment alone resolves ODS in 51–77% of cases; concurrent one-stage dental treatment + ESS achieves ~97–98% success with <1–6% recurrence.
+
+ODS represents 25–40% of maxillary CRS; resolving the dental source is essential, and the scope of ESS (maxillary antrostomy alone vs full ESS) remains debated for uncomplicated cases.
+
+## 세줄요약
+
+ODS(치성 상악동염, Odontogenic Sinusitis) 치료전략 종합 내러티브 리뷰(6편 SR + 24편 임상연구, 2008–2025): 항생제 선택, 치과 단독치료, 병행수술 접근법 포괄.
+
+경험적 1차 아목시실린/아목시클라브 투여가 권고되나 항생제 단독 비치료적; 치과 단독 해소율 51–77%; 치과+ESS(내시경 상악동수술) 병행 성공률 ~97–98%, 재발률 <1–6%.
+
+ODS는 상악 만성 비부비동염(CRS)의 25–40%; 치과 원인 제거 필수; 비합병 ODS의 ESS 범위(상악동개구부 단독 vs 전체 ESS) 논쟁 지속.
 
 ## 1. Document Information
 - Medicina (Kaunas) 2025;61(12):2175. DOI 10.3390/medicina61122175 · PMID 41470177 · PMC12734476 (open access, CC BY).

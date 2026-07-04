@@ -16,13 +16,23 @@ relations:
 tags: [opmd, leukoplakia, dysplasia, malignant-transformation, pathogenesis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of OPMD etiology and the dysplasia-to-carcinoma pathway: tobacco/areca/alcohol and microbial/HPV drivers, with oral epithelial dysplasia (OED) grade as the principal malignant-transformation predictor.
+Narrative review (Frontiers in Pharmacology 2022) synthesizing epidemiology, histopathology, and molecular biology of oral potentially malignant disorders (OPMDs) — leukoplakia, erythroplakia, OSMF, PVL, and OLP — within the WHO/Globocan 2020 framework (~0.37 M new lip/oral cancers annually, burden concentrated in low-HDI South-Asian populations.
 
-## 한줄요약
+Tobacco/areca nut/alcohol are primary reversible etiologic drivers; oral epithelial dysplasia (OED) grade is the key intermediate predictor of malignant transformation, tracing the histopathologic sequence hyperplasia → dysplasia → carcinoma in situ → invasive cancer.
 
-OPMD 병인·이형성→암 전환 경로 내러티브 리뷰: 담배/아레카/알코올·미생물·HPV 인자, 구강상피이형성(OED) 등급이 핵심 악성전환 예측인자.
+The benign/dysplastic stage is the critical window for reversible intervention via habit elimination; molecular marker tools for risk stratification are promising but not yet validated for routine clinical use.
+
+## 세줄요약
+
+WHO/Globocan 2020 틀 내에서 구강잠재악성질환(Oral Potentially Malignant Disorder, OPMD) — 백반증·홍반증·OSMF·증식성 우모상 백반증(PVL)·OLP — 의 역학·조직병리·분자생물학을 종합한 내러티브 리뷰 (Frontiers in Pharmacology 2022).
+
+담배/아레카/알코올이 주요 가역 병인; 구강상피이형성(Oral Epithelial Dysplasia, OED) 등급이 과증식→이형성→상피내암→침윤성암 전환의 핵심 예측인자; 부담은 저HDI 남아시아 인구에 집중.
+
+가역 단계(양성/이형성)가 습관 제거로 개입 가능한 핵심 시점; 분자 마커 기반 위험층화 도구는 유망하나 아직 임상 검증 미완.
+
+
 
 ## Summary
 

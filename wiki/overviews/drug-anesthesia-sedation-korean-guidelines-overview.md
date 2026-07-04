@@ -29,13 +29,21 @@ source: synthesis
 > [!note] Scaffold overview (2편 기반)
 > 현재 paper 2편(둘 다 JKDA 61권 4호 narrative/proposal, 정량 outcome 없음)만으로 구성된 얇은 overview. 한국 치과 마취·진정 **가이드라인 현황 지도** 용도이며, 임상 술기 권고의 1차 근거가 아니다. 정량 vasoconstrictor·LA 안전성 근거는 [[drug-systemic-disease-dental-management-overview]] §5 참조. 후속 paper ingest 시 확장 예정.
 
-## One-line Summary
+## Three-line Summary
 
-Two paired JKDA 61(4) 2023 articles mapping the status of Korean dental anesthesia guidelines: a moderate-sedation clinical practice guideline (15-PICO, non-anesthesiologist scope) now exists (Karm 2023, interpreting the 2022 national sedation guideline), while a standardized local-anesthesia guideline does NOT yet exist and is only being proposed (Hwang 2023).
+Scaffold overview based on two paired JKDA 61(4) 2023 articles mapping Korean dental anesthesia guideline status: a 2022 national sedation clinical practice guideline exists covering 15 PICO questions (moderate sedation, non-anesthesiologist scope, including provider education, drug/equipment, patient selection, monitoring, pediatric complications, and discharge criteria — Karm 2023 clinician commentary).
 
-## 한줄요약
+A standardized Korean local-anesthesia guideline does NOT yet exist — Hwang 2023 is a 4-page position paper proposing its development, with no systematic search or recommendation body; the practical gap is filled by individual clinic SOPs, international guidelines, and distributed quantitative evidence (1:200,000 epinephrine equal to 1:80,000 analgesia with better hemodynamic safety; felypressin contraindicated in pregnancy).
 
-JKDA 2023년 61권 4호 짝 논문 2편으로 본 한국 치과 마취·진정 가이드라인 현황 — 진정(sedation)은 2022년 국가 가이드라인(15개 PICO, 비마취과 의사 포함)이 정립되어 Karm 2023이 해설하지만, 국소마취(local anesthesia)는 표준 진료지침이 **아직 없고** Hwang 2023이 제정 필요성만 제안한 단계.
+Both papers contain no quantitative outcomes — this page is a guideline-status map, not a primary clinical-technique reference; for specific prescribing decisions see the systemic-disease overview (vasoconstrictor safety §5) and the analgesics overview.
+
+## 세줄요약
+
+JKDA 61권 4호(2023) 짝 논문 2편 기반 스캐폴드 overview: 한국 2022년 진정 진료지침이 15개 PICO 문항으로 정립됨(비마취과 의사 포함, moderate sedation 중심, Karm 2023 해설) — provider 교육·약물·환자 선정·monitoring·소아 합병증·퇴원 기준 포함.
+
+표준 한국 국소마취 진료지침은 미정립 — Hwang 2023은 4페이지 제정 제안서(체계적 검색·권고 없음); 실무 공백은 국제 가이드라인·개별 약물 근거로 보완(1:200,000 에피네프린=1:80,000 진통+혈역학 안전; 임신 시 felypressin 금기).
+
+두 논문 모두 정량 outcome 없음 — 본 overview는 가이드라인 현황 지도; 구체적 처방 결정은 전신질환 overview(vasoconstrictor 안전성 §5)·진통제 overview 참조.
 
 ---
 

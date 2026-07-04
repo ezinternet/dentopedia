@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective study (n=91 restorations, mean 7.8-year follow-up) comparing lithium disilicate vs indirect resin-based composite partial posterior restorations: lithium disilicate had significantly higher survival (96.8% vs 84.9%, p<0.05) and 5× lower annual failure rate (0.2% vs 1.0%), with RBC survival dropping to ~60% by year 15 while LidiSi remained >95%.
+## Three-line Summary
+Retrospective study (n=91 inlay/onlay/overlay restorations, mean 7.8±3.3 years, Kaplan-Meier analysis) comparing IPS e.max CAD/Press lithium disilicate (LidiSi) vs indirect resin-based composite (RBC) partial posterior restorations placed 2007–2017.
 
-## 한줄요약
-후향적연구(n=91, 평균 7.8년): 리튬디실리케이트 생존율 96.8% vs 간접레진 84.9%; 연간실패율 LidiSi 0.2% vs RBC 1.0%; 15년째 RBC 60%로 급락
+LidiSi achieved significantly higher survival (96.8% vs 84.9%, p<0.05) and a 5-fold lower annual failure rate (0.2% vs 1.0%); RBC survival dropped precipitously to ~60% by year 15 while LidiSi remained >95%; LidiSi failures were mainly tooth fracture while RBC failures were marginal discoloration and secondary caries.
+
+Both materials showed favorable short-term performance (<6 years), so the clinical advantage of lithium disilicate becomes progressively apparent only beyond that threshold.
+
+## 세줄요약
+후향적연구(n=91 인레이·온레이·오버레이; 평균 7.8±3.3년; 2007–2017년 치료): KM 분석으로 IPS e.max CAD/Press(리튬디실리케이트, LidiSi) vs 간접 레진계 복합레진(RBC) 비교.
+
+LidiSi 생존율 96.8% vs RBC 84.9%(p<0.05); 연간실패율 LidiSi 0.2% vs RBC 1.0%(5배 차이); 15년째 RBC ~60%로 급락, LidiSi >95% 유지; LidiSi 실패 주원인 치아파절, RBC는 변연착색·이차우식.
+
+두 재료 모두 단기(<6년) 성적 양호 — 리튬디실리케이트의 임상 우위는 6년 이후 시점부터 점진적으로 뚜렷해짐.
 
 ## Summary
 Retrospective study (n=91 restorations, mean 7.8-year follow-up) comparing lithium disilicate (LidiSi) vs indirect resin-based composite (RBC) partial posterior restorations. LidiSi demonstrated significantly better survival (96.8% vs 84.9%; p<0.05) and 5× lower annual failure rate (0.2% vs 1.0%). By year 15, RBC survival dropped to ~60% while LidiSi remained >95%.

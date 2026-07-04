@@ -16,13 +16,21 @@ text_filename: liu-2025-water-flossing-adjunct-nspt-periodontitis-rct.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-6-month, 3-arm RCT (n=72, stage I-II periodontitis) — after full-mouth scaling + subgingival instrumentation, daily home-use **water flossing** significantly improved plaque and periodontal indices over toothbrushing alone and shifted subgingival microbiota (16S rRNA); adding an **herb-containing mouthrinse** further altered microbiota but gave **no extra clinical benefit** over water flossing alone.
+6-month, 3-arm RCT (n=72, stage I-II periodontitis, China) comparing toothbrushing alone, toothbrushing + daily water flossing, and toothbrushing + water flossing + herb-containing mouthrinse as home-care adjuncts after full-mouth scaling and subgingival instrumentation (NSPT).
 
-## 한줄요약
+Daily water flossing significantly improved dental plaque index and periodontal indices vs toothbrushing alone and shifted subgingival microbiota (16S rRNA, depleting Gemella); adding an herb-containing mouthrinse further altered the microbiota but provided no additional clinical improvement over water flossing alone.
 
-6개월 3군 RCT (n=72, stage I-II 치주염) — 전악 스케일링·치은연하 기구조작(NSPT) 후 매일 가정용 **워터플로싱**이 칫솔질 단독 대비 치태·치주지수를 유의하게 개선하고 치은연하 미생물군(16S rRNA)을 변화시켰으며, **허브 함유 가글** 추가는 미생물군을 더 바꿨으나 워터플로싱 단독 대비 **추가 임상 이득은 없었다**.
+Daily home-use water flossing is an effective adjunct to NSPT for stage I-II periodontitis maintenance, while the herb-containing mouthrinse offers limited incremental clinical benefit despite its additional microbiota effects.
+
+## 세줄요약
+
+6개월 3군 RCT(n=72, stage I-II 치주염, 중국): 전악 스케일링·치은연하 기구조작(Non-Surgical Periodontal Therapy, NSPT) 후 칫솔질 단독, 칫솔질+가정용 워터플로싱, 칫솔질+워터플로싱+허브 가글을 비교.
+
+매일 워터플로싱은 칫솔질 단독 대비 치태지수·치주지수를 유의하게 개선하고 치은연하 미생물군(16S rRNA, Gemella 감소)을 변화시켰으며; 허브 가글 추가는 미생물군을 더 변화시켰으나 워터플로싱 단독 대비 추가 임상 이득 없음.
+
+가정용 워터플로싱은 stage I-II 치주염의 NSPT 보조로 유효하며, 허브 가글은 미생물군 변화에도 불구하고 추가 임상 효과가 제한적이다.
 
 ## Summary
 

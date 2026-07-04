@@ -13,13 +13,21 @@ source_collection: external
 tags: [complete-denture, simplified-technique, conventional-technique, patient-satisfaction, OHRQoL, clinical-time, cost, edentulous]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 19 RCTs: simplified complete denture fabrication saves ~77 min chair time and ~$86/case cost with no significant difference in patient satisfaction or OHRQoL at 6 months vs. conventional technique.
+Cochrane-methodology SR+MA of 19 RCTs (edentulous adults, search through February 2020) compared simplified complete denture fabrication (2–4 appointments, stock tray, no facebow/gothic-arch) vs conventional multi-stage technique (5–6 appointments) on satisfaction, OHRQoL, time, and cost.
 
-## 한줄요약
+Simplified technique showed no significant difference in patient satisfaction (SMD=+0.02, NS) or OHRQoL at 6 months, while saving a mean of 77.34 minutes of clinical time (p<0.05) and $85.89 in fabrication cost (p<0.05).
 
-19개 RCT의 SR+MA: 간소화 총의치 제작법은 기존법 대비 임상시간 약 77분·비용 약 86달러 절감, 환자만족도 및 OHRQoL은 6개월 시점 유의한 차이 없음.
+Evidence is limited by high risk of bias in most trials and heterogeneous definitions of "simplified," but the directional consistency supports recommending simplified techniques in resource-limited or high-volume settings.
+
+## 세줄요약
+
+Cochrane 방법론 SR+MA(19개 RCT, 무치악 성인, 2020년 2월까지)로 간소화 총의치 제작(2–4회 내원, 스톡트레이, 페이스보우/고딕아치 없음) vs 기존 다단계법(5–6회 내원)을 만족도, OHRQoL, 시간, 비용 측면에서 비교하였다.
+
+간소화 기법은 환자만족도(SMD=+0.02, 비유의)와 6개월 OHRQoL에 유의차 없었으며, 임상시간 평균 77.34분(p<0.05)과 기공비용 85.89달러(p<0.05)를 유의하게 절감하였다.
+
+대부분 시험의 비뚤림 위험이 높고 "간소화"의 정의가 이질적이나 방향성의 일관성으로 인해 자원 제한 또는 고용량 환경에서 간소화 기법이 권장될 수 있다.
 
 ## Summary
 

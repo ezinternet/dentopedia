@@ -11,7 +11,7 @@ pdf_filename: mousavi-2018-apical-constriction-position-incisor-molar.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In vitro (90 teeth, Iranian population): AC–AF distance 0.847mm (incisor) vs 0.709mm (molar), p=0.035; AC–AA 1.23mm vs 1.01mm (p=NS); recommends WL endpoint 0.85mm short of foramen for incisors, 0.70mm for molars.
 
 ## 1. Document Information

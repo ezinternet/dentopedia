@@ -14,11 +14,21 @@ source_collection: external
 tags: [peri-implant, primordial-prevention, primary-prevention, risk-factor-control, EFP, JCP, SR-MA, smoking-cessation, periodontitis-history]
 ---
 
-## One-line Summary
-SR+MA (PRISMA, observational + interventional studies with ≥6-month follow-up) anchoring the EFP S3 peri-implant prevention guideline: both primordial prevention (controlling smoking, periodontitis, and glycemia *before* placement) and primary prevention (supportive peri-implant care and oral hygiene *after* placement) reduce peri-implant mucositis and peri-implantitis incidence.
+## Three-line Summary
 
-## 한줄요약
-JCP 2023 EFP/AAP Workshop SR+MA (Univ Paris, Carra): peri-implant 질환 — primordial (식립 전 위험인자 통제) + primary (식립 후 health 유지) 예방 효과; 흡연 중단·치주염 사전 관리·구강위생 강화가 peri-implant mucositis·peri-implantitis 예방 효과 입증.
+SR+MA (PRISMA; observational + interventional studies with ≥6-month follow-up; search through August 2022) supporting the EFP S3 peri-implant disease prevention guideline and distinguishing primordial (pre-placement risk factor control) from primary (post-placement health maintenance) prevention.
+
+Both prevention layers — controlling smoking, periodontitis, and glycemia before placement, and delivering supportive peri-implant care and oral hygiene reinforcement after — reduce peri-implant mucositis and peri-implantitis incidence.
+
+Evidence is predominantly observational with few RCTs of risk factor modification, and follow-up is generally shorter than the natural history of peri-implantitis, limiting certainty of effect estimates.
+
+## 세줄요약
+
+SR+MA (PRISMA; 관찰연구+중재연구, 추적 ≥6개월, 검색 ~2022-08): EFP S3 임플란트주위 질환 예방 가이드라인 근거 — 원초 예방 (식립 전 위험인자 통제)과 1차 예방 (식립 후 건강 유지)을 구분.
+
+흡연 중단·치주염 사전 치료·혈당 조절 (원초 예방) 및 지지 임플란트주위 관리·구강위생 교육 (1차 예방) 모두 임플란트주위 점막염 (Peri-implant Mucositis) 및 임플란트주위염 (Peri-implantitis) 발생 감소.
+
+위험인자 중재 RCT가 드물고 추적기간이 임플란트주위염 자연경과보다 짧아 효과 추정치의 근거 수준이 낮음.
 
 ## Summary
 SR+MA supporting the EFP S3 peri-implant disease prevention/treatment guideline. Distinguishes:

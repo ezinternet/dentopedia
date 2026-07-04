@@ -17,13 +17,23 @@ text_filename: lin-2026-biomimetic-adhesive-cracked-tooth-single-visit.txt
 
 Our cracked-tooth restorative-design evidence is dominated by comparative trials and syntheses — [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] (crown vs partial-coverage inlay) and [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] (pooled outcomes) — but we lacked a worked single-case illustration of the *minimally invasive* end of that spectrum: a bonded occlusal/laminate veneer placed in one visit immediately after root canal therapy. This case report documents the morphology-driven preparation technique (MDPT) with a lithium-disilicate occlusal veneer and short-fiber-reinforced composite (SFRC) access build-up, fleshing out the conservative restorative option that the comparative literature only references in aggregate. Single case (n=1) — illustrative, not evidence of effectiveness.
 
-## One-line Summary
+## Three-line Summary
 
-Single case report (n=1): a cracked endodontically treated maxillary first molar restored in one visit with a morphology-driven, minimally invasive lithium-disilicate occlusal veneer (butt-joint proximal margins + hollow-chamfer axial walls) over an SFRC access build-up; complete pain resolution and intact restoration at 15-month follow-up.
 
-## 한줄요약
+Single case report (n=1): a cracked endodontically treated maxillary first molar restored in one visit with a morphology-driven, minimally invasive lithium-disilicate occlusal veneer (butt-joint proximal margins + hollow-chamfer axial walls) over an SFRC access build-up;
 
-단일 증례 보고 (n=1): 균열이 있는 근관치료 상악 제1대구치를 단일 내원에 형태기반 최소침습 삭제(MDPT) — 근심·원심 butt-joint 변연 + 협·구개측 hollow-chamfer — 로 만든 리튬 디실리케이트 교합 비니어로 수복(단섬유강화복합레진 SFRC로 와동 충전 후 접착). 15개월 추적에서 통증 완전 소실·수복물 온전.
+complete pain resolution and intact restoration at 15-month follow-up.
+
+(incomplete)
+
+## 세줄요약
+
+
+단일 증례 보고 (n=1): 균열이 있는 근관치료 상악 제1대구치를 단일 내원에 형태기반 최소침습 삭제(MDPT) — 근심·원심 butt-joint 변연 + 협·구개측 hollow-chamfer — 로 만든 리튬 디실리케이트 교합 비니어로 수복(단섬유강화복합레진 SFRC로 와동 충전 후 접착).
+
+15개월 추적에서 통증 완전 소실·수복물 온전.
+
+(incomplete)
 
 ## 1. Document Information
 

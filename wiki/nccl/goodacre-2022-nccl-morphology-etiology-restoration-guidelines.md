@@ -13,11 +13,21 @@ source_collection: external
 tags: [nccl, abfraction, sclerotic-dentin, restoration-guidelines]
 ---
 
-## One-line Summary
-Narrative review of NCCL morphology, progression, prevalence, and etiology, concluding with concrete restorative guidelines (texture sclerotic dentin, bevel enamel, 30-s etch, scrubbing adhesive application).
+## Three-line Summary
 
-## 한줄요약
-NCCL 형태·진행·유병률·병인 종합 + 경화상아질 텍스처링, enamel bevel, 30초 산부식 등 구체적 수복 가이드라인 제시한 narrative review.
+Narrative review (PubMed) synthesizing NCCL morphology (saucer vs V-shape), progression, prevalence (9–93% across populations, ≥50 µm/yr height gain in low D/H lesions), etiology (multifactorial: abrasion, acid, GERD, salivary hypofunction; abfraction controversial), and pathophysiology.
+
+Prevalence increases with age (severe lesions 29.9% at 26–30 yrs vs 42.6% at 46–50 yrs); progression risk factors include low salivary buffering and dietary acid; the D/H ratio distinguishes saucer (mainly height change) from V-shaped lesions (both height and depth increase).
+
+Clinical restorative guidelines include: delay restoration until clinically necessary; texture sclerotic dentin with fine diamond; bevel enamel margins; 30-second extended etching on sclerotic dentin; light scrubbing adhesive application (20 s); SDF as non-restorative option when caries coexists.
+
+## 세줄요약
+
+PubMed narrative review: NCCL 형태(saucer형 vs V자형), 진행(저 D/H 병변 연 ≥50 µm 높이 증가), 유병률(9–93%; 연령증가와 비례), 병인(다인성: 마모·산·GERD·타액기능저하; abfraction 논쟁적), 병태생리 종합.
+
+유병률은 연령에 따라 증가(중증 병변: 26–30세 29.9% vs 46–50세 42.6%); D/H 비율이 두 형태의 진행 양상을 구분; 저 타액 완충능·식이 산이 진행 위험인자.
+
+수복 가이드라인: 임상적 필요 전까지 수복 연기; 경화상아질을 세립 다이아몬드로 텍스처링; enamel bevel; 경화상아질 30초 연장 산부식; 접착제 가벼운 scrubbing 도포(20초); 우식 공존 시 SDF 비수복 옵션.
 
 ## Summary
 This review synthesizes the NCCL literature across morphology, progression, prevalence, etiology, and pathophysiology, then derives clinical restoration guidelines. NCCLs occur either as saucer-like depressions progressing mainly in height or V-shaped notches progressing in both height and depth, with progression accelerating as the depth/height ratio rises. Prevalence ranges from under 10% to over 90% depending on population and criteria, increasing with age; premolar facial surfaces are most affected. Etiology is multifactorial (toothbrush abrasion, dietary acid, GERD, salivary hypofunction), with the abfraction/occlusal-stress contribution still controversial. Management should be conservative-first; when restoration is indicated, the authors recommend surface texturing of sclerotic dentin, enamel beveling, extended 30-second dentin etching, and adhesive application with a light 20-second scrubbing motion.

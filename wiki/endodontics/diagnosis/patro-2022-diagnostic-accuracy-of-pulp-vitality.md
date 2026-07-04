@@ -16,11 +16,21 @@ relations:
     target: donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (10 qualitative / 5 meta-analyzed) ranking pulp-test accuracy by pooled diagnostic odds ratio: pulse oximeter 628.5 ≫ cold 17.24 > EPT 10.75 > heat 3.47 — pulse oximetry most accurate, though no study rated high quality.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(정성 10편·MA 5편) — 치수검사 정확도를 통합 진단오즈비로 줄세우면 맥박산소계측 628.5 ≫ cold 17.24 > 전기치수검사 10.75 > heat 3.47; 맥박산소계측이 최정확하나 고품질 연구는 없음.
+SR+MA (10 qualitative, 5 meta-analyzed) comparing diagnostic accuracy of pulp vitality tests (measuring blood flow) vs pulp sensibility tests (measuring nerve response) in permanent teeth, using pooled diagnostic odds ratio (DOR) and SROC analysis (QUADAS-2 quality appraisal).
+
+Pulse oximeter (DOR 628.5) vastly outperformed cold test (17.24), electric pulp tester (10.75), and heat test (3.47), with consistently higher pooled sensitivity and specificity; however, no included study was rated high quality on QUADAS-2 so effect magnitudes must be read as directional.
+
+The clinical ranking is: pulse oximetry best; among standard sensibility tests, cold outperforms EPT which outperforms heat; heat test alone (DOR 3.47) is the weakest and least useful as a standalone diagnostic.
+
+## 세줄요약
+
+SR+MA(정성 10편·메타분석 5편): 혈류 측정 생활력 검사(Vitality Test) vs 신경 반응 감각 검사(Sensibility Test)의 진단 정확도를 영구치 대상으로 비교 — 통합 진단오즈비(Diagnostic Odds Ratio, DOR)·SROC 분석, QUADAS-2 질 평가.
+
+맥박산소계측(Pulse Oximeter) DOR 628.5로 냉자극(Cold test) 17.24·전기치수검사(Electric Pulp Test, EPT) 10.75·열자극(Heat test) 3.47을 압도적으로 능가; 단 포함 연구 전체가 QUADAS-2에서 고품질 미달이라 효과 크기는 방향성 수준으로 해석.
+
+임상 순위: 맥박산소계측 최우수; 일반 감각 검사 중 냉자극 > EPT > 열자극; 열자극 단독(DOR 3.47)은 가장 약해 단독 진단 도구로 최소 유용.
 
 ## Summary
 Patro and colleagues meta-analyzed diagnostic-accuracy studies comparing pulp vitality tests (which measure blood flow) against pulp sensibility tests (which measure nerve response) in permanent teeth. Ranked by pooled diagnostic odds ratio, the pulse oximeter (628.5) vastly outperformed the cold test (17.24), electric pulp tester (10.75), and heat test (3.47), with consistently higher pooled sensitivity and specificity on pairwise comparison and SROC analysis. The clinical signal is that a true vitality (blood-flow) test discriminates pulpal health better than the sensibility tests in routine use — but every included study was low/moderate quality on QUADAS-2, so the magnitude must be read cautiously. This is the quantitative complement to Donnermeyer's qualitative "diagnosis is hard" conclusion.

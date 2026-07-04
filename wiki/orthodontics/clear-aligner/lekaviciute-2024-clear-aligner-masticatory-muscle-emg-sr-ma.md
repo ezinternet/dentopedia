@@ -17,13 +17,21 @@ text_filename: lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma.txt
 tags: [clear-aligner, masticatory-muscle, masseter, temporalis, semg, electromyography, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (6 studies, 108 adults, NOS low–moderate RoB; PROSPERO CRD42024522231): clear aligner treatment transiently raised masseter sEMG at maximal clench then it fell, with mixed temporalis/resting responses, but the pooled meta-analysis found a NON-significant difference in masseter and temporalis activity (effect size 0.20 and 0.24, both CIs cross 0) — evidence too thin for firm conclusions.
+PROSPERO-registered SR+MA (PRISMA 2020, 2418 records → 6 studies, n=108 adults, mean age 22–35, NOS low-to-moderate risk of bias) — the first quantitative pooling of masseter/temporalis surface electromyography (sEMG) across clear aligner treatment.
 
-## 한줄요약
+Narratively, masseter sEMG showed a transient initial increase then decay at maximal voluntary clench, temporalis was mixed, and one study found submaximal masseter reduction (−20%); the pooled random-effects meta-analysis found a NON-significant difference for both masseter (ES 0.20, P=0.078) and temporalis (ES 0.24, P=0.128), with low heterogeneity (I²=15%/46%) and no detectable publication bias.
 
-체계적 문헌고찰+메타분석(6편, 성인 108명, NOS 비뚤림 낮음–중등도): 투명교정(CAT)은 최대 악물기(MVC)에서 교근(masseter) 표면근전도가 초기 증가 후 감소, 측두근(temporalis)·안정위 반응은 혼재했으나 통합 메타분석에서 교근·측두근 활성도 차이가 통계적으로 유의하지 않아(ES 0.20·0.24, 둘 다 신뢰구간이 0 포함) 확정 결론을 내리기엔 근거가 부족하다.
+Clear aligners produce only transient, task-specific neuromuscular adaptations of masseter/temporalis without a statistically reliable net change; parameters normalized by ~3 months post-treatment in the one comparative study, but the evidence base is too small for a firm verdict.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (PRISMA 2020, 2418건 → 6편, 성인 108명, 평균 연령 22–35세, NOS 낮음–중등도): 투명교정(CAT)에서 교근(masseter)/측두근(temporalis) 표면근전도(sEMG) 최초 정량 통합.
+
+서술적으로 교근 sEMG는 최대 악물기(MVC)에서 초기 증가 후 감소, 측두근은 혼재, 준최대 악물기에서 교근 −20% 감소 1편; 통합 메타분석에서 교근(ES 0.20, P=0.078)·측두근(ES 0.24, P=0.128) 모두 비유의(I²=15%/46%, 출판 비뚤림 없음).
+
+투명교정은 교근·측두근에 일시적·과제특이적 신경근 적응만 유발, 통계적으로 신뢰할 수 있는 순 변화 없음; 비교 연구에서 치료 후 ~3개월에 정상화되었으나 근거 기반이 너무 작아 확정 결론 불가.
 
 ## Summary
 

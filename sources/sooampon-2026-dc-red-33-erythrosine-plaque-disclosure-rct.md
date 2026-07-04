@@ -17,13 +17,23 @@ text_filename: sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct.txt
 
 Plaque disclosing agents are the patient-education backbone of any mechanical plaque-control regimen, yet the standard agent (erythrosine) was FDA-banned in ingested products in Jan 2025, leaving an unanswered substitution question. This RCT directly tests a regulatory-safe alternative (D&C Red No. 33) and complements the mechanical plaque-removal evidence in [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] by addressing how plaque is *visualized* for instruction rather than how it is removed.
 
-## One-line Summary
+## Three-line Summary
 
-Partially-blinded randomized crossover trial (n=11 healthy adults) comparing 3% erythrosine vs 3% D&C Red No. 33 vs a mixed two-tone agent for plaque disclosure: erythrosine gave the highest plaque visibility but percentage plaque-index reduction was equivalent across all three, while D&C Red No. 33 had the least residual staining, best taste, and easiest removal — supporting it as a patient-friendly, regulatory-safe alternative.
 
-## 한줄요약
+Partially-blinded randomized crossover trial (n=11 healthy adults) comparing 3% erythrosine vs 3% D&C Red No.
 
-무작위 교차 임상시험(건강 성인 11명)에서 3% 에리트로신(erythrosine), 3% D&C Red No. 33, 혼합 2색 제제를 비교 — 에리트로신이 치태 가시성은 가장 높았으나 칫솔질 후 치태지수 감소율(%)은 세 제제 모두 차이가 없었고, D&C Red No. 33은 잔류 착색이 가장 적고 맛·제거 용이성이 우수해 규제 안전성을 갖춘 환자 친화적 치태 착색제 대안으로 제시됨.
+33 vs a mixed two-tone agent for plaque disclosure: erythrosine gave the highest plaque visibility but percentage plaque-index reduction was equivalent across all three, while D&C Red No.
+
+33 had the least residual staining, best taste, and easiest removal — supporting it as a patient-friendly, regulatory-safe alternative.
+
+## 세줄요약
+
+
+무작위 교차 임상시험(건강 성인 11명)에서 3% 에리트로신(erythrosine), 3% D&C Red No.
+
+33, 혼합 2색 제제를 비교 — 에리트로신이 치태 가시성은 가장 높았으나 칫솔질 후 치태지수 감소율(%)은 세 제제 모두 차이가 없었고, D&C Red No.
+
+33은 잔류 착색이 가장 적고 맛·제거 용이성이 우수해 규제 안전성을 갖춘 환자 친화적 치태 착색제 대안으로 제시됨.
 
 ## 1. Document Information
 

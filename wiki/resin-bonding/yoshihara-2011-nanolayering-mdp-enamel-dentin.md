@@ -19,13 +19,21 @@ relations:
     target: nagaoka-2017-mdp-zirconia-chemical-interaction-nmr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro XRD + TEM study (experimental 10-MDP primer vs Clearfil SE Bond primer) showing self-assembled MDP-Ca nanolayering forms on enamel and dentin under a clinical protocol — significantly greater on dentin than enamel, proportional to 10-MDP concentration, and enhanced by active rubbing.
+In-vitro XRD + TEM study comparing experimental 10-MDP primer with Clearfil SE Bond (commercial control) applied to human enamel and dentin under a common clinical protocol; concentration-series and active-rubbing experiments also performed.
 
-## 한줄요약
+XRD confirmed self-assembled MDP-Ca nanolayering on both enamel and dentin under a clinically realistic protocol; nanolayering was significantly greater on dentin than enamel, proportional to 10-MDP concentration, and enhanced by active rubbing of the primer.
 
-10-MDP 실험용 프라이머와 Clearfil SE Bond 프라이머를 XRD·TEM으로 비교한 in-vitro 연구로, 임상 프로토콜에서도 MDP-칼슘염 나노레이어링(nanolayering)이 법랑질·상아질 모두에 형성되며 — 상아질에서 더 강하고, 10-MDP 농도에 비례하며, 문지르기로 증대된다.
+The MDP-Ca nanolayer is the chemical-adhesion mechanism of MDP-based self-etch/universal adhesives; lower nanolayering on enamel explains weaker mild self-etch bonding on enamel, supporting selective enamel phosphoric-acid etching and active primer application in clinical practice.
+
+## 세줄요약
+
+실험용 10-MDP 프라이머와 Clearfil SE Bond(상용 대조군)를 인간 법랑질·상아질에 공통 임상 프로토콜로 적용한 in-vitro XRD·TEM 연구; 농도별 계열 실험 및 능동 문지르기 비교도 수행.
+
+임상적으로 현실적인 프로토콜에서도 법랑질·상아질 모두에 MDP-칼슘염 나노레이어링이 XRD로 확인되었고, 상아질 > 법랑질, 10-MDP 농도에 비례, 능동 문지르기로 증대.
+
+MDP-칼슘 나노레이어가 MDP계 self-etch/universal 접착제의 화학적 접착 기전이며, 법랑질에서의 낮은 나노레이어링이 약한 결합의 원인 — 임상에서는 법랑질 선택적 산 부식과 프라이머 능동 적용이 권장된다.
 
 ## Summary
 

@@ -17,11 +17,21 @@ text_filename: aguirre-gil-2026-ph-solubility-radiopacity-dual-cure.txt
 
 기존 [[resin-bonding/li-2025-curing-modes-dual-cure-dentin]]는 dual-cure resin cement의 curing mode(광중합 vs 자가중합)가 dentin 접착강도·내구성에 미치는 영향을 다뤘다. 본 논문(Aguirre-Gil 2026)은 같은 dual-cure resin cement군(NX3 Nexus는 Kerr의 Nexus 계열로 li-2025의 N3/Nexus 3와 동일 제품 라인)에 대해 접착강도가 아닌 물리화학적 성질(pH·solubility·radiopacity)을 비교해, 시멘트 선택 근거를 "접착 성능" 축에서 "임상 검출성·안전성" 축으로 보강·확장한다.
 
-## One-line Summary
-In-vitro experimental study (BMC Oral Health 2026, n=30 discs, 15/cement) comparing NX3 Nexus (Kerr) vs Variolink N (Ivoclar Vivadent) dual-cure resin cements: Variolink N showed significantly higher radiopacity (2.00 vs 1.59 mmAl, p=0.026) and NX3 Nexus showed significantly higher pH (5.84 vs 5.32, p=0.008); no significant difference in solubility (p=0.841).
+## Three-line Summary
 
-## 한줄요약
-in-vitro 연구(BMC Oral Health 2026, n=30 디스크, 시멘트당 15개) — NX3 Nexus(Kerr) vs Variolink N(Ivoclar Vivadent) dual-cure 레진시멘트 비교: Variolink N이 방사선불투과도 유의하게 높음(2.00 vs 1.59 mmAl, p=0.026), NX3 Nexus가 pH 유의하게 높음(5.84 vs 5.32, p=0.008), 용해도는 유의차 없음(p=0.841).
+In-vitro experimental study (BMC Oral Health 2026, n=30 discs, 15 per cement) comparing NX3 Nexus (Kerr) vs Variolink N (Ivoclar Vivadent) dual-cure resin cements on three physicochemical properties: pH, solubility, and radiopacity.
+
+Variolink N showed significantly higher radiopacity (2.00 vs 1.59 mmAl, p=0.026) attributable to ytterbium trifluoride (Z=70) vs NX3's barium-glass fillers (Z=56); NX3 Nexus showed significantly higher pH (5.84 vs 5.32, p=0.008); solubility was not significantly different (p=0.841) and both cements met ISO 4049:2019 thresholds.
+
+Variolink N provides better radiographic detectability; NX3 Nexus has a slightly more neutral pH (lower sensitivity/pulpal-inflammation risk); both are clinically safe for solubility — in-vitro disc model limits extrapolation to dynamic intraoral conditions.
+
+## 세줄요약
+
+시험관내 실험 연구 (BMC Oral Health 2026, n=30 디스크, 시멘트당 15개): NX3 Nexus(Kerr) vs Variolink N(Ivoclar Vivadent) dual-cure 레진시멘트의 pH·용해도·방사선불투과도 비교.
+
+Variolink N이 방사선불투과도 유의하게 높음(2.00 vs 1.59 mmAl, p=0.026) — ytterbium trifluoride(Z=70) vs 바륨유리 충전재(Z=56) 차이; NX3 Nexus가 pH 유의하게 높음(5.84 vs 5.32, p=0.008); 용해도는 유의차 없음(p=0.841), 두 시멘트 모두 ISO 4049:2019 충족.
+
+Variolink N은 방사선 검출성 우수; NX3 Nexus는 pH가 더 중성(치수 자극 위험 감소); 용해도는 두 제품 모두 안전 — 생체내 동적 조건에서의 적용은 추가 연구 필요.
 
 ## 1. Document Information
 - **Title**: In vitro comparison of pH, solubility, and radiopacity of two dual-cure resin cements

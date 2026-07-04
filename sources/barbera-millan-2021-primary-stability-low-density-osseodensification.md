@@ -13,13 +13,21 @@ source_collection: external
 
 Adds a controlled in-vitro head-to-head of Osseodensification (OD) against conventional **under-drilling (UD)** — not just hole-drilling — in low-density (type D4) bone, reinforcing [[wiki/implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers]] and [[wiki/implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] that OD raises insertion torque and ISQ. The large n (55/group) and the explicit UD comparator strengthen the evidence that OD's primary-stability benefit is real even versus the established under-sizing trick used in soft bone.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro pig-tibia study (Lekholm-Zarb type IV bone, n=55 implants/group): Osseodensification produced significantly higher insertion torque (21.7 vs 8.9 Ncm) and ISQ (69.8 vs 65.2) than conventional under-drilling.
+In vitro pig-tibia study (Lekholm-Zarb type IV bone, n=55 implants/group) comparing Osseodensification (OD) against conventional under-drilling (UD) for primary stability in low-density bone.
 
-## 한줄요약
+OD produced significantly higher insertion torque (21.7 vs 8.9 Ncm, p=0.000) and ISQ (69.8 vs 65.2, p=0.001) than UD; sigmoid regression showed ISQ plateaus beyond ~75.6 regardless of further torque increase.
 
-저밀도 돼지 경골(Lekholm-Zarb type IV) in vitro 연구(군당 임플란트 55개): 골밀도화(OD)가 기존 언더드릴링(UD)보다 식립 토크(21.7 vs 8.9 Ncm)와 ISQ(69.8 vs 65.2) 모두 유의하게 높았다.
+Both groups reached values compatible with immediate loading, suggesting OD is a viable strategy for soft-bone sites — though in-vitro findings require clinical confirmation.
+
+## 세줄요약
+
+저밀도 돼지 경골(Lekholm-Zarb type IV) in vitro 연구(군당 임플란트 55개): 골밀도화(OD) vs 언더드릴링(UD) 1차 안정성 비교.
+
+OD가 UD보다 식립 토크(21.7 vs 8.9 Ncm, p=0.000) 및 ISQ(69.8 vs 65.2, p=0.001) 모두 유의하게 높았으며, sigmoid 회귀에서 ISQ는 ~75.6 이후 plateau 형성.
+
+두 군 모두 즉시부하 기준 충족 — in vitro 결과이므로 임상 연구로 확인 필요.
 
 ## 1. Document Information
 

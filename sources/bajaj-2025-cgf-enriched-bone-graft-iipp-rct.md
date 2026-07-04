@@ -10,8 +10,21 @@ pdf_filename: bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-RCT (n=40, 12개월): 상악 심미부 즉시식립+즉시임시치관 (IIPP) 시 jump space에 CGF 강화 골이식재 사용 vs 비사용 — RW, VD-distal, JS-mesial/distal/buccal, RA-mesial/buccal, Testori 심미점수 (TS)에서 시험군 유의 우위.
+## Three-line Summary
+
+RCT (n=40, 12 months, Dent Med Probl 2025) comparing immediate implant placement and provisionalization (IIPP) with CGF (concentrated growth factor)-enriched bone graft versus no graft in the jump space of the maxillary esthetic zone.
+
+At 12 months, the CGF-enriched graft group showed significantly better hard-tissue preservation: residual ridge width (RW) 9.80±0.89 mm, favorable jump-space reductions (mesial 0.38±0.34 mm, buccal 0.42±0.39 mm), and superior Testori esthetic score (p<0.05).
+
+The combination of autologous CGF and bone graft in the jump space improves both bone and esthetic outcomes over IIPP alone, though longer follow-up is required to confirm durability.
+
+## 세줄요약
+
+RCT(n=40, 12개월, Dent Med Probl 2025) — 상악 심미부 즉시식립+즉시임시치관(IIPP) 시 jump space에 CGF(농축성장인자, Concentrated Growth Factor) 강화 골이식재 적용군(n=20) vs 비적용군(n=20) 비교.
+
+12개월 시점 CGF군에서 잔존 치조제 폭(RW) 9.80±0.89 mm, jump space 감소(협측 0.42±0.39 mm 등) 및 Testori 심미점수(TS)에서 대조군 대비 유의한 우위(p<0.05).
+
+자가 혈액 유래 CGF와 골이식재 조합이 IIPP만 시행할 때보다 골·심미 결과를 향상시키나, 장기 추적관찰로 내구성 확인이 필요하다.
 
 ## 1. Document Information
 - **Title**: Comparative evaluation of immediate implant placement and provisionalization (IIPP) with and without a concentrated growth factor-enriched bone graft: A randomized controlled trial

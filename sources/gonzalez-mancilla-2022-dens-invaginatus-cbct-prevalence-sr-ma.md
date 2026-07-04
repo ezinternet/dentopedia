@@ -17,13 +17,23 @@ text_filename: gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.txt
 
 치아형태학 감시 인제스트 — dens invaginatus(치내치, dens in dente) CBCT 유병률. 상악 측절치 호발이며 invagination이 근관계를 복잡하게 만들어 근관치료 난이도와 예후에 직결되는 발달 이상. 기존 CBCT-기반 prevalence 페이지 [[endodontics/anatomy/betancourt-2016-mb2-prevalence-location-cbct]] (MB2 유병률·위치)와 같은 "CBCT가 2D 방사선보다 해부 변이를 더 많이 검출한다"는 주제를 dens invaginatus로 확장·보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (4 retrospective studies, 2,009 CBCTs) — pooled CBCT-assessed prevalence of dens invaginatus is 9.0% (95% CI 7.2–10.8%), roughly double conventional-radiograph estimates (0.25–7.7%); maxillary lateral incisor most affected and Oehlers Type I most common.
 
-## 한줄요약
+SR+MA (4 retrospective studies, 2,009 CBCTs) — pooled CBCT-assessed prevalence of dens invaginatus is 9.0% (95% CI 7.2–10.8%), roughly double conventional-radiograph estimates (0.25–7.7%);
 
-SR+MA (후향연구 4편, CBCT 2,009건) — CBCT로 측정한 치내치(dens invaginatus) 통합 유병률 9.0% (95% CI 7.2–10.8%)로 2D 방사선 추정치(0.25–7.7%)의 약 2배. 상악 측절치 최다 호발, Oehlers Type I 최다.
+maxillary lateral incisor most affected and Oehlers Type I most common.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (후향연구 4편, CBCT 2,009건) — CBCT로 측정한 치내치(dens invaginatus) 통합 유병률 9.0% (95% CI 7.2–10.8%)로 2D 방사선 추정치(0.25–7.7%)의 약 2배.
+
+상악 측절치 최다 호발, Oehlers Type I 최다.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -20,13 +20,21 @@ relations:
     target: akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (15 sinuses with septa + 15 septa-free controls, all lateral-window SFE): post-op Schneiderian swelling peaks at 1 week — mean mucosal height rising ~5.7 mm (septa) / ~7.1 mm (control) and transiently obstructing 3/15 infundibula in the septa group vs 5/15 in controls — then fully regresses by 9 months with zero residual obstruction; septa did not increase ostium involvement (but caused 4 perforations vs 0).
+Retrospective CBCT study (n=30 sinuses: 15 with interfering septa vs 15 septa-free controls, all lateral-window SFE, imaged at T0/1 week/9 months) examining whether septa modulate post-operative Schneiderian membrane swelling and ostium/infundibulum obstruction over time.
 
-## 한줄요약
+Post-op mucosal swelling peaked at 1 week (mean height increase ~5.7 mm septa / ~7.1 mm controls), transiently obstructing 3/15 infundibula in the septa group vs 5/15 in controls; all obstructions and swelling fully resolved by 9 months with zero residual pathology; septa caused 4/15 perforations vs 0/15 in controls.
 
-후향 CBCT 연구(격막 15동 + 격막 없는 대조 15동, 모두 측방창 상악동거상술): 술후 슈나이더막(Schneiderian membrane) 부종은 1주에 최고조에 이르러 점막 높이가 격막군 약 5.7 mm·대조군 약 7.1 mm 증가하고 자연공누두(infundibulum)를 격막군 3/15·대조군 5/15에서 일시 폐색시켰으나, 9개월 후 완전히 정상으로 회귀하고 폐색은 모두 소실됐다. 격막이 오히려 자연공 침범을 늘리지는 않았다(다만 격막군 천공 4건, 대조군 0건).
+Transient 1-week ostium obstruction after lateral SFE is common and self-limiting; septa raise perforation risk (26.7%) but do not worsen ostium involvement from post-op edema.
+
+## 세줄요약
+
+후향적 CBCT 연구 (n=30 상악동: 격벽 15동 vs 격벽 없는 대조 15동, 모두 측방창 상악동저 거상술, T0/1주/9개월 촬영): 격벽이 술후 슈나이더막 (Schneiderian Membrane) 부종·자연공/누두 폐쇄를 악화시키는지 검증.
+
+1주에 부종 최고조 (점막 높이 증가: 격벽군 ~5.7 mm / 대조군 ~7.1 mm), 누두 폐쇄 격벽군 3/15 vs 대조군 5/15; 9개월 후 폐쇄·부종 모두 완전 소실; 격벽군 천공 4/15 (26.7%), 대조군 0건.
+
+측방 상악동거상술 후 1주 자연공 폐쇄는 흔하고 자기 제한적; 격벽은 천공 위험을 높이나 자연공 침범은 악화시키지 않으므로 격벽 존재 자체가 자연공 합병증의 예측 인자는 아님.
 
 ## Summary
 

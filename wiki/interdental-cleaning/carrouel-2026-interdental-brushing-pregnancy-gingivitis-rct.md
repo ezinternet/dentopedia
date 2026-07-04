@@ -22,13 +22,21 @@ relations:
     target: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicentre single-blind RCT (secondary analysis, n=323 nulliparous women at preeclampsia risk, intact periodontium, enrolled at 12 wk gestation): daily calibrated interdental brushes + individualised instruction vs routine antenatal care reduced BOP from 56% to 12% (−79.9%, p<0.001) by 8 months — most in the first week (−56.8%) — while controls stayed flat; interdental brushing was the strongest independent predictor of bleeding resolution (OR=3.14, 95% CI 2.01–4.90).
+Multicentre single-blind RCT (secondary analysis, n=323 nulliparous women at high preeclampsia risk, intact periodontium, 12 weeks gestation, Dakar, Senegal) comparing daily calibrated interdental brush (IDB) + individualised instruction vs routine antenatal care over 8 months.
 
-## 한줄요약
+Daily calibrated IDB reduced bleeding on probing from 56% to 12% (−79.9%, p<0.001) with the majority of improvement in the first week (−56.8%), while controls remained unchanged; interdental brushing was the strongest independent predictor of bleeding resolution (OR=3.14, 95% CI 2.01–4.90).
 
-다기관 단일맹검 RCT(2차 분석, n=323, 자간전증 고위험·치주 정상·임신 12주 등록 초임부): 매일 보정형 치간칫솔(IDB)+개별 지도가 일상 산전관리 대비 8개월째 탐침 시 출혈(BOP)을 56%→12%(−79.9%, p<0.001) 줄였고 대부분 첫 주에 발생(−56.8%)했으며, 대조군은 변화 없었고, 치간칫솔 사용이 출혈 소실의 가장 강력한 독립 예측인자였다(OR=3.14, 95% CI 2.01–4.90).
+Individualised interdental hygiene is a feasible primary-prevention component of antenatal oral care, though the intervention did not improve composite obstetric outcomes (preeclampsia, preterm birth) reported separately.
+
+## 세줄요약
+
+다기관 단일맹검 RCT(2차 분석, n=323, 자간전증 고위험·치주 정상·임신 12주 등록 초임부, 세네갈 다카르): 매일 보정형 치간칫솔(Interdental Brush, IDB)+개별 지도 vs 일상 산전관리를 8개월 비교.
+
+IDB군의 탐침 시 출혈(Bleeding on Probing, BOP)이 56%→12%(−79.9%, p<0.001)로 감소했으며 대부분 첫 주에 발생(−56.8%); 대조군은 변화 없었고 IDB 사용이 출혈 소실의 가장 강력한 독립 예측인자(OR=3.14, 95% CI 2.01–4.90).
+
+개별화 치간 위생은 산전 구강관리의 1차 예방으로 실현 가능하나, 이 중재는 자간전증·조산 등 복합 산과 결과를 개선하지 못했다(별도 보고).
 
 ## Summary
 

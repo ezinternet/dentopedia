@@ -9,7 +9,7 @@ pdf_filename: pitman-2022-immediate-implant-provisionalization-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 즉시식립 후 즉시임시치관 유무에 따른 임플란트 생존율, MBL, 연조직 결과 비교 SR+MA.
 
 ## 1. Document Information

@@ -22,13 +22,21 @@ relations:
     target: mortazavi-2021-bone-loss-tissue-bone-level-implants
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT 15–17-year follow-up (n=60, 151 implants; Zurich) comparing one-piece Straumann SLA vs two-piece Brånemark TiUnite implants: cumulative survival 95%, one-piece superior marginal bone preservation (MBL 0.08 mm vs 1.53 mm) but 6× higher technical complication rate (35.4% vs 5.8% implant-level).
+RCT 15–17-year follow-up (60 patients, 151 implants; University of Zürich) comparing one-piece Straumann SLA (STM, n=65) vs two-piece Brånemark TiUnite (BRA, n=86) implants, the longest published RCT comparing these designs.
 
-## 한줄요약
+Cumulative survival 95% (STM 91.84% vs BRA 98.04%); one-piece implants showed markedly superior marginal bone preservation (MBL 0.08 mm vs 1.53 mm) but 6× higher technical complication rate (35.4% vs 5.8% implant-level); peri-implantitis patient-level 23.3% vs 16.7%.
 
-RCT 15–17년 추적(60명, 151개): 1조각 임플란트(One-piece Implant, STM) 변연골 소실(Marginal Bone Loss, MBL) 우수(0.08 mm vs 1.53 mm)하나 기술적 합병증(Technical Complication) 6배 높음(35.4% vs 5.8%); 전체 생존율(Implant Survival Rate, ISR) 95%.
+A clear biological vs technical trade-off exists between designs; BRA results should not be extrapolated to modern internal-connection/platform-switching two-piece systems.
+
+## 세줄요약
+
+RCT 15–17년 추적(환자 60명, 임플란트 151개; 취리히대학교) — 원-피스(One-piece) Straumann SLA(STM, 65개) vs 투-피스(Two-piece) Brånemark TiUnite(BRA, 86개) 임플란트 최장기 RCT 추적.
+
+전체 생존율(Implant Survival Rate, ISR) 95%(STM 91.84% vs BRA 98.04%); 변연골소실(Marginal Bone Loss, MBL): STM 0.08 mm vs BRA 1.53 mm(원-피스 우수); 기술적 합병증(Technical Complication): STM 35.4% vs BRA 5.8%(6배, 원-피스 불리); 임플란트주위염(Peri-implantitis) 환자수준 STM 23.3% vs BRA 16.7%.
+
+원-피스는 생물학적 유리(골보존), 투-피스는 기술적 유리(합병증↓) — 명확한 생물학적·기술적 상충 관계; BRA 결과를 현대 내부연결·플랫폼 스위칭 투-피스 시스템에 외삽 불가.
 
 ## Summary
 

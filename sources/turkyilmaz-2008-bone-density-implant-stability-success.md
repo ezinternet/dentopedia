@@ -13,13 +13,23 @@ source_collection: external
 
 Provides the foundational large-n (300 implant) clinical evidence that CT bone density drives both insertion torque and ISQ, and that ISQ separates successful from failed implants — anchoring the bone-density → primary-stability link that [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] and [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] later refine with cortical-bone specificity. Reinforces the success-threshold rungs of [[overviews/implants-isq-stability-ladder]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective clinical study (300 Brånemark Mk III TiUnite implants, 111 patients) finding strong correlations between CT bone density (HU), insertion torque, and ISQ, with failed implants showing markedly lower values on all three parameters.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 임상연구(임플란트 300개, 환자 111명)로, CT 골밀도(HU)·삽입토크·ISQ 사이에 강한 상관(r=0.76~0.88)을 확인했고, 실패한 임플란트는 세 지표 모두 현저히 낮았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

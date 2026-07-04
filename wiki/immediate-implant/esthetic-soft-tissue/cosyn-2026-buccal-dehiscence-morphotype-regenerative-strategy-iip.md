@@ -24,13 +24,21 @@ relations:
     target: pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Conceptual review (Cosyn & De Bruyckere, Ghent) proposing 11 buccal-dehiscence morphotypes for IIP from vertical extent (Type II-a/b/c), lateral extent (contained/partially-contained/non-contained), and facial soft tissue support; 2 morphotypes (Type III + extended defect) are absolute contraindications, the other 9 map to 3 escalating regenerative strategies graded by regenerative potential.
+Conceptual/narrative review (Cosyn & De Bruyckere, Ghent; JERD 2026) proposing 11 buccal-dehiscence morphotypes for immediate implant placement (IIP) built from vertical extent (Type II-a <4 mm / II-b 4–6 mm / II-c >6 mm), a new lateral-extent classification (contained/partially contained/non-contained/extended), and facial soft tissue support.
 
-## 한줄요약
+Two morphotypes — Type III (dehiscence + facial recession) and extended defect (to adjacent tooth) — are absolute contraindications; the remaining 9 stratify into three escalating regenerative strategies (modified trimodal, four-pillar + non-supportive barrier, four-pillar + supportive barrier + composite graft) graded by regenerative potential.
 
-협측 열개(buccal dehiscence) 소켓의 즉시식립(IIP)을 위해 수직 범위(Type II-a/b/c)·측방 범위(contained/PC/NC)·안면 연조직 지지로 11개 morphotype을 제안한 개념 리뷰 — Type III와 extended defect는 절대 금기, 나머지 9개는 재생 잠재력(높음·중간·낮음)에 따라 3단계 술식으로 매핑.
+All nine strategies are unvalidated and require clinical studies; the framework provides a reproducible case-selection and treatment-planning tool pending future evidence, with ARP + late placement as the established alternative for less-experienced surgeons.
+
+## 세줄요약
+
+개념 고찰 (Cosyn & De Bruyckere, 겐트大, JERD 2026): 즉시 식립 협측 열개 소켓을 수직(Type II-a/b/c)·측방(contained/PC/NC/extended)·안면 연조직으로 11개 morphotype 분류 제안.
+
+Type III(열개 + 안면 퇴축)와 extended defect(인접치까지) 2개 morphotype은 절대 금기; 나머지 9개는 재생 잠재력(높음·중간·낮음)에 따라 3단계 술식으로 매핑.
+
+9개 전략 모두 미검증 — 임상·CBCT 연구 필요; 경험 적은 술자에게는 ARP + 지연 식립이 더 근거 있는 대안.
 
 ## Summary
 

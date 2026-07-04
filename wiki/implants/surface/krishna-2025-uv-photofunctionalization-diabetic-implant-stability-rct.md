@@ -23,13 +23,21 @@ relations:
     target: early-implant-failure-risk-prevention-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT in controlled diabetic patients (J Oral Implantol 2025): 20-s pre-placement UV photofunctionalization (UVP) gave significantly higher 3-month ISQ gain (4.40 vs 2.60, P<.029), higher osseointegration index (OSI 1.42 vs 0.84, P=.032), and less 9-month distal crestal bone loss (0.35 vs 0.64 mm, P=.003) than non-UV implants.
+Split-mouth RCT in controlled diabetic patients comparing 20-second pre-placement UV photofunctionalization (UVP) vs non-photofunctionalized (NUVP) titanium implants — extends UVP benefit specifically to metabolically compromised patients.
 
-## 한줄요약
+UVP gave significantly higher 3-month ISQ gain (4.40 vs 2.60, P<.029), higher osseointegration index (OSI 1.42 vs 0.84, P=.032), and less 9-month distal crestal bone loss (0.35 vs 0.64 mm, P=.003).
 
-조절된 당뇨 환자 대상 split-mouth RCT (J Oral Implantol 2025): 식립 전 20초 자외선 광기능화 (UV Photofunctionalization, UVP) 시 비처리군 대비 3개월 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 상승폭(4.40 vs 2.60, P<.029)·골유착지수 (Osseointegration Index, OSI 1.42 vs 0.84, P=.032)가 유의하게 높고 9개월 치조정 골소실 (0.35 vs 0.64 mm, P=.003)이 유의하게 적었다.
+UV photofunctionalization improves early stability, osseointegration speed, and bone preservation in controlled diabetics; abstract-only — exact sample size and implant system not available.
+
+## 세줄요약
+
+조절된 당뇨 환자 대상 split-mouth RCT — 식립 전 20초 자외선 광기능화 (UV Photofunctionalization, UVP) vs 비처리(NUVP) 티타늄 임플란트 비교; 대사적 합병증 환자에서 UVP 효과를 검증한 연구.
+
+UVP군이 3개월 임플란트 안정성 지수 (ISQ) 상승폭(4.40 vs 2.60, P<.029)·골유착지수 (Osseointegration Index, OSI 1.42 vs 0.84, P=.032)에서 유의하게 높고, 9개월 원심 치조정 골소실 (0.35 vs 0.64 mm, P=.003)에서 유의하게 적음.
+
+조절된 당뇨 환자에서 UV 광기능화가 조기 안정성·골유착 속도·골보존을 동시에 개선; 초록만 입수 — 정확한 표본크기 및 임플란트 시스템 미공개.
 
 ## Summary
 

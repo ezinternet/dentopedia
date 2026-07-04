@@ -17,13 +17,21 @@ text_filename: alkhani-2026-optical-coherence-tomography-detection-dental.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR, 10 in-vitro studies, 2008–2021, n=6–80 teeth per study) of optical coherence tomography (OCT) for detecting dental cracks and vertical root fractures (VRF); OCT showed sensitivity 83%–98% and specificity 63%–100%, offering non-ionizing, real-time, high-resolution imaging, but limited penetration depth (1–3 mm) and lack of intraoral/root-canal-compatible probe design currently restrict it to laboratory use, well short of replacing CBCT.
+Scoping review (PRISMA-ScR, 10 in-vitro studies, 2008–2021, n=6–80 teeth per study) synthesizing evidence on optical coherence tomography (OCT) for detecting dental cracks and vertical root fractures (VRF) across TD-OCT, SD-OCT, and SS-OCT systems.
 
-## 한줄요약
+OCT achieved sensitivity 83%–98% and specificity 63%–100%, consistently outperforming visual inspection and conventional radiographs in head-to-head comparisons, with markedly higher interexaminer reproducibility; best single-study performance was catheter-based TD-OCT (sensitivity 0.93, specificity 0.95).
 
-Scoping review(PRISMA-ScR, in-vitro 연구 10편, 2008–2021, 연구당 n=6–80치아)로 치아 균열 및 수직치근파절(Vertical Root Fracture, VRF) 검출을 위한 광간섭단층촬영(Optical Coherence Tomography, OCT)의 진단능을 종합; 민감도 83%–98%, 특이도 63%–100%로 비방사선·실시간·고해상도 영상이라는 장점이 있으나, 침투 깊이 한계(1–3mm)와 근관 내 삽입 가능한 프로브 설계 부재로 현재는 실험실 연구 단계에 머물러 있어 CBCT를 대체하기엔 이르다.
+Limited tissue penetration (1–3 mm) and the lack of a clinically practical intracanal probe keep OCT in the laboratory stage — all 10 included studies were in vitro, and no clinical translation is feasible without engineering advances in probe miniaturization and wavelength.
+
+## 세줄요약
+
+PRISMA-ScR 스코핑 리뷰(in vitro 연구 10편, 2008–2021, 연구당 n=6–80치아): TD-OCT·SD-OCT·SS-OCT를 망라하여 치아 균열 및 수직치근파절(Vertical Root Fracture, VRF) 검출에 대한 광간섭단층촬영(Optical Coherence Tomography, OCT)의 근거를 종합.
+
+OCT 민감도 83–98%·특이도 63–100%로 시진·기존 방사선사진 대비 일관되게 우수하고 검사자 간 재현성 현저히 높음; 최고 성적은 카테터 기반 TD-OCT (민감도 0.93, 특이도 0.95).
+
+조직 침투 깊이 한계(1–3 mm)와 임상 적용 가능한 근관 내 프로브 미개발로 현재는 실험실 단계에 머물러 있으며, 10편 모두 in vitro — 프로브 소형화·파장 개선 없이는 임상 전환 불가.
 
 ## Summary
 

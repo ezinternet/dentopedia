@@ -21,13 +21,21 @@ relations:
     target: song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 3 RCTs (n=259) — single-cone bioceramic obturation showed numerically higher periapical success than conventional techniques at 6/12/18 mo (88.7/87.1/92.0% vs 76.4/76.4/90.7%) but no statistically significant difference (OR 1.12–2.09, all p>0.05); GRADE certainty low.
+SR+MA restricted to RCTs (3 trials, n=259) comparing single-cone bioceramic obturation versus conventional techniques (warm vertical compaction or single-cone with resin sealer) on clinical and radiographic periapical healing at 6, 12, and 18 months.
 
-## 한줄요약
+Single-cone bioceramic yielded numerically higher success at every time point (88.7/87.1/92.0% vs 76.4/76.4/90.7%) but no statistically significant difference was detected (OR 1.12–2.09, all p>0.05); GRADE certainty was low and heterogeneity was high at early time points (I²=63.3% at 6 mo, resolving to 0% at 18 mo).
 
-RCT 3편(259명) SR+MA — 단일콘 bioceramic 충전은 6/12/18개월 치근단 성공률이 전통기법보다 수치상 높았으나(88.7/87.1/92.0% vs 76.4/76.4/90.7%) 통계적 유의차 없음(OR 1.12–2.09, 모두 p>0.05); GRADE 근거수준 낮음.
+The evidence base is thin (only 3 eligible RCTs, short follow-up, one with high risk of bias), so the clinical message is equivalence with a non-significant bioceramic trend — not proven superiority — and workflow simplicity remains the main argument for single-cone bioceramic.
+
+## 세줄요약
+
+단일콘 바이오세라믹 충전 대 전통 기법을 비교한 RCT만을 포함한 SR+MA (RCT 3편, 259명); 6·12·18개월 치근단 치유를 평가했다.
+
+수치상으로는 바이오세라믹이 모든 시점에서 높았으나(88.7/87.1/92.0% vs 76.4/76.4/90.7%) 통계적 유의차는 없었고(OR 1.12–2.09, 전부 p>0.05) GRADE 근거수준은 낮음이었다.
+
+포함 RCT가 3편에 불과하고 추적 기간이 짧아 결론은 '동등성(equivalence)'이며, 임상적 강점은 술식 단순성과 수분 내성에 있다.
 
 ## Summary
 

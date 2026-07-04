@@ -22,13 +22,21 @@ relations:
     target: matys-2020-dental-aerosol-hazard-risk-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review synthesising dental bioaerosols and airborne transmission — air-turbine handpieces disperse ~1000× the bacterial CFU of quiet breathing, the classical <5 µm droplet/airborne cut-off is invalid (particles up to 100 µm stay suspended and travel >2 m), and a 3-tier control hierarchy (reduce production, reduce microbial load, capture/remove) plus PPE lowers exposure risk.
+Narrative review synthesising dental bioaerosol biology, aerosol physics, and infection-control evidence for the dental clinic; debunks the classical <5 µm airborne cut-off (particles up to 100 µm remain suspended >2 m) and catalogues control-measure effect sizes.
 
-## 한줄요약
+Air-turbine handpieces disperse ~1000× bacterial CFU of quiet breathing and 2× a sneeze; rubber dam cuts viral aerosol 92–100%; high-volume suction reduces 80–90%; extra-oral suction 89–93%; 10 ACH ventilation clears small aerosol in ~30 min.
 
-치과 bioaerosol과 공기전파를 종합한 서술적 리뷰 — 에어터빈 핸드피스는 조용한 호흡의 약 1000배 세균을 분산시키고, 5 µm 미만만 공기전파된다는 통념은 틀렸으며(최대 100 µm 입자도 부유·2 m 초과 이동), 러버댐·술전 가글·고용량 흡인·국소배기·환기·PPE의 3단계 통제로 노출을 낮춘다.
+The 5 µm droplet/airborne dichotomy is invalid; per-patient risk stratification with a 3-tier control hierarchy (reduce production → reduce microbial load → capture/remove) plus PPE is the evidence-based framework for minimising dental AGP transmission risk.
+
+## 세줄요약
+
+치과 bioaerosol 생물학·에어로졸 물리학·감염관리 근거를 종합한 서술적 리뷰 — 5 µm 이하만 공기전파된다는 통념을 반박(최대 100 µm 부유·2 m 초과 이동)하고 통제수단별 효과 크기를 정리.
+
+에어터빈은 조용한 호흡 대비 세균 CFU ~1000배, 재채기 2배 분산; 러버댐 바이러스 에어로졸 92–100% 감소; 고용량 흡인 80–90%; 국소배기 89–93%; 10회/h 환기로 소형 에어로졸 ~30분 내 제거.
+
+5 µm 이분법 무효 — 환자별 위험층화 + 3단계 통제체계(생성감소→미생물부하감소→포집·제거) + PPE 조합이 치과 AGP 전파 위험 최소화의 근거기반 접근이다.
 
 ## Summary
 

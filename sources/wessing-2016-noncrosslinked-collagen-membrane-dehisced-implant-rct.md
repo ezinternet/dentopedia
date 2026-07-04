@@ -13,11 +13,21 @@ source_collection: external
 
 신규 비가교 흡수성 콜라겐막(creos xenoprotect)을 기준막 대비 열개 단일임플란트 GBR에서 검증한 다기관 RCT. 같은 저자군의 [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] SR+MA가 합산한 RCT-레벨 1차 근거 중 하나이며, [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]]의 가교 vs 비가교 노출률 논의와 직접 대비.
 
-## One-line Summary
-Multicenter RCT at dehisced single implant sites comparing a new resorbable non-cross-linked collagen membrane (creos xenoprotect, CXP) vs a reference collagen membrane (BG) for GBR; CXP showed a trend toward higher mean bone gain and lower membrane exposure, supporting non-cross-linked membrane use for dehiscence augmentation (interim results).
+## Three-line Summary
 
-## 한줄요약
-열개 단일임플란트 GBR에서 신규 비가교 흡수성 콜라겐막(creos xenoprotect, CXP)을 기준막(BG)과 비교한 다기관 RCT. CXP가 평균 골증대량은 더 높고 막노출은 더 낮은 경향을 보여 열개결손 증대에 비가교막 사용을 지지(중간결과).
+Multicenter RCT at dehisced single implant sites comparing a new resorbable non-cross-linked collagen membrane (creos xenoprotect, CXP) vs a reference collagen membrane (BG) for GBR;
+
+CXP showed a trend toward higher mean bone gain and lower membrane exposure, supporting non-cross-linked membrane use for dehiscence augmentation (interim results).
+
+(incomplete)
+
+## 세줄요약
+
+열개 단일임플란트 GBR에서 신규 비가교 흡수성 콜라겐막(creos xenoprotect, CXP)을 기준막(BG)과 비교한 다기관 RCT.
+
+CXP가 평균 골증대량은 더 높고 막노출은 더 낮은 경향을 보여 열개결손 증대에 비가교막 사용을 지지(중간결과).
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Clinical Oral Implants Research (Clin Oral Implants Res) 2016

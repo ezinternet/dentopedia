@@ -17,13 +17,23 @@ text_filename: ghobadi-2024-effect-virtual-reality-reducing-patients.txt
 
 Adds the first **adult, intraoperative VR distraction RCT** to a dental-anxiety folder that is otherwise pediatric-heavy, and reinforces [[behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct]] by independently confirming — with the same psychophysiological-validation approach (EMG/EKG/SCR alongside self-report) — that a non-pharmacological behavioral intervention measurably lowers both subjective and objective anxiety/pain markers during dental procedures. Pairs with a pediatric VR systematic review being ingested concurrently.
 
-## One-line Summary
+## Three-line Summary
+
 
 Randomized controlled crossover trial (n=73 adults, each patient own control across two implant-surgery sessions) showing VR distraction with high-resolution headset and natural-scene content significantly reduced experienced pain (−1.71 NRS), state anxiety (STAI-S −3.45), and dental anxiety (MDAS −4.55) versus no VR, with physiological confirmation (lower EMG, heart rate, GSR) and 90.4% wanting to reuse VR.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 성인 임플란트 수술 RCT 교차설계(n=73, 환자 자신이 대조군) — 고해상도 헤드셋·자연영상 VR이 무(無)VR 대비 경험 통증(NRS −1.71)·상태불안(STAI-S −3.45)·치과불안(MDAS −4.55)을 유의하게 낮췄고 생리지표(EMG·심박·GSR)로 검증, 90.4%가 재사용 희망.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

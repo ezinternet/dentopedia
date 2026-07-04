@@ -13,11 +13,21 @@ source_collection: external
 tags: [zirconia-drill, steel-drill, heat-generation, drill-material, systematic-review, meta-analysis]
 ---
 
-## One-line Summary
-SR+MA (10 in vitro studies, inverse-variance pooling) of zirconia (Zr) vs stainless-steel (SS) implant drills: Zr drills produced significantly lower bone temperature variation than SS during implant site preparation — a quantitative material-pair signal that qualifies (rather than contradicts) the broader chakraborty-2024 "drill material inconclusive" SR.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(Saudi Dent J 2024, 10편 in vitro): 지르코니아(Zr) drill이 스테인리스스틸(SS) drill보다 골내 온도 변화 유의하게 낮음(IV pooling) — chakraborty의 "material 결론 불가" 결과와 대립되는 특정 material pair에 대한 정량적 신호.
+SR+MA (10 in vitro studies, PRISMA; inverse-variance pooling) comparing zirconia (Zr) vs stainless-steel (SS) implant drills on bone temperature variation during osteotomy preparation.
+
+Zirconia drills produced significantly lower bone temperature variation than stainless-steel drills across pooled in vitro data; the difference is statistically significant though all evidence is in vitro.
+
+This material-pair signal qualifies (rather than contradicts) the broader chakraborty-2024 "drill material inconclusive" SR — both conclusions are compatible — but clinical translation requires zirconia drill fracture toughness and wear data before adoption.
+
+## 세줄요약
+
+SR+MA(Saudi Dent J 2024, PRISMA, 10편 in vitro): 지르코니아(Zr) drill vs 스테인리스스틸(SS) drill의 골내 온도 변화를 역분산(Inverse-variance) 풀링으로 비교.
+
+지르코니아 drill이 SS drill보다 골내 온도 변화 유의하게 낮음(풀링 후 통계적 유의); 모든 근거는 in vitro.
+
+chakraborty-2024의 "drill 재질 결론 불가"와 양립 가능한 특정 material pair 신호 — 임상 적용 전 지르코니아 drill의 파절 강도·마모 거동 별도 검토 필요.
 
 ## Summary
 Ten in vitro studies comparing zirconia vs stainless-steel implant drills were pooled by inverse-variance meta-analysis. Zirconia drills produced significantly lower bone temperature variation than steel drills during implant site preparation. The result is in apparent tension with the broader chakraborty-2024 SR conclusion that "drill material vs heat" is inconclusive — but the disagreement narrows when restricted to this specific material pair under in vitro conditions.

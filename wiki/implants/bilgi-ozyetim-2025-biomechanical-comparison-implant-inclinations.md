@@ -15,13 +15,21 @@ text_filename: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.
 tags: [tilted-implant, All-on-4, FEA, angulation, screw-retained, cement-retained, edentulous, bendable-implant]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-FEA (All-on-4 edentulous mandible, 17°/30°/45° × screw/cement): increasing posterior implant angulation raises bone/implant stress proportionally, but all values remain safe (<550 MPa); cement-retained frameworks carry >3.5× less stress than screw-retained counterparts.
+FEA study (6 All-on-4 mandibular models: bendable single-piece implants at 17°/30°/45° × screw/cement retention, 150 N vertical + 150 N oblique loading).
 
-## 한줄요약
+Increasing posterior implant angulation raised bone and implant stress proportionally, but the highest recorded value (108.6 MPa) remained far below titanium yield strength (550 MPa), confirming biomechanical safety across all angles tested.
 
-유한요소분석(무치악 하악 All-on-4, 경사 17°/30°/45° × 나사/시멘트): 경사 증가 → 골·임플란트 응력 비례 증가하나 모두 안전 범위(<550 MPa); 시멘트 유지 프레임워크가 나사 유지 대비 3.5배 이상 응력 낮음.
+Screw-retained frameworks generated >3.5× higher framework stress than cement-retained (75.3 vs ~20 MPa); for high-angulation cases requiring superior biomechanics, cement retention reduces mechanical risk at the cost of retrievability.
+
+## 세줄요약
+
+유한요소분석 (Finite Element Analysis, FEA): 무치악 하악 All-on-4, 벤더블 단일체 임플란트를 17°/30°/45° × 나사/시멘트 유지 6개 모델, 150 N 수직+사선 하중.
+
+경사 각도 증가 → 골·임플란트 von Mises 응력 비례 증가하나 최대값 108.6 MPa로 티타늄 항복강도 (550 MPa) 대비 안전 범위.
+
+나사 유지 프레임워크 응력이 시멘트 유지 대비 3.5배 이상 높음 — 고경사 케이스에서 시멘트 유지가 기계적 위험 감소, 단 회수성 포기 감수 필요.
 
 ## Summary
 

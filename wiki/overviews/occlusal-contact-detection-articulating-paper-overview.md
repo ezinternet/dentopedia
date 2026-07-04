@@ -26,13 +26,21 @@ tags: [occlusal-indicator, articulating-paper, shim-stock, t-scan, occlusense, i
 > - **객관성(objectivity)**: SR은 디지털 교합분석이 교합지(주관적)보다 객관적이라고 정리; 교합외상-치아민감-악관절장애(TMD) 연관, 최대 접촉력은 비기능교두 48%.
 > - **임상 권고 요약**: 정성 판정엔 200 µm 교합지 + 하악궁 + 양악일치 규칙, 닿음 yes/no엔 shim stock, 교합력·타이밍 정량엔 T-Scan/OccluSense, IOS는 위치 매핑 보조(카본지 대체 금지).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 papers on how clinicians detect and verify occlusal contacts: articulating paper dominates practice yet is only moderately valid (~81% true positives, ~15% false positives) and cannot quantify force or timing — accuracy is best improved by technique (200 µm paper, mandibular arch, both-arch coincidence, distrusting cusp-tip marks), while digital systems (T-Scan, OccluSense, IOS) add objectivity but are complementary to, not interchangeable with, paper.
+Synthesis of 5 papers on occlusal contact detection in clinical practice: articulating paper (AP) dominates real-world use (52.4% of 228 surveyed dentists, Bozhkova 2021) but its validity is only moderate — ~81% true positive rate and ~15% false positive rate for posterior contacts (Rovira-Lastra 2026), with color-intensity an unreliable proxy for force, and AP cannot quantify contact force or timing.
 
-## 한줄요약
+Accuracy is technique-dependent, not equipment-dependent: 200 µm paper is significantly more accurate than 100 µm (false positive 9.4% vs 20.6%); mandibular arch inspection yields ~5% more true positives than maxillary; applying a both-arch coincidence rule collapses false positives from 15% to ~2%; and cusp-tip marks without a paired opposing mark should be treated as false positives.
 
-교합접촉 검출·검증법을 다룬 5편 종합: 교합지는 실사용 1위지만 정확도는 중간(진양성 ~81%, 위양성 ~15%)이고 교합력·순서는 측정 못 함 — 정확도는 술식(200 µm·하악궁·양악일치·교두정 마크 불신)으로 올리고, 디지털 도구(T-Scan/OccluSense/IOS)는 교합지의 대체가 아닌 보완으로 쓴다.
+Digital tools add qualitative-to-quantitative capability (IOS for contact location, T-Scan/OccluSense for force/timing) but are not interchangeable with carbon paper (iTero vs 8 µm carbon: κ 0.07–0.20, Didier 2026); the net clinical protocol is to match indicator to the clinical question — optimize paper technique for location decisions and use digital for force/sequence quantification.
+
+## 세줄요약
+
+교합접촉 검출·검증 5편 종합: 교합지(Articulating Paper, AP)는 실사용 1위(치과의사 228명 설문 52.4%, Bozhkova 2021)이나 정확도는 중간 수준 — 진양성(True Positive) ~81%·위양성(False Positive) ~15%(Rovira-Lastra 2026), 교합력·접촉 순서는 측정 불가.
+
+정확도는 재료가 아닌 술식으로 끌어올린다: 200 µm 교합지가 100 µm보다 정확(위양성 9.4% vs 20.6%), 하악궁 검사가 진양성 ~5%p 높음, 양악 일치(Both-Arch Coincidence) 기준 적용 시 위양성 15% → 2%, 교두정 단독 마크는 위양성으로 간주.
+
+디지털 도구(T-Scan/OccluSense/IOS)는 교합력·타이밍 정량화에 객관적이나 교합지의 대체가 아닌 보완 — iTero vs 8 µm 카본지 일치도 매우 낮음(κ 0.07–0.20, Didier 2026); 임상 원칙: "질문에 맞는 지시재 선택" — 위치 판정엔 200 µm 교합지+술식 최적화, 힘·순서 정량엔 T-Scan/OccluSense.
 
 ## Thesis
 

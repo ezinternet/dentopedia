@@ -13,13 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]가 정리한 근관 내 약제의 status를, E. faecalis 표적이라는 특정 병원체 축으로 좁혀 정량 근거를 보강한다. 또한 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 dressing → 치유 흐름에서 "어떤 dressing이 가장 강력한 항균인가"라는 질문에 도메인 기반 합성으로 답한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA 2020, PROSPERO CRD420261345958; 12 studies, in vitro/ex vivo/clinical) with domain-based interpretive synthesis + exploratory meta-analysis of intracanal medicaments vs Enterococcus faecalis: antibiotic-based pastes (esp. triple antibiotic paste) showed comparatively stronger antimicrobial performance, calcium hydroxide variable/weaker (esp. deep dentin), nanoparticle/bioactive agents promising but heterogeneous; pooling (only 2 studies) showed extreme heterogeneity, certainty low–moderate.
+Systematic review with domain-based interpretive synthesis and exploratory meta-analysis (PRISMA 2020, PROSPERO; 12 studies, in vitro/ex vivo/clinical) evaluating intracanal medicament efficacy specifically against Enterococcus faecalis biofilm.
 
-## 한줄요약
+Antibiotic-based pastes (especially triple antibiotic paste) showed the strongest antimicrobial performance; calcium hydroxide was variable and notably weak in deep dentin; nanoparticle/bioactive agents showed promise but high heterogeneity; only 2 studies were poolable, yielding extreme heterogeneity and low–moderate certainty evidence.
 
-근관 내 약제의 Enterococcus faecalis 항균력을 평가한 체계적 고찰(PRISMA 2020, 12편, 도메인 기반 해석적 합성 + 탐색적 메타분석) — 항생제 기반 페이스트(특히 삼중항생제 페이스트)가 상대적으로 가장 강력했고, 수산화칼슘은 특히 심부 상아질에서 효과가 변동·약했으며, 나노입자·생활성 제제는 유망하나 이질성이 컸다. 정량 통합은 2편뿐이라 이질성·불확실성이 높았다.
+Triple antibiotic paste outperforms calcium hydroxide against E. faecalis, but antibiotic-paste superiority must be weighed against antimicrobial resistance and staining concerns; standardized clinical trials are needed.
+
+## 세줄요약
+
+체계적 고찰(PRISMA 2020, PROSPERO; 12편, 도메인 기반 해석적 합성 + 탐색적 메타분석) — Enterococcus faecalis 바이오필름에 대한 근관 내 약제별 항균력 평가.
+
+항생제 기반 페이스트(삼중항생제 페이스트)가 가장 강력; 수산화칼슘은 심부 상아질에서 효과 변동·약; 나노입자·생활성 제제 유망하나 이질성 큼; 정량 통합 가능 연구 2편으로 이질성 극심, 근거 확실성 낮음~중간.
+
+삼중항생제 페이스트가 Ca(OH)₂보다 E. faecalis 대응에 우수하나 항생제 내성·착색 우려 존재 — 표준화된 임상시험 필요.
 
 ## 1. Document Information
 

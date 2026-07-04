@@ -16,13 +16,21 @@ source_collection: external
 
 기존 경치조골 상악동 거상 문헌(OD 계열)은 Densah 버 시스템(반시계방향, CCW) 중심으로 구축되어 있음. [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] 등의 SR/MA도 Densah 데이터 위주이다. 본 논문(Changrani 2024)은 시계방향(CW) 정방향 회전을 사용하는 대안 버 시스템인 HaeNaem Zero Bone Loss Kit의 유일한 임상 데이터를 제공함으로써 버 메커니즘 다양성을 문서화한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-arm study (n=12) demonstrating statistically significant bone height gain at all four CBCT aspects (p<0.01) at 4 months following indirect transcrestal sinus lift using the HaeNaem Zero Bone Loss osseodensification kit with simultaneous implant placement and no graft material.
+Prospective single-arm case series (n=12 patients/implants; residual crestal bone height 6–8 mm; Bharati Vidyapeeth Dental College, Pune, India; 4-month CBCT follow-up) evaluating the HaeNaem Zero Bone Loss Kit — a clockwise-rotation osseodensification bur system — for simultaneous graft-free transcrestal indirect sinus lift and implant placement.
 
-## 한줄요약
+Statistically significant bone height gain at all four CBCT measurement aspects (mesial, distal, buccal, palatal; paired t-test p<0.01 each) at 4 months; no membrane perforations reported; this is the only known prospective clinical dataset for this CW-rotation OD bur system.
 
-전향적 단일군 연구(n=12): HaeNaem Zero Bone Loss OD 버 키트로 무이식 경치조골 간접 거상 동시 임플란트 식립 후 4개월 CBCT에서 4개 측면(근심/원심/협측/구개측) 모두 유의한 골 높이 증가(p<0.01).
+The study was subsequently retracted (do not cite as clinical evidence); it had no control group, small n=12, short 4-month follow-up, and no comparison to the standard CCW Densah bur system.
+
+## 세줄요약
+
+전향적 단일군 증례시리즈(n=12명/임플란트; 잔존 치조골 높이 6–8 mm; 인도 Pune, Bharati Vidyapeeth 치과대; 4개월 CBCT 추적): HaeNaem Zero Bone Loss Kit(시계방향[Clockwise, CW] 회전 골밀도화[Osseodensification, OD] 버 시스템)을 이용한 무이식 경치조골 간접 거상 동시 임플란트 식립 평가.
+
+4개월 CBCT에서 4개 측면(근심·원심·협측·구개측) 모두 유의한 골 높이 증가(대응 t검정 p<0.01); 막 천공 미보고; 이 CW-회전 OD 버 시스템의 유일한 전향 임상 데이터.
+
+본 논문은 이후 철회(Retracted) — 임상 근거로 인용 금지; 비교군 없음·n=12 소규모·4개월 단기·표준 반시계방향(CCW) Densah 버와의 직접 비교 없음.
 
 ## 1. Document Information
 

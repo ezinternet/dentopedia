@@ -15,7 +15,7 @@ OD 경치조골 상악동거상술의 막 천공률을 다기관 임상 연구�
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]]
 
-## One-line Summary
+## Three-line Summary
 Largest multicenter clinical study to date evaluating sinus membrane perforation rate during OD-mediated transcrestal sinus floor elevation. 621 patients across 6 international centers.
 
 ## 1. Document Information

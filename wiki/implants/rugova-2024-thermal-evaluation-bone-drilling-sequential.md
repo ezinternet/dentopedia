@@ -13,11 +13,21 @@ source_collection: external
 tags: [sequential-drilling, pilot-drill, heat-generation, peck-drilling, IR-thermography, thermal-damage-zone, in-vitro]
 ---
 
-## One-line Summary
-In vitro IR-thermography study (Bioengineering 2024; 5 drill bits, artificial bone, no irrigation): sequential drilling does NOT eliminate thermal damage — the pilot drill peaks above 100°C and spreads a thermal damage zone up to 10 mm, while reduced RPM, reduced load, and peck drilling lower heat. (Extreme no-irrigation synthetic-bone condition; normal clinical saline irrigation + sharp drills + vital-bone perfusion strongly attenuate this.)
+## Three-line Summary
 
-## 한줄요약
-인비트로(Bioengineering 2024, 5 drill, IR 카메라, **irrigation 없음**): sequential drilling이 thermal damage zone을 제거하지 못함 — pilot drill >100°C, 70°C 발열이 osteotomy로부터 측방 10mm까지 확산; **후속 enlarging drill(~4.2mm)이 절제하는 반경(~2mm)을 넘는 범위라 thermal-damaged 측방 골은 남음**. RPM·load 감소 + peck drilling이 완화책. ※ **본 결과는 irrigation 없는 합성골 극단치 — 정상 임상(saline irrigation + sharp drill + vital bone 혈류 cooling)에서는 후속 drilling이 thermal-damaged 영역 대부분 절제 가능; 적용 한정 시나리오는 D1 dense bone + irrigation 부족(full-guide 슬리브 차단 등) + 마모 drill의 3중 조건.**
+In vitro infrared thermography study (Bioengineering 2024; custom drill press, 5 drill bits, artificial bone, no irrigation) testing the assumption that sequential drilling protects against thermal damage to bone.
+
+Sequential drilling did NOT eliminate thermal trauma — the pilot drill peaked above 100°C and spread a thermal damage zone up to 10 mm from the osteotomy; subsequent enlarging drills added heat rather than removing it; reduced RPM, reduced load, and peck drilling lowered heat generation.
+
+Findings apply specifically to the extreme no-irrigation/synthetic-bone condition; in normal clinical settings (saline irrigation + sharp drills + vital bone perfusion), the thermal risk is substantially attenuated — the main takeaway is that irrigation failure (e.g., full-guide sleeve blockage) combined with dense D1 bone and worn drills eliminates the sequential-drilling safety margin.
+
+## 세줄요약
+
+인비트로 적외선 열화상(Infrared Thermography) 연구(Bioengineering 2024; 맞춤 드릴 프레스, 5개 드릴, 합성골, **irrigation 없음**) — sequential drilling이 골 열손상을 방지한다는 임상 가정 검증.
+
+Sequential drilling은 열 손상 제거 실패 — 파일럿 드릴(Pilot Drill) 최고 온도 >100°C, 70°C 발열이 osteotomy로부터 측방 10 mm까지 확산; 후속 확대 드릴은 열 추가; RPM 감소·하중 감소·간헐 드릴링(Peck Drilling)이 완화책.
+
+※ 본 결과는 irrigation 없는 합성골 극단 조건 — 정상 임상(saline 관주 + 예리한 드릴 + 활성골 혈류 냉각)에서는 열 위험 크게 감소; 핵심 경고: D1 치밀골 + irrigation 차단(full-guide 슬리브) + 마모 드릴의 3중 조건 시 sequential drilling이 자동 안전장치가 아님.
 
 ## Summary
 A custom-press in vitro study tested 5 drill bits in sequential drilling protocols with infrared thermography. The principal finding overturns a long-standing assumption: sequential drilling does not eliminate thermal trauma. The first (pilot) drill produces peak temperatures over 100°C, creating a thermal damage zone that spreads up to 10 mm from the osteotomy. Subsequent enlarging drills cannot remove this damage and instead add their own heat. Reducing RPM, reducing load, and using peck drilling lowered heat generation by reducing friction. The study was performed without irrigation.

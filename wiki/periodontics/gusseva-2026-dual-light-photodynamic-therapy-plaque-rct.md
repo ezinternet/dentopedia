@@ -16,13 +16,21 @@ relations:
     target: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Crossover pilot RCT (n=30 healthy adults, 6-week design) — daily 10-min home-use dual-light (405+810 nm) aPDT with indocyanine green, added to conventional oral care, cut plaque (Greene-Vermillion) ~21% vs baseline (pooled p=0.0001), while conventional care alone showed no significant change (-6.5%, p=0.11).
+Prospective randomized crossover pilot RCT (n=30 healthy adults aged 20–25, no gum disease, 6-week two-phase design, University of Tartu 2024) testing daily 10-minute home-use dual-light aPDT (Lumoral®, 405+810 nm, indocyanine green) as an adjunct to conventional toothbrushing and flossing.
 
-## 한줄요약
+Pooled aPDT periods produced −21.2% reduction in Greene-Vermillion plaque score vs baseline (p=0.0001, significant at premolars −18.6% and incisors −20.7%); conventional care alone produced no significant change (−6.5%, p=0.107).
 
-교차설계 파일럿 RCT(건강 성인 30명, 6주) — 기존 구강관리에 매일 10분 이중광(405+810 nm) 항균 광역동치료(antimicrobial Photodynamic Therapy, aPDT, indocyanine green 광감작제)를 추가하니 치태(Greene-Vermillion 지수)가 기준 대비 약 21% 감소(통합 p=0.0001), 반면 기존 관리 단독은 유의한 변화 없음(-6.5%, p=0.11).
+Dual-light home-use aPDT shows proof-of-concept for plaque control as a non-antibiotic, non-staining adjunct even in already-good-hygiene populations, but findings are limited by small pilot size (n=30), 6-week follow-up, retrospective registration, lack of placebo device, and significant conflict of interest (investigator equity in device manufacturer).
+
+## 세줄요약
+
+전향 무작위 교차 파일럿 RCT (건강 성인 30명, 20–25세, 치주질환 없음, 6주 2상 설계): 기존 칫솔질·치실에 매일 10분 가정용 이중광(405+810 nm) 항균 광역동치료(antimicrobial Photodynamic Therapy, aPDT)(Lumoral®, indocyanine green 광감작제) 추가 효과 검증.
+
+통합 aPDT 기간에서 Greene-Vermillion 치태 지수 −21.2% (p=0.0001, 소구치 −18.6%·전치 −20.7% 유의); 기존 관리 단독은 유의 변화 없음 (−6.5%, p=0.107).
+
+가정용 이중광 aPDT는 비항생제·비착색 구강 관리 보조 수단으로서 개념 증명이 되나, 파일럿 소규모(n=30)·6주 추적·소급 등록·위약 기기 없음·이해충돌(연구자 제조사 지분) 등 한계가 있다.
 
 ## Summary
 

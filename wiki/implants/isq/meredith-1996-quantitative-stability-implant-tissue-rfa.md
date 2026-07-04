@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-The landmark 1996 method paper that introduced **resonance frequency analysis (RFA)** to implant dentistry: an in-vitro + in-vivo study showing a transducer's resonance frequency correlates strongly (r=0.94, p<0.01) with exposed fixture height and rises with surrounding-material stiffness — the conceptual origin of the modern ISQ scale.
+Landmark 1996 method paper (Bristol group) introducing resonance frequency analysis (RFA) to implant dentistry via three linked in-vitro and in-vivo experiments using an aluminium-block model and PMMA polymerisation as a bone-maturation proxy.
 
-## 한줄요약
+Transducer resonance frequency correlated strongly with exposed fixture height (r=0.94, p<0.01) and rose as surrounding-material stiffness increased during PMMA polymerisation; in-vivo measurements correlated well with in-vitro findings.
 
-공명주파수분석 (Resonance Frequency Analysis, RFA)을 임플란트학에 처음 도입한 1996년 기념비적 방법 논문 — in-vitro·in-vivo 연구에서 트랜스듀서 공명주파수가 노출된 고정체 높이와 강한 상관(r=0.94, p<0.01)을 보이고 주변 재료 강성(stiffness)이 커지면 상승함을 입증했으며, 현대 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 척도의 개념적 기원이다.
+This paper is the conceptual origin of the modern ISQ scale; it reports raw resonance frequency (kHz), not the later normalised 1–100 ISQ value, and does not set clinical loading thresholds.
+
+## 세줄요약
+
+1996년 브리스톨 연구팀의 기념비적 방법 논문: 알루미늄 블록 모델과 PMMA 중합을 골성숙 프록시로 활용하는 세 가지 체외·생체내 실험으로 공명주파수분석 (Resonance Frequency Analysis, RFA)을 임플란트 치의학에 최초 도입.
+
+트랜스듀서 공명주파수는 노출된 고정체 높이와 강한 상관(r=0.94, p<0.01)을 보이고, PMMA 중합 시 주변 재료 강성 증가에 따라 상승; 생체내 측정값은 체외 결과와 잘 일치.
+
+현대 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 척도의 개념적 기원이며, 원 논문은 정규화되지 않은 주파수(kHz) 단위를 사용하고 임상 부하 임계값을 제시하지 않는다.
 
 ## Summary
 

@@ -34,12 +34,21 @@ source_papers:
 > - 의사결정: ISQ <70 또는 구치부 large socket → 지연 임시치관; 협측 결손 → flap + GBR 필수(≥5mm 결손도 IIP 가능하나 advanced).
 > - 한계: 4변수 factorial RCT 없음, 장기(≥5년) 데이터 부족, 구치부 evidence sparse(Cosyn 대부분 상악 전치 single).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 11 wiki entries — anchored on 4 Cosyn-group SR+MA (Pitman 2022/2023, Seyssens 2021/2022) plus 7 newer RCT/NMA — quantifying the effect sizes of the 4 surgical variables performed after Immediate Implant Placement (IIP) is chosen: flap vs flapless, immediate vs delayed provisionalization (IP), connective tissue graft (CTG), and socket grafting (SG). Core thesis: each variable independently preserves hard/soft tissue (flapless ~0.2–0.4 mm, IP ~0.3–0.5 mm midfacial, CTG ~0.4–0.7 mm in thin biotype, SG ~0.4 mm horizontal) but effect sizes should not be simply summed; the anterior single-tooth default is Flapless + IP + optional CTG + SG (jump space ≥2 mm). Clinical takeaway: CTG gives the largest gain in thin biotype, SG is near-mandatory at jump space ≥2 mm (material choice matters little), and buccal defects require flap + GBR — with the caveat that no 4-variable factorial RCT, scant long-term (≥5 yr) data, and sparse posterior evidence exist.
+Synthesis of 17 wiki entries (4 Cosyn-group SR+MA as anchors + 7 newer RCT/NMA + 5 esthetic-soft-tissue extensions) quantifying independent effect sizes of the 4 surgical variables after Immediate Implant Placement (IIP): flapless ~0.2–0.4 mm buccal bone reduction vs flap, immediate provisionalization (IP) ~0.3–0.5 mm midfacial preservation, CTG ~0.4–0.7 mm (largest in thin biotype), SG ~0.4 mm horizontal (near-mandatory at jump space ≥2 mm; CBCT confirms >2 mm gap with DBBM preserves 90% ridge cross-section vs ~41% loss without graft, Araújo 2026).
 
-## 한줄요약
-즉시식립 (Immediate Implant Placement, IIP) 결정 후 시행되는 4개 술식 변수 — flap vs flapless, immediate vs delayed provisionalization, connective tissue graft (CTG) 동반 여부, socket grafting (SG) 동반 여부 — 를 Cosyn 그룹 SR+MA 4편 (Pitman 2022/2023, Seyssens 2021/2022)을 anchor로 + 신규 RCT/NMA 7편을 추가해 정량 effect size 매트릭스로 묶고, 4변수 의사결정을 case category별 (thick/thin biotype × intact/defective wall × 전치/구치)로 알고리즘화한 페이지.
+Primary stability floor for IP is ITV ≥20 N·cm and ISQ ≥50 (Wang 2026 n=120): meeting this threshold yields equivalent 12-month success and ISQ, lower MBL (0.48 vs 0.85 mm), and higher PES (11.5 vs 10.1) versus delayed placement; buccal dehiscence makes flapless mandatory (flap cuts buccal bone blood supply), and Cosyn 2026 maps 11 dehiscence morphotypes into three regenerative tiers with Type III and extended defects as absolute contraindications.
+
+Clinical bottom line: anterior single-tooth default is Flapless + IP + optional CTG + SG (jump space ≥2 mm); CTG delivers the largest soft-tissue benefit in thin biotype, SG material choice matters little (autograft vs xenograft equivalent), and the 4 variable effect sizes must not be simply summed — no 4-variable factorial RCT exists, long-term (≥5 yr) data remain sparse, and posterior evidence is limited.
+
+## 세줄요약
+
+17편 종합(Cosyn 그룹 SR+MA 4편 + 신규 RCT/NMA 7편 + 심미연조직 5편): IIP 결정 후 4개 술식 변수의 독립 effect size — flapless(협측골 흡수 ~0.2–0.4mm 감소), IP(midfacial 보존 ~0.3–0.5mm), CTG(~0.4–0.7mm, thin biotype에서 최대), SG(~0.4mm 수평, jump space ≥2mm에서 표준; DBBM 충전 시 치조제 단면적 90% 보존 vs 무이식 41% 흡수, Araújo 2026).
+
+IP 1차 안정성 하한: ITV ≥20 N·cm·ISQ ≥50 충족 시 12개월 성공률·최종 ISQ 동등 + MBL 더 적고·PES 높음(Wang 2026, n=120); 협측 dehiscence 시 flapless 필수(flap은 협측골판 혈류 차단); Cosyn 2026이 11개 dehiscence morphotype을 3단계 재생전략으로 매핑, Type III·extended defect는 절대 금기.
+
+임상 결론: 전치부 single-tooth 기본값 = Flapless + IP + optional CTG + SG(jump space ≥2mm); 4 effect size는 단순 가산 금지; 4변수 factorial RCT 없음·장기(≥5년) 데이터 부족·구치부 근거 희소가 주요 한계.
 
 ## Scope
 

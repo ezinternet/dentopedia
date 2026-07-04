@@ -27,13 +27,21 @@ tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate
 > - **표면 보강 — 근거 약함**: 광기능화 (Photofunctionalisation, UV 표면처리)는 보호 경향(OR 0.51)이나 비유의(p=0.25, Uesugi).
 > - **임상 결론**: EIF는 단일 인자가 아니라 *숙주(금연)×골질/부위×술식(로딩)*의 다변량 문제. 레버는 금연 상담·후방상악/저밀도골에서의 보수적 로딩·부위 선택이며, 통상적 항생제 예방은 스튜어드십 관점에서 지양(비복잡 케이스).
 
-## One-line Summary
+## Three-line Summary
 
-Early implant failure (loss of osseointegration before prosthetic loading) is a low-incidence (≈1-4% implant-level) but multifactorial event driven by host factors (smoking, diabetes, head/neck radiation), site/bone factors (posterior maxilla, type IV bone, periodontal-extraction and grafted/sinus sites), and protocol (immediate provisional/loading) — while routine preoperative antibiotic prophylaxis does NOT meaningfully reduce it (NNT 143).
+Synthesis of 7 papers on early implant failure (EIF — loss of osseointegration before prosthetic loading): incidence is low (≈1–4% implant-level; 4.0%/7.0% patient-level, Yari cohort n=1,323/738; all-on-four 0.4–1.1% at 1 year, Uesugi n=561) but multifactorial; smoking is the most consistent modifiable risk factor (pooled OR 2.59, Fan SR+MA 32 studies, 59,246 implants; dose-dependent, Naseri SR+MA; survives multivariate adjustment Yari OR 1.84, Uesugi OR 2.92); diabetes RR 2.75, head/neck radiation RR 2.73 (Moy 21-year cohort n=4,680).
 
-## 한줄요약
+Posterior maxilla and type IV bone are the most consistently identified non-modifiable site/bone factors (Yari OR 2.96/2.88; Uesugi maxilla OR 3.12); periodontal-extraction sites OR 2.53 and grafted/sinus-augmented sites OR 2.24 add significant risk (Yari; Bonsmann nested case-control, 8 centers, 129 cases/273 controls); immediate provisional/loading was the single strongest predictor in the general-placement cohort (Yari OR 3.42) and defines the high-risk all-on-four scenario.
 
-조기 임플란트 실패(보철 로딩 전 골유착 실패)는 발생률은 낮지만(임플란트 단위 ≈1~4%) 흡연·당뇨·방사선 등 숙주, 후방상악·4형골·증대부위 등 부위/골질, 즉시로딩 등 술식이 겹치는 다변량 사건이며, 통상적 술전 항생제 예방으로는 거의 줄지 않는다(NNT 143).
+Routine preoperative antibiotic prophylaxis does NOT meaningfully reduce EIF: RR 0.66 (non-significant), NNT 143 (Momand SR+MA, 7 placebo-controlled RCTs, n=1,859 patients/3,014 implants, GRADE moderate); actionable levers are host optimization (smoking cessation, glycemic control), bone/site-aware planning, and conservative loading protocols — not antibiotics.
+
+## 세줄요약
+
+조기 임플란트 실패(Early Implant Failure, EIF; 보철 로딩 전 골유착 실패) 7편 통합: 발생률은 낮지만(임플란트 단위 ≈1~4%; Yari 코호트 n=1,323) 다변량 사건 — 흡연이 가장 일관된 가변 위험인자(풀링 교차비(Odds Ratio, OR) 2.59, Fan SR+MA 59,246개; 다변량 보정 후 유의, Yari OR 1.84·Uesugi OR 2.92); 당뇨 상대위험(Relative Risk, RR) 2.75·두경부 방사선 RR 2.73(Moy 21년 코호트).
+
+후방 상악·4형 골이 반복 검출되는 비가변 부위/골질 위험인자(Yari OR 2.96/2.88; Uesugi 상악 OR 3.12); 치주 발치 부위 OR 2.53·증대/상악동 부위 OR 2.24(Yari; Bonsmann 중첩 환자-대조군 8개 기관); 즉시 잠정보철/즉시 로딩(Immediate Provisional/Immediate Loading)이 가장 강한 단일 예측인자(Yari OR 3.42).
+
+술전 예방적 항생제는 EIF를 유의하게 줄이지 못함: 위약대조 RCT만 모은 SR+MA 결과 RR 0.66(비유의)·치료필요수(Number Needed to Treat, NNT) 143(Momand, 7 RCT n=3,014개, GRADE 중간); 실천 레버는 금연 상담·혈당 조절·후방 상악/저밀도 골 보수적 로딩이며 일반적 항생제 예방은 항균제 내성(Antimicrobial Resistance, AMR) 스튜어드십 관점에서 지양.
 
 ## Thesis
 

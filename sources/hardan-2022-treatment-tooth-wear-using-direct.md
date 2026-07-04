@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]]가 단일 보철재료(glass-ceramic)로 마모치 전악수복을 다룬 데 비해, 본 SR(Hardan 2022)은 직접 레진복합레진 vs 간접(세라믹·금속도재·지르코니아) 수복 전반을 망라해 "tooth wear 수복재 선택" 상위 근거 맵을 제공한다. 직접 vs 간접의 우열 근거가 없다는 결론은 보존적·가역적 접근을 우선하라는 임상 지침과 직접 연결된다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (16 clinical studies, follow-up up to 10 years, PRISMA 2020) of direct vs indirect restorations for tooth wear: high heterogeneity precluded meta-analysis and no restoration technique or material was shown superior for clinical performance.
+Systematic review (16 clinical studies, 5 databases, PRISMA 2020; follow-up range 6 months–10 years) examining direct (resin composite) vs indirect (ceramic, CAD-CAM, ceramo-metal, gold) restorations for worn dentition, covering anterior and posterior regions across chemical and mechanical wear etiologies.
 
-## 한줄요약
+High clinical and methodological heterogeneity precluded meta-analysis; contradictory findings were reported across studies, and no restoration technique or material demonstrated superiority in clinical performance (survival, USPHS/FDI criteria); direct composites typically failed by fracture (often repairable) while ceramo-metal crowns failed by irreparable complete loss.
 
-치아 마모(tooth wear) 수복에서 직접 vs 간접 수복을 비교한 체계적 문헌고찰(16편 임상연구, 최대 10년 추적, PRISMA 2020): 이질성이 높아 메타분석은 불가했고, 어떤 수복 기법·재료도 임상 성적에서 우월하다는 근거는 없었다.
+No single restoration approach is evidence-based as the best choice for tooth-wear rehabilitation — clinicians should prefer conservative/reversible direct composite in the first instance given comparable outcomes and repairability, recognizing that standardized head-to-head RCTs are still lacking.
+
+## 세줄요약
+
+체계적 문헌고찰(16편 임상연구, 5개 데이터베이스, PRISMA 2020, 추적 기간 6개월–10년): 화학적·기계적 원인 마모치 수복에서 직접(레진복합레진) vs 간접(세라믹·CAD-CAM·금속도재·금) 수복재를 비교.
+
+높은 임상적·방법론적 이질성으로 메타분석 불가; 연구 간 상충 결과로 어떤 기법·재료도 임상 성적(생존율, USPHS/FDI 기준) 우월성 입증 없음 — 직접 복합레진 실패는 주로 파절(수리 가능), 금속도재관 실패는 비가역적 탈락.
+
+치아 마모 수복에서 단일 최선 재료의 근거가 없으므로, 초기에는 수리 가능하고 치질 보존적인 직접 복합레진을 우선 고려하되 표준화된 직접-간접 비교 RCT 결과를 기다려야 한다.
 
 ## 1. Document Information
 

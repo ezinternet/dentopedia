@@ -15,13 +15,21 @@ full_text: false
 
 티타늄 메쉬 VABA의 노출 합병증 스펙트럼(7.69–66.66%)과 노출 시점(조기 vs 지연)에 따른 결과 차이를 문헌화하기 위해 수집. [[wiki/implants/vertical-ridge-augmentation/tay-2022-healing-complications-vertical-gbr-sr-ma]]의 합병증 분류 데이터를 시간축 관점에서 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR (8 trials, 2011–2021): VABA with Ti mesh yields 2.56–4.78 mm vertical gain; exposure rate 7.69–66.66%; early exposure (<4 weeks) → inadequate regeneration; late exposure → minimal bone loss.
+Systematic review (J Contemp Dent Pract 2022; 8 trials — 3 RCTs, 2 prospective, 3 retrospective — published 2011–2021) evaluating vertical alveolar bone augmentation (VABA) outcomes using titanium mesh GBR across three modalities (conventional, pre-bent on 3D models, 3D-printed custom).
 
-## 한줄요약
+Vertical bone gain was 2.56–4.78 mm across studies; mesh exposure was universal with a wide range (7.69–66.66%); early exposure (<4 weeks) consistently resulted in inadequate bone regeneration, while late exposure caused only slight resorption or no effect.
 
-SR (8편, 2011–2021): 티타늄 메쉬 수직골증대 = 2.56–4.78 mm; 노출률 7.69–66.66%; 조기 노출(4주 이내) → 골재생 불충분; 지연 노출 → 경미한 골흡수 또는 영향 없음.
+Ti mesh reliably achieves meaningful vertical bone gain but high and unpredictable exposure rates demand meticulous surgical technique; timing of exposure is clinically critical — early removal is the main failure mode.
+
+## 세줄요약
+
+체계적 문헌고찰 (J Contemp Dent Pract 2022; 8편 — RCT 3, 전향 2, 후향 3, 2011–2021): 티타늄 메쉬 골유도재생 수직 치조골증대 (Vertical Alveolar Bone Augmentation, VABA) 결과 평가 — 3가지 메쉬 형태(통상 적용/3D 모델 사전 절곡/3D 프린팅 맞춤형) 비교.
+
+수직 골 획득 2.56–4.78 mm; 메쉬 노출은 모든 연구에서 발생, 범위 7.69–66.66%; 조기 노출(<4주) → 일관되게 골재생 불충분; 지연 노출 → 경미한 흡수 또는 영향 없음.
+
+티타늄 메쉬는 의미 있는 수직 골 획득이 가능하나 예측 불가능한 높은 노출률이 문제 → 정밀 수술 기법 필수; 조기 제거가 주요 실패 원인.
 
 ## 1. Document Information
 

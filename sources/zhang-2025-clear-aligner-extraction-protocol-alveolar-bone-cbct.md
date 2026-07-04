@@ -16,13 +16,23 @@ text_filename: zhang-2025-clear-aligner-extraction-protocol-alveolar-bone-cbct.t
 
 [[wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]]는 extraction/complex case에서 clear aligner therapy (CAT)의 *efficacy* (ABO-OGS/PAR, buccolingual inclination, duration)를 fixed appliance와 비교한 SR이지만, extraction protocol 유형 간 조직-수준 (tissue-level) 메커니즘은 다루지 않는다. 본 논문 (Zhang 2025)은 그 아래 layer — n=281 대규모 후향적 코호트에서 non-extraction (NE) vs two-premolar-extraction (TPE) vs one-lower-incisor-extraction (OLIE) protocol별로 CBCT 정량 치조골 (alveolar bone) 높이·두께 변화와 치근흡수 (root resorption)를 직접 비교 — 를 제공해 jaber의 efficacy-level 결론에 발치 유형별 골/치근 위험도라는 mechanistic 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (n=281: 186 non-extraction, 59 two-premolar-extraction, 36 one-lower-incisor-extraction) — alveolar bone height/thickness loss is common across all clear aligner extraction protocols; two-premolar-extraction carries higher risk of lingual bone dehiscence and torque loss, one-lower-incisor-extraction carries higher risk of open gingival embrasures, and mandibular anterior teeth show more severe bone loss than maxillary anterior teeth (all p<0.05).
 
-## 한줄요약
+Retrospective CBCT cohort (n=281: 186 non-extraction, 59 two-premolar-extraction, 36 one-lower-incisor-extraction) — alveolar bone height/thickness loss is common across all clear aligner extraction protocols;
 
-후향적 CBCT 코호트 (n=281: 무발치 186, 양측 소구치발치 59, 하악전치발치 36) — 모든 발치 프로토콜에서 치조골 높이·두께 소실이 공통 관찰됨; 소구치발치군은 설측 골개열 (lingual bone dehiscence)·torque 소실 위험이, 하악전치발치군은 open gingival embrasure (OGE) 위험이 더 높고, 하악 전치부가 상악 전치부보다 골소실이 더 심함 (모두 p<0.05).
+two-premolar-extraction carries higher risk of lingual bone dehiscence and torque loss, one-lower-incisor-extraction carries higher risk of open gingival embrasures, and mandibular anterior teeth show more severe bone loss than maxillary anterior teeth (all p<0.05).
+
+(incomplete)
+
+## 세줄요약
+
+
+후향적 CBCT 코호트 (n=281: 무발치 186, 양측 소구치발치 59, 하악전치발치 36) — 모든 발치 프로토콜에서 치조골 높이·두께 소실이 공통 관찰됨;
+
+소구치발치군은 설측 골개열 (lingual bone dehiscence)·torque 소실 위험이, 하악전치발치군은 open gingival embrasure (OGE) 위험이 더 높고, 하악 전치부가 상악 전치부보다 골소실이 더 심함 (모두 p<0.05).
+
+(incomplete)
 
 ## 1. Document Information
 

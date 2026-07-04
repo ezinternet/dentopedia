@@ -20,13 +20,21 @@ relations:
     target: abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pilot RCT (n=40, posterior mandible): d-PTFE Ti-reinforced membrane vs Ti mesh + cross-linked collagen → equivalent VBG (4.2 vs 4.1 mm, NS) and complications (15.0 vs 21.1%, NS); d-PTFE had 3× fewer surgical complications and simpler handling.
+Pilot RCT (n=40 patients, 108 simultaneous implants, posterior mandible, 9-month healing) comparing Ti-reinforced dense-PTFE membrane (Group A, n=20) vs Ti mesh + cross-linked collagen membrane (Group B, n=20) for vertical ridge augmentation.
 
-## 한줄요약
+Vertical bone gain was equivalent (4.2 ± 1.0 vs 4.1 ± 1.0 mm, p=0.58) and healing complications were comparable (15.0 vs 21.1%, p=0.69); d-PTFE had 3× fewer surgical complications (5.0 vs 15.8%, all temporary paresthesias due to Ti mesh adaptation difficulty); Ti mesh exposure was quantified: 16.3% deficit in new bone volume per cm² of exposed mesh.
 
-파일럿 RCT (n=40, 후방 하악): d-PTFE Ti 강화막 vs Ti 메쉬+가교화 콜라겐 → 수직골증대 4.2 vs 4.1 mm(NS)·합병증 15.0 vs 21.1%(NS) 동등; d-PTFE 술중 합병증 3배 낮고 조작 더 간편.
+d-PTFE achieves equivalent VBG with simpler intraoperative handling; Ti mesh offers revisability (removal on late exposure + infection without implant loss) but demands greater technical precision and carries higher neurological risk during adaptation.
+
+## 세줄요약
+
+파일럿 RCT(n=40명, 동시 임플란트 108개, 하악 구치부, 9개월 치유): Ti 강화 d-PTFE막(그룹 A, n=20) vs Ti 메시+가교화 콜라겐막(그룹 B, n=20) 수직골증대(Vertical Ridge Augmentation, VRA) 비교.
+
+수직 골증대(Vertical Bone Gain, VBG) 동등(4.2 ± 1.0 vs 4.1 ± 1.0 mm, p=0.58); 치유 합병증 유사(15.0 vs 21.1%, p=0.69); d-PTFE의 술중 합병증 3배 낮음(5.0 vs 15.8%, 모두 일시적 감각이상 — Ti 메시 적합 어려움에 기인); Ti 메시 노출 cm²당 신생골 용적 16.3% 감소.
+
+d-PTFE는 동일한 VBG를 더 간편한 조작으로 달성; Ti 메시는 지연 노출+감염 시 임플란트를 유지한 채 제거 가능(재처치 유리)하나 신경 손상 위험 높음.
 
 ## Summary
 

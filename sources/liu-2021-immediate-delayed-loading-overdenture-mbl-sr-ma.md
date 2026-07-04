@@ -13,13 +13,23 @@ source_collection: external
 
 즉시 로딩(immediate loading) 프로토콜이 무치악 하악 비연결형(unsplinted) 임플란트 유지 오버덴처에서 변연골소실(Marginal Bone Loss, MBL)을 증가시키는지에 대한 정량 근거. 단일치 즉시 로딩을 다룬 [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]을 무치악 오버덴처 맥락으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 5 RCTs + 2 cohorts (191 participants, 400 implants) finding no significant difference in peri-implant MBL between immediate and delayed loading of unsplinted mandibular overdentures (WMD 0.04 mm, 95% CI −0.13 to 0.21), though immediate loading carried a numerically higher implant failure rate (5.03% vs 1.00%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 5 RCT + 2 코호트(191명·400 임플란트) SR+MA — 무치악 하악 비연결형 오버덴처에서 즉시 로딩과 지연 로딩 간 임플란트 변연골소실(MBL) 차이는 없었으나(WMD 0.04 mm), 즉시 로딩군 임플란트 실패율이 수치상 더 높았다(5.03% vs 1.00%).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

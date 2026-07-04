@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 The 'what NOT to do' anchor of the response axis. Its discourse analysis names the linguistic moves (the 'fauxpology', subjectivising the complainant) that violate the fairness expectations in [[complaint-management/1472-6963-6-106]] and keep complaints unresolved -- a direct checklist of phrases for a dental clinic to avoid.
 
-## One-line Summary
+## Three-line Summary
+
 Discourse analysis of 59 NHS written complaint-responses showing they routinely use non-apologies ('fauxpology') and subjectivise grievances to evade responsibility.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NHS 서면 민원 응답 59건 담화분석 — 거짓 사과(fauxpology)와 불만의 주관화로 책임을 회피하는 패턴 규명.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Health Services Research 2021;21:696. Open access.

@@ -17,13 +17,21 @@ text_filename: andrade-2021-survival-rate-peri-implant-evaluation.txt
 
 USER EMPHASIS — diabetes & dental treatment. Extends the diabetes-implant evidence base ([[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]]) specifically to the **immediate-loading (IL)** protocol, which prior diabetes-implant SR/MAs largely treated under conventional loading. Adds the answer to "is immediate loading safe in DM2?" — a question general diabetes-implant pages do not resolve.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (7 studies qualitative / 5 quantitative, ~2020) finds immediately loaded dental implants in type 2 diabetics show no survival difference vs nondiabetics (RR 1.00, 95% CI 0.96–1.04), even with poor glycemic control (RR 1.08), and no MBL difference vs conventional loading.
+SR+MA (PRISMA; 7 studies qualitative, 5 quantitative; follow-up 6–24 months, up to 12 years; PROSPERO-registered) — first review dedicated to immediately loaded (IL) implants specifically in type 2 diabetes mellitus (DM2).
 
-## 한줄요약
+IL implant survival in DM2 did not differ from nondiabetics (RR 1.00, 95% CI 0.96–1.04; I²=0%), nor in uncontrolled DM2 (RR 1.08, 95% CI 0.87–1.33), and marginal bone loss did not differ from conventional loading at 12 months (MD −0.08 mm; I²=83%).
 
-SR+MA (정성 7편 / 정량 5편): 제2형 당뇨 환자의 즉시부하 임플란트 생존율이 비당뇨군과 차이 없고(RR 1.00), 혈당 조절 불량 환자에서도 차이 없으며(RR 1.08), 변연골소실(MBL)도 통상부하와 차이 없었다.
+DM2, even uncontrolled, does not appear to be a contraindication to immediate loading when surgical/prosthetic protocols and oral hygiene are maintained, but the evidence base is very thin (max 3 studies per analysis) and large standardized RCTs are needed.
+
+## 세줄요약
+
+SR+MA (PRISMA; 정성 7편·정량 5편; 추적 6–24개월, 최장 12년; PROSPERO 등록) — 제2형 당뇨(DM2)에서의 즉시부하(IL) 임플란트를 단독으로 다룬 최초 리뷰.
+
+DM2 환자의 IL 임플란트 생존율이 비당뇨군과 차이 없고(RR 1.00, I²=0%), 혈당 불량 조절군에서도 차이 없으며(RR 1.08), 12개월 변연골소실(MBL)도 통상부하 대비 차이 없음(MD −0.08 mm; I²=83%).
+
+적절한 수술·보철 프로토콜과 구강위생 유지 시 DM2는 즉시부하의 금기가 아닐 수 있으나, 분석당 최대 3편의 취약한 근거기반으로 대규모 표준화 RCT가 필요.
 
 ## 1. Document Information
 

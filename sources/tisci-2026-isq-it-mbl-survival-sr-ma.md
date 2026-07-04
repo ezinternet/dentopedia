@@ -9,7 +9,7 @@ pdf_filename: tisci-2026-isq-it-mbl-survival-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (48 studies): ISQ correlates moderately with insertion torque (pooled r=0.44, p<0.001) but shows high heterogeneity; current evidence does not support ISQ as an independent predictor of MBL or implant survival.
 
 ## 1. Document Information

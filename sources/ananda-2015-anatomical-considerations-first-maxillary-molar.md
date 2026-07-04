@@ -9,8 +9,21 @@ pdf_filename: ananda-2015-anatomical-considerations-first-maxillary-molar.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cross-sectional CBCT study (60 East Asian subjects, 30 Malay + 30 Chinese) characterizing the microanatomy of the maxillary permanent first molar socket and its relationship to the maxillary sinus floor; 95% had sinus floor extending anterior to first molar, 72% had sinus dipping between roots, ~50% had root apices intruding into the sinus, and mean socket height was only ~7 mm — implying that implants longer than 7 mm risk sinus perforation without adjunct procedures.
+## Three-line Summary
+
+Cross-sectional retrospective CBCT study (n=60 East Asian subjects, 30 Malay + 30 Chinese) quantifying maxillary first molar socket dimensions and sinus floor relationships for implant planning.
+
+Mean socket height was ~6.5–6.9 mm; sinus floor extended anterior to the first molar in 95%, dipped between roots in 72%, and root apices intruded into the sinus in ~50% of subjects.
+
+Implants longer than 7 mm in this population carry a significant risk of sinus perforation without adjunct sinus lift or osseodensification; pre-extraction CBCT is strongly recommended.
+
+## 세줄요약
+
+단면 후향적 CBCT 연구(n=60, 동아시아인: 말레이계 30명, 중국계 30명): 상악 제1대구치 발치와 크기 및 상악동 저와의 관계를 임플란트 계획을 위해 정량화.
+
+평균 발치와 높이는 ~6.5–6.9 mm; 상악동 저가 제1대구치 전방까지 연장된 경우 95%, 치근 사이로 함입된 경우 72%, 치근단이 상악동으로 돌출된 경우 약 50%.
+
+이 집단에서 7 mm 초과 임플란트는 상악동 천공 위험이 높아 상악동 거상술이나 골밀도화(Osseodensification, OD) 보조 없이는 식립이 어려우며, 발치 전 CBCT 촬영이 강력히 권장된다.
 
 ## 1. Document Information
 - **Journal**: Surgical and Radiologic Anatomy 2015;37(10):1099–1108

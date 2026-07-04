@@ -21,13 +21,21 @@ relations:
     target: yari-2023-risk-factors-early-implant-failure
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (7 placebo-controlled double-blind RCTs, 1859 patients / 3014 implants): preoperative antibiotic prophylaxis did NOT significantly reduce early implant failure (RR 0.66, 95% CI 0.30-1.47; risk difference -0.007; NNT 143), GRADE moderate certainty — routine prophylaxis not supported for uncomplicated implant surgery.
+SR+MA restricted to placebo-controlled, double-blinded, low/moderate-RoB RCTs only (7 trials, 1859 patients, 3014 implants; PROSPERO CRD42021292610) evaluating preoperative antibiotic prophylaxis vs placebo for early implant failure in overall healthy patients.
 
-## 한줄요약
+Preoperative antibiotic prophylaxis did not significantly reduce early implant failure (RR 0.66, 95% CI 0.30–1.47; risk difference −0.007; NNT 143, CI 29–∞); GRADE moderate certainty; subgroup excluding immediate post-extraction placement reversed direction (RR 1.10) — any benefit is localized to immediate post-extraction implants, not routine surgery.
 
-체계적 고찰+메타분석(위약대조 이중맹검 RCT 7편, 환자 1859명 / 임플란트 3014개): 술전 항생제 예방은 조기 임플란트 실패를 유의하게 줄이지 못함(RR 0.66, 95% CI 0.30-1.47; 위험차 -0.007; NNT 143), GRADE 중간 — 비복잡 임플란트 수술에서 통상적 항생제 예방은 근거 부족.
+Routine antibiotic prophylaxis is not warranted for uncomplicated implant surgery in healthy patients; the NNT of 143 means very many patients would be dosed to prevent one early failure, which is not justifiable given antibiotic-resistance concerns.
+
+## 세줄요약
+
+위약대조 이중맹검 RCT 7편만 포함한 SR+MA(환자 1859명/임플란트 3014개; PROSPERO CRD42021292610): 기존 SR+MA들이 비맹검·고위험-비뚤림 연구를 포함해 상충된 결론을 낸 한계를 방법론적으로 극복.
+
+술전 항생제 예방이 조기 임플란트 실패를 유의하게 줄이지 못함(RR 0.66, 95% CI 0.30–1.47; 위험차 −0.007; NNT 143); GRADE 중간; 즉시 발치 후 임플란트 제외 분석에서 방향 역전(RR 1.10) → 항생제 효과는 발치 후 즉시 식립에 국한될 가능성.
+
+건강한 환자의 비복잡 임플란트 수술에 통상적 항생제 예방 불필요 — NNT 143이라는 임상적 비효율과 항균제 내성 비용 고려 시 정당화되지 않음.
 
 ## Summary
 

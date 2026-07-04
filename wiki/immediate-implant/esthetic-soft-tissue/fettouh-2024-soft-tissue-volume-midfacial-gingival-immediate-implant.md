@@ -18,13 +18,21 @@ relations:
     target: dutra-2025-customized-healing-abutments-immediate-implants
 ---
 
-## One-line Summary
+## Three-line Summary
 
-1-year RCT (39 maxillary esthetic-zone sites, thin labial bone) comparing immediate implant placement with bone graft vs CTG vs customized healing abutment (CHA) alone; CTG produced the least midfacial gingival recession (−0.74 mm) and reduced volumetric soft-tissue loss ~5-fold, while CHA alone failed to maintain contour (−1.54 mm; bone graft −0.98 mm).
+3-arm RCT (n=39 maxillary esthetic-zone sites with thin labial bone) comparing immediate implant placement combined with xenograft bone, CTG, or customized healing abutment (CHA) alone over 1 year.
 
-## 한줄요약
+CTG produced the least midfacial gingival margin change (−0.74 mm) and reduced volumetric soft-tissue loss ~5-fold; CHA alone showed the greatest recession (−1.54 mm) and bone graft was intermediate (−0.98 mm), p ≤ 0.05.
 
-1년 RCT(심미부 39부위, 얇은 협측골) — 즉시식립 시 결합조직이식(CTG)군이 중안면 치은퇴축이 가장 적고(−0.74 mm) 부피 손실을 약 5배 줄인 반면, 맞춤형 치유지대주(CHA) 단독군은 윤곽 유지에 실패했다(−1.54 mm; 골이식재군 −0.98 mm).
+In thin-phenotype esthetic sites, CTG is superior to bone graft or CHA alone for preserving both soft-tissue volume and gingival margin position; a socket-sealing abutment without added soft tissue is insufficient.
+
+## 세줄요약
+
+3군 RCT(상악 심미부 얇은 협측골 39부위) — 즉시식립 시 이종골이식재 vs 결합조직이식(CTG) vs 맞춤형 치유지대주(CHA) 단독 비교, 1년 추적.
+
+CTG군이 중안면 치은연 변화 가장 적음(−0.74 mm), 부피 손실 약 5배 감소; CHA 단독군 퇴축 가장 큼(−1.54 mm), 골이식재군 중간(−0.98 mm), p ≤ 0.05.
+
+얇은 생물형 심미부 즉시식립에서 CTG가 골이식재·CHA 단독 대비 우수 — 소켓 밀봉 지대주만으로는 연조직 윤곽 유지에 불충분하다.
 
 ## Summary
 

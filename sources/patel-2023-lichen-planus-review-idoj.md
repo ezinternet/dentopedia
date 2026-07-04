@@ -9,7 +9,7 @@ pdf_filename: patel-2023-lichen-planus-review-idoj.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 편평태선(LP) 전신 임상양상(피부, 손발톱, 점막, 모발) 및 면역병리기전 고찰; 구강 LP 포함.
 
 ## 1. Document Information

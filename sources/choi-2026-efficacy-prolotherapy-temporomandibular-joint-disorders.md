@@ -13,11 +13,21 @@ source_collection: external
 
 TMJ 적응증의 human 임상 근거 공백을 메우는 첫 cohort. 짝 리뷰 [[wiki/pdrn/ku-2025-prolotherapy-temporomandibular-joint-disorders]]가 정성 주장만 하던 부분에 실측치(VAS·MMO·관절음)를 제공. chairside 매뉴얼 TMJ 카드를 narrative→retrospective cohort로 한 단계 격상. 단 PDRN과 dextrose를 분리하지 않은 한계 명시 필요.
 
-## One-line Summary
-Retrospective chart review (66 TMD patients, dextrose or PDRN prolotherapy, avg 2.3 sessions): VAS 4.34→1.00 and MMO 31.0→40.8 mm (both p<0.001); no significant difference between PDRN and dextrose.
+## Three-line Summary
 
-## 한줄요약
-TMD 환자 66명 후향 차트리뷰. dextrose/PDRN prolotherapy 평균 2.3회로 VAS 4.34→1.00, 최대개구 31.0→40.8 mm(둘 다 p<0.001). PDRN과 dextrose 효과 차이 없음. 관절음·하악편위도 유의 개선.
+Retrospective chart review (J Oral Facial Pain Headache 2026; 66 conservative-treatment-refractory TMD patients, SNU Bundang OMS; hypertonic dextrose or PDRN prolotherapy, mean 2.3 sessions, 2024) measuring VAS pain, maximum mouth opening (MMO), joint sounds, and mandibular deviation outcomes.
+
+VAS improved from 4.34 ± 2.12 to 1.00 ± 1.58 (p<0.001) and MMO from 31.0 ± 8.7 to 40.8 ± 4.55 mm (p<0.001); joint sounds completely resolved in 23 patients; S deviation fell from 69.6% to 13.0% and L deflection from 52.2% to 8.7% (p<0.001); no significant difference between PDRN and dextrose groups.
+
+PDRN can replace hypertonic dextrose as an equivalent proliferant for TMD prolotherapy; however, PDRN-specific effects cannot be isolated in this design and the absence of a no-treatment control limits causal inference.
+
+## 세줄요약
+
+후향적 차트 리뷰(J Oral Facial Pain Headache 2026; 보존치료 불응 TMD 환자 66명, 분당서울대병원 구강악안면외과; 고장성 포도당 또는 폴리데옥시리보뉴클레오티드(Polydeoxyribonucleotide, PDRN) 프롤로치료(prolotherapy), 평균 2.3회, 2024년).
+
+VAS 4.34 → 1.00(p<0.001), 최대개구(Maximum Mouth Opening, MMO) 31.0 → 40.8 mm(p<0.001); 관절음 23명 완전 소실; S편위 69.6→13.0%, L변위 52.2→8.7%(p<0.001); PDRN군 vs 포도당군 간 유의차 없음.
+
+PDRN은 TMD 프롤로치료에서 고장성 포도당과 동등한 증식제로 대체 가능; 단, 본 설계에서 PDRN 단독 효과 귀속 불가, 무처치 대조군 없어 인과 추론 제한.
 
 ## 1. Document Information
 - Journal: J Oral Facial Pain Headache 2026;40(1):71-80

@@ -22,13 +22,21 @@ relations:
     target: susita-2026-comparative-analysis-stress-distribution-teeth
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (12 in-vitro/FEA studies, narrative — no meta-analysis): endocrowns gave comparable-or-greater fracture resistance and more repairable failures vs post-core-crown in anterior ETT; ferrule was the dominant fatigue-resistance factor, lithium disilicate the best material.
+PRISMA systematic review (12 in-vitro/FEA studies, narrative — no meta-analysis, 1307 records screened) specifically comparing endocrowns vs post-core-crown restorations for anterior endodontically treated teeth with severe coronal loss.
 
-## 한줄요약
+Endocrowns delivered comparable-or-greater fracture resistance with more repairable failure patterns; ferrule (1–2 mm) was the dominant fatigue-resistance factor regardless of technique; lithium disilicate yielded the best biomechanics, while zirconia's high modulus drove catastrophic root fractures; recommended intracanal extension is 3–5 mm.
 
-체계적 문헌고찰(in-vitro/FEA 12편, 메타분석 없음·서술적): 전치부 근관치료치아에서 엔도크라운이 포스트-코어-크라운 대비 동등하거나 더 높은 파절저항과 더 수리 가능한 실패양상을 보였고, 페룰이 피로저항의 결정적 인자, 리튬디실리케이트가 최적 재료였음.
+The post's role is framed as core retention, not tooth reinforcement — but the one available 1-year RCT found no gross-fracture difference and still recommended post-core-crown for anterior ETT, so clinical evidence base remains thin.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (인비트로/FEA 12편, 서술적·메타분석 불가, 1307건 검색): 심한 치관 손상 전치부 근관치료치에서 엔도크라운과 포스트-코어-크라운(PCC)의 생체역학적 성능을 비교.
+
+엔도크라운이 동등하거나 더 높은 파절저항과 더 수리 가능한 파절 양상 제공; 페룰(1–2 mm)이 재료·술식과 무관하게 피로저항의 결정인자; 리튬디실리케이트 최적, 지르코니아의 높은 탄성계수는 치명적 치근파절 유발; 근관 내 연장 3–5 mm 권장.
+
+포스트의 역할은 치아 강화가 아닌 코어 유지로 재정의되나 — 유일한 1년 RCT에서 두 군 간 파절 차이 없었고 전치부 ETT에는 여전히 PCC를 권고하여, 임상근거는 아직 부족하다.
 
 ## Summary
 

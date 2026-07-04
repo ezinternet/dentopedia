@@ -16,13 +16,21 @@ text_filename: najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (15 studies, 1,669 primary teeth, 10 studies pooled) finds no significant difference in clinical/radiographical pulpectomy success between Ca(OH)2/iodoform paste (Vitapex/Metapex) and ZOE at 6 and 12 months, but ZOE and ZOE/iodoform combined with Ca(OH)2 show significantly higher success rates than Ca(OH)2/iodoform at ≥18 months (especially in high-quality studies) — recommending Ca(OH)2/iodoform for teeth nearing exfoliation and ZOE-based materials otherwise.
+SR+MA (PROSPERO CRD42016037563; 15 studies, 1,669 primary teeth, 337 anterior/1,332 molars; 10 pooled in meta-analysis) comparing Ca(OH)2/iodoform paste (Vitapex/Metapex) versus ZOE-based materials for pulpectomy success in healthy primary teeth.
 
-## 한줄요약
+Overall pooled ORs showed no significant difference at 6 or 12 months; however, quality-stratified subgroup analysis revealed that in the 2 high-quality studies, ZOE and ZOE/iodoform+Ca(OH)2 significantly outperformed Ca(OH)2/iodoform at 12 months and ≥18 months (clinical OR 0.21, p=0.010; radiographical OR 0.10, p=0.003).
 
-체계적 문헌고찰+메타분석(15편 SR, 유치 1,669개, 10편 메타분석) — 6·12개월 추적에서 Ca(OH)2/iodoform(Vitapex/Metapex)과 ZOE 간 임상·방사선학적 발수(pulpectomy) 성공률에 유의한 차이 없었으나, 18개월 이상 추적(특히 고품질 연구)에서는 ZOE 및 ZOE/iodoform+Ca(OH)2가 Ca(OH)2/iodoform보다 유의하게 높은 성공률을 보여, 탈락이 임박한 치아는 Ca(OH)2/iodoform을, 그렇지 않은 경우는 ZOE 계열을 권고.
+The clinical recommendation is exfoliation-timing-based: Ca(OH)2/iodoform (Vitapex) for primary teeth nearing physiologic exfoliation given its resorbability, and ZOE or ZOE/iodoform+Ca(OH)2 when longer functional retention is expected.
+
+## 세줄요약
+
+유치 1,669개(전치 337·구치 1,332; 15편 SR, 10편 메타분석) SR+MA로, Ca(OH)2/iodoform(Vitapex/Metapex)과 ZOE 계열의 발수 성공률을 6·12·18개월 이상 추적 비교했다.
+
+전체 풀링에서는 어느 시점에서도 유의차 없었으나, 고품질 연구 2편 분층 분석에서는 12개월·18개월 이상에서 ZOE·ZOE+iodoform+Ca(OH)2가 Ca(OH)2/iodoform보다 유의하게 높은 성공률을 보였다(임상 OR 0.21, p=0.010).
+
+임상 권고는 탈락 임박 치아에는 Ca(OH)2/iodoform(재흡수성), 장기 잔존 예상 치아에는 ZOE 계열을 사용하는 방식으로 탈락 시기 기반의 재료 선택이다.
 
 ## Summary
 

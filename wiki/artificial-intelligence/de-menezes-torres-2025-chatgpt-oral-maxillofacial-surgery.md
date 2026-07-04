@@ -19,13 +19,21 @@ relations:
     target: hendrickx-2024-ai-cephalometric-analysis-manual-tracing
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (10 studies; PRISMA, PROSPERO) of ChatGPT in oral and maxillofacial surgery: GPT-4 reached 76.8% MCQ accuracy and excelled at informed-consent generation and patient communication (beating residents on accuracy/completeness/readability), but underperformed in pharmacology and complex clinical decisions — complement to, not replacement for, human judgment.
+PRISMA systematic review (PROSPERO CRD42024625882; 10 studies; 4 databases) of ChatGPT use in oral and maxillofacial surgery across clinical decision-making, surgical planning, patient education, and research domains; abstract-only.
 
-## 한줄요약
+GPT-4 achieved 76.8% MCQ accuracy and excelled at generating informed-consent documents — outperforming other AI models and human residents on accuracy, completeness, and readability — but was weaker and more variable in pharmacology and complex clinical scenarios.
 
-구강악안면외과 ChatGPT 체계적 문헌고찰(10편): GPT-4는 객관식 76.8%·동의서 작성·환자 소통에서 우수(전공의 능가)하나 약리·복잡 임상결정에서는 미흡 — 인간 판단의 보조일 뿐 대체 불가. (Based on articles retrieved from PubMed; abstract-only)
+ChatGPT can complement but not replace human clinical judgment in OMFS; supervision and integration with clinical databases are required before autonomous use.
+
+## 세줄요약
+
+구강악안면외과에서 ChatGPT 활용을 다룬 10편의 체계적 문헌고찰(PRISMA; PROSPERO CRD42024625882): 임상 의사결정·수술 계획·환자 교육·연구 4개 영역 포괄.
+
+GPT-4는 객관식 정답률 76.8%, 동의서 작성·환자 소통에서 다른 AI 모델과 전공의를 능가(정확성·완성도·가독성); 약리학 및 복잡 임상 결정에서는 성능 저하 및 가변성.
+
+ChatGPT는 인간 판단을 보완할 수 있지만 대체 불가 — 감독·임상 데이터베이스 통합 필요, 초록만 확보.
 
 ## Summary
 

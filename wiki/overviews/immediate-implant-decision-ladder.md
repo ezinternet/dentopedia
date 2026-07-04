@@ -34,13 +34,21 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 > - 한국 임상 조정: Bio-Oss + Cytoplast dPTFE 기본 GBR set-up(1.0g+1매 약 35–40만원 환자 부담), immediate provisional crown 보험 미적용(약 30–50만원), Socket Shield는 국내 학회 공식 인정 절차 없음.
 > - 근거 등급: 축 1 timing·축 2 site·축 3 술식·축 5 loading 모두 [근거강함]. 축 4 SST는 [합의수준]+합병증 인지. 한국 가용성·비용은 [미검증].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/decision-ladder over the immediate implant placement (IIP) literature (~90 papers), organizing post-extraction Type 1 placement along 5 axes — placement timing (ITI Type 1–4), site selection (buccal plate/defect), surgical execution (flap/palatal position/jumping gap/GBR), soft-tissue augmentation (CTG/provisional/socket shield), and loading (immediate/early/conventional). Core thesis: with proper case selection esthetic-zone single-tooth IIP + immediate provisionalization (Type 1A) is safe (5y survival 97.1%, 1y MBL −0.32 mm, PES 7.2), primary stability — not timing per se — governs the loading decision, and even buccal defects ≥5 mm can match delayed placement when expert GBR and patient compliance allow.
+Synthesis/decision-ladder of ~90 immediate implant placement (IIP) papers organized into 5 axes: placement timing (ITI Type 1–4), site selection (buccal plate/defect size), surgical execution (flap/flapless, palatal position ≥2 mm, jumping gap ≥2 mm → graft), soft-tissue augmentation (CTG/provisional/socket shield), and loading (immediate ≤72 h/early 1–8 w/conventional).
 
-## 한줄요약
+With proper selection, esthetic-zone single-tooth IIP + immediate provisionalization (Type 1A) achieves 5-year survival 97.1%, 1-year MBL −0.32 mm, and PES 7.2 (Hamilton 2023 ITI consensus SR+MA, 68 studies); primary stability (≥35 Ncm for immediate loading) governs the loading decision; CTG addition reduces midfacial recession and outperforms single-layer collagen matrix (Seyssens 2021 SR+MA, Azadi 2025 Bayesian NMA); even buccal defects ≥5 mm can match 10-year delayed-placement outcomes with expert GBR (Meijer 2024 RCT).
 
-즉시식립 (Immediate Implant Placement, IIP) 의사결정 ladder. ITI 4-type classification spine + Hamilton 2023 ITI consensus + Meijer 2024 10y RCT + Cosyn 그룹 SR+MA. 5축 (placement timing · site · 술식 · soft tissue · loading).
+Pre-surgical CBCT for sagittal root position class, ≥2 mm palatal implant positioning, and jumping-gap grafting are the three non-negotiable technical safeguards; "periapical pathology = must wait" is a misconception — adequate debridement + pre-surgical amoxicillin 2 g makes infected sockets equivalent to clean ones (Pranckeviciene 2024).
+
+## 세줄요약
+
+발치 후 즉시식립(Immediate Implant Placement, IIP) ~90편 의사결정 ladder — 5축: 식립 시기(ITI Type 1–4)·부위 선택(협측 plate/결손)·술식(피판/무피판·구개측 ≥2 mm 위치·Jumping gap ≥2 mm→이식)·연조직 보강(CTG/프로비저널/소켓실드)·부하 시기(즉시·조기·통상).
+
+적절한 선택 시 심미부 단일 즉시식립+즉시부하(Type 1A): 5년 생존 97.1%·1년 MBL −0.32 mm·PES 7.2(Hamilton 2023 ITI consensus, 68편); 부하 결정은 timing이 아닌 1차 안정성(즉시 ≥35 Ncm); CTG 추가 시 순측 퇴축 유의 감소·단층 콜라겐 매트릭스보다 우월(Seyssens 2021·Azadi 2025); 협측 결손 ≥5 mm도 숙련된 GBR 시 10년 지연식립과 동등(Meijer 2024 RCT).
+
+CBCT로 치근 시상 위치(Sagittal Root Position, SRP) 분류, 구개측 ≥2 mm 식립, 점핑 갭(Jumping Gap) 이식은 비협상 기술 원칙; "근단 병변 = 무조건 대기"는 오판 — 충분한 소파+amoxicillin 2 g 술전 투여 시 비감염 socket과 동등(Pranckeviciene 2024).
 
 ## Summary
 

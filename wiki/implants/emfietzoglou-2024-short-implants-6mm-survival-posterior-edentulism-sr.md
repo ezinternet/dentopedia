@@ -16,11 +16,21 @@ relations:
     target: chaware-2021-short-vs-long-implant-sinus-graft-sr-ma
 ---
 
-## One-line Summary
-Systematic review of RCTs comparing short (≤6 mm) vs longer (>6 mm) rough-surface implants in posterior partial edentulism, evaluating survival, marginal bone loss, peri-implantitis, and technical complications as an alternative to bone regeneration.
+## Three-line Summary
 
-## 한줄요약
-RCT 체계적 문헌고찰 — 후방 부분무치악 short(≤6 mm) vs longer(>6 mm) 임플란트의 생존·MBL·주위염·합병증 평가, 골재생술 대안으로서.
+SR of RCTs (search to September 2023) comparing short (≤6 mm) vs longer (>6 mm) rough-surface implants in healthy adults with posterior partial edentulism, framed as an alternative to bone-regeneration procedures for resorbed ridges.
+
+Short (≤6 mm) implants were positioned as a viable alternative to ridge augmentation in resorbed posterior sites; outcomes assessed included survival, marginal bone loss, peri-implantitis, and technical complications (detailed pooled figures in full text).
+
+Using the strict ≤6 mm cut-off (rather than the broader 4–8 mm short-implant band) provides a cleaner evaluation of the shortest commercially available implants and their suitability as regeneration-sparing options.
+
+## 세줄요약
+
+RCT 체계적 문헌고찰 (검색 2023년 9월까지) — 후방 부분 무치악의 흡수된 치조제에서 short(≤6 mm) vs 표준(>6 mm) 표면 거칠기 임플란트를 골재생술 대안으로 비교.
+
+Short(≤6 mm) 임플란트는 흡수된 후방 부위에서 골증대술의 실행 가능한 대안으로 제시됨; 생존율, 변연골 소실, 임플란트 주위염, 기술적 합병증을 평가 (상세 수치는 원문).
+
+4~8 mm 범위 전체를 포함하는 기존 메타분석보다 ≤6 mm로 엄격히 한정하여 최단 임플란트의 독립적 근거를 더 명확히 평가함.
 
 ## Summary
 This review tightens the "short implant" definition to ≤6 mm — the most aggressive length reduction — and restricts to RCTs of rough-surface implants in healthy partially edentulous posterior jaws. Framed as an alternative to bone-regeneration procedures for resorbed ridges, it compares survival, peri-implant marginal bone loss, peri-implantitis prevalence, and technical complications between ≤6 mm and >6 mm implants. By isolating the ≤6 mm subset (rather than the broader 4–8 mm "short" band that most meta-analyses pool), it provides a cleaner read on whether the shortest implants still hold up.

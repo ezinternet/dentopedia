@@ -13,11 +13,21 @@ source_collection: external
 tags: [NSAIDs, AKI, kidney-toxicity, ICU, adverse-effects, renal-function, drug-safety]
 ---
 
-## One-line Summary
-ICU retrospective cohort (n=1,157, Portugal, 2015–2023): NSAID use is an independent risk factor for AKI (OR 1.98); severe AKI (stage 3) worsens 2-year survival (aHR 1.42); renal function recovery does not significantly change long-term survival — evidence for caution when prescribing NSAIDs to patients with impaired renal function (J Crit Care 2025).
+## Three-line Summary
 
-## 한줄요약
-ICU 후향적 코호트(n=1,157, 포르투갈, 2015–2023): NSAIDs 사용이 AKI 독립 위험인자(OR 1.98); 중증 AKI(stage 3)는 2년 생존율 악화(aHR 1.42); 신기능 회복해도 장기 생존 유의한 차이 없음 — 신기능 저하 환자 NSAID 처방 주의 근거 (J Crit Care 2025).
+Retrospective cohort (n=1,157 ICU patients, Hospital Vila Franca de Xira, Portugal, 2015–2023) evaluating NSAID-associated kidney toxicity in critically ill patients.
+
+NSAID use was an independent risk factor for AKI (OR 1.98, p=0.009) and severe AKI/stage 3 (34% vs 26%, p=0.008); severe AKI significantly worsened 2-year survival (aHR 1.42, 95% CI 1.09–1.86).
+
+Renal function recovery did not reverse the survival disadvantage of severe AKI — evidence that NSAID prescribing requires renal function assessment in high-risk patients (elderly, CKD, ACEI/diuretic users).
+
+## 세줄요약
+
+후향적 코호트 (n=1,157, 포르투갈 ICU, 2015–2023): 중증 환자에서 NSAID의 신독성 평가.
+
+NSAID 사용이 AKI 독립 위험인자(OR 1.98, p=0.009), 중증 AKI(3단계) 발생 더 높으며(34% vs 26%, p=0.008) 중증 AKI는 2년 생존율 유의하게 악화(aHR 1.42, 95% CI 1.09–1.86).
+
+신기능 회복 이후에도 중증 AKI의 생존 불이익은 회복되지 않음 — 고령·CKD·ACEI/이뇨제 복용 환자에 NSAID 처방 시 신기능 평가 필요.
 
 ## Summary
 Retrospective cohort study (n=1,157 ICU patients, Hospital Vila Franca de Xira, Portugal; Jan 2015–Dec 2023) assessing kidney toxicity of NSAIDs in critically ill patients. NSAID use was independently associated with AKI (OR 1.98, p=0.009) and severe AKI/stage 3 (34% vs 26%, p=0.008). Severe AKI was associated with significantly worse 2-year survival (aHR 1.42, 95% CI 1.09–1.86, p=0.011). Non-severe AKI had no significant impact on long-term survival. Renal function recovery did not significantly improve 2-year survival once severe AKI occurred. NSAIDs were far more common in surgical (62%) vs medical ICU patients (23%).

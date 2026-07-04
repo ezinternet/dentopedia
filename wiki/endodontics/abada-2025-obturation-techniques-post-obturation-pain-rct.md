@@ -16,13 +16,21 @@ text_filename: abada-2025-obturation-techniques-post-obturation-pain-rct.txt
 tags: [bioceramic-sealer, obturation-technique, post-obturation-pain, sealer-extrusion, single-cone]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=150 mandibular first molars, single-visit, asymptomatic irreversible pulpitis) comparing CeraSeal vs AH Plus across cold lateral / continuous-wave / single-cone obturation: pain was low-to-moderate (VAS 0–1.4) in all groups; obturation technique alone did not affect pain (p=0.124) but AH Plus gave significantly higher pain than CeraSeal overall (p<0.001) and under continuous-wave compaction (p<0.001); sealer-extrusion incidence did not differ between groups (p=0.499) yet extrusion of either sealer raised pain (p<0.001).
+Prospective 5-arm CONSORT RCT (n=150, mandibular first molars, single-visit, asymptomatic irreversible pulpitis) crossing two sealers (CeraSeal bioceramic vs AH Plus epoxy-resin) with three obturation techniques (cold lateral, continuous-wave, single-cone) and recording VAS pain at 6/12/24/48/72 hours and sealer extrusion on periapical radiograph.
 
-## 한줄요약
+Overall pain was low in all groups (VAS 0–1.4); obturation technique alone did not affect pain (pooled technique p=0.124); AH Plus caused significantly more pain than CeraSeal overall (p<0.001), with the penalty concentrated under continuous-wave compaction (p<0.001); sealer-extrusion incidence was similar across groups (p=0.499), but extrusion of either sealer independently raised pain (p<0.001).
 
-RCT(하악 제1대구치 150개, 단일내원, 무증상 비가역적 치수염): CeraSeal vs AH Plus를 측방가압·연속파가압·단일콘 충전으로 비교. 모든 군 통증 낮음(VAS 0–1.4). 충전법 자체는 통증 무관(p=0.124)이나 AH Plus가 CeraSeal보다 통증 유의하게 높음(전체 p<0.001, 연속파가압에서 p<0.001). 실러 일출 빈도는 군간 차이 없으나(p=0.499) 일출 시 통증 증가(p<0.001).
+Sealer chemistry — not obturation technique — is the primary determinant of post-obturation pain; CeraSeal's bioceramic chemistry outperforms AH Plus especially when heated, and avoiding sealer extrusion regardless of sealer type is important for minimizing pain.
+
+## 세줄요약
+
+줄1: 무증상 비가역적 치수염 하악 제1대구치 150개(5군×30)를 대상으로 CeraSeal(bioceramic) vs AH Plus(epoxy-resin)와 측방가압·연속파가압·단일콘 충전을 교차 비교한 전향적 CONSORT RCT (6/12/24/48/72시간 VAS 통증, 방사선 실러 일출 평가).
+
+줄2: 모든 군에서 통증 낮음(VAS 0–1.4); 충전법 자체는 통증에 무영향(p=0.124); AH Plus가 CeraSeal보다 전체적으로 통증 유의 증가(p<0.001), 특히 연속파가압에서 차이 집중(p<0.001); 실러 일출 빈도 군간 차이 없음(p=0.499), 일출 시 통증 증가(p<0.001).
+
+줄3: 충전술보다 실러 화학 성질이 술후 통증의 주 결정 인자; CeraSeal이 특히 가열 충전 시 우위, 실러 종류와 무관하게 일출 방지가 통증 최소화의 핵심.
 
 ## Summary
 

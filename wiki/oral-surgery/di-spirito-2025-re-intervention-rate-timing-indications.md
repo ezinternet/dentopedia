@@ -16,13 +16,21 @@ relations:
     target: cervera-espert-2016-coronectomy-mandibular-third-molar-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mean timing 10.4 months, driven by root exposure (16.76%) and migration (12.20%); IAN injury rare (0.76%).
+First umbrella review of systematic reviews (6 SRs, 5,896 subjects, 7,913 successful coronectomies) quantifying re-intervention burden after mandibular third molar coronectomy with AMSTAR 2 appraisal.
 
-## 한줄요약
+Overall re-intervention rate was 4.45%, mean timing 10.4 months (range 6 months–10 years), principally driven by root exposure (16.76%) and root migration (12.20%); IAN injury confirmed rare at 0.76%.
 
-SR of SRs (6편·5896명·성공 치관절제 7913건): 재수술률 4.45%, 평균 10.4개월, 주원인은 치근 노출(16.76%)·이동(12.20%), 하치조신경 손상 0.76%로 드묾.
+Coronectomy re-intervention is genuinely uncommon and predictably early, supporting it as a safe long-term strategy for IAN-proximity cases — root migration is a sequela, not a complication requiring routine retrieval.
+
+## 세줄요약
+
+치관절제술 재수술에 관한 최초 SR-of-SRs(6편·5,896명·성공 치관절제 7,913건); AMSTAR 2 평가 포함.
+
+전체 재수술률 4.45%, 평균 10.4개월(6개월~10년), 주원인은 치근 노출(16.76%)·이동(12.20%), 하치조신경 손상 0.76%로 드묾.
+
+재수술은 드물고 대부분 조기 발생하며 — 치근 이동은 흔한 결과이나 개입이 필요한 합병증이 아님을 확인, 하치조신경 근접 증례에서 치관절제술의 장기 안전성 지지.
 
 ## Summary
 

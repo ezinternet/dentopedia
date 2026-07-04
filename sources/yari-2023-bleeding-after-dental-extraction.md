@@ -17,13 +17,23 @@ text_filename: yari-2023-bleeding-after-dental-extraction.txt
 
 Adds a post-PCI (percutaneous coronary intervention) clinical dataset directly on point with the perioperative-antiplatelet bleeding question — 100 patients within 1 year of coronary stenting, extracted on uninterrupted single (aspirin) vs dual (aspirin + clopidogrel) antiplatelet therapy. Reinforces the continue-antiplatelet recommendation in [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] by supplying a high-risk recent-stent population where interruption fear is greatest yet all bleeding was locally controllable. (abstract-only — full text not retrieved)
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=100, recent-PCI patients) — uninterrupted single vs dual antiplatelet therapy showed no significant difference in post-extraction bleeding (complete hemostasis 78% vs 64%, p=0.08); all persistent/delayed bleeding controlled locally.
 
-## 한줄요약
+Prospective study (n=100, recent-PCI patients) — uninterrupted single vs dual antiplatelet therapy showed no significant difference in post-extraction bleeding (complete hemostasis 78% vs 64%, p=0.08);
 
-전향적 연구 (n=100, 최근 PCI 환자) — 단일 vs 이중 항혈소판요법을 중단하지 않은 채 발치 시 출혈에 유의차 없음 (완전지혈 78% vs 64%, p=0.08); 모든 지속·지연 출혈은 국소 처치로 조절됨.
+all persistent/delayed bleeding controlled locally.
+
+(incomplete)
+
+## 세줄요약
+
+
+전향적 연구 (n=100, 최근 PCI 환자) — 단일 vs 이중 항혈소판요법을 중단하지 않은 채 발치 시 출혈에 유의차 없음 (완전지혈 78% vs 64%, p=0.08);
+
+모든 지속·지연 출혈은 국소 처치로 조절됨.
+
+(incomplete)
 
 ## 1. Document Information
 

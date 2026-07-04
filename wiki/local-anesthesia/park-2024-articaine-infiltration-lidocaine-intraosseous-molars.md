@@ -19,13 +19,21 @@ relations:
     target: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective chart review (n=48, 24 ABI vs 24 LIO, SNU Bundang Hospital, ICDAS 5–6 mandibular molars): lidocaine intraosseous anesthesia (QuickSleeper5) gave 100% no-supplemental success vs 70.8% for 4% articaine buccal infiltration (P<0.001), with less injection pain (VAS 17.3 vs 32.0), faster onset (91.7% numb at 1 min), and shorter duration (118.6 vs 231.3 min).
+Retrospective non-randomized chart review (n=48, 24 ABI vs 24 LIO, SNU Bundang Hospital) comparing 4% articaine buccal infiltration versus 2% lidocaine QuickSleeper5 intraosseous injection for ICDAS 5–6 mandibular molar caries in adults.
 
-## 한줄요약
+Intraosseous lidocaine (LIO) achieved 100% no-supplemental success vs 70.8% for articaine infiltration (P<0.001), with less injection pain (VAS 17.3 vs 32.0), faster onset (91.7% numb at 1 min vs 12.5%), and shorter duration (118.6 vs 231.3 min).
 
-후향적 의무기록 분석 (n=48, ABI 24 vs LIO 24, 서울대분당병원, ICDAS 5–6 하악 대구치): 리도카인 골내마취(LIO, QuickSleeper5)는 추가 마취 없이 100% 성공 vs 4% 아티카인 협측 침윤(ABI) 70.8% (P<0.001), 주사 통증 적음(VAS 17.3 vs 32.0), 빠른 발현(1분에 91.7% 마취), 짧은 지속(118.6 vs 231.3분).
+Intraosseous delivery technique — not the anesthetic molecule — drives the dramatic onset and success advantage; shorter duration favors shorter appointments, but the non-randomized design and small sample limit generalizability.
+
+## 세줄요약
+
+후향적 비무작위 의무기록 분석(n=48, ABI 24 vs LIO 24, 서울대분당병원): ICDAS 5–6 하악 대구치에서 4% articaine 협측침윤 vs 2% lidocaine QuickSleeper5 골내마취 비교.
+
+골내마취(LIO) 추가 마취 없는 성공률 100% vs 협측침윤(ABI) 70.8%(P<0.001); 주사 통증 적음(VAS 17.3 vs 32.0), 발현 빠름(1분 91.7% vs 12.5%), 지속 짧음(118.6 vs 231.3분).
+
+극적인 발현·성공 우위는 마취약제가 아닌 골내 전달 방식이 원인 — 짧은 지속은 단시간 시술에 유리; 비무작위·소표본 설계로 일반화에 한계.
 
 ## Summary
 

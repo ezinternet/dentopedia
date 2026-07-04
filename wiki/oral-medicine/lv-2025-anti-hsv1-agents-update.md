@@ -16,13 +16,21 @@ relations:
 tags: [hsv, antiviral, aciclovir, helicase-primase-inhibitor, drug-resistance]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative pharmacology review of ~60 years of anti-HSV-1 agents: nucleoside/nucleotide analogs, helicase-primase inhibitors, and immunomodulators, framed around the nucleoside-analog resistance problem and the absent HSV vaccine.
+Narrative pharmacology review (Frontiers in Pharmacology 2025) updating approximately 60 years of anti-HSV-1 drug development across nucleoside/nucleotide analogs, helicase-primase inhibitors (HPIs), and immunomodulators/natural products; global HSV-1 seroprevalence ~64% in individuals under 50.
 
-## 한줄요약
+Nucleoside analogs (aciclovir, valaciclovir, famciclovir) remain first-line but face resistance via thymidine-kinase and DNA-polymerase mutations, especially in immunocompromised hosts; non-nucleoside HPIs (pritelivir, amenamevir) retain activity against resistant strains; no approved HSV vaccine exists.
 
-약 60년간의 항-HSV-1 약물(뉴클레오시드 유사체·헬리카제-프라이메이스 억제제·면역조절제) 약리 리뷰: 뉴클레오시드 내성 문제와 부재한 HSV 백신 중심.
+No single next-generation agent has reached clinical approval for HSV-1, and most novel candidates (latency-targeting, gene-editing) remain preclinical — the absence of a vaccine sustains the drug-development imperative.
+
+## 세줄요약
+
+서술 약리 리뷰(Frontiers in Pharmacology, 2025) — 약 60년간의 항-HSV-1 약물 개발(뉴클레오시드/뉴클레오티드 유사체·헬리카제-프라이메이스 억제제(Helicase-Primase Inhibitor, HPI)·면역조절제/천연물) 개관; 전 세계 50세 미만 HSV-1 혈청양성률 ~64%.
+
+뉴클레오시드 유사체(아시클로버, 발라시클로버, 팜시클로버)가 1차 치료제이나 면역저하 환자에서 티미딘 키나아제(thymidine kinase)·DNA 중합효소 돌연변이로 내성 발생; 비뉴클레오시드 HPI(프리텔리버, 아메나메비르)는 내성 균주에 활성 유지; 승인된 HSV 백신 없음.
+
+차세대 약물은 대부분 임상 전 단계이며, 잠재성(latency) 표적·유전자편집 전략도 연구 중이나 아직 미승인 — 백신 공백이 항바이러스제 개발의 지속적 동기.
 
 ## Summary
 

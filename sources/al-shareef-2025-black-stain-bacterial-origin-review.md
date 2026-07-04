@@ -15,13 +15,21 @@ pdf_filename: al-shareef-2025-black-stain-bacterial-origin-review.txt
 
 The most current (2025) narrative review consolidating the clinical, microbiological, and salivary-chemistry evidence for bacterial black stain — directly updates and extends [[caries/zyla-2015-black-stain-dental-caries-review]] with a decade of newer mechanistic data (iron-sulfide precipitation pathway, salivary ion profiling, alternative treatment evidence). Core reference needed for any black-stain overview or caries-protective-flora synthesis.
 
-## One-line Summary
+## Three-line Summary
 
-2025 narrative review (Eur J Oral Sci) of dental black stain: Actinomyces-dominant biofilm + altered salivary iron/pH drives ferric-sulfide deposition; prevalence 2.4–20%; inverse caries association confirmed; standard treatment is ultrasonic scaling with emerging alternatives (PDT, coconut oil, probiotics).
+2025 narrative review (Eur J Oral Sci) synthesizing clinical, microbiological, and salivary-chemistry evidence for bacterial-origin dental black stain etiology, epidemiology, and management.
 
-## 한줄요약
+Black stain is driven by Actinomyces-dominant biofilm metabolizing sulfur compounds to H₂S, which reacts with elevated salivary iron to form insoluble ferric-sulfide; prevalence is 2.4–20%, affecting both genders equally; black stain carriers show lower caries incidence (inverse association).
 
-2025년 서사적 고찰: 치과 흑색 착색(black stain)은 Actinomyces 주도 바이오필름과 변형된 타액 철분/pH가 황화철 침착을 유도하며, 유병률 2.4–20%, 우식 역상관 관계, 표준 치료는 초음파 스케일링.
+Standard treatment is repeated ultrasonic professional cleaning; the inverse caries association and high salivary calcium/phosphate support a caries-protective role, but narrative design and absence of RCTs for alternatives (PDT, probiotics, coconut oil) limit evidence strength.
+
+## 세줄요약
+
+2025년 서사적 고찰 (Eur J Oral Sci) — 세균성 치과 흑색 착색(black stain)의 임상, 미생물학, 타액화학 근거를 종합; 병인론·역학·처치를 업데이트.
+
+흑색 착색은 Actinomyces 주도 바이오필름의 황화수소(H₂S) 대사가 타액 내 상승된 철분과 반응해 불용성 황화철(ferric sulfide)을 형성; 유병률 2.4–20%, 남녀 동등; 흑색 착색 보유자는 우식 발생률 역상관(낮음).
+
+표준 치료는 반복 초음파 스케일링; 높은 타액 칼슘/인산염과의 역우식 연관성이 우식 보호 기전을 지지하지만, 서사적 설계 및 PDT·프로바이오틱스·코코넛오일 등 대안 치료의 RCT 부재로 근거 수준 제한적.
 
 ## 1. Document Information
 

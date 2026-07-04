@@ -9,7 +9,7 @@ pdf_filename: meschi-2023-revitalization-apical-periodontitis-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 미성숙·성숙 영구치 치수괴사 + 치근단 치주염에서 revitalization 효과: 임상 증상 소실 및 치근단 치유 양호, 근관 치료와 비교 데이터 제한적.
 
 ## 1. Document Information

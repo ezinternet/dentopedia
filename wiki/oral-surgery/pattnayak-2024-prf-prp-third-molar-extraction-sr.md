@@ -13,12 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 studies) comparing platelet-rich fibrin (PRF) vs platelet-rich plasma (PRP) after mandibular third molar extraction: PRF was superior for soft tissue healing and bone density in 4/6 studies (no significant difference in 2/6), and both positively influenced healing, with PRF favored for simpler, fully autologous, additive-free preparation.
+Systematic review (6 studies; Scopus/PubMed/Google Scholar/Cochrane; January 2014–June 2024) directly comparing platelet-rich fibrin (PRF) versus platelet-rich plasma (PRP) after mandibular third molar extraction using split-mouth and randomized comparative prospective designs.
 
-## 한줄요약
-체계적 문헌고찰(6편): 하악 제3대구치 발치 후 혈소판풍부섬유소 (PRF)와 혈소판풍부혈장 (PRP, Platelet-Rich Plasma) 비교 시, 4/6 연구에서 PRF가 연조직 치유 및 골밀도 개선에 유리하며, 준비 용이성·완전 자가 유래 측면에서 PRF가 우수.
+PRF was superior to PRP for soft tissue healing and bone density in 4/6 studies; no significant difference was found in 2/6 studies; both materials positively influenced postoperative healing; all included studies rated "good" by NHLBI quality assessment.
+
+PRF is favored over PRP for its simpler preparation (no exogenous thrombin/calcium additives required) and fully autologous nature — making it a more practical first-generation replacement for the extraction socket.
+
+## 세줄요약
+
+체계적 문헌고찰(6편; Scopus·PubMed·Google Scholar·Cochrane; 2014년 1월~2024년 6월): 하악 제3대구치 발치 후 혈소판농축섬유소(PRF) 대 혈소판풍부혈장(PRP, Platelet-Rich Plasma) 직접 비교.
+
+6편 중 4편에서 PRF가 연조직 치유·골밀도 개선에 PRP 대비 우수; 2편은 유의한 차이 없음; 두 재료 모두 치유에 긍정적; NHLBI 질 평가에서 모두 "양호" 등급.
+
+PRF는 첨가물(트롬빈·칼슘) 불필요한 단순 준비·완전 자가혈액 유래로 PRP 대비 실용성 우위 — 발치 소켓 1차 생물학적 처치로 선호.
 
 ## Summary
 Pattnayak et al. (2024) conducted a systematic review directly comparing PRF and PRP after mandibular third molar extraction, covering January 2014–June 2024. Six studies met inclusion criteria (1 split-mouth prospective, 3 split-mouth comparative, 2 unilateral randomized comparative prospective). Four of six studies showed significant improvement in soft tissue healing and bone density at the PRF site compared to PRP; two studies showed no significant difference. Both materials positively influenced healing, but PRF offered practical advantages: no additives required and fully autologous preparation.

@@ -24,13 +24,21 @@ relations:
     target: griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review of 34 in-vitro studies (9 premolar, 25 molar) mapping fracture resistance and fracture pattern of ceramic partial coverage restorations (PCRs) by preparation design: MOD overlays lowered molar fracture loads vs anatomic overlays, thicker occlusal reduction generally helped, proximal boxes/MOD worsened fracture severity, and every design still exceeded maximum bite forces.
+Scoping review (PRISMA, RoBDEMAT) of 34 in-vitro studies (9 premolar, 25 molar) examining fracture resistance and fracture pattern of lithium silicate-based and hybrid ceramic partial coverage restorations (PCRs) across preparation designs and material types.
 
-## 한줄요약
+In molars, MOD overlays showed lower fracture loads than anatomic overlays (LDS-MOD overlay 1,295–1,326 N vs LDS overlay up to 4,995 N), and MOD preparation produced more severe fracture patterns; in premolars the MOD-box penalty was minimal; every design exceeded maximum bite forces (392 N premolar / 602 N molar).
 
-세라믹 부분피개수복물(PCR)의 파절저항·파절양상을 프렙 디자인별로 정리한 스코핑 리뷰(34편: 소구치 9·대구치 25) — MOD overlay는 대구치에서 anatomic overlay보다 파절하중이 낮았고, 교합 두께 증가는 대체로 유리, proximal box/MOD는 파절 양상을 악화시켰으나 모든 디자인이 최대 교합력을 상회.
+Clinical implication: preparation design should be tooth-type specific — avoid MOD overlay in molars when possible; choice should weigh seating stability and adhesive support, not just fracture load numbers.
+
+## 세줄요약
+
+스코핑 리뷰(PRISMA, RoBDEMAT, 34편: 소구치 9·대구치 25)로 리튬 실리케이트 계열 및 하이브리드 세라믹 부분피개수복물(Partial Coverage Restoration, PCR)의 프렙 디자인·재료종류별 파절저항·파절양상을 정리.
+
+대구치에서 MOD 오버레이(Overlay) 파절하중이 anatomic 오버레이보다 낮고(LDS-MOD 1,295–1,326 N vs LDS anatomic 최대 4,995 N) 파절 양상도 더 심각; 소구치에서는 MOD 박스 효과 미미; 모든 디자인이 최대 교합력(소구치 392 N·대구치 602 N)을 상회.
+
+임상적 의미: 프렙 디자인은 치아종별로 달리해야 하며 — 대구치에서는 가급적 MOD 오버레이 회피; 파절하중 수치만이 아닌 안착 안정성·접착 지지를 함께 고려.
 
 ## Summary
 

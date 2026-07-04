@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (55 clinical studies, 2000–2023): silica-based ceramic LVs achieve 72–100% survival across follow-up periods; dentin exposure, bruxism, and adhesive protocol quality are the primary modifiable failure determinants; no ≥3-year clinical data exist for zirconia LVs.
+Narrative review (Nihon University; 55 clinical studies, 2000–April 2023, minimum 3-year follow-up) of silica-based ceramic laminate veneer survival, complications, and modifiable risk factors, covering feldspathic, LRG, LDS, and indirect composite resin materials.
 
-## 한줄요약
+Survival decreased with time (≤5y 95–100%, ≤10y 83–100%, >10y 73–95%); immediate dentin sealing (IDS) raised 11-year survival from 81.8% to 96.4%; bruxism without an occlusal splint reduced 8-year survival by 25 percentage points (89.1% with splint vs 63.9% without).
 
-내러티브 리뷰 (55개 임상연구): 실리카 기반 세라믹 라미네이트 비니어 (Laminate Veneer, LV) 생존율은 72–100%, 상아질 노출(Dentin Exposure)·이갈이(Bruxism)·접착 프로토콜이 핵심 수정 가능 예후 인자이며, 지르코니아(Zirconia) LV는 3년 이상 임상 데이터 없음.
+No adequately powered clinical trial with ≥3-year follow-up was found for zirconia laminate veneers, and indirect composite resin achieved only 75% survival at 10 years — the dominant failure modes shift from adhesive errors (<5y) to marginal breakdown and caries (>5y).
+
+## 세줄요약
+
+내러티브 리뷰 (일본 Nihon 대학; 2000–2023년 4월, ≥3년 추적 55편): 장석질·LRG·LDS·간접 레진 라미네이트 비니어(Laminate Veneer, LV) 생존율·합병증·수정 가능 위험인자 종합.
+
+시간 경과에 따른 생존율 감소: ≤5년 95–100%, ≤10년 83–100%, >10년 73–95%; 즉시 상아질 실링(Immediate Dentin Sealing, IDS) 적용 시 11년 생존율 81.8% → 96.4%; 이갈이(Bruxism) + 교합장치 없이 8년 63.9% vs 장치 사용 89.1%.
+
+지르코니아 LV의 ≥3년 임상 연구 없음; 간접 레진 10년 생존율 75% 저조; 실패 양상 전환: <5년(접착 오류) → >5년(변연 붕괴·우식).
 
 ## Summary
 

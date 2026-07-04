@@ -16,13 +16,23 @@ text_filename: lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care.t
 
 사용자 요청 — 임플란트 유지관리 프로토콜 논문 감시·인제스트. [[wiki/implants/peri-implantitis/mojaver-2025-supportive-peri-implant-therapy-efficacy-sr]]가 SPiT *효과*를 다룬다면, 본 SR은 가장 구체적인 임상 질문 — full-arch 보철에서 **얼마나 자주 보철을 제거하고 SPiT를 시행해야 하는가** — 에 답하는 빈도 근거. full-arch 환자는 자가 청소 접근성이 최악이라 recall 주기가 특히 중요한데, 위키에 이 주제 페이지가 없었음.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (11 studies, n=15–85, mean age 60–68; none at low risk of bias) on supportive peri-implant care frequency for implant-supported full-arch prostheses, recommending professional oral hygiene every 6 months and prosthesis removal at least once per year, tailored to patient risk.
 
-## 한줄요약
+PRISMA systematic review (11 studies, n=15–85, mean age 60–68;
 
-PRISMA 체계적 문헌고찰(11편, n=15–85, 평균연령 60–68세; 저비뚤림 연구 0편) — full-arch 임플란트 보철의 SPiT 빈도에 대해 6개월마다 전문 구강위생, 최소 연 1회 보철 제거를 권고하되 환자 위험도에 맞춰 조정.
+none at low risk of bias) on supportive peri-implant care frequency for implant-supported full-arch prostheses, recommending professional oral hygiene every 6 months and prosthesis removal at least once per year, tailored to patient risk.
+
+(incomplete)
+
+## 세줄요약
+
+
+PRISMA 체계적 문헌고찰(11편, n=15–85, 평균연령 60–68세;
+
+저비뚤림 연구 0편) — full-arch 임플란트 보철의 SPiT 빈도에 대해 6개월마다 전문 구강위생, 최소 연 1회 보철 제거를 권고하되 환자 위험도에 맞춰 조정.
+
+(incomplete)
 
 ## 1. Document Information
 

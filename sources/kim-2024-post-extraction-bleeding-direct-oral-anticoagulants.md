@@ -17,13 +17,23 @@ text_filename: kim-2024-post-extraction-bleeding-direct-oral-anticoagulants.txt
 
 기존 [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] (anticoagulant oral surgery bleeding SR)와 [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]]의 "continue therapy" 결론을 한국 단일기관 retrospective real-world data로 보강. 한국 직접경구항응고제(Direct Oral Anticoagulant, DOAC) 발치 후 출혈 국내 근거가 부재했던 gap을 JKAOMS 코호트(n=293)로 채운다.
 
-## One-line Summary
+## Three-line Summary
 
-Korean single-center retrospective cohort (NHIS Ilsan Hospital, 2015–2021; n=293 patients, 414 teeth) — continuing DOAC therapy during tooth extraction did not significantly increase post-extraction bleeding vs discontinuing (12/246 = 4.9% continued vs 0/47 discontinued, P=0.122).
 
-## 한줄요약
+Korean single-center retrospective cohort (NHIS Ilsan Hospital, 2015–2021;
+
+n=293 patients, 414 teeth) — continuing DOAC therapy during tooth extraction did not significantly increase post-extraction bleeding vs discontinuing (12/246 = 4.9% continued vs 0/47 discontinued, P=0.122).
+
+(incomplete)
+
+## 세줄요약
+
 
 한국 단일기관 후향 코호트(국민건강보험 일산병원, 환자 293명·치아 414개) — 발치 시 직접경구항응고제(DOAC) 유지군과 중단군 간 발치 후 출혈에 유의한 차이가 없어(유지군 4.9% vs 중단군 0%, P=0.122), DOAC 중단 없이 발치 가능함을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

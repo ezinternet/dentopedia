@@ -21,13 +21,21 @@ relations:
     target: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized canine study (5 dogs, 4 sites/dog: GBR / SCTG / GBR+SCTG / control, 4-month non-submerged healing, histomorphometry) — SCTG alone gave the greatest peri-implant mucosa height and thickness at/above the implant shoulder, GBR worked only below the shoulder, and combining GBR+SCTG was the *least* favorable (not additive).
+Randomized controlled preclinical study (5 mongrel dogs, 4 sites/dog: GBR / SCTG / GBR+SCTG / control) with narrow-diameter immediate implants (Ø3.2×7 mm, Dentium) in maxillary premolar fresh sockets; 4-month non-submerged healing, non-decalcified histomorphometry.
 
-## 한줄요약
+SCTG alone produced the greatest peri-implant mucosa height (MM-IS median 1.99 mm) and greatest thickness at/above the shoulder; GBR contributed bone only below the shoulder; GBR+SCTG combination was the least favorable (MM-IS 1.24 mm), attributed to flap tension from stacked grafts; all between-group differences were non-significant (underpowered).
 
-무작위 개 실험 (개 5마리, 마리당 4부위: GBR / SCTG / GBR+SCTG / 대조군, 4개월 비침수 치유, 조직계측) — 즉시식립(IIP)에서 결합조직이식(SCTG) 단독이 임플란트 어깨 높이·두께에 가장 유리했고, 골유도재생(GBR)은 어깨 하방에서만 효과가 있었으며, GBR+SCTG 병용은 오히려 가장 불리해 상가 효과가 없었다.
+SCTG owns the coronal soft tissue at immediate implants while GBR is apical-only; stacking GBR+SCTG is not additive and may be counterproductive — providing histometric mechanism for clinical SR/MA preferences but limited by small n and significance.
+
+## 세줄요약
+
+무작위 전임상 개 실험 (잡종견 5마리, 마리당 4부위: GBR / SCTG / GBR+SCTG / 대조군): 상악 소구치 발치와에 즉경 임플란트(Ø3.2×7 mm) 즉시식립, 4개월 비침수 치유, 비탈회 조직계측.
+
+결합조직이식(Subepithelial Connective Tissue Graft, SCTG) 단독이 임플란트 어깨 높이·두께 최대(MM-IS 중앙값 1.99 mm); 골유도재생(GBR)은 어깨 하방에서만 효과; GBR+SCTG 병용은 최저(MM-IS 1.24 mm, 판막 긴장 탓); 군 간 차이 모두 비유의(소표본 미검증력).
+
+SCTG는 임플란트 어깨 상방 연조직 빌드업을 담당, GBR은 어깨 하방 골에 한정; GBR+SCTG 병용은 상가효과 없고 오히려 불리 — 임상 SR/MA의 SCTG 선호에 대한 조직계측적 기전을 제공하나 소표본·비유의 한계.
 
 ## Summary
 

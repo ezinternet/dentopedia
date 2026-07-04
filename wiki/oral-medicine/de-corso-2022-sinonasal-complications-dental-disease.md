@@ -20,13 +20,22 @@ relations:
     target: kim-2019-definition-management-odontogenic-maxillary
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=262, Rome 2015–2022) of SCDDT managed with endoscopic endonasal FESS: 96.5% overall success rate, SNOT-22 improved from 43.4 to 6 at 15 days; 55.34% iatrogenic (implant/extraction) vs 44.65% dental pathology; simultaneous ENT+dental treatment feasible in 58% of cases.
+Retrospective cohort (n=262, Rome 2015–2022) of all sinonasal complications of dental disease or treatment (SCDDT) managed with standardized multidisciplinary FESS-based protocol at a tertiary ENT center, classified by Felisati taxonomy.
 
-## 한줄요약
+Overall FESS success rate was 96.5% with rapid QoL improvement (SNOT-22 43.4 → 6 at 15 days, p<0.05); iatrogenic causes (implant/extraction) now predominate at 55.34% vs dental pathology 44.65%; simultaneous ENT + dental surgery was feasible and performed in 58% of cases.
 
-이탈리아 3차병원의 후향적 코호트(262례, 2015–2022)에서 SCDDT에 대한 내시경 비내 수술(FESS) 전체 성공률 96.5%, SNOT-22 43.4→6(술 후 15일); 원인의 55.34%는 의인성(임플란트·발치), 44.65%는 치성 병변; 동시 ENT+치과 수술은 58%에서 시행 가능.
+FESS is the definitive primary surgical approach for SCDDT regardless of CT extent; maxillary antrostomy alone is acceptable, but all diseased sinuses should be opened; implant removal is reserved for frank dislocation, not peri-implantitis alone.
+
+## 세줄요약
+
+후향적 코호트 (n=262, 로마 2015–2022) — 치성 또는 치과 치료 관련 부비동 합병증(SCDDT) 전례를 표준 다학제 프로토콜 및 FESS 기반으로 치료, Felisati 분류 적용.
+
+전체 FESS 성공률 96.5%, SNOT-22 43.4→6 (15일 후, p<0.05); 의인성 원인(임플란트·발치) 55.34% > 치성 병변 44.65% — 증가 추세; 동시 ENT+치과 수술은 58%에서 가능.
+
+FESS는 CT 범위에 관계없이 SCDDT의 1차 수술적 접근; 상악동 개방이면 충분하나 모든 병변 부비동 처리 권장; 임플란트 제거는 탈구 시에만, 주위염(peri-implantitis) 단독으로는 불필요.
+
 
 ## Summary
 

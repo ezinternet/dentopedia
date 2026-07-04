@@ -13,13 +13,23 @@ source_collection: external
 
 HF 농도(5% vs 10%), 에칭 시간(60 vs 120초), 인산 처리+중화(소다수 세척) 조합이 장석질 도재의 레진 결합강도에 미치는 영향을 3요인 분산분석으로 평가한 연구. [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]]의 HF 처리 매개변수 논의를 보강하며, HF 농도만이 유일한 유의미한 변수임을 확인한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=80, 8 groups, 3-way ANOVA): only HF concentration was significant — 10% HF yielded higher shear bond strength than 5%; etching time (60 vs 120 s) and phosphoric acid + sodium bicarbonate neutralization did not influence bond strength.
 
-## 한줄요약
+In vitro study (n=80, 8 groups, 3-way ANOVA): only HF concentration was significant — 10% HF yielded higher shear bond strength than 5%;
 
-인 비트로 연구 (n=80, 8그룹, 3요인 분산분석): HF 농도만 유의미한 변수 — 10% HF가 5% HF보다 높은 전단결합강도; 에칭 시간(60 vs 120초)과 인산 처리+탄산수소나트륨 중화는 결합강도에 영향 없음.
+etching time (60 vs 120 s) and phosphoric acid + sodium bicarbonate neutralization did not influence bond strength.
+
+(incomplete)
+
+## 세줄요약
+
+
+인 비트로 연구 (n=80, 8그룹, 3요인 분산분석): HF 농도만 유의미한 변수 — 10% HF가 5% HF보다 높은 전단결합강도;
+
+에칭 시간(60 vs 120초)과 인산 처리+탄산수소나트륨 중화는 결합강도에 영향 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

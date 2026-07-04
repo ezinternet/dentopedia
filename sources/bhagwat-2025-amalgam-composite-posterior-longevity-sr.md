@@ -9,8 +9,21 @@ pdf_filename: bhagwat-2025-amalgam-composite-posterior-longevity-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-후방부 아말감 vs 레진 수명 SR (2025, Cureus): 아말감 중앙생존 16년 vs 레진 11년; 최신 연구에서 격차 축소; 재2차 우식이 주요 실패 원인.
+## Three-line Summary
+
+Systematic review (1990–2024, PubMed/Cochrane/Google Scholar, no meta-analysis due to heterogeneity) comparing longevity of amalgam versus composite resin restorations in permanent posterior teeth from clinical trials and observational studies ≥12 months follow-up.
+
+Amalgam median survival exceeded 16 years; composite approximately 11 years historically, with narrowing gap in post-2015 studies; primary failure mode for amalgam was fracture, for composite was secondary caries and marginal discoloration; composite showed significantly higher failure risk in high-caries-risk patients.
+
+Qualitative synthesis only without meta-analysis; studies span different composite generations (older materials inflate composite failure rates); no standardized failure criteria across studies.
+
+## 세줄요약
+
+체계적 문헌고찰(1990–2024, PubMed·Cochrane·Google Scholar, 이질성으로 메타분석 불가) — 영구 구치부 아말감 vs 복합레진 수복물 생존율 비교(추적 ≥12개월).
+
+아말감 중앙 생존기간 16년 초과; 복합레진 역사적으로 약 11년이나 2015년 이후 연구에서 격차 축소; 아말감 주요 실패 원인 = 파절, 복합레진 = 이차 우식·변연 변색; 고우식위험군에서 복합레진 실패율 유의하게 높음.
+
+메타분석 없는 질적 종합; 다양한 세대의 복합레진 포함(구형 재료가 레진 실패율 과대 추정); 연구 간 실패 기준 비표준화.
 
 ## 1. Document Information
 - **Journal**: Cureus 2025, 17(7): e88836

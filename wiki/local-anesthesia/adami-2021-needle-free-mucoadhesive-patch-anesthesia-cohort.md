@@ -17,13 +17,21 @@ relations:
     target: zhou-2023-pregnancy-physiology-oral-local-anesthesia-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective one-arm open cohort (USP Ribeirão Preto, n=58, mean age 50.7y): a tri-layered mucoadhesive patch delivering lidocaine + prilocaine HCl (1:1, 30 mg/patch) gave needle-free anesthesia in medium-complexity dental procedures, completing 90% of cases without injection; mean onset ~13.2 min, effect 50–90 min, no side effects at 2 h or 6 months; 59% of subjects were needle-phobic/anxious.
+Prospective one-arm open cohort (USP Ribeirão Preto, n=58, mean age 50.7 y; 59% needle-phobic/anxious) testing a tri-layered mucoadhesive patch (lidocaine + prilocaine HCl 1:1, 30 mg/patch) as primary anesthesia for medium-complexity vital-tooth dental procedures.
 
-## 한줄요약
+90% of cases were completed without injection; mean onset ~13.2 min; effective duration 50–90 min; no side effects at 2 h or 6 months; all 6 supplemental-injection cases were maxillary and anxiety-group patients.
 
-전향적 단일군 개방형 코호트 (USP 히베이라웅프레투, n=58, 평균 50.7세): 리도카인+프릴로카인 HCl(1:1, 30 mg/패치) 3층 점막부착 패치가 중등도 처치에서 무침 마취 제공, 90% 케이스를 주사 없이 완료; 평균 발현 ~13.2분, 작용 50–90분, 2시간·6개월 부작용 없음; 대상자 59%가 주사공포/불안.
+The needle-free patch is feasible as primary anesthesia for medium-complexity vital-tooth procedures — especially for needle-phobic patients — but cannot replace injection for nonvital/endodontic teeth or surgical cases.
+
+## 세줄요약
+
+전향적 단일군 개방형 코호트(USP 히베이라웅프레투, n=58, 평균 50.7세; 59% 주사공포/불안): 리도카인+프릴로카인 HCl(1:1, 30 mg/패치) 3층 점막부착 패치를 중등도 생활치 처치의 1차 마취로 평가.
+
+90% 케이스 주사 없이 완료; 평균 발현 ~13.2분; 작용 50–90분; 2시간·6개월 부작용 없음; 보충 주사 6건은 모두 상악·불안군.
+
+무침 패치는 중등도 생활치 처치(특히 주사공포 환자)에 1차 마취로 실현 가능 — 비생활치·근관치료·수술 케이스에는 대체 불가.
 
 ## Summary
 

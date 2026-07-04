@@ -30,13 +30,21 @@ relations:
 > - **장기·기능 정의 확장**: GAT을 단발 기록이 아니라 **정상화된 저작위(CM-H)=치료위** 설정 도구로 쓴 10년 추적(Kwak 2025, n=16) — CM-H↔MICP 일치 63% 유지, 전체 회복 81%. Gysi의 "최후방 인대유도 경계위" CR 정의에서 **신경근 조화 기능위**로의 재정의.
 > - **원장 결정 요지**: 무치악 정밀·표준 케이스 → nick-and-notch/정적기록이 오차 최소; **신경근 제어 저하·습관성 전방폐구·심한 흡수릉·전악 기능재건**에는 고딕아치(특히 구내·디지털)가 시각적 정점확인·기능위 포착으로 유리. 후방 압박 술식(턱 후퇴)은 회피.
 
-## One-line Summary
+## Three-line Summary
 
-A 7-paper synthesis (6 complete-denture + Kwak 2025 occlusion) on Gothic arch (arrow-point) tracing and horizontal jaw-relation / centric-relation recording: it separates **reproducibility** (digital Gothic arch ≈ 0.98, posture-independent > chin-point > swallowing; bimanual ≥ chin-point) from **accuracy against a reference** (in edentulous split-cast, static nick-and-notch < intraoral Gothic arch < extraoral Gothic arch in discrepancy), shows that error *direction* matters (Gothic arch biases anterior at open OVD, retrusion methods seat posteriorly, all within ±1 mm), establishes intraoral > extraoral Gothic arch, positions OPG as a programming alternative for condylar guidance, and extends the tracer from an instant record to a decade-stable function-defined therapeutic position.
+7-paper synthesis (6 complete-denture + Kwak 2025 occlusion) on Gothic arch (arrow-point) tracing and centric-relation recording: reproducibility hierarchy is digital Gothic arch ≈ 0.98 (posture-independent) > chin-point 0.79 (supine-dependable) > swallowing 0.62 (upright only; Bhagat 2025), with bimanual ≥ chin-point for guided methods (de Moraes Melo Neto 2021 SR).
 
-## 한줄요약
+Accuracy against a static split-cast reference runs opposite: nick-and-notch (0.15/0.23 mm) < intraoral Gothic arch (0.42/0.51) < extraoral Gothic arch (0.74/0.86), because the apex is recorded at an opened OVD (Singh 2026); error direction matters — Gothic arch biases anterior, retrusion methods seat posteriorly, all within ±1 mm (Jász 2024), intraoral beats extraoral, and OPG substitutes for extraoral GAT in condylar-guidance programming (Potdukhe 2023 SR+MA).
 
-고딕아치(arrow-point) 트레이싱과 수평 악간관계(중심위) 기록 7편 종합 — **재현성**(디지털 고딕아치 ~0.98·체위무관 > 턱끝유도 > 삼킴; 양손조작 ≥ 턱끝유도)과 **기준 대비 정확도**(무치악 split-cast에서 nick-and-notch < 구내 고딕아치 < 구외 고딕아치)를 분리하고, 오차의 **방향**(고딕아치=전방, 턱후퇴=후방, 모두 ±1mm 내)과 **구내>구외** 우위, OPG의 교합기 프로그래밍 대체 가능성, 그리고 단발 기록→10년 안정 기능위 확장을 정리.
+Clinically, standard edentulous cases favor a well-made static record (smallest discrepancy); Gothic arch tracing is preferred for impaired neuromuscular control, severely resorbed ridges, or functional-position definition, where a CAD/CAM intraoral device preserves accuracy (<0.5 mm) while saving ~16 minutes of chair time (Zhou 2023).
+
+## 세줄요약
+
+고딕아치(arrow-point) 트레이싱과 수평 악간관계(중심위) 기록 7편 종합 — **재현성 위계**: 디지털 고딕아치 ~0.98·체위무관 > 턱끝유도 0.79·앙와위 신뢰 > 삼킴 0.62·직립 한정(Bhagat 2025); 양손조작 ≥ 턱끝유도(de Moraes Melo Neto 2021 SR).
+
+**기준 대비 정확도 위계**는 반전: nick-and-notch(0.15/0.23 mm) < 구내 고딕아치(0.42/0.51) < 구외 고딕아치(0.74/0.86)로 정적 왁스기록이 split-cast 오차 최소(Singh 2026); 오차 방향은 고딕아치=전방, 턱후퇴=후방, 모두 ±1 mm 내(Jász 2024); 구내>구외 우위이며 OPG가 교합기 수평과로각 프로그래밍 대체 가능(Potdukhe 2023 SR+MA).
+
+임상 결정: 무치악 표준 케이스는 잘 만든 정적 기록(오차 최소); 신경근 제어 저하·흡수릉·전악재건에는 고딕아치(특히 구내·디지털, <0.5 mm 정확도 유지·의자시간 ~16분 단축; Zhou 2023); 턱 후방 압박 술식은 회피.
 
 ## Summary
 

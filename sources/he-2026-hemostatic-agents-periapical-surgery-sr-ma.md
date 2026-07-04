@@ -16,13 +16,23 @@ text_filename: he-2026-hemostatic-agents-periapical-surgery-sr-ma.txt
 
 근관외과(Periapical Surgery) 지혈제 선택에 SR+MA 근거 공백. 임상에서 황산제이철(Ferric Sulfate) vs 에피네프린(Epinephrine) 혼용 상황 정리. 네트워크 메타분석으로 에피네프린(Epinephrine)·알루미늄 클로라이드(Aluminum Chloride, AlCl₃)가 콜라겐(Collagen) 대비 우월함을 확인한 최초 SR+MA. See [[overviews/oral-surgery-decision-ladder]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 studies (388 teeth) on hemostatic agents in periapical surgery: average efficacy 63 ± 6.6%, no significant differences among agents, but network meta-analysis shows epinephrine and aluminum chloride superior to collagen (P < .05); smoking was the only clinical variable trending toward significance.
 
-## 한줄요약
+SR+MA of 10 studies (388 teeth) on hemostatic agents in periapical surgery: average efficacy 63 ± 6.6%, no significant differences among agents, but network meta-analysis shows epinephrine and aluminum chloride superior to collagen (P < .05);
 
-10편 SR+MA (388개 치아): 근관외과 지혈제 평균 효능 63 ± 6.6%로 양호하나 제제 간 유의차 없음; 네트워크 메타분석에서 에피네프린·알루미늄 클로라이드가 콜라겐보다 유의하게 우수, 흡연 습관만 예후 경향성(P=.074) 확인.
+smoking was the only clinical variable trending toward significance.
+
+(incomplete)
+
+## 세줄요약
+
+
+10편 SR+MA (388개 치아): 근관외과 지혈제 평균 효능 63 ± 6.6%로 양호하나 제제 간 유의차 없음;
+
+네트워크 메타분석에서 에피네프린·알루미늄 클로라이드가 콜라겐보다 유의하게 우수, 흡연 습관만 예후 경향성(P=.074) 확인.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Egyptian RCT (n=24; 12 SRP+ozonated gel vs 12 SRP alone) in controlled T2DM + stage III grade B periodontitis: both arms significantly improved CAL/PPD/BOP/PI/HbA1c with NO significant intergroup difference, but the ozone arm uniquely achieved significant within-group radiographic gains (RLDD 3.44→2.66 mm p=0.008; defect angle p=0.007; PDL space p=0.008) plus greater PPD reduction at 3 months (p=0.045) and less postoperative pain (VAS p=0.017).
+Single-center assessor-blinded RCT (n=24; 12 SRP+subgingival ozonated gel vs 12 SRP alone) in patients with controlled type 2 diabetes (HbA1c <7) and stage III grade B periodontitis, 6-month follow-up.
 
-## 한줄요약
+Both groups significantly improved CAL, PPD, BOP, PI, and HbA1c with no significant intergroup difference; ozone uniquely achieved significant within-group radiographic intrabony-defect improvement (RLDD 3.44→2.66 mm, p=0.008) plus greater 3-month PPD reduction (p=0.045) and less postoperative pain (VAS p=0.017).
 
-조절된 제2형 당뇨 + stage III periodontitis 환자 24명(SRP+오존젤 12 vs SRP 단독 12) RCT — 양 군 모두 CAL·PPD·BOP·PI·HbA1c가 유의하게 개선됐으나 군간 차이는 없었고, 오존군에서만 방사선학적 골결손(RLDD 3.44→2.66 mm, p=0.008; 결손각 p=0.007; 치주인대공간 p=0.008)이 유의하게 개선되고 3개월 PPD 감소(p=0.045)와 술후 통증(VAS p=0.017)이 더 좋았다.
+SRP remains the primary driver of clinical benefit; adjunctive ozonated gel offers a modest early PPD advantage and radiographic bone-defect signal but no proven intergroup clinical superiority in this small, controlled-diabetic cohort.
+
+## 세줄요약
+
+조절된 제2형 당뇨(HbA1c <7) + stage III grade B 치주염 환자 24명 단일기관 맹검 RCT(SRP+오존젤 12명 vs SRP 단독 12명), 추적 6개월.
+
+양 군 모두 CAL·PPD·BOP·PI·HbA1c 유의 개선, 군간 차이 없음; 오존군에서만 방사선학적 골결손 유의 개선(RLDD 3.44→2.66 mm, p=0.008), 3개월 PPD 감소 우세(p=0.045), 술후 통증 감소(VAS p=0.017).
+
+SRP가 임상 이득의 주요 원동력; 오존젤은 초기 PPD 및 방사선 골결손에서 부가 신호를 보이지만 이 소규모 당뇨 코호트에서 군간 임상 우월성은 입증되지 않음.
 
 ## Summary
 

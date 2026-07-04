@@ -22,13 +22,21 @@ relations:
     target: zhang-2021-exercise-vs-splint-tmd-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First SR+MA (47 RCTs, n=3238) comparing patient education + self-management (ED/SM) to other non-surgical treatments for adult TMD: other interventions may modestly beat ED/SM-alone on short-term pain (SMD 0.67) and HRQoL (SMD 0.61), but no consistent superiority/inferiority overall and combining ED/SM with other tx rarely adds benefit — all very low to low certainty (0/47 RCTs at low risk of bias).
+First SR+MA (47 RCTs, n=3,238, 77% female, PROSPERO CRD42024529862) quantitatively comparing patient education and self-management (ED/SM) against other non-surgical treatments for adult temporomandibular disorders (TMD).
 
-## 한줄요약
+Other interventions may modestly exceed ED/SM-alone on short-term pain (SMD 0.67, very-low certainty) and short-term HRQoL (SMD 0.61, very-low certainty), but no consistent superiority or inferiority overall; adding active treatment to ED/SM improved only short-term HRQoL (SMD 0.50, very-low); 0 of 47 RCTs were at low risk of bias.
 
-성인 측두하악장애 (Temporomandibular Disorders, TMD)에서 환자교육·자기관리 (Education and Self-Management, ED/SM)를 다른 비수술 치료와 비교한 첫 SR+MA (47 RCT, n=3238). 단기 통증·삶의질은 다른 치료가 ED/SM 단독보다 다소 나을 수 있으나(SMD 0.67·0.61) 전반적 우열은 일관되지 않고, ED/SM에 다른 치료를 더해도 추가 이득은 대부분 없음 — 모든 근거 very low~low (저위험 RCT 0편).
+ED/SM remains a reasonable, low-cost, broadly comparable first-line option; the dominant message is methodological — trials used generic, non-individualized ED/SM (only 6% tailored) as controls, likely masking ED/SM benefit, and theory-informed individualized trials are needed.
+
+## 세줄요약
+
+성인 TMD에서 환자교육·자기관리(ED/SM)를 다른 비수술 치료와 정량 비교한 첫 SR+MA (47 RCT, n=3,238, 77% 여성, PROSPERO CRD42024529862).
+
+다른 치료가 ED/SM 단독 대비 단기 통증(SMD 0.67, very-low)·단기 삶의질(SMD 0.61, very-low)에서 다소 우위일 수 있으나 전반적 우열은 일관되지 않음; ED/SM+다른 치료가 ED/SM 단독 대비 단기 삶의질만 개선(SMD 0.50); 47 RCT 중 저위험 연구 0편.
+
+ED/SM은 저비용·광범위 적용 가능한 동등 수준 1차 옵션으로 유효; 방법론이 주요 메시지 — 대조군 ED/SM이 비개별화·비이론적(6%만 맞춤화)으로 운영돼 ED/SM 이득이 과소평가됐을 가능성 높음.
 
 ## Summary
 

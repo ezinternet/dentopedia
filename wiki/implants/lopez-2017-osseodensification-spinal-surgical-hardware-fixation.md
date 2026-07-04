@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, spinal-hardware, pullout-strength, BIC, BAFO, sheep, orthopaedics, cross-domain]
 ---
 
-## One-line Summary
-Animal study (paired-design sheep, n=12, cervical vertebrae C2–C4, 0/3/6 weeks) applying osseodensification (OD) to spinal hardware fixation: OD significantly outperformed conventional drilling on pullout strength (p<0.01), bone-to-implant contact (BIC, p<0.01), and bone area fraction occupancy (BAFO, p=0.024); an orthopaedic model proving OD principle transfer, but dental extrapolation requires caution.
+## Three-line Summary
 
-## 한줄요약
-동물 실험 (Sheep, n=12, 양측 paired, 경추 C2·C3·C4, 0/3/6주 시점) — 골밀도화 (Osseodensification, OD)가 통상 드릴링 대비 척추 hardware의 발탈강도(pullout strength)를 유의하게 높이고 (p<0.01), 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) p<0.01·골면적분율 (Bone Area Fraction Occupancy, BAFO) p=0.024로 모두 우수. 다만 정형외과/척추 hardware 모델이라 치과 임플란트로 외삽 시 별도 추론 단계가 필요.
+Paired-design animal study (n=12 sheep, bilateral placement in cervical vertebrae C2–C4, time points 0/3/6 weeks) applying osseodensification (OD) to spinal hardware fixation — the first publication of OD outside a dental context.
+
+OD significantly outperformed conventional drilling on all three outcomes: pullout strength (p<0.01), bone-to-implant contact BIC (p<0.01), and bone area fraction occupancy BAFO (p=0.024); histology showed residual bone chips in OD osteotomies acting as osteogenic nucleation sites, with a characteristic BAFO dip at 3 weeks followed by recovery by 6 weeks.
+
+This orthopaedic model establishes OD principle transferability outside dentistry and provides mechanistic histological support; the spinal vertebral context differs substantially from human edentulous alveolar ridge, so dental clinical numbers should not be extrapolated directly.
+
+## 세줄요약
+
+동물 실험 (Paired Design, Sheep, n=12, 경추 C2·C3·C4 양측 4×10 mm 고정 장치, 0/3/6주): 골밀도화 (Osseodensification, OD)를 척추 hardware 고정에 최초 적용.
+
+OD가 통상 drilling 대비 발탈강도(pullout strength, p<0.01)·골-임플란트 접촉률 (Bone-to-Implant Contact, BIC, p<0.01)·골면적분율 (Bone Area Fraction Occupancy, BAFO, p=0.024) 모두 유의하게 우수; 조직학적으로 OD 와동 내 잔존 골편이 골형성 핵생성 부위로 기능; BAFO는 3주 일시 감소 후 6주에 회복.
+
+정형외과·척추 hardware 모델로 OD 원리의 타 분야 전이성을 증명; 경추 척추체와 치과 치조골은 성분·부하가 다르므로 이 논문의 수치를 치과 임플란트에 직접 외삽해서는 안 됨.
 
 ## Summary
 Lopez et al. transferred the OD principle out of dentistry into spinal hardware fixation. In 12 sheep, paired 4 × 10 mm fixation devices were placed bilaterally in C2, C3, and C4 vertebral bodies — left side with regular drilling, right side with OD. C2 and C4 served as the t=0 time point; C3 was harvested at 3 and 6 weeks. Outcomes were pullout strength (biomechanical) and BIC% / BAFO% (histomorphometry).

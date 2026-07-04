@@ -13,11 +13,21 @@ source_collection: external
 
 2017 World Workshop workgroup 3의 공식 consensus report — 전신질환의 치주 발현, 치은퇴축(mucogingival), 교합외상, 보철·치아관련 인자를 1999 분류에서 업데이트. 교합외상 case definition [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]을 상위 분류체계에 통합하는 문서로, 치주 분류의 뼈대.
 
-## One-line Summary
+## Three-line Summary
+
 2017 World Workshop workgroup-3 consensus report updating the 1999 classification for periodontal manifestations of systemic diseases plus mucogingival conditions, traumatic occlusal forces, and prosthesis/tooth-related factors, with case definitions and diagnostic considerations.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 2017 World Workshop workgroup 3 consensus report — 전신질환의 치주 발현 + 치은점막 상태 + 외상성 교합력 + 보철·치아 관련 인자를 1999 분류에서 업데이트하고 case definition·진단기준 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Periodontol 2018;89(Suppl 1):S237–S248 (jointly in J Clin Periodontol). DOI 10.1002/JPER.17-0733.

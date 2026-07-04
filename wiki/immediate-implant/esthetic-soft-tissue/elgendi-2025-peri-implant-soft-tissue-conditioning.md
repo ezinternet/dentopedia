@@ -13,11 +13,21 @@ source_collection: external
 tags: ['CAD-CAM', 'socket sealing abutment', 'SSA', 'posterior immediate implant', 'soft tissue']
 ---
 
-## One-line Summary
-RCT comparing CAD-CAM socket sealing abutments (SSA) vs standard care at immediate posterior implant placement; the digitally designed, chairside-milled anatomical SSA achieved superior peri-implant soft tissue conditioning and emergence profile formation without flap reflection in large/irregular posterior sockets.
+## Three-line Summary
 
-## 한줄요약
-RCT: 구치부 즉시식립 시 CAD-CAM socket sealing abutment (SSA) 사용으로 점막 emergence profile 형성 — 무피판 sealing 어려운 큰 발치와에 해부학적 healing abutment 적용; 연조직 conditioning 우위 평가.
+RCT (Cairo University) comparing CAD-CAM socket sealing abutments (SSA, designed from pre-surgical CBCT and milled chairside) versus standard healing abutments for immediate posterior implant placement at anatomically irregular or large sockets.
+
+The SSA group achieved superior peri-implant soft tissue conditioning and emergence profile formation without requiring flap reflection compared to standard care.
+
+CAD-CAM SSAs offer a digital chairside solution for posterior sockets that are too large or irregular for stock healing abutments, enabling simultaneous wound sealing and anatomical emergence-profile shaping.
+
+## 세줄요약
+
+카이로대 RCT — 구치부 즉시식립 시 CBCT+스캔 기반 의장제작(chairside 밀링) CAD-CAM socket sealing abutment(SSA) vs 표준 치유지대주, 해부학적으로 크거나 불규칙한 발치와 대상.
+
+SSA군에서 무피판 조건에서도 표준 치유지대주 대비 우수한 연조직 conditioning 및 emergence profile 형성 달성.
+
+CAD-CAM SSA는 일반 healing abutment 적합이 어려운 구치부 발치와에서 창상 밀봉과 출현 윤곽 형성을 동시에 실현하는 디지털 임상 옵션이다.
 
 ## Summary
 Anatomically formed healing abutments were proposed to address large posterior extraction sockets that are hard to seal without flap reflection, irregular socket anatomy unsuitable for stock healing abutments, and high occlusal stresses precluding temporary implant-supported provisional. RCT compared CAD-CAM socket sealing abutments to standard care during immediate posterior implant placement.

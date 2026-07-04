@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[overviews/short-implant-vs-sinus-augmentation-decision]] 및 [[overviews/implant-length-selection-why-not-always-short]] 의 핵심 caveat — "single-crown(비스플린트) 환경에서 short implant 장기 생존이 떨어질 수 있다" — 의 직접 근거. 동저자의 [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]](J Dent, ≥5년)와 다른 논문으로, 이쪽은 single-crown·RCT 한정. short implant를 무조건 권하지 않는 refine 근거.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 5 RCTs finding short implants (≤6 mm) supporting single crowns in the posterior region have survival comparable to standard implants short-term but significantly poorer long-term (RR 0.94), with no MBL difference.
 
-## 한줄요약
+(incomplete)
 
-무작위대조시험(RCT) 5편 체계적 고찰·메타분석. 구치부 단일 크라운(single crown)을 지지하는 짧은 임플란트(≤6mm)는 단기 생존은 표준 임플란트와 같았으나 장기 추적에서 생존이 유의하게 낮았고(RR 0.94, p=.01) 변연골소실(MBL) 차이는 없었다 — 비스플린트 short 단일 크라운은 신중히.
+(incomplete)
+
+## 세줄요약
+
+
+무작위대조시험(RCT) 5편 체계적 고찰·메타분석.
+
+구치부 단일 크라운(single crown)을 지지하는 짧은 임플란트(≤6mm)는 단기 생존은 표준 임플란트와 같았으나 장기 추적에서 생존이 유의하게 낮았고(RR 0.94, p=.01) 변연골소실(MBL) 차이는 없었다 — 비스플린트 short 단일 크라운은 신중히.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: The Journal of Prosthetic Dentistry, Volume 124, Issue 5, P530-538, November 2020

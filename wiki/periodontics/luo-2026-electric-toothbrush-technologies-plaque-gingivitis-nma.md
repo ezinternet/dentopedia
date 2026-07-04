@@ -22,13 +22,21 @@ relations:
     target: jakubovics-2021-dental-plaque-biofilm-matrix
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Frequentist network meta-analysis (19 RCTs, 1996–2025) ranking electric toothbrush technologies: oscillating-rotating ranks first for both plaque (SUCRA 89.2%) and gingivitis (86.5%), followed by sonic > ultrasonic > other electric > manual; all electric types beat manual, with largest benefits in orthodontic patients and children and a non-significant effect in the elderly.
+Frequentist random-effects NMA (19 RCTs, 1996–2025, n=23–150 per study) ranking five toothbrush technologies (manual, oscillating-rotating, sonic, ultrasonic, other electric) for plaque and gingivitis reduction.
 
-## 한줄요약
+Oscillating-rotating ranks first for both plaque (SUCRA 89.2%; vs manual SMD −1.24, ~18% greater reduction) and gingivitis (SUCRA 86.5%; vs manual MD −0.32 on MGI 0–4 scale), with sonic, ultrasonic, and other electric following; all electric types significantly outperform manual; the ranking is consistent across short-term and longer-term strata.
 
-빈도주의 네트워크 메타분석 (19개 RCT, 1996–2025): 전동칫솔 기술 순위 — 진동회전형(oscillating-rotating)이 치면세균막(SUCRA 89.2%)·치은염(86.5%) 모두 1위, 이어 음파(sonic) > 초음파(ultrasonic) > 기타 전동 > 수동 순. 모든 전동칫솔이 수동보다 우수하며 교정 환자·소아에서 효과 최대, 노인에서는 유의하지 않음.
+Oscillating-rotating brushes are especially effective in fixed-appliance orthodontic patients and children; benefit was non-significant in the elderly (grip and dexterity limitations), and the ranking rests on limited direct electric-vs-electric head-to-head evidence with predominantly industry-sponsored studies.
+
+## 세줄요약
+
+빈도주의 무작위 효과 네트워크 메타분석 (19개 RCT, 1996–2025): 칫솔 기술 5종(수동·진동회전·음파·초음파·기타 전동) 치면세균막·치은염 감소 효과 순위화.
+
+진동회전형(oscillating-rotating)이 치면세균막(SUCRA 89.2%; 수동 대비 SMD −1.24, 약 18% 추가 감소)과 치은염(SUCRA 86.5%; 수동 대비 MD −0.32) 모두 1위; 이어 음파 > 초음파 > 기타 전동 > 수동 순; 모든 전동칫솔이 수동 대비 유의하게 우수하며 단기·장기 모두 순위 일관.
+
+진동회전형은 고정성 교정 환자·소아에서 효과 가장 크고, 노인에서는 유의하지 않음(악력·손재주 한계); 전동 간 직접 비교 근거가 제한적이며 대부분 산업 지원 연구라 순위는 잠정적.
 
 ## Summary
 

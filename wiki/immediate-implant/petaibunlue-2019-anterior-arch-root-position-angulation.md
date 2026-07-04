@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective CBCT cross-sectional study (n=98 anterior arches) showing that combining anterior arch form with Kan-class sagittal root position (SRP) predicts root-to-bone angulation better than either variable alone (p<0.05), refining IIP planning in the maxillary esthetic zone.
+## Three-line Summary
 
-## 한줄요약
-CBCT(n=98): anterior arch shape와 SRP의 조합이 root-to-bone angulation 예측력 ↑ — 단일 변수보다 두 변수 조합이 임상 의사결정에 유리.
+Retrospective CBCT cross-sectional study (n=98 anterior arches) evaluating how anterior arch form combined with Kan-class sagittal root position (SRP) relates to root-to-bone angulation in the maxillary esthetic zone.
+
+SRP carried a larger individual effect, but the combined model (SRP × arch form) significantly outperformed either variable alone (p<0.05) in predicting root-to-bone angulation.
+
+SRP classification alone is insufficient for IIP planning in the esthetic zone; integrating anterior arch form improves angulation prediction and should inform case selection decisions.
+
+## 세줄요약
+
+상악 전치부 CBCT 후향 횡단면 연구 (n=98 전치 아치): Kan-class 시상 치근 위치 (Sagittal Root Position, SRP)와 전치 아치 형태를 조합해 치근-골 각도 예측력을 평가.
+
+SRP의 단독 효과가 가장 컸으나, SRP × 아치 형태 조합 모델이 단일 변수보다 유의하게 우수한 예측력을 보였다 (p<0.05).
+
+심미 영역 즉시식립 계획 시 SRP만으로는 불충분하며, 전치 아치 형태를 함께 고려해야 치근-골 각도를 정확히 예측하고 증례 선택을 최적화할 수 있다.
 
 ## Summary
 CBCT cross-sectional study evaluating how anterior arch form combined with Kan-class SRP relates to root-to-bone angulation in the maxillary esthetic zone.

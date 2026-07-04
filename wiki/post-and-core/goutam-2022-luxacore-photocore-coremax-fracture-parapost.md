@@ -19,13 +19,21 @@ relations:
     target: izadi-2020-core-materials-fracture-resistance-parapost
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fracture-resistance study (90 mandibular premolars, 9 groups × 10): pooled FRC-post groups had significantly higher fracture load than ParaPost groups (380.1 vs 262.8 N, P<0.05), with no effect of core material — closely replicating Izadi et al. 2020.
+In-vitro fracture-resistance study (90 mandibular first premolars, 9 groups × 10) comparing FRC posts against titanium ParaPosts across three core build-up materials (Photo Core, LuxaCore, Core Max II), using 45° load to fracture.
 
-## 한줄요약
+Pooled FRC-post groups achieved significantly higher fracture loads than pooled ParaPost groups (380.1 vs 262.8 N, P=0.01); core material type had no effect within either post type.
 
-인비트로 파절저항 연구 (하악 소구치 90개, 9군×10): FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높음 (380.1 vs 262.8 N, P<0.05), core 재료 종류는 무관 — Izadi 등 2020을 근접 재현.
+This study closely replicates Izadi et al. (2020) in design and group means, so the two should be read together as one confirmed finding — fiber posts outperform metal ParaPosts regardless of which composite core is used.
+
+## 세줄요약
+
+인비트로 파절저항 연구 (하악 소구치 90개, 9군×10): FRC 포스트 vs 티타늄 ParaPost를 3종 코어 재료(Photo Core, LuxaCore, Core Max II)에서 45° 하중으로 비교.
+
+FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높고 (380.1 vs 262.8 N, P=0.01), 코어 재료 종류는 파절저항에 영향 없음.
+
+설계·결과 수치가 Izadi 등(2020)과 매우 유사하여 두 연구는 독립적 데이터셋이 아닌 동일 결론의 재현으로 해석해야 하며 — 어떤 코어 재료를 사용하더라도 섬유강화 포스트가 금속 ParaPost보다 파절저항이 높다.
 
 ## Summary
 

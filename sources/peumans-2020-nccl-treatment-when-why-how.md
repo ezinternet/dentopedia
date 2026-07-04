@@ -14,11 +14,21 @@ ingest_note: "ABSTRACT-ONLY. PubMed page capture; full text not obtained. Int J 
 ## Why Ingested
 NCCL 치료 의사결정("when/why/how")의 임상 표준 review. [[nccl/nascimento-2016-abfraction-etiology-diagnosis-treatment]]의 보존적 관리 원칙과 [[resin-bonding/peumans-2023-universal-adhesive-nccl-3year-rct]]의 술식 권고를 잇는 의사결정 프레임. 초록 기반.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review (abstract only) concluding NCCL management hinges on understanding multifactorial etiology, that adhesive composite restoration is the "last" option indicated by progression/sensitivity/esthetics, and that performance is adhesive- and operator-dependent (not composite-type-dependent).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NCCL 관리는 다인성 병인 이해가 핵심이고 접착 composite 수복은 진행·민감·심미가 있을 때의 "최후" 옵션이며, 성공은 composite 종류가 아니라 접착제와 술자에 좌우된다는 review(초록 기반).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Int J Esthet Dent 2020;15(1):16-42. PMID 31994534. KU Leuven (Van Meerbeek group). Full text behind Quintessence paywall.

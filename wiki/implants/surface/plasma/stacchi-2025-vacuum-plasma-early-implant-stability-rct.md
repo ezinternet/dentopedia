@@ -16,13 +16,21 @@ relations:
     target: pesce-2020-photo-plasma-activation-titanium-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind split-mouth RCT (24 patients, 48 implants): vacuum plasma activation immediately before insertion gave significantly higher ISQ than untreated controls at 60 and 90 days (P=0.04, P=0.03), with limited absolute difference; insertion torque unchanged (P=0.86), all 48 osseointegrated.
+Single-blind split-mouth RCT (24 patients, 48 implants): vacuum plasma activation (Plasma X Motion device) applied chairside immediately before insertion vs untreated contralateral controls, with ISQ monitored from placement through 90 days.
 
-## 한줄요약
+Plasma yielded significantly higher ISQ at 60 days (P=0.04) and 90 days (P=0.03); both arms showed the typical stability dip nadir at 21 days; insertion torque was unchanged (P=0.86) and all 48 implants osseointegrated without adverse events.
 
-단일맹검 split-mouth RCT(환자 24명, 임플란트 48개): 식립 직전 진공 플라즈마가 60·90일에 대조군보다 유의하게 높은 ISQ(P=0.04, P=0.03), 절대차는 작음. 식입토크 차이 없음(P=0.86), 48개 모두 골유착.
+The absolute ISQ difference was described as limited and the benefit emerged only at later timepoints — a real but modest effect; results are device-specific and the small n (24) warrants replication.
+
+## 세줄요약
+
+줄1: 단일맹검 split-mouth RCT(24명, 48 임플란트): 진공 플라즈마(Plasma X Motion) chairside 식립 직전 처리 vs 반대측 무처리 대조, 식립 직후~90일 ISQ 추적.
+
+줄2: 플라즈마군이 60일(P=0.04)·90일(P=0.03)에 유의하게 높은 ISQ; 양군 모두 21일 dip; 식입토크 차이 없음(P=0.86); 48개 전부 골유착·부작용 없음.
+
+줄3: ISQ 절대차는 작고 이점이 후기 시점에서만 나타남 — 실재하나 효과 크기 제한적; 장치 특이적이며 소규모(n=24)라 반복 검증 필요.
 
 ## Summary
 

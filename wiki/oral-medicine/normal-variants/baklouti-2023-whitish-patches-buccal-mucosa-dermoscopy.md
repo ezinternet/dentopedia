@@ -20,13 +20,21 @@ relations:
     target: nautiyal-2024-prevalence-keratosis-oral-cavity
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1) of a 46-year-old woman with a 2-year history of steroid-unresponsive "oral lichen planus" whose whitish lip lesions were correctly reclassified as morsicatio labiorum (habitual lip biting) using dermoscopy, which showed structureless whitish/yellowish areas, dotted-vessel erosions, and loose white scales without the pathognomonic Wickham striae of lichen planus.
+Case report (n=1; 46-year-old woman; Dermlite DL4 dermoscopy) of chronic habitual lip biting (morsicatio labiorum) misdiagnosed as oral lichen planus (OLP) for 2 years and managed unsuccessfully with topical steroids.
 
-## 한줄요약
+Dermoscopy showed structureless whitish/yellowish areas, dotted-vessel erosions, and loose easily-removable white scales — critically lacking Wickham striae (OLP's pathognomonic sign) — enabling correct reclassification and avoiding biopsy.
 
-스테로이드 치료에 반응 없이 2년간 구강편평태선으로 오진되어온 46세 여성 증례에서, 더모스코피로 Wickham striae 없는 백황색 무구조 영역·점상혈관 동반 미란·느슨한 백색 인설을 확인해 교순증(morsicatio labiorum, 습관성 입술 물기)으로 정확히 재진단한 사례.
+The case illustrates that patients are often unaware of their biting behavior; dermoscopy (mucoscopy) provides a low-cost, non-invasive pathway to distinguish morsicatio from OLP and prevent unnecessary treatment escalation.
+
+## 세줄요약
+
+2년간 구강편평태선(Oral Lichen Planus, OLP)으로 오진되어 국소 스테로이드 치료를 받았으나 효과 없던 46세 여성의 교순증(morsicatio labiorum, 습관성 입술 물기) 증례(n=1; Dermlite DL4 더모스코피).
+
+더모스코피에서 백황색 무구조 영역·점상혈관 미란·느슨한 백색 인설 확인 — OLP 특이 소견인 Wickham striae 부재가 결정적 감별 근거; 조직검사 없이 정확한 재진단.
+
+환자가 물기 습관을 인식하지 못하는 경우가 많음; 더모스코피(구강경)는 morsicatio와 OLP를 비침습적으로 감별해 불필요한 치료 단계적 확대를 예방하는 저비용 경로 제공.
 
 ## Summary
 

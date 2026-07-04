@@ -17,13 +17,23 @@ text_filename: rathke-2024-ex-vivo-minimally-invasive-endodontic.txt
 
 The wiki's shaping category has no direct ex vivo test of the widely repeated clinical claim that minimally invasive endodontic (MIE) shaping (smaller apical sizes/tapers) protects against vertical root fracture (VRF) — most existing shaping pages address cyclic fatigue of NiTi files or unprepared canal surface area, not post-obturation fracture resistance. This paper directly tests that assumption with a well-powered (n=18/group, power=0.9) chewing-simulation model and finds it does NOT hold, which is a counterintuitive negative result worth flagging against the intuitive "shape less to preserve strength" heuristic. It complements [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]], which argues from the opposite direction (under-instrumented canals leave biofilm untouched) — together the two papers frame the MIE shaping tradeoff as one where minimal shaping buys neither a fracture-resistance benefit (this paper) nor a guaranteed disinfection benefit (Siqueira 2018), undercutting a purely mechanical rationale for minimal shaping.
 
-## One-line Summary
+## Three-line Summary
 
-Ex vivo study (n=18/group, 6 groups) on extracted human maxillary central incisors found that minimally invasive endodontic (MIE) canal shaping (#40/.04) did not significantly reduce vertical root fracture (VRF) incidence or crack formation compared to conventional enlargement (ISO #80) after chewing simulation, regardless of sealer type (cement-based vs. adhesive resin-based); VRF resistance was in fact significantly lower in the +MIE/cement-sealer group than in untreated controls (p=0.020).
 
-## 한줄요약
+Ex vivo study (n=18/group, 6 groups) on extracted human maxillary central incisors found that minimally invasive endodontic (MIE) canal shaping (#40/.04) did not significantly reduce vertical root fracture (VRF) incidence or crack formation compared to conventional enlargement (ISO #80) after chewing simulation, regardless of sealer type (cement-based vs.
+
+adhesive resin-based);
+
+VRF resistance was in fact significantly lower in the +MIE/cement-sealer group than in untreated controls (p=0.020).
+
+## 세줄요약
+
 
 발치된 상악 중절치를 이용한 ex vivo 연구(그룹당 n=18, 총 6군)에서 최소침습 근관치료(minimally invasive endodontic treatment, MIE, #40/.04 성형)는 기존 확대(ISO #80)에 비해 저작 시뮬레이션 후 수직치근파절(vertical root fracture, VRF) 발생률이나 균열 형성을 유의하게 줄이지 못했으며(실러 종류와 무관), 오히려 +MIE/시멘트 실러 군의 VRF 저항성은 무처치 대조군보다 유의하게 낮았다(p=0.020).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

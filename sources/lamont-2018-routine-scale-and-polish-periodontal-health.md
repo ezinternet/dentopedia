@@ -19,13 +19,23 @@ text_filename: lamont-2018-routine-scale-and-polish-periodontal-health.txt
 
 "Oral prophylaxis" (routine scale & polish / professional mechanical plaque removal) 요청으로 인제스트한 코어 근거. 기존 [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] recall-interval 논의와 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]]의 base evidence를 보강한다 — 이 Cochrane SR+MA는 건강한 성인에서 정기 스케일링·폴리싱이 치은염·probing depth에 임상적 이득이 없다는 high-certainty 근거로, "저위험 성인의 루틴 프로필락시스" 관행에 대한 최상위 근거다. Abstract-only(PMC full_text 빈 body)로 구조화 초록 기반 작성.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cochrane systematic review + meta-analysis (2 RCTs, n=1711, UK general practice) finding that routine scale & polish makes little or no difference to gingivitis, probing depths, or oral-health-related quality of life over 2–3 years in adults without severe periodontitis (high-certainty), with only a small, clinically uncertain reduction in calculus.
 
-## 한줄요약
+(incomplete)
 
-중증 치주염이 없는 정기 내원 성인에서 루틴 스케일링·폴리싱(프로필락시스)이 치은염·치주낭 깊이·삶의 질에 2~3년간 거의 차이를 만들지 않는다는 코크란 SR+MA(RCT 2편, 1711명); 치석만 소폭 감소하나 임상적 의미는 불확실.
+(incomplete)
+
+## 세줄요약
+
+
+중증 치주염이 없는 정기 내원 성인에서 루틴 스케일링·폴리싱(프로필락시스)이 치은염·치주낭 깊이·삶의 질에 2~3년간 거의 차이를 만들지 않는다는 코크란 SR+MA(RCT 2편, 1711명);
+
+치석만 소폭 감소하나 임상적 의미는 불확실.
+
+(incomplete)
 
 ## 1. Document Information
 

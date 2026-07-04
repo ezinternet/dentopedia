@@ -10,7 +10,7 @@ pdf_filename: moore-2015-single-dose-oral-analgesics-cochrane-overview.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cochrane overview of Cochrane reviews on single-dose oral analgesics for acute postoperative pain — 메타-메타분석으로 약물별 NNT (number needed to treat) 비교. Ibuprofen 400mg + APAP 1000mg 최저 NNT (~1.5); 단독 APAP·codeine·tramadol NNT 4-5.
 
 ## 1. Document Information

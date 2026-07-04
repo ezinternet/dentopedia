@@ -14,11 +14,21 @@ source_collection: external
 tags: [BoNT-A, bruxism, overview, AMSTAR-2, methodological-quality, bite-force, sleep-bruxism]
 ---
 
-## One-line Summary
-Overview of 14 systematic reviews of BoNT-A for bruxism: although most SRs report reduced pain (10/14), bruxism event frequency (7/14), and maximum bite force (5/14), 13/14 SRs score AMSTAR-2 "critically low" with high primary-study overlap (CCA = 10.11%), so evidence-based recommendations cannot be supported.
+## Three-line Summary
 
-## 한줄요약
-14개 SR overview — BoNT-A는 통증·이갈이 빈도·교합력 감소 보고 다수지만 13/14가 AMSTAR-2 "critically low", CCA 10.11% 중복 — 결론 단정 불가.
+Overview of systematic reviews (14 SRs, 461 database + 196 grey-literature references screened, June 2024, Brazilian UFSC group) applying AMSTAR-2 quality assessment and corrected covered area (CCA) overlap analysis to the SR base for BoNT-A in bruxism.
+
+Although most SRs report BoNT-A reduces pain (10/14), bruxism event frequency (7/14), and maximum bite force (5/14), 13 of 14 SRs scored "critically low" on AMSTAR-2 (none reached moderate or high), with high primary-study overlap (CCA = 10.11%) and 0 of 14 SRs using GRADE successfully.
+
+The evidence base for BoNT-A in bruxism is dominated by critically low-quality systematic reviews, meaning no evidence-based clinical recommendation can currently be supported and BoNT-A should be discussed alongside splints, behavioral therapy, and pharmacological options.
+
+## 세줄요약
+
+줄1: 브럭시즘 BoNT-A SR 총람 (14개 SR, 461건 DB + 196건 회색문헌 스크리닝, 2024년 6월, 브라질 UFSC 팀) — AMSTAR-2 질 평가 + CCA 중복 분석.
+
+줄2: 대부분 SR이 BoNT-A의 통증(10/14)·이갈이 빈도(7/14)·교합력(5/14) 감소 보고; 그러나 13/14가 AMSTAR-2 "critically low"(중등도 이상 없음), CCA 10.11% "고중복", GRADE 성공 SR 0개.
+
+줄3: 브럭시즘 BoNT-A SR 기반의 질 위기 — 근거 기반 임상 권고 불가, 환자 상담 시 교합안정장치·행동치료·약물치료와 함께 제시해야.
 
 ## Summary
 This Brazilian UFSC-led overview of 14 systematic reviews on BoNT-A for bruxism finds a methodological-quality crisis: 13 of 14 SRs score "critically low" on AMSTAR-2 and only one scores "low" (none reach moderate or high). Despite the majority of SRs reporting BoNT-A reduces pain (10/14), bruxism event frequency (7/14), and maximum bite force (5/14), the authors caution that the underlying SR methodology is too weak — with high overlap (CCA = 10.11%) of the same primary studies — to support evidence-based recommendations. None of the SRs effectively assessed BoNT-A's effect on functional movements.

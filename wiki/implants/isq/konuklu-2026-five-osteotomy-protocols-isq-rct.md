@@ -13,11 +13,21 @@ source_collection: external
 tags: [ISQ, osteotomy, osseodensification, bone-condensation, drilling-speed, primary-stability, RCT]
 ---
 
-## One-line Summary
-Five-group parallel RCT (n=100, 20/group; 800/300/50 rpm, osseodensification, bone condensation) with 3-month ISQ trajectory: moderate-speed 300 rpm achieved the highest ISQ at T4 (p<0.05), high-speed 800 rpm gave the highest initial insertion torque in dense bone, osseodensification showed only transient mid-healing ISQ gains, and bone condensation showed progressive ISQ decline.
+## Three-line Summary
 
-## 한줄요약
-RCT (n=100, 5개 골형성 프로토콜, 3개월 추적): 중속 드릴링(300rpm)이 T4 최고 ISQ; 고속(800rpm)이 고밀도골에서 최고 삽입토크; 골밀도화(OD)는 중간 치유기 일시적 ISQ 상승(유지 안됨); 골농축(bone condensation)은 ISQ 점진적 하락 (CIDRE 2026).
+Five-group parallel RCT (n=100, 20/group) comparing high-speed (800 rpm), moderate-speed (300 rpm), ultra-low-speed (50 rpm), osseodensification, and bone condensation osteotomy protocols with ISQ measured at five time points over 3 months.
+
+Moderate-speed 300 rpm achieved the highest ISQ at T4 (Bonferroni p<0.05); 800 rpm gave the highest initial insertion torque in dense bone; osseodensification showed only transient mid-healing ISQ gains without sustained advantage; bone condensation produced progressive ISQ decline and was the least favorable protocol.
+
+Moderate-speed 300 rpm drilling is the optimal protocol for long-term implant stability; bone condensation should be used with caution due to its progressive stability decline over 3 months.
+
+## 세줄요약
+
+5개 병렬군 무작위대조시험 (n=100, 군당 20명): 고속(800rpm), 중속(300rpm), 초저속(50rpm), 골밀도화(osseodensification, OD), 골농축(bone condensation) 오스테오토미 프로토콜을 3개월간 임플란트 안정성 지수(Implant Stability Quotient, ISQ)로 비교하였다.
+
+중속 300rpm이 T4에서 최고 ISQ(Bonferroni p<0.05); 고속 800rpm은 고밀도골에서 최고 삽입 토크(insertion torque, IT); 골밀도화(OD)는 치유 중반 일시적 ISQ 상승 후 유지 안됨; 골농축은 ISQ 점진적 하락으로 가장 불리한 프로필을 보였다.
+
+장기 임플란트 안정성을 위해서는 중속 드릴링(300rpm)이 최적 프로토콜이며, 골농축 방식은 3개월 이내 안정성 저하 위험이 있어 신중히 사용해야 한다.
 
 ## Summary
 Five-group parallel RCT (n=20/group, 100 total) comparing high-speed (800 rpm), moderate-speed (300 rpm), ultra-low-speed (50 rpm), osseodensification, and bone condensation osteotomy protocols on ISQ trajectory over 3 months. All patients received identical macrodesign implants. IT recorded at placement; ISQ measured at T0–T4 (placement through 3 months). Moderate-speed 300rpm demonstrated the highest ISQ at T4 (Bonferroni p<0.05). High-speed 800rpm yielded highest initial IT especially in dense bone, but not best long-term ISQ. Osseodensification showed transient mid-healing ISQ gains without sustained advantage. Bone condensation showed progressive ISQ decline. All groups: mean IT>30 Ncm, baseline ISQ>80. Postoperative anxiety (VAS): osseodensification = highest residual anxiety; bone condensation = greatest anxiety reduction.

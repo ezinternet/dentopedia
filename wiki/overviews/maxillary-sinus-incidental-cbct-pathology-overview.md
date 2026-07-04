@@ -25,13 +25,21 @@ source: synthesis
 > - 트리아지(triage) 원칙: (1) 점막비후 <2-3mm 또는 국소·경도 → 그대로 진행, (2) MRC·용종 등 dome-shaped 병변 → 크기·증상 기반 stratification(별도 overview 참조), (3) Antrolith·불명확 방사선불투과성 병변 → 감별진단 우선, 무증상 소형은 진행 가능하나 조직학적 확인 고려, (4) 전체 혼탁화·부비동염 증상·구조 이상(구강상악동루 등) → ENT 협진 필수.
 > - 본 페이지는 [[overviews/sinus-lift-pseudocyst-mrc-overview]](낭종 처치 결정 트리, 별도)와 상보적 — 그쪽은 낭종/MRC의 처치 옵션을, 본 페이지는 CBCT 소견 전체 스펙트럼의 유병률과 상악동석을 다룸.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 papers (2 CBCT prevalence studies, n=140 and n=1,000, and 2 antrolith case reports) mapping the full spectrum of incidental maxillary sinus pathology found on pre-implant/pre-sinus-lift CBCT — mucosal thickening is by far the most common finding (31.4–47% depending on threshold), followed by retention cysts (17.1%) and minor findings (opacification, polypoidal thickening); antroliths are rare (0.15–3.2%) but occupy a distinct clinical spectrum from asymptomatic incidental (Tan 2020, 3.1×3.6mm) to symptomatic complicated (Shenoy 2013, 2×1cm with recurrent sinusitis and oroantral fistula), yielding a triage framework of proceed-as-planned vs. workup/ENT-referral.
+Synthesis of 4 papers (2 retrospective CBCT prevalence studies, n=140 and n=1,000, and 2 antrolith case reports) mapping incidental maxillary sinus pathology in implant/sinus-lift candidates: overall pathology prevalence is 63.5–68% (threshold-dependent), mucosal thickening dominates (31.4–47%), followed by mucous retention cysts (17.1%), while antroliths are rare (0.15–3.2%, female-predominant) but span from asymptomatic incidental (Tan 2020, 3.1×3.6 mm, observe) to symptomatic large-with-complications (Shenoy 2013, 2×1 cm, recurrent sinusitis and oroantral fistula requiring Caldwell-Luc/ESS).
 
-## 한줄요약
+Mucosal thickening is significantly associated with odontogenic causes (periodontal disease/periapical lesions) on logistic regression (Küçükkurt 2025), implying the dentist can identify and treat the underlying cause; the two prevalence studies use different thresholds (>5 mm vs >3 mm) and are not directly comparable, so any quoted prevalence figure must be qualified by the cutoff used.
 
-임플란트·상악동거상술 전 CBCT에서 우연히 발견되는 상악동 병변 스펙트럼 종합(유병률 연구 2편 n=140/1,000 + 상악동석 증례 2편). 점막비후가 가장 흔하고(31.4-47%, 기준값에 따라 차이), 점액저류낭종(17.1%)이 두 번째. 상악동석은 드물지만(0.15-3.2%) 무증상 소형(Tan 2020)부터 증상성 대형(Shenoy 2013, 재발성 부비동염+구강상악동루)까지 스펙트럼이 넓어, "그대로 진행 vs ENT 협진"을 가르는 트리아지 프레임워크 제시.
+The triage principle is: mild/focal mucosal thickening (<2–3 mm) → proceed as planned; dome-shaped retention cysts/polyps → size/symptom stratification (see separate pseudocyst overview); antrolith or other radiopaque lesion → differential diagnosis first, symptomatic/large → surgery, asymptomatic/small → observe (not an absolute implant contraindication); complete opacification/sinusitis symptoms/structural anomaly → ENT referral mandatory.
+
+## 세줄요약
+
+임플란트·상악동거상술 전 CBCT 우연 발견 상악동 병변 4편 종합(후향 CBCT 유병률 연구 2편 n=140/1,000 + 상악동석 증례 2편): 전체 유병률 63.5–68%(기준값 의존), 점막비후(Mucosal Thickening, MT)가 가장 흔함(31.4–47%), 점액저류낭종 17.1%가 두 번째, 상악동석(Antrolith)은 드물지만(0.15–3.2%) 무증상 소형(관찰 가능)에서 증상성 대형(재발성 부비동염·구강상악동루, 수술 필요)까지 스펙트럼 넓음.
+
+점막비후는 치주골소실·치근단병소와 유의하게 연관(로지스틱 회귀, Küçükkurt 2025) — 치과의사가 원인 치료 가능; 두 유병률 연구는 임계값이 다르고(>5 mm vs >3 mm) 직접 비교 불가능하므로 수치 인용 시 반드시 임계값 명시.
+
+트리아지 원칙: 경도·국소 점막비후 → 그대로 진행; dome-shaped 낭종/용종 → 크기·증상별 층화(별도 pseudocyst overview); 상악동석·불명확 방사선불투과 병변 → 감별진단 우선, 증상성 대형 → 수술·무증상 소형 → 경과관찰; 전체 혼탁화·부비동염 증상 → ENT 협진 필수.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: loper-2025-prophylactic-antibiotics-infective-endocarditis-dental
 
 기존 [[wiki/drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]]는 성인 위주 SR+MA(고위험군 pooled RR 0.41)였으나, 선천성 심장질환(CHD)을 가진 **소아** 환자에서 치과 시술 전 예방적 항생제가 IE를 예방하는지에 대한 별도 SR이 없었음. 본 SR(Loper 2025)은 소아 CHD에 특화된 최초 SR로, GRADE 근거가 매우 낮아 권고 근거가 취약함을 공식 확인한다는 점에서 보완적 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review of 3 case-control studies (n up to 24,729 CHD children) found very low GRADE evidence that antibiotic prophylaxis prevents infective endocarditis (OR 3.63, ns) or bacteremia (OR 0.24, p<0.05) after dental procedures in pediatric congenital heart disease.
 
-## 한줄요약
+(incomplete)
 
-선천성 심장질환(Congenital Heart Disease, CHD) 소아 환자 대상 체계적 문헌고찰(3편 증례-대조연구) — 치과 시술 전 예방적 항생제(Antibiotic Prophylaxis, AP)가 감염성 심내막염(Infective Endocarditis, IE) 예방에 효과적이라는 근거 매우 낮음(GRADE ⊕◯◯◯); 균혈증(bacteremia) 감소에는 유효(OR 0.24, p<0.05)하나 역시 매우 낮은 근거.
+(incomplete)
+
+## 세줄요약
+
+
+선천성 심장질환(Congenital Heart Disease, CHD) 소아 환자 대상 체계적 문헌고찰(3편 증례-대조연구) — 치과 시술 전 예방적 항생제(Antibiotic Prophylaxis, AP)가 감염성 심내막염(Infective Endocarditis, IE) 예방에 효과적이라는 근거 매우 낮음(GRADE ⊕◯◯◯);
+
+균혈증(bacteremia) 감소에는 유효(OR 0.24, p<0.05)하나 역시 매우 낮은 근거.
+
+(incomplete)
 
 ## 1. Document Information
 

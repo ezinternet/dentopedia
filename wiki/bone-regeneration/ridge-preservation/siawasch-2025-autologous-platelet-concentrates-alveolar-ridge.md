@@ -16,13 +16,21 @@ relations:
     target: couso-queiruga-2021-post-extraction-dimensional-changes-systematic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR with meta-analyses of 35 papers (33 RCTs; PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally accelerate soft-tissue healing, reduce post-extraction pain, and lessen ridge resorption versus unassisted healing, though high heterogeneity limits strong conclusions.
+SR with meta-analyses (Periodontology 2000, 35 papers / 33 RCTs; PRP, PRGF, L-PRF family) evaluating autologous platelet concentrates (APC) used as the sole biomaterial in alveolar ridge preservation (ARP), stratified by surgical approach.
 
-## 한줄요약
+APC alone versus unassisted healing consistently produced faster soft-tissue healing, less post-extraction pain, reduced ridge resorption, more bone fill, and higher bone density; referenced baseline benchmarks: horizontal resorption ~2.7 mm (95% CI 2.4–3.1), vertical ~1.7 mm (95% CI 1.3–2.1).
 
-35편(33 RCT; PRP·PRGF·L-PRF)의 SR+MA로, 치조제보존술에서 자가혈소판농축물(APC) 단독 사용이 미처치 자연치유 대비 연조직 치유 가속·발치 후 통증 감소·치조제 흡수 완화 경향을 보였으나, 높은 이질성으로 강한 결론은 제한적이다.
+APC versus other biomaterials remains inconclusive due to sparse comparative literature, and high heterogeneity across preparation methods and surgical approaches limits definitive recommendations.
+
+## 세줄요약
+
+체계적 문헌고찰·메타분석 (Periodontology 2000, 35편/33 RCT; 혈소판풍부혈장 (Platelet-Rich Plasma, PRP)·혈소판풍부성장인자 (Platelet-Rich in Growth Factors, PRGF)·L-PRF): 자가혈소판농축물 (Autologous Platelet Concentrate, APC) 단독 치조제 보존술 (Alveolar Ridge Preservation, ARP) 효과를 술식별로 층화 분석.
+
+APC 단독 vs 자연치유: 연조직 치유 가속·발치 후 통증 감소·치조제 흡수 완화·골충전 증가·골밀도 향상 일관 관찰; 참조 baseline: 수평 흡수 ~2.7 mm (95% CI 2.4–3.1), 수직 ~1.7 mm (95% CI 1.3–2.1).
+
+APC vs 타 생체재료 비교는 문헌 부족으로 결론 불충분; 제조 방법·술식 이질성이 커 강한 권고를 내리기 어렵다.
 
 ## Summary
 

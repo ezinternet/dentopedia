@@ -46,12 +46,21 @@ relations:
 > - 임플란트: 항흡수제 시작 **후** 식립 시 실패율 23%, 실패의 83%가 MRONJ (Li 2024 SR, 445개). 평균 잠복기 34개월, 후방 하악이 최다 부위 → 신규 식립은 매우 신중·case-by-case.
 > - 한국 종설 anchor: Choi/JKDA 2022 (BMA 환자 implant 결정 4단계 framework, cut-off RCT 부재), Kim 2026 (골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나 장기 생존율 82.6–94.1%로 하락 — MRONJ 저위험이 장기 성공을 보장하지 않음).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antiresorptive-drug dental management. Core thesis: the first prevention strategy is dental clearance BEFORE starting antiresorptive therapy; once started, avoid extractions, use minimally invasive technique, antibiotic prophylaxis, and regular follow-up. Clinical takeaway: denosumab risk is driven by cumulative dose (MRONJ surges at ≥32 doses), AAOMS 2022 expands surgical treatment to all stages and drops the drug-holiday recommendation, the Korean 2025 position statement codifies drug-specific holidays, and implants placed after antiresorptive initiation carry ~23% failure (83% MRONJ-related) so new placement must be case-by-case.
+Synthesis of 14 papers (SR, position papers, cohorts, narrative) on MRONJ/antiresorptive dental management: dental clearance BEFORE starting antiresorptive therapy is the most effective prevention (Baghalipour 2025 4-tier framework); denosumab risk is cumulative-dose-driven — MRONJ 31.2% at ≥32 doses in breast-cancer bone metastasis cohort (Yokoo 2025, ROC AUC 0.83); extraction history OR 4.40, each additional dose adds 4.7% odds; AAOMS 2022 expands surgical treatment to all stages (1–3) and drops the drug-holiday and CTX-testing recommendations (Kwon 2023).
 
-## 한줄요약
-약물관련악골괴사 (Medication-Related Osteonecrosis of the Jaw, MRONJ) 예방의 1차 전략은 항흡수제 시작 **전** 치과 클리어런스. 시작 후에는 발치 회피·최소침습·항생제 prophylaxis·정기 추적. Denosumab은 누적 dose가 위험 지표 (≥32 doses에서 위험 급증).
+Korean 2025 position statement (Kim 2025, 5 societies) codifies drug-specific pre-procedural holidays: oral BP extended use → 2-month holiday; IV zoledronate → 6–12-month holiday; denosumab → 3–4 months after last injection; 8-week diagnostic criterion relaxed; Korean national cohort (n=600,000) MRONJ incidence: oral BP 0.10%, denosumab 60 mg 0–0.18%; Xgeva (high-dose denosumab) vs Prolia (60 mg) treatment success 53.8% vs 85.0% (p=0.027; Cho 2026, n=178).
+
+Implants placed after antiresorptive initiation carry 23% failure (83% MRONJ-related; Li 2024 SR, 445 implants, mean latency 34 months, posterior mandible most common site) — new implant placement requires case-by-case judgment; pre-extraction antibiotic prophylaxis: single preoperative amoxicillin 500 mg = 3-day course for low-risk patients (Iwata 2025, n=160) — minimizes AMR; 1st-line post-extraction analgesia preference is acetaminophen over NSAIDs (avoid NSAID/COX-2 inhibitors in all antiresorptive patients — osseointegration/healing risk).
+
+## 세줄요약
+
+약물관련악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) 14편 통합: 예방 1차 전략은 항흡수제 시작 전 치과 클리어런스(Baghalipour 2025 4단계 프레임워크); 데노수맙(Denosumab) 위험은 누적 용량 의존 — 유방암 골전이 코호트 ≥32회 시 MRONJ 31.2%(Yokoo 2025 ROC AUC 0.83); 발치력 OR 4.40; 미국구강악안면외과학회(AAOMS) 2022는 수술 치료를 전 병기로 확대, 약물 중단(drug holiday)·CTX 검사 권고 삭제(Kwon 2023).
+
+한국 2025 포지션 스테이트먼트(Kim 2025, 5개 학회): 경구 비스포스포네이트(Bisphosphonate, BP) 장기 사용 2개월·정맥 졸레드로네이트(zoledronate) 6–12개월·데노수맙 마지막 주사 3–4개월 후 침습 시술; 한국 전국 코호트(60만명) 경구 BP 0.10%·데노수맙 60mg 0–0.18%; Xgeva vs Prolia 치료 성공률 53.8% vs 85.0%(p=0.027; Cho 2026 n=178).
+
+항흡수제 시작 후 식립 임플란트 실패율 23%, 실패의 83%가 MRONJ(Li 2024 SR 445개, 평균 잠복기 34개월, 후방 하악 최다) — 신규 식립은 case-by-case; 발치 전 예방적 항생제: 저위험군 단일 술전 아목시실린 500mg = 3일 코스와 동등(Iwata 2025 n=160); 술후 진통은 아세트아미노펜 우선, NSAID/COX-2 억제제 회피(골유착·치유 저해).
 
 ---
 

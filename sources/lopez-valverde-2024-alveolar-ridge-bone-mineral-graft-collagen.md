@@ -9,7 +9,7 @@ pdf_filename: lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Bioengineering 2024;11:565: SR+MA (12 studies); bone mineral graft + collagen membrane vs spontaneous healing — trend for preservation but no statistical significance (p>0.05); high heterogeneity I²>75%; more RCTs needed.
 
 ## 1. Key Results

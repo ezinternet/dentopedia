@@ -13,13 +13,23 @@ source_collection: external
 
 Part of a recent GBR / ridge-preservation collection. This multicentre RCT directly compares two graft+membrane systems (demineralized allograft + cross-linked membrane vs DBBM-collagen + native bilayer membrane) for ridge preservation of dehisced sockets — a head-to-head that strengthens the ridge-preservation evidence in [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] and [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Multicentre RCT (40 subjects, 10 centres) of ridge preservation in posterior sockets with substantial buccal dehiscence: DBBM-collagen + native bilayer collagen membrane preserved ~1.76 mm more horizontal ridge at 6 months (p=0.0256) and gave better early soft-tissue closure than demineralized allograft + cross-linked membrane.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 협측 열개가 큰 구치부 발치와 치조제보존 다기관 RCT(40명, 10기관): DBBM-콜라겐 + 천연 이중층 콜라겐막이 6개월 수평 치조제를 약 1.76 mm 더 보존했고(p=0.0256) 탈회동종골 + 교차결합막보다 초기 연조직 봉합도 우수했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

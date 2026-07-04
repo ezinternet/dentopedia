@@ -16,13 +16,21 @@ text_filename: de-geus-2025-at-home-vs-in-office-bleaching.txt
 
 치아미백 (Tooth Whitening, 미백)은 위키에 전용 페이지가 0개인 GAP였다. 본 2025 갱신 SR+MA (32 studies)는 자가미백 (at-home) vs 진료실미백 (in-office)의 효능·민감도를 직접 비교하는 anchor 근거로, 새 `tooth-whitening` 카테고리의 기준점이 된다. 미백 후 민감도는 [[overviews/dentin-hypersensitivity-overview]]의 상아질 과민증 기전과 직결된다. abstract-only — full text not retrieved.
 
-## One-line Summary
+## Three-line Summary
 
-Updated SR+MA (32 RCTs, 23 in meta-analysis) — at-home and in-office bleaching achieve equivalent shade change (ΔSGU, no difference); at-home shows significantly lower sensitivity intensity and slightly greater ΔE, but evidence quality is low.
+Updated SR+MA (32 RCTs qualitative, 23 in meta-analysis; GRADE-assessed) comparing at-home (tray-based carbamide/hydrogen peroxide) vs in-office (high-concentration HP, chairside) vital tooth bleaching in adults.
 
-## 한줄요약
+Shade change was equivalent between methods (ΔSGU SMD 0.04, P=0.68); at-home produced significantly lower sensitivity intensity (SMD −0.78, P=0.04) and slightly greater ΔE color change (SMD 0.49, P=0.006); sensitivity risk did not differ (RR 0.82, P=0.19); overall evidence certainty was low (GRADE).
 
-업데이트 SR+MA (RCT 32편) — 자가미백과 진료실미백의 색조 단위 변화(ΔSGU)는 동등하고, 자가미백이 민감도 강도는 더 낮고 ΔE는 약간 더 큰 경향이나 근거 수준은 낮음.
+At-home bleaching delivers equivalent or slightly better whitening than in-office with less sensitivity — the key clinical trade-off is patient compliance and treatment duration, not efficacy.
+
+## 세줄요약
+
+갱신 SR+MA(RCT 32편 질적, 23편 메타분석; GRADE 적용): 성인의 자가미백(트레이·CP/HP) vs 진료실미백(고농도 HP, 술자 도포) 비교.
+
+색조 변화는 동등(ΔSGU SMD 0.04, P=0.68); 자가미백이 민감도 강도 유의 낮음(SMD −0.78, P=0.04)·ΔE 색차 약간 더 큼(SMD 0.49, P=0.006); 민감도 발생 위험은 차이 없음(RR 0.82, P=0.19); 전체 근거 수준 낮음(GRADE).
+
+자가미백은 진료실미백 대비 동등 이상의 효능에 민감도는 낮음 — 임상적 선택 핵심은 효능이 아닌 환자 순응도와 치료 기간.
 
 ## 1. Document Information
 

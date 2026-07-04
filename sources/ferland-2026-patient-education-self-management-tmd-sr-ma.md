@@ -17,13 +17,23 @@ text_filename: ferland-2026-patient-education-self-management-tmd-sr-ma.txt
 
 기존 [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]]와 [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]]는 splint·exercise 같은 능동 치료에 초점을 두지만, 환자교육·자기관리 (Education and Self-Management, ED/SM)가 이들 대비 어느 위치에 서는지는 정량 합성이 없었다. 본 SR+MA (Ferland 2026, JOR)는 ED/SM을 비수술 치료와 직접 비교한 첫 메타분석으로, TMD 1차 보존치료 의사결정 트리에서 "교육만으로 충분한가"를 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 First SR+MA (47 RCTs, n=3238) comparing patient education + self-management (ED/SM) to other non-surgical treatments for adult TMD: other interventions may beat ED/SM-alone on short-term pain (SMD 0.67) and HRQoL (SMD 0.61), but no consistent superiority/inferiority overall — all very low to low certainty (no RCT at low risk of bias).
 
-## 한줄요약
+(incomplete)
 
-성인 측두하악장애 (Temporomandibular Disorders, TMD)에서 환자교육·자기관리 (ED/SM)를 다른 비수술 치료와 직접 비교한 첫 SR+MA (47 RCT, n=3238). 단기 통증·삶의질은 다른 치료가 ED/SM 단독보다 나을 수 있으나(SMD 0.67·0.61) 전반적으로 우열은 일관되지 않으며 모든 근거가 very low~low (저위험 RCT 0편).
+(incomplete)
+
+## 세줄요약
+
+
+성인 측두하악장애 (Temporomandibular Disorders, TMD)에서 환자교육·자기관리 (ED/SM)를 다른 비수술 치료와 직접 비교한 첫 SR+MA (47 RCT, n=3238).
+
+단기 통증·삶의질은 다른 치료가 ED/SM 단독보다 나을 수 있으나(SMD 0.67·0.61) 전반적으로 우열은 일관되지 않으며 모든 근거가 very low~low (저위험 RCT 0편).
+
+(incomplete)
 
 ## 1. Document Information
 

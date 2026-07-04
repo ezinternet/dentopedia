@@ -13,11 +13,19 @@ source_collection: external
 tags: [matrixome, EPS, biofilm-matrix, exopolysaccharides, eDNA, cross-kingdom, S-mutans, C-albicans, virulence]
 ---
 
-## One-line Summary
-Perspective review coining and defining 'matrixome' — the full inventory of EPS components (polysaccharides, proteins, eDNA/eRNA, lipids, biogenic minerals) across model mono- and polymicrobial biofilms — and advocating matrixome-targeted combinatorial antibiofilm strategies.
+## Three-line Summary
+Perspective review (Trends in Microbiology) coining the term "matrixome" — the full inventory of extracellular polymeric substances across model biofilm organisms — and systematically cataloguing EPS components (polysaccharides, proteins, eDNA/eRNA, lipids, biogenic minerals) across B. subtilis, S. aureus, S. mutans, P. aeruginosa, V. cholerae, and C. albicans.
 
-## 한줄요약
-Perspective review: 바이오필름 EPS 전체를 'matrixome'으로 정의하고 polysaccharides·proteins·eDNA·lipids·biogenic minerals의 구조·기능적 다양성을 총괄 — 표적 항바이오필름 복합 전략 제안.
+A pivotal finding is that S. mutans Gtfs adsorb to non-Gtf-producing organisms (A. viscosus, L. casei, C. albicans), converting them into de facto glucan producers — a key mechanism of cross-species and cross-kingdom cariogenic biofilm assembly; a conserved three-phase matrix assembly model (surface EPS → 3D expansion → microcolony scaffold) is documented across diverse biofilm formers.
+
+Polymicrobial biofilm EPS is critically under-studied, and matrixome-targeted combinatorial anti-biofilm strategies — targeting multiple EPS components simultaneously — are advocated as the most promising therapeutic direction.
+
+## 세줄요약
+Trends in Microbiology에 게재된 Perspective review로, 바이오필름 세포외 고분자 전체를 'matrixome'으로 정의하고 B. subtilis·S. aureus·S. mutans·P. aeruginosa·V. cholerae·C. albicans에 걸쳐 다당류·단백질·eDNA/eRNA·지질·생체광물(Biogenic mineral) 성분을 체계적으로 목록화.
+
+핵심 발견: S. mutans Gtf가 비-Gtf 생성 균종(A. viscosus, L. casei, C. albicans) 표면에 흡착해 이들을 글루칸 생성체로 전환 — 종간·왕국간(Cross-kingdom) 우식성 바이오필름 조립의 핵심 기전; 표면 EPS → 3D 확장 → microcolony scaffold의 3단계 기질 조립 모델이 다양한 바이오필름 형성균에서 보존.
+
+다균종 바이오필름 EPS가 심각하게 연구 부족하며, 여러 EPS 성분을 동시 표적화하는 matrixome 기반 복합 항바이오필름 전략을 가장 유망한 치료 방향으로 제안.
 
 ## Summary
 Karygianni et al. introduce the term 'matrixome' — adapted from the eukaryotic 'matrisome' — to denote the entire inventory of extracellular polymeric substances (EPS) associated with biofilm assembly, physico-chemical properties, and virulence. The review systematically catalogues EPS components across major model organisms: S. mutans glucans/fructans and Gtf/Ftf enzymes; P. aeruginosa Psl/Pel/alginate; V. cholerae VPS; C. albicans mannans/β-glucans; biogenic minerals (CaCO3 in B. subtilis, Mycobacterium). A pivotal finding highlighted is that S. mutans Gtfs bind non-Gtf producers (A. viscosus, L. casei, C. albicans), converting them to glucan producers — a key mechanism of cross-species and cross-kingdom cariogenic biofilm assembly. A three-phase matrix assembly model (surface EPS → 3D expansion → microcolony scaffold) is conserved across diverse biofilm formers. The authors emphasise that polymicrobial biofilm EPS is critically under-studied and call for in-depth mechanistic and in vivo research.

@@ -16,13 +16,21 @@ text_filename: nemec-2026-clear-aligner-patient-needs-expectations.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort study (n=82) using a 32-item VAS questionnaire found that patients seeking clear aligner therapy have very high, largely inflexible expectations regarding aesthetics, treatment predictability, and outcome durability, and are unwilling to compromise on outcome even for reduced cost or treatment time.
+Prospective cohort study (n=82 adult Invisalign patients) at two Vienna centers using a 32-item VAS questionnaire administered before treatment start, organized into five factor-derived categories.
 
-## 한줄요약
+Patients held near-ceiling expectations for treatment predictability (8.6/10) and outcome equivalence to fixed braces (9.5/10), while expressing near-zero willingness to compromise outcome quality for reduced time, cost, or fewer auxiliaries (Willingness-to-Compromise items all ≤2.6/10).
 
-전향적 코호트 연구(n=82)로 32문항 VAS 설문을 사용해 분석한 결과, 투명교정장치(clear aligner therapy, CAT) 희망 환자들은 심미성·치료 예측가능성·결과 지속성에 대해 매우 높고 타협 불가능한 기대를 가지고 있었으며, 비용이나 치료기간 단축을 위해 치료 결과의 질을 양보할 의사는 거의 없었다.
+Clinicians should proactively address the expectation–experience gap during informed consent, especially for patients with severe malocclusion (PAR >17) who show significantly higher pain and diet-restriction concerns, since ~54.8% of CAT patients reportedly experience post-treatment dissatisfaction.
+
+## 세줄요약
+
+전향적 코호트 연구(n=82, 빈 2개 기관): 투명교정(CAT) 시작 전 32문항 VAS 설문으로 기대치를 5개 요인 범주로 분석.
+
+치료 예측가능성(8.6/10)·고정식 교정 동등 효과(9.5/10)에 대한 기대가 최고 수준인 반면, 비용·기간 단축을 위해 결과 질을 양보하려는 의향은 거의 없었음(타협 항목 모두 ≤2.6/10).
+
+약 54.8%가 치료 후 불만을 경험한다는 데이터를 고려해, 특히 교합 이상(PAR >17)이 심한 환자에게는 통증·식이제한 우려에 대해 사전 충분한 설명이 필요.
 
 ## Summary
 

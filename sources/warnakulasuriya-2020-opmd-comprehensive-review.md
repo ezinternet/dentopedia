@@ -9,7 +9,7 @@ pdf_filename: warnakulasuriya-2020-opmd-comprehensive-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Comprehensive narrative review covering the spectrum of oral potentially malignant disorders (OPMDs): definition, classification, risk factors, clinical features, malignant transformation rates, and management strategies.
 
 ## 1. Document Information

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-3D finite element analysis (edentulous mandible): comparing three full-arch immediate-loading protocols, the Five-implant design gave the most favorable stress/strain profile, ahead of All-on-4 and Trefoil; All-on-4 cortical strain reached 4180 με under oblique loading, crossing the ~4000 με pathological-overload threshold.
+## Three-line Summary
 
-## 한줄요약
-하악 무치악 3D FEA: 5-implant > All-on-4 > Trefoil 순으로 응력·strain 우수. All-on-4 oblique loading 시 cortical strain 4180 με로 pathological overload 임계치(4000) 초과 — 위치 선택과 식립 수 영향을 정량.
+3D finite element analysis of an edentulous mandible model comparing three full-arch immediate-loading protocols — All-on-4, Trefoil, and Five-implant design — under axial and 45° oblique 100 N loads at the first molar region using a non-osseointegrated interface coefficient of 0.30.
+
+Five-implant design produced the most favorable stress-strain profile; Trefoil showed the highest prosthetic stress (156.48 MPa axial); All-on-4 cortical bone strain reached 4,180 με under oblique loading, crossing the ~4,000 με pathological overload threshold.
+
+FEA suggests All-on-4 may be at risk of cortical overload under oblique forces — clinically, implant number and position selection should account for off-axis loading; results require clinical outcome data for translation.
+
+## 세줄요약
+
+하악 무치악 3D FEA — All-on-4·Trefoil·5-임플란트 3가지 전악 즉시부하 프로토콜을 제1대구치 위치 축 방향·45° 사방향 100 N 하중, 비골유착 계수 0.30으로 비교.
+
+5-임플란트가 가장 양호한 응력-strain 프로파일; Trefoil이 최고 보철 응력(156.48 MPa 축 방향); All-on-4에서 oblique loading 시 피질골 strain 4,180 με — 병리적 과부하 임계치(~4,000 με) 초과.
+
+FEA 결과 All-on-4는 사방향 하중 시 피질골 과부하 위험 시사 — 임상적으로 임플란트 수·위치 선택 시 사방향 하중 고려 필요; 임상 결과 데이터로 검증 필요.
 
 ## Summary
 Finite element comparison of three full-arch immediate loading protocols in the edentulous mandible: All-on-4, Trefoil, and a Five-implant design. Five-implant design shows the most favorable stress-strain profile.

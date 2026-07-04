@@ -10,7 +10,7 @@ pdf_filename: herrero-climent-2013-osstell-isq-reliability-icc.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cross-sectional study (85 implants, 23 patients): Osstell ISQ ICC=0.97; single measurement sufficient; SmartPeg types I and II interchangeable; mean ISQ 72.4.
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: schmutz-2019-teamwork-performance-healthcare-sr-ma.txt
 
 This is **general-healthcare (acute-care) teamwork evidence, not dental-specific** — ingested deliberately to supply the quantitative backbone that the dental workforce / team-delegation cluster lacks. The dental literature argues for skill-mix and team-based care largely on workforce-economics and access grounds, but rarely quantifies the *performance* payoff of teamwork itself. This SR+MA gives the field a hard number (r=0.28 ≈ OR 2.8) that anchors the team-delegation/communication axis. Extrapolation to dentistry is by analogy (acute-care teams ≠ dental practice teams), and that framing is stated explicitly on the wiki page. Reinforces [[overviews/dental-workforce-delegation-skill-mix-overview]].
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 31 acute-care studies (1390 teams): teamwork process correlates with clinical performance at r=0.28 (≈OR 2.8, medium effect), robust across team composition, size, task type, and patient realism (moderators non-significant).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 급성기 의료팀 31편(1390팀) 체계적 문헌고찰·메타분석 — 팀워크(협동·비기술적 술기)와 임상 성과의 상관 r=0.28(≈OR 2.8, 중간 크기 효과), 팀 구성·크기·과제 유형·환자 현실성에 관계없이 일관(조절변수 모두 비유의).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

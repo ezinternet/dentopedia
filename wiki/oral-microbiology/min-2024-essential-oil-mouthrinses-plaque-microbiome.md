@@ -18,13 +18,21 @@ relations:
     target: hajishengallis-2012-psd-model-periodontal-disease
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Parallel-group RCT (n=153, 6 weeks); alcohol-containing EO mouthrinses (LCM and ACPM) reduced gingivitis ≥37% vs hydroalcohol control and, uniquely shown via spike-in quantitative metagenomics, shifted the dysbiotic plaque microbiome toward healthy composition after 4 weeks.
+Examiner-blind parallel-group RCT (n=153, 6 weeks, industry-funded by Johnson & Johnson) comparing three essential-oil mouthrinses — alcohol-containing LCM (LISTERINE Cool Mint), ACPM (alcohol-containing prototype), and AFPM (alcohol-free prototype) — against a 5% hydroalcohol negative control in adults with moderate gingivitis using twice-daily rinsing plus standardised brushing.
 
-## 한줄요약
+All three EO mouthrinses reduced gingivitis (MGI) by ≥37% vs control at week 6; LCM and ACPM also significantly reduced plaque (TPI ≥26%) and, uniquely demonstrated via spike-in quantitative shotgun metagenomics (856 taxa, first RCT application of absolute CMU quantification), shifted the dysbiotic microbiome toward healthy composition by week 4; the alcohol-free AFPM achieved comparable gingivitis reduction (−40.6%) despite weaker microbiological effects, suggesting additional non-plaque mechanisms.
 
-병렬군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=153, 6주); 알코올 함유 에센셜 오일 가글 (Essential Oil Mouthwash, EOMW) (LCM·ACPM)이 치은염 (Gingivitis) ≥37% 감소 및 이상증식 (Dysbiosis) 치태 (Plaque) 미생물군집을 4주 만에 건강 상태로 전환함을 spike-in 절대 정량 메타게놈 분석으로 최초 입증 (Johnson & Johnson 후원 연구).
+The EO mouthrinse microbiome reset operates via non-selective broad-spectrum bactericidal action reducing all bacteria indiscriminately, with health-associated commensals preferentially repopulating after repeated use — a strong industry COI limits interpretation of these findings.
+
+## 세줄요약
+
+Johnson & Johnson 후원, 단일 검사자 맹검 병렬군 RCT (n=153, 6주) — 알코올 함유 에센셜 오일(Essential Oil, EO) 가글 LCM(LISTERINE Cool Mint)·ACPM(시제품)·AFPM(무알코올 시제품)을 5% hydroalcohol 음성 대조군과 비교; 중등도 치은염 성인의 하루 2회 가글.
+
+LCM·ACPM·AFPM 모두 6주째 치은염(Modified Gingival Index, MGI) ≥37% 감소; LCM·ACPM은 추가로 치태(Turesky Plaque Index, TPI) ≥26% 감소 및 spike-in 절대정량 샷건 메타게놈(Calculated Microbial Unit, CMU; RCT 최초 적용, 856종 동정)으로 4주째 dysbiotic 미생물군집 건강 조성으로 전환 확인; 무알코올 AFPM은 유사 치은염 감소(−40.6%)에도 불구하고 미생물학적 효과 약함 — 비-치태 기전 시사.
+
+EO 가글의 미생물군집 리셋은 비선택적 광역 살균 후 건강 관련 정착균의 우선 재집락화 기전으로 설명 — 강한 이해충돌(산업체 후원) 고려하에 해석 요망.
 
 ## Summary
 

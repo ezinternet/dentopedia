@@ -22,13 +22,21 @@ relations:
     target: lodi-2020-oral-lichen-planus-corticosteroids-cochrane
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA-adherent SR of 15 studies (2 RCTs, 5 NRCTs, 8 observational; MMAT mean 5.57/7) on pharmacological management of desquamative gingivitis: clobetasol propionate 0.05% (53.3% of studies) and tacrolimus 0.1% (26.7%) are first-line agents with significant pain and lesion-severity reduction; topical routes are well tolerated (mild/transient AEs); systemic agents carry higher risk (candidiasis, haemolysis, anaemia, alopecia); PRP and propolis/nano-vitamin gels are promising adjuncts; formal QoL assessment (OHIP-14) performed in only 1/15 studies.
+PROSPERO-registered PRISMA SR (7 databases, Jan 1990–Dec 2023; 15 studies: 2 RCTs, 5 NRCTs, 8 observational; MMAT mean 5.57/7) on pharmacological management of desquamative gingivitis (DG) — a clinical presentation strongly associated (88–98%) with oral lichen planus (OLP), mucous membrane pemphigoid (MMP), and pemphigus vulgaris (PV).
 
-## 한줄요약
+Clobetasol propionate 0.05% (8/15 studies) and tacrolimus 0.1% (4/15 studies) are confirmed first-line agents with significant pain and lesion-severity reduction; topical agents are well tolerated (mild/transient AEs); systemic agents carry higher risk (haemolysis with SMXP, anaemia/alopecia with immunosuppressants); PRP and propolis/nano-vitamin gel are promising adjuncts with no AEs reported.
 
-탈락성 치은염 (Desquamative Gingivitis, DG) 약물치료에 관한 15개 연구 체계적 문헌고찰(MMAT 평균 5.57): 클로베타솔 0.05%와 타크로리무스 0.1%가 1차 치료제로 통증·병변 중증도의 유의한 감소를 보임; 국소도포는 경미·일시적 부작용, 전신투여는 칸디다증·용혈·빈혈 등 더 높은 위험; PRP 및 프로폴리스/나노비타민 젤은 유망한 보조치료; OHIP-14를 이용한 정식 삶의 질 평가는 단 1개 연구에서만 수행됨.
+No international guidelines exist specifically for DG; formal QoL assessment (OHIP-14) was performed in only 1/15 studies; clobetasol + nystatin combination is preferred when candidiasis risk is a concern; tacrolimus showed 30% relapse rate within 3 months vs low recurrence with clobetasol.
+
+## 세줄요약
+
+PROSPERO 등록 PRISMA SR (7개 DB, 1990–2023년 12월; 15편: RCT 2, NRCT 5, 관찰연구 8; MMAT 평균 5.57): 탈락성 치은염(DG) — OLP·MMP·PV와 88–98% 연관 — 의 약물치료 효능·안전성 평가.
+
+클로베타솔 0.05%(8편)와 타크로리무스 0.1%(4편)가 1차 치료제로 통증·병변 중증도 유의 감소; 국소제제는 경미·일시적 부작용; 전신제제는 더 높은 위험(SMXP→용혈, 면역억제제→빈혈/탈모); PRP 및 프로폴리스/나노비타민 젤은 부작용 없는 유망한 보조치료.
+
+DG 전용 국제 지침 없음; OHIP-14 이용 정식 삶의 질 평가는 단 1편; 칸디다증 위험 시 클로베타솔+나이스타틴 병용; 타크로리무스는 3개월 내 재발률 30% vs 클로베타솔은 낮은 재발률.
 
 ## Summary
 

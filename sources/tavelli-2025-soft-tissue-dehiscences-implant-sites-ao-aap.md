@@ -10,7 +10,7 @@ pdf_filename: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 AO/AAP SR+meta-regression (221 연구): peri-implant soft tissue dehiscence (PSTD)·mucosal level apical shift·mucosal recession (MREC) prevalence·incidence — PSTD 평균 46.2%, MREC 23.1%; 위험·보호인자 다층 회귀로 식별.
 
 ## 1. Document Information

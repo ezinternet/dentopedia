@@ -16,13 +16,21 @@ relations:
     target: fischer-2022-bone-envelope-arp-dbbm-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=25) showing Cerabone + PRF + collagen plug reduced ridge width loss to 1.47 mm vs 2.75 mm in controls and achieved 8.7% greater radiographic bone fill at 6 months.
+Split-mouth RCT (n=25 patients, 17–50 years) comparing naturally derived bovine hydroxyapatite (Cerabone) + PRF membrane + collagen plug against extraction-alone controls, measured at 6 months with digital calipers and standardized IOPA.
 
-## 한줄요약
+Cerabone + PRF reduced mean ridge width loss to 1.47 mm vs 2.75 mm in controls and achieved approximately 8.7% greater radiographic bone fill; no adverse events were reported.
 
-분할구강 RCT (n=25): Cerabone+PRF+콜라겐 플러그 처치군에서 치조골 폭경 소실 1.47 mm vs 대조군 2.75 mm, 방사선학적 골충전 8.7% 향상 (6개월).
+The combination provides clinically meaningful width preservation without a separate GBR membrane, but smokers and medically compromised patients were excluded, limiting generalizability.
+
+## 세줄요약
+
+분할구강 RCT (n=25명, 17–50세): 천연 소 수산화아파타이트 (Cerabone) + PRF막 + 콜라겐 플러그를 발치단독 대조군과 비교, 6개월 시점에 디지털 캘리퍼 및 표준화 구내방사선으로 평가.
+
+Cerabone + PRF 군의 평균 치조제 폭경 소실 1.47 mm vs 대조군 2.75 mm, 방사선학적 골충전율 약 8.7% 향상; 합병증 없음.
+
+별도의 GBR 막 없이도 임상적으로 의미 있는 폭경 보존을 달성하나, 흡연자·전신질환자가 제외되어 일반화에 제한이 있다.
 
 ## Summary
 

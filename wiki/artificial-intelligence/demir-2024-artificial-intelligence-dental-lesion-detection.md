@@ -20,13 +20,21 @@ relations:
     target: sadr-2022-deep-learning-periapical-radiolucent-lesions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (n=29 primary studies, 2019–2024) mapping deep-learning dental lesion detection across 5 lesion types, 3 imaging modalities (panoramic/periapical/CBCT), 14 architectures (U-Net most used, 27.59%), 12 augmentation techniques, and 6 challenges with 13 proposed solutions — a field map, not a pooled-accuracy meta-analysis.
+PRISMA/Kitchenham systematic review (29 primary studies, 2019–2024, 350 records screened) mapping deep-learning dental lesion detection across 5 lesion types, 3 imaging modalities (periapical/panoramic/CBCT), and 14 architectures — a qualitative field map, not a pooled-accuracy meta-analysis.
 
-## 한줄요약
+U-Net dominated architecture use (27.59%), periapical lesions were the most-studied target (62.07%), representative per-study performance spanned accuracy 73%–99%, and 12 augmentation techniques were catalogued with flip/rotation most common.
 
-PRISMA 체계적 문헌고찰(1차 연구 29편, 2019–2024): 딥러닝 치과 병소 탐지를 5개 병소유형·3개 영상양식·14개 아키텍처(U-Net 27.59%로 최다)·12개 데이터증강·6개 난제(+13개 해결책)로 정리한 지도형 리뷰. 정확도 pooling(메타분석)은 없음.
+Deep-learning lesion detection is promising but not yet generalizable due to small single-institution datasets; 6 identified challenges with 13 proposed solutions (data diversification, transfer learning, multi-model) guide future model design.
+
+## 세줄요약
+
+PRISMA/Kitchenham 방법론으로 딥러닝 치과 병소 검출을 다룬 29편 1차 연구(2019–2024)의 체계적 문헌고찰: 치근단 62.07%·치근단병변 34.48%·낭종 6.9%·우식 6.9%·악골 3.45%의 5개 병소 유형, 치근단/파노라마/Cone-Beam Computed Tomography(CBCT) 3개 영상 양식.
+
+14개 딥러닝 아키텍처(U-Net 27.59% 최다 → AlexNet·YOLO 계열·GoogleNet·DentaVN 등)와 12개 데이터 증강 기법, 6개 난제+13개 해결책을 목록화; 성능 수치는 연구별 기술적 보고로 메타분석은 없음.
+
+딥러닝 병소 검출은 유망하나 소규모·단일 기관 데이터·낮은 일반화가 한계 — 데이터 다양화·멀티모델·전이 학습 등 13개 해결책 제안, 다기관 외부 검증 필요.
 
 ## Summary
 

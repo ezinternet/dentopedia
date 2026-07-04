@@ -13,13 +13,21 @@ source_collection: external
 
 Addresses the clinical management of ceramic fractures/chipping — a frequent complication documented in zirconia and metal-ceramic SRs (e.g., Pjetursson 2018). Bridges ceramic bonding and surface treatment principles to a practical intraoral repair scenario; complements bonding evidence in the resin-bonding category. [[resin-bonding/kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond]]
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (21 studies, 2017–2022): intraoral ceramic repair is viable and cost-effective; for veneered zirconia, optimal protocol is HF acid etching of veneering ceramic + silane + composite resin; glazing requires no HF but needs alternative surface treatment.
+Narrative review (21 studies: 17 in vitro, 3 case reports, 1 prospective clinical; PubMed, January 2017–August 2022) synthesizing intraoral repair techniques for glass-based, glass-infiltrated, and polycrystalline ceramic fractures.
 
-## 한줄요약
+For veneered zirconia fractures, the optimal protocol is HF acid etching of the veneering ceramic layer + silane coupling agent on the zirconia core + composite resin repair material; pure zirconia (no veneering layer) requires sandblasting or laser conditioning with MDP-containing adhesive instead of HF.
 
-구강 내 세라믹 수리 문헌고찰 (21편, 2017–2022): 지르코니아 베니어 파절 시 HF 산부식 + 실란 + 복합레진이 최선; 직접 수리는 비용 효율적이고 최소침습적.
+Intraoral repair is viable, cost-effective, and minimally invasive compared to crown replacement; however, the evidence base is predominantly in vitro with only 1 prospective clinical study, and long-term survival data are lacking.
+
+## 세줄요약
+
+서술적 문헌고찰 (21편: 17편 in vitro, 3편 증례 보고, 1편 전향적 임상; 2017–2022) — 유리계·유리침투계·다결정 세라믹 파절의 구강 내 수리 기법 종합.
+
+지르코니아 베니어 파절: HF 산부식(베니어 세라믹층) + 실란(지르코니아 코어면) + 복합레진이 최적 프로토콜; 순수 지르코니아(베니어 없음)는 HF 불가, 모래분사·레이저 컨디셔닝 + MDP 함유 접착제 필요.
+
+구강 내 직접 수리는 치관 제거 없이 비용 효율·최소침습적이나, 근거의 대부분이 in vitro(17/21)이고 장기 생존 데이터 부재.
 
 ## 1. Document Information
 

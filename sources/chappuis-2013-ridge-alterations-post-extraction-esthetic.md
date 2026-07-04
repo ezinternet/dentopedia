@@ -10,8 +10,19 @@ pdf_filename: chappuis-2013-ridge-alterations-post-extraction-esthetic.pdf
 source_collection: external
 ---
 
-## One-line Summary
-39명 전향적 연구에서 심미부(전치부 상악) 발치 후 8주간 CBCT 3D 분석 결과, 순측골 두께 ≤1mm(박벽형)에서 중앙부 수직 골소실 중앙값 7.5mm, 후벽형에서는 1.1mm — 3.5배 차이.
+## Three-line Summary
+Prospective case series (n=39 patients) using 3D CBCT superimposition to quantify post-extraction ridge alterations in the anterior maxillary esthetic zone at 8 weeks after single-tooth extraction.
+
+Thin-wall phenotype (facial bone ≤1 mm) showed a median vertical bone loss of 7.5 mm at the central site vs 1.1 mm in thick-wall phenotype (>1 mm); facial bone wall thickness was the only significant predictor of bone loss (p<0.05).
+
+Facial bone wall thickness ≤1 mm is the critical risk threshold for severe post-extraction ridge collapse; identification of this phenotype preoperatively is essential for treatment planning in the esthetic zone.
+
+## 세줄요약
+심미부(상악 전치부) 단일치 발치 후 8주에 3D CBCT 중첩으로 발치와 변화를 정량화한 전향적 증례군 연구(n=39명).
+
+순측골 ≤1 mm(박벽형)에서 중앙부 수직 골소실 중앙값 7.5 mm, 후벽형(>1 mm)에서 1.1 mm; 순측골 두께가 골소실의 유일한 유의한 예측인자(p<0.05).
+
+순측골 두께 ≤1 mm는 발치 후 극심한 골소실의 임계 위험인자로, 심미부 치료계획 수립 전 표현형 분류가 필수적임.
 
 ## 1. Document Information
 - **Journal**: JDR Clinical Research Supplement 2013;92(12 Suppl):195S-201S

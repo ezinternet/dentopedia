@@ -9,8 +9,21 @@ pdf_filename: ayoub-2018-ridge-splitting-horizontal-augmentation-case.pdf
 source_collection: external
 ---
 
-## One-line Summary
-증례보고(스플릿마우스): 위축된 상악 수평골 부족 시 변형 치조골 분리술 — 피에조서저리·스티키본·알부민 동종골 적용; 동시 임플란트 식립 성공
+## Three-line Summary
+
+Split-mouth case report (EC Dental Science 2018) describing a modified ridge-splitting technique using piezosurgery and sticky bone (albumin allograft + PRF) for horizontal augmentation of an atrophic maxillary ridge with simultaneous implant placement.
+
+Successful horizontal ridge augmentation and simultaneous implant placement were achieved without donor-site morbidity; piezosurgery provided controlled osteotomy cuts and sticky bone maintained graft volume during healing.
+
+Case-level evidence only with no control group or comparative data; generalizability is limited to skilled operators in similar atrophic-ridge presentations.
+
+## 세줄요약
+
+스플릿 마우스 증례보고 (EC Dental Science 2018) — 위축된 상악의 수평 골 결핍 시 피에조수술(Piezosurgery)과 스티키본(Sticky Bone, 알부민 동종골+PRF)을 이용한 변형 치조골 분리술(Ridge Splitting)과 동시 임플란트 식립.
+
+수평 골 증대 및 동시 임플란트 식립 성공, 공여부 이환 없음; 피에조수술로 정밀한 피질골 절개, 스티키본으로 이식재 부피 유지.
+
+증례 수준 근거로 대조군·비교 데이터 없음 — 숙련 술자의 유사 위축 증례에만 제한적으로 적용 가능.
 
 ## 1. Document Information
 - **Title**: Modified Maxillary Ridge Splitting Technique for Horizontal Augmentation of Atrophic Ridge: Split Mouth Case Report

@@ -13,13 +13,21 @@ source_collection: external
 tags: [short-implant, marginal-bone, crown-implant-ratio]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective radiographic study of 40 single Brånemark short implants (<10 mm) at 1-year follow-up found marginal bone loss comparable to standard implants, with crown-to-implant ratio (C:I) exerting no statistically significant effect on bone loss.
+Retrospective Korean study (Yonsei University, n=40 single short implants <10 mm, Brånemark machined-surface system, 1-year follow-up) selected from 389 short implants placed from 2003, comparing marginal bone loss to standard implants (≥10 mm) and assessing crown-to-implant ratio (C:I) effects.
 
-## 한줄요약
+Marginal bone loss in short implants was not significantly different from standard implants at 1 year (p>0.05); neither C:I ≤1 nor C:I >1 subgroups showed significant differences in bone loss, suggesting elevated C:I inherent to short implants does not independently accelerate marginal bone resorption in the first year.
 
-단근 단기 임플란트(10 mm 미만) 40개의 1년 방사선 추적 결과, 변연골 소실은 표준 임플란트와 유의한 차이가 없었고 치관-임플란트 비율(C:I ratio)도 골 소실에 유의한 영향을 미치지 않았다.
+These early single-center machined-surface data provide a historical reference point for short implant outcomes; modern roughened-surface implants and longer follow-up data substantially extend this baseline.
+
+## 세줄요약
+
+후향 방사선 연구(연세대, n=40 단일 단근 임플란트 <10 mm, Brånemark 기계연마 표면, 2003년부터 식립한 389개 중 선택, 1년 추적): 표준 임플란트(≥10 mm)와 변연골 소실 비교 + 치관-임플란트 비율(Crown-to-Implant ratio, C:I) 영향 분석.
+
+1년 시점 단근 임플란트 변연골 소실이 표준 임플란트와 유의한 차이 없음(p>0.05); C:I ≤1 vs >1 군 모두 골소실 유의차 없음 — 단근 임플란트 고유의 높은 C:I 비가 1년 내 변연골 흡수를 가속하지 않음.
+
+기계연마 표면 단근 임플란트의 초기 한국 단기 데이터; 현대 거칠기 표면 임플란트 및 장기 추적 연구의 기준점으로 활용.
 
 ## Summary
 

@@ -28,13 +28,21 @@ tags: [immediate-implant, guided-surgery, CAIS, dynamic-navigation, robotic-surg
 > - immediate vs healed 뉘앙스: healed-ridge NMA(robotic-vs-navigation overview)와 IIP-전용 NMA(Nava 2026)가 같은 결론 — "guided가 FH보다 낫고, robotic이 dynamic보다 낫다는 결론은 잠정적". IIP는 freehand 편위 위험이 더 커서 guided 우선순위가 한 단계 올라간다.
 > - 임상 takeaway: 초보 술자, 전치부/심미존, 순측 골판이 얇거나 open-ended socket처럼 편위 위험이 큰 IIP일수록 dCAIS 이상을 우선. 단순 후방 단일치·숙련 술자라면 FG-sCAIS로 충분할 수 있고, rCAIS의 비용·학습곡선·시술시간 증가를 정당화할 hard-outcome(생존·변연골소실·보철적합) 근거는 아직 없음.
 
-## One-line Summary
+## Three-line Summary
 
-Across two immediate-implant-specific network meta-analyses plus robot-vs-navigation trials, every guided protocol (static/dynamic/robotic CAIS) significantly beats freehand on angular, platform, and apex deviation in immediate implant placement — the guided advantage is largest precisely because the empty extraction socket pushes freehand drills off-axis — while robotic vs dynamic superiority remains hypothesis-generating (CINeMA LOW; the robot's reproducible edge narrows to angular control once the optical tracker is held constant).
+7-paper synthesis (2 IIP-specific NMAs + 5 robotic/navigation trials) on guided surgery accuracy in immediate implant placement: every guided protocol (partial-static, full-static, dynamic, robotic CAIS) significantly beats freehand on angular, platform, and apex deviation, with the advantage largest in IIP because the empty extraction socket deflects freehand drills toward the socket wall (palatal slope / facial).
 
-## 한줄요약
+Nava 2026 NMA (18 studies, 780 IIP, 5 arms) ranks rCAIS > dCAIS > FG-sCAIS > HG-sCAIS > freehand for angular/apex; vs freehand: rCAIS −3.36°/−1.43 mm apex, dCAIS −2.66°/−1.32 mm; platform/apex difference between rCAIS and dCAIS is not significant; RCT-only sensitivity analysis blurs guided-vs-guided distinctions and excludes rCAIS entirely (CINeMA LOW).
 
-즉시식립 전용 NMA 2편 + 로봇/내비 임상시험 종합: IIP에서 모든 guided(static/dynamic/robotic CAIS)가 freehand 대비 각도·플랫폼·첨부 편차를 유의하게 줄이며(발치와 빈 공간이 freehand 드릴을 편위시키므로 IIP에서 이득이 가장 큼), robotic > dynamic 우위는 잠정적(CINeMA LOW; 동일 추적장치로 통제하면 로봇 이점은 각도에 국한).
+The robot's reproducible advantage reduces to angular control only when the optical tracker is held constant across arms (Wei 2025 RCT); no IIP-specific robotic RCT exists; the clinical bottom line is: get off freehand (high-certainty, high-impact), then escalate from static to dynamic to robotic only when angular precision or operator-deflecting socket morphology justifies the additional cost and learning curve.
+
+## 세줄요약
+
+즉시식립 전용 NMA 2편 + 로봇/내비 임상시험 5편 종합: IIP에서 모든 guided(partial/full-static, dynamic, robotic CAIS)가 freehand 대비 각도·플랫폼·첨부 편차를 유의하게 줄이며, 발치와 빈 공간이 freehand 드릴을 사면 방향으로 밀기 때문에 IIP에서 guided 이득이 가장 크다.
+
+Nava 2026 NMA(18편, 780 IIP)에서 rCAIS > dCAIS > FG-sCAIS 순위이나, rCAIS vs dCAIS의 플랫폼·첨부 편차는 비유의이고 RCT-only 분석에서는 guided-vs-guided 차이가 불명확해지며 rCAIS arm은 누락된다(CINeMA LOW); 동일 추적장치로 통제한 RCT에서 로봇의 재현 가능 이점은 각도 안정성에 국한된다(Wei 2025).
+
+임상 결론: "freehand를 탈피하라"가 근거 강한 핵심 결정이고, static→dynamic→robotic 단계 상향은 각도 정밀도·소켓 편위 위험에 따라 선택적으로 정당화하며, robotic의 비용·학습곡선을 정당화할 hard-outcome(생존·MBL·보철) 근거는 아직 없다.
 
 ## Thesis
 

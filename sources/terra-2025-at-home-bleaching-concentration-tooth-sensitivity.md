@@ -16,13 +16,23 @@ text_filename: terra-2025-at-home-bleaching-concentration-tooth-sensitivity.txt
 
 미백 후 치아 민감도(가장 흔한 부작용)가 농도·제제별로 어떻게 달라지는지 정량화하는 핵심 근거. 새 `tooth-whitening` 카테고리에서 [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]]의 "자가미백 민감도 강도 더 낮음" 결론을 농도 단위로 분해한다. 미백 민감도 관리는 [[overviews/dentin-hypersensitivity-overview]]의 탈민감 전략과 연결. abstract-only — full text not retrieved.
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (77 studies, 50 meta-analyzed) — higher at-home peroxide concentrations (CP 20–22%, HP 14–16%) raise tooth-sensitivity risk ~2.8–2.9× vs low (HP 2–4%/CP 10–11%); on average sensitivity is mild for all concentrations (low QoE).
 
-## 한줄요약
+Bayesian network meta-analysis (77 studies, 50 meta-analyzed) — higher at-home peroxide concentrations (CP 20–22%, HP 14–16%) raise tooth-sensitivity risk ~2.8–2.9× vs low (HP 2–4%/CP 10–11%);
 
-베이지안 NMA (77편, 50편 메타분석) — 고농도 자가미백(CP 20–22%, HP 14–16%)은 저농도(HP 2–4%/CP 10–11%) 대비 민감도 위험 약 2.8–2.9배. 다만 전반적으로 민감도는 경미(근거 수준 낮음).
+on average sensitivity is mild for all concentrations (low QoE).
+
+(incomplete)
+
+## 세줄요약
+
+
+베이지안 NMA (77편, 50편 메타분석) — 고농도 자가미백(CP 20–22%, HP 14–16%)은 저농도(HP 2–4%/CP 10–11%) 대비 민감도 위험 약 2.8–2.9배.
+
+다만 전반적으로 민감도는 경미(근거 수준 낮음).
+
+(incomplete)
 
 ## 1. Document Information
 

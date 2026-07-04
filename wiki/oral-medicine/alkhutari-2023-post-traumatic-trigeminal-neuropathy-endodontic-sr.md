@@ -20,13 +20,21 @@ relations:
     target: khan-2023-trigeminal-neuralgia-therapeutic-approach-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 10 studies (n = 8 to 1,331) finding that endodontic therapy accounts for 6-8% of post-traumatic trigeminal neuropathy (PTTN) cases, with non-odontogenic neuropathic pain emerging 3-48 months after root canal treatment, predominantly in women in their mid-40s, frequently misdiagnosed as atypical odontalgia / persistent dentoalveolar pain.
+Systematic review (10 studies, n=8–1,331; PubMed/WoS/Cochrane CENTRAL; 2009–2020; low-to-moderate RoB; no meta-analysis due to heterogeneous terminology) isolating endodontic therapy as a discrete cause of post-traumatic trigeminal neuropathy (PTTN).
 
-## 한줄요약
+Endodontic treatment accounts for 6–8% of all trigeminal nerve injuries (5th behind third molars, implants, extractions, LA); non-odontogenic neuropathic pain emerges 3–48 months post-RCT; demographic signature: female (65–85% of PDAP cases) in her mid-40s; post-RCT prevalence of persistent non-odontogenic pain 3.1–5.7%.
 
-근관치료가 외상성 삼차신경병증(PTTN)의 6-8%를 차지하며, 비치성 신경병증성 통증이 근관치료 후 3-48개월에 발생하고 주로 40대 중반 여성에 호발하며 비전형 치통(AO)으로 오진되기 쉽다는 점을 보인 10개 연구 체계적 문헌고찰.
+PTTN after endodontics is frequently mislabeled as atypical odontalgia (AO) or persistent dentoalveolar pain (PDAP), driving unnecessary repeat procedures; workup requires CBCT + diagnostic LA + neuropathic-pain screens (S-LANSS, QST); management: amitriptyline 50–75 mg/day ± carbamazepine 400–600 mg/day + vitamin B complex.
+
+## 세줄요약
+
+근관치료(RCT)를 외상성 삼차신경병증(PTTN)의 독립 원인으로 규명한 SR (10편, n=8–1,331; 2009–2020; 이질적 용어로 메타분석 불가).
+
+근관치료는 삼차신경 손상의 6–8%(5위: 사랑니·임플란트·발치·국마 다음); 비치성 신경병증성 통증은 RCT 후 3–48개월에 발생; 인구학적 특징: 40대 중반 여성(PDAP의 65–85%); RCT 후 지속 비치성 통증 유병률 3.1–5.7%.
+
+비전형 치통(AO) 또는 지속 치조통(PDAP)으로 오진되어 불필요한 반복 처치를 유발; 진단에 CBCT+진단적 국마+신경병증 검사(S-LANSS, QST) 필요; 치료: 아미트리프틸린 50–75 mg/일 ± 카르바마제핀 400–600 mg/일 + 비타민 B 복합체.
 
 ## Summary
 

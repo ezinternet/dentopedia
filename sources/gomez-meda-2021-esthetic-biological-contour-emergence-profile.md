@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 수복물의 출현 윤곽(emergence profile) 설계에 대한 체계적 프레임워크가 부족했으며, 이 논문은 임플란트 위치·연조직 두께·지대주 디자인을 통합한 EBC(Esthetic Biological Contour) 개념을 정립해 임상 의사결정의 근거로 활용. [[immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone]] 에서 다루는 임시 보철을 이용한 출현 윤곽 유도 프로토콜의 이론적 배경을 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative clinical article (Gomez-Meda et al., 2021) introducing the Esthetic Biological Contour (EBC) concept, a zone-based framework for designing the emergence profile of implant-supported restorations in the esthetic zone.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서술적 임상논문 (Gomez-Meda 등, 2021): 임플란트 수복물의 출현 윤곽을 생물학적·심미적 구역별로 구분하고 각 구역의 디자인 원칙을 제시한 EBC(심미적 생물학적 윤곽) 개념 소개.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

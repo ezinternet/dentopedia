@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/salari-2021-maxillary-sinus-patholog
 text_filename: salari-2021-maxillary-sinus-pathologic-findings-cbct-implant.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (n=140 implant candidates, northern Iran) found 63.5% had maxillary sinus pathologies; mucosal thickening (31.4%) was most prevalent, followed by retention cysts (17.1%), with no significant demographic predictors.
+Cross-sectional CBCT study (n=140 implant candidates, 280 sinuses, northern Iran) found 63.5% had at least one maxillary sinus pathology; mucosal thickening (>5 mm threshold) was most prevalent at 31.4%, followed by retention cysts at 17.1%.
 
-## 한줄요약
+No statistically significant associations were found between pathology and age, gender, or dentition status; partial edentulism showed a trend toward higher pathology rate (90.9%, p=0.061).
 
-임플란트 후보 140명 CBCT 분석: 63.5%에서 상악동 병변, 점막비후(31.4%)가 가장 흔하고 연령·성별·치아상태와 유의한 연관 없음.
+The study used a >5 mm threshold for mucosal thickening — higher than the current >2–3 mm consensus — likely underestimating mild thickening prevalence compared to more recent larger studies.
+
+## 세줄요약
+
+횡단면 CBCT 연구(n=140, 이란 북부 임플란트 후보자): 63.5%에서 상악동 병변 확인, 점막비후(>5 mm 기준) 31.4%로 가장 흔하고 잔류낭종(Retention Cyst) 17.1%가 두 번째.
+
+연령·성별·치아 상태와 통계적으로 유의한 연관 없음; 부분 무치악에서 90.9%의 높은 발생 경향(p=0.061).
+
+>5 mm의 높은 점막비후 기준치 사용으로 경미한 비후를 과소평가했을 가능성이 있으며, 현 기준(>2–3 mm)을 적용하면 실제 유병률은 더 높을 것으로 추정됨.
 
 ## Summary
 

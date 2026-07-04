@@ -17,13 +17,23 @@ text_filename: ferreira-2025-clear-aligners-toxic-chemicals-systematic-review.tx
 
 The clear-aligner subcategory holds many efficacy and oral-health pages but no page on the **material-safety / chemical-leaching** question — whether the thermoplastic itself (BPA leaching, cytotoxicity) is a patient-safety concern. This SR fills that gap and complements [[orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] (which covers aligner oral-hygiene/periodontal effects but not chemical toxicity) and [[orthodontics/clear-aligner/thakur-2026-probiotics-clear-aligner-biofilm-rct]] (aligner biofilm/microbial side, the other half of "is wearing an aligner 20–22 h/day safe").
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (7 in-vitro/in-vivo studies, PRISMA/QUIN) concluding clear aligners are generally safe but with residual concern over thermoplastic chemical leaching (BPA below toxic limits), thermoforming-increased cytotoxicity, and moderate cytotoxicity in some materials (notably Biolon, 64.6% viability).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰(7편 in-vitro/in-vivo)로, 투명교정장치는 대체로 안전하나 열가소성 소재의 화학물질 용출(BPA는 독성 기준 이하), 열성형 시 세포독성 증가, 일부 소재(특히 Biolon 64.6% 생존율)의 중등도 세포독성이라는 잔존 우려가 있다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

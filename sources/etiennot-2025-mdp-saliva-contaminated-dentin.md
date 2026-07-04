@@ -9,7 +9,7 @@ pdf_filename: etiennot-2025-mdp-saliva-contaminated-dentin.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 KU Leuven µTBS study: 2-step SE Clearfil SE Bond 2 maintains bond strength to saliva-contaminated dentin without decontamination; 1-step SE Clearfil Universal Bond Quick requires either Katana Cleaner or CSE2 primer for full recovery.
 
 ## 1. Document Information

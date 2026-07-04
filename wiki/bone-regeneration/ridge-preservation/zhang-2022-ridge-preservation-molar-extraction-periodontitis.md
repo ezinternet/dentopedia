@@ -21,11 +21,21 @@ tags: [study-protocol, alveolar-ridge-preservation, ARP, molar, severe-periodont
 > [!note] Study protocol — no outcomes yet
 > This is a registered RCT **protocol** (ChiCTR2200056335), not a results paper. Everything below describes *planned* methodology and endpoints; no clinical findings have been reported. Do not cite for outcomes.
 
-## One-line Summary
-RCT protocol (BMC Oral Health 2022): 2-arm parallel design (n=70 molar sites) comparing ARP vs natural healing at severe-periodontitis (stage III/IV) molar extraction sockets; primary outcomes = CBCT vertical/horizontal ridge change, 3D soft-tissue contour, mucosa thickness, histology, periodontal parameters — no results reported.
+## Three-line Summary
 
-## 한줄요약
-RCT 프로토콜(BMC Oral Health 2022): 중증 치주염(stage III/IV) 대구치 발치와에서 치조제보존(ARP) vs 자연치유를 비교하는 2군 평행 설계(n=70); 1차 결과 = CBCT 수직·수평 변화, 3D 연조직 윤곽, 점막 두께, 조직학, 치주 지표 — 아직 결과 없음.
+Registered RCT protocol (ChiCTR2200056335; BMC Oral Health 2022) targeting a sparse-evidence niche: 2-arm parallel design (n=70 powered; stage III/IV periodontitis patients requiring molar extraction, age >25, ≥3 mm socket bone) comparing alveolar ridge preservation against natural healing with multi-modal outcomes.
+
+Planned primary endpoints cover hard tissue (CBCT vertical/horizontal change), 3D soft-tissue contour and mucosa thickness (intraoral STL superimposition), histology at implant surgery (~6 months), and periodontal parameters; secondary endpoints include patient-reported post-op reaction and need for simultaneous bone grafting at implant placement — no results have been reported.
+
+This protocol addresses a critical gap: most ARP evidence derives from anterior/intact sockets, and the value of ARP specifically at infected, multi-walled-deficient periodontitis molar sites remains untested — results when published will directly inform whether ARP is justified or overtreatment at these high-resorption sites.
+
+## 세줄요약
+
+등록된 무작위대조시험 프로토콜(ChiCTR2200056335; BMC Oral Health 2022): 중증 치주염(stage III/IV) 대구치 발치가 필요한 환자(연령 >25세, 소켓 골 ≥3 mm)를 대상으로 치조제보존술(ARP) vs 자연치유를 비교하는 2군 평행 설계(n=70), 다중모달 결과 지표 포함.
+
+계획된 1차 결과는 CBCT 수직·수평 변화, 3D 연조직 윤곽·점막 두께(구강내 STL 중첩), 임플란트 수술 시(약 6개월) 조직학, 치주 지표이며, 2차 결과는 환자 보고 술후 반응·동시 골이식 필요성 — 결과는 아직 없음.
+
+대부분의 치조제보존 근거가 전치부·무감염 발치와에서 나왔으나 이 프로토콜은 감염된 중증 치주염 대구치 발치와에서 ARP가 정당화되는지를 최초로 검증하도록 설계되었다.
 
 ## Summary
 A SPIRIT-compliant, registered RCT **protocol** from Peking University targeting a sparse-evidence niche: alveolar ridge preservation (ARP) at **periodontally compromised molar** extraction sockets in **severe (stage III/IV) periodontitis**. Most ARP evidence derives from anterior/intact sockets; this trial is designed to compare ARP against natural (unassisted) healing across hard tissue (CBCT), 3D soft tissue (intraoral scanning/STL superimposition), and histology in 70 molar sites. **No outcomes are reported** — the page documents the design only.

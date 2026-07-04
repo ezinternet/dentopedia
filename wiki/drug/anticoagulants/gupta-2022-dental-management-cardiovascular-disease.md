@@ -14,11 +14,19 @@ source_collection: external
 tags: [cardiovascular, hypertension, ischemic-heart-disease, MI, arrhythmia, infective-endocarditis, anticoagulant, vasoconstrictor, drug-interaction]
 ---
 
-## One-line Summary
-Narrative review: dental management protocols for hypertension, IHD, MI (elective treatment permissible after 30 days), arrhythmia, infective endocarditis, heart failure, stroke, and pacemaker patients, plus a drug interaction summary.
+## Three-line Summary
+Narrative review of dental management protocols for 7 cardiovascular disease categories including hypertension, IHD, MI, arrhythmia, infective endocarditis, heart failure, stroke, and pacemaker patients, plus drug interactions.
 
-## 한줄요약
-서술적 고찰: 고혈압·IHD·MI(30일 이후 선택적 치료)·부정맥·감염성 심내막염·심부전·뇌졸중·박동기 환자의 치과 치료 지침 및 약물 상호작용 정리
+Key update: no elective dental care within 30 days of MI (revised from prior 6-month rule); anticoagulants should not be routinely stopped for simple extractions; epinephrine safe up to 2 carpules (0.036 mg) in controlled CVD.
+
+Dental clinicians should use a BP-based treatment decision table (defer all treatment at ≥180/120 mmHg) and prescribe acetaminophen over NSAIDs in hypertensive/anticoagulated patients.
+
+## 세줄요약
+고혈압·IHD·MI·부정맥·감염성 심내막염·심부전·뇌졸중·박동기 환자 7개 범주 치과 관리 지침과 약물 상호작용 정리 서술적 고찰.
+
+핵심 업데이트: MI 후 30일 이내 선택적 치료 금지(기존 6개월 기준 개정); 단순 발치 시 항응고제 중단 불필요; 조절된 심혈관 환자에서 에피네프린 2 카트리지(0.036 mg)까지 허용.
+
+BP ≥180/120 mmHg 시 모든 치료 연기; 고혈압·항응고제 환자에서 NSAIDs 대신 아세트아미노펜 권장.
 
 ## Summary
 Narrative review covering dental management protocols for 7 cardiovascular disease categories. Key update: **no elective dental care within 30 days of MI** (revised from prior 6-month rule). Drug interactions between CVD medications and commonly used dental drugs are tabulated.

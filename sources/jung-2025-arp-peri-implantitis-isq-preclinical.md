@@ -9,7 +9,7 @@ pdf_filename: jung-2025-arp-peri-implantitis-isq-preclinical.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 동물실험 (Beagle 6마리, JPIS 2025): 골유도재생술(ARP) 유무, 감염치아 여부가 임플란트 ISQ 및 실험적 치주염 진행에 유의한 영향 없음; 신생골과 ISQ 간 유의한 상관관계 없음.
 
 ## 1. Document Information

@@ -22,13 +22,21 @@ relations:
     target: ziada-2025-abutment-material-stress-distribution-fea
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (120 implants — 60 external-hex vs 60 with an 11° Morse-taper internal-conical connection — abutment screws torqued at 10/20/30 Ncm, then thermo- and cyclic-loaded) showing implant-abutment marginal misfit is lowest with the Morse-taper joint (~0.6 µm) and falls as insertion torque rises, reaching ≈0 µm at the manufacturer-recommended 30 Ncm, with **no significant gain from 20→30 Ncm**.
+In-vitro study (n=120 implants: 60 external-hex vs 60 with 11° Morse-taper internal-conical connection; abutment screws torqued at 10/20/30 Ncm; thermo- and cyclic-loaded) measuring implant-abutment marginal misfit by SEM.
 
-## 한줄요약
+Morse-taper connection produced the lowest misfit (~0.6 µm vs higher for external hex); misfit decreased as torque increased, reaching ≈0 µm at the manufacturer-recommended 30 Ncm, but the 20→30 Ncm gain was not statistically significant (p=0.10).
 
-In-vitro 연구(임플란트 120개 — 외측육각 60 vs 11° Morse taper 내측 원추형 60, 어버트먼트 스크류를 10/20/30 Ncm로 체결 후 열·기계 하중): 임플란트-어버트먼트 변연 부적합은 Morse taper 연결에서 가장 낮고(~0.6 µm) 체결 토크가 높을수록 감소해 제조사 권장값 30 Ncm에서 ≈0 µm였으나 **20→30 Ncm 사이 유의차는 없었음**.
+The practical message is to tighten to the manufacturer-specified torque value — not to maximize torque, as over-torquing past yield risks preload loss and screw fracture while providing no measurable fit benefit.
+
+## 세줄요약
+
+In-vitro 연구(임플란트 120개: 외측육각 60개 vs 11° Morse taper 내측 원추형 60개, 어버트먼트 스크류 10/20/30 Ncm 체결 후 열·기계 하중, SEM으로 변연 부적합 측정).
+
+Morse taper 연결이 최저 변연 부적합(~0.6 µm); 체결 토크 상승에 따라 부적합 감소 — 제조사 권장값 30 Ncm에서 ≈0 µm였으나 20→30 Ncm 구간 유의차 없음(p=0.10).
+
+제조사 지정 토크까지만 체결하면 충분 — 과조임(yield 초과)은 예압(preload) 손실·스크류 파절 위험 있고 적합도 개선 없음.
 
 ## Summary
 

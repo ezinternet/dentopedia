@@ -15,13 +15,23 @@ full_text: false
 
 티타늄 메쉬의 호불호·성능·장단점을 종합하기 위해 수집. 22편 임상시험을 포함한 SR+MA로, [[wiki/implants/vertical-ridge-augmentation/ragucci-2025-customized-titanium-mesh-vertical-ridge-augmentation-sr-ma]]와 상보적으로 conventional vs CAD/CAM Ti mesh 전반의 골증대량 및 합병증 풀드데이터를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (22 trials, n≥196): Ti mesh VRA = 3.36 mm vertical / 3.26 mm horizontal bone gain; pooled complication rate 10.8%, most common = mesh exposure; non-inferior to collagen membrane for horizontal gain.
 
-## 한줄요약
+SR+MA (22 trials, n≥196): Ti mesh VRA = 3.36 mm vertical / 3.26 mm horizontal bone gain;
 
-SR+MA (22편, n≥196): 티타늄 메쉬 골증대 = 수직 3.36 mm / 수평 3.26 mm; 전체 합병증률 10.8% (노출이 가장 흔함); 수평 증대 시 콜라겐막과 유의한 차이 없음.
+pooled complication rate 10.8%, most common = mesh exposure;
+
+non-inferior to collagen membrane for horizontal gain.
+
+## 세줄요약
+
+
+SR+MA (22편, n≥196): 티타늄 메쉬 골증대 = 수직 3.36 mm / 수평 3.26 mm;
+
+전체 합병증률 10.8% (노출이 가장 흔함);
+
+수평 증대 시 콜라겐막과 유의한 차이 없음.
 
 ## 1. Document Information
 

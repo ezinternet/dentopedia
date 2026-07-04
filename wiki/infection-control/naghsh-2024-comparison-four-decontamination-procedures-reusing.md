@@ -20,13 +20,21 @@ relations:
     target: bidra-2019-should-healing-abutments-cover-screws
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro comparison of 50 used healing abutments (DIO UFII) across 5 groups (all ultrasonic + autoclave; +3% NaOCl / +12% CHX / +glycine air polishing / +3% H2O2): occlusal-surface residual protein did not differ (p=0.26), but on the body/shank surface glycine air polishing (1.7±1.1) and NaOCl (2.4±1.1) left significantly less contamination than control (6.1), H2O2 (4.6), or CHX (5.4) (p<0.05) — yet no group ever fully eliminated contamination.
+In vitro comparison (50 used HAs, DIO UFII, each used once 4–6 weeks in 50 patients; 5 groups × 10) testing four adjunct decontamination methods layered onto ultrasonic + autoclave baseline; residual protein visualized with Phloxine B staining.
 
-## 한줄요약
+On the body/shank surface, glycine air polishing (1.7±1.1%) and 3% NaOCl (2.4±1.1%) left significantly less contamination than control (6.1%), H2O2 (4.6%), or CHX (5.4%) (p<0.001); on the occlusal surface, no adjunct made a difference (p=0.26) due to deep-recess inaccessibility.
 
-사용된 치유 지대주(healing abutment, HA) 50개(DIO UFII)를 5군(전부 초음파+오토클레이브; +3% NaOCl / +12% CHX / +글리신 air polishing / +3% H2O2)으로 비교한 in vitro 연구: 교합면 잔류 단백질은 군 간 차이 없음(p=0.26)이었으나 body/shank 면에서는 글리신 air polishing(1.7±1.1)과 NaOCl(2.4±1.1)이 대조군(6.1)·H2O2(4.6)·CHX(5.4)보다 유의하게 오염이 적었다(p<0.05) — 그러나 어떤 군도 오염을 완전히 제거하지는 못했다.
+No group fully eliminated contamination, confirming the "no 100% virgin surface" conclusion; CHX and H2O2 provided no benefit over the control baseline.
+
+## 세줄요약
+
+In vitro 비교(4–6주 사용 HA 50개, DIO UFII, 5군 × 10개): 초음파+오토클레이브 기준선에 4가지 보조 제염제(3% NaOCl / 12% CHX / 글리신 에어폴리싱 / 3% H2O2)를 추가해 Phloxine B 염색으로 잔류 단백질 정량.
+
+Body/shank 면: 글리신 에어폴리싱(Air Polishing, 1.7±1.1%)과 3% NaOCl(2.4±1.1%)이 대조군(6.1%)·H2O2(4.6%)·CHX(5.4%)보다 유의하게 오염 적음(p<0.001); 교합면은 심층 함요 접근 불가로 어떤 군도 차이 없음(p=0.26).
+
+어떤 군도 오염 완전 제거 불가 — "100% 초기 표면 불가" 결론 재확인; CHX·H2O2는 대조군 대비 효과 없음.
 
 ## Summary
 

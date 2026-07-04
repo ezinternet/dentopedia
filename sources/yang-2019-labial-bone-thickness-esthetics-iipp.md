@@ -9,7 +9,7 @@ pdf_filename: yang-2019-labial-bone-thickness-esthetics-iipp.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective cohort study quantifying the impact of labial bone thickness on PES/WES esthetic outcomes after immediate implant placement with immediate provisionalization in the esthetic zone.
 
 ## 1. Document Information

@@ -16,13 +16,21 @@ relations:
     target: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth dog study (n=9, 5×3 mm buccal dehiscence, 6-week healing): resorbable collagen membrane over DBBM tended to retain more bone substitute (%BS, p=0.052) but showed no significant increase in new bone formation vs DBBM alone; bone ingrowth occurred mainly from lateral defect walls.
+Split-mouth dog study (n=9, 5×3 mm standardized buccal dehiscence at early maxillary implant placement) comparing DBBM + resorbable collagen membrane vs DBBM alone, assessed histomorphometrically at 6 weeks.
 
-## 한줄요약
+The resorbable collagen membrane tended to retain more bone substitute at central sections (p=0.052) but did not significantly increase new bone formation, fBIC, or buccal bone thickness vs DBBM alone; bone ingrowth occurred primarily from the lateral defect walls (centripetal pattern).
 
-개 9마리 분구강 실험(5×3 mm 협측 열개, 6주): 교원막+DBBM은 DBBM 단독 대비 잔여 골대체재 보존 경향(p=0.052)이나 신생골 형성 유의차 없음; 신생골은 주로 결손 측방벽에서 유입.
+The membrane acts as a containment device rather than a bone formation promoter in this anterior maxilla model, and the centripetal ingrowth pattern has implications for defect geometry planning in clinical GBR.
+
+## 세줄요약
+
+개 9마리 분구강 실험(조기 식립 시 5×3 mm 협측 열개 결손): DBBM+교원막 vs DBBM 단독을 6주 조직형태계측으로 비교.
+
+교원막은 골대체재 보존 경향(p=0.052)이 있으나, 신생골 형성·fBIC·협측 골두께에서 DBBM 단독과 유의차 없음; 신생골은 주로 결손 측방벽에서 구심성으로 유입.
+
+교원막의 역할이 '골형성 촉진'보다 '이식재 격납'에 그친다는 결론은 전방 상악 GBR 임상 프로토콜 재평가의 근거가 된다.
 
 ## Summary
 

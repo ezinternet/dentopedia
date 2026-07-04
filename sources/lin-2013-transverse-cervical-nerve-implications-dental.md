@@ -16,13 +16,23 @@ text_filename: lin-2013-transverse-cervical-nerve-implications-dental.txt
 
 [[wiki/local-anesthesia/kim-2016-systematic-review-cervical-plexus-accessory]] SR가 인용하는 근거 중 하나로, 실제 사체 해부로 경부신경총(cervical plexus) 부가신경이 후방 하악에 도달함을 직접 증명 — "왜 IANB로 마취된 부위 밖(하악 후방)에서 드릴링 시 통증이 남는가"라는 임상 질문에 대한 가장 구체적인 해부학적 증거.
 
-## One-line Summary
+## Three-line Summary
+
 
 Fresh cadaver study (n=2, Sihler's staining technique): the transverse cervical nerve (C2-C3, cervical plexus) was found innervating the posterior mandible in one of two specimens, supporting accessory (non-trigeminal) innervation as a cause of IANB failure in posterior mandibular teeth.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 신선 사체 연구(n=2, Sihler's 염색기법): 횡경부신경(transverse cervical nerve, C2-C3, 경부신경총 분지)이 사체 2례 중 1례에서 후방 하악을 지배하는 것으로 확인 — 하악 구치부 IANB 실패 원인으로서 삼차신경 외 부가신경 지배를 뒷받침.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

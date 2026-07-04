@@ -13,11 +13,21 @@ source_collection: external
 tags: [implant-bed-preparation, drilling, laser, piezoelectric, osteotome, osseodensification, BIC, histomorphometry, microcracks, systematic-review]
 ---
 
-## One-line Summary
-PRISMA SR (J Clin Med 2025, 29 articles) comparing five implant bed preparation methods (drilling, laser, piezoelectric, osteotome, osseodensification) on histological/histomorphometric outcomes: classical rotary drilling produced the most microcracks, osteocyte/thermal damage, and lowest %BIC, while alternatives gave higher %BIC — though drilling can match alternatives with optimal speed, cooling, and load, making the penalty largely protocol-mediated.
+## Three-line Summary
 
-## 한줄요약
-SR(J Clin Med 2025, 29편): 5개 implant bed prep 방법(drilling, laser, piezo, osteotome, osseodensification) 조직학·조직형태계측 비교 — 전통 drilling이 microcracks·부정 골연·osteocyte 손상·발열 최다, %BIC 최저; 대체법이 우수하나 — 적절 parameter 사용 시 drilling도 동등 가능.
+PRISMA systematic review (J Clin Med 2025, 338 screened → 29 included) comparing five implant bed preparation families — classical rotary drilling, laser, piezoelectric surgery, osteotome, and osseodensification — on histological and histomorphometric outcomes (%BIC, microcracks, osteocyte damage, thermal injury).
+
+Classical rotary drilling produced the most microcracks, uneven bone margins, osteocyte damage, and thermal injury with the lowest %BIC; all four alternatives yielded fewer microcracks, less inflammation, lower thermal risk, and higher %BIC — with osseodensification showing the highest reported %BIC, especially in D3/D4 bone.
+
+The drilling penalty is largely protocol-mediated: optimal rotation speed, cooling, and load allow drilling to match alternatives, meaning careful technique rather than method-switching is the primary mitigation; heterogeneity across studies precluded meta-analysis.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (Systematic Review, J Clin Med 2025, 338편 스크리닝→29편 포함): 5가지 임플란트 와동 형성법(전통 회전 drilling, laser, 피에조전기, osteotome, 골밀도화 osseodensification)의 조직학·조직형태계측(골-임플란트 접촉률, %BIC; 미세균열; osteocyte 손상; 발열) 비교.
+
+전통 drilling이 미세균열·osteocyte 손상·발열 최다, %BIC 최저; 4가지 대체법 모두 우수 — 특히 osseodensification이 저밀도골(D3/D4)에서 %BIC 가장 높음.
+
+Drilling의 단점은 프로토콜 의존적: 적절한 회전수·냉각·하중 적용 시 대체법과 동등 결과 가능; 이질성으로 메타분석 불가.
 
 ## Summary
 A PRISMA SR (29 articles) compared five implant bed preparation methods on histological and histomorphometric outcomes. Classical rotary drilling produced more microcracks, uneven bone margins, osteocyte damage, and thermal injury, with lower %BIC than alternatives. Laser, piezoelectric surgery, osteotomes (Summer's technique), and osseodensification each yielded fewer microcracks, less inflammation, lower thermal risk, denser/more regular bone, and higher %BIC. The authors qualify the contrast: drilling can match alternatives if rotation speed, cooling, and load are within optimal ranges — implying that the drilling penalty observed is largely protocol-mediated, not inherent.

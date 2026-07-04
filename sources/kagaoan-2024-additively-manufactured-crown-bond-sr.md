@@ -9,7 +9,7 @@ pdf_filename: kagaoan-2024-additively-manufactured-crown-bond-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR of 6 in vitro studies on 3D-printed crown bond strength: photopolymer-printed crowns show bond strength comparable to milled materials when properly pretreated, with airborne-particle abrasion (alumina) generally recommended.
 
 ## 1. Document Information

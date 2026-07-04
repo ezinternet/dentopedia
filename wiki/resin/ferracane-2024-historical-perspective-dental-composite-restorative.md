@@ -22,13 +22,21 @@ relations:
     target: worthington-2021-composite-vs-amalgam-cochrane-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-author historical-perspective review (Ferracane, J Funct Biomater 2024) tracing dental resin-based composite (RBC) evolution — from 1950s silicate/PMMA acrylics through Bowen's 1962 Bis-GMA and Buonocore's acid-etch, to chemical→UV→visible/CQ→LED light-curing, low-shrinkage monomer and nano/hybrid filler refinements, bulk-fill composites, and the emerging "bioactive"/self-healing frontier — with amalgam framed as the posterior material composites gradually displaced.
+Single-author historical-perspective narrative review (Ferracane, J Funct Biomater 2024) tracing dental resin-based composite (RBC) evolution organized along three axes: polymerization initiators, resin monomers, and reinforcing fillers.
 
-## 한줄요약
+Key milestones: 1950s PMMA/silicate → Bowen's Bis-GMA (1962) + Buonocore acid-etch → chemical→UV→visible CQ→LED light-curing → low-shrinkage monomers (silorane/ormocer) and nano/hybrid fillers → bulk-fill (4–5 mm) → emerging bioactive/self-healing materials; most "advances" delivered equivalence rather than demonstrated clinical superiority.
 
-Ferracane 단독저자 발달사 리뷰(J Funct Biomater 2024): 복합레진(Resin-Based Composite, RBC) 진화를 1950년대 실리케이트·PMMA → Bowen의 Bis-GMA(1962)·Buonocore 산부식(acid-etch) → 화학중합→UV→가시광(Camphorquinone, CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill(4–5 mm) → 생리활성(bioactive)·자가치유(self-healing) 미래로 연대기화. 아말감(Amalgam)은 복합레진이 점차 대체해 온 구치부 재료로 위치.
+The chronological backbone frames shrinkage as a stress problem (not a magnitude problem) and positions amalgam as the posterior standard that composites progressively displaced — applicable as context for all single-property composite pages in this wiki.
+
+## 세줄요약
+
+중합 개시 방식·레진 모노머·충전재 세 축으로 복합레진(RBC) 진화를 정리한 Ferracane 단독저자 역사적 고찰 리뷰(J Funct Biomater 2024).
+
+주요 이정표: PMMA/실리케이트(1950년대) → Bowen의 Bis-GMA(1962)+산부식 → 화학→UV→CQ가시광→LED 광중합 → 저수축(silorane/ormocer)·나노/하이브리드 필러 → bulk-fill(4–5 mm) → 생리활성·자가치유 재료; 대부분 '발전'이 임상적 우월성보다 동등성에 그침.
+
+수축을 수축응력 문제로 재정의하고 아말감을 복합레진이 점진적으로 대체해온 구치부 기준 재료로 위치 — 위키 내 복합레진 개별 특성 페이지의 맥락 자료로 활용됨.
 
 ## Summary
 

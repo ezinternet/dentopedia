@@ -17,13 +17,23 @@ text_filename: liu-2025-mm-dd-occlusal-adjustment-preventing-open-contacts.txt
 
 기존 food-impaction 페이지들([[food-impaction/kim-2025-factors-influencing-proximal-contact-loss]], [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]], [[food-impaction/fathi-2022-prevalence-proximal-contact-loss-umbrella]])은 임플란트 보철 인접 근심접촉상실(Proximal Contact Loss, PCL)의 유병률(34–66%)·위험인자를 정량화했지만 모두 **반응적(reactive) 관리**(재제작·재접착·접촉면 회복)에 그쳤다. 본 retrospective(Liu 2025)는 처음으로 **예방적(proactive) 교합조정 프로토콜(MM-DD)**을 최장 21.5년 추적으로 검증해, PCL을 46.7%→2.7%로 낮추는 직접 임상 근거를 제공한다. 따라서 위 페이지들의 "PCL은 흔하고 위험인자가 많다"는 결론에 **예방 전략 분기**를 더해 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-practice study (124 single-tooth posterior implants, 100 patients, 2–21.5 yr): the MM-DD occlusal adjustment — selectively relieving the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth at crown delivery to permit physiologic mesial drift — cut open-contact incidence from 46.7% (conventional control, n=49) to 2.7% (MM-DD, n=75; p<0.001), with Kaplan–Meier contact survival 99.1%/97.5%/96.2% at 5/10/15 yr.
 
-## 한줄요약
+Retrospective single-practice study (124 single-tooth posterior implants, 100 patients, 2–21.5 yr): the MM-DD occlusal adjustment — selectively relieving the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth at crown delivery to permit physiologic mesial drift — cut open-contact incidence from 46.7% (conventional control, n=49) to 2.7% (MM-DD, n=75;
+
+p<0.001), with Kaplan–Meier contact survival 99.1%/97.5%/96.2% at 5/10/15 yr.
+
+(incomplete)
+
+## 세줄요약
+
 
 후향 단일 의원 연구(124 단일 구치부 임플란트, 100명, 2–21.5년): crown 장착 시 근심인접치의 근심교합면·원심인접치의 원심교합면을 선택적으로 삭제해 생리적 mesial drift를 허용하는 MM-DD 교합조정으로 open contact를 46.7%(전통적 대조군)→2.7%로 격감(p<0.001), 접촉 생존율 5/10/15년 99.1/97.5/96.2%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

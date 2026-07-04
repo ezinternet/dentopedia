@@ -24,13 +24,21 @@ relations:
     target: loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional online survey of 537 German dentists (~0.5% of the profession): prophylactic antibacterial-drug use is generally restrained but inconsistent — a positive trend only in endocarditis-risk and immunosuppression/organ-transplant groups, a negative trend to negative consensus in diabetes and joint replacement; amoxicillin first-line and clindamycin second-line across all four groups.
+Cross-sectional online survey of 537 German dentists (~0.5% of ~101,344 registered) across four medical risk groups (endocarditis risk, joint replacement, diabetes, immunosuppression/organ transplant) using a 6-level frequency scale, Oct 2023–Mar 2024.
 
-## 한줄요약
+Prophylactic antibacterial prescribing is restrained but highly inconsistent: positive trends only for endocarditis-risk and immunosuppression/transplant groups; negative trends to negative consensus for diabetes and joint replacement; the only positive consensus was prosthetic heart valves (72% always prescribe); amoxicillin first-line and clindamycin second-line across all groups.
 
-독일 치과의사 537명 횡단 온라인 설문: 예방적 항균제 처방은 전반적으로 절제돼 있으나 불일치 — 심내막염 위험군·면역억제/장기이식군에서만 양성 trend, 당뇨·관절치환군에서는 음성 trend~음성 consensus, 네 군 모두 1차약 아목시실린·2차약 클린다마이신이 압도적이었다.
+Guidelines are regularly deviated from in practice — ~75% of respondents felt confident despite heterogeneous behavior, and procedures lacking specific guidelines invite precautionary over-administration, highlighting the need for binding RCT-based guidance.
+
+## 세줄요약
+
+독일 치과의사 537명 횡단 온라인 설문(4개 위험군: 심내막염·관절치환·당뇨·면역억제/장기이식; 2023년 10월~2024년 3월): 예방적 항균제(Antibacterial Drug, ABD) 처방은 전반적으로 절제돼 있으나 군간 불일치 뚜렷.
+
+심내막염 위험군·면역억제/장기이식군에서만 양성 trend, 당뇨·관절치환군에서는 음성 trend~음성 consensus; 유일한 양성 consensus는 인공판막군(72% 항상 처방); 1차약 아목시실린·2차약 클린다마이신으로 4개 군 모두 동일.
+
+가이드라인 준수 편차가 크고 처방 지침이 없는 시술에서 예방적 과처방이 발생 — 구속력 있는 RCT 기반 지침의 필요성을 독일·이탈리아·스위스·사우디 설문과 일관되게 시사.
 
 ## Summary
 

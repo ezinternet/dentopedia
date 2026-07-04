@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis of 23 studies found flapless implant surgery carries significantly higher implant failure risk (RR 1.75, 95% CI 1.07–2.86, P=0.03) versus open flap, though this significance disappears in low-risk-of-bias subgroup analysis; no significant difference in postoperative infection or marginal bone loss.
+PRISMA meta-analysis (23 studies — 10 RCT, 7 CCT, 6 retrospective; search through March 2014) comparing flapless versus conventional open-flap implant surgery on failure rate, infection, and marginal bone loss.
 
-## 한줄요약
+Flapless surgery showed a statistically significant 75% higher relative implant failure risk (RR 1.75, 95% CI 1.07–2.86, P=0.03); however, this significance disappeared when analysis was restricted to the 5 low-risk-of-bias studies, indicating the signal was largely driven by 16 high-risk-of-bias studies.
 
-무피판(flapless) 임플란트 수술은 23개 연구 메타분석에서 개방 피판술 대비 실패 위험 유의하게 높으나(RR 1.75), 비뚤림 위험 낮은 연구만 분석 시 유의성 소실; 감염률·변연골 소실에는 차이 없음.
+Neither postoperative infection (RR 0.96, P=0.96) nor marginal bone loss (MD −0.07 mm, P=0.16) differed significantly, and funnel plots showed no publication bias; results should be interpreted cautiously given the predominantly high-risk-of-bias literature.
+
+## 세줄요약
+
+PRISMA 메타분석 (23편 — RCT 10, CCT 7, 후향 6; 검색 ~2014-03): 무피판 (Flapless) vs 개방 피판 (Conventional Flap) 임플란트 수술 비교.
+
+무피판 수술이 임플란트 실패 위험 통계적으로 유의하게 75% 높음 (RR 1.75, 95% CI 1.07–2.86, P=0.03); 그러나 낮은 비뚤림 위험 5편만 분석 시 유의성 소실 — 신호의 대부분은 비뚤림 높은 16편에서 기인.
+
+수술 후 감염 (RR 0.96, P=0.96) 및 변연골 소실 (MD −0.07 mm, P=0.16)은 유의한 차이 없음; 대부분 높은 비뚤림 위험 연구로 해석 주의 필요.
 
 ## Summary
 

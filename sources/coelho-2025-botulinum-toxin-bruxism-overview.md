@@ -10,8 +10,21 @@ pdf_filename: coelho-2025-botulinum-toxin-bruxism-overview.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Overview of 14 SRs on BoNT-A for bruxism (UFSC Brazilian Centre for Evidence-Based Research) — most SRs report reduced pain, bruxism events, and bite force, but all but one score "critically low" on AMSTAR-2, so no definitive conclusion can be drawn.
+## Three-line Summary
+
+Overview of systematic reviews (14 SRs, 7 databases, UFSC Brazilian Centre for Evidence-Based Research) synthesizing BoNT-A for adult bruxism outcomes: pain, bruxism event frequency, maximum bite force, and functional movements.
+
+Most SRs (10/14) reported pain reduction and 7/14 reported reduced bruxism events, but 13/14 SRs rated "critically low" on AMSTAR-2 with high overlap (CCA 10.11%), making definitive conclusions impossible.
+
+No BoNT-A standard dosing or injection protocol exists for bruxism, and the methodological-quality crisis means SR conclusions should not drive clinical decision-making without higher-quality evidence.
+
+## 세줄요약
+
+체계적 문헌고찰의 개요(14편 SR, 7개 DB, UFSC 근거중심연구센터): 성인 이갈이에 대한 보툴리눔독소 A형(BoNT-A)의 통증·이갈이 빈도·최대 교합력·기능 운동 효과를 종합.
+
+14편 중 10편이 통증 감소, 7편이 이갈이 빈도 감소를 보고했으나, 13/14편이 AMSTAR-2 "critically low" 등급이며 일차 연구 중복(CCA 10.11%)이 높아 확정적 결론 불가.
+
+이갈이에 대한 표준 BoNT-A 용량·주사 프로토콜이 없고 근거 질이 낮아, 현재 SR 결론을 임상 의사결정에 직접 적용해서는 안 됨.
 
 ## 1. Document Information
 - **Journal**: Toxins 2025, 17(5):249

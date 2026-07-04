@@ -13,11 +13,19 @@ source_collection: external
 tags: [sonic-activation, ultrasonic-activation, pui, endoactivator, smear-layer, push-out-bond-strength, irrigant-activation]
 ---
 
-## One-line Summary
-SR+MA of sonic vs ultrasonic activation (in vitro): sonic superior for apical-third smear layer removal (SMD −0.48, p=.03); ultrasonic (PUI) superior for middle and apical push-out bond strength; no significant difference in the coronal third.
+## Three-line Summary
+PRISMA 2020 systematic review and meta-analysis (databases inception–2021) of in vitro studies comparing sonic irrigation (EndoActivator-type) vs passive ultrasonic irrigation (PUI) for smear-layer removal and push-out bond strength in human single-canal teeth using a final NaOCl/EDTA sequence.
 
-## 한줄요약
-음파 vs 초음파 활성화 SR+MA(in vitro): 음파는 치근단 도말층(Smear Layer) 제거 우수(SMD −0.48, p=.03), 초음파는 중간·치근단 1/3 push-out 결합강도 우수; 치관부는 유의차 없음.
+Sonic activation was significantly superior for apical-third smear-layer removal (SMD −0.48, 95% CI −0.93 to −0.02, p=.03), while PUI was significantly superior for push-out bond strength at both the middle (SMD −0.69) and apical thirds; neither method showed a significant advantage in the coronal third for either outcome.
+
+The clinical implication is outcome-specific — favor sonic when the primary goal is clearing apical debris/smear layer, and favor PUI when maximizing sealer-dentin bond strength; both activation methods remain superior to conventional needle irrigation alone.
+
+## 세줄요약
+사람 단근치에서 음파 활성화(EndoActivator)와 수동초음파 세정(PUI)을 최종 NaOCl/EDTA 순서에서 비교한 in vitro 연구의 PRISMA 2020 체계적 문헌고찰·메타분석(1980년대~2021).
+
+음파 활성화가 치근단 1/3 스미어층 제거에서 유의하게 우월(SMD −0.48, 95% CI −0.93~−0.02, p=.03); PUI는 중간·치근단 1/3 push-out 결합강도에서 우월(SMD −0.69); 치관부에서는 어느 결과지표도 유의차 없음.
+
+임상 선택은 목적 의존적 — 치근단 스미어 제거 우선 시 음파, 실러-상아질 결합강도 최대화 시 PUI 선호; 두 기법 모두 일반 주사기 세정보다 우월.
 
 ## Summary
 Systematic review and meta-analysis (PRISMA 2020) of in vitro studies comparing sonic vs. ultrasonic irrigant activation. Sonic activation (EndoActivator-type) was significantly superior for apical-third smear layer removal (SMD −0.48, 95% CI −0.93 to −0.02, p = .03). Ultrasonic activation (passive ultrasonic irrigation, PUI) was significantly superior for push-out bond strength at both the middle (SMD −0.69) and apical thirds. No significant difference was found for coronal/middle smear layer removal or coronal push-out bond strength.

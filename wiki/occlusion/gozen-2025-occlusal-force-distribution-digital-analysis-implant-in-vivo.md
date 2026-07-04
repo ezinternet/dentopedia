@@ -22,13 +22,21 @@ relations:
     target: didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective in-vivo study (n=18 analyzed of 20 enrolled): after a single posterior implant single-crown restoration, occlusal force redistributes across the whole arch — anterior and posterior contact/force decrease (posterior drop > anterior), while opposing-arch and total contact/force increase; the Medit i700 IOS (contact area) and OccluSense (contact area + force) correlate strongly (Kendall's Tau-B, p<0.001).
+Prospective in-vivo study (n=18 analyzed of 20 enrolled) comparing whole-arch occlusal force redistribution before and after a single posterior implant single-crown restoration using Medit i700 IOS and OccluSense simultaneously.
 
-## 한줄요약
+After restoration, anterior and posterior contact/force decreased (posterior drop > anterior: −65.5% vs −47.8% by IOS area) while opposing-arch and total contact/force increased; Medit i700 and OccluSense correlated strongly (Kendall's Tau-B, p<0.001) for contact area.
 
-전향 임상연구(분석 18명/등록 20명): 단일 구치부 임플란트 단일치관 수복 후 교합력이 전악으로 재분배 — 전·후방 접촉/힘은 감소(후방 감소>전방), 대합치·전체는 증가; Medit i700 IOS(접촉면적)와 OccluSense(접촉면적+교합력)는 강한 상관(Kendall Tau-B, p<0.001)을 보여 디지털 교합분석 도구로 상호 보완 가능.
+A single implant crown reshapes occlusion arch-wide, and OccluSense's force-amplitude data complements IOS contact-location data during chairside occlusal adjustment.
+
+## 세줄요약
+
+전향 임상연구(분석 18명/등록 20명): 단일 구치부 임플란트 단일치관 수복 전후 전악 교합력 재분배를 Medit i700 IOS와 OccluSense로 동시 측정했다.
+
+수복 후 전·후방 접촉/힘은 감소(후방 −65.5% > 전방 −47.8%, IOS 접촉면적 기준), 대합치·전체는 증가; 두 기기 접촉면적 상관이 강했다(Kendall Tau-B, p<0.001).
+
+임플란트 단일치관 한 개로도 전악 교합이 재분배되며, OccluSense의 힘-진폭 정보와 IOS의 접촉 위치 정보가 교합조정 시 상호 보완적으로 활용된다.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 약제 status 리뷰를, "치근단 농양(periapical abscess) 감염 제어 + 통증 + 치유"라는 임상 결과 축으로 적용·보강한다. 또 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 dressing→치유 결과 흐름을, 통증 완화 속도(48–72h)와 신제형(TAPC·나노·Ledermix)까지 확장해 재확인한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (GMS Hyg Infect Control 2025; PubMed/Scopus/Cochrane, 2020–2024 RCT/cohort/case-control; no meta-analysis due to heterogeneity) of intracanal medications for periapical-abscess infection control and healing: calcium hydroxide gives strong microbial reduction (~99.5%) and lowers IL-1β/TNF-α, triple antibiotic paste + diclofenac (TAPC) and nano-formulations (nano-Ag, nano-CH) give superior 48-h pain relief, Ledermix is fastest for acute apical periodontitis pain, and CBCT-monitored nonsurgical treatment of large lesions reaches ~76% healing.
 
-## 한줄요약
+Systematic review (GMS Hyg Infect Control 2025;
+
+PubMed/Scopus/Cochrane, 2020–2024 RCT/cohort/case-control;
+
+no meta-analysis due to heterogeneity) of intracanal medications for periapical-abscess infection control and healing: calcium hydroxide gives strong microbial reduction (~99.5%) and lowers IL-1β/TNF-α, triple antibiotic paste + diclofenac (TAPC) and nano-formulations (nano-Ag, nano-CH) give superior 48-h pain relief, Ledermix is fastest for acute apical periodontitis pain, and CBCT-monitored nonsurgical treatment of large lesions reaches ~76% healing.
+
+## 세줄요약
+
 
 치근단 농양 감염 제어·치유를 위한 근관 내 약제 체계적 고찰(2020–2024 RCT/코호트/환자대조, 이질성으로 메타분석 미시행) — 수산화칼슘은 미생물 ~99.5% 감소 및 IL-1β/TNF-α 저하, 삼중항생제+디클로페낙(TAPC)과 나노 제형(나노은·나노CH)은 48시간 통증 완화에서 우수, Ledermix는 급성 치근단 치주염 통증에 가장 빠르며, CBCT로 모니터링한 큰 병소의 비수술 치료는 ~76% 치유율을 보였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

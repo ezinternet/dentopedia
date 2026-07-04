@@ -19,13 +19,21 @@ relations:
     target: wang-2019-fiber-posts-vs-metal-posts-severely-damaged
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fracture-resistance study (108 mandibular premolars, 9 groups × 12): pooled FRC-post groups had significantly higher fracture load than ParaPost groups (397.6 vs 265.6 N, P<0.001), while the three core build-up materials (Photo Core, LuxaCore, Core Max II) showed no superiority over each other.
+In-vitro 2×4 factorial study (108 mandibular first premolars, 9 groups × 12) isolating post type (FRC vs titanium ParaPost) from core build-up material (Photo Core, LuxaCore, Core Max II ± bonding agent) on fracture resistance under 45° load.
 
-## 한줄요약
+Post type was the dominant factor: pooled FRC-post groups averaged 397.6 N vs 265.6 N for ParaPost groups (P<0.001); core material had no significant effect within either post type, and adding a bonding agent to Core Max II yielded only a non-significant gain.
 
-인비트로 파절저항 연구 (하악 소구치 108개, 9군×12): FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높음 (397.6 vs 265.6 N, P<0.001), core 재료 3종(Photo Core, LuxaCore, Core Max II) 간 우열은 없음.
+The clinical implication is clear: when restoring an endodontically treated tooth with a post, the choice of fiber vs metal post drives fracture behavior far more than which composite core material is selected.
+
+## 세줄요약
+
+인비트로 2×4 요인설계 (하악 소구치 108개, 9군×12): 포스트 종류(FRC vs 티타늄 ParaPost)와 코어 재료(Photo Core, LuxaCore, Core Max II ±접착제)가 45° 하중 파절저항에 미치는 영향을 분리 분석.
+
+포스트 종류가 결정적 인자: FRC 통합 파절하중 397.6 N vs ParaPost 265.6 N (P<0.001); 각 포스트 내에서 코어 재료 간 유의차 없고, Core Max II에 접착제 추가도 유의미한 증가 없음.
+
+임상적 시사점: 근관치료치에 포스트를 식립할 때, 어떤 복합레진 코어를 사용하느냐보다 파이버 vs 금속 포스트 선택이 파절저항을 훨씬 크게 결정한다.
 
 ## Summary
 

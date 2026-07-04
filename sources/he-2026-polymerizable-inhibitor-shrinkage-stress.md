@@ -17,13 +17,23 @@ text_filename: he-2026-polymerizable-inhibitor-shrinkage-stress.txt
 
 레진 중합수축 관련 신규 PMC 전문 요청. 기존 위키의 저수축 전략 페이지들([[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] SR·전략 분류, [[resin/feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite]] PU-MA 매트릭스, [[resin/he-2026-fluorinated-thiol-ene-low-shrinkage-composite]] thiol-ene)이 대부분 "부피수축 저감" 또는 "신규 모노머" 축인데, 본 논문은 **gel-point 지연을 통한 수축응력 저감** + **용출 억제제(BHT) 독성 회피**라는 다른 축을 채운다. 중합성 억제제 PBHT로 수축응력을 낮추면서 용출을 크게 줄인 in-vitro 근거로, meereis-2018의 "resin matrix 개질" 전략 분류를 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro material-science study (Clin Oral Investig 2026, Turku/SCUT) synthesizing a polymerizable radical inhibitor PBHT (a methacrylate-functional BHT analog) and adding it at 1–3 wt% to a UDMA/Bis-EMA/TEGDMA composite: PBHT significantly lowered polymerization shrinkage stress (max stress-rate falling from 47.5 to 13.1 ×10⁻³ MPa·s at 3 wt%) where non-polymerizable BHT did not, while leaching far less inhibitor (1%PBHT 132 vs 1%BHT 549 µg/g), with 1 wt% PBHT giving the best overall balance.
 
-## 한줄요약
+(incomplete)
 
-In-vitro 재료연구(Clin Oral Investig 2026): 중합성 라디칼 억제제 PBHT(메타크릴레이트 결합형 BHT 유도체)를 합성해 UDMA/Bis-EMA/TEGDMA 레진에 1–3 wt% 첨가 — 비중합형 BHT는 수축응력을 못 낮췄으나 PBHT는 유의하게 저감(최대 수축응력속도 47.5→13.1 ×10⁻³ MPa·s, 3 wt%), 용출 억제제도 훨씬 적음(1%PBHT 132 vs 1%BHT 549 µg/g); 최적 농도 1 wt%.
+(incomplete)
+
+## 세줄요약
+
+
+In-vitro 재료연구(Clin Oral Investig 2026): 중합성 라디칼 억제제 PBHT(메타크릴레이트 결합형 BHT 유도체)를 합성해 UDMA/Bis-EMA/TEGDMA 레진에 1–3 wt% 첨가 — 비중합형 BHT는 수축응력을 못 낮췄으나 PBHT는 유의하게 저감(최대 수축응력속도 47.5→13.1 ×10⁻³ MPa·s, 3 wt%), 용출 억제제도 훨씬 적음(1%PBHT 132 vs 1%BHT 549 µg/g);
+
+최적 농도 1 wt%.
+
+(incomplete)
 
 ## 1. Document Information
 

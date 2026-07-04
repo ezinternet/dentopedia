@@ -13,13 +13,21 @@ source_collection: external
 tags: [socket-shield, bibliometric, research-trends, AI, scopus]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-AI-assisted bibliometric analysis of 157 socket-shield-technique articles (Scopus, 2010–2024) mapping a steadily rising output (especially post-2015), with the USA leading total and international collaborative publications, China most single-country publications, and Germany the highest total and average citations.
+AI-assisted bibliometric analysis of 157 socket-shield-technique (SST) articles indexed in Scopus (2010–2024), using Scopus API screening plus manual expert verification, R bibliometrix, VOSviewer, and Python.
 
-## 한줄요약
+Publication output rose steadily since SST's 2010 introduction (accelerating post-2015); the USA led total and international collaborative output, China led single-country publications, and Germany held the highest total and average citations — with early conceptual papers retaining lasting influence.
 
-소켓 쉴드 논문 157편(Scopus, 2010–2024)을 AI 보조 계량서지학으로 분석 — 2015년 이후 출판이 꾸준히 증가, 미국이 총·국제공동 출판 1위, 중국이 단일국가 출판 최다, 독일이 총·평균 피인용 최고.
+This bibliometric mapping provides a research-landscape overview rather than clinical evidence; its added value is demonstrating an AI-assisted evidence-mapping workflow for a surgical technique.
+
+## 세줄요약
+
+AI 보조 계량서지학 분석: Scopus API + 수작업 전문가 검증으로 소켓 쉴드 기법(Socket Shield Technique, SST) 논문 157편(2010–2024) 분석.
+
+2010년 기법 도입 후 출판 꾸준히 증가(2015년 이후 가속); 미국 총·국제공동 출판 1위, 중국 단일국가 최다, 독일 총·평균 피인용 최고 — 초기 개념 논문의 지속적 영향력 확인.
+
+임상 근거가 아닌 연구 지형 맵핑; AI 보조 증거 스크리닝 방법론을 수술기법 문헌에 적용한 첫 시도로서의 방법론적 가치가 주요 기여.
 
 ## Summary
 

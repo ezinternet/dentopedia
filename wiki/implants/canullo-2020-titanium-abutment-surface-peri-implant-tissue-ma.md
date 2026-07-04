@@ -19,13 +19,21 @@ relations:
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (10 studies; 6 pooled — 4 RCT/2 CCT, 118 patients, 182 implants): modified titanium abutment surfaces show no significant short-term difference vs controls in plaque index, bleeding on probing, or probing depth; long-term (5–6 y) studies report contradictory results depending on surface technique.
+SR+MA (10 studies reviewed; 6 pooled via random-effects — 4 RCT, 2 CCT; 118 patients, 182 implants; database search through April 2019) evaluating whether titanium healing-abutment surface modifications affect peri-implant soft-tissue outcomes.
 
-## 한줄요약
+Modified surfaces showed no significant short-term difference vs controls for plaque index (P=0.091), bleeding on probing (P=0.099), or probing depth (P=0.488); no moderator (study type, design, implant number, follow-up) reached significance.
 
-체계적 문헌고찰 + 메타분석 (10편 포함, 6편 풀링 — RCT 4·CCT 2, 환자 118명·임플란트 182개): 변형된 티타늄 어버트먼트 표면은 단기적으로 플라크 지수·탐침 시 출혈(BoP)·탐침 깊이(PD)에서 대조군과 유의한 차이가 없었고, 장기(5~6년) 연구는 표면 처리 기법에 따라 상반된 결과를 보였다.
+Four long-term studies (5–6 years) were too heterogeneous to pool and reported contradictory results by technique, so surface modification cannot yet be recommended as a reliable lever on peri-implant soft-tissue health.
+
+## 세줄요약
+
+SR+MA (10편 검토, 6편 풀링 — RCT 4·CCT 2, 환자 118명·임플란트 182개): 변형된 티타늄 어버트먼트 (Healing Abutment) 표면 처리가 임플란트주위 연조직에 미치는 영향 평가.
+
+단기 결과: 플라크 지수 (P=0.091)·탐침 시 출혈 (Bleeding on Probing, BoP, P=0.099)·탐침 깊이 (Probing Depth, PD, P=0.488) 모두 대조군과 유의한 차이 없음.
+
+장기 (5–6년) 4편은 이질성 과다로 풀링 불가·기법에 따라 상반된 결과 — 표면 처리 단독으로 임플란트주위 조직 건강을 개선하기 어려움.
 
 ## Summary
 

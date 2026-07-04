@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Prospective longitudinal study (n=14, 6 months) comparing two ARP protocols using InterOss® xenograft — Bartee (deficient socket + dPTFE) vs. Bio-Col (4-wall intact socket + collagen plug) — vertical resorption 11.48% vs. 13.24% and horizontal resorption 21.95% vs. 20.55%, with no significant differences between groups; new bone was 31.10% vs. 13.24% (NS, underpowered).
+## Three-line Summary
 
-## 한줄요약
-전향적 longitudinal(n=14, 6개월): InterOss® 이종골을 사용한 두 ARP 프로토콜 비교 — Bartee(결손 socket + dPTFE) vs Bio-Col(4벽 intact socket + collagen plug) — 수직 11.48% vs 13.24%, 수평 21.95% vs 20.55% 흡수로 양 군 유의차 없음; 신생골은 Bartee 31.10% vs Bio-Col 13.24% (NS, 표본 부족).
+Prospective longitudinal study (UPAEP Mexico, n=14, Group A Bartee n=7 / Group B Bio-Col n=7, 6 months) comparing two named ARP protocols using InterOss® xenograft — Bartee protocol (deficient socket with ≥1 wall loss, dPTFE membrane removed day 21) vs. Bio-Col protocol (4-wall intact socket, xenograft+collagen plug+tissue adhesive).
+
+Vertical resorption: Bartee 11.48% vs Bio-Col 13.24% (p=0.482, NS); horizontal: 21.95% vs 20.55% (p=0.949, NS); new bone at re-entry: 31.10% vs 13.24% (p=0.744, NS) — all outcomes statistically equivalent, though the new bone difference (18%) is clinically notable.
+
+With only n=7 per arm the study is critically underpowered to detect moderate differences — the equivalence result must be interpreted cautiously; it does confirm both protocols maintain an implantable ridge at 6 months regardless of socket morphology.
+
+## 세줄요약
+
+전향적 종단 연구 (Prospective Longitudinal Study, 멕시코 UPAEP, n=14; Bartee 군 n=7 / Bio-Col 군 n=7, 6개월): InterOss® 이종골 사용 두 치조제 보존술 (ARP) 프로토콜 비교 — Bartee 프로토콜 (소켓 벽 결손, 치밀 폴리테트라플루오로에틸렌 (d-PTFE) 막 21일 제거) vs Bio-Col 프로토콜 (4벽 intact, 이종골+콜라겐 플러그+조직 접착제).
+
+수직 흡수율: Bartee 11.48% vs Bio-Col 13.24% (p=0.482); 수평: 21.95% vs 20.55% (p=0.949); 재진입 시 신생골: 31.10% vs 13.24% (p=0.744) — 전 결과 통계적 동등, 그러나 신생골 차이(18%)는 임상적으로 주목할 수 있는 수준.
+
+n=7/군으로 통계 검출력 매우 부족 — 동등성 결론은 신중히 해석 필요; 소켓 형태 불문 6개월 후 임플란트 식립 가능한 치조제 유지는 양 군 모두 확인.
 
 ## Summary
 Elizalde-Mota 등(2024, UPAEP)은 socket 형태에 따라 두 가지 ARP 프로토콜을 사용한 인체 longitudinal 연구를 시행했다: 결손 buccal/lingual wall이 있는 경우 Bartee(dPTFE 노출막, 21일 후 제거), 4벽이 intact한 경우 Bio-Col(coronal 1/4 collagen plug + tissue adhesive). 양 군에서 InterOss® 이종골을 사용했고 6개월 CBCT/트레핀 biopsy로 평가. 결과: 양 군 모두 수직·수평 흡수가 비슷하게 통제됐고 차이는 통계적으로 유의하지 않았다. 임상적으로는 "socket 형태에 맞춰 프로토콜을 다르게 가져가도 ARP 효과는 동등하게 확보된다"는 메시지 [claude해석: 다만 n=7/arm으로 underpowered, 특히 신생골 차이(31% vs 13%)는 sample 부족으로 NS — 진정한 동등성 결론 아님].

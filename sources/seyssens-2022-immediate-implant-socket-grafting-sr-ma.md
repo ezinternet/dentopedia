@@ -10,7 +10,7 @@ pdf_filename: seyssens-2022-immediate-implant-socket-grafting-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (Cosyn, 15 RCT, n=577명, 604 임플란트 IIP+SG 298 vs IIP 306, follow-up 4-36개월): IIP 시 implant-socket gap에 골이식 (SG) 동반 vs 비동반 — hard tissue·일부 soft tissue 보존 유의.
 
 ## 1. Document Information

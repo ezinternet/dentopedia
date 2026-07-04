@@ -20,13 +20,21 @@ relations:
     target: khries-2024-identifying-barriers-pediatric-dental-appointments
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire study (n=294 parents, pediatric dental clinic, Navi Mumbai, India) found a 52% missed-appointment rate; forgetfulness and exams were the top reasons for missing, reliance on memory (and higher socioeconomic status) were associated with missing (p<0.05), and 48.3% preferred a reminder call from the dentist the day before.
+Cross-sectional questionnaire study (n=294 parents of children in active treatment, pediatric dental clinic, Navi Mumbai, India, Jan–Jul 2015) using a self-administered, pretested questionnaire to measure missed-appointment rates and reasons among a convenience sample.
 
-## 한줄요약
+Overall missed-appointment rate was 52% (153/294); top reasons for missing were forgetfulness and child's exams; memory-reliance was a significant correlate (p=0.024); counter-intuitively, the upper-middle socioeconomic class had the highest no-show rate (58.8%); preferred intervention was a dentist phone call the day before (48.3%).
 
-인도 나비뭄바이 소아치과 보호자 294명 단면 설문연구 — 결손율(missed-appointment rate)이 52%였고, 결손의 주요 사유는 망각·시험, 취소의 주요 사유는 환아의 컨디션 난조·보호자 일정이었으며, 기억 의존(memory)·높은 사회경제적 지위가 결손과 연관되었고(p<0.05) 48.3%가 전날 치과의사의 전화 리마인더(reminder call)를 선호했다.
+The finding that higher socioeconomic status and memory-reliance — not cost or financial barriers — drive no-shows supports reminder-system interventions (phone call > appointment card > SMS) as the primary scheduling lever.
+
+## 세줄요약
+
+단면 설문연구 (인도 나비뭄바이 소아치과, 보호자 294명, 2015년 1~7월): 적극 치료 중인 소아의 보호자를 대상으로 자기기입식 설문으로 미내원율과 이유를 조사.
+
+미내원율 52% (153/294); 결손 주요 사유는 망각·시험; 예약을 기억으로만 관리(memory-only, p=0.024)가 유의 연관; 상위중산층에서 오히려 미내원율 가장 높음(58.8%); 선호 개입은 전날 치과의사의 전화 리마인더(48.3%).
+
+비용·경제적 장벽보다 기억 의존과 높은 사회경제적 지위(바쁜 일정·낮은 우선순위)가 소아 미내원을 주도 → 전화·SMS 리마인더가 핵심 스케줄링 레버.
 
 ## Summary
 

@@ -14,11 +14,21 @@ source_collection: external
 tags: [ISQ, loading-protocol, Neoss, insertion-torque, early-loading, stability-dip, MBL, 1-year]
 ---
 
-## One-line Summary
-Prospective 1-year study (48 Neoss ProActive Tapered single implants): a simplified protocol loading at 6–8 weeks when insertion torque (IT) >40 Ncm (met by 96%) showed no stability dip, stable ISQ, marginal bone loss of −0.47 mm at 1 year, and 100% survival.
+## Three-line Summary
 
-## 한줄요약
-전향적 연구(48 Neoss ProActive 테이퍼 임플란트): IT>40Ncm 96%에서 달성; 6–8주 조기 부하; ISQ 안정적 유지(dip 없음); MBL −0.47mm; 0 실패
+Prospective 1-year study (48 Neoss ProActive Tapered single implants, insertion torque >40 Ncm as loading criterion, loading at 6–8 weeks).
+
+96% of implants met the IT>40 Ncm criterion; no stability dip was observed; ISQ remained stable from placement through 1 year; MBL −0.47 ± 0.38 mm; 100% survival.
+
+IT >40 Ncm is a reliable simplified early-loading criterion for tapered implants; absence of the stability dip suggests the ProActive design preserves mechanical stability through the remodeling phase.
+
+## 세줄요약
+
+전향적 1년 연구(48개 Neoss ProActive 테이퍼 단일 임플란트, 삽입 토크 >40 Ncm 달성 시 6–8주 조기 부하 프로토콜 적용).
+
+임플란트 96%(46/48)가 삽입 토크 기준 충족; 안정성 dip 없이 ISQ 안정 유지; 1년 변연골 소실(MBL) −0.47 ± 0.38 mm; 생존율 100%.
+
+삽입 토크 >40 Ncm은 테이퍼형 임플란트에서 신뢰할 수 있는 간편 조기 부하 기준이며, 안정성 dip 부재는 ProActive 디자인이 골재형성기 동안 기계적 안정성을 유지함을 시사한다.
 
 ## Summary
 Prospective 1-year study of a simplified loading protocol for Neoss ProActive Tapered implants. Criterion: IT >40 Ncm → loading at 6–8 weeks. Result: 96% of implants met the criterion, ISQ was stable (no dip observed), MBL was acceptable at 1 year, and survival was 100%.

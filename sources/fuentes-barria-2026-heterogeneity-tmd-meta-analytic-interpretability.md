@@ -17,11 +17,21 @@ text_filename: fuentes-barria-2026-heterogeneity-tmd-meta-analytic-interpretabil
 
 A methodological caution flag for how we read TMD arthrocentesis meta-analyses. This Letter to the Editor (Fuentes-Barría 2026, *Jpn Dent Sci Rev*) argues that the Valenzuela-Fuenzalida et al. arthrocentesis SR+MA pools fundamentally non-comparable comparators (splints, physiotherapy, PRP/HA injections, arthroscopy, arthrocentesis variants) under extreme heterogeneity (I² 85–98%), so its pooled estimates lack a clinical referent. It `refines` (qualifies) our existing arthrocentesis SR+MA pages by warning that their high-I² pooled effects may reflect between-study dispersion rather than a real treatment effect — directly relevant to how confidently we read [[tmj/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma]] (+1.12 mm MMO, high heterogeneity) and [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]]. Ingested as a critical-appraisal lens, not a new clinical result. According to PubMed; [DOI](https://doi.org/10.1016/j.jdsr.2026.04.004).
 
-## One-line Summary
+## Three-line Summary
+
 Letter to the Editor critiquing a TMD arthrocentesis SR+MA: pooling mechanistically distinct comparators under I²=85–98% heterogeneity (plus SMD on a mm scale and mixed diagnoses) leaves the pooled estimates clinically uninterpretable.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 TMD 관절천자(Arthrocentesis) 메타분석 비판 서한: 기전이 다른 비교군을 I²=85–98% 극단적 이질성 속에 통합하면(게다가 mm 척도에 SMD 사용·진단명 혼재) 통합 추정치가 임상적으로 해석 불가능해진다는 방법론적 경고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

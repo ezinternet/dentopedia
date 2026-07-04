@@ -11,7 +11,7 @@ pdf_filename: tonini-2022-irrigating-solutions-activation-methods-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR of 7 RCTs (PubMed/Scopus/Embase/Cochrane, search to Jan 2021): activation methods (PUI, XP-endo, EndoVac) significantly reduce biofilm vs conventional needle; NaOCl+chelating agent combinations not more effective antimicrobially.
 
 ## 1. Document Information

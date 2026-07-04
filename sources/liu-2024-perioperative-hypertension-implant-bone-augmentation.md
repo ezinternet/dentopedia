@@ -17,13 +17,23 @@ text_filename: liu-2024-perioperative-hypertension-implant-bone-augmentation.txt
 
 기존 위키는 전신질환 환자의 마취·약물 안전(예: [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]])과 진정·시술 중 모니터링([[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]])을 다루지만, 임플란트 동기 골증대술이라는 **장시간·자극적 외래 수술 중 발생하는 围术期(perioperative) 혈압 상승** 자체의 발생률·위험인자 데이터가 없었다. 본 728명 후향적 코호트는 심혈관계 의학적 위험 관리(혈압 모니터링·환자 선별)를 GBR/상악동거상술 술식별로 정량화해 그 공백을 메운다. (Note: PMC 전문 본문 미확보 — English structured abstract 수준으로만 작성, full_text:false.)
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=728, single Beijing center) — perioperative hypertension occurred in 26.77% of implant + bone-augmentation surgeries; male (RR 1.74), age ≥60 (RR 2.35), and surgical time >60 min (RR 1.65) were risk factors, but their effect varied by augmentation approach (significant in GBR, attenuated in lateral-window sinus lift).
 
-## 한줄요약
+Retrospective cohort (n=728, single Beijing center) — perioperative hypertension occurred in 26.77% of implant + bone-augmentation surgeries;
 
-후향적 코호트(n=728, 단일 베이징 센터) — 임플란트 동기 골증대술의 26.77%에서 围术期 고혈압 발생; 남성(RR 1.74)·60세 이상(RR 2.35)·수술시간 60분 초과(RR 1.65)가 위험인자였으나, 그 효과는 골증대 술식에 따라 달라짐(GBR에서 유의, 상악동 외측창 거상술에서는 약화).
+male (RR 1.74), age ≥60 (RR 2.35), and surgical time >60 min (RR 1.65) were risk factors, but their effect varied by augmentation approach (significant in GBR, attenuated in lateral-window sinus lift).
+
+(incomplete)
+
+## 세줄요약
+
+
+후향적 코호트(n=728, 단일 베이징 센터) — 임플란트 동기 골증대술의 26.77%에서 围术期 고혈압 발생;
+
+남성(RR 1.74)·60세 이상(RR 2.35)·수술시간 60분 초과(RR 1.65)가 위험인자였으나, 그 효과는 골증대 술식에 따라 달라짐(GBR에서 유의, 상악동 외측창 거상술에서는 약화).
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -36,13 +36,21 @@ tags: [guided-biofilm-therapy, GBT, air-polishing, erythritol, glycine, mechanic
 > - **의사결정 틀(decision frame)**: ① 치은연상·유지치주치료(Supportive Periodontal Care, SPC) → 에어폴리싱/GBT가 최적(편안함·시간·치질 보존·공시제 동기부여) ② 활동성 NSPT(stage III/IV) → SRP와 동등하니 술자·환자 선호와 효율로 선택하되 **치석은 여전히 초음파/손기구로 제거** ③ 치은연하 심부낭 → 바이오필름은 에어폴리싱, 치석은 기계적, 기종 위험 관리 ④ 임플란트 → PMPR 우선, 에어아브레이전은 합리적 보조이나 우월성 근거 없음.
 > - **연구 공백(gap)**: 전 영역에서 표준화된 결과지표(outcome set)·환자보고결과(Patient-Reported Outcome, PRO) 부재, GRADE 낮음, 장기 데이터 부족, 네트워크 메타분석(Network Meta-Analysis, NMA) 수행 불가 — "더 잘 설계된 장기 RCT 필요"가 공통 결론.
 
-## One-line Summary
+## Three-line Summary
 
-Across 12 papers (2 SRs, 4 RCTs, 1 in-vitro SR + narrative review, 2 in-vitro, 1 case report; teeth and implants), professional dental biofilm management by Guided Biofilm Therapy / air polishing delivers patient-centered benefits (comfort, treatment time, and the least hard-tissue abrasion) but is **clinically equivalent — not superior — to conventional mechanical debridement (SRP/PMPR) on hard endpoints (PPD, CAL, BoP)**; erythritol is the preferred low-damage powder, adjuncts add little on implants, and subgingival air polishing carries a real (if rare) emphysema risk.
+Synthesis of 13 papers (2 SRs, 4 RCTs, 1 in-vitro SR, 1 narrative review, 2 in-vitro studies, 1 case report, 2 implant SR/RCTs) on natural teeth and implants: Guided Biofilm Therapy (GBT)/air polishing delivers patient-centered benefits (less pain, shorter chair time, least hard-tissue abrasion) but is clinically equivalent — not superior — to conventional SRP/PMPR on hard endpoints (PPD, CAL, BoP) with GRADE very low (Yein 2026 SR, 5 RCTs).
 
-## 한줄요약
+Erythritol (14 µm) is the preferred powder (equal biofilm removal to sodium bicarbonate but far less surface damage; Pujarern 2024); hand curettes lose the most cementum per stroke while air polishing loses the most per second — avoid prolonged dwell time; subgingival air polishing carries a real (if rare) emphysema risk (Hussein 2026 case report, 5 mm pocket, hospitalization).
 
-치아·임플란트 12편(SR 2·RCT 4·in-vitro SR+서술고찰·in-vitro 2·증례 1)을 종합하면, GBT·에어폴리싱은 편안함·시술시간·최소 치질 마모라는 환자 중심 이득은 있으나 PPD·CAL·BoP 같은 단단한 임상지표에서는 전통적 기계적 청결관리(SRP/PMPR)와 **동등할 뿐 우월하지 않다**; 분말은 에리스리톨이 표면 손상이 적어 선호되고, 임플란트에서 보조요법은 추가 이득이 미미하며, 치은연하 에어폴리싱은 드물지만 실재하는 피하기종 위험이 있다.
+For implants, all non-surgical protocols improve peri-implant mucositis with no adjunct superiority at 6 months (Brunello 2026 SR, 21 studies; Eraydın-Tüfek 2026 5-arm RCT); decision framework: GBT for supragingival/supportive-care phases, SRP for active NSPT, dual-cure chemomechanical gel for deep residual pockets.
+
+## 세줄요약
+
+치아·임플란트 13편 종합 — 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT)·에어폴리싱은 편안함·시술시간·최소 치질 마모라는 환자 중심 이득이 있으나, 치주낭깊이(Probing Pocket Depth, PPD)·임상부착수준(Clinical Attachment Level, CAL)·탐침시출혈(Bleeding on Probing, BoP) 같은 단단한 임상지표에서는 스케일링·치근활택술(Scaling and Root Planing, SRP)/전문적 기계적 치면세균막 제거(Professional Mechanical Plaque Removal, PMPR)와 동등할 뿐 우월하지 않음(Yein 2026 SR, GRADE 매우 낮음).
+
+에리스리톨(Erythritol, 14µm)이 선호 분말(세균막 제거력 동등·표면 손상 최소; Pujarern 2024); 치은연하 에어폴리싱은 드물지만 실재하는 피하기종(Subcutaneous Emphysema) 위험(Hussein 2026, 5mm 포켓·입원); 손기구가 스트로크당 백악질 손실 최대, 에어폴리싱은 초당 손실 최대 — 한 부위 장시간 적용 금지.
+
+임플란트: 모든 비외과 치료가 주위점막염 개선에 동등(Brunello 2026 SR, 21편; Eraydın-Tüfek 2026 5군 RCT); 결정 틀: 치은연상·유지치주치료 → GBT 최적, 활동성 비수술 → SRP와 동등, 심부 잔존 포켓 → "clean and seal" 겔 선택적 고려.
 
 ## Summary
 

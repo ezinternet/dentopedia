@@ -17,13 +17,23 @@ text_filename: inchingolo-2023-clear-aligner-distalization-predictability-sr.txt
 
 `clear-aligner` sweep 예측가능성 축: distalization이라는 aligner의 약점 이동에 대한 SR. 앵커 [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 가 지적한 "특정 이동 열등"을 술식 레벨(앵커리지 손실·TAD/IPR 보강)로 구체화. TAD 의존성 때문에 [[wiki/orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] 와 교차. PMC OA 전문.
 
-## One-line Summary
+## Three-line Summary
 
-SR (19 studies): molar distalization is achievable with clear aligners alone, but anterior anchorage loss is highly probable; predictability and stability improve markedly with skeletal anchorage (TADs) and IPR — a hybrid approach gives the best success, especially with large overjet.
 
-## 한줄요약
+SR (19 studies): molar distalization is achievable with clear aligners alone, but anterior anchorage loss is highly probable;
 
-SR(19편): 투명교정 단독으로 대구치 distalization은 가능하나 전치부 앵커리지 손실이 매우 흔함. TAD(골성 앵커리지)·IPR 병용 시 예측성·안정성이 크게 향상 — 특히 큰 overjet에서 hybrid 접근이 최선.
+predictability and stability improve markedly with skeletal anchorage (TADs) and IPR — a hybrid approach gives the best success, especially with large overjet.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR(19편): 투명교정 단독으로 대구치 distalization은 가능하나 전치부 앵커리지 손실이 매우 흔함.
+
+TAD(골성 앵커리지)·IPR 병용 시 예측성·안정성이 크게 향상 — 특히 큰 overjet에서 hybrid 접근이 최선.
+
+(incomplete)
 
 ## 1. Document Information
 

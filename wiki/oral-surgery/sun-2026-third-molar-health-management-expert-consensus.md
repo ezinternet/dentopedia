@@ -20,13 +20,21 @@ relations:
     target: damico-2025-third-molar-surgical-indications-guidelines
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Chinese multi-center expert consensus (Int J Oral Sci, 2026) covering the full clinical lifecycle of third molar management — classification, extraction indications, anesthesia, surgical techniques (coronectomy, root-removal-first, digital navigation), socket regeneration, complication rescue, and functional utilization via autotransplantation (~95% success) or orthodontic mesialization.
+Chinese multi-center expert consensus (Int J Oral Sci, 2026) covering eight domains of third molar management: classification (Winter/Pell&Gregory/Archer with new Category D and Archer 4-level modifications), three-tier extraction indications, and advanced surgical techniques.
 
-## 한줄요약
+Key epidemiological anchors from a Chinese cohort of 13,168 individuals include 70.3% mandibular impaction rate, pericoronitis at 82.41% mandibular incidence, ~19.5% distal second molar caries, and autotransplantation success ~95% at 12 months.
 
-2026년 중국 다기관 전문가 합의문(Int J Oral Sci): 제3대구치 분류체계(Winter·Pell&Gregory·Archer), 발치 적응증 3단계(확정·치료적·예방적), 수술 기법(치관절제술·치근우선법·디지털 가이드), 소켓 재생, 중증 합병증 처치, 자가치아이식(성공률 ~95%) 및 교정적 근심이동을 총망라.
+The consensus introduces graded complication protocols (6 scenarios), socket management by bleeding severity, and functional utilization pathways — applicable to high-volume Asian practices where third molar management is among the most common surgical procedures.
+
+## 세줄요약
+
+중국 다기관 전문가 합의문(Int J Oral Sci, 2026): 분류(Winter·Pell&Gregory Category D 신설·Archer 4단계), 발치 적응증 3단계(확정·치료적·예방적), 고난도 기법(치근우선법·상악동막 접근·디지털 가이드) 등 8개 영역 총망라.
+
+중국 13,168명 코호트 기반 역학 지표: 하악 매복률 70.3%, 치관주위염 82.41% 하악, 제2대구치 원심 우식 ~19.5%, 자가치아이식(Autotransplantation) 12개월 성공률 ~95%.
+
+중증 합병증 6개 시나리오 단계별 처치 프로토콜, 출혈 중증도별 소켓 관리, 교정적 근심이동 포함 — 아시아 고빈도 사랑니 수술 환경에 직결되는 임상 지침.
 
 ## Summary
 

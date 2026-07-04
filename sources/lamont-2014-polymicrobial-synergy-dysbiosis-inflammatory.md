@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Formalizes the PSD model first sketched in [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] into a generalizable framework for mucosal inflammatory diseases, adding molecular detail on interspecies signaling (FimA/Mfa1–SspA/B, tyrosine kinase/phosphatase Ptk1/Ltp1/CdhR), epithelial-cell invasion synergy, and the "driver–passenger" pathobiont concept — and broadens reach to link with [[oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]].
 
-## One-line Summary
-Narrative review elaborating the PSD model to explain how keystone pathogens (P. gingivalis), accessory pathogens (S. gordonii, A. actinomycetemcomitans), and pathobionts cooperate through interspecies signaling, complement evasion, and chemokine paralysis to drive chronic polymicrobial inflammatory disease.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: PSD 모델 심화 — keystone pathogen(P. gingivalis)·accessory pathogen(S. gordonii)·pathobiont의 종간 신호(Ptk1/Ltp1/CdhR), 보체 회피, 케모카인 마비를 통한 만성 다균종 염증 질환 기전 정리.
+Narrative review elaborating the PSD model to explain how keystone pathogens (P.
+
+gingivalis), accessory pathogens (S.
+
+gordonii, A. actinomycetemcomitans), and pathobionts cooperate through interspecies signaling, complement evasion, and chemokine paralysis to drive chronic polymicrobial inflammatory disease.
+
+## 세줄요약
+
+Narrative review: PSD 모델 심화 — keystone pathogen(P.
+
+gingivalis)·accessory pathogen(S.
+
+gordonii)·pathobiont의 종간 신호(Ptk1/Ltp1/CdhR), 보체 회피, 케모카인 마비를 통한 만성 다균종 염증 질환 기전 정리.
 
 ## 1. Document Information
 - Trends Mol Med. 2015;21(3):172–183. Published online 2014. NIH HHS Public Access.

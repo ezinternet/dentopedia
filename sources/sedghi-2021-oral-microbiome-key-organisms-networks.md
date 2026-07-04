@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides the ecological and omics-level framework for understanding oral microbial community assembly, succession, and dysbiosis that contextualises matrix and species-specific papers such as [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] and [[oral-microbiology/bloch-2024-oral-streptococci-modulators-health-disease]].
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review covering the composition, assembly, and dysbiotic shifts of the oral microbiome — from pioneer colonisers and multi-omics research techniques to the polymicrobial networks driving caries, periodontitis, and systemic disease.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: 구강 마이크로바이옴의 군집 형성·천이·불균형(dysbiosis)을 다중 오믹스 관점에서 총괄 — 우식·치주염·전신질환과의 polymicrobial 네트워크 해석.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Periodontology 2000. 2021;87(1):107–131. Open access (CC BY-NC-ND).

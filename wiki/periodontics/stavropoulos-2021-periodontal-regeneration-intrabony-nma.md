@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR + Bayesian random-effects network meta-analysis of 30 RCTs (21 in NMA; follow-up 3–20 years) of periodontal regenerative/reconstructive procedures in intrabony defects: OFD was least efficacious, while regenerative approaches gave significantly shallower residual PD (MD −2.37 to −0.60 mm) and larger CAL gain (MD +1.26 to +2.66 mm), with combination approaches (GTR+graft, EMD+graft) appearing most efficacious and tooth loss far lower after regeneration (0.4% vs 2.8% for OFD).
+## Three-line Summary
 
-## 한줄요약
-골내결손(Intrabony Defect) 치주재생술 관련 30개 RCT NMA(추적 3–20년): 재생/재건술이 OFD보다 잔존 탐침깊이 및 임상부착수준에서 유의하게 우수하며, 병용요법(GTR+이식재, EMD+이식재)이 단독요법보다 더 효과적으로 보임. 치아 소실률 재생군 0.4% vs OFD 2.8%.
+Systematic review + Bayesian random-effects network meta-analysis (30 RCTs overall; 21 in NMA; follow-up 3–20 years) of periodontal regenerative/reconstructive procedures in intrabony defects comparing grafting, GTR, EMD, combinations, blood-derived growth factors, and OFD.
+
+OFD was the least efficacious; regenerative approaches produced significantly shallower residual PD (MD −2.37 to −0.60 mm; 4/8 comparisons significant) and larger CAL gain (MD +1.26 to +2.66 mm; 6/8 significant); combination approaches (GTR+graft, EMD+graft) appeared most efficacious; tooth loss 0.4% (regeneration) vs 2.8% (OFD).
+
+All regenerative approaches outperform OFD at medium-to-long-term; combination therapy is likely superior to monotherapy, but a clear hierarchy among individual regenerative modalities cannot yet be established due to limited evidence and low overall quality.
+
+## 세줄요약
+
+골내결손(Intrabony Defect) 치주재생/재건술의 SR + 베이지안 NMA (30개 RCT; NMA 21개; 추적 3–20년): 골이식·GTR·EMD·병용요법·혈소판 유래 성장인자·OFD 비교.
+
+OFD가 최저 효과; 재생술은 잔존 PD MD −2.37~−0.60 mm(4/8 유의), CAL 획득 MD +1.26~+2.66 mm(6/8 유의)로 유의하게 우수; 병용요법(GTR+이식재, EMD+이식재)이 가장 효과적으로 보임; 치아 소실률 재생군 0.4% vs OFD 2.8%.
+
+모든 재생술은 중장기적으로 OFD보다 우수하며 병용요법이 유망하나, 증거 부족과 전반적 낮은 질로 인해 개별 재생 방법 간 명확한 위계 확립은 불가능함.
 
 ## Summary
 This open-access SR with Bayesian random-effects NMA included 30 RCTs reporting ≥3 years of post-operative outcomes for periodontal regenerative/reconstructive procedures in intrabony defects. NMA of 21 RCTs showed OFD was the least efficacious. Regenerative approaches produced significantly shallower residual PD (MD: −2.37 to −0.60 mm, 4/8 comparisons significant) and larger CAL gain (MD: 1.26 to 2.66 mm, 6/8 comparisons significant). Combination approaches (GTR+grafting, EMD+grafting) appeared most efficacious. Tooth loss was rare after regenerative treatment (0.4%) vs OFD (2.8%). A clear hierarchy among regenerative approaches could not be established due to limited evidence.

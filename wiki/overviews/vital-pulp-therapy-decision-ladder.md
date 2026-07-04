@@ -28,11 +28,21 @@ tags: [VPT, vital-pulp-therapy, direct-pulp-capping, pulpotomy, MTA, Biodentine,
 > - 미성숙 치근이 VPT에 유리하나, 성숙 치근도 올바른 진단이면 허용(Taha 2017).
 > - 추적 필수: 6·12·24개월(모든 NMA서 시간 경과로 성공률 감소); 실패 징후 — 통증·종창·누공·치근단 병변·내흡수.
 
-## One-line Summary
-Synthesis of 11 VPT papers (3 SR+MA/NMA, 2 RCT, 1 consensus, 1 prospective, 1 in-vitro, 1 narrative-review, 1 clinical-lecture): Biodentine and MTA are first-line materials (OR 4.41 and 3.02 vs Ca(OH)₂); overall VPT success >93%; diagnosis of reversible vs irreversible pulpitis is the critical gate.
+## Three-line Summary
 
-## 한줄요약
-VPT 11편 종합: Biodentine·MTA 1차 재료(Ca(OH)₂ 대비 OR 4.41·3.02), 전체 VPT 성공률 >93%, 가역성 치수염 진단이 핵심 게이트.
+Synthesis of 11 VPT papers (3 SR+MA/NMA, 2 RCT, 1 consensus, 1 prospective, 1 in-vitro, 1 narrative-review, 1 clinical-lecture): Biodentine and MTA are first-line materials (OR 4.41 and 3.02 vs Ca(OH)₂ for DPC; SUCRA: Biodentine > MTA > TheraCal > Ca(OH)₂); Ca(OH)₂ is not recommended as first-line for any VPT modality (2.3–2.5× failure rate vs MTA; Komora 2024).
+
+Overall VPT success exceeds 93% in a Bayesian NMA with CINeMA grading (Elmsmari 2026, 35 RCTs), with MTA vs Ca(OH)₂ HIGH certainty advantage; within correctly selected reversible-pulpitis cases, material differences diminish — a 3-way RCT (Hu 2026, n=120) found iRoot BP Plus, MTA, and Ca(OH)₂ not significantly different (p=0.6), with proximal lesion the strongest failure predictor (OR 18.18).
+
+Diagnosis of reversible vs irreversible pulpitis is the critical gate: cold/EPT positive without spontaneous pain or >30-second lingering → reversible; bright-red bleeding self-limiting in 5 minutes at exposure → favorable; ESE 2019 provides the procedural hierarchy (IPC → DPC → partial pulpotomy → full pulpotomy → vital pulpectomy).
+
+## 세줄요약
+
+11편 종합(3 SR+MA/NMA, 2 RCT, 1 consensus, 1 전향, 1 in-vitro, 1 서술, 1 강의): Biodentine·MTA 1차 재료(DPC에서 Ca(OH)₂ 대비 OR 4.41·3.02; SUCRA: Biodentine > MTA > TheraCal > Ca(OH)₂); Ca(OH)₂는 어떤 VPT 술식에서도 1차 재료 비권장(MTA 대비 2.3–2.5배 실패율; Komora 2024).
+
+전체 VPT 성공률 >93%(Elmsmari 2026 Bayesian NMA, 35 RCT; MTA vs Ca(OH)₂ HIGH certainty 우월); 단 올바르게 선별된 가역성 치수염 증례에서는 재료 차이 소멸(Hu 2026 3-way RCT n=120, p=0.6), 근심면 우식이 최강 실패 예측인자(OR 18.18) — 재료 선택보다 증례 선택이 결과를 좌우.
+
+가역성 vs 비가역성 치수염 진단이 핵심 게이트: 냉/EPT 양성·자발통·30초 지속통 없음 → 가역성; 선홍색 노출부 출혈 5분 내 지혈 → 양호; ESE 2019 침습도 위계: IPC → DPC → 부분절단 → 전부절단 → 생활치수절단술 순.
 
 ## Summary
 

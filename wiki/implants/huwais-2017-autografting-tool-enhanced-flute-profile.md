@@ -18,13 +18,21 @@ relations:
     target: kim-2019-double-spiral-condensing-screw-implant
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PCT patent (WO 2017/124079 A1; applicant Huwais IP Holding LLC, inventor Salah Huwais) for the osseodensification "Densah/Versah" rotary osteotome — a tapered multi-fluted bur whose claimed improvement is a continuously negative rake angle, with each flute carrying a cutting face and an opposing densifying face so the same tool cuts when rotated one way and condenses/autografts bone hydraulically when rotated the other.
+PCT patent (WO 2017/124079 A1; Huwais IP Holding LLC) disclosing the engineering design of the Densah/Versah osseodensification rotary osteotome — a tapered multi-fluted bur whose core claimed improvement is a continuously negative rake angle producing dual-face flutes (cutting face + densifying face).
 
-## 한줄요약
+The negative rake geometry enables one tool to cut bone clockwise and compress/hydraulically autograft bone counterclockwise; a stopper section creates a piston effect that drives bone slurry into osteotomy walls at >~200 RPM; no clinical or bench measurements are presented — effects are inventor assertions only.
 
-Huwais IP Holding LLC / 발명자 Salah Huwais의 PCT 특허(WO 2017/124079): 골밀도화 Densah/Versah 회전 osteotome. 개량 핵심은 연속 음의 레이크각(negative rake angle) flute이며, 각 flute이 cutting face와 densifying face를 함께 가져 같은 도구가 한 방향=절삭 / 반대 방향=압축·hydraulic autografting을 수행 — 덴샤버 "날 모양"의 원천 문서.
+This patent is the design origin document for the entire Densah/Versah bur family; engineering validation lives in the companion bench paper and subsequent animal/clinical SR+MAs.
+
+## 세줄요약
+
+PCT 특허(WO 2017/124079 A1; Huwais IP Holding LLC) — Densah/Versah 골밀도화(Osseodensification, OD) 회전 osteotome 설계 공개. 핵심 개량은 연속 음의 레이크각(negative rake angle) flute으로, 각 flute에 cutting face + densifying face가 함께 존재.
+
+음의 레이크 형상이 동일 도구의 시계방향 = 절삭 / 반시계방향 = 압축·유압 자가이식(hydraulic autograft)을 가능하게 하며, stopper 구간이 피스톤 효과로 >~200 RPM에서 골 슬러리를 골삭제 벽에 주입; 임상·벤치 데이터 없이 발명자 주장만.
+
+이 특허는 Densah/Versah 버 계열 전체의 설계 원천 문서; 공학적 검증은 동반 벤치 논문과 이후 동물·임상 SR+MA에 수록.
 
 ## Summary
 

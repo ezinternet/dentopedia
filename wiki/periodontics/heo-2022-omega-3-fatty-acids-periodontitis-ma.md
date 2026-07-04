@@ -19,13 +19,21 @@ relations:
     target: sanz-2020-treatment-stage-i-iii-periodontitis-efp
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis of 13 RCTs: omega-3 fatty acid intake (supplement or diet) as a periodontitis intervention gave significant PPD reduction (−0.44 mm), CAL gain (−0.51 mm), and BOP reduction (−9.45%); low risk of bias, no publication bias.
+Meta-analysis of 13 RCTs (11 supplement + 2 omega-3-rich diet studies, 2010–2020) testing omega-3 polyunsaturated fatty acids (PUFA) as an adjunct to periodontal therapy; low risk of bias and no publication bias detected.
 
-## 한줄요약
+Omega-3 supplementation or dietary intake produced statistically significant but small improvements in PPD reduction (−0.44 mm), CAL gain (−0.51 mm), and BOP reduction (−9.45%).
 
-13편 RCT 메타분석 — 오메가-3 지방산(보충제·식이)이 치주염에서 유의한 치주낭 깊이 감소(−0.44 mm), 임상부착수준 획득(−0.51 mm), 출혈 감소(−9.45%)를 보임. 비뚤림 낮고 출판 비뚤림 없음. 단, 효과 크기는 작고 EFP 가이드라인은 반대 권고.
+The sub-millimetre effect positions omega-3 as a possible adjunct to mechanical therapy, not a standalone treatment; clinically, this conflicts with the EFP S3 guideline (Sanz 2020) giving a Grade A recommendation against omega-3 PUFA adjuncts in stage I–III periodontitis.
+
+## 세줄요약
+
+오메가-3 다불포화지방산 (Polyunsaturated Fatty Acid, PUFA) 보충제·식이를 치주치료 보조로 검증한 13편 RCT 메타분석 (2010–2020, 비뚤림 낮음, 출판 비뚤림 없음).
+
+오메가-3 섭취가 치주낭깊이 감소 −0.44 mm, 임상부착수준 획득 −0.51 mm, 탐침시 출혈 감소 −9.45%로 통계적으로 유의하지만 절대값은 소폭.
+
+1 mm 미만의 효과 크기는 기계적 치료 보조 역할에 불과하며 독립 치료로 불충분; EFP S3 가이드라인(Sanz 2020)이 1–3기 치주염에서 오메가-3 PUFA 보조제 사용 Grade A 반대 권고를 하고 있어 직접적인 임상 갈등이 존재한다.
 
 ## Summary
 

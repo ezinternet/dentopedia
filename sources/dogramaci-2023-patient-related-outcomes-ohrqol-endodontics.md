@@ -13,13 +13,21 @@ source_collection: external
 
 행동치의학 카테고리에 "환자가 직접 보고하는 결과(PRO)"라는 결과측정 축이 필요. 본 review(Int Endod J 2023)는 endodontics에서 PCO/PRO/PROM/PREM 용어를 정의하고 ESE S3 가이드라인에 들어간 측정틀을 정리 — [[wiki/behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]](치주·임플란트 PRO)와 짝을 이뤄 PRO 하위 카테고리의 endo 축. OHRQoL 측정도구 미검증 문제를 명시해 비판적 활용 가능.
 
-## One-line Summary
+## Three-line Summary
 
-Review (Int Endod J, feeding ESE S3-level guidelines) defining patient-related outcome terminology in endodontics — PCO vs PRO, and within PRO the PRO measures (symptoms/function/HRQoL) vs patient-reported experience measures (humanity of care, satisfaction, preference, adherence, costs, expectation fulfilment, decision regret); OHRQoL likely improves after treatment but the literature is hampered by non-validated instruments.
+Narrative review (Int Endod J, feeding ESE S3-level guidelines) defining patient-related outcome terminology in endodontics — PCO vs PRO, and within PRO the PRO measures (symptoms/function/HRQoL) vs patient-reported experience measures (humanity of care, satisfaction, preference, adherence, costs, expectation fulfilment, decision regret).
 
-## 한줄요약
+OHRQoL likely improves after endodontic treatment completion with high tooth survival and limited need for further intervention.
 
-근관치료의 환자관련결과 용어를 정의한 review(Int Endod J, ESE S3 가이드라인 근거) — PCO와 PRO 구분, PRO 안에서 PROM(증상·기능·삶의 질)과 PREM(진료의 인간성·만족·선호·순응·비용·기대충족·결정후회) 구분. 치료 후 OHRQoL은 개선되나 미검증 측정도구 사용으로 근거가 제약됨.
+Limited evidence base and heterogeneous non-validated outcome instruments preclude pooling, calling for validated OHRQoL/PROM instruments specific to endodontics.
+
+## 세줄요약
+
+환자관련결과 용어를 정의한 narrative review(Int Endod J, ESE S3 가이드라인 근거) — PCO와 PRO를 구분하고, PRO 내에서 PROM(증상·기능·삶의 질)과 PREM(진료의 인간성·만족·선호·순응·비용·기대충족·결정후회)으로 세분화.
+
+근관치료 완료 후 OHRQoL은 개선되는 경향이 있으며 높은 치아 생존율과 추가 치료 필요성 감소를 보임.
+
+근거 기반이 제한적이고 미검증 측정도구가 많아 pooling이 불가하므로 근관치료 특이적 OHRQoL/PROM 검증 도구 개발이 필요함.
 
 ## 1. Document Information
 - Journal: International Endodontic Journal 2023;56(Suppl. 2):169–187 (British Endodontic Society)

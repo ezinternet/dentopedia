@@ -22,13 +22,21 @@ relations:
     target: staas-2026-fiipp-palatal-position-cbct-3year
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-arm prospective clinical trial (n=26 implants/26 patients) of anterior-maxilla immediate implant placement planned with the "Safe Angle Concept" and executed with a novel plateau-drill 2-guide protocol: planned-vs-actual deviation was 4.56 ± 3.14° angular, 0.91 ± 0.61 mm platform, 1.47 ± 0.88 mm apex — all implants stayed within the safe angle, none required angled abutments, and 9-month PES was 11.89 ± 1.75.
+Prospective single-arm clinical trial (n=26 patients/26 anterior maxillary implants, mostly lateral incisors) testing the "Safe Angle Concept" virtual planning combined with a novel plateau-drill 2-guide protocol to prevent labial implant inclination in fresh sockets.
 
-## 한줄요약
+Planned-vs-actual deviations were 4.56 ± 3.14° angular, 0.91 ± 0.61 mm platform, 1.47 ± 0.88 mm apex; all 26 implants landed within the safe angle, none required angled abutments, labial bone averaged 2.13 mm, and 9-month PES was 11.89 ± 1.75.
 
-전상악 즉시식립 26증례 단일군 전향연구: "Safe Angle Concept" 가상계획 + plateau-drill 2-guide 프로토콜로 계획-실제 편차 각도 4.56°·platform 0.91 mm·apex 1.47 mm, 전 증례 safe angle 내·각도형 지대주 불필요·9개월 PES 11.89.
+As a single-arm proof-of-concept without a control group, this study is hypothesis-supporting; an internal inconsistency (100% survival stated vs. "two implants failed" in text) requires caution when interpreting survival data.
+
+## 세줄요약
+
+전향 단일군 임상시험 (n=26명/26 전상악 임플란트, 주로 측절치): 발치와 내 팔라탈 구배로 드릴이 협측으로 미끄러지는 문제를 막기 위해 "Safe Angle Concept" 계획 + plateau-drill 2-guide 프로토콜 적용.
+
+계획-실제 편차: 각도 4.56 ± 3.14°·platform 0.91 ± 0.61 mm·apex 1.47 ± 0.88 mm. 전 증례 safe angle 내 식립·각도형 지대주 없음. 9개월 순구순골 평균 2.13 mm, 핑크심미점수(PES) 11.89 ± 1.75.
+
+대조군 없는 단일군 개념 검증 연구로 비교우월성 주장 불가; 논문 내 생존율 불일치(100% vs "두 임플란트 실패" 혼재)에 주의 필요.
 
 ## Summary
 

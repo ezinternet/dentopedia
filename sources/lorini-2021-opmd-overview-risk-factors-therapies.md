@@ -9,7 +9,7 @@ pdf_filename: lorini-2021-opmd-overview-risk-factors-therapies.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 OPMD별 위험인자 및 치료 전략 개요: OLK, OLP, OE, OSF, actinic cheilitis 각각에 대한 악성전환 위험도와 현재 치료 옵션 요약.
 
 ## 1. Document Information

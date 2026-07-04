@@ -13,11 +13,19 @@ source_collection: external
 tags: [composite, repair, anterior, longevity, retrospective]
 ---
 
-## One-line Summary
-Practice-based retrospective 15-year study (144 patients, 634 anterior direct composite restorations) showed Class III/IV survival of 69% (AFR 2.4%) when repair was counted as non-failure vs 64% (AFR 2.9%) when counted as failure, supporting composite repair as a suitable conservative alternative to replacement.
+## Three-line Summary
+Retrospective 15-year practice-based cohort (144 patients, 634 anterior direct composite restorations — Class III/IV and direct veneers) from a single private practice (1994–2009) analyzing survival with two analytical scenarios: repair as failure vs repair as non-failure.
 
-## 한줄요약
-전방부 복합레진 수복 후향적 15년 연구(634 수복): 수리(repair)는 생존율을 높이는 유효한 대안 — Class III/IV 15년 생존 69%, AFR 2.4%.
+Class III/IV 15-year survival was 69% (AFR 2.4%) when repair was not counted as failure vs 64% (AFR 2.9%) when counted; direct veneer 10-year survival was 74% vs 38% respectively; upper jaw and central incisors had significantly higher failure risk.
+
+Counting repair as non-failure strongly supports composite repair as a conservative, clinically acceptable alternative to replacement, though single-practice origin and inherent retrospective selection bias limit generalizability.
+
+## 세줄요약
+후향적 15년 단일 개원가 코호트(환자 144명, 전방부 직접 복합레진 수복물 634개 — Class III/IV·직접 비니어, 1994–2009): repair를 실패로 볼지 아닐지에 따라 두 가지 생존분석 시나리오 적용.
+
+Class III/IV 15년 생존율: repair 비실패 처리 시 69%(AFR 2.4%) vs repair 실패 처리 시 64%(AFR 2.9%); 직접 비니어 10년 생존 74% vs 38%; 상악과 중절치에서 실패 위험 유의 높음.
+
+Repair를 비실패로 간주할 경우 복합레진 수리는 교체 대신 선택할 수 있는 보존적 대안임을 지지하나, 단일 개원가 설계 및 후향적 선택 편향이 한계.
 
 ## Summary
 A practice-based retrospective 15-year study from a private dental practice (1994–2009), including 144 patients with 634 anterior direct composite restorations (Class III, Class IV, and direct veneers). The study analyzed survival separately based on whether repair was counted as failure or not. When repair was not considered failure, Class III/IV showed 69% 15-year survival (AFR 2.4%), versus 64% (AFR 2.9%) when repair was counted as failure. The study supports composite repair as a suitable and conservative alternative to replacement.

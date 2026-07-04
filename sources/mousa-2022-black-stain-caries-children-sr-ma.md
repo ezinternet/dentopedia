@@ -17,13 +17,23 @@ text_filename: mousa-2022-black-stain-caries-children-sr-ma.txt
 
 블랙 스테인이 우식 경험 저하와 관련된다는 기존 서사적 리뷰([[caries/zyla-2015-black-stain-dental-caries-review]])의 주장을 최초로 메타분석 수준에서 정량화한 연구. OR 0.67 (95% CI 0.54–0.82)라는 구체적 수치를 제공하여 임상 인식 전환의 근거로 사용 가능.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (14 studies, children) finding black stain associated with lower odds of caries (OR 0.67, 95% CI 0.54–0.82) and fewer affected teeth (MD −0.98) and surfaces (MD −2.34), though causality direction remains uncertain.
 
-## 한줄요약
+(incomplete)
 
-SR+MA (14편, 소아): 블랙 스테인 (Black Stain, BS) 아동에서 우식 발생 교차비 (Odds Ratio, OR) 0.67 (95% CI 0.54–0.82) — 우식 경험 저하와 유의하게 관련; 인과 방향은 불명확.
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (14편, 소아): 블랙 스테인 (Black Stain, BS) 아동에서 우식 발생 교차비 (Odds Ratio, OR) 0.67 (95% CI 0.54–0.82) — 우식 경험 저하와 유의하게 관련;
+
+인과 방향은 불명확.
+
+(incomplete)
 
 ## 1. Document Information
 

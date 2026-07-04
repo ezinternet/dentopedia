@@ -18,13 +18,21 @@ relations:
     target: elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-tooth in-vitro study (4 sealers × 3 irrigation sequences) — continuous chelation with HEDP caused less dentin erosion, a larger mineral zone at the hydraulic-cement/dentin interface, and improved sealer antimicrobial properties; all sealers lost antimicrobial efficacy after contact with irrigated dentin.
+Split-tooth in-vitro study (4 sealers: AH Plus, BioRoot RCS, BioRoot Flow, TotalFill; 3 irrigation sequences: NaOCl, EDTA, HEDP continuous chelation) evaluating the hydraulic-cement/dentin interface by SEM/EDS/FTIR and sealer antimicrobial behavior by direct contact test and MIC with/without dentin contact.
 
-## 한줄요약
+HEDP continuous chelation produced less dentin erosion, a larger mineral concentration zone at the hydraulic-cement/dentin interface, and improved antimicrobial properties of the hydraulic-cement sealers compared to NaOCl/EDTA sequences; all sealers lost antimicrobial efficacy after contact with irrigated dentin.
 
-split-tooth in-vitro(실러 4종 × 세정 3종) — HEDP 지속적 킬레이션은 dentin 침식을 줄이고 hydraulic cement/dentin 계면의 미네랄 영역을 넓히며 실러 항균성을 향상; 모든 실러는 세정된 dentin 접촉 후 항균 효과가 감소.
+Irrigation protocol and sealer selection form a coupled system for single-cone hydraulic-cement obturation — optimizing the seal and bioactivity requires matching the two rather than treating irrigation as an upstream step independent of obturation material choice.
+
+## 세줄요약
+
+4종 실러(AH Plus·BioRoot RCS·BioRoot Flow·TotalFill) × 3가지 세정 순서(NaOCl·EDTA·HEDP 지속적 킬레이션)로 split-tooth 모델을 구성하고 SEM/EDS/FTIR 계면 분석 및 직접 접촉법·MIC로 항균 활성을 평가한 in-vitro 연구다.
+
+HEDP 지속 킬레이션은 상아질 침식이 적고 hydraulic cement/상아질 계면의 미네랄 집중 영역이 넓으며 실러 항균성도 향상됐다; 모든 실러는 세정된 상아질 접촉 후 항균 효과가 감소했다.
+
+세정 프로토콜과 실러 선택은 단일콘 hydraulic cement 충전에서 상호의존적 시스템을 구성하며, 최적의 계면 봉합과 생체활성을 위해서는 두 요소를 함께 설계해야 한다.
 
 ## Summary
 

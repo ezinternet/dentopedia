@@ -31,13 +31,21 @@ relations:
 > - **핵심 반전**: "미각이 이상하면 혀(미뢰) 문제"라는 통념은 자주 틀림 — 방사선은 타액선 매개, 쇼그렌은 타액유량과 약한 상관(병렬 염증기전), 약물은 확증 부족. 미뢰 직접손상 모델은 **병인 의존적**으로만 성립.
 > - **확신도**: 아연 진단·치료 프로토콜 = 가이드라인/합의; 방사선 타액선-매개 = 전향적 소표본(가설생성); 항고혈압제 비확증 = SR(저질 근거의 정직한 부정); 쇼그렌 chemosensory 부담 = 횡단(단면); COVID 지속·기전 = 내러티브(정량 pooled 아님).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 oral-medicine papers reframing taste dysfunction (dysgeusia/ageusia) as frequently *salivary-gland- and zinc-mediated* rather than a direct taste-bud problem, organized by five etiologies — zinc deficiency (serum Zn cutoffs, Polaprezinc requiring a ≥3-month trial), head-and-neck radiotherapy (dysgeusia tracks salivary-gland dose, not taste-bud dose), antihypertensive drugs (SR: cannot confirm they are xerogenic vs controls), Sjögren's syndrome (dysgeusia 52.6% and burning tongue 45.6%, correlating only weakly with salivary flow), and COVID-19 (persistent taste + saliva dysfunction sharing ACE2/TRPV1 + zinc-deficiency mechanisms) — with the clinical rule that taste and dry-mouth complaints should be assessed together and serum zinc checked in unexplained dysgeusia.
+Synthesis of 5 oral-medicine papers reframing taste dysfunction (dysgeusia/ageusia) as frequently salivary-gland- and zinc-mediated rather than a direct taste-bud problem, organized by five etiologies: (1) zinc deficiency (Polaprezinc 150 mg/day, ≥3-month trial required: 13.6% at 4 weeks → 58.8% at 24 weeks; Kodama 2020 guideline), (2) head-and-neck radiotherapy (dysgeusia tracks submandibular/parotid dose, not taste-bud dose; Morelli 2023 prospective n=31), (3) antihypertensive drugs (SR of 13 studies: cannot confirm xerogenicity vs controls; Ramírez 2020), (4) Sjögren's syndrome (dysgeusia 52.6% vs 9.4%, burning tongue 45.6% vs 0%, but taste correlates only weakly with salivary flow — parallel interferon-pathway mechanism; Šijan Gobeljić 2020), (5) COVID-19 (persistent taste/salivary dysfunction in 1–45%/2–40% post-recovery, ACE2/TRPV1 co-expression + zinc depletion; Tsuchiya 2023).
 
-## 한줄요약
+The unifying thread is zinc: radiotherapy and viral infection deplete zinc, which is essential for both taste-bud regeneration and salivary secretion — making serum zinc check the practical first step in unexplained dysgeusia.
 
-미각장애를 미뢰 직접 문제가 아니라 흔히 *타액선·아연 매개*로 재정의한 oral-medicine 5편 통합. 다섯 병인 — 아연결핍(혈청 컷오프, 폴라프레진크 ≥3개월 시도 필요), 두경부 방사선(미각이상은 미뢰가 아닌 타액선 선량과 상관), 항고혈압제(SR: 대조군 대비 구강건조 유발 확증 불가), 쇼그렌증후군(dysgeusia 52.6%·설작열감 45.6%, 타액유량과 약한 상관), COVID-19(ACE2/TRPV1+아연결핍 공통기전으로 미각·타액장애 지속) — 로 정리하며, 미각과 구강건조는 함께 평가하고 원인불명 미각장애엔 혈청 아연을 확인하라는 임상 규칙을 세운다.
+The clinical bottom line: taste and dry-mouth complaints must be evaluated together; "taste problem = tongue/taste-bud problem" is frequently wrong; the clinical entry point for unexplained dysgeusia is serum zinc + ≥3-month Polaprezinc trial, differential guided by etiology (antihypertensive drugs: individual evaluation, not class assumption; Sjögren: ACR-EULAR anti-SSA/Ro panel; post-COVID: zinc + salivary-flow measurement).
+
+## 세줄요약
+
+5편 종합 — 미각장애(dysgeusia/ageusia)를 미뢰 직접 손상이 아니라 타액선·아연 매개로 재정의; 5대 병인: ①아연결핍(폴라프레진크 150 mg/일, ≥3개월 시도; 4주 13.6%→24주 58.8%; Kodama 2020 가이드라인), ②두경부 방사선(미각이상은 악하선·이하선 선량과 상관, 미뢰 선량 무관; Morelli 2023 전향적 n=31), ③항고혈압제(13편 SR: 대조군 대비 구강건조 확증 불가; Ramírez 2020), ④쇼그렌(dysgeusia 52.6% vs 9.4%·설작열감 45.6% vs 0%, 타액유량과 약한 상관만 → 병렬 인터페론 경로; Šijan Gobeljić 2020), ⑤COVID-19(완치 후 미각 1–45%·타액장애 2–40% 지속, ACE2/TRPV1+아연결핍 공통기전; Tsuchiya 2023).
+
+통합 실(thread): 아연결핍이 병인 ②④⑤를 관통 — 방사선·바이러스가 아연을 소모하고 아연은 미뢰 재생·타액분비 양쪽에 필수; 원인불명 미각장애의 실용적 첫 수 = 혈청 아연 확인 + 필요 시 ≥3개월 아연 시도.
+
+임상 결론: 미각 호소와 구강건조는 함께 평가; "미각 이상=혀 문제" 통념은 자주 틀림; 감별은 병인 안내(항고혈압제 개별 평가, 쇼그렌 항-SSA/Ro 패널, post-COVID 아연+타액유량 측정); 치료반응은 3개월 이상 대기 후 판정.
 
 ## Summary
 

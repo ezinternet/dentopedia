@@ -13,8 +13,21 @@ source_collection: external
 
 조직수준(TL) vs 골수준(BL) 임플란트의 방사선적 변연골 소실(MBL)에 그룹간 유의차가 없다는 SR 근거. 2026-06-14 batch의 [[lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] · [[atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] · [[mortazavi-2021-bone-loss-tissue-bone-level-implants]] TL/BL 클러스터의 방사선 결과 축으로 활용. (이 갱신 시 기존 DOI 오타 17196920→17186920 정정)
 
-## One-line Summary
-SR(20편 질적/17편 정량, 1161명 2933 임플란트): 골수준·조직수준 임플란트 생존율·성공율 >90%; 방사선적 변연골 소실에 유의한 그룹간 차이 없음
+## Three-line Summary
+
+Systematic review (Int J Environ Res Public Health 2020;17:6920; 20 qualitative / 17 quantitative studies; 1161 patients, 2933 implants: 1427 tissue-level vs 1506 bone-level) comparing radiological marginal bone loss (MBL) and survival between tissue-level (TL) and bone-level (BL) implants through September 2019.
+
+Both types achieved survival and success rates >90%; no statistically significant differences in radiological MBL were found between TL and BL groups across included studies.
+
+Heterogeneity precluded meta-analysis; English-only search and methodological variability prevent direct ranking of the two configurations, though neither design shows a radiological bone-preservation advantage.
+
+## 세줄요약
+
+체계적 문헌고찰(Int J Environ Res Public Health 2020;17:6920; 질적 20편·정량 17편; 1161명·2933개 임플란트: 조직수준(TL) 1427개·골수준(BL) 1506개): 2019년 9월까지 TL vs BL 임플란트의 방사선적 변연골소실(MBL)과 생존율 비교.
+
+양군 모두 생존율·성공률 >90%; 방사선적 MBL에서 TL·BL 간 통계적 유의차 없음.
+
+이질성으로 메타분석 불가; 영어 논문 한정·방법론 불균질로 두 연결 방식의 직접 순위화에 한계, 두 디자인 모두 방사선적 골 보존 우위 없음.
 
 ## 1. Document Information
 - **Title**: Radiological Outcomes of Bone-Level and Tissue-Level Dental Implants: Systematic Review

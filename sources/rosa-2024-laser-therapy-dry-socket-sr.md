@@ -9,7 +9,7 @@ pdf_filename: rosa-2024-laser-therapy-dry-socket-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review and meta-analysis of 3 selected studies assessing laser therapy (LLLT) for dry socket treatment; laser proves effective vs. Alvogyl but correlation not highly significant, suggesting it as a viable minimally invasive alternative.
 
 ## 1. Document Information

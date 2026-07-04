@@ -20,13 +20,21 @@ relations:
     target: ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR; 16 studies, n=345 treated, mean age 8.48 y) finding elastodontic appliances produce statistically significant sagittal correction in mixed-dentition Class II — SNB ↑ (13 studies, +0.61° to +2.82°), ANB ↓ (11–12 studies, −0.38° to −2.42°), OVJ ↓ (10 studies, −2.1 to −4.58 mm) — effective vs no-treatment but weaker than twin-block.
+Scoping review (PRISMA-ScR; 1662→16 studies, n=345 treated, mean age 8.48 y; 12 retrospective, 4 prospective; 15 Class II, 1 Class III) — first cephalometric-outcome scoping review of elastodontic devices for sagittal malocclusion in mixed dentition.
 
-## 한줄요약
+Elastodontic appliances produced statistically significant sagittal correction: SNB ↑ in 13 Class II studies (+0.61° to +2.82°), ANB ↓ in 11–12 studies (−0.38° to −2.42°), overjet ↓ in 10 studies (−2.1 to −4.58 mm); head-to-head comparisons showed EAs beat no-treatment but were weaker than twin-block.
 
-스코핑 리뷰(PRISMA-ScR; 16편, 치료군 345명, 평균 8.48세)로, 혼합치열기 2급 부정교합에서 탄성교정장치(elastodontic appliance)가 통계적으로 유의한 시상면 개선(SNB ↑ 13편 +0.61°~+2.82°, ANB ↓ 11~12편 −0.38°~−2.42°, OVJ ↓ 10편 −2.1~−4.58 mm)을 보였으나, 무치료 대비 효과적이되 트윈블록보다는 약함.
+Elastodontic appliances are a simpler, less invasive option for mild-to-moderate Class II growing patients but do not replace validated functional/orthopedic appliances; compliance (typically 1–4 h/day plus overnight) is the key modifier, and no methodological-quality appraisal was performed.
+
+## 세줄요약
+
+스코핑 리뷰(PRISMA-ScR; 1662→16편, 치료군 345명, 평균 8.48세; 후향 12·전향 4; 2급 15·3급 1편) — 혼합치열기 시상면 부정교합에서 탄성교정장치(Elastodontic Appliance, EA)의 두부방사선 계측 결과에 대한 최초 스코핑 리뷰.
+
+EA는 유의한 시상면 개선 달성: SNB ↑ 13편(+0.61°~+2.82°), ANB ↓ 11~12편(−0.38°~−2.42°), 수평피개(Overjet) ↓ 10편(−2.1~−4.58 mm); 직접 비교에서 무치료 대비 효과적이나 트윈블록(Twin-Block)보다 약함.
+
+EA는 성장기 경~중등도 2급 환자에 간단하고 비침습적인 선택지이나 검증된 기능성/정형장치 대체 불가; 순응도(하루 1~4시간+야간)가 핵심 변수이며, 비뚤림 위험 평가 미실시 한계 존재.
 
 ## Summary
 

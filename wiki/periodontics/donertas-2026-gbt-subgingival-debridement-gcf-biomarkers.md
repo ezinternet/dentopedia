@@ -21,13 +21,21 @@ relations:
     target: yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=80, Stage 1–2 periodontitis) finds GBT significantly outperforms conventional curette+ultrasonic debridement on Gingival Index, Plaque Index, and GCF IL-1β at 1 and 3 months (p<0.05), with no between-group difference in TNF-α, IL-10, or MMP-8 (abstract-only — full text not retrieved).
+Prospective 2-arm RCT (n=80 nonsmoking, systemically healthy patients with Stage 1–2 periodontitis) comparing Guided Biofilm Therapy (GBT) versus conventional therapy (Gracey curette + ultrasonic) on clinical indices and GCF immunological biomarkers at 1 and 3 months.
 
-## 한줄요약
+GBT significantly outperformed conventional therapy on Gingival Index, Plaque Index, and GCF IL-1β at both time points (p<0.05); no between-group difference in TNF-α, IL-10, or MMP-8; both approaches improved all parameters from baseline (p<0.001).
 
-전향적 무작위 임상연구(n=80, Stage 1–2 치주염): 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT)가 1·3개월 시점에서 치은지수(GI)·치태지수(PI)·치은열구액(GCF) IL-1β를 기존 큐렛+초음파 치료보다 유의하게 더 감소시켰으나(p<0.05), TNF-α·IL-10·MMP-8에는 군간 차이가 없었다 (초록 기반 — 전문 미확보).
+GBT's immunological advantage appears confined to IL-1β and plaque/gingival inflammation; larger, longer studies are needed to confirm a broader anti-inflammatory benefit.
+
+## 세줄요약
+
+비흡연·전신 건강한 Stage 1–2 치주염 환자 80명 전향적 2군 RCT — 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT) vs 전통적 치료(Gracey 큐렛+초음파; 1개월·3개월 추적), 임상지수 및 치은열구액(GCF) 면역 바이오마커 비교.
+
+GBT군이 두 시점 모두 치은지수(GI)·치태지수(PI)·GCF IL-1β를 기존 치료보다 유의하게 더 감소(p<0.05); TNF-α·IL-10·MMP-8 군간 차이 없음; 양 군 모두 기저 대비 모든 지표 유의 개선(p<0.001).
+
+GBT의 면역학적 이점은 IL-1β·치은/치태 염증에 국한; 더 넓은 항염 효과를 확인하려면 대규모·장기 연구가 필요.
 
 ## Summary
 

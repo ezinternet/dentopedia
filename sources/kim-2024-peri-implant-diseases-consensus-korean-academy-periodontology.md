@@ -9,7 +9,7 @@ pdf_filename: kim-2024-peri-implant-diseases-consensus-korean-academy-periodonto
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review backing the Korean Academy of Periodontology consensus report on peri-implant diseases. Covers definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.
 
 ## 1. Document Information

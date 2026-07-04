@@ -17,13 +17,21 @@ text_filename: corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr
 
 기존 위키의 타액 진단 축([[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]], [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]])과 GCF 바이오마커 축([[overviews/gingival-crevicular-fluid-biomarker-diagnostics-overview]], [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]])은 있으나, **타액 프로테오믹스로 치주염을 진단하는 어느 단백질이 실제로 재현되는가**를 정면으로 다룬 체계적 고찰이 없었다. 본 SR (13편, untargeted proteomics)은 여러 연구에서 일관되게 재현된 판별 단백질(S100A8·C3·profilin-1·fibrinogen 상승, cystatin-SN·leukocyte elastase inhibitor 감소)을 추려 [[overviews/saliva-diagnostics-and-salivary-gland-dysfunction-overview]]에 치주 진단 분기를 채우는 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 13 untargeted salivary-proteomics case–control/longitudinal studies; complement C3, profilin-1, S100A8, and fibrinogen were consistently over-expressed and cystatin-SN and leukocyte elastase inhibitor under-expressed in periodontitis, but only S100A8 had a poolable diagnostic accuracy (meta-analytic AUC 0.71, 95% CI 0.66–0.75).
+PRISMA systematic review (J Periodontal Research 2024; 461 records screened, 13 untargeted salivary-proteomics case–control/longitudinal studies included) evaluating salivary protein biomarkers for periodontitis diagnosis using a consistency analysis requiring expression in ≥3 independent studies.
 
-## 한줄요약
+Complement C3, profilin-1, S100A8, and fibrinogen were consistently over-expressed in periodontitis; cystatin-SN and leukocyte elastase inhibitor were consistently under-expressed; only S100A8 was poolable in a meta-analysis, yielding a modest AUC of 0.71 (95% CI 0.66–0.75, I²=2.4%).
 
-타액 프로테오믹스 논문 13편의 체계적 고찰 — 치주염에서 C3·profilin-1·S100A8·fibrinogen은 일관 상승, cystatin-SN·leukocyte elastase inhibitor는 일관 감소했으나, 진단정확도를 메타분석할 수 있었던 마커는 S100A8 하나뿐(AUC 0.71)으로 아직 단독 스크리닝 검사로 쓰기엔 근거가 미성숙.
+Salivary proteomics shows a reproducible molecular signature for periodontitis but is not yet clinically ready: only 4 of 13 studies validated in an independent cohort, no single biomarker achieves standalone screening performance, and standardized protocols are lacking.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(J Periodontal Research 2024; 461건 스크리닝·13편 포함): ≥3개 독립 연구에서 일관되게 발현되는 단백질을 찾는 일관성 분석으로 치주염 진단 타액 프로테오믹스 바이오마커 평가.
+
+치주염에서 C3·profilin-1·S100A8·fibrinogen 일관 상승; cystatin-SN·leukocyte elastase inhibitor 일관 감소; 메타분석 가능 마커는 S100A8 하나뿐 — AUC 0.71(95% CI 0.66–0.75, I²=2.4%)로 단독 스크리닝 수준에 미달.
+
+타액 프로테오믹스에 재현 가능한 치주 진단 분자 신호는 확인되나 임상 적용까지는 미성숙 — 13편 중 4편만 독립 코호트 검증, 단일 마커로 충분한 진단 성능 없음, 표준화 프로토콜 부재.
 
 ## 1. Document Information
 

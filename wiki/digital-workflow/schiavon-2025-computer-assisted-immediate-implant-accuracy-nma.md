@@ -13,11 +13,19 @@ source_collection: external
 tags: ['CAIS', 'guided surgery', 'immediate implant', 'accuracy', 'network meta-analysis']
 ---
 
-## One-line Summary
-SR+NMA (7 RCTs, 338 implants, 291 patients, Univ. Zurich): computer-assisted implant surgery (CAIS) — dynamic/full static/partial static — vs freehand accuracy comparison for immediate implant placement; CAIS consistently superior to freehand for angular, coronal, and apical deviation.
+## Three-line Summary
+SR + NMA (7 RCTs only, 338 implants, 291 patients, Univ. Zurich, J Restorative Ent 2025) comparing freehand against dynamic CAIS, full static CAIS, and partial static CAIS for accuracy in immediate implant placement.
 
-## 한줄요약
-SR+NMA (7 RCT, 338 임플란트, 291명, Univ Zurich): 즉시식립에서 Computer-Assisted Implant Surgery (CAIS) — dynamic/full static/partial static — vs freehand 정확도 비교; CAIS가 freehand 대비 angular/coronal/apical deviation 일관되게 우수.
+All CAIS subtypes consistently outperformed freehand on angular, coronal, and apical deviation; direct comparisons among guided subtypes were limited given the small number of RCTs.
+
+By restricting inclusion to RCTs, this NMA achieves higher certainty than Nava 2026 but lacks a robotic arm entirely — the tradeoff between internal validity and coverage of newer technologies is the key interpretive caveat.
+
+## 세줄요약
+SR + NMA (RCT 7편만 포함, 338개 임플란트, 291명, Univ Zurich, 2025): 즉시식립에서 freehand 대비 dynamic/full static/partial static CAIS의 정확도를 비교.
+
+모든 CAIS 유형이 freehand 대비 angular·coronal·apical deviation에서 일관되게 우수; RCT 수가 적어 guided 유형 간 직접 비교는 제한적.
+
+RCT만 포함해 내적 타당도는 높지만 robotic arm이 완전히 빠져 있어, Nava 2026(비-RCT 포함, rCAIS 포함)과 상호 보완적으로 해석해야 함.
 
 ## Summary
 PICO: In IIP, does CAIS lead to higher accuracy than freehand? MEDLINE/Scopus/Cochrane Jan 2014-Sep 2024. RCTs only. 2064 records screened, 7 RCTs included.

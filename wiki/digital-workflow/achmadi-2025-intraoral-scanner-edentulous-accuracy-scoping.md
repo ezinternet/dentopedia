@@ -13,11 +13,19 @@ source_collection: external
 tags: [ios, intraoral-scanner, edentulous, laboratory-scanner, accuracy, denture, impression, scoping-review]
 ---
 
-## One-line Summary
-Scoping review of IOS vs laboratory scanner impression accuracy in edentulous arches (BDJ Open 2025, PRISMA-ScR, 312 articles → 8 included): IOS is useful for edentulous arches but flat mucosal surfaces limit accuracy; laboratory scanners generally superior for fully edentulous cases.
+## Three-line Summary
+Scoping review (BDJ Open 2025, PRISMA-ScR, Arksey & O'Malley framework) comparing IOS vs laboratory scanner impression accuracy for edentulous arches; 312 records retrieved, 8 studies included.
 
-## 한줄요약
-무치악 악궁 IOS vs 기공실 스캐너 인상 정확도 scoping review (BDJ Open 2025): PRISMA-ScR; 312건 → 8편; IOS는 무치악에도 유용하나 평탄한 점막 표면이 정확도 한계; 기공실 스캐너가 무치악에서 대체로 우위.
+IOS shows promise for edentulous cases but is limited by smooth, featureless mucosal ridges that impede feature-matching and stitching algorithms, with cumulative error increasing along extended scan paths.
+
+Laboratory scanners via indirect digitization of conventional casts generally achieve higher accuracy in fully edentulous conditions; partially edentulous arches perform better with IOS than fully edentulous due to residual teeth providing landmarks.
+
+## 세줄요약
+스코핑 리뷰 (BDJ Open 2025, PRISMA-ScR, Arksey & O'Malley 방법론): 무치악 악궁 IOS vs 기공실 스캐너 인상 정확도 비교; 312건 검색, 8편 포함.
+
+IOS는 무치악에서도 활용 가능하나, 편평하고 해부학적 표식이 없는 점막 능선이 특징점 매칭 및 스티칭 알고리즘을 방해해 정확도를 제한하며, 스캔 경로가 길어질수록 누적 오차가 증가한다.
+
+기공실 스캐너(기존 인상 → 석고 모델 → 디지털화 간접법)가 완전 무치악에서 대체로 높은 정확도를 유지하며, 부분 무치악은 잔존 치아가 기준점을 제공해 IOS 정확도가 완전 무치악보다 우수하다.
 
 ## Summary
 Scoping review (PRISMA-ScR + Arksey & O'Malley framework) comparing intraoral scanner (IOS) vs laboratory scanner accuracy for fully and partially edentulous arch impressions. Four databases searched; 312 articles retrieved; 8 studies selected. Published BDJ Open 2025, Universitas Padjadjaran, Indonesia.

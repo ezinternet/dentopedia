@@ -13,11 +13,21 @@ source_collection: external
 tags: [cortical-bone, primary-stability, ISQ, insertion-torque, RFA, osseointegration, MBL, CBCT]
 ---
 
-## One-line Summary
-SR (13 clinical studies): most studies show a positive correlation between cortical bone thickness and implant primary stability (higher ISQ and insertion torque, e.g. Miyamoto r=0.84, Salimov r=0.935 for IT), with bicortical anchorage yielding the highest stability; the relationship between cortical thickness and marginal bone loss (MBL) remains inconclusive.
+## Three-line Summary
 
-## 한줄요약
-SR (13연구): 피질골 두께↑ → ISQ·삽입토크↑ 양의 상관; 양측피질 고정 = 최고 안정성; MBL 상관 불명확
+SR (13 clinical studies) examining the relationship between cortical bone thickness, measured by CBCT, and implant primary/secondary stability (ISQ, insertion torque) and marginal bone loss (MBL).
+
+Most studies confirmed a positive correlation between cortical thickness and primary stability (Miyamoto r=0.84; Salimov r=0.935 for IT); bicortical anchorage yielded significantly higher ISQ and IT than monocortical (p<0.05); the cortical thickness–MBL relationship was inconsistent.
+
+CBCT-based cortical thickness assessment before implant placement helps anticipate primary stability; bicortical engagement should be sought when possible, but ISQ also depends on cancellous bone availability and cannot be predicted from cortical thickness alone.
+
+## 세줄요약
+
+SR (임상 연구 13편) — CBCT로 측정한 피질골 두께와 임플란트 1·2차 안정성(ISQ, 삽입토크) 및 변연골 소실(MBL) 간의 관계 검토.
+
+대부분의 연구에서 피질골 두께 증가 → ISQ·삽입토크 증가의 양의 상관 확인 (Miyamoto r=0.84; Salimov r=0.935); 양측피질 고정이 단측 대비 ISQ·삽입토크 유의하게 높음 (p<0.05); 피질골 두께와 MBL의 관계는 불일관.
+
+술전 CBCT로 피질골 두께 평가 → 1차 안정성 예측에 유용; 가능하면 양측피질 engagement 권장; ISQ는 해면골 상태에도 영향받아 피질골 두께만으로 완전한 예측 불가.
 
 ## Summary
 Systematic review of 13 clinical studies examining the relationship between cortical bone thickness and implant primary/secondary stability. The majority of studies find a **positive correlation**: thicker cortical bone → higher ISQ and insertion torque. Bicortical anchorage produces the highest stability values. The MBL–cortical thickness relationship remains inconclusive.

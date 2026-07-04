@@ -9,7 +9,7 @@ pdf_filename: soares-2024-sinus-membrane-perforation-repair-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of 130 studies (20 in MA) and 1972 perforated-and-repaired sinuses: pooled implant loss in repaired SMP sites **4% (95% CI 2–8%)**; no significant difference vs non-perforated sinuses; perforation size not associated with implant loss (meta-regression P=0.86). Resorbable collagen membrane is the most commonly reported repair material. Conclusion: properly repaired Schneiderian membrane perforations do not compromise implant survival.
 
 ## 1. Document Information

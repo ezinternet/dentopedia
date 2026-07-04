@@ -18,13 +18,21 @@ text_filename: damario-2025-recurrent-aphthous-stomatitis-treatments-review.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Literature review of 45 RCTs (2013–2023) on recurrent aphthous stomatitis (RAS) treatment; non-pharmacological options (LLLT, omega-3, natural mucoadhesive gels) gave the best risk–benefit ratio, often matching or exceeding corticosteroids, with LLLT giving the fastest (day-1) pain relief.
+PRISMA literature review of 45 RCTs (2013–2023) evaluating treatments for recurrent aphthous stomatitis (RAS) using pain (VAS) as the primary comparable outcome.
 
-## 한줄요약
+Non-pharmacological therapies (LLLT, omega-3, natural mucoadhesive gels) provided the best risk–benefit ratio, often matching or exceeding topical corticosteroids; diode laser gave day-1 VAS of 2.04 vs 4.85 for pharmacological comparators.
 
-RAS 치료 RCT 45편(2013–2023) 문헌고찰 — 저출력레이저(LLLT)·오메가-3·천연 점막부착 젤 같은 비약물 치료가 코르티코스테로이드에 못지않거나 더 나은 위험-이득비를 보였고, LLLT가 가장 빠른(1일째) 통증 완화를 제공했다.
+LLLT emerges as the single most promising modality for immediate pain relief, but study heterogeneity and lack of validated commercial formulations for many natural agents limit clinical translation.
+
+## 세줄요약
+
+재발성 아프타 구내염(RAS) 치료 RCT 45편(2013–2023) PRISMA 문헌고찰 — 통증(VAS)을 공통 주요 결과로 사용.
+
+비약물 치료(저출력레이저·오메가-3·천연 점막부착 젤)가 국소 코르티코스테로이드에 버금가거나 더 나은 위험-이득비 달성; 다이오드 레이저 1일째 VAS 2.04 vs 약물 비교군 4.85.
+
+LLLT가 즉각적 통증 완화에 가장 유망하나, 연구 이질성과 많은 천연 성분의 표준화된 상업 제형 부재로 임상 적용에 한계.
 
 ## Summary
 

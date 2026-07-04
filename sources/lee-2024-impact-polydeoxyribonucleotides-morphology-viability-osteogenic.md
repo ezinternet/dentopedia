@@ -13,7 +13,7 @@ source_collection: external
 
 PDRN의 골재생 효과를 in vivo가 아닌 **gingiva-derived stem cell (GMSC) spheroid에서 직접 검증**한 in vitro mechanistic study. [[pdrn/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing]] scoping review가 mention한 in vitro evidence base를 RUNX2·COL1A1 gene expression + RNA sequencing 수준에서 deep-dive. Dose-response (25/75 μg/mL)와 시간축(D7/D14) 결합 분석은 [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]]가 narrative로만 언급한 "PDRN dose는 표준화 부재"를 보강.
 
-## One-line Summary
+## Three-line Summary
 
 GMSC spheroid에 PDRN 처리 시 D14에 75 μg/mL에서 calcium deposition 유의 증가. RUNX2는 25 μg/mL, COL1A1은 75 μg/mL에서 peak — **PDRN agonist 농도가 단일하지 않고 marker별로 다름**.
 

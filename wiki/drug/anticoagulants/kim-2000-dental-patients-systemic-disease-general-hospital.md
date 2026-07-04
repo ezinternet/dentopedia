@@ -14,11 +14,19 @@ source_collection: external
 tags: [systemic-disease, medical-history, hypertension, diabetes, liver-disease, anticoagulation, warfarin, internal-medicine-consultation, general-hospital-dentistry, retrospective, Korean, OMFS]
 ---
 
-## One-line Summary
-Retrospective chart review (Bundang Jesaeng Hospital OMFS, 1999, n=3,506): 12.2% had documented systemic disease; hypertension most common, followed by diabetes, heart disease, and liver disease; most common dental diagnosis was periodontitis; internal medicine consultation in only 114 of 427 systemic-disease patients; 4 serious complications including 1 death from toxic hepatitis and 1 prolonged bleeding in a warfarin patient.
+## Three-line Summary
+Retrospective chart review (Bundang Jesaeng Hospital OMFS, 1999, n=3,506): 12.2% had a documented systemic disease (hypertension most common, then diabetes, heart disease, liver disease); internal medicine consultation obtained in only 114 of 427 systemic-disease patients.
 
-## 한줄요약
-분당제생병원 OMFS 1년치 차트 후향 분석 (1999, n=3,506): 12.2%가 전신질환 보유; 1순위 고혈압, 이어 당뇨·심장·간질환; 가장 빈번한 치과 진단은 치주염; 내과 협진은 114건에 그침; 중대 합병증 4건 — 간질환 노인 전신마취 발치 후 독성간염으로 사망 1, warfarin 환자 치주치료 후 지속 출혈 1 (술전 응고검사 누락), 술후 감염 2.
+Four serious complications occurred: 1 death from toxic hepatitis after GA-based surgery in a liver-disease patient, 1 prolonged gingival bleeding in a warfarin patient due to missed pre-procedural coagulation screening, and 2 post-operative infections.
+
+This 1999 Korean OMFS historical dataset documents the consultation gap and provides a teaching case set; the anticoagulation guidance is outdated and superseded by modern SR-level evidence recommending non-interruption with local hemostasis.
+
+## 세줄요약
+분당제생병원 OMFS 1999년 1년치 후향 차트 분석(n=3,506): 12.2%가 전신질환 보유(고혈압 1위, 이어 당뇨·심장·간질환); 427명 중 내과 협진은 114건에 그침.
+
+중대 합병증 4건: 간질환 노인 전신마취 후 독성간염 사망 1, warfarin 환자 술전 응고검사 누락으로 지속 출혈 1, 술후 감염 2.
+
+1999년 한국 OMFS 역사적 데이터로 협진 공백과 교훈 사례 제공; 항응고제 관리 지침은 현재 비중단+국소지혈 SR 근거로 대체됨.
 
 ## Summary
 

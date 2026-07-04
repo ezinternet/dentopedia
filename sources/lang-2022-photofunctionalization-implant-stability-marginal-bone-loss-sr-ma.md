@@ -18,13 +18,23 @@ text_filename: lang-2022-photofunctionalization-implant-stability-marginal-bone-
 
 This is the first photofunctionalization-SPECIFIC clinical SR+MA on implant stability and marginal bone loss in the wiki. It complements [[implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] (which pooled photo- and plasma-activation together) by isolating UV photofunctionalization alone, and it gives meta-analytic backing to the single-cohort early-stability signal in [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] and the 7-year prospective clinical data in [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (7 clinical studies, 5 in meta-analysis; 430 patients / 734 implants): UV photofunctionalization significantly increased the osseointegration speed index (OSI; MD = 2.13, p = 0.007) and improved implant stability at 2 months (MD = 3.48, p = 0.04), but pooled effects on stability at other time points and on marginal bone loss were non-significant — high heterogeneity, low study count and high risk of bias temper the conclusion.
 
-## 한줄요약
+SR+MA (7 clinical studies, 5 in meta-analysis;
 
-SR+MA (임상연구 7편, 메타분석 5편; 환자 430명 / 임플란트 734개): UV 광기능화는 골유착 속도지수(OSI, MD=2.13, p=0.007)와 식립 2개월째 임플란트 안정성(MD=3.48, p=0.04)을 유의하게 높였으나, 다른 시점 안정성과 변연골소실(MBL)에 대한 통합 효과는 비유의 — 이질성·연구 수·비뚤림 위험으로 결론은 제한적.
+430 patients / 734 implants): UV photofunctionalization significantly increased the osseointegration speed index (OSI;
+
+MD = 2.13, p = 0.007) and improved implant stability at 2 months (MD = 3.48, p = 0.04), but pooled effects on stability at other time points and on marginal bone loss were non-significant — high heterogeneity, low study count and high risk of bias temper the conclusion.
+
+## 세줄요약
+
+
+SR+MA (임상연구 7편, 메타분석 5편;
+
+환자 430명 / 임플란트 734개): UV 광기능화는 골유착 속도지수(OSI, MD=2.13, p=0.007)와 식립 2개월째 임플란트 안정성(MD=3.48, p=0.04)을 유의하게 높였으나, 다른 시점 안정성과 변연골소실(MBL)에 대한 통합 효과는 비유의 — 이질성·연구 수·비뚤림 위험으로 결론은 제한적.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ text_filename: bracciale-2020-bacterial-contamination-gutta-percha-chairside-dis
 tags: [gutta-percha, contamination, chairside-disinfection, sodium-hypochlorite, cross-infection, obturation]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro survey of 240 in-use gutta-percha points (4 brands): 22.9% harboured bacteria with no brand difference; a chairside 5.25% NaOCl (1 min) + detergent (5 min) protocol disinfected 76.4% (P<0.001).
+In vitro survey of 240 gutta-percha (GP) points sampled from commercially open, in-use clinical boxes (4 brands, 4–8 weeks open, ~8 appointments/week) cultured individually in fluid thioglycolate medium for up to 21 days — a realistic cross-infection model rather than sealed-box testing.
 
-## 한줄요약
+22.9% of GP points harbored bacteria with no significant difference between brands; contamination was concentrated in larger, less-used cones (K30, Dentsply D-size) that remain in open boxes longest; a chairside disinfection protocol (5.25% NaOCl 1 min + detergent 5 min) disinfected 76.4% of contaminated points (P<0.001).
 
-임상에서 사용 중인 거타퍼차(gutta-percha, GP) 포인트 240개(4개 브랜드)의 22.9%에서 세균이 검출됐고 브랜드 간 차이는 없었으며, chairside 5.25% 차아염소산나트륨(NaOCl, 1분)+세정액(5분) 프로토콜이 오염 포인트의 76.4%를 소독했다(P<0.001)는 in-vitro 연구.
+Handling and box-residence time — not manufacturer — drive GP contamination, supporting routine chairside disinfection of all GP cones before obturation using separate tweezers for picking and placing.
+
+## 세줄요약
+
+줄1: 임상에서 개봉된 채 사용 중인 GP(거타퍼차) 포인트 박스(4개 브랜드, 개봉 4–8주, 주 약 8회 처치)에서 240개를 채취해 fluid thioglycolate 배지에서 최대 21일 개별 배양한 교차감염 현실 반영 in vitro 연구.
+
+줄2: 전체 22.9%에서 세균 검출, 브랜드 간 유의차 없음; 덜 사용되는 큰 사이즈(K30, Dentsply D-size)에서 오염 집중; chairside 소독(5.25% NaOCl 1분+세정액 5분)이 오염 포인트의 76.4%를 소독(P<0.001).
+
+줄3: 오염 원인은 브랜드가 아니라 취급(핀셋 반복)과 박스 개봉 지속 시간이며 집어내기·삽입용 핀셋 분리 사용과 routine chairside 소독이 권장됨.
 
 ## Summary
 

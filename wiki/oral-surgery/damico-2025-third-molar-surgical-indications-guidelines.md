@@ -13,11 +13,21 @@ source_collection: external
 tags: [third-molar, wisdom-tooth, impaction, nice-guidelines, aaoms, pericoronitis, coronectomy, ian, surgical-indications, pell-gregory, angulation]
 ---
 
-## One-line Summary
-Narrative guideline review (NICE, AAOMS; Pell & Gregory and Winter classifications) of clinical and surgical indications for third molar removal: absolute indications include recurrent pericoronitis, cysts/tumors, and adjacent root resorption, with coronectomy considered when the inferior alveolar canal (IAC) is in high-risk contact with roots to reduce IAN injury.
+## Three-line Summary
 
-## 한줄요약
-제3대구치(Third Molar, 사랑니) 발치 임상·수술 적응증 및 가이드라인 개요 (Eng Proc 2025): NICE·AAOMS 검토; 절대적응증 — 반복 관주위염·낭종·인접치 흡수; 하치조신경 고위험 시 치관절제술(Coronectomy) 고려.
+Narrative guideline review (proceedings paper, 5th Int'l Electronic Conference on Applied Sciences, 2025) summarizing NICE (UK) and AAOMS (USA) frameworks for third molar management, referencing Pell & Gregory (depth) and Winter (angulation) classifications for risk-benefit decision making.
+
+Absolute extraction indications are recurrent pericoronitis, abscess/cellulitis, cyst or tumor formation, and adjacent second molar root resorption; relative indication for prophylactic extraction favors younger patients (<25 years) before root completion; asymptomatic fully-impacted teeth with no pathology may be monitored.
+
+Coronectomy is increasingly accepted when CBCT/OPG shows intimate IAN–root contact (high injury risk) — intentional root retention reduces IAN paresthesia risk; general anesthesia/sedation is reserved for deeply impacted, anxious, or complex surgical cases.
+
+## 세줄요약
+
+가이드라인 검토 논문(Proceedings, 2025; 5th Int'l Electronic Conf. on Applied Sciences) — NICE(영국)·AAOMS(미국) 제3대구치(Third Molar) 처치 지침 및 Pell & Gregory(깊이)·Winter(경사) 분류 체계 요약.
+
+절대 발치 적응증: 반복 관주위염(Pericoronitis)·농양/봉와직염·낭종·종양·인접 제2대구치 흡수; 상대 적응증: <25세 예방적 발치(치근 완성 전 유리); 완전 매복·무증상·병변 없음 → 경과 관찰.
+
+CBCT/파노라마에서 하치조신경관(Inferior Alveolar Canal, IAC)과 치근 밀접 접촉 확인 시 치관절제술(Coronectomy) 점차 수용 — 의도적 치근 잔류로 하치조신경(IAN) 손상 감소; 전신마취·진정은 깊은 매복·불안 환자·복잡 증례에 한정.
 
 ## Summary
 Proceeding paper (published at 5th Int'l Electronic Conference on Applied Sciences, December 2024) reviewing current clinical and surgical indications and guidelines for third molar removal. Reviews NICE (UK) and AAOMS (USA) guideline frameworks. Addresses clinical and radiographic evaluation criteria including angulation, depth of impaction, and presence of symptoms.

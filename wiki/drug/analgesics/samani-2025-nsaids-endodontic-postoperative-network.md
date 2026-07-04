@@ -13,11 +13,21 @@ source_collection: external
 tags: [NSAIDs, corticosteroids, endodontic-pain, network-meta-analysis, postoperative-pain]
 ---
 
-## One-line Summary
-Network MA (16 RCTs, n=2,021, IJPPP 2025): NSAIDs and corticosteroids significantly reduce pain at all timepoints from 8 to 72 hours after non-surgical root canal treatment; effect sizes diminish over time.
+## Three-line Summary
 
-## 한줄요약
-비외과적 근관치료 후 NSAIDs·코르티코스테로이드가 8~72시간 전 시점에서 통증 유의 감소; 효과는 시간 경과에 따라 감소 (16 RCT, n=2,021, network MA, IJPPP 2025).
+Network meta-analysis (16 RCTs, n=2,021, IJPPP 2025) comparing medications for postoperative endodontic pain after non-surgical root canal treatment at five timepoints from 8 to 72 hours.
+
+NSAIDs and corticosteroids significantly reduced pain at all assessed timepoints; effect was largest at 8 hours (pooled effect −3.10, I²=100%) and diminished progressively to 72 hours (−0.64, I²=73.1%).
+
+High heterogeneity (I² up to 100%) limits direct translation of pooled estimates, but the consistent direction across all timepoints confirms NSAIDs and corticosteroids as the evidence-supported first-line options for post-RCT pain.
+
+## 세줄요약
+
+네트워크 메타분석 (16개 RCT, n=2,021, IJPPP 2025): 비외과적 근관치료 후 술후 통증에 대한 약물 중재를 8·12·24·48·72시간 5개 시점에서 비교.
+
+NSAIDs·코르티코스테로이드가 모든 시점에서 통증 유의하게 감소; 효과는 8시간(−3.10, I²=100%)에서 가장 크고 72시간(−0.64)까지 점차 감소.
+
+높은 이질성(I² 최대 100%)으로 pooled 추정치 직접 적용 제한적이나, 모든 시점 일관된 방향성으로 NSAIDs·코르티코스테로이드가 근관치료 후 통증의 1차 선택임을 확인.
 
 ## Summary
 Network meta-analysis of 16 RCTs (n=2,021) comparing medications for post-operative endodontic pain (PEP) after non-surgical root canal treatment. NSAIDs and corticosteroids showed statistically significant pain reduction at all assessed timepoints (8, 12, 24, 48, 72 hours). Effect sizes diminished over time, with the largest effect at 8 hours (pooled effect −3.10, I²=100%) and smallest at 72 hours (−0.64, I²=73.1%). Funnel plot was symmetrical (low publication bias). High heterogeneity limits direct clinical translation of pooled estimates.

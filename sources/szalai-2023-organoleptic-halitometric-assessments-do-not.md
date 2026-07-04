@@ -13,13 +13,23 @@ source_collection: external
 
 This SR+MA directly addresses the diagnostic validity of halitometers (Halimeter, OralChroma, gas chromatography) versus the gold-standard organoleptic test (OLT) in intra-oral halitosis, establishing the correlation coefficients and ROC-based sensitivity/specificity data needed to evaluate whether objective devices can replace subjective sensory assessment. Foundational paper for the halitosis category — supports [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]] (etiology SR) by quantifying the diagnostic limitations of halitometers vs. OLT.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (76 studies, n=14,635) finds that no common halitometer correlates strongly with organoleptic scores (Spearman r = 0.65–0.76), concluding that current devices cannot replace the OLT for diagnosing intra-oral halitosis.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 76개 연구(n=14,635)를 메타분석한 결과, 현재 사용되는 어떤 구취측정기(할리미터, OralChroma, GC)도 관능검사(OLT)와 충분한 상관관계(r=0.65–0.76)를 보이지 않아 OLT를 대체할 수 없다고 결론 내림.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

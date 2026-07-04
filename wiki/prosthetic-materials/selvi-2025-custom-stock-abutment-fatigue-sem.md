@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fatigue study (n=44, ISO-14801, 2 million cycles) of internal conical-hex assemblies: CAD-CAM custom abutments had lower baseline removal torque than stock abutments but showed equivalent preload maintenance at 2 million cycles; greatest preload loss occurs before 1 million cycles, recommending early screw retightening.
+In vitro fatigue study (n=44; SA n=22, CA n=22; ISO-14801; 2 million cycles at 5 checkpoints) comparing removal torque values (RTV) of CAD-CAM custom versus stock internal conical-hex abutments with concurrent SEM.
 
-## 한줄요약
+Custom abutments had lower baseline RTV than stock, but both groups showed partial RTV recovery with no significant between-group difference from 1–2 million cycles; the greatest preload loss occurs between 50,000 and 1 million cycles regardless of abutment type.
 
-체외 피로 시험(n=44, ISO-14801, 200만 사이클)에서 원추형-헥스 연결 CAD-CAM 맞춤 어버트먼트(custom abutment)는 기성 어버트먼트(stock abutment)보다 기저 제거 토크값(Removal Torque Value, RTV)이 낮았으나 200만 사이클 후 예압(preload) 유지는 동등하였으며, 예압 소실의 대부분은 50만 사이클 이전에 발생하므로 초기 어버트먼트 나사 재조임이 권장된다.
+Both abutment designs are mechanically equivalent for long-term function; early post-insertion screw retightening (within the first weeks) is warranted to compensate for initial preload loss.
+
+## 세줄요약
+
+체외 피로 시험(n=44; 기성 어버트먼트(stock abutment, SA) n=22·CAD-CAM 맞춤 어버트먼트(custom abutment, CA) n=22; ISO-14801; 5개 체크포인트, 200만 사이클)으로 제거 토크값(Removal Torque Value, RTV) 및 주사전자현미경(SEM) 비교.
+
+CA의 기저 RTV는 SA보다 낮았으나 100만~200만 사이클 구간에서 양군 부분 회복 — 군간 유의차 없음; 예압(preload) 소실의 대부분은 5만~100만 사이클 초기에 집중.
+
+두 어버트먼트 유형은 장기 기능에서 기계적으로 동등하므로 재료 선택보다 초기 나사 재조임 프로토콜이 핵심.
 
 ## Summary
 

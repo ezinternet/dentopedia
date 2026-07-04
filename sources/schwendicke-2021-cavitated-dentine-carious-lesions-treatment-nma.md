@@ -17,13 +17,23 @@ text_filename: schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma.
 
 Sealant-surveillance / seal-vs-restore 감시 인제스트 — minimal-intervention 우식관리(sealing, selective/stepwise removal, Hall technique, NRCC)의 최상위 근거인 Cochrane SR+NMA로, 기존 [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]]의 비복원 NMA를 복원적 측면(절삭 정도·실링)으로 보완한다. Hall technique RCT 묶음([[caries/mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct]], [[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]])의 상위 합성 근거 anchor로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR + network meta-analysis (27 RCTs, 3350 participants, 4195 teeth) of carious-tissue-removal strategies: for deep lesions, conventional complete removal (CR) had the highest probability of failure vs selective (SE), stepwise (SW), and Hall technique (HT); in primary teeth HT beat CR (OR 8.35 for CR-vs-HT failure) and NRCC.
 
-## 한줄요약
+Cochrane SR + network meta-analysis (27 RCTs, 3350 participants, 4195 teeth) of carious-tissue-removal strategies: for deep lesions, conventional complete removal (CR) had the highest probability of failure vs selective (SE), stepwise (SW), and Hall technique (HT);
+
+in primary teeth HT beat CR (OR 8.35 for CR-vs-HT failure) and NRCC.
+
+(incomplete)
+
+## 세줄요약
+
 
 코크란 SR+네트워크 메타분석(27 RCT·환자 3350명·치아 4195개): 깊은 우식에서 완전절삭 후 통상수복(CR)이 선택적절삭(SE)·단계적절삭(SW)·홀테크닉(HT) 대비 실패 확률이 가장 높았고, 유치에서는 HT가 CR(CR 실패 OR 8.35)·NRCC보다 우수 — 대부분 근거확실성은 낮음/매우낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

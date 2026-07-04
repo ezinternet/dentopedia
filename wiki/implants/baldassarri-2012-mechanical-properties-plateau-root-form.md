@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Human retrieval study (n=30 plateau root form implants, 0.3–24 years) demonstrating that peri-implant cortical bone elastic modulus and hardness increase significantly during the first 5 years of function (E: r=0.84; H: r=0.78; p<0.001 after 5 years), then stabilize regardless of arch location or surface treatment.
+Human retrieval study (n=30 plateau root form implants, 0.3–24 years in vivo) measuring cortical bone elastic modulus (E) and hardness (H) by nanoindentation at three plateau contact zones per implant.
 
-## 한줄요약
+Both E (r=0.84) and H (r=0.78) increased progressively during the first 5 years of function and reached a stable plateau thereafter (p<0.001 at ≥5 years); neither arch location nor surface treatment affected long-term mechanical outcome.
 
-인간 회수 연구(n=30, 0.3–24년 기능)에서 플래토 루트폼 임플란트 주위 피질골의 탄성계수(Elastic Modulus)와 경도(Hardness)가 기능 후 5년까지 유의하게 증가(r=0.84, r=0.78, p<0.001)하고 이후 안정화됨을 나노인덴테이션(Nanoindentation)으로 확인.
+Peri-implant cortical bone undergoes mechanical maturation over approximately 5 years, after which the interface stabilizes — supporting the concept that early and late loading environments differ fundamentally.
+
+## 세줄요약
+
+인간 회수 연구(n=30 플래토 루트폼 임플란트, 기능 기간 0.3–24년): 임플란트 주위 피질골의 탄성계수(Elastic Modulus, E) 및 경도(Hardness, H)를 나노인덴테이션(Nanoindentation)으로 측정.
+
+E(r=0.84)·H(r=0.78) 모두 기능 후 5년까지 점진적으로 증가하고 이후 안정화(p<0.001); 악궁 위치·표면처리는 장기 기계적 결과에 영향 없음.
+
+임플란트 주위 피질골은 약 5년에 걸쳐 역학적으로 성숙(기계적 성숙, Mechanical Maturation)하며, 이후 계면이 안정화됨 — 초기와 후기 로딩 환경이 본질적으로 다름을 뒷받침.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: rodrigues-2022-srp-brazilian-anterior-bone-housing-isd.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients reporting Kan-class SRP distribution.
 
 ## 1. Document Information

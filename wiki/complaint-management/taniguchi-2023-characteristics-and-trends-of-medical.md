@@ -16,11 +16,21 @@ relations:
     target: kwon-2017-analysis-of-the-legal-effect
 ---
 
-## One-line Summary
-Descriptive study of all 13,340 closed medical malpractice claims from Japan's Supreme Court (2006–2021): 52.9% settled, 35.3% judged (75.8% favoring physicians), claim volume declining — sharply in OB/GYN after the 2009 no-fault compensation system.
+## Three-line Summary
 
-## 한줄요약
-일본 최고재판소 종결 의료소송 전수 13,340건(2006–2021) 기술연구 — 52.9% 합의, 35.3% 판결(이 중 75.8% 의료진 승), 전체 건수 감소세; 특히 산부인과는 2009년 무과실 보상제 도입 후 급감.
+National cross-sectional descriptive study of all 13,340 closed medical malpractice claims recorded by Japan's Supreme Court over 16 years (2006–2021), covering all specialties.
+
+Of closed claims, 52.9% settled, 35.3% reached judgment (physicians prevailed in 75.8% of judged cases); overall claim volume declined across the period, with OB/GYN showing the steepest fall after Japan's 2009 no-fault obstetric compensation scheme.
+
+A system-level no-fault policy can durably reduce litigation volume by specialty — macro East-Asian context showing most claims settle and judged cases lean physician-favorable, directly relevant to dental malpractice insurance and policy planning.
+
+## 세줄요약
+
+일본 최고재판소에 기록된 16년간(2006–2021) 종결 의료소송 전수 13,340건 기술연구 — 전 진료과 포함 국가 단위 데이터.
+
+종결 건 중 52.9% 합의, 35.3% 판결(판결 건의 75.8%는 의료진 승소); 전체 건수 감소 추세, 산부인과는 2009년 무과실 보상제 도입 후 가장 급격히 감소.
+
+제도적 무과실 보상제가 특정 진료과 소송 건수를 지속적으로 줄일 수 있음을 실증 — 치과 의료소송 보험 및 정책 기획에 직접 적용 가능한 동아시아 거시 맥락.
 
 ## Summary
 Taniguchi and colleagues described every closed medical malpractice claim recorded by Japan's Supreme Court over 16 years (n=13,340), the first national-prevalence picture rather than a high-risk subset. More than half (52.9%) ended in settlement and 35.3% reached judgment, where physicians prevailed in 75.8% of cases. Plastic surgery and OB/GYN tended toward settlement, while psychiatry settled less and produced more patient-unfavorable outcomes. Claim volume fell over the period, with OB/GYN declining most steeply — temporally tied to Japan's 2009 no-fault Obstetrics/Gynecology Medical Compensation System — illustrating how a system-level policy can reshape litigation epidemiology.

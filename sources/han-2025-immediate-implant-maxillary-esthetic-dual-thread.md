@@ -17,13 +17,21 @@ text_filename: han-2025-immediate-implant-maxillary-esthetic-dual-thread.txt
 
 기존 [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]]와 [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]는 즉시식립·심미의 일반 프로토콜과 SR/MA 근거를 다루지만, 특정 임플란트 매크로디자인(thread 형상·connection 각도)이 1년 연조직·골 결과에 어떻게 기여하는지 단일군 전향 데이터로 보여주는 페이지가 없었다. 본 prospective study (Han 2025, n=20)는 dual-thread(상부 U자 + 하부 V자) + 11° internal hex 디자인의 IU implant를 maxillary esthetic zone IIP에 적용해 ISQ·HW·CBCT·MBL·midfacial recession을 V8(1년)까지 추적한 macrodesign-specific 근거로, [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]]의 thread 기반 1차 안정성 framework를 임상으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Single-arm prospective study (n=20, maxillary esthetic zone IIP with dual-thread [upper U-shaped + lower V-shaped] 11° internal-hex IU implant): 85% success / 100% survival post-loading, ISQ >70 by 70 days, minimal 1-year buccal-bone (−0.34 to −0.48 mm) and soft-tissue loss, midfacial recession improved (1.86→1.21 mm), MBL stable above implant shoulder.
+Single-arm prospective clinical study (n=20 patients, maxillary esthetic zone IIP, Seoul National University Dental Hospital, 2021–2024) using a dual-thread [upper U-shaped + lower V-shaped] 11° internal-hex IU implant (Warantec) with platform switching, tracked through 1-year post-loading (Visit 8, ~450 days).
 
-## 한줄요약
+Success rate was 85% (3 pre-loading failures) and survival 100% post-loading; ISQ exceeded 70 by day 70; buccal bone thickness decreased minimally (−0.34 to −0.48 mm by CBCT); midfacial recession *improved* from 1.86 to 1.21 mm; MBL remained above the implant shoulder throughout.
 
-단일군 전향연구(n=20, 상악 심미부 즉시식립 + 듀얼스레드[상부 U자·하부 V자] 11° 내부육각 IU 임플란트): 성공률 85%·기능부하 후 생존율 100%, 70일째 ISQ >70, 1년 협측골 손실 −0.34~−0.48 mm로 미미, 중안면 치은퇴축은 오히려 개선(1.86→1.21 mm), 변연골 수준은 임플란트 숄더 위로 안정 유지.
+This dual-thread implant design achieves stable 1-year hard and soft tissue outcomes in the maxillary esthetic zone, but the small no-control design and 1-year follow-up limit conclusions — no comparison vs other implant systems or delayed placement is possible from this data.
+
+## 세줄요약
+
+단일군 전향 임상연구(n=20, 상악 심미부 즉시식립, 서울대치과병원, 2021–2024): 듀얼스레드(상부 U자·하부 V자) 11° 내부육각 IU 임플란트(Warantec) + 플랫폼 스위칭, 부하 후 1년(V8, 약 450일)까지 추적.
+
+성공률 85%(부하 전 3개 실패)·부하 후 생존율 100%; 70일째 ISQ >70; CBCT 협측골 두께 −0.34~−0.48 mm 미미; 중안면 퇴축은 오히려 1.86→1.21 mm로 개선; 변연골 수준은 임플란트 숄더 상방 유지.
+
+본 듀얼스레드 디자인은 상악 심미부 즉시식립에서 1년간 안정적인 경조직·연조직 결과를 보이나, 단일군·소표본·단기 추적·비교군 없음이 한계 — 다른 임플란트 시스템 또는 지연식립과의 직접 비교는 불가.
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 
 [[digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation]], [[digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation]]와 함께 robotic vs dynamic navigation 정확도 근거군을 형성. 본 연구는 semi-autonomous(sa-RASS) 로봇이라는 변형을 비교해 robotic 카테고리 내부 이질성을 보강.
 
-## One-line Summary
-Retrospective clinical study (57 implants) — semi-autonomous robot (sa-RASS) gave lower platform and apex deviation than dynamic navigation, with comparable angular deviation.
+## Three-line Summary
 
-## 한줄요약
-후향 임상연구(임플란트 57개): 반자율로봇(sa-RASS)이 동적내비게이션(DNS)보다 플랫폼·첨부 편차는 낮고 각도 편차는 동등.
+Retrospective clinical study (57 patients/57 implants, single center 2023) comparing semi-autonomous robotic surgery (sa-RASS, n=29) versus dynamic navigation system (DNS, n=28) for implant placement accuracy via CBCT-measured platform, apex, and angular deviation.
+
+sa-RASS achieved significantly lower platform deviation (0.91 vs 1.26 mm, p<0.001) and apex deviation (1.06 vs 1.51 mm, p<0.001) than DNS, while angular deviation was not significantly different (3.07° vs 3.71°, p>0.05).
+
+Semi-autonomous robotics reduced linear positional errors compared with dynamic navigation, but did not demonstrate angular accuracy superiority, and the retrospective single-center design with small n limits generalizability.
+
+## 세줄요약
+
+후향적 임상연구(환자/임플란트 57개, 2023년): 반자율로봇수술(sa-RASS, n=29) vs 동적내비게이션(DNS, n=28)의 식립 정확도를 CBCT 기반 플랫폼·첨부·각도 편차로 비교.
+
+sa-RASS가 플랫폼 편차(0.91 vs 1.26 mm, p<0.001) 및 첨부 편차(1.06 vs 1.51 mm, p<0.001)에서 유의하게 낮았으나, 각도 편차(3.07° vs 3.71°)는 유의차 없음(p>0.05).
+
+반자율 로봇은 동적내비게이션보다 선형 위치 오차를 감소시키지만 각도 정확도 우위는 입증되지 않았으며, 소규모 단일기관 후향 설계로 일반화에 제한.
 
 ## 1. Document Information
 - Clinical Oral Implants Research 2025;36:725–735. Accepted 2 Feb 2025.

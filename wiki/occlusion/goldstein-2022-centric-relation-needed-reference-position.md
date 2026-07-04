@@ -19,13 +19,21 @@ relations:
     target: zonnenberg-2021-centric-relation-critically-revisited-clinical
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (abstract-only) arguing centric relation (CR) is a reproducible, clinically validated reference position for diagnosis and full-arch reconstruction; the real problem is the lack of consensus on its definition and recording method, not the concept — this is the counterpoint to "abandon CR."
+Narrative review (abstract-only) of the centric relation (CR) debate in prosthodontics, responding directly to the "abolish CR" position (Zonnenberg 2021) by reviewing historical and clinical evidence for CR as a jaw reference position.
 
-## 한줄요약
+CR is reproducible and clinically validated for diagnostic and full-arch restorative use; no substantive clinical research contradicts this use; the core problem is lack of consensus on CR's definition and recording method, not on the concept itself.
 
-서술적 리뷰(초록만): 중심위(Centric Relation, CR)는 재현 가능하고 검증된 진단·전악 재건 기준위이며, 문제는 개념이 아니라 정의·기록법 합의 부재라고 주장하는, "CR 폐기" 주장에 대한 반론.
+If a different jaw position is used, it should be given a different name — terminological discipline, not abandonment, resolves the debate; evidence is insufficient to specify any single exact condylar position within the fossa.
+
+## 세줄요약
+
+보철학의 중심위 (Centric Relation, CR) 논쟁을 다룬 서술적 리뷰 (초록만) — "CR 폐기" 주장 (Zonnenberg 2021)에 대한 직접 반론.
+
+CR은 재현 가능하고 진단·전악 보철 재건에 임상적으로 검증된 기준위이며, 이를 반박하는 임상 연구 없음; 문제의 핵심은 개념이 아니라 CR의 정의 및 기록 방법 합의 부재.
+
+다른 하악 위치를 사용할 경우 별도 명칭 부여 필요 — 포기가 아닌 용어 규율이 논쟁 해결책; 하악와 내 정확한 과두 위치를 특정할 증거 불충분.
 
 ## Summary
 

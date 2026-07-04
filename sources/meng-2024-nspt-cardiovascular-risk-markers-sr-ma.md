@@ -9,7 +9,7 @@ pdf_filename: meng-2024-nspt-cardiovascular-risk-markers-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of 21 RCTs: NSPT significantly reduces CRP, IL-6, and SBP (moderate certainty); no significant effect on LDL, HDL, TC, TG, or DBP.
 
 ## 1. Document Information

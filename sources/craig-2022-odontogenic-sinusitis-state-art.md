@@ -13,13 +13,21 @@ source_collection: external
 
 OMS 클러스터(Psillas 2020 종합리뷰, Lin 2024 전문가합의, Kim 2019 정의·관리)가 이미 존재하나, 치과 관점보다 이비인후과 시각에서 ESS 타이밍·OAF·implant-related ODS를 체계적으로 정리한 ENT-angle narrative review가 없었음. Craig 2022는 [[wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]]의 다학제 합의를 임상 시나리오별로 풀어내는 상보적 리뷰로, 치과의사가 ODS 의심·의뢰 로직을 구체화하는 데 직접 활용 가능.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (ENT perspective) outlining the diagnosis and multidisciplinary management of odontogenic sinusitis (ODS), covering clinical suspicion criteria, microbiology, dental vs. ESS treatment sequencing, and 7 key clinical scenarios.
+State-of-the-art narrative review (Craig, Henry Ford Health, 2022; 55 citations through mid-2021) synthesizing the diagnosis and multidisciplinary management of odontogenic sinusitis (ODS), accounting for 25–40% of all chronic maxillary sinusitis and 45–75% of unilateral sinus opacification.
 
-## 한줄요약
+Primary dental treatment alone resolves ~60–77% of apical-periodontitis-associated ODS; combining dental treatment with endoscopic sinus surgery (ESS) achieves 90–100% resolution; primary ESS achieves symptom resolution in 7–12 days vs 35–56 days for primary root canal/extraction alone; antibiotics are not curative.
 
-치과기원 부비동염 (Odontogenic Sinusitis, ODS) 진단·치료 총정리 서술 리뷰 — 임상의심 기준, 세균학, 발치/근관치료 vs. ESS 순서 결정, 7가지 핵심 임상 시나리오 포함.
+Radiologists miss 60–70% of dental pathology on CT; dual confirmation (ENT endoscopy + dental specialist evaluation) is required for diagnosis; complicated ODS (orbital/intracranial spread, ~7%) has poor prognosis.
+
+## 세줄요약
+
+서술 리뷰 (Craig, Henry Ford Health, 2022; 55편 인용): 치과기원 부비동염 (Odontogenic Sinusitis, ODS) 진단·치료 총정리 — ODS는 만성 상악동염의 25–40%, 단측성 상악동 혼탁의 45–75% 차지.
+
+치과 처치 단독 성공률 ~60–77%(근관치료/발치); 치과처치+내시경 부비동 수술 (Endoscopic Sinus Surgery, ESS) 병행 시 90–100% 해결; ESS가 증상 해소 더 빠름(7–12일 vs 35–56일); 항생제 단독은 ODS에 효과 없음.
+
+방사선과의 치성 병소 오진율 60–70%; 이비인후과 내시경 + 치과 전문가 이중 확진 필수; 합병증 ODS(안와·두개내 파급, ~7%)는 예후 불량(시력 회복 50%에 불과).
 
 ## 1. Document Information
 

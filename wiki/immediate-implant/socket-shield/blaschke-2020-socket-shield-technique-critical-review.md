@@ -14,11 +14,21 @@ source_collection: external
 tags: [socket-shield-technique, SST, critical-review, controversies, bundle-bone, esthetic-zone, IJID]
 ---
 
-## One-line Summary
-Critical literature review (Blaschke & Schwass, ~12 included studies) acknowledging the socket-shield technique's (SST) potential benefits — buccal bone preservation, esthetic gains, avoidance of invasive grafting — but emphasizing critical limitations (lack of long-term outcomes, unclear complication patterns, insufficient evidence for routine use), concluding SST adoption is premature.
+## Three-line Summary
 
-## 한줄요약
-Critical review (Blaschke & Schwass, Int J Implant Dent 2020, 12 studies): SST 잠재 이점 (협측 골보존·미용·invasive graft 회피)을 인정하되 **장기 outcome·합병증 패턴·routine use 근거 부족**의 critical limitation 강조. SST 도입 의사결정의 cautious anchor.
+Critical literature review (Blaschke & Schwass, Int J Implant Dent 2020; 12 included studies) evaluating the socket-shield technique's evidence base after Hürzeler's 2010 proof-of-concept.
+
+Potential benefits — buccal bone preservation, esthetic gains, avoidance of invasive grafting — are acknowledged, but long-term outcome data, complication patterns (shield mobility, infection, exposure, migration), and standardized protocols are all insufficient for routine use.
+
+SST adoption is judged premature; strict case selection, informed consent, and long-term follow-up are prerequisites before wider clinical implementation.
+
+## 세줄요약
+
+비판적 문헌 고찰(Blaschke & Schwass, Int J Implant Dent 2020; 12편): 2010년 Hürzeler의 개념 증명 이후 소켓실드(Socket Shield Technique, SST) 근거를 비판적으로 평가.
+
+협측 골보존·심미 향상·침습적 이식 회피의 잠재 이점을 인정하면서도 장기 결과·합병증 패턴(쉴드 이동·감염·노출·이주) 및 표준 프로토콜 모두 routine 적용에 불충분함을 지적.
+
+SST 도입은 시기상조이며 엄격한 증례 선택·환자 동의·장기 추적이 선행되어야 함.
 
 ## Summary
 SST 분야의 비판적 review. Hürzeler 2010 proof-of-concept 이후 다수 case report·소규모 cohort가 긍정 결과를 보고했지만, 본 review는 그 신호들을 critical하게 평가. Routine use 적용은 시기상조라는 cautious 결론.

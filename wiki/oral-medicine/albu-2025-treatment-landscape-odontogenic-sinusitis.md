@@ -16,11 +16,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/albu-2025-treatment-landscape-odonto
 text_filename: albu-2025-treatment-landscape-odontogenic-sinusitis.txt
 ---
 
-## One-line Summary
-Narrative review (6 SRs + 24 clinical studies): empirical amoxicillin/amox-clav is first-line for ODS but antibiotics alone rarely cure; resolving the dental source is essential, and concurrent one-stage dental + ESS yields the highest success (~97%).
+## Three-line Summary
 
-## 한줄요약
-치성 부비동염(ODS) 치료 종합 리뷰: 경험적 1차는 amoxicillin/amox-clav지만 항생제 단독으론 거의 완치 안 됨 — 치과 원인 제거 필수, 치과처치+내시경부비동수술(ESS) 병행이 성공률 최고(~97%).
+Narrative review (PubMed/WoS/Cochrane, Jan 2008–Aug 2025; 6 SRs + 24 clinical studies) on treatment of odontogenic sinusitis (ODS), which accounts for 25–40% of maxillary chronic rhinosinusitis, predominantly anaerobic with frequent beta-lactamase positivity.
+
+Empirical amoxicillin or amoxicillin-clavulanate is first-line (endodontic-infection bacteria 90–100% susceptible), but antibiotic monotherapy is not curative when a treatable dental focus persists; concurrent one-stage dental treatment + endoscopic sinus surgery (ESS) achieves ~97% success with <6% recurrence.
+
+Smoking, diabetes, and higher Lund-Mackay scores predict failure/recurrence; surgical extent debate (maxillary antrostomy alone vs full ESS) remains; iatrogenic (implant) ODS frequently requires ESS (~79%); antibiotics should be framed as adjunctive, not curative, for ODS with an identifiable source.
+
+## 세줄요약
+
+치성 부비동염(ODS; 상악동 만성 부비동염의 25–40%) 치료에 관한 내러티브 리뷰(2008–2025년 8월; SR 6편 + 임상연구 24편): 주로 혐기성균·빈번한 beta-lactamase 양성.
+
+경험적 1차 항생제: 아목시실린 또는 아목시실린-클라불라네이트(근관 감염균 90–100% 감수성); 단, 치과 원인이 존재할 경우 항생제 단독으로는 완치 불가; 치과처치+내시경부비동수술(ESS) 동시 시행 성공률 ~97%, 재발률 <6%.
+
+흡연·당뇨·높은 Lund-Mackay 점수가 실패/재발 예측인자; 수술 범위(상악동 개구술 단독 vs 전범위 ESS) 논쟁 지속; 의인성(임플란트) ODS는 ESS 필요 빈도 높음(~79%); 항생제는 보조 역할로 재정의해야 함.
 
 ## Summary
 Narrative review synthesizing diagnosis, microbiology, and management of odontogenic sinusitis (ODS). ODS accounts for 25-40% of maxillary-sinus chronic rhinosinusitis, mostly iatrogenic or from apical periodontitis, and is dominated by anaerobes with frequent beta-lactamase positivity. Empirical antibiotics (amoxicillin or amoxicillin-clavulanate; fluoroquinolones if penicillin-allergic) provide symptom relief but rarely cure when a treatable dental focus persists. Eliminating the dental source is essential; for oroantral fistulas, infected sinus bone grafts, or implants, concurrent one-stage dental + endoscopic sinus surgery (ESS) gives the highest success (~97%). In uncomplicated ODS, maxillary antrostomy alone may suffice, while apical-periodontitis ODS shows low short-term recurrence after primary ESS.

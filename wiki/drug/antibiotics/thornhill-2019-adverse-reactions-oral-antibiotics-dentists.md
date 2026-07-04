@@ -13,11 +13,21 @@ source_collection: external
 tags: [antibiotics, adverse-drug-reaction, dental-prescribing, amoxicillin, clindamycin, metronidazole, macrolides, c-difficile, anaphylaxis, qt-prolongation, pharmacoepidemiology]
 ---
 
-## One-line Summary
-NHS England prescribing data (2010–2017) + Yellow Card ADR reports: amoxicillin safest by far (total 21.5, fatal 0.1 per million prescriptions); clindamycin has the highest fatal ADR rate (2.9/million, mostly Clostridioides difficile colitis) — suggests the reflex "amoxicillin allergy → clindamycin" substitution may be hazardous.
+## Three-line Summary
 
-## 한줄요약
-NHS England 처방 데이터(2010–2017) + Yellow Card 부작용(Adverse Drug Reaction, ADR) 보고: amoxicillin이 압도적으로 가장 안전(전체 21.5·치명적 0.1/백만 처방), clindamycin은 치명적 ADR 최고(2.9/백만, 대부분 Clostridiodes difficile 장염) — "amoxicillin 알레르기 → clindamycin 대체" 반사가 위험할 수 있음을 시사.
+Retrospective pharmacoepidemiological study cross-linking NHS England prescribing data (2010–2017, average 23,624 dentists/year) with MHRA Yellow Card ADR reports to compute ADR rates per million prescriptions for common dental antibiotics.
+
+Amoxicillin is safest (total ADR 21.5, fatal 0.1/million; 64.8% of all prescriptions); clindamycin has the highest fatal ADR rate (2.9/million, mostly C. difficile colitis); macrolides cause fatal cardiac arrhythmia via QT prolongation; amoxicillin-clavulanate uniquely carries hepatobiliary ADR signal.
+
+The reflex "amoxicillin allergy → clindamycin" substitution may be hazardous given clindamycin's ~29× higher fatal ADR rate; voluntary reporting likely underestimates absolute rates but relative comparisons remain valid.
+
+## 세줄요약
+
+NHS England 처방 데이터(2010–2017) + MHRA Yellow Card ADR 보고 연계 후향연구: 치과의사 처방 주요 항생제의 백만 처방당 이상반응(Adverse Drug Reaction, ADR) 비율 산출.
+
+Amoxicillin 가장 안전(전체 21.5·치명적 0.1/백만; 처방 점유 64.8%); clindamycin 치명적 ADR 최고(2.9/백만, 대부분 C. difficile 장염); macrolide는 QT 연장→torsades de pointes 사망; amox-clav는 유일하게 담즙정체황달 신호.
+
+"Amoxicillin 알레르기 → clindamycin" 반사 대체는 위험할 수 있음(치명 ADR ~29배 높음); 자발적 보고라 절대 발생률 과소평가되나 상대 비교는 유효.
 
 ## Summary
 Thornhill 등(2019)은 NHS England 2010–2017 처방 데이터(연 평균 23,624명 치과의사)와 영국 의약품규제청(MHRA) Yellow Card 자발적 ADR 보고를 cross-link해 치과의사가 흔히 처방하는 경구 항생제의 백만 처방당 ADR률을 산출했다. Amoxicillin이 처방의 64.8%를 차지하면서도 ADR률이 가장 낮고(전체 21.5/백만, 치명적 0.1/백만), clindamycin은 치명적 ADR률 2.9/백만으로 amoxicillin의 약 29배 — 대부분 C. difficile 감염성 장염. Penicillin V는 면역계 ADR(아나필락시스 포함) 최고, macrolide(erythromycin, clarithromycin, azithromycin)는 QT 연장→torsades de pointes로 인한 심장 부정맥이 주된 사망 원인. 임상 의사결정(특히 페니실린 알레르기 환자의 대체 항생제 선택)을 정량적으로 재검토하게 만드는 핵심 약물역학 데이터다.

@@ -18,11 +18,21 @@ relations:
     target: cosola-2020-bone-tissue-level-radiological-sr
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (5 studies, 501 implants, 241 participants, 1–5 years): tissue-level (TL) vs bone-level (BL) implants show comparable outcomes — TL had lower peri-implantitis and failure rates (both RR 0.59) but the differences were not statistically significant, with no significant PPD or MBL differences.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(5편, 501 임플란트, 241명, 1-5년): 조직수준 임플란트 치주염·실패율 낮음(RR 0.59) — 통계적 유의차 없음; TL·BL 임상결과 유사
+SR+MA (5 RCTs/controlled studies, 501 implants, 241 participants, 1–5-year observation; PRISMA; 798 screened) comparing tissue-level (TL) vs bone-level (BL) implants for peri-implantitis incidence, implant failure, probing depth (PPD), and marginal bone level (MBL).
+
+TL implants showed lower peri-implantitis (RR 0.59; 95% CI 0.14–2.48; p=0.47) and failure rates (RR 0.59; 95% CI 0.07–4.69; p=0.62) than BL, but neither difference was statistically significant; PPD and MBL changes also did not differ significantly at 12 or 24 months.
+
+TL may offer a marginal peri-implant health advantage suggested by the consistent RR direction, but the current evidence base is limited to 5 studies with high heterogeneity — no definitive design preference can be made on peri-implantitis grounds alone.
+
+## 세줄요약
+
+SR+MA (RCT/대조연구 5편, 임플란트 501개, 241명, 1–5년; PRISMA; 798건 검색) — 조직수준(TL) vs 골수준(BL) 임플란트의 임플란트 주위염 발생률·실패율·PPD·MBL 비교.
+
+TL이 임플란트 주위염(RR 0.59; p=0.47)·실패율(RR 0.59; p=0.62) 모두 낮지만 통계적 유의차 없음; 12·24개월 PPD·MBL 변화도 유의차 없음.
+
+RR 방향의 일관성이 TL의 미미한 이점을 시사하나, 5편·높은 이질성의 제한된 근거 — 임플란트 주위염 기준만으로 설계 선호 결론 불가.
 
 ## Summary
 SR+MA comparing tissue-level (TL) vs bone-level (BL) dental implants for peri-implantitis incidence and survival. 5 studies, 501 implants, 241 participants, 1–5 year observation. TL implants showed lower rates of peri-implantitis (RR 0.59) and implant failure (RR 0.59), but differences were not statistically significant. TL and BL demonstrate comparable outcomes.

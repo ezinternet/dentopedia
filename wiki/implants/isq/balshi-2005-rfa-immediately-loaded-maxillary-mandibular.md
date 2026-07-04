@@ -14,13 +14,21 @@ source_collection: external
 tags: [ISQ, RFA, immediate-loading, Branemark, Teeth-in-a-Day, stability-dip, bone-remodeling, bone-type, sex-effect, posterior-anterior, 90-day]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (51 patients, 344 Brånemark implants, immediate loading) documenting the ISQ stability dip at 30 days (70.35→66.38) followed by recovery at 60–90 days, with greater instability in soft bone, posterior regions, and females; 98.5% survival.
+Prospective study (51 patients, 344 Brånemark implants) measuring ISQ at 4 time points under the Teeth-in-a-Day immediate functional loading protocol, with complete data for 276 implants.
 
-## 한줄요약
+Mean ISQ fell from 70.35 at placement to a nadir of 66.38 at 30 days, then recovered to 68.82 by 90 days; lower ISQ values were consistently seen in softer bone (type IV), posterior sites, and female patients; survival was 98.5%.
 
-전향적 연구(51명, 344개 Brånemark 즉시부하): 식립 직후 ISQ 70.35 → 30일 66.38(안정성 골재형성 dip) → 90일 68.82 회복; 연조직·구치부·여성에서 낮은 안정성; 생존율 98.5%.
+An undisturbed healing period of at least 2 months is recommended before modifying loading protocols, as the stability dip represents adaptive bone remodeling that resolves by 60–90 days.
+
+## 세줄요약
+
+전향적 연구(51명, 344개 Brånemark 즉시부하): Teeth-in-a-Day 프로토콜 하에 4시점(식립·30·60·90일)에서 임플란트 안정성 지수(ISQ)를 측정하였다.
+
+ISQ는 식립 직후 70.35에서 30일 66.38로 저하(골 개조 dip) 후 90일 68.82로 회복; 연조직(Lekholm-Zarb 4형)·구치부·여성에서 일관되게 낮은 ISQ; 생존율 98.5%.
+
+ISQ dip은 2개월 이내에 자연 회복되므로 즉시부하 프로토콜 변경 전 최소 2개월의 비교란 치유를 권고하며, 연조직·구치부·여성 조합이 최고위험 프로파일이다.
 
 ## Summary
 

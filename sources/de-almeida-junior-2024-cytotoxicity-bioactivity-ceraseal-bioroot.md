@@ -17,13 +17,21 @@ text_filename: de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot.
 
 Seeds the wiki's first CeraSeal / bioceramic-sealer biocompatibility cluster, complementing the clinical CeraSeal cohort and obturation papers already held ([[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]], [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]]). Whereas those track clinical/survival outcomes, this paper supplies the cell-level (MC3T3 pre-osteoblast) cytotoxicity and osteo/odontogenic gene-expression evidence underpinning why premixed calcium-silicate sealers like CeraSeal are chosen over epoxy-resin AH Plus.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro MC3T3 pre-osteoblast study (ISO 10993-5, n triplicate): CeraSeal, BioRoot RCS and AH Plus were all non-cytotoxic at 48 h (BioRoot transiently cytotoxic at 24 h, 1:10), and differentially induced inflammation/mineralization genes (AH Plus → Tnf; CeraSeal/BioRoot → Ptgs2 and Dmp1) without changing 28-day mineralization-nodule formation.
+In-vitro study (MC3T3 mouse pre-osteoblast, ISO 10993-5 extraction method, triplicate) comparing cytotoxicity and bioactivity of three endodontic sealers: CeraSeal (premixed calcium-silicate bioceramic), BioRoot RCS (tricalcium silicate), and AH Plus (epoxy-resin).
 
-## 한줄요약
+All three sealers were non-cytotoxic at 48 h (BioRoot transiently cytotoxic at 24 h, 1:10 dilution only); AH Plus up-regulated Tnf (pro-inflammatory) while CeraSeal and BioRoot up-regulated Ptgs2 (COX-2) and Dmp1 (dentin matrix protein 1), yet 28-day mineralization-nodule formation did not differ significantly among groups.
 
-In-vitro MC3T3 전조골세포 연구 (ISO 10993-5, 3회 반복): CeraSeal·BioRoot RCS·AH Plus 모두 48시간 시점에서 비독성 (BioRoot만 24시간·1:10에서 일시적 독성), 염증·광화 유전자를 차등 유도 (AH Plus는 Tnf↑, CeraSeal/BioRoot는 Ptgs2·Dmp1↑) 했으나 28일째 광화 결절 형성에는 차이가 없었다.
+Calcium-silicate sealers and AH Plus diverge in gene-expression profile (inflammatory vs osteo/odontogenic markers) without a functional difference in nodule mineralization — "non-cytotoxic" does not equal "osteoinductive" in this 28-day model.
+
+## 세줄요약
+
+In vitro 연구(MC3T3 마우스 전조골세포, ISO 10993-5 추출법, 3반복): CeraSeal(프리믹스 칼슘실리케이트), BioRoot RCS(삼칼슘실리케이트), AH Plus(에폭시 레진) 세 실러의 세포독성·생체활성 비교.
+
+세 실러 모두 48시간 시점에서 비독성(BioRoot만 24시간·1:10 희석에서 일시적 독성); AH Plus는 Tnf(친염증) ↑, CeraSeal·BioRoot는 Ptgs2(COX-2)·Dmp1↑ 유발하였으나, 28일 광화 결절 형성은 세군 간 유의 차이 없음.
+
+칼슘실리케이트 실러와 AH Plus는 유전자 발현 프로파일에서 차이를 보이지만, 이 차이가 28일 광화 기능으로 전이되지 않음 — "비독성 = 골유도성"이라는 가정을 지지하지 않음.
 
 ## 1. Document Information
 

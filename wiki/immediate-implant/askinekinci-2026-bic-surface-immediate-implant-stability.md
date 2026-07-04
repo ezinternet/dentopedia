@@ -20,13 +20,21 @@ relations:
     target: witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pilot RCT (n=28; immediate+graft vs immediate no-graft vs healed) finding grafting does not improve immediate-implant primary stability, healed sites are significantly higher (insertion torque P=0.007, intraoperative ISQ P=0.014), and virtual bone-implant contact (BIC) correlates with early ISQ only in the no-graft immediate group (intraop r=0.62 P=0.03; ISQ-60 r=0.58 P=0.05).
+Pilot RCT (n=28, Sci Rep 2026) comparing immediate implant placement with graft (Group I), without graft (Group II), and in healed sites (Group III) using a CBCT-IOS registration workflow to estimate virtual bone-to-implant contact surface (BIC).
 
-## 한줄요약
+Healed sites achieved significantly greater primary stability (insertion torque P=0.007, intraoperative ISQ P=0.014); grafting the gap conferred no primary-stability advantage over no graft; virtual BIC correlated with early ISQ only in the ungrafted immediate group (intraoperative r=0.62, P=0.03; ISQ-60 r=0.58, P=0.05).
 
-파일럿 무작위대조시험 (Randomized Controlled Trial, RCT, n=28): 즉시식립 시 골이식은 초기 안정성을 높이지 않고 (치유부 골 부위가 유의하게 우월, 식립토크 P=0.007, 술중 ISQ P=0.014), 가상 골-임플란트 접촉면적 (virtual Bone-Implant Contact surface, BIC)은 비이식 즉시식립군에서만 초기 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 상관 (술중 r=0.62; 60일 r=0.58).
+Clinically, gap grafting is justified for dimensional/esthetic purposes, not for improving primary stability; BIC is a meaningful early-stability predictor only when no filler decouples native bone contact from ISQ measurement.
+
+## 세줄요약
+
+파일럿 RCT (n=28, Sci Rep 2026): CBCT-IOS 중합 워크플로우로 가상 골-임플란트 접촉면적(virtual BIC)을 측정하며, 즉시식립+이식(그룹I) vs 즉시식립+비이식(그룹II) vs 치유 부위(그룹III) 3군 비교.
+
+치유 부위가 초기 안정성 유의하게 우월(식립토크 P=0.007, 술중 ISQ P=0.014); 간극 이식은 즉시식립군 초기 안정성 개선 없음; virtual BIC는 비이식 즉시식립군에서만 초기 ISQ와 상관(r=0.62).
+
+간극 이식의 근거는 치수 보존과 심미 목적이지 초기 안정성 향상이 아님; 이식재가 있으면 native BIC와 ISQ 간 상관이 희석되어 BIC의 안정성 예측력이 사라진다.
 
 ## Summary
 

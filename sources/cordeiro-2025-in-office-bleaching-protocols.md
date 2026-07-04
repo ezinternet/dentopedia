@@ -16,13 +16,21 @@ text_filename: cordeiro-2025-in-office-bleaching-protocols.txt
 
 The clinical question of how to optimize in-office bleaching protocol (number of applications vs contact time) to maximize whitening while minimizing pulp HP penetration is unresolved. This controlled in vitro study with 11 protocol groups (n=154 premolars) directly maps the efficacy-safety trade-off, extending [[tooth-whitening/centenaro-2025-low-vs-high-hp-in-office]] by addressing the application time dimension independently of concentration.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro RCT (n=154 human premolars, 11 protocol groups) found 2×8-min and 1×24-min in-office bleaching protocols optimally balanced whitening (significant WI after 2 sessions) and HP pulp penetration (intermediate levels), while 3×8 min maximized both whitening and penetration.
+In vitro RCT (n=154 extracted human premolars, 11 groups: 1–3 applications × 8/16/24 min contact time, 2 commercial in-office gels [Pola Office+, Pola Rapid], 2 sessions 7 days apart) measuring whiteness index (WI) change and pulp-chamber HP penetration by UV-Vis spectrophotometry.
 
-## 한줄요약
+2×8-min and 1×24-min protocols achieved high whitening (equivalent to 3×8 min, p<0.001 vs control) with intermediate HP pulp penetration; 3×8-min maximized both whitening and pulp HP penetration; 1×8-min was insufficient for both WI change and HP penetration; no significant difference between the two gel formulations.
 
-인비트로 RCT(n=154)에서 2×8분 및 1×24분 인체 소구치 미백 프로토콜은 미백 효과(2회 후 유의한 WI 변화)와 수분(HP 치수강 침투) 균형이 최적이었으며, 3×8분은 미백과 침투 모두 최대였다.
+The 2×8-min protocol offers the best efficacy-safety balance for clinical in-office bleaching — equivalent whitening to 3×8 min while saving ~8 min chair time and reducing HP pulp exposure; in vitro only (no pulp response, saliva, or sensitivity data).
+
+## 세줄요약
+
+인비트로 RCT(n=154 발거 소구치, 11군: 1–3회 도포 × 8/16/24분 접촉시간, 2가지 시판 진료실 미백젤[Pola Office+, Pola Rapid], 7일 간격 2세션): 백색도지수(WI) 변화 및 UV-Vis 분광법으로 치수강 HP 침투량 측정.
+
+2×8분·1×24분 프로토콜은 3×8분과 동등한 높은 미백(p<0.001 vs 대조군) + 중간 수준의 HP 치수 침투; 3×8분은 미백과 침투 모두 최대; 1×8분은 미백·침투 모두 불충분; 두 젤 제형 간 유의차 없음.
+
+2×8분 프로토콜이 최적 효율-안전 균형 — 3×8분과 동등한 미백 효과이면서 의자 시간 ~8분 절약·HP 치수 노출 감소; 인비트로 연구(치수 반응·타액·민감도 데이터 없음).
 
 ## 1. Document Information
 

@@ -13,11 +13,19 @@ source_collection: external
 tags: [ARP, peri-implantitis, ISQ, bone-regeneration, animal-study, marginal-bone-loss]
 ---
 
-## One-line Summary
-Beagle study (n=6): ARP and tooth infection status had no significant effect on implant ISQ, radiographic bone loss, or histological bone composition; no correlation between newly formed bone and ISQ — ARP does not improve initial implant stability or retard peri-implantitis progression in this model (JPIS 2025).
+## Three-line Summary
+Beagle dog preclinical study (n=6, 4-group split-mouth: infected vs non-infected tooth × ARP vs spontaneous healing) examining whether ARP or pre-extraction infection status affects implant ISQ, radiographic marginal bone loss, and histological bone composition after experimental peri-implantitis induction.
 
-## 한줄요약
-Beagle 6마리: ARP 유무 및 치아 감염 여부가 임플란트 ISQ·골흡수에 유의한 영향 없음; 신생골과 ISQ 간 상관관계 없음 — ARP가 초기 안정성이나 치주염 진행을 억제하지 못함 (JPIS 2025).
+Neither ARP nor infection status produced significant differences in ISQ, radiographic bone loss, or histological composition; linear regression showed no significant correlation between newly formed bone and ISQ in any group (all p>0.05).
+
+ARP does not appear to improve initial implant stability or retard peri-implantitis progression in this animal model, and newly formed bone quantity is not a reliable predictor of ISQ — challenging the assumption that ARP-enhanced bone quality translates to better implant outcomes.
+
+## 세줄요약
+Beagle 6마리, 4군 분할구강 (감염/비감염 치아 × ARP/자연치유): ARP 유무 및 발치 전 감염 여부가 임플란트 ISQ·방사선학적 변연골 소실·조직학적 골 구성에 미치는 영향을 실험적 치주염 유발 후 평가.
+
+ARP 유무·감염 여부 모두 ISQ, 골흡수, 조직학적 구성에 유의한 차이를 일으키지 않았으며, 신생골과 ISQ 간 상관관계도 전 군에서 유의하지 않았다 (p>0.05).
+
+ARP가 초기 임플란트 안정성이나 치주염 진행 억제에 기여하지 않음을 보여주며, 신생골 양이 ISQ의 신뢰할 만한 예측인자가 아님을 제시하여 ARP-골질 향상→임플란트 결과 개선이라는 가정에 의문을 제기한다.
 
 ## Summary
 Secondary analysis of a beagle dog preclinical study examining whether alveolar ridge preservation (ARP) vs spontaneous healing (SH), and infected (IT) vs non-infected teeth (NIT), affect implant stability (ISQ) and progression of experimental peri-implantitis. Six beagle dogs; bilateral mandibular premolars randomly assigned to four groups. No significant differences were found among groups for ISQ, radiographic marginal bone loss, or histological bone composition. Linear regression showed no significant correlation between newly formed bone and ISQ in any group (all p>0.05). A weak correlation between newly formed bone and marginal bone loss was observed only in the IT/SH group (p=0.036).

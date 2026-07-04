@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 신규 food-impaction 카테고리의 최상위 근거(umbrella review, SR/MA 5편 종합)로 인제스트. 기존 [[implants/kim-2026-proximal-contact-loss-implants-10years]] 장기추적 단일연구가 보인 mesial>distal·고유병률 패턴을 상위 근거 수준에서 보강한다.
 
-## One-line Summary
-Umbrella review (5 systematic/meta-analytic reviews from 43 eligible; 3 low-risk): proximal contact loss between implant prostheses and adjacent teeth is predominantly open-type and more frequent at mesial contacts, especially in the mandibular arch, with no sex or anterior/posterior difference.
+## Three-line Summary
 
-## 한줄요약
+Umbrella review (5 systematic/meta-analytic reviews from 43 eligible;
+
+3 low-risk): proximal contact loss between implant prostheses and adjacent teeth is predominantly open-type and more frequent at mesial contacts, especially in the mandibular arch, with no sex or anterior/posterior difference.
+
+(incomplete)
+
+## 세줄요약
+
 엄브렐러 리뷰(SR/MA 5편, 저위험 3편): 임플란트 보철과 인접치 사이 proximal contact loss는 주로 open contact 형태이고 mesial(특히 하악)에서 더 흔하며, 성별·전후방 부위에 따른 차이는 없다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - European Journal of Dentistry, published online June 10, 2022. DOI 10.1055/s-0042-1745771. ISSN 1305-7456.

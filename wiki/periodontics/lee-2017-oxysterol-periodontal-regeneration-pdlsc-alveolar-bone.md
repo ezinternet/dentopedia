@@ -18,13 +18,22 @@ relations:
     target: stavropoulos-2021-periodontal-regeneration-intrabony-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro (human PDLSC) + in-vivo (rat, n=6/group) study: the oxysterol combination 22(S)- + 20(S)-hydroxycholesterol (SS) drives PDLSC osteogenesis via reciprocal LXR↔Hedgehog signaling and promotes rat alveolar socket bone regeneration with efficacy comparable to rhBMP-2 (μCT bone-volume difference between groups was not statistically significant).
+In vitro (human PDLSC) + in vivo (rat extraction-socket model, n=6/group, 15-day endpoint) study testing equimolar 22(S)- and 20(S)-hydroxycholesterol (SS oxysterol combination) versus rhBMP-2 for alveolar bone regeneration.
 
-## 한줄요약
+SS drove PDLSC osteogenic differentiation via reciprocal LXR↔Hedgehog signaling and promoted rat alveolar socket bone fill comparable to rhBMP-2 by histology/Western blot, though μCT new-bone volume differences between groups were not statistically significant.
 
-시험관(사람 치주인대줄기세포 PDLSC) + 동물(rat 발치와, 군당 n=6) 연구: 옥시스테롤 조합(SS = 22(S)- + 20(S)-hydroxycholesterol)이 LXR↔Hedgehog 상호신호를 통해 PDLSC 골분화를 유도하고 발치와 골재생을 rhBMP-2와 동등 수준으로 촉진했다 (단, μCT 신생골 부피의 군간 차이는 통계적으로 유의하지 않았다).
+Frames SS oxysterol as a low-cost, naturally occurring BMP-2 alternative for periodontal/alveolar regeneration, but in-vivo evidence is limited by small n, short endpoint, and lack of true periodontal (cementum/PDL) regeneration assessment.
+
+## 세줄요약
+
+시험관(사람 치주인대줄기세포, PDLSC) + 동물(쥐 발치와 모델, 군당 n=6, 15일 종료) 연구 — 옥시스테롤 조합(SS = 22(S)- + 20(S)-hydroxycholesterol) vs rhBMP-2 비교.
+
+SS는 LXR↔Hedgehog 상호 신호를 통해 PDLSC 골분화를 유도하고 발치와 골재생을 조직학·웨스턴블롯에서 rhBMP-2와 동등 수준으로 촉진; 단 μCT 신생골 부피의 군간 차이는 통계적으로 유의하지 않음.
+
+천연 BMP-2 대안 후보로 주목되나 소표본·단기·발치와 모델(진정한 치주 재생 평가 없음) 한계로 임상 적용 전 추가 연구 필요.
+
 
 ## Summary
 

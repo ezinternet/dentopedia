@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]]가 esthetic-zone ARP의 원리·적응증을 narrative로 정리했다면, 이 RCT 2차분석(Strauss 2024)은 그 esthetic-zone ARP를 **early implant placement(8주 지연식립)** 맥락에서 radiographic·profilometric outcome으로 정량 검증해 보강한다. 핵심 발견은 ARP가 implant 식립 시 추가 GBR 필요(68% → ~30%)를 줄이지만, **추가 GBR 자체가 1년 buccal convexity의 최강 결정인자**라는 점 — ARP의 "GBR을 대체한다"가 아니라 "GBR 부담을 줄인다"로 한정한 점에서 [[wiki/bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]·[[wiki/bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]]의 ARP 적응증 논쟁에도 직접 연결된다.
 
-## One-line Summary
+## Three-line Summary
 
-RCT secondary analysis (n=75, 3 groups 1:1:1; 55 datasets analyzed at 1y) of early implant placement (8-wk delayed) in the anterior maxilla: ARP (DBBM-C + collagen matrix or palatal graft) cut the need for additional GBR at implant placement from 68.4% (no ARP) to ~30%, but simultaneous GBR at placement — not ARP alone — was the dominant driver of restored buccal convexity at 1 year (72.7% with GBR vs 36.0% ARP-only).
 
-## 한줄요약
+RCT secondary analysis (n=75, 3 groups 1:1:1;
 
-전치부 상악 단일치 조기식립(발치 8주 후) RCT 2차분석(n=75, 3군 1:1:1, 1년 55건 분석): 치조제보존(ARP; DBBM-C + 콜라겐매트릭스 또는 구개이식)이 식립 시 추가 골유도재생(GBR) 필요를 68.4%(ARP 무) → 약 30%로 줄였으나, 1년 협측 볼록도 회복의 최강 결정인자는 ARP 자체가 아니라 식립 시 동시 GBR(GBR 시 72.7% vs ARP-only 36.0%)이었다.
+55 datasets analyzed at 1y) of early implant placement (8-wk delayed) in the anterior maxilla: ARP (DBBM-C + collagen matrix or palatal graft) cut the need for additional GBR at implant placement from 68.4% (no ARP) to ~30%, but simultaneous GBR at placement — not ARP alone — was the dominant driver of restored buccal convexity at 1 year (72.7% with GBR vs 36.0% ARP-only).
+
+(incomplete)
+
+## 세줄요약
+
+
+전치부 상악 단일치 조기식립(발치 8주 후) RCT 2차분석(n=75, 3군 1:1:1, 1년 55건 분석): 치조제보존(ARP;
+
+DBBM-C + 콜라겐매트릭스 또는 구개이식)이 식립 시 추가 골유도재생(GBR) 필요를 68.4%(ARP 무) → 약 30%로 줄였으나, 1년 협측 볼록도 회복의 최강 결정인자는 ARP 자체가 아니라 식립 시 동시 GBR(GBR 시 72.7% vs ARP-only 36.0%)이었다.
+
+(incomplete)
 
 ## 1. Document Information
 

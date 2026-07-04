@@ -13,11 +13,21 @@ source_collection: external
 
 radiology 카테고리 보강(피폭 최적화). [[radiology/kang-2024-national-dental-radiological-dose-management]]·[[radiology/lee-2024-dental-dose-monitoring-system-establishment]]의 선량관리와 직접 연결.
 
-## One-line Summary
-SR (5 phantom studies) - scattered radiation dose to the eye lens from dental CBCT ranges 0.103-8.3 mSv, varying with FOV, exposure, dosimeter and scanner; calls for dose reference levels and optimization.
+## Three-line Summary
 
-## 한줄요약
-SR(5편, phantom) - 치과 CBCT의 안구 수정체 산란선량 0.103-8.3 mSv, FOV·노출·선량계·스캐너에 따라 변동; 선량 기준치·최적화 필요.
+SR (5 phantom studies) - scattered radiation dose to the eye lens from dental CBCT ranges 0.103-8.3 mSv, varying with FOV, exposure, dosimeter and scanner;
+
+calls for dose reference levels and optimization.
+
+(incomplete)
+
+## 세줄요약
+
+SR(5편, phantom) - 치과 CBCT의 안구 수정체 산란선량 0.103-8.3 mSv, FOV·노출·선량계·스캐너에 따라 변동;
+
+선량 기준치·최적화 필요.
+
+(incomplete)
 
 ## 1. Document Information
 Cureus 2023;15(8):e43113 · Mawya Khafaji, Ghaidaa H. Albadawi · 2023 · DOI: 10.7759/cureus.43113. Study type: sr.

@@ -58,11 +58,21 @@ relations:
 > - 취리히 내러티브 리뷰(Pirc 2026)가 같은 임계값(각도 >30° 위험, **티타늄 베이스 (Ti-base) 지대주 높이 ≥2 mm** 완충)을 독립적으로 재확인하면서 **점막 터널 (Mucosal Tunnel) 깊이 >3 mm**(임플란트 과매식 시)를 새 위험구간으로, **표면조도 <0.2 μm Ra** 연마를 새 목표치로 추가 — 그리고 n=1 임상 증례로 볼록/짧은 지대주 크라운을 오목/높은 지대주 크라운으로 교체해 **4년 된 골결손을 4개월 만에 방사선학적으로 되돌린** 사례를 제시, 형태·높이 레버가 예방뿐 아니라 **치료(reversal)**에도 쓰일 수 있음을 보여준다.
 > - 임상 takeaway: ① 전치부·협측은 **오목/평탄(under-contoured) 윤곽**·낮은 출현각도(~32° 목표) — 볼록은 잉여 연조직을 의도적으로 밀어낼 때만 ② **지대주 높이 ≥2 mm** 우선(골 보존) ③ 표면 처리·OAOT는 골/연조직 결정 인자가 아니므로 다른 이유(워크플로·심미)로 선택 ④ 맞춤형 치유지대주로 윤곽을 조기 형성 ⑤ 모든 형태 결정은 baseline 연조직 두께에 종속.
 
-## One-line Summary
-Synthesis of 10 papers (1 SR+MA, 2 SR, 1 scoping review, 3 RCTs, 1 retrospective, 2 preclinical animal) across four abutment levers: emergence-profile **shape and angle** is the dominant driver of peri-implant mucosal stability — a convex profile carries ~13× the recession risk of a concave one anteriorly (Siegenthaler 2022), a low (~32°) W/H-derived buccal angle halves molar recession (Wang 2022), and controlled dog-model studies establish a dose-response angle→bone-loss/seal-failure mechanism (~4× MBL at 80° vs 20°, junctional-epithelium breakdown ≥60°; keep angle <40°: Strauss 2024, Lee 2025) — whereas abutment **surface** modification (Canullo 2020) and **one-abutment-one-time** disconnection avoidance (Ríos-Santos 2020) show no reliable soft/hard-tissue benefit; customized healing abutments (Ruhstorfer 2024) let the favorable shape be built during healing with no downside. Critically the angle is a **conditional** risk factor — a wide (≥30°) angle drives significant bone loss mainly under a short (<2 mm) abutment, while abutment height ≥2 mm buffers it (Misch 2025), and a 17-study scoping review consolidates the <30°-angle / concave-profile design rules (Prpic 2026). The actionable levers are contour, emergence angle (<40°, ideally <30°), and abutment height (≥2 mm), all conditioned on soft-tissue thickness.
+## Three-line Summary
 
-## 한줄요약
-10편 종합(SR+MA 1·SR 2·scoping review 1·RCT 3·후향 1·전임상 동물 2): 임플란트주위 조직 안정성의 지배 인자는 출현윤곽의 **형태·각도** — 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022), 구치부 W/H 기반 낮은 출현각도(~32°)는 퇴축을 절반으로(Wang 2022), 개 모델 RCT는 각도→골소실/봉쇄실패 용량반응을 인과적으로 확립(80°가 20°의 ~4배 MBL, ≥60°에서 접합상피 붕괴; 각도 <40° 유지: Strauss 2024, Lee 2025) — 반면 지대주 **표면 처리**(Canullo 2020)와 **OAOT 분리 회피**(Ríos-Santos 2020)는 연·경조직 이득이 없음; 맞춤형 치유지대주(Ruhstorfer 2024)는 그 유리한 형태를 치유 중에 미리 빚게 해 불리함이 없다. 핵심은 각도가 **조건부** 위험 인자라는 점 — 넓은(≥30°) 각도는 짧은(<2 mm) 지대주에서만 유의한 골소실을 일으키고 지대주 높이 ≥2 mm가 이를 완충(Misch 2025); 17편 scoping review가 <30° 각도·오목 윤곽 설계 규칙을 통합(Prpic 2026). 실효 레버는 윤곽·출현각도(<40°, 이상적 <30°)·지대주 높이(≥2 mm)이며 모두 연조직 두께에 종속.
+Synthesis of 10 papers (1 SR+MA, 2 SR, 1 scoping review, 3 RCTs, 1 retrospective, 2 preclinical animal) across four abutment-related levers — emergence-profile shape/angle, abutment surface modification, disconnection policy, and customized healing abutments — plus digital emergence-profile transfer.
+
+Emergence-profile shape and angle is the dominant driver: convex profile carries ~13× the anterior recession risk vs concave (Siegenthaler 2022); a W/H-derived ~32° angle halves molar recession (Wang 2022); dog-model RCTs establish a dose-response angle→MBL/seal-failure mechanism (~4× MBL at 80° vs 20°; keep <40°); abutment surface modification and OAOT disconnection avoidance show no reliable tissue benefit; the angle is conditional — wide (≥30°) is harmful mainly under a short (<2 mm) abutment, and height ≥2 mm largely buffers it (Misch 2025).
+
+The actionable levers are contour (concave/under-contoured anteriorly), emergence angle (<40°, ideally <30°), and transmucosal abutment height (≥2 mm), all conditioned on baseline soft-tissue thickness; scan the provisional (not the tissue) to transfer the sculpted profile digitally.
+
+## 세줄요약
+
+10편 종합(SR+MA 1·SR 2·scoping review 1·RCT 3·후향 1·전임상 동물 2): 출현윤곽 형태·각도, 지대주 표면 처리, 분리 횟수, 맞춤형 치유지대주, 디지털 윤곽 전달 5축 평가.
+
+출현윤곽 형태·각도가 지배 인자: 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022); 구치부 W/H 기반 ~32° 각도가 퇴축 절반(Wang 2022); 개 모델이 각도→골소실 용량반응 인과 확립(80° vs 20° ~4배 MBL, ≥60° 접합상피 붕괴; <40° 유지); 표면 처리·OAOT는 조직 이득 없음; 각도는 조건부 — 넓은(≥30°) 각도는 짧은(<2 mm) 지대주에서만 유의한 골소실, 높이 ≥2 mm가 완충(Misch 2025).
+
+실효 레버: 윤곽(전치 오목/언더컨투어), 출현각도(<40°, 이상 <30°), 경점막 지대주 높이(≥2 mm) — 모두 기저 연조직 두께에 종속; 디지털 전달 시 조직 직접 스캔이 아닌 임시보철 스캔(간접법)으로 윤곽 보존.
 
 ## Summary
 

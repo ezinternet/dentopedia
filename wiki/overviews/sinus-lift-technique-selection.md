@@ -31,12 +31,21 @@ source: synthesis
 > - 술전 콘빔CT (CBCT) 체크리스트 6항목: RBH·격벽·측벽 두께·협구개 폭·막 상태(부종/낭종)·상악동 저형성 (Hypoplasia, MSH); 합병증은 TSFE가 수술 당일만 불리하고 이후 2주는 LSA가 불리 (Farina 2018) — 환자 설명 시 분리 안내.
 > - 단임플란트 대안: RBH 5–7mm에서 짧은 (≤6mm) 임플란트가 표준+거상과 동등하고 MBL이 더 적어 거상 회피 옵션이 된다 (Toledano 2022).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 22 sinus-lift papers (12 lateral-window + 10 transcrestal) building a residual-bone-height (RBH) algorithm and risk-factor matrix across 4 decision axes: RBH-based technique choice (RBH ≥5 mm → transcrestal/TSFE first, <5 mm → lateral window, extendable to 4 mm with osseodensification), within-transcrestal technique (osseodensification > osteotome on ISQ and complications), perforation risk/management, and graft/barrier-membrane necessity. Implant survival is equivalent (97–99%) across techniques; septa and lateral-wall thickness >2 mm are key perforation predictors (OR >2); an appropriately repaired perforation does not affect survival (97.68% vs 98.88% intact); and graft material/routine barrier membranes are largely optional when residual bone is adequate.
+Synthesis of 22 sinus-lift papers (12 lateral-window, 10 transcrestal) building a residual bone height (RBH) algorithm and risk-factor matrix across 4 decision axes: RBH-based technique choice, within-transcrestal technique selection, perforation risk/management, and graft/barrier-membrane necessity.
 
-## 한줄요약
-RBH (Residual Bone Height) ≥5mm = 경치조골 거상 (TSFE) 1순위, <5mm = 측방창 (LSA) 1순위; 모든 술식 생존율 97–99% 동등; **격벽 존재·측벽 두께 >2mm가 천공 위험인자 (OR >2)**; 적절히 봉합된 천공은 생존율에 영향 없음 (97.68% vs 무손상 98.88%); 잔존골 충분 시 이식재 선택적.
+Implant survival is equivalent across all techniques (97–99%); the critical RBH threshold is 5 mm (≥5 mm → transcrestal/TSFE, <5 mm → lateral window, extendable to 4 mm with osseodensification); within-transcrestal, osseodensification outperforms osteotome on ISQ (66.17 vs 54.83) and reduces complications (Starch-Jensen 2025 SR+MA, Low GRADE); a competently repaired perforation does not affect survival (97.68% vs 98.88% intact, Diaz-Olivares 2021); graft material is survivorship-neutral; routine barrier membranes are not evidenced.
+
+Key risk predictors: septa (OR >2), lateral-wall thickness >2 mm, and sinus width >12 mm (perforation 16.1% vs 1.1%; Stacchi 2022); graft-free transcrestal is viable when residual bone covers ~50% of implant length (survival 97.9%, VBG 3.8 mm; Duan 2017 SR+MA); short implants (≤6 mm) are a valid sinus-avoidance alternative when RBH is 5–7 mm.
+
+## 세줄요약
+
+22편 종합(측방창 12, 경치조골 10) — 잔존골높이(RBH) 기반 알고리듬과 위험인자 매트릭스; 모든 술식 임플란트 생존율 97–99% 동등.
+
+결정 임계값: RBH ≥5 mm → 경치조골거상(Transcrestal SFE, TSFE) 1순위(골밀도화(OD) 적용 시 4 mm까지 확장), <5 mm → 측방창(Lateral Sinus Approach, LSA) 1순위; TSFE 내부 선택은 OD가 오스테오톰 대비 ISQ 높음(66.17 vs 54.83)·합병증 감소(Starch-Jensen 2025, 낮은 GRADE); 적절히 봉합된 천공은 생존율 영향 없음(97.68% vs 무손상 98.88%); 이식재 종류는 생존율 중립; 차폐막 루틴 사용 근거 없음.
+
+주요 위험인자: 격벽 존재(OR >2), 측벽 두께 >2 mm, 상악동 협구개폭 >12 mm(천공 16.1% vs 1.1%; Stacchi 2022); 이식재 없는 TSFE는 잔존골 임플란트 길이 ~50% 이상 시 가능(생존율 97.9%, 수직골증대 3.8 mm; Duan 2017 SR+MA); RBH 5–7 mm에서 단축 임플란트(≤6 mm)가 거상 회피 대안.
 
 ---
 

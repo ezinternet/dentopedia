@@ -9,7 +9,7 @@ pdf_filename: pires-2017-late-mandibular-fracture-third-molar-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review analyzing 124 cases of late mandibular fracture following third molar removal, identifying risk factors, timing, and management strategies.
 
 ## 1. Document Information

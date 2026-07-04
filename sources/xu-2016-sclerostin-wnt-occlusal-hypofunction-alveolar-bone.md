@@ -13,13 +13,23 @@ source_collection: external
 
 기존 occlusion 카테고리는 교합력↔치조골의 임상·생역학적 관찰(occlusal trauma, overload-induced bone loss)에 집중돼 있고, 그 *분자 기전*은 비어 있었다. 본 rat 연구는 교합저하(occlusal hypofunction)가 sclerostin↑ → Wnt/β-catenin 억제 → 골형성↓·골흡수↑로 치조골 소실을 일으킨다는 분자 경로를 제시해, [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]의 임상 case-definition 논의와 [[bone-biology/kondo-2022-current-perspectives-residual-ridge]]의 잔존 치조제 흡수(RRR) 기전 논의를 분자 수준에서 연결한다. "occlusion → 치조골 밀도/부피" 테마의 mechanism anchor.
 
-## One-line Summary
+## Three-line Summary
+
 
 Rat split-mouth study (n=14 male Sprague-Dawley, unilateral maxillary molar extraction, 8 wk) showing occlusal hypofunction decreases BMD and BV/TV and increases osteoclast number, accompanied by upregulated sclerostin and RANKL and downregulated β-catenin — implicating sclerostin-mediated inhibition of Wnt/β-catenin signaling as the molecular driver of disuse alveolar bone loss.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 Rat split-mouth 연구(수컷 Sprague-Dawley 14마리, 편측 상악 대구치 발치로 교합저하 유도, 8주) — 교합저하 측에서 골밀도(BMD)·BV/TV 감소, 파골세포 수 증가가 sclerostin·RANKL 상승 및 β-catenin 저하와 동반됨을 보여, sclerostin이 Wnt/β-catenin 신호를 억제해 disuse 치조골 소실을 일으키는 분자 기전임을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

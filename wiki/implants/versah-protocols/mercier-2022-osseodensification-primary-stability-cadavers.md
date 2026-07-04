@@ -18,13 +18,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cadaver study (21 mandibles, 58 implants): OD with Densah burs significantly increased insertion torque (34.9 vs 23.6 Ncm, p=0.036) and peri-implant bone density (p=0.026) vs standard drilling.
+In vitro cadaver study (21 formalin-fixed human mandibles, 58 implants) comparing osseodensification with Densah burs (OD, n=29) vs standard drilling (SD, n=29) on primary stability and peri-implant bone density.
 
-## 한줄요약
+OD produced significantly higher insertion torque (34.9 vs 23.6 Ncm, p=0.036) and increased peri-implant bone density on CBCT (p=0.026); IT–ISQ correlation was significant with OD (ρ=0.527) but absent with SD.
 
-카데바 연구(하악 21개, 임플란트 58개): OD(Densah bur)가 표준 드릴링 대비 삽입 토크(34.9 vs 23.6 Ncm, p=0.036) 및 주위 골밀도(p=0.026)를 유의하게 증가시켰다.
+OD yields ~48% more insertion torque and morphologically denser peri-implant bone in cadaveric mandibles; the OD IT value (~35 Ncm) replicates across independent cadaveric designs, suggesting consistent primary stability outcomes.
+
+## 세줄요약
+
+In vitro 카데바 연구 (포르말린 고정 인체 하악골 21개, 임플란트 58개): Densah bur 골밀도화 (Osseodensification, OD, n=29) vs 표준 드릴링 (Standard Drilling, SD, n=29) 1차 안정성 및 주위 골밀도 비교.
+
+OD가 삽입 토크 (Insertion Torque, IT) 유의하게 우수(34.9 vs 23.6 Ncm, p=0.036), CBCT 주위 골밀도 증가(p=0.026); IT–임플란트 안정성 지수 (ISQ) 상관은 OD에서만 유의(Spearman ρ=0.527), SD에서는 없음.
+
+OD는 카데바 하악에서 삽입 토크 ~48% 향상 및 주위 골밀도 증가 제공; OD IT값(~35 Ncm)은 독립 카데바 연구들에서 일관 재현되어 결과의 안정성을 지지한다.
 
 ## Summary
 

@@ -16,13 +16,21 @@ text_filename: xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort with 1:1 propensity score matching (312 primary molars with diagnostically equivocal pulp status; 156 matched pairs) found 24-month survival significantly higher for pulpotomy (86.4%) than pulpectomy (67.1%, p<0.001); the advantage was concentrated in asymptomatic teeth (HR=0.42, p=0.002), with no significant difference in symptomatic cases (HR=0.88, p=0.41).
+Retrospective cohort with 1:1 propensity score matching (312 primary molars aged 3–8y with diagnostically equivocal pulp status [prolonged bleeding 5–10 min or inconclusive radiographs]; 156 matched pairs; pulpotomy with iRoot BP Plus vs pulpectomy with ZOE–iodoform, both with stainless steel crown; Kaplan–Meier/Cox up to 36 months).
 
-## 한줄요약
+24-month survival was significantly higher for pulpotomy (86.4%) than pulpectomy (67.1%; log-rank p<0.001); the advantage was present in asymptomatic teeth (HR=0.42, p=0.002; 91.2% vs 74.5%) but absent in symptomatic teeth (HR=0.88, p=0.41); pulpotomy failures favored internal resorption (32.4% vs 5.9%), pulpectomy failures favored external resorption (33.3% vs 8.8%).
 
-성향점수매칭(PSM) 후향적 코호트(치수 상태가 애매한 유구치 312개, 매칭 후 156쌍)에서 24개월 생존율이 pulpotomy 86.4% vs pulpectomy 67.1%로 유의하게 높음(p<0.001); 무증상 치아에서는 pulpotomy가 유의하게 유리(HR=0.42, p=0.002)했으나 유증상 치아에서는 차이 없음(HR=0.88, p=0.41).
+Preoperative pain status is an important effect modifier: in asymptomatic equivocal teeth, pulpotomy is significantly superior, but pain may signal irreversible pulp change that negates the advantage; incomplete SSC sealing (HR=3.12) and ZOE use (HR=1.68) were independent modifiable failure risk factors.
+
+## 세줄요약
+
+치수 상태가 진단적으로 애매한 유구치(3–8세, 5–10분 지속 출혈 또는 방사선 불명확 소견) 312개를 iRoot BP Plus 치수절단술과 ZOE-요오드포름 발수술(각 SSC 복원)로 1:1 성향점수매칭(156쌍)하고 Kaplan–Meier·Cox로 36개월까지 분석한 후향적 코호트 연구다.
+
+24개월 생존율이 치수절단술 86.4% vs 발수술 67.1%로 유의하게 높았으며(p<0.001), 무증상 치아에서는 치수절단술이 크게 유리했으나(HR=0.42, p=0.002) 유증상 치아에서는 차이가 없었다(HR=0.88, p=0.41); 실패 유형은 치수절단 후 내부 흡수(32.4%), 발수 후 외부 흡수(33.3%)가 각각 더 많았다.
+
+수술 전 통증 유무가 핵심 효과 조절 변수이며, 무증상 애매 치아에서는 치수절단이 분명히 우월하다; 불완전한 SSC 봉합(HR=3.12)과 ZOE 사용(HR=1.68)이 수정 가능한 독립적 실패 위험 인자였다.
 
 ## Summary
 

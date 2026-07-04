@@ -18,13 +18,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (n=2) of mandibular right second molar C-shaped canals (Melton type I/C1 and type II/C2) managed under operating microscope with ultrasonic irrigation, MTA apical plug (case 1), and thermoplasticized gutta-percha; asymptomatic at 1-year recall.
+Case series (n=2) of mandibular right second molar C-shaped canals (Melton type I/C1 and type II/C2) treated under a dental operating microscope, illustrating "see-through C" — direct visual access as the key to negotiating this anatomy.
 
-## 한줄요약
+5.25% NaOCl + 17% EDTA with ultrasonic activation and thermoplasticized gutta-percha were used; case 1 required a ProRoot MTA apical plug to rescue a lost apical constriction before Thermafil obturation.
 
-하악 우측 제2대구치 C-shaped 근관 2예(Melton I형/C1, II형/C2)를 현미경하 초음파 세정·MTA 근단 plug(증례 1)·열가소성 GP 충전으로 치료, 1년 추적 무증상.
+Both cases were asymptomatic with no periapical lesion at 1-year recall, affirming microscope-guided management with MTA salvage as a viable approach for complex C-shaped morphology.
+
+## 세줄요약
+
+하악 우측 제2대구치 C-shaped 근관 2예(Melton I형/C1, II형/C2)를 치과 수술용 현미경(DOM)으로 직접 확인하며 치료한 증례 시리즈.
+
+5.25% NaOCl + 17% EDTA 초음파 세정·열가소성 GP 충전 적용, 증례 1은 근단 협착부 손실 후 ProRoot MTA 근단 마개로 구조함.
+
+두 증례 모두 1년 추적에서 무증상·치근단 병소 소실 — 현미경+MTA 구조술의 임상적 유효성 확인.
 
 ## Summary
 

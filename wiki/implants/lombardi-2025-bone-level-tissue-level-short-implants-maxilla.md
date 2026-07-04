@@ -18,13 +18,21 @@ relations:
     target: atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case–control study (n=58 patients, 71 short implants, 1-year follow-up) in posterior maxilla found tissue-level implants had significantly less physiological bone remodeling than bone-level implants (PBR 0.30 vs. 0.55 mm at 1 year, p=0.003), with 100% survival in both groups.
+Multicenter prospective case–control study (3 Italian centers, n=58 patients, 71 short implants with identical macrogeometry, 1-year follow-up) comparing tissue-level (TL) versus bone-level (BL) short implants in posterior maxilla (4.5–8.0 mm residual height) — only the implant-abutment junction position differed.
 
-## 한줄요약
+Tissue-level implants showed significantly less physiological bone remodeling than bone-level implants at both healing (T0–T1: 0.11 vs 0.34 mm, p=0.004) and 1-year loading (T0–T2: 0.30 vs 0.55 mm, p=0.003); both groups achieved 100% implant survival with zero complications.
 
-상악 구치부 전향적 케이스-대조 연구(58명, 71개 단축 임플란트, 1년 추적): 조직-수준 임플란트가 골-수준 임플란트보다 변연골 개조량이 유의하게 낮았으며(0.30 mm vs. 0.55 mm, p=0.003), 양 군 모두 100% 생존율.
+Thin vertical mucosa (≤2 mm) was the strongest predictor of early bone remodeling in both groups, outweighing smoking, periodontitis, and stability metrics; short abutment height (≤2 mm) and emergence angle >30° additionally predicted loading-phase remodeling in BL implants.
+
+## 세줄요약
+
+다기관 전향 케이스-대조 연구 (Prospective Case-Control, 3개 이탈리아 기관, n=58명, 71개 단축 임플란트, 동일 거시형태·연결부 위치만 상이, 1년 추적): 상악 구치부(잔존 골 높이 4.5–8.0 mm)에서 조직-수준 임플란트 (Tissue-Level, TL) vs 골-수준 임플란트 (Bone-Level, BL) 비교.
+
+TL이 생리적 골개조 (Physiological Bone Remodeling, PBR)가 유의하게 적음 — 치유기(T0–T1): 0.11 vs 0.34 mm, p=0.004; 1년(T0–T2): 0.30 vs 0.55 mm, p=0.003; 양 군 100% 생존.
+
+얇은 수직 점막(≤2 mm)이 양 군 모두에서 초기 골개조의 가장 강력한 예측인자 — 흡연·치주염·안정성 지표보다 강함; 짧은 지대주(≤2 mm)와 출현각 >30°가 BL에서 로딩 단계 골개조 추가 예측.
 
 ## Summary
 

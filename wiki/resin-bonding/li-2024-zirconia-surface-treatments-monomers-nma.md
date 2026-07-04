@@ -20,13 +20,21 @@ relations:
     target: nagaoka-2017-mdp-zirconia-chemical-interaction-nmr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (77 in-vitro studies): for zirconia-resin bonding, SIE/hot-etching rank highest by SUCRA but air abrasion remains the practical standard; fine air-abrasion particles (25–53 µm) beat coarse (110–150 µm) immediately, Rocatec > CoJet, and 10-MDP-containing primers/cements are significantly superior to all other acidic monomers (MD 12.15 MPa), while silane/HEMA alone and gas plasma confer no benefit.
+SR and Bayesian network meta-analysis (J Dent Sci Rev 2024; 8,878 records → 77 in-vitro studies, 2000–2023) simultaneously ranking mechanical surface treatments and chemical adhesive-monomer combinations for Y-TZP zirconia–resin bond strength, both immediately and after aging.
 
-## 한줄요약
+SIE ranked highest by SUCRA (91.30% immediate, 90.49% aged) and was statistically superior to air abrasion (MD +5.73–6.15 MPa), while no other treatment differed significantly from air abrasion; 10-MDP-containing formulations were superior to all other monomers by 12.15 MPa (95% CI 8.91–15.39, p<0.00001); fine air-abrasion particles (25–53 µm) outperformed coarse (110–150 µm) immediately; gas plasma was no better than no treatment and was significantly worse after aging.
 
-베이지안 네트워크 메타분석(in-vitro 77편): 지르코니아-레진 접착에서 SIE/hot-etching이 SUCRA 1·2위지만 임상 표준은 여전히 표면처리(air abrasion), 미세 입자(25–53 µm)가 즉시접착에서 굵은 입자(110–150 µm)보다 우수, Rocatec > CoJet, 10-MDP 함유 프라이머/시멘트가 다른 모든 산성 모노머보다 유의하게 우수(MD 12.15 MPa)인 반면 실란/HEMA 단독·가스 플라즈마는 효과 없음.
+Clinically: condition zirconia with fine alumina air abrasion (25–53 µm) and cement with a 10-MDP-containing primer or cement; silane or HEMA alone add no benefit and may impair MDP durability; SIE is technically optimal but hazardous/non-standard.
+
+## 세줄요약
+
+SR + 베이지안 네트워크 메타분석(J Dent Sci Rev 2024; 8,878편 → in-vitro 77편, 2000–2023) — Y-TZP 지르코니아-레진 접착강도에서 기계적 표면처리와 화학적 접착 단량체의 순위를 즉시·노화 후로 동시 산출한 최초 NMA.
+
+SIE가 SUCRA 1위(즉시 91.30%, 노화 90.49%)로 air abrasion보다 유의하게 우수(MD +5.73–6.15 MPa)하였으나 다른 처리법은 air abrasion과 차이 없음; 10-MDP 함유 제제가 타 단량체 대비 12.15 MPa 유의하게 우수(p<0.00001); 미세 입자(25–53 µm) > 굵은 입자 즉시; 가스 플라즈마는 무처리와 동등, 노화 후 유의하게 열등.
+
+임상 표준: 미세 알루미나 공기연마(25–53 µm) + 10-MDP 함유 프라이머/시멘트; 실란·HEMA 단독은 이점 없고 MDP 효과를 저해할 수 있으므로 생략 가능; SIE는 성능 최적이나 위험성·비표준으로 임상 도입 제한.
 
 ## Summary
 

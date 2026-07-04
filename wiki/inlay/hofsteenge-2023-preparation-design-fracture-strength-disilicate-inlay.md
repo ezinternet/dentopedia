@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-In vitro + FEA study (n=64 human molars) comparing four lithium disilicate preparation designs (Undermined Inlay, Extended Inlay, Restricted Overlay, Extended Overlay) on compromised molars: overlay (cusp-coverage) designs showed significantly superior fracture resistance, and FEA confirmed cusp coverage reduces tooth deformation; IDS was applied to all groups.
+## Three-line Summary
+In vitro + FEA study (n=64 human molars with standardized cuspal defects, thermomechanical fatigue 1.2×10⁶ cycles, load-to-failure testing) comparing four IPS e.max CAD preparation designs: Undermined Inlay (UI), Extended Inlay (EI), Restricted Overlay (RO), and Extended Overlay (EO).
 
-## 한줄요약
-인비트로+FEA(n=64 대구치): 리튬디실리케이트 수복 시 4가지 와동형성 디자인(UI/EI/RO/EO) 비교 — 오버레이 디자인이 파절강도 우수; IDS 적용; FEA에서 교두 피개 시 치아 변형 감소
+Overlay designs (RO, EO) showed significantly superior fracture resistance; FEA confirmed overlay reduced peak stress by ~30% vs inlay designs; polymerization cracks were more frequent in the deeper inlay preparations; IDS was applied in all groups.
+
+Cusp coverage (overlay/extended overlay) is preferred for structurally compromised molars; inlay preparations should be avoided when significant cusp undermining is present.
+
+## 세줄요약
+인비트로+FEA(n=64 대구치; 표준 교두 결손; 열기계피로 1.2×10⁶회; 파절강도): 4가지 IPS e.max CAD 와동형성 디자인(UI·EI·RO·EO) 비교; 전군 IDS 적용.
+
+오버레이 디자인(RO·EO)이 파절강도 유의하게 우수; FEA에서 오버레이가 피크 응력 ~30% 감소; 깊은 인레이 형성에서 중합수축 균열 더 빈번.
+
+교두 침범된 대구치에는 교두 피개(오버레이/확장 오버레이) 권장; 교두 하방 삭제가 심한 경우 인레이 형성 지양.
 
 ## Summary
 In vitro + finite element analysis study (n=64 human molars) comparing four preparation designs for lithium disilicate restorations on structurally compromised molars: Undermined Inlay (UI), Extended Inlay (EI), Restricted Overlay (RO), Extended Overlay (EO). Overlay designs showed superior fracture resistance. IDS applied to all groups. FEA confirmed cusp coverage reduces tooth deformation.

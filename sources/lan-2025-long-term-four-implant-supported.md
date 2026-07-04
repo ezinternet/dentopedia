@@ -14,13 +14,23 @@ source_collection: external
 
 Existing wiki pages on implant-supported overdentures (e.g., [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]] and [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]]) focus primarily on mandibular two-implant designs. This SR+MA (Lan 2025) provides medium-to-long-term comparative data specifically for four-implant maxillary IODs vs IFRs — filling a maxillary arch gap and extending the evidence base for full-arch implant rehabilitation decisions.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 16 studies (5,568 implants, ≥5y follow-up) comparing four-implant maxillary overdentures vs fixed complete dentures: IFRs showed higher implant (98.5%) and prosthesis (99.9%) survival but greater marginal bone loss (−1.20 mm), while IODs had less MBL (−0.27 mm) but more complications and lower prosthesis survival (85.0%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 16개 연구(임플란트 5,568개, 최소 5년 추적)를 메타분석한 결과, 상악 4-임플란트 고정성 완전의치(IFR)는 임플란트 생존율(98.5%)과 보철물 생존율(99.9%) 모두 피개의치(IOD, 94.5%/85.0%)보다 우수하였으나, 변연골 흡수는 IFR(−1.20 mm)이 IOD(−0.27 mm)보다 컸다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

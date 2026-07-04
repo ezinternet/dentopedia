@@ -18,13 +18,21 @@ relations:
     target: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (30 patients, 170 feldspathic veneers, 7 years) found 91.77% survival; zero fractures at 0.5 mm thickness; no significant survival difference between vertical-prep and no-prep methods.
+Retrospective single-clinician/single-technician cohort (Romania; 30 patients, 170 feldspathic ceramic laminate veneers placed 2013–2014, FDI criteria evaluation at 7 years) comparing vertical-prep (n=108) versus no-prep (n=62) across five thickness groups (0.5–2.5 mm).
 
-## 한줄요약
+Overall survival was 91.77% (14/170 core fractures); log-rank test found no significant difference between vertical-prep and no-prep (p=0.247) or between thickness groups (p=0.065); 0.5 mm veneers had zero fractures, while thicker veneers (>1.5–2 mm) were paradoxically more fracture-prone due to unsupported ceramic mass; no secondary caries or pulpal necrosis in either group.
 
-후향적 코호트 (30명, 170개 장석세라믹 비니어, 7년): 생존율 (Survival Rate) 91.77%; 0.5 mm 두께군에서 파절 없음; 수직삭제 (Vertical Preparation) vs. 무삭제 (No-prep) 생존곡선 유의차 없음 (p=0.247).
+The clinical implication is that ultra-thin (0.5 mm) feldspathic is the most fracture-resistant thickness and no-prep offers significantly better esthetic, occlusal, caries, and periodontal sub-scores at 7 years than vertical prep, despite equivalent survival curves.
+
+## 세줄요약
+
+후향적 단일 술자·단일 기공사 코호트 (루마니아; 30명 170개 장석세라믹 라미네이트 비니어, 2013–2014 시술, 7년 후 FDI 기준 평가): 수직삭제(Vertical Preparation; n=108) vs 무삭제(No-prep; n=62), 5개 두께군(0.5–2.5 mm).
+
+전체 생존율 91.77% (코어 파절 14개); 수직삭제 vs 무삭제(p=0.247)·두께군(p=0.065) 모두 생존곡선 유의차 없음; 0.5 mm군 파절 0건, 1.5–2 mm 이상 두께군은 역설적으로 더 파절 취약 (지지 없는 세라믹 질량); 이차 우식·치수 괴사 없음.
+
+임상적 의미: 0.5 mm 초박형이 가장 파절 저항성 높은 두께; 무삭제는 7년 시점 생존율 동등하면서 심미 해부 형태·교합 마모·우식·치주 반응 FDI 항목에서 수직삭제보다 유의하게 우수.
 
 ## Summary
 

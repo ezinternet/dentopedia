@@ -19,13 +19,21 @@ relations:
     target: surendra-2025-flapless-versus-flapped-crestal-bone
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective non-randomized cohort (n=20, single posterior implants, 12-month post-load) where flapless gave significantly less postoperative pain and lower 6-month probing depth, but **no crestal bone height difference** vs flapped at any time point.
+Prospective non-randomized cohort (n=20, single posterior delayed-placement implants, allocation by biotype/surgeon judgment, 12-month post-load follow-up) measuring VAS pain, probing depth, and ImageJ crestal bone height (CBH) between flapless and flapped techniques.
 
-## 한줄요약
+Flapless roughly halved early postoperative VAS pain (day 3: 3.1 vs 5.7, p=0.001) and gave shallower probing depths at 6 months, but differences disappeared by 12 months; crestal bone height showed no intergroup difference at any time point (all p>0.05), though both groups lost bone significantly over time.
 
-단일 구치부 임플란트 비무작위 코호트 (n=20, 부하 후 12개월)에서 무피판(flapless)이 술후 통증·6개월 탐침깊이는 유의하게 낮았으나, 치조정 골높이(CBH)는 피판군과 어느 시점에도 차이 없음.
+Flapless offers early comfort and soft-tissue benefits without changing long-term crestal bone outcomes in this non-randomized cohort; this finding contradicts the RCT by Surendra 2025 that reported a significant crestal advantage for flapless at 6 months.
+
+## 세줄요약
+
+전향적 비무작위 코호트 (n=20, 단일 구치부 지연식립, 표현형·외과의 판단으로 배정, 부하 후 12개월) — VAS 통증, 탐침깊이(PD), ImageJ 치조정 골높이(Crestal Bone Height, CBH) 비교.
+
+무피판이 조기 VAS 통증 약 절반 감소 (3일차 3.1 vs 5.7, p=0.001)·6개월 탐침깊이 감소; 두 차이는 12개월에 소실; 치조정 골높이는 어느 시점에도 군간 차이 없음 (모두 p>0.05), 양군 모두 시간에 따른 유의한 골소실.
+
+무피판이 조기 편안함·연조직 이점은 있으나 장기 치조정 골 결과는 변화 없음; 이 결과는 Surendra 2025 RCT의 6개월 치조정 이점 발견과 상충.
 
 ## Summary
 

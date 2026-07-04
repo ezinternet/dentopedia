@@ -17,13 +17,21 @@ text_filename: abed-2022-environmental-impact-interdental-cleaning-aids.txt
 
 The interdental-cleaning category is built almost entirely on clinical efficacy and adherence evidence (e.g. [[interdental-cleaning/yilmaz-2025-interdental-cleaning-tool-sustainability-rct]] addresses *behavioral/adherence* sustainability, and [[interdental-cleaning/mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct]] compares device efficacy), but it carries no *environmental* (planetary-sustainability) dimension. This first-of-kind comparative life-cycle assessment (LCA) of 8 interdental aids adds the green-dentistry axis — single-use floss picks are the worst environmental choice, bamboo/replaceable-head interdental brushes and reusable floss the best — so product recommendations in [[overviews/interdental-cleaning-devices-synthesis]] can weigh environmental impact alongside clinical need and cost.
 
-## One-line Summary
+## Three-line Summary
 
-Comparative life-cycle assessment (LCA, not a clinical trial) of 8 interdental cleaning aids — one person using each daily for 5 years across 16 environmental impact categories — finding single-use floss picks have the largest footprint (worst in 13/16 categories) while bamboo interdental brushes have the lowest in 5 categories including carbon (climate change).
+Comparative attributional life-cycle assessment (LCA; JCPE 2022; UCL/Trinity College Dublin; not a clinical trial) of 8 interdental cleaning aids modeled for one person using each daily for 5 years, across 16 environmental impact categories.
 
-## 한줄요약
+Single-use floss picks had the largest environmental footprint (worst in 13/16 categories; 11.42 kg CO₂e over 5 years), driven mainly by the polypropylene handle (49% of carbon footprint); bamboo interdental brushes had the lowest footprint in 5 categories including climate change (1.31 kg CO₂e).
 
-치간 청소 도구 8종을 1인이 5년간 매일 사용하는 시나리오로 16개 환경영향 범주에 걸쳐 비교한 전과정평가(Life Cycle Assessment, LCA; 임상시험 아님). 일회용 플로스픽(floss pick)이 16개 중 13개 범주에서 가장 큰 환경발자국을 남겼고, 대나무 치간칫솔(bamboo IDB)이 탄소(기후변화) 포함 5개 범주에서 가장 작은 발자국을 기록.
+Where IDBs are indicated, bamboo or replaceable-head designs beat single-use IDB picks; where floss is indicated, regular/bamboo floss beats floss picks — environmental impact should weigh alongside clinical efficacy in product recommendations.
+
+## 세줄요약
+
+비교 귀인형 전과정평가 (Life Cycle Assessment, LCA; JCPE 2022; UCL/트리니티 칼리지 더블린; 임상시험 아님): 치간 청소 도구 8종을 1인이 5년간 매일 사용하는 시나리오로 16개 환경영향 범주 비교.
+
+일회용 플로스픽 (floss pick)이 16개 중 13개 범주에서 가장 큰 환경발자국 (5년 11.42 kg CO₂e); 폴리프로필렌 손잡이가 탄소발자국의 49%를 차지; 대나무 치간칫솔 (bamboo Interdental Brush, IDB)이 기후변화 포함 5개 범주에서 가장 작음 (1.31 kg CO₂e).
+
+치간칫솔 적응증: 대나무·교체형 헤드 > 일회용 IDB픽; 치실 적응증: 일반/대나무 치실 > 플로스픽 → 환경 영향도 임상 효과와 함께 제품 추천 시 고려해야 함.
 
 ## 1. Document Information
 

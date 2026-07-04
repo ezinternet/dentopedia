@@ -35,13 +35,21 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **리보스 가교 콜라겐(RCLC, OSSIXPlus) open-healing**: 1차 봉합 없이 막을 의도적으로 노출시켜도(Friedmann 2020, 파일럿 n=18/20발치와) 4개월 후 100% 추가 증대 없이 임플란트 식립 가능 + 각화점막(keratinized mucosa)이 원위치 유지(관상변위 봉합 대비 ~4mm 변위 회피) — 차원 보존 수치는 기존 ARP 범위 내이나, 수술 단순화·연조직 보존이라는 별개의 임상 이득 제공.
 > - **PRF막이 발치와 봉합을 넘어 능선증대용 차폐막까지 대체 가능**: Wang 2024(후향적 n=44)에서 후방 Seibert Class I 결손에 Bio-collagen+PRF막(단순화 GBR)이 Bio-Oss+Bio-Gide(고전적 GBR) 대비 수평폭경 증가 1.50 vs 1.83mm로 근소하게 낮았으나 윤곽 형태는 오히려 양호한 경향 — Alrayyes 2022의 PRF-대체 주제를 발치와 폐쇄에서 능선증대 적응증으로 확장(단, 이는 엄밀히는 발치 당일 ARP보다 사전 능선증대에 가까운 인접 적응증).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of multiple papers (animal landmark, animal micro-CT, several RCTs, prospective split-mouth, narrative classification, retrospective cohorts, SR+MAs) establishing that ARP reduces but does not eliminate post-extraction ridge loss; socket anatomy (ST classification, bone concavity metrics, socket integrity) drives technique selection; collagen plug alone preserves height but not width; xenograft ± PRF addresses width; graft material is largely equivalent for dimension (DBBM ≈ autogenous DDM ≈ Bio-Oss Collagen, particle size non-determinant); biologic efficacy favors rhBMP-2 over L-PRF (SR+MA); and DBBM-based ARP still leaves the majority of sites requiring additional augmentation at implant placement (yet 73–98% remain implant-placeable).
+Multi-paper synthesis (animal landmark, micro-CT, several RCTs, prospective split-mouth, narrative classification, retrospective cohorts, SR+MAs) on alveolar ridge preservation (ARP): ARP reduces but does not eliminate post-extraction ridge loss (untreated: ~50% horizontal, 30–40% vertical within 6–12 months; bundle bone loss is obligate and immediate implant placement alone cannot prevent it).
 
-## 한줄요약
+Socket anatomy (ST classification, bone concavity depth/angle, socket integrity) is a stronger outcome predictor than graft material choice; collagen plug alone preserves height but not width; adding xenograft (DBBM/Bio-Oss Collagen) ± PRF addresses horizontal width (width loss 1.47 vs 2.75 mm with vs without, Kollati 2019); graft material and particle size are largely equivalent for dimension (DBBM ≈ autogenous DDM ≈ Bio-Oss Collagen); biologic efficacy favors rhBMP-2 over L-PRF (Alavi 2024 SR+MA, 29 RCTs).
 
-발치와 보존술 종합 — ST 분류·골형태 CBCT 지표·소켓 무결성이 술식 선택 기준이며, 콜라겐 플러그 단독은 높이만 보존·폭경 불충분; 이종골(±PRF)이 폭경 유지 개선; 재료(DBBM·자가 DDM·Bio-Oss Collagen)·입자크기는 차원 보존에서 대체로 등가, 생물학적 보강은 rhBMP-2>L-PRF; DBBM 기반 ARP 후에도 다수는 임플란트 시 추가 골증대 필요(단 73–98%는 식립 가능).
+DBBM-based ARP significantly improves ridge width (mean +1.13 mm, SR+MA) but probability of augmentation-free implant placement remains only 6–19% (Fischer 2022); volumetrically 73–98% of sites remain implant-placeable after ARP; the clinical value is reducing defect complexity and GBR scope at implant time, not guaranteeing augmentation-free placement.
+
+## 세줄요약
+
+다편 종합 — 발치와 보존술(Alveolar Ridge Preservation, ARP)은 발치 후 치조제 손실을 줄이지만 없애지는 못함(무처치 시 수평 ~50%·수직 30–40% 손실; 다발골(bundle bone) 소실은 필연적이며 즉시식립 단독으로도 막지 못함).
+
+소켓 해부(ST 분류·골오목 깊이/각도·소켓 무결성)가 이식재 선택보다 강한 예후 예측인자; 콜라겐 플러그 단독은 높이만 보존·폭경 불충분; 이종골(DBBM/Bio-Oss Collagen) ± PRF 추가로 폭경 개선(Kollati 2019 1.47 vs 2.75 mm); 재료(DBBM≈자가 DDM≈Bio-Oss Collagen)·입자크기는 차원 보존에서 등가; 생물학적 보강은 rhBMP-2>L-PRF(Alavi 2024 SR+MA, 29 RCT).
+
+DBBM 기반 ARP는 폭경 평균 +1.13 mm 개선하나 추가 골증대 없는 식립 확률은 6–19%에 불과(Fischer 2022); 체적상 73–98%는 식립 가능; ARP의 임상 가치는 "골증대 회피 보장"이 아니라 결손 복잡도 감소·GBR 범위 축소다.
 
 ## Summary
 

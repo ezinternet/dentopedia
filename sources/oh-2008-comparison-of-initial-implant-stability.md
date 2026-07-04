@@ -13,11 +13,21 @@ source_collection: external
 
 2008년 한국 임플란트 ISQ 데이터의 원본 출처로, 3종 임플란트 시스템(3i Osseotite, Replace Select Tapered, ITI SLA)의 초기 안정성 변화 패턴을 직접 비교한 드문 임상 연구. [[implants/isq/kim-2009-implant-stability-various-implant-systems-clinical]] 등 후속 시스템 비교 연구의 초기 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 Prospective in vivo cohort (n=54 patients, 104 implants) comparing ISQ across 3 implant systems (3i Osseotite, Replace Select Tapered, ITI SLA) at baseline, 2 months, and 4 months: significant baseline differences converge by 2 months via a "catch-up" effect.
 
-## 한줄요약
-54명(임플란트 104개) 전향적 코호트: 3가지 임플란트 시스템(3i, Replace, ITI) 기저시 ISQ 유의차 있으나 2개월 시점에 수렴(catch-up 효과); 표면처리·형태가 ISQ 변화 패턴에 영향.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+54명(임플란트 104개) 전향적 코호트: 3가지 임플란트 시스템(3i, Replace, ITI) 기저시 ISQ 유의차 있으나 2개월 시점에 수렴(catch-up 효과);
+
+표면처리·형태가 ISQ 변화 패턴에 영향.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: J Korean Acad Periodontol (대한치주과학회지) 2008;38(3):529–534

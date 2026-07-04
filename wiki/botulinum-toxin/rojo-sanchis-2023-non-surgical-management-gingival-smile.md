@@ -14,11 +14,21 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, systematic-review, meta-analysis, prisma, robins-i, meta-regression, yonsei-point]
 ---
 
-## One-line Summary
-SR+MA (15 prospective + 1 retrospective studies, 11 in meta-analysis): BTX-A reduces gingival exposure by -3.22 mm at 2 weeks (95% CI -4.43 to -2.01) and -2.70 mm at 3 months — no significant difference between timepoints; dose 1.25–7.5 U/side was not associated with effect (meta-regression p=0.78).
+## Three-line Summary
 
-## 한줄요약
-SR+MA (15 prospective + 1 retrospective studies, 11편 meta-analysis): BTX-A 2주차 잇몸노출 -3.22 mm (95% CI -4.43 ~ -2.01), 3개월차 -2.70 mm — 2주-3개월 차이 NS; 1.25-7.5 U/side dose는 효과와 무관 (meta-regression p=0.78).
+PRISMA-compliant SR+MA (PROSPERO CRD42019115783; 1,250 screened → 16 included → 11 in meta-analysis) of BTX-A for gummy smile (>2 mm gingival exposure, muscular etiology), pooling prospective and one retrospective study with ROBINS-I bias appraisal and meta-regression.
+
+Pooled random-effects estimate: BTX-A reduces gingival exposure by −3.22 mm at 2 weeks (95% CI −4.43, −2.01) and −2.70 mm at 3 months (95% CI −4.52, −0.88); the 2-week vs 3-month difference is not significant (Q=0.221, p=0.638); dose (1.25–7.5 U/side) shows no dose-response on meta-regression (p=0.78 at 2 wk), and heterogeneity is high (I² >95%).
+
+Clinical implication: within the 1.25–7.5 U/side range, higher dosing is not supported by dose-response evidence — start at 2.0–2.5 U; effect is well-preserved at 3 months, so re-injection cycle can be planned at ~3–4 months.
+
+## 세줄요약
+
+PRISMA 기반 SR+MA(PROSPERO CRD42019115783; 1,250편 스크리닝 → 16편 포함 → 11편 메타분석) — gummy smile(>2mm 잇몸노출, 근육성) BTX-A 치료를 ROBINS-I 편향 평가와 메타회귀 포함 분석.
+
+무작위 효과 메타분석: BTX-A는 2주차 잇몸노출 -3.22 mm(95% CI -4.43, -2.01), 3개월차 -2.70 mm(95% CI -4.52, -0.88); 2주-3개월 차이 NS(p=0.638); 용량(1.25–7.5 U/side) → 효과 메타회귀 NS(p=0.78, 2주); 이질성 높음(I²>95%).
+
+임상 의미: 1.25–7.5 U/side 범위에서 용량 증량은 추가 효과 근거 없음 — 2.0–2.5 U로 시작; 효과는 3개월에도 잘 유지 → 재주사 주기를 3–4개월로 계획 가능.
 
 ## Summary
 PRISMA-compliant systematic review and meta-analysis (PROSPERO CRD42019115783) screening 1250 references → 15 included studies (14 prospective, 1 retrospective) → 11 in quantitative meta-analysis. Pooled random-effects estimate: BTX-A reduces gingival exposure by -3.22 mm at 2 weeks (95% CI -4.43, -2.01) and -2.70 mm at 3 months (95% CI -4.52, -0.88). Critically, the 2 weeks vs 3 months difference is not significant (Q=0.221, p=0.638) and dose (1.25-7.5 U/side) shows no significant influence on outcome (meta-regression p=0.781 at 2 wk; p=0.357 at 3 mo). Bias: 12/13 studies moderate ROBINS-I risk, only 1 low risk; I² >95% (high heterogeneity). The strongest evidence base to date for BTX-A in gummy smile.

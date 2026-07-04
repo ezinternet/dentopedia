@@ -13,13 +13,23 @@ source_collection: external
 
 저밀도골 일차안정성 확보를 위한 osteotomy 변형 술식 근거를 보강하기 위해 인제스트. 기존 [[implants/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma]] 와 [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] 가 다룬 undersized/대체 osteotomy 효과를, 측방압축(undersized)에 더해 축방향압축(under-drilling depth)을 결합한 실험으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cadaver-goat experimental study (44 implants, 4 surgical approaches) showing that combining lateral (undersized) and axial (under-depth) bone compression significantly raises insertion torque and %BIC vs standard drilling, proposed as an alternative for low-density bone.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 염소 사체 실험(임플란트 44개, 4개 술식)에서 측방압축(언더사이즈)과 축방향압축(식립 깊이 미달 드릴링)을 결합하면 표준 드릴링 대비 식립 토크와 골-임플란트 접촉률(BIC)이 유의하게 증가 — 저밀도골 대체 술식으로 제안.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Saudi Dental Journal 2021;33(5):283–291. Available online 2020-03-19.

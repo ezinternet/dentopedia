@@ -13,13 +13,23 @@ source_collection: external
 
 단일 임플란트 유지 하악 피개의치(single implant-retained overdenture)의 임플란트 생존율, 합병증, 부하 프로토콜 및 어태치먼트 유형별 성능을 정량화한 SR+MA로, [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]]의 2개 임플란트 중심 근거를 단일 임플란트 맥락으로 보완하고, [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]]의 임플란트 수 비교 근거를 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (17 studies, 11 in meta-analysis) reporting 5-year implant survival of 91.93% and 10-year survival of 84.62% for single implant-retained mandibular overdentures, with delayed loading showing highest survival and locator abutments requiring most maintenance.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (17편, 11편 메타분석): 단일 임플란트 하악 피개의치의 5년 생존율 91.93%, 10년 생존율 84.62%이며, 지연 부하 시 생존율 최고, 로케이터 어태치먼트는 유지관리 빈도 최다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

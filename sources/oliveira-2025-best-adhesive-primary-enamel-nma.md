@@ -17,13 +17,23 @@ text_filename: oliveira-2025-best-adhesive-primary-enamel-nma.txt
 
 PubMed full-text surveillance (레진접착) — 기존 enamel 접착 근거는 모두 영구치(permanent) 기반이고, 유치(primary/deciduous) 법랑질 전용 합성 근거가 위키에 없었다. 본 SR + network meta-analysis (Oliveira 2025, 14편)는 [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]]의 universal adhesive etch-mode 결론이 유치 법랑질에서도 성립하는지를 보강·한정하고, [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] 및 [[resin-bonding/fehrenbach-2021-10-mdp-bonding-performance-sr-ma]]의 10-MDP/selective-etch 논의를 소아치과 substrate로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian network meta-analysis (14 in vitro studies, primary tooth enamel bond strength): 3-step etch-and-rinse ranked best (highest SUCRA); two-bottle universal adhesive WITH phosphoric acid etching was statistically equivalent to it; within the same number of steps, self-etch ≈ etch-and-rinse — suggesting clinical steps can be reduced for deciduous enamel.
 
-## 한줄요약
+Bayesian network meta-analysis (14 in vitro studies, primary tooth enamel bond strength): 3-step etch-and-rinse ranked best (highest SUCRA);
+
+two-bottle universal adhesive WITH phosphoric acid etching was statistically equivalent to it;
+
+within the same number of steps, self-etch ≈ etch-and-rinse — suggesting clinical steps can be reduced for deciduous enamel.
+
+## 세줄요약
+
 
 베이지안 네트워크 메타분석 (in vitro 14편, 유치 법랑질 결합강도): 3단계 etch-and-rinse가 SUCRA 1위였고, 인산 산부식을 동반한 2병형 universal adhesive는 그와 통계적으로 동등했으며, 같은 단계 수에서는 self-etch ≈ etch-and-rinse — 유치 법랑질에서는 임상 단계 축소 여지가 있음을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

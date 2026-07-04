@@ -10,8 +10,21 @@ pdf_filename: araujo-2005-dimensional-ridge-alterations-tooth-extraction.pdf
 source_collection: external
 ---
 
-## One-line Summary
-개 하악 소구치 발치 후 1/2/4/8주 조직학적 분석에서 순측골 소실이 설측보다 현저히 크며, 흡수는 bundle bone 소실(1단계)과 외측면 흡수(2단계) 두 단계로 진행됨을 최초로 기술한 고전적 동물 연구.
+## Three-line Summary
+
+Landmark animal study (12 mongrel dogs, mandibular 3rd/4th premolar distal roots, 1/2/4/8-week histology) establishing the two-phase mechanism of post-extraction ridge resorption for the first time.
+
+Buccal bone loss was significantly greater than lingual loss at all time points; phase 1: bundle bone resorption (buccal crest loses height rapidly); phase 2: external surface osteoclast activity on buccal and lingual walls.
+
+Buccal ridge resorption after extraction is biologically inevitable — immediate implant placement alone cannot prevent it — providing the mechanistic rationale for alveolar ridge preservation.
+
+## 세줄요약
+
+고전적 동물 연구(개 12마리, 하악 소구치 발치 후 1·2·4·8주 조직학) — 발치 후 치조제 흡수의 2단계 기전을 최초로 기술.
+
+순측골 소실이 설측보다 모든 시점에서 현저히 크고; 1단계: bundle bone 흡수(순측 치조정 수직 급감); 2단계: 골벽 외측면 파골세포 흡수(수평·수직 추가 감소).
+
+발치 후 순측골 흡수는 생물학적으로 불가피 — 즉시식립만으로 예방 불가 — 발치와 보존술의 근거 기반 landmark 논문.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2005;32:212-218

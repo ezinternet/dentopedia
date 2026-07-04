@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/implants/isq/]] 카테고리에 직경·위치별 ISQ 기저값 데이터가 부족한 상태였음. 본 후향적 연구(Kim 2013)는 국내 Osstem US II plus 임플란트 90개를 대상으로 식립 직후 및 인상채득 시점의 ISQ를 직경(4 mm vs 5 mm)·길이(10/11.5/13 mm)·위치(상악 vs 하악)별로 분석하여, 직경과 위치가 ISQ에 미치는 영향을 실증한다. 이는 [[wiki/implants/isq/]] 내 하중 시기 결정 근거 페이지들의 "diameter effect" 항목을 보강하는 데 활용된다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective RFA study (n=90 implants, 72 patients) showing wider diameter (5 mm > 4 mm) and mandibular placement yield significantly higher ISQ, while implant length (10–13 mm) does not significantly affect stability.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 RFA 연구(90개 임플란트, 72명): 직경 5 mm가 4 mm보다 ISQ 유의하게 높고, 하악이 상악보다 ISQ 유의하게 높으나, 길이(10–13 mm)는 ISQ에 유의한 영향 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -21,13 +21,21 @@ relations:
     target: murat-2025-all-on-4-implant-angulation-load-direction-fea
 ---
 
-## One-line Summary
+## Three-line Summary
 
-FEA (maxillary 3-unit bridge, 150 N oblique, multiunit vs cemented abutments at 0°/15°/25–30°, healthy vs resorbed bone): abutment angle ↑ → stress ↑ and fatigue ↓; multiunit abutments outperform cemented at all angles; resorbed bone amplifies both findings.
+FEA study (maxillary 3-unit bridge, 150 N oblique load, 6 groups: multiunit vs cemented abutments at 0°/15°/25–30°, healthy vs resorbed bone) jointly analyzing stress distribution and fatigue performance.
 
-## 한줄요약
+Increasing abutment angle raised von Mises stress and reduced fatigue life in all groups; multiunit abutments produced lower stress and higher fatigue resistance than cemented abutments at every comparable angle; resorbed bone amplified both adverse findings.
 
-FEA (상악 3단 브릿지, 6 지대주 구성 × 2 골 유형): 지대주 각도↑ → von Mises 응력↑ · 피로 강도↓; 멀티유닛 지대주가 모든 각도에서 시멘트형 우세; 흡수 골에서 두 경향 모두 심화.
+Minimize abutment angulation and prefer multiunit (screw-retained) over cemented design — especially in resorbed bone patients who already face higher biomechanical risk.
+
+## 세줄요약
+
+FEA 연구 (상악 3단 브릿지, 150 N 경사 하중, 6군: 멀티유닛 vs 시멘트형 지대주 각 0°/15°/25–30°, 건강골 vs 흡수골) — 응력 분포와 피로 강도를 동시 분석.
+
+지대주 각도 증가 → von Mises 응력 증가 + 피로 강도 감소; 멀티유닛 지대주가 모든 비교 각도에서 시멘트형보다 낮은 응력·높은 피로 강도; 흡수골에서 두 불리한 경향 모두 심화.
+
+지대주 각도는 최소화하고 특히 흡수골 환자에서 시멘트형보다 멀티유닛(나사 유지형)을 선호해야 하며, 경사 부위에서는 최소 각도로 수직 보정 후 멀티유닛 설계를 우선 선택.
 
 ## Summary
 

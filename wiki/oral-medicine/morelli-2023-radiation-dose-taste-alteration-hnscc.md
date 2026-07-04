@@ -20,13 +20,22 @@ relations:
     target: tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective observational cohort (31 HNSCC patients undergoing IMRT, CiTAS/EORTC questionnaires at baseline, 3 weeks, 3 months) finding acute dysgeusia correlates significantly with mean dose to submandibular and parotid glands (p=0.05 each) but NOT with dose to the taste-bud-bearing tongue mucosa itself, suggesting radiation-induced taste alteration is substantially mediated through salivary gland damage rather than direct taste bud injury alone.
+Prospective observational cohort (31 HNSCC patients, IMRT, Florence; CiTAS and EORTC questionnaires at baseline, 3 weeks, 3 months post-RT) contouring taste-bud-bearing tongue mucosa as a separate organ at risk and correlating dosimetry to patient-reported taste alteration.
 
-## 한줄요약
+Acute dysgeusia correlated significantly with mean dose to submandibular and parotid glands (p=0.05 each) but NOT with dose to the taste-bud-bearing mucosa itself; CiTAS scores roughly doubled by 3 weeks then partially recovered, while xerostomia remained elevated at 3 months.
 
-전향적 관찰 코호트(두경부편평세포암 IMRT 환자 31명, CiTAS/EORTC 설문 기저·3주·3개월 추적) — 급성 미각이상(dysgeusia)은 미뢰(taste bud) 선량이 아니라 악하선·이하선 평균선량과 유의하게 상관(각 p=0.05)함을 발견 — 방사선 유발 미각장애가 미뢰 직접손상보다 타액선 손상을 매개로 발생함을 시사.
+This reframes radiation-induced taste alteration as largely salivary-gland-mediated rather than direct taste-bud injury, supporting IMRT strategies that prioritize salivary gland sparing over taste-bud-region sparing for reducing acute dysgeusia.
+
+## 세줄요약
+
+전향적 관찰 코호트 (두경부편평세포암 IMRT 환자 31명, 피렌체; CiTAS/EORTC 설문 기저·3주·3개월) — 미뢰 함유 혀 점막을 별도 위험기관으로 윤곽화하고 선량-미각이상 상관 분석.
+
+급성 미각이상(Dysgeusia)은 미뢰 선량이 아닌 악하선·이하선 평균선량과 유의하게 상관(각 p=0.05); CiTAS 점수는 3주에 약 2배 증가 후 3개월에 부분 회복, 구강건조감은 3개월에도 지속 상승.
+
+방사선 유발 미각장애가 미뢰 직접손상보다 타액선 손상을 매개로 발생함을 시사 — IMRT에서 미각이상 감소를 위한 타액선 선량 보호가 미뢰 영역 보호보다 우선 전략임을 지지.
+
 
 ## Summary
 

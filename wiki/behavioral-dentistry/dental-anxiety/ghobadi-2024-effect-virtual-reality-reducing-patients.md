@@ -19,13 +19,21 @@ relations:
     target: pandey-2025-monitoring-patient-anxiety-pain-physiological-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized controlled crossover trial (n=73 adults, each patient own control across two implant-surgery sessions) showing VR distraction with a high-resolution headset and natural-scene content significantly reduced experienced pain (−1.71 NRS), state anxiety (STAI-S −3.45), and dental anxiety (MDAS −4.55) versus no VR — confirmed by physiology (lower EMG, heart rate, GSR) — with 90.4% of patients wanting to reuse VR; the main downside was increased surgeon distress from the bulky headset.
+Randomized controlled crossover trial (n=73 adults, 215 screened; each patient served as own control across two first-molar implant surgeries, one with Oculus Quest 2 VR, one without; powered to ≥70) — the first RCT of intraoperative VR distraction specifically in adult dental implant surgery.
 
-## 한줄요약
+VR significantly reduced experienced pain (NRS −1.71), state anxiety (STAI-S −3.45), dental anxiety (MDAS −4.55), memory vividness (−0.69), and perceived treatment time, confirmed by objective physiology (EMG −14.2, heart rate −10.3, GSR −5.4; all p<0.001); 90.4% of patients wished to reuse VR at future visits.
 
-성인 임플란트 수술 RCT 교차설계(n=73, 환자 자신이 대조군) — 고해상도 헤드셋·자연영상 VR이 무(無)VR 대비 경험 통증(NRS −1.71)·상태불안(STAI-S −3.45)·치과불안(MDAS −4.55)을 유의하게 낮췄고 생리지표(EMG·심박·GSR)로 검증, 90.4%가 재사용을 희망했으나 부피 큰 헤드셋으로 술자 불편은 증가.
+VR did not affect expected (pre-operative) pain or trait anxiety — confirming a situational rather than dispositional mechanism — and surgeon distress increased significantly (+3.45, p<0.001) due to the bulky headset obstructing surgical access, calling for smaller future devices.
+
+## 세줄요약
+
+무작위 대조 교차설계 RCT (n=73 성인, 215명 스크리닝; 환자 자신이 대조군, 제1대구치 임플란트 수술 2회: 1회는 Oculus Quest 2 VR, 1회는 무VR) — 성인 임플란트 수술 중 VR 주의분산을 평가한 최초의 RCT.
+
+경험 통증(NRS −1.71)·상태불안(STAI-S −3.45)·치과불안(MDAS −4.55)·기억 생생함·지각 시간 유의 감소; EMG·심박·피부전기반응 모두 객관적으로 확인(모두 p<0.001). 90.4%가 재사용 희망.
+
+VR은 기대 통증·특성불안에는 영향 없음(상황적 기전 확인); 술자 불편(헤드셋 방해)은 유의하게 증가(+3.45, p<0.001)하여 더 작은 기기 개발이 임상 채택의 관건.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트–어버트먼트 연결부의 안착 효과(settling effect)가 보철물 오적합(misfit)에 미치는 영향을 in vitro로 정량화한 연구. [[prosthetic-materials/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] 의 임플란트–보철물 미스핏 임상 결과를 연결부 유형별 기계적 기초 근거로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=32) comparing settling effect (axial displacement) across four internal implant–abutment connection types (internal hex, internal octagon, Morse hex 6°, Morse hex 11°) at three torque levels (20, 25, 30 Ncm); octagon showed consistently the least settling and internal hexagon the most.
 
-## 한줄요약
+In vitro study (n=32) comparing settling effect (axial displacement) across four internal implant–abutment connection types (internal hex, internal octagon, Morse hex 6°, Morse hex 11°) at three torque levels (20, 25, 30 Ncm);
 
-내부 연결형 임플란트 4종(내부 육각, 내부 팔각, 모스테이퍼 6°·11°)에서 반복 토크(20·25·30 Ncm) 적용 시 안착 효과(axial displacement)를 비교한 in vitro 연구(n=32); 팔각형이 가장 적은 안착량, 내부 육각형이 가장 큰 안착량을 보였다.
+octagon showed consistently the least settling and internal hexagon the most.
+
+(incomplete)
+
+## 세줄요약
+
+
+내부 연결형 임플란트 4종(내부 육각, 내부 팔각, 모스테이퍼 6°·11°)에서 반복 토크(20·25·30 Ncm) 적용 시 안착 효과(axial displacement)를 비교한 in vitro 연구(n=32);
+
+팔각형이 가장 적은 안착량, 내부 육각형이 가장 큰 안착량을 보였다.
+
+(incomplete)
 
 ## 1. Document Information
 

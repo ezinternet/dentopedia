@@ -20,13 +20,21 @@ relations:
     target: betancourt-2016-mb2-prevalence-location-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (4 retrospective studies, 2,009 CBCTs, 179 cases) — pooled CBCT-assessed prevalence of dens invaginatus is 9.0% (95% CI 7.2–10.8%, p<0.001), roughly double conventional-radiograph estimates (0.25–7.7%); maxillary lateral incisor most affected, Oehlers Type I most common, no consistent sex difference.
+First SR+MA of CBCT-assessed dens invaginatus prevalence, pooling 4 retrospective studies (2,009 CBCTs, 179 cases) from Chinese, Saudi, Tunisian, and Turkish populations.
 
-## 한줄요약
+Pooled CBCT prevalence was 9.0% (95% CI 7.2–10.8%, I²=44%), approximately double the 0.25–7.7% range from conventional radiographs; maxillary lateral incisor was most affected and Oehlers Type I most common.
 
-SR+MA (후향연구 4편, CBCT 2,009건, 치내치 179건) — CBCT 측정 통합 유병률 9.0% (95% CI 7.2–10.8%, p<0.001)로 2D 방사선 추정치(0.25–7.7%)의 약 2배. 상악 측절치 최다 호발, Oehlers Type I 최다, 일관된 성별 차이 없음.
+Because CBCT detects ~3.6× more cases than panoramic radiography in head-to-head comparison, suspected dens invaginatus — especially in maxillary lateral incisors — warrants CBCT for accurate treatment planning.
+
+## 세줄요약
+
+CBCT 기반 치내치(Dens Invaginatus) 유병률 최초 SR+MA; 후향적 연구 4편(CBCT 2,009건, 치내치 179건), 중국·사우디·튀니지·튀르키예 인구 포함.
+
+CBCT 통합 유병률 9.0% (95% CI 7.2–10.8%, I²=44%)로 기존 2D 방사선 추정치(0.25–7.7%)의 약 2배; 상악 측절치 최다 호발, Oehlers Type I 최다.
+
+동일 환자군 직접 비교 시 CBCT가 파노라마 대비 약 3.6배 더 많이 검출하므로, 상악 측절치 등 의심 치아는 정확한 치료 계획 수립을 위해 CBCT 촬영이 필요.
 
 ## Summary
 

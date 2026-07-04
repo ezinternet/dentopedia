@@ -17,13 +17,21 @@ text_filename: behfarnia-2025-anatomic-immediate-implant-mandibular-posterior.tx
 
 기존 [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]]가 단일 CBCT 연구로 하악 구치부 골 해부를 다뤘다면, 본 논문은 12편·1,834명을 pooled한 SR+MA로 하악 구치부 즉시식립(Immediate Implant Placement, IIP)의 해부학적 안전 한계를 정량화한다. 근 (Inferior Alveolar Canal, IAC) 이격거리와 설측판 천공 (Lingual Plate Perforation, LPP) 위험을 부위별(2PM/1M/2M)로 수치화해 [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]의 치근간중격 1차 안정성 논의를 해부학적 위험 측면에서 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (12 CBCT studies, 1,834 patients): in mandibular posterior IIP the pooled root-apex-to-IAC distance is 5.14 mm (2nd premolar), 6.32 mm (1st molar) and 4.65 mm (2nd molar), and undercut (U-type) ridge morphology dominates the 2nd molar site (73%), driving lingual plate perforation risk.
+SR+MA (12 CBCT studies, 1,834 patients; Modified STROBE quality; all studies scored 11–12/12) pooling root-apex-to-IAC distances and mandibular ridge morphology prevalence for each posterior tooth position to quantify anatomic risk in mandibular posterior immediate implant placement.
 
-## 한줄요약
+Pooled root-apex-to-IAC distance: 2nd premolar 5.14 mm (95% CI 3.83–6.46), 1st molar 6.33 mm (95% CI 4.48–8.18), 2nd molar 4.65 mm (95% CI 4.06–5.25); 2nd molar ridge is undercut (U-type) in 73% of cases (95% CI 62.5–81.4%), conferring the highest lingual plate perforation risk.
 
-체계적 문헌고찰+메타분석 (12편 CBCT 연구, 1,834명): 하악 구치부 즉시식립에서 치근첨–하치조관 (Inferior Alveolar Canal, IAC) 평균 거리는 제2소구치 5.14 mm, 제1대구치 6.32 mm, 제2대구치 4.65 mm이며, 제2대구치 부위는 73%가 언더컷(U형) 치조제라 설측판 천공 (Lingual Plate Perforation, LPP) 위험이 가장 높다.
+These pooled distances confirm the ≥2 mm IAC safety margin and ≥4 mm native apical bone requirement; the 2nd molar warrants the greatest anatomic caution due to shortest IAC clearance and highest undercut prevalence; females and patients <40 years carry higher IAN injury risk.
+
+## 세줄요약
+
+SR+MA(12편 CBCT 연구, 1,834명; Modified STROBE 질 평가; 전 연구 11–12/12점) — 하악 구치부 즉시식립(Immediate Implant Placement, IIP)의 해부학적 위험 정량화: 부위별 치근첨–하치조관(IAC) 거리 및 치조제 형태 prevalence 메타분석.
+
+치근첨–IAC 평균 거리: 제2소구치 5.14 mm(95% CI 3.83–6.46), 제1대구치 6.33 mm(95% CI 4.48–8.18), 제2대구치 4.65 mm(95% CI 4.06–5.25); 제2대구치 치조제는 73%(95% CI 62.5–81.4%)가 언더컷(U형)으로 설측판 천공(Lingual Plate Perforation, LPP) 위험 최고.
+
+IAC ≥2 mm 안전 여백 및 1차 안정성을 위한 apical 자연골 ≥4 mm 요건이 재확인됐으며, 제2대구치는 IAC 여백 최단·언더컷 빈도 최고로 가장 주의가 필요하다; 여성 및 40세 미만 환자에서 IAN 손상 위험이 높다.
 
 ## 1. Document Information
 

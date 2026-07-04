@@ -16,13 +16,21 @@ relations:
     target: del-fabbro-2025-sinus-augmentation-materials-lateral-approach
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 RCTs (328 patients, 389 implants) finding BCP superior to DBBM for new bone formation (MD +3.48%) and soft tissue percentage, with lower residual graft material, though high heterogeneity limits conclusions.
+SR+MA (PRISMA-compliant, 10 RCTs, 328 patients, 389 implants) comparing biphasic calcium phosphate (BCP) vs deproteinized bovine bone mineral (DBBM) for sinus floor elevation, focusing exclusively on histomorphometric biopsy outcomes.
 
-## 한줄요약
+BCP yielded significantly more new bone formation (MD +3.48%, p=0.01, I²=44%) and significantly less residual graft material (MD −8.41%, p<0.001, I²=86%) than DBBM; soft tissue percentage was also higher with BCP (MD +6.01%, p<0.001).
 
-10개 RCT(328명, 389임플란트) SR+MA로 BCP가 DBBM 대비 신생골 형성률(MD +3.48%), 연조직 비율에서 우수하고 잔류 이식재가 적으나, 높은 이질성(I²=44–86%)으로 결론의 확실성이 제한된다.
+High heterogeneity for residual graft (I²=86%) and soft tissue (I²=72%) limits conclusions, and no implant survival data were included, so BCP's histomorphometric advantage does not yet translate directly to clinical equivalence or superiority.
+
+## 세줄요약
+
+PRISMA 준수 체계적 고찰 + 메타분석 (10 RCT, 328명, 389 임플란트): 상악동거상술 (Sinus Floor Elevation)에서 이상성 인산칼슘 (Biphasic Calcium Phosphate, BCP) vs 단백질 제거 우골 미네랄 (Deproteinized Bovine Bone Mineral, DBBM) 조직형태계측(Histomorphometry) 비교.
+
+BCP가 신생골 형성률(MD +3.48%, p=0.01), 연조직 비율(MD +6.01%, p<0.001)에서 유의하게 우수하고, 잔류 이식재가 유의하게 적음(MD −8.41%, p<0.001); BCP 성분인 β-TCP의 빠른 흡수 동역학을 반영.
+
+잔류 이식재(I²=86%)·연조직(I²=72%)의 높은 이질성이 결론을 제한하며, 임플란트 생존율 데이터 미포함으로 조직형태계측 우위가 임상 결과 우위로 직결되지 않음.
 
 ## Summary
 

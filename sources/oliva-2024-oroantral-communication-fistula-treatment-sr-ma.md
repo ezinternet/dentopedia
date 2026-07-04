@@ -13,13 +13,23 @@ source_collection: external
 
 OMS 클러스터([[wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]], [[wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]])는 구치 발치 후 구강상악동교통 (Oroantral Communication, OAC) 발생이 OMS의 주요 원인임을 확립했지만, 어떤 수술적 폐쇄 술식이 가장 우수한지는 다루지 않았다. 본 SR+NMA(Oliva 2024)는 9건(7 RCT, n=519)의 네트워크 메타분석으로 협측지방패드 (Buccal Fat Pad, BFP)의 우위를 직접 비교하여 OAC 수술 결정 알고리즘을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR + network meta-analysis of 9 studies (7 RCTs, n=519 OACs) found buccal fat pad significantly superior to buccal advancement flap (OR 15; 95% CI 3.52–63.83) and palatal rotational flap (OR 15.29; CI 2.63–88.93) for OAC/OAF closure.
 
-## 한줄요약
+SR + network meta-analysis of 9 studies (7 RCTs, n=519 OACs) found buccal fat pad significantly superior to buccal advancement flap (OR 15;
+
+95% CI 3.52–63.83) and palatal rotational flap (OR 15.29;
+
+CI 2.63–88.93) for OAC/OAF closure.
+
+## 세줄요약
+
 
 9건(7 RCT, n=519) SR+네트워크 메타분석: 협측지방패드(BFP)가 구강상악동교통·누공 폐쇄에서 협측전진피판(OR 15) 및 구개회전피판(OR 15.29) 대비 통계적으로 유의하게 우수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

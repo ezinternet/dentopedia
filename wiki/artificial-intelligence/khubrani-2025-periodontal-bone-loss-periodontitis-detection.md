@@ -20,13 +20,21 @@ relations:
     target: abbott-2024-ai-platforms-dental-caries-detection
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (30 studies) + meta-analysis (10 studies) of ML/DL for periodontal bone loss/periodontitis detection on 2D panoramic + periapical radiographs, appraised with APPRAISE-AI: pooled sensitivity 87% (95% CI 80–93%), specificity 76% (69–81%), accuracy 84% (75–91%); only 7/30 studies "high" quality, none "very high".
+SR (30 studies; 5 databases, 1990–January 2024) plus proportion meta-analysis (10 poolable studies) of ML/DL models for detecting alveolar bone loss and periodontitis on 2D panoramic and periapical radiographs, appraised with the purpose-built APPRAISE-AI tool.
 
-## 한줄요약
+Pooled sensitivity 87% (95% CI 80–93%), specificity 76% (69–81%), accuracy 84% (75–91%); APPRAISE-AI quality: 7/30 high, 19/30 intermediate, and none very-high.
 
-2D 방사선에서 치주 골소실·치주염을 검출하는 머신러닝·딥러닝 체계적 문헌고찰(30편)+메타분석(10편), APPRAISE-AI 평가: 통합 민감도 87%, 특이도 76%, 정확도 84%이나 고품질 연구 7/30·최고품질 0편 — 성능은 유망, 보고 투명성은 미흡. (Based on articles retrieved from PubMed)
+Lower specificity (76%) than sensitivity (87%) indicates more false positives — AI is better suited as a screening/triage flag than a confirmatory diagnostic read; reporting transparency must improve before clinical deployment.
+
+## 세줄요약
+
+2D 치과 파노라마 및 치근단 방사선에서 치조골 소실·치주염을 검출하는 머신러닝(Machine Learning, ML)·딥러닝 체계적 문헌고찰(30편)+비율 메타분석(10편, APPRAISE-AI 평가); 5개 데이터베이스, 1990–2024년 1월.
+
+통합 민감도 87%(95% CI 80–93%), 특이도 76%(69–81%), 정확도 84%(75–91%); APPRAISE-AI 고품질 7/30편, 최고품질 0편.
+
+특이도(76%)가 민감도(87%)보다 낮아 위양성 다발 — AI는 확정 진단이 아닌 선별/트리아지 도구로 활용해야 하며, 보고 투명성 개선이 시급하다.
 
 ## Summary
 

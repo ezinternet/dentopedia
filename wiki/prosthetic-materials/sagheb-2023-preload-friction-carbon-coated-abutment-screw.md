@@ -13,13 +13,21 @@ source_collection: external
 tags: [abutment-screw, preload, friction, carbon-coating, screw-loosening, implant-prosthetics]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=25, Nobel Biocare) found that repeated tightening of carbon-coated abutment screws to 25 Ncm significantly reduced preload (329.9 N → 253.7 N over 10 cycles) and increased the coefficient of friction (0.33 → 0.44), indicating carbon-coated screws should not be reused.
+In vitro mechanical test (n=25, Nobel Biocare Replace Select Tapered implant–abutment–screw assemblies) measuring preload force and friction at each of 10 repeated tightenings to 25 Ncm.
 
-## 한줄요약
+Preload decreased monotonically from 329.9 N (1st cycle) to 253.7 N (10th cycle), while the coefficient of friction (COF) rose from 0.33 to 0.44; the preload loss was driven by screw head friction, not thread friction.
 
-탄소 코팅 지대주 나사 25 Ncm 10회 반복 조임 시 예압(preload)이 329.9 N에서 253.7 N으로 유의하게 감소하고 마찰계수가 0.33에서 0.44로 증가하여, 코팅 나사 재사용 시 최적 예압 달성 불가능을 in vitro로 입증 (Sagheb 2023, n=25).
+Carbon-coated abutment screws should be used once only — repeated tightening degrades the coating, raises head friction, and prevents achievement of optimal preload.
+
+## 세줄요약
+
+체외 기계 시험 (n=25, Nobel Biocare Replace Select Tapered 임플란트-어버트먼트-나사 조립체), 25 Ncm 10회 반복 조임 시 매 사이클마다 예압(preload)과 마찰계수(COF) 측정.
+
+예압은 329.9 N(1회)에서 253.7 N(10회)으로 단조 감소하고 마찰계수는 0.33→0.44로 증가; 예압 소실은 나사산 마찰이 아닌 나사 헤드 마찰이 주도.
+
+탄소 코팅 어버트먼트 나사(carbon-coated abutment screw)는 1회 사용 원칙 — 반복 조임 시 코팅이 손상되어 최적 예압 확보 불가.
 
 ## Summary
 

@@ -15,13 +15,23 @@ text_filename: kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.txt
 
 납복 착용 상태에서 TLD를 흉부(납복 위) 위치에 부착하여 실제 직원 피폭량을 측정한 연구 — 납복 착용 후에도 남는 산란선량 실측치를 제공. [[radiology/kim-2016-occupational-radiation-procedures-doses-korean-dentists]]의 한국 데이터와 비교 맥락에서 활용.
 
-## One-line Summary
+## Three-line Summary
 
-TLD dosimetry study in 30+ Basrah (Iraq) dentists and assistants: mean annual effective dose 5.623 mSv (dentists) / 5.279 mSv (assistants) measured above the lead apron, well below the 20 mSv limit; assistants in general hospitals received higher doses than dental-clinic staff.
 
-## 한줄요약
+TLD dosimetry study in 30+ Basrah (Iraq) dentists and assistants: mean annual effective dose 5.623 mSv (dentists) / 5.279 mSv (assistants) measured above the lead apron, well below the 20 mSv limit;
+
+assistants in general hospitals received higher doses than dental-clinic staff.
+
+(incomplete)
+
+## 세줄요약
+
 
 이라크 바스라 치과 직원 TLD 측정 (납복 위 흉부): 연평균 유효선량 치과의사 5.623 mSv, 조무사 5.279 mSv — 직업한도(20 mSv/y) 이하이나 납복 없는 오픈 클리닉 환경에서 한국보다 훨씬 높은 수치.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

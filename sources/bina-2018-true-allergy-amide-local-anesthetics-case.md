@@ -13,13 +13,21 @@ source_collection: external
 
 Documents how to anesthetize a patient with a genuine (anaphylaxis-confirmed) amide local-anesthetic allergy — a rare but high-stakes scenario absent from our standard agent-selection pages. Refines the agent-choice framework in [[wiki/drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] by adding the "no amide possible" edge case (1% diphenhydramine + 1:100,000 epinephrine as a fallback LA).
 
-## One-line Summary
+## Three-line Summary
 
-Case report + literature review (NYU Lutheran): a 43-year-old woman with allergist-documented anaphylaxis to lidocaine completed 13 dental visits (extractions, restorations, root canals, crowns) using 1% diphenhydramine + 1:100,000 epinephrine as an alternative local anesthetic; effective for maxillary infiltration but short-acting (15–75 min) with postoperative swelling and drowsiness, requiring volume limits (<5 mL/visit) and occasional intrapulpal supplementation.
+Case report + narrative literature review (NYU Lutheran): a 43-year-old woman with allergist-confirmed lidocaine anaphylaxis completed 13 dental visits using 1% diphenhydramine (DPH) + 1:100,000 epinephrine as the sole local anesthetic.
 
-## 한줄요약
+Maxillary infiltration was adequate for extractions and restorations; root canal therapy required supplemental intrapulpal DPH; volume capped at 5 mL/visit after 24-hour facial swelling on visit 1.
 
-증례 보고 + 문헌 고찰 (NYU Lutheran): 알레르기 전문의가 리도카인 아나필락시스를 확인한 43세 여성이 1% 디펜히드라민 + 1:100,000 에피네프린을 대체 국소마취제로 사용해 13회 치과 치료(발치·수복·근관·크라운) 완료; 상악 침윤에 효과적이나 작용시간 짧고(15–75분) 술후 부종·졸림 발생, 회당 <5 mL 용량 제한과 간헐적 치수내 보충 필요.
+True amide allergy is extremely rare (most reactions are to metabisulfite/methylparaben or vasovagal); DPH is a viable last-resort fallback but is short-acting (15–75 min), causes burning and drowsiness, and is inferior to lidocaine for pulpal anesthesia.
+
+## 세줄요약
+
+증례 보고 + 서술적 문헌 고찰 (NYU Lutheran): 알레르기 전문의가 리도카인 아나필락시스를 확인한 43세 여성이 1% 디펜히드라민 + 1:100,000 에피네프린으로 13회 치과 치료(발치·수복·근관·크라운) 완료.
+
+상악 침윤마취는 발치·수복에 적절했으나 근관치료 시 치수내 보충 주사 필요, 1회 방문 시 8 mL 사용 후 24시간 안면 부종 발생 → 이후 <5 mL/회 제한.
+
+아미드 LA 진성 알레르기는 극히 드물며(대부분 메타바이설파이트·메틸파라벤이 원인), DPH는 최후 수단으로 유효하나 작용시간 짧고(15–75분) 술후 부종·졸림·주사통이 있어 리도카인 대비 치수마취 효과 열등.
 
 ## 1. Document Information
 

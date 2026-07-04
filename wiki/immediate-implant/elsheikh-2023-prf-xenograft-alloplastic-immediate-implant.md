@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Three-arm RCT comparing jumping-gap fillers (PRF vs xenograft vs alloplastic) at immediate implant placement; no significant difference between groups on buccal bone-change endpoints at follow-up, supporting PRF as a low-cost autologous alternative without donor-site morbidity.
+## Three-line Summary
+Three-arm RCT (BMC Oral Health 2023) comparing jumping-gap fillers — PRF vs xenograft vs alloplastic bone substitute — at immediate implant placement in the anterior maxilla.
 
-## 한줄요약
-RCT: 즉시 식립 시 잔여 갭(jumping gap)을 PRF·xenograft·alloplastic 중 무엇으로 채우느냐의 비교 — 모두 임상적으로 수용 가능, PRF는 비용·이차 부위 없는 옵션으로 비열등.
+No statistically significant difference was found between the three groups on buccal bone-change endpoints at follow-up; PRF showed outcomes comparable to bone substitutes.
+
+Clinical implication: PRF is a viable low-cost, donor-site-free alternative to xenograft or alloplastic materials for jumping-gap management in immediate implant placement; long-term data beyond this study remain limited.
+
+## 세줄요약
+3군 무작위대조시험 (BMC Oral Health 2023) — 상악 전치부 즉시식립 시 잔여갭(jumping gap) 충전재 비교: PRF vs 이종골 vs 동종합성골.
+
+세 군 모두 추적 시 협측골 변화 지표에서 통계적 유의차 없음 — PRF가 이종골과 동등한 결과.
+
+임상 적용: PRF는 즉시식립 갭 관리에서 이차 채취 부위 없이 사용 가능한 비용 효율적 대안으로 비열등하나 장기 데이터는 부족.
 
 ## Summary
 RCT comparing three jumping-gap fillers (PRF vs xenograft vs alloplastic) at immediate implant placement. All three yielded comparable clinical outcomes; PRF emerges as a low-cost autologous alternative without donor-site morbidity.

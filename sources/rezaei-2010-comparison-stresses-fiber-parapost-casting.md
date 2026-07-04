@@ -17,13 +17,23 @@ text_filename: rezaei-2010-comparison-stresses-fiber-parapost-casting.txt
 
 ParaPost 제품(Coltène/Whaledent 티타늄 기성 포스트)의 생체역학을 직접 다룬 photoelastic 연구. 기존 [[post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged]]와 [[post-and-core/van-landuyt-2025-rct-glass-fiber-versus-metal-posts]]가 임상 생존율로 fiber > metal을 보인 근거를, 이 논문은 응력 분포 메커니즘(강성 금속 포스트가 dentin으로 응력을 전달) 수준에서 뒷받침한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro photoelastic bench study (PSM-5 blocks, 3 groups × 3): rigid ParaPost (metal) concentrates high stress apically under vertical load and cervically under oblique load, whereas fiber and cast posts distribute stress evenly — but the 1.25 mm fiber post fractured below 90 N oblique load.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 광탄성 인비트로 연구 (PSM-5 블록, 3군×3): 강성 금속 ParaPost는 수직하중 시 근단부·경사하중 시 치경부에 응력이 집중되는 반면 fiber·cast post는 응력이 고르게 분포함 — 단, 1.25 mm fiber post는 90 N 경사하중 전에 파절됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

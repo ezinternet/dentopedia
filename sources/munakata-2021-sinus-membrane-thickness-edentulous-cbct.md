@@ -9,7 +9,7 @@ pdf_filename: munakata-2021-sinus-membrane-thickness-edentulous-cbct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Retrospective CBCT analysis of 40 edentulous maxillary molar sinuses (35 patients) preoperative to lateral-window sinus floor augmentation: mean sinus mucosal thickness (SMT) 1.09 ± 1.30 mm; SMT > 2 mm in 25%, SMT < 0.8 mm in 50%; significant factors influencing SMT were sex, time since extraction, reason for extraction, sinus septa, and nasal septum deviation.
 
 ## 1. Document Information

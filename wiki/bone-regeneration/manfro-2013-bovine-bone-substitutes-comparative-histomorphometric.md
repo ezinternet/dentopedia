@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Rabbit calvaria titanium-cylinder model (n=8, 8/12 weeks): Bone-Fill and Bio-Oss (DBBM) are equivalent in new bone formation and clearly superior to Gen-Ox and blood clot — a direct comparison refuting the assumption that all bovine bone substitutes perform equally.
+## Three-line Summary
 
-## 한줄요약
-토끼 두개관 티타늄 실린더 모델(n=8, 8/12주): Bone-Fill와 탈단백 우골(Deproteinized Bovine Bone Mineral, DBBM, Bio-Oss)이 신생골 형성에서 동등하고 Gen-Ox·혈병보다 명확히 우수 — "이종골은 다 같다"는 가정을 반증하는 직접비교 동물연구.
+Animal study (n=8 New Zealand White rabbits, 4 titanium cylinders per animal, 8- and 12-week sacrifice) comparing Bio-Oss, Bone-Fill, Gen-Ox, and blood clot in a within-animal calvarial model.
+
+At 12 weeks, Bio-Oss and Bone-Fill showed equivalent new bone formation (9.32 vs 9.01 mm²), while Gen-Ox produced markedly less new bone (3.02 mm²) and retained abundant residual particles; blood clot remained at primary woven bone (0.63 mm²).
+
+All DBBM-labeled products are not clinically equivalent — processing differences (deproteinization temperature, sintering) drive large efficacy gaps that are obscured by shared commercial category.
+
+## 세줄요약
+
+동물실험(뉴질랜드 토끼 8마리, 마리당 티타늄 실린더 4개, 8주·12주 희생): 두개관 within-animal 모델에서 Bio-Oss·Bone-Fill·Gen-Ox·혈병을 직접 비교.
+
+12주 시점 신생골(mm²): Bio-Oss 9.32 ≈ Bone-Fill 9.01 >> Gen-Ox 3.02 >> 혈병 0.63; Gen-Ox는 잔존 입자가 다량이고 신생골이 미미.
+
+"탈단백 우골 = 동등"이 아님 — 제조 공정(탈단백·소결 온도)에 따라 임상적으로 유의한 효능 격차가 존재.
 
 ## Summary
 Manfro 등(2013)은 뉴질랜드 토끼 8마리의 두개관에 동물 1마리당 4개의 티타늄 실린더를 식립하고 Bio-Oss·Bone-Fill·Gen-Ox·혈병을 무작위 배정한 뒤 8주·12주에 조직형태계측을 수행했다. Bone-Fill는 12주 시점에 Bio-Oss와 통계적으로 유사한 신생골을 형성했고, Gen-Ox는 두 시점 모두 신생골이 미미하고 잔존 입자가 다량 관찰됐다. "anorganic bovine bone" 표지만으로 동등성을 가정해서는 안 된다는 사실을 정량적으로 보였다.

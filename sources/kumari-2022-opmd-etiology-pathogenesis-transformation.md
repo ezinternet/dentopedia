@@ -13,13 +13,23 @@ source_collection: external
 
 Deepens the OPMD-pathogenesis layer behind the malignant-transformation rates in [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] and complements the clinical overview [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of OPMD etiology, molecular pathogenesis, and the dysplasia-to-carcinoma transformation pathway, emphasizing tobacco/areca/alcohol and microbial/HPV drivers plus diagnostic-prognostic techniques to predict malignant transformation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구강잠재악성질환(OPMD)의 병인·분자 발병기전·이형성→암 전환 경로를 다룬 내러티브 리뷰 — 담배/아레카/알코올·미생물·HPV 인자와 악성전환 예측 진단기법 강조.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

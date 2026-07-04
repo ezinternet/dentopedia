@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]]는 건성 발치와 **예방**(CHX)에 근거가 강하고 **치료**는 Alvogyl vs ZOE 1개 비교(매우 낮은 확실성)에 그쳤다. 본 Garola 2021 SR은 17편·39개 치료를 통증조절 기준으로 평가해 치료 옵션 지형을 채운다 — daly의 치료 공백을 보강.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (17 clinical trials, 39 AO treatments, 2010–2020): only 53.8% of treatments met the pain-control benchmark (VAS ≤4 by day 2, or ≥85% pain-free by day 7); successful options group into basic (intra-alveolar irrigation) and specific (Alveogyl, Neocones, SaliCept Patch, low-level laser, PRF); heterogeneity prevents ranking.
 
-## 한줄요약
+Systematic review (17 clinical trials, 39 AO treatments, 2010–2020): only 53.8% of treatments met the pain-control benchmark (VAS ≤4 by day 2, or ≥85% pain-free by day 7);
 
-체계적 문헌고찰(임상시험 17편, 건성 발치와 (Alveolar Osteitis, AO) 치료 39개, 2010–2020): 통증조절 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통)을 충족한 치료는 53.8%뿐. 성공 옵션은 기본(발치와 내 세척)과 특정(Alveogyl, Neocones, SaliCept Patch, 저출력 레이저 (LLLT), 혈소판농축섬유소 (Platelet-Rich Fibrin, PRF))으로 분류; 이질성으로 순위화 불가.
+successful options group into basic (intra-alveolar irrigation) and specific (Alveogyl, Neocones, SaliCept Patch, low-level laser, PRF);
+
+heterogeneity prevents ranking.
+
+## 세줄요약
+
+
+체계적 문헌고찰(임상시험 17편, 건성 발치와 (Alveolar Osteitis, AO) 치료 39개, 2010–2020): 통증조절 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통)을 충족한 치료는 53.8%뿐.
+
+성공 옵션은 기본(발치와 내 세척)과 특정(Alveogyl, Neocones, SaliCept Patch, 저출력 레이저 (LLLT), 혈소판농축섬유소 (Platelet-Rich Fibrin, PRF))으로 분류;
+
+이질성으로 순위화 불가.
 
 ## 1. Document Information
 

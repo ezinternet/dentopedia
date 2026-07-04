@@ -32,13 +32,21 @@ relations:
 > - 축5 골 drilling 열: 임계 47°C/1min·50°C/30s → osteonecrosis(Bertollo 2011); 충분한 saline irrigation·sharp bur·intermittent drilling. 의인성 하악 골절은 0.0033–0.075%로 드물지만 발생 시 중대.
 > - 확신도: 축1·2·4 [근거강함](SR+MA·NMA·prospective), 축3 [합의수준](narrative), 축5 [근거강함](고전 임계값).
 
-## One-line Summary
+## Three-line Summary
 
-Oral-surgery decision ladder synthesizing 22 `oral-surgery/` papers across 5 axes — third molars & inferior alveolar nerve (IAN), post-extraction complication reduction (PRF/antibiotics/LLLT/dry socket), hemostasis, deep neck infection, and bone-drilling thermal/reconstruction. Core thesis: extract third molars for absolute indications (recurrent pericoronitis, cyst, adjacent resorption) and use coronectomy for high IAN risk (IAN injury 0.59% vs full extraction); antibiotic prophylaxis is reserved for surgical/impacted extractions (NNT≈25, single preop amoxicillin 2g); PRF benefits early healing (2–3 mo) but equals natural healing by 6 months; hemostasis escalates suture+gauze → oxidized cellulose/gelatin → tranexamic acid → fibrin sealant; deep neck infections are ~43% odontogenic requiring airway vigilance + source control; drilling exceeding 47 °C/1 min risks osteonecrosis.
+Synthesis of 22 oral-surgery papers across 5 clinical axes — third molars + inferior alveolar nerve (IAN), post-extraction complication reduction, hemostasis, deep neck infection, and bone-drilling thermal biology: extract third molars for absolute indications (recurrent pericoronitis, cyst, adjacent tooth resorption) and use coronectomy for high IAN risk (IAN injury 0.59% with coronectomy vs significantly higher with full extraction; Cervera-Espert 2016 SR+MA; re-operation rate 5–12% is acceptable); antibiotic prophylaxis reduces dry socket and SSI risk but NNT≈25 — reserved for impacted/surgical extractions only (single preop amoxicillin 2g, Camps-Font 2024 NMA, 16 RCTs, n=2158).
 
-## 한줄요약
+PRF placed in the socket improves early outcomes (pain −66%, soft-tissue healing +75%, bone fill +85% at 2–3 months) but is equivalent to natural healing by 6 months (Al-Maawi 2021 SR, 20 studies); hemostasis escalates suture+30-min gauze → oxidized cellulose/gelatin sponge (85%+ control) → tranexamic acid 5% rinse (anticoagulant/multiple-extraction cases) → fibrin sealant (70–90%); LLLT moderately reduces post-extraction pain, swelling, and trismus (Gonzalez 2025 SR+MA).
 
-구강외과 5축 — 제3대구치 적응증·합병증·IAN 손상·관상절제술 · 발치 후 PRF/dry socket · 항생제·LLLT 합병증 감소 · 지혈 · 심경부 감염. Camps-Font 2024 NMA + Peixoto 2024 SR+MA + Bailey 2020 Cochrane spine.
+Deep neck infections are ~43% odontogenic (Gargava 2022), Ludwig's angina 24.66% of these, requiring first-line amoxicillin-clavulanate + airway vigilance + immediate dental source control; bone drilling exceeding 47°C/1 min risks osteonecrosis (Bertollo 2011 threshold) — mitigated by saline irrigation, sharp burs, and intermittent drilling.
+
+## 세줄요약
+
+구강외과 5축(제3대구치·IAN·관상절제술 / 발치후 PRF·dry socket / 항생제·LLLT 합병증 감소 / 지혈 / 심경부 감염·골 drilling) 22편 종합: 제3대구치는 절대 적응증(반복 치관주위염·낭종·인접치 흡수) 때 발치, IAN 고위험 시 관상절제술(Coronectomy) — IAN 손상률 0.59%(완전 발치 대비 유의 감소; Cervera-Espert 2016 SR+MA), 재수술률 5–12% 수용 가능; 항생제 예방은 dry socket·SSI 감소하나 NNT=25 → 매복·외과적 발치 한정(술전 amoxicillin 2g, Camps-Font 2024 NMA).
+
+PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 이후 자연치유와 동등(Al-Maawi 2021 SR, 20편); 지혈 ladder: 봉합+거즈 → 산화셀룰로오스/젤라틴 스폰지(85%+) → 트라넥사민산 5% 양치(항응고제·다중 발치) → 피브린 실란트(70–90%).
+
+심경부 감염의 42.66%가 치성(Gargava 2022) — 루드비히 협심증 24.66%; 1차 amoxicillin-clavulanate + 기도 관리 + 즉시 치과 원인 처치; 골 drilling 임계 47°C/1min(Bertollo 2011) 초과 시 골괴사(Osteonecrosis) 위험 → saline 관개·예리한 bur·간헐적 drilling 필수.
 
 ## Summary
 

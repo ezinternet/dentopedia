@@ -14,12 +14,21 @@ source_collection: external
 tags: [ISQ, RFA, sinus-lift, beta-TCP, hydroxyapatite, Astra-Tech, two-stage]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (92 patients, 170 Astra Tech OsseoSpeed implants, two-stage protocol): ISQ at 4 months post-placement was statistically equal between sinus-augmented (β-TCP or HA+β-TCP) and non-augmented native posterior maxilla (p=0.789), and graft material chemistry did not affect ISQ outcome.
+Prospective study (92 patients, 170 Astra Tech OsseoSpeed implants) using a two-stage protocol — 6-month sinus healing then implant placement — comparing ISQ at 4 months post-placement between augmented (β-TCP or HA+β-TCP) and native non-augmented posterior maxilla.
 
-## 한줄요약
-전향연구 (92명, 170 Astra Tech): 상악동거상(β-TCP/HA+β-TCP) 후 4mo ISQ = 비증대 자연골과 동등(p=0.789); 이식재 종류 무관
+ISQ at 4 months was statistically equal between augmented and native bone groups (p=0.789); neither β-TCP alone (p=0.697) nor HA+β-TCP (p=0.402) differed from controls, confirming graft chemistry did not affect ISQ outcome.
+
+A two-stage sinus-lift protocol equalizes the implant stability playing field by 4 months post-placement; graft material selection can be based on resorption profile and cost rather than anticipated ISQ differences.
+
+## 세줄요약
+
+전향 연구 (92명, 170 Astra Tech OsseoSpeed 임플란트): 2단계 프로토콜 (상악동거상 후 6개월 치유 → 임플란트 식립) — 식립 4개월 후 공명 주파수 분석 (Resonance Frequency Analysis, RFA) / 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 비교.
+
+증대군 (β-TCP/HA+β-TCP)과 비증대 자연골 후방 상악 간 4개월 ISQ 통계적으로 동등 (p=0.789); 이식재 종류별 차이 없음.
+
+2단계 프로토콜은 4개월 시점에 이식재 종류와 무관하게 자연골 수준 안정성에 도달하므로, 이식재 선택은 ISQ보다 흡수 속도·비용 기준으로 결정.
 
 ## Summary
 Prospective study, 92 patients, 170 Astra Tech OsseoSpeed implants. Two-stage protocol (6-mo healing then implant). **ISQ at 4 months post-placement statistically equal** between augmented (β-TCP or HA+β-TCP) and non-augmented posterior maxilla (p=0.789). Graft material choice doesn't affect ISQ outcome.

@@ -18,13 +18,21 @@ relations:
     target: katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective (n=301 patients, 505 implants, 10.6yr, University of Bern): ISPs with marginal gaps show significantly higher bone loss (DIB 3.43 vs 3.22 mm, P=.001); threshold ≥0.1 mm; each 0.1 mm gap → +0.08 mm bone loss; smoking and periodontitis are the strongest independent risk factors.
+Retrospective quantitative analysis (n=301 patients, 505 Straumann tissue-level implants placed 1997–2001; mean follow-up 10.6 years; University of Bern) evaluating whether marginal misfit in implant-supported fixed dental prostheses associates with peri-implant bone loss (DIB).
 
-## 한줄요약
+Implants with marginal gaps had significantly greater bone loss (DIB 3.43 vs 3.22 mm for no-gap; P=.001), with a dose-response: each 0.1 mm gap increase corresponded to +0.08 mm DIB (P=.03); threshold effect at ≥0.1 mm.
 
-후향 코호트 (n=505 임플란트, 10.6년): 변연 갭 있는 보철이 더 높은 골 소실 (DIB 3.43 vs 3.22 mm, P=.001); 임계값 ≥0.1 mm; 0.1 mm 갭 증가마다 DIB +0.08 mm; 흡연·치주병력이 최강 독립 위험인자.
+In multivariate mixed-effects models, GapDIM itself lost significance (P=.28) while smoking (+0.36 mm, P=.002) and periodontitis history (+0.16 mm, P=.001) emerged as the strongest independent predictors, suggesting misfit acts via a biological (biofilm retention/inflammation) rather than purely mechanical pathway.
+
+## 세줄요약
+
+후향 정량 분석 (n=301명, 505개 Straumann 조직수준 임플란트, 식립 1997–2001, 평균 추적 10.6년; 베른 대학): 임플란트 지지 고정 보철물 (Implant-Supported Prosthesis, ISP)의 변연 미스피트가 임플란트-골 계면 거리 (Distance from Implant to Bone, DIB) 에 미치는 영향 평가.
+
+변연 갭 있는 보철에서 유의하게 더 높은 골 소실 (DIB 3.43 vs 3.22 mm, P=.001); 용량-반응: 갭 0.1 mm 증가마다 DIB +0.08 mm (P=.03); 임계값 ≥0.1 mm.
+
+다변량 혼합효과 모델에서 GapDIM 비유의 (P=.28), 흡연 (+0.36 mm, P=.002)·치주염 병력 (+0.16 mm, P=.001) 이 최강 독립 예측인자 — 미스피트는 생물학적 경로 (세균 biofilm 저류 → 염증 → 골 소실) 로 작용하는 것으로 추정.
 
 ## Summary
 

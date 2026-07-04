@@ -10,7 +10,7 @@ pdf_filename: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 이탈리아 Padova/Naples 치과의사 설문 연구 (Antibiotics 2024): 치과 항생제 처방 행태 — 가이드라인 대비 과잉처방·부적절 적응 흔함; AMR 인식과 처방 행동 간 괴리. 스튜어드십 (stewardship) intervention 근거.
 
 ## 1. Document Information

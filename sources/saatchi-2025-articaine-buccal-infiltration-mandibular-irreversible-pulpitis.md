@@ -13,11 +13,21 @@ source_collection: external
 
 신설 local-anesthesia 카테고리. 비가역 치수염 마취 실패가 흔한 임상 난제 - BI가 IANB 대안인지에 대한 근거. [[overviews/drug-anesthesia-sedation-korean-guidelines-overview]] 보강.
 
-## One-line Summary
-SR+MA (5 RCTs) - 4% articaine buccal infiltration is comparable to 2% lidocaine IANB for mandibular first molars with symptomatic irreversible pulpitis (RR 1.06, 95%CI 0.93-1.20; moderate certainty).
+## Three-line Summary
 
-## 한줄요약
-SR+MA(5 RCT) - 증상성 비가역 치수염 하악 제1대구치에서 4% articaine 협측침윤이 2% lidocaine IANB와 동등(RR 1.06, 95%CI 0.93-1.20; moderate certainty).
+SR+MA (5 RCTs) - 4% articaine buccal infiltration is comparable to 2% lidocaine IANB for mandibular first molars with symptomatic irreversible pulpitis (RR 1.06, 95%CI 0.93-1.20;
+
+moderate certainty).
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA(5 RCT) - 증상성 비가역 치수염 하악 제1대구치에서 4% articaine 협측침윤이 2% lidocaine IANB와 동등(RR 1.06, 95%CI 0.93-1.20;
+
+moderate certainty).
+
+(incomplete)
 
 ## 1. Document Information
 Clinical Oral Investigations 2025;29:146 · Masoud Saatchi, Golshan Mohammadi, Pedram Iranmanesh, Abbasali Khademi, Alireza Farhad, Vivek Aggarwal, Jafar Kolahi · 2025 · DOI: 10.1007/s00784-025-06229-0. Study type: sr+ma.

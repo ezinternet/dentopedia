@@ -17,13 +17,23 @@ text_filename: bhate-2025-cat-maxillary-molar-distalization-class-ii-sr.txt
 
 `clear-aligner` sweep 예측가능성 축의 **정량 데이터** 보강. [[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] 의 질적 결론(앵커리지 보강 필요)에 achieved/predicted % 수치를 붙임. PMC OA 전문.
 
-## One-line Summary
+## Three-line Summary
 
-SR (11 studies, n=278, all Invisalign): clear aligners achieve maxillary molar distalization up to ~2 mm with good accuracy; achieved-vs-predicted was 36-75% (M6), 42-72% (M7), derotation 63-78%; moderate-quality, mostly retrospective evidence.
+Systematic review (11 studies, n=278, all Invisalign, PROSPERO CRD42024531205) examining clear aligner therapy for maxillary molar distalization in Class II malocclusion; 8 retrospective and 3 prospective studies included; no meta-analysis due to heterogeneity.
 
-## 한줄요약
+Clear aligners achieved maxillary molar distalization up to ~2.54 mm; achieved-vs-predicted efficiency: first molar (M6) 36–75.5%, second molar (M7) 42–72.2%, derotation 62.7–77.5%; attachments and microimplant anchorage used to limit anchorage loss.
 
-SR(11편, n=278, 전부 Invisalign): 투명교정으로 상악 대구치 distalization 최대 약 2 mm 양호한 정확도. 달성/예측 = 제1대구치 36-75%, 제2대구치 42-72%, derotation 63-78%. 근거 moderate, 대부분 후향적.
+Evidence rated moderate quality (AHRQ); mostly retrospective, small samples, no adequate controls; RCTs with standardized outcome measurement are needed.
+
+## 세줄요약
+
+체계적 문헌고찰(11편, n=278, 전부 Invisalign, PROSPERO 등록) — 투명 교정 치료(Clear Aligner Therapy, CAT)의 Class II 상악 대구치 원심 이동(Distalization) 효과; 후향적 8편·전향적 3편; 이질성으로 메타분석 불가.
+
+상악 대구치 원심 이동 최대 약 2.54 mm; 달성/예측 효율: 제1대구치(M6) 36–75.5%, 제2대구치(M7) 42–72.2%, 회전 교정(Derotation) 62.7–77.5%; 앵커리지 소실 제한을 위해 어태치먼트 및 미니임플란트 사용.
+
+근거 등급 moderate (AHRQ); 대부분 후향적·소규모·비적절 대조군; 표준화된 결과 측정을 갖춘 RCT 필요.
+
+## 1. Document Information
 
 ## 1. Document Information
 

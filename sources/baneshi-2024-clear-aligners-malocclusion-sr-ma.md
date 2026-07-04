@@ -16,13 +16,21 @@ text_filename: baneshi-2024-clear-aligners-malocclusion-sr-ma.txt
 
 `clear-aligner` sweep efficacy 축의 **RCT-only 정량 앵커**. umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 의 "차이 없음(경중등도)" 결론을 RCT 21편 메타분석 수치로 뒷받침하고 치주·QoL 효과크기를 제공. paywall이라 abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 21 RCTs (n=970): no significant difference between clear aligners and fixed appliances in occlusal outcome (ABO/LII/PAR) for simple non-extraction malocclusions; CA significantly better on plaque/gingival/bleeding indices and 6-month QoL; evidence quality low-to-moderate.
+SR+MA of 21 RCTs (n=970) comparing clear aligners vs fixed appliances in simple non-extraction malocclusions; RoB-2 applied; evidence quality low-to-moderate.
 
-## 한줄요약
+No significant difference in occlusal outcomes (ABO-OGS, LII, PAR); CA significantly better on plaque index (MD −0.76), gingival index (MD −0.61), bleeding index (MD −0.71), and 6-month QoL (MD −4.37).
 
-RCT 21편 SR+MA(n=970): 단순 비발치 부정교합에서 교합결과(ABO/LII/PAR)는 CA vs FA 차이 없음. 치태·치은·출혈지수와 6개월 QoL은 CA 유의 우위. 근거수준 low~moderate.
+CA is equivalent to fixed appliances for occlusal correction in simple malocclusions and shows a consistent periodontal/QoL advantage, but the evidence is limited to non-extraction cases and most RCTs carry unclear risk of bias.
+
+## 세줄요약
+
+RCT 21편 SR+MA(n=970) — 단순 비발치 부정교합에서 CA vs FA를 비교; RoB-2 적용; 근거수준 low~moderate.
+
+교합결과(ABO/LII/PAR)는 군간 유의차 없음; CA는 치태지수(MD −0.76)·치은지수(MD −0.61)·출혈지수(MD −0.71)·6개월 QoL(MD −4.37) 모두 유의하게 우월.
+
+단순 비발치 부정교합에서 CA는 교합 효과가 동등하고 치주·QoL 이점이 있으나, 복잡·발치 증례로의 일반화는 제한되며 대부분 RCT의 비뚤림 위험이 불명확하다.
 
 ## 1. Document Information
 

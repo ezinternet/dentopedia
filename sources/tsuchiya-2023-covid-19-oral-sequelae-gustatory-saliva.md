@@ -17,13 +17,23 @@ text_filename: tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva.txt
 
 미각상실(taste loss/dysgeusia)과 침분비저하(hyposalivation/xerostomia)를 동시에 다루는 논문 요청에 대응. 기존 [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]]는 xerostomia가 치과치료 결과(보철·임플란트)에 미치는 영향을 다루지만, 두 증상이 **함께 발생하는 기전**(공통 병태생리)을 다룬 페이지는 없었다. 본 narrative review(Tsuchiya 2023)는 미각장애와 타액분비장애가 ACE2/TRPV1 수용체 발현 및 아연결핍이라는 공통 기전으로 동시 발생·지속됨을 제시해 공백을 메운다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (bibliographic synthesis of ~90+ studies, >65,000 COVID-19 patients/survivors combined) finding gustatory dysfunction (ageusia/dysgeusia) persists in 1–45% and saliva secretory dysfunction (xerostomia/hyposalivation) in 2–40% of COVID-19 survivors at 3-week–12-month follow-up, with the two symptoms correlated and pathogenically linked via ACE2/TRPV1 receptor expression in taste buds/salivary glands and SARS-CoV-2-induced zinc deficiency.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰(약 90편 이상의 연구, 코로나19 환자·완치자 총 6만5천여 명 종합) — 미각장애(ageusia/dysgeusia)는 완치 후 3주~12개월 추적에서 1~45%, 타액분비장애(xerostomia/hyposalivation)는 2~40%에서 지속되며, 두 증상은 서로 상관관계가 있고 타액선·미뢰의 ACE2/TRPV1 수용체 발현과 SARS-CoV-2 감염 유발 아연결핍이라는 공통 기전으로 설명됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

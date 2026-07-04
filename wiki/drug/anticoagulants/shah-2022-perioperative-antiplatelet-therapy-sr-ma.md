@@ -14,11 +14,19 @@ source_collection: external
 tags: [antiplatelet, aspirin, perioperative, SR-MA, bleeding, thromboembolism, ACCP, guideline-supporting, GRADE]
 ---
 
-## One-line Summary
-SR+MA supporting the ACCP CHEST guideline (Shah/Murad 2022): in non-cardiac surgery patients on long-term antiplatelet therapy, short vs long interruption showed no significant bleeding difference (low COE); continuing aspirin vs placebo: major bleeding RR 1.31 (high COE) and thromboembolism RR 0.74 — quantifying the trade-off.
+## Three-line Summary
+SR+MA commissioned to support the ACCP CHEST guideline on perioperative antiplatelet therapy management in non-cardiac surgery patients on long-term antiplatelet therapy; literature search through July 2020.
 
-## 한줄요약
-ACCP CHEST 가이드라인 지지 SR+MA (Shah/Murad 2022): 장기 항혈소판제 (APT) 환자 비심장 수술 — 단기/장기 중단 간 주요 출혈 차이 NS (low COE); aspirin 지속 시 위약 대비 주요 출혈 RR 1.31 (high COE) + 혈전색전증 RR 0.74 — trade-off 정량화.
+Continuing aspirin vs placebo: major bleeding RR 1.31 (95% CI 1.15–1.50, high certainty) with major thromboembolism RR 0.74 (high certainty) — quantifying the bilateral trade-off; short vs long interruption: no significant bleeding difference (low certainty evidence).
+
+The aspirin continuation decision is patient-specific (secondary-prevention indication, surgical bleeding risk, stent timing); for dental extraction specifically, cohort data consistently support non-interruption with local hemostasis since dental bleeding is recoverable.
+
+## 세줄요약
+ACCP CHEST 가이드라인 지원 SR+MA: 비심장 수술 장기 항혈소판제 환자 수술 전후 관리; 2020년 7월까지 문헌 검색.
+
+아스피린 지속 vs 위약: 주요 출혈 RR 1.31(95% CI 1.15–1.50, 높은 근거확실성), 주요 혈전색전증 RR 0.74(높은 근거확실성) — 양방향 trade-off 정량화; 단기/장기 중단 비교: 주요 출혈 차이 없음(낮은 근거확실성).
+
+아스피린 지속 결정은 환자별(2차예방 여부·수술 출혈 위험·스텐트 시술 기간)로 개별화; 치과 발치는 출혈 회복 가능하므로 코호트 근거상 비중단+국소 지혈 지지.
 
 ## Summary
 Systematic review + meta-analysis commissioned to support the ACCP CHEST guideline on perioperative APT management. Literature search through July 2020 across MEDLINE, EMBASE, Scopus, and Cochrane.

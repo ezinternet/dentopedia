@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (n=90 Mongoloid subjects) reporting incisive canal mean length 16.33 mm and width 3.85 mm, with males having significantly larger canals and thicker anterior maxillary bone, and anterior bone thinning with age even in dentate patients.
+CBCT cross-sectional study (n=90 Mongoloid subjects, PLoS ONE 2015) measuring incisive canal (IC), incisive foramen (IF), and anterior maxillary bone thickness to establish ethnic normative data for anterior maxillary immediate implant planning.
 
-## 한줄요약
+IC mean length was 16.33 mm and mid-canal width 3.85 mm; males had significantly larger IC and anterior bone thickness, while anterior bone thinned with age (p<0.05) even in dentate subjects, leaving females and older patients at highest palatally-angled implant-to-IC encroachment risk.
 
-CBCT 횡단면 연구(n=90 몽골로이드): 절치관 평균 길이 16.33mm·폭 3.85mm 정량화; 남성이 유의하게 더 큰 IC 및 전방골 두께, 나이 들수록 전방골 두께 감소(치아 있어도) — 상악 전치부 즉시식립 시 IC 침범 위험 평가 근거.
+Mongoloid patients show a longer, more slanted-curved IC than Western norms, meaning standard Caucasian-derived planning thresholds may underestimate IC perforation risk; the 7.63 mm mean anterior bone provides a practical safety-margin benchmark.
+
+## 세줄요약
+
+CBCT 횡단면 연구(n=90 몽골로이드, PLoS ONE 2015): 절치관(Incisive Canal, IC) 평균 길이 16.33 mm·중간 폭 3.85 mm, 상악 전방골 두께 7.63 mm를 정량화한 민족별 규범 데이터.
+
+남성이 유의하게 더 큰 IC 및 전방골 두께; 나이 들수록 전방골 두께 감소(p<0.05, 치아 있어도); 여성·고령 환자가 구개측 경사 식립 시 IC 침범 위험 가장 높음.
+
+서양 규범보다 길고 경사-만곡된 IC 형태를 가져, 표준 기준을 아시아 환자에 그대로 적용하면 IC 천공 위험을 과소평가할 수 있다.
 
 ## Summary
 

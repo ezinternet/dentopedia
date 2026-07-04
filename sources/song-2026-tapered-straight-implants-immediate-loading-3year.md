@@ -17,13 +17,23 @@ text_filename: song-2026-tapered-straight-implants-immediate-loading-3year.txt
 
 The wiki holds insertion torque thresholds (≥30 Ncm for immediate loading) discussed in [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] and [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]], but has no RCT directly comparing implant macro-design (tapered vs straight) on immediate loading success over 3 years. This Yonsei RCT is the first head-to-head trial of this design question in the posterior dentition, providing long-term data on whether tapered self-tapping design confers durable advantage beyond primary stability.
 
-## One-line Summary
+## Three-line Summary
 
-3-year follow-up RCT (n=28 patients, 61 implants): tapered implants showed numerically higher patient-level survival (95.8% vs 78.3%, NS) and fewer composite protocol failures vs straight implants for immediate loading in posterior jaws; MBL was minimal and equivalent between groups.
 
-## 한줄요약
+3-year follow-up RCT (n=28 patients, 61 implants): tapered implants showed numerically higher patient-level survival (95.8% vs 78.3%, NS) and fewer composite protocol failures vs straight implants for immediate loading in posterior jaws;
 
-3년 추적 RCT (28명, 61개): 테이퍼 임플란트는 즉시 부하 성공률에서 직선형보다 우위(프로토콜 실패 4 vs 13개), 생존율 차이는 비유의적(환자 수준 95.8% vs 78.3%); 변연골 소실은 양군 모두 1mm 미만으로 유의차 없음.
+MBL was minimal and equivalent between groups.
+
+(incomplete)
+
+## 세줄요약
+
+
+3년 추적 RCT (28명, 61개): 테이퍼 임플란트는 즉시 부하 성공률에서 직선형보다 우위(프로토콜 실패 4 vs 13개), 생존율 차이는 비유의적(환자 수준 95.8% vs 78.3%);
+
+변연골 소실은 양군 모두 1mm 미만으로 유의차 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

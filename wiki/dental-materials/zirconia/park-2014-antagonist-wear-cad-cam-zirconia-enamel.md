@@ -13,11 +13,19 @@ source_collection: external
 tags: [zirconia, CAD-CAM, enamel-wear, antagonist-wear, glazing, polishing, Y-TZP, wear-testing]
 ---
 
-## One-line Summary
-In vitro wear study (J Prosthet Dent 2014; 3 CAD/CAM Y-TZP ceramics ± stain/glaze + feldspathic, 240,000 masticatory cycles vs human enamel): polished zirconia caused the least antagonist enamel wear (1.11 mm³), stained+glazed zirconia the most among zirconia groups (3.07 mm³), and feldspathic ceramic the most overall; surface roughness predicted wear.
+## Three-line Summary
+In vitro wear study (J Prosthet Dent 2014) compared 3 CAD/CAM Y-TZP ceramics (polished, stained, stained+glazed) and feldspathic ceramic against human enamel over 240,000 masticatory cycles.
 
-## 한줄요약
-in-vitro(J Prosthet Dent 2014): CAD/CAM Zr 3종 ± 착색/유약, 240,000사이클 — 연마 Zr: 최소 대합치 마모(1.11mm³); 착색+유약 Zr: 최대(3.07mm³); 장석도재: 전체 최대; 표면조도=마모 예측인자.
+Polished zirconia caused the least antagonist enamel wear (1.11 mm³) while stained+glazed zirconia produced the most wear among zirconia groups (3.07 mm³); feldspathic ceramic caused the greatest overall enamel loss; surface roughness was the primary predictor of wear.
+
+Clinically, avoiding staining+glazing and instead polishing zirconia restorations minimizes antagonist enamel wear; SEM confirmed that staining+glazing increases surface roughness significantly (p<0.01).
+
+## 세줄요약
+in-vitro 마모 연구(J Prosthet Dent 2014): CAD/CAM Y-TZP 3종(연마·착색·착색+유약) 및 장석도재를 사람 에나멜 대합치로 240,000사이클 마모 비교.
+
+연마 지르코니아 최소 대합치 마모(1.11 mm³), 착색+유약 지르코니아가 지르코니아군 중 최대(3.07 mm³), 장석도재가 전체 최대; 표면조도가 마모의 주요 예측인자.
+
+착색+유약 처리는 표면조도를 유의하게 증가시키므로(p<0.01) 임상적으로 연마 마감을 선호해야 하며, 에나멜 보존을 위한 지르코니아 연마가 권장된다.
 
 ## Summary
 In vitro wear study comparing 3 CAD/CAM Y-TZP ceramics (polished, stained, stained+glazed) and feldspathic ceramic against human enamel (240,000 masticatory cycles). Confirms polished zirconia causes minimal enamel wear; glazing significantly increases wear.

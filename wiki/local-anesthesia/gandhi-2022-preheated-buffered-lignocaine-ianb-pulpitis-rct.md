@@ -19,13 +19,21 @@ relations:
     target: kalra-2024-buffered-lidocaine-articaine-extraction-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=252 enrolled, 241 analyzed), mandibular SIP IANB: both preheated (42°C) and buffered (8.4% NaHCO3) 2% lignocaine cut intraoperative VAS far more than conventional (post-op VAS 1.59 and 1.69 vs 3.54, p<0.001) and were equivalent to each other (p=0.183); preheated gave the least injection pain (VAS 1.35 vs buffered 2.08 vs conventional 3.19, all pairwise p<0.001).
+Double-blind RCT (n=252 enrolled, 241 analyzed; 18–60 y) of mandibular inferior alveolar nerve block (IANB) in symptomatic irreversible pulpitis (SIP): preheated (42°C) vs buffered (8.4% NaHCO₃) vs conventional 2% lignocaine.
 
-## 한줄요약
+Both preheated and buffered lignocaine cut intraoperative VAS significantly more than conventional (1.59 and 1.69 vs 3.54, p<0.001) and were equivalent to each other (mean diff 0.51, p=0.183); preheated gave the least injection pain (VAS 1.35 vs buffered 2.08 vs conventional 3.19, all pairwise p<0.001).
 
-이중맹검 RCT (등록 252명, 분석 241명), 하악 SIP IANB: preheated(42°C)·buffered(8.4% 중탄산나트륨) 2% 리그노카인 모두 conventional보다 술중 VAS 크게 감소(술후 VAS 1.59·1.69 vs 3.54, p<0.001), 서로는 동등(p=0.183); 주사 통증은 preheated가 최소(VAS 1.35 vs buffered 2.08 vs conventional 3.19, 모든 쌍 p<0.001).
+For SIP hot-tooth IANB, preheating and buffering are interchangeable for pulpal anesthesia quality — choose by available equipment; preheating is preferred if injection comfort is the priority.
+
+## 세줄요약
+
+이중맹검 RCT(등록 252명, 분석 241명, 18–60세): 하악 증상성 비가역성 치수염(Symptomatic Irreversible Pulpitis, SIP) IANB — preheated(42°C) vs buffered(8.4% 중탄산나트륨, NaHCO₃) vs conventional 2% 리그노카인 비교.
+
+Preheated·buffered 모두 conventional 대비 술중 VAS 유의하게 감소(1.59·1.69 vs 3.54, p<0.001)하고 두 군 간 동등(평균 차이 0.51, p=0.183); 주사 통증: preheated(1.35) < buffered(2.08) < conventional(3.19), 모든 쌍 p<0.001.
+
+SIP hot-tooth IANB에서 preheating과 buffering은 마취 질에서 상호 대체 가능 — 장비 여건에 따라 선택; 주사 불편 최소화 우선이면 preheating 선호.
 
 ## Summary
 

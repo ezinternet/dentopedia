@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, densah, primary-stability, narrative-review, low-density-bone]
 ---
 
-## One-line Summary
-Narrative review (JCDR 2018) introducing the concept and rationale of osseodensification (OD): counterclockwise-rotating multi-fluted Densah burs compact and autograft bone rather than cutting it, with the cited inventor data showing insertion torque ~49 Ncm (OD) vs ~25 Ncm (conventional drilling) in low-density bone; a conceptual primer, not a formal evidence synthesis.
+## Three-line Summary
 
-## 한줄요약
-서술적 종설 (narrative review) — 골밀도화 (Osseodensification, OD)의 개념을 정리: 다중날 (multi-fluted) Densah 버 (bur)를 반시계방향으로 회전시켜 골 (bone)을 절삭하지 않고 압축·자가이식 (autograft)하며, 저밀도 골에서 삽입 토크 (Insertion Torque, IT)가 약 49 Ncm로 일반 드릴링의 약 25 Ncm 대비 상승했다고 보고. 임상 적용 한계: 발명자(Huwais) 측 연구·인용에 크게 의존하고 정형 systematic review가 아니므로 정량적 효과 크기는 후속 메타분석 (Meta-Analysis)으로 보완 필요.
+Narrative review (JCDR 2018): accessible conceptual introduction to osseodensification (OD) as developed by Huwais — counterclockwise multi-fluted Densah burs compact and autograft bone rather than cut it, improving primary stability in low-density bone.
+
+Cited insertion torque ~49 Ncm (OD) vs ~25 Ncm (conventional drilling) in low-density bone (Huwais data); Trisi sheep iliac-crest: 30% increase in bone volume; Lahens et al.: improved primary stability and 6-week BIC; spring-back/elastic-recovery mechanism produces interference fit smaller than the bur diameter.
+
+Useful clinical "why" primer for the OD concept; no systematic search or quality appraisal; heavily dependent on inventor (Huwais) citations — for quantitative evidence, prefer the subsequent SR+MAs (Gaikwad 2022, Gaspar 2022, Lima Monteiro 2024, Kalra 2025).
+
+## 세줄요약
+
+서술적 종설 (JCDR 2018): Huwais가 개발한 골밀도화(OD)의 개념적 입문서 — 반시계방향 다중날 Densah 버가 골을 절삭하지 않고 압축·자가이식하여 저밀도골에서 1차 안정성 향상.
+
+인용 삽입 토크 ~49 Ncm (OD) vs ~25 Ncm (통상 drilling, 저밀도골; Huwais 데이터); Trisi 양 장골능: 골부피 30% 증가; Lahens 등: 1차 안정성 및 6주 BIC 개선; spring-back 메커니즘으로 골삭제 직경 < 버 직경 → 압입적합(interference fit).
+
+OD 개념의 임상적 '왜'를 이해하는 데 유용; 체계적 검색·질 평가 없음; 발명자(Huwais) 인용 의존 — 정량 근거는 이후 SR+MA(Gaikwad 2022, Gaspar 2022, Lima Monteiro 2024, Kalra 2025) 참조.
 
 ## Summary
 Kanathila and Pangi's 2018 review in JCDR is an accessible conceptual introduction to osseodensification (OD), the non-extraction osteotomy technique developed by Salah Huwais. The article explains how specially designed tapered, multi-fluted Densah burs rotate counterclockwise to compact rather than excavate bone, autografting the displaced bone debris into the walls of the osteotomy. The mechanistic claim is that this dense, autografted peri-osteotomy zone provides both immediate mechanical interlock (primary stability) and a richer biological matrix for subsequent osseointegration (secondary stability).

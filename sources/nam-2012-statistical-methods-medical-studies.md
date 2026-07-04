@@ -9,7 +9,7 @@ pdf_filename: nam-2012-statistical-methods-medical-studies.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Korean-language Continuing Education Column (J Korean Med Assoc 2012;55:573-581) by Yonsei biostatistics faculty walking through which statistical test fits which study design — t-test, ANOVA, non-parametric, chi-square, log-rank, multiple/logistic/Cox regression — through hypothetical examples.
 
 ## 1. Document Information

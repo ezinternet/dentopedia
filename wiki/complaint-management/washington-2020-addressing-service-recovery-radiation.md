@@ -13,11 +13,19 @@ source_collection: external
 tags: [response, service-recovery, management]
 ---
 
-## One-line Summary
-Mixed-methods project brief on radiation-oncology frontline managers, finding service recovery requires consistent measurement, feedback, and recurring leadership training.
+## Three-line Summary
+Explanatory-sequential mixed-methods project brief (radiation-oncology frontline managers, single institution) using surveys, document review, and interviews to examine service recovery capability.
 
-## 한줄요약
-방사선종양학 일선 관리자 대상 혼합방법 프로젝트 — 서비스 리커버리에는 일관된 측정·피드백·반복 리더십 교육이 필요함을 확인.
+Effective service recovery required three enablers — consistent performance measurement, structured feedback loops, and frequent leadership training on its relevance; gaps in any single enabler undermined active patient-dissatisfaction handling.
+
+Clinical implication: service recovery is a trainable organisational capability, not ad hoc damage control — periodic leadership training cycles are the key leverage point for sustained improvement.
+
+## 세줄요약
+방사선종양학 일선 관리자 대상 단일기관 설문·문서검토·인터뷰 혼합방법 연구 — 서비스 리커버리 역량에 영향하는 요인을 탐색.
+
+효과적 서비스 리커버리의 3대 조건: ① 일관된 성과 측정, ② 구조화된 피드백, ③ 리더십 교육의 정기적 반복 — 어느 하나가 부재해도 불만 환자 적극 대응이 무너졌다.
+
+임상 시사: 서비스 리커버리는 우연에 맡길 사안이 아니라 교육 가능한 조직 역량이며, 지속 개선의 핵심 레버는 주기적 리더십 교육 사이클이다.
 
 ## Summary
 Washington, Benvengo and Lynch examined how radiation-oncology frontline managers practise service recovery -- actively addressing patient dissatisfaction to salvage the experience -- using surveys, document review, and interviews. They found effective service recovery hinges on consistent performance measurement, feedback, and frequent leadership training on why service recovery matters. The brief positions service recovery as a manageable, trainable organisational capability rather than ad hoc damage control.

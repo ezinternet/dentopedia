@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 구강백반증 (Oral Leukoplakia, OL) 수술적 치료 후 재발률과 재발-악성변환 관계를 다루는 최신 SR+MA. 기존 [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]]가 MT 발생률에 초점을 맞춘 반면, 이 논문은 재발률과 수술 방법 비교에 특화되어 의사결정에 상호보완적.
 
-## One-line Summary
-SR+MA of 80 studies (n=7,614): pooled OL recurrence after surgery = 22%; laser excision+vaporization combination was the best surgical modality; recurrent OL carries 7.39× higher malignant transformation risk.
+## Three-line Summary
 
-## 한줄요약
-80개 연구 메타분석(n=7,614): 구강백반증 수술 후 재발률 22%; 레이저 절제+기화 복합술이 최적; 재발 병변은 비재발 대비 악성변환 위험 7.39배.
+SR+MA of 80 studies (n=7,614): pooled OL recurrence after surgery = 22%;
+
+laser excision+vaporization combination was the best surgical modality;
+
+recurrent OL carries 7.39× higher malignant transformation risk.
+
+## 세줄요약
+
+80개 연구 메타분석(n=7,614): 구강백반증 수술 후 재발률 22%;
+
+레이저 절제+기화 복합술이 최적;
+
+재발 병변은 비재발 대비 악성변환 위험 7.39배.
 
 ## 1. Document Information
 - Journal: Journal of Dental Research, 2024, Vol. 103(11): 1066–1075

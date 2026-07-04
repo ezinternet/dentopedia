@@ -13,11 +13,21 @@ source_collection: external
 tags: [tmd, myogenous-tmd, myalgia, myofascial-pain, trigger-point, dc-tmd, diagnosis, treatment, bruxism, central-sensitization]
 ---
 
-## One-line Summary
-Clinical update review (Diagnostics 2022): myogenous TMD (45% of all TMDs) — DC/TMD subtypes (myalgia/tendonitis/myositis/spasm), trigger-point clinical diagnosis, multidisciplinary treatment from conservative to BTX/dry-needling.
+## Three-line Summary
 
-## 한줄요약
-임상 업데이트 (2022): 근육형 TMD (전체 TMD의 45%) — DC/TMD 분류·트리거포인트 진단; 보존적~BTX·건침 다학제 치료.
+Narrative clinical update review (Diagnostics 2022) on myogenous TMD (M-TMD), the most common TMD subtype (45.3% of all cases), covering DC/TMD classification, palpation-based diagnosis, and multidisciplinary treatment.
+
+DC/TMD muscle subtypes (local myalgia, myofascial pain, myofascial pain with referral, tendonitis, myositis, spasm) are diagnosed by 1 kg × 5 sec palpation to elicit referral patterns; bruxism shows a positive EMG correlation with myofascial pain; COVID-19-related stress is linked to TMD exacerbation; central sensitization drives chronic M-TMD.
+
+A stepwise multidisciplinary approach is recommended: conservative (PT, splint, pharmacotherapy) → minimally invasive (trigger point injection, dry needling, BTX) → LLLT/ultrasound/TENS as adjuncts, with psychological component for chronic cases.
+
+## 세줄요약
+
+전체 TMD의 45.3%를 차지하는 근육형 악관절증(M-TMD)의 DC/TMD 분류·촉진 기반 진단·다학제 치료를 다룬 서술적 임상 업데이트 리뷰 (Diagnostics 2022).
+
+근육 아형(국소 근육통, 근막통증, 방사형 근막통증, 건염, 근염, 경련)은 1 kg×5초 촉진으로 방사 패턴 유발해 진단; 브럭시즘과 근막통 양의 EMG 상관; COVID-19 스트레스가 TMD 악화와 연관; 만성화는 중추감작이 기전.
+
+단계적 다학제 치료 권고: 보존적(물리치료·스플린트·약물) → 최소침습(트리거 포인트 주사·건침·보툴리눔독소) → LLLT·초음파·TENS 보조, 만성례는 심리적 요소 포함.
 
 ## Summary
 Clinical update review focusing specifically on myogenous TMD (M-TMD), the most common TMD subtype (45.3% of all cases). Reviews the 2014 DC/TMD muscle classification, which distinguishes four muscle disorders (myalgia, tendonitis, myositis, spasm) and three myalgia subtypes (local myalgia, myofascial pain, myofascial pain with referral). Diagnosis relies on history, palpation (1 kg × 5 sec to allow referral patterns to emerge), and pain replication. Treatment ranges from conservative (PT, splint, pharmacotherapy) to minimally invasive (trigger point injection, dry needling, BTX, LLLT). Central sensitization and psychosocial comorbidities are emphasized.

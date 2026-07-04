@@ -13,13 +13,23 @@ source_collection: external
 
 사용자 요청 — 임플란트 유지관리 논문 감시·인제스트. SPiT의 핵심 메커니즘은 "측정→재발 조기 발견→recall 주기 조정"인데, [[wiki/implants/peri-implantitis/mojaver-2025-supportive-peri-implant-therapy-efficacy-sr]]가 *효과*를, [[wiki/implants/peri-implantitis/lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care]]가 *빈도*를 다룬다면 본 리뷰(Periodontol 2000)는 유지관리 방문에서 *무엇을 측정하는가* — probing, BoP, 방사선, biomarker, RFA, 초음파 — 를 다뤄 유지관리 클러스터의 진단 축을 채움.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (Periodontology 2000, 27 pages) comprehensively cataloguing diagnostic measures — periodontal and peri-implant probing, bleeding on probing, intraoral radiography, crevicular/salivary biomarkers, microbiology, resonance frequency analysis (ISQ), ultrasound — alongside patient compliance data, periodontal/peri-implant stability criteria, the SPT interval algorithm (perio-tools.com/spt), and the PRA/IDRA risk tools, framed around lifelong follow-up after active treatment.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰(Periodontology 2000, 27쪽) — 치주·임플란트 평생 유지관리의 진단 도구 전체(탐침·BoP·방사선·바이오마커·미생물 검사·RFA·초음파)와 환자 순응도 데이터, 안정성 기준, SPT 주기 계산 알고리즘(perio-tools.com/spt), PRA·IDRA 위험도 평가 도구를 통합 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

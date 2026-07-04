@@ -9,7 +9,7 @@ pdf_filename: shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 1차 쇼그렌증후군(pSS) 2016 ACR-EULAR 분류기준: 3개 국제 코호트 데이터 기반 최신 합의 기준.
 
 ## 1. Document Information

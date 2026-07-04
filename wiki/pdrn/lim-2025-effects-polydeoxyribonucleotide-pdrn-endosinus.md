@@ -13,11 +13,21 @@ source_collection: external
 tags: [pdrn, sinus-lift, bone-regeneration, animal, rabbit, time-course]
 ---
 
-## One-line Summary
-Rabbit pilot (n=18, bilateral SFE): PDRN-soaked (2.0 mg/mL, 0.5 mL) collagenated bone substitute increased newly formed bone area at all timepoints, significant only at 4 weeks — a mid-healing time window.
+## Three-line Summary
 
-## 한줄요약
-토끼 18마리 양측 상악동저거상술. PDRN(2.0 mg/mL) soaking graft가 2/4/8주 신생골 면적이 대조군보다 컸으나 유의는 4주에서만 — 효과가 치유 중기에 집중.
+Pilot in vivo study (18 New Zealand white rabbits, bilateral sinus floor elevation, split-sinus randomization to collagenated bone substitute soaked in PDRN 2.0 mg/mL / 0.5 mL vs graft-only control; sacrifice at 2, 4, and 8 weeks).
+
+Newly formed bone area was numerically higher in the PDRN group at all timepoints (2w: 1.4 vs 1.2 mm; 4w: 3.4 vs 1.9 mm; 8w: 5.7 vs 4.5 mm) and reached statistical significance only at 4 weeks; micro-CT mineralized tissue volume was significantly greater at 4–8 weeks.
+
+PDRN's preclinical sinus-augmentation benefit concentrates in a mid-healing window (~4 weeks), with the gap narrowing by 8 weeks as both groups mature — consistent with the early-acceleration pattern across sinus and socket PDRN studies.
+
+## 세줄요약
+
+줄1: New Zealand white rabbit 18마리의 양측 상악동저거상술에 PDRN 2.0 mg/mL/0.5 mL 침지 collagenated bone substitute vs 대조군을 split-sinus 무작위 배정, 2/4/8주 희생 pilot 연구.
+
+줄2: PDRN군의 신생골 면적이 모든 시점에서 수치상 높았으나 통계적 유의성은 4주에서만 확인(3.4 vs 1.9 mm); micro-CT 광화 조직 부피는 4–8주 구간에서 유의하게 더 큼.
+
+줄3: 전임상 상악동 증대에서 PDRN 효과는 치유 중기(~4주)에 집중되며 8주에는 두 군이 수렴 — sinus·socket 전반의 초기 가속 패턴과 일관.
 
 ## Summary
 Eighteen New Zealand white rabbits underwent bilateral sinus floor elevation, randomized split-sinus to PDRN-soaked collagenated bone substitute (2.0 mg/mL, 0.5 mL) versus graft alone, sacrificed at 2/4/8 weeks. Newly formed bone area favored PDRN at every timepoint but reached significance only at 4 weeks (3.4 vs 1.9 mm median). By 8 weeks both groups matured and the gap narrowed. The effect is therefore an early-to-mid acceleration rather than a higher endpoint bone mass — consistent with the early-bone-formation signal seen elsewhere.

@@ -9,8 +9,21 @@ pdf_filename: altarawneh-2018-bone-dimensions-anterior-maxilla-cbct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective CBCT study assessing buccal and palatal bone dimensions on anterior maxillary teeth. Confirms majority of buccal plates are <1 mm thick at multiple apicocoronal levels.
+## Three-line Summary
+
+Retrospective cross-sectional CBCT study (anterior maxillary canine-to-canine; single center, Jordan; Journal of Prosthodontics 2018) measuring buccal and palatal bone thickness at multiple apicocoronal levels in a Middle Eastern population.
+
+Buccal plate thickness was <1 mm in the majority of teeth measured at multiple levels; palatal bone was generally thicker; statistically significant variation was found by tooth position.
+
+Confirms that immediate implant placement in the anterior maxilla typically encounters a thin buccal plate; single-center design and CBCT voxel-size limitations reduce sub-millimeter precision.
+
+## 세줄요약
+
+후향적 단면 CBCT 연구 (상악 전치부 견치-견치; 요르단 단일 기관; Journal of Prosthodontics 2018) — 중동 인구의 전치부 순면·구개면 골 두께를 여러 수직적 수준에서 측정.
+
+다수의 치아에서 다수 수준의 순면 골 두께 <1 mm; 구개면 골이 일반적으로 더 두꺼움; 치아 위치별 유의한 변동 있음.
+
+상악 전치부 즉시 식립 시 대부분 얇은 순면 골판을 예상해야 함; 단일 기관·CBCT 복셀 크기 제한으로 1 mm 이하 정밀도 감소.
 
 ## 1. Document Information
 - **Title:** Assessment of Bone Dimensions in the Anterior Maxilla: A Cone Beam Computed Tomography Study

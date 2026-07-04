@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 CBCT MC 선량추정의 계산효율·FOV 전략 근거. [[radiology/lee-2019-cbct-dose-osl-monte-carlo-comparison]]의 측정-MC 비교와 방법 보완, '큰 FOV 1회 vs 작은 FOV 다회'의 방호적 함의를 정량.
 
-## One-line Summary
+## Three-line Summary
 
-Step-and-shoot Monte Carlo CBCT dose (PHITS, Accuitomo): 5° (large FOV)/10° (small FOV) steps suffice; six small FOVs ≈1.2× one large FOV.
 
-## 한줄요약
+Step-and-shoot Monte Carlo CBCT dose (PHITS, Accuitomo): 5° (large FOV)/10° (small FOV) steps suffice;
 
-step-and-shoot 몬테카를로 CBCT 선량(PHITS, Accuitomo): 대형 FOV 5°·소형 10° 간격이면 충분. 소형 6회 ≈ 대형 1회의 1.2배.
+six small FOVs ≈1.2× one large FOV.
+
+(incomplete)
+
+## 세줄요약
+
+
+step-and-shoot 몬테카를로 CBCT 선량(PHITS, Accuitomo): 대형 FOV 5°·소형 10° 간격이면 충분.
+
+소형 6회 ≈ 대형 1회의 1.2배.
+
+(incomplete)
 
 ## 1. Document Information
 

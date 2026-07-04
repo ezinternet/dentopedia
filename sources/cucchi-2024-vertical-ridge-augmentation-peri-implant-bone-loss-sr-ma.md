@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on vertical ridge augmentation (VRA). This SR/MA is the first to take peri-implant bone loss (PBL) as the *primary* outcome across all VRA techniques, providing the synthesis backbone for the head-to-head Ti-mesh/PTFE RCT in [[implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]] and the complication-focused MA in [[implants/vertical-ridge-augmentation/tay-2022-healing-complications-vertical-gbr-sr-ma]].
 
-## One-line Summary
+## Three-line Summary
 
-SR/MA of 42 studies (11 RCTs) on VRA techniques: pooled peri-implant bone loss (PBL) 1.38 mm (95% CI 1.10–1.66) at mean 41.0 ± 27.8 months; PBL varied by technique — SBB 0.66 mm, GBR 1.06 mm, Onlay 1.31 mm, Inlay 1.72 mm, osteodistraction 1.81 mm.
+SR+MA of 42 studies (11 RCTs) across five vertical ridge augmentation (VRA) techniques — first to use peri-implant bone loss (PBL) at ≥12 months functional loading as the primary outcome; mean follow-up 41.0 ± 27.8 months.
 
-## 한줄요약
+Pooled PBL was 1.38 mm (95% CI 1.10–1.66); by technique: SBB 0.66 mm, GBR 1.06 mm, Onlay 1.31 mm, Inlay 1.72 mm, osteodistraction 1.81 mm; GBR had the highest evidence quality (RCTs available) and lowest PBL after SBB.
 
-42편(RCT 11편) SR/MA: VRA 기법별 임플란트주위골소실(PBL) 통합치 1.38 mm (95% CI 1.10–1.66, 평균 추적 41.0 ± 27.8개월) — 기법별로 SBB 0.66, GBR 1.06, Onlay 1.31, Inlay 1.72, 골신장술 1.81 mm로 시술 유형에 따라 차이.
+RCTs existed only for GBR, onlay, and inlay techniques; osteodistraction and SBB rested on weaker designs, and wide CIs for inlay/osteodistraction limit precision, so dedicated long-term RCTs for all techniques are still needed.
+
+## 세줄요약
+
+42편(RCT 11편) SR+MA — 5가지 수직골증대(Vertical Ridge Augmentation, VRA) 기법을 대상으로 ≥12개월 기능 부하 후 임플란트주위골소실(Peri-implant Bone Loss, PBL)을 1차 결과로 삼은 첫 분석; 평균 추적 41.0 ± 27.8개월.
+
+통합 PBL 1.38 mm (95% CI 1.10–1.66); 기법별: 분할골블럭(SBB) 0.66, 유도골재생(GBR) 1.06, 겹치기이식(Onlay) 1.31, 끼워넣기이식(Inlay) 1.72, 골신장술 1.81 mm; GBR이 SBB 다음으로 낮은 PBL 기록, RCT 근거 유일.
+
+RCT는 GBR·Onlay·Inlay에만 존재; 골신장술·SBB는 근거 수준 낮고, Inlay·골신장술 신뢰구간 폭넓어 모든 기법에 대한 장기 RCT 필요.
 
 ## 1. Document Information
 

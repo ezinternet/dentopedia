@@ -9,7 +9,7 @@ pdf_filename: zhou-2021-xpf-pui-medicament-removal-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (in vitro) of XP-Endo Finisher vs. passive ultrasonic irrigation for intracanal medicament removal: PUI significantly superior overall (OR 3.09), but advantage disappears when both use NaOCl+EDTA combined (OR 1.51, NS).
 
 ## 1. Document Information

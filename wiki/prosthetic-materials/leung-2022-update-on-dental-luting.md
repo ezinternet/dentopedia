@@ -22,13 +22,21 @@ relations:
     target: kwon-2026-self-adhesive-resin-cement-zirconia
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (University of Hong Kong, 2022) of dental luting materials, classifying 7 cement families by chemistry, bonding mechanism, and clinical indication, and detailing properties, indications, and emerging modifications — with the thesis that no single cement satisfies all ideal requirements.
+Narrative review (University of Hong Kong, 2022) classifying 7 dental luting cement families (ZOE/non-eugenol, zinc phosphate, polycarboxylate, GIC, RMGIC, hybrid CaAl/GI, and resin cements) by chemistry, bonding mechanism, and clinical indication.
 
-## 한줄요약
+No single cement fulfills every ideal requirement; key trade-offs include resin cements' highest strength but technique sensitivity vs GIC's fluoride release but low flexural strength; dual-cured resin cements may have degree of conversion as low as 10.82% without light curing, requiring up to 120 s illumination.
 
-치과 luting 재료 7종을 화학조성·결합기전·임상적응증으로 분류한 서술적 종설 — "모든 이상적 조건을 만족하는 단일 시멘트는 없다"가 핵심 명제이며, 재료 선택은 항상 절충이다.
+Cement selection must match restoration type: conventional resin for all-ceramic/veneers, self-adhesive resin for general indirect restorations (not veneers/RBBs), and GIC/RMGIC for metal/metal-ceramic where aesthetics are secondary.
+
+## 세줄요약
+
+치과 luting 시멘트 7종(ZOE/non-eugenol, 인산아연, 폴리카르복실레이트, GIC, RMGIC, 하이브리드 CaAl/GI, 레진 시멘트)을 화학조성·결합기전·임상적응증으로 분류한 서술적 종설(홍콩대학교, 2022).
+
+모든 이상적 조건을 만족하는 시멘트는 없음; 레진 시멘트는 강도·접착력 최고이나 술식 민감성 있음, GIC는 불소 방출되나 굴곡강도 낮음; 듀얼큐어 레진은 광조사 없이 중합변환율 10.82%까지 낮아져 최대 120초 조사 필요.
+
+보철 종류에 따른 시멘트 선택 필요: 전통 레진→전세라믹/비니어, 자접착 레진→일반 간접수복물(비니어·RBB 제외), GIC/RMGIC→금속·금속도재관.
 
 ## Summary
 

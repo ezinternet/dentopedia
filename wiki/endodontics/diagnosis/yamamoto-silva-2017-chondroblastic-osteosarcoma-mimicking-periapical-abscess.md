@@ -18,13 +18,21 @@ relations:
     target: mortazavi-2016-lesions-associated-with-periodontal-ligament
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (J Appl Oral Sci 2017): an 18-year-old male with a periapical radiolucency, PDL widening, and lamina dura loss at vital teeth #29/#30/#31 — initially suspected periapical abscess — was diagnosed by incisional biopsy as chondroblastic osteosarcoma, showing non-endodontic malignancies must be in the periapical differential.
+Case report (J Appl Oral Sci 2017, n=1, 18-year-old male) describing a periapical radiolucency with PDL widening and lamina dura loss at teeth #29/#30/#31, initially suggesting a periapical abscess, but with all teeth responding positively to pulp sensibility testing — the key divergence from endodontic infection.
 
-## 한줄요약
+CBCT showed an ill-defined osteolytic lesion with hyperdense foci and cortical thinning; incisional biopsy confirmed chondroblastic osteosarcoma (pleomorphic cells, osteoid production, Ki-67+); treatment required hemimandibulectomy, adjuvant chemotherapy, and fibular-graft reconstruction.
 
-증례보고(J Appl Oral Sci 2017): 18세 남성에서 생활치 #29/#30/#31에 근단 방사선투과상·치주인대강 확대·치조백선 소실이 보여 치근단 농양으로 의심했으나 절개생검에서 연골모세포성 골육종으로 확진된 사례 — 근단병소 감별진단에 비치성 악성 종양을 반드시 포함해야 함.
+Positive pulp vitality at a periapical radiolucency with ill-defined margins, PDL widening, and lamina dura loss should redirect workup from root canal treatment to CBCT and biopsy to exclude jaw malignancy.
+
+## 세줄요약
+
+증례보고(J Appl Oral Sci 2017, n=1, 18세 남성): #29/#30/#31 치아에 근단 방사선투과상·치주인대강(Periodontal Ligament, PDL) 확대·치조백선 소실 — 치근단 농양 의심. 그러나 모든 치아에서 치수 감각 검사 양성(생활치수) 확인 → 치내치 기원 배제의 핵심 단서.
+
+CBCT에서 불명확한 경계의 골용해성 병소·고밀도 병소 내 초점·피질골 얇아짐 확인; 절개생검에서 연골모세포성 골육종(chondroblastic osteosarcoma, 다형성 세포·골양 형성·Ki-67 양성) 확진; 하악 반절제술+보조 항암화학요법+비골 이식 재건 시행.
+
+생활치수이나 근단 방사선투과상이 있을 때, 특히 불명확한 경계·PDL 확대·치조백선 소실을 동반하면 근관치료 대신 CBCT와 생검으로 악성 종양을 먼저 배제해야 한다.
 
 ## Summary
 

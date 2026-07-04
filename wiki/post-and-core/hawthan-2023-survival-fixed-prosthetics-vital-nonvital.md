@@ -15,13 +15,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/hawthan-2023-survival-fixed-prosthet
 text_filename: hawthan-2023-survival-fixed-prosthetics-vital-nonvital.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (26 studies, ≥24 mo): fiber post + all-ceramic SC achieves best nonvital survival (95.0% at 5 yr); no-post nonvital SCs drop to 85.7%; tooth vitality significantly predicts FDP survival (84.9% vs 81.3%, P=.049).
+Systematic review (26 studies, ≥24 months follow-up) quantifying 5-year survival of single crowns (SCs) and fixed dental prostheses (FDPs) stratified by tooth vitality, post type, and crown material.
 
-## 한줄요약
+Among nonvital teeth, fiber post + all-ceramic SC achieves the highest survival (95.0%), while no-post nonvital SC is the worst subgroup (85.7%); for FDPs, vitality significantly predicts survival (84.9% vital vs 81.3% nonvital, P=.049).
 
-체계적 고찰 (26편): 비활력치에 파이버포스트 + 올세라믹 단관이 5년 생존율 95.0%로 최고; 포스트 없는 비활력치 85.7%; 지대치 활력 유무가 FDP 예후에 유의한 영향(P=.049).
+Fiber post + all-ceramic SC on nonvital teeth (95.0%) significantly outperforms metal-ceramic + fiber post (91.3%); both post-type and crown material independently affect nonvital tooth outcomes, with absence of post carrying the steepest survival penalty.
+
+## 세줄요약
+
+체계적 문헌고찰 (26편, 추적 ≥24개월): 단관(SC) 및 고정성 치과보철물(FDP)의 5년 생존율을 치수 활력, 포스트 종류, 크라운 재료별로 분류·비교.
+
+비활력치에서 파이버포스트 + 올세라믹 단관이 최고 생존율(95.0%), 포스트 없는 비활력치가 최저(85.7%); FDP에서 지대치 활력 유무가 생존에 유의한 영향(활력치 84.9% vs 비활력치 81.3%, P=.049).
+
+비활력치에서 파이버포스트+올세라믹(95.0%)이 금속세라믹+파이버포스트(91.3%)를 유의하게 상회하며 — 포스트 종류와 크라운 재료 모두 독립적으로 비활력치 예후에 영향하고, 포스트 미시행이 가장 큰 생존율 감소 요인이다.
 
 ## Summary
 

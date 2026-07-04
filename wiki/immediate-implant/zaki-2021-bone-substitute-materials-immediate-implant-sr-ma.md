@@ -18,13 +18,21 @@ relations:
     target: seyssens-2022-immediate-implant-socket-grafting-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 RCTs (848 patients, 916 sites) showing bone-substitute grafting of the immediate-implant gap reduces horizontal buccal bone resorption (MD −0.52 mm) and improves esthetic score (MD +1.49) but increases complications (RR 3.50), with no effect on implant failure (RR 0.92); GRADE certainty mostly moderate.
+SR+MA of 20 RCTs (848 patients, 916 sites) evaluating bone-substitute material (BSM) grafting of the implant–socket gap at immediate implant placement versus no BSM.
 
-## 한줄요약
+BSM significantly reduced horizontal buccal bone resorption (MD −0.52 mm, p<0.05) and improved esthetic score (MD +1.49), with no effect on implant failure (RR 0.92), but was associated with a 3.5-fold increase in overall complications (RR 3.50); GRADE certainty mostly moderate.
 
-20개 RCT(848명·916부위) SR+MA — 즉시식립 gap에 골대체재를 채우면 수평 협측골 흡수가 줄고(MD −0.52 mm) 심미 점수가 높아지나(MD +1.49) 합병증은 증가하며(RR 3.50), 임플란트 실패율에는 차이가 없었다(RR 0.92).
+Gap grafting with BSM preserves buccal bone contour and esthetics without affecting survival, but the complication trade-off should be weighed; this is the largest RCT-based meta-analysis of this question.
+
+## 세줄요약
+
+SR+MA (RCT 20편, 848명·916부위): 즉시식립 임플란트–소켓 gap에 골대체재(Bone Substitute Material, BSM) 이식 vs 비이식 비교.
+
+BSM 이식이 수평 협측골 흡수 감소(MD −0.52 mm)와 심미점수 개선(MD +1.49)에 유의; 임플란트 실패율에는 차이 없음(RR 0.92); 반면 합병증 3.5배 증가(RR 3.50). GRADE 확실성 대부분 중등도.
+
+즉시식립 gap 이식은 협측골·심미 보존에 유효하나 합병증 증가 상충(trade-off)을 고려해야 하며, RCT 기반 최대 메타분석으로 gap 이식 결정의 기준 문헌.
 
 ## Summary
 

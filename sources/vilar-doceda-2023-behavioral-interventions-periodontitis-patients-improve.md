@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/motivational-interviewing/kay-2016-motivational-interviewing-general-dental-practice]]가 다룬 MI를 넘어, 치주염 환자에서 사용된 6가지 심리모델(Social Cognitive Theory, Theory of Planned Behavior, HAPA, Leventhal, MI, CBT) 전반으로 행동중재 근거 지형을 확장(extends)하기 위해 ingest. 어떤 모델이 구강위생을 실제로 개선하는지 분류해 MI를 더 넓은 맥락에 위치시킨다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs; n 20–297) found social-cognitive-model interventions combining goal-setting, planning, self-monitoring and feedback may improve oral hygiene in periodontitis patients, and CBT combined with motivational interviewing may reduce plaque and bleeding scores.
 
-## 한줄요약
+Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs;
 
-21개 연구(RCT 16편, 비무작위 5편; n 20–297)를 종합한 체계적 문헌고찰(메타분석 없음)로, 목표설정·계획·자기점검·피드백을 결합한 사회인지모델 기반 중재가 치주염 환자의 구강위생을 개선할 수 있으며, 인지행동치료(CBT)와 동기면담(MI) 병용이 치면세균막·출혈 점수를 낮출 수 있음을 시사했다.
+n 20–297) found social-cognitive-model interventions combining goal-setting, planning, self-monitoring and feedback may improve oral hygiene in periodontitis patients, and CBT combined with motivational interviewing may reduce plaque and bleeding scores.
+
+(incomplete)
+
+## 세줄요약
+
+
+21개 연구(RCT 16편, 비무작위 5편;
+
+n 20–297)를 종합한 체계적 문헌고찰(메타분석 없음)로, 목표설정·계획·자기점검·피드백을 결합한 사회인지모델 기반 중재가 치주염 환자의 구강위생을 개선할 수 있으며, 인지행동치료(CBT)와 동기면담(MI) 병용이 치면세균막·출혈 점수를 낮출 수 있음을 시사했다.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 이 논문은 플라즈마 스프레이 방식으로 제조된 두 종류의 칼슘인산염 코팅(PSHA vs ACP)의 결정성 차이가 골유착 조직계측학적 결과(BIC, BAFO)에 실제로 영향을 미치는지를 생체 내(개 동물모델)에서 직접 비교한 희소한 연구다. 기존 [[wiki/implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]]에서 나노스케일 HA 코팅의 골반응을 다루었으나, 플라즈마 스프레이법으로 생성된 비결정질 vs. 부분결정질 CaP 코팅의 위상 구성 정량분석(Rietveld)과 BIC/BAFO 비교는 다루지 않아 이를 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (6 beagles, 36 implants, 6 and 12 weeks) comparing plasma-sprayed hydroxyapatite (PSHA) vs. amorphous calcium phosphate (ACP) coatings on Ti-6Al-4V plateau root form implants: ACP had significantly higher surface roughness (Sa, Sq) and unique carbonate groups, while PSHA had far greater crystalline HA content (71% vs. <1%), yet BIC and BAFO were statistically equivalent at both time points.
+Animal in-vivo study (6 beagles, 36 implants) comparing plasma-sprayed hydroxyapatite (PSHA, 71% crystalline) vs amorphous calcium phosphate (ACP, <1% crystalline) coatings on Ti-6Al-4V plateau root form implants at 6 and 12 weeks.
 
-## 한줄요약
+ACP showed significantly higher surface roughness (Sa 5.18 vs 3.22 µm, p<0.03) and exclusive carbonate (CO3) groups, while PSHA had far greater crystalline HA content; BIC and BAFO were statistically equivalent at both time points (p>0.75).
 
-비글 6마리(임플란트 36개, 6·12주) 동물실험에서 플라즈마 스프레이 HA(PSHA) vs 비결정질 CaP(ACP) 코팅 간 표면 거칠기(ACP 우세)·결정상 조성(PSHA 71% HA vs ACP <1%)·탄산염 유무 차이에도 불구하고, BIC·BAFO 조직계측학적 지표는 두 군 간 유의차 없이 동등한 골전도성 확인.
+Despite marked physicochemical differences between the two coatings, osseointegration outcomes were equivalent, suggesting plateau root form macrogeometry — not coating crystallinity — drives bone formation; long-term degradation of ACP's higher resorption potential remains untested.
+
+## 세줄요약
+
+비글 6마리(임플란트 36개, 6·12주) 동물실험에서 플라즈마 스프레이 HA(PSHA, 결정성 71%) vs 비결정질 CaP(ACP, <1%) 코팅을 비교하였으며, ACP가 유의하게 높은 표면 거칠기(Sa 5.18 vs 3.22 µm, p<0.03)와 배타적 탄산염(CO3) 기를 보였다.
+
+BIC·BAFO 조직계측학적 지표는 6주·12주 모두 두 군 간 유의차 없이 동등(p>0.75).
+
+코팅의 이화학적 차이에도 불구하고 골유착 결과가 동등해, 플래토 루트폼 거시 형태가 골형성의 주 구동인자임을 시사하며 ACP의 장기 흡수 거동은 미평가 상태.
 
 ## 1. Document Information
 

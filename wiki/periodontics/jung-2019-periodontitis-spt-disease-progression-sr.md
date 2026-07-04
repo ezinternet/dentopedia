@@ -13,11 +13,21 @@ source_collection: external
 tags: [spt, supportive-periodontal-therapy, disease-progression, cal-loss, clinical-attachment-level, compliance, smoking, oral-hygiene, long-term, periodontitis]
 ---
 
-## One-line Summary
-Systematic review (17 publications, 14 investigations, 964 patients, 5–15 year follow-up) of periodontal disease progression after supportive periodontal therapy (SPT): 10/14 studies showed mean CAL loss ≤0.5 mm (stable), sites with ≥2 mm CAL loss were 3–20%, and poor oral hygiene, smoking, and poor SPT compliance were the main progression predictors.
+## Three-line Summary
 
-## 한줄요약
-치주지지치료(SPT) 후 치주질환 진행 SR (JPIS 2019): 17편·14연구·964명·5–15년 추적; 10/14 연구 CAL 손실 ≤0.5mm(안정); 구강위생불량·흡연·SPT 불순응이 진행 예측인자.
+Systematic review (17 publications, 14 independent investigations, 964 patients, 5–15 year follow-up) examining CAL change after active periodontal therapy in patients on SPT.
+
+10 of 14 studies showed mean CAL loss ≤0.5 mm (minimal progression); sites with ≥2 mm CAL loss were 3–20%; progression was worse with poor oral hygiene, smoking, and poor SPT compliance.
+
+Treated periodontitis is clinically stable over 5–15 years with compliant SPT; the 3–20% of sites with ≥2 mm CAL loss represent the high-risk subset requiring intensified monitoring.
+
+## 세줄요약
+
+체계적 문헌고찰(17편·14연구·964명·5–15년 추적): 적극적 치주치료 후 SPT를 받은 환자의 임상부착수준(CAL) 변화를 평가.
+
+14개 연구 중 10개에서 평균 CAL 손실 ≤0.5 mm(안정); ≥2 mm CAL 손실 부위는 3–20%; 구강위생 불량·흡연·SPT 불순응이 진행 예측인자.
+
+SPT 순응 환자에서 치료된 치주염은 5–15년간 임상적으로 안정적이며, ≥2 mm CAL 손실 부위(3–20%)가 집중 모니터링이 필요한 고위험군이다.
 
 ## Summary
 Systematic review assessing periodontal disease progression in patients receiving supportive periodontal therapy (SPT) after active treatment. Focused question: In adult treated-periodontitis patients, what is the disease progression (CAL loss) after surgical or non-surgical therapy over ≥5 years of SPT?

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of immediate implant placement (IIP) in molar extraction sockets: pooled implant survival ~97–98%, comparable to delayed placement, with inter-radicular septum anchorage and primary stability identified as the key technique variables.
+## Three-line Summary
 
-## 한줄요약
-SR+MA: 구치부 즉시 식립의 생존율은 통상 ≥97%로 지연 식립과 동등 수준이며, 격중격(inter-radicular septum) 이용·primary stability 확보가 핵심 변수.
+Systematic review and meta-analysis of immediate implant placement (IIP) in molar extraction sockets, providing the first major quantitative pooling of molar-IIP survival rates and identifying key surgical predictors.
+
+Pooled implant survival was ~97–98%, comparable to delayed placement; primary stability failures — not late biological complications — dominated the complication profile, and inter-radicular septum anchorage was identified as the key technique variable.
+
+Molar IIP achieves survival rates equivalent to delayed protocols when adequate inter-radicular bone and primary stability are secured; heterogeneity across implant systems and limited long-term (>5 yr) data remain the primary evidence gap.
+
+## 세줄요약
+
+구치 발치와 즉시식립(IIP) 결과를 처음으로 대규모로 정량화한 SR+MA — 생존율 통합 추정치 및 핵심 외과적 예측인자를 도출.
+
+통합 임플란트 생존율 약 97–98%로 지연 식립과 동등; 합병증은 초기 안정성 실패가 지배적이며, 격중격(Inter-Radicular Septum, IRS) 고정이 핵심 술기 변수로 확인.
+
+충분한 IRS 고정 및 초기 안정성 확보 시 구치 즉시식립은 지연 프로토콜과 동등한 생존율 달성 가능; 임플란트 시스템 간 이질성과 5년 이상 장기 데이터 부족이 주요 근거 공백이다.
 
 ## Summary
 Systematic review + meta-analysis of immediate implant placement in molar extraction sockets. Pooled survival rates are comparable to delayed placement when primary stability and septum-driven positioning are achieved.

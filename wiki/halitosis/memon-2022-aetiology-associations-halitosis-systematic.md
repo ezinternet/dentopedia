@@ -13,13 +13,21 @@ source_collection: external
 tags: [halitosis, aetiology, tongue-coating, periodontal-disease, VSC, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (19 studies, 2014–2020): 80–90% of halitosis is intra-oral (coated tongue, periodontal disease, poor hygiene); 10–20% is extra-oral (ENT, GI, systemic disease).
+Systematic review of 19 empirical studies (2014–2020; 12 cross-sectional, 2 RCTs, 5 case-control) synthesizing the causes and associations of halitosis.
 
-## 한줄요약
+Eighty to ninety percent of halitosis originates intra-orally (coated tongue as the single most consistent factor, followed by periodontal disease and poor oral hygiene); 10–20% is extra-oral (ENT, H. pylori, systemic disease); VSC chemistry differentiates the source.
 
-체계적 문헌고찰(19편, 2014–2020): 구강 악취의 80–90 %는 구강내 원인(설태·치주질환·구강위생 불량)이며, 10–20 %는 구강외 전신·이비인후과 원인에 기인함.
+Coated tongue should be the primary clinical target in halitosis management; dimethyl sulphide elevation signals an extra-oral cause requiring systemic investigation.
+
+## 세줄요약
+
+구취 원인·연관성을 평가한 19편 관찰연구(2014–2020; 횡단 12·RCT 2·환자대조 5) 체계적 문헌고찰.
+
+구강내 원인(설태·치주질환·구강위생 불량)이 80–90%를 차지하며, 설태가 모든 연구 설계에서 가장 일관된 단일 인자; 10–20%는 이비인후과·H. pylori·전신질환 등 구강외 원인.
+
+VSC 화학적 특성이 원인 감별 도구: 메탄티올·황화수소 = 구강내, 다이메틸설파이드 상승 = 구강외 기원; 설태 관리가 임상적 1차 목표.
 
 ## Summary
 

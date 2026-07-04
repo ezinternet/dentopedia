@@ -14,11 +14,19 @@ source_collection: external
 tags: [soft-tissue, keratinized-tissue, fgg, ctg, peri-implant, mucositis, mbl, augmentation]
 ---
 
-## One-line Summary
-SR+MA showing peri-implant soft tissue augmentation (FGG/CTG) significantly increases keratinized tissue (KT) width by 3–4 mm; KT <2mm is associated with higher plaque, bleeding, and marginal bone loss (MBL), so maintaining KT ≥2mm is favorable for long-term implant health.
+## Three-line Summary
+SR+MA (Clin Oral Implants Res 2018) evaluating the effects of soft tissue augmentation procedures (FGG, CTG) on peri-implant health outcomes around dental implants.
 
-## 한줄요약
-SR+MA: FGG/CTG로 각화조직 3–4mm 증가; KT<2mm → 플라크·출혈·MBL↑; 임플란트 건강 위해 ≥2mm 유지 필요
+FGG and CTG significantly increased keratinized tissue (KT) width by 3–4 mm; sites with KT <2 mm showed higher plaque accumulation, bleeding on probing, and marginal bone loss compared to sites with ≥2 mm KT.
+
+Maintaining ≥2 mm peri-implant KT is favorable for long-term implant health; this SR+MA established the foundational KT threshold used in subsequent consensus documents.
+
+## 세줄요약
+임플란트 주위 연조직 증대술(FGG, CTG)이 건강에 미치는 영향을 평가한 SR+MA(Clin Oral Implants Res 2018).
+
+FGG·CTG는 각화조직(KT) 폭을 3–4 mm 유의하게 증가; KT <2 mm 부위는 ≥2 mm 대비 플라크·출혈·변연골소실(MBL) 모두 높음.
+
+임플란트 장기 건강을 위해 KT ≥2 mm 유지가 필요하며, 이 기준치는 이후 다수 컨센서스 문헌의 근거로 활용됨.
 
 ## Summary
 SR+MA: 임플란트 주위 연조직 이식술(FGG/CTG)이 각화조직 폭 **3-4mm 유의하게 증가**. 각화조직 <2mm → 점막염·MBL↑. **각화조직 ≥2mm 유지**가 임플란트 장기 건강에 유리.

@@ -9,7 +9,7 @@ pdf_filename: kruly-2018-low-shrinkage-vs-methacrylate-resin-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Meta-analysis of 21 RCTs (up to 60-month follow-up) showing that silorane, ormocer, and bulk-fill composites have similar clinical performance to conventional methacrylate composites, except for marginally inferior marginal adaptation at 12 months for modified-monomer composites.
 
 ## 1. Document Information

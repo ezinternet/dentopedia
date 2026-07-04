@@ -17,13 +17,23 @@ text_filename: ruiz-2025-handheld-fixed-xray-image-quality-comparison.txt
 
 [[radiology/geibel-2025-mobile-handheld-radiography-quality-nursing-home]] evaluates real-world clinical-quality-criteria outcomes for portable/handheld dental radiography in a nursing-home population; this paper adds the complementary controlled, objective in-vitro benchmark (ImageJ gray-value analysis of brightness, noise, uniformity, contrast) isolating equipment-intrinsic effects (handheld vs fixed, platform-mounted to eliminate hand-movement variability) across two CMOS sensor systems. Together they let the wiki distinguish "does handheld radiography look diagnostically acceptable in practice" from "what specifically differs at the pixel/gray-value level and why."
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro comparative study (acrylic block + aluminum step-wedge, 2 CMOS sensor systems, 6 exposures/condition) found handheld portable intraoral X-ray equipment produced significantly higher brightness and lower contrast than fixed equipment regardless of sensor (p<0.0001), sensor-dependent noise effects (p<0.05), and no significant uniformity difference (p>0.05).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체외(in-vitro) 비교연구(아크릴 블록 + 알루미늄 스텝웨지, CMOS 센서 2종, 조건당 6회 촬영)에서 휴대형(handheld) 구강내 X선 장비는 센서 종류와 무관하게 고정형(fixed) 장비보다 밝기(brightness)는 유의하게 높고 대비(contrast)는 유의하게 낮았으며(p<0.0001), 노이즈(noise) 영향은 센서에 따라 달랐고(p<0.05) 균일도(uniformity)는 유의한 차이가 없었다(p>0.05).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

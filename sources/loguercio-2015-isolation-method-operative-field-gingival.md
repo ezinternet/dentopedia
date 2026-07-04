@@ -13,13 +13,23 @@ source_collection: external
 
 사용자가 요청한 원본 PDF(파일명만 있고 인제스트 안 된 상태) — 러버댐(RD) vs 코튼롤/견인사(CR/RC) 격리법이 NCCL 접착수복 유지율·치은손상·환자선호도·시술시간에 미치는 영향을 비교한 examiner-blind split-mouth RCT(30명/60수복물, 18개월 추적). 기존 [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]](러버댐 격리 코크란 리뷰, 일반 수복치료 대상)를 NCCL이라는 특정 임상 상황으로 확장(extends)하며, [[nccl/peumans-2020-nccl-treatment-when-why-how]]의 NCCL 수복 결정에 격리법 선택 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Examiner-blind split-mouth RCT (30 patients, 60 NCCL restorations, 18-month follow-up) found no significant difference between rubber dam and cotton roll/retraction cord isolation for retention rate (73% vs 73% at 18 months), gingival damage, patient preference, or chairside time.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 Examiner-blind split-mouth RCT(환자 30명, 유치경부병소 수복물 60개, 18개월 추적)에서 러버댐과 코튼롤/견인사 격리법 간 유지율(18개월 73% vs 73%), 치은손상, 환자 선호도, 시술시간 모두 유의한 차이가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

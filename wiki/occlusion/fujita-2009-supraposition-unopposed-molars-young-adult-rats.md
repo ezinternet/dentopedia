@@ -16,13 +16,21 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal micro-CT study (40 Wistar rats): unopposed maxillary molars in young (4-wk) rats reached 262 ± 135 µm supraposition vs only 125 ± 108 µm in adults (26-wk) after 4 weeks (P < 0.01); alveolar bone followed the tooth only in the young — overeruption potential is age-dependent.
+Controlled animal experiment (40 male Wistar rats: 4-week young vs 26-week adult, n=20 per age group + 40 age-matched controls) with micro-CT measurement of supraposition after 4-week maxillary molar antagonist removal by grinding.
 
-## 한줄요약
+Young rats achieved 262 ± 135 µm supraposition vs 125 ± 108 µm in adults (P<0.01) — approximately twice as much — and alveolar bone followed the tooth superiorly only in young rats, not adults.
 
-동물 micro-CT 연구(Wistar 쥐 40마리): 대합치 없는 상악 대구치의 정출이 어린 쥐(4주령) 262 ± 135 µm로 성체(26주령) 125 ± 108 µm보다 유의하게 컸고(P < 0.01), 치조골은 어린 쥐에서만 치아를 따라 이동 — 정출 잠재력은 연령 의존적.
+Unopposed-molar overeruption potential is age-dependent: younger/growing patients carry approximately twice the overeruption risk compared to adults, with a different bone response mechanism that involves dento-alveolar growth rather than eruption alone.
+
+## 세줄요약
+
+4주령(어린) vs 26주령(성체) 수컷 Wistar 쥐 각 20마리(+ 연령 맞춤 대조군 40마리)에서 상악 대구치 교합면 삭제로 4주간 대합치 상실을 유도한 후 micro-CT로 과상위(Supraposition)를 측정한 대조 동물실험.
+
+어린 쥐 262 ± 135 µm vs 성체 125 ± 108 µm(P<0.01) — 약 2배 차이; 치조골이 치아를 따라 상방 이동한 것은 어린 쥐에서만 나타났고 성체에서는 없었다.
+
+무대합 치아의 과맹출 잠재력은 연령 의존적이어서, 어린·성장기 환자는 성체 대비 약 2배의 과맹출 위험을 가지며, 치조골 반응 기전도 순수 정출이 아닌 치조골 성장(Dento-alveolar Growth)을 포함한 다른 메커니즘이다.
 
 ## Summary
 

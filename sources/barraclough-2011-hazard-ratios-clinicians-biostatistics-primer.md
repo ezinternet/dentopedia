@@ -9,8 +9,21 @@ pdf_filename: barraclough-2011-hazard-ratios-clinicians-biostatistics-primer.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Thoracic Oncology biostatistics primer (2011) explaining hazard ratio (HR) interpretation in the context of Kaplan-Meier survival analysis, with worked hypothetical RCT examples and warnings against common misreadings.
+## Three-line Summary
+
+Narrative continuing-education primer (J Thorac Oncol 2011) explaining hazard ratio (HR) interpretation for clinicians using worked hypothetical RCT examples with Kaplan-Meier survival analysis.
+
+HR is defined as the ratio of instantaneous event rates between groups across entire follow-up — not a percentage reduction at a single time point — and differs from relative risk (RR) in using censored time-to-event data; the proportional hazards (PH) assumption must hold for HR to be interpretable.
+
+Clinicians reading survival studies should avoid the common error of treating HR=0.5 as "patients live twice as long"; this primer provides the conceptual foundation for correctly interpreting KM curves and HRs in clinical research.
+
+## 세줄요약
+
+위험비(Hazard Ratio, HR) 해석을 위한 임상의 대상 교육 리뷰(J Thorac Oncol 2011) — 가상 RCT 예시와 Kaplan-Meier 생존 분석으로 HR 개념 설명.
+
+HR은 두 군 간 추적 전체에 걸친 순간 사건율 비율로, 단일 시점 비율 감소가 아니며 위험 비례(Proportional Hazards, PH) 가정 충족 시에만 해석 가능.
+
+임상적 의미: HR=0.5는 "2배 오래 산다"가 아님 — KM 곡선·HR을 올바르게 읽기 위한 기초 개념 제공.
 
 ## 1. Document Information
 - Journal: J Thorac Oncol. 2011;6:978–982

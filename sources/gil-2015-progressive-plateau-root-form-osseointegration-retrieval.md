@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 기능 부하 기간에 따른 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 변화를 인간 회수체(retrieval)로 직접 검증한 연구가 필요했음. [[wiki/implants/romanos-2003-bone-implant-interface-loading-conditions-monkey]] (원숭이 동물 실험)에서 기능 부하 증가에 따라 BIC와 주위골 밀도가 향상됨을 보였으나, 이를 장기간 인간 임상 데이터로 확장하는 근거가 부재했음. 본 93개 Bicon 회수체 연구는 120일~18년 부하 범위에서 BIC/BAFO 모두 시간에 따라 증가함을 통계적으로 입증한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Human retrieval study of 93 plateau root form implants (Bicon, 120 days–~18 years in function) showing that BIC and BAFO increase progressively over functional loading time, independently of implant design and clinical variables.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 인간 회수 임플란트 93개(Bicon, 기능 부하 120일~약 18년)를 조직형태계측으로 분석하여 BIC와 BAFO가 임플란트 디자인·임상 변수와 무관하게 기능 부하 시간에 따라 점진적으로 증가함을 입증한 후향적 회수 연구.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

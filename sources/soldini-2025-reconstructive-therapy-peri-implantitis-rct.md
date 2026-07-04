@@ -13,11 +13,21 @@ source_collection: external
 
 재건적 임플란트주위염 수술의 부가가치(질환 해소 vs 골충전)를 비수술치료 후 supportive care와 직접 비교. [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]](재건 술식 내부 비교)와 짝을 이뤄, "재건을 추가할 가치가 있는가"라는 상위 결정 질문을 다룸.
 
-## One-line Summary
+## Three-line Summary
+
 RCT (34 patients) — after non-surgical therapy, reconstructive surgery vs supportive care alone gave equal disease resolution (~44%), but ~3× greater radiographic bone fill (1.21 vs 0.36 mm).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 RCT(환자 34명): 비수술치료 후 재건수술과 지지치료만 비교 — 질환 해소율은 동등(~44%)이나 방사선상 골충전은 재건군이 약 3배(1.21 vs 0.36mm).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Implant Dentistry and Related Research 2025;27(2):e70024 (with later correction). UIC Barcelona. NCT05168891 (registered after recruitment).

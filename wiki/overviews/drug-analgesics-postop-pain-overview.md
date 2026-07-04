@@ -52,12 +52,21 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 처치별 매트릭스: 단순발치·매복치는 Opioid X + Ibuprofen/APAP alternate, 임플란트·치주는 술전 preemptive 추가, 근관치료(술전 통증)는 Ibuprofen 600 기반 + Diclofenac K 대안.
 > - 한국 임상은 미국 대비 opioid 처방 낮으나(Tramadol 정도) Tramadol도 Network MA에서 위약 동등이라 처방 정당화 어려움 — ADA opioid-sparing 원칙 동일 적용.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 24 papers (5 network MA, 4 SR+MA, 1 SR, 2 Cochrane overviews, 6 RCTs, 6 narrative) on postoperative dental pain management. Core thesis: combined ibuprofen 400 mg + acetaminophen (APAP) 1000 mg is first-line with the lowest number-needed-to-treat (NNT ≈1.5); opioids are not superior to non-opioids and should be avoided (ADA opioid-sparing); alternate dosing beats concurrent. Clinical takeaways: preemptive NSAIDs help implant/periodontal but not impacted third molars, yet a single preoperative dexamethasone 4 mg clearly improves third-molar pain/swelling/trismus (Tamgadge 2025); endodontic analgesia is time-dependent — diclofenac+APAP or ketorolac dominate at 6–8 h but fade by 24 h, where naproxen/Novafen sustain (Kelidari 2026, Ping 2026); and NSAIDs' unfavorable single-dose adverse-event ranking is largely nocebo, not true harm (Magesty 2026). NSAIDs are still avoided in renal impairment in favor of APAP.
+Synthesis of 24 papers (5 network MA, 4 SR+MA, 1 SR, 2 Cochrane overviews, 6 RCTs, 6 narrative) on postoperative dental pain management: combined ibuprofen 400 mg + acetaminophen 1000 mg is first-line with the lowest NNT ≈1.5 (Miroshnychenko 2023 network MA, 82 RCTs n=9,095; Moore 2015 Cochrane overview); opioids are not superior (hydrocodone+APAP inferior to ibuprofen+APAP at every timepoint in n=1,815 RCT; tramadol equals placebo) — ADA opioid-sparing principle; alternate dosing reduces rescue need to 15% vs 53% for concurrent (Gaballah 2025 RCT, p=0.002).
 
-## 한줄요약
-치과 술후 통증 1차 선택은 **Ibuprofen 400mg + Acetaminophen 1000mg 병용** — Network MA에서 가장 낮은 NNT (~1.5). Opioid는 비-opioid 대비 우월하지 않으며 부작용·중독 위험 → 회피. Preemptive NSAID는 third molar에선 약하나 치주·임플란트엔 효과 있고, 술전 dexamethasone은 third molar에 명확히 유효. 근관치료는 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강, Naproxen·Novafen이 24h 지속. NSAID 단회 AE 순위는 노세보가 주된 기전.
+Preemptive NSAIDs do not help for impacted third molars (Costa 2015 meta, p=0.22) but benefit implant/periodontal surgery (Gousias 2025 SR+MA); a single preoperative dexamethasone 4 mg IM clearly improves third-molar pain/swelling/trismus (Tamgadge 2025 split-mouth RCT, day-7 VAS 0.4 vs 1.6, p<0.001); endodontic analgesia is time-dependent — diclofenac+APAP or ketorolac dominate at 6–8 h (MD −6.28; SMD −0.82, rescue RR 0.50) but fade by 24 h, where naproxen/Novafen sustain (Kelidari 2026 NMA; Ping 2026 SR+MA).
+
+Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo ranked second-most "harmful" in 28-RCT NMA (Magesty 2026, n=5,306, very-low-to-low certainty) — do not demote NSAIDs from first-line; avoid in renal impairment (NSAID AKI OR 1.98, Gomes 2025) and avoid selective COX-2 inhibitors for implant patients (osseointegration risk).
+
+## 세줄요약
+
+치과 술후 통증 24편(Network MA 5·SR+MA 4·SR 1·Cochrane overview 2·RCT 6·narrative 6) 통합: 1차 선택은 Ibuprofen 400mg + Acetaminophen 1000mg 병용, NNT ≈1.5(Miroshnychenko 2023 NMA 82 RCT n=9,095); Opioid는 비-opioid 대비 우월하지 않음(Feldman 2024 RCT n=1,815, 전 시점 열등·tramadol=위약); 교대 투약이 구제 투약 필요 15% vs 동시 53%(Gaballah 2025 p=0.002).
+
+술전 NSAID는 제3대구치엔 약함(Costa 2015 p=0.22), 임플란트·치주엔 유효(Gousias 2025 SR+MA); 술전 Dexamethasone 4mg IM은 제3대구치 통증·개구·부종 모두 개선(Tamgadge 2025 split-mouth, day-7 VAS 0.4 vs 1.6 p<0.001); 근관치료는 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(SMD −0.82, rescue RR 0.50), Naproxen·Novafen이 24h 지속.
+
+단회 NSAID AE 순위는 주로 nocebo(Magesty 2026 NMA n=5,306, 위약이 2위) → NSAID 1차 유지; 신부전(AKI OR 1.98, Gomes 2025)·임플란트 환자(선택적 COX-2 골유착 저해)에선 회피.
 
 ---
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: [cold-plasma, NTPP, primary-teeth, pedodontics, root-canal, E-faecalis, disinfection]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro 4-arm study (n=40 primary incisors) found NTPP jet achieved 98.79% E. faecalis CFU reduction in primary root canals — superior to CHX, diode laser (810 nm), and propolis.
+In vitro 4-arm study (n=40 extracted primary incisors, gamma-sterilized and E. faecalis-inoculated) comparing non-thermal pressure plasma (NTPP) jet against CHX, diode laser (810 nm), and propolis for primary root canal disinfection.
 
-## 한줄요약
+NTPP achieved the highest log CFU reduction (4.06 ± 0.88, 98.79% reduction, p<0.001), outperforming CHX and diode laser (both significant), while propolis showed the lowest reduction (81.99%, p=0.035).
 
-유치 전치 40개 in vitro 연구에서 비열 압력 플라스마(NTPP) 처치가 E. faecalis 군집 98.79% 감소로 CHX·다이오드 레이저·프로폴리스보다 우수한 근관 소독 효과를 보임.
+NTPP is particularly relevant for primary teeth because NaOCl carries toxicity risk to permanent successor follicles through open apical foramina, but NTPP delivery to curved pediatric root canals and clinical standardization remain unresolved barriers.
+
+## 세줄요약
+
+감마 멸균 유치 전치 40개에 E. faecalis 접종 후 NTPP 제트·CHX·다이오드 레이저(810 nm)·프로폴리스 4군 in vitro 비교.
+
+NTPP가 log CFU 감소 최고(4.06±0.88, 98.79% 감소, p<0.001)로 CHX·다이오드 레이저 모두 상회; 프로폴리스는 가장 낮은 감소(81.99%, p=0.035).
+
+NaOCl이 유치의 열린 치근단을 통해 영구치 치배에 독성을 유발할 위험이 있어 NTPP가 소아 근관치료의 유망한 대안이지만, 만곡된 유치 근관에서의 전달 및 임상 표준화는 미해결 과제.
 
 ## Summary
 

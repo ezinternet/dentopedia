@@ -9,7 +9,7 @@ pdf_filename: solderer-2025-tissue-level-implant-bone-loss-factors.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
 
 ## 1. Document Information

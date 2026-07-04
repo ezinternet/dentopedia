@@ -17,13 +17,23 @@ text_filename: ma-2026-comparison-ranking-interventions-tmd.txt
 
 TMD 처방(pharmacotherapy/injection) 관련 아시아 저널(아시아 저자·기관, PMC 풀텍스트) 논문 인제스트 요청에 따라 검색. 기존 [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]]는 TMD 전반의 약물치료(NSAID·근이완제·클로나제팜 등 경구약)를 NMA로 다루지만, 국소 주사·물리치료 계열(리도카인 주사·PRP·보툴리눔독소·허혈성압박·레이저)의 상대적 순위는 다루지 않았다. 본 논문(Ma 2026, 간쑤중의약대학/Gansu University of Chinese Medicine, 중국)은 TMD-근막통증증후군(MPS)에 특화해 14개 RCT(674명)를 베이지안 NMA로 통합, 처방·주사성 중재의 SUCRA 순위를 제공해 [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]]의 경구약물 근거를 주사·국소처치 영역으로 확장하고, [[tmj/menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma]]의 dry needling/manual therapy NMA와도 비교축을 형성한다.
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian random-effects network meta-analysis of 14 RCTs (n=674 adults with TMD-myofascial pain syndrome), authored by a Chinese (Gansu University of Chinese Medicine) team; lidocaine injection and ischemic compression ranked highest for short-term pain relief (SUCRA 91.7% and 88.7%) versus basic treatment, followed by platelet-rich plasma and laser therapy, but certainty of evidence for all top-ranked comparisons was low to very low (CINeMA), driven by sparse single-trial nodes, high risk of bias in 9/14 trials, and mostly indirect evidence for the top two interventions.
 
-## 한줄요약
+Bayesian random-effects network meta-analysis of 14 RCTs (n=674 adults with TMD-myofascial pain syndrome), authored by a Chinese (Gansu University of Chinese Medicine) team;
 
-베이지안 랜덤효과 네트워크 메타분석(14 RCT, TMD 근막통증증후군 성인 674명), 중국 간쑤중의약대학 저자팀; 리도카인 주사·허혈성압박이 기본치료 대비 단기 통증완화 SUCRA 순위 1·2위(91.7%·88.7%)였고 혈소판풍부혈장(PRP)·레이저가 뒤를 이었으나, 두 상위 중재는 간접비교 위주에 RCT 14편 중 9편이 고위험 편향으로 근거 확실성이 낮음~매우낮음(CINeMA)이다.
+lidocaine injection and ischemic compression ranked highest for short-term pain relief (SUCRA 91.7% and 88.7%) versus basic treatment, followed by platelet-rich plasma and laser therapy, but certainty of evidence for all top-ranked comparisons was low to very low (CINeMA), driven by sparse single-trial nodes, high risk of bias in 9/14 trials, and mostly indirect evidence for the top two interventions.
+
+(incomplete)
+
+## 세줄요약
+
+
+베이지안 랜덤효과 네트워크 메타분석(14 RCT, TMD 근막통증증후군 성인 674명), 중국 간쑤중의약대학 저자팀;
+
+리도카인 주사·허혈성압박이 기본치료 대비 단기 통증완화 SUCRA 순위 1·2위(91.7%·88.7%)였고 혈소판풍부혈장(PRP)·레이저가 뒤를 이었으나, 두 상위 중재는 간접비교 위주에 RCT 14편 중 9편이 고위험 편향으로 근거 확실성이 낮음~매우낮음(CINeMA)이다.
+
+(incomplete)
 
 ## 1. Document Information
 

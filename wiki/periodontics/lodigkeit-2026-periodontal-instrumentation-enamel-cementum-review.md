@@ -20,13 +20,21 @@ relations:
     target: dvorska-2026-mechanical-instrumentation-hard-tissue-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of 16 in vitro / in vitro-in vivo studies (last 15 yr): manual instrumentation causes the greatest surface irregularity and cementum removal, ultrasonic scaling gives more uniform surfaces with intermediate loss, and air polishing is the least abrasive with the highest cementum preservation (94% coronal vs 65% for hand) — though clinical relevance is uncertain (lab-based evidence).
+Narrative review (16 in vitro / in vitro–in vivo studies, last 15 years) on how periodontal instrumentation alters enamel and cementum surface roughness and hard-tissue substance loss.
 
-## 한줄요약
+Abrasiveness ranking from highest to lowest: hand instrumentation (cementum loss ≥40 µm, coronal preservation 65%) > ultrasonic scaling (≥20 µm, 84%) > air polishing (≤20 µm, 94%); enamel loss is minimal for all methods (<3 µm for hand/ultrasonic; none for air polishing).
 
-서사적 리뷰(16편, in vitro/in vivo 혼합, 최근 15년): 손기구(hand instrumentation)가 표면 거칠기·백악질(Cementum) 제거 최대, 초음파 스케일링(Ultrasonic scaling)은 더 균일한 표면에 중간 소실, 에어폴리싱(Air polishing)이 가장 비마모적이며 백악질 보존 최고(치관측 94% vs 손기구 65%) — 다만 대부분 실험실 근거라 임상 의의는 불확실.
+Air polishing is the least abrasive option for supportive/maintenance therapy but cannot remove calculus; combining it with ultrasonic scaling offers both cementum preservation and calculus removal, though all conclusions carry the caveat of predominantly in vitro evidence.
+
+## 세줄요약
+
+서사적 리뷰 (16편, 실험실/in vivo 혼합, 최근 15년): 치주 기구 조작이 법랑질과 백악질의 표면 거칠기·경조직 소실에 미치는 영향 종합.
+
+마모도 순위(높은 것부터): 손기구(백악질 소실 ≥40 µm, 치관측 보존 65%) > 초음파 스케일링(≥20 µm, 84%) > 에어폴리싱(≤20 µm, 94%); 법랑질 소실은 손기구·초음파 모두 <3 µm, 에어폴리싱은 0.
+
+에어폴리싱은 유지치료(Supportive Periodontal Therapy, SPT)에서 백악질 보존에 가장 유리하나 치석 제거 불가 — 초음파와 병용 시 양쪽 이점을 겸비하며, 모든 결론은 대부분 실험실 근거임을 감안해야 함.
 
 ## Summary
 

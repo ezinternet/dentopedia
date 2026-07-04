@@ -22,13 +22,21 @@ relations:
     target: fayad-2025-vertical-dimension-determination-prosthodontics-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (20 of 22 analytical cross-sectional studies, n=325 completely edentulous patients) comparing extraoral Gothic arch tracing against four methods of measuring horizontal condylar guidance (HCG) angle: cephalogram and panoramic radiograph (OPG) give significantly HIGHER angles (cephalogram pooled MD ≈ +10.2–10.7°, OPG ≈ +5.1°, both p<0.05 bilaterally) while CBCT and protrusive interocclusal wax record show NO significant difference — authors name OPG the best accurate alternative for programming the semi-adjustable articulator.
+PRISMA SR+MA (22 cross-sectional studies, 20 in meta-analysis, n=325 completely edentulous patients, predominantly India) compared extraoral Gothic arch tracing against cephalogram, panoramic radiograph (OPG), CBCT, and protrusive interocclusal wax record for measuring horizontal condylar guidance (HCG) angle.
 
-## 한줄요약
+Cephalogram (MD ≈+10.2–10.7°, p<0.001, I²=0%) and OPG (MD ≈+5.1°, p<0.05, I²=89–90%) gave significantly higher HCG angles than Gothic arch tracing; CBCT and wax record showed no significant difference but carried very high heterogeneity (I²=95–99%).
 
-무치악 환자(n=325) 수평과로각(Horizontal Condylar Guidance, HCG) 측정에서 구외 고딕아치 트레이싱(extraoral Gothic arch tracing)을 4가지 방법과 비교한 SR+MA(22편 중 20편 메타분석): 측방두부규격(cephalogram)·파노라마(OPG)는 유의하게 큰 값(cephalogram 약 +10.2~10.7°, OPG 약 +5.1°, 양측 p<0.05), CBCT·교합간 왁스기록은 차이 없음 — 반조절성 교합기(semi-adjustable articulator) 프로그래밍에 OPG가 가장 정확한 대안.
+Panoramic radiograph is recommended as the best practical alternative for programming the semi-adjustable articulator in edentulous patients, though "higher angle" does not equal "more anatomically correct" and the evidence base is heavily India-centric.
+
+## 세줄요약
+
+PRISMA SR+MA(22편 단면연구, 20편 메타분석, n=325 완전 무치악 환자, 주로 인도)로 수평과로각(Horizontal Condylar Guidance, HCG) 측정에서 구외 고딕아치 트레이싱을 측방두부규격(cephalogram), 파노라마(OPG), CBCT, 교합간 왁스기록 4가지와 비교하였다.
+
+cephalogram(MD ≈+10.2–10.7°, p<0.001, I²=0%)과 OPG(MD ≈+5.1°, p<0.05, I²=89–90%)가 고딕아치 트레이싱보다 유의하게 큰 HCG 각도를 보였고, CBCT와 왁스기록은 차이 없었으나 이질성 매우 높았다(I²=95–99%).
+
+파노라마는 무치악 환자의 반조절성 교합기 프로그래밍에 가장 실용적인 대안으로 권장되나, "더 큰 각도=더 정확한 해부학적 값"이 아니며 근거 대부분이 인도 중심이라는 한계가 있다.
 
 ## Summary
 

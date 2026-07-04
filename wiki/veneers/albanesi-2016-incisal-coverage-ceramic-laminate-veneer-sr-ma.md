@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 clinical studies (1,145 screened): incisal coverage vs non-coverage yielded 88% vs 91% veneer survival; OR 1.25 (non-significant) — both preparation designs are safe and effective.
+PROSPERO-registered SR+MA (MEDLINE + Cochrane, 1977–Jun 2016; 1,145 screened → 8 included) investigating whether incisal coverage in ceramic laminate veneer preparations affects clinical survival — the first SR+MA focused exclusively on this clinical question.
 
-## 한줄요약
+Estimated survival was 88% with incisal coverage vs 91% without; OR 1.25 (95% CI crosses 1.0, non-significant) — neither preparation design shows superior survival, allowing clinician choice based on esthetic needs and anatomy rather than prognosis.
 
-SR+MA (8편, 1,145편 검색): 절단연 피개 88% vs 미피개 91% 생존율, OR 1.25 (비유의) — 두 준비 디자인 모두 안전하고 효과적.
+No RCTs directly comparing the two designs existed at time of publication; all included evidence is observational; no crystalline ceramic veneer studies met inclusion criteria, limiting generalizability to modern materials.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (MEDLINE + Cochrane, 1977–2016년 6월; 1,145편 검색 → 8편 포함): 세라믹 라미네이트 비니어 절단연 피개 여부가 임상 생존율에 미치는 영향을 전문적으로 다룬 첫 SR+MA.
+
+절단연 피개 준비 생존율 88% vs 미피개 91%; OR 1.25 (95% CI 1.0 교차, 비유의) — 두 디자인 모두 임상적으로 안전하고, 생존율이 아닌 심미·교합·해부학적 요인으로 선택 가능.
+
+두 디자인을 직접 비교한 RCT 없고 전체 근거가 관찰 연구; 완전 결정질 세라믹(고강도) 비니어 연구는 포함기준 미충족 — 최신 재료로의 일반화에 한계.
 
 ## Summary
 

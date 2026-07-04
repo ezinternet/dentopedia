@@ -17,13 +17,23 @@ text_filename: li-2025-crown-root-fracture-super-bond-case-report.txt
 
 Super-Bond(4-META/MMA-TBB)의 치관-치근 파절편 재접착(crown-root fragment reattachment) 적응증에 대한 장기(55개월) 임상 근거 — 위키에 4-META/MMA-TBB의 in-vitro 접착력 자료는 있어도 실제 장기 임상 reattachment anchor가 없었다. [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]]가 4-META/MMA-TBB(Super-Bond C&B)를 열순환 내구성 최우수 luting agent로 보고한 in-vitro 결론을, 본 case report가 혈액·습기 오염 환경의 실제 구강에서 55개월 무탈착·치주건강 유지로 임상 확장한다. fiber-post-to-dentin 접착의 [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]]와도 짝을 이룬다(본 증례는 #1.4 fiber post로 fragment 보강).
 
-## One-line Summary
+## Three-line Summary
+
 
 Case report (n=1, 55-month follow-up): a complicated oblique crown-root fracture of the maxillary left central incisor was treated by immediate fragment reattachment with the Super-Bond C&B (4-META/MMA-TBB) adhesive and a #1.4 fiber post under a M-MIST labial flap, achieving stable restoration, PD <3 mm with negative BoP, no root/bone resorption, and complete periapical cyst healing at 55 months.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 증례보고 (n=1, 55개월 추적): 상악 좌측 중절치의 복합 사선형 치관-치근 파절을 M-MIST 순측 소판막 하에서 Super-Bond C&B(4-META/MMA-TBB) 접착제 + #1.4 fiber post로 즉시 파절편 재접착해, 55개월째 무탈착·PD <3 mm·BoP 음성·치근/치조골 흡수 없음·치근단 낭종 완전 치유의 양호한 결과를 얻은 보존적 치료.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

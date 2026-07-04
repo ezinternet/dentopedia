@@ -13,11 +13,21 @@ source_collection: external
 
 inlay 카테고리 보강. 교두 보존 온레이의 피로저항 근거 — [[cracked-tooth]] 균열치 보존수복·[[inlay/wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea]]와 연결.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro fatigue study - lithium disilicate onlays that preserve tooth cusps show favorable fatigue resistance, supporting conservative (cusp-preserving) onlay preparation over full cuspal reduction.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro 피로시험 - 치아 교두를 보존하는 lithium disilicate 온레이가 양호한 피로저항을 보여, 전교두 삭제보다 보존적(교두 보존) 온레이 형성을 지지.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 J Esthet Restor Dent 2022 · Griffis et al. · 2022 · DOI: 10.1111/jerd.12666. Study type: in-vitro.

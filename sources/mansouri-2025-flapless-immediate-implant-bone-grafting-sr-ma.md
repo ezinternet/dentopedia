@@ -10,7 +10,7 @@ pdf_filename: mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA: flapless 즉시식립 시 peri-implant gap에 골이식 추가 vs 비추가 — hard/soft tissue 변화를 평가; RCT 한정.
 
 ## 1. Document Information

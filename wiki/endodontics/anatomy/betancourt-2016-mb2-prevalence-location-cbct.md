@@ -18,11 +18,21 @@ relations:
     target: wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr
 ---
 
-## One-line Summary
-Cross-sectional in vivo CBCT survey (n=1,100 Chilean maxillary molars): MB2 prevalence 69.8% in first molars (1MM) vs 46.9% in second molars (2MM); mean PMB1-PMB2 distance 2.68 mm (1MM) / 2.41 mm (2MM); 1MM MB2 more frequent in females, 2MM MB2 more frequent in males.
+## Three-line Summary
 
-## 한줄요약
-CBCT cross-sectional (n=1,100 Chilean maxillary molars): MB2 prevalence 1MM 69.8% vs 2MM 46.9%; PMB1-PMB2 average distance 2.68 mm (1MM) / 2.41 mm (2MM); 1MM more frequent in females, 2MM more frequent in males.
+Large cross-sectional in vivo CBCT survey (n=1,100 Chilean maxillary molars, 550 first + 550 second molars) using identical measurement protocols — PMB1-PP distance, PMB1-PMB2 distance, and perpendicular PMB2 offset — at 1 mm apical to the pulpal floor.
+
+MB2 prevalence was 69.8% in first molars (1MM; female predominance, p=0.005) and 46.9% in second molars (2MM; male predominance, p<0.001); PMB1-PMB2 distance averaged 2.68 mm (1MM) and 2.41 mm (2MM).
+
+Clinicians can use the geometric rule "search ~2.5 mm palatal to MB1, slightly mesial to the MB1-PP line, just apical to the chamber floor"; high ethnic-population specificity means these figures should not be extrapolated to non-Chilean populations.
+
+## 세줄요약
+
+동일 프로토콜을 적용한 대규모 in vivo CBCT 횡단 조사(칠레 상악 대구치 1,100개, 제1대구치 550 + 제2대구치 550), 치저 1mm 하방 기준면에서 PMB1-PP·PMB1-PMB2·수직 PMB2 오프셋 측정.
+
+MB2 유병률 제1대구치 69.8%(여성 우세, p=0.005)·제2대구치 46.9%(남성 우세, p<0.001); PMB1-PMB2 거리 2.68mm(1MM)·2.41mm(2MM).
+
+임상 탐색 기준: "MB1에서 구개측으로 약 2.5mm, PMB1-PP 연결선에서 근심으로 약간 이동, 치저 직하방" — 단, 단일 인구집단(칠레)으로 타 민족에 직접 적용 주의.
 
 ## Summary
 Large in vivo CBCT survey from a single Chilean population that quantifies both prevalence and geometric location of the MB2 canal in the mesiobuccal root of permanent maxillary first and second molars. Standardized measurement plane: 1 mm apical to the pulpal floor. Three reference points (PMB1, PMB2, palatal canal PP) were used to express MB2 location both as a direct PMB1-PMB2 distance and as a perpendicular offset from the PMB1-PP line.

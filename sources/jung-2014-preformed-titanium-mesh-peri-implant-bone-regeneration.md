@@ -13,13 +13,23 @@ source_collection: external
 
 Early Korean evidence for a *customized, preformed* (ready-to-use, no cut/bend) titanium mesh as a peri-implant GBR barrier — the historical anchor that the later CAD/CAM custom-mesh GBR literature builds on. It supplies the foundational rationale (preformed round/blunt edges → less mucosal irritation → lower exposure; macro-pore space maintenance; FDBA+autograft histology) that the modern reviews systematize. Reinforces [[wiki/implants/vertical-ridge-augmentation/chiapasco-2021-customized-cadcam-titanium-meshes-gbr]] and provides primary-study grounding for [[wiki/implants/vertical-ridge-augmentation/ragucci-2025-customized-titanium-mesh-vertical-ridge-augmentation-sr-ma]].
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (10 patients / 12 implants) using a customized 3D preformed titanium mesh (SMARTbuilder; Osstem) over a 1:1 intraoral autograft + FDBA mixture for peri-implant dehiscence/fenestration defects: 4-month core biopsy showed ~80% vital bone, mesh exposure in 3/10 (30%), and all implants functional with stable marginal bone at 12 months.
 
-## 한줄요약
+Prospective case series (10 patients / 12 implants) using a customized 3D preformed titanium mesh (SMARTbuilder;
 
-전치성 케이스 시리즈(환자 10명·임플란트 12개)로, 임플란트 식립 후 발생한 열개/천공 결손에 맞춤형 3차원 사전성형 티타늄 메쉬(SMARTbuilder; Osstem)를 자가골+동결건조동종골(FDBA) 1:1 혼합 위에 덮어 GBR 시행 — 4개월 코어 생검에서 신생골 약 80%, 메쉬 노출 3/10(30%)이었으나 모든 임플란트가 기능했고 12개월 변연골이 안정적이었다.
+Osstem) over a 1:1 intraoral autograft + FDBA mixture for peri-implant dehiscence/fenestration defects: 4-month core biopsy showed ~80% vital bone, mesh exposure in 3/10 (30%), and all implants functional with stable marginal bone at 12 months.
+
+(incomplete)
+
+## 세줄요약
+
+
+전치성 케이스 시리즈(환자 10명·임플란트 12개)로, 임플란트 식립 후 발생한 열개/천공 결손에 맞춤형 3차원 사전성형 티타늄 메쉬(SMARTbuilder;
+
+Osstem)를 자가골+동결건조동종골(FDBA) 1:1 혼합 위에 덮어 GBR 시행 — 4개월 코어 생검에서 신생골 약 80%, 메쉬 노출 3/10(30%)이었으나 모든 임플란트가 기능했고 12개월 변연골이 안정적이었다.
+
+(incomplete)
 
 ## 1. Document Information
 

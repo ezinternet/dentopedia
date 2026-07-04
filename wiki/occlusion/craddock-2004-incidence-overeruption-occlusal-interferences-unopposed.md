@@ -16,13 +16,21 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-centre retrospective clinical study (120 adults, 155 unopposed posterior sites): 83.9% of unopposed sites over-erupted (0–5.39 mm; 95% CI 78–90), 51.6% were involved in an occlusal interference (RCP/protrusive/excursive), and the correlation between over-eruption extent and interference presence was weak and non-significant.
+Single-centre retrospective clinical study (120 adults, 155 unopposed posterior sites) measuring over-eruption via 3D-scanned stone models with Orthlieb curve-of-Spee extrapolation, and recording occlusal interferences with 8-µm articulating foils.
 
-## 한줄요약
+83.9% of unopposed sites over-erupted (range 0–5.39 mm; modal 1.0–2.5 mm; 95% CI 78–90), and 51.6% were involved in an occlusal interference (RCP, protrusive, working, non-working); the correlation between over-eruption extent and interference presence was weak and non-significant (Spearman).
 
-단일기관 후향적 임상연구(성인 120명, 무대합 구치 155부위): 무대합 부위의 83.9%가 정출(과맹출)을 보였고(0–5.39 mm, 95% CI 78–90), 51.6%가 교합간섭(RCP/돌출/측방운동)에 관여했으며, 정출 정도와 교합간섭 존재 사이의 상관은 약하고 유의하지 않았다.
+Over-eruption of unopposed posterior teeth is the rule (83.9%), not the exception, and interference cannot be predicted from eruption extent alone — both must be checked independently during prosthetic planning.
+
+## 세줄요약
+
+단일기관 후향적 임상연구(성인 120명, 무대합 구치 155부위): 3D 스캔 석고 모형에서 Orthlieb 방법으로 스피만곡(Curve of Spee) 외삽, 8 µm 교합박으로 교합간섭(Occlusal Interference)을 기록했다.
+
+무대합 부위의 83.9%가 과맹출(Overeruption; 범위 0–5.39 mm, 최빈값 1.0–2.5 mm; 95% CI 78–90)을 보였고, 51.6%가 교합간섭(RCP·돌출·작업·비작업측)에 관여했으며, 과맹출 정도와 교합간섭 존재의 상관은 약하고 비유의적이었다(Spearman).
+
+무대합 구치의 과맹출은 예외가 아닌 법칙(83.9%)이며, 정출 정도만으로 교합간섭을 예측할 수 없어 보철 계획 시 두 가지를 독립적으로 평가해야 한다.
 
 ## Summary
 

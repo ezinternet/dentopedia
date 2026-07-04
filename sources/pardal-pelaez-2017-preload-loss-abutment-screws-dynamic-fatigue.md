@@ -17,13 +17,23 @@ text_filename: pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue.t
 
 Provides the synthesizing in-vitro evidence base behind the connection-geometry claim that [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] and [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] make about Morse-taper joints — this 10-study systematic review quantifies the post-fatigue torque-loss range (16.1%–39%) and consolidates that internal connection + Morse taper best resist screw loosening under cyclic loading, anchoring those single-paper findings in a body of comparative bench data.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (10 in-vitro cyclic-loading studies) finding that abutment-screw preload loss after dynamic fatigue ranges 16.1%–39%, and that internal-connection implants — especially Morse taper — best resist screw loosening in single-tooth restorations.
 
-## 한줄요약
+(incomplete)
 
-10편의 in-vitro 반복하중 연구를 묶은 체계적 문헌고찰. 동적 피로 후 지대주 나사의 전하중 손실(preload loss)은 16.1%~39% 범위였고, 단일치 보철에서는 내부연결(internal connection), 특히 모스테이퍼(Morse taper)가 나사 풀림에 가장 잘 견딘다고 결론.
+(incomplete)
+
+## 세줄요약
+
+
+10편의 in-vitro 반복하중 연구를 묶은 체계적 문헌고찰.
+
+동적 피로 후 지대주 나사의 전하중 손실(preload loss)은 16.1%~39% 범위였고, 단일치 보철에서는 내부연결(internal connection), 특히 모스테이퍼(Morse taper)가 나사 풀림에 가장 잘 견딘다고 결론.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]]가 최소삭제 vs 전통적 준비의 *임상 결과*를 비교하지만, "얼마나·어디를 삭제할지"를 결정하는 구체적 의사결정 규칙은 위키에 부재했다. 본 case report(Coachman 2014)는 Gürel의 APT 철학을 한 단계 정량화한 "Do the Math"(P = LT − EV) 기법을 제시하여, 목표 색조 변화에 필요한 정확한 삭제량·위치를 수식으로 산출하는 근거를 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Case report introducing the "Do the Math" technique — an additive diagnostic wax-up transferred intraorally via an aesthetic pre-evaluative temporary (APT), combined with a mathematical formula (P = LT − EV) computed per tooth region to indicate the exact amount and location of reduction needed to achieve the desired final color and shape, minimizing over- or under-preparation.
+Case report (Int J Periodontics Restorative Dent 2014; Coachman, Gürel et al.) introducing the "Do the Math" technique for ceramic laminate veneer preparation — an additive diagnostic wax-up transferred intraorally as an aesthetic pre-evaluative temporary (APT), with preparation performed through the APT using the formula P = LT − EV (preparation = laminate thickness required for target color minus extra volume added by mock-up) calculated per tooth region.
 
-## 한줄요약
+For a minor A2→A1 color change, middle and incisal thirds required zero preparation (EV ≥ LT); interproximal and cervical areas required 0.2–0.4 mm reduction; final ultrathin lithium disilicate veneers were ~0.3 mm buccal thickness; the approach directly prevents both over-preparation and under-preparation.
 
-증례 보고: 부가형 진단 왁스업을 심미적 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)로 구강 내 전사한 뒤, 치아 부위별로 수식(라미네이트 두께 LT − 추가부피 EV = 삭제량 P)을 적용해 목표 색·형태에 필요한 정확한 삭제량·위치를 산출하는 "Do the Math" 기법 — 과삭제·과소삭제를 동시에 방지.
+Single case report (lowest evidence tier) with no comparative or survival data; the technique is not applicable to malformed/malpositioned teeth without initial conventional preparation; significantly dark teeth still require intrasulcular extension; field-specific preparation decisions (incisal coverage, dark substrate) remain controversial.
+
+## 세줄요약
+
+증례 보고(Int J Periodontics Restorative Dent 2014; Coachman·Gürel 외): 라미네이트 비니어 준비를 위한 "Do the Math" 기법 소개 — 부가형 진단 왁스업을 심미적 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)로 구강 내 전사 후, APT를 통해 삭제; 부위별로 P = LT − EV(라미네이트 두께 − 추가부피 = 삭제량) 수식 적용.
+
+A2→A1 소폭 색조 변화의 경우, 중간 1/3·절단 1/3은 삭제 불필요(EV ≥ LT); 치간·치경부 0.2–0.4 mm 삭제; 최종 초박형 리튬디실리케이트(IPS e.max) 비니어 협면 두께 ~0.3 mm; 과삭제·과소삭제 동시 방지.
+
+단일 증례 보고(최저 근거 수준), 비교·생존 데이터 없음; 변형·부정위치 치아에는 적용 불가; 심한 변색 치아는 여전히 치은연하 마진 연장 필요; 절단부 피복 여부 등 일부 준비 결정은 논란 지속.
 
 ## 1. Document Information
 

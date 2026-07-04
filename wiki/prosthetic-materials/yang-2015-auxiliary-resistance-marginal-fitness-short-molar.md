@@ -13,11 +13,21 @@ source_collection: external
 tags: [auxiliary-resistance-form, groove, occlusal-hole, short-molar, marginal-float, resistance-fit-tradeoff, chinese-journal, shandong]
 ---
 
-## One-line Summary
-In vitro study (70 Nissin resin teeth, 20° TOC + 2.5 mm short molars; 7 groups) of auxiliary resistance forms (proximal grooves or occlusal holes at 0°/6°/20° divergence): 0° groove (443 N), 0° hole (485 N), and 6° hole (444 N) significantly increased resistance vs control (328 N), but all features except 20° groove significantly worsened marginal float — a resistance-fit trade-off favoring avoidance when baseline retention is adequate.
+## Three-line Summary
 
-## 한줄요약
-in-vitro (West China J Stom 2015;33(5):474, Shandong U., 70 Nissin resin teeth at 20° TOC + 2.5 mm 짧은 대구치): proximal groove OR occlusal hole at 0°·6°·20° 외전도 — 0° groove (443N), 0° hole (485N), 6° hole (444N)이 control (328N) 대비 저항력 유의 증가; 그러나 20° groove 제외한 모든 보조형이 변연 부유 (margin float) 유의 증가 — 유지력-적합 trade-off; 충분한 유지력 있으면 보조형 피하기 권장.
+In-vitro study (West China J Stom 2015, 70 Nissin resin teeth, 20° TOC + 2.5 mm short molar height, 7 groups) comparing proximal grooves and occlusal holes at 0°/6°/20° divergence on dislodgement resistance and marginal fit.
+
+0° groove (443 N), 0° hole (485 N), and 6° hole (444 N) significantly increased resistance vs control (328 N), but all features except 20° groove significantly worsened marginal float.
+
+A resistance-fit trade-off exists: auxiliary features should be avoided when baseline retention is adequate; only add them when dimensions are demonstrably deficient.
+
+## 세줄요약
+
+In-vitro 연구 (West China J Stom 2015;33(5):474, Shandong Univ., 70 Nissin 레진치아, 20° TOC + 2.5 mm 짧은 대구치): proximal groove·occlusal hole × 0°/6°/20° 외전도, 탈락저항력·변연 부유(marginal float) 측정.
+
+0° groove(443 N)·0° hole(485 N)·6° hole(444 N)이 control(328 N) 대비 저항력 유의 증가; 그러나 20° groove 제외 모든 보조형이 변연 부유 유의 악화.
+
+저항-적합 상충관계(trade-off): 기본 유지력이 충분하면 보조 형태 추가 금지 — 치경 높이·수렴각 부족 시에만 groove/hole 고려.
 
 ## Summary
 In vitro experimental study (West China Journal of Stomatology 2015) — bilingual Chinese-English. Tests auxiliary resistance forms (proximal grooves OR occlusal holes) at 3 divergence angles on short molar preps. Critical finding: resistance gain comes with marginal fit cost.

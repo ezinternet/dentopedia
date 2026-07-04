@@ -27,13 +27,21 @@ tags: [endodontics, anatomy, canal-morphology, cbct, micro-ct, prevalence, radix
 > - 공통 임상 규칙: ①동아시아 하악 제1대구치·상악 측절치 등 고사전확률(high-prior) 상황은 CBCT 처방 임계값을 낮추고, ②변이 발견 시 접근와동을 수정(RE는 원심설측 orifice, MMC는 근심 developmental groove 홈형성)하며, ③양측성이 흔하므로(RE 46%) 반대측(contralateral) 동명치를 함께 확인한다.
 > - 한계: 모두 유병률/해부 연구 — 변이치의 장기 치아생존(tooth-survival) outcome 데이터는 이 컬렉션에 없다. NPC는 근관 변이가 아닌 수술 랜드마크로 성격이 달라 별개 축으로 다룬다.
 
-## One-line Summary
+## Three-line Summary
 
-Hub synthesis of 5 anatomical-variant prevalence papers (3 CBCT SR+MAs, 1 micro-CT SR+MA, 1 CBCT cross-section) mapping how often each root/canal variant occurs and by what evidence tier: a third root (Radix Entomolaris) in 8.85% of mandibular first molars globally but 24% in East Asians (Aung 2022); dens invaginatus at 9.0% on CBCT — double 2D estimates — mostly in maxillary lateral incisors, Oehlers Type I (Gonzalez-Mancilla 2022); maxillary canines Vertucci Type I in 75.4–100% with ~25% variation and male-predominant Type III/V (Wolf 2024); the double-rooted mandibular first molar's internal system on micro-CT (mesial Type IV 58.7%, distal Type I 83.0%, MMC up to 46%, isthmus 10–100%; Al-Rammahi 2023); and the nasopalatine canal as an anterior-maxilla surgical landmark (Yadav 2024) — with C-shaped and MB2 anatomy delegated to their dedicated deep-dive overviews.
+Hub synthesis of 5 anatomical-variant prevalence papers (3 CBCT SR+MAs, 1 micro-CT SR+MA, 1 CBCT cross-sectional) mapping root and canal variant prevalence per tooth type across imaging modalities; C-shaped canal and MB2 anatomy are delegated to dedicated deep-dive overviews.
 
-## 한줄요약
+Radix Entomolaris occurs in 8.85% of mandibular first molars globally but 24% in East Asians with ~46% bilateral symmetry (Aung 2022 SR+MA, 37,994 teeth); dens invaginatus at 9.0% on CBCT — double 2D estimates — mostly maxillary lateral incisors Oehlers Type I (Gonzalez-Mancilla 2022); maxillary canine Vertucci Type I 75.4–100% but ~25% variation with male-predominant Type III/V (Wolf 2024); mandibular first molar mesial root Type IV 58.7%, distal Type I 83.0%, middle mesial canal up to 46% on micro-CT (Al-Rammahi 2023); nasopalatine canal mean 9.64 mm as an anterior-maxilla surgical landmark (Yadav 2024).
 
-근관·해부 변이 유병률 5편(CBCT SR+MA 3, micro-CT SR+MA 1, CBCT 단면 1) 허브 종합 — 하악 제1대구치 3근(RE) 전세계 8.85%·동아시아 24%(Aung 2022), 치내치 CBCT 9.0%로 2D의 2배·상악 측절치 최다(Gonzalez-Mancilla 2022), 상악 견치 Vertucci I 75.4–100%·변이 약 25%·남성 III/V 우세(Wolf 2024), 하악 제1대구치 micro-CT 근심 IV 58.7%·원심 I 83.0%·MMC 최대 46%·isthmus 10–100%(Al-Rammahi 2023), 비비구개관 전상악 임플란트 랜드마크(Yadav 2024); C형·MB2는 별도 심화 페이지로 위임.
+The evidence-tier principle (micro-CT > CBCT > 2D radiograph) means every prevalence number must be read against its imaging modality; the practical clinical rule is: lower the CBCT threshold when the population prior is high (East-Asian mandibular first molars, maxillary lateral incisors), modify the access cavity to the expected variant, and check the contralateral tooth.
+
+## 세줄요약
+
+근관·해부 변이 유병률 5편(CBCT SR+MA 3, micro-CT SR+MA 1, CBCT 단면 1) 허브 종합 — C형 근관·MB2는 별도 심화 페이지 위임; 이 페이지는 치아 유형별 변이 유병률 허브 역할.
+
+제1하악대구치 3근(RE) 전세계 8.85%·동아시아 24%·양측성 ~46%(Aung 2022, 37,994치); 치내치(DI) CBCT 9.0%로 2D의 2배·상악 측절치 최다·Oehlers I형 우세(Gonzalez-Mancilla 2022); 상악 견치 Vertucci I 75.4–100%·변이 ~25%·남성 III/V 유의하게 많음(Wolf 2024); 하악 제1대구치 micro-CT 근심근 IV형 58.7%·원심근 I형 83.0%·중간근심관 최대 46%(Al-Rammahi 2023); 비비구개관 평균 9.64 mm 전상악 임플란트 랜드마크(Yadav 2024).
+
+근거 계층 원칙(micro-CT > CBCT > 2D)을 따라 유병률 수치는 반드시 촬영법과 함께 읽어야 하며, 임상 적용은 ①고사전확률 케이스(동아시아 하악 제1대구치·상악 측절치)에서 CBCT 임계값 낮추기 ②예상 변이에 맞춘 접근와동 수정 ③양측성이 흔하므로 반대측 동명치 확인.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [classification, taxonomy, foundational]
 ---
 
-## One-line Summary
-Systematic review of 59 studies (88,069 complaints) that synthesises 205 codes into a 7-category, 3-domain patient-complaint taxonomy.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰(59편·민원 88,069건)로, 환자 민원을 7범주·3도메인(임상/관리/관계)으로 정리한 분류 택사노미 정립.
+Systematic review of 59 primary quantitative studies (88,069 complaints, 113,551 underlying issues) synthesising the content of patient complaints across healthcare settings.
+
+Reducing 205 heterogeneous analytical codes to 29 subcategories, 7 categories, and 3 domains revealed roughly equal thirds: Clinical safety/quality (33.7%), Organisational management (35.1%), and Staff-patient relationships (29.1%).
+
+This taxonomy became the conceptual backbone of the HCAT coding instrument and established that complaints reflect system and relational failures as often as clinical errors.
+
+## 세줄요약
+
+59편의 1차 정량 연구(민원 88,069건, 기저 문제 113,551건)를 대상으로 환자 민원의 내용을 합성한 최초의 체계적 문헌고찰.
+
+205개 코드를 29개 하위범주 → 7개 범주 → 3개 도메인으로 축약한 결과 임상 안전·질(33.7%), 조직 관리(35.1%), 직원-환자 관계(29.1%)가 거의 동등하게 분포했다.
+
+이 분류 체계는 이후 HCAT 코딩 도구의 개념적 기반이 됐으며, 민원이 임상 오류만큼이나 시스템·관계적 실패를 반영함을 확립했다.
 
 ## Summary
 Reader, Gillespie and Roberts conducted the first systematic review of the *content* of patient complaints, screening complaint research for primary quantitative data and synthesising 88,069 complaints comprising 113,551 issues. They collapsed 205 published analytical codes into 29 subcategories, 7 categories, and 3 conceptual domains. The domains -- clinical care, organisational management, and staff-patient relationships -- each accounted for roughly a third of issues, showing complaints are not merely about clinical error but distribute across system and relational failures. This taxonomy became the evidence base for the HCAT coding instrument.

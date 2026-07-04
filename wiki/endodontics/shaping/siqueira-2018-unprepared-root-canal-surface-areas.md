@@ -18,13 +18,21 @@ relations:
     target: boutsioukis-2022-irrigants-irrigation-methods-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Critical review (Siqueira et al. 2018, Braz Oral Res) on unprepared canal surface: instruments leave ~10–50% of round/small canals and up to 80% of oval/flattened canals untouched (worse apically), harboring residual biofilm that drives post-treatment apical periodontitis — addressed by adequate apical size, copious renewed NaOCl, supplementary activation, and anatomy-adapted technique.
+Critical narrative review (Siqueira et al. 2018, Braz Oral Res) integrating micro-CT, histology, and antimicrobial-efficacy data to quantify how much canal wall NiTi instruments miss: ~10–50% in round/small canals and up to 80% in oval/flattened canals, with the apical third disproportionately affected.
 
-## 한줄요약
+Residual biofilm on untouched walls survives both mechanical debridement and irrigation (bacteria-positive canals 30–60% after preparation), because files shape the main canal lumen and chemical action must disinfect the recesses.
 
-Siqueira 등 (2018, Braz Oral Res) 비평적 종설 — 기구는 원형/소형 근관의 약 10–50%, 타원형/편평 근관의 최대 80%(근단부는 더 높음)를 건드리지 못해 잔존 바이오필름이 치료 후 치근단치주염을 유발하며, 적절한 근단부 확대·충분히 교체되는 NaOCl·보조 세정 활성화·해부 맞춤 술식으로 보완해야 한다.
+Therapeutic levers are adequate apical preparation size, large-volume frequently refreshed NaOCl at full working length, supplementary irrigant activation, and anatomy-adapted (reciprocating/supplementary) techniques for oval/C-shaped canals.
+
+## 세줄요약
+
+Siqueira 등 (2018, Braz Oral Res) 비평적 종설: micro-CT·조직학·항균효능 자료를 통합하여 NiTi 기구가 놓치는 근관벽 면적 정량화 — 원형/소형 근관 약 10–50%, 타원형/편평 근관 최대 80%, 근단 1/3이 특히 큼.
+
+건드리지 못한 벽의 잔존 바이오필름은 기계적 성형과 세정에도 살아남아(준비 후 세균 양성 30–60%), 기구가 주된 근관강만 성형하므로 화학적 작용이 오목부를 소독해야 하기 때문이다.
+
+치료적 개선책: 충분한 근단부 확대 크기, 전장 근관까지의 대량·반복 교환 NaOCl, 보조 세정 활성화, 타원형/C형 근관에 대한 해부 맞춤(왕복/보조) 술식.
 
 ## Summary
 

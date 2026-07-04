@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (6 RCTs, 1342 participants, all high risk of bias): rubber dam isolation may increase survival of direct composite restorations of NCCLs at 6 months (OR 2.29, 95% CI 1.05–4.99; low-certainty), with very uncertain evidence at later time points.
+Cochrane SR+MA update (2021; 6 RCTs, 1342 participants, mostly children) comparing rubber dam versus alternative isolation methods (cotton rolls in 5 studies, Isolite in 1) for restorative treatment outcomes; all included studies were at high risk of bias.
 
-## 한줄요약
+Rubber dam may increase survival of direct composite NCCL restorations at 6 months (OR 2.29, 95% CI 1.05–4.99; low-certainty); evidence at 12 and 18 months showed little/no effect (very-low-certainty); no adverse-effect or cost data were reported by any included study.
 
-Cochrane 체계적 문헌고찰+메타분석 (RCT 6편, 1342명, 모두 비뚤림 위험 높음): 러버댐 격리가 6개월 시점에 비우식성 치경부병소(NCCL) 직접 복합레진 수복물의 생존율을 높일 수 있으나(OR 2.29, 95% CI 1.05–4.99; 낮은 근거수준), 그 이후 시점의 근거는 매우 불확실함.
+The clinical evidence base for rubber dam superiority is limited by universal high risk of bias across all included studies; rubber dam provides a biologically plausible isolation benefit, but the evidence certainty is too low to make strong recommendations beyond 6 months.
+
+## 세줄요약
+
+Cochrane SR+MA 업데이트(2021; RCT 6편, 참여자 1342명, 대부분 소아) — 러버댐 vs 대안 격리법(코튼롤 5편, Isolite 1편)의 수복치료 결과 비교; 모든 연구 비뚤림 위험 높음.
+
+러버댐이 6개월 시점 NCCL 직접 복합레진 수복물 생존율을 높일 수 있음(OR 2.29, 95% CI 1.05–4.99; 낮은 근거수준); 12·18개월에서는 효과 거의 없음(매우 낮은 근거수준); 어떤 연구도 이상반응·비용 데이터 미보고.
+
+모든 포함 연구가 높은 비뚤림 위험으로 러버댐 우월성의 임상 근거가 제한적이며, 생물학적 이론적 이점은 있으나 6개월 이후에 대한 강한 권고는 불가하다.
 
 ## Summary
 

@@ -20,13 +20,21 @@ relations:
     target: althobaiti-2023-osseodensification-conventional-drilling-isq-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=20 edentulous patients, 12 months, 16S rRNA sequencing): zirconia implants showed higher microbial diversity and less pathogenic taxa (lower red complex, Actinobacteria) at 12 months vs titanium; beta diversity did not differ significantly; findings are exploratory with no clear clinical superiority of either material.
+Split-mouth RCT (n=20 fully edentulous mandibular patients, 12-month follow-up, 16S rRNA V1-V3 sequencing with QIIME2/MaAsLin2): zirconia (Straumann PURE) and titanium SLactive implants were compared supragingival microbiome profiles at 3, 6, and 12 months.
 
-## 한줄요약
+Zirconia showed significantly higher alpha diversity at 12 months (p<0.05), lower Actinobacteria at T2, and less red-complex pathogen accumulation; beta diversity did not differ significantly between materials at any timepoint (PERMANOVA NS).
 
-분할구 RCT (20명, 12개월, 16S rRNA 분석): 지르코니아 임플란트가 12개월 시점에 티타늄 대비 미생물 다양성 높고 Actinobacteria·레드 컴플렉스 감소 경향; 베타 다양성 차이는 없으며 어느 재료의 임상적 우위도 단정 짓기 어렵다.
+Findings are explicitly exploratory — supragingival sampling only, no subgingival or clinical outcomes — and the authors caution against inferring clinical superiority of either material from these microbiome differences alone.
+
+## 세줄요약
+
+분할구 무작위대조시험 (Split-mouth RCT, n=20명 완전무치악 하악, 12개월, 16S rRNA 시퀀싱): 지르코니아 (Straumann PURE)와 티타늄 SLactive 오버덴처 임플란트의 상부치은 미생물상 비교(3·6·12개월).
+
+12개월 시점 지르코니아에서 알파 다양성 유의하게 높음(p<0.05), Actinobacteria·레드 컴플렉스 병원균 감소 경향; 베타 다양성 (Beta Diversity)은 두 재료 간 유의한 차이 없음(PERMANOVA NS).
+
+치은연상 샘플링만 수행, 치은연하 및 임상 결과 없음 — 탐색적 연구로 어느 재료의 임상적 우위도 결론 짓기 어려우며 전향적 종단 연구 필요.
 
 ## Summary
 

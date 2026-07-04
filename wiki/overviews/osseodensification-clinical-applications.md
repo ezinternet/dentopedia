@@ -63,12 +63,21 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 > - ex vivo 보강 — IT/RT↑ 그러나 ISQ NS 재현 (de Lima 2026): 소 늑골 Type IV 모델(n=16) 쌍대 연구에서 Versah와 브라질산 WF 키트 모두 기존 드릴링 대비 삽입토크(IT)·제거토크(RT) 유의↑(p=0.007/0.008)이나 ISQ(~79–82, p=0.157)·최고 온도(~28–31°C, p=0.087)는 세 군 간 유의차 없음 → "OD 이득은 기계적 맞물림(torque-detectable), ISQ로 측정되는 강성 변화는 아님" 해석 지지. 특기사항: WF 키트가 토크에서 Versah를 초과(IT 95.25 vs 77.62 Ncm) — 동일 원리의 저비용 대안 가능성.
 > - 한계: search cutoff 2023, RCT 부족·follow-up 짧음, Versah Inc. 후원 연구 다수 → 환자 동의서에 "근거 수준 낮음–중등" 언급 권장.
 
-## One-line Summary
+## Three-line Summary
 
-Hub-and-spoke synthesis using Fontes Pereira 2023 SR as spine to map osseodensification (OD) — counterclockwise (CCW) 800–1500 rpm Densah-bur bone compaction/autografting — across its 4 clinical scenarios (sub-antral augmentation, narrow ridge, low-density D3–D4 bone, immediate placement). Core thesis: the consistent OD benefit is raised insertion torque (IT) [strong] and ~3× BIC in vitro, survival equals conventional, but the ISQ benefit is contested — Mohammadi 2025 SR+MA found no significant primary or secondary ISQ difference in low-density bone, so gains should be framed as mechanical (IT) certain / ISQ (RFA) mixed; thermal safety caps bur reuse (~23 uses) and RPM (47 °C osteonecrosis threshold), and overall evidence quality is low–moderate with many Versah-sponsored studies.
+Hub-and-spoke synthesis of 33 papers using Fontes Pereira 2023 SR as spine, mapping osseodensification (OD) — counterclockwise (CCW) 800–1500 rpm Densah-bur bone compaction/autografting — across 4 clinical scenarios: sub-antral augmentation, narrow ridge, low-density D3–D4 bone, and immediate placement.
 
-## 한줄요약
-골밀도화 (Osseodensification, OD)는 반시계회전 (Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하여 4개 임상 시나리오 (상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다 — 삽입토크 (Insertion Torque, IT) 일관되게 상승 [근거강함], 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 **저밀도골 인체 SR+MA(mohammadi 2025)에서 유의차 없음 — 논쟁적** [합의수준, 하향], 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) in vitro 3배 상승 [근거강함]; 전반적 임상 근거 수준은 낮음–중등 (Fontes Pereira 2023 결론). 발열 안전: 버 재사용 ≥23회 + 고RPM 시 골괴사 임계(47°C) 초과 (soldatos 2024).
+The consistent OD benefit is raised insertion torque (IT), confirmed across bench/cadaver/animal/human in every study that measured it; in-vitro BIC is ~3× higher; but ISQ (RFA) benefit is not reproduced in two independent 2025 human SR+MAs (Mohammadi 2025 7 studies: primary MD=4.13 NS, Shilpi 2025 6 studies: immediate SMD=2.13 NS) — the torque/ISQ dissociation is a structural finding across bench, cadaver, animal, and clinical data; survival equals conventional; thermal safety caps bur reuse at ~23 uses and recommends ~1000 rpm (47 °C osteonecrosis threshold, Soldatos 2024); overall evidence quality is low–moderate, many Versah-sponsored studies.
+
+Frame OD gains as "mechanical fixation (IT) certain / ISQ uncertain" when counseling patients; the sub-antral TSFE and low-density bone D3–D4 scenarios are the two clinically active spokes; narrow-ridge and immediate-placement spokes lack dedicated SRs and are pending further evidence.
+
+## 세줄요약
+
+Fontes Pereira 2023 SR을 spine으로 33편을 4개 임상 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 허브-스포크로 통합.
+
+일관된 이득은 삽입토크(Insertion Torque, IT) 상승 — 벤치·사체·동물·임상 전 계층에서 재현; in vitro 골-임플란트 접촉률(BIC) ~3배; 그러나 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 2025년 두 독립 인체 SR+MA(Mohammadi 2025 7편 NS·Shilpi 2025 6편 NS)로 근거 혼재 — 토크/ISQ 해리는 구조적 현상; 생존율 conventional과 동등; 발열 안전: 버 ~23회 교체·~1000 rpm 권장(47°C 임계, Soldatos 2024); 전반 근거 낮음–중등, Versah 후원 연구 다수.
+
+환자 설명 시 "삽입 토크는 확실·ISQ는 혼재"로 분리; 상악동저 보강·저밀도골이 가장 활성화된 두 스포크; 좁은 ridge·즉시식립은 단독 SR 부재로 추가 근거 대기 중.
 
 ---
 

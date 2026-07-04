@@ -17,13 +17,21 @@ text_filename: akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height.txt
 
 잔존 치조제 높이와 상악동 점막비후 간의 관계를 CBCT로 분석한 연구. 골 높이가 낮을수록 점막비후 위험이 높은지를 평가 — 임플란트 계획 시 사전 위험 계층화에 직접 활용 가능. [[sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus]]와 대비되는 결과(ridge height 연관성 있음 vs 없음) 제공.
 
-## One-line Summary
+## Three-line Summary
 
-CBCT study (n=240 sinuses, 141 implant candidates) found significant association between lower residual alveolar ridge height and greater maxillary sinus mucosal thickening; membrane thickness >3mm was pathological threshold.
+Retrospective CBCT cross-sectional study (n=240 sinuses, 141 implant candidates; 62% male) measuring residual alveolar ridge height and maxillary sinus mucosal thickness in both unilateral and bilateral assessments.
 
-## 한줄요약
+Significant inverse correlation found: lower residual ridge height was associated with greater mucosal thickening; pathological threshold set at >3 mm membrane thickness, consistent with consensus literature.
 
-임플란트 후보 141명 CBCT 분석: 잔존 치조제 높이가 낮을수록 상악동 점막비후가 유의하게 심했으며, 점막두께 >3mm를 병적 기준으로 설정.
+Preoperative risk stratification is supported — patients with advanced bone resorption should be counseled about higher likelihood of sinus pathology before lateral sinus lift planning, but causation cannot be inferred from this cross-sectional design.
+
+## 세줄요약
+
+후향 CBCT 단면 연구(n=240 동굴, 임플란트 후보 141명, 남성 62%): 편측 42명, 양측 99명에서 잔존 치조제 높이와 상악동 점막두께를 측정.
+
+잔존 치조제 높이가 낮을수록 점막비후가 유의하게 심했으며(역상관), 병적 기준은 >3mm 점막두께로 설정.
+
+골흡수가 진행된 환자에서 상악동 점막 병변 가능성이 높아 임플란트 계획 시 사전 위험 계층화에 활용 가능하나, 단면 설계 특성상 인과관계 추론은 불가.
 
 ## 1. Document Information
 

@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/veneers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma]]의 SR+MA가 간접 복합레진 비니어 생존율을 84%로 보고하였으나 no-prep 기법 특화 장기 임상 데이터(7년)는 포함되지 않았음. 본 전향적 증례 연구(Kam Hepdeniz 2023)는 무삭제 간접 복합레진 라미네이트 비니어의 84개월 생존율 91.3%를 보고하여 해당 SR+MA의 간접법 수치(84%)보다 높은 성과를 제시하며 enamel-bonded no-prep 전략의 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (n=80 veneers, 35 patients, 84 months): no-prep indirect microhybrid composite laminate veneers on maxillary anterior teeth achieved 91.3% survival rate (Kaplan-Meier), with debonding (n=4) and fracture (n=3) as the only absolute failures; no secondary caries, antagonist wear, or tooth fracture observed.
 
-## 한줄요약
+Prospective case series (n=80 veneers, 35 patients, 84 months): no-prep indirect microhybrid composite laminate veneers on maxillary anterior teeth achieved 91.3% survival rate (Kaplan-Meier), with debonding (n=4) and fracture (n=3) as the only absolute failures;
 
-전향적 증례 연구(n=80 비니어, 35명, 84개월): 무삭제 간접 마이크로하이브리드 복합레진 라미네이트 비니어(라미네이트 비니어, laminate veneer)의 생존율 91.3%(Kaplan-Meier); 실패는 탈락(디본딩, debonding) 4개·파절 3개에 한정, 이차 우식·대합치 마모·치아파절 없음.
+no secondary caries, antagonist wear, or tooth fracture observed.
+
+(incomplete)
+
+## 세줄요약
+
+
+전향적 증례 연구(n=80 비니어, 35명, 84개월): 무삭제 간접 마이크로하이브리드 복합레진 라미네이트 비니어(라미네이트 비니어, laminate veneer)의 생존율 91.3%(Kaplan-Meier);
+
+실패는 탈락(디본딩, debonding) 4개·파절 3개에 한정, 이차 우식·대합치 마모·치아파절 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

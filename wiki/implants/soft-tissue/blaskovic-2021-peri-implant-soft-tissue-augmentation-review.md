@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-IntechOpen book chapter (2021) providing a procedural reference for the full spectrum of peri-implant soft tissue augmentation techniques — FGG, CTG, pedicle grafts, APF, roll technique, tunneling, and xenogeneic collagen matrix substitutes — with surgical biology and technique detail.
+IntechOpen book chapter (2021, narrative-review) covering the full spectrum of peri-implant soft tissue augmentation — FGG, CTG, pedicle grafts, APF, roll technique, tunneling, and xenogeneic collagen matrices — with graft biology (plasmatic imbibition, transvascularization) and technique rationale.
 
-## 한줄요약
+Key thresholds: KM < 2 mm is associated with increased plaque, mucositis, recession, MBL, and peri-implantitis risk in erratic compliers; soft tissue thickness < 2 mm causes titanium color show-through and biologic-width-driven marginal bone resorption.
 
-IntechOpen 교과서 챕터 (2021): FGG·CTG·유경이식편·근단변위판(APF)·롤술식·터널링·이종 콜라겐 기질 대체재를 망라한 임플란트 주위 연조직 증대술의 술식 기준서.
+Xenogeneic collagen matrices offer comparable KM width gain to FGG with lower morbidity but potentially inferior volume augmentation compared to CTG; CTG remains the gold standard for volume/esthetic augmentation.
+
+## 세줄요약
+
+IntechOpen 교과서 챕터(2021, 서술적 고찰): FGG·CTG·유경이식편·근단변위판(APF, Apically Positioned Flap)·롤술식·터널링·이종 콜라겐 기질 대체재를 망라한 임플란트 주위 연조직 증대술의 술식 기준서; 이식편 생물학(형질침윤, 혈관신생) 포함.
+
+핵심 임계값: 각화점막(KM, Keratinized Mucosa) < 2 mm는 치태·점막퇴축·변연골소실·임플란트 주위염 위험 증가와 연관; 연조직 두께(PIS, Peri-Implant Soft tissue) < 2 mm는 티타늄 색 투시 및 생물학적 폭경(Biologic Width) 손상에 의한 변연골 흡수를 유발.
+
+이종 콜라겐 기질은 FGG와 KM 폭 증가 효과가 유사하고 이환율이 낮으나 부피 증대에서는 CTG 대비 열위 가능성이 있으며, 부피·심미 증대의 표준은 CTG임.
 
 ## Summary
 

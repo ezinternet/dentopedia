@@ -18,13 +18,21 @@ relations:
     target: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (Navigation Guide, 46 studies): of prenatal acetaminophen–neurodevelopmental-disorder (ASD/ADHD) studies, 27 positive / 9 null / 4 negative, with higher-quality studies more often positive — authors conclude evidence supports an association and advise limiting acetaminophen in pregnancy. (Association ≠ causation; ACOG still deems it safe.)
+Systematic review using the Navigation Guide environmental-health methodology (46 studies through Feb 2025) examining prenatal acetaminophen exposure and offspring neurodevelopmental disorders (ASD, ADHD); qualitative synthesis only (no meta-analysis) due to heterogeneity.
 
-## 한줄요약
+Of 46 studies, 27 reported positive associations with neurodevelopmental disorders, 9 null, and 4 negative (protective); higher-quality studies were more often positive — authors conclude evidence is consistent with an association and recommend limiting acetaminophen in pregnancy.
 
-체계적 리뷰 (Navigation Guide, 46편): 산전 아세트아미노펜 (Acetaminophen) 노출과 신경발달장애 (Neurodevelopmental Disorder, NDD; 자폐 ASD·ADHD) 연구 중 양성 27 / 무 9 / 음성 4편, 고품질 연구일수록 양성 경향 → 저자는 연관 지지·임신 중 사용 제한 권고. (연관≠인과, ACOG는 여전히 안전 입장.)
+This is observational, association-not-causation evidence with major confounding by indication (fever/pain/infection also linked to NDDs); ACOG and FDA continue to consider acetaminophen the preferred analgesic in pregnancy; for dental prescribing, use the lowest effective dose for the shortest duration.
+
+## 세줄요약
+
+Navigation Guide 방법론 기반 체계적 리뷰(46편, 2025년 2월까지): 산전 아세트아미노펜(Acetaminophen) 노출과 자손의 신경발달장애(Neurodevelopmental Disorder, NDD; 자폐스펙트럼장애(ASD)·주의력결핍과잉행동장애(ADHD)) 연관성 연구 이질성으로 메타분석 불가, 정성 종합.
+
+46편 중 27편 양성 연관/9편 결과 없음/4편 음성(보호); 고품질 연구일수록 양성 경향 → 저자는 연관 지지·임신 중 사용 제한 권고.
+
+관찰 연구 한계로 연관≠인과; 주요 교란변수(발열·감염·통증 자체가 NDD와 연관)가 통제되지 않음; ACOG·FDA는 여전히 임신 중 선호 진통제로 유지 — 치과 처방에서는 최소 용량·최단 기간 원칙 적용.
 
 ## Summary
 

@@ -18,13 +18,21 @@ relations:
     target: lamichhane-2025-crown-margins-marginal-adaptation-periodontal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (search 1981–2021) concluding that supragingival margins and CAD/CAM zirconia restorations preserve periodontal health better than subgingival margins and conventional cast-alloy restorations, with marginal discrepancy driving biofilm accumulation, increased GCF flow, recurrent caries and eventual bone loss.
+Narrative review (PubMed/Medline/Scopus/Google Scholar, 1981–2021) synthesizing how margin fit, margin position, material type, and surface finish of fixed prosthetic restorations affect periodontal health.
 
-## 한줄요약
+Marginal discrepancy is the central failure pathway — it drives biofilm accumulation, increased GCF flow, recurrent caries, pulp infection, and bone loss; supragingival margins outperform subgingival margins for hygiene access and periodontal safety; CAD/CAM zirconia offers superior marginal fit and less gingival inflammation vs conventional alloy restorations.
 
-내러티브 리뷰(1981–2021): 변연 부적합이 biofilm·치은열구액·이차우식·골소실로 이어지며, 치은연상 변연과 CAD/CAM 지르코니아가 치은연하 변연·기존 합금 수복물보다 치주 건강 유지에 유리하다.
+Pre-prosthetic periodontal assessment and prosthodontist–periodontist collaboration are essential; no single agreed marginal gap threshold exists, but <120 µm (cited range 20–75 µm "adequate") is the practical target.
+
+## 세줄요약
+
+고정 보철 수복물의 변연 적합도·변연 위치·재료·표면 마감이 치주 건강에 미치는 영향을 종합한 내러티브 리뷰(1981–2021; PubMed 등 4개 DB).
+
+변연 부적합이 핵심 실패 경로 — 생물막 축적·치은열구액 증가·이차우식·치수 감염·골소실로 이어짐; 치은연상 변연이 치은연하보다 위생관리 및 치주 안전성에 우수; CAD/CAM 지르코니아가 기존 합금 대비 변연 적합도 우수·치은 염증 적음.
+
+보철 전 치주 평가와 보철과·치주과 협진이 필수이며, 권장 변연 간격 기준은 다양하나 실용적 목표는 <120 µm(적절 범위 20–75 µm)임.
 
 ## Summary
 

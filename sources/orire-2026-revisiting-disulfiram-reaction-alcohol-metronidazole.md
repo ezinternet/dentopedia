@@ -13,7 +13,7 @@ source_collection: external
 
 치과에서 metronidazole은 치성·치주 혐기성 감염에 흔히 처방되고, "복용 중 음주 금지(disulfiram 유사 반응)"는 표준 환자 상담 문구다. 본 리뷰(11편)는 이 상호작용의 근거가 약함을 보여 [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]]의 항생제 부작용 상담 및 [[overviews/drug-antibiotic-stewardship-overview]]의 처방 상담 항목을 재검토할 근거로 활용. 짝 논문 [[drug/feldman-2023-metronidazole-disulfiram-reaction-case-control]]와 함께 ingest.
 
-## One-line Summary
+## Three-line Summary
 
 Focused literature review (4 databases, Jan 1970–Nov 2024, 11 studies): the evidence does not strongly support a clinically significant disulfiram-like reaction between alcohol and oral metronidazole — case reports suggest a link but controlled trials, a chart review, and animal studies do not — questioning the need for strict alcohol abstinence during therapy. (Abstract-only; full text paywalled.)
 

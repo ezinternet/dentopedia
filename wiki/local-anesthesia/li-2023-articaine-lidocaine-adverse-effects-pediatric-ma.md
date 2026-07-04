@@ -19,13 +19,21 @@ relations:
     target: becker-2012-local-anesthetics-pharmacological-considerations
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 RCTs (470 articaine vs 441 lidocaine, ages 3–13): no difference in overall adverse-event risk between 4% articaine and 2% lidocaine in pediatric dentistry (RR 1.08, 95% CI 0.54–2.15, p=0.83), I²=57%, GRADE "moderate."
+PRISMA SR+MA (PROSPERO CRD42022293058) of 8 RCTs totaling 911 children aged 3–13 (470 articaine vs 441 lidocaine), primarily buccal infiltration vs IANB across 6 databases to November 2021.
 
-## 한줄요약
+Pooled risk ratio for any adverse event: RR 1.08 (95% CI 0.54–2.15, p=0.83), I²=57%, GRADE moderate; outcome-specific subgroups (postoperative pain, soft-tissue injury, edema) were all non-significant.
 
-8개 RCT(articaine 470명 vs lidocaine 441명, 3–13세) SR+MA: 소아치과에서 4% articaine과 2% lidocaine의 전체 이상반응 위험에 차이 없음(RR 1.08, 95% CI 0.54–2.15, p=0.83), I²=57%, GRADE "moderate".
+Both agents are safe for pediatric dental treatment; articaine is a reasonable choice for buccal infiltration in children, but safety via IANB in children remains under-evidenced in this dataset.
+
+## 세줄요약
+
+PRISMA SR+MA(PROSPERO CRD42022293058): 6개 데이터베이스, RCT 8편, 소아 911명(3–13세; articaine 470명 vs lidocaine 441명) — 대부분 articaine=협측침윤, lidocaine=IANB.
+
+전체 이상반응 위험비 RR 1.08(95% CI 0.54–2.15, p=0.83), I²=57%, GRADE moderate; 술후 통증·연조직 손상·부종 세부 분석 모두 비유의.
+
+두 약제 모두 소아 치과 치료에서 안전; articaine은 소아 협측침윤의 합리적 선택 — 단 소아 IANB에서의 안전성은 이 데이터로 충분히 뒷받침되지 않음.
 
 ## Summary
 

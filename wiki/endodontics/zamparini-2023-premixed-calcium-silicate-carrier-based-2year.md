@@ -16,13 +16,21 @@ text_filename: zamparini-2023-premixed-calcium-silicate-carrier-based-2year.txt
 tags: [bioceramic-sealer, calcium-silicate, carrier-based, root-canal-sealer, clinical-outcome]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (Bologna master program), 89 root canal treatments at 24 months: Ceraseal premixed calcium-silicate sealer with warm carrier-based (Thermafil) obturation matched AH Plus on healing (91.1% vs 88.6%, NS) and survival (97.8% overall), with lower apical extrusion (13.3% vs 25%) and uniquely showed radiographic disappearance of 3 of 6 extrusions by 24 months.
+Prospective cohort (Bologna master program, n=89 RCTs analyzed at 24 months) pairing premixed Ceraseal calcium-silicate sealer with warm carrier-based (Thermafil) obturation vs AH Plus as control, using operator-level randomization across 12 master trainees.
 
-## 한줄요약
+Healing was equivalent between arms (91.1% vs 88.6%, p=0.624) and overall survival was 97.8%; Ceraseal showed significantly lower apical sealer extrusion (13.3% vs 25%, p=0.040), and 3 of 6 Ceraseal extrusions resolved radiographically by 24 months while AH Plus extrusions remained stable.
 
-전향 코호트 (볼로냐 마스터 과정), 24개월 근관치료 89건: Ceraseal 프리믹스 칼슘실리케이트 실러를 warm carrier-based(Thermafil) 충전과 병용 시 AH Plus와 치유율(91.1% vs 88.6%, 무의차)·생존율(전체 97.8%) 동등, 근단부 sealer 일출은 더 낮았고(13.3% vs 25%), Ceraseal 일출 6건 중 3건은 24개월 내 방사선학적으로 소실됨.
+Preoperative PAI >3 and retreatment — not sealer choice — predicted non-healing, establishing Ceraseal as non-inferior to epoxy-resin in warm carrier-based workflows; 24-month follow-up is shorter than the ESE-recommended 4-year benchmark.
+
+## 세줄요약
+
+전향 코호트(볼로냐 마스터 과정, 24개월 분석 89건) — 프리믹스 Ceraseal 칼슘실리케이트 실러를 Thermafil warm carrier-based 충전에 적용, AH Plus 대조군과 술자 수준 무작위 배정 비교.
+
+치유율 동등(91.1% vs 88.6%, p=0.624), 전체 생존율 97.8%; Ceraseal은 근단 실러 압출이 유의하게 낮고(13.3% vs 25%), 압출된 Ceraseal 6건 중 3건은 24개월 내 방사선학적으로 소실됨.
+
+치유 실패 예측인자는 술전 PAI>3·재근관치료이며 실러 종류는 유의하지 않아 Ceraseal이 warm carrier-based 술식에서 비열등함을 확인; 추적기간 24개월은 ESE 권고 4년에 미치지 못하는 한계.
 
 ## Summary
 

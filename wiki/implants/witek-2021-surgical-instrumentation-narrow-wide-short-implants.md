@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Sheep in-vivo study (n=12, 144 Bicon plateau-root-form implants, 3.5 mm vs. 6.0 mm) demonstrates that irrigation effect on BIC is diameter-specific and speed-dependent: narrow implants benefit from irrigation at 50 RPM, wide implants at 500–1,000 RPM at 6 weeks; BAFO is governed by healing duration only.
+Ovine in-vivo study (12 sheep, 144 plateau-root-form Ti-6Al-4V implants: 72 narrow 3.5 mm + 72 wide 6.0 mm) with a factorial design of drilling speed (50/500/1,000 RPM) × irrigation (present/absent), assessed at 3 and 6 weeks by histomorphometry (BIC, BAFO).
 
-## 한줄요약
+Irrigation's benefit on BIC was diameter- and speed-specific: narrow implants benefited at 50 RPM, wide implants at 500–1,000 RPM; BAFO was sensitive only to healing duration (3 vs 6 weeks), not to speed or irrigation.
 
-양 12마리에 협소경(3.5 mm)·광경(6.0 mm) 단단 임플란트 144개를 식립한 동물실험으로, 수냉이 BIC에 미치는 영향은 직경·회전속도에 따라 달라지며 BAFO는 치유 기간에 의해서만 유의한 차이를 보임.
+Protocol choice for irrigation should account for implant diameter and drilling speed; healing-chamber macrogeometry drives bone area occupancy regardless of intraoperative thermal variables.
+
+## 세줄요약
+
+양 12마리, 협소경(3.5 mm) 72개·광경(6.0 mm) 72개 plateau형 임플란트(총 144개)를 회전속도(50/500/1,000 RPM) × 수냉 유무 요인 설계로 식립해 3·6주 조직형태계측(BIC, BAFO) 평가.
+
+수냉이 BIC에 미치는 효과는 직경·회전속도에 의존: 협소경은 50 RPM에서, 광경은 500–1,000 RPM에서 수냉 유의; BAFO는 치유 기간에만 유의한 차이를 보였고 회전속도나 수냉과는 무관.
+
+수냉 프로토콜은 임플란트 직경과 시술 속도를 함께 고려해야 하며, 치유 챔버 거시 형태(macrogeometry)는 수술 중 열 변수와 독립적으로 골 점유율을 결정한다.
 
 ## Summary
 

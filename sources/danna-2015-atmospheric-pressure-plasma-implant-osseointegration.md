@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)에서 가장 이른 동물(beagle) 골유착 근거이자, **표면 종류(Ti vs CaP)·시점에 따라 효과가 갈리는** 조건부 결과. [[wiki/implants/surface/plasma/naujokat-2019-cold-argon-plasma-osseointegration-pigs]]·[[wiki/implants/surface/plasma/nevins-2023-gas-plasma-titanium-implant-osseointegration]]와 함께 동물 시계열 축을 보강.
 
-## One-line Summary
+## Three-line Summary
 
-In vivo beagle study (7 dogs, paired radius, 3 & 6 weeks): 80-second air-based atmospheric pressure plasma (APP) significantly increased BIC for textured titanium at 6 weeks (P<0.001) but not at 3 weeks and not for calcium phosphate (CaP) surfaces; no BAFO difference for either material at any timepoint (P=0.57).
+In vivo beagle study (7 dogs, paired radius implants, sacrificed at 3 and 6 weeks) testing 80-second air-based atmospheric pressure plasma (APP) on textured titanium vs. calcium phosphate (CaP) implants.
 
-## 한줄요약
+APP significantly increased bone-to-implant contact (BIC) for textured titanium at 6 weeks (P<0.001) but not at 3 weeks and not for CaP surfaces at either timepoint; bone area fraction occupancy (BAFO) showed no significant difference for either material at any timepoint (P=0.57).
 
-비글견 in vivo(7마리, 요골 paired, 3·6주): 80초 공기기반 대기압 플라즈마(APP)는 texture 티타늄에서 6주 골-임플란트 접촉률(BIC)을 유의하게 높였으나(P<0.001) 3주·칼슘인산염(CaP) 표면에서는 무효; 골면적점유율(BAFO)은 두 재료 모두 전 시점 차이 없음(P=0.57).
+APP benefit on osseointegration is surface-type- and time-dependent (textured Ti at 6 weeks only), cautioning against generalizing plasma effects across all implant surfaces.
+
+## 세줄요약
+
+비글견 in vivo 연구(7마리, 요골 paired 임플란트, 3·6주 희생): 80초 공기기반 대기압 플라즈마(APP, Atmospheric Pressure Plasma)를 texture 티타늄 및 칼슘인산염(CaP) 임플란트에 적용.
+
+APP는 texture 티타늄에서 6주차 골-임플란트 접촉률(BIC, Bone-to-Implant Contact)을 유의하게 높였으나(P<0.001) 3주·CaP 표면에서는 무효; 골면적점유율(BAFO, Bone Area Fraction Occupancy)은 두 재료 전 시점 차이 없음(P=0.57).
+
+APP의 골유착 효과는 표면 종류(texture Ti만)와 시점(6주만)에 의존하며, 모든 임플란트 표면에 플라즈마 효과를 일반화하는 것은 경계해야 한다.
 
 ## 1. Document Information
 

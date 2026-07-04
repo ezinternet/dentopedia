@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-3-year prospective multicentre CBCT study of flapless immediate implant placement + provisionalization (FIIPP) with the implant positioned ≥2 mm palatal to the buccal crest: buccal crest thickness and height were maintained over 3 years with high survival, giving quantitative support for the "≥2 mm palatal" positioning rule.
+## Three-line Summary
+3-year prospective multicentre CBCT study (Staas/Meijer/Raghoebar group) of flapless immediate implant placement + provisionalization (FIIPP) in which the implant was systematically positioned ≥2 mm palatal to the buccal crest; buccal crest thickness and height were the primary CBCT outcomes.
 
-## 한줄요약
-3년 다기관 전향 CBCT: 협측에서 ≥2 mm 구개측 위치를 일관 적용한 flapless IIPP는 buccal crest 두께·높이를 보존 — palatal positioning 원칙의 명확한 양적 근거.
+Buccal crest thickness and height were maintained over 3 years, with implant survival within the expected high range; no comparator arm with non-palatal positioning was included.
+
+These data provide quantitative mid-term evidence supporting the "≥2 mm palatal" positioning rule as a buccal-bone-preservation strategy in flapless IIPP.
+
+## 세줄요약
+Staas/Meijer/Raghoebar 그룹의 3년 다기관 전향적 CBCT 연구 — flapless 즉시식립·임시치관(FIIPP) 시 임플란트를 협측 능선에서 ≥2 mm 구개측에 일관 위치; 협측 능선 두께·높이가 1차 CBCT 결과.
+
+3년 후 협측 능선 두께·높이 모두 보존됨; 생존율 양호; 비구개측 배위와의 대조군 없음.
+
+"≥2 mm 구개측 위치" 원칙이 협측 골보존에 효과적임을 중기 정량 데이터로 뒷받침한다.
 
 ## Summary
 Prospective multi-center CBCT study of flapless IIPP with implant positioned ≥2 mm palatal to the buccal crest, followed for 3 years. Demonstrates preservation of buccal crest thickness and height.

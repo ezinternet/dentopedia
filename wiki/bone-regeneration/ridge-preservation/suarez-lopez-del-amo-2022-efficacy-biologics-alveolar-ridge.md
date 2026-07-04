@@ -16,13 +16,21 @@ relations:
     target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD, rhPDGF-BB, rhBMP-2) generally do not yield superior clinical/radiographic ARP/ARR/ARA/MSFA outcomes versus controls, but improve histomorphometric bone formation and wound healing.
+AAP Best Evidence Consensus systematic review (39 RCTs, MEDLINE/EMBASE/CENTRAL Jan 2000–Nov 2021, qualitative synthesis only) evaluating four biologic classes — autologous blood products (ABP), enamel matrix derivative (EMD), rhPDGF-BB, rhBMP-2 — across ARP, alveolar ridge reconstruction/augmentation, and maxillary sinus floor augmentation (MSFA).
 
-## 한줄요약
+Biologics generally did not yield superior clinical or radiographic outcomes versus controls across any indication; however, histomorphometric new bone formation and wound healing were consistently improved, and no severe adverse events were reported.
 
-39편 RCT의 AAP Best Evidence Consensus SR(이질성으로 정량분석 불가)로, biologics(ABP·EMD·rhPDGF-BB·rhBMP-2)는 ARP/ARR/ARA/상악동거상 임상·방사선 결과에서 대조군 대비 우월하지 않았으나, 골조직형태계측상 신생골 형성과 창상치유는 개선했다.
+Biologics should be viewed as tissue-quality enhancers rather than ridge-dimension improvers; definitive meta-analysis was precluded by high heterogeneity across formulations, timing, and comparators.
+
+## 세줄요약
+
+미국 치주학회 (American Academy of Periodontology, AAP) Best Evidence Consensus SR (RCT 39편, 정성 종합만, 이질성으로 메타분석 불가): 자가혈액유래제제 (Autologous Blood Product, ABP)·에나멜기질단백질 (Enamel Matrix Derivative, EMD)·rhPDGF-BB·rhBMP-2 4종 biologics를 치조제 보존술 (Alveolar Ridge Preservation, ARP)/골증대술 (Alveolar Ridge Reconstruction/Augmentation, ARR/ARA)/상악동거상술 (Maxillary Sinus Floor Augmentation, MSFA) 전반에 걸쳐 평가.
+
+Biologics는 모든 적응증에서 임상·방사선 결과 대조군 대비 우월성 없음; 단, 조직형태계측상 신생골 형성·창상치유 일관 개선; 중대 이상 반응 없음.
+
+Biologics는 치조제 치수 개선제가 아닌 조직 질 향상제로 이해해야 하며, 제형·타이밍·비교군 이질성으로 강한 메타분석적 권고는 불가하다.
 
 ## Summary
 

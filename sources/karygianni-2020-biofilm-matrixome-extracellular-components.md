@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Introduces and defines the 'matrixome' concept — the complete inventory of EPS biomolecules — that provides the unifying framework for understanding matrix-related virulence across [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]], [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]], and [[oral-microbiology/ponde-2021-candida-albicans-biofilms-polymicrobial]].
 
-## One-line Summary
+## Three-line Summary
+
 Perspective review coining 'matrixome' to describe the complete inventory of EPS biomolecules (polysaccharides, proteins, eDNA, lipids) across mono- and polymicrobial biofilms, emphasising targeting the matrixome for precise antibiofilm strategies.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Perspective review: 바이오필름 세포외 기질 전체 분자 목록을 'matrixome'으로 정의 — 다중 EPS 성분(polysaccharides, proteins, eDNA, lipids)의 구조·기능·독성 역할 총괄 및 표적 항바이오필름 전략 제안.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Trends in Microbiology. 2020;28(8):668–681. Published August 2020. Open access (CC BY-NC-ND).

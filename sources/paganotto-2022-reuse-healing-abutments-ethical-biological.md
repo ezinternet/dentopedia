@@ -17,13 +17,23 @@ text_filename: paganotto-2022-reuse-healing-abutments-ethical-biological.txt
 
 Anchors the practice-reality/ethics pole of the healing-abutment (HA) reuse controversy: while [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] and the in-vitro decontamination papers debate *whether* residual protein/biofilm can be removed and *how*, this survey documents that in the field reuse is already near-universal (98.1%), risk perception is low (53.3% see no limitation), and manufacturer guidance is essentially absent (95.3% received none). It is the epidemiological/behavioral counterweight to the bench evidence, and it exposes the informed-consent gap (94.5% do not tell the patient) that the biological papers do not measure.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cross-sectional survey of 202 Brazilian implantologists: 98.1% reuse healing abutments (cost-driven, 71.2%), 94.5% do not inform the patient, all disinfect + autoclave, and 95.3% received no manufacturer guidance — reuse is de facto standard practice with low risk perception.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 브라질 임플란트 전문의 202명 설문: 98.1%가 치유지대주(healing abutment)를 재사용(주 이유 비용 71.2%), 94.5%는 환자에게 고지하지 않고, 전원이 소독+오토클레이브를 하지만 95.3%는 제조사 재사용 지침을 받은 적이 없음 — 재사용은 위험 인식이 낮은 사실상의 표준 관행.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

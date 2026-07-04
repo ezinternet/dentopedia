@@ -24,13 +24,21 @@ tags: [plasma, cold-atmospheric-plasma, implant-surface, osseointegration, decon
 > - 한계: 보철 적용은 노화(thermocycling) 후 이득 소실(Kim-2021); 표면 의존적(Danna: textured Ti엔 도움, CaP엔 무효); 장기/하중/생존 데이터 전무(최장 추적 90일).
 > - 임상 frame: 노화 fixture의 식립 직전 재활성화·연조직(D3/D4)·하악·짧은 fixture에서 가장 타당; SLActive 대비 비열등(Long, 동물)이나 우월성은 아님; "더 오래 처리 = 더 좋음"은 틀림(과처리 역효과).
 
-## One-line Summary
+## Three-line Summary
 
-Across 25 wiki papers (4 reviews/SR/MA, 6 animal in vivo, 3 human clinical, 11 in vitro, 1 mouse safety), cold/non-thermal plasma re-activates implant surfaces with two coherent jobs — boosting osseointegration and decontaminating surfaces — and the now-available human evidence (2 RCTs + 1 cohort) shows a small but partly significant *early* stability benefit; the recurring pattern across every tier is that plasma accelerates early healing rather than raising the final endpoint, with effects that are modest, dose-narrow (over-treatment backfires), time-decaying for antimicrobial action, and still without long-term/survival data.
+Synthesis of 25 wiki papers (4 reviews/SR/MA, 6 animal in vivo, 3 human clinical, 11 in vitro, 1 mouse safety) on cold/non-thermal atmospheric plasma (CAP) for dental implants: CAP reverses biological aging of titanium surfaces (carbon ↓, wettability/surface energy ↑, morphology/composition unchanged), serving two jobs — osseointegration promotion and surface decontamination.
 
-## 한줄요약
+Human evidence (2 RCTs + 1 cohort) shows a small, partly significant *early* stability benefit (Stacchi RCT: ISQ significant only at 60/90 days; Kwon RCT: stability NS, marginal bone only); the universal pattern across every evidence tier is early healing acceleration that narrows by 8 weeks as controls catch up — not a higher final endpoint; dose is non-monotonic (60 s optimal, 300–600 s backfires), antimicrobial effect decays by 72 h, prosthetic benefit does not survive thermocycling aging, and no long-term/survival data exist (longest human follow-up 90 days).
 
-위키 내 25편(리뷰·SR/MA 4 + 동물 in vivo 6 + 사람 임상 3 + in vitro 11 + 안전성 1) 종합: 저온/비열 플라즈마는 임플란트 표면을 재활성화해 ① 골유착 촉진 ② 제염 두 역할을 하며, 이제 확보된 사람 근거(RCT 2 + 코호트 1)는 작지만 부분적으로 유의한 *초기* 안정성 이득을 보인다. 전 근거단계 공통 패턴은 "최종치를 올리기보다 초기 치유를 앞당김"이며, 효과는 작고·용량창이 좁고(과처리 역효과)·항균효과는 시간감쇠하며·장기/생존 데이터는 여전히 없다.
+Plasma is most rationale as a chairside pre-placement re-activation tool for aged fixtures or in soft-bone/short-implant/mandibular scenarios; "treat longer = better" is incorrect and must be avoided.
+
+## 세줄요약
+
+위키 25편(리뷰·SR/MA 4 + 동물 6 + 사람 임상 3 + in vitro 11 + 안전성 1) 종합: 저온/비열 대기압 플라즈마(Cold Atmospheric Plasma, CAP)는 티타늄 표면 생물학적 노화를 역전(탄소↓·친수성/표면에너지↑·형태/조성 불변)하여 ① 골유착 촉진 ② 제염 두 역할을 수행.
+
+사람 근거(RCT 2 + 코호트 1)는 작고 부분적으로 유의한 *초기* 안정성 이득(Stacchi RCT: 임플란트 안정성 지수(ISQ) 60/90일에만 유의; Kwon RCT: 안정성 음성); 전 근거계층 공통 패턴은 초기 치유 가속이나 8주 무렵 대조군이 따라잡음 — 최종치 상승 미입증; 용량 비단조성(60초 최적, 300–600초 역효과), 항균효과 72h 내 소실, 보철 이득은 열순환 노화 후 소실, 장기/생존 데이터 전무(최장 추적 90일).
+
+체어사이드 식립 직전 노화 fixture 재활성화·연조직(D3/D4)·하악·단폭 fixture에서 가장 합리적; "오래 처리할수록 좋다"는 틀림.
 
 ## Thesis
 

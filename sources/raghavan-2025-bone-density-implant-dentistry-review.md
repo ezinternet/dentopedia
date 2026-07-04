@@ -9,7 +9,7 @@ pdf_filename: raghavan-2025-bone-density-implant-dentistry-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review of bone density classification (Misch D1–D4, Lekholm-Zarb), measurement methods (CBCT HU), and clinical implications for implant treatment planning, surgical technique, and loading protocols.
 
 ## 1. Document Information

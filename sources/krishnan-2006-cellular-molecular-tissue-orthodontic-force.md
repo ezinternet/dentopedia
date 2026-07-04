@@ -9,7 +9,7 @@ pdf_filename: krishnan-2006-cellular-molecular-tissue-orthodontic-force.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 교정력에 의한 세포·분자·조직 수준 반응의 포괄적 고찰: 압박-장력 이론, 사이토카인, 골개조 기전 통합.
 
 ## 1. Document Information

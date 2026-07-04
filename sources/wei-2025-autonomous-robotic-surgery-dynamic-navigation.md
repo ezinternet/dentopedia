@@ -13,11 +13,21 @@ source_collection: external
 
 Robotic vs dynamic navigation 근거군에서 가장 높은 근거수준(RCT). [[digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation]] 전향 비교연구를 RCT로 확증하되, 동일 optical tracking 통제 하에서는 각도만 유의차라는 더 보수적 결과를 제시 — robotic 우위의 scope를 한정.
 
-## One-line Summary
-Open-label RCT (40 patients, single tooth) — autonomous robot lowered angular deviation (1.01° vs 1.78°) vs dynamic navigation, but coronal/apical deviation comparable; robot took longer.
+## Three-line Summary
 
-## 한줄요약
+Open-label RCT (40 patients, single tooth) — autonomous robot lowered angular deviation (1.01° vs 1.78°) vs dynamic navigation, but coronal/apical deviation comparable;
+
+robot took longer.
+
+(incomplete)
+
+## 세줄요약
+
 공개라벨 RCT(환자 40명·단일치): 동일 추적장치 조건에서 자율로봇이 각도 편차만 유의하게 낮추고(1.01° vs 1.78°) 관상·첨부는 동등, 시술시간은 더 김.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Oral Implants Research 2025;36(11):1486–1497. First published 20 Aug 2025.

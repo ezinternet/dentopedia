@@ -46,13 +46,21 @@ tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-syste
 > - **수직교합고경(OVD) 결정**: 단일 방법은 없으며 사전·사후 발치 다중 기법 병용이 표준(Alhajj 2017, Fayad 2025). 안면·손가락 인체계측(Anthropometric)이 표준 OVD와 높은 상관(엄지 길이 r≈0.63)이지만 이질성(I²=99%)이 매우 높아 보조 수단에 그침(Goyal 2026). OVD 과다(+5mm)는 부정적 심리 지표 상승, 과소(−3mm)는 교합력 감소(Matsuda 2014).
 > - **핵심 임상 결정 원칙**: 안정성 선호 → IFCD; 비용·가역성 선호 → IOD(2임플란트 하악/4임플란트 상악); 최소 비용 → 단일 임플란트 하악 IOD + 지연 부하; 어태치먼트 → LOCATOR 최소 합병증, 마그넷 회피; 디지털 의치 → 보더 몰딩 인상 + 시적 의치 단계 유지.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 24 wiki pages covering complete denture longevity (10.1 yr), digital vs conventional fabrication equivalence, implant number and attachment system selection for overdentures, denture adhesive efficacy, and maintenance protocols for edentulous patients.
+Synthesis of 24 wiki pages on complete dentures and implant-supported overdentures: conventional CD mean longevity is 10.1 years (Taylor 2021 SR+MA); milled CAD/CAM dentures exceed conventional on mechanical properties and retention while patient satisfaction is equivalent across all fabrication methods; IOD implant count (1 vs 2 vs 4) is the most impactful prosthetic decision — 1-IOD carries ~2× the prosthetic complication rate of 2-IOD (Koyama 2025 SR+MA, 17 RCTs).
 
-## 한줄요약
+Attachment selection shows LOCATOR minimizes prosthetic complications; magnets carry 7.4× higher complication rates and should be avoided; splinted CAD/CAM milled titanium bar is the strongest-evidence attachment option when bar is chosen; PEEK/BioHPP polymer bars show peri-implantitis signals and should be avoided.
 
-24편 기반 총합 개요: 총의치 수명(10.1년), 디지털·전통 제작 동등성, 피개의치 임플란트 수·어태치먼트 선택, 의치 접착제 효능, 유지관리 프로토콜을 망라한 무치악 환자 임상 의사결정 가이드.
+Clinical bottom line: denture adhesive cream/powder significantly improves retention and bite force (Shu 2021 SR+MA); mechanical plus chemical combined cleaning outperforms either alone for biofilm removal; digital workflows save 200+ min of chair time but require border-molded impressions and trial denture steps to prevent high retake rates (31–38%).
+
+## 세줄요약
+
+24편 기반 종합: 전통 총의치 평균 수명 10.1년(Taylor 2021); 밀링 CAD/CAM은 기계적 물성·유지력에서 우월하나 환자 만족도·OHRQoL은 세 제작법 동등; IOD 임플란트 수가 가장 큰 보철 결정 변수 — 1-IOD는 2-IOD 대비 보철 합병증 약 2배(Koyama 2025 SR+MA).
+
+어태치먼트: LOCATOR가 합병증 최소; 마그넷은 7.4배 높아 비권고; 바(splinted) 선택 시 CAD/CAM 밀링 티타늄 bar가 최강 근거; PEEK·BioHPP 바는 임플란트주위염 신호로 회피.
+
+임상 결론: 크림·파우더 접착제는 유지력·교합력을 유의하게 향상(Shu 2021); 기계적+화학적 세정 병용이 단독보다 우수; 디지털 워크플로우는 200분 이상 절감되나 보더몰딩 인상·시적 의치 생략 시 재제작 위험 31~38%.
 
 ---
 

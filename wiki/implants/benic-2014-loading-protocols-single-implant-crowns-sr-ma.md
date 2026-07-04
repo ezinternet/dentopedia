@@ -13,13 +13,21 @@ source_collection: external
 tags: [loading-protocol, immediate-loading, single-crown, ISQ, insertion-torque, marginal-bone-loss]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 RCTs finding immediately and conventionally loaded single-implant crowns equally successful for implant survival (1-yr OR 0.75, 95% CI 0.32–1.76) and marginal bone loss (SMD −0.05 mm) through 5 years, valid for implants placed at ≥20–45 Ncm torque or ISQ ≥60–65 without simultaneous augmentation.
+SR+MA of 11 RCTs (Medline/Embase through 2012) comparing immediate versus conventional loading protocols for single-implant crowns, with ≥1-year follow-up and outcomes of implant survival, marginal bone loss (MBL), papilla level, and buccal mucosa recession.
 
-## 한줄요약
+Immediately and conventionally loaded single-implant crowns achieved equivalent survival (1-yr OR 0.75, 95% CI 0.32–1.76) and MBL (SMD −0.05 mm, 95% CI −0.41 to +0.31) at 1, 2, 3, and 5 years; no difference in papilla level; buccal mucosa recession evidence was contradictory and inconclusive.
 
-11개 RCT SR+MA — 단일 임플란트 단관에서 즉시 로딩과 통상 로딩은 5년까지 생존율(1년 OR 0.75)·변연골소실(SMD −0.05 mm)이 동등하며, 이는 삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시 골증대 불필요 조건에서 성립한다.
+This equivalence holds specifically when implants are placed with adequate primary stability (insertion torque ≥20–45 Ncm or ISQ ≥60–65) without simultaneous bone augmentation; outside this envelope, the evidence does not support immediate loading.
+
+## 세줄요약
+
+11개 RCT SR+MA (Medline/Embase, 2012까지): 단일 임플란트 단관에서 즉시 로딩 vs 통상 로딩 비교, 추적 ≥1년, 생존율·변연골소실(MBL)·유두지수·협측 점막 퇴축 평가.
+
+즉시 로딩과 통상 로딩은 1·2·3·5년에서 생존율(1년 OR 0.75, 95% CI 0.32–1.76)·MBL(SMD −0.05 mm, CI −0.41~+0.31) 동등, 유두 수준 차이 없음; 협측 점막 퇴축 결과는 비일관적·결론 불가.
+
+이 동등성은 삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65 + 동시 골증대 불필요 조건에서만 성립하며, 이 임계값 이하에서는 즉시 로딩을 지지하는 근거가 없다.
 
 ## Summary
 

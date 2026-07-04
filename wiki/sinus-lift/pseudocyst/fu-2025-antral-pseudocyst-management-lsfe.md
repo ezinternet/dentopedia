@@ -17,11 +17,21 @@ relations:
     target: fu-2022-pseudocyst-removal-retainment-msfa-cohort
 ---
 
-## One-line Summary
-Retrospective cohort (n=107, small ≤20 mm antral pseudocysts, lateral sinus floor elevation with immediate implant) comparing removal vs aspiration vs no treatment found 6-month grafted bone resorption differed significantly by management (untreated -18.31% > aspiration -16.55% > removal -14.11%, P<.001) while implant survival was uniform and sinusitis was 0% across all arms.
+## Three-line Summary
 
-## 한줄요약
-Retrospective n=107 (소형 ≤20mm AP, LSFE + 즉시 implant): **제거 vs 흡인 vs 미처치 3-arm 비교**. 6개월 grafted bone resorption — 미처치 -18.31% > 흡인 -16.55% > 제거 -14.11% (P<.001). 모든 군 implant 생존·sinusitis 0%.
+Retrospective 3-arm cohort (n=107, antral pseudocysts ≤20 mm) comparing removal vs aspiration vs no treatment during lateral sinus floor elevation with simultaneous implant placement.
+
+6-month grafted bone resorption differed significantly: removal -14.11% < aspiration -16.55% < untreated -18.31% (P<.001); implant survival 100% and sinusitis 0% across all three arms.
+
+Surgical removal best preserves graft volume; aspiration is a viable middle option; untreated is safe for implant survival but accepts greater graft loss.
+
+## 세줄요약
+
+후향적 3-arm 코호트(n=107, 소형 ≤20mm 상악동 가성낭종)에서 측방창 상악동거상술(Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립 시 제거 vs 흡인 vs 미처치를 비교.
+
+6개월 이식골 흡수율: 제거 -14.11% < 흡인 -16.55% < 미처치 -18.31% (P<.001); 모든 군 임플란트 생존율 100%, 부비동염 발생 0%.
+
+이식골 보존이 최우선이면 제거, 침습도 최소화가 목표이면 흡인, 환자 거부 시 미처치도 임플란트 생존엔 안전하나 이식골 소실을 감수해야 함.
 
 ## Summary
 Zhongshan Hospital Fudan University, Shanghai. 점액낭종이 있어도 implant 자체는 안전하다는 통념을 양적으로 검증하면서, **골이식재의 6개월 흡수율이 처치 방법에 따라 유의하게 다름**을 보임. 미처치(observation)도 implant 생존엔 영향 없지만 graft 보존성 측면에서 열등. 제거 또는 흡인 선택 시 graft volume 보존 유리.

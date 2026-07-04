@@ -13,13 +13,23 @@ source_collection: external
 
 지르코니아 임플란트의 생역학적 근거가 불충분한 상태에서 기존 임상 문헌만으로는 Ti vs Zir 비교가 어렵다. 본 FEA 연구는 치유된 소켓, 골폭 감소, 즉시 발거 후 이식 세 가지 임상 시나리오에서 일체형 지르코니아 임플란트의 응력 분포를 정량화해 [[wiki/dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]]의 재료 특성 논의를 생역학 시뮬레이션으로 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 FEA study (n=3 CBCT-derived models) comparing one-piece zirconia vs titanium implants in three anterior maxillary scenarios found Zir produced significantly lower labial-cervical cortical bone stress in healed and reduced-bone models, with no significant difference in grafted extraction sockets.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 FEA 연구(3가지 CBCT 기반 모델): 치유 소켓 및 골폭 감소 모델에서 일체형 지르코니아 임플란트가 티타늄보다 순측-치경부 피질골 von Mises 응력을 유의하게 낮췄으며, 발거 후 이식 모델에서는 유의한 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

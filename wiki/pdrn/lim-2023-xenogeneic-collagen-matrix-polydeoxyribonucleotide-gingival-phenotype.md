@@ -13,13 +13,21 @@ source_collection: external
 tags: [pdrn, soft-tissue, gingival-phenotype, animal]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Preclinical canine study (5 mongrel dogs, box-type gingival defect model) comparing SCTG versus xenogeneic collagen matrix soaked with PDRN (2.0 mg/mL): STL superimposition and histomorphometry showed no significant difference between groups, indicating XCM+PDRN produces SCTG-comparable gingival phenotype modification (no XCM-only control included).
+Canine preclinical study (5 mongrel dogs, bilateral box-type gingival defects on maxillary canines, 8-week defect maturation, 12-week follow-up after augmentation) comparing subepithelial connective tissue graft (SCTG) versus xenogeneic collagen matrix soaked with PDRN 2.0 mg/mL under a coronally positioned flap.
 
-## 한줄요약
+STL superimposition and histometry (gingival thickness increase, supracrestal tissue height, KT height, tissue thickness, rete peg density) showed no significant differences between SCTG and XCM+PDRN groups, indicating XCM+PDRN produces SCTG-comparable gingival phenotype modification.
 
-Mongrel dog 5마리 box-type gingival defect 모델에서 SCTG vs XCM+PDRN(2.0 mg/mL) 비교. STL superimposition·histomorphometry 모두에서 양군 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
+The absence of an XCM-only control arm limits attribution of the outcome to PDRN specifically; this must be considered when interpreting the biomaterial combination as equivalent to autograft.
+
+## 세줄요약
+
+줄1: Mongrel dog 5마리의 상악 견치에 양측 box-type gingival defect를 형성하고 8주 성숙 후 SCTG 또는 XCM+PDRN(2.0 mg/mL)을 coronally positioned flap 하에 적용, 12주 후 평가.
+
+줄2: STL superimposition(치은 두께 변화)과 조직형태계측(STGTH, KT 높이, 조직 두께, rete peg 밀도) 모두 SCTG와 XCM+PDRN 간 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
+
+줄3: XCM 단독 대조군이 없어 결과를 PDRN 효과만으로 귀속할 수 없다는 방법론적 한계가 있으며 자가이식 대체 해석 시 유의 필요.
 
 ## Summary
 

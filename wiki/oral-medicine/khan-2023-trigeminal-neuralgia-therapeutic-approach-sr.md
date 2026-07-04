@@ -20,13 +20,21 @@ relations:
     target: jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella/systematic review (11 review articles, 31 pharmacological interventions, PROSPERO CRD42023408948) confirming carbamazepine/oxcarbazepine as first-line for classical trigeminal neuralgia, lamotrigine/baclofen second-line, and botulinum toxin A / IV lidocaine for refractory cases, with microvascular decompression as first-line surgery.
+Umbrella systematic review (11 review articles covering 31 pharmacological interventions, PROSPERO CRD42023408948) on therapeutic approaches for trigeminal neuralgia (TN) classified as classical, secondary, or idiopathic per ICHD-3.
 
-## 한줄요약
+Carbamazepine (0.4–1.2 g/day) and oxcarbazepine (0.9–1.8 g/day) are first-line for classical TN; lamotrigine/baclofen are second-line; botulinum toxin A (25–75 U, ~70–100% response) and IV lidocaine fill refractory niches; microvascular decompression (MVD) is first-line surgery.
 
-엄브렐러/체계적 문헌고찰 (리뷰 11편·약물 31종) — 전형 삼차신경통의 1차 약물은 카르바마제핀·옥스카르바제핀, 2차는 라모트리진·바클로펜, 난치성에는 보툴리눔독소 A·정맥 리도카인, 혈관압박 전형 TN의 1차 수술은 미세혈관감압술(MVD).
+TN paroxysms triggered by facial touch or chewing are frequently misidentified as odontogenic pain — recognizing the electric-shock character and absence of a dental source should prompt carbamazepine trial and neurology referral rather than irreversible dental intervention.
+
+## 세줄요약
+
+ICHD-3 분류(전형·이차성·특발성)에 따른 삼차신경통(TN) 치료법 엄브렐러 체계적 문헌고찰 (리뷰 11편·약물 31종, PROSPERO CRD42023408948).
+
+전형 TN 1차 약물: 카르바마제핀(0.4–1.2 g/일)·옥스카르바제핀(0.9–1.8 g/일); 2차: 라모트리진·바클로펜; 난치성: 보툴리눔독소 A(25–75 U, 반응률 ~70–100%)·정맥 리도카인; 수술 1차: 미세혈관감압술(MVD).
+
+얼굴 접촉·저작 시 발생하는 TN 발작이 치성 통증으로 오인 잦음 — 전기충격성 특성과 치과적 원인 부재 확인 시 카르바마제핀 시험 투여와 신경과 의뢰가 비가역적 치과 처치보다 우선.
 
 ## Summary
 

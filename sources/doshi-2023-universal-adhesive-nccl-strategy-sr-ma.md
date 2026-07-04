@@ -9,7 +9,7 @@ pdf_filename: doshi-2023-universal-adhesive-nccl-strategy-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Updated systematic review and meta-analysis of 17 clinical studies showing no statistically significant difference between total-etch and self-etch strategies for universal adhesives in NCCLs across any of five clinical outcome measures.
 
 ## 1. Document Information

@@ -21,13 +21,21 @@ relations:
     target: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (n=281: 186 non-extraction, 59 two-premolar-extraction, 36 one-lower-incisor-extraction) — alveolar bone height/thickness loss is common across all clear aligner extraction protocols; two-premolar-extraction carries higher risk of lingual bone dehiscence and torque loss, one-lower-incisor-extraction carries higher risk of open gingival embrasures, and mandibular anterior teeth show more severe bone loss than maxillary anterior teeth (all p<0.05).
+Retrospective single-center CBCT cohort (n=281 adults: 186 non-extraction, 59 two-premolar-extraction [TPE], 36 one-lower-incisor-extraction [OLIE]) using pre/post CBCT at 0.3 mm voxel — the first large-scale comparison of alveolar bone remodeling and root resorption across different extraction protocols within clear aligner therapy (not aligner-vs-fixed).
 
-## 한줄요약
+Alveolar bone height/thickness loss was present in all groups including non-extraction; TPE carried a lingual-bone-dehiscence and torque-loss signature (lingual AC-CEJ >2 mm in maxillary incisors/canines, p<0.01); OLIE showed the highest interproximal contact point-to-alveolar-crest (ICP-AC) distances, crossing open-gingival-embrasure risk thresholds (≥6 mm → 44% OGE, ≥7 mm → ≥73%); canine root resorption was greater in both extraction groups than non-extraction (p<0.001).
 
-후향적 CBCT 코호트 (n=281: 무발치 186, 양측 소구치발치 59, 하악전치발치 36) — 모든 발치 프로토콜에서 치조골 높이·두께 소실이 공통 관찰됨; 소구치발치군은 설측 골개열 (lingual bone dehiscence)·torque 소실 위험이, 하악전치발치군은 open gingival embrasure (OGE) 위험이 더 높고, 하악 전치부가 상악 전치부보다 골소실이 더 심함 (모두 p<0.05).
+Mandibular anterior teeth suffered more severe bone loss than maxillary anterior teeth across all protocols (p<0.05); extraction type should guide tissue-risk counseling — TPE warrants lingual-bone and torque monitoring, OLIE warrants interproximal/OGE monitoring.
+
+## 세줄요약
+
+후향적 단일기관 CBCT 코호트 (n=281 성인: 무발치 186, 소구치발치[TPE] 59, 하악전치발치[OLIE] 36; 0.3 mm voxel 치료 전후 CBCT): 투명교정 내 발치 프로토콜별 치조골 개조 및 치근흡수를 비교한 최초 대규모 연구(투명 vs 고정 비교 아님).
+
+모든 군(무발치 포함)에서 치조골 높이·두께 소실 관찰됨; TPE는 설측 골개열·torque 소실 특징(상악 절치·견치 설측 AC-CEJ >2 mm, p<0.01); OLIE는 ICP-AC 가장 높음, open gingival embrasure(OGE) 위험 임계 초과(≥6 mm → 44% OGE, ≥7 mm → ≥73%); 발치 양쪽 군에서 견치 치근흡수가 무발치보다 큼(p<0.001).
+
+하악 전치부가 모든 프로토콜에서 상악 전치부보다 골소실 심함(p<0.05); 발치 유형별 조직 위험 상담 필요 — TPE는 설측 골·torque 모니터링, OLIE는 치간/OGE 모니터링.
 
 ## Summary
 

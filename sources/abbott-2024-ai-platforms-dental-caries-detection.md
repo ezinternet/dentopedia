@@ -16,13 +16,21 @@ text_filename: abbott-2024-ai-platforms-dental-caries-detection.txt
 
 The `artificial-intelligence` category held only pediatric pages; this is the strongest quantitative anchor for the most mature dental-AI task — caries detection on radiographs/clinical images — providing a pooled meta-analysis (sens 76%, spec 91%, AUC 92%) that the [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] flagged as the image-diagnosis domain but lacked a dedicated page for. Extends [[artificial-intelligence/garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review]] (pediatric caries CNN) to the general adult evidence base.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (45 studies qualitative, 7 pooled; QUADAS-2 + CLAIM) of AI platforms for dental caries detection: pooled sensitivity 76% (95% CI 65–85%), specificity 91% (86–95%), AUC 92% (89–94%), with high heterogeneity and accuracy ranging 41.5–98.6% across 21 platforms.
+Systematic review + meta-analysis (8 databases, Jan 2000–Mar 2024; 2,538 identified → 45 included, 21 AI platforms; QUADAS-2 + CLAIM quality appraisal; 7 studies poolable) evaluating AI diagnostic accuracy for dental caries on radiographs and clinical images — abstract-only ingest.
 
-## 한줄요약
+Pooled sensitivity 76% (95% CI 65–85%), specificity 91% (86–95%), AUC 92% (89–94%); accuracy ranged 41.5–98.6% across 21 platforms; AI on clinical images showed superior sensitivity and equal specificity vs bitewing radiography; high between-study heterogeneity throughout.
 
-치아우식 검출 인공지능(AI) 플랫폼의 체계적 문헌고찰+메타분석(정성 45편, 풀링 7편): 통합 민감도 76%, 특이도 91%, 곡선하면적(AUC) 92%이나 플랫폼 21종 간 정확도 41.5–98.6%로 이질성이 큼.
+Only 7/45 studies were poolable, limiting the meta-analytic precision; standardized datasets and CLAIM-compliant reporting are needed before these pooled estimates can guide platform selection in practice.
+
+## 세줄요약
+
+체계적 문헌고찰+메타분석 (8개 데이터베이스, 2000년 1월–2024년 3월; 2,538편 확인 → 45편 포함, AI 플랫폼 21종; QUADAS-2+CLAIM 평가; 풀링 7편) — 방사선·임상 이미지 기반 치아우식 AI 진단 정확도 평가 (초록만 수집).
+
+통합 민감도 76%(95% CI 65–85%), 특이도 91%(86–95%), AUC 92%(89–94%); 21종 플랫폼 간 정확도 41.5–98.6%로 편차 큼; 임상 이미지의 AI가 방사선 대비 민감도 우수; 모든 분석에서 높은 이질성.
+
+풀링 가능 연구 7/45편으로 메타분석 정밀도 제한 — 플랫폼 선택에 활용하려면 표준화 데이터셋과 CLAIM 준수 보고가 선결 과제.
 
 ## 1. Document Information
 

@@ -16,11 +16,21 @@ relations:
     target: saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis
 ---
 
-## One-line Summary
-Network MA (28 RCTs) - both supplementary-after-failure (SUPP, RR 2.02) and combined-as-primary (COMB, RR 1.86) injections significantly outperform IANB alone for irreversible pulpitis; SUPP and COMB are comparable.
+## Three-line Summary
 
-## 한줄요약
-네트워크 MA(28 RCT) - 비가역 치수염에서 IANB 단독 대비 실패후 보충주사(SUPP, RR 2.02)·1차 병용주사(COMB, RR 1.86) 모두 유의 우월, SUPP≈COMB.
+Network meta-analysis of 28 RCTs comparing supplementary (SUPP: rescue after IANB failure) vs combined-primary (COMB: adjunct at time of IANB) vs IANB-alone anesthesia for mandibular molars with symptomatic irreversible pulpitis.
+
+Both SUPP (RR 2.02, 95% CI 1.55–2.30, SUCRA 85.1%) and COMB (RR 1.86, 95% CI 1.50–2.30, SUCRA 64.9%) significantly outperformed IANB alone; SUPP and COMB were comparable to each other.
+
+For irreversible pulpitis, clinicians should routinely plan a supplementary injection rather than relying on IANB alone — the rescue strategy and the upfront combined strategy produce similar success rates.
+
+## 세줄요약
+
+하악 구치 증상성 비가역 치수염에서 IANB 실패 후 보충주사(SUPP) vs 1차 병용주사(COMB) vs IANB 단독을 비교한 28편 무작위대조시험 네트워크 메타분석.
+
+SUPP(RR 2.02, 95% CI 1.55–2.30, SUCRA 85.1%)와 COMB(RR 1.86, 95% CI 1.50–2.30, SUCRA 64.9%) 모두 IANB 단독 대비 유의하게 우월; SUPP와 COMB는 서로 동등.
+
+비가역 치수염 시 IANB 단독에 의존하기보다 보충주사 전략을 계획해야 하며, 실패 후 구제 주사와 처음부터 병용하는 전략의 성공률은 비슷하다.
 
 ## Summary
 하악구치 비가역 치수염에서 IANB 보조전략(보충 vs 병용)을 네트워크 MA로 비교. 둘 다 IANB 단독보다 우월하고 서로 동등 - 마취 실패 대응 알고리즘 근거.

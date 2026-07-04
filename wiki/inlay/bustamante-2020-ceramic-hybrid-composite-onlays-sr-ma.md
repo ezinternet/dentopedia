@@ -13,11 +13,19 @@ source_collection: external
 tags: [onlay, inlay, ceramic, lithium-disilicate, feldspathic, leucite, hybrid, composite-resin, survival-rate, posterior, indirect-restoration, meta-analysis]
 ---
 
-## One-line Summary
-SR+MA (29 studies qualitative, 27 quantitative) of posterior onlay restorations: overall weighted mean survival ~94.2%, with ceramic onlays (lithium disilicate, feldspathic, leucite) showing highest survival, composite resin significantly lower, and hybrid/nanoceramic intermediate; material type and follow-up duration were significant survival predictors.
+## Three-line Summary
+SR+MA (PRISMA; 29 studies qualitative, 27 quantitative) of ceramic, hybrid, and composite resin posterior onlay restorations across PubMed, Scopus, Embase, and Cochrane.
 
-## 한줄요약
-세라믹·하이브리드·복합레진 온레이(Onlay) 임상성적 SR+MA (IJERPH 2020): 29편 정성·27편 정량; 전체 생존율 94.2%; 세라믹 > 하이브리드 > 복합레진 순; 추적기간과 재료가 생존 예측인자.
+Overall weighted mean survival ~94.2%; ceramic onlays (lithium disilicate, feldspathic, leucite) showed the highest survival and ceramic > hybrid/nanoceramic > composite resin; composite resin was significantly lower than ceramic (p<0.05); material type and follow-up duration were the two significant survival predictors.
+
+Hybrid/nanoceramic materials showed intermediate performance but insufficient long-term data; the main complications were chipping/fracture (ceramic) and secondary caries (composite).
+
+## 세줄요약
+SR+MA (PRISMA; 정성 29편·정량 27편): PubMed·Scopus·Embase·Cochrane 검색, 구치부 세라믹·하이브리드·복합레진 온레이 임상성적 비교.
+
+전체 가중 평균 생존율 ~94.2%; 세라믹(리튬디실리케이트·도재·루사이트) 최고, 복합레진 유의하게 낮음(p<0.05); 재료 유형·추적기간이 핵심 생존 예측 인자.
+
+하이브리드/나노세라믹은 중간 성적이나 장기 데이터 부족; 주요 합병증은 세라믹 칩핑/파절, 복합레진 이차우식.
 
 ## Summary
 Systematic review and meta-analysis (PRISMA) of clinical behavior of onlay restorations in the posterior region, comparing three material categories: (1) ceramic (lithium disilicate, feldspathic, leucite-reinforced), (2) hybrid (resin-ceramic nanoceramic), (3) composite resin. Databases: PubMed, Scopus, Embase, Cochrane; no language/date restrictions. 29 articles for qualitative analysis; 27 for quantitative meta-analysis.

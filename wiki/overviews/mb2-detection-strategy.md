@@ -24,12 +24,21 @@ source: synthesis
 > - 성별은 집단·치아별로 방향이 엇갈려(한족 남성 우세 vs 칠레·사우디 PMFM 여성 우세) MB2 사전확률 보정에 부적합 — 성별 무관 탐지가 안전.
 > - 임상 플로우: 방사선 판독 → 탐침 → DOM → DOM+초음파 홈형성 → 술중 CBCT, 실패 시 치료 범위 문서화+환자 설명. I²>95% 고이분산 — "몇 %"보다 "어떤 방법으로 측정했나"가 더 중요.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis mapping second mesiobuccal canal (MB2) detection in maxillary molars as a population-prevalence × detection-technique matrix. Core thesis: MB2 should be assumed present (not absent) and actively hunted — first-molar prevalence is ~47–79% across populations (Han CBCT 63.7%, Iranian 60%, Chilean 69.8%) and second-molar ~23–48%, while detection sensitivity rises stepwise from periapical radiograph 15% → probing 79% → dental operating microscope (DOM) 82% → DOM + ultrasonics 86% → CBCT (gold standard) ~100%, so the measurement method largely determines the reported prevalence; the chair-side flow is radiograph → probing → DOM → DOM+ultrasonic troughing (~2.4–2.7 mm palatal to MB1) → intraoperative CBCT.
+Synthesis mapping second mesiobuccal canal (MB2) detection in maxillary molars as a population-prevalence × detection-technique matrix across multiple populations and methods: first-molar MB2 prevalence is ~47–79% (Han CBCT 63.7%, Iranian 60%, Chilean 69.8%, Saudi 46.7%) and second-molar ~23–48%, with high heterogeneity (I²>95%) because the measurement method largely determines the reported number.
 
-## 한줄요약
-상악 제1대구치 MB2 유병률 60–64%(한족·이란인), 제2대구치 23–33% — 탐지 민감도는 치근단 방사선 15% → 탐침 79% → DOM 82% → DOM+초음파 86%로 단계적 상승; CBCT가 gold standard.
+Detection sensitivity rises stepwise — periapical radiograph 15% → probing 79% → dental operating microscope (DOM) 82% → DOM + ultrasonic troughing 86% → CBCT ~100% (gold standard); DOM at 16× magnification is statistically equivalent to sectioned-tooth reference and CBCT (sensitivity 0.88 each, Bello 2018 ex-vivo), making it the chair-side anchor when CBCT is unavailable.
+
+The clinical flow is: assume MB2 present → periapical radiograph → probing → DOM → DOM + ultrasonic troughing ~2.4–2.7 mm palatal to MB1 → intraoperative CBCT if still unfound; sex is not a reliable prior because direction of prevalence differences is population-dependent, so gender-neutral detection is safer.
+
+## 세줄요약
+
+상악 대구치 MB2(제2근심협측근관, second mesiobuccal canal) 탐지 전략을 인구집단별 유병률 × 탐지 기법 매트릭스로 정리: 제1대구치 MB2 유병률은 인구집단에 따라 47–79%(한족 CBCT 63.7%, 이란인 60%, 칠레 69.8%, 사우디 46.7%), 제2대구치 23–48% — 측정 방법이 유병률 수치를 결정하므로 I²>95% 고이분산.
+
+탐지 민감도가 단계적으로 상승한다: 치근단 방사선 15% → 탐침 79% → 치과용 수술현미경(Dental Operating Microscope, DOM) 82% → DOM+초음파 86% → CBCT ~100%(gold standard); DOM 16배는 절단 reference·CBCT와 통계적으로 동등(민감도 0.88, Bello 2018 ex-vivo).
+
+임상 플로우: MB2 있다고 가정하고 시작 → 치근단 방사선 → 탐침 → DOM → DOM+초음파 홈(MB1에서 구개측 ~2.4–2.7 mm) → 술중 CBCT; 성별은 인구집단마다 방향이 달라 사전 확률 보정에 부적합 — 성별 무관 탐지가 안전.
 
 ---
 

@@ -13,13 +13,23 @@ source_collection: external
 
 Denture hygiene is a critical aspect of removable dental prosthetics management, yet evidence on optimal cleaning protocols is scattered. This SR consolidates clinical evidence (44 studies, PROSPERO-registered) on biofilm removal efficacy and material property effects of cleaning interventions — directly relevant to [[wiki/complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]], where CAD/CAM dentures require evidence-based hygiene protocols.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review of 44 prospective clinical studies (1975–2020) showing that combined mechanical + chemical denture cleaning is significantly more effective than either approach alone for biofilm removal from removable dental prostheses.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 44개 전향적 임상연구(1975–2020)의 체계적 문헌고찰로, 기계적+화학적 의치 세정의 병용이 단독 세정보다 생물막 제거에 유의하게 우수함을 확인한 연구.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

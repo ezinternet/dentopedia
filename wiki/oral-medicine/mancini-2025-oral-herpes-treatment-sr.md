@@ -18,13 +18,21 @@ relations:
 tags: [hsv, herpes-labialis, antiviral, topical, systemic, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 2005-2025) of oral HSV therapy: topical agents shorten lesion duration when applied early but do not reduce recurrence; systemic antivirals (aciclovir, valaciclovir, famciclovir) address both resolution and recurrence prevention.
+PRISMA systematic review (PubMed/Scopus/Web of Science, 2005–2025) comparing topical versus systemic therapeutic approaches for oral herpes simplex virus (HSV) infection across RCTs and observational studies.
 
-## 한줄요약
+Topical agents (aciclovir cream, docosanol) shorten lesion duration and local symptoms with early application but show no effect on recurrence; systemic antivirals (aciclovir, valaciclovir, famciclovir) are effective for both episodic resolution and suppressive recurrence prevention, including short-course high-dose protocols.
 
-구강 HSV 치료 체계적 문헌고찰(PRISMA, 2005-2025): 국소제는 조기 적용 시 병변기간 단축하나 재발 미감소, 전신 항바이러스제는 해소·재발 예방 모두 담당.
+Topical and systemic roles are complementary rather than interchangeable — systemic therapy is indicated for recurrent, disseminated, or high-risk infection, while topical use alone is insufficient for patients with frequent recurrences.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(PubMed·Scopus·Web of Science, 2005–2025) — 구강 단순헤르페스바이러스(Herpes Simplex Virus, HSV) 감염의 국소(topical)·전신(systemic) 치료 접근을 RCT 및 관찰연구를 통해 비교.
+
+국소제(아시클로버 크림, 도코사놀)는 조기 적용 시 병변 기간·국소 증상을 단축하나 재발에는 효과 없음; 전신 항바이러스제(아시클로버, 발라시클로버, 팜시클로버)는 삽화 치료와 억제 요법(suppressive therapy) 모두에 효과적이며 고용량 단기 요법은 복약 순응도를 개선.
+
+국소 치료와 전신 치료는 상호 보완적 역할 — 재발성·파종성·고위험 감염에는 전신 항바이러스제 적용이 필수이며, 국소제 단독은 빈번 재발 환자에게 불충분.
 
 ## Summary
 

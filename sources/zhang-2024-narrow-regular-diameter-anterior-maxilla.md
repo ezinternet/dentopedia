@@ -13,13 +13,23 @@ source_collection: external
 
 신규 [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] 의 esthetic-zone(전치부 상악) 축을 담당. NDI를 골증대(RDI) 대안으로 비교한 직접 근거로, "NDI ≈ RDI+augmentation, 단 치료기간 단축" 결론을 esthetic zone에 적용(applies-to).
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (5 studies; 282 NDIs, 100 RDIs) finding narrow-diameter implants yield implant survival, MBL, and PPD comparable to regular-diameter implants with bone augmentation in the anterior maxilla over 36 months.
 
-## 한줄요약
+SR+MA (5 studies;
 
-5편(NDI 282개, RDI 100개) 체계적 고찰·메타분석. 전치부 상악에서 좁은 직경 임플란트(narrow-diameter implant, NDI)는 골증대를 동반한 정규 직경 임플란트(RDI)와 36개월 생존율·변연골소실(MBL)·치주낭깊이(PPD)가 동등했고, 치료기간 단축·심미 회복이 빠른 이점.
+282 NDIs, 100 RDIs) finding narrow-diameter implants yield implant survival, MBL, and PPD comparable to regular-diameter implants with bone augmentation in the anterior maxilla over 36 months.
+
+(incomplete)
+
+## 세줄요약
+
+
+5편(NDI 282개, RDI 100개) 체계적 고찰·메타분석.
+
+전치부 상악에서 좁은 직경 임플란트(narrow-diameter implant, NDI)는 골증대를 동반한 정규 직경 임플란트(RDI)와 36개월 생존율·변연골소실(MBL)·치주낭깊이(PPD)가 동등했고, 치료기간 단축·심미 회복이 빠른 이점.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Clinical Oral Investigations, Volume 28, Article 196 (2024); published March 6, 2024

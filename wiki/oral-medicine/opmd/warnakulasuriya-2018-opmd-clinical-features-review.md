@@ -16,13 +16,21 @@ relations:
 tags: [opmd, leukoplakia, erythroplakia, biopsy, clinical-features]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of the clinical features of the full OPMD spectrum (leukoplakia, erythroplakia, OSF, OLP, lichenoid/GvHD lesions), stressing clinical subtyping, mandatory biopsy, and timely specialist referral.
+Narrative clinical review (OOOO 2018; single authoritative author, Warnakulasuriya) describing the clinical appearance and presentation of the full OPMD spectrum as a diagnostic prelude — leukoplakia, erythroplakia, OSF, OLP, oral lichenoid lesions, and oral GvHD lesions.
 
-## 한줄요약
+Leukoplakia is the most common OPMD; erythroplakia is rarer but carries higher malignant risk; homogeneous vs non-homogeneous subtyping offers limited prognostication; many OPMDs are asymptomatic early and detected only on routine dental examination.
 
-OPMD 전 스펙트럼 임상양상 내러티브 리뷰(백반증·홍반증·OSF·OLP·태선양/GvHD): 임상 아형분류·필수 조직검사·적시 의뢰 강조.
+Biopsy is essential to confirm any provisional clinical OPMD diagnosis; because early detection relies on routine screening, the dentist's vigilance and referral role is central to reducing malignant transformation outcomes.
+
+## 세줄요약
+
+OPMD 전 스펙트럼(백반증·홍반증·구강점막하섬유증(OSF)·OLP·태선양 병소·구강 이식편대숙주병(GvHD) 병소)의 임상양상을 기술한 단일 저자 내러티브 고찰 (OOOO 2018, Warnakulasuriya).
+
+백반증이 가장 흔한 OPMD; 홍반증은 드물지만 악성 위험 높음; 균질형 vs 비균질형 아형분류는 제한적 예후 정보 제공; 많은 OPMD가 초기 무증상으로 정기 치과검진에서만 발견.
+
+모든 임시 임상 진단에 조직검사 필수; 초기 발견이 정기 스크리닝에 의존하므로 치과의의 경각심과 전문의 의뢰가 악성전환 결과 감소의 핵심.
 
 ## Summary
 

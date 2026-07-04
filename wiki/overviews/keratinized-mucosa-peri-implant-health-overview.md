@@ -38,13 +38,21 @@ relations:
 > - 수술 방식 선택: 무피판 임플란트 수술(Flapless Implant Surgery)이 피판 수술 대비 임플란트 주위 점막 혈관단면적 비율(Vessel Fraction, VF) 유의 증가(1.7% vs 1.2%, p<0.05) — 골막상 혈관(Supraperiosteal Vessel) 보존이 기전; 5/12 피판 부위 발적·출혈(BOP) vs 무피판 0 (Kim 2009, 성견 6마리).
 > - 생리식염수(Saline) 세척: 0.9–1.8% NaCl이 치은 섬유아세포(Human Gingival Fibroblast, hGF) 이동(Migration)을 유의 촉진(p<0.05); 활성 이온은 Cl⁻(염소이온) — FAK/F-액틴(F-actin) 경로; 1.8%가 최적, 7.2%는 억제; 각화세포(Keratinocyte)에는 무반응; 임플란트주위 연조직 창상치유 프로토콜에 생물학적 근거 제공 (Huynh 2016, in vitro).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis across 10 papers (2 umbrellas, 3 SR+MAs, 1 prospective, 2 expert consensuses, 1 SR, 1 narrative) establishes ~2 mm keratinized mucosa width as a practical threshold: inadequate KM is most consistently and strongly associated with soft-tissue surrogates (plaque, inflammation, recession; OR 2.78–eOR 5.34), with a directionally present but evidence-quality-limited link to hard endpoints (peri-implantitis incidence, marginal bone loss), while FGG is the reference augmentation technique and can restore outcomes equivalent to native KM even when applied years after placement.
+Synthesis of 10 papers (2 umbrella meta-analyses, 3 SR+MAs, 1 long-term prospective cohort, 2 expert consensus statements, 1 SR, 1 narrative): keratinized mucosa width (KMW) ≥2 mm is the agreed threshold across all evidence tiers; inadequate KM is most strongly and consistently linked to soft-tissue surrogates (plaque OR 2.78 TSA-confirmed; inflammation eOR 3.13–5.34; recession eOR 4.05; Mahardawi 2023 SR+MA, 22 studies, 13,265 implants; Sabri 2025 umbrella); the link to peri-implantitis incidence (OR 2.78) and marginal bone loss (MD −0.27 mm, Zhang 2025) is directionally consistent but TSA-underpowered or heterogeneous (I²=80–97%).
 
-## 한줄요약
+The 20-year Roccuzzo 2025 prospective cohort (n=64, posterior mandible) resolves the clinical debate: KM absent → peri-implantitis 25% vs KT group 4.2% (OR 6.67), 100% soft-tissue dehiscence, and 10× more CIST C/D interventions in the final decade; FGG applied during supportive care (years 1–10) produced outcomes statistically indistinguishable from native KT at 20 years.
 
-10편 종합(우산 2, SR+MA 3, 전향 1, 전문가합의 2, SR 1, 서술고찰 1): 각화점막 폭 ≥2 mm 역치는 치태·염증·점막퇴축(OR 2.78–eOR 5.34) 연관성이 가장 강하고 일관되며, 임플란트주위염·변연골소실과의 연관성은 방향성은 존재하나 근거 수준이 낮거나 TSA상 미확정이고, 유리치은이식(FGG)은 표준 증대술식으로 이식 후에도 원발 각화점막에 상응하는 20년 보호 효과를 유지한다.
+FGG via apically positioned flap is the reference augmentation technique (1.5–6.5 mm KMW gain, 20y durability); xenogeneic collagen matrix (XCM) is non-inferior to CTG for width gain (WMD 0.8 mm, p=0.062) with 18.5 min less surgical time; allografts (ADM) shrink 19.5% more; the clinical rule: measure KM at every recall, augment when <2 mm with pathological signs, and apply FGG before second-stage surgery in the mandible.
+
+## 세줄요약
+
+10편 종합(우산 2, SR+MA 3, 전향 1, 전문가합의 2, SR 1, 서술고찰 1): 각화점막 폭(KMW) ≥2 mm 역치는 모든 근거 등급에서 수렴; 연조직 대리지표(치태 TSA-확정 OR 2.78, 염증 eOR 3.13–5.34, 퇴축 eOR 4.05)에는 연관성이 강하고 일관적; 임플란트주위염·MBL 연관성은 방향성 존재하나 TSA상 검정력 부족(I²=80–97%).
+
+Roccuzzo 2025 전향 코호트(20년, n=64, 하악 구치부): KM 없음 → 임플란트주위염 25% vs KT군 4.2%(OR 6.67), 연조직 열개 100%, CIST C/D 개입 10배; FGG를 유지관리 중(1–10년) 적용 시 20년 결과가 원발 KT와 통계적 동등.
+
+유리치은이식(FGG)이 표준 증대술(KMW 1.5–6.5 mm 획득, 20년 내구); 이종이식(XCM)은 CTG 대비 KMW 비열등(WMD 0.8 mm, p=0.062), 수술시간 18.5분 단축; 동종이식(ADM)은 수축 19.5% 커 하위 옵션; 임상원칙: 매 recall KM 측정, <2 mm+병적 징후 시 증대, 하악 <2 mm는 2차 수술 전(前) FGG.
 
 ## Summary
 

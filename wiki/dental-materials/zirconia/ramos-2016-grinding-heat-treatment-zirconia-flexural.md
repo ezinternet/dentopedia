@@ -13,11 +13,19 @@ source_collection: external
 tags: [Y-TZP, grinding, heat-treatment, flexural-strength, monoclinic-phase, phase-transformation, UNESP]
 ---
 
-## One-line Summary
-In vitro study (Braz Oral Res 2016; Y-TZP ground at 200/160/25 μm ± heat treatment 1200 °C 2h): grinding increased monoclinic phase and characteristic strength, while heat treatment reversed the monoclinic transformation back to a controlled level; coarse-to-fine grinding sequence and post-heavy-grinding heat treatment recommended.
+## Three-line Summary
+In vitro study (Braz Oral Res 2016; UNESP/UFSM) evaluated Y-TZP ground at three grit sizes (200/160/25 μm) with or without subsequent heat treatment (1200 °C, 2 h) on monoclinic-phase content and flexural strength.
 
-## 한줄요약
-in-vitro(Braz Oral Res 2016): Y-TZP 연삭(200·160·25μm) ± 열처리(1200°C 2h) — 연삭: 단사정 상↑·특성강도↑; 열처리: 단사정 역변환→제어 수준; 조립→세립 순서 마감; 과도 연삭 후 열처리 권장.
+Grinding increased monoclinic phase content and characteristic flexural strength via compressive surface stress, but no correlation was found between surface roughness and flexural strength; heat treatment reversed the monoclinic-to-tetragonal transformation back to a controlled level.
+
+Clinically, a coarse-to-fine grinding sequence is recommended for final surface quality, and post-heavy-grinding heat treatment is indicated when minimizing monoclinic phase content is a concern.
+
+## 세줄요약
+in-vitro(Braz Oral Res 2016; UNESP/UFSM): Y-TZP를 3종 입도(200·160·25 μm)로 연삭 후 열처리(1200°C, 2h) 유무에 따른 단사정 상 함량과 굴곡강도 평가.
+
+연삭은 단사정 상 함량과 특성강도를 증가시켰으나(압축응력 유발) 표면조도-굴곡강도 상관 없음; 열처리는 단사정상을 정방정상으로 역변환해 제어 수준으로 복귀.
+
+임상적으로 조립→세립 순서 마감이 최적 표면질 달성에 권장되며, 과도한 연삭 후에는 단사정 상 과잉이 우려될 때 열처리 추가가 유익하다.
 
 ## Summary
 UNESP/UFSM study demonstrating that grinding Y-TZP increases monoclinic phase and characteristic strength, but heat treatment at 1200°C reverses the monoclinic transformation. Provides guidance for laboratory handling of ground zirconia.

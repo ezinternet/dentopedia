@@ -16,13 +16,21 @@ text_filename: alavi-2024-regenerative-grafts-socket-preservation-sr-ma.txt
 
 Fills the gap between xenograft-centric SRs and biological agent SRs in the ridge-preservation category — directly compares rhBMP-2 vs L-PRF vs blood-derived growth factor preparations for socket preservation, a head-to-head absent from prior overviews. Extends [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] which covered graft materials broadly but not growth-factor biologics comparison.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 29 RCTs (1,068 patients): rhBMP-2 significantly reduces both horizontal and vertical bone resorption after extraction; L-PRF shows nonsignificant changes vs natural healing but remains a cost-effective autologous option.
+SR+MA of 29 RCTs (1,068 patients, January 2010–December 2023) evaluating regenerative biologic graft materials — rhBMP-2, L-PRF, and blood-derived growth factor preparations — for socket preservation after tooth extraction.
 
-## 한줄요약
+rhBMP-2 significantly reduced horizontal bone resorption (p=0.01) and vertical resorption (p<0.0008); L-PRF showed no significant difference from natural healing in either dimension; rhBMP-2 outperformed L-PRF for horizontal preservation (p<0.0001).
 
-29개 RCT(1,068명) SR+MA: rhBMP-2는 수평·수직 골흡수를 모두 유의하게 감소시키며, L-PRF는 자연치유 대비 유의한 차이 없으나 자가유래·비용효과적 대안으로 제시됨.
+L-PRF is described as a cost-effective autologous alternative rather than a superior intervention; 15 of 29 studies had high risk of bias, limiting overall certainty.
+
+## 세줄요약
+
+29개 RCT(1,068명, 2010–2023) SR+MA: 발치 후 치조제보존(socket preservation)에서 rhBMP-2, L-PRF, 혈액유래 성장인자 제제를 비교.
+
+rhBMP-2는 수평(p=0.01)·수직(p<0.0008) 골흡수를 모두 유의하게 감소; L-PRF는 자연치유 대비 유의한 차이 없음; 수평보존에서 rhBMP-2 > L-PRF (p<0.0001).
+
+29편 중 15편이 high risk-of-bias로 전체 근거 확실성 제한적; L-PRF는 자가유래·비용효과적 대안으로 제시되나 우월성은 입증되지 않음.
 
 ## 1. Document Information
 

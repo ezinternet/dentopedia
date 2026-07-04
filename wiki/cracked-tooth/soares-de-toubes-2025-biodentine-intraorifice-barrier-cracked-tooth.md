@@ -18,13 +18,21 @@ text_filename: soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-too
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1): a root-extended cracked mandibular molar with an endo-periodontal lesion and pulp necrosis treated by root canal therapy + a Biodentine intraorifice barrier (placed 2 mm apical to the crack); 48-month CBCT showed complete periradicular and alveolar bone healing with the tooth retained and functional.
+Case report (n=1) of a root-extended cracked mandibular molar with endo-periodontal lesion and pulp necrosis, treated with root canal therapy followed by placement of a Biodentine intraorifice barrier condensed to 2 mm beyond the apical-most point of the crack.
 
-## 한줄요약
+At 12 months the periodontal pocket (>5 mm) resolved and periapical tissues healed; at 48-month CBCT, alveolar bone repair adjacent to the mesial root was confirmed with the tooth fully functional and asymptomatic — without periodontal surgery.
 
-증례보고 (n=1): 치근까지 균열이 확장되고 치주포켓·치수괴사를 동반한 하악 대구치를 근관치료 후 균열 최심점 2 mm 하방까지 바이오덴틴(Biodentine) 치근공입구 차단막으로 봉쇄 — 48개월 CBCT에서 치근단·치조골 완전 치유 및 치아 기능 유지.
+This is the lowest level of evidence (n=1) and outcome is confounded by favorable factors (experienced operator, operative microscope, early cuspal-coverage onlay, occlusal plate); it is hypothesis-generating and does not establish a survival rate for this worst-prognosis cracked-tooth scenario.
+
+## 세줄요약
+
+치근까지 균열이 확장되고 치주포켓·치수괴사를 동반한 하악 대구치(n=1) 증례보고; 근관치료 후 균열 최심점 2 mm 하방까지 바이오덴틴(Biodentine) 치근공입구 차단막을 충전.
+
+12개월 시점에 5 mm 이상 치주포켓 소실·치근단 조직 치유, 48개월 CBCT에서 치조골 수복 및 완전한 기능 유지 — 치주수술 없이 달성.
+
+n=1로 최저 근거 수준이며 숙련 술자·확대경·조기 교두피개 온레이·야간 교합 장치 등 유리한 교란요인이 복합되어 있어 가설 생성적 증례에 해당; 이 최불량 예후 시나리오의 생존율을 확립하지 않음.
 
 ## Summary
 

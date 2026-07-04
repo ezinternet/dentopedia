@@ -18,13 +18,21 @@ relations:
     target: terra-2025-at-home-bleaching-concentration-tooth-sensitivity
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=40) testing ozonized sunflower oil as a post-session desensitizer during 21-day at-home 10% HP bleaching: no reduction in sensitivity (VAS p=0.536) or improvement in whitening; ozonized oil rejected by patients for taste/odor.
+Double-blind parallel RCT (n=40) testing ozonized sunflower oil applied 1 min post-session as a desensitizer during 21-day at-home 10% HP bleaching (30 min/day in custom trays).
 
-## 한줄요약
+Ozonized oil had no effect on sensitivity intensity (VAS p=0.536) or duration (p=0.256), produced identical whitening outcomes, and was rated significantly worse than placebo for taste (p=0.002) and odor (p=0.010) by patients; 72.5% of participants experienced tooth sensitivity.
 
-오존화 해바라기유를 재가 10% HP 미백 후 탈감작제로 적용한 이중맹검 RCT(n=40)에서 치아 민감도·미백 효과 모두 위약과 차이 없었으며 맛·냄새로 환자 수용도가 낮았다.
+Ozonized sunflower oil cannot be recommended as a bleaching desensitizer — the ozone-in-oil vehicle does not replicate anti-inflammatory effects of ozone gas, and poor sensory properties would limit real-world adoption.
+
+## 세줄요약
+
+21일 재가 10% HP 미백(30분/일) 후 오존화 해바라기유를 1분 적용한 이중맹검 병렬 RCT(n=40).
+
+민감도 강도(VAS p=0.536)·지속시간(p=0.256) 모두 위약과 차이 없고 미백 효과도 동일; 환자들이 맛(p=0.002)·냄새(p=0.010)에서 오존화유를 유의하게 낮게 평가; 민감도 발생률 72.5%.
+
+오존화 해바라기유는 미백 탈감작제로 권장 불가 — 오일 매체는 오존 가스의 항염 효과를 재현하지 못하며 관능적 특성도 낮음.
 
 ## Summary
 

@@ -10,7 +10,7 @@ pdf_filename: shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 ACCP 가이드라인 근거 SR+MA: 장기 항혈소판제 (APT) 복용 환자 비심장 수술 — 짧은 vs 긴 중단 기간 출혈 차이 NS (low COE); aspirin 지속 시 위약 대비 주요 출혈 증가 (RR 1.31, high COE) + 주요 혈전증 감소 (RR 0.74, high COE).
 
 ## 1. Document Information

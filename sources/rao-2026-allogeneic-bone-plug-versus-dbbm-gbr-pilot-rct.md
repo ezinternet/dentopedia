@@ -17,13 +17,23 @@ text_filename: rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct.txt
 
 DBBM의 느린 turnover와 잔존 입자 문제를 다룬 [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]]의 histomorphometric 비교를 보강·확장하는 head-to-head RCT. 부분탈회 동종골 plug(ACBP)가 DBBM 대비 6개월 차원 안정성은 동등하면서 잔존 graft 비율은 더 낮다는 직접 임상 근거를 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Pilot RCT (n=25; ACBP 12 vs DBBM 13, sinus + socket GBR): at 6 months, partially demineralized allogeneic cancellous bone plug matched DBBM on CBCT dimensional stability and vital bone (38.84% vs 32.18%, P=0.105) but had significantly lower residual graft (11.18% vs 19.80%, P=0.006).
 
-## 한줄요약
+Pilot RCT (n=25;
 
-소규모 RCT (총 25명; ACBP 12명 vs DBBM 13명, 상악동거상 + 발치와 보존 GBR): 6개월 시점 CBCT 차원 안정성과 생활골 비율은 동등(38.84% vs 32.18%, P=0.105)했으나, 부분탈회 동종골 plug가 잔존 graft 비율은 유의하게 낮았다(11.18% vs 19.80%, P=0.006).
+ACBP 12 vs DBBM 13, sinus + socket GBR): at 6 months, partially demineralized allogeneic cancellous bone plug matched DBBM on CBCT dimensional stability and vital bone (38.84% vs 32.18%, P=0.105) but had significantly lower residual graft (11.18% vs 19.80%, P=0.006).
+
+(incomplete)
+
+## 세줄요약
+
+
+소규모 RCT (총 25명;
+
+ACBP 12명 vs DBBM 13명, 상악동거상 + 발치와 보존 GBR): 6개월 시점 CBCT 차원 안정성과 생활골 비율은 동등(38.84% vs 32.18%, P=0.105)했으나, 부분탈회 동종골 plug가 잔존 graft 비율은 유의하게 낮았다(11.18% vs 19.80%, P=0.006).
+
+(incomplete)
 
 ## 1. Document Information
 

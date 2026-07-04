@@ -16,13 +16,21 @@ relations:
     target: kay-2016-motivational-interviewing-general-dental-practice
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs; n 20–297) found social-cognitive-model interventions combining goal-setting, planning, self-monitoring and feedback may improve oral hygiene in periodontitis patients, and CBT combined with motivational interviewing may reduce plaque and bleeding scores.
+Systematic review without meta-analysis (5,460 screened → 21 studies: 16 RCTs, 5 NRCTs; n=20–297; follow-up 1 month–3 years) of behavioural/psychological interventions for plaque control and gingival inflammation in periodontitis patients, spanning six psychological models.
 
-## 한줄요약
+Social-cognitive-model interventions combining goal-setting, planning, self-monitoring, and feedback may improve oral hygiene and periodontal outcomes; CBT combined with motivational interviewing (MI) may reduce plaque and bleeding scores.
 
-21개 연구(RCT 16편, 비무작위 5편; n 20–297)를 종합한 체계적 문헌고찰(메타분석 없음)로, 목표설정·계획·자기점검·피드백을 결합한 사회인지모델 기반 중재가 치주염 환자의 구강위생을 개선할 수 있고, 인지행동치료(CBT)와 동기면담(MI) 병용이 치면세균막·출혈 점수를 낮출 수 있음을 시사했다.
+High heterogeneity in protocols, outcomes, and follow-up precluded meta-analysis, limiting conclusions to directional signals; MI is positioned as one technique within a broader behavioural-intervention landscape that includes Theory of Planned Behavior, HAPA, and CBT.
+
+## 세줄요약
+
+체계적 문헌고찰(Systematic Review, 메타분석 없음) — 5,460편 검색 후 21편(RCT 16편, 비무작위 5편; n=20–297; 추적 1개월~3년) 포함; 치주염 환자의 치면세균막 관리·치은 염증에 대한 행동·심리 중재를 사회인지이론·계획행동이론(TPB)·건강행동과정접근(HAPA)·자기조절이론·MI·인지행동치료(CBT) 6개 모델로 평가.
+
+목표설정·계획·자기점검·피드백을 결합한 사회인지모델 기반 중재가 구강위생 개선에 유망; CBT와 동기면담(Motivational Interviewing, MI) 병용이 치면세균막·출혈 점수를 낮출 가능성 시사.
+
+프로토콜·결과·추적 기간의 높은 이질성으로 메타분석 불가 — 결론은 방향성 신호 수준; 개별 중재마다 단일 연구에 그치는 경우 다수, 근거 충분성 제한.
 
 ## Summary
 

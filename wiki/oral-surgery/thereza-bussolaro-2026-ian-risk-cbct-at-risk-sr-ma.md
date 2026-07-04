@@ -20,13 +20,21 @@ relations:
     target: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 CBCT + objective-neurosensory-test cohorts: overall IAN injury risk 9.52%; high-risk cases 14.76%; cortical bone absence 15.65% vs 0.39% with intact cortex — a 40-fold difference guiding surgical decision-making.
+PRISMA-compliant SR+MA (11 studies) requiring both preoperative CBCT and objective post-operative neurosensory testing, screening 1,039 records to characterize absolute IAN injury risk by tomographic feature.
 
-## 한줄요약
+Overall IAN injury risk is 9.52% (95% CI 7.18–12.53%); high-risk CBCT cases 14.76%; mandibular canal cortical bone absence yields 15.65% risk vs only 0.39% with intact cortex — a 40-fold difference directly usable in patient counseling.
 
-CBCT + 객관적 신경검사 코호트 11개 SR+MA — 전체 IAN 손상률 9.52%; 고위험군 14.76%; 피질골 소실 15.65% vs 피질골 존재 0.39% (40배 차이).
+GRADE certainty is low to very low due to substantial heterogeneity; only 1.05% of published studies met the strict dual-criterion inclusion, revealing a critical evidence gap requiring standardized prospective studies.
+
+## 세줄요약
+
+PRISMA SR+MA (1,039 검색, 11편 포함): 술전 CBCT + 객관적 신경감각검사 양쪽 모두 요구하는 엄격한 포함기준 — 공개 연구의 단 1.05%만 포함.
+
+전체 IAN 손상률 9.52%; 고위험 CBCT군 14.76%; 하치조신경관(Mandibular Canal, MC) 피질골 소실 시 15.65% vs 피질골 존재 시 0.39% (40배 차이) — 직접 환자 상담에 활용 가능한 절대 위험도.
+
+GRADE 근거 수준 낮음~매우 낮음; 이질성 상당 — 임상 해석 시 주의 필요하며 표준화된 전향적 연구 시급.
 
 ## Summary
 

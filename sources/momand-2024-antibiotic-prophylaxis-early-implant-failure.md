@@ -17,13 +17,23 @@ text_filename: momand-2024-antibiotic-prophylaxis-early-implant-failure.txt
 
 조기 임플란트 실패 surveillance 배치에서 "예방 가능한가?"라는 개입 측 질문을 담당하는 최신 SR+MA. 위험인자 코호트인 [[implants/yari-2023-risk-factors-early-implant-failure]]·[[implants/uesugi-2024-risk-factors-early-failure-all-on-four]]가 흡연·해부·로딩을 강조하는 반면, 본 연구는 항생제 예방이 조기 실패를 거의 줄이지 못함(NNT 143)을 보여 개입 우선순위를 재정렬한다. 기존 [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]](술전 단일 amoxicillin 권고)와 대비되는 결과 — placebo-RCT만 포함해 효과를 축소 추정.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (7 placebo-controlled double-blind RCTs, 1859 patients / 3014 implants): preoperative antibiotic prophylaxis did NOT significantly reduce early implant failure (RR 0.66, 95% CI 0.30-1.47; risk difference -0.007; NNT 143), GRADE moderate certainty — routine prophylaxis not supported for uncomplicated implant surgery.
 
-## 한줄요약
+Systematic review + meta-analysis (7 placebo-controlled double-blind RCTs, 1859 patients / 3014 implants): preoperative antibiotic prophylaxis did NOT significantly reduce early implant failure (RR 0.66, 95% CI 0.30-1.47;
 
-체계적 고찰+메타분석(위약대조 이중맹검 RCT 7편, 환자 1859명 / 임플란트 3014개): 술전 항생제 예방은 조기 임플란트 실패를 유의하게 줄이지 못함(RR 0.66, 95% CI 0.30-1.47; 위험차 -0.007; NNT 143), GRADE 중간 — 비복잡 임플란트 수술에서 통상적 항생제 예방은 근거 부족.
+risk difference -0.007;
+
+NNT 143), GRADE moderate certainty — routine prophylaxis not supported for uncomplicated implant surgery.
+
+## 세줄요약
+
+
+체계적 고찰+메타분석(위약대조 이중맹검 RCT 7편, 환자 1859명 / 임플란트 3014개): 술전 항생제 예방은 조기 임플란트 실패를 유의하게 줄이지 못함(RR 0.66, 95% CI 0.30-1.47;
+
+위험차 -0.007;
+
+NNT 143), GRADE 중간 — 비복잡 임플란트 수술에서 통상적 항생제 예방은 근거 부족.
 
 ## 1. Document Information
 

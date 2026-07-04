@@ -9,7 +9,7 @@ pdf_filename: felix-2022-subantral-sinus-augmentation-hydraulic-lift-system.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Case report (58F, atrophic right posterior maxilla) of indirect (transcrestal) sinus floor elevation using a **hydraulic lift system** with alloplastic **phosphosilicate putty** graft and **simultaneous implant placement** in the maxillary first molar region.
 
 ## 1. Document Information

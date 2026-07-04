@@ -17,13 +17,21 @@ text_filename: al-rammahi-2023-mandibular-first-molar-microct-anatomy-sr.txt
 
 치아형태학 감시 인제스트 — 하악 제1대구치 micro-CT 근관해부(중간근심관·isthmus)의 최고해상도 종합. micro-CT는 CBCT보다 voxel이 작아(9.9–50 µm) MMC·isthmus·accessory canal 같은 미세 구조를 "gold standard" 수준으로 정량화하므로, 위키의 CBCT 기반 하악 대구치 형태 페이지들에 해상도 상한선을 더한다. 짝을 이루는 mandibular-molar 근관형태 페이지 [[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]] (CBCT)와 C-shaped 단면 [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]]을 micro-CT 정량 데이터로 보강하고, MB2 검출·missed-canal 라인의 [[endodontics/anatomy/mohammadi-2016-methods-decrease-missed-root-canals]]에 mesial-root MMC/isthmus라는 누락 표적을 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 30 micro-CT studies (double-rooted permanent mandibular first molars): pooled Vertucci Type IV dominates the mesial root (58.7%) and Type I the distal root (83.0%); middle mesial canal prevalence up to 46%, mesial-root isthmus 10–100% — all with high heterogeneity (I²=86–87%) and "moderate" risk of bias in 27/30 studies (AQUA).
+Systematic review + meta-analysis of 30 micro-CT studies (PRISMA 2020; AQUA risk-of-bias; Web of Science/PubMed/Scopus) examining root and canal anatomy of permanent double-rooted mandibular first molars at the gold-standard micro-CT resolution (voxel 9.9–50 µm); three-rooted molars and taurodontism excluded.
 
-## 한줄요약
+Pooled Vertucci Type IV dominates the mesial root (58.7%) and Type I the distal root (83.0%); middle mesial canal (MMC) prevalence reaches up to 46%; mesial-root isthmus varies widely (10–100%); high heterogeneity for all meta-analyses (I²=86–87%); 27/30 studies rated "moderate" risk of bias (AQUA); sample-size calculation missing in 93% of studies.
 
-SR+MA, micro-CT 30편(이근성 영구 하악 제1대구치): 근심근 Vertucci Type IV(58.7%)·원심근 Type I(83.0%)가 우세, 중간근심관(MMC) 최대 46%, 근심근 isthmus 10–100% — 이질성 매우 높고(I²=86–87%) 27/30편이 AQUA "중간" 비뚤림위험.
+MMC and mesial isthmus are key missed-canal targets with highly population-dependent prevalence — clinicians should troughing the developmental groove (up to 2 mm) to locate MMC orifices and use ultrasonics to clear isthmus tissue, accepting that pooled estimates cannot define a universal threshold due to high I².
+
+## 세줄요약
+
+SR+MA, micro-CT 30편(PRISMA 2020; AQUA 비뚤림위험; Web of Science/PubMed/Scopus): 영구 이근성 하악 제1대구치 근관해부를 최고해상도(9.9–50 µm)로 종합; 삼근성·우치증 제외.
+
+근심근 Vertucci Type IV(58.7%)·원심근 Type I(83.0%) 우세; 중간근심관(MMC) 최대 46%; 근심근 isthmus 10–100% — I²=86–87% 고이질성; 27/30편 AQUA "중간" 비뚤림위험; 표본크기 산출 보고 7%에 불과.
+
+MMC·근심 isthmus는 놓치기 쉬운 근관의 핵심 표적이며 유병률이 인종/집단에 따라 크게 달라 단일 역치 적용 불가 — 발달 홈 트로핑(최대 2 mm)과 초음파를 이용한 isthmus 세정이 임상 핵심이며, 고이질성을 고려해 집단 통계를 직접 적용할 때 주의가 필요.
 
 ## 1. Document Information
 

@@ -16,13 +16,23 @@ text_filename: vazquez-delgado-2010-myofascial-pain-differential-diagnosis-treat
 
 TMD 물리치료 분사신장(spray-and-stretch) 논문 감시의 (A) 영역 — 구강안면통증 유닛(University of Kentucky TMJ Disease and Orofacial Pain Unit)에서 쓴 리뷰로, 수많은 트리거포인트 치료 중 **분사신장과 직접 주사를 가장 효과적**이라고 명시 평가한다. [[tmj/pal-2014-trends-management-myofascial-pain]]가 모든 모달리티를 나열하는 데 비해, 본 리뷰는 분사신장을 1순위로 꼽고 만성화 시 정신사회적 개입과 예후 악화를 강조해 [[tmj/koole-2019-spray-stretch-technique-mouth-opening]]의 임상 근거에 예후·감별진단 맥락을 더한다. PMC 미제공 → 초록 기반(abstract-only).
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (Part 2, treatment) from an orofacial-pain unit concluding that, among the many trigger-point treatments, the spray-and-stretch technique and direct trigger-point injection are the most effective options — and that chronic cases need psychosocial intervention and carry a poorer prognosis, underscoring early diagnosis/treatment.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구강안면통증 유닛의 근막통 치료 리뷰(Part 2) — 다수의 트리거포인트 치료법 중 분사신장(spray-and-stretch)과 직접 주사가 가장 효과적이며, 만성 사례는 정신사회적 개입이 필요하고 예후가 나빠 조기 진단·치료가 중요하다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

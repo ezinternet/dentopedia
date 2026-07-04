@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Cross-sectional CBCT study evaluating incisive canal dimensions and anterior maxillary labial/palatal bone thickness, quantifying how palatal immediate implant placement (IIP) trajectories may approach the canal walls and highlighting the incisive canal as an under-appreciated anatomic constraint in central incisor IIP.
+## Three-line Summary
 
-## 한줄요약
-CBCT 단면(인도 인구): 절치공(incisive canal) 위치 및 전치부 골 두께 평가 — 즉시 식립 시 절치공 침범 위험과 협측·구개측 골 잔량을 정량.
+Retrospective CBCT cross-sectional study measuring incisive canal dimensions and labial/palatal anterior maxillary bone thickness in relation to the central incisor region.
+
+Population-specific dimensional data quantified how palatal immediate implant placement trajectories approach the incisive canal walls, identifying it as an under-appreciated anatomic risk factor.
+
+Preoperative CBCT assessment of incisive canal position is necessary when pursuing palatal implant positioning for buccal bone preservation in central incisor sites; single-population data limit generalizability.
+
+## 세줄요약
+
+인도 인구를 대상으로 절치관(Incisive Canal) 크기와 상악 전치 영역 순측·구개측 골 두께를 측정한 후향적 CBCT 단면 연구.
+
+구개측 즉시 식립 궤적이 절치관 벽에 접근하는 정도를 정량화하여, 절치관이 간과되기 쉬운 해부학적 제한 요소임을 확인하였다.
+
+중절치 부위 즉시 식립 시 순측 골 보존을 위한 구개측 위치 결정에 앞서 절치관 위치에 대한 CBCT 술전 평가가 필요하며, 단일 인구 단면 설계로 일반화에 주의가 필요하다.
 
 ## Summary
 Cross-sectional CBCT study evaluating incisive canal dimensions and anterior maxillary bone thickness, with implications for immediate implant placement risk of canal perforation.

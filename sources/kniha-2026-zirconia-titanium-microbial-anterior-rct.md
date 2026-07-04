@@ -17,13 +17,23 @@ text_filename: kniha-2026-zirconia-titanium-microbial-anterior-rct.txt
 
 지르코니아 임플란트의 구강 미생물 환경 영향은 임플란트 재료 선택 시 근거가 되지만 임상 RCT 데이터가 부족했다. 본 split-mouth RCT는 12개월에 걸쳐 지르코니아 vs 티타늄 임플란트의 주위 미생물 군집을 16S rRNA 시퀀싱으로 직접 비교해 [[implants/peri-implantitis]] 위험 인자 맥락에서 재료 의존적 미생물 생태학에 기여한다.
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=20 edentulous patients, 12 months): zirconia implants harbored lower Actinobacteria at 12 months and higher microbial diversity vs titanium; beta diversity did not differ significantly between materials at any timepoint; findings are exploratory with no definitive clinical superiority of either material.
 
-## 한줄요약
+Split-mouth RCT (n=20 edentulous patients, 12 months): zirconia implants harbored lower Actinobacteria at 12 months and higher microbial diversity vs titanium;
 
-분할구 RCT (20명, 12개월): 지르코니아 임플란트는 12개월 시점 Actinobacteria 감소·미생물 다양성 우세 경향을 보였고 티타늄은 다양성 감소; 베타 다양성은 재료 간 차이 없으며, 어느 재료의 임상적 우위도 결론 짓기 어렵다.
+beta diversity did not differ significantly between materials at any timepoint;
+
+findings are exploratory with no definitive clinical superiority of either material.
+
+## 세줄요약
+
+
+분할구 RCT (20명, 12개월): 지르코니아 임플란트는 12개월 시점 Actinobacteria 감소·미생물 다양성 우세 경향을 보였고 티타늄은 다양성 감소;
+
+베타 다양성은 재료 간 차이 없으며, 어느 재료의 임상적 우위도 결론 짓기 어렵다.
+
+(incomplete)
 
 ## 1. Document Information
 

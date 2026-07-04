@@ -38,13 +38,21 @@ relations:
 > - **차폐 논점**: 파노라마 갑상선 0.30~1.46 µSv·수정체 0.88~4.24 µSv (schindler-2025)로 절대선량이 낮아 갑상선 칼라·차폐 중단 권고의 근거가 됨 (별도 차폐 오버뷰·benavides-2023 연계).
 > - **⚠️ 솔직한 공백**: **비행기·우주방사선 등가 비교**는 보유 논문에 수치가 전혀 없어 만들지 않았다 (Rule #1: 웹검색 금지). 비행 1회=며칠 같은 환산이 필요하면 해당 수치가 담긴 논문을 주시면 추가하겠음. 구내 비트윙 (Bitewing)·전악 (FMX)·측방두부 (Lateral Ceph)·휴대용 PA의 **환자** 유효선량도 보유 논문에 없음.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 14 held dental-dosimetry papers expressing radiographic effective doses (µSv) as natural-background-radiation equivalents: intraoral PA ≈ a few hours, panoramic ≈ 2 days, and CBCT from ≈3.6 days (small i-CAT) up to ≈46 days (max child large-FOV) of background — with the per-modality flight/cosmic comparison flagged as absent from our corpus.
+Synthesis of 14 dental-dosimetry papers converting radiographic effective doses to natural-background equivalents (reference: 3,110 µSv/year ≈ 8.52 µSv/day, lee-2021): intraoral periapical ≈ 0.15 day (~3.7 hours), panoramic ≈ 2.1 days, CBCT range ≈ 3.6 days (small i-CAT, 31 µSv) to ≈ 46 days (child large-FOV, 392.2 µSv — verified against lee-2021's own "≈13% of annual background" statement).
 
-## 한줄요약
+Key optimization findings: CBCT low-dose protocols cut adult dose ~6× (Charuakkra 2023); pediatric 180 µm voxel CBCT cuts dose ~45% vs standard without sacrificing anatomy quality (Oenning 2019); tiling 6 small FOVs costs 1.2× the dose of one large FOV — smaller FOV ≠ lower overall dose when multiple acquisitions replace one (Ozaki 2021); pediatric girls face ~2× the lifetime excess cancer mortality risk vs adult males at equal dose (Yeh 2018 REID analysis).
 
-보유 치과 선량 논문 14편을 합성해 유효선량을 자연방사선 등가일수로 환산 — 구내 PA 수 시간, 파노라마 약 2일, CBCT 약 3.6~46일; 단 비행/우주방사선 비교값은 우리 논문에 없어 공백으로 명시.
+Clinical bottom line: dental radiographic doses are small relative to background but not trivial in children/females, where justification has the highest impact; contact shielding (gonad/thyroid) is now recommended against as thyroid doses are 0.30–1.46 µSv and gonad risk is negligible (Schindler 2025 phantom); flight/cosmic comparisons and bitewing/FMX/lateral-ceph patient doses are absent from this corpus.
+
+## 세줄요약
+
+14편 합성: 유효선량을 자연방사선 등가일수로 환산(기준: 3,110 µSv/년 ≈ 8.52 µSv/일, lee-2021) — PA ≈ 0.15일(~3.7시간), 파노라마 ≈ 2.1일, CBCT ≈ 3.6일(소형 i-CAT) ~ 46일(소아 대형FOV, lee-2021의 "연간 배경의 13%" 진술과 일치).
+
+선량 최적화: CBCT 저선량 프로토콜 성인 ~6배 감소(Charuakkra 2023); 소아 180µm 복셀 CBCT 45% 감소(Oenning 2019); 소형 FOV 6회가 대형 1회의 1.2배 → "작게 여러 번"은 선량 감소가 아님(Ozaki 2021); 소아 여아는 동일 선량에서 성인 남성의 약 2배 평생발암위험(Yeh 2018).
+
+임상 결론: 선량은 배경 대비 낮지만 소아·여성에서 정당화가 가장 중요; 갑상선 칼라·생식선 차폐는 현재 중단 권고(갑상선 등가선량 0.30~1.46µSv로 무시 가능, Schindler 2025); 비행/우주방사선 비교 및 bitewing/FMX/측방두부 선량값은 보유 논문에 없어 공백.
 
 ## Thesis
 

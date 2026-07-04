@@ -13,13 +13,23 @@ source_collection: external
 
 유니버설 접착제가 실란을 포함하고 있어도 별도의 실란 적용이 장석계 도재 수리 접착강도를 향상시키는지 검증한 논문으로, [[resin-bonding/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength]]의 실란 화학적 반응성 분석을 임상적 수리 시나리오에서 실용적으로 확장한다. 유니버설 접착제 사용 시 별도 실란 적용 여부에 대한 임상 의사결정에 직접 기여한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n=70 feldspathic porcelain disks, 7 groups, shear bond strength after thermocycling): Separate silane application after HF etching significantly increased repair bond strength for Single Bond Universal and All Bond Universal, but not for FuturaBond; FuturaBond with or without silane showed comparable strength.
 
-## 한줄요약
+In vitro (n=70 feldspathic porcelain disks, 7 groups, shear bond strength after thermocycling): Separate silane application after HF etching significantly increased repair bond strength for Single Bond Universal and All Bond Universal, but not for FuturaBond;
 
-In vitro (n=70, 7그룹, SBS, 5,000 열순환): Single Bond와 All Bond 유니버설 접착제 사용 시 별도 실란 추가로 접착강도 유의하게 향상; FuturaBond는 실란 추가 효과 없음.
+FuturaBond with or without silane showed comparable strength.
+
+(incomplete)
+
+## 세줄요약
+
+
+In vitro (n=70, 7그룹, SBS, 5,000 열순환): Single Bond와 All Bond 유니버설 접착제 사용 시 별도 실란 추가로 접착강도 유의하게 향상;
+
+FuturaBond는 실란 추가 효과 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

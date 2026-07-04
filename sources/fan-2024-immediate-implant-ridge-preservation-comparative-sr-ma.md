@@ -10,7 +10,7 @@ pdf_filename: fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma.pd
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (11 RCT, n=701: IIP 353 vs ARP 348; PROSPERO CRD42024503989): 즉시식립(IIP) vs 치조제 보존 후 지연식립(ARP) — IIP가 MBL 유의하게 더 큰 감소 (non-molar MD −0.36 mm, molar MD −0.41 mm); PES·implant failure·HW·FGM·만족도 동등; IIP 술후 합병증 더 많음.
 
 ## 1. Document Information

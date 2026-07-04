@@ -10,7 +10,7 @@ pdf_filename: schiavon-2025-computer-assisted-immediate-implant-accuracy-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+NMA (7 RCT, 338 임플란트, 291명, Univ Zurich): 즉시식립에서 Computer-Assisted Implant Surgery (CAIS) — dynamic/full static/partial static — vs freehand 정확도 비교; CAIS가 freehand 대비 angular/coronal/apical deviation 일관되게 우수.
 
 ## 1. Document Information

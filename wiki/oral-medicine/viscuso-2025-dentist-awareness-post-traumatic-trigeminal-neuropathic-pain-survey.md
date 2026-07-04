@@ -20,13 +20,21 @@ relations:
     target: jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Web-based cross-sectional survey of 634 Italian dentists: 29% were unaware that post-traumatic trigeminal neuropathic pain (PTTN) exists and >80% received no teaching about it, yet 70% had encountered suspected cases — most managed with irreversible procedures (retreatment/apicectomy/extraction) and only ~1 in 3 referred to a pain specialist, exposing a misdiagnosis-driven public-health gap.
+Web-based cross-sectional survey of 634 Italian dentists (Oct–Dec 2021) quantifying awareness, education, and management of post-traumatic trigeminal neuropathic pain (PTTN) — neuropathic pain persisting >3 months after root canal or extraction.
 
-## 한줄요약
+28.7% were unaware PTTN exists, >80% received no teaching on it, yet 71.7% had encountered a suspected case; those who lacked PTTN awareness defaulted to irreversible procedures (retreatment 48.6%, extraction 22.4%), and only ~1 in 3 referred to a pain specialist.
 
-이탈리아 치과의 634명 웹 단면조사: 29%가 외상후 삼차신경병성 통증(PTTN) 존재를 모르고 80% 이상이 관련 교육을 받은 적 없으나 70%가 의심 사례를 경험 — 대부분 비가역 치료(재근관·치근단절제·발치)로 대응하고 3명 중 1명만 통증 전문의에 의뢰해, 오진 기반의 공중보건 공백을 드러냄.
+Unawareness of PTTN was significantly associated with failure at every step — recognition, differential diagnosis, and referral (p<0.05) — representing a preventable misdiagnosis-driven harm affecting an estimated >150 million individuals at risk globally.
+
+## 세줄요약
+
+이탈리아 치과의 634명 웹 단면조사(2021년) — 외상후 삼차신경병성 통증(Post-Traumatic Trigeminal Neuropathy, PTTN)의 인지도·교육·관리 실태 정량화.
+
+28.7%가 PTTN 존재를 모르고 80% 이상이 교육받은 적 없으나 71.7%가 의심 사례 경험; 비인지 치과의는 비가역 처치(재근관 48.6%, 발치 22.4%)로 대응하고 통증 전문의 의뢰는 3명 중 1명에 불과.
+
+PTTN 비인지는 인식·감별·의뢰 전 단계에서 실패와 유의하게 연관(p<0.05) — 세계적으로 1억5천만 명 이상 잠재 위험군에 영향을 미치는 예방 가능한 오진 공중보건 공백.
 
 ## Summary
 

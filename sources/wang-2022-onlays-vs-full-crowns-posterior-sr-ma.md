@@ -9,7 +9,7 @@ pdf_filename: wang-2022-onlays-vs-full-crowns-posterior-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 구치부 수복: 온레이/부분관 vs 완전관 비교 SR+MA — 생존율, 합병증, 치질 보존 이점.
 
 ## 1. Document Information

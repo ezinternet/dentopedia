@@ -17,13 +17,21 @@ text_filename: al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoa
 
 [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] establishes that extractions can proceed without interrupting anticoagulation when a local hemostatic measure is used, but does not adjudicate which topical agent is superior. This split-mouth trial directly head-to-heads the two most common socket dressings (oxidized cellulose Surgicel vs gelatin sponge Gelfoam) in aspirin/warfarin patients, refining the "use a local hemostat" recommendation into a concrete agent choice.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-blinded split-mouth clinical trial (40 patients, 80 sockets; 20 aspirin + 20 warfarin) — Surgicel (oxidized cellulose) outperformed Gelfoam (gelatin sponge) on the same patient's contralateral socket for hemostasis (VIBe), delayed 24-h bleeding, gingival healing, and pain (all p<0.05); warfarin patients bled and hurt more than aspirin patients.
+Prospective single-blinded split-mouth trial (n=40 anticoagulated patients, 80 sockets; 20 aspirin + 20 warfarin) comparing oxidized cellulose (Surgicel) vs gelatin sponge (Gelfoam) socket dressings with anticoagulant therapy continued throughout.
 
-## 한줄요약
+Surgicel outperformed Gelfoam within the same patient for intraoperative hemostasis (VIBe, p<0.0001), 24-hour delayed bleeding (Chi-square p<0.05), gingival healing at D7 (p<0.05), and pain at all days (p<0.0001); warfarin patients had significantly more bleeding and pain than aspirin patients.
 
-전향적 단일맹검 분악(split-mouth) 임상시험 (환자 40명, 발치와 80곳; 아스피린 20 + 와파린 20) — 같은 환자의 반대쪽 발치와 비교에서 Surgicel(산화셀룰로오스)이 Gelfoam(젤라틴 스폰지)보다 지혈(VIBe)·24시간 지연출혈·치은치유·통증 모두에서 우수(전부 p<0.05); 와파린군이 아스피린군보다 출혈·통증 더 많음.
+Surgicel is the preferred local hemostatic dressing for post-extraction bleeding control in patients on aspirin or warfarin, used without anticoagulant interruption; DOAC patients were not included and require separate evidence.
+
+## 세줄요약
+
+전향적 단일맹검 분악(split-mouth) 임상시험 (항응고요법 중 환자 40명, 발치와 80곳; 아스피린 20 + 와파린 20) — 항응고제 유지 하에 Surgicel(산화 셀룰로오스) vs Gelfoam(젤라틴 스폰지) 소켓 드레싱 비교.
+
+같은 환자 내 비교에서 Surgicel이 술중 지혈(VIBe, p<0.0001), 24시간 지연출혈(p<0.05), 7일 치은치유(p<0.05), 전 일수 통증(p<0.0001) 모두 Gelfoam보다 우수; 와파린군이 아스피린군보다 출혈·통증 현저히 많음.
+
+아스피린 또는 와파린 항응고요법 유지 시 발치 후 지혈을 위해 Surgicel이 선호 드레싱; DOAC 환자는 미포함으로 별도 근거 필요.
 
 ## 1. Document Information
 

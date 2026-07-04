@@ -14,11 +14,19 @@ source_collection: external
 tags: [intact-socket, non-intact-socket, buccal-bone-thickness, pes, systematic-review, immediate-implant, ghent]
 ---
 
-## One-line Summary
-SR (20 studies, 525 implants): BBT at immediate implant placement in intact sockets 1.10–3.18 mm vs. non-intact sockets 1.18–3.00 mm; survival >90–100% in both; evidence for non-intact sockets is of very low quality.
+## Three-line Summary
+Systematic review (20 studies, 525 implants; JCM 2025, Ghent) comparing immediate implant placement outcomes in intact vs non-intact alveolar sockets.
 
-## 한줄요약
-SR (20연구, 525임플란트): BBT 온전소켓 1.10–3.18mm vs 비온전소켓 1.18–3.00mm; 생존율 >90–100% 모두; 비온전소켓 근거수준 낮음
+Buccal bone thickness (BBT) was similar across socket types (intact: 1.10–3.18 mm, non-intact: 1.18–3.00 mm); survival >90–100% in both; soft-tissue changes and PES were comparable; only 2 RCTs for non-intact sockets, both at high risk of bias — meta-analysis not possible.
+
+Clinical implication: non-intact sockets may yield similar immediate implant outcomes to intact sockets, but evidence quality is very low — high-quality RCTs are urgently needed before routinely extending immediate placement to compromised socket anatomy.
+
+## 세줄요약
+체계적 고찰 (20개 연구, 525개 임플란트; JCM 2025, 겐트) — 온전 vs 비온전 치조 소켓에서의 즉시식립 결과 비교.
+
+협측 골 두께 (Buccal Bone Thickness, BBT) 양 군 유사 (온전: 1.10–3.18 mm, 비온전: 1.18–3.00 mm); 생존율 >90–100%; 연조직 변화·분홍 심미 점수 (Pink Esthetic Score, PES) 비슷; 비온전 소켓 RCT 단 2개, 모두 높은 비뚤림 위험 — 메타분석 불가.
+
+임상 적용: 비온전 소켓도 유사한 즉시식립 결과 가능성 있으나 근거수준 매우 낮음 — 손상된 소켓에 즉시식립을 일상적으로 확장하기 전 고품질 RCT 필요.
 
 ## Summary
 체계적 고찰(20개 연구, 525개 임플란트). 온전/비온전 소켓 즉시식립 시 **BBT·연조직 퇴축·PES·생존율 모두 유사**. 단, 비온전 소켓 연구 질 극히 낮아 강한 결론 도출 불가 — 고품질 RCT 필요.

@@ -13,13 +13,21 @@ source_collection: external
 
 This SR+MA directly quantifies the patient-centered impact of halitosis on 구강건강관련 삶의 질 (Oral Health-Related Quality of Life, OHRQoL), a dimension not yet covered by existing halitosis pages. It extends [[wiki/halitosis/silva-2017-estimated-prevalence-halitosis-sr]] by linking prevalence data to functional/social burden, and complements [[wiki/halitosis/memon-2022-aetiology-associations-halitosis-systematic]] on patient-reported outcomes.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 cross-sectional studies (n=2,692) found halitosis significantly associated with impaired OHRQoL (SMD 0.51, 95% CI 0.27–0.75), with the association persisting only in adults.
+SR+MA of 10 cross-sectional studies (n=2,692) assessing the association between halitosis and oral-health-related quality of life (OHRQoL); populations spanning adults and children/adolescents across 8 countries.
 
-## 한줄요약
+Halitosis was significantly associated with impaired OHRQoL across all studies (pooled SMD 0.51, 95% CI 0.27–0.75; moderate effect), with the association statistically significant only in adults and not in children/adolescents.
 
-구강건강관련 삶의 질 (OHRQoL)에 대한 구취 (halitosis)의 영향을 분석한 SR+MA (10개 횡단연구, n=2,692): 구취가 있는 성인에서 OHRQoL 유의한 저하 확인 (SMD 0.51, 95% CI 0.27–0.75).
+All 10 meta-analyzed studies were cross-sectional, precluding causal inference; publication bias risk inflated effect estimates in lower-quality studies, and no RCT evidence exists on whether treating halitosis improves OHRQoL.
+
+## 세줄요약
+
+10개 횡단연구(n=2,692)를 대상으로 구취(Halitosis)와 구강건강관련 삶의 질(Oral Health-Related Quality of Life, OHRQoL)의 연관성을 분석한 SR+MA; 8개국 성인·청소년 포함.
+
+구취는 OHRQoL 유의한 저하와 연관(표준화평균차이 SMD 0.51, 95% CI 0.27–0.75, 중간 효과크기); 성인에서만 유의하고 소아·청소년에서는 유의하지 않음.
+
+메타분석 10편 모두 횡단연구로 인과관계 추론 불가; 방법론적 질이 낮은 연구일수록 과대추정 경향이 있으며, 구취 치료가 OHRQoL을 개선하는지에 대한 RCT 근거는 없음.
 
 ## 1. Document Information
 

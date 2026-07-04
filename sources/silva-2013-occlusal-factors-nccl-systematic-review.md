@@ -13,11 +13,21 @@ ingest_note: "ScienceDirect webpage capture: abstract only. Full body text not o
 ## Why Ingested
 교합인자(ORF)-NCCL 연관 SR. [[nccl/senna-2012-nccl-occlusion-systematic-review]]와 함께 "임상적으로 교합-NCCL 연관 대체로 무의미"라는 다수설 근거 쌍을 구성, [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]]의 반대 결론과 대비.
 
-## One-line Summary
-Systematic review (9 studies) finding the majority reported no significant association between NCCLs and occlusal risk factors; only 3 studies found associations with specific variables (p<0.05), amid high heterogeneity.
+## Three-line Summary
 
-## 한줄요약
+Systematic review (9 studies) finding the majority reported no significant association between NCCLs and occlusal risk factors;
+
+only 3 studies found associations with specific variables (p<0.05), amid high heterogeneity.
+
+(incomplete)
+
+## 세줄요약
+
 교합위험인자-NCCL SR 9편 — 다수가 유의 연관 없음, 3편만 특정 변수(교합접촉면적·우측견치유도·조기접촉)에서 연관(p<0.05), 이질성 높음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dentistry 2013;41(1):9-16. DOI 10.1016/j.jdent.2012.10.018. Searched PubMed, Web of Science, Cochrane, Lilacs, Clinical Trials, NRR, NIH.

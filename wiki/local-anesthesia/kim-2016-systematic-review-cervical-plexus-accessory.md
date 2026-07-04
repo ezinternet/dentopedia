@@ -19,13 +19,21 @@ relations:
     target: mandibular-anesthesia-efficacy-ladder
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (44/185 papers, 1922–2015): cervical plexus accessory innervation (via transverse cervical nerve, great auricular nerve) may explain persistent sensation after "successful" mandibular anesthesia, but evidence quality is mostly low (LOE 4–5 dominate; only 4 LOE-1 studies).
+Systematic review screening 185 papers (1922–March 2015), retaining 44 on cervical plexus (C1–C4 branches: great auricular, transverse cervical, lesser occipital, supraclavicular nerves) as a source of accessory innervation to the mandible/lower face.
 
-## 한줄요약
+Cervical plexus accessory innervation is a plausible and clinically cited explanation for persistent sensation after technically successful IANB, but evidence quality is poor: 20 LOE-4 and 14 LOE-5 studies dominate, with only 4 LOE-1 (RCT-level) studies.
 
-체계적 문헌고찰(185편 중 44편, 1922–2015): 경부신경총(cervical plexus)의 부가신경 지배(횡경부신경·대이개신경 경유)가 "성공적인" 하악마취 후에도 남는 감각을 설명할 수 있으나, 근거 수준은 낮음(LOE 4~5 다수; LOE-1은 4편뿐).
+This mechanism is under-studied and should be considered as plausible rather than proven; renewed anatomical investigation of the cervical plexus in the dental context is warranted.
+
+## 세줄요약
+
+체계적 문헌고찰(185편 스크리닝 → 44편 포함, 1922–2015): 경부신경총(C1–C4 분지: 대이개신경, 횡경부신경, 소후두신경, 쇄골상신경)의 하악·하안면 부가신경 지배를 다룬 문헌 종합.
+
+경부신경총 부가신경 지배는 "성공적인" IANB 이후에도 남는 감각을 설명하는 그럴 듯한 기전이나 근거 수준이 낮음(LOE 4 20편·LOE 5 14편 지배, LOE-1은 4편뿐).
+
+이 기전은 확립되지 않고 추론 수준에 머물러 있으며, 치과 맥락에서 경부신경총 해부에 대한 재연구가 필요하다는 저자 결론.
 
 ## Summary
 

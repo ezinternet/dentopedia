@@ -37,13 +37,21 @@ tags: []
 > - **협측 간극(buccal gap) 관리가 경조직의 핵심**: 간극 >2 mm는 Type 1A 생존을 +3.1 PP 올린다(근관감염 부재 +2.6 PP; Hamilton 2023). 간극은 이식재로 채우고, 열개(dehiscence) 소켓은 morphotype에 따라 재생전략을 단계화하되 Type III(열개+안면퇴축)와 인접치까지 확장된 결손은 **절대금기** (Cosyn 2026).
 > - **임상 takeaway**: IIP 심미성공 = 케이스선별(협측벽 intact·중간/두꺼운 생체형·간극 ≥2 mm·감염 없음) × 구개측 식립 × 간극 이식 × (얇으면) CTG × (안정성 충분하면) 즉시 임시수복. 비폐쇄 개방치유(open healing)도 선별된 전치부에서 일차봉합과 동등(정중협측 점막 SMD −0.26, 비유의; 근심유두는 오히려 유리; Zadikian 2026).
 
-## One-line Summary
+## Three-line Summary
 
-In esthetic-zone immediate implant placement, survival is near-universal (>95%) but esthetic success hinges on preventing midfacial recession; the dominant drivers are thin buccal wall (≤1 mm), thin biotype, and buccal implant shoulder position, and the controllable levers are palatal 3-D positioning, buccal-gap grafting, connective tissue grafting (CTG) for thin phenotypes, and immediate provisionalization (when primary stability allows) to preserve soft-tissue contour and papillae.
+Synthesis of 18 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
 
-## 한줄요약
+The four controllable levers are palatal/deep 3-D positioning (safe zone ≥4 mm below facial margin, gap >2 mm; Cosyn 2026), buccal-gap grafting (>2 mm gap +3.1 PP survival; Hamilton 2023 SR+MA), CTG/SCTG for thin phenotypes (midfacial level −0.74 mm; volumetric loss 5× less vs customized healing abutment alone; Fettouh 2024 RCT), and immediate provisionalization when primary stability is adequate (~97% survival either way; Pitman 2022 SR+MA).
 
-전치부 즉시식립의 생존율은 거의 보편적(>95%)이지만 심미 성패는 정중협측 퇴축 방지에 달려 있고, 핵심 동인은 얇은 협측골(≤1 mm)·얇은 생체형·협측 임플란트 위치이며, 조절 가능한 지렛대는 구개측 3차원 식립·협측간극 이식·(얇으면) 결합조직이식·(안정성 충분하면) 즉시 임시수복이다.
+Open healing matches primary closure for midfacial mucosal level (SMD −0.26, NS) and favors the mesial papilla (Zadikian 2026 SR+MA, n=431); case selection sets the ceiling — a thin-walled or dehisced socket without regenerative correction is better deferred to ARP + early/late placement.
+
+## 세줄요약
+
+전치부 즉시식립 18편 종합: 생존율은 모든 시점에서 >95%로 보편적이나 Type 1은 무선별 시 정중협측 퇴축 >1 mm 위험 20–30%(Buser 2017); 3대 위험인자는 협측골 ≤1 mm(8주 수직골 소실 7.5 mm; Chappuis 2013)·얇은 생체형·협측 숄더 위치(퇴축 ~3배; Evans 2008).
+
+4가지 조절 레버: 구개측·심부 식립(안전구역 ≥4 mm; Cosyn 2026), 협측간극 이식(>2 mm gap +3.1 PP 생존; Hamilton 2023 SR+MA), 얇은 표현형에 CTG(정중협측 변화 −0.74 mm·부피 손실 5배 감소 vs 맞춤 치유지대주 단독; Fettouh 2024 RCT), 안정성 충분 시 즉시 임시수복(생존율 동등, 연조직 윤곽·유두 보존; Pitman 2022 SR+MA).
+
+개방 치유는 1차 봉합 대비 정중협측 점막레벨 동등(SMD −0.26, NS)하고 근심 유두에 유리(Zadikian 2026 SR+MA, n=431); 케이스 선별이 천장을 결정하고 — 협측골 결손·열개 소켓은 ARP + 조기/지연식립이 더 예측 가능한 기본값이다.
 
 ## Thesis
 

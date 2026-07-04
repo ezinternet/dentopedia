@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and meta-analysis pooling CBCT-based alveolar bone thickness measurements from healthy maxillary and mandibular dentitions: anterior teeth carry the thinnest buccal plates (often ≤1 mm), with thickness increasing posteriorly, and no consistent gender or smoking association — supporting buccal-plate reinforcement before anterior immediate implant placement.
+## Three-line Summary
 
-## 한줄요약
-SR+MA: 건강한 치아의 협측 치조골은 전치부에서 가장 얇고(평균 ≤1 mm 다수), 후방으로 갈수록 두꺼워짐 — 성별·흡연은 일관된 연관성 없음. 전치 즉시식립 시 buccal plate 보강 전제 권고.
+Systematic review and meta-analysis pooling CBCT-based alveolar bone thickness measurements from healthy maxillary and mandibular dentitions across multiple tooth positions.
+
+Anterior teeth consistently carry the thinnest buccal plates (often ≤1 mm mean), with thickness increasing posteriorly; no consistent gender difference or smoking–thickness association was found across included studies.
+
+These normative reference ranges support pre-surgical risk stratification for immediate implant placement in the esthetic zone, where a thin or absent buccal plate mandates grafting; heterogeneity in CBCT voxel size and measurement level across studies limits precision.
+
+## 세줄요약
+
+건강한 상·하악 치아의 CBCT 기반 치조골 두께를 치아 위치별로 집계한 체계적 문헌고찰 및 메타분석.
+
+전치부 협측 치조골은 가장 얇고(평균 ≤1 mm 빈번), 후방으로 갈수록 두꺼워지며, 성별 및 흡연과의 일관된 연관성은 관찰되지 않았다.
+
+이 규범적 수치는 심미 영역 즉시식립의 협측골 위험도 평가에 활용되나, 연구 간 CBCT 복셀 크기 및 측정 기준점 이질성으로 정밀도에 한계가 있다.
 
 ## Summary
 Systematic review and meta-analysis pooling CBCT alveolar bone thickness measurements from healthy dentitions. Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly. No consistent gender or smoking effect.

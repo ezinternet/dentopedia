@@ -19,13 +19,21 @@ relations:
 
 즉시식립(Immediate Implant Placement) 시 임플란트 넥 디자인(삼각형 vs 원형) × 변연골소실(Marginal Bone Loss, MBL)/연조직 결과 12개월 RCT. [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] + [[implants/]] 교차 근거.
 
-## One-line Summary
+## Three-line Summary
 
-12-month RCT (n=36) comparing triangular vs round neck design in immediately placed anterior maxillary implants found no significant differences in MBL, probing depth, buccal bone width, or soft tissue thickness at 12 months; 88.9% survival in both groups.
+12-month parallel-group RCT (n=36; 18 triangular neck [TN] vs 18 round neck [RN]; NCT05944419; University of Catalonia, Barcelona) comparing implant neck geometry in immediate placement with provisionalization in the anterior maxilla; abstract-only ingest.
 
-## 한줄요약
+Both groups showed 88.9% survival (2 failures each); no statistically significant differences between TN and RN at 12 months for MBL, probing depth, buccal bone width, bleeding on probing, or soft tissue thickness (all p>0.05); the study is explicitly underpowered for equivalence testing at this sample size.
 
-상악 전치부 즉시식립 임플란트에서 삼각형 넥 vs 원형 넥을 비교한 12개월 RCT(n=36): MBL, 탐침깊이, 협측골폭, 연조직 두께 모두 그룹 간 유의한 차이 없음(생존율 양 군 88.9%).
+The null finding does not establish equivalence; longer follow-up with larger samples is needed to detect diverging bone-remodeling trajectories; triangular neck geometry showed no short-term superiority over conventional round neck in this immediate-placement protocol.
+
+## 세줄요약
+
+12개월 병렬군 무작위임상시험(RCT; n=36; 삼각형 넥[Triangular Neck, TN] 18명 vs 원형 넥[Round Neck, RN] 18명; NCT05944419; 카탈루냐 대학 바르셀로나): 상악 전치부 즉시식립+즉시 임시수복에서 임플란트 넥 형태 비교; abstract-only 인제스트.
+
+양 군 12개월 생존율 88.9%(각 2실패); 변연골소실(Marginal Bone Loss, MBL)·탐침깊이·협측골폭·출혈·연조직 두께 모두 그룹 간 유의차 없음(전 항목 p>0.05); 해당 표본 크기에서 동등성 검정 통계력 부족 명시.
+
+귀무 결과가 동등성을 증명하지 않음; 장기 대표본 연구 필요; 즉시식립 프로토콜에서 삼각형 넥이 원형 넥 대비 단기 우월성 미입증.
 
 ## 1. Document Information
 

@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 소아 CBCT 선량 최적화의 핵심 실험근거(ALADAIP). [[radiology/hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children]]의 소아 저선량 프로토콜과 짝을 이루고, [[radiology/lee-2021-dental-imaging-doses-web-dose-calculator]]가 보고한 소아 가산 문제의 해법 제시.
 
-## One-line Summary
+## Three-line Summary
+
 
 Phantom + Monte Carlo (DIMITRA): 70 kVp/16 mAs/180 µm voxel cut paediatric CBCT effective dose ~45% with maintained image quality.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 팬텀+몬테카를로(DIMITRA): 70 kVp·16 mAs·180 µm 복셀 조합으로 소아 CBCT 유효선량 ~45% 감소하면서 화질 유지.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

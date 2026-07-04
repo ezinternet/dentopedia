@@ -13,11 +13,21 @@ source_collection: external
 tags: [ovd, vertical-dimension, tmj, condylar-cartilage, animal, rat, occlusal-loss, subchondral-bone]
 ---
 
-## One-line Summary
-Rat study (8 wk): OVD elevation causes faster and more severe condylar cartilage damage than occlusal loss; both show partial repair; subchondral repair delayed in OVD-elevated group.
+## Three-line Summary
 
-## 한줄요약
-쥐 실험 (8주): OVD 증가는 교합 상실보다 과두 연골을 더 빠르고 심하게 손상; 두 군 모두 부분 회복; OVD 증가군에서 연골하골 회복 지연.
+Animal study (adult female rats, n=15, 3 groups: control / OVD-elevated / occlusal-loss) assessed TMJ condylar cartilage via micro-CT, H&E, toluidine blue, and IHC at serial time points over 8 weeks.
+
+OVD elevation caused faster and more severe condylar cartilage damage (with delayed subchondral bone repair) than occlusal loss; both groups showed partial repair; controls were unaffected.
+
+Iatrogenic high occlusion (e.g., a high restoration) is biomechanically more acutely damaging to the TMJ than bite collapse — supports monitoring for TMJ symptoms after VD increases.
+
+## 세줄요약
+
+동물 실험 (성체 암쥐 n=15, 3군: 대조/OVD 증가/교합 상실) — micro-CT·H&E·톨루이딘블루·IHC로 8주 동안 과두 연골 연속 평가.
+
+OVD 증가군이 교합 상실군보다 과두 연골 손상이 더 빠르고 심각하며 연골하골 회복도 지연됨; 두 군 모두 부분 회복 관찰.
+
+의인성 고교합(높은 수복물 등)이 교합 붕괴보다 TMJ에 더 급성으로 해롭다 — VD 증가 후 TMJ 증상 모니터링 필요.
 
 ## Summary
 This animal study (adult female rats, 8 weeks) compared TMJ effects of two types of mandibular malpositioning: increased OVD (occlusal plate) versus occlusal loss (tooth extraction). Both experimental groups showed cartilage destruction followed by partial repair on micro-CT and H&E staining. The critical finding: OVD elevation caused faster and more severe condylar cartilage damage, with later subchondral bone repair, compared to occlusal loss. The LO group showed less dramatic and more variable changes. Proposed mechanism: mandibular malpositioning creates abnormal stress concentration in the TMJ, leading to articular cartilage wear, subchondral bone sclerosis, and potential osteophyte formation.

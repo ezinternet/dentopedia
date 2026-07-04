@@ -14,13 +14,23 @@ pdf_filename: solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt
 
 치주·임플란트 수술 후 CHX 가글 권장 농도와 기간에 대한 임상 질문. [[james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] 코크란 리뷰가 비수술 상황을 다루는 반면, 이 SR은 수술 직후(oral hygiene compromise 기간) CHX 사용에 특화—0.12%가 side effect 최소화 측면에서 가장 유망하다는 결론 제시.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies) — CHX mouthrinse after periodontal/implant surgery reduces plaque 29–86% and bleeding up to 73% at 1 week; 0.12% concentration shows most favorable benefit-to-side-effect ratio.
 
-## 한줄요약
+Systematic review (11 studies) — CHX mouthrinse after periodontal/implant surgery reduces plaque 29–86% and bleeding up to 73% at 1 week;
 
-SR (11편) — 치주·임플란트 수술 후 CHX 가글은 1주 치태 29–86% 감소, 출혈 73% 감소; 0.12% 농도가 부작용 대비 효능 면에서 가장 유망.
+0.12% concentration shows most favorable benefit-to-side-effect ratio.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR (11편) — 치주·임플란트 수술 후 CHX 가글은 1주 치태 29–86% 감소, 출혈 73% 감소;
+
+0.12% 농도가 부작용 대비 효능 면에서 가장 유망.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [occlusal-trauma, periodontitis, 2017-world-workshop, case-definition, abfraction]
 ---
 
-## One-line Summary
-2017 World Workshop narrative review establishing case definitions for occlusal trauma and excessive occlusal forces, concluding their role in initiating/progressing periodontitis remains controversial and that primary occlusal trauma does not cause attachment loss in healthy periodontium.
+## Three-line Summary
 
-## 한줄요약
-2017 World Workshop narrative review — 교합외상·과도교합력의 case definition을 정립; 치주염 발생·진행에서의 역할은 여전히 논쟁적이며, 건강한 치주에서 primary occlusal trauma는 부착소실을 유발하지 않음.
+Narrative review commissioned for the 2017 World Workshop, synthesizing human and animal evidence to establish consensus case definitions and diagnostic criteria for occlusal trauma and excessive occlusal forces in the context of periodontal disease.
+
+Primary occlusal trauma on a healthy periodontium does not cause irreversible attachment loss; the role of occlusal trauma in initiating or accelerating periodontitis remains controversial; and no conclusive evidence links excessive occlusal forces to gingival recession or abfraction.
+
+Clinicians should not use "occlusal trauma causes periodontitis" to justify aggressive occlusal adjustment in a healthy periodontium — in secondary occlusal trauma (reduced periodontium), occlusal force should be managed as an adjunct to periodontal therapy, not a cause.
+
+## 세줄요약
+
+2017 World Workshop 위촉 서술적 종설로, 인체·동물 근거를 종합해 교합 외상(Occlusal Trauma) 및 과도 교합력(Excessive Occlusal Force)의 합의 사례 정의(Case Definition)와 진단 기준을 정립했다.
+
+건강한 치주에서 1차 교합 외상(Primary Occlusal Trauma)은 비가역적 부착 소실을 유발하지 않으며, 치주염 발생·진행에서의 역할은 여전히 논쟁적이고, 치은 퇴축이나 마모 파절(Abfraction)과의 연관성도 결론적 근거가 없다.
+
+"교합 외상이 치주염을 유발한다"는 주장으로 건강한 치주에서 적극적 교합 조정을 정당화해서는 안 되며, 2차 교합 외상(감소된 치주)에서는 치주치료의 보조 수단으로만 교합 관리를 시행해야 한다.
 
 ## Summary
 This 2017 World Workshop review is the consensus reference defining occlusal trauma and excessive occlusal forces and assessing their periodontal effects. Its central conclusion is deliberately cautious: whether occlusal trauma initiates or accelerates periodontitis remains controversial, primary occlusal trauma on a healthy periodontium does not cause irreversible attachment loss, and the evidence linking occlusal forces to gingival recession or abfraction is not conclusive. The paper supplies the case definitions (primary vs secondary occlusal trauma, traumatic occlusal force) and diagnostic considerations (mobility change, PDL widening, fremitus) that frame all subsequent occlusion-periodontitis work, while explicitly declining to assert causation.

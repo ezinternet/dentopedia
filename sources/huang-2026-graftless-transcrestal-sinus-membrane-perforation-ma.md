@@ -17,13 +17,23 @@ text_filename: huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma.t
 
 Quantifies the Schneiderian membrane perforation rate specific to **graftless** transcrestal sinus elevation — a complication endpoint that osseodensification-focused syntheses like [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] report less cleanly. It reinforces the favourable safety profile of graftless transcrestal techniques while flagging a critical technique-dependent exception (motor-driven OD), and it directly contextualizes the single-cohort 7.2% perforation finding of [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] within a 14-study pooled estimate.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (14 studies, 2119 graftless transcrestal sinus-lift sites): pooled Schneiderian membrane perforation incidence 1% (95% CI 0–6%), early implant failure ≤12mo 1%, no postoperative sinusitis/epistaxis; subgroup shows motor-driven OD 34% perforation vs conventional osteotome 0% (GRADE very low).
 
-## 한줄요약
+SR+MA (14 studies, 2119 graftless transcrestal sinus-lift sites): pooled Schneiderian membrane perforation incidence 1% (95% CI 0–6%), early implant failure ≤12mo 1%, no postoperative sinusitis/epistaxis;
 
-SR+MA (14편, 무이식 경치조골 상악동거상 부위 2119곳): 슈나이더막 천공 발생률 통합 1% (95% CI 0–6%), 12개월 내 조기 임플란트 실패 1%, 술후 부비동염·비출혈 보고 없음. 단 모터구동 골밀도화(OD) 34% 천공 vs 전통 osteotome 0%로 술식 의존성 큼 (GRADE 매우 낮음).
+subgroup shows motor-driven OD 34% perforation vs conventional osteotome 0% (GRADE very low).
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (14편, 무이식 경치조골 상악동거상 부위 2119곳): 슈나이더막 천공 발생률 통합 1% (95% CI 0–6%), 12개월 내 조기 임플란트 실패 1%, 술후 부비동염·비출혈 보고 없음.
+
+단 모터구동 골밀도화(OD) 34% 천공 vs 전통 osteotome 0%로 술식 의존성 큼 (GRADE 매우 낮음).
+
+(incomplete)
 
 ## 1. Document Information
 

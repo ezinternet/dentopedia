@@ -22,13 +22,21 @@ relations:
     target: pavlovic-2022-interradicular-septum-morphology-molar-iip
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 12 CBCT studies (1,834 patients): pooled root-apex-to-inferior-alveolar-canal distance in the posterior mandible is 5.14 mm (2nd premolar), 6.32 mm (1st molar) and 4.65 mm (2nd molar), with undercut (U-type) ridge morphology dominating the 2nd molar site (73%) and driving lingual plate perforation risk during immediate implant placement.
+SR+MA (12 CBCT studies, n=1,834 patients, BMC Oral Health 2025) quantifying root-apex-to-inferior-alveolar-canal distance and ridge cross-sectional morphology in the posterior mandible as anatomical safety inputs for immediate implant placement.
 
-## 한줄요약
+Pooled root-apex-to-IAC distance was 5.14 mm (2nd premolar), 6.32 mm (1st molar), and 4.65 mm (2nd molar); undercut (U-type) ridge morphology dominated at the 2nd molar site (73%), making it both the highest-risk site for IAN injury and for lingual plate perforation.
 
-체계적 문헌고찰+메타분석 (12편 CBCT 연구, 1,834명): 하악 구치부 즉시식립에서 치근첨–하치조관 (Inferior Alveolar Canal, IAC) 평균 거리는 제2소구치 5.14 mm, 제1대구치 6.32 mm, 제2대구치 4.65 mm이며, 제2대구치는 73%가 언더컷(U형) 치조제라 설측판 천공 (Lingual Plate Perforation, LPP) 위험이 가장 높다.
+Mandatory preoperative CBCT with ≥2 mm IAC safety margin is the clinical threshold; the mandibular 2nd molar is a double-risk site demanding special caution, and females and patients <40 years have shorter root-to-canal distances.
+
+## 세줄요약
+
+SR+MA (12편 CBCT 연구, n=1,834명, BMC Oral Health 2025): 하악 구치부 즉시식립의 해부학적 안전 입력값으로 치근첨–하치조관(Inferior Alveolar Canal, IAC) 거리와 치조제 단면 형태를 정량화.
+
+치근첨–IAC 합산 평균: 제2소구치 5.14 mm, 제1대구치 6.32 mm, 제2대구치 4.65 mm(최소); 제2대구치는 U형(언더컷) 치조제가 73%를 차지해 IAN 손상과 설측판 천공(LPP) 위험이 모두 가장 높음.
+
+임상 기준: 수술 전 CBCT 필수, IAC 안전 마진 ≥2 mm; 제2대구치는 이중 고위험 부위로 특별한 주의가 필요하며, 여성과 40세 미만 환자는 거리가 더 짧아 위험 증가.
 
 ## Summary
 

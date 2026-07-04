@@ -9,7 +9,7 @@ pdf_filename: hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (29 studies, Iranian population): MB2 prevalence 60% in maxillary first molars, 33% in second molars — detection rates highest with microscope (78%/61%), lowest with periapical radiograph (15%/4%); I²=97% in all subgroups.
 
 ## 1. Document Information

@@ -13,13 +13,21 @@ source_collection: external
 tags: [ceramic-repair, intraoral-repair, zirconia, HF-etching, silane, composite-resin, chipping]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (21 studies, 2017–2022): intraoral ceramic repair is a viable minimally invasive alternative to crown replacement; for veneered zirconia, HF etching of veneering ceramic + silane + composite resin is optimal; bond strength is the critical success determinant.
+Narrative review (PubMed, January 2017–August 2022; 21 studies: 17 in vitro, 3 case reports, 1 prospective clinical study) of intraoral repair techniques for fractured ceramic fixed dental prostheses, covering feldspathic, leucite, lithium disilicate, and zirconia substrates.
 
-## 한줄요약
+For glass-containing ceramics (feldspathic, leucite, LDS), HF etching + silane + composite resin is the gold standard; for veneered zirconia with exposed core, a dual-substrate protocol is required — HF on veneering ceramic + silane + MDP adhesive on the zirconia core.
 
-구강 내 세라믹 수리 문헌고찰 (21편): 지르코니아 베니어 크라운 파절 시 HF 산부식 + 실란 + 복합레진이 최선 프로토콜; 최소침습적이고 경제적인 대안으로 임상 기술과 프로토콜 준수가 핵심.
+Monolithic zirconia requires sandblasting + MDP adhesive (no HF — no glass phase); intraoral repair avoids crown-removal risks and is a cost-effective option when bond strength is adequately achieved.
+
+## 세줄요약
+
+서술 고찰(PubMed, 2017–2022년; 21편: in vitro 17 + 증례 3 + 전향적 임상 1): 고정성 세라믹 보철물 파절 시 구강 내 수리 기법 — 장석계·류사이트·리튬 디실리케이트·지르코니아 기질별 프로토콜 종합.
+
+유리 함유 세라믹(장석계·류사이트·LDS): HF 산부식 + 실란(Silane) + 복합레진이 표준; 베니어 지르코니아 코어 노출 시 이중 기질 프로토콜 — 베니어부 HF + 실란 + 지르코니아 코어에 MDP 접착제.
+
+단일구조 지르코니아(Monolithic Zirconia): 유리상 없어 HF 무효 — 샌드블라스팅 + MDP 접착제; 구강 내 수리는 크라운 제거 위험 없이 최소침습적·경제적 — 결합강도(Bond Strength) 확보가 성공의 핵심.
 
 ## Summary
 

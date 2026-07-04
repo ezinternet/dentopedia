@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/drug/karm-2017-lidocaine-epinephrine-200000-third-molar]]가 epinephrine 농도 변수(1:80,000 vs 1:200,000)를 다뤘다면, 본 RCT는 또 다른 LA 조정 변수인 **buffering(8.4% NaHCO3 chair-side alkalinization)**과 **drug choice(lidocaine vs articaine)**가 IANB onset/효과에 미치는 영향을 4-arm 비교로 정량화한다. Buffered-LA cluster의 onset-of-action anchor로서 sibling pages [[wiki/drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]], [[wiki/drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]], [[wiki/drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]]를 보강하며, [[wiki/drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]]의 한국 LA 가이드라인 맥락에 buffering 근거를 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 4-arm RCT (n=28, 7/group), mandibular extraction with IANB: chair-side buffering (0.2 mL 8.4% NaHCO3 into 2 mL cartridge) significantly accelerated onset of all anesthetic milestones (first symptom, lip numbness, subjective, objective) for both 2% lidocaine and 4% articaine; buffered articaine was fastest overall (objective onset 84 s vs 181 s for non-buffered lidocaine), while VAS pain during extraction did not differ across groups (χ²=4.107, p=0.250).
 
-## 한줄요약
+Prospective 4-arm RCT (n=28, 7/group), mandibular extraction with IANB: chair-side buffering (0.2 mL 8.4% NaHCO3 into 2 mL cartridge) significantly accelerated onset of all anesthetic milestones (first symptom, lip numbness, subjective, objective) for both 2% lidocaine and 4% articaine;
 
-전향적 4-군 RCT (n=28, 군당 7명), 하악 발치 IANB: chair-side buffering(2 mL 카트리지에 8.4% 중탄산나트륨 0.2 mL 치환)이 2% 리도카인·4% 아티카인 모두에서 마취 발현(첫 증상·입술 마비·주관·객관)을 유의하게 단축; buffered articaine이 가장 빠름(객관적 발현 84초 vs non-buffered lidocaine 181초). 단, 발치 중 VAS 통증은 4군 간 차이 없음(χ²=4.107, p=0.250).
+buffered articaine was fastest overall (objective onset 84 s vs 181 s for non-buffered lidocaine), while VAS pain during extraction did not differ across groups (χ²=4.107, p=0.250).
+
+(incomplete)
+
+## 세줄요약
+
+
+전향적 4-군 RCT (n=28, 군당 7명), 하악 발치 IANB: chair-side buffering(2 mL 카트리지에 8.4% 중탄산나트륨 0.2 mL 치환)이 2% 리도카인·4% 아티카인 모두에서 마취 발현(첫 증상·입술 마비·주관·객관)을 유의하게 단축;
+
+buffered articaine이 가장 빠름(객관적 발현 84초 vs non-buffered lidocaine 181초).
+
+단, 발치 중 VAS 통증은 4군 간 차이 없음(χ²=4.107, p=0.250).
 
 ## 1. Document Information
 

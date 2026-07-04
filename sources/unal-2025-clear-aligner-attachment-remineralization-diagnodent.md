@@ -17,11 +17,21 @@ text_filename: unal-2025-clear-aligner-attachment-remineralization-diagnodent.tx
 
 [[caries/malcangi-2023-enamel-remineralization-techniques-sr]]와 [[caries/butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization]]가 시사한 "hydroxyapatite가 불소 대안으로 부상"을, 실제 환자에서 nHAp vs CPP-ACP vs 불소바니시를 6개월 head-to-head로 비교한 clinical trial 근거로 뒷받침한다. 투명교정 어태치먼트 주위 WSL이라는 미개척 임상 시나리오를 [[caries/xie-2023-white-spot-lesion-therapies-sr-nma]]의 topical-agent 축에 접목.
 
-## One-line Summary
-Prospective controlled clinical trial (n=40, 4 groups) around clear-aligner attachments: over 6 months all remineralization protocols beat control (which worsened +4.35 DIAGNOdent), with nano-hydroxyapatite superior (−5.36) to CPP-ACP (−4.02) and quarterly fluoride varnish (−4.45); pilot, non-randomized, huge effect size (η²=0.974).
+## Three-line Summary
 
-## 한줄요약
-투명교정 어태치먼트 주위 6개월 임상시험(n=40, 4군): 모든 재광화 프로토콜이 대조군(DIAGNOdent +4.35 악화)을 능가, nHAp(−5.36)가 CPP-ACP(−4.02)·분기 불소바니시(−4.45)보다 우수. 단, 비무작위 파일럿·거대 효과크기(η²=0.974).
+Prospective controlled clinical trial (n=40, 4 groups) around clear-aligner attachments: over 6 months all remineralization protocols beat control (which worsened +4.35 DIAGNOdent), with nano-hydroxyapatite superior (−5.36) to CPP-ACP (−4.02) and quarterly fluoride varnish (−4.45);
+
+pilot, non-randomized, huge effect size (η²=0.974).
+
+(incomplete)
+
+## 세줄요약
+
+투명교정 어태치먼트 주위 6개월 임상시험(n=40, 4군): 모든 재광화 프로토콜이 대조군(DIAGNOdent +4.35 악화)을 능가, nHAp(−5.36)가 CPP-ACP(−4.02)·분기 불소바니시(−4.45)보다 우수.
+
+단, 비무작위 파일럿·거대 효과크기(η²=0.974).
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Oral Health 2025;26(1):96. PMC12801708. DOI 10.1186/s12903-025-07497-8. NCT07229105 (retrospectively registered).

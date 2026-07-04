@@ -10,8 +10,21 @@ pdf_filename: azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR + Bayesian NMA (21 RCT, PROSPERO CRD42024568586): 즉시식립 시 연조직 이식재 (CTG·L-PRF·동종·이종) 비교 — CTG만 STT 유의 증가; SUCRA 순위에서 CTG가 MIBL/KTW/STT/PH/MGML 우위, 단층 이종 콜라겐 매트릭스가 PES 우위; 통계적 유의차 대부분 없음.
+## Three-line Summary
+
+SR + Bayesian network meta-analysis (BMC Oral Health 2025, 21 RCTs, PROSPERO CRD42024568586) comparing connective tissue graft (CTG), L-PRF, allogenic, and xenogenic soft-tissue grafting materials as adjuncts to immediate dental implant placement on hard and soft tissue outcomes.
+
+Only CTG showed significantly greater soft tissue thickness (STT) gain vs no graft; SUCRA rankings favored CTG for marginal implant bone loss (MIBL), keratinized tissue width (KTW), STT, papilla height (PH), and midfacial gingival margin level (MGML); uni-layer xenogenic collagen matrix ranked highest for pink esthetic score (PES); most between-material differences were not statistically significant.
+
+CTG remains the reference standard for soft tissue thickness augmentation at immediate implants, but xenogenic collagen matrix may optimize esthetic outcomes (PES), enabling a patient-burden-reducing alternative to autogenous harvest when esthetics is the primary goal.
+
+## 세줄요약
+
+SR + 베이지안 네트워크 메타분석 (BMC Oral Health 2025, RCT 21편, PROSPERO CRD42024568586) — 즉시식립 시 결합조직이식편(CTG)·L-PRF·동종·이종 연조직 이식재의 경·연조직 결과 비교.
+
+CTG만 연조직 두께(STT) 유의 증가; SUCRA 순위에서 CTG가 변연골 소실(MIBL)·각화조직 폭(KTW)·STT·유두 높이(PH)·협측 치은 변연 위치(MGML) 최우수; 단층 이종 콜라겐 매트릭스가 분홍 심미 지수(PES) 최우수; 대부분 이식재 간 통계적 유의차 없음.
+
+STT 증대 목적 즉시식립 시 CTG 우선; PES 목적이라면 이종 콜라겐 매트릭스가 2차 술부 부담 없이 심미 확보 가능 — 단, 전체적 통계 유의차 불명확으로 임상 적용 시 개별 케이스 판단 필요.
 
 ## 1. Document Information
 - **Title**: Hard and soft tissue alterations after the application of different soft tissue grafting materials during immediate dental implant placement: a systematic review and Bayesian network meta-analysis

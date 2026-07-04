@@ -13,13 +13,23 @@ source_collection: external
 
 총의치 수직고경(Occlusal Vertical Dimension, OVD) 설정 오류가 단순 기계적 문제를 넘어 중추신경계·심리 상태에 영향을 준다는 객관적(EEG) 근거로, [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]]·[[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]]가 임상 기법으로 강조하는 "정확한 VDO 결정"의 생리학적 당위성을 보강한다. 동물에서 OVD 변화가 뇌 스트레스 반응을 일으킨다는 [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]]의 사람 대응 근거이기도 하다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Clinical EEG study (n=21 complete denture wearers, duplicate dentures at −3 mm and +5 mm VDO): an immediate +5 mm increase in vertical dimension raised the EEG negative-mood indicator after gum chewing, and a −3 mm decrease reduced occlusal force — showing immediate VDO error perturbs both psychological state and bite force.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 총의치 착용자 21명에서 수직고경(Vertical Dimension of Occlusion, VDO)을 −3 mm/+5 mm로 바꾼 복제 의치로 뇌파(Electroencephalogram, EEG)를 측정: +5 mm 증가 시 껌 저작 후 부정적 심리지표가 유의하게 상승하고, −3 mm 감소 시 교합력이 유의하게 감소 — 즉각적 VDO 오류가 심리 상태와 교합력을 모두 교란함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

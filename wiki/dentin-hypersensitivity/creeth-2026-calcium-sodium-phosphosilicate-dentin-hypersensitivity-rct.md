@@ -21,13 +21,21 @@ relations:
     target: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-8-week examiner-blind parallel RCT (217 screened / 215 completed): anhydrous 5% CSPS+NaF toothpaste reduced examiner-assessed DH (Schiff + Yeaple tactile threshold) significantly at every timepoint from Day 3 to Day 56 and significantly more than conventional NaF-silica toothpaste (all between-arm p<0.001), with relief growing over 8 weeks; DHEQ-48 OHRQoL improved progressively but the between-arm difference was not significant. Well-tolerated. (abstract-only)
+8-week examiner-blind parallel RCT (n=215 completed, NCT06378008): twice-daily anhydrous 5% calcium-sodium phosphosilicate (CSPS/NovaMin) + NaF toothpaste vs conventional NaF-silica toothpaste in adults with dentine hypersensitivity, measuring Schiff score, Yeaple tactile threshold, and DHEQ-48 OHRQoL at Days 3, 7, 14, 28, and 56.
 
-## 한줄요약
+The CSPS toothpaste produced significant within-arm DH reduction at every post-baseline timepoint from Day 3 onward (both measures, p<0.0001) and was significantly superior to the control at all timepoints (between-arm p<0.001), with the clinical benefit growing across 8 weeks.
 
-8주 examiner-blind 평행 RCT (스크리닝 217명 / 완료 215명): 무수 5% CSPS+NaF 치약이 Schiff·Yeaple 촉각역치 두 지표 모두에서 Day 3부터 Day 56까지 모든 시점에 상아질 과민증을 유의하게 감소시키고 표준 NaF-실리카 치약보다 유의하게 우월 (군간 모두 p<0.001), 완화 효과는 8주까지 증가; DHEQ-48 삶의질은 점진적으로 개선됐으나 군간 차이는 유의하지 않음. 내약성 양호. (초록만)
+Examiner-assessed superiority did not translate into a significant between-arm DHEQ-48 OHRQoL difference, indicating that patient-reported quality-of-life instruments may not capture the clinical time-course advantage; the product was well-tolerated. (abstract-only)
+
+## 세줄요약
+
+8주 검사자맹검 평행 RCT (n=215, NCT06378008): 무수(anhydrous) 5% 칼슘-나트륨 포스포실리케이트(Calcium-Sodium Phosphosilicate, CSPS/NovaMin)+NaF 치약과 표준 NaF-실리카 치약을 하루 2회 사용 후 Schiff·Yeaple 촉각역치·DHEQ-48을 Day 3·7·14·28·56에 비교.
+
+CSPS 치약은 Day 3부터 Day 56까지 모든 시점에서 Schiff·Yeaple 두 지표 모두 군내 유의 감소(p<0.0001)하였으며, 표준 대조군 대비 모든 시점에서 유의하게 우월(p<0.001)하고 효과는 8주까지 증가.
+
+검사자 평가 임상 우월성이 DHEQ-48 삶의 질 군간 차이로는 전환되지 않아 임상 지표와 환자보고 결과의 해리를 보여주며, 내약성은 양호함. (초록 수준 인제스트)
 
 ## Summary
 

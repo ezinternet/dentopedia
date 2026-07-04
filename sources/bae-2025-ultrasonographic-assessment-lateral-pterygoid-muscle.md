@@ -10,8 +10,21 @@ pdf_filename: bae-2025-ultrasonographic-assessment-lateral-pterygoid-muscle.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cross-sectional ultrasonographic anatomy study (120 hemifaces from 60 healthy Korean female volunteers) establishing depth and surface-landmark coordinates of the lateral pterygoid muscle (LPM) for safe extraoral BoNT-A injection through the mandibular-notch "window".
+## Three-line Summary
+
+Cross-sectional ultrasonographic anatomy study (Clinical Anatomy 2025, 60 healthy Korean female volunteers, 120 hemifaces, 15 MHz linear transducer) establishing layer depths and surface-landmark coordinates of the lateral pterygoid muscle (LPM) for extraoral BoNT-A injection via the mandibular-notch window.
+
+LPM was visualized in 100% of subjects; its depth from skin at the mandibular-notch midpoint (MP) was 30.9 ± 1.9 mm; MP lies 39.6 ± 3.3 mm anterior and 7.8 ± 1.6 mm inferior to the tragus, enabling a 35–40 mm needle to reach LPM safely under US guidance.
+
+These landmark coordinates provide a reproducible, radiation-free US-guided injection protocol for LPM; extrapolation to males, elderly, or TMD patients with altered anatomy requires further study.
+
+## 세줄요약
+
+횡단면 초음파 해부 연구 (Clinical Anatomy 2025, 한국인 건강 여성 자원자 60명, 120개 반면부, 15 MHz 선형 탐촉자) — 하악 절흔 창(Mandibular Notch Window)을 통한 외측익돌근(LPM) 외구강 BoNT-A 주입 경로의 조직 층 두께 및 표면 랜드마크 좌표 확립.
+
+전 60명(100%)에서 LPM 가시화 성공; 하악 절흔 중간점(MP)에서 피부~LPM 깊이 30.9 ± 1.9 mm; MP 위치: 이주(Tragus) 전방 39.6 ± 3.3 mm·하방 7.8 ± 1.6 mm — 35~40 mm 바늘로 초음파 유도 하 안전하게 도달 가능.
+
+이 랜드마크 좌표는 방사선 피폭 없는 재현 가능한 초음파 유도 LPM 주입 프로토콜을 제공하나, 남성·고령·TMD 환자 등 해부 변이군으로의 외삽에는 추가 연구 필요.
 
 ## 1. Document Information
 - Study type: Cross-sectional anatomical / ultrasound imaging study (Communication)

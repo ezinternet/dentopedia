@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 NCCL을 골다공증·우식과 같은 "demineralization disease" 스펙트럼에 위치시키는 병태생리 review. [[nccl/goodacre-2022-nccl-morphology-etiology-restoration-guidelines]](공저자 Roberts 중복)의 병인 섹션에 생체역학·percolation 기전의 기초를 제공.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review reframing NCCLs, caries, and osteoporosis as a unified demineralization disease driven by acid, biomechanics, and intercrystalline fluid percolation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 NCCL·우식·골다공증을 acid·biomechanics·percolation 3요인의 통합 demineralization 질환으로 재개념화한 병태생리 review.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Current Osteoporosis Reports 2022;20:90-105. Published online 2022-02-07. DOI 10.1007/s11914-022-00722-1.

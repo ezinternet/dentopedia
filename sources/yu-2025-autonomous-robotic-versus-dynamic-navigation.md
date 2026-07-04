@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[digital-workflow/saeed-2023-robotic-artificial-intelligence-implant-dentistry]] narrative review가 robotic CAIS의 정량 정확도를 직접 비교하지 못했음. 본 prospective comparative study는 r-CAIS vs d-CAIS의 deviation/시간을 head-to-head로 제공해 robotic 정확도 근거를 보강. 자매 RCT [[digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation]]와 짝.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective comparative study (83 patients, 135 implants) showing autonomous robotic CAIS halves angular/platform/apex deviation vs dynamic navigation and is faster.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향 비교연구(환자 83명·임플란트 135개): 자율로봇 임플란트수술(r-CAIS)이 동적내비게이션(d-CAIS)보다 각도·플랫폼·첨부 편차를 절반으로 줄이고 시술시간도 단축.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Clinical Periodontology 2025;52(2):280–288. First published 2 Dec 2024.

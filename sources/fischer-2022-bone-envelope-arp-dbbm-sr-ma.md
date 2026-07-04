@@ -13,13 +13,23 @@ source_collection: external
 
 Quantifies the residual bone envelope (width/height) achievable after ARP with DBBM — directly answers the clinical question "can we place standard-diameter implants without additional augmentation?" after socket preservation. Provides probability figures (6–19%) for implant placement with ≥2 mm surrounding bone, which is crucial context for [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] and other ARP protocol pages.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 9 RCTs (177 ARP vs 130 SH implants): DBBM-based ARP gains 1.13 mm ridge width on average, but only 6–19% of cases achieve ≥2 mm circumferential bone to avoid all further augmentation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 9개 RCT 메타분석: DBBM 치조골보존술은 평균 1.13 mm 폭 유지 이점을 주나, 추가 골증대 없이 표준 직경 임플란트 식립 가능한 경우는 6–19%에 불과.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

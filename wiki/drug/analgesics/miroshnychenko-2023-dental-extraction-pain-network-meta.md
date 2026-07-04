@@ -16,11 +16,21 @@ relations:
     target: moore-2015-single-dose-oral-analgesics-cochrane-overview
 ---
 
-## One-line Summary
-Network MA (82 RCTs, n=9,095) on dental extraction pain: ibuprofen+APAP combination most effective (moderate–high certainty); oxycodone 5mg, codeine 60mg, and tramadol+APAP no better than placebo — evidence base for the 2022 ADA guideline (J Dent Res 2023).
+## Three-line Summary
 
-## 한줄요약
-치아 발치 후 통증에 대한 네트워크 MA (82 RCT, n=9,095): 이부프로펜+APAP 병용이 가장 효과적(중-고 확실성); 옥시코돈 5mg·코데인 60mg·트라마돌+APAP는 위약 대비 효과 없음 — 2022 ADA 가이드라인 근거 연구 (J Dent Res 2023).
+Frequentist network meta-analysis (82 RCTs, n=9,095) comparing 10 pharmacological interventions for acute pain after dental extraction, conducted to inform the 2022 ADA clinical practice guidelines.
+
+Ibuprofen 200–400 mg + APAP 500–1,000 mg ranked highest (MDp 1.68 vs placebo, moderate–high certainty); oxycodone 5 mg, codeine 60 mg, and tramadol 37.5 mg + APAP 325 mg were no better than placebo.
+
+NSAIDs ± APAP outperformed opioid-containing regimens (except APAP + oxycodone 10 mg) — the evidence base underpinning opioid de-escalation in dental prescribing.
+
+## 세줄요약
+
+빈도주의 네트워크 MA (82개 RCT, n=9,095): 발치 후 급성 통증에 대한 10가지 약물 중재 비교, 2022 ADA 임상진료지침 근거 연구.
+
+이부프로펜 200–400 mg + APAP 500–1,000 mg이 최고 효과(MDp 1.68 vs 위약, 중-고 확실성); 옥시코돈 5 mg·코데인 60 mg·트라마돌 37.5 mg+APAP는 위약과 차이 없음.
+
+NSAIDs±APAP가 마약성 진통제 병용(APAP+옥시코돈 10 mg 제외)보다 우수 — 치과 마약 처방 감소를 뒷받침하는 근거.
 
 ## Summary
 Frequentist network meta-analysis of 82 RCTs (9,095 participants) comparing 10 pharmacological interventions for acute pain after dental extraction (simple and surgical). Conducted to inform the 2022 ADA clinical practice guidelines. At 6 hours post-extraction, ibuprofen 200–400mg + APAP 500–1,000mg ranked highest (MDp 1.68 vs placebo, moderate–high certainty), followed by naproxen 400–440mg and ibuprofen 400mg alone. APAP 650mg + oxycodone 10mg was the only opioid-containing regimen with meaningful effect. Oxycodone 5mg, codeine 60mg, and tramadol 37.5mg + APAP 325mg were no better than placebo. NSAIDs ± APAP resulted in better outcomes than opioids ± APAP (except APAP+oxycodone 10mg) with moderate–high certainty.

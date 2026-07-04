@@ -14,11 +14,21 @@ source_collection: external
 tags: [antibiotic-best-practices, stewardship, implementation, dental-medicine, ID-dentistry-collaboration, narrative-review]
 ---
 
-## One-line Summary
-Multidisciplinary narrative review (Bucharest infectious disease + dentistry + Lund; Trop Med Infect Dis 2024): best practices for dental antibiotic prescribing covering indication, drug class, duration, and implementation — stepwise stewardship recommendations.
+## Three-line Summary
 
-## 한줄요약
-다전공 review (Bucharest 감염내과+치과·Lund; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation 통합 가이드. Stewardship 구현 단계별 권고.
+Multidisciplinary narrative review (Bucharest infectious disease + dentistry + Lund microbiology; Trop Med Infect Dis 2024) synthesizing best practices for dental antibiotic prescribing across indication, drug class, duration, and implementation.
+
+Implementation-focused recommendations: indication-required prescribing, default to narrow spectrum, minimum effective duration, integration with electronic prescribing, and audit-feedback cycles; ID-dentistry collaboration model.
+
+Goes beyond restating guidelines by addressing operational reality of changing prescribing behavior; key limitation is that implementation evidence remains maturing and the review is narrative rather than systematic.
+
+## 세줄요약
+
+다전공 서술 고찰(Bucharest 감염내과+치과·Lund 미생물; Trop Med Infect Dis 2024): 치과 항생제 처방 best practice — 적응증·계열·기간·구현 통합 가이드.
+
+구현 중심 권고: 적응증 필수 처방, 좁은 스펙트럼 우선, 최소 유효 기간, 전자 처방 연동, 감사-피드백 주기; 감염내과-치과 협력 모델 제시.
+
+가이드라인 재진술을 넘어 처방 행동 변화의 운영 실제를 다룸; 핵심 한계는 구현 근거가 아직 성숙 중이며 서술 고찰에 그침.
 
 ## Summary
 Multidisciplinary narrative review (infectious disease + dentistry + microbiology) on best practices for dental antibiotic prescribing implementation. Goes beyond restating guidelines to address the operational reality of changing dental prescribing behavior — electronic prescribing prompts, indication-required prescribing, audit-feedback cycles.

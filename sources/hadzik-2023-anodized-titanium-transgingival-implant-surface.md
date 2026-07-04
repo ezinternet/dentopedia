@@ -13,13 +13,23 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)에서 **연조직(transgingival) 표면** 축. 양극산화 단독(A)에 **저압 라디오주파수 산소 플라즈마(S)**를 추가했을 때 섬유아세포 반응이 개선되는지 본 연구로, 배치의 골유착·항균 축과 다른 "연조직 통합" 갈래를 채운다. [[wiki/implants/surface/plasma/wagner-2022-cold-atmospheric-plasma-implant-materials]]의 섬유아세포 반응과 대비.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro preliminary report: anodized Ti-6Al-4V (grade 23) discs at 28/67/78/98 V, half additionally treated with low-pressure radiofrequency oxygen plasma ("S" group), for transgingival implant elements; oxygen plasma did not change surface morphology but slightly raised surface oxygen (~1%), and the plasma-treated "S" surfaces showed significantly higher human-fibroblast proliferation and adhesion than anodized-only "A" surfaces, with no cytotoxicity (best corrosion resistance at 78 V).
 
-## 한줄요약
+In vitro preliminary report: anodized Ti-6Al-4V (grade 23) discs at 28/67/78/98 V, half additionally treated with low-pressure radiofrequency oxygen plasma ("S" group), for transgingival implant elements;
+
+oxygen plasma did not change surface morphology but slightly raised surface oxygen (~1%), and the plasma-treated "S" surfaces showed significantly higher human-fibroblast proliferation and adhesion than anodized-only "A" surfaces, with no cytotoxicity (best corrosion resistance at 78 V).
+
+(incomplete)
+
+## 세줄요약
+
 
 in vitro 예비보고: transgingival 임플란트 구성요소용 양극산화 Ti-6Al-4V(28/67/78/98 V) 디스크 중 절반에 저압 RF 산소 플라즈마("S"군) 추가 — 플라즈마는 형태는 안 바꾸고 표면 산소를 약 1% 높였으며, 플라즈마 처리 "S" 표면이 양극산화 단독 "A"보다 사람 섬유아세포 증식·부착이 유의하게 높았고 세포독성 없음(부식저항은 78 V 최고).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

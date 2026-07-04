@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-FEA study (3 implant models, 150 N axial/30° angled load) finds the 2.5 mm extra-narrow one-piece implant exceeds titanium yield strength by 93.6% under angled loading, while 3.0 mm one-piece and 3.5 mm two-piece Morse taper implants remain within safe stress limits.
+In vitro FEA study (Ansys Workbench) comparing 3 narrow/extra-narrow implant designs — G1: 2.5 mm extra-narrow one-piece; G2: 3.0 mm narrow one-piece; G3: 3.5 mm narrow two-piece Morse taper — under 150 N axial and 30° angled loading in a simulated maxillary lateral incisor site (cortical 1 mm, cancellous bone, porcelain crown).
 
-## 한줄요약
+G1 generated 2188 MPa under angled loading, exceeding titanium yield strength (1130 MPa) by 93.6%; G2 and G3 remained within safe limits; the Morse taper G3 reduced cortical bone stress 321% versus G1 under axial load, though under angled loading G3 cortical stress was 391.8% higher than G1/G2 (still within 50 MPa bone limit); no bone failure was predicted for any group by Mohr-Coulomb analysis.
 
-FEA 연구: 2.5 mm 초소경 one-piece 임플란트는 경사하중(30°) 시 티타늄 항복강도를 93.6% 초과(2188 MPa vs. 1130 MPa)해 파절 위험이 있으며, 3.0 mm one-piece 및 3.5 mm Morse taper two-piece 임플란트는 축·경사 하중 모두에서 안전한 응력 범위를 유지함.
+Extra-narrow one-piece implants ≤2.5 mm are biomechanically risky under off-axis occlusal forces and should be used with great caution in anterior sites; 3.0 mm one-piece and 3.5 mm Morse taper two-piece designs show adequate structural behavior under both loading conditions.
+
+## 세줄요약
+
+FEA 연구(Ansys Workbench): 3가지 소경·초소경 임플란트 모델 — G1 2.5 mm 초소경 one-piece, G2 3.0 mm 소경 one-piece, G3 3.5 mm Morse taper two-piece — 상악 측절치 부위 모델에서 150 N 축하중·30° 경사하중 비교.
+
+G1은 경사하중 시 2188 MPa 발생으로 티타늄 항복강도(1130 MPa)를 93.6% 초과; G2·G3는 임플란트 응력 허용 범위 이내; G3 Morse taper는 축하중에서 G1 대비 피질골 응력을 321% 감소시키나 경사하중에서는 G1·G2 대비 391.8% 증가(단, 50 MPa 골 허용치 이내); Mohr-Coulomb 분석에서 모든 군 골 파절 예측 없음.
+
+2.5 mm 이하 초소경 one-piece 임플란트는 비축방향 교합력이 예상되는 전치부 식립 시 파절 위험이 크므로 신중한 적응증 선택 필요; 3.0 mm one-piece 및 3.5 mm Morse taper two-piece는 두 하중 조건 모두에서 안전한 생역학적 거동을 보임.
 
 ## Summary
 

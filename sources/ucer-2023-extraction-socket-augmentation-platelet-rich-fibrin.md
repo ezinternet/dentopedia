@@ -9,7 +9,7 @@ pdf_filename: ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review of socket augmentation (SA) rationale and the bio-enhancement role of autologous platelet-rich fibrin (PRF) added to xenograft/allograft/alloplast scaffolds, with discussion of post-extraction bone remodeling, biological mechanisms of PRF growth factors, and two illustrative clinical cases.
 
 ## 1. Document Information

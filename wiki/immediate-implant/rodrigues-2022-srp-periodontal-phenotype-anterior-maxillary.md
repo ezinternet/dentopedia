@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Combined clinical and CBCT cross-sectional study of maxillary anterior teeth finding significant associations between Kan-class sagittal root position (SRP) and periodontal phenotype (gingival biotype, bone wall thickness); thinner phenotypes were overrepresented in Class I and Class IV, the highest-risk profiles for IIP recession.
+## Three-line Summary
 
-## 한줄요약
-임상+CBCT 통합 분석: SRP class와 치주 phenotype(gingival biotype, bone thickness) 사이 연관 — Class IV/얇은 phenotype 조합은 즉시식립 시 high-risk profile.
+Combined clinical and CBCT cross-sectional study of maxillary anterior teeth evaluating associations between Kan-class sagittal root position (SRP) and periodontal phenotype (gingival biotype and alveolar wall thickness).
+
+Significant associations were found between SRP class and phenotype dimensions; thinner periodontal phenotypes were overrepresented in Class I and Class IV — the two highest-risk SRP profiles for midfacial recession following IIP.
+
+Integrating SRP class with periodontal phenotype enables compound risk scoring for esthetic-zone IIP; patients with thin phenotype + Class I or IV SRP should be counseled about elevated recession risk or considered for connective tissue augmentation.
+
+## 세줄요약
+
+상악 전치 임상·CBCT 통합 횡단면 연구: Kan-class 시상 치근 위치 (SRP)와 치주 표현형 (잇몸 생물형·치조골 벽 두께) 사이의 연관성 평가.
+
+SRP class와 표현형 크기 간 유의한 연관 확인; 얇은 치주 표현형이 Class I 및 Class IV(즉시식립 후 정중안면 퇴축 위험 최고)에서 과잉 대표.
+
+SRP class와 치주 표현형을 통합한 복합 위험 점수화가 심미 영역 즉시식립 계획에 유용; 얇은 표현형 + Class I/IV 조합 환자에게는 퇴축 위험 상담 또는 결합조직이식 병행을 고려해야 한다.
 
 ## Summary
 Clinical + tomographic study evaluating the relationship between Kan-class SRP and periodontal phenotype (gingival biotype, bone wall thickness) in maxillary anterior teeth.

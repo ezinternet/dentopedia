@@ -13,11 +13,21 @@ source_collection: external
 tags: [gic, calcium, phosphate, remineralization, bioactivity, in-vitro, systematic-review]
 ---
 
-## One-line Summary
-Systematic review of 5 in-vitro studies (Dent Mater J 2024) finding that calcium/phosphate ion-releasing modifications enhance GIC bioactivity, hydroxyapatite formation, pH, and cariostatic effect.
+## Three-line Summary
 
-## 한줄요약
-in-vitro 5편 SR — Ca/P 이온 방출형 개질이 GIC의 생체활성·hydroxyapatite 형성·pH·항우식 효과를 향상.
+PROSPERO-registered SR (Dent Mater J 2024; PubMed, Scopus, WoS; RoBDEMAT bias tool) of 5 in-vitro studies modifying GIC with Ca/P-based compounds (CPP-ACP, nano-hydroxyapatite) to assess bioactivity and remineralization potential.
+
+Incorporation of Ca/P ions consistently enhanced GIC bioactivity: promoted hydroxyapatite formation, raised local pH, and inhibited cariogenic bacteria; however, CPP-ACP modifications may simultaneously reduce fluoride release.
+
+Evidence is limited to in-vitro studies only; no longitudinal clinical data exist to confirm whether Ca/P-modified GIC delivers remineralization benefit in vivo.
+
+## 세줄요약
+
+PROSPERO 등록 SR (Dent Mater J 2024; 5편 in vitro, RoBDEMAT): CPP-ACP·나노 hydroxyapatite 등 칼슘·인산 기반 개질제가 GIC의 생체활성 및 재광화 능력에 미치는 영향을 평가.
+
+Ca/P 이온 방출 개질은 hydroxyapatite 형성 촉진, pH 상승, 항우식 세균 억제 효과를 일관되게 나타냈으나, CPP-ACP 첨가는 불소 방출을 감소시킬 수 있다.
+
+모든 근거가 in vitro에 국한되어 있어 임상 재광화 효과를 확인하기 위한 장기 임상시험이 필요하다.
 
 ## Summary
 Registered in PROSPERO and following PRISMA, this review searched PubMed-MEDLINE, Scopus, and Web of Science and included five eligible in-vitro studies modifying GIC with calcium- and phosphate-based compounds (e.g., CPP-ACP, nano-hydroxyapatite). Risk of bias was assessed with RoBDEMAT. Incorporation of Ca/P ions enhanced bioactivity and remineralization: promoted hydroxyapatite formation, raised pH, and inhibited cariogenic bacteria. The authors note CPP-ACP modifications can decrease fluoride release while increasing Ca/P release, and call for longitudinal clinical studies.

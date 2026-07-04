@@ -13,13 +13,21 @@ source_collection: external
 
 Existing zirconia/LiDi crown survival pages [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] and [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] report pooled survival but do not isolate the occlusal-overload risk modifier of sleep bruxism with an objective EMG diagnosis. This 3-year RCT (Bömicke 2026) directly tests whether SB degrades survival/success of monolithic LiDi vs Zir molar crowns, contextualizing the occlusal-overload literature ([[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]) for material selection in bruxers.
 
-## One-line Summary
+## Three-line Summary
 
-3-year RCT (n=109, 4 groups by EMG-confirmed sleep bruxism × randomized monolithic LiDi vs zirconia molar crown, no occlusal guards): sleep bruxism showed no detectable impact on technical complications, survival, or success of either material.
+Prospective 2-arm RCT (Heidelberg University; n=109, 4 groups: LiDi-SB, LiDi-no SB, Zir-SB, Zir-no SB; EMG-confirmed sleep bruxism diagnosis using BruxOff device; occlusal guards intentionally withheld; 3-year follow-up) comparing monolithic lithium disilicate vs zirconia molar single crowns in bruxers vs non-bruxers.
 
-## 한줄요약
+Zero technical complications (no ceramic fractures) in any group; 3-year survival rates were 96.3% (LiDi-SB) / 100% (LiDi-no SB) and 95.2% (Zir-SB) / 95.8% (Zir-no SB) — none statistically different (all p>0.999); biologic complications (recurrent periodontitis, irreversible pulpitis) and 2 root fractures occurred only in SB groups.
 
-3년 RCT (환자 109명, EMG로 확인한 수면 이갈이 유무 × 무작위 배정한 모놀리식 리튬디실리케이트 vs 지르코니아 대구치 단일 크라운, 교합안정장치 미사용): 수면 이갈이는 두 재료 모두에서 기술적 합병증·생존율·성공률에 유의한 영향을 주지 않았다.
+Sleep bruxism had no detectable impact on ceramic fracture or survival of monolithic molar crowns at 3 years; small group sizes (~21–27) and 3-year horizon may be insufficient to detect fatigue-driven failures in longer-term follow-up.
+
+## 세줄요약
+
+전향적 2군 RCT (하이델베르크 대학; n=109, 4그룹: LiDi-SB·LiDi-비SB·Zir-SB·Zir-비SB; BruxOff EMG 장치로 수면 이갈이 확진; 교합안정장치 의도적 미사용; 3년 추적) — 모놀리식 리튬디실리케이트 vs 지르코니아 대구치 단관 크라운을 이갈이 유무 층화하여 비교.
+
+모든 군에서 기술적 합병증(세라믹 파절) 없음; 3년 생존율 LiDi-SB 96.3%/비SB 100%, Zir-SB 95.2%/비SB 95.8% — 군 간 유의차 없음(모두 p>0.999); 생물학적 합병증(재발성 치주염·비가역성 치수염) 및 치근 파절 2건은 SB군에서만 발생.
+
+수면 이갈이는 3년 기준 모놀리식 대구치 크라운의 세라믹 파절·생존율에 유의한 영향 없음 — 단, 소표본(~21–27명)과 3년 추적은 피로 파절 등 장기 합병증 검출에 불충분할 수 있음.
 
 ## 1. Document Information
 

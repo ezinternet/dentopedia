@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Updated SR+MA of 17 RCTs (13 meta-analyzed) on universal adhesives in noncarious cervical lesions (NCCLs): no significant difference between total-etch (TE) and self-etch (SE) strategies for any of five clinical outcomes (retention, marginal adaptation, marginal discoloration, secondary caries, postoperative sensitivity) at 18/24/36 months (p>0.05, I²=0%).
+## Three-line Summary
 
-## 한줄요약
-비우식성 치경부 병소(NCCL)에서 유니버설 접착제의 전부산부식(Total-Etch)과 자가산부식(Self-Etch) 전략 간 유지율·변연적합도·변연착색 등 5가지 임상 지표 모두에서 유의한 차이 없음을 17개 RCT 메타분석(I²=0%)으로 확인.
+Updated PRISMA SR+MA (17 RCTs screened; 13 meta-analyzed; USPHS and FDI criteria) comparing total-etch (TE) vs self-etch (SE) application strategies for universal adhesives in noncarious cervical lesion (NCCL) restorations at 18, 24, and 36 months.
+
+No statistically significant difference between TE and SE for any of five clinical outcomes — retention, marginal adaptation, marginal discoloration, secondary caries, or postoperative sensitivity — at any time point (p>0.05; I²=0%), though publication bias was suspected for 18-month FDI retention data.
+
+For NCCL restorations with universal adhesives, clinicians can choose either TE or SE strategy based on substrate characteristics and preference — the I²=0% result is notably robust and contrasts with the E&R advantage found in general restorations.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰+메타분석(17개 RCT 검색, 13개 메타분석 포함, USPHS·FDI 기준): 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 수복에서 유니버설 접착제의 전산부식(Total-Etch, TE)과 자가산부식(Self-Etch, SE) 전략을 18·24·36개월에 비교.
+
+유지율·변연적합도·변연착색·이차 우식·술후 과민증 5개 임상 지표 모두에서 TE와 SE 간 유의한 차이 없음(p>0.05, I²=0%); 18개월 FDI 유지율에서 출판 편향 의심.
+
+NCCL에서 유니버설 접착제 사용 시 술식 선택(TE vs SE)은 기질 특성과 선호도에 따라 결정 가능하며, I²=0%의 일관된 결과는 일반 수복에서 산부식-세척법(Etch-and-Rinse, ER) 우위를 보인 연구들과 대비됨.
 
 ## Summary
 This updated SR+MA included 17 RCTs (13 in meta-analysis) comparing total-etch and self-etch strategies for universal adhesives in NCCLs. Five clinical outcomes (retention, marginal adaptation, marginal discoloration, secondary caries, postoperative sensitivity) were assessed at 18, 24, and 36 months using both USPHS and FDI criteria. No statistically significant differences were found for any outcome at any time point (p > 0.05, I² = 0%). A strongly suspected publication bias was noted in the retention domain at 18-month follow-up under FDI criteria.

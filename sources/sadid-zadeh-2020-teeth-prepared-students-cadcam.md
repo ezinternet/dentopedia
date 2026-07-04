@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/digital-workflow/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr]]가 finish line·geometry 형성 요인을 IOS 정확도 결정자로 지목했는데, 본 cross-sectional 평가는 실제 학생 형성물에서 **어떤 형성 오류가 가장 빈번한지(finish line quality 압도적 1위)**를 정량화해 그 SR의 임상적 함의를 교육·실무 데이터로 뒷받침한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional evaluation (rubric-based; 334 typodont preparations) of senior dental students' tooth preparations for CAD/CAM restorations finding finish line quality the most frequent error (136/223 prostheses), the criterion most critical for well-fitting CAD/CAM restorations.
 
-## 한줄요약
+Cross-sectional evaluation (rubric-based;
+
+334 typodont preparations) of senior dental students' tooth preparations for CAD/CAM restorations finding finish line quality the most frequent error (136/223 prostheses), the criterion most critical for well-fitting CAD/CAM restorations.
+
+(incomplete)
+
+## 세줄요약
+
 
 단면연구(루브릭 기반, 타이포돈트 형성치 334개): 본과 4학년 학생이 CAD/CAM 수복용으로 형성한 치아에서 **finish line(변연선) 품질 오류가 가장 빈번(223건 중 136건)**했으며, 이는 CAD/CAM 수복물 적합도에 가장 결정적인 항목이다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT study of 500 Indian patients (Greater Noida): overall C-shaped canal prevalence 22% in second molars (maxillary 25.1% vs mandibular 18.9%, NS); most common configuration continuous/Category 1 (52.7%), then semicolon (37.3%) and separate (10%).
+Cross-sectional CBCT study of 500 Indian patients (Greater Noida) examining C-shaped canal morphology in both maxillary and mandibular second molars using the Melton classification.
 
-## 한줄요약
+Overall C-shaped prevalence was 22% (110/500 patients), with maxillary second molars at 25.1% and mandibular at 18.9% (no significant difference); continuous/Category 1 configuration was the most common (52.7%).
 
-인도 환자 500명 CBCT 연구 — 제2대구치 C-shaped canal 전체 유병률 22%(상악 25.1% vs 하악 18.9%, 유의차 없음), 연속형(52.7%)이 가장 흔하고 세미콜론형(37.3%)·분리형(10%) 순.
+The notably high 22% Indian prevalence contrasts with lower Middle Eastern and Israeli figures, underscoring the clinical importance of population-specific awareness when planning second molar root canal treatment.
+
+## 세줄요약
+
+인도 환자 500명(Greater Noida) 대상 상악·하악 제2대구치 CBCT 단면 연구, Melton 분류 적용.
+
+전체 C-shaped 유병률 22%(110/500명); 상악 제2대구치 25.1%·하악 18.9%(유의차 없음); 연속형(Category 1)이 가장 흔함(52.7%).
+
+인도의 높은 22% 유병률은 중동·이스라엘 수치와 대조되므로, 제2대구치 근관치료 계획 시 인구 특이적 인식이 임상적으로 중요.
 
 ## Summary
 

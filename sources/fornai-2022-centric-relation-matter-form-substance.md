@@ -17,13 +17,23 @@ text_filename: fornai-2022-centric-relation-matter-form-substance.txt
 
 Direct published rebuttal to [[occlusion/zonnenberg-2021-centric-relation-critically-revisited-clinical]]. Provides the counter-argument that condylar position should be actively monitored when occlusion is changed (vs Zonnenberg's "ignore it" conclusion), supplying a key threshold (Pullinger ≈2 mm sagittal slide cut-off) and the GPT-9 CR-definition 29% consensus figure that quantify the terminology debate. Ingested to balance the occlusion category's CR coverage with the opposing clinical school.
 
-## One-line Summary
+## Three-line Summary
 
-Letter/commentary (rebuttal to Zonnenberg et al. 2021) arguing that although the term "centric relation" should be abandoned, condylar position is clinically meaningful and must be monitored when occlusion is altered, proposing "Reference Position (RP)" as the replacement.
 
-## 한줄요약
+Letter/commentary (rebuttal to Zonnenberg et al.
+
+2021) arguing that although the term "centric relation" should be abandoned, condylar position is clinically meaningful and must be monitored when occlusion is altered, proposing "Reference Position (RP)" as the replacement.
+
+(incomplete)
+
+## 세줄요약
+
 
 Zonnenberg(2021)에 대한 반박 서신으로, "centric relation" 용어는 폐기하되 교합을 바꿀 때 과두 위치를 적극 모니터링해야 한다고 주장하며 대체 개념으로 "Reference Position (RP)"을 제안한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

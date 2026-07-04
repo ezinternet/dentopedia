@@ -27,13 +27,21 @@ tags: [platelet-rich-fibrin, prf, prp, cgf, autologous-platelet-concentrate, apc
 > - 공통 한계: 세 논문 모두 **이질성이 매우 높음**(I²≈85–94%), PRF 제조 프로토콜(원심분리 rpm·시간·기기) 과소보고(치근이개부 4/21, 골내결손 19/55 미보고), human histology로 진짜 재생(치주인대·백악질 신생) 증명한 논문 전무.
 > - 임상 결정 프레임: (1) 결손 술식에 PRF 추가 = 거의 항상 이득, 저비용·저위험이므로 추가를 기본값으로 고려. (2) PRF로 골이식·차폐막·CTG를 "대체"하려는 결정은 결손 유형별로 다르다 — 골내결손은 동등(대체 가능성 있음), 근면피복은 CTG가 여전히 근피복률 우위(단 KTW 충분 시 PRF가 형태학적 morbidity 감소 대안). (3) 흡연자·중증 결손·KTW 결핍 부위는 근거 공백 — 표준 재료 우선.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of three 2024 Periodontology 2000 SR/MA(NMA) papers on autologous platelet concentrates (APC: PRF/PRP/CGF) across the three main periodontal regeneration indications — furcation defects (21 RCTs), intrabony defects (55 RCTs), and root coverage (109-RCT NMA) — showing a consistent "PRF-as-adjunct-improves-outcomes, PRF-vs-established-material-is-equivalent" pattern, with root coverage as the one indication where PRF alone (not PRP/CGF) shows a unique, KTW-dependent significant benefit, and intrabony/furcation sharing a reproducible "PRF as drug-delivery matrix" finding for small biomolecules.
+Synthesis of 3 sibling SR/MA(NMA) papers from Periodontology 2000 2024 mapping autologous platelet concentrate (APC: PRF/PRP/CGF) evidence across furcation defects (21 RCTs), intrabony defects (55 RCTs), and root coverage (109-RCT NMA).
 
-## 한줄요약
+Consistent finding: adding PRF to a surgical procedure always improves outcomes (furcation OFD+PRF vs OFD: PPD +1.73 mm; intrabony: PPD +1.27 mm, CAL +1.22 mm; root coverage: mean root coverage +6.12%), while PRF vs established regenerative materials is equivalent — making PRF a low-cost autologous substitute, not a superior material.
 
-2024년 Periodontology 2000에 실린 자가혈소판농축물(PRF/PRP/CGF) SR/MA(NMA) 3편(치근이개부 21 RCT, 골내결손 55 RCT, 근면피복 NMA 109 RCT)을 종합 — 세 적응증 모두에서 "PRF를 술식에 추가하면 유의 개선, 확립된 재료와 head-to-head는 대등"이라는 일관 패턴을 확인했고, 근면피복만 PRF(PRP·CGF 아님)의 독자적·KTW 의존적 효과가 있으며, 치근이개부·골내결손 두 곳에서는 PRF를 소분자 약물전달 매트릭스로 쓰는 패턴이 재현됨.
+Root coverage is the one indication where PRF alone (PRP/CGF both NS) shows a unique, baseline-KTW-dependent benefit; furcation and intrabony share a reproducible "PRF as drug-delivery matrix" pattern (metformin/bisphosphonate/statin loading adds further benefit); all three suffer I²≈85–95% heterogeneity and no human histology proving true regeneration.
+
+## 세줄요약
+
+Periodontology 2000 2024년 자매 SR/MA(NMA) 3편 종합 — 자가혈소판농축물(Autologous Platelet Concentrate, APC: PRF/PRP/CGF)을 치근이개부(21 RCT)·골내결손(55 RCT)·근면피복(NMA, 109 RCT) 3대 치주재생 적응증에 걸쳐 지도화.
+
+공통 패턴: PRF를 술식에 추가하면 항상 유의 개선(치근이개부 PPD +1.73mm·골내결손 PPD +1.27mm·근면피복 +6.12%); 확립된 재료와 head-to-head는 대등 — PRF는 저비용 자가 대체재이지 우월한 재료가 아님.
+
+근면피복만 PRF 특이적·기저 각화조직폭(Keratinized Tissue Width, KTW) 의존적 효과(PRP/CGF는 무효); 치근이개부·골내결손에서 PRF를 소분자 약물전달 매트릭스로 쓰는 패턴 재현; 세 논문 모두 I²≈85–95% 이질성·조직학적 진성 재생 증명 전무.
 
 ## Summary
 

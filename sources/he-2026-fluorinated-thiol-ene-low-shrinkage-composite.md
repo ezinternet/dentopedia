@@ -16,11 +16,21 @@ text_filename: he-2026-fluorinated-thiol-ene-low-shrinkage-composite.txt
 
 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]]의 matrix-modification 전략과 [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]]의 이차우식 방지 전략을 한 재료에서 결합한 사례. thiol-ene step-growth 중합으로 gel point를 늦춰 수축응력을 낮추고(저수축), fluorinated 표면으로 세균 부착을 줄여(항균) 변연 누출↓·이차우식↓을 동시에 노린다. 저수축이 임상 longevity로 이어지는 경로(microleakage→secondary caries)를 보강. abstract-only. 선행 [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] 항균 전략과 대비.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro + in-vivo (rat) study of a novel fluorinated methacrylate-thiol-ene composite (DST-1) using thiol-ene step-growth polymerization to reduce shrinkage stress, showing significantly lower microleakage, reduced bacterial (streptococcal) adhesion via low surface free energy, good wear/polish, and no adverse systemic/tissue response in Wistar rats.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In-vitro + in-vivo(rat): thiol-ene 단계성장 중합으로 저수축응력을 구현한 fluorinated methacrylate-thiol-ene 복합레진(DST-1)이 미세누출 유의 감소·연쇄상구균 부착 감소(낮은 표면자유에너지)·우수한 마모/연마성·Wistar rat 전신·조직 무해성을 보임.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Dentistry, 2026;168:106610

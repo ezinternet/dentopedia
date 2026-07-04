@@ -9,7 +9,7 @@ pdf_filename: duncan-2019-ese-deep-caries-exposed-pulp-position.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 ESE 공식 입장문: 심부 우식 및 치수 노출 관리 — 치수 보존 우선, 최소 침습 생물학적 접근법, VPT 적응증 및 재료 권고.
 
 ## 1. Document Information

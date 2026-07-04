@@ -14,11 +14,19 @@ source_collection: external
 tags: [antithrombotic, warfarin, DOAC, aspirin, clopidogrel, DAPT, Korean-guideline, GI-endoscopy, perioperative, multidisciplinary]
 ---
 
-## One-line Summary
-Korean multidisciplinary CPG from 12 tertiary hospitals (KJG 2020): management of warfarin/DOAC/aspirin/clopidogrel/DAPT around GI endoscopy — continuation/interruption decisions based on procedural bleeding risk × patient thrombotic risk matrix; not directly applicable to dentistry but the best Korean-language reference for these drug classes.
+## Three-line Summary
+Korean multidisciplinary clinical practice guideline (12 tertiary hospitals; Korean J Gastroenterol 2020) covering management of warfarin, DOAC, aspirin, clopidogrel, and DAPT around GI endoscopic procedures using a procedural bleeding risk × patient thrombotic risk matrix.
 
-## 한줄요약
-한국 12개 종합병원 다학제 합의 임상진료지침 (KJG 2020): 내시경 시술 전후 warfarin/DOAC/aspirin/clopidogrel/DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 중단/지속 결정. 치과에 직접 적용은 불가하지만 동일 약물 클래스 한국어 reference.
+Low-bleeding-risk procedures (including most diagnostic endoscopies) generally allow continuation of antithrombotic agents; high-bleeding-risk procedures (polypectomy, ESD) require interruption with timing based on drug class and thrombotic risk level.
+
+This is a GI-specific consensus, not directly applicable to dentistry (dental extraction bleeding is recoverable and slots into "low bleeding risk"); useful as Korean-language background on the same drug classes encountered in dental practice.
+
+## 세줄요약
+한국 12개 종합병원 다학제 합의 임상진료지침(KJG 2020): 내시경 시술 전후 warfarin·DOAC·aspirin·clopidogrel·DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 결정.
+
+저출혈 위험 시술(대부분 진단 내시경)은 항혈전제 지속 허용; 고출혈 위험 시술(폴립 절제·ESD)은 약물 종류·혈전 위험에 따라 중단 필요.
+
+GI 특화 합의문으로 치과에 직접 적용 불가(발치 출혈은 회복 가능 → 저출혈 위험 범주); 치과 현장에서 동일 약물 한국어 참조 자료로 활용.
 
 ## Summary
 Korean multidisciplinary clinical practice guideline coordinated by 12 tertiary general hospitals on managing antithrombotic agents (warfarin, DOAC, aspirin, clopidogrel, DAPT) around GI endoscopic procedures. Stratification matrix: procedural bleeding risk × patient thromboembolic risk → management algorithm.

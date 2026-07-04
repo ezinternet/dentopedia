@@ -9,7 +9,7 @@ pdf_filename: nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of 21 longitudinal studies showing furcation involvement (FI) approximately doubles the risk of molar tooth loss during SPT over 10–15 years, with degree II and III FI showing gradual risk increase, yet most furcation-involved molars can be retained with periodontal therapy.
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: turosz-2023-artificial-intelligence-panoramic-radiographs-overvie
 
 Existing AI-in-dentistry pages are task-specific systematic reviews — [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]] (caries) and [[artificial-intelligence/khubrani-2025-periodontal-bone-loss-periodontitis-detection]] (periodontal bone loss). This 2023 overview-of-systematic-reviews (umbrella review, ROBIS-appraised, 12 SRs) sits one level above them, situating those task-specific reviews within a single panoramic-radiograph landscape that also spans osteoporosis, maxillary sinusitis, teeth numbering, and periapical lesions — providing umbrella-level context and cross-task accuracy anchors.
 
-## One-line Summary
+## Three-line Summary
 
-Overview of systematic reviews (umbrella review; 12 SRs, ROBIS-appraised) finding that recent AI models on dental panoramic radiographs reach high accuracy across caries (91.5%), osteoporosis (89.29%), maxillary sinusitis (87.5%), periodontal bone loss (93.09%), and teeth ID/numbering (93.67%), with periapical-lesion detection at 99.95% sensitivity / 92% specificity — but results must be read with caution given few, heterogeneous source studies.
 
-## 한줄요약
+Overview of systematic reviews (umbrella review;
 
-시스템 리뷰들을 종합한 상위(umbrella) 리뷰 — 12편 SR(ROBIS로 편향 평가). 파노라마 방사선 사진 분석에서 최신 인공지능(Artificial Intelligence, AI) 모델이 우식 91.5%, 골다공증 89.29%, 상악동염 87.5%, 치주 골소실 93.09%, 치아 식별·번호매김 93.67%의 높은 정확도를 보였고 치근단 병소는 민감도 99.95%·특이도 92%였으나, 원천 연구 수가 적고 이질적이라 신중한 해석이 필요하다.
+12 SRs, ROBIS-appraised) finding that recent AI models on dental panoramic radiographs reach high accuracy across caries (91.5%), osteoporosis (89.29%), maxillary sinusitis (87.5%), periodontal bone loss (93.09%), and teeth ID/numbering (93.67%), with periapical-lesion detection at 99.95% sensitivity / 92% specificity — but results must be read with caution given few, heterogeneous source studies.
+
+(incomplete)
+
+## 세줄요약
+
+
+시스템 리뷰들을 종합한 상위(umbrella) 리뷰 — 12편 SR(ROBIS로 편향 평가).
+
+파노라마 방사선 사진 분석에서 최신 인공지능(Artificial Intelligence, AI) 모델이 우식 91.5%, 골다공증 89.29%, 상악동염 87.5%, 치주 골소실 93.09%, 치아 식별·번호매김 93.67%의 높은 정확도를 보였고 치근단 병소는 민감도 99.95%·특이도 92%였으나, 원천 연구 수가 적고 이질적이라 신중한 해석이 필요하다.
+
+(incomplete)
 
 ## 1. Document Information
 

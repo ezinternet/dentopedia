@@ -13,11 +13,19 @@ source_collection: external
 tags: [universal-adhesive, dentin-bond, shear-bond-strength, thermocycling, in-vitro]
 ---
 
-## One-line Summary
-In-vitro study (Materials 2023) showing both thermocycling and choice of universal adhesive system significantly affect dentin shear bond strength, with bonds remaining comparable at one year.
+## Three-line Summary
+In-vitro dentin shear bond strength study (Materials 2023; multiple universal adhesive systems; thermocycling aging; one-year storage) testing the independent contributions of adhesive product choice and thermal aging to bond durability.
 
-## 한줄요약
-in-vitro — thermocycling과 universal adhesive 종류가 상아질 전단결합강도에 유의 영향(각 p=0.018, p=0.001), 1년 후에도 비교 가능.
+Both thermocycling (p=0.018) and adhesive system choice (p=0.001) significantly affected dentin shear bond strength; bond levels remained comparable after one year of storage across all systems tested.
+
+Product selection among universal adhesives matters in vitro, but the one-year comparable survival indicates aging resistance is broadly maintained — absolute in-vitro values translate only loosely to clinical performance.
+
+## 세줄요약
+In vitro 상아질 전단결합강도 연구(Materials 2023; 다종 유니버설 접착제; thermocycling 노화; 1년 보관) — 접착제 종류와 열 노화의 독립적 영향 검증.
+
+Thermocycling(p=0.018)과 접착제 종류(p=0.001) 모두 상아질 전단결합강도에 유의 영향; 1년 보관 후에도 모든 시스템에서 결합강도 수준 비교 가능하게 유지.
+
+유니버설 접착제 간 제품 선택이 in vitro에서 중요하나 1년 후 유사 생존은 내노화성이 전반적으로 유지됨을 시사 — 절대 수치의 임상 일반화는 제한적.
 
 ## Summary
 This laboratory study compared several universal adhesive systems on dentin bond strength under aging. Both thermocycling and the adhesive system used had statistically significant effects on shear bond strength (p=0.018 and p=0.001, respectively), and bonds remained at a comparable level after one year of storage. The study informs product selection among universal adhesives but cautions that absolute in-vitro values generalize only loosely to clinical performance.

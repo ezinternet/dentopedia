@@ -13,11 +13,21 @@ source_collection: external
 
 기존 [[dentin-hypersensitivity/jkda-2022-60-4-005]] 및 [[overviews/dentin-hypersensitivity-overview]]의 in-office 탈감작 옵션 비교를 임상 RCT 수치로 보강. Er,Cr:YSGG 레이저 단독/병용이 NaF varnish 대비 우월한지에 대한 직접 근거.
 
-## One-line Summary
+## Three-line Summary
+
 Single-session clinical trial (55 patients / 165 teeth, 5 groups n=33) finding Er,Cr:YSGG laser alone or with Gluma reduced DH more than 5% NaF varnish over 6 months, though all treatments significantly reduced sensitivity.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 임상시험(55명·165치, 5군 각 33치): Er,Cr:YSGG 레이저 단독 또는 Gluma 병용이 6개월간 5% 불화나트륨 바니시보다 상아질 과민증(Dentin Hypersensitivity, DH)을 더 줄였고, 모든 처치가 유의하게 통증을 감소시킴.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Lasers in Medical Science, 2022. Received 4 Mar 2022 / Accepted 24 May 2022.

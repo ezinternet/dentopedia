@@ -20,13 +20,21 @@ relations:
     target: nam-2014-fess-intraoral-implant-related-sinusitis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single case report (54-year-old man) of severe odontogenic maxillary sinusitis (OMS) from underfilled teeth #25/#26 that spread to the frontal sinus; treated by conservative maxillary sinus management (CMSM) — Caldwell–Luc access with mucosa preservation, a large inferior-meatus nasoantral window, plus apicoectomy and retrograde filling — with complete recovery, an open window, and preserved teeth and sinus function at 2 years.
+Single case report (n=1, 54-year-old man) of severe odontogenic maxillary sinusitis (OMS) from underfilled teeth #25/#26 spreading to the frontal sinus, refractory to endodontic re-treatment and long-term antibiotics.
 
-## 한줄요약
+Conservative maxillary sinus management (CMSM) — Caldwell–Luc access with mucosa preservation, large inferior-meatus nasoantral window, plus apicoectomy and retrograde filling — achieved complete sinus and functional recovery at 2 years with the window patent and teeth preserved.
 
-증례보고 1례(54세 남성): 근관충전 불량 #25/#26에서 전두동까지 파급된 중증 치성 상악동염(OMS)을, 점막을 보존하는 Caldwell–Luc 접근과 하비도의 큰 비강-상악동창(nasoantral window)에 치근단절제·역충전을 더한 보존적 상악동관리(CMSM)로 치료 → 2년 후 완전 회복, 창 개방 유지, 원인치·상악동 기능 보존.
+The pathophysiologic rationale for CMSM: OMS causative sites lie below the natural ostium and pus gravitates to the inferior meatus, so ostium-based drainage (ESS) is anatomically mismatched and prone to reclosure; mucosa preservation avoids postoperative maxillary cyst (POMC).
+
+## 세줄요약
+
+증례보고 (n=1, 54세 남성): 근관충전 불량 #25/#26에서 전두동까지 파급된 중증 치성 상악동염 (Odontogenic Maxillary Sinusitis, OMS) — 재근관치료 및 장기 항생제 무효.
+
+보존적 상악동 관리 (Conservative Maxillary Sinus Management, CMSM) — Caldwell–Luc 접근에서 점막 보존, 하비도 대형 비강-상악동창 (Nasoantral Window) 형성, 치근단절제술 (Apicoectomy) + 역충전 (Retrograde Filling) 시행 → 2년 후 완전 회복, 창 개방 유지, 원인치 보존.
+
+OMS의 원인부위는 자연공 (Natural Ostium) 하방에 위치하므로 자연공 기반 내시경 부비동 수술 (ESS) 은 해부학적으로 부적합하고 재폐쇄 위험; 점막 보존으로 술후 상악동낭종 (Postoperative Maxillary Cyst, POMC) 방지.
 
 ## Summary
 

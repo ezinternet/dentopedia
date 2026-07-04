@@ -10,7 +10,7 @@ pdf_filename: tomlin-2014-ridge-preservation-implant-therapy-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 발치 후 치조제 보존술 문헌 고찰: 자연 치유 시 수직 소실 ~1mm·수평 소실 4-6mm(50%), 발치 후 3개월 내 대부분 발생; 발치와 보존술은 혈병 단독보다 모두 우수하나 단일 최우수 술식 없음.
 
 ## 1. Document Information

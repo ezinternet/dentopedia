@@ -11,8 +11,21 @@ pdf_filename: ahn-2016-survey-working-length-determination.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Survey of Korean dental school endodontic faculty showing 89% prefer electronic apex locators (EAL) over radiography for working length determination, with 78% favoring an apical limit of 0.5–1.0 mm short of the radiographic apex.
+## Three-line Summary
+
+Cross-sectional questionnaire survey (90% response rate) of endodontic teachers across Korean dental schools examining preferences for working length (WL) determination methods and apical limit settings in 2016.
+
+89% preferred electronic apex locators (EAL) over radiography; 78% favored an apical limit of 0.5–1.0 mm short of the radiographic apex; 74% chose EAL over radiograph when the two conflicted.
+
+Findings are limited to Korean academic endodontists (not general practitioners) and reflect stated preferences rather than measured clinical outcomes linked to specific WL methods.
+
+## 세줄요약
+
+한국 치과대학교 근관치료학 교수 대상 설문조사(응답률 90%): 근관장(WL, Working Length) 측정법 선호도 및 근첨 한계 기준 조사(2016년).
+
+89%가 방사선보다 전자근단위치결정기(EAL)를 선호; 78%가 방사선 근첨에서 0.5–1.0 mm 짧은 지점을 근첨 한계로 선호; 두 방법이 불일치할 때 74%가 EAL을 선택.
+
+한국 치과대학 교수진에 국한되어 일반의에게 일반화 어렵고, 진술된 선호도가 실제 임상 결과와 연결되지 않는 한계.
 
 ## 1. Document Information
 - **Type**: Cross-sectional survey (questionnaire)

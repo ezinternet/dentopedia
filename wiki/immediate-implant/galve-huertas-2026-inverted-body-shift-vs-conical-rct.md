@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-RCT (n=30, 1-year, UIC) comparing inverted body-shift (Inverta co-axis 12°) vs conventional conical implants in immediate anterior maxillary placement: 100% survival, ISQ medians 56–62, comparable marginal bone loss and PES esthetics, no statistically significant intergroup differences.
+## Three-line Summary
 
-## 한줄요약
-전향적 단일맹검 RCT (n=30, 1년, UIC): 역전형 body-shift (co-axis 12°) vs 통상 conical 임플란트를 전상악 즉시식립에서 비교 — 생존율 100%, ISQ 중앙값 56–62, 수평·수직 골흡수 및 PES 미학적 결과 모두 군간 유의차 없음; inverted 디자인은 중앙 소켓 위치·팔라탈 스크류 접근 실용적 이점 제공.
+Single-blind RCT (n=30, 1-year, UIC) comparing inverted body-shift (Inverta co-axis 12°, n=15) vs conventional conical implants (n=15) in immediate anterior maxillary placement with immediate provisionalization.
+
+Both groups showed 100% survival; overall success 83.3% with no significant intergroup difference; ISQ medians 56–62, CBCT buccal bone loss, and PES (median 11–12) were all statistically equivalent.
+
+The inverted body-shift design offers practical advantages for central socket positioning and palatal screw access but did not demonstrate clinical superiority over conventional conical implants at 1 year.
+
+## 세줄요약
+
+단일맹검 RCT (n=30, 1년, UIC): 역전형 body-shift 임플란트 (Inverta co-axis 12°, n=15) vs 통상 conical 임플란트 (n=15)를 상악 전치부 즉시식립·즉시임시수복에서 비교.
+
+두 군 모두 생존율 100%, 전체 성공률 83.3%; ISQ 중앙값 56–62, CBCT 협측 골흡수, PES 중앙값 11–12 모두 군간 유의차 없음.
+
+역전형 디자인은 소켓 중앙 위치 및 팔라탈 스크류 접근에 실용적 이점이 있으나 1년 임상 결과에서 통상 임플란트 대비 우월성은 확인되지 않았다.
 
 ## Summary
 Single-blind RCT from Universitat Internacional de Catalunya enrolling 30 patients for immediate anterior maxillary implant placement (central/lateral incisors, canines, premolars) with immediate provisionalization, comparing the Inverta co-axis 12° inverted body-shift implant (test, n=15) against a conventional internal conical implant (control, n=15).

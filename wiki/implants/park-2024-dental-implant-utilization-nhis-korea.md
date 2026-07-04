@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective Korean NHIS Health Checkup Cohort analysis (n=63,880, age 75): claimed dental-implant utilization rose across coverage phases (3.4% → 6.3% → 7.0%), with higher phase giving ~1.9× implant odds and annual oral-exam attenders ~2× more likely to receive an implant.
+## Three-line Summary
 
-## 한줄요약
-NHIS Health Checkup Cohort 분석(n=63,880, 75세 대상): 임플란트 급여 이용률 Phase 1 3.4% → Phase 2 6.3% → Phase 3 7.0%로 지속 상승. 연 1회 구강검진자는 임플란트 시술 가능성 2배. 정책 결정 시 청구 추이·요인 검토 필요.
+Retrospective analysis of Korean NHIS Health Checkup Cohort (n=63,880, age 75 at baseline) examining claimed dental implant utilization rates across three national insurance coverage phases using the Anderson behavioral model and fully-adjusted logistic regression.
+
+Utilization rose from 3.4% (Phase 1) to 6.3% (Phase 2) to 7.0% (Phase 3); higher coverage phase conferred ~1.9× implant odds, and patients attending annual oral examinations were ~2× more likely to receive an implant.
+
+Significant regional, insurance-type, and disability disparities observed in early phases attenuated by Phase 3, suggesting coverage expansion progressively reduced access inequities — with implications for dental policy.
+
+## 세줄요약
+
+국민건강보험공단(National Health Insurance Service, NHIS) 건강검진 코호트 후향 분석(n=63,880, 75세 기준) — 안더슨 행동모델(Anderson Behavioral Model) 기반 3단계 급여 시행 시기별 임플란트 청구 이용률 비교.
+
+이용률 Phase 1 3.4% → Phase 2 6.3% → Phase 3 7.0%로 지속 상승; 후기 Phase 적용 환자의 임플란트 시술 오즈(Odds) 약 1.9배↑; 연 1회 구강검진 수진자 임플란트 시술 가능성 약 2배↑.
+
+초기 Phase에서 유의했던 지역·보험종류·장애 격차가 Phase 3에서 감소(p>0.05) → 급여 확대가 접근 불평등을 완화하는 정책적 근거; 단일 연령(75세) 코호트·청구 자료 한계 있음.
 
 ## Summary
 Population-level analysis of claimed dental implant utilization in South Korea using NHIS Health Checkup Cohort. Anderson behavioral model applied. Subjects: 63,880 (covered since 2014, age 75 baseline).

@@ -13,11 +13,23 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA (22 studies: 2 RCTs, 3 prospective, 17 retrospective) on endodontically treated posterior teeth: over the short term (2.5–3 y), low-quality evidence shows no difference in tooth survival or restorative success between direct composite resin and indirect restorations (pooled RCT OR for tooth retention 2.06 [0.08–53.52], P=.66), but observational data are confounded because direct restorations were used on teeth with more remaining tissue or worse prognosis.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (22편: RCT 2, 전향 3, 후향 17). 근관치료된 구치를 직접 복합레진 vs 간접 수복으로 비교 — 단기(2.5~3년)에는 치아 생존율·수복 성공률에 차이 없음(RCT 통합 OR 2.06 [0.08–53.52], P=.66), 단 관찰연구는 직접수복이 잔존치질이 많거나 예후 불량한 치아에 적용된 적응증 교란(confounding)이 심해 근거 수준이 낮음.
+SR+MA (22 studies: 2 RCTs, 3 prospective, 17 retrospective) comparing direct composite resin vs indirect restorations on endodontically treated posterior teeth, searching MEDLINE/CENTRAL/EMBASE to December 2020.
+
+Over the short term (2.5–3 years), low-quality evidence shows no significant difference in tooth survival (pooled RCT OR 2.06, 95% CI 0.08–53.52, P=.66) or restorative success between direct and indirect restorations; observational data were dominated by confounding by indication (clinicians placed direct restorations on teeth with more remaining structure or worse prognosis).
+
+The evidence is insufficient to equate direct composite with indirect restorations; future RCTs controlling for remaining coronal tissue are needed before clinical equivalence can be claimed.
+
+## 세줄요약
+
+근관치료된 구치의 직접 복합레진 vs 간접 수복을 비교한 SR+MA(22편: RCT 2·전향 3·후향 17, MEDLINE/CENTRAL/EMBASE, 2020년 12월까지).
+
+단기(2.5~3년) 치아 생존율(RCT 통합 OR 2.06 [0.08–53.52], P=.66)·수복 성공률 모두 차이 없음 — 단 관찰연구는 잔존치질이 많거나 예후 불량한 치아에 직접수복이 편중 배정되는 적응증 교란이 심해 근거 수준 낮음.
+
+직접수복이 간접수복과 동등하다고 결론내리기에는 근거 불충분; 잔존 치관 조직량을 통제한 RCT가 필요.
+
+
 
 ## Summary
 This PRISMA-guided systematic review and meta-analysis addresses a question with surprisingly thin high-level evidence: when restoring an **endodontically treated posterior tooth**, does a direct composite resin restoration perform differently from an indirect restoration (mostly complete crowns; few inlays/onlays)? Searching MEDLINE, CENTRAL, and EMBASE (1275 records; 938 after de-duplication), the authors included 22 studies (2 RCTs, 3 prospective, 17 retrospective), deliberately separating composite resin from other direct materials (amalgam, glass ionomer).

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review proposing an indication-driven framework for three minimally invasive implant bone regeneration strategies (Bone Core Technique, SPAL, IDR); Bone Core has the strongest dedicated evidence (n=186, ≥5y), SPAL is biologically plausible but early-stage, and IDR relies heavily on the broader immediate implant literature.
+Narrative review (JCM 2026, PubMed Jan 2000–Apr 2026) appraising three minimally invasive implant bone regeneration strategies — Bone Core Technique, SPAL (Sub-Periosteal Peri-implant Augmented Layer), and IDR (Immediate Dentoalveolar Restoration) — organized by defect morphology and biologic priority.
 
-## 한줄요약
+Bone Core Technique has the strongest dedicated evidence (prospective study, n=186, ≥5y); SPAL is biologically plausible but limited to retrospective cases and one histologic report; IDR relies on the broader immediate implant literature without protocol-specific validation.
 
-임플란트 골재생의 최소침습 3대 술식 — 골코어 기법(Bone Core Technique, BCT), 골막하 주위임플란트 증대층(Sub-Periosteal Peri-implant Augmented Layer, SPAL), 즉시치조골회복술(Immediate Dentoalveolar Restoration, IDR) — 을 결손 형태(defect morphology) 기반 결정 알고리즘으로 정리한 서술고찰; BCT는 n=186 5년 전향연구로 가장 강한 근거, SPAL은 생물학적 타당성 있으나 근거 제한, IDR은 즉시식립 문헌에 의존.
+Minimally invasive does not mean lower complexity — all three are technically demanding, conventional GBR remains the reference standard for advanced defects, and choosing by defect morphology and operator expertise is mandatory.
+
+## 세줄요약
+
+서술고찰(JCM 2026, 2000–2026년 문헌): 최소침습 임플란트 골재생 3대 술식 — 골코어 기법(Bone Core Technique, BCT)·골막하 주위임플란트 증대층(Sub-Periosteal Peri-implant Augmented Layer, SPAL)·즉시치조골회복술(Immediate Dentoalveolar Restoration, IDR) — 을 결손 형태·생물학적 우선순위별 결정 알고리즘으로 제시.
+
+근거 강도: BCT(전향연구 n=186, ≥5y 최강) > SPAL(후향 증례·조직학 1건, 근거 제한) > IDR(즉시식립 문헌 의존, 프로토콜 전용 검증 없음).
+
+최소침습 ≠ 낮은 복잡도 — 세 술식 모두 기술 민감도 높으며, 광범위 결손에는 전통 유도골재생술(GBR)이 기준으로 유지; 결손 형태와 술자 숙련도에 따른 선택 필수.
 
 ## Summary
 

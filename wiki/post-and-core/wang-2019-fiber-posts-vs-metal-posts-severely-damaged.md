@@ -15,13 +15,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/wang-2019-fiber-posts-vs-metal-posts
 text_filename: wang-2019-fiber-posts-vs-metal-posts-severely-damaged.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT-only SR+MA (4 RCTs, 3–7 yr, GRADE high): fiber posts show significantly higher medium-term survival than metal posts (RR 0.57, 95% CI 0.33–0.97, P=.04) when restoring severely damaged ETT with ≤2 coronal walls remaining.
+Cochrane-methodology SR+MA restricted to RCTs with ≥3-year follow-up (4 RCTs, all low risk of bias, 3–7 years) specifically targeting severely damaged endodontically treated teeth (ETT) with ≤2 remaining coronal walls — the highest-risk restoration scenario.
 
-## 한줄요약
+Fiber posts showed significantly higher overall survival than metal posts (RR 0.57, 95% CI 0.33–0.97, P=.04; GRADE high), but no significant differences were found in success rate, post debonding, or root fracture rates.
 
-RCT 전용 SR+MA (4건, 3–7년, GRADE 고): 잔존 치질 ≤2벽의 심한 손상 근관치료치에서 파이버포스트 생존율이 금속포스트보다 유의하게 높음 (RR 0.57, P=.04).
+This GRADE-high survival advantage (RR 0.57 = ~43% lower failure risk with fiber) is the most methodologically rigorous post-material comparison for severely damaged ETT, and counters the concern that stiffer metal posts better protect against root fracture in compromised teeth.
+
+## 세줄요약
+
+Cochrane 방법론 SR+MA (RCT 한정, 추적 ≥3년; 4편, 모두 낮은 비뚤림 위험, 3–7년): 잔존 치질 ≤2벽의 심한 손상 근관치료치 — 가장 고위험 수복 시나리오 — 를 대상으로 파이버 vs 금속 포스트 비교.
+
+파이버포스트 생존율이 금속포스트보다 유의하게 높음 (RR 0.57, 95% CI 0.33–0.97, P=.04; GRADE 고); 성공률·포스트 탈락·치근파절에서는 유의차 없음.
+
+GRADE 고급 수준의 생존 이점 (RR 0.57 = 파이버 사용 시 실패 위험 약 43% 감소)은 심한 손상 ETT에 대한 가장 방법론적으로 엄격한 포스트 재료 비교이며 — 강성 금속포스트가 손상된 치아의 치근파절을 더 잘 방지한다는 기존 우려를 반박한다.
 
 ## Summary
 

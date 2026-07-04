@@ -16,13 +16,23 @@ text_filename: fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival.t
 
 literature-surveillance `cracked-tooth` sweep(2026-06-19)에서 적립된 고가치 SR+MA. 기존 [[wiki/cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] umbrella가 다루지 못한 **external splinting의 치수생존**을 정량화해 보강한다. abstract-only(no PMC OA, Elsevier 구독지) — Rule #1상 전문 미확보, 초록 수준 정량치만 보존.
 
-## One-line Summary
+## Three-line Summary
 
-Abstract-only SR+MA (10 studies, 711 cracked teeth, normal pulp/reversible pulpitis): external splinting yields 85% pooled 12-month pulp survival (95% CI 79–91%), higher without interim orthodontic banding (89% vs 79%) and with a direct vs stepwise approach (89% vs 81%); very low GRADE certainty.
 
-## 한줄요약
+Abstract-only SR+MA (10 studies, 711 cracked teeth, normal pulp/reversible pulpitis): external splinting yields 85% pooled 12-month pulp survival (95% CI 79–91%), higher without interim orthodontic banding (89% vs 79%) and with a direct vs stepwise approach (89% vs 81%);
 
-abstract-only SR+MA(10편, 균열치 711개, 정상치수/가역성치수염): external splinting의 12개월 치수생존 85%(95% CI 79–91%) — 임시 교정밴드 미사용 시 89% vs 사용 79%, direct 89% vs stepwise 81%; GRADE 확실성 매우 낮음.
+very low GRADE certainty.
+
+(incomplete)
+
+## 세줄요약
+
+
+abstract-only SR+MA(10편, 균열치 711개, 정상치수/가역성치수염): external splinting의 12개월 치수생존 85%(95% CI 79–91%) — 임시 교정밴드 미사용 시 89% vs 사용 79%, direct 89% vs stepwise 81%;
+
+GRADE 확실성 매우 낮음.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -15,13 +15,23 @@ text_filename: marton-2026-enamel-damage-whitening-sr-ma.txt
 
 The safety of peroxide bleaching on enamel integrity is the most commonly cited concern limiting clinical use and regulatory approval (EU 6% limit). This 2026 SR+MA directly quantifies enamel microhardness change using ISO 28,399-aligned methodology and meta-regression on exposure time — the first to use ROM + multilevel random-effects — extending and formalizing the evidence base touched on in [[tooth-whitening/de-oliveira-2024-otc-bleaching-color-adverse-effects]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 81 in vitro studies (9 in synthesis) found peroxide bleaching causes small but statistically significant enamel microhardness reductions (ROM = 0.89; 95% CI 0.84–0.94), unlikely to be clinically meaningful; exposure time but not concentration was a significant moderator.
 
-## 한줄요약
+SR+MA of 81 in vitro studies (9 in synthesis) found peroxide bleaching causes small but statistically significant enamel microhardness reductions (ROM = 0.89;
+
+95% CI 0.84–0.94), unlikely to be clinically meaningful;
+
+exposure time but not concentration was a significant moderator.
+
+## 세줄요약
+
 
 81편 인비트로 연구의 SR+MA에서 과산화물 미백은 법랑질 미세경도를 통계적으로 유의하게 소폭 감소시켰으나(ROM = 0.89), 임상적 의미는 불명확하며 노출 시간이 주요 조절 변수였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

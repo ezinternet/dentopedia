@@ -18,13 +18,21 @@ relations:
     target: pattnayak-2024-prf-prp-third-molar-extraction-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 11 RCTs (PROSPERO CRD420251031885): CGF after mandibular third molar extraction consistently reduces pain (75% of studies) and analgesic consumption (100%), improves radiographic bone fill (80%), and periodontal parameters distal to the second molar (100%); effects on swelling and alveolar osteitis are uncertain.
+Systematic review of 11 RCTs (PROSPERO CRD420251031885; 380 screened) evaluating concentrated growth factor (CGF) — a dense-fibrin autologous platelet concentrate obtained via the Medifuge centrifuge — after mandibular third molar extraction in healthy adults.
 
-## 한줄요약
+CGF consistently reduced pain (6/8 studies, 75%) and analgesic consumption (2/2 studies, 100%), improved radiographic bone fill (4/5 studies, 80%), and enhanced periodontal parameters distal to the second molar (4/4 studies, 100%); effects on swelling (57%) and alveolar osteitis (33%) were uncertain.
 
-11개 RCT SR — 사랑니 발치 후 CGF(농축성장인자) 적용 시 통증 개선 75%, 진통제 소비 감소 100%, 방사선 골충전 개선 80%, 2대구치 원심 치주 지표 개선 100%; 부기·치조골염 효과는 불명확.
+No meta-analysis was possible due to high heterogeneity in CGF preparation and outcome measurement protocols — this is the first SR exclusively evaluating CGF (not PRP/PRF/L-PRF) for this indication.
+
+## 세줄요약
+
+체계적 문헌고찰(Systematic Review, SR; PROSPERO CRD420251031885) — 11편 RCT(380편 검색) 포함; 건강한 성인 하악 제3대구치 발치 후 농축성장인자(Concentrated Growth Factor, CGF; Medifuge 원심분리기) 적용 평가.
+
+CGF는 통증(6/8편, 75%)·진통제 소비(2/2편, 100%)·방사선 골충전(4/5편, 80%)·제2대구치 원심 치주 지표(4/4편, 100%) 개선에 일관; 부기(57%)·치조골염(Alveolar Osteitis, 33%) 효과는 불명확.
+
+CGF 준비·결과 측정 프로토콜의 높은 이질성으로 메타분석 불가 — PRP·PRF·L-PRF가 아닌 CGF만을 대상으로 한 최초의 SR.
 
 ## Summary
 

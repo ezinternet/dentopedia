@@ -9,7 +9,7 @@ pdf_filename: ferrer-valdivia-2022-complications-simple-exodontia-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review of 3 included studies on complications after simple (non-surgical) tooth extraction; trismus, alveolitis, and retained roots were most prevalent, linked to surgeon experience and surgery duration.
 
 ## 1. Document Information

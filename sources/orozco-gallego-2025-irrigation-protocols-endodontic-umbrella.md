@@ -11,7 +11,7 @@ pdf_filename: orozco-gallego-2025-irrigation-protocols-endodontic-umbrella.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Umbrella review (4 SRs + 9 MAs): PUI most effective for microbial reduction (RD −0.15, p=0.03) and apical healing (RD −0.09, p=0.01); high heterogeneity and variability across irrigant protocols.
 
 ## 1. Document Information

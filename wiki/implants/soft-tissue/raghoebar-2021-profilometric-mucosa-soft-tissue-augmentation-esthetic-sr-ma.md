@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 18 studies (2,185 screened) showing soft-tissue grafting at esthetic-zone implants significantly reduces mid-buccal recession (MD +0.34 mm, p=.002) and increases mucosa thickness (MD +0.66 mm, p<.001) for immediate placement, with stable medium-term outcomes; delayed placement shows recession benefit only.
+EAO 2021 Consensus Conference SR+MA (18 studies, 2,185 screened) examining whether soft-tissue augmentation changes linear and profilometric mucosal dimensions at esthetic-zone implants compared to no grafting, stratified by immediate vs delayed placement timing.
 
-## 한줄요약
+For immediate placement, grafting significantly reduced mid-buccal recession (MD +0.34 mm, 95% CI 0.13–0.56, p=.002) and increased mucosa thickness (MD +0.66 mm, 95% CI 0.35–0.97, p<.001); for delayed placement, grafting reduced recession (MD +0.17 mm, p=.042) but the thickness benefit was not significant (MD +0.22 mm, p=.095); medium-term stability was confirmed.
 
-전치부 임플란트 즉시 식립 시 연조직 이식은 비이식 대비 점막 퇴축 유의하게 감소(MD +0.34 mm)·두께 증가(MD +0.66 mm)를 제공하며, 지연 식립에서는 퇴축 감소 효과만 유의함을 18개 연구 SR+MA로 보고한 EAO 2021 지원 논문.
+Soft-tissue augmentation is most impactful at immediate implant placement in the esthetic zone — delivering both recession protection and genuine tissue volume gain — while delayed placement primarily offers recession reduction, supporting grafting as standard of care for immediate esthetic-zone implants.
+
+## 세줄요약
+
+EAO 2021 합의 지원 SR+MA(18편, 2,185편 검색): 심미 구역 임플란트에서 연조직 이식이 중안면 점막 높이(선형)·두께(윤곽계측)에 미치는 영향을 즉시·지연 식립으로 층화 분석하였다.
+
+즉시 식립 시 이식이 비이식 대비 중안면 점막 퇴축 유의하게 감소(MD +0.34 mm, p=.002)·두께 증가(MD +0.66 mm, p<.001); 지연 식립 시 퇴축 감소(MD +0.17 mm, p=.042)만 유의, 두께 이익 미유의(MD +0.22 mm, p=.095); 중기 안정성 확인.
+
+연조직 이식은 심미 구역 즉시 식립 시 가장 효과적 — 퇴축 예방과 조직 부피 증가 모두 달성; 지연 식립은 주로 퇴축 감소 효과만 있어, 심미 구역 즉시 식립에 이식을 표준 치료로 지지한다.
 
 ## Summary
 

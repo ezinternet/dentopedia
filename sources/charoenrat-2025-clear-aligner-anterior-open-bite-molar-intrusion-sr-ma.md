@@ -16,13 +16,21 @@ text_filename: charoenrat-2025-clear-aligner-anterior-open-bite-molar-intrusion-
 
 기존 [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]]는 투명교정 (Clear Aligner Treatment, CAT)이 sagittal/transverse 이동(torque·정출·회전)에서 고정식 장치 (Fixed Appliance Treatment, FAT)보다 열등하다는 severity boundary만 제시할 뿐, 수직적 문제(anterior open bite)에 대한 상세 메커니즘은 다루지 않았다. 본 SR+MA (Charoenrat 2025)는 open bite 교정 시 CAT이 절치 정출 (incisor extrusion)과 구치 압하 (molar intrusion) 중 무엇으로 overbite를 회복시키는지 정량 분석하고, TAD 병용 고정식 장치 (Fixed Appliance with Temporary Anchorage Devices, FATADs)와 직접 비교한 최초의 SR+MA로 이 수직축 공백을 메운다. 또한 [[wiki/orthodontics/clear-aligner/marinelli-2025-temporary-anchorage-devices-clear-aligner-sr]]가 다룬 CAT+TAD 병용 요법과 대비되는, TAD를 아예 고정식 장치 쪽에 넣은 별도 비교군(FATADs) 구도라는 점에서 임상적 갈림길을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (PRISMA/PROSPERO, 10 studies — 4 non-RCTs + 6 before-after) found CAT increases overbite by 2.77mm mainly via incisor extrusion (U1 +0.87mm, L1 +1.06mm) without significant molar intrusion, whereas FATADs achieve greater overbite gain (+1.64mm more than CAT) via significantly greater U6 (+1.88mm) and L6 (+0.45mm) molar intrusion; CAT shows greater L1 extrusion (+2.35mm) than FATADs; post-treatment stability was good (overbite change only 0.02mm over retention), but certainty of evidence was low to very low throughout.
+SR+MA (PRISMA, PROSPERO CRD42024588198; 10 studies — 6 before-after, 4 non-RCTs; all Invisalign; treatment duration 14–26 months; Chulalongkorn University, Bangkok) of anterior open bite correction with clear aligners (CAT) and comparison to fixed appliances with TADs (FATADs) for overbite, U1/L1 extrusion, and U6/L6 intrusion.
 
-## 한줄요약
+CAT increased overbite by a pooled 2.77 mm (I²=83%) predominantly via incisor extrusion (U1 +0.87 mm, L1 +1.06 mm) with no significant molar intrusion (U6: +0.03 mm, L6: +0.22 mm); FATADs produced 1.64 mm greater overbite gain (p<0.0001) through significantly greater molar intrusion (U6: +1.88 mm, L6: +0.45 mm); post-treatment stability was good (overbite change ≈0.02 mm over ≥6 months retention).
 
-체계적 문헌고찰+메타분석 (PRISMA/PROSPERO, 10편 — non-RCT 4편 + 전후비교 6편): 투명교정 (Clear Aligner Treatment, CAT)은 주로 절치 정출로 overbite를 2.77mm 증가시키며(상악 절치 +0.87mm, 하악 절치 +1.06mm) 구치 압하는 유의하지 않은 반면, TAD 병용 고정식 장치 (FATADs)는 구치 압하(상악 구치 +1.88mm, 하악 구치 +0.45mm)를 통해 CAT보다 overbite를 1.64mm 더 크게 개선함; CAT은 하악 절치 정출이 FATADs보다 2.35mm 더 큼; 유지기간 중 재발은 미미(overbite 변화 0.02mm)했으나 전반적 근거수준은 낮음~매우낮음.
+No RCTs were included; all CAT studies were retrospective; GRADE certainty was low to very low throughout; FATADs cohorts were not matched to CAT cohorts on baseline severity, limiting the direct comparison.
+
+## 세줄요약
+
+SR+MA(PRISMA, PROSPERO CRD42024588198; 10편 — 전후비교 6편·비무작위 4편; 모두 Invisalign; 치료기간 14–26개월; 쭐라롱꼰대학교): 전치부 개교(Anterior Open Bite) 교정 시 투명교정(Clear Aligner Treatment, CAT)의 기전 분석 및 TAD 병용 고정식 장치(Fixed Appliances with Temporary Anchorage Devices, FATADs)와 교합수직거리(Overbite)·절치 정출·구치 압하 결과 비교.
+
+CAT는 overbite를 풀드 2.77 mm(I²=83%) 증가시키며 주로 절치 정출(상악 절치[U1] +0.87 mm, 하악 절치[L1] +1.06 mm)에 의존; 구치 압하는 유의하지 않음(U6: +0.03 mm, L6: +0.22 mm). FATADs는 CAT보다 1.64 mm 더 큰 overbite 획득(p<0.0001) — 구치 압하가 주 기전(U6: +1.88 mm, L6: +0.45 mm); 유지기간 중 재발 미미(overbite 변화 ~0.02 mm, ≥6개월).
+
+RCT 미포함·모두 후향적; GRADE 근거수준 낮음~매우낮음 전반; FATADs군은 CAT군과 초기 골격 심도 불일치 — 직접 비교 해석 주의.
 
 ## 1. Document Information
 

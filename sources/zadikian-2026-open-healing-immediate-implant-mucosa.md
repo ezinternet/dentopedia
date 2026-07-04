@@ -17,13 +17,23 @@ text_filename: zadikian-2026-open-healing-immediate-implant-mucosa.txt
 
 Existing [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] establishes that immediate provisionalization (IPP) of immediate implants supports midfacial soft tissue, but does not isolate the "open healing" socket-management variable (transmucosal seal + bone graft, NO barrier membrane, NO primary flap closure). This SR+MA (Zadikian 2026) extends that synthesis by asking specifically whether *open healing* — provisional/customized abutment as the only socket seal over a particulate bone graft — destabilizes the peri-implant mucosa, finding no penalty vs primary closure (MML SMD −0.26, NS).
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (12 studies, 431 patients / 438 implants; 4 RCTs) finds open healing — immediate transmucosal non-occlusal provisionalization + particulate bone graft without a barrier membrane or primary flap closure — yields limited midfacial mucosal change (MML SMD −0.26, 95% CI −0.71 to 0.18, NS) and comparable papilla/MBL/survival vs primary flap closure.
 
-## 한줄요약
+SR+MA (12 studies, 431 patients / 438 implants;
+
+4 RCTs) finds open healing — immediate transmucosal non-occlusal provisionalization + particulate bone graft without a barrier membrane or primary flap closure — yields limited midfacial mucosal change (MML SMD −0.26, 95% CI −0.71 to 0.18, NS) and comparable papilla/MBL/survival vs primary flap closure.
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 고찰·메타분석(12편, 환자 431명·임플란트 438개, RCT 4편): 즉시식립 시 비폐쇄 치유(차폐막 없이 임시보철/맞춤치유지대주로만 입자형 골이식재를 봉합 없이 덮는 방식, open healing)는 일차봉합 대비 정중협측 점막레벨(Midfacial Mucosal Level, MML) 변화가 미미(SMD −0.26, 유의차 없음)하고 유두·변연골소실·생존율도 동등했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

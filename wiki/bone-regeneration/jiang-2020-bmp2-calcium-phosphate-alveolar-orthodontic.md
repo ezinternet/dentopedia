@@ -13,13 +13,21 @@ source_collection: external
 tags: [BMP2, calcium-phosphate, BioCaP, orthodontic-tooth-movement, alveolar-defect, bone-regeneration, growth-factor, beagle-dog]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized beagle dog study (n=9, 3 groups, 8-week OTM) showing BMP2-functionalized biomimetic calcium phosphate (BioCaP) yields 1.61× more new bone than empty control and 1.25× more than DBB during orthodontic tooth movement, without obstructing movement.
+Randomized beagle dog study (n=9, 3 groups: empty control, DBB, BioCaP) with maxillary first premolar extraction defects immediately grafted and second premolar orthodontically protracted over 8 weeks using standardized force.
 
-## 한줄요약
+BMP2-functionalized biomimetic calcium phosphate (BioCaP) yielded 1.61× more new bone than empty control and 1.25× more than DBB, with 1.92× higher bone mineral density, without slowing orthodontic tooth movement rate; DBB caused 1.87× more root resorption than control.
 
-개 9마리 3군 무작위 연구(8주 OTM) — BMP2 기능화 생체모방 칼슘인산염(BioCaP)이 대조군 대비 신생골 1.61배, DBB 대비 1.25배 형성하면서 교정적 치아 이동을 방해하지 않음.
+BioCaP achieves superior bone regeneration during active orthodontic tooth movement while reducing root resorption risk, making it a promising graft for combined orthodontic-surgical alveolar defect cases.
+
+## 세줄요약
+
+개 9마리 3군 무작위 연구(빈 결손·DBB·BioCaP): 상악 제1소구치 발거 결손을 이식 후 즉시 제2소구치를 8주간 교정력으로 이동(8주 교정적 치아 이동, Orthodontic Tooth Movement, OTM).
+
+BMP2 기능화 생체모방 칼슘인산염(Biomimetic Calcium Phosphate, BioCaP)이 대조군 대비 신생골 1.61배·골밀도 1.92배, DBB 대비 신생골 1.25배; OTM 속도 무영향; DBB는 대조군보다 치근흡수 1.87배 증가.
+
+BioCaP은 교정이동 중 골재생을 촉진하고 치근흡수를 줄여 교정-외과 병행 증례의 골이식 대안으로 유망; DBB의 느린 흡수가 교정력 하 치근흡수를 가중함을 시사.
 
 ## Summary
 

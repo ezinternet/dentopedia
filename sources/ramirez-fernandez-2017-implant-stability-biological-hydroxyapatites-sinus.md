@@ -11,7 +11,7 @@ pdf_filename: ramirez-fernandez-2017-implant-stability-biological-hydroxyapatite
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Split-mouth prospective (10 patients, 60 implants): ISQ trajectory after sinus lift — BBM (bovine HA) baseline 63.8 → 73.5 (3 mo) → 74.65 (6 mo); PBM (porcine HA) 62.6 → 67.0 (3 mo) → 72.9 (6 mo). Higher crystallinity / lower porosity (BBM) → faster early stability gain.
 
 ## 1. Document Information

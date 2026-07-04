@@ -16,13 +16,21 @@ relations:
     target: feldman-2023-metronidazole-disulfiram-reaction-case-control
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Focused literature review (4 databases, 1970–2024, 11 studies): evidence does **not** strongly support a clinically significant disulfiram-like reaction between alcohol and oral metronidazole — case reports say yes, but controlled trials/chart review/animal studies say no — questioning strict alcohol abstinence. (Abstract-only.)
+Focused literature review (PubMed, EMBASE, Cochrane CENTRAL; Jan 1970–Nov 2024; 11 studies) synthesizing 50+ years of heterogeneous evidence on the alleged alcohol–oral metronidazole disulfiram-like reaction. (Abstract-only.)
 
-## 한줄요약
+Evidence split by study design: all 4 case reports and 1 older clinical trial supported a link, while 3 controlled clinical trials, 1 cross-sectional chart review, and 2 animal studies did not — a design-stratified negative verdict.
 
-집중 문헌 리뷰 (4개 DB, 1970–2024, 11편): 알코올과 경구 메트로니다졸 (Metronidazole) 사이의 임상적으로 유의한 디설피람 유사 반응 (Disulfiram-like Reaction) 근거는 **약함** — 증례보고는 양성이나 대조시험·차트리뷰·동물실험은 음성 → 엄격한 금주 권고의 재고 필요. (초록 기반)
+Available evidence does not strongly support a clinically significant alcohol–metronidazole interaction; strict alcohol abstinence counseling during metronidazole therapy may be unnecessary, with relevance to dental prescribing of metronidazole for odontogenic/periodontal anaerobic infections.
+
+## 세줄요약
+
+집중 문헌 리뷰(PubMed·EMBASE·Cochrane CENTRAL; 1970년 1월–2024년 11월; 11편): 알코올-경구 메트로니다졸(Metronidazole) 디설피람 유사 반응(Disulfiram-like Reaction)에 관한 50년 이상의 이질적 근거를 설계 유형별로 분류. (초록 기반)
+
+연구 설계별 분열 결과: 증례보고 4편+구형 임상시험 1편은 연관 지지, 반면 대조 임상시험 3편·단면 차트 리뷰 1편·동물실험 2편은 모두 연관 부재 — 설계 수준이 높을수록 음성.
+
+현행 "메트로니다졸 복용 중 금주" 권고를 뒷받침하는 임상적으로 유의한 상호작용 근거 불충분; 치성·치주 혐기성 감염에서 메트로니다졸 처방 시 엄격한 금주 지시는 재고할 필요 있음.
 
 ## Summary
 

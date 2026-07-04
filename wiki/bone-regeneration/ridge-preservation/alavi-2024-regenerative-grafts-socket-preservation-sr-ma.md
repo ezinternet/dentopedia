@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/alavi-2024-regenerative-grafts-socke
 text_filename: alavi-2024-regenerative-grafts-socket-preservation-sr-ma.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 29 RCTs (1,068 patients, 2010–2023): rhBMP-2 significantly reduces horizontal and vertical bone resorption post-extraction; L-PRF shows no significant benefit over natural healing but remains a cost-effective autologous alternative.
+SR+MA of 29 RCTs (1,068 patients, 2010–2023) evaluating biologic agents (blood-derived growth factors, L-PRF, rhBMP-2) for alveolar socket preservation after tooth extraction.
 
-## 한줄요약
+rhBMP-2 significantly reduces both horizontal (p=.01) and vertical (p<.0008) bone resorption; blood-derived preparations (non-L-PRF) preserve height (p=.001) but not width; L-PRF shows no significant benefit over natural healing in either dimension.
 
-29개 RCT(1,068명) SR+MA: rhBMP-2는 수평(p=.01)·수직(p<.0008) 골흡수를 모두 유의하게 감소시키며, L-PRF는 자연치유 대비 유의하지 않으나 자가유래·비용효과적 대안으로 권고됨.
+L-PRF's clinical role is as a cost-effective autologous option with no evidence of harm — not as a dimensionally superior alternative — and 15 of 29 trials carry high risk of bias, limiting certainty.
+
+## 세줄요약
+
+29개 무작위 대조 시험 (Randomized Controlled Trial, RCT, 1,068명, 2010–2023)의 체계적 문헌고찰 및 메타분석: 혈소판 유래 성장인자·농축혈소판 섬유소 (L-PRF)·재조합 골형성 단백질 (rhBMP-2) 등 생물학적 제제를 발치와 보존술 (Alveolar Ridge Preservation, ARP)에 적용한 연구 종합.
+
+rhBMP-2는 수평(p=.01)·수직(p<.0008) 골흡수를 모두 유의하게 감소; 비-L-PRF 혈액 유래 제제는 높이만 보존(p=.001); L-PRF는 자연치유 대비 유의한 차원적 이득 없음.
+
+15/29편이 높은 비뚤림 위험으로 근거 확실성 제한 — L-PRF는 무해한 자가유래 대안이지만 dimensional superiority 근거 없음을 환자 상담 시 명시해야 함.
 
 ## Summary
 

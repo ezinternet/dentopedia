@@ -18,11 +18,21 @@ relations:
     target: stoilov-2023-macrodesign-length-diameter-bone-quality-isq
 ---
 
-## One-line Summary
-Narrative review concluding implant macrogeometry — larger diameter, conical/tapered shape, thread design, and roughened surface — increases bone-contact area and primary stability, the prerequisite for osseointegration.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰 — macrogeometry(직경·테이퍼·나사·거친표면)가 골접촉 면적·일차안정성을 높여 골유착 기반이 됨.
+Narrative review synthesizing how dental implant macrogeometry (diameter, taper, thread design, surface roughness) governs primary stability, particularly in low-density bone.
+
+Larger diameter and conical/tapered body increase bone-contact area, while thread geometry and surface roughening add mechanical engagement — together forming the basis for osseointegration; no pooled quantitative estimates are provided due to the narrative design.
+
+Macrogeometry should be considered a controllable lever for improving primary stability in compromised bone quality, complementing site-preparation modifications such as underdrilling.
+
+## 세줄요약
+
+임플란트 macrogeometry(직경·테이퍼·나사산·표면거칠기)가 일차안정성에 미치는 영향을 다룬 서술적 고찰.
+
+직경이 크고 테이퍼형 바디는 골접촉 면적을 넓히고, 나사산 디자인·표면 거칠기는 기계적 맞물림을 추가해 함께 골유착의 기반이 됨; 서술적 설계로 통합 수치는 미제공.
+
+저밀도 골에서는 매식체 macrogeometry 선택이 일차안정성 확보의 핵심 lever이며, 언더드릴링 등 오스테오토미 변형과 병행해야 함.
 
 ## Summary
 This narrative review consolidates how macroscopic implant design governs primary stability. It argues that larger diameter and a conical/tapered body increase the contact area with surrounding bone, while thread geometry and surface roughening add further mechanical engagement — together forming the basis for osseointegration. The review positions macrogeometry as a controllable lever, particularly valuable when bone quality is poor and site-preparation modifications alone are insufficient. As a narrative synthesis it frames rather than quantifies, complementing the macrodesign-ISQ measurement literature.

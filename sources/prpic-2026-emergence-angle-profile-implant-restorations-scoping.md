@@ -17,13 +17,23 @@ text_filename: prpic-2026-emergence-angle-profile-implant-restorations-scoping.t
 
 기존 [[implants/soft-tissue/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]]는 연조직 *증대*로 buccal contour를 다루지만, 보철 emergence angle/profile 자체가 변연골 흡수·중안면 퇴축에 미치는 영향은 보강이 필요했다. 본 scoping review (Prpic 2026)는 17편을 종합해 **emergence angle < 30° + concave profile**이 peri-implant 안정에 유리하다는 신호를 정리하며, `wiki/overviews/abutment-emergence-profile-peri-implant-tissue-overview` 종합 페이지의 일차 근거를 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA-ScR scoping review (17 studies, incl. 2 RCT, 1 SR+MA, cross-sectional/retrospective) of implant-restoration emergence angle/profile: an emergence angle < 30° may reduce marginal bone loss (evidence inconclusive), and a concave emergence profile is consistently associated with greater peri-implant soft tissue margin stability and reduced recession.
 
-## 한줄요약
+PRISMA-ScR scoping review (17 studies, incl.
+
+2 RCT, 1 SR+MA, cross-sectional/retrospective) of implant-restoration emergence angle/profile: an emergence angle < 30° may reduce marginal bone loss (evidence inconclusive), and a concave emergence profile is consistently associated with greater peri-implant soft tissue margin stability and reduced recession.
+
+(incomplete)
+
+## 세줄요약
+
 
 임플란트 보철 emergence angle/profile에 관한 17편 scoping review — emergence angle < 30°가 변연골 흡수를 줄일 수 있으나(근거 불확실), concave(오목) emergence profile은 일관되게 peri-implant 연조직 안정·퇴축 감소와 연관된다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

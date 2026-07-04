@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=72 molars) of IPS e.max CAD full-coverage occlusal veneers: only the 0.7/1.0 mm (fissure/cusp) group survived 600,000 masticatory cycles undamaged; thinner groups showed higher fracture with enamel-only bonding; minimum 0.7–1.0 mm recommended.
+In-vitro study (n=72 extracted molars, 3 bonding substrates × 3 thickness subgroups) testing IPS e.max CAD full-coverage occlusal veneers after 7,500 thermal cycles and 600,000 masticatory-load cycles at 10 kg.
 
-## 한줄요약
+Only the thickest group (0.7 mm fissure / 1.0 mm cusp) achieved 100% survival without damage; median fracture load ranged from 610 N (thin, enamel-only) to 3,390 N (thick); both ceramic thickness (p ≤ 0.05) and bonding substrate (p ≤ 0.05) significantly affected outcomes.
 
-In-vitro 연구 (n=72): 리튬 디실리케이트 세라믹 (Lithium Disilicate Ceramic, LDS) 교합면 비니어 (Occlusal Veneer)에서 협착부 0.7 mm/교두 1.0 mm군만 교합 시뮬레이터 무손상 완주; 두께가 파절 저항성 (Fracture Resistance)에 가장 유의한 영향을 줌, 최소 0.7–1.0 mm 권고.
+A minimum of 0.7/1.0 mm is the practical clinical threshold for non-retentive lithium disilicate occlusal veneers; when thickness must be reduced, bonding to dentin or composite resin is significantly superior to enamel alone.
+
+## 세줄요약
+
+시험관 내 연구 (n=72 발거 대구치, 접착 기질 3군 × 두께 3군): IPS e.max CAD 전면피개 교합면 비니어(Occlusal Veneer)를 열순환 7,500회·저작 시뮬레이터 10 kg 600,000회 적용 후 평가.
+
+두꺼운 군(협착부 0.7 mm / 교두 1.0 mm)만 손상 없이 100% 생존; 파절 하중 중앙값은 얇은군+법랑질접착 610 N~두꺼운군 3,390 N, 두께와 기질 모두 유의한 영향(p ≤ 0.05).
+
+임상 최소 두께 0.7/1.0 mm 권고; 두께를 줄여야 하는 경우 법랑질 단독보다 상아질·복합레진 접착이 파절 저항성을 유의하게 높임.
 
 ## Summary
 

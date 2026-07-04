@@ -13,11 +13,19 @@ source_collection: external
 tags: [tmd, dc-tmd, oppera, biopsychosocial, epidemiology, aetiology, diagnosis, management, narrative-review]
 ---
 
-## One-line Summary
-Narrative review (Oral Surgery 2020): TMD is biopsychosocial/multifactorial; DC/TMD covers 12 diagnoses; OPPERA — 4% annual incidence, 36% adult prevalence; conservative multidisciplinary treatment is standard of care.
+## Three-line Summary
+Narrative review (Oral Surgery 2020) synthesizing TMD etiology, diagnosis, and management across the OPPERA cohort and DC/TMD literature; biopsychosocial framework.
 
-## 한줄요약
-서술 고찰 (2020): TMD 생물심리사회적·다인성; DC/TMD 12진단; OPPERA 데이터 성인 36% 유병률; 보존적 다학제 치료 표준.
+OPPERA data show 4% annual incidence and 36% adult prevalence of painful TMD; 51% remit within 8 months; DC/TMD classifies 12 diagnoses reliably.
+
+Conservative multidisciplinary management is standard of care; irreversible interventions are contraindicated as first-line; TMJ clicking alone does not equal pathology.
+
+## 세줄요약
+서술 고찰 (Oral Surgery 2020): OPPERA 코호트와 DC/TMD 문헌을 바탕으로 TMD 병인·진단·치료를 생물심리사회 모델로 종합.
+
+OPPERA 데이터: 연간 발생률 4%, 성인 유병률 36%, 8개월 내 자연 관해 51%; DC/TMD 12개 진단 기준 신뢰도 확인.
+
+보존적 다학제 치료가 표준이며, 비가역적 중재는 1차 치료로 금기; 관절 잡음만으로는 병적 상태가 아님.
 
 ## Summary
 Comprehensive narrative review covering current understanding of TMD etiology, pathophysiology, epidemiology, and management. TMD is positioned as a biopsychosocial condition driven by three domains: psychological profile, pain amplification, and global health. Key epidemiological anchor: OPPERA study shows 4% annual incidence and 36% adult prevalence of painful TMD; TMJ clicking (30%) does not equal disc displacement diagnosis (8%); 51% remit within 8 months. DC/TMD provides reliable, valid diagnosis across 12 conditions. Evidence supports conservative multidisciplinary management; irreversible interventions discouraged.

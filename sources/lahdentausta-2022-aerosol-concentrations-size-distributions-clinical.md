@@ -17,13 +17,23 @@ text_filename: lahdentausta-2022-aerosol-concentrations-size-distributions-clini
 
 사용자 요청: 하이스피드(에어터빈)·로우스피드 치과 엔진(핸드피스) 관련 논문을 PubMed 풀텍스트로 인제스트. 신규 `dental-handpiece` 카테고리의 첫 임상 정량 근거 — 84명 253건 실제 진료에서 에어터빈 vs 하이스피드 vs 로우스피드 핸드피스의 에어로졸 생성량을 입자크기별로 직접 측정한 드문 real-clinical 데이터. 같은 카테고리의 manikin 실험 [[dental-handpiece/matys-2020-dental-aerosol-hazard-risk-dental]]를 실제 환자 데이터로 보강·대비한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Clinical observational study (84 patients, 253 procedures, optical particle sizer) finding air turbine handpieces generated the highest <1 μm and total aerosol concentrations, while high- and low-speed handpieces and ultrasonic scalers elevated aerosol vs oral examination — supporting substitution of air turbine with high-speed handpiece in poor epidemic conditions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 실제 진료 관찰연구(환자 84명·253건, 광학입자측정기) — 에어터빈 핸드피스가 <1 μm 미세·총 에어로졸을 가장 많이 생성했고 하이스피드·로우스피드 핸드피스와 초음파 스케일러도 구강검진 대비 에어로졸을 유의하게 높였으며, 감염 위험 상황에서 에어터빈을 하이스피드 핸드피스로 대체할 것을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

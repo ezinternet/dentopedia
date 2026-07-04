@@ -13,11 +13,21 @@ source_collection: external
 tags: [primary stability, five thread guideline, immediate implant, CBCT, virtual planning, socket stabilization]
 ---
 
-## One-line Summary
-Case letter (3 immediate-placement cases): proposes the Five Thread Guideline (5-TG) — at least five implant threads must engage native bone to predict adequate primary stability — applied via CBCT virtual planning (SIMPLANT 17, bone rendering toggled off) plus a "socket stabilization" (bi-/tri-socket wall) concept; all 3 cases achieved successful osseointegration without complications.
+## Three-line Summary
 
-## 한줄요약
-즉시식립 3증례 케이스 레터로, 임플란트 나사산 (Thread) 최소 5개 이상이 원래 골에 접촉해야 1차 안정성 (Primary Stability)을 예측할 수 있다는 '5-TG' 가이드라인을 CBCT 가상 계획으로 적용함.
+Case letter (3 immediate-placement cases) proposing the Five Thread Guideline (5-TG): a minimum of five implant threads must engage native bone — assessed via CBCT virtual planning with SIMPLANT 17 (bone rendering toggled off) — to predict adequate primary stability, supplemented by a "socket stabilization" concept of bi- or tri-socket wall engagement.
+
+All three cases achieved successful osseointegration at 4–4.5 months with no complications; the 5-TG correctly predicted adequate primary stability in each case pre-surgically.
+
+The 5-TG provides a practical pre-surgical CBCT-based decision tool for predicting IIP primary stability; however, validation is limited to 3 cases and the guideline requires prospective clinical testing before broader adoption.
+
+## 세줄요약
+
+즉시식립 3증례 케이스 레터: CBCT 가상 계획 (SIMPLANT 17, 골 렌더링 끔)으로 임플란트 나사산 최소 5개가 원래 골에 접촉하는지 확인하는 '5-TG' 가이드라인과 격벽·소켓벽 2–3면 고정(socket stabilization) 개념 제안.
+
+3증례 모두 4–4.5개월 내 합병증 없이 골유착 성공; 5-TG는 수술 전에 충분한 초기 안정성을 정확히 예측.
+
+5-TG는 즉시식립 초기 안정성 예측을 위한 실용적 CBCT 기반 의사결정 도구이나, 3증례 한정 검증으로 광범위 적용 전 전향적 임상시험이 필요하다.
 
 ## Summary
 This case letter introduces the Five Thread Guideline (5-TG), recommending that a minimum of five implant cylinder threads must engage native bone to predict adequate primary stability in immediate or healed implant placement. Three cases of immediate extraction and implant placement were planned using CBCT with SIMPLANT 17 software, where bone rendering was toggled off to visualize and count thread engagement virtually. Additional stability was assessed by "socket stabilization" — bi-socket (2 socket walls) or tri-socket (3 walls) engagement. All three cases achieved successful osseointegration and final restoration without complications.

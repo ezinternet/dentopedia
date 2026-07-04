@@ -9,7 +9,7 @@ pdf_filename: mills-2017-aphthous-stomatitis-oral-medicine-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RAS 임상 양상, 병인론(면역·유전·영양·스트레스), 치료 옵션 고찰.
 
 ## 1. Document Information

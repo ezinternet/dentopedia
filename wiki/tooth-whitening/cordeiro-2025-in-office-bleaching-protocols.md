@@ -18,13 +18,21 @@ relations:
     target: centenaro-2025-low-vs-high-hp-in-office
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro RCT (n=154 premolars, 11 protocol groups) across two sessions found that 2×8-min and 1×24-min in-office protocols achieve equivalent whitening to 3×8 min with lower pulp HP penetration; 1×8 min is insufficient; second session is essential for clinically meaningful WI change.
+In vitro controlled study (n=154 extracted human premolars, 11 protocol groups × n=14) systematically comparing in-office bleaching application protocols (number and duration of gel applications) across two commercial products and two sessions 7 days apart.
 
-## 한줄요약
+The 2×8-min and 1×24-min protocols achieved whitening index (WI) equivalent to the standard 3×8-min protocol with intermediate pulp HP penetration; 1×8 min was insufficient for clinically meaningful WI change; the second session was essential across all protocols.
 
-인비트로 RCT(n=154 소구치)에서 2×8분과 1×24분 인체 프로토콜은 3×8분과 동등한 미백 효과를 보이면서 치수 HP 침투가 더 낮았고, 1×8분은 효과 부족, 2회 세션이 임상적 WI 변화에 필수적이었다.
+The 2×8-min protocol is the optimal clinical balance — equivalent whitening to 3×8 min with lower pulp HP exposure and 8 fewer chair minutes per session; findings are in vitro only (no clinical sensitivity outcomes).
+
+## 세줄요약
+
+추출 인체 소구치(n=154, 11군 × n=14)에서 진료실 미백 적용 프로토콜(도포 횟수·시간)을 두 상용 제품, 7일 간격 2회 세션으로 체계적으로 비교한 인비트로 연구.
+
+2×8분과 1×24분 프로토콜이 표준 3×8분과 동등한 WI 달성 + 치수 HP 침투 더 낮음; 1×8분은 임상적 WI 변화 불충분; 모든 프로토콜에서 2회 세션 필수.
+
+2×8분 프로토콜이 최적 임상 균형 — 3×8분과 동등한 미백, 치수 HP 노출 낮음, 세션당 의자 시간 8분 절감; 결과는 인비트로(임상 민감도 결과 없음).
 
 ## Summary
 

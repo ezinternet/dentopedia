@@ -10,7 +10,7 @@ pdf_filename: shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.pd
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
 
 ## 2. Key Contributions

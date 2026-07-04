@@ -16,13 +16,21 @@ text_filename: yassir-2022-cat-vs-fat-overview-systematic-reviews.txt
 tags: [clear-aligner, fixed-appliance, umbrella-review, effectiveness, malocclusion-severity, root-resorption, periodontal, relapse]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Overview of 18 systematic reviews: CAT is effective for mild-to-moderate malocclusion but inferior for severe cases and specific movements (torque, extrusion, rotation); periodontal health better and root-resorption risk lower with CAT, relapse greater, duration possibly shorter in mild cases; overall evidence moderate.
+Overview (umbrella review) of systematic reviews (PROSPERO CRD42021246855; 361 SRs screened → 18 included) — the highest-level synthesis comparing clear aligner treatment (CAT) to fixed appliance treatment (FAT) across efficacy, adverse effects, periodontal health, relapse, duration, and comfort.
 
-## 한줄요약
+CAT is clinically effective for mild-to-moderate malocclusion (largely non-extraction) but produces inferior outcomes in severe cases and for specific difficult movements (anterior torque, extrusion, rotation); periodontal health is better with CAT (removable, better hygiene access), root-resorption risk tends lower, but relapse is greater and treatment-duration evidence is conflicting (possibly shorter in mild-moderate).
 
-SR 18편 통합 umbrella review: 투명교정은 경증~중등도엔 유효하나 중증·특정 이동(torque·정출·회전)엔 열등. 치주건강 CAT 우위, 치근흡수 위험 더 낮음, 재발 더 큼, 기간은 경증에서 더 짧을 수 있음. 전반 근거수준 moderate.
+This umbrella review establishes the core case-selection rule for the entire aligner literature: aligners as a legitimate first-line option in mild-to-moderate crowding/spacing, with caution or fixed-appliance preference where torque, extrusion, rotation, or severe discrepancy dominate; overall evidence rated moderate (abstract-only ingest).
+
+## 세줄요약
+
+SR 통합 umbrella review (PROSPERO CRD42021246855; 361편 검색 → 18편 포함): 효능·부작용·치주 건강·재발·기간·편의 전반에서 투명교정(CAT) vs 고정장치(FAT)를 비교한 최고 수준 합성.
+
+CAT는 경증~중등도 부정교합(주로 비발치)에 임상적으로 유효하나 중증 케이스 및 특정 어려운 이동(전치 torque·정출·회전)에서 열등; 치주 건강은 CAT 우위(가철식, 위생 접근 용이), 치근흡수 위험 낮은 경향, 재발은 CAT에서 더 큼, 기간 근거 상충(경증에서 더 짧을 수 있음).
+
+이 umbrella review는 전체 투명교정 문헌의 핵심 케이스 선택 원칙을 정립: 경증~중등도 총생/공간에서 정당한 1차 옵션, torque·정출·회전·중증 불일치가 지배적인 경우 주의 또는 FA 선호; 전반 근거수준 moderate (초록만 확보).
 
 ## Summary
 

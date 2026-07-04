@@ -20,13 +20,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro sawbone bench study (27 blocks, 3 ridge widths × 3 drilling protocols): reverse (counter-clockwise) Densah osseodensification drilling expanded narrow ridges (6.75 mm) significantly more than standard forward drilling, but only in narrow bone — at the cost of higher induced bone stress and significantly shallower implant insertion depth from elastic rebound.
+In-vitro sawbone bench study (27 blocks, 3 ridge widths × 3 drilling protocols: Densah/OD reverse 1500 rpm, modified OD reverse 200 rpm, standard forward 1600 rpm) testing whether reverse counter-clockwise drilling expands narrow alveolar ridges.
 
-## 한줄요약
+Densah/OD reverse drilling expanded narrow ridges (6.75 mm) significantly more than standard forward drilling (p<0.05), but the expansion benefit disappeared at 7.25 and 7.75 mm — it is conditional on narrow bone only.
 
-인공골(sawbone) 벤치 실험(27블록, 골폭 3종 × 드릴링 3종): 반시계(역회전, reverse) Densah 골밀도화(Osseodensification, OD) 드릴은 좁은 치조제(6.75 mm)에서만 표준 정회전보다 골폭을 유의하게 확장했지만, 더 큰 골 응력과 탄성 반발 때문에 임플란트 식립 깊이는 유의하게 더 얕았다.
+The OD group seated implants at a significantly shallower depth than both other protocols (p≈0.005), due to elastic rebound from compacted bone narrowing the prepared site — a quantified trade-off that limits OD's depth-of-seating when expansion is achieved.
+
+## 세줄요약
+
+인공골 (Sawbone 35 PCF) 벤치 실험 (27블록, 치조제 폭 3종 × 드릴링 3종): Densah 역회전 1500 rpm, 변형 OD 역회전 200 rpm, 표준 정회전 1600 rpm 비교.
+
+Densah 역회전은 좁은 치조제 (6.75 mm)에서만 표준 정회전 대비 유의하게 더 많은 골폭 확장 (p<0.05); 7.25/7.75 mm에서는 군 간 차이 없음 — 확장 이익은 좁은 골에만 조건부.
+
+OD군은 탄성 반발 (Elastic Rebound)로 인해 임플란트 식립 깊이가 다른 두 군보다 유의하게 얕음 (p≈0.005) — 확장 이득과 삽입 깊이 감소의 정량적 트레이드오프 확인.
 
 ## Summary
 

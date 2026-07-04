@@ -17,13 +17,23 @@ text_filename: lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma.txt
 
 Clear-aligner (CA) limitations / masticatory-function batch. Reinforces and quantifies [[wiki/orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — that SR asked the same masticatory-muscle question but synthesized qualitatively; this 2024 SR+MA (European Journal of Orthodontics) adds a pooled random-effects meta-analysis of masseter and temporalis surface EMG (sEMG) during clear aligner treatment (CAT), letting the wiki state quantitatively that the pooled difference is non-significant (effect size masseter 0.20, temporalis 0.24, both CIs cross 0). Pairs with the broader CA-efficacy anchor [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] and the umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (6 studies, 108 adults, NOS low–moderate RoB; PROSPERO CRD42024522231): clear aligner treatment transiently raised masseter sEMG at maximal clench then it fell, with mixed temporalis/resting responses, but the pooled meta-analysis found a NON-significant difference in masseter and temporalis activity — evidence too thin for firm conclusions.
 
-## 한줄요약
+SR+MA (6 studies, 108 adults, NOS low–moderate RoB;
+
+PROSPERO CRD42024522231): clear aligner treatment transiently raised masseter sEMG at maximal clench then it fell, with mixed temporalis/resting responses, but the pooled meta-analysis found a NON-significant difference in masseter and temporalis activity — evidence too thin for firm conclusions.
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰+메타분석(6편, 성인 108명, NOS 비뚤림 낮음–중등도): 투명교정(CAT)은 최대 악물기(MVC)에서 교근(masseter) 표면근전도가 초기 증가 후 감소했고 측두근(temporalis)·안정위 반응은 혼재했으나, 통합 메타분석에서는 교근·측두근 활성도 차이가 통계적으로 유의하지 않아(masseter ES 0.20, temporalis 0.24, 둘 다 95% 신뢰구간이 0 포함) 확정 결론을 내리기엔 근거가 부족하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

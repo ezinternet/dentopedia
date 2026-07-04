@@ -13,11 +13,21 @@ source_collection: external
 tags: [srp, scaling-root-planing, probing-depth, initial-probing-depth, clinical-attachment-level, chronic-periodontitis, non-surgical-treatment, multi-rooted, single-rooted, attachment-gain]
 ---
 
-## One-line Summary
-Prospective clinical study (JIUFD 2016; 15 chronic periodontitis patients, 1,672 pockets of 3–9 mm IPD) on initial probing depth (IPD) and SRP response: PD reduction was significant in all groups except IPD=3 mm and correlated positively with IPD; single-rooted teeth gained attachment (AG) significantly at all IPD ≥4 mm, whereas multi-rooted teeth showed significant AG only at IPD ≥7 mm.
+## Three-line Summary
 
-## 한줄요약
-초기 탐침 깊이(IPD)와 SRP 치료반응 전향적 연구 (JIUFD 2016): 1,672포켓/15명; IPD=3mm 제외 전 군 PD 감소 유의; 단근치 부착획득(Attachment Gain, AG) 전 군 유의; 다근치 AG는 IPD≥7mm만 유의.
+Prospective clinical study (JIUFD 2016; 15 chronic periodontitis patients, 1,672 pockets with 3–9 mm initial probing depth, OHI + SRP in two sessions, reassessment at 8 weeks) examining how initial probing depth (IPD) and root anatomy determine SRP treatment response.
+
+PD reduction was significant in all IPD groups except 3 mm and correlated positively with IPD; single-rooted teeth showed significant attachment gain (AG) at all IPD ≥4 mm, while multi-rooted teeth showed significant AG only at IPD ≥7 mm.
+
+The key clinical implication is anatomy-dependent thresholds: the IPD=3 mm group yields no meaningful AG in any root type, and multi-rooted teeth require IPD ≥7 mm before attachment gain can be expected from NSPT alone.
+
+## 세줄요약
+
+전향적 임상 연구 (JIUFD 2016; 만성 치주염 15명, 1,672포켓, IPD 3–9 mm, OHI + SRP 2회, 8주 후 재평가): 초기 탐침깊이와 치근 형태에 따른 SRP 치료반응 분석.
+
+IPD=3 mm 군을 제외한 모든 군에서 탐침깊이 감소 유의하고 IPD와 양의 상관관계; 단근치는 IPD ≥4 mm에서 모두 부착획득(AG) 유의, 다근치는 IPD ≥7 mm에서만 유의.
+
+핵심 임상 의의는 해부학적 역치: IPD=3 mm 포켓은 어떤 치근 형태에서도 의미 있는 AG 없고, 다근치는 IPD ≥7 mm 이상이어야 NSPT 단독으로 부착획득이 기대된다.
 
 ## Summary
 Prospective clinical study quantifying the relationship between initial probing depth (IPD) and clinical response to non-surgical periodontal treatment (SRP) in 15 chronic periodontitis patients. Total: 1,672 periodontal pockets (3–9 mm IPD). Treatment: OHI + SRP in two sessions. Measurements at baseline and 8 weeks post-treatment: probing depth (PD), clinical attachment level (CAL), gingival recession (GR). Pockets grouped by IPD value and root number (single- vs multi-rooted).

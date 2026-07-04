@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA (7 studies) of osseodensification (OD) vs conventional drilling in low-density bone: no significant ISQ difference for primary (MD=4.13, p=0.13) or secondary (MD=1.78, p=0.11) stability, nor for MBL or plaque index; OD favored only on 12-month probing depth and palatal crestal bone level — narrowing OD's defensible advantage and challenging claims of universal stability benefit.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (7개 연구): 저밀도골에서 골밀도화(Osseodensification, OD) vs 일반 절삭드릴(Conventional Drilling, CD) — 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 기준 1차(MD=4.13, p=0.13)·2차(MD=1.78, p=0.11) 안정성 모두 유의차 없음. 변연골소실(Marginal Bone Loss, MBL)·치태지수(Plaque Index, PI)도 차이 없음. 12개월 prob depth(Probing Depth, PD)만 OD 유의 낮음, 구개측 치조정골(Crestal Bone Level, CBL)도 OD 유리. 결론: 장기 우월성 입증 부족 — 더 많은 RCT 필요.
+SR+MA (7 studies, follow-up 4–12 months) comparing osseodensification (OD) vs conventional drilling (CD) specifically in low-density bone, with ISQ-based stability as the primary outcome.
+
+Primary stability: MD=4.13 (p=0.13, NS); secondary stability: MD=1.78 (p=0.11, NS); MBL and plaque index showed no significant differences; OD was favored only on 12-month probing depth and palatal crestal bone level.
+
+OD does not universally improve implant stability in low-density bone by ISQ metrics — claimed advantages are narrower than marketed, and longer standardized RCTs are needed.
+
+## 세줄요약
+
+SR+MA (7개 연구, 추적 4–12개월) — 저밀도골에서 골밀도화 (Osseodensification, OD) vs 일반 절삭드릴 (Conventional Drilling, CD), 주요 결과는 임플란트 안정성 지수 (Implant Stability Quotient, ISQ).
+
+1차 안정성 MD=4.13 (p=0.13, 유의차 없음); 2차 안정성 MD=1.78 (p=0.11, 유의차 없음); 변연골소실 (MBL)·치태지수도 차이 없음; 12개월 탐침 깊이 (Probing Depth, PD)와 구개측 치조정골 (Crestal Bone Level, CBL)만 OD 유리.
+
+OD가 ISQ·생존율 기준 저밀도골에서 명확한 우월성 미입증 — 마케팅 주장보다 방어 가능한 이점 좁음; 장기 RCT 부족.
 
 ## Summary
 Systematic review and meta-analysis of 7 studies comparing osseodensification vs conventional drilling specifically in low-density bone, using ISQ-based stability outcomes plus periodontal indices.

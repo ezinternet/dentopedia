@@ -9,7 +9,7 @@ pdf_filename: munjal-2015-implants-low-density-bone-d3d4.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Clinical study (n=14, D3/D4 bone, Maestro™ implants, 12-month follow-up): 92.3% survival rate; mean bone loss not statistically significant; specially designed implants viable in poor bone quality.
 
 ## 1. Document Information

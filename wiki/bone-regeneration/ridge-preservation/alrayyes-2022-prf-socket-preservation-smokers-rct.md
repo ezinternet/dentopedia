@@ -16,13 +16,21 @@ relations:
     target: kollati-2019-cerabone-prf-socket-preservation-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Four-arm single-blind RCT (n=18 heavy smokers, 40 upper molar sockets) comparing A-PRF, sticky bone+A-PRF, FDBA+collagen membrane, and resorbable collagen plug for soft-tissue healing: A-PRF groups significantly superior on mesio-distal closure (p=0.012) and healing index (p<0.0001); collagen plug alone was worst.
+Four-arm single-blind RCT (n=18 current heavy smokers, 40 upper molar sockets, King Saud University) comparing A-PRF alone, sticky bone+A-PRF, FDBA+collagen membrane, and resorbable collagen plug over 28 days.
 
-## 한줄요약
+Both A-PRF groups significantly outperformed the collagen plug on mesio-distal closure (p=0.012) and healing index (p<0.0001); A-PRF and sticky bone+A-PRF were statistically equivalent — sticky bone adds no soft-tissue benefit over A-PRF alone.
 
-흡연자 대상 4군 RCT (n=18, 소켓 40개): A-PRF 및 A-PRF+sticky bone이 콜라겐 플러그 단독 대비 유의하게 우수한 연조직 폐합 (p=0.012) 및 치유 지수 (p<0.0001) — 흡연 환경에서 PRF의 부분적 보상 효과 확인.
+PRF partially compensates for smoking-impaired healing and is the preferred option in heavy smokers, while collagen plug alone is insufficient; no radiographic bone data were captured at 28 days.
+
+## 세줄요약
+
+흡연자 (≥10개비/일) 대상 4군 단일맹검 무작위 대조 시험 (Randomized Controlled Trial, RCT, n=18, 소켓 40개): 진행형 농축혈소판 섬유소 (Advanced Platelet-Rich Fibrin, A-PRF) 단독, 끈적골 (sticky bone)+A-PRF, 동결건조 동종골 (Freeze-Dried Bone Allograft, FDBA)+교차결합 콜라겐 막, 흡수성 콜라겐 플러그 비교.
+
+A-PRF 양 군이 근원심 연조직 폐합(p=0.012) 및 치유 지수(p<0.0001)에서 콜라겐 플러그 단독보다 유의하게 우수; A-PRF 단독 = 끈적골+A-PRF (통계적 동등).
+
+흡연 환경에서 PRF가 치유 장애를 부분 보상 — 콜라겐 플러그 단독은 흡연자에게 불충분; 28일 시점 방사선 골 자료 없음.
 
 ## Summary
 

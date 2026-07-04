@@ -15,13 +15,23 @@ text_filename: terra-2025-effect-at-home-agents-nma.txt
 
 The first Bayesian network meta-analysis (NMA) directly ranking all at-home bleaching concentrations (CP 5%–37% and HP 2%–16%) for efficacy — fills the gap left by pairwise RCTs in [[tooth-whitening/terra-2025-at-home-bleaching-concentration-tooth-sensitivity]], which compared individual concentrations but could not produce a ranked network. The same research group (Loguercio/Reis) enabling direct comparison with their earlier work.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR + Bayesian NMA of 81 eligible RCTs (53 in NMA) found most at-home bleaching concentrations equally efficacious except extreme concentrations (CP 5% and HP 2–4% inferior to CP 15–17% and HP 14–16%), with low quality of evidence.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 81편 RCT의 SR + 베이지안 NMA에서 극단적 농도 제외 시 대부분의 재가 미백 농도는 동등한 효과를 보였으며, 근거 수준은 낮았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

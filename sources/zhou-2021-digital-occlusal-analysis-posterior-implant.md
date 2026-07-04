@@ -13,13 +13,23 @@ source_collection: external
 
 Occlusal force evolution after single posterior implant crown delivery is poorly quantified; this prospective 6-month T-Scan pilot provides one of the few longitudinal datasets directly measuring how implant prosthesis bite force changes across time points. Reinforces and contextualizes [[wiki/occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]], which similarly uses digital occlusal analysis for implant force evaluation.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective pilot (n=32 restorations, 30 patients) using T-Scan III at 5 time points found that single posterior implant prosthesis occlusal force increased ~2× from 2 weeks to 3 months post-placement, then stabilized, improving masticatory ability while maintaining light-contact guidelines.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후방 단일 임플란트 보철 32개를 T-Scan III로 5회 측정한 전향적 파일럿 연구에서, 임플란트 교합력은 장착 2주~3개월 사이 약 2배 증가 후 안정화되었으며, 즉시 교합 회복으로 저작 능력이 개선됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 
 표면 카테고리 신경향 입력. [[implants/surface/jadhav-2026-dental-implant-surface-review]]가 표면개질 전반을 다룬 데 비해, 본 리뷰는 나노입자 코팅의 in vitro/in vivo 검증 증거에 집중해 antibacterial/osseointegration 코팅 근거를 보강.
 
-## One-line Summary
-Narrative review — nanoparticle coatings (metal/metal-oxide, polymer, bioceramic) on dental implants improve osseointegration, cell adhesion, and antibacterial/anti-peri-implantitis performance in in vitro/in vivo testing.
+## Three-line Summary
 
-## 한줄요약
-내러티브 리뷰: 임플란트 나노입자 코팅(금속/금속산화물·고분자·바이오세라믹)이 in vitro/in vivo에서 골유착·세포부착·항균(주위염 억제) 성능을 향상.
+Narrative review (J Composites Science 2025, Romanian universities) consolidating in vitro and in vivo evidence for nanoparticle coatings — metal/metal-oxide (Ag, TiO2), polymer, and bioceramic (HA) — applied to dental implant surfaces.
+
+Tested coatings improved osseointegration, cell adhesion and proliferation, and provided antibacterial action that reduces peri-implant infection risk, serving dual osseointegration-promotion and infection-prevention functions.
+
+Evidence base is predominantly preclinical (in vitro cell assays + animal models); nanoparticle safety, long-term durability, and clinical translation remain unresolved limitations of this narrative review.
+
+## 세줄요약
+
+내러티브 리뷰 (J Composites Science 2025, 루마니아 대학교) — 금속/금속산화물(Ag, TiO2)·고분자·바이오세라믹(HA) 나노입자 코팅의 in vitro/in vivo 검증 근거를 통합.
+
+검증된 코팅들은 골유착 (Osseointegration) 및 세포 부착·증식을 개선하고 항균 작용으로 임플란트 주위 감염 위험을 감소시키는 이중 기능을 제공.
+
+근거 기반이 전임상(in vitro 세포 분석 + 동물 모델) 중심으로, 나노입자 안전성·장기 내구성·임상 전환 가능성은 아직 미해결 한계로 남아 있음.
 
 ## 1. Document Information
 - Journal of Composites Science 2025;9:140 (MDPI). Open access. Romanian universities.

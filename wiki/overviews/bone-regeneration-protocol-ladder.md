@@ -27,13 +27,21 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 > - 임상 takeaway: 발치 후 임플란트 계획이 있으면 자연 치유만으로는 수평 폭이 가장 흔히 부족해지므로, 협측 thin (협측골 두께 BBT < 1 mm) 부위에서는 ARP의 이득이 가장 크다.
 > - 본 페이지는 발치 후 ARP에 집중하며, 이미 흡수된 능선을 재건하는 수평·수직 골증대 (GBR) 와 즉시 식립 결정 ladder는 별도 페이지로 위임한다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/overview decomposing the post-extraction alveolar ridge preservation (ARP) decision into a 4-axis protocol ladder — natural-healing resorption, ARP effect size, graft-material comparison, and membrane/flap/soft-tissue-seal combinations; the core thesis is that untreated sockets lose ≈−3.79 mm horizontal width (29–63%) and ≈−1.24 to −1.67 mm buccal vertical height at 6 months (horizontal loss dominant), ARP reduces horizontal resorption by ≈1.86–2.19 mm (so ARP is first-line when immediate placement is impossible and 4–6 months of healing are needed), graft materials (allograft/xenograft/alloplast) differ little clinically with DBBM/Bio-Oss ≈ autogenous bone, and collagen membrane + DBBM is the standard combination with autologous soft-tissue grafts (FGG) best for esthetic-zone height preservation. The clinical takeaway is a socket-defect-driven decision tree (intact 4-wall → flapless Bio-Col; buccal defect → flap + DBBM + dPTFE; esthetic defect → add FGG/CTG), with GBR of already-resorbed ridges and immediate-placement decisions delegated to separate pages.
+Synthesis decomposing the post-extraction alveolar ridge preservation (ARP) decision into a 4-axis protocol ladder: untreated sockets lose ≈−3.79 mm horizontal width (29–63%) and ≈−1.24 to −1.67 mm buccal vertical height at 6 months with horizontal loss dominant (Tan 2012, Vanderweijden 2009, Couso-Queiruga 2021 SRs); ARP reduces horizontal resorption by ≈1.86–2.19 mm vs natural healing (Bassir 2018, Troiano 2018 SR+MAs), making ARP first-line when immediate placement is not possible.
 
-## 한줄요약
+Graft materials (allograft/xenograft/alloplast) differ minimally in clinical outcomes — DBBM/Bio-Oss ≈ autogenous bone (Majzoub 2019, Pezzella 2026) — so material selection is driven by cost and resorption profile; collagen membrane + DBBM is the standard combination, with autologous soft-tissue grafts (FGG) best for esthetic-zone height preservation (Lopez-Pacheco 2021 SR+MA, Del-Fabbro 2022 NMA).
 
-치조제 보존술 (Alveolar Ridge Preservation, ARP) 의사결정 ladder. 자연 치유 dimensional change · graft material 비교 · membrane/flap 조합 · soft tissue seal 4축. EFP/AO consensus + Cochrane review spine.
+Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket → flapless Bio-Col (DBBM + collagen membrane); buccal defect (1–2 walls) → flap + DBBM + dPTFE (remove at 4–6 weeks); esthetic-zone defect → add FGG/CTG; dPTFE exposure is by design, not failure; GBR of already-resorbed ridges and immediate-placement decisions are delegated to separate pages.
+
+## 세줄요약
+
+치조제 보존술 (Alveolar Ridge Preservation, ARP) 4축 결정 ladder 종합 — 자연 치유 흡수(수평 −3.79mm, 수직 −1.24~1.67mm, 6개월; 수평 우세), ARP 효과(수평 1.86–2.19mm 감소), 이식재 비교, 차폐막·연조직봉쇄 조합.
+
+이식재 간 임상 차이는 미미(Bio-Oss ≈ 자가골); 표준 조합 = DBBM + 콜라겐 차폐막, 심미부위 높이 보존 최우수 = 유리치은이식(Free Gingival Graft, FGG); dPTFE 차폐막은 노출이 설계 의도로 실패가 아님.
+
+임상 결론: 소켓 결손 기반 결정 트리 — 4벽 온전 → flapless Bio-Col; 협측 결손 → 판막+DBBM+dPTFE; 심미부위 결손 → FGG/CTG 추가; 이미 흡수된 능선 재건(GBR)·즉시식립 결정은 별도 페이지 위임.
 
 ## Summary
 

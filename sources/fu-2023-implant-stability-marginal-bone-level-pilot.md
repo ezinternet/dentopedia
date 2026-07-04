@@ -13,13 +13,23 @@ source_collection: external
 
 ISQ 시계열 데이터(2개월~24개월)와 MBL 상관관계를 동시에 추적한 2년 전향적 코호트가 부재했음. 본 연구(Fu et al. 2023, n=156 임플란트)는 primary ISQ→secondary ISQ 회복 궤적과 MBL에 대한 bone density·IT의 상대적 영향력을 정량화하여 [[wiki/overviews/implants-isq-stability-ladder]]의 ISQ 해석 프레임워크를 보강하고, [[wiki/overviews/isq-loading-threshold]]의 임계값 근거를 임상 코호트 관점에서 검증하기 위해 인제스트.
 
-## One-line Summary
+## Three-line Summary
+
 
 2-year prospective pilot study (n=90 patients, 156 implants, Kaohsiung) tracking ISQ from surgery through 24 months and MBL at 7 time points, finding bone density and insertion torque — not primary ISQ — are the dominant predictors of marginal bone loss.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 90명·156개 임플란트 2년 전향적 파일럿 연구(고슝): ISQ 추적(수술~24개월) 및 7시점 MBL 측정에서 변연골 소실의 주 예측인자는 primary ISQ가 아닌 골밀도·삽입 토크였음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

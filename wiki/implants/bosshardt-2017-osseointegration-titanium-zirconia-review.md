@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Periodontology 2000, 2017) synthesizing preclinical osseointegration biology for cpTi, TiZr, Ti6Al4V, and zirconia implants — TiZr matches cpTi in %BIC, Ti6Al4V underperforms with more multinucleated giant cells, and SLActive accelerates early bone apposition over SLA.
+Narrative review (Periodontology 2000, 2017) covering the full osseointegration biology sequence and comparative %BIC data for cpTi, TiZr alloy, Ti6Al4V alloy, and zirconia implants across animal (miniature pig, canine) and human biopsy models.
 
-## 한줄요약
+TiZr matches cpTi in %BIC (no significant difference); Ti6Al4V shows lower peak %BIC and significantly more multinucleated giant cells (MNGCs) than cpTi/TiZr; SLActive achieves significantly higher early %BIC at 2 and 4 weeks than SLA; zirconia %BIC is improved by acid-etching but reduced by alkaline-etching.
 
-순수 티타늄·티타늄지르코늄·Ti6Al4V·지르코니아 임플란트의 골유착 생물학 서사 리뷰: TiZr은 cpTi와 동등, Ti6Al4V는 다핵거대세포 증가 및 낮은 BIC, SLActive는 SLA 대비 초기 골유착 가속 확인.
+Marginal bone loss unexplained by peri-implantitis and the long-term clinical significance of elevated MNGCs (especially for Ti6Al4V and zirconia) remain open questions — material choice should favor cpTi or TiZr over Ti6Al4V when osseointegration quality is a primary concern.
+
+## 세줄요약
+
+Periodontology 2000 서술 리뷰(2017): cpTi·TiZr·Ti6Al4V·지르코니아 임플란트의 골유착(Osseointegration) 생물학 전 시퀀스와 골-임플란트 접촉률(%BIC)을 소동물·인간 생검 모델로 비교.
+
+TiZr = cpTi(%BIC 동등); Ti6Al4V는 peak %BIC 낮고 다핵거대세포(Multinucleated Giant Cells, MNGCs) 유의하게 많음; SLActive는 SLA 대비 2·4주 초기 %BIC 유의 우위; 지르코니아는 산 부식 처리 시 %BIC 향상, 알칼리 부식 시 저하.
+
+임플란트 주위염 이외 원인 불명의 변연골소실(Marginal Bone Loss, MBL) 및 Ti6Al4V·지르코니아 MNGCs 증가의 장기 임상 의의는 미해결 과제 — 골유착 품질 우선 시 cpTi 또는 TiZr 선호.
 
 ## Summary
 

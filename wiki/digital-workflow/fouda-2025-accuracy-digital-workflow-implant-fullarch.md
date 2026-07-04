@@ -17,13 +17,21 @@ text_filename: fouda-2025-accuracy-digital-workflow-implant-fullarch.txt
 tags: [micro-ct, framework-passivity, full-arch, intraoral-scanner, cad-cam]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro micro-CT study (10 milled titanium full-arch frameworks from TRIOS 5 IOS scans on a 4-implant edentulous model): none acceptable by single-screw-test micro-CT, only 3/10 acceptable by final-fit-test micro-CT; subjective non-passivity rates 60% (SST) and 80% (SRT); only 2/10 intraoral scans fell within the 150 µm acceptable deviation vs. lab-scanner control, indicating scanning error as the dominant misfit source.
+In-vitro micro-CT study (J Prosthodont Res 2025, 10 milled titanium full-arch frameworks fabricated from TRIOS 5 IOS scans on a 4-implant edentulous model, Scanco µ100 micro-CT at 36.8 µm voxel as reference).
 
-## 한줄요약
+0/10 frameworks were acceptable by single-screw-test micro-CT; only 3/10 passed the final-fit-test micro-CT criterion; subjective non-passivity rates were 60% (SST) and 80% (SRT); and only 2/10 intraoral scans fell within 150 µm RMS deviation vs. the lab-scanner control, implicating scanning error as the dominant misfit source.
 
-In-vitro micro-CT 연구 (4-임플란트 무치악 모델에서 TRIOS 5 IOS 스캔으로 제작한 티타늄 전악 프레임워크 10개): 단일나사검사 micro-CT 기준 전부 부적합, 최종 체결 micro-CT 기준 3/10만 적합; 주관적 비수동성(non-passivity)률 60%(SST)·80%(SRT); 실험실 스캐너 대비 150μm 이내에 든 구강스캔은 2/10에 불과해 오적합의 주된 원인이 스캔 오차임을 시사.
+Current fully digital workflows using IOS for full-arch implant frameworks cannot reliably achieve passive fit by micro-CT standards; improved scanning accuracy or analog verification steps remain necessary before clinical adoption.
+
+## 세줄요약
+
+In-vitro micro-CT 연구 (J Prosthodont Res 2025, 4-임플란트 무치악 모델에서 TRIOS 5 IOS로 스캔해 제작한 티타늄 전악 프레임워크 10개, Scanco µ100 micro-CT 36.8μm 복셀 기준).
+
+단일나사검사 micro-CT 기준 0/10 부적합; 최종 체결 micro-CT 기준 3/10만 적합; 주관적 비수동성률 60%(SST)·80%(SRT); 실험실 스캐너 대비 RMS 150μm 이내의 구강 스캔은 2/10에 불과해 스캔 오차가 오적합의 주된 원인임을 시사.
+
+현 IOS 기반 완전 디지털 전악 임플란트 프레임워크 워크플로우는 micro-CT 기준 수동 적합을 안정적으로 달성하지 못하므로, 스캔 정확도 개선 또는 아날로그 검증 단계가 임상 도입 전에 필요하다.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/motivational-interviewing/kay-2016-motivational-interviewing-general-dental-practice]]가 "MI가 효과 있으니 팀이 훈련하라"고 권고하지만, 정작 졸업 후 위생사가 임상에서 MI를 실제로 쓰는지·효과를 어떻게 인식하는지의 implementation gap은 미해결. 본 cross-sectional(UMN 2010–2019 졸업생)은 위생사 교육 ROI와 MI 정착 결정요인(Theory of Planned Behavior)을 다뤄 위생사 교육 설계 근거로 직접 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of University of Minnesota dental-hygiene graduates 2010–2019 (n=58 analyzed, 28%) — 95% use MI and 98% perceive it effective; Theory-of-Planned-Behavior constructs (attitudes, subjective norms, perceived behavioral control) predicted MI use, though clinicians doubted patients' capacity to change.
 
-## 한줄요약
+Cross-sectional survey of University of Minnesota dental-hygiene graduates 2010–2019 (n=58 analyzed, 28%) — 95% use MI and 98% perceive it effective;
 
-미네소타대 치위생 졸업생 단면조사(분석 n=58, 28%) — 95%가 MI 사용, 98%가 효과적이라 인식. 계획행동이론(TPB) 3요소(태도·주관적 규범·지각된 행동통제)가 MI 사용을 예측. 단, 위생사들은 "환자가 정말 바뀔 수 있나"에 회의를 표함.
+Theory-of-Planned-Behavior constructs (attitudes, subjective norms, perceived behavioral control) predicted MI use, though clinicians doubted patients' capacity to change.
+
+(incomplete)
+
+## 세줄요약
+
+
+미네소타대 치위생 졸업생 단면조사(분석 n=58, 28%) — 95%가 MI 사용, 98%가 효과적이라 인식.
+
+계획행동이론(TPB) 3요소(태도·주관적 규범·지각된 행동통제)가 MI 사용을 예측.
+
+단, 위생사들은 "환자가 정말 바뀔 수 있나"에 회의를 표함.
 
 ## 1. Document Information
 - Journal: Journal of Dental Education 2022;86(7):909–917

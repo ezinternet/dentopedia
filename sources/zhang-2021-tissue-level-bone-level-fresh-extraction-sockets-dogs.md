@@ -13,13 +13,23 @@ source_collection: external
 
 즉시식립 시 임플란트 경부 디자인(조직레벨 vs 골레벨)이 경조직·연조직 리모델링에 미치는 영향을 직접 비교한 조직형태계측 동물실험 근거가 필요했음. 특히 [[wiki/implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]에서 제시한 조직레벨 vs 골레벨 임플란트의 주위염 위험도 차이를 생물학적 폭경(biologic width) 관점에서 보완하는 자료로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Dog histomorphometric study (n=6 dogs, 24 implants) comparing Straumann SP (tissue-level) vs BL (bone-level) implants in fresh extraction sockets: no significant difference in vertical bone resorption between designs, but bone-level implants showed significantly wider lingual biologic width when placed 1 mm subcrestal (3.16 vs 2.43 mm, P=0.009).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 개(6마리, 24개 임플란트) 즉시식립 조직형태계측 연구: 조직레벨(SP)과 골레벨(BL) 임플란트 간 수직골흡수는 유의차 없으나, 1 mm 하방 식립 시 골레벨 임플란트의 설측 생물학적 폭경이 유의하게 더 넓음(3.16 vs 2.43 mm, P=0.009).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

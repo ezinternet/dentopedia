@@ -16,13 +16,21 @@ relations:
     target: bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=28) demonstrating that pre-operative bone concavity depth ≥1.03 mm and angulation <155.3° are significant CBCT predictors of lower grafted bone resorption rate after simultaneous GBR + delayed implant in the anterior maxilla.
+Single-center retrospective study (n=28 patients, anterior maxilla, delayed single implant + simultaneous GBR with DBBM + resorbable collagen membrane) measuring 3D CBCT graft volume change from immediate postop (T1) to 6 months (T2).
 
-## 한줄요약
+Mean grafted bone resorption was 49.78% at 6 months; only pre-operative CBCT bone morphology predicted resorption: bone concavity depth (BCD) ≥1.03 mm (r=−0.872, p<0.001) and bone concavity angulation (BCA) <155.3° (p<0.001) were associated with significantly lower resorption.
 
-전방 상악 GBR+지연 임플란트 28명 후향적 연구 — 술전 골오목 깊이 ≥1.03 mm·각도 <155.3°에서 이식재 흡수율 유의하게 낮아 술전 CBCT 예측 인자로 활용 가능.
+Conventional clinical variables (age, gender, implant brand, material) showed no predictive value, making pre-op CBCT morphology assessment the actionable tool for case selection and patient counseling in anterior GBR.
+
+## 세줄요약
+
+전방 상악 지연 임플란트+동시 GBR(DBBM+콜라겐막) 28명 후향적 연구 — 수술 직후(T1)~6개월(T2) 3D CBCT로 이식재 체적 변화 측정.
+
+6개월 평균 이식재 흡수율 49.78%; 흡수를 유의하게 예측하는 유일한 인자는 술전 골오목 깊이(Bone Concavity Depth, BCD)≥1.03 mm(r=−0.872, p<0.001)와 골오목 각도(Bone Concavity Angulation, BCA)<155.3°(p<0.001).
+
+나이·성별·임플란트 브랜드·재료 등 임상 변수는 예측력 없음 — 술전 CBCT 골형태가 전방 GBR 증례 선택·환자 상담의 핵심 도구임을 시사.
 
 ## Summary
 

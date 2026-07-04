@@ -9,7 +9,7 @@ pdf_filename: li-2025-curing-modes-dual-cure-dentin.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Front Bioeng Biotechnol 2025;12:1511099: 6 dual-cure cements × 2 curing modes (light vs self-cure) × 3 storage times — light-curing significantly improves µTBS and durability; N3 (Nexus 3) best overall; all cements benefit from light activation.
 
 ## 1. Key Results

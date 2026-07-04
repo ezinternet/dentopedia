@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 10 SRs/MAs (7,139 participants) confirms that keratinized mucosa width ≥2 mm around dental implants is consistently associated with reduced peri-implant inflammation, plaque accumulation, mucosal recession, and peri-implantitis risk (OR 2.78 when absent); FGG remains superior for KM augmentation, while XCM is a viable esthetic-site alternative.
+Umbrella review of 10 systematic reviews/meta-analyses (132 primary studies, 7,139 participants) on the significance of keratinized mucosa (KM) for dental implant health, with AMSTAR 2 quality appraisal.
 
-## 한줄요약
+KM width ≥2 mm was consistently associated with reduced peri-implant inflammation, plaque accumulation, mucosal recession, and marginal bone loss across all 10 reviews; KM deficiency carries an OR of 2.78 for peri-implantitis (Mahardawi 2023), and peri-implantitis prevalence rose from 5.1–8% (KT ≥2 mm) to 20.5–53% (KT 0 mm).
 
-10개 SR/MA(7,139명) 우산 리뷰: 각화점막 폭경(KMW) ≥2 mm이 임플란트 주위 염증·치태·점막퇴축·주위염 감소(부재 시 OR 2.78)와 일관되게 연관; 각화점막 증대는 FGG가 최우선이나 XCM도 심미 부위에서 대안 가능.
+FGG is the first-line augmentation choice for KM width gain and bleeding index improvement, while XCM is a viable alternative at esthetic or low-morbidity sites; long-term interventional data remain insufficient to establish causality.
+
+## 세줄요약
+
+각화점막(Keratinized Mucosa, KM)이 임플란트 건강에 미치는 의의를 다룬 10개 SR/MA(원발연구 132편, 7,139명) 우산리뷰 — AMSTAR 2 질 평가 포함.
+
+KM 폭경(KM Width, KMW) ≥2 mm이 모든 10개 리뷰에서 임플란트 주위 염증·치태·점막퇴축·변연골소실(Marginal Bone Loss, MBL) 감소와 일관되게 연관되었으며, KM 부족 시 임플란트주위염 오즈비(Odds Ratio, OR)는 2.78(Mahardawi 2023), 유병률은 KT ≥2 mm의 5.1–8%에서 KT 0 mm의 20.5–53%로 상승.
+
+KMW 증대 및 탐침출혈 개선을 위한 1차 선택은 유리치은이식(Free Gingival Graft, FGG)이며, 심미 부위 또는 이환율 최소화가 필요한 경우 이종 콜라겐 기질(Xenogeneic Collagen Matrix, XCM)이 대안 가능; 인과관계 확립을 위한 장기 중재 데이터는 여전히 부족.
 
 ## Summary
 

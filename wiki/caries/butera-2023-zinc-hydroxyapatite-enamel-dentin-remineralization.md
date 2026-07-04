@@ -24,11 +24,21 @@ relations:
     target: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr
 ---
 
-## One-line Summary
-Narrative review of 30 mostly-in-vitro studies on biomimetic zinc-carbonate hydroxyapatite (Zn-CHA) toothpaste/mouthwash: consistent signals for enamel/dentin remineralization, erosion protection, and dentinal-tubule occlusion (hypersensitivity), but few RCTs and moderate risk of bias.
+## Three-line Summary
 
-## 한줄요약
-생체모방 zinc-carbonate hydroxyapatite(Zn-CHA) 치약·가글 30편(대부분 in vitro) 서술 리뷰: 법랑질/상아질 재광화·침식보호·상아세관 폐쇄(과민증)에 일관된 효과 신호, 그러나 RCT 부족·중등도 비뚤림.
+Narrative review (Biomimetics 2023; 30 studies, 2003–2023; 21 enamel/remineralization + 9 dentin-hypersensitivity) on biomimetic zinc-carbonate hydroxyapatite (Zn-CHA) toothpaste and mouthwash in predominantly in-vitro models.
+
+Zn-CHA consistently demonstrated enamel acid-resistance and remineralization, erosion protection, and dentinal-tubule occlusion reducing hypersensitivity — with some clinical trials showing non-inferiority or superiority to conventional fluoride toothpaste.
+
+Evidence is limited by predominance of in-vitro work and scarcity of RCTs; Zn-CHA is a promising fluoride alternative but clinical superiority over NaF toothpaste has not been conclusively established.
+
+## 세줄요약
+
+서술 리뷰 (Biomimetics 2023; 30편, 2003–2023; 법랑질·재광화 21편 + 상아질 과민증 9편): 생체모방 zinc-carbonate hydroxyapatite (Zn-CHA) 치약·가글의 효과를 주로 in vitro 모델에서 평가.
+
+Zn-CHA는 법랑질 산 저항성·재광화, 침식 보호, 상아세관 폐쇄를 통한 과민증 감소에 일관된 효과를 보였으며, 일부 임상시험에서 기존 불소 치약에 비해 비열등 또는 우월한 결과를 나타냈다.
+
+대부분이 in vitro 연구이고 RCT가 부족하여 임상 우월성은 미확립 상태이며, 불소 대안으로서의 가능성은 있으나 추가 근거가 필요하다.
 
 ## Summary
 Biomimetics (MDPI) 2023 review from the Pavia (Butera/Scribante) and Bologna (Lelli) groups. From 5065 hits (2003–2023), 30 studies were analyzed, split into enamel protection/remineralization (21) and dentin-hypersensitivity management (9). Zn-CHA is presented as a fluoride alternative whose biomimicry (ionic substitution, sub-micron size, low crystallinity, elongated morphology) lets it adhere to and re-mineralize both enamel and dentin.

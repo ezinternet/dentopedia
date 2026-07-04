@@ -13,13 +13,21 @@ source_collection: external
 tags: [probiotics, halitosis, VSC, organoleptic, Lactobacillus, systematic-review, meta-analysis, RCT]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 3 RCTs (Yoo 2017): probiotics (mainly Lactobacillus strains, ~2-week regimens) significantly reduce organoleptic halitosis scores (SMD −1.93, p<0.0001) but fail to significantly reduce volatile sulfur compound concentrations (SMD −0.02, p=0.98), leaving the evidence base quantitatively insufficient for definitive clinical recommendations.
+SR+MA of 3 RCTs (searched through January 2017; Lactobacillus salivarius WB21, S. salivarius K12; ~2-week regimens) providing one of the earliest quantitative syntheses of probiotic efficacy in halitosis.
 
-## 한줄요약
+Probiotics significantly reduced organoleptic test (OLT) scores (SMD −1.93, 95% CI −2.85 to −1.02, p<0.0001) but did not significantly reduce volatile sulfur compound concentrations (SMD −0.02, 95% CI −2.12 to 2.07, p=0.98).
 
-SR+MA (RCT 3편, Yoo 2017): 프로바이오틱스(주로 Lactobacillus, ~2주 투여)는 기관능관능 구취 점수를 유의하게 감소(SMD −1.93, p<0.0001)시키나 VSC 농도는 유의하게 낮추지 못함(SMD −0.02, p=0.98) — 추가 대규모 RCT 필요.
+The discordance between OLT benefit and absent VSC reduction suggests probiotics improve panelist-perceived breath quality without necessarily reducing chemical mediators; only 3 eligible RCTs limit definitive recommendations.
+
+## 세줄요약
+
+Lactobacillus salivarius WB21·S. salivarius K12 등 ~2주 프로바이오틱스 요법의 구취 효과를 평가한 3개 RCT(2017년 1월까지 검색) SR+MA; 가장 초기의 정량 합성 중 하나.
+
+관능검사(OLT) 점수는 유의하게 감소(SMD −1.93, p<0.0001)하나 휘발성 황화합물(VSC) 농도 감소는 비유의(SMD −0.02, p=0.98).
+
+OLT 개선과 VSC 무반응의 괴리는 프로바이오틱스가 화학적 매개체 감소 없이 주관적 구취 개선을 유발할 수 있음을 시사; 포함된 RCT가 3편에 불과해 구체적 투여 지침 권고 불충분.
 
 ## Summary
 

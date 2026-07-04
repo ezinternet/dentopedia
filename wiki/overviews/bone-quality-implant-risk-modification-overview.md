@@ -48,13 +48,21 @@ relations:
 > - 주의 충돌: FEA(응력)는 D3/D4에서 실린더형을 선호하나 임상(초기 안정성)은 테이퍼형 선호 — 미해결 쟁점.
 > - 임상 정리: 골다공증 = 높은 임플란트 실패라는 통념은 틀림; 위험은 장기·골질 기반이며 약물(MRONJ) 위험과 분리해서 봐야 함.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis organizing bone quality as the *risk axis* (not a procedure): local density (Lekholm-Zarb I–IV / Misch D1–D4) sets primary-stability and failure risk — type IV bone fails ~1.5–1.9× more (ISQ 58–65 vs 72–80 for type I) — and crestal cortical thickness, not cancellous volume, is the dominant stability driver; the modification levers are drilling protocol, implant macro-design, surface, and loading timing, while systemic/pathologic bone (osteoporosis, osteosclerotic lesions) extends the same axis with long-term and lesion-specific caveats.
+Synthesis of 11 papers organizing bone quality as the risk axis: local density (Lekholm-Zarb I–IV / Misch D1–D4) sets primary stability and failure risk — type IV bone fails ~1.5–1.9× more (Rosa 2024 SR+MA, 49 studies, 29,905 implants) with ISQ 58–65 vs 72–80 for type I — and crestal cortical thickness, not cancellous volume depth, is the dominant stability driver (Chatvaratthana 2017, Di Stefano 2021).
 
-## 한줄요약
+The modification levers are stackable: under-drilling/osseodensification (OD), tapered macro-design, diameter over length, bioactive/hydrophilic surface (eliminates the stability dip in soft bone; Canullo 2024), and delayed loading — with drilling protocol mattering more than macro-design differences in D3/D4 (Stoilov 2023); systemic/pathologic bone (osteoporosis: healthy-comparable short-term but 82.6–94.1% at 5–10y; osteosclerosis: overheating risk) extends the same axis.
 
-골질을 "위험 축"으로 묶은 종합. 국소 골밀도(Lekholm-Zarb I–IV / Misch D1–D4)가 초기 안정성·실패 위험을 결정하고(type IV는 ~1.5–1.9배 실패, ISQ 58–65 vs type I 72–80), 해면골 양보다 **치조정 피질골 두께**가 안정성의 핵심이다. 수정 레버는 드릴링 프로토콜·매크로디자인·표면·부하 시기이며, 전신/병적 골(골다공증·골경화성 병변)은 같은 축의 장기·병변별 단서로 확장된다.
+Clinical takeaway: "osteoporosis = high implant failure" is a misconception — long-term and medication (MRONJ) risks must be assessed separately; in soft bone no single lever suffices and material × design × surgical technique must be combined, with the unresolved FEA (cylinder preferred) vs clinical (tapered preferred) conflict noted.
+
+## 세줄요약
+
+골질(Bone Quality)을 "위험 축"으로 묶은 11편 종합: 국소 골밀도(Lekholm-Zarb I–IV / Misch D1–D4)가 초기 안정성·실패 위험을 결정하고(type IV는 ~1.5–1.9배 실패, ISQ 58–65 vs type I 72–80; Rosa 2024 SR+MA, 55편·29,905개), 해면골 양이 아닌 **치조정 피질골 두께(Crestal Cortical Thickness)**가 안정성의 핵심이다.
+
+수정 레버는 중첩 가능: 언더드릴링/골밀도화 (Osseodensification, OD), 테이퍼 매크로디자인, 길이보다 직경, 생체활성·친수성 표면(D3/D4 안정성 dip 제거; Canullo 2024), 지연 부하 — 연질골일수록 매크로디자인 차이는 줄고 드릴링 프로토콜이 더 중요하며, 전신/병적 골(골다공증·골경화성 병변)은 같은 축의 장기·병변별 확장이다.
+
+임상 결론: "골다공증 = 높은 임플란트 실패" 통념은 틀림 — 위험은 장기적·골질 기반이며 약물관련 악골괴사증 (MRONJ) 위험과 분리 평가; D3/D4에서는 단일 인자로 부족하고 재료×디자인×술식을 병합해야 하며, 응력해석(실린더 선호)과 임상(테이퍼 선호) 간 미해결 충돌에 주의.
 
 ## Thesis
 

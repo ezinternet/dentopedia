@@ -37,13 +37,21 @@ tags: [post-and-core, fiber-post, ferrule, endocrown, endodontically-treated-tee
 > - **근거 수준**: 임상 비교의 군간 차이는 대체로 비유의(NS)이고 in-vitro/FEA 비중이 큼 → 효과크기보다 *방향성·실패양상*으로 해석.
 > - **임상 결론**: 충분한 치질·ferrule이 남으면 포스트 생략 또는 엔도크라운; 포스트가 필요하면 ferrule 확보를 최우선으로 하고, 재료는 치근파절 위험을 낮추는 파이버(또는 modulus-정합) 포스트를 기본값으로 한다. 심한 손상(≤2벽)에서는 파이버 우위가 통계적으로도 성립한다 (Wang 2019).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 SR/MA/RCT (+1 FEA) on restoring endodontically treated teeth: post placement improves pooled survival vs no-post (P<0.001) but conditionally on coronal tissue loss; a circumferential ferrule is the strongest modifiable predictor (RR 1.28), outweighing material choice; glass-fiber and metal posts have statistically equivalent survival (92.8% vs 78.1%, NS; 15-yr RCT 68.5% vs 53.6%, NS) — the decisive difference is failure mode (metal/rigid posts fracture roots catastrophically and unrestorably, while fiber posts and endocrowns fail repairably), with FEA supporting elastic-modulus matching to dentin.
+Synthesis of 14 post-and-core papers: post placement improves survival vs no-post (Alenezi 2024, 7,330 ETTs, P<0.001) but only conditional on coronal tissue loss; a circumferential ferrule is the strongest modifiable predictor (Al-Dabbagh 2024, RR 1.28), and 7/8 long-term studies found no independent post benefit — "ferrule first, post second" (Naumann 2017).
 
-## 한줄요약
+Glass-fiber and metal post survival is statistically equivalent across the full ETT spectrum (Tsintsadze 2022 SR+MA: 92.8% vs 78.1%, NS; Van Landuyt 2025 15-yr RCT: 68.5% vs 53.6%, NS), but for severely damaged teeth with ≤2 coronal walls fiber posts survive significantly better (Wang 2019, GRADE high, RR 0.57, P=.04).
 
-ETT 수복 SR/MA/RCT 5편(+FEA 1편) 종합: 포스트는 무포스트 대비 생존을 향상(P<0.001)시키나 치질소실 조건부이고, 원주형 ferrule이 재료보다 강한 가변 예후인자(RR 1.28)이며, 글라스파이버와 금속 포스트는 생존이 통계적으로 동등(92.8% vs 78.1%, NS; 15년 RCT 68.5% vs 53.6%, NS)하고, 진짜 차이는 실패양상(금속=치근파절 파국·수복불가, 파이버/엔도크라운=복구가능)이며 FEA가 상아질 탄성계수 정합을 뒷받침한다.
+The decisive clinical difference is failure mode: rigid metal posts cause catastrophic unrestorable root fractures; fiber posts and endocrowns fail repairably — a difference more important than the non-significant survival numbers, supported by FEA confirming elastic-modulus matching distributes rather than concentrates stress.
+
+## 세줄요약
+
+근관치료치(Endodontically Treated Tooth, ETT) 수복 14편 종합 — 포스트는 무포스트 대비 생존 향상(P<0.001)이나 치질소실 조건부; 원주형 ferrule이 재료보다 강한 가변 예후인자(RR 1.28); 5년 이상 전향연구 8편 중 7편이 포스트 독립효과 없음 — "ferrule 먼저, 포스트는 보조"(Naumann 2017).
+
+글라스파이버와 금속 포스트는 전체 ETT 스펙트럼에서 통계적으로 동등(Tsintsadze 2022 SR+MA: 92.8% vs 78.1%, NS; Van Landuyt 2025 15년 RCT: 68.5% vs 53.6%, NS)이나, 잔존 치벽 ≤2벽 심한 손상 치아에서는 파이버 유의 우위(Wang 2019, GRADE high, RR 0.57, P=.04).
+
+결정적 차이는 실패 양상 — 금속/강성 포스트는 치근파절(root fracture)로 파국·수복 불가; 파이버포스트·엔도크라운은 복구 가능; 유한요소분석(FEA)이 상아질 탄성계수 정합으로 응력 분산을 뒷받침.
 
 ## Thesis
 

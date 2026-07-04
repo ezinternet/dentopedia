@@ -16,13 +16,21 @@ relations:
     target: bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized beagle dog study (5 dogs, 20 chronic mandibular defects, 4 membrane/graft combinations) showing DBBM + ribose cross-linked collagen membrane (unfixed) produces significantly more new bone than DBBM + native collagen membrane with 4-pin fixation.
+Randomized beagle dog study (5 dogs, 20 chronic mandibular buccal defects, 4 membrane × graft groups) comparing ribose cross-linked vs native collagen membrane and DBBM vs calcium sulfate at 3 months by histomorphometry.
 
-## 한줄요약
+DBBM + ribose cross-linked collagen membrane (Ossix Plus, no fixation) produced significantly more new bone than DBBM + native collagen membrane with 4-pin fixation (p=0.001), and than all other groups.
 
-개 5마리 20개 만성 하악 결손 무작위 연구 — 리보스 가교 콜라겐막+DBBM(고정 없음)이 4핀 고정 비가교 콜라겐막+DBBM보다 신생골 면적 유의하게 우수(p=0.001).
+Routine membrane tacking may be unnecessary when using intrinsically stable cross-linked membranes; calcium sulfate showed faster material resorption than DBBM but less new bone formation.
+
+## 세줄요약
+
+개 5마리 만성 하악 결손 무작위 연구(20개 결손, 4군): 리보스 가교 콜라겐막+DBBM(고정 없음) vs 4핀 고정 비가교 콜라겐막+DBBM 등 3개월 조직형태계측 비교.
+
+리보스 가교막+DBBM(고정 없음)이 4핀 고정 비가교막+DBBM보다 신생골 면적 유의하게 우수(p=0.001); 황산칼슘(Calcium Sulfate, CS)은 DBBM보다 빠른 흡수를 보였으나 신생골은 더 적음.
+
+안정성이 높은 가교막 사용 시 핀 고정이 불필요할 수 있으며, 수평 골증대에서 가교막 선택이 재료·고정 방법보다 중요함을 시사.
 
 ## Summary
 

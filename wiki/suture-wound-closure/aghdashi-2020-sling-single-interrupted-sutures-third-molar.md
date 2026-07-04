@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Split-mouth RCT (n=25 patients) comparing sling vs single interrupted sutures after impacted mandibular third molar removal; sling sutures gave significantly better PPD (P=0.041) and CAL (P=0.016) at the adjacent second molar, with no significant long-term difference in wound dehiscence.
+## Three-line Summary
 
-## 한줄요약
-하악 매복 사랑니 발치 후 sling 봉합 대 단순 단속 봉합을 비교한 분할구강 무작위배정 임상시험(환자 25명). Sling 봉합이 인접 제2대구치의 치주낭 깊이(PPD, P=0.041)와 임상부착소실(CAL, P=0.016)에서 유의하게 우수했고, 봉합 파열에는 장기적으로 유의한 차이가 없었다.
+Split-mouth RCT (n=25 patients, 18–25 y, non-smokers) comparing sling vs single interrupted sutures after impacted mandibular third molar removal under full-thickness triangular flap + osteotomy; the question was whether suture geometry affects periodontal recovery of the adjacent second molar.
+
+Sling sutures gave significantly better probing pocket depth (PPD, P=0.041) and clinical attachment level (CAL, P=0.016) at the adjacent second molar distobuccal point at median 17 weeks (mean ~22 weeks); wound dehiscence at day 14 showed no significant difference (P=0.852).
+
+The finding shifts the wound-closure debate from "suture vs no suture" to "which suture geometry," with the sling's knot position away from the dehiscence-prone distal surface of the second molar as the proposed mechanism of the periodontal healing advantage.
+
+## 세줄요약
+
+하악 매복 사랑니 발치(전층 삼각 판막 + 골삭제) 후 sling 봉합 대 단순 단속 봉합을 비교한 분할구강 무작위배정 임상시험(n=25명, 18–25세, 비흡연자); 봉합 기하구조가 인접 제2대구치 치주 회복에 미치는 영향 평가.
+
+Sling 봉합이 중앙값 17주(평균 ~22주) 시점 인접 제2대구치 치주낭 깊이(PPD, P=0.041)와 임상부착소실(CAL, P=0.016)에서 유의하게 우수; 14일째 봉합 파열은 두 군 간 유의차 없음(P=0.852).
+
+봉합 논쟁을 "봉합 vs 무봉합"이 아닌 "어떤 봉합 기하구조"로 전환하는 연구 — sling의 매듭이 제2대구치 원심면(열개 위험 부위)에서 멀리 위치하는 것이 치주 치유 이점의 기전으로 제시.
 
 ## Summary
 A split-mouth randomized clinical trial in 25 patients with bilaterally similar mandibular third molar impaction. One side was closed with a sling suture, the contralateral side with a single interrupted suture (random allocation, patient blinded). The question was whether suture *geometry* affects periodontal recovery of the adjacent second molar and wound dehiscence. The sling suture — whose knot sits away from the dehiscence-prone distal surface of the second molar — produced significantly better probing pocket depth and clinical attachment loss outcomes, while suture type did not meaningfully affect dehiscence at 14 days.

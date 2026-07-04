@@ -16,13 +16,21 @@ tags: [tmj, sleep-bruxism]
 
 치과 임상에서 가장 자주 받는 질문 "교합안정장치(스플린트) vs 보톡스 어느 게 더 낫나"에 직접 답하는 SR+MA (36 studies). 기존 보유 개별 연구들([[botulinum-toxin/angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd]], [[botulinum-toxin/abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis]])이 BoNT-A 단독 효과를 보고하는 반면, 본 연구는 교합안정장치와 직접 비교 합성하여 임상 선택 근거 제공. [[tmj/]] 카테고리와도 공유.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (36 studies, adults with sleep bruxism) found no significant difference between occlusal splints and BTX-A in pain reduction at intermediate follow-up; BTX-A showed faster short-term relief; occlusal splints preferred when mechanical protection is the primary goal; moderate certainty of evidence. Abstract-only.
+SR+MA (36 studies, adults with sleep bruxism, database search 1998–February 2025) comparing occlusal splints (OS) versus botulinum toxin type A (BTX-A) for management of clinical sequelae associated with sleep bruxism; abstract-only ingest.
 
-## 한줄요약
+No statistically significant difference in pain reduction between OS and BTX-A at intermediate follow-up (meta-analysis result); BTX-A achieved faster short-term pain relief; OS provides irreplaceable mechanical tooth protection.
 
-성인 수면 브럭시즘 SR+MA(36개 연구)에서 교합안정장치(OS)와 BTX-A는 중간 추적 시점 통증 감소에 유의한 차이가 없었으며, BTX-A는 단기 통증 완화가 더 빠름; 기계적 보호가 목표일 때 OS가 선호; 증거 확실성은 중등도. 초록만 수집.
+Moderate certainty of evidence for pain outcomes; lower certainty for muscle activity, bite force, and quality of life; clinical selection should be based on primary treatment goal (pain relief vs mechanical protection).
+
+## 세줄요약
+
+성인 수면 브럭시즘 대상 SR+MA(36개 연구, 1998–2025년 2월 검색): 교합안정장치(OS)와 BTX-A(보툴리눔 독소 A형)의 임상적 효과를 비교; 초록만 수집.
+
+중간 추적 시점 통증 감소에서 OS와 BTX-A 간 유의한 차이 없음(메타분석); BTX-A는 단기 통증 완화 속도 우위; OS는 기계적 치아 보호 불대체 역할.
+
+통증 결과에 대한 증거 확실성 중등도; 근활성·교합력·삶의 질은 낮은 확실성; 치료 목표(통증 완화 vs 기계적 보호)에 따른 임상 선택 제안.
 
 ## 1. Document Information
 

@@ -20,13 +20,21 @@ relations:
     target: liu-2025-water-flossing-adjunct-nspt-periodontitis-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Small preliminary RCT (n=29 healthy adults, 3-day no-brushing model): a multichannel oral irrigator (COMORAL, 45° gingival-margin jet + suction) kept PI/SBI stable and significantly lowered % BOP, and prevented the Prevotella (+114%, p=0.003) and Bacteroidetes (p=0.031) increase seen in the no-cleaning control, instead enriching pioneer non-mutans streptococci.
+Preliminary two-group RCT (n=29 healthy adults, Seoul National University) using a 3-day no-brushing challenge to test whether a multichannel oral irrigator (COMORAL, simultaneous 45° gingival-margin jets + synchronized suction) protects periodontal health and oral microbiome ecology compared to no cleaning.
 
-## 한줄요약
+The COMORAL group maintained stable plaque index and sulcus bleeding index, significantly reduced % BOP, and prevented the Prevotella (+114%, p=0.003) and Bacteroidetes (p=0.031) increases seen in the no-cleaning control, instead enriching pioneer non-mutans streptococci (LDA score 3.06).
 
-소규모 예비 무작위대조시험 (Randomized Controlled Trial, RCT; 건강한 성인 29명, 3일 무칫솔질 모델): 다채널 구강세정기 (Multichannel Oral Irrigator, MCOI; COMORAL, 잇몸변연 45° 분사 + 석션)는 치태지수·치은열구출혈지수를 유지하고 탐침시출혈 (Bleeding on Probing, BOP) 비율을 유의하게 낮췄으며, 무세정 대조군의 Prevotella(+114%, p=0.003)·Bacteroidetes(p=0.031) 증가를 막고 대신 선구균(비뮤탄스 연쇄상구균)을 늘렸다.
+The multichannel irrigator's benefit is concentrated at the gingival margin/subgingival microbiome rather than supragingival plaque removal; the synchronized suction design addresses aspiration risk, making it potentially relevant for elderly and dysphagia patients.
+
+## 세줄요약
+
+예비 2군 RCT(n=29, 서울대 치과병원, 건강 성인): 3일 무칫솔질 환경에서 다채널 구강세정기(Multichannel Oral Irrigator, MCOI; COMORAL, 잇몸변연 45° 동시분사 + 동기화 흡입)의 치주건강·구강 미생물군집 보호 효과를 무세정 대조군과 비교.
+
+MCOI군은 치태지수·치은열구출혈지수를 유지하고 탐침시출혈(Bleeding on Probing, BOP) 비율을 유의하게 낮췄으며, 대조군의 Prevotella(+114%, p=0.003)·Bacteroidetes(p=0.031) 증가를 억제하고 선구 비뮤탄스 연쇄상구균(LDA 3.06)을 풍부화.
+
+MCOI의 이점은 치은연상 치태 제거보다 치은변연·치은연하 미생물군집 조절에 집중되며; 동기화 흡입 기능이 흡인 위험을 낮춰 노인·연하장애 환자에게 적용 가능성이 있다.
 
 ## Summary
 

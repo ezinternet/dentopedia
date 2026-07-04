@@ -14,11 +14,21 @@ source_collection: external
 tags: [OTC, ibuprofen, acetaminophen, aspirin, NNT, acute-pain, Cochrane, single-dose, dentistry]
 ---
 
-## One-line Summary
-Cochrane OTC analgesic overview (Moore 2015): single-dose OTC analgesics — ibuprofen 400mg NNT ~2.5 (best within OTC range); APAP 1g ~3.5–4; aspirin 1g ~4; ibuprofen 200mg ~3; OTC-restricted companion to the CD008659 overview.
+## Three-line Summary
 
-## 한줄요약
-Cochrane OTC analgesic overview (Moore 2015): 처방전 없는 진통제 단일-dose — Ibuprofen 400 NNT ~2.5 (OTC 한도 최고); APAP 1g ~3.5-4; aspirin 1g ~4; ibuprofen 200 ~3. CD008659 회사 overview의 OTC 한정 companion.
+Cochrane overview (Moore 2015, CD010794) comparing single-dose OTC analgesics for acute pain, restricted to doses available without prescription — the companion to the broader CD008659 overview.
+
+Within the OTC range, ibuprofen 400 mg is the most effective single dose (NNT ~2.5), followed by ibuprofen 200 mg (NNT ~3), then APAP 1,000 mg and aspirin 1,000 mg (both NNT ~3.5–4).
+
+For patients managing their own acute dental pain with over-the-counter medications, ibuprofen 400 mg is the best available option — directly applicable to patient self-care counseling.
+
+## 세줄요약
+
+Cochrane overview (Moore 2015, CD010794): 처방전 없는 OTC 용량으로 제한한 단회 경구 진통제 급성 통증 비교, CD008659 overview의 OTC 한정 companion.
+
+OTC 범위 내에서 이부프로펜 400 mg이 최고(NNT ~2.5), 이부프로펜 200 mg(~3), APAP 1,000 mg·아스피린 1,000 mg(~3.5–4) 순.
+
+환자 자가관리 급성 치과 통증 상담 시 OTC 이부프로펜 400 mg이 최선의 선택임을 직접 지지.
 
 ## Summary
 OTC-dose-restricted companion to Moore 2015 CD008659. Compares only doses available without prescription. Within OTC range, ibuprofen 400mg is the most effective single dose for acute pain (NNT ~2.5). APAP 1000mg and aspirin 1000mg sit at NNT ~3.5-4. Ibuprofen 200mg at NNT ~3 — useful information for patient self-management.

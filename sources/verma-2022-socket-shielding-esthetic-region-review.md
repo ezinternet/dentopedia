@@ -13,13 +13,23 @@ source_collection: external
 
 소켓 쉴드(socket shielding / root membrane) 기법이 심미 구역에서 협측골·윤곽 보존 옵션으로 타당한지 정리한 서술적 리뷰. 술기 입문서인 [[immediate-implant/socket-shield/ahamed-2022-partial-extraction-therapy-implant-placement]]와 임상 결과 SR인 [[immediate-implant/socket-shield/oliva-2023-socket-shield-buccal-bone-preservation-sr]]를 잇는 짧은 개관.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review concluding that socket shielding (intentional retention of the buccal root fragment) effectively minimizes buccal bone resorption and contour change as a minimally invasive, graft-optional approach in the esthetic zone, but that supporting evidence remains limited and larger studies are needed.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서술적 리뷰 — 소켓 쉴드(협측 치근편 의도적 보존)는 심미부에서 협측골 흡수·윤곽 변화를 효과적으로 줄이는 최소침습·골이식 선택적 기법이나, 근거가 제한적이어 대규모 연구가 필요하다는 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

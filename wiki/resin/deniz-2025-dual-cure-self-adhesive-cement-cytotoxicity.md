@@ -16,11 +16,19 @@ relations:
     target: theracem-bisco-product-reference
 ---
 
-## One-line Summary
-In-vitro L929/MTT study (J Prosthet Dent 2025) finding all three dual-cure self-adhesive cements reduce cell viability, with light-cured SpeedCem Plus least cytotoxic followed by TheraCem Ca, and photopolymerization less cytotoxic than autopolymerization.
+## Three-line Summary
+In-vitro L929 fibroblast MTT assay study (J Prosthet Dent 2025) comparing cytotoxicity of three dual-cure self-adhesive resin cements (Calibra Universal, SpeedCem Plus, TheraCem Ca) under photopolymerization and autopolymerization modes.
 
-## 한줄요약
-in-vitro L929 MTT — 3종 dual-cure 자가접착시멘트 모두 세포생존율 감소, 광중합 SpeedCem Plus 최저 독성·TheraCem Ca 그다음, 광중합<자가중합 독성.
+All three cements significantly reduced cell viability; light-cured SpeedCem Plus was the least cytotoxic, followed by TheraCem Ca; photopolymerization was consistently less cytotoxic than autopolymerization across all tested concentrations and incubation times.
+
+Both cement composition and polymerization mode independently affect cytotoxicity, supporting the clinical preference for light-curing over self-curing for self-adhesive cements when access permits.
+
+## 세줄요약
+3종 dual-cure 자가접착 레진시멘트(Calibra Universal, SpeedCem Plus, TheraCem Ca)의 광중합 및 자가중합 조건별 세포독성을 L929 섬유아세포 MTT 검사로 비교한 in-vitro 연구(J Prosthet Dent 2025).
+
+3종 모두 세포생존율 유의하게 감소; 광중합 SpeedCem Plus 최저 독성, TheraCem Ca 그 다음; 광중합이 자가중합보다 모든 농도·배양 시간에서 독성 낮음.
+
+시멘트 조성과 중합 방식이 독립적으로 세포독성에 영향 — 접근 가능 시 자가접착 시멘트에 광중합 우선 적용을 지지.
 
 ## Summary
 This in-vitro study assessed cytotoxicity of three dual-polymerizing self-adhesive resin cements (Calibra Universal, SpeedCem Plus, TheraCem Ca) cured by light polymerization or autopolymerization on L929 fibroblasts via MTT assay (48-h extracts, multiple dilutions/incubation times). All cements significantly reduced cell viability. Light-polymerized cements were considerably less cytotoxic than autopolymerized ones; light-cured SpeedCem Plus was least cytotoxic regardless of concentration/time, followed by TheraCem Ca. Both cement composition and polymerization activation mode affected cytotoxicity.

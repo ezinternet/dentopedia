@@ -19,13 +19,21 @@ relations:
     target: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-4-period single-blind crossover RCT (n=20 Invisalign users): all four consumer probiotic forms (drink/rinse/gummy/capsule) significantly reduced aligner biofilm viable counts (CFU/mL) and EPS matrix fluorescence vs pre-intervention (P<0.001), CFU reductions 0.62–1.06 log10 with the probiotic drink (Yakult) largest (1.055 log10); preliminary — short duration, label-only verification, no comparison vs mechanical cleaning.
+Randomized 4-period single-blind crossover trial (n=20 Invisalign users; four 7-day interventions with 14-day washouts; outcomes: total viable counts CFU/mL and EPS matrix fluorescence by CLSM) comparing consumer probiotic drink, rinse, gummy, and capsule for clear aligner biofilm control.
 
-## 한줄요약
+All four delivery forms significantly reduced total viable counts and biofilm matrix (EPS) fluorescence vs pre-intervention (P<0.001); CFU reductions spanned 0.62–1.06 log10, with the probiotic drink (Yakult, L. paracasei Shirota) giving the largest effect (LS-mean 1.055 log10 CFU, 95% CI 0.93–1.18); CLSM fluorescence fell 93–145 AU across all forms.
 
-4기간 단일맹검 교차 RCT(n=20 Invisalign 사용자): 소비자용 프로바이오틱 4종(드링크·린스·구미·캡슐) 모두 aligner biofilm 생균수(CFU/mL)와 EPS 기질 형광을 개입 전 대비 유의하게 감소(P<0.001), CFU 감소 0.62–1.06 log10로 드링크(야쿠르트)가 최대(1.055 log10). 단기간·라벨만 확인·기계적 세정 비교 없음 → 예비 결과.
+These results are preliminary only: intervention periods were 7 days, probiotic content verified by label alone (no strain/viability assay), and no comparison to routine mechanical cleaning — probiotics showed a measurable biofilm-reduction signal but cannot yet be recommended as a substitute for mechanical aligner hygiene.
+
+## 세줄요약
+
+무작위 4기간 단일맹검 교차 시험 (n=20 Invisalign 사용자; 7일 처치 × 4회, 14일 세척기간; 결과: CFU/mL·EPS 기질 형광 CLSM): 소비자용 프로바이오틱 드링크·린스·구미·캡슐을 aligner biofilm 조절에 비교.
+
+4종 모두 개입 전 대비 총 생균수·EPS 형광 유의하게 감소(P<0.001); CFU 감소 0.62–1.06 log10, 프로바이오틱 드링크(야쿠르트, L. paracasei Shirota)가 최대 효과(LS-mean 1.055 log10, 95% CI 0.93–1.18); CLSM 형광 93–145 AU 모두 감소.
+
+결과는 예비적: 처치 기간 7일, 균주/생존력 검증 없이 라벨만 확인, 기계적 세정 비교 없음 — 프로바이오틱이 biofilm 감소 신호를 보였으나 기계적 aligner 위생의 대안으로 권장하기에는 불충분.
 
 ## Summary
 

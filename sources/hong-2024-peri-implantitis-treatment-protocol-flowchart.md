@@ -9,7 +9,7 @@ pdf_filename: hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-implantitis phased treatment protocol — failed vs failing classification → nonsurgical (debridement±antibiotics) → surgical (resective/access/reconstructive by defect morphology) → SPT; flowchart provided.
 
 ## 1. Key Results

@@ -13,11 +13,21 @@ source_collection: external
 
 inlay 카테고리 보강. 세라믹 인레이 합착의 치수 열손상 위험을 두께·합착제별로 정량 — [[inlay/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue]] 세라믹 온레이와 함께 인레이/온레이 합착 안전 근거.
 
-## One-line Summary
-In-vitro study - intrapulpal temperature rise during ceramic inlay luting depends on ceramic and dentin thickness and the resin-based luting agent (light-cure vs dual-cure); thinner ceramic/dentin and certain cements raise pulp thermal risk.
+## Three-line Summary
 
-## 한줄요약
-in-vitro - 세라믹 인레이 합착 중 치수내 온도상승은 세라믹·상아질 두께와 레진계 합착제(광중합 vs 이중중합)에 의존; 얇은 세라믹/상아질·특정 시멘트가 치수 열위험 증가.
+In-vitro study - intrapulpal temperature rise during ceramic inlay luting depends on ceramic and dentin thickness and the resin-based luting agent (light-cure vs dual-cure);
+
+thinner ceramic/dentin and certain cements raise pulp thermal risk.
+
+(incomplete)
+
+## 세줄요약
+
+in-vitro - 세라믹 인레이 합착 중 치수내 온도상승은 세라믹·상아질 두께와 레진계 합착제(광중합 vs 이중중합)에 의존;
+
+얇은 세라믹/상아질·특정 시멘트가 치수 열위험 증가.
+
+(incomplete)
 
 ## 1. Document Information
 Int J Mol Sci 2023;24:5466 · D. Kincses, D. Jordaki, D. Szebeni, S. Kunsagi-Mate, J. Szalma, E. Lempel · 2023 · DOI: 10.3390/ijms24065466. Study type: in-vitro.

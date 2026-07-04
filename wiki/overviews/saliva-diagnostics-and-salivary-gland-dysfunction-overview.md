@@ -29,13 +29,21 @@ source_wiki:
 > - **두 축의 연결점**: 침샘 기능(유량)이 무너지면 진단 매체(내용)의 질도 떨어진다 — hyposalivation은 시료 표준화를 방해. 표준화(수집·보존·기준치 부재)가 침 진단 임상화의 최대 장벽.
 > - **임상 takeaway**: (1) 구강건조 = 약물력부터 확인(특히 다약제·GLP-1), (2) 필요 시 쇼그렌 패널로 감별, (3) 관리는 원인약 조정·sialagogue·타액대체제(항균성 미흡, ≤4h)로 대증, (4) 침 진단은 유망하나 표준화 전까지 보조적.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-paper synthesis framing saliva along two clinical axes — **content** (saliva as a non-invasive diagnostic medium: salivaomics, exosomics, liquid biopsy, biomarker/detection engineering) and **flow** (salivary-gland secretory function and its failure in xerostomia/hyposalivation via drugs, Sjögren's, radiation, aging) — and linking the GPCR→IP3R→SOCE→AQP5 secretory mechanism, a newly reported GLP-1-agonist (semaglutide) cause of hyposalivation, and the differential diagnosis that separates them.
+Cross-paper synthesis of 10 papers framing saliva along two clinical axes — (A) content: saliva as a non-invasive diagnostic medium (salivaomics, exosomics, EFIRM liquid biopsy, OSCC/PSA/diabetes biomarkers, wearable sensors) and (B) flow: salivary-gland secretory function and its failure in xerostomia/hyposalivation via the GPCR→IP3R→SOCE→AQP5 calcium-signaling cascade.
 
-## 한줄요약
+Salivary MMP-9 drops 588→132 ng/mL after OSCC surgery; EFIRM electrochemistry detects EGFR ctDNA and SARS-CoV-2 in ~30 min on 40–50 µL; persistent xerostomia affects 10–50% of the population with no FDA-approved permanent cure; semaglutide (GLP-1 agonist) is a newly reported hyposalivation cause (3 cases, reversible); and 20–30% salivary–plasma proteome overlap positions saliva as a systemic health mirror.
 
-침을 두 임상 축 — **내용물**(비침습 진단 매체: 살리바오믹스·엑소좀·액체생검·바이오마커) 과 **유량**(침샘 분비 기능과 그 실패 = 구강건조/타액저하) — 으로 묶어, GPCR→IP3R→SOCE→AQP5 분비 기전, 새로 보고된 GLP-1 작용제(세마글루타이드)성 hyposalivation, 그리고 이들을 가르는 감별진단을 하나의 지도로 종합한 페이지.
+The axes are coupled: reduced flow degrades the diagnostic medium — hyposalivation disrupts sample standardization, which remains the central barrier to clinical translation of salivary diagnostics; differential diagnosis must separate drug-induced (>400 agents, now GLP-1 agonists) from Sjögren's (ACR-EULAR anti-SSA/Ro panel) from radiation and aging, with management limited to cause modification and sialagogues.
+
+## 세줄요약
+
+10편 종합 — 침을 두 임상 축으로 정리: ① 내용물 축(살리바오믹스·엑소좀·EFIRM 액체생검, OSCC/PSA/당뇨 바이오마커, 웨어러블 구강센서), ② 유량 축(GPCR→IP3R→SOCE→아쿠아포린5(AQP5) Ca²⁺ 신호축과 그 고장인 구강건조증/타액저하).
+
+침 MMP-9는 구강편평세포암(OSCC) 수술 후 588→132 ng/mL 감소; EFIRM 전기화학 센서는 40–50 µL에서 ~30분 내 EGFR ctDNA 검출; 지속성 구강건조 유병률 10–50%이며 완치약 없음; 세마글루타이드(Semaglutide, GLP-1 작용제)가 타액저하 신규 원인으로 보고됨(3례, 중단 시 가역).
+
+두 축은 기계적으로 연결 — 유량 감소는 진단 매체의 질을 저하시켜 표준화를 방해하며(임상화 최대 장벽), 감별진단은 약물성(>400종, 이제 GLP-1 포함) vs 쇼그렌(Sjögren, 항-SSA/Ro 패널) vs 방사선·노화를 나눠야 하고 관리는 원인 교정·사이알로그(sialagogue)·타액대체제로 대증.
 
 ## Summary
 

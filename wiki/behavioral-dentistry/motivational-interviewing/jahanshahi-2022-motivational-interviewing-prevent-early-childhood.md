@@ -13,11 +13,19 @@ source_collection: external
 tags: [motivational-interviewing, ECC, pediatric, caries-prevention, RCT, dmfs]
 ---
 
-## One-line Summary
-SR+MA of 6 RCTs (n=2,776) showing MI significantly reduces ECC (dmfs); session quality — not quantity — and ≥3-year follow-up are the conditions for effect to emerge.
+## Three-line Summary
+SR+MA of 6 RCTs (n=2,776) testing motivational interviewing (MI) delivered to caregivers as an early childhood caries (ECC) prevention strategy, using dmfs as the primary outcome.
 
-## 한줄요약
-RCT 6편(n=2,776) SR+MA — 동기면담(Motivational Interviewing, MI)이 영유아 우식증(Early Childhood Caries, ECC) 예방에 유의효과. 세션 횟수보다 **질**, 그리고 **≥3년 추적**이 효과 발현 조건.
+MI showed a statistically significant reduction in dmfs; publication bias was not detected, and sensitivity analysis confirmed no single trial drove the result.
+
+Session quality (MI fidelity: open questions, reflective listening, eliciting change talk) matters more than session count, and a minimum 3-year follow-up is needed for the effect to manifest in measurable dmfs differences.
+
+## 세줄요약
+RCT 6편(n=2,776) 체계적 문헌고찰 및 메타분석(Systematic Review and Meta-Analysis, SR+MA) — 보호자 대상 동기면담(Motivational Interviewing, MI)을 영유아 우식증(Early Childhood Caries, ECC) 예방에 적용하고 유치 우식 지수(dmfs)를 주결과로 평가.
+
+MI는 dmfs를 통계적으로 유의하게 감소시켰으며, 출판 비뚤림 없음·단일 연구 배제 민감도 분석에서도 결과 일관.
+
+세션 횟수보다 MI 충실도(개방형 질문·반영적 경청·변화대화 유발)가 핵심이며, 효과 발현에 최소 3년 이상 추적이 필요 — 단기 연구는 효과 과소추정 위험.
 
 ## Summary
 Jahanshahi et al. pooled 6 RCTs (n=2,776) testing MI delivered to caregivers as an ECC prevention strategy. MI showed a statistically significant effect on reducing dmfs (the primary-dentition equivalent of DMFS), the publication-bias test was clean, and sensitivity analysis confirmed no single study drove the result.

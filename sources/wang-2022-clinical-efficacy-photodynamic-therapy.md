@@ -13,13 +13,23 @@ source_collection: external
 
 First systematic review + meta-analysis quantifying PDT efficacy specifically for halitosis using VSC (H2S, CH3SCH3, CH3SH) as outcomes. Establishes the evidence base for PDT as a halitosis management modality. Directly relevant to [[halitosis/huang-2022-efficacy-of-probiotics-in]] (probiotics SR+MA) as a complementary management modality comparison — both evaluate non-antibiotic halitosis reduction strategies.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 8 RCTs (n=345): PDT and PDT+tongue scraper reduce H2S immediately post-treatment better than tongue scraper alone, but the advantage disappears at 7–90-day follow-up.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 8개 RCT(n=345) SR+MA: 광역동치료(PDT) 및 PDT+혀클리너는 시술 직후 H2S 감소에서 혀클리너 단독보다 우수하지만, 7~90일 추적에서는 차이가 없어진다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

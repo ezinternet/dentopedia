@@ -14,7 +14,7 @@ source_collection: external
 
 즉시 식립(IIP)에서 computer-assisted surgery 정확도를 정량화한 [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]]를 robotic-assisted system까지 포함해 확장한 network MA. freehand 대비 static/dynamic/robotic guided의 angular·platform·apex 정확도 우위를 재확인하고 [[digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy]]의 robotic navigation 정확도 근거를 IIP 맥락으로 보강(단 전반 certainty LOW).
 
-## One-line Summary
+## Three-line Summary
 Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수. rCAIS·dCAIS 최상위, FH 최하위. 단 전반 certainty LOW.
 
 ## 2. Key Contributions

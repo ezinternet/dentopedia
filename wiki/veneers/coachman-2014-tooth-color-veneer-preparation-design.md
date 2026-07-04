@@ -16,13 +16,21 @@ relations:
     target: ali-2023-conventional-minimally-invasive-veneers-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report introducing the "Do the Math" technique: an additive diagnostic wax-up transferred intraorally as an aesthetic pre-evaluative temporary (APT), with a per-region formula P = LT − EV (laminate thickness − extra volume = preparation) that computes the exact amount and location of tooth reduction needed for the desired final color and shape — preventing both over- and under-preparation.
+Case report introducing the "Do the Math" technique: an additive diagnostic wax-up transferred intraorally as an aesthetic pre-evaluative temporary (APT) with the formula P = LT − EV (laminate thickness minus extra mock-up volume) applied per tooth region to compute exact preparation depth — in the illustrated A2→A1 case, the middle and incisal thirds required zero reduction.
 
-## 한줄요약
+For a small color change, final lithium disilicate veneers were ~0.3 mm thick; the technique also encodes a color-driven preparation rule (1–2 shade-tone change → thin ~0.3 mm; ≥3 tones → more invasive prep; markedly dark substrate → intrasulcular margin extension).
 
-증례 보고: 부가형 진단 왁스업을 심미적 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)로 구강 내 전사하고, 부위별 수식(라미네이트 두께 LT − 추가부피 EV = 삭제량 P)으로 목표 색·형태에 필요한 정확한 삭제량·위치를 산출하는 "Do the Math" 기법 — 과삭제와 과소삭제를 동시에 막는다.
+The clinical implication is that preparation can occur entirely within the mock-up and never touch enamel when EV ≥ LT, with the limitation that additive mock-ups are unsuitable for malformed/crowded teeth requiring prosthetic reorientation.
+
+## 세줄요약
+
+증례 보고 ("Do the Math" 기법): 부가형 왁스업을 구강 내 심미 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)로 전사 후 부위별 수식 P = LT − EV(라미네이트 두께 − 목업 추가부피 = 삭제량) 적용 — 예시 증례(A2→A1)에서 중간·절단 1/3은 삭제량 0, 최종 비니어 두께 ~0.3 mm.
+
+색차 수준에 따른 삭제 기준도 제시: 1–2 색조 변화 → 얇은 ~0.3 mm 비니어·최소 삭제; ≥3 색조 → 더 침습적; 현저한 어두운 치질 → 치은연하 변연 확장.
+
+임상적 의미: EV ≥ LT이면 삭제가 목업 내에서만 이루어지므로 법랑질(Enamel)을 전혀 삭제하지 않을 수 있음 — 단, 왜곡·총생 치아처럼 보철적 재배치가 필요한 경우는 적용 불가.
 
 ## Summary
 

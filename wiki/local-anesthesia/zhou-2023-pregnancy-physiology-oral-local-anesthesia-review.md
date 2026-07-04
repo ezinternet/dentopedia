@@ -19,13 +19,21 @@ relations:
     target: karm-2017-lidocaine-epinephrine-200000-third-molar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (West China Hospital of Stomatology, 182 studies): standard oral local anesthesia is safe throughout pregnancy; 2% lidocaine + 1:200,000 epinephrine best balances maternal/fetal safety and efficacy; lidocaine/prilocaine are FDA category B (safe), articaine/mepivacaine/bupivacaine category C (caution); optimal elective timing weeks 14–20 with semi-supine positioning.
+Narrative review (West China Hospital of Stomatology, 182 studies from 546 screened) synthesizing pregnancy physiology and its implications for oral local anesthesia choice, technique, and timing.
 
-## 한줄요약
+Standard oral local anesthesia is safe throughout pregnancy; 2% lidocaine + 1:200,000 epinephrine best balances maternal/fetal safety and efficacy; lidocaine and prilocaine are FDA category B (preferred) while articaine, mepivacaine, and bupivacaine are category C (caution).
 
-내러티브 리뷰 (West China Hospital of Stomatology, 182편 포함): 표준 구강 국소마취는 임신 전 기간 안전; 2% 리도카인 + 1:200,000 에피네프린이 모체/태아 균형 최선; 리도카인·프릴로카인 FDA 카테고리 B(안전), 아티카인·메피바카인·부피바카인 C(주의); 선택적 치료 최적 시기 14–20주, 반좌위 권장.
+Elective dental care is best timed at weeks 14–20 with semi-supine/left-tilt positioning; the FDA letter-category framework cited was officially retired in 2015, so treat it as heuristic — the underlying lidocaine + low-dose epinephrine recommendation remains sound.
+
+## 세줄요약
+
+임신 중 구강 국소마취 선택·기법·시기에 대한 내러티브 리뷰 (West China Hospital of Stomatology, 546편 스크리닝 후 182편 포함)로 임신 생리 변화와 마취 처방의 연결점을 정리.
+
+표준 구강 국소마취는 임신 전 기간 안전; 2% 리도카인+1:200,000 에피네프린이 최선의 균형; 리도카인·프릴로카인은 FDA 카테고리 B(선호), 아티카인·메피바카인·부피바카인은 C(주의).
+
+선택적 치료 최적 시기는 14–20주, 반좌위/좌측 기울이기 + 혈압 모니터링 권장; FDA 문자 카테고리 체계는 2015년 공식 폐지되어 발견적 지침으로만 참조하되 리도카인 + 저농도 에피네프린 권고 자체는 여전히 유효하다.
 
 ## Summary
 

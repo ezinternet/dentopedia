@@ -9,8 +9,21 @@ pdf_filename: behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.pdf
 source_collection: external
 ---
 
-## One-line Summary
-전향적 RCT(n=30, 1년): 리튬디실리케이트(IPS e.max Press) vs 지르코니아(Dentcare) 클래스II 인레이 — 양군 모두 1년 임상 성능 만족; 장기 비교 연구 필요
+## Three-line Summary
+
+Prospective 1-year RCT (n=30 patients, 15 per group) comparing pressed lithium disilicate (IPS e.max Press) versus zirconium dioxide (Dentcare Zirconia) Class II inlay restorations in terms of clinical performance.
+
+Both materials showed satisfactory 1-year clinical performance by standard evaluation criteria (FDI/USPHS); no clinically significant difference between groups at 1 year.
+
+The study provides short-term equivalence data between the two ceramic systems for Class II inlays, but the 1-year follow-up is insufficient to differentiate long-term survival — longer trials are needed.
+
+## 세줄요약
+
+전향적 1년 RCT(30명, 군당 15명): 가압 리튬디실리케이트(IPS e.max Press) vs 지르코니아(Dentcare) 클래스 II 인레이의 임상 성능 비교.
+
+양군 모두 1년 임상 평가(FDI/USPHS 기준)에서 만족스러운 성능을 보였으며 군간 유의한 차이 없음.
+
+1년 단기 동등성 데이터 제공 — 장기 생존율 차이 규명에는 더 긴 추적 연구 필요.
 
 ## 1. Document Information
 - **Title**: The One-Year In Vivo Comparison of Lithium Disilicate and Zirconium Dioxide Inlays

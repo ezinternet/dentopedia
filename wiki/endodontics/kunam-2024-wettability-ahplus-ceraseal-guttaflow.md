@@ -16,13 +16,21 @@ text_filename: kunam-2024-wettability-ahplus-ceraseal-guttaflow.txt
 tags: [ceraseal, bioceramic-sealer, wettability, contact-angle, ah-plus]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro contact-angle study (Ossila goniometer) on 60 NaOCl/EDTA/CHX-treated human mandibular premolar root-dentin halves (n=20/group): AH Plus wet dentin best (47.40°) < Ceraseal (61.64°) < Guttaflow bioseal (95.64°, nonwetting); all pairwise differences highly significant (P<0.001).
+In-vitro goniometry study (Ossila goniometer; 60 NaOCl/EDTA/CHX-treated root-dentin halves from 30 human mandibular premolars; n=20/group) measuring the static contact angle of AH Plus (epoxy resin), Ceraseal (calcium-silicate bioceramic), and Guttaflow bioseal (silicone) on root canal dentin.
 
-## 한줄요약
+Contact angles ranked: AH Plus 47.40° < Ceraseal 61.64° < Guttaflow bioseal 95.64° (ANOVA F=537.74, P<0.001; all pairwise Tukey P<0.001); Guttaflow bioseal was classified as nonwetting (>90°), while both AH Plus and Ceraseal were wetting (<90°).
 
-사람 하악 소구치 근관상아질 60편(군당 20편)에서 실러 접촉각을 Ossila 고니오미터로 측정한 in vitro 연구: AH Plus(47.40°)가 가장 잘 젖고, Ceraseal(61.64°), Guttaflow bioseal(95.64°, 비습윤) 순. 모든 쌍대 비교 고도유의(P<0.001).
+AH Plus showed the best dentin wettability due to covalent collagen bonding, Ceraseal showed intermediate wetting attributed to its small grain size and water affinity, and Guttaflow bioseal's hydrophobic silicone chemistry produced the worst dentin adaptation in this bench model.
+
+## 세줄요약
+
+사람 하악 소구치 근관 상아질 60편(군당 20편)을 NaOCl/EDTA/CHX로 처리한 후 Ossila 고니오미터로 AH Plus·Ceraseal·Guttaflow bioseal의 정적 접촉각을 측정한 in-vitro 연구다.
+
+접촉각 순위: AH Plus(47.40°) < Ceraseal(61.64°) < Guttaflow bioseal(95.64°)(ANOVA F=537.74, P<0.001; 모든 쌍대비교 P<0.001); Guttaflow bioseal만 비습윤(>90°)으로 분류됐다.
+
+AH Plus는 콜라겐 공유결합으로 가장 우수한 습윤성, Ceraseal은 소입자 크기·친수성으로 중간 습윤성, Guttaflow bioseal은 소수성 실리콘으로 가장 낮은 상아질 적합도를 보였다.
 
 ## Summary
 

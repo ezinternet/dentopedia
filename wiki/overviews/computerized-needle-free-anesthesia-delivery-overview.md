@@ -38,13 +38,21 @@ relations:
 > - 중심 긴장점: device 우위 주장은 **1차 통증강도**(가장 엄격히 측정되는 지표)에서는 잘 재현되지 않고, **공포·불안·보충마취 필요율·시술후 만족도** 같은 2차/심리적 지표에서 더 일관되게 나타난다. 임상적 가치는 "덜 아프다"보다 "덜 무섭고 덜 재주사한다"에 가깝다. [claude해석]
 > - 임상 적용: device를 "통증 감소 도구"로 홍보하지 말 것(엄격 RCT 반증); "공포 감소·보충마취 회피·소아 협조도 개선" 도구로는 근거 견고. 외과 발치의 1차 대안으로는 부적합(보충블록 필요율↑).
 
-## One-line Summary
+## Three-line Summary
 
-Across nine papers on computerized-controlled (CCLAD/The Wand/STA), pressure-syringe, and needle-free anesthesia delivery systems, rigorous blinded RCTs find no meaningful injection-pain-intensity advantage over conventional syringes, but consistently find benefits in fear/anxiety reduction, supplemental-anesthesia avoidance, and pediatric behavioral cooperation — the clinical value of these devices lies in psychological and secondary outcomes, not in making the injection itself measurably less painful, and evidence quality varies sharply from strong RCTs down to weak unblinded before/after cohorts.
+Synthesis of 9 papers on computerized/pressure-controlled/needle-free anesthesia delivery (CCLAD, The Wand, STA, needle-free jet injectors): the largest, most rigorous 5-arm RCT (Küçükkurt 2026, n=200) found no significant injection-pain difference across all systems (p=0.380; all Hedges g<0.20); prior information about how the device works also failed to reduce anxiety or pain (Rizzo-Lorenzo 2020 RCT).
 
-## 한줄요약
+Benefits do exist in context-specific secondary outcomes: pediatric crossover RCT showed The Wand beats conventional syringe on pain, heart rate, and behavior (Garret-Bernardin 2017); supplemental-anesthesia rate dropped from 100% to 24% with computer-controlled infiltration vs topical gel in periodontal instrumentation (Cabral 2026 RCT); and needle-free routes (mucoadhesive patch 90% procedure completion; QuickSleeper5 intraosseous success 100% vs 70.8%) represent a path-substitution strategy.
 
-컴퓨터제어(CCLAD/The Wand/STA)·압력조절·바늘없는 마취 전달장치 9편을 종합하면, 엄격한 맹검 RCT일수록 주사통증 자체의 우위는 재현되지 않지만 공포·불안 감소, 보충마취 회피, 소아 협조도 개선은 일관되게 관찰된다 — 임상적 가치는 "덜 아프게"가 아니라 "덜 무섭고 덜 재주사하게"에 있으며, 근거 수준은 강한 RCT부터 비맹검 전후비교 코호트까지 폭넓게 갈린다.
+Clinical bottom line: market these devices as anxiety-reduction and supplemental-injection-avoidance tools, not as injection pain reducers (rigorous RCTs refute that claim); they are not a primary substitute for surgical anesthesia (higher supplemental-block rates for impacted third molars, Ramanathan 2023), and evidence quality spans strong blinded RCTs to weak unblinded cohorts.
+
+## 세줄요약
+
+9편 종합(CCLAD·The Wand·STA·바늘없는 주사기): 가장 엄격한 5군 RCT(Küçükkurt 2026, n=200)는 5개 전달시스템 간 주사통증 유의차 없음(p=0.380, 모든 g<0.20); 장비 작동원리 사전 설명도 불안·통증 감소 못 함(Rizzo-Lorenzo 2020 RCT).
+
+맥락별 2차 효과는 존재: 소아 RCT에서 The Wand가 통증·심박수·행동 모두 우위(Garret-Bernardin 2017); 치주기구조작에서 컴퓨터제어가 보충마취 필요율 100% → 24%로 압도적 저감(Cabral 2026); 바늘없는 경로(점막부착 패치 90% 완료; QuickSleeper5 성공률 100% vs 70.8%)는 경로 대체 전략.
+
+임상 결론: 통증 감소가 아닌 공포·보충마취 회피·소아 협조도 개선 도구로 홍보할 것 — 외과 마취의 1차 대안 부적합(보충블록 필요율 증가); 근거 수준은 강한 맹검 RCT부터 약한 비맹검 전후비교까지 폭넓게 갈린다.
 
 ## Thesis
 

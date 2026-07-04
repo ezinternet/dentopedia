@@ -17,13 +17,21 @@ text_filename: cui-2025-prevalence-risk-factors-interproximal-contact-loss.txt
 
 food-impaction 카테고리의 후향 ICL 근거를 보강하기 위해 인제스트. 기존 [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]] 및 [[food-impaction/pang-2017-prevalence-proximal-contact-loss-prospective]]가 mesial>distal 패턴과 기능기간 효과를 보고했는데, Cui 2025는 graded aluminum strip(20–100 μm)으로 interspace를 정량 측정하고 mesial/distal을 별도 logistic으로 분석해, bruxism·mechanical complication·peri-implantitis 같은 새 인자를 추가로 제시한다 (mesial vs distal 위험인자가 다르다는 점이 핵심 기여).
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (204 patients, 445 posterior implant prostheses, ≤10y; ICL = aluminum-strip interspace >50 μm): patient-level ICL 59.8%, mesial 40.0% > distal 24.1%; mesial risk factors = food impaction (OR 4.99), function duration, adjacent-tooth status, bruxism; distal = mechanical complications (OR 7.04), peri-implantitis, food impaction, bruxism.
+Retrospective study of 204 patients with 445 posterior implant-supported prostheses (≤10 years function) using graded aluminum strips (>50 μm = ICL) to quantify interproximal contact loss (ICL) at mesial and distal sites separately.
 
-## 한줄요약
+Patient-level ICL prevalence was 59.8%; site-level mesial ICL (40.0%) significantly exceeded distal ICL (24.1%); mesial independent risk factors included food impaction (OR 4.99), function duration (OR 1.30/yr), and bruxism, while distal risk factors were dominated by mechanical complications (OR 7.04) and peri-implantitis.
 
-후향연구(204명, 구치부 임플란트 보철 445개, ≤10년; 알루미늄 strip interspace >50 μm를 ICL로 정의): 환자수준 ICL 59.8%, mesial 40.0% > distal 24.1%; mesial 위험인자=식편압입(OR 4.99)·기능기간·인접치상태·이갈이, distal=기계적 합병증(OR 7.04)·임플란트주위염·식편압입·이갈이.
+The differing mesial vs distal risk-factor profiles suggest distinct prevention strategies; residual confounding from incomplete baseline records and single-center design limits causal inference.
+
+## 세줄요약
+
+후향연구(204명, 구치부 임플란트 보철 445개, ≤10년): 등급별 알루미늄 스트립(>50 μm = 인접면접촉상실(Interproximal Contact Loss, ICL))으로 근심·원심 접촉 부위를 별도 측정.
+
+환자 수준 ICL 유병률 59.8%; 부위별 근심(Mesial) ICL 40.0%가 원심(Distal) ICL 24.1%보다 유의하게 높음; 근심 독립 위험인자=식편압입(OR 4.99)·기능기간(OR 1.30/년)·이갈이(Bruxism), 원심=기계적 합병증(OR 7.04)·임플란트주위염(Peri-Implantitis).
+
+근심·원심 위험인자가 다르므로 예방 전략도 달리해야 하며, 단일기관 후향설계와 기저치 기록 불완전으로 인한 잔류 교란에 주의 필요.
 
 ## 1. Document Information
 

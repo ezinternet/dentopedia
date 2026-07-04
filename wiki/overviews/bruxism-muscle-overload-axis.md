@@ -36,13 +36,21 @@ relations:
 > - 임상 takeaway: 임플란트 이갈이 환자는 스플린트를 1차 보호로, BoNT-A는 골유착 기간을 피하고 순응도 실패·중증에 한해 escalation.
 > - 식립 전 bruxism 스크리닝(반복 보철 파절력, 교근비대·linea alba·교모, 근전도 EMG/수면다원검사 PSG)이 표준 단계가 되어야 함(Song 2021의 핵심 주장).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of bruxism as a shared upstream driver: excess masticatory-muscle force, lacking an adequate PDL/peri-implant shock absorber, discharges into whichever structure is weakest — TMJ (pain/derangement), tooth-restoration (wear, cracked tooth, prosthesis fracture), or implant hardware (late failure). Splint buffers force downstream, occlusal adjustment reshapes contact (weak/unsupported for TMD), and BoNT-A cuts force at the muscle source — but BoNT-A simultaneously impairs osseointegration (animal), making it a double-edged tool in the very implant patients who most need overload protection.
+Synthesis positioning bruxism as a shared upstream driver across three downstream pathways: excess masticatory-muscle force, when PDL/peri-implant shock absorption is insufficient, discharges into TMJ (pain/derangement; pooled TMD prevalence ~31%, Valesan 2021 SR+MA), tooth-restoration (wear, cracked tooth, prosthesis fracture), or implant hardware (late failure — PDL absent, Song 2021).
 
-## 한줄요약
+Three interventions act at different points in the causal chain: splint buffers force downstream; occlusal adjustment reshapes contact points (very low evidence, not supported for TMD; Singh 2024 Cochrane); BoNT-A cuts force at the muscle source (beats placebo but equals standard care; de-la-torre-canales 2024 umbrella) — yet BoNT-A simultaneously impairs osseointegration in animal data (BV/TV↓, BIC↓; Deng 2023), making it a double-edged tool.
 
-이갈이를 공통 상류 인자로 묶은 종합. 과도한 저작근 힘이 충분한 완충(치주인대·임플란트 주위)을 못 만나면 가장 약한 구조로 방전된다 — TMJ(통증·내장애), 치아·보철(마모·균열·파절), 임플란트 하드웨어(late failure). 스플린트는 힘을 하류에서 분산, 교합조정은 접촉을 재형성(TMD엔 근거 약함·미지지), 보툴리눔독소(BoNT-A)는 근육 단계에서 힘 자체를 차단한다 — 그러나 BoNT-A는 동시에 골유착을 손상시켜(동물), 과부하 보호가 가장 필요한 임플란트 환자에서 양날의 검이 된다.
+Clinical takeaway: for implant patients with bruxism, use splint as first-line protection; reserve BoNT-A for compliance failures and severe cases while avoiding the osseointegration period; screen all patients pre-implant for bruxism (repeated prosthetic fractures, masseter hypertrophy, linea alba, wear facets, EMG/PSG).
+
+## 세줄요약
+
+이갈이를 공통 상류 인자로 묶은 종합: 과도한 저작근 힘이 치주인대(PDL)·임플란트 주위 완충을 초과하면 가장 약한 구조로 방전된다 — 턱관절장애(TMD, 유병률 ~31%; Valesan 2021 SR+MA)·치아-보철(마모·균열·파절)·임플란트 하드웨어 (late failure; PDL 부재, Song 2021).
+
+세 중재의 작용 지점이 다르다: 스플린트 = 하류 완충·분산; 교합조정(occlusal adjustment) = 접촉 재형성(비가역·TMD 근거 매우 낮음·미지지; Singh 2024 Cochrane); 보툴리눔독소 A(BoNT-A) = 근육 단계에서 힘 자체 차단(위약 우위·표준치료 동등) — 그러나 동물에서 골유착 손상(BV/TV↓·골-임플란트 접촉률(BIC)↓; Deng 2023), 양날의 검.
+
+임상 결론: 임플란트 이갈이 환자에서 스플린트를 1차 보호, BoNT-A는 골유착 기간 회피·순응도 실패·중증에만 escalation; 식립 전 브럭시즘 스크리닝(반복 보철 파절·교근비대·linea alba·교모·EMG/수면다원검사)을 표준화.
 
 ## Summary
 

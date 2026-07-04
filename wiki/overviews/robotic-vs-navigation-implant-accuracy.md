@@ -26,11 +26,21 @@ tags: [robotic-surgery, dynamic-navigation, CAIS, implant-accuracy, synthesis]
 > - 임상 결정점: ①각도가 critical한 케이스(다수 임플란트 평행성·좁은 치근간·보철 주도 각도)→로봇이 가장 명확·재현 가능한 이점[합의수준] ②단순 단일 부위→동적 내비가 선형 정확도 동등하면서 더 빠름 ③벤더 정확도 주장은 동일 추적장치 비교를 요구[근거강함, Wei RCT] ④로봇 자율 수준을 필요한 정확도 성분에 맞출 것.
 > - Gap: 편차 차이를 골유착·MBL·보철 적합·생존 등 hard outcome에 연결한 데이터 없음, RCT n 작음·단일치 중심·학습곡선 미분리·비용효과 분석 없음, 복잡/full-arch·즉시식립 로봇 정확도 미연구.
 
-## One-line Summary
-Across current clinical evidence, autonomous implant robots reliably reduce angular deviation vs dynamic navigation, but their advantage in linear (platform/apex) deviation shrinks to non-significant once the optical tracking system is held constant — at the cost of longer chair time.
+## Three-line Summary
 
-## 한줄요약
-현재 임상근거 종합: 자율 임플란트 로봇은 동적내비게이션 대비 각도 편차를 일관되게 줄이나, 동일 추적장치로 통제하면 선형(플랫폼·첨부) 편차 우위는 비유의해지고 시술시간만 길어진다.
+Synthesis of 5 papers (1 RCT, 3 prospective/retrospective comparisons, 1 SR+NMA) on autonomous robotic vs dynamic navigation vs static guide implant placement accuracy.
+
+Autonomous robots reliably reduce angular deviation vs dynamic navigation (Yu 2025 prospective: 1.62° vs 3.61°, p<0.001; Wei 2025 RCT: 1.01° vs 1.78°, p<0.01), but when the optical tracking system is held constant across arms, the linear (coronal and apical) deviation advantage shrinks to non-significant — the robot's reproducible benefit is angular control, not linear accuracy.
+
+Robot-assisted placement should be reserved for angular-critical cases (multi-implant parallelism, tight inter-radicular spaces, prosthetically driven angulation); for single straightforward sites, dynamic navigation matches the robot on linear accuracy and is faster — and all vendor accuracy claims should be evaluated with same-tracker comparisons.
+
+## 세줄요약
+
+5편 종합 (RCT 1, 전향적/후향적 비교 3, SR+NMA 1) — 자율 임플란트 로봇(r-CAIS), 동적내비게이션(d-CAIS), 정적 가이드의 식립 정확도 비교.
+
+자율 로봇은 각도 편차(Angular Deviation)를 일관되게 줄이나(Yu 2025: 1.62° vs 3.61°, p<0.001; Wei 2025 RCT: 1.01° vs 1.78°, p<0.01), 추적장치를 양 군에 동일화하면 선형(관상·첨부) 편차 우위는 비유의해짐 — 로봇의 재현 가능한 이점은 각도 통제이며 선형 정확도는 아니다.
+
+각도가 결정적인 케이스(다수 임플란트 평행성·좁은 치근간·보철 주도 각도)에서 로봇이 가장 명확한 이점이 있으며, 단순 단일 부위는 동적 내비가 선형 정확도 동등·더 빠름; 벤더 정확도 주장은 반드시 동일 추적장치 비교 근거를 요구해야 한다.
 
 ## Thesis
 The clinical question is not "is the robot more accurate?" but "*which* component of accuracy improves, and is the improvement attributable to the robot or to its tracking pipeline?" Non-randomized comparisons (Yu 2025) show the robot roughly halving all three deviation metrics. But the one RCT that equalises the optical tracker across arms (Wei 2025) finds the robot's reliable, reproducible benefit is **angular control** — coronal and apical deviations become statistically equivalent to dynamic navigation. A semi-autonomous robot (Chen 2025) shows the opposite emphasis (linear gain, no angular gain), consistent with the operator remaining partly in the loop. Robots also impose longer surgical time. Net: robots are an angular-stability tool, not a blanket accuracy upgrade, and much of the apparent linear advantage in uncontrolled studies reflects tracking/operator confounding.

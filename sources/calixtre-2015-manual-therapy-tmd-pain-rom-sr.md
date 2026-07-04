@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a TMD physical-therapy ingest batch reinforcing the wiki's physiotherapy cluster. This is the foundational 2015 systematic review of RCTs isolating manual therapy (MT) effects on TMD pain and mouth opening, and it directly reinforces [[wiki/tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] by providing the earlier, technique-stratified GRADE evidence base (myofascial release/massage on masticatory muscles, upper-cervical thrust/mobilisation) that the later physiotherapy syntheses build on.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 8 RCTs (7 of high PEDro quality) showing manual therapy improves pain, maximum mouth opening (MMO) and pressure pain threshold (PPT) in TMD — myofascial release/massage on masticatory muscles and upper-cervical spine thrust/mobilisation are more effective than control (low–high GRADE), as effective as botulinum toxin (moderate), while thoracic manipulation is not effective.
+Systematic review of 8 RCTs (7 with high PEDro quality; databases: MEDLINE, Cochrane, Web of Science, SciELO, EMBASE) on manual therapy for pain, maximum mouth opening (MMO), and pressure pain threshold (PPT) in subjects with signs and symptoms of temporomandibular disorder; GRADE used for body-of-evidence quality.
 
-## 한줄요약
+Technique-stratified findings: myofascial release/massage on masticatory muscles was more effective than control (GRADE low–moderate) and as effective as botulinum toxin (moderate); upper-cervical spine thrust manipulation/mobilisation was more effective than control (low–high GRADE); thoracic manipulation was not effective; overall MT protocols rated moderate–high GRADE.
 
-RCT 8편(7편 PEDro 고품질)을 종합한 체계적 문헌고찰 — 측두하악장애(TMD)에서 도수치료(Manual Therapy, MT)가 통증·최대개구량(Maximum Mouth Opening, MMO)·압력통증역치(Pressure Pain Threshold, PPT)를 개선하며, 저작근 근막이완/마사지와 상부경추 thrust/가동술은 대조군보다 효과적(GRADE 저~고)이고 보툴리눔 독소와 동등(중등도), 흉추 도수정복은 효과 없음.
+The evidence base is limited to 8 heterogeneous RCTs with no quantitative meta-analysis; methodological diversity frequently lowered GRADE quality, and standardized sham-controlled trial designs are needed.
+
+## 세줄요약
+
+측두하악장애(Temporomandibular Disorder, TMD) 환자의 통증·최대개구량(Maximum Mouth Opening, MMO)·압력통증역치(Pressure Pain Threshold, PPT)에 대한 도수치료(Manual Therapy, MT) 효과를 다룬 체계적 문헌고찰(RCT 8편, 7편 PEDro 고품질); GRADE로 근거수준 평가.
+
+기법별 GRADE 결과: 저작근 근막이완/마사지 — 대조군보다 효과적(저~중등도), 보툴리눔 독소와 동등(중등도); 상부경추 thrust 도수정복/가동술 — 대조군보다 효과적(저~고); 흉추 도수정복 — 효과 없음.
+
+RCT 8편의 소규모·이질적 근거로 정량적 메타분석 불가; 표준화된 대조(placebo MT) 설계·치료 프로토콜 통일이 향후 과제.
 
 ## 1. Document Information
 

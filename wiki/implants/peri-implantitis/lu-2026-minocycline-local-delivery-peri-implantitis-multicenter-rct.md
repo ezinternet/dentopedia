@@ -15,13 +15,21 @@ text_filename: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-r
 tags: [peri-implantitis, minocycline, local-drug-delivery, mechanical-debridement, BOP, probing-depth, MBL, multicenter-RCT]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter single-blind RCT (n=46) showing adjunctive subgingival 2% minocycline ointment reduces probing depth and BOP at 12 weeks versus debridement alone in peri-implantitis, with transient microbiologic benefits at 8 weeks but insufficient follow-up for radiographic conclusions.
+Multicenter single-blind RCT (n=48 randomized, 46 analyzed; two Korean university dental hospitals; 12 weeks) comparing nonsurgical subgingival debridement + 2% minocycline HCl ointment (n=22) vs debridement + placebo (n=24), with 4 applications over weeks 0–3.
 
-## 한줄요약
+At 12 weeks, adjunctive minocycline significantly reduced probing pocket depth (PD) and bleeding on probing (BOP) vs placebo; microbiologic pathogen suppression was significant at 8 weeks (p<0.05) but less consistent at 12 weeks, and early post-treatment swelling was lower at 3 weeks; no OHRQoL difference.
 
-다기관 단일맹검 RCT(n=46): 임플란트 주위염 비외과적 치료 시 2% 미노사이클린 연고 보조요법이 12주 시점에 탐침깊이(PD)와 탐침출혈(BOP)을 유의하게 개선하나, 방사선학적 골안정성 결론을 도출하기엔 추적 기간 부족.
+Local minocycline delivery supports systemic-antibiotic-sparing short-term nonsurgical therapy for peri-implantitis, but the 12-week follow-up is insufficient to draw radiographic marginal bone stability conclusions, and longer RCTs are needed.
+
+## 세줄요약
+
+다기관 단일맹검 RCT(n=48 무작위배정, 46명 분석; 한국 대학치과병원 2곳; 12주) — 비외과적 치하 변연부 청소 + 2% 미노사이클린 염산염(Minocycline HCl) 연고(n=22) vs 청소 + 위약(n=24), 0–3주에 걸쳐 4회 도포.
+
+12주 시점에서 보조 미노사이클린 군이 위약 군 대비 탐침깊이(Probing Depth, PD)와 탐침출혈(Bleeding on Probing, BOP)을 유의하게 감소시켰으며, 임플란트주위 병원균 억제는 8주에 유의(p<0.05)했으나 12주에는 일관성이 낮아졌고, 3주 시점 초기 부종도 감소; OHRQoL(구강건강관련삶의질) 차이 없음.
+
+국소 미노사이클린 전달은 전신 항생제를 회피한 단기 비외과적 임플란트주위염 치료를 지지하나, 12주 추적은 방사선학적 변연골 안정성 결론을 도출하기에 불충분하며 더 긴 추적의 RCT가 필요하다.
 
 ## Summary
 

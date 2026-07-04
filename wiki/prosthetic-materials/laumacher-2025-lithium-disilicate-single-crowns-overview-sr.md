@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Umbrella review of systematic reviews on tooth- and implant-supported lithium disilicate (LD) single crowns: 5-year survival 95–98% for tooth-supported LD; monolithic LD eliminates veneering-related chipping, and implant-supported LD evidence is growing with comparable outcomes to conventional ceramics.
+## Three-line Summary
 
-## 한줄요약
-리튬 디실리케이트 단단관 보철 임상 결과 SR 개요 — 5년 생존율 95–98%, 임플란트 지지 LD 근거 증가.
+Umbrella review of systematic reviews (Journal of Dentistry 2025) synthesizing clinical outcomes of tooth- and implant-supported lithium disilicate (LD) single crowns from multiple prior SRs.
+
+Tooth-supported LD single crowns showed 5-year survival of 95–98%; monolithic LD eliminates veneering-related chipping, and implant-supported LD evidence is growing with outcomes comparable to conventional ceramics.
+
+LD is a reliable first-choice material for single crowns; monolithic design is preferred to avoid chipping complications, though implant-supported LD evidence remains more limited than tooth-supported data.
+
+## 세줄요약
+
+기존 체계적 문헌고찰들을 종합한 개요 리뷰(Journal of Dentistry 2025)로, 치아지지 및 임플란트지지 리튬 디실리케이트(Lithium Disilicate, LD) 단단관의 임상 결과를 정리.
+
+치아지지 LD 단단관 5년 생존율 95–98%; 모놀리식 LD는 베니어 관련 칩핑을 제거하며, 임플란트지지 LD 근거도 증가하여 기존 세라믹과 유사한 결과.
+
+LD는 단단관의 신뢰할 만한 1차 선택 재료이며 모놀리식 디자인이 권장되나, 임플란트지지 LD의 장기 근거는 치아지지보다 부족함.
 
 ## Summary
 Umbrella review synthesizing systematic reviews on clinical outcomes of tooth- and implant-supported lithium disilicate single crowns.

@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 로딩 타이밍(즉시/조기/통상 부하)의 임상적 차이를 근거중심으로 정리하기 위해 인제스트. 기존 [[wiki/implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]]가 단일 임플란트 크라운에 집중하는 반면, 본 Cochrane SR(pub5)은 전악 범위를 포괄하며 부하 시기 전반을 다루는 최고 수준의 근거 문서임.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (26 RCTs, n=1217, 2120 implants): no clinically significant difference in implant/prosthesis failure or marginal bone loss between immediate, early, and conventional loading at 1 year; insertion torque ≥35 Ncm recommended for immediate/early loading.
 
-## 한줄요약
+Cochrane SR+MA (26 RCTs, n=1217, 2120 implants): no clinically significant difference in implant/prosthesis failure or marginal bone loss between immediate, early, and conventional loading at 1 year;
 
-코크란 체계적 문헌고찰(26개 RCT, 1217명, 2120개 임플란트): 즉시·조기·통상 부하 간 임플란트/보철 실패율 및 변연골 소실에서 임상적으로 유의한 차이 없음; 즉시/조기 부하 전제조건으로 삽입 토크 ≥35 Ncm 권고.
+insertion torque ≥35 Ncm recommended for immediate/early loading.
+
+(incomplete)
+
+## 세줄요약
+
+
+코크란 체계적 문헌고찰(26개 RCT, 1217명, 2120개 임플란트): 즉시·조기·통상 부하 간 임플란트/보철 실패율 및 변연골 소실에서 임상적으로 유의한 차이 없음;
+
+즉시/조기 부하 전제조건으로 삽입 토크 ≥35 Ncm 권고.
+
+(incomplete)
 
 ## 1. Document Information
 

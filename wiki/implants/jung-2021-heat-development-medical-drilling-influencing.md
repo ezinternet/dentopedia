@@ -13,11 +13,21 @@ source_collection: external
 tags: [drilling, heat-generation, internal-factors, external-factors, ex-vivo-methods, mini-review]
 ---
 
-## One-line Summary
-Narrative mini-review (In Vivo 2021) categorizing bone-drilling heat generation into internal (drill diameter/shape/material/speed/feed) and external (irrigation, bone density, anatomy) factors, comparing temperature measurement methods (thermocouple, IR thermography, fiber optic), and advocating standardized ex vivo protocols to reduce animal experimentation; cites the 47°C osteonecrosis threshold.
+## Three-line Summary
 
-## 한줄요약
-Mini-review(in vivo 2021): medical drilling 발열을 internal(drill 직경·형상·재질·속도·feed)과 external(irrigation·골밀도·해부) 요인으로 분류; ex vivo 표준 측정법 도입으로 동물실험 감소 제안.
+Narrative mini-review (In Vivo 2021) on heat generation during medical and dental bone drilling: categorizes factors into internal (drill diameter, shape, material, rotational speed, feed rate, depth) and external (cooling/irrigation method, bone density, anatomy), and compares three temperature measurement methods (thermocouple, IR thermography, fiber optic).
+
+Cites the 47°C/1 min osteonecrosis threshold; presents preliminary inflammatory tissue-reaction data from inadequate drilling; argues that measurement instruments are not interchangeable — hidden source of heterogeneity across the drilling literature.
+
+Advocates for standardized ex vivo measurement protocols to improve reproducibility and reduce animal experimentation; clinical message: thermal control requires simultaneous management of both internal (drill design) and external (irrigation) factors; neither alone is sufficient.
+
+## 세줄요약
+
+내러티브 미니 리뷰 (In Vivo 2021): 의료·치과 골 드릴링 발열 발생 요인을 internal (drill 직경·형상·재질·회전속도·이송속도·깊이)과 external (냉각/관류·골밀도·해부)로 분류; 온도 측정법 3종 비교(열전대·IR 열화상·광섬유).
+
+47°C/1분 골괴사(osteonecrosis) 임계값 인용; 부적절한 드릴링에 의한 초기 염증 조직반응 데이터 제시; 측정 기기 비호환성이 기존 문헌 이질성의 숨은 원인임을 지적.
+
+표준화된 ex vivo 측정 프로토콜 도입으로 재현성 향상·동물실험 감소 주장; 임상 메시지: 발열 통제는 drill 설계(internal)와 관류(external) 양쪽 동시 관리가 필요 — 어느 한쪽만으로는 불충분.
 
 ## Summary
 A narrative mini-review categorizing the heat-generating factors of medical and dental bone drilling into internal (drill-side) and external (environment-side) families, comparing temperature measurement methods (thermocouple, IR thermography, fiber optic), and presenting preliminary inflammatory tissue-reaction data from inadequate drilling. Argues for standardized ex vivo measurement protocols to improve reproducibility and reduce animal experimentation.

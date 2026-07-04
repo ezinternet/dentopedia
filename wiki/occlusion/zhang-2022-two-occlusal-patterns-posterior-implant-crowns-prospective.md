@@ -16,11 +16,19 @@ relations:
     target: mao-2024-occlusal-changes-implant-supported-single-crowns
 ---
 
-## One-line Summary
-12-month prospective study (n=50, T-Scan III) of implant-protected occlusion: light vs normal occlusion on single posterior implant crowns. Light occlusion kept relative occlusal force lower (4.91→10.34% vs 10.45→18.15%) but the reduction was not stable over time; no overload complications; force rises over time so long-term follow-up is needed.
+## Three-line Summary
+12-month prospective study (n=50, T-Scan III) comparing light-contact vs normal-contact occlusion on single posterior implant-supported crowns.
 
-## 한줄요약
-단일 구치 임플란트 단관에서 약교합(light) vs 정상교합을 12개월 전향 비교(n=50, T-Scan III). 약교합이 상대 교합력을 낮게 유지(4.91→10.34% vs 10.45→18.15%)했으나 시간이 지나며 유지 안 됨; 과부하 합병증 없음; 교합력이 증가하므로 장기 추적 필요.
+Light occlusion maintained lower relative force over 12 months (4.91→10.34%) vs normal occlusion (10.45→18.15%) and shorter occlusal contact time (p<.001), but force progressively increased in both groups and differences were not fully stable over time; no overload complications occurred in either group.
+
+Implant-protected light occlusion reduces immediate loading but does not prevent progressive force increase over 12 months, highlighting the need for periodic occlusal reassessment after implant crown delivery.
+
+## 세줄요약
+단일 구치부 임플란트 단관에서 약교합(light contact) vs 정상교합을 T-Scan III로 12개월 전향 비교한 연구(n=50).
+
+약교합군이 상대 교합력을 낮게 유지(4.91→10.34%)하고 교합 접촉 시간도 유의하게 짧았으나(p<.001), 양 군 모두 시간 경과에 따라 교합력이 증가했으며 두 군 간 차이의 안정성은 낮음; 과부하 합병증은 없음.
+
+임플란트 보호 교합(약교합)은 초기 하중을 줄이지만 12개월에 걸친 교합력 증가를 막지 못하므로, 임플란트 보철 장착 후 정기적인 교합 재평가가 필요하다.
 
 ## Summary
 구치 임플란트 단관의 교합양식 2종을 12개월 전향 비교한 임상연구. 임플란트 교합접촉의 시간적 변화를 임상으로 정량 — [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]]의 임상 근거.

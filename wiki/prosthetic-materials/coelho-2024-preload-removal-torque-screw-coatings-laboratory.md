@@ -18,13 +18,22 @@ relations:
     target: varvara-2020-retightening-preload-loss-abutment-screws
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=45, external hex implants) showed PTFE tape significantly reduced screw preload (28.88 vs 30.41 N·cm control, p<0.05), while GapSeal silicone gel maintained preload and increased removal torque (28.67 vs 26.59 N·cm, p<0.001); GapSeal recommended, PTFE contraindicated for preventing screw loosening.
+In vitro study (n=45 external hex implant-abutment-screw complexes, 15/group) comparing no coating, GapSeal silicone gel, and PTFE tape for their effect on screw preload and removal torque value (RTV) after tightening to 30 N·cm.
 
-## 한줄요약
+PTFE tape significantly reduced preload (28.88 vs 30.41 N·cm control, p=0.004) — acting as a lubricant rather than a lock; GapSeal maintained preload (NS vs control) and significantly increased RTV (28.67 vs 26.59 N·cm, p<0.001); ANCOVA-adjusted RTV confirmed GapSeal highest and PTFE lowest (17.20 vs 28.70 N·cm).
 
-체외 연구(n=45, 외부육각 임플란트)에서 PTFE 테이프는 나사 프리로드를 유의하게 감소시키고(28.88 vs 30.41 N·cm, p<0.05), GapSeal 실리콘 젤은 프리로드를 유지하며 제거 토크를 증가시켜(28.67 vs 26.59 N·cm, p<0.001) GapSeal 사용이 권장됨.
+PTFE tape should be avoided despite its common clinical use, as it reduces the clamping force it is meant to protect; GapSeal can be applied to the implant internal space at chairside to reduce loosening risk without compromising preload.
+
+## 세줄요약
+
+체외 연구 (외부 헥스 임플란트-어버트먼트-나사 복합체 n=45, 군당 15) — 코팅 없음·GapSeal 실리콘 젤·PTFE 테이프를 30 N·cm 체결 후 프리로드(Preload, PL)와 제거 토크(Removal Torque Value, RTV)에서 비교.
+
+PTFE 테이프는 프리로드를 유의하게 감소(28.88 vs 30.41 N·cm, p=0.004) — 잠금이 아닌 윤활제로 작용; GapSeal은 프리로드 유지(비유의)하고 RTV 유의하게 증가(28.67 vs 26.59 N·cm, p<0.001); ANCOVA 보정 후 GapSeal RTV 최고(28.70), PTFE 최저(17.20 N·cm).
+
+PTFE 테이프는 임상에서 흔히 사용되나 조임력을 오히려 약화시키므로 금기; GapSeal은 어버트먼트 나사 체결 전 임플란트 내부에 적용하여 프리로드 손실 없이 나사 이완 방지 가능.
+
 
 ## Summary
 

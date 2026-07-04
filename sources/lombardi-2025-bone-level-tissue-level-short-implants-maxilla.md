@@ -13,13 +13,23 @@ source_collection: external
 
 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 및 변연골 안정성 (Marginal Bone Stability) 관련 문헌이 주로 표준 길이 임플란트에 집중되어 있어, 상악 구치부에서의 단축 임플란트 (Short Implant) 간 골 유지 차이를 다루는 비교 임상 데이터가 부족하였다. 본 연구는 골-수준 (Bone-Level) 대 조직-수준 (Tissue-Level) 단축 임플란트를 동일 시스템·동일 거시 형태 하에 직접 비교하는 최초의 전향적 케이스-대조 연구로, [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]]의 6 mm 이하 단축 임플란트 생존율 체계에서 임플란트 배치 방식별 변연골 손실(MBL) 패턴을 보완하는 근거로 활용한다.
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter prospective case–control study (n=58 patients, 71 implants, 1-year loading) found tissue-level short implants exhibited significantly less physiological bone remodeling than subcrestal bone-level short implants in posterior maxilla (PBR T0–T2: 0.30 vs. 0.55 mm, p=0.003), with 100% survival in both groups.
 
-## 한줄요약
+Multicenter prospective case–control study (n=58 patients, 71 implants, 1-year loading) found tissue-level short implants exhibited significantly less physiological bone remodeling than subcrestal bone-level short implants in posterior maxilla (PBR T0–T2: 0.30 vs.
+
+0.55 mm, p=0.003), with 100% survival in both groups.
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 다기관 케이스-대조 연구(환자 58명, 임플란트 71개, 1년 추적)에서 상악 구치부 단축 임플란트의 변연골 개조량이 조직-수준 임플란트(0.30 mm)에서 골-수준 임플란트(0.55 mm)보다 유의하게 낮았으며(p=0.003), 두 군 모두 100% 생존율 달성.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

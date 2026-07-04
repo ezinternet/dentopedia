@@ -17,13 +17,23 @@ text_filename: muller-2018-sbar-handoff-communication-patient-safety-sr.txt
 
 General-healthcare (not dental-specific) evidence ingested to anchor the dental team-communication axis: it is the systematic-review evidence base for a concrete intra-team communication TOOL — SBAR (Situation, Background, Assessment, Recommendation) — that transfers directly to dental-practice hand-offs and nurse/assistant-to-dentist escalation. It reinforces [[overviews/dental-workforce-delegation-skill-mix-overview]] by supplying the structured-handover instrument that delegation and skill-mix arrangements depend on (the more a dental team delegates, the more it relies on reliable hand-offs).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies: 8 before–after + 3 controlled trials; general healthcare) finds MODERATE evidence that the SBAR hand-off tool improves patient safety — 8 of 26 outcomes significantly improved, strongest for structured nurse-to-physician telephone communication, but overall study quality is low.
 
-## 한줄요약
+Systematic review (11 studies: 8 before–after + 3 controlled trials;
 
-체계적 문헌고찰(11편: 전후비교 8 + 대조시험 3, 일반 의료) — 표준화 인계도구 SBAR가 환자안전을 개선한다는 중등도 근거. 26개 결과 중 8개가 유의하게 개선됐고, 특히 간호사→의사 전화 인계에서 가장 강한 효과를 보였으나 전반적 연구의 질은 낮음.
+general healthcare) finds MODERATE evidence that the SBAR hand-off tool improves patient safety — 8 of 26 outcomes significantly improved, strongest for structured nurse-to-physician telephone communication, but overall study quality is low.
+
+(incomplete)
+
+## 세줄요약
+
+
+체계적 문헌고찰(11편: 전후비교 8 + 대조시험 3, 일반 의료) — 표준화 인계도구 SBAR가 환자안전을 개선한다는 중등도 근거.
+
+26개 결과 중 8개가 유의하게 개선됐고, 특히 간호사→의사 전화 인계에서 가장 강한 효과를 보였으나 전반적 연구의 질은 낮음.
+
+(incomplete)
 
 ## 1. Document Information
 

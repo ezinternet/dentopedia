@@ -18,13 +18,21 @@ relations:
     target: stilwell-2024-occlusal-considerations-implant-maintenance
 ---
 
-## One-line Summary
+## Three-line Summary
 
-5-year retrospective study (288 patients, 506 implants) using CAD-derived 3D (mesiodistal + buccolingual) angulation measurement: nonaxial implants had significantly greater marginal bone loss (0.22±0.48 vs 0.10±0.39 mm, P<.05), maxilla > mandible (P<.001), with a significant angulation×antagonist interaction (nonaxial opposing an implant-supported FDP worst, Δ0.373 mm).
+5-year single-center retrospective cohort (288 patients, 506 implants, mean follow-up 5.1 years) using CAD-derived 3D angulation — capturing both mesiodistal and buccolingual tilt — to examine peri-implant marginal bone loss (MBL); plaque scores ≤5% and routine occlusal adjustment controlled for microbial confounding.
 
-## 한줄요약
+Nonaxial implants had significantly greater MBL than axial implants (0.22±0.48 vs 0.10±0.39 mm, P<.05); maxilla exceeded mandible (P<.001); an angulation×antagonist interaction was significant (P=0.007) with the largest gap when a nonaxial implant opposed an implant-supported FDP (Δ0.373 mm).
 
-CAD 3D 각도 측정을 쓴 5년 후향연구(288명·506개). 비축방향 임플란트 변연골 소실이 유의하게 컸고(0.22±0.48 vs 0.10±0.39 mm, P<.05), 상악>하악(P<.001), 비축방향이 임플란트 지지 고정성 보철과 대합할 때 골소실이 가장 컸다(상호작용 Δ0.373 mm).
+The finding reframes prior negative studies as an artifact of 2D-only angle measurement; the absolute MBL differences are small, and buccolingual bone loss itself was not captured in radiographic outcomes, limiting clinical magnitude.
+
+## 세줄요약
+
+5년 단일기관 후향 코호트(288명, 506개 임플란트, 평균 추적 5.1년): CAD 3D 각도 측정(근원심 + 협설 방향)으로 비축방향 로딩이 변연골 소실 (Marginal Bone Loss, MBL)에 미치는 영향 분석; 치태지수 ≤5% 환자만 포함, 교합조정으로 미생물 교란 최소화.
+
+비축방향 임플란트가 축방향 대비 MBL 유의하게 큼(0.22 vs 0.10 mm, P<.05); 상악>하악(P<.001); 비축방향×대합치 유형 상호작용 유의(P=0.007) — 비축방향이 임플란트 지지 고정성 보철 (Fixed Dental Prosthesis, FDP)과 대합 시 MBL 가장 큼(Δ0.373 mm).
+
+기존 2D 측정 연구의 음성 결과가 측정 불완전성의 인공산물임을 시사; 절대 골소실량은 작고, 방사선 결과치 자체가 협설 골소실을 반영 못 하는 한계 있음.
 
 ## Summary
 

@@ -10,7 +10,7 @@ pdf_filename: vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (Eur Endod J 2023, n=비역가능 치수염 1대구치 환자): 술후 endodontic pain — diclofenac potassium 50mg이 ibuprofen 400mg보다 통증 free 비율 + 평균 통증 점수 유의하게 우수; 비가역적 치수염에서 diclofenac potassium 옵션.
 
 ## 1. Document Information

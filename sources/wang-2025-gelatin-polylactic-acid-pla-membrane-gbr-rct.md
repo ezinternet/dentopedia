@@ -13,11 +13,21 @@ source_collection: external
 
 합성 흡수성 차폐막(gelatin/PLA)이 기성 상용막(Guidor® PLA) 대비 GBR 임상 성능에서 비열등한지 검증한 신규 RCT. 콜라겐막 위주인 기존 [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]]·[[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] 근거에 합성막 선택지를 추가하는 대조 데이터.
 
-## One-line Summary
-RCT (n=32 single-tooth gaps with alveolar bone defects) comparing a gelatin/polylactic-acid (GT/PLA) barrier membrane vs commercial Guidor® PLA membrane for GBR; 100% implant survival both arms, no significant difference in bone resorption, osteogenic efficacy, soft-tissue index, wound healing, exposure, or infection at 6 months — GT/PLA non-inferior.
+## Three-line Summary
 
-## 한줄요약
-젤라틴/폴리락트산(GT/PLA) 차폐막과 상용 Guidor® PLA막을 GBR에 비교한 RCT(n=32). 6개월에 임플란트 생존 100%, 골흡수·골생성효율·연조직지수·창상치유·막노출·감염 모두 군간 유의차 없음 → GT/PLA 비열등.
+RCT (n=32 single-tooth gaps with alveolar bone defects) comparing a gelatin/polylactic-acid (GT/PLA) barrier membrane vs commercial Guidor® PLA membrane for GBR;
+
+100% implant survival both arms, no significant difference in bone resorption, osteogenic efficacy, soft-tissue index, wound healing, exposure, or infection at 6 months — GT/PLA non-inferior.
+
+(incomplete)
+
+## 세줄요약
+
+젤라틴/폴리락트산(GT/PLA) 차폐막과 상용 Guidor® PLA막을 GBR에 비교한 RCT(n=32).
+
+6개월에 임플란트 생존 100%, 골흡수·골생성효율·연조직지수·창상치유·막노출·감염 모두 군간 유의차 없음 → GT/PLA 비열등.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Medical Science Monitor (Med Sci Monit) 2025

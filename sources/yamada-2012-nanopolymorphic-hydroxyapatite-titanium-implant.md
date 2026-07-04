@@ -9,7 +9,7 @@ pdf_filename: yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Animal study (rat): nanopolymorphic crystalline HA (55% crystallinity, needle-like nano-HA, Ca/P=1.66) on microroughened Ti → BIC and push-in strength ↑ both early and late stages; soft tissue infiltration ↓; effect limited to ≤50 µm from implant surface.
 
 ## 1. Document Information

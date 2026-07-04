@@ -13,13 +13,23 @@ source_collection: external
 
 교합력 (Bite Force, BF)과 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 간의 직접적 연관성은 기존 문헌에서 불분명했다. 이 전향적 코호트 연구 (n=80, 18개월)는 BF와 ISQ의 상관관계를 시간·위치·성별 변수로 분석한 최초 연구 중 하나로, [[wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]]에서 제시한 ISQ 영향 요인 목록에 교합력이라는 새로운 변수를 추가한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective cohort (n=80, 18 months) showing that bite force (BF) and implant stability (ISQ) are significantly associated and dynamically co-influenced by time, jaw location (posterior > anterior), and sex (males > females).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 코호트 연구 (n=80, 18개월): 교합력 (Bite Force, BF)과 임플란트 안정성 지수 (ISQ)는 유의하게 연관되며, 시간·위치(구치부>전치부)·성별(남>여) 모두가 두 지표에 복합적으로 영향을 미친다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

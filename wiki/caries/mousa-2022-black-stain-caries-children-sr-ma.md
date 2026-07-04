@@ -19,13 +19,19 @@ relations:
     target: zyla-2015-black-stain-dental-caries-review
 ---
 
-## One-line Summary
+## Three-line Summary
+SR+MA of 14 observational studies in children (PRISMA-compliant) quantifying the association between black stain (BS) and caries experience in both primary and permanent dentitions.
 
-SR+MA (14 studies, children) finding black stain associated with significantly lower odds of caries (OR 0.67, 95% CI 0.54–0.82, I²=37%) and fewer caries-affected teeth (MD −0.98) and surfaces (MD −2.34), though causal direction is unresolved.
+BS children had significantly lower odds of caries (OR 0.67, 95% CI 0.54–0.82, I²=37%), approximately 1 fewer caries-affected tooth (MD −0.98), and ~2.3 fewer caries-affected surfaces (MD −2.34) vs non-BS peers.
 
-## 한줄요약
+Causal mechanism is unresolved — direct iron/sulfur antimicrobial activity, Actinomyces-dominated protective microbiome, or shared host factors (salivary buffering) may all contribute to the association.
 
-SR+MA (14편, 소아): 블랙 스테인 (Black Stain, BS) 아동에서 우식 교차비 (Odds Ratio, OR) 0.67 (95% CI 0.54–0.82) — 우식 경험이 유의하게 낮으며, 보호 메커니즘과 마이크로바이옴 공동 선택 가설이 모두 가능.
+## 세줄요약
+PRISMA SR+MA (관찰 연구 14편, 소아): 흑색 착색(Black Stain, BS)과 우식 경험의 연관성 정량화.
+
+BS 아동에서 우식 OR 0.67 (95% CI 0.54–0.82, I²=37%) — 유의하게 낮음; MD: 우식 치아 −0.98, 우식 면 −2.34.
+
+인과 방향 미확인 — 철·황 화합물 항균 효과, Actinomyces 주도 보호 마이크로바이옴, 또는 타액 완충능 등 공유 숙주 요인 중 어느 경로가 주도하는지 관찰 자료로는 구분 불가.
 
 ## Summary
 

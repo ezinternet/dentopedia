@@ -16,13 +16,21 @@ relations:
     target: lee-2019-monte-carlo-paediatric-panoramic-dose-reduction
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Phantom MOSFET dosimetry (full panoramic 17.6 µSv) + 252-referral audit: collimated panoramic protocols cut dose without losing diagnostic info.
+Phantom MOSFET dosimetry study (Planmeca ProMax 2D, Rando phantom, 10 exposures each) measuring effective dose for full panoramic (17.6 µSv, ICRP 2007) and 9 collimated protocols, combined with a retrospective audit of 252 specialist-clinic referrals categorized by diagnostic indication.
 
-## 한줄요약
+Full panoramic effective dose was 17.6 µSv; collimated protocols reduced dose substantially while retaining diagnostic adequacy; the referral audit demonstrated that many clinical tasks require only a fraction of the full panoramic field, making collimation routinely applicable.
 
-팬텀 MOSFET 선량측정(풀 파노라마 17.6 µSv)+의뢰 252건 분석: collimation 파노라마가 진단정보 손실 없이 선량저감.
+Collimation should be applied as a default for any panoramic examination where the clinical task does not require the full field — a straightforward dose-optimization step requiring no new equipment.
+
+## 세줄요약
+
+Planmeca ProMax 2D를 이용한 팬텀 MOSFET 선량측정(풀 파노라마 유효선량 17.6 µSv, ICRP 2007)과 9가지 시준(Collimation) 프로토콜 선량 비교, 그리고 전문 클리닉 의뢰 252건 후향적 분석을 결합한 연구.
+
+풀 파노라마 유효선량 17.6 µSv; 시준 프로토콜에서 선량 유의 절감, 진단 정확성 유지; 의뢰 분석에서 많은 임상 과제가 전체 촬영야의 일부만 필요함을 확인해 시준의 일상적 적용 가능성 입증.
+
+파노라마 촬영 시 임상 과제에서 전체 촬영야가 불필요한 경우 시준을 기본 적용해야 함 — 추가 장비 없이 가능한 선량 최적화.
 
 ## Summary
 

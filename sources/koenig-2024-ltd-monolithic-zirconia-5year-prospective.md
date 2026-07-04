@@ -16,13 +16,23 @@ relations:
 
 5-year follow-up of the Koenig 2021 LTD cohort — extends LTD documentation to 5 years, confirms slow but statistically significant progression, and raises a new safety concern: grain pull-out and potential 3Y-TZP nanoparticle release into the body. [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]]
 
-## One-line Summary
+## Three-line Summary
 
-5-year prospective follow-up (n=101 elements): LTD continues to progress significantly from baseline to 5 years in 3Y-TZP monolithic zirconia; grain pull-out raises nanoparticle release concern; fracture rate 4.5%; glazing still not protective.
 
-## 한줄요약
+5-year prospective follow-up (n=101 elements): LTD continues to progress significantly from baseline to 5 years in 3Y-TZP monolithic zirconia;
+
+grain pull-out raises nanoparticle release concern;
+
+fracture rate 4.5%; glazing still not protective.
+
+## 세줄요약
+
 
 3Y-TZP 모놀리식 지르코니아 5년 전향적 추적 (n=101): LTD 기저치 대비 5년 시점에서 유의하게 증가, 교합면 그레인 탈락으로 나노입자 체내 유입 우려 제기, 파절률 4.5%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: [hydrofluoric-acid, feldspathic-ceramic, bond-strength, HF-concentration, phosphoric-acid, neutralization]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro 3-way factorial study (n=80, 8 groups, 90-day water storage): only HF concentration was significant — 10% HF yielded higher shear bond strength to Vita Mark II than 5% HF; etching time (60 vs 120 s) and phosphoric acid + sodium bicarbonate neutralization were both non-significant.
+In-vitro 3-way factorial study (Braz Oral Res 2020; n=80 Vita Mark II feldspathic ceramic blocks, 8 groups × 2 levels: HF% [5 vs 10%], etching time [60 vs 120 s], phosphoric acid neutralization [with vs without]; shear bond strength tested after 90-day water storage at 37°C).
 
-## 한줄요약
+Of the three variables, only HF concentration reached significance (p=0.02): 10% HF produced higher shear bond strength to feldspathic ceramic than 5% HF; etching time and phosphoric acid + sodium bicarbonate neutralization were both non-significant; cohesive and mixed failures predominated (82.5%), indicating the bond exceeded ceramic fatigue resistance.
 
-인 비트로 3요인 실험 (n=80, 8그룹, 90일 수침): HF 농도만 유의미 — 10% HF가 Vita Mark II에 대해 5% HF보다 높은 전단결합강도; 에칭 시간(60 vs 120초)과 인산 처리+탄산수소나트륨 중화는 비유의미.
+Higher HF concentration (10%) is preferable for feldspathic ceramic bonding; extending etching time beyond 60 s provides no added benefit; and phosphoric acid post-etching with NaHCO₃ neutralization is a safe HF-waste-management strategy that does not compromise bond strength.
+
+## 세줄요약
+
+인 비트로 3요인 실험(Braz Oral Res 2020; Vita Mark II 장석계 세라믹 80개, 8군 × 2수준: HF 농도[5 vs 10%]·에칭 시간[60 vs 120초]·인산 중화 처리[유 vs 무]; 37°C 90일 수침 후 전단접착강도).
+
+3가지 변수 중 HF 농도만 유의미(p=0.02): 10% HF > 5% HF; 에칭 시간·인산 + 탄산수소나트륨 중화는 비유의미; 파절 양상은 응집 및 혼합 파절 82.5% 우세 — 접착강도가 세라믹 피로 저항력을 상회했음을 시사.
+
+장석계 세라믹 접착에는 고농도 HF(10%)가 권장되며; 에칭 60초 이상 연장은 이점 없음; 인산 처리 후 NaHCO₃ 중화는 접착강도에 영향 없어 HF 폐액 처리 방법으로 안전하게 사용 가능하다.
 
 ## Summary
 

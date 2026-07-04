@@ -20,13 +20,21 @@ relations:
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter double-blind RCT (147 patients, 231 platform-switched subcrestal implants) finding no significant 12-month difference in peri-implant marginal bone loss or ISQ between the one-abutment-one-time protocol (0.36 ± 0.79 mm) and repeated healing-abutment disconnection (0.48 ± 0.71 mm); abutment height did matter (2 mm < 1 mm bone loss, p = 0.002).
+20-center double-blind RCT in Spain/Portugal (147 patients, 231 Klockner VEGA platform-switched subcrestal implants) comparing the one-abutment-one-time (OAOT) protocol vs conventional healing abutment disconnected up to 3 times — among the larger multicenter OAOT trials, uniquely in healed-ridge subcrestal implants.
 
-## 한줄요약
+At 12 months, marginal bone loss did not differ significantly between OAOT (0.36 ± 0.79 mm) and control (0.48 ± 0.71 mm), nor did ISQ (p=0.731); both groups lost most bone in the first 6 months with stable 6–12 mo; abutment height was the only significant predictor (2 mm < 1 mm bone loss, p=0.002).
 
-다기관 이중맹검 RCT(환자 147명, 플랫폼 스위칭·치조골하 임플란트 231개)에서 원-어버트먼트-원-타임(0.36 ± 0.79 mm)과 반복적 치유 어버트먼트 분리(0.48 ± 0.71 mm) 간 12개월 변연골소실·ISQ 유의차 없음; 단, 어버트먼트 높이는 유의(2 mm < 1 mm 골소실, p = 0.002).
+The theoretical advantage of avoiding repeated abutment disconnection was not confirmed in healed-ridge platform-switched subcrestal implants; the actionable clinical lever is abutment height — prefer ≥2 mm transmucosal abutments.
+
+## 세줄요약
+
+20개 기관 이중맹검 무작위 대조 시험(Randomized Controlled Trial, RCT; 스페인/포르투갈; 환자 147명, Klockner VEGA 플랫폼 스위칭·골하(Subcrestal) 임플란트 231개) — 치유 하악 능선(Healed Ridge) 조건의 원-어버트먼트-원-타임(One-Abutment-One-Time, OAOT) 대규모 다기관 RCT.
+
+12개월 변연골소실(Marginal Bone Loss, MBL): OAOT 0.36 ± 0.79 mm vs 대조군 0.48 ± 0.71 mm — 유의차 없음; 임플란트 안정성 지수(Implant Stability Quotient, ISQ) p=0.731; 골소실 대부분 초기 6개월 내 발생; 어버트먼트 높이(2 mm)만 유의한 예측인자(p=0.002).
+
+치유 하악 능선·플랫폼 스위칭·골하 임플란트에서 반복 분리 회피(OAOT)의 이론적 골보존 이점 미확인 → 핵심 임상 변수는 어버트먼트 높이: 변연골 보존을 위해 ≥2 mm 경점막(Transmucosal) 어버트먼트 선택 권장.
 
 ## Summary
 

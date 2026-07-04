@@ -13,11 +13,21 @@ source_collection: external
 
 agenda/2026-06-03 백로그의 주위염 보조요법 gap. [[implants/herrera-2023-prevention-treatment-peri-implant-efp]]의 비외과 보조요법 항목을 Cochrane 등급으로 보강. 표면제염([[implants/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]])과 짝.
 
-## One-line Summary
-Cochrane SR of adjunctive antimicrobial photodynamic therapy (aPDT) added to subgingival instrumentation for periodontal and peri-implant diseases; assesses attachment/probing-depth and peri-implant outcomes.
+## Three-line Summary
 
-## 한줄요약
+Cochrane SR of adjunctive antimicrobial photodynamic therapy (aPDT) added to subgingival instrumentation for periodontal and peri-implant diseases;
+
+assesses attachment/probing-depth and peri-implant outcomes.
+
+(incomplete)
+
+## 세줄요약
+
 치주·임플란트주위 질환에서 치하 기구조작에 보조적 광역학치료(aPDT)를 더한 효과를 평가한 Cochrane SR.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Cochrane Database of Systematic Reviews 2024, Issue 7 · Jervoe-Storm PM, Bunke J, Worthington HV, Needleman I, Cosgarea R, MacDonald L, Walsh T, Lewis SR, Jepsen S · 2024 · DOI: 10.1002/14651858.CD011778.pub2. Study type: sr+ma.

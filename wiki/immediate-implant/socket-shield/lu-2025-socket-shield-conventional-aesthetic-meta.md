@@ -23,13 +23,21 @@ relations:
     target: lin-2022-socket-shield-technique-systematic-review-meta
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis (27 studies = 22 RCT + 5 NRSI, 1307 implants) finding the socket shield technique (SST) significantly reduces horizontal (MD −0.50 mm) and vertical (MD −0.56 mm) buccal bone loss and improves PES (+1.25) and ISQ (+5.83) vs conventional immediate implant placement (CIIP), with comparable implant success (RR 1.00) — the largest SST pool to date, confirming the established direction across shield-height/thickness/grafting subgroups.
+PRISMA SR+MA (27 studies: 22 RCTs + 5 NRSI, 1307 implants in the esthetic zone) comparing socket shield technique (SST) vs conventional immediate implant placement (CIIP) — the largest SST pool to date, incorporating 13 Chinese-language RCTs omitted by prior meta-analyses.
 
-## 한줄요약
+SST significantly reduced horizontal buccal bone loss (MD −0.50 mm), vertical bone loss (MD −0.56 mm), improved PES (+1.25) and ISQ (+5.83), with comparable implant success (RR 1.00, I²=0%); advantages persisted across shield-height, shield-thickness, and grafting subgroups.
 
-소켓실드 기법(Socket Shield Technique, SST) vs 전통 즉시식립(CIIP) 메타분석(27편·1307임플란트). SST가 협측 수평 골소실 −0.50 mm·수직 −0.56 mm, 핑크심미점수(PES) +1.25, 임플란트 안정성지수(ISQ) +5.83 우월, 생존율 동등(RR 1.00). 실드 높이·두께·골이식 무관하게 SST 우월. 현존 최대 풀이나 이질성 높고 장기 데이터 부족.
+SST remains a technique-sensitive option with the strongest pooled support to date, but extreme heterogeneity (I²=90–97% on continuous outcomes), lack of high-quality RCTs >5 years, and no standardized protocol limit clinical generalizability.
+
+## 세줄요약
+
+PRISMA SR+MA (27편: RCT 22 + NRSI 5, 심미부위 1307 임플란트): 소켓실드 기법(SST) vs 전통 즉시식립(CIIP) 비교. 기존 영문 전용 메타분석에서 누락된 중국어 RCT 13편 포함, 현존 최대 풀.
+
+SST가 수평 협측골 소실(MD −0.50 mm), 수직 골소실(MD −0.56 mm), 핑크심미점수(PES, +1.25), 임플란트 안정성 지수(ISQ, +5.83) 모두 유의하게 우월; 임플란트 성공률 동등(RR 1.00, I²=0%). 실드 높이·두께·골이식 여부 무관하게 SST 우위 일관.
+
+연속 변수 이질성 극심(I²=90–97%), 5년 초과 고질 RCT 부재, 표준화 프로토콜 미확립으로 임상 일반화에 한계. SST는 숙련 술자·선택된 심미부위 증례에 한정되는 기법.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: sculean-2015-wound-models-periodontal-bone-regeneration.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Periodontol 2000 2015;68(1):7-20: narrative review of research models (cell culture → animal → human) used to study periodontal and bone regeneration; highlights translational gap and regeneration biologic principles.
 
 ## 1. Key Results

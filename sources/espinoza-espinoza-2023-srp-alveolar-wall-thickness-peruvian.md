@@ -9,7 +9,7 @@ pdf_filename: espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Retrospective CBCT study in a Peruvian population evaluating facial and palatal alveolar wall thickness in relation to Kan-class sagittal root position of maxillary anterior teeth.
 
 ## 1. Document Information

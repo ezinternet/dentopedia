@@ -16,13 +16,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (MEDLINE 1983–Oct 2013) establishing that secure primary (mechanical) stability is a prerequisite for osseointegration, governed by three factors — bone quality/quantity, implant geometry, and surgical technique — and evaluated clinically by Periotest or RFA (ISQ >65 favorable, <45 poor); micromotion >50–100 µm jeopardizes integration.
+Narrative review (MEDLINE 1983–Oct 2013, human and experimental studies) synthesizing the role of primary mechanical stability as a prerequisite for osseointegration.
 
-## 한줄요약
+Three governing factors are identified — bone quality/quantity, implant geometry, and surgical technique — with each capable of partly compensating for the others.
 
-내러티브 종설(MEDLINE 1983–2013): 1차(기계적) 안정성은 골유착 (Osseointegration)의 전제이며, 골질·골량 (Bone quality/quantity)·임플란트 형태 (Implant geometry)·술식 (Surgical technique) 세 인자가 좌우하고, 임상 평가는 Periotest 또는 공명주파수분석 (RFA)으로 한다(ISQ >65 양호, <45 불량). 미세동요 (Micromotion) 50–100 µm 초과 시 골유착 저해.
+Clinical thresholds established: ISQ >65 favorable, ISQ <45 poor; immediate-loading torque 32–40 Ncm; micromotion >50–100 µm jeopardizes integration; RFA/ISQ preferred over Periotest for stability monitoring.
+
+## 세줄요약
+
+내러티브 종설(MEDLINE 1983–2013, 인간·실험 연구): 1차 기계적 안정성 (Primary Mechanical Stability)이 골유착 (Osseointegration)의 전제임을 정립하며, 골질·골량 (Bone Quality/Quantity), 임플란트 형태 (Implant Geometry), 술식 (Surgical Technique) 세 인자가 상호 보완적으로 안정성을 결정함을 종합.
+
+세 인자 각각이 서로를 부분적으로 보완할 수 있으며, 피질골 두께·골밀도와 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)의 상관을 다수 연구에서 확인.
+
+임상 기준치: ISQ >65 양호, <45 불량; 즉시부하 삽입토크 32–40 Ncm; 미세동요 (Micromotion) >50–100 µm 시 골유착 저해; Periotest보다 공명주파수분석 (Resonance Frequency Analysis, RFA)/ISQ 권장.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: kang-2025-implant-failure-predictors-ridge-preservation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 JPIS 2025: Retrospective (n=528 implants, 412 patients, 3.5yr after ARP): PBE <1.1 mm = significant predictor of implant failure (HR 2.50); 89.0% cumulative success rate over 3.5 years.
 
 ## 1. Key Results

@@ -9,7 +9,7 @@ pdf_filename: ortiz-2025-osseodensification-implant-dentistry-critical-review.pd
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Critical narrative review (Dent J 2025) of osseodensification evidence: higher primary stability confirmed; ISQ advantage variable; benefits greatest in D3/D4 bone and sinus augmentation; long-term RCT data limited.
 
 ## 1. Document Information

@@ -20,13 +20,21 @@ relations:
     target: tallon-2024-vitamin-d-osseointegration-umbrella-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 18 studies (13 animal experimental + 2 clinical + 3 case reports; titanium implants 24–1740): vitamin D deficiency negatively affects new bone formation/BIC and supplementation enhances osseointegration in animals — especially in systemic disease (diabetes, osteoporosis, CKD) — while human evidence is only slight and at high risk of bias.
+Systematic review of 18 studies (13 animal, 2 clinical, 3 case reports; 60 records screened; titanium implant counts 24–1740) on whether vitamin D deficiency worsens or supplementation improves osseointegration.
 
-## 한줄요약
+Animal evidence is consistent: 3/3 deficiency studies showed reduced BIC/new bone formation; ~75% of supplementation studies showed enhanced BIC, especially in systemic-disease models (diabetes, nephrectomy, ovariectomy); healthy-replete animals showed no benefit from supplementation.
 
-체계적 문헌고찰 18편(동물실험 13 + 임상 2 + 증례보고 3; 타이타늄 임플란트 24~1740개): 비타민 D 결핍은 신생골 형성·골-임플란트 접촉(Bone-to-Implant Contact, BIC)을 저하시키고, 보충은 동물(특히 당뇨·골다공증·만성신장질환(Chronic Kidney Disease, CKD) 동반 시)에서 골융합을 향상시키나, 사람 근거는 미약하고 비뚤림 위험이 높다.
+Human evidence is thin and high-risk-of-bias — the key clinical signal is low 25(OH)D correlating with higher early dental implant failure (EDIF) — and the authors call for longitudinal RCTs before clinical protocols can be established.
+
+## 세줄요약
+
+체계적 문헌고찰 18편(동물실험 13 + 임상 2 + 증례보고 3; 검색 60건; 티타늄 임플란트 24~1740개)으로 비타민 D 결핍·보충이 골유착(Osseointegration)에 미치는 영향을 분석.
+
+동물 근거는 일관됨: 결핍 연구 3/3에서 골-임플란트 접촉(Bone-to-Implant Contact, BIC)·신생골 감소; 보충 연구 약 75%에서 BIC 향상(특히 당뇨·신절제·난소절제 모델); 건강한 정상 동물에서는 효과 없음.
+
+사람 근거는 빈약하고 비뚤림 위험 높음 — 핵심 임상 신호는 혈청 25(OH)D 저하와 조기임플란트실패(Early Dental Implant Failure, EDIF) 상관 — 임상 프로토콜 확립을 위해 종단 무작위 대조 시험(Randomized Controlled Trial, RCT) 필요.
 
 ## Summary
 

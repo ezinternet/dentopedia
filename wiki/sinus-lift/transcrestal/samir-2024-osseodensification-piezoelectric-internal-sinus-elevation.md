@@ -13,11 +13,19 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, piezoelectric, rct]
 ---
 
-## One-line Summary
-Randomized controlled trial (RCT, NCT06055127): for transcrestal sinus floor elevation with delayed implant placement, osseodensification (OD) outperformed piezoelectric internal sinus elevation (PISE) on bone gain, bone density, surgery time, and patient satisfaction, while PISE gave superior day-of-surgery primary stability — both effective, differing in strengths.
+## Three-line Summary
+RCT (NCT06055127) comparing osseodensification (OD) versus piezoelectric internal sinus elevation (PISE) for transcrestal sinus floor elevation prior to delayed implant placement in the posterior maxilla, with sticky bone and i-PRF as adjuncts.
 
-## 한줄요약
-경치조골 상악동 거상 RCT(NCT06055127): OD가 골량·골밀도·수술시간·만족도에서 우수, 피에조(PISE)는 수술 당일 1차 안정성에서 우수 — 둘 다 유효하나 강점이 다름.
+OD outperformed PISE on bone gain, bone density, surgery time, healing speed, and patient satisfaction; PISE yielded superior implant primary stability on the day of surgery.
+
+Both techniques are effective for transcrestal sinus elevation; clinician choice should be driven by whether bone gain/density or immediate primary stability is the prioritized outcome.
+
+## 세줄요약
+RCT (NCT06055127) — 지연 임플란트 식립 전 경치조골 상악동거상술(Transcrestal Sinus Floor Elevation)에서 골밀도화(Osseodensification, OD) vs 피에조 내부 상악동거상술(Piezoelectric Internal Sinus Elevation, PISE) 비교; sticky bone·i-PRF 보조 사용.
+
+OD군이 골증량·골밀도·수술 시간·치유 속도·환자 만족도에서 우수; PISE군은 수술 당일 임플란트 1차 안정성이 우수.
+
+두 기법 모두 경치조골 상악동거상에 유효 — 골증량·골밀도 우선 시 OD, 즉각 1차 안정성 우선 시 PISE 선택.
 
 ## Summary
 Randomized controlled clinical trial comparing osseodensification vs piezoelectric internal sinus elevation (PISE) for transcrestal sinus floor elevation with delayed implant placement in the posterior maxilla.

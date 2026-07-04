@@ -17,13 +17,23 @@ text_filename: porporatti-2026-clear-aligners-bruxism-systematic-review.txt
 
 Clear aligner therapy is widely assumed to either protect against or provoke bruxism, but the wiki had no page settling the question — existing aligner/muscle pages cover masticatory EMG and TMJ but not bruxism per se. This first-ever SR on the aligner–bruxism interaction directly extends [[orthodontics/clear-aligner/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] (masseter EMG activity) and complements [[orthodontics/clear-aligner/montasser-2026-tmj-changes-clear-aligner-scoping-review]] (TMJ changes) by adding the parafunction/bruxism dimension.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (11 studies, n=818, 72.8% female; no meta-analysis possible) finding clear aligners have a predominantly **neutral** effect on bruxism — often reducing tonic contractions (clenching) but with inconsistent/transient effects on phasic activity (grinding) and no change in overall sleep-bruxism index; GRADE certainty moderate (RCTs) to very low (non-randomised).
 
-## 한줄요약
+Systematic review (11 studies, n=818, 72.8% female;
 
-체계적 문헌고찰 (11편, n=818, 여성 72.8%, 메타분석 불가): 투명교정장치 (Clear Aligner)는 이갈이 (Bruxism)에 대체로 **중립적** — 긴장성 수축 (tonic/clenching)은 종종 감소시키나 위상성 수축 (phasic/grinding)과 수면이갈이지수 (SB index)에는 일관된 영향 없음. 근거수준은 RCT 중등도, 비무작위 매우 낮음.
+no meta-analysis possible) finding clear aligners have a predominantly **neutral** effect on bruxism — often reducing tonic contractions (clenching) but with inconsistent/transient effects on phasic activity (grinding) and no change in overall sleep-bruxism index;
+
+GRADE certainty moderate (RCTs) to very low (non-randomised).
+
+## 세줄요약
+
+
+체계적 문헌고찰 (11편, n=818, 여성 72.8%, 메타분석 불가): 투명교정장치 (Clear Aligner)는 이갈이 (Bruxism)에 대체로 **중립적** — 긴장성 수축 (tonic/clenching)은 종종 감소시키나 위상성 수축 (phasic/grinding)과 수면이갈이지수 (SB index)에는 일관된 영향 없음.
+
+근거수준은 RCT 중등도, 비무작위 매우 낮음.
+
+(incomplete)
 
 ## 1. Document Information
 

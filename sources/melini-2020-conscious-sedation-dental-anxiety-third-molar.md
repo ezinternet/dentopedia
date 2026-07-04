@@ -17,13 +17,23 @@ text_filename: melini-2020-conscious-sedation-dental-anxiety-third-molar.txt
 
 Adult counterpart to the pediatric/behavioral-management literature already in the wiki — where [[behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia]] and the non-pharmacological pediatric pages cover behavioral routes, this SR documents the **pharmacological conscious-sedation** route for adult dental anxiety in a reproducible surgical model (third molar extraction). Its central finding — that the evidence is inconclusive because outcome measures are non-standardized — directly anchors the "standardized-outcome gap" that recurs across the dental-anxiety subcategory (cf. [[behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct]] on physiological/objective monitoring).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (BMC Oral Health, 17 RCTs, n=1788) of conscious sedation for dental anxiety during third molar extraction: narrative synthesis only (heterogeneity precluded meta-analysis); 6 studies showed some anxiety improvement, but findings overall inconclusive and conflicting due to non-standardized outcome measures.
 
-## 한줄요약
+Systematic review (BMC Oral Health, 17 RCTs, n=1788) of conscious sedation for dental anxiety during third molar extraction: narrative synthesis only (heterogeneity precluded meta-analysis);
 
-사랑니 발치 시 치과불안 관리를 위한 의식하 진정(conscious sedation) 체계적 고찰 (BMC Oral Health, RCT 17편·n=1788). 이질성으로 메타분석 불가 → 서술적 종합. 6편에서 불안 개선 신호가 있었으나, 표준화된 결과 측정의 부재로 전체적으로 결론을 내릴 수 없고 상충됨.
+6 studies showed some anxiety improvement, but findings overall inconclusive and conflicting due to non-standardized outcome measures.
+
+(incomplete)
+
+## 세줄요약
+
+
+사랑니 발치 시 치과불안 관리를 위한 의식하 진정(conscious sedation) 체계적 고찰 (BMC Oral Health, RCT 17편·n=1788).
+
+이질성으로 메타분석 불가 → 서술적 종합.
+
+6편에서 불안 개선 신호가 있었으나, 표준화된 결과 측정의 부재로 전체적으로 결론을 내릴 수 없고 상충됨.
 
 ## 1. Document Information
 

@@ -20,13 +20,21 @@ relations:
     target: inchingolo-2025-elastodontic-pharyngeal-airway-functional-treatment
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-arm case series (n=9 cephalometric, n=6 sEMG subgroup; mean age 9.8 yr) of AMCOP® "OPEN" elastodontic therapy for anterior open bite: overbite rose 0.1→2.2 mm, SN-GoGn/PP-MP fell 2.8°±1.9°, and Teethan® neuromuscular efficiency (IMP) increased ~40% — but no control group, so hypothesis-generating only.
+Retrospective single-arm pilot case series (cephalometric n=9, sEMG subgroup n=6; mean age 9.8 yr, Univ. Bari) evaluating AMCOP® "OPEN" elastodontic bioactivator therapy for anterior open bite in growing patients — the first study to pair digital cephalometry with standardized sEMG simultaneously.
 
-## 한줄요약
+Overbite increased 0.1→2.2 mm (open-bite closure), SN-GoGn/PP-MP fell a mean 2.8°±1.9° (slight counterclockwise mandibular rotation); neuromuscularly, IMP rose ~40%, and BAR/TORS/ASIM improved toward symmetry; mean treatment duration 14±2 months.
 
-성장기 전치부 개교합(anterior open bite) 환자에서 AMCOP® "OPEN" 탄성교정장치(elastodontic appliance)의 후향적 단일군 증례군(cephalometric n=9, 표면근전도 n=6, 평균 9.8세): overbite 0.1→2.2 mm 증가, SN-GoGn/PP-MP 각 2.8°±1.9° 감소, Teethan® 신경근 효율 지수(IMP) 약 40% 상승 — 대조군 부재로 가설 생성 수준.
+No control group prevents separating treatment effect from physiological growth — findings are hypothesis-generating only; controlled prospective trials are needed before clinical claims can be made.
+
+## 세줄요약
+
+성장기 전치부 개교합(anterior open bite) 환자의 AMCOP® "OPEN" 탄성교정 치료를 디지털 두부방사선(cephalometry)과 표면근전도(sEMG)로 동시 평가한 최초의 후향적 단일군 파일럿 증례군(두부계측 n=9, sEMG n=6, 평균 9.8세, 바리대).
+
+overbite 0.1→2.2 mm 증가(개교합 폐쇄), SN-GoGn/PP-MP 평균 2.8°±1.9° 감소(반시계 방향 하악 회전); 신경근 지수 IMP 약 40% 상승, BAR·TORS·ASIM 대칭 방향 개선; 평균 치료기간 14±2개월.
+
+대조군 부재로 치료 효과와 생리적 성장을 분리할 수 없어 가설 생성 수준 — 임상 주장 전에 대조군이 있는 전향적 연구가 필요.
 
 ## Summary
 

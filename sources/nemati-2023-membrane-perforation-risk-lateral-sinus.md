@@ -15,13 +15,23 @@ source_collection: external
 
 The chairside risk-scoring tool for lateral window 상악동거상술 (Sinus Floor Elevation, SFE) perforation needs quantified hazard ratios — not just trend-level signals — for each risk factor (septa, mucous retention cyst, smoking, edentulous span). This prospective cohort (n=140) provides exactly those HR values (e.g. septa HR 8.07, smoking HR 25, mucous retention cyst HR 27.75) that can translate directly into a weighted risk checklist. Reinforces and numerically grounds [[wiki/sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]], which offered trend-only CBCT features without inferential risk quantification.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective cohort (n=140, Iran) of lateral-window SFE: septa HR 8.07, mucous retention cyst HR 27.75, smoking HR 25, multi-tooth edentulous span HR 68.09 — all independent perforation risk factors (DOI: 10.1016/j.jcms.2023.06.010).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 코호트 (n=140): 측방 접근 상악동거상술 (Sinus Floor Elevation, SFE) 슈나이더 막 (Schneiderian Membrane) 천공 위험 — 격벽 (Septa) HR 8.07, 점액낭종 (Mucous Retention Cyst) HR 27.75, 흡연 (Smoking) HR 25, 다수 결손 (Multi-tooth Edentulous Span) HR 68.09.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

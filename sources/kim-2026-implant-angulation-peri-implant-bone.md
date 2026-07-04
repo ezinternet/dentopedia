@@ -13,13 +13,23 @@ source_collection: external
 
 비축방향(nonaxial) 식립이 변연골 소실(MBL)에 미치는 영향을 CAD 기반 3차원 각도 측정으로 정량화한 한국 박사학위 연구(506개 임플란트, 5.1년). 기존 [[occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis]]·[[overviews/implant-occlusion-loading-biomechanics-overview]]가 교합 과부하–골소실을 다루지만, 선행 연구(Koutouzis 2007, Lee)는 근원심 2D 각도만 측정해 "비축 하중이 MBL을 늘리지 않는다"는 음성 결과를 냈다. 이 연구는 협설 각도를 포함한 다방향 측정으로 그 음성 결과를 보강·반박하며, [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]]의 임상 권고에 정량 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 5-year retrospective study (288 patients, 506 implants) using CAD-derived 3D (mesiodistal + buccolingual) angulation measurement: nonaxial implants had significantly greater marginal bone loss (0.22±0.48 vs 0.10±0.39 mm, P<.05), maxilla > mandible (P<.001), and a significant angulation×antagonist interaction (nonaxial opposing implant-supported FDP worst, Δ0.373 mm).
 
-## 한줄요약
+(incomplete)
 
-CAD 기반 3D 각도 측정을 쓴 5년 후향연구(환자 288명·임플란트 506개). 비축방향 임플란트의 변연골 소실이 유의하게 컸고(0.22±0.48 vs 0.10±0.39 mm, P<.05), 상악>하악(P<.001), 비축방향이 임플란트 지지 고정성 보철과 대합할 때 골소실이 가장 컸다(상호작용 Δ0.373 mm).
+(incomplete)
+
+## 세줄요약
+
+
+CAD 기반 3D 각도 측정을 쓴 5년 후향연구(환자 288명·임플란트 506개).
+
+비축방향 임플란트의 변연골 소실이 유의하게 컸고(0.22±0.48 vs 0.10±0.39 mm, P<.05), 상악>하악(P<.001), 비축방향이 임플란트 지지 고정성 보철과 대합할 때 골소실이 가장 컸다(상호작용 Δ0.373 mm).
+
+(incomplete)
 
 ## 1. Document Information
 

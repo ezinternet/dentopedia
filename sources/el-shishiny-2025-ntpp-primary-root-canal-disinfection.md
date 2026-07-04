@@ -13,13 +13,21 @@ source_collection: external
 
 유치 근관 소독에서 비열 압력 플라스마(NTPP)의 항균 효능을 CHX, 다이오드 레이저, 프로폴리스와 비교한 in vitro RCT — 이 주제를 다루는 첫 번째 wiki 페이지이며 [[wiki/endodontics/cold-plasma/el-shishiny-2025-ntpp-primary-root-canal-disinfection]] 카테고리 anchor paper로 기능.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro 4-arm comparison (n=40 extracted primary incisors) showed NTPP achieved the highest E. faecalis colony reduction (98.79%) vs CHX, diode laser, and propolis in primary root canals.
+In vitro 4-arm parallel comparison (n=40 extracted primary incisors, n=10/group) testing non-thermal pressure plasma (NTPP), chlorhexidine (CHX), 810 nm diode laser, and propolis against E. faecalis biofilm in standardized 8 mm root canals of pediatric teeth.
 
-## 한줄요약
+NTPP achieved the highest CFU reduction (log reduction 4.06 ± 0.88; 98.79%), significantly outperforming propolis (81.99%, p=0.035); all four modalities produced statistically significant reductions (CHX and diode laser p<0.001, NTPP p<0.001).
 
-유치 전치 40개 in vitro 실험에서 비열 압력 플라스마(NTPP)가 E. faecalis 군집 감소율 98.79%로 CHX·다이오드 레이저·프로폴리스 중 최고 항균 효과를 보임.
+NTPP is the most effective single-modality disinfectant tested for primary root canals in vitro, but in vivo validation is required before clinical adoption, and cytotoxicity to the permanent tooth follicle has not been assessed.
+
+## 세줄요약
+
+In vitro 4군 병렬 비교(유치 전치 40개, 군당 10개) — 비열 압력 플라스마(Non-Thermal Pressure Plasma, NTPP)·클로르헥시딘(CHX)·810 nm 다이오드 레이저·프로폴리스를 유치 표준 8 mm 근관 내 E. faecalis에 적용.
+
+NTPP가 CFU 감소율 가장 높음(로그 감소 4.06 ± 0.88; 98.79%), 프로폴리스(81.99%, p=0.035)보다 유의하게 우월; 4개 군 모두 통계적으로 유의한 균군 감소(CHX·다이오드·NTPP p<0.001, 프로폴리스 p=0.035).
+
+NTPP는 유치 근관 in vitro 소독에서 가장 효과적이나, in vivo 검증 및 영구치 치낭에 대한 세포독성 평가 없이는 임상 적용 불가.
 
 ## 1. Document Information
 

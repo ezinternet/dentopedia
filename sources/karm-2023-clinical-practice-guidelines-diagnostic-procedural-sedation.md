@@ -13,7 +13,7 @@ source_collection: external
 
 2022년 한국 진정·수면진료지침이 발표되었고, 본 paper는 그 가이드라인을 임상가 관점에서 소개·해설한 JKDA 임상가 특집 연재의 일부. 진정·수면이 치과 진료의 일부이며, 비마취과 의사·치과의사가 안전한 moderate sedation을 시행할 표준이 새로 정리된 시점이기에 [[drug/jkda-2025-63-11-005]] 등 기존 임상가 특집과 함께 본 wiki의 약물·진정 카테고리 evidence base를 보강. 동일 호 [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]]와 짝.
 
-## One-line Summary
+## Three-line Summary
 
 2022년 발표된 한국 진정 가이드라인(non-anesthesiologist 포함 대상, moderate sedation focus, 15개 PICO question 기반)을 임상가 관점에서 해설.
 

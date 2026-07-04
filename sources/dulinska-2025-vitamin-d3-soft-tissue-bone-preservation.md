@@ -16,13 +16,21 @@ text_filename: dulinska-2025-vitamin-d3-soft-tissue-bone-preservation.txt
 
 Extends the `implants/vitamin-d` subdomain from the early-failure question into marginal **bone preservation** around the implant platform, and adds a second independent variable — soft-tissue (gingival) thickness — that affected bone preservation *regardless of* vitamin D status. This bridges the vitamin D evidence to the peri-implant soft-tissue literature. Reinforces [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] (which also touched peri-implant bone preservation) and [[implants/vitamin-d/buzatu-2024-vitamin-d-osseointegration-human-studies-sr]]; anchored to the broader failure-risk literature in [[implants/moy-2005-dental-implant-failure-rates-risk]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective observational study (72 patients / 115 implants); vitamin D deficiency was associated with significantly greater peri-implant bone loss, and gingival (soft-tissue) thickness independently affected alveolar bone preservation around the implant platform regardless of vitamin D3 status.
+Retrospective observational study (72 patients, 115 implants, single private facility, January 2022–February 2023): simultaneously assessed preoperative serum vitamin D3 level and gingival (soft-tissue) thickness as predictors of peri-implant alveolar bone preservation around the implant platform.
 
-## 한줄요약
+Vitamin D deficiency was associated with significantly greater peri-implant marginal bone loss; gingival tissue thickness was an independent significant factor for bone preservation regardless of vitamin D3 status; exact deficiency cut-offs and effect sizes are not available (abstract-only ingest).
 
-후향적 관찰연구(환자 72명 / 임플란트 115개): 비타민 D 결핍군은 정상군보다 임플란트 주위 골소실이 유의하게 많았고, 연조직(치은) 두께는 비타민 D3 상태와 무관하게 변연골 보존에 독립적으로 영향을 미쳤다.
+A combined preoperative monitoring workflow — serum 25(OH)D measurement plus radiological assessment of gingival thickness — is proposed for predicting implant outcomes, though retrospective single-center design limits causal inference and prospective confirmation is needed.
+
+## 세줄요약
+
+후향적 관찰연구(환자 72명, 임플란트 115개, 단일 의원, 2022.01–2023.02): 술전 혈청 비타민 D3 수준과 임플란트 부위 치은(연조직) 두께를 동시에 측정하여 임플란트 플랫폼 주위 변연골 보존에 대한 예측인자 분석.
+
+비타민 D 결핍군은 정상군보다 임플란트 주위 변연골 소실이 유의하게 컸으며, 치은 두께는 비타민 D3 상태와 무관한 독립적 변수로 골 보존에 유의한 영향을 미쳤다 — 수치 효과크기는 초록 기반이라 미확인.
+
+술전 혈청 25(OH)D 측정과 치은 두께 방사선 계측을 함께 시행하는 워크플로우가 예측적 임플란트 계획에 유용하다고 제안하나, 단일기관 후향 연구로 인과관계 증명에 한계가 있어 전향적 확인이 필요.
 
 ## 1. Document Information
 

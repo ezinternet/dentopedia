@@ -13,13 +13,23 @@ source_collection: external
 
 Adds an Indian-subpopulation (Greater Noida) CBCT data point and uniquely covers both maxillary and mandibular second molars, reporting a notably high overall C-shaped prevalence (22%) that contrasts with the low Israeli/Iranian sibling figures — useful tension for the prevalence cluster. It reinforces the C-shaped morphology baseline of [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] and pairs with sibling prevalence studies [[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]], and [[endodontics/anatomy/yu-2012-cbct-mandibular-premolars-root-canal-morphology]].
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (500 Indian patients, Greater Noida): overall C-shaped canal prevalence 22% in second molars (maxillary 25.1% vs mandibular 18.9%, NS); most common configuration continuous/Category 1 (52.7%), then semicolon (37.3%) and separate (10%).
 
-## 한줄요약
+CBCT cross-sectional study (500 Indian patients, Greater Noida): overall C-shaped canal prevalence 22% in second molars (maxillary 25.1% vs mandibular 18.9%, NS);
+
+most common configuration continuous/Category 1 (52.7%), then semicolon (37.3%) and separate (10%).
+
+(incomplete)
+
+## 세줄요약
+
 
 인도(그레이터 노이다) 환자 500명 CBCT 단면 연구 — 제2대구치 C-shaped canal 전체 유병률 22%(상악 25.1% vs 하악 18.9%, 유의차 없음), 가장 흔한 형태는 연속형(Category 1, 52.7%), 이어 세미콜론형(37.3%)·분리형(10%).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

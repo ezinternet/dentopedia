@@ -20,13 +20,21 @@ relations:
     target: shemesh-2017-cshaped-canals-cbct-mandibular-molars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 30 micro-CT studies (double-rooted permanent mandibular first molars): pooled Vertucci Type IV dominates the mesial root (58.7%) and Type I the distal root (83.0%); middle mesial canal prevalence up to 46%, mesial-root isthmus 10–100% — all with high heterogeneity (I²=86–87%) and "moderate" risk of bias in 27/30 studies (AQUA).
+SR+MA of 30 micro-CT studies of double-rooted permanent mandibular first molars (highest-resolution anatomy reference).
 
-## 한줄요약
+Vertucci Type IV dominates the mesial root (58.7%), Type I the distal root (83.0%); middle mesial canal (MMC) up to 46%, mesial-root isthmus 10–100%; heterogeneity very high (I²=86–87%).
 
-SR+MA, micro-CT 30편(이근성 영구 하악 제1대구치): 근심근 Vertucci Type IV(58.7%)·원심근 Type I(83.0%)가 우세, 중간근심관(MMC) 최대 46%, 근심근 isthmus 10–100% — 이질성 매우 높고(I²=86–87%), 27/30편이 AQUA "중간" 비뚤림위험.
+Expect two mesial canals as baseline, actively seek MMC in MB–ML groove, plan irrigant activation for the isthmus; 27/30 studies rated "moderate" risk of bias (AQUA).
+
+## 세줄요약
+
+micro-CT 30편 SR+MA — 이근성 영구 하악 제1대구치 최고해상도 해부학적 기준.
+
+근심근 Vertucci Type IV (58.7%)·원심근 Type I (83.0%), 중간근심관 (Middle Mesial Canal, MMC) 최대 46%, 근심근 isthmus 10–100%; 이질성 매우 높음 (I²=86–87%).
+
+근심근관 2개를 기본 전제로, MB-ML 발육구에서 MMC 적극 탐색, 중간/치근단 1/3 isthmus 세정 활성화 필수; 27/30편 AQUA "중간" 비뚤림위험.
 
 ## Summary
 

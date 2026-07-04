@@ -10,7 +10,7 @@ pdf_filename: uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR (9 studies/guidelines, 2000–2025): epinephrine 1:100,000–1:200,000 only safe vasoconstrictor in pregnancy; levonordefrin lacks safety data; felypressin contraindicated (oxytocic properties → uterine contractions).
 
 ## 1. Document Information

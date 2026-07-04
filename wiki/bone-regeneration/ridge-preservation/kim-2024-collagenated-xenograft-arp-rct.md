@@ -16,13 +16,21 @@ relations:
     target: fischer-2022-bone-envelope-arp-dbbm-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Three-arm RCT (n=50 completed, 180-day CBCT + histology + ISQ) showing DBBM-C (collagenated xenograft) with and without FGG socket seal maintained alveolar ridge volume better than spontaneous healing during 84–180 days; FGG seal additionally reduced horizontal resorption at crest (p=0.049); ISQ ≥70 in all groups.
+Single-blind three-arm RCT (Seoul National University, n=50 completed, 180-day assessment with CBCT volumetrics + histology + ISQ) comparing spontaneous healing, DBBM-C open healing, and DBBM-C + FGG socket seal for alveolar ridge preservation.
 
-## 한줄요약
+DBBM-C groups maintained ridge volume at 3 mm below crest during the 84–180 day period (+0.72%) while controls lost volume (−2.10%, p=0.026); FGG socket seal additionally reduced horizontal crestal resorption at 1 mm below crest (p=0.049); all groups achieved ISQ ≥70.
 
-3군 RCT (n=50, 180일): DBBM-C ± FGG 소켓실링 모두 자연치유 대비 84–180일 치조골 부피 유지 (p=0.026), FGG 실링은 치조정 1 mm 하방 수평폭경 추가 보존 (p=0.049); 전 군 ISQ ≥70.
+DBBM-C can be placed without a separate membrane (open healing) and still outperform spontaneous healing for late-phase volume maintenance; FGG seal is advantageous specifically at the crestal horizontal dimension critical for esthetic zone positioning.
+
+## 세줄요약
+
+단일맹 3군 RCT (서울대치과병원, n=50, 180일: CBCT 체적분석+조직학+ISQ): 자연치유, DBBM-C 개방치유, DBBM-C+FGG 소켓실링을 치조제보존에서 비교.
+
+84–180일 구간에서 DBBM-C군은 치조정 3 mm 하방 체적을 +0.72% 유지한 반면 대조군은 −2.10% 감소 (p=0.026); FGG 실링은 치조정 1 mm 하방 수평 폭경 흡수를 추가로 억제 (p=0.049); 전 군 ISQ ≥70.
+
+DBBM-C는 별도 막 없이 개방 치유만으로도 자연치유보다 후기 체적을 잘 유지하며, FGG 실링은 심미영역 포지셔닝에 결정적인 치조정 수평 치수 보존에 특히 유리하다.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: lee-2026-residual-pericervical-apical-dentine-vertical.txt
 
 The wiki's existing position statement on longitudinal fractures ([[cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures]]) recommends "conservative endodontics preserving pericervical dentine, avoid over-preparation" as VRF prevention, but that guidance is stated qualitatively without a quantitative dose-response link. This case-control study directly quantifies that mechanistic risk factor — using a radiographic RCF/root-width ratio to categorize preparation extent (intact/minimum/traditional/excessive) at both pericervical and apical levels — and isolates residual **apical** dentine loss (not pericervical) as the significant independent predictor of VRF in endodontically treated molars, giving the existing qualitative recommendation a measurable clinical threshold.
 
-## One-line Summary
+## Three-line Summary
 
-Case-control study (44 VRF cases vs. 92 controls) in endodontically treated molars found excessive residual apical dentine loss (RCF/root-width ratio > 0.21), tooth type (mandibular molars), history of root canal re-treatment, and time since primary RCT ≥ 15 years were independent predictors of vertical root fracture, with a combined model AUC of 0.940.
 
-## 한줄요약
+Case-control study (44 VRF cases vs.
+
+92 controls) in endodontically treated molars found excessive residual apical dentine loss (RCF/root-width ratio > 0.21), tooth type (mandibular molars), history of root canal re-treatment, and time since primary RCT ≥ 15 years were independent predictors of vertical root fracture, with a combined model AUC of 0.940.
+
+(incomplete)
+
+## 세줄요약
+
 
 근관치료된 대구치에서 발치원인 case-control 연구(수직치근파절 44례 vs 대조군 92례) 결과, 잔존 치근단부(apical) 상아질 소실(RCF/치근폭 비율 > 0.21로 "과도한" 삭제)이 치경부(pericervical) 소실보다 수직치근파절(VRF)과 더 강한 연관성을 보였으며, 치아종류(하악대구치), 재근관치료 병력, 1차 근관치료 후 15년 이상 경과가 독립적 위험요인으로 확인됨 (통합모델 AUC 0.940).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

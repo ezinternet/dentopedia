@@ -17,13 +17,23 @@ text_filename: li-2015-microbiota-black-stain-primary-dentition.txt
 
 Black stain (BS) is a clinical phenotype that appears caries-protective but whose microbial basis is poorly characterized. This 16S rRNA cross-sectional study in caries-free children directly characterizes the BS plaque and saliva microbiome, providing the molecular evidence base for [[caries/zyla-2015-black-stain-dental-caries-review]] (if present) or any overview on black stain's anti-caries mechanism. Actinomyces enrichment in BS+ plaque here serves as a candidate keystone taxon for future mechanistic work.
 
-## One-line Summary
+## Three-line Summary
+
 
 16S rRNA cross-sectional study (n=25 caries-free children) found that black stain plaque harbors a distinct, heterogeneous microbiota enriched in Actinomyces and depleted in Campylobacter, with significantly lower salivary microbial diversity vs controls.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 우식이 없는 25명의 아동을 대상으로 한 16S rRNA 횡단 연구에서 흑색 착색(Black Stain, BS) 치태에는 Actinomyces가 증가하고 Campylobacter가 감소하는 특이 미생물 군집이 존재하며 타액 내 미생물 다양성이 대조군에 비해 유의하게 낮음을 확인하였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

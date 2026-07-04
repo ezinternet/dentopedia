@@ -16,13 +16,23 @@ text_filename: meade-2026-invisalign-lite-efficacy-retrospective.txt
 
 Existing clear-aligner biomechanics/predictability pages such as [[wiki/orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] and [[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] synthesize predictability data mostly at the level of trimline design and distalization movements across aligner systems generically. This paper adds planned-vs-achieved predictability data specifically for the **Invisalign Lite** product line (a limited-movement, lower-aligner-count Invisalign variant), covering overjet, overbite, arch depth, and incisor labiolingual inclination — movement types not centrally addressed in those pages. It is a useful data point for setting realistic patient expectations with the Lite protocol specifically, rather than full Invisalign or generic CAT systems.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective analysis of 122 adult Invisalign Lite patients found planned overjet, arch depth, and mandibular incisor inclination closely matched achieved outcomes, but overbite and maxillary incisor labiolingual inclination showed statistically and clinically significant planned-vs-achieved discrepancies (abstract-only — full text not retrieved).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 성인 Invisalign Lite 환자 122명의 후향적 분석 결과, 계획된 수평피개교합(overjet)·치열궁 깊이(arch depth)·하악 절치 순설측 경사(labiolingual inclination)는 실제 달성치와 잘 일치했으나, 수직피개교합(overbite)과 상악 절치 순설측 경사는 계획 대비 통계적·임상적으로 유의한 차이를 보였다 (초록만 확보, 전문 미확보).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

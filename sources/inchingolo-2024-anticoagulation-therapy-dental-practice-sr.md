@@ -10,7 +10,7 @@ pdf_filename: inchingolo-2024-anticoagulation-therapy-dental-practice-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review (25 clinical studies, 1989–2024): local hemostatic measures sufficient for anticoagulated patients; do not routinely stop VKAs/DOACs for routine dental procedures; tranexamic acid mouthwash as first-line adjunct.
 
 ## 1. Document Information

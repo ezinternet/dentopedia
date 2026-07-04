@@ -20,13 +20,21 @@ relations:
     target: esimekara-2022-dental-implants-autoimmune-diseases-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 studies, 1997–2016; 357 implants in SS patients) finding high mean implant survival (93.7–94.6% over mean ~4 y), low marginal bone loss, low biological complications, and quality-of-life improvement in all studies.
+Systematic review (6 observational studies, 1997–2016; PROSPERO CRD42016053277; 357 implants in Sjögren's syndrome patients) assessing implant survival, marginal bone loss, biological complications, and quality of life.
 
-## 한줄요약
+Pooled mean implant survival was 94.6 ± 5.6% over 3.97 years; marginal bone loss was generally low and comparable to non-SS subjects; biological complications were predominantly low (mucositis most common); quality of life improved in all 3 studies that assessed it.
 
-체계적 문헌고찰(6편, 1997–2016; 쇼그렌증후군(SS) 환자 임플란트 357개) — 평균 약 4년간 생존율 93.7–94.6%로 높고, 변연골소실(MBL)·생물학적 합병증은 낮으며, 모든 연구에서 삶의 질 개선. RCT 부재·관찰연구 소수로 근거 강도는 제한적.
+No RCTs, mostly retrospective, and short follow-up (~4 y) — evidence is provisional; SS patients warrant rough-surface implants, careful case selection, and continuous hygiene maintenance rather than treatment refusal.
+
+## 세줄요약
+
+체계적 문헌고찰 (6편 관찰연구, 1997–2016; PROSPERO CRD42016053277; 쇼그렌증후군(Sjögren's syndrome, SS) 환자 임플란트 357개) — 생존율·MBL·생물학적 합병증·삶의 질 평가.
+
+평균 생존율 94.6 ± 5.6% (평균 3.97년); MBL 낮고 비SS 환자와 유사; 생물학적 합병증 주로 낮음(점막염 가장 흔함); 삶의 질 평가 3편 모두 개선.
+
+RCT 없음·후향 위주·짧은 추적(~4년) — 근거 잠정적; SS 환자는 거부가 아닌 거친 표면 임플란트·신중한 환자 선택·지속적 위생관리로 접근.
 
 ## Summary
 

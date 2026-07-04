@@ -16,11 +16,19 @@ relations:
     target: felix-2022-subantral-sinus-augmentation-hydraulic-lift-system
 ---
 
-## One-line Summary
-Prospective (n=58, 12-month CBCT): fluid-dynamic crestal SFE using 2% cross-linked hyaluronic acid as sole fill achieves 7.5 mm bone gain, 100% survival, no peri-implantitis.
+## Three-line Summary
+Prospective multicenter series (n=58 patients/implants, 12-month CBCT) evaluating fluid-dynamic crestal sinus floor elevation (Flusilift device) using 2% cross-linked hyaluronic acid (HA) as the sole sinus fill material with simultaneous implant placement in atrophic posterior maxilla.
 
-## 한줄요약
-전향적(58환자, 12개월 CBCT): 2% 교차결합 HA 단독 사용 유체역학적 transcrestal SFE — 평균 골이득 7.5mm, 생존율 100%, 합병증 없음.
+Mean sinus bone gain was 7.5 mm at 12-month CBCT; all 58 implants achieved primary stability, with 100% survival and no peri-implantitis or complications; wider sinuses correlated with greater bone gain.
+
+HA as sole sinus fill demonstrates clinically meaningful bone regeneration without particulate graft, consistent with graftless sinus elevation evidence, and its anti-inflammatory/angiogenic properties may provide biological advantages over blood clot alone.
+
+## 세줄요약
+전향적 다기관 시리즈(n=58명·임플란트, 12개월 CBCT) — 위축 후방 상악동에서 Flusilift 장치(유체역학적 막 거상) + 2% 교차결합 히알루론산(Hyaluronic Acid, HA) 단독 충전 + 동시 임플란트 식립 평가.
+
+12개월 CBCT 평균 골이득 7.5 mm, 전 58 임플란트 1차 안정성 달성, 생존율 100%, 주위염(peri-implantitis)·합병증 없음; 상악동 폭이 넓을수록 골이득 유의하게 큼.
+
+입자형 이식재 없이 HA 단독으로 임상적으로 의미 있는 골재생 달성 — 무이식 상악동거상 근거와 일치하며, HA의 항염·혈관신생 특성이 혈병 단독 대비 추가적 생물학적 이점 제공 가능.
 
 ## Summary
 

@@ -16,11 +16,21 @@ text_filename: feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite.txt
 
 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]]가 "레진 기질(matrix) 개질이 수축응력 감소에 최대 기여"라고 결론지었는데, 본 in-vitro 재료개발 연구는 그 전략의 구체적 사례(polyurethane dimethacrylate oligomer PU-MA + glass flake filler)로 volume shrinkage 1.35% 달성 + 노화 후 기계적 안정성을 보강한다. matrix-modification 가설의 실증 데이터. abstract-only.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro material-development study showing a Bis-GMA/TEGDMA composite modified with 20 wt% polyurethane dimethacrylate (PU-MA) oligomer and 75 wt% glass-flake/borosilicate fillers (PU-PG-75%) achieves low volumetric shrinkage (1.35%) with mechanical properties that remain relatively stable after 60-day water immersion + 5000 thermocycles.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In-vitro 재료개발: Bis-GMA/TEGDMA에 20 wt% 폴리우레탄 디메타크릴레이트(PU-MA) 올리고머 + 75 wt% 글래스 플레이크 충전 시(PU-PG-75%) 부피수축 1.35%로 낮추고, 60일 침수 + 5000회 열순환 노화 후에도 기계적 물성이 상용품보다 안정적.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Dentistry, 2024;151:105426

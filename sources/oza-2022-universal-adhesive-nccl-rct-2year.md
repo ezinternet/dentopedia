@@ -11,7 +11,7 @@ pdf_filename: oza-2022-universal-adhesive-nccl-rct-2year.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (234 NCCLs, 34 patients, 24 months): Clearfil Universal Bond Quick in SE mode — clinically unacceptable (6/234 lost); SLE and E&R modes acceptable; Clearfil SE Bond 4/234 lost; pure SE mode inferior for universal adhesive.
 
 ## 1. Document Information

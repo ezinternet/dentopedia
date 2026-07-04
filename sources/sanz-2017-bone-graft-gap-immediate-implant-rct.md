@@ -9,7 +9,7 @@ pdf_filename: sanz-2017-bone-graft-gap-immediate-implant-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 즉시식립 임플란트의 임플란트-치조골 틈새(jumping gap)에 이종골 충전 유무 비교 RCT.
 
 ## 1. Document Information

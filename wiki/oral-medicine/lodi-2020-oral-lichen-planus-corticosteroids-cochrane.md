@@ -16,13 +16,21 @@ relations:
 tags: [oral-lichen-planus, corticosteroid, tacrolimus, cochrane, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (35 RCTs, 1474 patients): topical corticosteroids may resolve OLP pain better than placebo (RR 1.91, 95% CI 1.08-3.36, low certainty); tacrolimus may beat clobetasol for pain (very low certainty).
+Cochrane SR+MA (35 RCTs, 1474 patients) evaluating corticosteroid therapies for oral lichen planus (OLP), updated from the 2011 version; narrative and quantitative synthesis with GRADE certainty ratings.
 
-## 한줄요약
+Topical corticosteroids resolved pain better than placebo (RR 1.91, 95% CI 1.08–3.36, low certainty); clinical lesion resolution was inconclusive (RR 6.00, very low certainty); tacrolimus showed a very-low-certainty signal of better pain resolution than clobetasol.
 
-코크란 SR+MA(35 RCT, 1474명): 국소 스테로이드가 위약보다 OLP 통증 해소 우월 가능(RR 1.91, 낮은 근거), 타크롤리무스가 클로베타솔보다 통증에 나을 수 있음(매우 낮은 근거).
+Corticosteroids remain pragmatic first-line for OLP, but all evidence is low to very low certainty — the field lacks high-quality RCTs sufficient to establish superiority for any specific corticosteroid or its comparators.
+
+## 세줄요약
+
+코크란 SR+MA (35 RCT, 1474명) — 구강편평태선(Oral Lichen Planus, OLP) 대상 스테로이드 치료 효과를 종합, 2011년판 업데이트; GRADE 근거 수준 평가 포함.
+
+국소 스테로이드가 위약보다 통증 해소에 우월 가능(RR 1.91, 95% CI 1.08–3.36, 낮은 근거); 임상적 병변 해소 비교는 불확실(RR 6.00, 매우 낮은 근거); 타크롤리무스(tacrolimus)가 클로베타솔(clobetasol)보다 통증 해소에 나을 수 있다는 매우 낮은 근거 존재.
+
+스테로이드는 실용적 1차 치료로 자리잡고 있으나 모든 근거가 낮음~매우 낮음 수준이며, 특정 스테로이드 제제 우위를 확립할 고질의 RCT가 부재함.
 
 ## Summary
 

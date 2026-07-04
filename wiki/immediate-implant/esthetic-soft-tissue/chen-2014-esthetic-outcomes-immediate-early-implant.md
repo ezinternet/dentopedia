@@ -13,11 +13,21 @@ source_collection: external
 tags: [immediate-implant, anterior-maxilla, esthetics, midfacial-recession, cbct, contour-augmentation]
 ---
 
-## One-line Summary
-ITI consensus systematic review (50 studies) of esthetic outcomes after immediate (Type 1) vs early (Type 2/3) implant placement in the anterior maxilla; Type 1 showed >1mm midfacial recession in 9–41% of sites (median 26%) at 1–3 years with the facial bone wall undetectable on CBCT in 36–57% of grafted sites, whereas Type 2/3 with simultaneous contour augmentation preserved a detectable facial wall in >90% of cases and reported no >1mm recession.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 (50편, 단일치 상악 전치/소구치 임플란트): 즉시식립 (Type 1, Immediate)은 1–3년 시점에 1 mm 이상 협측 변연 점막 퇴축 (Midfacial Recession)이 사이트의 9–41% (중앙값 26%)에서 발생하고, 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT)에서 협측 골판 (Facial Bone Wall)이 36–57% 사이트에서 감지되지 않은 반면, 조기식립 (Type 2/3, Early)과 윤곽 증대술 (Contour Augmentation) 병행 시 90% 이상에서 골판이 유지되고 1 mm 이상 퇴축은 보고되지 않음.
+ITI consensus systematic review (50 studies, 6 RCTs; IJOMI 2014 Suppl) comparing esthetic outcomes of immediate (Type 1) vs early (Type 2/3) implant placement in the anterior maxilla.
+
+Type 1 showed >1 mm midfacial recession in 9–41% of sites (median 26%) at 1–3 years, with the facial bone wall undetectable on CBCT in 36–57% of grafted Type 1 sites; Type 2/3 with simultaneous contour augmentation preserved a detectable facial wall in >90% of cases and reported no >1 mm recession.
+
+Type 2/3 with GBR contour augmentation is the more predictable esthetic protocol; modern Type 1 protocols impose strict case selection to mitigate but not eliminate the ~26% median recession risk.
+
+## 세줄요약
+
+ITI 컨센서스 SR (50편, 6 RCT 포함, IJOMI 2014 Suppl, Chen & Buser): 상악 전치부 즉시(Type 1) vs 조기(Type 2/3) 임플란트 식립의 심미 결과 비교.
+
+Type 1 → 1–3년 시점 1 mm 이상 순측 점막 퇴축 9–41% (중앙값 26%); CBCT에서 협측골 감지 불가 36–57%; Type 2/3 + GBR 윤곽 증대 → 90% 이상 협측골 유지, 1 mm 이상 퇴축 없음.
+
+GBR 윤곽 증대 병행 Type 2/3가 더 예측가능한 심미 프로토콜 — Type 1은 엄격한 케이스 선택 시에도 ~26% 퇴축 위험 잔존.
 
 ## Summary
 This **ITI Consensus systematic review** (50 included studies; 6 RCTs, 6 cohort, 5 cross-sectional, 33 case series) compared esthetic outcomes between **immediate (type 1)** and **early (type 2 / type 3)** implant placement in the maxillary anterior and premolar regions. Heterogeneity precluded meta-analysis. Across 8 studies of type 1, **9–41% of sites had >1 mm midfacial mucosal recession at 1–3 years (median 26%)**; in 2 studies of type 2/3 placement, **no sites had >1 mm recession**. CBCT data showed that the **facial bone wall was undetectable in 36–57% of type 1 grafted sites** — those sites had worse recession — whereas type 2/3 with simultaneous **contour augmentation (GBR)** preserved a detectable facial wall in >90% of cases. Modern type 1 protocols therefore impose strict case selection (thick biotype, intact facial wall) to reduce esthetic risk.

@@ -16,11 +16,21 @@ relations:
     target: bruxism-muscle-overload-axis
 ---
 
-## One-line Summary
-3D FEA - composite-resin foundation restorations under onlays on endodontically treated mandibular first molars improve stress dispersion and protect remaining tissue; complete-coverage > partial, but onlays-over-foundation warrant caution under excessive occlusal force; oblique loading is most destructive to the adhesive layer.
+## Three-line Summary
 
-## 한줄요약
-3D FEA - 근관치료한 하악 제1대구치에서 온레이 하부 composite foundation 수복이 응력 분산·잔존조직 보호에 유리; 전피개>부분피개, 단 과도한 교합력 환자에선 주의; 사면하중이 접착층에 가장 파괴적.
+3D finite element analysis (FEA) of mesially defective endodontically treated mandibular first molars restored with four onlay designs (complete- vs partial-coverage × with/without composite-resin foundation), loaded with vertical 600 N and oblique 200 N forces.
+
+Foundation restorations improved stress distribution and protected remaining tooth structure; complete-coverage onlays outperformed partial-coverage designs; all onlay-over-foundation combinations showed acceptable stress levels under vertical loading, but oblique loading was most destructive to the adhesive interface.
+
+Foundation restoration under onlays is biomechanically beneficial for endodontically treated molars; complete coverage is preferable when tooth structure allows; patients with excessive occlusal loading require additional caution.
+
+## 세줄요약
+
+근관치료한 하악 제1대구치 근심 결손 모델에서 4종 온레이 디자인(전피개·부분피개 × 코어(Foundation) 수복 유무)에 수직 600 N·사면 200 N 하중을 가한 3D 유한요소분석(Finite Element Analysis, FEA).
+
+Foundation 수복이 응력 분산 및 잔존 치질 보호를 향상; 전피개 온레이(Onlay)가 부분피개보다 우수; 수직하중에서 온레이+Foundation 조합은 수용 가능한 응력, 사면하중(Oblique loading)이 접착층·잔존조직에 가장 파괴적.
+
+근관치료치 온레이에서 Foundation 수복은 생역학적으로 유익; 치질이 허용하면 전피개 설계가 유리; 과도한 교합력 환자에서는 추가적 주의 필요.
 
 ## Summary
 근관치료치 온레이 하부 foundation(코어) 수복의 생역학을 FEA로 분석. 응력분산 이점이 있으나 과도 교합력에서 주의 권고 — inlay/onlay·교합력·근관치료치 보존의 접점.

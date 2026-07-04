@@ -28,13 +28,21 @@ tags: [zirconia, lithium-disilicate, implant-fdp, ceramic-selection, fatigue, fe
 > - 임상 결정 프레임 — 캔틸레버/디자인: Pjetursson 2023에서 pontic FDP vs splinted crown 생존·합병증 차이 없음 — 디자인 자유도 있음, 재료 선택이 우선 변수.
 > - 근거 한계: 모든 소스 3년 이하 관찰(Le, Pjetursson) 또는 in-vitro/FEA(Talmazov, Spitznagel, Comba) — 5–10년 임상 파절 분화 데이터 부재, in-vitro 피로시험은 실제 구강 열/화학적 노화를 완전히 재현 못함.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesizing an SR+MA outcomes anchor (Pjetursson 2023), a head-to-head RCT (Le 2023), and three mechanistic studies (Talmazov 2020 FEA, Spitznagel 2025 fatigue, Comba 2022 fatigue), implant-supported ceramic superstructure survival is largely material-agnostic (~97–99% at 3 years) while complication *type* is strongly material- and design-dependent — monolithic zirconia minimizes chipping, ultrathin sections favor partial-coverage over full-crown geometry, and higher elastic modulus reduces peri-implant cortical bone stress in non-grafted anterior scenarios.
+Synthesis of 5 papers (Pjetursson 2023 SR+MA, Le 2023 RCT, Talmazov 2020 FEA, Spitznagel 2025 fatigue, Comba 2022 fatigue): implant-supported ceramic superstructure survival is broadly material-agnostic at 3 years (PFM 98.3%, veneered Zr 97.5%, monolithic Zr 98.9%, lithium disilicate 97.0%; Pjetursson 2023, 32 studies), while complication type is strongly material- and design-dependent — veneered zirconia FDPs show significantly more ceramic fracture/chipping than monolithic designs (p<0.01).
 
-## 한줄요약
+Ultrathin restorations (0.5 mm) survive far better as partial-coverage restorations (PCR) than as full crowns (2047 vs 695 N, p<0.001); at ≥1.0 mm they are equivalent; crown form requires a minimum 1.0 mm thickness (Spitznagel 2025 fatigue, multilayer 4Y/5Y zirconia, n=72).
 
-임플란트 상부구조 세라믹 재료 선택 종합: SR+MA(Pjetursson 2023)·RCT(Le 2023)·기전연구 3편(Talmazov FEA·Spitznagel 피로·Comba 피로)을 통합 — 생존율은 재료 간 대체로 동등(~97-99%, 3년)하나 합병증 "유형"은 재료·형태·두께에 크게 좌우됨: 단일체 지르코니아가 칩핑 최소, 초박형은 크라운보다 부분피개가 유리, 높은 탄성계수가 비이식 전치부에서 치경부 피질골 응력을 낮춤.
+Monolithic zirconia (higher elastic modulus ~200 GPa) reduces peri-implant cortical bone von Mises stress compared to titanium implants in non-grafted anterior models (Talmazov 2020 FEA); lithium disilicate exceeds polymer-infiltrated ceramic network (PICN) in static fracture strength (p=0.0002), but PICN yields zero catastrophic fatigue fractures, confirming that static strength and fatigue durability are independent axes (Comba 2022).
+
+## 세줄요약
+
+임플란트 상부구조 세라믹 재료 선택 5편 종합(Pjetursson 2023 SR+MA, Le 2023 RCT, Talmazov FEA, Spitznagel 피로, Comba 피로): 3년 생존율은 재료 간 대체로 동등(PFM 98.3%, 베니어 Zr 97.5%, 단일체 Zr 98.9%, LDS 97.0%)이나 합병증 유형은 재료·형태 의존적 — 베니어 지르코니아 FDP가 단일체 대비 파절·칩핑 유의하게 높음(p<0.01).
+
+초박형(0.5 mm)에서는 부분피개(PCR)가 풀크라운보다 피로강도 압도(2047 vs 695 N, p<0.001); 1.0 mm에서 동등; 크라운 형태는 최소 1.0 mm 확보 필요(Spitznagel 2025, multilayer 4Y/5Y Zr, n=72).
+
+단일체 지르코니아(탄성계수 ~200 GPa)는 비이식 전치부에서 티타늄 대비 치경부 피질골 응력을 유의하게 낮춤(Talmazov 2020 FEA); LDS가 PICN보다 정적 파절강도 우수(p=0.0002)이나 PICN은 주기하중에서 재난성 파절 0건 — 정적 강도와 피로내구성은 별개 축(Comba 2022).
 
 ## Summary
 

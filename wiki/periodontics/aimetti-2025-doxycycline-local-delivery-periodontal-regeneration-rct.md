@@ -24,13 +24,21 @@ relations:
     target: khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Triple-blind RCT (n=60, stage III/IV periodontitis) found that locally delivered doxycycline 2 weeks before MIST with EMD + xenograft (BOOST approach) significantly improved CAL gain (4.1 vs. 3.2 mm, p=0.019), composite success (83.3% vs. 46.7%, NNT=2.73), and radiographic bone fill (3.5 vs. 2.7 mm) at 1 year.
+Triple-blind parallel-arm RCT (n=60, non-smoking stage III/IV periodontitis patients, one intrabony defect ≥3 mm per patient) comparing subgingival doxycycline gel (BOOST) 2 weeks before MIST+EMD+xenograft versus MIST+EMD+xenograft alone at 12 months.
 
-## 한줄요약
+BOOST significantly improved CAL gain (4.1 vs 3.2 mm, p=0.019), PPD reduction (4.4 vs 3.6 mm, p=0.040), composite outcome success (83.3% vs 46.7%, NNT=2.73), and radiographic bone fill (3.5 vs 2.7 mm, p=0.027); BoP at surgery was 30% vs 66.7% (p<0.001).
 
-3중맹검 무작위대조시험(n=60, 3·4기 치주염)에서 수술 2주 전 국소 독시사이클린(doxycycline, DOX) BOOST 투여 후 최소침습수술(MIST) + EMD + 이종골 병용 시 CAL(임상부착수준) 획득 4.1 대 3.2 mm, 복합성공률(COM) 83.3% 대 46.7%(NNT=2.73), 방사선 골충전 3.5 대 2.7 mm로 유의하게 우수한 결과(p<0.05)를 보였다.
+Locally delivered doxycycline 2 weeks before regenerative surgery is a clinically impactful site-preparation strategy (NNT=2.73), mediating benefit through pre-surgical inflammation reduction and improved early wound healing — limited to non-smokers with contained intrabony defects.
+
+## 세줄요약
+
+3중맹검 평행군 RCT (n=60, 비흡연 3·4기 치주염, 치아당 골내결손 ≥3 mm): 최소침습재생술(MIST)+EMD+이종골 시행 2주 전 치은연하 독시사이클린(doxycycline, DOX) 겔 BOOST 투여군 vs 위약 비교, 12개월 추적.
+
+BOOST군에서 임상부착수준(Clinical Attachment Level, CAL) 획득 4.1 vs 3.2 mm (p=0.019), 치주낭깊이(PPD) 감소 4.4 vs 3.6 mm (p=0.040), 복합 성공률(Composite Outcome, COM) 83.3% vs 46.7% (NNT=2.73), 방사선 골충전 3.5 vs 2.7 mm (p=0.027); 수술 당일 출혈탐침(BOP) 30% vs 66.7% (p<0.001).
+
+수술 전 국소 독시사이클린은 NNT=2.73의 높은 임상적 가치를 보이며 사전 염증 감소→조기 창상치유 개선을 통해 재생 결과를 향상시키나, 비흡연 · 함유형 골내결손으로 적응증이 제한된다.
 
 ## Summary
 

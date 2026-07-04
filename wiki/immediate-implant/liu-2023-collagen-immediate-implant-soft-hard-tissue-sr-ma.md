@@ -18,13 +18,21 @@ relations:
     target: sanz-2017-bone-graft-gap-immediate-implant-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (205 patients, 279 implants) finding that adding collagen to bone-grafting material in the immediate-implant jumping gap significantly improves buccal bone thickness (MD −0.43 mm) and esthetic score (MD −1.23), with no difference in implant failure or soft-tissue thickness.
+SR+MA of 7 RCTs (205 patients, 279 implants) isolating the effect of adding collagen to bone-grafting material in the jumping gap of immediate implant placement, using Cochrane ROB 2.0.
 
-## 한줄요약
+Adding collagen significantly improved buccal bone thickness (MD −0.43 mm, 95% CI −0.72 to −0.41) and esthetic score (MD −1.23, 95% CI −1.90 to −0.55), with no significant difference in implant failure rate or soft-tissue thickness.
 
-7개 RCT(205명·279 임플란트) SR+MA — 즉시식립 jumping gap에 골이식재 + 콜라겐을 병용하면 협측 골두께와 심미 점수가 유의하게 좋아지고, 임플란트 실패율·연조직 두께에는 차이가 없었다.
+Grafting the jumping gap with a collagen-containing bone substitute is preferable for buccal-bone and esthetic preservation in immediate implants, though two of seven RCTs had high risk of bias.
+
+## 세줄요약
+
+즉시식립 Jumping Gap에 골이식재 단독 대비 골이식재 + 콜라겐 병용 효과를 분석한 RCT 한정 SR+MA(7편, 205명·279 임플란트, Cochrane ROB 2.0 평가).
+
+콜라겐 추가군에서 협측 골두께(MD −0.43 mm)와 심미 점수(MD −1.23)가 유의하게 개선되었고, 임플란트 실패율과 연조직 두께는 차이가 없었다.
+
+콜라겐 함유 이식재 사용이 협측 골 및 심미 보존에 유리하지만, 7편 중 2편은 비뚤림 위험이 높아 근거의 질에 주의가 필요하다.
 
 ## Summary
 

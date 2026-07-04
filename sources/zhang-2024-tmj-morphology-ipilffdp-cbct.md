@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 즉시식립·즉시부하 전악 보철(IPILFFDP) 후 TMJ 형태 변화를 CBCT로 정량 평가한 희소 임상 연구. [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]] 및 [[immediate-implant/]] 카테고리의 TMD risk 정보 보강.
 
-## One-line Summary
-Retrospective CBCT study (n=12): IPILFFDP does not significantly alter TMJ morphology at 1 year; ~2 mm VD increase correlates with increased medial joint space.
+## Three-line Summary
 
-## 한줄요약
-후향적 CBCT 연구 (n=12): 즉시식립·즉시부하 전악 보철 1년 후 TMJ 형태에 유의한 변화 없음; VD 약 2 mm 증가 시 내측 관절강 증가와 상관.
+Retrospective CBCT study (n=12): IPILFFDP does not significantly alter TMJ morphology at 1 year;
+
+~2 mm VD increase correlates with increased medial joint space.
+
+(incomplete)
+
+## 세줄요약
+
+후향적 CBCT 연구 (n=12): 즉시식립·즉시부하 전악 보철 1년 후 TMJ 형태에 유의한 변화 없음;
+
+VD 약 2 mm 증가 시 내측 관절강 증가와 상관.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health (2024) 24:1392

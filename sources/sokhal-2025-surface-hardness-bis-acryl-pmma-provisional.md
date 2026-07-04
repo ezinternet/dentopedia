@@ -17,13 +17,23 @@ text_filename: sokhal-2025-surface-hardness-bis-acryl-pmma-provisional.txt
 
 사용자의 "아크릴레진 임시치아 재료(SNAP 제품)" 요청에서 SNAP 논문은 PMC 전문이 없어(초록만), PMC 전문판 파트너로 이 논문을 ingest. 아크릴(PMMA) vs bis-acryl 임시수복재의 **표면경도(Vickers)** 근거로, SNAP 논문 [[prosthetic-materials/givens-2007-marginal-adaptation-color-stability-provisional]](변연적합·색안정성)가 다루지 못한 기계적 물성 축을 채운다. 두 편이 짝을 이뤄 "전통 아크릴은 변연적합·색안정은 대등하나 경도는 bis-acryl보다 낮다"는 임상 결론을 완성. 기존 [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]](임시치관 유지력)와도 연결.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro Vickers-hardness study (Cureus 2025, n=40/group, 160 total) of four provisional crown-and-bridge materials: three bis-acryl composites (3M Protemp 4, Dentsply Integrity, Vericom Care C&B) all had significantly higher surface hardness than the PMMA self-cure acrylic (Pyrax SC-10) — ranking Protemp 4 (20.54 VHN) > Integrity (19.80) > Vericom (18.55) > Pyrax (16.65), all pairwise p<0.01.
 
-## 한줄요약
+(incomplete)
 
-In-vitro Vickers 경도 연구(Cureus 2025, 군당 n=40, 총 160): 임시치관 재료 4종 비교 — bis-acryl 3종(3M Protemp 4, Dentsply Integrity, Vericom Care C&B)이 PMMA 자가중합 아크릴(Pyrax SC-10)보다 표면경도 유의하게 높음. 순위: Protemp 4(20.54 VHN) > Integrity(19.80) > Vericom(18.55) > Pyrax(16.65), 모든 짝비교 p<0.01.
+(incomplete)
+
+## 세줄요약
+
+
+In-vitro Vickers 경도 연구(Cureus 2025, 군당 n=40, 총 160): 임시치관 재료 4종 비교 — bis-acryl 3종(3M Protemp 4, Dentsply Integrity, Vericom Care C&B)이 PMMA 자가중합 아크릴(Pyrax SC-10)보다 표면경도 유의하게 높음.
+
+순위: Protemp 4(20.54 VHN) > Integrity(19.80) > Vericom(18.55) > Pyrax(16.65), 모든 짝비교 p<0.01.
+
+(incomplete)
 
 ## 1. Document Information
 

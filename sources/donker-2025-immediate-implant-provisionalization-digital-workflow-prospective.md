@@ -13,13 +13,21 @@ source_collection: external
 
 IOS + CBCT 기반 3차원 보철주도 계획 + static CAIS + 사전제작 임시보철을 통합한 **완전 디지털 워크플로우**로 심미부 즉시식립·즉시 임시수복을 수행한 1년 전향 결과. 동일 Groningen 그룹의 [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]·[[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]]와 디지털 적용으로 연결된다.
 
-## One-line Summary
+## Three-line Summary
 
-1-year prospective case series (30 maxillary esthetic-zone patients) of fully digital immediate implant placement and provisionalization (IOS+CBCT planning, static CAIS, prefabricated temporary); 90% implant survival (3 early failures), PES+WES 15.4/20, MBL −0.18 mm (mesial)/−0.44 mm (distal), patient satisfaction 9.2/10.
+1-year prospective single-arm case series (n=30 maxillary esthetic-zone patients) evaluating a fully digital workflow (IOS+CBCT planning, static CAIS, prefabricated temporary crown) for immediate implant placement and provisionalization.
 
-## 한줄요약
+Implant survival was 90% (3 early failures); among 27 patients completing 1-year follow-up, PES+WES was 15.4/20, MBL was −0.18 mm mesial/−0.44 mm distal, and patient satisfaction was 9.2/10.
 
-1년 전향 케이스시리즈(심미부 30명) — 완전 디지털 워크플로우(IOS+CBCT 계획·정적 가이드수술·사전제작 임시보철) 즉시식립·즉시 임시수복에서 임플란트 생존율 90%(조기실패 3례), PES+WES 15.4/20, 변연골소실 −0.18/−0.44 mm, 환자 만족도 9.2/10.
+The 10% early failure rate warrants attention; the absence of a control group and small sample limit generalizability, though the digital workflow was fully feasible.
+
+## 세줄요약
+
+1년 전향 단일군 케이스시리즈(n=30, 상악 심미부) — IOS+CBCT 계획·정적 가이드수술·사전제작 임시보철로 구성된 완전 디지털 워크플로우의 즉시식립·즉시 임시수복 결과 평가.
+
+1년 추적 완료 27명에서 임플란트 생존율 90%(조기실패 3례), PES+WES 15.4/20, 변연골소실 −0.18/−0.44 mm, 환자 만족도 9.2/10.
+
+조기실패율 10%는 주목이 필요하며, 대조군 없는 소규모 단일군 설계로 일반화에 한계가 있으나 완전 디지털 워크플로우의 실행 가능성은 확인됨.
 
 ## 1. Document Information
 

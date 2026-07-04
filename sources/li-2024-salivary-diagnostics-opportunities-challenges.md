@@ -17,13 +17,23 @@ text_filename: li-2024-salivary-diagnostics-opportunities-challenges.txt
 
 같은 배치의 [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]]가 침 진단의 *프레임워크*(3-pillar)와 EFIRM 플랫폼을 다룬다면, 이 Theranostics 리뷰(2024)는 바이오마커 카탈로그(단백질·핵산·EV·대사체·호르몬)와 검출 시스템(바이오센서·마이크로플루이딕·웨어러블 구강 기기), 그리고 표준화 과제를 폭넓게 정리해 그 프레임워크를 *보강*한다. 침 바이오마커 overview 작성 시 두 리뷰가 anchor 쌍이 된다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Comprehensive review (Theranostics 2024) of salivary diagnostics covering salivary biomarker classes (proteins/peptides, nucleic acids, extracellular vesicles, metabolites, hormones, electrolytes), state-of-the-art detection systems (biosensors, microfluidics, wearable intraoral devices), and the collection/standardization challenges that limit clinical translation.
 
-## 한줄요약
+(incomplete)
 
-침 진단(saliva diagnostics)의 바이오마커 종류(단백질·핵산·세포외소포(EV)·대사체·호르몬·전해질), 최신 검출 시스템(바이오센서·마이크로플루이딕·웨어러블 구강기기), 그리고 임상 적용을 막는 채취·표준화 과제를 종합한 리뷰 (Theranostics 2024). 침은 혈장과 성분이 겹쳐 전신 상태를 비침습적으로 반영하는 '거울'.
+(incomplete)
+
+## 세줄요약
+
+
+침 진단(saliva diagnostics)의 바이오마커 종류(단백질·핵산·세포외소포(EV)·대사체·호르몬·전해질), 최신 검출 시스템(바이오센서·마이크로플루이딕·웨어러블 구강기기), 그리고 임상 적용을 막는 채취·표준화 과제를 종합한 리뷰 (Theranostics 2024).
+
+침은 혈장과 성분이 겹쳐 전신 상태를 비침습적으로 반영하는 '거울'.
+
+(incomplete)
 
 ## 1. Document Information
 

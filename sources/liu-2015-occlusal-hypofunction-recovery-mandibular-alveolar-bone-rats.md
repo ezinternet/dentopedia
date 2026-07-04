@@ -15,13 +15,23 @@ Provides direct animal-experimental evidence for the "occlusal loading → alveo
 
 > NOTE: Extraction was from the publisher abstract/landing page only (full text behind paywall). Group sizes, the bite-raising protocol, the directional micro-CT findings, and conclusions are captured; quantitative magnitudes/percentages beyond group n and the qualitative direction of change are NOT available.
 
-## One-line Summary
+## Three-line Summary
 
-Rat micro-CT study (n=48 growing male SD rats; normal n=24, hypofunction n=12, recovery n=12) showing occlusal hypofunction induced by an anterior bite-raising appliance reduces mandibular alveolar trabecular microarchitecture (lower BV/TV, Tb.Th, Tb.N; higher Tb.Sp and bone surface density), and that these changes reverse to normal after appliance removal and occlusal recovery.
 
-## 한줄요약
+Rat micro-CT study (n=48 growing male SD rats;
+
+normal n=24, hypofunction n=12, recovery n=12) showing occlusal hypofunction induced by an anterior bite-raising appliance reduces mandibular alveolar trabecular microarchitecture (lower BV/TV, Tb.Th, Tb.N;
+
+higher Tb.Sp and bone surface density), and that these changes reverse to normal after appliance removal and occlusal recovery.
+
+## 세줄요약
+
 
 성장기 수컷 흰쥐 48마리(정상 24, 저작저하 12, 회복 12) micro-CT 연구 — 앞니에 교합거상장치를 끼워 만든 교합 저기능(occlusal hypofunction)은 하악 치조골 해면골 미세구조(골부피분율 BV/TV·골소주 두께 Tb.Th·골소주 수 Tb.N 감소, 골소주 간격 Tb.Sp·골표면밀도 증가)를 악화시키고, 장치를 제거해 교합이 회복되면 이 변화가 정상으로 되돌아간다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

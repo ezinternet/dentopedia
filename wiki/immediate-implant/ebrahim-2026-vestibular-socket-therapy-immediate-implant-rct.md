@@ -14,11 +14,21 @@ source_collection: external
 tags: [immediate-implant, vestibular-socket-therapy, VST, Type-II-socket, pericardium-membrane, GBR, PES, Pink-Esthetic-Score, RCT, esthetic-zone]
 ---
 
-## One-line Summary
-RCT (n=20 implants, Elian Type II maxillary non-molar sockets) comparing modified vestibular socket therapy (VST) with pericardium membrane vs open-flap GBR; buccal bone thickness/height gains were equivalent between groups, but VST achieved a significantly higher Pink Esthetic Score at 6 months (12.78±0.83 vs 11.56±1.24, p=0.03), driven mainly by superior mesial/distal papilla.
+## Three-line Summary
 
-## 한줄요약
-Alexandria Univ RCT (BMC Oral Health 2026, n=20 implants, Type II socket 상악 비구치): modified VST(pericardium membrane) vs open-flap GBR — buccal bone 두께·높이는 군간 동등하나 Pink Esthetic Score는 VST 유의 우수 (12.78±0.83 vs 11.56±1.24, p=0.03), 주로 근·원심 papilla.
+RCT (n=20 single-implant, Elian Type II maxillary non-molar sockets) comparing modified vestibular socket therapy (VST) with pericardium membrane versus open-flap guided bone regeneration (GBR) for immediate implant placement.
+
+Both protocols achieved equivalent buccal bone thickness and height gains at 6 months (all p>0.05), but VST achieved a significantly higher Pink Esthetic Score (12.78±0.83 vs 11.56±1.24, p=0.03), driven by superior mesial and distal papilla scores.
+
+In Type II esthetic-zone sockets, VST's papilla preservation advantage over open-flap GBR is clinically meaningful; however, the small sample (n=20), short follow-up (6 months), and pericardium membrane's rapid resorption (4–5 weeks) limit generalizability.
+
+## 세줄요약
+
+RCT (임플란트 20개, 상악 비구치부 Elian Type II socket): 변형 전정접근 소켓치료법(VST, pericardium membrane)을 open-flap GBR과 비교한 이집트 알렉산드리아대 단일기관 RCT.
+
+두 군 모두 협측 골두께·골높이 유의하게 증가 (군간 차이 없음, p>0.05); 단 Pink Esthetic Score는 VST군이 유의하게 높음 (12.78±0.83 vs 11.56±1.24, p=0.03) — 근·원심 치간유두 점수가 주도.
+
+심미 영역 Type II socket 즉시식립에서 VST의 치간유두 보존 이점은 임상적으로 유의미하나, 소표본(n=20)·6개월 단기 추적·pericardium 빠른 흡수 등 한계로 폭넓은 일반화는 제한적.
 
 ## Summary
 Randomized controlled trial comparing a modified vestibular socket therapy (VST) using a pericardium collagen membrane against conventional open-flap guided bone regeneration (GBR) for immediate implant placement in Elian Type II sockets (intact facial soft tissue with facial bone plate loss). Twenty patients with single non-molar maxillary teeth were randomized 1:1. Both protocols used identical allograft + xenograft and the same membrane material, isolating the surgical access variable (vestibular tunnel vs open flap).

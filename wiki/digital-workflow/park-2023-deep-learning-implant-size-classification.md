@@ -13,11 +13,19 @@ source_collection: external
 tags: [deep-learning, AI, implant-identification, periapical-radiograph, VGG16, k-means, implant-size, classification]
 ---
 
-## One-line Summary
-Retrospective (Sci Rep 2023;13:16856): VGG16 DL + k-means++ clustering for classifying implant diameter and length from periapical radiographs (9 groups) — DL accuracy >0.994, AUC >0.975; clustering accuracy >0.983; clinical potential for identifying implants without records.
+## Three-line Summary
+Retrospective AI study (Sci Rep 2023;13:16856) comparing VGG16 deep learning and k-means++ clustering for classifying implant diameter and length from periapical radiographs across 9 size groups.
 
-## 한줄요약
-retrospective(Sci Rep 2023;13:16856): VGG16 DL + k-means++ 클러스터링으로 치근단 방사선 임플란트 직경·길이 분류(9그룹) — DL 정확도 >0.994·AUC >0.975; 클러스터링 정확도 >0.983; 기록 없는 임플란트 식별 임상 잠재성.
+VGG16 achieved accuracy >0.994 and AUC >0.975; k-means++ clustering reached accuracy >0.983, with DL outperforming clustering in 6/9 groups after tuning.
+
+Both methods show high clinical utility for identifying implant size when patient records are unavailable, though multicenter validation is required before deployment.
+
+## 세줄요약
+retrospective AI 연구(Sci Rep 2023;13:16856): 치근단 방사선에서 임플란트 직경·길이를 9개 그룹으로 분류하는 VGG16 딥러닝과 k-means++ 클러스터링을 비교.
+
+VGG16 정확도 >0.994·AUC >0.975, 클러스터링 정확도 >0.983으로 DL이 6/9 그룹에서 클러스터링 대비 우위.
+
+환자 기록이 없을 때 임플란트 시스템·규격 식별에 높은 임상 잠재성이 있으나 다기관 검증이 선행되어야 한다.
 
 ## Summary
 Sci Rep study comparing deep learning (VGG16 fine-tuned) and clustering (k-means++ on 3 landmark coordinates) for classifying implant diameter and length from periapical radiographs across 9 size groups. Both AI approaches demonstrated reliable performance exceeding clinical utility threshold.

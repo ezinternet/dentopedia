@@ -13,11 +13,19 @@ source_collection: external
 tags: [zirconia, ivoclean, monobond-plus, primer, water-aging, bond-strength, Y-TZP, 1-year]
 ---
 
-## One-line Summary
-In vitro study (Eur J Dent 2017) on two Y-TZP brands (Katana, ZirCAD): combined Ivoclean + Monobond Plus gave the highest shear bond strength for Katana at 24h, but all protocols lost ~50% bond strength after 1 year of water storage — long-term aging degradation was universal.
+## Three-line Summary
+In vitro study (Eur J Dent 2017) testing Ivoclean cleaning agent and Monobond Plus MDP primer, alone and combined, on shear bond strength of resin cement to two Y-TZP brands (Katana, ZirCAD), measured at 24 hours and after 1 year of water storage.
 
-## 한줄요약
-in-vitro(Eur J Dent 2017): Ivoclean+Monobond Plus 병용 → Katana 지르코니아 최고 BS; 1년 수중보관 후 전군 ~50% 강도저하 — 장기 안정성이 핵심 과제.
+Combined Ivoclean + Monobond Plus gave the highest 24-hour SBS for Katana; primer alone was more important than cleaning agent alone for initial bond; after 1 year of water storage, all protocols lost approximately 50% of bond strength regardless of pretreatment.
+
+Long-term hydrolytic aging degradation is universal — no cleaning or priming protocol tested in this study prevented ~50% bond loss at 1 year, making long-term durability the primary unresolved challenge for zirconia cementation.
+
+## 세줄요약
+in-vitro(Eur J Dent 2017): Ivoclean 세정·Monobond Plus MDP 프라이머 단독·병용, Y-TZP 2종(Katana·ZirCAD) 전단결합강도 24시간 및 1년 수중보관 후 비교.
+
+Ivoclean+Monobond Plus 병용: Katana 24시간 최고 SBS; 초기 접착에서 프라이머가 세정제보다 더 중요; 1년 수중보관 후 모든 프로토콜 약 50% 강도 저하.
+
+장기 수분 열화는 보편적 — 어떤 세정·프라이밍 프로토콜도 1년 시점 ~50% 결합강도 손실 방지 못해, 장기 내구성이 지르코니아 합착의 미해결 핵심 과제.
 
 ## Summary
 In vitro study on two Y-TZP brands (Katana, ZirCAD) evaluating Ivoclean cleaning agent, Monobond Plus coupling agent, and their combination on shear bond strength at 24h and after 1 year water storage. Key finding: 50% bond strength loss after 1 year is universal — no protocol prevented aging degradation.

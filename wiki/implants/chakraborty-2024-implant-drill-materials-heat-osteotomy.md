@@ -13,11 +13,21 @@ source_collection: external
 tags: [osteotomy, drill-material, heat-generation, drill-wear, thermal-necrosis, systematic-review]
 ---
 
-## One-line Summary
-Systematic review (PICO appraisal, 11 in vitro studies) of whether implant drill material independently affects osteotomy heat generation: the material question is inconclusive due to heterogeneous methodology and confounding, while the consistent signal is that drill wear — not material per se — predicts temperature rise, redirecting clinical attention to drill replacement protocols.
+## Three-line Summary
 
-## 한줄요약
-체계적 고찰(Eur J Dent 2024, 11편 in vitro): drill 재질(세라믹 vs 금속)과 발열의 인과관계는 결론 불가; 일관된 신호는 "drill wear가 클수록 발열 증가" — 재질보다 마모/교체주기가 임상적으로 더 중요.
+Systematic review (PICO appraisal; 11 in vitro studies) examining whether implant drill material independently influences osteotomy heat generation — ceramic vs metal drills across varying methodologies.
+
+The material question is inconclusive: heterogeneous study methodology, geometric confounding, and sponsorship bias prevent a definitive conclusion about ceramic vs metal drills; the only consistent signal across studies is that drill wear — not material per se — predicts temperature rise.
+
+Clinical attention should be redirected from material selection to drill replacement protocols, as worn drills of any material generate more friction, less efficient cutting, and higher peak temperatures capable of exceeding the 47°C/1 min thermal necrosis threshold.
+
+## 세줄요약
+
+체계적 고찰 (Eur J Dent 2024; PICO 기반 비뚤림 평가, in vitro 11편): 임플란트 드릴 재질 (세라믹 vs 금속)이 골 절제 오목부 (Osteotomy) 발열에 독립적으로 영향을 미치는지 검토.
+
+재질과 발열의 인과관계는 결론 불가 — 연구 간 이질적 방법론·기하학적 교란변수·후원 비뚤림이 원인; 일관된 신호는 "drill 마모 → 발열 증가" (용량-반응).
+
+임상적 우선순위: drill 재질 변경보다 제조사 권장 교체주기 준수가 중요 — 모든 재질에서 마모 시 열 괴사 임계값 (47°C/1 min) 도달 가능.
 
 ## Summary
 Eleven in vitro studies were appraised under a PICO framework to determine whether implant drill material independently influences heat generation in osteotomy sites. The review concludes that the literature cannot answer the material question due to heterogeneous methodology, confounding (geometry, speed, irrigation, specimen), and bias. The consistent signal is that drill wear — not material per se — predicts temperature rise, with worn drills producing more friction, less efficient cutting, and higher peak temperatures. Non-coated drills tended to show higher wear resistance in some included trials.

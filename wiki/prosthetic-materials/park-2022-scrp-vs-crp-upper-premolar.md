@@ -18,13 +18,21 @@ relations:
     target: kim-2022-abutment-connection-mbl-survival
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT virtual-implantation study (47 patients, 58 implants, Korea) found SCRP feasible in 52% of maxillary first premolars vs 78.8% of second premolars; ridge-axis angle difference (RA) was the sole independent predictor of needing CRP (OR=1.885, p=0.001).
+Retrospective CBCT virtual-implantation study (47 patients, 58 implants, SNU Boramae Medical Center 2016–2019, Korea) quantifying SCRP feasibility in the maxillary premolar region.
 
-## 한줄요약
+SCRP was feasible in only 52% of first premolars vs 78.8% of second premolars; the ridge-axis angle difference (RA) between prosthesis axis and alveolar bone axis was the sole independent predictor of requiring CRP (OR=1.885, p=0.001; model accuracy 93.1%).
 
-후향적 CBCT 연구(47명, 58개 임플란트, SNU 보라매)에서 나사-시멘트 혼합유지 보철 (Screw-and-Cement-Retained Prosthesis, SCRP)은 상악 제1소구치 52%·제2소구치 78.8%에서만 적용 가능했으며, 보철축-치조골축 각도차(RA)가 시멘트유지 보철 (Cement-Retained Prosthesis, CRP) 선택의 유일한 독립 예측인자(OR=1.885).
+Pre-treatment CBCT measurement of RA should inform prosthesis-type selection in the maxillary premolar region, where narrow buccally inclined ridges anatomically limit SCRP placement in nearly half of first premolar sites.
+
+## 세줄요약
+
+상악 소구치 영역의 SCRP 가능성을 정량화한 후향적 CBCT 가상 임플란트 식립 연구(47명, 58개 임플란트, SNU 보라매, 2016–2019).
+
+제1소구치 52%·제2소구치 78.8%에서만 나사-시멘트 혼합유지 보철(Screw-and-Cement-Retained Prosthesis, SCRP) 가능; 보철축-치조골축 각도차(RA)가 시멘트유지 보철(CRP) 선택의 유일한 독립 예측인자(OR=1.885, p=0.001; 예측 정확도 93.1%).
+
+치료 계획 전 CBCT에서 RA 측정이 보철 종류 선택에 활용되어야 하며, 협측 경사가 큰 좁은 치조골로 인해 상악 제1소구치 임플란트의 약 절반에서 SCRP 해부학적 적용이 불가능함.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 
 숙주-미생물 상호작용을 재현하는 organotypic gingiva 모델 — 항균제·바이오필름 연구의 in vitro 플랫폼. [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] 등 임상 바이오필름 관리 근거의 기초기전 layer를 보강.
 
-## One-line Summary
-In vitro methods paper — an organotypic reconstructed human gingiva model colonized with saliva-derived commensal vs pathogenic multispecies biofilms produces distinct host inflammatory responses, serving as an antimicrobial screening platform.
+## Three-line Summary
 
-## 한줄요약
-In vitro 방법론 논문: 재구성 인간 치은 모델에 타액유래 공생/병원성 다종 바이오필름을 정착시켜 서로 다른 숙주 염증반응을 유도 — 항균제 스크리닝 플랫폼.
+In vitro methods study (J Dent Res 2018; ACTA Amsterdam) developing an organotypic reconstructed human gingiva (RHG) model — epithelium plus fibroblast-populated lamina propria — colonized apically with saliva-derived commensal vs pathogenic multispecies biofilms.
+
+Pathogenic saliva-derived biofilms elicited a significantly stronger and distinct cytokine (inflammatory) response from the gingival tissue compared to commensal biofilms, reproducing key aspects of in vivo host–microbiome interaction.
+
+The RHG–biofilm co-culture system provides a physiologically relevant, immune-cell-free antimicrobial/drug-discovery screening platform; its absence of immune cells, vascular components, and salivary flow limits clinical extrapolation.
+
+## 세줄요약
+
+인 비트로 방법론 연구(J Dent Res 2018; ACTA Amsterdam): 상피세포 + 섬유모세포 채운 고유판으로 구성된 재구성 인간 치은(Reconstructed Human Gingiva, RHG) 모델에 타액 유래 공생/병원성 다종 바이오필름을 정착.
+
+병원성 타액 유래 바이오필름은 공생 바이오필름에 비해 치은 조직에서 유의하게 강하고 다른 양상의 사이토카인 염증반응을 유발 — 생체 내 숙주-미생물 상호작용의 핵심 측면을 재현.
+
+RHG-바이오필름 공배양 시스템은 면역세포 없는 생리적 항균제/신약 스크리닝 플랫폼을 제공하나, 면역세포·혈관·타액 흐름 부재라는 한계로 임상 외삽이 제한됨.
 
 ## 1. Document Information
 - Journal of Dental Research 2018;97(2):201–208. ACTA Amsterdam. Research Reports: Biological.

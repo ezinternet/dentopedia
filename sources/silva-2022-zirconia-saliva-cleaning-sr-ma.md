@@ -9,7 +9,7 @@ pdf_filename: silva-2022-zirconia-saliva-cleaning-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (J Adhes Dent 2022): 타액 오염 지르코니아 표면 세정법 비교 — Al2O3 샌드블라스팅이 Ivoclean·알코올·인산·물보다 레진 접착강도 유의하게 높음.
 
 ## 1. Document Information

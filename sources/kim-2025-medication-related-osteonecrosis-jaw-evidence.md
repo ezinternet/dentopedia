@@ -16,13 +16,23 @@ text_filename: kim-2025-medication-related-osteonecrosis-jaw-evidence.txt
 
 Ruggiero 2022 (AAOMS)는 미국 기준이라 한국 임상(보험환경·약제 접근성·인구집단) 적용에 공백이 있었음. Kim 2025는 한국 5개 학회 공동 다학제 합의로 작성된 최초의 한국형 MRONJ 포지션 스테이트먼트로, 특히 IV zoledronate의 drug holiday 타이밍(≥6-12개월)과 denosumab 수술 전 timing(3-4개월)을 국내 코호트 데이터 기반으로 명확히 제시했다. [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]]의 한국 임상 적용판이자, [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]]에서 비교 대상이었던 국제 statement들을 통합·한국화한 결정판.
 
-## One-line Summary
+## Three-line Summary
+
 
 Consensus statement by 5 Korean societies providing Korean-adapted evidence-based guidelines for MRONJ prevention, diagnosis, and management — including drug-class-specific prophylactic drug holiday recommendations and advocacy for early surgical intervention across all MRONJ stages.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 한국 5개 학회 공동 2025 MRONJ 포지션 스테이트먼트 — 약제별 예방적 drug holiday 기준(oral BP 2개월, IV zoledronate 6-12개월, denosumab 수술 3-4개월 전), 전 병기 적극 수술 권고, CTX 무용론 재확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

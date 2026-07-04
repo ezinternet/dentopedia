@@ -9,7 +9,7 @@ pdf_filename: mccrea-2012-trans-socket-sinus-floor-elevation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Case series (n=10) reporting a trans-socket osteotome approach: maxillary extraction socket — even with apical radiolucency or infection — used as the conduit to penetrate or fracture the sinus floor for immediate implant placement with bicortical fixation, without bone substitute, achieving high primary stability when residual bone depth >5 mm.
 
 ## 1. Document Information

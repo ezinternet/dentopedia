@@ -13,13 +13,23 @@ source_collection: external
 
 기존 OD 근거는 모두 제조사 표준인 **반시계방향 (counter-clockwise, CCW) 1,200 rpm** 프로토콜을 다룬다 ([[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]], [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]]). 본 사체연구(Rittipakorn 2025)는 densah bur를 **절삭방향(시계방향, clockwise, CW) 800 rpm**으로 돌리는 단순화·저감도 변형 프로토콜을 처음 검증해, "OD = CCW만이 정답인가"라는 versah-protocols 카테고리의 미해결 질문을 보강·확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Paired-site human cadaveric tibia study (40 Osstem TS III implants, D3/D4 low-density bone) comparing a novel **clockwise osseodensification (CW-OD, 800 rpm)** vs standard drilling (SD): OD gave higher but non-significant mean ISQ (67.5 vs 62.9, p=0.077) and insertion torque (34.0 vs 29.5 Ncm, p=0.052), with tighter IQR and a significant IT–ISQ correlation only in OD (ρ=0.577, p=0.0077).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 사람 경골(tibia) 사체 짝지음-부위 연구(임플란트 40개, D3/D4 저밀도골)로 **시계방향 골밀도화(CW-OD, 800 rpm)** vs 표준 드릴링(SD) 비교: OD가 평균 ISQ(67.5 vs 62.9, p=0.077)·삽입토크(34.0 vs 29.5 Ncm, p=0.052)가 더 높았으나 통계적으로 비유의했고, 사분위범위(IQR)는 더 좁았으며 IT–ISQ 상관은 OD에서만 유의(ρ=0.577, p=0.0077)했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

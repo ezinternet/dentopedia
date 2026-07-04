@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Extends [[complaint-management/1472-6963-6-106]] by measuring the mismatch between what the public expects and what physicians expect from complaint handling -- the structural reason first encounters start adversarial. Directly informs how a clinician should pre-empt a complainant's negative priors.
 
-## One-line Summary
+## Three-line Summary
+
 Paired surveys of 3,366 physicians and 1,422 public respondents revealing a large gap: the public expects complaint handling to go badly, physicians expect it to go well.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 의사 3,366명·일반인 1,422명 병행 설문 — 일반인은 민원 처리를 부정적으로, 의사는 긍정적으로 기대하는 큰 격차 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Research Notes 2015;8:529. Open access.

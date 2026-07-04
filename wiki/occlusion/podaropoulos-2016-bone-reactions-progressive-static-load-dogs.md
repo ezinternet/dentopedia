@@ -18,13 +18,21 @@ relations:
     target: song-2021-implant-complications-bruxism-patients
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal (dog, n = 3, 24 implants) histomorphometric study: progressive static orthodontic loading (100→200→300 g over 9 weeks) significantly increased BIC vs unloaded controls (P = 0.018) in low-density maxillary bone, without increasing crestal bone resorption or peri-implant bone density at 1–2 mm.
+Animal histomorphometric study (3 beagle dogs, 24 maxillary implants, 12 progressive-load / 12 unloaded control) testing Misch's progressive bone loading (PBL) concept by applying escalating Ni-Ti orthodontic coil spring forces (100→200→300 g, 3 wk each = 9 wk total).
 
-## 한줄요약
+Progressive loading significantly increased BIC vs unloaded controls (P = 0.018) in low-density maxillary bone, with no difference in peri-implant bone density at 1 or 2 mm (P = 0.734/0.961) and no increase in crestal bone resorption (P = 0.813).
 
-비글 개 3마리(임플란트 24개) 조직형태계측 연구에서, 점진적 정적 교합력(100→200→300 g, 9주)이 저밀도 상악골에서 BIC를 유의하게 높였고(P = 0.018), 치조정 골흡수나 임플란트 주위 1–2 mm 골밀도는 무부하 대조군과 차이 없었다.
+Controlled progressive loading improves osseointegration quality (BIC) without causing marginal bone loss at physiologic magnitudes — animal-model histologic support for the clinical PBL protocol.
+
+## 세줄요약
+
+비글 개 3마리(상악 임플란트 24개: 점진적 부하 12개 / 무부하 대조군 12개) 조직형태계측 연구: Misch의 점진적 골 부하(PBL) 개념을 Ni-Ti 코일스프링 힘(100→200→300 g, 각 3주 = 총 9주)으로 검증했다.
+
+점진적 부하군에서 저밀도 상악골의 골-임플란트 접촉률(BIC)이 무부하 대조군보다 유의하게 증가했고(P = 0.018), 임플란트 주위 1–2 mm 골밀도(P = 0.734/0.961)와 치조정 골흡수(P = 0.813)는 차이 없었다.
+
+생리적 범위의 조절된 점진적 부하는 변연골 소실 없이 골유착 질(BIC)을 향상시켜 임상 PBL 프로토콜을 지지하는 동물실험 조직학적 근거를 제공한다.
 
 ## Summary
 

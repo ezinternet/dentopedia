@@ -16,13 +16,23 @@ text_filename: talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-du
 
 Directly tests two of the durability strategies catalogued in [[wiki/resin-bonding/liu-2011-limitations-bonding-dentin-bond-degradation-review]] — ethanol-wet bonding (better hydrophobic-monomer infiltration) and chlorhexidine (MMP inhibition / collagen preservation) — providing in-vitro mechanistic evidence (micro-Raman monomer quantification + TEM nanoleakage) that the two together yield a more durable resin-dentin bond. Reinforces the review's thesis that bond degradation is hydrolysis of resin-sparse, water-rich hybrid layer plus collagenolysis.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro micro-Raman + μTBS + TEM bench study (Talungchit et al. 2014, J Adhes Dent; abstract-only retrieved) showing ethanol-wet bonding raises bis-GMA/TEG-DMA molar concentration and μTBS across the hybrid layer immediately and after aging, and that adding chlorhexidine further preserves collagen integrity and limits nanoleakage at 1 year.
 
-## 한줄요약
+In-vitro micro-Raman + μTBS + TEM bench study (Talungchit et al.
+
+2014, J Adhes Dent;
+
+abstract-only retrieved) showing ethanol-wet bonding raises bis-GMA/TEG-DMA molar concentration and μTBS across the hybrid layer immediately and after aging, and that adding chlorhexidine further preserves collagen integrity and limits nanoleakage at 1 year.
+
+## 세줄요약
+
 
 에탄올 습식 접착(ethanol-wet bonding, EW)이 수습식(water-wet bonding, WW)보다 소수성 단량체(bis-GMA/TEG-DMA)를 혼성층(hybrid layer)에 더 깊이 침투시켜 즉시·노화 후 모두 미세인장결합강도(microtensile bond strength, μTBS)를 높였고, 클로르헥시딘(chlorhexidine, CHX)을 추가하면 1년 보관 후 콜라겐 보존과 나노누출(nanoleakage) 감소가 더 좋아진다는 in-vitro 벤치 연구 (초록만 확보).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

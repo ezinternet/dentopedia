@@ -16,13 +16,21 @@ relations:
 tags: [gvhd, hct, oral-medicine, lichenoid, salivary-dysfunction]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative mini-review of oral chronic GVHD (30-50% of alloHCT recipients): three entities — lichenoid mucositis, salivary dysfunction, tissue sclerosis/trismus — with NIH 2014 criteria and a topical-to-systemic immunosuppression ladder.
+Narrative mini-review of oral chronic graft-versus-host disease (cGVHD), which affects 30–50% of allogeneic HCT recipients and comprises three distinct oral entities: lichenoid mucositis, immune-mediated salivary dysfunction, and tissue sclerosis/trismus.
 
-## 한줄요약
+NIH 2014 diagnostic and staging criteria are applied to oral cGVHD; management follows a topical corticosteroid rinse-first ladder escalating to systemic immunosuppression for refractory disease.
 
-구강 만성 GVHD 미니리뷰(동종 HCT 수혜자 30-50%): 태선양 점막염·타액선 기능저하·조직경화/개구장애 3주체, NIH 2014 기준과 국소→전신 면역억제 단계.
+Oral cGVHD is both a major morbidity driver and a recognized site of malignant transformation (OPMD), requiring long-term oral surveillance alongside systemic disease management.
+
+## 세줄요약
+
+동종 조혈모세포이식(alloHCT) 수혜자 30–50%에서 발생하는 구강 만성 이식편대숙주병(cGVHD) 내러티브 미니리뷰 — 태선양 점막염·면역성 타액선 기능저하·조직 경화/개구장애 세 아형 정리.
+
+NIH 2014 진단·병기 기준 적용; 국소 스테로이드 세척 → 전신 면역억제로 단계적 관리, 난치성은 표적 면역억제제로 전환.
+
+구강 cGVHD는 주요 이환율 원인인 동시에 악성전환 부위(OPMD)로 인식되어 전신 질환 관리와 함께 장기적 구강 감시 필요.
 
 ## Summary
 

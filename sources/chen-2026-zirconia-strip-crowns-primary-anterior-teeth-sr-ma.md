@@ -17,13 +17,21 @@ text_filename: chen-2026-zirconia-strip-crowns-primary-anterior-teeth-sr-ma.txt
 
 사용자가 요청한 PMC 전문(全文) 논문으로, 유전치(primary anterior teeth) 우식 수복에서 prefabricated zirconia crown (PZC) vs resin-bonded composite strip crown (RCSC) 비교의 SR+MA (RCT 9편, 치아 1746개) — 기존 [[wiki/caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]]가 유구치(molar)에서 PZC vs stainless steel crown (SSC)을 다룬 것과 짝을 이루어, 전치부(anterior) PZC vs RCSC 비교라는 별개 임상 의사결정 축을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis of 9 RCTs (1746 primary anterior teeth, children aged 3–6 years) found prefabricated zirconia crowns (PZCs) superior to resin-bonded composite strip crowns (RCSCs) for secondary caries prevention (RR=0.41), crown retention (RR=0.15), restoration failure (RR=0.07), and plaque accumulation (RR=0.08), while RCSCs caused significantly less wear of opposing teeth (RR=7.58 favoring RCSC).
+SR + meta-analysis (PROSPERO CRD42024625706; 9 RCTs, 1746 primary anterior teeth, children aged 3–6 years) directly comparing prefabricated zirconia crowns (PZC) with resin-bonded composite strip crowns (RCSC) for restoration of primary anterior teeth.
 
-## 한줄요약
+PZC was significantly superior for secondary caries prevention (RR=0.41), crown retention (RR=0.15), restoration failure (RR=0.07), and plaque accumulation (RR=0.08); however, PZC caused significantly more wear of opposing teeth than RCSC (RR=7.58, favoring RCSC); 8/9 studies were low risk of bias.
 
-RCT 9편(유전치 1746개, 3–6세 아동) SR+MA — prefabricated zirconia crown (PZC)이 resin-bonded composite strip crown (RCSC) 대비 이차우식 예방(RR=0.41), 크라운 유지(RR=0.15), 수복 실패(RR=0.07), 플라크 축적(RR=0.08)에서 우수했으나, 대합치 마모는 RCSC가 유의하게 적었다(RR=7.58, PZC 불리).
+PZC is the stronger restorative choice for primary anterior teeth on most clinical outcomes, but its zirconia hardness creates an opposing-tooth wear tradeoff; surface polish rather than bulk hardness appears to drive this wear clinically.
+
+## 세줄요약
+
+SR + 메타분석(PROSPERO CRD42024625706; RCT 9편, 유전치 1746개, 3–6세 아동) — prefabricated zirconia crown (PZC)과 resin-bonded composite strip crown (RCSC)의 유전치(primary anterior teeth) 수복 효과를 직접 비교.
+
+PZC가 이차우식 예방(RR=0.41), 크라운 유지(RR=0.15), 수복 실패(RR=0.07), 플라크 축적(RR=0.08)에서 유의하게 우수; 단, 대합치 마모는 PZC가 RCSC보다 유의하게 많아(RR=7.58, RCSC 유리); 9편 중 8편이 낮은 비뚤림 위험.
+
+대부분 임상 결과에서 PZC가 유전치 수복의 더 강한 선택이지만, 지르코니아 경도로 인한 대합치 마모 절충이 존재; 연마도(surface polish)가 bulk 경도보다 임상 마모를 결정하는 주요 요인으로 제시.
 
 ## 1. Document Information
 

@@ -20,13 +20,22 @@ relations:
     target: almeida-2017-dental-implants-sjogren-syndrome-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (16 studies, 1227 patients) showing xerostomia roughly doubles–triples restoration failure (HR ~2.6–2.9, recurrent caries) while implant survival stays >90% except in radiation-induced cases; no major periodontal-therapy penalty; evidence GRADE low-to-moderate, RoB moderate-to-serious.
+Systematic review (16 studies, 1227 patients; no meta-analysis) — the first cross-modality synthesis of xerostomia's impact on restorations, implants, periodontal therapy, prostheses, and patient-reported outcomes across Sjögren's, radiation-induced, medication-induced, and other etiologies.
 
-## 한줄요약
+Xerostomia roughly doubles–triples restoration failure risk (HR ~2.6–2.9, driven by recurrent caries); implant survival remains >90% average (~94%) in autoimmune xerostomia but is distinctly lower in radiation-induced cases (~86.7% success, Albrektsson criteria, early first-year failures); no major periodontal-therapy penalty was identified.
 
-체계적 문헌고찰 (16편, 환자 1227명) — 구강건조증(Xerostomia)은 보철물(restoration) 실패를 약 2.6~2.9배 높이고(재발우식, recurrent caries) 임플란트 생존율은 방사선유발 외에는 90% 이상 유지되며, 치주치료 결과 차이는 뚜렷하지 않음. 근거수준 GRADE 낮음~중등도, 비뚤림위험 중등도~심각.
+GRADE certainty is low-to-moderate throughout, 10/16 studies have serious risk of bias; in clinical practice, xerostomic patients need high-fluoride regimens and more cautious implant case selection in post-radiotherapy settings.
+
+## 세줄요약
+
+체계적 문헌고찰 (16편, n=1227; 메타분석 불가) — 구강건조증(Xerostomia)이 보철물·임플란트·치주치료·의치·PRO에 미치는 영향을 쇼그렌·방사선·약물 유발 등 원인별로 비교한 최초 교차 치료방식 종합.
+
+구강건조증은 수복물 실패 HR ~2.6–2.9배 상승(재발 우식 주원인); 임플란트 생존율은 자가면역 원인(쇼그렌)에서 ~94% 유지, 방사선 유발에서 ~86.7%(Albrektsson 기준)로 유의하게 낮고 첫 1년 내 조기 실패; 치주치료 결과 차이는 크지 않음.
+
+GRADE 근거수준 낮음~중등도, 62.5% 연구가 심각 비뚤림; 구강건조증 환자에서 고불소 예방 강화 + 방사선 유발 시 임플란트 증례 선정 신중이 임상 핵심.
+
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: miron-2024-autogenous-platelet-concentrates-intrabony-defects.txt
 
 Periodontal 골내결손(intrabony defect) 재생에서 PRF(Platelet-Rich Fibrin)가 실제로 어디까지 근거가 있는지를 55-RCT 규모로 정리한 최신·최대 SR+MA. 기존 [[wiki/periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]의 30-RCT NMA(재생술 > OFD, 병용요법 우세)에 "그 재생술의 자가 biologic 버전인 PRF는 EMD·bone graft·GTR과 대등하고, graft에 PRF를 더하면 추가 이득"이라는 층을 보강한다. iPRF 임상 RCT [[wiki/periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]]의 상위 근거 우산 역할도 한다. 동시 인제스트되는 자매 PRF SR·MA — [[wiki/periodontics/miron-2024-prf-furcation-defects-sr-ma]] (분지부), [[wiki/periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] (치근피개) — 와 함께 PRF 적응증 지도를 완성한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 55 RCTs on PRF for periodontal intrabony defects: adding PRF to OFD gives ~1.3 mm PPD reduction, ~1.2 mm CAL gain, ~1.6 mm radiographic bone fill vs OFD alone; PRF is equivalent to EMD/PRP/bone graft/barrier membrane; adding PRF to a bone graft (and adding metformin/bisphosphonates/statins to PRF) yields further significant gains.
 
-## 한줄요약
+SR+MA of 55 RCTs on PRF for periodontal intrabony defects: adding PRF to OFD gives ~1.3 mm PPD reduction, ~1.2 mm CAL gain, ~1.6 mm radiographic bone fill vs OFD alone;
 
-치주 골내결손에 대한 PRF 55개 RCT SR+MA: OFD 단독 대비 PRF 병용 시 탐침깊이 약 1.3mm 감소·임상부착수준 약 1.2mm 획득·방사선 골충전 약 1.6mm 개선; PRF는 EMD·PRP·골이식재·차폐막과 대등하고, 골이식재에 PRF를 더하거나 PRF에 메트포르민·비스포스포네이트·스타틴을 더하면 추가 유의 개선.
+PRF is equivalent to EMD/PRP/bone graft/barrier membrane;
+
+adding PRF to a bone graft (and adding metformin/bisphosphonates/statins to PRF) yields further significant gains.
+
+## 세줄요약
+
+
+치주 골내결손에 대한 PRF 55개 RCT SR+MA: OFD 단독 대비 PRF 병용 시 탐침깊이 약 1.3mm 감소·임상부착수준 약 1.2mm 획득·방사선 골충전 약 1.6mm 개선;
+
+PRF는 EMD·PRP·골이식재·차폐막과 대등하고, 골이식재에 PRF를 더하거나 PRF에 메트포르민·비스포스포네이트·스타틴을 더하면 추가 유의 개선.
+
+(incomplete)
 
 ## 1. Document Information
 

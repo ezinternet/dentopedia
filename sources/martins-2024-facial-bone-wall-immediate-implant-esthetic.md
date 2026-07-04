@@ -10,7 +10,7 @@ pdf_filename: martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR (12 연구): 상악 전치부 즉시식립 + 즉시수복 시 facial bone plate가 얇거나 결손되면 alveolar 흡수·심미 위험 증가; thinner facial plate → higher alveolus loss; ≥12개월 추적 연구 한정.
 
 ## 1. Document Information

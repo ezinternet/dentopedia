@@ -10,7 +10,7 @@ pdf_filename: nandini-2022-cylindrical-vs-tapered-implant-isq.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Split-mouth in vivo study (30 paired implants): tapered implants achieved significantly higher ISQ, less postoperative pain, and better peri-implant health than cylindrical implants at all timepoints.
 
 ## 1. Document Information

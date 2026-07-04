@@ -13,13 +13,23 @@ source_collection: external
 
 Buffered-LA cluster의 다른 RCT는 모두 IANB(nerve block)를 다루는데, 본 RCT는 **maxillary supraperiosteal infiltration**이라는 다른 투여 경로에서 buffering 효과를 검증해 cluster의 외적 타당성을 넓힌다. 최대 표본(n=100)으로 injection pain·onset·duration을 모두 유의하게 개선함을 보여 [[wiki/drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]]의 onset 데이터와 [[wiki/drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]]의 duration 데이터를 infiltration 맥락에서 재확인하고, [[wiki/drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] 가이드라인에 buffered-infiltration 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind prospective RCT (n=100, 50/group, ASA I/II, 18–60y), maxillary posterior extraction with supraperiosteal infiltration: buffered 2% lidocaine/1:100,000 (pH 7.3) beat conventional (pH 4.2) on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min) and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01; reinjection rate not different (4% vs 8%, p=0.678).
 
-## 한줄요약
+Double-blind prospective RCT (n=100, 50/group, ASA I/II, 18–60y), maxillary posterior extraction with supraperiosteal infiltration: buffered 2% lidocaine/1:100,000 (pH 7.3) beat conventional (pH 4.2) on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min) and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01;
 
-이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세), 상악 구치 발치 골막상 침윤마취: buffered 2% 리도카인/1:100,000(pH 7.3)이 conventional(pH 4.2) 대비 주사 통증(VAS 2.8±0.7 vs 4.2±0.9), 발현(2.3분 vs 4.7분), 지속(45.8±7.6분 vs 36.4±8.2분) 모두 우수(전부 p<0.01); 재주사율은 차이 없음(4% vs 8%, p=0.678).
+reinjection rate not different (4% vs 8%, p=0.678).
+
+(incomplete)
+
+## 세줄요약
+
+
+이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세), 상악 구치 발치 골막상 침윤마취: buffered 2% 리도카인/1:100,000(pH 7.3)이 conventional(pH 4.2) 대비 주사 통증(VAS 2.8±0.7 vs 4.2±0.9), 발현(2.3분 vs 4.7분), 지속(45.8±7.6분 vs 36.4±8.2분) 모두 우수(전부 p<0.01);
+
+재주사율은 차이 없음(4% vs 8%, p=0.678).
+
+(incomplete)
 
 ## 1. Document Information
 

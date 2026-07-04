@@ -24,13 +24,21 @@ relations:
     target: gonzalez-moles-2021-lichen-planus-malignant-transformation-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Critical review (J Dent Res 2025) synthesizing recent (≤3 y) meta-analyses: oral lichen planus (OLP) patients carry significantly elevated prevalence and risk of diabetes mellitus (PP 9.77%, OR 1.64), Hashimoto thyroiditis (8.60%, OR 2.2), hypo/hyperthyroidism, celiac disease (8.66%, OR 18.44), hepatitis C (7.14%, OR 4.09) and B, steatohepatitis, cirrhosis, and emotional disorders (depression 31%, anxiety 55%, stress 41%); many comorbidities are asymptomatic and act as cancer risk factors, so OLP warrants oral-systemic vigilance and referral.
+Critical narrative review (J Dent Res 2025) synthesizing recent (≤3 y) meta-analyses on systemic comorbidities in oral lichen planus (OLP) patients across ~20 disease categories.
 
-## 한줄요약
+OLP patients carry significantly elevated risk of anxiety (OR 3.51), depression (OR 6.15), diabetes (OR 1.64), celiac disease (OR 18.44), Hashimoto thyroiditis (OR 2.23), hepatitis C (OR 4.09), and liver cirrhosis (OR 5.58); many comorbidities are asymptomatic and some (HCV, thyroid) act as cancer risk factors.
 
-구강편평태선(Oral Lichen Planus, OLP) 환자는 당뇨·하시모토 갑상선염·셀리악병(OR 18.44)·C형간염(OR 4.09)·우울/불안/스트레스 등 전신질환 위험이 유의하게 높다 — 무증상이거나 암 위험인자인 경우가 많아 치과의가 선별·의뢰해야 한다는 비판적 고찰 (J Dent Res 2025).
+Dentists should treat OLP as a sentinel for hidden systemic disease — monitor glycemia and blood pressure especially when prescribing corticosteroids, and stay alert to thyroid, celiac, and hepatitis symptoms for referral.
+
+## 세줄요약
+
+구강편평태선(Oral Lichen Planus, OLP) 환자의 전신 동반질환을 다룬 최근(≤3년) 메타분석들을 종합한 비판적 고찰(J Dent Res 2025) — 약 20개 질환 범주 검토.
+
+OLP 환자는 불안(OR 3.51)·우울(OR 6.15)·당뇨(OR 1.64)·셀리악병(OR 18.44)·하시모토 갑상선염(OR 2.23)·C형 간염(OR 4.09)·간경변(OR 5.58) 위험이 유의하게 높음; 다수는 무증상이며 일부는 암 위험인자.
+
+치과의는 OLP를 잠재 전신질환의 신호로 인식하고 — 특히 코르티코스테로이드 처방 시 혈당·혈압 모니터링, 갑상선·셀리악·간염 증상 경각심, 필요 시 의뢰 실천.
 
 ## Summary
 

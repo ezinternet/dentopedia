@@ -21,13 +21,21 @@ relations:
     target: zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3-arm RCT (n=482 irradiated HNC patients) — DMFS increased significantly (P<0.05) in saliva-substitute, fluoride-varnish, and combined groups at all timepoints, with no intergroup difference (Bonferroni NS); neither agent halted radiation-caries progression.
+3-arm RCT (n=482 irradiated head and neck cancer patients; 67–80 completers per arm at 12 months) comparing salivary substitute (Group I), fluoride varnish applied every 3 months (Group II), and both combined (Group III) for radiation-caries prevention.
 
-## 한줄요약
+DMFS increased significantly (P<0.05) in all three groups at every timepoint (3, 6, 12 months post-RT); Bonferroni intergroup comparison was non-significant — no arm was superior.
 
-3군 무작위대조시험 (방사선 조사 두경부암 환자 482명) — 타액대용제·불소바니시·병용 어느 군에서도 DMFS가 모든 시점에서 유의하게 증가했고 (P<0.05) 군간 차이는 없었다 (본페로니 비유의); 단독·병용 모두 방사선 우식 진행을 막지 못함.
+Neither salivary substitute nor fluoride varnish, alone or combined, halted radiation-caries progression; a multimodal strategy including gland-sparing RT, professional dental care, stringent home fluoride, and frequent recall is essential.
+
+## 세줄요약
+
+방사선 조사 두경부암(Head and Neck Cancer, HNC) 환자 482명을 대상으로 타액대용제(Group I)·불소바니시 3개월 간격 도포(Group II)·병용(Group III)으로 방사선 우식 예방 효과를 비교한 3군 무작위대조시험(RCT); 12개월 완료자 67–80명/군.
+
+DMFS가 세 군 모두 모든 시점(3·6·12개월)에서 유의하게 증가(P<0.05); Bonferroni 군간 비교는 비유의 — 어느 군도 다른 군보다 우수하지 않음.
+
+타액대용제·불소바니시는 단독 또는 병용으로도 방사선 우식 진행을 막지 못함; 침샘보호 방사선 조사·전문 치과 관리·철저한 자가불소·빈번한 내원 등 다중 접근이 필수.
 
 ## Summary
 

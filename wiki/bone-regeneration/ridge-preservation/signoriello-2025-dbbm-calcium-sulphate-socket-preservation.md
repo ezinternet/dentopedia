@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective histomorphometric study (n=24, 4 months): Bio-Oss + calcium sulphate (CalMatrix) 50:50 socket preservation yielded significantly more vital bone (62.5% vs 31.25%) and less acellular bone (5% vs 32.91%) than Bio-Oss alone (p<0.05), the fast-resorbing carrier improving early new-bone quality.
+## Three-line Summary
 
-## 한줄요약
-후향적 조직형태계측(n=24, 4개월): Bio-Oss + 황산칼슘(Calcium Sulphate, CalMatrix) 50:50 병용군이 Bio-Oss 단독군 대비 생활골 62.5% vs 31.25%, 무세포골 5% vs 32.91% — 빠르게 흡수되는 carrier가 초기 신생골 질을 유의하게 개선.
+Retrospective histomorphometric pilot study (Verona University, n=24 sites, 4 months; original 2008-2009 data re-evaluated 2023) comparing Bio-Oss alone vs Bio-Oss + calcium sulphate (CalMatrix) 50:50 in socket preservation, all sites with Bio-Gide collagen membrane and primary closure.
+
+Bio-Oss + calcium sulphate yielded significantly more vital bone (62.5% vs 31.25%) and dramatically less acellular bone (5% vs 32.91%) than Bio-Oss alone at 4 months (p<0.05), while both groups showed acceptable ridge dimension maintenance.
+
+Calcium sulphate as a fast-resorbing carrier appears to enhance early cellular activity and new-bone quality within the xenograft scaffold, though the retrospective design and small sample limit conclusions.
+
+## 세줄요약
+
+후향적 조직형태계측 파일럿 연구 (베로나 대학, n=24 부위, 4개월; 원본 2008–2009 데이터 2023년 재평가): Bio-Oss 단독 vs Bio-Oss + 황산칼슘 (Calcium Sulphate, CalMatrix) 50:50 발치와 보존, 전 부위 Bio-Gide 콜라겐막 + 1차 봉합.
+
+Bio-Oss+황산칼슘군: 생활골 62.5% vs 31.25%, 무세포골 5% vs 32.91% — 4개월 시점 유의한 차이 (p<0.05); 양군 모두 치조제 치수 방사선학적 유지 양호.
+
+빠르게 흡수되는 황산칼슘 carrier가 이종골 지지체 내 초기 세포 활성과 신생골 질을 높이는 것으로 해석되나, 후향적 설계·소규모 표본으로 결론에 한계가 있다.
 
 ## Summary
 Signoriello 등(베로나 대학)은 2008–2009 시행된 발치와 보존 파일럿 프로토콜의 의무기록·조직표본을 2023년에 후향적으로 평가했다. 모든 site에 Bio-Gide 콜라겐막 + 1차 폐쇄가 공통 baseline이었고, 시험군은 Bio-Oss + 황산칼슘(CalMatrix) 50:50, 대조군은 Bio-Oss 단독. 4개월 trephine biopsy 조직형태계측 결과 생활골(vital bone) 비율과 무세포골(acellular bone) 비율 모두에서 병용군이 유의하게 우수했다. 황산칼슘이 초기에 흡수되며 cell-friendly matrix로 작용해 신생골의 cellular activity를 높이는 메커니즘으로 저자는 해석한다 [claude해석: 4개월이라는 짧은 시점에서의 "vital bone %" 차이가 임플란트 1차안정성·장기 변연골 보존으로 이어지는지는 이 연구에서 검증되지 않음].

@@ -13,13 +13,21 @@ source_collection: external
 
 Provides the contemporary terminology (supracrestal tissue attachment, SCTA) and a worked clinical pathway — identification (bone sounding), evaluation, and surgical correction (crown lengthening) — for biologic-width violation, applying the dimensional concepts in [[wiki/periodontics/hamasni-2017-biologic-width-restorative-dentistry]] and operationalizing the SCTA principles reviewed in [[wiki/periodontics/ercoli-2021-fixed-dental-prostheses-restorations-periodontium]].
 
-## One-line Summary
+## Three-line Summary
 
-Case presentation + literature review defining supracrestal tissue attachment (SCTA, the renamed biologic width = junctional epithelium + connective tissue attachment) and detailing identification (bone sounding <2 mm margin-to-crest), evaluation, and correction (gingivectomy, surgical crown lengthening, extrusion) of SCTA violation in a subgingival-crown case.
+Case report (47-year-old female, teeth 35/36 SCTA violation after prosthetic crowns) with narrative literature review defining supracrestal tissue attachment (SCTA, renamed biologic width = junctional epithelium + connective tissue attachment) and detailing its clinical management pathway.
 
-## 한줄요약
+Bone sounding revealed margin-to-crest <2 mm (SCTA violation); surgical crown lengthening (envelope flap + osteoplasty) re-established SCTA with satisfactory healing; reviewed correction options include gingivectomy (≥3 mm SCTA, adequate keratinized tissue), crown lengthening, and orthodontic extrusion.
 
-증례 + 문헌고찰 — supracrestal tissue attachment(SCTA, biologic width의 새 명칭 = 접합상피 + 결합조직부착)을 정의하고, 치은연하 크라운으로 인한 SCTA 침범의 식별(bone sounding 시 변연-치조정 <2 mm)·평가·교정(치은절제술, 외과적 치관연장술, 정출)을 정리.
+SCTA violation leads to gingival inflammation, BOP, crestal bone loss, and adverse microbiota; the diagnostic threshold is margin-to-crest <2 mm on bone sounding, and the correction strategy depends on keratinized tissue width, crown-to-root ratio, and single vs multi-rooted tooth anatomy.
+
+## 세줄요약
+
+증례 보고 (47세 여성, 치아 35/36 보철 크라운 후 SCTA 침범) + 서사적 문헌고찰 — 치은상 조직부착(Supracrestal Tissue Attachment, SCTA, biologic width 새 명칭 = 접합상피 + 결합조직부착) 정의 및 임상 처치 경로 정리.
+
+골탐침(bone sounding)에서 변연-치조정 <2 mm 확인(SCTA 침범); 외과적 치관연장술(봉투형 전층피판 + 골성형) 시행 후 만족스러운 치유; 교정 옵션으로 치은절제술(≥3 mm SCTA, 충분한 각화치은), 치관연장술, 교정적 정출 검토.
+
+SCTA 침범은 치은 염증·탐침 출혈(BOP)·치조정 골소실·불량 미생물총 유발; 진단 기준은 골탐침 <2 mm, 교정 전략은 각화치은 폭·치관-치근비·단근치 여부에 따라 결정.
 
 ## 1. Document Information
 

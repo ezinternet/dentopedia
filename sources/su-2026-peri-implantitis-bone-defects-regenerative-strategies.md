@@ -13,13 +13,23 @@ source_collection: external
 
 포괄적 서술 리뷰로, 주위염 골 결손의 병태생리·진단·재생치료 전반을 한 편에서 정리한 참조 문헌이 필요했음. [[wiki/implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]]와 [[wiki/implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] 등 개별 임상 RCT의 이론적 배경(GBR 원리, 골 이식재 선택, 막 재료 선택)을 뒷받침하는 서술 리뷰로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (2026) systematically summarizing the pathological mechanisms, diagnostic modalities (CBCT, MRI, radionuclide imaging), and regenerative surgical strategies (GBR, xenografts, 3D-printed Ti mesh, biodegradable Mg membranes) for peri-implantitis-associated bone defects, highlighting remaining gaps in predictability and bacterial eradication.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서술 리뷰(2026): 임플란트 주위염(Peri-implantitis) 골 결손의 병태기전, 진단 영상(CBCT·MRI·골 스캔), 재생 수술(골유도재생술(GBR), 이종골, 3D 프린팅 티타늄 메쉬, 생분해성 마그네슘 막) 전략을 총정리하고 예측 가능성·세균 박멸의 미해결 과제를 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

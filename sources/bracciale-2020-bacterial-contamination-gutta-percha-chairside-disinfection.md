@@ -17,13 +17,21 @@ text_filename: bracciale-2020-bacterial-contamination-gutta-percha-chairside-dis
 
 Part of a 4-paper gutta-percha (GP) cone-decontamination cluster. This is the primary empirical anchor documenting that in-use GP cones harbour bacteria (22.9%) and that a chairside 5.25% NaOCl protocol disinfects them — grounding the aseptic-chain concern that root-canal microbiology work such as [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] frames, and pairing with the cluster SR [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] on NaOCl vs CHX cone decontamination.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro contamination survey (240 GP points, 4 brands, in-use packages): 22.9% harboured bacteria, no brand difference, and a chairside 5.25% NaOCl (1 min) + detergent (5 min) protocol disinfected 76.4% (P<0.001).
+In-vitro contamination survey (240 gutta-percha points from in-use open boxes at a university clinic; 4 brands: Dentsply, R&S, Proclinic, ProTaper; sizes ISO K15–K40, F1–F3) using fluid thioglycolate culture assessed bacterial contamination and chairside disinfection protocol (CDP) efficacy.
 
-## 한줄요약
+22.9% of gutta-percha points harboured bacteria with no significant brand difference; Dentsply D-size (100%) and K30 (16.4%) showed the highest contamination; a CDP of 5.25% NaOCl (1 min) + detergent (5 min) successfully disinfected 76.4% of contaminated cones (P<0.001).
 
-임상에서 사용 중인 거타퍼차 포인트 240개(4개 브랜드)의 22.9%에서 세균이 검출됐고 브랜드 간 차이는 없었으며, chairside 5.25% NaOCl(1분)+세정액(5분) 프로토콜이 오염 포인트의 76.4%를 소독했다(P<0.001)는 in-vitro 연구.
+Bacterial species were not identified (turbidity-only method) and sample sizes were unequal across brands; oversized/rarely-used cones in long-open boxes carry highest contamination risk, supporting the routine use of chairside disinfection before obturation.
+
+## 세줄요약
+
+In-vitro 오염 조사(대학 치과 클리닉의 개봉 사용 중 거타퍼차 포인트 240개; 4개 브랜드; ISO K15–K40, F1–F3): 유체 thioglycolate 배양으로 세균 오염 및 chairside 소독 프로토콜(CDP) 효능 평가.
+
+거타퍼차 포인트의 22.9%에서 세균 검출, 브랜드 간 유의차 없음; Dentsply D 사이즈(100%)·K30(16.4%) 오염 최다; 5.25% NaOCl(1분)+세정액(5분) CDP로 오염 포인트의 76.4% 소독 성공(P<0.001).
+
+세균 동정 미시행(탁도 판정법)·브랜드별 표본 불균형; 잘 사용되지 않는 대구경 포인트의 오염 위험이 높아, 치근관 충전 전 chairside 소독 루틴화 지지.
 
 ## 1. Document Information
 

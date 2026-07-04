@@ -16,13 +16,22 @@ relations:
     target: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (13 studies: 5 RCTs, 7 experimental non-RCT, 1 in vitro) comparing 10 manual toothbrushing techniques — no single technique is proven superior for plaque/gingivitis due to excessive heterogeneity; the toothpick method beat Bass in the only study that tested it (Morita 1998), and modified Bass beat unstructured brushing (Poyato-Ferrera 2003).
+Systematic review (13 studies: 5 RCTs, 7 non-randomized experimental, 1 in vitro) comparing 10 manual toothbrushing techniques (roll, Bass, modified Bass, Charter's, Fones, modified Stillman, toothpick, scrub, vertical, circular) for plaque removal and gingivitis in adults ≥17 years.
 
-## 한줄요약
+Excessive heterogeneity in techniques, brush brands (23), plaque indices (10), and training methods prevented meta-analysis; no single technique proved superior, though the toothpick method outperformed Bass in the only head-to-head study (Morita 1998), and modified Bass beat unstructured brushing (Poyato-Ferrera 2003).
 
-수동 칫솔질 기법 10종을 비교한 체계적 문헌고찰 (13편: RCT 5·비무작위 실험 7·in vitro 1). 연구 간 이질성이 과도해 어느 한 기법도 치면세균막·치은염 제거에 우월하다 결론낼 수 없음 — 다만 토스픽법(Watanabe법)은 검증한 유일 연구에서 Bass법보다, 수정 Bass법은 비훈련 칫솔질보다 우수했다. CONSORT 준수 RCT가 필요.
+Current evidence is insufficient to recommend any specific manual technique; CONSORT-compliant RCTs using standardized indices (e.g., Marginal Plaque Index) are needed.
+
+## 세줄요약
+
+체계적 문헌고찰 (13편: RCT 5·비무작위 실험 7·in vitro 1) — 수동 칫솔질 기법 10종(롤·Bass·수정 Bass·Charter's·Fones·수정 Stillman·토스픽·스크럽·수직·원형)을 성인(≥17세)의 치면세균막·치은염에서 비교.
+
+기법·칫솔(23종)·치면세균막 지수(10종)·훈련방법 이질성 과도해 메타분석 불가; 토스픽법은 단독 비교 연구(Morita 1998)에서 Bass를 능가, 수정 Bass는 비훈련 칫솔질보다 유의하게 우수.
+
+특정 기법 권고 근거 불충분; CONSORT 준수·표준화 지수(MPI 권장) RCT 필요.
+
 
 ## Summary
 

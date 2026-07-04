@@ -17,13 +17,21 @@ text_filename: allison-2024-bioaerosols-airborne-transmission-dental-clinic.txt
 
 기존 aerosol-hazard 근거([[dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical]]의 입자 농도·크기 물리측정, [[dental-handpiece/matys-2020-dental-aerosol-hazard-risk-dental]]의 핸드피스 위험도)는 "얼마나 많이·어떤 크기의 aerosol이 나오는가"에 초점이 있었으나, 그 aerosol이 실제 병원체를 실어 나르는 bioaerosol로서 공기전파(airborne transmission)를 일으키는지, 그리고 어떤 통제수단이 실제로 미생물 분산을 줄이는지는 별도 근거가 필요하다. 본 narrative review (Allison 2024, International Dental Journal COVID-19 supplement)는 bioaerosol의 airborne-transmission 근거·측정법·통제수단(핸드피스 종류, 러버댐, 술전 mouthrinse, HVE/LEV, 환기·fallow time, PPE)을 종합해 위 두 물리측정 페이지의 hazard 근거를 감염전파 프레임으로 확장·보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review synthesising the evidence on dental bioaerosols and airborne transmission — how bioaerosols are produced (air-turbine handpiece produces ~1000× the bacterial CFU of quiet breathing), why the classical <5 µm droplet/airborne dichotomy is flawed (particles up to 100 µm can stay suspended and travel >2 m), and how a 3-tier control hierarchy (reduce aerosol production, reduce microbial load, capture/remove) plus PPE lowers exposure risk.
+Narrative review synthesizing dental bioaerosol and airborne-transmission evidence across heterogeneous primary and systematic review literature, covering aerosol physics, measurement paradigms, and control measures.
 
-## 한줄요약
+Air-turbine handpiece generates ~1,000× more bacterial CFU than quiet breathing; particles up to 100 µm can remain airborne and travel >2 m, invalidating the classical 5 µm airborne/droplet dichotomy; rubber dam reduces bacterial dispersion by up to 99%, high-volume suction by 80–90%, and local exhaust ventilation by 89–93%.
 
-치과 bioaerosol과 공기전파 근거를 종합한 서술적 리뷰 — 에어터빈 핸드피스는 조용한 호흡의 약 1000배 세균을 분산시키고, 5 µm 미만만 공기전파된다는 통념은 틀렸으며(최대 100 µm 입자도 부유·2 m 이상 이동), 러버댐·술전 가글·고용량 흡인·국소배기·환기·PPE 등 3단계 통제 위계로 노출 위험을 낮춘다.
+A 3-tier control hierarchy (reduce production → reduce microbial load → capture/remove) plus appropriate PPE (FFP3/N95 for high-risk AGPs) is the evidence-based framework; ~10 ACH ventilation with 30-minute fallow time recommended after aerosol-generating procedures.
+
+## 세줄요약
+
+치과 bioaerosol·공기전파 근거를 물리·미생물·통제 세 영역으로 종합한 서술적 리뷰.
+
+에어터빈 핸드피스는 조용한 호흡 대비 세균 약 1,000배 분산; 100 µm 입자도 부유·2 m 이상 이동해 5 µm 이하만 공기전파된다는 통념은 오류; 러버댐 최대 99%, 고용량 흡인 80–90%, 국소배기(LEV) 89–93% 세균 분산 감소.
+
+3단계 통제 위계(발생 감소 → 미생물 부하 감소 → 포집·제거) + PPE(고위험 AGP에 FFP3/N95)가 근거 기반 감염관리 체계; 환기 10 ACH + 30분 fallow time 권고.
 
 ## 1. Document Information
 

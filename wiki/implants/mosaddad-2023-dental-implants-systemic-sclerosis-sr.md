@@ -20,13 +20,21 @@ relations:
     target: esimekara-2022-dental-implants-autoimmune-diseases-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 14 case reports/series (37 systemic-sclerosis patients, 153 implants): implant survival was 100% in case reports and 89.2% in the single case series, with SSc status showing no discernible impact on survival — provided disease-specific risk assessment and microstomia management are addressed.
+Systematic review of 14 case reports/series (37 systemic-sclerosis patients, 153 implants across multiple countries) — the first comprehensive SR isolating the scleroderma subpopulation for dental implant survival.
 
-## 한줄요약
+Implant survival was 100% in all case reports and 89.2% (95% CI 79.1–95.6) in the single retrospective case series; SSc status showed no discernible negative impact on survival.
 
-전신경화증(Systemic Sclerosis, SSc) 환자 대상 14편(증례보고/증례군) 체계적 고찰(환자 37명·임플란트 153개): 임플란트 생존율은 증례보고 100%·증례군 89.2%로 SSc 자체가 생존에 뚜렷한 악영향을 주지 않음 — 단, 소구증(Microstomia) 관리와 학제간 위험 평가가 전제.
+Implants are viable for SSc patients but require interdisciplinary risk assessment, microstomia-adapted surgical/prosthetic planning (fixed > removable), and lifelong twice-yearly peri-implant monitoring.
+
+## 세줄요약
+
+전신경화증(Systemic Sclerosis, SSc) 환자 대상 14편(증례보고/증례군) 체계적 고찰(환자 37명·임플란트 153개) — 피부경화증 아집단만을 대상으로 한 최초의 포괄적 체계적 문헌고찰.
+
+임플란트 생존율은 모든 증례보고에서 100%, 단일 후향적 증례군에서 89.2%(95% CI 79.1–95.6)였으며, SSc 상태 자체는 생존에 뚜렷한 부정적 영향을 보이지 않았다.
+
+임플란트는 SSc 환자에게 실행 가능한 재활 옵션이지만 학제간 위험 평가, 소구증(Microstomia) 맞춤 계획(고정 보철 우선), 평생 6개월 단위 임플란트 주위 모니터링이 전제되어야 한다.
 
 ## Summary
 

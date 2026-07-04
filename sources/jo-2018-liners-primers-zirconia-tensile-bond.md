@@ -9,7 +9,7 @@ pdf_filename: jo-2018-liners-primers-zirconia-tensile-bond.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Adv Prosthodont 2018;10:374-80: silica-based glass-ceramic liner + P-free liner vs MDP primers — both types significantly increase tensile bond strength vs control; liner effect comparable to MDP primer; P-free liner slightly inferior.
 
 ## 1. Key Results

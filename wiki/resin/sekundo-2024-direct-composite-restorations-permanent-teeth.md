@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-German S3 consensus-based clinical practice guideline (Part 2; 6 PICO questions, panel from 20 societies) issuing 7 recommendations + 2 statements on composite processing: prefer one-stage selective caries removal near pulp, accept relative or absolute isolation (rubber dam may aid longevity), use anatomically preformed sectional matrix + ring/wedge for Class II, etch enamel with phosphoric acid, prefer 2-step self-etch / 3-step etch-and-rinse / universal adhesives, and polish all restorations.
+German S3 consensus-based clinical practice guideline (AWMF 083-028, Part 2; 6 PICO questions, panel from 20 societies; NIH Type 1 structured consensus conference) issuing 7 recommendations and 3 statements on direct composite processing in permanent teeth.
 
-## 한줄요약
+Key recommendations: prefer one-stage selective caries removal near the pulp; rubber dam may benefit long-term longevity; use anatomically preformed sectional matrix + ring + wedge for Class II; etch enamel with phosphoric acid; prefer 2-step self-etch, 3-step etch-and-rinse, or universal adhesives; polish all restorations; bulk-fill is safe to 4 mm with adequate-power curing units.
 
-독일 S3 합의기반 임상진료지침(Part 2; PICO 6개, 20개 학회 패널)으로 복합레진 제작 과정에 대한 권고 7개와 statement 2개 제시: 치수 근접 상아질 병소는 1단계 선택적 우식 제거 선호, 상대적·절대적 격리 모두 사용 가능(러버댐은 장기 수명에 유리할 수 있음), Class II는 해부학적 sectional matrix+링·쐐기 선호, 법랑질은 인산 에칭, 2-step self-etch·3-step etch-and-rinse·universal adhesive 선호, 모든 수복물은 연마 권장.
+Evidence on light curing and polishing was insufficient to grade formally; all 7 recommendations and 3 statements were passed by strong consensus (16–17/0/0 votes).
+
+## 세줄요약
+
+독일 S3 합의기반 임상진료지침(AWMF 083-028 Part 2; PICO 6개, 20개 학회 패널, NIH Type 1 구조적 합의 컨퍼런스): 영구치 직접 복합레진의 제작 과정에 대한 권고 7개 및 statement 3개 발행.
+
+핵심 권고: 치수 근접 병소는 1단계 선택적 우식 제거 선호; 러버댐이 장기 수명에 유리할 수 있음; Class II는 해부학적 sectional matrix+링·쐐기 선호; 법랑질 인산 에칭; 2-step self-etch·3-step etch-and-rinse·universal adhesive 선호; 모든 수복물 연마; 벌크필 4 mm 깊이까지 충분 출력 조사 장치로 안전.
+
+광중합 및 연마 항목은 근거 수준이 낮아 정식 등급화 불가; 모든 권고 및 statement는 강한 합의(16–17/0/0)로 통과.
 
 ## Summary
 

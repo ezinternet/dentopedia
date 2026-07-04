@@ -26,13 +26,21 @@ tags: [overview, placement-timing, immediate-implant, delayed-implant, ridge-pre
 > - **최신 근거 추가(2024–2025, 초록수준)**: Ickroth 2024(즉시 vs 조기 단일치 SR+MA), Riachi 2024(즉시/조기/지연 SR+MA), Gareb 2024(이식부위 임플란트 SR+MA), Jamil 2025(SR+MA) — 시점 간 생존 동등 명제를 보강하나 전문 미확인이라 수치는 본문 인용 보류.
 > - **임상 takeaway**: 시점 선택은 "더 빠른가"가 아니라 "이 환자·이 소켓·이 조건에서 안전한 최조기 시점은 언제인가"(Thoma 2026)다. 생존은 시점 무관 → 협측골·표현형·감염·심미요구로 결정하라.
 
-## One-line Summary
+## Three-line Summary
 
-Across the ITI Type 1–4 timing spectrum, implant survival is broadly equivalent (Patel 2023 SR+MA: 97.4% immediate vs 97.5% delayed, RR 0.99, I²=0%), so the decision turns on MBL, esthetic, complication, and treatment-time trade-offs: a direct IIP-vs-ARP SR+MA (Fan 2024, 11 RCTs, n=701) shows immediate placement preserves marginal bone better (molar MD −0.41 mm) but causes more postoperative complications, with PES/failure/width/satisfaction equivalent; immediate (Type 1) concentrates the esthetic/biological risk (Tonetti 2017 RCT), while early (Type 2/3) placement matches immediate/delayed for survival with less marginal bone loss than immediate — making the buccal wall, phenotype, infection, and esthetic demand (not survival) the real decision drivers.
+Synthesis of 6 papers on post-extraction implant placement timing: across the ITI Type 1–4 spectrum (immediate → early soft-tissue → early partial-bone → delayed), survival is equivalent (Patel 2023 SR+MA: 97.4% immediate vs 97.5% delayed, RR 0.99, 95% CI 0.96–1.02, I²=0%), so the decision turns on MBL, esthetic, complication, and treatment-time trade-offs.
 
-## 한줄요약
+Direct IIP-vs-ARP SR+MA (Fan 2024, 11 RCTs, n=701) shows immediate placement preserves marginal bone better (non-molar MD −0.36 mm, molar −0.41 mm) but causes more postoperative complications, while PES, failure, width change, and satisfaction are equivalent; Tonetti 2017 RCT (n=124) shows immediate concentrates biological risk (augmentation 72% vs 44%, wound failure 26% vs 5%, inadequate PES 42% vs 19%); early (Type 2/3) placement matches failure rates while losing less MBL than immediate (Bassir 2019 SR+MA, WMD −0.14 mm).
 
-ITI Type 1–4 시점 전반에서 임플란트 생존율은 대체로 동등해(Patel 2023 SR+MA: 즉시 97.4% vs 지연 97.5%, RR 0.99, I²=0%) 결정은 MBL·심미·합병증·치료시간 trade-off로 내린다: IIP vs ARP 직접 비교 SR+MA(Fan 2024, 11 RCT, n=701)에서 즉시식립은 변연골을 더 잘 보존(대구치 MD −0.41 mm)하나 술후 합병증이 많고 PES·실패·폭·만족도는 동등; 즉시(Type 1)는 심미·생물학적 위험을 집중시키고(Tonetti 2017), 조기(Type 2/3)는 생존 동등에 MBL이 적어 — 생존이 아니라 협측골판·표현형·감염·심미요구가 실제 결정 동인이다.
+The real decision drivers are buccal-wall integrity, periodontal phenotype, periapical infection (>5 mm lesion is the dominant real-world contraindication to immediate), and esthetic demand; ARP reduces defect complexity for unfavorable sockets but does not eliminate the need for GBR at placement, and an intact buccal wall is not an absolute prerequisite if GBR + deferred provisionalization are used (Meijer 2024 10-year RCT, n=40).
+
+## 세줄요약
+
+발치 후 식립 시점 6편 종합: ITI Type 1–4 전반에서 생존율은 대체로 동등(Patel 2023 SR+MA: 즉시 97.4% vs 지연 97.5%, RR 0.99, I²=0%)하므로 결정은 MBL·심미·합병증·치료시간 trade-off로 내린다.
+
+IIP vs ARP 직접 비교(Fan 2024, 11 RCT, n=701): IIP가 변연골 보존(대구치 MD −0.41 mm)에 우위이나 술후 합병증 더 많고 PES·실패·폭·만족도는 동등; Tonetti 2017 RCT(n=124)에서 즉시는 골증대 72%·창상실패 26%·불량 PES 42%로 위험 집중; 조기(Type 2/3)는 실패율 동등에 MBL 더 적다(Bassir 2019, WMD −0.14 mm).
+
+실제 결정 동인은 협측골판·치주 표현형·근단 감염(>5 mm가 즉시식립 최대 금기)·심미 요구이며, ARP는 불량 소켓의 결손 복잡도를 낮추나 식립 시 GBR 필요를 제거하지는 못하고, 협측골판 온전은 절대조건이 아님(GBR + 지연 임시수복 병용 시 10년 동등; Meijer 2024 RCT, n=40).
 
 ## Thesis
 

@@ -29,12 +29,21 @@ source: synthesis
 > - 파노라마 AI 상위(umbrella) 리뷰(Turosz 2023, 12편 SR·ROBIS): 과제별 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별 93.67%, 치근단 병소 민감도 99.95%·특이도 92%이나 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. 성인 영상진단 cluster의 "영상 우위 + 근거 품질 경고" 패턴 재확인.
 > - 공통 공백: AI 도입 vs 미도입을 비교한 환자-결과 RCT 부재, 한국어·한국 인구 검증 부재, 5년 이상 장기 추적 데이터 부재.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (ingested 2024–2025) into 4 clusters — quantitative anchors, cross-discipline dental AI mapping, domain-specific syntheses, and general-healthcare AI context — because their evidence levels differ too widely to average into a single conclusion; the load-bearing quantitative anchor is essentially Zhang 2025 (dental LLM pooled answer accuracy 81.87% [95% CI 77.24–86.51], clinically acceptable responses 69.9% [95% CI 57.3–82.6]), the most mature AI domain is image-based diagnosis (caries detection, periapical lesions, cephalometrics, implant identification), and 5 of 9 reviews are narrative — so the clinical takeaway is staged adoption (image-assisted diagnosis now with regulatory checks; LLM patient responses only as clinician-reviewed front-desk drafts; autonomous/end-to-end systems avoided), with AI kept as a screening tool while diagnostic/treatment liability stays with the clinician.
+Synthesis/overview of 9 AI-in-dentistry/healthcare review papers (ingested 2024–2025) stratified into 4 clusters by evidence level — quantitative anchors, cross-discipline dental AI mapping, domain-specific syntheses, and general-healthcare AI context.
 
-## 한줄요약
-2024–2025에 ingest한 인공지능 (Artificial Intelligence, AI) 리뷰 9편을 (1) 정량 근거, (2) 치과 다전공 매핑, (3) 분야 특화 합성, (4) 일반 의료 맥락 4개 클러스터로 묶고 — 임상 활용 가능 영역(영상 진단)·신중 활용(LLM 환자 응답)·미성숙(자율 시스템·통합 워크플로우)을 단계적으로 분리한 종합 페이지.
+The load-bearing quantitative anchor is Zhang 2025 (dental LLM pooled answer accuracy 81.87%, clinically acceptable responses 69.9%), with a ~12 percentage-point gap between the two; the most mature AI domain is image-based diagnosis (caries detection sens. 76–93%, periapical GRADE-high, 2D cephalometric error 1.39 mm), and 5 of 9 reviews are narrative with most ChatGPT SRs rated AMSTAR-2 low.
+
+Clinical takeaway: staged adoption — image-assisted diagnosis now (with regulatory checks); LLM patient responses only as clinician-reviewed front-desk drafts; autonomous/end-to-end systems avoided; AI is a screening tool, not a diagnostic arbiter, and liability stays with the clinician.
+
+## 세줄요약
+
+2024–2025에 ingest한 인공지능 (Artificial Intelligence, AI) 리뷰 9편을 (1) 정량 근거, (2) 치과 다전공 매핑, (3) 분야 특화 합성, (4) 일반 의료 맥락 4개 클러스터로 구분 — 단일 결론으로 평균내면 정보 손실이 크기 때문.
+
+정량 anchor는 Zhang 2025(치과 대형언어모델 (Large Language Model, LLM) 풀링 정확도 81.87%·임상수용 69.9%; 약 12%p 갭) + 영상진단 4과제 SR+MA(우식 민감도 76%·치근단 GRADE-high·두부계측 오차 1.39 mm); 9편 중 5편이 narrative이고 ChatGPT SR 대다수가 AMSTAR-2 낮음.
+
+임상 결론: 영상 보조 진단(즉시 검토·규제 확인) → LLM 환자 응답(임상의 검수 front-desk 초안만) → 자율 시스템(미성숙 회피) 단계적 도입; AI는 screening 도구, 진단·책임은 의사 귀속.
 
 ## Scope
 이 종합 페이지는 2026-05-21에 `wiki/digital-workflow/` 아래로 ingest된 9편의 AI 관련 리뷰를 정리한다. 9편은 표면적으로 "AI in dentistry/healthcare"라는 동일 주제이지만, 근거 수준·범위·방법론이 크게 달라서 단일 결론으로 평균내면 정보 손실이 크다. 따라서 확신도와 범위로 stratify해서 본다.

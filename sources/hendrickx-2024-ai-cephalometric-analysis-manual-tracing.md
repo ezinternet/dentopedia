@@ -17,13 +17,23 @@ text_filename: hendrickx-2024-ai-cephalometric-analysis-manual-tracing.txt
 
 Adds the orthodontics/treatment-planning arm to the `artificial-intelligence` category — an SR+MA showing AI cephalometric landmarking on 2D images meets the clinically accepted <2 mm threshold (1.39 mm) in seconds, the clearest "AI already clinically usable" datapoint among dental-AI tasks. Extends the image-diagnosis maturity claim in [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] into orthodontics and complements [[overviews/digital-workflow-decision-ladder]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (34 studies; 27 on 2D cephalograms, 7 on 3D-CBCT; QUADAS-2) of AI automated cephalometric landmark detection: pooled 2D mean radial error 1.39 mm (95% CI 0.85–1.92), below the clinically accepted 2 mm threshold, in <1 min; 3D error 1.0–5.8 mm (not poolable); most studies high risk of bias in patient selection.
 
-## 한줄요약
+SR+MA (34 studies;
 
-인공지능(AI) 자동 두부계측 계측점 검출의 체계적 문헌고찰+메타분석(34편; 2D 27편, 3D-CBCT 7편): 2D 평균 방사 오차 1.39 mm로 임상 허용 기준 2 mm 미만이며 1분 이내 처리, 다만 대부분 연구가 환자 선택 비뚤림 위험 높음.
+27 on 2D cephalograms, 7 on 3D-CBCT;
+
+QUADAS-2) of AI automated cephalometric landmark detection: pooled 2D mean radial error 1.39 mm (95% CI 0.85–1.92), below the clinically accepted 2 mm threshold, in <1 min; 3D error 1.0–5.8 mm (not poolable); most studies high risk of bias in patient selection.
+
+## 세줄요약
+
+
+인공지능(AI) 자동 두부계측 계측점 검출의 체계적 문헌고찰+메타분석(34편;
+
+2D 27편, 3D-CBCT 7편): 2D 평균 방사 오차 1.39 mm로 임상 허용 기준 2 mm 미만이며 1분 이내 처리, 다만 대부분 연구가 환자 선택 비뚤림 위험 높음.
+
+(incomplete)
 
 ## 1. Document Information
 

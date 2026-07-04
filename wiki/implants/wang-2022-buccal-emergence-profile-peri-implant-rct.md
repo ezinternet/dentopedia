@@ -19,13 +19,21 @@ relations:
     target: siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=21, single mandibular molars, supracrestal mucosa ≥2 mm): a buccal emergence profile designed from the mucosal width/height (W/H) ratio cut 12-month gingival recession to 0.13 ± 0.32 mm vs 0.63 ± 0.38 mm for the healing-abutment-derived profile (p=0.006), with a lower initial emergence angle (31.4° vs 40.0°, p=0.025).
+Parallel-group RCT (n=21, single mandibular molar implants, supracrestal mucosal thickness ≥2 mm) comparing a buccal emergence profile designed from the mucosal width/height (W/H) ratio vs the original healing-abutment profile at 12 months.
 
-## 한줄요약
+The W/H-ratio group showed significantly less gingival recession (0.13 ± 0.32 mm vs 0.63 ± 0.38 mm, p=0.006) and a lower initial emergence angle (31.4° vs 40.0°, p=0.025).
 
-무작위대조시험 (RCT, n=21, 하악 단일 대구치, 치조정상부 점막 ≥2 mm): 협측 점막 폭/높이비 (Width/Height ratio, W/H) 기반 출현윤곽 (Emergence Profile) 군은 12개월 치은 퇴축이 0.13 ± 0.32 mm로 치유 지대주 윤곽 유지군 0.63 ± 0.38 mm보다 유의하게 적었고 (p=0.006), 초기 출현 각도 (Emergence Angle)도 더 낮았다 (31.4° 대 40.0°, p=0.025).
+When supracrestal soft tissue is ≥2 mm at a molar site, designing the definitive buccal emergence profile from the W/H ratio — targeting ~32° rather than 40° — significantly reduces 12-month mucosal recession; abstract-only ingest limits full detail.
+
+## 세줄요약
+
+무작위대조시험(RCT, n=21, 하악 단일 대구치 임플란트, 치조정상부 점막 두께 ≥2 mm): 협측 점막 폭/높이비(W/H) 기반 출현윤곽(Emergence Profile) 군 대 치유 지대주 윤곽 유지군을 12개월 비교.
+
+W/H비 군은 치은 퇴축이 유의하게 적었고(0.13 ± 0.32 mm vs 0.63 ± 0.38 mm, p=0.006), 초기 출현 각도도 낮았다(31.4° vs 40.0°, p=0.025).
+
+치조정상부 연조직 두께 ≥2 mm인 대구치 부위에서 W/H비 기반 출현윤곽(~32° 목표)을 설계하면 12개월 치은 퇴축을 유의하게 줄일 수 있다; 초록만 수집한 페이지로 전체 세부 데이터 제한.
 
 ## Summary
 

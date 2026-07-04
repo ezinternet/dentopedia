@@ -9,7 +9,7 @@ pdf_filename: premnath-2012-stress-distribution-bone-density-fea.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 3D FEA (8 models, mandibular first molar): cylindrical implants distribute stress more favourably than threaded implants in D1–D4 bone; maximum Von Mises stress always at crestal/neck region regardless of design.
 
 ## 1. Document Information

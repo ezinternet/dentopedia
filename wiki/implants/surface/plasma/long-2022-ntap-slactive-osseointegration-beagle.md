@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, NTAP, SLActive, beagle, osseointegration, hydrophilic, comparison]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro + in vivo beagle study: non-thermal atmospheric plasma (NTAP)-functionalized titanium achieved a hydrophilic surface and early osseointegration comparable to commercial Straumann SLActive — positioning chairside NTAP as a cost-effective alternative free of SLActive's time-dependent biological aging.
+In vitro + in vivo beagle study comparing chairside non-thermal atmospheric plasma (NTAP)-functionalized titanium against commercial Straumann SLActive hydrophilic implant surface.
 
-## 한줄요약
+NTAP achieved hydrophilicity and early osseointegration (BIC) statistically comparable to SLActive across all timepoints tested, while eliminating SLActive's time-dependent biological aging limitation.
 
-비글견 in vitro+in vivo: NTAP 처리 티타늄이 친수성·초기 골유착에서 상용 Straumann SLActive에 필적 — 생물학적 노화가 없고 비용효율적인 chairside 대안 가능성.
+Chairside NTAP is a cost-effective, aging-free alternative to SLActive for early osseointegration; however, evidence is limited to animal/in vitro data and long-term loaded human comparisons are lacking.
+
+## 세줄요약
+
+줄1: 비글견 in vitro+in vivo 비교 연구 — chairside 비열 대기압 플라즈마(NTAP) 처리 티타늄 vs 상용 Straumann SLActive 친수성 임플란트 표면.
+
+줄2: NTAP가 모든 평가 시점에서 친수성·초기 골유착(BIC)에서 SLActive와 통계적으로 동등, SLActive의 시간 의존성 생물학적 노화 문제는 없음.
+
+줄3: Chairside NTAP는 비용효율·노화 없는 SLActive 대안으로 유망하나 근거는 동물·in vitro에 국한, 장기 부하 후 인체 비교 데이터 필요.
 
 ## Summary
 

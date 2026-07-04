@@ -18,13 +18,21 @@ relations:
     target: chen-2022-interpretation-hba1c-analytical-methodology-hematology
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case-control study (n=86: 45 healthy + 41 T2DM) of 8 salivary markers (OPG, RANKL, HGF, TNF-α, IL-18, MMP-9, TOS, TAC) and HbA1c at baseline and 3 months post-extraction; T2DM showed higher inflammatory/oxidative/bone-turnover markers, baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG were strong ROC predictors of HbA1c >6.5% (RANKL AUC 0.999), and post-extraction TOS correlated positively (r=+0.777) and TAC negatively (r=−0.475) with HbA1c.
+Case-control study (n=86: 45 healthy controls + 41 T2DM patients, Romania) measuring 8 salivary markers (OPG, RANKL, HGF, TNF-α, IL-18, MMP-9, TOS, TAC) and HbA1c at baseline and 3 months post-extraction.
 
-## 한줄요약
+T2DM patients showed significantly higher inflammatory, oxidative, and bone-turnover markers; baseline RANKL (AUC 0.999), TNF-α (0.907), IL-18 (0.901), MMP-9 (0.899), TOS (0.876), and OPG (0.833) were strong ROC predictors of HbA1c >6.5%; post-extraction TOS correlated positively (r=+0.777) and TAC negatively (r=−0.475) with HbA1c.
 
-건강군 45명·2형 당뇨군 41명에서 타액 8종 마커와 HbA1c를 발치 전·발치 3개월 후 측정한 case-control 연구로, 당뇨군은 염증·산화·골대사 마커가 더 높았고 baseline RANKL·TNF-α·IL-18·MMP-9·TOS·OPG가 HbA1c>6.5%의 우수한 예측인자(RANKL AUC 0.999)였으며, 발치 후 TOS는 HbA1c와 양의 상관(r=+0.777)·TAC는 음의 상관(r=−0.475)을 보여 비침습 타액 검사가 당뇨 환자 발치 후 치유·혈당 상태의 지표가 될 수 있음을 시사.
+Non-invasive salivary biomarker panels may serve as surrogate markers for glycemic control and post-extraction healing status in T2DM; notably HbA1c fell significantly after extraction (7.98%→7.62%), though causality is not established.
+
+## 세줄요약
+
+건강군 45명·2형 당뇨군 41명에서 타액 8종 마커(OPG·RANKL·HGF·TNF-α·IL-18·MMP-9·TOS·TAC)와 HbA1c를 발치 전·발치 3개월 후 측정한 case-control 연구(루마니아).
+
+당뇨군은 염증·산화·골대사 마커가 더 높았고; baseline RANKL(AUC 0.999)·TNF-α(0.907)·IL-18(0.901)·MMP-9(0.899)·TOS(0.876)·OPG(0.833)가 HbA1c>6.5%의 우수한 ROC 예측인자; 발치 후 TOS는 HbA1c와 양의 상관(r=+0.777)·TAC는 음의 상관(r=−0.475).
+
+타액 산화·염증 마커가 당뇨 환자의 혈당 조절 및 발치 후 치유 상태의 비침습 대리지표가 될 수 있으나; 발치 후 HbA1c 감소(7.98%→7.62%)는 연관성이며 인과관계는 미확립.
 
 ## Summary
 

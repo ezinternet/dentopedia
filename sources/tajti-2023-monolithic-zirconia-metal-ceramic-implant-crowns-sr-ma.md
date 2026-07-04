@@ -9,7 +9,7 @@ pdf_filename: tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma.
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 구치부 임플란트 지지 단관: 단일층 지르코니아(MZ) vs 금속도재(MC) 비교 RCT들의 SR+MA.
 
 ## 1. Document Information

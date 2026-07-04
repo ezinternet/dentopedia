@@ -17,13 +17,23 @@ text_filename: ronsivalle-2023-elastodontic-appliances-malocclusion-interception
 
 Anchor synthesis page for the EF-Line/elastodontic myofunctional-orthodontics batch: this is a systematic-search review (4 databases, PICO, Cohen kappa) that maps *which* malocclusions are amenable to elastodontic appliances (EAs) across six clinical domains. Reinforces and predates the sibling [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] (a scoping review narrowed to sagittal discrepancies) — Ronsivalle 2023 supplies the broader indication map (sagittal + transversal + atypical swallowing + bad habits + two-phase + retention) into which the sagittal-focused scoping evidence fits.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic-search hybrid review (4 databases, 2403→13 included studies, mostly case reports/series + retrospective; 1 prospective) concluding elastodontic appliances can intercept mild-to-moderate dentoskeletal malocclusion in mixed dentition (mild class III, class II with high overjet/overbite, functional posterior crossbite, anterior crowding, atypical swallowing) but with weak evidence — caution before substituting conventional functional appliances.
 
-## 한줄요약
+Systematic-search hybrid review (4 databases, 2403→13 included studies, mostly case reports/series + retrospective;
+
+1 prospective) concluding elastodontic appliances can intercept mild-to-moderate dentoskeletal malocclusion in mixed dentition (mild class III, class II with high overjet/overbite, functional posterior crossbite, anterior crowding, atypical swallowing) but with weak evidence — caution before substituting conventional functional appliances.
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 검색 기반 하이브리드 리뷰(4개 DB, 2403건→최종 13편, 대부분 증례보고/증례군·후향연구, 전향 1편)로 탄성교정장치(Elastodontic Appliance, EA)가 혼합치열기의 경도~중등도 치성-골격성 부정교합(경도 3급, 과도한 overjet/overbite의 2급, 기능성 구치부 반대교합, 전치부 총생, 비정형 연하)을 차단치료할 수 있으나 근거 수준이 낮아 기존 기능성 장치 대체에는 신중해야 한다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

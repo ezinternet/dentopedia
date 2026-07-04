@@ -17,13 +17,23 @@ text_filename: min-2024-essential-oil-mouthrinses-plaque-microbiome.txt
 
 에센셜 오일 가글 (Essential Oil Mouthwash, EOMW)이 구강 미생물군집 (Oral Microbiome)의 구성에 미치는 영향을 정량적으로 분석한 RCT로, 기존 16S 상대 빈도 연구보다 훨씬 정밀한 "spike-in 절대 정량" 방법론을 처음 적용한 연구다. 이상증식 (Dysbiosis) → 건강한 구성으로의 전환 메커니즘 증거를 제시하여 [[oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]]가 정립한 구강 미생물 생태학 역학 모델을 직접 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Parallel-group RCT (n=153 gingivitis subjects, 6 weeks); alcohol-containing EO mouthrinses (LCM and ACPM) produced ≥37% gingivitis reduction and shifted dysbiotic plaque microbiome toward healthy composition using a novel spike-in quantitative metagenomics method.
 
-## 한줄요약
+Parallel-group RCT (n=153 gingivitis subjects, 6 weeks);
 
-병렬군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=153, 6주); 알코올 함유 에센셜 오일 가글 (Essential Oil Mouthwash, EOMW) (LCM·ACPM)이 치은염 (Gingivitis) ≥37% 감소 및 이상증식 (Dysbiosis) 치태 (Plaque) 미생물군집을 건강 상태로 전환함을 spike-in 절대 정량 메타게놈 (Metagenome) 분석으로 최초 입증.
+alcohol-containing EO mouthrinses (LCM and ACPM) produced ≥37% gingivitis reduction and shifted dysbiotic plaque microbiome toward healthy composition using a novel spike-in quantitative metagenomics method.
+
+(incomplete)
+
+## 세줄요약
+
+
+병렬군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=153, 6주);
+
+알코올 함유 에센셜 오일 가글 (Essential Oil Mouthwash, EOMW) (LCM·ACPM)이 치은염 (Gingivitis) ≥37% 감소 및 이상증식 (Dysbiosis) 치태 (Plaque) 미생물군집을 건강 상태로 전환함을 spike-in 절대 정량 메타게놈 (Metagenome) 분석으로 최초 입증.
+
+(incomplete)
 
 ## 1. Document Information
 

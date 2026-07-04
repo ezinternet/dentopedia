@@ -9,7 +9,7 @@ pdf_filename: kan-2011-sagittal-root-position-immediate-implant-anterior.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Landmark CBCT study introducing the Kan classification of sagittal root position (SRP) for maxillary anterior teeth (Class I–IV), with prevalence data and direct implications for immediate implant placement trajectory.
 
 ## 1. Document Information

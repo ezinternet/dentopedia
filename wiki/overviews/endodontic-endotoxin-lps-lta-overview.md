@@ -27,13 +27,21 @@ source_wiki:
 > - **개념 프레임(Neelakantan 2018)**: 치수·치근단 감염은 바이오필름 매개이며, 바이오필름 구조 + 다균종 상호작용이 항균저항성과 잔존 독성인자 지속의 근본 원인 — 표적 소독이 치료 목표.
 > - **임상 결론**: 내독소·LTA는 측정 가능한 증상·병소 상관 마커이자 치료 표적. 현 표준(화학기계적 청소 + 활성화 + Ca(OH)₂)은 부하를 낮추는 것이지 멸절시키는 것이 아니므로, 증상치에서는 다회 내원·치관 봉쇄 강화가 합리적이며, 완전 제거를 향한 차세대(활성화 시스템·생물학적 첩약) 전략이 필요하다.
 
-## One-line Summary
+## Three-line Summary
 
-Six papers converge on one thesis: Gram-negative endotoxin (LPS) and Gram-positive lipoteichoic acid (LTA) are biologically active bacterial cell-wall components that correlate with endodontic symptoms and lesion size (Godoi 2025; Ahmad 2022), and current chemomechanical preparation with irrigant activation (PUI/XP-endo/GentleWave; Alquria 2023) plus calcium hydroxide medication (Bedran 2020 SR+MA; Ahmad 2022 overview) significantly REDUCE but never fully ELIMINATE them — the persistent-endotoxin problem — while an emerging biologic medicament repurposes probiotic-derived LTA as therapy (Yoon 2024), all framed within biofilm-mediated infection (Neelakantan 2018).
+Synthesis of 6 papers on endodontic endotoxins: Gram-negative LPS (Lipopolysaccharide) and Gram-positive LTA (Lipoteichoic Acid) are biologically active cell-wall virulence factors present in 100% of retreatment canals with apical periodontitis (Godoi 2025, n=40; mean LPS 5.1 EU/mL, mean LTA 537.5 pg/mL); higher LPS correlates with larger periapical radiolucency and presence of signs/symptoms; defective coronal restoration increases endotoxin load — providing molecular-level justification for the coronal seal principle (Ahmad 2022 umbrella confirms symptom correlation independently).
 
-## 한줄요약
+Current standard treatment — chemomechanical preparation + irrigant activation (PUI, XP-endo Finisher, GentleWave all equivalent, GentleWave+MIT best; Alquria 2023, n=70 teeth) + calcium hydroxide medication (SMD −0.92 to −1.09 vs baseline; adding antimicrobial raises reduction incidence 61.7% → 98.9%; Bedran 2020 SR+MA) — significantly REDUCES but NEVER fully ELIMINATES LPS/LTA in 100% of specimens; this "persistent-endotoxin problem" explains why symptomatic apical periodontitis benefits from multi-session over single-session treatment (Ahmad 2022 umbrella, 5 SRs).
 
-6편 종합: 근관 내독소(LPS)와 LTA는 증상·병소크기와 상관하는 생물학적 활성 세포벽 인자이며(Godoi 2025·Ahmad 2022), 화학기계적 청소+활성화 세정(Alquria 2023)과 수산화칼슘 첩약(Bedran 2020 SR+MA·Ahmad 2022)이 이를 유의하게 감소시키나 완전 제거는 못 하고(잔존 내독소 문제), 신규로 프로바이오틱 유래 LTA를 치료제로 전환하는 시도(Yoon 2024)가 있으며, 전체가 바이오필름 매개 감염(Neelakantan 2018) 틀 안에 놓인다.
+An emerging biologic strategy inverts the frame: probiotic-derived Lgg.LTA (Lacticaseibacillus rhamnosus GG, 50 μg/ml) inhibits 2-week E. faecalis intracanal biofilm equivalently to calcium hydroxide in a dentinal cylinder model (Yoon 2024, in vitro) — repurposing a pathogenic molecule as a therapeutic candidate; all evidence is framed within biofilm-mediated polymicrobial infection where biofilm structure and microbial interactions drive antimicrobial resistance and endotoxin persistence (Neelakantan 2018).
+
+## 세줄요약
+
+6편 통합: 그람음성 내독소 지질다당류(Lipopolysaccharide, LPS)와 그람양성 지질테이코산(Lipoteichoic Acid, LTA)은 재치료 근관의 100%에서 검출되는 세포벽 독성인자(Godoi 2025 n=40; LPS 평균 5.1 EU/mL, LTA 평균 537.5 pg/mL); 높은 LPS는 병소 크기·증상 동반과 상관; 결손 치관수복물은 독성인자 부하 증가 → 치관 봉쇄(Coronal Seal) 원칙의 분자 수준 근거(Ahmad 2022 우산형 리뷰 독립 확인).
+
+현 표준 치료 — 화학기계적 형성+활성화 세정(초음파활성화세정(Passive Ultrasonic Irrigation, PUI)·XP-endo Finisher·GentleWave 동등, GentleWave+최소침습기법(Minimally Invasive Technique, MIT) 최강; Alquria 2023 n=70치) + 수산화칼슘(Calcium Hydroxide, CH) 첩약(표준화 평균 차이(Standardized Mean Difference, SMD) −0.92~−1.09; 항균제 병용 시 감소 발생률 61.7%→98.9%; Bedran 2020 SR+MA) — LPS/LTA를 유의하게 감소시키나 100% 표본에서 완전 제거 불가(잔존 내독소 문제); 이것이 증상성 치근단치주염에서 다회 내원(multi-session)이 단회 내원(single-session)을 능가하는 이유(Ahmad 2022 5개 SR 우산형).
+
+신흥 생물학적 전략: 프로바이오틱 유래 Lgg.LTA(Lacticaseibacillus rhamnosus GG, 50 μg/ml)가 상아질 실린더 모델에서 2주 E. faecalis 바이오필름을 CH와 동등하게 억제(Yoon 2024, in vitro) — 병원성 분자를 치료 후보로 전환; 전체 근거는 바이오필름 매개 다균종 감염(Neelakantan 2018) 틀 안에서 이해됨: 바이오필름 구조·균종 상호작용이 항균 저항성과 잔존 독성인자 지속의 근본 원인.
 
 ## Summary
 

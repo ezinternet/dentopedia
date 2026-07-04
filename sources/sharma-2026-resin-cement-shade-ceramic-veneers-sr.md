@@ -17,13 +17,23 @@ text_filename: sharma-2026-resin-cement-shade-ceramic-veneers-sr.txt
 
 [[wiki/veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]] establishes the ultrathin feldspathic veneer as a minimally invasive workflow — but the thinner and more translucent the veneer, the more the underlying resin cement shade leaks through and dominates the final color. This SR (Sharma 2026) is the ultrathin-veneer sibling on the *cementation* axis: it quantifies that the cement is an active optical component (not a passive luting medium), with the effect most pronounced exactly in the thin/high-translucency veneers that the ultrathin SEM/etching page promotes. It also refines the survival/complication framing of [[wiki/veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]] by isolating shade/color stability as a distinct esthetic-outcome driver.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro systematic review (10 studies, 2011–2021; no meta-analysis) showing resin cement shade and translucency materially shift the final color of ceramic laminate veneers — white-opaque/high-chroma cements drive the largest ΔE (often above the 3.3 acceptability threshold), worsened by thin (0.3–0.5 mm) and high-translucency veneers, while try-in pastes poorly predict the cured cement.
 
-## 한줄요약
+In-vitro systematic review (10 studies, 2011–2021;
 
-In-vitro 계통고찰 (10편, 2011–2021; 메타분석 없음) — 레진 시멘트의 색조·투명도가 세라믹 라미네이트 비니어의 최종 색을 유의하게 바꾼다. 백색-불투명·고채도 시멘트가 ΔE를 가장 크게 (흔히 임상 허용역 3.3 초과) 올리고, 얇은(0.3–0.5 mm)·고투명도 비니어에서 효과가 증폭되며, try-in 페이스트는 경화된 시멘트 색을 잘 예측하지 못한다.
+no meta-analysis) showing resin cement shade and translucency materially shift the final color of ceramic laminate veneers — white-opaque/high-chroma cements drive the largest ΔE (often above the 3.3 acceptability threshold), worsened by thin (0.3–0.5 mm) and high-translucency veneers, while try-in pastes poorly predict the cured cement.
+
+(incomplete)
+
+## 세줄요약
+
+
+In-vitro 계통고찰 (10편, 2011–2021;
+
+메타분석 없음) — 레진 시멘트의 색조·투명도가 세라믹 라미네이트 비니어의 최종 색을 유의하게 바꾼다.
+
+백색-불투명·고채도 시멘트가 ΔE를 가장 크게 (흔히 임상 허용역 3.3 초과) 올리고, 얇은(0.3–0.5 mm)·고투명도 비니어에서 효과가 증폭되며, try-in 페이스트는 경화된 시멘트 색을 잘 예측하지 못한다.
 
 ## 1. Document Information
 

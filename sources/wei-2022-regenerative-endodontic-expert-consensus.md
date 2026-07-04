@@ -9,7 +9,7 @@ pdf_filename: wei-2022-regenerative-endodontic-expert-consensus.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 중국 근관치료 전문가 패널의 재생 근관치료(REP) 임상 프로토콜 합의 권고문.
 
 ## 1. Document Information

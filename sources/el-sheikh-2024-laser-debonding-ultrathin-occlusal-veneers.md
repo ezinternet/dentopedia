@@ -13,13 +13,23 @@ source_collection: external
 
 교합면 비니어(Occlusal Veneer)의 재사용 가능성을 연구한 논문으로, 기존 wiki의 [[wiki/veneers/schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion]]이 초박형 교합면 비니어의 임상 결과를 다루지만 레이저 탈접(Debonding) 프로토콜이나 재료별 취약성은 다루지 않음. 본 연구는 Er;Cr:YSGG 레이저를 이용한 리튬 디실리케이트·초고밀도 리튬 디실리케이트·지르코니아 비니어의 탈접 시간 및 손상 패턴을 in vitro로 비교하여, 재료 선택 시 레이저 debonding 내성이라는 새로운 임상 기준을 제공함.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=24 extracted molars, 3 ceramic groups) comparing Er;Cr:YSGG laser debonding of 0.5 mm ultrathin CAD/CAM occlusal veneers: debonding time was equivalent across lithium disilicate, highly condensed lithium disilicate (LiSi), and translucent zirconia (~87 s, p=0.995), but 60% of LiSi samples were damaged (fractured or cracked) vs. 0% damage in Emax or zirconia.
 
-## 한줄요약
+In vitro study (n=24 extracted molars, 3 ceramic groups) comparing Er;Cr:YSGG laser debonding of 0.5 mm ultrathin CAD/CAM occlusal veneers: debonding time was equivalent across lithium disilicate, highly condensed lithium disilicate (LiSi), and translucent zirconia (~87 s, p=0.995), but 60% of LiSi samples were damaged (fractured or cracked) vs.
+
+0% damage in Emax or zirconia.
+
+(incomplete)
+
+## 세줄요약
+
 
 초박형 교합면 비니어(Occlusal Veneer) in vitro 연구(n=24): Er;Cr:YSGG 레이저 탈접(Laser Debonding) 시간은 리튬 디실리케이트(Lithium Disilicate, LD), 초고밀도 리튬 디실리케이트(LiSi), 반투명 지르코니아(Translucent Zirconia, STML) 간 유의한 차이 없음(~87초, p=0.995), 그러나 LiSi 표본의 60%가 균열 또는 파절 손상을 보여 임상적 재사용 적합성에 의문 제기.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

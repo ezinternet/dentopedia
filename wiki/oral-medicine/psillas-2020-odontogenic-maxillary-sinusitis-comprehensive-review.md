@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Comprehensive narrative review of odontogenic maxillary sinusitis (OMS): ~30% (up to 51.8%) of unilateral maxillary sinusitis has a dental cause, most commonly dentoalveolar surgery/OAF, apical periodontitis, and implants; maxillary 2nd/1st molars are anatomically closest to the sinus floor, and treatment combines dental cause elimination with functional endoscopic sinus surgery (ESS) via a multidisciplinary ENT-dental team.
+## Three-line Summary
 
-## 한줄요약
-서술 고찰 (아리스토텔레스대, 그리스): 단측 상악동염의 약 30%가 치성 원인; 가장 흔한 원인은 발치·치성감염·OAF; 치과 수술 + 기능적 내시경 부비동 수술(ESS) 병행이 표준; ENT-치과 다학제팀 필수.
+Comprehensive narrative review (Aristotle University, Greece; PubMed/Scopus/Cochrane search, articles after 2000) covering anatomy, epidemiology, etiology, bacteriology, diagnosis, and treatment of odontogenic maxillary sinusitis (OMS).
+
+Approximately 30% of unilateral maxillary sinusitis has a dental cause (up to 51.8% in some studies); root proximity to the sinus floor decreases from 2nd molar → 1st molar → 3rd molar → 2nd premolar; OMS bacteriology is polymicrobial/anaerobic oral flora — distinct from rhinogenic sinusitis.
+
+Dental cause elimination combined with functional endoscopic sinus surgery (ESS) is superior to either alone once mucosal changes are established; antibiotics are adjunctive only; multidisciplinary ENT-dental team management is mandatory.
+
+## 세줄요약
+
+종합 서술 고찰(아리스토텔레스대, 그리스; PubMed·Scopus·코크란 검색, 2000년 이후) — 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS)의 해부학·역학·병인·세균학·진단·치료를 전면 개관.
+
+단측 상악동염의 약 30%(일부 연구 최대 51.8%)가 치성 원인; 상악동 저부와의 근접도: 제2대구치 > 제1대구치 > 제3대구치 > 제2소구치; OMS 세균은 구강 혼합 호기성-혐기성 균주로 비성 부비동염과 상이.
+
+상악 점막 변화가 일단 형성되면 치과 원인 제거 단독보다 기능적 내시경 부비동 수술(Endoscopic Sinus Surgery, ESS)을 병행하는 복합 치료가 우월; 항생제는 보조적 역할만; 이비인후과-치과 다학제팀 필수.
 
 ## Summary
 This comprehensive narrative review from Aristotle University of Thessaloniki covers the full spectrum of odontogenic maxillary sinusitis (OMS): anatomy, epidemiology, etiology, bacteriology, diagnosis, and treatment. Key epidemiological finding: approximately 30% of unilateral maxillary sinusitis cases have an underlying dental cause (Patel & Ferguson), with some reports reaching 51.8% (Maillet et al.). The most commonly involved teeth are the maxillary second and first molars, whose roots are in closest anatomical proximity to the sinus floor. The Schneiderian membrane serves as the last barrier once alveolar bone thins with age. Treatment mandates eliminating the dental cause (extraction, endodontic therapy, implant removal, OAF repair) combined with ESS for drainage restoration in established disease.

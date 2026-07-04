@@ -16,13 +16,21 @@ text_filename: alqedairi-2026-regenerative-endodontic-procedures-immature.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Cureus, 2026) of regenerative endodontic procedures (REP) in necrotic immature permanent teeth: reports 85–94% periapical healing and 74–81% continued root development, but pulp sensibility recovery is only 25–70% and unreliable, and PRP/PRF scaffolds outperform blood clot for dentinal wall thickening — current REP outcomes are better described as biologically supported repair than true pulp regeneration.
+Narrative review (Cureus, 2026) of regenerative endodontic procedures (REP) covering two decades of literature on necrotic immature permanent teeth, examining cell sources, scaffolds, clinical protocols, and outcomes.
 
-## 한줄요약
+Periapical healing 85–94% and continued root development 74–81% are consistently favorable, while pulp sensibility recovery (25–70%) is unpredictable; PRP/PRF scaffolds outperform blood clot for dentinal wall thickening.
 
-내러티브 리뷰(Cureus, 2026)로 미성숙 괴사 영구치의 재생근관치료(REP)를 다룸: 치근단 치유율 85–94%, 치근 발육 지속 74–81%을 보고하나 치수 감각 회복은 25–70%로 낮고 신뢰도가 떨어지며, PRP/PRF 스캐폴드가 혈병 단독보다 상아질벽 비후에 우수함 — 현재 REP 결과는 진성 치수 재생보다는 생물학적으로 지지된 회복(repair)으로 보는 것이 더 적절함.
+Current REP outcomes represent biologically supported repair rather than true pulp regeneration, with intracanal calcification (~18–22%) an underappreciated complication that complicates future retreatment.
+
+## 세줄요약
+
+내러티브 리뷰(Cureus, 2026)로 2004–2025년 문헌을 바탕으로 미성숙 괴사 영구치의 재생근관치료(REP) 세포원·스캐폴드·임상 프로토콜·결과를 정리.
+
+치근단 치유율 85–94%, 치근 발육 74–81%는 양호하지만 치수 감각 회복(25–70%)은 예측 불가하며 PRP/PRF 스캐폴드가 혈병 단독보다 상아질벽 비후에 우수.
+
+현재 REP 결과는 진성 치수 재생이 아닌 생물학적 보조 수복(repair)에 해당하며, 치수강 내 석회화(약 18–22%)는 향후 재치료를 어렵게 하는 과소평가된 합병증이다.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [alveolar-ridge-preservation, compressive-force, bone-graft, histomorphometry, new-bone-formation, rct]
 ---
 
-## One-line Summary
-RCT (20 completers): applying greater compressive force to the graft during ARP yields equivalent dimensional preservation but significantly higher new bone formation (P<0.05); optimal compressive force remains undefined.
+## Three-line Summary
 
-## 한줄요약
-RCT(완료 20명): ARP 시 graft에 더 큰 압축력을 가하면 치조제 치수 보존은 동등하면서 신생골 형성 비율은 유의하게 증가 (P<0.05). 최적 압축력은 미정.
+RCT (24 enrolled, 20 completers) testing a rarely-studied ARP variable — the compressive force applied when packing bone graft material into the extraction socket — using CBCT, histomorphometry, and Periotest as outcomes.
+
+Greater compressive force yielded equivalent dimensional ridge preservation (p>0.05) and equivalent implant stability (Periotest), but significantly higher histomorphometric new bone formation ratio (p<0.05).
+
+The optimal compressive force level remains undefined; the clinical take-away is that graft packing technique (not just material choice) influences biological outcome, though the practical implications await a dose-finding study.
+
+## 세줄요약
+
+무작위 대조 시험 (Randomized Controlled Trial, RCT, 등록 24명, 완료 20명): 발치와 이식재 충전 시 압축력 (Compressive Force) 이라는 드물게 연구된 치조제 보존술 (ARP) 변수 — 콘빔 전산화 단층촬영 (CBCT)·조직형태계측·페리오테스트 평가.
+
+더 큰 압축력 적용 시 치조제 치수 보존은 동등(p>0.05), 임플란트 안정성 (Periotest Value, PTV) 동등, 신생골 형성 비율 유의하게 증가 (p<0.05).
+
+최적 압축력 미확정 — 이식 기법 (압축 방법)이 재료 선택과 무관하게 생물학적 결과에 영향을 미침을 시사, 용량-반응 연구 필요.
 
 ## Summary
 Isolates a rarely-studied ARP variable — the compressive force applied when packing graft. Greater force boosted histomorphometric new-bone formation without compromising (or improving) dimensional preservation.

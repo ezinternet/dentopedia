@@ -13,11 +13,19 @@ source_collection: external
 tags: [gic, rmgic, secondary-caries, amalgam, composite, restorative-material]
 ---
 
-## One-line Summary
-GIC restorations caused significantly less secondary caries than amalgam (permanent teeth RR=0.20, primary teeth RR=0.55) and were equivalent to resin composite for caries prevention (meta-analysis of 64 RCTs, 2023).
+## Three-line Summary
+SR+MA of 64 RCTs (8,310 GIC vs 5,857 amalgam/composite restorations, 1–10 yr follow-up) comparing secondary caries incidence across restorative materials in primary and permanent dentition.
 
-## 한줄요약
-GIC 수복은 아말감 대비 이차 우식을 유의하게 적게 발생시키고(영구치 RR=0.20, 유치 RR=0.55), 레진 컴포지트와는 동등한 예방 효과를 보였다 (64 RCT 메타분석, 2023).
+GIC caused significantly less secondary caries than amalgam (permanent teeth RR=0.20, primary teeth RR=0.55); GIC was statistically equivalent to resin composite in both dentitions (NS).
+
+GIC is a defensible choice for secondary caries prevention, especially in high-caries-risk patients; conventional GIC and RMGIC perform similarly for this outcome.
+
+## 세줄요약
+64 RCT SR+MA (GIC 수복 8,310개 vs 아말감·컴포지트 5,857개, 1–10년 추적): 유치·영구치 이차 우식 발생률 비교.
+
+GIC < 아말감(영구치 RR=0.20, 유치 RR=0.55); GIC ≈ 레진 컴포지트(두 치아형 모두 NS); 기존 GIC vs RMGIC 차이 없음.
+
+고우식 위험 환자·소아·노년 치료에서 GIC 사용을 지지하며, 아말감의 우식예방 우위 믿음은 근거가 없다.
 
 ## Summary
 SR/MA of 64 RCTs (8,310 GIC restorations vs 5,857 amalgam/composite, 1–10y follow-up) compared secondary caries incidence. GIC outperformed amalgam in both primary (RR=0.55, CI 0.41–0.72) and permanent dentition (RR=0.20, CI 0.11–0.38). GIC was equivalent to resin-composite in both dentitions (NS). Conventional GIC and RMGIC showed similar secondary caries prevention. Authors emphasize WHO's 2021 listing of GIC as essential medicine and growing clinical relevance.

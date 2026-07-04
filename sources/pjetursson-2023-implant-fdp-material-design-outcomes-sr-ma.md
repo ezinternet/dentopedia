@@ -20,11 +20,21 @@ relations:
 
 Pjetursson 그룹의 2023 Clin Oral Implants Res supplement SR+MA로, 임플란트 지지 다단위 FDP(FPD+pontic, splinted crown)에서 재료(PFM·베니어 Zr·monolithic Zr·LDS)와 디자인(pontic vs splinted) 영향을 비교. [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]]는 단관 임플란트 보철을 다뤘고, 이 논문은 다단위 FDP로 scope을 확장한다. 베니어 vs monolithic 칩핑 차이를 3년 데이터로 정량화해 [[overviews/zirconia-types-clinical-selection]]의 "monolithic → 칩핑 회피" 명제를 임플란트 다단위 FDP에서 확인한다.
 
-## One-line Summary
-SR+MA (32 studies, 3-year): implant-supported posterior FDPs show equivalent survival across PFM (98.3%), veneered Zr (97.5%), monolithic Zr (98.9%), and LDS (97.0%); veneered restorations have significantly more ceramic chipping/fracture.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (32개 연구, 3년): 후방부 임플란트 다단위 FDP에서 PFM·베니어·모놀리식 지르코니아·LDS 생존율 동등; 베니어 보철의 칩핑·파절 유의미하게 높음.
+SR+MA (32 studies, 3-year): implant-supported posterior FDPs show equivalent survival across PFM (98.3%), veneered Zr (97.5%), monolithic Zr (98.9%), and LDS (97.0%);
+
+veneered restorations have significantly more ceramic chipping/fracture.
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA (32개 연구, 3년): 후방부 임플란트 다단위 FDP에서 PFM·베니어·모놀리식 지르코니아·LDS 생존율 동등;
+
+베니어 보철의 칩핑·파절 유의미하게 높음.
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Systematic review evaluating the influence of the prosthetic material and prosthetic design on the clinical outcomes of implant-supported multi-unit fixed dental prosthesis in the posterior area

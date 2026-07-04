@@ -9,8 +9,21 @@ pdf_filename: damico-2025-third-molar-surgical-indications-guidelines.pdf
 source_collection: external
 ---
 
-## One-line Summary
-제3대구치(Third Molar, 사랑니) 발치 임상·수술 적응증 및 가이드라인 개요 (Eng Proc 2025): NICE/AAOMS 가이드라인 검토; 적응증은 증상, 매복 유형, 인접치 손상 위험 기반.
+## Three-line Summary
+
+Narrative review / guideline synthesis (Engineering Proceedings 2025) summarizing NICE and AAOMS clinical and surgical indications for third molar (wisdom tooth) removal, covering impaction classification (Pell & Gregory), angulation, and risk–benefit analysis.
+
+Absolute indications include recurrent pericoronitis, abscess/cellulitis, cyst formation, root resorption of adjacent tooth, and orthodontic necessity; relative indication is prophylactic removal in young patients before root completion.
+
+Coronectomy (intentional root retention) is recommended when radiographic signs indicate high inferior alveolar nerve contact risk, limiting the value of routine removal in high-risk cases.
+
+## 세줄요약
+
+NICE·AAOMS 가이드라인을 검토한 서술적 리뷰(Engineering Proceedings 2025) — 제3대구치(Third Molar, 사랑니) 발치의 임상·수술적 적응증을 매복 유형(Pell & Gregory 분류), 경사도, 위험-이득 분석을 기반으로 요약.
+
+절대적 적응증: 반복성 치관주위염·농양/봉와직염·낭종·인접치 치근흡수·교정 필요; 상대적 적응증: 젊은 환자에서 치근 형성 전 예방적 발치.
+
+하치조신경(Inferior Alveolar Nerve, IAN) 근접 영상 소견 시 의도적 치근잔존술(Coronectomy)을 권고하여, 고위험 증례에서 전통적 완전 발치를 대체 가능.
 
 ## 1. Document Information
 - **Journal**: Engineering Proceedings 2025, 87, 77

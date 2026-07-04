@@ -22,13 +22,21 @@ relations:
     target: defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (180 enrolled / 164 randomized / 150 analyzed; ages 18–70; DH in ≥2 non-adjacent teeth): five home-use desensitizing agents (CPP-ACP, Arginine, NovaMin, Propolis, Potassium nitrate) vs standard fluoride control over 8 weeks measured by DHEQ-15, Schiff (SSS), and VAS — all test agents significantly improved at weeks 4 & 8, control only on SSS+VAS by week 8; CPP-ACP gave the greatest reduction (DHEQ-15 56.68±17.87, VAS 6.52±1.48, SSS 2.32±0.56).
+Six-arm parallel RCT (n=150 analyzed; ages 18–70; DH in ≥2 non-adjacent teeth) comparing five home-use desensitizing agents (CPP-ACP, Arginine 8%, NovaMin, Propolis, Potassium nitrate 3%) vs standard fluoride toothpaste control over 8 weeks using DHEQ-15, Schiff (SSS), and VAS.
 
-## 한줄요약
+All five test agents improved significantly at weeks 4 and 8 across all three instruments (p<0.005); the standard fluoride control improved only on SSS and VAS by week 8, with no significant DHEQ-15 quality-of-life change.
 
-무작위 대조 임상시험(180명 등록 / 164명 무작위배정 / 150명 분석, 18–70세, 비인접 2치 이상 상아질 과민증): 5종 가정용 탈감작제(CPP-ACP, 아르기닌, 노바민, 프로폴리스, 포타슘 질산염)를 표준 불소치약 대조군과 8주간 DHEQ-15·Schiff(SSS)·VAS로 비교 — 모든 시험군은 4·8주 유의 개선, 대조군은 8주째 SSS+VAS만 개선; CPP-ACP가 가장 큰 감소(DHEQ-15 56.68±17.87, VAS 6.52±1.48, SSS 2.32±0.56).
+CPP-ACP (GC Tooth Mousse, brushing + nightly finger inunction) ranked most effective by week 8 (DHEQ-15 change 56.68±17.87, VAS 6.52±1.48, SSS 2.32±0.56), suggesting specialized home-use agents provide meaningful QoL benefit beyond standard fluoride alone.
+
+## 세줄요약
+
+상아질 과민증(Dentin Hypersensitivity, DH)이 있는 성인(n=150, 18–70세, 비인접 2치 이상)에서 5종 가정용 탈감작제(CPP-ACP, 아르기닌, 노바민, 프로폴리스, 포타슘 질산염)와 표준 불소치약 대조군을 8주간 DHEQ-15·SSS·VAS로 비교한 6군 무작위 대조 임상시험(RCT).
+
+5종 시험군 모두 4주·8주에 세 지표 모두 유의하게 개선(p<0.005); 대조군(표준 불소)은 8주째 SSS·VAS만 개선되었고 삶의 질(DHEQ-15)은 유의한 변화 없음.
+
+CPP-ACP(칼슘 카제인 포스포펩타이드-비결정 인산칼슘, Calcium Casein Phosphopeptide-Amorphous Calcium Phosphate)가 8주 기준 최대 감소(DHEQ-15 56.68, VAS 6.52, SSS 2.32)로 가장 효과적이며, 가정용 탈감작제는 단순 불소치약 이상의 삶의 질 이득을 제공한다.
 
 ## Summary
 

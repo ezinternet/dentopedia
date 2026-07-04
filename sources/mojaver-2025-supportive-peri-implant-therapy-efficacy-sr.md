@@ -13,13 +13,23 @@ source_collection: external
 
 사용자 요청 — 임플란트 유지관리(supportive peri-implant therapy, SPiT) 프로토콜 논문 감시·인제스트. 기존 위키는 주위염 *치료*(decontamination, GBR, PDT, minocycline) 페이지는 풍부하나 유지관리 *프로토콜*(recall 주기·자가관리) 자체를 다룬 1차 근거가 부족했음. 본 SR(25편, RCT 9편)은 SPiT 효과의 최신 종합으로, [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]]의 1차 예방 원칙을 정량적 근거로 보강하고 [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]]의 mucositis 보조요법 논의를 SPiT recall 맥락으로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (25 studies: 9 RCTs, 13 cohorts, 3 case-control; narrative synthesis) finding that individualized, risk-based supportive peri-implant therapy (SPiT) recall intervals consistently improve probing depth and bleeding on probing versus fixed-interval or no maintenance — though high heterogeneity precluded meta-analysis.
 
-## 한줄요약
+Systematic review (25 studies: 9 RCTs, 13 cohorts, 3 case-control;
+
+narrative synthesis) finding that individualized, risk-based supportive peri-implant therapy (SPiT) recall intervals consistently improve probing depth and bleeding on probing versus fixed-interval or no maintenance — though high heterogeneity precluded meta-analysis.
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰(25편: RCT 9·코호트 13·환자대조 3, 정성 종합) — 환자별 위험도 기반(risk-based) 개별화 SPiT recall 주기가 고정 주기나 무관리 대비 탐침깊이·탐침시출혈을 일관되게 개선했으나, 높은 이질성으로 메타분석은 불가.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

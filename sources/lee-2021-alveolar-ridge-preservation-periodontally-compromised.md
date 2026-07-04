@@ -13,13 +13,23 @@ source_collection: external
 
 Most alveolar ridge preservation (ARP) evidence comes from intact, non-infected sockets, so the question of whether ARP helps in *periodontally compromised* (infected) sockets — exactly the teeth most often extracted in practice — is undersettled. This large retrospective cohort (418 sites) directly addresses ARP feasibility/benefit in infected sockets, qualifying the patient-selection nuance in [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] (ARP is not always over-treatment when the socket is compromised) and complementing failure-predictor work in [[bone-regeneration/ridge-preservation/kang-2025-implant-failure-predictors-ridge-preservation]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective cohort (418 periodontally compromised extraction sites, 287 patients): ARP significantly reduced implant-placement infeasibility (0.8% vs 4.7% no-ARP) and reduced the need/severity of bone augmentation at implant placement.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향연구 (치주적으로 손상된 발치와 418부위, 287명): ARP를 시행하면 임플란트 식립 불가율이 0.8%로 무ARP군(4.7%)보다 유의하게 낮아지고, 식립 시 골이식 필요성·범위도 줄어들었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

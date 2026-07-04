@@ -26,13 +26,21 @@ tags: [dental-trauma, avulsion, replantation, luxation, splinting, mouthguard, p
 > - **임상 사슬 요약**: 맞춤 마우스가드(예방) → 우유/HBSS/프로폴리스/ORS 보관·식염수·수돗물 금지(응급) → 유연·단기 고정(안정화) → 근첨 성숙도로 치수 모니터링·미성숙치는 REP(치수 예후).
 > - **인접 주제 연결**: 미성숙치 REP 술식 세부는 [[regenerative-endodontics-rep-overview]], 외상 후 활력치수 보존 결정은 [[vital-pulp-therapy-decision-ladder]], 고정의 교합·치주 측면은 [[occlusal-trauma-periodontitis-overview]].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 SR/MA/umbrella reviews across the dental-trauma timeline: custom mouthguards reduce avulsions/fractures (prevention); avulsed-tooth PDL-cell viability is best preserved by HBSS/propolis/ORS and milk, never saline or tap water (emergency); flexible short-term splinting is tentatively favored (stabilization); and pulpal prognosis is governed by apex maturity (lateral-luxation necrosis 58% mature vs 12% immature) with trauma-origin necrosis tripling REP root-development failure (RR 3.59) — apex maturity and PDL-cell survival recur as the decision drivers across the whole chain, all at GRADE very-low certainty.
+Synthesis of 5 SR/MA/umbrella reviews spanning the dental-trauma management chain: custom-made mouthguards significantly reduce dentofacial injuries and outperform stock/boil-and-bite (Agarwal 2025 umbrella, 9 SRs); avulsed tooth PDL-cell viability is best preserved by HBSS, propolis, or ORS (at least as good as milk), while saline and tap water are actively worse than milk and should never be used (De Brier 2020 SR+MA, 33 papers).
 
-## 한줄요약
+Flexible short-term splinting tentatively favors better outcomes for replanted avulsed permanent teeth vs rigid long-term splinting, supporting IADT guidance, though most comparisons are non-significant at GRADE very-low (Kumari 2025 SR, 7 papers / 975 teeth); pulpal prognosis after lateral luxation shows necrosis in 57% overall — 58% in mature teeth vs only 12% in immature teeth (Tewari 2024 SR+MA, 13 papers), arguing against reflexive endodontic treatment in all luxated teeth.
 
-외상치 전 과정 SR/MA 5편 종합: 맞춤 마우스가드가 탈구·파절을 줄이고(예방), 탈구치 PDL 세포 생존은 HBSS·프로폴리스·ORS·우유가 보존하며 식염수·수돗물은 금물(응급), 유연·단기 고정이 잠정 우세(안정화)하고, 치수 예후는 근첨 성숙도가 좌우(측방탈구 괴사 성숙치 58% vs 미성숙 12%)하며 외상성 괴사는 REP 치근발육 실패를 3.6배 높인다 — 근첨 성숙도와 PDL 생존이 전 사슬의 결정인자이고 근거는 모두 GRADE very-low다.
+Clinical bottom line: two variables recur as decision drivers across the entire chain — apex maturity (governs necrosis risk and REP candidacy/outcome) and PDL-cell survival (governs replantation prognosis); trauma-origin REP carries RR 3.59 for root-development failure vs non-trauma necrosis (Vitali 2025 SR+MA, 20 papers); all five base studies are GRADE very-low — IADT guidelines outrun the available trials.
+
+## 세줄요약
+
+5편 SR/MA/umbrella 종합(외상치 관리 사슬 전체): 맞춤 마우스가드가 치아안면 손상을 유의하게 감소·기성품 대비 우월(Agarwal 2025 umbrella); 탈구치 PDL 세포 생존은 HBSS·프로폴리스·ORS가 우유 이상 보존, 식염수·수돗물은 우유보다 열등 → 금물(De Brier 2020 SR+MA, 33편).
+
+유연·단기 고정이 재식 탈구 영구치에서 잠정 우세(IADT 권고 지지, 대부분 비유의, GRADE very-low, Kumari 2025); 측방탈구 후 치수괴사 전체 57% — 성숙치 58% vs 미성숙치 12%(Tewari 2024 SR+MA, 13편) → 모든 탈구치의 예방적 즉시 근관치료 근거 없음.
+
+임상 결론: 전 사슬의 두 결정인자는 근첨 성숙도(괴사 위험·REP 예후)와 PDL 세포 생존(재식 예후); 외상 기원 괴사는 REP 치근발육 실패 RR 3.59(Vitali 2025 SR+MA, 20편); 5편 모두 GRADE very-low — IADT 가이드라인이 임상시험을 앞서가는 영역.
 
 ## Thesis
 

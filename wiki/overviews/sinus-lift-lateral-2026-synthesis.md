@@ -27,12 +27,21 @@ source: synthesis
 > - **점막비후(Mucosal Thickening, MT)의 원인은 치성·치주성** — MT 자체는 임플란트 금기가 아님(Maska 2017: 93%에 MT·65%가 >5mm여도 임플란트·이식 생존율 100%, 치주질환 과거력만 유일 예측인자 p=0.004). 무엇이 MT를 만드는가는 정량화됨: Khalil 2024(992치)에서 치근단병소(보정교차비 AOR 32.7)·제1대구치(AOR 3.97)·중증치주염(AOR 2.75)이 독립 예측인자이고, **발치된 부위가 MT 위험 최저** → 치아의 존재 자체가 MT의 odontogenic 동력. 잔존치조골높이(Residual Ridge Height, RRH)가 낮을수록 MT 심함(Akbari 2022, 240동 — RRH↓↔MT↑ 역상관; 단 Maska 2017은 RRH 무관 p=0.889으로 인구·임계값 차이로 상충).
 > - **점막두께의 절대값보다 비율·골구내강(OMC) 개존이 술후 부비동염을 가른다** — Lee 2020(한국 3차병원 11년, n=120): 상악동점막두께(MSMT)/자연공-동저거리(MOD) **비율**이 세 처치군을 유의하게 구분(무항생제 0.19 / 술전항생제 0.39 / FESS후식립 0.78)하나 MOD 단독은 무의미; OMC 폐쇄는 비율과 독립적으로 부비동염을 유발(비율 0.23이어도 자연공 폐쇄로 부비동염 발생) → 협진+CBCT 선별로 부비동염 1.6%(문헌 평균 5.1% 대비 낮음). Kim 2023(n=9 종단)은 ENT-검증된 MT 환자에서 식립 후 ~7개월 MSMT 불변(4.3→4.5mm, 비유의)·부비동염 0건으로 "MT가 있어도 협진 통과 시 안전" 재확인.
 
-## One-line Summary
+## Three-line Summary
 
-A 2026 synthesis of 37 wiki pages on lateral-window maxillary sinus floor elevation (SFE), organized into 5 clusters: Schneiderian membrane perforation repair, preoperative perforation prediction (anatomy/CBCT/behavior), procedural variants and timing, sinusitis prevention/management, and graft-material/PRF selection. Core theses: a competently repaired perforation is not a contraindication to implant placement (implant loss ~4%, OR 1.35 NS); septa and mucous retention cysts are the dominant anatomical perforation predictors while smoking is the dominant modifiable one; preoperative chronic sinusitis outranks membrane perforation as the infection-prevention priority; and PRF added to DBBM reliably improves histomorphometric new bone (+7–12%) without an ISQ-at-loading benefit, with BCP a credible synthetic alternative to DBBM.
+A 2026 synthesis of 37 wiki pages on lateral-window maxillary sinus floor elevation (SFE), organized into 5 clusters: membrane perforation repair, preoperative perforation prediction (anatomy/CBCT/behavior), procedural variants and timing, sinusitis prevention/management, and graft-material/PRF selection.
 
-## 한줄요약
-측방창 (Lateral Window) 상악동거상술 (Sinus Floor Elevation, SFE)에서 슈나이더 막 (Schneiderian Membrane) 천공 (Sinus Membrane Perforation, SMP)과 부비동염 (Sinusitis) 예방·관리를 다룬 34편에 이식재 선택 및 PRF (Platelet-Rich Fibrin) 보조 근거 3편을 추가해 총 37편으로 확장한 종합 페이지 — L-PRF·A-PRF 보조 시 신생골 +7~11% 유의 증가, BCP가 DBBM 대비 신생골 형성 우수.
+Core findings: a competently repaired Schneiderian membrane perforation (SMP) is not a contraindication to implant placement — pooled implant loss ~4% (95% CI 2–8%), OR 1.35 NS (Soares 2024 SR+MA, 130 studies; Sala 2024, 6,860 implants); septa (OR 4.03, HR 8.07) and mucous retention cysts (HR 27.75) are the dominant anatomical perforation predictors, smoking the dominant modifiable predictor (OR 1.58); preoperative chronic sinusitis outranks membrane perforation as the infection-prevention priority (Kozuma 2017: all 8 complications occurred in chronic-sinusitis-positive sinuses); PRF added to DBBM reliably improves histomorphometric new bone formation (+7–12%) without an ISQ-at-loading benefit.
+
+Practical decision rules: ≤10 mm perforations — seal with PRF (biologically equivalent to or better than collagen); >10 mm — tacked collagen + simultaneous graft (Tian 2026); use piezoelectric over rotary bur in lateral-window osteotomy (Lee 2023 NMA: each 10% SMP-rate increase reduces implant survival OR by 55%); obtain pre-op CBCT reading to OMC level and obtain ENT clearance for chronic sinusitis before any lateral SFE.
+
+## 세줄요약
+
+측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE) 37편 종합(5개 클러스터) — 슈나이더막 천공(Sinus Membrane Perforation, SMP)·부비동염·술식 변형·이식재/PRF 보조.
+
+수리된 천공은 임플란트 식립 금기가 아님(임플란트 손실 ~4%, OR 1.35 비유의; Soares 2024 SR+MA 130편, Sala 2024 6,860개); 격벽(OR 4.03, HR 8.07)·점액저류낭(HR 27.75)이 해부학적 최대 위험인자, 흡연이 가변적 최대 위험인자(OR 1.58); 술전 만성부비동염이 막천공보다 감염 예방 우선변수(Kozuma 2017 합병증 전건이 만성부비동염 양성군에서 발생); PRF+DBBM 시 신생골 +7–12% 일관되나 ISQ 이득 없음.
+
+의사결정 규칙: ≤10 mm 천공 → PRF seal(콜라겐 동등 이상); >10 mm → tack 고정 콜라겐+동시이식(Tian 2026); 측방창 골절단은 회전 bur 대신 피에조(Lee 2023 NMA: SMP 10%↑마다 생존 OR 55%↓); 술전 CBCT를 골구내복합체(OMC)까지 판독하고 만성부비동염은 이비인후과 협진 후 시행.
 
 ## Scope
 This overview synthesizes 37 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.

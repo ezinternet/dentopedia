@@ -15,13 +15,21 @@ full_text: false
 tags: [misfit, passive-fit, screw-complication, full-arch, 3D-scan, long-term]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective (n=30 edentulous mandible patients, avg 19yr): mean framework misfit 150 μm; weak correlation with bone loss (R²=0.04, P=.29); screw complication group had significantly higher misfit than no-complication group (169 vs 134 μm, P=.005).
+Retrospective cohort (n=30 edentulous mandible patients, 4–6 implants each, 3 alloy types, mean 19-year follow-up): first study to use combined intraoral + desktop 3D scanning to quantify full-arch implant-supported fixed prosthesis misfit in long-term clinical cases.
 
-## 한줄요약
+Mean framework misfit 150 μm (SD 35; range 95–232 μm); mean MBL 2.2 mm; misfit–bone-loss correlation weak and non-significant (R²=0.04, P=.29); screw complication group (14/30 patients) had significantly higher misfit than no-complication group (169 vs 134 μm, P=.005); implant survival 96.7%.
 
-후향 코호트 (n=30 무치악, 평균 19년): 프레임워크 미스피트 평균 150 μm; 골 소실과 약한 상관(R²=0.04); 나사 합병증 보철군 미스피트 유의하게 높음 (169 vs 134 μm, P=.005).
+Screw complications are the primary misfit sequela, not biological bone loss; misfit threshold for screw risk appears around 134–169 μm; clinical implication is to minimize misfit to reduce technical complications, not necessarily bone loss.
+
+## 세줄요약
+
+후향 코호트 (n=30 무치악 하악, 환자당 임플란트 4–6개, 합금 3종, 평균 19년 추적): 구강 내·데스크탑 3D 스캔 결합으로 전악 임플란트 보철 미스피트를 장기 계측한 최초 연구.
+
+미스피트 평균 150 μm (SD 35); 변연골소실 평균 2.2 mm; 미스피트-골소실 상관 약하고 비유의(R²=0.04, P=.29); 나사 합병증군(14/30명) 미스피트 169 μm > 무합병증군 134 μm (P=.005); 임플란트 생존율 96.7%.
+
+미스피트의 주된 임상 결과는 골소실이 아닌 나사 합병증; 나사 위험 임계값 134–169 μm 구간; 임상 적용: 미스피트 최소화로 기술적 합병증 감소가 우선 목표.
 
 ## Summary
 

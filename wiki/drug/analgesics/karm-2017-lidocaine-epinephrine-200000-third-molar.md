@@ -14,11 +14,21 @@ source_collection: external
 tags: [lidocaine, epinephrine, local-anesthesia, third-molar, mandibular, RCT, crossover, multicenter, hemodynamics, vasoconstrictor, dental-anesthesia, cardiovascular-safety, NCT02696369]
 ---
 
-## One-line Summary
-Multicenter RCT crossover (NCT02696369, 6 university hospitals, n=65 enrolled/51 analyzed, KDA Journal 56(1) 2017): 2% lidocaine with 1:80,000 vs 1:200,000 epinephrine for impacted mandibular third-molar extraction — analgesic efficacy equivalent (VAS, duration, bleeding, satisfaction all NS), but systolic blood pressure and pulse changes significantly smaller with 1:200,000 (p≤0.01); 1:200,000 recommended for cardiovascularly vulnerable patients.
+## Three-line Summary
 
-## 한줄요약
-다기관 RCT crossover (NCT02696369, 6개 대학병원, n=65 등록 / 51 분석, KDA Journal 56(1) 2017): 매복 하악 제3대구치 발치에서 2% 리도카인 + 1:80,000 vs 1:200,000 에피네프린 — 진통 효과는 동등 (VAS·지속·출혈·만족도 NS), 그러나 수축기 혈압·맥박 변동은 1:200,000군에서 유의하게 작음 (p ≤ 0.01). 심혈관 부담이 큰 환자에게는 1:200,000 권장.
+Multicenter crossover RCT (NCT02696369, 6 Korean university hospitals, n=65 enrolled/51 analyzed) comparing 2% lidocaine with 1:80,000 vs 1:200,000 epinephrine for bilateral impacted mandibular third molar extraction.
+
+All efficacy endpoints were equivalent (VAS pain, onset, duration, bleeding, satisfaction; all p>0.05), but systolic blood pressure and heart rate changes were significantly smaller with 1:200,000 epinephrine (p≤0.01).
+
+For cardiovascularly vulnerable patients (controlled HTN, prior cardiac event, arrhythmia), 1:200,000 epinephrine provides equivalent analgesia with reduced hemodynamic load.
+
+## 세줄요약
+
+다기관 교차 RCT (NCT02696369, 한국 6개 대학병원, n=65 등록/51 분석): 매복 하악 제3대구치 발치에서 2% 리도카인 1:80,000 vs 1:200,000 에피네프린 비교.
+
+모든 진통 효과 지표(VAS·발현시간·지속·출혈·만족도) 동등(모두 p>0.05); 수축기 혈압·맥박 변화는 1:200,000군에서 유의하게 작음(p≤0.01).
+
+심혈관 취약 환자(조절 고혈압, 부정맥, 심혈관 기왕력)에서 1:200,000 에피네프린은 동등한 마취 효과 유지하면서 혈역학적 부담 감소.
 
 ## Summary
 

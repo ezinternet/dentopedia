@@ -16,13 +16,21 @@ relations:
     target: griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=84 ETT molars, 6 groups, chewing simulator + static fracture): overlay (1.6 mm) was a valid alternative to adhesive crown (2.0 mm) in endodontically-treated molars; occlusal veneers (1.2 mm) showed significantly lower fracture resistance than adhesive crown (p=0.042); LS outperformed PICN on static fracture load (p=0.0002).
+In-vitro 2×3 factorial study (n=84 ETT maxillary molars; 2 materials — LS (E-max CAD) vs PICN (Vita Enamic) × 3 preparation designs — occlusal veneer 1.2 mm / overlay 1.6 mm / adhesive crown 2.0 mm; chewing simulator 1,500,000 cycles + static fracture).
 
-## 한줄요약
+Preparation design (p=0.0429) and material (p=0.0002) both significantly influenced fracture resistance: overlay was not significantly different from adhesive crown, while occlusal veneer was significantly weaker (p=0.042); LS had higher static fracture resistance than PICN across all groups.
 
-인비트로 연구(n=84 근관치료 대구치): 오버레이 (Overlay, 1.6 mm)는 접착 크라운 (Adhesive Crown, 2.0 mm)의 유효 대안 — 교합면 비니어 (Occlusal Veneer, 1.2 mm)는 ETT에서 파절강도 열위(p=0.042); 리튬 디실리케이트 (Lithium Disilicate, LS)가 고분자 침윤 세라믹 네트워크 (Polymer-Infiltrated Ceramic Network, PICN)보다 정적 파절강도 유의하게 우수(p=0.0002).
+Overlay is the minimally invasive alternative of choice for ETT with extensive structural loss; occlusal veneers should be reserved for worn vital teeth, not structurally compromised non-vital molars.
+
+## 세줄요약
+
+근관치료 상악 대구치 (ETT) 84개 대상 2×3 요인설계 in-vitro 연구 — 재료 (리튬 디실리케이트 Lithium Disilicate, LS vs 고분자 침윤 세라믹 네트워크 Polymer-Infiltrated Ceramic Network, PICN) × 3가지 수복 디자인 (교합면 비니어 1.2 mm / 오버레이 1.6 mm / 접착 크라운 2.0 mm); 저작시뮬레이터 1,500,000회 → 정적 파절강도.
+
+수복 디자인 (p=0.0429)과 재료 (p=0.0002) 모두 파절강도에 유의한 영향 — 오버레이는 접착 크라운과 유의차 없음, 교합면 비니어는 접착 크라운 대비 유의하게 열위 (p=0.042); LS가 PICN보다 정적 파절강도 우수.
+
+광범위한 구조 손실을 가진 ETT에서 오버레이가 최소침습 대안으로 권장; 교합면 비니어는 마모 생활치에만 적용 — 구조 손상된 근관치료치에는 금기.
 
 ## Summary
 

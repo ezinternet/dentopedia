@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative literature review (general healthcare, acute/dynamic domains) synthesizing three evidence streams — critical-incident analyses, provider-perception studies, and observational performance studies — that together establish teamwork as a determinant of quality and patient safety.
+Narrative literature review (Acta Anaesthesiol Scand 2009; single author; abstract-only; general healthcare, acute/dynamic domains — operating rooms, ICUs, emergency medicine, trauma/resuscitation) synthesizing the evidence on teamwork as a determinant of quality and patient safety.
 
-## 한줄요약
+Three convergent evidence streams support the teamwork → patient-safety relationship: (1) critical-incident and adverse-event analyses show teamwork plays a key role in both causation and prevention; (2) provider-perception studies link teamwork and leadership style to quality, safety, and staff well-being; (3) observational performance studies identify communication, coordination, and leadership as the recurring patterns underpinning high clinical performance.
 
-수술실·중환자실·응급실 등 역동적 의료 영역의 팀워크-환자안전 관계를 다룬 서술적 문헌 고찰 (Narrative Review). 사건분석·종사자 인식·관찰 연구의 세 갈래 근거가 팀워크가 진료의 질과 안전을 좌우함을 뒷받침한다 (일반 의료 근거, 치과 비특이적).
+Teamwork is a measurable determinant of safety, not a soft adjunct; leadership style connects team functioning to staff well-being which in turn affects safe care capacity — a chain directly relevant to dental-practice staffing, delegation, and burnout prevention.
+
+## 세줄요약
+
+서술적 문헌 고찰 (Acta Anaesthesiol Scand 2009; 단일 저자; 초록만 수집; 수술실·중환자실·응급실·외상소생 등 역동적 급성기 의료 영역): 팀워크가 진료의 질과 환자안전의 결정요인임을 확립하는 증거 종합.
+
+세 갈래 증거가 수렴: ① 비판적 사건·유해사건 분석 — 팀워크는 사고의 원인이자 예방 인자; ② 종사자 인식 연구 — 팀워크·리더십 스타일이 질·안전·직원 웰빙에 연관; ③ 관찰 성능 연구 — 의사소통·조율·리더십이 고성능 임상 팀의 반복되는 패턴.
+
+팀워크는 측정 가능한 안전 결정요인, 부드러운 부가 요소가 아님; 리더십 스타일 → 직원 웰빙 → 안전한 진료 능력의 연결고리는 치과 인력 관리·위임·번아웃 예방에 직접 적용 가능.
 
 ## Summary
 

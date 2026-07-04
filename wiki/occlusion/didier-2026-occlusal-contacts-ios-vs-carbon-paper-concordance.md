@@ -20,13 +20,21 @@ relations:
     target: velasquez-2022-occlusal-analysis-natural-dentition-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical agreement study (n=35 orthodontic patients, 840 teeth) finding poor agreement (Cohen kappa 0.07–0.20) between an iTero Element 2 occlusogram and 8 µm AccuFilm carbon-paper occlusal records — the two methods are complementary, not interchangeable, and IOS alone cannot define occlusion.
+Retrospective single-center method-agreement study (n=35 Class I orthodontic patients, 15–30 y, 840 teeth as independent sampling units; iTero Element 2 occlusogram vs 8 µm AccuFilm carbon-paper; 16 defined tooth surfaces analyzed; Cohen kappa concordance; Brazil) comparing intraoral scanner occlusogram against clinical carbon-paper occlusal marking.
 
-## 한줄요약
+Agreement between iTero occlusogram and carbon paper was poor across virtually all tooth surfaces (most kappa 0.07–0.20; only premolar lingual cusp κ 0.38 and first-molar mesiolingual cusp κ 0.27 reached "slight"); the scanner's red+orange definition overestimated contacts by ~70% vs carbon paper (1548 vs 917 total), while red-only definition underestimated them; critically, 48.1% of intense red (0–0.1 mm) contacts were clinically ideal contacts, not excessive ones.
 
-후향적 임상 일치도 연구(교정 환자 35명, 치아 840개): iTero Element 2 구강스캐너(Intraoral Scanner, IOS) 교합도와 8µm 카본지(AccuFilm) 교합 기록은 일치도가 낮아(카파 0.07–0.20) 서로 교환 불가하며 보완적으로 함께 써야 함 — IOS 단독으로 교합을 결정할 수 없다.
+IOS occlusogram and carbon paper are complementary, not interchangeable — IOS alone cannot define occlusion; specifically for ClinCheck treatment planning, clinicians should be cautious about treating red scanner contacts as excessive since removing them risks aligner overcorrection (unnecessary intrusion) and posterior open bite.
+
+## 세줄요약
+
+후향적 단일센터 방법 일치도 연구(Class I 교정 환자 35명, 15–30세, 치아 840개 독립 단위; iTero Element 2 교합도 vs 8µm AccuFilm 카본지; 16개 치면 분석; Cohen kappa 일치도; 브라질): 구강 스캐너 교합도와 임상 카본지 교합 표시의 일치도를 비교했다.
+
+거의 모든 치면에서 iTero 교합도와 카본지의 일치도가 낮았고(대부분 카파 0.07–0.20; 소구치 설측교두 κ 0.38, 제1대구치 근심설측교두 κ 0.27만 "약한 일치"). 스캐너 빨강+주황 정의는 카본지보다 교합접촉을 ~70% 과대평가(1548 vs 917개)했으나 빨강 단독 정의는 과소평가했으며, 강한 빨강(0–0.1 mm) 접촉의 48.1%는 임상적으로 이상적 접촉이었다.
+
+IOS 교합도와 카본지는 보완적이며 서로 교환 불가하다. IOS 단독으로 교합을 결정하면 안 되며, ClinCheck 치료 계획에서 빨강 접촉을 과도하다고 보고 제거하면 교정기(aligner) 과잉 교정(불필요한 압하) 및 구치부 개방교합의 위험이 있다.
 
 ## Summary
 

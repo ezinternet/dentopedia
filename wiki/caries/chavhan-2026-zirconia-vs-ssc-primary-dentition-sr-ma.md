@@ -16,13 +16,21 @@ relations:
     target: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (700 crowns; 6 pooled for retention): prefabricated zirconia crowns (PZCs) and stainless steel crowns (SSCs) showed equivalent retention in primary molars (OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%), with PZCs consistently demonstrating better gingival health and less plaque accumulation, possible increased antagonist wear due to zirconia hardness, and strongly superior parental esthetic satisfaction despite higher cost.
+SR+MA of 7 RCTs (700 crowns; 6 pooled for retention; children 3–10 years) comparing prefabricated zirconia crowns (PZCs) vs stainless steel crowns (SSCs) for primary molar restoration; RoB 2 applied, overall acceptable quality.
 
-## 한줄요약
+Pooled retention was statistically equivalent (OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%); PZCs showed better gingival health in the majority of studies and lower plaque accumulation, while antagonist tooth wear was higher with PZCs in 2/3 reporting studies.
 
-SR+MA(RCT 7편, 크라운 700개; 6편 pooled): 유구치에서 PZC와 SSC의 유지력 동등(OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%), PZC가 치은건강·플라크에서 일관되게 우수하나 대합치 마모 가능성↑·비용↑; 부모 심미 만족도 강하게 PZC 우위.
+PZC is a reliable esthetic alternative to SSC for primary molars, particularly when caregiver preference is a priority; SSC remains the cost-effective gold standard; antagonist wear and higher cost should guide case selection.
+
+## 세줄요약
+
+유구치 수복을 위한 prefabricated zirconia crown (PZC) vs stainless steel crown (SSC) 비교 SR+MA(RCT 7편, 크라운 700개, 유지력 6편 풀링; 아동 3–10세); RoB 2 적용, 전반적 수용 가능.
+
+유지력 동등(OR 0.96, 95% CI 0.40–2.32; p=0.93; I²=0%); PZC가 대다수 연구에서 치은건강·플라크에서 우수, 대합치 마모는 PZC에서 2/3 연구에서 더 높음.
+
+PZC는 보호자 심미 선호 시 SSC의 신뢰할 수 있는 대안; SSC는 비용 효과적 표준; 대합치 마모·비용을 고려해 증례 선택 필요.
 
 ## Summary
 

@@ -16,11 +16,21 @@ relations:
     target: bruxism-muscle-overload-axis
 ---
 
-## One-line Summary
-In-vitro fatigue study - core material and occlusal contact pattern jointly affect the fatigue behavior of monolithic ceramic crowns; contact distribution is a modifiable factor in crown longevity.
+## Three-line Summary
 
-## 한줄요약
-in-vitro 피로시험 - 코어 재료와 교합접촉 양상이 monolithic 세라믹 크라운의 피로거동에 함께 영향; 접촉 분포가 크라운 수명의 조절 가능 인자.
+In-vitro fatigue study testing multiple combinations of core materials and occlusal contact patterns on monolithic ceramic crowns to determine how both variables jointly influence fracture resistance under cyclic loading.
+
+Both core material type and occlusal contact distribution pattern significantly influenced the fatigue behavior of monolithic ceramic crowns; optimizing contact distribution reduced fracture risk regardless of core material.
+
+Occlusal contact pattern is a clinically modifiable factor in crown longevity, implying that careful occlusal adjustment at delivery can reduce fatigue-fracture risk for monolithic ceramic restorations.
+
+## 세줄요약
+
+단일체 세라믹 크라운의 여러 코어 재료와 교합접촉 양상 조합이 반복 하중 하의 파절 저항에 미치는 영향을 in-vitro 피로시험으로 평가했다.
+
+코어 재료 종류와 교합접촉 분포 양상 모두 단일체 세라믹 크라운의 피로거동에 유의한 영향을 미쳤으며, 접촉 분포 최적화가 코어 재료에 무관하게 파절 위험을 줄였다.
+
+교합접촉 양상은 임상적으로 조절 가능한 인자이므로, 단일체 세라믹 수복물 장착 시 신중한 교합조정이 피로파절 위험 감소에 기여할 수 있다.
 
 ## Summary
 코어 재료 × 교합접촉 양상이 단일체 세라믹 크라운 피로수명에 미치는 영향 in-vitro. 교합접촉 분포가 보철 파절 위험의 조절 인자임을 시사 — occlusion-재료 접점.

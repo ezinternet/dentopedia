@@ -17,13 +17,23 @@ text_filename: alqedairi-2026-regenerative-endodontic-procedures-immature.txt
 
 사용자가 요청한 PMC 전문(full-text) 논문으로, 미성숙 영구치의 괴사 치수 치료(REP)에 대한 생물학적 기전(SCAP, scaffold, growth factor)과 임상 프로토콜을 서술적으로 종합해, 기존 정량적 SR+MA 페이지인 [[wiki/endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]]에 개념적·배경적 깊이를 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Cureus, 2026) synthesizing REP biological mechanisms and clinical outcomes: periapical healing 85–94%, continued root development 74–81%, pulp sensibility recovery only 25–70% and unreliable as proof of true pulp regeneration; PRP/PRF scaffolds outperform blood clot for dentinal wall thickening.
+Narrative review (Cureus 2026; PubMed/Scopus/Web of Science, 2004–2025) synthesizing the biological mechanisms (SCAP, scaffold, growth factors) and clinical outcomes of regenerative endodontic procedures (REP) in permanent necrotic immature teeth, including a representative-studies table spanning Banchs & Trope 2004 to Song 2025.
 
-## 한줄요약
+Periapical healing was 85–94%, continued root development 74–81%, and pulp sensibility recovery only 25–70% (least predictable); PRP/PRF scaffolds outperform blood clot alone for dentinal wall thickening; intracanal calcification develops in ~18–22% of treated teeth over the medium term.
 
-내러티브 리뷰(Cureus, 2026)로 재생근관치료(REP)의 생물학적 기전과 임상 결과를 종합: 치근단 치유율 85–94%, 치근 발육 지속 74–81%, 치수 감각 회복은 25–70%로 낮고 진성 치수 재생의 증거로 신뢰하기 어려우며, PRP/PRF 스캐폴드가 혈병 단독보다 상아질벽 비후에 우수함.
+Current REP outcomes represent "biologically supported repair" rather than true pulp regeneration (histological tissue is cementum/bone-like, not organized pulp-dentin complex); long-term data beyond 5 years are scarce, and agreed core outcome sets are lacking.
+
+## 세줄요약
+
+내러티브 리뷰 (Cureus 2026; 2004–2025 문헌; SCAP·스캐폴드·성장인자 등 REP 생물학적 기전 및 임상 결과 종합; 2004 Banchs & Trope~2025 Song 대표 연구 표 포함).
+
+치근단 치유 85–94%, 치근 발육 지속 74–81%, 치수 감각 회복 25–70%(가장 예측 불가); PRP/PRF 스캐폴드가 혈병 단독보다 상아질벽 비후에 우수; 중기 관내 석회화 ~18–22% 발생.
+
+현재 REP 결과는 진성 치수 재생이 아닌 "생물학적 지지 수복" (조직학적으로 백악질/골 유사 조직); 5년 초과 장기 데이터 부족, 표준화된 핵심 결과 지표 필요.
+
+
 
 ## 1. Document Information
 

@@ -25,11 +25,21 @@ relations:
 tags: [uv-photofunctionalization, implant-stability, isq, osi, marginal-bone-loss, sr-ma, surface-treatment]
 ---
 
-## One-line Summary
-SR+MA (7 clinical studies, 5 meta-analyzed; 430 patients / 734 implants): UV photofunctionalization significantly raised the osseointegration speed index (OSI; MD = 2.13, p = 0.007) and 2-month implant stability (MD = 3.48, p = 0.04), but pooled effects on stability at other timepoints and on marginal bone loss were non-significant amid high heterogeneity and high risk of bias.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (임상연구 7편, 메타분석 5편; 환자 430명 / 임플란트 734개): UV 광기능화는 골유착 속도지수(OSI, MD=2.13, p=0.007)와 2개월 임플란트 안정성(MD=3.48, p=0.04)을 유의하게 높였으나, 다른 시점 안정성과 변연골소실은 비유의 — 높은 이질성·비뚤림 위험이 한계.
+First clinical SR+MA on UV photofunctionalization (7 studies, 5 meta-analyzed; 430 patients / 734 implants; Japan, Lithuania, Pakistan, Korea, India) isolating UV-PF from animal and plasma-based evidence.
+
+UV photofunctionalization significantly raised the osseointegration speed index (OSI; MD = 2.13, p = 0.007) and 2-month implant stability (MD = 3.48, p = 0.04), but pooled effects on stability at other timepoints and on marginal bone loss were all non-significant.
+
+The rate of establishing stability (OSI) is the most reliable clinical benefit; high heterogeneity (I² up to 99%), few poolable studies, and high/serious risk of bias temper all conclusions — qualitative benefit greatest in poor-quality bone.
+
+## 세줄요약
+
+UV 광기능화 (Photofunctionalization) 최초의 임상 SR+MA (7편, 5편 메타분석; 환자 430명·임플란트 734개; 일본·리투아니아·파키스탄·한국·인도) — 동물 및 플라즈마 기반 근거와 분리된 UV-PF 단독 분석.
+
+골유착 속도지수 (Osseointegration Speed Index, OSI; MD=2.13, p=0.007)와 2개월 임플란트 안정성 (MD=3.48, p=0.04)을 유의하게 향상; 다른 시점 안정성과 변연골소실 (Marginal Bone Loss, MBL)은 모두 비유의.
+
+안정성 확립 속도(OSI)가 가장 신뢰할 수 있는 임상 효과; 이질성 높음(I² 최대 99%), 풀링 가능 연구 수 적음, 비뚤림 위험 높음/심각 — 저밀도 골 및 복잡 증례에서 정성적 이점이 가장 크다고 판단.
 
 ## Summary
 This is the first evidence-based synthesis of the **clinical** effects of UV photofunctionalization on dental implants (prior reviews were animal-based). From 1788 records, 7 clinical studies (5 RCTs, 1 CCT, 1 case-control; 430 patients / 734 implants across Japan, Lithuania, Pakistan, Korea, India) were qualitatively reviewed and 5 meta-analyzed. The strongest, most consistent signal is on the **rate** of establishing stability: the osseointegration speed index (OSI) was significantly higher with photofunctionalization. Absolute implant stability reached significance only at the 2-month timepoint, and marginal bone loss (MBL) showed no significant pooled difference (though point estimates favored photofunctionalization). High heterogeneity (I² up to 99%), few pooled studies, and high/serious risk of bias temper all conclusions. Qualitatively, benefit is greatest in poor-quality bone and complex/staged cases.

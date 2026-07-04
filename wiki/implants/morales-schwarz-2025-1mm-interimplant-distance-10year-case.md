@@ -18,13 +18,21 @@ relations:
     target: tarnow-2000-inter-implant-distance-crestal-bone-height
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report + literature review (IID=1 mm, platform-switch BL implants, 10yr follow-up): bone maintained 1.40 mm coronal to IAC; 2 animal studies also show no bone loss at 1 mm IID; 3 mm guideline based on outdated external hex implants.
+Case report + literature review (1 mm inter-implant distance, modern platform-switching bone-level implants with internal conical connection, subcrestal placement, 10-year follow-up): first clinical case of 1 mm IID to 10 years with quantified bone outcomes.
 
-## 한줄요약
+Crestal bone maintained 1.40 mm coronal to the implant-abutment connection (IAC) at 10 years; 2 animal studies at 1 mm IID showed no bone loss vs wider distances; the Tarnow 3 mm guideline was derived from older external-hex non-platform-switching implants.
 
-케이스보고+문헌고찰 (IID=1 mm, 플랫폼 스위칭 BL 임플란트, 10년): 치조정 IAC보다 1.40 mm 상방 골 유지; 1 mm IID 동물실험 2편도 넓은 거리 대비 골소실 없음; 3 mm 룰은 구식 외부 헥스 기반.
+Demonstrates that modern implant design features (internal conical connection, platform-switching, concave abutments, subcrestal placement) may tolerate 1 mm IID without bone loss; n=1 case report — insufficient to change guidelines; prospective multi-case data required before clinical adoption.
+
+## 세줄요약
+
+케이스보고 + 문헌고찰 (임플란트 간 거리(IID) 1 mm, 내부 원추형 연결부 + 플랫폼 스위칭 골수준 임플란트, 치조정하 식립, 10년 추적): 1 mm IID를 10년 정량 추적한 최초 임상 보고.
+
+10년 시점 치조정 IAC 상방 1.40 mm 골 유지; 1 mm IID 동물실험 2편도 넓은 거리 대비 동등·우수한 골 반응; Tarnow 3 mm 룰은 구식 외부 헥스·비-플랫폼스위칭 임플란트 데이터 기반.
+
+현대 임플란트 디자인(내부 원추형+PS+오목 지대주+치조정하 식립)이 1 mm IID에서 골소실 없이 유지 가능함을 시사; n=1 증례 — 가이드라인 변경에는 불충분; 다수 증례 전향 데이터 필요.
 
 ## Summary
 

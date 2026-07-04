@@ -17,11 +17,21 @@ tags: [nccl, self-adhesive-flowable, retention-failure, etch-and-rinse, rct, abs
 > [!note] Abstract-only ingest
 > Built from the Quintessence abstract (DOI 10.3290/j.jad.a34556, PMID 26258177); full text paywalled and not obtained. (set 2026-06-07)
 
-## One-line Summary
-Split-mouth RCT (abstract only) of 80 NCCLs in which a self-adhesive flowable composite was clinically unacceptable at 6 months (33% success, 27/40 lost to retention) versus 100% for a nanohybrid placed with a 3-step etch-and-rinse adhesive.
+## Three-line Summary
 
-## 한줄요약
-NCCL 80개 split-mouth RCT — self-adhesive flowable composite 6개월 성공률 33%(27/40 탈락) vs 3-step ER + nanohybrid 100%(초록 기반).
+Split-mouth RCT (abstract only; 80 NCCLs, n=40 per arm) comparing a self-adhesive flowable composite (Fusio Liquid Dentin) against a nanohybrid composite (G-aenial) placed with a 3-step etch-and-rinse adhesive (Optibond FL), evaluated by FDI criteria at 1 week and 6 months.
+
+Self-adhesive flowable composite achieved only 33% clinical acceptability at 6 months (27/40 unacceptable, retention failure) versus 100% for the etch-and-rinse/nanohybrid control; color and translucency differences were also statistically significant.
+
+The adhesive/etching step is the decisive variable for NCCL retention — omitting it (self-adhesive chemistry alone) results in clinically unacceptable early failure rates; this product-specific negative result has not been updated by longer RCTs for this specific material.
+
+## 세줄요약
+
+Split-mouth RCT (초록 기반; 비우식성 치경부 병소 (NCCL) 80개, 각 군 n=40) — 자가접착형 플로어블 복합레진 (Fusio Liquid Dentin) vs 3-step 전부식 접착제(Optibond FL)+나노하이브리드(G-aenial), FDI 기준 1주·6개월 평가.
+
+자가접착형 플로어블 복합레진 6개월 임상 수용 가능률 33% (27/40 탈락, 유지 실패) vs 전부식/나노하이브리드 100%; 색상·투명도 차이도 통계적으로 유의.
+
+NCCL 유지는 접착제/부식 단계가 결정적 — 이를 생략하는 자가접착 단독 화학결합은 초기 실패율이 임상적으로 수용 불가; 본 특정 재료에 대한 장기 RCT 갱신 없음.
 
 ## Summary
 This single-center, split-mouth randomized trial compared a self-adhesive flowable composite (SAFC; Fusio Liquid Dentin) against a nanohybrid composite (G-aenial) placed with a three-step etch-and-rinse adhesive (Optibond FL) in 80 noncarious cervical lesions, evaluated by FDI criteria at one week and six months. By six months, 27 of 40 SAFC restorations were clinically unacceptable due to retention failure — a 33% success rate — versus 100% for the etch-and-rinse/nanohybrid control; color and translucency also differed significantly. The authors concluded the SAFC's clinical performance was unacceptable. As a short-horizon, product-specific negative result (ingested from abstract only), the study reinforces the broader NCCL adhesion principle that omitting a dedicated adhesive/etching step severely compromises retention, complementing the longer RCTs (Peumans 2023, Omoto 2025) that show enamel etching and proper adhesive technique preserve retention.

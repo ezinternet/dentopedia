@@ -16,13 +16,23 @@ Foundational evidence for the qualifier that **not every unopposed tooth overeru
 
 Note: abstract-only — full text not retrieved (PubMed abstract page).
 
-## One-line Summary
+## Three-line Summary
+
 
 Cross-sectional human study (53 individuals, 84 molars unopposed ≥10 years): only 24% showed moderate-to-severe overeruption (≥2 mm) while 18% showed none — concluding not all unopposed molars overerupt, even long-term.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 단면 인체 연구 (53명, 10년 이상 대합치 없는 대구치 84개): 18%는 정출 징후가 전혀 없었고 중등도-중증 정출(≥2 mm)은 24%뿐 — 대합치 없는 모든 치아가 정출하는 것은 아니라는 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

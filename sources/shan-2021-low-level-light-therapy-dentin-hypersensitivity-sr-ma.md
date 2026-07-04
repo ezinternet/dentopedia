@@ -13,11 +13,21 @@ source_collection: external
 
 [[overviews/dentin-hypersensitivity-overview]]의 photobiomodulation 근거를 정량 SMD로 고정. LLLT가 placebo 대비 효과적이나 fluoride 외 다른 탈감작제 대비 우월성은 제한적임을 보여, forouzande/naghsh 레이저 RCT 해석의 맥락 제공.
 
-## One-line Summary
-SR+MA (35 articles; 20 RCTs pooled) finding LLLT outperforms placebo for immediate, interim, and persistent DH relief but shows no superiority over other desensitizers except fluoride, amid high heterogeneity.
+## Three-line Summary
 
-## 한줄요약
+SR+MA (35 articles;
+
+20 RCTs pooled) finding LLLT outperforms placebo for immediate, interim, and persistent DH relief but shows no superiority over other desensitizers except fluoride, amid high heterogeneity.
+
+(incomplete)
+
+## 세줄요약
+
 SR+MA(35편·RCT 20편 정량): 저출력광치료(Low-Level Light Therapy, LLLT)는 placebo 대비 즉시·중간·지속 효과 우수하나, fluoride 외 타 탈감작제 대비 우월성 없음(이질성 높음).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Oral Investigations 2021. PRISMA; 6 databases to Dec 2020.

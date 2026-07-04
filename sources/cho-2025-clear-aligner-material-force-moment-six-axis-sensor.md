@@ -16,13 +16,21 @@ text_filename: cho-2025-clear-aligner-material-force-moment-six-axis-sensor.txt
 
 기존 [[wiki/orthodontics/clear-aligner/cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr]]는 29편의 FEA(유한요소해석) 시뮬레이션을 종합해 CA(clear aligner) biomechanics의 응력분포 이론을 제시하지만 전부 시뮬레이션 기반이다. 본 논문(Cho 2025)은 6축 기계 센서(six-axis mechanical sensor)와 치근·치주인대(PDL) 공간을 갖춘 3D프린팅 typodont를 이용해 실제로 힘·모멘트를 물리적으로 측정한 벤치 실험으로, FEA 예측을 실측 데이터로 검증·대비할 수 있는 근거를 제공한다. 또한 [[wiki/orthodontics/clear-aligner/delgado-2025-thermoplastics-clear-aligners-review]]가 PETG 계열 열가소성 재료(Zendura, Trioclear 상당)와 direct-3D-print 레진(Graphy TA-28 상당)의 재료과학적 특성을 서술적으로 정리한 반면, 본 논문은 이 두 재료군을 동일 실험 조건에서 직접 비교한 정량적 force/moment 수치를 제공해 재료선택 리뷰에 임상 수치를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro six-axis mechanical sensor bench study (n=6/group, 6 groups) comparing three clear-aligner materials (Zendura and Trioclear thermoplastics vs Graphy TA-28 direct-3D-printed resin) at two labial-tipping magnitudes (0.3 mm, 0.6 mm) of a maxillary lateral incisor, finding no significant inter-material differences at 0.3 mm tipping but at 0.6 mm Zendura produced greater labial force than Trioclear while Graphy paradoxically produced lingual force, and Zendura/Trioclear generated greater labial-inclination moment than Graphy (all p<0.01), with Graphy showing the lowest absolute force/moment values overall.
+In-vitro six-axis mechanical sensor bench study (6 groups, n=6/group; 3D-printed typodont with PDL simulation, 37°C water bath) comparing three clear-aligner materials — Zendura and Trioclear thermoplastics vs Graphy TA-28 direct-3D-printed resin — at 0.3 mm and 0.6 mm labial tipping of a maxillary lateral incisor.
 
-## 한줄요약
+At 0.3 mm no significant inter-material differences were found; at 0.6 mm Zendura produced greater labial force than Trioclear (p<0.01), while Graphy paradoxically produced lingual (reverse-direction) force on the labially-tipped tooth; Zendura and Trioclear generated significantly greater labial-inclination moment than Graphy (p<0.01), with Graphy showing the lowest absolute force/moment values overall.
 
-6축 기계 센서를 이용한 in-vitro 실험(6그룹, 그룹당 n=6)에서 상악 측절치 0.3mm 및 0.6mm 순측경사(labial tipping) 시 3종 투명교정장치 재료(Zendura·Trioclear 열가소성 vs Graphy TA-28 직접출력형)를 비교한 결과, 0.3mm에서는 재료 간 유의차가 없었으나 0.6mm에서는 Zendura가 Trioclear보다 큰 순측 방향 힘을, Graphy는 오히려 설측 방향 힘을 발생시켰고(p<0.01) Zendura·Trioclear가 Graphy보다 큰 순측경사 모멘트를 보여(p<0.01), Graphy가 전반적으로 가장 낮은 절대 force/moment 값을 나타냈다.
+Clinicians should select clear-aligner material based on the specific biomechanical requirement, as Graphy TA-28's shape-memory/thermal effects can produce unexpected reverse-force directions; absence of attachments and short 2-minute observation window limit extrapolation to clinical CAT.
+
+## 세줄요약
+
+6축 기계 센서를 이용한 in-vitro 벤치 실험(6그룹, n=6/그룹; PDL 공간 포함 3D 프린팅 typodont, 37°C 수조): Zendura·Trioclear 열가소성 vs Graphy TA-28 직접출력형 투명교정장치 재료를 상악 측절치 0.3 mm 및 0.6 mm 순측경사(labial tipping) 조건에서 비교.
+
+0.3 mm에서는 재료 간 유의차 없었으나, 0.6 mm에서 Zendura가 Trioclear보다 큰 순측 힘(p<0.01), Graphy는 역방향(설측) 힘 발생; Zendura·Trioclear가 Graphy보다 순측경사 모멘트 유의하게 큼(p<0.01); Graphy가 전체적으로 가장 낮은 force/moment 값.
+
+임상적으로 투명교정 재료는 적용 biomechanical 목적에 따라 선택해야 하며, Graphy TA-28의 형상기억/열 효과로 예상치 못한 역방향 힘이 발생할 수 있음; 부착물 없음·2분 관찰 창 한계로 임상 적용 시 외삽 주의.
 
 ## 1. Document Information
 

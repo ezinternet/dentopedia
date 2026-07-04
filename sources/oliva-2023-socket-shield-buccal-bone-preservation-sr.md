@@ -14,7 +14,7 @@ source_collection: external
 
 SST의 **buccal bone plate resorption (BBPR)** 핵심 outcome 집중 SR — JPIS (Korean Academy of Periodontology) 게재로 한국 임상의 접근성 높음. PROSPERO CRD42020180637 등록. [[immediate-implant/socket-shield/velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma]]·[[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]] SR 보강.
 
-## One-line Summary
+## Three-line Summary
 SR (D'Amario et al., JPIS 2023, PROSPERO CRD42020180637, 17 included studies, 656 implants): SST 협측 골판 흡수 (BBPR) 감소 효과 — 생존율 98.6%, 합병증 3.81%, MBL 0.39±0.28mm (SST) vs 1.00±0.55mm (conventional), PES 12.08±1.18 vs 10.77±0.74, BBPR 0.32±0.10 vs 1.05±0.18mm.
 
 ## 1. Document Information

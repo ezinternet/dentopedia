@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-In vitro with human platelets: metamizole (dipyrone) active metabolite MAA forms a hydrogen bond with COX-1 serine-530 → blocks aspirin acetylation → antiplatelet effect lost; same mechanism as ibuprofen and naproxen.
+## Three-line Summary
+In vitro study using human platelet-rich plasma and cell-free COX-1 assays demonstrated that metamizole (dipyrone) active metabolite MAA blocks aspirin's irreversible acetylation of platelet COX-1 serine-530 via hydrogen bonding; confirmed by computational docking.
 
-## 한줄요약
-인체 혈소판 인비트로: 메타미졸(디피론)의 활성 대사체 MAA가 COX-1 세린-530과 수소결합 형성 → 아스피린 아세틸화 차단 → 항혈소판 효과 소실; 이부프로펜·나프록센과 동일 기전.
+MAA largely abolished aspirin's inhibition of arachidonic acid-induced aggregation, thromboxane B2 suppression, and P-selectin reduction; ibuprofen and naproxen served as positive controls showing the same interference.
+
+Dipyrone should be treated as an aspirin antagonist and avoided in cardiovascular patients on antiplatelet therapy; the class effect extends to other pyrazolinone derivatives.
+
+## 세줄요약
+인체 PRP 및 COX-1 무세포 분석으로 메타미졸(디피론) 활성 대사체 MAA가 아스피린의 혈소판 COX-1 세린-530 아세틸화를 수소결합으로 차단함을 입증; 분자 도킹으로 확인.
+
+MAA는 아스피린의 AA-유발 혈소판 응집 억제, TXB2 억제, P-selectin 감소를 대부분 소실시켰으며 이부프로펜·나프록센이 양성 대조군으로 동일 패턴 확인.
+
+디피론은 아스피린 길항제로 간주해 항혈소판 치료 중인 심혈관 환자에서 피해야 하며, 같은 효과가 피라졸리논 유도체 전반에 적용됨.
 
 ## Summary
 This in vitro study from Heinrich-Heine-Universität Düsseldorf is the first to show that dipyrone (metamizole, INN), a widely used pyrazolinone analgesic, interferes with aspirin's antiplatelet effect. The key agent is **MAA (4-methylaminoantipyrine)**, dipyrone's primary active metabolite. MAA blocks aspirin's irreversible acetylation of platelet COX-1 by forming a hydrogen bond with serine-530 — the same residue aspirin must acetylate. Aggregation studies (arachidonic acid- and collagen-induced), thromboxane B2 measurement, P-selectin flow cytometry, and cell-free COX enzyme assays all converged on the same conclusion: pyrazolinones preserve platelet thromboxane synthesis that aspirin would otherwise suppress. Computational docking confirmed the molecular basis.

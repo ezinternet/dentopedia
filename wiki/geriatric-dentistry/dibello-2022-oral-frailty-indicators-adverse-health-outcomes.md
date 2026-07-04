@@ -16,11 +16,19 @@ relations:
     target: li-2024-prevalence-oral-frailty-older-adults
 ---
 
-## One-line Summary
-SR (68 studies) - 11 oral-health indicators across 4 domains (oral status deterioration; oral motor decline; chewing/swallowing/saliva disorders; oral pain) link to 6 major adverse outcomes (mortality, physical frailty, disability, QoL, hospitalization, falls). Number of teeth most consistently associated.
+## Three-line Summary
+SR (68 studies, 6 databases searched to September 2022, NIH quality assessment, PROSPERO registered) structuring oral frailty into 11 indicators across 4 domains and mapping their associations with 6 major adverse health outcomes in older adults.
 
-## 한줄요약
-SR(68편) - 4영역 11개 구강건강 지표(구강상태 악화·구강운동 저하·저작/연하/타액 장애·구강통증)가 6대 불량결과(사망·신체쇠약·기능장애·QoL·입원·낙상)와 연관; 잔존치아 수가 가장 일관되게 연관.
+Number of remaining teeth was the most consistently associated indicator, linking to all 6 adverse outcomes (mortality, physical frailty, disability, QoL, hospitalization, falls); chewing/swallowing/saliva disorders, oral motor decline, and oral pain showed associations with select outcomes.
+
+Clinically, oral frailty indicators are potentially reversible and represent actionable targets for intervention — particularly tooth preservation and restoration — to reduce downstream adverse health events in the elderly.
+
+## 세줄요약
+SR(68편, 6개 데이터베이스 2022년 9월까지, NIH 질평가, PROSPERO 등록) — 구강노쇠(Oral Frailty)를 4영역 11개 지표로 구조화하고 노인의 6대 불량결과와의 연관을 종합.
+
+잔존치아 수가 사망·신체쇠약·기능장애·QoL·입원·낙상 6개 결과 모두와 가장 일관되게 연관; 저작/연하/타액 장애·구강운동 저하·구강통증도 일부 결과와 연관.
+
+임상적 의의: 구강노쇠 지표는 가역적이어서 개입 가능한 표적 — 특히 치아 보존·수복 — 이며 노인의 불량 건강결과 예방에 기여할 수 있음.
 
 ## Summary
 Lobbezoo·Panza 그룹의 oral frailty 지표 SR. oral frailty 개념을 11개 지표·4영역으로 구조화하고 노년 주요 불량결과와의 연관을 종합 - 신설 geriatric-dentistry 카테고리의 개념 anchor.

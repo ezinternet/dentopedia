@@ -13,13 +13,21 @@ source_collection: external
 
 Addresses a gap in the halitosis literature: most existing SRs focus on prevalence or etiology, but none had systematically examined the psychosocial/emotional impact specifically in adolescents and young adults. Complements [[wiki/halitosis/silva-2017-estimated-prevalence-halitosis-sr]] (prevalence focus) by adding the psychosocial dimension for younger populations.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 studies, adolescents/young adults aged 10–26) finding self-reported halitosis prevalence of 23.1–77.5% (mean 44.7%) and consistent associations with anxiety, depression, social isolation, and reduced self-esteem as measured by OHIP-14 and SCL-9-R instruments.
+Systematic review (6 observational studies; adolescents and young adults aged 10–26) examining the psychosocial/emotional impact of halitosis — the first SR focused exclusively on this age group.
 
-## 한줄요약
+Self-reported halitosis prevalence ranged 23.1–77.5% (mean 44.7%), with consistent associations with increased anxiety/depression (SCL-9-R), lower OHRQoL (OHIP-14), social isolation, and reduced self-esteem across all included studies.
 
-청소년 및 젊은 성인(10–26세) 대상 6편 체계적 문헌고찰: 자가보고 구취 유병률 23.1–77.5%(평균 44.7%), OHIP-14·SCL-9-R 기준 불안·우울·사회적 고립·자존감 저하와 일관된 연관성 확인.
+A dual-track intervention (medical + psychological) is recommended; evidence base remains limited by high heterogeneity and cross-sectional designs that cannot establish causal direction.
+
+## 세줄요약
+
+체계적 문헌고찰(관찰연구 6편; 청소년·젊은 성인 10–26세) — 이 연령층에서 구취의 심리사회적 영향만을 다룬 최초의 SR.
+
+자가보고 구취 유병률 23.1–77.5%(평균 44.7%), 모든 포함 연구에서 불안·우울(SCL-9-R) 증가·OHRQoL 저하(OHIP-14)·사회적 고립·자존감 저하와 일관된 연관성 확인.
+
+의학적·심리적 이중 접근 권고; 이질성이 높고 단면연구가 주를 이뤄 인과관계 규명 불가라는 근거 한계가 있음.
 
 ## 1. Document Information
 

@@ -19,13 +19,21 @@ relations:
     target: karm-2017-lidocaine-epinephrine-200000-third-molar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind prospective RCT (n=100, 50/group, ASA I/II, 18–60y), maxillary posterior extraction via supraperiosteal infiltration: buffered 2% lidocaine/1:100,000 (measured pH 7.3) beat conventional (pH 4.2) on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min) and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01; reinjection rate NS (4% vs 8%, p=0.678).
+Double-blind prospective RCT (n=100, 50/group; ASA I/II; 18–60 y) of supraperiosteal infiltration for maxillary posterior extraction: buffered 2% lidocaine/1:100,000 (measured pH 7.3) vs conventional (pH 4.2) — the largest single-trial in the buffered-LA cluster with pH confirmation.
 
-## 한줄요약
+Buffered lidocaine significantly outperformed conventional on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min), and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01; reinjection rate was non-significant (4% vs 8%, p=0.678).
 
-이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세), 상악 구치 발치 골막상 침윤마취: buffered 2% 리도카인/1:100,000(측정 pH 7.3)이 conventional(pH 4.2) 대비 주사 통증(VAS 2.8±0.7 vs 4.2±0.9)·발현(2.3분 vs 4.7분)·지속(45.8±7.6분 vs 36.4±8.2분) 모두 우수(전부 p<0.01); 재주사율 차이 없음(4% vs 8%, p=0.678).
+Buffering improves injection comfort, speed of onset, and working time in routine maxillary infiltration, but does not rescue failed blocks — for the high-failure SIP scenario, see the buffered-IANB evidence.
+
+## 세줄요약
+
+이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세): 상악 구치 발치(만성 치근단병소) 골막상 침윤마취 — buffered 2% 리도카인/1:100,000(측정 pH 7.3) vs conventional(pH 4.2), 이 buffered-LA 클러스터에서 pH 실측·최대 표본 연구.
+
+Buffered 리도카인이 주사 통증(VAS 2.8±0.7 vs 4.2±0.9)·발현(2.3분 vs 4.7분)·지속(45.8±7.6분 vs 36.4±8.2분) 모두 유의하게 우수(전부 p<0.01); 재주사율 차이 없음(4% vs 8%, p=0.678).
+
+Buffering은 일상적 상악 침윤마취에서 주사 통증 감소·발현 단축·지속 연장에 유효 — 단, 실패 마취 구제 효과는 없으므로 SIP hot-tooth 대응은 별도 근거(IANB 연구) 참조.
 
 ## Summary
 

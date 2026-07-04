@@ -13,11 +13,21 @@ source_collection: external
 tags: [socket-shield, SST, immediate-implant, root-submergence, ridge-preservation, esthetic]
 ---
 
-## One-line Summary
-Systematic review (20 studies, 288 patients, follow-up 3–60 months) of the socket shield technique (SST) with immediate implant placement: 9.5% complication rate and 90.5% complication-free survival, but the evidence base is predominantly case reports of low methodological quality, so long-term predictability cannot be confirmed.
+## Three-line Summary
 
-## 한줄요약
-sr(J Prosthodont Res 2022): 소켓실드 기법 20편(288명, 3-60개월); 합병증 9.5%; 합병증 없는 생존율 90.5%; 증례보고 위주로 근거수준 낮음 — 장기 예측성 불명확.
+Systematic review (20 studies, 288 patients, follow-up 3–60 months) of the socket shield technique (SST) combined with immediate implant placement in the esthetic zone.
+
+Complication rate 9.5% (26/274 cases); complication-free survival 90.5%; 12 of 20 studies rated good quality, but the evidence base is predominantly case reports (14/20).
+
+Long-term predictability cannot be confirmed — high-quality RCT/cohort evidence is lacking and the wide follow-up range (3–60 months) limits interpretation.
+
+## 세줄요약
+
+체계적 고찰 (20편, 288명, 추적 3–60개월): 소켓실드 기법(SST)과 즉시 임플란트 식립의 임상 결과를 분석한 일본 치과보철학회 SR.
+
+합병증 발생률 9.5% (26/274); 합병증 없는 생존율 90.5%; 20편 중 14편이 증례보고로 근거 수준 낮음.
+
+장기 예측성 불확실 — 고질의 RCT·코호트 연구 부재로 SST의 일상적 권고는 시기상조.
 
 ## Summary
 Systematic review (Japan Prosthodontic Society) of 20 studies covering 288 patients treated with the socket shield technique (SST) combined with immediate implant placement, follow-up 3–60 months. Demonstrates feasibility with 9.5% complication rate, but evidence base is predominantly case reports with low methodological quality.

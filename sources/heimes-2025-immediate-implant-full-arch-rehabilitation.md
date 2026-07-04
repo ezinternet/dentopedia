@@ -9,7 +9,7 @@ pdf_filename: heimes-2025-immediate-implant-full-arch-rehabilitation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Int J Prosthodont 2025 Suppl: Narrative review (Mainz/Berlin): full-arch immediate implant placement + restoration — implant survival >97%, success >95%; MBL 0.29–1.48mm over 1–5yr; prosthesis survival >98% despite mechanical complications; QoL improved significantly.
 
 ## 1. Key Results

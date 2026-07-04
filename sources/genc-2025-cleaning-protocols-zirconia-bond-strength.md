@@ -9,7 +9,7 @@ pdf_filename: genc-2025-cleaning-protocols-zirconia-bond-strength.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vitro (J Adhes Dent 2025): 모노리식 지르코니아 타액 오염 후 세정 6종 비교 — 샌드블라스팅+Ivoclean(9.3 MPa) 최우수; 이소프로판올 최열등; 알코올·물·퍼미스 무효.
 
 ## 1. Document Information

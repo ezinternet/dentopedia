@@ -19,13 +19,21 @@ relations:
     target: goldstein-2022-centric-relation-needed-reference-position
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative critical review of ~70 years of literature concluding that the term "centric relation" (CR) is semantically, conceptually and practically flawed and should be abandoned; in healthy dentate patients, maximum intercuspation (MIP) determines the TMJ relationship and is biologically acceptable.
+Narrative critical review surveying ~70 years of dental literature on centric relation (CR), examining recurring definitional changes and their clinical consequences.
 
-## 한줄요약
+The term CR has been repeatedly redefined (from retruded to anterosuperior condylar position), producing persistent confusion that has driven unnecessary CR registrations, condylar-position assessments, and occlusal interventions.
 
-약 70년 문헌을 검토한 서술적 비판 리뷰로, "중심위(CR)" 용어가 의미·개념·실용 모든 면에서 결함이 있어 폐기해야 하며, 건강한 유치악 환자에서는 최대교두감합(MIP)이 턱관절 관계를 결정하고 생물학적으로 수용 가능하다고 결론.
+The authors conclude CR is semantically, conceptually, and practically flawed and should be abandoned; in healthy dentate patients, maximum intercuspation (MIP) determines the TMJ relationship and is biologically acceptable — making routine condylar-position assessment unnecessary.
+
+## 세줄요약
+
+약 70년간의 중심위(Centric Relation, CR) 관련 문헌을 검토한 서술적 비판 리뷰로, 반복적인 정의 변경과 그 임상적 결과를 분석.
+
+CR 용어는 후퇴위에서 전상방 과두위로 수차례 재정의되어 불필요한 CR 채득·과두위 평가·교합 치료를 야기하는 지속적 혼란을 초래.
+
+저자들은 CR이 의미·개념·실용 면에서 결함이 있어 폐기해야 하며, 건강한 유치악 환자에서는 최대교두감합(Maximum Intercuspation, MIP)이 생물학적으로 수용 가능한 기준위라고 결론 — 일상적 과두위 평가 불필요.
 
 ## Summary
 

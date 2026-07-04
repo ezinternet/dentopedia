@@ -14,11 +14,21 @@ source_collection: external
 tags: [smoking-cessation, peri-implant, periodontal, implant-survival, SR, motivational-intervention, MBL]
 ---
 
-## One-line Summary
-Systematic review (PRISMA) of smoking cessation effects on periodontal and peri-implant health: cessation improves periodontal clinical indices and peri-implant outcomes versus continued smoking, with magnitude and time-course of recovery varying — the cessation-side companion to smoking–implant-failure SRs (Naseri 2020, Mustapha 2022, Fan 2024).
+## Three-line Summary
 
-## 한줄요약
-SR (Salerno, Dent J 2022): 흡연 중단의 치주·peri-implant 건강 효과 — cessation은 치주 임상 지표·임플란트 결과 모두 개선; 회복 정도와 시간경과 의존.
+Systematic review (PRISMA, Dent J 2022) of whether smoking cessation translates to improved periodontal clinical indices and peri-implant outcomes compared with continued smoking, examined as the cessation-specific companion to smoking-implant-failure SRs.
+
+Cessation improves both periodontal indices and peri-implant health versus continued smoking; however, the magnitude and time-course of recovery vary across included studies, and cessation interventions were heterogeneous.
+
+Pre- and peri-implant smoking cessation counseling is evidence-supported; the dose-response relationship (partial reduction may also matter) complements findings from the Naseri 2020 and Fan 2024 SR+MAs on smoking and failure risk.
+
+## 세줄요약
+
+PRISMA 체계적 고찰(Dent J 2022): 흡연 중단이 계속 흡연 대비 치주 임상 지표 및 임플란트 주위(Peri-implant) 건강에 미치는 효과 — 흡연·임플란트 실패 SR들의 금연 측 짝 연구.
+
+금연은 지속 흡연 대비 치주 임상 지표·임플란트 주위 결과 모두 개선; 단, 회복 정도와 시간경과는 연구 간 이질적이며 금연 중재 방법도 다양함.
+
+임플란트 식립 전후 금연 상담은 근거 기반 표준 진료에 해당; 부분 감량도 효과 있을 수 있음(Naseri 2020 용량-반응).
 
 ## Summary
 Systematic review examining whether smoking cessation translates to improved periodontal and peri-implant outcomes (versus continued smoking). The evidence supports that cessation improves periodontal indices and peri-implant health, but the magnitude and time-course of recovery varies.

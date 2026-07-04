@@ -14,11 +14,21 @@ source_collection: external
 tags: [critical-appraisal, insadol, zea-mays, periodontal-drug, statistical-validity, korean-clinical-trials, randomization-failure, t-test, kruskal-wallis, evidence-base-critique, korea-univ, mayo-clinic]
 ---
 
-## One-line Summary
-Critical methodological appraisal (Korea University × Mayo Clinic, J Korean Dent Assoc 2015) of the four retrievable Korean clinical trials (1982, 1988, 1991, 1994) cited as evidence for Insadol (titrated unsaponifiable Zea mays L. fraction) in periodontal disease: none provide compelling evidence of effectiveness due to randomization failure, absent sample-size rationale, inappropriate statistical tests, and unclear blinding, with no new trial since 1994 despite the drug's 66.8% Korean market share.
+## Three-line Summary
 
-## 한줄요약
-고려대·메이오 클리닉 비판분석: 인사돌(옥수수 불검화 정량추출물) 임상 효능 근거로 제시된 4건 임상시험(1982·1988·1991·1994) — 무작위배정 실패·표본수 근거 부재·부적절 통계검정·맹검 불명확 등 통계적 타당성 결여; 1994년 이후 20년간 추가 임상시험 부재.
+Critical methodological appraisal (Korea University × Mayo Clinic, J Korean Dent Assoc 2015) auditing the four retrievable Korean clinical trials (1982, 1988, 1991, 1994) supporting Insadol (titrated unsaponifiable Zea mays L. fraction), a drug holding 66.8% of the Korean periodontal-drug market despite no new trial since 1994.
+
+All four trials share the same failures: absent sample-size rationale, no balance check after randomization (1 of 4 randomizations explicitly failed), unclear blinding in 2 of 4, and inappropriate statistical tests (wrong t-test type, ANOVA on n=10/arm without normality verification, missing multiple-comparison correction) in 3 of 4.
+
+None of the four trials provide compelling evidence of effectiveness; Insadol prescribing should acknowledge this 20-year evidence gap, framing the drug as low-cost and low-risk but with unproven clinical benefit — while illustrating key biostatistical pitfalls applicable to all Korean clinical-trial appraisal.
+
+## 세줄요약
+
+고려대 × 메이오 클리닉 비판적 방법론 감사 (JKDA 2015): 인사돌(옥수수 불검화 정량추출물)의 치주질환 효능 근거로 제시된 4건 임상시험(1982·1988·1991·1994) 감사 — 인사돌은 1994년 이후 신규 임상시험 없이 한국 치주약물 시장의 66.8% 점유.
+
+4편 모두 표본수 근거 부재; 무작위배정 후 균형 검정 1/4(그마저 불균형 발견); 2/4 맹검 불명확; 3/4에서 부적절 통계검정(t-test 유형 오류·소표본 ANOVA·다중비교 미보정).
+
+4편 중 어느 것도 설득력 있는 효능 근거 불충족; 20년 증거 공백을 인정하며 인사돌은 저비용·저위험이나 임상 유효성 미입증으로 처방해야 하며, 한국 임상시험 평가 전반에 적용 가능한 생통계 함정 교육 사례.
 
 ## Summary
 This 2015 critical appraisal — co-authored by Korea University Institute of Clinical Dental Research (Choi, Lee, Shin) and Mayo Clinic (Steven E. Eckert) — audits the four retrievable Korean clinical trials (1982, 1988, 1991, 1994) that the Insadol manufacturer cites as evidence of clinical effectiveness for periodontal disease. Despite Insadol holding **66.8% market share** of the Korean periodontal-drug market in 2011, the authors conclude that **none of the four trials provide compelling evidence** of clinical effectiveness for the titrated unsaponifiable Zea mays L. fraction, whether as monotherapy or as adjunct to standard periodontal care. The flaws span the entire methodology pipeline: undefined target population (age ranges 20–66 across trials), no rationale for sample size, no pathophysiological rationale for follow-up duration (1–4 months), randomization failure in 1 of 4 trials and unchecked balance in 3 of 4, unclear blinding in 2 of 4, and inappropriate statistical tests (wrong choice of t-test type, ANOVA on n = 10 per arm without normality verification, missing multiple-comparison correction) in 3 of 4 trials. The paper also flags that no new Insadol trial has been performed since 1994 (a 20-year evidence gap at time of writing).

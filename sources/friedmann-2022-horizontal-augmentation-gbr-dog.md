@@ -13,13 +13,23 @@ source_collection: external
 
 수평 골증대술에서 막 유형(가교 콜라겐 vs 비가교 콜라겐 vs 심낭막)과 이식재 조합이 신생골 형성에 미치는 영향을 무작위 개 모델에서 분리하여 평가 — [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]]가 제안한 막-이식재 조합 원칙을 조직형태계측으로 검증.
 
-## One-line Summary
+## Three-line Summary
+
 
 Randomized dog study (5 beagles, 20 defects, 4 treatment groups) showing DBBM + ribose cross-linked collagen membrane yields significantly greater new bone area than DBBM + native collagen membrane + tacking.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 개 5마리 20개 만성 하악 결손부 무작위 연구 — 리보스 가교 콜라겐막+DBBM이 4핀 고정 비가교 콜라겐막+DBBM보다 신생골 면적이 유의하게 컸음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

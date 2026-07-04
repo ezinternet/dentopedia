@@ -17,13 +17,21 @@ text_filename: bujda-2026-carp-collagen-membrane-gbr-rat-femoral.txt
 
 기존 GBR collagen membrane 동물실험 페이지들이 모두 mammalian(porcine/bovine) 또는 합성 막에 한정돼 있어 fish-derived(어류) collagen 대안에 대한 근거가 비어 있었다. 본 rat femoral defect study(Bujda 2026)는 European carp skin collagen membrane을 standard porcine membrane(Bio-Gide)·bovine xenograft(Bio-Oss)와 직접 비교해 그 공백을 메운다. EDC/NHS 가교 collagen 막을 rat에서 평가한 [[bone-regeneration/park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit]] 및 rat 모델 collagen 막 [[bone-regeneration/verissimo-2014-collagen-membranes-gbr-rat-calvarial]]를 확장하며, "particulate graft에 막 추가 시 비critical-size defect에서 이득 없음"이라는 [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]]의 임상 메시지를 동물 수준에서 보강한다. 동물모델 선택 논거는 [[bone-regeneration/lee-2026-animal-models-bone-regeneration-review]]와 맞물린다.
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (21 Wistar rats, 4×2 mm cortical femoral metaphyseal defects, 4 treatments): a novel European-carp-skin EDC/NHS-crosslinked collagen membrane used ALONE showed a consistent (non-significant) trend toward higher healing scores, more new bone, and smaller residual defect, and was non-irritant throughout; adding Bio-Oss did not improve healing and performed worse than Bio-Oss + Bio-Gide.
+Animal study (21 male Wistar rats, 4×2 mm cortical femoral metaphyseal defects, 4 treatment groups: empty control, carp-collagen membrane alone, Bio-Oss + carp membrane, Bio-Oss + Bio-Gide; euthanized at 4, 12, 16 weeks); evaluated by micro-CT healing score (1–4) and histology (Han et al. 0–40 scale).
 
-## 한줄요약
+The carp-collagen-membrane-alone group trended highest on all healing metrics (non-significant at most time points, but significant at 12-week histology vs Bio-Oss + carp, p=0.020; 5/6 defects ≥90% filled), was non-irritant, and was the only group showing significant temporal healing progression; adding Bio-Oss to the carp membrane did not improve and numerically underperformed vs Bio-Oss + Bio-Gide.
 
-동물실험(Wistar rat 21마리, 대퇴골 4×2 mm 피질골 결손, 4개 처치): 새 잉어피부 EDC/NHS 가교 콜라겐 막을 단독 사용 시 치유점수·신생골·잔존결손에서 일관된(통계적 비유의) 우세 경향과 우수한 생체적합성(비자극성)을 보였으나, Bio-Oss와 병용 시 이득이 없고 Bio-Oss+Bio-Gide보다 열등했다 — 비critical-size 모델 한계.
+The model used non–critical-size defects (substantial spontaneous healing in controls by 16 weeks), which compressed between-group separation; results require validation in large-animal critical-size or true augmentation models before clinical translation.
+
+## 세줄요약
+
+Wistar rat 21마리 대퇴골 4×2 mm 피질골 결손 동물실험(4처치: 빈결손 대조, 잉어피부 EDC/NHS 가교 콜라겐막 단독, Bio-Oss+잉어막, Bio-Oss+Bio-Gide; 4·12·16주 평가); micro-CT 치유점수(1–4)·조직계측(Han 0–40)으로 평가.
+
+잉어막 단독군이 모든 지표에서 가장 높은 경향(12주 조직계측에서 Bio-Oss+잉어막 대비 유의, p=0.020; 5/6 결손 ≥90% 충전), 생체적합성 우수(비자극성); Bio-Oss를 잉어막과 병용하면 이득 없고 Bio-Oss+Bio-Gide보다 열등.
+
+비critical-size 모델(16주까지 빈결손도 상당히 자연 치유)로 군간 차이가 압축됨 — 임상 일반화 전에 대형동물·임계크기 결손·실제 골증대 모델에서 검증 필요.
 
 ## 1. Document Information
 

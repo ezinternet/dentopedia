@@ -10,7 +10,7 @@ pdf_filename: nobre-2024-exploring-botulinum-toxin-impact-masseter.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Triple-blinded RCT (n=26 women, same cohort as the temporalis-focused companion paper) showing BoNT-A is effective for masseter hypertrophy but **repeated injections cause persistent decreases in masseter thickness, EMG activity, and masticatory performance** — i.e. clinically relevant functional adverse effects.
 
 ## 1. Document Information

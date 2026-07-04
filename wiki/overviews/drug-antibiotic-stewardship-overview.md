@@ -49,12 +49,21 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - **국제 처방 실태 조사 (prescribing-practice surveys) 코러버레이션 (2026 신규 3편)**: 실제 임상에서 가이드라인 대비 과처방이 광범위하다는 근거. 싱가포르 (Low 2026, 치과의사 280명) — 예방적 항생제 (antibiotic prophylaxis) 를 사랑니 발치 후 71.2%·임플란트 식립 전 73.5%가 과처방, 치주·구강외과 적정 처방률 최저 (30.4%·34.0%). 이란/시라즈 (Nazari 2026, 일반의·전공의 103명) — 국소 급성 근단농양에 51.5%·면역저하 환자에 69.9%가 부적절 처방, 지식↔수행 괴리.
 > - 독일 (Kinzel 2026, 치과의사 537명) — 예방 처방은 전반적으로 절제됐으나 불일치: 심내막염 위험군·면역억제군만 양성 trend, 당뇨·관절치환군은 음성 consensus. 네 조사 모두 1차약 아목시실린 (Amoxicillin, AMX), 페니실린 알레르기 시 클린다마이신 (Clindamycin) 선택 — 약물 선택은 가이드라인 준수하나 적응증 판단에서 과처방. 세 조사 공통: 추가 교육 요구 88%대, 가이드라인 배포만으로는 불충분 → 감사+피드백 (Audit and Feedback, A&F)·모바일 앱·임상 의사결정 지원 (Clinical Decision Support, CDS) 필요.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 21 papers (8 SR-MA, 3 umbrella reviews, 2 guidelines/position, 2 RCTs, 4 prescribing-behavior, 2 narrative) on dental antibiotic stewardship. Core thesis: the first principle is restrictive prescribing — infective-endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups, simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane), and single perioperative dosing suffices for most oral surgery (>24 h extension only raises antimicrobial resistance). Clinical takeaway: amoxicillin is first-line, clindamycin avoided; local antibiotic delivery is preferred over systemic for deep periodontal pockets; audit-and-feedback/clinical-decision-support are the most effective stewardship interventions.
+Synthesis of 21 papers (8 SR+MA, 3 umbrella reviews, 2 guidelines/position, 2 RCTs, 4 prescribing-behavior surveys, 2 narrative) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
 
-## 한줄요약
-치과 항생제 처방의 1차 원칙은 **제한 (restrictive)** — 감염성 심내막염 (Infective Endocarditis, IE) 고위험군·면역저하·IV BP·방사선 두경부·매복 발치·임플란트 일부에 한정. 단순 발치·치근단치주염(Apical Periodontitis)에는 prophylaxis 효과 없음. 1차 선택은 Amoxicillin (최저 부작용·치명률), Clindamycin은 회피. 치주 깊은 낭에는 전신 대신 국소 전달 항생제 우선.
+Among drug choices, amoxicillin is first-line (adverse-event rate 21.5/million, fatality 0.1/million) and clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); local antibiotic delivery equals 7-day systemic course in periodontal outcomes while minimizing systemic AMR burden (Milinkovic 2025 RCT; Aimetti 2025 RCT NNT=2.73); prescribing-behavior surveys from Singapore, Iran, and Germany (2026) confirm widespread over-prescribing against guidelines — knowledge–performance gap.
+
+Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (95% CI 33–86%; Méndez-Romero 2025 SR+MA, 23 studies); education alone is insufficient; clinical decision support (CDS) tools are most effective; stewardship 5 rules for immediate clinic implementation: (1) no prophylaxis for simple extraction, (2) implant: preoperative single 2 g only, (3) no broad-spectrum antibiotics for apical periodontitis, (4) avoid clindamycin as first-line, (5) deep periodontal pockets: local delivery preferred over systemic.
+
+## 세줄요약
+
+치과 항생제 21편(SR+MA 8·umbrella 3·가이드라인/position 2·RCT 2·처방 행태 4·narrative 2) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
+
+약물 선택: 아목시실린(Amoxicillin) 1차(부작용 21.5/백만·치명 0.1/백만), 클린다마이신(Clindamycin) 회피(치명 2.9/백만, 대부분 C. difficile; Thornhill 2019 NHS 7년); 치주 깊은 낭에는 국소 전달 항생제(Local Delivery, LD)가 7일 전신 코스와 동등하고 전신 AMR 최소화(Milinkovic 2025·Aimetti 2025 RCT NNT=2.73); 싱가포르·이란·독일 2026 처방 행태 조사 — 가이드라인 대비 과처방 광범위, 지식↔수행 괴리.
+
+감사+피드백(Audit and Feedback, A&F) 중재가 부적절 처방 70% 감소(95% CI 33–86%; Méndez-Romero 2025 SR+MA 23편); 교육 단독 불충분; 임상 의사결정 지원(Clinical Decision Support, CDS) 가장 효과적; 즉시 적용 5룰: ①단순 발치 예방 처방 폐지 ②임플란트 술전 단일 2g ③치근단치주염(Apical Periodontitis, AP)에 광범위 항생제 금지 ④클린다마이신 1차 회피 ⑤치주 깊은 낭 국소 전달 우선.
 
 ---
 

@@ -17,13 +17,21 @@ text_filename: fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR, 37 observational studies) of oral-fluid bone-turnover biomarkers across three jawbone diseases: GCF markers IL-1β, sclerostin, OPG, and IL-34 dominate (mainly periodontitis and osteoporosis), while saliva markers OC, IL-1β, TNF-α, IL-6, OPG, and MMP-9 span periodontitis, MRONJ, and osteoporosis — many overlap, positioning GCF/saliva as non-invasive bone-turnover diagnostics.
+Scoping review (PRISMA-ScR, 37 observational studies, 10-year search August 2014–2024) mapping oral-fluid bone-turnover biomarkers across periodontitis, MRONJ, and osteoporosis in GCF and saliva.
 
-## 한줄요약
+GCF key markers are IL-1β, sclerostin, OPG, and IL-34 (mainly from periodontitis/osteoporosis studies); saliva key markers are OC, IL-1β, TNF-α, IL-6, OPG, and MMP-9 spanning all three diseases; no human GCF bone-turnover data exist for MRONJ.
 
-턱뼈 골대사 질환 3종에 걸친 구강액 골대사 표지자를 정리한 스코핑 리뷰 (PRISMA-ScR, 관찰연구 37편). 치은열구액(GCF)에서는 IL-1β·sclerostin·OPG·IL-34가 주요 표지자(주로 치주염·골다공증)이고, 타액에서는 OC·IL-1β·TNF-α·IL-6·OPG·MMP-9가 치주염·약물관련 턱뼈괴사(MRONJ)·골다공증에 걸쳐 나타난다. 다수가 GCF·타액 양쪽에서 겹쳐 비침습 골대사 진단 도구로서의 가능성을 시사한다.
+GCF and saliva hold promise as non-invasive bone-turnover diagnostics, but all markers are systemic rather than oral-cavity-exclusive, limiting disease-specific diagnostic precision; MRONJ GCF studies in humans are an unmet gap.
+
+## 세줄요약
+
+스코핑 리뷰 (PRISMA-ScR, 관찰연구 37편, 검색 2014–2024년 8월): 치주염·약물관련 턱뼈괴사(MRONJ)·골다공증 3개 질환에 걸쳐 치은열구액(GCF)과 타액의 골대사 표지자를 정리.
+
+GCF 핵심 표지자는 IL-1β·스클레로스틴(sclerostin)·OPG·IL-34(주로 치주염·골다공증); 타액 핵심 표지자는 OC·IL-1β·TNF-α·IL-6·OPG·MMP-9(3개 질환 모두); MRONJ에 대한 인체 GCF 골대사 연구는 전무.
+
+GCF·타액은 비침습 골대사 진단 도구로서 가능성이 있으나, 모든 표지자가 전신성으로 질환 특이 진단 정밀도가 낮고, 인체 MRONJ GCF 연구는 미개척 분야로 남아 있다.
 
 ## Summary
 

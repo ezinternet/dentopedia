@@ -10,7 +10,7 @@ pdf_filename: wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자, 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600mg vs ibuprofen 600mg + APAP 1000mg — 병용군이 단독 대비 통증 감소·escape medication 사용 감소 trend 보임.
 
 ## 1. Document Information

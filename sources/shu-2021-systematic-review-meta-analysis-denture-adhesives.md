@@ -13,13 +13,23 @@ source_collection: external
 
 의치접착제 (Denture Adhesive, DA)의 임상적 효능에 대한 체계적 근거가 필요하여 수집. 기존 wiki의 완전의치 카테고리에 OVD/VD 관련 논문은 있으나 의치접착제 관련 SR+MA는 없었음. 본 논문은 39개 RCT/CCT를 메타분석하여 DA의 유지력·저작력·저작효율 개선 효과를 정량화한 최초의 RCT/CCT 한정 SR+MA로, [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]]와 같이 완전의치 임상 의사결정을 보완한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (39 studies, n=~1200) demonstrating that denture adhesives significantly improve retention (SMD 1.34), bite force (SMD 0.98), and masticatory performance (SMD 0.72) in complete denture wearers.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰 및 메타분석 (39개 연구): 의치접착제는 완전의치 착용자의 유지력(SMD 1.34), 최대교합력(SMD 0.98), 저작효율(SMD 0.72)을 유의하게 향상시킴.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

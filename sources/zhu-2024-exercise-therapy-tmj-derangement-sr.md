@@ -9,7 +9,7 @@ pdf_filename: zhu-2024-exercise-therapy-tmj-derangement-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review on exercise therapy after surgical/interventional treatment of TMJ internal derangement (악관절 내장증); finds postoperative exercise significantly improves MMO and reduces pain, supporting structured rehabilitation protocols.
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: lim-2022-immediate-implant-gbr-sctg-dog.txt
 
 The clinical SR/MAs on immediate-implant soft-tissue grafting ([[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]], [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]) consistently favor SCTG but lack histologic/histomorphometric mechanism for *why* and for *how SCTG compares head-to-head with GBR and with their combination*. This randomized preclinical canine study provides the missing histometric layer — directly comparing GBR vs SCTG vs GBR+SCTG vs control on the same animals — and adds the counter-intuitive finding that combining the two is not additive.
 
-## One-line Summary
+## Three-line Summary
+
 
 Randomized canine study (5 dogs, 4 sites each: GBR / SCTG / GBR+SCTG / control, 4-month non-submerged healing) — SCTG alone gave the greatest peri-implant mucosa height and thickness at/above the implant shoulder, GBR worked only below the shoulder, and combining GBR+SCTG was the *worst*, not additive.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 무작위 개 실험 (개 5마리, 마리당 4부위: GBR / SCTG / GBR+SCTG / 대조군, 4개월 비침수 치유) — 즉시식립에서 결합조직이식(SCTG) 단독이 임플란트 어깨 높이·두께에 가장 유리했고, 골유도재생(GBR)은 어깨 하방에서만 효과가 있었으며, GBR+SCTG 병용은 오히려 가장 불리해 더하기 효과가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

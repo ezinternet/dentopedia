@@ -16,13 +16,23 @@ text_filename: heo-2022-omega-3-fatty-acids-periodontitis-ma.txt
 
 The wiki's periodontics cluster covers mechanical (SRP/GBT) and antimicrobial adjuncts ([[wiki/periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]], [[wiki/periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]], [[wiki/periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]]) but held **no page on host-modulation / nutraceutical adjuncts** — the omega-3 PUFA and CoQ10 family a patient typically asks about as "gum supplements." This Heo 2022 JCP meta-analysis (13 RCTs) is the cited source behind the omega-3 claim and fills that gap. It directly contrasts with the EFP stage I–III guideline ([[wiki/periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]]), which issued a Grade A recommendation *against* omega-3 PUFA as an SRP adjunct on a smaller evidence base — making the guideline-vs-newer-MA conflict the key teaching point. Ingested as the omega-3 anchor of the periodontal-adjunct supplement evidence map.
 
-## One-line Summary
+## Three-line Summary
 
-Meta-analysis of 13 RCTs: omega-3 fatty acid intake (supplement or diet) as an intervention in periodontitis gave statistically significant PPD reduction (−0.44 mm), CAL gain (−0.51 mm), and BOP reduction (−9.45%); low risk of bias, no publication bias.
 
-## 한줄요약
+Meta-analysis of 13 RCTs: omega-3 fatty acid intake (supplement or diet) as an intervention in periodontitis gave statistically significant PPD reduction (−0.44 mm), CAL gain (−0.51 mm), and BOP reduction (−9.45%);
+
+low risk of bias, no publication bias.
+
+(incomplete)
+
+## 세줄요약
+
 
 13편 RCT 메타분석 — 오메가-3 지방산(보충제·식이)이 치주염에서 통계적으로 유의한 치주낭 깊이 감소(−0.44 mm), 임상부착수준 획득(−0.51 mm), 탐침시 출혈 감소(−9.45%)를 보였고, 비뚤림 위험 낮고 출판 비뚤림 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

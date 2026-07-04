@@ -10,7 +10,7 @@ pdf_filename: kastel-2019-smartpeg-torque-isq-rfa.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In vitro study confirming that hand-tightening SmartPegs (2–11 Ncm) produces ISQ values statistically equivalent to machine tightening (2–6 Ncm); manual RFA measurement is reliable.
 
 ## 1. Document Information

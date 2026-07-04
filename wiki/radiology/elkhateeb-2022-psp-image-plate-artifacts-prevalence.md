@@ -20,13 +20,21 @@ relations:
     target: lingam-2023-common-errors-subjective-quality-panoramic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective audit (World J Clin Cases 2022, n=50,000 intraoral PSP radiographs, Riyadh): 7.1% required retakes for image artifacts, of which periapical images were 80.8%; operator errors dominated (70.4% of retakes; cone cut the single most common at 39.5%), followed by plate errors (bite marks 40.3%) and scanning errors (delayed scanning 39.9%), with near-perfect reader agreement (kappa 0.99).
+Retrospective audit of 50,000 intraoral PSP (photostimulable phosphor) digital radiographs taken over 2 years at a Riyadh university clinic (April 2018–April 2020), classified by two OMF radiologists (kappa 0.99).
 
-## 한줄요약
+7.1% of images required retakes for artifacts; periapical images accounted for 80.8% of retakes; operator errors dominated (70.4%: cone cut 39.5%), followed by plate errors (bite marks 40.3%) and scanning errors (delayed scanning 39.9%).
 
-후향적 감사(World J Clin Cases 2022, 구내 광자극형광판(Photostimulable Phosphor plate, PSP) 영상 5만 장, 리야드): 7.1%가 artifact로 재촬영, 그중 치근단(Periapical, PA) 영상이 80.8%. 술자오류가 재촬영의 70.4%(단일 최다 cone cut 39.5%), 이어 판오류(교흔 bite mark 40.3%)·스캐닝오류(지연 스캐닝 39.9%); 판독자 일치 kappa 0.99.
+Targeted training for cone-cut prevention, prompt scanning (<10 min), and plate-integrity protocols are the highest-yield interventions to reduce avoidable retakes and radiation dose.
+
+## 세줄요약
+
+리야드 대학병원 구내 광자극형광판 (Photostimulable Phosphor, PSP) 디지털 방사선사진 5만 장 (2018년 4월–2020년 4월) 후향적 감사 — 구강악안면방사선과 의사 2인 분류 (kappa 0.99).
+
+7.1%가 아티팩트로 재촬영 필요; 치근단 (Periapical, PA) 영상이 재촬영의 80.8%; 술자 오류 우세 (70.4%: cone cut 39.5%), 이어 판 오류 (교흔 bite mark 40.3%)·스캐닝 오류 (지연 스캐닝 39.9%).
+
+Cone-cut 예방 교육·즉시 스캐닝 (<10분)·판 보전 프로토콜이 불필요한 재촬영·피폭 감소에 가장 효과적인 개입.
 
 ## Summary
 

@@ -13,11 +13,19 @@ source_collection: external
 tags: [zirconia, universal-adhesive, Single-Bond-Universal, Z-prime-plus, long-term, 12-month, water-degradation, bond-strength]
 ---
 
-## One-line Summary
-In vitro (CCD 2023): 4 universal adhesives vs Z-Prime Plus for long-term zirconia bonding — 24-hour values similar (SBU ≈ Z-Prime); all groups showed significant bond strength reduction after 12-month water storage; no material resisted hydrolytic degradation.
+## Three-line Summary
+In vitro study (CCD 2023) comparing four universal adhesives (Single Bond Universal, All Bond Universal, Peak Universal Bond, Ambar Universal) versus zirconia-specific Z-Prime Plus for tensile bond strength to sandblasted zirconia at 24 hours and after 12 months of water storage.
 
-## 한줄요약
-in-vitro(CCD 2023): 범용 접착제 4종 vs Z-Prime Plus 지르코니아 장기 결합 — 24시간은 SBU≈ZP; 12개월 수중보관 후 전군 유의하게 감소; 어떤 재료도 수분 열화 저항 못함.
+At 24 hours, Single Bond Universal and Ambar Universal matched Z-Prime Plus (~19–21 MPa); after 12-month water aging, all materials lost approximately 65–90% of initial bond strength — no adhesive material resisted hydrolytic degradation at 1 year.
+
+Current bonding protocols for zirconia may be insufficient for long-term durability in moist oral environments, and the 12-month water storage model should be a standard endpoint for evaluating any new bonding strategy.
+
+## 세줄요약
+in-vitro(CCD 2023): 범용 접착제 4종(SBU·ABU·Peak·Ambar) vs 지르코니아 전용 Z-Prime Plus, 사블라스팅 지르코니아에 대한 인장결합강도 — 24시간 및 12개월 수중보관 후 비교.
+
+24시간: SBU·Ambar Universal ≈ Z-Prime Plus(~19–21MPa); 12개월 수중보관 후 전군 결합강도 약 65–90% 손실 — 어떤 재료도 수분 열화 저항 못함.
+
+현재 지르코니아 접착 프로토콜은 구강 내 장기 내구성에 불충분할 수 있으며, 12개월 수중보관이 신규 접착 전략 평가의 표준 종점이 되어야 함.
 
 ## Summary
 In vitro study comparing four universal adhesives (Single Bond Universal, All Bond Universal, Peak Universal Bond, Ambar Universal) against zirconia-specific Z-Prime Plus for tensile bond strength to sandblasted zirconia, tested at 24 hours and 12 months water storage. Critical finding: all materials showed significant bond strength loss at 12 months — challenging the long-term reliability of any current bonding protocol.

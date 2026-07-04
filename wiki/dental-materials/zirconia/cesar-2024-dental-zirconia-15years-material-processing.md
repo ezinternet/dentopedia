@@ -18,13 +18,21 @@ relations:
     target: ban-2023-dental-zirconia-types-development-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (5102 articles, Web of Science) covering 15 years of dental zirconia evolution from monolithic 3Y-TZP to composition-gradient multilayer 5Y-PSZ, with synthesis of powder technology, sintering, translucency-strength trade-offs, and clinical indication expansion.
+Narrative review (Dental Materials 2024; 5,102 Web of Science articles, 31 research groups) covering 15 years (2008–2023) of dental zirconia evolution from high-alumina 3Y-TZP to composition-gradient multilayer 5Y-PSZ, synthesizing powder technology, sintering parameters, and translucency-strength trade-offs.
 
-## 한줄요약
+Generational benchmarks: 1st-gen 3Y-TZP 900–1200 MPa (opaque, core only) → 4Y-PSZ 700–900 MPa (>30% cubic, high translucency) → 5Y-PSZ 600–700 MPa (>50% cubic, very high translucency); composition-gradient multilayer blocks now represent the clinical standard, with inter-layer flaw problems resolved by newer powder compaction technology.
 
-5102편 문헌 분석 기반 서술적 고찰로, 2008–2023년 치과용 지르코니아의 3Y-TZP에서 다층 조성경사형 5Y-PSZ까지 15년 진화 과정·분말기술·소결·투광성-강도 상충관계를 총괄한다.
+High-speed sintering (30–90 min vs ~8 h standard) and 3D-printed zirconia need further development for consistent clinical reliability; routine HIP post-sintering improves reliability but is not yet standard practice.
+
+## 세줄요약
+
+서술적 고찰(Dental Materials 2024; Web of Science 5,102편, 31개 연구 그룹): 2008–2023년 치과용 지르코니아의 고알루미나 3Y-TZP에서 조성경사형 다층 5Y-PSZ까지 15년 진화를, 분말 기술·소결 매개변수·투광성-강도 상충관계 중심으로 종합.
+
+세대별 기준치: 1세대 3Y-TZP 900–1,200 MPa(불투명, 코어 전용) → 4Y-PSZ 700–900 MPa(입방정 >30%, 고투명) → 5Y-PSZ 600–700 MPa(입방정 >50%, 매우 고투명); 조성경사형 다층 블록이 현재 임상 표준이며, 구세대 층간 결함 문제는 신규 분말 압축 기술로 해결.
+
+고속 소결(30–90분, 표준 ~8시간 대비) 및 3D 프린팅 지르코니아(Zirconia)는 일관된 임상 신뢰성을 위한 추가 개발 필요; 소결 후 열간등방압성형(HIP)은 신뢰성 향상에 효과적이나 아직 임상 표준 아님.
 
 ## Summary
 

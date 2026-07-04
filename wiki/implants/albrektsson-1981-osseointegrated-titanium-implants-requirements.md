@@ -13,13 +13,21 @@ source_collection: external
 tags: [osseointegration, titanium, bone-implant-interface, branemark, loading-protocol, landmark]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Landmark 1981 clinical/ultrastructural paper (n=38 stable titanium screws retrieved from 18 patients; ~3000-implant, 400-patient base) that defined osseointegration as direct bone-to-implant contact and codified the **six prerequisites** for achieving it — implant material, design, finish, bone status, surgical technique, and loading conditions.
+Landmark 1981 narrative-review/clinical paper drawing on ~3,000 titanium implants (400 patients, up to 15-year follow-up) with ultrastructural analysis of 38 stable screws retrieved from 18 patients, providing the first TEM of an intact human bone-implant interface.
 
-## 한줄요약
+Osseointegration was defined as direct living bone-to-implant contact without interposed fibrous tissue; five-year jaw-bridge survival was ~100% (mandible) and ~95% (maxilla); the titanium oxide layer (~100 Å) was proposed to enable direct bone bonding.
 
-골유착(osseointegration)을 직접 골-임플란트 접촉으로 정의하고 이를 달성하기 위한 6대 전제조건(재료·디자인·표면처리·골 상태·외과적 술식·하중 조건)을 처음 체계화한 1981년 기념비적 임상·초미세구조 논문 (환자 18명에서 회수한 안정 티타늄 스크류 38개; 약 3000 임플란트·400명 환자 기반).
+The paper's lasting contribution is the **six prerequisites for osseointegration** (implant material, design, finish, bone status, surgical technique, loading conditions) — the conceptual scaffold for all modern implant stability, surface, and loading research.
+
+## 세줄요약
+
+1981년 기념비적 논문 — 약 3,000개 티타늄 임플란트(400명, 최장 15년), 환자 18명에서 회수한 안정 스크류 38개 초미세구조 분석, 최초의 인간 골-임플란트 계면 TEM 제공.
+
+골유착(Osseointegration)을 섬유조직 없는 직접 골-임플란트 접촉으로 정의; 5년 하악 브릿지 생존율 ~100%, 상악 ~95%; 티타늄 산화막(~100 Å)이 직접 골결합 가능하게 한다고 제안.
+
+6대 골유착 전제조건(재료·디자인·표면·골 상태·외과 술식·하중 조건) 체계화 — 현대 모든 임플란트 안정성·표면·부하 연구의 개념적 토대.
 
 ## Summary
 

@@ -16,13 +16,21 @@ text_filename: nemec-2026-clear-aligner-patient-needs-expectations.txt
 
 The existing `orthodontics/clear-aligner/` collection (26 papers) is dominated by biomechanics, efficacy-vs-fixed, and adverse-effect systematic reviews — none directly assess what patients *want* and *expect* before starting clear aligner therapy (CAT). This prospective cohort study fills that patient-perspective gap with a structured, prospectively-collected pre-treatment questionnaire (n=82), complementing the treatment-outcome focus of [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] with data on patient psychology, motivation, and willingness-to-compromise that shapes informed consent and case selection conversations.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort study (n=82) using a 32-item VAS questionnaire found that patients seeking clear aligner therapy have very high, largely inflexible expectations regarding aesthetics, treatment predictability, and outcome durability, and are unwilling to compromise on outcome even for reduced cost or treatment time.
+Prospective cohort study (n=82 Invisalign patients, Vienna, September 2019–July 2022) using a 32-item VAS questionnaire organized into 5 factor-analysis-derived categories (Limitations, Second Opinion, Efficiency/Predictability, Willingness to Compromise, Quality of Treatment); 74.4% female, mean age 35±12 years.
 
-## 한줄요약
+Patients placed very high importance on preventing future problems (9.1/10), treatment predictability (8.6), and outcome durability ≥5 years (8.7) or lifetime (8.8); willingness-to-compromise scores were uniformly low (2.1–2.6/10) — patients were unwilling to accept an inferior outcome for lower cost or shorter treatment time.
 
-전향적 코호트 연구(n=82)로 32문항 VAS 설문을 사용해 분석한 결과, 투명교정장치(clear aligner therapy, CAT) 희망 환자들은 심미성·치료 예측가능성·결과 지속성에 대해 매우 높고 타협 불가능한 기대를 가지고 있었으며, 비용이나 치료기간 단축을 위해 치료 결과의 질을 양보할 의사는 거의 없었다.
+The core questionnaire is non-validated (Cronbach's α as low as 0.38 for one category), subgroup analyses were uncorrected for multiple testing, and this is the baseline/pre-treatment report of a larger ongoing prospective series — findings are hypothesis-generating for informed consent planning rather than definitive benchmarks.
+
+## 세줄요약
+
+전향적 코호트 연구 (n=82, 빈 Invisalign 환자, 2019–2022) — 5개 요인분석 카테고리 (제한사항·제2의견·효율·타협의향·치료질)의 32문항 VAS 설문; 여성 74.4%, 평균 나이 35±12세.
+
+미래 문제 예방 (9.1/10)·치료 예측가능성 (8.6)·결과 지속성 ≥5년 (8.7) 또는 평생 (8.8)에 매우 높은 중요도를 부여; 타협 의향 점수는 균일하게 낮음 (2.1–2.6/10) — 비용 절감이나 치료 기간 단축을 위한 결과 품질 양보 거부.
+
+핵심 설문지가 비검증(일부 카테고리 Cronbach's α=0.38)이고 하위집단 분석이 다중검정 보정 없음; 이 논문은 더 큰 전향적 연구의 기저치(치료 전) 보고로, 결과는 사전 동의(Informed Consent) 계획의 가설 생성 수준임.
 
 ## 1. Document Information
 

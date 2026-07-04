@@ -9,7 +9,7 @@ pdf_filename: taha-2017-mta-pulpotomy-mature-permanent-carious.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 성인 영구치 우식 노출 치수에 MTA full pulpotomy 적용: 52개 치아, 2년 성공률 ~80% (임상적 성공 기준).
 
 ## 1. Document Information

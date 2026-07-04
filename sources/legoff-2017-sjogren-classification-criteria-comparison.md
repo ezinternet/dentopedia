@@ -9,7 +9,7 @@ pdf_filename: legoff-2017-sjogren-classification-criteria-comparison.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 pSS 의심 환자에서 2002 AECG vs 2016 ACR/EULAR 기준 비교 + 침샘 초음파(SGUS)의 부가가치 평가.
 
 ## 1. Document Information

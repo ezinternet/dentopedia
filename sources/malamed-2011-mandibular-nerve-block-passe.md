@@ -16,13 +16,23 @@ text_filename: malamed-2011-mandibular-nerve-block-passe.txt
 
 [[wiki/local-anesthesia/kim-2016-systematic-review-cervical-plexus-accessory]]·[[wiki/local-anesthesia/stein-2007-sensory-innervation-mandibular-teeth-nerve]]·[[wiki/local-anesthesia/filo-2015-frequency-anatomy-retromolar-canal-implications]] 등 개별 부가신경 경로 논문들과 별개로, IANB 고실패율의 **비신경-부가 원인**(피질골 두께, 연조직 두께에 따른 바늘 편향, 신경 위치 파악의 어려움)까지 포괄적으로 정리한 JADA supplement 서론 논문 — accessory innervation을 여러 원인 중 하나로 자리매김시켜준다.
 
-## One-line Summary
+## Three-line Summary
+
 
 JADA supplement introduction: reviews why the standard inferior alveolar nerve block (IANB) has a high failure rate (e.g., 81% in lateral incisors) — cortical bone thickness, soft-tissue-thickness-driven needle deflection, difficulty locating the nerve, and accessory innervation — framing the case for alternative mandibular anesthesia techniques.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 JADA supplement 서론: 표준 하치조신경전달마취(IANB)의 높은 실패율(예: 측절치 81%) 원인 — 피질골 두께, 연조직 두께로 인한 바늘 편향, 신경 위치 파악의 어려움, 부가신경 지배 — 을 정리하며 대안적 하악마취 기법의 필요성을 제기.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

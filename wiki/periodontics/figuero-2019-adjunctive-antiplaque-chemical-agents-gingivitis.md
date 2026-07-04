@@ -14,13 +14,21 @@ pdf_filename: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.txt
 tags: [chlorhexidine, essential-oils, mouthwash, NMA, gingivitis, anti-plaque]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR + NMA (53 RCTs, n=8,457) comparing anti-plaque agents for gingivitis: essential oils rank highest for GI reduction; CHX ≥0.10% and triclosan-copolymer are effective; CHX efficacy threshold at 0.10% concentration.
+SR and network meta-analysis (53 RCTs, n=8,457) comparing anti-plaque agents (mouthrinses and dentifrices) for gingivitis over ≥6 months of home use.
 
-## 한줄요약
+Essential oils ranked highest for gingival index reduction; CHX ≥0.10% and triclosan-copolymer were effective; all active agents were superior to placebo, but head-to-head differences were mostly non-significant.
 
-SR + 네트워크 MA (53 RCT, 8,457명) — 가글류 치은염 감소 순위: 에센셜오일 > CHX ≥0.10% ≈ triclosan; CHX 유효 농도 임계값 0.10%로 확인.
+CHX ≥0.10% is confirmed as the effective concentration threshold; below 0.10% evidence is insufficient, and essential oils offer comparable efficacy without CHX staining side effects for long-term use.
+
+## 세줄요약
+
+SR + 네트워크 메타분석(53 RCT, n=8,457명) — 가글류 및 치약의 치은염 감소 효능을 6개월 이상 가정 사용 기준으로 비교한 연구.
+
+치은지수(GI) 감소 순위는 에센셜오일 > triclosan-copolymer > CHX ≥0.10% > CPC; 활성 제제 간 통계적 유의차는 대부분 없었지만 모두 위약 대비 유의하게 우수.
+
+CHX 유효 농도 임계값은 ≥0.10%로 확인됐으며, 에센셜오일은 유사한 효능을 착색 부작용 없이 제공해 장기 사용 대안으로 고려 가능하다.
 
 ## Summary
 

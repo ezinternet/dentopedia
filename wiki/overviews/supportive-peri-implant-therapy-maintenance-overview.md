@@ -39,11 +39,21 @@ relations:
 > - 보조요법(Mojaver 2025): 광역동 항균치료(antimicrobial Photodynamic Therapy, aPDT)만 기계적 debridement 대비 추가 PD 감소(~0.6~0.8 mm)를 반복 입증 — 레이저·성장인자 겔은 일관된 추가 이득 없음.
 > - 근거 한계: 4편 모두 메타분석 부재(이질성/저비뚤림 연구 부족), 전신질환 보고 빈약(Mojaver — 흡연 정량 20%·당뇨 8%만). 임상 takeaway: ① 고정 연 1회 recall 폐기, **위험도 기반 3~12개월** ② 탐침·%BoP·방사선으로 stability criteria 충족 여부 측정 ③ full-arch는 6개월 OH + ≥연 1회 보철 제거 ④ 흡연·당뇨는 더 잦게 — [[overviews/peri-implantitis-management-overview]]의 *치료*에 대응하는 *예방·유지* 축.
 
-## One-line Summary
-Synthesis of 4 papers (2 SRs, 2 narrative/clinical reviews): supportive peri-implant therapy (SPiT) works, but only as **individualized risk-based recall** rather than a fixed annual schedule — diagnostic monitoring (probing, %BoP, radiographs) should compute the recall interval (3–12 months), which then attenuates disease (PD −1.0–1.5 mm, BoP −10–25 pp, 40–70% lower peri-implantitis incidence in adherent patients); full-arch fixed prostheses are the hardest case (6-month OH + ≥annual prosthesis removal); the evidence base is consistent in direction but heterogeneous (no meta-analysis, few low-RoB studies).
+## Three-line Summary
 
-## 한줄요약
-4편 종합(SR 2·내러티브/임상 2): 지지 임플란트주위 치료(SPiT)는 효과가 있으나 고정 연 1회가 아닌 **위험도 기반 개별화 recall**이라야 한다 — 진단 측정(탐침·%BoP·방사선)이 recall 주기(3~12개월)를 산출하고 그 recall이 질환을 늦춤(PD −1.0~1.5 mm, BoP −10~25%p, 순응 환자 임플란트주위염 40~70%↓); full-arch는 6개월 OH + ≥연 1회 보철 제거; 근거는 방향 일관하나 이질성 커 메타분석 불가.
+Synthesis of 4 papers (2 SRs, 2 narrative/clinical reviews) on supportive peri-implant therapy (SPiT): Mojaver 2025 (25-study SR, 9 RCT + 13 cohort + 3 case-control), Lanzetti 2024 (11-study PRISMA SR on full-arch), Ramseier 2024 (narrative review, 883 patients / 11,842 SPT visits), and Barclay 2026 (clinical framing).
+
+Risk-based SPiT outperforms both fixed-interval and no maintenance: PD −1.0–1.5 mm, BoP −10–25 percentage points, bone loss ≤1 vs ~1.5 mm (≥24 months), 40–70% lower peri-implantitis incidence/implant loss in adherent vs non-adherent patients (Mojaver 2025); implant probing force must be ≤0.15 N (raising to 0.25 N inflates BoP by +13.7%); recall interval algorithm (3–12 months) computed from residual PPD, %BoP, smoking, and diabetes (Ramseier 2024, perio-tools.com/spt); full-arch fixed prostheses: professional OH every 6 months + prosthesis removal ≥1×/year (Lanzetti 2024 default).
+
+The evidence is consistent in direction but heterogeneous (no meta-analysis possible, zero low-RoB studies in Lanzetti, poor comorbidity reporting in Mojaver); the defensible action is risk-based recall (3–4 months for high-risk patients), validated monitoring (probing + %BoP + radiographs), and adding aPDT as the only adjunct with repeated evidence of added benefit over mechanical debridement.
+
+## 세줄요약
+
+4편 종합(SR 2편, 내러티브/임상 2편) — Mojaver 2025(25편 SR: RCT 9+코호트 13+증례대조 3), Lanzetti 2024(full-arch 11편), Ramseier 2024(883명/11,842회 SPT 방문), Barclay 2026(임상 framing).
+
+위험도 기반 지지 임플란트주위 치료(Supportive Peri-Implant Therapy, SPiT)는 고정주기·무관리 대비 우월: 탐침깊이(PD) −1.0–1.5 mm, 탐침시출혈(BoP) −10–25%p, 골소실 ≤1 mm vs ~1.5 mm(≥24개월), 순응 환자 임플란트주위염/임플란트 상실 40–70%↓(Mojaver 2025); 임플란트 탐침은 ≤0.15 N 필수(0.25 N 시 BoP 위양성 +13.7%); recall 주기는 잔존탐침깊이·%BoP·흡연·당뇨로 3–12개월 개별 산출(Ramseier 2024); full-arch: 전문 구강위생 6개월마다 + 보철 제거 ≥연 1회(Lanzetti 2024).
+
+근거는 방향 일관하나 이질성 커 메타분석 불가(Lanzetti 11편 중 저비뚤림 0편, Mojaver 흡연 20%·당뇨 8%만 보고); 임상 행동: 위험도 기반 recall(고위험 3–4개월), 탐침·%BoP·방사선 모니터링, 기계적 청소 후 보조 시 항균 광역동치료(aPDT)만 반복 근거 있음.
 
 ## Summary
 

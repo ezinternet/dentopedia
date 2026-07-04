@@ -22,13 +22,21 @@ relations:
     target: feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro material-science study (Clin Oral Investig 2026, Turku/SCUT) synthesizing a polymerizable radical inhibitor PBHT (a methacrylate-functional BHT analog) and adding it at 1–3 wt% to a UDMA/Bis-EMA/TEGDMA composite: PBHT significantly lowered polymerization shrinkage stress (max stress-rate falling from 47.5 to 13.1 ×10⁻³ MPa·s at 3 wt%) where non-polymerizable BHT did not, while leaching far less inhibitor (1%PBHT 132 vs 1%BHT 549 µg/g); 1 wt% PBHT gave the best overall balance.
+In-vitro material-science study (Clin Oral Investig 2026, Turku/SCUT) synthesizing PBHT, a methacrylate-functional BHT analog, and adding it at 1–3 wt% to a UDMA/Bis-EMA/TEGDMA composite.
 
-## 한줄요약
+PBHT significantly lowered polymerization shrinkage stress (max stress-rate 47.5 → 13.1 ×10⁻³ MPa·s at 3 wt%) while non-polymerizable BHT showed no significant effect; PBHT leached ~4× less inhibitor (1% PBHT 132 vs 1% BHT 549 µg/g).
 
-In-vitro 재료연구(Clin Oral Investig 2026): 중합성 라디칼 억제제 **PBHT**(메타크릴레이트 결합형 BHT 유도체)를 합성해 UDMA/Bis-EMA/TEGDMA 레진에 1–3 wt% 첨가 — 비중합형 BHT(Butylated Hydroxytoluene)는 수축응력(Shrinkage Stress, SS)을 못 낮췄으나 PBHT는 유의 저감(최대 수축응력속도 47.5→13.1 ×10⁻³ MPa·s, 3 wt%), 용출 억제제도 훨씬 적음(1%PBHT 132 vs 1%BHT 549 µg/g); 최적 농도 1 wt%.
+1 wt% PBHT offers the optimal balance of stress reduction, low leaching, and preserved mechanical properties — a gel-point-delay strategy applicable to UDMA-rich matrices where conventional BHT fails.
+
+## 세줄요약
+
+In-vitro 재료연구(Clin Oral Investig 2026): 중합성 라디칼 억제제 PBHT(메타크릴레이트 결합형 BHT 유도체)를 합성해 UDMA/Bis-EMA/TEGDMA 레진에 1–3 wt% 첨가한 실험.
+
+비중합형 BHT(Butylated Hydroxytoluene)는 수축응력(Shrinkage Stress, SS)을 유의하게 낮추지 못했으나 PBHT는 유의 저감(최대 수축응력속도 47.5 → 13.1 ×10⁻³ MPa·s, 3 wt%), 용출 억제제도 약 4배 적음(1% PBHT 132 vs 1% BHT 549 µg/g).
+
+1 wt% PBHT가 응력 저감·저용출·기계적 물성 보존의 최적 균형점이며, 기존 BHT가 효과 없는 UDMA 기질 레진에 적용 가능한 겔포인트 지연 전략.
 
 ## Summary
 

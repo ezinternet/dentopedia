@@ -16,11 +16,21 @@ relations:
     target: mohseni-2024-clinical-outcomes-zirconia-implants
 ---
 
-## One-line Summary
-Systematic review (12 controlled studies) — patients report high satisfaction and significantly improved aesthetics, comfort and chewing with zirconia implants, but PROM instruments are too heterogeneous to pool.
+## Three-line Summary
 
-## 한줄요약
-체계적문헌고찰(대조연구 12편): 지르코니아 임플란트 환자 만족도가 높고 심미·편안함·저작이 유의하게 개선되나, 측정도구(PROM) 이질성이 커 통합분석 불가.
+PRISMA systematic review (6 databases; 596 screened → 12 controlled clinical trials) of patient-reported outcomes (aesthetics, speaking, comfort, chewing, overall satisfaction) in zirconia implant therapy — outcomes improved significantly from pre-treatment to prosthetic delivery across all domains.
+
+Overall patient satisfaction was consistently high, but PROM instruments varied widely and were often non-validated across the 12 trials, preventing meta-analysis and limiting comparability.
+
+The review provides the first SR dedicated to PROs in zirconia implant therapy and identifies PROM heterogeneity as the key evidence weakness, calling for standardized validated zirconia-implant PROMs in future research.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(6개 DB; 596편 선별 → 12편 대조 임상시험): 지르코니아 임플란트 치료에서 심미·발음·편안함·저작 능력·전반적 만족도 등 환자보고결과(Patient-Reported Outcome, PRO)가 치료 전 대비 보철 장착 시점에서 유의하게 개선됐다.
+
+전반적 환자 만족도는 12편 전반에 걸쳐 일관되게 높았으나, 사용된 환자보고결과 측정도구(Patient-Reported Outcome Measure, PROM)가 연구마다 크게 달랐고 대부분 비검증 도구여서 메타분석이 불가능하다.
+
+지르코니아 임플란트 PRO에 특화된 최초의 체계적 고찰로, PROM 이질성이 핵심 근거 약점임을 규명하고 향후 표준화된 검증 도구 개발을 권고한다.
 
 ## Summary
 This systematic review fills the patient-perspective gap in zirconia implant evidence, which otherwise centers on survival and bone loss. Across 12 controlled clinical trials, patient-reported outcomes — aesthetics, speaking, comfort, chewing ability, and overall satisfaction — improved significantly from pretreatment to prosthetic delivery, and satisfaction was consistently high. The central limitation is methodological: PROM instruments varied widely and were often non-validated, preventing meta-analysis and limiting comparability. The clinical takeaway is favorable patient acceptance, with a clear call for standardized zirconia-implant PROMs.

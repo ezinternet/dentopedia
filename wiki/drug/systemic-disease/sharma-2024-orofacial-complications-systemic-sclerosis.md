@@ -22,13 +22,21 @@ relations:
     target: shiboski-2016-acr-eular-sjogren-classification-criteria
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (J Dent Res, 3-author) of orofacial complications in systemic sclerosis: microstomia (52–80%), xerostomia (sicca 70%; secondary Sjögren ≤14%), more severe periodontitis (stage III/IV in 90% dcSSc vs 60% lcSSc), condylar resorption (10–50%), trigeminal neuralgia, dysgeusia; GCF MMP-9/CXCL-4 track early disease; implants can succeed with vasculopathy/bone-quality risk assessment.
+Narrative review (J Dent Res 2024, 3-author, PMC open access) of orofacial complications in systemic sclerosis (SSc), integrating in vitro, in vivo, and clinical evidence; primary evidence described by authors as scant and low-quality.
 
-## 한줄요약
+Orofacial manifestations affect up to 80% of SSc patients: microstomia (52–80%), xerostomia/sicca (70%; secondary Sjögren ≤14% mostly lcSSc), more severe periodontitis (stage III/IV in 90% dcSSc vs 60% lcSSc), condylar resorption (10–50%), trigeminal neuralgia, and dysgeusia; GCF MMP-9 and CXCL-4 correlate with early-onset (<2 y) disease.
 
-전신경화증의 구강안면 합병증 서술적 종설(J Dent Res, 3저자): 소구증(52–80%), 구강건조증(sicca 70%·이차 쇼그렌 ≤14%), 더 심한 치주염(dcSSc III/IV기 90% vs lcSSc 60%), 하악과두 흡수(10–50%), 삼차신경통, 미각이상; 치은열구액 MMP-9·CXCL-4가 조기 질환과 상관; 임플란트는 혈관병증·골질 평가 전제 시 성공 가능.
+Dental implants can succeed in SSc patients (survival reportedly unaffected) but require thorough vasculopathy and bone-quality risk assessment; there is no disease-modifying therapy, so management is symptom-specific (mouth exercises, sialagogues, pilocarpine, cyclosporine→tacrolimus switch for gingival overgrowth).
+
+## 세줄요약
+
+서술적 종설(J Dent Res 2024, 3저자, PMC 오픈 액세스) — 전신경화증(Systemic Sclerosis, SSc)의 구강안면 합병증을 in vitro·동물·임상 근거를 통합해 정리; 저자 스스로 1차 근거가 희박하고 질이 낮다고 명시.
+
+SSc 환자의 80%까지 구강안면 발현: 소구증(52–80%), 구강건조증/sicca(70%·이차 쇼그렌 ≤14%), 더 심한 치주염(dcSSc III/IV기 90% vs lcSSc 60%), 하악과두 흡수(10–50%), 삼차신경통, 미각이상; 치은열구액 MMP-9·CXCL-4가 조기(<2년) 질환 및 치주 지표와 상관.
+
+임플란트는 혈관병증·골질 사전평가 전제 시 생존율에 영향 없이 성공 가능; 질병 조절제 없어 소구증·구강건조·치은비대(사이클로스포린→타클로리무스 전환) 등 증상별 관리가 핵심.
 
 ## Summary
 

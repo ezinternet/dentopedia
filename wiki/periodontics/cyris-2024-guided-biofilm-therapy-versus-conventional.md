@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + ultrasonic) and conventional SRP (hand curettes/sonic + rotary polishing) gave equivalent PPD reduction and pocket closure in NSPT, with GBT significantly faster (30.3 vs 34.6 min/quadrant, p<0.001).
+Split-mouth RCT (n=60, stage III/IV periodontitis; operators = supervised third-semester dental students) comparing Guided Biofilm Therapy (erythritol air-polishing + ultrasonic) to conventional SRP (hand curettes/sonic + rotary polishing) during NSPT at mean 4.47 months.
 
-## 한줄요약
+Both protocols produced equivalent PPD reduction, CAL, pocket closure (91% vs 91% sites ≤4 mm), and BOP change; GBT was significantly faster (30.3 vs 34.6 min/quadrant, p<0.001); pain scores were identical.
 
-분악 RCT (60명, stage III/IV 치주염, 감독하 치대생이 시술): 비외과적 치주치료에서 가이드 바이오필름 치료(GBT, 에리스리톨 에어폴리싱+초음파)와 전통적 SRP(수기 큐렛/소닉+회전연마)의 PPD 감소·포켓 폐쇄 효과는 동등했고, GBT가 사분악당 시술시간만 유의하게 짧았다(30.3 vs 34.6분, p<0.001).
+GBT achieves clinical equivalence to conventional SRP in NSPT for stage III/IV periodontitis with a treatment-time advantage, even when performed by inexperienced operators.
+
+## 세줄요약
+
+분악 RCT(n=60, stage III/IV 치주염, 감독 하 치대생 시술) — 평균 추적 4.47개월에서 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT: 에리스리톨 에어폴리싱+초음파)와 전통적 치석제거·치근활택술(Scaling and Root Planing, SRP: 수기 큐렛/소닉+회전연마) 비교.
+
+PPD 감소·CAL·포켓 폐쇄(91% vs 91% 부위 PPD ≤4 mm)·BOP 변화 동등; GBT가 사분악당 시술시간 유의 단축(30.3 vs 34.6분, p<0.001); 통증 차이 없음.
+
+미숙한 술자도 GBT로 전통적 SRP와 동등한 NSPT 임상 결과를 시술시간 단축 이점과 함께 달성 가능.
 
 ## Summary
 

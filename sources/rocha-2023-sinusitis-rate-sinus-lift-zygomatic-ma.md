@@ -13,13 +13,23 @@ source_collection: external
 
 상악동거상술(Sinus Floor Elevation, SFE) 후 술후 부비동염(Postoperative Sinusitis) 발생률에 대한 정량적 근거가 [[wiki/overviews/sinus-lift-technique-selection]]에 누락되어 있으며, 협골 임플란트(Zygomatic Implant, ZI)와의 직접 비교 데이터는 [[wiki/overviews/odontogenic-maxillary-sinusitis-overview]]의 의인성 상악동염(Iatrogenic Sinusitis) 예방 축을 보완한다. 이 메타분석은 술식별 부비동염 유병률을 정량화해 술식 선택 위험편익 계산에 기여한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (27 studies: 18 sinus lift, 9 zygomatic implant) comparing pooled sinusitis prevalence: sinus lift 1.11% vs zygomatic implants 3.76%; technique matters — zygomatic sinus slot 21.62%, extrasinus 0.00%, lateral window 1.35%, transcrestal 0.00%.
 
-## 한줄요약
+SR+MA (27 studies: 18 sinus lift, 9 zygomatic implant) comparing pooled sinusitis prevalence: sinus lift 1.11% vs zygomatic implants 3.76%;
 
-SR+MA (27편: 상악동거상술 18편, 협골 임플란트 9편) — 상악동거상술 후 부비동염 1.11% 대 협골 임플란트 3.76%; 술식 의존적: 협골 임플란트 내막하법(Sinus Slot) 21.62% vs 외막법(Extrasinus) 0.00%, 측방창법(Lateral Window) 1.35% vs 경치조골법(Transcrestal) 0.00%.
+technique matters — zygomatic sinus slot 21.62%, extrasinus 0.00%, lateral window 1.35%, transcrestal 0.00%.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (27편: 상악동거상술 18편, 협골 임플란트 9편) — 상악동거상술 후 부비동염 1.11% 대 협골 임플란트 3.76%;
+
+술식 의존적: 협골 임플란트 내막하법(Sinus Slot) 21.62% vs 외막법(Extrasinus) 0.00%, 측방창법(Lateral Window) 1.35% vs 경치조골법(Transcrestal) 0.00%.
+
+(incomplete)
 
 ## 1. Document Information
 

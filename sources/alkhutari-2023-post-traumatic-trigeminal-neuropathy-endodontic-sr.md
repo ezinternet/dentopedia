@@ -17,13 +17,21 @@ text_filename: alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr
 
 삼차신경통 치과 감시 인제스트 — 근관치료(RCT)가 유발하는 외상성 삼차신경병증(painful post-traumatic trigeminal neuropathy, PTTN), 즉 술자가 직접 야기하는 의인성(iatrogenic) 신경손상을 다룬다. 발치·임플란트와 함께 PTTN의 주요 원인 중 하나가 근관치료(전체 삼차신경손상의 6-8%)이며, 지속성 치아치조통(persistent dentoalveolar pain, PDAP)·비전형 치통(atypical odontalgia, AO)으로 오진되어 불필요한 재치료가 반복되는 임상 함정을 정량화한다. 형제 삼차신경통 페이지 [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]]를 보강하고, 구강안면통증·신경병증 진단을 다루는 [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] 및 [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]]와 신경병증성 통증 기전을 공유한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 10 studies (n = 8 to 1,331) finding that endodontic therapy accounts for 6-8% of post-traumatic trigeminal neuropathy (PTTN) cases, with non-odontogenic neuropathic pain emerging 3-48 months after root canal treatment, predominantly in women in their mid-40s, frequently misdiagnosed as atypical odontalgia/persistent dentoalveolar pain.
+Systematic review (PubMed/WOS/Cochrane, 2009–2020, 10 studies, n=8–1,331 participants) examining endodontic therapy as a discrete iatrogenic cause of painful post-traumatic trigeminal neuropathy (PTTN), including retrospective and prospective cohort designs.
 
-## 한줄요약
+Endodontic treatment accounts for 6–8% of all trigeminal nerve injuries; persistent non-odontogenic pain (prevalence 3.1–5.7% of RCT patients) typically emerges 3–48 months post-procedure, predominantly in women aged 40–50, and is frequently misdiagnosed as atypical odontalgia (AO) or persistent dentoalveolar pain (PDAP).
 
-근관치료가 외상성 삼차신경병증(PTTN)의 6-8%를 차지하며, 비치성 신경병증성 통증이 근관치료 후 3-48개월에 발생하고 주로 40대 중반 여성에 호발하며 비전형 치통(AO)으로 오진되기 쉽다는 점을 보인 10개 연구 체계적 문헌고찰.
+Pre-procedural counseling and a high index of suspicion for PTTN are warranted in endodontic patients — particularly women with chronic pain history, preoperative pain, or symptomatic cracks; management with amitriptyline 50–75 mg/day ± carbamazepine is supported; however, only retrospective/small prospective cohorts were available and no meta-analysis was possible.
+
+## 세줄요약
+
+체계적 문헌고찰(PubMed/WOS/Cochrane, 2009–2020, 10편, n=8–1,331): 근관치료를 외상성 삼차신경병증(PTTN)의 의인성 원인으로 정량화; 후향·전향 코호트 포함.
+
+근관치료가 전체 삼차신경손상의 6–8%를 차지; 비치성 신경병증성 통증은 RCT 환자의 3.1–5.7%에서 발생하고 시술 후 3–48개월에 나타나며 주로 40–50대 여성에 호발; 비전형 치통(AO)/지속성 치조통(PDAP)으로 오진 빈번.
+
+만성통증 이력·술전 통증·치아 균열이 있는 여성 환자에서 PTTN 고려가 필요; 아미트립틸린 50–75mg/일 ± 카르바마제핀으로 관리; 단 포함 연구 모두 후향·소규모 전향 코호트이며 메타분석 불가.
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ relations:
     target: cao-2023-titanium-zirconium-narrow-diameter-single-crown
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (36 trials, 2741 NDIs) showing narrow-diameter implants (<3.75 mm) achieve high pooled survival (maxilla 97.0%, mandible 96.5%) for fixed restorations in posterior premolar/molar sites, consistent across jaw location and implant material.
+SR+MA (36 trials, 2,741 NDIs <3.75 mm) examining narrow-diameter implants supporting fixed restorations in posterior premolar and molar sites across multiple countries and follow-up periods up to 12 years.
 
-## 한줄요약
+Pooled survival: maxilla 97.0% (95% CI 96.2–97.8%) and mandible 96.5% (95% CI 95.7–97.3%), with no significant difference between jaw location (p=0.688), implant material, or site (premolar 97.5%, molar 98.6%).
 
-36편(NDI 2741개) 체계적 고찰·메타분석. 좁은 직경 임플란트(<3.75mm)는 구치부 고정성 보철에서 높은 통합 생존율(상악 97.0%, 하악 96.5%)을 보였고 악골 위치·재료에 무관하게 일관 — NDI의 구치부 적응증 확장 근거.
+Technical complications (screw loosening, fracture, restoration detachment) were the dominant concern (0–23.5%), while biological complication data were too sparse to pool — supporting NDI use in the posterior region with attention to occlusal management.
+
+## 세줄요약
+
+SR+MA (36편, NDI 2,741개, <3.75 mm) — 상·하악 구치부 고정성 보철을 지지하는 좁은 직경 임플란트(Narrow-Diameter Implant, NDI)의 생존율·합병증을 체계적으로 종합한 최대 규모 분석.
+
+통합 생존율(Pooled Survival Rate): 상악 97.0%, 하악 96.5%로 악골 위치(p=0.688)·재료·부위 간 유의차 없음; 소구치 97.5%, 대구치 98.6%.
+
+기술적 합병증(나사 풀림·파절·보철물 탈락, 0–23.5%)이 주요 위험이며 생물학적 합병증 데이터는 부족 — 구치부 NDI 활용 시 교합 관리가 핵심.
 
 ## Summary
 

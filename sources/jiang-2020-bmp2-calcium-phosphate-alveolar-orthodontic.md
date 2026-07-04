@@ -13,13 +13,23 @@ source_collection: external
 
 교정적 치아 이동(OTM) 중 발생한 치조골 결손에서 BMP2 기능화 생체모방 칼슘인산염(BioCaP) 이식재의 효과를 탐색 — 성장인자 강화 재생 이식재가 기계적으로 역동적인 교정 환경에서도 골재생을 촉진하고 OTM을 방해하지 않음을 대형 동물 모델에서 검증. [[bone-regeneration/chakar-2014-dbbm-bcp-platelet-lysate-rabbit]]
 
-## One-line Summary
+## Three-line Summary
+
 
 Randomized beagle dog study (n=9, 3 groups) showing BMP2-functionalized biomimetic calcium phosphate (BioCaP) graft produces 1.61× more new bone than control and 1.25× more than DBB during orthodontic tooth movement without obstructing tooth movement.
 
-## 한줄요약
+(incomplete)
 
-개 9마리 3군 무작위 연구 — BMP2 기능화 칼슘인산염(BioCaP) 이식재가 교정적 치아 이동 중 대조군 대비 신생골 형성 1.61배, DBB 대비 1.25배 증가; OTM 속도에는 영향 없음.
+(incomplete)
+
+## 세줄요약
+
+
+개 9마리 3군 무작위 연구 — BMP2 기능화 칼슘인산염(BioCaP) 이식재가 교정적 치아 이동 중 대조군 대비 신생골 형성 1.61배, DBB 대비 1.25배 증가;
+
+OTM 속도에는 영향 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

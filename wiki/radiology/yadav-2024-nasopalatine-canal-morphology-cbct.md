@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cross-sectional study (n=102, Indian population) documenting nasopalatine canal morphology, dimensions (length, AP/ML diameters, angle), shape variants, and opening counts stratified by sex and age — NPC longer and AP-wider in males, ML diameter enlarges with age.
+Retrospective CBCT cross-sectional study (n=102 Indian adults, Manipal College, Planmeca 8×8 cm FOV 0.16 mm resolution, 6 age groups) quantifying nasopalatine canal (NPC) morphometry — length, anteroposterior and mediolateral diameters, angle, shape variants, and opening counts — stratified by sex and age.
 
-## 한줄요약
+NPC was significantly longer in males (10.19 vs 9.16 mm, P=0.012) and wider at the palatal AP opening (3.53 vs 2.92 mm, P<0.001); ML lower diameter increased significantly with age (≥61 yr: 4.2 mm vs ≤20 yr: 2.8 mm, P=0.027); seven sagittal shape variants were identified, with cylindrical predominant in females and funnel in males.
 
-인도인 102명 CBCT 단면연구: 비비구개관(NPC)이 남성에서 더 길고 구개개구 직경이 크며, 나이 들수록 내외측 직경이 증가함을 확인하여 전방 상악 임플란트 수술 전 해부학적 계획의 근거 제공.
+These sex- and age-stratified NPC dimensions provide clinically relevant anatomical planning data for anterior maxillary implant placement, local anesthesia delivery, and craniofacial surgery in the Indian population.
+
+## 세줄요약
+
+줄1: 인도인 성인 102명 CBCT 단면연구(Manipal College, 6개 연령군) — 비비구개관(NPC) 길이·전후경·내외측 직경·각도·형태 변이·개구 수를 성별·연령별 분류.
+
+줄2: NPC가 남성에서 유의하게 길고(10.19 vs 9.16 mm, P=0.012) 구개 전후경이 넓으며(P<0.001); 내외측 하부 직경은 나이 들수록 증가(P=0.027); 시상 단면 7가지 형태 중 원통형(여성)·깔때기형(남성)이 각각 우세.
+
+줄3: 성별·연령별 NPC 치수는 전방 상악 임플란트·국소마취·두개안면 수술 전 해부학적 계획의 임상 근거 제공.
 
 ## Summary
 

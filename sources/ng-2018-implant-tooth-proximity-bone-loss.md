@@ -14,13 +14,23 @@ source_url: https://doi.org/10.1111/adj.12650
 
 임플란트-자연치 간격 <1 mm이 골수준 임플란트(BL)에서 주위염·골소실을 증가시키는 반면 조직수준 임플란트(TL)에서는 영향이 없다는 임상적으로 중요한 발견. 임플란트 유형별 차별화된 거리 기준의 근거. [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] SR+MA에 포함된 핵심 연구.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective (n=98 patients, 195 implants, mean 37.8 months): BL implants <1 mm from adjacent tooth → significantly more BOP and interproximal bone loss; TL implants showed no significant impact of proximity.
 
-## 한줄요약
+Retrospective (n=98 patients, 195 implants, mean 37.8 months): BL implants <1 mm from adjacent tooth → significantly more BOP and interproximal bone loss;
 
-후향 코호트 (n=98명, 195 임플란트, 37.8개월): BL 임플란트 <1 mm 근접 → BOP↑ 및 치간 골소실↑ 유의; TL 임플란트에서는 근접 거리 영향 없음.
+TL implants showed no significant impact of proximity.
+
+(incomplete)
+
+## 세줄요약
+
+
+후향 코호트 (n=98명, 195 임플란트, 37.8개월): BL 임플란트 <1 mm 근접 → BOP↑ 및 치간 골소실↑ 유의;
+
+TL 임플란트에서는 근접 거리 영향 없음.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Australian Dental Journal 2018;63(4):467-477

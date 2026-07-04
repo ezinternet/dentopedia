@@ -13,11 +13,21 @@ source_collection: external
 tags: [exercise-therapy, occlusal-splint, tmd, meta-analysis, painful-tmd]
 ---
 
-## One-line Summary
-SR+MA directly comparing exercise therapy to occlusal splint therapy for painful temporomandibular disorder (TMD): exercise was non-inferior to splints for pain reduction (pooled MD ≈ 0, p>0.05), numerically superior for maximum mouth opening (MMO) in several analyses, and had higher patient adherence (GRADE moderate).
+## Three-line Summary
 
-## 한줄요약
-SR+MA: 운동치료는 교합안정장치(Occlusal Splint)와 동등한 통증 감소 효과를 보이며, 하악 최대개구량(MMO) 개선에서 일부 우월한 결과를 나타냄.
+SR+MA (PubMed, Cochrane, EMBASE, Web of Science; RCTs with direct exercise vs. splint comparison arms; random-effects meta-analysis; GRADE) from Shanghai Ninth People's Hospital comparing exercise therapy to occlusal splint therapy for painful TMD.
+
+Exercise therapy was non-inferior to splints for pain reduction (pooled MD ≈ 0, p>0.05); MMO improvement numerically favored exercise in several analyses; patient adherence was consistently higher with exercise protocols (GRADE moderate overall).
+
+Exercise therapy is a viable, cost-efficient, appliance-free alternative to splints for painful TMD — challenges the assumption that appliance fabrication is necessary for most patients.
+
+## 세줄요약
+
+SR+MA (상하이 제9인민병원; RCT 직접 비교 포함; 랜덤효과 메타분석; GRADE) — 통증성 악관절증(TMD) 대상 운동치료 vs 교합안정장치 비교.
+
+운동치료는 통증 감소에서 교합안정장치와 동등(통합 MD ≈ 0, p>0.05); 하악 최대개구량(MMO) 개선에서 일부 수치적 우위; 환자 순응도는 운동 프로토콜이 지속적으로 높음(GRADE 중등).
+
+운동치료는 비용 효율적·장치 불필요 대안으로 대부분의 통증성 TMD 환자에게 장치 제작이 필수적이라는 가정에 도전.
 
 ## Summary
 This systematic review and meta-analysis from Shanghai Ninth People's Hospital directly compared exercise therapy to 교합안정장치 (Occlusal Splint) therapy for painful 악관절증 (Temporomandibular Disorder, TMD). Pooled analysis demonstrated that exercise therapy was non-inferior to splint therapy for pain reduction (pooled mean difference not significant), and numerically superior in some studies for 하악 최대개구량 (Maximum Mouth Opening, MMO) improvement. Patient adherence was consistently higher with exercise protocols. The results support exercise therapy as a viable, cost-efficient, non-appliance alternative for painful TMD management.

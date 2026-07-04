@@ -9,7 +9,7 @@ pdf_filename: magno-2016-silorane-composite-not-better-conventional-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Meta-analysis of 11 RCTs showing that silorane-based composites (SBC) have statistically similar clinical performance to methacrylate-based composites (MBC) in posterior restorations, with no heterogeneity across all parameters; low polymerization shrinkage alone does not confer clinical superiority.
 
 ## 1. Document Information

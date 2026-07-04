@@ -18,13 +18,21 @@ relations:
     target: decarli-2023-mandibular-condyle-unilateral-masticatory-function
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Finite-element analysis of 35 patient-derived models (11 asymptomatic, 10 prognathism, 5 retrusion, 9 deviation): under unilateral molar occlusion, mandibular deformity raises condyle and articular-disc stress; facial asymmetry (deviation) produces the highest TMJ stress and TMD risk, worsened by chewing on the non-deviated side.
+Patient-derived finite-element analysis (35 models: 11 asymptomatic controls, 10 mandibular prognathism, 5 retrusion, 9 deviation/facial asymmetry) simulating unilateral molar occlusion loading to compare TMJ condyle and articular-disc stress across deformity types.
 
-## 한줄요약
+Any mandibular deformity increased peri-implant condyle and articular-disc stress vs asymptomatic controls; facial asymmetry (deviation) produced significantly higher TMJ stress than prognathism or retrusion, establishing it as the highest-risk deformity for TMD; within deviation patients, chewing on the non-deviated side further increased TMJ stress.
 
-유한요소해석(FEA) 연구 (환자 기반 모델 35개: 무증상 11·하악전돌 10·하악후퇴 5·하악편위 9). 단일 대구치 교합 시 하악 기형이 과두·관절원판 응력을 높이며, 안면 비대칭(편위)이 TMJ 응력을 가장 크게 올려 TMD 위험이 최고. 편위 환자가 비편위측으로 씹으면 더 악화된다.
+Among mandibular deformity patients, facial asymmetry carries the highest TMD biomechanical risk — counsel deviation patients to chew bilaterally or on the deviated side; evidence weight limited by small subgroups and abstract-only data extraction.
+
+## 세줄요약
+
+환자 기반 유한요소분석(FEA) (모델 35개: 무증상 11·하악전돌 10·하악후퇴 5·하악편위 9): 단측 대구치 교합 시 변형 유형별 TMJ 과두·관절원판 응력 비교.
+
+모든 하악 기형이 무증상 대조군보다 과두·관절원판 응력 증가; 안면 비대칭(편위)이 전돌·후퇴보다 TMJ 응력 유의하게 높아 TMD 최고 위험; 편위 환자에서 비편위측 저작 시 응력 추가 증가.
+
+하악 기형 중 안면 비대칭(편위)이 TMD 생역학적 최고 위험군 — 편위 환자에게 양측 또는 편위측 저작 권고; 소규모 subgroup·abstract-only 데이터 한계.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Cross-sectional CBCT study proposing classification criteria for inter-radicular septum (IRS) shape in maxillary molars, translating anatomical variation into a clinical taxonomy that supports prosthetic-driven immediate implant placement (IIP) and identifies categories most amenable to predictable placement.
+## Three-line Summary
 
-## 한줄요약
-격중격(IRS) shape를 prosthetic-driven IIP에 맞춰 분류하는 기준 제안 — Pavlovic 2022와 짝을 이루어 molar IIP planning 체계화에 기여.
+Retrospective CBCT cross-sectional study of maxillary molars proposing classification criteria for inter-radicular septum (IRS) shape, translating anatomical variation into a clinical taxonomy for prosthetic-driven immediate implant placement.
+
+IRS shape categories were defined and their prevalence quantified; categories most amenable to predictable immediate implant placement were identified.
+
+The classification bridges the Smith-Tarnow framework and modern digital planning workflows, though it has not been validated against clinical outcome data within this paper.
+
+## 세줄요약
+
+상악 대구치 치근간 중격(Interradicular Septum, IRS)의 형태 분류 기준을 CBCT 기반으로 제안한 후향적 단면연구.
+
+IRS 형태 범주를 정의하고 유병률을 정량화하여, 예측 가능한 즉시 식립에 가장 적합한 유형을 식별하였다.
+
+Smith-Tarnow 체계와 디지털 보철 계획 워크플로우를 연결하는 분류이나, 임상 결과와의 검증은 이 논문 내에서 이루어지지 않았다.
 
 ## Summary
 CBCT-based proposal of classification criteria for inter-radicular septum shape in maxillary molars, with explicit linkage to prosthetic-driven IIP planning.

@@ -17,13 +17,23 @@ text_filename: ifrim-2026-edta-air-polishing-root-surface-sem.txt
 
 Bench (SEM) evidence on how adjunctive erythritol- vs glycine-based air polishing combined with 24% EDTA alter periodontitis-affected root surfaces after SRP — directly relevant to professional biofilm-management / subgingival instrumentation protocols. This applies the EFP step-2 instrumentation recommendations of [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] at the root-surface micromorphology level (do adjuncts to SRP improve or harm the root surface?).
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro SEM study (10 periodontitis-affected human teeth, 20 samples) showing SRP+EDTA leaves a continuous smear layer, adjunctive erythritol air polishing lowers instrumentation-mark scores (Se<S, p=0.001) but raises crack scores (Se>S, p=0.001), while smear-layer scores are comparable across all protocols (p=0.950) and CEJ behaves like mid-root.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 치주염 발치치 10개(시편 20개) SEM 인비트로 연구 — SRP+EDTA는 연속적 smear layer를 남기고, 에리스리톨 에어폴리싱 추가군(Se)은 기구흔 점수가 더 낮지만(Se<S, p=0.001) 균열 점수는 더 높았으며(Se>S, p=0.001), smear layer 점수는 모든 프로토콜에서 차이 없음(p=0.950), CEJ는 치근 중간부와 유사하게 반응.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

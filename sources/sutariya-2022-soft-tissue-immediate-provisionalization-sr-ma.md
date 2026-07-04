@@ -10,7 +10,7 @@ pdf_filename: sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA: 즉시식립에서 즉시임시치관 (IP) 유무에 따른 PES (pink esthetic score) 중심 연조직 심미 결과 — BoP, PD, plaque index, papilla recession, midfacial mucosal recession 보조 평가; GRADE 적용.
 
 ## 1. Document Information

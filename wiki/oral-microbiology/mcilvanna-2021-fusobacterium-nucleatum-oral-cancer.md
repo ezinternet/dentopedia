@@ -13,11 +13,19 @@ source_collection: external
 tags: [F-nucleatum, OSCC, oral-cancer, STAT3, FadA, Fap2, Gal-GalNAc, carcinogenesis, prognosis, biofilm-bridging]
 ---
 
-## One-line Summary
-Narrative critical review synthesizing evidence that F. nucleatum is enriched in OSCC and OPMDs and promotes carcinogenesis via STAT3/cyclin D1/MMP-9 and Fap2/Gal-GalNAc, with paradoxical survival benefit in OSCC (Neuzillet n=151, 82.1% Fn+ → better OS/RFS/MFS; Chen n=68, 55.8% Fn-high → better CSS/RFS).
+## Three-line Summary
+Narrative critical review synthesizing evidence that F. nucleatum — a core species at ~25% of dental plaque — is enriched in OSCC tumors and OPMDs, acts as a bridging organism facilitating succession from early streptococcal to late P. gingivalis colonizers, and drives carcinogenesis via STAT3/cyclin D1/MMP-9 and Fap2–Gal-GalNAc axes (murine OSCC tumors 2.5× larger and more invasive when F. nucleatum-infected).
 
-## 한줄요약
-Narrative critical review: F. nucleatum이 OSCC·전암 병변에서 풍부하며 STAT3/Fap2로 발암 촉진하지만, OSCC에서는 역설적으로 Fn 양성(n=151, 82.1% / n=68, 55.8%)이 더 나은 생존율과 관련됨.
+Paradoxically, two prognostic cohort studies found F. nucleatum positivity associated with better survival in OSCC — Neuzillet (n=151, 82.1% Fn+: better OS/RFS/MFS) and Chen (n=68, 55.8% Fn-high: better cancer-specific survival/RFS) — the opposite of colorectal cancer, potentially reflecting distinct patient biology (older, HPV-negative, non-smoker/non-drinker, lower pN stage).
+
+F. nucleatum's dual role as both carcinogenesis promoter and favorable prognostic marker highlights critical gaps in understanding F. nucleatum–host interactions in OSCC, with STAT3 identified as the central oncogenic signaling hub controlling proliferation, angiogenesis, invasion, and metastasis.
+
+## 세줄요약
+치태 핵심 균종으로 ~25%를 차지하는 F. nucleatum이 OSCC 종양·전암 병변에서 풍부하며, 구강 미생물 계승(연쇄구균→P. gingivalis)의 가교 역할을 하고 STAT3/cyclin D1/MMP-9 및 Fap2–Gal-GalNAc 축으로 발암 촉진 — 쥐 OSCC 모델에서 F. nucleatum 감염 시 종양 2.5배 크고 침습성 증가.
+
+역설적으로 2개 예후 코호트(Neuzillet n=151, Fn+ 82.1% → 더 좋은 전체 생존율·재발 없는 생존율·전이 없는 생존율; Chen n=68, Fn-고 55.8% → 더 좋은 암 특이 생존율·재발 없는 생존율)에서 F. nucleatum 양성이 대장암과 반대로 OSCC 생존율 향상과 연관 — 고령·HPV 음성·비흡연·저-pN 병기 환자군의 특성 반영 가능.
+
+STAT3가 OSCC에서 F. nucleatum 발암의 중심 신호 허브로 확인; F. nucleatum의 이중 역할(발암 촉진제 vs 유리 예후 지표)은 숙주-미생물 상호작용 이해의 중요한 공백을 드러냄.
 
 ## Summary
 McIlvanna et al. critically synthesize the evidence for F. nucleatum involvement in oral carcinogenesis. F. nucleatum constitutes ~25% of dental plaque as a core species in both health and disease but benefits from a 3-log increase in total microbial load in periodontal inflammation. It serves as a bridging organism facilitating progression from early (streptococcal) to late (P. gingivalis) colonizers, and is enriched in OSCC tumors and OPMDs (supporting early malignant transformation rather than mere opportunistic colonization). Murine OSCC models show F. nucleatum-infected tumors are 2.5× larger and more invasive, with STAT3/cyclin D1/MMP-9 as key oncogenic mediators. Paradoxically, two prognostic cohort studies (Neuzillet n=151, 82.1% Fn+; Chen n=68, 55.8% Fn-high) find F. nucleatum positivity associated with better survival in OSCC — the opposite of CRC — possibly reflecting distinct patient biology (HPV-negative, older, non-smokers/non-drinkers).

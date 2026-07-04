@@ -13,11 +13,21 @@ source_collection: external
 tags: [alveolar-ridge-preservation, ARP, posterior, MFGG, xenograft, titanium-membrane, CBCT, USH, RCT]
 ---
 
-## One-line Summary
-RCT (J Clin Periodontol 2025): 4-arm posterior ARP (n=22/group) — TM+XG and MFGG+XG best for vertical preservation; significant horizontal loss in all groups; USH led to sinus elevation in 67% and short implants in 71%; MFGG associated with increased pain.
+## Three-line Summary
 
-## 한줄요약
-rct(J Clin Periodontol 2025): 후방부 4군 RCT(n=22/군) — TM+XG·MFGG+XG: 수직 보존 우수; 전 군 수평 소실 유의; USH: 상악동 거상 67%·단임플란트 71%; MFGG 통증 ↑.
+Four-arm RCT (UNICAMP/Buffalo, n=88, 22/group) focused specifically on posterior extraction sockets — titanium mesh+xenograft (TM+XG), MFGG+xenograft, MFGG alone, or unassisted socket healing (USH) — with CBCT at 6 months as primary assessment.
+
+TM+XG and MFGG+XG provided significantly better vertical ridge preservation than USH; horizontal reduction was significant in all groups; USH led to sinus elevation need in 67% and short implants (<8.5 mm) in 71% of cases.
+
+Posterior ARP with xenograft (±titanium mesh) is justified to avoid secondary sinus augmentation, but MFGG without graft adds pain without dimensional benefit and should not be used.
+
+## 세줄요약
+
+후방부 발치와에 특화된 4군 무작위 대조 시험 (Randomized Controlled Trial, RCT, UNICAMP/Buffalo, n=88, 22/군): 티타늄 메쉬+이종골 (TM+XG), 근막피개유리이식(MFGG)+이종골, MFGG 단독, 무처치 자연치유 (Unassisted Socket Healing, USH) — 6개월 콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 평가.
+
+TM+XG·MFGG+XG는 USH 대비 수직 골 보존 유의하게 우수; 수평 골 감소는 전 군에서 유의하게 발생; USH군 67%에서 상악동 거상술 필요, 71%에서 단(短)임플란트(<8.5 mm) 사용.
+
+후방부 이종골 기반 치조제 보존술 (ARP)은 이차 상악동 거상술 예방에 타당 — 이종골 없이 MFGG 단독은 통증만 증가시켜 권고하지 않음.
 
 ## Summary
 4-arm RCT (UNICAMP/Buffalo, 2025) specifically focused on **posterior** extraction sockets — an underrepresented area in ARP literature. CBCT at 6 months shows that bone grafting (with or without titanium membrane) improves vertical preservation, but horizontal loss occurs in all groups. USH in posterior leads to significant sinus and implant-size consequences.

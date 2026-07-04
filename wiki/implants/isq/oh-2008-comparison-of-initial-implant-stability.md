@@ -13,11 +13,21 @@ source_collection: external
 tags: [resonance-frequency-analysis, RFA, ISQ, implant-stability-quotient, primary-stability, implant-systems-comparison, catch-up-effect, SLA, TiUnite, Osseotite]
 ---
 
-## One-line Summary
-Prospective Korean cohort (54 patients, 104 implants, 3 systems) found significant baseline ISQ differences (Type A 76.2 > Type B 72.7 > Type C 67.6) that converged to non-significance by 2 months, with Type B/C increasing and Type A stable — a "catch-up" effect driven by implant surface and design.
+## Three-line Summary
 
-## 한줄요약
-전향적 코호트(54명, 104개 임플란트): 3종 임플란트(3i Osseotite, Replace Select, ITI SLA) 기저 ISQ 유의차(76.2 vs 72.7 vs 67.6) 있으나 2개월 시점에 수렴(catch-up 효과); 표면처리·형태가 ISQ 변화 궤적 결정.
+Prospective Korean cohort (54 patients, 104 implants, 3 systems: 3i Osseotite/Replace Select TiUnite/ITI SLA) tracking ISQ with Osstell Mentor at baseline, 2 months, and 4 months at Chonbuk National University.
+
+Significant baseline ISQ differences across systems (76.2 vs 72.7 vs 67.6, p<0.05) fully converged to non-significance by 2 months (~76–78), as TiUnite-tapered (B) and SLA (C) rose significantly while acid-etched parallel-wall (A) remained flat — a surface/design-driven catch-up effect.
+
+The ITI supracrestal shoulder (2.8 mm above crest) artificially lowers baseline ISQ as a geometry artefact; this argues for system-specific ISQ reference ranges rather than a single universal loading threshold.
+
+## 세줄요약
+
+전향적 한국 코호트(54명, 104개 임플란트, 3시스템: 3i Osseotite/Replace Select TiUnite/ITI SLA): 전북대학교에서 Osstell Mentor로 기저, 2개월, 4개월 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 추적.
+
+식립 시 3군 간 유의한 ISQ 차이(76.2 vs 72.7 vs 67.6, p<0.05)가 2개월에 비유의 수준으로 수렴(~76–78): TiUnite-테이퍼(B)·SLA(C)는 유의하게 상승, 산부식-평행벽(A)은 정체 — 표면처리·형태 주도의 catch-up 효과.
+
+ITI의 치조정 상방 2.8 mm 숄더는 기저 ISQ를 인위적으로 낮추는 기하학적 요인; 이는 단일 보편적 부하 임계값이 아닌 시스템별 ISQ 참조 범위가 필요함을 시사.
 
 ## Summary
 

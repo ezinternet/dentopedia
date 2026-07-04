@@ -16,11 +16,21 @@ source_collection: external
 tags: [cracked-tooth-syndrome, CTS, umbrella-review, endodontic-therapy, cuspal-coverage, AMSTAR-2, PROSPERO, manipal]
 ---
 
-## One-line Summary
-Umbrella review (Manipal CDS, JCDE 2026, PROSPERO registered): synthesizing 4 SRs (30 primary studies) — endodontic therapy + full cuspal coverage showed the best prognosis; AMSTAR-2 quality assessed; CCA 17%.
+## Three-line Summary
 
-## 한줄요약
-Umbrella review (Manipal CDS, JCDE 2026, PROSPERO registered): 4 SR (30 primary studies) 통합 — **endo therapy + full cuspal coverage가 최고 prognosis**. AMSTAR-2 평가, CCA 17%.
+First umbrella review on cracked tooth syndrome therapies (Manipal CDS, JCDE 29(1):11–19, 2026; PROSPERO registered) synthesising 4 eligible SRs covering 30 primary studies (45 entries) with AMSTAR-2 quality assessment and 17% CCA overlap analysis.
+
+Endodontic therapy plus full cuspal coverage showed the best prognosis signal; conservative restoration alone, crown only, or endo only were inferior; treatment selection by clinical stage: vital/shallow crack → conservative + observation; pulpitis/deep crack → endo + cuspal coverage; necrosis → endo + crown; vertical root fracture → extraction.
+
+As the highest available evidence level for CTS, the findings support endo + crown/onlay as the standard of care for advanced cracked teeth, but the underlying primary-study base remains small and the 17% CCA confirms substantial cross-SR overlap.
+
+## 세줄요약
+
+균열치 증후군 치료법에 관한 첫 umbrella review(Manipal 치과대학, JCDE 29(1):11–19, 2026; PROSPERO 등록) — 4편 SR(1차 연구 30편, 45항목) 통합, AMSTAR-2 품질 평가, CCA 17%.
+
+근관치료 + 전체 교두 피개가 최고 예후 신호; 보존적 수복 단독·크라운 단독·근관치료 단독은 열등; 임상 단계별: 생활치수/얕은 균열→보존+관찰, 치수염/깊은 균열→근관치료+교두피개, 치수괴사→근관치료+크라운, 수직 치근 파절→발치.
+
+CTS 최고 근거 수준으로 진행된 균열치에 근관치료+크라운/온레이가 표준 치료임을 지지하나, 기저 1차 연구 수 부족 및 17% CCA는 cross-SR 중복으로 인한 한계.
 
 ## Summary
 CTS 분야 첫 umbrella review. 다수 SR이 분산된 evidence를 종합 — endo + crown coverage가 conservative restoration·crown only·endo only보다 우월. 단, 분야 자체의 primary study 부족 한계.

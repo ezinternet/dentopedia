@@ -30,13 +30,21 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 > [!note] Part of a larger synthesis → [[behavioral-dentistry-overview]]
 > 이 페이지는 MI·커뮤니케이션·attendance 3축에 집중한 decision ladder다. 2026-06-02 환자 커뮤니케이션·PRO·치과불안 논문 13편이 추가되며 카테고리가 4 하위축으로 확장됐다. 전체 18편 통합은 master overview [[behavioral-dentistry-overview]] 참조.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/overview building a 3-axis behavioral-dentistry decision ladder — motivational interviewing (MI), patient–dentist communication skills, and dental attendance promotion — from 5 spine papers; the core thesis is that behavioral factors (patient behavior change, regular attendance, communication quality) drive treatment outcomes on a different plane than surgical/material decisions. MI shows SR+MA-level efficacy for early childhood caries (ECC) prevention (Jahanshahi 2022, 6 RCTs, n=2,776) and works in general medicine even as brief MI (Lundahl 2013, OR 1.55, 95% CI 1.40–1.71, 48 RCTs), but adult periodontal MI evidence is inconclusive (only bleeding on probing −6.41pp significant; Cartes-Velasquez 2024) — meaning "MI doesn't work in adults" is a misread, not a finding. Communication is mapped as 26 skills × 4 categories (Khalifah 2019 SR), and pain-only attendance (≈1/3 of the population) has very thin intervention evidence (Currie 2021, 3 SRs); the clinical takeaway is a staged, stratified approach (recall systems, trust-building, insurance/policy triggers, high-risk-group prioritization).
+Synthesis building a 3-axis behavioral-dentistry decision ladder from 5 spine papers: motivational interviewing (MI) shows SR+MA-level efficacy for early childhood caries (ECC) prevention (Jahanshahi 2022, 6 RCTs, n=2,776) and works in general medicine even as brief MI (Lundahl 2013, OR 1.55, 48 RCTs), but adult periodontal MI evidence is inconclusive — only bleeding on probing −6.41 pp was significant (Cartes-Velasquez 2024), meaning "MI doesn't work in adults" is a misread, not a finding.
 
-## 한줄요약
+Communication is mapped as 26 skills × 4 categories (Khalifah 2019 SR, 50 papers), with no head-to-head evidence on teaching methods; pain-only attendance (≈1/3 of the UK population) has very thin intervention evidence (Currie 2021, only 3 SRs), and behavior change is driven by 4 axes: dentist communication, dentist–patient relationship, perception re-framing, and cost/access.
 
-행동치의학 3축 — 동기면담 (MI) 효과 · 치과의사-환자 커뮤니케이션 스킬 framework · 통증-only 환자 정기검진 유도. Jahanshahi 2022 SR+MA (ECC) + Cartes-Velasquez 2024 SR+MA (성인 치주) + Lundahl 2013 SR+MA (의료 일반).
+Clinical takeaway: stratify by risk and relationship stage — use recall systems and brief MI for initial contact, build trust over 1–2 visits, exploit national policy triggers (health-insurance scaling, etc.), and reserve extended MI sessions for high-risk groups; never conclude "adult MI doesn't work" from Cartes-Velasquez alone.
+
+## 세줄요약
+
+행동치의학 3축 — 동기면담 (MI) 효과 · 치과의사-환자 커뮤니케이션 스킬 framework · 통증-only 환자 정기검진 유도 — 5편 spine 종합.
+
+MI는 ECC 예방에 SR+MA 수준 효과(Jahanshahi 2022, 6 RCT, n=2,776) + 일반 의료에서도 단기 상담으로 유효(Lundahl 2013, OR 1.55, 48 RCT); 성인 치주에서는 출혈(BoP) −6.41pp만 유의하고 결론 보류(Cartes-Velasquez 2024) — "성인 MI 무효"로 오독 금지.
+
+임상 결론: 위험·관계 단계별 층화 접근 — recall + 신뢰 구축 + 보험 정책 trigger 활용, 고위험군에 확장 MI; 통증-only 내원 전환 개입의 직접 근거는 매우 빈약(Currie 2021, SR 3편)이므로 기대치 낮추고 점진적 전략 채택.
 
 ## Summary
 

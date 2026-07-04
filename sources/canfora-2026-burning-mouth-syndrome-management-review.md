@@ -9,8 +9,21 @@ pdf_filename: canfora-2026-burning-mouth-syndrome-management-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-BMS 관리 전략 포괄적 고찰: 약물(clonazepam, TCA, capsaicin), 심리치료(CBT), 물리치료 등 다학제적 접근.
+## Three-line Summary
+
+Comprehensive narrative review (Journal of Oral and Facial Pain and Headache 2026) systematically evaluating management strategies for burning mouth syndrome (BMS) — pharmacological (clonazepam, TCAs, gabapentinoids, capsaicin), psychological (CBT), and physical therapies — with critical appraisal of available RCT evidence.
+
+No single therapy achieves complete remission; topical clonazepam (rinse-and-spit) has the highest RCT evidence base as first-line pharmacological treatment, while CBT reduces psychological distress, and low-dose TCAs/gabapentinoids are used as adjuncts with significant side-effect profiles.
+
+Long-term RCT evidence is scarce, placebo effects are large, and the multifactorial nature of BMS makes a combined multimodal approach the only pragmatic clinical strategy.
+
+## 세줄요약
+
+서술적 고찰(J Oral Facial Pain Headache 2026): BMS 약물치료(클로나제팜·삼환계항우울제·가바펜티노이드·캡사이신), 인지행동치료(CBT, Cognitive Behavioral Therapy), 물리치료 전략의 RCT 근거를 종합 평가.
+
+단일 치료법으로 완치 불가; 국소 클로나제팜(Clonazepam) 구강세척(rinse-and-spit)이 가장 높은 RCT 근거(1차 치료), CBT는 심리적 고통 경감, 저용량 TCA·가바펜티노이드는 부작용 프로파일을 고려한 보조 치료.
+
+장기 RCT 부족·위약 효과 크며, BMS의 다요인 특성상 복합 다학제적 접근이 유일한 현실적 임상 전략이다.
 
 ## 1. Document Information
 - **Title**: Management strategies for burning mouth syndrome: a comprehensive review

@@ -13,11 +13,21 @@ source_collection: external
 tags: [sinus-lift, lateral-window, graftless, immediate-implant, blood-clot, CBCT]
 ---
 
-## One-line Summary
-Prospective clinical pilot CBCT study (n=10, 4–7 mm residual bone) of graftless lateral sinus floor elevation (LSFE) with immediate implant placement as a space maintainer confirmed reliable new bone formation around all implants using only the blood clot, while quantifying ~35–43% bone height contraction and a mean blood-clot volume contraction of 16.52% ± 8.60% over 6 months.
+## Three-line Summary
 
-## 한줄요약
-인간 임상 파일럿 (n=10): 측방창 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립으로 무이식재 (graftless) 신생골 형성 확인. 6개월간 혈병 (Blood Clot) 부피 평균 16.52% ± 8.60% 수축, 골 높이 35–43% 수축.
+Prospective clinical pilot study (n=10, residual bone height 4–7 mm) using CBCT at 15 days and 6 months to quantify graft-free lateral sinus floor elevation (LSFE) with immediate implant placement as the sole space maintainer for blood-clot-based bone formation.
+
+All 10 implants showed bone formation; mean blood-clot volume contracted 16.52% ± 8.60% over 6 months; bone height contraction was 35–43% in all measured regions (mesial, apical, distal); all changes were statistically significant (p<0.05).
+
+Graftless LSFE with immediate implant is feasible in sites with 4–7 mm RBH; surgeons should plan for ~35–43% vertical contraction and overestimate the desired bone envelope; long-term prosthetic data are not reported.
+
+## 세줄요약
+
+전향적 임상 파일럿 연구 (n=10, 잔존 골높이 4–7 mm): 콘빔 전산화 단층촬영 (CBCT) 15일·6개월 이중 시점으로 이식재 없는 측방창 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립 후 혈병 (Blood Clot) 기반 신생골 형성 정량화.
+
+전 10증례에서 신생골 형성 확인; 혈병 부피 평균 16.52% ± 8.60% 수축; 근심·치근단·원심 측정 부위 모두 골 높이 35–43% 수축 (p<0.05).
+
+잔존 골높이 4–7 mm에서 무이식재 LSFE + 즉시 임플란트 실행 가능; 수직 수축 약 35–43%를 고려해 목표 골 범위를 과대 추정해 계획; 장기 보철 결과는 미보고.
 
 ## Summary
 A controlled clinical pilot study in 10 patients tested whether the "tent-pole" effect of an immediately placed implant could maintain enough subantral space — using only the patient's blood clot, no graft material — to allow predictable new bone formation under an elevated Schneiderian membrane. Residual bone heights were 4–7 mm in posterior maxillary sites. CBCT scans at 15 days (T1) and 180 days (T2) tracked the contraction of the clot and the height of newly formed bone in three regions around each implant. Bone formed reliably around all implants, but clinicians should expect 35–43% height contraction and a mean blood-clot volume contraction of 16.5%.

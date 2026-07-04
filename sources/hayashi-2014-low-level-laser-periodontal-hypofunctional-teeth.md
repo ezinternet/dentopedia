@@ -13,13 +13,23 @@ source_collection: external
 
 교합 자극의 상실(occlusal hypofunction)이 치주조직·치조골에 미치는 영향을 직접 보여주는 동물 실험으로, "occlusion → alveolar bone" synthesis의 기초 근거. 기존 [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]]는 교합 *과부하*(occlusal trauma)를 다루지만, 본 논문은 반대 극단인 교합 *저하/무자극*이 PDL stricture와 치조골 BMD 감소를 유발함을 보여 교합-치조골 축의 양 끝을 보완한다. 또한 [[occlusion/leone-2026-occlusal-overload-and-periodontitis-integrating]]의 교합-치주조직 상호작용 논의에 hypofunction 측 데이터를 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Rat experimental study (n=24, 4 groups): occlusal hypofunction reduced PDL thickness and alveolar bone BMD; low-level laser (LLL, 904–910 nm) irradiation restored both to control levels and raised bFGF/VEGF-positive cell counts.
 
-## 한줄요약
+Rat experimental study (n=24, 4 groups): occlusal hypofunction reduced PDL thickness and alveolar bone BMD;
+
+low-level laser (LLL, 904–910 nm) irradiation restored both to control levels and raised bFGF/VEGF-positive cell counts.
+
+(incomplete)
+
+## 세줄요약
+
 
 랫드 실험(n=24, 4군): 교합 무자극(hypofunction)은 치주인대(PDL) 두께와 치조골 골밀도(BMD)를 감소시켰고, 저출력 레이저(LLL, 904–910 nm) 조사가 이를 대조군 수준으로 회복시키며 bFGF·VEGF 양성세포를 증가시켰다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

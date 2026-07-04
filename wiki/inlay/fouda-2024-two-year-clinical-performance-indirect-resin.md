@@ -16,13 +16,21 @@ relations:
     target: angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2-year double-blind RCT (30 participants, MOD ETT molars): CAD/CAM nano-hybrid composite overlay (with cuspal reduction) showed better marginal adaptation, less discoloration/fracture, and less caries than the inlay (no cuspal reduction) design at 24 months.
+2-year double-blind superiority RCT (30 participants, MOD endodontically treated molars) comparing CAD/CAM nano-hybrid composite inlay (no cuspal reduction) vs overlay (full cuspal reduction) milled from Brilliant Crios blocks.
 
-## 한줄요약
+At 6, 12, and 24 months by modified USPHS criteria, the overlay consistently outperformed the inlay: better marginal adaptation, less discoloration and tooth/restoration fracture, and — by 24 months — significantly less secondary caries.
 
-2년 이중맹검 RCT(30명, MOD 근관치료 대구치): CAD/CAM 나노하이브리드 복합레진 오버레이(교두삭제)가 인레이(교두보존) 대비 24개월 시점 변연적합 우수·변색/파절 적음·우식 적음.
+This RCT provides prospective clinical support for cuspal reduction (overlay design) over cusp preservation (inlay design) in badly broken-down endodontically treated molars, though the single-center small sample (26 completers) limits generalizability.
+
+## 세줄요약
+
+2년 이중맹검 우월성 RCT(30명, MOD 근관치료 대구치): CAD/CAM 나노하이브리드 복합레진 인레이(교두보존) vs 오버레이(전교두삭제), Brilliant Crios 블록 밀링.
+
+수정 USPHS 기준 6·12·24개월 평가 — 오버레이가 변연적합 우수·변색/파절 적음; 24개월엔 이차우식도 유의하게 적음.
+
+근관치료된 대구치 교두삭제(오버레이)의 임상적 우위를 전향적으로 지지; 단일기관 소표본(완료 26명)으로 일반화 제한.
 
 ## Summary
 

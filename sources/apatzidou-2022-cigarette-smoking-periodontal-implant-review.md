@@ -10,8 +10,21 @@ pdf_filename: apatzidou-2022-cigarette-smoking-periodontal-implant-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향 — 염증·숙주반응 perturbation, 치주미생물군 변화, 조직회복 손상의 기전 종합. Smoking → periodontitis · peri-implantitis 위험 정량.
+## Three-line Summary
+
+Narrative review (Periodontology 2000, 2022) synthesizing mechanistic and epidemiological evidence on how cigarette smoking drives periodontal disease and impairs implant treatment outcomes.
+
+Smoking disrupts neutrophil function, elevates MMPs, shifts the subgingival microbiome (deep sequencing), and impairs wound healing; periodontitis risk ~2–6×, peri-implantitis risk significantly elevated.
+
+Most comprehensive mechanism-focused reference for the smoking–periodontium axis; limited by heterogeneous epidemiological sources and narrative (not systematic) methodology.
+
+## 세줄요약
+
+서술적 고찰(Periodontology 2000, 2022) — 흡연이 호중구 기능 장애·MMP 증가·치주미생물군 변화·창상치유 저해를 통해 치주질환과 임플란트 결과에 미치는 영향을 기전·역학 통합 정리.
+
+흡연 시 치주염 위험 ~2–6배, 임플란트 주위염 위험 유의 증가; 심부 시퀀싱으로 잇솔하 미생물군 변화 입증.
+
+메커니즘 기반의 핵심 참고 문헌이나 서술적 고찰이며 이질적 역학 데이터를 포함하는 한계.
 
 ## 2. Key Contributions
 - Mechanism-focused review (가장 인용되는 흡연-치주 mechanism reference).

@@ -9,7 +9,7 @@ pdf_filename: stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rc
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 즉시임플란트 협측 결손부 충전: 상악 결절(tuberosity) 자가골 vs 이종골 비교 1년 RCT.
 
 ## 1. Document Information

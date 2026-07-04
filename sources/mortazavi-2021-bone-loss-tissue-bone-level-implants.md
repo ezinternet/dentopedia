@@ -9,7 +9,7 @@ pdf_filename: mortazavi-2021-bone-loss-tissue-bone-level-implants.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review of 38 clinical trials comparing MBL around bone-level (BL) and tissue-level (TL) implants, finding high heterogeneity across studies and no definitive winner — both designs show acceptable MBL under appropriate conditions.
 
 ## 1. Document Information

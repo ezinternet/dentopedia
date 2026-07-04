@@ -13,13 +13,23 @@ source_collection: external
 
 Extends [[wiki/implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] by isolating one prosthetic variable — abutment height — within bone-level platform-switched implants under a one-abutment-one-time protocol, with a methodologically strict 2024 SR+MA that deliberately excludes the retrospective/animal data that biased earlier abutment-height reviews.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 studies (7 meta-analyzed; bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) — at 1 year, 6 studies/384 implants, MD 0.26 mm (95% CI −0.02 to 0.53, I²=73%), moderate GRADE certainty; no difference in probing pocket depth or bleeding on probing.
 
-## 한줄요약
+SR+MA of 8 studies (7 meta-analyzed;
 
-8편 SR+MA(7편 메타분석; 골수준 플랫폼스위칭 임플란트): 긴 어버트먼트(≥2 mm)가 짧은 것(<2 mm)보다 변연골소실이 적음 — 1년 시점 6편/384 임플란트, MD 0.26 mm(95% CI −0.02~0.53, I²=73%), GRADE 중등도; 탐침깊이·BOP는 차이 없음.
+bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) — at 1 year, 6 studies/384 implants, MD 0.26 mm (95% CI −0.02 to 0.53, I²=73%), moderate GRADE certainty;
+
+no difference in probing pocket depth or bleeding on probing.
+
+## 세줄요약
+
+
+8편 SR+MA(7편 메타분석;
+
+골수준 플랫폼스위칭 임플란트): 긴 어버트먼트(≥2 mm)가 짧은 것(<2 mm)보다 변연골소실이 적음 — 1년 시점 6편/384 임플란트, MD 0.26 mm(95% CI −0.02~0.53, I²=73%), GRADE 중등도;
+
+탐침깊이·BOP는 차이 없음.
 
 ## 1. Document Information
 

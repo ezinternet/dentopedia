@@ -13,13 +13,23 @@ source_collection: external
 
 즉시식립 임플란트에서 하중(loading) 및 골이식(grafting)이 골유착과 연조직 치유에 미치는 영향은 임상적으로 중요하나 근거가 불명확하다. 본 연구는 4-group 분할구강 동물실험으로 이 두 변수를 동시에 평가한 드문 조직계측학적 데이터를 제공한다. [[wiki/overviews/type-1a-immediate-placement-immediate-loading-decision]]의 즉시 하중 의사결정 근거를 조직학적으로 보강하며, [[wiki/immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]의 이식재 효과 논의를 동물실험 수준에서 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal study (minipig, n=56 TLX implants, 4 groups, 4 and 12 weeks) showing that neither immediate loading nor gap grafting with bovine bone mineral significantly affected BIC or peri-implant soft-tissue dimensions at immediately placed progressive-thread tissue-level implants.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 미니피그 동물실험(n=56 TLX 임플란트, 4그룹, 4·12주)에서 즉시 하중 여부 및 소뼈유래 골이식재 사용 여부는 즉시식립 임플란트의 골-임플란트 접촉률(BIC) 및 연조직 치유에 유의한 영향을 미치지 않았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

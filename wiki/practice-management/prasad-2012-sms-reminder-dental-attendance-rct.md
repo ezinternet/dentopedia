@@ -20,13 +20,21 @@ relations:
     target: dental-appointment-no-show-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Two-group controlled trial in 4 outpatient dental departments (India, n=206) — SMS appointment reminders raised on-time attendance to 79.2% vs 35.5% in the no-reminder control group.
+Two-group controlled trial across 4 outpatient dental departments (ITS-CDSR, India, n=206: SMS group 96, control 110) testing whether a mobile SMS reminder improves appointment attendance versus no reminder.
 
-## 한줄요약
+On-time attendance was 79.2% in the SMS group vs 35.5% in the no-reminder control — a ~2.2-fold improvement reported as statistically significant, targeting the two leading nonattendance causes (forgetting; date/time confusion).
 
-치과 외래 4개과 대조시험 (인도, n=206): SMS 예약 알림 문자를 받은 시험군의 정시 내원율 79.2%로, 무알림 대조군 35.5%보다 유의하게 높았다.
+Study limitations include apparent non-randomized allocation, no confidence intervals reported, single academic centre, and abstract-only ingest; results should be interpreted as directionally strong but methodologically low-certainty.
+
+## 세줄요약
+
+인도 ITS-CDSR 치과 외래 4개과 대조시험(n=206: SMS군 96명, 대조군 110명) — SMS 예약 알림 vs 무알림.
+
+SMS군 정시 내원율 79.2% vs 대조군 35.5%로 약 2.2배 차이가 유의하게 나타나, 예약 망각·날짜 혼동이라는 두 주요 미내원 원인을 단일 중재로 해결함을 시사.
+
+명백한 비무작위 배정·신뢰구간 미보고·단일 학술기관·초록 전용 분석 등 방법론적 한계로 증거 확실성은 낮음 — 방향성은 강하나 해석에 주의 필요.
 
 ## Summary
 

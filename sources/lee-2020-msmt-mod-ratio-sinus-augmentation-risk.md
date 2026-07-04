@@ -17,13 +17,23 @@ text_filename: lee-2020-msmt-mod-ratio-sinus-augmentation-risk.txt
 
 기존 MSMT 기반 절대값 기준(Chan: 1/3 초과 시 이비인후과 협진; Chen: 1/2 초과 시 예방 FESS)에서 한 걸음 나아가, **MOD(자연공-동저 거리)**와 **MSMT/MOD 비율**이라는 상대적·기능적 지표를 처음 제시한 파일럿 연구. [[wiki/sinus-lift/lateral/chan-2011-sinusitis-risk-mucosal-thickening]] 등 기존 MSMT-only 권고를 확장해, 자연공 상태와 비율 기반 위험 분층을 통합하는 필요성을 실증한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective study (n=120) from a Korean tertiary center demonstrating that MSMT/MOD ratio — not MOD alone — significantly differentiates preoperative sinusitis-risk groups and should guide sinus augmentation planning alongside osteomeatal complex assessment.
 
-## 한줄요약
+(incomplete)
 
-한국 3차 병원 후향적 연구(n=120)로, 상악동점막두께(MSMT)/자연공-동저 거리(MOD) 비율이 군간 유의한 차이를 보임을 확인; MOD 단독은 유의하지 않으며 MSMT/MOD 비율 및 자연공 상태를 함께 평가해야 함.
+(incomplete)
+
+## 세줄요약
+
+
+한국 3차 병원 후향적 연구(n=120)로, 상악동점막두께(MSMT)/자연공-동저 거리(MOD) 비율이 군간 유의한 차이를 보임을 확인;
+
+MOD 단독은 유의하지 않으며 MSMT/MOD 비율 및 자연공 상태를 함께 평가해야 함.
+
+(incomplete)
 
 ## 1. Document Information
 

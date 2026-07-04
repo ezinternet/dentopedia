@@ -16,13 +16,21 @@ text_filename: de-menezes-torres-2025-chatgpt-oral-maxillofacial-surgery.txt
 
 Adds the large-language-model (LLM) arm to the `artificial-intelligence` category — a dentistry-specific (OMFS) ChatGPT SR, contrasting with the image-diagnosis SR+MAs: GPT-4 scores well on consent documents and patient communication (76.8% MCQ accuracy) but fails on complex clinical decisions. Reinforces the "LLM as clinician-reviewed draft tool, not autonomous decision-maker" staging in [[overviews/ai-dentistry-reviews-2024-2025-synthesis]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (10 studies; PRISMA, PROSPERO) of ChatGPT in oral and maxillofacial surgery: GPT-4 reached 76.8% accuracy on MCQs and excelled at informed-consent generation/patient communication (outperforming residents on accuracy/completeness/readability), but underperformed in pharmacology and complex clinical decisions — complement to, not replacement for, human judgment.
+Systematic review (10 studies, PRISMA, PROSPERO CRD42024625882; BJO&MFS 2025) of ChatGPT's impact in oral and maxillofacial surgery, covering clinical decision-making, surgical planning, patient education, and research tasks.
 
-## 한줄요약
+GPT-4 achieved 76.8% accuracy on OMFS multiple-choice questions and outperformed residents and other AI models on informed-consent document generation (accuracy, completeness, readability); performance was lower and variable for pharmacology and complex clinical decisions (oral cancer, orthognathic surgery, personalized advice).
 
-구강악안면외과에서 ChatGPT의 영향을 다룬 체계적 문헌고찰(10편): GPT-4는 객관식 76.8% 정확도·동의서 작성·환자 소통에서 우수(전공의 능가)하나 약리·복잡 임상결정에서는 미흡 — 인간 판단의 보조이지 대체 불가.
+ChatGPT is a useful adjunct for consent documents and patient communication in OMFS but is not ready for autonomous clinical decision-making — human oversight and integration with clinical databases remain essential.
+
+## 세줄요약
+
+체계적 문헌고찰(10편, PRISMA, PROSPERO CRD42024625882; BJOMS 2025): 구강악안면외과(Oral and Maxillofacial Surgery, OMFS)에서 ChatGPT의 임상 의사결정·수술 계획·환자 교육·연구 분야 영향 평가.
+
+GPT-4는 OMFS 객관식(Multiple Choice Question, MCQ) 76.8% 정확도를 달성하고 동의서 작성(정확성·완성도·가독성)에서 전공의와 타 AI 모델을 상회; 약리 및 복잡 임상결정(구강암·악교정·개인화 조언)에서는 성능 낮고 가변적.
+
+ChatGPT는 OMFS 동의서·환자 소통의 유용한 보조 도구이나 자율적 임상 결정에는 미성숙 — 인간 감독과 임상 데이터베이스 통합이 반드시 필요.
 
 ## 1. Document Information
 

@@ -9,7 +9,7 @@ pdf_filename: fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.pd
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review (J Clin Med 2023) of OD vs conventional osteotomy: OD consistently increases primary implant stability (IT and ISQ) in most studies; greatest effect in low-density bone; evidence quality low to moderate.
 
 ## 1. Document Information

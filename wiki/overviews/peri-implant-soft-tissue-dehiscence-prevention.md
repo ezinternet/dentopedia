@@ -25,12 +25,21 @@ source: synthesis
 > - 위험 분류 → 술식: LOW(표준 식립, CTG optional) / MOD(CTG 또는 콜라겐 매트릭스 + SG mandatory + palatal-biased position) / HIGH(식립 전 FGG로 KT 증대 → CTG + SG + GBR).
 > - 기존 PSTD 관리: ≤1mm 관찰+위생, 1~3mm CTG 보강, ≥3mm + 협측 골 결손 → 보철 제거 + GBR + 재수복.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis (11 wiki entries) of peri-implant soft tissue dehiscence (PSTD) prevention and management as a 3-stage algorithm (pre-placement risk assessment → surgical technique → maintenance). Core thesis: PSTD is an expected natural progression, not an exceptional complication — averaging 46.2% even in disease-free sites (Tavelli 2025 AO/AAP SR+meta-regression, 221 studies); risk factors (thin biotype, keratinized tissue (KT) <2 mm, buccal position, immediate placement, smoking, no CTG) are identifiable before placement and protective surgery (CTG/SCTG, KT augmentation ≥2 mm threshold, soft-tissue volume) roughly halves prevalence — with connective-tissue graft remaining gold standard but xenogeneic collagen matrix acceptable outside thin biotype, and soft-tissue procedures needing combination with bone preservation.
+Synthesis of 11 wiki entries on peri-implant soft tissue dehiscence (PSTD) as a 3-stage prevention-to-management algorithm: PSTD averages 46.2% even in disease-free sites (Tavelli 2025 AO/AAP SR+meta-regression, 221 studies) — it is an expected natural progression, not an exceptional complication.
 
-## 한줄요약
-임플란트 주위 연조직 dehiscence (Peri-implant Soft Tissue Dehiscence, PSTD)는 *질환 없는* 상태에서도 평균 46.2% 발생 (Tavelli 2025 AO/AAP SR+meta-regression, 221편). 위험인자(thin biotype·각화점막 (Keratinized Tissue, KT) <2 mm·협측 위치·즉시식립·흡연·당뇨)는 식립 *전* risk assessment로 식별 가능하고, 보호 술식 (CTG·결합조직이식 (Subepithelial Connective Tissue Graft, SCTG)·KT 증대·연조직 두께 증대)로 prevalence를 약 50% 감소시킨다. 본 페이지는 식립 전 평가 → 술식 → 유지관리의 3단계 알고리즘.
+Risk factors identifiable before placement: thin biotype (≤1 mm), keratinized tissue (KT) <2 mm, buccal malposition, immediate placement, smoking, no CTG; protective interventions (CTG/SCTG, KT ≥2 mm augmentation, soft-tissue volume) roughly halve prevalence; thin facial bone wall (<1 mm) is the anatomic root cause (Martins 2024).
+
+Clinical algorithm: LOW risk → standard placement ± CTG; MOD → CTG or xenogeneic collagen matrix + mandatory socket graft + palatal position; HIGH → pre-placement FGG (4–8 wk) → CTG + socket graft + GBR at placement; existing PSTD ≥3 mm + buccal bone loss → prosthetic removal + GBR + re-restoration.
+
+## 세줄요약
+
+임플란트 주위 연조직 열개(Peri-implant Soft Tissue Dehiscence, PSTD)는 질환 없는 상태에서도 평균 46.2% 발생(Tavelli 2025 AO/AAP SR+meta-regression, 221편) — 예외적 합병증이 아닌 기대 가능한 자연 진행.
+
+위험인자(thin biotype·각화점막(Keratinized Tissue, KT) <2mm·협측 위치·즉시식립·흡연)는 식립 전 risk assessment로 식별 가능; 보호 술식(CTG/SCTG·KT 증대·연조직 두께 증대)으로 prevalence ~50% 감소; 협측 골판(Facial Bone Wall) <1mm가 해부학적 근본 원인(Martins 2024).
+
+3단계 알고리즘: 저위험 → 표준 ± CTG; 중위험 → CTG 또는 이종 콜라겐 매트릭스+소켓 이식 필수+구개측 위치; 고위험 → 식립 전 유리치은이식(FGG) → CTG+GBR; 기존 PSTD ≥3mm+협측골 결손 → 보철 제거+GBR+재수복.
 
 ## Scope
 

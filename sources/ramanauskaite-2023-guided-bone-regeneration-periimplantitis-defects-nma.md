@@ -13,11 +13,21 @@ source_collection: external
 
 agenda/2026-06-03 백로그의 주위염 재건술 gap. [[implants/herrera-2023-prevention-treatment-peri-implant-efp]]의 외과 재건 항목과 bone-regeneration 카테고리를 잇는다.
 
-## One-line Summary
-Network meta-analysis of reconstructive (GBR) therapy for peri-implantitis intrabony defects; reconstruction aims at defect fill, re-osseointegration and limiting soft-tissue recession.
+## Three-line Summary
 
-## 한줄요약
+Network meta-analysis of reconstructive (GBR) therapy for peri-implantitis intrabony defects;
+
+reconstruction aims at defect fill, re-osseointegration and limiting soft-tissue recession.
+
+(incomplete)
+
+## 세줄요약
+
 임플란트주위염 골내결손에 대한 재건적(GBR) 치료의 네트워크 메타분석 — 재건 목표는 결손 충전·재골유착·연조직 퇴축 최소화.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Periodontology 2000 2023;93:236-253 · Ausra Ramanauskaite, Kathrin Becker, Emilio A. Cafferata, Frank Schwarz · 2023 · DOI: 10.1111/prd.12510. Study type: sr+ma.

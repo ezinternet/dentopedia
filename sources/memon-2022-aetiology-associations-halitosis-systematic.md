@@ -13,13 +13,23 @@ source_collection: external
 
 구강 악취(halitosis)의 원인 분류 체계 — 구강내 요인(intra-oral) 80–90 % vs. 구강외 요인(extra-oral) 10–20 % — 를 근거 중심으로 정리하기 위해 수집. 현재 halitosis 카테고리를 개설하는 첫 번째 페이퍼로, 이후 역학·치료 SR들의 분류 참조틀(reference framework)을 제공한다. [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]] 자체가 기반 페이지로 기능.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (19 studies, 2014–2020) concluding that 80–90% of halitosis is intra-oral in origin, with coated tongue, periodontal disease, and poor oral hygiene as the leading factors.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰(19편, 2014–2020): 구강 악취의 80–90 %는 구강내 원인(설태·치주질환·구강위생 불량)이며, 10–20 %는 구강외 전신질환에 기인함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

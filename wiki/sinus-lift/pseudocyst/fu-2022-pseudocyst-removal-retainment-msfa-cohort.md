@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, sinus-augmentation, lateral-window, remove-vs-retain, volumetric, immediate-implant]
 ---
 
-## One-line Summary
-Retrospective cohort (n=26 patients, 38 implants) comparing antral pseudocyst removal (RC, n=13) vs retention (LC, n=13) during lateral-window maxillary sinus floor augmentation with immediate implant placement, tracked by 3D volumetric CBCT from immediate to 2–5 years; both strategies allowed implant placement and survival, supporting immediate implant even when the pseudocyst is retained (interpreted as both options feasible rather than equivalent, given small n and possible selection bias).
+## Three-line Summary
 
-## 한줄요약
-후향 코호트 (n=26, 38 implants, 2016-2021): 점액낭종 제거군 (RC, n=13) vs 잔존군 (LC, n=13) — 측방창 거상술 + 즉시 임플란트. T1~T4 (2-5년) 다시점 3D 부피 추적 — **잔존 시에도 immediate implant 가능** (조건부).
+Retrospective cohort (n=26 patients, 38 implants) comparing antral pseudocyst removal (RC, n=13) vs retention (LC, n=13) during lateral-window maxillary sinus floor augmentation (MSFA) with immediate implant placement, tracked by 3D volumetric CBCT from immediate post-op to 2–5 years.
+
+Both strategies permitted implant placement and survival; retained cysts showed dynamic volumetric changes over time; grafted bone volume resorption was observed in both groups; complication distributions are tabulated in the source.
+
+Both removal and retention of antral pseudocysts are feasible options for MSFA with immediate implant; interpretation should be "both options viable" rather than "equivalent," given small n=26 and potential selection bias.
+
+## 세줄요약
+
+후향적 코호트 (n=26명, 38개 임플란트): 측방창 상악동거상술 (Maxillary Sinus Floor Augmentation, MSFA) + 즉시 임플란트 시 위낭종 (Antral Pseudocyst) 제거군 (RC, n=13) vs 잔존군 (LC, n=13) 비교 — 3D 체적 콘빔 전산화 단층촬영 (CBCT)으로 즉시술~2–5년 추적.
+
+양군 모두 임플란트 식립·생존 가능; 잔존 낭종은 시간 경과에 따라 동적 부피 변화; 이식재 부피 흡수는 양군 모두 관찰.
+
+위낭종 제거 및 잔존 모두 즉시 임플란트를 포함한 MSFA의 실행 가능한 옵션; n=26의 소표본 및 선택 편향 가능성으로 "동등성"보다 "양측 옵션 실행 가능"으로 해석 권장.
 
 ## Summary
 Antral Pseudocyst (AP) 발견 시 술자 결정: 제거 vs 잔존. 본 후향 코호트는 두 전략 모두 측방창 augmentation + 즉시 implant와 결합해 임플란트 식립이 가능함을 보여준다. 단 **selection bias** 가능성과 작은 n으로 인해 "동등성" 주장보다는 "양쪽 옵션 모두 실행 가능" 정도의 결론으로 해석해야 한다.

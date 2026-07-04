@@ -18,11 +18,19 @@ relations:
     target: chaware-2021-short-vs-long-implant-sinus-graft-sr-ma
 ---
 
-## One-line Summary
-SR+MA of 7 ≥5-year RCTs (search 2016–2024) on short vs long implants with sinus augmentation; success/survival not significantly different (RR 2.37, 95% CI 0.83–6.78), with 5 of 7 trials at high risk of bias and low overall certainty.
+## Three-line Summary
+SR+MA of 7 RCTs with ≥5 years of follow-up (search 2016–2024) comparing short implants vs long implants with sinus augmentation in the atrophic posterior maxilla.
 
-## 한줄요약
-≥5년 RCT 7편 메타분석 — 성공/생존 RR 2.37(0.83–6.78)로 유의차 없음; 7편 중 5편 high RoB로 근거 확실성 낮음.
+Pooled success/survival risk ratio of 2.37 (95% CI 0.83–6.78) was not statistically significant; 5 of 7 trials were graded high risk of bias under RoB 2, rendering overall certainty low.
+
+Short implants remain a reasonable alternative to sinus augmentation, but the wide confidence interval and predominant high bias mean the equivalence claim rests on weak evidence.
+
+## 세줄요약
+추적 ≥5년인 무작위 대조 임상시험 (Randomized Controlled Trial, RCT) 7편 (2016–2024년 검색) 메타분석: 위축 후방 상악에서 단임플란트 (Short Implant) vs 장임플란트+상악동거상술 (Sinus Augmentation) 비교.
+
+성공/생존 위험비 (Risk Ratio, RR) 2.37 (95% CI 0.83–6.78)로 통계적으로 유의하지 않음; 7편 중 5편이 RoB 2 기준 고위험 편향, 전체 근거 확실성 낮음.
+
+단임플란트는 상악동거상술의 타당한 대안이나, 광범위한 신뢰구간과 우세한 고위험 편향으로 인해 동등성 주장의 근거가 약함.
 
 ## Summary
 This long-term meta-analysis updates the short-vs-long implant question for the atrophic posterior maxilla using seven RCTs with at least five years of loading. The pooled success/survival risk ratio (2.37) did not reach significance and carried a wide confidence interval spanning 1. Critically, the authors graded five of seven trials at high risk of bias under RoB 2, rendering overall certainty low. The page reinforces the broad "short implants are a reasonable alternative" direction but, per the living-document principle, should be cited with the explicit caveat that the underlying RCT quality is poor and the effect estimate imprecise.

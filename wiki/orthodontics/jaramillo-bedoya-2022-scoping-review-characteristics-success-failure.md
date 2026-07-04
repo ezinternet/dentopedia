@@ -16,13 +16,21 @@ relations:
     target: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (103 studies, 2010–2020): maps real-world TAD practice — mostly maxillary, inter-radicular between 2nd premolar and 1st molar, AbsoAnchor the dominant brand, typical 1.6 mm × 8 mm self-drilled immediately-loaded screws (40–800 g); 47.6% of studies reported ≥90% success.
+Scoping review (103 studies, 2010–2020) mapping the descriptive landscape of real-world TAD use across device parameters, insertion sites, loading protocols, and reported success rates.
 
-## 한줄요약
+Most TADs were placed in the maxilla, inter-radicular between the 2nd premolar and 1st molar; AbsoAnchor was the dominant brand; the typical configuration was 1.6 mm × 8 mm self-drilled, closed-technique, immediately loaded at 40–800 g; 47.6% of studies reported success ≥90%.
 
-스코핑 리뷰 (103편, 2010–2020): TAD 실제 사용 패턴 — 대부분 상악·제2소구치–제1대구치 인접근, AbsoAnchor 최다, 전형 1.6 mm × 8 mm self-drilled 즉시부하(40–800 g); 47.6% 연구가 성공률 ≥90% 보고.
+As a scoping review without quality appraisal or effect pooling, it provides the practice-pattern context behind pooled failure-rate meta-analyses — not a standalone effect estimate.
+
+## 세줄요약
+
+교정용 TAD 실제 사용 패턴(장치 특성·삽입 부위·부하 프로토콜·성공률)을 기술적으로 정리한 스코핑 리뷰 (103편, 2010–2020).
+
+대부분 상악·제2소구치–제1대구치 인접근, AbsoAnchor 최다, 전형 1.6 mm × 8 mm self-drilled 즉시부하 40–800 g; 47.6%의 연구가 성공률 ≥90% 보고.
+
+비뚤림 위험 평가나 효과 통합이 없는 스코핑 설계이므로 독립적 효과 추정치가 아닌 메타분석의 배경 맥락 데이터로 활용해야 함.
 
 ## Summary
 

@@ -18,11 +18,21 @@ relations:
     target: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma
 ---
 
-## One-line Summary
-SR+MA of 80 studies (n=7,614): pooled OL recurrence after surgery = 22%; laser excision+vaporization combination best; recurrent OL carries 7.39× higher malignant transformation risk.
+## Three-line Summary
 
-## 한줄요약
-80개 연구 SR+MA(n=7,614): 구강백반증 (Oral Leukoplakia, OL) 수술 후 재발률 22%; 레이저 절제+기화 복합술이 최적; 재발 병변은 악성변환 (Malignant Transformation, MT) 위험 7.39배.
+SR+MA with network meta-analysis (PRISMA; EMBASE/PubMed/Scopus/Web of Science through April 2024; 80 studies, n=7,614) examining oral leukoplakia (OL) recurrence after surgical management across all major modalities.
+
+Pooled recurrence rate was 22% overall; conventional scalpel surgery: up to 49% at 5 years; network meta-analysis identified laser excision + vaporization combination as the optimal strategy; recurrent OL carries 7.39-fold elevated malignant transformation (MT) risk vs non-recurrent OL.
+
+Recurrence is not merely a treatment failure — it is an independent MT risk amplifier (RR 7.39), making recurrence prevention via laser surgery a direct cancer prevention strategy; risk factors include non-homogeneous subtype, retromolar/multiple sites, female sex, advanced age, and betel quid.
+
+## 세줄요약
+
+네트워크 메타분석 포함 SR+MA (PRISMA; EMBASE/PubMed/Scopus/Web of Science, ~2024년 4월까지; 80편, n=7,614) — 모든 주요 수술 방식별 구강백반증(Oral Leukoplakia, OL) 재발률 비교.
+
+전체 풀링 재발률 22%; 기존 스캘펠 수술 최대 49%(5년); 네트워크 메타분석에서 레이저 절제+기화 복합술이 최적; 재발 OL의 악성변환(Malignant Transformation, MT) 위험 비재발 대비 7.39배.
+
+재발은 단순 치료 실패가 아닌 독립적 MT 위험 증폭인자(RR 7.39) — 레이저 수술을 통한 재발 예방이 직접적 암 예방 전략; 고위험 인자: 비균질형·구후부/다발성 위치·고령 여성·불충분 절제연·빈랑 씹기.
 
 ## Summary
 This comprehensive SR+MA examined OL recurrence after surgical management across 80 studies. The pooled recurrence rate was 22%, with laser-based approaches consistently outperforming scalpel surgery and cryosurgery. Network meta-analysis identified the combination of laser excision and vaporization as the optimal strategy. Critically, recurrent OL lesions carried a 7.39-fold elevated MT risk compared to non-recurrent lesions, making recurrence prevention a direct cancer prevention strategy. Clinicopathological risk factors for recurrence included non-homogeneous subtype, retromolar/multiple sites, female sex, advanced age, inadequate margins, and betel quid chewing.

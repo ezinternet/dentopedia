@@ -17,13 +17,23 @@ text_filename: otero-2022-informed-consent-dentistry-medicine-spain.txt
 
 Informed consent (IC) is the legal backbone of shared decision-making — it operationalizes patient autonomy and converts "informing the patient" into a documented care process. This paper extends [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] from the communication/process angle into the medico-legal angle: it argues IC is a *care process* of which the signature is the last link, not the ICD form itself, and quantifies the legal stakes (more convictions for defective IC than for malpractice; ~90% of claims relate to information defects). It also bridges to the medico-legal/complaint literature ([[complaint-management/kwon-2017-analysis-of-the-legal-effect]]) by grounding consent failures as the dominant origin of practitioner liability.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of Spanish IC law/jurisprudence + INFLESZ readability analysis of official dental ICDs: IC is a care PROCESS (not the ICD form), defective IC has produced more convictions than malpractice, and the analysed ICDs (INFLESZ 41.24–52.18) were all below the 55-point readability threshold for the general Spanish public.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 스페인 사전동의(IC) 법·판례 내러티브 리뷰 + 공식 치과 동의서(ICD) 가독성(INFLESZ) 분석: IC는 서명이 마지막 고리인 '진료 과정'이지 문서가 아니며, 결함 있는 IC가 의료과실보다 더 많은 유죄판결을 낳았고, 분석한 모든 ICD가 일반 대중 접근 기준(55점) 미만이었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ relations:
     target: odontogenic-maxillary-sinusitis-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 48M) in which preoperative topical fluticasone + pranlukast (LTRA) + perioperative antibiotics prevented post-sinus-lift maxillary sinusitis in a 4-factor high-risk patient (septal deviation, concha bullosa, Haller cell, allergic rhinitis); bilateral sinus lift uneventful at 7 months.
+Case report (n=1, 48-year-old male) with four concurrent ENT contraindications (septal deviation, concha bullosa, Haller cell, allergic rhinitis) who declined surgical correction (FESS/septoplasty) before planned bilateral maxillary sinus floor elevation.
 
-## 한줄요약
+A 2-month preoperative regimen of topical fluticasone nasal spray + pranlukast (LTRA) + perioperative amoxicillin fully resolved nasal congestion; bilateral sinus lift was uneventful with no sinusitis at 7-month follow-up.
 
-증례 보고 (n=1, 48세 남성): 비중격만곡·함기화 중비갑개·할러 세포·알레르기 비염 4중 고위험 환자에서 국소 스테로이드(Fluticasone) + 류코트리엔 수용체 길항제(Leukotriene Receptor Antagonist, LTRA, 프란루카스트) + 주술기 항생제로 수술 없이 상악동염 합병증을 예방하고 양측 상악동거상술 7개월 후 이상 없음.
+In patients with reversible ENT contraindications who refuse surgery, a medical protocol (nasal steroid + LTRA) may reduce sinusitis risk enough to safely proceed with sinus lift — but this is based on a single case and needs clinical trial validation.
+
+## 세줄요약
+
+증례 보고 (n=1, 48세 남성): 비중격만곡·함기화 중비갑개(Concha Bullosa)·할러 세포(Haller Cell)·알레르기 비염 4중 ENT 가역적 금기 환자가 수술적 교정(FESS/중격수술)을 거부한 상황에서 양측 상악동거상술 시행 예정.
+
+수술 전 2개월간 국소 플루티카손 비강 스프레이 + 프란루카스트(류코트리엔 수용체 길항제, Leukotriene Receptor Antagonist, LTRA) + 주술기 아목시실린으로 비충혈 거의 완전 소실; 양측 거상술 합병증 없이 7개월 추적 시 이상 없음.
+
+가역적 ENT 금기 환자 중 수술 거부 시 비강 스테로이드+LTRA 의학적 요법으로 거상술 진행 가능성이 있으나, 단일 증례로 임상시험 검증이 필요하다.
 
 ## Summary
 

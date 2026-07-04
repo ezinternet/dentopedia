@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 RCTs: scaling and root planing in type 2 diabetics with periodontitis significantly reduced HbA1c (mean difference 0.56%, 0.36-0.75) and CRP (DM 1.89, 1.70-2.08), both p<0.01 with I²=0% heterogeneity.
+SR+MA of 9 RCTs examining whether scaling and root planing (SRP) improves metabolic control and systemic inflammation in patients with both type 2 diabetes and periodontitis; searches covered MEDLINE/PubMed and Cochrane CENTRAL through July 2018.
 
-## 한줄요약
+SRP significantly reduced HbA1c (mean difference 0.56%, 95% CI 0.36–0.75, p<0.01) and C-reactive protein (mean difference 1.89, 95% CI 1.70–2.08, p<0.01), with zero between-study heterogeneity (I²=0%) for both outcomes.
 
-9개 RCT 체계적문헌고찰·메타분석: 제2형 당뇨 + 치주염 환자에서 치석제거·치근활택술(SRP)이 당화혈색소(HbA1c)를 0.56%(0.36-0.75) 감소시키고 C-반응성단백(CRP)을 1.89(1.70-2.08) 낮춤(모두 p<0.01, 이질성 I²=0%).
+These findings position non-surgical periodontal therapy as a clinically relevant adjunct for both glycemic control and cardiovascular-inflammatory risk reduction in type 2 diabetics.
+
+## 세줄요약
+
+제2형 당뇨 + 치주염 환자에서 치석제거·치근활택술(SRP)이 대사조절 및 전신 염증을 개선하는지를 평가한 9편 RCT 체계적 문헌고찰+메타분석(MEDLINE/Cochrane, 2018년 7월까지).
+
+SRP는 당화혈색소(HbA1c)를 0.56%(95% CI 0.36–0.75, p<0.01), C-반응성 단백(CRP)을 1.89(95% CI 1.70–2.08, p<0.01) 유의 감소시켰으며 이질성은 두 지표 모두 I²=0%.
+
+비외과적 치주치료가 혈당 조절뿐 아니라 심혈관 염증위험 지표 감소에도 기여한다는 근거로, 당뇨 환자의 치주치료 병행을 지지.
 
 ## Summary
 

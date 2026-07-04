@@ -9,7 +9,7 @@ pdf_filename: farooqi-2015-periodontal-maintenance-recall-interval-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 치주유지치료(Periodontal Maintenance, PM) 주기 SR (JEBDP 2015): 8편 코호트, RCT 없음; 3–6개월 단기 주기가 치아 보존 유리; 특정 주기를 모든 환자에게 권고할 근거 부족.
 
 ## 1. Document Information

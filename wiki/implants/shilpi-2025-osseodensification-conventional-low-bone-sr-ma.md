@@ -18,13 +18,21 @@ relations:
     target: mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (6 human RCT/NRCT studies) of OD vs conventional drilling in low bone density: ISQ non-significant at both time points (SMD 2.13, p=0.06; SMD 1.81, p=0.11); bone density significantly higher immediately post-placement (SMD 2.14, p=0.004) but not at 3–7 months.
+SR+MA (1,454 publications screened, 6 human RCTs/NRCTs included; RoB 2.0/ROBINS-I; RevMan 5.4) comparing osseodensification (OD) vs conventional drilling in low bone density sites, restricted to human studies only.
 
-## 한줄요약
+OD did not significantly outperform conventional drilling in ISQ at immediate (SMD 2.13, 95% CI −0.08 to 4.35, p=0.06) or follow-up time points (SMD 1.81, p=0.11); however, peri-implant bone density was significantly higher immediately after OD placement (SMD 2.14, p=0.004) but this advantage disappeared by 3–7 months.
 
-저밀도 골 SR+MA(인간 RCT/NRCT 6편): OD는 ISQ에서 비유의(즉시 p=0.06, 추적 p=0.11)였으나 식립 직후 골밀도는 유의하게 높았고(SMD 2.14, p=0.004), 3–7개월 후 비유의였다.
+This human-only SR+MA independently corroborates Mohammadi 2025 (same year, different team): OD's benefit in low-density bone is early and density-specific, not ISQ-significant — the ISQ p=0.06 suggests a trend that current study sample sizes lack power to confirm.
+
+## 세줄요약
+
+SR+MA (1,454편 스크리닝, 인간 RCT/NRCT 6편 포함; RoB 2.0/ROBINS-I; RevMan 5.4) — 저밀도 골에서 골밀도화(Osseodensification, OD) vs 통상 드릴링, 인간 연구만 포함.
+
+임플란트 안정성 지수(Implant Stability Quotient, ISQ): 즉시(SMD 2.13, 95% CI −0.08–4.35, p=0.06, 비유의)·추적(SMD 1.81, p=0.11, 비유의); 임플란트주위 골밀도(Peri-implant Bone Density): 식립 직후 OD 유의하게 높음(SMD 2.14, p=0.004), 3–7개월 후 비유의.
+
+동년 Mohammadi 2025(다른 팀, 7편)의 ISQ 비유의 결론 독립 재확인 — OD의 저밀도 골 효과는 조기·밀도 특이적이며 ISQ 유의차 없음; p=0.06은 표본수 부족으로 유의 미달인 경향(Trend).
 
 ## Summary
 

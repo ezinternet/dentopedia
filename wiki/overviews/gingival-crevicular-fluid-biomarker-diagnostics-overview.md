@@ -26,13 +26,21 @@ source_wiki:
 > - **전진 방향**: 단일 파라미터 labside(ELISA·PCR) → **멀티플렉스 chairside**(측방유동검사(Lateral Flow Assay, LFA)·바이오센서·미세유체 lab-on-a-chip) + AI 통합. 사이토카인+미생물 DNA+골흡수 마커를 한 휴대 플랫폼에서 동시 검출하는 것이 foroughi의 제안.
 > - **임상 takeaway**: 오늘의 GCF는 **연구·모니터링 도구**(치료 전후 IL-1β/MMP 추세, OTM 진행)이지 아직 독립 진단검사가 아니다. 부위특이가 필요하면 GCF, 전악 스크리닝이면 타액을 택하고, 표준화·chairside 검사·규제승인이 임상 진입의 관문이다.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-paper synthesis (5 papers) mapping gingival crevicular fluid (GCF) — the passive, site-specific, non-invasive sulcular exudate — as a diagnostic biomarker medium along two axes: **functional layers** (inflammatory cytokines → enzymes/MMPs → bone-turnover regulators RANKL/OPG/sclerostin → epigenetic miRNAs) and **clinical purposes** (periodontal diagnosis & treatment response, orthodontic tooth-movement monitoring, bone-turnover/systemic read-out). IL-1β is the single most robust marker across all five papers and the RANKL:OPG ratio the master bone-resorption switch; the shared barriers are the absence of any oral-cavity-exclusive marker, missing standardized cut-offs, and ELISA cost, motivating multiplex AI-integrated chairside platforms.
+Cross-paper synthesis of 5 papers (1 RCT, 3 narrative/scoping/SR reviews, 1 SR) mapping gingival crevicular fluid (GCF) as a passive, site-specific diagnostic biomarker medium across two axes: functional layers (inflammatory cytokines → enzymes/MMPs → bone-turnover regulators RANKL/OPG/sclerostin → epigenetic miRNAs; diagnostic miRNAs include miR-146a/200b/223/23a with AUC > 0.8) and clinical purposes (periodontal diagnosis and treatment response, orthodontic tooth-movement monitoring, bone-turnover/systemic read-out).
 
-## 한줄요약
+IL-1β is the single most robust marker across all five papers; the RANKL:OPG ratio is the master bone-resorption switch; MMP-9 is detectable within 4 hours of orthodontic force; GBT reduced GCF IL-1β significantly while TNF-α/MMP-8 showed no group difference (Donertas 2026 RCT, n=80).
 
-치은열구액(GCF)을 부위특이·비침습 진단 매체로 보고 5편을 두 축 — **기능 계층**(염증 사이토카인 → 효소/MMP → 골대사 조절축 RANKL/OPG·스클레로스틴 → 후성유전 miRNA) 과 **임상 목적**(치주 진단·치료반응, 교정 치아이동 모니터링, 골대사·전신 read-out) — 으로 종합. IL-1β가 5편 전부를 관통하는 최견고 마커이고 RANKL:OPG 비가 골흡수 마스터 스위치이며, 구강강 특이 마커 부재·표준 컷오프 부재·ELISA 비용이 공통 장벽이라 멀티플렉스 AI chairside 플랫폼이 해법으로 제시된다.
+The shared barriers are the absence of any oral-cavity-exclusive marker, missing standardized cut-offs, and ELISA cost/complexity; the forward path is multiplex AI-integrated chairside platforms (lateral flow/microfluidic/biosensor), with today's GCF serving as a research and monitoring tool rather than a stand-alone diagnostic test.
+
+## 세줄요약
+
+치은열구액(GCF)을 부위특이·비침습 진단 매체로 보고 5편을 두 축 — **기능 계층**(염증 사이토카인 → 효소/MMP → 골대사 조절축 RANKL/OPG·스클레로스틴 → 후성유전 miRNA; 진단 miRNA miR-146a/200b/223/23a AUC > 0.8) 과 **임상 목적**(치주 진단·치료반응, 교정 치아이동 모니터링, 골대사·전신 read-out) — 으로 종합.
+
+IL-1β가 5편 전부를 관통하는 최견고 마커이고 RANKL:OPG 비가 골흡수 마스터 스위치이며, MMP-9는 교정력 4시간 내 검출되는 초기 치아이동 마커이고, GBT는 GCF IL-1β를 유의하게 줄이나 TNF-α/MMP-8은 군간 차이 없었다(Donertas 2026 RCT, n=80).
+
+구강강 특이 마커 부재·표준 컷오프 부재·ELISA 비용이 공통 장벽이라 멀티플렉스 AI chairside 플랫폼(측방유동검사·미세유체·바이오센서)이 전진 방향으로 제시되며, 현재 GCF는 독립 진단검사가 아닌 연구·모니터링 도구다.
 
 ## Summary
 

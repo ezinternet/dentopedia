@@ -18,13 +18,21 @@ relations:
     target: moghaddas-2025-osseodensification-standard-drilling-isq-itv
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro pig-tibia study (Lekholm-Zarb type IV bone, n=55 implants/group): Osseodensification produced significantly higher insertion torque (21.7 vs 8.9 Ncm, p<0.001) and ISQ (69.8 vs 65.2, p=0.001) than conventional under-drilling.
+In vitro porcine tibia study (Lekholm-Zarb type IV / D4 bone analog, n=55 implants per group) comparing osseodensification (OD, Densah burs) vs conventional under-drilling (UD) for primary stability.
 
-## 한줄요약
+OD produced significantly higher insertion torque (21.7 vs 8.9 Ncm, p<0.001) and ISQ (69.8 vs 65.2, p=0.001); torque–ISQ fit was tighter with OD (pseudo r²=0.42 vs 0.27); ISQ plateaued near 75.6 regardless of further torque.
 
-저밀도 돼지 경골(Lekholm-Zarb type IV) in vitro 연구(군당 임플란트 55개): 골밀도화(OD)가 기존 언더드릴링(UD)보다 식립 토크(21.7 vs 8.9 Ncm, p<0.001)와 ISQ(69.8 vs 65.2, p=0.001) 모두 유의하게 높았다.
+Even against under-drilling (the established soft-bone technique), osseodensification achieves superior primary stability in type IV bone — the torque advantage is ~2.4× with a modest but significant ISQ gain.
+
+## 세줄요약
+
+저밀도 돼지 경골 (Lekholm-Zarb type IV / D4 유사, 군당 55개) in vitro 연구: 골밀도화 (Osseodensification, OD, Densah bur) vs 기존 언더드릴링 (Under-Drilling, UD) 1차 안정성 비교.
+
+OD가 식립 토크 (Insertion Torque, IT) 21.7 vs 8.9 Ncm (p<0.001)과 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 69.8 vs 65.2 (p=0.001) 모두 유의하게 우수; OD에서 토크–ISQ 적합도 더 높음(의사결정계수 0.42 vs 0.27); ISQ 75.6에서 포화.
+
+소프트 골의 표준 기법인 언더드릴링과 비교해도 OD가 type IV 골에서 우월한 1차 안정성을 보임; 토크 이점 약 2.4배, ISQ 이점은 유의하나 소폭.
 
 ## Summary
 

@@ -14,11 +14,19 @@ source_collection: external
 tags: [immediate-implant, periapical-pathology, chronic-periapical-lesion, GBR, sinus-lift, retrospective, BMC, Turkey]
 ---
 
-## One-line Summary
-Retrospective study (Turkey, BMC Oral Health 2023, 69 patients / 124 implants) comparing survival of immediate implants placed in extraction sockets with chronic periapical pathology across three strategies — G1 immediate placement alone, G2 immediate + GBR, G3 sinus lift + immediate — providing evidence that immediate placement in chronic periapical lesion sockets is feasible with appropriate debridement and augmentation.
+## Three-line Summary
+Retrospective study (Turkey, 69 patients / 124 implants) comparing survival of immediate implants placed in chronic periapical pathology sockets across three strategies: G1 immediate alone, G2 immediate + GBR, G3 sinus lift + immediate.
 
-## 한줄요약
-Turkey 후향 연구 (BMC Oral Health 2023, Çolak n=69 환자/124 implants): 만성 근첨병변 (chronic periapical pathology) 발치 소켓에 즉시 식립 — 3 그룹 (G1 즉시 식립, G2 즉시+GBR, G3 sinus lift+즉시) 생존율 비교. 만성 근첨병변 즉시 식립의 contributing 임상 근거.
+Survival rates were acceptable across all three groups with appropriate periapical debridement, demonstrating that chronic periapical lesions are not an absolute contraindication to immediate placement.
+
+Clinical implication: thorough socket debridement and selection of augmentation strategy (GBR vs sinus lift) based on defect anatomy allows immediate implant placement even in chronically infected sites; acute infection remains a contraindication.
+
+## 세줄요약
+후향 연구 (터키, n=69 환자/124 임플란트) — 만성 근첨병변 (chronic periapical pathology) 발치와에서 즉시식립 3군 비교: G1 즉시단독, G2 즉시+GBR, G3 상악동거상+즉시.
+
+충분한 소켓 변연 제거(debridement) 시 3군 모두 수용 가능한 생존율 달성 — 만성 근첨병변이 즉시식립의 절대 금기가 아님을 시사.
+
+임상 적용: 만성 감염치에서도 철저한 소켓 소파(debridement) + 결손 형태에 따른 증대술 선택으로 즉시식립 가능; 급성 감염은 여전히 금기.
 
 ## Summary
 Retrospective Turkish study (Tokat Gaziosmanpasa / Sakarya OMFS, BMC Oral Health 2023) examining the survival rate of immediate implants placed in extraction sockets that had chronic periapical pathology — a long-debated indication where conventional wisdom favored delayed placement after socket healing. The study compares three augmentation/placement strategies:

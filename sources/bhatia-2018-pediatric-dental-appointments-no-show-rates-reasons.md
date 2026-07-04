@@ -17,13 +17,23 @@ text_filename: bhatia-2018-pediatric-dental-appointments-no-show-rates-reasons.t
 
 Complements [[practice-management/khries-2024-identifying-barriers-pediatric-dental-appointments]] (Jordan, n=265, 44% missed) with an India-based pediatric cohort (Navi Mumbai, n=294, 52% missed) — reinforcing pediatric no-show *rates and reasons* (forgetfulness, exams, parent commitments) and adding the counter-intuitive finding that higher socioeconomic status was associated with more no-shows. Together they triangulate that cost/insurance is not the dominant driver of pediatric non-attendance, and that reminder systems (preferred: a phone call from the dentist) are the headline intervention.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire study (n=294 parents, pediatric dental clinic, Navi Mumbai, India) found a 52% missed-appointment rate; forgetfulness and exams were the top reasons, reliance on memory and (higher) socioeconomic status were significantly associated with missing (p<0.05), and 48.3% preferred a reminder call from the dentist a day prior.
+Cross-sectional questionnaire study (n=294 parents of children in active pediatric dental treatment, Navi Mumbai dental college clinic, India, Jan–Jul 2015) measuring missed-appointment rate, reasons, and reminder preferences.
 
-## 한줄요약
+52% of surveyed parents reported missing at least one appointment; top reasons for missing were forgetfulness (17%) and exams (17%); memory-reliance and higher socioeconomic status were significantly associated with missing (Kendall's Tau-B p<0.05); 48.3% preferred a dentist's reminder phone call the day before.
 
-인도 나비뭄바이 소아치과 보호자 294명 단면 설문연구 — 결손율(missed-appointment rate)이 52%였고, 주요 사유는 망각·시험이었으며, 기억 의존(memory)과 (높은) 사회경제적 지위가 결손과 유의하게 연관되었고(p<0.05), 48.3%가 전날 치과의사의 전화 리마인더(reminder call)를 선호했다.
+Single-center convenience sample with self-report recall bias; the counter-intuitive higher-SES no-show finding (58.8%) and an internal p-value inconsistency for SES suggest cautious interpretation.
+
+## 세줄요약
+
+단면 설문 연구(소아치과 내원 아동 보호자 294명, 인도 나비뭄바이 치과대학 소아치과, 2015년 1–7월) — 결손율·사유·리마인더 선호도 측정.
+
+결손율 52%; 주요 결손 사유: 망각 17%, 시험 17%; 기억 의존과 높은 사회경제적 지위(Socioeconomic Status)가 결손과 유의하게 연관(켄달 Tau-B p<0.05); 48.3%가 전날 치과의사 전화 리마인더 선호.
+
+단일 기관 편의 표본·자가보고 편향; 높은 사회경제적 지위에서 결손율 높음(58.8%)이라는 반직관적 결과 및 SES p값 내부 불일치로 신중한 해석 필요.
+
+## 1. Document Information
 
 ## 1. Document Information
 

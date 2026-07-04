@@ -13,13 +13,21 @@ source_collection: external
 
 냉플라즈마(cold plasma)와 광역동치료(PDT)를 직접 비교한 최초의 근관 항균 연구로, He/O₂ 플라즈마가 *E. faecalis* 바이오필름에 대해 PDT를 능가함을 정량적으로 확인했다. [[wiki/endodontics/irrigation/overview-root-canal-irrigation]] 페이지의 대체 항균법 섹션을 확장하고, 냉플라즈마 카테고리 신설의 근거 논문으로 활용한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=100 extracted teeth) comparing He, He/O₂ cold plasma jet, and PDT against 1-week E. faecalis biofilm in root canals; He/O₂ plasma achieved the greatest CFU reduction (log 5.39 → 0.2) and complete biofilm elimination confirmed by SEM.
+In vitro study (100 extracted single-rooted teeth, phase 1: dose-response; phase 2: head-to-head comparison of He plasma, He/O₂ plasma, and PDT against 1-week E. faecalis biofilm in root canals).
 
-## 한줄요약
+He/O₂ plasma achieved the greatest log CFU reduction (5.39 → 0.2, ~5.2 log) at 8 min, outperforming PDT and pure He plasma (p not reported explicitly); SEM confirmed complete biofilm elimination and dentinal tubule obliteration in the He/O₂ group; dose-response confirmed for both plasma types.
 
-시험관 연구(n=100)에서 He/O₂ 냉플라즈마가 E. faecalis 바이오필름 제거 효과(CFU log 5.39→0.2)에서 PDT 및 He 플라즈마를 능가함을 처음으로 직접 비교·확인했다.
+He/O₂ cold plasma jet is the most effective among compared modalities for root canal E. faecalis disinfection; however, device non-standardization and in vitro-only design limit clinical translation.
+
+## 세줄요약
+
+시험관 연구(추출 단근치 100개, 용량반응 + 직접 비교: He 플라즈마, He/O₂ 플라즈마, PDT를 1주 E. faecalis 바이오필름에 비교).
+
+He/O₂ 플라즈마: CFU log 5.39→0.2(~5.2 log 감소, 8분) — PDT 및 He 플라즈마 능가; SEM에서 바이오필름 완전 소실 및 상아세관 폐쇄 확인; 두 플라즈마 유형 모두 용량-반응 관계 확인.
+
+He/O₂ 냉플라즈마 제트가 비교 방법 중 E. faecalis 근관 소독 효과 최대 — 단, 장치 비표준화·시험관 연구만이라 임상 외삽 제한.
 
 ## 1. Document Information
 

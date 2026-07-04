@@ -27,13 +27,21 @@ tags: [autoimmune, sjogren, systemic-sclerosis, rheumatoid-arthritis, lupus, pem
 > - **약물 고려**: 장기 코르티코스테로이드(부신억제→스트레스 용량), 면역억제제(감염위험), 항흡수제(MRONJ), NSAID(심혈관·소화기) — 협진·병력 청취 필수.
 > - **확신도**: 임플란트 생존 동등성 = 중등도(다수 SR, 단 증례군·후향 위주); RA-치주 = 중등도(SR+MA); 구강점막·구강건조 결과 = 낮음~중등도(서술적 SR, RoB 높음). 전반적으로 **"조절된 질환 + 엄격한 위생/추적/예방"** 이 공통 성공 조건.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 8 wiki papers (+ existing Sjögren/OLP/corticosteroid pages) on dental care in autoimmune disease: across implant/surgical outcomes, the periodontal–systemic link, and oral mucosal/xerostomia management, autoimmune patients can generally be treated successfully when disease is controlled — implant survival approximates the general population, periodontitis raises rheumatoid-arthritis risk (~1.7×), and the dominant clinical burdens are xerostomia-driven caries/restoration failure, microstomia access (scleroderma), oral mucosal lesions (SLE, pemphigus/MMP), and medication management.
+Synthesis of 8 wiki papers on dental care in autoimmune disease, organized across three axes — implant/surgical outcomes, the periodontal–systemic link, and oral mucosal/xerostomia management — showing that controlled autoimmune disease is rarely an absolute contraindication to dental treatment.
 
-## 한줄요약
+Implant survival approximates the general population in most autoimmune conditions (Esimekara 2022, 55 studies), with elevated peri-mucositis/MBL only in secondary Sjögren and erosive OLP; periodontitis raises rheumatoid arthritis risk by ~69% (OR 1.69; Qiao 2020, >1 million subjects); and xerostomia raises restoration failure 2.6–2.9× (Poudel 2026).
 
-위키 8편 종합: 자가면역질환 환자는 질환이 조절되면 임플란트 생존이 일반인과 비슷하고 치과치료가 대체로 가능하나, 치주염이 RA 위험을 ~1.7배 높이고 구강건조(우식·수복실패)·소구증·구강점막병변·약물(스테로이드/항흡수제)이 주된 관리 부담이다.
+Clinical takeaway: confirm disease control before treating; front-load caries prevention wherever xerostomia exists; plan around microstomia in scleroderma; biopsy/DIF any desquamative gingivitis; manage medication risks (steroid cover, MRONJ, infection); evidence is mostly low-to-moderate certainty.
+
+## 세줄요약
+
+위키 8편(임플란트·치주-전신 연관·구강점막/구강건조 3축) 종합 — 자가면역질환은 조절되면 치과치료의 절대금기가 드물고, 임플란트 생존도 일반인과 유사(Esimekara 2022, 55편)하나 이차성 쇼그렌·미란성 구강편평태선에서 주위점막염·변연골소실↑.
+
+치주염은 류마티스관절염(Rheumatoid Arthritis, RA) 위험을 약 69% 높이고(OR 1.69; Qiao 2020, >100만 명), 구강건조증(Xerostomia)은 수복물 실패를 2.6–2.9배 증가시키며(Poudel 2026), 루푸스(SLE)는 구강궤양, 천포창/점막유천포창(Pemphigus/MMP)은 직접면역형광(Direct Immunofluorescence, DIF)으로 진단.
+
+임상 결론: 질환 조절 확인 후 치료, 구강건조 시 불소·타액관리 우선, 소구증(microstomia)은 접근 계획, 탈락성 치은염은 생검/DIF 필수, 약물 위험(스테로이드·약물관련 악골괴사증(MRONJ)·감염) 관리; 전반 근거 낮음~중등도.
 
 ## Synthesis
 

@@ -14,11 +14,21 @@ source_collection: external
 tags: [antibiotic-overprescription, apical-periodontitis, endodontics, AMR, stewardship, ESE, AAE, SR-MA]
 ---
 
-## One-line Summary
-SR+MA (Univ Sevilla, Antibiotics 2024): quantifies antibiotic overprescription by dentists for apical periodontitis — widespread prescribing in non-indicated cases despite root canal treatment being the primary intervention; large gap between ESE/AAE guidelines and clinical practice.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (Univ Sevilla, Antibiotics 2024): 근첨치주염 (AP) 치료에서 치과의사 항생제 과잉처방 실태 정량화 — 근관치료가 1차 indication임에도 비적응 케이스에 항생제 처방 광범위; ESE/AAE 가이드라인과 임상 행태 괴리.
+SR+MA (University of Seville, Antibiotics 2024) of cross-sectional and prescribing studies quantifying antibiotic overprescription by dentists in the management of apical periodontitis across multiple countries and practice settings.
+
+Pooled data show antibiotic prescription rates for apical periodontitis substantially exceed ESE/AAE guideline-indicated thresholds, which restrict antibiotics to cases with systemic involvement; endodontic/surgical management is the primary intervention.
+
+The wide gap between professional society guidelines and real-world practice represents a significant antimicrobial resistance risk; Korean private-clinic prescribing patterns follow the same over-prescription trend identified in pooled international data.
+
+## 세줄요약
+
+SR+MA(Univ Sevilla, Antibiotics 2024)로, 여러 국가의 치과의사 항생제 처방 연구를 종합하여 근첨치주염(Apical Periodontitis, AP) 치료에서 항생제 과잉처방 실태를 정량화.
+
+풀링 데이터는 ESE/AAE 가이드라인(전신 침범 시에만 허용)을 크게 초과하는 광범위한 항생제 처방을 보였으며, 1차 치료는 근관치료·수술이어야 한다.
+
+가이드라인과 임상 현실의 큰 괴리는 항균제 내성(Antimicrobial Resistance, AMR) 위험을 높이며, 한국 치과의원 처방 패턴도 국제 과처방 추세와 동일한 양상을 보인다.
 
 ## Summary
 SR+MA documenting the systematic over-prescription of antibiotics by dentists for apical periodontitis (AP). The professional society consensus (ESE, AAE) is clear: AP without systemic involvement is treated by endodontic/surgical management of the source, not by systemic antibiotics. Yet pooled prescribing rates show widespread antibiotic use across countries and practice settings.

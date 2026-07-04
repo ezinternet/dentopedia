@@ -16,13 +16,21 @@ text_filename: meade-2026-invisalign-lite-efficacy-retrospective.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective analysis of 122 adult Invisalign Lite patients found planned overjet, arch depth, and mandibular incisor inclination closely matched achieved outcomes, but overbite and maxillary incisor labiolingual inclination showed statistically and clinically significant planned-vs-achieved discrepancies (abstract-only — full text not retrieved).
+Retrospective analysis (n=122 adults, 79.5% female; Bland-Altman agreement analysis) of planned vs achieved outcomes for the Invisalign Lite product line — the first predictability dataset specific to this limited-movement, reduced-aligner-count variant.
 
-## 한줄요약
+Overjet (mean difference +0.183 mm, within ±0.5 mm threshold), arch depth (no significant difference), and mandibular incisor labiolingual inclination (−1.088°) tracked plan well; overbite showed a clinically significant discrepancy (+0.746 mm with proportional bias — larger initial overbite = larger error) and maxillary incisor inclination under-achieved plan by −2.905°.
 
-성인 Invisalign Lite 환자 122명의 후향적 분석 결과, 계획된 수평피개교합(overjet)·치열궁 깊이(arch depth)·하악 절치 순설측 경사(labiolingual inclination)는 실제 달성치와 잘 일치했으나, 수직피개교합(overbite)과 상악 절치 순설측 경사는 계획 대비 통계적·임상적으로 유의한 차이를 보였다 (초록만 확보, 전문 미확보).
+The maxilla-mandible asymmetry in incisor torque accuracy is clinically relevant: maxillary incisors consistently ended up more lingual than planned, while overbite correction accuracy worsened with increasing initial depth — plan conservatively for both movements with Invisalign Lite (abstract-only; full text not retrieved).
+
+## 세줄요약
+
+후향적 분석 (n=122 성인, 여성 79.5%; Bland-Altman 일치도 분석): Invisalign Lite 제품 라인(제한적 이동·감소 aligner 수)에서 계획 대비 달성 결과의 최초 예측성 데이터.
+
+overjet (평균차 +0.183 mm, ±0.5 mm 기준 이내), 치열궁 깊이(유의차 없음), 하악 절치 순설측 경사(−1.088°)는 계획과 잘 일치; overbite는 임상적으로 유의한 괴리(+0.746 mm, 비례 비뚤림 — 초기 클수록 오차 큼), 상악 절치 경사는 계획보다 −2.905° 더 설측.
+
+상악-하악 절치 torque 정확도 비대칭이 임상적으로 중요: 상악 절치는 일관되게 계획보다 더 설측, overbite 교정 정확도는 초기 깊이가 클수록 악화 — Invisalign Lite에서 두 이동 모두 보수적 계획 권장 (초록만 확보).
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 
 기존 [[wiki/sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]]은 osteotome vs osseodensification 비교이나, osteotome 기술 내부의 modified drill-based TSFE(non-cutting drill)과의 직접 비교 RCT protocol이 wiki에 없음. Zhao 2018은 이 gap을 채우는 4-arm RCT 설계 문서.
 
-## One-line Summary
-RCT protocol (n=120, NCT03445039) comparing osteotome-TSFE vs modified drill-TSFE ± bone graft in posterior maxilla; RFA tracked 6× over 26 weeks.
+## Three-line Summary
 
-## 한줄요약
-RCT 프로토콜(120환자, NCT03445039): 후방 상악에서 osteotome-TSFE vs modified drill-TSFE ±골이식 4군 비교, RFA로 26주간 6회 안정성 추적.
+RCT protocol paper (Trials 2018; n=120 planned, 4 arms) comparing osteotome-TSFE vs modified drill-TSFE (crestal non-cutting drills) ± bone graft in posterior maxilla with ≥4 mm residual bone height, registered NCT03445039.
+
+Primary outcomes are implant survival and ISQ stability measured at 6 timepoints over 26 weeks (designed to capture the stability dip), with secondary outcomes of VAS discomfort, radiographic bone remodeling, and PROs.
+
+This is a protocol-only publication with no efficacy results — clinical conclusions depend on completion and reporting of the trial, and CBCT is absent (only 2D radiographs limit volumetric bone assessment).
+
+## 세줄요약
+
+RCT 프로토콜(Trials 2018; 계획 n=120, 4군) — 후방 상악(잔존골고 ≥4 mm)에서 osteotome-TSFE vs modified drill-TSFE(비절삭 크레스탈 드릴) ± 골이식 직접 비교, NCT03445039 등록.
+
+일차결과: 임플란트 생존율 및 ISQ(26주간 6회 측정, 안정성 딥 포착 설계); 이차결과: VAS 불편감, 방사선 골개조, 환자보고결과.
+
+효능 결과가 없는 프로토콜 논문이며 — CBCT 없이 2D 방사선만 사용해 골용적 평가가 제한적이고, 임상 결론은 본 시험 완료·보고에 달려 있음.
 
 ## 1. Document Information
 - **Journal**: Trials 2018;19:489

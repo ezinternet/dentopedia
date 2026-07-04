@@ -9,7 +9,7 @@ pdf_filename: iwasa-2011-tio2-micro-nano-hybrid-biological-aging.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vitro study: TiO2 nanonodules (300 nm) on micropit Ti surface sustain bioactivity for ≥7 days after UV-PF (vs 30-50% decay on micropit-only); mechanism is sustained electropositivity, not hydrophilicity.
 
 ## 1. Document Information

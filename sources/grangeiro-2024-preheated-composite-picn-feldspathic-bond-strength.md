@@ -13,13 +13,23 @@ source_collection: external
 
 레진 시멘트 대신 예열 복합레진을 간접 수복물 접착에 사용하는 대안적 프로토콜의 근거를 정립하기 위해 인제스트. PICN(폴리머 침투 도자)와 장석질 도재에 대한 예열 복합레진의 미세전단결합강도를 비교하는 드문 연구. [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]]과 함께 실란 처리 후 다양한 접착제 유형의 성능 비교 맥락에서 활용한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro microshear bond strength study (n=180 per material, 12 groups): preheated composite (68°C) achieved highest µSBS to both feldspathic ceramic and PICN; thermocycling reduced all groups' bond strength, with preheated composite remaining superior after aging.
 
-## 한줄요약
+In vitro microshear bond strength study (n=180 per material, 12 groups): preheated composite (68°C) achieved highest µSBS to both feldspathic ceramic and PICN;
 
-인 비트로 미세전단결합강도 연구 (재료당 n=180, 12그룹): 예열 복합레진(68°C)이 장석질 도재와 PICN 모두에서 가장 높은 결합강도를 달성했으며, 열순환 후에도 우위 유지; 유동성 복합레진은 모든 조건에서 가장 낮은 값을 보였다.
+thermocycling reduced all groups' bond strength, with preheated composite remaining superior after aging.
+
+(incomplete)
+
+## 세줄요약
+
+
+인 비트로 미세전단결합강도 연구 (재료당 n=180, 12그룹): 예열 복합레진(68°C)이 장석질 도재와 PICN 모두에서 가장 높은 결합강도를 달성했으며, 열순환 후에도 우위 유지;
+
+유동성 복합레진은 모든 조건에서 가장 낮은 값을 보였다.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,7 +13,7 @@ source_collection: external
 
 Acetaminophen은 임신 중 치과 통증의 1차 진통제로 [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]]·[[drug/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]]에서 "안전"으로 권고된다. 본 SR은 그 안전 전제에 신경발달장애(NDD) 연관이라는 단서를 달아, [[overviews/drug-analgesics-postop-pain-overview]]의 임신부 진통제 선택에 균형 근거 제공. (단 연관≠인과, ACOG는 여전히 안전 입장.)
 
-## One-line Summary
+## Three-line Summary
 
 Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD), 27 reported positive associations, 9 null, 4 negative; higher-quality studies more often positive — authors conclude the evidence supports an association and advise limiting acetaminophen in pregnancy. (Association, not causation; qualitative synthesis.)
 

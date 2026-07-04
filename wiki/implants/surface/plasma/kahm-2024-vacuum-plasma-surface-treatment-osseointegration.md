@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, vacuum-plasma, osseointegration, ISQ, bone-area, rabbit, null-result, SLA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vivo rabbit study (18 SLA implants in 6 rabbits, femur, 4 wk): vacuum-plasma (VP) implants had higher bone area ratio, bone volume, and ISQ than controls, but no difference was statistically significant; both groups osseointegrated well.
+In vivo rabbit study (18 SLA implants in 6 rabbits, femoral placement, 4-week sacrifice) comparing vacuum plasma (VP)-treated vs untreated implants using BIC, bone area ratio, bone volume (micro-CT), and ISQ as endpoints.
 
-## 한줄요약
+VP implants showed numerically higher bone area ratio, bone volume, and ISQ than controls, but none of the differences reached statistical significance; both groups achieved good osseointegration.
 
-토끼 in vivo(SLA 18개, 6마리, 대퇴골, 4주): 진공 플라즈마(VP)군이 골면적비·골량·ISQ 높았으나 통계적 유의차 없음. 두 군 모두 양호한 골유착.
+This underpowered null result tempers the broader positive plasma signal — consistent directional trends exist but vacuum plasma benefit on SLA surfaces remains unconfirmed at 4 weeks.
+
+## 세줄요약
+
+토끼 in vivo 연구(SLA 임플란트 18개, 6마리, 대퇴골 식립, 4주 희생): 진공 플라즈마(VP) 처리군 vs 미처리군을 BIC·골면적비·골량(micro-CT)·ISQ로 비교.
+
+VP군에서 골면적비·골량·ISQ가 수치상 높았으나 어느 지표도 통계적 유의차에 미치지 못함; 두 군 모두 양호한 골유착 달성.
+
+소규모·단일 시점 연구(18개, 4주)의 통계적 한계로 방향성 경향은 있으나 SLA 표면에서 진공 플라즈마 효과는 미확인 상태 — 과대 해석 금물.
 
 ## Summary
 

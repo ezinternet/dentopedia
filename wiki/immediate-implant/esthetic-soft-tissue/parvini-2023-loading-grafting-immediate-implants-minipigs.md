@@ -20,13 +20,21 @@ relations:
     target: immediate-implant-soft-tissue-gap-grafting-material-choice
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Minipig RCT (n=56 TLX implants, 2×2 factorial, 4 and 12 weeks) found that neither immediate loading nor gap grafting with bovine bone mineral significantly altered BIC (74–84%) or peri-implant soft-tissue dimensions at immediately placed progressive-thread tissue-level implants.
+2×2 factorial split-mouth animal study (14 minipigs, 56 Straumann TLX SLActive Roxolid implants; sacrifice at 4 and 12 weeks) testing whether immediate loading and/or xenograft gap grafting affect osseointegration at immediately placed tissue-level implants.
 
-## 한줄요약
+Neither immediate loading nor bovine bone mineral (Cerabone) grafting significantly altered BIC (74–84% across all groups at 4 and 12 weeks) or peri-implant soft-tissue dimensions (JE, CTC, biological width); the only significant finding was more apical first-BIC (fBIC) in grafted-unloaded sites at 12 weeks (p=0.01).
 
-미니피그 2×2 요인실험(n=56 TLX 임플란트, 4·12주)에서 즉시 하중 및 소뼈유래 골이식재 사용 여부는 즉시식립 임플란트의 BIC(74–84%) 및 연조직 생물학적 폭경에 유의한 영향을 미치지 않았다.
+Immediate loading of TLX implants in fresh sockets does not compromise osseointegration; grafting shifts bone-implant contact apically (may protect against rough-surface exposure) without increasing total BIC — attributed to the progressive thread bone-condensing effect and SLActive surface.
+
+## 세줄요약
+
+2×2 요인 분할구강 동물 실험 (고틴겐 미니피그 14마리, Straumann TLX SLActive Roxolid 56개; 4주·12주 희생): 즉시식립에서 즉시부하 여부 × 소뼈 무기질(Cerabone) 이식 여부가 골유착에 미치는 영향 분석.
+
+즉시부하 및 이식 여부 모두 골-임플란트 접촉률(Bone-to-Implant Contact, BIC) (74–84%)와 연조직 생물학적 폭경(JE·CTC·BW)에 유의한 영향 없음; 유일한 유의 결과는 이식+비부하 군의 12주 최초 골접촉점(first BIC, fBIC) 더 하방 이동(p=0.01).
+
+TLX 임플란트의 즉시식립+즉시부하는 골유착을 손상시키지 않음; 이식은 fBIC를 하방으로 이동시켜 거친 표면 노출을 방지하나 총 BIC를 증가시키지 않음 — 진행형 나선 골압축 효과와 SLActive 표면이 강건한 BIC의 원인으로 지목.
 
 ## Summary
 

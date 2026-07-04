@@ -16,13 +16,21 @@ relations:
     target: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 12 studies showing subepithelial connective tissue grafting (SCTG) at immediate or delayed implant placement significantly improves buccal tissue thickness (MD 0.74 mm), mid-buccal gingival level (MD 0.5 mm), pink esthetic score (MD 0.79), and reduces marginal bone loss (MD −0.11 mm) versus other treatment modalities.
+SR+MA (12 studies, PLOS ONE 2022) testing whether subepithelial connective tissue grafting (SCTG) at immediate or delayed implant placement outperforms other modalities — no augmentation, acellular dermal matrix, or xenogeneic collagen matrix.
 
-## 한줄요약
+SCTG significantly improved buccal tissue thickness (MD 0.74 mm, 95% CI 0.51–0.97), mid-buccal gingival level (MD 0.5 mm), pink esthetic score (MD 0.79), and reduced marginal bone loss (MD −0.11 mm) versus comparators.
 
-12편 SR+MA — 즉시/지연 식립 시 상피하결합조직이식(SCTG)은 다른 처치 대비 협측 조직두께(MD 0.74 mm)·중협측 치은 수준(MD 0.5 mm)·심미점수(MD 0.79)를 유의하게 개선하고 변연골소실을 줄였다(MD −0.11 mm).
+SCTG outperformed all comparators across four simultaneous outcomes, establishing it as the soft-tissue augmentation of choice when esthetics and peri-implant tissue stability are priorities.
+
+## 세줄요약
+
+SR+MA (12편, PLOS ONE 2022): 즉시/지연 임플란트 식립 시 상피하결합조직이식(SCTG) vs 무이식·ADM·이종 콜라겐 기질 비교 메타분석.
+
+SCTG가 협측 조직두께(MD 0.74 mm, 95% CI 0.51–0.97)·중협측 치은 수준(MD 0.5 mm)·PES(MD 0.79)·변연골소실(MD −0.11 mm) 모두 유의하게 개선.
+
+4가지 결과 동시 우월 — 심미·조직 안정성 우선 시 SCTG가 표준 선택임을 정량 근거로 확립.
 
 ## Summary
 

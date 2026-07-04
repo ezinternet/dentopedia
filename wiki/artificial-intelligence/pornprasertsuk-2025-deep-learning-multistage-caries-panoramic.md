@@ -20,13 +20,21 @@ relations:
     target: albano-2024-artificial-intelligence-radiographic-caries-detection
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-dataset deep-learning study (500 panoramic radiographs, 1,792 caries in 14,997 teeth, same-day bitewing gold standard) of a two-stage YOLOv5 + Attention U-Net pipeline that segments and stages caries (enamel/dentine/pulp) on panoramics — F1 0.85, accuracy 0.93, recall 0.96 in posterior teeth, with strong-to-almost-perfect agreement (weighted κ 0.907–0.981) with radiologists.
+Retrospective single-center deep-learning study (500 panoramic radiographs, 14,997 teeth, 1,792 caries staged enamel/dentine/pulp; same-day full posterior bitewings as gold standard; Mahidol Dental Hospital) of a two-stage YOLOv5 + Attention U-Net pipeline for multistage caries detection.
 
-## 한줄요약
+In posterior teeth: F1 0.85, accuracy 0.93, recall 0.96, precision 0.77; weighted κ for agreement with radiologists ranged 0.907 (enamel) to 0.981 (pulp involvement); the model over-predicted caries in healthy teeth (FP 519 vs FN 67).
 
-파노라마 500장(치아 14,997개 중 우식 1,792개, 당일 촬영 바이트윙 gold standard) 후향 데이터셋에서 YOLOv5(치아 검출)+Attention U-Net(우식 분할) 2단계 딥러닝으로 우식을 법랑질/상아질/치수 단계별로 분할한 진단모델 연구 — 구치부 F1 0.85·정확도 0.93·재현율 0.96, 방사선과 전문의와 강한~거의 완벽 일치(가중 κ 0.907–0.981).
+High recall (0.96) prioritizes missing no lesion at the cost of false positives — the pipeline is positioned as decision support for panoramic caries staging, not a standalone tool; single-dataset limits generalizability and external validation is needed.
+
+## 세줄요약
+
+Mahidol 치과병원 단일기관 후향 데이터셋(파노라마 500장, 치아 14,997개, 우식 1,792개; 당일 촬영 교익 방사선을 gold standard로 사용): YOLOv5(치아 검출)+Attention U-Net(우식 분할) 2단계 딥러닝 파이프라인으로 법랑질/상아질/치수 단계별 우식 분할.
+
+구치부 F1 0.85, 정확도 0.93, 재현율(recall) 0.96; 치수 단계 가중 카파(weighted κ) 0.981, 법랑질 0.907, 상아질 0.948 — 방사선 전문의와 강한~거의 완벽한 일치.
+
+높은 재현율(0.96)이 낮은 정밀도(0.77)보다 우선 — 위양성(FP 519 vs FN 67)을 감수하고 누락을 최소화하는 의사결정 지원 도구로 설계; 단일 데이터셋 한계로 다기관 외부 검증 필요.
 
 ## Summary
 

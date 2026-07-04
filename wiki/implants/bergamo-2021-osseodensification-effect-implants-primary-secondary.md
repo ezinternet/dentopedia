@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Multicenter controlled clinical trial (56 patients, 150 implants) comparing Osseodensification (OD) vs conventional Subtractive Drilling (SD): OD significantly increased both insertion torque (IT) and ISQ at all timepoints, keeping ISQ ≥68 throughout the early healing dip (3-week dip, 6-week recovery), supporting earlier loading — except for short implants, which showed no OD–SD difference.
+## Three-line Summary
 
-## 한줄요약
-Multicenter controlled clinical trial (56명, 150 임플란트): 골밀도화(Osseodensification, OD) vs 일반 절삭드릴(Subtractive Drilling, SD) — OD가 식립토크(IT)·임플란트 안정성 지수(ISQ) 모두 유의 우위, ISQ가 치유 3주차에 dip 후 6주 회복하는데 OD는 전 기간 ISQ ≥ 68 유지. Short 임플란트는 예외(차이 없음).
+Multicenter controlled clinical trial (56 patients, 150 implants) comparing Osseodensification (OD) vs conventional Subtractive Drilling (SD) across diameter, length, arch, and region subgroups.
+
+OD significantly increased insertion torque (IT) and ISQ at all timepoints; ISQ dipped at 3 weeks and recovered at 6 weeks, but OD maintained ISQ ≥68 throughout — below which early loading is typically contraindicated.
+
+Short implants showed no OD–SD difference, indicating a macrogeometry-dependent ceiling; only 6-week follow-up means loaded implant survival data are absent.
+
+## 세줄요약
+
+다기관 대조 임상시험 (56명, 150 임플란트): 골밀도화 (Osseodensification, OD) vs 일반 절삭 드릴 (Subtractive Drilling, SD)을 직경·길이·악골·부위별로 비교.
+
+OD가 전 비교 시점에서 식립토크 (Insertion Torque, IT) 및 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)를 유의하게 높였으며, 3주 ISQ 저하 후 6주 회복 구간에서도 OD는 ISQ ≥68 유지.
+
+Short 임플란트는 예외(OD–SD 차이 없음)이며 추적기간 6주로 로딩 후 생존 데이터는 없음.
 
 ## Summary
 Multicenter controlled clinical trial comparing osseodensification (OD) to conventional subtractive drilling (SD) for insertion torque and longitudinal ISQ across implant designs and jaw regions.

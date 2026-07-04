@@ -24,13 +24,21 @@ relations:
     target: thompson-2023-dental-antibiotic-stewardship-core-outcome-set
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review of 44 SRs (221 meta-analyses) on systemic and local antibiotics in periodontal therapy: statistically robust estimates exist for systemic antibiotics (CAL gain ~0.3 mm), but overall evidence grades as weak due to critically low methodological quality in 66% of underlying SRs, supporting antibiotic stewardship over routine use.
+Umbrella review of 44 SRs encompassing 221 meta-analyses (PubMed, Web of Science, EMBASE, CENTRAL, LILACS to March 2024) on systemic and local antibiotics as adjuncts to periodontal therapy.
 
-## 한줄요약
+Four meta-analyses reached "Strong" meta-analytic evidence for systemic antibiotics: CAL gain +0.3 mm (95% CI 0.2–0.4), +0.4 mm in moderate-to-deep pockets, bleeding-on-probing reduction −6.6%, and pocket-closure improvement −14.5%; however, 66% of underlying SRs were AMSTAR-2 "critically low," collapsing all 221 comparisons to "Weak" overall.
 
-치주치료 항생제에 관한 체계적 문헌고찰(SR) 44편·메타분석(MA) 221개 우산형 고찰(Umbrella Review): 전신 항생제에서 임상적 부착 수준(CAL) 0.3 mm 개선의 통계적으로 강력한 추정치가 있으나, SR의 66%가 방법론적 질 "매우 낮음"으로 전체 근거등급은 "약함"이며 항생제 스튜어드십(Antimicrobial Stewardship)을 지지함.
+Despite the robust directional signal (FSN exceeding study count in 65.5% of estimates), the evidence quality deficit precludes a positive routine recommendation — antibiotics should be reserved for aggressive or severe periodontitis and guided by stewardship principles.
+
+## 세줄요약
+
+치주치료 항생제에 관한 SR 44편·MA 221개 우산형 고찰(Umbrella Review; PROSPERO CRD42024527222, 2024년 3월까지 PubMed·Web of Science·EMBASE·CENTRAL·LILACS 검색).
+
+전신 항생제의 임상적 부착 수준(Clinical Attachment Level, CAL) 개선 +0.3 mm (95% CI 0.2–0.4), 중등도·깊은 치주낭에서 +0.4 mm, 출혈지수(Bleeding on Probing, BoP) −6.6%, 치주낭 폐쇄 −14.5%로 메타분석 신호는 "강함"이나 SR의 66%가 AMSTAR-2 "매우 낮음" → 221개 비교 전체 종합 등급 "약함".
+
+방향성 신호는 강하나(FSN이 포함 연구 수 초과 65.5%) 근거 질 문제로 통상적 항생제 사용은 지지되지 않음 — 공격적·중증 치주염에만 한정 사용, 항균제 스튜어드십(Antimicrobial Stewardship) 원칙 준수 필요.
 
 ## Summary
 

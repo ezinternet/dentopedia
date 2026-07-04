@@ -20,13 +20,21 @@ relations:
     target: manor-2024-cbct-prognostic-factors-sinus-perforation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=255 patients, 510 sinuses, Turkey 2025): posterior superior alveolar artery (PSAA) is bilateral in 70.2%, predominantly intraosseous (~63%), diameter <1 mm in ~55%, mean distance to alveolar crest ~16 mm — key preoperative landmarks that guide lateral window incision placement to minimize intraoperative hemorrhage.
+Retrospective cross-sectional CBCT study (n=255 patients, 510 sinuses, Turkey) characterizing posterior superior alveolar artery (PSAA) prevalence, position type, diameter, and distances to key surgical landmarks before lateral-window sinus floor augmentation.
 
-## 한줄요약
+PSAA was bilateral in 70.2%, predominantly intraosseous (~63%), diameter <1 mm in ~55%, mean PSAA-to-alveolar-crest distance ~16 mm; larger-diameter arteries (>1 mm) had significantly reduced clearance to both sinus floor and alveolar crest.
 
-후향 CBCT 연구 (255명, 510개 상악동): 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 양측성 70.2%, 골내형 (intraosseous) 63%, 직경 <1 mm 약 55%, 치조정까지 평균 거리 ~16 mm — 측방 상악동 거상술 (Maxillary Sinus Floor Augmentation, MSFA) 혈관 합병증 예방을 위한 수술 전 콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 계측 기준값.
+Vertical osteotomy height for lateral windows should stay below ~16 mm from the alveolar crest, and CBCT identification of PSAA type and diameter is essential for safe window design.
+
+## 세줄요약
+
+후향적 CBCT 단면연구 (255명, 510개 상악동, 터키): 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 양측성 70.2%, 골내형 약 63%, 직경 <1 mm 약 55%, 치조정까지 평균 거리 약 16 mm; 직경 >1 mm 동맥은 동저·치조정 거리가 유의하게 감소.
+
+여성에서 부비동 병리 유병률 유의하게 높음 (p=0.002); 남성에서 PSAA-동저 거리 더 큼 (p=0.049); PSAA 유무와 격벽·병리 간 유의 관계 없음.
+
+측방창 골절개 높이는 치조정 기준 ~16 mm 이하로 계획해야 하며, 수술 전 콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT)으로 PSAA 유형·직경 확인이 출혈 예방의 핵심.
 
 ## Summary
 

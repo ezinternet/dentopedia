@@ -19,13 +19,22 @@ relations:
     target: fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 11 controlled trials: CoQ10 significantly reduced Plaque Index, Bleeding Index, Pocket Depth (SMD −0.96), CAL (SMD −0.73), and Gingival Index in periodontitis (intra-pocket > topical), but with very high heterogeneity (I² 72–89%) and larger effects in high-risk-of-bias studies.
+SR + meta-analysis of 11 controlled trials (1980–Aug 2020) evaluating coenzyme Q10 (CoQ10) as an adjunct to periodontal treatment across plaque, bleeding, pocket depth, CAL, and gingival index outcomes.
 
-## 한줄요약
+CoQ10 significantly reduced all five outcomes (pocket depth SMD −0.96; CAL SMD −0.73; bleeding index SMD −1.05), with intra-pocket delivery outperforming topical application; however, I² was 72–89% on every outcome and larger effects were concentrated in high-risk-of-bias studies.
 
-11편 SR+MA — CoQ10가 치주염 5개 지표를 유의하게 개선(치주낭 SMD −0.96)하며 gel 사용을 권장한다고 결론. 단 이질성 매우 높고(I² 72–89%) 비뚤림 위험 높은 연구에서 효과 과대 → 신뢰도 제한, 신형 route-stratified SR과 충돌.
+The pro-CoQ10 conclusion is likely an artifact of pooling heterogeneous routes and biased trials; the newer route-stratified SR (Fernandez 2025) finds the gel route null, making this page the cautionary counterpoint in the CoQ10 evidence pair.
+
+## 세줄요약
+
+SR+MA (11편 대조 연구, 1980–2020.08) — CoQ10의 치주치료 보조 효과를 5개 지표(치면세균막·출혈·치주낭 깊이·부착 수준·치은 지수)에서 평가.
+
+CoQ10은 5개 지표 모두 유의하게 개선(치주낭 SMD −0.96, 출혈 지수 SMD −1.05); 인트라포켓 투여 > 국소 도포; 단 전 지표 I² 72–89% (이질성 매우 높음), 비뚤림 위험 높은 연구일수록 효과 과대.
+
+친-CoQ10 결론은 투여 경로 혼합·비뚤림 연구 효과 과대의 결과일 가능성; 신형 route-stratified SR (Fernandez 2025)은 gel 경로 무효 보고 — 본 페이지는 이 증거 쌍의 주의 사례.
+
 
 ## Summary
 

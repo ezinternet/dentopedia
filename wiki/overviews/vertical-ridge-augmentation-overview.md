@@ -50,11 +50,23 @@ tags: [vertical-ridge-augmentation, gbr, titanium-mesh, ptfe, peek-mesh, collage
 > - **임상 결정 ladder**: ①동등 적응증이면 PBL 낮은 GBR/SBB 우선, Inlay·골신장술은 한정 ②차폐재는 CAD/CAM Ti-mesh 1차(미세천공+자가골로 노출 최소화), 최대 재생률 필요 시 Ti-PTFE, 단순·핸들링 우선이면 d-PTFE ③collagen membrane은 큰 결손에 선택적 ④큰 수직 결손은 사전 STE·장력 없는 폐쇄가 핵심 ⑤상악동 동시 VRA는 지연식립(Kang 2019, 생존 81.8%). [합의수준]
 > - **갭**: collagen membrane 효용 인체 head-to-head RCT 부족(SR vs RCT 충돌 지속), PRI vs 개방치유 인체 RCT 부재, micro-perforation·자가골의 노출 저감 효과는 후향·소표본 관찰뿐(RCT 부재), PEEK mesh 수직 VRA 근거 부족.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 20 vertical ridge augmentation (VRA) papers along 5 axes — technique-specific long-term peri-implant bone loss (PBL), barrier-material choice, the contested utility of an added collagen membrane, mesh exposure as the dominant failure mode, and dehiscence prevention — built on the premise that VRA failure is driven by barrier exposure / soft-tissue dehiscence rather than bone regeneration itself. Long-term PBL ranks simultaneous sinus bone graft (0.66) < GBR (1.06) < onlay (1.31) < inlay (1.72) < osteodistraction (1.81 mm) (Cucchi 2024 SR+MA); customized CAD/CAM titanium mesh is non-inferior to Ti-reinforced d-PTFE on complications, PROMs, pain and cost across multiple RCTs (Cucchi 2017/2024/2025), with pooled Ti-mesh gain ~3.36 mm vertical (Sabri 2024 SR+MA); collagen-membrane benefit remains undecided (SR vs RCT conflict); mesh exposure ranges 0–78% and is the decisive outcome variable, minimized by micro-perforated mesh + pure autologous bone (Keller 2026, 0%) versus plain 3D-printed mesh (Soares 2025, 78%); and tension-free closure / pre-augmentation soft-tissue expansion is the key dehiscence-prevention variable. 5-year data (Wurtz 2026) now partly fills the long-term gap.
+Synthesis of 20 VRA papers along 5 axes: technique-specific long-term peri-implant bone loss (PBL) ranks SBB 0.66 < GBR 1.06 < onlay 1.31 < inlay 1.72 < osteodistraction 1.81 mm (Cucchi 2024 SR+MA, 41 mo); CAD/CAM Ti-mesh is non-inferior to Ti-reinforced d-PTFE on complications/PROMs/pain/cost across multiple RCTs (Cucchi 2017/2024/2025), with pooled vertical gain ~3.36 mm (Sabri 2024 SR+MA, 10.8% complications); 5-year gap partially filled (Wurtz 2026).
 
-## 한줄요약
+Collagen membrane benefit remains undecided (SR shows no difference, RCT numerically favors membrane but inconclusive; Urban 2025 supports soft-tissue barrier rationale); mesh exposure is the decisive failure variable, ranging 0–78% — minimized by micro-perforated mesh + pure autologous bone (Keller 2026, 0% exposure) versus plain 3D-printed mesh (Soares 2025, 78%, including 22% early total graft loss).
+
+The central clinical principle: VRA failure is driven by barrier exposure/dehiscence, not regeneration failure itself; tension-free closure and pre-augmentation soft-tissue expansion (Kaner 2017) are the primary dehiscence-prevention levers, and early (<4 weeks) mesh exposure causes regeneration failure while late exposure produces only minor bone loss.
+
+## 세줄요약
+
+20편 종합, 5축: 술식별 장기 임플란트주위 골소실(PBL) 순위 SBB 0.66 < GBR 1.06 < Onlay 1.31 < Inlay 1.72 < 골신장술 1.81 mm(Cucchi 2024 SR+MA, 41개월); CAD/CAM Ti-mesh가 Ti강화 d-PTFE에 합병증·PROMs·통증·비용에서 비열등(Cucchi 2017/2024/2025 다수 RCT), pooled 수직 획득 ~3.36 mm(Sabri 2024 SR+MA); 5년 데이터 부분 확보(Wurtz 2026).
+
+collagen membrane 부가 효용은 미결(SR 차이 없음 vs RCT 수치상 유리하나 비결정적; Urban 2025는 연조직 차단 기전 지지); 메시 노출이 결정적 실패 변수(0–78% 극단적 편차) — micro-perforation + 순수 자가골로 0%(Keller 2026), plain 3D-print 메시로 78%(Soares 2025, 22%는 조기 전손실).
+
+핵심 원칙: VRA 실패는 골재생이 아닌 차폐재 노출/열개가 주도; 장력 없는 폐쇄와 사전 연조직 확장(Kaner 2017)이 열개 예방의 1차 레버; 조기(<4주) 노출은 재생 실패, 후기 노출은 경미 손실.
+
+## 세줄요약
 
 수직골증대(VRA) 20편 5축 — 술식별 장기 PBL (SBB < GBR < Onlay < Inlay < distraction) · 차폐재 (CAD/CAM Ti-mesh ≈ d-PTFE, 다수 RCT) · collagen membrane 부가 효용 논쟁 · **메시 노출(0~78%)이 지배적 실패 모드** (미세천공+자가골 0% vs 일반 3D프린트 78%) · 열개 예방=연조직. SR+MA 2 + SR 2 + RCT 6 + 전향 1 + 후향 3 + 증례 2 + 동물 2 + 술기노트 1.
 

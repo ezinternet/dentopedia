@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, pseudocyst, mucous-retention-cyst, sinus-augmentation, subtype-classification, decision-tree, korean]
 ---
 
-## One-line Summary
-Case series (Seoul National Univ OMFS, J Craniofac Surg 2024, n=3): proposes a sinus-pathology decision tree — type 1 (pseudocyst, PsC) → spontaneous drainage, type 2 (MRC <20 mm) → aspiration, type 3 (MRC >20 mm) → enucleation — each followed by augmentation; all 3 implants integrated at 1-year, though the 20 mm cut-off is hypothetical and case-derived.
+## Three-line Summary
 
-## 한줄요약
-Case series (서울대 치병원 OMFS, J Craniofac Surg 2024, n=3): sinus pathology를 **type 1 (PsC), type 2 (MRC <20mm), type 3 (MRC >20mm)**로 분류, 각각 spontaneous drainage·aspiration·enucleation 차등 적용 — 의사결정 트리 직접 case 시각화.
+Case series (Seoul National University OMFS, J Craniofac Surg 2024, n=3) proposing a three-type sinus-pathology decision tree: type 1 (pseudocyst/PsC) → spontaneous drainage, type 2 (MRC <20 mm) → aspiration, type 3 (MRC >20 mm) → enucleation, each followed by sinus augmentation.
+
+All 3 implants integrated at 1-year follow-up; the 20 mm cut-off for MRC size-based treatment selection is case-derived and hypothetical, not yet validated by larger cohort data.
+
+This framework offers a practical classification algorithm for pre-augmentation sinus pathology management, though the small case number limits generalizability.
+
+## 세줄요약
+
+증례보고(n=3, 서울대학교 치과병원 구강악안면외과, J Craniofac Surg 2024): 상악동 병변을 type 1(가성낭종/PsC→자연 배출), type 2(MRC <20 mm→흡인), type 3(MRC >20 mm→적출)으로 분류해 각각 차등 처치 후 상악동거상술 시행하는 3단계 결정 트리 제안.
+
+3예 전례 1년 추적 임플란트 골유착 성공; 20 mm 경계치는 본 증례에서 도출된 가설적 수치로 대규모 코호트 검증 미실시.
+
+임상적으로 유용한 분류 알고리즘을 제공하나 n=3의 소규모로 통계적 결론 도출 불가, 20 mm 기준의 근거 보강이 필요함.
 
 ## Summary
 서울대 OMFS 그룹의 case series로, sinus pathology 처치의 **명시적 결정 트리 framework**를 3 case로 보여준다. 20mm를 cut-off로 한 분류는 임상 직관에 부합하지만 cut-off의 정량적 근거는 가설적.

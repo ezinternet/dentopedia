@@ -9,7 +9,7 @@ pdf_filename: stefanidou-2024-revitalization-apexification-immature-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 미성숙 치수괴사치 revitalization vs apexification SR+MA: 치근 길이·상아질 벽 두께 모두 revitalization 군이 우위 — 치근 성숙 면에서 생물학적 이점.
 
 ## 1. Document Information

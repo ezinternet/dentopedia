@@ -20,13 +20,21 @@ relations:
     target: park-2023-narrow-regular-diameter-mandibular-overdentures
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 17 RCTs comparing single (1-IOD) vs two (2-IOD) implant-supported mandibular overdentures: implant survival is equivalent through 5 years, but denture fracture (5Y RR 2.10), denture remake (5Y RR 2.57), and metal-housing reattachment (5Y RR 2.31) are ~2× more frequent with 1-IOD; relining and O-ring replacement do not differ.
+PRISMA SR+MA of 17 RCTs (12–60 months follow-up, PROSPERO CRD420250644169) comparing single midline implant (1-IOD) versus two-implant (2-IOD) mandibular overdentures on implant survival and prosthetic complications.
 
-## 한줄요약
+Implant survival was statistically equivalent at 1, 3, and 5 years across all loading-protocol subgroups; however, 1-IOD carried approximately 2× higher risk of denture fracture (5Y RR 2.10), denture remake (5Y RR 2.57), and metal-housing reattachment (5Y RR 2.31), while relining and O-ring replacement were not significantly different.
 
-하악 단일(1-IOD) vs 2개(2-IOD) 임플란트 오버덴쳐를 비교한 17편 RCT SR+MA — 임플란트 생존율은 5년까지 동등하지만, 의치 파절(5Y RR 2.10)·재제작(5Y RR 2.57)·메탈하우징 재부착(5Y RR 2.31) 같은 보철 합병증은 1-IOD에서 약 2배 잦다. 리라이닝·O-ring 교체 빈도는 차이 없음.
+The complication disparity without a mobility difference points to reduced structural strength under the single-implant fulcrum as the mechanism — a metal reinforcement framework is recommended for 1-IOD, and this SR updates an earlier finding that had shown better survival for 1-IOD (no longer supported with post-2017 RCTs included).
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 + 메타분석 (SR+MA), 17편 RCT (12–60개월, PROSPERO CRD420250644169): 단일 정중부 임플란트 오버덴처 (1-IOD) vs 2개 임플란트 오버덴처 (2-IOD) 비교.
+
+임플란트 생존율 1·3·5년 모두 동등(로딩 프로토콜 하위군 포함); 그러나 1-IOD에서 의치 파절(5Y RR 2.10)·재제작(5Y RR 2.57)·메탈하우징 재부착(5Y RR 2.31) 모두 약 2배 높음; 리라이닝·O-ring 교체는 차이 없음.
+
+이동성 차이 없이 구조 강도 저하(단일 지지점 지렛대 효과)가 파절 기전으로 해석 — 금속 프레임워크 보강 권고; 1-IOD 생존율 우위를 보고한 이전 SR은 최신 RCT 추가 후 근거 소실.
 
 ## Summary
 

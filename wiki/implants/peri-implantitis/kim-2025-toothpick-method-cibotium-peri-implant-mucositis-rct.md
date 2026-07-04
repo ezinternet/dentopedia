@@ -22,13 +22,21 @@ relations:
     target: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=60: CB-TPM 21 / chlorhexidine-TPM 20 / saline-TPM 19), all delivered by the toothpick method (TPM) — only CB-TPM reduced salivary occult blood (Cohen's d = 1.148) and uniquely produced large-effect (d ≥ 0.8) reductions in *P. micra*, *T. forsythia*, and *P. intermedia*, positioning natural Cibotium barometz extract + TPM as a side-effect-free non-surgical option for peri-implant mucositis.
+Double-blind RCT (n=60; Busan, Korea; Jan–Jul 2023) with three arms all using the toothpick method (TPM) as the mechanical delivery vehicle, varying only the chemical agent: Cibotium barometz (CB) extract, 0.12% chlorhexidine, or saline in patients with peri-implant mucositis.
 
-## 한줄요약
+Only CB-TPM reduced salivary occult blood (Cohen's d = 1.148; p<0.001) — saline-TPM actually increased it; CB-TPM also uniquely produced large-effect reductions (d ≥ 0.8) in P. micra, T. forsythia, and P. intermedia, while matching chlorhexidine for F. nucleatum and S. aureus suppression without side effects.
 
-이중맹검 RCT(n=60: CB-TPM 21 / 클로르헥시딘-TPM 20 / 생리식염수-TPM 19) — 세 군 모두 토스픽 방법(Toothpick Method, TPM)으로 전달했을 때, CB-TPM만 타액 잠혈을 감소(Cohen's d=1.148)시켰고 P. micra·T. forsythia·P. intermedia에서 단독으로 큰 효과(d≥0.8)를 보여, 천연 Cibotium barometz 추출물+TPM이 부작용 없는 비수술적 임플란트주위 점막염 옵션임을 제시.
+Patient satisfaction was markedly higher with CB extract (4.43/5 vs 1.40 for chlorhexidine), positioning CB + TPM as a side-effect-free, patient-preferred alternative to chlorhexidine for non-surgical peri-implant mucositis management; however, the single-session design and small arm sizes (~20 each) limit generalizability.
+
+## 세줄요약
+
+이중맹검 RCT(n=60; 부산, 한국; 2023년 1–7월) — 기계적 전달 방식(토스픽 방법, Toothpick Method, TPM)을 세 군 모두 동일하게 유지하고 화학 제제만 변경(Cibotium barometz(CB) 추출물·0.12% 클로르헥시딘·생리식염수)하여 임플란트주위 점막염 환자에 적용.
+
+CB-TPM만이 타액 잠혈을 유의하게 감소(Cohen's d = 1.148; p<0.001)시켰으며 — 생리식염수 군은 오히려 증가 — P. micra·T. forsythia·P. intermedia에서 단독으로 큰 효과(d ≥ 0.8)를 달성하면서, F. nucleatum·S. aureus 억제는 클로르헥시딘과 동등, 부작용 없음.
+
+환자 만족도는 CB 추출물에서 현저히 높았으며(4.43/5 vs 클로르헥시딘 1.40), CB+TPM을 비수술적 임플란트주위 점막염 관리의 부작용 없는 클로르헥시딘 대안으로 제시하나, 단회 처치 설계와 소표본(군당 약 20명)은 일반화 범위를 제한한다.
 
 ## Summary
 

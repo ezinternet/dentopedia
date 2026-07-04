@@ -20,13 +20,21 @@ relations:
     target: appukuttan-2016-strategies-manage-dental-anxiety-phobia
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blinded RCT (n=68, Barcelona) among upper third molar extraction patients found that a detailed verbal explanation of The Wand computerized anesthesia system before injection did NOT significantly reduce dental anxiety (ISAR/MDAS/DFS/STAI-S) or perceived pain (VAS) vs no information; need of intraoperative re-anesthesia (42.6%) was unrelated to anxiety but significantly related to longer operative time (p=0.007).
+Single-blinded RCT (n=68, Barcelona) randomizing upper third molar extraction patients to receive, or not receive, a standardized verbal explanation of The Wand computerized anesthesia system before injection.
 
-## 한줄요약
+Detailed Wand explanation did NOT significantly reduce dental anxiety (ISAR/MDAS/DFS/STAI-S) or perceived pain (VAS) vs no explanation; re-anesthesia was needed in 42.6% of patients.
 
-단일맹검 RCT (n=68, 바르셀로나, 상악 제3대구치 발치): The Wand 컴퓨터 제어 마취 시스템 작동원리에 대한 상세 구두 설명이 불안(ISAR/MDAS/DFS/STAI-S)이나 통증(VAS)을 유의하게 줄이지 못함; 술중 재마취 필요율(42.6%)은 불안도와 무관했으나 수술시간 증가와는 유의한 관련(p=0.007).
+Intraoperative re-anesthesia need correlated with longer operative time (p=0.007) but not anxiety level — pre-procedural information about an unfamiliar computerized device may not reduce anxiety as expected.
+
+## 세줄요약
+
+단일맹검 무작위대조시험 (n=68, 바르셀로나): The Wand 컴퓨터 제어 마취 시스템의 작동 원리를 상세히 구두 설명하는 군 vs 설명 없는 군을 상악 제3대구치 발치 환자에서 비교.
+
+상세 설명은 불안(ISAR/MDAS/DFS/STAI-S)이나 통증(VAS)을 유의하게 줄이지 못했으며, 술중 재마취 필요율은 42.6%였다.
+
+재마취 필요성은 불안도와 무관하고 수술시간 증가(p=0.007)와만 관련 — 낯선 컴퓨터 장비에 대한 사전 설명이 불안 감소로 이어지지 않을 수 있다는 임상적 시사점.
 
 ## Summary
 

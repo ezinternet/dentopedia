@@ -14,11 +14,21 @@ source_collection: external
 tags: [periodontitis, host-modulation, vitamin-c, vitamin-e, lysozyme, carbazochrome, celc, igatan-f, rct, korea, adjunct-therapy]
 ---
 
-## One-line Summary
-Multicenter RCT (n=100, 8 weeks): adjunctive vitamin C/E + lysozyme + carbazochrome (CELC, IGATAN F) to SRP — gingival index (GI) significantly lower than placebo at 4 weeks (Δ −0.18 vs +0.01, p=0.015), GEE OR=2.46 (p=0.022); no significant difference in PD, CAL, or PI — clear clinical efficacy limitations.
+## Three-line Summary
 
-## 한줄요약
-다기관 RCT(n=100, 8주): SRP에 비타민C/E + 라이소자임 + 카르바조크롬(CELC, IGATAN F) 보조투여 시 위약 대비 치은지수(GI) 4주 시점 0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI 유의차 없음 — 임상적 효능 한계 명확.
+Multicenter double-blind RCT (n=100, 8 weeks; Korea, 3 centers) of adjunctive vitamin C/E + lysozyme + carbazochrome (CELC, IGATAN F) versus placebo after SRP in chronic periodontitis.
+
+CELC significantly reduced gingival index at 4 weeks (Δ −0.18 vs +0.01, p=0.015; GEE OR=2.46, p=0.022); no significant between-group difference was found for PPD, CAL, or plaque index.
+
+IGATAN F produces a small but real reduction in gingival inflammation as an SRP adjunct; the absence of PPD/CAL improvement limits its evidence base to soft-tissue symptom control, not disease modification.
+
+## 세줄요약
+
+한국 3개 대학병원 다기관 이중맹검 RCT(n=100, 8주) — 만성 치주염에서 SRP 후 비타민C/E + 리소자임 + 카르바조크롬(CELC, IGATAN F) vs 위약 비교.
+
+CELC군에서 4주 치은지수가 유의하게 감소(Δ −0.18 vs +0.01, p=0.015; GEE OR=2.46, p=0.022); PPD·CAL·치태지수는 군간 유의차 없음.
+
+IGATAN F는 SRP 보조 요법으로 치은 염증 증상을 소폭 개선하나, PPD·CAL 개선이 없어 증거 기반은 연조직 증상 완화에 국한되며 질환 수정 효과는 없다.
 
 ## Summary
 This multicenter, double-blind, placebo-controlled randomized clinical trial (RCT) evaluated whether an 8-week fixed-dose combination of vitamin C (150 mg) + vitamin E (10 mg) + lysozyme (30 mg) + carbazochrome (2 mg) — abbreviated CELC and marketed in Korea as IGATAN F (Myung-In Pharmaceutical) — provides additional benefit beyond scaling and root planing (SRP) in chronic periodontitis. 100 patients across Kyung Hee, Yonsei, and Dankook University dental hospitals were enrolled (2014–2015), with 93 completing the study. The primary outcome was reduction of gingival index (GI) at 4 weeks; secondary outcomes were plaque index (PI), probing depth (PD), clinical attachment level (CAL), and 100 mm VAS at 4 and 8 weeks. CELC reduced GI significantly more than placebo at 4 weeks (Δ −0.18 ± 0.33 vs +0.01 ± 0.38, p = 0.015) and the GEE-adjusted odds ratio for GI improvement was 2.46 (p = 0.022). However, no significant between-group differences were observed for PI, PD, or CAL.

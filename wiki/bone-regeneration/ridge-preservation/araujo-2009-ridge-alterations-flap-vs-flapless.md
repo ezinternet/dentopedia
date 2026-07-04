@@ -13,11 +13,21 @@ source_collection: external
 tags: [animal-study, dog, flapless-extraction, ridge-resorption, split-mouth]
 ---
 
-## One-line Summary
-5-dog split-mouth 6-month histological comparison (full-thickness flap vs. flapless extraction) — both groups showed similar ridge resorption, refuting the claim that flapless extraction alone preserves the ridge.
+## Three-line Summary
 
-## 한줄요약
-개 5마리 split-mouth(전층 판막 vs flapless) 6개월 조직학 비교 — 두 군 모두 발치 후 ridge resorption 발생, flap 거상 여부가 흡수량을 의미 있게 바꾸지 않음 → "flapless 발치만으로 ridge 보존" 주장 반박.
+Split-mouth animal study in 5 dogs comparing full-thickness flap elevation vs. flapless tooth extraction, with histomorphometric analysis at 6 months to test whether flapless technique preserves more ridge.
+
+Both groups experienced ridge resorption of similar magnitude — no significant difference in horizontal or vertical bone loss between flap and flapless extraction.
+
+Flapless extraction is not a substitute for active ridge preservation: its clinical value lies in soft-tissue contour conservation rather than alveolar bone protection.
+
+## 세줄요약
+
+개 5마리 이분구강 (Split-mouth) 디자인: 전층 판막 (Full-thickness Flap) 거상 발치 vs 판막없는 발치 (Flapless Extraction), 6개월 조직형태계측 비교 — "flapless 발치가 치조제를 보존한다"는 임상 가설 검증.
+
+양 군 모두 치조제 흡수 발생, 흡수 크기에 유의한 군 간 차이 없음 — 다발골 (Bundle Bone) 소실은 발치 방법과 무관하게 발생.
+
+Flapless 발치는 치조제 보존의 충분 조건이 아님 — 적극적 치조제 보존술 (Alveolar Ridge Preservation, ARP) 없이는 방법 불문 흡수 불가피; flapless의 가치는 연조직 윤곽 보존에 있음.
 
 ## Summary
 Araújo & Lindhe가 2005 dog study(발치 후 2단계 흡수) 후속으로 임상에서 유행하던 **"flapless extraction이 ridge를 보존한다"는 주장**을 검증. 동일 개체 내 한쪽은 full-thickness flap 거상 후 발치, 반대쪽은 flapless 발치. 6개월 후 양측 조직학 비교. 결과: **두 군의 ridge 변화 크기가 의미 있게 다르지 않다**. 임상 의미는 명확 — flapless 발치는 술자·환자 부담을 줄이는 이점은 있을 수 있으나 ridge 보존 효과는 기대하지 말 것. 본 wiki의 PDF는 PubMed abstract page만 포함하므로 정확한 mm 수치는 full text 참조 필요.

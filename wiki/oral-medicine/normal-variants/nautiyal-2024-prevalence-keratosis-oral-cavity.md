@@ -20,13 +20,21 @@ relations:
     target: gupta-2023-prevalence-distribution-oral-mucosal-nepal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical study (144,056 South Indian dental patients screened, 2019-2023) found 5,613 (3.89%) had a benign keratotic white lesion — frictional keratosis (71.65%), tobacco pouch keratosis (27.38%), or morsicatio buccarum/cheek biting (0.9%) — all significantly more common in men, reinforcing that these are treatable-by-habit-cessation entities distinct from potentially malignant white lesions.
+Retrospective clinical study (DIAS electronic records, Saveetha Dental College Chennai; 144,056 patients screened, June 2019–June 2023; institutional ethics IHEC/SDC/UG-2157/23/OMED/303) comparing three benign keratotic white lesions in the same large cohort.
 
-## 한줄요약
+5,613 patients (3.89%) had frictional keratosis (71.65%, mean age 26.3y), tobacco pouch keratosis (27.38%, mean age 44.5y), or morsicatio buccarum (0.9%, mean age 29.3y); all three were significantly more common in men (chi-square p=0.01).
 
-2019-2023년 남인도 치과 환자 144,056명 대상 후향적 연구에서 5,613명(3.89%)이 마찰성 각화증(71.65%), 담배쌈지각화증(27.38%), 교흔/교합면 볼점막 물기(morsicatio buccarum, 0.9%) 중 하나를 보였고 모두 남성에서 유의하게 더 흔했으며, 원인 습관 제거만으로 소실되는 양성 병소임을 재확인했다.
+All three lesions resolve with elimination of the causative habit (trauma/smokeless tobacco/cheek biting) — a "treat cause first, biopsy only if unresponsive" algorithm is supported, and morsicatio buccarum is framed as mechanistically continuous with linea alba (chronic occlusal-plane friction).
+
+## 세줄요약
+
+후향적 임상연구 (Saveetha Dental College Chennai DIAS 기록; 환자 144,056명 스크리닝, 2019년 6월–2023년 6월) — 같은 대규모 코호트에서 세 가지 양성 각화성 백색 병소 비교.
+
+5,613명(3.89%)이 마찰성 각화증(71.65%, 평균 26.3세), 담배쌈지각화증(Tobacco Pouch Keratosis, 27.38%, 평균 44.5세), 또는 교흔(morsicatio buccarum, 0.9%, 평균 29.3세) 보유; 3가지 모두 남성에서 유의하게 더 흔함(p=0.01).
+
+3가지 모두 원인 제거(기계적 외상/무연담배/볼 물기)로 소실 — "원인 먼저 제거, 불응 시 조직검사" 알고리즘 지지; morsicatio buccarum은 교합면 만성 마찰인 linea alba의 연장선으로 기전 설명.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: yu-2026-bone-particle-size-arp-periodontally-compromised-molars.t
 
 Existing ridge-preservation pages establish ARP efficacy and DBBM grafting in intact sockets, but say little about the posterior/molar, periodontally compromised scenario or how DBBM **particle size** (0.25–1 mm vs 1–2 mm) should be chosen. This retrospective cohort extends [[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] (molar DBBM ARP) and [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] (posterior ARP) into the severe-periodontitis molar socket, and adds a particle-size decision factor not addressed by [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=96 stage III/IV periodontitis molar sockets, 48 small- vs 48 large-particle DBBM ARP): large particle (1–2 mm) showed only a non-significant trend toward greater vertical central socket height (8.54 vs 7.76 mm, P=.077); ridge dimensions were maintained regardless of particle size, and socket integrity mattered more than particle size.
 
-## 한줄요약
+Retrospective cohort (n=96 stage III/IV periodontitis molar sockets, 48 small- vs 48 large-particle DBBM ARP): large particle (1–2 mm) showed only a non-significant trend toward greater vertical central socket height (8.54 vs 7.76 mm, P=.077);
+
+ridge dimensions were maintained regardless of particle size, and socket integrity mattered more than particle size.
+
+(incomplete)
+
+## 세줄요약
+
 
 후향 코호트(중증 치주염 III/IV기 대구치 발치와 96개, 소입자 48 vs 대입자 48 DBBM 치조제보존술): 대입자(1–2 mm)가 중심 수직골높이에서 비유의한 증가 경향(8.54 vs 7.76 mm, P=.077)만 보였고, 입자 크기와 무관하게 치조제 치수는 유지됐으며 소켓 무결성이 입자 크기보다 더 중요했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

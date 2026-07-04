@@ -13,11 +13,21 @@ source_collection: external
 tags: [piezosurgery, piezoelectric, implant-dentistry, sinus-elevation, ridge-splitting, IAN-lateralization, narrative-review]
 ---
 
-## One-line Summary
-Narrative clinical review (Clin Cosmet Investig Dent 2015) of piezoelectric bone surgery in implant dentistry: outlines its claimed advantages (precise selective cutting of mineralized tissue, soft-tissue/nerve/membrane preservation, improved visibility) across implant site prep, bone grafting, sinus floor elevation, ridge splitting, and IAN lateralization, while noting longer surgical time, learning curve, and cost — its "avoidance of thermal damage" claim is later partly contradicted by Aquilanti 2023 and Jain 2024.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰(Clin Cosmet Investig Dent 2015): piezo bone surgery 임상 overview — 정밀·선택적 cutting, 연조직 보존, 임플란트 site prep·골이식·sinus floor·ridge split·하치조신경 lateralization 적용; 단 "열손상 회피" 주장은 후속 연구(aquilanti, jain)와 모순.
+Narrative clinical review (Clin Cosmet Investig Dent 2015) of piezoelectric bone surgery in implant dentistry covering history, technical basis, and indications including implant site preparation, bone grafting, sinus floor elevation, ridge splitting, and inferior alveolar nerve (IAN) lateralization.
+
+The review enumerates canonical piezo advantages — precise selective cutting of mineralized tissue, soft-tissue/nerve/membrane preservation, improved visibility — and notes disadvantages of longer surgical time, learning curve, insert wear, and equipment cost.
+
+The "avoidance of thermal damage" claim promoted in this review is later partly contradicted by Aquilanti (2023) and Jain (2024); piezo's primary value is in anatomically delicate indications (Schneiderian membrane, IAN) rather than routine osteotomy speed.
+
+## 세줄요약
+
+서술적 임상 고찰 (Clin Cosmet Investig Dent 2015) — 임플란트 치과에서 압전 골수술(piezosurgery) 적용 총론; 역사·기술적 근거·적응증(임플란트 site prep, 골이식, 상악동 거상, ridge split, 하치조신경 lateralization) 포괄.
+
+장점으로 무기질화 조직의 정밀 선택적 절삭·연조직·신경·막 보존·시야 개선 제시; 단점으로 수술시간 연장·학습곡선·인서트 마모·비용 명시.
+
+"열손상 회피" 주장은 Aquilanti 2023·Jain 2024로 부분 반박됨 — piezo 최대 가치는 연조직·신경·막이 인접한 해부학적으로 민감한 적응증에 있음.
 
 ## Summary
 A clinical review of piezoelectric bone surgery in implant dentistry, covering history (Curie brothers 1880; Catuna 1953), technical basis, and clinical indications. The authors enumerate the canonical piezo claims: precise selective cutting of mineralized tissue, preservation of soft tissues (nerves, vessels, schneiderian membrane), avoidance of thermal damage, improved visibility. They conclude piezo is "superior to other methods that utilize mechanical instruments" especially when handling delicate or compromised hard- and soft-tissue. Disadvantages noted: longer surgical time, learning curve, insert wear, equipment cost.

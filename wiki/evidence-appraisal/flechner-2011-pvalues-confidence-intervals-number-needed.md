@@ -13,11 +13,21 @@ source_collection: external
 tags: [p-value, confidence-interval, nnt, biostatistics, ebm-tutorial]
 ---
 
-## One-line Summary
-EBM tutorial (Indian J Urol 2011) arguing that p-value, 95% confidence interval (CI), and number-needed-to-treat (NNT = 1/ARR) should be read together rather than in isolation, using a prostate-cancer chemoprevention scenario; distinguishes statistical significance from clinical importance and positions the 95% CI as the most informative single lens.
+## Three-line Summary
 
-## 한줄요약
-임상의를 위한 p-value, 95% CI, NNT 3종 세트 튜토리얼 (Indian J Urol 2011): 전립선암 화학예방 시나리오로 세 지표가 같은 데이터의 다른 측면임을 보여주는 EBM 입문.
+EBM tutorial (Indian J Urol 2011) using a prostate-cancer chemoprevention scenario to demonstrate that p-value, 95% confidence interval (CI), and number-needed-to-treat (NNT = 1/ARR) are three lenses on the same trial data, each answering a different question: "is this real?", "how big and how precise?", and "how many patients does it take?".
+
+The 95% CI is positioned as the most informative single lens — it shows both effect direction and precision — while p<0.05 can be reached by large underpowered trials with tiny clinically irrelevant effects, and NNT bridges statistics to bedside decision-making.
+
+For dental RCTs (e.g., osseodensification, bone grafts, endodontic adjuncts), a 95% CI that barely crosses null is substantially weaker evidence than the same point estimate with a tight CI, and NNT makes absolute patient-level benefit concrete for informed consent.
+
+## 세줄요약
+
+EBM 튜토리얼 (Indian J Urol 2011): 전립선암 화학예방 시나리오를 통해 p-value·95% CI·NNT(=1/ARR)가 동일 데이터의 세 렌즈임을 시연 — "이 결과는 실제인가?", "효과는 얼마나 크고 정밀한가?", "몇 명을 치료해야 하는가?"에 각각 답함.
+
+95% CI가 방향과 정밀도를 동시에 보여주는 가장 유익한 단일 지표; p<0.05는 임상적으로 무의미한 미세 효과도 대표본에서 도달 가능; NNT는 통계를 침상 의사결정으로 연결.
+
+치과 RCT(골밀도화술·골이식·근관치료 보조제 등)에서 영점을 겨우 통과하는 95% CI는 동일 점추정에 좁은 CI보다 훨씬 약한 근거이며, NNT는 정보 제공 동의를 위한 절대 혜택을 구체화.
 
 ## Summary
 A teaching paper that argues p-value, 95% confidence interval, and number-needed-to-treat (NNT) should be read together, not chosen between. The clinical scenario (60-year-old post-negative prostate biopsy asking about 5α-reductase chemoprevention) is non-dental but the framework transfers verbatim to dental decisions (e.g., "how many implants must I place with osseodensification to avoid one early failure vs. conventional drilling").

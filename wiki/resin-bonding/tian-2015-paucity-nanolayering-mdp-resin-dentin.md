@@ -20,13 +20,21 @@ relations:
     target: yoshihara-2011-nanolayering-mdp-enamel-dentin
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro TEM + thin-film XRD study (7 commercial 10-MDP adhesives, n=6 TEM / n=4 XRD; experimental 15/10/5 wt% primers): profuse ~3.7 nm-periodicity nanolayering appears only at 15% 10-MDP and is rarely seen in commercial adhesives, challenging nanolayering as a clinical bond-longevity mechanism.
+In-vitro TEM + thin-film XRD study of 7 commercial 10-MDP adhesives (n=6 TEM, n=4 XRD) and experimental 15/10/5 wt% 10-MDP primers applied to human dentin.
 
-## 한줄요약
+Profuse, ordered ~3.7 nm-periodicity nanolayering (XRD peaks at 2θ 2.40°/4.78°/7.18°) appeared only at 15 wt% 10-MDP and was rarely observed in any of the seven commercial adhesives.
 
-In-vitro TEM·박막 XRD 연구(상용 10-MDP 접착제 7종, TEM n=6/XRD n=4; 실험용 15/10/5 wt% 프라이머): 15% 10-MDP에서만 ~3.7 nm 주기의 풍부한 나노레이어링이 나타나고 상용 접착제에서는 거의 관찰되지 않아, 나노레이어링이 결합 내구성의 임상적 기전이라는 주장에 의문을 제기.
+Nanolayering is concentration-dependent and largely absent in clinical formulations, suggesting the durable clinical performance of 10-MDP adhesives is driven by the MDP–calcium ionic bond rather than nanolayering per se.
+
+## 세줄요약
+
+상용 10-MDP 접착제 7종(TEM n=6, XRD n=4)과 실험용 15/10/5 wt% 10-MDP 프라이머를 인간 상아질에 적용한 in-vitro TEM·박막 XRD 연구.
+
+~3.7 nm 주기의 풍부하고 규칙적인 나노레이어링(XRD 피크 2θ 2.40°/4.78°/7.18°)은 15 wt% 10-MDP에서만 나타났고 상용 접착제 7종 모두에서는 거의 관찰되지 않았다.
+
+나노레이어링은 농도 의존적이며 임상 제품에서는 거의 없어, 10-MDP 접착제의 장기 임상 내구성은 나노레이어링보다 MDP–칼슘 이온결합에서 비롯될 가능성이 높다.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 Short vs long implant + sinus lift 비교의 ≥5년 장기 RCT 근거를 2024년까지 갱신하기 위해 인제스트. [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] 의 ≥5년 thesis를 최신 검색(2016–2024, 7 RCT)으로 확장하나, 포함 RCT 다수가 high RoB임을 명시 — 근거 확실성 한계를 함께 기록.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (≥5-year follow-up, search 2016–2024) on short vs long implants with sinus augmentation; success/survival risk ratio not significant (RR 2.37, 95% CI 0.83–6.78), with 5 of 7 trials at high risk of bias.
+SR+MA of 7 RCTs (≥5-year follow-up, search 2016–2024 across 4 databases) comparing short implants vs long implants with sinus augmentation in the atrophic posterior maxilla; 5 of 7 trials rated high risk of bias by RoB 2.
 
-## 한줄요약
+Implant success/survival risk ratio was not statistically significant (RR 2.37, 95% CI 0.83–6.78), supporting short implants as a viable alternative; outcomes also reported for complications and marginal bone loss.
 
-≥5년 추적 RCT 7편 메타분석(2016–2024 검색) — short vs long implant+상악동거상 성공/생존 RR 2.37(95% CI 0.83–6.78)로 유의차 없음; 7편 중 5편이 high risk-of-bias로 근거 확실성 제한적.
+Overall certainty of evidence is limited by the predominantly high risk-of-bias profile and wide confidence interval; long-term conclusions remain premature.
+
+## 세줄요약
+
+위축 후방 상악에서 short implant vs long implant + 상악동거상술(SA) 비교 RCT 7편(≥5년 추적, 2016–2024 검색) SR+MA; 7편 중 5편 RoB 2 기준 high risk.
+
+임플란트 성공/생존율 RR 2.37(95% CI 0.83–6.78)로 유의한 차이 없음 → short implant가 실행 가능한 대안; 합병증·변연골소실 결과도 보고.
+
+high risk-of-bias 우세 및 넓은 신뢰구간으로 전체 근거 확실성 제한적; 장기 결론은 시기상조.
 
 ## 1. Document Information
 - P R Health Sci J 2025;44(1):54–62. Author manuscript in PMC (available 2025-09-11).

@@ -17,13 +17,23 @@ text_filename: salah-2025-microbiota-based-therapies-oral-health.txt
 
 구강 미생물총 기반 치료(프로바이오틱스, 포스트바이오틱스, 포식세균, 박테리오파지, 구강 미생물 이식)를 망라한 최신 narrative review로, 기존 [[wiki/oral-microbiology/index]] 페이지들이 개별 병원체(red complex, F. nucleatum 등) 수준에서 다루지 못한 치료적 개입 전반을 한 곳에 정리한다. 특히 Bdellovibrio bacteriovorus를 이용한 선택적 포식 및 박테리오파지 정밀 치료가 oral-microbiology 범주에서 독립적으로 다루어지지 않아 공백 채우기 목적으로 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (2025) synthesizing the oral microbiome's role in caries, periodontitis, halitosis, and candidiasis, and cataloguing emerging microbiota-based therapies — probiotics (S. salivarius K12/M18, Lactobacillus spp.), postbiotics, predatory bacteria (Bdellovibrio bacteriovorus), bacteriophages, and oral microbiota transplantation.
 
-## 한줄요약
+Narrative review (2025) synthesizing the oral microbiome's role in caries, periodontitis, halitosis, and candidiasis, and cataloguing emerging microbiota-based therapies — probiotics (S.
+
+salivarius K12/M18, Lactobacillus spp.), postbiotics, predatory bacteria (Bdellovibrio bacteriovorus), bacteriophages, and oral microbiota transplantation.
+
+(incomplete)
+
+## 세줄요약
+
 
 2025년 narrative review: 구강 미생물 불균형(우식·치주염·구취·칸디다증)의 기전을 정리하고, 프로바이오틱스·포스트바이오틱스·포식세균(Bdellovibrio)·박테리오파지·구강 미생물 이식 등 신흥 미생물 기반 치료를 체계적으로 개관.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -63,13 +63,21 @@ source_wiki:
 >
 > **■ 읽는 법**: 각 원칙은 영어 규칙 1줄 + 근거등급 + 근거 overview wikilink, 그 아래 완전한 한글 번역이 병기된다. 규칙은 "무엇을 하라"의 압축, 조건·수치·예외의 전모는 링크된 overview에. 케이스가 링크 overview의 결정 트리 분기에 걸리면 반드시 원문을 열 것.
 
-## One-line Summary
+## Three-line Summary
 
-A top-level "overview of overviews": the wiki's 182 synthesis pages distilled into 100 chairside-actionable clinical principles across 19 domains, each principle wikilinked to its source overview(s), tagged with an evidence grade (🟢 strong / 🟡 moderate / 🟠 limited / ⚪ mechanism-consensus), and presented bilingually (English rule + full Korean translation side by side), so a clinician can act on the one-line rule and drill down to the full synthesis only when a case hits a decision branch.
+Overview of overviews: the wiki's 182 synthesis pages distilled into 100 chairside-actionable clinical principles across 19 domains (implants, endodontics, bone regeneration, sinus lift, periodontics, restorative/materials, occlusion, oral surgery, pharmacology, oral medicine, radiology, orthodontics, behavioral/practice), each wikilinked to its source overview and tagged with an evidence grade (🟢 strong SR+MA/RCT · 🟡 moderate · 🟠 limited · ⚪ mechanism-consensus).
 
-## 한줄요약
+Each principle is presented bilingually (English canonical rule + full Korean translation with 한국어 (English, 약어) term notation), and representative counter-intuitive principles include: ISQ ≥70 + IT ≥35 Ncm as loading gate (not ISQ alone); short/narrow implants equal long/standard in survival; post-obturation VPT success >93% with MTA/Biodentine; pain-only attendance affects ~1/3 of the population yet has very thin intervention evidence; and "less is better" applies to flapless socket suture, single-visit RCT, and observation-first for mild NCCL/pseudo-cysts.
 
-182개 overview를 체어사이드에서 실제로 쓰는 임상원칙 100개로 압축한 최상위 종합 페이지 — 19개 도메인, 각 원칙마다 근거 overview 링크·근거등급 (🟢🟡🟠⚪), 그리고 영어 규칙과 완전한 한글 번역을 병기.
+Clinical bottom line: read the numbered rule to act; open the linked decision-ladder overview when a case sits on a decision branch; this is the compression layer, the linked overviews are the expansion — 19 domains × 100 rules × 182 source overviews constitute the full retrieval chain.
+
+## 세줄요약
+
+위키 182개 overview를 체어사이드 임상원칙 100개로 압축한 최상위 종합 페이지 — 19개 도메인, 근거등급 표지(🟢🟡🟠⚪), 영어 규칙 + 완전한 한국어 번역 병기, 각 원칙은 근거 overview 링크로 연결.
+
+대표 원칙: 부하 게이트 = 임플란트 안정성 지수(ISQ) ≥70 + 삽입토크(IT) ≥35 Ncm; 짧은/좁은 임플란트 생존 동등; 생활치수요법(VPT) 성공 >93%(바이오덴틴/MTA); 이갈이는 공통 상류 인자; 통증-only 내원자 ~1/3이나 개입 근거 빈약; "덜 하는 게 낫다" = 저긴장 socket·단일 내원 근관치료·경도 비우식성치경부병소(NCCL) 관찰 우선.
+
+임상 활용: 번호 규칙으로 행동하고, 케이스가 결정 분기에 걸리면 링크 overview로 전개; 100개 규칙 = 압축, 182개 overview = 확장, 전체 retrieval chain이 인과 추적 가능.
 
 ## Summary
 

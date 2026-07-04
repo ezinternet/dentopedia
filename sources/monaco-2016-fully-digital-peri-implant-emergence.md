@@ -13,13 +13,23 @@ source_collection: external
 
 디지털 워크플로우를 통한 임플란트 주위 연조직 형태 복제 기술을 문서화하기 위해 인제스트. 기존 [[immediate-implant/esthetic-soft-tissue]] 및 [[digital-workflow]] 영역의 임시 수복물 활용 디지털 인상 프로토콜을 확장하는 단기 임상 보고서로, STL 중첩 기반 FDT(Fully Digital Technique)의 선도적 기술 기술(記述).
 
-## One-line Summary
+## Three-line Summary
+
 
 Short communication introducing the Fully Digital Technique (FDT) — a two-scan STL superimposition method using an intraoral scanner to capture peri-implant soft tissue contours and emergence profile directly from the provisional restoration, enabling fully digital CAD/CAM abutment design without conventional impressions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 임시 수복물의 두 번의 구강 내 디지털 인상을 STL 중첩하여 임플란트 주위 점막 형태와 출현 프로파일을 완전 디지털 방식으로 복제하는 FDT(완전 디지털 기법)를 소개한 단기 임상 보고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=64 premolars, 4 CAD/CAM materials) showed lithium disilicate and zirconia-reinforced lithium silicate occlusal veneers (0.5/0.8 mm) had significantly higher fracture resistance than polymer-infiltrated ceramic and PMMA; all materials survived 1.2 million chewing cycles at 98 N and exceeded average posterior occlusal forces.
+In-vitro study (n=64 extracted maxillary first premolars, enamel-only preparation, 4 CAD/CAM material groups of n=16 each) comparing fracture resistance of ultra-thin occlusal veneers (fissure 0.5 mm / cusp 0.8 mm) with and without thermodynamic aging (1.2 million cycles at 98 N).
 
-## 한줄요약
+Lithium disilicate (LD) and zirconia-reinforced lithium silicate (LS) showed significantly higher fracture resistance than polymer-infiltrated ceramic (PI) and PMMA (PM); all four materials survived 1.2 million chewing cycles without fracture and exceeded average posterior occlusal forces.
 
-체외실험(n=64 소구치, 4군): 리튬디실리케이트(Lithium Disilicate, LD)·지르코니아강화리튬실리케이트(Zirconia-Reinforced Lithium Silicate, LS) 교합 비니어(0.5/0.8 mm)가 고분자침투세라믹(Polymer-Infiltrated Ceramic, PI)·PMMA보다 파절저항(Fracture Resistance)이 유의하게 높았으며, 전 재료가 120만 회 저작시뮬레이션(98 N)을 생존하였다.
+Counterintuitively, thermodynamic aging significantly increased fracture resistance in LS, PI, and PM groups (bonding maturation effect), while LD was unaffected — supporting clinical viability of all four materials as ultra-thin posterior occlusal veneers.
+
+## 세줄요약
+
+체외실험 (n=64 상악 소구치, 4군 각 n=16; 법랑질만 삭제, 교두 0.8 mm/열구 0.5 mm): 4종 CAD/CAM 초박형 교합면 비니어를 열역학적 저작 시뮬레이션(120만 회, 98 N) 전후 파절저항 비교.
+
+리튬디실리케이트(Lithium Disilicate, LD)·지르코니아강화리튬실리케이트(LS)가 고분자침투세라믹(Polymer-Infiltrated Ceramic, PI)·PMMA(PM)보다 파절저항 유의하게 높음; 4개 재료 모두 120만 회 생존, 전체가 구강 내 실제 교합력 초과.
+
+역설적으로 열역학적 에이징이 LS·PI·PM의 파절저항을 유의하게 증가(접착 성숙 효과 추정); LD는 무변화 — 4종 재료 모두 초박형 교합면 비니어로 임상 적용 가능.
 
 ## Summary
 

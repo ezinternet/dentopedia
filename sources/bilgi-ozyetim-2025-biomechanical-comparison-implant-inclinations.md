@@ -17,13 +17,23 @@ text_filename: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.
 
 무치악 하악 All-on-4에서 후방 임플란트 경사 각도(17°/30°/45°)에 따른 응력 분포 FEA. 보철 연결 방식(스크류 vs 시멘트)과 경사 조합 비교 — [[implants/implants-clinical-decision-ladder]] 의 경사 식립 biomechanics 근거 보완.
 
-## One-line Summary
+## Three-line Summary
 
-FEA (edentulous mandible, All-on-4, 6 models: 17°/30°/45° × screw/cement): increasing posterior implant angulation raises bone and implant stress, but all values remain within safe range; cement-retained frameworks show >3.5× lower stress than screw-retained.
+Finite element analysis (3D CT-based edentulous mandible, All-on-4 with 1-piece bendable implants, 6 models: 17°/30°/45° × screw/cement retention, 150 N vertical + 150 N oblique loading) comparing bone and implant stress across posterior implant angulation and framework retention types.
 
-## 한줄요약
+Increasing posterior implant angulation raised bone and implant stress; cement-retained frameworks showed >3.5× lower framework stress than screw-retained; maximum posterior implant VM stress was 108.6 MPa at 45° with vertical load — all values remained below titanium yield strength (550 MPa).
 
-유한요소분석 (무치악 하악, All-on-4, 6모델: 17°/30°/45° × 나사/시멘트): 경사 증가 시 골·임플란트 응력↑이나 안전 범위 내; 시멘트 유지 프레임워크가 나사 유지보다 3.5배 이상 응력 낮음.
+FEA only; single prosthetic material (CoCr); static loading; fixed 14 mm cantilever; findings support clinical safety of angulation up to 45° in bendable implant All-on-4, with cement retention offering biomechanical advantage.
+
+## 세줄요약
+
+유한요소분석(3D CT 기반 무치악 하악, All-on-4 1체형 굴곡형 임플란트, 6모델: 17°/30°/45° × 나사/시멘트 유지, 150 N 수직+150 N 사선 하중) — 후방 임플란트 경사 각도 및 프레임워크 유지 방식에 따른 골·임플란트 응력 비교.
+
+경사 각도 증가 시 골·임플란트 응력 증가; 시멘트 유지(Cement-retained) 프레임워크가 나사 유지(Screw-retained)보다 3.5배 이상 응력 낮음; 45° 수직 하중 시 최대 후방 임플란트 폰 미세스(Von Mises) 응력 108.6 MPa — 모두 티타늄 항복강도(550 MPa) 이하.
+
+FEA만으로 단일 보철 재료(CoCr); 정적 하중; 고정 14 mm 캔틸레버; 굴곡형 임플란트 All-on-4에서 최대 45° 경사의 임상적 안전성과 시멘트 유지의 생역학적 이점을 지지.
+
+## 1. Document Information
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2025;25(1):1213

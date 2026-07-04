@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 SRP 단독의 한계(깊은 치주낭·치근이개부 잔류 치석 최대 30%)를 보완하는 화학적 보조요법의 근거를 정리한 SR+MA로, [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 비외과적 치주치료 권고를 소독제 전달방식(서방형 vs 세척)별로 세분화해 확장한다. [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]]의 단계별 치료 권고에서 보조 항균제 선택의 근거 보강에 활용.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts to SRP significantly improve PD reduction, CAL gain, and BOP (all p=0.001), whereas subgingival antiseptic irrigation adds no significant benefit over SRP alone.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 체계적 문헌고찰+메타분석(RCT 12편, 추적 ≥6개월): 서방형 치은연하 소독제(겔·칩·바니시)를 SRP에 병용하면 치주낭깊이(PD)·임상부착수준(CAL)·탐침시출혈(BOP)이 유의하게 개선(모두 p=0.001)되었으나, 소독제 세척(irrigation) 병용은 SRP 단독 대비 유의한 추가 효과가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Type**: Systematic literature review with meta-analysis (random-effects model)

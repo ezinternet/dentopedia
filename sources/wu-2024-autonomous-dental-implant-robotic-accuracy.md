@@ -13,11 +13,21 @@ source_collection: external
 
 Robotic CAIS 정확도 근거군([[digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation]], [[digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy]])에 single-arm 절대 정확도 baseline을 추가. 비교군 없이 ADIRS 자체 deviation 분포를 제공.
 
-## One-line Summary
+## Three-line Summary
+
 Single-arm clinical study (74 patients, 86 implants) — autonomous implant robot (ADIRS) achieved coronal 0.61 mm, apical 0.79 mm, angular 2.56° deviation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 단일군 임상연구(환자 74명·임플란트 86개): 자율임플란트로봇(ADIRS) 관상 0.61mm·첨부 0.79mm·각도 2.56° 편차로 높은 정확도.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Prosthetic Dentistry, 2024 (online). Peking University Third Hospital.

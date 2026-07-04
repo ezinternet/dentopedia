@@ -9,7 +9,7 @@ pdf_filename: gomes-2025-nsaids-kidney-toxicity-icu-retrospective.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 ICU 후향적 연구(n=1,157, 포르투갈): NSAIDs 사용이 급성신손상(AKI) 독립적 위험인자(OR 1.98); 중증 AKI(stage 3)는 2년 생존율 유의하게 악화(aHR 1.42) — 치과 임상과의 연관성: 수술 후 NSAID 처방 시 신기능 손상 환자 주의 (J Crit Care 2025).
 
 ## 1. Document Information

@@ -19,13 +19,21 @@ relations:
     target: monje-2025-implant-design-stability-early-healing-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-EBD critical summary (Mourão & Dos Santos Pereira 2025) appraising a 2-arm RCT of tapered vs cylindrical implants over 6 weeks of early healing: tapered gave higher insertion torque (MIT) but cylindrical gave higher ISQ/IST at 6 weeks; surgical technique mattered more than macrogeometry, and unstandardized osteotomy confounds the design comparison.
+EBD critical summary appraising a parallel-group RCT (Charoenniwassakul 2025) of tapered vs cylindrical implants measuring MIT, ISQ, and IST over 6 weeks of early healing in good-quality healed bone.
 
-## 한줄요약
+Tapered implants showed significantly higher maximum insertion torque (MIT), while cylindrical implants showed higher ISQ and IST at 6 weeks; both designs reached stability adequate for early loading, but osteotomy preparation was not standardized between groups.
 
-Evidence-Based Dentistry 비평 요약 (Mourão & Dos Santos Pereira 2025) — 테이퍼드 vs 실린더형 임플란트의 6주 초기 치유기 안정성을 비교한 2군 RCT를 평가: 테이퍼드는 더 높은 삽입 토크(MIT), 실린더형은 6주째 더 높은 ISQ/IST를 보였으나, 임플란트 거대형태(macrogeometry)보다 수술 술식이 1차 안정성에 더 큰 영향을 미쳤고, 비표준화된 골삭제(osteotomy)가 설계 비교를 교란함.
+Surgical technique (drilling protocol/under-preparation) drives primary stability more than implant macrogeometry — do not expect a stability advantage from shape alone in good-quality healed bone.
+
+## 세줄요약
+
+EBD 비평 요약 — 테이퍼드 vs 실린더형 임플란트의 6주 초기 치유기 안정성(MIT·ISQ·IST)을 비교한 RCT(Charoenniwassakul 2025) 평가; 대상: 양질의 치유된 골 후방부.
+
+테이퍼드는 최대 삽입 토크 (Maximum Insertion Torque, MIT) 유의하게 높음; 실린더형은 6주 임플란트 안정성 지수 (ISQ)·IST 더 높음; 두 디자인 모두 조기 로딩 충분 안정성 도달, 단 골삭제 (Osteotomy) 비표준화가 교란 변수.
+
+수술 술식(드릴 프로토콜·언더 준비)이 임플란트 거대형태 (Macrogeometry)보다 1차 안정성에 더 큰 영향 — 양질의 치유골에서 거대형태만으로 안정성 우위 기대 불가.
 
 ## Summary
 

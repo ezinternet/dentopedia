@@ -13,11 +13,21 @@ source_collection: external
 
 PDL 확장(widening)은 교합외상의 대표적 영상 소견이지만, 악성종양·전신질환 등 위험 병변과도 겹친다. 본 review는 PDL widening을 일으키는 병변군을 영상의학적으로 감별 정리해, 교합외상 클러스터([[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]])의 "위험 감별" 안전망을 제공한다. 교합 소견으로 단정하기 전 배제해야 할 병변 목록.
 
-## One-line Summary
+## Three-line Summary
+
 Radiographic review cataloguing the lesions that cause periodontal ligament (PDL) widening — ranging from benign (occlusal trauma, orthodontic force) to serious (osteosarcoma, non-Hodgkin lymphoma, scleroderma) — to guide differential diagnosis.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 치주인대(PDL) 확장을 유발하는 병변군을 영상의학적으로 감별 정리한 review — 양성(교합외상·교정력)부터 중대(골육종·비호지킨림프종·경피증)까지 포괄.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Imaging Science in Dentistry 2016;46(4):229–237. Review. DOI 10.5624/isd.2016.46.4.229.

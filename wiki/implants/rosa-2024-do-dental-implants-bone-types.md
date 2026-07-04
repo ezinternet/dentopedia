@@ -14,11 +14,21 @@ source_collection: external
 tags: [bone-quality, lekholm-zarb, survival-rate, meta-analysis, bone-type-IV, ISQ, primary-stability]
 ---
 
-## One-line Summary
-SR+MA (49 studies, 12,056 patients, 29,905 implants): Lekholm-Zarb type IV bone has significantly higher implant failure than types I–III (RR ~1.5–1.9), with types I and II equivalent; the gap is driven by lower primary stability (ISQ 58–65 for type IV vs 72–80 for type I), and the posterior maxilla is the highest-risk site.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (49연구, 29,905임플란트): 4형 골 실패율 1.5–1.9배↑; 상악구치부 최고위험; 골질이 임플란트 생존 결정
+PRISMA-compliant SR+MA (49 studies, 12,056 patients, 29,905 implants) comparing implant survival across Lekholm-Zarb bone quality types I–IV, with meta-analytic pooling of relative risk for failure and ISQ measurements by bone type.
+
+Type IV bone (low-density spongy + thin cortical; posterior maxilla) had significantly higher implant failure risk vs types I–III (RR 1.50–1.92); types I and II were statistically equivalent; type IV primary stability was markedly lower (ISQ 58–65 vs 72–80 for type I).
+
+Preoperative bone quality assessment is mandatory — in type IV bone (posterior maxilla), sinus augmentation, bone condensation, or surface-enhanced implants should be prioritized, and ISQ <65 signals need for extended healing before loading.
+
+## 세줄요약
+
+PRISMA 준수 SR+MA (49편, 환자 12,056명, 임플란트 29,905개) — Lekholm-Zarb 골질 분류(I–IV형)에 따른 임플란트 생존율 비교 및 상대위험(Relative Risk, RR)·임플란트 안정성 지수(Implant Stability Quotient, ISQ) 메타분석.
+
+IV형 골(저밀도 해면골 + 얇은 피질골; 상악 구치부)의 임플란트 실패 위험 I–III형 대비 1.50–1.92배 유의하게 높음; I·II형은 통계적으로 동등; IV형 ISQ 58–65 vs I형 72–80.
+
+임플란트 계획 시 골질 평가 필수 — IV형 골(상악 구치부): 상악동 거상(Sinus Augmentation)·골압축(Bone Condensation)·향상된 표면처리(Enhanced Surface) 임플란트 우선 고려; ISQ <65 시 조기 부하 회피.
 
 ## Summary
 PRISMA-compliant systematic review + meta-analysis of **49 studies, 12,056 patients, 29,905 implants**. Bone types I, II, and III all show significantly higher implant survival than type IV. Types I and II are statistically equivalent; type III is intermediate. The gap is explained by primary stability: type IV (low-density, thin cortical) yields ISQ 58–65 vs. 72–80 for type I.

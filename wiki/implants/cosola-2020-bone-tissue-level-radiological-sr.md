@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR (20 qualitative / 17 quantitative studies; 1161 patients, 2933 implants — 1427 tissue-level, 1506 bone-level): both bone-level and tissue-level dental implants had survival and success rates >90%, with no statistically significant between-group difference in radiological marginal bone loss.
+## Three-line Summary
 
-## 한줄요약
-SR(20편 질적/17편 정량, 1161명 2933 임플란트): 골수준·조직수준 임플란트 생존율·성공율 >90%; 방사선적 변연골 소실에 유의한 그룹간 차이 없음
+Systematic review (database search through September 2019; 20 qualitative, 17 quantitative studies; 1161 patients; 2933 implants — 1427 tissue-level vs 1506 bone-level) evaluating radiological marginal bone loss outcomes by implant connection level.
+
+Survival (>90%) and success rates (>90%) were equivalent for tissue-level and bone-level implants; no statistically significant between-group difference was found in radiological marginal bone loss across quantitative analyses.
+
+The review provides a 2019 baseline summary confirming radiological equivalence; English-language restriction and heterogeneous follow-up durations across included studies limit the pooled conclusions.
+
+## 세줄요약
+
+체계적 고찰 (검색 ~2019-09; 질적 20편, 정량 17편; 환자 1161명; 임플란트 2933개 — 조직수준 1427개 vs 골수준 1506개): 연결 수준별 방사선학적 변연골 소실 결과 평가.
+
+생존율 >90%, 성공율 >90% 로 조직수준 (Tissue-Level, TL) 임플란트와 골수준 (Bone-Level, BL) 임플란트 동등; 방사선학적 변연골 소실 (Marginal Bone Loss, MBL)에서 유의한 군 간 차이 없음.
+
+영어 문헌만 포함·추적기간 이질성이 한계; 2019년까지 기준선 요약으로 이후 발표된 임플란트주위염 비교 연구 (예: 2025 SR+MA)가 보완.
 
 ## Summary
 Systematic review of radiological MBL outcomes comparing bone-level (BL) vs tissue-level (TL) dental implants. PubMed, Embase, others searched to September 2019. 20 articles qualitative, 17 quantitative: 1161 patients, 2933 implants (1427 TL, 1506 BL). Survival and success rates >90% in both groups. No significant radiological differences between BL and TL implants.

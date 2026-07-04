@@ -56,13 +56,21 @@ source: synthesis
 > - 정당화(justification) 우선 원칙: 휴대형 구내 X-ray는 시준·재촬영 위험으로 ALARA 위반 소지 → 문서화된 정당화 하에 예외적으로만 사용(Berkhout 2015 EADMFR 합의). 소아·교정에서 누적선량 관리가 특히 중요 — 교정 전 과정(~7장) = 자연배경 5~10일분(Stervik 2024), 소아 CBCT는 촬영의 11%인데 집단선량의 70%(Hedesiu 2018) — 그러나 정당화 기록은 계획단계 촬영의 5%에 불과(Stervik 2024).
 > - 근거 한계: 선량 최적화 자체에 대한 SR+MA 부재 — 레버 효과 크기는 대부분 phantom/Monte-Carlo 기반. 한국 DRL(Kang 2024) 수치는 변동 가능.
 
-## One-line Summary
+## Three-line Summary
 
-Across 27 dental-radiology papers, patient dose is governed by a fixed modality hierarchy (intraoral ~1.3 ≪ panoramic ~18 ≪ CBCT ~121 µSv) onto which four operator-controllable levers act — field-of-view/collimation, kVp/mAs, voxel size, and (panoramic) beam height — anchored by the Ludlow 2008 reference dose table; two further branches extend the frame — an OCCUPATIONAL/OPERATOR-SAFETY axis (negligible operator dose in shielded rooms — Kim 2016 0.18 mSv/y, Gijbels 2005, Rottke 2018 handheld — but ~30× higher without structural shielding, Kabier 2025) and a JUSTIFICATION + cumulative-risk axis (Berkhout 2015 handheld justification, Stervik 2024 orthodontic course ≈5–10 days background, Hedesiu 2018 pediatric CBCT = 70% of collective dose); and two paradigm shifts reframe protection: contact shielding (gonad/thyroid) is now recommended against, and radiation-free 0.55 T MRI emerges as a non-ionizing alternative for selected paediatric indications.
+Synthesis of 27 dental-radiology papers: patient dose follows a fixed modality hierarchy (intraoral ~1.3 ≪ panoramic ~18 ≪ CBCT ~121 µSv; 87-device range 3–500 µSv, Fontenele 2025) onto which four operator-controllable levers act — FOV/collimation (largest single lever: rectangular collimation reduces full-mouth series dose ~91%, Ludlow 2008 phantom reference standard), kVp/mAs (high-kVp ultra-low-dose cuts CBCT dose ~6× while maintaining acceptable image quality, Charuakkra 2023), voxel size (smaller voxel at lower mAs maintains quality; upsizing voxel to reduce dose is counterproductive, Oenning 2019), and panoramic beam height (the single strongest panoramic dose determinant, Lee 2019 MC).
 
-## 한줄요약
+Occupational safety: in structurally shielded rooms, operator effective dose is negligible (Kim 2016 Korean national registry: mean 0.18 mSv/year, <1% of 20 mSv/year occupational limit; Gijbels 2005; Rottke 2018 handheld safe with backscatter shield); absence of structural shielding raises operator dose ~30× (Kabier 2025 Iraq TLD: 5.6 mSv/year — within limit but not trivial); two paradigm shifts: contact shielding (gonad/thyroid) is now recommended against (Benavides 2023 AAOMR/JADA consensus; thyroid doses 0.30–1.46 µSv, Schindler 2025), and 0.55 T low-field MRI is a non-ionizing alternative for selected pediatric indications (Willershausen 2025 prospective n=16).
 
-치과 영상 선량은 고정된 modality 위계(구내 ~1.3 ≪ 파노라마 ~18 ≪ CBCT ~121 µSv) 위에서 결정되며, 그 위에 술자가 조절 가능한 네 레버(FOV/collimation, kVp/mAs, 복셀 크기, 파노라마 빔높이)가 작용한다 — Ludlow 2008의 ICRP 2007 기준 표가 환자선량 앵커. 여기에 두 분기가 추가된다 — 직업/술자안전 축(차폐 촬영실에서 술자선량 무시 가능: Kim 2016, Gijbels 2005, Rottke 2018 휴대형; 단 구조적 차폐 없으면 ~30배↑ Kabier 2025)과 정당화·누적위험 축(Berkhout 2015 휴대형 정당화, Stervik 2024 교정 전 과정 ≈배경 5~10일, Hedesiu 2018 소아 CBCT=집단선량의 70%). 동시에 두 패러다임 전환이 방호 개념을 바꾼다 — 접촉 차폐(생식선·갑상선)는 이제 권고되지 않고, 무피폭 0.55 T MRI가 일부 소아 적응증의 비전리 대안으로 등장한다. 문헌 27편 횡단 종합. [근거강함 — modality 위계·차폐 권고], [합의수준 — 최적화 레버]
+Clinical bottom line: ALARA is a two-step decision — first choose the lowest-sufficient modality (descending the hierarchy saves more dose than any single lever), then tighten the four levers; pediatric CBCT accounts for 70% of collective dental radiation dose (Hedesiu 2018) so justification carries highest impact there; a complete orthodontic radiographic course approximates only 5–10 days of background (Stervik 2024) — contextualizable but not dismissible.
+
+## 세줄요약
+
+27편 종합: 환자 선량은 고정된 modality 위계(구내 ~1.3 ≪ 파노라마 ~18 ≪ CBCT ~121 µSv; 87기종 범위 3~500 µSv, Fontenele 2025) + 네 조절 레버 — FOV/collimation(최대 레버: 직사각조준 FMS 선량 ~91% 저감, Ludlow 2008 기준 표), kVp/mAs(고관전압 저선량 CBCT ~6배↓, Charuakkra 2023), 복셀 크기(작은 복셀+저mAs가 화질 유지; 복셀 키워 선량 줄이기는 역효과, Oenning 2019), 파노라마 빔높이(파노라마 선량 최대 결정인자, Lee 2019 MC).
+
+직업 안전: 차폐 촬영실에서 술자 선량 무시 가능(Kim 2016: 평균 0.18 mSv/년, 한도의 <1%); 구조적 차폐 없으면 ~30배↑(Kabier 2025 이라크 TLD: 5.6 mSv/년); 두 패러다임 전환 — 접촉 차폐(생식선·갑상선) 중단 권고(Benavides 2023; 갑상선 등가선량 0.30~1.46 µSv, Schindler 2025), 0.55 T 저자장 MRI가 소아 선택 적응증의 비전리 대안(Willershausen 2025 전향적 n=16).
+
+임상 결론: ALARA는 2단 결정 — 먼저 가능한 가장 낮은 modality 선택(가장 큰 선량 절감), 다음 4개 레버 조임; 소아 CBCT가 치과 집단선량의 70%(Hedesiu 2018); 교정 전체 방사선 검사 과정은 배경 5~10일분(Stervik 2024) — 맥락화 가능하나 무시 불가.
 
 ---
 

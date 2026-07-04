@@ -14,11 +14,21 @@ source_collection: external
 tags: [uv-photofunctionalization, isq, stability-dip, early-loading, immediate-loading, case-report, korean]
 ---
 
-## One-line Summary
-Case reports of sealed UV-treatment (photofunctionalized) implants: UV-induced superhydrophilic surface (contact angle ≈0°, BIC ≈100% in animals) produced rapid ISQ rise within 2 weeks (e.g. 69→81) with no stability dip, enabling successful early loading at 1–4 weeks; case-report level evidence needing RCT validation.
+## Three-line Summary
 
-## 한줄요약
-증례보고: UV 광기능화(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1–4주 조기부하 성공
+Case reports (Korean, Implantology 2017) of sealed UV photofunctionalized implants (superhydrophilic contact angle ≈0°, BIC ≈100% in animal models) tracking ISQ serially at 0, 1, 2, and 4 weeks after placement including immediate extraction-socket cases.
+
+UV photofunctionalization produced rapid ISQ rise within 2 weeks without a stability dip (e.g., 69→81 by week 2), enabling successful early loading at 1–4 weeks post-placement.
+
+Evidence is case-report level only; the absence of a stability dip and accelerated osseointegration require RCT-level validation before clinical extrapolation of loading protocols.
+
+## 세줄요약
+
+증례보고(한국, Implantology 2017): 밀폐형 UV 광기능화 (Photofunctionalization) 임플란트(초친수성 접촉각 ≈0°, 동물 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) ≈100%)의 식립 0·1·2·4주 임플란트 안정성 지수 (ISQ) 추적, 즉시 발치와 증례 포함.
+
+UV 처리로 2주 이내 ISQ 급상승(예: 69→81) 및 안정성 감소(Stability Dip) 없이 골유착 가속화, 식립 후 1–4주 조기부하 성공.
+
+증례보고 수준의 근거로, 안정성 dip 부재 및 가속 골유착은 임상 프로토콜 적용 전 RCT 수준의 검증 필요.
 
 ## Summary
 밀폐형 UV 처리 임플란트 증례보고. UV 광기능화로 초친수성(접촉각≈0°)·양전하·저탄소 표면 구현 → **stability dip 없이** ISQ 식립 2주 내 급상승(예: 69→81) → **식립 1-4주 후 조기부하 성공**.

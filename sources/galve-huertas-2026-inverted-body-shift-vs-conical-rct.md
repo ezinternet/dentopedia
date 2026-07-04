@@ -9,7 +9,7 @@ pdf_filename: galve-huertas-2026-inverted-body-shift-vs-conical-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Randomized clinical trial (1-year follow-up) comparing an inverted body-shift implant design vs a conventional conical implant for immediate placement in the esthetic zone.
 
 ## 1. Document Information

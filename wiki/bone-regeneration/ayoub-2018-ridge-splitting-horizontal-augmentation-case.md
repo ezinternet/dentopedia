@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Split-mouth case report: modified ridge-splitting technique for atrophic maxillary horizontal deficiency using piezosurgery, sticky bone (albumin-coated allograft), and simultaneous implant placement with successful outcome.
+## Three-line Summary
+Split-mouth case report (2018) presenting a modified maxillary ridge splitting technique for horizontal augmentation of atrophic ridges using piezosurgery for controlled cortical osteotomy and sticky bone (albumin-coated allograft + PRF) as graft material.
 
-## 한줄요약
-증례보고(스플릿마우스): 위축된 상악 수평골 부족 시 변형 치조골 분리술 — 피에조서저리·스티키본·알부민 동종골 적용; 동시 임플란트 식립 성공
+Simultaneous implant placement was performed at the time of ridge expansion with successful radiographic and clinical outcomes, and the split-mouth design provided a contralateral control comparison; no donor-site morbidity was incurred.
+
+This technique offers a minimally invasive alternative to onlay block grafts for atrophic maxillary ridges; piezosurgery enabled precise splits and sticky bone maintained graft volume, but generalization is limited by single-patient case-report evidence.
+
+## 세줄요약
+증례보고(스플릿마우스, 2018): 위축된 상악 수평 골 결손에 변형 치조제 분리술(Modified Ridge Splitting) — 피에조서저리로 정밀 피질골 오스테오토미, 스티키본(알부민 코팅 동종골+PRF) 이식.
+
+동시 임플란트 식립 시행, 방사선·임상적 성공 확인; 스플릿마우스 설계로 반대측 대조군 비교 제공; 공여부 이환율 없음.
+
+외측 블록 이식을 회피하는 최소 침습적 수평 증대술 대안이나, 단일 환자 증례보고 수준으로 일반화에 한계가 있다.
 
 ## Summary
 Split-mouth case report presenting a modified maxillary ridge splitting technique for horizontal augmentation of atrophic ridges. Piezosurgery used for controlled bone splitting. Sticky bone (albumin-coated allograft + PRF) applied as graft material. Simultaneous implant placement performed. Demonstrates a minimally invasive alternative to onlay grafts avoiding a second surgical site.

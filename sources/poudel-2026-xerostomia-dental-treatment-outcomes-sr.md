@@ -17,13 +17,23 @@ text_filename: poudel-2026-xerostomia-dental-treatment-outcomes-sr.txt
 
 Xerostomia (구강건조증, incl. Sjögren·radiation·medication causes) is the connective thread across our autoimmune/dry-mouth dental pages, but until now we held only implant-specific syntheses ([[wiki/implants/almeida-2017-dental-implants-sjogren-syndrome-sr]], [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]]). This 16-study SR is the first page we hold that spans **all** treatment modalities — restorations, implants, periodontal therapy, prostheses, and PROs — and quantifies the restoration-longevity penalty (HR ~2.6–2.9) that the implant-only SRs do not cover. It reinforces almeida-2017's high-implant-survival conclusion for Sjögren's while adding the radiation-induced caveat.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (16 studies, 1227 patients) showing xerostomia roughly doubles–triples restoration failure (HR ~2.6–2.9, recurrent caries) while implant survival stays >90% except in radiation-induced cases; no major periodontal-therapy penalty; evidence GRADE low-to-moderate, RoB moderate-to-serious.
 
-## 한줄요약
+Systematic review (16 studies, 1227 patients) showing xerostomia roughly doubles–triples restoration failure (HR ~2.6–2.9, recurrent caries) while implant survival stays >90% except in radiation-induced cases;
 
-체계적 문헌고찰 (16편, 환자 1227명) — 구강건조증(Xerostomia)은 보철물(restoration) 실패를 약 2.6~2.9배 높이고(재발우식, recurrent caries) 임플란트 생존율은 방사선유발 외에는 90% 이상 유지되며, 치주치료 결과 차이는 뚜렷하지 않음. 근거수준 GRADE 낮음~중등도, 비뚤림위험 중등도~심각.
+no major periodontal-therapy penalty;
+
+evidence GRADE low-to-moderate, RoB moderate-to-serious.
+
+## 세줄요약
+
+
+체계적 문헌고찰 (16편, 환자 1227명) — 구강건조증(Xerostomia)은 보철물(restoration) 실패를 약 2.6~2.9배 높이고(재발우식, recurrent caries) 임플란트 생존율은 방사선유발 외에는 90% 이상 유지되며, 치주치료 결과 차이는 뚜렷하지 않음.
+
+근거수준 GRADE 낮음~중등도, 비뚤림위험 중등도~심각.
+
+(incomplete)
 
 ## 1. Document Information
 

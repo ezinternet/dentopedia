@@ -13,11 +13,21 @@ source_collection: external
 tags: [burnout, prevalence, meta-analysis, geography, longitudinal, dentist]
 ---
 
-## One-line Summary
-Independent SR+MA (15 studies, n=6,038 dentists) finding pooled professional-burnout prevalence of 13% (95% CI 6–23%), corroborating Moro 2022; subgroups show Europe > Asia > Americas, longitudinal designs report higher prevalence than cross-sectional (cross-sectional underestimates), and a downward decade-over-decade trend (search ended Oct 2021, pre-full-pandemic).
+## Three-line Summary
 
-## 한줄요약
-독립 SR+MA(15편, n=6,038) — 치과의사 번아웃 전체 유병률 13%로 Moro 2022와 동일. 유럽 > 아시아 > 미주 순, 종단연구 > 단면연구, 그리고 최근 10년이 그 이전 10년보다 낮은 하향 추세.
+Independent SR+MA of 15 studies (n=6,038 dentists, search through Oct 2021) yielding a pooled professional burnout prevalence of 13% (95% CI 6–23%), convergent with and corroborating Moro 2022 from a different research team.
+
+Subgroup analyses reveal: Europe > Asia > Americas geographic gradient; longitudinal designs report higher prevalence than cross-sectional (single-time-point surveys underestimate true burden); and a significant downward decade-over-decade trend.
+
+The wide 95% CI (6–23%) and the pre-pandemic search cutoff are key limitations; cross-sectional design bias means clinic surveys likely undercount actual burnout exposure.
+
+## 세줄요약
+
+독립 SR+MA (15편, n=6,038 치과의사, 검색 2021년 10월): 치과의사 번아웃 유병률 13% (95% CI 6–23%) — 다른 연구팀이 Moro 2022와 독립적으로 동일한 수치 도달.
+
+소집단 분석: 유럽 > 아시아 > 미주 지역 기울기; 종단연구 > 단면연구 유병률 (단면연구는 실제 부담 과소추정); 최근 10년이 그 이전 10년보다 유의하게 낮은 하향 추세.
+
+95% CI 폭 넓음(6–23%)과 팬데믹 이전 검색 종료가 핵심 한계; 단면 설문으로 측정하는 클리닉 조사는 실제 번아웃 노출을 과소계상할 가능성 높음.
 
 ## Summary
 Long et al. is the independent replication that strengthens the Moro 2022 prevalence estimate. Different research team, different search end date (Oct 2021), different study set (15 instead of 31) — and they land on the same 13% pooled prevalence. The 95% CI is wide (6–23%) so the point estimate carries real uncertainty, but two independent SR+MAs agreeing on the headline number is the strongest evidence we have for dentist burnout magnitude.

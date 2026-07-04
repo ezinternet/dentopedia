@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (10 posterior implants, 10 patients, randomly assigned by flap design) reporting that the microsurgical roll-in-envelope (RIE) flap yielded a ~three-fold greater peri-implant mucosal thickness than the holding-suture (HS) technique with less pain/discomfort and no dropouts.
+Prospective case series (n=10 posterior implants, 10 patients, randomly assigned by flap design) comparing the microsurgical roll-in-envelope (RIE) flap vs the holding-suture (HS) technique for peri-implant soft-tissue thickening; mucosal thickness measured at surgery, 6 weeks, and 12 weeks.
 
-## 한줄요약
+The RIE flap yielded approximately three-fold greater peri-implant mucosal thickness than HS; healing was uneventful with no dropouts, and patients reported less pain/discomfort.
 
-구치부 임플란트 10개·10명 대상 전향적 증례군. 미세수술 롤-인-엔벨로프(RIE) 피판이 홀딩-수처(HS) 기법보다 임플란트 주위 점막 두께를 약 3배 더 확보하고 통증·불편을 줄임(탈락 없음).
+The RIE flap is a minimally invasive alternative to connective tissue graft (CTG) for peri-implant mucosal thickening when sufficient supporting tissue exists; limited by small n and abstract-level quantitative data.
+
+## 세줄요약
+
+구치부 임플란트 10개·10명을 피판 디자인으로 무작위 배정한 전향적 증례군; 수술 시·6주·12주 임플란트 주위 점막 두께 비교.
+
+RIE 피판이 HS 기법 대비 임플란트 주위 점막 두께를 약 3배 더 확보; 합병증·탈락 없음, 통증·불편 감소.
+
+RIE 피판은 결합조직이식(CTG) 대신 점막 두께 확보를 위한 최소침습 대안이나, 소규모 증례군이며 수치 데이터는 초록 수준으로 제한됨.
 
 ## Summary
 

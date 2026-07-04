@@ -15,13 +15,21 @@ text_filename: he-2026-hemostatic-agents-periapical-surgery-sr-ma.txt
 tags: [periapical-surgery, hemostasis, ferric-sulfate, epinephrine, aluminum-chloride, bone-wax, tranexamic-acid, SR-MA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 RCTs/CCTs (388 teeth) on hemostatic agents in periapical surgery: pooled efficacy 63 ± 6.6%, no significant between-agent differences overall, but network meta-analysis shows epinephrine and aluminum chloride superior to collagen (P < .05); smoking trends toward significance (P = .074); hemostatic efficacy does not predict prognosis.
+SR+MA of 10 RCTs and CCTs (388 teeth, ≥12-month follow-up) evaluating six hemostatic agents — epinephrine, ferric sulfate, aluminum chloride, bone wax, tranexamic acid, and collagen — used in periapical surgery, with three complementary meta-analytic approaches (global, meta-regression, network MA).
 
-## 한줄요약
+Pooled hemostatic efficacy was 63 ± 6.6%; global and meta-regression analyses found no significant between-agent differences, but network meta-analysis identified epinephrine and aluminum chloride as superior to collagen (P < .05); no other pairwise differences were significant.
 
-10편 SR+MA (388개 치아): 근관외과 지혈제 평균 효능 63 ± 6.6%; 전반적 제제 간 유의차 없으나 네트워크 메타분석에서 에피네프린·알루미늄 클로라이드가 콜라겐 대비 우수(P<.05); 지혈 효능과 예후 간 상관 없음.
+Hemostatic efficacy did not predict periapical surgery prognosis; only smoking showed a near-significant trend (P = .074), suggesting agent choice can be guided by cost and safety profile rather than differential efficacy.
+
+## 세줄요약
+
+근관외과 지혈제(에피네프린·황산제이철·알루미늄 클로라이드·본 왁스·트라넥삼산·콜라겐) 6종을 비교한 10편 RCT/CCT (388개 치아, 추적 ≥12개월) SR+MA로, 글로벌·메타회귀·네트워크 메타분석을 동시 적용했다.
+
+전체 지혈 효능 평균 63 ± 6.6%; 글로벌·메타회귀 분석에서는 제제 간 유의차가 없었으나, 네트워크 메타분석에서 에피네프린·알루미늄 클로라이드가 콜라겐보다 유의하게 우수했다(P<.05).
+
+지혈 효능과 예후는 무관했으며, 흡연만이 근접 유의 경향을 보여(P=.074) 임상적 제제 선택은 비용·안전성 기준으로 결정해도 됨을 시사한다.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr.t
 
 Seeds the healing-abutment function/usage evidence cluster — the wiki has emergence-profile and immediate-implant pages but no head-to-head appraisal of *customized vs conventional* healing abutments. Reinforces the one-abutment/one-time soft-tissue-preservation theme of [[wiki/implants/rios-santos-2020-one-abutment-one-time-rct]] (both argue for early, stable peri-implant tissue management that avoids repeated abutment disconnection / late compressive shaping), and pairs with the immediate-implant customized-abutment evidence in [[wiki/immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 studies — 2 RCTs, 2 prospective, 1 retrospective; 190 implants, 100% survival, 6–36 mo) finding customized healing abutments trend toward better peri-implant soft/hard tissue and esthetics with less treatment pain and no biological or esthetic disadvantage vs conventional titanium stock abutments.
 
-## 한줄요약
+Systematic review (5 studies — 2 RCTs, 2 prospective, 1 retrospective;
 
-체계적 문헌고찰(5편 — RCT 2·전향 2·후향 1; 임플란트 190개, 생존율 100%, 6–36개월)로, 맞춤형 치유지대주(customized healing abutment)가 기성 티타늄 치유지대주 대비 임플란트주위 연·경조직과 심미가 더 좋아지는 경향을 보이고 치료 통증은 줄이며 생물학적·심미적 불리함은 없다고 결론.
+190 implants, 100% survival, 6–36 mo) finding customized healing abutments trend toward better peri-implant soft/hard tissue and esthetics with less treatment pain and no biological or esthetic disadvantage vs conventional titanium stock abutments.
+
+(incomplete)
+
+## 세줄요약
+
+
+체계적 문헌고찰(5편 — RCT 2·전향 2·후향 1;
+
+임플란트 190개, 생존율 100%, 6–36개월)로, 맞춤형 치유지대주(customized healing abutment)가 기성 티타늄 치유지대주 대비 임플란트주위 연·경조직과 심미가 더 좋아지는 경향을 보이고 치료 통증은 줄이며 생물학적·심미적 불리함은 없다고 결론.
+
+(incomplete)
 
 ## 1. Document Information
 

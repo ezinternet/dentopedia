@@ -9,7 +9,7 @@ pdf_filename: shafizadeh-2021-alveolar-bone-thickness-healthy-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review and meta-analysis pooling CBCT alveolar bone thickness measurements from healthy dentitions. Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly. No consistent gender or smoking effect.
 
 ## 1. Document Information

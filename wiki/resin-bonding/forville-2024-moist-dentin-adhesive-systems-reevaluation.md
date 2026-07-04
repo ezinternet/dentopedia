@@ -19,13 +19,21 @@ relations:
     target: mortazavi-2012-ethanol-wet-bonding-clinical-trial
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 split-mouth RCTs (195 patients, NCCLs, up to 5-y follow-up): dry- vs wet-bonding under the etch-and-rinse strategy showed no significant difference in retention or postoperative sensitivity (moderate certainty, GRADE).
+SR+MA of 5 split-mouth RCTs (195 adult patients with NCCLs, all Brazil, up to 5-year follow-up, PROSPERO CRD42023427861) re-examining whether visible dentin moisture affects clinical outcomes of etch-and-rinse (ER) composite restorations.
 
-## 한줄요약
+No significant difference between dry- and wet-bonding for retention at 18–24 months (RR 0.91; 95% CI 0.45–1.84), 36 months (RR 0.82; 95% CI 0.38–1.78), or 60 months (RR 1.00; 0.42–2.38); postoperative sensitivity risk difference 0.00 at all follow-ups; GRADE moderate certainty.
 
-체계적 문헌고찰+메타분석 (분할구강 RCT 5편, 환자 195명, 비우식성 치경부 병소, 최대 5년 추적): 산부식-수세 (Etch-and-Rinse, ER) 전략에서 건조 접착 vs 습윤 접착 간 유지율·술후 과민증에 유의한 차이 없음 (GRADE 중등도 확실성).
+The long-taught requirement to keep ER-etched dentin visibly moist is not supported by pooled clinical data — ER bonding tolerates a wider moisture window than the classic wet-bonding dogma implies.
+
+## 세줄요약
+
+체계적 문헌고찰+메타분석(PROSPERO CRD42023427861; 분할구강(Split-Mouth, SM) RCT 5편, 성인 195명, NCCL, 모두 브라질, 최대 5년 추적): 산부식-수세(Etch-and-Rinse, ER) 전략에서 상아질 습기 상태가 임상 결과에 미치는 영향 재평가.
+
+건조·습윤 접착 간 유지율 유의차 없음(18~24개월 RR 0.91, 36개월 RR 0.82, 60개월 RR 1.00); 술후 과민증 위험차 0.00 — GRADE 중등도 확실성.
+
+ER 접착 후 상아질을 눈에 띄게 촉촉하게 유지해야 한다는 교과서적 원칙은 임상 통합 데이터로는 지지되지 않으며, ER 접착은 습윤·건조 양쪽에서 동등한 임상 결과를 나타냄.
 
 ## Summary
 

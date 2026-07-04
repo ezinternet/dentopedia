@@ -13,12 +13,21 @@ source_collection: external
 tags: [sedation, guideline, korean]
 ---
 
-## One-line Summary
-JKDA special article introducing the 2022 Korean sedation guideline to clinical dental audience: focuses on moderate sedation, 15 PICO recommendations, applicable to non-anesthesiologist providers.
+## Three-line Summary
 
-## 한줄요약
+Special JKDA article introducing the 2022 Korean sedation guideline (consensus document, not a primary research study), targeting moderate sedation across the medical system including non-anesthesiologist dental practitioners with 15 PICO-structured recommendations.
 
-2022년 발표된 한국 진정·수면 가이드라인을 임상가 관점에서 해설한 JKDA 특집. Moderate sedation 중심, 15개 PICO 권고, 비마취과 전문의 포함 대상.
+Topics covered include provider training, drug/equipment requirements, patient selection, fasting, adult/pediatric drug comparison, intraoperative monitoring (respiratory, cardiovascular, sedation depth), pediatric respiratory complication management, and discharge criteria; no primary outcomes are reported.
+
+The guideline explicitly addresses the risk of unintentional deep-sedation progression from moderate sedation, and its existence is the institutional counterpoint to the paired position paper calling for a still-absent Korean local-anesthesia guideline.
+
+## 세줄요약
+
+JKDA 특집: 2022년 발표된 한국 진정·수면 가이드라인(1차 연구 아님)을 임상가에게 소개 — Moderate sedation 중심, 마취과 전문의가 아닌 치과의사 포함 대상, 15개 PICO 권고.
+
+다루는 항목: 술자 교육·약물/장비 요건·환자 선택·금식·성인/소아 약물 비교·술중 모니터링(호흡·순환·진정 깊이)·소아 호흡 합병증 관리·퇴원 기준; 1차 결과치 없음.
+
+moderate sedation에서 deep sedation으로의 비의도적 이행 위험을 명시하며, 아직 국소마취 가이드라인이 없다는 짝 논문과 제도적 대비를 이룬다.
 
 ## Summary
 

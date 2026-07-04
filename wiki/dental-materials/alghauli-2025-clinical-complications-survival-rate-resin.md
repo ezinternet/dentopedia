@@ -13,13 +13,21 @@ source_collection: external
 tags: [resin-matrix-ceramic, PICN, RNC, hybrid-ceramic, CAD-CAM, survival-rate, complications, crown, veneer, inlay, onlay, lithium-disilicate, composite]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (21 studies, October 2024 search) of resin matrix ceramic (PICN and RNC) restorations: RMC crowns had higher complication rates than conventional ceramics; laminate/occlusal veneers and inlays/onlays showed comparable outcomes to lithium disilicate; overall performance is restoration-type dependent.
+SR+MA (PRISMA 2020; PubMed, Scopus, Cochrane; 21 studies; search October 2024; RoB 2 + ROBINS-I) of resin matrix ceramic (RMC — PICN and RNC) restoration complications, success, and survival versus lithium disilicate and direct composite.
 
-## 한줄요약
+Full/partial crowns showed higher complication rates for RMC versus conventional ceramics; laminate and occlusal veneers showed comparable outcomes to lithium disilicate; inlays/onlays showed complications similar to lithium disilicate and fewer than direct composite.
 
-레진 매트릭스 세라믹(Resin Matrix Ceramic, RMC; PICN·RNC) 수복물 SR+MA (21편): 크라운은 세라믹 대비 합병증 높음; 라미네이트·교합면 베니어 및 인레이·온레이는 리튬 디실리케이트(Lithium Disilicate, LD)와 동등; 생존율은 수복물 유형·크기 의존.
+RMC is not preferred for crown restorations but is clinically acceptable for veneers and intracoronal restorations; crown failures were predominantly fracture/chipping consistent with lower flexural strength (~150–200 MPa vs lithium disilicate ~400 MPa).
+
+## 세줄요약
+
+SR+MA(PRISMA 2020; PubMed·Scopus·Cochrane; 21편; 2024년 10월 검색; RoB 2 + ROBINS-I): 레진 매트릭스 세라믹(Resin Matrix Ceramic, RMC — PICN·RNC) 수복물의 합병증·성공·생존율을 리튬 디실리케이트 및 직접 복합레진과 비교.
+
+전부/부분 크라운: RMC가 세라믹 대비 합병증 높음; 라미네이트·교합면 베니어: 리튬 디실리케이트(Lithium Disilicate, LD)와 동등; 인레이·온레이: LD 유사, 직접 복합레진보다 우수.
+
+RMC 크라운은 권장 안 됨 — 파절·칩핑이 주요 실패 원인(굴곡강도 ~150–200 MPa vs LD ~400 MPa); 베니어·인레이·온레이는 임상적으로 수용 가능한 적응증.
 
 ## Summary
 

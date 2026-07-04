@@ -19,13 +19,21 @@ relations:
     target: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative literature review (8 articles, 2020–June 2023; abstract-only) finding that elastodontic devices treat malocclusion in growing patients safely, simply, and comfortably, while noting a lack of knowledge/evidence about the technique.
+Narrative literature review (8 articles, PubMed/WoS/Scopus, 2020–June 2023; abstract-only) examining elastodontic device effectiveness for malocclusion treatment in growing patients.
 
-## 한줄요약
+Included articles consistently describe elastodontic devices as safe, simple, and more comfortable for young patients compared with conventional appliances, but the authors explicitly flag a lack of knowledge about the technique.
 
-문헌 고찰(8편, 2020–2023년 6월; 초록 전용)로, 탄성교정장치(elastodontic device)가 성장기 환자의 부정교합을 안전하고 간단하며 편안하게 치료할 수 있으나 해당 기술에 대한 근거·지식이 부족하다고 결론.
+With only 8 studies included and an abstract-only ingest, effect sizes and risk-of-bias data are unavailable; treat elastodontic devices as a low-burden adjunct pending stronger primary trials, not as an established first-line standard.
+
+## 세줄요약
+
+서술적 문헌고찰(PubMed·WoS·Scopus, 8편, 2020–2023.6; 초록 전용) — 성장기 환자 부정교합에서 탄성교정장치(Elastodontic Device)의 효과 검증 목적.
+
+포함된 8편 모두 탄성교정장치가 안전하고 간단하며 성장기 환자에게 편안하다고 기술하나, 저자들은 해당 기술에 대한 지식·근거 부족을 핵심 한계로 명시.
+
+8편에 불과하고 초록만 확보되어 효과 크기·비뚤림 평가 불가 — 강력한 1차 연구가 나오기 전까지 부담 적은 보조적 선택지로 활용하는 것이 타당.
 
 ## Summary
 

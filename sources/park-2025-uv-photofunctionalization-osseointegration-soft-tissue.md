@@ -9,7 +9,7 @@ pdf_filename: park-2025-uv-photofunctionalization-osseointegration-soft-tissue.p
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review covering UV photofunctionalization effects on osseointegration, soft tissue attachment, and bacterial biofilm inhibition on titanium implants; introduces VUV (1-minute) as clinical advancement.
 
 ## 1. Document Information

@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 보철 설계(출현 프로파일 각도)가 치주위임플란트 건강에 미치는 영향을 체계적으로 정리한 최신 내러티브 리뷰(2026). 기존 [[implants/peri-implantitis]] 카테고리의 치료 중심 문헌에 '예방적 보철 설계' 관점을 보강하고, [[immediate-implant/esthetic-soft-tissue]] 문헌의 연조직 관리 원칙과 교차 참조 가능.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (Zurich 2026) synthesizing biological and clinical evidence that concave, polished emergence profiles with adequately tall abutments are the key modifiable prosthetic factor for preventing and reversing peri-implant inflammation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰(취리히 2026): 오목하고 연마된 출현 프로파일(emergence profile)과 충분히 높은 지대주가 치주위임플란트 염증 예방 및 해소의 핵심 수정 가능한 보철 요소임을 종합.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

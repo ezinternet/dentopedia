@@ -20,13 +20,21 @@ relations:
     target: yang-2015-auxiliary-resistance-marginal-fitness-short-molar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (J Prosthet Dent 2001;85:363-376; 250 yr of practice, last 50 yr MEDLINE+manual): nine scientific principles for complete-crown preparation — 10-20° TOC, ≥4 mm occlusocervical height for molars (3 mm other teeth), occlusocervical-to-faciolingual ratio ≥0.4, preserved line angles, and auxiliary grooves/boxes when basic geometry is deficient.
+Narrative review synthesizing ~250 years of complete-crown preparation literature (J Prosthet Dent 2001;85:363-376), condensing 50 years of scientific data into nine principles.
 
-## 한줄요약
+Key numeric guidelines: 10-20° total occlusal convergence (TOC), ≥4 mm occlusocervical height for molars (≥3 mm for other teeth), and occlusocervical-to-faciolingual ratio ≥0.4; no finish-line design was proven superior for marginal fit.
 
-narrative-review (J Prosthet Dent 2001;85:363-376): 완전피개 치관 prep의 과학적 9원칙 — TOC 10-20°, 대구치 교합-치경 높이 ≥4 mm(기타치 3 mm), 교합-치경:협-설 비율 ≥0.4, line angle 보존, 기본 기하 부족 시 보조 groove/box. taper·저항형태·finish line의 고전적 종합 기준.
+These benchmarks displaced the historically taught but clinically unachievable low single-digit taper and remain the standard teaching reference for complete-crown preparation.
+
+## 세줄요약
+
+narrative-review (J Prosthet Dent 2001;85:363-376): ~250년 완전피개 치관 준비 문헌을 종합해 9가지 과학적 원칙을 제시 — 특히 최근 50년 MEDLINE+수동 검색 기반.
+
+핵심 수치: TOC 10-20°, 대구치 교합-치경 높이 ≥4 mm(기타치 ≥3 mm), 교합-치경:협-설 비율 ≥0.4; 어떤 finish line도 변연 적합도 우위 증명 안 됨.
+
+역사적으로 가르쳤던 6° taper는 임상적으로 달성 불가 — 이 리뷰의 10-20° TOC가 현대 교육 기준이 됨; 단기 수복치경 부족 시 보조 groove/box 추가 권고.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [mb2, cbct, saudi, ethnic-variation]
 ---
 
-## One-line Summary
-Retrospective CBCT study (n=1,200 Saudi maxillary molars): MB2 prevalence was 46.7% in first molars and 17.7% in second molars (32.2% overall) — markedly lower than Chilean and many pooled SR estimates — with PMB1–PMB2 distance ~1.87 mm in first molars.
+## Three-line Summary
 
-## 한줄요약
-Retrospective CBCT (n=1,200 Saudi maxillary molars): MB2 prevalence 1MM 46.7% / 2MM 17.7% — markedly lower than Chilean (69.8/46.9%) and many SR pooled estimates; PMB1-PMB2 1.87 mm (1MM).
+Retrospective cross-sectional CBCT study (n=1,200 Saudi maxillary molars, 600 first + 600 second molars) measuring MB2 prevalence and inter-orifice geometry at 1 mm apical to the pulpal floor.
+
+MB2 was present in 46.7% of first molars (female predominance, p=0.020) and 17.7% of second molars (32.2% overall); PMB1–PMB2 distance was 1.87 ± 0.42 mm (1MM) and 1.24 ± 0.76 mm (2MM), markedly lower than Chilean estimates (69.8% / 46.9%).
+
+The Saudi cohort establishes a lower-prevalence anchor emphasizing ethnic variability in MB2 prevalence; population-specific data should inform pre-operative CBCT decisions rather than relying on pooled global estimates.
+
+## 세줄요약
+
+후향적 횡단 CBCT 연구(사우디 상악 대구치 1,200개, 제1대구치 600 + 제2대구치 600), 치저 1mm 하방 기준면에서 MB2 유병률과 근관 간 거리 측정.
+
+MB2: 제1대구치 46.7%(여성 우세, p=0.020)·제2대구치 17.7%(전체 32.2%); PMB1-PMB2 거리 1.87±0.42mm(1MM)·1.24±0.76mm(2MM) — 칠레 추정치(69.8%/46.9%)보다 현저히 낮음.
+
+사우디 코호트는 MB2 유병률의 민족적 변이를 보여주는 하한 앵커; 전체 pooled 추정치가 아닌 인구집단별 데이터를 바탕으로 CBCT 촬영 여부를 결정해야 함.
 
 ## Summary
 Retrospective CBCT study of 1,200 Saudi maxillary molars (600 1MM + 600 2MM), measuring MB2 prevalence and inter-canal geometry one millimeter apical to the pulpal floor. The MB2 was identified in roughly one third of the entire sample (32.2%), with substantially lower prevalence than other ethnic cohorts — a useful counter-anchor when interpreting global pooled estimates.

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리의 단기 전향(3개월) 측정연구로 인제스트. [[food-impaction/pang-2017-prevalence-proximal-contact-loss-prospective]] 장기 데이터와 대비되는 조기 contact tightness 감소 동역학을 정량 제시하고, restoration type·implant system을 인자로 강조한다.
 
-## One-line Summary
-3-month prospective study (43 patients, 43 posterior IFPs, 64 proximal contacts): proximal contact tightness decreased significantly by 3 months; restoration type affected mesial (free-end, P=0.008) and distal (P<0.001) loss, implant system affected distal (P=0.002).
+## Three-line Summary
 
-## 한줄요약
-3개월 전향연구(43명, 구치부 IFP 43개, 접촉 64개): 3개월 내 접촉 강도 유의 감소; restoration type이 mesial(free-end, P=0.008)·distal(P<0.001), implant system이 distal(P=0.002)에 영향.
+3-month prospective study (43 patients, 43 posterior IFPs, 64 proximal contacts): proximal contact tightness decreased significantly by 3 months;
+
+restoration type affected mesial (free-end, P=0.008) and distal (P<0.001) loss, implant system affected distal (P=0.002).
+
+(incomplete)
+
+## 세줄요약
+
+3개월 전향연구(43명, 구치부 IFP 43개, 접촉 64개): 3개월 내 접촉 강도 유의 감소;
+
+restoration type이 mesial(free-end, P=0.008)·distal(P<0.001), implant system이 distal(P=0.002)에 영향.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Clinical and Experimental Dentistry 2021;13(5):e479-86. DOI 10.4317/jced.57802. Department of Prosthodontics. 2019.4–9 시행.

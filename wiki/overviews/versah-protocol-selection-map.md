@@ -39,11 +39,21 @@ relations:
 > - 공통 한계: proprietary Densah® 버 종속, 술자 의존도 높음 (특히 ③④), 적응증 컷오프 (RBH 6/4–5mm, septum 4mm) 가 제조사 정의이지 독립 RCT 검증값 아님 ([추정]).
 > - 원장 메모: chairside 1차 분기는 "상악동 거상? → 발치 동반? → RBH/septum/socket 벽" 순으로 기억하고, 전체 evidence 그림은 자매 overview [[osseodensification-clinical-applications]] 에서 본다.
 
-## One-line Summary
-Decision map for Versah's five Densah® manufacturer protocol cards (Crestal Sinus Lift I/II, combined molar septum expansion + sinus lift, IDR II, immediate implant placement), routing a clinical situation (RBH, septum width, socket wall status) to the correct protocol, its distinguishing bur step, and the peer-reviewed evidence anchor that qualifies each — all five being non-peer-reviewed vendor documents.
+## Three-line Summary
 
-## 한줄요약
-Versah Densah® 제조사 프로토콜 카드 5종(경치조골 상악동 거상 I/II, 구치 septum 확장+상악동 거상, IDR II, 즉시식립)을 **임상 상황(잔존 골높이 Residual Bone Height·septum 폭·socket 벽 상태) → 해당 프로토콜 → 결정적 bur 차이 → peer-reviewed 근거 anchor**로 라우팅하는 술기 선택 지도. 5종 모두 제조사 문서(non-peer-reviewed)라는 한계를 전제로 한다. [합의수준]
+Decision map for Versah's five non-peer-reviewed Densah® protocol cards (Crestal Sinus Lift I, Lift II, combined molar septum expansion + sinus lift, IDR II, immediate implant placement), routing clinical situations by three axes — sinus lift needed? extraction involved? residual anatomy (RBH, septum width, socket wall) — to the correct protocol and its critical distinguishing bur step.
+
+Lift I vs II branch point is RBH: ≥6 mm → pilot drill access (Lift I); 4–5 mm → skip pilot, enter with Densah bur directly to avoid thin-bone perforation (Lift II); IDR II vs immediate implant split on buccal wall — intact wall → apical engagement (immediate implant), total wall loss + thin biotype → tuberosity triple-graft + palatal anchorage (IDR II); IDR II uniquely prohibits cement-retained prosthetics.
+
+All five cards are manufacturer (Versah LLC) marketing/narrative documents with no quantitative outcomes or control groups; clinical evidence must be obtained from cross-linked peer-reviewed papers (Starch-Jensen 2025 SR+MA for Lift I/II, Mazor 2024 for RBH threshold, da Rosa 2019/Bleyan 2021 for IDR/septum/immediate implant).
+
+## 세줄요약
+
+Versah Densah® 비-peer-reviewed 제조사 프로토콜 카드 5종(경치조골 상악동 거상 I/II, 구치 septum 확장+거상, IDR II, 즉시식립)을 3축(상악동 거상 여부·발치 동반 여부·잔존 해부 = RBH/septum 폭/socket 벽)으로 라우팅하는 술기 선택 지도; 5종 모두 정량 결과·대조군이 없는 제조사 문서라는 한계 전제.
+
+Lift I(RBH ≥6 mm, pilot 사용) vs Lift II(4–5 mm, pilot 생략 + Densah 직접 진입) 분기는 RBH 하나; IDR II vs 즉시식립 분기는 협측벽 상태(잔존 → apical engagement, 전소실+얇은 biotype → tuberosity 3중 골이식+구개측 고정); IDR II는 시멘트 보철 금기.
+
+임상 근거는 교차링크된 peer-reviewed 논문에서 취득(Lift I/II: Starch-Jensen 2025 SR+MA; RBH 임계값: Mazor 2024; IDR/septum/즉시: da Rosa 2019·Bleyan 2021); 모든 프로토콜 적응증 컷오프는 독립 RCT 검증값이 아닌 제조사 정의임.
 
 ---
 

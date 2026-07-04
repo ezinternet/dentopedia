@@ -20,13 +20,21 @@ relations:
     target: sanz-2020-treatment-stage-i-iii-periodontitis-efp
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro SEM study (10 periodontitis-affected human teeth, 20 samples) showing SRP+EDTA leaves a continuous smear layer, adjunctive erythritol air polishing lowers instrumentation-mark scores (Se<S, p=0.001) but raises crack scores (Se>S, p=0.001), while smear-layer scores are comparable across all protocols (p=0.950) and CEJ behaves like mid-root.
+Ex-vivo SEM study (10 periodontitis-affected extracted human teeth yielding 20 samples) comparing three root-surface protocols using ordinal scores for instrumentation marks, surface cracks, and smear layer: SRP+EDTA (S), SRP+erythritol air polishing+EDTA (Se), and SRP+glycine air polishing+EDTA (Sg).
 
-## 한줄요약
+Erythritol air polishing reduced instrumentation marks (Se<S, p=0.001) but increased surface cracks (Se>S, p=0.001); glycine air polishing showed no significant difference from SRP alone; smear-layer scores were identical across all three protocols (p=0.950); CEJ differed from mid-root only in instrumentation marks.
 
-치주염 발치치 10개(시편 20개) SEM 인비트로 연구 — SRP+EDTA는 연속적 smear layer를 남기고, 에리스리톨 에어폴리싱 추가군(Se)은 기구흔 점수가 더 낮지만(Se<S, p=0.001) 균열 점수는 더 높았으며(Se>S, p=0.001), smear layer 점수는 모든 프로토콜에서 차이 없음(p=0.950), CEJ는 치근 중간부와 유사하게 반응.
+EDTA plus air-polishing powders do not measurably reduce smear layer vs SRP alone, and erythritol air polishing introduces a marks-vs-cracks trade-off; findings are exploratory (2 teeth/group, no power calculation) and cannot support clinical protocol changes without confirmatory studies.
+
+## 세줄요약
+
+치주염 발치치 10개(시편 20개) SEM 인비트로 연구: 3가지 치근면 처리 프로토콜 — SRP+EDTA(S), SRP+에리스리톨 에어폴리싱+EDTA(Se), SRP+글라이신 에어폴리싱+EDTA(Sg) — 를 기구흔·균열·스미어층(smear layer) 순서 점수로 비교.
+
+에리스리톨 에어폴리싱은 기구흔 감소(Se<S, p=0.001)하나 균열 증가(Se>S, p=0.001); 글라이신은 SRP 단독과 유의 차 없음; 스미어층 점수는 모든 프로토콜 동등(p=0.950); CEJ는 기구흔에서만 치근 중간부와 차이.
+
+EDTA+에어폴리싱 분말 병용이 SRP 단독 대비 스미어층을 의미 있게 감소시키지 못하고 에리스리톨은 기구흔-균열 상충을 초래; 그룹당 치아 2개의 탐색적 연구로 임상 프로토콜 변경 전 확증 연구 필요.
 
 ## Summary
 

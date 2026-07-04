@@ -16,13 +16,21 @@ relations:
     target: urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-30-mo double-blind active-controlled superiority RCT (n=730 baseline → 621 at 30 mo, Hong Kong kindergartens): semiannual 38% silver diamine fluoride (SDF) prevented new caries on sound primary upper anterior teeth better than 5% sodium fluoride varnish (FV) — new carious surfaces per child 0.35±1.09 (SDF) vs 0.54±1.50 (FV), Mann-Whitney p=0.048; GEE adjusted OR 0.61 (95% CI 0.39–0.95, p=0.029), 39% prevented fraction, benefit emerging only after 24 mo on proximal and smooth surfaces.
+30-month double-blind active-controlled superiority RCT (n=730, 365/arm; Hong Kong kindergartens; children aged 3–4 years; NCT04075474) applying semiannual 38% silver diamine fluoride (SDF) or 5% NaF varnish to all surfaces of primary maxillary anterior teeth; 85% retention at 30 months.
 
-## 한줄요약
+New carious surfaces per child at 30 months: 0.35±1.09 (SDF) vs 0.54±1.50 (FV), Mann-Whitney p=0.048; GEE-adjusted OR 0.61 (95% CI 0.39–0.95, p=0.029), 39% prevented fraction; benefit only became significant from 24 months onward.
 
-30개월 이중맹검 활성대조 우월성 RCT (홍콩 유치원, 기저 730명 → 30개월 621명): 반년 간격 38% 은 디아민 불소(SDF) 도포가 5% 불화나트륨 바니시(FV)보다 건전한 상악 전치 유치의 신규 우식을 더 잘 예방 — 아동당 신규 우식면 0.35±1.09(SDF) vs 0.54±1.50(FV), Mann-Whitney p=0.048; GEE 보정 OR 0.61(95% CI 0.39–0.95, p=0.029), 예방분율 39%, 효과는 24개월 이후 인접면·평활면에서 나타남.
+SDF is superior to NaF varnish for preventing caries on proximal and smooth surfaces of primary anterior teeth over ≥24 months; short (12-month) prevention trials are inadequate for detecting this advantage; no adverse effects in 730 children over 18 applications.
+
+## 세줄요약
+
+30개월 이중맹검 활성대조 우월성 RCT(n=730, 365명/군; 홍콩 유치원; 3–4세; NCT04075474) — 6개월 간격 38% 은 디아민 불소(Silver Diamine Fluoride, SDF) 또는 5% NaF 바니시를 상악 유전치 전체 면에 도포; 30개월 유지율 85%.
+
+아동당 30개월 신규 우식면: SDF 0.35±1.09 vs FV 0.54±1.50(Mann-Whitney p=0.048); GEE 보정 OR 0.61(95% CI 0.39–0.95, p=0.029), 예방분율 39%; 효과는 24개월부터 유의.
+
+SDF가 ≥24개월 추적 시 유전치 인접면·평활면 우식 예방에서 NaF 바니시보다 우수; 12개월 이하 예방 시험은 이 효과를 포착하기에 부적절; 730명 18회 도포에서 부작용 없음.
 
 ## Summary
 

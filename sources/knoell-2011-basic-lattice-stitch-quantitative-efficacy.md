@@ -15,13 +15,23 @@ Part of a focused collection on suture techniques & primary wound closure (sutur
 
 > [!warning] Extraction note: the ingested PDF is the publisher abstract page only (full text paywalled). All numeric data below come from the structured abstract; figures, methods detail, and the device used were not recoverable. Re-ingest from full text if deeper detail is needed.
 
-## One-line Summary
+## Three-line Summary
+
 
 Biomechanical clinical-repair study (n=21 closures, closing tensions 0.3-4.0 N): the basic lattice stitch dispersed 54.4 ± 3.2% more tissue tension away from the perpendicular plane of closure than a simple interrupted stitch (p<.005).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 생체역학 임상 봉합 연구 (n=21 봉합, 폐쇄 장력 0.3-4.0 N): 기본 격자 봉합(basic lattice stitch)이 단순 단속 봉합보다 폐쇄 수직면에서 조직 장력을 54.4 ± 3.2% 더 분산시켰음 (p<.005).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

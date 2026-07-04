@@ -16,13 +16,21 @@ relations:
     target: sasaki-2021-barrier-membranes-tissue-regeneration-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Westlake University / Tianjin Medical University, Bioactive Materials 2026) framing GBR membranes as "programmable interfaces" using a three-lens framework (osteoimmune biology, stimuli-responsive materials, translational bottlenecks), synthesizing four next-generation material families and four structural architectures against the clinical motivation of ~26% GBR complication rate.
+Narrative review (Westlake University / Tianjin Medical University, Bioactive Materials 2026) reframing GBR barrier membranes as "programmable interfaces" against a clinical backdrop of ~26% pooled complication rate and up to 50% ridge width loss within 12 months post-extraction.
 
-## 한줄요약
+Four next-generation material families (polymer composites, biodegradable Mg/Zn alloys, MXene-based systems, citrate polymers) and four structural architectures (bilayer, Janus, gradient, 4D-printed) are synthesized using a three-lens framework: osteoimmune biology, stimuli-responsive materials, and translational bottlenecks.
 
-서사적 고찰(웨스트레이크대·천진의대, Bioactive Materials 2026) — GBR 합병증률 26%를 배경으로, GBR 막을 '프로그래머블 인터페이스'로 재정의하고 골면역생물학·자극반응소재·중개의학 3-렌즈 프레임으로 차세대 소재 4종(폴리머 복합재·생분해성 Mg/Zn 합금·MXene·시트레이트 폴리머) 및 구조설계 4종(이중층·야누스·구배·4D 프린팅)을 체계 정리.
+Macrophage M1→M2 polarization is established as the central immunological design target; six open mechanistic questions and a near-term agenda integrating AI/ML and microfluidics are outlined, but no clinical data are presented.
+
+## 세줄요약
+
+서사적 고찰(웨스트레이크대·천진의대, Bioactive Materials 2026): GBR 합병증률 ~26%(100편 SR+MA)·12개월 내 치조제 폭 50% 소실을 배경으로 GBR 막을 '프로그래머블 인터페이스(Programmable Interface)'로 재정의.
+
+차세대 소재 4종(폴리머 복합재·생분해성 Mg/Zn 합금·MXene·시트레이트 폴리머)과 구조설계 4종(이중층·야누스·구배·4D 프린팅)을 골면역생물학·자극반응소재·중개의학 3-렌즈 프레임으로 종합.
+
+대식세포 M1→M2 분극화가 차세대 GBR막 설계의 핵심 면역학적 표적; AI/ML·마이크로플루이딕스 통합 향후 과제 제시하나 임상 데이터는 미포함.
 
 ## Summary
 

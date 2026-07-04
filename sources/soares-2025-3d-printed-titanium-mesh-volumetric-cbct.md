@@ -15,13 +15,23 @@ full_text: false
 
 CBCT 감산 분석(CBCT subtraction)을 이용한 용적 측정을 도입한 3D-프린팅 Ti 메쉬 증례시리즈. 선형 측정 외에 cm³ 단위 용적 증대량(0.49 cm³)과 '증대 효율(augmentation efficacy 0.037 cm³/mm)'이라는 새로운 지표를 제공하며, [[wiki/implants/vertical-ridge-augmentation/keller-2026-3d-printed-titanium-mesh-autologous-bone]](0% 노출)와 대비해 동일 3D-프린팅 기술임에도 77.8% 노출이 발생한 이유(술식 차이)를 분석.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (n=9): 3D-printed Ti mesh; vertical gain 4.8 ± 2.4 mm, volumetric gain 0.49 cm³, graft stability 87.9%; mesh exposure 77.8% (7/9), complete early exposure in 22.2% → total graft loss.
 
-## 한줄요약
+Retrospective case series (n=9): 3D-printed Ti mesh;
 
-후향 증례시리즈 (n=9): 3D 프린팅 Ti 메쉬; 수직골증대 4.8 ± 2.4 mm, 용적증대 0.49 cm³, 이식물 안정성 87.9%; 메쉬 노출 77.8%(7/9), 조기 완전노출 22.2% → 이식물 전손실.
+vertical gain 4.8 ± 2.4 mm, volumetric gain 0.49 cm³, graft stability 87.9%;
+
+mesh exposure 77.8% (7/9), complete early exposure in 22.2% → total graft loss.
+
+## 세줄요약
+
+
+후향 증례시리즈 (n=9): 3D 프린팅 Ti 메쉬;
+
+수직골증대 4.8 ± 2.4 mm, 용적증대 0.49 cm³, 이식물 안정성 87.9%;
+
+메쉬 노출 77.8%(7/9), 조기 완전노출 22.2% → 이식물 전손실.
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Case series: a peri-implantitis management protocol specific to one-piece implants combining diode-laser decontamination of infected crestal bone, albumin-coated allograft, sticky bone, and platelet-rich fibrin (PRF), with documented clinical and radiographic improvement.
+## Three-line Summary
 
-## 한줄요약
-증례 시리즈: 원피스 임플란트 치주염 관리 프로토콜 — 다이오드레이저 변연골 소독·알부민 동종골·스티키본·PRF 복합 적용; 임상·방사선적 평가
+Case series of a peri-implantitis management protocol specific to one-piece implants, addressing the unique challenge posed by the integrated abutment design that limits access for conventional debridement.
+
+The protocol combined diode-laser decontamination of infected crestal bone, albumin-coated allograft, sticky bone, and platelet-rich fibrin (PRF); clinical parameters (pocket depth, bleeding on probing) and radiographic bone levels showed improvement across cases.
+
+This case series fills a literature gap for one-piece implant peri-implantitis — the low evidence level (no control group, no quantitative pooling) limits generalizability, but the multi-component regenerative approach is reproducible.
+
+## 세줄요약
+
+원피스 임플란트의 일체형 지대주 디자인이 기존 변연 소파술 접근을 제한한다는 특수 문제를 해결하기 위한 peri-implantitis 관리 프로토콜 증례 시리즈.
+
+프로토콜: 다이오드레이저 감염 변연골 소독 + 알부민 코팅 동종골 이식 + 스티키본 + PRF; 임상 지표(탐침 깊이, 탐침 출혈)와 방사선학적 골 수준 모두 증례 전반에서 개선.
+
+원피스 임플란트 peri-implantitis 문헌 공백을 채우는 증례 시리즈 — 대조군 없고 정량적 통합 없어 일반화 제한되나 복합 재생 접근법은 재현 가능하다.
 
 ## Summary
 Case series presenting a management protocol for peri-implantitis specifically in patients treated with one-piece implants. Protocol combines diode laser debridement of the infected crestal bone area, albumin-coated allograft, sticky bone, and platelet-rich fibrin (PRF). Clinical and radiographic assessment documented. One-piece implants pose unique challenges due to integrated abutment design.

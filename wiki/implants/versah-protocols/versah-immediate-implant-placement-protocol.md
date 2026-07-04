@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Versah manufacturer protocol (narrative-review, 2-page) for immediate implant placement into extraction sockets via osseodensification (OD), codifying the apical-engagement principle: implant diameter > tooth apex and final Densah bur ≥ socket apex, so primary stability comes from the apical socket; extraction → pilot drill (CW) → Densah OD mode (CCW, 800–1500 rpm) staged expansion → socket fill with 70/30 cancellous/cortical composite allograft compacted by the second-to-last bur.
+## Three-line Summary
 
-## 한줄요약
-Versah OD 즉시식립 프로토콜 — 핵심 원칙: **임플란트 직경은 발치치 apex보다 약간 큼**, **마지막 Densah® 버는 발치와 apex 직경 ≥** (apical engagement 우선). 발치 → pilot drill(CW) → Densah OD 모드(CCW 800–1500 rpm) 점진 확장 → 70/30 cancellous/cortical hydrated composite allograft로 소켓 충전 → 마지막 버보다 한 단계 작은 버로 allograft densify → 1차 안정성은 소켓 apical 부분에서 확보.
+Versah manufacturer protocol (2-page, narrative-review) for immediate implant placement using osseodensification (OD): implant diameter > tooth apex diameter + final Densah bur ≥ socket apex, ensuring primary stability comes from apical bone rather than the coronal socket walls.
+
+Steps are: extraction → pilot drill (CW) → staged Densah OD expansion (CCW, 800–1500 rpm) → socket fill with 70/30 cancellous/cortical hydrated composite allograft compacted by the penultimate bur.
+
+Manufacturer document — not peer-reviewed; the 70/30 allograft ratio and the apical-anchorage principle are not independently validated in this document.
+
+## 세줄요약
+
+Versah OD 즉시식립 프로토콜(2페이지) — **임플란트 직경 > 발치치 apex 직경**, **마지막 Densah 버 ≥ 소켓 apex 직경**: 1차 안정성을 치조정 소켓 벽이 아닌 apical 골에서 확보하는 핵심 원칙을 규정한 제조사 프로토콜.
+
+발치 → pilot drill(CW) → Densah OD 모드(CCW 800–1500 rpm) 단계적 확장 → 70/30 cancellous/cortical hydrated composite allograft로 소켓 충전 → 직전 버로 allograft densify → 임플란트 식립.
+
+제조사 마케팅 문서로 동료 심사 미통과; 70/30 allograft 비율과 apical engagement 원칙은 이 문서 내 독립 검증 없음.
 
 ## Summary
 Versah manufacturer protocol (2-page) for immediate implant placement into extraction sockets using osseodensification, emphasizing apical anchorage and compaction allografting.

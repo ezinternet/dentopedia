@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 임플란트 어버트먼트 연결부 오염이 예비하중(preload) 및 하중 후 예비하중 손실에 미치는 영향을 정량적으로 평가한 연구로, 기존의 스크류 오염 위주 연구와 달리 어버트먼트 자체의 오염에 집중. [[wiki/prosthetic-materials/bulaqi-2015-dynamic-nature-abutment-screw-retightening]]의 screw 재조임 역학 맥락을 어버트먼트 오염 측면에서 확장하며, [[wiki/prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]]의 피로하중 예비하중 손실 데이터를 오염 변수 추가로 심화.
 
-## One-line Summary
+## Three-line Summary
+
 In vitro study (n=90, 3 groups) on internal hexagonal implant-abutment assemblies showing that even partial abutment contamination significantly reduces initial preload, while extensive contamination further accelerates cyclic-loading-induced preload loss.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 체외 연구 (n=90) 에서 내부 육각형 임플란트-어버트먼트 연결부의 부분 오염만으로도 초기 예비하중 (Preload)이 유의하게 감소하고, 완전 오염은 반복하중 후 예비하중 손실 (Preload Loss)을 추가로 가속화함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Journal of Advanced Prosthodontics (J Adv Prosthodont)

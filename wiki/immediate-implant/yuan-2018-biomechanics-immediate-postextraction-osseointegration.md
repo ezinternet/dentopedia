@@ -18,13 +18,21 @@ relations:
     target: araujo-2019-socket-healing-immediate-implant-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Murine first-molar extraction + palatal-root-socket osteotomy model showing low-strain peri-implant zones (buccal, PDL-filled gap) osseointegrate via PDL-derived Wnt-responsive osteogenic cells, while high-strain zones (palatal, direct bone contact) undergo osteocyte death and bone resorption — with exogenous liposomal WNT3A rescuing osseointegration where PDL/Wnt cells are absent.
+Murine first-molar model placing an immediate implant specifically into the palatal root socket, creating a two-environment construct: palatal aspect with direct bone contact (high FE strain) vs buccal aspect with an intact PDL-filled gap (low strain).
 
-## 한줄요약
+High-strain palatal zones showed osteocyte death and bone resorption; low-strain buccal zones osseointegrated via PDL-derived Wnt-responsive osteogenic cells; exogenous liposomal WNT3A applied to the PDL-deficient palatal aspect rescued peri-implant bone formation.
 
-마우스 제1대구치 발치 후 구개근 소켓 (palatal root socket)에 골삭제·식립한 동물 모델. 변형률(strain)이 낮은 협측(PDL 잔존 gap)은 PDL 유래 Wnt 반응 골형성 세포로 골유착되고, 변형률이 높은 구개측(골 직접 압박)은 골세포 사멸·골흡수가 일어났으며, PDL/Wnt 세포가 없는 부위에 외인성 리포좀 WNT3A를 투여하면 골유착이 회복됨.
+Low mechanical strain and Wnt signaling from intact PDL cells are required for immediate-implant osseointegration, providing the mechanistic basis for palatal-root-socket engagement and PDL preservation during clinical immediate placement.
+
+## 세줄요약
+
+마우스 동물 모델: 제1대구치 발치 후 구개근 소켓(palatal root socket)에 골삭제·즉시식립하여 구개측(직접 골접촉, 고변형률) vs 협측(치주인대(PDL) 잔존 gap, 저변형률) 두 환경을 동일 임플란트에서 동시 비교.
+
+고변형률 구개측에서 골세포 사멸·골흡수 발생; 저변형률 협측은 PDL 유래 Wnt 반응 골형성 세포로 골유착; PDL 없는 구개측에 외인성 리포좀 WNT3A 투여 시 골형성 회복.
+
+즉시식립 골유착에는 저변형률 환경과 PDL 유래 Wnt 신호가 필요하며, 이는 상악 구개근 소켓 활용 및 치주인대 보존 전략의 생물역학적 근거를 제공한다. (PDF는 초록·참고문헌만 수집 — 정량적 수치 미확인)
 
 ## Summary
 

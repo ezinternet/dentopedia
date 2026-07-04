@@ -13,13 +13,21 @@ source_collection: external
 
 부분발치술(Partial Extraction Therapy, PET) — 소켓 쉴드·폰틱 쉴드·치근 매몰 — 의 개념·적응증·단계별 술식을 정리한 서술적 리뷰. 임상 결과 SR인 [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]와 생역학 FEA인 [[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]]를 임상 술기 맥락으로 묶는 입문 레퍼런스.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of partial extraction therapy (PET) — socket shield, pontic shield, and root submergence — describing how retaining root structure preserves buccal bone and soft tissue, improves emergence profile, and reduces grafting needs at immediate implant placement, while noting the lack of standardized shield-design protocols.
+Narrative review (Cureus 2022) consolidating the three partial extraction therapy (PET) variants — socket shield, pontic shield, and root submergence — describing their rationale, procedure steps, and case-based applications at immediate implant placement.
 
-## 한줄요약
+Retaining root structure preserves buccal bone and soft tissue, improves emergence profile, and reduces hard- and soft-tissue grafting needs; each variant has distinct indications (socket shield for implant sites, pontic shield for ovate-pontic bridge sites, root submergence for non-implant ridge preservation).
 
-부분발치술(PET — 소켓 쉴드·폰틱 쉴드·치근 매몰) 서술적 리뷰 — 치근 구조를 보존하면 협측골·연조직이 유지되고 emergence profile이 개선되며 골이식 필요가 줄지만, 표준화된 쉴드 디자인 프로토콜이 부재함을 지적.
+PET provides a promising approach to ridge preservation with less invasiveness than grafting; no published study has standardized shield-design parameters with proven outcome benchmarks — represents a narrative overview without quantitative synthesis.
+
+## 세줄요약
+
+서술적 리뷰 (Cureus 2022): 부분발치술(PET) 3가지 변형 — 소켓 쉴드·폰틱 쉴드·치근 매몰 — 의 원리·적응증·단계별 술식을 즉시식립 맥락에서 정리.
+
+치근 구조 보존으로 협측골·연조직 유지, emergence profile 개선, 골·연조직 이식 필요 감소; 각 변형 별도 적응증(소켓 쉴드→임플란트 부위, 폰틱 쉴드→난형 폰틱 브릿지, 치근 매몰→비임플란트 치조제 보존).
+
+골이식보다 덜 침습적인 치조제 보존 접근이나, 쉴드 디자인 표준화 및 결과 기준치 확립 연구 부재 — 정량적 종합 없는 서술 개요.
 
 ## 1. Document Information
 

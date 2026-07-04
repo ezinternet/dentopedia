@@ -17,13 +17,23 @@ text_filename: xing-2024-accuracy-immediate-implantation-digital-guided.txt
 
 기존 [[digital-workflow/nava-2026-guided-surgery-immediate-implant-accuracy-nma]] 와 [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] 의 즉시식립(IIP) CAIS 정확도 근거를 보강한다. 이 두 NMA가 freehand 대비 guided 우위를 정립했다면, 본 SR(Xing 2024)은 digital-template-guided 즉시식립의 절대 deviation 풀링값(coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34°)과 정확도에 영향을 주는 요인(guide 지지조직·제작법·flap·악궁·full vs half guided)을 명시해 chairside 기대치 설정 근거를 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + single-arm meta-analysis (Int Dent J 2024; 7 studies, 202 patients / 215 immediate implants) of digital-template-guided immediate implant placement accuracy: pooled coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34° deviation — generally acceptable but with very high heterogeneity (I² 75-99%); timing (immediate vs delayed) did not materially change accuracy.
 
-## 한줄요약
+Systematic review + single-arm meta-analysis (Int Dent J 2024;
 
-SR + 단일군 메타분석 (Int Dent J 2024, 7연구·202명·215 즉시 임플란트): 디지털 템플릿 가이드 즉시식립의 풀링 편차는 coronal 0.74 mm·apical 1.01 mm·depth 0.50 mm·angular 2.34°로 임상적으로 수용 가능하나 이질성 매우 높음(I² 75~99%). 즉시 vs 지연 식립 시점은 정확도에 유의한 차이를 주지 않음.
+7 studies, 202 patients / 215 immediate implants) of digital-template-guided immediate implant placement accuracy: pooled coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34° deviation — generally acceptable but with very high heterogeneity (I² 75-99%);
+
+timing (immediate vs delayed) did not materially change accuracy.
+
+## 세줄요약
+
+
+SR + 단일군 메타분석 (Int Dent J 2024, 7연구·202명·215 즉시 임플란트): 디지털 템플릿 가이드 즉시식립의 풀링 편차는 coronal 0.74 mm·apical 1.01 mm·depth 0.50 mm·angular 2.34°로 임상적으로 수용 가능하나 이질성 매우 높음(I² 75~99%).
+
+즉시 vs 지연 식립 시점은 정확도에 유의한 차이를 주지 않음.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -9,8 +9,21 @@ pdf_filename: araujo-2006-tissue-modeling-implant-extraction-sockets.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Beagle-dog histologic study (7 dogs, mandibular premolar fresh sockets, semi-submerged SLA implants): osseointegration that established at 4 weeks (woven bone filling the implant–socket gap and contacting the SLA surface) was subsequently lost at the buccal aspect as the thin buccal bone wall underwent marked surface resorption, with the buccal crest migrating >2 mm apical to the marginal SLA border by 12 weeks.
+## Three-line Summary
+
+Beagle-dog histologic study (7 dogs, mandibular premolar fresh sockets, semi-submerged SLA implants, paired 4-week and 12-week time points) examining tissue modeling after immediate implant placement.
+
+At 4 weeks, woven bone filled the implant–socket gap and achieved BIC; by 12 weeks, the thin buccal bone wall underwent marked surface resorption and the buccal crest migrated >2 mm apical to the SLA marginal border, exposing previously osseointegrated surface.
+
+Osseointegration is not static — buccal BIC achieved early can subsequently be lost as the thin buccal bundle bone resorbs, providing the histologic rationale for palatal implant positioning and buccal gap grafting.
+
+## 세줄요약
+
+비글견 조직학 연구(7마리, 하악 소구치 신선 발치와, 반매몰형 SLA 임플란트, 4주·12주 대응 시점) — 즉시식립 후 조직 조형을 조직학적으로 추적.
+
+4주: 임플란트–소켓 gap에 woven bone 충전, BIC 확인; 12주: 얇은 순측 골벽이 현저하게 흡수되어 순측 골정이 SLA 상단에서 >2 mm 하방으로 이동 — 초기 획득 BIC 부분 소실.
+
+골유착은 정적이지 않음 — 초기 획득한 순측 BIC가 bundle bone 흡수로 소실 가능 — 구개측 임플란트 위치 및 순측 gap 이식의 조직학적 근거 제공.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2006;17(6):615–624

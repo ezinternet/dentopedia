@@ -13,13 +13,23 @@ source_collection: external
 
 각화점막 (Keratinized Mucosa, KM) 폭과 주위염 위험의 관계에 대한 기존 증거는 혼재되어 있었으며, [[wiki/implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]]가 장기 관찰 단일기관 데이터를 제공하는 반면, 이 SR+MA는 교란변수를 통제한 16편의 횡단 연구 풀링 결과로 KM 부족이 독립적 위험인자임을 양적으로 확정하는 근거를 제공한다. 또한 [[wiki/implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]의 위험인자 포괄 검토를 KM 특이적 OR 수치로 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 22 studies (n=4,044 patients, 13,265 implants) found that lack of keratinized mucosa is an independent risk factor for peri-implantitis (OR=2.78, 95% CI 2.07–3.74), consistent across multiple subgroup analyses adjusting for case definition, prosthesis type, and maintenance scheme.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 22편 포함 SR+MA(환자 4,044명, 임플란트 13,265개)에서 각화점막 부족이 주위염의 독립적 위험인자(OR=2.78, 95% CI 2.07–3.74)임을 교란변수 통제 하위군 분석을 통해 일관되게 확인하였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

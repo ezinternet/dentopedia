@@ -17,13 +17,23 @@ text_filename: pornprasertsuk-2025-deep-learning-multistage-caries-panoramic.txt
 
 Recent (2025) primary deep-learning study performing multistage caries segmentation (enamel / dentine / pulp) on panoramic radiographs — a modality usually considered weaker for caries — with bitewing-confirmed ground truth. It provides a concrete, well-validated primary exemplar of the trends aggregated in the sibling SRs [[artificial-intelligence/albano-2024-artificial-intelligence-radiographic-caries-detection]] and [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]], and is notable for grading caries *depth* on panoramics (F1 0.85, recall 0.96) rather than binary detection.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective diagnostic model development/validation (500 panoramic radiographs, 1,792 caries in 14,997 teeth, bitewing gold standard) of a two-stage YOLOv5 + Attention U-Net pipeline that segments and stages caries (enamel/dentine/pulp) on panoramics with F1 0.85, accuracy 0.93, recall 0.96 in posterior teeth and strong agreement (κ ≥ 0.9) with radiologists.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 파노라마 방사선사진 500장(치아 14,997개 중 우식 1,792개, 바이트윙 gold standard)에서 YOLOv5(치아 검출) + Attention U-Net(우식 분할) 2단계 파이프라인으로 우식을 단계별(법랑질/상아질/치수)로 분할·분류한 후향적 진단모델 연구 — 구치부 F1 0.85·정확도 0.93·재현율 0.96, 방사선과 전문의와 강한 일치(κ ≥ 0.9).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

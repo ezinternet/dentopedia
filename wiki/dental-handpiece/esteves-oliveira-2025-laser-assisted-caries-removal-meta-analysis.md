@@ -16,13 +16,21 @@ relations:
     target: zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 in-vivo RCTs (≥2263 teeth, >1090 patients) finding laser caries excavation gives restoration survival and pulp vitality equivalent to conventional burs, significantly reduces anesthesia need and pain, but takes significantly longer — at low/very-low evidence certainty.
+PROSPERO-registered SR+MA of 20 in-vivo RCTs (≥2263 teeth, >1090 patients, majority Er:YAG) comparing laser vs conventional rotary bur for caries removal and cavity preparation across five clinical endpoints.
 
-## 한줄요약
+Laser and bur were equivalent for restoration survival (RR 1.51, NS) and pulp vitality (RR 1.46, NS); laser significantly reduced anesthesia need (RR 0.29) and pain (RR 0.35) but required significantly more time (MD +2.23); all estimates low/very-low GRADE certainty.
 
-생체 RCT 20편(치아 ≥2263개, 환자 1090+명) SR+MA — 레이저 우식 제거는 수복물 생존·치수생활력이 전통 bur와 동등하고 마취 필요·통증을 유의하게 줄이지만 시간이 유의하게 더 걸린다(근거수준 낮음~매우낮음).
+Lasers are a comfort and indication choice — not a restoration-quality upgrade; the anesthesia-reduction benefit is real but must be weighed against longer chair time and weak evidence certainty.
+
+## 세줄요약
+
+생체 RCT 20편(치아 ≥2263개, 환자 >1090명, 대부분 Er:YAG) PROSPERO 등록 SR+MA — 레이저 대 전통 회전 bur의 우식 제거·와동 형성을 5개 임상 지표로 비교.
+
+레이저 vs bur: 수복물 생존(RR 1.51, NS)·치수생활력(RR 1.46, NS) 동등; 마취 필요 유의 감소(RR 0.29), 통증 유의 감소(RR 0.35), 시술 시간은 유의하게 더 소요(MD +2.23); 전 지표 GRADE 낮음~매우낮음.
+
+레이저는 수복 품질 향상 수단이 아니라 환자 편의·적응증 선택 도구 — 마취 감소 이점은 실재하나 긴 의자 시간 및 낮은 근거 확실성과 함께 저울질해야 한다.
 
 ## Summary
 

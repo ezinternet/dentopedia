@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Periodontology 2000) of acute periodontal lesions — periodontal abscesses, necrotizing periodontal diseases, and other acute gingival conditions — covering etiology, classification, differential diagnosis, and emergency/definitive management.
+Narrative review (Periodontology 2000) of the full spectrum of acute periodontal lesions — periodontal abscesses, necrotizing periodontal diseases (NPD), and non-biofilm acute gingival conditions — in patients presenting as dental emergencies.
 
-## 한줄요약
+Periodontal abscesses require drainage and debridement with antibiotics case-by-case; NPD triad is papilla necrosis/bleeding/pain managed by superficial debridement and metronidazole; other acute gingival lesions demand differential diagnosis for proper management.
 
-급성 치주병변(치주농양, 괴사성 치주질환, 기타 급성 치은병변)의 병인·분류·감별진단·응급 및 최종 치료를 정리한 서술적 종설(Periodontology 2000).
+Acute control must precede definitive periodontal treatment; NPD is the most rapidly destructive biofilm-associated condition and should prompt systemic-status assessment.
+
+## 세줄요약
+
+치주농양·괴사성 치주질환(NPD)·비생물막성 급성 치은병변 등 급성 치주병변 전체 스펙트럼을 다룬 서술적 종설(Periodontology 2000) — 응급 내원 환자 대상.
+
+치주농양은 배농·조직 변연정리±항생제로 관리; NPD 삼주징(유두 괴사·출혈·통증)은 표재적 변연정리 + 메트로니다졸로 처치; 기타 급성 치은병변은 감별진단이 핵심이다.
+
+급성 단계 조절이 최종 치주치료에 선행해야 하며, NPD는 생물막 관련 질환 중 가장 빠른 조직 파괴를 보여 전신 상태 평가가 필요하다.
 
 ## Summary
 

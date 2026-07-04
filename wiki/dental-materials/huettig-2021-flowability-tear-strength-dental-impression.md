@@ -14,11 +14,21 @@ source_collection: external
 tags: [impression-material, polyether, pvs, vxse, flowability, tear-strength, hydrophilicity, elastomer]
 ---
 
-## One-line Summary
-In vitro (14 elastomeric impression materials): polyether (PE) showed highest flowability, PVS highest tear strength, and VXSE highest hydrophilicity; no single material excels in all properties — selection should be guided by clinical conditions.
+## Three-line Summary
 
-## 한줄요약
-In vitro (14종 탄성인상재): PE 최고 흐름성, PVS 최고 인열강도, VXSE 최고 친수성; 단일 우수재료 없음 — 임상조건에 따라 선택
+In vitro comparison (Materials 2021) of 14 commercial elastomeric impression materials (2 polyether, 2 VXSE, 10 PVS) on three key physical properties: flowability (slump test), tear strength (ISO 4823), and hydrophilicity (contact angle).
+
+Polyether showed the highest flowability (mean 15.9 mm), PVS showed the highest tear strength (mean 3.72 MPa), and VXSE showed the highest hydrophilicity (contact angle 15.1°) — no single material excelled in all three properties simultaneously.
+
+No universal best material exists; selection should be guided by the dominant clinical condition — PE for detail reproduction in a dry field, PVS for dimensional stability and removal ease, VXSE for wet/bleeding environments and implant impressions.
+
+## 세줄요약
+
+In vitro 비교(Materials 2021): 시판 탄성 인상재 14종(폴리에테르(Polyether, PE) 2, VXSE 2, PVS 10)의 유동성(슬럼프 테스트)·인열강도(ISO 4823)·친수성(접촉각) 3가지 물성 비교.
+
+PE 최고 흐름성(평균 15.9 mm), PVS 최고 인열강도(평균 3.72 MPa), VXSE 최고 친수성(접촉각 15.1°) — 3가지 모두 우수한 단일 재료 없음.
+
+임상 조건별 선택 권고: 건조 구강 세부 재현 → PE, 치수 안정성·발거 편의 → PVS, 출혈·타액 다량·임플란트 인상 → VXSE.
 
 ## Summary
 시판 탄성 인상재 14종(PE 2, VXSE 2, PVS 10) 유동성·인열강도·친수성 비교. **유동성: PE > PVS; 인열강도: PVS > PE; 친수성: VXSE > PE > PVS**. VXSE·신형 PVS가 PE의 인열강도·친수성 단점 상당 부분 보완.

@@ -9,7 +9,7 @@ pdf_filename: lee-2018-unilateral-mastication-bone-density-alveolus.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cross-sectional CBCT study in 25 unilateral mastication adults showing chewing-side alveolar bone density is significantly higher than non-chewing side, especially in posterior regions.
 
 ## 1. Document Information

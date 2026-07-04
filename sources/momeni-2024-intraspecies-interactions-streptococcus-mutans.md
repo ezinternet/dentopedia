@@ -17,13 +17,23 @@ text_filename: momeni-2024-intraspecies-interactions-streptococcus-mutans.txt
 
 기존 S. mutans 페이지들([[oral-microbiology/bowen-2011-streptococcus-mutans-glucosyltransferases]], [[oral-microbiology/klein-2012-mutans-protein-synthesis-mixed-species-biofilm]])은 단일 균주 또는 종간(interspecies) 상호작용에 집중했으나, 같은 종 내 여러 유전형(genotype) 간 상호작용이 우식원성에 미치는 영향은 공백이었다. 본 논문(Momeni 2024)은 임상 분리주 G09·G18의 co-culture가 biofilm 산도·구조·집락화를 상승시킴을 in vitro/in vivo로 보여, "다수 S. mutans 유전형 = ECC 위험인자"라는 역학 관찰의 기전을 보강한다. [[oral-microbiology/lueyar-2023-dynamic-interactions-between-candida-albicans]]의 cross-kingdom 상호작용과 대비되는 intraspecies 축이다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro biofilm + in vivo Drosophila study of two clinical S. mutans genotypes (G09, G18) from a high-caries-risk child showing that co-culture significantly lowers biofilm pH, doubles cell density/biofilm thickness, and enhances colonization versus mono-culture — with each strain occupying a distinct spatial domain.
 
-## 한줄요약
+In vitro biofilm + in vivo Drosophila study of two clinical S.
 
-임상 S. mutans 두 유전형(G09·G18)의 in vitro 바이오필름 + in vivo 초파리 실험 — 함께 배양(co-culture)하면 단독 배양 대비 바이오필름 pH가 유의하게 낮아지고(산도↑) 세포밀도·두께가 2배로 늘며 집락화가 강화되고, 각 균주는 서로 겹치지 않는 고유 공간 영역을 차지한다.
+mutans genotypes (G09, G18) from a high-caries-risk child showing that co-culture significantly lowers biofilm pH, doubles cell density/biofilm thickness, and enhances colonization versus mono-culture — with each strain occupying a distinct spatial domain.
+
+(incomplete)
+
+## 세줄요약
+
+
+임상 S.
+
+mutans 두 유전형(G09·G18)의 in vitro 바이오필름 + in vivo 초파리 실험 — 함께 배양(co-culture)하면 단독 배양 대비 바이오필름 pH가 유의하게 낮아지고(산도↑) 세포밀도·두께가 2배로 늘며 집락화가 강화되고, 각 균주는 서로 겹치지 않는 고유 공간 영역을 차지한다.
+
+(incomplete)
 
 ## 1. Document Information
 

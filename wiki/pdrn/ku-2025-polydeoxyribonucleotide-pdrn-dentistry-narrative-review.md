@@ -13,13 +13,21 @@ source_collection: external
 tags: [pdrn, mechanism, review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of PDRN (50–1500 kDa salmon/trout sperm-derived DNA fragments) in dentistry: maps its dual mechanism (A2A receptor signaling + nucleotide salvage pathway) onto adjunctive applications across GBR, soft-tissue, TMJ, peri-implantitis, and MRONJ, concluding that consistent preclinical signals are not yet matched by RCT-grade evidence for protocolization.
+Narrative review of polydeoxyribonucleotide (PDRN, 50–1500 kDa salmon/trout sperm-derived DNA fragments) in dentistry, mapping its dual mechanism (A2A purinergic receptor → anti-inflammatory/pro-angiogenic, plus nucleotide salvage pathway → cell proliferation substrate) onto adjunctive dental applications.
 
-## 한줄요약
+The review catalogs emerging dental indications — GBR/bone graft soaking, soft-tissue augmentation, TMJ disorders, peri-implantitis, and MRONJ — with consistent preclinical signals but notes that no large well-designed RCT has yet defined optimal dose, vehicle, or timing for any indication.
 
-Narrative review. PDRN은 salmon/trout sperm 유래 50-1500 kDa DNA fragment로 A2A receptor + nucleotide salvage pathway 통해 angiogenesis·osteogenesis 촉진. GBR, TMJ, peri-implantitis, MRONJ adjunct로 시도되나 RCT-grade evidence 부재.
+PDRN's preclinical evidence base is consolidating but lacks human RCT-level evidence for protocolization, making it an investigational adjunct at the time of this review.
+
+## 세줄요약
+
+줄1: 치의학 분야에서의 PDRN(salmon/trout 정자 유래 50–1500 kDa DNA fragment)의 이중 기전(A2A 수용체 → 항염/혈관신생 촉진, nucleotide salvage pathway → 세포증식 기질 제공)과 적응증을 정리한 서술 리뷰.
+
+줄2: GBR/골이식재 soaking, 연조직 증대, TMJ 장애, 치주염, MRONJ 보조 치료 등 치과적 적용을 목록화하나 모든 적응증에서 최적 용량·매체·시점을 정의한 대규모 RCT 근거가 부재.
+
+줄3: 전임상 신호는 비교적 일관되지만 근거 기반이 RCT 수준에 도달하지 못해 임상 프로토콜화에는 아직 이르다는 결론.
 
 ## Summary
 

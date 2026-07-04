@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides outcome evidence that a structured complaint-handling *system* (not just better individual responses) raises satisfaction and cuts complaint volume in resource-limited primary settings -- the closest analogue to a small dental clinic on the response axis. Provides the outcome-level counterpart to the service-recovery practice in [[complaint-management/10.1177_2374373520967797]] and the system overview in [[overviews/complaint-management-pipeline-classification-expectation-response-education]].
 
-## One-line Summary
-Observational study in Chinese grassroots hospitals showing a structured complaint-management system improved satisfaction and reduced complaints; satisfaction correlated with department and administrative office.
+## Three-line Summary
 
-## 한줄요약
-중국 1차 병원 관찰연구 — 구조화된 민원관리 시스템 도입 후 만족도 향상·민원 감소; 만족도는 진료과·행정부서와 상관.
+Observational study in Chinese grassroots hospitals showing a structured complaint-management system improved satisfaction and reduced complaints;
+
+satisfaction correlated with department and administrative office.
+
+(incomplete)
+
+## 세줄요약
+
+중국 1차 병원 관찰연구 — 구조화된 민원관리 시스템 도입 후 만족도 향상·민원 감소;
+
+만족도는 진료과·행정부서와 상관.
+
+(incomplete)
 
 ## 1. Document Information
 - Medicine (Baltimore) 2024;103(8):e37275. Observational Study.

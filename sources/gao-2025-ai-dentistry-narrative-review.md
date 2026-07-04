@@ -9,7 +9,7 @@ pdf_filename: gao-2025-ai-dentistry-narrative-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Med Sci Monit 2025;31:e946676 (Zhejiang/Hangzhou, China) — narrative review of AI (ML, ANN, deep learning) across endodontics, periodontics, implantology, orthodontics, prosthodontics, and oral/maxillofacial surgery; covers diagnosis, treatment planning, execution, follow-up; flags data annotation, fine-grained feature limits, bias, legal/privacy risks.
 
 ## 1. Document Information

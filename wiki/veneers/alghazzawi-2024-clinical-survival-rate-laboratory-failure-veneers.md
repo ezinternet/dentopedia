@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (1999–2024) bridging laboratory failure mechanisms and clinical survival of dental veneers: overall >90% survival at 10+ years; minimal/no-prep glass-ceramic veneers show highest survival; fracture > debonding > color change as failure hierarchy.
+Narrative literature review (PubMed/Medline/Scopus/Google Scholar, Jan 1999–Jan 2024) bridging in-vitro laboratory failure mechanisms with in-vivo clinical survival data for dental veneers across material types and preparation designs.
 
-## 한줄요약
+Overall clinical survival exceeds 90% at 10+ years when veneers are properly selected and cemented; minimal/no-prep glass-ceramic veneers achieve the highest survival rates because bonding remains in enamel; failure hierarchy is fracture > debonding > color change.
 
-서사적 문헌고찰(1999–2024): 비니어(veneer) 실험실 파절·탈락·색변화 원인과 임상 생존율(survival rate, SR) 연계 분석 — 최소삭제(no-prep/minimal-prep) 유리도재(glass-ceramic) 비니어가 10년 이상 >90% SR로 최우수; 파절(fracture) > 탈락(debonding) > 색변화(color change) 순 실패 빈도.
+Preserved enamel substrate is the single most important survival determinant; adhesive luting transforms thin veneers (0.6 mm adhesively luted lithium disilicate equals conventionally luted 1.5 mm in fracture load), and UDMA-based resin cement provides superior long-term color stability.
+
+## 세줄요약
+
+서사적 문헌고찰 (PubMed/Scopus/Google Scholar, 1999–2024년 1월): 치과 비니어의 실험실 파절·탈락·색변화 원인과 임상 생존율 데이터를 재료·준비 디자인별로 연계 분석.
+
+적절히 선택·접착된 비니어의 10년 이상 임상 생존율 >90%; 최소삭제(no-prep/minimal-prep) 유리도재(Glass-Ceramic) 비니어 최고 생존율 — 접착이 법랑질에서 이루어지기 때문; 실패 빈도 파절(fracture) > 탈락(debonding) > 색변화(color change).
+
+법랑질 기질 보존이 단일 최중요 생존 결정인자; 접착성 합착이 박형 비니어를 변환 (0.6 mm 리튬디실리케이트 접착 합착 = 1.5 mm 기존 합착); UDMA계 레진 시멘트가 장기 색안정성 우수.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical study (300 Brånemark Mk III TiUnite implants, 111 patients) showing strong correlations between CT bone density (HU), insertion torque, and ISQ (r = 0.76–0.88, all p < 0.001); failed implants had markedly lower HU/torque/ISQ (267 HU, 21.8 Ncm, 46.5 ISQ) than successful ones (645 HU, 37.2 Ncm, 67.1 ISQ).
+Retrospective clinical study (300 Brånemark Mk III TiUnite implants, 111 patients, 3.7-year mean follow-up) examining CT bone density (HU), insertion torque, and ISQ as predictors of implant success.
 
-## 한줄요약
+CT bone density correlated strongly with both insertion torque (r=0.768) and ISQ (r=0.882, both p<0.001); failed implants (n=20) had markedly lower values across all three parameters (267 HU, 21.8 Ncm, 46.5 ISQ) vs successful implants (645 HU, 37.2 Ncm, 67.1 ISQ); site-specific density ranged from 846 HU (anterior mandible) to 403 HU (posterior maxilla).
 
-후향적 임상연구(임플란트 300개·환자 111명)에서 CT 골밀도(Hounsfield Unit, HU)·삽입토크(Insertion Torque)·임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 강하게 상관(r=0.76~0.88, p<0.001)했고, 실패한 임플란트는 세 지표 모두 현저히 낮았다(267 HU, 21.8 Ncm, 46.5 ISQ vs 성공 645 HU, 37.2 Ncm, 67.1 ISQ).
+Preoperative CT-based bone density is an objective tool for anticipating low primary stability; an ISQ of approximately 46.5 discriminates failed implants, supporting CT + ISQ combined risk stratification.
+
+## 세줄요약
+
+후향적 임상연구 (300개 임플란트, 111명, 평균 추적 3.7년): CT 골밀도 (Hounsfield Unit, HU), 삽입 토크 (Insertion Torque), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)의 성공 예측력 평가.
+
+CT 골밀도가 삽입 토크(r=0.768) 및 ISQ(r=0.882, 모두 p<0.001)와 강하게 상관; 실패 임플란트(n=20)는 세 지표 모두 현저히 낮음(267 HU, 21.8 Ncm, 46.5 ISQ vs 성공 645 HU, 37.2 Ncm, 67.1 ISQ); 부위별 골밀도: 하악 전치부 846 HU → 상악 구치부 403 HU.
+
+ISQ ~46.5가 실패 임플란트를 변별하는 임계값으로, 수술 전 CT와 ISQ를 함께 활용한 위험도 분류를 지지한다.
 
 ## Summary
 

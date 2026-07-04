@@ -14,11 +14,21 @@ source_collection: external
 tags: [sinus-lift, barrier-membrane, lateral-window, gbr, implant-survival, rct, meta-analysis]
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (6 RCTs) of lateral-window maxillary sinus floor augmentation with vs without barrier membrane coverage of the lateral window found no significant difference in implant survival, new bone formation, or complications, providing insufficient evidence to support routine membrane use.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (6 RCTs): 측창 차폐막 사용 vs 미사용 — 생존율·골형성·합병증 모두 유의차 없음; 루틴 사용 근거 부족
+SR+MA (6 RCTs) comparing lateral-window maxillary sinus floor augmentation with vs without barrier membrane coverage of the lateral window on implant survival, new bone formation, and complications.
+
+No significant difference in implant survival, new bone formation, or complication rates was found between membrane and no-membrane groups across all 6 included RCTs.
+
+Routine barrier membrane coverage of the lateral window is not supported by current evidence; membrane use may still be warranted after Schneiderian membrane perforation to stabilize graft material.
+
+## 세줄요약
+
+체계적 문헌고찰·메타분석 (SR+MA, 6 RCTs): 측방창 상악동거상술 시 측창 차폐막 (Barrier Membrane) 피개 유무에 따른 임플란트 생존율·신생골 형성·합병증 비교.
+
+막 사용군과 미사용군 간 임플란트 생존율·신생골 형성·합병증 모두 유의한 차이 없음.
+
+측창 차폐막의 일상적 사용을 지지하는 근거 불충분; 다만 슈나이더 막 천공 (Schneiderian Membrane Perforation) 발생 시 이식재 안정화를 위해 막 피개 권장.
 
 ## Summary
 SR+MA (6 RCT): 측창 상악동 거상술 시 차폐막 피개 vs 비피개 — 임플란트 생존율·골형성·합병증 **유의차 없음**. 차폐막 일상적 사용의 근거 불충분.

@@ -13,11 +13,21 @@ source_collection: external
 tags: [uv-photofunctionalization, hydrocarbon, soft-tissue, biofilm, VUV, osseointegration]
 ---
 
-## One-line Summary
-Comprehensive narrative review of UV photofunctionalization (UV-PF) of titanium implants across three biological interfaces — bone (osseointegration), soft tissue (epithelial sealing), and bacteria (biofilm inhibition); UV-PF removes hydrocarbon pellicles to restore superhydrophilicity, and VUV (1-minute) is introduced as a next-generation alternative to conventional 15-minute UV.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰(J Prosthodont Res 2025): UV 광기능화 (Photofunctionalization) — 골유착·연조직·세균 3개 계면 종합 리뷰; VUV(1분) 차세대 방법 소개; 탄화수소 제거 → 초친수성 → 세포·조직 반응 개선.
+Comprehensive narrative review of UV photofunctionalization (UV-PF) of titanium implants synthesizing evidence across three biological interfaces: bone (osseointegration), soft tissue (epithelial sealing), and bacteria (biofilm inhibition).
+
+UV-PF removes hydrocarbon pellicles from aged titanium to restore superhydrophilicity (contact angle ≈0°) and electropositivity, improving cell responses at all three interfaces; VUV (185+254 nm, 1 minute) introduced as a next-generation alternative to conventional 15-minute UV.
+
+The tri-interface framework positions UV-PF as applicable to both implant body and abutment/crown surfaces; as a narrative review the evidence hierarchy is lower than systematic reviews in this domain.
+
+## 세줄요약
+
+서술적 고찰 (J Prosthodont Res 2025) — UV 광기능화 (UV Photofunctionalization, UV-PF)를 골유착·연조직·세균 3개 생물학적 계면에 걸쳐 종합한 최초의 삼중계면 리뷰.
+
+UV-PF는 노화된 티타늄 표면의 탄화수소 오염막을 제거해 초친수성 (접촉각 ≈0°)과 전기양성 상태를 회복시켜 3개 계면 모두에서 세포 반응 개선; VUV(185+254 nm, 1분)를 기존 15분 UV의 차세대 대안으로 소개.
+
+삼중계면 프레임워크는 UV-PF를 임플란트 본체·어버트먼트·크라운 모두에 적용 가능하게 위치시킴; 서술적 고찰로 같은 영역의 체계적 고찰보다 근거 수준이 낮음.
 
 ## Summary
 Comprehensive narrative review of UV photofunctionalization (UV-PF) of titanium implants covering three biological interfaces: bone (osseointegration), soft tissue (epithelial sealing), and bacteria (biofilm inhibition). UV-PF removes hydrocarbon pellicles from aged titanium surfaces, restoring superhydrophilicity (contact angle ≈0°) and electropositivity. VUV (vacuum UV, 185+254 nm, 1 minute) introduced as clinical advancement over conventional 15-min UV. Reviews both implant body and abutment/crown applications.

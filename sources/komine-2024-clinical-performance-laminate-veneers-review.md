@@ -13,13 +13,23 @@ source_collection: external
 
 This narrative review synthesizes 55 clinical studies on laminate veneer (LV) survival rates and complications, covering key material choices (feldspathic, LRG, LDS), preparation design, dentin exposure, bonding protocols, and bruxism effects — directly complementing and contextualizing the SR+MA evidence in [[wiki/veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (55 clinical studies, 2000–2023) of laminate veneer clinical performance: silica-based ceramics (feldspathic, LRG, LDS) achieve 72–100% survival across follow-up periods, with dentin exposure, bruxism, and adhesive protocol quality as the key modifiable outcome determinants.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰 (55개 임상연구, 2000–2023): 라미네이트 비니어 (Laminate Veneer, LV)의 생존율은 실리카 기반 세라믹(장석도재, 류사이트강화글라스세라믹 (Leucite-Reinforced Glass Ceramic, LRG), 리튬디실리케이트 (Lithium Disilicate Ceramic, LDS))에서 72–100%이며, 상아질 노출·이갈이·접착 프로토콜이 핵심 수정 가능 예후 인자.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

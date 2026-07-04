@@ -13,13 +13,21 @@ source_collection: external
 
 Goodacre 2001 [[prosthetic-materials/goodacre-2001-tooth-preparations-complete-crowns-art-form]] concluded that finish-line type had no proven effect on marginal fit, but that predated all-ceramic CAD-CAM systems. This Contrepois 2013 SR (54 studies, 17 ceramic systems) re-opens and refines that conclusion for the ceramic era, identifying finish-line configuration, cement-space setting, veneering, and cementation as the real drivers of marginal adaptation — directly extending the prep-margin discussion that anchors [[overviews/crown-preparation-geometry-convergence-resistance-retention]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (J Prosthet Dent 2013;110(6):447-454; 469→54 studies, 17 ceramic systems, 48 in vitro + 6 in vivo, 1994-2012): 94.9% of measured marginal gaps were within clinical acceptability; heterogeneity precluded meta-analysis/ranking; four factors govern marginal adaptation — finish-line configuration, predefined cement space, veneering process, and cementation.
+Systematic review (J Prosthet Dent 2013; 469 screened → 54 included; 17 ceramic systems, 48 in vitro + 6 in vivo studies, 1994–2012) evaluating marginal adaptation and the factors that influence marginal gap in ceramic crowns.
 
-## 한줄요약
+94.9% of all measured marginal gaps fell within clinical acceptability; no meta-analysis or system ranking was possible due to methodological heterogeneity; four factors consistently influence marginal adaptation: finish-line configuration, predefined cement space, veneering process, and cementation technique.
 
-sr (J Prosthet Dent 2013;110(6):447-454; 469→54편, 세라믹 시스템 17종, in vitro 48 + in vivo 6, 1994-2012): 측정된 변연 간극의 94.9%가 임상 허용 범위 내; 이질성으로 메타분석·시스템 순위 불가; 변연 적합도 좌우 4요인 — finish line 형태, 설정 cement space, 비니어링 과정, 합착. micro-CT 향후 권장.
+Ceramic crowns generally achieve clinically acceptable marginal fit, but cannot be ranked by system due to heterogeneous protocols; future research should use micro-CT for standardized non-destructive 3D marginal-gap evaluation.
+
+## 세줄요약
+
+체계적 문헌고찰(J Prosthet Dent 2013; 469편 스크리닝 → 54편 포함; 세라믹 시스템 17종, in vitro 48 + in vivo 6편, 1994–2012): 도재 크라운의 변연 적합도와 영향 인자 평가.
+
+측정된 변연 간극의 94.9%가 임상 허용 범위 내(≤120 µm); 방법론적 이질성으로 메타분석·시스템 순위 불가; 변연 적합도에 일관되게 영향을 미치는 4요인: finish line 형태, 설정 cement space, 비니어링 과정, 합착 방법.
+
+도재 크라운은 일반적으로 임상 허용 변연 적합도 달성; 시스템 간 순위화 불가; 향후 micro-CT를 이용한 표준화·비파괴 3D 변연 간극 평가 권고.
 
 ## 1. Document Information
 

@@ -16,11 +16,21 @@ relations:
     target: smiley-2015-nonsurgical-periodontitis-srp-guideline
 ---
 
-## One-line Summary
-EFP S3 level clinical practice guideline (based on 15 commissioned systematic reviews + GRADE methodology) for treating stage I–III periodontitis, introducing a stepwise therapy framework aligned with the 2018 classification: Step 1 behavioural change/biofilm control/risk-factor management → Step 2 subgingival instrumentation (SRP) ± adjunctive antibiotics → Step 3 periodontal surgery → Step 4 supportive periodontal therapy (SPT).
+## Three-line Summary
 
-## 한줄요약
-EFP S3 수준 임상 지침(15개 SR 기반): 1기–3기 치주염의 단계적 치료(행동 변화 → SRP ± 보조요법 → 수술 → SPT) 표준 프로토콜.
+EFP S3-level clinical practice guideline (based on 15 commissioned systematic reviews + GRADE methodology) for treatment of stage I–III periodontitis, aligned with the 2018 periodontitis classification.
+
+Introduces a four-step framework: Step 1 behavioural change/biofilm control/risk-factor management → Step 2 SRP ± adjunctive antibiotics (stage III grade C/D only) → Step 3 periodontal surgery → Step 4 SPT; full-mouth disinfection is comparable to quadrant SRP.
+
+SPT is an indispensable Step 4 — without it, treatment gains are not maintained; this is the reference European guideline for stage I–III periodontitis management.
+
+## 세줄요약
+
+EFP S3 수준 임상 진료 지침(15개 의뢰 SR + GRADE 방법론): 2018년 분류에 맞춘 1~3기 치주염 치료.
+
+4단계 치료 체계 제시: 1단계(행동 변화·biofilm 관리·위험인자 조절) → 2단계(SRP ± 항생제, 3기 C/D급만) → 3단계(치주 수술) → 4단계(SPT); 전악 소독은 사분악 SRP와 동등한 효과.
+
+SPT는 4단계로 필수불가결하며, 없으면 치료 효과가 유지되지 않음 — 1~3기 치주염 관리의 유럽 표준 지침서.
 
 ## Summary
 The European Federation of Periodontology (EFP) S3 level clinical practice guideline for the treatment of stage I–III periodontitis, based on 15 commissioned systematic reviews and GRADE methodology. The guideline introduces a stepwise approach to therapy aligned with the 2018 periodontitis classification. A companion guideline for stage IV periodontitis was published separately (Herrera 2022).

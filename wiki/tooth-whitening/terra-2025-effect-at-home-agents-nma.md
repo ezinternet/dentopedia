@@ -19,13 +19,21 @@ relations:
     target: das-2025-comparative-efficacy-external-bleaching-gels
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian NMA of 53 RCTs (81 eligible) comparing at-home bleaching agents and concentrations found most concentrations equally efficacious — only the lowest (CP 5%, HP 2–4%) and highest (CP 15–37%, HP 14–16%) extremes differ significantly; overall quality of evidence is low.
+Bayesian NMA of 81 eligible RCTs (53 in synthesis; GRADE low; PROSPERO CRD42021265220) comparing CP (5–37%) and HP (2–16%) at-home bleaching concentrations for color change (ΔE, ΔSGU).
 
-## 한줄요약
+Most intermediate concentrations are clinically equivalent; only extremes differ — CP 5% and HP 2–4% are inferior to CP 15–17%+ (ΔE MD −1.85 to −4.23), while HP 14–16% is superior to CP 5% and HP 2–4% on ΔSGU (MD +4.06 to +4.66).
 
-53편 RCT의 베이지안 NMA에서 재가 미백의 대부분의 농도는 동등한 효과를 보였으며, 최저 농도(CP 5%, HP 2–4%)만 최고 농도군과 유의한 차이를 보였다(근거 수준: 낮음).
+Within the standard at-home range (10–22% CP, 3–8% HP) all concentrations are interchangeable for efficacy, so product selection should be guided by sensitivity profile and patient compliance rather than concentration.
+
+## 세줄요약
+
+베이지안 NMA (적격 81편 RCT, 53편 합성; GRADE 낮음) — CP 5–37%, HP 2–16% 자가 미백 농도 간 색변화(ΔE, ΔSGU) 비교.
+
+대부분 중간 농도는 임상적으로 동등; 극단만 차이 — CP 5%·HP 2–4%는 CP 15–17%+ 대비 열등(ΔE MD −1.85~−4.23), HP 14–16%는 CP 5%·HP 2–4% 대비 ΔSGU 우수(MD +4.06~+4.66).
+
+표준 자가 미백 범위(10–22% CP, 3–8% HP) 내에서 모든 농도는 효능 동등 — 제품 선택 기준은 민감도 프로파일과 환자 순응도여야 함.
 
 ## Summary
 

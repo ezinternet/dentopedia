@@ -14,8 +14,21 @@ source_collection: external
 
 [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]가 즉시 식립 buccal gap의 graft 충전 효과를 다뤘다면, 본 RCT는 gap 충전(allograft)을 양 군에 고정한 채 *차폐막* 변수(자가 DDBM vs e-PRF)만 분리해 비교한다 — 같은 Mansoura/Elsheikh 그룹의 [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] PRF 적용 근거를 차폐막 관점으로 확장하며, 두 자가 생물학적 차폐막이 24개월 동등(둘 다 100% 생존)함을 보강.
 
-## One-line Summary
-Mansoura Univ RCT (BMC Oral Health 2026, n=40, 하악 구치 즉시 식립 + GBR, 24개월): 자가 DDBM(상아질 유래 차폐막) vs e-PRF 차폐막 — implant stability·PPD·MBL·골밀도 모두 군간 유의차 없음, 둘 다 100% 생존.
+## Three-line Summary
+
+RCT (Mansoura University; n=40, mandibular molar immediate implant placement + GBR, 2-year follow-up) comparing autologous DDBM vs e-PRF as GBR membranes with allograft gap filling in both groups.
+
+ISQ, PPD, MBL, and bone density showed no significant between-group difference at any time point; implant survival was 100% in both groups at 24 months; no membrane exposure, infection, or complications were recorded.
+
+Both autologous biological membranes (DDBM and e-PRF) are equivalent for mandibular molar immediate implant GBR at 2 years — availability and cost can guide membrane choice rather than efficacy differences.
+
+## 세줄요약
+
+만수라 대학교 무작위 대조 연구 (Randomized Controlled Trial, RCT; n=40, 하악 구치 즉시 식립 + 골유도재생(Guided Bone Regeneration, GBR), 24개월 추적).
+
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ)·탐침 깊이 (Probing Pocket Depth, PPD)·변연골소실 (Marginal Bone Loss, MBL)·골밀도 모두 군간 유의차 없음; 양 군 생존율 100%, 합병증 0건.
+
+자가 상아질 유래 차폐막 (Dentine-Derived Barrier Membrane, DDBM)과 연장 혈소판농축섬유소 (Extended Platelet-Rich Fibrin, e-PRF)는 임상적으로 동등 → 가용성·비용으로 선택 가능.
 
 ## 2. Key Contributions
 - 하악 구치 즉시 식립 GBR에서 두 가지 생물학적 자가 차폐막(DDBM vs e-PRF) 직접 RCT 비교 — DDBM을 *차폐막*으로 쓴 드문 비교.

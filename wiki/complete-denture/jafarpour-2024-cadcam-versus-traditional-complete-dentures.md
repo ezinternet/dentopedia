@@ -13,13 +13,21 @@ source_collection: external
 tags: [cad-cam, complete-denture, digital-workflow, patient-reported-outcomes, costs, milling, 3d-printing]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 clinical studies (JOR 2024) showing CAD/CAM complete dentures are comparable to traditional in patient satisfaction and OHRQoL, with milled CDs significantly superior in clinician satisfaction, and CAD/CAM workflows requiring lower laboratory and total costs.
+PRISMA SR+MA of 11 clinical studies (2012–2022, JOR 2024) compared CAD/CAM-fabricated (milled and 3D-printed) vs conventionally manufactured complete dentures on patient satisfaction, OHRQoL, clinician satisfaction, adjustment visits, and costs.
 
-## 한줄요약
+Patient satisfaction (MD=−0.11, p=0.84) and OHRQoL showed no significant difference; milled CDs were significantly superior in clinician satisfaction (ES=1.42, I²=0%) and produced fewer post-insertion adjustment visits, while CAD/CAM required significantly lower laboratory and total treatment costs (~205 min/case chair time saved).
 
-SR+MA (11편, JOR 2024): CAD/CAM 총의치(완전의치)는 환자 만족도·구강건강관련삶의질(OHRQoL)에서 전통 의치와 동등하며, 밀링 의치는 임상의 만족도에서 유의하게 우수하고, CAD/CAM은 전반적 비용이 유의하게 낮음.
+High heterogeneity (I² up to 93%) and small sample sizes limit definitive conclusions, but milled systems offer the clearest clinical advantages within the CAD/CAM category.
+
+## 세줄요약
+
+PRISMA SR+MA(11편, 2012–2022, JOR 2024)로 CAD/CAM(밀링·3D프린팅) vs 기존 제작 총의치를 환자 만족도, OHRQoL, 임상의 만족도, 조정 내원 횟수, 비용 측면에서 비교하였다.
+
+환자 만족도(MD=−0.11, p=0.84)와 OHRQoL은 유의차 없었으며, 밀링 의치는 임상의 만족도에서 유의하게 우수(ES=1.42, I²=0%)하고 조정 내원 횟수도 적었고, CAD/CAM은 기공비용·총치료비용이 유의하게 낮았다(케이스당 약 205분 절감).
+
+이질성 높음(I² 최대 93%)과 소규모 표본이 확정적 결론을 제한하지만, 밀링 시스템이 CAD/CAM 내에서 가장 명확한 임상적 이점을 보였다.
 
 ## Summary
 

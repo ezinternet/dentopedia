@@ -19,13 +19,21 @@ relations:
     target: marinelli-2025-temporary-anchorage-devices-clear-aligner-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (PRISMA/PROSPERO, 10 studies — 4 non-RCTs + 6 before-after) found clear aligner treatment (CAT) increases overbite by 2.77mm mainly via incisor extrusion (U1 +0.87mm, L1 +1.06mm) without significant molar intrusion, whereas fixed appliances with temporary anchorage devices (FATADs) achieve greater overbite gain (+1.64mm more than CAT) via significantly greater molar intrusion (U6 +1.88mm, L6 +0.45mm); CAT shows greater lower-incisor extrusion (+2.35mm) than FATADs; results were stable during retention (near-zero relapse), but certainty of evidence was low to very low.
+SR+MA (PRISMA/PROSPERO, 10 studies — 4 non-RCTs + 6 before-after) comparing clear aligner treatment (CAT) vs fixed appliances with temporary anchorage devices (FATADs) for anterior open bite correction.
 
-## 한줄요약
+CAT increases overbite +2.77 mm mainly via incisor extrusion (U1 +0.87 mm, L1 +1.06 mm) with no significant molar intrusion, while FATADs gain +1.64 mm more overbite than CAT via greater molar intrusion (U6 +1.88 mm, L6 +0.45 mm).
 
-체계적 문헌고찰+메타분석 (10편 — non-RCT 4편 + 전후비교 6편): 투명교정 (Clear Aligner Treatment, CAT)은 주로 절치 정출로 overbite를 2.77mm 증가시키며(상악절치 +0.87mm, 하악절치 +1.06mm) 구치 압하는 유의하지 않았던 반면, TAD 병용 고정식 장치 (FATADs)는 구치 압하(상악구치 +1.88mm, 하악구치 +0.45mm)로 CAT보다 overbite를 1.64mm 더 크게 개선함; CAT의 하악절치 정출이 FATADs보다 2.35mm 더 큼; 유지기간 중 재발은 거의 없었으나 근거수준은 낮음~매우낮음.
+FATADs are more efficacious for open bite overall; CAT-corrected open bites are stable during retention, but evidence certainty is low to very low with no RCTs available.
+
+## 세줄요약
+
+SR+MA (PRISMA/PROSPERO, 10편 — non-RCT 4편·전후비교 6편): 전치부 개방교합 교정에서 투명교정(Clear Aligner Treatment, CAT)과 TAD 병용 고정식 장치(FATADs)를 비교.
+
+CAT는 절치 정출(상악 +0.87 mm, 하악 +1.06 mm)로 overbite를 +2.77 mm 증가시키나 구치 압하는 유의하지 않았고, FATADs는 구치 압하(상악 +1.88 mm, 하악 +0.45 mm)를 통해 CAT보다 +1.64 mm 더 큰 overbite 개선을 달성.
+
+전체적으로 FATADs가 더 효과적이며 CAT 개방교합 교정은 유지 기간 안정적이나, 근거 수준이 낮음~매우낮음이고 RCT는 없음.
 
 ## Summary
 

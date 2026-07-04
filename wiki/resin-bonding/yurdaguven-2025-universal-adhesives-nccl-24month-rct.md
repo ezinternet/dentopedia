@@ -18,11 +18,21 @@ relations:
     target: omoto-2025-nccl-adhesion-strategies-4year-rct
 ---
 
-## One-line Summary
-Double-blind split-mouth RCT (32 patients, 256 NCCLs) showing two universal adhesives differing in monomer/HEMA/solvent performed equivalently at 24 months (98.2% success; no significant between-adhesive difference) under selective enamel etching.
+## Three-line Summary
 
-## 한줄요약
-NCCL 256개 2년 RCT — 조성(monomer·HEMA·solvent) 다른 universal adhesive 2종 24개월 동등(성공 98.2%), 유의차 없음.
+Double-blind split-mouth RCT (32 patients, 256 NCCLs; G-Premio Bond vs Single Bond Universal, n=128 each) under selective enamel etching evaluated at baseline/12/24 months with Revised FDI criteria.
+
+Both adhesives showed 98.2% overall success at 24 months with only 4 retention losses (2 per adhesive); no statistically significant between-adhesive difference on any criterion at any interval despite differing monomer, HEMA content, and solvent type.
+
+Adhesive compositional differences (monomer/HEMA/solvent) do not significantly influence 24-month NCCL outcomes; correct etching strategy and technique matter more than brand or formulation.
+
+## 세줄요약
+
+선택적 법랑질 산 부식 하 G-Premio Bond vs Single Bond Universal(각 n=128, 총 NCCL 256개)을 기준/12/24개월에 Revised FDI 기준으로 평가한 이중맹검 split-mouth RCT(32명).
+
+24개월 전체 성공률 98.2%, 탈락 4개(군당 2개); 모노머·HEMA 함량·용매 종류가 다름에도 불구하고 두 접착제 간 어떤 평가 항목에서도 유의한 차이 없음.
+
+Universal adhesive의 조성(모노머·HEMA·용매) 차이는 24개월 NCCL 결과에 유의한 영향을 주지 않으며, 올바른 식각 전략과 술식이 제품 선택보다 중요하다.
 
 ## Summary
 This double-blind, split-mouth randomized controlled trial tested whether universal-adhesive composition — monomer type, HEMA content, and solvent type — affects NCCL restoration outcomes when application strategy is held constant. Thirty-two patients received 256 NCCL restorations split between G-Premio Bond (GPB) and Single Bond Universal (SBU), both applied with selective enamel etching and restored with the same composite. Over 24 months, evaluated by two blinded examiners using Revised FDI criteria, the overall success rate was 98.2% with only four retention losses (two per adhesive), and no statistically significant difference appeared between the two adhesives on any criterion at any interval. Both showed a significant decline in marginal adaptation by 12 and 24 months and increased marginal staining at 24 months, yet all restorations remained clinically acceptable. The trial reinforces the consistent NCCL-RCT message that the adhesive's compositional details and brand matter far less than correct technique and an appropriate etching strategy.

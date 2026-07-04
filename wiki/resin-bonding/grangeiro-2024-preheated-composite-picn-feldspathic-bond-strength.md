@@ -13,13 +13,21 @@ source_collection: external
 tags: [preheated-composite, PICN, feldspathic-ceramic, microshear-bond-strength, luting-agent, thermocycling]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n=360 total, 12 groups): preheated composite resin (68°C) achieved the highest microshear bond strength to both feldspathic ceramic and PICN at baseline and after thermocycling, outperforming conventional resin cement and flowable composite; all groups declined significantly after 5,000 thermal cycles.
+In vitro microshear bond strength study (n=360 total, 12 groups; Vita Mark II feldspathic and Vita Enamic PICN; HF etching + Monobond N silane; baseline 24 h vs 5,000 thermocycles 5–55°C) comparing three luting strategies for silica-based ceramics.
 
-## 한줄요약
+Preheated composite (68°C, Filtek P60) achieved the highest µSBS to both feldspathic ceramic and PICN at baseline and after thermocycling, outperforming conventional resin cement (Multilink N) and flowable composite (Tetric N Ceram); all groups declined significantly after 5,000 cycles.
 
-인 비트로 (n=360, 12그룹): 예열 복합레진(68°C)이 장석질 도재와 PICN 모두에서 기저시 및 열순환 후 최고 미세전단결합강도를 달성하여 레진 시멘트·유동성 복합레진 보다 우수; 모든 그룹이 5,000 열순환 후 유의미하게 감소.
+Preheated composite is a viable and superior alternative to conventional resin cement for silica-based ceramic adhesive cementation; flowable composite performed worst and raises fracture-risk concerns — clinicians should avoid it as a sole luting agent.
+
+## 세줄요약
+
+In vitro 미세전단결합강도(Microshear Bond Strength, µSBS) 연구(n=360, 12군; Vita Mark II 장석질 도재 및 Vita Enamic PICN; HF 산처리 + Monobond N 실란; 24시간 기저시 vs 열순환 5,000회): 실리카계 도재에 대한 3종 합착 전략 비교.
+
+예열 복합레진(68°C, Filtek P60)이 장석질 도재와 PICN(폴리머 침윤 세라믹 네트워크, Polymer Infiltrated Ceramic Network, PICN) 모두에서 기저시·열순환 후 최고 µSBS 달성 — 전통 레진 시멘트(Multilink N)와 유동성 복합레진(Tetric N Ceram) 초과; 모든 군에서 5,000 열순환 후 유의한 감소.
+
+실리카계 도재 접착 합착에서 예열 복합레진은 전통 레진 시멘트보다 우수한 대안이며, 유동성 복합레진은 결합강도 최저·파절 위험으로 단독 합착제 사용을 피해야 함.
 
 ## Summary
 

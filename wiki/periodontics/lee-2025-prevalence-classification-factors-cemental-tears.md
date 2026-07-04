@@ -19,13 +19,21 @@ relations:
     target: liang-2025-cemental-tear-diagnosis-treatment-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cross-sectional study (n=445 teeth, Hong Kong postgraduate endodontic clinic, 2019-2024) finding 5.6% prevalence of cemental tear and four independent risk factors (incisor tooth type, tooth mobility, severe crestal bone loss, adequate root filling quality) on multivariate logistic regression, with PR sensitivity only 0.6 vs CBCT.
+Retrospective cross-sectional study (n=445 teeth from a Hong Kong university postgraduate endodontic clinic, 2019–2024) using combined periapical radiograph + high-resolution small-FOV CBCT to estimate cemental tear prevalence.
 
-## 한줄요약
+Prevalence was 5.6% (25/445); multivariate logistic regression identified four independent risk factors: incisor tooth type (molars OR 0.08), tooth mobility (Grade 3 OR 48.27), severe crestal bone loss ≥70% (OR 10.83), and adequate root canal obturation quality (OR 8.38); periapical radiograph sensitivity was only 0.60 vs CBCT.
 
-홍콩 대학 근관치료 전문 클리닉 후향적 단면 연구(치아 445개)로 시멘트질 열개 유병률 5.6%를 보고하고, 다변량 분석에서 전치부·치아동요도·심한 치조골 소실·적절한 근관충전이 독립적 위험인자임을 확인했다.
+CBCT is the preferred imaging modality because periapical films miss 40% of confirmed cemental tear cases, and the majority of cases (76%) present with extensive apico-marginal bone loss (Class 2/4, Stage C/D) — underscoring the diagnostic challenge in this referral-level population.
+
+## 세줄요약
+
+홍콩 대학 근관치료 전문 클리닉 후향적 단면 연구 (n=445치아, 2019–2024): 치근단 방사선 + 소시야 CBCT 병용으로 시멘트질 열개 유병률 추정.
+
+유병률 5.6%(25/445); 다변량 분석에서 전치부(구치 OR 0.08), 치아동요도(3도 OR 48.27), 심한 치조골 소실 ≥70%(OR 10.83), 적절한 근관충전(OR 8.38)이 독립적 위험인자; 치근단 방사선의 민감도는 CBCT 대비 0.60에 불과.
+
+확진 증례의 40%가 치근단 방사선으로만 발견되지 않았고 대부분(76%)이 광범위한 치근첨-변연 골소실(Class 2/4, Stage C/D)로 발현돼, CBCT가 1차 진단 수단으로 권장된다.
 
 ## Summary
 

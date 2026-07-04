@@ -33,12 +33,21 @@ source_wiki:
 > - 측정 신뢰성: Osstell 급내상관계수 (ICC)=0.97로 단회 측정 충분, Osstell vs Osseo 100 호환 (r>0.95). SmartPeg 한 번 체결·협설 1회 측정이면 충분 (4방향 평균 불필요). Anycheck(IST/DCA)는 Osstell(ISQ/RFA)과 동등한 경향을 보이며 측정자 독립적 — 저밀도골(D3–D4)에서 임플란트 길이 연장 효과가 ISQ·IST 모두 확인 (Lee 2024 체외 연구).
 > - 6대 임상원칙: ① ISQ ≥70 표준 안전선, ② 즉시부하 ISQ ≥70+IT ≥35 Ncm, ③ 6–8주 조기부하 IT >40 Ncm, ④ D4 골 ISQ 58–65 정상, ⑤ 신선 발치와 ITV 우선, ⑥ 상악동 동시식립 OD 시 ISQ ~10 상승. ISQ 절대 단독 사용 금지.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-category synthesis (27 ISQ-citing pages) building a confidence-graded matrix for the Implant Stability Quotient (ISQ) loading-decision threshold. Core thesis: the robust threshold is <70 risky / ≥70 safe (Andersson 2019, n=745, 5y CSR 97.3%), with immediate loading requiring ISQ ≥70 + insertion torque (IT) ≥35 Ncm (Wittneben 2023 SR); but ISQ is never a standalone decision metric — it must be read together with bone quality, IT, surface treatment, and timing (ISQ–IT correlation only r=0.44, I²>90%, Tisci 2026 SR+MA), Type IV bone normally runs ISQ 58–65 (do not auto-delay), fresh sockets read artificially low (use ITV), and surface treatment changes the speed of reaching threshold (stability dip) rather than the threshold itself.
+Cross-category synthesis of 27 ISQ-citing wiki pages: the robust loading threshold is ISQ <70 risky / ≥70 safe (Andersson 2019, n=745, 5y CSR 97.3%); immediate loading additionally requires insertion torque (IT) ≥35 Ncm alongside ISQ ≥70 (Wittneben 2023 SR); early loading at 6–8 weeks is supported when IT >40 Ncm alone (Andreatta 2020); the 60–70 gray zone requires per-case monitoring rather than automatic delay.
 
-## 한줄요약
-ISQ 부하 결정의 견고한 임계값은 **<70 위험·≥70 안전**(Andersson 2019, n=745, 5년 CSR 97.3%)이고, ITV ≥35 Ncm 동반 시 즉시부하 가능(Wittneben 2023 SR); 단, ISQ는 단독 결정 지표가 아닌 골질·삽입토크·표면처리·시점과 함께 해석해야 함 (ISQ–IT 상관 r=0.44, I²>90%, Tisci 2026 SR+MA).
+ISQ is never a standalone metric — ISQ–IT correlation is only r=0.44 with I²>90% (Tisci 2026 SR+MA), meaning both measures should be taken; Type IV bone normally falls at ISQ 58–65 (1.92× higher failure risk than Type I, Rosa 2024) — do not auto-delay below 70 in posterior maxilla; fresh extraction sockets give artificially low ISQ (~57 vs healed bone ~72; Bavetta 2019), so IT is the primary criterion there.
+
+Surface treatment and OD accelerate threshold-reaching speed (stability dip removed in D3/D4 bone; hydrophilic surfaces narrow the dip; OD adds ISQ advantage in TSFE cases) but do not lower the threshold itself; cortical bone at <3 mm depth is the dominant ISQ determinant (r=0.885; preassess on CBCT); tapered design raises IT without guaranteeing higher ISQ — high IT should not substitute for direct ISQ measurement.
+
+## 세줄요약
+
+ISQ 인용 27편 횡단 합성: 부하 결정 임계값은 <70 위험·≥70 안전(Andersson 2019, n=745, 5년 CSR 97.3%); 즉시부하는 ISQ ≥70 + IT ≥35 Ncm 양조건 충족 필요(Wittneben 2023 SR); 6–8주 조기부하는 IT >40 Ncm 단독으로 가능(Andreatta 2020); 60–70 회색지대는 자동 지연이 아닌 개별 모니터링.
+
+ISQ는 단독 결정 지표 불가 — ISQ–IT 상관 r=0.44, I²>90%(Tisci 2026 SR+MA), 두 지표 모두 측정 권장; Type IV 골은 ISQ 58–65가 정상분포(실패위험 Type I 대비 1.92배, Rosa 2024) — 상악 구치부서 70 미달에 자동 지연 금지; 신선 발치와는 ISQ 인위적 저하(~57 vs 치유골 ~72) — IT 우선 기준.
+
+표면처리·골밀도화(OD)는 임계값 자체가 아니라 **임계값 도달 속도**를 가속(D3/D4 stability dip 제거, TSFE 동시 식립에서 ISQ 유의 상승); 피질골 두께 3 mm 이내가 ISQ의 지배적 결정인자(r=0.885) — CBCT 식립 전 평가로 ISQ 예측; 테이퍼 디자인은 IT를 올려도 ISQ를 보장 안 함 — 고 IT를 ISQ 대용으로 쓰지 말 것.
 
 ---
 

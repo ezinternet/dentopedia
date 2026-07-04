@@ -19,13 +19,21 @@ relations:
     target: bidra-2019-should-healing-abutments-cover-screws
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT on 90 implants + 90 healing abutments (80 patient-retrieved): repeated NaOCl-only cleaning progressively enlarged micro-gap/microleakage and shrank the implant–HA contact surface, while combined chemical + electrochemical decontamination removed debris up to triple use without surface alteration (near the new-HA control) — Ti HA reuse is acceptable multiple times only with the combined protocol.
+RCT (90 bone-level titanium implants + 90 HAs, 80 patient-retrieved) comparing NaOCl-only ultrasonication vs combined chemical + electrochemical decontamination across single, double, triple, and >triple reuse cycles, measuring micro-CT contact surface area, micro-gap, microleakage, and SEM/EDX surface morphology.
 
-## 한줄요약
+Repeated NaOCl-only cleaning progressively worsened the implant–HA interface (largest micro-gap and microleakage at >triple use), while the combined chemical + electrochemical protocol removed debris up to triple use without surface alteration, staying near the new-HA control.
 
-RCT (임플란트 90 + 힐링어버트먼트 90개, 그중 80개는 환자에서 회수): NaOCl 단독 세척을 반복하면 micro-gap·미세누출이 점점 커지고 임플란트–HA 접촉면이 줄었으나, 화학 + 전기화학 병용 세척은 3회 재사용까지 표면 변화 없이 오염물을 제거해 신품 대조군에 근접 — 티타늄 HA 다회 재사용은 병용 프로토콜을 쓸 때만 허용된다.
+Titanium HA reuse is acceptable for multiple cycles only with the combined chemical + electrochemical protocol; NaOCl alone damages the implant–abutment interface with repeated reuse.
+
+## 세줄요약
+
+RCT(골-수준 티타늄 임플란트 90개 + 힐링어버트먼트 90개, 80개 환자 회수): NaOCl 단독 초음파 세척 vs 화학 + 전기화학(Electrochemical) 병용 세척을 단회·2·3·3회 초과 재사용별로 비교 — micro-CT 접촉면적·미세틈새(Micro-gap)·미세누출·SEM/EDX 평가.
+
+NaOCl 단독 반복 세척은 재사용 횟수에 따라 micro-gap·미세누출이 점진적으로 악화(3회 초과 시 최대)된 반면, 병용 프로토콜은 3회 재사용까지 표면 변화 없이 오염물 제거 — 신품 대조군에 근접.
+
+티타늄 HA 다회 재사용은 화학 + 전기화학 병용 프로토콜 사용 시에만 허용 — NaOCl 단독 사용은 반복 재사용 시 임플란트-어버트먼트 계면을 손상.
 
 ## Summary
 

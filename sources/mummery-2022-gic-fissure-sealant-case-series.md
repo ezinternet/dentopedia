@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Real-world GIC fissure-sealant retention data for the preventive arm of the GIC cluster; supports [[glass-ionomer/mummery-2022-gic-fissure-sealant-case-series]].
 
-## One-line Summary
+## Three-line Summary
+
 Retrospective case series reporting ~77% GIC fissure-sealant retention in high-caries-risk paediatric patients awaiting GA.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 GIC fissure sealant case series — 고우식위험 소아에서 평균 77% 유지율.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 BDJ Open 2022; 8: 25. DOI 10.1038/s41405-022-00119-3. Open access. Harrogate and District NHS Foundation Trust Community Dental Service, UK.

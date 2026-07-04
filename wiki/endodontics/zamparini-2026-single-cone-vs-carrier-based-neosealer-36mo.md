@@ -21,13 +21,21 @@ relations:
     target: gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (53 RCTs, 48 patients, NeoSealer Flo) — single-cone vs carrier-based had equivalent 36-mo healing (93% vs 88%, p>0.05) but carrier-based showed significantly more apical sealer extrusion (75% vs 48.2%); extrusion did not compromise healing.
+Retrospective cohort (53 root canal treatments, 48 patients, Bologna postgraduate operators) directly comparing cold single-cone vs warm carrier-based (Thermafil) obturation, both using the premixed calcium-silicate sealer NeoSealer Flo, at 36 months.
 
-## 한줄요약
+Healing was equivalent (single-cone 93% vs carrier-based 87.5%, absolute difference 5.6%, 95% CI −10.5 to 21.7, NS); carrier-based produced significantly more apical extrusion (75% vs 48.2%, mean 1.49 mm), driven by the technique and preoperative PAI >3, but extrusion did not affect healing.
 
-후향 코호트(53건, 48명, NeoSealer Flo) — 단일콘 vs carrier-based의 36개월 치유율은 동등(93% vs 88%, p>0.05)했으나 carrier-based에서 치근단 실러 압출이 유의하게 많았다(75% vs 48.2%); 압출은 치유를 저해하지 않았다.
+Both techniques are clinically acceptable with NeoSealer Flo, and first clinical data for this sealer in carrier-based workflows; retrospective design, small n, and operator-preference allocation limit inference strength.
+
+## 세줄요약
+
+후향 코호트(볼로냐 대학원생 술자, 53건, 48명) — NeoSealer Flo 프리믹스 칼슘실리케이트 실러를 cold single-cone vs warm carrier-based(Thermafil) 두 술식으로 적용, 36개월 비교.
+
+치유율 동등(단일콘 93% vs carrier-based 87.5%, 차이 5.6%, 95% CI −10.5~21.7, 무의차); carrier-based에서 근단 압출 유의하게 많음(75% vs 48.2%); 압출은 치유에 영향 없음.
+
+NeoSealer Flo는 두 술식 모두에서 임상적으로 허용 가능하며 NeoSealer Flo의 첫 carrier-based 임상 데이터; 후향적 설계·소표본·술자 선호 배정이 한계.
 
 ## Summary
 

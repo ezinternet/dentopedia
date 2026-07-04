@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)에서 **항균효과의 시간감쇠(time-decay)**를 정량적으로 보여주는 지르코니아 근거. [[wiki/implants/surface/plasma/lee-2022-plasma-contaminated-zirconia-gingivalis-osteoblast]]의 비단조 용량반응과 함께, 플라즈마 제염 이득이 일시적임을 보강해 [[wiki/overviews/plasma-surface-treatment-dental-implants]]의 한정 시나리오를 강화.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study on zirconia: helium cold atmospheric plasma (CAP) increased O/C ratio and hydrophilicity with good biocompatibility, and inhibited early S. mutans adhesion/biofilm via reactive oxygen species — but the antibacterial effect lasted only ~24 h, was attenuated at 48 h, and disappeared by 72 h after treatment.
+In vitro study on zirconia discs treated with helium cold atmospheric plasma (CAP), evaluating surface chemistry (O/C ratio, hydrophilicity), cytotoxicity, and time-course S. mutans adhesion/biofilm inhibition over 24–72 h.
 
-## 한줄요약
+Helium CAP increased the O/C ratio and hydrophilicity and showed good biocompatibility; reactive oxygen species inhibited early S. mutans adhesion and biofilm, but the antibacterial effect lasted only ~24 h, was attenuated at 48 h, and had disappeared entirely by 72 h post-treatment.
 
-지르코니아 in vitro: 헬륨 저온대기압 플라즈마(CAP)는 O/C 비·친수성을 높이고(생체적합성 양호) 반응성 산소종으로 S. mutans 초기 부착·바이오필름을 억제했으나, 항균효과는 약 24시간만 지속되고 48시간에 약화, 72시간에 소실되었다.
+The transient (≤24 h) window of antibacterial protection means that in clinical zirconia prosthetic workflows, plasma treatment must be timed immediately before tissue contact to capture any antimicrobial benefit; single-species in vitro design limits generalizability.
+
+## 세줄요약
+
+지르코니아 디스크 in vitro 연구 — 헬륨 저온대기압 플라즈마(CAP) 처리 후 표면화학(O/C 비·친수성), 세포독성, 24~72시간 시계열 S. mutans 부착·바이오필름 억제를 평가.
+
+CAP는 O/C 비·친수성을 높이고 생체적합성 양호; 반응성 산소종으로 S. mutans 초기 부착·바이오필름을 억제했지만 항균효과는 약 24시간만 지속, 48시간에 약화, 72시간에 완전 소실.
+
+항균 이득 창이 24시간 이내이므로 지르코니아 보철 임상에서는 플라즈마 처치 후 즉시 조직 접촉해야 효과를 얻을 수 있고, 단일 균종 in vitro 설계로 임상 일반화는 제한적임.
 
 ## 1. Document Information
 

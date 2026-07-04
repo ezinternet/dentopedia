@@ -19,13 +19,21 @@ relations:
     target: liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (4 studies eligible, 3 meta-analysed) — adding an oral irrigator to toothbrushing did NOT outperform dental floss for plaque-index (SMD −0.88, 95% CI −2.25 to 0.50, p=0.10, I²=98%) or bleeding-index (SMD −0.90, 95% CI −2.78 to 0.98, p=0.35) reduction in fixed-orthodontic patients; very high heterogeneity, weak evidence.
+Systematic review and meta-analysis (PROSPERO CRD42023395736; multi-database search to May 2024; 975 records screened → 4 eligible studies → 3 meta-analysed) comparing oral irrigator (OI) vs dental floss (DF), each adjunct to toothbrushing, in fixed-orthodontic patients.
 
-## 한줄요약
+OI did not outperform DF for plaque index (SMD −0.88, 95% CI −2.25 to 0.50, p=0.10, I²=98%) or bleeding index (SMD −0.90, 95% CI −2.78 to 0.98, p=0.35); both CIs crossed the null and heterogeneity was extreme (I²=98%).
 
-SR+MA (적격 4편, 메타분석 3편) — 고정식 교정 환자에서 칫솔질에 구강세정기(oral irrigator)를 추가해도 치실 대비 치태지수(PI SMD −0.88, 95% CI −2.25~0.50, p=0.10, I²=98%)·출혈지수(BI SMD −0.90, 95% CI −2.78~0.98, p=0.35) 감소에서 우월하지 않았다. 이질성이 매우 커 근거가 약하다.
+Oral irrigators are effective interdental aids in orthodontic patients (both reduce indices from baseline) but not superior to dental floss; with only 4 studies, extreme heterogeneity, and wide CIs, the evidence is weak and choice can follow patient preference and compliance.
+
+## 세줄요약
+
+SR+MA(PROSPERO CRD42023395736; 2024년 5월까지 다중 DB 검색; 975편 → 적격 4편 → 메타분석 3편): 고정 교정 환자에서 칫솔질에 구강세정기(Oral Irrigator, OI) vs 치실(DF)을 보조로 추가하는 비교.
+
+OI가 DF 대비 치태지수(PI SMD −0.88, 95% CI −2.25~0.50, p=0.10, I²=98%)와 출혈지수(BI SMD −0.90, 95% CI −2.78~0.98, p=0.35) 모두에서 비우월; 두 신뢰구간 모두 귀무값 교차, 이질성 극심(I²=98%).
+
+구강세정기는 교정 환자에서 기저치 대비 치태·출혈을 줄이는 유용한 보조 도구이나 치실보다 우월하지 않음; 4편만 포함, 극심한 이질성, 넓은 신뢰구간으로 근거 수준이 낮아 선택은 환자 선호도와 순응도에 따라야 한다.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Case report: immediate implant placement into maxillary molar palatal root sockets to provide distal support in All-on-X full-arch rehabilitations and avoid posterior cantilevers, reporting successful integration and prosthetic loading; case-level, technique-sensitive evidence without comparative data.
+## Three-line Summary
 
-## 한줄요약
-Case report: All-on-X에서 후방 cantilever를 줄이기 위해 상악 대구치의 palatal root socket에 임플란트 배치 — 즉시식립과 full-arch 보철 설계를 연결.
+Case report (Yaghmai & Kurtzman, 2025) describing immediate implant placement into the palatal root sockets of maxillary molars specifically to provide distal support in All-on-X full-arch rehabilitations.
+
+Successful osseointegration and prosthetic loading without distal cantilever were reported in the documented cases using the palatal-root-socket placement approach.
+
+Case-level evidence only; technique-sensitive; no comparative outcome data or controlled follow-up to validate the approach against conventional All-on-X implant positioning.
+
+## 세줄요약
+
+증례 보고(Yaghmai & Kurtzman, 2025): All-on-X 전악 수복에서 후방 캔틸레버(cantilever)를 줄이기 위해 상악 대구치 구개근 소켓(palatal root socket)에 즉시 임플란트를 배치하는 기법 기술.
+
+보고된 증례에서 골유착 및 보철 수복이 성공적으로 이루어졌으며 원심 캔틸레버 없이 완성됨.
+
+증례 수준 근거이며 비교 데이터가 없어 기존 All-on-X 식립 위치 대비 효과를 검증하려면 대조 연구가 필요함.
 
 ## Summary
 Case report describing immediate implant placement into maxillary molar palatal root sockets specifically to provide distal support in All-on-X full-arch rehabilitations, avoiding long cantilevers.

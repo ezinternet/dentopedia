@@ -13,11 +13,21 @@ source_collection: external
 tags: [immediate-implant, osseodensification, IDR, periodontally-compromised, autogenous-bone-block, tuberosity-graft, case-report]
 ---
 
-## One-line Summary
-Two-case clinical report combining the Immediate Dentoalveolar Restoration (IDR) technique (autogenous tuberosity bone block reconstruction of the buccal plate) with osseodensification (OD) osteotomy in periodontally compromised extraction sockets: OD qualitatively raised insertion torque enough to support immediate provisionalization. Proof-of-concept only (n=2, no comparator, paywalled — no extractable quantitative outcomes); do not generalize.
+## Three-line Summary
 
-## 한줄요약
-증례 보고 (case-report), n=2 — 치주적으로 손상된 발치와에서 immediate dentoalveolar restoration (IDR, 자가 결절골 블록으로 협측골 재건) + 골밀도화 (Osseodensification, OD) 병용으로 즉시 임플란트의 일차 안정성(삽입토크 상승)을 확보. 정량 데이터가 추출 가능 본문에 거의 없고 페이월로 인해 독립 검증 불가, 결론 일반화 금지.
+Two-case clinical report (n=2, proof-of-concept) combining the Immediate Dentoalveolar Restoration (IDR) technique — autogenous tuberosity bone block buccal-plate reconstruction — with osseodensification (OD) osteotomy in periodontally compromised maxillary extraction sockets.
+
+Authors report OD raised insertion torque sufficient for immediate provisionalization in both cases; soft- and hard-tissue positioning appeared favorable on CBCT follow-up, but no extractable quantitative outcomes (no Ncm, ISQ, or MBL values reported in available text).
+
+Evidence is the weakest tier (n=2, no comparator, one author is OD inventor); findings support hypothesis generation only and cannot be generalized to routine practice.
+
+## 세줄요약
+
+증례 보고 (n=2, 개념증명) — 치주적으로 손상된 상악 발치와에서 IDR(자가 결절골 블록으로 협측골 재건) + 골밀도화(Osseodensification, OD) 병용 프로토콜 기술.
+
+두 증례 모두 OD 삽입토크 향상으로 즉시 임시 보철 시행; CBCT상 연·경조직 위치 유지. 그러나 추출 가능 본문에 정량 수치(Ncm·ISQ·MBL) 없고 페이월로 독립 검증 불가.
+
+최약 근거 단계(n=2, 비교군 없음, 1인 저자가 OD 발명자); 일반화 금지, 가설 생성 수준으로만 해석.
 
 ## Summary
 This is a two-case clinical report illustrating a workflow that combines the Immediate Dentoalveolar Restoration (IDR) technique — autogenous tuberosity bone block reconstruction of the buccal plate at the time of extraction — with osseodensification (OD) osteotomy preparation, applied to periodontally compromised extraction sockets where conventional immediate implant placement would struggle to obtain primary stability.

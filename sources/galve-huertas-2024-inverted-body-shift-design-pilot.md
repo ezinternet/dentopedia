@@ -9,7 +9,7 @@ pdf_filename: galve-huertas-2024-inverted-body-shift-design-pilot.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective clinical pilot study of an inverted body-shift implant design with a 12-degree angled platform for immediate placement in the esthetic zone.
 
 ## 1. Document Information

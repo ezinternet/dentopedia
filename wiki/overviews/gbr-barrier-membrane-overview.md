@@ -31,13 +31,21 @@ tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, prog
 > - 임상 takeaway: 1차 결정은 가교화 종류가 아니라 결손 유형이며, 어떤 흡수성 막도 공간 유지가 필요한 결손에는 내부 이식재 (DBBM 선호) 가 필수다. 막 노출을 막는 무장력 봉합이 막 재료 선택보다 결과에 더 큰 영향을 준다.
 > - Mizraji 2023 (Periodontology 2000, 2023) 이 Sasaki 2021의 흡수성/비흡수성 분류를 독립적으로 재확인하며, 정량적 노출위험 위계를 추가: 티타늄 메쉬 (7–66%) > 가교화 콜라겐 (native 대비 ~30% 높음) > native 콜라겐 > d-PTFE (~15%, open-healing 허용). 두 개의 독립적 Tier-1 리뷰가 같은 분류에 수렴 — 분류 신뢰도 강화.
 
-## One-line Summary
+## Three-line Summary
 
-Across 12 papers (3 narrative reviews, 5 animal studies, 1 prospective clinical trial, 1 systematic review, 1 bench study), GBR barrier membranes divide cleanly by a single upstream variable — resorbability — with the crosslinking strategy determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold, while next-generation "programmable interface" designs targeting macrophage M1→M2 polarization (now concretely realized by metal-phenolic electrospun membranes) and clinical-stage synthetic-resorbable membranes (3D-preformed PLGA achieving titanium-mesh-comparable augmentation without exposure) represent the active frontier.
+Synthesis of 12 papers (3 narrative reviews, 5 animal studies, 1 prospective trial, 1 SR, 1 bench study): GBR barrier membranes divide by a single upstream variable — resorbability — with crosslinking chemistry determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold (native collagen only lasts 2–4 weeks; EDC and ribose crosslinking extend this adequately).
 
-## 한줄요약
+Space maintenance requires graft support in all cases (membrane-alone collapses at 2 weeks; Park 2015), defect type governs membrane resorbability choice (horizontal → crosslinked collagen; vertical → non-resorbable), and for dehiscence defects the membrane's primary role may be graft containment rather than osteogenesis induction.
 
-12편(서술적 고찰 3·동물 5·임상 전향 1·체계적 고찰 1·벤치 1) 종합 — GBR 차폐막은 흡수성/비흡수성이라는 단일 상류 변수로 분기하며, 가교화 전략이 콜라겐막의 16–24주 차단기능 충족 여부를 결정한다; 차세대 '프로그래머블 인터페이스'(금속-페놀 전기방사막으로 구현)와 임상 진입한 합성 흡수성막(노출 0건의 3D PLGA)이 현재 최전선이다.
+Next-generation "programmable interface" membranes targeting macrophage M1→M2 polarization (concretely realized by curcumin-strontium metal-phenolic SF/PCL electrospun membranes in vitro) and clinical-stage 3D-preformed PLGA membranes (zero exposure, ~3 mm augmentation) represent the active frontier but remain research-stage or early clinical.
+
+## 세줄요약
+
+12편(서술적 고찰 3·동물 5·임상 전향 1·SR 1·벤치 1) 종합: 골유도재생술(Guided Bone Regeneration, GBR) 차폐막은 흡수성/비흡수성이라는 단일 상류 변수로 분기하며, 가교화(crosslinking) 전략이 콜라겐막의 16–24주 차단기능 충족 여부를 결정한다(천연 콜라겐은 2–4주에 흡수되어 부족, EDC·리보스 가교화가 해법).
+
+공간 유지는 모든 경우에 이식재가 필수(막 단독군은 2주에 함몰; Park 2015), 결손 유형이 막 선택을 결정하며(수평 → 가교화 콜라겐, 수직 → 비흡수성), 작은 이개열 결손에서 막의 역할은 골형성 촉진이 아닌 이식재 봉쇄일 수 있다.
+
+차세대 '프로그래머블 인터페이스' 막(대식세포 M1→M2 편극화 표적; 커큐민-스트론튬 금속-페놀 전기방사막으로 구현)과 임상 진입한 3D 예성형 PLGA막(노출 0건·~3 mm 수평 증대)이 최전선이나 아직 연구 단계 또는 초기 임상이다.
 
 ---
 

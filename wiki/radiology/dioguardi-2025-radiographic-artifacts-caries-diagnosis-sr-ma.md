@@ -22,13 +22,21 @@ relations:
     target: elkhateeb-2022-psp-image-plate-artifacts-prevalence
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (Oral Radiol 2025, 5 studies, PROSPERO-registered) of radiographic optical artifacts on intraoral bitewing/periapical images: non-carious triangular-shaped radiolucencies (TSR) on maxillary molars had ~26% raw prevalence (pooled 0.308, I²≈98%) — markedly higher in primary (~51%) than permanent (~27%) molars — and optical effects (TSR, Mach band, cervical burnout) were misread as caries/fracture in ~13% of observations (pooled 0.133); GRADE certainty low to very low.
+SR+MA (PROSPERO-registered, 5 observational studies, 2001–2021) of interpretive radiographic optical artifacts — triangular-shaped radiolucencies (TSR), Mach band, cervical burnout — on intraoral bitewing/periapical images.
 
-## 한줄요약
+Non-carious TSR prevalence on maxillary molars: ~26% raw (pooled 0.308, I²≈98%), markedly higher in primary (~51%) vs permanent (~27%) molars; optical effects misread as caries/fracture in ~13% of observations (pooled 0.133, I²=89%).
 
-체계적 문헌고찰+메타분석(Oral Radiol 2025, 5편, PROSPERO 등록): 구내 bitewing/치근단 영상의 광학 artifact — 상악 대구치 비우식성 삼각형 방사선투과상(Triangular-Shaped Radiolucency, TSR) 유병률 ~26%(pooled 0.308, I²≈98%), 유치(~51%)가 영구치(~27%)보다 훨씬 높음. 광학효과(TSR·마하밴드 Mach band·치경부 소각 cervical burnout)가 우식/파절로 오인된 위양성 ~13%(pooled 0.133); GRADE 근거등급 낮음~매우 낮음.
+~13% false-positive rate drives unnecessary restorative/endodontic/extraction treatment; defense strategies include the masking test, digital contrast adjustment, beam-angle control, and correlating every radiograph with clinical examination; GRADE certainty low to very low.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (관찰 연구 5편, 2001–2021) — 구내 bitewing/치근단 영상의 해석적 광학 아티팩트 (삼각형 방사선투과상 Triangular-Shaped Radiolucency, TSR; 마하밴드 Mach band; 치경부 소각 cervical burnout) 분석.
+
+상악 대구치 비우식성 TSR 유병률: raw ~26% (pooled 0.308, I²≈98%), 유치 (~51%) > 영구치 (~27%); 광학효과가 우식/파절로 오인된 위양성 ~13% (pooled 0.133, I²=89%).
+
+~13% 위양성이 불필요한 수복·근관·발치치료로 이어짐; 차폐 검사 (masking test)·디지털 대비 조정·조사각 조절·임상검사 병행이 방어책; GRADE 근거등급 낮음~매우 낮음.
 
 ## Summary
 

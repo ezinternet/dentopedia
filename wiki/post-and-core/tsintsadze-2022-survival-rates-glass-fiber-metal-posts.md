@@ -19,13 +19,21 @@ relations:
     target: van-landuyt-2025-rct-glass-fiber-versus-metal-posts
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (≥2-yr follow-up): endodontically treated teeth restored with glass-fiber posts had 92.8% survival vs 78.1% for metal posts, but the difference was NOT statistically significant; both are reliable when a post is indicated.
+PRISMA/PICOS SR+MA restricted to 7 RCTs with ≥2-year follow-up comparing clinical survival, success, and failure of endodontically treated teeth restored with glass-fiber-reinforced vs metal posts (Medline/Embase/Scopus + hand search from 188 records).
 
-## 한줄요약
+Glass-fiber posts pooled to 92.8% survival vs 78.1% for metal posts — a 14.7-percentage-point gap that did not reach statistical significance (P>.05); no significant difference in success rate, post debonding, or root fracture was detected.
 
-RCT 7편 SR+MA(≥2년 추적): 근관치료치아를 유리섬유 포스트로 수복 시 생존율 92.8%, 금속 포스트 78.1%였으나 통계적 차이는 없었음 — 포스트가 필요한 상황에서 둘 다 신뢰할 만한 재료.
+Both materials are clinically reliable when a substantial amount of coronal structure is missing and a post is indicated; this RCT-level evidence is consistent with the 15-year Van Landuyt 2025 RCT showing the same non-significant trend favoring fiber posts.
+
+## 세줄요약
+
+PRISMA/PICOS SR+MA (RCT 7편, 추적 ≥2년): 유리섬유 포스트 vs 금속 포스트로 수복된 근관치료치의 임상 생존·성공·실패를 비교 (Medline/Embase/Scopus 등 188건 검색).
+
+유리섬유 포스트 생존율 92.8% vs 금속 포스트 78.1% — 14.7%p 차이이나 통계적 유의성 없음 (P>.05); 성공률·포스트 탈락·치근파절 모두 유의차 없음.
+
+치관부 치질 손실이 심하고 포스트가 필요한 상황에서 두 재료 모두 임상적으로 신뢰할 수 있음; 이 RCT 수준 근거는 같은 방향의 비유의적 경향을 보인 Van Landuyt 2025 (15년 RCT)와 일치한다.
 
 ## Summary
 

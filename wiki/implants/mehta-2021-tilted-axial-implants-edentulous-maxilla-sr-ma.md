@@ -13,13 +13,21 @@ source_collection: external
 tags: [tilted-implant, axial-implant, edentulous-maxilla, immediate-loading, all-on-4, marginal-bone-loss]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (11 studies survival, 7 MBL) finding no significant difference between tilted and axial implants in immediately loaded atrophic edentulous maxillae at 3 years for implant survival (RR 1.00, 95% CI 0.98–1.01) or marginal bone loss (MD −0.02 mm, 95% CI −0.09 to 0.06).
+SR+MA (11 studies for survival, 7 for MBL) comparing tilted vs axial implants in immediately loaded atrophic edentulous maxillae.
 
-## 한줄요약
+Implant survival at 3 years: RR 1.00 (95% CI 0.98–1.01, P=0.59); marginal bone loss: MD −0.02 mm (95% CI −0.09 to 0.06, P=0.69) — no significant difference on either endpoint.
 
-SR+MA(생존 11편·MBL 7편) — 위축 무치악 상악 즉시 로딩 재건에서 3년 시점 경사식립과 축방향 임플란트 간 생존율(RR 1.00)·변연골소실(MD −0.02 mm) 차이가 없었다.
+Tilted implants (All-on-4-type designs) are biomechanically justified for full-arch maxillary rehabilitation without survival or bone-loss penalty over axial placement.
+
+## 세줄요약
+
+SR+MA (생존 11편·변연골소실 7편) — 즉시 로딩 위축 무치악 상악에서 경사 vs 축방향 임플란트 비교.
+
+3년 시점 생존율 RR 1.00 (P=0.59), 변연골소실 (Marginal Bone Loss, MBL) MD −0.02 mm (P=0.69) — 두 지표 모두 유의차 없음.
+
+All-on-4형 경사식립은 생존율·골소실 면에서 축방향과 동등 — 위축 상악 전악 수복 시 경사식립 생물역학적 타당성 확인.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [osteotomy, thermal-necrosis, drill-design, BIC, osseointegration, minipig, in-vivo]
 ---
 
-## One-line Summary
-Preclinical in vivo minipig study (n=36 implants, 4 drilling protocols): optimized novel test drills with a shortened sequence lowered peak intraosseous temperature (35.4 vs 46.5°C, p=.0021) and drill time (4.5 vs 10.3 s) and raised bone-to-implant contact (BIC) at 2 weeks (44.9 vs 31.3%, p<.0001), giving direct evidence that reduced drill heat improves osseointegration.
+## Three-line Summary
 
-## 한줄요약
-미니피그 in vivo(COIR 2021, n=36): 최적화된 표면처리 신형 drill + 축약 시퀀스 → 골내 최고온도 35.4°C vs 대조 46.5°C(p=.0021), drill 시간 4.5 vs 10.3초, BIC 2주 44.9 vs 31.3%(p<.0001) — drill 발열 감소가 실제 골유착 향상으로 이어진다는 직접 증거.
+Preclinical in vivo minipig study (n=36 implants, 4 drilling protocols) directly linking osteotomy thermal exposure to histomorphometric osseointegration outcomes.
+
+Optimized novel test drills with a shortened sequence lowered peak intraosseous temperature (35.4 vs 46.5°C, p=.0021) and drill time (4.5 vs 10.3 s) and raised BIC at 2 weeks (44.9 vs 31.3%, p<.0001).
+
+Drill thermal management is a quantitative determinant of osseointegration — an ~11°C reduction translates to a 13.6 percentage-point BIC gain at 2 weeks; industry sponsorship (Pippenger affiliation) warrants caution.
+
+## 세줄요약
+
+미니피그 in vivo 전임상 연구 (n=36임플란트, 4가지 드릴 프로토콜) — 골내 열 노출과 골유착 조직형태계측 결과를 직접 연결한 첫 연구.
+
+최적화된 신형 드릴 + 축약 시퀀스 → 골내 최고온도 35.4 vs 46.5°C(p=.0021), 드릴 시간 4.5 vs 10.3초, 2주 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 44.9 vs 31.3%(p<.0001).
+
+드릴 발열 관리는 골유착의 정량적 결정인자로 ~11°C 감소 → 2주 BIC 13.6%p 상승; 제조사 관련 저자(Pippenger) 이해충돌 주의.
 
 ## Summary
 The first preclinical in vivo study to directly link osteotomy thermal exposure to histomorphometric osseointegration outcomes. In a minipig mandibular model, 36 tapered implants were placed using one of four drilling protocols. Novel test drills with optimized design and surface treatment, run with a shortened sequence, produced ~11°C lower peak temperatures and ~5× shorter drilling times than standard drills with conservative sequence. These thermal improvements translated to significantly higher BIC at both 2 and 8 weeks, demonstrating that drill thermal profile is an independent contributor to osseointegration quality — not merely a surrogate.

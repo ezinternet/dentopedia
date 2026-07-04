@@ -9,7 +9,7 @@ pdf_filename: shokry-2022-zirconia-crown-primer-cement-retention.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 BMC Oral Health 2022;22:187: 3 primer-cement systems for monolithic zirconia crowns after 50µm Al2O3 abrasion + 10,000 thermocycles — Panavia V5/Clearfil Ceramic Primer Plus > Multilink Speed/Monobond N > Duo-Link/Z-Prime Plus for retention strength.
 
 ## 1. Key Results

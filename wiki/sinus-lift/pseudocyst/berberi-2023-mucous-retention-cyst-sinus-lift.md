@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, lateral-sinus-lift, immediate-implant, case-report, 1-year-follow-up]
 ---
 
-## One-line Summary
-Case report (n=1, 1-year follow-up) documenting management of a mucous retention cyst (MRC) with simultaneous lateral-window sinus lift and immediate implant placement; the implant osseointegrated without complications and survived at 1 year with maintained sinus health, providing a surgical narrative anchor consistent with cohort/SR safety data.
+## Three-line Summary
 
-## 한줄요약
-Case report (Beirut, 2023): MRC 환자에서 lateral sinus lift + 즉시 implant, 1년 후 정착·생존 확인. 의사결정 트리의 surgical narrative anchor.
+Case report (n=1, 1-year follow-up, Beirut) documenting the surgical management of a maxillary sinus mucous retention cyst (MRC) with simultaneous lateral-window sinus lift and immediate implant placement, documented with pre- and postoperative CBCT and clinical photographs.
+
+The implant osseointegrated without complications and survived at 1 year with maintained sinus health; the MRC was managed at the time of sinus lift without requiring a separate ENT procedure.
+
+This case provides a detailed surgical narrative anchor consistent with cohort and SR safety data; however, 1-year follow-up evaluates only early implant stability and generalization from a single case is not possible.
+
+## 세줄요약
+
+증례 보고 (n=1, 1년 추적, 베이루트): 상악동 점액 낭종 (Mucous Retention Cyst, MRC) 환자에서 측방창 상악동거상술 + 즉시 임플란트 식립을 동시에 시행, 수술 전후 콘빔 전산화 단층촬영 (CBCT) 및 임상 사진으로 기록.
+
+합병증 없이 골유착 (Osseointegration) 완성; 1년 임플란트 생존 및 상악동 건강 유지; MRC를 별도 이비인후과 시술 없이 거상술과 동시 처치.
+
+코호트·체계적 문헌고찰의 안전성 데이터와 일치하는 상세 수술 내러티브를 제공하나 1년 추적은 초기 안정성만 평가 가능하고 단일 증례로 일반화 불가.
 
 ## Summary
 Lebanese University 그룹의 단일 case로, MRC 처치와 측방창 거상술·implant 식립의 실제 순서를 사진·CBCT로 상세 기록. Cohort·SR이 보여주는 통계적 안전성과 일치하는 임상 narrative.

@@ -24,13 +24,21 @@ relations:
     target: inchingolo-2024-anticoagulation-therapy-dental-practice-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (n=49 DOAC patients, 136 extractions): bleeding occurred in ~50% intra-/early peri-op and peaked at 46.9% on post-op day 1, yet all episodes were mild and controlled by local hemostasis (gauze ± tranexamic acid); DOAC suspension did NOT reduce post-operative bleeding, while >3 teeth, flap elevation, and osteotomy were the significant drivers.
+Single-center prospective cohort (Pisa, n=49 DOAC patients, 136 extractions; 33/49 suspended pre-op mean 28.5 h, 16/49 continued) with 1-week post-operative follow-up.
 
-## 한줄요약
+Bleeding peaked at 46.9% on post-op day 1 but all episodes were mild and controlled by local measures (gauze ± tranexamic acid); DOAC suspension did not reduce post-operative bleeding at any timepoint; >3 teeth, flap elevation, and osteotomy were the significant procedural drivers.
 
-전향코호트(DOAC 49명·발치 136개): 술중·초기 술후 출혈이 약 50%, 술후 1일째 46.9%로 최고였으나 전부 경미·국소지혈(거즈±트라넥삼산)로 조절. DOAC 중단은 술후 출혈을 줄이지 못했고, 3개 초과 발치·판막거상·골삭제가 유의한 출혈 인자였다.
+For routine extractions, non-interruption of DOAC plus local hemostasis is supported; rivaroxaban carries higher bleeding frequency and dabigatran the lowest, suggesting drug selection may matter for complex cases.
+
+## 세줄요약
+
+단일기관 전향 코호트(피사, DOAC 49명·136개 발치; 33/49 술전 평균 28.5시간 중단, 16/49 지속), 술후 1주 추적.
+
+술후 1일째 출혈률 46.9%로 최고였으나 전부 경미·국소지혈(거즈±트라넥삼산)으로 조절; DOAC 중단은 어떤 시점에서도 술후 출혈을 줄이지 못했으며, 3개 초과 발치·판막거상·골삭제가 유의한 출혈 인자.
+
+루틴 발치에서 DOAC 비중단+국소 지혈 전략 지지; 리바록사반은 출혈 빈도 가장 높고 다비가트란 가장 낮아, 복잡한 케이스에서 약제 선택이 중요할 수 있음.
 
 ## Summary
 

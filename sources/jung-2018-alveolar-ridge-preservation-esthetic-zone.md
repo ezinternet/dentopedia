@@ -9,8 +9,21 @@ pdf_filename: jung-2018-alveolar-ridge-preservation-esthetic-zone.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Periodontology 2000 narrative review (Jung et al., 2018): in the esthetic zone, after extraction the clinician must choose among spontaneous socket healing, immediate implant placement, or alveolar ridge preservation (ARP); three biologically distinct ARP windows (6–8 weeks soft-tissue; 4–6 months hard- and soft-tissue; >6 months hard-tissue) are described, with the choice driven by buccal bone plate height, soft-tissue phenotype, and timing strategy for implant placement.
+## Three-line Summary
+
+Narrative review (Periodontology 2000, 2018, University of Zürich) covering post-extraction management options in the esthetic zone: spontaneous healing, immediate implant placement (Type 1), or alveolar ridge preservation (ARP) — with the choice driven by buccal bone plate status, soft-tissue phenotype, and planned implant timing.
+
+Three biologically distinct ARP windows are defined: 6–8 weeks (soft-tissue preservation for Type 2 placement), 4–6 months (combined hard + soft tissue for compromised buccal plate), and >6 months (full bone reformation prior to staged augmentation), with postextraction horizontal ridge reduction reported at ~50% of width within 12 months.
+
+As a narrative expert review without systematic search or pooled effect sizes, all recommendations carry inherent limitation in evidence grade; the buccal plate thickness measurement remains operator-dependent and long-term peri-implant tissue stability after each ARP window lacks direct head-to-head comparison.
+
+## 세줄요약
+
+내러티브 리뷰 (Periodontology 2000, 2018, 취리히 대학교) — 심미 구역 발치 후 자연 치유·즉시식립(Type 1)·치조제보존술(Alveolar Ridge Preservation, ARP) 중 선택 근거를 구개측 골판 상태·연조직 표현형·식립 타이밍 전략에 따라 정리.
+
+세 가지 ARP 타이밍 윈도우를 정의: 6–8주(Type 2 식립 전 연조직 보존), 4–6개월(협측 골판 부분 손상 시 경·연조직 보존), >6개월(단계적 증대 전 완전 골형성); 발치 후 12개월 내 수평 치조제 폭 ~50% 감소가 문헌에 보고됨.
+
+체계적 검색·정량 통합 없는 전문가 내러티브 리뷰로 모든 권고의 근거 수준이 제한됨; 협측 골판 두께 측정은 술자 의존적이고 각 ARP 윈도우 후 장기 임플란트 주위조직 안정성은 직접 비교 연구가 없음.
 
 ## 1. Document Information
 - **Journal**: Periodontology 2000, Volume 77, Issue 1, pp. 165–175

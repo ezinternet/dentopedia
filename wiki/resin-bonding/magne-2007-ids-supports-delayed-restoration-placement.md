@@ -13,13 +13,21 @@ source_collection: external
 tags: [ids, dds, provisional-period, microtensile-bond-strength, optibond-fl, se-bond, in-vitro, magne]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-JPD 2007 in-vitro µTBS study (50 human molars, OptiBond FL + SE Bond, 10 groups): all immediate dentin sealing (IDS) conditions (control, IDS-2W/7W/12W) retained µTBS >45 MPa with no significant difference up to a 12-week provisional period, whereas delayed dentin sealing (DDS) was very low (SE Bond 1.81 MPa) — confirming IDS bond stability provides a safety margin for lab delays.
+In-vitro µTBS study (JPD 2007; 50 freshly extracted human molars, 10 groups, 2 adhesives [OptiBond FL 3-step E&R + SE Bond 2-step SE], 5 conditions [direct control, DDS, IDS-2W, IDS-7W, IDS-12W]) testing whether IDS bond quality survives clinically realistic provisional periods up to 12 weeks.
 
-## 한줄요약
+All IDS conditions retained µTBS >45 MPa (IDS-7W peak: 66.59 MPa with OptiBond FL) with no significant difference from the direct control up to 12 weeks; DDS was catastrophically low — especially with SE Bond (1.81 MPa); IDS with OptiBond FL outperformed SE Bond at 7W and 12W (P<.001).
 
-JPD 98(3), 2007 in-vitro µTBS (50 human molars, OptiBond FL + SE Bond, 10 groups): IDS 모든 군 (C·IDS-2W·IDS-7W·IDS-12W) µTBS >45 MPa, 차이 없음. DDS는 SE Bond 1.81 MPa로 매우 낮음. provisional 12주까지 IDS bond 보존 — 임상 lab 지연 안전 마진.
+IDS-sealed preparations remain bondable through 12-week provisional periods, providing a clinical safety margin for lab delays or scheduling changes; SE Bond is contraindicated for DDS protocol (1.81 MPa is below retention threshold).
+
+## 세줄요약
+
+인 비트로 µTBS 연구(JPD 2007; 발거 대구치 50개, 10군, 접착제 2종[OptiBond FL·SE Bond], 5조건[직접 대조·DDS·IDS-2W·7W·12W]) — IDS 접착강도가 최대 12주 임시수복 기간 후에도 유지되는지 평가.
+
+모든 IDS 군 µTBS >45 MPa 유지(IDS-7W 최고: OptiBond FL 66.59 MPa), 직접 대조군과 차이 없음; DDS는 특히 SE Bond(1.81 MPa)에서 매우 낮음; IDS에서 OptiBond FL이 SE Bond보다 7W·12W에서 유의하게 우수(P<.001).
+
+IDS로 밀봉된 지대치는 12주 임시 수복 후에도 접착 가능 — lab 일정 지연·환자 예약 변경에 대한 임상 안전 마진 제공; SE Bond는 DDS 프로토콜에 금기(1.81 MPa는 보철 유지 기준 미달).
 
 ## Summary
 

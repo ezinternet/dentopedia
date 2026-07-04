@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Su 2026, Current Problems in Surgery) synthesizing the pathological mechanisms, diagnostic imaging, and regenerative surgical strategies — particularly GBR with xenogenic bone substitutes, 3D-printed Ti mesh, and biodegradable Mg membranes — for peri-implantitis-associated bone defects.
+Narrative review (Su et al. 2026, Current Problems in Surgery) synthesizing pathological mechanisms, CBCT-based diagnostics, and regenerative surgical strategies for peri-implantitis-associated bone defects in a Chinese military hospital context.
 
-## 한줄요약
+Meta-analytic evidence favors xenogenic GBR over autogenous bone or non-GBR for inflammation reduction and radiographic bone gain; biodegradable Mg membranes offer mechanical stability with gradual resorption; 3D-printed Ti meshes improve precision but carry mesh exposure risk.
 
-서술 리뷰(Su 2026): 임플란트 주위염(Peri-implantitis) 골 결손의 세균성·면역성·기계적 병태기전, CBCT(Cone Beam CT) 진단, 골유도재생술(Guided Bone Regeneration, GBR)·이종골(Xenogenic Graft)·3D 프린팅 티타늄 메쉬(Ti Mesh)·생분해성 마그네슘 막(Biodegradable Mg Membrane)을 포함한 재생 전략을 총정리.
+CBCT is the diagnostic gold standard for 3D defect characterization; machine learning models integrating clinical variables show early promise for personalized peri-implantitis risk prediction.
+
+## 세줄요약
+
+서술 리뷰(Su et al. 2026, Current Problems in Surgery): 임플란트주위염(Peri-implantitis) 골 결손의 생물막·티타늄 부식·면역·기계적 병태기전, 콘빔 전산화 단층촬영(Cone Beam CT, CBCT) 기반 진단, 재생 외과 전략을 체계적으로 정리(중국 군병원 그룹).
+
+메타분석 근거는 이종골(Xenogenic) 골유도재생술(Guided Bone Regeneration, GBR)이 자가골 또는 비GBR 대비 염증 감소·방사선 골이득에 유리; 생분해성 마그네슘(Mg) 막은 기계적 지지+점진적 흡수; 3D 프린팅 티타늄 메쉬(Ti Mesh)는 복잡 증례 정밀도 향상이나 막 노출 위험 존재.
+
+CBCT는 3D 결손 특성화의 표준; 기계학습(Machine Learning) 모델을 활용한 개인화 임플란트주위염 위험 예측이 향후 유망한 방향으로 제시됨.
 
 ## Summary
 

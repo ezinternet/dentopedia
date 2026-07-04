@@ -13,13 +13,23 @@ source_collection: external
 
 Provides the narrative-review backbone — etiology, classification systems (Melton, Fan), diagnosis, and management — that the wiki's growing set of C-shaped canal prevalence/morphology pages all assume but never spell out in full. Extends and conceptually anchors [[wiki/endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]], whose minimum-canal-wall measurements this review cites, and frames the CBCT prevalence data in [[wiki/endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[wiki/endodontics/anatomy/abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct]], [[wiki/endodontics/anatomy/armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct]], and [[wiki/endodontics/anatomy/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (PubMed 1979–2012) synthesizing etiology, incidence, anatomy, classification (Melton/Fan), diagnosis, and management of C-shaped root canals, predominantly in mandibular second molars.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 C-shaped 근관(주로 하악 제2대구치)의 병인·발생률·해부·분류(Melton/Fan)·진단·치료를 종합한 서술적 문헌고찰(PubMed 1979–2012).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

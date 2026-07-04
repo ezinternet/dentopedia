@@ -10,7 +10,7 @@ pdf_filename: qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+NMA (Semmelweis): 상악 전치부 단일 임플란트 — type 1/2/3/4 placement × immediate/early/conventional loading 조합 — 생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
 
 ## 1. Document Information

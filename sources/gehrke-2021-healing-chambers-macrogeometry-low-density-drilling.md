@@ -13,13 +13,23 @@ source_collection: external
 
 저밀도골에서 일차안정성을 결정하는 변수로 osteotomy 술식뿐 아니라 implant macrogeometry(healing chamber)의 기여를 분리 평가하기 위해 인제스트. [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] 가 지적한 "undersized로도 type IV 골 일차안정성이 충분치 않을 수 있음"을 in-vitro polyurethane 모델에서 정량 확인하며, macrogeometry가 보완 변수임을 제시.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro polyurethane-block study (120 implants, 2 macrogeometries × 3 osteotomy techniques) showing undersized osteotomy raises insertion torque/stability/pullout only in PCF-20 bone (not PCF-10), while healing-chamber macrogeometry retains more bone on the surface after pullout.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 In-vitro 폴리우레탄 블록 실험(임플란트 120개, 2 macrogeometry × 3 osteotomy) — undersized osteotomy는 PCF-20 골에서만 토크·안정성·pullout을 유의하게 높이고 PCF-10(최저밀도)에서는 한계가 있으며, healing chamber 설계가 pullout 후 표면 잔류골을 더 많이 확보.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Int Soc Prevent Communit Dent (JISPCD) 2021;11(4):437–447. Published 2021-07-30.

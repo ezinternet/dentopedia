@@ -13,13 +13,23 @@ source_collection: external
 
 The wiki holds the same group's extraction-pain NMA ([[wiki/drug/miroshnychenko-2023-dental-extraction-pain-network-meta]]) but lacked the upstream paired SRs that informed the ADA acute-dental-pain guideline on *which local anesthetic*. This pair (long- vs short-acting injectables; benzocaine topicals) directly extends [[wiki/drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] (lidocaine/epinephrine choice) and complements the agent pharmacology in [[wiki/drug/becker-2012-local-anesthetics-pharmacological-considerations]] (bupivacaine duration, benzocaine ester topical).
 
-## One-line Summary
+## Three-line Summary
 
-Two GRADE-rated SRs informing the ADA acute-dental-pain CPG: SR1 (14 RCTs) finds long-acting bupivacaine probably reduces analgesic consumption vs lidocaine+epinephrine (MD −1.91 doses, 95% CI −3.35 to −0.46) and vs mepivacaine (MD −1.58 doses, −2.21 to −0.95); SR2 (5 RCTs) finds 20% benzocaine increases pain-reduction responders vs placebo (RR 1.47, 1.03–2.10) in symptomatic irreversible pulpitis.
 
-## 한줄요약
+Two GRADE-rated SRs informing the ADA acute-dental-pain CPG: SR1 (14 RCTs) finds long-acting bupivacaine probably reduces analgesic consumption vs lidocaine+epinephrine (MD −1.91 doses, 95% CI −3.35 to −0.46) and vs mepivacaine (MD −1.58 doses, −2.21 to −0.95);
 
-ADA 급성 치과통증 진료지침 근거가 된 2개 SR: SR1(14 RCT)에서 장시간형 bupivacaine이 lidocaine+에피네프린(MD −1.91회분, 95% CI −3.35~−0.46) 및 mepivacaine(MD −1.58회분, −2.21~−0.95) 대비 진통제 소비를 줄일 가능성; SR2(5 RCT)에서 20% benzocaine이 위약 대비 증상성 비가역치수염 통증 감소 반응자를 증가(RR 1.47, 1.03~2.10).
+SR2 (5 RCTs) finds 20% benzocaine increases pain-reduction responders vs placebo (RR 1.47, 1.03–2.10) in symptomatic irreversible pulpitis.
+
+(incomplete)
+
+## 세줄요약
+
+
+ADA 급성 치과통증 진료지침 근거가 된 2개 SR: SR1(14 RCT)에서 장시간형 bupivacaine이 lidocaine+에피네프린(MD −1.91회분, 95% CI −3.35~−0.46) 및 mepivacaine(MD −1.58회분, −2.21~−0.95) 대비 진통제 소비를 줄일 가능성;
+
+SR2(5 RCT)에서 20% benzocaine이 위약 대비 증상성 비가역치수염 통증 감소 반응자를 증가(RR 1.47, 1.03~2.10).
+
+(incomplete)
 
 ## 1. Document Information
 

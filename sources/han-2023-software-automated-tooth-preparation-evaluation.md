@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/digital-workflow/sadid-zadeh-2020-teeth-prepared-students-cadcam]]가 인간(faculty) 평가의 빈번한 형성 오류·rater 불일치를 보여줬다면, 본 in-vitro 연구는 **computational geometric algorithm으로 형성치(TOC·교합면 삭제량)를 자동·재현성 있게 평가**하는 software-based automated evaluation(SAE)의 타당성을 입증해 그 평가 일관성 문제의 해법을 제시한다. 또한 [[wiki/digital-workflow/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr]]가 정의한 형성 geometry 파라미터(TOC, occlusal reduction)를 객관적으로 측정하는 방법론을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro feasibility study (35 mandibular first molars prepared by graduate students) proposing software-based automated evaluation (SAE) of crown tooth preparation via a computational geometric algorithm; SAE showed perfect intra-rater agreement (vs moderate-to-good for human digitally assisted evaluation) and almost-perfect SAE–DAE inter-rater agreement.
 
-## 한줄요약
+In-vitro feasibility study (35 mandibular first molars prepared by graduate students) proposing software-based automated evaluation (SAE) of crown tooth preparation via a computational geometric algorithm;
+
+SAE showed perfect intra-rater agreement (vs moderate-to-good for human digitally assisted evaluation) and almost-perfect SAE–DAE inter-rater agreement.
+
+(incomplete)
+
+## 세줄요약
+
 
 In-vitro 타당성 연구(대학원생이 형성한 하악 제1대구치 35개): computational geometric algorithm 기반 자동 평가(SAE)로 crown 형성치의 교합면 삭제량·축면 경사(TOC)를 평가했더니, 인간의 디지털 보조 평가(DAE)는 moderate~good 내적 일치였던 반면 SAE는 완벽한 내적 일치를 보였고 SAE–DAE 간 일치도도 거의 완벽했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

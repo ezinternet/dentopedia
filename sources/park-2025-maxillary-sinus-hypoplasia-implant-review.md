@@ -9,7 +9,7 @@ pdf_filename: park-2025-maxillary-sinus-hypoplasia-implant-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 JPIS 2025;55(6):425-435: Narrative review of maxillary sinus hypoplasia (MSH) — reduced sinus volume variants including sinus atelectasis, inferior meatus pneumatization, and ethmomaxillary sinus; all require CBCT diagnosis and alter sinus lift surgical planning.
 
 ## 1. Key Results

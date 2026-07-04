@@ -17,13 +17,23 @@ text_filename: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
 
 치과 임상에서 클로로헥시딘 (Chlorhexidine, CHX) 가글 농도(0.05%/0.12%/0.2%) 선택에 대한 근거가 필요. 이 Cochrane SR+MA는 51 RCT, 5,345명을 분석해 **"농도 간 효능 차이 없음"**이라는 고품질 결론을 제시—[[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]]와 함께 화학적 항균제 adjunct 사용의 핵심 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (51 RCTs, n=5,345) — CHX mouthrinse reduces plaque (SMD 1.45) and gingivitis modestly; no evidence one concentration outperforms another, but tooth staining is a consistent side effect.
 
-## 한줄요약
+Cochrane SR+MA (51 RCTs, n=5,345) — CHX mouthrinse reduces plaque (SMD 1.45) and gingivitis modestly;
 
-코크란 SR+MA (51 RCT, 5,345명) — CHX 가글은 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소 효과, 그러나 농도별 효능 차이 없음; 치아 착색은 모든 농도에서 일관된 부작용.
+no evidence one concentration outperforms another, but tooth staining is a consistent side effect.
+
+(incomplete)
+
+## 세줄요약
+
+
+코크란 SR+MA (51 RCT, 5,345명) — CHX 가글은 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소 효과, 그러나 농도별 효능 차이 없음;
+
+치아 착색은 모든 농도에서 일관된 부작용.
+
+(incomplete)
 
 ## 1. Document Information
 

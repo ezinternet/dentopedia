@@ -14,11 +14,21 @@ source_collection: external
 tags: [immediate-implant, periodontitis, 2018-AAP-EFP-classification, Stage-Grade, Bio-Oss, Bio-Gide, retrospective, China, Jinan-Univ]
 ---
 
-## One-line Summary
-Retrospective study (n=95 patients / 234 implants, 12-month follow-up) of immediate implant placement in periodontitis patients without prior systematic periodontal treatment (2018 AAP/EFP classification, Bio-Oss/Bio-Gide augmentation): overall 1-year survival 97.86%, with significantly lower survival in Stage IV and Grade C cases.
+## Three-line Summary
 
-## 한줄요약
-Jinan Univ 후향 연구 (FCIMB 2025, n=95/234 implants, 평균 58.6세, 2018 AAP/EFP 분류 사용): 치주염 환자 systematic 치주 치료 없이 즉시 식립 + Bio-Oss/Bio-Gide — 1년 생존율 97.86%; Stage IV·Grade C에서 유의하게 낮은 생존 (Kaplan-Meier).
+Retrospective short-term study (n=95 patients, 234 implants, 12-month follow-up) of immediate implant placement without prior systematic periodontal treatment in patients classified by the 2018 AAP/EFP staging and grading system, with Bio-Oss/Bio-Gide augmentation.
+
+Overall 1-year implant survival was 97.86%; Stage IV and Grade C cases showed significantly lower survival (Kaplan-Meier, p<0.05), while soft tissue indices differed by Stage but not Grade.
+
+The short follow-up, absence of a non-immediate comparator, and omission of pre-implant systematic periodontal therapy limit generalizability; Stage IV/Grade C patients should receive periodontal treatment before considering immediate placement.
+
+## 세줄요약
+
+치주염 환자에서 체계적 치주 치료 없이 즉시 식립을 시행한 후향 연구(n=95/234 임플란트, 2018 AAP/EFP 분류, Bio-Oss/Bio-Gide 보강, 12개월 추적).
+
+1년 전체 생존율 97.86%; Stage IV 및 Grade C에서 생존율이 유의하게 낮았고(p<0.05), 연조직 지표(mSBI·mPLI)는 Stage 간 유의차, Grade 간 비유의.
+
+단기 추적·비교군 없음·사전 치주 치료 생략이라는 한계가 있으며, Stage IV/Grade C는 즉시 식립 전 치주 치료가 먼저 이루어져야 한다.
 
 ## Summary
 Retrospective short-term clinical evaluation of immediate implant placement in periodontitis patients **without** prior systematic periodontal treatment. Anchored on the 2018 AAP/EFP classification (Stage I-IV by CBCT marginal bone loss; Grade A-C by annual bone loss rate, smoking, diabetes). All implants placed after atraumatic extraction with Bio-Oss + Bio-Gide augmentation as needed. Twelve-month follow-up.

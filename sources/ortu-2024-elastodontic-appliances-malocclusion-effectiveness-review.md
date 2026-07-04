@@ -16,13 +16,23 @@ text_filename: ortu-2024-elastodontic-appliances-malocclusion-effectiveness-revi
 
 Part of the EF-Line / elastodontic myofunctional-orthodontics ingest batch. This 2024 narrative review reinforces the sibling scoping review [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] by independently appraising the recent (2020–June 2023) literature on elastodontic devices for malocclusion in growing patients. Both converge on the same bottom line — these prefabricated elastomeric myofunctional appliances are described as safe, simple, and comfortable for young patients — while flagging a shared evidence/knowledge gap. Ingested to anchor the myofunctional subcategory with a second corroborating review alongside Ronsivalle 2023.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative literature review (8 articles, 2020–June 2023; abstract-only) concluding that elastodontic devices treat malocclusion in growing patients safely, simply, and comfortably, but with a noted lack of knowledge/evidence on the technique.
 
-## 한줄요약
+Narrative literature review (8 articles, 2020–June 2023;
 
-문헌 고찰(8편, 2020–2023년 6월; 초록 전용)로, 탄성교정장치(elastodontic device)가 성장기 환자의 부정교합을 안전하고 간단하며 편안하게 치료할 수 있으나 해당 기술에 대한 근거·지식이 부족하다고 결론.
+abstract-only) concluding that elastodontic devices treat malocclusion in growing patients safely, simply, and comfortably, but with a noted lack of knowledge/evidence on the technique.
+
+(incomplete)
+
+## 세줄요약
+
+
+문헌 고찰(8편, 2020–2023년 6월;
+
+초록 전용)로, 탄성교정장치(elastodontic device)가 성장기 환자의 부정교합을 안전하고 간단하며 편안하게 치료할 수 있으나 해당 기술에 대한 근거·지식이 부족하다고 결론.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,23 @@ text_filename: stein-2007-sensory-innervation-mandibular-teeth-nerve.txt
 
 사용자의 "왜 IANB로 마취해도 하악 드릴링 시 통증이 있는가" 질문에 대한 두 번째 기전 — 경부신경총이 아닌 **삼차신경 자체 분지(하치조신경에서 갈라진 이설골설근신경)**가 전통적으로 운동신경으로만 알려졌으나 실제로는 하악치아 감각도 지배한다는 리뷰. [[wiki/local-anesthesia/kim-2016-systematic-review-cervical-plexus-accessory]](경부신경총 경로)와 상호보완적인 별개 경로.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review: the nerve to the mylohyoid — traditionally classified as purely motor — carries accessory sensory innervation to mandibular teeth; because of variable branching location and the barrier formed by the pterygomandibular fascia/sphenomandibular ligament, it may escape anesthesia during a standard inferior alveolar nerve block, contributing to IANB's high failure rate.
 
-## 한줄요약
+Narrative review: the nerve to the mylohyoid — traditionally classified as purely motor — carries accessory sensory innervation to mandibular teeth;
+
+because of variable branching location and the barrier formed by the pterygomandibular fascia/sphenomandibular ligament, it may escape anesthesia during a standard inferior alveolar nerve block, contributing to IANB's high failure rate.
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰: 전통적으로 순수 운동신경으로 분류된 이설골설근신경(nerve to the mylohyoid)이 실제로는 하악치아에 부가 감각신경을 공급하며, 분지 위치의 변이성과 익돌하악근막(pterygomandibular fascia)·접형하악인대(sphenomandibular ligament)가 만드는 장벽 때문에 표준 IANB로도 마취되지 않을 수 있어 IANB의 높은 실패율에 기여한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

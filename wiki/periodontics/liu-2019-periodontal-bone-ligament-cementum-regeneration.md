@@ -17,13 +17,21 @@ text_filename: liu-2019-periodontal-bone-ligament-cementum-regeneration.txt
 tags: [periodontal-ligament, PDL, stem-cells, tissue-engineering, regeneration, 3D-bioprinting, bone-PDL-cementum]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of stem cell and scaffold strategies — including 3D bioprinting, gene therapy, and layered biomimetic constructs — for simultaneous bone–PDL–cementum complex regeneration in periodontitis.
+Systematic review (2019) of preclinical and early clinical studies on simultaneous regeneration of all three periodontal tissues — bone, periodontal ligament (PDL), and cementum — covering exogenous stem-cell transplantation, endogenous cell-homing, gene therapy, and layered biomimetic (LBL) constructs.
 
-## 한줄요약
+The most compelling models show PDLSCs on BCP scaffolds regenerating bone + PDL (with correct Sharpey's fiber angle) + cementum in dogs at 12 weeks; 3D-printed fiber-guiding PCL/PGA scaffolds are the only technique with reliable perpendicular Sharpey's fiber control; long-term GTR (120 months) yields CAL-V gain of 3.5 ± 2.5 mm with absorbable barriers.
 
-치주염의 뼈–치주인대–백악질 복합체 동시 재생을 위한 줄기세포·3D 바이오프린팅·유전자치료·층별 생체모방 전략을 망라한 체계적 고찰 (n=다수 전임상 연구).
+Clinical translation remains limited: only bone grafts (autograft/Bio-Oss) and collagen membranes are approved; stem-cell therapies are in early clinical trials; gene therapy and LBL constructs remain laboratory-stage.
+
+## 세줄요약
+
+2019년 체계적 고찰: 치주 3대 조직(뼈·치주인대·백악질) 동시 재생을 위한 줄기세포 이식·내인성 세포 유인·유전자치료·층별 생체모방(LBL) 전략 전반을 전임상·초기 임상 연구 중심으로 검토.
+
+가장 강력한 전임상 모델로는 BCP 지지체 위 PDLSC가 개 모델에서 12주 만에 정확한 샤피섬유 각도의 PDL+백악질+뼈를 재생했으며, 3D 프린팅 PCL/PGA 지지체만이 수직 배향 샤피섬유를 신뢰도 있게 형성함; 장기 GTR(120개월)은 CAL-V 획득 3.5 ± 2.5 mm.
+
+임상 번역은 제한적 — 골이식재(자가골/Bio-Oss)·콜라겐막만 승인됐고, 줄기세포는 초기 임상시험, 유전자치료·LBL 구조물은 아직 실험실 단계.
 
 ## Summary
 

@@ -16,13 +16,21 @@ relations:
     target: metwaly-2024-clinical-performance-polyethylene-fiber-reinforced-resin
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA (3 models, maxillary central incisor, 100 N oblique load) comparing von Mises stress in teeth restored with glass fiber post, SFRC post, and Ribbond fiber post; SFRC post showed lowest internal post stress (5.22 MPa vs 12.28 MPa for glass fiber) and most favorable dentin-compatible stress distribution.
+3D FEA (3 models, maxillary central incisor, ANSYS; 648,094 nodes; 100 N oblique load at 45°) comparing von Mises stress distribution in teeth restored with glass fiber post (E=30.9 GPa), SFRC post (E=11.4 GPa), and Ribbond fiber post (E=23.6 GPa).
 
-## 한줄요약
+SFRC post showed the lowest internal post stress across all measurement points (5.22 MPa vs 12.28 MPa for glass fiber, and 9.73 MPa for Ribbond); overall deformation was identical across all three groups (~0.1428 mm), and crown-level stresses were also equivalent.
 
-3D FEA — 상악 중절치 근관치료 후 유리섬유·SFRC·Ribbond 포스트 응력 비교; SFRC 포스트가 내부 응력 가장 낮고(5.22 MPa) 상아질 친화적 응력 분포 보임.
+SFRC's elastic modulus closest to dentin (18.6 GPa) produced the most dentin-compatible stress distribution; the cervical region was the universal maximum-stress site regardless of post material, suggesting ferrule design is critical.
+
+## 세줄요약
+
+3D FEA(상악 중절치 3개 모델, ANSYS; 노드 648,094개; 100 N 45° 사선력): 유리섬유 포스트(E=30.9 GPa), SFRC 포스트(E=11.4 GPa), Ribbond 포스트(E=23.6 GPa)의 폰 미세스 응력(Von Mises Stress) 분포 비교.
+
+SFRC 포스트가 전 측정점에서 최저 포스트 내부 응력(5.22 MPa vs 유리섬유 12.28 MPa, Ribbond 9.73 MPa); 총 변형량은 세 군 동일(~0.1428 mm), 치관 수준 응력도 동등.
+
+SFRC의 탄성계수(Young's Modulus, E)가 상아질(18.6 GPa)에 가장 근접해 가장 균등한 응력 전달; 치경부(Cervical Region)는 포스트 재료와 무관한 보편적 최대 응력 집중 부위 — ferrule 설계의 중요성 시사.
 
 ## Summary
 

@@ -32,13 +32,21 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 > - **손상된(damaged) socket의 생물학적 보강**: rhBMP-2는 즉시 적용이 2주 지연보다 신생골 우위(10.8 vs 6.3 mm², p=0.043; Kim 2020, 비글견) — 단 초기 염증은 즉시군에서 더 강함. PRF sticky bone(i-PRF+DPBM)은 2벽 결손에서 GBR(DPBM+콜라겐막)과 신생골 형성 동등(non-inferior)이며 PRF는 1주차 osteocalcin·VEGF·IL-6만 소폭 상향(Park 2022, 비글견) — 축 4 adjunct 신호 보강(PRF는 SR 우위 미입증과 일관).
 > - 임상 takeaway: ARP 결정의 분모는 자연 치유다. ARP intervention 효과(수평 1.86–2.19 mm 감소)를 자연 치유 baseline과 비교해 net gain이 충분할 때만 시행. 단 고령·감염·손상 socket은 baseline 치유능 자체가 저하되므로(Shin 2026, Lee 2021) intact-socket 회의론을 그대로 적용하지 말 것.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsynthesized bone-regeneration papers across 5 axes — socket healing biology, ARP critical appraisal (when NOT to graft), ARP-then-implant failure predictors, adjunct materials, and beyond-ARP scenarios. Core thesis: Alveolar Ridge Preservation (ARP) is a scenario-dependent intervention, not a universal recommendation — post-extraction buccal resorption is biologically inevitable (bundle-bone dependence; Araujo 2005), ARP preserves dimension but not vital-bone quality (residual graft particles), and the single significant predictor of post-ARP implant failure is Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50 (Kang 2025, n=528). Clinical takeaway: judge ARP's net gain against the natural-healing baseline and plan implant length to engage ≥1.1 mm of native bone beyond the graft zone.
+Synthesis (counterpoint to the do-ARP protocol-ladder page) across 5 axes — socket healing biology, ARP critical appraisal (when NOT to graft), post-ARP implant failure predictors, adjunct materials, and beyond-ARP scenarios: post-extraction buccal resorption is biologically inevitable (bundle-bone dependence; Araujo 2005 dog histology), ~50% of buccolingual width lost by 1 year with 2/3 occurring in the first 3 months (Schropp 2003 prospective).
 
-## 한줄요약
+ARP preserves dimension but not vital-bone quality (residual graft particles keep new bone % low at 6 months: 16% vital bone, 32% residual xenograft; Mardas 2023, Poli 2017); the single significant predictor of post-ARP implant failure is Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50 (Kang 2025, n=528); and Mardas 2023's overtreatment criticism applies to intact sockets, while damaged/infected sockets clearly benefit (ARP reduces implant-site failure from 4.7% to 0.8%; Lee 2021).
 
-발치 socket 자연 치유 생물학 (Araujo·Cardaropoli·Schropp 고전 axis) + 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의 한계·실패·과잉치료 비판 axis 를 합성. [[bone-regeneration-protocol-ladder]] (do-ARP) 의 counterpoint 페이지 — "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나" 의 spine.
+Clinical takeaway: judge ARP's net gain against the natural-healing baseline; plan implant length to engage ≥1.1 mm of native bone beyond the graft zone; aging reduces socket healing capacity (Shin 2026 animal), justifying extended healing periods in elderly; calcium sulfate 50:50 mix improves new-bone quality at 4 months (Signoriello 2025); PRF has only narrative-level evidence.
+
+## 세줄요약
+
+발치와 자연 치유 생물학 + ARP 한계·과잉치료 비판 5축 종합 — do-ARP 페이지의 대응쌍: 협측골 흡수는 다발골(bundle bone) 의존으로 생물학적 불가피(Araujo 2005), 협설폭 1년 ~50% 감소의 2/3이 첫 3개월 발생(Schropp 2003).
+
+ARP는 차원 보존이지 골 질 향상이 아님 — 6개월 신생골 16%·잔류 이종골 32%(Poli 2017); ARP 후 임플란트 실패 단일 유의 예측인자 = 순수골 결합(Pristine Bone Engagement, PBE) < 1.1mm → HR 2.50(Kang 2025, n=528); 과잉치료 비판(Mardas 2023)은 온전 소켓 전제이며 감염·손상 소켓은 ARP 실익 분명(Lee 2021: 식립 불가율 4.7%→0.8%).
+
+임상 결론: ARP의 순이득을 자연치유 baseline과 비교해 판단; 임플란트 길이는 graft zone보다 ≥1.1mm 이상 native bone 확보; 고령·손상 소켓은 intact-socket 회의론을 그대로 적용 금지; 황산칼슘(calcium sulphate) 50:50 혼합이 신생골 quality 개선(Signoriello 2025); PRF는 SR 수준 근거 미입증.
 
 ## Summary
 

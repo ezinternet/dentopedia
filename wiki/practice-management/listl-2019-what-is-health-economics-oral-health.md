@@ -19,13 +19,21 @@ relations:
     target: chen-2024-dental-hygienist-autonomy-care-utilization
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative health-economics primer (Community Dent Health 2019) introducing the economic determinants of oral health and the core concepts for dental care delivery: demand under provider–patient asymmetric information, market failure and its efficiency/equity implications, economic evaluation under resource constraints, behavioural aspects of demand and supplier-induced provision, and dental workforce planning.
+Narrative conceptual primer (Community Dent Health 2019) applying economic theory to oral health and dental care delivery — no empirical dataset; abstract-only ingest — covering six domains: economic determinants of oral health, demand under asymmetric information, market failure (efficiency and equity), economic evaluation under resource constraints, behavioral demand and supplier-induced provision, and dental workforce planning.
 
-## 한줄요약
+Asymmetric information between patient and provider gives the provider an agency role and creates scope for supplier-induced demand; market failure in oral health care undermines both efficiency (resources not reaching highest-value care) and equity (utilization driven by ability to pay rather than need); economic evaluation allocates constrained resources to maximize oral health gains.
 
-치과 보건경제학 개론(narrative review, 2019): 구강건강의 경제적 결정요인과 함께, 정보 비대칭 하의 의료 수요, 시장 실패와 효율·형평 함의, 자원 제약 하 경제성 평가, 행동경제학적 수요·공급(공급자 유발 수요), 치과 인력 계획이라는 핵심 개념을 개괄한다.
+This primer provides the theoretical scaffolding for interpreting empirical practice-management studies (utilization, cost-sharing, workforce regulation) as concrete instances of the demand/supply, market-failure, and workforce-planning concepts it frames.
+
+## 세줄요약
+
+서술적 개념 입문서 (Community Dent Health 2019): 경제학 이론을 구강건강과 치과 진료전달에 적용 — 실증 데이터 없음, 초록만 수집 — 6개 영역 (구강건강의 경제적 결정요인·정보 비대칭 하 수요·시장실패[효율·형평]·자원 제약 하 경제성평가·행동경제학적 수요/공급자 유발 수요·치과 인력 계획).
+
+환자-공급자 간 정보 비대칭(Asymmetric Information)이 의사대리인(agency) 역할을 만들어 공급자 유발 수요(Supplier-Induced Demand) 여지 발생; 구강건강 의료시장 실패 → 효율(고가치 진료 미배분)·형평(지불 능력 기반 이용) 훼손; 경제성 평가가 제한 자원 배분의 방법론.
+
+이 입문서는 치과경영 실증 연구(이용률·비용분담·인력 규제)를 해석하는 이론적 틀 — 실증 연구들은 이 primer의 수요/공급·시장실패·인력계획 개념의 구체적 사례.
 
 ## Summary
 

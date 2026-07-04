@@ -18,11 +18,22 @@ superseded_scope: partial
 > [!note] Partially superseded → [[lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]], [[kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]]
 > 현재 1차 근거(primary evidence base)는 위 두 SR+MA. 단 본 논문은 최초 human-only OD ISQ 합성(only 3 NRSIs, no RCTs at search date)으로서 역사적 가치 유지. (set 2026-05-31)
 
-## One-line Summary
-Systematic review + meta-analysis (3 human NRSIs, no RCTs): osseodensification (OD) drilling raised baseline implant stability (ISQ) by a pooled MD of 13.1 points (95% CI 10.0–16.1, P<.0001, I²=0%) vs conventional drilling, with a smaller but significant 4–6 month gain (MD 5.99, 95% CI 1.3–10.6, P<.0001, I²=73%); RCTs are needed.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 인체 비무작위 중재연구 (Non-Randomised Study of Interventions, NRSI) 3편 — 골밀도화 (Osseodensification, OD)는 초기 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)에서 평균차 (Mean Difference, MD) 13.1 (95% 신뢰구간 (Confidence Interval, CI) 10.0–16.1, P<.0001, I²=0%)로 매우 일관된 우위, 4–6개월 추적 ISQ에서도 MD 5.99 (95% CI 1.3–10.6, P<.0001, I²=73%)로 우위였으나 이질성 (heterogeneity) 큼. 임상 적용 한계: 연구 단 3편·모두 비무작위로 무작위대조시험 (Randomized Controlled Trial, RCT) 부재이므로 추가 RCT 필요.
+
+SR+MA (3 human NRSIs, no RCTs found at search to July 2020) comparing osseodensification (OD) drilling vs conventional drilling on implant stability (ISQ) in humans; first human-focused OD ISQ synthesis.
+
+OD raised baseline ISQ by a pooled MD of 13.1 points (95% CI 10.0–16.1, P<.0001, I²=0%) vs conventional drilling; the effect persisted at 4–6 months but was smaller (MD 5.99, 95% CI 1.3–10.6, P<.0001) and more heterogeneous (I²=73%).
+
+A 13-point ISQ gain at baseline is clinically meaningful and strikingly consistent (I²=0%), but the evidence base of only 3 NRSIs limits generalizability; Lima Monteiro 2024 and Kalra 2025 SR+MAs now serve as the primary reference for this question.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 인체 비무작위 중재연구 (Non-Randomised Study of Interventions, NRSI) 3편 — 골밀도화 (Osseodensification, OD)는 초기 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)에서 평균차 (Mean Difference, MD) 13.1 (95% 신뢰구간 (Confidence Interval, CI) 10.0–16.1, P<.0001, I²=0%)로 매우 일관된 우위, 4–6개월 추적 ISQ에서도 MD 5.99 (95% CI 1.3–10.6, P<.0001, I²=73%)로 우위였으나 이질성 (heterogeneity) 큼.
+
+임상 적용 한계: 연구 단 3편·모두 비무작위로 무작위대조시험 (Randomized Controlled Trial, RCT) 부재이므로 추가 RCT 필요.
+
+(incomplete)
 
 ## Summary
 Gaspar and colleagues (2022, IJOMI) conducted the first human-focused systematic review and meta-analysis directly comparing osseodensification (OD) drilling with conventional drilling on implant stability outcomes. Searching five databases through July 2020, they identified three non-randomised studies of interventions (NRSIs), all rated low risk of bias, and pooled them with random-effects meta-analysis.

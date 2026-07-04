@@ -16,13 +16,21 @@ relations:
     target: kaasalainen-2021-dental-cone-beam-ct-updated-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review giving justification/optimization recommendations for CBCT in oral implantology; effective dose spans 2–200 panoramic equivalents across machines.
+Narrative review of CBCT use in oral implantology covering justification, dose optimization, segmentation accuracy, and therapeutic (surgical guide, navigation, 3D printing) applications.
 
-## 한줄요약
+Effective dose varies enormously across machines — equivalent to 2–200 panoramic radiographs — and diagnostic image quality varies similarly, precluding cross-device evidence transfer.
 
-임플란트 CBCT의 정당화·최적화 권고 내러티브 리뷰. 기기별 유효선량이 파노라마 2~200장 범위로 편차.
+CBCT is justified for presurgical diagnosis and planning but must be optimized per machine and patient; segmentation/linear accuracy ~200 µm is achievable but up to 5× worse on other devices.
+
+## 세줄요약
+
+임플란트 구강외과에서의 CBCT 사용에 관한 내러티브 리뷰: 정당화·선량 최적화·분할 정확도·수술용 가이드·내비게이션·3D 출력 적용 포괄.
+
+기기별 유효선량이 파노라마 2~200장에 해당할 만큼 편차가 크고, 진단 화질 또한 기기 간 전이 불가 — 기기별·환자별 최적화 필수.
+
+CBCT는 수술 전 진단·계획에 정당화되나, 분할 정확도는 ~200 µm까지 가능하지만 기기에 따라 최대 5배 열화됨.
 
 ## Summary
 

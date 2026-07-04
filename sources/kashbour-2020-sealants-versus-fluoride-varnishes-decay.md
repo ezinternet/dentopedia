@@ -16,11 +16,21 @@ text_filename: kashbour-2020-sealants-versus-fluoride-varnishes-decay.txt
 ## Why Ingested
 Sealant vs fluoride varnish(FV)의 *상대* 효과에 대한 최신 Cochrane 근거(pub5, 2020)로, 무처치 기준선을 다룬 [[caries/ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth]]와 한 쌍을 이룬다. 기존 [[caries/rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma]]·[[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]]의 상위 근거이며, pub4(2016, Ahovuo-Saloranta)를 대체(supersede)한다.
 
-## One-line Summary
-Cochrane SR+MA (11 RCTs, 3374 children aged 5–10): unable to determine whether resin sealant or fluoride varnish is superior for preventing occlusal caries (OR 0.67, 95% CI 0.37–1.19; very low certainty); sealant + varnish may beat varnish alone (OR 0.30; very low certainty).
+## Three-line Summary
 
-## 한줄요약
-코크란 SR+MA (RCT 11편, 5–10세 3,374명): 레진 전색 vs 불소바니시 우열 판정 불가(OR 0.67, 95% CI 0.37–1.19; 매우 낮은 확실성). 전색+바니시 병용이 바니시 단독보다 나을 가능성(OR 0.30; 매우 낮은 확실성).
+Cochrane SR+MA (11 RCTs, 3374 children aged 5–10): unable to determine whether resin sealant or fluoride varnish is superior for preventing occlusal caries (OR 0.67, 95% CI 0.37–1.19;
+
+very low certainty);
+
+sealant + varnish may beat varnish alone (OR 0.30; very low certainty).
+
+## 세줄요약
+
+코크란 SR+MA (RCT 11편, 5–10세 3,374명): 레진 전색 vs 불소바니시 우열 판정 불가(OR 0.67, 95% CI 0.37–1.19;
+
+매우 낮은 확실성).
+
+전색+바니시 병용이 바니시 단독보다 나을 가능성(OR 0.30; 매우 낮은 확실성).
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews, 2020, Vol 11, Issue 11, Art. No.: CD003067 (pub5)

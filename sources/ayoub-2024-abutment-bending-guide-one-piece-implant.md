@@ -9,8 +9,21 @@ pdf_filename: ayoub-2024-abutment-bending-guide-one-piece-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-증례보고: 원피스 압축 임플란트 지대주 굴곡을 위한 디지털 유도 'Abutment Bending Verification Guide(ABVG)' 신기술 — RealGuide.5 소프트웨어·NeoBiotech 가이드키트 적용
+## Three-line Summary
+
+Case report (EC Dental Science 2024) introducing the Abutment Bending Verification Guide (ABVG), a digitally planned guide fabricated alongside the surgical placement guide to control and verify abutment angulation for one-piece compressive implants using RealGuide.5 and NeoBiotech NEO NAVIGUIDE KIT.
+
+The ABVG provided accurate, predictable abutment bending matching the pre-designed crown angulation; digital workflow reduced intraoperative adjustment time; no complications were reported in the presented case.
+
+Case-level evidence only with no comparative control; applicability requires digital planning proficiency and compatible one-piece implant systems.
+
+## 세줄요약
+
+증례보고 (EC Dental Science 2024) — 원피스 압축 임플란트의 지대주(Abutment) 굴곡 각도를 디지털 계획 및 검증하는 지대주 굴곡 검증 가이드(ABVG, Abutment Bending Verification Guide) 신기법: RealGuide.5 + NeoBiotech NEO NAVIGUIDE KIT 적용.
+
+ABVG가 사전 설계된 크라운 삽입로(Path of Insertion)에 정확히 일치하는 지대주 굴곡 달성; 디지털 워크플로우로 수술 중 조정 시간 단축; 합병증 없음.
+
+증례 수준 근거로 대조군 없음 — 디지털 계획 숙련도 및 호환 임플란트 시스템 필요.
 
 ## 1. Document Information
 - **Title**: Innovative Approach in Dental Implantology: A Case Study of Abutment Bending Verification Guide for One-Piece Compressive Implants

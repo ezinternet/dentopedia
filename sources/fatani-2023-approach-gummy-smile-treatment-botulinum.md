@@ -10,7 +10,7 @@ pdf_filename: fatani-2023-approach-gummy-smile-treatment-botulinum.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review of 28 studies (out of 62 screened) on BTX-A for gummy smile: reviews subtype classification, indications/contraindications, dose adjustment (2.0-5.0 IU per region, gender-adjusted), Yonsei point technique, complications, and duration (4-6 months); supports BTX-A as effective non-surgical alternative for muscular-etiology gummy smile.
 
 ## 1. Document Information

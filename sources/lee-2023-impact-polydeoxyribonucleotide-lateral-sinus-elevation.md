@@ -13,7 +13,7 @@ source_collection: external
 
 [[pdrn/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation]]가 dehiscence defect 즉시식립 시나리오를 다뤘다면, 본 paper는 동일 SNU 그룹이 **lateral sinus floor elevation**이라는 다른 임상 시나리오에서 PDRN의 효과를 검증. Schneiderian membrane 근처(pristine bone에서 먼 영역)의 osteoinductive 효과를 직접 측정한 것이 핵심 contribution. 본 wiki의 `sinus-lift/lateral`과 `pdrn` 교차점에 위치하나 1차 분류는 PDRN.
 
-## One-line Summary
+## Three-line Summary
 
 Beagle 4마리 lateral sinus floor elevation에서 collagenated synthetic bone graft에 PDRN 첨가 시, Schneiderian membrane 근접부(apical AOI)의 new bone 비율 + BIC apical 값이 유의하게 상승.
 

@@ -17,13 +17,21 @@ text_filename: atieh-2025-pre-extractive-vs-postextractive-immediate-molar.txt
 
 발치 전 식립와 형성법(pre-extractive approach)이 하악 대구치 즉시식립 ISQ와 식립 위치에 미치는 영향을 직접 비교한 RCT가 부재했던 간극을 메운다. [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]]의 골밀도화 프로토콜과 비교해 inter-radicular septum 활용 전략의 근거 폭을 넓히며, 하악 대구치 ISQ 임계값 근거로도 활용 가능.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 4 RCTs (82 implants) found pre-extractive inter-radicular site preparation for mandibular molar immediate implant placement yielded significantly higher ISQ at placement (MD +3.39) and near-perfect central positioning vs postextractive approach; ISQ advantage dissipated by 3–6 months.
+SR+MA (PROSPERO-registered; 4 RCTs, 82 implants, predominantly Egypt-based) comparing pre-extractive (osteotomy drilled through retained roots before extraction) vs postextractive implant site preparation for mandibular molar immediate implant placement.
 
-## 한줄요약
+Pre-extractive preparation yielded significantly higher ISQ at placement (MD −3.39; 95% CI −4.20 to −2.59; P<0.0001; I²=0%) and near-complete central positioning (RR 0.05; 100% vs ~10%; P=0.002); ISQ advantage was non-significant at 3 and 6 months; zero implant failures in either group within 6–12 months.
 
-4개 RCT(임플란트 82개)를 포함한 SR+MA로, 발치 전 식립와 형성(pre-extractive) 기법이 발치 후 형성에 비해 하악 대구치 즉시식립 시 식립 직후 임플란트 안정성 지수(ISQ, Implant Stability Quotient)를 유의하게 높이고(MD +3.39) 중심 위치 달성률이 월등함을 확인했으나, 3–6개월 시 차이는 소실됨.
+The inter-radicular bone engagement advantage of pre-extractive drilling offers better immediate stability and centralized positioning in mandibular molars, but the small evidence base (4 RCTs, mostly high risk of bias, ≤12 months follow-up) limits generalizability; technique is unsuitable for compromised periodontium or thin septa.
+
+## 세줄요약
+
+SR+MA(PROSPERO 등록; RCT 4편·임플란트 82개, 주로 이집트) — 발치 전 치근간 식립와 형성(pre-extractive: 치근을 보존한 채로 시술) vs 발치 후 형성(postextractive) 하악 대구치 즉시식립 비교.
+
+Pre-extractive 기법이 식립 직후 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 유의하게 높음(MD −3.39; 95% CI −4.20 to −2.59; P<0.0001; I²=0%)이고 중심 위치 달성율 월등(100% vs ~10%; P=0.002); 3·6개월 ISQ 차이는 비유의; 양군 임플란트 실패 없음(6–12개월).
+
+발치 전 치근간 골 결합 전략이 하악 대구치 초기 안정성과 중심 위치에서 우월하나, RCT 4편·높은 비뚤림 위험·12개월 이내 추적의 제한된 근거이며, 치주 손상 부위나 얇은 치근간 중격에는 적용 불가.
 
 ## 1. Document Information
 

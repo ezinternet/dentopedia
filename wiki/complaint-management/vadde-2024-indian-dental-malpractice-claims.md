@@ -13,11 +13,21 @@ source_collection: external
 tags: [dental, medico-legal, negligence, consumer-court]
 ---
 
-## One-line Summary
-Analysis of 56 adjudicated Indian dental negligence cases (2018-2022) in consumer courts, classifying allegations by negligence severity and examining compensation and settlement delay.
+## Three-line Summary
 
-## 한줄요약
-인도 소비자법원 치과 과실 판결 56건(2018-2022) 분석 — 과실 중증도별 분류, 보상·판결 지연 검토.
+Analytical retrospective review of 56 proven dental negligence cases adjudicated in Indian consumer courts (2018–2022), classified by negligence severity and examined for compensation bases and settlement delays.
+
+Negligent injuries were the dominant allegation type (35/56); expert evidence, thorough records, and indemnity insurance were the most cited protective factors in court outcomes.
+
+The study maps the litigation endpoint of dental complaints in the Indian context and provides practical medico-legal safeguards applicable to any jurisdiction with consumer-protection complaint pathways.
+
+## 세줄요약
+
+인도 소비자법원에서 2018–2022년 판결된 치과 과실 입증 사례 56건에 대한 후향적 분석 — 과실 중증도별 분류 및 보상 근거·판결 지연 검토.
+
+과실에 의한 손상(negligent injuries)이 35/56건으로 가장 많았으며, 전문가 감정·철저한 기록 관리·배상책임보험이 법원 판결에서 가장 많이 거론된 방어 인자였다.
+
+인도 소비자 보호법 체계 내 치과 소송의 최종 단계를 매핑하며, 진료기록 충실화·보험 가입·지속적 법의학 교육이 핵심 예방 전략임을 제시한다.
 
 ## Summary
 Vadde and colleagues reviewed 56 adjudicated dental negligence cases decided in Indian consumer courts between 2018 and 2022. Allegations spanned a severity spectrum, with 'negligent injuries' the most common (35/56). The study documents the bases of compensation, settlement delays, and the influence of court-appointed expert evidence, concluding that medico-legal awareness, indemnity insurance, continuous training, meticulous record-keeping, and adherence to clinical standards are the practical defences. It maps the litigation endpoint of dental complaints that escalate beyond complaint handling.

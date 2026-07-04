@@ -27,13 +27,21 @@ tags: [dental-erosion, erosive-tooth-wear, etw, enamel, demineralization, titrat
 > - 임상 권고: ① 콜라뿐 아니라 오렌지주스·신맛 젤리도 경고, ② 산 노출 직후 칫솔질 회피 (30분 대기, 연화된 법랑질 마모 가속), ③ 무가당 우유/치즈/물 헹굼·불소 도포로 중화·재광화, ④ 구개측 (palatal) 마모 패턴은 내인성 시사 → 의과 의뢰.
 > - 근거 한계: 거의 모든 정량 근거가 in-vitro (소·인 법랑질, 단순 산 챌린지) — 인간 in situ/임상 종단 데이터와 임상 침식위험 스코어가 부족. 임상 외삽은 [claude해석].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 dental-erosion papers (narrative reviews + in-vitro studies + an umbrella review): erosive tooth wear (ETW) is non-bacterial, acid-driven tooth-substance loss whose erosive potential is governed by titratable acidity, contact time, and beverage Ca/PO₄/F saturation rather than pH alone — cola (pH 2.67) is strongest short-term but orange juice matches it by ≥30 min and citrus sweets rival 0.1% citric acid; prevention centers on cutting acid-exposure frequency/contact time, avoiding toothbrushing for 30 min after an acid challenge, and neutralization/remineralization with stannous-fluoride (SnF₂) dentifrices favored.
+Synthesis of 5 dental-erosion papers (2 narrative reviews, 2 in-vitro studies, 1 umbrella review): erosive tooth wear (ETW) is non-bacterial acid-driven tooth-substance loss whose erosive potential is governed by titratable acidity, contact time, and beverage Ca/PO₄/F saturation — not pH alone; cola (pH 2.67) is strongest short-term but orange juice reaches parity at ≥30 min contact, and citrus sweets (pH 2.6–3.5, dual-acid formulations) rival 0.1% citric acid with 1.3–2.4 µm wear per 7 days (Souza 2020 in-vitro).
 
-## 한줄요약
+Prevention evidence: stannous fluoride (SnF₂/multi-ion) dentifrices are the most consistently superior anti-erosive agents compared to NaF/NaMFP across an umbrella review of 8 SRs (Gómez 2026; certainty moderate); avoid toothbrushing for 30 min after acid challenge (softened enamel); neutralize with sugar-free milk/cheese/water rinse; acid exposure frequency and contact time are more actionable risk variables than a pH list.
 
-치아침식(ETW) review·in-vitro 4편 통합. ①병인 — 비세균성 산(외인: 식이/음료, 내인: GERD)에 의한 치질 소실; 타액·법랑질 pellicle·식이 빈도가 중증도 modifier. ②in-vitro — 침식력은 pH 단독이 아니라 적정산도(titratable acidity)·접촉시간·칼슘/인산 포화도의 함수: 콜라(pH ~2.6)가 단시간 최강, 오렌지주스는 ≥30분이면 동등; citrus sweets(pH 2.6–3.5)는 0.1% 구연산만큼 침식적. ③예방 — 산 노출 빈도·접촉시간 감소, 불소·중화, 산 직후 칫솔질 회피.
+Clinical bottom line: counsel on citrus sweets and OJ in addition to cola; palatal wear pattern suggests intrinsic origin (GERD/vomiting) — refer to medicine; for established localized tooth wear requiring space creation, fixed (preferably indirect) Dahl restorations show 0–0.7% annual failure rate, far below direct (0–8.7%), with 86.9% complete posterior occlusal re-establishment (Fan 2026 SR+MA); nearly all quantitative evidence is in-vitro — in situ/clinical longitudinal ETW data remain scarce.
+
+## 세줄요약
+
+5편(narrative review 2, in-vitro 2, umbrella review 1) 종합: ETW는 비세균성 산 치질 소실로, 침식 잠재력은 pH 단독이 아닌 적정산도·접촉시간·Ca/PO₄/F 포화도의 함수 — 콜라(pH 2.67)가 단시간 최강이나 오렌지주스는 ≥30분이면 동등; citrus sweets(pH 2.6–3.5, 이중산)는 0.1% 구연산만큼, 7일 wear 1.3–2.4 µm(Souza 2020).
+
+예방: SnF₂·다중이온 치약이 NaF/NaMFP 대비 항침식 효과 가장 일관적 우위(Gómez 2026 umbrella review, 8 SR, 중등도 확실성); 산 후 30분 칫솔질 회피; 무가당 유제품·물 헹굼으로 중화; 침식 위험 평가는 pH 목록보다 노출 빈도·접촉시간 패턴이 핵심.
+
+임상 결론: 콜라 외 오렌지주스·신맛 젤리도 경고; 구개측 마모는 내인성(GERD) 시사 → 의과 의뢰; 국소 치아 마모로 수복 공간 필요 시 고정형(간접) Dahl 수복이 연간 실패율 0–0.7%, 86.9% 후방 교합 재확립(Fan 2026 SR+MA); 대부분 근거가 in-vitro로 임상 종단 데이터 부족.
 
 ## Summary
 

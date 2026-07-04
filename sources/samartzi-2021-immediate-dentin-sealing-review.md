@@ -9,7 +9,7 @@ pdf_filename: samartzi-2021-immediate-dentin-sealing-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Literature review of 88 articles on Immediate Dentin Sealing (IDS) covering protocol, materials, and clinical evidence; concludes IDS is beneficial for bond strength, gap formation, microleakage, and dentin hypersensitivity with no major contraindications.
 
 ## 1. Document Information

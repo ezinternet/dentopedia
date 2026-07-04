@@ -17,13 +17,23 @@ text_filename: zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens.txt
 
 구강 미생물 군집에서 공생세균의 역할을 다룬 기초 리뷰로, 기존 [[oral-microbiology/romund-2020-oral-microbiome-dysbiosis-keystone-pathogens]] 등 병원성 중심 문헌과 대비하여 건강-연관 공생세균(S. sanguinis)의 방어 기전을 체계적으로 정리한다. 우식 및 치주염 병인론 문헌에 공생세균 시각을 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review summarizing *Streptococcus sanguinis* biofilm formation mechanisms and its antagonistic interactions with cariogenic (*S. mutans*) and periodontopathic (*P. gingivalis*, *A. actinomycetemcomitans*) species, while noting its dual role as an oral health commensal and infective endocarditis pathogen.
 
-## 한줄요약
+Narrative review summarizing *Streptococcus sanguinis* biofilm formation mechanisms and its antagonistic interactions with cariogenic (*S.
 
-*Streptococcus sanguinis*의 생물막 형성 기전(필리, SrpA, GtfP, eDNA)과 우식원균(*S. mutans*) 및 치주병원균(*P. gingivalis* 등)에 대한 길항 상호작용을 정리하고, 구강 건강 공생세균이면서 동시에 감염성 심내막염 원인균이라는 이중 역할을 설명한 서술 리뷰.
+mutans*) and periodontopathic (*P.
+
+gingivalis*, *A. actinomycetemcomitans*) species, while noting its dual role as an oral health commensal and infective endocarditis pathogen.
+
+## 세줄요약
+
+
+*Streptococcus sanguinis*의 생물막 형성 기전(필리, SrpA, GtfP, eDNA)과 우식원균(*S.
+
+mutans*) 및 치주병원균(*P.
+
+gingivalis* 등)에 대한 길항 상호작용을 정리하고, 구강 건강 공생세균이면서 동시에 감염성 심내막염 원인균이라는 이중 역할을 설명한 서술 리뷰.
 
 ## 1. Document Information
 

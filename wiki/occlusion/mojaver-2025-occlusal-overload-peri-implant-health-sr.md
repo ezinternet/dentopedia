@@ -22,11 +22,19 @@ relations:
     target: fan-2018-occlusal-trauma-and-excessive-occlusal
 ---
 
-## One-line Summary
-Narrative SR (160→80 studies, no meta-analysis) reporting occlusal overload/trauma associates with marginal bone loss (0.65–3.0 mm) and peri-implantitis incidence (20–50%), via a mechanical-overload × biofilm-inflammation dual pathway.
+## Three-line Summary
+Narrative SR (160→80 studies; no meta-analysis) synthesizing clinical, experimental, FEA, and prior SR evidence on occlusal overload and peri-implant pathology in adults with implants.
 
-## 한줄요약
-서술적 SR(160→80편, 메타분석 없음) — 교합 과부하·외상이 임플란트 변연골소실(0.65–3.0 mm)·임플란트주위염 발생률(20–50%)과 연관되며, 기계적 과부하 × biofilm 염증 이중 경로가 동인.
+Occlusal overload associates with peri-implant marginal bone loss of 0.65–3.0 mm and peri-implantitis incidence of 20–50%, amplified when inflammation is already present; canine/lingualized occlusion correlated with less crestal bone loss than group-function/monoplane.
+
+Associations (not proven causation) are limited by design heterogeneity, inconsistent "overload" definitions, and positive-publication bias; the dual mechanical × biofilm pathway model warrants RCTs before guiding protocol changes.
+
+## 세줄요약
+서술적 SR(160→80편, 메타분석 없음) — 성인 임플란트 환자에서 교합 과부하·외상이 임플란트 주위 병리에 미치는 영향을 임상·동물·FEA·선행 SR을 종합.
+
+교합 과부하는 변연골소실 0.65–3.0 mm·임플란트주위염 발생률 20–50%와 연관되며 염증 공존 시 악화; 견치유도·설측화 교합이 군기능·단평면보다 치조정 골소실 적음.
+
+설계 이질성·과부하 정의 비일관·긍정 출판 편향으로 인과관계 미입증 — 기계적 과부하 × biofilm 이중 경로 모델은 프로토콜 변경 전 RCT 검증 필요.
 
 ## Summary
 University of Pennsylvania periodontics/prosthodontics group SR (Journal of Prosthodontics 2025). Of 160 references, 80 studies (clinical, experimental, FEA, prior SR) were synthesized **narratively** — no meta-analysis. The review concludes that occlusal trauma and excessive loading **do** associate with peri-implant marginal bone loss and peri-implantitis, but frames this as an association within a synergistic biomechanical-biological model rather than proven independent causation. Because implants lack a periodontal ligament (no force damping, no mechanoreceptor feedback), they are presented as inherently more vulnerable to overload than natural teeth.

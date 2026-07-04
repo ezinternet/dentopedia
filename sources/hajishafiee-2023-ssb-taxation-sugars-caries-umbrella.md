@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Directly extends [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] (same lead policy author, same dose-response framework) to quantify the public-health impact of SSB taxation on caries prevention in both high-income and low-middle-income countries — providing the upstream policy evidence that contextualizes why managing the cariogenic environment around [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] restorations matters.
 
-## One-line Summary
-Umbrella review of systematic reviews (14 SRs for SSB-tax/consumption questions; 5 SRs for sugars-caries dose-response) estimating that a 20% volumetric SSB tax would reduce free sugars by ~4.0–4.4 g/day and prevent 0.03 carious teeth per adult and 2.7–2.9% caries occurrence in children over 10 years in both HIC and LMIC — a statistically modest but population-scalable effect.
+## Three-line Summary
 
-## 한줄요약
+Umbrella review of systematic reviews (14 SRs for SSB-tax/consumption questions;
+
+5 SRs for sugars-caries dose-response) estimating that a 20% volumetric SSB tax would reduce free sugars by ~4.0–4.4 g/day and prevent 0.03 carious teeth per adult and 2.7–2.9% caries occurrence in children over 10 years in both HIC and LMIC — a statistically modest but population-scalable effect.
+
+(incomplete)
+
+## 세줄요약
+
 Umbrella review: SSB 20% 과세 → 자유당 약 4.0–4.4 g/일 감소 → 성인 0.03치아·소아 우식 발생 2.7–2.9% 예방(10년, HIC·LMIC 공통) — 효과 규모는 제한적이나 인구집단 수준에서 의미 있음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Public Health 2023;23:986. Published 2023-05-25. Open Access (CC BY 4.0).

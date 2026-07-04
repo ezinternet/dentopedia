@@ -9,7 +9,7 @@ pdf_filename: vankos-2026-digital-conventional-implant-impressions-edentulous.pd
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 MDPI Dentistry 2026 (Semmelweis): SR+MA in vitro (34 papers; PROSPERO CRD42023393091): digital vs conventional implant impressions in edentulous full-arch — no significant differences in trueness/precision (RMS); IOS accuracy remains debated in edentulous cases.
 
 ## 1. Key Results

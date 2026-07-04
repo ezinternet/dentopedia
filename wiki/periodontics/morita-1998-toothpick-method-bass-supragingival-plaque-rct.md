@@ -19,13 +19,21 @@ relations:
     target: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=20 dental students, split-mouth, modified Quigley-Hein index, 6 sites/tooth): the Watanabe Toothpick toothbrushing method removed significantly more proximal-surface plaque than the Bass method.
+Split-mouth RCT (n=20 male dental students; 2-quadrant allocation per method; 2-minute professional brushing and self-brushing experiments; modified Quigley–Hein plaque index, 6 sites per tooth, blind examiner) comparing the Watanabe Toothpick method against the Bass method for supragingival plaque removal.
 
-## 한줄요약
+The Toothpick method removed significantly more plaque from proximal tooth surfaces than the Bass method; exact index values and p-values are not recoverable from the abstract-only record.
 
-무작위 대조시험(치대생 20명, split-mouth, 변형 Quigley-Hein 지수, 치아당 6부위): 와타나베 이쑤시개법(Toothpick method)이 Bass법보다 인접면 치면세균막을 유의하게 더 많이 제거했다.
+This is the cornerstone primary trial establishing the proximal-surface superiority of the Toothpick method, providing the empirical basis for subsequent systematic reviews and clinical applications including professional toothbrushing adjuncts in diabetic periodontitis.
+
+## 세줄요약
+
+분할구강 RCT (남자 치대생 20명; 구강당 2사분면씩 배분; 전문가 칫솔질 및 자가 칫솔질 실험; 변형 Quigley-Hein 치면세균막 지수, 치아당 6부위, 맹검 검사자): 와타나베 이쑤시개법 vs Bass법 치면세균막 제거 비교.
+
+이쑤시개법이 Bass법보다 인접면 치면세균막을 유의하게 더 많이 제거; 정확한 지수값·p값은 초록만 수집된 이 문헌에서 확인 불가.
+
+이쑤시개법의 인접면 우월성을 확립한 핵심 일차 연구로, 이후 SR 및 당뇨 치주염 환자 대상 전문가 칫솔질 보조 요법 임상 적용의 근거를 제공한다.
 
 ## Summary
 

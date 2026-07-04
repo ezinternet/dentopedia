@@ -17,13 +17,21 @@ text_filename: dioguardi-2025-radiographic-artifacts-caries-diagnosis-sr-ma.txt
 
 사용자 요청으로 PA(periapical/intraoral) artifact 근거 보강 — 특히 "실제 병변으로 오인되는 해석적(interpretive) artifact" 축. 기존 위키에 파노라마 ghost artifact 페이지는 있으나, 구내 bitewing/PA에서 **우식으로 오인되는 광학 artifact**(Mach band, cervical burnout, TSR)를 정량화한 근거가 없었다. 본 SR+MA는 이 optical effect의 유병률(상악 대구치 TSR ~26%)과 위양성률(~13%)을 메타분석해, [[radiology/elkhateeb-2022-psp-image-plate-artifacts-prevalence]](기술적 acquisition artifact)와 짝을 이루는 **해석 단계 artifact** 근거가 된다. 우식 검출 정확도([[caries/foros-2021-early-caries-detection-methods-sr-ma]])를 위양성원(false-positive source) 관점에서 한정(refine)함.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (Oral Radiol 2025, 5 studies, PROSPERO-registered) of radiographic optical artifacts on intraoral bitewing/periapical images: non-carious triangular-shaped radiolucencies (TSR) on maxillary molars had ~26% raw prevalence (pooled 0.308, I²≈98%) — markedly higher in primary (~51%) than permanent (~27%) molars — and optical effects (TSR, Mach band, cervical burnout) were misread as caries/fracture in ~13% of observations (pooled 0.133); GRADE certainty low to very low.
+Systematic review + meta-analysis (Oral Radiol 2025, 5 observational studies, PROSPERO-registered) of radiographic optical artifacts (Mach band, cervical burnout, TSR) on intraoral bitewing/periapical images affecting caries diagnosis.
 
-## 한줄요약
+Non-carious triangular-shaped radiolucencies (TSR) on maxillary molars had ~26% raw prevalence (pooled 0.308, 95% CI 0.129–0.487, I²≈98%), markedly higher in primary teeth (~51%) than permanent molars (~27%), and these optical effects were misread as caries or fracture in ~13% of observations (pooled 0.133, I²=89%).
 
-체계적 문헌고찰+메타분석(Oral Radiol 2025, 5편, PROSPERO 등록): 구내 bitewing/치근단 영상의 광학 artifact — 상악 대구치 비우식성 삼각형 방사선투과상(Triangular-Shaped Radiolucency, TSR) 유병률 ~26%(pooled 0.308, I²≈98%), 유치(~51%)가 영구치(~27%)보다 훨씬 높음. 광학효과(TSR·Mach band·치경부 소각 cervical burnout)가 우식/파절로 오인된 위양성 ~13%(pooled 0.133); GRADE 근거등급 낮음~매우 낮음.
+GRADE certainty low to very low; risk of false-positive diagnosis from optical artifacts warrants masking test, contrast-adjustment software, or clinical correlation before treatment.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석(Oral Radiol 2025, 5편 관찰연구, PROSPERO 등록): 구내 bitewing/치근단 영상의 광학 artifact(Mach band, 치경부 소각, TSR)가 우식 진단에 미치는 영향을 정량화.
+
+상악 대구치 비우식성 삼각형 방사선투과상(TSR, Triangular-Shaped Radiolucency) 유병률 약 26% (pooled 0.308, 95% CI 0.129–0.487, I²≈98%), 유치(51%)가 영구치(27%)보다 현저히 높으며, 이들 광학효과가 우식 또는 파절로 오인된 위양성 약 13% (pooled 0.133, I²=89%).
+
+GRADE 근거등급 낮음~매우 낮음이나, 치료 전 masking test·명도 조정 소프트웨어·임상 연관성 검증 등으로 광학 artifact 위양성 위험을 경감해야 함.
 
 ## 1. Document Information
 

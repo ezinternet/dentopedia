@@ -17,11 +17,21 @@ text_filename: bader-alzamanan-2026-arthrocentesis-iprf-tmd-meta-tsa.txt
 
 기존 [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]]는 관절천자(Arthrocentesis) 병용 주입제를 HA·PRP·corticosteroid 중심으로 비교하며 i-PRF는 다루지 않는다. 본 2026 SR+MA(9 RCT, n=320)는 i-PRF 단일 주입제로 범위를 좁혀, pain 1차 outcome에 **Trial Sequential Analysis(TSA)**까지 적용해 근거가 conclusive·sufficiently powered임을 확인한다 — zhang의 injectable-agent 프레임워크를 i-PRF로 확장·정량화하는 근거. (PubMed full text; DOI https://doi.org/10.7759/cureus.110871)
 
-## One-line Summary
-Updated SR+MA with TSA (Cureus 2026; 9 RCTs, 320 patients / 374 joints): arthrocentesis + injectable platelet-rich fibrin (i-PRF) significantly reduces TMD pain (MD -1.62 VAS, 95% CI -2.28 to -0.96, p<0.001) and improves MMO (+5.03 mm), contralateral excursion, and protrusive movement vs control; TSA confirms the pain result is conclusive and sufficiently powered; GRADE moderate.
+## Three-line Summary
 
-## 한줄요약
-업데이트 SR+MA + TSA (Cureus 2026; 9 RCT, 환자 320명/관절 374개): 관절천자(Arthrocentesis)에 주입형 혈소판농축섬유소(i-PRF) 병용 시 악관절증(TMD) 통증 유의 감소(VAS MD -1.62, 95% CI -2.28~-0.96, p<0.001), 최대개구량(MMO) +5.03 mm·반대측 측방운동·전방운동 개선; TSA로 통증 결과가 결정적·충분 검정력 확인; GRADE moderate.
+Updated SR+MA with Trial Sequential Analysis (TSA; 9 RCTs; 320 patients / 374 joints; 5 countries, 2021–2026; Cochrane RoB-2; GRADE) evaluating arthrocentesis plus intra-articular injectable platelet-rich fibrin (i-PRF) vs arthrocentesis alone or conservative care in TMD internal derangement.
+
+Arthrocentesis + i-PRF significantly reduced TMD pain (VAS MD −1.62, 95% CI −2.28 to −0.96, p<0.001; I²=73.5%; GRADE moderate) at 3, 6, and 9–12 months; MMO improved by +5.03 mm; contralateral excursion and protrusion also improved; TSA Z-curve crossed sequential monitoring boundaries confirming the pain result is conclusive and sufficiently powered.
+
+Substantial heterogeneity in Wilkes staging, centrifugation, and lavage protocols limits cross-study comparability; QoL (OHIP-14) was non-significant (2 studies), and larger standardized RCTs with longer follow-up are still needed.
+
+## 세줄요약
+
+업데이트 SR+MA + TSA(RCT 9편; 환자 320명/관절 374개; 5개국, 2021–2026; Cochrane RoB-2; GRADE) — 악관절 내부장애(TMD) 환자의 관절천자(Arthrocentesis)+주입형 혈소판농축섬유소(i-PRF) vs 관절천자 단독/보존적 치료 비교.
+
+Arthrocentesis+i-PRF가 TMD 통증을 유의하게 감소(VAS MD −1.62, 95% CI −2.28~−0.96, p<0.001; I²=73.5%; GRADE 중등도) — 3·6·9–12개월 하위분석 모두 유의; MMO +5.03 mm; 반대측 측방운동·전방운동 개선; TSA Z-곡선이 순차모니터링 경계를 넘어 통증 결과가 결정적·충분 검정력임을 확인.
+
+Wilkes 단계·원심분리·세척 프로토콜 이질성으로 해석 제한; QoL(OHIP-14)은 비유의(2편); 장기 추적·표준화 RCT 추가 필요.
 
 ## 1. Document Information
 

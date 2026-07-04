@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]]·[[wiki/behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]]의 일반 커뮤니케이션·SDM 원칙을, 우리 클리닉 핵심 진료인 임플란트·심미 영역의 "기대관리"로 구체화. 소셜미디어發 비현실적 기대, 재실패 환자 응대, 술자 wellbeing까지 — 임플란트 상담 동의·기대정렬 실무에 직접. 임플란트 카테고리와 행동치의학을 잇는 가교.
 
-## One-line Summary
+## Three-line Summary
 
-Expert narrative/opinion (BDJ) on managing patient expectations in implant and aesthetic dentistry — social media inflates expectations away from biological reality; transparent communication, informed consent and empathetic care align expectations and reduce dissatisfaction, while complex/repeat-failure cases threaten both patient and clinician wellbeing.
+Expert narrative/opinion article (BDJ 2025) by a four-decade implant and prosthodontic practitioner, drawing on clinical experience without empirical data; no randomized evidence.
 
-## 한줄요약
+Social media and digital culture inflate patient expectations beyond biologically achievable implant and aesthetic outcomes; patients commonly misunderstand complexity and limitations, and unrealistic expectations combined with prior treatment failures threaten both patient satisfaction and clinician wellbeing.
 
-임플란트·심미 치과의 기대관리에 관한 전문가 narrative(BDJ) — 소셜미디어가 생물학적 현실과 동떨어진 기대를 부풀림. 투명한 소통·사전동의·공감적 진료가 기대를 정렬하고 불만을 줄임. 복합·재실패 증례는 환자와 술자 양쪽 wellbeing을 위협하므로 회복탄력성·팀 응집 전략이 필요.
+Transparent communication and structured informed consent are essential to align expectations and reduce dissatisfaction; complex or repeat-failure cases require emotional resilience and team cohesion strategies from the clinician.
+
+## 세줄요약
+
+임플란트·심미 치과 40년 경력 술자가 BDJ(2025)에 발표한 전문가 내러티브/의견문; 실증 데이터 없는 비경험적 논문.
+
+소셜미디어·디지털 문화가 생물학적으로 달성 가능한 결과를 넘어선 기대를 형성하며, 환자들은 임플란트 치료의 복잡성·한계를 흔히 잘못 이해함; 비현실적 기대와 과거 실패 증례가 겹치면 환자·술자 양측 wellbeing이 위협받음.
+
+투명한 소통과 체계적인 사전동의가 기대를 정렬하고 불만을 줄이는 핵심이며, 복잡·재실패 증례를 다룰 때는 술자의 회복탄력성과 팀 응집 전략이 필요.
 
 ## 1. Document Information
 - Journal: British Dental Journal 2025

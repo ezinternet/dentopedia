@@ -17,13 +17,23 @@ text_filename: lingam-2023-common-errors-subjective-quality-panoramic.txt
 
 기존 wiki의 ghost image 페이지들([[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]], [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]])은 ghost image의 형성 기전과 개별 증례(case-report)에 집중돼 있어, "실제 임상 코호트에서 ghost image / artifact가 얼마나 흔한가"에 대한 유병률 근거가 없었다. 본 2,629장 cross-sectional 연구는 ghost image(error 10)를 10개 positioning error 중 하나로 정량화해(전체 2.2%, 소아 5–12세에서 유의하게 높음, P=0.001) 기존 기전·증례 페이지를 유병률로 보강한다. 파노라마 판독 시 ghost/artifact를 실제 병변으로 오인하지 않도록 하는 실무 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional audit of 2,629 digital panoramic radiographs (Orthophos XG, Riyadh): 77.2% had ≥1 positioning error, only 32.8% error-free; ghost/reflected images (error 10) were the least frequent error overall (~2.2%) but significantly concentrated in 5–12-year-old children (P=0.001), while ~15% of images were diagnostically unacceptable (exceeding the ≤10% benchmark).
 
-## 한줄요약
+Cross-sectional audit of 2,629 digital panoramic radiographs (Orthophos XG, Riyadh): 77.2% had ≥1 positioning error, only 32.8% error-free;
+
+ghost/reflected images (error 10) were the least frequent error overall (~2.2%) but significantly concentrated in 5–12-year-old children (P=0.001), while ~15% of images were diagnostically unacceptable (exceeding the ≤10% benchmark).
+
+(incomplete)
+
+## 세줄요약
+
 
 디지털 파노라마 2,629장 단면 감사(사우디 리야드): 77.2%가 자세오류 1개 이상, 무오류는 32.8%뿐이며, ghost/reflected image(오류 10)는 전체적으로 가장 드물지만(~2.2%) 5–12세 소아에서 유의하게 몰림(P=0.001), 진단 불가 영상은 ~15%로 권고 기준(≤10%)을 초과.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

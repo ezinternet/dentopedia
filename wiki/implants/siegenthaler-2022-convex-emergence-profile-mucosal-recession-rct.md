@@ -20,13 +20,21 @@ relations:
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3-arm RCT (n=47 implants, anterior; convex vs concave emergence vs healing-abutment control): at 12 months, mid-facial mucosal recession occurred in 64.3% of convex, 14.3% of concave, and 31.4% of control sites; convex carried ~13× higher odds of recession vs concave (OR 12.69, 95% CI 1.89–88.48, p=.01).
+3-arm RCT (n=47 anterior single implants; convex vs concave emergence profile vs healing-abutment control; 12-month follow-up after final crown loading) at the University of Zurich.
 
-## 한줄요약
+Mid-facial mucosal recession at 12 months: convex 64.3%, control 31.4%, concave 14.3%; convex carried ~13× higher adjusted odds of recession vs concave (OR 12.69, 95% CI 1.89–88.48, p=.01).
 
-3군 RCT (임플란트 47개, 전치부; 볼록 vs 오목 emergence vs 치유지대주 대조군): 12개월에 협측 점막 퇴축 빈도가 볼록 64.3%, 오목 14.3%, 대조군 31.4% — 볼록이 오목 대비 퇴축 위험 약 13배 (OR 12.69, 95% CI 1.89–88.48, p=.01). 오목 형태가 점막 변연을 안정시킨다.
+In the anterior esthetic zone, favor a concave (under-contoured) emergence profile over convex to preserve the mid-facial mucosal margin; aesthetic scores were equivalent across groups, questioning the routine need for a conditioning provisional given its added time (~2.5× visits) and cost (~869 CHF).
+
+## 세줄요약
+
+3군 RCT (임플란트 47개, 전치부; 볼록 vs 오목 emergence profile vs 치유지대주 대조군; 최종 보관 후 12개월 추적).
+
+12개월 협측 점막 퇴축 빈도: 볼록 64.3%, 대조군 31.4%, 오목 14.3% — 볼록이 오목 대비 퇴축 위험 약 13배 (OR 12.69, 95% CI 1.89–88.48, p=.01).
+
+전치 심미구역에서 오목(언더컨투어) 형태를 선호해야 점막 변연을 안정시킬 수 있으며, 심미 점수는 세 군 동일해 조건화 임시보철의 상시 사용에 의문 제기.
 
 ## Summary
 

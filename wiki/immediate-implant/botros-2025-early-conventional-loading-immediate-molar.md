@@ -13,11 +13,21 @@ source_collection: external
 tags: ['molar', 'early loading', 'guided surgery', 'flapless', 'ISQ', 'screw-retained zirconia']
 ---
 
-## One-line Summary
-RCT (27 patients, 30 implants): immediate molar implant placement with flapless fully-guided surgery, comparing early loading at 6 weeks (G1) vs conventional loading at 3 months (G2) — 100% survival in both groups (p=1) with no significant ISQ/RFA or DCA difference, supporting 6-week early loading as feasible.
+## Three-line Summary
 
-## 한줄요약
-RCT (n=27 환자, 30 임플란트): 구치부 즉시식립 + 무피판 가이드 수술 후 6주(G1) vs 3개월(G2) 부하 — 생존율 양군 100% (p=1); ISQ/RFA·DCA 차이 없음; 6주 조기부하 가능.
+RCT (n=27 patients, 30 implants, Int J Implant Dent 2025) comparing early loading at 6 weeks vs conventional loading at 3 months after flapless fully-guided immediate molar implant placement restored with screw-retained monolithic zirconia.
+
+Implant survival was 100% in both groups (p=1); ISQ/RFA (74.4 vs 73.67) and DCA (79.07 vs 78.93) at the prosthetic phase showed no significant difference between loading time points.
+
+Six-week early loading is feasible after adequately stable flapless-guided molar immediate implant placement; small sample size and short follow-up limit definitive recommendations.
+
+## 세줄요약
+
+RCT (n=27명, 30개 임플란트, Int J Implant Dent 2025): 무피판 가이드 즉시 구치부 임플란트식립 후 6주 조기부하(G1) vs 3개월 통상부하(G2), screw-retained 단일체 지르코니아 보철 비교.
+
+양군 모두 생존율 100% (p=1); 보철 시점 ISQ/RFA (74.4 vs 73.67), DCA (79.07 vs 78.93) 모두 그룹 간 유의차 없음.
+
+충분한 초기 안정성이 확보된 경우 6주 조기부하가 임상적으로 안전하나, 소규모 표본과 짧은 추적 기간으로 확정적 결론에는 한계가 있다.
 
 ## Summary
 PICO: in patients >18 yr, does early loading of immediately placed molar implants result in similar implant survival and MBL as conventional loading? 27 patients, 30 implants placed immediately after molar extraction with flapless atraumatic protocol; restored with screw-retained monolithic zirconia at 6 wk (G1) or 3 mo (G2).

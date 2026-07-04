@@ -27,13 +27,21 @@ tags: [pdrn, polydeoxyribonucleotide, a2a-receptor, bone-regeneration, soft-tiss
 > - 가장 빠르게 human 근거가 붙는 임상 입지는 **재생이 아니라 진통·항염** — 발치(매복 제3대구치) 술후 통증(Kim 2026 RCT), TMJ prolotherapy(Choi 2026 후향 n=66: VAS 4.34→1.00, 최대개구량(Maximum Mouth Opening, MMO) 31.0→40.8mm, PDRN ≈ dextrose), 비치과 SR/MA(건·인대 SMD −1.43; 슬관절 OA HA 대비 단기 우위)가 보강.
 > - 오판 패턴 3가지: ① "PDRN이 BIC를 높인다"(틀림), ② "PDRN-collagen이 autograft를 대체한다"(과장), ③ "human 근거가 쌓였다"(RCT는 통증 1편뿐, 재생 endpoint human 0편). MRONJ는 카탈로그 언급에서 기전 근거(Pachhapure 2025 in vitro, TBK1 경로)로 격상됐으나 단일 세포주 한계.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 17 wiki papers on polydeoxyribonucleotide (PDRN) in dentistry: mechanism (A2A adenosine receptor + nucleotide salvage pathway) is well-anchored, but the evidence splits sharply — the **analgesic/anti-inflammatory** effect now has the strongest human support (1 dental RCT + 1 TMJ retrospective cohort + 2 non-dental SR/MA), while the **regenerative** effect remains entirely animal/in-vitro and is consistently zone-specific, outcome-specific, and temporally front-loaded (early acceleration that narrows by endpoint). PDRN moves early/peripheral bone, keratinized tissue, and pain — but not primary osseointegration (BIC/BAFO) or soft-tissue volume, and does not replace autograft.
+Synthesis of 17 wiki papers on polydeoxyribonucleotide (PDRN) in dentistry across mechanism (A2A adenosine receptor activation + nucleotide salvage pathway, receptor-mediated causality confirmed by A2A antagonist blockade in rat model), analgesic/anti-inflammatory use, and regenerative applications in bone/soft tissue/TMJ.
 
-## 한줄요약
+The evidence splits sharply by endpoint: analgesic/anti-inflammatory is the strongest human-evidence claim (1 dental RCT for post-extraction pain, 1 TMJ prolotherapy retrospective cohort n=66, 2 non-dental SR/MAs including tendon SMD −1.43), while all regenerative claims remain entirely animal/in-vitro, are zone-specific and outcome-specific (new bone area ↑ but BIC/BAFO unchanged; KT height ↑ but soft-tissue volume unchanged), and are temporally front-loaded (early acceleration that narrows toward endpoint); dose is non-linear (RUNX2 peak at 25 µg/mL, COL1A1 at 75 µg/mL) and autograft replacement is not supported.
 
-PDRN(폴리데옥시리보뉴클레오티드, Polydeoxyribonucleotide) 치과 적용 17편 종합 — 기전(A2A 아데노신 수용체 + 뉴클레오티드 구제경로)은 탄탄하다. 근거가 둘로 갈린다: **진통·항염** 효과는 human 근거가 가장 강하고(치과 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생** 효과는 전부 animal·in vitro이며 zone·outcome 한정 + 시간적으로 초기 전엽(early acceleration 후 종점에서 격차 축소)이다. 초기/주변부 골·각화치은·통증은 움직이나 1차 골유착(BIC·BAFO)·연조직 부피는 못 움직이고 autograft를 대체하지 못한다.
+PDRN is a rationale low-cost, low-risk adjunct — especially for pain/inflammation after surgery or in TMJ prolotherapy — but should not be presented as a primary regenerative agent or autograft substitute on current evidence.
+
+## 세줄요약
+
+폴리데옥시리보뉴클레오티드(PDRN) 치과 적용 17편 종합 — 기전(A2A 아데노신 수용체 + 뉴클레오티드 구제경로, A2A 길항제로 수용체 매개 확인)·진통/항염·골/연조직/턱관절(TMJ) 재생 적용 통합.
+
+근거가 결과 지표에 따라 갈린다: 진통·항염은 가장 강한 human 근거(치과 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2 포함), 재생 효과는 전부 동물·in vitro이며 zone·outcome 한정(신생골 면적↑이나 BIC/BAFO 무차이, 각화치은 높이↑이나 연조직 부피 무효), 초기 가속 후 종점에서 격차 축소; 용량 비선형(RUNX2 최적 25 µg/mL·COL1A1 75 µg/mL), 자가이식 대체 미지지.
+
+저비용·저위험 보조제로서 발치 후 통증·TMJ prolotherapy에는 합리적; 1차 재생치료 또는 자가이식 대체 근거로는 불충분 — 현재 근거 수준으로 과도한 청구 금지.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized within-patient case-series (11 patients, 22 implants — 11 bimodal control vs 11 proactive hydrophilic/rough test, Neoss) placed in fresh maxillary sockets and immediately loaded: both surfaces showed a ~2-week ISQ dip, but the proactive test implant dipped less and recovered to significantly higher stability at 12 weeks (test +3.5±4.6 vs control −0.3±5.6 ISQ from baseline; p=0.021), with 95.5% overall survival.
+Split-mouth randomized case-series (11 patients, 22 maxillary implants) comparing bimodal (minimally rough, control) vs proactive (moderately rough + hydrophilic, test) Neoss surfaces in fresh extraction sockets immediately loaded with screw-retained provisionals.
 
-## 한줄요약
+Both surfaces showed a ~2-week ISQ stability dip, but the proactive test surface dipped less and recovered faster, yielding significantly higher 12-week stability (test +3.5±4.6 vs control −0.3±5.6 ΔISQ from baseline, p=0.021) with equal marginal bone loss at 3 years and 95.5% survival.
 
-같은 환자에서 두 표면을 짝지어 비교한 무작위 케이스 시리즈(11명, 22개 — bimodal 대조 11 vs proactive 친수성·거친 표면 시험 11, Neoss)를 상악 발치와에 즉시식립·즉시부하: 두 표면 모두 2주째 ISQ 하강(stability dip)을 보였으나 proactive 시험 임플란트는 하강 폭이 작고 회복이 빨라 12주째 유의하게 높은 안정성(시험 +3.5±4.6 vs 대조 −0.3±5.6 ISQ, p=0.021), 전체 생존율 95.5%.
+When immediate loading drives a fresh-socket implant through its stability nadir, a moderately rough hydrophilic surface buffers the dip and accelerates secondary-stability gain; the dip advantage was in the buccopalatal but not mesiodistal direction.
+
+## 세줄요약
+
+분할구강 무작위 케이스 시리즈 (11명, 상악 22개 임플란트): 동일 거시설계의 bimodal(최소 거칠기, 대조) vs proactive(중등도 거칠기+친수성, 시험) Neoss 표면을 발치 직후 즉시부하 조건에서 비교.
+
+두 표면 모두 2주째 ISQ 안정성 딥(stability dip)이 나타났으나, proactive 시험 임플란트는 딥이 얕고 회복이 빨라 12주 ISQ가 유의하게 높았다(시험 +3.5±4.6 vs 대조 −0.3±5.6, p=0.021). 3년 변연골 소실과 생존율(95.5%)은 동등.
+
+즉시부하 발치와에서 중등도 거칠기·친수성 표면이 안정성 딥을 완충하고 이차안정성 획득을 앞당기는 임상적 이점이 있으나 방향성(협구개 방향에서만 유의)에 주의가 필요.
 
 ## Summary
 

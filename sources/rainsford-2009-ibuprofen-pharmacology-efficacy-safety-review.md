@@ -10,7 +10,7 @@ pdf_filename: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Inflammopharmacology 2009 광범위 review (68pp, K.D. Rainsford): ibuprofen 약리·임상효과·안전성 — OTC 800-1,200mg/day와 처방 1,800-2,400mg/day 비교; COX-1/2 억제 메커니즘; APAP 비교 안전 프로필; 류마틱 등 만성 indication.
 
 ## 1. Document Information

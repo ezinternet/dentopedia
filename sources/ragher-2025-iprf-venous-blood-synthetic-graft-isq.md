@@ -17,13 +17,23 @@ text_filename: ragher-2025-iprf-venous-blood-synthetic-graft-isq.txt
 
 간접 상악동거상술(indirect sinus augmentation, ISA) 후 이식재 종류에 따른 임플란트 안정성(ISQ) 차이를 비교한 RCT가 없었음. 본 논문은 4개 군(무이식, 정맥혈, i-PRF, 합성골)을 동일 프로토콜 하에 직접 비교하여 [[wiki/implants/isq/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft]]의 무이식 경치조골 데이터를 생물학적 강화재(i-PRF, 합성골) 비교 맥락으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=64, 4 groups) comparing no graft, venous blood, i-PRF, and synthetic graft (NovaBone) for indirect sinus augmentation found that i-PRF and NovaBone achieved significantly higher ISQ values at 6 months (ISQ ~70–76) vs. no graft or venous blood (ISQ ~55–62), with no significant difference between i-PRF and synthetic graft.
 
-## 한줄요약
+RCT (n=64, 4 groups) comparing no graft, venous blood, i-PRF, and synthetic graft (NovaBone) for indirect sinus augmentation found that i-PRF and NovaBone achieved significantly higher ISQ values at 6 months (ISQ ~70–76) vs.
+
+no graft or venous blood (ISQ ~55–62), with no significant difference between i-PRF and synthetic graft.
+
+(incomplete)
+
+## 세줄요약
+
 
 간접 상악동거상술 후 i-PRF군과 합성골(NovaBone)군이 무이식군·정맥혈군 대비 6개월 ISQ를 유의하게 높였으며(~70–76 vs ~55–62), 두 군 간 차이는 없었다 (RCT, n=64).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

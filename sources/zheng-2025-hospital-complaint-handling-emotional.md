@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Shows the analytic frontier of the response axis: an RCT that pairs a **three-engine pipeline** — DISC behavioural typing (prescriptive response scripts) + Boson sentiment lexicon (negative-emotion intensity) + KANN-DBSCAN clustering (latent complaint themes) — to drive hospital quality improvement. Connects complaint handling to organisational development and previews how a clinic could analyse its own complaint text and tailor responses. Extends the manual coding of [[complaint-management/bmjqs-2015-004596]] (HCAT) toward automated, prescriptive sentiment + clustering, within the [[overviews/complaint-management-pipeline-classification-expectation-response-education]] response axis.
 
-## One-line Summary
-Randomised intervention (n=334 vs 341) at a Chinese tertiary hospital combining a DISC behavioural-language model, a Boson sentiment lexicon, and KANN-DBSCAN clustering to handle complaints; total satisfaction 93.39% vs 83.24% (p<0.001).
+## Three-line Summary
 
-## 한줄요약
+Randomised intervention (n=334 vs 341) at a Chinese tertiary hospital combining a DISC behavioural-language model, a Boson sentiment lexicon, and KANN-DBSCAN clustering to handle complaints;
+
+total satisfaction 93.39% vs 83.24% (p<0.001).
+
+(incomplete)
+
+## 세줄요약
+
 중국 3차병원 무작위배정 개입연구(개입 334 vs 대조 341) — DISC 행동언어모델 + Boson 감성사전 + KANN-DBSCAN 군집을 결합한 민원처리로 총 만족도 93.39% vs 83.24% (p<0.001).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Frontiers in Health Services 2025;5:1610004. Original Research. CC BY. Published 26 Aug 2025.

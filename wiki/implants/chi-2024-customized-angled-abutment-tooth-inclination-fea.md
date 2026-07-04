@@ -18,13 +18,21 @@ relations:
     target: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea
 ---
 
-## One-line Summary
+## Three-line Summary
 
-FEA + in vitro strain gauge (customized angled abutments 20–33° based on CBCT incisor inclination vs standard 15°): customized higher-angle abutments → higher bone stress under axial loading; standard 15° → higher stress under oblique loading; load direction determines the winner.
+FEA and in vitro strain gauge study (customized angled abutments 20–33° based on CBCT incisor inclination measurements across 4 age groups vs standard 15°; 100 N axial + 50 N oblique loading) for anterior maxillary immediate implants.
 
-## 한줄요약
+Customized higher-angle abutments (20–33°) increased bone/implant stress under axial loading; standard 15° abutments generated greater stress under oblique loading — load direction determines the biomechanically superior design.
 
-FEA+실험 (CBCT 절치 경사도 기반 맞춤형 20–33° 지대주 vs 표준 15°): 맞춤형 지대주→축방향 하중 시 골 응력 증가; 표준 15°→사선 하중 시 응력 증가; 하중 방향이 최적 지대주를 결정한다.
+Because real mastication involves predominantly oblique forces, custom-angle abutments aligned to tooth inclination may reduce long-term bone stress, but patients with parafunctional habits (clenching) face elevated axial-load risk at higher abutment angles.
+
+## 세줄요약
+
+유한요소분석 (Finite Element Analysis, FEA) + 인비트로 변형률 게이지 연구: CBCT 절치 경사각 4개 연령군 평균 (20°–33°) 기반 맞춤형 지대주 vs 표준 15° 지대주, 축방향 100 N + 사선 50 N 하중.
+
+맞춤형 고경사 지대주 (20–33°) → 축방향 하중 시 골·임플란트 응력 증가; 표준 15° → 사선 하중 시 더 높은 응력 — 하중 방향이 최적 지대주를 결정.
+
+실제 저작력이 주로 사선이므로 경사각을 맞춘 맞춤형 지대주가 장기 골 건강에 유리할 수 있으나, 이갈이·과기능 환자에서는 축방향 과하중 위험 증가 — 교합 관리 병행 필요.
 
 ## Summary
 

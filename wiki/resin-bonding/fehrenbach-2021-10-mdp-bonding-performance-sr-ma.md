@@ -16,13 +16,21 @@ relations:
     target: carrilho-2019-mdp-adhesive-interface-stability-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro SR+MA (206 studies, 64 SE adhesive systems): 10-MDP-based self-etch adhesives gave significantly higher bond strength than most other acidic-monomer adhesives at both dentin (effect 6.98 MPa; 95% CI 5.61–8.36) and enamel (2.79 MPa; 95% CI 1.62–3.96), p<0.00001 — but the benefit was conditional on test method, substrate, comonomer, and application category.
+In vitro SR+MA (PROSPERO CRD42020175715; 206 studies, 64 self-etch adhesive systems) directly comparing bond strength of 10-MDP-containing self-etch adhesives versus adhesives with other acidic monomers to dentin and enamel, with Bayesian NMA across application categories.
 
-## 한줄요약
+10-MDP-based adhesives significantly outperformed most other acidic-monomer adhesives at dentin (effect 6.98 MPa; 95% CI 5.61–8.36, p<0.00001) and enamel (2.79 MPa; 95% CI 1.62–3.96, p<0.00001); however, GPDM outperformed 10-MDP (p=0.03) and PEM-F, acrylamide phosphates, 4-AET, and MAC-10 were equivalent; 2-step 10-MDP-based adhesives gave the best dentin bonds.
 
-In vitro 체계적 문헌고찰+메타분석 (논문 206편, 자가산부식 접착제 64종): 10-MDP 함유 접착제가 대부분의 다른 산성 단량체 접착제보다 상아질(효과크기 6.98 MPa; 95% CI 5.61–8.36)·법랑질(2.79 MPa; 95% CI 1.62–3.96) 모두에서 유의하게 높은 결합강도를 보였으나(p<0.00001), 그 이점은 시험법·기질·공단량체·적용 방식에 따라 달라졌다.
+10-MDP is a sound default functional monomer for higher bond strength to dentin (especially in 2-step SE systems), but does not dominate against GPDM, PEM-F, or MAC-10; in vitro bond strength advantages require clinical longevity validation before serving as definitive guidance.
+
+## 세줄요약
+
+In vitro SR+MA (PROSPERO CRD42020175715; 206편, 자가산부식 접착제 64종) — 10-MDP 함유 자가산부식 접착제 vs 다른 산성 단량체 접착제의 상아질·법랑질 결합강도 직접 비교, 적용 범주별 베이지안 네트워크 메타분석 포함.
+
+10-MDP 기반 접착제가 대부분의 산성 단량체 대비 상아질(효과크기 6.98 MPa; 95% CI 5.61–8.36, p<0.00001)·법랑질(2.79 MPa; 95% CI 1.62–3.96, p<0.00001) 모두 유의 우위; 단 GPDM이 10-MDP를 초과(p=0.03), PEM-F·아크릴아미드 인산염·4-AET·MAC-10은 동등; 2-step 10-MDP 접착제가 상아질 결합강도 최고.
+
+10-MDP는 상아질 결합강도(특히 2-step SE 시스템)의 합리적 기본 기능성 단량체이나 GPDM·PEM-F·MAC-10 대비 우위 없음; in vitro 결합강도 이점은 임상 내구성 검증 필요.
 
 ## Summary
 

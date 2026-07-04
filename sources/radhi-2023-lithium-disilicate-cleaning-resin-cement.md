@@ -9,7 +9,7 @@ pdf_filename: radhi-2023-lithium-disilicate-cleaning-resin-cement.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cureus 2023;15(8):e44389: Ivoclean vs 30% sodium silicate for saliva-contaminated lithium disilicate — sodium silicate higher SBS than Ivoclean (p<0.05); LDS responds differently from zirconia to cleaning agents.
 
 ## 1. Key Results

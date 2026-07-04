@@ -13,13 +13,23 @@ source_collection: external
 
 전신질환 동반 치주염 환자에서 비외과적 치주치료(Non-Surgical Periodontal Therapy, NSPT)의 단독 효능을 무치료 대조군과 직접 비교한 44편 RCT의 SR+MA로, periodontal medicine 맥락의 RCT를 통합해 "전신질환자에서도 NSPT가 효과적"이라는 근거를 강화한다. [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 일반 SRP 효능 근거를 전신질환 동반 인구로 확장하며, [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]의 심혈관 바이오마커 중심 분석과 짝을 이루어 치주 임상지표(PD·CAL·BOP) 관점을 보완한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 44 RCTs (search 1995–2023): in periodontitis patients with concurrent systemic conditions (diabetes, CVD, RA, pregnancy, etc.), NSPT vs untreated/SGS/OHI controls gave 0.55 mm lower mean PD at 3 months (95%CI −0.69 to −0.41, low/some-concern bias studies), plus reduced CAL and %BOP and increased %PD≤3 mm.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 RCT 44편 SR+MA(1995–2023 검색): 전신질환(당뇨·심혈관·류마티스·임신 등) 동반 치주염 환자에서 비외과적 치주치료(NSPT)가 무치료/치은연상치석제거/구강위생교육 대조군 대비 3개월째 평균 탐침깊이(PD)를 0.55 mm 더 감소(95%CI −0.69~−0.41)시켰고 CAL·%BOP 감소 및 %PD≤3 mm 증가도 확인 — 전신질환자에서도 NSPT가 효과적임을 입증.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

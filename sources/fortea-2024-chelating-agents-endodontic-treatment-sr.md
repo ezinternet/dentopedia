@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review]]의 chelator 단락을 56편 SR로 갱신. 17% EDTA 기준 대비 9/18% HEDP(etidronic acid)의 NaOCl 양립성·smear layer 예방 이점을 정리. [[endodontics/irrigation/rao-2025-maleic-acid-root-canal-scoping-review]]·[[endodontics/irrigation/teja-2022-herbal-agents-edta-smear-layer-removal-sr]]와 chelator 묶음.
 
-## One-line Summary
+## Three-line Summary
+
 SR (56 of 538 articles) comparing chelating agents — 17% EDTA most effective for smear-layer removal and growth-factor release, but 9–18% HEDP advantageous for NaOCl compatibility and avoiding smear-layer formation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR(538편 중 56편): 킬레이트제 비교 — smear layer 제거·성장인자 방출은 17% EDTA 우수, NaOCl 양립성·smear layer 예방은 9–18% HEDP(에티드론산)가 유리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Clin Exp Dent 2024;16(4):e516–538. Universitat de Barcelona; search to Jan 2023.

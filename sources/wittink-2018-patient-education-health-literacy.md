@@ -16,13 +16,23 @@ text_filename: wittink-2018-patient-education-health-literacy.txt
 
 [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] maps *which* communication skills exist and how to teach/assess them, but stops short of a concrete chairside protocol. This narrative review operationalizes the health-literacy evidence into a deployable checklist of **universal health-literacy precautions** — no jargon, small concrete steps, **three key points per visit**, and the **teach-back** comprehension cycle — turning abstract "communicate clearly" guidance into specific techniques a clinician can apply to every patient regardless of literacy level.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (abstract-only — full text not retrieved): patient education has shifted from ineffective biomedical knowledge-transfer to patient-centred care; because low health literacy is common, professional bodies recommend universal precautions for all patients — avoid jargon, break information into small steps, limit each visit to three key points, confirm understanding with teach-back, keep print at ≤6th-grade level, and use visual aids.
 
-## 한줄요약
+Narrative review (abstract-only — full text not retrieved): patient education has shifted from ineffective biomedical knowledge-transfer to patient-centred care;
+
+because low health literacy is common, professional bodies recommend universal precautions for all patients — avoid jargon, break information into small steps, limit each visit to three key points, confirm understanding with teach-back, keep print at ≤6th-grade level, and use visual aids.
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰(초록만 — 전문 미확보): 환자교육은 효과 없는 생의학적 지식전달에서 환자중심 교육으로 이동했고, 낮은 건강정보이해력(health literacy)이 흔하므로 모든 환자에게 보편적 예방조치(universal precautions)를 권고한다 — 전문용어 배제, 작은 단계로 분할, **방문당 핵심 3가지로 제한**, **티치백(teach-back)**으로 이해 확인, 인쇄물은 6학년 이하 수준, 시각자료 활용.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

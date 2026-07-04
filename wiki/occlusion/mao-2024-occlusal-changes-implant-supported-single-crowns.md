@@ -16,11 +16,21 @@ relations:
     target: stilwell-2024-occlusal-considerations-implant-maintenance
 ---
 
-## One-line Summary
-SR+MA (RCT/CCT, >=10 patients) - occlusal contacts on implant-supported single crowns change over the first year after loading (relative infraocclusion vs adjacent teeth), supporting periodic occlusal re-checks.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(RCT/CCT, ≥10명) - 임플란트 단관은 부하 후 1년에 걸쳐 교합접촉이 변화(인접치 대비 상대적 저위교합) → 정기 교합 재점검 근거.
+SR+MA (Charité Berlin; RCTs/CCTs with ≥10 patients each) quantifying occlusal contact changes on implant-supported single crowns during the first year after loading using digital occlusal analysis methods.
+
+Implant-supported single crowns showed a consistent pattern of occlusal contact change over the first year — progressive relative infraocclusion compared with adjacent natural teeth — with statistically pooled effect across included studies.
+
+Findings support periodic occlusal re-checks after implant-single-crown delivery, as contacts drift even in successfully osseointegrated restorations during the first year of function.
+
+## 세줄요약
+
+임플란트 단일치관의 부하 후 1년간 교합접촉 변화를 디지털 교합분석 기법으로 정량화한 SR+MA(RCT/CCT, 각 연구 ≥10명; Charité 보철과).
+
+임플란트 단일치관은 인접 자연치 대비 상대적 저위교합이 진행되는 일관된 패턴을 1년에 걸쳐 보였으며, 포함 연구들 간 효과가 통계적으로 풀링됐다.
+
+골유착이 성공적인 임플란트 단일치관도 기능 첫 1년 동안 교합접촉이 이동하므로, 치관 장착 후 정기 교합 재점검이 필요하다는 근거를 제공한다.
 
 ## Summary
 Charite Berlin 보철과 SR+MA. 임플란트 지지 단관의 부하 후 1년간 교합접촉 변화를 정량 평가, 정기 교합 재점검의 근거를 제공.

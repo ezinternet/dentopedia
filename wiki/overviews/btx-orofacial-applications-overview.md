@@ -31,13 +31,21 @@ tags: [botulinum-toxin, btx, bonta, masseter, tmd, bruxism, gummy-smile, lip-rep
 > - 흔한 오판: ① "BoNT-A는 안전한 미용 시술" (반복주사 부작용 명확), ② "TMD 통증에 BoNT-A 1차" (표준치료·스플린트 대비 NS), ③ "임플란트 환자에 BoNT-A 무관" (동물 BIC↓). 모두 교정 필요.
 > - 임상 결론: 단기 효과·수면질 개선은 명확하나 반복주사·교근위축·임플란트 골유착 부정 영향은 환자 동의 필수 항목. 스플린트와 BoNT-A는 목표에 따라 선택 (통증=동등, 치아보호=스플린트 우선).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis integrating ~27 papers (wiki/botulinum-toxin 24 + tmj 3) on Botulinum Toxin Type A (BoNT-A) orofacial applications across 6 axes — gummy smile, myogenous TMD/myofascial pain, masseter hypertrophy/bruxism, lateral pterygoid injection guidance, implant/skeletal effects, and sleep quality. Core thesis: BoNT-A efficacy varies sharply by indication, so the framing of "a safe cosmetic procedure" is misleading — gummy smile improves a pooled ~3.2 mm but decays by 6 months (Rojo-Sanchis 2023 SR+MA), TMD pain beats placebo but is non-significant vs splint/standard care (so BoNT-A is second-line), and repeated masseter injection carries a clear trade-off (atrophy + temporalis compensatory hypertrophy + reduced bone density, with animal data showing lower bone-to-implant contact). Clinical takeaway: short-term symptom relief and sleep-quality gains are real, but repeated-injection atrophy and implant osseointegration risk must be explicit consent items.
+Synthesis of ~27 papers on Botulinum Toxin Type A (BoNT-A) orofacial applications across 6 axes: gummy smile improves pooled ~3.2 mm at 3 months but decays by 6 months (Rojo-Sanchis 2023 SR+MA); lip repositioning combination gives durable results (Adel 2023); myogenous TMD/myofascial pain shows BoNT-A > placebo but not superior to splint/standard care (Aldosari 2026 SR+MA, 36 papers; Saini 2024) — making BoNT-A second-line for TMD.
 
-## 한줄요약
+Repeated masseter injection carries a clear trade-off: atrophy + temporalis compensatory hypertrophy + reduced bone density (Nobre 2024, de-Souza-Nobre 2024); animal data show lower bone-to-implant contact (BIC↓; Deng 2023); sleep quality (PSQI) improves sustainably post-injection (Hira 2026, Ergezen 2025); BoNT-A treatment correlates with improved mandibular cortical bone remodeling (Eberliköse 2026); masseter elasticity fully recovers at 6 months while thickness only partially recovers (47%; Yan 2025 USE).
 
-보툴리눔독소 A(Botulinum Toxin Type A, BoNT-A) 구강안면 응용 24편 통합. ①gummy smile/lip — pooled 3.2mm 개선, 효과 2주 발현·3개월 peak; ②근원성 TMD/myofascial pain — placebo 우위, 표준치료·스플린트 대비 동등; ③브럭시즘·수면질 — PSQI 지속 개선 2편 추가; ④마스세터 위축 vs 탄성 회복 타임라인(USE); ⑤하악골 피질골 리모델링 — BoNT-A 치료군 cortical thickness↑; ⑥임플란트 골유착 부정 — 동물 데이터.
+Clinical takeaway: short-term symptom relief and sleep quality gains are real, but repeated-injection atrophy and implant osseointegration impairment must be explicit consent items; for pain reduction, splint and BoNT-A are equivalent at intermediate follow-up (NS), so tooth/prosthesis protection favors splint first.
+
+## 세줄요약
+
+보툴리눔독소 A (Botulinum Toxin Type A, BoNT-A) 구강안면 6축 27편 통합: 거미스마일(Gummy Smile) pooled −3.22mm(2주)·−2.70mm(3개월), 6개월 감쇠(Rojo-Sanchis 2023 SR+MA); 근원성 턱관절장애(TMD)·근막통증은 위약 우위이나 스플린트·표준치료와 동등(Aldosari 2026 SR+MA; NS) — BoNT-A는 TMD 2차 치료.
+
+반복 교근 주사 trade-off: 교근 위축·측두근 보상성 비대·골밀도 감소(Nobre 2024) + 동물에서 골-임플란트 접촉률(BIC)↓(Deng 2023); 교근 탄성은 6개월 기준선 완전 회복·두께는 47% 부분 회복(Yan 2025); 수면질(Pittsburgh Sleep Quality Index, PSQI) 지속 개선 2편 추가(Hira 2026·Ergezen 2025); 치료군에서 하악골 피질골 두께↑(Eberliköse 2026).
+
+임상 결론: 단기 증상완화·수면질 개선은 실재하나 반복 주사 위축·임플란트 골유착 영향은 동의서 필수 항목; 통증 완화 목적에서 스플린트와 동등하므로 치아·보철 기계적 보호가 목적이면 스플린트 우선; 외측익돌근(Lateral Pterygoid Muscle) 주사는 3D 프린팅 가이드와 EMG 가이드가 동등(Raafa 2025 RCT).
 
 ## Summary
 

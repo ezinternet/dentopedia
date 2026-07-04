@@ -17,13 +17,23 @@ text_filename: liang-2025-cemental-tear-diagnosis-treatment-consensus.txt
 
 위키에 시멘트질 열개(Cemental Tear)를 다룬 페이지가 전무했다. 이 질환은 임상적으로 수직치근파절(Vertical Root Fracture, VRF)·1차 근관질환·치주질환과 감별이 어려워 오진·불필요한 발치로 이어지기 쉬운데, 기존 [[cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures]] 및 [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]]의 종적 치근 파절/VRF 감별 축을 시멘트질 측 병소로 확장한다. 또 [[overviews/occlusal-trauma-periodontitis-overview]]의 교합외상 축과 연결되는, "torn fragment 완전 제거 → 골내결손 재생치료" 치주-근관 협진 결정 트리를 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Multi-institution Chinese expert consensus (Int J Oral Sci 2025) synthesizing epidemiology, pathogenesis, predisposing factors, diagnosis, differential diagnosis (vs VRF / endodontic / periodontal disease), and a location-based treatment decision tree for cemental tear, whose central principle is complete removal of torn cementum fragments.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 시멘트질 열개(Cemental Tear)의 역학·병인·감별진단(VRF·근관·치주질환)·치료 결정 트리를 정리한 중국 다기관 전문가 합의문(Int J Oral Sci 2025) — 핵심 원칙은 "찢긴 시멘트질 조각의 완전 제거"이며 CBCT가 1차 진단 도구, 조직병리가 확진 기준이다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

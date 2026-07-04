@@ -16,13 +16,21 @@ relations:
     target: sedghi-2021-oral-microbiome-key-organisms-networks
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Landmark cross-sectional study (185 subjects, 13,261 subgingival plaque samples, 40 taxa by checkerboard DNA-DNA hybridization) that defined five reproducible microbial complexes, establishing the "red complex" (P. gingivalis, T. forsythia, T. denticola) as the group most tightly associated with pocket depth and bleeding on probing.
+Landmark cross-sectional microbiological survey (185 adults — 160 with periodontitis, 25 healthy — 13,261 subgingival plaque samples, 40 taxa quantified by checkerboard DNA-DNA hybridization).
 
-## 한줄요약
+Five reproducible microbial complexes identified: the "red complex" (*P. gingivalis*, *T. forsythia*, *T. denticola*) is most strongly associated with pocket depth and bleeding on probing; the "orange complex" (*F. nucleatum*, *P. intermedia*, *P. micros* core) precedes and accompanies red-complex colonization.
 
-185명·13,261개 치은연하 치태 시료·40종을 checkerboard DNA-DNA hybridization으로 분석해 재현성 있는 다섯 개 미생물 복합체를 정의한 기념비적 연구로, "red complex"(P. gingivalis, T. forsythia, T. denticola)가 치주낭 깊이·탐침시 출혈과 가장 강하게 연관됨을 확립함.
+This paper established the specific-pathogen / red-complex paradigm of periodontitis — the historical anchor for later polymicrobial-synergy-and-dysbiosis reframings.
+
+## 세줄요약
+
+기념비적 단면 미생물 연구 (185명 — 치주염 160·건강 25 — 치은연하 치태 13,261개 시료, 40종 checkerboard DNA-DNA hybridization 정량).
+
+재현성 있는 5개 미생물 복합체 정의: "red complex" (*P. gingivalis*, *T. forsythia*, *T. denticola*)가 치주낭 깊이·탐침 시 출혈과 가장 강하게 연관; "orange complex" (*F. nucleatum*, *P. intermedia*, *P. micros* 핵심)가 red complex 군집에 선행·동반.
+
+이 연구는 치주염의 특정병원체/적색복합체 (red complex) 패러다임을 확립한 역사적 기준점 — 이후 다균성 상승 작용 및 생태 불균형 (PSD) 재해석의 토대.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [bone-level-implant, tissue-level-implant, MBL, marginal-bone-loss, platform-switching, SLActive, Morse-taper, abutment-connection, systematic-review]
 ---
 
-## One-line Summary
-Systematic review (38 clinical trials) of marginal bone loss (MBL) around bone-level (BL) vs tissue-level (TL) implants: high heterogeneity prevents a definitive BL-vs-TL verdict, but platform-switching, Morse taper connection, and SLActive surface each significantly reduce MBL, and most total MBL occurs within the first year.
+## Three-line Summary
 
-## 한줄요약
-SR (38연구): BL vs TL MBL 비교; platform-switching·Morse taper·SLActive가 MBL 감소 핵심; 1년 내 MBL이 전체 대부분
+Systematic review (38 clinical trials) comparing marginal bone loss (MBL) around bone-level (BL) vs tissue-level (TL) implants across multiple designs, connections, and surfaces.
+
+High heterogeneity prevents a definitive BL-vs-TL verdict; platform-switching reduced MBL from 0.7–2.5 mm to 0.12–0.29 mm; Morse taper connection showed the lowest bacterial leakage; SLActive surface was associated with minimal early bone loss; most total MBL occurred within the first year.
+
+Platform-switching, Morse taper/internal conical connection, and SLActive surface are the three modifiable design choices most strongly associated with reduced MBL — choose BL in esthetic zones, apply these modifiers when possible.
+
+## 세줄요약
+
+체계적 고찰 (SR, 38개 임상시험) — 골수준 (Bone-Level, BL) vs 조직수준 (Tissue-Level, TL) 임플란트의 변연골소실 (Marginal Bone Loss, MBL) 비교.
+
+높은 이질성으로 BL-TL 직접 판정 불가; 플랫폼 스위칭 (Platform Switching)이 MBL을 0.7–2.5 mm → 0.12–0.29 mm로 감소; 모스 테이퍼 연결이 세균 침투 최소; SLActive 표면이 초기 골소실 최소; 전체 MBL의 대부분이 1년 내 발생.
+
+플랫폼 스위칭·모스 테이퍼/내부 원추형 연결·SLActive 표면이 MBL 감소 3대 수정 가능 인자 — 심미 부위는 BL 선택 후 이들 요소를 가능하면 적용.
 
 ## Summary
 Systematic review of 38 clinical trials examining marginal bone loss (MBL) around bone-level (BL) and tissue-level (TL) implants. High heterogeneity prevents definitive BL vs TL comparison, but key modifiers are clear: **platform-switching**, **Morse taper connection**, and **SLActive surface** all significantly reduce MBL.

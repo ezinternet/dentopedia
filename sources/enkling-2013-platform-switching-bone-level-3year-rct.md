@@ -9,7 +9,7 @@ pdf_filename: enkling-2013-platform-switching-bone-level-3year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 3년 RCT: 플랫폼 스위칭(PS) vs 플랫폼 매칭(PM) — PS군에서 변연골 소실 유의하게 적음; 2피스 임플란트에서 PS의 골보존 효과 확인
 
 ## 1. Document Information

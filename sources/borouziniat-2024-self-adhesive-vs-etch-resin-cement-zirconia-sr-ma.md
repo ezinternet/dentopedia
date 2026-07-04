@@ -17,13 +17,21 @@ text_filename: borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-m
 
 Cement-class selection for zirconia is a recurring clinical question, and the wiki already holds [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] (self-adhesive resin cement performance on zirconia) and [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] (MDP/CAF priming with self-adhesive cement). This 2024 SR+MA (26 studies) directly compares self-adhesive vs self-etch vs total-etch resin cement classes against zirconia, supplying the head-to-head class ranking those single-system pages lack — reinforcing that 10-MDP-bearing self-adhesive/self-etch cements outperform total-etch and conventional cements.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (26 studies, 4 comparison groups) finding no significant difference in bond strength of self-adhesive vs self-etch resin cement to zirconia (immediate or delayed), while total-etch resin cement bonds significantly LOWER than self-adhesive (p=.00); both self-adhesive and self-etch are suitable for zirconia per manufacturer instructions.
+Systematic review and meta-analysis (26 in-vitro studies, 4 comparison groups, random-effects model) comparing bond strength of self-adhesive, self-etch, and total-etch resin cements to Y-TZP zirconia, assessed immediately and after aging.
 
-## 한줄요약
+Self-adhesive and self-etch resin cements showed no significant bond-strength difference to zirconia (immediate p=0.055; delayed p=0.143), while total-etch resin cement bonded significantly lower than self-adhesive at both time points (p=0.000); 10-MDP phosphate monomer accounts for the advantage.
 
-체계적 문헌고찰 + 메타분석(26편, 4개 비교군) — 지르코니아에 대한 자가접착(self-adhesive) vs 자가부식(self-etch) 레진시멘트의 결합강도는 즉시·지연 모두 유의차 없음. 전부식(total-etch)은 자가접착보다 유의하게 낮음(p=.00). 자가접착·자가부식 모두 제조사 지침대로 사용 시 지르코니아에 적합.
+All included studies were in vitro with predominantly medium-to-high risk of bias (only 1/33 low risk) and very high heterogeneity (I²>90%), so clinical retention data are lacking; both self-adhesive and self-etch cements applied per manufacturer instructions are clinically recommended for zirconia.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석(26편 in vitro, 4개 비교군, 무선효과 모델): Y-TZP 지르코니아에 대한 자가접착·자가부식·전부식 레진시멘트의 결합강도를 즉시·지연 시점별로 비교.
+
+자가접착(self-adhesive) vs 자가부식(self-etch) 레진시멘트 결합강도는 즉시(p=0.055)·지연(p=0.143) 모두 유의차 없음; 전부식(total-etch)은 자가접착 대비 유의하게 낮음(p=0.000) — 10-MDP 인산 모노머 유무가 차이를 설명.
+
+포함 연구 대부분 중-고 비뚤림 위험(33편 중 낮음 1편)이고 이질성 매우 높아(I²>90%) 임상 유지율 데이터 부재; 제조사 지침 준수 시 자가접착·자가부식 모두 지르코니아에 적합 권고.
 
 ## 1. Document Information
 

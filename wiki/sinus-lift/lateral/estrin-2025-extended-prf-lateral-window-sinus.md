@@ -13,12 +13,21 @@ source_collection: external
 tags: [lateral-window, sinus-lift, e-prf, autologous-membrane, schneiderian]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter case series (22 patients / 22 lateral window sinus lifts / 31 implants): heat-treated extended platelet-rich fibrin (e-PRF) used as the sole barrier membrane over the lateral antrostomy achieved 100% uneventful healing at ~6 months with mean post-op sinus height 12.3 mm and mean endosinus bone gain 8.0 mm; all 31 implants survived to second-stage surgery.
+Multicenter prospective case series (22 patients / 22 lateral-window sinus lifts / 31 implants) using heat-treated extended PRF (e-PRF) as the sole barrier membrane over the lateral antrostomy, at 3 clinical sites from 2022–2023.
 
-## 한줄요약
-다기관 케이스 시리즈(22 명/22 측방창 거상술/31 임플란트)에서 확장형 혈소판 풍부 피브린(extended Platelet-Rich Fibrin, e-PRF) 단독 차폐막을 측방창 위에 사용한 결과 6개월 시 합병증 없이 평균 부비동 높이 12.3 mm, 부비동 내 골 증대량 평균 8.0 mm 달성.
+Mean endosinus bone gain was 8.0 mm and mean post-op sinus height 12.3 mm; all 31 implants survived to second-stage surgery at ~6 months with 100% uneventful healing and no soft-tissue invagination.
+
+e-PRF provides a fully autologous, low-cost alternative to collagen membrane for lateral-window SFE, and a single layer sufficed to manage one intraoperative Schneiderian membrane perforation.
+
+## 세줄요약
+
+다기관 전향적 케이스 시리즈 (22명 / 22 측방창 상악동거상술 / 31 임플란트): 확장형 혈소판 풍부 피브린 (extended Platelet-Rich Fibrin, e-PRF) 단독 차폐막을 2022–2023년 3개 기관에서 적용.
+
+부비동 내 골 증대량 평균 8.0 mm, 술후 부비동 높이 12.3 mm; 31개 임플란트 모두 약 6개월 2차 수술 시 생존, 합병증·연조직 침입 0건.
+
+e-PRF는 콜라겐 막 대체 완전 자가유래 저비용 옵션이며 슈나이더막 (Schneiderian Membrane) 천공 1건도 단층으로 처리 가능함을 임상적으로 처음 입증.
 
 ## Summary
 This first case series used heat-treated extended PRF (e-PRF) — with denatured albumin extending resorption from ~2 weeks (standard PRF) to 4–6 months — as the sole barrier membrane covering the lateral window in maxillary sinus floor elevation. Across 22 lateral window sinus lifts with sticky-bone grafts (allograft, xenograft, or autologous dentin), all 31 placed implants survived to second-stage surgery at ~6 months, with mean endosinus bone gain of 8.0 mm and no soft tissue invagination.

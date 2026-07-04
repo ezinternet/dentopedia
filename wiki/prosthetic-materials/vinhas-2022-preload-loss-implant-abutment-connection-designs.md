@@ -21,13 +21,21 @@ relations:
     target: ren-2024-morse-taper-abutment-subsidence-locking-force
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro removal-torque study of 180 Klockner implants across 4 connection designs (external SK2/KL, internal Vega/Essential) finding connection design did NOT influence preload maintenance, cyclic loading (500 N × 1000 cycles) significantly reduced removal torque for all connections, and multiple re-tightening gave higher RTV than single tightening (except Vega) — hence retighten retaining screws a few minutes after insertion.
+In-vitro removal-torque study of 180 Klockner implants across 4 connection designs (external SK2/KL; internal Vega/Essential) under single tightening, multiple tightening, and multiple tightening + cyclic loading (500 N × 1000 cycles).
 
-## 한줄요약
+Connection design did NOT significantly influence preload maintenance; cyclic loading significantly reduced removal torque value (RTV) for all connections; multiple re-tightening produced higher RTV than single tightening (except Vega).
 
-180개 Klockner 임플란트(외부연결 SK2/KL·내부연결 Vega/Essential 4종)의 제거토크값(RTV) 실험. 연결방식(connection design)은 예압(preload) 유지에 영향이 없었고, 반복하중(500 N×1000회)은 모든 연결의 제거토크를 유의하게 낮췄으며, 다회 재조임이 단회 조임보다 높은 RTV를 보임(Vega 제외) → 보철나사는 식립 수 분 뒤 재조임 권장.
+The key clinical takeaway is procedural: retighten the retaining screw a few minutes after the initial torque application to recover preload lost to the sedimentation/embedment-relaxation effect.
+
+## 세줄요약
+
+In-vitro 제거토크값(RTV, Removal Torque Value) 연구: 180개 Klockner 임플란트(외부연결 SK2/KL·내부연결 Vega/Essential 4종), 단회/다회 조임·반복하중(500 N×1000회) 3단계.
+
+연결 방식은 예압(preload) 유지에 유의한 영향 없음; 반복하중은 모든 연결에서 RTV 유의하게 감소; 다회 재조임이 단회 조임보다 RTV 높음(Vega 제외).
+
+임상 핵심: 초기 조임 후 수 분 뒤 재조임으로 침강 이완(sedimentation effect)에 의한 예압 손실 회복 — 연결 방식보다 술식이 더 중요.
 
 ## Summary
 

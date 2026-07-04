@@ -17,13 +17,21 @@ text_filename: rathke-2024-ex-vivo-minimally-invasive-endodontic.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Ex vivo study (n=18/group, 6 groups) on extracted human maxillary central incisors found that minimally invasive endodontic (MIE) canal shaping (#40/.04) did not significantly reduce vertical root fracture (VRF) incidence or crack formation compared to conventional enlargement (ISO #80) after chewing simulation, regardless of sealer type; VRF resistance was in fact significantly lower in the +MIE/cement-sealer group than in untreated controls (p=0.020).
+Ex vivo factorial study (n=18/group, 6 groups, extracted human maxillary central incisors) comparing minimally invasive (#40/.04) vs conventional (ISO #80) canal shaping crossed with cement vs adhesive resin sealer, using chewing-simulation fatigue loading then load-to-fracture.
 
-## 한줄요약
+Minimal shaping did not reduce vertical root fracture (VRF) incidence or crack formation compared to conventional enlargement in any pairwise comparison after Bonferroni correction; the only significant finding was that the +MIE/cement-sealer group had lower VRF resistance than untreated controls (p=0.020).
 
-발치된 상악 중절치를 이용한 ex vivo 연구(그룹당 n=18, 총 6군)에서 최소침습 근관치료(minimally invasive endodontic treatment, MIE, #40/.04 성형)는 기존 확대(ISO #80)에 비해 저작 시뮬레이션 후 수직치근파절(vertical root fracture, VRF) 발생률이나 균열 형성을 유의하게 줄이지 못했으며, 오히려 +MIE/시멘트 실러 군의 VRF 저항성은 무처치 대조군보다 유의하게 낮았다(p=0.020).
+Clinical implication: the common assumption that "less shaping = stronger root" is not supported — shaping conservatism should be justified by disinfection tradeoffs, not by expected fracture-resistance gains.
+
+## 세줄요약
+
+발치된 상악 중절치를 이용한 요인설계 ex vivo 연구(그룹당 n=18, 6군): 최소침습 근관성형(MIE, #40/.04) vs 기존 확대(ISO #80)와 시멘트·접착 레진 실러를 교차하여 저작 시뮬레이션 피로부하 후 파절강도 비교.
+
+MIE군은 어떤 대응비교에서도 수직치근파절(Vertical Root Fracture, VRF) 발생률·균열 형성을 유의하게 줄이지 못했고, Bonferroni 보정 후 유일하게 유의한 차이는 +MIE/시멘트 군의 파절저항성이 무처치 대조군보다 낮다는 것이었다(p=0.020).
+
+임상적 의미: "성형 적게 = 강한 치근"이라는 통념은 지지되지 않으며, 보존적 성형의 임상 근거는 소독 효율 트레이드오프에서 찾아야 한다.
 
 ## Summary
 

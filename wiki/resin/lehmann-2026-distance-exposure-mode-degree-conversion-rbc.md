@@ -20,11 +20,21 @@ relations:
     target: li-2025-curing-modes-dual-cure-dentin
 ---
 
-## One-line Summary
-In vitro preliminary study (81 specimens, 27 groups: 3 resin-based composites × 3 LED exposure modes × 3 curing-tip distances) measured degree of conversion (DC) by Raman spectroscopy: top-surface DC was driven by material and distance (p<0.001, p=0.049), bottom-surface DC by material and exposure mode (p<0.001, p=0.032); flowable composite achieved the highest DC (top 74%, bottom >60%) while bulk-fill had the lowest (bottom <45%, below the ~55% clinically suggested minimum).
+## Three-line Summary
 
-## 한줄요약
-시험관내 예비연구 (시편 81개, 27개 그룹: 복합레진 3종 × LED 노출모드 3종 × 조사거리 3단계), 라만분광법으로 전환율 (Degree of Conversion, DC) 측정: 상면 DC는 재료·거리가 유의(p<0.001, p=0.049), 하면 DC는 재료·노출모드가 유의(p<0.001, p=0.032); 유동성 레진이 최고 DC(상면 74%, 하면 >60%), 벌크필 레진이 최저(하면 <45%, 임상 권장 최소치 ~55% 미달).
+In-vitro preliminary study (81 specimens, 27 groups: 3 composites × 3 LED exposure modes × 3 curing-tip distances, 0–4 mm) measuring degree of conversion (DC) by Raman spectroscopy.
+
+Top-surface DC was governed by material and distance (p<0.001, p=0.049); bottom-surface DC by material and exposure mode (p<0.001, p=0.032); flowable composite achieved the highest DC (top 74%, bottom >60%) while bulk-fill fell below the ~55% clinical minimum at the bottom surface (<45%).
+
+Bulk-fill composites must not be cured from a distance without ensuring adequate bottom-surface DC; soft-start mode performed best at the top surface (69%) and may help reduce pulp heat in deep cavities.
+
+## 세줄요약
+
+시험관내 예비연구(시편 81개, 27개 그룹: 복합레진 3종 × LED 노출모드 3종 × 조사거리 3단계 0–4 mm), 라만분광법으로 전환율(Degree of Conversion, DC) 측정.
+
+상면 DC는 재료·거리(p<0.001, p=0.049)에 의해 결정되고, 하면 DC는 재료·노출모드(p<0.001, p=0.032)에 의해 결정됨; 유동성 레진 최고(상면 74%, 하면 >60%), 벌크필 레진 하면 <45%로 임상 권장 최소치 ~55% 미달.
+
+벌크필 레진을 거리를 두고 조사할 때 하면 DC 부족 위험; soft-start 모드가 상면 DC 최고(69%)이며 심부 생활치수 와동에서 발열 저감 가능성.
 
 ## Summary
 This in vitro preliminary study evaluated how curing-light-tip distance (0/2/4 mm) and LED exposure mode (standard, soft-start, pulse) affect the degree of conversion (DC) of three resin-based composites — a nanohybrid (Evetric), a bulk-fill (Filtek One Bulk Fill), and a flowable (G-aenial Universal Flo) — using a Woodpecker LED.H curing light. DC was measured by Raman spectroscopy at both top and bottom surfaces of 81 specimens across 27 experimental groups (n=3 each). Material type dominated DC at both surfaces (p<0.001), but the second significant factor diverged by depth: distance mattered at the top surface (p=0.049) while exposure mode mattered at the bottom surface (p=0.032). The flowable composite achieved the best conversion overall; the bulk-fill composite fell below the ~55% clinically suggested minimum DC at its bottom surface, flagging a polymerization-adequacy risk for thick bulk-fill increments cured from a distance.

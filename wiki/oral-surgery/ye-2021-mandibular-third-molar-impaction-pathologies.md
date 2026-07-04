@@ -20,13 +20,21 @@ relations:
     target: damico-2025-third-molar-surgical-indications-guidelines
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (262 patients, 432 mandibular third molars, Shanghai): soft-tissue impaction and vertical angulation drove pericoronitis (82.4%), while mesio-angular shallow impaction predicted M2M distal caries, and deep mesio-angular/horizontal impaction predicted M2M distal periodontal pathology — all associations significant at p<0.0001.
+Retrospective chart review (262 patients, 432 mandibular third molars) at a Shanghai oral surgery department (Jan 2019–Jan 2020), the first study to simultaneously analyze all three major M3M-associated pathologies in a unified classification framework.
 
-## 한줄요약
+Pericoronitis prevalence was 82.41%, driven by soft-tissue impaction and vertical angulation; mesio-angular position-A impaction predicted M2M distal caries (18.75%); deep mesio-angular/horizontal impaction predicted M2M distal periodontal pathology (14.81%) — all associations p<0.0001.
 
-후향 연구 (262명, 432개): 연조직·수직 매복 → 치관주위염 82.4%; 근심경사 위치 A → 제2대구치 원심 우식; 근심·수평 심부 매복 → 제2대구치 원심 치주병변; 모두 p<0.0001로 유의.
+Age ≥30 significantly increases caries and periodontal lesion risk; 10 second molars required extraction (5 for degree III mobility, 5 for uncurable root caries), highlighting the permanent cost of long-term retention in high-risk impaction patterns.
+
+## 세줄요약
+
+후향적 차트 리뷰 (262명, 432개 하악 제3대구치, 상하이, 2019–2020년): 치관주위염·제2대구치 원심 우식·치주병변 3대 합병증을 통합 분류(Winter·Pell&Gregory·매복 깊이)로 동시 분석한 첫 연구.
+
+치관주위염 82.41% (연조직매복+수직경사가 주요 인자); 제2대구치 원심 우식 18.75% (근심경사+얕은 위치 A); 원심 치주병변 14.81% (근심·수평+깊은 위치 B/C); 모두 p<0.0001.
+
+30세 이상에서 우식·치주병변 유의하게 증가; 제2대구치 10개가 결국 발치 필요 — 고위험 매복 유형의 장기 관찰 방치 비용을 입증.
 
 ## Summary
 

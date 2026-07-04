@@ -14,11 +14,19 @@ source_collection: external
 tags: [TSFE, non-grafted, platelet-concentrate, PRF, PRP, CGF, PRGF, ISR, sinus-lift, SR-MA]
 ---
 
-## One-line Summary
-SR+MA (18 studies: 13 non-grafted + 5 platelet-concentrate-grafted transcrestal sinus floor elevation, TSFE): 1-year implant survival is equivalent — non-grafted 97% (CI 0.96–0.99) vs PC-grafted 99% (CI 0.97–1.00), no significant difference — implying that with adequate residual bone height (≥5 mm) grafting may be optional.
+## Three-line Summary
+SR+MA (18 studies: 13 non-grafted + 5 platelet-concentrate-grafted transcrestal sinus floor elevation, TSFE) comparing 1-year implant survival between graftless and platelet-concentrate-augmented approaches.
 
-## 한줄요약
-SR+MA (18연구): TSFE 1년 생존율 — 비이식 97% vs 혈소판농축물 99%, 유의차 없음; 잔존골 충분하면 이식재 선택적
+Non-grafted TSFE achieved 97% (95% CI 0.96–0.99) versus PC-grafted 99% (95% CI 0.97–1.00) 1-year implant survival rate, with no statistically significant difference between groups.
+
+For transcrestal sinus elevation with adequate residual bone height (typically ≥5 mm), bone grafting may be unnecessary, as the tenting effect of the Schneiderian membrane supports endogenous bone formation without exogenous graft.
+
+## 세줄요약
+SR+MA (18연구, 비이식 13편·혈소판농축물 이식 5편): 경치조골 상악동거상술(Transcrestal Sinus Floor Elevation, TSFE) 1년 생존율 비교 연구.
+
+비이식 97% (CI 0.96–0.99) vs 혈소판농축물(Platelet Concentrate, PC) 이식 99% (CI 0.97–1.00) — 통계적 유의차 없음.
+
+잔존골 높이(Residual Bone Height, RBH) 충분(≥5 mm)하면 이식재 없이도 동등한 1년 생존율 달성 가능하나, 장기 골안정성 데이터는 부족함.
 
 ## Summary
 SR+MA, 18 studies (13 non-grafted TSFE + 5 PC-grafted). **1-year ISR equivalent**: non-grafted **97%** (CI 0.96–0.99) vs PC-grafted **99%** (CI 0.97–1.00). Implies that for transcrestal sinus elevation with adequate RBH, **bone graft may be optional**.

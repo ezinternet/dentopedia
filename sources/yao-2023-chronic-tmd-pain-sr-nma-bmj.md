@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] (076227) 기반이 된 SR+NMA (076226). 233 RCT·59 개입을 직접·간접 비교한 가장 크고 강력한 TMD 통증 치료 NMA. [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]]의 약물 중심 NMA(2017)를 훨씬 광범위한 59 개입으로 확장.
 
-## One-line Summary
-SR+NMA (233 RCTs, n=8,713, 59 interventions, BMJ 2023): CBT+biofeedback (RD 36%), jaw mobilization (36%), manual trigger point therapy (32%) top 3 for chronic TMD pain; movement/coping-promoting therapies consistently best.
+## Three-line Summary
 
-## 한줄요약
-SR+NMA (233 RCT, 8,713명, 59 개입): CBT+바이오피드백·하악 가동화·수기 트리거포인트 치료가 만성 TMD 통증 TOP 3; 운동·대처 촉진 치료 일관 최선.
+SR+NMA (233 RCTs, n=8,713, 59 interventions, BMJ 2023): CBT+biofeedback (RD 36%), jaw mobilization (36%), manual trigger point therapy (32%) top 3 for chronic TMD pain;
+
+movement/coping-promoting therapies consistently best.
+
+(incomplete)
+
+## 세줄요약
+
+SR+NMA (233 RCT, 8,713명, 59 개입): CBT+바이오피드백·하악 가동화·수기 트리거포인트 치료가 만성 TMD 통증 TOP 3;
+
+운동·대처 촉진 치료 일관 최선.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: BMJ 383:e076226 (2023)

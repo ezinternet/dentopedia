@@ -18,13 +18,21 @@ relations:
     target: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Korean patent application (KR 10-2021-0014513 A; applicant HaeNaem Co., inventor Kim Seong-ju) for a dental condensing screw with a double-spiral structure (compression thread + bone-powder guide grooves + lower compression dome) that expands the osteotomy and densifies bone both laterally and apically in one pass, enabling transcrestal sinus elevation — the engineering basis of the HaeNaem bur.
+Korean patent (KR 10-2304707 B1, registered 2021; applicant HaeNaem Co., inventor Kim Seong-ju) for a dental condensing screw with a double-spiral structure — compression thread plus bone-powder guide grooves plus a lower compression dome — enabling simultaneous lateral and apical bone densification in a single pass.
 
-## 한줄요약
+The invention routes displaced bone powder to a convex dome at the screw tip, densifying the osteotomy floor and enabling transcrestal sinus membrane elevation, addressing the apical-density deficit of prior OD burs that densified mainly the side wall.
 
-(주)해냄 특허출원(공개 10-2021-0014513, 발명자 김성주): 이중 스파이럴(압착나사산부 + 본파우더안내홈 + 하부압착돔) 콘덴싱 스크류. 골삭제·측방 골치밀화를 동시에 하면서 분쇄골을 하부압착돔으로 보내 근단(내측)까지 치밀화 → 종래 버의 측방-편중 한계를 보완하고 단일 기구로 상악동 거상까지 수행. 해냄버의 설계 근거 문서.
+No clinical or bench measurements are provided; all stated effects are inventor assertions, and the only prospective clinical study of this bur (Changrani 2024) was subsequently retracted — leaving this patent as an engineering reference only.
+
+## 세줄요약
+
+한국 등록특허(KR 10-2304707, 등록 2021, 발명자 김성주, 출원인 (주)해냄): 이중 스파이럴(압착나사산부 + 본파우더안내홈 + 하부압착돔) 구조로 측방 골치밀화와 근단부 골치밀화를 단일 기구로 수행.
+
+골분말을 하부압착돔으로 유도해 치조골저(근단측)까지 치밀화하는 원리 — 종래 OD 버의 측방 편중 한계를 보완하고 경치조골 상악동 거상까지 가능하게 한다는 설계 주장.
+
+임상·벤치 계측치 없음(발명자 주장만), 유일한 임상 전향 연구(Changrani 2024)는 철회됨 — 현재 이 특허는 공학적 설계 참고 문헌으로만 유효.
 
 ## Summary
 

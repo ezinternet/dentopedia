@@ -20,13 +20,21 @@ relations:
 text_filename: hedesiu-2018-dental-radiological-irradiation-pediatric-population.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=7,150 children, Romania): 2D dental exams median <20 µSv; CBCT median 127 µSv = up to 34.1 days of natural background radiation; CBCT accounts for 70% of collective dose despite being 11% of exams.
+Retrospective cohort of 7,150 children and adolescents (Romania, 12,252 dental exams over 2 years), comparing effective doses across 2D and CBCT modalities with age-corrected phantom measurements.
 
-## 한줄요약
+Conventional 2D imaging median effective dose was <20 µSv; CBCT median was 127.2 µSv (highest individual CBCT equivalent to 34.1 days of natural background radiation) — CBCT comprised only 11% of exams but drove 70% of collective dose.
 
-소아 코호트(7,150명, 루마니아): 2D 치과촬영 중앙값 <20 µSv; CBCT 중앙값 127 µSv = 자연배경방사선 최대 34.1일분; CBCT는 전체 촬영의 11%이지만 집단선량의 70% 기여.
+Pediatric CBCT carries a disproportionate dose burden and CBCT use in children (especially 11–15-year orthodontic patients) should be carefully justified with individualized ALARA assessment.
+
+## 세줄요약
+
+루마니아 소아·청소년 7,150명, 12,252건 치과방사선촬영 2년간 후향적 코호트로, 연령 보정 팬텀 측정으로 2D 및 CBCT(Cone-Beam Computed Tomography) 선량을 비교한 연구.
+
+2D 촬영 중앙값 유효선량 <20 µSv; CBCT 중앙값 127.2 µSv (개인 최고치는 자연배경방사선 34.1일분에 해당) — CBCT는 전체 촬영의 11%지만 집단선량의 70%를 차지.
+
+소아 CBCT는 불균형적으로 큰 선량 부담을 가지며, 특히 11–15세 교정 환자에서 ALARA 원칙에 따른 개별 적응증 검토가 필수적이다.
 
 ## Summary
 

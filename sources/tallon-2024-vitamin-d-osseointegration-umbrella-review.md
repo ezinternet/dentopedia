@@ -17,13 +17,23 @@ text_filename: tallon-2024-vitamin-d-osseointegration-umbrella-review.txt
 
 Highest-level synthesis (umbrella review of 5 systematic reviews) anchoring the new vitamin D–osseointegration subdomain `implants/vitamin-d`. It sits above and integrates the individual SRs we hold, giving the bottom line ("vitamin D positive effect on osseointegration and reduced implant failure, but evidence quality limited") plus a structured map of the methodological flaws that future studies must avoid. Pairs with the underlying SRs [[implants/vitamin-d/werny-2022-vitamin-d-osseointegration-dental-implants-sr]] and [[implants/vitamin-d/buzatu-2024-vitamin-d-osseointegration-human-studies-sr]], and reinforces the mechanistic/clinical signal in [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]].
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (PRISMA, JBI appraisal) of 5 systematic reviews (351 records → 5 SRs → 8 relevant primary studies); vitamin D appears to positively affect osseointegration, marginal bone loss, implant survival, and reduction of early dental implant failure, but the underlying evidence is methodologically weak (no meta-analysis, confirmation/selective-reporting bias, inconsistent reference levels, unreported doses).
 
-## 한줄요약
+Umbrella review (PRISMA, JBI appraisal) of 5 systematic reviews (351 records → 5 SRs → 8 relevant primary studies);
 
-우산형 종설(Umbrella Review, PRISMA·JBI 평가)로 체계적 문헌고찰(Systematic Review, SR) 5편(검색 351건 → SR 5편 → 관련 1차 연구 8편)을 통합. 비타민 D(Vitamin D)는 골유착(Osseointegration)·변연골소실(Marginal Bone Loss, MBL)·임플란트 생존·초기임플란트실패(Early Dental Implant Failure, EDIF) 감소에 긍정적으로 보이나, 근거 질이 낮음(메타분석 부재, 확증/선택적보고 편향, 기준치·보충용량 불일치).
+vitamin D appears to positively affect osseointegration, marginal bone loss, implant survival, and reduction of early dental implant failure, but the underlying evidence is methodologically weak (no meta-analysis, confirmation/selective-reporting bias, inconsistent reference levels, unreported doses).
+
+(incomplete)
+
+## 세줄요약
+
+
+우산형 종설(Umbrella Review, PRISMA·JBI 평가)로 체계적 문헌고찰(Systematic Review, SR) 5편(검색 351건 → SR 5편 → 관련 1차 연구 8편)을 통합.
+
+비타민 D(Vitamin D)는 골유착(Osseointegration)·변연골소실(Marginal Bone Loss, MBL)·임플란트 생존·초기임플란트실패(Early Dental Implant Failure, EDIF) 감소에 긍정적으로 보이나, 근거 질이 낮음(메타분석 부재, 확증/선택적보고 편향, 기준치·보충용량 불일치).
+
+(incomplete)
 
 ## 1. Document Information
 

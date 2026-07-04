@@ -13,13 +13,21 @@ source_collection: external
 
 literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립 SR+MA. 유치 펄포토미의 diode laser 보조 효과를 정량화해 [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] · [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 술식 옵션 축을 보강.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 15 RCTs (n=1,092 primary teeth): diode-laser pulpotomy achieved clinical and radiographic success rates statistically equivalent to all comparators at 3–12 months (RR≈1.00 at every timepoint, p>0.05), while significantly reducing pathologic periodontal-ligament-space widening (RR=0.39, 95% CI 0.17–0.90, p=0.03); wavelength (632–660 nm vs 810–980 nm) and capping material had no effect on success.
+SR+MA of 15 RCTs (n=1,092 primary teeth; ages 3–10 years; countries: India 7, Iran 4, Brazil/Canada/Turkey/Saudi Arabia 1 each) comparing diode-laser pulpotomy vs any non-laser comparator (FC, MTA, FS, electrosurgery, bioceramics) at 3, 6, 9, and 12 months.
 
-## 한줄요약
+Diode-laser pulpotomy achieved clinical and radiographic success rates equivalent to all comparators at every time point (RR≈1.00, p>0.05, I²=0%) and significantly reduced pathologic periodontal-ligament-space widening (RR=0.39, 95% CI 0.17–0.90, p=0.03); wavelength (632–660 nm vs 810–980 nm) and capping material had no effect on success rates.
 
-15건 RCT(n=1,092 유치) SR+MA: diode laser 펄포토미는 3~12개월 임상·방사선 성공률이 모든 대조군과 동등(RR≈1.00, p>0.05)하며, 치주인대 공간 병적 확대를 유의하게 감소(RR=0.39, 95% CI 0.17–0.90, p=0.03); 파장·복조재 종류는 성공률에 무관.
+The PDL-space widening safety signal is statistically fragile (lost when one study excluded); allocation concealment was unclear in 12/15 studies and blinding largely absent, limiting the strength of conclusions.
+
+## 세줄요약
+
+15건 RCT(n=1,092 유치, 3~10세; 인도 7·이란 4 등) SR+MA: diode laser 펄포토미(Diode Laser Pulpotomy)를 포름알데히드(FC)·MTA·황산철(FS)·전기소작·바이오세라믹 등 비레이저 대조군과 3·6·9·12개월 시점에서 비교.
+
+임상·방사선 성공률은 모든 추적 시점에서 대조군과 동등(RR≈1.00, p>0.05, I²=0%); 치주인대(Periodontal Ligament, PDL) 공간 병적 확대를 유의하게 감소(RR=0.39, 95% CI 0.17–0.90, p=0.03); 파장(632–660 nm vs 810–980 nm)·복조재 종류는 성공률에 무관.
+
+PDL 확대 안전성 신호는 1개 연구 제외 시 비유의로 반전되는 통계적 취약성이 있으며, 15편 중 12편에서 배정 은폐 불분명·맹검 결여로 근거 강도 제한.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)의 대표 1차 동물연구로, 표면물성→세포→in vivo 골유착 인과사슬을 정량 수치와 함께 한 논문에 담았다. [[wiki/implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] 메타분석의 BIC 이득을 뒷받침하는 primary study.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro + in vivo (rat) study of a novel mixed-gas non-thermal atmospheric plasma (NTAP) on titanium: surface water contact angle decreased ~100%, carbon content ~80%, oxygen content increased ~50%; NTAP accelerated MC3T3-E1 preosteoblast attachment/proliferation/osteogenic differentiation in vitro; in vivo BIC increased 25–40% and osteoclasts/bone resorption were suppressed ~50%.
+Combined in vitro (MC3T3-E1 mouse preosteoblasts) and in vivo (rat) study of a novel mixed-gas non-thermal atmospheric plasma (NTAP) apparatus with a special clamping device that treats titanium in shorter time with less recontamination risk than single-gas systems.
 
-## 한줄요약
+NTAP reduced surface water contact angle ~100% and carbon content ~80% while increasing oxygen ~50%; in vitro preosteoblast attachment, proliferation, osteogenic differentiation, and mineralization were all significantly enhanced; in vivo BIC increased 25–40% and osteoclast activity and bone resorption were suppressed ~50%.
 
-신규 혼합가스 비열 대기압 플라즈마(NTAP) 처리 티타늄의 in vitro+in vivo(쥐) 연구: 표면 물접촉각 약 100%↓·탄소 약 80%↓·산소 약 50%↑; MC3T3-E1 전골모세포 부착·증식·골분화 촉진; in vivo 골-임플란트 접촉률(BIC) 25–40%↑·파골세포/골흡수 약 50%↓.
+Results are limited to rat and in vitro models; durability of plasma activation over storage time was not investigated, and no human/clinical loading data are available.
+
+## 세줄요약
+
+신규 혼합가스 비열 대기압 플라즈마(NTAP) 장치(특수 클램프로 단시간 처리·재오염 최소화)의 in vitro(MC3T3-E1 마우스 전골모세포)+in vivo(쥐) 병행 연구이다.
+
+NTAP 처리 후 표면 물접촉각 약 100%↓·탄소 약 80%↓·산소 약 50%↑, 전골모세포 부착·증식·골분화·광화가 모두 유의 향상, in vivo에서 BIC 25–40%↑·파골세포 활성 및 골흡수 약 50%↓.
+
+결과는 쥐·in vitro에 한정되며, 보관 중 플라즈마 활성화 지속성 미조사, 사람 임상/하중 데이터 없음.
 
 ## 1. Document Information
 

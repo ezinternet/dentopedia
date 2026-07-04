@@ -14,11 +14,21 @@ source_collection: external
 tags: [cracked-tooth, cracked-tooth-registry, PBRN, 3-year-cohort, multi-site, OHSU, lessons-learned]
 ---
 
-## One-line Summary
-Multi-site observational cohort (National Dental PBRN, 8 articles 2017–2022, OHSU-led): 3-year follow-up of posterior cracked teeth answered 3 key clinical questions — which cracks worsen, when to intervene, and what is the best treatment.
+## Three-line Summary
 
-## 한줄요약
-Multi-site observational cohort (National Dental PBRN, 8 articles 2017-2022 통합 lessons learned, OHSU 주도): 후방 cracked teeth 3년 — **어떤 crack이 악화되는가, 언제 개입하나, best 치료는?** 3 핵심 임상 질문 답.
+Multi-site prospective cohort (National Dental PBRN, 8 published articles 2017–2022, OHSU-led) tracking posterior cracked teeth in real-world practices — synthesising 3 years of registry evidence into lessons learned for clinical decision-making.
+
+Cracked teeth that progress have deep cracks into dentin/pulp, spontaneous/prolonged symptoms, or pulp involvement; cuspal coverage (full crown/onlay) is strongly recommended, with endo + crown for pulp-involved teeth; conservative restoration alone is appropriate only for shallow craze lines.
+
+The largest real-world CTS cohort to date; observational rather than RCT and PBRN practitioners may be a motivated subset, but the 3-year multisite data provide the best available representativeness for actual clinical practice.
+
+## 세줄요약
+
+National Dental PBRN 다기관 전향적 코호트(8편 발표 2017–2022, OHSU 주도) — 실제 진료 환경 후방 균열치를 3년 추적한 레지스트리의 lessons learned 종합.
+
+심층 균열·자발통/지속 반응·치수 침범 시 악화 위험; 교두 피개(전장관/온레이)를 강력 권장, 치수 관련 시 근관치료+크라운; 얕은 균열선에는 보존적 수복만으로 충분.
+
+현존 최대 실제 임상 CTS 코호트; 관찰연구이며 PBRN 참여자 편향 가능성은 있으나 3년 다기관 데이터가 임상 현실을 가장 잘 반영한다.
 
 ## Summary
 CTS 분야 가장 큰 real-world cohort. SR/umbrella가 다루지 못한 actual practice 데이터로, 3가지 임상 질문에 PBRN 데이터로 답함. Kaur 2026 umbrella의 "endo + cuspal coverage" 결론과 일관된 신호.

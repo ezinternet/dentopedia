@@ -11,7 +11,7 @@ pdf_filename: farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation.p
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (29 tSFE vs 28 lSFE, RBH 3-6 mm, xenograft + simultaneous implant): **lSFE = lower pain day 0, tSFE = lower swelling/bruising/nasal discharge** through 14 days. tSFE has overall more tolerable postoperative course.
 
 ## 1. Document Information

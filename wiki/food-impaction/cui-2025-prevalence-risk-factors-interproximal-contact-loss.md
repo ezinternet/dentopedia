@@ -22,13 +22,21 @@ relations:
     target: pang-2017-prevalence-proximal-contact-loss-prospective
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (204 patients, 445 posterior implant prostheses, ≤10y; ICL = aluminum-strip interspace >50 μm): patient-level ICL 59.8%, mesial 40.0% > distal 24.1%; mesial independent risk factors = food impaction (OR 4.99), function duration, adjacent-tooth status (implant/crown), bruxism; distal = mechanical complications (OR 7.04), peri-implantitis, food impaction, bruxism.
+Single-center retrospective study (204 patients, 445 posterior implant prostheses placed 2011–2020, ≤10 years function; ICL defined as aluminum-strip interspace >50 μm) quantifying interproximal contact loss prevalence and separate mesial/distal risk factor models.
 
-## 한줄요약
+Patient-level ICL was 59.8%; mesial ICL (40.0%) exceeded distal ICL (24.1%); separate logistic regression models showed mesial independent risk factors were food impaction (OR 4.99), function duration, adjacent-tooth status (implant/crown worse), and bruxism; distal factors were mechanical complications (OR 7.04), peri-implantitis, food impaction, and bruxism.
 
-후향연구(204명, 구치부 임플란트 보철 445개, ≤10년; 알루미늄 strip interspace >50 μm를 ICL로 정의): 환자수준 ICL 59.8%, mesial 40.0% > distal 24.1%; mesial 독립 위험인자=식편압입(OR 4.99)·기능기간·인접치상태(임플란트/크라운)·이갈이, distal=기계적 합병증(OR 7.04)·임플란트주위염·식편압입·이갈이.
+Mesial and distal contacts have distinct risk profiles; no factor was significant at the patient level — ICL is a site phenomenon; bruxers and peri-implantitis cases warrant closer distal-contact surveillance.
+
+## 세줄요약
+
+2011–2020년 식립 구치부 임플란트 보철 445개(환자 204명, ≤10년; ICL = 알루미늄 strip >50 μm)에 대한 단일기관 후향적 연구; mesial/distal 별 독립 로지스틱 모델 구성.
+
+환자 수준 ICL 59.8%; mesial ICL 40.0% > distal 24.1%; mesial 독립 위험인자 = 식편압입(OR 4.99)·기능 기간·인접치 상태(임플란트/크라운이 더 불량)·이갈이; distal = 기계적 합병증(OR 7.04)·임플란트주위염·식편압입·이갈이.
+
+Mesial과 distal 접촉은 서로 다른 위험인자 프로파일; 환자 수준에서는 유의한 인자 없음 — ICL은 부위 현상; 이갈이 환자와 임플란트주위염 사례에서 distal 접촉 집중 감시 필요.
 
 ## Summary
 

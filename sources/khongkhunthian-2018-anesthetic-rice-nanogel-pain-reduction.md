@@ -13,11 +13,21 @@ source_collection: external
 
 기존 위키 국소마취 페이지는 침윤·전달마취(IANB/BI) 위주이고, topical(표면)마취 needle-stick 통증 감소 자체를 다룬 1차 임상연구가 부족했다. 본 in-vivo 임상연구는 신규 mucoadhesive 전달체(rice nanogel)가 상용 표면마취제 대비 needle insertion 통증을 더 낮춘다는 데이터를 제공해, [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]] 및 [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]]의 표면마취제 비교 라인을 재료·제형(formulation) 축에서 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 In-vivo clinical trial (n=100 adults): rice-nanogel (RNG) topical anesthetics with 5%/20% lidocaine or prilocaine reduced needle-insertion pain in buccal mucosa below both placebo and commercial gels, with 20% formulations performing best.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In-vivo 임상시험(성인 100명): modified rice를 겔화제로 쓴 나노겔(RNG)에 lidocaine·prilocaine 5%/20%를 담은 표면마취제가 협측점막 needle 자입 통증을 위약·상용겔보다 더 낮췄고, 20% 제형이 가장 우수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Drug Discoveries & Therapeutics. 2018; 12(1):31-36

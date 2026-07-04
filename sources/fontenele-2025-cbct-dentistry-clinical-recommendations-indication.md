@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리의 CBCT 정당화·최적화 축 보강. 기기별 선량·화질 편차를 전공별 의사결정 차트로 정리해 [[radiology/jacobs-2018-cbct-implant-dentistry-recommendations-clinical]]의 임플란트 권고와 [[radiology/kaasalainen-2021-dental-cone-beam-ct-updated-review]]의 기술리뷰를 임상 적용 레벨로 확장.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review + device survey (87 CBCT units, 34 manufacturers) building specialty-specific decision-support charts for FOV, voxel size, and exposure selection.
 
-## 한줄요약
+(incomplete)
 
-내러티브 리뷰+기기 조사(CBCT 87기종·제조사 34곳). 전공별 FOV·복셀·노출 선택을 위한 의사결정 차트 제시.
+(incomplete)
+
+## 세줄요약
+
+
+내러티브 리뷰+기기 조사(CBCT 87기종·제조사 34곳).
+
+전공별 FOV·복셀·노출 선택을 위한 의사결정 차트 제시.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,19 @@ source_collection: external
 tags: [osseodensification, transcrestal, sinus-lift, lateral-window-alternative, RBH, case-report, densah]
 ---
 
-## One-line Summary
-Case series (n=3, residual bone height [RBH] 0.4–1.5 mm): an osseodensification (OD)-based "crestal sinus window" (Densah Ø4.0→Ø5.3, 1 mm increments) achieved 10.3–13.6 mm vertical sinus bone gain with 0/3 membrane perforations, proposed as a transcrestal alternative to the lateral window in severely atrophic posterior maxilla — hypothesis-generating only given n=3, single operator, no comparator.
+## Three-line Summary
+Case series (n=3, single operator, RBH 0.4–1.5 mm) proposing an osseodensification (OD)-based "crestal sinus window" technique using Densah burs (Ø4.0→Ø5.3, 1-mm increments) as a transcrestal alternative to the lateral window in severely atrophic posterior maxilla.
 
-## 한줄요약
-증례 보고 (case report), n=3 — 잔존 치조골 (Residual Bone Height, RBH) 0.4~1.5 mm의 극도 위축 후방 상악동 부위에 골밀도화 (Osseodensification, OD) 기반 치조정 접근법 (Transcrestal approach)을 적용, Densah Ø4.0→Ø5.3 단계로 1 mm씩 진입하여 수직 골증대 10.3~13.6 mm 달성·점막 천공 0/3·통상 측방창 (Lateral Window) 수준과 비교 가능하다고 주장. 단 n=3·단일 술자·동시 비교군 없음으로 일반화는 불가.
+Vertical sinus bone height gain of 10.3–13.6 mm was achieved with 0/3 Schneiderian membrane perforations, approaching the magnitude typically associated with lateral window procedures.
+
+The technique is hypothesis-generating only — with n=3, a single private practice, no concurrent comparator, and no long-term implant survival data, the 0/3 perforation rate is not generalizable to RBH as low as 0.4 mm.
+
+## 세줄요약
+증례 시리즈(n=3, 단일 술자, 잔존골높이(Residual Bone Height, RBH) 0.4–1.5 mm) — 극도 위축 후방 상악동에서 골밀도화(Osseodensification, OD) 기반 Densah 버(Ø4.0→Ø5.3, 1 mm 단계) "치조정 상악동 창(crestal sinus window)" 기법을 측방창 대체법으로 제안.
+
+수직 골증대 10.3–13.6 mm 달성, 슈나이더막(Schneiderian membrane) 천공 0/3 — 측방창 수술과 비슷한 수준의 골증량 주장.
+
+가설 생성 수준에 불과 — n=3·단일 개원·비교군 없음·장기 생존율 데이터 미제시; 0/3 천공률은 RBH 0.4 mm 수준에서 일반화 불가.
 
 ## Summary
 Salgar proposes an "osseodensified crestal sinus window" technique that pushes the indication boundary of transcrestal sinus elevation from the traditional RBH ≥ 5 mm threshold down to RBH ≤ 1.5 mm — historically the exclusive zone of the lateral window approach. The protocol uses Densah burs in osseodensification (counter-clockwise) mode at 1100 rpm with copious irrigation, stepping from Ø 4.0 mm to Ø 5.3 mm and advancing past the sinus floor in 1-mm increments up to a maximum of 3 mm beyond the floor. The densified bone "window" then accommodates bone graft introduction.

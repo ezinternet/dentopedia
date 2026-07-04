@@ -13,11 +13,19 @@ source_collection: external
 tags: [zirconia, saliva-contamination, cleaning, ivoclean, contact-angle, bond-strength]
 ---
 
-## One-line Summary
-In vitro study (Dent Mater J 2015) on saliva-contaminated zirconia: Ivoclean (NaOH/ZrO2) cleaning achieved the lowest contact angle and highest shear bond strength, outperforming phosphoric acid and acetone, with contact angle serving as a predictor of post-contamination bondability.
+## Three-line Summary
+In vitro study (Dent Mater J 2015) evaluating the effect of saliva contamination and cleaning methods (water, acetone, phosphoric acid, Ivoclean) on contact angle and shear bond strength of resin cement to zirconia ceramic, with 10,000 thermocycles added for durability assessment.
 
-## 한줄요약
-in-vitro(Dent Mater J 2015): 타액오염 지르코니아 — Ivoclean(NaOH/ZrO2) 세정 후 접촉각 최저·결합강도 최고; 인산·아세톤보다 우수; 접촉각 = 접착 예측 지표.
+Ivoclean (NaOH/ZrO₂-based) achieved the lowest contact angle (~10°) and highest shear bond strength after contamination, outperforming phosphoric acid and acetone; water alone failed to restore surface energy; thermocycling caused greater bond loss in inadequately cleaned groups.
+
+Contact angle measurement serves as a quantitative predictor of zirconia bondability after contamination — lower contact angle correlates with restored surface free energy and higher bond strength.
+
+## 세줄요약
+in-vitro(Dent Mater J 2015): 타액오염 지르코니아에 수세·아세톤·인산·Ivoclean 4가지 세정법 적용 후 접촉각·전단결합강도 측정, 열순환 10,000회 내구성 추가.
+
+Ivoclean(NaOH/ZrO₂ 기반): 접촉각 최저(~10°) + 결합강도 최고; 인산·아세톤 상회; 수세 단독: 표면에너지 회복 실패; 부적절한 세정군에서 열순환 후 결합강도 손실 더 큼.
+
+접촉각이 오염 후 지르코니아 접착성의 정량적 예측 지표 — 낮은 접촉각 = 표면 자유에너지 회복 + 높은 결합강도.
 
 ## Summary
 In vitro study evaluating the effect of saliva contamination and various cleaning methods on the bondability of resin cement to zirconia ceramic. Contact angle measurement used as a surrogate for surface free energy and bondability. Ivoclean (NaOH/ZrO2-based) achieved the lowest contact angle and highest shear bond strength after contamination.

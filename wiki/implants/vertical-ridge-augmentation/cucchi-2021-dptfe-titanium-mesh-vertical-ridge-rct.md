@@ -18,13 +18,21 @@ relations:
     target: cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT 1-year peri-implant outcomes (n=30/40 completed) comparing Ti-reinforced d-PTFE membranes vs Ti meshes + collagen membranes after VRA in posterior mandible: equivalent PBL change (0.67 vs 0.61 mm) and all soft-tissue parameters.
+RCT 1-year peri-implant follow-up (n=30/40 completed, posterior mandible) of the Cucchi pilot series comparing Ti-reinforced d-PTFE membranes (Group A) vs Ti mesh + collagen membranes (Group B) after simultaneous implant placement and VRA.
 
-## 한줄요약
+Peri-implant bone loss (PBL) was equivalent between groups (0.67 mm d-PTFE vs 0.61 mm Ti mesh; difference −0.05 mm, 95% CI −0.27 to 0.16, p>0.93); all soft-tissue parameters (PPD, BoP, mPI, mGI, tKT, wKT, fornix depth) showed no significant between-group differences; MBL remained <1.0 mm in both groups — within clinical acceptance.
 
-하악 구치부 VRA 후 임플란트 1년 RCT(완료 30/40): Ti 강화 d-PTFE막 vs Ti 메시+콜라겐막 — 임플란트 골소실 0.67 vs 0.61mm(NS), 모든 연조직 지표 동등.
+The strong interproximal bone peak (IBP)–PBL correlation (p<0.0001) suggests IBP at loading is a predictive marker for subsequent peri-implant bone maintenance regardless of which VRA technique was used.
+
+## 세줄요약
+
+하악 구치부 수직골증대(Vertical Ridge Augmentation, VRA) + 동시 임플란트 식립 후 1년 임플란트주위 추적 RCT(완료 30/40명): Ti 강화 d-PTFE막(그룹 A) vs Ti 메시+콜라겐막(그룹 B) 비교.
+
+임플란트주위골소실(Peri-implant Bone Loss, PBL) 동등: 0.67 mm(d-PTFE) vs 0.61 mm(Ti 메시), 차이 −0.05 mm(95% CI −0.27~0.16, p>0.93); 치주낭깊이(PPD)·출혈(BoP)·세균막·치은·각화 점막 등 모든 연조직 지표 유의차 없음; 양 군 MBL <1.0 mm 유지.
+
+치간골정(Interproximal Bone Peak, IBP)–PBL 강한 상관(p<0.0001) — IBP가 임플란트주위골 유지의 예측 인자로, VRA 기법 선택과 무관하게 1년 예후를 예측할 수 있음.
 
 ## Summary
 

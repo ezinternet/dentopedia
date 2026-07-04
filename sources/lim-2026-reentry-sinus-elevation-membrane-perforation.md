@@ -9,7 +9,7 @@ pdf_filename: lim-2026-reentry-sinus-elevation-membrane-perforation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 JPIS 2026;56(2):161-171: Animal (rabbit, n=6): Re-entry SFE 8wk after complete membrane perforation — new bone area significantly smaller (5.8 vs 10.5 mm², P<0.05); complete perforation (>10mm) compromises subsequent bone formation.
 
 ## 1. Key Results

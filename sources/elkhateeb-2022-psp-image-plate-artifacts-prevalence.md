@@ -17,13 +17,23 @@ text_filename: elkhateeb-2022-psp-image-plate-artifacts-prevalence.txt
 
 사용자 요청으로 PA(periapical, 구내치근단) artifact 근거를 보강. 기존 위키의 파노라마 artifact/오류 페이지들([[radiology/lingam-2023-common-errors-subjective-quality-panoramic]] 파노라마 오류 유병률, [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]], [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]])은 모두 파노라마 중심이라, **구내(PA/bitewing) 디지털 영상의 기술적 artifact** 근거가 비어 있었다. 본 5만 장 retrospective 감사는 PSP 영상 artifact를 operator/plate/scanning 3범주로 정량화하고, 특히 **재촬영의 80.8%가 PA**임을 보여 lingam-2023(파노라마)와 짝을 이루는 구내판(intraoral) 유병률 근거가 된다. Dioguardi 2025(해석적 optical artifact)와 함께 PA artifact를 기술적/해석적 두 축으로 커버.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective audit (World J Clin Cases 2022, n=50,000 intraoral PSP radiographs, Riyadh): 7.1% required retakes for image artifacts, of which periapical images were 80.8%; operator errors dominated (70.4% of retakes; cone cut the single most common at 39.5%), followed by plate errors (bite marks 40.3%) and scanning errors (delayed scanning 39.9%), with near-perfect reader agreement (kappa 0.99).
 
-## 한줄요약
+Retrospective audit (World J Clin Cases 2022, n=50,000 intraoral PSP radiographs, Riyadh): 7.1% required retakes for image artifacts, of which periapical images were 80.8%;
 
-후향적 감사(World J Clin Cases 2022, 구내 PSP 영상 5만 장, 리야드): 7.1%가 artifact로 재촬영, 그중 치근단(Periapical, PA) 영상이 80.8%. 술자오류가 재촬영의 70.4%(단일 최다는 cone cut 39.5%), 이어 판(plate) 오류(교흔 bite mark 40.3%)·스캐닝 오류(지연 스캐닝 39.9%); 판독자 일치도 kappa 0.99.
+operator errors dominated (70.4% of retakes;
+
+cone cut the single most common at 39.5%), followed by plate errors (bite marks 40.3%) and scanning errors (delayed scanning 39.9%), with near-perfect reader agreement (kappa 0.99).
+
+## 세줄요약
+
+
+후향적 감사(World J Clin Cases 2022, 구내 PSP 영상 5만 장, 리야드): 7.1%가 artifact로 재촬영, 그중 치근단(Periapical, PA) 영상이 80.8%.
+
+술자오류가 재촬영의 70.4%(단일 최다는 cone cut 39.5%), 이어 판(plate) 오류(교흔 bite mark 40.3%)·스캐닝 오류(지연 스캐닝 39.9%);
+
+판독자 일치도 kappa 0.99.
 
 ## 1. Document Information
 

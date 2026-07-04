@@ -13,13 +13,21 @@ source_collection: external
 
 발치 후 합병증인 건성 발치와(Dry Socket, Alveolar Osteitis)의 예방·치료에 어떤 국소 중재가 근거를 갖는지 정리하기 위해 ingest. 직전 클레임 상담(사랑니 발치 후 통증·음식물 끼임)에서 드라이소켓 가능성을 다뤘고, chairside에서 "예방·처치 무엇이 효과 있나"에 근거 기반 답이 필요. 발치 합병증 관리의 표준 근거로 [[oral-surgery]] 카테고리를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (49 RCTs, n=6,771): chlorhexidine rinse (OR 0.38) and intrasocket gel (OR 0.44) probably reduce dry socket (moderate-certainty); benefit (NNT) scales with baseline risk — NNT≈7 at 30% prevalence (surgical third molars); Alvogyl > zinc oxide eugenol for pain at day 7 (very low-certainty).
+Cochrane SR+MA (49 RCTs — 39 prevention, 10 treatment; n=6,771) evaluating local interventions for prevention and treatment of alveolar osteitis (dry socket), predominantly in mandibular third molar extractions; GRADE certainty assessment applied to all comparisons.
 
-## 한줄요약
+Chlorhexidine rinse (OR 0.38, 95% CI 0.25–0.58; moderate-certainty) and intrasocket gel (OR 0.44, 95% CI 0.27–0.71; moderate-certainty) probably reduce dry socket incidence; NNT scales with baseline risk — ~162 for routine extractions (1% prevalence) vs ~7 for surgical third molars (30% prevalence); for treatment, old Alvogyl formulation outperformed zinc oxide eugenol at day 7 (MD −1.40, very low-certainty).
 
-코크란 SR+MA (RCT 49편, n=6,771): 클로르헥시딘 (Chlorhexidine, CHX) 가글 (OR 0.38)·발치와 내 젤 (OR 0.44)이 건성 발치와 (Dry Socket)를 줄일 가능성(중등도 확실성). 효과는 기저 위험에 비례 — 하악 사랑니 등 고위험(유병률 30%)에서 NNT≈7. 치료로는 Alvogyl(구 제형)이 산화아연유지놀 (Zinc Oxide Eugenol, ZOE)보다 7일째 통증 감소(매우 낮은 확실성).
+Evidence is dominated by surgical third molar extractions with limited generalizability to routine extractions, the original Alvogyl formulation is discontinued, and 21 further prevention and 9 further treatment interventions each had only a single study.
+
+## 세줄요약
+
+코크란 SR+MA (RCT 49편 — 예방 39편·치료 10편, n=6,771): 주로 하악 사랑니 발치 대상으로 건성 발치와(Dry Socket / Alveolar Osteitis) 예방·치료에 대한 국소 중재를 평가; GRADE 확실성 평가 적용.
+
+클로르헥시딘(Chlorhexidine, CHX) 가글(OR 0.38, 중등도 확실성)과 발치와 내 젤(OR 0.44, 중등도 확실성)이 건성 발치와 발생을 줄일 가능성 있음; 치료 필요 수(NNT)는 기저 위험에 반비례 — 일반 발치(유병률 1%)에서 NNT≈162, 수술적 사랑니 발치(유병률 30%)에서 NNT≈7; 치료로는 구형 Alvogyl이 산화아연유지놀(Zinc Oxide Eugenol, ZOE)보다 7일째 통증 감소(매우 낮은 확실성).
+
+근거가 수술적 사랑니 발치 위주라 일반 발치 적용에 제한, 구형 Alvogyl 제형은 단종, 나머지 21개 예방·9개 치료 중재는 각각 단일 연구에 불과해 추가 검증 필요.
 
 ## 1. Document Information
 

@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] is now a decade old; this 2026 systematic review (16 primary studies, 2551 patients) refreshes the head-to-head coronectomy-vs-extraction nerve-injury comparison with newer cohorts (incl. Hamad 2024, n=422). It extends the anchor by giving current group-stratified IAN/LN injury and failure-conversion numbers for clinical counseling.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction); 6.22% of coronectomies failed/converted; root migration the leading coronectomy-specific complication.
 
-## 한줄요약
+Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction);
+
+6.22% of coronectomies failed/converted;
+
+root migration the leading coronectomy-specific complication.
+
+## 세줄요약
+
 
 체계적 문헌고찰 (16편·2551명, 치관절제 2280건 vs 발치 841건): 하치조신경 손상 치관절제 0.56% vs 발치 6.53%, 치관절제 실패(완전발치 전환) 6.22%, 치관절제 특유 합병증은 치근 이동.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

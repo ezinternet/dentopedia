@@ -16,13 +16,21 @@ text_filename: dvorska-2026-mechanical-instrumentation-hard-tissue-sr.txt
 
 Quantifies how much dental hard tissue (cementum/dentine) each professional instrumentation modality removes per stroke and per second, providing the numeric basis for selecting the least-invasive biofilm-management approach. Reinforces the narrative review [[wiki/periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] (same ingest batch) and supplies in-vitro material-loss evidence applicable to the instrumentation steps of [[wiki/periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (MEDLINE/EMBASE/Cochrane; human cementum/dentine, ≥6 specimens) finding hand curettes cause the greatest substance loss per stroke (mean 6.0 µm vs ultrasonic 4.89 µm) while air-polishing with low-abrasive powders causes the most loss per second; surface roughness results mixed and heterogeneity limits direct comparison.
+Systematic review (MEDLINE/EMBASE/Cochrane) of in-vitro studies on human cementum and dentine (≥6 specimens per study) comparing hand instruments, ultrasonic scalers, and air-polishing devices.
 
-## 한줄요약
+Hand curettes cause the greatest substance loss per stroke (mean 6.0 µm vs ultrasonic 4.89 µm), while air-polishing with low-abrasive powders causes the most loss per second (mean 8.65 µm).
 
-체계적 문헌고찰(MEDLINE/EMBASE/Cochrane; 사람 백악질·상아질, 표본 ≥6) — 스트로크당 경조직 손실은 손기구(curette)가 가장 큼(평균 6.0 µm vs 초음파 4.89 µm), 초당 손실은 저연마분말 에어폴리싱이 가장 큼(평균 8.65 µm). 표면조도는 결과가 혼재되고 이질성으로 직접비교에 한계. (abstract-only — full text not retrieved)
+Surface roughness results are mixed and high heterogeneity across studies limits direct comparison between modalities and clinical translation.
+
+## 세줄요약
+
+체계적 문헌고찰(MEDLINE/EMBASE/Cochrane)로 사람 백악질·상아질(표본 ≥6)을 대상으로 손기구·초음파 스케일러·에어폴리싱 장치 세 가지 전문적 기구를 비교한 인비트로 연구 모음.
+
+스트로크당 경조직 손실은 손기구(curette)가 가장 큼(평균 6.0 µm vs 초음파 4.89 µm), 초당 손실은 저연마분말 에어폴리싱이 가장 큼(평균 8.65 µm).
+
+표면조도 결과는 혼재되었으며 연구간 높은 이질성으로 기구간 직접비교와 임상 적용에 한계가 있음. (abstract-only — full text not retrieved)
 
 ## 1. Document Information
 

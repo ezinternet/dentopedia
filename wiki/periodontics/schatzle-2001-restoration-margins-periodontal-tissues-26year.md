@@ -16,13 +16,22 @@ relations:
     target: ercoli-2021-fixed-dental-prostheses-restorations-periodontium
 ---
 
-## One-line Summary
+## Three-line Summary
 
-26-year prospective longitudinal cohort (160 Norwegian males; 615 control vs 98 test mesial sites) showing subgingival filling margins drive higher plaque/gingival inflammation and increased attachment loss vs supragingival/sound surfaces, detectable 1–3 years after placement with a later "burn-out" effect.
+26-year prospective longitudinal cohort (160 Norwegian males; 615 control supragingival/sound mesial sites vs 98 subgingival filling-margin sites) across 7 examinations from 1969–1995, comparing plaque, gingival inflammation, and attachment loss by margin location.
 
-## 한줄요약
+Subgingival margins were associated with significantly higher plaque index and gingival index at all 7 surveys (p<0.001) and greater attachment loss; the damage became detectable 1–3 years after restoration placement and then plateaued ("burn-out" effect).
 
-26년 전향 종단 코호트(노르웨이 남성 160명; 대조 615 vs 시험 98 근심 부위) — 치은연하 수복물 변연이 plaque·치은염증·부착소실을 증가시키고, 수복 1~3년 내 감지되며 이후 "burn-out" 양상을 보인다.
+The 26-year dataset is among the strongest prospective confirmations that subgingival restoration margins are detrimental, though the cohort is a single demographic (Scandinavian males, pre-modern materials) with substantial dropout.
+
+## 세줄요약
+
+26년 전향 종단 코호트(노르웨이 남성 160명; 치은상/건전 대조 615 vs 치은연하 수복 변연 시험 98 근심 부위) — 7회 검사(1969–1995)에서 plaque·치은 염증·부착소실을 비교.
+
+치은연하 수복 변연은 전 7회 조사에서 치면세균막·치은 지수 유의하게 높고(p<0.001) 부착소실 증가; 수복 1~3년 내 감지되고 이후 "burn-out"(정체) 양상.
+
+치은연하 변연의 치주적 해로움에 대한 가장 강력한 전향 증거 중 하나이나, 단일 인구집단(북유럽 남성, 구형 재료)·상당한 탈락자 한계 있음.
+
 
 ## Summary
 

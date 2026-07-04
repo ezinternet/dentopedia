@@ -13,13 +13,23 @@ source_collection: external
 
 Provides 5-year retrospective clinical data on full-mouth adhesive rehabilitation of severely worn teeth using occlusal, vestibular, and palatal veneers — filling a gap in medium-term outcome evidence for this high-complexity scenario. Directly extends [[wiki/veneers/maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr]] (which assessed in-vitro mechanical performance) with real in-vivo clinical survival data across composite and ceramic materials.
 
-## One-line Summary
+## Three-line Summary
+
 
 5-year retrospective case series (8 patients, 212 restorations) reporting 90.1% overall survival for adhesive full-mouth rehabilitation in severe tooth wear, with occlusal veneers showing lower survival (79.1%) than vestibular (94.1%) or palatal (100%) veneers.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 증례군 연구 (8명, 212개 수복물, 60개월): 중증 치아마모(Tooth Wear) 환자에서 접착성 전악 수복(Total Rehabilitation) 생존율 90.1%, 교합면 비니어(Occlusal Veneer) 79.1% vs 순측 비니어(Vestibular Veneer) 94.1% vs 구개측 비니어(Palatal Veneer) 100%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

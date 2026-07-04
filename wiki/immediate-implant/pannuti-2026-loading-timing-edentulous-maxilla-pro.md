@@ -20,13 +20,21 @@ relations:
     target: qian-2024-anterior-maxillary-implants-placement-loading-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 5 prospective studies (4 RCT + 1 non-RCT; 121 patients, 724 implants) on immediate vs early/delayed loading in the edentulous maxilla: VAS dominated patient-reported outcome measurement (80% of studies, 7 PROs), supported by OHIP-19/20 and the McGill Pain Questionnaire, while the 12 identified clinician-reported outcomes had no standardized approach — concluding PROM/CROM reporting must be standardized.
+Systematic review (PROSPERO-registered, PRISMA 2020) of 5 prospective studies (4 RCTs, 1 non-RCT; 121 patients, 724 implants) examining which patient-reported and clinician-reported outcome measures have been used in immediate versus early/delayed loading trials in the edentulous maxilla (search Jan 2014–May 2024).
 
-## 한줄요약
+VAS dominated patient-reported outcomes (80% of studies, 7 PROs: pain, satisfaction, comfort, speech, mastication, esthetics, self-esteem); 12 clinician-reported outcomes were identified across 4 studies with no inter-study consensus and minimal assessor calibration.
 
-무치악 상악의 즉시 vs 조기/지연 로딩을 비교한 전향적 연구 5편(RCT 4 + non-RCT 1; 환자 121명, 임플란트 724개) 체계적 고찰: 환자보고결과(Patient-Reported Outcome, PRO) 측정은 시각아날로그척도(Visual Analog Scale, VAS)가 80%로 지배적(7개 PRO)이고 OHIP-19/20·McGill 통증설문이 보조했으나, 도출된 12개 임상가보고결과(Clinician-Reported Outcome, ClinRO)는 표준화 방식이 없어 이질성이 높았다 — PROM/CROM 보고 표준화가 필요하다는 결론.
+Cross-study comparison of loading protocols on patient-centered grounds is currently unreliable due to heterogeneous outcome reporting; standardization of PROMs and CROMs for maxillary loading-timing research is needed.
+
+## 세줄요약
+
+무치악 상악의 즉시(Immediate Loading, IL) vs 조기/지연 로딩 비교 전향 연구 5편(RCT 4 + 비무작위 1; 환자 121명, 임플란트 724개)에서 사용된 환자보고결과(Patient-Reported Outcome, PRO) 및 임상가보고결과(Clinician-Reported Outcome, ClinRO) 측정도구를 체계적으로 정리한 고찰(2014–2024년 5월 검색).
+
+VAS가 80%의 연구에서 7개 PRO(통증·만족·편안함·발음·저작·심미·자존감)를 측정하는 지배적 도구였고, OHIP-19/20·McGill 통증설문이 보조적으로 사용되었으나, 12개 ClinRO는 연구 간 표준화된 방식이 없어 이질성이 높았다.
+
+측정도구의 비표준화로 인해 로딩 타이밍 프로토콜 간 환자 중심 비교가 현재로서는 신뢰할 수 없으며, 타이밍 민감 PROM/CROM 표준화 개발이 필요하다.
 
 ## Summary
 

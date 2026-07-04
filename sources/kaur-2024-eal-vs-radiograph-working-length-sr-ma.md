@@ -9,7 +9,7 @@ pdf_filename: kaur-2024-eal-vs-radiograph-working-length-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 BMC Oral Health 2024;24:532: SR+MA (11 RCTs SR / 8 MA): EAL vs radiograph — no pain difference; radiograph better accuracy (SMD 0.55, P=0.02); EAL 10% better adequacy (RR 1.10, P=0.006); very low-certainty evidence; no superiority conclusion possible.
 
 ## 1. Key Results

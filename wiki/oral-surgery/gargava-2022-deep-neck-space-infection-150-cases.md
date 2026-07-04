@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Prospective observational study (n=150) of deep neck space infection (DNSI) at an Indian tertiary hospital: odontogenic origin is the leading etiology (42.66%), Ludwig's angina the most common space involved (24.66%), Streptococcus the dominant organism (31.33%); I&D required in 38% with emergency tracheostomy in airway-compromised cases.
+## Three-line Summary
 
-## 한줄요약
-전향적 연구(n=150): 심경부 감염의 원인은 치성(42.66%)이 가장 많고, 루드비히 앙기나가 가장 흔한 침범 공간(24.66%)이며, 주요 원인균은 연쇄구균(31.33%), 절개배농 38%, 응급기관절개술 일부에서 시행.
+Prospective observational study (n=150 consecutive DNSI patients) at an Indian tertiary ENT/oral surgery center documenting etiology, microbiology, management, and outcomes of deep neck space infections.
+
+Odontogenic origin was the leading etiology (42.66%); Ludwig's angina the most common space involved (24.66%); Streptococcus spp. the dominant organism (31.33%); I&D required in 38%; emergency tracheostomy performed in airway-compromised cases; mediastinitis was the most serious complication.
+
+DNSI carries life-threatening airway and mediastinal spread risk — odontogenic infection is the single most preventable etiology, and diabetic patients are at elevated risk for Gram-negative involvement.
+
+## 세줄요약
+
+인도 3차 병원 전향적 관찰 연구(n=150): 심경부감염(Deep Neck Space Infection, DNSI)의 원인·균학·치료·결과 기술.
+
+원인은 치성(42.66%) 1위, 루드비히 앙기나(Ludwig's Angina)가 가장 흔한 침범 공간(24.66%), 주요 원인균 연쇄구균(31.33%), 절개배농(I&D) 38%, 응급기관절개술 일부 시행, 종격동염이 가장 심각한 합병증.
+
+심경부감염은 기도 폐쇄·종격동염 위험을 지닌 응급 상황 — 치성 원인이 가장 예방 가능하며, 당뇨 환자는 그람음성균 감염 위험이 높아 별도 항생제 고려 필요.
 
 ## Summary
 This prospective observational study (Indian J Otolaryngol Head Neck Surg 2022;74:5832-5835) describes etiology, microbiology, management, and outcomes of 150 deep neck space infection (DNSI) cases at a tertiary care hospital in India. DNSI is a potentially life-threatening condition due to proximity to the airway and risk of mediastinal spread. The study documents the epidemiology of DNSI in an Indian tertiary care context, highlighting odontogenic infections as the primary source and Ludwig's angina as the most common clinical presentation. Streptococcus is the dominant organism. Surgical drainage is required in a substantial proportion.

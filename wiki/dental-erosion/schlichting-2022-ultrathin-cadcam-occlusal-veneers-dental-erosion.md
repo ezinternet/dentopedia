@@ -16,13 +16,21 @@ relations:
     target: kanzow-2016-etiology-pathogenesis-dental-erosion
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=11, 60 restorations, ≤3 years) comparing CAD-CAM lithium disilicate vs composite resin ultrathin occlusal veneers for severe dental erosion: 100% vs 84.7% Kaplan-Meier survival (P=.124, NS), with significantly greater surface degradation in the composite resin group (P=.003).
+Prospective randomized clinical trial (n=11 patients, mean age 30.4 y, severe dental erosion; 24 ceramic e.max CAD + 36 composite resin Lava Ultimate ultrathin occlusal veneers ≤1 mm; all placed with IDS + preheated composite resin luting; evaluated annually up to 3 years using modified USPHS criteria).
 
-## 한줄요약
+Kaplan-Meier survival was 100% (ceramic) vs 84.7% (composite resin) — a clinically meaningful but statistically non-significant difference (P=.124, likely underpowered at n=11); five chipping events (partial failures, all restorable) occurred exclusively in the composite resin group, and surface roughness degradation was significantly greater in that group (P=.003).
 
-전향적 무작위대조시험(Randomized Controlled Trial, RCT) (n=11명, 60개 수복물, 최대 3년 추적): 중증 치아 침식증(dental erosion)에 CAD-CAM 초박형 교합면 비니어(occlusal veneer) — 세라믹(e.max CAD) 생존율(survival rate) 100% vs 복합레진(composite resin, Lava Ultimate) 84.7% (P=.124, 유의 차이 없음), 레진군 표면 조도(surface roughness) 유의하게 악화 (P=.003).
+Both CAD-CAM materials are viable for conservative posterior erosion rehabilitation at ≤3 years, but composite resin shows faster material aging and a trend toward more partial failures, supporting ceramic as the preferred material when longevity is the priority.
+
+## 세줄요약
+
+전향적 무작위대조시험(n=11명, 평균 30.4세, 중증 치아 침식증): CAD-CAM 초박형 교합면 비니어(≤1 mm) — 세라믹(e.max CAD) 24개 vs 복합레진(Lava Ultimate) 36개, 즉각상아질봉쇄(Immediate Dentin Sealing, IDS) + 예열 복합레진 접착, 최대 3년 수정 USPHS 평가.
+
+Kaplan-Meier 생존율은 세라믹 100% vs 복합레진 84.7%(P=.124, 비유의, 검정력 부족)이며, 부분 파절 5건이 레진군에서만 발생했고(모두 수복 가능) 표면 조도 악화는 레진군에서 유의하게 컸다(P=.003).
+
+두 재료 모두 3년 내 보존적 후방 교합면 침식 수복에 적합하지만, 복합레진은 더 빠른 재료 노화와 부분 파절 경향을 보여 장기 내구성이 우선될 때는 세라믹이 선호된다.
 
 ## Summary
 

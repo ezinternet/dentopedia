@@ -21,13 +21,22 @@ relations:
     target: farooqi-2015-periodontal-maintenance-recall-interval-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane systematic review + meta-analysis (2 RCTs, n=1711, UK general practice) finding that routine scale & polish makes little or no difference to gingivitis, probing depths, or oral-health-related quality of life over 2–3 years in adults without severe periodontitis (high-certainty), with only a small, clinically uncertain reduction in calculus.
+Cochrane SR + meta-analysis (2 RCTs, n=1711, UK general practice) of routine scaling and polishing in healthy adults without severe periodontitis, comparing 6-monthly, 12-monthly, and no scheduled prophylaxis over 2–3 years.
 
-## 한줄요약
+Routine scale & polish made little or no difference to gingivitis (high certainty), probing depth, or oral-health-related quality of life; the only consistent effect was a small calculus reduction (6-monthly > 12-monthly), whose clinical importance is uncertain.
 
-중증 치주염이 없는 정기 내원 성인에서 루틴 스케일링·폴리싱(프로필락시스)이 치은염·치주낭 깊이·삶의 질에 2~3년간 거의 차이를 만들지 않는다는 코크란 SR+MA(RCT 2편, 1711명); 치석만 소폭 감소하나 임상적 의미는 불확실.
+For low-risk healthy adults, fixed-interval routine prophylaxis is not evidence-based for periodontal health, supporting a shift to individual risk-based recall intervals.
+
+## 세줄요약
+
+코크란 SR+MA (RCT 2편, n=1711, 영국 일반 치과) — 중증 치주염 없는 정기 내원 성인에서 6개월·12개월 루틴 스케일링·폴리싱 대 무처치를 2~3년간 비교.
+
+루틴 스케일링·폴리싱은 치은염·치주낭 깊이·구강건강 삶의 질에 거의 차이 없음(고신뢰도); 치석만 소폭 감소(6개월 > 12개월)하나 임상적 의의 불분명.
+
+저위험 건강 성인에서 고정 간격 예방처치는 치주건강에 근거가 없으며, 개인 위험도 기반 리콜로의 전환을 지지.
+
 
 ## Summary
 

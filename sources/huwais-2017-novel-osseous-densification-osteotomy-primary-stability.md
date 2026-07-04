@@ -13,7 +13,7 @@ source_collection: external
 
 Foundational paper that introduced the osseodensification (OD) concept and the Versah bur design — the historical anchor for the entire [[overviews/osseodensification-clinical-applications]] evidence base and the [[overviews/versah-protocol-selection-map]]. Establishes the bench mechanism (counterclockwise compaction layer, raised bone mineral density, tripled BIC) that all later clinical SR+MAs test.
 
-## One-line Summary
+## Three-line Summary
 Foundational Huwais & Meyer bench study (porcine tibial bone, 72 osteotomies, 3 techniques × 4.1/6.0 mm implants) introducing osseodensification (OD): counterclockwise multi-fluted bur compacts a peri-osteotomy layer of higher bone mineral density and triples BIC compared with standard drilling, without raising temperature or ISQ.
 
 ## 1. Document Information

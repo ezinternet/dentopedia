@@ -16,13 +16,23 @@ text_filename: tsintsadze-2022-survival-rates-glass-fiber-metal-posts.txt
 
 Founding paper for the new `post-and-core` category (previously a gap — only tangential fiber-post bonding mentions in [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]]). This SR+MA of RCTs answers the core material-selection question — glass-fiber vs metal post survival — and provides the quantitative anchor (92.8% vs 78.1% survival, no statistically significant difference) for the field. Extends the bonding-focused fiber-post material into a clinical-outcome framing.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (≥2-yr follow-up): endodontically treated teeth restored with glass-fiber posts had 92.8% survival vs 78.1% for metal posts, but the difference was NOT statistically significant; both are reliable when a post is indicated.
 
-## 한줄요약
+SR+MA of 7 RCTs (≥2-yr follow-up): endodontically treated teeth restored with glass-fiber posts had 92.8% survival vs 78.1% for metal posts, but the difference was NOT statistically significant;
+
+both are reliable when a post is indicated.
+
+(incomplete)
+
+## 세줄요약
+
 
 RCT 7편 SR+MA(≥2년 추적): 근관치료치아를 유리섬유 포스트로 수복 시 생존율 92.8%, 금속 포스트 78.1%였으나 통계적 차이는 없었음 — 포스트가 필요한 상황에서 둘 다 신뢰할 만한 재료.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

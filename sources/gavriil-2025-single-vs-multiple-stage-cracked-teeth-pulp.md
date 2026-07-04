@@ -16,13 +16,23 @@ text_filename: gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp.txt
 
 literature-surveillance `cracked-tooth` sweep(2026-06-19) 적립 SR+MA. CTS 수복의 **단계(single vs multiple-stage)·재료(onlay vs crown vs direct)** 선택을 치수예후 관점에서 정리해 [[wiki/cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]](full-crown 권고)와 [[wiki/cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]]를 보강. abstract-only(no PMC OA, Elsevier).
 
-## One-line Summary
+## Three-line Summary
 
-Abstract-only SR+MA (14 cohort studies, symptomatic vital cracked teeth): single- vs multiple-stage treatment did not differ for pulp survival/success, but single-stage with indirect restorations gave the best pulp success, onlays outperformed crowns, direct restorations were inferior for pulp success, and short interim duration (1–2 wk) beat long; 1-yr tooth survival 96.1–100%; very low certainty.
 
-## 한줄요약
+Abstract-only SR+MA (14 cohort studies, symptomatic vital cracked teeth): single- vs multiple-stage treatment did not differ for pulp survival/success, but single-stage with indirect restorations gave the best pulp success, onlays outperformed crowns, direct restorations were inferior for pulp success, and short interim duration (1–2 wk) beat long;
 
-abstract-only SR+MA(14 코호트, 증상성 생활 균열치): single vs multiple-stage 간 치수생존·성공 차이 없음. 단 single-stage+간접수복이 치수성공 최고, onlay>crown, direct는 치수성공 열등, 임시기간 짧을수록(1–2주) 유리; 1년 치아생존 96.1–100%; 확실성 매우 낮음.
+1-yr tooth survival 96.1–100%;
+
+very low certainty.
+
+## 세줄요약
+
+
+abstract-only SR+MA(14 코호트, 증상성 생활 균열치): single vs multiple-stage 간 치수생존·성공 차이 없음.
+
+단 single-stage+간접수복이 치수성공 최고, onlay>crown, direct는 치수성공 열등, 임시기간 짧을수록(1–2주) 유리;
+
+1년 치아생존 96.1–100%; 확실성 매우 낮음.
 
 ## 1. Document Information
 

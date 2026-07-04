@@ -24,13 +24,21 @@ relations:
     target: cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (14 patients / 28 maxillary sites) comparing prebent titanium mesh (60:40 graft) vs customized PEEK mesh (70:30 graft) for predominantly horizontal ridge augmentation: no significant difference in linear horizontal (3.02 vs 2.42 mm, p=0.065) or vertical gain, but PEEK gained more absolute bone volume (499 vs 371 mm³, p=0.004) and lost more graft (175 vs 128 mm³, p=0.040) with near-identical proportional resorption (~34–35%); exposure 7.1% (PEEK) vs 14.3% (Ti), NS; 100% implant placement both arms.
+Single-center RCT (14 partially edentulous patients, 28 maxillary sites with 2–5 mm horizontal deficiency) comparing two CAD/CAM-driven GBR protocols over 6 months: prebent titanium mesh (60:40 autogenous:xenograft) vs milled PEEK mesh (70:30 autogenous:xenograft).
 
-## 한줄요약
+No significant difference in linear horizontal gain (3.02 vs 2.42 mm, p=0.065) or vertical gain; PEEK produced more absolute bone volume (499 vs 371 mm³, p=0.004) and more absolute graft loss (175 vs 128 mm³, p=0.040) but near-identical proportional resorption (~34–35%); mesh exposure was 14.3% (Ti) vs 7.1% (PEEK), NS; 100% implant placement in both arms.
 
-RCT (환자 14명 / 상악 28부위): prebent 티타늄 메시(자가:이종골 60:40) vs 맞춤형 PEEK 메시(70:30)를 주로 수평 골증대에 비교 — 선형 수평(3.02 vs 2.42 mm, p=0.065)·수직 증대는 차이 없으나, PEEK가 절대 골량 증가(499 vs 371 mm³, p=0.004)·이식재 흡수량(175 vs 128 mm³, p=0.040) 모두 유의하게 컸고 비율 흡수는 거의 동일(~34–35%); 메시 노출 PEEK 7.1% vs Ti 14.3%(유의차 없음), 양 군 임플란트 식립 100%.
+The larger PEEK bone volume and graft loss appear proportional to PEEK's larger initial augmented volume — no material superiority can be concluded because the graft compositions also differed (the comparison is of protocols, not materials in isolation).
+
+## 세줄요약
+
+단일 기관 무작위 대조 시험(RCT; 환자 14명, 상악 28부위, 수평 결손 2–5 mm): prebent 티타늄 메시(자가:이종골 60:40) vs 맞춤형 밀링 PEEK 메시(70:30), 6개월 비교.
+
+선형 수평 골증대(3.02 vs 2.42 mm, p=0.065)·수직 증대 모두 유의차 없음; PEEK의 절대 골량 증가(499 vs 371 mm³, p=0.004)·이식재 흡수량(175 vs 128 mm³, p=0.040)은 유의하게 컸으나 비율 흡수는 동일(~34–35%); 메시 노출 14.3%(Ti) vs 7.1%(PEEK), 유의차 없음; 양 군 임플란트 식립 100%.
+
+PEEK의 더 큰 골량·흡수량은 더 큰 초기 증대 용적에 비례하는 것으로 이식재 조성도 달랐기 때문에 재료 우위를 주장할 수 없음 — 두 프로토콜은 동등한 임상 결과를 제공함.
 
 ## Summary
 

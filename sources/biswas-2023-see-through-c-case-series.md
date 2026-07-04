@@ -13,13 +13,21 @@ source_collection: external
 
 A clinical worked-example of how the prevalence/morphology data is operationalized chairside — two mandibular second molar C-shaped cases (C1 and C2 orifice types) managed under the dental operating microscope with ultrasonic irrigation and thermoplasticized obturation. Applies the classification and management principles catalogued in [[wiki/endodontics/anatomy/fernandes-2014-cshaped-root-canal-configuration-review]] and the cross-sectional morphology in [[wiki/endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] to real cases, complementing the population-level CBCT prevalence in [[wiki/endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]] and [[wiki/endodontics/anatomy/abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct]].
 
-## One-line Summary
+## Three-line Summary
 
-Case series (n=2) of mandibular right second molar C-shaped canals (Melton type I/C1 and type II/C2) managed under operating microscope with ultrasonic irrigation, MTA apical plug (case 1), and thermoplasticized gutta-percha; asymptomatic at 1-year recall.
+Case series (n=2) of mandibular right second molar C-shaped root canals (Melton/Fan C1 and C2 orifice types) at two Indian dental institutions, managed using dental operating microscope, 5.25% NaOCl + 17% EDTA with ultrasonic activation, and thermoplasticized (Thermafil) obturation.
 
-## 한줄요약
+Case 1 (C1, continuous C orifice): MTA apical plug placed after accidental loss of apical constriction, then Thermafil obturation; case 2 (C2, semicolon) managed without MTA; both asymptomatic at 1-year recall with no periapical lesion.
 
-하악 우측 제2대구치 C-shaped 근관 2예(Melton I형/C1, II형/C2)를 현미경하 초음파 세정·MTA 근단 plug(증례 1)·열가소성 GP 충전으로 치료, 1년 추적 무증상.
+Microscope-guided visualization combined with ultrasonic irrigation is practical for managing the irregular fins of C-shaped systems; CBCT was not used preoperatively in either case, which is a limitation.
+
+## 세줄요약
+
+인도 치과대학 2개 기관의 증례 보고(하악 제2대구치 C-shaped 근관 2예, Melton/Fan C1형·C2형) — 치과용 수술현미경, 5.25% NaOCl + 17% EDTA 초음파 활성화 세정, 열가소성 GP(Thermafil) 충전으로 관리.
+
+증례 1(C1, 연속 C 입구): 근단 협착부 소실 후 MTA 근단 barrier 후 충전; 증례 2(C2, 세미콜론형): MTA 없이 표준 충전; 두 증례 모두 1년 추적에서 무증상·치근단 병소 없음.
+
+현미경 유도 가시화와 초음파 세정이 C-shaped 계의 핀·협부 관리에 실용적; 수술 전 CBCT 미시행은 한계 — 근단부 경로 사전 파악에 CBCT가 권장됨.
 
 ## 1. Document Information
 

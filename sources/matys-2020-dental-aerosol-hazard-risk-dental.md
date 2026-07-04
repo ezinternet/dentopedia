@@ -17,13 +17,23 @@ text_filename: matys-2020-dental-aerosol-hazard-risk-dental.txt
 
 사용자 요청: 하이스피드·로우스피드 치과 엔진(핸드피스) 풀텍스트 인제스트. 신규 `dental-handpiece` 카테고리의 controlled bench(manikin) 근거 — 동일 caries removal을 하이스피드 vs 로우스피드 핸드피스 vs Er:YAG 레이저로 비교하고, 7종 석션 시스템별 에어로졸 저감 효율을 정량화. 실제 환자 데이터인 [[dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical]]와 짝을 이뤄 핸드피스 에어로졸 위험·완화의 manikin 대조군을 제공.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro manikin study measuring aerosol (0.3–10 μm) at manikin/operator/assistant during caries removal, scaling, and polishing — high-speed handpiece + saliva ejector produced the most aerosol, low-speed produced less than the high-speed turbine, Er:YAG laser the least, and wide customized high-volume evacuators removed the most (Zirc evacuator 88% reduction).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 마네킹 인비트로 실험(0.3–10 μm, 마네킹·술자·보조자 3지점) — 하이스피드 핸드피스+타액흡인기가 에어로졸을 가장 많이, 로우스피드는 하이스피드 터빈보다 적게, Er:YAG 레이저가 가장 적게 생성했고, 넓은 맞춤형 고용량 흡입기(HVE)가 가장 효과적으로 제거(Zirc 88% 감소).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,23 @@ source_collection: external
 tags: [statistical-test-selection, t-test, anova, regression, cox-regression, korean, biostatistics]
 ---
 
-## One-line Summary
-Korean-language statistical-test-selection guide (J Korean Med Assoc 2012) presenting a "which test do I use?" flowchart driven by dependent-variable measurement scale, sample dependency (paired vs independent), and number of independent variables — covering t-test/ANOVA families, non-parametric analogues, chi-square, log-rank, and multivariable/logistic/Cox regression.
+## Three-line Summary
 
-## 한줄요약
-연세의대 예방의학·의학통계학과 (남정모·정수연)의 한국어 통계검정 선택 가이드 (JKMA 2012): 종속변수 척도 + 표본 의존성 + 독립변수 수에 따라 t-test/ANOVA/비모수/카이제곱/log-rank/다중·로지스틱·Cox 회귀 어느 것이 맞는지 가상 시나리오로 정리.
+Korean-language statistical test-selection guide (J Korean Med Assoc 2012, Yonsei Preventive Medicine and Biostatistics) presenting a "which test do I use?" flowchart driven by three decision axes: measurement scale of the dependent variable, sample dependency (paired vs independent), and number of independent variables.
+
+Covers the canonical clinician toolkit: t-test/ANOVA families with non-parametric analogues (Wilcoxon, Mann-Whitney, Kruskal-Wallis), chi-square family, survival analysis (log-rank test, Cox proportional-hazards), and multivariable regression (linear, logistic, mixed, Cox) — each illustrated with hypothetical clinical scenarios.
+
+A paired comparison reported with an unpaired t-test, or a survival outcome analyzed with chi-square, is a methodology red flag detectable by this flowchart; the 2012 date means it predates the modern emphasis on effect sizes, confidence intervals, and causal inference frameworks (DAGs, propensity scores).
+
+## 세줄요약
+
+한국어 통계검정 선택 가이드 (JKMA 2012, 연세의대 남정모·정수연): 종속변수 측정 척도·표본 의존성(대응/독립)·독립변수 수라는 세 결정 축의 flowchart로 어떤 검정을 써야 하는지 안내.
+
+임상의 핵심 도구 모음 망라: t-test/ANOVA 계열 + 비모수 대응(Wilcoxon·Mann-Whitney·Kruskal-Wallis)·카이제곱 계열·생존분석(log-rank·Cox 비례위험)·다변량 회귀(선형·로지스틱·혼합·Cox) — 각 시나리오 예시 포함.
+
+대응 비교를 독립표본 t-test로 분석하거나 생존 결과를 카이제곱으로 처리하는 방법론 적신호를 이 flowchart로 감지 가능; 2012년 기준이라 효과크기·신뢰구간 우선 및 인과추론 프레임워크(DAG·성향점수) 이전임.
+
+
 
 ## Summary
 The "which test do I use?" reference for clinicians who didn't take graduate-level biostatistics. Bridges the gap between Flechner/Monaghan (what does this number mean?) and Shin WJ 2015 (how do I pool across studies?).

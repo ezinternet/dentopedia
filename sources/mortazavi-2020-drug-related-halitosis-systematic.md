@@ -13,13 +13,23 @@ source_collection: external
 
 Extra-oral (drug-induced) halitosis is a distinct etiologic subtype underrepresented in the wiki's current halitosis pages, which focus on intraoral causes and prevalence. This SR provides a comprehensive drug taxonomy (10 groups, 34 studies, 30,736 patients) filling a pharmacology gap. Directly extends [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]] by detailing the drug-specific arm of extra-oral etiology.
 
-## One-line Summary
+## Three-line Summary
+
 
 PRISMA systematic review (34 studies, n=30,736) identifying 10 pharmacological groups that cause extra-oral halitosis as a side effect, with cysteamine (aminothiols) producing the highest incidence (up to 100%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 PRISMA 체계적 문헌고찰(34편, n=30,736): 약물 유발 구외성 구취를 일으키는 10개 약물군을 분류하였으며, 시스테아민(아미노티올계)에서 최대 100% 발생률이 보고됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

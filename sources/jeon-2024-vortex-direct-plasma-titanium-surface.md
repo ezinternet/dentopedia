@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)의 **장치 형상 의존성 해결** 근거. 임플란트를 전극으로 쓰는 직접 방전은 크기·형상에 따라 처리가 불균일한데, 자기장 기반 "vortex plasma"가 이를 균일화하면서 직접 방전과 동등한 효과를 낸다는 공학 근거. [[wiki/implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] DBD 장치와 대비.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study comparing a novel magnetic-field-based "vortex plasma" source vs conventional direct plasma discharge on titanium: vortex plasma improved hydrophilicity, reduced carbon, and enhanced osteoblast adhesion/activity to a level comparable to direct plasma — while keeping discharge characteristics independent of implant size/shape and preserving surface morphology.
+In vitro device engineering + cell study comparing a novel magnetic-field-based "vortex plasma" source vs conventional direct plasma discharge on titanium surfaces, evaluating hydrophilicity, surface chemistry, morphology, and osteoblast activity.
 
-## 한줄요약
+Vortex plasma improved hydrophilicity, reduced carbon contamination, and enhanced osteoblast adhesion and activity to a level comparable to direct plasma discharge, while maintaining physical surface morphology and keeping discharge characteristics independent of implant size and shape.
 
-티타늄에서 자기장 기반 신규 "vortex plasma"와 기존 직접 방전을 비교한 in vitro 연구: vortex plasma는 친수성↑·탄소↓·골모세포 부착/활성을 직접 방전과 동등 수준으로 높이면서, 처리 대상(임플란트 크기·형상)에 무관한 균일 방전과 표면형태 보존을 달성.
+The key clinical implication is that vortex plasma overcomes the target-shape dependence of direct discharge (non-uniform treatment across implant geometry), but validation remains limited to in vitro models with no in vivo or clinical data available.
+
+## 세줄요약
+
+In vitro 장치공학·세포 실험: 자기장 기반 "vortex plasma"와 기존 직접 방전을 티타늄 표면에서 친수성·표면 화학·골모세포 반응 측면으로 비교.
+
+Vortex plasma는 친수성 증가·탄소 감소·골모세포 부착/활성을 직접 방전과 동등 수준으로 달성하면서, 임플란트 크기·형상에 무관한 균일 방전(shape-independent)과 표면형태 보존을 동시에 확보.
+
+직접 방전의 형태 의존성 문제를 공학적으로 해결한 점이 핵심이나, in vitro 결과이며 in vivo·임상 데이터가 없어 임상 적용은 추가 검증 필요.
 
 ## 1. Document Information
 

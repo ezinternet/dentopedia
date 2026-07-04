@@ -16,11 +16,21 @@ relations:
     target: clearfil-se-bond-product-reference
 ---
 
-## One-line Summary
-In-vitro multi-parameter study (J Adhes Dent 2024) using Clearfil SE Bond 2 as gold-standard reference, showing HEMA/BPA-free universal adhesives match CSE2 and outperform Scotchbond Universal after 50,000-thermocycle aging.
+## Three-line Summary
 
-## 한줄요약
-in-vitro 다변수 연구 — CSE Bond 2를 gold-standard로 두고, HEMA/BPA-free universal adhesive가 CSE2와 동등·Scotchbond Universal보다 우위(50k thermocycle).
+In vitro multi-parameter characterization study (J Adhes Dent 2024; KU Leuven) comparing HEMA-free and BPA-free 1- and 2-step universal adhesives bonded to dentin, benchmarked against Clearfil SE Bond 2 (CSE2) as gold standard and Scotchbond Universal, with severe aging (50,000 thermocycles).
+
+HEMA/BPA-free universal adhesives performed comparably to CSE2 and better than Scotchbond Universal after 50,000-thermocycle aging across multiple parameters.
+
+Removing HEMA (hydrophilic, water-sorptive) and BPA-related monomers from universal adhesive formulations can preserve bond durability to the level of a 2-step SE reference; this supports the formulation rationale for HEMA/BPA-free universal adhesives where biocompatibility or durability concerns apply.
+
+## 세줄요약
+
+In vitro 다변수 분석 연구 (J Adhes Dent 2024; KU Leuven): HEMA-free·BPA-free 1단계 및 2단계 universal adhesive의 상아질 접착을 Clearfil SE Bond 2(CSE2)를 기준으로 Scotchbond Universal과 비교; 50,000 열순환 극한 노화 조건.
+
+50,000 열순환 후 HEMA/BPA-free universal adhesive는 다변수 지표에서 CSE2와 동등, Scotchbond Universal보다 우수한 성능 나타냄.
+
+HEMA(친수성·수분 흡수)와 BPA 관련 단량체를 제거하더라도 2단계 SE 기준 수준의 접착 내구성을 유지할 수 있음 — 생체적합성 또는 내구성 우려가 있는 경우 HEMA/BPA-free 포뮬레이션의 사용 근거를 제공.
 
 ## Summary
 This laboratory study characterized HEMA-free and BPA-free 1- and 2-step universal adhesives bonded to dentin across multiple parameters, benchmarked against the 2-step self-etch reference Clearfil SE Bond 2 (CSE2). After severe aging (50,000 thermocycles), the HEMA/BPA-free universal adhesives performed comparably to CSE2 and better than Scotchbond Universal, supporting the formulation rationale that removing HEMA (hydrophilic, water-sorptive) and BPA-related monomers can preserve bond durability.

@@ -13,11 +13,21 @@ source_collection: external
 tags: [single-implant, overdenture, immediate-loading, edentulous-mandible, RCT]
 ---
 
-## One-line Summary
-Multicenter RCT (24 mo) — immediate loading of a single median mandibular implant for overdenture retention could NOT be shown noninferior to delayed loading: 9 early failures (all within 3 months) in the immediate group vs 1 in the delayed group.
+## Three-line Summary
 
-## 한줄요약
-다기관 RCT(24개월): 하악 정중부 단일 임플란트 오버덴처의 즉시하중은 지연하중 대비 비열등성 미입증 — 즉시군 조기실패 9개(전부 3개월 내) vs 지연군 1개.
+Multicenter RCT (24 months, noninferiority design): first loading-protocol RCT for a single midline mandibular implant retaining a complete overdenture — immediate vs delayed loading in edentulous patients.
+
+Immediate loading: 9 early implant failures (all within 3 months of loading); delayed loading: 1 failure (pre-loading); noninferiority of immediate loading was NOT confirmed.
+
+A single mandibular midline implant should generally be allowed to osseointegrate before loading; immediate loading may be reserved for cases with demonstrably high primary stability; failure clustering in early healing phase suggests primary stability is the key moderating factor.
+
+## 세줄요약
+
+다기관 RCT (24개월, 비열등성 설계): 무치악 환자의 하악 정중부 단일 임플란트 오버덴처 유지를 위한 즉시하중 vs 지연하중 — 이 적응증에서의 최초 하중 프로토콜 RCT.
+
+즉시하중군: 조기 임플란트 실패 9개(모두 하중 후 3개월 이내); 지연하중군: 1개 실패(하중 전); 즉시하중의 비열등성 미입증.
+
+하악 정중부 단일 임플란트는 원칙적으로 골유착 후 하중 부여; 즉시하중은 1차 안정성이 입증된 경우에 한해 고려; 초기 치유기 실패 집중은 1차 안정성이 핵심 조절 요인임을 시사.
 
 ## Summary
 This multicenter RCT is the first to test loading protocol for a single midline implant retaining a complete mandibular denture — a minimalist, low-cost rehabilitation for dissatisfied edentulous patients. Immediate loading failed the noninferiority test: nine implants failed in the immediate group, all within the first three months of loading, versus a single failure in the delayed group. The clinical message is conservative — a lone mandibular midline implant should generally be allowed to heal before loading, since immediate loading concentrates early failures, presumably where primary stability is marginal. Immediate loading might be reserved for cases with demonstrably high primary stability.

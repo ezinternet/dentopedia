@@ -20,13 +20,21 @@ relations:
     target: givens-2007-marginal-adaptation-color-stability-provisional
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro Vickers-hardness study (Cureus 2025, n=40/group, 160 total) of four provisional crown-and-bridge materials: three bis-acryl composites (3M Protemp 4, Dentsply Integrity, Vericom Care C&B) all had significantly higher surface hardness than the PMMA self-cure acrylic (Pyrax SC-10) — ranking Protemp 4 (20.54 VHN) > Integrity (19.80) > Vericom (18.55) > Pyrax (16.65), all pairwise p<0.01.
+In-vitro Vickers hardness study (Cureus 2025, n=40/group, 160 total) comparing four provisional crown-and-bridge materials using ADA spec. no. 27 standardized dies.
 
-## 한줄요약
+All three bis-acryl composites (Protemp 4 20.54 VHN, Integrity 19.80, Vericom 18.55) significantly outperformed the PMMA self-cure acrylic (Pyrax SC-10 16.65 VHN), all pairwise p<0.01.
 
-In-vitro Vickers 경도 연구(Cureus 2025, 군당 n=40, 총 160): 임시치관(provisional crown) 재료 4종 비교 — bis-acryl 3종(3M Protemp 4, Dentsply Integrity, Vericom Care C&B)이 PMMA(폴리메틸메타크릴레이트, Polymethyl Methacrylate) 자가중합 아크릴(Pyrax SC-10)보다 표면경도(Surface Hardness) 유의하게 높음. 순위: Protemp 4(20.54 VHN) > Integrity(19.80) > Vericom(18.55) > Pyrax(16.65), 모든 짝비교 p<0.01.
+Bis-acryl composites are preferred for long-term, high-stress provisionals; PMMA remains appropriate for short-term, adjustable, cost-sensitive situations despite lower surface hardness.
+
+## 세줄요약
+
+임시치관 재료 4종의 Vickers 표면경도(Surface Hardness)를 ADA 표준 다이에서 비교한 in-vitro 연구(Cureus 2025, 군당 n=40, 총 160개).
+
+Bis-acryl 복합재 3종(Protemp 4 20.54 VHN, Integrity 19.80, Vericom 18.55)이 PMMA 자가중합 아크릴(Pyrax SC-10 16.65 VHN)보다 유의하게 높은 경도를 나타냈으며, 모든 짝비교 p<0.01.
+
+Bis-acryl은 장기·고응력 임시수복에 우선, PMMA(폴리메틸메타크릴레이트, Polymethyl Methacrylate)는 단기·조정이 필요한 비용 민감 상황에 적합하다.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: internal-synthesis
 
 [[resin-bonding/cotert-2024-desensitizing-agents-zirconia-bond-strength]]가 self-adhesive resin cement(Rely-X U200)로 지르코니아를 합착한 맥락에서, 대체 self-adhesive cement인 TheraCem의 제품 레퍼런스를 resin-bonding에 정리. PDF 본문 추출 불가 — 제품 사양 기반 internal-synthesis.
 
-## One-line Summary
-Product-reference stub for TheraCem (BISCO), an MDP-containing, calcium/fluoride-releasing self-adhesive resin cement; content is internal synthesis, not derived from the (non-extractable) PDF.
+## Three-line Summary
 
-## 한줄요약
-TheraCem(BISCO) — MDP 함유·칼슘/불소 방출 self-adhesive resin cement 제품 레퍼런스 stub. PDF 추출 불가, 제품 사양 기반 internal-synthesis. [미검증: PDF 원문]
+Product-reference stub for TheraCem (BISCO), an MDP-containing, calcium/fluoride-releasing self-adhesive resin cement;
+
+content is internal synthesis, not derived from the (non-extractable) PDF.
+
+(incomplete)
+
+## 세줄요약
+
+TheraCem(BISCO) — MDP 함유·칼슘/불소 방출 self-adhesive resin cement 제품 레퍼런스 stub.
+
+PDF 추출 불가, 제품 사양 기반 internal-synthesis.
+
+[미검증: PDF 원문]
 
 ## 1. Document Information
 - Internal product reference. Backing PDF (`theracem-bisco-product-reference.pdf`) has non-extractable body text.

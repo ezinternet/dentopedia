@@ -13,11 +13,21 @@ source_collection: external
 tags: [calcified-canal, PCO, CBCT, microscope, chelating-agent, algorithm, case-reports]
 ---
 
-## One-line Summary
-Systematic review of 34 case reports (41 patients, PeerJ 2025): non-surgical management of calcified canals (pulp canal obliteration, PCO) is most effective when combining CBCT localization, dental operating microscope (DOM) + ultrasonics, and EDTA chelation with small-taper flexible NiTi; a stepwise decision algorithm escalates to guided endodontics then surgery on failure.
+## Three-line Summary
 
-## 한줄요약
-석회화 근관 관리 SR(증례 34개, 41명, PeerJ 2025): 비외과적 접근 + CBCT + 현미경 + EDTA가 핵심; 의사결정 알고리즘 제시.
+Systematic review of 34 case reports (41 patients, PROSPERO CRD42023460967, PeerJ 2025): non-surgical management of pulp canal obliteration (PCO) with CBCT localization, DOM + ultrasonics, EDTA chelation, and small-taper flexible NiTi instruments produced successful outcomes in the majority of reported cases.
+
+A stepwise decision algorithm is proposed: CBCT mapping → DOM + ultrasonic + EDTA → flexible NiTi exploration → guided endodontics on failure → surgical approach as a last resort.
+
+Evidence is limited to case reports (low-quality, high-selection-bias), so the algorithm reflects expert consensus extrapolated from successful cases rather than controlled trial data.
+
+## 세줄요약
+
+SR(증례보고 34개, 41명, PeerJ 2025): 석회화 근관(PCO) 비외과적 관리 — CBCT + DOM + 초음파 + EDTA 킬레이팅 + 소테이퍼 유연 NiTi 조합이 대다수 증례에서 성공.
+
+단계별 의사결정 알고리즘: CBCT 매핑 → DOM+초음파+EDTA → 유연 NiTi 탐색 → 실패 시 유도 근관치료 → 최후 외과적 접근.
+
+근거 수준: 모두 증례보고(선택 편향·낮은 근거) — 알고리즘은 성공 증례로부터 역산된 전문가 합의이며 대조 임상시험 없음.
 
 ## Summary
 PeerJ 2025. PRISMA 2020; JBI Manual; PROSPERO CRD42023460967. 34개 증례 보고(41명) 분석. 석회화 근관(PCO) 비외과적 관리 최선 전략 및 알고리즘.

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 55 minipig intraoral implant studies: mean BIC 59.88% (95% CI 57.43–62.33), with significant time-dependent increase and high heterogeneity (I²>90%) primarily driven by observation interval and implant surface.
+SR+MA (55 minipig intraoral implant studies, PRISMA) establishing normative benchmarks for bone-to-implant contact (BIC) and crestal bone remodeling in this large-animal preclinical model.
 
-## 한줄요약
+Pooled mean BIC was 59.88% (95% CI 57.43–62.33); BIC increased significantly with time (40.93% at 2 weeks, 58.37% at 4 weeks, 66.33% beyond 4 weeks, p<0.001); heterogeneity was very high (I²>90%), primarily explained by observation interval and implant surface type.
 
-미니피그 구내 임플란트 모델 55편 SR+MA: 평균 골-임플란트 접촉률(BIC) 59.88%, 관찰기간 증가에 따라 유의하게 상승, 이종성 매우 높음(I²>90%).
+The minipig intraoral model is translationally valid for osseointegration research (BIC comparable to canine and human data), but reporting quality was generally low — examiner masking and sample size calculations were frequently omitted.
+
+## 세줄요약
+
+SR+MA (미니피그 구내 임플란트 55편, PRISMA) — 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)과 치조정 골 리모델링의 규범적 기준치 수립.
+
+풀링 평균 BIC 59.88% (95% CI 57.43–62.33); 시간에 따라 유의하게 증가 (2주 40.93%, 4주 58.37%, 4주 이후 66.33%, p<0.001); 이질성 매우 높음 (I²>90%), 주 원인은 관찰 기간과 임플란트 표면.
+
+미니피그 구내 모델은 골유착 연구에서 번역 타당성 확인 (BIC가 견치·인간 조직학적 수치와 유사); 단, 보고 질이 전반적으로 낮아 검사자 맹검·표본 크기 산출이 자주 누락됨.
 
 ## Summary
 

@@ -14,11 +14,21 @@ source_collection: external
 tags: [periodontitis, host-modulation, magnoliae-cortex, honokiol, magnolol, zea-mays, insadol, in-vitro, raw-2647, nf-kb, mapk, p-gingivalis, snu]
 ---
 
-## One-line Summary
-SNU Periodontology + DongKook Pharm-funded in vitro: combined Magnoliae Cortex 60 µg/mL + maize unsaponifiable extract (Insadol active ingredient) 300 µg/mL on P. gingivalis-stimulated RAW 264.7 macrophages — NF-κB, ERK1/2, iNOS suppression; reduced NO, PGE₂, IL-1β, IL-6; combination more effective than either alone (synergy).
+## Three-line Summary
 
-## 한줄요약
-SNU 치주과 + DongKook Pharm 자금 in vitro: P. gingivalis 자극 RAW 264.7 대식세포에 Magnoliae Cortex 60 µg/mL + 옥수수 불검화 추출물(인사돌 활성성분) 300 µg/mL 병용 시 NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 더 큰 효과(synergy).
+SNU Periodontology + DongKook Pharm-funded in vitro study: Magnoliae Cortex (60 µg/mL) + Zea mays L. unsaponifiable extract (300 µg/mL; the Insadol active ingredient) on P. gingivalis-stimulated RAW 264.7 macrophages.
+
+The combination (MZ) suppressed NF-κB nuclear translocation, ERK1/2 phosphorylation, and iNOS more strongly than either agent alone, with parallel reductions in NO, PGE₂, IL-1β, and IL-6 (synergy confirmed).
+
+Identifies the NF-κB/MAPK/iNOS axis as the molecular mechanism; does not demonstrate clinical efficacy in humans — translational value is limited by manufacturer funding and cell-culture concentrations unlikely achievable from oral dosing.
+
+## 세줄요약
+
+서울대 치주과 + DongKook Pharm 자금 in vitro: P. gingivalis 자극 RAW 264.7 대식세포에 Magnoliae Cortex 60 µg/mL + 옥수수 불검화 추출물(인사돌 활성성분) 300 µg/mL 병용 투여.
+
+병용군(MZ)은 단독군보다 NF-κB 핵 이동·ERK1/2 인산화·iNOS 발현을 강하게 억제하고 NO·PGE₂·IL-1β·IL-6 분비를 감소시킴(상승 효과 확인).
+
+NF-κB/MAPK/iNOS 축이 분자적 작용 기전으로 규명되었으나, 제조사 자금 지원 및 경구 투여 시 달성 불가능한 세포 배양 농도 등으로 인체 임상 효능은 별도로 검증이 필요.
 
 ## Summary
 In vitro mechanistic study from Seoul National University Periodontology, funded by DongKook Pharmaceutical (manufacturer of Insadol). RAW 264.7 murine macrophages were stimulated with Porphyromonas gingivalis or the TLR1/2 ligand Pam3CSK4 (10 µg/mL), then treated with Magnoliae cortex extract (M, 60 µg/mL), titrated unsaponifiable Zea mays L. extract (Z, 300 µg/mL), or the combination (MZ), with ibuprofen (10 mM) as positive control. The MZ combination suppressed nuclear NF-κB translocation, p44/42 (ERK1/2) MAPK phosphorylation, and iNOS protein expression more strongly than either single extract, with parallel reductions of NO (Griess), PGE₂, IL-1β, and IL-6 (ELISA). This is the in vitro mechanism that the same group's [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts|2024 canine in vivo study]] later confirmed at the tissue level.

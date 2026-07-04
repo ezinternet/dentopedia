@@ -16,13 +16,21 @@ text_filename: alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-s
 
 `clear-aligner` 발치·복잡/vs고정식 축에서 **치료기간** 쟁점 전담. 발치 케이스에서 FA가 더 짧다는 [[wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] 결과와 대비 — 경중등도 crowding에선 차이 없음을 보여 case-class 의존성을 드러냄. paywall, abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-SR (10 studies, 6 RCTs; GRADE low): in mild-to-moderate crowding, treatment duration with clear aligners is similar to fixed appliances; no meta-analysis (high inconsistency); duration also driven by patient/treatment factors.
+Systematic review (10 studies including 6 RCTs; 9 databases searched to June 2023; GRADE low certainty; Clin Oral Investig 2024;28(5):249) comparing treatment duration of clear aligners (CA) versus fixed appliances (FA) specifically in mild-to-moderate crowding cases; abstract-only ingest.
 
-## 한줄요약
+In mild-to-moderate crowding, treatment duration with clear aligners was similar to fixed appliances; no meta-analysis was performed due to high inconsistency across studies.
 
-SR(10편, RCT 6편; GRADE low): 경중등도 crowding에서 CA와 FA의 치료기간은 유사. 이질성 커서 MA 미시행. 기간은 환자·치료 요인에도 좌우.
+Treatment duration is driven by patient and treatment-related factors beyond appliance type; this contrasts with extraction cases where fixed appliances are shorter — demonstrating case-complexity dependence.
+
+## 세줄요약
+
+체계적 문헌고찰(10편, RCT 6편; 9개 DB 2023년 6월까지 검색; GRADE 낮은 확실성; Clin Oral Investig 2024): 경중등도 crowding 케이스에서 투명교정장치(CA) vs 고정식 장치(FA)의 치료기간 비교; 초록만 수집.
+
+경중등도 crowding에서 CA와 FA의 치료기간에 유의한 차이 없음; 높은 이질성으로 메타분석 미시행.
+
+치료기간은 장치 유형 외에도 환자·치료 관련 요인에 좌우; 발치 케이스에서 FA가 짧다는 결과와 대비 — 케이스 복잡도 의존성 확인.
 
 ## 1. Document Information
 

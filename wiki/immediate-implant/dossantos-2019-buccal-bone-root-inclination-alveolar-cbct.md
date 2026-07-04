@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Descriptive cross-sectional CBCT study mapping buccal bone plate thickness, root inclination, and alveolar bone dimensions site-by-site across both jaws; buccal plate is predominantly thin in the anterior maxilla, providing a per-site fenestration/dehiscence risk reference for immediate implant planning.
+## Three-line Summary
+Descriptive cross-sectional CBCT study mapping buccal bone plate thickness, root inclination, and alveolar bone dimensions site-by-site across both jaws in a single-center cohort.
 
-## 한줄요약
-CBCT 기술 연구: 상하악 buccal bone plate 두께, root inclination, alveolar dimension 종합 매핑 — IIP 부위별 위험 데이터 제공.
+Buccal plate thickness in the anterior maxilla was predominantly thin; root inclination varied by tooth type and correlated with relative buccal/palatal bone distribution.
+
+Clinical implication: per-site CBCT assessment of buccal plate thickness and root inclination is essential for immediate implant treatment planning, particularly in the anterior maxilla where thin plates drive higher fenestration/dehiscence risk.
+
+## 세줄요약
+기술적 단면 CBCT 연구 — 상하악 전 부위 협측 골판 두께, 치근 경사, 치조골 치수를 부위별로 종합 매핑.
+
+상악 전치 구역의 협측 골판은 대부분 얇게 측정되었으며, 치근 경사는 치아 종류별로 다르고 협측/구개측 골 분포와 상관 있음.
+
+임상 의미: 부위별 CBCT를 통한 협측 골판 두께 및 치근 경사 사전 평가가 즉시식립 계획에 필수 — 특히 열개(dehiscence)·천공(fenestration) 위험이 높은 상악 전치부에서 중요.
 
 ## Summary
 Descriptive CBCT study mapping buccal plate thickness, root inclination, and alveolar bone dimensions across the jaws, intended as a planning reference for immediate implants.

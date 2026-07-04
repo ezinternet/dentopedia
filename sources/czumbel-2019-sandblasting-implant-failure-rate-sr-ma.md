@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/implants/surface/smeets-2016-implant-surface-modifications-osseointegration]] 은 sandblasted/acid-etched (SLA) 표면을 포함한 broad한 표면 수정 리뷰이지만, sandblasting 단독 vs machined 비교의 고품질 메타분석 근거가 부재했음. 본 SR+MA (Czumbel 2019)는 RCT만 포함한 첫 메타분석으로 임플란트 실패율(80–74% 감소)과 변연골 소실 비교를 정량화함.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (n=722 implants) found sandblasted surfaces reduce implant failure by ~80% at 1 year and ~74% at 5 years vs machined surfaces, with no significant difference in marginal bone level loss.
+SR+MA of 7 RCTs (n=722 implants) comparing sandblasted vs machined (turned) implant surfaces in systemically healthy adults; first meta-analysis restricted exclusively to RCTs for this comparison.
 
-## 한줄요약
+Sandblasted surfaces reduced implant failure risk by ~80% at 1 year (RR 0.20, 95% CI 0.06–0.67) and ~74% at 5 years (RR 0.26, 95% CI 0.09–0.74), both with I²=0%; no statistically significant difference in marginal bone level loss at either timepoint.
 
-7개 RCT를 포함한 SR+MA (총 722개 임플란트): 샌드블라스팅 표면이 머신드 표면 대비 1년 임플란트 실패율을 약 80%, 5년 실패율을 약 74% 낮추었으나, 변연골 소실에는 유의한 차이가 없었다.
+Sandblasting confers a strong survival advantage over machined surfaces, but the evidence base is limited to 7 RCTs; larger trials with standardized surface characterization are needed before definitive clinical guidelines can be established.
+
+## 세줄요약
+
+7개 RCT만을 포함한 SR+MA (총 722개 임플란트): 전신 건강한 성인에서 샌드블라스팅 표면 vs 머신드(선삭) 표면을 비교한 최초의 RCT 전용 메타분석.
+
+샌드블라스팅 표면이 1년 임플란트 실패율 약 80% 감소(RR 0.20, 95% CI 0.06–0.67), 5년 실패율 약 74% 감소(RR 0.26, 95% CI 0.09–0.74), 두 시점 모두 I²=0%; 변연골 소실(MBL)은 두 표면 간 유의한 차이 없음.
+
+샌드블라스팅은 머신드 표면 대비 생존율에서 강한 이점을 보이나, 포함된 RCT가 7개에 불과하고 표면 특성 표준화 부재로 확정적 임상 지침 수립을 위해서는 대규모 추가 연구가 필요함.
 
 ## 1. Document Information
 

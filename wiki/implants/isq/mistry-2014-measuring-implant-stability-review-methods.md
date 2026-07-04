@@ -18,13 +18,21 @@ relations:
     target: al-jetaily-2010-osstell-periotest-implant-stability-in-vitro
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of six implant stability measurement methods (clinical perception, percussion, reverse torque, cutting torque resistance, Periotest, RFA/ISQ), concluding no single critical value reliably predicts implant success and RFA/ISQ is the most useful noninvasive option.
+Practitioner-oriented narrative review cataloguing six implant stability measurement methods — clinical perception, percussion, reverse torque, cutting torque resistance, Periotest, and RFA/ISQ — with mechanism and limitations for each.
 
-## 한줄요약
+Periotest bands (−8 to 0 = loadable; +10 to +50 = insufficient) and RFA/ISQ thresholds (ISQ >49 healed DL; >54 immediately loaded; range 40–80) are compiled from primary sources; no statistical pooling was performed.
 
-임플란트 안정성 (Implant Stability) 측정 방법 6가지를 정리한 narrative review로, 단일 임계값으로 임플란트 성공/실패를 확정할 수 없으며 비침습적 공명주파수분석 (Resonance Frequency Analysis, RFA)/임플란트 안정성 지수 (Implant Stability Quotient, ISQ)가 가장 유용하다고 결론.
+No single critical value reliably predicts implant success or failure because bone quality, effective implant length, geometry, and measurement direction all shift readings; RFA/ISQ is the most useful noninvasive option despite SmartPeg costs and cemented-restoration limitations.
+
+## 세줄요약
+
+임상가 대상 내러티브 종설: 임플란트 안정성 측정법 6종(임상적 지각, 타진, 역토크, 절삭토크저항, 페리오테스트, 공명주파수분석 (Resonance Frequency Analysis, RFA)/임플란트 안정성 지수 (Implant Stability Quotient, ISQ))의 원리와 한계를 정리.
+
+Periotest 밴드(−8~0 = 부하 가능, +10~+50 = 부적절)와 RFA/ISQ 임계값(ISQ >49 지연부하, >54 즉시부하; 범위 40–80)을 원 문헌에서 정리; 통계적 풀링 없음.
+
+골질·유효 임플란트 길이·형태·측정 방향이 모두 수치에 영향을 주어 단일 임계값으로 성공/실패를 확정할 수 없으며, 비침습적 방법 중 RFA/ISQ가 가장 유용하나 스마트팩 비용과 시멘트 보철 모니터링 불가 등 한계 존재.
 
 ## Summary
 

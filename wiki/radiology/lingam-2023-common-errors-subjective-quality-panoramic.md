@@ -22,13 +22,21 @@ relations:
     target: ramos-2016-ghost-images-metal-objects-panoramic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional audit of 2,629 digital panoramic radiographs (Orthophos XG, Riyadh): 77.2% had ≥1 positioning error, only 32.8% were error-free; ghost/reflected images (error 10) were the least frequent error overall (~2.2%) but significantly concentrated in 5–12-year-old children (P=0.001), and ~15% of images were diagnostically unacceptable — above the ≤10% quality benchmark.
+Cross-sectional audit of 2,629 digital panoramic radiographs (Orthophos XG; Riyadh, Aug 2020–Jun 2021), grading 10 positioning error categories and overall diagnostic quality in all-age patients.
 
-## 한줄요약
+Only 32.8% of images were error-free; 77.2% had ≥1 positioning error; ghost/reflected images (error 10) were the least frequent error (~2.2%) but significantly concentrated in 5–12-year-old children (P=0.001), and 15% of images were diagnostically unacceptable — exceeding the ≤10% benchmark.
 
-디지털 파노라마(Panoramic Radiograph, OPG) 2,629장 단면 감사(사우디 리야드): 자세오류(positioning error) 1개 이상이 77.2%, 무오류는 32.8%뿐. 유령상(Ghost Image, 오류 10)은 전체적으로 가장 드물지만(~2.2%) 5–12세 소아에서 유의하게 집중(P=0.001)됐고, 진단 불가(diagnostically unacceptable) 영상이 ~15%로 권고 기준(≤10%)을 초과.
+The large shortfall in image quality (15% unacceptable vs target ≤10%; only 32.1% excellent vs target ≥70%) reflects a training and positioning problem, not hardware; ghost images in children are most often caused by thyroid collars or lead aprons acting as ghost-image sources.
+
+## 세줄요약
+
+사우디 리야드 단일기관에서 2020년 8월–2021년 6월 촬영된 디지털 파노라마(OPG, Orthopantomogram) 2,629장에 대해 10가지 자세 오류(Positioning Error) 및 전반적 진단 화질을 평가한 단면 감사 연구.
+
+무오류 영상은 32.8%뿐이고 77.2%에 자세 오류가 1개 이상 있었으며, 유령상(Ghost Image, 오류 10)은 전체 중 가장 드물지만(~2.2%) 5–12세 소아에서 유의하게 집중(P=0.001)됐고, 진단 불가 영상이 15%로 권고 기준(≤10%)을 초과.
+
+화질 불량은 하드웨어가 아닌 자세 교육 문제이며, 소아 유령상은 주로 갑상선 보호대나 방호복이 방사선원과 회전 중심 사이에 위치해 발생한다.
 
 ## Summary
 

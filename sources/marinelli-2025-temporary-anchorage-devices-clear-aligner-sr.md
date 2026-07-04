@@ -17,13 +17,23 @@ text_filename: marinelli-2025-temporary-anchorage-devices-clear-aligner-sr.txt
 
 The clear-aligner library has multiple pages on specific TAD-assisted movements — [[orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] (maxillary molar distalization, where TADs are a key anchorage adjunct) and [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] (distalization predictability) — but no page synthesizing the **combined aligner + TAD modality across all movement types**. This Marinelli 2025 SR is the dedicated cross-indication review of that combination, extending the distalization-focused pages to intrusion/extrusion/asymmetry/open-bite and the surgery-first protocol. It also links to the orthodontic-miniscrew (TAD) stability literature in [[orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] by motivating why anchorage stability matters in aligner cases. Note: shares senior authors (Inchingolo F., Dipalma G.) with [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (PRISMA, 14 studies — mostly case reports/small series, ROBINS-I: 1 low / 9 some-concerns / 4 high risk of bias) finding that combining clear aligners with temporary anchorage devices (TADs/miniscrews) improves precision and control of complex movements (intrusion, extrusion, distalization), but the evidence base is weak (no controlled comparisons, scarce RCTs).
 
-## 한줄요약
+(incomplete)
 
-체계적 문헌고찰 (PRISMA, 14편 — 대부분 증례보고/소규모 시리즈, ROBINS-I 비뚤림: 1편 낮음 / 9편 일부우려 / 4편 높음): 투명교정장치 (Clear Aligner)에 임시고정원장치 (Temporary Anchorage Device, TAD; 미니스크류)를 병용하면 압하·정출·후방이동 같은 복잡한 치아이동의 정밀도·조절력이 향상되나, 대조군·무작위배정연구가 거의 없어 근거 수준은 낮다.
+(incomplete)
+
+## 세줄요약
+
+
+체계적 문헌고찰 (PRISMA, 14편 — 대부분 증례보고/소규모 시리즈, ROBINS-I 비뚤림: 1편 낮음 / 9편 일부우려 / 4편 높음): 투명교정장치 (Clear Aligner)에 임시고정원장치 (Temporary Anchorage Device, TAD;
+
+미니스크류)를 병용하면 압하·정출·후방이동 같은 복잡한 치아이동의 정밀도·조절력이 향상되나, 대조군·무작위배정연구가 거의 없어 근거 수준은 낮다.
+
+(incomplete)
 
 ## 1. Document Information
 

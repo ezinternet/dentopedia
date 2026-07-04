@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-RCT in OA + stable IHD patients (n=24): ibuprofen 600mg TID significantly blocked aspirin 100mg's platelet COX-1 inhibition (TXB2 rose to 19 ng/mL); celecoxib 200mg BID achieved equivalent COX-2 inhibition without interfering with aspirin's antiplatelet effect.
+## Three-line Summary
+Placebo-controlled 3-arm crossover RCT (n=24 OA patients on chronic aspirin 100 mg/day for stable IHD) comparing celecoxib 200 mg BID, ibuprofen 600 mg TID, and placebo for 7 days on platelet and COX-2 outcomes.
 
-## 한줄요약
-RCT (OA + 안정형 IHD 환자, n=24): 이부프로펜 600mg TID는 아스피린 100mg의 혈소판 COX-1 억제를 유의하게 차단(TXB2 19ng/mL↑); 셀레콕시브 200mg BID는 COX-2 억제 동등하나 혈소판 간섭 없음.
+Ibuprofen significantly elevated serum TXB2 to median 19.13 ng/mL (baseline 1.65 ng/mL, p<0.001) and impaired platelet aggregation and PFA-100, abolishing aspirin's antiplatelet effect; celecoxib achieved equivalent COX-2 inhibition (≥70% PGE2 suppression) with no interference with aspirin's platelet COX-1 inhibition.
+
+In dental patients on aspirin for cardiovascular protection, ibuprofen should be avoided as an analgesic; celecoxib or acetaminophen are safer alternatives that preserve aspirin's antiplatelet benefit.
+
+## 세줄요약
+만성 아스피린 100 mg 복용 안정형 IHD+OA 환자(n=24) 대상 위약 대조 3군 교차 RCT: 셀레콕시브 200 mg BID vs 이부프로펜 600 mg TID vs 위약 7일 비교.
+
+이부프로펜은 혈청 TXB2를 기저 1.65 → 19.13 ng/mL로 유의하게 상승(p<0.001)시켜 아스피린 항혈소판 효과 소실; 셀레콕시브는 COX-2 억제 ≥70% 동등하나 혈소판 COX-1 간섭 없음.
+
+심혈관 보호 목적 아스피린 복용 치과 환자에서 이부프로펜 진통제 회피; 셀레콕시브 또는 아세트아미노펜이 항혈소판 효과 보존하는 안전한 대안.
 
 ## Summary
 This placebo-controlled RCT extends the ibuprofen–aspirin interaction from healthy volunteers (Catella-Lawson 2001) to patients with the exact clinical scenario where the interaction matters most: individuals with osteoarthritis who need analgesics and stable ischemic heart disease who depend on aspirin for cardiovascular protection. Twenty-four patients already on aspirin 100 mg daily were randomized to ibuprofen 600 mg TID, celecoxib 200 mg BID, or placebo for 7 days. Ibuprofen significantly elevated serum TXB2 (median 19 ng/mL pre-dose on day 7 vs. baseline 1.65 ng/mL, p < .001) and impaired platelet function on multiple measures. Celecoxib achieved equivalent COX-2 suppression (≥70% PGE2 inhibition) but left aspirin's platelet COX-1 inhibition intact.

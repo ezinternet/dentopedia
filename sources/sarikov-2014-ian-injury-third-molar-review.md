@@ -9,7 +9,7 @@ pdf_filename: sarikov-2014-ian-injury-third-molar-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 하악 제3대구치 발치 후 하치조신경 손상 문헌 고찰 (JOMR 2014): 14편 분석; 유병률 0.35–8.4%; 24세 초과, 수평매복, 레지던트 시술이 위험인자; 영구적 손상은 드묾.
 
 ## 1. Document Information

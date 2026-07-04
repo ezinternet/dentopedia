@@ -33,13 +33,23 @@ tags: [immediate-implant, cbct, incisive-canal, inferior-alveolar-canal, lingual
 > - **결과 비교의 방법론 경고(Pannuti 2026)**: 무치악 상악 로딩 타이밍 연구는 PRO/ClinRO 측정도구가 표준화 안 됨(VAS가 80%, ClinRO 12종 난립, 5편 중 1편만 평가자 보정) → IIP 부위·프로토콜 간 환자중심 결과 비교는 현재 신뢰도 제한. [근거강함]
 > - **갭**: 한국인 IC normative CBCT 데이터 부재, 협측판 두께 임계의 인체 장기 RCT 부족, virtual BIC–안정성 상관의 대규모 검증 미흡, 로딩 타이밍 PROM 표준 미정립.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 immediate-implant (IIP) papers organized as a site-specific anatomic-safety map, premised on the idea that much IIP failure stems from skipped preoperative anatomic assessment (nerve encroachment, cortical perforation, buccal-plate loss) rather than poor regeneration — making preoperative CBCT mandatory. Anterior maxilla: incisive canal mean length 16.33 mm / width 3.85 mm with ethnic variation (Al-Amery 2015). Posterior mandible: pooled root-apex-to-IAC distance is shortest at the second molar (4.65 mm), which is also 73% undercut, making it a double-risk site (Behfarnia 2025). Buccal gap ≥2 mm warrants DBBM grafting and thin buccal plate warrants augmentation (Greenstein 2013). Grafting the gap does not improve primary stability — native bone beyond the socket drives it, and virtual bone-implant contact predicts early stability only when ungrafted (Askin Ekinci 2026). Outcome-measure heterogeneity currently limits cross-protocol comparison (Pannuti 2026).
 
-## 한줄요약
+Synthesis of 5 IIP papers as a site-specific anatomic-safety map: much IIP failure originates from skipped preoperative anatomic assessment (nerve encroachment, cortical perforation, buccal-plate loss) rather than regeneration failure, making CBCT mandatory; anterior maxilla mean incisive canal length is 16.33 mm (width 3.85 mm) with ethnic variation (Mongoloid longer/more curved; Al-Amery 2015), and posterior mandible second-molar root-apex-to-IAC distance is shortest (pooled 4.65 mm) while 73% undercut — a double-risk site (Behfarnia 2025 SR+MA, n=1,834).
 
-즉시식립 5편을 부위별 해부 안전역으로 종합 — 상악 전치부 절치관(IC, 길이 16.33 mm·민족차), 하악 구치부 하치조관(제2대구치 4.65 mm로 가장 가깝고 73% 언더컷, 이중 위험), 협측 갭 ≥2 mm DBBM·협측판 <2 mm 증대. 1차 안정성은 갭 골이식이 아닌 소켓 너머 천연골이 결정(virtual BIC는 비이식군에서만 ISQ 상관). 술전 CBCT 필수. 로딩 타이밍 결과지표는 비표준화로 비교 신뢰도 제한.
+Buccal gap ≥2 mm warrants DBBM grafting, buccal plate <1–2 mm warrants augmentation, and ~1/3 of patients show ~1 mm buccal recession after IIP (Greenstein 2013); however, grafting the peri-implant gap does not improve primary stability — native bone engagement beyond the socket drives early stability, and virtual BIC predicts early ISQ only in the ungrafted group (Askin Ekinci 2026 pilot RCT, n=28).
+
+The anatomic safety margins and stability-providing bone are the same territory, confirming that preoperative CBCT-guided planning is both a safety and a stability precondition; outcome-measure heterogeneity (12 distinct clinician-reported outcomes, no consensus) currently limits cross-protocol patient-centered comparisons (Pannuti 2026).
+
+## 세줄요약
+
+
+즉시식립 5편을 부위별 해부 안전역으로 종합 — 상악 전치부 절치관(IC, 길이 16.33 mm·민족차), 하악 구치부 하치조관(제2대구치 4.65 mm로 가장 가깝고 73% 언더컷, 이중 위험), 협측 갭 ≥2 mm DBBM·협측판 <2 mm 증대.
+
+1차 안정성은 갭 골이식이 아닌 소켓 너머 천연골이 결정(virtual BIC는 비이식군에서만 ISQ 상관).
+
+술전 CBCT 필수. 로딩 타이밍 결과지표는 비표준화로 비교 신뢰도 제한.
 
 ## Summary
 

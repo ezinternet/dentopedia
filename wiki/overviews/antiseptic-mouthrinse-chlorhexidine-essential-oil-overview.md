@@ -34,13 +34,21 @@ relations:
 > - **임상 결정 ladder**: 장기 가정 가글 → EO(효능≈CHX, 무착색, 미생물 친화); 단기·수술후·NSPT 보조·SPC 불순응 → 0.12% CHX(+ADS), 보통 2–4주 한정; 착색 우려·심미 환자 → EO 또는 허브 대안; 흡연자 → 가글 효과 기대치 하향.
 > - **확신도**: 효능·착색(축 1·4) 근거 강함(Cochrane + NMA); 미생물 reset(축 5)은 RCT지만 산업후원·단일연구 → 중간.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 papers (1 network meta-analysis, 1 Cochrane SR+MA, 1 SR, 4 RCTs; periodontics + oral-microbiology) on antiseptic mouthrinses for chemical plaque control. Mouthrinses are adjuncts to — never substitutes for — mechanical hygiene, and reduce plaque/gingivitis but not pocket depth or attachment level. For gingivitis, essential oils (EO) rank at least as high as chlorhexidine (CHX) ≥0.10% ≈ triclosan (Figuero 2019 NMA, 53 RCTs), while CHX is the strongest plaque suppressor (Cochrane SMD −1.45; James 2017). CHX's defining liability is tooth staining (SMD +1.07), making it a short-term/high-need agent (post-surgery, NSPT adjunct, non-compliant SPC) best used at 0.12% with antidiscoloration additives. EO matches CHX efficacy without staining and is microbiome-friendly (12-week microbiota-neutral; Plummer 2022) and may even "reset" dysbiotic plaque (Min 2024, industry-funded), making it the preferred long-term home rinse. Smoking blunts mouthrinse benefit (Basudan 2023).
+Synthesis of 7 papers (1 NMA of 53 RCTs, 1 Cochrane SR+MA of 51 RCTs, 1 post-surgical SR, 4 RCTs) on antiseptic mouthrinses: mouthrinses are adjuncts to mechanical hygiene and reduce plaque/gingivitis but never improve pocket depth or clinical attachment level.
 
-## 한줄요약
+Efficacy ranking for gingivitis: essential oils (EO) ≥ chlorhexidine (CHX) ≥0.10% ≈ triclosan-copolymer (Figuero 2019 NMA); CHX is the strongest plaque suppressor (Cochrane SMD −1.45; James 2017) but carries a defining liability of tooth staining (SMD +1.07), while EO is microbiome-neutral at 12 weeks and possibly resets dysbiotic plaque (Min 2024, industry-funded).
 
-항균 가글 7편 종합(치주+구강미생물 교차). 가글은 기계적 위생의 보조일 뿐 PD/CAL은 개선 못 함. ①효능순위 — EO ≥ CHX ≥0.10% ≈ triclosan(Figuero NMA). ②치태억제 1위 = CHX(Cochrane SMD −1.45). ③CHX 농도 — 0.12% 표준이나 0.05%도 유효, "농도 우열 근거 없음". ④CHX 아킬레스건 = 착색(SMD +1.07) → 단기 한정. ⑤EO = 무착색 + 미생물 친화(12주 안전, dysbiosis reset). ⑥수술후 = 0.12%+ADS 최적, 1주 치태 29–86%↓. ⑦흡연자 = 가글 효과 상쇄. 결론: 장기=EO, 단기/수술후/NSPT보조=0.12% CHX.
+Clinical takeaway: long-term home rinse → EO (efficacy ≈ CHX, no staining, microbiome-friendly); short-term/post-surgery/NSPT adjunct → 0.12% CHX + antidiscoloration system; smoking blunts any rinse benefit.
+
+## 세줄요약
+
+항균 가글 7편 종합(네트워크 메타분석 1 + Cochrane 체계적 문헌고찰+메타분석 1 + 수술후 체계적 문헌고찰 1 + 무작위대조시험 4) — 가글은 기계적 위생의 보조이며 치은염·치태를 줄이지만 치주낭 깊이(Pocket Depth, PD)·부착수준(Clinical Attachment Level, CAL)은 개선하지 못한다.
+
+효능 순위: 에센셜 오일(Essential Oil, EO) ≥ 클로르헥시딘(Chlorhexidine, CHX) ≥0.10% ≈ triclosan(Figuero NMA); CHX는 치태 억제 표준화평균차(Standardized Mean Difference, SMD) −1.45로 최강이지만 착색(SMD +1.07)이 아킬레스건; EO는 12주 구강 미생물 중립·dysbiosis reset(Min 2024, 산업 후원) 가능.
+
+임상 결론: 장기 가정 사용 → EO(효능 ≈ CHX, 무착색, 미생물 친화); 단기·수술후·비순응 지지치료(Supportive Periodontal Therapy, SPT) → 0.12% CHX + 항착색 시스템; 흡연자는 효과 기대치 하향.
 
 ## Summary
 

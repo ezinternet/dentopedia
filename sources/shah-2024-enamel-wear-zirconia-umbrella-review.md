@@ -9,7 +9,7 @@ pdf_filename: shah-2024-enamel-wear-zirconia-umbrella-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Indian Prosthodont Soc 2024: umbrella review (4 SRs); polished monolithic zirconia ≤ natural enamel wear over time; polished < glazed; polished Zr < metal-ceramics, feldspathic, lithium disilicate; meta-analysis not possible due to heterogeneity.
 
 ## 1. Key Results

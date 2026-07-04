@@ -20,13 +20,21 @@ tags: [tilted-implant, axial-implant, edentulous, marginal-bone-loss, sr-ma]
 > [!note] Partially superseded → [[del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]]
 > 2022 SR+MA (n=2,637, ≥3yr) found axial < tilted MBL (P<.0001), upgrading this paper's NS finding at 1yr. This 2014 paper remains the historical baseline and founding SR+MA for the topic. (set 2026-06-26)
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (19 studies, n=670 patients, 1,494 axial + 1,338 tilted implants, ≥1yr): crestal bone loss around tilted vs axial implants NOT significantly different at 1yr (P=.09) or ≥3yr (P=.30); tilted implants are a predictable technique.
+Foundational SR+MA (19 studies — 14 prospective, 5 retrospective; electronic + hand search through January 2014; 670 patients, 716 prostheses; 1,494 axial + 1,338 tilted implants; ≥1 year function in edentulous jaws) comparing crestal bone loss around axial vs tilted implants.
 
-## 한줄요약
+Crestal bone loss did not differ significantly between tilted and axial implants at 1 year (axial 0.43–1.13 mm vs tilted 0.34–1.14 mm; P=.09) or ≥3 years (P=.30); maxillary survival (97.4%) was significantly lower than mandibular (99.6%).
 
-SR+MA (19편, n=670명): 경사 임플란트의 변연골 소실은 1년(P=.09)·3년↑(P=.30) 모두 수직 임플란트와 유의한 차이 없음 — 경사 임플란트는 단·중기 예측 가능한 방법.
+This 2014 NS finding at ≤3 years was partially superseded by the 2022 update (Del Fabbro et al., larger sample, longer follow-up) which found axial < tilted MBL (P<.0001); the 2014 paper remains the historical baseline SR+MA establishing tilted implants as a predictable technique.
+
+## 세줄요약
+
+근거 SR+MA (19편 — 전향 14·후향 5; 검색 ~2014-01; 670명, 보철 716개; 수직 임플란트 1,494개 + 경사 임플란트 1,338개; 무치악악 고정 보철, ≥1년 기능): 수직 vs 경사 임플란트의 치조정 골 소실 비교.
+
+경사 임플란트의 골 소실은 1년 (P=.09) 및 3년 이상 (P=.30) 모두 수직 임플란트와 유의한 차이 없음; 상악 생존율 (97.4%)이 하악 (99.6%)보다 유의하게 낮음.
+
+이 2014년 NS 결과는 2022년 업데이트 SR+MA (더 큰 표본, 더 긴 추적)에서 수직 임플란트 < 경사 임플란트 MBL (P<.0001)로 부분 대체; 이 논문은 경사 임플란트 예측가능성을 확립한 역사적 기준 SR+MA로 유지됨.
 
 ## Summary
 

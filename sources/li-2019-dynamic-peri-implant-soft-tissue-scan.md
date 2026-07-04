@@ -13,13 +13,21 @@ source_collection: external
 
 디지털 인상 채득 시 임시 보철물(IR) 제거 후 연조직 붕괴 속도를 정량화한 유일한 임상 연구로, 심미부 임플란트 디지털 워크플로우의 핵심 임상 근거. [[immediate-implant/esthetic-soft-tissue/monaco-2016-fully-digital-replicate-peri-implant-contours]]의 디지털 프로토콜이 실제 임상에서 타이밍 제약을 받는 이유를 설명하는 근거 논문으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Clinical study (n=12 implant sites, 10 patients) quantifying peri-implant soft tissue collapse after interim restoration removal — significant emergence profile discrepancy (EPD) appears immediately and increases logarithmically over time, while papilla height changes are minimal (≤0.27 mm at 20 min).
+Prospective clinical study (n=10 patients, 12 maxillary anterior/premolar single-implant sites) using serial digital intraoral scans at 0 sec to 20 min after interim restoration (IR) removal to quantify peri-implant soft tissue collapse.
 
-## 한줄요약
+Emergence profile discrepancy (EPD) was present immediately at 0 seconds after IR removal and increased logarithmically with time (significant positive correlation with ln[time]); papilla height and gingival margin changed minimally (≤0.27 mm at 20 min); gingival thickness and implant depth were positively correlated with EPD at some sites.
 
-임상연구(12개 임플란트, 환자 10명): 임시 보철물 제거 즉시 유의미한 출현 윤곽 불일치(EPD)가 발생하고 시간에 따라 대수적으로 증가하나, 유두 높이 변화는 미미함(20분 내 ≤0.27 mm).
+Digital intraoral scans of esthetic-zone implants cannot accurately capture the emergence profile after IR removal; clinicians should scan immediately after removal or use a customized scan body/emergence-profile replica to prevent recording a collapsed contour.
+
+## 세줄요약
+
+전향 임상연구(환자 10명, 상악 전치부·소구치 단일 임플란트 12개): 임시 보철물(IR) 제거 후 0초~20분간 연속 디지털 구내 스캔으로 임플란트 주위 연조직 붕괴를 정량화.
+
+출현 윤곽 불일치(EPD)는 제거 즉시(0초)부터 발생하고 시간(ln[시간])에 따라 대수적으로 증가; 유두 높이·치은 변연 변화는 20분 내 ≤0.27 mm로 미미; 치은 두께·임플란트 매몰 깊이와 EPD 사이 유의한 양의 상관.
+
+심미부 임플란트 디지털 인상 시 IR 제거 후 지연 스캔은 출현 윤곽 오차를 유발 — IR 제거 직후 즉시 스캔하거나 개별화 스캔바디(출현 윤곽 복제 보조장치)를 사용해야 한다.
 
 ## 1. Document Information
 

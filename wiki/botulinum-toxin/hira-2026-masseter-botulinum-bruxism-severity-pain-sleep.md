@@ -15,13 +15,21 @@ full_text: false
 tags: [bruxism, sleep-quality, PSQI, BDI]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=80, 6-month follow-up) of masseter BoNT-A injection for bruxism showed rapid BDI reduction at 1 month (20.8→4.3) with partial rebound by 6 months, sustained PSQI improvement (10.0→2.8 at 6mo), and significant VAS pain reduction; sleep quality was the most durable outcome. Abstract-only.
+Prospective study (n=80, 4 timepoints: baseline, 1, 3, 6 months) of masseter BoNT-A injection for bruxism, measuring BDI (bruxism severity), PSQI (sleep quality), and VAS pain with repeated-measures ANOVA.
 
-## 한줄요약
+BDI dropped rapidly at 1 month (20.8 ± 4.3 → 4.3 ± 1.5) then showed partial rebound by 6 months; PSQI improved steadily and was sustained at 6 months (10.0 ± 2.3 → 2.8 ± 1.0; p<0.001); VAS pain reduction was significant throughout (p=0.004).
 
-교근 BoNT-A 주사 브럭시즘 전향 연구(n=80, 6개월)에서 BDI가 1개월에 급격히 감소(20.8→4.3)하다 6개월에 부분 반등하고, PSQI는 6개월까지 지속 개선(10.0→2.8)되어 수면 질 개선이 가장 지속적인 효과임을 확인. 초록만.
+Clinical implication: sleep quality (PSQI) is the most durable outcome of masseter BoNT-A — when counseling patients on longevity, "sleep benefits outlast bruxism severity suppression"; re-injection intervals may be shorter for bruxism severity control than for sleep-focused goals.
+
+## 세줄요약
+
+교근 BoNT-A 주사 브럭시즘 전향 연구(n=80, 4개 시점: baseline·1·3·6개월) — BDI(브럭시즘 중증도), PSQI(수면의 질), VAS 통증을 반복측정 ANOVA로 분석.
+
+BDI는 1개월에 급격 감소(20.8→4.3)하다 6개월에 부분 반등; PSQI는 지속 개선되어 6개월까지 유지(10.0→2.8, p<0.001); VAS 통증도 전 기간 유의 감소(p=0.004).
+
+임상 의미: 수면의 질(PSQI)이 가장 지속적인 효과 — "수면 이득이 브럭시즘 중증도 억제보다 오래간다"는 환자 상담 핵심; 재주사 간격은 브럭시즘 중증도 목적(단기)과 수면 목적(장기)이 다를 수 있음. 초록만이므로 용량 등 세부 정보 미확인.
 
 ## Summary
 

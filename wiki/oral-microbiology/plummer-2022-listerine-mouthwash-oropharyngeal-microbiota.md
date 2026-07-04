@@ -15,13 +15,21 @@ source_collection: pubmed-text
 tags: [mouthwash, listerine, microbiome, essential-oil, long-term-safety]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT substudy (n=153, 12 weeks), daily Listerine Zero use produced no significant shift in oropharyngeal microbiota composition; Biotène caused small significant decreases in Streptococcus and Rothia.
+RCT substudy (n=153, 12 weeks) in MSM randomized to Listerine Zero (alcohol-free essential oil) vs Biotène (enzyme system) with 16S rRNA V4 oropharyngeal swabs at baseline and week 12.
 
-## 한줄요약
+Listerine Zero produced no significant shift in overall microbiota structure (PERMANOVA p=0.413) and no FDR-significant differentially abundant genera; Biotène caused small but significant decreases in Streptococcus (FDR-p=0.004) and Rothia (FDR-p=0.03).
 
-RCT 서브스터디 (n=153, 12주), 리스테린 제로 매일 사용은 구인두 마이크로바이오타 구성에 유의한 변화 없었으며; Biotène은 Streptococcus·Rothia 소폭 유의 감소.
+Listerine Zero is microbiota-neutral over 12 weeks (contrasting sharply with chlorhexidine's known diversity loss), supporting long-term daily use from a microbiome safety standpoint, though alcohol-containing Listerine and effects beyond 12 weeks were not tested.
+
+## 세줄요약
+
+MSM 대상 RCT 서브스터디 (n=153, 12주): 리스테린 제로(알코올 무함유 에센셜 오일) vs Biotène(효소 시스템)으로 무작위배정, 구인두 16S rRNA 시퀀싱으로 마이크로바이오타 변화 측정.
+
+리스테린 제로는 전체 마이크로바이오타 구성에 유의한 변화 없었고(PERMANOVA p=0.413) FDR 유의 속(genus)도 없었으며; Biotène은 Streptococcus(FDR-p=0.004)·Rothia(FDR-p=0.03) 소폭 유의 감소.
+
+리스테린 제로는 12주간 마이크로바이오타 중립적이어서(클로르헥시딘의 다양성 감소와 대비) 장기 일상 사용의 마이크로바이옴 안전성을 지지하나, 알코올 함유 제품과 12주 초과 효과는 미평가.
 
 ## Summary
 

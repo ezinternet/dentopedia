@@ -13,11 +13,21 @@ source_collection: external
 tags: ['socket shield', 'SST', 'partial extraction therapy', 'esthetic', 'buccal bone']
 ---
 
-## One-line Summary
-Systematic review and meta-analysis of the socket-shield technique (SST) — retaining a buccal root fragment at immediate placement to prevent buccal bone resorption — pooling mostly case series/reports with limited RCTs: SST shows a buccal-bone-width preservation trend but non-negligible complications (membrane mobility, infection, exposure, migration, apical resorption) and low overall evidence quality, so routine use should be deferred until high-quality RCTs accumulate.
+## Three-line Summary
 
-## 한줄요약
-SR+MA: socket shield technique (SST) — 즉시식립 시 협측 root membrane 일부 잔존 → 협측 골 흡수 방지 시도; 임상 case report·RCT 포함; 합병증 (membrane mobility/infection/exposure/migration, apical resorption) 보고; 장기 high-quality 근거 부족.
+SR+MA (Lin et al., JPR 2022) of the socket-shield technique (SST) — retaining a buccal root fragment at immediate placement to prevent buccal bone resorption — pooling case series, case reports, and limited RCTs identified from PubMed/ScienceDirect searches.
+
+SST shows a buccal-bone-width preservation trend, but non-negligible complications including membrane mobility, infection, exposure, migration, and apical resorption were reported alongside low overall evidence quality.
+
+Routine use should be deferred until high-quality RCTs accumulate; strict case selection and operator experience are prerequisites for current adoption.
+
+## 세줄요약
+
+SR+MA(Lin 등, JPR 2022): 즉시식립 시 협측 치근편 보존으로 협측 골 흡수를 방지하는 소켓실드(SST)를 케이스 시리즈·케이스 보고·제한적 RCT를 포함해 메타분석.
+
+SST에서 협측 골폭 보존 경향이 나타났으나 막 이동·감염·노출·이주·근단 흡수 등 무시할 수 없는 합병증이 보고되고 전체 근거 질이 낮음.
+
+고질의 RCT가 축적되기 전까지 routine 적용은 보류하며 현재 도입 시 엄격한 증례 선택과 술자 경험이 필수.
 
 ## Summary
 Hurzeler 2010 proof-of-concept 이후 socket shield technique (SST)의 임상 결과·합병증을 종합 분석한 SR+MA. 즉시식립 시 BBW 평균 <1 mm, 그 50%는 <0.5 mm로 흡수 위험이 높아 SST가 제안되었지만, 임상 근거의 질은 낮음.

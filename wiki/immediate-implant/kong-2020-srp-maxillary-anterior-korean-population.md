@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective CBCT study (Korean population, n=120) reporting Kan sagittal root position (SRP) prevalence of Class I 81.1%, II 10.3%, III 1.9%, IV 6.7%, with substantial sagittal angulation (>42.7% of canines ≥20°) that poses trajectory risk during immediate implant placement.
+## Three-line Summary
 
-## 한줄요약
-한국인 CBCT 후향 분석(n=120): SRP Class I 81.1%, II 10.3%, III 1.9%, IV 6.7% — 다수가 협측 cortex에 근접, 일부는 angulation ≥30°로 immediate implant 시 trajectory 위험. 한국인 데이터.
+Retrospective CBCT study of 120 Korean patients (60 male, 60 female) reporting Kan sagittal root position (SRP) prevalence: Class I 81.1%, II 10.3%, III 1.9%, IV 6.7%.
+
+Class I had the largest mean sagittal angulation (16.19°) and over 42.7% of canines showed angulation ≥20°, posing trajectory deviation risk during immediate implant placement.
+
+This Korean-population reference dataset confirms the dominance of Class I SRP and provides clinically applicable angulation norms for anterior esthetic-zone immediate implant planning.
+
+## 세줄요약
+
+한국인 120명 CBCT 후향 분석: SRP Class I 81.1%, II 10.3%, III 1.9%, IV 6.7%로 Class I이 압도적으로 흔하였다.
+
+Class I의 평균 치축 경사가 가장 컸고(16.19°), 견치의 42.7% 이상에서 경사각 ≥20°로 즉시 식립 시 궤적 이탈 위험이 있었다.
+
+한국인 대상 특이적 SRP·경사각 참고치를 제시하여 전치부 즉시 식립 술전 계획에 직접 활용 가능하다.
 
 ## Summary
 Retrospective CBCT study of 120 Korean patients reporting prevalence of Kan-class SRP and sagittal angulation of maxillary anterior teeth.

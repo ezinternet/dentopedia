@@ -18,13 +18,21 @@ relations:
 tags: [hsv, gingivostomatitis, antiviral, pediatric, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 studies, 364 patients, mean age 7.6 y) of primary herpetic gingivostomatitis: only weak evidence that early aciclovir improves healing and shortens symptoms; no consensus regimen exists.
+Systematic review (5 studies, 364 immunocompetent patients, mean age 7.6 y) on supportive care and antiviral treatment for primary herpetic gingivostomatitis (PHGS) in children.
 
-## 한줄요약
+Only 1 of 5 studies provided weak evidence that aciclovir shortens oral-lesion healing and reduces symptom duration; no standard regimen could be defined across the literature.
 
-1차 헤르페스 치은구내염 체계적 문헌고찰(5편, 364명, 평균 7.6세): 조기 아시클로버의 약한 근거만 있고 합의된 치료법 부재.
+Diagnostic delay of ~72 h is the key barrier to antiviral efficacy; most clinical protocols rely on empiric symptomatic care (analgesics, chlorhexidine, topical anesthetics) and large RCTs are needed.
+
+## 세줄요약
+
+체계적 문헌고찰 (5편, 364명, 평균 7.6세) — 소아 1차 헤르페스 치은구내염(PHGS)의 항바이러스·대증치료 근거 합성.
+
+아시클로버가 병변 치유와 증상 기간을 단축한다는 약한 근거(1편)만 존재; 표준 치료 프로토콜 없음; 진단 지연(~72시간)이 항바이러스 효과의 주요 장벽.
+
+대부분의 임상 프로토콜은 경험적 대증치료(진통제·클로르헥시딘·국소마취)이며 항바이러스제의 이익을 확립할 대규모 RCT가 필요함.
 
 ## Summary
 

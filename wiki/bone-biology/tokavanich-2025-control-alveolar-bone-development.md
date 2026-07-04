@@ -13,11 +13,21 @@ source_collection: external
 tags: [animal-study, mouse, SIK, PTH-PTHrP, alveolar-bone, socket-healing, scRNA-seq]
 ---
 
-## One-line Summary
-J Bone Miner Res mouse study showing conditional deletion of SIK2/SIK3 — kinases downstream of PTH/PTHrP signaling — impairs alveolar bone osteoblast maturation, BV/TV, and post-extraction socket healing, suggesting SIK inhibitors as candidate pharmacological adjuncts for alveolar bone regeneration.
+## Three-line Summary
 
-## 한줄요약
-J Bone Miner Res 마우스 연구 — PTH/PTHrP 신호 하류 kinase인 SIK2/SIK3을 조건 결손시키면 치조골 osteoblast 성숙·BV/TV·발치와 치유가 모두 저하; SIK 억제제가 치조골 재생의 새 표적이 될 가능성을 제시.
+Mouse in vivo study (J Bone Miner Res 2025, Wein lab/MGH-Harvard) using Ubiquitin-CreERt2-driven conditional deletion of SIK2/SIK3 — PTH/PTHrP-downstream kinases — in the first application of the PTH–SIK axis specifically to alveolar bone biology; scRNA-seq additionally compared P21 femur and P25 alveolar bone osteoblast clusters.
+
+Conditional SIK2/SIK3 deletion caused impaired alveolar osteoblast maturation, reduced BV/TV on microCT, and delayed post-extraction socket healing (3–4 weeks after bilateral maxillary first-molar extraction); tooth phenotype was normal, confirming a cell-intrinsic alveolar bone effect; scRNA-seq revealed alveolar and long-bone osteoblast clusters are distinct.
+
+Clinically, SIK inhibitors (e.g. YKL-05-099) or intermittent PTH derivatives are nominated as candidate pharmacological adjuncts for alveolar ridge preservation and implant socket healing, though all evidence is mouse-level, the Cre is systemic (confounding by mild hypercalcemia), and long-term (>4-week) outcomes were not assessed.
+
+## 세줄요약
+
+마우스 in vivo 연구(J Bone Miner Res 2025, MGH-하버드) — PTH/PTHrP 하류 kinase인 SIK2/SIK3을 전신 조건부 결손(Ubiquitin-CreERt2)시켜 처음으로 PTH–SIK 축을 치조골 맥락에 적용했으며, scRNA-seq으로 P21 대퇴골과 P25 치조골 조골세포(osteoblast) 클러스터를 비교했다.
+
+SIK2/SIK3 결손 시 치조골 조골세포 성숙 저하, BV/TV 감소, 발치 후 소켓 치유 지연(양측 상악 제1대구치 발치 3–4주)이 확인됐으며, 치아 표현형은 정상으로 치조골 특이 효과를 시사; scRNA-seq에서 치조골과 장골의 조골세포 클러스터가 구별되는 마커를 발현했다.
+
+SIK 억제제 또는 간헐적 PTH 유도체가 치조제 보존술(Alveolar Ridge Preservation, ARP) 및 임플란트 소켓 치유 가속의 약리 보조 후보로 제안되나 마우스 단계이며, 전신 Cre 사용으로 전신 confounding(경도 고칼슘혈증), 4주 초과 장기 결과 미평가, SIK 억제제의 치조골 약리학 미검증이라는 한계가 있다.
 
 ## Summary
 Wein lab(MGH/Harvard)이 long bone에서 정립한 PTH–SIK 축을 처음으로 치조골 맥락에 적용한 in vivo 연구. Ubiquitin-CreERt2로 SIK2/SIK3을 조건 결손한 마우스에서 (1) 치조골 발달 결함, (2) 상악 제1대구치 발치 후 socket healing 지연, (3) microCT로 BV/TV 감소가 모두 확인됨. scRNA-seq로 P21 femur와 P25 alveolar bone의 osteoblast cluster를 비교, 두 부위가 동일하지 않은 osteoblast 아형으로 구성됨을 보임. 임상 의미는 직접적이지 않으나, **SIK 억제제(YKL-05-099 등) 또는 PTH 유도체가 ARP/socket 치유의 약리적 보조요법 후보**가 될 수 있다는 preclinical rationale 제공.

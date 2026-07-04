@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=120 implants, 53 patients, 2 years) finding tissue-level implants with convergent neck had 0.31 mm MBL vs 0.97 mm for bone-level implants (p<0.001), independent of prosthesis type or arch location.
+Retrospective comparative study (n=120 implants, 53 patients, 2-year follow-up; 4 groups of 30: TL/BL × single crown/FPP) comparing marginal bone loss (MBL) between tissue-level (TL) implants with a convergent transmucosal neck and bone-level (BL) implants in posterior zones.
 
-## 한줄요약
+TL implants showed significantly lower MBL than BL implants (0.31 ± 0.48 mm vs 0.97 ± 0.91 mm; p<0.001); prosthesis type (crown vs 3-unit FPP) and arch location (maxilla vs mandible) did not significantly affect MBL.
 
-53명 환자 120개 임플란트 2년 후향적 연구에서 수렴형 경부 조직수준 임플란트(MBL 0.31 ± 0.48 mm)가 골수준 임플란트(MBL 0.97 ± 0.91 mm)보다 변연골 소실이 유의하게 적었으며(p<0.001), 보철 유형 및 악골 위치의 영향은 없었다.
+The convergent TL neck displaces the microgap supragingivally and provides more coronal space for peri-implant collagen fibers (BOPT philosophy), suggesting this design protects crestal bone — though the ~3-fold MBL advantage requires longer follow-up and RCT confirmation.
+
+## 세줄요약
+
+후향적 비교 연구 (120개 임플란트, 53명, 2년; TL/BL × 단관/3유닛 FPP 각 30개씩) — 수렴형 경부 조직수준(TL) vs 골수준(BL) 임플란트 변연골소실(MBL) 비교.
+
+TL이 BL 대비 MBL 유의하게 낮음 (0.31 ± 0.48 mm vs 0.97 ± 0.91 mm; p<0.001); 보철 유형(단관 vs 3유닛)·악골 위치(상·하악)는 MBL에 유의한 영향 없음.
+
+수렴형 TL 경부는 마이크로갭을 치은 상방으로 이동시키고 치주인대 공간을 확보해 골을 보호 — 약 3배 MBL 차이는 임상적으로 의미 있으나 장기·RCT 확인 필요.
 
 ## Summary
 

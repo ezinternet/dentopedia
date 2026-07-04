@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Updated AHRQ systematic review (96 good/fair-quality studies, 111 articles) finding low health literacy consistently associated with more hospitalizations, greater emergency-care use, lower preventive-screening uptake, poorer medication and label comprehension, and worse health status and higher mortality in the elderly — with no evidence found on oral health literacy.
+Updated AHRQ systematic review (96 good/fair-quality studies, 111 articles; MEDLINE/CINAHL/PsycINFO/ERIC/Cochrane) comparing outcomes by directly measured health literacy across all age groups — finding low health literacy consistently associated with more hospitalizations, greater emergency-care use, lower preventive-screening uptake, poorer medication and label comprehension, and worse health status and higher mortality in the elderly.
 
-## 한줄요약
+Poor health literacy also partially explained racial disparities in some outcomes, while numeracy evidence remained limited and inconsistent across the smaller subset of studies that measured it.
 
-AHRQ 업데이트 체계적 문헌고찰(양호/중간 질 96편, 논문 111편): 낮은 건강 문해력 (Health Literacy)은 입원 증가, 응급실 이용 증가, 예방검진 수진율 저하, 약 복용·라벨 해석 능력 저하, 노인의 건강상태 악화·사망률 증가와 일관되게 연관되며, 구강 건강 문해력 (Oral Health Literacy) 결과 근거는 없었다.
+A direct dentistry gap: no evidence on oral health literacy and patient outcomes was found as of 2011, leaving the dental analogue of this foundational evidence base unestablished.
+
+## 세줄요약
+
+AHRQ 업데이트 체계적 문헌고찰(양호/중간 질 96편, 논문 111편): 직접 측정한 건강 문해력(Health Literacy)을 기준으로 비교한 결과, 낮은 건강 문해력은 입원 증가·응급실 이용 증가·예방검진 수진율 저하·약 복용 및 라벨 이해 능력 저하, 노인의 건강상태 악화·사망률 증가와 일관되게 연관된다.
+
+낮은 건강 문해력은 일부 결과에서 인종적 건강 격차를 부분 설명했으며, 수리 능력(Numeracy) 근거는 연구 수가 적고 불일치해 제한적이었다.
+
+치과 관련 공백: 구강 건강 문해력(Oral Health Literacy)과 임상 결과의 연관성 근거는 2011년 기준으로 전무하며, 치과 환자교육 및 소통 개입의 근거 기반이 미확립 상태다.
 
 ## Summary
 

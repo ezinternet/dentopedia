@@ -16,13 +16,21 @@ relations:
     target: ordinola-zapata-2022-intracanal-medicaments-status-directions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (9 studies qualitative, 7 meta-analyzed): calcium hydroxide intracanal medication significantly reduced root-canal LPS before and after chemomechanical preparation (SMD ≈ −0.9 to −1.1, p<0.001) but did not eliminate endotoxin completely; certainty of evidence very low.
+SR+MA (9 studies qualitative, 7 meta-analyzed) of Ca(OH)₂ intracanal medication for LPS reduction in infected root canals (searches to June 2020).
 
-## 한줄요약
+Ca(OH)₂ significantly reduced LPS before chemomechanical preparation (SMD = −1.087, p<0.001, I²=58.7%) and after (SMD = −0.919, p<0.001, I²=24.7%); adding an antimicrobial substance raised the LPS-reduction incidence (98.9% vs 61.7%).
 
-체계적 문헌고찰+메타분석(정성 9편, 메타 7편): 수산화칼슘 근관내 첩약은 화학기계적 형성 전후 LPS를 유의하게 감소(SMD 약 −0.9~−1.1, p<0.001)시켰으나 완전 제거하지는 못했으며 근거 확실성은 매우 낮음.
+Ca(OH)₂ does not eliminate endotoxin; certainty of evidence is very low; combining Ca(OH)₂ with an antimicrobial improves efficacy but residual LPS persists.
+
+## 세줄요약
+
+감염 근관의 LPS (Lipopolysaccharide, 내독소) 감소에 대한 Ca(OH)₂ 근관 내 첩약 SR+MA (정성 9편·정량 7편, 자료 2020년 6월까지).
+
+화학기계적 형성 전 SMD = −1.087 (p<0.001, I²=58.7%), 형성 후 SMD = −0.919 (p<0.001, I²=24.7%); 항균제 병용 시 LPS 감소 발생률 98.9% vs Ca(OH)₂ 단독 61.7%.
+
+Ca(OH)₂로 내독소 완전 제거 불가; 근거 확실성 매우 낮음; 항균제 병용이 효과를 높이나 잔존 LPS는 여전히 지속.
 
 ## Summary
 

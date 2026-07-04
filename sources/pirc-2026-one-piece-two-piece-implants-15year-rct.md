@@ -17,13 +17,23 @@ text_filename: pirc-2026-one-piece-two-piece-implants-15year-rct.txt
 
 Provides rare 15–17-year RCT follow-up data comparing one-piece (Straumann SLA transmucosal) vs two-piece (Brånemark TiUnite) implants — the longest comparative RCT data currently available for this design question. Extends and contextualizes [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] (1–5y SR+MA showing TL vs BL comparable outcomes) with an ultra-long-term perspective revealing diverging technical complication profiles.
 
-## One-line Summary
+## Three-line Summary
 
-RCT 15–17-year follow-up (n=60 patients, 151 implants; Zurich) comparing one-piece (STM, Straumann SLA) vs two-piece (BRA, Brånemark TiUnite) implants: overall survival 95%, one-piece superior marginal bone preservation (0.08 mm vs 1.53 mm MBL) but 6× higher technical complication rate (35.4% vs 5.8% implant-level).
 
-## 한줄요약
+RCT 15–17-year follow-up (n=60 patients, 151 implants;
 
-RCT 15–17년 추적(60명, 151개 임플란트): 1조각 임플란트(STM) 변연골 소실 (Marginal Bone Loss, MBL) 우수(0.08 mm vs 1.53 mm)하나 기술적 합병증(Technical Complication) 발생률 6배 높음(35.4% vs 5.8%); 전체 생존율 (Implant Survival Rate, ISR) 95%.
+Zurich) comparing one-piece (STM, Straumann SLA) vs two-piece (BRA, Brånemark TiUnite) implants: overall survival 95%, one-piece superior marginal bone preservation (0.08 mm vs 1.53 mm MBL) but 6× higher technical complication rate (35.4% vs 5.8% implant-level).
+
+(incomplete)
+
+## 세줄요약
+
+
+RCT 15–17년 추적(60명, 151개 임플란트): 1조각 임플란트(STM) 변연골 소실 (Marginal Bone Loss, MBL) 우수(0.08 mm vs 1.53 mm)하나 기술적 합병증(Technical Complication) 발생률 6배 높음(35.4% vs 5.8%);
+
+전체 생존율 (Implant Survival Rate, ISR) 95%.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ relations:
     target: kim-2024-real-ghost-pseudo-ghost-images-panoramic
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pictorial essay (dry skull + clinical case) demonstrating panoramic ghost-image formation from metal objects in the head/neck to prevent misdiagnosis.
+Pictorial essay using a dry skull with metal objects placed in the head and neck region plus a reported clinical case to demonstrate and explain ghost-image formation on panoramic radiographs.
 
-## 한줄요약
+Ghost images form when a radiopaque object located between the X-ray source and the center of rotation projects a contralateral, superiorly displaced, magnified, and blurred artifact — a geometric consequence of panoramic rotational acquisition.
 
-파노라마 허상(ghost image) 형성을 두개골+임상증례로 보여주는 화보형 논문. 두경부 금속에 의한 허상 오진 방지가 목적.
+The pictorial atlas directly links metal-object location to ghost-image appearance, providing a chairside reference to prevent incorrect radiographic diagnosis of artifacts as pathology.
+
+## 세줄요약
+
+두개골 건조 표본에 두경부 금속물체를 위치시키고 임상증례를 추가해 파노라마 방사선 사진에서 허상(Ghost Image) 형성을 시연하고 설명한 화보형 논문.
+
+허상은 X선 선원과 회전중심(Center of Rotation) 사이에 위치한 방사선 불투과성 물체가 반대측에 상방 변위·확대·흐릿한 상을 투영하는 파노라마 회전 촬영의 기하학적 결과물.
+
+금속물체 위치별로 허상 형상을 대응시킨 참고 자료로, 진료실에서 허상과 병소를 구별해 오진을 방지하는 데 활용.
 
 ## Summary
 

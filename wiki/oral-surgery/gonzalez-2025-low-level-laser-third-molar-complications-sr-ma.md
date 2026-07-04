@@ -13,12 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis (JADA 2025) of RCTs: low-level diode laser therapy (LLLT/photobiomodulation, 800–940 nm most effective) significantly reduces postoperative pain, facial edema, and trismus after mandibular third molar extraction (moderate-to-large effect size), with no adverse events reported.
+Systematic review and meta-analysis (JADA 2025) of RCTs comparing low-level diode laser therapy (LLLT/photobiomodulation) versus placebo/sham for postoperative complications after mandibular third molar surgical extraction.
 
-## 한줄요약
-체계적 문헌고찰 및 메타분석(JADA 2025): 저출력 다이오드 레이저(LLLT)는 하악 제3대구치 발치 후 통증, 부종, 개구제한을 대조군 대비 유의하게 감소시키며, 중등도 이상의 효과 크기를 보임.
+LLLT significantly reduced postoperative pain (VAS at 24h, 48h, 72h), facial edema (at 48–72h and 7 days), and trismus (mouth opening), with moderate-to-large effect sizes; no adverse events reported; 800–940 nm wavelength showed best outcomes in subgroup analysis.
+
+LLLT is a safe and effective adjunct for molar surgery morbidity, applicable intraorally, extraorally, or combined — though high heterogeneity in laser parameters currently prevents precise protocol specification.
+
+## 세줄요약
+
+SR+MA(JADA 2025): 하악 제3대구치 외과적 발치 후 저출력 다이오드 레이저(LLLT/광생물조절, photobiomodulation) 대 위약/모의 레이저 비교 RCT 분석.
+
+LLLT가 술후 통증(24·48·72시간 VAS), 안면 부종(48–72시간·7일), 개구장애를 유의하게 감소; 효과 크기 중등도~대; 800–940 nm 파장이 가장 효과적; 부작용 없음.
+
+LLLT는 안전하고 효과적인 구강외과 보조요법으로 구내·구외·병용 적용 모두 유효 — 다만 레이저 파라미터 이질성이 높아 세부 프로토콜 확정은 추가 연구 필요.
 
 ## Summary
 This systematic review and meta-analysis (JADA 2025;156(3):211-224.E11) evaluates the clinical effectiveness of low-level diode laser therapy (LLLT) as an adjunct to reduce pain, edema, and trismus following mandibular third molar surgical extraction. LLLT (photobiomodulation, PBM) uses low-power light (630–1000 nm wavelength) to stimulate cellular metabolism via cytochrome c oxidase, increasing ATP production, reducing inflammatory mediators, and promoting healing — without thermal effects. Diode lasers (typically 800–940 nm) are the most widely used clinical LLLT devices.

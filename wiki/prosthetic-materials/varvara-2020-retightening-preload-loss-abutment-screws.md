@@ -16,13 +16,21 @@ relations:
     target: sun-2026-abutment-contamination-internal-hex-preload
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=80, internal vs external hexagon, 35 Ncm): retightening at 2 minutes post-initial torque minimized preload loss significantly better than 5-minute, 10-minute, or no-retightening controls.
+In vitro study (n=80; 40 internal hexagon + 40 external hexagon; 35 Ncm; n=10 per retightening interval: control/2 min/5 min/10 min; detorque at 30 min) comparing the effect of retightening timing on preload loss.
 
-## 한줄요약
+Retightening at 2 minutes post-initial torque produced the lowest preload loss for both connection types (p<0.05 vs control); internal hexagon consistently retained more preload than external hexagon; the previously recommended 10-minute retightening was suboptimal — additional settling occurred during that interval.
 
-체외 연구(내·외부 육각 각 40개, 35 Ncm): 초기 조임 후 2분 재조임이 전조임 소실을 가장 효과적으로 감소시켰으며, 5분·10분·비재조임 대비 유의한 차이(P<0.05).
+The optimal retightening window is 2 minutes after initial torque placement, contradicting prior guidance of 10 minutes; internal hexagon connections are mechanically superior for preload retention.
+
+## 세줄요약
+
+체외 연구(n=80; 내부 육각형(Internal Hexagon, IG) 40개·외부 육각형(External Hexagon, EG) 40개; 35 Ncm; 재조임 간격별 n=10: 대조군/2분/5분/10분; 30분 후 제거 토크 측정).
+
+초기 조임 후 2분 재조임이 양쪽 연결부에서 예압(preload) 소실을 가장 효과적으로 최소화(p<0.05 vs 대조군); 내부 육각형이 외부 육각형보다 예압 유지 우수; 기존 권장 10분 재조임은 그 사이 추가 안착(settling)이 발생하여 차선.
+
+최적 재조임 시점은 초기 조임 후 2분으로, 기존 10분 권장을 번복; 내부 육각형 연결이 예압 유지 측면에서 기계적으로 우월.
 
 ## Summary
 

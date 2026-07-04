@@ -13,13 +13,21 @@ source_collection: external
 tags: [isq, rfa, implant-stability, diameter, position, osseointegration, osstem, early-loading]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective RFA study (90 Osstem implants, 72 patients) demonstrating that wider diameter (5 mm > 4 mm) and mandibular placement significantly increase ISQ, while implant length (10–13 mm) has no significant effect; all groups showed ISQ increase from surgery to impression taking.
+Retrospective RFA study (90 Osstem US II plus implants, 72 patients, 6 subgroups) measuring ISQ at placement (T1) and before impression taking (T2) to assess diameter, length, and position effects.
 
-## 한줄요약
+Wider diameter (ø5 mm vs ø4 mm) significantly increased ISQ at both time points (surgery: 79.26 vs 74.33; impression: 82.33 vs 77.43, P<.05); mandibular sites showed ~5 ISQ units higher than maxillary sites; implant length (10–13 mm) had no significant effect.
 
-Osstem 임플란트 90개 후향적 RFA 연구: 직경 5 mm가 4 mm보다, 하악이 상악보다 ISQ 유의하게 높음; 길이(10–13 mm)는 ISQ에 유의한 영향 없음; 전 군에서 식립 후 인상채득 시 ISQ 증가.
+All subgroups achieved ISQ ≥65 at placement (enabling early loading 8–12 weeks), confirming diameter and jaw position — not length — are primary ISQ determinants in the 10–13 mm range.
+
+## 세줄요약
+
+후향적 RFA 연구(Osstem US II plus 임플란트 90개, 환자 72명, 6군): 식립 시(T1)와 인상채득 전(T2) 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 측정으로 직경·길이·위치의 영향을 분석.
+
+직경 5 mm가 4 mm보다 유의하게 높은 ISQ(식립 시 79.26 vs 74.33; 인상 시 82.33 vs 77.43, P<.05); 하악이 상악보다 ISQ 약 5단위 높음(P<.05); 길이 10–13 mm 범위에서는 유의한 차이 없음.
+
+전 군에서 식립 시 ISQ ≥65 달성(하악 ~8주, 상악 ~12주 조기부하 가능); 10–13 mm 범위에서는 길이보다 직경과 악궁 위치가 주요 ISQ 결정인자임을 확인.
 
 ## Summary
 

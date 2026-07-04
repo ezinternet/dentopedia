@@ -13,11 +13,19 @@ source_collection: external
 tags: [proximal-contact-loss, food-impaction, implant-prosthesis, prospective]
 ---
 
-## One-line Summary
-3-month prospective study (43 patients, 43 posterior IFPs, 64 proximal contacts): proximal contact tightness decreased significantly by 3 months; restoration type affected mesial (free-end, P=0.008) and distal (P<0.001) loss, while implant system affected only the distal aspect (P=0.002).
+## Three-line Summary
+3-month prospective study (43 patients, 43 posterior implant-fixed prostheses [IFPs], 64 proximal contacts) measuring contact tightness with a calibrated 0.05 mm metal strip at insertion (T0), 1 month (T1), and 3 months (T2).
 
-## 한줄요약
-3개월 전향연구(43명, 구치부 IFP 43개): 3개월 내 접촉 강도 유의 감소; restoration type이 mesial·distal에, implant system이 distal에 영향.
+Proximal contact tightness decreased significantly from T0 to T2; restoration type significantly influenced mesial loss in free-end restorations (P=0.008) and distal loss (P<0.001), while implant system significantly affected only distal contacts (P=0.002).
+
+Interproximal contact loss is measurable within the first 3 months of function, supporting early post-delivery surveillance and highlighting free-end restorations as a higher-risk configuration.
+
+## 세줄요약
+3개월 전향연구(43명·구치부 IFP 43개·64 proximal contact): 장착 직후(T0)·1개월(T1)·3개월(T2)에 0.05 mm metal strip으로 접촉 강도 측정.
+
+T0→T2 접촉 강도 유의 감소; restoration type이 free-end의 mesial 소실(P=0.008)과 distal 소실(P<0.001)에 영향; implant system은 distal contact에만 영향(P=0.002).
+
+접촉 소실은 기능 3개월 이내부터 측정 가능 — 조기 모니터링 지지, free-end 보철물을 고위험 구성으로 인식해야 함.
 
 ## Summary
 This prospective clinical study evaluated early proximal contact alterations between posterior implant-fixed prostheses (IFPs) and adjacent teeth. Forty-three patients (aged 31–70) with 43 posterior IFPs and 64 proximal contacts were assessed at insertion (T0), 1 month (T1), and 3 months (T2). Proximal contact tightness (PCT) was measured by the removal resistance of a calibrated 0.05 mm metal strip, supplemented by floss checks. PCT decreased significantly from T0 to T2, demonstrating that interproximal contact loss begins within the first months of function. Restoration type significantly affected loss at both the mesial (free-end restorations, P=0.008) and distal (P<0.001) aspects, whereas implant system affected only the distal contacts (P=0.002). The study provides the early-timepoint anchor for the category and supports monitoring contacts soon after delivery.

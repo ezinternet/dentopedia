@@ -9,7 +9,7 @@ pdf_filename: ijoms-2023-arthrocentesis-conservative-tmd-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of 7 RCTs (448 patients) comparing arthrocentesis vs. conservative management for painful TMD; arthrocentesis significantly improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
 
 ## 1. Document Information

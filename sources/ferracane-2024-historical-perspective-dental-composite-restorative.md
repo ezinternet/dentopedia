@@ -17,13 +17,23 @@ text_filename: ferracane-2024-historical-perspective-dental-composite-restorativ
 
 위키에 복합레진의 개별 속성 페이지(중합수축 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]], bulk-fill [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]], bioactive [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]], amalgam 대비 [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]])은 많지만, 이 모든 조각을 하나의 **연대기적 발달사**로 꿰는 앵커 페이지가 없었다. 사용자 요청("치과충전재료 발달사, 아말감부터")에 맞춰 Ferracane(치과재료학 권위자)의 단독저자 historical perspective를 ingest — 실리케이트·PMMA → Bowen의 Bis-GMA(1962) → 광중합(UV→가시광 CQ→LED) → 모노머·필러 진화 → bulk-fill → bioactive/self-healing 미래까지의 타임라인 근거로 삼는다. 후속 overview("치과 직접충전재 발달사") 작성 시 warm-start 자료.
 
-## One-line Summary
+## Three-line Summary
+
 
 Single-author historical-perspective review (Ferracane, J Funct Biomater 2024) tracing dental resin-based composite (RBC) evolution — from 1950s silicate/PMMA acrylics through Bowen's 1962 Bis-GMA and Buonocore's acid-etch, to the transitions chemical→UV→visible/CQ→LED light-curing, low-shrinkage monomer and nano/hybrid filler refinements, bulk-fill (4–5 mm) composites, and the emerging "bioactive"/self-healing frontier — with amalgam framed as the posterior material composites gradually displaced.
 
-## 한줄요약
+(incomplete)
 
-Ferracane 단독저자 발달사 리뷰(J Funct Biomater 2024): 복합레진(Resin-Based Composite, RBC)의 진화를 1950년대 실리케이트·PMMA → Bowen의 Bis-GMA(1962)·Buonocore 산부식 → 화학중합→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill(4–5 mm) → bioactive·self-healing 미래로 연대기화. 아말감은 복합레진이 점차 대체해 온 구치부 재료로 위치.
+(incomplete)
+
+## 세줄요약
+
+
+Ferracane 단독저자 발달사 리뷰(J Funct Biomater 2024): 복합레진(Resin-Based Composite, RBC)의 진화를 1950년대 실리케이트·PMMA → Bowen의 Bis-GMA(1962)·Buonocore 산부식 → 화학중합→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill(4–5 mm) → bioactive·self-healing 미래로 연대기화.
+
+아말감은 복합레진이 점차 대체해 온 구치부 재료로 위치.
+
+(incomplete)
 
 ## 1. Document Information
 

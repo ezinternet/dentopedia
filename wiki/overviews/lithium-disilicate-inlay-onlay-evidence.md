@@ -27,13 +27,23 @@ tags: [inlay, onlay, partial-coverage, lithium-disilicate, e-max, cad-cam, 3d-pr
 > - IRFPD: 지르코니아 IRFPD는 672N으로 전통 FDP 동등, 지르코니아강화 리튬실리케이트는 391N으로 유의하게 약함 → 후자 권장 안 함(Kermanshah 2020, in-vitro 한정).
 > - 확신도: 축1 [근거강함](다수 후향 ≥7년+SR+MA), 축2 단기 [근거강함]/장기 [합의수준], 축3 [합의수준], 축4 [미검증].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/decision-ladder over 13 posterior partial-coverage restoration papers (inlay/onlay/overlay) across 4 axes — long-term survival, head-to-head material comparison, cavity/design, and manufacturing. Core thesis: lithium disilicate (e.max) is first-line with ≥95% 10-year survival (Malament 2021, n=551), CAD/CAM indirect resin composite matches ceramic at 5 years but diverges sharply by 7+ years (96.8% vs 84.9%), and partial coverage equals or outperforms full crowns on survival while conserving tooth structure — so "if this much is removed, just do a full crown" is a misjudgment; cusp-covering overlay > box inlay for fracture strength, with immediate dentin sealing recommended.
 
-## 한줄요약
+Decision-ladder synthesis of 13 posterior partial-coverage restoration papers (inlay/onlay/overlay) across 4 axes: lithium disilicate (e.max) is first-line with ≥95.6% 10-year survival (Malament 2021, n=551; inlay 93.9% / onlay 98.3%) and outperforms CAD/CAM indirect resin composite long-term — resin matches ceramic at 5 years but diverges sharply by 7.8 years (LiDiSi 96.8% vs resin 84.9%, 5× annual failure rate; Lempel 2023).
 
-후방부 부분피개 수복(인레이·온레이·overlay) 13편 종합. 리튬디실리케이트(Lithium Disilicate, e.max)가 10년 95% 이상 생존으로 1선; CAD/CAM 간접레진은 5–7년에 격차 벌어지며 장기적 열위. 풀크라운보다 부분피개가 치질보존·예후 모두 우위 시사.
+Partial coverage equals or outperforms full crowns on survival and complication rates while conserving tooth structure (Wang 2022 SR+MA, Prott 2025 scoping) — "if this much tooth is removed, just crown it" is a clinical misjudgment; overlay (cusp coverage) is stronger than box inlay in fracture resistance, and immediate dentin sealing (IDS) is recommended before final cementation (Hofsteenge 2023 in-vitro + FEA, n=64).
+
+Short-term RCTs (1–2 years) show no material difference between e.max and nanoceramic/hybrid composite (Hassan 2024, Souza 2021 split-mouth RCTs) — never downgrade to indirect resin composite based on short-term equivalence alone, as the 7-year divergence confirms the long-term inferiority; 3D-printed inlay marginal fit is within clinical tolerance in vitro (Lim 2023), pending clinical validation.
+
+## 세줄요약
+
+
+후방부 부분피개 수복(인레이·온레이·overlay) 13편 종합.
+
+리튬디실리케이트(Lithium Disilicate, e.max)가 10년 95% 이상 생존으로 1선;
+
+CAD/CAM 간접레진은 5–7년에 격차 벌어지며 장기적 열위. 풀크라운보다 부분피개가 치질보존·예후 모두 우위 시사.
 
 ## Summary
 

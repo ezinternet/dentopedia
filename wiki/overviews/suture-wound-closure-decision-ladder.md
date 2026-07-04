@@ -27,13 +27,21 @@ source: synthesis
 > - 한국 임상 메모: ① 단순 발치 봉합 강박 줄여도 안전(환자 안심·출혈 관리 목적 봉합은 별개), ② GBR은 촘촘한 봉합보다 골막이완절개로 장력 자체를 0으로 만드는 것이 우선, ③ cyanoacrylate는 국내 허가범위 확인 후 보조 사용(1차 폐쇄 대체 아님).
 > - 근거 한계: 이 카테고리에 SR+MA 부재(최강 근거 = SR 1편 plonka + RCT 7편). 고장력 술식 RCT 빈약(CALF n=14 단일), in-vitro→임상 외삽 갭, "무장력" 정량 도구 미정립.
 
-## One-line Summary
+## Three-line Summary
 
-Across 7 RCTs, 1 SR, 4 in-vitro and 3 clinical case series (n=15 papers), wound-closure decisions split by a single upstream variable — **wound tension**: in low-tension extraction sockets the technique is outcome-agnostic and "less is more" (sutureless trends to less early morbidity, periodontal healing unaffected), whereas in high-tension augmentation/GBR sites the closure *is* the result (coronally advanced lingual flap cut mesh exposure 83.3%→0%, periosteal releasing incision adds +5.5 mm advancement, exposure reduces bone gain ~6×).
+Synthesis of 15 papers (7 RCTs, 1 SR, 2 prospective, 1 case series, 4 in-vitro) on suture and wound-closure decisions stratified by a single upstream variable — wound tension — which bifurcates into two clinical contexts with opposite optimization goals.
 
-## 한줄요약
+In low-tension extraction sockets, technique is outcome-agnostic: sutureless is safe (Takadoum 2022 multicentric n=94, complete equivalence; Kumar/Sen: less trismus/swelling), smokers carry 3.65× complication risk regardless of closure method, and suture pattern matters more than suture-vs-no-suture for adjacent tooth periodontal outcomes (sling better than single interrupted, PPD p=0.041, Aghdashi 2020).
 
-봉합·창상폐쇄 결정은 **창상 장력(wound tension)** 이라는 단일 상류 변수로 갈린다 — 저장력 발치와에서는 술식이 결과에 무관하고 sutureless가 초기 morbidity만 약간 줄이지만(치주치유 차이 없음), 고장력 골증대/GBR 부위에서는 폐쇄 자체가 성패를 결정한다(설측 관상전진피판으로 mesh 노출 83.3%→0%, 골막이완절개 +5.5 mm 전진, 노출 시 골증대량 약 1/6). RCT 7편·SR 1편·in-vitro 4편 종합. [근거강함]
+In high-tension GBR/augmentation sites, closure engineering determines regenerative outcome: exposure reduces bone gain ~6-fold (Plonka 2017 SR); periosteal releasing incision adds +5.5 mm of advancement (vs vertical incisions +1.1–1.9 mm); coronally advanced lingual flap reduced titanium-mesh exposure from 83.3% to 0% (Attia 2023 RCT, n=14); in-vitro: pulley suture has the lowest closing-force requirement (3.46 N), cyanoacrylate + suture achieves highest contact force (8.50 N), and horizontal mattress is biomechanically inferior for primary closure.
+
+## 세줄요약
+
+15편 종합(RCT 7, SR 1, 전향적 2, 증례 1, in-vitro 4) — 봉합·창상폐쇄 결정은 단일 상류 변수인 창상 장력(wound tension)에 의해 정반대 최적화 목표를 가진 두 맥락으로 분기한다.
+
+저장력 발치와: 봉합 유무는 결과에 무관 — 무봉합(sutureless)은 안전하며 초기 이환도 동등 이상(Takadoum 2022 완전 동등, Kumar/Sen trismus·부종 감소); 흡연자는 폐쇄 방식과 무관하게 합병증 3.65배↑; 봉합 시 패턴 선택(sling > single interrupted, PPD p=0.041, Aghdashi 2020)이 봉합 유무보다 인접치 치주에 영향.
+
+고장력 GBR·골증대: 폐쇄 자체가 재생 성패를 결정 — 노출 시 골증대량 ~1/6(Plonka 2017 SR); 골막이완절개 +5.5 mm 전진 최대(수직절개 +1.1–1.9 mm 대비); 설측 관상전진피판으로 티타늄메시 노출 83.3%→0%(Attia 2023 RCT, n=14); in-vitro: pulley 봉합 폐쇄력 최소(3.46 N), cyanoacrylate+봉합 면접착 최대(8.50 N), horizontal mattress는 장력·파단 모두 열위.
 
 ---
 

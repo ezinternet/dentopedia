@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리에 비전리(non-ionizing) modality 대비축 도입. 선량 최적화 논문군(CBCT/파노라마)이 '얼마나 줄이나'를 다룬다면, 본 연구는 '전리방사선을 안 쓰는 대안'을 제시해 [[radiology/oenning-2019-halve-dose-paediatric-cone-beam-ct]]·[[radiology/lee-2021-dental-imaging-doses-web-dose-calculator]]의 소아 선량 문제에 근본 대안 제시.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective 16-child study: radiation-free 0.55 T MRI matched ULD-CT image quality for tooth axis/root/resorption/cysts but not all structures.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 소아 16명: 무피폭 0.55 T MRI가 치축·치근·치근흡수·낭종에서 초저선량 CT와 동등 화질, 단 모든 구조엔 미흡.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

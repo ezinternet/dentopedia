@@ -13,13 +13,23 @@ source_collection: external
 
 위축된 무치악 상악 즉시 로딩 전악 재건에서 경사식립(tilted) 임플란트가 축방향(axial) 임플란트 대비 생존율·변연골소실에서 불리한지에 대한 정량 근거. All-on-X·full-arch 즉시 로딩을 다룬 [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]]·[[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]]와 보철 설계 측면에서 연결된다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (11 studies survival, 7 MBL) finding no significant difference between tilted and axial implants in immediately loaded atrophic edentulous maxillae at 3 years for implant survival (RR 1.00, 95% CI 0.98–1.01) or marginal bone loss (MD −0.02 mm, 95% CI −0.09 to 0.06).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA(생존 11편·MBL 7편) — 위축 무치악 상악 즉시 로딩 재건에서 3년 시점 경사식립과 축방향 임플란트 간 생존율(RR 1.00)·변연골소실(MD −0.02 mm) 차이가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

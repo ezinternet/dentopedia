@@ -14,11 +14,21 @@ source_collection: external
 tags: [screw-retained, cement-retained, implant-crown, complications, prospective, screw-loosening, marginal-gap, peri-implantitis]
 ---
 
-## One-line Summary
-Prospective 12-month comparison (n=100; 50 screw-retained vs 50 cement-retained single implant crowns): opposing complication profiles — screw-retained have more screw loosening (18% vs 4%), cement-retained have more marginal gap (20% vs 8%) and cement washout (14% vs 2%); peri-implantitis trended higher in cement-retained but was non-significant at 12 months.
+## Three-line Summary
 
-## 한줄요약
-전향적 연구(100명, 12개월): 나사 유지형 풀림 18% > 시멘트형 4%; 변연 간격·시멘트 용해는 시멘트형 더 높음 — 합병증 프로파일이 반대 방향
+Prospective 12-month comparison (n=100; 50 screw-retained vs 50 cement-retained single implant crowns) of prosthodontic complication rates.
+
+Screw-retained had more screw loosening (18% vs 4%, p=0.032); cement-retained had more marginal gap (20% vs 8%) and cement washout (14% vs 2%), both p<0.05; peri-implantitis trended higher for cement-retained (10% vs 4%) but was non-significant.
+
+No single retention type is superior overall; choose based on which complication profile is less acceptable for each clinical scenario.
+
+## 세줄요약
+
+전향적 연구(n=100, 나사 유지형 50개 vs 시멘트 유지형 50개), 12개월 단일 임플란트 크라운 합병증 비교.
+
+나사 유지형: 스크류 풀림 18% vs 4%(p=0.032) 높음; 시멘트 유지형: 변연 간격 20% vs 8%, 시멘트 용해 14% vs 2% 높음(모두 p<0.05); 임플란트 주위염은 경향(10% vs 4%)만 있고 유의하지 않음.
+
+두 방식 모두 각각의 합병증 프로파일이 있어 일률적 우열 없음 — 어떤 합병증이 더 수용 불가능한지에 따라 유지 방식 선택.
 
 ## Summary
 Prospective 12-month comparison of single implant crowns: 50 screw-retained (SR) vs 50 cement-retained (CR). Key finding: **SR has more mechanical complications** (screw loosening 18% vs 4%); **CR has more biological/marginal complications** (marginal gap 20% vs 8%; cement washout 14% vs 2%). Peri-implantitis trended higher in CR but did not reach significance at 12 months.

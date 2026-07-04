@@ -20,13 +20,21 @@ relations:
     target: kumar-2025-nutritional-status-dry-mouth-older-adults
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review synthesizing 2013–2024 literature on polypharmacy (≥5 medications, 30–44% prevalence in older adults) causing xerostomia/hyposalivation and dysgeusia via distinct pharmacological mechanisms (anticholinergic M3-receptor blockade, β-blocker Na-K-2Cl cotransporter inhibition, thiazide carbonic-anhydrase inhibition), with a proposed interprofessional deprescribing-first management framework for dental practitioners.
+Narrative review (PubMed/Scopus/Web of Science, January 2013–March 2024) synthesizing evidence on polypharmacy (≥5 medications; global prevalence 30–44% in older adults, rising to 44.1% in those ≥65 years) and its oral health consequences in geriatric patients, covering 10 major drug classes.
 
-## 한줄요약
+Polypharmacy drives xerostomia/hyposalivation and dysgeusia through distinct class-specific mechanisms (anticholinergics: M3-receptor blockade; β-blockers: Na-K-2Cl cotransporter inhibition; thiazides: carbonic anhydrase inhibition); 38.5% xerostomia prevalence in older special-care dentistry cohorts with a dose-dependent relationship to medication count.
 
-내러티브 리뷰(2013–2024 문헌 종합) — 노인 다약제복용(polypharmacy, 5제 이상, 유병률 30~44%)이 여러 약물별 기전(항콜린제 M3수용체 차단, 베타차단제 Na-K-2Cl 공동수송체 억제, 티아지드 탄산탈수효소 억제 등)을 통해 침분비저하·구강건조증과 미각이상(dysgeusia)을 동시에 유발함을 정리하고, 치과의사 주도 탈처방(deprescribing) 우선 다학제 관리 틀을 제시.
+Management should prioritize medication review and deprescribing over prescribing systemic sialogogues (whose evidence base is restricted to post-irradiation/Sjögren's populations); dentists should trigger physician/pharmacist review as frontline detectors of oral adverse drug reactions.
+
+## 세줄요약
+
+노인에서 다약제복용(Polypharmacy, 5종 이상; 전 세계 유병률 30–44%, 65세 이상 44.1%)의 구강건강 영향을 정리한 내러티브 리뷰(PubMed/Scopus/Web of Science, 2013년 1월–2024년 3월; 10개 주요 약물군 포괄).
+
+다약제복용이 약물군별 고유 기전(항콜린제: M3 수용체 차단; 베타차단제: Na-K-2Cl 공동수송체 억제; 티아지드: 탄산탈수효소 억제 등)으로 침분비저하(Hyposalivation)·구강건조증(Xerostomia)·미각이상(Dysgeusia)을 유발; 노인 특수치과 코호트에서 구강건조증 유병률 38.5%, 처방 약물 수와 용량-반응 관계.
+
+약물 검토·감량처방(Deprescribing) 우선, 전신적 침 분비 촉진제(sialogogue) 처방은 방사선 조사·쇼그렌 증후군에 국한된 근거라 노인 다약제 환자에서 원칙적 지양; 치과의사는 구강 약물 부작용 최초 발견자로서 의사·약사 협력 검토 의뢰 역할 수행.
 
 ## Summary
 

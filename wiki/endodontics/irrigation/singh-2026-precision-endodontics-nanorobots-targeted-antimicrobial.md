@@ -13,13 +13,21 @@ source_collection: external
 tags: [endodontics, irrigation, nanotechnology, editorial, aspirational]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Editorial / narrative review (J Conserv Dent Endod 2026) proposing precision endodontics with nanorobots and engineered nanoagents (AgNPs, ZnO, chitosan, bioactive glass, PLGA carriers) for targeted disinfection of dentinal tubules and apical ramifications that conventional NaOCl/chlorhexidine irrigation cannot reach; the technology remains aspirational, with biocompatibility, cytotoxicity, long-term safety, cost, and regulatory pathway unresolved.
+Editorial/narrative review (J Conserv Dent Endod 2026) proposing precision endodontics using nanorobots and engineered nanoagents (AgNPs, ZnO, chitosan, bioactive glass, PLGA carriers) to reach dentinal tubules and apical ramifications that conventional irrigation (NaOCl/CHX) cannot access.
 
-## 한줄요약
+No empirical data are reported; the piece catalogues candidate nanoagents and distinguishes what has been demonstrated in vitro (nanoparticle antimicrobial efficacy) from what remains aspirational (controllable in vivo nanorobot steering).
 
-J Conserv Dent Endod 2026 editorial. Nanorobot/nanozyme/biodegradable nanoparticle을 통한 dentinal tubule + apical ramification 단위 targeted disinfection 비전 제시. 임상 도달 전, 안전성·biocompatibility·regulatory 미해결.
+The technology is pre-clinical — biocompatibility, cytotoxicity, long-term safety, cost, and regulatory pathway are all unresolved, making this a positioning document rather than actionable clinical guidance.
+
+## 세줄요약
+
+J Conserv Dent Endod 2026 editorial — 기존 NaOCl/CHX 세정이 도달하지 못하는 치수관 세관(Dentinal Tubule)과 치근단 복합부(Apical Ramification)에 나노로봇·나노입자(AgNPs, ZnO, 키토산, 생체활성유리, PLGA)를 이용한 정밀 근관 소독 비전 제시.
+
+In vitro 나노입자 항균 효과는 일부 확인됐으나, 실제 자기 제어형 나노로봇의 체내 조종은 아직 aspirational 단계 — 실험 데이터 없는 포지션 논문.
+
+생체적합성(Biocompatibility), 세포독성(Cytotoxicity), 장기 안전성, 비용, 규제 경로 모두 미해결 — 현재 임상 적용 불가.
 
 ## Summary
 

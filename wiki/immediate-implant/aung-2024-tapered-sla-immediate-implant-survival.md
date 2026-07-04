@@ -16,13 +16,21 @@ text_filename: aung-2024-tapered-sla-immediate-implant-survival.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-surgeon study of 49 immediately placed tapered SLA internal-submerged bone-level implants (34 patients, mean 7.43 yr follow-up): cumulative 5-yr survival 93.88% — 100% in the mandible and both premolar regions, lowest in maxillary anterior (85.38%) — with all 3 failures maxillary sinus–related and progressive marginal bone gain over 5 years.
+Retrospective single-surgeon cohort (49 implants/34 patients, mean 7.43 yr follow-up, Maxillofac Plast Reconstr Surg 2024) of tapered SLA bone-level implants placed immediately after extraction at a Korean university hospital.
 
-## 한줄요약
+Cumulative 5-year survival was 93.88%, with 100% in the entire mandible and both premolar regions but only 85.38% in the maxillary anterior; all 3 failures were sinus-related (sinusitis, pneumatization), and marginal bone showed progressive gain from 3 months through 5 years.
 
-단일 술자 후향연구, 49개 즉시식립 tapered SLA 골수준 임플란트(환자 34명, 평균 7.43년 추적): 5년 누적 생존율 93.88% — 하악 전 부위·상하악 소구치부 100%, 상악 전치부 최저(85.38%), 실패 3개 모두 상악동 병변 연관, 5년간 변연골 증가.
+Maxillary sinus pathology is the actionable risk flag for immediate maxillary molar/anterior placement; a pre-operative CBCT review of sinus health is mandatory, and immediate placement should defer to delayed placement with sinus lift when sinus disease is present.
+
+## 세줄요약
+
+후향적 단일 술자 코호트(49개 임플란트/34명, 평균 7.43년 추적, 한국 대학병원, Maxillofac Plast Reconstr Surg 2024): tapered SLA 골수준 임플란트 즉시식립 결과.
+
+5년 누적 생존율 93.88%; 하악 전 부위·상하악 소구치부 100%, 상악 전치부 최저(85.38%); 실패 3개 모두 상악동 병변(부비동염·함기화) 연관; 변연골은 3개월부터 5년까지 지속적으로 증가.
+
+상악동 병변이 있는 경우 상악 즉시식립은 금기이며, 상악동 거상술 후 지연 식립으로 전환해야 한다는 위험 신호를 명확히 제시한 연구.
 
 ## Summary
 

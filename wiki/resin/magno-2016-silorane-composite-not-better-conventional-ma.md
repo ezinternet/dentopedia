@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (11 RCTs) found silorane-based composites (SBC) clinically equivalent to methacrylate-based composites (MBC) for posterior restorations across all parameters, with non-significant heterogeneity and the same conclusion in the ≥24-month subgroup, indicating that low polymerization shrinkage alone does not confer clinical superiority.
+## Three-line Summary
 
-## 한줄요약
-11개 RCT 메타분석: 실로란(silorane) 기반 복합레진(SBC)은 구치부 수복에서 메타크릴레이트 기반 복합레진(MBC)과 임상 성적 동등; 모든 지표에서 I² 비유의, 24개월 이상 하위분석에서도 동일 결론 — "저중합수축 = 임상 우월"은 성립하지 않음.
+SR+MA (11 RCTs; 7 databases including PubMed, Scopus, and OpenGrey; no language or date restriction) comparing silorane-based composites (SBC) versus methacrylate-based composites (MBC) for posterior direct restorations.
+
+SBC and MBC showed clinically equivalent performance on all parameters — marginal integrity, discoloration, retention, secondary caries, and postoperative sensitivity — in both the full analysis and the ≥24-month subgroup; heterogeneity (I²) was non-significant throughout.
+
+Low polymerization shrinkage alone does not confer clinical superiority; silorane chemistry (primarily Filtek Silorane) has since been largely discontinued by manufacturers.
+
+## 세줄요약
+
+SR+MA (11개 RCT; 7개 데이터베이스, 언어·날짜 제한 없음): 실로란(Silorane) 기반 복합레진(SBC) vs 메타크릴레이트 기반 복합레진(MBC) 구치부 직접 수복 비교.
+
+변연 완전성·착색·유지력·이차우식·술 후 민감도 등 모든 지표에서 SBC와 MBC 임상 동등, 전체 분석 및 24개월 이상 하위분석 모두 I² 비유의로 일관된 결과.
+
+"저중합수축 = 임상 우월"은 성립하지 않음; 실로란 레진(Filtek Silorane)은 이 연구 이후 제조사가 대부분 단종.
 
 ## Summary
 This SR+MA (J Adhes Dent 2016; PMID 27695714) searched 7 databases (PubMed, Scopus, Bireme, Science Direct, Web of Science, ClinicalTrials.gov, OpenGrey) with no language or date restrictions, identifying 544 studies and including 11 RCTs. Two meta-analyses were conducted: one with all 11 studies and one restricted to studies with >24 months follow-up. Both analyses found statistically similar clinical performance between silorane-based composites (SBC) and methacrylate-based composites (MBC). Heterogeneity (I²) was not significant across all parameters. Six of 11 studies were low risk of bias; five were unclear. The conclusion emphasized that reduced polymerization shrinkage alone does not confer clinical superiority.

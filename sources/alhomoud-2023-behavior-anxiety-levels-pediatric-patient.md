@@ -13,13 +13,21 @@ source_collection: external
 
 dental-anxiety 하위 카테고리의 실측 데이터 축. [[wiki/behavioral-dentistry/dental-anxiety/jkda-2021-60-1-003]](성인 phobia)와 대비되는 소아 데이터 — Frankl·Venham·categorical scale로 150명 측정. 연령·성별 효과를 정량화해 [[wiki/behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management]](소아 불안 관리 review)의 primary 근거로 연결.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=150 children aged 2–14, Sharjah) measuring behavior/anxiety with Frankl, Venham, and categorical rating scales — no sex difference, but significant age-group differences (the 11–14y group showed the most notable crying/cooperativeness/apprehensiveness effects); children showed heightened anxiety at dental visits.
+Cross-sectional study (n=150 children aged 2–14, Gulf Medical University / Sharjah Thumbay Dental Hospital, 23-week recruitment) measuring pediatric behavior and anxiety using Frankl behavior rating, Venham, and categorical rating scales in a single-trained-rater post-visit design.
 
-## 한줄요약
+No significant sex difference in behavior/anxiety was found across any scale (Mann–Whitney U); however, significant age-group differences emerged across nearly all scales (Kruskal–Wallis), with the 11–14 year group showing the most notable effects: crying p=.034, cooperativeness p=.002, apprehensiveness p=.003.
 
-소아 단면연구(2–14세 150명, 샤르자) — Frankl·Venham·categorical scale로 행동·불안 측정. 성별 차이 없음, 연령군 차이는 유의(11–14세군에서 울음 p=.034·협조도 p=.002·불안감 p=.003 가장 두드러짐). 소아는 치과 내원 시 불안이 고조됨.
+Single-center convenience sample with one rater (no inter-rater reliability reported), end-of-visit rating only with no pre/post change measure, and no intervention tested — findings indicate clinicians should apply age-tailored behavior management strategies.
+
+## 세줄요약
+
+단면연구 (n=150, 2–14세, 샤르자 걸프의대/Thumbay 치과병원, 23주 모집) — 단일 훈련 평가자가 내원 후 Frankl 행동평가척도·Venham 척도·범주형 평가척도로 소아 행동·불안을 측정.
+
+성별 차이 없음 (Mann–Whitney U); 연령군 차이는 유의 (Kruskal–Wallis) — 11–14세군에서 가장 두드러짐: 울음 p=.034, 협조도 p=.002, 불안감 p=.003.
+
+단일기관 편의표본·단일 평가자(평가자 간 신뢰도 미보고)·내원 후 단일 시점 평가(사전-사후 변화 미측정)·중재 미검증의 한계가 있으며, 연령별 행동 관리 전략의 개별화가 필요함을 시사.
 
 ## 1. Document Information
 - Journal: Clinical and Experimental Dental Research 2023;9:1223–1231

@@ -17,13 +17,23 @@ text_filename: soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-too
 
 [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] establishes that cracks with root extension and periodontal pocket involvement carry the worst survival prognosis, but does not specify a material/technique to manage the radicular crack segment once the canal is treated. This case report documents a concrete intraorifice-barrier protocol (Biodentine placed 2 mm beyond the apical-most point of the crack) for exactly that worst-case scenario — a root-extended cracked molar with an endo-periodontal lesion — adding a procedural data point to the otherwise outcome-focused literature ([[cracked-tooth/gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp]], [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]]). Single case, so hypothesis-generating only — no survival inference.
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1): root-extended cracked mandibular molar (#36, radix entomolaris, endo-periodontal lesion, pulp necrosis) treated with root canal therapy + Biodentine intraorifice barrier placed 2 mm apical to the crack; complete periradicular and alveolar bone healing with retained function at 48-month CBCT follow-up.
 
-## 한줄요약
+Case report (n=1): root-extended cracked mandibular molar (#36, radix entomolaris, endo-periodontal lesion, pulp necrosis) treated with root canal therapy + Biodentine intraorifice barrier placed 2 mm apical to the crack;
+
+complete periradicular and alveolar bone healing with retained function at 48-month CBCT follow-up.
+
+(incomplete)
+
+## 세줄요약
+
 
 증례보고 (n=1): 치근까지 확장된 균열·치주포켓·치수괴사를 동반한 하악 대구치(#36, radix entomolaris)에 근관치료 후 균열 최심점 2 mm 하방까지 바이오덴틴(Biodentine) 치근공입구 차단막(intraorifice barrier)을 적용 — 48개월 CBCT 추적에서 치근단 조직·치조골 완전 치유 및 기능 유지 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

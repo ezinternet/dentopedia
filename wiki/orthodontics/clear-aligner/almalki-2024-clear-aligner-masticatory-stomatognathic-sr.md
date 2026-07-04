@@ -17,13 +17,21 @@ text_filename: almalki-2024-clear-aligner-masticatory-stomatognathic-sr.txt
 tags: [clear-aligner, masticatory-muscle, stomatognathic, bite-force, tmd, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (no meta-analysis; 6 clinical studies, n=10–31, ROB-2) finding clear aligner therapy causes a transient early rise in masticatory muscle activity/discomfort that normalizes on follow-up, plus a significant bite-force reduction; all 6 studies of good methodological quality (overall low risk of bias), with CAT broadly TMD-neutral.
+PRISMA/Cochrane-conformant systematic review (437→6 clinical studies, n=10–31, follow-up 9 days–8 months; ROB-2; PROSPERO 509370) examining clear aligner therapy effects on masticatory musculature and the stomatognathic system; no meta-analysis due to heterogeneity.
 
-## 한줄요약
+Masticatory muscle activity and discomfort showed a transient early increase (T0→T1) that reverted to baseline on later follow-up — consistent with muscle plasticity/adaptation; bite force was significantly reduced (Paes: <20% reduction, p<0.05) due to aligner interposition between the arches; all 6 studies were of good methodological quality (low overall ROB).
 
-체계적 문헌고찰(메타분석 없음; 임상연구 6편, n=10–31, ROB-2): 투명교정(Clear Aligner Therapy, CAT)은 초기 저작근 활성도·불편감을 일시적으로 증가시키나 추적 시 정상화되며 교합력(bite force)은 유의하게 감소함. 6편 모두 질 양호(전체 비뚤림 낮음), CAT는 측두하악장애(Temporomandibular Disorder, TMD)에 대체로 중립적.
+Counsel clear aligner patients to expect mild, self-limiting muscle soreness and reduced biting efficiency in the first days-to-weeks; current evidence does not link clear aligner therapy to TMD onset, supporting screening for pre-existing TMD but not contraindication.
+
+## 세줄요약
+
+PRISMA/Cochrane 기반 체계적 문헌고찰(437→임상연구 6편, n=10–31, 추적 9일~8개월; ROB-2; PROSPERO 509370) — 투명교정(Clear Aligner Therapy, CAT)이 저작근 및 구강악계(Stomatognathic System)에 미치는 영향; 이질성으로 메타분석 미시행.
+
+저작근 활성도·불편감은 초기(T0→T1) 일시적 증가 후 추적 시 기저치로 복귀(근육 가소성·적응); 교합력(Bite Force)은 장치 개재로 유의하게 감소(Paes: <20%, p<0.05); 6편 전체 비뚤림 낮음.
+
+CAT 환자에게 초기 경미한 근육통·저작효율 감소를 예고하되 자연 회복 설명; 현재 근거는 CAT와 측두하악장애(Temporomandibular Disorder, TMD) 발생을 연결하지 않음 — 기존 TMD 스크리닝은 필요, 금기 아님.
 
 ## Summary
 

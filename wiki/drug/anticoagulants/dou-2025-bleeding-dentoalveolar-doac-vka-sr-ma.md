@@ -24,11 +24,21 @@ relations:
     target: moldovan-2023-anticoagulant-oral-surgery-bleeding-sr
 ---
 
-## One-line Summary
-SR+MA (29 studies, n=29,212): uninterrupted DOACs carry a 21% lower post-dentoalveolar-surgery bleeding risk than VKAs (RR 0.79, 95% CI 0.68–0.92), driven mainly by dabigatran (RR 0.40); both DOACs (RR 3.23) and VKAs (RR 3.35) raise bleeding ~3-fold vs no-anticoagulant controls, but severe bleeding is rare. GRADE very low.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (29편, n=29,212): 비중단 DOAC는 치조골 수술 후 출혈 위험이 VKA보다 21% 낮음 (RR 0.79) — dabigatran(RR 0.40)이 주도; DOAC(RR 3.23)·VKA(RR 3.35) 모두 비복용군 대비 출혈 약 3배 증가하나 중증 출혈은 드묾. 근거수준 very low.
+SR+MA (29 observational studies, n=29,212) comparing post-dentoalveolar-surgery bleeding with uninterrupted DOACs vs VKAs (warfarin) and vs non-anticoagulated controls; PROSPERO CRD42024608201.
+
+Uninterrupted DOACs reduced bleeding risk 21% vs VKAs (RR 0.79, 95% CI 0.68–0.92, I²=0%); the benefit was driven entirely by dabigatran (RR 0.40) — rivaroxaban, apixaban, and edoxaban showed no significant advantage; both drug classes raised bleeding ~3-fold vs controls (DOAC RR 3.23, VKA RR 3.35).
+
+Continue anticoagulation for dentoalveolar surgery and use local hemostasis; if agent choice exists, dabigatran has the most favorable bleeding profile — interpretation limited by very-low GRADE certainty from observational-only evidence.
+
+## 세줄요약
+
+SR+MA (관찰연구 29편, n=29,212): 비중단 DOAC vs VKA(와파린) 치조골 수술 후 출혈 비교; PROSPERO 등록.
+
+비중단 DOAC가 VKA보다 출혈 21% 낮음 (RR 0.79, I²=0%) — 이득은 dabigatran(RR 0.40)만 확인; rivaroxaban·apixaban·edoxaban은 VKA 대비 유의차 없음; 두 약제 모두 비복용군 대비 출혈 약 3배.
+
+치조골 수술 시 항응고제 유지 + 지역 지혈이 원칙; 선택 가능하면 dabigatran이 가장 유리 — 관찰연구만으로 구성된 근거 very low가 한계.
 
 ## Summary
 Meta-analysis of 29 observational studies (29,212 patients) comparing post-operative bleeding risk after 치조골 수술 (Dentoalveolar Surgery — extraction, implant placement, alveolar bone reconstruction) in patients on **uninterrupted** 직접경구항응고제 (Direct Oral Anticoagulant, DOAC) vs 비타민 K 길항제 (Vitamin K Antagonist, VKA). Both drug classes roughly triple bleeding risk versus non-anticoagulated controls, but clinically severe bleeding (hospitalization/irreversible harm) was rarely reported. DOACs carry a **21% lower** bleeding risk than VKAs — an advantage driven almost entirely by **dabigatran**. The paper supports continuing anticoagulation with local hemostasis rather than interrupting it.

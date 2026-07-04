@@ -13,11 +13,21 @@ source_collection: external
 
 Graftless OSFE의 장기 결과(5–13년)를 보고한 연구가 wiki에 부족. [[wiki/sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]]는 collagen sponge만 사용한 no-graft approach의 가장 긴 추적 데이터 중 하나로, Sansupakorn 2024 RCT(1년) 및 Shahood 2024 비교의 장기 맥락 제공.
 
-## One-line Summary
+## Three-line Summary
+
 Retrospective (n=36 implants, 2006–2014): OSFE without graft using collagen sponge only achieves 97.2% survival and ISQ 73–76 at 5–13 years mean 8.5 yr follow-up.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 후향적 연구(36임플란트, 2006–2014): 골이식 없이 collagen sponge만 사용한 OSFE에서 5–13년(평균 8.5년) 추적 생존율 97.2%, ISQ 73–76.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: International Journal of Dentistry 2022; Article ID 6594279

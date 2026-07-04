@@ -21,13 +21,21 @@ relations:
     target: thakur-2026-probiotics-clear-aligner-biofilm-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, PROSPERO 628072) of 12 observational studies (4 hours–12 months follow-up) found that clear aligners (CA) generally promote more stable oral microbiota and better periodontal parameters than fixed appliances (FA), though early (4–24h) CA use induces transient alpha-diversity decreases and increased acidity, and one included study found Invisalign did not outperform FA in microbiome composition/function.
+PRISMA/PROSPERO-registered systematic review (PROSPERO 628072; 34 records → 12 observational studies, 4h–12 months follow-up; no RCTs; AXIS risk-of-bias tool) — the first review to unify oral microbiome composition data (16S rRNA, qPCR) with clinical periodontal/caries parameters across the full timeline of clear aligner treatment.
 
-## 한줄요약
+Short-term (4–24h) CA use produced transient alpha-diversity decreases, increased Firmicutes, and increasingly acidic aligner-liquid pH; medium-to-long-term (1–12 months) CA consistently outperformed fixed appliances on plaque index, S. mutans/Lactobacilli risk (~8–10% high-risk vs ~40% in brackets), and periodontal stability — though one dissenting study (Wang et al., functional metagenome) found Invisalign was not superior to fixed appliances in microbiome composition or function.
 
-12편의 관찰연구(4시간~12개월 추적)를 정성종합한 체계적 문헌고찰(PRISMA, PROSPERO 628072)로, 투명교정장치(clear aligner, CA)가 고정장치(fixed appliance, FA)보다 대체로 더 안정적인 구강 미생물총과 우수한 치주 지표를 보였으나, 초기(4~24시간) 착용 시 일시적 alpha diversity 감소와 산성화가 관찰되었고, 포함된 연구 중 하나(Wang et al.)는 Invisalign이 미생물총 구성·기능 면에서 FA보다 우월하지 않다는 상반된 결론을 보고했다.
+Evidence is uniformly weak: all 12 studies are non-randomized observational, most lack control groups, heterogeneous methodologies preclude meta-analysis, and the dissenting Wang et al. finding warrants caution before concluding CA confers a consistent microbiome advantage.
+
+## 세줄요약
+
+PRISMA/PROSPERO 등록 체계적 문헌고찰 (PROSPERO 628072; 34건 → 관찰연구 12편, 4시간~12개월 추적; RCT 없음; AXIS 비뚤림 도구): 투명교정 전체 기간에 걸쳐 구강 미생물총 구성 데이터(16S rRNA, qPCR)와 임상 치주·우식 지표를 통합한 최초 SR.
+
+단기(4–24시간) CA 착용은 일시적 alpha diversity 감소, Firmicutes 증가, aligner 내 액체 pH 산성화; 중장기(1–12개월) CA는 치태지수(PI), S. mutans/유산균 고위험 비율(~8–10% vs 브라켓 ~40%), 치주 안정성에서 FA 대비 일관 우위 — 단, Wang et al.(기능성 메타게놈)은 Invisalign이 FA 대비 미생물총 구성·기능에서 우월하지 않다는 반론 결과 보고.
+
+근거 질 전반 취약: 12편 모두 비무작위 관찰 연구, 대부분 대조군 없음, 방법론 이질성으로 메타분석 불가, Wang et al.의 반론 결과는 CA 미생물총 이점의 일관성 결론 전 주의 요망.
 
 ## Summary
 

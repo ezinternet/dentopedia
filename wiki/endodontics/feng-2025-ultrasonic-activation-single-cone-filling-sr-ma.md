@@ -18,13 +18,21 @@ relations:
     target: song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 20 lab studies (11 meta-analyzed) — ultrasonic activation of sealers during single-cone obturation significantly reduced porosity (micro-CT MD −1.21; apical stereomicroscopy MD −0.50) and increased apical/middle sealer penetration (CLSM SMD 2.28/2.69), but bond strength and other penetration indicators were inconsistent.
+SR+MA of 20 laboratory studies (11 meta-analyzed) evaluating the effect of ultrasonic activation (UA) of root canal sealers versus no activation during single-cone obturation, with endpoints of porosity, sealer tubule penetration, and push-out bond strength.
 
-## 한줄요약
+UA significantly reduced fill porosity (micro-CT MD −1.21, 95% CI −1.69 to −0.74; apical stereomicroscopy MD −0.50) and increased sealer penetration into dentinal tubules (CLSM apical SMD 2.28; middle SMD 2.69), but push-out bond strength and other penetration indicators were inconsistent across studies.
 
-lab study 20편(11편 메타분석) SR+MA — 단일콘 충전 시 초음파 실러 활성화는 기공률을 유의하게 낮추고(micro-CT MD −1.21; 치근단 입체현미경 MD −0.50) 치근단·중앙부 실러 침투를 늘렸으나(CLSM SMD 2.28/2.69) 결합강도·기타 침투지표는 비일관적.
+This technique modifier improves fill density and adaptation but lacks clinical-outcome evidence; high heterogeneity at the middle third and CLSM endpoints limits the strength of the penetration finding.
+
+## 세줄요약
+
+단일콘 충전 시 초음파 실러 활성화(UA)와 비활성화를 비교한 lab 연구 20편(11편 메타분석) SR+MA로, 기공률·실러 침투·결합강도를 평가했다.
+
+UA는 기공률을 유의하게 감소시키고(micro-CT MD −1.21; 치근단 입체현미경 MD −0.50) 상아세관 실러 침투를 높였으나(CLSM 치근단 SMD 2.28; 중앙부 2.69), 결합강도와 일부 침투지표는 비일관적이었다.
+
+이 기법 개선은 충전 밀도와 적합도를 향상시키나 임상 결과 근거는 없으며, 중앙부 및 CLSM 이질성이 높아 침투 효과의 신뢰도가 제한된다.
 
 ## Summary
 

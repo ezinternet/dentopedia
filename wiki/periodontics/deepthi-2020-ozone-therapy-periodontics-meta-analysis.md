@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small, mostly non-significant improvements in PPD, CAL, PI, GI under high heterogeneity (I2=80.49%).
+## Three-line Summary
 
-## 한줄요약
-7개 RCT를 메타분석(연구당 n=13-113)한 결과, 오존 치료를 SRP(scaling and root planing)에 부가하면 PPD·CAL·PI·GI가 소폭 개선되나 대부분 통계적으로 유의하지 않고 이질성이 매우 높음(I2=80.49%).
+SR+MA of 7 RCTs (per-study n=13–113; age 20–72; chronic or aggressive periodontitis, 2010–2018) evaluating ozone (gaseous, aqueous, or ozonated oil gel) as an adjunct to scaling and root planing.
+
+Pooled weighted mean differences for PPD (+0.03 mm), CAL (−0.26 mm), PI (−0.23), and GI (−0.45) all favored ozone numerically but had confidence intervals crossing zero (all non-significant); I²=80.49%.
+
+Despite favorable trends in individual trials, the pooled non-significant results under very high heterogeneity do not support recommending ozone as an evidence-based SRP adjunct.
+
+## 세줄요약
+
+2010–2018년 만성·공격성 치주염 RCT 7편(연구당 n=13–113, 연령 20–72세) — 오존(가스·수용액·오존화 오일젤)을 치석제거·치근활택술(Scaling and Root Planing, SRP) 보조로 평가한 SR+MA.
+
+PPD(+0.03 mm)·CAL(−0.26 mm)·PI(−0.23)·GI(−0.45) 모두 오존 방향으로 수치는 기울었으나 신뢰구간이 0을 포함해 통계적으로 비유의; 이질성 매우 높음(I²=80.49%).
+
+개별 연구에서 우호적 경향이 있으나 풀링 결과가 모두 비유의이고 이질성이 극히 높아 오존을 SRP 근거 기반 보조제로 권고하기 어려움.
 
 ## Summary
 This systematic review with meta-analysis evaluates ozone therapy as an adjunct to mechanical scaling and root planing (SRP) in patients with chronic and aggressive periodontitis. Ozone is a strong oxidant with antimicrobial action (without inducing bacterial resistance) and host immune-modulating, wound-healing properties; aqueous ozone is biocompatible to fibroblasts, cementoblasts, and epithelial cells. Searching seven databases for human RCTs (>10 patients, >6 weeks follow-up) published 2010-2018 yielded 7 eligible studies. Pooled random-effects estimates for PPD, CAL, PI, and GI all favored ozone numerically but had confidence intervals crossing zero (non-significant), and heterogeneity was high (I2 = 80.49%). The authors nonetheless conclude ozone can be used effectively as an SRP adjunct, a conclusion that overstates the modest, non-significant pooled effect sizes.

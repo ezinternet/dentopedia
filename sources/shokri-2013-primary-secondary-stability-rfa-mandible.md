@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]가 osteotome vs conventional drilling의 baseline ISQ 차이를 다뤘다면, 본 prospective cohort (Shokri 2013)는 mandibular SLA-coated ITI implant에서 11주간 주간 RFA 추적으로 **stability dip(4주째 최저)**의 시간 곡선을 직접 보여줘 loading timing threshold 논의를 보강한다. [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]]의 IT↔ISQ↔immediate-loading 맥락과 짝을 이루는 secondary-stability dip 근거.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective cohort (15 mandibular SLA ITI implants, 10 patients) tracked weekly by Osstell mentor RFA for 11 weeks: mean ISQ fell from 77.2 at placement to a 72.13 nadir at week 4, then significantly recovered to 75.6 by week 11 without reaching baseline — suggesting loading before week 4 may be disadvantageous.
 
-## 한줄요약
+(incomplete)
 
-전향적 코호트 연구 (Shokri 2013) — 하악 SLA ITI 임플란트 15개를 11주간 매주 공명주파수분석 (Resonance Frequency Analysis, RFA, Osstell mentor)으로 추적. 평균 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)가 식립 당일 77.2에서 4주째 72.13으로 최저(stability dip)를 찍고 11주째 75.6으로 유의하게 회복(p<0.05)했으나 초기값엔 못 미침 → 4주 이전 하중은 불리할 수 있음을 시사.
+(incomplete)
+
+## 세줄요약
+
+
+전향적 코호트 연구 (Shokri 2013) — 하악 SLA ITI 임플란트 15개를 11주간 매주 공명주파수분석 (Resonance Frequency Analysis, RFA, Osstell mentor)으로 추적.
+
+평균 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)가 식립 당일 77.2에서 4주째 72.13으로 최저(stability dip)를 찍고 11주째 75.6으로 유의하게 회복(p<0.05)했으나 초기값엔 못 미침 → 4주 이전 하중은 불리할 수 있음을 시사.
+
+(incomplete)
 
 ## 1. Document Information
 

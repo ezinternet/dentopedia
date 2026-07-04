@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Case report (2 cases, mandibular second molars) demonstrating the stamp technique — fabricating a flowable composite index of the intact occlusal surface before preparation and imprinting the final composite increment — achieving accurate anatomical reproduction, minimal finishing, and reduced chair time; indicated for Class I caries with preserved occlusal anatomy.
+## Three-line Summary
 
-## 한줄요약
-Stamp technique 2증례: 교합면 해부학이 보존된 깊은 우식 케이스에서 flowable composite으로 인덱스를 미리 떠 두고 최종 적층 시 압인 → 자연스러운 교합면 재현, finishing 시간 단축, chair time 감소. 적응증: Class I + 교합면 보존. 한계: 교합면 결손·중합 수축 응력 집중 우려.
+Case report (n=2, mandibular second molars, JKDA 2026) demonstrating the stamp technique — a flowable composite occlusal index is made from the intact surface before cavity preparation, then used to imprint the final composite increment.
+
+Both cases achieved accurate anatomical reproduction and good patient satisfaction; the technique reduced finishing time and chair time compared with conventional free-hand sculpting.
+
+Indicated only when original occlusal anatomy is preserved (Class I); inapplicable with destroyed occlusal surfaces, and the single-increment final step may concentrate polymerization shrinkage stress.
+
+## 세줄요약
+
+증례 보고(n=2, 하악 제2대구치, JKDA 2026): 와동 삭제 전 교합면 해부학이 온전할 때 유동성 레진으로 인덱스를 채득한 뒤 최종 복합레진 증층 시 스탬프로 압인하는 술식 소개.
+
+두 증례 모두 자연스러운 교합면 형태 재현, finishing·polishing 시간 단축, chair time 감소, 환자 만족도 양호.
+
+교합면 해부학이 이미 파괴된 경우에는 적용 불가능하며, 최종 단일 증층 시 중합수축응력 집중 우려가 잠재적 한계.
 
 ## Summary
 Case report (2 cases, mandibular second molars) demonstrating the stamp technique — fabricating a flowable composite index of the intact occlusal surface before cavity preparation and using it to imprint the final composite layer for anatomic accuracy.

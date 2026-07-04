@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (n=28 children, mean age 10.25y): cutaneous sinus tract (CST) of dental origin most often arises from a carious mandibular first molar presenting on the mandibular–submandibular skin; mean 6.5-month diagnostic delay; resolves rapidly after root canal therapy or extraction, with scar revision needed in 29% of (longer-standing) cases.
+Retrospective case series (n=28 children, mean age 10.25 y, range 4–16; male:female 1:1.74) of cutaneous sinus tract (CST) of dental origin, with the most common presentation being a mandibular–submandibular skin lesion originating from a carious mandibular first molar.
 
-## 한줄요약
+Mean diagnostic delay was 6.5 months (range 0.3–12) as CSTs were repeatedly misdiagnosed as primary dermatological lesions; after correct dental treatment (root canal therapy or extraction of the source tooth), cutaneous tracts resolved rapidly.
 
-후향적 증례군(소아 28명, 평균 10.25세): 치성 피부누공(CST)은 주로 우식이 있는 하악 제1대구치에서 기원해 하악-하악하부 피부에 나타나며, 평균 6.5개월의 진단 지연 후 근관치료 또는 발치로 빠르게 치유되고, 병변 기간이 긴 29% 환자에서 흉터 교정술이 필요했다.
+Scar revision was required in 8/28 cases (29%), specifically those with longer-standing lesions — establishing early diagnosis and dental treatment as the path to spontaneous, scar-free skin healing.
+
+## 세줄요약
+
+후향적 증례군(소아 28명, 평균 10.25세, 범위 4–16세; 남:녀 1:1.74) — 치성 피부누공(Cutaneous Sinus Tract, CST)의 가장 흔한 양상은 우식이 있는 하악 제1대구치에서 기원하여 하악·하악하부 피부에 나타남.
+
+평균 진단 지연 6.5개월(범위 0.3–12개월) — CST가 피부과적 병변으로 반복 오진되어 발치 부위 치료가 늦어짐; 원인치 근관치료 또는 발치 후 피부 누공은 신속 치유.
+
+흉터 교정술이 8/28명(29%)에게 필요했으며, 이는 병변 기간이 긴 증례에 집중 — 조기 진단과 치성 원인 치료가 흉터 없는 치유의 관건.
 
 ## Summary
 

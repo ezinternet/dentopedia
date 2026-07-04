@@ -13,11 +13,21 @@ source_collection: external
 tags: [mb2, cbct, second-molar, chilean]
 ---
 
-## One-line Summary
-Cross-sectional in vivo CBCT study (n=225 Chilean maxillary second molars): MB2 prevalence was 48%, with PMB2 located ~2.2 mm palatal and ~0.98 mm mesial to PMB1 and more frequent in males (63%); serves as the methodological precursor to the same group's larger 2016 1,100-molar study.
+## Three-line Summary
 
-## 한줄요약
-Cross-sectional CBCT (n=225 Chilean 2nd maxillary molars): MB2 prevalence 48%; PMB2 located 2.2 mm palatal + 0.98 mm mesial to PMB1; more frequent in males (63%); precursor to the same group's 2016 1,100-molar study.
+Cross-sectional in vivo CBCT study (n=225 Chilean maxillary second molars, mean age 26 years) measuring MB2 prevalence and geometric location of PMB2 relative to PMB1 at 1 mm apical to the pulpal floor.
+
+MB2 was present in 48% (108/225 teeth), with PMB2 located 2.2 ± 0.54 mm palatal and 0.98 ± 0.35 mm mesial to PMB1; male predominance was observed (63% of MB2-positive teeth).
+
+This study provides the 2MM-specific Chilean prevalence baseline and establishes the measurement methodology later scaled to 1,100 molars in the same group's 2016 study; single-population limitation constrains generalizability.
+
+## 세줄요약
+
+횡단 in vivo CBCT 연구(칠레 상악 제2대구치 225개, 평균 26세), 치저 1mm 하방 기준면에서 MB2 유병률과 PMB2 위치 기하학 측정.
+
+MB2 유병률 48%(108/225개), PMB2 위치: PMB1 기준 구개측 2.2±0.54mm·근심 0.98±0.35mm; 남성 우세(63%).
+
+칠레 인구 제2대구치 특이적 유병률 기준치와 측정 방법론을 확립한 연구 — 2016년 같은 연구팀의 1,100개 대구치 연구의 전신; 단일 인구집단으로 일반화 제한.
 
 ## Summary
 Earlier same-group CBCT study limited to the maxillary second molar. The MB2 canal was identified in 48% of 225 teeth, with consistent geometric offsets from PMB1 (palatal and mesial). Establishes the measurement protocol later scaled up in the 2016 1,100-molar paper.

@@ -19,13 +19,21 @@ relations:
     target: rovira-lastra-2026-articulating-paper-accuracy-occlusal-points
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 228 Bulgarian dentists: articulating paper is by far the most-used occlusal indicator (52.4%), followed by articulation foil (26.2%) and silk (16.8%); shim stock foil (2.45%), T-Scan (1.4%), and OccluSense (0.7%) are rarely used, while 58.7% expressed willingness to adopt quantitative/digital occlusion methods.
+Cross-sectional electronic survey of 228 Bulgarian dentists (14.87% response rate from 2,014 invited) mapping which occlusal indicators are used in clinical practice and attitudes toward adopting digital/quantitative occlusion analysis.
 
-## 한줄요약
+Articulating paper dominated (52.4%), followed by articulation foil (26.2%) and silk (16.8%); quantitative systems — shim stock (2.45%), T-Scan (1.4%), OccluSense (0.7%) — were rarely used despite 58.7% expressing willingness to adopt digital methods; specialist training was associated with more favorable attitudes toward quantitative indicators (χ²=14.73, p=0.005).
 
-불가리아 치과의사 228명 단면 설문: 교합지가 압도적 1위 교합 지시재(52.4%)이고 교합박(foil 26.2%)·실크(16.8%)가 뒤를 이으며, 심스탁(2.45%)·T-Scan(1.4%)·OccluSense(0.7%)는 거의 안 쓰이고, 58.7%가 정량·디지털 교합 분석 도입 의향을 보였다.
+A large gap exists between current digital occlusion tool uptake (~2% combined) and stated willingness to adopt (58.7%), suggesting adoption barriers are practical rather than attitudinal, especially for non-specialist dentists.
+
+## 세줄요약
+
+불가리아 전국 치과의사 2,014명 중 228명이 응답한 단면 전자설문(응답률 14.87%)으로, 교합 지시재(Occlusal Indicator) 임상 사용 현황 및 디지털·정량 교합 분석 도입 의향을 조사했다.
+
+교합지(Articulating Paper)가 52.4%로 압도적 1위, 교합박(26.2%)·실크(16.8%) 순이었으며, 정량 기기인 심스탁(Shim Stock, 2.45%)·T-Scan(1.4%)·OccluSense(0.7%)는 거의 사용되지 않았으나 58.7%가 디지털 교합 분석 도입 의향을 밝혔다; 전문의 자격이 정량 기기에 대한 호의적 태도와 유의하게 연관됨(χ²=14.73, p=0.005).
+
+디지털 교합 분석 도구의 현 사용률(합산 ~2%)과 도입 의향(58.7%) 간 격차가 크며, 비전문의에서는 실용적 장벽이 태도보다 더 중요한 채택 방해 요인임을 시사한다.
 
 ## Summary
 

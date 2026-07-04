@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Landmark CBCT study introducing the Kan classification of sagittal root position (SRP) of maxillary anterior teeth (Class I–IV), with Class I most prevalent; it became the standard taxonomy for planning immediate implant placement (IIP) trajectory and fenestration/protrusion risk in the esthetic zone.
+## Three-line Summary
 
-## 한줄요약
-Landmark 논문: 상악 전치의 sagittal root position을 Class I–IV로 분류, 이후 즉시 식립 영역의 표준 분류 체계가 됨. Class I이 압도적으로 흔하고 protrusion 위험을 정량화.
+Landmark CBCT study classifying sagittal root position (SRP) of maxillary anterior teeth into four classes (I–IV) based on engagement with the labial and palatal cortical plates.
+
+Class I (root against the labial cortex) was the most prevalent, quantifying the fenestration and protrusion risk inherent to the typical anterior root position.
+
+This classification became the universal reference taxonomy for planning immediate implant placement trajectory and esthetic-zone risk stratification, cited by virtually every subsequent IIP-planning study.
+
+## 세줄요약
+
+상악 전치의 치근과 피질골판 관계를 기준으로 Kan 분류(Class I–IV)를 제안한 landmark CBCT 연구.
+
+Class I(순측 피질골에 접한 치근)이 가장 흔하며, 즉시 식립 시 협측 천공 및 돌출 위험을 정량화하였다.
+
+이 분류체계는 이후 즉시 식립 궤적 계획과 심미 위험도 평가의 표준 참조 기준으로 자리잡았다.
 
 ## Summary
 Landmark CBCT study introducing the Kan classification of sagittal root position (SRP) for maxillary anterior teeth (Class I–IV), with prevalence data and direct implications for immediate implant placement trajectory.

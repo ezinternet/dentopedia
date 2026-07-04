@@ -16,11 +16,21 @@ relations:
     target: surendra-2025-flapless-versus-flapped-crestal-bone
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (RCTs only, Cosyn group) comparing mucoperiosteal flap vs flapless surgery for single immediate implant placement (IIP); flapless tends to favor buccal hard/soft tissue preservation while clinical and esthetic differences are small and operator-dependent.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (Cosyn 그룹): 단일 즉시식립 시 mucoperiosteal flap vs flapless — 협측 hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
+Systematic review and meta-analysis (RCTs only, Cosyn group; PubMed/WoS/Embase/Cochrane to June 2022) comparing mucoperiosteal flap vs flapless surgery for single immediate implant placement, with primary outcome of horizontal buccal change.
+
+Flapless surgery showed a tendency toward better horizontal buccal hard tissue and soft tissue volume preservation; clinical and esthetic differences between approaches were small and largely operator-dependent.
+
+When socket anatomy permits (intact buccal plate, adequate keratinized tissue), flapless IIP favors buccal tissue preservation; flap elevation combined with GBR remains indicated for cases with buccal defects.
+
+## 세줄요약
+
+SR+MA (Cosyn 그룹, RCT만; PubMed/WoS/Embase/Cochrane, 2022년 6월까지): 단일 즉시식립 시 mucoperiosteal flap vs flapless — 주 결과: 수평 협측 변화량.
+
+Flapless군은 수평 협측 hard tissue 및 연조직 용적 보존에서 약간 우위; 임상·심미 지표 차이는 소폭이며 술자 기술 의존적.
+
+협측 골판 온전·충분한 각화 점막이 있는 경우 flapless IIP가 협측 조직 보존에 유리; 협측 결손이 있는 경우에는 flap + GBR 병합이 적응증이다.
 
 ## Summary
 Aim: impact of mucoperiosteal flap elevation for single IIP on buccal hard/soft tissue changes, clinical, esthetic and patient-reported outcomes. PubMed/WoS/Embase/Cochrane to June 2022. RCTs comparing flapless vs flap IIP included. Primary outcome: horizontal buccal change.

@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 소아 CBCT 저선량 프로토콜의 선구 근거(저자 표현상 첫 연구). [[radiology/oenning-2019-halve-dose-paediatric-cone-beam-ct]]의 후속 DIMITRA 최적화와 직계, 임플란트/교정 전 매복견치 영상의 임상 적용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Phantom dosimetry + clinician IQ scoring: a paediatric anterior-maxilla CBCT low-dose protocol (DAP ≥127 mGy·cm², CNR ≥4.8) gives ~50% dose cut vs manufacturer.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 팬텀 선량+임상의 화질평가: 소아 전치부 CBCT 저선량 프로토콜(DAP ≥127 mGy·cm², CNR ≥4.8)로 제조사 권장 대비 ~50% 선량 절감.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

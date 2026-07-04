@@ -13,11 +13,21 @@ source_collection: external
 tags: ['immediate implant', 'bony defect ≥5 mm', 'esthetic zone', '10-year RCT', 'ridge preservation']
 ---
 
-## One-line Summary
-Ten-year RCT (n=40; immediate n=20 vs delayed-after-ARP n=20) in esthetic-zone sites with a buccal bony defect ≥5 mm, evaluating marginal bone loss (primary), buccal bone thickness, soft tissue, esthetics, and satisfaction; both groups achieved implant survival, suggesting immediate placement remains feasible despite a buccal defect when appropriate technique is used.
+## Three-line Summary
 
-## 한줄요약
-10년 RCT (n=40, 20 vs 20): 협측 결손 ≥5 mm 있는 전치부 발치와 — 즉시식립 vs ARP 후 지연식립 — MBL·BBT·연조직·심미·만족도 10년 추적; 협측 골결손이라도 즉시식립이 가능한지를 결정.
+Ten-year RCT (n=40; immediate n=20 vs delayed-after-ARP n=20) at the University Medical Center Groningen in esthetic-zone sites with a buccal bony defect ≥5 mm, evaluating marginal bone loss (primary outcome), buccal bone thickness, soft tissue, esthetics, and patient satisfaction.
+
+Both groups achieved implant survival over 10 years, suggesting that immediate placement remains feasible even when a significant buccal bony defect (≥5 mm) is present when appropriate GBR technique is employed.
+
+This is a single-center RCT from one group; operator skill and case selection are decisive factors, and the detailed MBL numerical results should be referenced from the full text.
+
+## 세줄요약
+
+협측 골결손 ≥5 mm 있는 전치부 발치와에서 즉시 식립 vs 치조제 보존 후 지연 식립을 비교한 10년 RCT(n=40, 각 20명; 그로닝겐 의대).
+
+양 군 모두 10년 임플란트 생존을 달성하여, 협측 결손이 5 mm 이상이어도 적절한 GBR 병행 시 즉시 식립이 가능함을 시사한다.
+
+단일기관 단일 그룹 RCT로 술자 술기와 증례 선택이 결정적이며, 구체적인 MBL 수치는 원문 참조가 필요하다.
 
 ## Summary
 Whether intact buccal bony plate is prerequisite for IIP. 10-yr RCT. Patients with failing tooth in esthetic region + buccal bony defect ≥5 mm randomized to Immediate (n=20) or Delayed-after-ARP (n=20). Second-stage and provisional at 3 mo post-placement; definitive 3 mo later. Outcomes over 10 yr: MBL (primary), BBT, soft tissue, esthetics, patient satisfaction.

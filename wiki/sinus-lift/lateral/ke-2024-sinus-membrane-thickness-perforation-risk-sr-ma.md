@@ -20,13 +20,21 @@ relations:
     target: alalshaikh-2024-membrane-perforation-risk-factors-lateral-sinus-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 11 CBCT-based observational studies (1841 lateral sinus lifts): the Schneiderian membrane is significantly thinner in perforation cases (MD −0.91 mm, 95% CI −1.48 to −0.33), but no thickness cutoff (2 / 1.5 / 1 mm) predicts perforation rate.
+PROSPERO-registered SR+MA (11 CBCT-based observational studies, 1841 lateral-window sinus lifts, all NOS=7, 2014–2023) testing whether Schneiderian membrane thickness predicts intraoperative perforation.
 
-## 한줄요약
+Membrane thickness was significantly lower in perforation cases on the continuous scale (MD −0.91 mm, 95% CI −1.48 to −0.33, I²=94%), yet no thickness cutoff (2 / 1.5 / 1 mm) yielded a significant odds ratio — suggesting a probable U-shaped relationship where both very thin and very thick membranes carry higher perforation risk.
 
-11편 CBCT 관찰연구(측방창 상악동거상술 1841건) SR+MA — 천공 증례에서 슈나이더막이 유의하게 더 얇았으나(MD −0.91 mm), 2/1.5/1 mm 어떤 절단값도 천공률과 유의한 관계가 없었다.
+Thinner Schneiderian membrane on preoperative CBCT is a continuous risk signal, but no validated cutoff should be used for clinical triage; thickness is one confounded factor among many.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (CBCT 기반 관찰 연구 11편, 측방창 상악동거상술 1841건, 모두 Newcastle-Ottawa Scale 7): 슈나이더막 두께가 천공 예측인자인지 검증.
+
+연속형 분석에서 천공 증례의 막이 유의하게 더 얇았으나 (MD −0.91 mm, 95% CI −1.48~−0.33, I²=94%), 2·1.5·1 mm 어떤 절단값도 유의 오즈비를 내지 못함 — U자형 관계 가능성 제시.
+
+얇은 막은 연속형 위험 신호이나 임상적으로 활용 가능한 절단값은 없으며, 두꺼운 병적 막도 보호적이지 않아 두께 하나만으로 환자 선별을 결정하지 말 것.
 
 ## Summary
 

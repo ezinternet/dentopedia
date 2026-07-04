@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 유형(tissue-level vs bone-level)과 보철 유형(단일 크라운 vs 3유닛 고정성 부분 보철)이 변연골 소실(Marginal Bone Loss, MBL)에 미치는 영향을 2년 추적한 비교 연구로, 수렴형 경부(convergent neck)를 가진 tissue-level 임플란트의 골 보존 효과를 정량화한다. [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]]에서 제기된 tissue-level 우위 가설을 임상 데이터로 직접 뒷받침하며, [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]의 SR+MA 메타분석에 포함될 원시 데이터 유형의 대표 연구이다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective clinical study (n=120 implants, 53 patients, 2-year follow-up) showing tissue-level implants with convergent neck had significantly less peri-implant MBL (0.31 ± 0.48 mm) than bone-level implants (0.97 ± 0.91 mm), independent of prosthesis type.
+Retrospective comparative clinical study (n=120 implants, 53 patients, 2-year post-loading follow-up) comparing tissue-level implants with convergent transmucosal neck (PRAMA RF, Sweden & Martina) vs bone-level implants (KOHNO, Sweden & Martina) in posterior zones.
 
-## 한줄요약
+Tissue-level implants had significantly less marginal bone loss than bone-level implants (0.31 ± 0.48 mm vs 0.97 ± 0.91 mm, p<0.001); prosthesis type (single crown vs FPP) and arch location did not significantly affect MBL; position within FPP influenced bone-level MBL (anterior 1.44 mm vs posterior 0.74 mm, p=0.001) but not tissue-level MBL.
 
-53명 환자 120개 임플란트 2년 추적 후향적 연구에서 수렴형 경부 조직 수준 임플란트(MBL 0.31 mm)가 골 수준 임플란트(MBL 0.97 mm)보다 변연골 소실이 유의하게 적었으며, 보철 유형(단일 vs FPP)의 영향은 없었다.
+Convergent-neck tissue-level implants preserve crestal bone by displacing the microgap supragingivally; prosthesis type does not modulate this advantage — limited by retrospective single-center design, single observer, and 2-year follow-up without peri-implantitis diagnosis.
+
+## 세줄요약
+
+후향적 비교 임상 연구 (임플란트 120개, 환자 53명, 보철 장착 후 2년 추적): 수렴형 경부 조직 수준 임플란트(PRAMA RF) vs 골 수준 임플란트(KOHNO), 구치부 식립.
+
+조직 수준 임플란트가 변연골 소실(MBL) 유의하게 적음(0.31 ± 0.48 mm vs 0.97 ± 0.91 mm, p<0.001); 보철 유형(단일 vs FPP) 및 악궁 위치는 MBL에 유의한 영향 없음; FPP 내 전방 위치는 골 수준 MBL 증가(1.44 vs 0.74 mm, p=0.001)이나 조직 수준은 영향 없음.
+
+수렴형 경부가 마이크로갭을 치조골 위로 옮겨 변연골 보존 — 보철 유형과 독립적; 후향적 단일 기관·단일 관찰자·2년 추적·치주염 진단 미포함이 한계.
 
 ## 1. Document Information
 

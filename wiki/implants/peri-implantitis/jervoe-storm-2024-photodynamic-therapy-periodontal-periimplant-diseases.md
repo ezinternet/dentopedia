@@ -16,11 +16,21 @@ relations:
     target: herrera-2023-prevention-treatment-peri-implant-efp
 ---
 
-## One-line Summary
-Cochrane SR of adjunctive antimicrobial photodynamic therapy (aPDT) added to subgingival instrumentation for periodontal and peri-implant diseases; assesses attachment/probing-depth and peri-implant outcomes.
+## Three-line Summary
 
-## 한줄요약
-치주·임플란트주위 질환에서 치하 기구조작에 보조적 광역학치료(aPDT)를 더한 효과를 평가한 Cochrane SR.
+Cochrane systematic review (RCTs; GRADE assessment) of adjunctive antimicrobial photodynamic therapy (aPDT) added to subgingival instrumentation for periodontal and peri-implant diseases, covering both attachment/probing-depth and peri-implant-specific outcomes.
+
+aPDT as adjunct to mechanical debridement shows short-term beneficial effects on clinical outcomes, but certainty of evidence is low and effect sizes are modest; the review evaluates both periodontal and peri-implant disease populations together (specific numeric outcomes require full-text extraction).
+
+The low-certainty, short-term evidence for aPDT adjunct aligns with the EFP treatment guideline position that adjuncts provide marginal additional benefit over thorough mechanical debridement alone; full-text results are needed to confirm specific effect estimates for the peri-implant subset.
+
+## 세줄요약
+
+치주질환 및 임플란트주위 질환에서 치하 기구조작(Subgingival Instrumentation)에 보조적 항균 광역학치료(Antimicrobial Photodynamic Therapy, aPDT)를 추가한 효과를 평가한 Cochrane 체계적 문헌고찰(RCT 대상; GRADE 평가).
+
+aPDT 보조요법은 임상적 결과에 단기 이점을 보이나 근거의 확실성이 낮고 효과 크기가 미미하며, 리뷰는 치주질환과 임플란트주위 질환 집단을 함께 분석함(임플란트주위 하위군의 구체적 수치는 전문 추가 추출 필요).
+
+aPDT 보조요법에 대한 저확실성·단기 근거는 철저한 기계적 변연부 청소 단독 대비 보조요법의 추가 이익이 미미하다는 EFP 치료 가이드라인 입장과 일치한다.
 
 ## Summary
 Cochrane review로 aPDT 보조요법의 치주·임플란트주위 효과를 GRADE로 평가. 본 ingest는 초록·TOC 기반이며 효과 수치는 본문 추가 추출이 필요한 상태로 표기.

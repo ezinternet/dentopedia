@@ -13,13 +13,23 @@ source_collection: external
 
 이 논문은 수중방전 플라즈마(Underwater Discharge Plasma, UDP)를 근관세정제로 임상 적용한 **최초의 RCT**로, 기존 in vitro 연구들의 임상 번역 가능성을 직접 검증한다. 기존 근관치료 세정제 관련 wiki 페이지 [[endodontics/irrigation]]에서 NaOCl의 한계(세포독성, 해부학적 복잡 부위 침투 불가)를 다루는 맥락에서, UDP가 임상적으로 동등한 효과를 보이는지 판단할 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT pilot (n=28, 4-month follow-up) comparing underwater discharge plasma vs. 6% NaOCl as root canal irrigant — comparable VAS pain reduction and periapical healing (PAI), no adverse effects with UDP.
 
-## 한줄요약
+Prospective RCT pilot (n=28, 4-month follow-up) comparing underwater discharge plasma vs.
+
+6% NaOCl as root canal irrigant — comparable VAS pain reduction and periapical healing (PAI), no adverse effects with UDP.
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 무작위 대조 파일럿 RCT (n=28, 4개월 추적): 수중방전 플라즈마(UDP)와 6% 차아염소산나트륨(NaOCl) 근관세정 비교 — 통증(VAS)과 치근단 치유(PAI) 모두 동등하며 UDP 부작용 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

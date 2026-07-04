@@ -13,13 +13,21 @@ text_filename: krajewski-2025-nspt-subgingival-microbiota-sr-ma.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 115 studies across four microbiological technologies shows NSPT significantly reduces mean counts of disease-associated subgingival species (Pg, Td, Tf, Aa, Pi, En, Cr), with SPC providing further reductions; 16S rRNA diversity findings remain heterogeneous due to methodological variability.
+SR+MA of 115 studies (checkerboard n=41, qPCR n=30, bacterial culture n=36, 16S rRNA n=8) spanning 1983–2024 across 31 countries, using a longitudinal random-effects model (Hedges' g) to assess the effect of NSPT on subgingival microbiota in systemically healthy adults with periodontitis.
 
-## 한줄요약
+NSPT significantly reduced mean counts of seven disease-associated species (Pg, Td, Tf, Aa, Pi, En, Cr); SPC at 6 months provided further significant reductions in Pg and Td; adjunctive therapies (CHX, PDT, laser) showed no additional microbiological benefit vs NSPT alone; qualitative 16S rRNA analysis found consistent Pg reduction with increases in Streptococcus and Rothia.
 
-115편 SR+MA에서 NSPT가 Pg·Td·Tf·Aa 등 치주 병원균 평균 개수를 유의미하게 감소시키고, 지지 치주치료(SPC)로 추가 감소 효과 확인; 16S rRNA 다양성 결과는 이질적.
+Alpha and beta diversity findings were heterogeneous across 16S studies due to small sample sizes, variable region choice, and pooled vs. site-specific sampling — only ~5% of included studies powered for microbiological endpoints — highlighting the need for standardised future study design.
+
+## 세줄요약
+
+1983–2024년 31개국 115편(체커보드 n=41, qPCR n=30, 세균배양 n=36, 16S rRNA n=8)을 포괄한 SR+MA — 종단 무작위 효과 모델(Hedges' g)로 전신 건강 치주염 성인에서 비외과적 치주 치료(Non-Surgical Periodontal Therapy, NSPT)가 치은연하 미생물군에 미치는 효과 분석.
+
+NSPT가 7개 질환 관련 균종(Pg·Td·Tf·Aa·Pi·En·Cr) 평균 개수를 유의미하게 감소; 지지 치주치료(Supportive Periodontal Care, SPC) 6개월 추가로 Pg·Td 추가 감소; CHX·광역동치료(PDT)·레이저 보조치료는 미생물학적 추가 효과 없음; 16S rRNA 정성 분석에서 Pg 감소 + Streptococcus·Rothia 증가 일관 확인.
+
+16S rRNA 다양성(알파·베타) 결과는 연구간 이질성 높음 — 소표본, 가변 변수 구간(Variable region), 통합/부위별 샘플링 차이; 포함 연구의 ~5%만 미생물 결과로 표본 크기 산출 → 표준화된 연구 설계 필요.
 
 ## Summary
 

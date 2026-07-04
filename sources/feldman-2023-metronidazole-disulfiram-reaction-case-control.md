@@ -13,7 +13,7 @@ source_collection: external
 
 치과에서 metronidazole 처방 시 "음주 금지" 상담의 근거를 검증하는 직접 임상 데이터. 짝 논문 [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]](문헌 리뷰)를 ED 실제 환자 대조군 연구로 보강하며, [[overviews/drug-antibiotic-stewardship-overview]]의 항생제 상담 항목 재검토 근거.
 
-## One-line Summary
+## Three-line Summary
 
 Retrospective ED case-control chart review (n=36; 18 metronidazole + 18 ethanol-matched controls): no documented disulfiram-like reaction in any metronidazole patient with detectable ethanol, and significantly LESS hypertension than controls (16.7% vs 61.1%, P<0.0001) — supporting absence of a clinically meaningful alcohol–metronidazole interaction.
 

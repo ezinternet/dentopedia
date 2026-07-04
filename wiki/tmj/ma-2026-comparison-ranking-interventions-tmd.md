@@ -23,13 +23,21 @@ relations:
     target: menendez-torre-2023-dry-needling-vs-manual-therapy-tmd-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Bayesian random-effects NMA of 14 RCTs (n=674 adults with TMD-myofascial pain syndrome), Chinese authorship (Gansu University of Chinese Medicine); lidocaine injection and ischemic compression ranked highest for short-term pain relief (SUCRA 91.7%, 88.7%) versus basic treatment, followed by platelet-rich plasma and laser therapy, but certainty of evidence for the top-ranked interventions was very low to low (CINeMA), driven by network sparsity (5/14 nodes single-trial) and high risk of bias in 9/14 trials.
+Bayesian random-effects NMA (PROSPERO-registered) of 14 RCTs (n=674 adults with TMD-myofascial pain syndrome, 14 intervention nodes vs basic treatment), Chinese authorship (Gansu University of Chinese Medicine); English-language RCTs published through June 2025.
 
-## 한줄요약
+Lidocaine injection (SUCRA 91.7%) and ischemic compression (88.7%) ranked highest for short-term pain relief; PRP and laser therapy also significantly beat basic treatment; oral muscle relaxant pharmacotherapy did not show significant additional benefit; BTX injection crossed the null.
 
-베이지안 랜덤효과 네트워크 메타분석(14 RCT, TMD 근막통증증후군 성인 674명, 중국 간쑤중의약대학 저자팀); 리도카인 주사·허혈성압박이 기본치료 대비 단기 통증완화 SUCRA 순위 1·2위(91.7%·88.7%)였고 PRP·레이저가 뒤를 이었으나, 상위 중재의 근거 확실성은 매우낮음~낮음(CINeMA)이며 이는 네트워크 희박성(14개 노드 중 5개가 단일시험)과 RCT 14편 중 9편의 고위험 편향에 기인한다.
+Certainty of evidence for the top two interventions was very low (CINeMA) due to network sparsity (5/14 nodes single-trial, no direct RCT vs basic treatment) and high risk of bias in 9/14 trials — rankings should generate hypotheses, not drive treatment-pathway priority.
+
+## 세줄요약
+
+PROSPERO 등록 베이지안 랜덤효과 네트워크 메타분석 (14 RCT, TMD 근막통증증후군 성인 674명, 14개 중재 노드 vs 기본치료, 간쑤중의약대학 저자팀): 2025년 6월까지 영어 RCT 포함.
+
+리도카인 주사(SUCRA 91.7%)·허혈성압박(88.7%)이 단기 통증 완화 순위 1·2위; PRP·레이저도 기본치료 대비 유의; 경구 근이완제는 추가 효과 없음; 보툴리눔 독소는 신뢰구간이 영점을 포함.
+
+상위 2개 중재의 CINeMA 확실성은 매우낮음 — 네트워크 희박성(단일 시험 노드 5/14개, 기본치료와 직접 비교 RCT 없음)과 14편 중 9편의 고위험 편향이 원인; 이 순위는 우선 RCT 가설 생성용이지 치료 경로 결정 근거가 아님.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: evans-2008-esthetic-outcomes-immediate-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Clin Oral Implants Res 2008;19(1):73-80: retrospective (42 single-unit immediate implants, mean 18.9 months) — midfacial recession 0.9±0.78mm; buccal shoulder = 3× more recession than lingual shoulder; very careful case selection required.
 
 ## 1. Key Results

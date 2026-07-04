@@ -22,13 +22,21 @@ relations:
     target: herrero-climent-2013-osstell-isq-reliability-icc
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Korean in-vitro study (n=8 SmartPegs/experiment, 2008) demonstrating ISQ stability through 400 repeated measurements, 400 attach-detach cycles, and six clinical sterilization methods, with magnetic loss (non-functional SmartPeg) occurring only at ≥150°C — above all standard clinical sterilization temperatures.
+Korean in-vitro bench study (n=8 SmartPegs/experiment, Dankook University 2008) testing ISQ reproducibility over 400 repeated measurements, 400 attach-detach cycles, and six clinical sterilization methods.
 
-## 한줄요약
+ISQ remained stable through all repeated-use conditions (all p>0.05); magnetic loss rendering the SmartPeg non-functional occurred at ≥150°C (2/8 at 150°C/5 min, 8/8 at 150°C/10 min) — above all standard clinical sterilization temperatures (max 132°C/15 min autoclave).
 
-한국 체외 연구(2008, SmartPeg 8개/실험): SmartPeg은 400회 측정·탈부착 및 6종 임상 소독법 후 ISQ 유의 변화 없으나, ≥150°C 에서 자성 소실로 측정 불가(임상 소독 최고온도 132°C/15분 이하이므로 임상적으로 안전).
+SmartPegs can be safely reused and resterilized by any standard clinical method without ISQ measurement error, empirically challenging the manufacturer's single-use recommendation.
+
+## 세줄요약
+
+한국 체외 연구 (단국대, 2008, SmartPeg 8개/실험): 400회 반복 측정·탈부착 및 6종 임상 소독법 적용 후 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 재현성 평가.
+
+모든 반복 사용 조건에서 ISQ 안정적(모두 p>0.05); 자성 소실(측정 불가)은 ≥150°C에서만 발생(150°C/5분: 2/8개, 150°C/10분: 8/8개) — 임상 표준 소독 최고 온도(고압증기멸균 132°C/15분) 이상.
+
+SmartPeg은 표준 임상 소독법으로 재사용·재멸균이 ISQ 측정 오차 없이 가능하며, 제조사 일회용 권장에 대한 경험적 근거를 제시한다.
 
 ## Summary
 

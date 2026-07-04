@@ -9,8 +9,19 @@ pdf_filename: chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+NMA of 12 RCTs evaluating Class II restorations at 6, 12, and 24 months — no statistically significant differences between bulk-fill subtypes and incremental layering for marginal adaptation, fractures, or retention; ormocer-based and overlay bulk-fill ranked highest (non-significantly) at 12–24 months.
+## Three-line Summary
+SR and network meta-analysis (PROSPERO CRD420251170292) of 12 RCTs comparing bulk-fill subtypes (ormocer, overlay, flowable, sculptable) versus incremental layering for Class II posterior composite restorations at 6, 12, and 24 months.
+
+No statistically significant differences were found between any bulk-fill subtype and incremental layering for marginal adaptation, fractures, or retention at any timepoint; P-score ranking showed ormocer-based and overlay bulk-fill composites highest at 12–24 months (non-significantly).
+
+Bulk-fill composites — regardless of viscosity or curing mode — are clinically equivalent to incremental layering for Class II restorations up to 24 months, supporting their routine use as a time-saving alternative.
+
+## 세줄요약
+Class II 구치부 복합레진 수복에서 bulk-fill(4가지 하위유형) 대 적층충전을 비교한 RCT 12편의 SR+네트워크 메타분석 (PROSPERO CRD420251170292).
+
+6·12·24개월 시점에서 변연 적합성·파절·유지력 모두 bulk-fill과 적층충전 간 유의한 차이 없음; P-score 순위에서 ormocer계·overlay bulk-fill이 12–24개월에 비유의적으로 높음.
+
+점도나 중합 방식과 무관하게 bulk-fill이 적층충전과 임상적으로 동등해 24개월까지 시간 절약형 대안으로 사용 가능함.
 
 ## 1. Document Information
 - **Type**: Systematic Review and Network Meta-Analysis

@@ -17,13 +17,21 @@ text_filename: barootchi-2024-autologous-platelet-concentrates-root-coverage.txt
 
 치은퇴축(Gingival Recession, GR) RT1 결손의 근면피복(root coverage)에서 자가혈소판농축물(Autologous Platelet Concentrates, APC — PRF/PRP/CGF 등)이 결합조직이식(Connective Tissue Graft, CTG)의 구개부 채취 morbidity를 회피하는 대안으로 얼마나 유효한지를 정량화한, Periodontology 2000의 systematic review + network meta-analysis(NMA, 109 RCT · 4712 결손 · 3188명). 자매 PRF 근거인 [[wiki/periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]](비외과 치주에서의 iPRF)와 [[wiki/oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]](발치와 PRF)의 PRF 적응증 지도를 근면피복 영역으로 확장한다. 또한 치주성형 술식 선택 프레임인 [[wiki/periodontics/mucogingival-surgery-apf-fgg-ctg]]에 "PRF는 언제 CTG를 대체하나(baseline KTW 존재 시)"라는 정량 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + network meta-analysis (109 RCTs, 4712 RT1 recessions, 3188 patients; Periodontology 2000, 2024): among APCs added to a coronally advanced flap (CAF), only CAF+PRF significantly increased mean root coverage over CAF alone (+6.12%, 95% CI 1.83–10.42, p=0.02) — PRP and CGF did not — and the PRF benefit grew with more baseline keratinized tissue width (KTW), while no APC improved KTW or gingival thickness (GT).
+Systematic review + network meta-analysis (109 RCTs, 4712 RT1 recessions, 3188 patients) comparing autologous platelet concentrates (APC — PRF, PRP, CGF) added to coronally advanced flap (CAF) vs CAF alone for root coverage; Periodontology 2000, 2024; PROSPERO-registered; RoB-2 assessed.
 
-## 한줄요약
+Only CAF+PRF significantly increased mean root coverage over CAF alone (+6.12%, 95% CI 1.83–10.42, p=0.02); PRP and CGF showed no significant benefit; PRF's advantage grew with greater baseline keratinized tissue width (KTW interaction +4.98, p=0.03); no APC improved KTW or gingival thickness (GT).
 
-체계적 문헌고찰 + 네트워크 메타분석(109 RCT · RT1 치은퇴축 4712 · 환자 3188명; Periodontology 2000, 2024): 치관변위판막(CAF)에 더한 자가혈소판농축물 중 CAF+PRF만 CAF 단독 대비 평균 근면피복을 유의하게 높였고(+6.12%, 95% CI 1.83–10.42, p=0.02), PRP·CGF는 무의미; PRF 효과는 baseline 각화조직폭(KTW)이 클수록 커졌으나 어떤 APC도 KTW·치은두께(GT)는 개선하지 못함.
+PRF is the only APC that significantly augments CAF root coverage and is most beneficial when a baseline KTW band exists; APCs cannot replace CTG for KTW/GT gain, so CTG remains preferred in KTW-deficient or deep recession sites.
+
+## 세줄요약
+
+SR + 네트워크 메타분석(109 RCT · RT1 치은퇴축 4712 · 환자 3188명) — CAF에 자가혈소판농축물(APC: PRF·PRP·CGF) 추가 vs CAF 단독 근면피복 비교; Periodontology 2000, 2024; PROSPERO 등록; RoB-2 평가.
+
+CAF+PRF만 평균 근면피복(mRC)을 유의하게 증가(+6.12%, 95% CI 1.83–10.42, p=0.02); PRP·CGF는 무의미; PRF 효과는 baseline 각화조직폭(KTW)이 클수록 증가(상호작용 +4.98, p=0.03); 어떤 APC도 KTW·치은두께(GT) 개선 없음.
+
+PRF는 CAF 근면피복을 유의하게 향상시키는 유일한 APC이며, baseline KTW가 충분한 부위에서 효과가 가장 크다; APC는 CTG의 KTW/GT 증대를 대체할 수 없으므로 KTW 부족·깊은 퇴축 부위에서는 CTG가 여전히 우선이다.
 
 ## 1. Document Information
 

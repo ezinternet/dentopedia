@@ -13,13 +13,23 @@ source_collection: external
 
 리튬 디실리케이트 도재에 대한 실란 종류 및 접착제 병용 여부가 전단결합강도에 미치는 영향을 체계적으로 비교한 인 비트로 연구. [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]]의 실란 처리 시기 논의를 보강하며, 실험적 순수 실란 + 접착제 조합이 상용 단독 실란보다 우수함을 보여준다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In vitro study (n=70, 7 groups) comparing silane surface treatments on HF-etched lithium disilicate: experimental silane + adhesive achieved highest SBS (45.49 MPa), with bonding method mattering more than silane brand.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 인 비트로 연구 (n=70, 7그룹): HF 산처리된 리튬 디실리케이트에 대한 실란 처리 비교 — 실험적 순수 실란 + 접착제 조합이 최고 전단결합강도(45.49 MPa)를 보였으며, 실란 종류보다 접착제 추가 여부가 더 중요했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

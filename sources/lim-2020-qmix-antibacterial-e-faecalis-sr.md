@@ -9,7 +9,7 @@ pdf_filename: lim-2020-qmix-antibacterial-e-faecalis-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review of 14 in vitro studies: QMix superior to NaOCl, EDTA, CHX, MTAD, and Cetrimide against E. faecalis; superior to NaOCl only when contact >10 min or volume >3 mL.
 
 ## 1. Document Information

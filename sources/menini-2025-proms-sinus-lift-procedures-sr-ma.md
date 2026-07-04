@@ -15,13 +15,23 @@ source_collection: external
 
 주의: 본 source는 출판사(Quintessence) preprint 웹페이지의 구조화 abstract만으로 작성됨 (full text 미접근). 수치·세부는 정식 출판본으로 재검증 필요. [미검증]
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (12 RCTs + 1 non-RCT) of patient-reported outcomes in sinus floor elevation finding graftless and transcrestal approaches associated with less postoperative pain/discomfort than grafted lateral SFE, with overall evidence sparse.
 
-## 한줄요약
+(incomplete)
 
-PROM 중심 SR+MA(RCT 12 + 비RCT 1) — 무이식(graftless)·경치조(transcrestal) 접근이 이식 동반 측방 상악동거상보다 술후 통증·불편감이 적음; 다만 PROM 근거 자체는 희박. [미검증, abstract 기반]
+(incomplete)
+
+## 세줄요약
+
+
+PROM 중심 SR+MA(RCT 12 + 비RCT 1) — 무이식(graftless)·경치조(transcrestal) 접근이 이식 동반 측방 상악동거상보다 술후 통증·불편감이 적음;
+
+다만 PROM 근거 자체는 희박.
+
+[미검증, abstract 기반]
 
 ## 1. Document Information
 - Int J Oral Maxillofac Implants (IJOMI), Pre-Print. DOI: 10.11607/jomi.11434; PMID 40553622. Dated 2025-06-24, pages 1–24.

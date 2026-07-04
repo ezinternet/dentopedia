@@ -9,8 +9,21 @@ pdf_filename: di-spirito-2022-endodontic-pain-management-overview.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Overview of SRs (Healthcare 2022): 근관 술후통증에서 NSAIDs 1차 선택, 코르티코스테로이드 보조 유효; 술전투여 병용이 최적; 기술적 요소(기구 조작 범위, 세정, 폐쇄 여부)도 통증에 영향.
+## Three-line Summary
+
+Overview of systematic reviews combined with a narrative review of technical factors (Healthcare 2022; University of Salerno/Milan) integrating evidence on orally administered medications and procedural variables for post-operative endodontic pain management.
+
+NSAIDs (particularly ibuprofen ± acetaminophen) are the first-line pharmacological choice; corticosteroids (dexamethasone) provide additive benefit in combination; preemptive (pre-operative) administration is more effective than post-operative-only dosing; post-operative pain prevalence ranges from 2.5–60%, peaking at 6–12 h.
+
+Clinical recommendations integrate pharmacological and technical strategies — instrument extrusion beyond the apex, high NaOCl concentration/volume, and single-visit treatment are associated with increased post-operative pain, and should be considered alongside analgesic protocols.
+
+## 세줄요약
+
+체계적 문헌고찰 개요(Overview of SRs) + 기술적 요소 서사 문헌고찰 통합 연구(Healthcare 2022; 살레르노대·밀라노 개인 임상): 근관치료 후 경구 약물 투여와 술식 관련 변수가 술후통증에 미치는 영향을 근거 통합하여 임상 권고안 도출.
+
+NSAIDs(특히 이부프로펜)가 1차 선택; 코르티코스테로이드(덱사메타손) 병용 시 추가 이득; 술전 예방적 투여(preemptive analgesia)가 술후 단독 투여보다 효과적; 술후통증 유병률 2.5~60%, 6~12시간에 정점.
+
+기술적 전략: 근관장 초과 기구 조작, 과잉 세정(높은 차아염소산나트륨 농도/양), 1회법 치료 등이 술후통증 증가와 관련되므로 약물 프로토콜과 함께 통합 고려 필요.
 
 ## 1. Document Information
 Healthcare 2022;10:760. doi:10.3390/healthcare10050760. Open access. University of Salerno + Milan private practice. SR들의 overview + 기술적 접근 narrative review 통합.

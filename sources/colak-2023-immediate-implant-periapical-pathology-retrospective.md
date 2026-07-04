@@ -10,8 +10,21 @@ pdf_filename: colak-2023-immediate-implant-periapical-pathology-retrospective.pd
 source_collection: external
 ---
 
-## One-line Summary
-Turkey 후향 연구 (BMC Oral Health 2023, n=69 환자 / 124 implants): 만성 근첨병변 (chronic periapical pathology) 발치 소켓에 즉시 식립 — 3개 그룹 비교: G1 즉시 식립, G2 즉시 + GBR, G3 sinus lift + 즉시. 생존율 비교 분석.
+## Three-line Summary
+
+Retrospective single-center study (Turkey, n=69 patients, 124 implants) comparing survival of immediately placed implants in extraction sockets with chronic periapical pathology across three strategies: immediate placement alone, immediate placement + GBR, and immediate placement + sinus lift.
+
+All three groups achieved survival rates reported as clinically acceptable; no statistically significant between-group differences were identified in this limited retrospective cohort.
+
+Immediate implant placement in chronically infected sockets remains feasible but generalizable evidence is limited by the single-center retrospective design and short follow-up.
+
+## 세줄요약
+
+후향적 단일 기관 연구(터키, n=69명·124개 임플란트): 만성 근첨병변 발치 소켓에서 즉시 식립(G1 단독/G2+GBR/G3+상악동거상술) 3군의 임플란트 생존율 비교.
+
+3군 모두 임상적으로 허용 가능한 생존율을 보고했으며 군간 통계적 유의차 없음.
+
+만성 감염 소켓의 즉시 식립 가능성을 시사하지만 단일 기관·후향적 설계·짧은 추적 기간으로 근거 수준이 낮음.
 
 ## 2. Key Contributions
 - 만성 근첨병변 소켓 즉시 식립 생존율 평가.

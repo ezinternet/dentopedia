@@ -14,11 +14,21 @@ ingest_note: "PubMed page capture: abstract only. Full body text not obtained."
 ## Why Ingested
 Abfraction에 가장 우호적인 SR — abfraction 논쟁의 "찬성" 극점. [[nccl/senna-2012-nccl-occlusion-systematic-review]]·[[nccl/silva-2013-occlusal-factors-nccl-systematic-review]]의 "임상 무연관"과 정면 대비, [[nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review]]가 이 SR을 재비판.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review (69 publications: 31 clinical + 38 laboratory) reporting that 81% found an association between occlusal stress and NCCLs, though no clinical study showed stress as the sole cause.
 
-## 한줄요약
-abfraction SR 69편(임상31·실험38) — 81%가 교합응력-NCCL 연관 보고, 단 응력 단독 원인 입증 임상연구는 없음.
+Among the included studies, 56/69 (81%) reported an occlusal stress-NCCL association; 24 of 38 laboratory (FEA) studies showed cervical stress concentration, supporting the abfraction biomechanical hypothesis.
+
+Single-keyword search ("abfraction") likely biases toward stress-positive literature, limiting generalizability; abstract-only ingest prevents full appraisal of study quality and potential confounders in clinical evidence.
+
+## 세줄요약
+
+Abfraction SR: 69편(임상 31, 실험 38) — 56/69(81%)이 교합응력과 NCCL 연관을 보고했으나, 응력 단독을 원인으로 입증한 임상연구는 없음.
+
+실험실 증거(FEA 38편 중 24편)는 경부 응력집중을 보여 abfraction 생역학 가설 지지; 하지만 임상 증거는 응력의 필요조건·충분조건 미확인.
+
+단일 키워드 검색("abfraction")은 응력-양성 문헌으로 편향되었을 가능성 높음; 초록 전용 수집으로 임상 논문의 질 평가·교란변수 검토 제한됨.
 
 ## 1. Document Information
 - Am J Dent 2017;30(4):212-220. PMID 29178704. Searched PubMed, ISI Web of Science, EMBASE (keyword "abfraction").

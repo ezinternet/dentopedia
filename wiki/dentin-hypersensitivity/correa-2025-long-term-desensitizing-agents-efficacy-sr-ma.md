@@ -21,13 +21,21 @@ relations:
     target: kaur-2026-dentin-hypersensitivity-enigma-revisited
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (22 studies / 15 meta-analyzed; RCTs, ≥6-month follow-up, 1991–2024): for long-term dentin-hypersensitivity relief, glutaraldehyde and low-level laser therapy achieved the largest effect sizes, whereas adhesive systems and calcium-phosphate–based agents showed no statistically significant long-term benefit (abstract-only).
+SR+MA (22 RCTs in SR, 15 meta-analyzed; ≥6-month follow-up; search 1991–2024, PROSPERO CRD42020210693) of dentin hypersensitivity treatment agents grouped by mechanism — tubular occlusion, neural blocking, or both.
 
-## 한줄요약
+Glutaraldehyde and low-level laser therapy (LLLT) achieved the largest effect sizes for long-term pain reduction; adhesive systems and calcium-phosphate–based agents showed no statistically significant long-term benefit.
 
-SR+MA(22편/메타 15편, RCT·최소 6개월 추적, 1991–2024): 지각과민 장기 완화에서 **글루타르알데히드(Gluma 계열)와 저출력 레이저(LLLT)가 최대 효과크기**, 반면 **접착시스템·칼슘인산염계는 통계적으로 유의한 장기 효과 없음** (초록 기반).
+This is the first long-term–specific DH SR+MA; short-term efficacy does not guarantee durability — glutaraldehyde and LLLT are the best-supported choices when lasting relief is the clinical priority.
+
+## 세줄요약
+
+SR+MA (체계적 문헌고찰 22편, 메타분석 15편; RCT, 최소 6개월 추적, 검색 1991–2024): 상아질 과민증(Dentin Hypersensitivity, DH) 치료제를 기전별(세관 폐쇄·신경 차단·복합)로 분류, 장기 효과 분석.
+
+글루타르알데히드(glutaraldehyde, Gluma 계열)와 저출력 레이저(Low-Level Laser Therapy, LLLT)가 최대 효과크기; 접착시스템·칼슘인산염계(CPP-ACP 등)는 장기 유의 효과 없음.
+
+장기 완화를 목표로 할 때 글루타르알데히드·LLLT가 최우선 근거 기반 선택 — 단기 효과와 장기 효과를 구별하여 치료 계획 수립 필요.
 
 ## Summary
 

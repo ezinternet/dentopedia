@@ -35,13 +35,21 @@ tags: [tooth-whitening, bleaching, hydrogen-peroxide, carbamide-peroxide, tooth-
 > - **효과 없는 감작 보조제**: 오존화 오일(ozonized oil)은 자가 10% HP 미백 유발 민감도에 효과 없음(VAS p=0.536), 미백 효과도 없고, 환자 수용도도 낮다 (Campolina 2025, n=40 이중맹검 RCT). 질산칼륨(potassium nitrate)·불소(fluoride)가 근거 있는 탈감작제다.
 > - **전반적 근거 수준**: 12편 모두 **GRADE low** 또는 그 이하(인비트로 포함) — 방향은 일관되나 효과 크기·장기 지속은 불확실. 모든 임상 결정에 이 제한을 반영해야 한다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 12 papers (7 SR/MA/NMA + 3 RCT + 1 SR + 1 in vitro) on tooth whitening: in-office and at-home vital bleaching achieve equivalent shade change (the real levers are concentration and agent type — CP offers marginally better ΔE with less sensitivity than HP at comparable concentrations; intermediate concentrations dominate extremes on the efficacy-safety trade-off); 6% HP is a valid low-sensitivity in-office option; 2×8 min protocol is optimal for in-office application time; enamel microhardness reduction (~11%) is clinically unlikely meaningful and driven by exposure time not concentration; existing composite restorations do not whiten; single non-vital discolored teeth need internal walking-bleach; ozonized oil as desensitizer is ineffective; OTC strips/gels work short-term with minimal adverse effects — all at uniformly low certainty.
+Synthesis of 12 papers (7 SR/MA/NMA + 3 RCT + 1 SR + 1 in vitro) on vital and non-vital tooth whitening: in-office and at-home bleaching achieve equivalent shade change (ΔSGU), with CP outperforming HP on ΔE and causing less sensitivity at comparable concentrations, and intermediate concentrations optimal on the efficacy-safety trade-off.
 
-## 한줄요약
+6% HP is a valid low-sensitivity in-office alternative; 2×8 min protocol is optimal; enamel microhardness reduction (~11%, driven by time not concentration) has uncertain clinical relevance; existing composites do not whiten; single non-vital teeth need internal walking-bleach; ozonized oil as desensitizer is ineffective; OTC strips/gels work short-term.
 
-치아미백 12편 종합(SR/MA 7 + RCT 3 + SR 1 + 인비트로 1): 활력치 진료실·자가 미백은 색조 단위가 동등하고, CP가 HP보다 ΔE 우세·고농도에서 민감도 낮으며, 중간 농도가 효능·안전의 최적점이고, 진료실 6% HP는 민감도 절감 대안이며, 2×8분이 최적 프로토콜이고, 법랑질 경도 감소는 임상적 유의성 낮고, 기존 복합체 수복물은 미백 안 되고, 실활 단일 변색치는 내부미백이고, 오존화오일 탈감작은 효과 없으며, OTC 스트립·트레이는 단기 효과 있고 근거는 일관되게 낮음.
+All evidence at uniformly low certainty; clinical decisions are guided by route preference, sensitivity risk, and restoration type rather than efficacy differences between agents.
+
+## 세줄요약
+
+치아미백 12편 종합(SR/MA 7 + RCT 3 + SR 1 + 인비트로 1): 활력치 진료실·자가 미백은 색조 단위 동등, CP가 HP보다 ΔE 우세·고농도 민감도 낮으며 중간 농도가 최적점이고 6% HP는 민감도 절감 대안이며 2×8분이 최적 프로토콜이다.
+
+법랑질 경도 감소(~11%)는 농도가 아닌 노출시간 의존이며 임상 유의성 불명; 기존 복합체 수복물은 미백 안 되고 실활 단일 변색치는 내부미백(walking-bleach)이며 오존화오일 탈감작은 효과 없고 OTC 스트립·트레이는 단기 효과 있다.
+
+근거 수준은 일관되게 낮아 임상 결정은 효능 차이보다 술식 선호·민감도 위험·수복물 유형으로 안내한다.
 
 ## Thesis
 

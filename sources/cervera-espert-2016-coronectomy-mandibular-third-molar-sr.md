@@ -9,8 +9,21 @@ pdf_filename: cervera-espert-2016-coronectomy-mandibular-third-molar-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA (12 articles): coronectomy causes significantly less IAN sensory loss and fewer dry sockets than complete extraction; root migrates average 2 mm within 2 years; no difference in pain or infection.
+## Three-line Summary
+
+SR+MA of 12 articles on coronectomy of impacted mandibular third molars in contact with the inferior alveolar canal (IAC), including publications up to 2014 with minimum 10 cases and 6-month follow-up.
+
+Coronectomy produced significantly less inferior alveolar nerve (IAN) sensory loss and fewer dry sockets than complete extraction; no significant difference in pain or infection; residual root migrated an average of 2 mm over 2 years but rarely required reintervention.
+
+Coronectomy is strongly indicated when the mandibular third molar is in direct contact with the IAN; studies predated widespread CBCT adoption, and longer-term root migration data remain limited.
+
+## 세줄요약
+
+IAC(하치조신경관)에 인접한 하악 제3대구치 편평매복치의 치관절제술(Coronectomy)에 관한 12편 SR+MA (2014년까지, 최소 10증례·6개월 추적).
+
+치관절제술이 완전 발거에 비해 하치조신경(IAN) 감각이상을 유의하게 줄이고 건성 발치와도 더 적었으며, 통증·감염에는 유의차 없음; 잔존 치근은 평균 2 mm(2년) 이동하나 재수술이 필요한 경우는 드묾.
+
+하악 제3대구치가 IAN에 직접 접촉하는 경우 치관절제술이 강력히 적응되며, 포함 연구들은 CBCT 보편화 이전 연구이고 장기 치근 이동 데이터는 제한적.
 
 ## 1. Document Information
 - **Journal**: Med Oral Patol Oral Cir Bucal. 2016 Jul 1;21(4):e505-13

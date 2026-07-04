@@ -13,11 +13,21 @@ source_collection: external
 
 OMS 클러스터([[wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]])의 핵심 임상 질문 — "근단병소 크기/유형이 상악동 점막비후에 어느 정도 기여하는가?" — 에 직접 답하는 정량적 CBCT + 조직면역병리 데이터 제공. 기존 OMS 페이지들이 병인 서술에만 머문 부분을 MSMT 수치 및 면역세포 프로필로 보강.
 
-## One-line Summary
-Prospective observational study (n=50 patients, 328 teeth) using CBCT + histology/IHC showing periapical lesions correlate with significantly greater maxillary sinus mucosal thickening (3.95 mm vs 1.23 mm, p<0.01), with 50% granuloma and 40% cyst distribution and characteristic CD20+/CD79α+-dominant immune infiltrate.
+## Three-line Summary
 
-## 한줄요약
-CBCT + 조직/면역병리 관찰연구(n=50, 치아 328개) — 근단병소 있는 치아 인접 상악동 점막두께 3.95 mm vs 병소 없는 치아 1.23 mm (p<0.01); 병소 분포는 육아종 50% + 낭종 40%; 면역세포는 CD20+/CD79α+ B림프구 우세.
+Prospective observational study (n=50 patients, 328 maxillary teeth) using CBCT + histology/immunohistochemistry showing that teeth with periapical lesions had significantly greater maxillary sinus mucosal thickening (MSMT 3.95 ± 0.8 mm) compared to healthy teeth (1.23 ± 0.6 mm, p<0.01).
+
+Lesion histopathology: 50% periapical granuloma, 40% periapical cyst, 10% granuloma with cystic potential; immune profiling showed CD4+/CD8+ T-lymphocytes diffuse across all lesions, with CD20+ B-lymphocytes and CD79α+ plasma cells predominantly in granulomas.
+
+MSMT Class 5 (>10 mm) occurred in 33% of sinuses adjacent to periapical lesions; clinically significant for sinus-lifting and implant planning decisions post-periapical surgery, though sample size was small and thresholds require validation in larger cohorts.
+
+## 세줄요약
+
+CBCT + 조직/면역병리 관찰연구(n=50, 치아 328개) — 근단병소 있는 치아 인접 상악동 점막두께 3.95 mm vs 병소 없는 치아 1.23 mm (p<0.01);
+
+병소 분포는 육아종 50% + 낭종 40%;
+
+면역세포는 CD20+/CD79α+ B림프구 우세.
 
 ## 1. Document Information
 - **Journal**: Medicina (MDPI), 2021, 57(8), 840

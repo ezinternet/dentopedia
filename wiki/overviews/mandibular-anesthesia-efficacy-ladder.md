@@ -30,13 +30,21 @@ relations:
 > - **오판 패턴**: "하악구치는 무조건 IANB" — 비가역 치수염에선 IANB 단독 자주 실패, articaine BI가 동등 대안이며 실패 시 보충 필수. "보충 vs 병용 중 하나가 우월" — Network MA상 동등.
 > - **확신도**: 1차 BI(성인)·마취제 통증·N2O = 근거강함; 소아 BI·보충/병용 = 합의수준. 4% articaine IANB 전달의 신경독성 논쟁은 별도 고려.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the new local-anesthesia cluster: for mandibular molars (especially "hot teeth" with symptomatic irreversible pulpitis), 4% articaine buccal infiltration is statistically comparable to lidocaine IANB in both adults and children; when IANB fails, supplementary and combined injections each roughly double the success rate and are equivalent to each other; articaine beats mepivacaine on pain (not success); nitrous-oxide sedation succeeds ~95%, higher in adults than children.
+5-paper synthesis organized as a 4-rung ladder for mandibular molar anesthesia in symptomatic irreversible pulpitis: 4% articaine buccal infiltration is statistically equivalent to lidocaine IANB in both adults (RR 1.06, moderate certainty; Saatchi 2025 SR+MA, 5 RCTs) and children (OR 1.02, NS; Yu 2021 SR+MA, 7 RCTs), and when IANB fails, supplementary (RR 2.02) and combined (RR 1.86) injections are each significantly superior to IANB alone and equivalent to each other (Rujirawan 2025 Network MA, 28 RCTs).
 
-## 한줄요약
+Articaine yields equivalent success rates to mepivacaine but significantly lower post-procedure pain (MD 0.59, p<0.001; Alkandari 2024 SR+MA); intraosseous anesthesia (QuickSleeper5) achieves 100% single-injection success in hot molars vs 70.8% for articaine buccal infiltration (p<0.001; Park 2024 retrospective), establishing IO as a primary alternative; long-acting bupivacaine reduces analgesic consumption and 20% benzocaine topical reduces pain in irreversible pulpitis (Miroshnychenko 2023 GRADE).
 
-신설 local-anesthesia 5편 통합. 하악구치(특히 증상성 비가역 치수염 hot tooth)에서 4% articaine 협측침윤은 성인·소아 모두 lidocaine IANB와 통계적으로 동등하다. IANB 실패 시 보충주사·병용주사는 각각 성공률을 약 2배로 올리며 서로 동등하다. articaine는 mepivacaine보다 통증에서 우위(성공률은 동등). 아산화질소 진정 성공률은 ~95%로 성인이 소아보다 높다.
+Nitrous-oxide sedation succeeds in 94.9% of cases, significantly higher in adults (99.9%) than children (91.9%, p=0.002; Rossit 2021 SR+MA, 19 RCTs); the key clinical error is repeating IANB when lip numbness is present but tooth pain persists — this indicates accessory innervation, not technique failure, and warrants supplementary/alternative strategy instead.
+
+## 세줄요약
+
+하악구치(증상성 비가역 치수염) 마취 4단 ladder — 5편 종합: 1단(1차 선택) 4% articaine 협측침윤은 성인(RR 1.06, Saatchi 2025 SR+MA, 5 RCT)·소아(OR 1.02, NS; Yu 2021 SR+MA, 7 RCT) 모두 lidocaine IANB와 동등.
+
+2단(IANB 실패 시 보강) 보충주사(RR 2.02)·병용주사(RR 1.86)는 IANB 단독보다 유의 우월하고 서로 동등(Rujirawan 2025 Network MA, 28 RCT); 골내마취는 보충주사 없이 성공률 100% vs 협측침윤 70.8%(p<0.001; Park 2024 후향, 단 지속시간 짧음). 3단(마취제 선택) articaine는 mepivacaine 대비 성공률 동등·통증 유의 감소(MD 0.59, p<0.001; Alkandari 2024).
+
+4단(진정 보조) N2O-O2 성공률 94.9%(성인 99.9% > 소아 91.9%, p=0.002; Rossit 2021 SR+MA, 19 RCT); "입술 마비 있는데 치아가 아프면 반복 IANB" 대신 부신경지배를 의심하고 보충·대체 전략으로 전환하라.
 
 ## Summary
 

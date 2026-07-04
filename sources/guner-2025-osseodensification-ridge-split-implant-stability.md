@@ -17,13 +17,23 @@ text_filename: guner-2025-osseodensification-ridge-split-implant-stability.txt
 
 Rittipakorn-2025 clockwise OD cadaveric study의 reference surveillance 인제스트. OD가 실제 임상(ridge split 동시 임플란트)에서 ISQ ≥65 loading threshold를 달성하는지 확인. 상악 저밀도 골에서 유의한 ISQ 이점을 확인해 [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]]의 임상 번역을 지지.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=268 implants, 65 patients) comparing OD vs conventional Esset kit in ridge-split procedures: OD significantly improved stability in maxilla and mandibular posterior, with all OD implants maintaining ISQ ≥65; bone gain was equivalent.
 
-## 한줄요약
+Retrospective study (n=268 implants, 65 patients) comparing OD vs conventional Esset kit in ridge-split procedures: OD significantly improved stability in maxilla and mandibular posterior, with all OD implants maintaining ISQ ≥65;
+
+bone gain was equivalent.
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 연구(268개 임플란트, 65명): OD는 상악 및 하악 구치부에서 유의하게 높은 ISQ를 보였고 모든 OD 임플란트가 ISQ ≥65를 유지했으나, 골폭 획득은 기존 방법과 동등했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Title:** Comparing the Effect of Osseodensification Versus Conventional Drilling Technique on Implant Stability and Bone Width in the Alveolar Ridge Split Procedure: A Retrospective Study

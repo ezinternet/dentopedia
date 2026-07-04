@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 기존 [[overviews/sinus-lift-technique-selection]] Section 4.1 "graft 무용론"은 Sansupakorn 2024·Volpe 2022·Zhao 2018 등 개별 RCT/retrospective 중심이다. 이 SR+MA(22편, 864 임플란트)는 graft-free SFE의 **정량적 상위 근거(ISR 97.9%, VBG 3.8mm)**를 제공해 무이식 거상의 근거 등급을 sr+ma로 끌어올린다. [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] 비이식 TSFE 메타분석과 상호보강.
 
-## One-line Summary
-Systematic review + meta-analysis (22 studies, 864 implants placed simultaneously with graft-free sinus floor elevation, lateral or transcrestal): mean implant survival 97.9%, mean vertical bone gain 3.8 mm.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰+메타분석(22편, 무이식 상악동거상 동시식립 864 임플란트): 평균 임플란트 생존율 97.9%, 평균 수직 골증대 3.8mm.
+Systematic review + meta-analysis of 22 studies (864 implants placed simultaneously with graft-free sinus floor elevation via lateral or transcrestal approach): mean residual bone height 5.7 ± 1.7 mm.
+
+Pooled implant survival rate 97.9% ± 0.02% (range 93.5%–100%); weighted mean vertical bone gain 3.8 ± 0.34 mm; weighted mean marginal bone loss 0.91 ± 0.11 mm at follow-up.
+
+Vertical bone gain is significantly determined by surgical approach, implant length, and protruded implant length post-operatively (R² = 19.1%, 39.3%, 83.9% respectively); graft-free approach achieves clinical benchmarks without biomaterial.
+
+## 세줄요약
+
+22편 논문의 체계적 문헌고찰+메타분석(무이식 상악동거상술(Graft-Free SFE) 동시 임플란트식립 864개, 측방·경치조골 접근법): 평균 잔존골높이 5.7 ± 1.7 mm.
+
+총 임플란트 생존율 97.9% ± 0.02% (범위 93.5%–100%); 가중평균 수직 골증대 3.8 ± 0.34 mm; 추적 시점의 가중평균 변연골소실 0.91 ± 0.11 mm.
+
+수직 골증대는 수술 접근법·임플란트 길이·술후 임플란트 돌출부 길이에 유의미하게 좌우됨(R² = 19.1%, 39.3%, 83.9%); 무이식 상악동거상술은 이식재 없이도 임상적 기준값 달성 가능.
 
 ## 1. Document Information
 - Journal: Journal of Periodontology 2017;88(6):550–564

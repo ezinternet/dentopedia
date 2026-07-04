@@ -19,13 +19,21 @@ relations:
     target: karm-2017-lidocaine-epinephrine-200000-third-molar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vivo (Sprague-Dawley rat) development study of a buffered, epinephrine-free 2% lidocaine formulation (LW/O/E "Sample 3A": lactated Ringer's + dextrose + amino-acid bitter-blockers, pH 6.7–7.0, 590–610 mOsm/kg): viscosity, injectability, and anesthetic duration (tail-flick and hot-plate latency) comparable to commercial 2% lidocaine+1:100,000 epinephrine (LW/E), with reduced bitterness and only minor transient erythema/edema.
+In-vivo (Sprague-Dawley rat) formulation development study of a buffered, epinephrine-free 2% lidocaine (LW/O/E "Sample 3A": lactated Ringer's vehicle + dextrose + amino-acid bitter-blockers, pH 6.7–7.0, ~600 mOsm/kg) versus commercial 2% lidocaine + 1:100,000 epinephrine (LW/E).
 
-## 한줄요약
+Sample 3A matched LW/E on viscosity, injectability, and anesthetic duration (tail-flick and hot-plate latency, NS at most timepoints); bitterness was reduced (ETongue) and local toxicity was minor and transient (erythema 1.4 ± 0.6 at 6 h, resolved by 24 h).
 
-In-vivo(Sprague-Dawley 랫드) 개발 연구 — 에피네프린 없는 완충 2% lidocaine 제형(LW/O/E "Sample 3A": 락테이트 링거 + 덱스트로스 + 아미노산 쓴맛차단제, pH 6.7–7.0, 590–610 mOsm/kg)이 점도·주사성·마취 지속시간(꼬리튕김·핫플레이트 잠복기)에서 상용 2% lidocaine+1:100,000 에피네프린(LW/E)과 동등, 쓴맛 감소·일시적 경미 홍반/부종만 관찰.
+This is an animal-model proof-of-concept for duration via osmolality/viscosity rather than vasoconstrictor — human pulpal data are still required before any clinical adoption.
+
+## 세줄요약
+
+Sprague-Dawley 랫드를 이용한 완충·에피네프린-비함유 2% 리도카인(LW/O/E "Sample 3A": 락테이트 링거 비히클 + 덱스트로스 + 아미노산 쓴맛 차단제, pH 6.7–7.0, ~600 mOsm/kg) 제형 개발 연구로, 상용 2% 리도카인+1:100,000 에피네프린(LW/E)과 비교.
+
+점도·주사성·마취 지속시간(꼬리튕김·핫플레이트 잠복기)에서 LW/E와 동등(대부분 시점 NS); 쓴맛 감소(전자혀 검증), 국소 독성 경미·일시적(6시간 홍반 1.4 ± 0.6, 24시간 내 소실).
+
+혈관수축제 없이 삼투압/점도로 마취 지속을 달성한 동물 수준 개념 증명 — 임상 적용 전 인체 치수 마취 데이터가 필요하다.
 
 ## Summary
 

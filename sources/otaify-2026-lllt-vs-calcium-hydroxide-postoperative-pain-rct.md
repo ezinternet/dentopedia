@@ -17,13 +17,23 @@ text_filename: otaify-2026-lllt-vs-calcium-hydroxide-postoperative-pain-rct.txt
 
 Our intracanal-medicament pages — [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]], [[endodontics/irrigation/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr]], and [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]] — frame Calcium Hydroxide (CH) as the default inter-appointment dressing. This RCT (Otaify 2026, n=46) is the first head-to-head of low-level laser therapy (LLLT) vs CH for symptomatic apical periodontitis, adding objective ELISA biomarkers (IL-8, Substance P) on top of VAS pain. It extends those SR pages by testing whether a single-visit LLLT protocol can replace CH for acute symptom/inflammation control — relevant to the single-visit-vs-multi-visit debate.
 
-## One-line Summary
+## Three-line Summary
+
 
 Parallel RCT (n=46, single-canalled symptomatic apical periodontitis) found low-level laser therapy and Calcium Hydroxide intracanal medication gave statistically comparable postoperative pain, percussion pain, and reduction of periapical IL-8 and Substance P (all intergroup p>0.05), supporting LLLT as a single-visit alternative for acute symptom control — but CH's antimicrobial role was not tested.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 단일근관 증상성 치근단치주염 RCT (n=46)에서 저출력레이저치료 (Low-Level Laser Therapy, LLLT)와 수산화칼슘 (Calcium Hydroxide, CH) 근관내 첩약은 수술후 통증·타진통·치근단 IL-8·물질P 감소가 통계적으로 동등(군간 모두 p>0.05)했고, LLLT가 단일내원 대체 옵션이 될 수 있으나 CH의 항균 역할은 평가하지 않았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

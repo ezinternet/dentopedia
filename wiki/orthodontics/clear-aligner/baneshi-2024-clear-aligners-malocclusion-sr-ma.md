@@ -16,13 +16,21 @@ text_filename: baneshi-2024-clear-aligners-malocclusion-sr-ma.txt
 tags: [clear-aligner, fixed-appliance, rct, meta-analysis, periodontal-index, quality-of-life, occlusal-outcome]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 21 RCTs (n=970): no significant difference between clear aligners and fixed appliances in occlusal outcome (ABO/LII/PAR) for simple non-extraction malocclusions; CA significantly better on plaque/gingival/bleeding indices and 6-month QoL; evidence quality low-to-moderate.
+SR+MA of 21 RCTs (n=970; 6 databases to Oct 2024; RoB 2; RevMan 5.4) comparing clear aligners vs fixed appliances in simple non-extraction malocclusions; the highest-evidence aligner-vs-fixed comparison available.
 
-## 한줄요약
+No significant difference in occlusal outcome (ABO/LII/PAR); clear aligners significantly better on plaque index (MD −0.76), gingival index (MD −0.61), bleeding index (MD −0.71), and 6-month quality of life (MD −4.37) — all favoring CA.
 
-RCT 21편 SR+MA(n=970): 단순 비발치 부정교합에서 교합결과(ABO/LII/PAR)는 CA vs FA 차이 없음. 치태·치은·출혈지수와 6개월 QoL은 CA 유의 우위. 근거수준 low~moderate.
+For mild-to-moderate non-extraction cases, aligners deliver equivalent occlusal results while reducing periodontal/hygiene burden and improving early quality of life; complex malocclusions remain an evidence gap; evidence quality is low (periodontal) to moderate (QoL).
+
+## 세줄요약
+
+SR+MA (RCT 21편, n=970; 6개 DB, 2024.10까지; RoB 2; RevMan 5.4) — 단순 비발치 부정교합에서 투명교정장치(Clear Aligner, CA) vs 고정장치(Fixed Appliance, FA) 비교; 현존 최고 근거 수준.
+
+교합 결과(ABO/LII/PAR) CA vs FA 유의차 없음; CA가 치태지수(MD −0.76)·치은지수(MD −0.61)·출혈지수(MD −0.71)·6개월 삶의 질(QoL, MD −4.37) 모두 유의 우위.
+
+경중등도 비발치 증례에서 CA는 교합 동등성 유지 + 치주/위생 부담 감소 + 초기 QoL 향상; 복잡 증례는 근거 부재; 근거수준 치주 low·QoL moderate.
 
 ## Summary
 

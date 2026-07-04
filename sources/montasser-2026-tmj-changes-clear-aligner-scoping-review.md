@@ -17,13 +17,23 @@ text_filename: montasser-2026-tmj-changes-clear-aligner-scoping-review.txt
 
 `clear-aligner` surveillance sweep의 **TMJ/악관절 형태 변화 축**. 기존 [[wiki/orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]]가 저작·구강기능(stomatognathic) 측면을 다룬다면, 본 scoping review는 CBCT로 측정한 과두 위치·관절강·과두 형태 변화라는 구조적(영상) 축을 보강한다. CAT가 악관절에 구조적 변화를 일으키는지에 대한 근거 현황(4편·serious RoB·exploratory)을 정리해 연구 공백을 명시.
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR) of 4 retrospective CBCT studies on TMJ morphology after clear-aligner treatment: no significant condylar-position or joint-space change in adult Class I (extraction + non-extraction) and Class II non-extraction; Class II div 2 non-extraction showed forward condylar repositioning; growth-driven changes in adolescent Class II div 1 functional aligners. All 4 studies serious RoB (ROBINS-I) → evidence exploratory, not confirmatory.
 
-## 한줄요약
+Scoping review (PRISMA-ScR) of 4 retrospective CBCT studies on TMJ morphology after clear-aligner treatment: no significant condylar-position or joint-space change in adult Class I (extraction + non-extraction) and Class II non-extraction;
 
-CBCT 기반 후향 4편 scoping review(PRISMA-ScR): 성인 Class I(발치·비발치)·Class II 비발치에서 과두 위치·관절강 유의 변화 없음. Class II div 2 비발치는 과두가 전방(중심)으로 재위치, 청소년 Class II div 1 기능성 얼라이너는 성장 관련 변화. 4편 모두 serious RoB → 근거는 확정적 아닌 탐색적.
+Class II div 2 non-extraction showed forward condylar repositioning;
+
+growth-driven changes in adolescent Class II div 1 functional aligners. All 4 studies serious RoB (ROBINS-I) → evidence exploratory, not confirmatory.
+
+## 세줄요약
+
+
+CBCT 기반 후향 4편 scoping review(PRISMA-ScR): 성인 Class I(발치·비발치)·Class II 비발치에서 과두 위치·관절강 유의 변화 없음.
+
+Class II div 2 비발치는 과두가 전방(중심)으로 재위치, 청소년 Class II div 1 기능성 얼라이너는 성장 관련 변화.
+
+4편 모두 serious RoB → 근거는 확정적 아닌 탐색적.
 
 ## 1. Document Information
 

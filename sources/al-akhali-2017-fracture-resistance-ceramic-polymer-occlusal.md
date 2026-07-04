@@ -13,13 +13,21 @@ source_collection: external
 
 In-vitro benchmark study comparing fracture resistance of four CAD/CAM occlusal veneer materials (LD, LS, PI, PM) with and without thermodynamic chewing simulation — provides in-vitro fracture load data that underpins occlusal veneer material selection discussions in [[wiki/overviews/veneer-material-survival-protocol-overview]].
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=64 premolars, 4 groups) showed that lithium disilicate and zirconia-reinforced lithium silicate occlusal veneers (0.5/0.8 mm) exhibited significantly higher fracture resistance than polymer-infiltrated ceramic and PMMA; all materials survived 1.2 million chewing cycles and exceeded average posterior occlusal forces.
+In-vitro study (n=64 extracted premolars, 4 CAD/CAM material groups) comparing fracture resistance of 0.5/0.8 mm occlusal veneers before and after 1.2 million chewing cycles thermodynamic simulation.
 
-## 한줄요약
+Lithium disilicate (LD) and zirconia-reinforced lithium silicate (LS) showed significantly higher fracture resistance than polymer-infiltrated ceramic (PI) and PMMA (PM) without aging (P≤0.015); all four materials survived 1.2 million cycles without fracture.
 
-체외실험(n=64 소구치, 4군): 리튬디실리케이트(Lithium Disilicate, LD) 및 지르코니아강화 리튬실리케이트(Zirconia-Reinforced Lithium Silicate, LS) 교합 비니어(0.5/0.8 mm)가 고분자침투세라믹(Polymer-Infiltrated Ceramic, PI) 및 폴리메틸메타크릴레이트(PMMA, PM)보다 파절저항(Fracture Resistance, FR)이 유의하게 높았으며, 4개 군 모두 120만 회 저작시뮬레이션 후 생존하였다.
+All tested materials exceeded average posterior occlusal forces, supporting clinical use as ultra-thin occlusal veneers; thermodynamic loading paradoxically increased fracture resistance in LS, PI, and PM groups.
+
+## 세줄요약
+
+체외실험 (발거 소구치 n=64, CAD/CAM 재료 4군) — 0.5/0.8 mm 교합 비니어의 파절저항(Fracture Resistance, FR)을 120만 회 저작시뮬레이션 전후로 비교.
+
+리튬디실리케이트(Lithium Disilicate, LD)와 지르코니아강화 리튬실리케이트(Zirconia-Reinforced Lithium Silicate, LS)가 고분자침투세라믹(Polymer-Infiltrated Ceramic, PI) 및 폴리메틸메타크릴레이트(PMMA)보다 유의하게 높은 FR(P≤0.015); 4개 군 모두 120만 회 시뮬레이션 생존.
+
+모든 재료가 후방 교합력 평균을 초과해 초박형 교합 비니어로 임상 사용 가능하며, 열역학적 로딩이 LS·PI·PM군에서 FR을 오히려 상승시키는 역설적 결과가 관찰됨.
 
 ## 1. Document Information
 

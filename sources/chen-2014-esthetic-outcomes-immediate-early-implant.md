@@ -9,8 +9,21 @@ pdf_filename: chen-2014-esthetic-outcomes-immediate-early-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Systematic review (50 of 1,686 screened studies; 6 RCTs, 6 cohort, 5 cross-sectional, 33 case series of ≥5 patients on single-tooth maxillary anterior/premolar implants): immediate (type 1) placement carries a substantially higher rate of >1 mm midfacial mucosal recession (median 26%, range 9–41%, 1–3 years across 8 studies) than early (type 2/3) placement (no >1 mm recession in 2 studies); facial bone wall is undetectable on CBCT in 36–57% of type 1 grafted sites versus visible in >90% of type 2/3 contour-augmented sites.
+## Three-line Summary
+
+Systematic review (1,686 screened → 50 included; 6 RCTs, single-tooth maxillary anterior/premolar implants) comparing esthetic outcomes of immediate (type 1) vs early (type 2/3) implant placement.
+
+Type 1 immediate placement: >1 mm midfacial recession in median 26% of sites (range 9–41%, 8 studies, 1–3 yr); facial bone undetectable on CBCT in 36–57% of grafted sites; type 2/3 early placement: 0% recession >1 mm in 2 studies, >90% with detectable bone after contour augmentation.
+
+Type 1 placement carries substantially higher esthetic risk; absent facial bone wall is the structural cause of recession, making early placement + GBR contour augmentation the preferred sequence for esthetic-zone sites.
+
+## 세줄요약
+
+체계적 문헌고찰(1,686편 중 50편; RCT 6편 포함): 상악 전치·소구치부 단일치 임플란트에서 즉시식립(Type 1)과 조기식립(Type 2/3)의 심미 결과를 ITI 4차 컨센서스용으로 정량화.
+
+Type 1 즉시식립에서 >1 mm 순측 퇴축 발생률 중앙값 26%(범위 9–41%, 1–3년, 8편); Type 2/3 조기식립에서는 >1 mm 퇴축 0%; Type 1 이식 후 CBCT에서 순측골 비가시 비율 36–57% vs Type 2/3 윤곽증대술 후 >90% 가시.
+
+즉시식립은 순측 퇴축 위험이 실질적으로 높으며, 순측골벽 소실이 구조적 원인 — 심미부에서는 조기식립+GBR 윤곽증대술이 선호되는 치료 순서.
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral & Maxillofacial Implants 2014 Supplement (Proceedings of the 4th ITI Consensus Conference)

@@ -13,11 +13,19 @@ source_collection: external
 tags: [transcrestal-sinus-lift, immediate-implant, infected-socket, bicortical-fixation, osteotome]
 ---
 
-## One-line Summary
-Case series (n=10): trans-socket transcrestal sinus floor elevation (TSFE) through infected/periapically-lesioned maxillary extraction sockets with ≥5 mm residual bone — graftless osteotome fracture/perforation of the Schneiderian membrane and immediate implant placement with apical bicortical fixation; 10/10 high primary stability, no reported sinusitis or failure.
+## Three-line Summary
+Case series (n=10, single operator) of immediate implant placement with graftless trans-socket transcrestal sinus floor elevation through periapically-lesioned or infected maxillary extraction sockets with ≥5 mm residual subantral bone.
 
-## 한줄요약
-증례 시리즈 (Case Series, n=10) — 상악 발치와의 치근단 병소 (Periapical Radiolucency) 잔존 골 5 mm 이상에서, 발치와를 통한 경치조 상악동거상술 (Trans-socket Transcrestal Sinus Floor Elevation, TSFE)·골이식 없이 골절·천공으로 슈나이더 막 (Schneiderian Membrane, SM)을 거상하고 임플란트 첨단을 동피질 (bicortical) 고정한 새로운 술식을 제시.
+Osteotome fracture/perforation of the sinus floor followed by immediate implant placement achieved apical bicortical fixation in all 10 cases, with 10/10 high primary stability and no reported acute sinusitis or implant failure.
+
+This technique challenges the conventional contraindication of periapical infection for immediate sinus-involving implants, but the lowest evidence tier (n=10, single operator, no comparator, no long-term follow-up) means it should be considered hypothesis-generating only.
+
+## 세줄요약
+증례 시리즈(Case Series, n=10, 단일 술자) — 치근단 병소(Periapical Radiolucency) 또는 감염 발치와(잔존골 ≥5 mm)를 통한 무이식 경치조골 상악동거상술(Transcrestal Sinus Floor Elevation, TSFE) 후 즉시 임플란트 식립.
+
+Osteotome으로 상악동 바닥 골절·천공 후 즉시 식립 → 전 10증례 apical bicortical(양피질) 고정 달성, 10/10 고 1차 안정성, 급성 부비동염·임플란트 실패 없음.
+
+치근단 감염을 즉시 경치조골 거상의 절대 금기로 보는 기존 통념에 도전하나, 최저 근거 수준(n=10·단일 술자·비교군 없음)으로 가설 생성 단계로 해석.
 
 ## Summary
 McCrea (2012, Clin Adv Periodontics) presents the first reported case series of 10 maxillary implants placed with simultaneous trans-socket transcrestal sinus floor elevation through extraction sockets that had periapical radiolucency or active infection. After atraumatic extraction and thorough debridement of the apical lesion, osteotomes were driven through the socket to intentionally penetrate or fracture the sinus floor at 1–2 mm below the cortex, the Schneiderian membrane was elevated, and the implant was immediately placed without any bone substitute, engaging both the crestal and sinus-floor cortices for bicortical primary stability. All ten implants achieved high primary stability; none developed acute sinusitis in the reported follow-up. The series argues against the conventional contraindication of periapical infection for immediate implant + transcrestal sinus manipulation, but requires confirmation by prospective controlled studies.

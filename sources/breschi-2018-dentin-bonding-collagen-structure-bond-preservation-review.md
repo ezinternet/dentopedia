@@ -13,13 +13,21 @@ source_collection: external
 
 Collagen-structure-to-bond-preservation review that anchors the dentin-adhesion hybrid-layer batch: it traces resin-dentin durability from dentin collagen architecture through the two HL-degradation mechanisms (endogenous enzymatic collagenolysis + resin leaching) and the preservation strategies (water removal, enzyme silencing). It reinforces [[wiki/resin-bonding/liu-2011-limitations-bonding-dentin-bond-degradation-review]], which independently catalogues the limitations and degradation pathways of dentin bonding, by supplying the collagen-/enzyme-mechanism framework underneath those limitations.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review framing resin-dentin durability: the hybrid layer degrades via endogenous MMP/cysteine-cathepsin collagenolysis and resin leaching — both enabled by residual unbound water — and is preserved by removing that water and silencing the enzymes.
+Narrative review (Dental Materials 2018; Breschi et al., University of Bologna; 199 references; 408 Scopus citations) organizing resin-dentin bond durability around dentin collagen structure, two main hybrid-layer degradation mechanisms, and preservation strategies.
 
-## 한줄요약
+The hybrid layer degrades via endogenous MMP/cysteine-cathepsin collagenolysis and hydrolytic resin leaching — both enabled by residual unbound water trapped in inter-fibrillar gaps after incomplete resin infiltration; full envelopment of the deepest collagen fibrils remains very difficult.
 
-서술형 리뷰: 레진-상아질 결합 내구성은 잔류 미결합수(unbound water)가 가능케 하는 내인성 효소(MMP·시스테인 카텝신)의 콜라겐 분해와 레진 용출(leaching) 두 기전으로 hybrid layer가 열화되며, 그 물을 제거하고 효소를 잠재우는 전략으로 보존된다.
+Two preservation families address the root cause: removal of unbound water from the hybrid layer and silencing of endogenous enzymatic activity (chlorhexidine, cross-linkers, MMP inhibitors); clinical validation of many strategies remains incomplete.
+
+## 세줄요약
+
+서술형 리뷰(Dental Materials 2018; 볼로냐대 Breschi 등; 참고문헌 199편; Scopus 408회 인용): 상아질 콜라겐 구조부터 hybrid layer 열화 기전, 보존 전략까지 레진-상아질 접착 내구성을 체계화.
+
+Hybrid layer는 미결합수(unbound water)가 가능케 하는 내인성 MMP·시스테인 카텝신의 콜라겐 분해와 수분매개 레진 용출(leaching) 두 기전으로 열화; 가장 깊은 콜라겐 섬유의 완전한 레진 포매는 매우 어렵다.
+
+보존 전략 두 축: 잔류 미결합수 제거 및 내인성 효소 억제(CHX·가교제·MMP 억제제); 다수 전략은 임상 검증 미완성.
 
 ## 1. Document Information
 

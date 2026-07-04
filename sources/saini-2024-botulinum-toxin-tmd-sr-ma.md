@@ -9,7 +9,7 @@ pdf_filename: saini-2024-botulinum-toxin-tmd-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 2024 SR+MA from King Khalid University confirms botulinum toxin (보툴리눔독소) significantly reduces pain in TMD, with updated evidence from a larger trial pool than prior reviews; published in PLoS ONE.
 
 ## 1. Document Information

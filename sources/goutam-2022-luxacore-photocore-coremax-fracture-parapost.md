@@ -17,13 +17,23 @@ text_filename: goutam-2022-luxacore-photocore-coremax-fracture-parapost.txt
 
 ParaPost vs FRC post 파절저항을 다룬 in-vitro 연구로, 방금 인제스트한 [[post-and-core/izadi-2020-core-materials-fracture-resistance-parapost]]와 결론(FRC > ParaPost, core 재료는 무관)이 동일하게 재현됨. 다만 설계·수치가 Izadi를 매우 근접하게 답습하여 near-duplicate 주의가 필요 — 두 페이지를 상호 링크해 가시화한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fracture-resistance study (90 mandibular premolars, 9 groups × 10): pooled FRC-post groups significantly higher fracture load than ParaPost groups (380.1 vs 262.8 N, P<0.05); core material type had no effect — findings that closely replicate Izadi et al. 2020.
 
-## 한줄요약
+In-vitro fracture-resistance study (90 mandibular premolars, 9 groups × 10): pooled FRC-post groups significantly higher fracture load than ParaPost groups (380.1 vs 262.8 N, P<0.05);
 
-인비트로 파절저항 연구 (하악 소구치 90개, 9군×10): FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높음 (380.1 vs 262.8 N, P<0.05); core 재료 종류는 무관 — Izadi 등 2020을 매우 근접하게 재현한 결과.
+core material type had no effect — findings that closely replicate Izadi et al.
+
+2020.
+
+## 세줄요약
+
+
+인비트로 파절저항 연구 (하악 소구치 90개, 9군×10): FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높음 (380.1 vs 262.8 N, P<0.05);
+
+core 재료 종류는 무관 — Izadi 등 2020을 매우 근접하게 재현한 결과.
+
+(incomplete)
 
 ## 1. Document Information
 

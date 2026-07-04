@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Multicentre RCT (63 patients, 135 implants, 3-year follow-up) in the posterior mandible: platform switching (PS) vs platform matching (PM) gave significantly less marginal bone loss (0.28±0.56 vs 0.68±0.64 mm, p=0.002; 0.39 mm advantage, 95% CI 0.15–0.64), with no difference in implant survival.
+## Three-line Summary
 
-## 한줄요약
-다기관 RCT(n=63명, 135 임플란트, 3년): PS 0.28 mm vs PM 0.68 mm MBL(p=0.002); 플랫폼 스위칭이 하악 후방부 변연골 보존에 유의하게 유리
+Multicentre RCT (63 patients, 135 implants, 3-year follow-up post-loading) in the posterior mandible comparing platform switching (PS) vs platform matching (PM), with randomization after open-flap implant insertion and loading with cemented crowns.
+
+Platform switching yielded significantly less marginal bone loss than platform matching (PS 0.28 ± 0.56 mm vs PM 0.68 ± 0.64 mm, p=0.002; mean advantage 0.39 mm, 95% CI 0.15–0.64); implant survival rates did not differ between groups.
+
+This multicentre RCT confirms the PS crestal bone preservation benefit in the posterior mandible with a clinically meaningful ~0.4 mm MBL advantage at 3 years.
+
+## 세줄요약
+
+다기관 무작위 대조 시험(Randomized Controlled Trial, RCT; 63명, 135개 임플란트, 부하 후 3년 추적) — 하악 후방 결손부에서 플랫폼 스위칭(Platform Switching, PS) vs 플랫폼 매칭(Platform Matching, PM) 비교; 개방 피판 임플란트 식립 후 무작위 배정, 시멘트 유지 크라운으로 수복.
+
+변연골소실(Marginal Bone Loss, MBL): PS 0.28 ± 0.56 mm vs PM 0.68 ± 0.64 mm(p=0.002); 평균 차이 0.39 mm(95% CI 0.15–0.64)로 PS 유의하게 우수; 임플란트 생존율 두 군 간 유의차 없음.
+
+하악 구치부에서 플랫폼 스위칭이 3년 추적에서 임상적으로 유의미한 ~0.4 mm MBL 이점을 갖는다는 다기관 RCT 수준 근거 확보.
 
 ## Summary
 Multicentre RCT (63 patients, 135 implants, 3-year follow-up) evaluating platform switching vs platform matching in posterior mandible. Mean bone loss: PS 0.28±0.56 mm vs PM 0.68±0.64 mm (p=0.002), with 0.39 mm advantage for PS. Statistically significant benefit of platform switching for crestal bone preservation confirmed at 3 years.

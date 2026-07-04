@@ -16,13 +16,23 @@ text_filename: vu-2024-caregivers-perceptions-dental-therapists.txt
 
 Extends the practice-management workforce/scope-of-delegation theme of [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — that page covers the Korean legal/constitutional context of who may deliver dental care; this paper adds the *public/caregiver acceptance* side, showing caregivers are receptive to a midlevel dental therapist (DT) performing procedures yet strongly expect dentist supervision. Useful evidence for workforce-delegation and scope-of-practice discussions. (DOI not indexed in PubMed; PMID 39123337.)
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey (J Dent Child 2024; n=202 caregivers of pediatric medical patients, urban teaching hospital) finding caregivers are receptive to midlevel dental therapists (DT) performing restorations/extractions/emergency care, with strong agreement (p<0.001) that procedures occur under dentist supervision; abstract-only.
 
-## 한줄요약
+Cross-sectional survey (J Dent Child 2024;
 
-소아 의과 환자 보호자 202명 대상 단면조사(J Dent Child 2024): 보호자들은 중간단계 치과인력인 치과치료사(Dental Therapist, DT)의 수복·발치·응급처치 수행에 수용적이나, 치과의사 감독 하 시행을 강하게 지지(p<0.001); DT에 대한 대중 인지도 제고 필요. (초록만)
+n=202 caregivers of pediatric medical patients, urban teaching hospital) finding caregivers are receptive to midlevel dental therapists (DT) performing restorations/extractions/emergency care, with strong agreement (p<0.001) that procedures occur under dentist supervision;
+
+abstract-only.
+
+## 세줄요약
+
+
+소아 의과 환자 보호자 202명 대상 단면조사(J Dent Child 2024): 보호자들은 중간단계 치과인력인 치과치료사(Dental Therapist, DT)의 수복·발치·응급처치 수행에 수용적이나, 치과의사 감독 하 시행을 강하게 지지(p<0.001);
+
+DT에 대한 대중 인지도 제고 필요.
+
+(초록만)
 
 ## 1. Document Information
 

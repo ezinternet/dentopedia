@@ -14,8 +14,21 @@ source_collection: external
 
 MRC + lateral sinus lift + implant 1-year case로, 의사결정 트리의 **실제 시술 시퀀스**를 시각화. 중·소 cohort 연구의 통계와 별개로, "실제 lateral window 들었을 때 어떻게 처리하나"의 임상적 narrative 보강. [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] SR-level anchor와 함께 결정 트리에 surgical narrative 추가.
 
-## One-line Summary
-Case report (Beirut, 2023): MRC를 가진 환자에서 측방창 lateral sinus lift + 즉시 implant 식립. 1년 후 implant 생존·정착 확인.
+## Three-line Summary
+
+Case report (Lebanese University, Beirut, 2023; 1-year follow-up) of a patient with a mucous retention cyst (MRC) treated with simultaneous lateral-window sinus lift and immediate implant placement, documenting the step-by-step surgical sequence with CBCT and photographic records.
+
+MRC was managed during the lateral window sinus lift; immediate implant was placed concurrently; no complications reported at 1-year follow-up with confirmed implant osseointegration and maintained sinus health.
+
+This single case provides a surgical narrative template for MRC + lateral sinus lift + immediate implant, but n=1 precludes generalization; statistical inference comes from companion cohort and SR data.
+
+## 세줄요약
+
+증례 보고(레바논 대학교, 베이루트, 2023; 1년 추적) — 점액저류낭포(Mucous Retention Cyst, MRC)를 동반한 환자에서 측방창 상악동거상술 + 즉시 임플란트를 동시 시행하고 단계별 술식을 CBCT·사진으로 기록.
+
+측방창 거상 중 MRC 처치; 즉시 임플란트 식립; 1년 추적에서 합병증 없이 골유착 확인 및 상악동 건강 유지.
+
+이 단일 증례는 MRC + 측방 상악동거상 + 즉시 임플란트의 술식 내러티브 참고 자료를 제공하나, n=1로 일반화 불가; 통계적 근거는 동반 코호트·SR 데이터로 보완된다.
 
 ## 1. Document Information
 Case Reports in Dentistry (Hindawi/Wiley), Lebanese University Faculty of Dental Medicine. Single case with detailed surgical sequence.

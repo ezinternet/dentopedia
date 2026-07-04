@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, DBD, titanium, carbon-reduction, super-hydrophilic, device, in-vitro, SLA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study of a cylindrical dielectric barrier discharge (DBD) plasma source (implant as electrode, packaging as dielectric, kept sterile): reduced surface carbon ~60% (XPS), produced a super-hydrophilic surface with increased calcium elution, and significantly improved cell adhesion, proliferation, and differentiation on SLA implants.
+In vitro study engineering and validating a cylindrical dielectric barrier discharge (DBD) plasma source that uses the implant itself as the electrode and its sterile packaging as the dielectric, enabling plasma treatment without breaking the sterile seal.
 
-## 한줄요약
+The DBD device reduced surface carbon by approximately 60% (XPS), produced a super-hydrophilic surface, increased calcium elution, and significantly improved cell adhesion, proliferation, and differentiation on SLA implants.
 
-원통형 유전체 장벽 방전(DBD) 플라즈마 장치(임플란트=전극, 포장재=유전체, 무균 유지) in vitro: 표면 탄소 약 60%↓(XPS), 초친수성·칼슘 용출↑, SLA에서 세포 부착·증식·분화 유의 향상.
+This is an in vitro device-engineering contribution only; chairside implementation using the DBD-in-packaging concept requires in vivo and clinical validation before adoption.
+
+## 세줄요약
+
+줄1: 임플란트를 전극, 포장재를 유전체로 사용하는 원통형 유전체 장벽 방전(DBD) 플라즈마 장치 개발·검증 in vitro 연구 — 무균 포장 개봉 없이 처리 가능.
+
+줄2: DBD 장치가 표면 탄소 약 60% 감소(XPS), 초친수성·칼슘 용출↑, SLA 임플란트에서 세포 부착·증식·분화 유의 향상.
+
+줄3: In vitro 장치공학 기여에 국한 — 포장 내 DBD chairside 구현은 in vivo·임상 검증 필요.
 
 ## Summary
 

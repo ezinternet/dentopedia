@@ -13,11 +13,19 @@ source_collection: external
 tags: ['HA nano-coating', 'SLA', 'immediate placement', 'maxillary posterior', 'ISQ', 'guided surgery']
 ---
 
-## One-line Summary
-Single-blind RCT (n=40, Seoul National University) comparing HA nano-coated SLA vs uncoated SLA implants in maxillary posterior immediate placement via guided surgery, evaluating ISQ, volumetric changes, and PROMs; HA nano-coating trended toward better stability recovery and volumetric stability.
+## Three-line Summary
+Single-blind RCT (n=40, Seoul National University) comparing HA nano-coated SLA (test, n=20) vs uncoated SLA (control, n=20) implants in maxillary posterior immediate placement via digital surgical guide, evaluating ISQ, volumetric changes, and PROMs.
 
-## 한줄요약
-단일맹검 RCT (n=40, SNU 서울대): 상악 구치부 즉시식립 시 HA 나노코팅 SLA 임플란트 vs 무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
+Both groups achieved adequate stability; HA nano-coated implants showed a trend toward better ISQ recovery and volumetric stability over the healing period (specific numeric outcomes abstract-level only).
+
+HA nano-coating may reduce the stability dip in anatomically challenging maxillary posterior immediate placement, but comparative RCTs of surface coatings in this context remain rare and results are preliminary.
+
+## 세줄요약
+단일맹검 RCT, n=40 (서울대학교), 상악 구치부 즉시식립 시 HA 나노코팅 SLA(실험군, n=20) vs 무코팅 SLA(대조군, n=20) — 디지털 가이드 수술 적용, 임플란트 안정성 지수 (ISQ)·체적 변화·환자보고결과지표 (PROMs) 평가.
+
+두 군 모두 충분한 안정성 달성; HA 나노코팅군이 ISQ 회복과 체적 안정성에서 우위 경향 보고(수치는 초록 수준).
+
+상악 구치부 즉시식립과 같이 1차 안정성 확보가 어려운 부위에서 HA 나노코팅이 안정성 하락을 완화할 가능성이 있으나 근거 수준은 예비적.
 
 ## Summary
 40 patients randomized to HA nano-coated SLA group (test, n=20) or uncoated SLA (control, n=20). All immediately placed in maxillary posterior region via digital surgical guide. Insertion torque, ISQ at multiple time points, volumetric changes by intra-oral scan, and PROMs measured. Single-blind block randomization.

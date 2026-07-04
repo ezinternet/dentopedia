@@ -13,11 +13,19 @@ source_collection: external
 tags: [AI, healthcare-general, ML, DL, NLP, robotics, predictive-analytics, remote-monitoring, IBM-Watson, Google-Health]
 ---
 
-## One-line Summary
-Narrative review (Health Sci Rep 2025;8(1):e70312): broad healthcare AI review — AI medical publications in Web of Science grew 4.5-fold over 10 years (158 [3.54%] in 2014 → 731 [16.33%] in 2024); diagnostics, treatment, and operational efficiency all improved, but data security and budget constraints are primary barriers; not dental-specific.
+## Three-line Summary
+Narrative review (Health Sci Rep 2025;8(1):e70312, Web of Science search 2014–2024) surveying AI impact across diagnostics, treatment, and operational efficiency in general healthcare; not dental-specific.
 
-## 한줄요약
-narrative-review (Health Sci Rep 2025;8(1):e70312): 의료 AI 광역 리뷰 — Web of Science(2014–2024)에서 AI 의료 출판물 158편(3.54%) → 731편(16.33%)로 10년간 4.5배 증가; 진단·치료·운영 효율 모두 향상되나 데이터 보안·예산 제약이 1차 장벽; 치과 특화 아님.
+AI medical publications in Web of Science grew 4.5-fold over 10 years (158 articles, 3.54% in 2014 → 731 articles, 16.33% in 2024), with Google Health and IBM Watson cited as exemplar deployments, though AI imaging diagnostics frequently exceeded human clinician accuracy in referenced domains.
+
+Data security, budget constraints, regulatory compliance, and ethical concerns are the primary barriers to mainstream adoption; publication-count growth alone does not reflect clinical adoption rates.
+
+## 세줄요약
+서사 리뷰 (Health Sci Rep 2025;8(1):e70312, Web of Science 2014–2024 검색): 일반 의료에서 AI의 진단·치료·운영 효율 분야 영향 조사; 치과 특화 아님.
+
+AI 의료 논문이 10년간 4.5배 증가 (2014년 158편 3.54% → 2024년 731편 16.33%); Google Health·IBM Watson이 대표 사례로 인용되며, 인용된 영역에서 AI 영상 진단이 임상의를 종종 능가했다.
+
+데이터 보안, 예산 제약, 규제 준수, 윤리적 우려가 주류 도입의 주요 장벽이며, 출판물 건수 증가만으로는 실제 임상 도입률을 반영하지 않는다.
 
 ## Summary
 Narrative review (Health Science Reports Jan 2025) of AI impact across healthcare. Not dental-specific — included for broader context. Quantifies publication growth in Web of Science and synthesises core technology stack (robotics, ML, DL, NLP) against deployment domains.

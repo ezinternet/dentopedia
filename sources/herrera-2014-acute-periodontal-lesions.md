@@ -13,13 +13,23 @@ source_collection: external
 
 치주 응급 상황(치주농양·괴사성 치주질환·급성 치은병변)의 감별진단과 응급/최종 치료 프로토콜을 다루는 권위 있는 서술적 종설로, 만성 치주질환 중심의 기존 wiki 페이지를 급성 영역으로 확장한다. [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]]의 분류 체계가 다루는 괴사성 치주질환·치주농양 항목의 임상적 배경 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (Periodontology 2000) of acute periodontal lesions — periodontal abscesses, necrotizing periodontal diseases, and other acute gingival conditions — covering etiology, classification, differential diagnosis, and emergency/definitive management.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 급성 치주병변(치주농양, 괴사성 치주질환, 기타 급성 치은병변)의 병인·분류·감별진단·응급 및 최종 치료를 정리한 서술적 종설(Periodontology 2000).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

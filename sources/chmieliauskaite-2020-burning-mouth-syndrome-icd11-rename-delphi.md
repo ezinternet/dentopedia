@@ -9,8 +9,21 @@ pdf_filename: chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi.pd
 source_collection: external
 ---
 
-## One-line Summary
-BMS 명칭 변경 및 ICD-11 진단기준 개선을 위한 국제 Delphi 합의 연구.
+## Three-line Summary
+
+International Delphi consensus study (Pain 2020; 31-expert panel, 3 rounds) seeking agreement to rename burning mouth syndrome (BMS) and improve ICD-11 disease criteria, with integration of ICHD-3 harmonization.
+
+The panel reached ≥75% consensus to rename BMS as "burning mouth disorder" (BMD) and to include three ICD-11 diagnostic core elements: burning/dysesthesia/dysgeusia persisting ≥3 months, located in the oral mucosa, and causing functional impact.
+
+This consensus is a terminology and classification update rather than a clinical-evidence-based finding; the Delphi method captures expert opinion and the new criteria require prospective validation.
+
+## 세줄요약
+
+국제 Delphi 합의 연구(Pain 2020; 전문가 패널 31명, 3라운드): 구강작열통 증후군(Burning Mouth Syndrome, BMS)의 명칭 변경 및 ICD-11 진단기준 개선에 대한 합의를 도출하고, ICHD-3와의 조화 필요성을 제안.
+
+≥75% 합의로 BMS를 "burning mouth disorder(BMD, 구강작열통장애)"로 명칭 변경 결정; ICD-11 진단기준 핵심 3요소: 구강점막 작열감·이상감각·미각이상이 ≥3개월 지속 + 기능적 영향 포함.
+
+본 합의는 용어·분류 갱신이며 임상 근거 기반 연구 결과가 아님; Delphi 방법은 전문가 의견을 포착하며 새 기준의 전향적 검증 필요.
 
 ## 1. Document Information
 - **Title**: Consensus agreement to rename burning mouth syndrome and improve ICD-11 disease criteria: an international Delphi study

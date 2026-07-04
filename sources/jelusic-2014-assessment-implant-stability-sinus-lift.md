@@ -11,7 +11,7 @@ pdf_filename: jelusic-2014-assessment-implant-stability-sinus-lift.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective clinical study (44 test + 48 control patients, 170 Astra Tech implants): ISQ values **equal between augmented and non-augmented posterior maxilla** at 4 months post-placement, regardless of grafting material (β-TCP vs 60% HA + 40% β-TCP).
 
 ## 1. Document Information

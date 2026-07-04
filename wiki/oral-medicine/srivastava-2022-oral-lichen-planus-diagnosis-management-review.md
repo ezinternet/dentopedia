@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Practical narrative review of oral lichen planus (OLP) diagnosis and management, comparing WHO 2003 and Van der Meij 2003 diagnostic criteria, describing six clinical subtypes (reticular, papular, plaque, erosive, atrophic, bullous), and a treatment ladder from topical corticosteroids to tacrolimus to systemic immunosuppression; erosive/atrophic forms are most symptomatic and highest-risk.
+## Three-line Summary
 
-## 한줄요약
-OLP 진단 기준(WHO/Van der Meij)·임상 유형 6가지·1차 치료(국소 스테로이드) 실용 고찰.
+Practical narrative review of oral lichen planus (OLP) comparing WHO 2003 and Van der Meij 2003 diagnostic criteria and describing six clinical subtypes (reticular, papular, plaque, erosive, atrophic, bullous) with T cell–mediated immunopathogenesis.
+
+Erosive/atrophic OLP is most symptomatic and carries the highest malignant transformation risk; treatment ladder runs from topical corticosteroids (first-line) to tacrolimus (refractory) to systemic immunosuppression; complete cure is rare.
+
+OLP is a chronic relapsing condition managed with long-term symptom control and malignant-transformation monitoring — the clinical distinction between subtypes is essential for treatment intensity and follow-up scheduling.
+
+## 세줄요약
+
+실용 서술 리뷰 — 구강편평태선(Oral Lichen Planus, OLP)의 WHO 2003 대 Van der Meij 2003 진단 기준 비교 및 6가지 임상 아형(그물형·구진형·판형·미란형·위축형·수포형) 기술, T세포 매개 면역병리 포함.
+
+미란형/위축형 OLP가 가장 증상이 심하고 악성변화 위험이 높음; 치료 단계: 국소 스테로이드(1차) → 타크롤리무스(tacrolimus, 난치성) → 전신 면역억제제; 완치는 드묾.
+
+OLP는 만성 재발성 질환으로 장기 증상 조절과 악성변화 모니터링이 핵심 — 아형 구분이 치료 강도 및 추적 일정 결정에 필수적.
 
 ## Summary
 Practical clinical review of OLP: diagnostic criteria, six clinical subtypes, pathomechanism, and stepwise treatment.

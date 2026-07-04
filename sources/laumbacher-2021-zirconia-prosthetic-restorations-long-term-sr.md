@@ -9,7 +9,7 @@ pdf_filename: laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Overview SR of 38 systematic reviews (~10,000 zirconia restorations) showing satisfactory 5-year survival for tooth- and implant-supported zirconia crowns and FDPs, with chipping of veneering ceramic as the predominant technical complication, addressable by monolithic design.
 
 ## 1. Document Information

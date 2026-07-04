@@ -34,13 +34,21 @@ tags: [flapless, flapped, crestal-bone-loss, marginal-bone-loss, implant-failure
 > - **임상 결정 ladder**: ① 치유된 치조제·단순 단일치·증대 불필요·직접 시야 불필요 → flapless가 통증/연조직 이점으로 합리적 ② 골증대·열개·시야 확보·각화점막 재배치 필요 → 피판 ③ flapless 선택 시 CBCT 기반 가이드로 천공·각도오류 보정 필수(blind drilling 위험). [claude해석]
 > - **갭**: flapless 장기(>1y) 변연골 RCT 부족, 현대 가이드 flapless의 실패율 재평가 메타분석 부재(Chrcanovic는 2014 데이터), 통증 이점의 비용효과·환자선호 정량화 미흡.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 6 papers comparing flapless versus flapped implant surgery along 3 axes — implant failure, crestal/marginal bone, and postoperative pain/soft tissue — showing the verdict is outcome-dependent rather than a single winner. A 2014 meta-analysis found 75% higher failure risk for flapless (RR 1.75) that vanished in low-risk-of-bias studies; an RCT and a cohort directly conflict on crestal bone (RCT: flapless preserves ~40% more at 6 months; cohort: no difference at 12 months); but flapless consistently halves early postoperative pain and improves short-term soft tissue. In the immediate-implant setting flapless tends to favor buccal tissue preservation with small operator-dependent differences, and flapless extraction alone does not preserve the ridge.
+Synthesis of 6 papers comparing flapless versus flapped implant surgery along 3 axes — implant failure, crestal/marginal bone, and postoperative pain/soft tissue — showing the verdict is outcome-dependent: flapless failure risk (RR 1.75, Chrcanovic 2014) disappears in low-risk-of-bias studies; an RCT (Surendra 2025) shows ~40% less crestal bone loss at 6 months while a 12-month cohort (Tarpara 2025) finds no difference.
 
-## 한줄요약
+Flapless consistently halves early postoperative pain (VAS day 3: 3.1 vs 5.7) and improves short-term soft tissue, while in the immediate-implant setting flapless trends toward buccal tissue preservation with small operator-dependent differences.
 
-무피판 vs 피판 임플란트 수술 6편을 3축(실패율·치조정골·통증/연조직)으로 종합 — 결과 변수별로 우열이 갈림. 실패율 우려(RR 1.75)는 저질 연구 의존이라 약하고, 치조정골은 RCT(flapless 우위)와 코호트(차이없음)가 충돌하나, 술후 통증·단기 연조직은 flapless 일관 우위. 치유 치조제·단순 단일치엔 flapless가 합리적, 증대·시야 필요 시 피판.
+Flapless extraction alone does not preserve the ridge (Araujo 2009 dog histology); flapless is reasonable for healed, simple, single-site implants requiring no augmentation, while augmentation, thin mucosa, or need for direct visualization warrants a conventional flap.
+
+## 세줄요약
+
+무피판 vs 피판 임플란트 수술 6편을 3축(실패율·치조정골·통증/연조직)으로 종합 — 결과 변수별로 우열이 갈린다: 실패율 우려(RR 1.75)는 저질 연구 의존이라 약하고, 치조정골은 RCT(flapless 6개월 ~40% 덜 소실)와 12개월 코호트(차이없음)가 충돌한다.
+
+술후 통증은 flapless가 일관 절반(VAS day 3: 3.1 vs 5.7)이고 단기 연조직도 유리하며, 즉시식립 맥락에서는 협측 조직 보존에 경향적 우위지만 효과는 작고 술자 의존적이다.
+
+무피판 발치 단독은 치조제를 보존하지 못하고(Araujo 2009); 치유 치조제·단순 단일치·증대 불필요 시 flapless 합리적, 증대·시야 필요 시 피판.
 
 ## Summary
 

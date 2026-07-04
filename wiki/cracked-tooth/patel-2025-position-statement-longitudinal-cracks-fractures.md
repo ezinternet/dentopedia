@@ -18,13 +18,21 @@ text_filename: patel-2025-position-statement-longitudinal-cracks-fractures.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-European Society of Endodontology (ESE) consensus position statement standardising the terminology of longitudinal cracks/fractures (craze line, cracked tooth, fractured cusp, split tooth, VRF, split root) and recommending early diagnosis (bite test, transillumination, magnification, selective CBCT), cuspal coverage restoration, occlusal/parafunction control, and abandonment of the term "cracked tooth syndrome."
+Consensus position statement by an ESE expert committee standardising the six-entity longitudinal crack/fracture spectrum (craze line, cracked tooth, fractured cusp, split tooth, VRF-NRFT, VRF-RFT) and recommending abandonment of the term "cracked tooth syndrome."
 
-## 한줄요약
+Cracked tooth prevalence reaches up to 70% in visible coronal cracks; CT-VDP survival is 84–88% at 1–5 years with cuspal-coverage restoration; intracanal Biodentine barrier + coverage gives 96.6% survival at 4 years; VRF accounts for 13–21% of root-filled tooth extractions.
 
-유럽근관치료학회(ESE) 합의 입장문 — 치아 종축 균열·파절 스펙트럼(craze line, 균열치 CT, 파절교두, split tooth, 수직치근파절 VRF, split root)을 표준 정의하고, 조기 진단(bite test·투조법·확대경)·교두피개 수복·교합/이상기능 관리를 권고하며 "cracked tooth syndrome(균열치 증후군)" 용어 폐기를 권고.
+Early diagnosis (bite test, transillumination, magnification, selective CBCT), cuspal coverage restoration, and parafunction management are universal priorities; split tooth has unfavourable prognosis and timely extraction is recommended.
+
+## 세줄요약
+
+유럽근관치료학회(ESE) 전문가위원회 합의 입장문으로, 종축 균열·파절 6개 표준 용어(craze line, 균열치, 파절교두, split tooth, 비근관치료치 VRF, 근관치료치 VRF)를 정의하고 "균열치 증후군(cracked tooth syndrome)" 용어 폐기를 권고.
+
+가시 치관 균열 유병률 최대 70%; 교두피개 수복 시 균열치 생존율 84–88%(1–5년), 바이오덴틴 관내 차단막+교두피개 시 96.6%(4년); 수직치근파절(VRF)은 근관치료치 발치 원인의 13–21%.
+
+조기 진단(bite test·투조법·확대경·선택적 CBCT), 교두피개 수복, 교합/이상기능 관리가 핵심; split tooth는 예후 불량으로 조기 발치 권고.
 
 ## Summary
 

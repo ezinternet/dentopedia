@@ -9,7 +9,7 @@ pdf_filename: grenzi-2026-spal-peri-implant-bone-dehiscence-iip.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Case study describing the SPAL (subperiosteal peri-implant augmented layer) technique applied at immediate implant placement to correct peri-implant bone dehiscence.
 
 ## 1. Document Information

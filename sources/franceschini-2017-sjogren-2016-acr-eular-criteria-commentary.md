@@ -9,7 +9,7 @@ pdf_filename: franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 2016 ACR/EULAR pSS 기준의 주요 변화점, 2002 AECG 기준과의 차이, 임상·연구 적용 함의 해설.
 
 ## 1. Document Information

@@ -30,13 +30,21 @@ tags: [orthodontics, clear-aligner, invisalign, indications, limitations, fixed-
 > - **가속(adjunct)**: 진동·저출력레이저(LLLT) 등 물리적 보조중재는 CAT 결과를 **일관되게 개선하지 못함**(Sirri 2026, GRADE low~very low).
 > - **확신도 종합**: 효율 동등성·치근흡수 = 근거 중상(SR+MA); 치주·저작/TMJ·가속 = 근거 약(high RoB, low certainty); 복잡 이동 열등·설계 의존성 = 일관된 신호.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 26 wiki papers on clear aligner therapy (CAT): aligners equal fixed appliances for occlusal outcome in mild-to-moderate non-extraction cases with a periodontal/comfort edge, but are inferior or unpredictable for torque/rotation/extrusion, complex/extraction and severe/skeletal cases; auxiliaries (attachments, TADs, IPR, trimline design) extend the envelope; root resorption is minimal, masticatory/TMJ/bruxism effects are reassuring but low-certainty, and material chemical leaching stays below toxic thresholds.
+Synthesis of 27 wiki papers on clear aligner therapy (CAT) across 10 axes — efficacy, movement-specific limits, Class II strategies, biomechanics/design, maxillary expansion, root resorption, periodontal/hygiene, masticatory-muscle/TMJ/bruxism, acceleration adjuncts, and material safety.
 
-## 한줄요약
+In mild-to-moderate non-extraction cases CAT equals fixed appliances (FA) for occlusal outcome (Baneshi 2024 RCT-MA, 21 RCTs, n=970) with a periodontal/comfort edge, but is inferior or unpredictable for torque, rotation, extrusion, extraction, bodily movement, and severe/skeletal cases; auxiliaries (composite attachments, TADs, IPR, extended trimline) extend the treatment envelope; root resorption is minimal (CBCT MA: incisor MD −0.56 mm), masticatory/TMJ/bruxism effects are broadly neutral (low certainty), and chemical leaching stays below toxic thresholds.
 
-위키 27편 종합: 투명교정은 경중등도 비발치서 고정장치와 교합결과 동등 + 치주·편의 우위지만, 토크·회전·정출·복잡/발치·중증 골격 증례엔 열등·비예측적; attachment·TADs·IPR·trimline로 적응증 확장; 치근흡수 최소, 저작/TMJ/이갈이 영향은 안심되나 근거 약, 재료 화학용출은 독성한계 미만.
+Aligners are the evidence-based choice for mild-to-moderate, non-extraction, compliance-amenable cases, but add attachments/TADs/IPR for complex movements and defer to fixed appliances for severe skeletal, heavy-torque, or bodily-movement cases; acceleration devices are not cost-justified.
+
+## 세줄요약
+
+투명교정(Clear Aligner Therapy, CAT) 위키 27편을 효율·이동특이 한계·Class II 전략·생체역학/설계·확장·치근흡수·치주·저작/턱관절/이갈이·가속보조·재료 안전성 10축으로 종합.
+
+경중등도 비발치에서 고정장치(Fixed Appliance, FA)와 교합결과 동등(Baneshi 2024 RCT 메타, 21편, n=970) + 치주·편의 우위; 토크·회전·정출·발치·체이동·중증 골격 증례엔 열등·비예측적; 보조장치(composite attachment·TADs·치간삭제(IPR)·trimline 연장)로 적응증 확장; 치근흡수 최소(절치 −0.56 mm), 저작/턱관절/이갈이 영향 대체로 중립(근거 약), 화학용출 독성한계 미만.
+
+경중등도·비발치·컴플라이언스 가능 환자에게 투명교정이 근거기반 선택; 복잡 이동은 attachment·TADs·IPR 보강, 중증 골격·과중 토크·체이동은 고정장치로 전환; 가속 장치는 비용 대비 근거 없음.
 
 ## Synthesis
 

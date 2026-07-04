@@ -42,13 +42,21 @@ source: synthesis
 > [!note] Scope
 > This is the **clinical-efficacy** synthesis for local-anesthetic *formulation and technique* (buffering, warming, precooling, agent choice, delivery route, special populations). For the **guideline-status** map of Korean dental anesthesia/sedation see [[drug-anesthesia-sedation-korean-guidelines-overview]]; for **vasoconstrictor concentration** safety see [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] and [[drug-systemic-disease-dental-management-overview]].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 12 papers (4 buffering RCTs, 1 SR+MA, 1 paired SR+MA, 1 in-vivo development study, 1 narrative pharmacology review, 1 retrospective technique comparison, 2 special-population reviews, 1 allergy case, 1 needle-free cohort): chair-side sodium-bicarbonate **buffering reliably accelerates onset and reduces injection pain**, and in inflamed pulpitis tissue **substantially raises anesthetic success** (conventional IANB ~37% → buffered ~84%), while in healthy extraction tissue it speeds onset but does **not** change peak success or extraction VAS — with warming, precooling, intraosseous delivery, and epinephrine-free/needle-free formulations as situational adjuncts.
+Synthesis of 12 papers on local anesthetic formulation and technique: the dominant clinical lever is acid–base chemistry (pH), not the drug molecule — chair-side 8.4% sodium bicarbonate buffering reliably accelerates onset and reduces injection pain, and in inflamed pulpitis tissue substantially raises IANB success from ~37% to ~84% (Karunakar 2024 RCT), while in healthy extraction tissue it speeds onset but does not change peak success or extraction VAS (Kalra 2024; Hamad 2025).
 
-## 한줄요약
+Warming (~42°C) achieves onset/comfort gains nearly equivalent to buffering (Gandhi 2022 RCT, VAS 1.59 vs 1.69, p=0.183); intraosseous delivery (QuickSleeper) achieves 100% success vs buccal infiltration 70.8% for mandibular molars but has shorter duration (Park 2024); articaine vs lidocaine safety is equivalent in pediatric patients (adverse-event RR 1.08, Li 2023 SR+MA); standard for pregnancy is 2% lidocaine + 1:200,000 epinephrine (Zhou 2023); true amide allergy is rare and managed with diphenhydramine (Bina 2018).
 
-12편 종합 (완충 RCT 4편, SR+MA 1편, 쌍 SR+MA 1편, in-vivo 개발 1편, 약리 narrative 1편, 후향 술기비교 1편, 특수집단 리뷰 2편, 알러지 증례 1편, needle-free 코호트 1편): 체어사이드 중탄산나트륨 **완충은 발현 속도를 일관되게 단축하고 주사통을 줄이며**, 염증(불가역성 치수염) 조직에서는 **마취 성공률을 크게 끌어올린다** (전통 하치조신경 전달마취 ~37% → 완충 ~84%). 반면 건강한 발치 조직에서는 발현만 빨라질 뿐 최대 성공률·발치 VAS는 변하지 않는다. 가온·예냉·골내마취·무에피네프린/무바늘 제형은 상황별 보조 수단.
+Clinical takeaway: healthy tissue → standard solution is adequate (buffering optional for faster onset/comfort); hot tooth (mandibular molar with irreversible pulpitis) → buffering is first-line (best cost-benefit ratio); if buffering is unavailable, warming is nearly equivalent; pregnancy → 1:200,000 epinephrine, elective procedures at 14–20 weeks preferred.
+
+## 세줄요약
+
+12편 종합(완충 RCT 4, SR+MA 2, 약리 리뷰 1, 후향 술기비교 1, 특수집단 리뷰 2, 알러지 증례 1, needle-free 코호트 1): 핵심 임상 레버는 약물 분자가 아닌 산-염기 화학(pH) — 체어사이드 중탄산나트륨(8.4%) 완충이 발현 속도를 일관되게 단축하고, 증상성 비가역성 치수염(SIP)에서 IANB 성공률 ~37% → ~84%로 향상(Karunakar 2024).
+
+건강한 발치 조직에서는 발현만 빨라질 뿐 최대 성공률·VAS 불변(Kalra 2024, Hamad 2025); 가온(~42°C)은 완충과 거의 동등(간디 2022, VAS 1.59 vs 1.69); 골내마취(intraosseous)는 협측 침윤 대비 성공률 100% vs 70.8%(Park 2024); 소아 아티카인 vs 리도카인 안전성 동등(RR 1.08, Li 2023 SR+MA); 임신 표준 = 2% 리도카인 + 1:200,000 에피네프린(Zhou 2023).
+
+임상 결론: 건강 조직 → 통상 용액 충분(완충은 발현·편안함 원할 때 선택); hot tooth(하악 불가역치수염) → 완충 1차; 완충 불가 → 가온 대체; 임신 → 1:200,000 에피네프린, 선택적 술식 14~20주 선호.
 
 ---
 

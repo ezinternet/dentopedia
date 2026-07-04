@@ -10,7 +10,7 @@ pdf_filename: soris-2021-botulinum-toxin-a-treatment-excessive-gingival.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective clinical study (n=15) of BTX-A injected on the Yonsei triangle for gummy smile: significant decrease in gingival exposure of ~3.5 ± 1 mm at 2 weeks, peak effect maintained through month 3, full reversal back to baseline by months 5-6; 67% "very satisfied", 27% satisfied at 1 month.
 
 ## 1. Document Information

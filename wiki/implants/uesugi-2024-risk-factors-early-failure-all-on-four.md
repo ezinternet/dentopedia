@@ -21,13 +21,21 @@ relations:
     target: fan-2024-smoking-early-implant-failure-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (561 patients / 2364 implants, all-on-four immediate loading): 1-year implant-level survival 98.9% (maxilla) vs 99.6% (mandible); multivariate early-failure risk factors were maxilla (OR 3.12) and smoking (OR 2.92), while photofunctionalisation showed only a non-significant protective trend (OR 0.51, p=0.25).
+Retrospective cohort (561 patients / 2364 implants, Malo Dental Tokyo, all-on-four immediate loading, September 2005–October 2020): 1-year implant-level survival was 98.9% in the maxilla and 99.6% in the mandible.
 
-## 한줄요약
+Multivariate logistic regression identified maxilla (OR 3.12, p=0.044) and smoking (OR 2.92, p=0.030) as the only significant independent predictors of early failure; photofunctionalisation showed a non-significant protective trend (OR 0.51, p=0.25).
 
-후향 코호트(환자 561명 / 임플란트 2364개, all-on-four 즉시로딩): 1년 임플란트 단위 생존율 상악 98.9% vs 하악 99.6%; 조기 실패 다변량 위험인자는 상악(OR 3.12)·흡연(OR 2.92), 광기능화(photofunctionalisation)는 보호 경향(OR 0.51)이나 비유의(p=0.25).
+Implant length, diameter, angulation, and primary-stability band were not independent predictors — attention should focus on jaw location and smoking status when counseling all-on-four candidates.
+
+## 세줄요약
+
+후향 코호트(환자 561명 / 임플란트 2364개, Malo Dental Tokyo, all-on-four 즉시로딩, 2005–2020): 1년 임플란트 생존율 상악 98.9%, 하악 99.6%.
+
+다변량 로지스틱회귀에서 독립 위험인자는 상악(OR 3.12, p=0.044)과 흡연(OR 2.92, p=0.030)뿐이었으며, 광기능화(photofunctionalisation)는 보호 경향(OR 0.51)이나 유의하지 않았다(p=0.25).
+
+임플란트 길이·직경·각도·1차안정성 범위는 독립 예측인자가 아니었고, all-on-four 환자 상담 시 부위(상악)와 흡연 여부에 초점을 맞춰야 한다.
 
 ## Summary
 

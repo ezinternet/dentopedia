@@ -14,11 +14,19 @@ source_collection: external
 tags: [anticoagulant, warfarin, DOAC, INR, tranexamic-acid, dental-extraction, hemostasis, VKA, systematic-review]
 ---
 
-## One-line Summary
-Systematic review (25 studies, 1989–2024): VKA and DOAC discontinuation unnecessary for routine dental procedures; local hemostatic measures (tranexamic acid mouthwash) are first-line; thrombotic rebound risk from discontinuation exceeds bleeding risk.
+## Three-line Summary
+Systematic review of 25 studies (1989–2024) on anticoagulated patients undergoing dental procedures, covering VKA (warfarin), DOAC (dabigatran, rivaroxaban, apixaban, edoxaban), and antiplatelet (aspirin/clopidogrel/DAPT) management.
 
-## 한줄요약
-체계적 고찰(25편, 1989–2024): 항응고제 복용 환자에서 루틴 치과 처치 시 VKA·DOAC 중단 불필요; 국소 지혈 처치(트라넥사민산 양치액)가 1차 대응; 중단 시 혈전 리바운드 위험이 출혈 위험 초과
+Consensus: routine discontinuation is unnecessary for any drug class; tranexamic acid 4.8% mouthwash is the strongest-evidenced local hemostatic adjunct; INR ≤3.5 threshold for VKA continuation; thrombotic rebound risk from stopping exceeds dental bleeding risk.
+
+Never stop anticoagulants without prescriber approval; control bleeding locally with tranexamic acid mouthwash + socket packing rather than drug interruption.
+
+## 세줄요약
+항응고제 복용 환자의 치과 처치 관리를 다룬 25편 연구(1989–2024) 체계적 고찰; VKA·DOAC·항혈소판제 전 범주 포함.
+
+루틴 처치 시 어떤 약물도 중단 불필요; 트라넥삼산 4.8% 양치액이 가장 근거 있는 국소 지혈 보조제; VKA는 INR ≤3.5면 지속; 중단으로 인한 혈전 리바운드 위험이 출혈 위험 초과.
+
+처방의 승인 없이 항응고제 중단 금지; 약물 중단 대신 국소 지혈(트라넥삼산 양치액 + 소켓 패킹)으로 출혈 관리.
 
 ## Summary
 Systematic review of 25 clinical studies on anticoagulated patients undergoing dental procedures. **Consensus: do not routinely stop anticoagulants.** Local hemostatic measures are sufficient for most procedures. Tranexamic acid mouthwash is the best-evidenced adjunct.

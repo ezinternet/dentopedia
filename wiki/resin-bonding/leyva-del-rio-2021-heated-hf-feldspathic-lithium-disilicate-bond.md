@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (9% HF ± heating to 70°C, feldspathic ceramic vs. lithium disilicate, μTBS): Heated HF significantly boosted bond strength for lithium disilicate only (L70: 29.11 MPa vs. LC: 17.87 MPa); feldspathic ceramic showed no benefit from heating (F70: 18.24 vs. FC: 19.94 MPa).
+In-vitro study (J Adhes Dent 2021; 6 groups — feldspathic ceramic and lithium disilicate ± 9% HF at room temperature or heated to 70°C; silanized and bonded with dual-cure cement; μTBS testing) comparing surface roughness and bond strength outcomes by ceramic type and HF temperature.
 
-## 한줄요약
+Heated HF (70°C) significantly increased μTBS for lithium disilicate only (L70: 29.11 MPa vs. LC at room temperature: 17.87 MPa; p<0.001 vs. all groups); feldspathic ceramic showed no bond strength benefit from heating (F70: 18.24 MPa ≈ FC: 19.94 MPa), despite roughness increases in both ceramics.
 
-In vitro (9% HF ± 70°C 가열, 장석계 vs 리튬 디실리케이트): 가열 HF가 리튬 디실리케이트 μTBS만 유의하게 향상(29.11 MPa); 장석계 세라믹은 가열 효과 없음.
+Heated HF is material-specific — clinically beneficial for lithium disilicate but not for feldspathic ceramic; room-temperature HF is adequate for feldspathic porcelain bonding.
+
+## 세줄요약
+
+인 비트로 연구(J Adhes Dent 2021; 6그룹 — 장석계·리튬 디실리케이트 × 9% HF 상온/70°C 가열; 실란 처리 후 이중경화 복합레진 시멘트 접착; μTBS 측정) — 세라믹 종류와 HF 온도에 따른 표면 거칠기·결합강도 비교.
+
+가열 HF(70°C)는 리튬 디실리케이트의 μTBS만 유의하게 향상(L70: 29.11 MPa vs. LC: 17.87 MPa; p<0.001); 장석계 세라믹은 가열 시에도 결합강도 향상 없음(F70: 18.24 ≈ FC: 19.94 MPa), 표면 거칠기는 두 세라믹 모두 증가.
+
+가열 HF의 임상적 이점은 리튬 디실리케이트에 한정되며, 장석계 도재 접착에는 상온 HF로 충분하다.
 
 ## Summary
 

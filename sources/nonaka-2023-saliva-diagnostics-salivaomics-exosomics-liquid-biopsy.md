@@ -17,13 +17,23 @@ text_filename: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biops
 
 기존 위키에는 침(saliva)이 질병의 *결과물*(COVID 후유증)로만 나타난다 — [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]. 이 JADA 리뷰는 침을 *진단 매체*로 뒤집는 관점(salivaomics·exosomics·liquid biopsy)을 도입해, 침샘 기능/구강건조 라인([[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]])과 대비되는 "침의 진단적 활용" 축을 새로 연다. Wong 그룹(UCLA)의 salivaomics 프레임워크 원전으로, 향후 침 바이오마커 overview의 앵커.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (JADA, Wong/UCLA group) framing three pillars of saliva-based diagnostics — salivaomics, saliva exosomics, and saliva liquid biopsy — and introducing the EFIRM electrochemical platform for noninvasive ctDNA detection of lung cancer, SARS-CoV-2, and other systemic disease from saliva.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 침 진단(saliva diagnostics)의 세 축 — 살리바오믹스(salivaomics), 침 엑소좀학(saliva exosomics), 침 액체생검(saliva liquid biopsy) — 을 정리하고, 채취·증폭 없이 저농도 표적을 잡는 EFIRM 전기화학 플랫폼으로 폐암 ctDNA·SARS-CoV-2를 침에서 검출한 서사적 리뷰 (JADA, Wong/UCLA 그룹).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

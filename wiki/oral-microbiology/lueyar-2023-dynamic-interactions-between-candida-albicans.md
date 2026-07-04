@@ -22,13 +22,21 @@ relations:
     target: koo-2013-exopolysaccharides-matrix-biofilm-virulence
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro eight-species supragingival biofilm study (3 experiments, triplicate; CFU + FISH/CLSM) showing that oral streptococci progressively lower C. albicans CFU — S. gordonii + S. mutans yields the lowest counts — while S. mutans plus a single mitis-group species induces C. albicans hyphae and multiple mitis species revert it to yeast form.
+In-vitro eight-species supragingival biofilm study (Zürich model, 3 experiments × triplicate, CFU on selective agar + FISH/CLSM) examining how individual streptococcal species affect *C. albicans*.
 
-## 한줄요약
+Progressive streptococcal richness lowered *C. albicans* CFU (*S. gordonii* + *S. mutans* yielded the lowest counts, p<0.01); *S. mutans* + a single mitis-group species induced hyphal form, while multiple mitis species co-existing reverted *C. albicans* to yeast.
 
-In-vitro 8종 상연골상(supragingival) 바이오필름(3회·삼중, CFU + FISH/CLSM): 구강 연쇄상구균을 더할수록 칸디다 알비칸스 (Candida albicans, C. albicans) CFU가 감소하고 스트렙토코쿠스 고르도니 (S. gordonii) + 스트렙토코쿠스 뮤탄스 (S. mutans) 조합이 최저치를 보였다. S. mutans + mitis군 단일종은 균사형(hypha)을 유도했으나 mitis 다종 공존 시 다시 효모형(yeast)으로 회귀 — 연쇄상구균 군집 복잡도가 진균 형태 전환을 조절.
+Community complexity governs *C. albicans* morphology switching — clinical relevance is that disrupted oral-streptococcal ecology may tip *C. albicans* toward the invasive hyphal form.
+
+## 세줄요약
+
+Zürich in-vitro 8종 상연골상 (supragingival) 바이오필름 모델 (3회·삼중, CFU + FISH/CLSM) — 개별 연쇄상구균 종이 *C. albicans*에 미치는 영향 분석.
+
+연쇄상구균 종 다양성 증가 → *C. albicans* CFU 감소 (*S. gordonii* + *S. mutans* 최저, p<0.01); *S. mutans* + mitis군 단일종 → 균사형 (hypha) 유도, mitis 다종 공존 → 효모형 (yeast) 회귀.
+
+구강 연쇄상구균 군집 복잡도가 칸디다 형태 전환을 조절 — 연쇄상구균 생태 교란이 침습성 균사형으로의 전환을 촉진할 수 있음.
 
 ## Summary
 

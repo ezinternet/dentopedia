@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (Vita Mark II, 1–10% HF, μTBS + 230-day aging + 12,000 thermocycles): HF ≥3% provides durable resin bond to feldspathic ceramic; 1% HF shows significant bond degradation after long-term aging.
+In vitro μTBS study (Vita Mark II feldspathic ceramic, four HF concentrations: 1/3/5/10%, 60 s etching, silanization, resin cement) evaluated immediate and aged (230 days + 12,000 thermocycles) bond strength with AFM/SEM surface analysis.
 
-## 한줄요약
+Immediate μTBS was equivalent across all HF concentrations (14.2–15.7 MPa); after aging, only HF 1% showed a significant bond strength decrease (14.5 → 10.2 MPa), while HF 3/5/10% groups maintained stable bonds; higher HF concentration lowered contact angle (UC 61.4° → HF10 17.5°).
 
-In vitro (Vita Mark II, 1–10% HF, μTBS, 230일 노화+12,000 열순환): HF 3% 이상에서 접착력 내구성 유지; 1% HF는 노화 후 유의하게 접착력 감소.
+A minimum of 3% HF is required for durable resin bonding to feldspathic ceramic; 5% HF (common clinical formulation) is reliable and equivalent to 10%, but 1% is insufficient for long-term integrity.
+
+## 세줄요약
+
+Vita Mark II 장석계 세라믹에 4가지 불산(HF) 농도(1/3/5/10%, 60초 식각)·실란화·레진 시멘트 적용 후 즉시 및 노화(230일 + 열순환 12,000회) 조건에서 μTBS를 AFM/SEM 표면 분석과 함께 평가한 in vitro 연구.
+
+즉시 결합강도는 모든 HF 군에서 동등(14.2–15.7 MPa)하였으나, 노화 후 HF 1% 군만 유의한 감소(14.5 → 10.2 MPa)를 보였고 HF 3/5/10% 군은 결합강도를 유지; HF 농도가 높을수록 접촉각 감소(UC 61.4° → HF10 17.5°).
+
+장석계 세라믹의 내구성 있는 수지 접착에는 최소 3% HF가 필요하며, 임상에서 흔히 사용하는 5%는 10%와 동등하지만 1%는 장기 접착 유지에 불충분하다.
 
 ## Summary
 

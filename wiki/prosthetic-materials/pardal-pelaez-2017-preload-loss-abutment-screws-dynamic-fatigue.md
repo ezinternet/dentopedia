@@ -23,13 +23,21 @@ relations:
     target: seong-2016-external-internal-implant-connection-system
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 10 in-vitro cyclic-loading studies: abutment-screw preload loss after dynamic fatigue ranges 16.1%–39%, and the internal connection — especially Morse taper — best resists screw loosening in single-tooth implant restorations.
+Systematic review (PRISMA; PubMed + EMBASE + Cochrane; 545 screened → 10 in-vitro cyclic-loading studies included; 16,667–1,000,000 cycles; 0–400 N loads) comparing internal vs external connection implants for abutment-screw preload loss after dynamic fatigue.
 
-## 한줄요약
+Post-fatigue torque loss ranged 16.1%–39%; internal connection + Morse taper best resisted screw loosening; all connections lost 2%–10% preload from settling alone (unloaded), recoverable by retightening ~10 min after tightening.
 
-10편의 in-vitro 반복하중 연구를 묶은 체계적 문헌고찰. 동적 피로 후 지대주 나사의 전하중 손실은 16.1%~39%였고, 단일치 임플란트 보철에서는 내부연결(internal connection), 특히 모스테이퍼(Morse taper)가 나사 풀림에 가장 잘 견딘다.
+Screw stability is multifactorial (connection type, screw design/material, abutment type, settling effect, occlusal loads); high methodological heterogeneity precluded meta-analysis; ISO 14801 does not standardize the tightening torque, introducing confounding.
+
+## 세줄요약
+
+내부 vs 외부 연결 임플란트의 동적 피로 후 지대주 나사 전하중(Preload) 손실을 비교한 체계적 문헌고찰(PRISMA; PubMed + EMBASE + Cochrane; 545편 검색 → in-vitro 반복하중 연구 10편; 16,667–1,000,000 사이클; 0–400 N).
+
+피로 후 토크 손실 16.1%–39%; 내부연결 + Morse taper가 나사 풀림에 가장 강함; 모든 연결형 하중 없이도 세틀링으로 2%–10% 예압 손실(~10분 후 재토크로 회복).
+
+나사 안정성은 다인자적(연결형, 나사 설계·재료, 지대주 형태, 세틀링 효과, 교합 하중); 방법론적 이질성으로 메타분석 불가; ISO 14801에 표준 토크값 미규정이 교란 요인.
 
 ## Summary
 

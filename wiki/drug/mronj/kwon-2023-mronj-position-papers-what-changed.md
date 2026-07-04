@@ -13,11 +13,21 @@ source_collection: external
 tags: [mronj, bronj, bisphosphonate, denosumab, antiresorptive, aaoms-position-paper, drug-holiday, romosozumab, korean-review]
 ---
 
-## One-line Summary
-Narrative review tracing the evolution of the AAOMS jaw-osteonecrosis position papers (2007 BRONJ → 2014 MRONJ → 2022 update), highlighting three clinically significant 2022 changes: immunomodulators (e.g., romosozumab) added to the disease definition, operative therapy extended to all stages (1, 2, 3), and the pre-surgical drug holiday recommendation no longer supported.
+## Three-line Summary
 
-## 한줄요약
-대한치과의사협회지 2023 종설: AAOMS MRONJ 권고안 변천(2007 BRONJ → 2014 MRONJ → 2022 update) 해설. 2022 핵심 변경 3가지 — (1) 정의에 면역조절제(Romosozumab 등) 추가, (2) 수술적 치료를 전 stage(1·2·3)로 확대, (3) 수술 전 약물 휴지기(drug holiday) 권고가 2022 paper에서 사라짐.
+Narrative review (JKDA 2023, Kwon TG) tracing AAOMS jaw-osteonecrosis position paper evolution (2007 BRONJ → 2014 MRONJ → 2022 update), comparing three clinically significant changes in the 2022 edition.
+
+The 2022 AAOMS update added immunomodulators (romosozumab) to the MRONJ definition, extended operative therapy to all stages (1, 2, 3) rather than advanced disease only, and removed the pre-surgical drug holiday recommendation due to insufficient evidence.
+
+Clinical implication: clinicians trained on pre-2022 guidelines should note that drug holiday is no longer recommended by AAOMS 2022, and stage 1 MRONJ now warrants surgical consideration — both are substantive practice changes.
+
+## 세줄요약
+
+서술적 고찰(JKDA 2023, 권태건) — AAOMS 턱뼈골괴사 권고안 변천(2007 BRONJ → 2014 MRONJ → 2022 update) 3가지 핵심 변경 사항 비교.
+
+2022 AAOMS 개정: (1) 정의에 면역조절제(Romosozumab 등) 추가, (2) 수술적 치료를 전 stage(1·2·3)로 확대, (3) 수술 전 drug holiday 권고 근거 부족으로 삭제.
+
+임상적 의미: 2022년 이전 지침으로 훈련된 임상가는 drug holiday 권고 삭제와 Stage 1의 수술적 접근 확대라는 두 가지 실질적 변화를 숙지해야 함.
 
 ## Summary
 Korean clinician review of how the AAOMS jaw-osteonecrosis position papers evolved. Antiresorptives (bisphosphonate, denosumab) reduce skeletal-related events but are linked to ONJ. The term moved from BRONJ (2007) to MRONJ (2014), with a May 2022 update revising disease definition and management. Three changes matter most clinically.

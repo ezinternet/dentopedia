@@ -15,13 +15,23 @@ category: [botulinum-toxin]
 
 수면 브럭시즘(SB)과 각성 브럭시즘(AB)을 **동시에 진단받은** 환자에서 BoNT-A가 수면 질에 미치는 효과를 평가한 드문 연구. 기존 논문들은 SB 또는 AB 중 하나만 대상으로 하는 경향. [[botulinum-toxin/hira-2026-masseter-botulinum-bruxism-severity-pain-sleep]]과 함께 "BoNT-A → 수면 질(PSQI) 개선" 임상 근거를 구성하는 핵심 쌍.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective observational study (n=40 women with awake + sleep bruxism) of standardized BTX-A injection (30U masseter + 20U temporalis) showed good sleep quality (PSQI ≤5) rising from 17.5% to 60% post-treatment, with significant improvements in all PSQI subscales. Abstract-only.
 
-## 한줄요약
+Prospective observational study (n=40 women with awake + sleep bruxism) of standardized BTX-A injection (30U masseter + 20U temporalis) showed good sleep quality (PSQI ≤5) rising from 17.5% to 60% post-treatment, with significant improvements in all PSQI subscales.
 
-각성 및 수면 브럭시즘을 동시 진단받은 여성 40명을 대상으로 표준화 BTX-A 주사(교근 30U + 측두근 20U) 후 PSQI 기준 수면의 질 양호 비율이 17.5%→60%로 증가하고 모든 수면 하위척도가 유의하게 개선된 전향 관찰 연구. 초록만 수집.
+Abstract-only.
+
+(incomplete)
+
+## 세줄요약
+
+
+각성 및 수면 브럭시즘을 동시 진단받은 여성 40명을 대상으로 표준화 BTX-A 주사(교근 30U + 측두근 20U) 후 PSQI 기준 수면의 질 양호 비율이 17.5%→60%로 증가하고 모든 수면 하위척도가 유의하게 개선된 전향 관찰 연구.
+
+초록만 수집.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,11 +16,21 @@ relations:
     target: theracem-bisco-product-reference
 ---
 
-## One-line Summary
-In-vitro study (Int J Periodontics Restorative Dent 2020; PMID 32233200) showing the MDP/CaF-releasing self-adhesive cement (TheraCem) outperforms non-MDP RelyX Unicem on enamel, dentin, and zirconia micro-shear bond strength after thermocycling.
+## Three-line Summary
 
-## 한줄요약
-in-vitro — MDP/CaF 방출 자가접착시멘트(TheraCem)가 비-MDP RelyX Unicem보다 법랑질·상아질·지르코니아 micro-shear 결합강도 우위(thermocycling 5000).
+In-vitro micro-shear bond strength study (Int J Periodontics Restorative Dent 2020) comparing a novel 10-MDP, calcium-fluoride-releasing self-adhesive resin cement (TheraCem) versus a non-MDP self-adhesive cement (RelyX Unicem) to enamel, dentin, and zirconia after 5,000 thermocycles.
+
+TheraCem showed significantly higher bond strength on all three substrates: enamel 6.46 vs 3.04 MPa (p=0.002), dentin 10.67 vs 6.46 MPa (p=0.014), and zirconia 39.76 vs 27.04 MPa (p<0.001).
+
+The 10-MDP functional monomer accounts for the durable adhesion to both tooth substrates and zirconia, supporting TheraCem as a preferred choice when cementing MDP-responsive restorations.
+
+## 세줄요약
+
+In-vitro micro-shear 결합강도 연구(Int J Periodontics Restorative Dent 2020): 10-MDP 및 불화칼슘 방출형 자가접착시멘트(TheraCem) vs 비-MDP 자가접착시멘트(RelyX Unicem)를 법랑질·상아질·지르코니아에 5,000 thermocycle 후 비교.
+
+TheraCem이 세 기질 모두에서 유의하게 높은 결합강도: 법랑질 6.46 vs 3.04 MPa(p=0.002), 상아질 10.67 vs 6.46 MPa(p=0.014), 지르코니아 39.76 vs 27.04 MPa(p<0.001).
+
+10-MDP(Methacryloyloxydecyl Dihydrogen Phosphate) 기능 모노머가 치아기질 및 지르코니아 내구성 접착의 핵심이며, MDP 반응형 수복물 합착 시 TheraCem 우선 고려 근거.
 
 ## Summary
 This laboratory study measured micro-shear bond strength of a novel 10-MDP, calcium-fluoride–releasing self-adhesive resin cement (TheraCem) versus a non-MDP self-adhesive cement (RelyX Unicem) to enamel, dentin, and zirconia after 5,000 thermocycles. TheraCem showed significantly higher bond strength on all substrates: enamel 6.46 vs 3.04 MPa (p=.002), dentin 10.67 vs 6.46 MPa (p=.014), zirconia 39.76 vs 27.04 MPa (p<.001). The 10-MDP functional monomer is credited for the durable zirconia and tooth-substrate bonding.

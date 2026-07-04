@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 TMD 물리치료(physiotherapy) 접근 방법을 SR로 정리. [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]]의 약물치료 근거를 보완하여 비약물 보존적 치료 옵션의 근거 기반 제공.
 
-## One-line Summary
+## Three-line Summary
+
 SR (15 RCTs, PubMed/ScienceDirect/Dialnet/PEDro): physiotherapy — especially combination of manual therapy + therapeutic exercise — is effective for TMD pain, function, and QoL.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR (15 RCT): 물리치료, 특히 수기치료+운동치료 병용이 TMD 통증·기능·삶의 질에 효과적.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 12(12):4156 (2023)

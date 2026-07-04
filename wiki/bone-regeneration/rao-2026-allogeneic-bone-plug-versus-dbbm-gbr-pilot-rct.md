@@ -22,13 +22,21 @@ relations:
     target: manfro-2013-bovine-bone-substitutes-comparative-histomorphometric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pilot RCT (n=25; ACBP 12 vs DBBM 13, sinus floor elevation + socket preservation GBR): at 6 months, partially demineralized allogeneic cancellous bone plug matched DBBM on CBCT dimensional stability and vital bone (38.84% vs 32.18%, P=0.105) but showed significantly lower residual graft (11.18% vs 19.80%, P=0.006).
+Pilot RCT (n=25; ACBP 12 vs DBBM 13; sinus floor elevation and socket preservation pooled) with 6-month histomorphometry from a 3-mm trephine core and CBCT-based dimensional analysis.
 
-## 한줄요약
+ACBP and DBBM were statistically equivalent in vital bone (38.84% vs 32.18%, P=0.105) and CBCT dimensional stability, but ACBP left significantly less residual graft (11.18% vs 19.80%, P=0.006), interpreted as faster turnover rather than greater osteogenesis.
 
-소규모 RCT (총 25명; ACBP 12명 vs DBBM 13명, 상악동거상 + 발치와 보존 GBR): 6개월 시점 CBCT 차원 안정성과 생활골 비율은 동등(38.84% vs 32.18%, P=0.105)했으나, 부분탈회 동종골 plug가 잔존 graft 비율은 유의하게 낮았다(11.18% vs 19.80%, P=0.006).
+The study is underpowered (no a priori power calculation), pools two different indications, and has only 6-month follow-up — results are hypothesis-generating, not practice-changing.
+
+## 세줄요약
+
+소규모 파일럿 RCT(n=25; ACBP 12명 vs DBBM 13명; 상악동거상·발치와 보존 혼합): 6개월 3-mm 트레핀 조직형태계측 + CBCT 차원분석.
+
+생활골 비율(38.84% vs 32.18%, P=0.105) 및 CBCT 차원 안정성은 동등; ACBP가 잔존 이식재 유의하게 낮음(11.18% vs 19.80%, P=0.006) → 골형성 우월이 아닌 재형성 속도 차이로 해석.
+
+사전 검정력 계산 없음·두 적응증 혼합·6개월 단기 추적 — 가설 생성 수준, 임상 권고 근거로 부적합.
 
 ## Summary
 

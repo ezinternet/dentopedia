@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective human retrieval study (n=93 Bicon plateau root form implants, 120 days–~18 years in function) demonstrating that both BIC and BAFO increase progressively over functional loading time, independent of implant surface type, diameter, length, jaw, and region.
+Retrospective histomorphometric human retrieval study of n=93 Bicon plateau root form implants (functional loading range 120 days to ~18 years) using a multivariable model with six independent variables.
 
-## 한줄요약
+Both BIC and BAFO increased significantly with time in function; surface type, diameter, length, jaw, and region were not significant predictors.
 
-인간 회수 임플란트 93개(Bicon, 기능 부하 120일~약 18년)를 조직형태계측 분석하여 골-임플란트 접촉률(BIC)과 골면적분율(BAFO)이 임플란트 디자인 및 임상 변수와 무관하게 기능 부하 기간에 따라 지속적으로 증가함을 증명한 후향적 연구.
+Long-term physiologic loading progressively densifies the bone-implant interface — prosthetic retreatment from a clinically osseointegrated implant does not compromise osseointegration quality.
+
+## 세줄요약
+
+후향적 조직형태계측 연구 — 인간 회수 임플란트 93개(Bicon, 기능 부하 120일~약 18년), 6개 독립변수 다변량 모델.
+
+골-임플란트 접촉률(Bone-to-Implant Contact, BIC)과 골면적분율(Bone Area Fraction Occupancy, BAFO) 모두 기능 부하 기간에 따라 유의하게 증가; 표면 종류·직경·길이·악골·부위는 유의한 예측인자 아님.
+
+장기 기능 부하가 골-임플란트 계면을 지속적으로 치밀화함을 직접 입증 — 보철 재제작 목적 회수는 골유착 질 저하 없이 가능.
 
 ## Summary
 

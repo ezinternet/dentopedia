@@ -18,13 +18,21 @@ relations:
     target: avelino-2024-clinical-performance-digitally-fabricated-complete
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR of 39 clinical studies (2000–2022) on digital complete denture fabrication: border-molded impression and trial denture placement remain essential steps; digital workflows save 205–233 min chairtime but up to 37.5% of patients experience retention loss and 31.3% require denture remakes.
+Systematic review (PRISMA 2020; 1,780 records → 39 clinical studies, 2000–2022; majority poor-to-fair quality, 7 RCTs fair-to-good) mapping which clinical and laboratory procedures are used in digital complete denture fabrication and how they affect outcomes.
 
-## 한줄요약
+Border-molded impressions produced maxillary denture-base retention of 14.5–16.1 N versus only 6.2–6.6 N for intraoral scanning (p<0.05); digital workflows saved 205–233 minutes of chairtime, but complication rates were high: up to 37.5% retention loss, 31.3% denture remakes, and 66.7% pressure sores.
 
-39편 SR: 디지털 총의치 제작 시 테두리형성 인상과 시적의치는 여전히 필수; 디지털 워크플로우는 임상시간을 205–233분 절약하지만 유지력 상실(37.5%)·재제작(31.3%) 합병증이 빈발.
+Despite time savings, border-molded impressions and formal trial denture placement (used in only 13/39 studies) remain the most evidence-supported steps; both milling and 3D printing yield similar patient satisfaction and OHRQoL, so fabrication method can be chosen on cost/availability grounds.
+
+## 세줄요약
+
+PRISMA 2020 SR(1,780건 → 39편 임상연구, 2000–2022; 대부분 낮음·보통 질, RCT 7편만 양호) — 디지털 총의치 제작의 임상·기공 절차 변이를 최초로 체계적으로 매핑.
+
+테두리형성 인상의 상악 기저부 유지력(14.5–16.1 N)은 구내스캔(6.2–6.6 N)보다 유의하게 높음(p<0.05); 디지털 워크플로우는 205–233분 절약, 그러나 합병증: 유지력 상실 37.5%, 재제작 31.3%, 압박 궤양 66.7%.
+
+시간 절약에도 불구하고 테두리형성 인상과 시적의치(39편 중 13편만 시행)는 여전히 근거가 가장 강한 필수 단계; 밀링·3D프린팅의 환자 만족도·OHRQoL은 동등하므로 비용·가용성에 따라 선택 가능.
 
 ## Summary
 

@@ -22,13 +22,21 @@ relations:
     target: pui-yii-2021-glide-path-apical-bacteria-extrusion
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA 2020; qualitative synthesis, no MA) of 5 RCTs (n=554) finding rotary and reciprocating NiTi systems produce comparable postoperative pain after nonsurgical endodontic retreatment; pain is mild, peaks at 24 h, and declines over time without consistent dependence on kinematics.
+Systematic review (PRISMA 2020, PROSPERO-registered; 5 RCTs, n=554) specifically comparing rotary vs reciprocating NiTi kinematics for postoperative pain after nonsurgical endodontic retreatment — the first SR to focus exclusively on the retreatment context.
 
-## 한줄요약
+Rotary and reciprocating systems produced comparable postoperative pain across all five trials; pain was mild, peaked at 24 hours, and declined to minimal by 7–14 days regardless of kinematics, with no significant difference in analgesic consumption.
 
-RCT 5편(n=554)을 정성종합한 체계적 문헌고찰: 비외과적 재근관치료에서 회전(rotary)·왕복(reciprocating) NiTi 시스템 간 술후통 차이는 대체로 없고, 통증은 경미하며 24시간에 최고였다가 시간이 지나며 감소 — kinematics에 일관되게 의존하지 않음.
+GRADE certainty is low to very low, and instrument selection should be driven by canal anatomy and operator familiarity rather than expected pain differences.
+
+## 세줄요약
+
+PRISMA 2020 준수, PROSPERO 등록 체계적 문헌고찰(RCT 5편, n=554): 비외과적 재근관치료(non-surgical endodontic retreatment)에서 회전(Rotary)·왕복(Reciprocating) NiTi 기구 운동형식과 술후통 비교를 전담으로 다룬 최초의 SR.
+
+5편 모두 양 군 간 술후통 발생률·강도에 유의한 차이 없음; 통증은 경미하고 24시간 최고, 7–14일이면 미미한 수준으로 감소, 진통제 소비량도 동등.
+
+GRADE 근거 수준 낮음–매우 낮음이며, 기구 선택은 기대 통증 차이보다 근관 해부 및 술자 숙련도 기준으로 결정해야 한다.
 
 ## Summary
 

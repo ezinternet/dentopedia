@@ -30,13 +30,21 @@ tags: [centric-relation, centric-occlusion, maximum-intercuspation, intercuspal-
 > - **임상 합의점(실무 결론)**: ① **전악수복**처럼 기존 MIP를 잃거나 바꿔야 하면 → **재현 가능한 CR/CO를 기준위로** 채택(Kattadiyil·Goldstein). ② **건강하고 안정적인 유치악 + 소량 활주(<2mm)·무증상**이면 → 기존 **MIP를 수용**(Zonnenberg). ③ **과두 변형/불안정·TMD 징후**면 → 과두 안착을 신뢰 말고 **근육 유도 안정위/조기접촉 없는 ICP**로(Fukushima), 그리고 과두위 변화를 추적(Fornai). 변형 골격(hyperdivergent)·큰 활주는 경계.
 > - **공통 한계**: 정의 불일치, 저질·이질적 근거, 측정법 표준 부재. CR↔MIP 우월성을 가리는 고품질 RCT는 없고, 건강인에서 어느 위치로 회복하든 보철 부작용의 결정적 차이는 보고되지 않음.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 9 papers on which maxillomandibular reference position should guide occlusal reconstruction — condyle-based centric relation/centric occlusion (CR/CO) vs tooth-based maximum intercuspation (MIP/ICP): CO and MIP are usually non-coincident, the CR–MIP slide is normally <2 mm, and consensus favours restoring full-mouth cases in a reproducible CR/CO while accepting an existing healthy MIP in stable dentate patients with small, asymptomatic slides.
+Synthesis of 9 papers on maxillomandibular reference position for occlusal reconstruction: CO and MIP are non-coincident in most dentate patients (Kattadiyil 2021 Best Evidence Consensus), normal centric slide is <2 mm sagittal (Fornai 2022 citing Pullinger), and "centric relation" itself has a contested definition — the 2021 Zonnenberg/Türp/Greene position calls for abandoning the term while Goldstein 2022 defends it as a reproducible restorative reference.
 
-## 한줄요약
+Practical decision: full-mouth/large reconstruction → build to a reproducible CR/CO (Kattadiyil, Goldstein); deformed/unstable condyles or TMD signs → target a muscle-guided premature-contact-free ICP (Fukushima 2016); healthy dentate with slide <2 mm and no symptoms → accept existing MIP (Zonnenberg 2021); hyperdivergent skeletal pattern is the strongest risk factor for posteroinferior condylar displacement on the CR→MIP path (Radej 2023 scoping review).
 
-교합 재건의 기준위(중심위 CR/중심교합 CO vs 최대교두감합위 MIP/ICP)를 다룬 9편 종합 — CO와 MIP는 대개 불일치하고 정상 중심활주는 <2mm이며, 전악수복은 재현 가능한 CR/CO로 회복하되 안정적·무증상 소량활주 유치악자는 기존 MIP를 수용하는 것이 현재 합의.
+Clinical bottom line: MIP contact count varies 11–70 depending on detection method (Qadeer & Türp 2023 systematised review), so "restoring to MIP" requires standardised indicator documentation; long-term function-defined chewing-position CR showed 63% concordance with MIP and was durable over ~10 years (Kwak 2025 prospective case series); no high-quality RCT comparing CR/CO vs MIP-based reconstruction on long-term outcomes exists.
+
+## 세줄요약
+
+9편 종합: CO와 MIP는 유치악 대다수에서 불일치(Kattadiyil 2021 BECS); 정상 중심활주(CR-MIP slide) <2mm(Fornai 2022); "중심위(CR)"는 용어 자체가 논쟁 중 — 폐기파(Zonnenberg 2021)와 유지파(Goldstein 2022) 대립.
+
+임상 결정: 전악수복 → 재현 가능한 CR/CO로 구축(Kattadiyil, Goldstein); 과두 불안정·TMD 징후 → 근육 유도 ICP(Fukushima 2016); 건강한 유치악·활주<2mm·무증상 → 기존 MIP 수용(Zonnenberg 2021); 과두개산형(hyperdivergent) 골격이 CR→MIP 후하방 과두변위 최강 위험인자(Radej 2023).
+
+임상 결론: MIP 교합접촉 수가 검출지시재에 따라 11~70개로 가변(Qadeer & Türp 2023), 표준 지시재 문서화 필수; 기능 정의 저작위 기반 CR은 10년 추적에서 MIP와 63% 일치·안정적(Kwak 2025); CR/CO vs MIP 기반 수복 head-to-head 고품질 RCT 부재.
 
 ## Thesis
 

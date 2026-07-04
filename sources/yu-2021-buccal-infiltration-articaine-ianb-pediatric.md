@@ -13,11 +13,21 @@ source_collection: external
 
 신설 local-anesthesia의 소아 축. 성인 [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]]와 짝 - BI가 IANB 대안이라는 결론을 연령대로 확장.
 
-## One-line Summary
-SR+MA (7 RCTs) - in children, buccal articaine infiltration is a viable alternative to lignocaine IANB for mandibular molars (success OR 1.02 NS; pain NS), with a tendency toward higher success with infiltration.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(7 RCT) - 소아 하악구치에서 articaine 협측침윤이 lignocaine IANB의 대안으로 유효(성공률 OR 1.02 NS; 통증 NS), 침윤이 성공률 높은 경향.
+SR+MA (7 RCTs) - in children, buccal articaine infiltration is a viable alternative to lignocaine IANB for mandibular molars (success OR 1.02 NS;
+
+pain NS), with a tendency toward higher success with infiltration.
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA(7 RCT) - 소아 하악구치에서 articaine 협측침윤이 lignocaine IANB의 대안으로 유효(성공률 OR 1.02 NS;
+
+통증 NS), 침윤이 성공률 높은 경향.
+
+(incomplete)
 
 ## 1. Document Information
 Med Oral Patol Oral Cir Bucal 2021;26(6):e754-e761 · J. Yu, S. Liu, X. Zhang · 2021 · DOI: 10.4317/medoral.24726. Study type: sr+ma.

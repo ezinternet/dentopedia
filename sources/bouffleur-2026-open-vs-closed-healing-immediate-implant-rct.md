@@ -10,8 +10,21 @@ pdf_filename: bouffleur-2026-open-vs-closed-healing-immediate-implant-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Heidelberg Univ RCT (Int J Implant Dent 2026, n=46 patients / 48 implants): 즉시 임플란트에서 open vs closed healing 술기 비교 — Pink Esthetic Score (PES) open group 유의하게 우수 (MD -1.49, 95% CI -2.36 to -0.62, p=0.0014).
+## Three-line Summary
+
+RCT (Heidelberg University; Int J Implant Dent 2026; 46 patients, 48 implants; open n=25 vs closed healing n=23) comparing esthetic and volumetric outcomes of open vs closed healing after immediate implant placement over 12 months.
+
+Open healing yielded significantly superior Pink Esthetic Score (PES) at 12 months (MD −1.49, 95% CI −2.36 to −0.62, p=0.0014); implant survival and volumetric changes were secondary endpoints.
+
+This single-center 12-month RCT supports open healing (healing abutment) over submerged healing for soft-tissue esthetics in immediate implants, though longer follow-up and multicenter validation are needed.
+
+## 세줄요약
+
+RCT (하이델베르크대, Int J Implant Dent 2026; 46명·48개 임플란트; open n=25 vs closed n=23): 즉시 임플란트에서 open vs closed healing의 심미·부피 변화를 12개월 비교.
+
+Open healing이 12개월 Pink Esthetic Score(PES) 유의하게 우수(MD −1.49, 95% CI −2.36 ~ −0.62, p=0.0014); 생존율·부피 변화는 이차 평가변수.
+
+즉시 임플란트의 연조직 심미를 위해 open healing(치유 지대주)이 지지되나, 단일기관·12개월 추적의 한계가 있어 다기관 장기 검증이 필요.
 
 ## 2. Key Contributions
 - 즉시 식립 open vs closed healing 직접 RCT 비교.

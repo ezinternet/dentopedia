@@ -13,13 +13,23 @@ source_collection: external
 
 치주치료(SRP/subgingival instrumentation)가 단순 구강 결과를 넘어 전신 대사 지표(HbA1c)를 임상적으로 의미 있게 개선한다는 최고 등급(Cochrane SR+MA) 근거로, 당뇨 환자의 치주관리 정당화에 핵심. [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]]의 비외과적 SRP 효과 근거를 전신 건강(혈당 조절) 측면으로 확장하며, [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]의 NSPT 전신영향 주제와 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a moderate-certainty absolute HbA1c reduction of 0.43% (4.7 mmol/mol) at 3-4 months vs no treatment/usual care, sustained at 6 and 12 months.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 Cochrane 체계적 문헌고찰+메타분석(RCT 35편, 무작위배정 3249명, 대부분 제2형 당뇨): 치은연하 기구조작(subgingival instrumentation, SRP)에 의한 치주치료가 무처치/일상관리 대비 3-4개월 시점 당화혈색소(HbA1c)를 0.43%(4.7 mmol/mol) 절대 감소시켰고(중등도 근거), 6·12개월에도 유지됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

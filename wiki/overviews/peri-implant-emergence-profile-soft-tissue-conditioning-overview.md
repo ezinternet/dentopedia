@@ -35,13 +35,21 @@ tags: [emergence-profile, critical-contour, subcritical-contour, customized-heal
 > - **디지털 캡처 선례 (monaco 2016, technique)**: li(2019)의 "0초 붕괴" 문제를 2016년에 이미 인지 — 스캔바디(STL1) + 임시보철 구강내·외 이중 스캔(STL2)을 중첩(STL3)해 인상 없이 맞춤 CAD/CAM 지대주 제작; li·azpiazu-flores 캡처 논의의 초기/토대적 선례.
 > - 공백 갱신: **재료 비교 공백은 rios-osorio(2025)가 부분 해결** — XCM 하위유형(가교/비가교)별 CTG 대비 우열은 이제 SR+MA 근거 확보. 단 core 3편(gomez-meda·ruales-carrera·azpiazu-flores)의 정량 심미결과(PES/WES) 부재, 준임계 오목 vs 중립 head-to-head, 디지털 캡처 3방식 정확도 비교는 여전히 미해결.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 11 papers (1 SR+MA, 2 narrative-reviews, 2 prospective, 2 case reports/series, 2 animal, 1 technique short communication, 1 clinical technique article) establishing how peri-implant emergence profile is designed (the 4-zone critical/subcritical framework), executed (customized healing abutments and 3D-printed emergence-profile formers), captured (interim-restoration-in-place scanning, including an early digital-impression precedent), and materially provisioned (SR+MA-tier xenogeneic-collagen-matrix vs autograft comparison, GBR-driven "bone drives soft tissue" grafting, and combined hard+soft dehiscence management).
+Synthesis of 11 papers establishing the peri-implant emergence-profile arc: the 4-zone critical/subcritical (EBC) framework (Gomez-Meda 2021) governs gingival-margin position and crestal-bone stability; the provisional/healing abutment — not the definitive crown — is the primary tissue-shaping instrument; the profile collapses the instant the interim restoration is removed (Li 2019, logarithmic recovery).
 
-## 한줄요약
+Material-choice: SR+MA of 17 RCTs (Ríos-Osorio 2025) shows crosslinked XCM (VCMX) equals CTG for mucosal thickness while non-crosslinked XCM is inferior and FGG retains superiority for keratinized-mucosa width; the "bone drives soft tissue" counter-strategy (Le 2022) and combined hard+soft dehiscence GBR (Lee 2025) extend the arc into complex management.
 
-임플란트 출현윤곽 설계·맞춤 연조직 컨디셔닝 11편 종합: 임계/준임계 4-zone 개념틀(gomez-meda)을 맞춤 치유지대주·3D 프린팅 성형체(ruales-carrera·azpiazu-flores)로 실행하고, 임시보철 제거 0초에 윤곽이 붕괴하므로(li) 임시보철 유지 상태로 캡처해야 하며(monaco의 초기 디지털 캡처 선례 포함), 최종 크라운이 아니라 임시보철·치유지대주가 1차 성형 도구이고, 연조직 증대 재료 선택은 이제 SR+MA(rios-osorio) 근거로 가교형 XCM=CTG 동등·FGG>XCM* 각화폭 우위가 확립되었으며, 골 우선 전략(le·blaskovic)과 열구결손 GBR(lee)이 범위를 hard+soft 복합관리로 확장함.
+Clinical capture rule: scan or impress with the interim restoration in place or via a customized scan body (Monaco 2016 precedent, Azpiazu-Flores 2025 EPF) — bare stock scan body records a collapsed contour.
+
+## 세줄요약
+
+임플란트 출현윤곽(Emergence Profile) 설계·맞춤 연조직 컨디셔닝 11편 종합 — 임계윤곽(Critical Contour, Zone3)이 치은연 위치를, 준임계윤곽(Sub-critical Contour, Zone2)이 치조정골 안정을 결정하며(Gomez-Meda 2021), 임시보철·맞춤 치유지대주(Customized Healing Abutment)가 1차 성형 도구.
+
+임시보철 제거 0초부터 윤곽 붕괴 시작·로그함수 회복(Li 2019) → 임시보철 유지 상태 또는 윤곽 복제 scan body로 캡처 필수(Monaco 2016 선례; Azpiazu-Flores 2025 3D-프린팅 성형체).
+
+재료 선택은 SR+MA(Ríos-Osorio 2025, 17 RCT)로 가교형 XCM(VCMX)=결합조직이식(CTG) 동등·비가교 XCM 열위·유리치은이식(FGG)>XCM* 각화폭 확립; 골 우선 전략(Le 2022)·열구결손 GBR(Lee 2025)이 hard+soft 복합관리로 확장.
 
 ## Summary
 

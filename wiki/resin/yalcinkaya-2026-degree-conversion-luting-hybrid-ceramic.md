@@ -20,11 +20,21 @@ relations:
     target: li-2025-curing-modes-dual-cure-dentin
 ---
 
-## One-line Summary
-In-vitro FTIR study (n=7/group, 63 specimens) comparing degree of conversion of dual-cure resin cement, flowable composite, and bulk-fill composite polymerized beneath hybrid ceramic (Cerasmart) CAD/CAM substrates of 1.5/2.0/2.5 mm thickness: flowable composite had the highest DC at ≤2.0 mm but dropped to the lowest at 2.5 mm, while dual-cure resin cement was the most thickness-stable and had the highest DC at 2.5 mm.
+## Three-line Summary
 
-## 한줄요약
-in-vitro FTIR 연구(그룹당 n=7, 총 63개 시편) — hybrid ceramic(Cerasmart) CAD/CAM 기판 두께(1.5/2.0/2.5mm)에 따른 dual-cure resin cement·flowable composite·bulk-fill composite의 degree of conversion 비교: flowable composite는 ≤2.0mm에서 DC 최고이나 2.5mm에서 최저로 급락, dual-cure resin cement는 두께 전반 가장 안정적이며 2.5mm에서 DC 최고.
+In-vitro ATR-FTIR study (n=7/group, 63 specimens) comparing degree of conversion (DC) of dual-cure resin cement, flowable composite, and bulk-fill composite polymerized beneath Cerasmart 270 hybrid ceramic CAD/CAM substrates of 1.5, 2.0, and 2.5 mm thickness.
+
+Significant material × thickness interaction (p<0.001): flowable composite had the highest DC at ≤2.0 mm (36.57% at 1.5 mm) but collapsed to the lowest at 2.5 mm (11.69%); dual-cure resin cement was the most thickness-stable and highest DC at 2.5 mm (30.88%); bulk-fill composite showed stable but intermediate DC across all thicknesses.
+
+Luting material selection should be thickness-driven: use flowable composite for thin restorations (≤2.0 mm) and dual-cure resin cement for restorations >2.0 mm to ensure adequate polymerization beneath hybrid ceramic CAD/CAM substrates.
+
+## 세줄요약
+
+In-vitro ATR-FTIR 연구 (그룹당 n=7, 총 63개 시편) — Cerasmart 270 하이브리드 세라믹 (Hybrid Ceramic) CAD/CAM 기판 두께(1.5/2.0/2.5 mm)에 따른 이중경화 레진시멘트 (Dual-Cure Resin Cement)·플로어블 복합레진 (Flowable Composite)·벌크필 복합레진 (Bulk-Fill Composite)의 중합도 (Degree of Conversion, DC) 비교.
+
+재료 × 두께 유의한 상호작용(p<0.001): 플로어블 복합레진은 ≤2.0 mm에서 DC 최고(1.5 mm에서 36.57%)이나 2.5 mm에서 최저(11.69%)로 급락; 이중경화 레진시멘트는 전 두께에서 가장 안정적이고 2.5 mm에서 최고(30.88%); 벌크필 복합레진은 전 두께에서 안정적이나 중간 수준.
+
+합착재 선택은 두께 기반으로: ≤2.0 mm 수복물에는 플로어블 복합레진, >2.0 mm에는 이중경화 레진시멘트 사용이 하이브리드 세라믹 CAD/CAM 하부의 충분한 중합 확보에 유리.
 
 ## Summary
 This in-vitro study evaluated how hybrid ceramic CAD/CAM substrate thickness (1.5, 2.0, 2.5 mm; Cerasmart 270, GC) affects the degree of conversion (DC, via ATR-FTIR) of three light-curable luting materials from the same manufacturer: a dual-cure resin cement (Estecem II Plus), a flowable composite (Estelite Universal Flow), and a bulk-fill composite (Estelite Bulk-Fill Flow). It also characterized how substrate thickness changes the optical properties (translucency, opalescence, contrast ratio) of the hybrid ceramic itself, mechanistically linking reduced light transmission to reduced DC. The core finding is a significant material × thickness interaction: no single luting material is universally superior — flowable composite wins at ≤2.0 mm but fails badly at 2.5 mm, while dual-cure resin cement is comparatively thickness-independent and becomes the best performer at 2.5 mm. Bulk-fill composite sits in between, statistically stable across thicknesses but never the top performer. Clinically, this supports thickness-based luting material selection rather than a one-size-fits-all default.

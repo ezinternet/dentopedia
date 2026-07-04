@@ -13,13 +13,23 @@ source_collection: external
 
 치주-임플란트 소프트 티슈 관리에서 각화점막 증대(Keratinized Mucosa Augmentation, KMA) 수술의 적응증과 술식 선택 기준이 임상적으로 자주 혼선되어 왔다. 이 컨센서스 문서는 second-stage surgery 시점에 한정해 각 술식(ARF, FGG, SFGG, 소프트티슈 대체재)별 적응증·결정 트리를 명시적으로 제공함으로써, 기존의 개괄적 소프트티슈 지침([[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]])을 second-stage 시점 임상 워크플로우로 구체화한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Chinese multi-center expert consensus (29 authors, IJOS 2025) providing a technique-selection decision tree for peri-implant keratinized mucosa augmentation at second-stage surgery based on implant site, residual KM width, mucosa thickness, and patient factors.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 중국 다기관 전문가 컨센서스(저자 29인, IJOS 2025): 2차 수술 시 치근임플란트 각화점막 증대술의 술식 선택(ARF·FGG·SFGG·소프트티슈 대체재)을 임플란트 위치·잔존 각화점막 폭·점막 두께·환자 요소 기반으로 구조화한 결정 트리 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -27,13 +27,21 @@ tags: [orofacial-pain, trigeminal-neuralgia, post-traumatic-trigeminal-neuropath
 > - 예방·의뢰 원칙: 치성 원인이 검사·영상에서 확인 안 되는 지속통이면 비가역 치료 전에 신경병증을 의심하고 진단적 국소마취 검사·CBCT·신경병증 선별검사 후 의뢰. IAN 근접 하악 구치부·근관 과충전(sealer extrusion)·과계측이 위험 (Alkhutari 2023, Baek 2010).
 > - 임상 결론: 유발점·발작성이면 TN(→약물+신경과), 시술 후 지속통이면 PTTN(→비가역 치료 중단·통증전문의 의뢰) — 두 신경병성 통증을 치통과 감별하는 것이 죄 없는 치아를 지키는 첫 단계다. [근거: SR 2편·단면조사 1편·서사리뷰 1편]
 
-## One-line Summary
+## Three-line Summary
 
-Clinical synthesis of 4 wiki pages on neuropathic orofacial pain of dental relevance: trigeminal neuralgia (TN — paroxysmal, trigger-evoked, first-line carbamazepine/oxcarbazepine, MVD surgery) and post-traumatic trigeminal neuropathy (PTTN — continuous post-injury pain; endodontics = 8% of iatrogenic nerve injuries behind third molars/implants/extraction/LA), the altered-sensation risk after posterior-mandibular implant surgery (IAN/mental nerve, 0–55% incidence), and a documented dentist-awareness gap (29% unaware PTTN exists) — all converging on the same clinical imperative: distinguish neuropathic from odontogenic pain to avoid unnecessary endodontic retreatment/extraction of innocent teeth.
+Clinical synthesis of 4 papers on neuropathic orofacial pain: TN (paroxysmal, trigger-evoked, first-line carbamazepine/oxcarbazepine, MVD surgery for classical vascular-compression TN) and PTTN (continuous post-injury pain ≥3 months; endodontics = 8% of iatrogenic nerve injuries), plus altered-sensation risk after posterior-mandibular implant surgery (IAN/mental nerve, 0–55% incidence, most resolving in 6 months) and a dentist-awareness gap (29% unaware PTTN exists, >80% never trained).
 
-## 한줄요약
+The unifying imperative is distinguishing neuropathic from odontogenic pain: PTTN is repeatedly mislabeled atypical odontalgia and managed by irreversible retreatment/extraction — a pattern documented in 71.7% of practitioners who encountered PTTN cases yet only ~1 in 3 referred to a pain specialist.
 
-치과 관련 신경병성 구강안면통증 wiki 4편 임상 종합 — 삼차신경통(TN, 발작성·유발점·1차 카르바마제핀/옥스카르바제핀·수술 MVD)과 외상후 삼차신경병증(PTTN, 시술 후 지속통·근관치료가 의인성 신경손상의 8%)을 다루고, 하악 구치부 임플란트 후 감각이상(IAN/이신경, 0–55%)과 치과의사 인식 공백(29%가 PTTN 존재 모름)을 통합해 "신경병성 vs 치성 통증 감별로 죄 없는 치아를 지킨다"는 하나의 임상 명제로 수렴.
+Clinically: trigger-evoked paroxysmal pain → TN (pharmacology + neurology referral); post-procedure continuous pain → PTTN (halt irreversible treatment, pain specialist referral); IAN-proximity posterior-mandibular procedures need a ≥2 mm (panoramic) or ≥1 mm (CT) safety zone.
+
+## 세줄요약
+
+치과 관련 신경병성 구강안면통증 wiki 4편 종합 — TN(발작성·유발점·1차 카르바마제핀/옥스카르바제핀·MVD 수술)과 PTTN(시술 후 지속통; 근관치료가 의인성 신경손상의 8%), 하악 구치부 임플란트 후 감각이상(IAN/이신경, 0–55%, 대부분 6개월 내 회복), 치과의사 인식 공백(29%가 PTTN 모름·>80%가 교육 미경험)을 통합.
+
+PTTN은 비전형 치통으로 오진되어 재근관·발치 같은 비가역 치료로 대응되는 패턴이 반복됨(PTTN 경험 71.7% 중 통증전문의 의뢰는 1/3에 불과); 경보 원칙: 치성 원인이 확인 안 되는 지속통이면 비가역 치료 전에 신경병증을 의심할 것.
+
+임상 rule: 유발점·발작통 → TN(약물·신경과 의뢰); 시술 후 지속통 → PTTN(비가역 치료 중단·통증전문의 의뢰); 하악 구치부 IAN 근접 술식은 안전대 ≥2 mm(파노라마)·≥1 mm(CT) 확보 필수.
 
 ## Summary
 

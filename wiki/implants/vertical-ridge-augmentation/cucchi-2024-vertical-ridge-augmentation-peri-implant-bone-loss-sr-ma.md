@@ -13,13 +13,21 @@ source_collection: external
 tags: [peri-implant-bone-loss, vra-techniques, gbr, onlay, inlay, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR/MA of 42 studies (11 RCTs): peri-implant bone loss (PBL) as the primary outcome across VRA techniques pooled to 1.38 mm (95% CI 1.10–1.66) at mean 41.0 ± 27.8 months, varying by technique (SBB 0.66, GBR 1.06, Onlay 1.31, Inlay 1.72, osteodistraction 1.81 mm).
+First SR/MA to use peri-implant bone loss (PBL) as the primary outcome across VRA techniques; 42 studies (11 RCTs; GBR, inlay, onlay, osteodistraction, split bone block) with ≥12-month loading follow-up (mean 41.0 ± 27.8 months).
 
-## 한줄요약
+Overall weighted mean PBL was 1.38 mm (95% CI 1.10–1.66); technique-specific PBL (weighted mean estimate): SBB 0.66 mm, GBR 1.06 mm, Onlay 1.31 mm, Inlay 1.72 mm, osteodistraction 1.81 mm.
 
-42편(RCT 11편) SR/MA: VRA 기법에서 임플란트주위골소실(PBL)을 1차 결과로 분석 — 통합 1.38 mm (95% CI 1.10–1.66, 평균 41.0±27.8개월), 기법별 SBB 0.66 / GBR 1.06 / Onlay 1.31 / Inlay 1.72 / 골신장술 1.81 mm.
+VRA technique appears to influence long-term peri-implant bone maintenance; SBB and GBR show the lowest PBL, but evidence is mostly observational and heterogeneous — long-term RCTs for each technique are still needed to confirm ranking.
+
+## 세줄요약
+
+수직골증대(Vertical Ridge Augmentation, VRA) 기법별 임플란트주위골소실(Peri-implant Bone Loss, PBL)을 1차 결과로 분석한 최초 SR/MA; 42편(RCT 11편; GBR·Inlay·Onlay·골신장·분할골 블록), 로딩 후 ≥12개월(평균 41.0±27.8개월).
+
+전체 통합 PBL 1.38 mm(95% CI 1.10–1.66); 기법별 가중평균: 분할골블록(Split Bone Block, SBB) 0.66 mm, 골유도재생(Guided Bone Regeneration, GBR) 1.06 mm, Onlay 1.31 mm, Inlay 1.72 mm, 골신장술(Osteodistraction) 1.81 mm.
+
+VRA 기법이 장기 임플란트주위골 유지에 영향을 주는 것으로 보이며 SBB·GBR이 가장 낮은 PBL — 그러나 관찰 연구 비중이 높고 이질성 크므로, 기법 간 순위 확정을 위한 장기 RCT 필요.
 
 ## Summary
 

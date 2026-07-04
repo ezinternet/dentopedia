@@ -13,13 +13,21 @@ source_collection: external
 tags: [soft-tissue-expansion, flap-dehiscence, microcirculation, vertical-augmentation, gbr, bcp, animal-study, histomorphometry]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Randomized split-mouth animal study (10 beagle dogs, supra-alveolar critical-size mandibular defects): pre-augmentation soft-tissue expansion (STE) before alloplastic-scaffold (BCP/PEG) vertical GBR eliminated flap dehiscence (0/STE vs 8 control, p=0.002), preserved flap microcirculation, and significantly increased new bone (median NB 3.81 vs 1.06 mm², p=0.023).
+Randomized split-mouth dog study (10 beagles, bilateral supra-alveolar critical-size mandibular defects) testing 5-week pre-augmentation soft-tissue expansion (STE) via self-filling tissue expander before vertical GBR with BCP + resorbable PEG membrane (equal scaffold volumes both sides).
 
-## 한줄요약
+STE eliminated flap dehiscence (0 vs 8 control exposures, p=0.002), preserved post-augmentation flap microcirculation (perfusion stable in STE vs significant drop in controls, p=0.012), and significantly increased new bone (median 3.81 vs 1.06 mm², p=0.023) while reducing connective-tissue fill (19.80% vs 42.27%, p=0.009).
 
-무작위 분할구 동물 연구 (비글견 10마리, 하악 임계크기 상치조 결손): 수직 골유도재생(BCP/PEG) 전 연조직 확장(STE)을 시행하면 피판 열개가 사라지고(STE 0 vs 대조군 8, p=0.002), 피판 미세순환이 보존되며 신생골이 유의하게 증가(중앙값 3.81 vs 1.06 mm², p=0.023).
+The mechanistic chain — STE → preserved microcirculation → no dehiscence → more new bone — provides the biological rationale for the emphasis on flap management and tension-free closure in Ti-mesh GBR literature (cf. Chiapasco 2021: exposed sites lose significantly more graft volume).
+
+## 세줄요약
+
+무작위 분할구 동물 연구(비글견 10마리, 하악 양측 임계 크기 상치조 결손): 자가팽창 조직 확장기(5주)로 연조직 확장(Soft Tissue Expansion, STE) 후 BCP+흡수성 PEG막 수직 골유도재생(GBR) 시행(양측 동일한 이식 용적).
+
+STE → 피판 열개 완전 소실(STE 0 vs 대조 8건, p=0.002), 술 후 피판 미세순환 보존(STE 안정 vs 대조 유의 감소, p=0.012), 신생골 유의 증가(중앙값 3.81 vs 1.06 mm², p=0.023), 결합 조직 충전 감소(19.80% vs 42.27%, p=0.009).
+
+기전 연결 고리 — STE → 미세순환 보존 → 열개 없음 → 신생골 증가 — 는 Ti 메시 GBR 문헌에서 피판 관리·장력 없는 봉합이 강조되는 생물학적 근거; Chiapasco 2021에서 노출 부위의 이식 용적 손실이 유의하게 컸던 소견과 일치.
 
 ## Summary
 

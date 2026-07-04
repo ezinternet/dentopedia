@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of 13 RCTs comparing etch-and-rinse (E&R) vs self-etch (SE) modes of universal adhesives in clinical restorations: E&R was significantly superior for retention (OR 0.35, p=0.003), marginal adaptation (OR 0.49, p<0.001), and marginal staining (OR 0.49, p<0.001), with no significant difference in secondary caries or postoperative sensitivity.
+## Three-line Summary
 
-## 한줄요약
-유니버설 접착제(Universal Adhesive)를 임상에서 사용 시 산부식-세척법(Etch-and-Rinse)이 자가산부식법(Self-Etch)보다 유지율, 변연적합도, 변연착색 모두에서 통계적으로 유의하게 우수함을 13개 RCT 메타분석으로 확인.
+PRISMA SR+MA (PubMed/Cochrane/Embase, Jan 2000–Mar 2020; 2,516 initial records; 13 RCTs included; RevMan 5.3.5) comparing etch-and-rinse (E&R) vs self-etch (SE) application modes of universal adhesives in clinical restorations across retention, marginal adaptation, marginal staining, secondary caries, and postoperative sensitivity.
+
+E&R mode was significantly superior for retention (OR 0.35; 95% CI 0.18–0.71; p=0.003), marginal adaptation (OR 0.49; 95% CI 0.36–0.67; p<0.001), and marginal staining (OR 0.49; 95% CI 0.36–0.66; p<0.001); no significant difference for secondary caries or postoperative sensitivity.
+
+When optimal retention and marginal quality are priorities in general restorations, E&R mode of universal adhesives is preferred — contrasting with NCCL-specific meta-analyses that show no E&R advantage for cervical lesions.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰+메타분석(PubMed·Cochrane·Embase, 2000년 1월~2020년 3월; 초기 2,516건; 13개 RCT 포함; RevMan 5.3.5): 임상 수복에서 유니버설 접착제의 산부식-세척(Etch-and-Rinse, E&R)과 자가산부식(Self-Etch, SE) 방식 비교.
+
+E&R이 유지율(OR 0.35; 95% CI 0.18–0.71; p=0.003), 변연적합도(OR 0.49; p<0.001), 변연착색(OR 0.49; p<0.001) 모두에서 SE보다 유의하게 우수; 이차 우식·술후 과민증에서는 유의차 없음.
+
+일반 수복에서 최적 유지율·변연 질이 목표일 때 유니버설 접착제의 E&R 방식이 권장됨 — 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL)에서 차이 없음을 보인 메타분석들과 대비되는 결과.
 
 ## Summary
 This systematic review and meta-analysis analyzed 13 randomized clinical trials to compare etch-and-rinse (E&R) vs self-etch (SE) application modes of universal adhesives. E&R mode demonstrated significantly better retention (OR 0.35, p=0.003), marginal adaptation (OR 0.49, p<0.001), and marginal staining (OR 0.49, p<0.001). No significant differences existed in secondary caries or postoperative sensitivity between modes. Literature searched from January 2000 to March 2020 across PubMed, Cochrane Library, and Embase.

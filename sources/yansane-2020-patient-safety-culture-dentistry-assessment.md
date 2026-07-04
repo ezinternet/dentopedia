@@ -16,13 +16,23 @@ text_filename: yansane-2020-patient-safety-culture-dentistry-assessment.txt
 
 Empirical measurement of patient safety culture in dental settings, quantifying how dentistry lags medicine on most safety-culture dimensions while leading in teamwork and organizational learning. Reinforces [[practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma]] by treating teamwork as a measurable safety-culture dimension and providing the dental-clinic baseline that team-performance interventions would target. (Note: this is abstract-only — full text not retrieved.)
 
-## One-line Summary
+## Three-line Summary
+
 
 Cross-sectional survey (modified MOSPSC, 4 US dental institutions, n=656, 40.6% response) finding medical institutions outperform dental on 9/10 safety-culture dimensions, with dental clinics strongest in organizational learning (85%) and teamwork (79%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 미국 4개 치과기관 단면조사(수정 MOSPSC 설문, n=656, 응답률 40.6%): 의료기관이 10개 안전문화 영역 중 9개에서 치과를 앞섰고, 치과는 조직학습(85%)·팀워크(79%)에서 가장 강점을 보였다 (초록 전용 — 전문 미확보).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

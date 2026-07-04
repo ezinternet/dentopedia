@@ -17,13 +17,23 @@ text_filename: lehmann-2026-distance-exposure-mode-degree-conversion-rbc.txt
 
 The wiki's curing-mode evidence so far is anchored in dual-cure cement chemistry ([[resin-bonding/li-2025-curing-modes-dual-cure-dentin]]: light-curing vs self-curing of dual-cure resin cements at dentin). This paper extends the "curing mode/exposure" question to direct resin-based composites and, critically, adds the LED curing-light DEVICE parameters (tip-to-surface distance, exposure protocol: standard/soft-start/pulse) that Li 2025 does not address — a genuine light-curing-unit operational-parameter study rather than a material-chemistry study.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro preliminary study (n=81 specimens, 27 groups: 3 composites × 3 exposure modes × 3 distances) using Raman spectroscopy to measure degree of conversion (DC): material type and distance significantly affected top-surface DC (p<0.001, p=0.049), while material type and exposure mode significantly affected bottom-surface DC (p<0.001, p=0.032); flowable composite had the highest DC (top 74%, bottom >60%), bulk-fill the lowest (bottom <45%, below the ~55% clinically suggested minimum).
 
-## 한줄요약
+In vitro preliminary study (n=81 specimens, 27 groups: 3 composites × 3 exposure modes × 3 distances) using Raman spectroscopy to measure degree of conversion (DC): material type and distance significantly affected top-surface DC (p<0.001, p=0.049), while material type and exposure mode significantly affected bottom-surface DC (p<0.001, p=0.032);
 
-시험관내 예비연구 (n=81 시편, 27개 그룹: 복합레진 3종 × 노출모드 3종 × 거리 3단계), 라만분광법으로 전환율 (Degree of Conversion, DC) 측정: 상면 DC는 재료·거리가 유의(p<0.001, p=0.049), 하면 DC는 재료·노출모드가 유의(p<0.001, p=0.032); 유동성 레진이 최고 DC(상면 74%, 하면 >60%), 벌크필 레진이 최저(하면 <45%, 임상적 최소 권장치 ~55% 미달).
+flowable composite had the highest DC (top 74%, bottom >60%), bulk-fill the lowest (bottom <45%, below the ~55% clinically suggested minimum).
+
+(incomplete)
+
+## 세줄요약
+
+
+시험관내 예비연구 (n=81 시편, 27개 그룹: 복합레진 3종 × 노출모드 3종 × 거리 3단계), 라만분광법으로 전환율 (Degree of Conversion, DC) 측정: 상면 DC는 재료·거리가 유의(p<0.001, p=0.049), 하면 DC는 재료·노출모드가 유의(p<0.001, p=0.032);
+
+유동성 레진이 최고 DC(상면 74%, 하면 >60%), 벌크필 레진이 최저(하면 <45%, 임상적 최소 권장치 ~55% 미달).
+
+(incomplete)
 
 ## 1. Document Information
 

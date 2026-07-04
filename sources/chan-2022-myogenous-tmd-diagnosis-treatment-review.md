@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 근육형 TMD (M-TMD)에 특화된 진단·치료 임상 업데이트. DC/TMD의 근육 진단 하위분류(근통·건염·근염·경련)와 트리거포인트 기반 감별진단 제공. [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]]의 개요를 M-TMD에 특화해서 심화.
 
-## One-line Summary
-Clinical update review (HK Univ, Diagnostics 2022): myogenous TMD — DC/TMD classification (myalgia/tendonitis/myositis/spasm), trigger-point diagnosis, multidisciplinary treatment from conservative to minimally invasive.
+## Three-line Summary
 
-## 한줄요약
-임상 업데이트 (2022): 근육형 TMD — DC/TMD 분류(근통·건염·근염·경련), 트리거포인트 감별, 보존적~최소침습 다학제 치료.
+Narrative clinical update review (Hong Kong, Diagnostics 2022) on myogenous temporomandibular disorders (M-TMD), which constitute approximately 45.3% of all TMDs; covering DC/TMD classification, risk factors (psychosocial stress, bruxism, COVID-19), diagnostic criteria, and multidisciplinary treatment.
+
+DC/TMD classifies M-TMD into myalgia (local/myofascial/myofascial with referral), tendonitis, myositis, and spasm; treatment escalates from conservative (education, splints, NSAIDs, CBT) through minimally invasive (trigger point injection, dry needling, botulinum toxin, low-level laser).
+
+This is a narrative review without quantitative outcome data; it provides the classification and decision framework for M-TMD but does not synthesize comparative efficacy across treatment modalities.
+
+## 세줄요약
+
+홍콩대 Diagnostics 2022 서술적 임상 업데이트 고찰로, 전체 TMD의 약 45.3%를 차지하는 근육형 악관절장애(Myogenous Temporomandibular Disorder, M-TMD)의 DC/TMD 분류·위험요인(심리사회적 스트레스·이갈이·코로나19)·진단기준·다학제 치료를 정리.
+
+DC/TMD는 M-TMD를 근통(국소/근막/방사 근막통)·건염·근염·경련으로 세분하며, 치료는 보존적(교육·스플린트·NSAIDs·CBT)에서 최소침습적(트리거포인트 주사·건침·보툴리눔독소·저강도레이저)으로 단계적 접근.
+
+서술적 고찰로 정량 치료결과 데이터 없음; 치료 양식 간 비교 효능을 종합하지 않고 M-TMD의 분류·의사결정 틀을 제공하는 데 집중.
 
 ## 1. Document Information
 - **Journal**: Diagnostics 12(12):2914 (2022)

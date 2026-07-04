@@ -19,13 +19,21 @@ relations:
     target: alhomoud-2023-behavior-anxiety-levels-pediatric-patient
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/PICO) of 22 RCTs (n=2,558 children, ~5–12 y) finding immersive 3D VR distraction effectively reduces dental anxiety and pain during treatment, generally surpassing conventional behaviour-management techniques; a few studies found tablets/screen distraction matched or beat VR.
+PRISMA systematic review (PROSPERO CRD4202340967; 525 abstracts → 22 RCTs, n=2,558 children mostly 5–12 y, 9 countries) focused exclusively on immersive 3D VR distraction (32 non-immersive 2D-glasses trials deliberately excluded) for behaviour management during paediatric dental treatment.
 
-## 한줄요약
+All 22 included RCTs found immersive VR reduced dental anxiety and/or pain versus controls; no study found conventional non-screen techniques superior to VR; however, a few studies found tablets/screen distraction equal to or better than VR (especially during inferior alveolar nerve block), and 14/22 studies carried moderate-to-high risk of bias.
 
-소아 치과 22편 RCT(총 2,558명) 체계적 고찰 — 몰입형 3D 가상현실(VR) 주의분산이 치료 중 치과불안·통증을 유의하게 줄이며 전통적 행동조절(Tell-Show-Do)보다 대체로 우월했으나, 일부 연구에서는 태블릿/화면 주의분산이 동등하거나 더 효과적이었다.
+VR is a promising behaviour-management adjunct for children, but meta-analysis was precluded by scale heterogeneity; near-universal use below manufacturer age minimums, minimal cybersickness monitoring, and a boundary effect during highly painful procedures (nerve blocks) are key limitations.
+
+## 세줄요약
+
+PRISMA SR(22편 RCT, 총 2,558명 소아, 5–12세 주, 9개국) — 비몰입형 2D 고글 32편을 의도적으로 제외하고 몰입형 3D VR 주의분산만 소아 치과 행동관리에서 평가.
+
+포함된 22편 모두에서 VR이 대조군(Tell-Show-Do·수동 주의분산 등)보다 불안·통증 감소 효과 보고; 구내 신경차단 시에는 태블릿/화면 주의분산이 VR과 동등하거나 우월한 경우 있음. 14/22편 중등도~높은 비뚤림 위험.
+
+VR은 유망한 행동관리 보조 도구이나 척도 이질성으로 메타분석 불가; 제조사 연령 기준 이하 사용 보편화·멀미 모니터링 부재·신경차단 시 효과 제한이 주요 한계.
 
 ## Summary
 

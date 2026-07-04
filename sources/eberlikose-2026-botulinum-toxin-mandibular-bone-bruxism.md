@@ -15,13 +15,22 @@ category: [botulinum-toxin]
 
 처음으로 BoNT-A 브럭시즘 치료가 하악골 형태에 방사선학적으로 측정 가능한 변화를 준다는 증거. 기존 보유 BoNT-A 논문들([[botulinum-toxin/manfredini-2019-botulinum-toxin-bruxism-tmj-rct]] 등)은 통증·기능 개선에 집중하며 골 리모델링 효과는 미보고. 본 연구는 피질골 두께 증가 및 G2/G3(비정상) 형태 감소라는 골 구조 개선 근거를 최초로 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case-control (n=60, 3 groups) using panoramic radiography showed BoNT-A-treated bruxism patients had increased cortical thickness and reduced G2/G3 mandibular morphology vs untreated bruxism, suggesting BoNT-A reduces occlusal overload-driven pathological bone remodeling. Abstract-only.
+Retrospective case-control study (n=60: 20 BoNT-A-treated bruxism, 20 untreated bruxism, 20 healthy controls) evaluated with panoramic radiography at baseline and 6-month follow-up, assessing mandibular morphology and cortical thickness.
 
-## 한줄요약
+BoNT-A-treated bruxism patients showed significantly increased cortical thickness and decreased G2/G3 (pathological) mandibular morphology compared to untreated bruxism, with no significant difference in antegonial notch depth.
 
-파노라마 방사선 사진을 이용한 후향 케이스-컨트롤 연구(n=60, 3군)에서 BoNT-A 치료 브럭시즘 군이 미치료 브럭시즘 군 대비 피질골 두께 증가 및 비정상 하악골 형태(G2/G3) 감소를 보여, BoNT-A가 교합 과부하로 인한 병적 골 리모델링을 억제함을 제안. 초록만 수집.
+Clinical implication: BoNT-A treatment may reverse pathological mandibular bone remodeling by reducing masticatory stress; however, abstract-only status limits dose/site specifics, and panoramic radiography has lower precision than CBCT for cortical measurements.
+
+## 세줄요약
+
+
+파노라마 방사선 사진을 이용한 후향 케이스-컨트롤 연구(n=60, 3군)에서 BoNT-A 치료 브럭시즘 군이 미치료 브럭시즘 군 대비 피질골 두께 증가 및 비정상 하악골 형태(G2/G3) 감소를 보여, BoNT-A가 교합 과부하로 인한 병적 골 리모델링을 억제함을 제안.
+
+초록만 수집.
+
+(incomplete)
 
 ## 1. Document Information
 

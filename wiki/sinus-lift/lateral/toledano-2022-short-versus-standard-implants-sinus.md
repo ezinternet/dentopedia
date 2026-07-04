@@ -13,11 +13,21 @@ source_collection: external
 tags: [short-implants, sinus-lift, sinus-augmentation, posterior-maxilla, MBL, implant-survival, meta-analysis]
 ---
 
-## One-line Summary
-Meta-analysis (14 RCTs, 901 implants) comparing short implants (≤6 mm, no sinus lift) vs standard implants (≥8 mm with sinus lift) in the atrophic posterior maxilla found equivalent implant survival (RR 1.02, p=0.09) but significantly less marginal bone loss (MBL) with short implants (0.11 mm less at ≤1 year, 0.23 mm less at >1 year), supporting short implants as a primary alternative to sinus augmentation.
+## Three-line Summary
 
-## 한줄요약
-MA (14 RCTs, 901임플란트): 단임플란트(≤6mm) = 표준+상악동거상 생존 동등; MBL ≤1년 0.11mm, >1년 0.23mm 더 적음
+Meta-analysis (14 RCTs, 901 implants) comparing short implants (≤6 mm, no sinus lift) vs standard implants (≥8 mm with sinus floor augmentation) in the atrophic posterior maxilla for survival, marginal bone loss (MBL), and complications.
+
+Implant survival was equivalent (RR 1.02, p=0.09); short implants showed significantly less MBL at ≤1 year (MD 0.11 mm, p=0.03) and >1 year (MD 0.23 mm, p=0.005); sinus lift complication rates reached up to 38%.
+
+Short implants (≤6 mm) are supported as a primary alternative to sinus augmentation in the atrophic posterior maxilla, offering less morbidity, lower cost, and better peri-implant bone maintenance.
+
+## 세줄요약
+
+메타분석 (14 RCTs, 901개 임플란트): 위축된 후방 상악에서 단임플란트 (≤6 mm, 거상 없음) vs 표준 임플란트 (≥8 mm, 상악동거상 포함) 생존율·변연골 소실 (Marginal Bone Loss, MBL)·합병증 비교.
+
+임플란트 생존율 동등 (위험비 RR 1.02, p=0.09); 단임플란트에서 MBL ≤1년 0.11 mm (p=0.03), >1년 0.23 mm (p=0.005) 유의하게 적음; 상악동거상 합병증률 최대 38%.
+
+단임플란트 (≤6 mm)는 위축 후방 상악의 1차 대안으로 지지됨 — 낮은 이환율·비용 절감·골 유지 개선.
 
 ## Summary
 Meta-analysis of 14 RCTs comparing short implants (≤6 mm, no sinus lift) vs. standard implants (≥8 mm, with sinus lift) in atrophic posterior maxilla. **Implant survival is equivalent**, but **short implants show significantly less MBL** at all time points. Short implants also offer less morbidity and shorter treatment time.

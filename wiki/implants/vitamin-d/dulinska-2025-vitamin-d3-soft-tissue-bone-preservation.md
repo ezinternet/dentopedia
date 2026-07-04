@@ -19,13 +19,21 @@ relations:
     target: miron-2025-vitamin-d-deficiency-early-implant-failure
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective observational study (72 patients / 115 implants); vitamin D deficiency was associated with significantly greater peri-implant bone loss, and gingival (soft-tissue) thickness independently affected alveolar bone preservation around the implant platform regardless of vitamin D3 status.
+Retrospective observational study (72 patients / 115 implants, single center, January 2022 – February 2023) examining how preoperative serum vitamin D3 level and soft-tissue (gingival) thickness affect alveolar bone preservation around the implant platform.
 
-## 한줄요약
+Vitamin D deficiency was associated with significantly greater peri-implant marginal bone loss; gingival thickness independently affected bone preservation regardless of vitamin D3 status, acting as a separate determinant.
 
-후향적 관찰연구(환자 72명 / 임플란트 115개): 비타민 D 결핍군에서 임플란트 주위 골소실이 유의하게 많았고, 연조직 두께(soft tissue/gingival thickness)는 비타민 D3 상태와 무관하게 변연골 소실(marginal bone loss, MBL) 보존에 독립적으로 영향을 주었다 — 25-하이드록시콜레칼시페롤(25-hydroxycholecalciferol, 25(OH)D) 모니터링과 치은 두께 평가의 병행을 제안.
+Clinicians should assess both serum 25(OH)D and radiological gingival thickness preoperatively, as these two factors independently predict bone preservation outcomes around implants.
+
+## 세줄요약
+
+후향적 관찰연구 (환자 72명 / 임플란트 115개, 단일 기관, 2022년 1월 – 2023년 2월): 술전 혈청 비타민 D3 농도와 치은 두께가 임플란트 플랫폼 주위 골 보존에 미치는 영향을 평가하였다.
+
+비타민 D 결핍군에서 임플란트 주위 변연골 소실(marginal bone loss, MBL)이 유의하게 컸으며, 치은 두께(soft-tissue thickness)는 비타민 D3 상태와 무관하게 골 보존에 독립적으로 영향을 미쳤다.
+
+25-하이드록시콜레칼시페롤(25-hydroxycholecalciferol, 25(OH)D) 모니터링과 방사선학적 치은 두께 평가를 함께 시행하는 술전 워크플로우를 통해 예측 가능한 임플란트 결과를 도출할 수 있다.
 
 ## Summary
 

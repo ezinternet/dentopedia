@@ -21,13 +21,21 @@ relations:
     target: prott-2025-partial-coverage-restorations-posterior-scoping
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR+MA (abstract-only) of cervical margin relocation (CMR/DME): does not harm periodontal health in healthy/stabilized patients — pooled probing-depth reduction MD -0.96 mm (95% CI -1.50 to -0.42; I2=0%) and BOP MD -0.52 (I2=27%→0% after one outlier removed); marginal adaptation driven by bonding strategy and material, adhesively bonded glass-ceramics best.
+PRISMA SR+MA (abstract-only; searched PubMed, Scopus, Google Scholar, Web of Science) pooling periodontal and restorative outcomes of cervical margin relocation (CMR) / deep margin elevation (DME) in periodontally healthy or stabilized patients.
 
-## 한줄요약
+CMR does not harm periodontal health: pooled probing-depth reduction MD -0.96 mm (95% CI -1.50 to -0.42; I²=0%) and BOP MD -0.52 (I²=27%→0% after one outlier removed); marginal adaptation was driven by bonding strategy and restorative material, with adhesively bonded glass-ceramics performing best.
 
-PRISMA 체계적 문헌고찰+메타분석(초록만): 치경부 변연 재위치(Cervical Margin Relocation, CMR / Deep Margin Elevation, DME)는 치주가 건강하거나 안정된 환자에서 치주 건강을 해치지 않으며(통합 탐침깊이 -0.96 mm, 탐침 시 출혈 -0.52 감소), 변연 적합도는 접착 전략·수복 재료에 좌우되어 접착성 글라스세라믹이 가장 우수했다.
+CMR/DME is compatible with periodontal health in properly selected patients and can be recommended when subgingival proximal margins are present; material and bonding strategy — not technique alone — determine restorative success.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰+메타분석(초록만; PubMed·Scopus·Google Scholar·Web of Science 검색): 치주적으로 건강하거나 안정된 환자에서 치경부 변연 재위치(Cervical Margin Relocation, CMR) / 심부 변연 거상(Deep Margin Elevation, DME)의 치주·수복 결과를 통합.
+
+CMR은 치주 건강을 해치지 않음: 통합 탐침깊이(Probing Depth, PD) 감소 평균차 -0.96 mm(95% CI -1.50 ~ -0.42, I²=0%), 탐침 시 출혈(Bleeding on Probing, BOP) 감소 평균차 -0.52(이상치 제거 후 I²=0%); 변연 적합도는 접착 전략과 수복 재료에 크게 좌우되어 접착성 글라스세라믹이 최고 성과.
+
+치주가 건강하거나 안정된 환자에서 치은연하 근원심 변연이 있을 때 CMR/DME는 치주 건강과 양립 가능하며 권장 가능; 수복 성공의 핵심은 술식 자체보다 접착 전략과 재료 선택임.
 
 > **Abstract-only ingest** — full text not retrieved (no PMC open access). Summary/Results reflect the abstract only.
 

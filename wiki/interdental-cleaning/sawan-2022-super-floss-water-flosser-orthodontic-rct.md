@@ -22,13 +22,21 @@ relations:
     target: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind split-mouth RCT (n=34 fixed-orthodontic patients) — Super Floss and a Waterpik water flosser were equally effective at immediate plaque removal (both RMNPI ~0.6→0.13, between-group p=0.951), with the water flosser marginally better only at the distal molar interproximal surface (MD −0.21, 95% CI −0.37 to −0.04, p=0.033).
+Single-blind split-mouth RCT (n=34 near-end-of-treatment fixed-orthodontic patients, mean age 23.7 y) comparing a single cleaning session of Oral-B Super Floss vs Waterpik Cordless Freedom water flosser on one randomly assigned side each, measured by RMNPI immediately before and after.
 
-## 한줄요약
+Super Floss and the water flosser were equally effective overall (both RMNPI ~0.6→0.13, ≈4-fold reduction, between-group p=0.951); the only significant divergence was at the distal molar interproximal surface where the water flosser was superior (MD −0.21, 95% CI −0.37 to −0.04, p=0.033).
 
-교정환자 34명 단일맹검 split-mouth RCT — 슈퍼플로스 (Super Floss)와 수압치실 (Water Flosser, Waterpik)이 즉시 치면세균막 제거에서 동등 (둘 다 RMNPI ~0.6→0.13, 군간 p=0.951), 손이 닿기 어려운 대구치 원심 인접면에서만 수압치실이 근소하게 우세 (평균차 −0.21, 95% CI −0.37~−0.04, p=0.033). 둘 다 안전·효율적.
+Either aid is a defensible recommendation for orthodontic interproximal cleaning (patient preference/dexterity can guide choice), with the water flosser holding a small advantage at hard-to-reach distal molar sites; the study measured only immediate single-visit plaque removal, not longitudinal gingival outcomes.
+
+## 세줄요약
+
+단일맹검 split-mouth RCT(교정치료 말기 34명, 평균 23.7세): 한쪽은 Oral-B Super Floss, 반대쪽은 Waterpik 무선 워터플로서로 1회 세정 후 Rustogi Modified Navy Plaque Index(RMNPI)를 즉시 전후로 측정.
+
+두 기기 모두 전체적으로 동등한 즉시 치태 제거(둘 다 RMNPI ≈0.6→0.13, 약 4배 감소, 군간 p=0.951); 단, 대구치 원심 인접면에서만 워터플로서가 유의하게 우세(MD −0.21, 95% CI −0.37~−0.04, p=0.033).
+
+두 기기 모두 교정 인접면 세정에 적합하며 환자 선호도·손재주에 따라 선택 가능; 워터플로서는 손이 닿기 어려운 대구치 원심부에서 소폭 우위; 단, 1회 즉시 치태 측정만으로 장기 치은 결과는 알 수 없다.
 
 ## Summary
 

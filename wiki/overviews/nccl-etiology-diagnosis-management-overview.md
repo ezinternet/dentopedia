@@ -47,11 +47,21 @@ tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective
 > - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable은 6개월에 유지 붕괴(성공 33% vs 3-step E&R 100%, Celik 2015) → 사용 지양; 경화상아질은 산부식 30초 연장 + 표면 텍스처링.
 > - gap: bruxer/고위험 환자 데이터 공백(주요 RCT가 severe bruxism 배제), monitoring → 수복 전환의 정량 임계값 부재.
 
-## One-line Summary
-NCCLs are multifactorial (stress + friction + biocorrosion), the abfraction-as-sole-cause theory is unproven, asymptomatic lesions are best monitored, and when restoration is indicated retention depends on the adhesive/etching step — selective enamel etching helps and skipping the adhesive (self-adhesive flowable) fails.
+## Three-line Summary
 
-## 한줄요약
-NCCL은 stress·friction·biocorrosion 다인성이며 abfraction 단독원인설은 미입증, 무증상은 monitoring이 원칙, 수복 시 유지력은 접착·산부식 단계에 좌우(selective enamel etching 유리, self-adhesive flowable 실패).
+Synthesis of 16 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association unconclusive; Duangthip 2017 — 81% association but lab-weighted; Dioguardi 2024 scoping — neither confirms nor refutes with only 6 eligible studies).
+
+Asymptomatic, vital, structurally stable NCCLs should be monitored for ≥6 months before any intervention; prophylactic restoration solely for progression-prevention or routine occlusal adjustment is not indicated; restoration triggers are confirmed progression, hypersensitivity, esthetic concern, structural threat, or food retention.
+
+When restoration is required, success depends not on composite type but on the adhesive/etching step — universal adhesive in E&R vs selective-enamel-etching modes shows equivalent long-term performance (Peumans 2023 RCT), selective enamel etching reduces retention loss (Omoto 2025 RCT), while self-adhesive flowable composite (which skips the adhesive step) fails by 6 months (success 33% vs 100% for 3-step E&R, Celik 2015).
+
+## 세줄요약
+
+비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 16편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
+
+무증상·생활치·구조 안정 병변은 최소 6개월 monitoring 우선; 진행 예방 목적의 예방적 수복·교합조정은 비적응증; 수복 trigger는 진행 확인·과민증·심미·구조적 위협·음식물 정체.
+
+수복 시 성공은 복합레진 종류가 아닌 접착/산부식 단계에 좌우 — universal adhesive E&R vs selective enamel etching(SEE) 모드는 장기 동등(Peumans 2023 RCT), SEE는 유지력 손실 감소(Omoto 2025 RCT), 접착 단계를 생략하는 self-adhesive flowable은 6개월에 실패(성공 33% vs 3-step E&R 100%, Celik 2015).
 
 ## Thesis
 NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진단하나, (2) 관찰할 것인가 수복할 것인가, 수복한다면 어떻게 하나. 현재 best evidence의 결론:

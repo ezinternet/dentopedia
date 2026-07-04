@@ -22,13 +22,21 @@ relations:
     target: damico-2025-third-molar-surgical-indications-guidelines
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Dual-part paper (narrative review + SR, 11 studies, 2000–2021): local irrigation/debridement is evidence-based first-line treatment for pericoronitis, yet ~75% of dentists prescribe antibiotics, making pericoronitis one of the top drivers of inappropriate antibiotic use in dentistry.
+Dual-part paper — narrative evidence synthesis plus SR of 11 studies (2000–2021) — reviewing evidence-based pericoronitis management and surveying actual antibiotic prescribing behavior among dentists.
 
-## 한줄요약
+Local irrigation/debridement is the evidence-based first-line treatment for mild/moderate pericoronitis, with antibiotics reserved for spread of infection or systemic involvement, yet ~75% of surveyed dentists prescribe antibiotics, ranking pericoronitis in the top 1–4 diagnoses for inappropriate antibiotic use.
 
-서술 검토 + 체계적 문헌고찰(11편): 치관주위염(pericoronitis)의 근거 기반 치료는 국소 세척·변연제거이나 치과의사의 약 75%가 항생제를 처방해, 치과 항생제 과처방의 핵심 원인으로 지목됨.
+The evidence-practice gap is driven by diagnostic uncertainty (47.3%), time pressure (30%), and treatment-delay decisions (72.5%); aPDT is an emerging adjunct though evidence is still early-stage.
+
+## 세줄요약
+
+서술 검토 + 체계적 문헌고찰(11편, 2000–2021): 치관주위염(Pericoronitis)의 근거 기반 1차 치료는 국소 세척·변연제거이며 항생제는 심부감염/전신증상 동반 시에만 적응증.
+
+그러나 설문 연구에서 치과의사 약 75%, 환자 코호트에서 50% 이상이 항생제를 투여 — 치과 항생제 과처방의 1~4위 진단으로 반복 등장.
+
+과처방 원인: 진단 불확실성(47.3%)·시간 압박(30%)·치료 지연 결정(72.5%); 항균 광역학치료(aPDT)는 저항성 없는 보조요법으로 가능성 있으나 초기 근거 수준.
 
 ## Summary
 

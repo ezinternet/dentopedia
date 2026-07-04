@@ -14,11 +14,19 @@ source_collection: external
 tags: [zirconia, cad-cam, marginal-fitness, internal-fitness, bur, preparation, crown, in-vitro]
 ---
 
-## One-line Summary
-In vitro study (Korean J Dent Mater 2016) comparing CAD/CAM zirconia core fit across abutments prepared with 4 bur tip designs: torpedo and deep chamfer burs (0/10 seating failures) gave significantly superior marginal/internal fit, while the shoulder bur failed full seating in 9/10 specimens and was clinically unsuitable.
+## Three-line Summary
+In vitro study (Korean J Dent Mater 2016) comparing CAD/CAM zirconia core marginal and internal fit across abutments prepared with four bur tip designs: torpedo, deep chamfer, sloped shoulder, and shoulder.
 
-## 한줄요약
-In vitro: torpedo·deep chamfer bur → 우수한 변연/내부 적합도; shoulder bur → 90% 완전 안착 실패; 임상 부적합
+Torpedo and deep chamfer burs produced zero seating failures (0/10) and marginal gaps within the clinical threshold of 100–150 μm; the shoulder bur failed full seating in 9/10 specimens due to internal interference, making it clinically unsuitable.
+
+For CAD/CAM zirconia crown preparations, torpedo or deep chamfer burs with 12° axial taper and 0.7 mm marginal width are recommended — shoulder bur use requires mandatory laboratory internal adjustment and cumulative error.
+
+## 세줄요약
+in-vitro(대한치과재료학회지 2016): torpedo·deep chamfer·sloped shoulder·shoulder 버 4종 지대치 형성 후 CAD/CAM 지르코니아 코어의 변연·내부 적합도 비교.
+
+Torpedo·deep chamfer: 완전 안착 실패 0/10, 변연 간극 임상 허용치(100–150μm) 충족; Shoulder 버: 내면 간섭으로 완전 안착 실패 9/10 — 임상 부적합.
+
+CAD/CAM 지르코니아 크라운 형성 시 torpedo 또는 deep chamfer 버(축벽 경사 12°, 변연 폭 0.7mm) 권장 — shoulder 버 사용 시 기공사 내면 수정 필수 + 오차 누적 위험.
 
 ## Summary
 버 tip design 4종(torpedo, deep chamfer, sloped shoulder, shoulder)으로 형성된 지대치에서 CAD/CAM 지르코니아 코어 적합도 비교. **Torpedo·Deep chamfer → 변연·내면 적합성 유의하게 우수**. Shoulder 버 → full seating 실패 90%, 임상 부적합.

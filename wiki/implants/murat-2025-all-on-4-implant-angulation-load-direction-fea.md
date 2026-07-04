@@ -19,13 +19,21 @@ relations:
     target: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea
 ---
 
-## One-line Summary
+## Three-line Summary
 
-FEA+RSM (All-on-4, 15 configurations, distal implant 15°/30°/45° × load direction): frontal BL load angle is the #1 cortical stress factor (29.8%); implant angle is #2 (27.0%); lowest stress at 15° tilt + 45° oblique (95.75 MPa); highest at 45° + 90° BL load (265.72 MPa).
+FEA combined with Response Surface Methodology (RSM, 15 configurations) on an All-on-4 mandibular model, varying distal implant angulation (15°/30°/45°) and occlusal load direction (sagittal and frontal planes) to quantify their relative contributions to cortical bone stress.
 
-## 한줄요약
+Frontal (buccolingual) load angle was the dominant cortical stress factor (29.8%, p=0.003); implant angulation was second (27.0%, p=0.005); minimum stress was 95.75 MPa (15° tilt + 45° oblique load) vs maximum 265.72 MPa (45° tilt + 90° BL load); model R²=93.39%.
 
-FEA+RSM (All-on-4, 15 구성, 원위 임플란트 15°/30°/45° × 하중 방향): 전두면(협설) 하중각이 피질골 응력 1위(29.8%); 임플란트 각도 2위(27.0%); 최소 95.75 MPa(15°+45°), 최대 265.72 MPa(45°+90° 전두면 하중).
+Occlusal load direction matters more than implant tilt — minimizing lateral (BL) forces via occlusal scheme optimization reduces cortical stress more than reducing tilt alone; 15° distal tilt is biomechanically optimal within the 15–45° range tested.
+
+## 세줄요약
+
+FEA + 반응표면 방법론 (Response Surface Methodology, RSM, 15 구성) — 하악 All-on-4 모델에서 원위 임플란트 경사각 (15°/30°/45°)·교합 하중 방향이 피질골 응력에 미치는 상대적 기여 정량화.
+
+전두면 (협설, Buccolingual) 하중각이 최대 영향 인자 (29.8%, p=0.003); 임플란트 각도 2위 (27.0%, p=0.005); 최소 응력 95.75 MPa (15° 경사 + 45° 사선 하중) vs 최대 265.72 MPa (45° + 90° 전두면 하중); 모델 R²=93.39%.
+
+임플란트 경사보다 교합 하중 방향이 더 중요 — 교합 설계(교두 경사 감소·수평 상호 보호·양측 균형 교합)로 협설 측방력 최소화가 경사각 감소보다 피질골 응력 감소에 더 효과적; 15° 경사가 시험 범위(15–45°) 내 최적.
 
 ## Summary
 

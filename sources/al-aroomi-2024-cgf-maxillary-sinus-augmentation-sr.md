@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 기존 [[overviews/sinus-lift-technique-selection]] Section 2.2/4.1은 혈소판농축물(PRF·PC)·이식재 무용론을 다루지만 CGF(Concentrated Growth Factor) 전용 합성 근거가 없었다. 이 SR은 [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] CGF+Bio-Oss 단일 연구를 13편 체계적 합성으로 확장한다. [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] 혈소판농축물 메타분석과 직접 비교 가능.
 
-## One-line Summary
-Systematic review (13 studies, transcrestal + lateral maxillary sinus elevation): CGF — alone or with graft — appears to enhance new bone formation, reduce postoperative sequelae and support high implant survival, but evidence is heterogeneous and RCT-poor.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰(13편, 경치조골+측방창 상악동거상): CGF는 단독·이식재 병용 모두 신생골 형성·술후 후유증·임플란트 생존을 개선하는 경향이나, 근거가 이질적이고 RCT가 부족함.
+Systematic review (13 studies from 783 screened; transcrestal and lateral maxillary sinus augmentation) evaluating CGF (Concentrated Growth Factor) used alone or combined with grafting materials.
+
+The majority of included studies reported that CGF improved vascularization, new bone formation quality and quantity, reduced postoperative sequelae, and supported high implant survival rates; however, evidence is too heterogeneous for pooled effect estimates.
+
+CGF appears to be a beneficial adjunct in maxillary sinus augmentation, but definitive conclusions await higher-quality RCTs with standardized CGF protocols and consistent outcome definitions.
+
+## 세줄요약
+
+체계적 문헌고찰 (783편 검색, 13편 포함; 경치조골 및 측방창 상악동거상) — 농축성장인자(Concentrated Growth Factor, CGF)를 단독 또는 이식재와 병용한 연구 종합.
+
+포함 연구 대다수에서 CGF가 혈관신생, 신생골 형성 질·양 개선, 술후 후유증 감소, 높은 임플란트 생존율을 보고했으나, 이질성이 커 효과량 풀링 불가.
+
+CGF는 상악동거상술의 유익한 보조제로 보이나, 표준화된 프로토콜과 일관된 결과 정의를 갖춘 고질적 RCT가 확정적 결론 도출에 필요함.
 
 ## 1. Document Information
 - Journal: BMC Oral Health 2024;24:1275; DOI 10.1186/s12903-024-04952-w

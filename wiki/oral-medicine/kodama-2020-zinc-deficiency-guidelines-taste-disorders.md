@@ -20,13 +20,21 @@ relations:
     target: tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review summarizing Japan's 2018 Practical Guideline for Zinc Deficiency (diagnostic criteria: serum zinc <60 μg/dL = deficiency, 60–80 μg/dL = marginal; symptom-based + exclusion + zinc-responsiveness criteria) with a focused section on zinc-deficiency taste disorders — affecting ~240,000 Japanese patients (1.7× increase since 1990), improved by oral zinc (Polaprezinc 150mg/day) in 50–82% of cases but requiring ≥3 months of therapy for full effect (13.6% response at week 4 rising to 58.8% at week 24).
+Narrative review condensing Japan's 2018 Practical Guideline for Zinc Deficiency (Japanese Society of Clinical Nutrition) with focused application to taste disorders, IBD, and liver cirrhosis; diagnostic algorithm uses serum zinc <60 μg/dL (deficiency) and 60–80 μg/dL (marginal) within a 4-criterion framework.
 
-## 한줄요약
+Zinc-deficiency taste disorder affects ~240,000 Japanese patients (1.7× increase since 1990); oral zinc (Polaprezinc 150 mg/day) improves symptoms in 50–82% of cases, but efficacy is markedly delayed — only 13.6% respond at 4 weeks, rising to 58.8% at 24 weeks.
 
-일본 임상영양학회 2018년 아연결핍 진단·치료 실무 가이드라인 종설 — 혈청아연 <60μg/dL(결핍)·60-80μg/dL(경계결핍) 진단기준, 아연결핍성 미각장애는 일본 내 약 24만 명(1990년 대비 1.7배 증가)에 영향을 미치며 경구 아연치료(폴라프레진크 150mg/일)로 50-82% 호전되나 효과 발현에 최소 3개월 필요(4주차 13.6%→24주차 58.8% 반응률).
+A ≥3-month treatment trial is required before concluding zinc-deficiency taste disorder is treatment-resistant; static serum zinc has limited sensitivity for marginal deficiency and should be interpreted within the full 4-criterion diagnostic algorithm.
+
+## 세줄요약
+
+일본 임상영양학회 2018년 아연결핍 실무 가이드라인 종설 — 혈청아연 <60 μg/dL(결핍)·60–80 μg/dL(경계결핍) 기준을 포함한 4항목 진단 알고리즘; 미각장애·IBD·간경변에 중점.
+
+아연결핍성 미각장애는 일본 내 약 24만 명(1990년 대비 1.7배 증가); 경구 아연(폴라프레진크 150 mg/일)으로 50–82% 증상 호전, 단 효과 발현 현저히 지연 — 4주차 13.6%, 24주차 58.8% 반응률.
+
+치료 실패 판정 전 최소 3개월 시험 투여 필수; 정적 혈청아연은 경계결핍 민감도가 낮아 단독이 아닌 4항목 진단 알고리즘 내에서 해석해야 함.
 
 ## Summary
 

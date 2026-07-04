@@ -22,13 +22,21 @@ tags: [implants, inter-implant-distance, implant-tooth-proximity, crestal-bone]
 > - **임상 임계값**: 임플란트-임플란트 ≥3 mm (현대 디자인이면 2 mm까지 방어 가능), 임플란트-치근 표면 ≥1.5 mm. 중심-치근 거리로 환산 시 ≥1.5 mm + 임플란트 반경.
 > - **임상 takeaway**: 간격이 부족하면 (1) 임플란트 디자인을 BL→TL 또는 플랫폼스위칭+내부원추형으로 전환하고, (2) 더 좁은 직경 임플란트를 선택하며, (3) 임플란트-자연치 근접 시 인접치 치수 생활력을 사전·사후 모니터링한다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 papers establishing that horizontal spacing governs interproximal crestal bone: inter-implant distance ≥3 mm (Tarnow 2000; modern designs may tolerate down to 1–2 mm — Morales Schwarz 2025, n=1) and implant-to-tooth distance ≥1.5 mm (Joshi 2025 SR+MA; Ng 2018) minimize crestal bone loss, peri-implant inflammation, and adjacent-tooth pulpal damage.
+Synthesis of 4 papers: interproximal crestal bone loss is dominated by horizontal spacing, not vertical implant depth — each fixture creates ~1.4 mm of lateral bone loss, so inter-implant distance (IID) <3 mm causes 2.3× more crestal bone loss than IID >3 mm (Tarnow 2000); modern internal-conical platform-switched designs may defend gaps down to 1–2 mm (Morales Schwarz 2025, n=1 + 2 animal studies), but the evidence weight still favors ≥3 mm.
 
-## 한줄요약
+Implant-to-adjacent-tooth risk is asymmetric: implant survival stays >95% regardless of proximity, but the neighbor tooth suffers — pulpal/periapical pathology in 20–25% of contact cases and interproximal bone loss up to 4% when implant-surface-to-root distance is <1.5 mm (Joshi 2025 SR+MA, 11 studies, 1,727 patients).
 
-4편 종합: 치간 치조정골은 수평 간격이 지배 — 임플란트간 거리 ≥3 mm (Tarnow 2000; 현대 디자인은 1–2 mm까지 가능 — Morales Schwarz 2025, n=1)와 임플란트-치근 거리 ≥1.5 mm (Joshi 2025 SR+MA; Ng 2018)가 치조정 골소실·주위염·인접치 치수손상을 최소화한다.
+The proximity penalty falls mainly on bone-level (BL) implants where the microgap sits near the bone crest; tissue-level (TL) implants show no significant proximity effect at <1 mm distance (Ng 2018, n=98), making implant-type selection a key lever when spatial constraints cannot be avoided.
+
+## 세줄요약
+
+4편 종합: 치간 치조정골소실은 수직 깊이가 아닌 수평 간격이 지배 — 각 임플란트에서 측방 골소실 ~1.4 mm 발생, 임플란트간 거리(IID) <3 mm 시 >3 mm 대비 2.3배 치조정 골소실(Tarnow 2000); 현대 내부 원추형+플랫폼 스위칭 디자인은 1–2 mm 간격 방어 가능(Morales Schwarz 2025, n=1+동물 2편)이나 근거 무게는 여전히 ≥3 mm 권장 지지.
+
+임플란트-인접치 위험은 비대칭: 임플란트 생존율 >95% 불변이나, 접촉 케이스서 **인접치** 치수/치근단 병변 20–25%·치간 골소실 최대 4% — 임플란트-치근 표면 거리 <1.5 mm 시(Joshi 2025 SR+MA, 11편, 1,727명).
+
+근접 불이익은 골수준(Bone-Level, BL) 임플란트에만 유의(BOP↑·치간 골소실↑); 조직수준(Tissue-Level, TL) 임플란트는 <1 mm에서도 근접 영향 없음(Ng 2018, n=98) — 공간 제약 시 TL 전환이 핵심 대응수단.
 
 ## Summary
 

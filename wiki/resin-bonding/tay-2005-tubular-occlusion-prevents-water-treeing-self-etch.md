@@ -19,13 +19,21 @@ relations:
     target: tay-2003-water-treeing-degradation-dentin-adhesives
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro TEM/silver-impregnation study (experimental single-bottle one-step self-etch adhesive): bonding to caries-affected dentin with occluded tubules eliminated water-treeing and water-droplets, whereas adjacent sound dentin showed both — demonstrating transdentinal water flux (not just residual solvent) drives water-treeing.
+In vitro TEM / silver-impregnation study (experimental single-bottle one-step self-etch adhesive; caries-affected dentin with occluded tubules adjacent to sound dentin with patent tubules; ± pulpal pressure; abstract-only retrieved) — a knock-out experiment isolating the water source in water-treeing.
 
-## 한줄요약
+Adhesive layers over occluded-tubule caries-affected dentin were devoid of silver despite high substrate porosity, while adjacent sound dentin (patent tubules) showed water-treeing and water-droplets; the caveat is that the porous caries-affected substrate itself may compromise bond durability despite eliminating water-treeing.
 
-체외 투과전자현미경(TEM)·은침착(silver-impregnation) 연구 (실험용 단일병 1단계 자가부식 접착제): 세관(tubule)이 폐쇄된 우식이환상아질(caries-affected dentin)에 접착 시 water-treeing과 water-droplet이 모두 사라진 반면, 인접 정상상아질(sound dentin)에서는 둘 다 관찰됨 — 잔류 용매가 아니라 경상아질 수분 이동(transdentinal water flux)이 water-treeing을 유발함을 입증.
+Transdentinal water flux through patent tubules — not residual solvent — is the primary driver of water-treeing in one-step self-etch adhesives; bonding to sclerotic or tubule-occluded substrates, or controlling pulpal pressure, can suppress this degradation mode.
+
+## 세줄요약
+
+In vitro TEM/은침착 연구 (실험용 단일병 1단계 자가산부식 접착제; 세관 폐쇄된 우식이환상아질과 인접한 개방 세관의 건전상아질 동시 관찰; ±치수 압력 조건; 초록만 확보) — water-treeing의 수분 공급원을 격리하는 제거 실험.
+
+폐쇄 세관의 우식이환상아질 위 접착층에서는 기질 다공성에도 불구하고 은 침착 없음; 인접 건전상아질(개방 세관)에서는 water-treeing과 water-droplet이 관찰됨; 단, 우식이환 기질의 다공성 자체가 water-treeing 제거에도 불구하고 접착 내구성을 저해할 수 있다는 주의사항 있음.
+
+세관을 통한 경상아질 수분 이동(transdentinal water flux)이 잔류 용매가 아니라 1단계 자가산부식 접착제 water-treeing의 주요 원인; 경화성/세관 폐쇄 기질에서의 접착이나 치수 압력 조절이 이 열화 양식을 억제 가능.
 
 ## Summary
 

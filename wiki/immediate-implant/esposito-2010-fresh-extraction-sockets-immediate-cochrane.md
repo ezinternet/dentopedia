@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA of 7 RCTs (2010) found no convincing advantage for any implant placement timing (immediate vs. immediate-delayed vs. delayed), with possible aesthetic benefit for early placement offset by higher complication risk.
+Cochrane SR+MA (7 RCTs included from 14 identified; Cochrane 2010) comparing immediate, immediate-delayed, and delayed implant placement timing in fresh extraction sockets.
 
-## 한줄요약
+No statistically significant differences in survival between timing strategies; immediate-delayed showed better aesthetics at 2 years but significantly more complications at 5 years (RR 4.20, 95% CI 1.01–17.43); no augmentation technique proven superior.
 
-7개 RCT 합성 Cochrane 체계적 문헌고찰(2010)로, 즉시·즉시지연·지연 식립 간 명확한 우위는 없으며 조기 식립의 심미적 이점 가능성은 높은 합병증 위험으로 상쇄될 수 있음을 보고했다.
+Clinical implication: as of 2010, evidence was insufficient to favor any placement timing — the potential aesthetic benefit of early placement may be offset by higher complication risk, and choice should depend on case-specific anatomy and operator experience.
+
+## 세줄요약
+
+Cochrane SR+MA (2010, 식별 14개 RCT 중 7개 포함) — 즉시·즉시지연·지연 식립 타이밍 비교.
+
+타이밍 간 생존율 유의차 없음; 즉시지연 식립은 2년 심미성 우수하나 5년 합병증 유의하게 더 많음 (RR 4.20, 95% CI 1.01–17.43); 어떤 증대술도 우월성 미증명.
+
+임상 적용: 2010년 기준 어느 타이밍도 권고 근거 불충분 — 조기 식립의 잠재적 심미 이점은 높은 합병증 위험으로 상쇄될 수 있어 증례별 해부학적 조건과 술자 경험에 따라 결정.
 
 ## Summary
 

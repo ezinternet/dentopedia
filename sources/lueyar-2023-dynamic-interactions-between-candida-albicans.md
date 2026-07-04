@@ -17,13 +17,23 @@ text_filename: lueyar-2023-dynamic-interactions-between-candida-albicans.txt
 
 기존 [[oral-microbiology/ponde-2021-candida-albicans-biofilms-polymicrobial]]는 C. albicans 바이오필름 생물학과 cross-kingdom 상호작용을 서술적으로 총괄했으나, 개별 구강 연쇄상구균 종(species)이 C. albicans 개체수·형태(yeast↔hypha)에 어떻게 다르게 작용하는지 정량 데이터가 없었다. 본 in-vitro 8종 supragingival 바이오필름 연구(Lueyar 2023)는 mitis group 종별로 C. albicans에 미치는 영향을 CFU·CLSM으로 분리 측정해, ponde-2021의 "polymicrobial interaction" 명제를 종-특이적 데이터로 확장한다. 또한 [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]]의 S. mutans Gtf-glucan cross-kingdom 기전을 다종 경쟁 맥락에서 재검토한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro eight-species supragingival biofilm model (3 experiments, triplicate) showing that adding oral streptococci progressively lowers C. albicans CFU — S. gordonii + S. mutans gave the lowest counts — while S. mutans plus a single mitis-group species induces C. albicans hyphae, and multiple mitis species revert it to yeast form.
 
-## 한줄요약
+In vitro eight-species supragingival biofilm model (3 experiments, triplicate) showing that adding oral streptococci progressively lowers C. albicans CFU — S.
 
-In-vitro 8종 상연골상(supragingival) 바이오필름 모델(3회·삼중): 구강 연쇄상구균을 추가할수록 칸디다 알비칸스 (Candida albicans, C. albicans) CFU가 감소하며(S. gordonii + S. mutans 조합이 최저), 스트렙토코쿠스 뮤탄스 (S. mutans) + mitis군 단일종은 균사형(hypha)을 유도하나 mitis 다종 공존 시 다시 효모형(yeast)으로 회귀.
+gordonii + S. mutans gave the lowest counts — while S.
+
+mutans plus a single mitis-group species induces C. albicans hyphae, and multiple mitis species revert it to yeast form.
+
+## 세줄요약
+
+
+In-vitro 8종 상연골상(supragingival) 바이오필름 모델(3회·삼중): 구강 연쇄상구균을 추가할수록 칸디다 알비칸스 (Candida albicans, C.
+
+albicans) CFU가 감소하며(S.
+
+gordonii + S. mutans 조합이 최저), 스트렙토코쿠스 뮤탄스 (S. mutans) + mitis군 단일종은 균사형(hypha)을 유도하나 mitis 다종 공존 시 다시 효모형(yeast)으로 회귀.
 
 ## 1. Document Information
 

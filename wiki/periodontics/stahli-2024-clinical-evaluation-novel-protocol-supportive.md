@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic, no hand instruments) vs conventional scaling and root planing during supportive periodontal care: SRP gave a statistically significant BoP reduction (14.7%→7.9%, p=0.004) while GBM did not (12.2%→9.0%, p=0.191), but final BoP, PPD, recession, treatment time and overall satisfaction were comparable; GBM had fewer furcation-involved teeth (p=0.015) and SRP scored slightly better on pain (p=0.035).
+## Three-line Summary
 
-## 한줄요약
-RCT (유지치주치료 환자 41명, 1년): 가이드 바이오필름 관리(에리스리톨 에어폴리싱+초음파, 수기기구 미사용) vs 전통적 스케일링·치근활택술(SRP) 비교 — SRP만 BoP가 유의하게 감소(14.7%→7.9%, p=0.004)했고 GBM은 유의차 없음(12.2%→9.0%, p=0.191)이었으나 최종 BoP·PPD·치은퇴축·치료시간·전체 만족도는 비슷; GBM은 치근이개부 병변 치아 수가 더 적었고(p=0.015) SRP는 통증 점수가 약간 더 좋았다(p=0.035).
+Single-centre parallel RCT (n=41 of 59 enrolled; stage I–IV, grade A/B SPC patients; 1-year follow-up, University of Bern) comparing guided biofilm management (GBM: erythritol air-polishing + slim ultrasonic, no hand curettes) vs conventional SRP during supportive periodontal care at 6-month recall.
+
+Only SRP showed a statistically significant BoP reduction (14.7%→7.9%, p=0.004); GBM did not reach significance (12.2%→9.0%, p=0.191); final BoP, PPD, recession, treatment time (~42 vs 40 min), and overall satisfaction were comparable; GBM had fewer furcation-involved multirooted teeth at 12 months (p=0.015); SRP had slightly lower pain (p=0.035).
+
+In well-maintained SPC patients GBM and conventional SRP are clinically equivalent; SRP has a marginal pain-perception edge, GBM a furcation-related signal warranting longer follow-up; neither modality is clearly superior for disease-related outcomes.
+
+## 세줄요약
+
+1개 기관 병렬 RCT (41명/59명; 1기–4기 grade A/B SPC 환자; 베른 대학; 1년 추적, 6개월 간격 유지): 유도생체막관리(GBM; 에리스리톨 에어폴리싱+슬림 초음파, 수기기구 미사용) vs 전통 SRP 비교.
+
+SRP만 BoP 유의 감소(14.7%→7.9%, p=0.004); GBM은 유의차 없음(12.2%→9.0%, p=0.191); 최종 BoP·PPD·퇴축·치료시간(~42 vs 40분)·전체 만족도 비슷; GBM은 12개월 시점 치근이개부 병변 치아 수 유의하게 적음(p=0.015); SRP는 통증 점수 약간 낮음(p=0.035).
+
+잘 유지된 SPC 환자에서 GBM과 SRP는 임상적으로 동등하며; SRP는 통증 인식에서 미미한 우위, GBM은 치근이개부 관련 신호를 보여 장기 추적이 필요하다.
 
 ## Summary
 This single-center RCT at the University of Bern compared two subgingival debridement protocols delivered every 6 months during supportive periodontal care (SPC) in well-maintained periodontitis patients (stage I–IV, grade A/B, residual PPD < 6 mm, active treatment ≥3 years earlier). The test protocol, "guided biofilm management" (GBM), used biofilm disclosure, erythritol (14 µm) air-polishing, and a slim ultrasonic tip for calculus, with no hand curettes and no rubber-cup polishing. The control was conventional scaling and root planing (SRP) with hand curettes, ultrasonic scalers, and polishing. Of 59 enrolled, 41 were analyzed at 1 year. Both modalities produced comparable clinical outcomes; the only statistically significant primary-outcome change was a BoP reduction in the SRP group, which the authors attribute largely to a slightly higher (non-significant) SRP baseline rather than true superiority. The authors deliberately use "management" instead of the commercial "guided biofilm therapy (GBT)" term.

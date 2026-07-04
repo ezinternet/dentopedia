@@ -17,13 +17,21 @@ text_filename: alkahtani-2010-root-canal-sealers-timing-parapost.txt
 
 ParaPost 제품의 접착(resin cement) 밀폐성을 다룬 임상실험. 근관 sealer 종류(eugenol/non-eugenol)와 cementation 타이밍이 ParaPost 미세누출에 영향을 주는지 검증. 기존 [[post-and-core/naumann-2017-ferrule-first-post-second-systematic-review]]의 "post는 유지가 목적이지 밀폐가 아니다" 관점을 미세누출 데이터로 보강. abstract-only (full text not retrieved).
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fluid-filtration microleakage study (70 single-rooted teeth, 4 groups × 15 + 2 controls): microleakage of resin-cemented ParaPost increased significantly over 3 months regardless of sealer type (eugenol vs non-eugenol) or cementation timing (immediate vs delayed); immediate cementation with AH26 gave the least leakage.
+In-vitro fluid-filtration microleakage study (70 single-rooted extracted human teeth, 2×2 factorial: eugenol vs. non-eugenol/AH26 sealer × immediate vs. delayed post cementation, n=15/group + 2 controls) measuring ParaPost luted with resin cement at 24 h, 2 months, and 3 months.
 
-## 한줄요약
+Microleakage increased significantly over time in all groups (24 h < 2 mo < 3 mo) regardless of sealer type or cementation timing; AH26 with immediate cementation produced the least leakage at all timepoints; voids at the resin–dentin interface were present across all groups.
 
-인비트로 fluid-filtration 미세누출 연구 (단근치 70개, 4군×15 + 대조 2군): resin cement로 합착한 ParaPost의 미세누출은 sealer 종류나 cementation 타이밍과 무관하게 3개월에 걸쳐 유의하게 증가; AH26 즉시 합착이 가장 적은 누출.
+Sealer type and cementation timing were not significant determinants of long-term seal for resin-cemented ParaPost — time-related microleakage increase is the dominant variable, consistent with the principle that post placement serves retention rather than hermetic sealing; in-vitro surrogate limits direct clinical translation.
+
+## 세줄요약
+
+인비트로 fluid-filtration 미세누출 연구(단근 발거치 70개, 2×2 요인설계: eugenol vs non-eugenol/AH26 sealer × 즉시 vs 지연 합착, 군당 n=15 + 대조 2군); resin cement로 합착한 ParaPost를 24시간·2개월·3개월에 측정.
+
+모든 군에서 미세누출이 시간에 따라 유의하게 증가(24h < 2mo < 3mo); sealer 종류·합착 타이밍 무관; AH26 즉시 합착이 전 시점에서 최소 누출; 모든 군에서 레진-상아질 계면 기포 관찰.
+
+sealer 종류·합착 타이밍은 장기 밀폐성의 유의 결정 인자가 아니며, 시간 경과에 따른 미세누출 증가가 지배적 변수 — 포스트는 유지를 위한 것이지 밀폐를 위한 것이 아님; 인비트로 대리지표로 임상 직접 적용에 한계.
 
 ## 1. Document Information
 

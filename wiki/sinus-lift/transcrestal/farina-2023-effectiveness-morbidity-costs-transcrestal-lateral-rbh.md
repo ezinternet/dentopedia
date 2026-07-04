@@ -22,13 +22,21 @@ relations:
     target: fettouh-2025-graftless-lateral-transcrestal-sinus-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Re-analysis of a parallel-arm RCT (ITT 29 tSFE vs 28 lSFE) stratified by residual bone height: both reach median 100% implant-surface bone contact, but at RBH ≥4 mm tSFE wins on chair time, cost, and morbidity, while at RBH <4 mm tSFE causes more early pain and lSFE more bruising and higher cost.
+Secondary RCT re-analysis (ITT: 29 transcrestal vs 28 lateral sinus floor elevation) stratified by residual bone height (RBH <4 mm vs ≥4 mm) to convert a global comparison into a site-conditional decision rule.
 
-## 한줄요약
+Radiographic effectiveness was equivalent — median 100% implant-surface bone contact in both arms regardless of RBH; at RBH ≥4 mm tSFE was superior on chair time, cost, and morbidity; at RBH <4 mm tSFE caused more early pain (days 0–1) while lSFE caused more bruising and higher cost.
 
-평행-군 RCT 재분석(ITT tSFE 29 vs lSFE 28)을 잔존골(RBH)로 층화 — 양 술식 골접촉 중앙값 100%, RBH≥4 mm에선 tSFE가 시술시간·비용·이환율 우월, RBH<4 mm에선 tSFE 초기 통증↑·lSFE 멍/비용↑.
+Default to tSFE at RBH ≥4 mm; when choosing tSFE at RBH <4 mm, pre-plan early-phase analgesia — bone contact does not discriminate between techniques, but morbidity and cost do.
+
+## 세줄요약
+
+잔존 골 높이(Residual Bone Height, RBH) <4 mm vs ≥4 mm로 층화한 평행군 RCT 재분석(ITT: 경치조골 거상(Transcrestal Sinus Floor Elevation, tSFE) 29 vs 측방 거상(lSFE) 28).
+
+방사선학적 효과는 동등 — 양 군 임플란트 표면 골접촉 중앙값 100%; RBH ≥4 mm에서 tSFE가 시술시간·비용·이환율 우월; RBH <4 mm에서 tSFE는 조기 통증 증가, lSFE는 멍·비용 증가.
+
+RBH ≥4 mm에서는 tSFE 우선 선택; RBH <4 mm에서 tSFE 선택 시 조기 진통 계획 필요 — 골접촉은 술식 간 차이 없으나 이환율과 비용은 차이.
 
 ## Summary
 

@@ -15,11 +15,21 @@ text_filename: le-2023-three-types-all-ceramic-posterior-3year-rct.txt
 
 고투명 지르코니아(high-translucency ZC), ZC+부분 베니어, LDS 세 가지를 동일 RCT 안에서 직접 비교한 드문 3-arm 다기관 RCT. [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]]의 5Y/UHTZ grade 임상 근거를 실제 RCT 3년 데이터로 보강하고, [[overviews/zirconia-types-clinical-selection]] 축 2(grade × indication)에 고투명 ZC 임상 결과를 추가한다.
 
-## One-line Summary
-Multicenter RCT (n=71, 84 crowns, 3y): high-translucency ZC, ZC+partial buccal veneer, LDS show 98.8% survival with no fractures; ZC and LDS perform equivalently in posterior single crowns.
+## Three-line Summary
 
-## 한줄요약
+Multicenter RCT (n=71, 84 crowns, 3y): high-translucency ZC, ZC+partial buccal veneer, LDS show 98.8% survival with no fractures;
+
+ZC and LDS perform equivalently in posterior single crowns.
+
+(incomplete)
+
+## 세줄요약
+
 다기관 RCT(n=71, 3년): 고투명 지르코니아·부분베니어 ZC·리튬디실리케이트 후방 단관 생존율 98.8%로 동등, 파절 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Clinical Outcome of Three Different Types of Posterior All-Ceramic Crowns

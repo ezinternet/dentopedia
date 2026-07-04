@@ -17,13 +17,21 @@ text_filename: dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma
 
 기존 [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]]가 항균제를 SRP 보조로 다룬 반면, 이 2026 SR+MA는 **약제(PVP-I/CHX/EO/OW/BA)를 치은연하 세척(subgingival irrigation)으로 전달**하는 좁은 시나리오만 16편 RCT로 모아, 어떤 약제·전달법(시린지 vs 초음파)·추적기간에서도 PPD·CAL·BOP에 추가 이득이 없음을 보여 "세척 보조"라는 흔한 임상 습관의 근거 결핍을 정량화한다. [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]]의 전신 항균제 논의와 대비되는 국소·세척 채널 근거.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 16 RCTs (712 patients): adjunctive subgingival irrigation with chemical agents (PVP-I, CHX, essential oils, ozonated water, boric acid) during NSPT gave NO additional benefit over water/saline in PPD reduction (MD 0.01 mm), CAL gain (MD 0.09 mm), or BOP; evidence low to very low.
+SR+MA of 16 RCTs (712 patients, 3–12 months follow-up; PROSPERO ID 1011516) testing adjunctive subgingival irrigation with PVP-I, CHX, essential oils, ozonated water, or boric acid delivered via syringe or ultrasonic scaler during NSPT.
 
-## 한줄요약
+No chemical agent provided additional benefit over water or saline in PPD reduction (MD 0.01 mm, p=0.82), CAL gain (MD 0.09 mm, p=0.05), or BOP; evidence was low to very low quality, with high PPD heterogeneity (I²=73%).
 
-16편 RCT(712명) SR+MA — NSPT에 약제(PVP-I·CHX·정유·오존수·붕산) 치은연하 세척을 더해도 물/식염수 대비 PPD(MD 0.01mm)·CAL(MD 0.09mm)·BOP에 추가 이득 없음(근거수준 낮음~매우낮음).
+Routine adjunctive subgingival irrigation with antiseptics is not supported; the finding aligns with antimicrobial-stewardship principles against unnecessary chemical exposure during standard NSPT.
+
+## 세줄요약
+
+16편 RCT(712명, 추적 3–12개월; PROSPERO ID 1011516): NSPT 시 PVP-I·CHX·정유·오존수·붕산을 시린지 또는 초음파로 치은연하 세척하는 보조 요법의 효과를 체계적 검토·메타분석.
+
+어떤 약제도 물·식염수 대비 PPD(MD 0.01 mm, p=0.82)·CAL(MD 0.09 mm, p=0.05)·BOP에 추가 이득 없음; 근거 수준 낮음–매우 낮음, PPD 이질성 높음(I²=73%).
+
+항균제 관리 원칙에 부합: 표준 NSPT에 치은연하 항균 세척을 일상적으로 추가하는 임상 습관은 근거가 없으며 권고되지 않음.
 
 ## 1. Document Information
 

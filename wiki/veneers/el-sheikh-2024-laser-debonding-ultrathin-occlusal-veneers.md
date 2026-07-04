@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=24, 3 ceramic groups) comparing Er;Cr:YSGG laser debonding of 0.5 mm ultrathin CAD/CAM occlusal veneers: debonding time equivalent across Emax, LiSi, and Katana STML zirconia (~87 s, p=0.995), but 60% of GC Initial LiSi samples were damaged (fractured/cracked) vs. 0% for the other two materials.
+In vitro study (BMC Oral Health 2024; n=24 extracted maxillary molars, 8 per group) comparing Er;Cr:YSGG laser debonding (6 W, 20 Hz, scanning non-contact mode) of standardized 0.5 mm CAD/CAM occlusal veneers in three materials: IPS Emax CAD, GC Initial LiSi, and Katana STML zirconia.
 
-## 한줄요약
+Debonding time was equivalent across all three materials (~87 s, p=0.995), but material integrity differed dramatically: 60% of LiSi samples were damaged (cracked/fractured) versus 0% for Emax and zirconia.
 
-In vitro 연구(n=24): Er;Cr:YSGG 레이저를 이용한 0.5 mm 초박형 교합면 비니어(Occlusal Veneer) 탈접(Laser Debonding) 시간은 리튬 디실리케이트(LD), 초고밀도 LiSi, 반투명 지르코니아(STML) 간 차이 없음(~87초, p=0.995); 그러나 LiSi 표본 60%가 균열·파절 손상 — Emax·지르코니아는 손상 0%.
+The proposed mechanism is that LiSi's HDM (High-Density Micronization) crystal architecture — microsized, uniformly dispersed crystals — is more susceptible to laser-induced disintegration than conventional LDS or zirconia; Er;Cr:YSGG laser debonding is safe for Emax and zirconia retrieval but should not be used with GC Initial LiSi veneers.
+
+## 세줄요약
+
+In vitro 연구 (BMC Oral Health 2024; n=24 대구치, 군당 8개): IPS Emax CAD·GC Initial LiSi·Katana STML 지르코니아 0.5 mm CAD/CAM 교합면 비니어의 Er;Cr:YSGG 레이저 탈접(Laser Debonding; 6 W·20 Hz·비접촉 스캐닝) 비교.
+
+탈접 시간은 3군 모두 ~87초로 동등(p=0.995); 그러나 GC Initial LiSi 60% 균열·파절 — Emax·지르코니아는 손상 0%.
+
+LiSi의 초고밀도 미세결정(HDM, High-Density Micronization) 구조가 레이저 유도 결정 분해에 취약한 것으로 추정; Er;Cr:YSGG 레이저 탈접은 Emax·지르코니아 교합면 비니어 회수·재사용에 안전하나 LiSi에는 부적합.
 
 ## Summary
 

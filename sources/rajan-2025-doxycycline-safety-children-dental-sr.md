@@ -17,13 +17,23 @@ text_filename: rajan-2025-doxycycline-safety-children-dental-sr.txt
 
 소아(8세 미만)에서 독시사이클린(doxycycline) 단기 사용 시 치아 착색 위험이 실제로 얼마나 되는지 체계적으로 정리한 SR+MA가 없었으며, AAP의 RMSF 지침 개정(금기→권고) 이후 근거 기반이 필요했다. 기존 항생제 페이지 [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]]가 항생제 사용 제한 근거를 다루는 한편, 본 리뷰는 특정 연령 금기의 재평가 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (5 studies, n=162 children <8 years): short-course doxycycline (median 8.5 days) caused dental staining in only 1/162 children (0.62%), with pooled adverse event proportion of 0.21 (95% CI: 0.13–0.28), supporting revised AAP/CDC guidance permitting doxycycline in young children for life-threatening indications.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (5개 연구, n=162명, 8세 미만): 단기 독시사이클린(doxycycline, Doxy) 투여(중앙값 8.5일) 후 치아 착색(tooth staining)은 162명 중 1명(0.62%)에서만 발생했으며, 통합 이상반응 비율 0.21 (95% CI: 0.13–0.28)로, AAP/CDC의 생명위협적 적응증에서의 소아 사용 지침 개정을 지지한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

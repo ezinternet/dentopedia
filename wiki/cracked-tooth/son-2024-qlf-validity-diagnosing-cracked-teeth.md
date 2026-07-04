@@ -23,13 +23,21 @@ relations:
     target: li-2021-cracked-tooth-syndrome-etiology-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective STARD diagnostic-accuracy study (26 cracked molars, 2 examiners) on QLF imaging for crack-line localization: the 405 nm fluorescent and combination images reached substantial agreement vs reference standard (kappa F-R 0.662, C-R 0.742) while natural-color images alone were only slight (0.164); inter-examiner agreement was moderate for fluorescent/combination (0.449/0.493) vs fair for natural color (0.394).
+Prospective STARD diagnostic-accuracy study (26 cracked posterior molars, Pusan National University, 2 examiners) evaluating QLF imaging (405 nm blue light) for crack-line localization validity and inter-examiner reliability.
 
-## 한줄요약
+The 405 nm fluorescent image reached substantial agreement against the post-removal reference standard (kappa F-R 0.662) and the combination view performed best (C-R 0.742); natural-color images alone were only slight (kappa 0.164) and failed entirely on unrestored teeth (100% false reads).
 
-전향적 STARD 진단정확도 연구 (균열치 26개, 평가자 2명): QLF 405 nm 형광·복합 영상은 기준표준 대비 substantial 일치도(kappa 형광 0.662, 복합 0.742)로 균열선 위치를 검출했으나 자연색 영상 단독은 slight(0.164)에 그침. 평가자 간 일치도는 형광·복합 moderate(0.449/0.493), 자연색 fair(0.394).
+The 405 nm fluorescent or combination QLF mode should replace natural-color-only imaging for crack-line localization; restoration material (gold reflection) and absence of restoration (groove confusion) must be considered when interpreting results.
+
+## 세줄요약
+
+전향적 STARD 진단정확도 연구 (균열 구치 26개, 부산대치과병원, 평가자 2명): QLF 405 nm 형광·복합 영상의 균열선 위치 검출 타당도와 평가자 간 신뢰도 평가.
+
+형광 영상은 기준표준(제거 후 QLF) 대비 substantial 일치도(kappa 0.662), 복합 영상이 최고(0.742); 자연색 단독은 slight(0.164)에 그치고 비수복치에서는 100% 오진(균열을 해부학적 고랑으로 오인).
+
+균열선 위치 검출 시 405 nm 형광 또는 복합 QLF 모드가 자연색 단독을 대체해야 하며, 금 수복물 반사와 수복물 유무에 따른 영상 해석 편향을 반드시 고려해야 함.
 
 ## Summary
 

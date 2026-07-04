@@ -9,7 +9,7 @@ pdf_filename: lolos-2025-zirconia-restorations-5year-retrospective.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 지르코니아(Zirconia, ZrO₂) 단관 vs FPD 5년 후향적 비교 (Medicina 2025): 단관과 FPD 생존율 비교; 임상성적 및 합병증 분석.
 
 ## 1. Document Information

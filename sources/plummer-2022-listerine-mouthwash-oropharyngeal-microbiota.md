@@ -17,13 +17,23 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8754113/
 
 리스테린 장기 매일 사용 시 구강 마이크로바이옴 변화 여부를 직접 검증한 유일한 PMC 풀텍스트 RCT 서브스터디. 가글액 장기사용 안전성 질문에 대한 핵심 근거이며 [[wiki/oral-microbiology]] 분야의 마이크로바이옴 안정성 데이터를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-RCT substudy (n=153, 12 weeks), Listerine Zero daily use caused no significant change in oropharyngeal microbiota composition; Biotène caused small but significant decreases in Streptococcus and Rothia.
 
-## 한줄요약
+RCT substudy (n=153, 12 weeks), Listerine Zero daily use caused no significant change in oropharyngeal microbiota composition;
 
-RCT 서브스터디 (n=153, 12주), 리스테린 제로 매일 사용은 구인두 마이크로바이오타 구성에 유의한 변화 없음; Biotène은 Streptococcus·Rothia 소폭 감소.
+Biotène caused small but significant decreases in Streptococcus and Rothia.
+
+(incomplete)
+
+## 세줄요약
+
+
+RCT 서브스터디 (n=153, 12주), 리스테린 제로 매일 사용은 구인두 마이크로바이오타 구성에 유의한 변화 없음;
+
+Biotène은 Streptococcus·Rothia 소폭 감소.
+
+(incomplete)
 
 ## 1. Document Information
 

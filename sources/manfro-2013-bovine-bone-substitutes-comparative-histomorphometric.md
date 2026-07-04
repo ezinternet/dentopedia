@@ -13,7 +13,7 @@ source_collection: external
 
 Head-to-head animal histomorphometry showing "anorganic bovine xenografts" are NOT interchangeable — manufacturing differences produce large efficacy gaps (Bio-Oss/Bone-Fill > Gen-Ox), a product-variability caveat for [[overviews/dbbm-bone-substitute-overview]]. Provides absolute new-bone benchmarks usable across DBBM comparisons.
 
-## One-line Summary
+## Three-line Summary
 Rabbit cranial-vault titanium-cylinder model (n=8, 8/12 wk) head-to-head comparing three anorganic bovine xenografts: Bone-Fill and Bio-Oss were comparable and both clearly superior to Gen-Ox and blood clot in new bone formation.
 
 ## 1. Document Information

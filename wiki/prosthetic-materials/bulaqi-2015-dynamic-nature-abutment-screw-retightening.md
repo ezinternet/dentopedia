@@ -20,13 +20,21 @@ relations:
     target: nithyapriya-2018-factors-loss-preload-dental-implants
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Finite element dynamic simulation (single Straumann implant–abutment–crown model) showing that rougher thread surfaces (higher coefficient of friction) increase the settling effect and lower remaining torque/preload, whereas retightening reduces the settling effect but has only an insignificant effect on preload — and the retightening benefit grows at high friction.
+Finite element dynamic simulation of a single Straumann implant–abutment–crown model varying thread surface roughness (fine/regular/rough) to quantify settling effect, preload, and the benefit of retightening.
 
-## 한줄요약
+Higher friction (rougher surface) increased the settling effect and reduced remaining torque and preload; retightening reduced the settling effect but raised preload only insignificantly, with the retightening benefit amplified at high friction.
 
-유한요소 동역학 시뮬레이션(Straumann 임플란트-지대주-크라운 단일 모델) — 나사산 표면이 거칠수록(마찰계수↑) 세틀링이펙트가 커지고 잔류 토크·프리로드가 감소하며, 재조임(retightening)은 세틀링이펙트를 줄이되 프리로드는 거의 못 올리고, 그 효과는 마찰이 높을수록 커진다.
+Clinically, re-torque protocols primarily re-seat the joint rather than restoring lost clamping force, and low-friction smooth thread interfaces preserve more preload.
+
+## 세줄요약
+
+Straumann 임플란트-지대주-크라운 유한요소 동역학 시뮬레이션: 나사산 표면 거칠기(fine/regular/rough)에 따른 세틀링이펙트·프리로드·재조임 효과 정량화.
+
+표면이 거칠수록(마찰계수↑) 세틀링이펙트 증가·잔류 토크·프리로드 감소; 재조임은 세틀링이펙트를 줄이지만 프리로드 회복 효과는 미미하며, 이 효과는 마찰이 높을수록 커진다.
+
+임상적으로 재조임 프로토콜은 체결력(clamping force) 회복이 아닌 주로 연결부 재안착(re-seating)이며, 저마찰 표면이 프리로드 유지에 유리하다.
 
 > Note: abstract-only ingest — PMC full text was not available (no PMC ID). Directional findings are taken from the structured PubMed abstract; absolute preload/torque magnitudes and the simulated friction-coefficient values are not recoverable. Confidence reflects a computational (FEA) bench study.
 

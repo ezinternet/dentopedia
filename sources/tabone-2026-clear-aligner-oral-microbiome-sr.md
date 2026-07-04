@@ -16,13 +16,23 @@ text_filename: tabone-2026-clear-aligner-oral-microbiome-sr.txt
 
 기존 [[wiki/orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]]는 CA(clear aligner) vs FA(fixed appliance)의 구강위생·치주 지표(PI, GI, BOP 등) 임상 결과를 다루지만, 그 표면적 지표를 만들어내는 **구강 미생물총(oral microbiome) 조성 변화** 자체는 다루지 않는 gap이었다. 본 SR(Tabone 2026, PRISMA, 12편 관찰연구 정성종합, PROSPERO 628072)은 CA 착용 중 alpha/beta diversity, 특정 taxa(균종) 변화를 시간대별(4시간~12개월)로 정리해 그 gap을 직접 메운다. 특히 마지막에 인용된 Wang et al. 연구(구강 미생물 기능 대사경로 분석)는 "Invisalign이 FA보다 미생물총 측면에서 우월하지 않다"는 상반된 결론을 제시해, 대다수 다른 연구의 "CA가 더 건강한 구강환경을 조성한다"는 주된 결론과 내부적으로 긴장 관계에 있다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (PRISMA, PROSPERO 628072) of 12 observational studies (4 hours–12 months follow-up) found that clear aligners (CA) generally promote more stable oral microbiota and better periodontal parameters than fixed appliances (FA), though early (4–24h) CA use induces transient alpha-diversity decreases and increased acidity, and one included study found Invisalign did not outperform FA in microbiome composition/function.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 12편의 관찰연구(4시간~12개월 추적)를 정성종합한 체계적 문헌고찰(PRISMA, PROSPERO 628072)로, 투명교정장치(clear aligner, CA)가 고정장치(fixed appliance, FA)보다 대체로 더 안정적인 구강 미생물총과 우수한 치주 지표를 보였으나, 초기(4~24시간) 착용 시 일시적 alpha diversity 감소와 산성화가 관찰되었고, 포함된 연구 중 하나(Wang et al.)는 Invisalign이 미생물총 구성·기능 면에서 FA보다 우월하지 않다는 상반된 결론을 보고했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

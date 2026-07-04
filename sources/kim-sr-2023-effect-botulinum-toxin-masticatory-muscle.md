@@ -10,7 +10,7 @@ pdf_filename: kim-sr-2023-effect-botulinum-toxin-masticatory-muscle.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Yonsei University pilot RCT (n=21, BoNT/A vs. saline, 12 weeks) — significant within-group decreases in orofacial VAS, tender points, headache VAS and frequency in BoNT/A arm but not control; tender-point count differed between groups.
 
 ## 1. Document Information

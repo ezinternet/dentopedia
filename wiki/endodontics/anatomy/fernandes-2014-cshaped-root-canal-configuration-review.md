@@ -16,13 +16,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (PubMed 1979–2012) synthesizing etiology, incidence, anatomy, classification (Melton/Fan), diagnosis, and management of C-shaped root canals, predominantly in mandibular second molars.
+Narrative review (PubMed 1979–2012) synthesizing the etiology, incidence, anatomy, classification systems (Melton orifice C1–C3, Fan cross-section C1–C5), diagnosis, and management of C-shaped root canals, predominantly in mandibular second molars.
 
-## 한줄요약
+Prevalence ranges from 2.7–45.5% in mandibular second molars (Korean 31.3–45.5%, Chinese up to 41.27%), with bilateral occurrence in 70–81% of cases; minimum canal-wall thickness can reach 0.26 mm at the lingual aspect, creating a high strip-perforation risk.
 
-C-shaped 근관(주로 하악 제2대구치)의 병인·발생률·해부·분류(Melton/Fan)·진단·치료를 종합한 서술적 문헌고찰(PubMed 1979–2012).
+Management requires modified access, small-file (#8–15) exploration of fins, ultrasonic/sonic-assisted debridement, and modified 3D obturation; diagnosis is maximized by combining preoperative radiograph, working-length film, and microscope examination.
+
+## 세줄요약
+
+서술적 문헌고찰(PubMed 1979–2012): C-shaped 근관(주로 하악 제2대구치)의 병인(HERS 유합 실패)·유병률·분류(Melton 근관구 C1–C3, Fan 횡단면 C1–C5)·진단·치료 종합.
+
+유병률 2.7–45.5%(한국인 31.3–45.5%), 70–81%가 양측성; 최소 상아질 두께 0.26 mm(설측) → 스트립 천공 고위험.
+
+치료: 변형 접근와동 + #8–15 소파일 핀 탐색 + 초음파 세정 + 변형 3D 충전; 진단은 방사선+현미경 병행 시 최대 정확도(41.27%).
 
 ## Summary
 

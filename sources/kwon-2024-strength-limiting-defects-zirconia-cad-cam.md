@@ -13,13 +13,23 @@ source_collection: external
 
 Identifies the specific failure origins (strength-limiting defects) in CAD/CAM full-contour zirconia from milling and intrinsic processing — bridges material science to clinical fracture risk. Directly extends [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] by showing where and how fractures initiate in clinically processed zirconia, and informs which surface treatment (polishing vs. as-sintered) changes the flaw population driving strength and reliability.
 
-## One-line Summary
+## Three-line Summary
+
 
 In vitro fractographic study (n=168 specimens, 7 zirconia materials, 3–5 mol% Y) showing CAM-milling defects dominate as-sintered strength while polishing shifts failure to intrinsic subsurface pores and grain clusters.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 7종 CAD/CAM 지르코니아(3–5Y) 굴곡강도·파절기원 연구로, as-sintered 시편은 CAM 밀링 결함이, 고연마 시편은 내재 공극·결정립 집합이 파절 기원임을 FE-SEM 파절기술로 규명했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -22,13 +22,21 @@ relations:
     target: ziada-2025-abutment-material-stress-distribution-fea
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro bench study of Bicon-type pure Morse taper (1.5°) implant-abutment specimens (≥10 per group) showing abutment subsidence ("sinking-down") rises with seating load (r=0.645) but is reduced most by greater locking depth (r=−0.807), larger locking-post diameter, and thicker implant wall, while pull-apart locking force rises with load (r=0.963), depth (r=0.607), and post diameter (r=0.372) — supporting ≥5 seating loadings and delayed final occlusal adjustment to prevent late occlusal change.
+In-vitro bench study of Bicon-type pure Morse taper (1.5°; ≥10 specimens/group) varying locking depth (1–3 mm), post diameter (2.5–3.5 mm), outer-wall thickness (0.15/0.30 mm), and seating load (200–400 N) to quantify abutment subsidence and pull-apart locking force.
 
-## 한줄요약
+Locking depth was the dominant determinant of reduced subsidence (r=−0.807) while seating load drove locking force (r=0.963); both factors together support loading the abutment ≥5 times at seating and deferring final occlusal adjustment to prevent late occlusal change.
 
-순수 Morse taper(Bicon형, 1.5°) 임플란트-어버트먼트 벤치 실험(그룹당 ≥10): 어버트먼트 침하(sinking-down)량은 시팅 하중↑에 따라 증가(r=0.645)하나 잠금깊이↑(r=−0.807, 최강)·잠금기둥경↑·외벽두께↑로 감소했고, 분리 결합력은 하중(r=0.963)·잠금깊이(r=0.607)·기둥경(r=0.372)으로 증가 — 후기 교합변화 방지를 위해 시팅 시 ≥5회 가압과 최종 교합조정 지연을 권고.
+In taper-lock systems without retention screws, subsidence-driven occlusal drift is a real clinical risk; greater locking depth and larger post diameter simultaneously improve retention and reduce sinking, making them the key design parameters to optimize.
+
+## 세줄요약
+
+잠금 깊이(1–3 mm)·기둥경(2.5–3.5 mm)·외벽두께(0.15/0.30 mm)·시팅 하중(200–400 N)을 변수로 한 Bicon형 순수 Morse taper(1.5°; 그룹당 ≥10개) 어버트먼트 침하 및 분리 결합력 벤치 연구.
+
+잠금 깊이가 침하 억제의 주요 결정인자(r=−0.807), 시팅 하중이 결합력의 주요 결정인자(r=0.963); 이 두 요인은 시팅 시 ≥5회 가압과 최종 교합조정 지연 프로토콜의 근거.
+
+유지 나사 없는 테이퍼 잠금 시스템에서 침하(Subsidence)로 인한 교합 하강이 실제 임상 문제; 잠금 깊이 증가·기둥경 확대가 유지력 향상과 침하 감소를 동시에 달성하는 핵심 설계 변수.
 
 ## Summary
 

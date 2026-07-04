@@ -9,7 +9,7 @@ pdf_filename: samani-2025-nsaids-endodontic-postoperative-network.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Network MA (IJPPP 2025, 16 RCT, n=2021): NSAIDs·코르티코스테로이드가 비외과적 근관치료 후 8~72h 전 시점에서 통증 유의 감소; 높은 이질성으로 최적 약제 결론 유보.
 
 ## 1. Document Information

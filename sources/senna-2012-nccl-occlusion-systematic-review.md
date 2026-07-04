@@ -13,11 +13,21 @@ ingest_note: "Webpage capture: abstract + references. Full body text not obtaine
 ## Why Ingested
 NCCL-교합 연관의 임상연구 SR. [[nccl/nascimento-2016-abfraction-etiology-diagnosis-treatment]]의 "교합 연관 약함" 주장과 [[nccl/overviews?]] 의사결정 ladder의 abfraction 논쟁 축을 SR-level 근거로 보강.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review (3 prospective + 25 cross-sectional studies) concluding that extreme heterogeneity in design and diagnostic criteria, plus substantial bias, masks any conclusion about occlusion's role in NCCL aetiology (no meta-analysis possible).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 임상연구 28편(전향3·단면25) SR — 설계·진단기준의 극심한 이질성과 편향으로 교합의 NCCL 병인 역할에 대한 결론 도출 불가(메타분석 불가).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Oral Rehabil 2012;39(6):450-462. DOI 10.1111/j.1365-2842.2012.02290.x. MEDLINE search (286 articles screened).

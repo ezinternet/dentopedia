@@ -13,13 +13,23 @@ source_collection: external
 
 `wiki/implants/surface/` 카테고리의 기초 참조문헌 확보 목적. 임플란트 표면처리 전반을 additive/subtractive/기타 방법으로 체계화한 서술 리뷰로, 개별 표면처리 연구([[implants/surface/att-2012-uv-light-titanium-osseointegration]] 등)의 맥락을 잡는 배경 문헌으로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative overview (2015) of titanium implant surface modification methods — additive (plasma spray, HA coating, calcium phosphate), subtractive (sandblasting, acid etching, anodization), and material-modification (laser, ion implantation) — cataloguing how macro/micro/nanotopography each influence osseointegration.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서술 리뷰 (2015): 티타늄 임플란트 표면처리를 첨가형(플라즈마 스프레이, HA 코팅), 삭감형(샌드블라스팅, 산에칭, 양극산화), 재질변형(레이저, 이온주입) 세 축으로 체계화하고, 거시·미시·나노 표면거칠기가 골유착에 미치는 영향을 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

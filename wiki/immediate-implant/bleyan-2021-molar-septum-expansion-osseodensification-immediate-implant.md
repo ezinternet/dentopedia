@@ -13,11 +13,21 @@ source_collection: external
 tags: [immediate-implant, osseodensification, molar-socket, septum-expansion, retrospective, multicenter, socket-classification, survival-rate]
 ---
 
-## One-line Summary
-Retrospective multicenter cohort (5 centers, 131 patients / 145 immediate molar implants, up to 5-year follow-up): osseodensification (OD) plastically expanded the mean interradicular septum width from 3.3 mm to a 4.65 mm osteotomy diameter (~1.35 mm net), with 93.1% cumulative implant survival (10 failures: 7 during healing, 3 post-loading); introduces a new OD-aware molar socket classification. No comparator group.
+## Three-line Summary
 
-## 한줄요약
-다기관 후향 코호트 (retrospective), 5개 센터, 131 환자/145 즉시 대구치 임플란트, 추적 최대 5년 — 골밀도화 (Osseodensification, OD)로 평균 치근간 격벽폭 3.3 mm → 골 절삭 직경 4.65 mm로 확장, 누적 임플란트 생존율 93.1% (10개 실패: 치유기 7, 부하 후 3). 비교군 없는 후향 디자인, 5년 시점 생존 곡선 분리 보고 없음.
+Retrospective multicenter cohort (5 centers, 131 patients/145 immediate molar implants, up to 5-year follow-up, J Funct Biomater 2021) using osseodensification (OD) to expand the interradicular septum for molar immediate implant placement.
+
+OD plastically expanded mean septum width from 3.3 mm to 4.65 mm osteotomy diameter (~1.35 mm net gain); cumulative implant survival was 93.1% with 10 failures (7 during healing, 3 post-loading); a new OD-aware molar socket classification is proposed.
+
+No comparator group (conventional drilling or delayed placement), inventor/industry co-authorship, and mixed follow-up windows limit conclusions to feasibility-level descriptive data rather than evidence of superiority over standard techniques.
+
+## 세줄요약
+
+다기관 후향 코호트(5개 센터, 131명/145개 즉시 대구치 임플란트, 최대 5년 추적, J Funct Biomater 2021): 골밀도화(Osseodensification, OD)로 대구치 치근간 격벽을 확장한 즉시식립.
+
+평균 격벽 폭 3.3 mm → 골 절삭 직경 4.65 mm(순증가 약 1.35 mm); 누적 생존율 93.1%, 실패 10개(치유기 7, 부하 후 3); 새로운 OD 기반 대구치 소켓 분류 제안.
+
+비교군 없는 후향 설계, 발명자·산업 계열 공동저자, 혼재된 추적 기간 등으로 기술 우월성 주장 근거로는 부족하며, 타당성 설명 데이터로 해석해야 한다.
 
 ## Summary
 Bleyan and Gaspar et al. retrospectively pooled cases from five centers where the osseodensification technique was used to place immediate implants in molar extraction sockets. The interradicular septum was the target for osteotomy (the only sound bone column typically available in a fresh molar socket). Across 131 patients and 145 implants between August 2015 and September 2020 with up to five years of follow-up, septum geometry change and implant survival were the primary outcomes.

@@ -22,13 +22,21 @@ tags: [implants, prosthesis-misfit, passive-fit, abutment-connection, marginal-b
 > - **임상 보호인자**: Kim 2022에서 나사-시멘트 혼합유지 보철 (Screw-and-Cement-Retained Prosthesis, SCRP)이 변연골소실 감소와 독립 연관(P=.027) — 잉여 시멘트 완전 제거 가능 때문. 위험인자는 중증 흡연·긴 임플란트·브릿지.
 > - **종합 임상 프레임워크**: ① 가능한 최소 부적합을 목표로 하되 ㎛ 단위 완벽주의에 집착할 필요는 없다(150 μm도 19년 생존). ② ≥0.1 mm 가시적 변연 갭은 재제작·수정 대상. ③ 골 소실의 진짜 동인은 흡연·치주염 같은 **환자 위험인자**이므로 부적합 통제와 함께 이 인자들을 우선 관리. ④ 연결부는 내부 원추형 (internal conical)이 초기 변연골소실에 유리하나 장기 생존은 동등 — 부적합 관리가 연결부 선택보다 비중이 크지 않다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 papers (1 SR + 3 long-term/quantitative cohorts): implant-prosthesis marginal misfit reliably drives screw-related complications but its link to peri-implant bone loss is weak and largely biologically (biofilm) mediated — a ≥0.1 mm gap marks a quantifiable threshold (each 0.1 mm → +0.08 mm bone loss; Couso-Queiruga 2025), yet 150 μm misfit is tolerated for ~19 years (Jokstad 2014) and patient factors (smoking, periodontitis) dominate bone loss; abutment-connection type (external vs internal conical) affects early MBL independently but converges by 5 years with equivalent survival (Kim 2022).
+Synthesis of 4 papers (Katsoulis 2017 SR, Jokstad 2014 retrospective, Couso-Queiruga 2025 retrospective, Kim 2022 retrospective 5-year): implant-prosthesis misfit reliably raises screw-loosening/fracture risk (concern band >134 µm; Katsoulis 2017), yet 150 µm mean misfit survived ~19 years at 96.7% implant survival (Jokstad 2014) and bone-loss correlation was weak (R²=0.04, p=.29) — misfit's primary clinical consequence is mechanical, not biological.
 
-## 한줄요약
+A ≥0.1 mm radiographic gap is the quantifiable bone-loss threshold (+0.08 mm bone loss per 0.1 mm gap, Couso-Queiruga 2025), but gap dimension loses significance in multivariate models once smoking (+0.36 mm) and periodontitis history (+0.16 mm) are entered — the bone-loss pathway is biological (biofilm reservoir) rather than direct biomechanical overload.
 
-4편 종합 (체계적 문헌고찰 1 + 장기·정량 코호트 3): 임플란트 보철 변연 부적합은 나사 합병증을 확실히 유발하지만 변연골소실과의 연관은 약하고 주로 생물학적(biofilm) 경로다 — 갭 ≥0.1 mm가 정량 임계값(0.1 mm당 골 +0.08 mm; Couso-Queiruga 2025)이지만 150 μm 부적합은 약 19년 견디며(Jokstad 2014) 흡연·치주염 같은 환자 인자가 골 소실을 지배하고, 연결부 타입(외부 vs 내부 원추형)은 초기 MBL에 독립적으로 영향하나 5년에 수렴하며 생존율은 동등(Kim 2022).
+Abutment-connection type independently affects early MBL (external hex 1.23 vs internal conical 0.72 mm at 1 year, p<0.001) but converges by 5 years with equivalent survival (Kim 2022); SCRP retention independently protects against MBL; patient biology (smoking, periodontitis) and gross-fit control matter more than the last micron of passive fit.
+
+## 세줄요약
+
+4편 종합(SR 1, 장기·정량 코호트 3): 부적합은 나사 합병증을 확실히 유발(우려 밴드 >134 µm; Katsoulis 2017)하지만, 150 µm 평균 부적합은 약 19년 96.7% 생존(Jokstad 2014)하고 변연골소실(MBL) 상관은 약함(R²=0.04) — 부적합의 1차 임상 결과는 역학적(나사)이지, 생물학적이 아님.
+
+방사선 갭 ≥0.1 mm가 정량 MBL 임계값(0.1mm당 +0.08mm, Couso-Queiruga 2025)이지만 다변량 모델에서 갭은 유의성을 잃고 흡연(+0.36mm)·치주염 이력(+0.16mm)이 더 강한 독립 예측인자 — MBL 경로는 biofilm 저류를 통한 생물학적 경로.
+
+연결부 타입은 초기 MBL에 독립 영향(외부헥스 1.23 vs 내부원추형 0.72mm, 1년)하나 5년에 수렴하고 생존율 동등(Kim 2022); 결론적으로 환자 위험인자(흡연·치주염) 통제와 총체적 적합도가 µm 단위 수동적합보다 중요.
 
 ## Summary
 

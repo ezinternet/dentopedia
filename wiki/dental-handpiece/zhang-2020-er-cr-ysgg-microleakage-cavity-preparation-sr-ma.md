@@ -20,13 +20,21 @@ relations:
     target: matys-2020-dental-aerosol-hazard-risk-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First SR+MA (13 in-vitro studies, 11 meta-analyzed) finding Er,Cr:YSGG laser cavity preparation yields microleakage equivalent to traditional rotary burs, with adjunctive acid etching significantly improving self-etch adhesive sealing after laser preparation.
+First PRISMA SR+MA (13 in-vitro studies, 11 meta-analyzed, all moderate risk of bias) comparing Er,Cr:YSGG laser vs rotary bur for cavity preparation judged by restoration microleakage at enamel, dentin, and whole-margin levels.
 
-## 한줄요약
+Laser and bur showed equivalent microleakage at all margins (dentin RR 1.26, whole RR 1.27, enamel RR 0.87; all NS); adjunctive acid etching significantly improved self-etch adhesive sealing after laser preparation (RR 2.69, p<0.00001) but not etch-and-rinse adhesives.
 
-첫 SR+MA(인비트로 13편, 11편 메타분석) — Er,Cr:YSGG 레이저 와동형성은 전통적 회전 bur와 미세누출이 동등하며, 레이저 형성 후 자가부식 접착제에 산부식을 추가하면 미세누출이 유의하게 감소.
+Er,Cr:YSGG laser does not improve marginal seal compared to bur — the instrument choice is a comfort/speed trade-off; when laser is used with self-etch adhesive, acid etching must be added to achieve adequate sealing.
+
+## 세줄요약
+
+첫 PRISMA SR+MA(인비트로 13편, 11편 메타분석, 전원 중등도 비뚤림위험) — Er,Cr:YSGG 레이저 대 회전 bur 와동형성을 법랑질·상아질·전체 변연 미세누출로 비교.
+
+레이저 vs bur: 전 변연 미세누출 동등(상아질 RR 1.26, 전체 RR 1.27, 법랑질 RR 0.87; 모두 NS); 레이저 후 자가부식 접착제에 산부식 추가 시 미세누출 유의 감소(RR 2.69, p<0.00001), 전산부식 접착제에는 무효(NS).
+
+Er,Cr:YSGG 레이저는 bur 대비 변연 밀봉 향상 없음 — 도구 선택은 환자 편의·속도 절충 문제; 레이저 사용 시 자가부식 접착제에는 반드시 산부식을 추가해야 한다.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 The electric-toothbrush evidence base we hold (e.g. [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]]) is largely adult-focused; this RCT adds direct pediatric (6–10 yo) head-to-head data on an advanced oscillating-rotating (OR) electric toothbrush versus a manual brush, reinforcing the OR-power-superiority signal in a child population where manual-brushing dexterity is still developing.
 
-## One-line Summary
+## Three-line Summary
 
-4-week examiner-blind parallel-group RCT (n=60, 6–10 yo children, Israel): an advanced oscillating-rotating electric toothbrush (Oral-B iO2) gave 51% greater whole-mouth plaque reduction than a manual toothbrush (TQHPI change 0.67 vs 0.44; p=0.003), with 42–64% greater reductions across all subregions (lingual, buccal, approximal, molar; p≤0.021); no adverse events.
 
-## 한줄요약
+4-week examiner-blind parallel-group RCT (n=60, 6–10 yo children, Israel): an advanced oscillating-rotating electric toothbrush (Oral-B iO2) gave 51% greater whole-mouth plaque reduction than a manual toothbrush (TQHPI change 0.67 vs 0.44;
 
-4주 검사자-맹검 병렬군 RCT (n=60, 6–10세 아동, 이스라엘): 첨단 회전-진동(OR) 전동칫솔(Oral-B iO2)이 수동칫솔보다 전악 치면세균막(TQHPI) 감소가 51% 더 컸고(0.67 vs 0.44; p=0.003), 모든 하위부위(협·설·인접·구치)에서 42–64% 더 큰 감소(p≤0.021)를 보였으며 이상반응은 없었다.
+p=0.003), with 42–64% greater reductions across all subregions (lingual, buccal, approximal, molar;
+
+p≤0.021); no adverse events.
+
+## 세줄요약
+
+
+4주 검사자-맹검 병렬군 RCT (n=60, 6–10세 아동, 이스라엘): 첨단 회전-진동(OR) 전동칫솔(Oral-B iO2)이 수동칫솔보다 전악 치면세균막(TQHPI) 감소가 51% 더 컸고(0.67 vs 0.44;
+
+p=0.003), 모든 하위부위(협·설·인접·구치)에서 42–64% 더 큰 감소(p≤0.021)를 보였으며 이상반응은 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 

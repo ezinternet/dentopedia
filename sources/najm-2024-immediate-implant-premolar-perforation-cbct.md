@@ -17,13 +17,23 @@ text_filename: najm-2024-immediate-implant-premolar-perforation-cbct.txt
 
 Extends [[immediate-implant/kheur-2024-feasibility-iip-maxillary-first-premolars]] (which assessed feasibility of IIP at maxillary first premolars) into a larger CBCT virtual study covering BOTH first and second maxillary premolars (179 patients, 716 teeth) and, crucially, quantifies the prosthetically-driven vs bone-driven perforation gap (84.1% vs 40.5%) plus the mean buccal tilt required (ILAA 18.3°). Provides the anatomical-risk counterpart to the prep/drilling strategies in [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] and the sagittal-root-position logic of [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]], now applied to the premolar region.
 
-## One-line Summary
+## Three-line Summary
 
-CBCT virtual study (179 patients, 716 maxillary premolars): immediate-implant labial/nasal/sinus perforation occurred in 84.1% of prosthetically-driven placements vs 40.5% of bone-driven placements; female sex, older age, shorter tooth-apex distance, and smaller labial concavity angle raised perforation risk.
 
-## 한줄요약
+CBCT virtual study (179 patients, 716 maxillary premolars): immediate-implant labial/nasal/sinus perforation occurred in 84.1% of prosthetically-driven placements vs 40.5% of bone-driven placements;
+
+female sex, older age, shorter tooth-apex distance, and smaller labial concavity angle raised perforation risk.
+
+(incomplete)
+
+## 세줄요약
+
 
 CBCT 가상 연구(환자 179명, 상악 소구치 716개): 즉시식립 시 보철주도(prosthetically-driven) 위치는 84.1%, 골주도(bone-driven) 위치는 40.5%에서 순측/비강/상악동 천공이 발생했고, 여성·고령·치근첨-구조물 거리 짧음·작은 순측 함몰각(LCA)이 천공 위험을 높였다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

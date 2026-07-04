@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT secondary analysis (n=75, 3 groups 1:1:1; 55 datasets at 1y) of early implant placement (8-wk delayed) in the anterior maxilla: ARP (DBBM-C + collagen matrix or palatal graft) cut the need for additional GBR at placement from 68.4% (no ARP) to ~30%, but simultaneous GBR at placement — not ARP alone — was the dominant driver of restored buccal convexity at 1 year (72.7% with GBR vs 36.0% ARP-only).
+RCT secondary radiographic-and-profilometric analysis (n=75, 3-arm 1:1:1; 55 datasets at 1 year): early (type-2) implant placement 8 weeks after extraction in the anterior maxilla, comparing ARP with DBBM-C + collagen matrix, ARP with DBBM-C + palatal graft, and unassisted healing (control), with additional GBR performed at placement as needed.
 
-## 한줄요약
+ARP roughly halved additional GBR need at placement (~30% ARP vs 68.4% control); however, buccal convexity restoration at 1 year was driven not by ARP but by whether simultaneous GBR was performed at placement (72.7% convexity with GBR vs 36.0% ARP-only), with residual buccal bone height and simultaneous GBR as the significant predictors.
 
-전치부 상악 단일치 조기식립(발치 8주 후) RCT 2차분석(n=75, 3군 1:1:1, 1년 55건): 치조제보존(ARP; DBBM-C + 콜라겐매트릭스 또는 구개이식)이 식립 시 추가 골유도재생(GBR) 필요를 68.4%(ARP 무) → 약 30%로 줄였으나, 1년 협측 볼록도 회복의 최강 결정인자는 ARP 자체가 아니라 식립 시 동시 GBR(72.7% vs ARP-only 36.0%)이었다.
+ARP reduces — but does not eliminate — the need for hard-tissue augmentation in the aesthetic zone; the best contour is achieved with early placement combined with simultaneous GBR regardless of prior ARP.
+
+## 세줄요약
+
+무작위대조시험 (RCT) 2차 방사선·표면측정 분석 (n=75, 3군 1:1:1, 1년 55건): 상악 전치부 단일치 발치 8주 후 조기 (type-2) 임플란트 식립 — 치조제 보존술 (ARP; DBBM-C + 콜라겐매트릭스 또는 구개이식) vs 자연치유, 식립 시 필요에 따라 골유도재생술 (GBR) 추가.
+
+ARP는 식립 시 추가 GBR 필요를 ~30% (ARP군) vs 68.4% (대조군)으로 절반 감소; 그러나 1년 협측 볼록도 (buccal convexity) 회복은 ARP 자체가 아니라 식립 시 동시 GBR 시행 여부가 결정 (GBR 72.7% vs ARP-only 36.0%, p=0.042).
+
+심미부 치조제 보존술은 필요 증대술의 부담을 줄이지만 제거하지는 못하며, 최적 협측 윤곽은 ARP 유무에 관계없이 조기 식립 + 동시 GBR 조합으로 달성된다.
 
 ## Summary
 

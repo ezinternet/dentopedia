@@ -22,13 +22,21 @@ source_wiki:
 > - **임상 의사결정 프레임**: (1) 급성 시술 중 주의분산이 필요하고 헤드셋 사용 가능 연령/협조도라면 → VR 우선, (2) 만성적·범불안 성향의 치과공포증으로 반복 내원이 필요하다면 → CBT ± 최면(오디오 자가최면부터 시작), (3) 아주 짧은 처치나 술자 접근성이 중요한 부위(예: 후방 임플란트, 신경블록)라면 → 태블릿/화면 주의분산 같은 저비용 대안도 VR과 대등할 수 있음.
 > - **핵심 한계**: 세 논문 모두 척도 이질성(DAS/VAS/STAI/MCDAS 등)으로 인해 직접적 head-to-head 메타비교는 불가능하며, VR의 소아 오프라벨 사용과 cybersickness 미평가는 안전성 신호로 남아있다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 3 papers on non-pharmacological dental anxiety management: hypnosis (Cernega 2022, SR+MA, n=19 adult trials) shows a promising but statistically inconclusive effect (pooled effect size range −4.30 to 6.20, high heterogeneity) with CBT outperforming it on consistency, while immersive VR distraction (Barros-Padilha 2023, SR, 22 pediatric RCTs, n=2,558; Ghobadi 2024, RCT, n=73 adult implant patients) shows a more consistent, physiologically-corroborated anxiety/pain-reduction signal across both pediatric and adult populations, at the practical cost of headset logistics and — in surgical settings — impaired operator access.
+Synthesis of 3 papers comparing two non-pharmacological dental anxiety management mechanisms — hypnosis (Cernega 2022, SR+MA, 19 adult trials, 1979–2021) and immersive virtual-reality (VR) distraction (Barros-Padilha 2023, SR, 22 pediatric RCTs, n=2,558 ages 5–12; Ghobadi 2024, RCT, n=73 adult implant patients, crossover): hypnosis shows a promising but statistically inconclusive effect (pooled effect size range −4.30 to 6.20, very high heterogeneity, only 5 STAI-eligible trials), with CBT outperforming it on consistency.
 
-## 한줄요약
+Immersive VR produces a more consistent and physiologically corroborated anxiety/pain-reduction signal — no pediatric RCT found conventional non-screen techniques superior to VR (Barros-Padilha 2023); in adults undergoing implant surgery, VR reduced experienced pain (NRS −1.71), state anxiety (STAI-S −3.45), and dental anxiety (MDAS −4.55), all p<0.001, corroborated by EMG/EKG/GSR biofeedback, with 90.4% wanting to reuse it (Ghobadi 2024).
 
-비약물적 치과불안 관리 3편 종합 — 최면(Cernega 2022, SR+MA, 성인 19편 RCT)은 유망하나 통계적으로는 결론 미도출(pooled 효과크기 범위 −4.30~6.20, 높은 이질성)이며 CBT가 더 일관된 효과를 보인 반면, 몰입형 VR 주의분산(Barros-Padilha 2023, SR, 소아 22편 RCT n=2,558; Ghobadi 2024, RCT, 성인 임플란트 n=73)은 소아·성인 모두에서 더 일관되고 생리지표로 검증된 불안·통증 감소 신호를 보였으나, 헤드셋 물류 문제와 수술 상황에서의 술자 접근성 저해라는 실무적 비용이 따른다.
+The practical tradeoffs favor VR for acute procedural distraction (headset available, patient age-appropriate) but require caution in surgical contexts where headset bulk measurably increases operator distress; hypnosis/CBT suits chronic phobia with repeated visits; when operator access is paramount (posterior implants, nerve blocks), screen-based distraction without a headset may be equally effective and operationally simpler.
+
+## 세줄요약
+
+비약물적 치과불안 관리 3편 종합(최면 vs 가상현실): 최면(Hypnosis, Cernega 2022, SR+MA, 성인 19편)은 유망하나 pooled 효과크기 범위 −4.30~6.20으로 통계적 결론 미도출(이질성 매우 높음, STAI 사용 5편만 메타분석 가능) — CBT가 더 일관된 효과.
+
+몰입형 VR 주의분산(Virtual Reality, VR)은 더 일관적이고 생리지표로 검증된 신호: 소아 22 RCT(Barros-Padilha 2023, n=2,558) 어느 것도 전통 비화면 기법이 VR보다 우월하지 않았음; 성인 임플란트 교차설계 RCT(Ghobadi 2024, n=73)에서 VR이 경험 통증(NRS −1.71)·상태불안(STAI-S −3.45)·치과불안(MDAS −4.55) 모두 p<0.001 감소, EMG/EKG/GSR 생리지표 검증, 재사용 희망 90.4%.
+
+임상 의사결정: 급성 시술 중 주의분산 → VR 우선; 만성 치과공포증 반복 내원 → CBT ± 최면; 술자 접근성 중요 부위(후방 임플란트·신경블록) → 헤드셋 없는 태블릿/화면 주의분산도 VR과 대등 가능 — VR 헤드셋은 수술 상황에서 술자 불편을 유의하게 증가시킨다(Ghobadi 2024).
 
 ## Summary
 

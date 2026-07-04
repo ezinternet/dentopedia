@@ -16,11 +16,21 @@ relations:
     target: donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a
 ---
 
-## One-line Summary
-Narrative overview of periapical (apical periodontitis) lesions covering etiology, diagnosis, and treatment, noting histopathology remains the diagnostic standard while CBCT/MRI/echography show promise for differentiating granuloma from cyst.
+## Three-line Summary
 
-## 한줄요약
-근단병소(치근단성 치주염)의 병인·진단·치료를 정리한 narrative overview — 진단 표준은 여전히 조직병리이나 CBCT·MRI·echography가 육아종/낭종 감별에 유망.
+Narrative overview (Eur Endod J 2020) surveying the etiology, diagnosis, and treatment of endodontic periapical lesions — the downstream consequence of pulp necrosis and microbial colonization of the root canal system.
+
+Histopathology remains the gold standard for distinguishing periapical granuloma from radicular cyst, but CBCT, MRI, and echography are emerging as non-invasive adjuncts that may differentiate lesion type and guide treatment selection.
+
+Persistent apical periodontitis and true cysts represent an unmet treatment gap needing less-invasive, higher-predictability approaches; the integrated etiology-to-treatment map anchors the periapical-lesion knowledge cluster in this wiki.
+
+## 세줄요약
+
+Eur Endod J 2020 서사 개요 — 치수괴사·근관 내 세균 집락화의 하류 결과인 치근단 병소(근단치주염)의 병인·진단·치료를 망라하여 정리.
+
+육아종(granuloma)과 치근낭종(radicular cyst)의 감별에는 조직병리가 여전히 표준이나, CBCT·MRI·에코그래피가 비침습적 병소 유형 감별 및 치료 선택 안내에 유망한 보조 수단으로 부상.
+
+지속성 치근단치주염과 진성 낭종은 미충족 치료 과제이며, 덜 침습적이고 예측성 높은 접근법이 필요함; 본 페이지는 위키 근단병소 지식 클러스터의 병인·진단·치료 통합 지도 역할.
 
 ## Summary
 Karamifar and colleagues survey periapical lesions — the downstream consequence of pulp necrosis and root-canal infection. They trace the etiology (microbial colonization of necrotic pulp driving periradicular pathosis), review diagnosis, and catalog treatment modalities. Two points are clinically salient: histopathology is still the gold standard for distinguishing a periapical granuloma from a radicular cyst, but advanced imaging (CBCT, MRI, echography) is emerging as a non-invasive way to differentiate lesion types and thereby steer treatment; and for persistent apical periodontitis and true cysts, current treatments remain insufficiently predictable, so less-invasive, higher-predictability approaches are needed.

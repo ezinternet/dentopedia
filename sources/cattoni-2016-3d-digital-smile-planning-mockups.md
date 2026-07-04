@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]]와 [[veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations]]가 최소삭제 비니어의 임상 결과와 준비 원칙을 다루지만, 그 최소삭제를 가능케 하는 **mockup-guided / APT-style 사전평가 임시수복(aesthetic pre-evaluative temporary)** 워크플로우 자체를 다룬 페이지는 부재했다. 본 임상연구(Cattoni 2016, n=28, 108 PLVs)는 전통적 wax-up/실리콘 키 mockup을 **완전 디지털 3D-DSD → CAD-CAM 밀링 PMMA mockup**으로 대체하고, 그 mockup을 직접 prep guide로 사용해 법랑질 한정 최소삭제를 시행하는 프로토콜을 검증하여, 최소삭제 비니어를 "어떻게 예측가능하게 만드는가"의 디지털 워크플로우 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical study (n=28 patients, 108 IPS e.max PLVs, 2-year follow-up) of a fully digital 3D Digital Smile Planning (3D-DSP) workflow: 2D facial photos + intraoral STL scan are fused into a 3D smile design, a CAD-CAM-milled PMMA mockup is fabricated and used as a position guide for enamel-only minimally invasive preparation; 2-year results showed 1 fracture, 2 sensitivities, 1 recession (0.9% each at veneer level) and no debonding/chipping/microleakage, with high patient satisfaction (mockup test rated very effective by 85.7%).
+Prospective single-arm clinical study (n=28 patients, 108 IPS e.max PLVs on vital teeth, Sep 2012–Jul 2015, 2-year follow-up) testing a fully digital 3D Digital Smile Planning (3D-DSP) workflow in which 2D facial photos and intraoral STL scans are fused into a virtual design and a CAD-CAM-milled PMMA mockup is spot-cemented as a position guide for enamel-only minimally invasive preparation.
 
-## 한줄요약
+Two-year complications: fracture 1 (0.9%), sensitivity 2 (1.8%), gingival recession 1 (0.9%); zero debonding, chipping, microleakage, or secondary caries; patient satisfaction was 85.7% "very effective" for the mockup test and 64.3% "very effective" for digital previsualization.
 
-전향 임상연구(환자 28명, IPS e.max 도재 라미네이트 비니어 108개, 2년 추적): 안면 2D 사진과 구내 STL 스캔을 합쳐 3차원 스마일 디자인(3D Digital Smile Planning, 3D-DSP)을 만들고, CAD-CAM으로 밀링한 PMMA 목업을 법랑질 한정 최소삭제(Minimally Invasive)의 위치 가이드로 사용 — 2년 후 파절 1·지각과민 2·치은퇴축 1개(비니어 단위 각 0.9%)뿐이고 탈락·치핑·미세누출 0건, 목업 테스트 만족도 "매우 효과적" 85.7%.
+The study lacks a concurrent control (no head-to-head vs analog APT/wax-up workflow), the sample is small (n=28), and no quantitative measure of enamel preservation is reported despite the minimally invasive claim.
+
+## 세줄요약
+
+전향적 단일군 임상연구(환자 28명, 생활치 IPS e.max 도재 라미네이트 비니어 108개, 2012.9–2015.7 모집, 2년 추적): 안면 2D 사진+구내 STL 스캔을 융합해 가상 3D 스마일 디자인(3D Digital Smile Planning, 3D-DSP)을 만들고, CAD-CAM 밀링 PMMA 목업을 spot-etch 임시 접착 후 법랑질 한정 최소삭제 위치 가이드로 사용.
+
+2년 합병증: 파절 1(0.9%), 지각과민 2(1.8%), 치은퇴축 1(0.9%); 탈락·치핑·미세누출·이차우식 0건; 목업 테스트 환자 만족도 "매우 효과적" 85.7%, 디지털 프리뷰 만족도 "매우 효과적" 64.3%.
+
+비교군(아날로그 APT/wax-up 워크플로우) 없는 단일군 설계, 소표본(n=28), 법랑질 보존 정도의 정량적 측정 없음 — 2년 단기 결과로 임상 일반화 제한.
 
 ## 1. Document Information
 

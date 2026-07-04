@@ -27,12 +27,21 @@ tags: [biomimetic-dentistry, brd, evidence-based, ids, deep-margin-elevation, ch
 > - 임상 takeaway: 특정 outcome에 대해 RCT 수준 근거가 없으면 BRD 주장을 회의적으로 보고, 잘 수행된 표준 접착치의학이 BRD outcome과 임상적으로 대등할 가능성이 큼.
 > - 가치: 사례보고·실험실 연구가 지배하는 BRD 문헌에서 드문 근거-회의적 목소리, 임상 의사결정의 counterweight 참조로 유용.
 
-## One-line Summary
+## Three-line Summary
 
-Critical narrative review (Reis/Loguercio group) evaluating 9 biomimetic restorative dentistry (BRD) protocols against RCT/SR-level evidence: only deep margin elevation (DME) is supported, while caries-detector dyes, aluminum-oxide air abrasion, posterior enamel beveling, "elected" gold-standard adhesives, time "decoupling", and pulpal-floor fiber inserts lack evidence of superiority over well-executed standard adhesive dentistry, and immediate dentin sealing (IDS) and chlorhexidine MMP-inhibition remain in-vitro-supported but clinically unproven.
+Critical narrative review (Reis/Loguercio group, J Appl Oral Sci 2024) evaluating 9 biomimetic restorative dentistry (BRD) protocols against RCT/SR-level evidence via PubMed/Embase/Cochrane search; identifies cognitive biases (novelty, authority) driving adoption of unvalidated techniques.
 
-## 한줄요약
-Reis/Loguercio 그룹의 BRD(Biomimetic Restorative Dentistry) 9개 프로토콜 비판적 narrative 리뷰: caries dye·알루미나 air abrasion·posterior bevel·CHX MMP 억제·"elected" 어드히시브·IDS·deep margin elevation·decoupling·fiber inserts 중 deep margin elevation만 임상 근거 있음, 나머지는 RCT/SR-수준 우월 근거 부족.
+Of the 9 protocols, only deep margin elevation (DME) is supported by clinical evidence as a viable subgingival-margin alternative; caries-detector dyes, alumina air abrasion, posterior enamel beveling, "elected" gold-standard adhesives, time "decoupling", and pulpal-floor fiber inserts lack RCT/SR-level superiority over standard adhesive dentistry; IDS and CHX MMP-inhibition are in-vitro-supported but clinically unproven.
+
+Clinical takeaway: treat BRD protocol claims with skepticism unless RCT-level evidence exists for the specific outcome — standard adhesive dentistry, well-executed, likely matches BRD clinical results; counterweight to BRD proponent sources (Alleman, Magne, Bio-Emulation Group, Academy of Biomimetic Dentistry).
+
+## 세줄요약
+
+Reis/Loguercio 그룹의 생체모방 수복치의학(Biomimetic Restorative Dentistry, BRD) 비판적 내러티브 리뷰(J Appl Oral Sci 2024): PubMed/Embase/Cochrane CENTRAL에서 9개 BRD 프로토콜별 RCT·SR 검색; 신규성·권위편향이 도입 동인임을 지목.
+
+9개 프로토콜 중 치은연하 변연에 대한 깊은 변연 거상(Deep Margin Elevation, DME)만 임상 근거 지지; 우식 탐지 염색·알루미나 기압분사·후방부 법랑질 베벨·"selected" 어드히시브 숭배·시간차 분리·치수상 fiber insert는 RCT/SR급 우월 근거 부재; 즉시 상아질 봉쇄(Immediate Dentin Sealing, IDS)와 클로르헥시딘(Chlorhexidine, CHX) 기질금속단백분해효소(Matrix Metalloproteinase, MMP) 억제는 실험실 지지 있으나 임상 미입증.
+
+임상 함의: 특정 결과에 대해 RCT 근거가 없으면 BRD 주장을 회의적으로 평가; 잘 수행된 표준 접착치의학이 임상 결과 면에서 BRD와 동등할 가능성 높음; Reis/Loguercio의 비판적 입장 편향 감안해 BRD-긍정 문헌(Hardan 2022, Samartzi 2021)과 균형 독해 권장.
 
 ## Summary
 Critical narrative review (J Appl Oral Sci 2024) from Reis/Loguercio group challenging 9 "biomimetic restorative dentistry" (BRD) protocols. Authors performed RCT/SR-focused literature search on PubMed/Embase/Cochrane CENTRAL for each protocol and concluded most lack high-level evidence of superiority over standard adhesive dentistry techniques. Names BRD proponents (David Alleman, Pascal Magne, Bio-Emulation Group™, Academy of Biomimetic Dentistry) and identifies cognitive biases (novelty, authority) driving adoption.

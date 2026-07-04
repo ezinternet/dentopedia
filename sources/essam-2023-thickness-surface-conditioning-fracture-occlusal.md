@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/veneers/sasse-2015-restoration-thickness-bonding-surface-fracture]] 에서 최소 0.7–1.0 mm 두께를 권장했으나, 0.5 mm 두께 가능성과 표면처리 방법(HF vs APF vs Monobond etch & prime)의 복합적 영향은 미탐구 상태였음. 본 in-vitro 연구(Essam 2023)는 두께 × 표면처리 교호작용을 동시에 분석해 HF 생물학적 위험 회피 근거(Monobond etch & prime 권장)를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=42 maxillary molars, 6 groups) of CAD/CAM lithium disilicate occlusal veneers at 0.5 mm and 1 mm thickness with three surface treatments: 1 mm + Monobond etch & prime achieved highest fracture load (1644.7 N); 0.5 mm veneers remain feasible (>962 N except APF group); Monobond etch & prime recommended over HF acid for safety.
 
-## 한줄요약
+In-vitro study (n=42 maxillary molars, 6 groups) of CAD/CAM lithium disilicate occlusal veneers at 0.5 mm and 1 mm thickness with three surface treatments: 1 mm + Monobond etch & prime achieved highest fracture load (1644.7 N);
 
-In-vitro 연구 (n=42 대구치, 6군): CAD/CAM 리튬 디실리케이트 (Lithium Disilicate, LD) 교합면 비니어의 두께(0.5 mm vs 1 mm)와 표면처리(불산, APF, Monobond etch & prime) 교호작용 분석 — 1 mm + Monobond etch & prime군 최고 파절 하중 (Fracture Load, FL) 1644.7 N; 0.5 mm도 교합력 수준 상회하나 APF+0.5 mm군(962 N)은 이갈이 환자에 비권장; 생물학적 안전성을 고려해 Monobond etch & prime 권장.
+0.5 mm veneers remain feasible (>962 N except APF group);
+
+Monobond etch & prime recommended over HF acid for safety.
+
+## 세줄요약
+
+
+In-vitro 연구 (n=42 대구치, 6군): CAD/CAM 리튬 디실리케이트 (Lithium Disilicate, LD) 교합면 비니어의 두께(0.5 mm vs 1 mm)와 표면처리(불산, APF, Monobond etch & prime) 교호작용 분석 — 1 mm + Monobond etch & prime군 최고 파절 하중 (Fracture Load, FL) 1644.7 N;
+
+0.5 mm도 교합력 수준 상회하나 APF+0.5 mm군(962 N)은 이갈이 환자에 비권장;
+
+생물학적 안전성을 고려해 Monobond etch & prime 권장.
 
 ## 1. Document Information
 

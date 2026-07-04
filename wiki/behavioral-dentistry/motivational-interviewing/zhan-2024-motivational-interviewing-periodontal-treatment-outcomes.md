@@ -16,13 +16,21 @@ relations:
     target: kay-2016-motivational-interviewing-general-dental-practice
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (n=474; 6 pooled) found NO significant difference between motivational interviewing and standard oral health instruction on plaque, bleeding on probing, or gingival inflammation — evidence insufficient, mostly high risk of bias.
+SR+MA (PROSPERO CRD42023458021; 2,108 screened → 7 RCTs, n=474; 6 pooled) of motivational interviewing (MI) alone vs standard oral health instruction in patients ≥12 years with gingivitis, periodontitis, or peri-implantitis; 5 of 7 trials rated high risk of bias.
 
-## 한줄요약
+Pooled random-effects analysis showed no significant difference between MI and standard instruction for plaque level, bleeding on probing, or gingival inflammation; evidence for attachment loss and probing depth was insufficient.
 
-7개 RCT(n=474, 6편 메타분석)를 종합한 SR+MA로, 동기면담(Motivational Interviewing, MI)이 표준 구강위생교육 대비 치면세균막·탐침시출혈·치은염증에서 유의한 차이가 없었고 근거가 불충분하며 비뚤림 위험이 대부분 높았다.
+This is the most current MI-specific periodontal SR+MA (search to May 2023), providing a null quantitative anchor that contrasts with optimistic narrative claims — though the high heterogeneity and bias limit definitive conclusions.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석(Systematic Review and Meta-Analysis, SR+MA; PROSPERO CRD42023458021) — 2,108편 검색 후 RCT 7편(n=474) 포함, 6편 메타분석; 대상 치은염·치주염·임플란트주위염 환자(≥12세); 7편 중 5편이 높은 비뚤림 위험.
+
+무작위효과 메타분석 결과 동기면담(Motivational Interviewing, MI)과 표준 구강위생교육 간 치면세균막지수·탐침시출혈(Bleeding on Probing, BoP)·치은염증 모두 유의한 차이 없음; 부착 소실·탐침 깊이는 근거 불충분.
+
+2023년 5월까지 검색을 포함한 가장 최신 치주 특이 MI SR+MA로, 낙관적 서술 주장에 대한 음성 정량 기준점 제공 — 단, 높은 이질성과 비뚤림으로 단정적 결론은 제한.
 
 ## Summary
 

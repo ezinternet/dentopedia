@@ -15,13 +15,21 @@ full_text: false
 tags: [tilted-implant, axial-implant, full-arch, edentulous, survival, marginal-bone-loss, sr-ma]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (24 studies, n=2,637 patients, 5,594 tilted + 5,611 axial implants, 3–18yr follow-up): implant survival 93.91%, prosthesis survival 99.31%; marginal bone loss significantly LOWER around axial vs tilted implants (P<.0001); arch (maxilla vs mandible) did not affect MBL.
+SR+MA (24 studies, n=2,637 patients, 5,594 tilted + 5,611 axial implants, 3–18yr follow-up) evaluating fixed full-arch prostheses on tilted and axially placed implants in edentulous patients.
 
-## 한줄요약
+Implant survival 93.91%, prosthesis survival 99.31%; marginal bone loss was significantly LOWER around axial vs tilted implants (P<.0001); maxilla vs mandible made no significant difference in MBL (P=.17).
 
-SR+MA (24편, n=2,637명, 3~18년): 임플란트 생존율 93.91%, 보철 생존율 99.31%; 변연골 소실은 수직(axial) < 경사(tilted) (P<.0001); 악궁(상악 vs 하악)은 MBL에 영향 없음.
+Tilted implants carry a marginal bone loss penalty vs axial over longer follow-up; full-arch rehabilitation on mixed tilted + axial implants is predictable long-term, but axial placement should be favored when anatomy permits.
+
+## 세줄요약
+
+SR+MA (24편, n=2,637명, 3~18년 추적) — 무치악 환자의 경사(tilted) + 수직(axial) 혼합 지지 고정 전악 보철 평가.
+
+임플란트 생존율 93.91%, 보철 생존율 99.31%; 수직(axial) 임플란트의 변연골 소실이 경사 대비 유의하게 낮음 (P<.0001); 악궁(상악 vs 하악)은 MBL에 유의한 영향 없음 (P=.17).
+
+장기 추적에서 경사 임플란트는 변연골 소실 불이익이 있으므로 해부학적으로 가능하면 수직 식립이 권장됨.
 
 ## Summary
 

@@ -14,11 +14,19 @@ source_collection: external
 tags: [chitosan, cellulose, hemostasis, DAPT, dental-extraction, within-person-RCT, local-hemostatic, antiplatelet]
 ---
 
-## One-line Summary
-Within-person single-blind RCT (J Evid Based Dent Pract 2023): chitosan-based local hemostatic is superior to oxidized cellulose gauze in DAPT patients undergoing extraction — shorter bleeding time and improved wound healing — chitosan is the preferred hemostatic option for DAPT extractions.
+## Three-line Summary
+Within-person single-blind RCT comparing chitosan-based hemostat vs oxidized cellulose gauze in DAPT patients undergoing contralateral dental extractions; each patient served as their own control.
 
-## 한줄요약
-Within-person 단일맹검 RCT (J Evid Based Dent Pract 2023): DAPT 환자 발치 시 chitosan-기반 국소 지혈제가 cellulose oxidized gauze보다 출혈시간 단축 + 치유 개선 — DAPT 지속 발치의 지혈 옵션으로 chitosan 우위.
+Chitosan significantly reduced post-extraction bleeding time and improved wound healing compared with oxidized cellulose gauze.
+
+For DAPT patients where antiplatelet therapy is continued through extraction, chitosan-based hemostats (e.g., HemCon) are a defensible upgrade over standard Surgicel.
+
+## 세줄요약
+DAPT 환자 발치 시 chitosan 지혈제와 oxidized cellulose gauze를 비교한 within-person 단일맹검 RCT; 각 환자가 대조군 역할(대측 발치).
+
+Chitosan군이 cellulose군 대비 발치 후 출혈시간 유의하게 단축, 창상 치유도 개선.
+
+DAPT 지속 발치에서 chitosan 기반 지혈제가 Surgicel 대비 우위이며, 현대적 비중단 원칙을 보완하는 일선 선택지.
 
 ## Summary
 Within-person, single-blind randomized study comparing **chitosan-based local hemostatic** vs **oxidized cellulose gauze** for dental extractions in patients on dual antiplatelet therapy (DAPT). Each patient served as their own control (contralateral extractions). Chitosan reduced post-extraction bleeding time and improved wound healing.

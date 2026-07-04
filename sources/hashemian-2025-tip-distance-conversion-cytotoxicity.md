@@ -17,11 +17,21 @@ text_filename: hashemian-2025-tip-distance-conversion-cytotoxicity.txt
 
 기존 [[resin-bonding/li-2025-curing-modes-dual-cure-dentin]]는 광중합 여부(light- vs self-curing)가 dentin 접착 강도·내구성에 미치는 영향을 다루지만, 큐어링 팁-표면 거리라는 별개의 device-parameter가 세포 생존율이라는 생체적합성 종말점에 직접 연결되는지는 다루지 않는다. 본 논문(Hashemian 2025)은 큐어링 팁 거리(0/2/4/6/8mm)를 DC%와 치은섬유아세포 생존율에 동시에 매핑하여, "불충분 광조사 → 낮은 DC% → 잔류 단량체 방출 → 세포독성"이라는 임상 안전성 경로를 정량화한다 — 근관/치은 인접 근원심면 와동에서 실제로 발생하는 임상 시나리오(팁이 와동 바닥에 닿지 않는 상황)에 대한 직접적 근거.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro study (J Oral Biol Craniofac Res 2025) curing a nanocomposite (Filtek Z350 XT) at 0/2/4/6/8 mm light-curing tip distances (n=4/group) and measuring degree of conversion (ATR-FTIR) and human gingival fibroblast viability (MTT): DC% and cell viability both declined significantly with increasing distance, cell viability fell below the ISO 70% biocompatibility threshold at ≥6 mm, and DC% correlated positively with cell viability (top surface R=0.597, bottom R=0.490).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro 연구(J Oral Biol Craniofac Res 2025): 나노복합레진(Filtek Z350 XT)을 큐어링 팁 거리 0/2/4/6/8mm(군당 n=4)에서 광중합 후 전환도(DC, ATR-FTIR)와 치은섬유아세포 생존율(MTT)을 측정 — 거리가 늘수록 DC%와 세포생존율 모두 유의하게 감소, 6mm 이상에서 ISO 70% 생체적합성 임계값 미만으로 하락, DC%와 세포생존율은 양의 상관관계(상면 R=0.597, 하면 R=0.490).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Oral Biology and Craniofacial Research, 2025, Volume 15, Issue 6, pp. 1793–1798

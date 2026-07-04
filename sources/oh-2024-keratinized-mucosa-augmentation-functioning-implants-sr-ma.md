@@ -13,11 +13,21 @@ source_collection: external
 
 KM 증대술의 *치료 효과*(증대 후 결과)를 정량화한 SR+MA로, 2026-06-14 batch b의 KM 클러스터([[keratinized-mucosa-peri-implant-health-overview]])에서 "증대술 축"의 효과 크기를 보강한다. 위험인자 SR([[mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]], [[ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma]])이 "KM 부족 → 나쁨"을 보였다면, 본 논문은 FGG/CTG 증대가 무엇을 얼마나 회복하는지(FGG KM +2.6 mm, CTG MR −2 mm)를 수치로 제시해 [[sanz-2022-keratinized-mucosa-around-implants-consensus]] · [[stefanini-2023-soft-tissue-augmentation-peri-implant-sr]]의 술식 권고를 정량 근거로 뒷받침한다.
 
-## One-line Summary
-SR+MA (11 clinical studies, 290 participants): around functioning implants, FGG gained a weighted mean 2.6 mm of keratinized mucosa with reduced mucosal inflammation and no crestal bone change up to 4 years, while CTG reduced peri-implant mucosal recession by a weighted mean 2 mm.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(임상 11편, 290명): 기능 중인 임플란트 주위에서 유리치은이식(FGG)은 각화점막을 가중평균 2.6 mm 증가시키고 점막 염증을 줄였으며 4년까지 치조정골 변화가 없었고, 결합조직이식(CTG)은 점막 퇴축(MR)을 가중평균 2 mm 감소시켰다.
+Systematic review and meta-analysis (Journal of Prosthodontic Research 2024; 573 records screened → 11 clinical studies, 290 participants) focused specifically on functioning (already-restored) dental implants requiring soft-tissue augmentation — distinguishing therapeutic from preventive augmentation at implant placement/second stage.
+
+FGG achieved a weighted mean keratinized mucosa (KM) width gain of 2.6 mm with significant reduction in mucosal inflammation and no crestal bone level change up to 4 years; CTG reduced peri-implant mucosal recession (MR) by a weighted mean of 2 mm.
+
+Evidence base is small (11 studies, 290 participants, follow-up generally ≤4 years) and limited to autogenous grafts only — soft-tissue substitutes such as xenogeneic collagen matrices are not covered; the lack of full heterogeneity/GRADE reporting limits definitive evidence grading.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 (Journal of Prosthodontic Research 2024; 573건 스크리닝 → 임상 11편, 290명) — 기능 중인 (이미 보철 장착된) 임플란트 주위 연조직 증대술의 치료적 효과에 특화; 식립·2차 수술 시 예방적 증대와 구분.
+
+유리치은이식 (Free Gingival Graft, FGG)은 각화점막 (Keratinized Mucosa, KM) 폭을 가중평균 2.6 mm 증가시키고 점막 염증을 유의하게 감소, 4년까지 치조정골 변화 없음; 결합조직이식 (Connective Tissue Graft, CTG)은 임플란트 주위 점막 퇴축 (Mucosal Recession, MR)을 가중평균 2 mm 감소.
+
+근거 기반이 소규모(11편, 290명, 대부분 추적 ≤4년)이고 자가이식만 포함 — 이종 콜라겐 기질 등 연조직 대체재 미포함; 이질성·GRADE 보고 미완으로 확정적 근거 등급화가 제한됨.
 
 ## 1. Document Information
 - **Title**: Therapeutic effectiveness of keratinized mucosa augmentation for functioning dental implants: A systematic review and meta-analysis

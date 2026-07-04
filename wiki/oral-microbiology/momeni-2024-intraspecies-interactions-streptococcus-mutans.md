@@ -21,13 +21,21 @@ relations:
     target: koo-2013-exopolysaccharides-matrix-biofilm-virulence
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro biofilm + in vivo Drosophila study of two clinical S. mutans genotypes (G09, G18) from one high-caries-risk child, showing that co-culture significantly lowers biofilm pH, roughly doubles cell density and biofilm thickness, and enhances colonization versus mono-culture — with each strain occupying a distinct, non-overlapping spatial domain (division of labor: G18 drives acidity, G09 drives architecture).
+In vitro biofilm CLSM + in vivo Drosophila colonization study (plus a retrospective nested association, n=78) using two patient-matched clinical S. mutans genotypes (G09, G18) from a single high-caries-risk child, drawn from an 8-year longitudinal cohort of African-American children.
 
-## 한줄요약
+Co-culturing G09 and G18 significantly lowered biofilm pH (more acidic than either mono-culture in 9/10 children), roughly doubled cell density and biofilm thickness by CLSM, and enhanced in vivo colonization — each strain occupied a distinct non-overlapping spatial domain (G18 = confluent "lawn"/chains driving acidity; G09 = tall "volcano" aggregates driving architecture), establishing a mutualistic division of labor.
 
-임상 S. mutans 두 유전형(G09·G18)의 in vitro 바이오필름 + in vivo 초파리 실험 — 함께 배양하면 단독 배양보다 바이오필름 pH가 유의하게 낮아지고(산도↑) 세포밀도·두께가 약 2배로 늘며 집락화가 강화되고, 각 균주는 서로 겹치지 않는 공간 영역을 차지한다(G18은 산도, G09는 구조 담당).
+Acquiring multiple S. mutans genotypes within the first year of detection was significantly associated with early childhood caries (ECC) onset (52.6% vs 29.5% single genotype, p=0.019), tying the enhanced virulence phenotype directly to a clinical risk signal.
+
+## 세줄요약
+
+8년 종단 코호트에서 선정된 고위험 아동 1명의 환자 매칭 임상 S. mutans 두 유전형(G09·G18)을 대상으로 한 In vitro CLSM 바이오필름 + In vivo 초파리 집락화 연구 (+ 후향적 중첩 연관 분석, n=78).
+
+G09·G18 공동 배양 시 단독 배양 대비 9/10 아동 및 전체 집단에서 유의하게 낮은 바이오필름 pH(산도 증가), CLSM 세포 밀도·두께 약 2배 증가, in vivo 집락화 강화 — 각 균주는 서로 겹치지 않는 공간 영역 차지(G18: 평탄한 "lawn" 형태·산도 주도; G09: 화산형 큰 집합체·두께/구조 주도, 분업적 상호이익).
+
+초기 발견 후 첫 1년 내 다수 유전형 획득이 유치열우식증(Early Childhood Caries, ECC) 발생과 유의하게 연관(52.6% vs 29.5% 단일 유전형, p=0.019) — 증폭된 독성 표현형이 임상적 우식 위험 신호와 직접 연결.
 
 ## Summary
 

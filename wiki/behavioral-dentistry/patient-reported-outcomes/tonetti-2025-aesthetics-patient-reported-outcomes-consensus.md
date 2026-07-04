@@ -16,13 +16,21 @@ relations:
     target: arunyanak-2024-patient-related-outcomes-experience-periodontics
 ---
 
-## One-line Summary
+## Three-line Summary
 
-EFP 2025 expert consensus (40 experts, 5 commissioned SRs) finds clinician-reported aesthetic scores and patient PROs are complementary but discordant across root coverage and implant soft-tissue procedures, and mandates integrated PRO+CRO reporting in future RCTs.
+EFP 2025 expert consensus report (Florence, January 2025; 40 experts from 12+ countries; 5 commissioned SRs) evaluating aesthetics and patient-reported outcomes across three clinical scenarios: gingival recession defects (GRD), peri-implant buccal soft-tissue dehiscences (PSTD), and implant placement with soft-tissue augmentation (STA).
 
-## 한줄요약
+A systematic discordance was found between clinician-reported aesthetic scores (CRO) and patient-reported outcomes (PRO): superior root coverage with CAF+CTG produces high CRO scores but does not correspondingly improve patient-perceived aesthetics; the only concordant scenario is PSTD treated with STA (CTG under CAF), where both CRO and PRO improve together.
 
-EFP 2025 전문가 합의(40인, 체계적 고찰 5편): 치근피개술(Root Coverage, RC) 및 임플란트 연조직 처치에서 임상가 심미점수(Clinician-Reported Outcome, CRO)와 환자보고결과(Patient-Reported Outcome, PRO)는 보완적이나 불일치하며, 향후 무작위대조시험(Randomized Controlled Trial, RCT)에서 PRO·CRO·PRE(Patient-Reported Experience) 통합 보고 필요.
+The consensus calls for validated, disease-specific PROMs with established minimally important differences (MIDs) as co-primary endpoints in future periodontal/implant RCTs; no such validated tools currently exist for most indications.
+
+## 세줄요약
+
+EFP 2025 전문가 합의 보고서(피렌체, 2025.1; 12개국 이상 40인; 체계적 고찰 5편): 치은 퇴축 결손(Gingival Recession Defect, GRD), 임플란트 협측 연조직 열개(Peri-implant Soft-Tissue Dehiscence, PSTD), 연조직 증대술(Soft-Tissue Augmentation, STA)을 동반한 임플란트 식립의 3개 임상 시나리오에서 심미성과 환자보고결과를 평가.
+
+임상가 심미 점수(Clinician-Reported Outcome, CRO)와 환자보고결과(PRO) 사이에 체계적 불일치가 확인됨: CAF+CTG의 탁월한 치근 피개율은 높은 CRO 점수를 내나 환자가 느끼는 심미 향상과는 상관관계 없음; 두 지표가 일치하는 유일한 시나리오는 STA(CTG under CAF)로 처치한 PSTD.
+
+향후 치주·임플란트 RCT에서 검증된 질환별 PROM과 최소 임상적 중요 차이(Minimally Important Difference, MID)를 공동 1차 평가변수로 사용하도록 권고하나, 현재 대부분의 적응증에서 그런 도구가 없다.
 
 ## Summary
 

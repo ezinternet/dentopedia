@@ -9,7 +9,7 @@ pdf_filename: kheur-2024-feasibility-iip-maxillary-first-premolars.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Radiographic feasibility study on 150 CBCTs of maxillary first premolars, proposing a prosthetically-driven classification system to predict optimal immediate implant location.
 
 ## 1. Document Information

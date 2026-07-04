@@ -13,13 +13,23 @@ source_collection: external
 
 Extends the etiologic picture of persistent apical periodontitis ([[wiki/endodontics/diagnosis/nair-2006-causes-persistent-apical-periodontitis-review]], [[wiki/endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]]) from "which microbes persist" to "which microbial *virulence factors* (LPS/endotoxin, LTA) drive the lesion size and symptoms," quantifying both Gram-negative and Gram-positive byproducts in retreatment cases and linking them to clinical signs and coronal restoration quality.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=40 retreatment teeth with apical periodontitis): LPS (mean 5.1 EU/mL) and LTA (mean 537.5 pg/mL) detected in all canals; higher LPS correlated with larger periapical radiolucency and presence of clinical signs/symptoms, and defective coronal restoration increased virulence-factor load.
 
-## 한줄요약
+Cross-sectional study (n=40 retreatment teeth with apical periodontitis): LPS (mean 5.1 EU/mL) and LTA (mean 537.5 pg/mL) detected in all canals;
 
-단면연구(재근관치료 대상 근단치주염 40치): 모든 근관에서 LPS(평균 5.1 EU/mL)·LTA(평균 537.5 pg/mL) 검출. LPS 농도가 높을수록 근단 골흡수 범위가 크고 임상 증상·징후가 동반됐으며, 결손된 치관수복물이 독성인자 부하를 높였다.
+higher LPS correlated with larger periapical radiolucency and presence of clinical signs/symptoms, and defective coronal restoration increased virulence-factor load.
+
+(incomplete)
+
+## 세줄요약
+
+
+단면연구(재근관치료 대상 근단치주염 40치): 모든 근관에서 LPS(평균 5.1 EU/mL)·LTA(평균 537.5 pg/mL) 검출.
+
+LPS 농도가 높을수록 근단 골흡수 범위가 크고 임상 증상·징후가 동반됐으며, 결손된 치관수복물이 독성인자 부하를 높였다.
+
+(incomplete)
 
 ## 1. Document Information
 

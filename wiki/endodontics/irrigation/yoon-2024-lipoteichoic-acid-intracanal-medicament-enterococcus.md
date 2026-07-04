@@ -16,13 +16,21 @@ relations:
     target: alquria-2023-disinfection-protocols-bacteria-lta-lps
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro human dentinal cylinder model (n=28): lipoteichoic acid from *Lacticaseibacillus rhamnosus* GG (Lgg.LTA, 50 μg/ml) inhibited 2-week *E. faecalis* intracanal biofilm as effectively as calcium hydroxide, while sterile water and NMP vehicle did not.
+Ex-vivo human dentinal cylinder model (n=28, 4 groups, 2-week E. faecalis biofilm; SEM/CLSM/CFU readouts) testing lipoteichoic acid purified from the probiotic Lacticaseibacillus rhamnosus GG (Lgg.LTA, 50 μg/ml) as an intracanal medicament — the first study to repurpose a postbiotic normally considered a virulence factor as a therapeutic.
 
-## 한줄요약
+Lgg.LTA inhibited intracanal E. faecalis biofilm formation as effectively as calcium hydroxide (24 h application), also reduced intratubular live and dead bacteria, while sterile distilled water and NMP vehicle showed little effect.
 
-사람 치아 상아질 실린더 in-vitro 모델(n=28): 프로바이오틱 *Lacticaseibacillus rhamnosus* GG 유래 지질테이코산(Lgg.LTA, 50 μg/ml)이 2주 *E. faecalis* 근관 바이오필름을 수산화칼슘과 동등하게 억제했고, 증류수·NMP 부형제는 효과가 없었다.
+This postbiotic alternative may avoid CH extrusion toxicity and live-probiotic bacteremia risk, but the study is limited to a single-species ex-vivo model and requires clinical validation before any practice change.
+
+## 세줄요약
+
+인체 치아 상아질 실린더 ex-vivo 모델(n=28, 4군, 2주 E. faecalis 바이오필름; SEM/CLSM/CFU 평가) — 프로바이오틱 Lacticaseibacillus rhamnosus GG 유래 지질테이코산(Lipoteichoic Acid, Lgg.LTA, 50 μg/ml)을 근관 내 약제로 최초 시험.
+
+Lgg.LTA(24시간 적용)는 수산화칼슘(Calcium Hydroxide, CH)과 동등하게 근관 내 E. faecalis 바이오필름을 억제했고, 치수관 세관(Dentinal Tubule) 내 생균·사균 모두 감소; 증류수·NMP 부형제는 효과 없음.
+
+CH 근단 밀출 독성 및 생균 프로바이오틱 균혈증 위험을 피할 수 있는 포스트바이오틱(Postbiotic) 대안으로 제안됐으나, 단균종 ex-vivo 모델 한계로 임상 적용 전 추가 연구 필요.
 
 ## Summary
 

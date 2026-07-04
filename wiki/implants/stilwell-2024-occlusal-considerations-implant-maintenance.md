@@ -13,11 +13,21 @@ source_collection: external
 tags: [implant-maintenance, occlusion, occlusal-overload, hardware-complications, peri-implantitis, annual-check]
 ---
 
-## One-line Summary
-British Dental Journal narrative review on occlusal considerations during implant maintenance: implant fracture is rare (~0.5%) but the absence of a periodontal ligament removes shock absorption/proprioception and raises overload risk; the author proposes a 4-step annual occlusal assessment (patient-reported changes, restoration integrity, occlusal scheme, spatial changes) and mandates splint protection in bruxers.
+## Three-line Summary
 
-## 한줄요약
-narrative-review(BDJ 2024): 임플란트 유지관리 교합 점검 총론 — 임플란트 파절 0.5%; PDL 없어 과부하 위험; 4단계 연간 교합 평가 프로토콜 제시; 이갈이 보호장치 필수.
+British Dental Journal narrative review (2024) on occlusal considerations during implant maintenance; expert opinion synthesizing the hardware and biological risks arising from occlusal overload in implant-supported restorations.
+
+Implant fracture is rare (~0.5%) but absence of a periodontal ligament eliminates shock absorption and proprioception, raising overload risk; peri-implantitis and marginal bone loss are also linked to occlusal overload, particularly parafunction (bruxism).
+
+The author proposes a 4-step annual occlusal assessment (patient-reported changes, restoration integrity, occlusal scheme, spatial changes) and mandates splint protection in bruxers; the review is narrative/expert-opinion with no quantitative evidence synthesis.
+
+## 세줄요약
+
+British Dental Journal 서술적 고찰 (2024) — 임플란트 유지관리 중 교합 고려사항; 하드웨어 및 생물학적 과부하 위험의 전문가 의견 종합.
+
+임플란트 파절 0.5%로 드물지만, 치주인대(Periodontal Ligament, PDL) 부재로 충격 흡수·고유감각 결여 → 과부하 위험 증가; 주위염·MBL도 교합 과부하(특히 이상기능)와 관련.
+
+4단계 연간 교합 점검(환자 보고 변화, 보철 완전성, 교합 구성, 공간 변화) 제시, 이갈이 환자에게 스플린트 필수; 서술 고찰로 정량적 근거 합성 없음.
 
 ## Summary
 British Dental Journal overview article on occlusal considerations for annual implant maintenance. Covers hardware risks (implant fracture, screw loosening, restoration fracture) and biological risks (MBL, peri-implantitis) arising from occlusal overload, and proposes a 4-step assessment protocol.

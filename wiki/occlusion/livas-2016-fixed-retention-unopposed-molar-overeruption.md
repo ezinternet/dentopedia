@@ -19,13 +19,21 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective panoramic study (65 Class II div 1 cases): unopposed mandibular second molars retained with bonded sectional wires showed no statistically significant overeruption vs partial-contact non-retention controls — both moved only ~0.1 mm (clinically insignificant); partial occlusal contact restrained eruption as well as fixed retention.
+Retrospective panoramic study (65 Class II div 1 cases, maxillary first molars extracted) comparing bonded sectional-wire retention (n=30) vs partial antagonist contact without retention (n=35) on unopposed mandibular second molars over a follow-up interval.
 
-## 한줄요약
+Both groups showed ~0.1 mm vertical movement (0.5–1.2% crown width), with no statistically significant overeruption or tipping difference between retention and non-retention (p > 0.05), demonstrating that partial occlusal contact restrained eruption as effectively as fixed retention.
 
-후향적 파노라마 연구(Class II 1류 65명): 고정 sectional wire로 잡아둔 대합치 없는 하악 2대구치는 부분접촉 비고정 대조군과 비교해 통계적으로 유의한 정출이 없었고, 양쪽 모두 약 0.1mm(임상적으로 무의미)만 이동 — 부분 교합접촉도 고정 retainer만큼 정출을 억제했다.
+Fixed retention to prevent unopposed-molar overeruption lacks strong supporting evidence; monitoring is defensible as the default strategy, reserving active measures for high-risk profiles (young patient, maxillary tooth, fully unopposed, early after loss, periodontally compromised).
+
+## 세줄요약
+
+상악 1대구치 발치 교정 증례 65명(Class II div 1)에서 대합치 없는 하악 2대구치에 고정 sectional wire 접착(30명) 대 부분 접촉 비고정(35명)을 후향적 파노라마 방사선 측정으로 비교했다.
+
+양 군 모두 수직이동 약 0.1 mm(크라운 폭경의 0.5–1.2%)로 임상적으로 무의미했고, 두 군 간 정출·경사 차이는 통계적으로 유의하지 않아(p > 0.05) 부분 교합접촉이 고정 리테이너만큼 정출을 억제했다.
+
+대합치 없는 대구치 정출 예방 목적의 고정 리테이너는 근거가 약하다; 고위험 프로필(젊은 연령, 상악 치아, 완전 무대합, 대합치 소실 직후, 치주 침범)에 한해 적극 개입을 예약하고, 기본적으로 경과 관찰이 방어 가능한 전략이다.
 
 ## Summary
 

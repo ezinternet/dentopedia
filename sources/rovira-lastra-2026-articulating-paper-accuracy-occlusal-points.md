@@ -17,13 +17,23 @@ text_filename: rovira-lastra-2026-articulating-paper-accuracy-occlusal-points.tx
 
 교합지(articulating paper)의 정확도 자체를 silicone 기준표준에 대해 정량화한 임상연구. 기존 [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]]가 carbon paper와 IOS 일치도를 다뤘다면, 본 논문은 교합지 단독의 true-positive/false-positive를 두께(100 vs 200 µm)·술식(pulling)·악궁(상악 vs 하악)별로 분해해, "교합지는 81%만 검출하고 15%는 위양성"이라는 실측치를 제공한다 — 임상에서 교합지를 어떻게 써야 하는지(200 µm 사용, 양악 일치 확인) 직접적 권고 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional test–retest validity study (n=32 natural dentitions, silicone registration as reference standard): articulating paper detected 81% of posterior occlusal contacts (true-positive) with a 15% false-positive rate; 200 µm paper gave fewer false positives (9.4%) than 100 µm (20.6%), the mandibular arch outperformed the maxillary, and the pulling technique made no difference.
 
-## 한줄요약
+Cross-sectional test–retest validity study (n=32 natural dentitions, silicone registration as reference standard): articulating paper detected 81% of posterior occlusal contacts (true-positive) with a 15% false-positive rate;
+
+200 µm paper gave fewer false positives (9.4%) than 100 µm (20.6%), the mandibular arch outperformed the maxillary, and the pulling technique made no difference.
+
+(incomplete)
+
+## 세줄요약
+
 
 단면 test–retest 타당도 연구(n=32 자연치열, 실리콘 인기 = 기준표준): 교합지는 구치부 교합접촉의 81%만 검출(진양성)하고 15%는 위양성이었으며, 200 µm 교합지(위양성 9.4%)가 100 µm(20.6%)보다 정확하고 하악궁이 상악궁보다 우수했으며 당기기(pulling) 기법은 차이가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

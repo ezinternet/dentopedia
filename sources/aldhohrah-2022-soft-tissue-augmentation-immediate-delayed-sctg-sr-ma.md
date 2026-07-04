@@ -13,13 +13,21 @@ source_collection: external
 
 즉시/지연 식립과 동시에 시행하는 상피하결합조직이식(SCTG)이 무이식·GBR·ADM·XCM 등 다른 처치 대비 협측 조직두께·치은 수준·심미·변연골에서 우수한지에 대한 SR+MA. CTG 효과를 다룬 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]·[[immediate-implant/esthetic-soft-tissue/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]]에 비교군(GBR/ADM/XCM)을 추가해 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 12 studies showing subepithelial connective tissue grafting (SCTG) at immediate or delayed implant placement significantly improves buccal tissue thickness (MD 0.74 mm), mid-buccal gingival level (MD 0.5 mm), pink esthetic score (MD 0.79), and reduces marginal bone loss (MD −0.11 mm) versus other treatment modalities.
+SR+MA of 12 RCTs comparing subepithelial connective tissue grafting (SCTG) to no augmentation (±GBR), acellular dermal matrix, or xenogeneic collagen matrix at immediate or delayed implant placement; search to May 2021.
 
-## 한줄요약
+SCTG significantly improved buccal tissue thickness (MD +0.74 mm, 95% CI 0.51–0.97), mid-buccal gingival level (MD +0.5 mm, 95% CI 0.21–0.80), pink esthetic score (MD +0.79, 95% CI 0.29–1.29), and reduced marginal bone loss (MD −0.11 mm, 95% CI −0.14 to −0.08).
 
-12편 SR+MA — 즉시/지연 식립 시 상피하결합조직이식(SCTG)은 다른 처치 대비 협측 조직두께(MD 0.74 mm)·중협측 치은 수준(MD 0.5 mm)·심미점수(MD 0.79)를 유의하게 개선하고 변연골소실을 줄였다(MD −0.11 mm).
+Heterogeneous comparators were pooled together and donor-site morbidity was not weighed against substitutes; SCTG remains the most evidence-supported option for simultaneous soft tissue augmentation.
+
+## 세줄요약
+
+RCT 12편 SR+MA: 즉시/지연 식립 시 상피하결합조직이식(SCTG)을 비이식(±GBR), 무세포진피기질(ADM), 이종이식 콜라겐기질(XCM)과 비교(검색 2021년 5월).
+
+SCTG는 협측 조직두께(MD +0.74 mm), 중협측 치은 수준(MD +0.5 mm), 핑크 심미 점수(MD +0.79), 변연골소실(MD −0.11 mm) 모두 유의하게 개선.
+
+이종 비교군을 합산 분석했고 이식 부위 이환율은 미평가; 동시 연조직 증대에서 SCTG가 가장 근거 수준이 높은 선택지.
 
 ## 1. Document Information
 

@@ -9,7 +9,7 @@ pdf_filename: shalavi-2021-qmix-root-canal-irrigation-overview.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative overview of QMix root canal irrigant: CHX + EDTA + detergent combination used as single-step final rinse; simultaneous smear layer removal + antibacterial without separate chelating/disinfecting steps.
 
 ## 1. Document Information

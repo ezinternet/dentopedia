@@ -13,11 +13,19 @@ source_collection: external
 tags: [peri-implantitis, peri-implant-mucositis, EFP, clinical-guideline, prevention, SPIC]
 ---
 
-## One-line Summary
-EFP S3-level clinical practice guideline (consensus, based on 13 commissioned systematic reviews + GRADE): provides a full-lifecycle standard protocol for preventing and treating peri-implant diseases, from pre-placement planning through supportive peri-implant care (SPIC) and active mucositis/peri-implantitis management, built on the 2018 Berglundh case definitions.
+## Three-line Summary
+EFP S3-level clinical practice guideline (consensus, based on 13 commissioned systematic reviews + GRADE) for prevention and treatment of peri-implant diseases across the full implant lifecycle, using the 2018 Berglundh case definitions.
 
-## 한줄요약
-EFP S3 임플란트 주위 질환 예방·치료 지침(13개 SR 기반): 임플란트 계획 단계부터 SPIC 프로그램까지 전주기 표준 프로토콜 제시.
+Confirmed risk indicators are history of periodontitis (strongest), poor plaque control, and no SPIC; mucositis is managed with mechanical debridement ± CHX; peri-implantitis requires access surgery with surface decontamination using resective or regenerative approaches.
+
+The guideline provides the first comprehensive EFP-level lifecycle care pathway from pre-placement planning through supportive peri-implant care (SPIC) and active disease management.
+
+## 세줄요약
+EFP S3 임플란트 주위 질환 예방·치료 지침 — 13개 SR + GRADE 기반 합의 지침, 2018 Berglundh 진단 정의 채택, 임플란트 전주기 표준 프로토콜.
+
+확인된 위험인자: 치주염 기왕력(최강), 불량한 치태 관리, SPIC 미시행; 점막염은 기계적 세정 ± CHX; 임플란트주위염은 수술적 접근 + 표면 제염(절제/재생).
+
+EFP가 처음 발표한 임플란트 전주기 표준 진료 경로 — 임플란트 계획부터 유지관리(SPIC)까지 전 단계 포괄.
 
 ## Summary
 The EFP S3 level clinical practice guideline for prevention and treatment of peri-implant diseases, based on 13 commissioned systematic reviews and GRADE methodology. Covers the full implant lifecycle from pre-placement planning through supportive peri-implant care and active disease management. Uses the 2018 Berglundh case definitions as foundation.

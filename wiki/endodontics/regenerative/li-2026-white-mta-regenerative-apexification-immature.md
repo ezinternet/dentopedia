@@ -16,13 +16,21 @@ text_filename: li-2026-white-mta-regenerative-apexification-immature.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis of 15 studies evaluating White MTA (WMTA) as a coronal barrier/apical plug in regenerative endodontic procedures (REP) and apexification for immature permanent teeth: pooled radiographic success 0.99 (95% CI 0.96-1.00, very low certainty), platelet concentrate (PC) vs blood clot (BC) scaffold OR 3.56 (95% CI 0.87-14.52, not significant), and significantly higher tooth discolouration with WMTA versus alternative bioceramics (58.33% vs 7.69%, P=.01).
+SR+MA (PROSPERO CRD420261337704; 15 studies including 4 RCTs) isolating White MTA as a coronal barrier or apical plug in REP and apexification for necrotic immature permanent teeth.
 
-## 한줄요약
+Pooled radiographic success was very high (0.99, 95% CI 0.96–1.00; very low GRADE certainty); platelet concentrate vs blood clot scaffold showed no significant difference (OR 3.56), but WMTA carried significantly higher tooth discolouration than alternative bioceramics (58.33% vs 7.69%, P=.01).
 
-미성숙 영구치 REP·apexification에서 WMTA를 관교(coronal barrier)/근단 플러그로 사용한 15개 연구 SR+MA — 방사선학적 성공률 pooled 0.99(근거수준 매우낮음), PC vs BC scaffold 비교는 유의차 없음(OR 3.56), WMTA는 대체 bioceramic 대비 변색 위험이 유의하게 높음(58.33% vs 7.69%, P=.01).
+WMTA remains effective but the discolouration disadvantage is clinically actionable in anterior/esthetic zones, where Biodentine or Totalfill should be preferred as the coronal barrier.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA(15편, RCT 4편): 미성숙 영구치 REP·apexification에서 White MTA를 관교/근단 플러그로 사용한 연구만을 대상으로 분석.
+
+방사선학적 성공 pooled 0.99(GRADE 매우낮음); 혈소판 농축물 vs 혈병 스캐폴드는 유의차 없음(OR 3.56); WMTA는 대체 bioceramic 대비 치아 변색 위험이 유의하게 높음(58.33% vs 7.69%, P=.01).
+
+WMTA는 효과적이나 전치부·심미 영역에서는 변색 위험을 고려해 Biodentine 또는 Totalfill을 관교 재료로 우선 선택해야 한다.
 
 ## Summary
 

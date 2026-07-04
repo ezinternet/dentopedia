@@ -13,13 +13,21 @@ source_collection: external
 
 악골 위치·교합 변화가 성장기 vs 성인 하악과두(mandibular condyle) 형태에 미치는 영향을 정량화한 in-vivo micro-CT rat study로, 이미 보유한 [[wiki/tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] (수직고경 상승+교합 상실로 인한 성인 rat TMJ 변화)와 짝을 이뤄 "교합 부하 변화 → 과두 적응" 동물 근거를 보강한다. 또한 과두 적응의 연령 의존성(성장기 > 성인) 논점을 [[wiki/tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]]의 기계적 부하-연골 항상성 맥락에 연결한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vivo micro-CT study of 56 Wistar rats (young + adult, unilateral maxillary molar extraction): reduced occlusal function did NOT hinder condylar process height or base width growth, but the extraction-side condyle of growing rats failed to gain cross-sectional surface (became thinner while keeping length); adult condyles were largely unaffected by the occlusal change.
+In-vivo longitudinal micro-CT study in 56 Wistar rats (young + adult, two age groups; unilateral maxillary molar extraction to induce hypofunction) measuring condylar process height, base width, and cross-sectional surface over 12 weeks.
 
-## 한줄요약
+Reduced occlusal function did NOT impair condylar height or width growth in either age group, but growing rats failed to gain condylar cross-sectional surface on the extraction side (Age×Group interaction p=0.002; young control gained +0.25 mm² vs no increase in young experimental).
 
-56마리 Wistar rat(어린/성인, 편측 상악 대구치 발치) in-vivo micro-CT 연구: 교합 기능 감소는 하악과두의 높이·기저폭 성장은 막지 못했으나, 성장기 rat의 발치측 과두는 단면적이 증가하지 못해(길이는 유지하면서 얇아짐) 형태가 변했고, 성인 과두는 교합 변화에 거의 영향받지 않았다.
+Adult condyles were largely refractory to the occlusal change, demonstrating an age-dependent adaptive window; the overloaded and unopposed sides were similarly affected, with no left–right asymmetry from functional imbalance alone.
+
+## 세줄요약
+
+in-vivo 종단 micro-CT 연구 — Wistar rat 56마리(어린·성인 2그룹, 편측 상악 대구치 발치로 저교합 유도) 하악과두 높이·기저폭·단면적을 12주간 추적했다.
+
+교합 기능 감소는 어느 연령군에서도 과두 높이·폭 성장을 방해하지 않았으나, 성장기 rat의 발치측 과두는 단면적이 증가하지 못했다(연령×그룹 교호작용 p=0.002; 대조군 +0.25 mm² vs 실험군 증가 없음).
+
+성인 과두는 교합 변화에 거의 반응하지 않아 연령 의존적 적응 창(window)이 확인되며, 과부하측과 무교합측이 동등하게 영향을 받아 편측 기능 비대칭만으로는 좌우 과두 비대칭이 생기지 않는다.
 
 ## 1. Document Information
 

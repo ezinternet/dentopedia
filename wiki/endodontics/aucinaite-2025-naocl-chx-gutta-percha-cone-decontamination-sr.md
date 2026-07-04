@@ -23,13 +23,21 @@ relations:
     target: raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 7 in vitro studies of 309 screened) concluding higher-concentration NaOCl (5.25%/6%) eliminates E. faecalis and S. aureus from gutta-percha cones within 1–5 min, while CHX evidence is limited and mainly promising against Candida; all 7 studies at moderate/high risk of bias.
+First systematic review (PRISMA, INPLASY-registered, 309 records screened → 7 in vitro studies included) comparing sodium hypochlorite (NaOCl) versus chlorhexidine digluconate (CHX) for chairside gutta-percha cone decontamination against Enterococcus faecalis, Staphylococcus aureus, and Candida albicans at 0–10 min exposure.
 
-## 한줄요약
+Higher-concentration NaOCl (5.25%/6%) eliminated E. faecalis and S. aureus within 1–5 minutes and is the most time-efficient agent; CHX (especially combined with cetrimide) shows promise against Candida and preserves GP elasticity; all 7 included studies were at moderate or high risk of bias.
 
-거타퍼차(gutta-percha, GP) cone 소독에서 고농도 NaOCl(5.25%/6%)이 1–5분 내 E. faecalis·S. aureus를 제거하지만 CHX 근거는 부족하고 주로 Candida에 유망하다는 체계적 문헌고찰(in vitro 7편, 309편 스크리닝)이며 7편 모두 중등도/높은 비뚤림 위험.
+No meta-analysis was possible due to methodological heterogeneity; the absence of a standardized decontamination protocol prevents evidence-based guideline formulation, but high-concentration NaOCl represents the current practical gold standard for chairside cone disinfection.
+
+## 세줄요약
+
+줄1: NaOCl vs CHX의 거타퍼차(GP) cone chairside 소독 효과(E. faecalis, S. aureus, C. albicans, 0–10분)를 비교한 최초 PRISMA 체계적 문헌고찰(309편 스크리닝 → in vitro 7편 포함, INPLASY 등록).
+
+줄2: 고농도 NaOCl(5.25%/6%)이 1–5분 내 세균을 가장 효과적으로 제거; CHX(cetrimide 병용 포함)는 Candida에 유망하고 GP 탄성 보존 장점; 7편 모두 중등도/높은 비뚤림 위험.
+
+줄3: 방법론적 이질성으로 메타분석 불가, 표준화 프로토콜 부재; 실용적 gold standard는 고농도 NaOCl이나 근거 기반 가이드라인 수립은 아직 미흡.
 
 ## Summary
 

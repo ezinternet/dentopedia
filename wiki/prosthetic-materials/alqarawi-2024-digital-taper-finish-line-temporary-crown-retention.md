@@ -13,11 +13,21 @@ source_collection: external
 tags: [provisional-crown, temporary-crown, TOC, finish-line, chamfer, shoulder, CAD-CAM, 3D-printing, thermocycling, saudi-dent-j]
 ---
 
-## One-line Summary
-In-vitro 2×2×2 factorial study (Saudi Dent J 2024; 8 groups × n=10 = 80 aged provisional molar crowns, 5000 thermocycles) of TOC (10° vs 20°) × finish line (chamfer vs shoulder) × manufacturing (CAD/CAM milled vs 3D printed): 3D-printed provisionals retained ~2–3× better than milled (6.6–7.65 vs 2.35–3.52 MPa), with the highest retention from 3D-printed + 20° TOC + chamfer (7.65 MPa).
+## Three-line Summary
 
-## 한줄요약
-in-vitro (Saudi Dent J 2024;36:1477-1482, Saudi 다기관, 8그룹×n=10): 10° vs 20° TOC × chamfer vs shoulder × CAD/CAM milled vs 3D printed 임시 대구치 크라운 유지력 (5000 thermocycle 후) — 3D 프린팅 > 밀링 (6.6-7.65 vs 2.35-3.52 MPa); 최고: 3D 프린팅 + 20° TOC + chamfer (7.65 MPa) 또는 shoulder (장기 유지 우위).
+In-vitro 2×2×2 factorial study (Saudi Dental Journal 2024; 8 groups × n=10 = 80 mandibular first molar provisional crowns; 5000 thermocycles, 5°C/55°C aging) comparing TOC (10° vs 20°) × finish line (chamfer vs shoulder) × manufacturing method (CAD/CAM milled vs 3D-printed resin).
+
+3D-printed provisionals retained approximately 2–3× better than milled across all configurations (6.6–7.65 vs 2.35–3.52 MPa pull-off tensile strength); the highest single-group retention was 3D-printed + 20° TOC + chamfer (7.65 MPa), while shoulder finish at 20° TOC was recommended for extended-wear provisionals.
+
+3D-printed provisional crowns are substantially more retentive than CAD/CAM-milled PMMA after thermocycling — likely due to surface texture and slight expansion providing micromechanical lock — making them preferable for long-span or extended-use provisional scenarios despite the counterintuitive 20° TOC result.
+
+## 세줄요약
+
+시험관 내 2×2×2 요인설계 연구(Saudi Dental Journal 2024; 8군×n=10=80개 하악 제1대구치 임시 크라운; 5000 열순환, 5°C/55°C 에이징): 수렴각(TOC; 10° vs 20°) × 변연선(chamfer vs shoulder) × 제조법(CAD/CAM 밀링 vs 3D 프린팅) 조합별 유지력 비교.
+
+3D 프린팅이 밀링 대비 전 조합에서 약 2–3배 높은 인장강도(6.6–7.65 vs 2.35–3.52 MPa); 최고값은 3D 프린팅+20° TOC+chamfer(7.65 MPa), 장기 임시 수복에는 shoulder가 권장.
+
+3D 프린팅 임시 크라운이 CAD/CAM 밀링 PMMA보다 열순환 후 유지력이 현저히 우수하며(표면 텍스처·팽창 미세기계적 고정 추정), 20° TOC에서도 유지력이 오히려 높아 장기 임시 수복이나 장기간 사용 시나리오에서 유리하다.
 
 ## Summary
 In vitro factorial study (Saudi Dental Journal 2024) on aged provisional molar crown retention. 2×2×2 design (TOC × finish line × manufacturing) with thermocycling aging. Multi-center Saudi authorship.

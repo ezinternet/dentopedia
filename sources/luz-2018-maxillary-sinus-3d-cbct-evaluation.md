@@ -9,7 +9,7 @@ pdf_filename: luz-2018-maxillary-sinus-3d-cbct-evaluation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Retrospective CBCT study of 128 maxillary sinuses (64 patients) using the SMOP implant-planning software to quantify osseous and mucosal-bordered (pneumatized) sinus volumes; mean osseous surface area 39.7 cm², volume 17.1 cm³; 42.2% of sinuses showed obliteration, with mean obliterated volume 5.1 cm³; obliteration volume associated with pathologies; males had significantly larger osseous volume.
 
 ## 1. Document Information

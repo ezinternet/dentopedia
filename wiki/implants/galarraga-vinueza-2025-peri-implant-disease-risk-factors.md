@@ -16,11 +16,21 @@ relations:
     target: derks-2015-peri-implant-health-disease-epidemiology
 ---
 
-## One-line Summary
-AO/AAP SR+MA (102 studies, 13,030 patients) of peri-implant disease epidemiology and risk indicators: prevalence of peri-implant mucositis 46% (CI 41–51%) and peri-implantitis 21% (CI 17–24%); periodontitis and smoking are consistent risk indicators for both, with obesity (mucositis) and diabetes/alcohol (peri-implantitis) also significant.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(102개 연구, 13,030명): 임플란트 주위 점막염 46%, 임플란트 주위염 21%; 치주염·흡연이 두 질환 모두의 위험지표, 당뇨·비만·알코올도 유의미.
+AO/AAP Best-Evidence Consensus SR+MA (102 studies, 13,030 patients; PROSPERO registered; PECOS framework) providing comprehensive epidemiology and risk indicators for peri-implant diseases using 2018 EFP/AAP case definitions.
+
+Prevalence: peri-implant mucositis 46% (95% CI 41–51%) and peri-implantitis 21% (95% CI 17–24%); 20-year cumulative incidence: mucositis 53%, peri-implantitis 22%; periodontitis and smoking were consistent risk indicators for both conditions.
+
+Obesity is a risk indicator specific to peri-implant mucositis; diabetes mellitus and alcohol consumption are additional risk indicators for peri-implantitis; all associations are observational (risk indicators, not confirmed causal factors).
+
+## 세줄요약
+
+AO/AAP Best-Evidence Consensus SR+MA (102개 연구, 13,030명; PROSPERO 등록; PECOS 프레임워크) — 2018 EFP/AAP 진단 정의를 적용한 임플란트 주위 질환의 유병률·발생률·위험지표 종합 분석.
+
+임플란트 주위 점막염 유병률 46% (95% CI 41–51%), 임플란트 주위염 21% (95% CI 17–24%); 20년 누적 발생률 점막염 53%, 주위염 22%; 치주염·흡연은 두 질환 모두의 일관된 위험지표.
+
+비만은 점막염에, 당뇨·알코올은 임플란트 주위염에 추가 위험지표; 모든 연관성은 관찰 연구 기반으로 인과관계 확인을 위한 추가 연구 필요.
 
 ## Summary
 AO/AAP Best-Evidence Consensus systematic review and meta-analysis of 102 studies involving 13,030 patients, providing the most comprehensive and up-to-date epidemiological data on peri-implant diseases. Prevalence: mucositis 46% (CI 41–51%), peri-implantitis 21% (CI 17–24%). Over 20 years, cumulative incidence: mucositis 53%, peri-implantitis 22%. Identifies periodontitis and smoking as consistent risk indicators for both conditions.

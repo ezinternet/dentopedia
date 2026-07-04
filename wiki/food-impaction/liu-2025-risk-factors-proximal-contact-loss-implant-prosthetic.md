@@ -20,13 +20,19 @@ relations:
     target: liang-2020-prevalence-associated-factors-retrospective
 ---
 
-## One-line Summary
+## Three-line Summary
+Retrospective cohort (206 patients, 395 implant-crown-to-natural-tooth contact points, single center, 2015–2025) using Cox proportional-hazards regression to identify independent predictors of proximal contact loss (PCL) after single implant-supported crown placement.
 
-Retrospective cohort (206 patients, 395 implant-crown↔natural-tooth contact points, 2015–2025, Cox regression): PCL incidence 67.5% patient-level / 40.3% contact-level; independent predictors were food impaction (HR 2.75), residual ridge height discrepancy (HR 2.51), and severe adjacent alveolar bone loss >3/8 root length (HR 5.83). Demographic/behavioral/prosthetic factors were not significant.
+PCL incidence was 67.5% patient-level and 40.3% contact-level; three local anatomic factors were independently significant: food impaction (HR 2.75), residual ridge height discrepancy (HR 2.51), and adjacent alveolar bone loss >3/8 root length (HR 5.83); demographic, behavioral, and prosthetic variables were not significant.
 
-## 한줄요약
+Local biomechanics dominate PCL risk — optimize adjacent periodontal status and address vertical ridge deficiency pre-prosthetically; universal contact surveillance is warranted regardless of patient profile.
 
-후향 코호트(206명·395 contact·Cox 회귀): PCL 발생률 환자단위 67.5%·접촉점단위 40.3%; 다변량 독립인자는 식편압입(HR 2.75)·잔존치조제 높이 차이(HR 2.51)·인접치 중증 골소실 >3/8 root(HR 5.83). 성별·나이·흡연·이갈이·보철형태 등은 무의미 — 국소 생역학 인자가 지배.
+## 세줄요약
+후향 코호트(206명·395 접촉점·단일 기관·2015–2025): 단일 임플란트 크라운 후 PCL(인접 자연치와의 근접접촉 소실) 독립 예측인자를 Cox 비례위험 회귀로 분석.
+
+PCL 발생률 환자단위 67.5%·접촉점단위 40.3%; 다변량 독립인자: 식편압입(HR 2.75)·잔존치조제 높이 차이(HR 2.51)·인접치 골소실 >3/8 root(HR 5.83); 성별·연령·흡연·이갈이·보철 형태 등 무의미.
+
+PCL은 국소 생역학 인자가 지배 — 보철 전 인접치 치주 최적화와 수직적 골 결손 해결이 핵심이며 환자 프로파일과 무관하게 전원 접촉 모니터링이 필요하다.
 
 ## Summary
 

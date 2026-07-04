@@ -16,13 +16,21 @@ text_filename: alalshaikh-2024-membrane-perforation-risk-factors-lateral-sinus-s
 
 This comprehensive risk-factor SR+MA quantifies and ranks the predictors of Schneiderian membrane perforation in lateral-window maxillary sinus elevation, reinforcing and extending [[wiki/sinus-lift/lateral/nemati-2023-membrane-perforation-risk-lateral-sinus]]. It provides effect sizes (smoking 1.6×, septa 3×, thin membrane <1.5 mm) that strengthen the membrane-thickness / septa / smoking risk triad already noted in our perforation pages ([[wiki/sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]]), giving a quantitative anchor for preoperative CBCT risk stratification.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of (mostly retrospective) lateral-window sinus elevation studies identifying the most prominent Schneiderian membrane perforation risk factors as thin membrane (<1.5 mm), sinus septa (3× risk), and smoking (1.6× risk; ~1 perforation per 7 smokers).
+SR+MA of predominantly retrospective studies on lateral-window maxillary sinus elevation, quantifying risk factors for Schneiderian membrane perforation; piezosurgery vs rotary comparison included.
 
-## 한줄요약
+Sinus septa increased perforation risk 3×, smoking increased it 1.6× (~1 perforation per 7 smokers), thin membranes (<1.5 mm) were at significant risk; lateral wall thickness and residual ridge height were significant but based on limited evidence (3 studies); window size and number of missing teeth had no effect.
 
-측방창 상악동거상술의 슈나이더 막(Schneiderian membrane) 천공 위험인자 SR+MA — 얇은 막(<1.5 mm), 중격(septa, 3배), 흡연(1.6배·흡연자 7명당 1건)이 가장 두드러진 위험인자로, 측벽 두께·잔존 치조골 높이도 유의했고 창 크기·결손치 수는 무관.
+Preoperative CBCT risk stratification focusing on membrane thickness, septa, and smoking status is essential; piezosurgery showed marginal perforation reduction (p=0.05) and may be preferred in high-risk anatomy.
+
+## 세줄요약
+
+주로 후향적 연구들로 구성된 측방창 상악동거상술 슈나이더 막(Schneiderian membrane) 천공 위험인자 SR+MA — 압전수술(piezosurgery) vs 회전기기 비교 포함.
+
+상악동 중격(septa)은 천공 위험 3배, 흡연 1.6배(흡연자 7명당 1건 천공), 얇은 막(<1.5 mm) 유의한 위험; 측방 골벽 두께·잔존 골높이는 유의하나 연구 3편으로 근거 제한; 창 크기·결손치 수는 무관.
+
+막 두께·중격·흡연 상태에 초점을 맞춘 술전 CBCT 위험 층화가 필수; 압전수술은 고위험 해부학적 구조에서 천공 감소에 한계적으로 유의(p=0.05)하여 우선 고려 가능.
 
 ## 1. Document Information
 

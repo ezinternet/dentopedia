@@ -14,11 +14,21 @@ source_collection: external
 tags: [Type-1A, immediate-implant, immediate-loading, esthetic-zone, ITI-consensus, selection-criteria, SR-MA, facial-gap, HDD, COIR, maxillary]
 ---
 
-## One-line Summary
-ITI Consensus SR+MA (COIR 2023 Suppl 26, Hamilton; 3,118 screened / 68 included, mean 37.2 implants/study, follow-up 2.8 y): maxillary esthetic-zone single-tooth immediate placement + immediate loading (Type 1A) shows high survival under strict patient/site selection, with facial gap >2 mm (+3.1 PP, p=0.04), absence of endodontic infection (+2.6 PP, p=0.004), and post-2012 technique (+1.9 PP, p=0.02) as significant favorable modifiers.
+## Three-line Summary
 
-## 한줄요약
-ITI Consensus SR+MA (COIR 2023 Suppl 26, Hamilton, 3,118 screened / 68 included, mean 37.2 implants/study, follow-up 2.8 y): 상악 심미부위 single tooth 즉시식립 + 즉시부하 (Type 1A) — 엄격한 환자·부위 선정 시 high survival; **facial gap >2 mm** (+3.1 PP, p=0.04), **근관 감염 부재** (+2.6 PP, p=0.004), **post-2012 술기** (+1.9 PP, p=0.02)이 유의한 우호 인자.
+ITI Consensus SR+MA (COIR 2023 Suppl 26; 3,118 screened / 68 included, mean 37.2 implants/study, mean follow-up 2.8 y) defining selection criteria for Type 1A (immediate placement + immediate loading) single-tooth replacement in the maxillary esthetic zone.
+
+Three significant favorable survival modifiers were identified: facial gap >2 mm (+3.1 PP, p=0.04), absence of endodontic infection (+2.6 PP, p=0.004), and post-2012 technique (+1.9 PP, p=0.02); overall survival was high under strict selection.
+
+Type 1A is supported in carefully selected maxillary esthetic-zone cases meeting these criteria; esthetic/functional outcomes remain inadequately characterized in the primary literature and require further research.
+
+## 세줄요약
+
+ITI Consensus SR+MA(COIR 2023 Suppl 26; 3,118 편 검색 / 68편 포함, 평균 37.2 임플란트/연구, 추적 2.8년) — 상악 심미부 단일치 Type 1A(즉시식립+즉시부하) 선택 기준 정립.
+
+유의한 생존율 우호 인자 3가지: facial gap >2 mm(+3.1 PP, p=0.04), 근관 감염 부재(+2.6 PP, p=0.004), 2012년 이후 술기(+1.9 PP, p=0.02); 엄격한 선택 하 전체 생존율 높음.
+
+이 기준을 충족하는 엄선된 상악 심미부 증례에서 Type 1A 지지됨; 심미·기능적 성공 결과는 1차 문헌에서 불충분하게 보고돼 추가 연구 필요.
 
 ## Summary
 2023 ITI Consensus Conference SR+MA defining selection criteria for **Type 1A** — immediate implant placement + immediate loading on same day or within 1 week — in the maxillary esthetic zone single tooth replacement scenario. Coordinated by an international panel (UWA, Harvard, Bern, Florida, Indiana, Netherlands) under the ITI consensus framework.

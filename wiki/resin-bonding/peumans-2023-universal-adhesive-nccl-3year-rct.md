@@ -18,11 +18,21 @@ relations:
     target: hong-2021-universal-adhesive-etching-modes-sr-ma
 ---
 
-## One-line Summary
-3-year split RCT (51 patients, 251 NCCLs) finding Clearfil Universal Bond Quick equivalent in etch-and-rinse vs selective-enamel-etch self-etch modes (success 82.6% vs 83.8%; retention 87.2% vs 86.3%; no significant differences).
+## Three-line Summary
 
-## 한줄요약
-NCCL 251개 3년 RCT — CUBQ universal adhesive의 ER vs SEE 모드 간 성공률·유지율 유의차 없음.
+3-year RCT (KU Leuven; 51 patients, 251 NCCLs, 90% recall) comparing Clearfil Universal Bond Quick in etch-and-rinse (ER) vs selective-enamel-etch self-etch (SEE) modes for composite NCCL restoration; FDI criteria assessed at baseline, 1, and 3 years.
+
+Overall success rates were 82.6% (ER) vs 83.8% (SEE) and retention 87.2% vs 86.3% — no statistically significant difference on any FDI parameter including marginal staining, marginal adaptation, fracture, or postoperative sensitivity; 38 total failures (19 per group).
+
+The ER and SEE modes of a "no-wait" low-HEMA universal adhesive are clinically equivalent for NCCL restoration; marginal degradation accumulates slowly but acceptably over 3 years regardless of mode.
+
+## 세줄요약
+
+3년 RCT (KU Leuven; 51명, NCCL 251개, 재내원율 90%): Clearfil Universal Bond Quick(CUBQ)의 etch-and-rinse(ER)와 selective-enamel-etch self-etch(SEE) 두 모드를 FDI 기준으로 기저치, 1년, 3년에 평가.
+
+전체 성공률 ER 82.6% vs SEE 83.8%, 유지율 87.2% vs 86.3% — 변연착색, 변연적합도, 파절, 술후 과민증 등 모든 FDI 항목에서 두 모드 간 유의차 없음; 총 38개 실패(군당 19개).
+
+"No-wait" 저HEMA universal adhesive의 ER·SEE 두 모드는 NCCL 수복에서 임상적으로 동등하며, 3년에 걸쳐 변연 열화가 완만하게 축적되나 모두 임상적으로 허용 범위 내.
 
 ## Summary
 This KU Leuven randomized controlled trial evaluated the "no-wait" universal adhesive Clearfil Universal Bond Quick (CUBQ) in 251 non-carious cervical lesions across 51 patients, comparing etch-and-rinse (ER) application against self-etch with prior selective enamel etching (SEE), with a single restorative composite used throughout. At three years (90% recall), overall success was 82.6% (ER) versus 83.8% (SEE) and retention 87.2% versus 86.3%, with no statistically significant difference for any FDI parameter including marginal staining, marginal adaptation, fracture, and post-operative sensitivity. Both modes accumulated small but clinically acceptable marginal defects and marginal staining over time. The trial supplies long-term primary clinical data consistent with systematic-review conclusions that universal-adhesive application mode does not materially affect NCCL restoration durability, at least in patients screened to exclude severe bruxism and high caries risk.

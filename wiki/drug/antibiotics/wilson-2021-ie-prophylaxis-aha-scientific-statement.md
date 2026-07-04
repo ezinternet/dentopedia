@@ -14,11 +14,21 @@ source_collection: external
 tags: [infective-endocarditis, IE-prophylaxis, AHA, antibiotic-prophylaxis, amoxicillin, viridans-streptococcus, cardiac-risk]
 ---
 
-## One-line Summary
-2021 AHA Scientific Statement reaffirming the 2007 infective endocarditis (IE) prophylaxis guidelines unchanged: antibiotic prophylaxis recommended only for 4 highest-risk cardiac conditions (prosthetic valve, prior IE, certain congenital heart disease, cardiac transplant with valvulopathy); 14 years of data show no increase in viridans group streptococcal (VGS) IE frequency or mortality, with amoxicillin 2g as universal first choice.
+## Three-line Summary
 
-## 한줄요약
-2021 AHA 과학성명: 2007년 IE 예방 가이드라인 변경 없이 유지; 4개 최고위험 심장 상태에만 예방적 항생제 권고; 2007년 이후 VGS-IE 빈도·사망률 증가 없음이 확인됨
+2021 AHA Scientific Statement (Circulation 2021) reviewing 14 years of post-2007 guideline data on viridans group streptococcal (VGS) infective endocarditis (IE) prophylaxis after invasive dental procedures.
+
+2007 IE prophylaxis guidelines reaffirmed unchanged: prophylaxis recommended only for 4 highest-risk cardiac conditions (prosthetic valve, prior IE, certain congenital heart disease, cardiac transplant with valvulopathy); VGS-IE frequency and mortality not increased since 2007.
+
+Amoxicillin 2 g single dose (30–60 min pre-procedure) remains the universal first choice; good oral health maintenance is emphasized as more protective than prophylaxis for low/moderate-risk patients.
+
+## 세줄요약
+
+2021 AHA 과학성명(Circulation 2021): 2007년 가이드라인 이후 14년간 침습적 치과시술 후 연쇄상구균(Viridans Group Streptococcus, VGS) 감염성 심내막염(Infective Endocarditis, IE) 예방 데이터 검토.
+
+2007년 IE 예방 가이드라인 변경 없이 유지: 4개 최고위험 심장 상태(인공판막, 과거 IE, 특정 선천성 심장병, 이식 후 판막병)에만 항생제 예방 권고; 2007년 이후 VGS-IE 빈도·사망률 증가 없음 확인.
+
+Amoxicillin 2g 단일 투여(시술 30–60분 전)가 표준 1차 선택; 저/중간 위험 환자에서 예방적 항생제보다 구강 건강 유지가 더 보호적임을 강조.
 
 ## Summary
 2021 AHA Scientific Statement reviewing and **reaffirming the 2007 IE prophylaxis guidelines unchanged.** After 14 years of follow-up data, there is no evidence that relaxing prophylaxis increased VGS-IE frequency or mortality. Antibiotic prophylaxis (AP) recommended only for 4 highest-risk cardiac categories.

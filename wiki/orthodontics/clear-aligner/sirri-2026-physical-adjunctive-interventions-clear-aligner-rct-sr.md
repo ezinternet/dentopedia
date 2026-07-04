@@ -22,13 +22,21 @@ relations:
     target: baneshi-2024-clear-aligners-malocclusion-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First RCT-only SR (7 RCTs, n=266) of physical adjunctive interventions (vibration, LLLT) in clear aligner treatment: no consistent benefit on alignment (Little's Irregularity Index MD 0.08 maxilla p=0.869, 0.44 mandible p=0.487), case completion (p=0.999), compliance (~77%, p=0.390) or QoL; only transient day-1–3 pain reduction; GRADE low to very low.
+First RCT-only systematic review (PROSPERO CRD420251132229; PRISMA; 357 records → 7 RCTs, n=266; six vibration studies + one LLLT; human adults at leveling/alignment stage) of physical adjunctive interventions (PAIs) in clear aligner treatment — restricting evidence to randomized designs with outcome-level RoB 2 and GRADE.
 
-## 한줄요약
+Across six outcome tracks, the signal was consistently null: no improvement in alignment (Little's Irregularity Index MD 0.08 maxilla p=0.869, 0.44 mandible p=0.487), case completion (p=0.999), compliance (~77%, no active-vs-sham difference, p=0.390), or QoL (OHIP-14); only transient day-1–3 pain reduction appeared, with no durable analgesia; apparent acceleration/tracking gains tracked the aligner-change cadence, not the PAI itself.
 
-투명교정(CAT)에 물리적 보조요법(진동·저출력레이저)을 더한 RCT 7편(n=266) 첫 SR: 정렬(Little 불규칙지수 상악 MD 0.08 p=0.869, 하악 0.44 p=0.487)·완료율(p=0.999)·순응도(~77%, p=0.390)·삶의질 모두 일관된 이득 없음. 통증만 1~3일 일시 감소. GRADE 확실성 low~very low.
+Do not expect vibration devices or LLLT to shorten treatment, improve alignment, boost compliance, or meaningfully relieve discomfort — current RCT evidence does not support routine PAI use in clear aligner therapy; protocol discipline (change interval, wear-time adherence) matters more than any adjunct (GRADE low to very low).
+
+## 세줄요약
+
+투명교정(CAT)에서 물리적 보조요법(PAI: 진동·저출력 레이저, LLLT)의 첫 RCT 전용 체계적 문헌고찰 (PROSPERO CRD420251132229; PRISMA; 357건 → 7편, n=266; 진동 6, LLLT 1; 수평 기간 성인 환자): 결과 수준 RoB 2·GRADE 적용.
+
+6개 결과 트랙 모두 일관되게 효과 없음: 정렬 개선 없음 (Little 불규칙지수 상악 MD 0.08 p=0.869, 하악 0.44 p=0.487), 완료율(p=0.999), 순응도(~77%, 능동-위약 차이 없음 p=0.390), 삶의 질(OHIP-14) 이득 없음; 통증은 1–3일만 일시 감소; 겉보기 가속·추적 이득은 aligner 교체 주기(cadence)에서 기인, PAI 자체 효과 아님.
+
+진동 장치나 LLLT가 치료 기간 단축·정렬 개선·순응도 향상·통증 완화를 가져올 것으로 기대하지 말 것 — 현 RCT 근거는 CAT에서 PAI 일상 사용을 지지하지 않음; 프로토콜 준수(교체 주기·착용 시간)가 보조 장치보다 중요 (GRADE 낮음~매우 낮음).
 
 ## Summary
 

@@ -15,7 +15,7 @@ Versah 공식 프로토콜 — 상악 대구치부 중격 확장 + 경치조골 
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol]]
 
-## One-line Summary
+## Three-line Summary
 Versah manufacturer protocol (2-page) for the combined molar septum expansion + crestal sinus lift workflow in upper molar sites with intact ≥4 mm interradicular septum.
 
 ## 1. Document Information

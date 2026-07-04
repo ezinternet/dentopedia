@@ -13,11 +13,21 @@ source_collection: external
 tags: [mronj, antiresorptive, bisphosphonate, denosumab, dental-implant, osseointegration, peri-implantitis, implant-failure]
 ---
 
-## One-line Summary
-SR of 8 studies (445 implants) on osseointegrated implants after antiresorptive drug initiation: overall failure rate 23%, 83% of failures attributed to MRONJ, mean ARD-to-MRONJ latency 34 months, mandibular posterior 65%.
+## Three-line Summary
 
-## 한줄요약
-항흡수제 투여 후 골유착 임플란트 8개 연구 체계적 고찰(445개 임플란트): 실패율 23%, 실패의 83%는 MRONJ 원인, 항흡수제 투여 시작부터 MRONJ 진단까지 평균 34개월, 하악 구치부 65%.
+Systematic review (8 studies, 135 subjects, 445 implants) examining osseointegrated dental implants in patients who initiated antiresorptive drug therapy after successful osseointegration.
+
+Overall implant failure rate was 23% (101/445); 83% of failures were attributable to MRONJ, with a mean latency from ARD initiation to MRONJ diagnosis of 34 months, predominantly in the mandibular posterior region (65%).
+
+Active monitoring for MRONJ within the first 3 years after ARD initiation is warranted; peri-implantitis should trigger immediate MRONJ risk assessment in these patients.
+
+## 세줄요약
+
+골유착 임플란트 보유 환자에서 항흡수제(ARD) 투여 시작 후 임플란트 예후를 평가한 체계적 고찰 (8편 연구, 135명, 445개 임플란트).
+
+임플란트 실패율 23%(101/445); 실패의 83%가 MRONJ에 기인했으며, ARD 시작부터 MRONJ 진단까지 평균 34개월, 위치는 하악 구치부 65%.
+
+ARD 개시 후 첫 3년간 집중 모니터링이 필요하며, 임플란트 주위염 발생 시 즉각 MRONJ 위험 평가를 시행해야 한다.
 
 ## Summary
 Systematic review (PRISMA 2020) evaluating the impact of antiresorptive drug (ARD) therapy initiated after implant osseointegration. Eight studies including 445 implants in 135 subjects were analyzed. Overall implant failure rate was 23% (101/445), with 83% of documented failures attributed to MRONJ. The mean latency from ARD initiation to MRONJ diagnosis was 34 months (range 3–192 months). Mandibular posterior region was the predominant location. Peri-implantitis was identified as a likely MRONJ trigger in some cases. Most MRONJ sites healed with sequestrectomy and antibiotics; 27% of failed implants could be preserved.

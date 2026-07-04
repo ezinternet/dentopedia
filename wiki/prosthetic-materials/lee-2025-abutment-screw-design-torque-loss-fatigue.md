@@ -21,13 +21,21 @@ relations:
     target: ren-2024-morse-taper-abutment-subsidence-locking-force
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro cyclic-fatigue study (50 Osstem implant–abutment assemblies, n=5 per torque group) showing KSIII keeps torque loss <25% at every torque level while TSIII loses 36.5%–51.8% (~2.5–3.0× more), with ~35 Ncm giving the most stable preload.
+In vitro cyclic-fatigue study (50 Osstem implant-abutment assemblies, n=5 per torque group; ISO 14801, 150 N, 14 Hz, 100,000 cycles) comparing TSIII vs KSIII abutment screw designs across 20–40 Ncm tightening torques.
 
-## 한줄요약
+KSIII kept torque loss below 25% at all torque levels (torque-insensitive), while TSIII lost 36.5%–51.8% (~2.5–3.0× more) with significant torque dependence; ~35 Ncm gave the most stable preload for TSIII.
 
-체외 피로하중 실험(오스템 임플란트-지대주 50쌍, 토크군당 n=5): KSIII는 모든 토크에서 토크손실 <25%로 안정적이나 TSIII는 36.5%~51.8% 손실(약 2.5~3.0배 더 큼)을 보였고, 약 35 Ncm에서 가장 안정적인 전하중(preload)을 얻음.
+Modified KSIII screw geometry (reduced head, narrower thread, longer shaft) confers torque-insensitive preload stability; screw design itself — not just torque magnitude — is the dominant determinant of loosening resistance.
+
+## 세줄요약
+
+TSIII와 KSIII 지대주 나사 디자인을 20–40 Ncm 5개 토크 수준에서 비교한 체외 피로하중 실험(오스템 임플란트-지대주 50쌍, 토크군당 n=5; ISO 14801, 150 N, 14 Hz, 100,000 사이클).
+
+KSIII는 모든 토크에서 토크 손실 <25%로 일정한 반면(토크 비의존성), TSIII는 36.5%–51.8% 손실로 약 2.5–3.0배 높고 토크 의존적; ~35 Ncm이 TSIII 최적.
+
+개선된 KSIII 나사 형상(헤드 감소·나사산 좁음·샤프트 길어짐)이 토크량과 무관하게 전하중 안정성을 부여하며, 나사 디자인 자체가 나사 풀림 저항의 주요 결정인자임을 확인.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 
 신설 occlusion. 교합접촉 양상이 세라믹 크라운 피로(파절)에 미치는 영향 — [[overviews/bruxism-muscle-overload-axis]] 하류 ②(보철 파절)의 in-vitro 근거, prosthetic-materials와 교차.
 
-## One-line Summary
-In-vitro fatigue study - core material and occlusal contact pattern jointly affect the fatigue behavior of monolithic ceramic crowns; contact distribution is a modifiable factor in crown longevity.
+## Three-line Summary
 
-## 한줄요약
-in-vitro 피로시험 - 코어 재료와 교합접촉 양상이 monolithic 세라믹 크라운의 피로거동에 함께 영향; 접촉 분포가 크라운 수명의 조절 가능 인자.
+In-vitro fatigue study - core material and occlusal contact pattern jointly affect the fatigue behavior of monolithic ceramic crowns;
+
+contact distribution is a modifiable factor in crown longevity.
+
+(incomplete)
+
+## 세줄요약
+
+in-vitro 피로시험 - 코어 재료와 교합접촉 양상이 monolithic 세라믹 크라운의 피로거동에 함께 영향;
+
+접촉 분포가 크라운 수명의 조절 가능 인자.
+
+(incomplete)
 
 ## 1. Document Information
 J Mech Behav Biomed Mater 2025;106891 · Maria Gabriela Packaeser, Renan Vaz Machry, ... Joao Paulo Mendes Tribst, Gabriel Kalil Rocha Pereira · 2025 · DOI: 10.1016/j.jmbbm.2025.106891. Study type: in-vitro.

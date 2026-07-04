@@ -20,13 +20,21 @@ relations:
     target: dhawan-2026-bonding-total-self-etch-fiberpost
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro push-out study (75 glass fiber posts, 60 decoronated premolars, 3×2 factorial: post-surface conditioning [none / 24% H2O2-silane / Nd:YVO4 laser-silane] × cement [self-adhesive dual-cure (SADCRC) vs conventional dual-cure (CDCRC)]) — Nd:YVO4 laser gave the highest surface roughness (Ra 1.32±0.22 µm) and bond strength statistically comparable to hydrogen peroxide at all canal thirds; conventional cement bond strength fell cervical→apical while self-adhesive cement bond strength rose cervical→apical.
+In vitro 3×2 factorial push-out study (75 glass fiber posts from 60 decoronated premolars; post-surface conditioning: none vs 24% H2O2-silane vs Nd:YVO4 laser-silane; cement: self-adhesive dual-cure [SADCRC, RelyX Unicem] vs conventional dual-cure [CDCRC, All Bond 2 + Duo-Link]; 10,000 thermocycles).
 
-## 한줄요약
+Nd:YVO4 laser produced the highest surface roughness (Ra 1.32±0.22 µm) statistically equal to H2O2 (1.28±0.18 µm), both exceeding unconditioned control (0.43±0.11 µm, p<0.05); conditioned-group bond strengths were statistically comparable between laser and H2O2 at all canal thirds; CDCRC bond strength declined cervical→apical (highest 11.47 MPa cervical) while SADCRC rose cervical→apical (highest 11.31 MPa apical).
 
-In vitro push-out 연구(소구치 60개에서 얻은 글래스 파이버 포스트(Glass Fiber Post, GFP) 75개, 표면처리[무처리/24% 과산화수소(H2O2)-실란/Nd:YVO4 레이저-실란] × 시멘트[자가접착형 이중경화 레진시멘트(Self-Adhesive Dual-Cure Resin Cement, SADCRC) vs 전통형 이중경화 레진시멘트(Conventional Dual-Cure Resin Cement, CDCRC)] 3×2 설계) — Nd:YVO4 레이저군이 가장 높은 표면조도(Ra 1.32±0.22 µm)를 보였고 결합강도는 모든 치근부에서 과산화수소군과 통계적으로 동등; CDCRC는 치경부→치근단으로 갈수록 결합강도 감소, SADCRC는 반대로 증가 — Nd:YVO4 레이저는 과산화수소의 적합한 대안이며 SADCRC는 전 치근부에서 만족스러운 성능을 보임.
+Nd:YVO4 laser is a viable chemical-agent-free alternative to hydrogen peroxide for glass fiber post conditioning; SADCRC performs satisfactorily at all canal thirds and is preferred apically, while CDCRC outperforms cervically when conditioning is used.
+
+## 세줄요약
+
+In vitro 3×2 요인설계 푸시아웃 연구 (소구치 60개에서 얻은 글래스 파이버 포스트 (GFP) 75개; 포스트 표면처리: 무처리 vs 24% 과산화수소(H2O2)-실란 vs Nd:YVO4 레이저-실란; 시멘트: 자가접착형 이중경화 레진시멘트 (SADCRC, RelyX Unicem) vs 전통형 이중경화 레진시멘트 (CDCRC, All Bond 2 + Duo-Link); 열순환 10,000회).
+
+Nd:YVO4 레이저 표면조도 Ra 1.32±0.22 µm로 가장 높으나 H2O2(1.28±0.18 µm)와 통계적 동등, 무처리(0.43±0.11 µm)는 유의 열위; 레이저·H2O2 처리군의 결합강도는 모든 치근 3등분에서 동등; CDCRC는 치경부(최대 11.47 MPa)→치근단 감소, SADCRC는 치경부→치근단(최대 11.31 MPa) 증가.
+
+Nd:YVO4 레이저는 화학제 없이 과산화수소와 동등한 GFP 표면 조건화 가능; SADCRC는 전 치근부에서 만족스러운 성능이며 치근단부에서 특히 유리, CDCRC는 처리 후 치경부에서 최고 결합강도.
 
 ## Summary
 

@@ -16,11 +16,21 @@ relations:
     target: kang-2024-national-dental-radiological-dose-management
 ---
 
-## One-line Summary
-SR (5 phantom studies) - scattered radiation dose to the eye lens from dental CBCT ranges 0.103-8.3 mSv, varying with FOV, exposure, dosimeter and scanner; calls for dose reference levels and optimization.
+## Three-line Summary
 
-## 한줄요약
-SR(5편, phantom) - 치과 CBCT의 안구 수정체 산란선량 0.103-8.3 mSv, FOV·노출·선량계·스캐너에 따라 변동; 선량 기준치·최적화 필요.
+Systematic review of 5 phantom studies (PRISMA; 653 records screened, 2010–2022) quantifying scattered radiation dose to the eye lens from dental CBCT examinations.
+
+Eye lens scatter dose ranged widely from 0.103 to 8.3 mSv, driven by FOV, exposure parameters, dosimeter type, and scanner model, with no standardization across studies.
+
+The wide variability and absence of dedicated dose reference levels (DRLs) for eye lens in dental CBCT call for FOV minimization, protocol optimization, and establishment of eye-specific DRLs.
+
+## 세줄요약
+
+2010~2022년 팬텀 연구 5편에 대한 체계적 문헌고찰(PRISMA; 653편 → 5편): 치과 CBCT 안구 수정체 산란선량을 정량화.
+
+안구 수정체 산란선량은 FOV·노출 조건·선량계 종류·스캐너 모델에 따라 0.103~8.3 mSv로 광범위하게 변동하며, 연구 간 표준화가 부재.
+
+FOV 최소화·프로토콜 최적화·치과 CBCT 전용 안구 선량 기준치(DRL) 수립이 필요하다는 결론.
 
 ## Summary
 치과 CBCT의 안구 산란선량을 phantom 연구로 통합한 SR. 변동폭이 크고(0.103-8.3 mSv) 표준화 부재 - 방사선 방어·정당화의 근거.

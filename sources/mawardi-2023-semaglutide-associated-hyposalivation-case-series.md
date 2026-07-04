@@ -17,13 +17,23 @@ text_filename: mawardi-2023-semaglutide-associated-hyposalivation-case-series.tx
 
 GLP-1 수용체작용제(semaglutide/Ozempic·Wegovy)가 체중감량용으로 급증하는데, 위키의 xerogenic-drug 목록에는 이 계열이 없었다. 이 첫 증례보고(3례)는 semaglutide-연관 hyposalivation이라는 새 약물 부작용을 기록해, 기전 리뷰 [[oral-medicine/kim-2023-xerostomia-cellular-targets]](약물성 구강건조 >400종)와 타액-당뇨 지표 [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]]를 임상 증례로 연결한다. 진료 시 GLP-1 복용력 문진의 근거.
 
-## One-line Summary
+## Three-line Summary
+
 
 Case series (Medicine 2023, n=3 overweight women, mean 11.3 weeks on semaglutide) reporting the first documented semaglutide (GLP-1 agonist)–associated hyposalivation — severe dry mouth, mean modified Schirmer 9 mL/3 min, Sjögren-negative — reversible on discontinuation or manageable with pilocarpine.
 
-## 한줄요약
+(incomplete)
 
-세마글루타이드(Semaglutide, Ozempic; GLP-1 작용제)와 연관된 구강건조·타액분비저하(hyposalivation)를 처음 보고한 증례군 (Medicine 2023, 과체중 여성 3명, 평균 11.3주 사용). 수정 Schirmer 검사 평균 9 mL/3분, 쇼그렌 음성; 약물 중단 시 가역적이거나 필로카르핀(pilocarpine)으로 관리 가능.
+(incomplete)
+
+## 세줄요약
+
+
+세마글루타이드(Semaglutide, Ozempic;
+
+GLP-1 작용제)와 연관된 구강건조·타액분비저하(hyposalivation)를 처음 보고한 증례군 (Medicine 2023, 과체중 여성 3명, 평균 11.3주 사용).
+
+수정 Schirmer 검사 평균 9 mL/3분, 쇼그렌 음성; 약물 중단 시 가역적이거나 필로카르핀(pilocarpine)으로 관리 가능.
 
 ## 1. Document Information
 

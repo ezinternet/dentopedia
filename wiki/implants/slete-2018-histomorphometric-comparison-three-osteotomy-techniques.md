@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, osteotome, histomorphometry, BIC, BV-percent, pilot-study, porcine, trabecular-integrity]
 ---
 
-## One-line Summary
-Ex vivo porcine-tibia histomorphometric pilot (n=6/group × 3 osteotomy techniques): immediate Bone-to-Implant Contact (BIC) was highest with Osseodensification (OD) 60.3% > Summers osteotome 40.7% > standard drilling 16.3%, while bone-volume % in the 2-mm peri-implant zone was similar (SD ~54%, SO ~49%) — indicating the BIC difference reflects contact geometry/trabecular compaction, not absolute bone volume. Descriptive-only pilot (no p-values), no healing/remodeling assessed.
+## Three-line Summary
 
-## 한줄요약
-파일럿 ex vivo 돼지 경골 연구 (in-vivo 라벨이나 실질은 ex vivo), n=6/군 × 3군 — 즉시 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)이 골밀도화 (Osseodensification, OD) 60.3% > Summers osteotome 40.7% > 표준 드릴링 16.3%. p-value 미보고 파일럿, 치유·재형성 미평가.
+Ex vivo porcine-tibia histomorphometric pilot (n=6/group × 3 osteotomy techniques: standard drilling, Summers osteotome, osseodensification) comparing immediate bone-to-implant contact (BIC) and peri-implant bone volume after placement of 4.7 × 13 mm tapered implants.
+
+Immediate BIC was highest with osseodensification (OD) at 60.3% vs Summers osteotome (SO) 40.7% vs standard drilling (SD) 16.3%; peri-implant bone volume (BV%) was similar between SD (~54%) and SO (~49%), indicating BIC differences reflect contact geometry rather than bone volume.
+
+Descriptive pilot without p-values or statistical inference — provides bench-level mechanistic foundation for OD primary stability claims, but no healing or remodeling data; authors are affiliated near the Versah/Densah manufacturer.
+
+## 세줄요약
+
+돼지 경골 ex vivo 조직형태계측 파일럿 (n=6/군 × 3군: 표준 드릴링, Summers osteotome, 골밀도화 Osseodensification, OD) — 4.7 × 13 mm 임플란트 즉시 식립 후 BIC 및 골용적 분율 비교.
+
+즉시 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC): OD 60.3% > SO 40.7% > SD 16.3%; 2 mm 주위 골용적(BV%)은 SD ~54% vs SO ~49%로 유사 — BIC 차이는 접촉 형상에 의한 것.
+
+p-value 미보고 기술적 파일럿, 치유·재형성 미평가; Versah 제조사 인접 저자 구성으로 해석 주의.
 
 ## Summary
 Slete et al. ran a bench histomorphometric pilot comparing three osteotomy techniques in fresh porcine tibia: standard subtractive drilling (SD), Summers osteotome compaction (SO), and osseodensification (OD) with Densah burs. Eighteen 4.7 × 13 mm tapered screw-vent implants were placed (six per group) and analyzed for immediate BIC, bone volume percentage in a 2-mm peri-implant zone, and trabecular integrity.

@@ -17,13 +17,23 @@ text_filename: raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfecti
 
 Chairside gutta-percha (GP) cone decontamination is a small but recurring endodontic aseptic-chain step, and this in vitro study extends the standard NaOCl protocol by benchmarking two nanoparticle disinfectants (silver, chitosan) against it and adding a quantitative AFM surface-damage read-out. It reinforces the microbiology-of-persistent-infection framing in [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] and pairs with the SR anchor [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] as one arm of a 4-paper GP-cone-decontamination cluster.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro comparison (335 F1 ProTaper GP cones, *B. subtilis* + *C. albicans*): 2.62% and 5.25% NaOCl eliminated both organisms within 1 min with minimal AFM surface change, whereas 250 µg/mL AgNPs and 625 µg/mL ChNPs needed 5 min against *B. subtilis* (both cleared *C. albicans* in 1 min); all agents caused progressive, time-dependent topographical damage.
 
-## 한줄요약
+In vitro comparison (335 F1 ProTaper GP cones, *B. subtilis* + *C.
 
-In vitro 연구 (F1 ProTaper GP cone 335개, *B. subtilis*·*C. albicans*): 2.62%·5.25% NaOCl은 두 균 모두 1분 내 제거하고 AFM 표면변화도 최소였으나, AgNP(250 µg/mL)·ChNP(625 µg/mL)는 *B. subtilis*에 5분이 필요했고(*C. albicans*는 1분에 제거), 모든 소독제가 침적시간에 비례해 표면손상을 유발했다.
+albicans*): 2.62% and 5.25% NaOCl eliminated both organisms within 1 min with minimal AFM surface change, whereas 250 µg/mL AgNPs and 625 µg/mL ChNPs needed 5 min against *B. subtilis* (both cleared *C.
+
+albicans* in 1 min); all agents caused progressive, time-dependent topographical damage.
+
+## 세줄요약
+
+
+In vitro 연구 (F1 ProTaper GP cone 335개, *B.
+
+subtilis*·*C.
+
+albicans*): 2.62%·5.25% NaOCl은 두 균 모두 1분 내 제거하고 AFM 표면변화도 최소였으나, AgNP(250 µg/mL)·ChNP(625 µg/mL)는 *B. subtilis*에 5분이 필요했고(*C. albicans*는 1분에 제거), 모든 소독제가 침적시간에 비례해 표면손상을 유발했다.
 
 ## 1. Document Information
 

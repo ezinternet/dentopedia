@@ -24,13 +24,21 @@ relations:
 tags: [gbr, electrospinning, silk-fibroin, pcl, curcumin, strontium, metal-phenolic, osteogenesis, angiogenesis, macrophage-polarization, wnt-signaling, alveolar-bone, rat-model]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro + rat alveolar bone defect study: a silk fibroin/PCL electrospun GBR membrane loaded with curcumin–strontium metal-phenolic nanoparticles (Cur-Sr/SF/PCL) gave ~13.9 MPa tensile strength and slow degradation (<8% at 8 weeks), and synergistically drove osteogenesis (Wnt/Ca/CaN), angiogenesis (VEGF/HIF-1), and M1→M2 macrophage reprogramming — highest BV/TV and new-bone fraction in vivo.
+In-vitro and rat alveolar bone defect study (16 SD rats, 4 groups, 8-week harvest) developing a silk fibroin/PCL electrospun fibrous membrane (EFM) loaded with curcumin–strontium metal-phenolic nanoparticles (Cur-Sr NPs) as a multifunctional GBR barrier.
 
-## 한줄요약
+Cur-Sr/SF/PCL achieved ~13.9 MPa tensile strength (vs Bio-Gide ~0.74 MPa) with <8% degradation at 8 weeks and ~30 µm cell infiltration depth under 60 µm thickness; in vivo, the membrane produced the highest BV/TV, new-bone fraction, OPN/VEGF expression, and M2 macrophage polarization across all groups.
 
-In-vitro + 쥐 치조골 결손 연구: 커큐민-스트론튬 금속-페놀 나노입자를 담지한 실크피브로인/PCL 전기방사 GBR막(Cur-Sr/SF/PCL)이 ~13.9 MPa 인장강도와 느린 분해(8주 <8%)를 보이며, 골형성(Wnt/Ca/CaN)·혈관신생(VEGF/HIF-1)·대식세포 M1→M2 전환을 시너지로 유도해 in vivo 최고 BV/TV·신생골 면적을 달성했다.
+This bench + small animal study simultaneously delivers osteogenesis (Wnt/Ca/CaN pathway), angiogenesis (VEGF/HIF-1), and M1→M2 immunomodulation from a single membrane — but the evidence level is pre-clinical (in-vitro) and the rat model is early stage for clinical translation.
+
+## 세줄요약
+
+in-vitro + 쥐 치조골 결손 연구(SD 쥐 16마리, 4군, 8주 수확): 커큐민-스트론튬 금속-페놀 나노입자(Cur-Sr NPs)를 담지한 실크피브로인(Silk Fibroin, SF)/폴리카프로락톤(Polycaprolactone, PCL) 전기방사 GBR막 개발.
+
+Cur-Sr/SF/PCL: 인장강도 ~13.9 MPa(Bio-Gide ~0.74 MPa 대비), 8주 분해 <8%, 세포 침투 깊이 ~30 µm(막 두께 60 µm 이하); in vivo 최고 BV/TV·신생골·OPN/VEGF·M2 대식세포 분극화.
+
+단일 막에서 골형성(Wnt/Ca/칼시네우린, CaN 경로)·혈관신생(혈관내피성장인자, VEGF/저산소유도인자, HIF-1)·면역조절(M1→M2) 동시 달성 — 그러나 근거 수준 전임상(in-vitro)이며 쥐 모델은 임상 번역 초기 단계.
 
 ## Summary
 

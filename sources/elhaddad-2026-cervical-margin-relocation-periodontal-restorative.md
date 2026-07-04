@@ -16,13 +16,23 @@ text_filename: elhaddad-2026-cervical-margin-relocation-periodontal-restorative.
 
 First SR+MA pooling periodontal (PD, BOP) and restorative (marginal adaptation) outcomes for cervical margin relocation (CMR) / deep margin elevation (DME) — the standard answer to subgingival proximal margins of indirect adhesive restorations. It extends our immediate-dentin-sealing evidence base ([[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]]) into the adjacent "what to do when the box is subgingival" decision, and supports the deep-margin scenarios in partial-coverage literature ([[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]]).
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR+MA (abstract-only) finds cervical margin relocation does not harm periodontal health in healthy/stabilized patients — pooled PD reduction MD -0.96 mm (I2=0%) and BOP MD -0.52 (I2=27%→0% after one outlier removed); marginal adaptation depends on bonding strategy and material, with adhesively bonded glass-ceramics best.
 
-## 한줄요약
+PRISMA SR+MA (abstract-only) finds cervical margin relocation does not harm periodontal health in healthy/stabilized patients — pooled PD reduction MD -0.96 mm (I2=0%) and BOP MD -0.52 (I2=27%→0% after one outlier removed);
+
+marginal adaptation depends on bonding strategy and material, with adhesively bonded glass-ceramics best.
+
+(incomplete)
+
+## 세줄요약
+
 
 PRISMA 체계적 문헌고찰+메타분석(초록만)에서 치경부 변연 재위치(Cervical Margin Relocation, CMR)는 치주 건강을 해치지 않으며(통합 탐침깊이 -0.96 mm, 탐침 시 출혈 -0.52 감소), 변연 적합도는 접착 전략과 수복 재료에 좌우되어 접착성 글라스세라믹이 가장 우수했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

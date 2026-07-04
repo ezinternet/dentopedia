@@ -16,13 +16,23 @@ text_filename: vitali-2025-preoperative-factors-prognosis-regenerative-endodonti
 
 Anchors the trauma–regenerative-endodontics bridge in the new `dental-trauma` category: it isolates *trauma-related* pulp necrosis as a 3.59× risk factor for root-development failure in REPs. Extends the device-/protocol-centric REP synthesis in [[overviews/regenerative-endodontics-rep-overview]] with a prognosis lens, and connects to the trauma necrosis upstream in [[dental-trauma/tewari-2024-pulp-necrosis-lateral-luxation]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (20 studies, 13 observational + 7 RCT; GRADE very low): REP clinical/radiographic healing >81% regardless of pre-op factors, but trauma-related necrosis (RR 3.59), incisors (RR 1.90), and apical lesions (RR 2.55) carry higher root-development-failure risk.
 
-## 한줄요약
+SR+MA (20 studies, 13 observational + 7 RCT;
 
-SR+MA (20편, 관찰 13 + RCT 7; GRADE 매우 낮음): 재생근관치료(REP)의 임상·방사선학적 치유는 술전 인자와 무관하게 81% 초과이나, 외상성 치수괴사(RR 3.59)·절치(RR 1.90)·치근단 병소(RR 2.55)는 치근발육 실패 위험이 높다.
+GRADE very low): REP clinical/radiographic healing >81% regardless of pre-op factors, but trauma-related necrosis (RR 3.59), incisors (RR 1.90), and apical lesions (RR 2.55) carry higher root-development-failure risk.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (20편, 관찰 13 + RCT 7;
+
+GRADE 매우 낮음): 재생근관치료(REP)의 임상·방사선학적 치유는 술전 인자와 무관하게 81% 초과이나, 외상성 치수괴사(RR 3.59)·절치(RR 1.90)·치근단 병소(RR 2.55)는 치근발육 실패 위험이 높다.
+
+(incomplete)
 
 ## 1. Document Information
 

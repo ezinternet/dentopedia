@@ -17,13 +17,23 @@ text_filename: lee-2025-prevalence-classification-factors-cemental-tears.txt
 
 기존 [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] 합의문이 인용한 유병률 수치(터키 코호트 0.89~1.9%, 방사선 확인만)를 보강하는 최신 임상 코호트 — 홍콩 대학 근관치료 전문 클리닉 445례 중 5.6% 유병률(PR+고해상도 소형 FOV CBCT 병용, PR 단독 시 40% 누락)과 4개 독립 위험인자(전치부, 동요도, 심한 치조골 소실, 적절한 근관충전)를 처음으로 다변량 분석으로 제시. Liang 합의문의 위치기반 치료 결정 트리에 실제 Class/Stage 분포(76%가 Class 2/4 또는 Stage C/D) 데이터를 더한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective cross-sectional study (n=445 teeth, Hong Kong postgraduate endodontic clinic, 2019-2024) finding 5.6% prevalence of cemental tear and four independent risk factors (incisor tooth type, tooth mobility, severe crestal bone loss, adequate root filling quality) on multivariate logistic regression, with PR sensitivity only 0.6 vs CBCT.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 홍콩 대학 근관치료 전문 클리닉 후향적 단면 연구(치아 445개)로 시멘트질 열개 유병률 5.6%를 보고하고, 다변량 분석에서 전치부·치아동요도·심한 치조골 소실·적절한 근관충전이 독립적 위험인자임을 확인 — 근관치료 후 만성 문제를 겪는 환자에서 특히 의심해야 함을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

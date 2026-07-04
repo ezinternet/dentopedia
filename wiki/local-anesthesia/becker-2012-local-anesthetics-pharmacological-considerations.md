@@ -19,13 +19,23 @@ relations:
     target: kalra-2024-buffered-lidocaine-articaine-extraction-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative continuing-education review (Anesth Prog 2012) of dental local-anesthetic pharmacology — Na⁺-channel mechanism, ester vs amide metabolism, pKa→onset, protein-binding→duration, lipid-solubility→potency, a maximum-dose table (mg/kg and total mg) for lidocaine/mepivacaine/prilocaine/articaine/bupivacaine, plus toxicity (CNS seizures, bupivacaine cardiotoxicity, prilocaine methemoglobinemia, 4% articaine/prilocaine paresthesia 7.3×/3.6×).
+Narrative CE review (Anesth Prog 2012) covering dental local-anesthetic mechanism (Na⁺-channel block), kinetics (pKa→onset; protein binding→duration; lipid solubility→potency; ester vs amide metabolism), maximum-dose tables for five agents, and toxicity profiles.
 
-## 한줄요약
+Maximum doses: lidocaine with epi 7 mg/kg (500 mg); mepivacaine plain 6.6 mg/kg (400 mg); articaine with epi 5–7 mg/kg (500 mg); bupivacaine 90 mg total; 4% articaine/prilocaine paresthesia risk 7.3×/3.6× vs other agents.
 
-치과 국소마취 약리학 narrative 평론(Anesth Prog 2012) — 나트륨채널 기전, 에스터 vs 아미드 대사, pKa→발현, 단백결합→지속, 지질용해도→효능, lidocaine/mepivacaine/prilocaine/articaine/bupivacaine 최대용량표(mg/kg·총 mg), 독성(CNS 경련, bupivacaine 심독성, prilocaine 메트헤모글로빈혈증, 4% articaine/prilocaine 감각이상 7.3배/3.6배) 정리.
+Inflamed tissue (low pH) reduces onset efficacy by trapping LAs in the cationic form; >1:200,000 epinephrine adds no IANB onset/duration benefit; combinations are additive for toxicity — use half-maxes when combining agents.
+
+## 세줄요약
+
+Narrative CE 평론(Anesth Prog 2012): 치과 국소마취 Na⁺채널 기전, 약동학(pKa→발현·단백결합→지속·지질용해도→효능·에스터vs아미드 대사), 5개 약제 최대용량표, 독성 정리.
+
+주요 최대용량: 리도카인+에피 7 mg/kg(500 mg), 메피바카인 plain 6.6 mg/kg(400 mg), 아티카인+에피 5–7 mg/kg(500 mg), 부피바카인 총 90 mg; 4% 아티카인/프릴로카인 감각이상 7.3배/3.6배.
+
+염증 조직(저 pH)에서 이온형 증가로 마취 효과 감소; IANB에서 에피네프린 >1:200,000은 추가 이점 없음; 약제 혼합 시 독성 가산적 — 각 최대용량의 절반 적용.
+
+
 
 ## Summary
 

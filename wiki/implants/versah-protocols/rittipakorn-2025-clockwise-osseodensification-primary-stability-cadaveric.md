@@ -18,13 +18,21 @@ relations:
 tags: [osseodensification, clockwise-od, primary-stability, ISQ, insertion-torque, low-density-bone, cadaveric, SR-microCT]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Paired-site human cadaveric tibia study (40 Osstem TS III implants in D3/D4 low-density bone) comparing a novel **clockwise osseodensification (CW-OD, 800 rpm)** vs standard drilling (SD): OD trended to higher but non-significant ISQ (67.5 vs 62.9, p=0.077) and insertion torque (34.0 vs 29.5 Ncm, p=0.052), with tighter dispersion and a significant IT–ISQ correlation only in OD (ρ=0.577, p=0.0077).
+Paired-site cadaveric tibia study (9 formalin-fixed human tibiae, 40 Osstem TS III implants, D3/D4 low-density bone) comparing a novel clockwise osseodensification protocol (CW-OD, 800 rpm cutting direction) vs standard drilling (SD).
 
-## 한줄요약
+CW-OD trended toward higher but non-significant ISQ (67.5 vs 62.9, p=0.077) and insertion torque (34.0 vs 29.5 Ncm, p=0.052); OD showed tighter IQR with no low-torque outliers; IT–ISQ correlation was significant only with OD (ρ=0.577, p=0.0077); qualitative SR-µCT showed denser peri-implant trabeculae with OD.
 
-사람 경골(tibia) 사체 짝지음-부위 연구(임플란트 40개, D3/D4 저밀도골)로 **시계방향 골밀도화(CW-OD, 800 rpm)** vs 표준 드릴링(SD) 비교: OD가 ISQ(67.5 vs 62.9, p=0.077)·삽입토크(34.0 vs 29.5 Ncm, p=0.052)에서 더 높은 경향이나 비유의했고, 분산은 더 좁았으며 IT–ISQ 상관은 OD에서만 유의(ρ=0.577, p=0.0077)했다.
+Clockwise OD may improve consistency and predictability of primary stability in low-density bone, but sample size was insufficient to reach significance; in vivo confirmation is required before clinical adoption.
+
+## 세줄요약
+
+짝지음-부위 카데바 경골 연구 (인체 경골 9구, 임플란트 40개, D3/D4 저밀도골): 신규 시계방향 골밀도화 (Clockwise Osseodensification, CW-OD, 800 rpm 절삭 방향) vs 표준 드릴링 (SD) 비교.
+
+CW-OD가 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) (67.5 vs 62.9, p=0.077) 및 삽입 토크 (34.0 vs 29.5 Ncm, p=0.052)에서 수치상 우위이나 비유의; OD는 사분위범위(IQR) 더 좁고 저토크 이상값 없음; IT–ISQ 상관은 OD에서만 유의(ρ=0.577, p=0.0077); 정성적 SR-µCT에서 OD가 더 치밀한 주위 골주 확인.
+
+시계방향 OD는 저밀도골에서 1차 안정성의 일관성·예측가능성을 향상시킬 수 있으나, 표본이 유의성 달성에 불충분했으며 임상 적용 전 생체 내 검증이 필요하다.
 
 ## Summary
 

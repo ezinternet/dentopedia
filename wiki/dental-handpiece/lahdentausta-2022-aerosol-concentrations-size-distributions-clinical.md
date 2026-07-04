@@ -20,13 +20,21 @@ relations:
     target: matys-2020-dental-aerosol-hazard-risk-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical aerosol-measurement study (84 patients, 253 procedures, optical particle sizer) showing air turbine handpieces generated the highest <1 μm and total aerosol concentrations, while high-/low-speed handpieces and ultrasonic scalers elevated aerosol vs oral examination.
+Prospective real-clinical aerosol-measurement study (84 patients, 253 procedures, 8 procedure categories) at a Helsinki specialist clinic using an optical particle sizer (0.3–10 µm) with per-procedure background subtraction.
 
-## 한줄요약
+Air-turbine handpiece generated the highest <1 µm and total aerosol concentrations (emission rate ~5.2×10⁸ #/min, estimated fallow time ~98.5 min); low-speed handpiece dominated coarse >5 µm particles; high-speed electric handpiece showed no significant rise above its own background.
 
-실제 진료 관찰연구(환자 84명·253건, 광학입자측정기) — 에어터빈 핸드피스가 <1 μm 미세·총 에어로졸을 최다 생성, 하이스피드·로우스피드 핸드피스와 초음파 스케일러도 구강검진 대비 에어로졸을 유의하게 증가시켰다.
+The air turbine → electric high-speed substitution is empirically supported; the ~98.5 min air-turbine fallow time far exceeds typical room-turnover intervals, making high-volume evacuation and rubber dam the most practical real-time mitigations.
+
+## 세줄요약
+
+헬싱키 전문 클리닉에서 84명 환자·253건·8개 술식 카테고리를 대상으로 한 실제 진료 전향적 에어로졸 관찰연구(광학입자측정기 0.3–10 µm, 술식별 배경농도 보정).
+
+에어터빈 핸드피스가 <1 µm 미세·총 에어로졸 최다(방출률 ~5.2×10⁸ #/min, 예측 공기 정화 시간 ~98.5분); 로우스피드는 >5 µm 조대 입자 우세; 전동 하이스피드 핸드피스는 자체 배경 대비 유의한 상승 없음.
+
+에어터빈 → 전동 핸드피스 교체에 실증적 근거 확보; ~98.5분 공기 정화 시간은 일반적 환자 교체 간격을 훨씬 초과 — 고용량 흡인 및 러버댐이 현실적으로 가장 효과적인 실시간 통제 수단.
 
 ## Summary
 

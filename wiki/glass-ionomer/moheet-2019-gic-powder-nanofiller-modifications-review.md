@@ -13,11 +13,21 @@ source_collection: external
 tags: [gic, nano-filler, powder-modification, physicomechanical, nano-ceramics]
 ---
 
-## One-line Summary
-Narrative review (Eur J Dent 2019) of GIC-powder nano-filler modifications, concluding nanoparticles generally improve physicomechanical properties via greater surface area and matrix affinity.
+## Three-line Summary
 
-## 한줄요약
-GIC 분말에 나노필러 첨가 개질을 다룬 narrative review — 표면적·매트릭스 친화성 증가로 물성 향상.
+Narrative review (Eur J Dent 2019; PubMed/EBSCOhost/ScienceDirect, 2000–2018) of GIC-powder nano-filler modifications across in-vitro and in-vivo studies.
+
+Nanoparticle incorporation generally improves GIC physicomechanical properties via increased surface area, surface energy, and better particle distribution — though not universally for all filler types.
+
+Filler design heuristic: prioritize nanoparticles with high chemical affinity for both the GIC matrix and tooth structure to maximize physicochemical benefit.
+
+## 세줄요약
+
+서술 리뷰 (Eur J Dent 2019; PubMed·EBSCOhost·ScienceDirect, 2000–2018): GIC 분말에 나노필러를 첨가한 in vitro/in vivo 연구 종합.
+
+나노입자 첨가는 표면적·표면 에너지 증가 및 입자 분포 개선을 통해 물성을 대체로 향상시키나, 모든 필러 유형에서 이득이 보장되지는 않는다.
+
+임상적 설계 원칙: GIC 매트릭스 및 치아 구조 모두에 화학적 친화성이 높은 나노입자를 선택하는 것을 권장한다.
 
 ## Summary
 This review (publications 2000–2018; EBSCOhost, PubMed, ScienceDirect) appraises materials used as a filler phase in GIC powder to improve its properties. Not all modifications are beneficial, but nanoparticle incorporation generally improves GIC properties due to increased surface area, surface energy, and better particle distribution. The authors recommend prioritizing nanoparticles with greater chemical affinity for both the GIC matrix and tooth structure to enhance physicochemical properties.

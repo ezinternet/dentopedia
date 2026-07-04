@@ -16,13 +16,21 @@ relations:
     target: bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review from the University of Michigan GBR group proposing a 3-type socket classification (ST1–ST3) based on buccal bone morphology and integrity, with a matched clinical decision tree for alveolar ridge preservation technique selection.
+Narrative review from the University of Michigan GBR group proposing the Socket Type (ST) classification — 3 types (ST1A/B, ST2, ST3A/B/C) based on buccal bone thickness, fenestration, and dehiscence height — with a matched decision tree guiding ARP technique selection from collagen plug to Ti-mesh/PTFE.
 
-## 한줄요약
+Buccal bone integrity and thickness are stronger predictors of ARP outcome than graft material choice; thick intact bone (ST1A) requires no ARP, while progressive dehiscence (ST3A→C) demands escalating intervention with mandatory flap elevation and reinforced membranes.
 
-미시간대 GBR팀이 협측 골 형태에 따른 3형 발치와 분류(ST1–ST3)와 처치 결정 트리를 제안한 서술적 고찰 — 협측 골 두께·열개·천공 여부로 ARP 술식 선택을 안내.
+The literature anchor from the XV European Workshop 2019 is an overall 1–2.5 mm ARP benefit, most pronounced at the coronal buccal aspect; pre-extraction CBCT is recommended for complex (ST3) cases, bone sounding for routine screening.
+
+## 세줄요약
+
+미시간 대학 골유도재생술 (Guided Bone Regeneration, GBR) 팀이 제안한 발치와 유형 (Socket Type, ST) 분류 서술적 고찰: 협측 골 두께·천공·열개 높이를 기준으로 ST1A/B, ST2, ST3A/B/C의 3형 6아류형 분류 및 콜라겐 플러그부터 Ti-mesh/PTFE까지 단계적 치조제 보존술 (Alveolar Ridge Preservation, ARP) 선택 결정 트리 제시.
+
+협측 골 온전성과 두께가 이식재 선택보다 ARP 결과를 더 강하게 예측; 두꺼운 온전 협측골 (ST1A)은 ARP 불필요, 심화 열개 (ST3A→C)는 피판 거상+강화 차폐막 필수.
+
+XV 유럽 치주학 워크숍 2019: ARP 전반 1–2.5 mm 이득, 치조정 협측부 최대; 복잡 증례 (ST3)는 콘빔전산화단층촬영 (Cone-Beam Computed Tomography, CBCT) 권고, 일반 증례는 골탐침 선별 가능.
 
 ## Summary
 

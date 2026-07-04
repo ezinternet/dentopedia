@@ -13,13 +13,21 @@ source_collection: external
 tags: [peri-implant-soft-tissue, digital-impression, IOS, emergence-profile, interim-restoration, scan-body]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical study (n=12 implant sites, 10 patients) showing that peri-implant soft tissue emergence profile discrepancy (EPD) begins immediately after interim restoration removal and grows logarithmically over time, while papilla and gingival margin height remain stable (≤0.27 mm at 20 min).
+Prospective clinical study (n=12 esthetic-zone implant sites, 10 patients) using serial intraoral optical scans from 0 seconds to 20 minutes after interim restoration removal to quantify peri-implant soft tissue collapse kinematics.
 
-## 한줄요약
+Emergence profile discrepancy (EPD) was significant at 0 seconds and grew logarithmically with time (EPD ∝ ln[time]); papilla and gingival margin heights were stable (≤0.27 mm at 20 min); thicker gingiva and deeper implants amplified EPD.
 
-전향적 임상연구(12부위, 환자 10명): 임시보철물(IR) 제거 즉시 출현 윤곽 불일치(EPD)가 발생하고 시간에 따라 대수적으로 증가하며, 유두 높이·치은연 변화는 20분 내 ≤0.27 mm로 임상적으로 미미함.
+The emergence profile cannot be reliably captured after interim restoration removal even momentarily — a customised scan body or interim restoration as scan body is required to preserve the established emergence contour for digital impressions.
+
+## 세줄요약
+
+전향적 임상연구(심미부 12부위, 환자 10명) — 임시보철물 제거 후 0초~20분 간격 연속 구강내 광학 스캔으로 연조직 붕괴 동역학 정량화.
+
+출현 윤곽 불일치(EPD)는 0초에 이미 유의하며 시간에 따라 대수함수적으로 증가(EPD ∝ ln[시간]); 유두·치은연 높이는 20분 내 ≤0.27 mm로 안정; 두꺼운 치은·깊은 임플란트 위치에서 EPD 증폭.
+
+임시보철물 제거 즉시라도 출현 윤곽 포착 불가 — 확립된 출현 윤곽을 디지털 인상으로 보존하려면 맞춤 스캔 바디 또는 임시보철물 자체를 스캔 바디로 활용해야 한다.
 
 ## Summary
 

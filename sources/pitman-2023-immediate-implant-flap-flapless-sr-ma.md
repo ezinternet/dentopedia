@@ -10,7 +10,7 @@ pdf_filename: pitman-2023-immediate-implant-flap-flapless-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (Cosyn 그룹): 단일 즉시식립 시 mucoperiosteal flap vs flapless — 협측 hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
 
 ## 1. Document Information

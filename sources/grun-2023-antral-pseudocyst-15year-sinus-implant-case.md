@@ -14,7 +14,7 @@ source_collection: external
 
 상악동 위낭종(AP)이 sinus augmentation·implant **이전부터 15년 존재**하며 의미 있는 합병증 없이 추적된 case — 결정 트리의 "untreated 옵션도 안전한가" 장기 anchor. [[sinus-lift/pseudocyst/silva-2025-sinus-lift-mrc-drainage-6year]] (6yr)과 함께 longitudinal evidence 보강.
 
-## One-line Summary
+## Three-line Summary
 Case report (Danube Private University, Austria 2023): AP가 sinus floor augmentation 이전부터 존재했고 15년 추적 동안 radiographic feature 변화는 있었으나 implant 안정·sinus health 유지.
 
 ## 1. Document Information

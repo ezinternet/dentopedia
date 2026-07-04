@@ -12,7 +12,7 @@ source_collection: local
 tags: [C-shaped-canal, root-canal-anatomy, cross-sectional-analysis, mandibular-molars, canal-wall-distance, morphology]
 ---
 
-## One-line Summary
+## Three-line Summary
 Cross-sectional morphological analysis of C-shaped root canals in mandibular molars with measurement of minimum distances between canal and external tooth wall.
 
 ## 1. Document Information

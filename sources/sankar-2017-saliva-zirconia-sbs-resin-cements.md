@@ -9,7 +9,7 @@ pdf_filename: sankar-2017-saliva-zirconia-sbs-resin-cements.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Indian J Dent Res 2017: saliva-contaminated zirconia, 4 cleaning protocols × 2 cements — Ivoclean + air abrasion highest SBS; conventional cement lower than self-adhesive MDP cement.
 
 ## 1. Document Information

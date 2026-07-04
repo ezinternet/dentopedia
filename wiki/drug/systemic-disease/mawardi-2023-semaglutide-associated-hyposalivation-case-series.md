@@ -20,13 +20,21 @@ relations:
     target: kim-2023-xerostomia-cellular-targets
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (Medicine 2023, n=3 overweight women on semaglutide ~11 weeks) reporting the first documented semaglutide (GLP-1 agonist)–associated hyposalivation — severe dry mouth, mean modified Schirmer 9 mL/3 min, Sjögren-negative and non-diabetic — reversible on drug discontinuation or manageable with pilocarpine.
+Case series (Medicine 2023, n=3 overweight women, ages 27–46, BMI 35.6, subcutaneous semaglutide 0.5 mg/week for 6–16 weeks) — first documented association between a GLP-1 receptor agonist and hyposalivation; Sjögren-negative, non-diabetic (HbA1c 5.9–6.0).
 
-## 한줄요약
+Mean modified Schirmer test 9 mL/3 min at baseline; onset approximately 4 weeks after starting semaglutide; proposed mechanism: body-water loss (natriuresis/diarrhea) and nasopharyngitis-driven mouth breathing.
 
-세마글루타이드(Semaglutide, Ozempic; GLP-1 수용체작용제)와 연관된 구강건조·타액분비저하(hyposalivation)를 처음 보고한 증례군 (Medicine 2023, 과체중 여성 3명, 평균 11주 사용). 수정 Schirmer 검사 평균 9 mL/3분, 쇼그렌(Sjögren) 음성·비당뇨; 약물 중단 시 가역적이거나 필로카르핀(pilocarpine, 5 mg/day)으로 관리 가능. 진료 시 GLP-1 복용력 문진 필요.
+Outcomes were favorable (drug discontinuation, pilocarpine 5 mg/day, or conservative management all restored acceptable flow); dental clinicians should query GLP-1 agonist use in patients presenting with unexplained xerostomia.
+
+## 세줄요약
+
+증례군(Medicine 2023, 과체중 여성 3명, 연령 27–46세, BMI 35.6, 세마글루타이드 0.5 mg/주 피하주사, 6–16주) — GLP-1 수용체작용제와 연관된 타액분비저하 첫 보고; 쇼그렌 음성, 비당뇨(HbA1c 5.9–6.0).
+
+수정 Schirmer 검사 기저치 평균 9 mL/3분; 세마글루타이드 시작 약 4주 후 발현; 기전 가설: 나트리우뇨/설사로 인한 체내 수분 손실 및 코인두염 유발 구강호흡.
+
+약물 중단(1명, 4주 후 30 mL 회복)·피로카르핀 5 mg/day(1명, 25 mL 회복)·보존적 관리(1명, 27 mL 회복) 모두 수용 가능한 타액분비 회복; 원인불명 구강건조 환자에서 GLP-1 작용제 복용력 문진이 필요하다.
 
 ## Summary
 

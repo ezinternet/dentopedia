@@ -9,7 +9,7 @@ pdf_filename: panda-2018-cbct-incisive-canal-anterior-maxillary.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cross-sectional CBCT study evaluating incisive canal dimensions and anterior maxillary bone thickness, with implications for immediate implant placement risk of canal perforation.
 
 ## 1. Document Information

@@ -20,13 +20,21 @@ relations:
     target: dental-workforce-delegation-skill-mix-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 31 acute-care studies (1390 teams): teamwork process correlates with clinical performance at r=0.28 (≈OR 2.8, medium effect), robust across team composition, size, task type, and patient realism (moderators non-significant).
+First quantitative SR+MA of teamwork-process → clinical-performance in acute healthcare (k=31 studies, N=1390 teams; surgery, anaesthesia, emergency, obstetrics, neonatal/ICU; PubMed, no date limit through Jun 2018; random-effects REML).
 
-## 한줄요약
+Weighted mean correlation r=0.28 (95% CI 0.20–0.35), translating to OR≈2.8 (medium effect); a six-moderator omnibus test was non-significant (QM=0.18, p>0.20) — the effect held regardless of team composition, size, task type, familiarity, or real vs simulated patients.
 
-급성기 의료팀 31편(1390팀) 체계적 문헌고찰·메타분석 — 팀워크(협동·비기술적 술기)와 임상 성과의 상관 r=0.28(≈OR 2.8, 중간 크기 효과), 팀 구성·크기·과제 유형·환자 현실성에 관계없이 일관(조절변수 모두 비유의).
+For dental practice: the context-robust null moderator test argues teamwork matters in routine outpatient care, not only acute crises — supporting team communication training beyond emergency-only scenarios; the estimate is extrapolated from acute care and not a dental-specific value.
+
+## 세줄요약
+
+급성기 의료팀 대상 팀워크-임상성과 관계 최초 정량 SR+MA(k=31, N=1390팀; 외과·마취·응급·산과·신생아중환자; PubMed 2018년 6월까지; 무작위효과 REML).
+
+가중평균 상관 r=0.28(95% CI 0.20–0.35), OR≈2.8(중간 효과); 6개 조절변수 통합검정 비유의(QM=0.18, p>0.20) — 팀 구성·크기·과제 유형·친숙도·환자 현실성과 무관하게 일관된 효과.
+
+치과 적용: 조절변수 비유의 결과는 팀워크 효과가 응급 상황에만 국한되지 않음을 시사 — 일상 외래진료에서도 팀 커뮤니케이션 교육이 정당화됨; 단, 이 수치는 급성기 의료 외삽이므로 치과 고유 추정값이 아님을 유의.
 
 ## Summary
 

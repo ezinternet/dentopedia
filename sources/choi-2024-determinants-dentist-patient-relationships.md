@@ -13,13 +13,21 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]]가 커뮤니케이션 "스킬"을 26개로 분해했다면, 본 scoping review(서울대, Int Dent J 2024)는 한 단계 위 — 의사-환자 관계(DPR) 전체의 결정요인을 6개 domain으로 지도화. 우리 클리닉 communication 카테고리의 상위 개념 프레임. "communication·trust·dental anxiety"가 핵심 determinant로 도출돼 anxiety·communication 하위 카테고리를 잇는 허브.
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (JBI method; 1,727 records → 16 articles) of dentist–patient relationship (DPR) determinants — factors grouped into 6 domains (dentist, patient, society/environment, clinical structure, clinical process, outcome); "communication" was the most frequent determinant (8×), then "trust" (6×), with patient-level "dental fear/anxiety" commonly used to measure DPR.
+Scoping review (JBI methodology; 6 databases, July 2023; 1,727 records → 16 articles) mapping the determinants of the dentist–patient relationship (DPR) across a 6-domain conceptual model (dentist, patient, society/environment, clinical structure, clinical process, outcome).
 
-## 한줄요약
+"Communication" was the most frequently identified determinant (n=8 articles), followed by "trust" (n=6); the clinical-process domain contained the most determinants; 14/16 articles took the patient perspective; dental fear/anxiety was the most common patient-level DPR measure.
 
-의사-환자 관계(DPR) 결정요인 scoping review(JBI, 1,727건 → 16편) — 요인을 6개 domain(치과의사·환자·사회환경·임상구조·임상과정·결과)으로 분류. 가장 빈번한 결정요인은 "커뮤니케이션"(8회), 다음 "신뢰"(6회), 환자 수준에서는 "치과 공포/불안"이 DPR 측정에 자주 사용.
+The scoping review establishes a conceptual DPR framework but does not appraise effect sizes; no validated DPR evaluation scale exists, and the small included set (16 articles) with heterogeneous designs limits transferability.
+
+## 세줄요약
+
+JBI 방법론 기반 scoping review(6개 DB, 2023.07; 1,727건 → 16편): 치과의사-환자 관계(Dentist-Patient Relationship, DPR) 결정요인을 6개 domain(치과의사·환자·사회환경·임상구조·임상과정·결과) 개념 모델로 지도화.
+
+가장 빈번한 결정요인: "커뮤니케이션"(8편) > "신뢰"(6편); 임상과정 domain에 결정요인 가장 많음; 16편 중 14편이 환자 관점; 치과 공포/불안이 환자 수준 DPR 측정 지표로 가장 자주 사용.
+
+이 scoping review는 개념적 DPR 프레임워크를 구축하나 효과 크기 평가는 하지 않으며, 포함 논문 수 소규모(16편)·이질적 설계·검증된 DPR 평가도구 미존재 등의 한계가 있음.
 
 ## 1. Document Information
 - Journal: International Dental Journal 2024 (FDI World Dental Federation), open access CC BY-NC-ND

@@ -13,13 +13,21 @@ source_collection: external
 tags: [digital-workflow, intraoral-scanner, emergence-profile, peri-implant, soft-tissue, CAD-CAM, STL, provisional-restoration, esthetic-zone]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Short communication (Monaco 2016) introducing the Fully Digital Technique (FDT): two IOS scans — scanbody + provisional restoration (in situ then subgingival) — are superimposed via best-fit algorithm to create a merged STL encoding implant position and peri-implant mucosal architecture, enabling fully digital customized CAD/CAM abutment fabrication without conventional impressions.
+Short communication (Clin Oral Implants Res 2016, University of Bologna, single anterior maxillary implant case) introducing the Fully Digital Technique (FDT): two IOS scans (scanbody in situ for implant position, and provisional removed immediately out-of-mouth for subgingival emergence capture) are superimposed via best-fit algorithm to produce a single merged STL3 file.
 
-## 한줄요약
+STL3 encodes both implant platform position and the full peri-implant mucosal architecture conditioned by the provisional, enabling customized CAD/CAM abutment design and SLA model fabrication without conventional polyvinylsiloxane impressions; proof-of-concept was achieved with no comparative accuracy data reported.
 
-Monaco (2016): 구강 내 스캐너로 스캔바디(STL1)와 임시 수복물(STL2, 구강 내 + 구강 외 치은연하 스캔) 두 장의 STL을 중첩해 임플란트 위치와 임플란트 주위 점막 형태를 하나의 파일(STL3)로 통합하는 FDT(완전 디지털 기법)를 소개; 기존 인상 없이 맞춤형 CAD/CAM 지대주 제작 가능.
+The FDT was the first description of the two-scan + STL superimposition workflow for soft tissue capture, applicable to any esthetic-zone single-tooth implant case where a provisional has conditioned peri-implant mucosa; clinical validation with quantitative accuracy data is still needed.
+
+## 세줄요약
+
+단신 통신 (Clin Oral Implants Res 2016, 볼로냐대, 상악 전치부 단일 임플란트 증례): 완전 디지털 기법(FDT) 최초 소개 — 스캔바디 구강 내 스캔(임플란트 위치)과 즉시 구강 외 임시수복물 스캔(치은연하 형태 포착)을 최적합 알고리즘으로 중첩해 단일 STL3 파일 생성.
+
+STL3는 임플란트 플랫폼 위치와 임시수복물이 형성한 임플란트 주위 점막 전체 형태를 인코딩해 기존 폴리비닐실록산 인상 없이 맞춤형 CAD/CAM 지대주 설계 및 SLA 모델 제작 가능; 개념 증명 달성, 정량적 정확도 데이터는 미보고.
+
+FDT는 연조직 포착을 위한 2회 스캔 + STL 중첩 워크플로우의 최초 기술로, 임시수복물이 점막을 형성한 모든 심미 구역 단일치 임플란트 증례에 적용 가능하나 임상 검증과 정량적 정확도 데이터가 여전히 필요하다.
 
 ## Summary
 

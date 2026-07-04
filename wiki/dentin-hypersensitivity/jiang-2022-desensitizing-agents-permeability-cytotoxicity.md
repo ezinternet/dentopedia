@@ -18,11 +18,19 @@ relations:
     target: scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast
 ---
 
-## One-line Summary
-In vitro study (n=6/group) showing GLUMA reduces dentin permeability and occludes tubules only in the presence of simulated dentinal fluid (2% BSA) but is cytotoxic, whereas an NaF/fumed-silica gel is biocompatible yet rebounds in permeability after artificial-saliva immersion.
+## Three-line Summary
+In vitro dentin-permeability and transdentinal cytotoxicity study (n=6/group) comparing GLUMA (glutaraldehyde/HEMA) and an NaF/fumed-silica remineralizing gel (RD gel) in human dentin discs.
 
-## 한줄요약
-In vitro: GLUMA는 모의 치수액 존재 시에만 효과적이고 세포독성 있음; NaF/흄드실리카 겔은 생체적합하나 인공타액 후 투과도 반등.
+GLUMA reduced permeability and occluded tubules only when 2% BSA (dentinal fluid simulant) was present, and significantly reduced odontoblast-like cell viability (cytotoxic); RD gel was non-cytotoxic but its permeability reduction partially rebounded after 24 h in artificial saliva.
+
+GLUMA's efficacy is dentinal-fluid–dependent and carries pulpal cytotoxicity risk; RD gel is safer but provides incomplete short-term remineralization — both caveats are clinically relevant when choosing in-office desensitizers.
+
+## 세줄요약
+In vitro(n=6/군): GLUMA(글루타르알데히드/HEMA)와 NaF/흄드실리카 재광화 겔(RD겔)을 인간 상아질 디스크로 투과도·세포독성 비교.
+
+GLUMA는 2% BSA 존재 시에만 세관 폐쇄 및 투과도 감소 효과; 오도노블라스트 유사세포 생존율 유의하게 감소(세포독성). RD겔은 세포독성 없으나 인공타액 24시간 후 투과도 부분 반등.
+
+GLUMA는 치수액 존재 의존성·세포독성 주의 필요; RD겔은 안전하나 단기 재광화 불완전 — 임상에서 탈감작제 선택 시 두 가지 한계 모두 고려해야 함.
 
 ## Summary
 This bench study paired dentin-permeability measurement with a dentin-barrier cytotoxicity model to separate desensitizing efficacy from pulpal safety. GLUMA (glutaraldehyde/HEMA) only occluded tubules and cut permeability when a protein-containing perfusate (2% BSA) mimicked dentinal fluid — its mechanism depends on protein precipitation — and it significantly reduced viability of cells beneath the dentin disc. A remineralizing/desensitizing gel (NaF + fumed silica) occluded tubules and was non-cytotoxic, but its permeability reduction partially rebounded after 24 h in artificial saliva, indicating incomplete short-term remineralization. The work cautions that GLUMA's pulpal cytotoxicity must be weighed against its fluid-dependent efficacy.

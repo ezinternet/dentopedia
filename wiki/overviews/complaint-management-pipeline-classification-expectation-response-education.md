@@ -42,11 +42,21 @@ tags: [overview, complaint-management, patient-experience, dental]
 > - 수술적 치과의 반복 책임 근거(Park 2016): 감염 즉시 배양·치료, 적시 의뢰, 감염관리 기록, **명시적 술전 동의** — 감염위험 동의 누락은 독립적으로 책임 성립.
 > - 미해결: 치과 특이적 HCAT validation 부재, CODE의 대조군 효과 데이터 부재, 한국어 민원 감성분석 모델 부재, 대응 protocol이 해결률을 바꾼다는 RCT 근거 부재.
 
-## One-line Summary
-A four-stage pipeline — classify the complaint, understand what the complainant expects, respond without defensiveness, and train staff to do so — that turns scattered patient-complaint research into an operational complaint system, with a dental applied layer.
+## Three-line Summary
 
-## 한줄요약
-환자 민원을 (1) 분류하고 (2) 민원인이 무엇을 기대하는지 파악하고 (3) 방어적이지 않게 대응하며 (4) 그 역량을 교육으로 정착시키는 4단계 파이프라인. 일반 healthcare 근거 + 치과 적용층으로 구성.
+Synthesis of 20 papers organizing patient-complaint research into a four-stage operational pipeline: classification (Reader 2014 SR, 88,069 complaints: clinical 33.7% / management 35.1% / relationship 29.1%; HCAT 7-category instrument) → expectation (complainants want recurrence prevention and honest explanation first; money only 7%, Friele 2006) → response (defensiveness is structural, not individual, Gillespie 2025; fauxpology and subjectivising are the failure modes) → education (CODE model: operational + interpersonal training in parallel, Elias 2025).
+
+Dental applied layer shows dentists carry the highest complaint rate (42.7/1,000/year, Thomas 2018), endodontics the highest malpractice exposure, and Korean covenant-not-to-sue agreements are legally binding in only 26.5% of cases (Kwon 2017).
+
+Clinical bottom line: the strongest lever a clinic controls is the response-and-training layer; structured complaint classification converts complaints into safety signals (60% of complaints show greater harm than staff noticed, Van Dael 2022), and rubber-dam use plus accurate records is simultaneously clinical safety and legal defense.
+
+## 세줄요약
+
+20편 종합: 환자 민원을 분류(Reader 2014 SR 88,069건 — 임상 33.7%·관리 35.1%·관계 29.1%; HCAT 7범주) → 기대 파악(민원인은 재발방지·정직한 설명 우선, 금전 7%뿐, Friele 2006) → 대응(방어성은 구조적 문제, "fauxpology"·주관화가 실패 패턴, Gillespie 2025) → 교육(CODE 모델: 운영·대인 훈련 병행, Elias 2025)의 4단계 파이프라인.
+
+치과 적용층: 치과의사 민원율 최고(42.7/1,000/년, Thomas 2018), 근관치료 의료과실 노출 최대; 한국 부제소 합의는 26.5%만 후속 소송 차단(Kwon 2017).
+
+임상 결론: 대응·교육층이 클리닉이 통제할 수 있는 가장 강한 lever — 분류는 민원을 안전사건 신호로 전환하고(불만의 60%에서 더 큰 위해 확인, Van Dael 2022), 러버댐·기록 충실도는 임상 안전이자 법적 방어다.
 
 ## Thesis
 Patient complaints are not noise to be deflected but a structured information source for safety and quality. The evidence converges on a single actionable claim: dissatisfaction persists less because of the original clinical error than because of *how the complaint is classified, what the complainant actually wanted, and how the response is worded*. The strongest lever a clinic controls is therefore the response-and-training layer, supported by a structured classification habit. This overview organises twenty papers into the pipeline **classification → expectation → response → education**, then adds a **dental applied** layer (epidemiology, medico-legal, procedural risk) and a **litigation** tail (settlement validity, infection liability, national claim trends).

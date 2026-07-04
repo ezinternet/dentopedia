@@ -9,7 +9,7 @@ pdf_filename: ionescu-2022-open-healing-flapless-ridge-preservation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Biology 2022;11:142: n=104 patients, 135 teeth, flapless open-healing (DBBM + collagen membrane, purposely exposed) — implant survival 98.5%, success 94.8% at 5 years; CBCT confirms 3D ridge preservation; minimally invasive.
 
 ## 1. Key Results

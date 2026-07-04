@@ -33,13 +33,21 @@ tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dys
 > - 임상 결정점 5 — **NSPT(비외과적 치주치료)의 미생물학적 효과가 115편 SR+MA로 정량 확인**: Pg·Td·Tf·Aa 등 병원균 평균 개수가 3–6개월에 유의 감소, 지지치료(SPC) 추가 시 Pg·Td 추가 감소(Krajewski 2025) — Socransky red/orange complex가 치료 후 감소하고 blue/white complex가 늘어나는 방향의 실측 근거.
 > - 임상 결정점 6 — **미생물총 기반 치료(probiotics/postbiotics/포식세균/박테리오파지/OMT)**가 항생제를 대체할 생태학적 개입으로 부상 중이나 대부분 초기 단계: S. salivarius K12/M18은 chlorhexidine과 유사한 치은염 개선 효과, Bdellovibrio는 그람음성균만 표적, 박테리오파지는 근관치료에서 항생제 10종보다 우수한 사례도 있으나 인체 치주 RCT는 아직 없음(Salah 2025).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 15 oral-microbiology reviews (anchored on Socransky 1998 community-complex and Costerton 1999 biofilm paradigms) framing both caries and periodontitis as community dysbiosis across three axes — EPS/matrixome matrix (glucan-driven acidic microenvironment, pH 4.5–5.5), microbial ecology (health=generalist → disease=specialist), and pathogenesis (periodontitis as P. gingivalis keystone-driven polymicrobial synergy & dysbiosis [PSD]; caries as a sucrose-EPS feedforward loop) — implying the rational intervention points are the matrix, inter-species signaling, and dietary sugar rather than antibiotic targeting.
+Synthesis of 15 oral-microbiology review papers (anchored on Socransky 1998 community-complex and Costerton 1999 biofilm paradigms) framing caries and periodontitis as community dysbiosis across three axes: EPS/matrixome matrix (glucan-driven acidic microenvironment, pH 4.5–5.5, with >2 h buffering resistance); microbial ecology (~1,000 oral species, ~50 per site, health=generalist → disease=specialist); and pathogenesis (periodontitis = P. gingivalis keystone-driven Polymicrobial Synergy & Dysbiosis [PSD] despite <0.01% abundance; caries = sucrose-EPS feedforward loop amplified by intraspecies S. mutans diversity and Candida interactions).
 
-## 한줄요약
+NSPT (non-surgical periodontal therapy) provides measurable microbiome-level efficacy — red/orange complex pathogens (P. gingivalis, T. denticola, T. forsythia, A. actinomycetemcomitans) decline significantly 3–6 months post-SRP, with additional reduction under supportive periodontal care (Krajewski 2025 SR+MA, 115 studies); emerging microbiome-based therapies (probiotics, bacteriophage, predatory bacteria Bdellovibrio) show early promise but lack human periodontal RCTs.
 
-구강 미생물·바이오필름 review 15편 통합 (Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 두 historical foundation 포함). 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름의 핵심 virulence이며 국소 산성 미세환경(pH 4.5–5.5)을 만든다. ②생태(microbiome): ~1,000종 중 site당 ~50종, 건강=generalist·질환=specialist. ③병인(dysbiosis): 치주염은 keystone pathogen(P. gingivalis, <0.01%)이 주도하는 PSD 모델, caries는 sucrose-EPS feedforward loop — 둘 다 '단일 종 감염'이 아닌 군집 dysbiosis. 임상 함의: 항생제 표적이 아니라 매트릭스·종간 신호·식이당 차단이 합리적 개입점.
+The rational intervention targets are the EPS matrix, inter-species signaling, and dietary sugar — not antibiotic monotherapy (biofilm matrix creates diffusion barriers conferring phenotypic antibiotic tolerance); mechanical disruption of biofilm is the primary clinical tool, with antibiotics as adjuncts.
+
+## 세줄요약
+
+구강 미생물·바이오필름 review 15편 통합(Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 2개 historical foundation 포함): 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름 핵심 virulence, 국소 산성 미세환경(pH 4.5–5.5) 2시간 이상 지속; ②생태(microbiome): ~1,000종·부위당 ~50종, 건강=generalist·질환=specialist; ③병인(dysbiosis): 치주염은 keystone pathogen P. gingivalis(<0.01%)가 주도하는 PSD 모델, caries는 sucrose-EPS feedforward loop — 둘 다 군집 dysbiosis.
+
+비외과적 치주치료(Non-Surgical Periodontal Therapy, NSPT)는 미생물 수준 효과 실증 — SRP 후 3–6개월에 red/orange complex 병원균 유의 감소, 지지치주치료(Supportive Periodontal Care, SPC) 시 추가 감소(Krajewski 2025 SR+MA, 115편); 미생물총 기반 치료(probiotics/포식세균/박테리오파지)는 초기 단계.
+
+합리적 개입점은 항생제 표적이 아니라 EPS 매트릭스·종간 신호·식이당 차단 — 바이오필름 매트릭스가 확산 장벽으로 항생제 표현형 내성을 부여하므로 기계적 파괴가 1차이고 항생제는 보조이다.
 
 ## Summary
 

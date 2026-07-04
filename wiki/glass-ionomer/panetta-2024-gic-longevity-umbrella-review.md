@@ -13,11 +13,21 @@ source_collection: external
 tags: [gic, rmgic, compomer, longevity, umbrella-review]
 ---
 
-## One-line Summary
-Umbrella review of 13 systematic reviews (J Funct Biomater 2024) evaluating GIC longevity as a restorative material in primary and permanent teeth, with notable methodological-quality caveats.
+## Three-line Summary
 
-## 한줄요약
-SR 13편 우산 리뷰 — 유치·영구치 GIC 수복재 longevity 평가, 단 방법론적 품질 한계 명시.
+Umbrella review of 13 systematic reviews (J Funct Biomater 2024; MedLine/PubMed, WoS, Scopus) evaluating GIC (including RMGIC and compomers) longevity in primary and permanent teeth across 6-month to 6-year follow-ups.
+
+None of the included SRs satisfied all AMSTAR-2 criteria and none had an a priori design; 7/13 SRs achieved low risk of bias on ROBIS, reflecting heterogeneous and methodologically limited underlying evidence.
+
+GIC longevity evidence is insufficient to draw definitive conclusions; future higher-quality RCTs with standardized reporting are needed before strong clinical recommendations can be made.
+
+## 세줄요약
+
+우산 리뷰 (J Funct Biomater 2024; 체계적 문헌 13편, 추적기간 6개월–6년): 유치·영구치에서 GIC·RMGIC·컴포머의 임상 수명을 평가했다.
+
+포함된 SR 중 AMSTAR-2 전 기준을 충족한 연구는 없었고, 사전 설계 SR도 없었으며, 13편 중 7편만 ROBIS 저비뚤림 평가를 받았다.
+
+GIC 수명 근거는 방법론적 한계로 인해 결론적 권고를 내리기 어려우며, 표준화된 보고 기준이 갖춰진 고질적 RCT가 필요하다.
 
 ## Summary
 This umbrella review searched MedLine/PubMed, Web of Science, and Scopus, including systematic reviews of clinical trials evaluating GIC longevity/clinical performance in primary and/or permanent teeth (excluding enamel alterations, root caries, NCCLs). Of 24 eligible articles, 13 were included; follow-up ranged 6 months to 6 years. GIC types covered RMGIC, compomers, and low-/high-viscosity GIC, with several reviews comparing GIC to amalgam and composite. AMSTAR-2 showed none of the included reviews met all criteria and none had an a priori design; ROBIS rated seven at low risk of bias.

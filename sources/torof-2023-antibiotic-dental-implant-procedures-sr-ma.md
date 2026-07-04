@@ -10,7 +10,7 @@ pdf_filename: torof-2023-antibiotic-dental-implant-procedures-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (Univ Wolverhampton, Medicina 2023, PRISMA-P/PROSPERO): 임플란트 식립 시 항생제 사용 — 술후 감염 예방 효과 정량; preoperative 단일 amoxicillin 2g가 표준 권고로 자리잡음.
 
 ## 1. Document Information

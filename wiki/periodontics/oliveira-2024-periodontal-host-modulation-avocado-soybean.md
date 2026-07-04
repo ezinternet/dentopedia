@@ -21,13 +21,21 @@ relations:
     target: kim-2024-magnoliae-cortex-zea-mays-extracts
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (rat ligature periodontitis + experimental arthritis, n=60): adjunctive avocado/soybean unsaponifiables (ASU, 0.6 mg/kg gavage) after scaling reduced periodontal bone loss and improved the healing pattern, blunting the worse outcomes seen in arthritic animals.
+Controlled rat experiment (ligature-induced periodontitis + experimental arthritis; n=60, 4 groups, euthanasia at 7/15/30 days post-scaling) testing avocado/soybean unsaponifiables (ASU, 0.6 mg/kg/day by gavage) as an adjunctive host-modulation therapy after mechanical debridement.
 
-## 한줄요약
+Arthritic animals given saline alone (AR-S) showed greatest bone loss, fewest fibroblasts, most inflammatory cells, and greatest osteoclastogenesis; adjunctive ASU improved healing pattern and reduced periodontal bone loss in arthritic animals, blunting the systemic disease-driven worsening.
 
-동물실험(쥐 결찰 치주염 + 실험적 관절염, n=60): 스케일링 후 보조 ASU(아보카도/대두 불검화물, 0.6 mg/kg 위관투여)가 치주 골소실을 줄이고 치유 양상을 개선했으며, 관절염 동물에서 악화된 결과를 완화함.
+ASU (Piascledine), the avocado/soybean unsaponifiable counterpart to the Korean OTC compound 인사돌's Zea mays unsaponifiable, provides preclinical evidence that unsaponifiable host-modulation adjuncts after scaling can reduce bone loss especially in systemically compromised patients — though abstract-only ingestion limits quantitative extraction.
+
+## 세줄요약
+
+대조군 동물실험 (결찰-유발 치주염 + 실험적 관절염; n=60, 4군, 스케일링 후 7/15/30일 안락사): 기계적 처치 후 보조 숙주조절요법으로 아보카도/대두 불검화물(ASU, 0.6 mg/kg/일 위관투여) 평가.
+
+생리식염수만 투여한 관절염 군(AR-S)이 최대 골소실·최소 섬유아세포·최다 염증세포·최대 파골세포 형성 보임; ASU 보조 투여는 관절염 동물에서 치유 양상 개선 및 골소실 감소.
+
+ASU(Piascledine)는 한국 OTC 인사돌의 활성 성분 Zea mays 불검화물의 국제 유사 화합물로, 전신 질환 동반 환자에서 스케일링 후 불검화물 계열 숙주조절제가 골소실을 줄일 수 있다는 전임상 근거를 제공 — 다만 초록만 수집돼 정량적 수치 확인 불가.
 
 ## Summary
 

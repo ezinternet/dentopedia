@@ -18,13 +18,21 @@ relations:
     target: rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (GMS Hyg Infect Control 2025; PubMed/Scopus/Cochrane, 2020–2024 RCT/cohort/case-control; no meta-analysis due to heterogeneity) of intracanal medications for periapical-abscess infection control and healing: calcium hydroxide gives strong microbial reduction (~99.5%) and lowers IL-1β/TNF-α, triple antibiotic paste + diclofenac (TAPC) and nano-formulations (nano-Ag, nano-CH) give superior 48-h pain relief, Ledermix is fastest for acute apical periodontitis pain, and CBCT-monitored nonsurgical treatment of large lesions reaches ~76% healing.
+Systematic review (PubMed/Scopus/Cochrane, 2020–2024; RCT/cohort/case-control; no meta-analysis) of intracanal medications for periapical-abscess infection control and healing across three goals: microbial reduction, pain relief, and radiographic healing.
 
-## 한줄요약
+Calcium hydroxide achieved ~99.5% microbial reduction and lowered IL-1β/TNF-α; TAPC (TAP + diclofenac) and nano-formulations (nano-Ag, nano-CH) provided superior pain relief within 48–72 h; Ledermix was fastest for acute apical periodontitis pain; CBCT-monitored nonsurgical treatment of large lesions reached ~76% healing.
 
-치근단 농양 감염 제어·치유를 위한 근관 내 약제 체계적 고찰(2020–2024 RCT/코호트/환자대조, 이질성으로 메타분석 미시행) — 수산화칼슘은 미생물 ~99.5% 감소 및 IL-1β/TNF-α 저하, 삼중항생제+디클로페낙(TAPC)과 나노 제형(나노은·나노CH)은 48시간 통증 완화에서 우수, Ledermix는 급성 치근단 치주염 통증에 가장 빠르며, CBCT로 모니터링한 큰 병소의 비수술 치료는 ~76% 치유율을 보였다.
+Clinicians should match medication choice to the primary clinical goal (rapid analgesia vs durable disinfection), and stewardship concerns limit routine local antibiotic use where an antiseptic of comparable efficacy exists.
+
+## 세줄요약
+
+치근단 농양(Periapical Abscess) 감염 제어·치유를 위한 근관 내 약제 체계적 고찰(2020–2024 RCT/코호트/환자대조군, 이질성으로 메타분석 미시행) — 미생물 감소, 통증 완화, 방사선학적 치유 세 가지 목표 비교.
+
+수산화칼슘(Calcium Hydroxide, CH)은 ~99.5% 미생물 감소·IL-1β/TNF-α 저하; 삼중항생제+디클로페낙(TAPC) 및 나노 제형(나노은·나노CH)은 48~72시간 통증 완화 우수; Ledermix는 급성 치근단 치주염 통증 완화 가장 빠름; 비수술 큰 병소 CBCT 모니터링 치유율 ~76%.
+
+임상 목표(속효성 진통 vs 지속 살균)에 맞게 약제를 선택해야 하며, 동등 효과의 방부제가 있을 때 국소 항생제 일상 사용은 항생제 관리(Antimicrobial Stewardship) 원칙상 제한됨.
 
 ## Summary
 

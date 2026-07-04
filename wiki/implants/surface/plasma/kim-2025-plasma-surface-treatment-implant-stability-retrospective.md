@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, human, retrospective, ISQ, stability-dip, chairside, subgroup]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-arm cohort (73 plasma-treated implants in 47 patients): chairside NTAP before placement was associated with progressive ISQ rise (78.97±5.52 → 83.74±4.36 at week 8, p<0.001) and no stability dip; gains greatest in low-initial-stability, mandibular, shorter, and higher-torque implants.
+Retrospective single-arm cohort study (47 patients, 73 implants; ACTILINK Reborn NTAP, June 2023–October 2024): ISQ monitored at baseline and weekly through week 4 plus week 8 after chairside non-thermal plasma applied immediately before placement.
 
-## 한줄요약
+ISQ rose progressively from 78.97±5.52 at baseline to 83.74±4.36 at week 8 (p<0.001) with no stability dip observed; subgroup analysis showed the greatest gains in implants with low initial stability, mandibular placement, shorter fixtures, and higher insertion torque.
 
-후향 단일군 코호트(47명, 73 임플란트): 식립 직전 chairside 비열 플라즈마 후 ISQ 78.97±5.52→83.74±4.36(8주, p<0.001)·stability dip 없음; 저ISQ·하악·짧은 fixture·높은 토크에서 이득 최대.
+Without a control arm the absence of a stability dip cannot be causally attributed to plasma — this study is hypothesis-generating for the subgroup gradient and complements but does not replace the controlled RCT evidence.
+
+## 세줄요약
+
+줄1: 후향 단일군 코호트(47명, 73 임플란트; ACTILINK Reborn NTAP, 2023년 6월–2024년 10월): 식립 직전 chairside NTAP 후 baseline~4주 매주+8주 ISQ 추적.
+
+줄2: ISQ 78.97±5.52→83.74±4.36(8주, p<0.001), stability dip 없음; 하위군 분석에서 초기 저ISQ·하악·짧은 fixture·높은 식입토크에서 이득 최대.
+
+줄3: 대조군 없어 stability dip 부재를 플라즈마 효과로 인과 귀속 불가 — 하위군 기울기 가설 생성적이며 대조 RCT 근거를 대체하지 못함.
 
 ## Summary
 

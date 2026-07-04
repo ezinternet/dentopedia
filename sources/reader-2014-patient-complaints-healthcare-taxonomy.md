@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 This is the foundational classification layer of the complaint-management pipeline (분류→기대→대응→교육). It defines the three-domain taxonomy (clinical / management / relationship) that [[complaint-management/bmjqs-2015-004596]] (HCAT) operationalises into a coded instrument, anchoring how a dental clinic can categorise the complaints it receives.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review of 59 studies (88,069 complaints) that synthesises 205 codes into a 7-category, 3-domain patient-complaint taxonomy.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 체계적 문헌고찰(59편·민원 88,069건)로, 환자 민원을 7범주·3도메인(임상/관리/관계)으로 정리한 분류 택사노미 정립.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMJ Quality & Safety 2014;23(8):678-689. Published Online First 29 May 2014.

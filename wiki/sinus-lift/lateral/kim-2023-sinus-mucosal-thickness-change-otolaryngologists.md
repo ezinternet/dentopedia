@@ -18,13 +18,21 @@ relations:
     target: lee-2020-msmt-mod-ratio-sinus-augmentation-risk
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=9) of ENT-assessed patients with preoperative maxillary sinus mucosal thickening found no significant MSMT change post-implantation across three treatment groups (sinus augmentation, bone grafting, no grafting; p > 0.05), with zero postoperative sinusitis.
+Retrospective single-center study (n=9 patients, Catholic University of Korea, 2019–2022) of ENT-assessed patients with preoperative maxillary sinus mucosal thickening (MSMT), tracking MSMT and MSMT/MOD ratio at baseline and ~7 months post-implantation across three treatment groups (sinus augmentation, bone grafting, no grafting, n=3 each).
 
-## 한줄요약
+MSMT did not significantly change post-treatment in any group (4.3→4.5 mm overall, p>0.05); MSMT/MOD ratio also unchanged (0.13→0.15, p>0.05); zero postoperative sinusitis despite multiple anatomical variants in most patients (Haller cells 4/9, paradoxical turbinate 4/9).
 
-이비인후과 평가를 거친 술전 상악동점막비후 환자 9명에서 상악동 거상·골이식·무이식 세 군 모두 술후 MSMT가 유의하게 변하지 않았고 (p > 0.05), 술후 부비동염 발생은 없었다.
+ENT-cleared patients with preoperative mucosal thickening can safely undergo implant-related maxillary sinus surgery; multidisciplinary ENT-dental collaboration is the safe pathway for borderline sinus cases.
+
+## 세줄요약
+
+단일기관 후향 연구 (n=9명, 가톨릭대학교, 2019–2022): 이비인후과 평가를 거친 술전 상악동점막두께 (Maxillary Sinus Mucosal Thickness, MSMT) 비후 환자를 상악동거상·골이식·무이식 3군에서 기저치와 ~7개월 후 비교.
+
+치료 후 MSMT 변화 없음 (4.3→4.5 mm, p>0.05); MSMT/자연공-동저 거리 (MOD) 비율도 0.13→0.15로 불변 (p>0.05); 해부학적 변이 다수 존재에도 술후 부비동염 0건.
+
+이비인후과 사전 평가를 통과한 환자는 점막비후가 있어도 안전하게 상악동 관련 임플란트 수술 가능; 이비인후과-치과 다학제 협진이 경계성 증례의 안전 경로임.
 
 ## Summary
 

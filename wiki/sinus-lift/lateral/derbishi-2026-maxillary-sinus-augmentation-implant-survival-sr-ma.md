@@ -16,11 +16,21 @@ relations:
     target: toledano-2022-short-versus-standard-implants-sinus
 ---
 
-## One-line Summary
-SR+MA concluding maxillary sinus floor augmentation yields long-term implant survival exceeding 97%; the crestal approach showed fewer failures but likely confounded by patient selection, with low overall certainty.
+## Three-line Summary
 
-## 한줄요약
-SR+MA — 상악동거상술 장기 임플란트 생존율 97% 초과; crestal의 낮은 실패율은 환자 선택 교란, 근거 확실성 낮음.
+SR+MA of implant survival after maxillary sinus floor augmentation, comparing crestal vs lateral window approaches across multiple studies.
+
+Long-term implant survival exceeded 97%; the crestal approach recorded fewer failures than lateral window, but the authors explicitly attribute this to patient selection bias rather than technique superiority.
+
+Overall certainty of evidence was graded low, making this a reliability benchmark rather than a definitive technique comparison.
+
+## 세줄요약
+
+상악동거상술 후 임플란트 생존율을 crestal·측방창 접근별로 비교한 SR+MA.
+
+장기 임플란트 생존율 97% 초과; crestal군의 낮은 실패율은 잔존 골량이 많은 환자 선택 편향으로 기술되어 기법 우위 근거 아님.
+
+근거 확실성이 낮아 절대적 생존율 벤치마크로만 활용하며 crestal 대 측방창 기법 선택의 결론으로 삼기 어려움.
 
 ## Summary
 This meta-analysis establishes the survival baseline against which the short-implant alternative is judged: implants placed at sinus-augmented sites survive at greater than 97% long-term. The crestal approach recorded fewer failures than the lateral window, but the authors explicitly attribute this to patient selection (crestal cases tend to have more residual bone) rather than technique superiority, and grade the overall certainty of evidence as low. The page is best used as a reliability benchmark, not as evidence that crestal beats lateral.

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 41 dental implant trials: industry-sponsored studies reported ~5× lower annual failure rates (OR 0.21, 95% CI 0.12–0.38) than non-industry-sponsored trials after controlling for publication age, and 63% of trials never disclosed their funding source.
+Systematic review (41 analyzable trials extracted from 5 dental implant SRs, MEDLINE/Cochrane 1993–2008) — the first study to examine sponsorship bias in dental implant clinical research using quasi-Poisson regression controlling for publication age.
 
-## 한줄요약
+Industry-associated trials reported annual failure rates ~5× lower than non-industry trials (OR 0.21, 95% CI 0.12–0.38); trials with unknown funding also reported lower failure (OR 0.33, 95% CI 0.21–0.51); mean annual failure rate across all trials was 1.09% vs 2.73% in non-industry trials.
 
-임플란트 임상시험 41개 체계적 고찰: 업계 후원(industry-associated) 연구의 연간 실패율이 비후원 연구보다 약 5배 낮게 보고(OR 0.21)되었고, 전체의 63%는 후원자를 공개하지 않음 — 임플란트 연구의 후원 편향(sponsorship bias) 첫 정량적 입증.
+63% of trials never disclosed their funding source and 66% had high methodological bias risk — inflated implant success rates from sponsorship bias may lead to unnecessary tooth extraction decisions.
+
+## 세줄요약
+
+체계적 고찰(41개 임상시험, 임플란트 SR 5편 추출; MEDLINE/Cochrane 1993–2008) — 치과 임플란트 연구의 후원 편향(Sponsorship Bias)을 준-푸아송 회귀(Quasi-Poisson Regression)로 정량화한 최초 연구.
+
+업계 후원(Industry-associated) 연구의 연간 실패율(Annual Failure Rate, AFR)이 비후원 연구 대비 약 5배 낮게 보고(OR 0.21, 95% CI 0.12–0.38); 후원자 미공개(Unknown Funding) 연구도 낮은 실패율(OR 0.33); 전체 평균 AFR 1.09% vs 비후원 2.73%.
+
+전체의 63%가 후원자 비공개, 66%가 방법론적 비뚤림 고위험 — 부풀려진 임플란트 성공률이 치아 발치 결정에 영향을 줄 수 있음.
 
 ## Summary
 

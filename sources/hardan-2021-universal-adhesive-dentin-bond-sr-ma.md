@@ -9,7 +9,7 @@ pdf_filename: hardan-2021-universal-adhesive-dentin-bond-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Meta-analysis of 61 in vitro studies identifies 10 strategies that improve universal adhesive bond strength to dentin (MMP inhibitors, prolonged application, scrubbing, selective enamel etching, plasma, ethanol-wet bonding, prolonged blowing, multiple layers, prolonged curing, hydrophobic overlay) and 2 that impair it (shortened application time, dentin desensitizers).
 
 ## 1. Document Information

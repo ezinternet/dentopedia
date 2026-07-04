@@ -14,13 +14,21 @@ source_collection: external
 tags: [immediate-implant, buccal-gap, buccal-plate, bone-grafting, jumping-distance]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CE narrative review (Greenstein & Cavallaro 2013) synthesizing animal and human data to provide 14 clinical guidelines for buccal gap management in immediate implant placement, with a key < 2 mm vs. ≥ 2 mm grafting threshold.
+CE narrative review (Greenstein & Cavallaro 2013) synthesizing animal and human experimental data on buccal gap management (jumping distance) in immediate implant placement, producing 14 evidence-based clinical guidelines.
 
-## 한줄요약
+Key threshold: gaps <2 mm heal spontaneously; gaps ≥2 mm require grafting with DBBM; buccal plate <1–2 mm warrants hard-tissue augmentation; buccally positioned implants show ~1.8 mm recession vs ~0.6 mm for palatally placed implants.
 
-즉시식립 후 협측 갭(buccal gap) 관리에 관한 CE 서술 리뷰(2013)로, 2 mm 임계값 기반 골이식 결정·임플란트 위치·협측판 보존 등 14가지 임상 지침을 제시한다.
+Clinical implication: implant positioning (2 mm from buccal plate, 1 mm subcrestal) is more important than graft selection; DBBM reduces horizontal resorption by ~25% but does not prevent crestal bone loss.
+
+## 세줄요약
+
+CE 서술 문헌고찰 (Greenstein & Cavallaro 2013) — 동물·인체 데이터 종합으로 즉시식립 시 협측 갭(buccal gap, jumping distance) 관리에 관한 14가지 임상 지침 제시.
+
+핵심 임계값: 갭 <2 mm 자연 치유; ≥2 mm DBBM 이식 필요; 협측 골판 <1–2 mm 경조직 증대 권고; 협측 식립 시 퇴축 ~1.8 mm vs 구개측 식립 ~0.6 mm.
+
+임상 적용: 이식재 선택보다 임플란트 위치 선정이 더 중요(협측판에서 2 mm 이격, 1 mm 하방 식립); DBBM은 수평 흡수 ~25% 감소하나 치조정 골소실은 예방 불가.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: salari-2021-maxillary-sinus-pathologic-findings-cbct-implant.txt
 
 임플란트 수술 전 CBCT에서 상악동 병변의 유병률을 체계적으로 분류한 cross-sectional 연구. 상악동 점막비후가 임플란트 후보 환자의 31.4%에서 발견되며 가장 흔한 병변임을 확인. [[sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence]]의 대규모 연구와 짝을 이룸.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (n=140 implant candidates) found 63.5% had maxillary sinus pathologies; mucosal thickening (31.4%) was most prevalent, followed by retention cysts (17.1%), with no significant association with age, sex, or dentition status.
 
-## 한줄요약
+Cross-sectional CBCT study (n=140 implant candidates) found 63.5% had maxillary sinus pathologies;
+
+mucosal thickening (31.4%) was most prevalent, followed by retention cysts (17.1%), with no significant association with age, sex, or dentition status.
+
+(incomplete)
+
+## 세줄요약
+
 
 임플란트 후보 환자 140명 CBCT 분석: 63.5%에서 상악동 병변, 점막비후(31.4%)가 가장 흔하고 연령·성별·치아 상태와 유의한 연관 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

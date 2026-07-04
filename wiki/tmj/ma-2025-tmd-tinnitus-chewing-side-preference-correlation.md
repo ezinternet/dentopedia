@@ -18,13 +18,21 @@ relations:
 tags: [tinnitus, chewing-side-preference, tmj-pain, disc-displacement]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=285 TMD patients) finding chewing-side preference is significantly more common in TMD patients with tinnitus (90.7% vs 76.0%, χ²=4.613, P<0.05), tinnitus side is ipsilateral to the habitual chewing side (χ²=7.282, P<0.05), and tinnitus correlates with TMJ-area pain (93.0% vs 73.6%) — but not with clicking, limited opening, or disc-displacement type.
+Retrospective cross-sectional study (n=285 TMD patients; tinnitus n=43, non-tinnitus n=242) at a single Chinese PLA General Hospital center using CBCT, TMJ MRI, and a 2-minute gum-chewing test to assess chewing-side preference.
 
-## 한줄요약
+Chewing-side preference was significantly more prevalent in TMD patients with tinnitus (90.7% vs 76.0%, χ²=4.613, P<0.05), tinnitus side was ipsilateral to the habitual chewing side (χ²=7.282, P<0.05), and only TMJ-area pain correlated with tinnitus — not clicking, limited opening, or disc-displacement type.
 
-TMD 환자 285명 횡단연구: 이명 동반 TMD에서 편측저작이 유의하게 많고(90.7% vs 76.0%), 이명 발생측이 습관적 저작측과 같은 쪽이며(同側性), 이명은 관절통과 상관 — 관절잡음·개구제한·관절원판 변위 유형과는 무관.
+In patients with unexplained tinnitus and TMD, clinicians should evaluate habitual chewing-side preference and TMJ-area pain as part of the workup, though the small tinnitus subgroup (n=43) and retrospective design limit causal inference.
+
+## 세줄요약
+
+단일기관 후향적 횡단연구(n=285 TMD 환자; 이명군 n=43, 비이명군 n=242): CBCT·MRI·껌씹기 테스트로 편측저작 습관 평가.
+
+이명 동반 TMD에서 편측저작(편측저작 습관, chewing-side preference, CSP) 빈도 유의하게 높고(90.7% vs 76.0%, P<0.05), 이명 발생측이 습관적 저작측과 同側性(χ²=7.282, P<0.05); 관절통만 이명과 상관 — 관절잡음·개구제한·관절원판 변위(disc displacement, DD)와 무관.
+
+원인불명 이명(tinnitus) 환자에서 편측저작 습관과 턱관절(temporomandibular joint, TMJ) 통증 여부를 평가할 것; 단, 이명군 n=43·후향적 설계로 인과관계 확정 불가.
 
 ## Summary
 

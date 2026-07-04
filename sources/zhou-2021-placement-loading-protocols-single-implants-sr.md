@@ -10,7 +10,7 @@ pdf_filename: zhou-2021-placement-loading-protocols-single-implants-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR (45 publications: 13 RCT + 21 prospective + 11 retrospective): site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
 
 ## 1. Document Information

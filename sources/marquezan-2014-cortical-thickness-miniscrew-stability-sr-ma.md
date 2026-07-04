@@ -13,13 +13,23 @@ source_collection: external
 
 미니스크류 일차안정성의 cortical thickness 의존성을 SR+MA로 확정하기 위해 인제스트. 동일 그룹의 BMD 연구([[orthodontics/marquezan-2012-bmd-primary-stability-miniscrews]])를 thickness 축으로 확장하고, 임플란트 측 [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] 와 cross-domain으로 일관된 cortical thickness 메커니즘을 형성.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (12 studies) finding a positive association between orthodontic miniscrew primary stability and cortical thickness (pooled r=0.409 for primary-stability studies; r=0.338 in human studies).
 
-## 한줄요약
+Systematic review + meta-analysis (12 studies) finding a positive association between orthodontic miniscrew primary stability and cortical thickness (pooled r=0.409 for primary-stability studies;
+
+r=0.338 in human studies).
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰+메타분석(12편) — 미니스크류 일차안정성과 cortical thickness 간 양의 상관(일차안정성 연구 묶음 r=0.409, 인간 연구 r=0.338).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Angle Orthodontist 2014;84(6):1093–1103.

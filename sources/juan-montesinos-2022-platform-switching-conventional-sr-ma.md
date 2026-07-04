@@ -9,7 +9,7 @@ pdf_filename: juan-montesinos-2022-platform-switching-conventional-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA(9편, PS 475 vs 일반 462 임플란트): PS에서 변연골 소실 0.255 mm 유의하게 적음; 탐침 깊이는 PS에서 0.082 mm 증가(유의차 없음)
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct.txt
 
 RCT (Kim 2025, n=60) that uses the **toothpick method (TPM)** of professional toothbrushing as the mechanical delivery vehicle for a natural Cibotium barometz (CB) extract to treat peri-implant mucositis — the first study to combine TPM with a natural anti-inflammatory agent against PIM-related bacteria, extending the toothpick method into peri-implant maintenance. Reinforces [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] (mucositis management = primary prevention of peri-implantitis, plaque removal central) and offers a natural-agent counterpoint to the chlorhexidine/probiotic adjuncts reviewed in [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]].
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=60: CB-TPM 21 / chlorhexidine-TPM 20 / saline-TPM 19), all delivered by the toothpick method — only CB-TPM reduced salivary occult blood (Cohen's d = 1.148) and uniquely produced large-effect (d >= 0.8) reductions in P. micra, T. forsythia, and P. intermedia, positioning natural CB extract + TPM as a side-effect-free non-surgical option for peri-implant mucositis.
 
-## 한줄요약
+Double-blind RCT (n=60: CB-TPM 21 / chlorhexidine-TPM 20 / saline-TPM 19), all delivered by the toothpick method — only CB-TPM reduced salivary occult blood (Cohen's d = 1.148) and uniquely produced large-effect (d >= 0.8) reductions in P.
 
-이중맹검 RCT(n=60: CB-TPM 21 / 클로르헥시딘-TPM 20 / 생리식염수-TPM 19) — 세 군 모두 토스픽 방법(TPM)으로 전달했을 때, CB-TPM만 타액 잠혈을 감소(Cohen's d=1.148)시켰고 P. micra·T. forsythia·P. intermedia에서 단독으로 큰 효과(d>=0.8) 감소를 보여, 천연 CB 추출물+TPM이 부작용 없는 비수술적 임플란트주위 점막염 옵션임을 제시.
+micra, T.
+
+forsythia, and P. intermedia, positioning natural CB extract + TPM as a side-effect-free non-surgical option for peri-implant mucositis.
+
+## 세줄요약
+
+
+이중맹검 RCT(n=60: CB-TPM 21 / 클로르헥시딘-TPM 20 / 생리식염수-TPM 19) — 세 군 모두 토스픽 방법(TPM)으로 전달했을 때, CB-TPM만 타액 잠혈을 감소(Cohen's d=1.148)시켰고 P.
+
+micra·T.
+
+forsythia·P. intermedia에서 단독으로 큰 효과(d>=0.8) 감소를 보여, 천연 CB 추출물+TPM이 부작용 없는 비수술적 임플란트주위 점막염 옵션임을 제시.
 
 ## 1. Document Information
 

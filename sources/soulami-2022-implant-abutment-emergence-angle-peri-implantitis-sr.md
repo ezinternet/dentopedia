@@ -13,13 +13,23 @@ source_collection: external
 
 Adds the prosthetic-design risk axis (emergence angle/profile) to the peri-implantitis evidence base summarised in [[wiki/overviews/peri-implantitis-management-overview]], complementing prosthetic-design work such as [[wiki/implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] with a focused SR on emergence angle (EA) >30° and convex emergence profile (EP).
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (3 studies, 168–349 implants): a larger implant-abutment emergence angle (>30°) and a convex emergence profile are associated with higher peri-implantitis prevalence / marginal bone loss vs EA <30°, but with only 3 eligible studies causality is unproven and findings must be read with caution.
 
-## 한줄요약
+(incomplete)
 
-체계적 문헌고찰(3편, 임플란트 168–349개): 큰 임플란트-지대주 출현각(>30°)과 볼록한 출현윤곽(convex EP)이 작은 각(<30°)보다 임플란트주위염 유병률·변연골소실과 연관. 단 3편뿐이라 인과성은 미확립, 신중 해석 필요.
+(incomplete)
+
+## 세줄요약
+
+
+체계적 문헌고찰(3편, 임플란트 168–349개): 큰 임플란트-지대주 출현각(>30°)과 볼록한 출현윤곽(convex EP)이 작은 각(<30°)보다 임플란트주위염 유병률·변연골소실과 연관.
+
+단 3편뿐이라 인과성은 미확립, 신중 해석 필요.
+
+(incomplete)
 
 ## 1. Document Information
 

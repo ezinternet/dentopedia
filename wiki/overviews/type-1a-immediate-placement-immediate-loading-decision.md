@@ -28,12 +28,21 @@ relations:
 > - 의사결정 알고리즘: CBCT 평가 → BBT<1mm/얇은 생체형이면 Type 1B(즉시+지연부하) 또는 Type 2A로 downgrade → 1차 안정성 <25 Ncm이면 Type 2A 또는 중단 → 한 조건이라도 빠지면 downgrade.
 > - 한계 [claude해석]: 구치부 Type 1A evidence 얇음, ≥10년 RCT 부족, PES 측정자 간 변동 큼, selection criteria 교호작용 미평가, 아시아(한국·일본) cohort 적어 생체형·골질 차이로 일반화 불확실.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 12 wiki entries, anchored on the ITI 2023 consensus (Hamilton SR+MA), into a staged decision algorithm for Type 1A (immediate placement + immediate loading). It quantifies the selection bundle — facial gap ≥2 mm, absence of endodontic infection, thick biotype, intact buccal plate (BBT ≥1 mm), primary stability ≥35 Ncm / ISQ ≥70, atraumatic extraction — under which Type 1A yields ~97% 5-year survival and acceptable midfacial-recession risk, mostly in the maxillary anterior single-tooth site. If any criterion is unmet the algorithm downgrades to Type 1B (immediate + delayed loading) or Type 2A; large buccal defects (≥5 mm) remain feasible with concurrent GBR (Meijer 2024 10-yr RCT), with molar and long-term (≥10-yr) evidence still thin.
+Synthesis of 12 wiki entries centered on the ITI 2023 consensus (Hamilton 2023 SR+MA, n=3,118 screened) into a staged decision algorithm for Type 1A (immediate placement + immediate loading): the quantified selection bundle requires facial gap ≥2 mm (+3.1 PP survival, p=0.04), absence of endodontic infection (+2.6 PP, p=0.004), thick biotype, intact buccal plate BBT ≥1 mm, primary stability ≥35 Ncm / ISQ ≥70, and atraumatic extraction.
 
-## 한줄요약
-ITI 2023 consensus (Hamilton SR+MA) 중심으로 12편을 정리 — Type 1A (즉시식립 + 즉시부하)의 적응증 정량화: facial gap ≥2 mm·근관 감염 부재·thick biotype·intact buccal plate (BBT ≥1 mm)·1차 안정성 ≥35 Ncm 충족 시 5년 생존율 ≥97%·midfacial recession 위험 허용 범위; 한 조건이라도 빠지면 Type 1B/2A로 downgrade하는 단계 의사결정 알고리즘.
+When the full bundle is met, Type 1A yields ~97.1% 5-year survival, −0.32 mm 1-year MBL, and PES ~7.2/10 (Wittneben 2023 SR); thin buccal walls (≤1 mm) risk ~7.5 mm vertical bone loss at 8 weeks (Chappuis 2013); buccal shoulder position triples midfacial recession (1.8 vs 0.6 mm; Evans 2008); large defects (≥5 mm) remain feasible with concurrent GBR + deferred provisionalization at 10 years (Meijer 2024 RCT, n=40).
+
+If any criterion is unmet → downgrade to Type 1B (immediate + delayed loading) or Type 2A (early, 4–8 weeks); evidence base is concentrated in the maxillary anterior single-tooth site; molar Type 1A evidence rests on one RCT (Botros 2025, n=30, atraumatic flapless guided surgery, 100% survival); long-term (≥10-year) multicenter RCT data remain the key gap.
+
+## 세줄요약
+
+ITI 2023 consensus(Hamilton SR+MA) 중심으로 12편 종합 — Type 1A(즉시식립+즉시부하) 적응증 정량화: facial gap ≥2 mm·근관 감염 부재·thick biotype·intact buccal plate(BBT ≥1 mm)·1차 안정성 ≥35 Ncm 충족 시 5년 생존율 ≥97%·midfacial recession 위험 허용 범위.
+
+Hamilton 2023 SR+MA 정량 효과: facial gap ≥2 mm +3.1 pp(p=0.04), 근관 감염 부재 +2.6 pp(p=0.004); 얇은 협측 골판(≤1 mm)은 8주 수직 골소실 7.5 mm vs 두꺼운 골판 1.1 mm(Chappuis 2013); 협측 결손 ≥5 mm도 GBR 동반 시 가능(Meijer 2024 10년 RCT).
+
+한 조건이라도 빠지면 Type 1B(즉시+지연부하) 또는 Type 2A로 downgrade하는 단계 알고리즘; 데이터는 상악 전치부 단일치 위주이며 구치부 및 ≥10년 장기 근거는 아직 얇다.
 
 ## Scope
 이 종합 페이지는 즉시식립 + 즉시부하 (ITI Type 1A) 적응증을 결정하기 위한 wiki 페이지 12편을 묶는다. 이 12편은 (1) ITI consensus·정량 SR+MA 4편, (2) 장기 prospective/RCT 3편, (3) esthetic risk 페이지 5편으로 구성된다.

@@ -9,7 +9,7 @@ pdf_filename: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Funct Biomater 2026: SR (5 RCTs): β-TCP alone variable results (worse than xenograft in some); β-TCP in combination = comparable to DBBM; evidence limited and heterogeneous; role of β-TCP in ARP remains provisional.
 
 ## 1. Key Results

@@ -19,13 +19,19 @@ relations:
     target: chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
+Abstract-only multicentre split-mouth RCT (105 children, 210 teeth; each child received both crown types) comparing zirconia crowns vs stainless steel crowns (SSC) in primary molars over 2 years.
 
-Abstract-only multicentre split-mouth RCT (105 children, 210 teeth): zirconia crowns and stainless steel crowns had comparable 2-year success (RR 0.99, 95% CI 0.96–1.01; p=0.350) in primary molars, but zirconia retention was lower (RR 0.95, 95% CI 0.92–0.98; p=0.001); ~2/3 of parents preferred zirconia.
+2-year success was comparable (RR 0.99, 95% CI 0.96–1.01; p=0.350); zirconia retention was significantly lower (RR 0.95, 95% CI 0.92–0.98; p=0.001); approximately two-thirds of parents preferred zirconia for esthetics.
 
-## 한줄요약
+Choose zirconia when esthetics and parental preference dominate and cementation conditions are optimal, accepting a modest retention disadvantage; SSC remains the more retentive default.
 
-abstract-only 다기관 split-mouth RCT(105명, 210치): 유구치에서 지르코니아 크라운과 SSC의 2년 성공률 동등(RR 0.99, 95% CI 0.96–1.01; p=0.350)이나 지르코니아 유지력은 낮음(RR 0.95, 0.92–0.98; p=0.001); 부모 약 2/3가 지르코니아 선호.
+## 세줄요약
+abstract-only 다기관 split-mouth RCT (105명, 210치; 아동 1인이 두 종류 모두 수복): 유구치에서 지르코니아 크라운(ZC) vs 기성금속관(SSC) 2년 비교.
+
+2년 성공률 동등(RR 0.99, 95% CI 0.96–1.01; p=0.350); ZC 유지력 유의 낮음(RR 0.95, 0.92–0.98; p=0.001); 부모 약 2/3가 심미성으로 ZC 선호.
+
+심미성·부모 선호가 우선 시 ZC를 선택하되 소폭 유지력 열위를 감수; SSC는 유지력 기준 기본 선택지로 유지된다.
 
 ## Summary
 

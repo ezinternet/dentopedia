@@ -13,13 +13,23 @@ source_collection: external
 
 literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립. SR+MA [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] 의 결론(펄포토미가 펄펙토미 대안 가능)을 narrative 종합·가이드라인 개정 촉구로 확장.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review with structured search (7 clinical studies + 2 meta-analyses): pulpotomy for primary teeth clinically diagnosed with irreversible pulpitis achieved 95–100% clinical and 90–100% radiographic success at 6–12 months using calcium silicate cements, supporting it as a minimally invasive alternative to pulpectomy and calling for international guideline revision.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구조적 문헌검색 기반 narrative review(임상 7편 + 메타분석 2편): 비가역성 치수염으로 진단된 유치에 칼슘 규산염 시멘트 펄포토미 시 6–12개월 임상 성공 95–100%·방사선 90–100% — 펄펙토미의 minimally invasive 대안으로 지지하며 국제 가이드라인 개정을 촉구.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

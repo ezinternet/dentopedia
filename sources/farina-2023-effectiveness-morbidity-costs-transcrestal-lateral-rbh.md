@@ -17,13 +17,23 @@ text_filename: farina-2023-effectiveness-morbidity-costs-transcrestal-lateral-rb
 
 PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 RCT 재분석. 기존 [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]]가 전체 코호트의 morbidity를 비교했다면, 본 재분석은 동일 RCT를 **잔존골 높이(RBH) <4 mm vs ≥4 mm로 층화**해 술식 선택을 RBH 기준으로 구체화한다 — RBH≥4 mm에서는 tSFE가 chair time·비용·이환율 모두 우월, RBH<4 mm에서는 tSFE 초기 통증↑·lSFE 멍/비용↑로 trade-off가 역전된다. 방금 추가한 [[sinus-lift/transcrestal/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]](RBH 4–6 mm graftless 비교)의 결정 축을 <4 mm 구간으로 확장한다. PMC 전문 미제공 — abstract-only.
 
-## One-line Summary
+## Three-line Summary
+
 
 Re-analysis of a parallel-arm RCT (ITT 29 tSFE vs 28 lSFE) stratified by residual bone height: both techniques reach median 100% implant-surface bone contact, but at RBH ≥4 mm tSFE wins on chair time, cost, and morbidity, whereas at RBH <4 mm tSFE causes more early pain while lSFE causes more bruising and higher cost.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 평행-군 RCT 재분석(ITT tSFE 29 vs lSFE 28), 잔존골(RBH) 층화 — 양 술식 모두 임플란트면 골접촉 중앙값 100%, RBH≥4 mm에선 tSFE가 시술시간·비용·이환율 우월, RBH<4 mm에선 tSFE 초기 통증↑·lSFE 멍/비용↑로 trade-off.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

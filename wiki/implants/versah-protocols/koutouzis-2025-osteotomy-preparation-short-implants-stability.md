@@ -20,13 +20,21 @@ relations:
     target: mercier-2022-osseodensification-primary-stability-cadavers
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (90 short 6mm implants, porcine tibia): OD significantly increased insertion torque only for wide (5.4mm) implants (50.0 vs 28.0 Ncm, p=0.005); narrow (4.2mm) showed no IT advantage; histomorphometry unchanged.
+Animal study (90 Astra Tech EV short 6mm implants, porcine tibia cancellous bone, 9 groups: 3 diameters × 3 preparation techniques) testing whether osseodensification (OD) insertion torque benefit depends on implant diameter.
 
-## 한줄요약
+OD significantly increased insertion torque only for wide 5.4mm implants (50.0 vs 28.0 Ncm, p=0.005); narrow 4.2mm implants showed no IT advantage with OD; osteotome technique achieved similar IT to OD for wide implants; histomorphometry was unchanged across all groups.
 
-동물 연구(돼지 경골, 6mm 임플란트 90개): OD는 광폭(5.4mm) 임플란트에서만 유의하게 높은 삽입 토크(50.0 vs 28.0 Ncm, p=0.005)를 보였고, 세폭(4.2mm)에서는 이점 없었으며 조직계측적 차이도 없었다.
+When choosing OD for short implants in low-density sites, wider diameter (≥5.4mm) may be required to realize the insertion torque benefit — simply applying OD to narrow short implants does not guarantee improved stability.
+
+## 세줄요약
+
+동물 연구 (Astra Tech EV 6mm 단경 임플란트 90개, 돼지 경골 해면골, 9군: 직경 3종 × 준비 기법 3종): 골밀도화 (Osseodensification, OD) 삽입 토크 이점이 임플란트 직경에 의존하는지 검증.
+
+OD는 광폭(5.4mm) 임플란트에서만 삽입 토크 (Insertion Torque, IT) 유의하게 증가(50.0 vs 28.0 Ncm, p=0.005); 세폭(4.2mm)에서는 OD의 IT 이점 없음; 골삭제기(osteotome) 기법도 광폭에서 OD와 유사한 IT 달성; 조직계측적 차이 없음.
+
+저밀도 부위의 단경 임플란트에 OD를 적용할 때 삽입 토크 이점을 실현하려면 광폭(≥5.4mm)이 필요할 수 있음 — 세폭 단경 임플란트에 OD를 단순 적용하는 것만으로는 안정성 개선이 보장되지 않는다.
 
 ## Summary
 

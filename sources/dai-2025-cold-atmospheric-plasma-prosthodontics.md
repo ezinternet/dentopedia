@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)의 최신(2025) 광범위 리뷰이자 상위 개념틀. CAP를 ① dentin bonding ② 항균 ③ 임플란트 표면개질 세 응용으로 묶어, 배치 내 개별 1차연구·SR을 오버뷰로 엮을 상위 맥락 제공. [[wiki/implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review]]의 2020 implantology 리뷰를 확장.
 
-## One-line Summary
+## Three-line Summary
 
-Review (J Dent 2025; 4-database search, 154 publications) of cold atmospheric pressure plasma (CAP) in prosthodontics across three applications: dentin bonding (enhanced resin monomer penetration/polymerization), antibacterial action (ROS/RNS inactivating bacteria and biofilm), and implant surface modification (improved surface properties, osseointegration, lower infection, soft-tissue healing).
+Review (J Dent 2025; 4-database search, 154 publications) synthesizing cold atmospheric pressure plasma (CAP) applications in prosthodontics across three domains: dentin bonding, antibacterial action, and implant surface modification.
 
-## 한줄요약
+CAP enhances resin monomer penetration and polymerization (bonding axis), inactivates oral bacteria and biofilm via ROS/RNS (antibacterial axis), and improves surface wettability, osseointegration, and soft-tissue healing while lowering infection risk (implant axis); no pooled quantitative estimates were provided.
 
-리뷰(J Dent 2025; 4개 DB, 154편): 저온대기압플라즈마(CAP)의 보철치과 응용을 ① 상아질 접착(레진 단량체 침투·중합↑) ② 항균(ROS/RNS로 세균·바이오필름 불활성화) ③ 임플란트 표면개질(표면물성·골유착↑·감염↓·연조직치유↑) 세 축으로 정리.
+Clinicians should regard CAP as a promising multi-application adjunct in prosthodontics, but clinical protocols remain unsettled and further RCTs are needed before routine adoption.
+
+## 세줄요약
+
+리뷰(J Dent 2025; 4개 DB, 154편): 저온대기압플라즈마(CAP, Cold Atmospheric Plasma)의 보철치과 응용을 ① 상아질 접착(레진 단량체 침투·중합↑) ② 항균(ROS/RNS로 세균·바이오필름 불활성화) ③ 임플란트 표면개질(표면물성·골유착↑·감염↓·연조직치유↑) 세 축으로 정리.
+
+각 축의 전임상·임상 근거(154편)를 종합하였으나 메타분석은 없어 정량적 합산 추정치는 제시되지 않았다.
+
+임상적으로 CAP는 다목적 보조 치료 옵션으로 유망하나, 표준화된 임상 프로토콜이 미확립 상태이므로 일상 도입 전 추가 RCT가 필요하다.
 
 ## 1. Document Information
 

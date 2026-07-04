@@ -9,7 +9,7 @@ pdf_filename: feller-2015-periodontal-ligament-bone-orthodontic-forces.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 교정력 적용 시 치주인대(PDL)와 치조골에서 발생하는 생물학적 사건 고찰.
 
 ## 1. Document Information

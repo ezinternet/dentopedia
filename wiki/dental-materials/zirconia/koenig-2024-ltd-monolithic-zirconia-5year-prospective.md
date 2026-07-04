@@ -16,13 +16,21 @@ relations:
     target: koenig-2021-ltd-monolithic-zirconia-prospective
 ---
 
-## One-line Summary
+## Three-line Summary
 
-5-year prospective follow-up of Koenig 2021 cohort (n=101): LTD significantly increases from baseline to 5 years in 3Y-TZP monolithic zirconia; grain pull-out raises 3Y-TZP nanoparticle release concern; fracture rate 4.5%; glazing still non-protective.
+5-year prospective follow-up (Koenig 2021 same cohort, n=101 posterior 3Y-TZP monolithic zirconia, Raman + FIB-SEM): LTD progression was statistically significant from baseline to 5 years, with transformation confined to the extreme surface in non-uniform clusters.
 
-## 한줄요약
+Tribological grain pull-out in occlusal areas raises a new concern about sub-micron 3Y-TZP nanoparticle release into the body; the prosthesis fracture rate was 4.5% at 5 years, though the LTD–fracture link was not established; glazing remained non-protective.
 
-Koenig 2021 동일 코호트 5년 추적: 3Y-TZP 모놀리식 지르코니아의 LTD가 5년 동안 통계적으로 유의하게 진행되고, 그레인 탈락으로 나노입자 유출 우려 제기, 파절률 4.5%.
+The slow kinetics and sub-ISO-threshold monoclinic-phase levels suggest 3Y-TZP is clinically serviceable at 5 years, but the nanoparticle biocompatibility question warrants dedicated toxicological research.
+
+## 세줄요약
+
+Koenig 2021 동일 코호트 5년 추적(n=101, 3Y-TZP 모놀리식 지르코니아, 라만+FIB-SEM): 기저선 → 5년 LTD 통계적으로 유의하게 진행, 단사정 상변환이 최표면에 국한·비균일 분포.
+
+교합면의 마찰성 그레인 탈락(Grain Pull-out)으로 3Y-TZP 나노입자 체내 유출 가능성 새롭게 제기; 5년 파절률 4.5%(LTD와의 인과관계 미확정); 유약 여전히 보호 효과 없음.
+
+LTD 진행 느리고 ISO 25% 임계값 미도달 — 5년 임상 사용 가능성 시사, 단 나노입자 생체적합성 추가 독성 연구 필요.
 
 ## Summary
 

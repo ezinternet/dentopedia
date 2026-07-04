@@ -31,13 +31,21 @@ relations:
 > - 축 4 — 시멘트: 표준 단관(abutment ≥4mm)은 자가접착(TheraCem·RelyX U200) 합리적, 짧은 abutment(<4mm)·인레이/온레이는 adhesive resin(Panavia V5)+primer 필수. Abutment 높이-유지력 r=0.95(Soleimani 2026)가 임계값.
 > - 확신도: 축 1·2·3 = 근거강함(SR+MA·big data 다수), 축 4 = 합의수준(대부분 in vitro, 임상 RCT 부족). 본 세션 zirconia-inlay-bonding 인터랙티브의 학술 backbone.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/decision-ladder page that decomposes dental restorative/prosthetic material decisions into four axes — (1) zirconia bonding (APC protocol: air-abrade, prime, cement; saliva-contamination cleaning), (2) CAD/CAM all-ceramic crowns/FPDs vs PFM, (3) posterior amalgam vs composite, and (4) self-adhesive vs adhesive resin cement selection — each with a spine paper and clinical threshold. Built from SR+MA plus recent in-vitro SBS/µSBS data; serves as the academic backbone of the session's zirconia-inlay-bonding interactive.
+Synthesis/decision-ladder page decomposing dental material decisions into 4 axes: (1) zirconia bonding APC protocol — air-abrasion (50 µm Al₂O₃, 1-2 bar) → Ivoclean after try-in contamination (SBS 9.3 MPa vs IPA alone 3.04 MPa, Genc 2025) → MDP-containing primer → MDP/self-adhesive cement; 5Y-PSZ retains MDP reactivity — cubic phase is not a bonding weakness (Comba 2021); (2) CAD/CAM all-ceramic single crowns are clinically equivalent to PFM for survival and show OR 16.88 advantage for esthetic complications (Aswal 2023 SR+MA, 13 studies / 1,598 restorations).
 
-## 한줄요약
+(3) Posterior amalgam vs composite: the survival gap has narrowed — big-data HR 1.32 annual failure rate 3.5% vs 4.5% (Tobias 2024, n>650,000); SR+MA shows no statistically significant difference (RR 0.96, Al-Sulimman 2025); polished monolithic zirconia causes less enamel wear than glazed zirconia or feldspathic porcelain (Aljomard 2022 SR+MA / Shah 2024 umbrella); (4) cement selection: self-adhesive cement is appropriate for standard abutments (height ≥4 mm); adhesive resin cement + primer is required for short abutments (<4 mm), inlays, and onlays; abutment height–retention correlation r=0.95 (Soleimani 2026 in-vitro).
 
-치과재료 4축 (지르코니아 접착·CAD/CAM vs PFM·아말감 vs 복합레진·시멘트 선택)의 결정 ladder. SR+MA + 최근 in vitro 정량 데이터(SBS·µSBS) 통합. 본 세션 zirconia-inlay-bonding 인터랙티브의 spine.
+Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity outweigh material choice as outcome determinants for composites vs amalgam; post-cementation occlusal adjustment of zirconia must be followed by re-polishing (not re-glazing); confidence is high (SR+MA + big data) for axes 1–3, consensus level (mostly in-vitro) for axis 4 cement selection.
+
+## 세줄요약
+
+4축 결정 ladder: (1) 지르코니아 접착 APC — air-abrasion → Ivoclean(시적 오염 시, SBS 9.3 vs IPA 3.04 MPa, Genc 2025) → MDP primer → MDP/자가접착 시멘트; 5Y-PSZ도 MDP 반응성 유지(Comba 2021); (2) CAD/CAM 전부도재 단관은 PFM과 생존율 동등, 심미 합병증 OR 16.88로 우위(Aswal 2023 SR+MA).
+
+(3) 아말감 vs 복합레진: 격차 좁혀짐 — big data 연간 실패율 3.5% vs 4.5%, HR 1.32(Tobias 2024, n>650,000), SR+MA 통계적 차이 없음(RR 0.96); 폴리싱 단일체 지르코니아는 유약 처리·장석질 도재보다 법랑질 마모 적음; (4) 시멘트: 표준 abutment(≥4mm)는 자가접착 합리적, 짧은 abutment(<4mm)·인레이/온레이는 adhesive resin + primer 필수.
+
+임상 결론: 레진 vs 아말감은 재료보다 술자 기술·격리·접착 충실도가 결과를 더 결정; 지르코니아 교합 조정 후 반드시 재폴리싱; 축 1~3 근거 강함(SR+MA+big data), 축 4 합의수준(주로 in-vitro).
 
 ## Summary
 

@@ -15,13 +15,21 @@ text_filename: park-2024-surgical-drainage-simultaneous-sinus-floor.txt
 tags: [ostium, sinus-drainage, chronic-sinusitis, MSFA, Korean]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=2) showing that intentional intraoral surgical drainage (large lateral window + deliberate Schneiderian membrane incision) performed simultaneously with MSFA and implant placement resolved chronic maxillary sinusitis — including ostium blockage — without FESS, with 100% implant survival and sinus clearance at 1 year.
+Case report (n=2 male smokers, ages 55 and 59) with complete unilateral maxillary sinus opacification and chronic maxillary sinusitis (CMS) refractory to 2-week antibiotics who refused FESS.
 
-## 한줄요약
+Intentional Schneiderian membrane incision (upper-third, #15 blade) during lateral-window MSFA enabled thorough surgical drainage and saline irrigation; simultaneous xenograft and SLA implant placement achieved 100% implant survival and complete sinus clearance at 1 year in both cases.
 
-FESS를 거부한 만성 상악동염 환자 2명에서 측방창 MSFA 도중 의도적 슈나이더막 절개를 통한 구강내 배액을 동시 시행하여 1년 추적에서 임플란트 100% 생존율과 상악동 병변 소실을 보고한 증례 보고.
+This technique offers an intraoral-only alternative to FESS for mild CMS when the patient refuses ENT surgery; the long incision (vs prior needle puncture) allows suction in all directions, and graft placement is covered by a Prichard elevator over the perforation without membrane repair.
+
+## 세줄요약
+
+증례보고 (n=2, 남성 흡연자 55·59세): 항생제 2주 내성 완전 단측 상악동 혼탁 만성 상악동염 (Chronic Maxillary Sinusitis, CMS) — 기능적 내시경 부비동 수술 (Functional Endoscopic Sinus Surgery, FESS) 거부.
+
+측방창 상악동거상술 (Maxillary Sinus Floor Augmentation, MSFA) 도중 슈나이더 막 (Schneiderian Membrane) 상부 1/3 의도적 절개 (#15 날) → 철저한 흡인 배액 + 생리식염수 세척; 이식재·SLA 임플란트 동시 식립 → 1년 추적 임플란트 생존율 100%, 상악동 병변 완전 소실.
+
+FESS 거부 경증 CMS에서 구강내 배액 단독 대안; 장형 절개가 전방향 흡인 가능; 천공부는 Prichard 거상기로 커버하여 막 수복 없이 이식재 충전.
 
 ## Summary
 

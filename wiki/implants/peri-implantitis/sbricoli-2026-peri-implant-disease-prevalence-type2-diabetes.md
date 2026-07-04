@@ -24,13 +24,21 @@ relations:
     target: lin-2025-influence-of-prosthetic-designs
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-center cross-sectional study (70 subjects, 227 implants; 35 T2DM vs 35 non-DM) found no statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) — but the study was underpowered and a 83–94% history-of-periodontitis baseline likely masked any T2DM effect.
+Single-center cross-sectional study (70 subjects, 227 implants; 35 T2DM vs 35 non-DM) using EFP S3 diagnostic criteria to compare peri-implant disease prevalence between well-controlled diabetics and non-diabetics.
 
-## 한줄요약
+No statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) at subject or implant level.
 
-단일기관 횡단연구(70명·임플란트 227개; 제2형 당뇨 35명 vs 비당뇨 35명): 임플란트주위질환(80% vs 77%, p=0.99)·점막염(51% vs 63%, p=0.47)·주위염(51% vs 43%, p=0.63) 모두 두 군 간 유의차 없음. 단, 검정력 부족 + 양 군 모두 치주염 과거력(83~94%)이 높아 당뇨 단독 효과가 가려졌을 가능성.
+The study was underpowered (observed ~50% peri-implantitis vs planned 8%), and 83–94% history-of-periodontitis in both arms likely masked any T2DM-specific effect; metabolic control quality rather than diagnosis per se may be the operative factor.
+
+## 세줄요약
+
+단일기관 횡단연구 (70명·임플란트 227개; 제2형 당뇨 35명 vs 비당뇨 35명) — EFP S3 진단기준을 사용해 조절된 당뇨환자와 비당뇨환자의 임플란트 주위 질환 유병률 비교.
+
+임플란트 주위 질환 (80% vs 77%, p=0.99)·점막염 (Mucositis, 51% vs 63%, p=0.47)·주위염 (Peri-implantitis, 51% vs 43%, p=0.63) 모두 피험자 및 임플란트 수준에서 유의차 없음.
+
+검정력 부족(실제 ~50% 주위염 vs 계획 8%) + 양 군 치주염 과거력 83~94%가 당뇨 단독 효과를 가렸을 가능성; 당뇨 진단 자체보다 대사 조절 질이 임상적 결정인자일 수 있음.
 
 ## Summary
 

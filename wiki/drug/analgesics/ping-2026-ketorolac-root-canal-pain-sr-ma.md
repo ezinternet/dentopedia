@@ -24,13 +24,21 @@ relations:
     target: smith-2017-nsaids-postoperative-endodontic-pain
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (5 quantitatively pooled): ketorolac significantly outperforms comparator analgesics for post-endodontic pain at 6 h (SMD -0.82, p<0.00001) and halves rescue-medication need (RR 0.50), but the advantage vanishes by 12 and 24 h.
+SR+MA of 7 RCTs (5 quantitatively pooled, 1994–2024) evaluating ketorolac via oral, injection, and intranasal routes for post-root-canal-treatment pain.
 
-## 한줄요약
+Ketorolac significantly outperforms comparator analgesics at 6 h (SMD -0.82, p<0.00001) and halves rescue-medication need (RR 0.50, I²=0%), but the advantage is no longer significant at 12 or 24 h.
 
-7편 RCT (5편 메타분석) SR+MA: 케토롤락 (Ketorolac)은 근관치료 후 통증에서 6시간 시점 비교 진통제보다 유의하게 우수하고 (SMD -0.82, p<0.00001) 추가 진통제 필요를 절반으로 줄이지만 (RR 0.50), 12·24시간에는 차이가 사라진다.
+Ketorolac is a useful early-window analgesic after root canal treatment, but the small heterogeneous evidence base (n=7 RCTs) limits confidence beyond the 6 h timepoint.
+
+## 세줄요약
+
+7편 RCT(5편 정량 풀링, 1994–2024) SR+MA — 경구·주사·비강 투여 경로 포함, 근관치료 후 통증에서 케토롤락(Ketorolac) 평가.
+
+케토롤락은 6시간 시점에서 비교 진통제보다 유의하게 우수하고(SMD -0.82, p<0.00001) 추가 진통제 필요를 절반으로 줄이지만(RR 0.50, I²=0%), 12·24시간에는 유의차가 사라진다.
+
+케토롤락은 근관치료 후 초기 통증 완화에 유용하나, 7개 소규모 이질적 RCT라는 제한으로 6시간 이후 근거 신뢰도는 낮다.
 
 ## Summary
 

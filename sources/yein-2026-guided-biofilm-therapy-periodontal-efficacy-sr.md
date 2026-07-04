@@ -17,13 +17,23 @@ text_filename: yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr.txt
 
 The existing single RCT page [[wiki/periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] reports GBT favorably; this 2026 PRISMA SR (5 RCTs, n=231, GRADE very-low) qualifies that enthusiasm by showing GBT does NOT consistently outperform conventional SRD on primary clinical outcomes (PPD/CAL/BOP) — the benefit is patient-centered (comfort, less pain, reduced treatment time). It also contextualizes the supportive-care setting of [[wiki/periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]].
 
-## One-line Summary
+## Three-line Summary
+
 
 PRISMA systematic review (5 RCTs, n=231, Cochrane RoB-2 + GRADE very-low) finds Guided Biofilm Therapy (GBT) improves patient satisfaction, pain, and treatment time over scaling/root debridement (SRD) but does NOT consistently outperform SRD on PPD/CAL/BOP — no clinical superiority on disease-related outcomes.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 PRISMA 체계적 문헌고찰(RCT 5편, n=231, Cochrane RoB-2 + GRADE 매우 낮음): 유도생체막치료(Guided Biofilm Therapy, GBT)는 환자 만족도·통증·치료시간 면에서 전통적 스케일링·치근활택술(SRD)보다 우수하나, PPD/CAL/BOP 같은 1차 임상지표에서는 일관된 우위를 보이지 못함 — 질환 관련 지표에서 임상적 우월성 근거 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

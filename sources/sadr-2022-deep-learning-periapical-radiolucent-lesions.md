@@ -16,13 +16,23 @@ text_filename: sadr-2022-deep-learning-periapical-radiolucent-lesions.txt
 
 Adds the endodontic arm to the `artificial-intelligence` category — the strongest periapical-lesion DL meta-analysis available, notable for being the only dental-AI SR in this cluster to reach **GRADE "high" certainty** (pooled sensitivity 0.925). Anchors the diagnostic-AI maturity claim of [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] in endodontics and complements [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of diagnostic test accuracy (18 studies SR, 6 pooled; QUADAS-2 + GRADE) of deep learning vs expert clinicians for detecting periapical radiolucent lesions: pooled sensitivity 0.925 (95% CI 0.862–0.960), specificity 0.852 (0.810–0.885), diagnostic OR 71.7; GRADE certainty "high"; most studies had risk of bias.
 
-## 한줄요약
+SR+MA of diagnostic test accuracy (18 studies SR, 6 pooled;
 
-치근단 방사선투과 병소를 검출하는 딥러닝 vs 전문의의 진단정확도 체계적 문헌고찰+메타분석(SR 18편, 풀링 6편; QUADAS-2+GRADE): 통합 민감도 0.925, 특이도 0.852, 진단 오즈비 71.7, GRADE 근거수준 "높음"(이 클러스터 중 유일).
+QUADAS-2 + GRADE) of deep learning vs expert clinicians for detecting periapical radiolucent lesions: pooled sensitivity 0.925 (95% CI 0.862–0.960), specificity 0.852 (0.810–0.885), diagnostic OR 71.7;
+
+GRADE certainty "high"; most studies had risk of bias.
+
+## 세줄요약
+
+
+치근단 방사선투과 병소를 검출하는 딥러닝 vs 전문의의 진단정확도 체계적 문헌고찰+메타분석(SR 18편, 풀링 6편;
+
+QUADAS-2+GRADE): 통합 민감도 0.925, 특이도 0.852, 진단 오즈비 71.7, GRADE 근거수준 "높음"(이 클러스터 중 유일).
+
+(incomplete)
 
 ## 1. Document Information
 

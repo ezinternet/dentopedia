@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, zirconia, retentive-strength, cementation, thermocycling, surface-free-energy, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (SFE on 24 zirconia blocks; retentive strength on 120 zirconia-crown/Ti-abutment assemblies, self-adhesive cement): NTP raised zirconia surface free energy and improved retention without thermocycling, but after 5000-cycle thermocycling the NTP benefit disappeared and NTP+silane/primer was significantly weaker than silane/primer alone.
+In vitro study (24 zirconia blocks for surface free energy; 120 zirconia-crown/titanium-abutment assemblies cemented with G-CEM LinkAce, 6 groups, half thermocycled 5000×): NTP vs silane, primer, and NTP+silane/primer combinations.
 
-## 한줄요약
+NTP increased zirconia surface free energy (p<0.05) and improved retentive strength without thermocycling (p<0.05), but after 5000-cycle thermocycling the NTP benefit disappeared (NS vs control) and NTP combined with silane or primer was significantly weaker than silane/primer alone (p<0.05).
 
-in vitro: 비열 플라즈마(NTP)는 지르코니아 표면자유에너지↑·비열순환 유지력↑(대조 대비), 그러나 5000회 열순환 후 NTP 이득 소실, NTP+실란/프라이머는 실란/프라이머 단독보다 유의하게 약함.
+Plasma is not a free add-on to existing zirconia bonding protocols — combining NTP with a primer or silane is actively detrimental after aging and the short-term benefit does not survive thermocycling.
+
+## 세줄요약
+
+줄1: in vitro(지르코니아 블록 24개 표면자유에너지; 지르코니아-Ti abutment 어셈블리 120개, G-CEM LinkAce, 절반 5000회 열순환): NTP vs 실란·프라이머·NTP 병용 6군.
+
+줄2: NTP는 표면자유에너지↑(p<0.05)·비열순환 유지력↑(p<0.05), 그러나 5000회 열순환 후 NTP 이득 소실(NS); NTP+실란/프라이머는 실란/프라이머 단독보다 유의하게 약함(p<0.05).
+
+줄3: 플라즈마는 기존 지르코니아 접착 프로토콜에 단순 추가할 수 없음 — 프라이머·실란 병용 시 노화 후 오히려 불리하며 단기 이점도 열순환 후 소실.
 
 ## Summary
 

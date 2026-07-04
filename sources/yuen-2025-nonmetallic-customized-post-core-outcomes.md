@@ -16,13 +16,23 @@ text_filename: yuen-2025-nonmetallic-customized-post-core-outcomes.txt
 
 Covers the newest digital/customized post materials (zirconia CAD/CAM, PEEK, PEKK, EverStick, Ribbond, bundle fiber posts) — extends the fiber vs metal post discussion to CAD/CAM-era materials with the most recent (2025) SR evidence. Extends [[post-and-core/figueiredo-2015-fiber-post-survival-systematic-review]] and fills the gap for individually fabricated systems not covered by prefabricated-fiber-post reviews.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (12 studies, 829 teeth): CAD/CAM zirconia posts comparable to cast metal; PEEK/PEKK posts prone to debonding; individually formed fiber-reinforced composite systems show favorable (repairable) failure modes.
 
-## 한줄요약
+Systematic review (12 studies, 829 teeth): CAD/CAM zirconia posts comparable to cast metal;
 
-체계적 문헌고찰 (12편, 829치): CAD/CAM 지르코니아 포스트는 주조 포스트와 유사한 임상 결과; PEEK/PEKK는 탈락률 높음; 개별 성형 섬유강화복합 시스템은 수복 가능한 유리한 파절 양상.
+PEEK/PEKK posts prone to debonding;
+
+individually formed fiber-reinforced composite systems show favorable (repairable) failure modes.
+
+## 세줄요약
+
+
+체계적 문헌고찰 (12편, 829치): CAD/CAM 지르코니아 포스트는 주조 포스트와 유사한 임상 결과;
+
+PEEK/PEKK는 탈락률 높음;
+
+개별 성형 섬유강화복합 시스템은 수복 가능한 유리한 파절 양상.
 
 ## 1. Document Information
 

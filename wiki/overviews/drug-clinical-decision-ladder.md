@@ -28,12 +28,21 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 한국 임상 조정: Opioid 처방 거의 없음(Tramadol 정도), Clindamycin 대신 Cephalexin·Azithromycin 검토, 임신 시 Felypressin 함유 제제 회피하고 Lidocaine + 1:200,000 Epinephrine만 사용.
 > - 본 페이지는 허브이므로 paper 직접 wikilink는 5개 sub-overview로 위임.
 
-## One-line Summary
+## Three-line Summary
 
-Hub overview splitting the 75-paper drug category into five clinical-decision-axis sub-overviews — anticoagulant/antiplatelet perioperative, MRONJ/antiresorptive, antibiotic stewardship, postoperative analgesics, and systemic-disease/polypharmacy/local-anesthesia. Core thesis: route by the decision point at the chair, not by drug class (e.g., NSAIDs appear under both the analgesic and aspirin-interaction axes). Clinical takeaway: provides entry points to each sub-overview plus the five spine claims, decision branches, and Korea-specific prescribing adjustments; paper-level wikilinks are delegated to the sub-overviews.
+Hub synthesis splitting the drug category (75 papers) into five clinical-decision-axis sub-overviews: (1) anticoagulant/antiplatelet perioperative — do not interrupt VKA/DOAC/antiplatelet for routine procedures; (2) MRONJ/antiresorptive — dental clearance before starting antiresorptive; (3) antibiotic stewardship — restrictive prescribing, amoxicillin first, no prophylaxis for simple extractions; (4) postoperative analgesics — ibuprofen 400+APAP 1000 NNT ≈1.5, opioids not superior; (5) systemic disease/polypharmacy — controlled DM (HbA1c <7.0%) not a contraindication to implants; 1:200,000 epinephrine hemodynamically equivalent to 1:80,000.
 
-## 한줄요약
-drug 카테고리 75개 paper를 5개 임상 결정축별 sub-overview로 분할한 허브 페이지. 각 sub-overview의 진입점 + 5축 핵심 명제 + 결정 분기 요약 + 한국 임상 조정.
+Routing principle: navigate by clinical decision point at the chair, not by drug class — NSAIDs appear under both the analgesic axis and the aspirin-interaction axis; anticoagulants appear under both perioperative and MRONJ axes; local anesthetic vasoconstrictor selection appears under the systemic-disease axis.
+
+Korea-specific adjustments: opioid prescribing almost absent (tramadol only); substitute cephalexin or azithromycin for clindamycin in penicillin-allergy patients; avoid felypressin-containing formulations in pregnancy; paper-level wikilinks are delegated entirely to the five sub-overviews.
+
+## 세줄요약
+
+drug 카테고리 75편을 5개 임상 결정축별 sub-overview로 분할한 허브 페이지: ①항응고·항혈소판 — VKA/DOAC/항혈소판 루틴 처치 중단 불필요 ②약물관련악골괴사(MRONJ) — 항흡수제 시작 전 치과 클리어런스 ③항생제 stewardship — 제한 처방·아목시실린 1차·단순 발치 예방 처방 폐지 ④술후 진통제 — 이부프로펜 400+APAP 1000 NNT≈1.5·Opioid 우월하지 않음 ⑤전신질환·다약제 — 조절 당뇨(HbA1c <7%) 임플란트 금기 아님·1:200,000 에피네프린 혈역학 동등.
+
+라우팅 원칙: 약물 분류가 아닌 의자에서의 임상 결정 시점으로 진입 — NSAID는 진통제 축과 아스피린 상호작용 축에 모두 등장; 항응고제는 술중 관리·MRONJ 양축에 등장; 국소마취 혈관수축제 선택은 전신질환 축에 수록.
+
+한국 임상 조정: 오피오이드 처방 거의 없음(트라마돌 정도); 페니실린 알레르기 시 클린다마이신 대신 세팔렉신·아지스로마이신 검토; 임신 시 felypressin 함유 제제 회피·리도카인+1:200,000 에피네프린만 사용; paper-level wikilink는 5개 sub-overview에 위임.
 
 ---
 

@@ -13,11 +13,19 @@ source_collection: external
 tags: [anticoagulant, oral-surgery, bleeding, VKA, DOAC, bridging-therapy]
 ---
 
-## One-line Summary
-SR (7 studies): no significant bleeding difference between continuing vs discontinuing anticoagulants for oral surgery — individualized decision based on HAS-BLED and CHA₂DS₂-VASc risk scores recommended.
+## Three-line Summary
+Systematic review (PRISMA 2020; 7 studies, 2000–2021) evaluating anticoagulant management during oral surgery under two regimens: continuous vs discontinuous anticoagulation, and continuous vs interruption with bridging therapy; primary procedure was tooth extraction.
 
-## 한줄요약
-SR (7개 연구): 항응고제 지속 vs 중단 모두 출혈 차이 없음 — HAS-BLED·CHA₂DS₂-VASc 등 위험도 점수로 개별화 결정 권장.
+Neither continuous anticoagulation vs discontinuation nor continuous vs bridging therapy showed statistically significant differences in bleeding or thromboembolic events; bridging therapy offered no advantage over continuation.
+
+Local hemostatic measures allow safe oral surgery without stopping anticoagulants; individualized risk stratification using HAS-BLED and CHA₂DS₂-VASc scores is recommended to guide decisions.
+
+## 세줄요약
+PRISMA 2020 체계적 고찰(7편, 2000–2021): 구강외과 시 항응고제 지속 vs 중단, 지속 vs 브리징 요법 2가지 비교; 주요 시술은 발치.
+
+지속 vs 중단, 지속 vs 브리징 모두 출혈·혈전색전 사건에 유의한 차이 없음; 브리징 요법은 지속 대비 이점 없음.
+
+항응고제 중단 없이 국소 지혈만으로 안전한 구강외과 가능; HAS-BLED·CHA₂DS₂-VASc로 개별화 위험 층화 결정 권장.
 
 ## Summary
 Systematic review of 7 studies evaluating 항응고제 (anticoagulant) management during oral surgery under two regimens: (1) continuous vs discontinuous anticoagulation and (2) continuous vs interruption with 브리징 요법 (bridging therapy). Neither regimen showed statistically significant differences in bleeding or thromboembolic events. The primary procedure studied was tooth extraction. Conclusion: local hemostatic measures allow safe surgery without stopping anticoagulants; risk stratification tools should guide clinical decisions.

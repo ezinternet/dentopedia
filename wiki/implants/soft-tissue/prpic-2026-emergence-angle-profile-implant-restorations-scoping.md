@@ -22,13 +22,21 @@ relations:
     target: raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA-ScR scoping review (17 studies, incl. 2 RCT + 1 SR+MA + cross-sectional/retrospective) of implant-restoration emergence angle/profile: an emergence angle < 30° may reduce marginal bone loss (evidence inconclusive), while a concave emergence profile is consistently associated with greater peri-implant soft tissue margin stability and reduced mid-facial recession.
+PRISMA-ScR scoping review (17 studies: 2 RCTs, 1 SR+MA, plus cross-sectional and retrospective designs; PubMed + Scopus up to Dec 2025) synthesizing evidence on implant-restoration emergence angle and emergence profile for peri-implant tissue outcomes.
 
-## 한줄요약
+An emergence angle <30° may reduce marginal bone loss (5 studies support, 5 show no association — overall inconclusive); a concave emergence profile consistently associated with greater peri-implant soft tissue margin stability and reduced mid-facial recession, supported by 2 RCTs; the angle's biological risk becomes meaningful mainly when exceeding 30° with a convex profile.
 
-임플란트 보철 emergence angle/profile에 관한 17편 scoping review — emergence angle < 30°가 변연골 흡수를 줄일 수 있으나(근거 불확실), concave(오목) emergence profile은 일관되게 peri-implant 연조직 안정·중안면 퇴축 감소와 연관된다.
+The concave emergence profile is the most evidence-supported prosthetic design for esthetic-zone soft tissue stability, while the <30° angle threshold remains a design target pending confirmatory RCTs; together they inform a parametric abutment design framework.
+
+## 세줄요약
+
+PRISMA-ScR 범위 고찰(17편: RCT 2·SR+MA 1 및 횡단면·후향적 연구; PubMed + Scopus 2025년 12월까지): 임플란트 보철의 출현각(Emergence Angle)과 출현윤곽(Emergence Profile)이 임플란트 주위 조직에 미치는 영향을 합성하였다.
+
+출현각 <30°가 변연골 흡수 감소와 연관될 수 있으나(지지 5편 vs 연관 없음 5편 — 전반적으로 불확실); 오목(Concave) 출현윤곽은 2 RCT 포함 일관되게 연조직 변연 안정·중안면 퇴축 감소와 연관; 각도의 생물학적 위험은 30° 초과 + 볼록 윤곽일 때 의미 있어짐.
+
+오목 출현윤곽이 심미 구역 연조직 안정을 위한 가장 근거 있는 보철 설계이고, <30° 각도 역치는 향후 RCT 확인 대기 중인 설계 목표 — 두 요소가 하이브리드 지대주 파라메트릭 설계 프레임워크의 입력값이 된다.
 
 ## Summary
 

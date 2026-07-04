@@ -21,13 +21,21 @@ relations:
     target: spinelli-2024-three-year-single-cone-ceraseal-cohort
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro micro-CT study (36 mandibular premolars, n=12/group) showing AH Plus Bioceramic (AHB) and Ceraseal (CER) single-cone fills are more retrievable during retreatment than epoxy-resin AH Plus Jet (AHJ): 94.8% / 92.5% vs 87.1% removed after WaveOne Gold + XP-endo Finisher.
+In-vitro micro-CT study (36 single-oval-canal human mandibular premolars, n=12/group; obturated 3 weeks then retreated with WaveOne Gold + XP-endo Finisher) comparing filling removal of AH Plus Bioceramic (AHB), Ceraseal (CER), and epoxy-resin AH Plus Jet (AHJ) by 3D volumetry.
 
-## 한줄요약
+After WaveOne Gold + XP-endo Finisher, total removed filling volume was 94.8% (AHB) and 92.5% (CER) versus 87.1% (AHJ); both calcium-silicate sealers left significantly less residual material than AH Plus apically and overall (p<0.05); SEM/EDS showed Ceraseal deposited more intra-tubular mineral than AHB, with higher Ca:P ratios for both CSBSs.
 
-In-vitro 마이크로-CT 연구 (하악소구치 36개, 군당 12개): AH Plus Bioceramic(AHB)·Ceraseal(CER) 단일콘 충전이 에폭시 레진 AH Plus Jet(AHJ)보다 재근관치료 시 제거가 잘 됨 — WaveOne Gold + XP-endo Finisher 후 제거율 94.8%·92.5% vs 87.1%.
+Contrary to concern about biomineralizing sealers being irretrievable, both AHB and Ceraseal were actually more removable than epoxy AH Plus; the supplementary XP-endo Finisher step added meaningful removal especially apically.
+
+## 세줄요약
+
+사람 하악 단근치(단일 타원형 근관) 36개(군당 12개)를 3주 경화 후 WaveOne Gold + XP-endo Finisher로 재치료하면서 마이크로-CT로 3D 충전물 제거량을 비교한 in-vitro 연구다.
+
+WaveOne Gold + XPF 후 충전 제거율이 AH Plus Bioceramic 94.8%, Ceraseal 92.5%, AH Plus Jet 87.1%였으며, 두 칼슘실리케이트 실러 모두 전체·치근단부 잔류량이 AH Plus Jet보다 유의하게 적었다(p<0.05); SEM/EDS에서 Ceraseal이 AHB보다 상아세관 내 광물 침착이 더 많았다.
+
+생광화 실러가 제거하기 어렵다는 우려와 반대로, AHB·Ceraseal 모두 에폭시 AH Plus보다 재치료 시 더 잘 제거됐으며, XP-endo Finisher 추가 사용이 치근단부 잔류물 감소에 유효했다.
 
 ## Summary
 

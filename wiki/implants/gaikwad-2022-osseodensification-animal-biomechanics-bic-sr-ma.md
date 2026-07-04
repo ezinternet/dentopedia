@@ -13,11 +13,22 @@ source_collection: external
 tags: [osseodensification, animal-study, sr+ma, bic, bafo, insertion-torque, syrcle]
 ---
 
-## One-line Summary
-SR+MA of 9 in-vivo animal studies (dog/sheep/rabbit) comparing osseodensification (OD) vs conventional drilling: OD significantly increases insertion torque (WMD 2.27, 95% CI 1.15–3.39, P<.001), while bone-to-implant contact (BIC) and bone area fraction occupancy (BAFO) at 3/6 weeks favor OD numerically but with P-values mostly exceeding .05 — primary stability gain is well supported, histomorphometric advantage is uncertain.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 동물 연구 9편 — 골밀도화 (Osseodensification, OD)가 삽입 토크 (Insertion Torque)를 통계적으로 유의하게 (WMD 2.27, 95% CI 1.15–3.39, P < .001) 상승; 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)과 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 3·6주 시점에서 효과 크기는 양의 방향이나 P값이 0.05를 일관되게 넘지 않아 결론은 신중히 해석. 임상 적용 한계: 동물 (dog/sheep/rabbit) 데이터로 인체 치유와 직접 비교 불가하며 P값·신뢰구간 (Confidence Interval, CI) 불일치 부분이 있어 저자 결론보다 보수적으로 읽어야 함.
+
+SR+MA (9 in-vivo animal studies — dog/sheep/rabbit; SYRCLE risk-of-bias) comparing osseodensification (OD) vs conventional drilling for endosseous implant placement, with insertion torque, BIC, and BAFO at 3 and 6 weeks of healing.
+
+OD significantly increased insertion torque (WMD 2.27, 95% CI 1.15–3.39, P<.001); BIC and BAFO effect estimates numerically favored OD at 3 and 6 weeks but P-values mostly exceeded .05, and a CI/P mismatch in the BAFO data warrants interpretive caution.
+
+The primary stability advantage of OD in animal models is well-supported; the histomorphometric (BIC/BAFO) advantage is uncertain — the clinical translation requires human RCT-level confirmation (see Lima Monteiro 2024 SR+MA).
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 동물 연구 9편 — 골밀도화 (Osseodensification, OD)가 삽입 토크 (Insertion Torque)를 통계적으로 유의하게 (WMD 2.27, 95% CI 1.15–3.39, P < .001) 상승;
+
+골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)과 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 3·6주 시점에서 효과 크기는 양의 방향이나 P값이 0.05를 일관되게 넘지 않아 결론은 신중히 해석.
+
+임상 적용 한계: 동물 (dog/sheep/rabbit) 데이터로 인체 치유와 직접 비교 불가하며 P값·신뢰구간 (Confidence Interval, CI) 불일치 부분이 있어 저자 결론보다 보수적으로 읽어야 함.
 
 ## Summary
 Gaikwad and colleagues conducted the first animal-focused systematic review and meta-analysis dedicated to osseodensification (OD) outcomes, published in the Journal of Prosthetic Dentistry in 2022. The review pools 9 in-vivo animal studies (predominantly dog, sheep, and rabbit) that compared OD against conventional drilling for endosseous implant placement, with insertion torque, BIC, and BAFO measured at 3 and 6 weeks of healing.

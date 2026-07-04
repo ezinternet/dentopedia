@@ -26,13 +26,21 @@ source_wiki:
 > - **지혈제 주의**: 코드에 지혈제(FeSO₄·염화알루미늄)를 쓰면 접착면에 잔류 시 접착을 저해 → 광중합 전 충분히 세척. 비함침(non-impregnated) 코드 건식 압배로 열구를 잠깐 벌려 접착·중합까지만 유지하는 것이 실용적.
 > - **임상 결론(통합)**: 목표는 *코드*가 아니라 *dry field* — ① 치은연상 마진이면 러버댐/코튼롤로 충분, ② 열구액이 새는 치은연하 마진에서만 코드(또는 치경부 클램프)로 노출·차단, ③ 마진을 격리 목적으로 무리하게 치은연하로 만들지 말 것, ④ 이미 깊으면 CMR로 올려라, ⑤ 지혈제 잔류는 세척.
 
-## One-line Summary
+## Three-line Summary
 
-A synthesis arguing that isolation, not the retraction cord per se, is the evidence-backed determinant of cervical (Class V/NCCL) composite success: the highest-tier evidence (Miao 2021 Cochrane SR+MA) shows rubber-dam moisture/microbial control raises 6-month NCCL composite survival (OR 2.29), while the cord is only one of several tools to achieve a dry field when a subgingival margin lets gingival crevicular fluid encroach — and cord/margin depth must be weighed against the long-term periodontal cost of subgingival margins (Schätzle 2001), with deep margin elevation (ElHaddad 2026) as the alternative when the margin is already subgingival.
+Synthesis of 5 papers arguing that isolation (dry field), not the retraction cord per se, is the evidence-backed determinant of cervical composite success: the highest-tier evidence (Miao 2021 Cochrane SR+MA) shows rubber dam vs cotton-roll moisture/microbial control raises 6-month NCCL composite survival (OR 2.29, 95% CI 1.05–4.99, low certainty), while the cord is only one of several tools to achieve a dry field when a subgingival margin allows GCF infiltration.
 
-## 한줄요약
+The decision to use a cord is governed by margin geometry — supragingival/equigingival margins need no cord; only subgingival margins warrant retraction — and this must be weighed against the long-term periodontal cost of subgingival restorative margins (higher plaque, GI, and attachment loss at all 7 survey points, Schätzle 2001 26-year prospective), with deep margin elevation/CMR as the alternative when the margin is already subgingival (ElHaddad 2026 SR+MA: PD MD −0.96 mm, BOP MD −0.52).
 
-치경부 레진 성공의 진짜 변수는 코드가 아니라 격리(dry field)다 — Cochrane SR+MA(Miao 2021)로 러버댐 수분통제가 6개월 생존율을 높임(OR 2.29)이 확인되고, 코드는 치은연하 마진에서 열구액을 막는 여러 수단 중 하나일 뿐이며, 치은연하 마진의 장기 치주 손해(Schätzle 2001)와 저울질해야 한다("코드 vs 무코드" 직접 RCT는 위키에 없음).
+Clinical takeaway: goal is dry field, not cord placement; (1) supragingival margin → rubber dam/cotton rolls, no cord needed; (2) subgingival margin with GCF seeping → non-impregnated cord or cervical clamp (B4/212), rinse any hemostatic before bonding; (3) margin already deep → consider CMR rather than deeper retraction; "cord vs no cord" has no direct RCT in this wiki.
+
+## 세줄요약
+
+5편 종합: 치경부 레진 성공의 결정 변수는 치은압배코드(retraction cord)가 아닌 오염·수분 차단(dry field) — Cochrane SR+MA(Miao 2021)에서 러버댐 수분통제가 6개월 NCCL 레진 생존율 향상(OR 2.29, 낮은 근거수준); 코드는 치은연하 마진에서 열구액(GCF)을 막는 여러 수단 중 하나이며 접착 원칙이 목적.
+
+마진 위치가 코드 필요성을 결정: 치은연상 마진 → 코드 불필요; 치은연하 마진에서 GCF가 새는 경우에만 기계적 압배가 의미 있음; 치은연하 충전 마진은 플라크·치은지수(GI)·부착소실을 증가시킴(Schätzle 2001, 26년 전향, 7회 조사 전부 p<0.001) — "격리 위해 깊게"와 "치주 위해 얕게"의 상충.
+
+임상 결론: ①치은연상 마진 → 러버댐/코튼롤, 코드 불필요; ②GCF 세는 치은연하 마진 → 비함침 코드(#000/#00) 또는 치경부 클램프(B4/212), 지혈제는 접착 전 충분히 세척; ③이미 깊은 마진 → 치경부 변연 거상(Cervical Margin Relocation, CMR; ElHaddad 2026 SR+MA) 고려; "코드 vs 무코드" 직접 RCT는 위키 없음.
 
 ## Summary
 

@@ -13,12 +13,21 @@ source_collection: external
 tags: [l-prf, sinus-perforation, lateral-window, case-report, sinus-lift]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report: a large intraoperative Schneiderian membrane perforation during lateral-window maxillary sinus floor elevation (SFE) was sealed with leukocyte platelet-rich fibrin (L-PRF) plus a collagen membrane rather than aborting; after 8 months of uneventful healing, two external-hexagon implants (#16, #17) were placed and restored, supporting L-PRF as a same-session salvage option.
+Case report (n=1) of large intraoperative Schneiderian membrane perforation encountered during lateral-window maxillary sinus floor elevation (SFE) for missing teeth #16–18, sealed with leukocyte platelet-rich fibrin (L-PRF) combined with collagen membrane rather than aborting the procedure.
 
-## 한줄요약
-측방창 (Lateral window) 상악동거상술 중 발생한 대형 슈나이더리안 막 (Schneiderian membrane) 천공을 백혈구 혈소판풍부피브린 (Leukocyte Platelet-Rich Fibrin, L-PRF)과 콜라겐 막으로 봉합하고, 8개월 후 외육각형 (External hexagon) 임플란트 2개를 식립한 케이스 리포트.
+After 8 months of uneventful healing, two external-hexagon implants (#16, #17) were placed and restored with a screw-retained prosthesis; perforation repair was successful with no postoperative sinusitis.
+
+L-PRF combined with collagen membrane is a viable same-session biological salvage option for large Schneiderian membrane perforations, avoiding the conventional 6–8-week reentry interval after an aborted procedure.
+
+## 세줄요약
+
+증례보고 (n=1): 측방창 상악동거상술 (Lateral-Window Sinus Floor Elevation, SFE; 결손치 #16–18) 중 발생한 대형 슈나이더 막 (Schneiderian Membrane) 천공 — 수술 중단 대신 백혈구 혈소판 풍부 피브린 (Leukocyte Platelet-Rich Fibrin, L-PRF) + 콜라겐 막으로 봉합.
+
+8개월 무사 치유 후 외육각형 임플란트 (#16, #17) 2개 식립 및 나사유지형 보철 수복; 술후 부비동염 없음.
+
+L-PRF + 콜라겐 막은 대형 천공의 동일 세션 생물학적 구제 (Salvage) 선택지 — 통례적 수술 중단 후 6–8주 재진입 회피 가능.
 
 ## Summary
 Pinto et al. describe the management of a large intraoperative Schneiderian membrane perforation during a lateral-window maxillary sinus floor elevation (SFE) in a partially edentulous patient missing teeth #16, #17, and #18. Instead of aborting the procedure, the team sealed the perforation with **L-PRF (leukocyte platelet-rich fibrin)** combined with collagen membranes. After 8 months of uneventful healing, two external-hexagon implants were placed at the #16 and #17 sites and restored with a screw-retained prosthesis. The case supports L-PRF as a salvage option that lets surgeons continue augmentation in the same session.

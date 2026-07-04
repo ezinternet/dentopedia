@@ -19,13 +19,21 @@ relations:
     target: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (11 studies, n=15–85, mean age 60–68; none at low risk of bias) on supportive peri-implant care frequency for implant-supported full-arch prostheses, recommending professional oral hygiene every 6 months and prosthesis removal at least once per year, tailored to patient risk.
+PRISMA systematic review (11 studies — RCTs/CCTs/cohorts, ≥1-year follow-up; screened 915 PubMed records) addressing how often implant-supported full-arch prostheses should be professionally removed for supportive peri-implant care.
 
-## 한줄요약
+Evidence was too sparse to derive a definitive recall interval; none of the 11 included studies was at low risk of bias, and sample sizes ranged from 15 to 85 patients (mean age 60.4–68.4 years).
 
-PRISMA 체계적 문헌고찰(11편; 저비뚤림 연구 0편) — full-arch 임플란트 보철의 유지관리 빈도로 6개월마다 전문 구강위생 + 최소 연 1회 보철 제거를 권고하되 환자 위험도에 맞춰 조정.
+The pragmatic clinical default from available evidence is professional oral hygiene every 6 months and prosthesis removal at least once per year, individualized to patient risk — this represents the first SR specifically addressing full-arch prosthesis recall frequency.
+
+## 세줄요약
+
+임플란트 지지 전악 보철(Full-arch Prosthesis)의 임플란트 주위 지지치료를 위한 전문적 보철 제거 빈도를 다룬 PRISMA 체계적 문헌고찰(11편 — RCT·대조군임상연구·코호트, ≥1년 추적; PubMed 915건 검색).
+
+최적 recall 주기를 도출하기에 근거가 너무 부족했으며, 포함된 11편 중 저비뚤림위험 연구는 0편, 표본 크기는 15–85명(평균 나이 60.4–68.4세).
+
+가용 근거에서 도출된 실용적 임상 기본값: 6개월마다 전문 구강위생 + 최소 연 1회 보철 제거, 환자 위험도에 맞게 개별화 — 이는 전악 보철 recall 빈도를 전문적으로 다룬 최초의 체계적 문헌고찰이다.
 
 > **Abstract-only ingest** — full text not retrieved (no PMC open access). Summary/Results reflect the structured abstract only.
 

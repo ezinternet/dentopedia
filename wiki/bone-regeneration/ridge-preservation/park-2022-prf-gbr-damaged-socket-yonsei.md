@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/park-2022-prf-gbr-damaged-socket-yon
 text_filename: park-2022-prf-gbr-damaged-socket-yonsei.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Beagle dog 2-wall defect RCT (3 groups, 8 weeks): sticky bone (PRF + DPBM) ± solid-PRF membrane equals GBR (DPBM + collagen membrane) in new bone formation; PRF modestly upregulates osteocalcin, VEGF, IL-6 at 1 week.
+Animal study (beagle dog, 2-wall alveolar defects, 3 groups, 8 weeks): sticky bone (i-PRF + DPBM) with or without a solid-PRF membrane was compared to GBR (DPBM + collagen membrane) for socket healing.
 
-## 한줄요약
+At 8 weeks, micro-CT and histomorphometry showed no significant differences in alveolar ridge area or graft consolidation between sticky-bone groups and GBR; PRF groups modestly elevated osteocalcin, VEGF, and IL-6 at 1 week.
 
-비글견 2벽성 결손 모델(3군, 8주): sticky bone(PRF+DPBM) ± solid-PRF 멤브레인은 GBR(DPBM+콜라겐 멤브레인)과 신생골 형성에서 유의한 차이 없음; PRF는 1주 시점 osteocalcin·VEGF·IL-6 소폭 상향.
+PRF-based sticky bone is non-inferior to collagen-membrane GBR in damaged 2-wall sockets, suggesting it may be a viable lower-cost alternative — though the animal model limits direct clinical translation.
+
+## 세줄요약
+
+동물 연구 (비글견, 2벽성 치조 결손, 3군, 8주): 액상 혈소판풍부피브린 (i-Platelet-Rich Fibrin, i-PRF) + 탈단백우골 (Deproteinized Bovine Bone Mineral, DPBM)의 sticky bone ± solid-PRF 멤브레인을 골유도재생술 (Guided Bone Regeneration, GBR; DPBM+콜라겐막)과 비교.
+
+8주 시점 마이크로 전산화단층촬영 (micro-CT) 및 조직형태계측 결과 치조제 면적·이식재 골화에서 그룹 간 유의한 차이 없음; PRF군은 1주 시점 osteocalcin·혈관내피성장인자 (Vascular Endothelial Growth Factor, VEGF)·IL-6 소폭 상승.
+
+손상된 2벽성 결손에서 sticky bone은 GBR과 동등한 비열등성을 보여 대안적 프로토콜로 유망하나, 동물 모델 결과이므로 직접적인 임상 적용에는 한계가 있다.
 
 ## Summary
 

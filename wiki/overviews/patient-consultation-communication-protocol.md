@@ -38,11 +38,21 @@ relations:
 > [!note] Part of a larger synthesis → [[behavioral-dentistry-overview]]
 > The master overview maps the behavioral-dentistry category as four parallel axes (MI · communication · PRO · anxiety). This page re-cuts the *same evidence* along a different axis: the **chronological consultation encounter**. It is the "how the consult actually runs" companion to the category map and the [[behavioral-dentistry-decision-ladder]] (which is organized by MI/communication/attendance, not by encounter phase). No new papers — a re-synthesis for chairside use.
 
-## One-line Summary
-Encounter-flow synthesis of the dental consultation as six sequential phases (open → gather → explain → decide → align expectations → close), threading dental anxiety as the gate, motivational interviewing as the behavior-change technique, and patient-reported outcomes as the success measure — built from the communication-relationship cluster (Choi 2024, Ho 2025, Khalifah 2019, Elwyn 2025, Dawood 2025, Currie 2021) plus the anxiety/MI/PRO axes.
+## Three-line Summary
 
-## 한줄요약
-치과 상담을 6개 순차 단계(개시 → 정보수집 → 설명 → 공유의사결정 → 기대정렬 → 마무리)로 재구성한 흐름 통합 — 치과불안을 관문(gate), 동기면담(Motivational Interviewing, MI)을 행동변화 기법, 환자보고결과(Patient-Reported Outcome, PRO)를 성공척도로 세로 관통. communication-relationship 6편 + 불안·MI·PRO 축에서 합성.
+Encounter-flow synthesis of the dental consultation as 6 sequential phases (open → gather → explain → decide → align expectations → close), built from the communication-relationship cluster (Choi 2024, Ho 2025, Khalifah 2019, Elwyn 2025, Dawood 2025, Currie 2021) plus the anxiety/MI/PRO axes.
+
+Communication is the single strongest determinant of the dentist–patient relationship (Choi 2024, 8× > "trust"), it is a trainable 26-skill set (Khalifah 2019, 50 articles), and dental anxiety is the gate that must be screened before any other phase can function.
+
+A consultation fails not at the clinical content but at the seams between phases — un-screened anxiety, jargon-dense explanations, social-media-inflated expectations, and recall non-conversion are the four addressable failure modes.
+
+## 세줄요약
+
+치과 상담을 6개 순차 단계(개시 → 정보수집 → 설명 → 공유의사결정 → 기대정렬 → 마무리)로 재구성한 흐름 통합 — 치과불안(dental anxiety)을 관문(gate), 동기면담(Motivational Interviewing, MI)을 행동변화 기법, 환자보고결과(Patient-Reported Outcome, PRO)를 성공척도로 세로 관통.
+
+커뮤니케이션은 치과의사-환자 관계(Dentist-Patient Relationship, DPR)의 최대 결정요인(Choi 2024, 8×>"신뢰"), 훈련 가능한 26개 스킬(Khalifah 2019, 50편); 과거 부정경험이 진료 중 불안 예측(Pandey 2025, p=0.018) — 미선별 고불안 환자는 이후 모든 단계를 방해.
+
+상담은 임상 내용이 아니라 단계 이음새(seam)에서 실패 — 미선별 불안·전문용어 설명·소셜미디어 기대·recall 비전환이 4개 핵심 실패 지점.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: malcangi-2023-enamel-remineralization-techniques-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 법랑질 재광화 기술 SR: 불소, CPP-ACP, hydroxyapatite, resin infiltration, silver diamine fluoride, 레이저 등 비교 — 불소+CPP-ACP 병용이 효과적.
 
 ## 1. Document Information

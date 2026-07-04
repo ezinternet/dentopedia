@@ -16,11 +16,21 @@ relations:
     target: tay-2022-influence-cbct-endodontic-treatment-planning
 ---
 
-## One-line Summary
-SR+MA (19 studies) - CBCT-assessed periapical healing after endodontic treatment is 87% (loose criteria) vs 36% (strict criteria); CBCT yields lower success under strict criteria, suggesting routine CBCT outcome follow-up may be unnecessary.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(19편) - 근관치료 후 CBCT 평가 치유율 87%(loose) vs 36%(strict); strict 기준에선 성공률이 낮아져, 루틴 CBCT 추적평가는 불필요할 수 있음을 시사.
+SR+MA (ACTA, PubMed/Embase/WoS, 19 studies, meta-analysis + meta-regression) examining CBCT-assessed periapical healing outcomes and prognostic factors for primary endodontic treatment and retreatment, through March 2024.
+
+CBCT healing rates differed dramatically by outcome criteria: loose criteria 87% (95% CI 81–91%), strict criteria 36% (95% CI 22–53%); success rates showed the same gap (loose 85% / strict 45%); strict CBCT criteria yielded rates similar to periapical radiograph-based loose criteria, raising the question of whether routine CBCT follow-up adds clinical value.
+
+The wide discrepancy between loose and strict CBCT assessment criteria undermines routine CBCT use for endodontic outcome monitoring; CBCT follow-up should be reserved for diagnostically uncertain cases, not applied routinely.
+
+## 세줄요약
+
+CBCT로 평가한 근관치료·재치료 후 치근단 치유 결과 및 예후인자를 분석한 SR+MA (ACTA 그룹, PubMed/Embase/WoS, 19편, 메타분석+메타회귀, ~2024.3).
+
+치유율이 판정기준에 따라 큰 차이 — loose 기준 87%(95% CI 81–91%), strict 기준 36%(95% CI 22–53%); 성공률도 loose 85%/strict 45%; strict CBCT 기준이 치근단 방사선의 loose 기준과 유사해 루틴 CBCT 추적의 임상적 가치에 의문.
+
+loose·strict CBCT 기준 간 격차가 커 근관치료 결과 모니터링에 루틴 CBCT 사용을 지지하지 않음; 진단 불확실한 사례에만 CBCT 추적을 제한할 것을 권고.
 
 ## Summary
 CBCT로 평가한 근관치료/재치료 결과와 예후인자 SR+MA. loose/strict 기준 격차(87% vs 36%)를 드러내며 루틴 CBCT 추적의 한계를 비판적으로 제시 - ACTA Shemesh 그룹.

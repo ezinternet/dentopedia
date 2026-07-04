@@ -19,13 +19,21 @@ Centric relation (CR) recording method 선택 — swallowing vs chin-point guida
 
 PubMed (PMCID PMC12563705). DOI: [10.4103/jpbs.jpbs_787_25](https://doi.org/10.4103/jpbs.jpbs_787_25).
 
-## One-line Summary
+## Three-line Summary
 
-In-vivo clinical comparison (n=30 edentulous/overdenture patients, customized digital intraoral gothic-arch tracer): digital gothic-arch tracing was the most reproducible CR-recording method (~0.98, ~99% reliability), light chin-point guidance second (~0.79, ~88%) and posture-robust (reliable supine), while swallowing was least reproducible (~0.62, ~77%) and only dependable in the upright position.
+In-vivo within-subject comparison (n=30 edentulous/overdenture patients, DY Patil Dental School) evaluating three centric relation (CR) recording methods — swallowing, chin-point guidance, and digital gothic-arch tracing — under both upright and supine body postures using a custom digital intraoral gothic-arch tracer outputting X/Y mandibular coordinates.
 
-## 한줄요약
+Digital gothic-arch tracing was the most reproducible method (coefficient ~0.98, reliability ~99%), posture-independent; chin-point guidance was second (~0.79, ~88%) and remained reliable in the supine position; swallowing was least reproducible (~0.62, ~77%) and dependable only in the upright position (all p=0.000).
 
-생체 임상 비교 (무치악·오버덴처 환자 30명, 자체 제작 디지털 구내 고딕아치 트레이서): 디지털 고딕아치 트레이싱이 중심위(CR) 기록 재현성이 가장 높았고(~0.98, 신뢰도 ~99%), 라이트 턱끝유도(chin-point)가 두 번째(~0.79, ~88%)이면서 앙와위(supine)에서도 신뢰할 만했으며, 삼킴법(swallowing)은 재현성이 가장 낮고(~0.62, ~77%) 직립(upright) 자세에서만 믿을 만했다.
+The custom (non-commercial) tracer limits direct transferability to other devices, the small heterogeneous sample (overdenture vs fully edentulous pooled) limits generalizability, and reproducibility is a surrogate — no prosthesis outcome correlation was assessed.
+
+## 세줄요약
+
+생체 내 피험자 내 비교 연구 (n=30, 무치악·오버덴처 환자, DY Patil 치과대학) — 삼킴법 (Swallowing)·턱끝유도 (Chin-point Guidance)·디지털 구내 고딕아치 트레이싱 (Gothic-arch Tracing) 3가지 중심위 (Centric Relation, CR) 기록법을 직립·앙와위 두 자세에서 자체 제작 디지털 트레이서(X/Y 좌표 출력)로 평가.
+
+디지털 고딕아치 트레이싱이 재현성 가장 높음 (계수 ~0.98, 신뢰도 ~99%, 자세 무관); 턱끝유도가 두 번째 (~0.79, ~88%) — 앙와위에서도 신뢰 가능; 삼킴법이 가장 낮음 (~0.62, ~77%) — 직립 자세에서만 신뢰 가능 (모두 p=0.000).
+
+비상업용(자체 제작) 트레이서로 다른 기기로의 직접 이전 불가, 이질적 소표본(오버덴처·완전무치악 혼합) 한계, 재현성은 대리 지표이며 보철물 결과와의 상관관계는 미평가.
 
 ## 1. Document Information
 

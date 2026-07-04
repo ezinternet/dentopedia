@@ -15,13 +15,21 @@ text_filename: monje-2025-implant-design-stability-early-healing-rct.txt
 tags: [implant-design, ISQ, RFA, stability-dip, early-healing, osseointegration, RCT, tapered, cylindrical, BLX, BL, insertion-torque, IST]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (85 implants, 66 patients, 6-week dense ISQ/IST tracking) comparing Straumann BLX (tapered) vs BL (cylindrical): BLX had higher insertion torque (42.4 vs 30.6 N·cm) but BL achieved higher ISQ at 6 weeks (75.2 vs 72.2, p=0.02); both maintained high stability throughout, supporting either design for early loading protocols.
+Parallel-arm RCT (85 implants, 66 patients, Chulalongkorn University) comparing Straumann BLX (tapered) vs BL (cylindrical) SLActive implants with 8 time-point ISQ/IST measurements over 6 weeks.
 
-## 한줄요약
+BLX had significantly higher maximum insertion torque at placement (42.35 vs 30.63 N·cm, p<0.001), but cylindrical BL achieved higher ISQ and IST at 6 weeks (ISQ 75.21 vs 72.23, p=0.02); intermediate time points showed no significant differences between designs; a moderate ISQ–IST correlation was confirmed (r=0.56).
 
-RCT (85개 임플란트, 66명, 6주 추적): 테이퍼형(BLX)은 삽입 토크 우세(42.4 N·cm), 그러나 6주 최종 ISQ는 원통형(BL, 75.2 vs 72.2, p=0.02)이 유의하게 높았고, 두 디자인 모두 초기 치유 기간 내내 높은 안정성 유지.
+Both designs maintained high stability throughout early healing and are suitable for early loading protocols — higher insertion torque for a tapered implant does not predict superior secondary biological stability at 6 weeks.
+
+## 세줄요약
+
+평행군 RCT(임플란트 85개, 66명, 쭐라롱껀대학교): Straumann BLX(테이퍼형) vs BL(원통형) SLActive 임플란트를 8시점 ISQ/임플란트 안정성 검사(Implant Stability Test, IST)로 6주 비교하였다.
+
+BLX는 식립 시 최대 삽입 토크 유의하게 높았으나(42.35 vs 30.63 N·cm, p<0.001), 6주 최종 ISQ·IST는 원통형 BL이 더 높았고(ISQ 75.21 vs 72.23, p=0.02); 중간 시점 차이는 없었으며 ISQ–IST 중등도 상관(r=0.56) 확인.
+
+두 디자인 모두 초기 치유 내내 높은 안정성을 유지해 조기 부하에 적합하며 — 테이퍼형의 높은 삽입 토크가 6주 시점의 더 나은 2차 안정성을 예측하지 않는다.
 
 ## Summary
 

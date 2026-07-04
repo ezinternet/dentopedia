@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-CBCT cross-sectional study (Saudi population) quantifying alveolar bone anatomy of maxillary and mandibular molars — inter-radicular septum dimensions, buccal/lingual bone thickness, and distance to maxillary sinus floor / mandibular canal — as decision inputs for molar immediate implant placement (IIP). A significant fraction of maxillary molar sites have septum width sufficient for primary stability; mandibular molars are often constrained by lingual concavity and canal proximity.
+## Three-line Summary
 
-## 한줄요약
-Saudi 인구 CBCT 단면: 상·하악 대구치의 inter-radicular bone, 협측·설측 thickness, 상악동 floor·하악관까지 거리 등을 정량 — molar IIP 적응증 결정 입력 데이터.
+CBCT cross-sectional study (Saudi population, Cureus 2023) quantifying inter-radicular septum dimensions, buccal/lingual bone thickness, and distances to the maxillary sinus floor and mandibular canal in maxillary and mandibular molar sites as anatomical decision inputs for immediate implant placement (IIP).
+
+A significant fraction of maxillary molar sites showed septum width sufficient for primary stability via septum anchorage; mandibular molars were frequently constrained by lingual concavity and mandibular canal proximity.
+
+Anatomy-only single-center study adds Middle-East population reference data but provides no implant outcome data to validate planning thresholds.
+
+## 세줄요약
+
+CBCT 단면연구(사우디 인구, Cureus 2023): 상·하악 대구치의 치근간 격벽 폭, 협측·설측 골 두께, 상악동 저면·하치조관까지의 거리를 정량화해 구치부 즉시식립(IIP) 적응증 평가 데이터 제공.
+
+상악 대구치의 상당 비율은 격벽 고정을 통한 초기 안정성 확보가 가능한 격벽 폭을 보였으며, 하악 대구치는 설측 오목면과 하치조관 근접으로 제약이 많았음.
+
+단일기관 해부학 연구로 임플란트 임상 결과 데이터가 없어 계획 임계값의 직접적 근거로는 활용에 한계가 있다.
 
 ## Summary
 CBCT cross-sectional study assessing alveolar bone anatomy of maxillary and mandibular molars in a Saudi population, framed as inputs for immediate molar implant decision-making.

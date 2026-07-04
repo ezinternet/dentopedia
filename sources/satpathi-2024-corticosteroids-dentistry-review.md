@@ -10,7 +10,7 @@ pdf_filename: satpathi-2024-corticosteroids-dentistry-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review: corticosteroids in dentistry — anti-inflammatory/immunosuppressive use across specialties (OLP, aphthous stomatitis, post-op edema); adrenal crisis risk from steroid-dependent patients; overcautious prescribing concerns.
 
 ## 1. Document Information

@@ -37,13 +37,21 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survi
 > - 무삭제(no-prep) 간접 복합레진 실증(Kam-Hepdeniz 2023, prospective): 84개월 91.3%(Kaplan-Meier), 치아파절·이차우식·대합치 마모·과민 0건이나 표면 거칠기(56%)·변연 착색(21%) 잦음 — Axis에서 복합레진이 법랑질 접착 시 세라믹 대안이 될 수 있음을 실측 보강(단 유지 부담).
 > - 하이브리드 레진매트릭스 세라믹(Resin Matrix Ceramic, RMC/PICN·RNC) 수복물별 성능(Alghauli 2025, sr+ma): **비니어·교합면 비니어에선 LDS와 동등**, inlay/onlay는 direct composite보다 우수하나 **크라운에선 합병증↑** — 비니어 적응증에 한해 RMC를 LDS 대안으로 정량 근거화(수복물 형태 의존).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 10 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot) covering ceramic and composite veneer survival, material complication burden, incisal coverage design, preparation invasiveness, fabrication technique, HF etching protocol, and cementation bond strength — establishing a clinically actionable evidence hierarchy for veneer material and protocol selection.
+Synthesis of 10 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot): all ceramic veneer materials achieve statistically similar long-term survival (93–97%; feldspathic 96.13%, LDS 96.81%, LRGC 93.70%, zirconia 100% at 2.6 yr — Klein 2025, 29 studies, 7,753 veneers), but LDS is preferred for its dramatically lower complication burden (10-yr technical complications 6.1% vs feldspathic 41.48%).
 
-## 한줄요약
+Dentin margin exposure is the single strongest failure predictor (≈10× vs enamel-confined margins; El-Mowafy 2018), and incisal coverage design does not significantly affect survival (OR 1.25 NS; Albanesi 2016); minimal prep (0.2–0.5 mm) equals or exceeds conventional prep (0.3–1.0 mm) in survival (Ali 2023).
 
-라미네이트 비니어 10편 종합 (SR+MA 5편 포함): 소재별 생존율은 유사하나 합병증 부담은 LDS가 가장 낮고 (기술적 합병증 6.1% vs 장석 41.48%@10년), 접착 기질·제작기법·HF 에칭 시간이 결합강도를 결정하는 핵심 변수임.
+Fabrication technique determines optimal HF etching time (platinum foil 120 s, refractory die 90 s at 9.6% HF; Gonzalez-Martin 2024 SEM); LDS bond strength 25.4 MPa vs transparent zirconia 12.1 MPa (Hajeer 2026 in-vitro); enamel-confined adhesive margin is the non-negotiable prerequisite for all minimally invasive approaches.
+
+## 세줄요약
+
+10편 종합(SR+MA 5편 포함): 모든 세라믹 비니어 재료의 장기 생존율은 통계적으로 유사(93–97%; feldspathic 96.13%, LDS 96.81%, LRGC 93.70%)하나 LDS가 합병증 부담 가장 낮음(10년 기술적 합병증 6.1% vs 장석 41.48%; Klein 2025, 29편·7,753 비니어).
+
+상아질 변연 노출이 실패율 ≈10배(El-Mowafy 2018); 절단연 피개 디자인은 생존율에 영향 없음(OR 1.25 NS; Albanesi 2016); 최소삭제(0.2–0.5 mm)가 전통적 삭제(0.3–1.0 mm)와 동등 이상(Ali 2023) — 법랑질 한정 변연이 모든 최소침습 접근의 비협상 전제조건.
+
+제작기법이 HF 에칭 시간을 결정(백금박 120초·refractory die 90초; Gonzalez-Martin 2024 SEM); LDS 결합강도 25.4 MPa vs 투명 지르코니아 12.1 MPa(Hajeer 2026 in-vitro); 제작기법 정보를 기공사로부터 확인 후 에칭 프로토콜 적용 필요.
 
 ## Summary
 

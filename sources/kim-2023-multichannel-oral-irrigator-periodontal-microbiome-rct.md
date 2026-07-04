@@ -17,13 +17,23 @@ text_filename: kim-2023-multichannel-oral-irrigator-periodontal-microbiome-rct.t
 
 Extends the oral-irrigation evidence in our `interdental-cleaning` category from a clinical-index angle into a mechanistic, microbiome angle. [[interdental-cleaning/liu-2025-water-flossing-adjunct-nspt-periodontitis-rct]] also used 16S rRNA sequencing to link water flossing to microbial shifts in periodontitis patients; this Kim 2023 RCT provides the complementary "healthy-mouth + 3-day no-brushing challenge" model, showing how a multichannel oral irrigator (MCOI) blunts dysbiotic shifts (Prevotella, Bacteroidetes) that arise when mechanical cleaning is withheld. Reinforces the device-efficacy line of [[interdental-cleaning/mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct]] and the microbiome line of [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Small preliminary RCT (n=29 healthy adults, 3-day no-brushing model): a multichannel oral irrigator (COMORAL, 45° gingival-margin jet + suction) kept PI/SBI stable and lowered % BOP, and prevented the Prevotella/Bacteroidetes increase seen in the no-cleaning control, enriching pioneer non-mutans streptococci instead.
 
-## 한줄요약
+(incomplete)
 
-소규모 예비 RCT(건강한 성인 29명, 3일 무칫솔질 모델): 다채널 구강세정기 (Multichannel Oral Irrigator, MCOI; COMORAL, 잇몸변연 45° 분사 + 석션)는 치태지수·치은열구출혈지수를 유지하고 탐침시출혈 (Bleeding on Probing, BOP) 비율을 낮췄으며, 무세정 대조군에서 나타난 Prevotella·Bacteroidetes 증가를 막고 대신 선구균(비뮤탄스 연쇄상구균)을 늘렸다.
+(incomplete)
+
+## 세줄요약
+
+
+소규모 예비 RCT(건강한 성인 29명, 3일 무칫솔질 모델): 다채널 구강세정기 (Multichannel Oral Irrigator, MCOI;
+
+COMORAL, 잇몸변연 45° 분사 + 석션)는 치태지수·치은열구출혈지수를 유지하고 탐침시출혈 (Bleeding on Probing, BOP) 비율을 낮췄으며, 무세정 대조군에서 나타난 Prevotella·Bacteroidetes 증가를 막고 대신 선구균(비뮤탄스 연쇄상구균)을 늘렸다.
+
+(incomplete)
 
 ## 1. Document Information
 

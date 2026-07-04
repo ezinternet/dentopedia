@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 임플란트 표면처리 배치(2026-05-31)의 정량적 앵커. UV 광기능화와 비열 플라즈마 활성화가 동물 모델에서 골유착을 높이는지 메타분석. [[wiki/implants/surface/sun-2026-low-temperature-plasma-titanium-implants-review]]·[[wiki/implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review]]의 서술적 주장에 정량 근거를 보탠다.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR + meta-analysis of pre-clinical animal studies (518 identified → 10 included; MA pooled 4 UV-in-rabbit studies): both UV photofunctionalization and non-thermal argon plasma functionalization of titanium implant surfaces may improve osseointegration in vivo; BIC was significantly increased in bio-activated groups (when follow-up homogeneous), though heterogeneity was high (I²>75%).
+PRISMA SR + meta-analysis of pre-clinical animal studies (518 articles identified; 10 included; databases: PubMed/Medline, Scopus, Cochrane, through May 2020) evaluating UV photofunctionalization and non-thermal argon plasma activation of titanium implant surfaces for osseointegration.
 
-## 한줄요약
+Qualitatively, both UV and non-thermal plasma may improve in vivo osseointegration; quantitative meta-analysis (4 UV-rabbit studies, DerSimonian–Laird random effects) showed significantly increased BIC in bio-activated groups when follow-up times were relatively homogeneous, though overall heterogeneity was high (I² >75%).
 
-전임상(동물) PRISMA 체계적 문헌고찰+메타분석(518편 확인→10편 포함; 메타분석은 토끼 UV 4편 합산): 티타늄 표면의 UV 광기능화·비열 아르곤 플라즈마 활성화가 동물에서 골유착을 향상시킬 수 있으며, 생체활성화군에서 골-임플란트 접촉률(BIC)이 유의하게 증가(추적기간 동질 시). 단 이질성 높음(I²>75%).
+Plasma-specific pooled effect size could not be calculated (insufficient homogeneous plasma studies); all findings are pre-clinical (animal), and clinical human trials are still needed.
+
+## 세줄요약
+
+PRISMA SR + 전임상(동물) 메타분석(식별 518편, 포함 10편; PubMed·Scopus·Cochrane, 2020년 5월까지): 티타늄 임플란트 표면의 UV 광기능화(자외선)와 비열 아르곤 플라즈마 활성화가 in vivo 골유착을 향상시킬 가능성을 평가했다.
+
+정량적 메타분석(토끼 UV 4편, DerSimonian–Laird 랜덤효과)에서 추적기간이 동질적일 때 생체활성화군의 골-임플란트 접촉률(BIC)이 유의하게 높았으나, 전체 이질성은 높다(I² >75%).
+
+플라즈마 단독 풀링 효과크기는 산출 불가(동질 연구 부족)이며, 모든 결과는 전임상 동물 수준으로 사람 임상시험이 추가로 필요하다.
 
 ## 1. Document Information
 

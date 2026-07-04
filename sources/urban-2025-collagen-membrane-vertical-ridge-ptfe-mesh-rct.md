@@ -13,13 +13,23 @@ source_collection: external
 
 Part of a focused collection on vertical ridge augmentation (VRA). This RCT isolates the specific question of whether a perforated Ti-reinforced PTFE mesh needs an overlying collagen membrane — directly testing the device used in [[implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]] and providing primary RCT data for the SR in [[implants/vertical-ridge-augmentation/yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr]].
 
-## One-line Summary
+## Three-line Summary
 
-Non-inferiority RCT (n=30) of perforated Ti-reinforced d-PTFE mesh alone vs PTFE + collagen membrane (CM) for VRA: non-inferiority of PTFE-alone NOT demonstrated for absolute VBG (4.5 ± 2.1 vs 4.1 ± 2.7 mm), but outcomes were comparable (complication 6.7% both); PTFE+CM showed more type-1 pseudo-periosteum, suggesting CM helps prevent soft-tissue ingrowth.
 
-## 한줄요약
+Non-inferiority RCT (n=30) of perforated Ti-reinforced d-PTFE mesh alone vs PTFE + collagen membrane (CM) for VRA: non-inferiority of PTFE-alone NOT demonstrated for absolute VBG (4.5 ± 2.1 vs 4.1 ± 2.7 mm), but outcomes were comparable (complication 6.7% both);
 
-비열등성 RCT (n=30): 천공형 Ti-보강 d-PTFE mesh 단독 vs PTFE+콜라겐막(CM) VRA 비교 — 절대 수직골증가(4.5±2.1 vs 4.1±2.7 mm)에서 PTFE 단독의 비열등성 입증 실패, 다만 합병증(양군 6.7%) 등은 유사. PTFE+CM에서 type-1 가골막 비율 높아 CM이 연조직 침입 방지에 도움 시사.
+PTFE+CM showed more type-1 pseudo-periosteum, suggesting CM helps prevent soft-tissue ingrowth.
+
+(incomplete)
+
+## 세줄요약
+
+
+비열등성 RCT (n=30): 천공형 Ti-보강 d-PTFE mesh 단독 vs PTFE+콜라겐막(CM) VRA 비교 — 절대 수직골증가(4.5±2.1 vs 4.1±2.7 mm)에서 PTFE 단독의 비열등성 입증 실패, 다만 합병증(양군 6.7%) 등은 유사.
+
+PTFE+CM에서 type-1 가골막 비율 높아 CM이 연조직 침입 방지에 도움 시사.
+
+(incomplete)
 
 ## 1. Document Information
 

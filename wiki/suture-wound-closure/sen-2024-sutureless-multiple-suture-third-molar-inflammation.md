@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Prospective RCT (n=101) of primary silk-suture closure vs suture-less closure after impacted mandibular third molar removal; pain, swelling, and lingual nerve function were comparable, but the suture-less group had significantly less trismus and fewer delayed-healing cases.
+## Three-line Summary
 
-## 한줄요약
-하악 매복 사랑니 발치 후 비단(silk) 봉합 1차 폐쇄 대 무봉합 폐쇄를 비교한 전향적 무작위배정 임상시험(n=101). 통증·부종·설신경 기능은 비슷했으나, 무봉합군에서 개구장애가 유의하게 적었고 지연 치유 사례도 더 적었다.
+Prospective RCT (n=101, Pederson difficulty 5–7, 1:1 randomization) comparing primary silk-suture closure vs suture-less closure after impacted mandibular third molar removal; postoperative inflammatory triad, lingual nerve sensation, and complications assessed.
+
+Pain, swelling, and lingual nerve function were comparable between groups; the suture-less arm had significantly less trismus and fewer delayed-wound-healing cases.
+
+Suture-less closure is a non-inferior, trismus-sparing option for moderately difficult third molar extractions; this is the largest single-center suture-vs-sutureless trial in this surgical question, though results contrast with the multicentric Takadoum null finding.
+
+## 세줄요약
+
+하악 매복 사랑니(Pederson 5–7) 발치 후 비단 봉합 1차 폐쇄 대 무봉합을 1:1 비교한 전향적 RCT(n=101); 염증 3징후·설신경 감각·합병증 평가.
+
+통증·부종·설신경 기능은 두 군 동등; 무봉합군에서 개구장애 유의하게 감소, 지연 창상 치유 사례도 더 적음.
+
+무봉합 폐쇄는 중등도 난이도 사랑니 발치에서 개구장애를 줄이는 비열등 옵션이나, 이 단일기관 최대 규모 연구 결과는 다기관 Takadoum 결과(차이 없음)와 상충.
 
 ## Summary
 A prospective randomized clinical trial (Goa Dental College, India) of 101 patients with moderately difficult impacted mandibular third molars (Pederson index 5–7), randomized to primary closure with silk sutures (Group A) or suture-less closure (Group B). The trial measured the postoperative inflammatory triad (pain, swelling, trismus) plus lingual nerve sensation and complications. Pain, swelling, and lingual nerve function were equivalent between groups, but the suture-less arm had significantly less trismus and fewer delayed-wound-healing cases — supporting suture-less closure as a non-inferior, possibly trismus-sparing option.

@@ -18,11 +18,21 @@ relations:
     target: sapkota-2024-oral-leukoplakia-recurrence-malignant
 ---
 
-## One-line Summary
-SR+MA of 55 studies (n=41,231 with OL) covering 1934–2024: pooled malignant transformation rate 6.64% (95% CI 5.21–8.21); non-homogeneous subtype (RR=4.23), epithelial dysplasia (RR=2.75), lateral tongue location (RR=2.09, absolute MT=12.71%), and smoking (RR=1.64) are the strongest independent risk factors.
+## Three-line Summary
 
-## 한줄요약
-55개 연구 SR+MA(n=41,231, 1934–2024): 구강백반증 악성변환율 (Malignant Transformation, MT) 6.64%; 비균일형 (Non-Homogeneous Oral Leukoplakia, NHOL, RR=4.23), 상피이형성 (Oral Epithelial Dysplasia, OED, RR=2.75), 설측연 (RR=2.09, 절대 MT=12.71%), 흡연 (RR=1.64) 주요 위험인자.
+SR+MA (Cochrane/JBI CoCoPop; PROSPERO CRD42024574224; MEDLINE/Embase/Web of Science/Scopus, 1934–June 2024; 55 longitudinal cohort studies, n=41,231 oral leukoplakia patients) — the largest-ever OL malignant transformation meta-analysis.
+
+Pooled malignant transformation rate (MTR) = 6.64% (95% CI 5.21–8.21); temporally stable across historical eras (p=0.75); non-homogeneous subtype RR=4.23, epithelial dysplasia RR=2.75, lateral tongue location RR=2.09 (absolute MT 12.71%), smoking RR=1.64.
+
+Non-homogeneous morphology is the strongest readily-visible bedside predictor (RR=4.23, surpassing dysplasia); lateral tongue carries the highest absolute MT rate (12.71%); both independently mandate biopsy and active surveillance regardless of smoking status.
+
+## 세줄요약
+
+최대 규모 구강백반증(Oral Leukoplakia, OL) 악성변환(Malignant Transformation, MT) SR+MA (PROSPERO CRD42024574224; 55편 종단코호트, n=41,231, 1934–2024년 6월) — Cochrane/JBI CoCoPop 방법론.
+
+풀링 MTR 6.64% (95% CI 5.21–8.21); 역사적 시기별 차이 없음(p=0.75); 비균질형(Non-Homogeneous OL, NHOL) RR=4.23, 상피이형성(OED) RR=2.75, 설측연 RR=2.09(절대 MT=12.71%), 흡연 RR=1.64.
+
+비균질형 형태(RR=4.23)가 이형성보다 강한 임상 예측인자 — 설측연 병소와 함께 흡연 여부와 무관하게 조직검사 및 능동 추적 절대 필요.
 
 ## Summary
 This is the most comprehensive SR+MA on oral leukoplakia (OL) malignant transformation to date, spanning 90 years of literature (1934–June 2024). Across 55 longitudinal cohort studies enrolling 41,231 patients with OL, the pooled MT rate was 6.64% — lower than the prior landmark estimate of 9.8% (Aguirre-Urizar 2021) but higher than the 3.5% estimate of Warnakulasuriya & Ariyawardana 2016. The authors attribute the lower-than-Aguirre-Urizar figure to the broader time span and larger n dampening the effect of high-MT small-cohort outliers. Importantly, MT rates did not significantly change across historical time periods (pre-1978, 1979–2007, post-2007; p=0.75), suggesting that despite advances in diagnosis and treatment, the underlying natural history of OL remains stubbornly stable. The strongest MT amplifiers are lesion morphology (non-homogeneous subtype RR=4.23), histological grade (epithelial dysplasia present RR=2.75), anatomical site (lateral tongue RR=2.09, carrying a 12.71% absolute MT rate — the highest of any subsite), and tobacco exposure (RR=1.64). These findings directly inform the OLK risk-stratification ladder: non-homogeneous morphology, dysplasia, and lateral tongue location each independently mandate biopsy and active surveillance regardless of patient habits.

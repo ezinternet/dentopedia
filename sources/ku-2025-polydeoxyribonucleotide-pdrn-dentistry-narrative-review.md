@@ -13,7 +13,7 @@ source_collection: external
 
 PDRN(폴리데옥시리보뉴클레오티드, Polydeoxyribonucleotide) 토픽 컬렉션의 anchor paper. 메커니즘(A2A receptor activation + salvage pathway) → 임상 적용(GBR adjunct, TMJ, peri-implantitis, MRONJ)을 한 paper에서 묶어주는 narrative review. 본 wiki에 PDRN 전용 카테고리(`pdrn/`)를 신설하면서 메커니즘 reference로 anchoring. 후속 ingest되는 [[pdrn/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing]] (scoping review), in vivo studies, RCT 모두 본 paper를 기초 reference로 사용.
 
-## One-line Summary
+## Three-line Summary
 
 PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, A2A receptor 활성화와 nucleotide salvage pathway를 통해 angiogenesis·osteogenesis 촉진. 치과에서 GBR, TMJ, peri-implantitis, MRONJ에 adjunct로 시도되나 RCT 근거는 부족.
 

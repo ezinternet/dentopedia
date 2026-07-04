@@ -16,13 +16,23 @@ text_filename: bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries
 
 Extends the fluoride-varnish caries-prevention evidence base in [[wiki/caries/kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]] into the high-risk radiation-caries population. Whereas the cost-effectiveness SR+MA addresses general caries prevention, this RCT tests whether fluoride varnish (and/or saliva substitute) actually halts the aggressive DMFS progression seen in irradiated head & neck cancer (HNC) survivors — a negative, sobering result that qualifies the optimism of single-agent fluoride prevention.
 
-## One-line Summary
+## Three-line Summary
 
-3-arm RCT (n=482 irradiated HNC patients) — DMFS increased significantly (P<0.05) in saliva-substitute, fluoride-varnish, and combined groups at all timepoints, with no intergroup difference (Bonferroni NS); neither agent halted radiation-caries progression.
+3-arm RCT (n=482 irradiated head and neck cancer patients, PGIMER Chandigarh) comparing salivary substitute, fluoride varnish, and both combined for prevention of radiation caries; DMFS measured before RT and at 3, 6, and 12 months post-RT.
 
-## 한줄요약
+DMFS increased significantly (P<0.05) in all three groups at all timepoints; Bonferroni test showed no intergroup difference — neither agent alone nor the combination halted radiation-caries progression; 67–80 patients had complete 12-month data (substantial attrition).
 
-3군 무작위대조시험 (방사선 조사 두경부암 환자 482명) — 타액대용제·불소바니시·병용 어느 군에서도 DMFS가 모든 시점에서 유의하게 증가했고 (P<0.05) 군간 차이는 없었다 (본페로니 비유의); 단독·병용 모두 방사선 우식 진행을 막지 못함.
+Radiation caries requires multimodal management (gland-sparing RT, professional care, stringent home care, regular follow-up, patient education); single-agent fluoride varnish alone is insufficient in this high-risk population.
+
+## 세줄요약
+
+3군 무작위대조시험(방사선 조사 두경부암 환자 482명, PGIMER 찬디가르) — 타액대용제(Group I), 불소바니시(Group II), 병용(Group III)을 방사선 우식 예방 목적으로 비교; DMFS를 방사선치료(RT) 전과 3·6·12개월 시점에 측정.
+
+3군 모두 모든 시점에서 DMFS 유의하게 증가(P<0.05); 본페로니 검정에서 군간 차이 없음 — 단독·병용 모두 방사선 우식 진행 억제 실패; 12개월 완전 데이터는 67–80명(상당한 탈락).
+
+방사선 우식은 타액선 보존 방사선치료·전문적 구강관리·철저한 자가 관리·정기 추적·교육을 포함한 다중 양식 접근이 필수; 불소바니시 단독으로는 이 고위험군에서 불충분.
+
+## 1. Document Information
 
 ## 1. Document Information
 

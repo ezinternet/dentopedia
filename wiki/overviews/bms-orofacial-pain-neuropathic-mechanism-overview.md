@@ -42,13 +42,21 @@ relations:
 > - 기전→치료 다리: 국소 clonazepam(GABA-A 작용제)의 말초형 반응성은 "탈억제 회복" 논리(price-2009)와 직접 연결되고, T-type/neurosteroid 축은 BMS의 새 표적 후보를 시사한다 — 단 말초 Cl⁻·T-type 표적 진통제는 아직 전임상 단계.
 > - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [claude해석]으로 임상 외삽은 가설 수준. BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 papers reframing primary burning mouth syndrome (BMS) and trigeminal neuropathic pain through two converging molecular axes — central/peripheral disinhibition governed by NKCC1/KCC2 chloride homeostasis (with the same Cl⁻ channels inhibitory centrally but excitatory in high-Cl⁻ peripheral nociceptors), and quantified peripheral small-fiber neuropathy (30–60% IENFD loss, TRPV1/P2X3/NGF/Nav1.7 changes) — and connecting the endogenous neurosteroid–T-type Ca²⁺ channel axis to the postmenopausal predominance and to clonazepam responsiveness.
+Synthesis of 5 papers reframing primary burning mouth syndrome (BMS) and trigeminal neuropathic pain through two converging molecular axes: central/peripheral disinhibition governed by NKCC1/KCC2 chloride homeostasis — the same Cl⁻ channels are inhibitory in the spinal dorsal horn but excitatory in high-Cl⁻ peripheral nociceptors — and quantified peripheral small-fiber neuropathy (30–60% IENFD loss, TRPV1/P2X3/NGF/Nav1.7 changes; Kouri 2024 PRISMA SR).
 
-## 한줄요약
+The endogenous neurosteroid–T-type Ca²⁺ (CaV3.2) axis provides a third layer: allopregnanolone-type neurosteroids produce powerful peripheral analgesia primarily through T-type channel blockade (GABA-A enhancement alone insufficient), linking the postmenopausal female predominance to a sex-steroid/neuroprotective-steroid decline and explaining why topical clonazepam (GABA-A agonist, disinhibition restoration) is selectively effective in peripheral-subtype BMS.
 
-5편 종합 — 일차성 BMS·삼차신경 신경병성 통증을 두 분자 축(NKCC1/KCC2 Cl⁻ 항상성에 의한 중추·말초 탈억제 + 정량화된 말초 소섬유신경병증)으로 재구성하고, 신경스테로이드–T-type Ca²⁺ 축을 폐경 후 호발·clonazepam 반응성과 연결한 기전 지도.
+Clinical takeaway: this page is a mechanism substrate map, not a treatment guide — BMS clinical work-up and therapy should follow the oral-medicine decision ladder; the peripheral/central subtype split (lidocaine block responsiveness, depression/anxiety, striatal dopamine deficit) governs treatment branching, and peripheral Cl⁻/T-type targets remain preclinical.
+
+## 세줄요약
+
+일차성 구강작열감증후군 (Burning Mouth Syndrome, BMS) · 삼차신경 신경병증 5편 기전 종합: 중추(등쪽뿔)/말초 두 층의 억제 상실(탈억제) — NKCC1/KCC2 Cl⁻ 항상성 붕괴로 GABA-A·glycine 억제가 역전 — 과 말초 소섬유신경병증(수내상피신경섬유밀도 30–60% 감소, TRPV1/Nav1.7 변화; Kouri 2024 SR) 이 수렴한다.
+
+내인성 신경스테로이드 (neurosteroid) – T-type Ca²⁺ 통로 (CaV3.2) 축: allopregnanolone의 말초 진통은 CaV3.2 차단이 주기전이고 GABA-A 강화는 단독 불충분 — 폐경 후 여성 호발과 분자적으로 연결(Pathirathna 2005); 국소 클로나제팜(topical clonazepam) 반응은 말초형 탈억제 회복 논리와 직결.
+
+임상 결론: 이 페이지는 기전 지도이지 치료 지침이 아님 — 임상 BMS 진단·치료는 구강내과 decision ladder 우선; 말초형(lidocaine 차단·국소치료 반응)과 중추형(선조체 도파민 결핍·우울 동반) 아형이 치료 분기를 결정하며, 말초 Cl⁻/T-type 표적 진통제는 아직 전임상 단계.
 
 ## Summary
 

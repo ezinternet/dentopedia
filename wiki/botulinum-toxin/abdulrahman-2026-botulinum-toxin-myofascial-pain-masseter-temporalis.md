@@ -15,13 +15,21 @@ full_text: false
 tags: [myofascial-pain, long-term, 2-year]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=200 completed/320 enrolled, 2-year follow-up, Iraq) of BTX injection into masseter + temporalis tender points for myofascial pain showed sustained reduction (VAS 7.99→3.87 at 2yr); early pain response moderated by age/socioeconomic factors; long-term outcomes equalized. Abstract-only.
+Prospective study (n=320 enrolled, 200 completed, 2-year follow-up, Basrah Iraq, January 2019–November 2024) of BTX-A injection at masseter and temporalis tender points for myofascial pain — the longest published follow-up for BTX in masticatory muscles.
 
-## 한줄요약
+Sustained pain reduction was demonstrated at 2 years (VAS 7.99 → 3.87); younger age (26–35 yr), higher income, and higher education predicted better early response at 8 weeks, but these demographic advantages converged and long-term outcomes were equalized.
 
-저작근(교근·측두근) 압통점 BTX 주사 근막통증 전향 연구(n=200 완료, 2년, 이라크)에서 통증이 지속적으로 감소(VAS 7.99→3.87)하였으며, 초기 반응은 연령·사회경제 인자의 영향을 받으나 장기 결과는 동질화됨. 초록만.
+The 37.5% dropout rate is a notable limitation, but the finding of demographically equitable long-term outcomes has direct relevance for counseling patients with slower early responses. (abstract-only)
+
+## 세줄요약
+
+줄1: 교근·측두근 압통점 BTX-A 주사 근막통증 전향 연구(n=320 등록, 200 완료, 2년 추적, 이라크 바스라, 2019~2024) — 저작근 BTX 연구 중 현재까지 가장 긴 추적 기간.
+
+줄2: 2년 시점까지 통증 지속 감소(VAS 7.99→3.87); 초기 반응(8주)은 연령 26~35세·고소득·고학력에서 유리하였으나 장기적으로 차이 소멸.
+
+줄3: 37.5% 탈락률이 한계이나, 인구학적 동질화 장기 결과는 초기 반응 불량 환자에 대한 상담에 중요한 임상 함의. (초록만)
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [convergence-angle, marginal-fit, FPD, pier-abutment, multi-unit, cast-metal, jcdr]
 ---
 
-## One-line Summary
-In vitro study (4 convergence angles 0°/6°/12°/20° × single crown, 3-unit FPD, and multi-unit FPD with pier abutment) of marginal seating: extends convergence-angle research to multi-unit FPDs, showing the convergence-angle × FPD-configuration interaction and that pier-abutment cases require careful convergence management.
+## Three-line Summary
 
-## 한줄요약
-in-vitro (J Clin Diagn Res 2015;9(7):ZC56-60, Triveni India): 0°·6°·12°·20° 수렴각 × 단일 크라운/3유닛 FPD/pier abutment 다유닛 FPD 변연 안착 평가; 수렴각이 클수록 단일은 안착 양호, 다유닛은 수렴각·구성 상호작용이 복잡.
+In-vitro study (J Clin Diagn Res 2015, 4 convergence angles: 0°/6°/12°/20°) of marginal seating in single crowns, 3-unit FPDs, and multi-unit FPDs with pier abutment configuration.
+
+Convergence angle × FPD configuration interaction was documented; multi-unit FPDs with pier abutment required more careful convergence management than single crowns.
+
+This study extends convergence-angle research to the under-studied pier-abutment scenario, highlighting that path-of-insertion parallel alignment is critical when all abutments must seat simultaneously.
+
+## 세줄요약
+
+In-vitro 연구 (J Clin Diagn Res 2015;9(7):ZC56-60, Triveni India): 0°·6°·12°·20° 수렴각 × 단일 크라운/3유닛 FPD/pier abutment 다유닛 FPD 변연 안착 비교.
+
+수렴각 × FPD 구성 간 상호작용 확인; pier abutment 포함 다유닛 FPD에서 수렴각 관리가 더욱 중요.
+
+Pier abutment 케이스는 모든 지대치의 삽입로(path of insertion)가 일치해야 전체 FPD가 완전 안착 가능 — 수렴각 불일치 시 변연 부적합 위험 증가.
 
 ## Summary
 In vitro experimental study (Journal of Clinical and Diagnostic Research July 2015) extending convergence-angle research from single crowns to multi-unit FPDs with pier abutment configuration. Triveni Institute, India.

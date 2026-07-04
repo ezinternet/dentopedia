@@ -17,13 +17,23 @@ text_filename: shandilya-2025-saline-irrigation-oral-cancer-surgery.txt
 
 구강암 수술 중 생리식염수 세정(Saline Irrigation)의 효과에 대한 임상 근거가 부족한 상황에서, 이 전향적 연구는 설득력 있는 세포학적 증거를 제공한다. 수술 직후 상처 오염을 55%에서 7.6%로 줄였다는 정량적 결과는 [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]]의 창상 치유 맥락과 연결되며, 세정 프로토콜의 근거 기반을 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective cohort (n=132) of oral cavity SCC surgery demonstrating that normal saline irrigation significantly reduced wound contamination by exfoliated epithelial cells from 55% to 7.6% (p<0.001).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구강 편평세포암 (Squamous Cell Carcinoma, SCC) 수술 132명 전향적 코호트 — 생리식염수 (Normal Saline) 세정으로 박리 상피세포 오염률을 55%에서 7.6%로 유의하게 감소 (p<0.001).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

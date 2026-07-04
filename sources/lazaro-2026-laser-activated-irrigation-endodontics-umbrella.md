@@ -17,13 +17,23 @@ text_filename: lazaro-2026-laser-activated-irrigation-endodontics-umbrella.txt
 
 기존 [[endodontics/irrigation/]] 논문들은 sonic/ultrasonic activation (Passive Ultrasonic Irrigation, PUI / Apical Negative Pressure, ANP) 중심; 레이저 활성화 세정(Laser-Activated Irrigation, LAI)의 umbrella SR이 없었음. 본 논문은 9개의 SR을 통합한 umbrella review로, Er:YAG, Er,Cr:YSGG, Nd:YAG, diode 레이저를 근관 세정 보조제로 임상적으로 평가한 첫 종합 합성 근거다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Umbrella SR of 9 systematic reviews (through Dec 2024) on laser-activated irrigation in endodontics: erbium lasers (Er:YAG, Er,Cr:YSGG) showed the most consistent benefit for canal decontamination, diode lasers for postoperative pain reduction, Nd:YAG lasers carry microcrack risk, and overall evidence quality was predominantly low to critically low by AMSTAR 2.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 9개 체계적 문헌고찰을 통합한 Umbrella SR: 에르븀 레이저(Er:YAG, Er,Cr:YSGG)가 근관 오염 제거에 가장 일관된 효과, 다이오드 레이저는 술후 통증 감소에 유효, Nd:YAG 레이저는 상아질 미세균열 위험, 전반적 근거 질은 AMSTAR 2 기준 낮음~매우 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

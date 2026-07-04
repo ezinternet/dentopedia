@@ -13,11 +13,19 @@ source_collection: external
 tags: [deep-learning, AI, periapical-radiograph, image-quality, ResNet50, quality-control, radiation-reduction]
 ---
 
-## One-line Summary
-Retrospective (Sci Rep 2026, 3,594 periapical radiographs): ResNet50 deep learning classification of 6 image quality defects and 10 tooth positions — AUC 0.924–1.000; potential for automated quality assessment, reduced retakes, and minimized radiation exposure.
+## Three-line Summary
+Retrospective deep learning study (Sci Rep 2026, 3,594 expert-annotated periapical radiographs) training 7 ResNet50 models — 1 multi-class for 10 tooth positions and 6 binary models for image quality defect detection (vertical/horizontal angle, crown/apical coverage, cone cut, scratch).
 
-## 한줄요약
-retrospective(Sci Rep 2026, 3594 PA): ResNet50 DL로 치근단 방사선 6가지 품질결함·10치위 분류 — AUC 0.924–1.000; 자동 품질평가·재촬영 감소·방사선 피폭 최소화 잠재성.
+AUC performance was excellent across all tasks: tooth position classification AUC 0.997; quality defect detection range AUC 0.924–1.000 (best: horizontal angle and crown coverage = 1.000; lowest: scratch = 0.924).
+
+Automated real-time quality assessment at point-of-care could standardize PA grading, reduce unnecessary retakes, and minimize patient radiation dose through immediate operator feedback.
+
+## 세줄요약
+후향적 딥러닝 연구 (Sci Rep 2026, 전문가 주석 치근단 방사선 3,594장): ResNet50 모델 7개 훈련 — 10개 치위 다중분류 1개, 품질 결함(수직/수평각도, 치관/첨부 포함 여부, 코너 절단, 스크래치) 이진분류 6개.
+
+모든 과제에서 우수한 성능: 치위 분류 AUC 0.997; 품질 결함 탐지 AUC 0.924–1.000 (최고: 수평각도·치관 포함 = 1.000; 최저: 스크래치 = 0.924).
+
+포인트 오브 케어에서 자동 실시간 품질 평가를 구현하면 치근단 방사선 평가 표준화, 불필요한 재촬영 감소, 즉각적 피드백을 통한 방사선 피폭 최소화가 가능하다.
 
 ## Summary
 ResNet50-based deep learning system for automated quality assessment of periapical radiographs across 6 common image defects (vertical/horizontal angle, crown/apical coverage, cone cut, scratch) and 10 tooth positions, validated on 3594 PAs with excellent AUC performance.

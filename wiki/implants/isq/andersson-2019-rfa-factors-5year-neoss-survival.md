@@ -14,11 +14,21 @@ source_collection: external
 tags: [ISQ, RFA, survival, Neoss, 5-year, univariate, unadjusted-OR, clustering-unmodelled, failure-risk, loading-threshold]
 ---
 
-## One-line Summary
-Retrospective univariate analysis (745 Neoss implants, 334 patients; 5-year CSR 97.3% implant-level / 95.8% patient-level): low ISQ at placement or loading was associated with higher implant failure on UNADJUSTED odds ratios (e.g., ISQ<75 at loading OR 17.9), but the analysis is univariate with within-patient clustering unmodeled, so it cannot establish independent prediction.
+## Three-line Summary
 
-## 한줄요약
-후향적 단변량 분석(745 Neoss, 334명; 5년 CSR 97.3% 임플란트수준 / 95.8% 환자수준): 식립·로딩 시 ISQ<70/<75가 실패 위험↑(비보정 OR). ⚠ 다변량 회귀 아님 — 카이제곱·Fisher + 비보정 OR이며 환자내 군집 미보정.
+Retrospective univariate study (745 Neoss implants, 334 patients; 5-year CSR 97.3% implant-level / 95.8% patient-level) examining RFA factors associated with implant failure using chi-square/Fisher and unadjusted odds ratios.
+
+Low ISQ at placement or loading was associated with failure on unadjusted ORs (ISQ <70 at placement OR 3.9; ISQ <75 at loading OR 17.9; n.s. below ISQ 65 due to sparse data); only full-arch rehabilitation and low ISQ were significant predictors.
+
+Analysis is univariate with within-patient clustering unmodeled (745 implants in 334 patients), so independent prediction of failure cannot be established from these data.
+
+## 세줄요약
+
+후향적 단변량 연구(745 Neoss 임플란트, 334명; 5년 임플란트수준 CSR 97.3% / 환자수준 95.8%)에서 카이제곱·Fisher·비보정 오즈비로 식립·부하 시 ISQ와 실패 관련성을 분석하였다.
+
+식립 시 ISQ<70(OR 3.9) 및 부하 시 ISQ<75(OR 17.9)에서 실패 위험 증가; ISQ<65는 실패 사례가 적어 통계적으로 비유의; 전악 보철과 낮은 ISQ만 유의한 단변량 예측인자였다.
+
+단변량 분석이며 환자 내 군집(334명에 745개)을 보정하지 않아 ISQ의 독립적 예측력을 확립할 수 없다 — 다변량 보정 모델(예: 군집 조정 다수준 로지스틱)이 필요하다.
 
 ## Summary
 Large retrospective study of 745 Neoss implants (334 patients), ≥5-year follow-up. 5-year CSR 97.3% (implant-level) / 95.8% (patient-level). Low ISQ (<70, <75) at placement or loading is associated with higher failure on UNADJUSTED odds-ratio analysis.

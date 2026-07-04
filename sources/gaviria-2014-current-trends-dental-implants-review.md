@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 역사·재료·표면처리 분야의 서사적 총론으로, 현재 보유 중인 [[implants/buser-50-anni-di-impianti]] (Buser 2017 50주년 리뷰)와 비교하여 2014년 시점의 설계 파라미터·바이오재료 동향을 보완하는 기초 참조문헌으로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (2014) tracing dental implant history from ancient civilizations to modern titanium endosseous implants, covering macro/micro design parameters, surface modification strategies (HA coating, sandblasting, acid-etching, anodization), and emerging trends (drug delivery, growth factors, biomimetic surfaces).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서사적 총론(2014): 고대 문명부터 현대 티타늄 골내 임플란트까지의 역사, 거시/미세 설계 파라미터, 표면처리 전략(하이드록시아파타이트 코팅, 샌드블라스팅, 산 에칭, 양극산화), 신흥 트렌드(약물전달, 성장인자, 생체모방 표면)를 종합 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

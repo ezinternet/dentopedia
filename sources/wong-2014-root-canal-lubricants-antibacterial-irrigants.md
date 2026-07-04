@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review]]의 irrigant 항균 논의에 lubricant(윤활제/chelating paste)의 항균성 데이터를 추가. Glyde·RC-Prep 등 paste가 항균 측면에서 irrigant에 비빌 수 있는지 in vitro 비교.
 
-## One-line Summary
-In vitro study comparing antibacterial activity of 10 root-canal lubricants and 7 irrigants against E. faecalis (and others); several lubricants matched some irrigants, with activity not correlated to pH (2.9–10.3).
+## Three-line Summary
 
-## 한줄요약
-In vitro: 근관 윤활제 10종과 세정제 7종의 항균력(E. faecalis 등) 비교 — 일부 윤활제가 일부 세정제에 필적, 활성은 pH(2.9–10.3)와 무관.
+In vitro study comparing antibacterial activity of 10 root-canal lubricants and 7 irrigants against E.
+
+faecalis (and others);
+
+several lubricants matched some irrigants, with activity not correlated to pH (2.9–10.3).
+
+## 세줄요약
+
+In vitro: 근관 윤활제 10종과 세정제 7종의 항균력(E.
+
+faecalis 등) 비교 — 일부 윤활제가 일부 세정제에 필적, 활성은 pH(2.9–10.3)와 무관.
+
+(incomplete)
 
 ## 1. Document Information
 - Australian Endodontic Journal 2014;40(3):111–115.

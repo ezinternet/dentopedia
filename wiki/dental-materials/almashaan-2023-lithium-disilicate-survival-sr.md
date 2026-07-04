@@ -13,11 +13,21 @@ source_collection: external
 tags: [lithium-disilicate, lds, emax, survival-rate, fixed-prosthesis, crown, fpd, pfm, comparison, ceramic]
 ---
 
-## One-line Summary
-SR of complete-coverage fixed lithium disilicate (LDS) prosthesis survival (Medicina 2023, 2006–2022): LDS single crown survival comparable to PFM; fracture risk higher for long-span FDPs.
+## Three-line Summary
 
-## 한줄요약
-리튬 디실리케이트(LDS) 전부피개 고정성 보철물 생존율 SR (Medicina 2023): 2006–2022 PubMed+EMBASE+Google Scholar; LDS 단관 생존율 PFM 대등; 장경간 FPD에서 파절 위험 높음.
+Systematic review (Medicina 2023; PubMed/MEDLINE, EMBASE, Google Scholar, ClinicalTrials.gov; January 2006–August 2022; prospective clinical studies; natural-tooth abutments) of survival and complication rates for complete-coverage fixed lithium disilicate (LDS) prostheses versus non-LDS (predominantly PFM).
+
+LDS single crowns demonstrated ≥90% 5-year survival rates generally comparable to or exceeding PFM; long-span LDS FDPs (>3 units) showed significantly higher fracture risk than metal-ceramic alternatives.
+
+LDS is preferred for esthetic single-unit restorations; PFM remains the reference standard for multi-unit bridges; main complications were chipping/fracture and marginal secondary caries.
+
+## 세줄요약
+
+체계적 문헌고찰(Medicina 2023; PubMed/EMBASE/Google Scholar/ClinicalTrials.gov; 2006–2022년; 전향적 임상연구; 자연치 지대치): 전부피개 고정성 리튬 디실리케이트(Lithium Disilicate, LDS) 보철물의 생존율·합병증을 PFM 등 비-LDS와 비교.
+
+LDS 단관(Single Crown): 5년 생존율 ≥90%로 PFM과 동등 또는 우수; 장경간 LDS 고정성 치아보철물(Fixed Dental Prosthesis, FDP, >3단위): PFM 대비 파절 위험 유의하게 높음.
+
+LDS는 심미성 필요한 단관 수복에 적합; 다단위 브릿지에서는 PFM이 여전히 기준; 주요 합병증: 파절·칩핑 및 변연 이차우식.
 
 ## Summary
 Systematic review addressing survival and complication rates of complete-coverage fixed lithium disilicate (LDS) prostheses compared to non-LDS (predominantly PFM). Search: PubMed/MEDLINE, EMBASE, Google Scholar, ClinicalTrials.gov; January 2006–August 2022. Inclusion: prospective clinical studies; LDS fixed crowns and bridges; natural teeth as abutments.

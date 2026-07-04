@@ -27,13 +27,21 @@ tags: [cold-plasma, cap, ntpp, non-thermal-plasma, underwater-discharge-plasma, 
 > - 소아 적용: 유치 근관에서 NTPP가 CHX·다이오드 레이저·프로폴리스를 제치고 최고 감소(4.06 log, 98.79%) — 유치는 개방 첨공으로 NaOCl이 후속 영구치배에 독성 위험이 있어 비열·비독성 플라즈마가 특히 매력적 (El Shishiny 2025).
 > - 최고 임상근거 & 한계: Lyu 2025 — 수중방전 플라즈마 (Underwater Discharge Plasma, UDP) vs 6% NaOCl 최초 사람 RCT 파일럿(n=28, 4개월). 통증(VAS)·치근단 치유(PAI) 동등, 부작용 0, 임피던스(>5000 Ω) 자동차단 안전장치 검증. 단 치유율 71.4% vs 92.9%(NS, 검정력 0.65로 과소검정)·기관-기기 이해상충·미생물 종결점 부재 — 임상 도입 전 대규모·장기 RCT 필수. [claude해석: 전체 근거는 in-vitro 편중, 임상은 단일 파일럿]
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 wiki pages (5 in-vitro, 1 narrative review, 1 RCT) on cold atmospheric plasma (CAP) / non-thermal plasma for root canal disinfection. Plasma generates ROS/RNS at <40 °C to kill E. faecalis biofilm without thermal or chemical toxicity and without inducing resistance; ≥8–12 min direct exposure can fully eradicate mature biofilm in vitro (Li 2015 12 min → 0 CFU; Armand 2019 ~5.2 log). It beats Ca(OH)₂ but trails NaOCl on speed/completeness (Kumar 2023) and trails TAP (Asnaashari 2022); synergistic with NaOCl/CHX (Muniz 2023). The single human RCT pilot (Lyu 2025, UDP vs 6% NaOCl, n=28) shows comparable 4-month pain/PAI healing and zero adverse effects — promising but underpowered.
+Synthesis of 7 wiki pages (5 in-vitro, 1 narrative review, 1 RCT pilot) on cold atmospheric plasma (CAP) / non-thermal plasma for root canal disinfection: plasma generates ROS/RNS (·OH, H₂O₂, O₃, NO, ONOO⁻) at <40 °C to eradicate E. faecalis biofilm without thermal damage or resistance induction; pediatric application (NTPP vs CHX/diode laser/propolis) achieves the highest log reduction (4.06 log, 98.79%, El Shishiny 2025).
 
-## 한줄요약
+Direct in-vitro exposure ≥8–12 min fully eradicates mature biofilm (Li 2015: 12 min → 0 CFU; Armand 2019: 8 min → ~5.2 log); CAP surpasses Ca(OH)₂ but trails NaOCl (0 CFU at 5 min vs CAP incomplete at 10 min, Kumar 2023) and trails TAP (hierarchy TAP > CAP > Ca(OH)₂, Asnaashari 2022); synergistic combination with NaOCl/CHX allows shortened plasma exposure time (Muniz 2023).
 
-근관소독용 냉대기압 플라즈마(CAP)/비열 플라즈마 7편(in-vitro 5·리뷰 1·RCT 1) 통합. 플라즈마는 40°C 이하에서 ROS/RNS를 생성해 E. faecalis 바이오필름을 열·화학독성·내성 없이 사멸; 직접 ≥8–12분이면 성숙 바이오필름 완전 제거(Li 2015 12분 0 CFU, Armand 2019 ~5.2 log). Ca(OH)₂보다 우수하나 NaOCl(속도·완전성)·TAP에는 미달(Kumar 2023, Asnaashari 2022), NaOCl/CHX와 병용 시 시너지(Muniz 2023). 유일한 사람 RCT 파일럿(Lyu 2025, UDP vs 6% NaOCl, n=28)은 4개월 통증·PAI 치유 동등·부작용 0 — 유망하나 과소검정.
+The only human RCT pilot (Lyu 2025, underwater-discharge plasma vs 6% NaOCl, n=28, 4 months) shows comparable pain (VAS) and periapical healing (PAI) with zero adverse effects, but is underpowered (72% healing rate vs 93%, NS; power 0.65); large RCTs are required before clinical adoption.
+
+## 세줄요약
+
+근관소독용 냉대기압 플라즈마(Cold Atmospheric Plasma, CAP)/비열 플라즈마 7편(in vitro 5·리뷰 1·RCT 1) 통합: 플라즈마는 40°C 이하에서 활성산소·질소종(ROS/RNS: ·OH, H₂O₂, O₃, NO, ONOO⁻)을 생성해 E. faecalis 바이오필름을 열·화학독성·내성 없이 사멸; 소아 적용(비열 플라즈마 vs CHX·다이오드 레이저·프로폴리스) 시 최고 감소(4.06 log, 98.79%, El Shishiny 2025).
+
+직접 ≥8–12분 노출이면 성숙 바이오필름 완전 제거(Li 2015 12분 0 CFU, Armand 2019 ~5.2 log); Ca(OH)₂ 초과·NaOCl(5분 0 CFU vs CAP 10분 미완전, Kumar 2023)·삼중항생제 페이스트(Triple Antibiotic Paste, TAP)에는 미달(Asnaashari 2022); NaOCl/CHX와 병용 시 노출시간 단축 가능한 시너지(Muniz 2023).
+
+유일한 사람 RCT 파일럿(Lyu 2025, 수중방전 플라즈마(Underwater Discharge Plasma, UDP) vs 6% NaOCl, n=28, 4개월): 통증·PAI 치유 동등·부작용 0이나 과소검정(치유 71.4% vs 92.9% NS, 검정력 0.65) — 임상 도입 전 대규모·장기 RCT 필수.
 
 ## Summary
 

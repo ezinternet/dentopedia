@@ -20,13 +20,21 @@ relations:
 text_filename: ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Phantom dosimetry recalculation under ICRP 2007: FMX + PSP + rectangular collimation = 34.9 µSv; 4 bitewings = 5.0 µSv; round-collimation FMX = 171 µSv — values 32–422% higher than prior ICRP 1990 estimates.
+Phantom dosimetry study (Alderson-Rando head phantom, 28-organ TLD sites) recalculating effective doses for all common dental radiographic modalities under the updated ICRP 2007 tissue-weighting scheme, which newly included salivary glands, extrathoracic region, and oral mucosa.
 
-## 한줄요약
+Under ICRP 2007, FMX with PSP and rectangular collimation = 34.9 µSv; 4 bitewings = 5.0 µSv; FMX with round collimation = 170.7 µSv — all values 32–422% higher than prior ICRP 1990 estimates; switching from D-speed film + round to PSP + rectangular collimation reduces FMX dose by ~91%.
 
-팬텀 선량측정으로 ICRP 2007 재계산: 전악구내방사선(PSP+직사각조준) 34.9 µSv, 4매 바이트윙 5.0 µSv, 원형조준 전악 171 µSv — 이전 값 대비 32–422% 상승.
+This paper is the foundational benchmark dose table for dental radiography: clinicians can dramatically reduce patient exposure through collimation choice, and all reported doses remain well below the risk threshold of medical imaging.
+
+## 세줄요약
+
+조직 등가 두경부 팬텀(28개 장기 TLD 배치)으로 주요 치과 방사선 촬영의 유효선량을 ICRP 2007 조직가중계수(타액선·구강점막·흉곽외 신규 포함)로 재산정한 선량측정 연구.
+
+ICRP 2007 기준 전악구내방사선(Full Mouth Radiograph, FMX; PSP + 직사각 조준기) 34.9 µSv, 4매 교익 5.0 µSv, 원형 조준기 FMX 170.7 µSv — 이전 ICRP 1990 값 대비 32–422% 상승; D속도 필름+원형→PSP+직사각으로 전환 시 FMX 선량 ~91% 절감.
+
+치과 방사선 선량의 표준 참고표로 가장 많이 인용되며, 조준기 선택만으로도 환자 피폭을 획기적으로 줄일 수 있음을 수량화했다.
 
 ## Summary
 

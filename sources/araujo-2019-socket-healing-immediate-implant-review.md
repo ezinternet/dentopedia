@@ -9,8 +9,21 @@ pdf_filename: araujo-2019-socket-healing-immediate-implant-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Narrative/scoping review (Periodontology 2000) of Latin-American clinical and animal studies on socket healing with vs. without immediate implant placement: immediate implant installation yields predictable osseointegration and high survival but does not prevent bone modeling or alveolar ridge dimensional reduction; hard- and soft-tissue grafting at the time of placement partially compensates for the ridge loss.
+## Three-line Summary
+
+Narrative review (Periodontology 2000, 2019) synthesizing Latin-American clinical and animal evidence on socket healing with vs without immediate implant placement, using the Araújo–Lindhe dog model as the biological anchor.
+
+Immediate implant survival >95% in Latin-American case series; animal models confirm 1.5–2 mm vertical buccal bone loss by 12 weeks regardless of implant presence; DBBM gap grafting reduces but does not abolish horizontal collapse; adding CTG improves mid-facial mucosal stability.
+
+Immediate implant placement does not prevent ridge resorption; hard- and soft-tissue grafting are required to partially compensate — the clinical translation of the foundational Araújo dog studies, limited to Latin-American literature and without quantitative pooling.
+
+## 세줄요약
+
+서술적 고찰(Periodontology 2000, 2019) — 라틴아메리카 임상·동물 연구를 Araújo–Lindhe 개 모델에 기반해 즉시식립 유무에 따른 발치와 치유를 종합.
+
+즉시식립 생존율 >95%; 동물 모델에서 12주까지 순측골 1.5–2 mm 수직 소실(임플란트 유무 무관); DBBM gap 이식 시 수평 허탈 감소(완전 예방 불가); CTG 추가 시 중안면 점막 안정성 향상.
+
+즉시식립은 치조제 흡수를 예방하지 못함 — 경·연조직 이식이 필수; 라틴아메리카 문헌에 한정되고 정량 통합 없는 한계.
 
 ## 1. Document Information
 - **Journal**: Periodontology 2000, Vol. 79, Issue 1, pp. 168–177

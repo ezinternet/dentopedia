@@ -9,7 +9,7 @@ pdf_filename: gehrke-2024-implant-dentistry-review-2024.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 현대 임플란트 치의학 주요 현안(표면 처리, 골융합, 임플란트 재료, 디지털 임플란트) 서술적 고찰.
 
 ## 1. Document Information

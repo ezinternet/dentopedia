@@ -16,13 +16,21 @@ relations:
     target: pachiou-2025-narrow-diameter-implants-fixed-posterior
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (12 publications, 8 independent studies) finding narrow-diameter implants for mandibular overdentures match regular-diameter implants on survival and MBL while delivering significantly better patient satisfaction and oral health-related quality of life.
+SR+MA (12 publications, 8 independent studies; Medline/Embase/CENTRAL/Scopus to July 2022) comparing narrow-diameter implants (NDIs) vs regular-diameter implants (RDIs) for mandibular implant-supported overdentures.
 
-## 한줄요약
+NDIs showed no significant difference from RDIs in implant survival rate or marginal bone loss, yet delivered significantly better patient satisfaction (VAS) and oral health-related quality of life (OHIP).
 
-12편 논문(독립 연구 8편) 체계적 고찰·메타분석. 하악 임플란트 피개의치에서 NDI는 RDI와 생존율·MBL이 동등했고 환자 만족도(VAS)·구강건강 삶의질(OHRQoL)은 유의하게 더 좋았다.
+For elderly and atrophic-ridge patients requiring mandibular overdentures, NDIs are a valid graft-avoidance first-line option combining equivalent biological outcomes with superior patient-reported outcomes.
+
+## 세줄요약
+
+SR+MA (12편, 독립 연구 8편; Medline/Embase/CENTRAL/Scopus, 2022년 7월까지) — 하악 임플란트 피개의치(Implant-Supported Overdenture)에서 좁은 직경 임플란트(Narrow-Diameter Implant, NDI) vs 표준 직경 임플란트(Regular-Diameter Implant, RDI) 비교.
+
+임플란트 생존율·변연골소실(Marginal Bone Loss, MBL): 두 군 간 유의차 없음; 환자 만족도(Visual Analogue Scale, VAS)·구강건강 관련 삶의 질(Oral Health Impact Profile, OHIP): NDI가 유의하게 우수.
+
+노령·위축 하악 무치악 환자의 피개의치에서 NDI는 생물학적 동등성 + 환자보고결과 우위를 갖춘 최소침습 1차 선택지로 지지.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/overviews/implant-loading-protocol-prosthesis-type-overview]]의 즉시부하 vs 지연부하 (Immediate Loading vs Delayed Loading) 결론이 single-tooth 심미영역에서 5년 장기 데이터로 지지되는지 확인이 필요했다. 본 RCT (Gjelvold 2021)는 상악 심미영역 단일치 50명을 5년 추적하며 생존율·변연골소실(MBL)·papilla index·PES/WES를 직접 비교해, [[wiki/immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] 및 [[wiki/immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]의 즉시부하 심미 안전성 주장을 장기 근거로 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 RCT (n=50, healed maxillary anterior/premolar sites): immediate loading (IL) and delayed loading (DL) of single-tooth implants gave statistically indistinguishable 5-year survival (100% vs 95.8%), marginal bone loss (−0.50 vs −0.54 mm), papilla index, and PES/WES — IL is as safe as DL esthetically and biologically at 5 years.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 무작위대조시험 (RCT, n=50, 치유된 상악 심미영역): 단일치 임플란트의 즉시부하 (Immediate Loading, IL)와 지연부하 (Delayed Loading, DL)는 5년 생존율(100% vs 95.8%), 변연골소실(−0.50 vs −0.54 mm), 치간유두지수, 분홍·백색 심미점수(PES/WES) 모두 통계적 차이가 없어 — IL이 DL만큼 심미적·생물학적으로 안전함을 5년 시점에 입증.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

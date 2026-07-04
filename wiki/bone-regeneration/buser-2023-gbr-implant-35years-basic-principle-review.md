@@ -16,13 +16,21 @@ relations:
     target: bone-regeneration/sasaki-2021-barrier-membranes-tissue-regeneration-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Definitive 35-year GBR narrative review by field pioneers establishing that collagen membranes dominate horizontal augmentation while PTFE membranes suit vertical augmentation, with composite grafts (autogenous chips + DBBM) as the current gold standard.
+Narrative review by GBR field founders (Buser, Dahlin et al.) tracing 35 years of development across three eras: proof-of-concept, morbidity reduction, and current simultaneous implant + GBR protocols.
 
-## 한줄요약
+Collagen membranes + composite graft (autogenous chips + DBBM) are the current gold standard for horizontal augmentation; non-resorbable PTFE/Ti-mesh membranes are recommended for vertical augmentation where greater space maintenance is required.
 
-GBR 선구자들의 35년 종합 서술적 고찰 — 수평 증대에는 콜라겐막, 수직 증대에는 PTFE, 이식재는 자가골칩+DBBM 복합이 현재 표준으로 확립.
+The PASS principle (Primary closure, Angiogenesis, Space maintenance, Stability) remains the four-condition framework for GBR success; no single membrane or graft material suits all defect types.
+
+## 세줄요약
+
+GBR 선구자(Buser·Dahlin 등) 5인이 35년 역사를 세 시대(개념 증명 → 이환율 감소 → 동시 식립 프로토콜)로 정리한 서술적 고찰.
+
+수평 증대는 콜라겐막+복합이식재(자가골칩+DBBM) 표준, 수직 증대는 공간유지력이 큰 비흡수성 ePTFE·Ti-mesh 권장.
+
+PASS 원칙(일차폐쇄·혈관신생·공간유지·안정성) 4조건이 GBR 성공의 핵심; 단일 재료로 모든 결손유형을 대응할 수 없음.
 
 ## Summary
 

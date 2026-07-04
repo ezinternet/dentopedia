@@ -13,11 +13,21 @@ source_collection: external
 
 단일 정중부 하악 임플란트의 즉시하중 안전성을 처음으로 RCT로 검증. 즉시식립/즉시하중 의사결정 근거를 보강하며 immediate loading의 적응증 한정 시나리오를 제시 — early-failure clustering 측면에서 [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]]의 조기실패 패턴과 연결.
 
-## One-line Summary
+## Three-line Summary
+
 Multicenter RCT (24 mo) — immediate loading of a single median mandibular implant for overdenture retention could NOT be proven noninferior to delayed loading: 9 early failures in the immediate group vs 1 in the delayed group.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 다기관 RCT(24개월): 하악 정중부 단일 임플란트의 오버덴처 즉시하중은 지연하중에 대해 비열등성이 입증되지 않음 — 즉시군 조기실패 9개 vs 지연군 1개.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dental Research 2018;97(2):163–170. German multicenter (Kiel et al.). DRKS registered. 24-mo RCT.

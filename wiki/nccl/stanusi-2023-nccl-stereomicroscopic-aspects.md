@@ -13,11 +13,19 @@ source_collection: external
 tags: [nccl, stereomicroscopy, wedge-shaped, saucer-shaped, morphology, diagnosis]
 ---
 
-## One-line Summary
-Stereomicroscopic (up to 75x) examination of 27 extracted NCCL teeth correlating wedge-shaped lesions with occlusal+brushing factors and saucer-shaped with smooth-wall wear; 67% were under 500 µm deep.
+## Three-line Summary
+Ex vivo descriptive in-vitro study using NIKON SMZ 745T stereomicroscopy (up to 75x) on 27 extracted teeth with NCCLs from a prior OCT cohort, classified as wedge (59%), saucer (37%), or mixed (4%).
 
-## 한줄요약
-발치 NCCL 27개의 75x stereomicroscope 검사로 wedge형은 교합+칫솔질, saucer형은 매끈한 마모와 연관지었고 67%가 500µm 미만 깊이였던 연구.
+Wedge-shaped lesions showed measurable scratches, furrows, and cracks consistent with occlusal overload combined with toothbrushing; saucer-shaped lesions showed smooth walls consistent with chemical/abrasive wear; 67% of all lesions were shallow (<500 µm deep).
+
+Stereomicroscopy is proposed as an early-detection imaging tool for NCCLs before they become clinically obvious, complementing morphologic classifications used in restorative guidelines.
+
+## 세줄요약
+발치 NCCL 치아 27개에 대한 NIKON SMZ 745T 입체현미경(최대 75x) ex vivo 서술적 연구 — wedge형 59%, saucer형 37%, 혼합형 4%로 분류.
+
+Wedge형 병소에서 교합 과부하+칫솔질을 시사하는 긁힘·균열, saucer형에서 화학적/마모성 마모를 시사하는 매끈한 벽면 관찰; 전체 병소의 67%가 500 µm 미만의 얕은 깊이.
+
+조기 진단 도구로서 입체현미경의 임상적 활용이 제안되며, 기존 NCCL 형태-원인 분류 지침(Goodacre 2022)을 영상적으로 보완.
 
 ## Summary
 This Romanian study introduces stereomicroscopy (NIKON SMZ 745T, up to 75x) as a tool for NCCL morphologic assessment and early diagnosis, examining 27 extracted teeth (13 incisors, 14 premolars) carried over from a prior OCT cohort of 112 teeth. Lesions were classified as wedge-shaped (59%), saucer-shaped (37%), or mixed/irregular (4%). Wedge-shaped lesions revealed measurable scratches, furrows, and cracks, which the authors associate with occlusal overload combined with tooth brushing; saucer-shaped lesions showed smooth walls consistent with chemical/abrasive wear. Two-thirds of lesions were shallow (<500 µm), supporting the paper's argument that high-magnification imaging aids detection of early NCCLs before they become clinically obvious. The work complements morphologic classifications used in restorative guidelines (Goodacre 2022) and corroborates the morphology-etiology linkage at an imaging level.

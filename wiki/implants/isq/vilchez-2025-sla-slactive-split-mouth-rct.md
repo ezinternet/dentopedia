@@ -20,13 +20,21 @@ relations:
     target: andersson-2019-rfa-factors-5year-neoss-survival
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=68, 136 implants, 12 months): modified SLActive and conventional SLA Bone Level Tapered Roxolid implants showed equivalent ISQ trajectories and no significant difference in the primary outcome (MBL change loading→12 months: 0.04 vs 0.07 mm, p=0.658), with 100% implant survival after loading in both groups.
+Dual-center split-mouth RCT (n=68, 136 Straumann Bone Level Tapered Roxolid implants, 12 months post-loading) comparing modified SLActive (hydrophilic) vs conventional SLA surface chemistry within the same patients.
 
-## 한줄요약
+Primary outcome MBL change from loading to 12 months was equivalent (−0.04 vs −0.07 mm, p=0.658); ISQ was identical at placement (73.0 vs 72.3, p=0.636) and at 8 weeks (75.5 vs 75.9, p=0.805); post-loading survival was 100% in both groups.
 
-무작위대조 분할구강 임상시험(n=68, 136개 임플란트, 12개월): 변형 SLActive와 기존 SLA 임플란트 간 ISQ 궤적 및 1차 결과(부하 후 12개월 변연골 소실 변화량 0.04 vs 0.07mm, p=0.658)에 유의한 차이 없음; 부하 이후 생존율 두 군 모두 100%.
+Surface chemistry (SLA vs SLActive) does not meaningfully differentiate ISQ trajectories or peri-implant bone stability at 12 months when implant macrodesign is identical; implant placement factors appear more influential than surface hydrophilicity.
+
+## 세줄요약
+
+이중기관 분할구강 무작위대조시험 (RCT, n=68, Straumann Bone Level Tapered Roxolid 임플란트 136개, 부하 후 12개월): 동일 환자 내에서 변형 SLActive(친수성) vs 기존 SLA 표면화학 비교.
+
+1차 결과(부하→12개월 변연골 소실 변화량) 동등(−0.04 vs −0.07 mm, p=0.658); 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)도 식립 시(73.0 vs 72.3, p=0.636) 및 8주(75.5 vs 75.9, p=0.805) 모두 동등; 부하 후 생존율 양군 100%.
+
+임플란트 거시설계가 동일하면 표면화학(SLA vs SLActive)은 ISQ 궤적이나 골 안정성을 유의하게 차별화하지 못하며, 표면 친수성보다 식립 관련 인자가 더 영향력 있음.
 
 ## Summary
 

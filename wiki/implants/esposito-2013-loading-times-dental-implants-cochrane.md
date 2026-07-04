@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (26 RCTs, n=1217, 2120 implants): no clinically significant difference in prosthesis failure, implant failure, or marginal bone loss between immediate, early, and conventional implant loading at 1 year; evidence quality very low (GRADE).
+Cochrane SR+MA 5th update (26 RCTs, n=1,217 participants, 2,120 implants) comparing immediate loading (≤1 week), early loading (1 week–2 months), and conventional loading (>2 months) for osseointegrated root-form implants.
 
-## 한줄요약
+No clinically significant difference in prosthesis failure (RR 1.90; CI 0.67–5.34), implant failure (RR 1.50; CI 0.60–3.77), or marginal bone loss (MD −0.10 mm) between immediate and conventional loading; overall implant failure rate 2.5%; evidence quality very low (GRADE).
 
-코크란 체계적 문헌고찰(26 RCT, 1217명, 2120 임플란트): 즉시·조기·통상 부하 간 보철·임플란트 실패율 및 변연골 소실에서 임상적으로 유의한 차이 없음; 근거 수준 매우 낮음(GRADE).
+Immediate/early loading is not inferior to conventional loading when insertion torque ≥35 Ncm is achieved, but the evidence base remains limited by high/unclear risk of bias in most trials.
+
+## 세줄요약
+
+코크란 SR+MA 5차 업데이트 (26 RCT, n=1,217명, 2,120 임플란트) — 골유착 나사형 임플란트의 즉시 부하(≤1주), 조기 부하(1주–2개월), 통상 부하(>2개월) 비교.
+
+즉시 vs 통상 부하 간 보철 실패(RR 1.90; CI 0.67–5.34), 임플란트 실패(RR 1.50; CI 0.60–3.77), 변연골 소실(MD −0.10 mm) 모두 임상적으로 유의한 차이 없음; 전체 임플란트 실패율 2.5%; 근거 수준 매우 낮음(GRADE).
+
+삽입 토크 ≥35 Ncm 달성 시 즉시·조기 부하는 통상 부하에 비해 열등하지 않으나, 대부분의 연구에서 비뚤림 위험이 높거나 불명확하여 근거 수준에 한계가 있음.
 
 ## Summary
 

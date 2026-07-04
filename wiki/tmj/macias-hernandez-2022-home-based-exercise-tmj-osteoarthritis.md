@@ -23,13 +23,21 @@ relations:
     target: calixtre-2015-manual-therapy-tmd-pain-rom-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-group pre-post study (n=15 patients, 26 clinically+radiographically confirmed TMJ osteoarthritis joints), Korean journal (JKAOMS); a 6-month home-based physiotherapy program (heat, massage, stretching, mobilization, strengthening) significantly reduced pain (VAS, p=0.001) and improved Helkimo functionality from severe to minimal dysfunction (p=0.001), with minimal rescue-NSAID use and increased ultrasound disc visibility.
+Single-group pre-post prospective study (n=15 patients, 26 joints; all female, median age 57 y), dual-confirmed TMJ osteoarthritis (RDC/TMD Axis I Group IIIb + radiographic criteria), published in JKAOMS 2022; a 6-month home-based physiotherapy program (thermotherapy, intraoral/extraoral massage, stretching, free joint mobilization, isometric strengthening; 3–5×/week, taught in one supervised session) was tested.
 
-## 한줄요약
+Pain (VAS) and Helkimo dysfunction index improved significantly within 1 month and were sustained to 6 months (both p=0.001; Helkimo 17 → 0.25 → 2 at 0/1/6 mo), rescue acetaminophen use was negligible (median 1.25 days), and ultrasound disc visibility rose from 38.5% to 57.7% of joints; zero dropouts and mean adherence 4.5 sessions/week.
 
-단일군 전후비교 연구(n=15명, 26개 임상+방사선 확진 TMJ 골관절염 관절), 대한구강악안면외과학회지(JKAOMS) 게재; 6개월 가정 물리치료 프로그램(온열·마사지·스트레칭·관절가동·강화운동)으로 통증(VAS, p=0.001)과 Helkimo 기능지수(중증→경증, p=0.001)가 유의 개선, NSAID 사용은 미미하고 초음파상 관절원판 관찰률도 증가했다.
+The study provides a concrete, replicable protocol demonstrating that clinically and radiographically confirmed TMJ OA can be managed conservatively without pharmacologic escalation, but it has no control arm — distinguishing the exercise effect from natural history or regression-to-the-mean is not possible.
+
+## 세줄요약
+
+단일군 전후비교 전향 연구(n=15명, 26관절; 전원 여성, 중앙 연령 57세), 임상(RDC/TMD Axis I Group IIIb)+방사선 이중확진 TMJ 골관절염(Temporomandibular Joint Osteoarthritis), 대한구강악안면외과학회지(JKAOMS) 2022 게재; 6개월 가정 물리치료(온열·구강내외 마사지·스트레칭·관절가동·등척성 강화; 3–5회/주, 1회 교육 후 자가시행) 검증.
+
+통증(VAS)과 Helkimo 기능지수가 1개월 내 유의 개선·6개월까지 유지(둘 다 p=0.001; Helkimo 17→0.25→2점), 구제 아세트아미노펜 사용 미미(중앙값 1.25일), 초음파 원판 관찰률 38.5%→57.7% 상승; 탈락 0, 평균 순응도 4.5회/주.
+
+대조군이 없는 단일군 설계라 운동 효과와 자연경과·평균회귀를 분리할 수 없으나, 기존 코크란이 근거불충분으로 제외했던 "TMJ OA + 운동치료" 공백을 채우는 재현가능한 1차 데이터를 제공한다.
 
 ## Summary
 

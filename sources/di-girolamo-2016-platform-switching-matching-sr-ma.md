@@ -9,8 +9,21 @@ pdf_filename: di-girolamo-2016-platform-switching-matching-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA(15편, 1439 임플란트, 642명): PS 임플란트 MBL이 PM 대비 유의하게 낮음; 임플란트 실패율 차이 없음; 플랫폼 스위칭 변연골 보존 효과 확인
+## Three-line Summary
+
+Systematic review with meta-analysis (15 RCTs; 1,439 implants, 642 patients; English-language studies with ≥12 months follow-up post-loading) comparing marginal bone level changes around platform-switching (PS) versus platform-matching (PM) implants.
+
+Platform-switching implants showed consistently and significantly lower marginal bone loss (MBL) compared to platform-matching implants across most included studies, with no statistically significant differences in implant failure rates between the two configurations.
+
+Platform switching is an effective technique to limit crestal bone resorption around implants; however, heterogeneity among included studies necessitates cautious interpretation of pooled results.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석(15편 RCT; 1,439개 임플란트, 642명; 부하 후 ≥12개월 추적 영어 문헌): 플랫폼 스위칭(Platform Switching, PS) 임플란트와 플랫폼 매칭(Platform Matching, PM) 임플란트의 변연골 수준 변화를 비교.
+
+PS 임플란트는 대부분의 포함 연구에서 PM 대비 변연골소실(Marginal Bone Loss, MBL)이 유의하게 낮았으며, 임플란트 실패율에는 두 구성 간 통계적으로 유의한 차이가 없었음.
+
+플랫폼 스위칭은 임플란트 주변 치조골 흡수를 효과적으로 제한하는 술식으로 확인되나, 포함 연구 간 이질성이 높아 통합 결과 해석 시 주의가 필요.
 
 ## 1. Document Information
 - **Title**: Bone level changes around platform switching and platform matching implants: a systematic review with meta-analysis

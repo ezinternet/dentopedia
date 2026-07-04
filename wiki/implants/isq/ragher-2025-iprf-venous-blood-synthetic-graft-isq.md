@@ -20,13 +20,21 @@ relations:
     target: lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=64) comparing no graft, venous blood, i-PRF, and NovaBone synthetic graft for indirect crestal sinus augmentation: i-PRF and NovaBone achieved ISQ ~70–76 at 6 months vs. ~55–62 for no graft/venous blood, with no significant difference between i-PRF and NovaBone.
+Double-blinded parallel-group RCT (n=64, 4 arms, RBH 4–6 mm) comparing no graft, venous blood, i-PRF, and NovaBone synthetic graft for indirect crestal sinus augmentation using the CAS Kit osteotomy system.
 
-## 한줄요약
+At 6 months, i-PRF (ISQ buccal 70.06 ± 6.32) and NovaBone (75.88 ± 2.87) both surpassed ISQ 70 vs no-graft (54.81) and venous blood (56.75) groups (p<0.001); i-PRF and NovaBone did not differ significantly (p=0.546 buccal, p=0.749 mesial).
 
-간접 경치조골 상악동거상술 후 i-PRF군과 NovaBone 합성골군이 무이식·정맥혈군 대비 6개월 ISQ를 유의하게 높였으며(~70–76 vs ~55–62), 두 생물학적 강화재 간 차이는 없었다 (RCT, n=64).
+Venous blood offers no measurable advantage over no graft (lacks structured fibrin matrix); i-PRF provides equivalent ISQ outcomes to a synthetic scaffold while eliminating foreign-material use.
+
+## 세줄요약
+
+이중맹검 RCT (n=64, 4군, 잔존골 4–6 mm): 간접 경치조골 상악동거상술에서 무이식·정맥혈·i-PRF·NovaBone 합성골을 비교하였다.
+
+6개월 ISQ: i-PRF (협측 70.06)·NovaBone (75.88) 모두 ISQ 70 초과로 무이식 (54.81)·정맥혈 (56.75) 대비 유의하게 높았고 (p<0.001), 두 군 간 차이는 없었다 (p=0.546).
+
+정맥혈은 이식 없는 군과 동등하여 이점 없음; i-PRF는 이종 재료 없이 합성골과 동등한 임플란트 안정성 (ISQ)을 제공하는 자가 생물학적 대안이다.
 
 ## Summary
 

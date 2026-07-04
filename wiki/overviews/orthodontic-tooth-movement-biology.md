@@ -27,13 +27,21 @@ tags: [orthodontics, otm, tooth-movement, pdl, rankl, opg, bone-remodeling, biol
 > - **임상 가속화(corticotomy·MIO·진동·저강도 레이저)**: 동물에서 효과 강하나 인체 RCT 부족 → 미검증.
 > - **확신도**: 축 1·2 분자/PDL = 합의수준(narrative review 중심, RCT 부재); 축 3 동물 형질전환 = 근거강함(인과); 임상 가속화 = 미검증(인체 RCT 부족).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 8 orthodontic-tooth-movement (OTM) biology papers: OTM is a sequential periodontal-ligament (PDL) compression-tension → molecular signaling (OPG/RANK/RANKL triad plus sclerostin/DKK1/BMP/TNF-α) → alveolar bone-remodeling process; optimal light/intermittent force avoids hyalinization and root resorption, NSAIDs and bisphosphonates impair movement, and surgical/pharmacologic/vibratory acceleration shows strong animal but limited human-RCT evidence.
+Synthesis of 8 OTM biology papers across 4 axes — PDL compression-tension → molecular signaling → bone remodeling → clinical implications.
 
-## 한줄요약
+OPG/RANK/RANKL triad is the central molecular pathway, with sclerostin, DKK1, BMP, and TNF-α as auxiliary signals confirmed by transgenic animal models (Jeon 2021, Krishnan 2006, Li 2021).
 
-교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 합성. 압박측 파골세포·인장측 골형성의 고전 모형은 OPG/RANK/RANKL triad + sclerostin·DKK1·BMP·TNF-α 신호로 분자 수준 정리됨. 임상 가속화 개입은 동물 근거 강하나 사람 임상은 제한적.
+Optimal light/intermittent force avoids hyalinization and root resorption; NSAIDs and bisphosphonates impair OTM; corticotomy/vibratory acceleration has strong animal but limited human-RCT evidence.
+
+## 세줄요약
+
+교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 — 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 분자신호 → 치조골 재형성 → 임상 함의의 4축 종합.
+
+핵심 분자 축은 OPG/RANK/RANKL triad이며, 압박측 RANKL 상승 → 파골세포생성, 인장측 OPG·sclerostin 조절 → 골형성; TNF-α·DKK1·BMP·TGF-β가 보조신호로 합류.
+
+적정 간헐적 힘이 최적(과강한 힘 → 유리질화·치근흡수); 비스포스포네이트·NSAID 장기복용은 OTM 억제; 가속화 술식은 동물 강한 효과·사람 RCT 미충족.
 
 ## Summary
 

@@ -17,13 +17,21 @@ text_filename: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma.txt
 
 Quantifies the absolute amount of external apical root resorption (EARR) attributable to clear aligners using pre/post CBCT — the safety endpoint that comparative aligner-vs-fixed reviews only addressed relatively. Reinforces [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]], whose RCT efficacy synthesis noted a root-resorption trend favoring clear aligners, by supplying the magnitude (−0.56 mm overall) and the worst-affected tooth (maxillary central incisor).
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (9 CBCT studies) — clear aligners cause minimal but measurable EARR: overall incisor root length −0.56 mm and upper-incisor root volume −13.34 mm³, greatest at maxillary central incisors (−0.74 mm).
+SR+MA (PROSPERO CRD42022372249; 9 CBCT studies pooled from 16 qualitative studies; 638 patients, 6524 teeth; treatment duration 15–30 months) quantifying absolute external apical root resorption (EARR) from clear aligner therapy using pre/post CBCT.
 
-## 한줄요약
+Overall incisor root-length loss was −0.56 mm (95% CI −0.73, −0.38; P<.00001); maxillary central incisors showed the greatest loss (−0.74 mm); 3D root volume loss in upper incisors was −13.34 mm³ (95% CI −16.57, −10.10); mandibular laterals and canines were not statistically significant due to high heterogeneity (I² 62–80%).
 
-SR+MA (CBCT 9편) — 투명교정(clear aligner)은 경미하지만 측정 가능한 치근 흡수(EARR)를 유발: 전체 절치 치근길이 −0.56 mm, 상악 절치 치근부피 −13.34 mm³, 상악 중절치(−0.74 mm)에서 최대.
+EARR from clear aligners is minimal and mostly mild (severe >20% in only ~3.7–6.3% of teeth), but is greatest at maxillary central incisors; CBCT is more reliable than 2D radiography for quantification, and risk increases with extraction, severe crowding, and root-apex proximity to palatal cortex.
+
+## 세줄요약
+
+투명교정(clear aligner) 치료 전후 CBCT로 외부 치근단 흡수(External Apical Root Resorption, EARR) 절대량을 정량화한 SR+MA(PROSPERO 등록; CBCT 9편 메타분석; 638명, 치아 6524개; 치료 기간 15–30개월).
+
+전체 절치 치근 길이 손실 −0.56 mm(95% CI −0.73, −0.38; P<.00001); 상악 중절치 최대(−0.74 mm); 상악 절치 3D 체적 손실 −13.34 mm³(95% CI −16.57, −10.10); 하악 측절치·견치는 높은 이질성(I² 62–80%)으로 비유의.
+
+투명교정에 의한 EARR은 최소하고 대부분 경미하나(중증 >20%는 치아의 ~3.7–6.3%만), 상악 중절치에서 가장 크며; 발치·심한 총생·치근단-구개 피질골 근접 시 위험 증가; CBCT가 2D 방사선보다 정량화에 더 신뢰할 수 있음.
 
 ## 1. Document Information
 

@@ -19,13 +19,21 @@ relations:
     target: bidra-2019-should-healing-abutments-cover-screws
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 databases, 812→8 studies) of healing-abutment resterilization protocols for reuse: steam autoclave was the most widely used method, but no protocol achieved a 100% virgin surface — thorough decontamination followed by resterilization is recommended before reuse.
+Systematic review (5 databases, 812 screened → 8 included; January 2000–December 2020) of resterilization protocols for titanium healing abutments (HAs) intended for reuse; steam autoclave was the most widely used method across included studies.
 
-## 한줄요약
+No protocol achieved a 100% virgin (contaminant-free) surface — every evaluated method left residual microbial or organic traces, establishing the fundamental limitation of HA reuse.
 
-체계적 문헌고찰(5개 DB, 812→8편): 치유 지대주(healing abutment, HA) 재사용을 위한 재멸균 프로토콜 중 증기 오토클레이브가 가장 널리 쓰였으나 어떤 프로토콜도 표면을 100% 초기(virgin) 상태로 되돌리지 못했다 — 재사용 전 철저한 표면 제염 후 재멸균 권고.
+Thorough surface decontamination followed by resterilization is recommended before reuse, with the reuse decision also weighing patient cost and preference; per-protocol efficiency figures were not reported in the abstract.
+
+## 세줄요약
+
+체계적 문헌고찰(5개 DB, 812→8편, 2000–2020년): 티타늄 힐링어버트먼트(Healing Abutment, HA) 재멸균 프로토콜을 검토 — 증기 오토클레이브(Steam Autoclave)가 가장 많이 사용된 방법.
+
+어떤 프로토콜도 표면을 100% 초기(virgin) 상태로 복원하지 못함 — 모든 평가 방법에서 잔류 오염물질 확인, HA 재사용의 근본적 한계 입증.
+
+재사용 전 철저한 표면 제염 + 재멸균 권고, 비용·환자 선호도를 함께 고려해야 함 — 프로토콜별 구체적 효율 수치는 초록에서 미보고.
 
 ## Summary
 

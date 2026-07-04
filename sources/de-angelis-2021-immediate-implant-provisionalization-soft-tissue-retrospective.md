@@ -13,13 +13,21 @@ source_collection: external
 
 즉시식립·즉시 임시수복(IIPP) 시 연조직 증대 방식 — 결합조직이식(SCTG) vs 이종 콜라겐 기질(XCM) vs 무이식(NG) — 의 1년 협측 변연·연조직 두께 결과 비교. XCM이 SCTG의 대안이 될 수 있는지를 검증해 [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]](CTG RCT)와 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-1-year retrospective study (48 anterior single immediate implants) comparing subepithelial CTG (SCTG), xenogenic collagen matrix (XCM), and no graft (NG); 100% survival, with the no-graft group losing significantly more facial soft-tissue thickness and buccal marginal level, while XCM performed comparably to SCTG.
+One-year retrospective study (48 patients, anterior single-tooth immediate implants with immediate provisionalization) comparing three soft-tissue management strategies: subepithelial connective tissue graft (SCTG), xenogenic collagen matrix (XCM), and no graft (NG).
 
-## 한줄요약
+All groups achieved 100% implant survival; the no-graft group had significantly greater loss of facial soft-tissue thickness (FSTT) and buccal marginal level than both graft groups (P < 0.05), while SCTG and XCM showed equivalent outcomes (P > 0.05).
 
-1년 후향연구(전치부 단일 즉시식립 48례) — SCTG·이종 콜라겐 기질(XCM)·무이식(NG) 비교에서 생존율 100%, 무이식군이 협측 연조직 두께·변연 수준 손실이 유의하게 컸고 XCM은 SCTG와 동등한 결과를 보였다.
+XCM is a viable autograft-sparing alternative to SCTG for maintaining facial soft-tissue stability at immediately provisionalized anterior implants; omitting soft-tissue augmentation compromises facial tissue volume and marginal position.
+
+## 세줄요약
+
+1년 후향연구(전치부 단일 즉시식립·즉시임시수복 48례): 결합조직이식(SCTG), 이종 콜라겐 기질(XCM), 무이식(NG) 세 군 비교.
+
+임플란트 생존율 전군 100%; 무이식군이 SCTG·XCM군 대비 협측 연조직 두께(FSTT) 및 변연 수준 손실이 유의하게 컸으며(P<0.05), SCTG와 XCM 간에는 유의한 차이 없음(P>0.05).
+
+XCM은 자가이식 없이도 SCTG와 동등한 협측 조직 안정성을 제공하는 대안 — 연조직 증대를 생략하면 즉시식립 전치부의 협측 연조직 체적과 변연 위치가 저하됨.
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [attendance, problem-orientated, dental-anxiety, behavior-change, NHS, TDF]
 ---
 
-## One-line Summary
-SR of interventions for problem-orientated dental attenders (one-third of the UK population) — only 3 studies found (anxiety clinic, free-visit advertising, Scotland free check-up policy); the evidence base is near-empty, and future interventions should target dentist communication, the dentist-patient relationship, patient awareness of need, and cost barriers.
+## Three-line Summary
 
-## 한줄요약
-정기검진 안 받는 통증-only 환자(영국 인구 1/3) 대상 개입 SR — 단 3편만 있음(불안 클리닉, 무료 진료체험 광고, 스코틀랜드 무료 검진 정책). 기존 개입은 보고가 부실하고, 향후 개입은 **dentist 커뮤니케이션·dentist-patient 관계·필요성 인식·비용장벽** 4축에서 설계해야 한다.
+Eight-database systematic review of interventions to convert problem-orientated dental attenders (roughly one-third of the UK adult population who attend only with acute pain) to regular attendance, finding only 3 qualifying studies: a dental anxiety clinic, a free dental update advertising campaign, and Scotland's free check-up policy.
+
+All three were poorly reported with intervention components inadequately described, making replication impossible; no meta-analysis was attempted, and no single intervention can be recommended.
+
+The substantive output is a gap map and four design targets for future interventions: dentist communication, the dentist–patient relationship, raising patient awareness of unrecognised need, and reducing cost/access barriers.
+
+## 세줄요약
+
+8개 데이터베이스 체계적 문헌고찰: 통증시에만 치과를 찾는 문제지향적 내원환자(영국 성인 약 1/3)를 정기 내원으로 전환시키는 중재를 검색했으나 포함 가능한 연구는 단 3편(불안 클리닉, 무료 진료 체험 광고, 스코틀랜드 무료 검진 정책)뿐이었다.
+
+3편 모두 중재 구성 요소 보고가 부실해 재현 불가능하고 메타분석은 수행할 수 없었으며, 현재로서는 단일 최선 방법을 권고할 근거가 없다.
+
+실질적 산출물은 근거 공백 지도(gap map)와 향후 중재의 4개 설계 축 — 치과의사 커뮤니케이션, 치과의사-환자 관계, 무증상 치과 질환 필요성 인식, 비용·접근 장벽 완화.
 
 ## Summary
 About one-third of the UK adult population attends dentists only with acute pain ("problem-orientated attenders"). Currie et al. asked what interventions exist to convert these patients to regular attendance — and found almost nothing. Three studies met inclusion: a dental anxiety clinic, an advertising campaign for a "free dental update" open-house event, and the policy-level introduction of free dental check-ups in Scotland.

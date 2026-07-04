@@ -9,7 +9,7 @@ pdf_filename: jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 5-year retrospective cohort (n=98, osteoporosis+tooth extraction): MRONJ rate 4.1%; no difference between denosumab-only vs BP+denosumab; rheumatoid arthritis was the only significant risk factor; MRONJ can arise from chronic periodontal inflammation without extraction.
 
 ## 1. Document Information

@@ -19,13 +19,21 @@ relations:
     target: kim-2016-systematic-review-cervical-plexus-accessory
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review: the nerve to the mylohyoid — traditionally classified as purely motor — carries accessory sensory innervation to mandibular teeth; because of variable branching location and the barrier formed by the pterygomandibular fascia/sphenomandibular ligament, it may escape anesthesia during a standard inferior alveolar nerve block, contributing to IANB's high failure rate.
+Narrative review (abstract-only) synthesizing dissection and clinical evidence on the nerve to the mylohyoid — traditionally classified as purely motor — as a source of accessory sensory innervation to mandibular teeth.
 
-## 한줄요약
+The nerve branches from the IAN in the infratemporal fossa at a variable location; pterygomandibular fascia and sphenomandibular ligament can prevent standard IANB from reaching it, leaving a sensory pathway to mandibular teeth unblocked even when lip numbness confirms the main block.
 
-내러티브 리뷰: 전통적으로 순수 운동신경으로 분류된 이설골설근신경(nerve to the mylohyoid)이 실제로는 하악치아에 부가 감각신경을 공급하며, 분지 위치의 변이성과 익돌하악근막·접형하악인대가 만드는 장벽 때문에 표준 IANB로도 마취되지 않을 수 있어 IANB의 높은 실패율에 기여한다.
+This nerve is a contributing mechanism for IANB's high clinical failure rate, and supplemental injection techniques targeting it specifically should be considered when standard IANB is inadequate.
+
+## 세줄요약
+
+이설골설근신경(nerve to the mylohyoid)을 하악치아 부가 감각 지배의 원인으로 다룬 내러티브 리뷰(초록만 확보)로, 해부 연구와 임상 마취 실패 문헌을 종합.
+
+이 신경은 하치조신경(IAN)에서 익돌하악와 내 가변적인 위치에서 분지하며, 익돌하악근막·접형하악인대가 표준 IANB의 마취액이 도달하는 것을 차단할 수 있어 입술 감각소실이 있어도 하악 치아 마취가 불완전할 수 있다.
+
+IANB 실패율의 기여 기전 중 하나이므로 표준 IANB가 충분하지 않을 때 이 신경을 특이적으로 차단하는 보조 주사법을 고려해야 한다.
 
 ## Summary
 

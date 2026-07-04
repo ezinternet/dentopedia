@@ -13,11 +13,21 @@ source_collection: external
 
 차폐막 노출(membrane exposure)이라는 GBR 공통 실패 모드를 막 자체가 아니라 절개선 위치·판막 생존 관점에서 설명하는 인체 연구. 막 종류 비교인 [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]]·[[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]]의 노출 결과를 판막설계 변수로 보완하고, [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]]의 판막관리 논의와 연결.
 
-## One-line Summary
-Prospective human study (25 patients, 29 buccal dehiscence defects) showing incision location relative to the mucogingival junction governs flap survival and early membrane exposure; sites not re-covered by 1 month stayed exposed, and graft-alone (no membrane) flaps survived significantly farther beyond adjacent keratinized gingiva width than membrane-covered flaps.
+## Three-line Summary
 
-## 한줄요약
-인체 전향연구(25명, 협측 열개결손 29개): 점막치은경계 기준 절개선 위치가 판막 생존과 조기 막노출을 좌우. 1개월 내 재피개 안 된 부위는 계속 노출됐고, 막 없이 이식만 한 판막이 막 피개 판막보다 인접 각화치은 폭 너머로 유의하게 더 길게 생존.
+Prospective human study (25 patients, 29 buccal dehiscence defects) showing incision location relative to the mucogingival junction governs flap survival and early membrane exposure;
+
+sites not re-covered by 1 month stayed exposed, and graft-alone (no membrane) flaps survived significantly farther beyond adjacent keratinized gingiva width than membrane-covered flaps.
+
+(incomplete)
+
+## 세줄요약
+
+인체 전향연구(25명, 협측 열개결손 29개): 점막치은경계 기준 절개선 위치가 판막 생존과 조기 막노출을 좌우.
+
+1개월 내 재피개 안 된 부위는 계속 노출됐고, 막 없이 이식만 한 판막이 막 피개 판막보다 인접 각화치은 폭 너머로 유의하게 더 길게 생존.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Periodontology (J Periodontol) 2007;78(1):47-51

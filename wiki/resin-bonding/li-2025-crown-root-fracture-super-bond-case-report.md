@@ -22,13 +22,21 @@ relations:
     target: dhawan-2026-bonding-total-self-etch-fiberpost
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 55-month follow-up): a complicated oblique crown-root fracture of the maxillary left central incisor was treated by immediate fragment reattachment with the Super-Bond C&B (4-META/MMA-TBB) adhesive plus a #1.4 fiber post under a M-MIST labial flap, achieving stable restoration, probing depth <3 mm with negative BoP, no root/bone resorption, and complete periapical cyst healing at 55 months.
+Case report (Case Rep Dent 2025; n=1; 54-year-old woman; oblique crown-root fracture of the maxillary left central incisor with mesial end ~1 mm subgingival; 55-month clinical and radiographic follow-up) of immediate fragment reattachment using Super-Bond C&B (4-META/MMA-TBB) adhesive plus a #1.4 glass fiber post under a M-MIST labial flap.
 
-## 한줄요약
+At 55 months: crown margin well-sealed, periodontal health maintained (PD <3 mm, BoP negative), no alveolar bone or root resorption, and complete periapical cyst healing — the longest published clinical anchor for Super-Bond fragment reattachment in crown-root fracture.
 
-증례보고 (n=1, 55개월 추적): 상악 좌측 중절치의 복합 사선형 치관-치근 파절을 M-MIST 순측 소판막 하에서 Super-Bond C&B(4-META/MMA-TBB) 접착제 + #1.4 fiber post로 즉시 파절편 재접착해, 55개월째 무탈착·PD <3 mm·BoP 음성·치근/치조골 흡수 없음·치근단 낭종 완전 치유의 양호한 결과를 얻은 보존적 치료.
+Super-Bond's TBB-initiated polymerization is enhanced by moisture and air, making it the adhesive of choice for subgingival fracture lines where conventional adhesives degrade; strict moisture control via M-MIST flap and hemostasis is mandatory for success.
+
+## 세줄요약
+
+증례보고(Case Rep Dent 2025; n=1; 54세 여성; 상악 좌측 중절치 사선형 치관-치근 파절, 근심 파절선 치조정 하 ~1 mm; 55개월 임상·방사선 추적) — M-MIST 순측 소판막 하에서 Super-Bond C&B(4-META/MMA-TBB) + #1.4 유리섬유 포스트로 파절편 즉시 재접착.
+
+55개월 시점: 크라운 변연 밀봉 양호, 치주 건강(PD <3 mm, BoP 음성), 치조골·치근 흡수 없음, 치근단 낭종 완전 치유 — Super-Bond 파절편 재접착의 현존 최장 임상 추적 결과.
+
+Super-Bond TBB 개시 중합은 수분·공기에 의해 촉진되어 치은하 파절선의 혈액·타액 오염 환경에서도 접착이 가능하며, 성공을 위해 M-MIST 소판막과 지혈제를 이용한 철저한 수분 격리가 필수적이다.
 
 ## Summary
 

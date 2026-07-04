@@ -29,13 +29,21 @@ tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, 
 > - **메타분석 해석 주의(방법론)**: TMD 관절천자 SR+MA들이 기전이 다른 비교군(스플린트·물리치료·PRP/HA·관절경·천자 변형)을 I²=85–98% 극단적 이질성 속에 통합하고, mm 척도에 표준화평균차(SMD)를 쓰며, 이질적 진단명을 섞으면 통합추정치가 임상적으로 해석 불가능 — 큰 유의 효과도 study 간 분산의 산물일 수 있음 (Fuentes-Barría 2026 Letter). 무선효과모형(random-effects)이 극단적 이질성을 정당화하지 못함 → 축 5 풀링 추정치는 신중히 읽을 것.
 > - **확신도**: 역학·비약물 보존·BMJ NMA = 근거강함; 약물·arthrocentesis·이갈이·OA·QoL = 합의수준; 편측저작·과두·이명 = 합의수준-하(단면+동물+FEA, 인과 미확인). 관절천자 풀링 추정치는 극단적 이질성으로 해석 주의(Fuentes-Barría 2026).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 37 temporomandibular disorder (TMD) papers organized into a 10-axis management ladder placing conservative, non-pharmacological care first and irreversible occlusal therapy last. Highest-certainty treatments (Yao 2023 BMJ NMA, 233 RCTs) are CBT+biofeedback, therapist-assisted jaw mobilization, and manual trigger-point therapy; splints equal or trail exercise (and patient education/self-management alone is not clearly superior — Ferland 2026); occlusal adjustment is unsupported (Cochrane 2024); pharmacotherapy is low-GRADE adjunctive. Arthrocentesis is reserved for conservative failure and its stand-alone superiority is NOT established once comparators are broadened (Valenzuela-Fuenzalida 2026, 32 RCTs), though an i-PRF adjunct is conclusive on TSA (Bader Alzamanan 2026) — and all high-heterogeneity arthrocentesis pooled estimates must be read with the interpretability caveat of Fuentes-Barría 2026. Added axes cover myogenous TMD, quality-of-life, occlusal vertical dimension, and a chewing-side-preference → condyle/tinnitus mechanical-neural risk axis.
+Synthesis of 34 TMD papers (27 SR/MA/guidelines + 5 unilateral-chewing/condyle/tinnitus + 1 TMJ OA exercise prospective + 1 MPS NMA) organized into a 10-axis management ladder from epidemiology through conservative/pharmacologic/interventional care to quality-of-life, occlusal vertical dimension, and a chewing-side-preference risk axis.
 
-## 한줄요약
+Highest-certainty active treatments (Yao 2023 BMJ NMA, 233 RCTs, 59 interventions) are CBT+biofeedback and therapist-assisted jaw mobilization (both RD 36%), followed by manual trigger-point therapy (RD 32%); occlusal adjustment is unsupported (Cochrane 2024 Singh); pharmacotherapy is low-GRADE adjunctive; arthrocentesis stand-alone superiority is not established when comparators are broadened (Valenzuela-Fuenzalida 2026, 32 RCTs, VAS MD −0.25 NS), though i-PRF adjunct is TSA-conclusive (Bader Alzamanan 2026, GRADE moderate); all high-heterogeneity pooled estimates carry the Fuentes-Barría 2026 interpretability caveat.
 
-TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편 통합(2026-06-15 업데이트). BMJ NMA 2023 (233 RCT, 59 개입): CBT+운동·하악 가동화 최우수 → 약물 낮은 근거 → arthrocentesis 보존 실패 시. 근육형 TMD 특화·QoL 정량화·MAD/VD 축 신설. 편측저작 → 과두 위치·형태 변화·이명(동측) 상관 5편 추가(축 10).
+For practice: conservative non-pharmacological care (PT, exercise, splint as conditional add-on) is the evidence-based first line; irreversible occlusal therapy is contraindicated as first-line; habitual chewing-side preference correlates with TMD pain side (κ=0.767, RR 4.5) and tinnitus (90.7% vs 76.0%), making it a modifiable behavioral target for every new TMD patient.
+
+## 세줄요약
+
+TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA 운동 전향 1 + MPS NMA 1)을 역학·비약물 보존·약물·만성통증 NMA·관절천자·이갈이·BTX·OA·QoL/VD·편측저작 10축으로 정리.
+
+최고 근거 치료(Yao 2023 BMJ NMA, 233 RCT): CBT+운동·하악 가동화(RD 36%)·수기 트리거포인트(32%); 교합 중재 미지지(Cochrane 2024 Singh); 약물 낮은 근거; 관절천자 단독 우월성 미입증(Valenzuela-Fuenzalida 2026, 32 RCT, VAS p=0.55), i-PRF 부가만 TSA 결정적(Bader Alzamanan 2026, GRADE moderate); 극단 이질성 풀링은 방향만 신뢰(Fuentes-Barría 2026 caveat).
+
+임상 핵심: 물리치료·운동이 1차, 스플린트는 조건부 추가, 비가역 교합치료는 최후; 습관저작측이 TMD 통증측과 일치(RR 4.5)·이명(동측 90.7%)하므로 편측저작 교정을 보존 치료 항목에 통합한다.
 
 ## Summary
 

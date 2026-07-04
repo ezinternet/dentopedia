@@ -18,13 +18,21 @@ relations:
 text_filename: johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Phantom dosimetry (7 collimator systems, adult + child): best FMS effective dose = 54 µSv (Focus-RC adult) vs 86 µSv circular; rectangular collimation reduces dose more than thyroid shielding; validates NCRP 2019 recommendations.
+Phantom OSL dosimetry study comparing 7 collimation systems (6 rectangular + 1 circular) for adult and child full-mouth series (FMS) at 70 kVp.
 
-## 한줄요약
+Best-performing rectangular system (Focus-RC) achieved 54 µSv adult FMS effective dose vs 86 µSv circular — a 37% reduction — and all rectangular systems outperformed circular; thyroid shielding added less dose reduction than rectangular collimation alone.
 
-팬텀 선량 측정(7개 조준통 시스템, 성인·소아): FMS 최소 유효선량 54 µSv(Focus-RC, 성인) vs 원형 86 µSv; 직사각조준이 갑상선 차폐보다 선량 감소 효과 우수; NCRP 2019 권고 검증.
+Validates NCRP Report 177 (2019) recommendation that rectangular collimation should be standard of care for intraoral imaging and updates Ludlow 2008 baselines with modern collimator technology.
+
+## 세줄요약
+
+성인·소아 전악구내촬영 시 7개 조준통 시스템(직사각 6종+원형 1종)을 OSL 선량계로 비교한 팬텀 연구(70 kVp).
+
+최우수 직사각 조준통(Focus-RC)의 성인 FMS 유효선량 54 µSv vs 원형 86 µSv(37% 감소); 모든 직사각 조준통이 원형보다 우수했고, 직사각 조준이 갑상선 차폐보다 선량 저감 효과가 컸음.
+
+NCRP Report 177(2019)의 "직사각조준이 구내방사선 표준"을 지지하며, Ludlow 2008 기준치를 현대 조준통으로 갱신.
 
 ## Summary
 

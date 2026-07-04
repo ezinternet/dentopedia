@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Paired ex vivo study (n=16 bovine rib blocks) found both Densah®/Versah and Bone Reamer Drills®/WF osseodensification kits significantly improved insertion and removal torque vs conventional drilling in type IV bone, but produced no significant ISQ or temperature differences.
+Paired ex vivo study (n=16 bovine rib bone blocks, type IV analog) comparing conventional drilling vs two osseodensification kits — Densah/Versah (G2) and Bone Reamer Drills/WF (G3) — on torque, ISQ, temperature, and bur morphology.
 
-## 한줄요약
+Both OD systems significantly outperformed conventional drilling on insertion and removal torque (G2: IT 77.6 vs 61.3 Ncm, p=0.007; G3: IT 95.3 Ncm highest); ISQ (~79–82) and peak temperature (~28–31°C) did not differ significantly across groups; WF burs showed greater surface wear than Densah burs.
 
-소 늑골 모델(n=16) ex vivo 쌍대 연구에서 Densah®/Versah와 WF 골밀도화 키트 모두 기존 드릴링 대비 삽입·제거 토크를 유의하게 향상시켰으나, ISQ 및 최고 온도는 세 군 간 차이 없었음; WF 키트가 토크에서 Versah 초과.
+Osseodensification improves torque-based primary stability without improving RFA-derived ISQ in type IV bone, suggesting OD's mechanism acts via mechanical interlocking rather than changes detectable by resonance frequency analysis.
+
+## 세줄요약
+
+쌍대 ex vivo 연구 (소 늑골 블록 16개, type IV 골 유사): 기존 드릴링 vs 2종 골밀도화 키트 — Densah/Versah (G2)와 Bone Reamer Drills/WF (G3) — 토크, 임플란트 안정성 지수 (Implant Stability Quotient, ISQ), 온도, 버 형태 비교.
+
+두 골밀도화 (Osseodensification, OD) 시스템 모두 기존 드릴링 대비 삽입·제거 토크 유의하게 우수(G2 IT: 77.6 vs 61.3 Ncm, p=0.007; G3 IT: 95.3 Ncm 최고); ISQ(~79–82)·최고 온도(~28–31°C)는 세 군 간 차이 없음; WF 버가 Densah 버보다 표면 마모 더 큼.
+
+Type IV 골에서 OD는 ISQ(공명주파수분석) 향상 없이 토크 기반 1차 안정성만 개선 — OD 기전이 공명주파수로 감지되는 강성 변화가 아닌 기계적 맞물림(compaction)을 통해 작용함을 시사.
 
 ## Summary
 

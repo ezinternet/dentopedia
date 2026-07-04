@@ -16,13 +16,21 @@ text_filename: cetinsoy-2026-ultrasonication-assisted-sequential-chemical-remova
 
 기존 [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]]의 SR 결론은 "어떤 프로토콜도 100% virgin(unused) 표면을 재현하지 못한다"였다. 본 in vitro 연구(Çetinsoy 2026, 이 배치 중 최신)는 그 서사를 정면으로 다듬는(refine) 반례 축이다 — precleaning(enzymatic detergent soak) → US + 1% NaOCl → autoclave의 3-step 프로토콜이 성숙 biofilm을 99.7% 제거하고 SEM/EDX상 표면이 미사용 HA와 유사함을 보여, "완전 제거 불가"라는 부정 서사를 "precleaning + US + NaOCl이면 최소 1회 재사용 사이클은 가능"으로 조건화한다. "autoclave-only" 대조군이 54.4%에 그친다는 점은 [[infection-control/burioni-2024-could-dental-material-reuse-play]](autoclave-only는 잔류 단백질 지속) 및 [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]](NaOCl + air polishing 효과적)과 결이 맞는다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study on 95 retrieved titanium healing abutments (2 brands): after enzymatic-detergent precleaning, ultrasonication in 1% sodium hypochlorite + autoclave removed 99.7% of mature biofilm (vs 54.4% for autoclave-only control), with SEM/EDX surface morphology and elemental composition resembling unused abutments.
+In vitro study on 95 clinically retrieved titanium healing abutments (2 brands, 4–6 weeks intraoral; n=5 groups: autoclave-only control, ultrasonication [US] in tap water, US in 1% NaOCl, US in acid solution, US in enzymatic detergent — all post-enzymatic-detergent precleaning); staining + image quantification for residual contamination; SEM/EDX surface analysis.
 
-## 한줄요약
+US in 1% sodium hypochlorite + autoclave removed 99.7% of mature biofilm (Brand 1: 99.6%, Brand 2: 99.9%), significantly outperforming all other groups (p<0.05) and especially autoclave-only (54.4%); SEM/EDX surface morphology and elemental composition resembled unused healing abutments.
 
-환자에서 회수한 티타늄 healing abutment 95개(2개 브랜드) in vitro 연구: 효소세제(ED) 전세척 후 1% 차아염소산나트륨(NaOCl) 내 초음파 세척 + 오토클레이브가 성숙 biofilm을 99.7% 제거(오토클레이브 단독 대조군 54.4% 대비)했고, SEM/EDX상 표면 형태·원소조성이 미사용 abutment와 유사 — precleaning + US + NaOCl이면 최소 1회 재사용 사이클은 실현 가능함을 시사.
+This is abstract-only in vitro evidence supporting at least one reuse cycle when unused healing abutments are unavailable; biological outcomes (inflammation, protein residues) and long-term peri-implant tissue responses are not assessed.
+
+## 세줄요약
+
+환자에서 회수한 티타늄 healing abutment(Healing Abutment, HA) 95개(2브랜드, 구내 4–6주; 5군: 오토클레이브 단독·초음파 세척[US]+증류수·US+1% NaOCl·US+산성액·US+효소세제 — 모두 효소세제 전처리 후); 잔여 오염 면적 이미지 정량화 + SEM/EDX 표면 분석.
+
+1% NaOCl 내 US + 오토클레이브가 성숙 바이오필름(Mature Biofilm) 99.7% 제거(브랜드1 99.6%, 브랜드2 99.9%), 모든 다른 군 및 오토클레이브 단독(54.4%)보다 유의하게 우수(p<0.05); SEM/EDX상 표면 형태·원소조성이 미사용 HA와 유사.
+
+초록 기반 in vitro 연구 — 미사용 HA 교체 불가한 상황에서 최소 1회 재사용 사이클을 지지하는 근거이나, 생물학적 반응(염증·잔류 단백질·장기 임플란트주위 조직 결과)은 평가되지 않음.
 
 ## 1. Document Information
 

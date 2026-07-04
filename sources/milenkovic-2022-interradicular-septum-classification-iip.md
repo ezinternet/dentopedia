@@ -9,7 +9,7 @@ pdf_filename: milenkovic-2022-interradicular-septum-classification-iip.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 CBCT-based proposal of classification criteria for inter-radicular septum shape in maxillary molars, with explicit linkage to prosthetic-driven IIP planning.
 
 ## 1. Document Information

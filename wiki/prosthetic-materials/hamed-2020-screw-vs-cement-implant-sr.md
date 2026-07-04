@@ -14,11 +14,21 @@ source_collection: external
 tags: [screw-retained, cement-retained, implant-crown, systematic-review, biological-complications, mechanical-complications, retrievability]
 ---
 
-## One-line Summary
-Systematic review (12 studies) comparing screw- vs cement-retained implant-supported reconstructions: no significant difference in survival rate, but cement-retained shows more biological complications (peri-implantitis, cement remnants) while screw-retained shows more mechanical complications (screw loosening/fracture) — selection should be driven by complication profile, with screw retention favored for retrievability.
+## Three-line Summary
 
-## 한줄요약
-SR(12편): 나사 vs 시멘트 유지형 생존율 차이 없음; 생물학적 합병증은 시멘트형 ↑, 기계적 합병증은 나사형 ↑ — 합병증 프로파일 기반 선택 필요
+Systematic review (12 studies) comparing screw-retained (SR) vs cement-retained (CR) implant-supported reconstructions across survival, biological complications, mechanical complications, and marginal bone loss.
+
+No significant difference in survival rate; CR showed more biological complications (peri-implantitis, cement remnants, peri-implant mucositis); SR showed more mechanical complications (screw loosening, screw fracture); SR trended toward lower marginal bone loss.
+
+Retention-type selection should be driven by complication profile — peri-implant disease risk favors SR, while esthetic constraints around the access hole favor CR with retrievable cement protocols.
+
+## 세줄요약
+
+나사(SR) vs 시멘트(CR) 유지형 임플란트 보철물을 생존율·생물학적·기계적 합병증·변연골 소실로 비교한 SR(12편).
+
+생존율 차이 없음; 생물학적 합병증(주위염·시멘트 잔류·주위점막염)은 CR 多; 기계적 합병증(나사 풀림·파절)은 SR 多; 변연골 소실은 SR에서 낮은 경향.
+
+합병증 프로파일 기반 선택 — 주위염 고위험군엔 SR, 심미 구역 접근공 문제 시엔 가역성 시멘트 활용 CR.
 
 ## Summary
 Systematic review of 12 studies comparing screw-retained (SR) vs cement-retained (CR) implant-supported reconstructions. **No significant overall difference in survival rate.** The key clinical differentiator is the **type** of complication: CR = more biological complications; SR = more mechanical complications. Retrievability strongly favors SR.

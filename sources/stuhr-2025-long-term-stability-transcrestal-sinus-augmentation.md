@@ -11,7 +11,7 @@ pdf_filename: stuhr-2025-long-term-stability-transcrestal-sinus-augmentation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review (Periodontology 2000): synthesizes TSFE foundational principles, treatment planning, surgical execution, postoperative management, emerging technologies. Provides **standardized TSFE outcome-reporting checklist** for clinicians and researchers.
 
 ## 1. Document Information

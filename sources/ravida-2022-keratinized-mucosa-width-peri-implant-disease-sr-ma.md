@@ -13,13 +13,23 @@ source_collection: external
 
 각화점막폭(Keratinized Mucosa Width, KMW)이 <2 mm vs ≥2 mm일 때 임플란트 주위 질환 위험도 차이가 임상적으로 유의미한지에 대한 근거가 기존 리뷰마다 엇갈렸다. 이 SR+MA+TSA는 개입 연구(RCT·비RCT·전향적 코호트)만 포함하고 TSA로 표본 검정력을 직접 평가한 가장 엄격한 형태의 연구로, [[wiki/implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]]와 비교 시 결론이 공통적으로 "현재 근거 불충분"을 가리키므로 양쪽 참조가 필수적이다.
 
-## One-line Summary
+## Three-line Summary
 
-SR + meta-analysis + TSA (9 studies, 685 implants; RCT/prospective interventional designs only): KMW <2 mm vs ≥2 mm showed significantly higher plaque index (MD 0.37, p=0.002) but no significant difference in MBL, PD, or soft-tissue recession, with TSA confirming all findings except mPI are underpowered and inconclusive (GRADE: very low to low).
 
-## 한줄요약
+SR + meta-analysis + TSA (9 studies, 685 implants;
 
-SR+MA+TSA (9연구, 685임플란트; 개입 연구 한정): 각화점막폭 <2 mm군은 플라크 지수(MD 0.37, p=0.002)만 유의하게 높았고, 변연골소실·탐침 깊이·연조직 퇴축에서는 유의차 없었으며, TSA로 plaque index 외 전 결과가 검정력 부족·결론 불확정으로 확인됨(GRADE: very low~low).
+RCT/prospective interventional designs only): KMW <2 mm vs ≥2 mm showed significantly higher plaque index (MD 0.37, p=0.002) but no significant difference in MBL, PD, or soft-tissue recession, with TSA confirming all findings except mPI are underpowered and inconclusive (GRADE: very low to low).
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA+TSA (9연구, 685임플란트;
+
+개입 연구 한정): 각화점막폭 <2 mm군은 플라크 지수(MD 0.37, p=0.002)만 유의하게 높았고, 변연골소실·탐침 깊이·연조직 퇴축에서는 유의차 없었으며, TSA로 plaque index 외 전 결과가 검정력 부족·결론 불확정으로 확인됨(GRADE: very low~low).
+
+(incomplete)
 
 ## 1. Document Information
 

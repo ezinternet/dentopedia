@@ -20,13 +20,22 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=30 immediate tapered implants, anterior maxilla; 16 conventional vs 14 undersized drilling): undersized drilling did NOT significantly improve primary stability — insertion torque slightly higher in UD (41.36 vs 38.44 Ncm, p=0.654) but RFA/ISQ consistently higher in the conventional group at all timepoints, with no significant between-group ISQ difference across 12 weeks.
+RCT (n=30 immediate 3.75×13 mm tapered implants, anterior maxilla; 16 conventional drilling vs 14 undersized drilling with 3.0 mm twist drill omitted) measuring primary stability by insertion torque and RFA/ISQ at insertion, 6 weeks, and 12 weeks.
 
-## 한줄요약
+Undersized drilling did not significantly improve primary stability: insertion torque was slightly higher in the UD group (41.36 vs 38.44 Ncm, p=0.654, NS), but RFA/ISQ was consistently higher in the conventional group at all timepoints with no significant between-group ISQ difference.
 
-RCT (즉시식립 tapered 임플란트 30개, 상악 전치부; 통상 16 vs 축경 14): 축경(undersized) 드릴링은 1차 안정성을 유의하게 개선하지 못함 — 삽입 토크는 축경군이 약간 높았으나(41.36 vs 38.44 Ncm, p=0.654) RFA/ISQ는 오히려 통상군이 모든 시점에서 더 높았고 12주간 군간 ISQ 차이는 유의하지 않았다.
+The IT–ISQ dissociation (higher torque but lower ISQ in UD) likely reflects bone compression/micro-damage from higher torque causing greater early remodeling; mean ISQ never reached 70, supporting occlusal loading delay to ~12 weeks.
+
+## 세줄요약
+
+RCT (즉시식립 테이퍼드 임플란트 n=30, 상악 전치부; 통상 드릴링 16 vs 축경 [undersized, 3.0 mm twist 드릴 생략] 14) — 삽입 토크와 RFA/ISQ를 삽입·6주·12주에 측정.
+
+축경 드릴링은 1차 안정성을 유의하게 개선하지 못함: 삽입 토크 UD군에서 약간 높았으나(41.36 vs 38.44 Ncm, p=0.654, 비유의), RFA/ISQ는 모든 시점에서 통상군이 더 높고 군간 차이 비유의.
+
+토크-ISQ 해리(UD에서 토크↑·ISQ↓)는 높은 토크에 의한 골 압박·micro-damage 후 조기 개조로 설명 가능; 평균 ISQ 70 미달 — 12주 이후 교합 부하 권장.
+
 
 ## Summary
 

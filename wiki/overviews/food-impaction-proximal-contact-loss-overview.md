@@ -47,11 +47,21 @@ tags: [food-impaction, proximal-contact-loss, interproximal-contact-loss, implan
 > - 미해결: 보철 디자인(splinting·screw vs cement·접촉 형태)이 PCL을 줄이는지 RCT 부재; MM-DD도 RCT 부재; pooled prevalence 이질성 매우 큼(I²=87.8%); 재형성 vs 관찰의 식편압입·우식·치주 결과 비교 연구 없음; PCL→우식 연결은 기전적·추론적(우식 발생률 정량 부재).
 > - 범위 한계: 본 페이지는 현재 임플란트 중심 — 자연치-자연치 open contact/plunger cusp 근거는 향후 확장 대상.
 
-## One-line Summary
-Proximal/interproximal contact loss (PCL/ICL) between implant prostheses and adjacent natural teeth is a frequent, time-progressive, mesial-predominant complication that causes food impaction; surveillance and re-contouring — not prevention alone — are the realistic clinical posture.
+## Three-line Summary
 
-## 한줄요약
-임플란트 보철-인접치 PCL은 흔하고 시간에 따라 진행하며 mesial 우위인 합병증으로 식편압입을 유발한다. 예방만으로는 막기 어렵고 정기 감시·재형성이 현실적 임상 자세다.
+Proximal/interproximal contact loss (PCL/ICL) between implant prostheses and adjacent natural teeth is a frequent, time-progressive, mesial-predominant complication (>5 yr prevalence 29–83.3%; mesial 44.2% vs distal 27.5% pooled; Sheba 2023 SR+MA) driven by the asymmetry between the osseointegrated implant's inability to follow physiologic mesial drift and the natural teeth that do.
+
+The dominant anatomic predictors in multivariate Cox analysis are food impaction (HR 2.75), residual ridge-height discrepancy (HR 2.51), and adjacent tooth bone loss >3/8 root (HR 5.83), not demographic or prosthetic variables; distal PCL additionally associates with mechanical complications (OR 7.04) and peri-implantitis (Cui 2025).
+
+Open contacts raise peri-implant mucositis risk (RR 1.74; Atieh 2026 SR+MA) and directly cause adjacent interproximal caries; reactive surveillance and re-contouring remain the realistic posture, though proactive MM-DD occlusal adjustment cut open-contact rates from 46.7% to 2.7% in a 21-year retrospective (Liu 2025).
+
+## 세줄요약
+
+임플란트 보철-인접치 PCL은 흔하고 시간 진행적이며 mesial 우위인 합병증으로(>5년 유병률 29–83.3%; mesial 44.2% vs distal 27.5%; Sheba 2023 SR+MA), 임플란트의 근심이동 불능 vs 자연치의 생리적 근심이동이라는 비대칭이 기전이다.
+
+다변량 Cox 분석의 독립 예측인자는 식편압입(HR 2.75)·잔존치조제 높이차(HR 2.51)·인접치 골소실 >3/8 치근(HR 5.83)이고, distal PCL은 추가로 mechanical complication(OR 7.04)·임플란트주위염과 연관된다(Cui 2025).
+
+개방접촉은 임플란트주위점막염 위험지표(RR 1.74; Atieh 2026)이고 인접치 인접면 우식의 직접 위험인자; 정기 감시·재형성이 현실적 대처이며, MM-DD 교합조정은 21년 후향 연구에서 open contact를 46.7% → 2.7%로 감소시켰다(Liu 2025).
 
 ## Thesis
 임플란트는 치조골에 고정돼 mesial drift를 따라가지 못하는 반면 자연치는 생리적으로 근심 이동한다 — 이 비대칭이 시간이 지날수록 임플란트 보철의 mesial 접촉을 벌린다. SR/MA 5편 + 1차연구 6편 + narrative review 2편(총 15편)을 종합하면 핵심 임상 질문 "PCL은 막을 수 있는가, 관리할 수 있는가"에 대한 best evidence 답은 명확하다: **흔하고(progressive·inevitable), mesial에 집중되며, 정기 감시로 조기에 잡아 재형성하는 것이 기본**이다 — 다만 최근 근거는 이 reactive 자세에 **proactive 예방 분기**(crown 장착 시 MM-DD 교합조정)를 추가한다. 유병률은 추적기간에 강하게 의존(>5년 29–83.3%)하고, 메타분석 통합치는 mesial 44.2% vs distal 27.5%로 mesial이 일관되게 약 1.6–2배 높다. 위험인자는 인구·행동·보철 변수가 아니라 **국소 생체역학·해부**(식편압입·잔존치조제 높이 차이·인접치 골소실; Liu 2025)가 지배하며, mesial과 distal 위험인자 프로파일은 서로 다르다(Cui 2025). 결과 면에서 개방접촉은 임플란트주위점막염 위험지표(RR 1.74; Atieh 2026)이고 인접치 인접면 우식의 직접 위험인자(Alsaloum 2026)로, 보철 합병증을 넘어 생물학적 연쇄로 재규정된다.

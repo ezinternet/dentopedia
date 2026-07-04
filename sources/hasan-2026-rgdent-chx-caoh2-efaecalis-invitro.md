@@ -17,13 +17,23 @@ text_filename: hasan-2026-rgdent-chx-caoh2-efaecalis-invitro.txt
 
 사용자가 요청한 PMC 전문 논문으로, 근관 내 투약제(intracanal medicament)로서 수산화칼슘[Ca(OH)2]의 항균 효과에 대한 근거를 다룬다. 60개 치아·21일 E. faecalis 감염 모델을 이용한 본 in-vitro 연구는 Ca(OH)2의 항균 열세를 CHX 및 RG-Dent 대비 정량적으로 제시하고, 적용 기간(2일 vs 7일)의 영향도 검증한다 — 기존 [[endodontics/regenerative/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma]]가 다룬 intracanal medicament 주제를 일반 근관치료(비-재생근관치료) 맥락으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro comparative study (60 human single-rooted teeth, 21-day E. faecalis intracanal infection model, 3 medicaments × 2 durations, n=10/subgroup): both 2% CHX gel (mean logCFU reduction 4.94±0.23) and RG-Dent (4.77±0.26, metronidazole/iodoform/dexamethasone paste) were significantly more effective than Ca(OH)2 (3.69±0.27) against E. faecalis (P<0.001, Cohen's d>4); CHX showed marginal superiority over RG-Dent (P=0.036, d=0.69, medium); application duration (2 vs 7 days) had no significant effect on efficacy (P=0.78) and no interaction with medicament type (P=0.97).
 
-## 한줄요약
+In-vitro comparative study (60 human single-rooted teeth, 21-day E.
 
-인비트로 비교연구(사람 단근치 60개, 21일 E. faecalis 근관 감염 모델, 3개 투약제×2개 적용기간, 서브그룹당 n=10): 2% 클로르헥시딘(CHX) 겔(평균 logCFU 감소 4.94±0.23)과 RG-Dent(메트로니다졸/요오드포름/덱사메타손 페이스트, 4.77±0.26) 모두 수산화칼슘[Ca(OH)2](3.69±0.27)보다 E. faecalis에 유의하게 더 효과적이었고(P<0.001, Cohen's d>4), CHX가 RG-Dent보다 소폭 우세했으며(P=0.036, d=0.69, 중간 효과크기), 적용 기간(2일 vs 7일)은 항균 효과에 유의한 영향이 없었다(P=0.78, 상호작용 P=0.97).
+faecalis intracanal infection model, 3 medicaments × 2 durations, n=10/subgroup): both 2% CHX gel (mean logCFU reduction 4.94±0.23) and RG-Dent (4.77±0.26, metronidazole/iodoform/dexamethasone paste) were significantly more effective than Ca(OH)2 (3.69±0.27) against E.
+
+faecalis (P<0.001, Cohen's d>4); CHX showed marginal superiority over RG-Dent (P=0.036, d=0.69, medium); application duration (2 vs 7 days) had no significant effect on efficacy (P=0.78) and no interaction with medicament type (P=0.97).
+
+## 세줄요약
+
+
+인비트로 비교연구(사람 단근치 60개, 21일 E.
+
+faecalis 근관 감염 모델, 3개 투약제×2개 적용기간, 서브그룹당 n=10): 2% 클로르헥시딘(CHX) 겔(평균 logCFU 감소 4.94±0.23)과 RG-Dent(메트로니다졸/요오드포름/덱사메타손 페이스트, 4.77±0.26) 모두 수산화칼슘[Ca(OH)2](3.69±0.27)보다 E.
+
+faecalis에 유의하게 더 효과적이었고(P<0.001, Cohen's d>4), CHX가 RG-Dent보다 소폭 우세했으며(P=0.036, d=0.69, 중간 효과크기), 적용 기간(2일 vs 7일)은 항균 효과에 유의한 영향이 없었다(P=0.78, 상호작용 P=0.97).
 
 ## 1. Document Information
 

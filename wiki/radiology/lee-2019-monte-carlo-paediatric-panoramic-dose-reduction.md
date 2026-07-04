@@ -16,13 +16,21 @@ relations:
     target: benchimol-2018-collimation-panoramic-effective-dose-reduction
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Monte Carlo vs TLD for paediatric panoramic dose (MC 3.474 vs TLD 3.850 µSv); beam height is the dominant dose-reduction lever.
+In-vitro study validating Monte Carlo (MC) dosimetry against TLD for paediatric panoramic radiography and identifying the key dose-determining parameters through 36 multi-factor simulations (7 factors × 6 levels).
 
-## 한줄요약
+MC effective dose (3.474 µSv) closely matched TLD (3.850 µSv); beam height was the dominant dose-reduction factor — the single most controllable clinical variable — while rotation angle and focus-to-patient distance had minimal impact.
 
-소아 파노라마 선량 MC vs TLD(MC 3.474 vs TLD 3.850 µSv). 빔 높이(beam height)가 선량 결정 최대 인자.
+Reducing beam height is the highest-yield practical strategy for lowering paediatric panoramic dose, and MC simulation is a reliable, simpler alternative to TLD for dose assessment in this setting.
+
+## 세줄요약
+
+소아 파노라마 방사선 촬영에서 선량 결정 인자 7개(각 6수준, 총 36회 시뮬레이션)를 분석하고 몬테카를로(MC) 선량측정을 TLD와 비교 검증한 체외 연구.
+
+MC 유효선량 3.474 µSv ≈ TLD 3.850 µSv로 잘 일치; 7개 인자 중 빔 높이(Beam Height)가 선량에 가장 큰 영향을 미쳤고, 회전각·초점-환자 거리는 영향 미미.
+
+빔 높이 감소가 소아 파노라마 선량 저감의 최우선 임상 전략이며, MC 시뮬레이션이 TLD에 대한 실용적 대안임을 확인.
 
 ## Summary
 

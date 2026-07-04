@@ -13,11 +13,21 @@ source_collection: external
 tags: [resin-cement, partial-coverage, inlay, onlay, laminate-veneer, cementation]
 ---
 
-## One-line Summary
-Narrative systematic review (68 articles, 1991–2023) of resin-cement selection for partial coverage restorations (PCRs — inlay/onlay/laminate veneer/endocrown): self-cure or dual-cure for metallic PCRs, light-cure conventional resin cement for thin/translucent low-strength ceramics, and self-etch / self-adhesive dual-cure cements contraindicated for laminate veneers.
+## Three-line Summary
 
-## 한줄요약
-부분피개 수복물(PCR — 인레이/온레이/베니어/엔도크라운)을 위한 레진 시멘트 선택 가이드 narrative SR (68편): 금속 PCR엔 self/dual-cure, 얇고 투명한 세라믹엔 light-cure conventional, 라미네이트 베니어엔 self-etch/self-adhesive dual-cure 금기.
+Narrative systematic review (68 articles, 1991–2023) evaluating resin cement selection criteria for partial coverage restorations — inlay, onlay, laminate veneer, and endocrown.
+
+Self-cure or dual-cure cements are recommended for metallic PCRs and thick/opaque ceramics; light-cure conventional resin cement is preferred for thin/translucent low-strength ceramics; self-etch and self-adhesive dual-cure cements are contraindicated for laminate veneers.
+
+The review provides a practical polymerization-mode and adhesion-strategy framework for PCR cementation decisions but does not perform meta-analysis.
+
+## 세줄요약
+
+부분피개 수복물(인레이/온레이/라미네이트 베니어/엔도크라운) 레진 시멘트 선택에 관한 내러티브 체계적 문헌고찰 (68편, 1991–2023).
+
+금속 및 두꺼운/불투명 세라믹 PCR엔 self/dual-cure, 얇고 투명한 저강도 세라믹엔 light-cure conventional 레진 시멘트 권장; self-etch 및 self-adhesive dual-cure는 라미네이트 베니어에 금기.
+
+중합 모드×접착 전략 결정 프레임워크를 제공하나 메타분석은 수행하지 않았다.
 
 ## Summary
 Narrative SR of 68 articles (1991–2023) providing resin cement selection criteria for partial coverage restorations (PCRs). Classifies resin cements by polymerization mode (self/light/dual-cure) and adhesion strategy (conventional EAR / self-etch / self-adhesive). Key conclusions: PCR success depends on appropriate cement selection. Self-cure and dual-cure recommended for metallic PCRs. Thin/translucent low-strength ceramic PCRs should use light-cure conventional resin cement. Self-etching and self-adhesive cements (especially dual-cure types) are NOT indicated for laminate veneers.

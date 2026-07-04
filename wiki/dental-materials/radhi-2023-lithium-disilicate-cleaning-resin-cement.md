@@ -13,11 +13,19 @@ source_collection: external
 tags: [lithium-disilicate, saliva-contamination, cleaning, ivoclean, sodium-silicate, SBS, resin-cement]
 ---
 
-## One-line Summary
-In vitro study (Cureus 2023): for cleaning saliva-contaminated lithium disilicate (LDS) ceramic, 30% sodium silicate gives higher shear bond strength (SBS) of resin cement than Ivoclean — the opposite of zirconia findings — indicating Ivoclean is a zirconia-specific cleaner and cleaning-agent efficacy is ceramic-type specific.
+## Three-line Summary
+In vitro study (Cureus 2023) testing two cleaning solutions on saliva-contaminated lithium disilicate (LDS) ceramic before resin cement bonding.
 
-## 한줄요약
-in-vitro(Cureus 2023): 타액오염 리튬디실리케이트 세정 — 30% 규산나트륨 > Ivoclean SBS; 지르코니아와 반대 결과; Ivoclean은 지르코니아 특이적 세정제.
+30% sodium silicate produced significantly higher shear bond strength (SBS) than Ivoclean on LDS — the opposite of the established zirconia evidence base.
+
+Ivoclean is a zirconia-specific cleaner and should not be assumed optimal for all ceramics; material-specific cleaning protocol selection is essential.
+
+## 세줄요약
+인비트로 연구(Cureus 2023): 타액으로 오염된 리튬 디실리케이트(Lithium Disilicate, LDS) 세라믹에서 두 가지 세정제의 레진 시멘트 전단접착강도(Shear Bond Strength, SBS)를 비교.
+
+30% 규산나트륨(Sodium Silicate)이 Ivoclean보다 LDS에서 유의하게 높은 SBS를 보였으며, 이는 지르코니아 문헌과 반대되는 결과.
+
+Ivoclean은 지르코니아 특이적 세정제로, 모든 세라믹에 최적이라고 가정해서는 안 되며 재료별 세정 프로토콜 선택이 필수적임.
 
 ## Summary
 In vitro study comparing Ivoclean vs 30% sodium silicate for cleaning saliva-contaminated lithium disilicate (LDS) ceramic. Counterintuitive finding: sodium silicate outperforms Ivoclean for LDS, contrasting with zirconia literature where Ivoclean is typically superior. Highlights that cleaning agent efficacy is ceramic-type specific.

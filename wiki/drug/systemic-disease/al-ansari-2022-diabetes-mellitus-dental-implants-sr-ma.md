@@ -17,11 +17,21 @@ relations:
     target: andrade-2021-survival-rate-peri-implant-evaluation
 ---
 
-## One-line Summary
-SR+MA (89 studies, 5,510 diabetic vs 62,780 non-diabetic implants): diabetic implant failure OR 1.777 (p<0.001); T1DM > T2DM (OR 4.477); MBL difference +0.776 mm; significant difference in the maxilla only.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(89편, 5510 당뇨 vs 62,780 비당뇨 임플란트): 당뇨 임플란트 실패 OR 1.777(p<0.001); T1DM > T2DM(OR 4.477); MBL 차이 +0.776mm; 상악에서만 유의
+SR+MA (89 publications, 68,290 implants; 5,510 diabetic vs 62,780 non-diabetic) evaluating dental implant failure odds and marginal bone loss (MBL) in diabetic vs non-diabetic patients, stratified by DM type and jaw location.
+
+Diabetic patients had 77.7% higher implant failure odds (OR 1.777, p<0.001); T1DM carried significantly greater risk than T2DM (OR 4.477); MBL was +0.776 mm greater in DM and widened by +0.032 mm/month; the failure difference was significant only in the maxilla, not the mandible.
+
+Maxillary implants in diabetes require stricter HbA1c monitoring and longer surveillance; posterior mandible implants appear relatively safe even in DM; T1DM warrants a more conservative approach than T2DM.
+
+## 세줄요약
+
+당뇨 vs 비당뇨 환자의 임플란트 실패 오즈 및 변연골소실(MBL)을 당뇨 유형·악골 위치별로 분류한 SR+MA (89편, 총 68,290개 임플란트; 당뇨 5,510 vs 비당뇨 62,780).
+
+당뇨 환자의 임플란트 실패 위험 77.7% 높음(OR 1.777, p<0.001); T1DM이 T2DM보다 유의하게 고위험(OR 4.477); MBL +0.776 mm·월 +0.032 mm 증가; 실패 차이는 상악에서만 유의(하악은 유의하지 않음).
+
+상악 임플란트는 당뇨 환자에서 엄격한 HbA1c 조절·장기 모니터링 필요; 하악 구치부 임플란트는 당뇨에서도 상대적으로 안전; T1DM은 T2DM보다 보수적 접근이 필요하다.
 
 ## Summary
 Largest meta-analysis on DM and dental implants (89 publications, 68,290 implants total). Diabetic patients have **77.7% higher implant failure risk** (OR 1.777, p<0.001). Type 1 DM carries a significantly greater risk than Type 2 (OR 4.477). MBL is 0.776 mm greater in DM patients and widens over time.

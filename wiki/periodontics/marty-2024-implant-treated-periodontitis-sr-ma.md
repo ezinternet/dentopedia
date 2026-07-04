@@ -13,11 +13,21 @@ source_collection: external
 tags: [periodontitis, implant, peri-implantitis, survival-rate, bone-loss, pocket-depth, history-of-periodontitis, risk-factor, meta-analysis]
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (Dent J 2024; 5 databases, 10,775 articles screened, 8 qualitative / 10 quantitative) on implant health in treated periodontitis patients: a history of treated periodontitis confers ~4.8× higher odds of peri-implantitis, plus reduced implant survival and greater pocket depth and peri-implant bone loss versus periodontally healthy controls.
+## Three-line Summary
 
-## 한줄요약
-치주염 기왕력 환자 임플란트 건강 SR+MA (Dent J 2024): MEDLINE+Embase+Cochrane 등 5개 DB, 10,775편 검색; 8편 정성·10편 정량; 치주염 기왕력 → 치주위임플란트염(Peri-implantitis) ~4.8배, 임플란트 생존율 감소.
+SR+MA (Dent J 2024; 5 databases, 10,775 articles screened, 8 qualitative studies / 10 quantitative) examining implant health outcomes in patients with a history of treated periodontitis versus periodontally healthy controls.
+
+A history of treated periodontitis conferred approximately 4.8× higher odds of peri-implantitis (statistically significant), along with reduced implant survival rates and greater mean pocket depth and peri-implant bone loss.
+
+Pre-implant and post-implant periodontal disease management is essential; the ~4.8× peri-implantitis risk increase supports integrating periodontitis history into pre-implant counseling and long-term maintenance planning.
+
+## 세줄요약
+
+SR+MA (Dent J 2024; 5개 데이터베이스, 10,775편 검색, 정성 8편·정량 10편): 치주염 기왕력 환자와 치주 건강 대조군의 임플란트 건강 결과 비교.
+
+치주염 기왕력이 치주위임플란트염(Peri-implantitis) 발생률을 약 4.8배 높였으며(통계적으로 유의), 임플란트 생존율 감소·탐침깊이·임플란트 주위 골소실 증가.
+
+임플란트 식립 전후 치주 질환 관리가 필수적이며, 약 4.8배의 치주위임플란트염 위험 증가는 수술 전 상담과 장기 유지관리 계획에 치주염 기왕력 반영을 뒷받침한다.
 
 ## Summary
 Systematic review and meta-analysis evaluating the role of periodontitis history on implant failure outcomes. Searched 5 databases (MEDLINE, Embase, ScienceDirect, LILACS, Cochrane Library; June 2024). 10,775 potentially eligible articles screened; 8 included in qualitative analysis, 10 in quantitative synthesis. Primary outcomes: peri-implantitis incidence and implant survival rate. Secondary outcomes: mean pocket depth and mean peri-implant bone loss.

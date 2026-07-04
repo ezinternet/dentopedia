@@ -9,7 +9,7 @@ pdf_filename: tachibana-2021-polishing-zirconia-antagonist-wear.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Dent Mater J 2021;40(3):650-656: in vitro, Y-TZP 3 contact conditions × polished/ground — polished zirconia minimized antagonist wear regardless of contact type; grinding increased roughness and wear; intraoral polishing critical after occlusal adjustment.
 
 ## 1. Key Results

@@ -16,13 +16,21 @@ relations:
     target: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-4-week examiner-blind parallel-group RCT (n=60, 6–10 yo children, Israel): an advanced oscillating-rotating electric toothbrush (Oral-B iO2) gave 51% greater whole-mouth plaque reduction than a manual toothbrush (TQHPI change 0.67 vs 0.44; p=0.003), with 42–64% greater reductions across all subregions (lingual, buccal, approximal, molar; p≤0.021); no adverse events.
+4-week examiner-blind parallel-group RCT (n=60, 6–10 year-old children; Hadassah–Hebrew University, Israel; Jan–Feb 2025) comparing an advanced oscillating-rotating electric toothbrush (Oral-B iO2 with Gentle Care brush head) vs manual toothbrush (Paro Junior Soft) twice daily with 1450 ppm fluoride dentifrice.
 
-## 한줄요약
+The electric toothbrush produced 51% greater whole-mouth plaque reduction (TQHPI adjusted change 0.670 vs 0.444; p=0.003) and significantly greater reductions in all subregions: lingual +64.3%, approximal +52.4%, molar +42.8%, buccal +41.8% (p≤0.021 for all); no adverse events in either group.
 
-4주 검사자-맹검 병렬군 RCT (n=60, 6–10세 아동, 이스라엘): 첨단 회전-진동(OR) 전동칫솔(Oral-B iO2)이 수동칫솔보다 전악 치면세균막(TQHPI) 감소가 51% 더 컸고(0.67 vs 0.44; p=0.003), 모든 하위부위(협·설·인접·구치)에서 42–64% 더 큰 감소(p≤0.021)를 보였으며 이상반응은 없었다.
+In 6–10-year-olds where manual-brushing dexterity is still developing, advanced oscillating-rotating toothbrushes meaningfully outperform manual brushes for plaque control including hard-to-reach approximal and molar surfaces; gingivitis and long-term caries outcomes were not assessed, and P&G-affiliated authorship is a conflict-of-interest limitation.
+
+## 세줄요약
+
+4주 검사자-맹검 병렬군 RCT (n=60, 6–10세; Hadassah–Hebrew University, 이스라엘; 2025년 1–2월): 첨단 회전-진동(OR) 전동칫솔(Oral-B iO2+Gentle Care) vs 수동칫솔(Paro Junior Soft), 1,450 ppm 불소 치약 1일 2회.
+
+전동칫솔이 전악 치면세균막(TQHPI) 51% 더 감소(조정 변화 0.670 vs 0.444; p=0.003); 모든 하위부위 유의하게 더 큰 감소: 설면 +64.3%, 인접면 +52.4%, 구치 +42.8%, 협면 +41.8%(p≤0.021); 양 군 이상반응 없음.
+
+칫솔질 기술이 발달 중인 6–10세에서 OR 전동칫솔이 인접면·구치부를 포함한 치태 관리에서 수동칫솔보다 유의하게 우수; 치은염·장기 우식 결과 미평가, P&G 저자 이해충돌이 제한점.
 
 ## Summary
 

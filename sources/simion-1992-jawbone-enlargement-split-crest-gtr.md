@@ -16,13 +16,23 @@ text_filename: simion-1992-jawbone-enlargement-split-crest-gtr.txt
 
 "Alveolar Greenstick Fracture" PMC 전문 감시 인제스트의 두 번째 핵심 논문이자 split-crest 술식의 **고전 원전(1992)**. 치조제를 길이방향으로 분할하며 녹색골절(greenstick fracture)을 유발하고 e-PTFE 막으로 GTR을 병용하는 원형 술식을 기록 — 단계적 변형인 [[wiki/bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]]의 역사적 선행연구이고, [[wiki/bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] 및 [[wiki/implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability]]의 개념적 뿌리다. PMC 전문 부재로 abstract-only(`full_text: false`).
 
-## One-line Summary
+## Three-line Summary
+
 
 Case series (n=5): a single-stage split-crest that longitudinally divides the ridge to provoke a greenstick fracture, spreads the cortical plates with a chisel, places immediate implants, and covers with e-PTFE (GTR) — yielding 1–4 mm width gain (greater in the maxilla) with histologic interpositional bone regeneration.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 split-crest 고전 증례군(n=5): 치조제를 길이방향으로 분할해 녹색골절을 유발하고 끌로 피질판을 벌린 뒤 즉시 임플란트 식립·e-PTFE 막(GTR) 적용 → 폭 1–4 mm 증가(상악에서 더 큼), 조직학적으로 분할면 사이 골재생 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

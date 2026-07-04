@@ -13,11 +13,19 @@ source_collection: external
 tags: [sleep-bruxism, occlusal-splint, biofeedback, botulinum-toxin, polysomnography]
 ---
 
-## One-line Summary
-Systematic review (Okayama University, 2022) of adult sleep bruxism management: occlusal splints protect teeth but do not reduce bruxism episode frequency, biofeedback has the strongest evidence for reducing episodes, botulinum toxin (BTX) lowers muscle activity/pain but is equivocal for episode frequency, and no current treatment permanently eliminates sleep bruxism.
+## Three-line Summary
+Systematic review (Okayama University, Japanese Dental Science Review 2022) of management strategies for adult sleep bruxism using PSG-validated or EMG-confirmed bruxism diagnoses; narrative synthesis with evidence grading.
 
-## 한줄요약
-오카야마대 SR: 수면이갈이(Sleep Bruxism) 성인 관리에서 교합안정장치는 이갈이 자체를 줄이지 않고 치아를 보호할 뿐; 바이오피드백이 이갈이 빈도 감소에 가장 높은 근거 수준.
+Occlusal splints reduce muscle activity and protect teeth but do not reduce bruxism episode frequency; biofeedback shows the strongest evidence for reducing episodes; BTX injection reduces masseter volume/pain but yields equivocal results on bruxism frequency; clonazepam and clonidine have limited evidence and notable side effects.
+
+No currently available treatment permanently eliminates sleep bruxism; the clinical priority of splints should be understood as tooth protection, not bruxism treatment.
+
+## 세줄요약
+오카야마대 PSG/EMG 확진 성인 수면이갈이 관리 전략 체계적 문헌고찰(일본치과과학리뷰, 2022): 근거 등급화 서술 종합.
+
+교합안정장치는 근육활동 감소·치아 보호 효과는 있으나 이갈이 빈도는 줄이지 못함; 바이오피드백이 이갈이 빈도 감소에 가장 높은 근거 수준; 보툴리눔독소는 교근 부피·통증 감소에는 효과적이나 빈도에 대한 결과 모호; 클로나제팜·클로니딘은 근거 제한적·부작용 있음.
+
+현재 이갈이를 완전히 없애는 치료는 없음; 스플린트의 임상적 역할은 이갈이 치료가 아닌 치아 보호임을 명확히 해야 함.
 
 ## Summary
 This systematic review from Okayama University in the Japanese Dental Science Review (2022) comprehensively evaluates management strategies for 수면이갈이 (Sleep Bruxism) in adults. A critical finding is that 교합안정장치 (Occlusal Splint) — the most commonly prescribed intervention — does not reduce bruxism episode frequency; it protects teeth but does not treat the underlying bruxism. Biofeedback devices showed the most consistent evidence for reducing bruxism episodes. 보툴리눔독소 (Botulinum Toxin, BTX) injection reduced muscle activity and pain but showed equivocal results for bruxism episode frequency. Pharmacological options (clonazepam, clonidine) had limited evidence and notable side effects. No currently available treatment permanently eliminates sleep bruxism.

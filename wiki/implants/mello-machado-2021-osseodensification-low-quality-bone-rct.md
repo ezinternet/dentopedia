@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, RCT, double-blind, low-quality-bone, D3, D4, healing-chamber, ISQ, insertion-torque, primary-stability]
 ---
 
-## One-line Summary
-Double-blind RCT (n=16 patients / 55 implants) in Misch D3/D4 low-quality bone: osseodensification (OD, healing-chamber preparation) vs standard undersized drilling — OD significantly raised insertion torque (39.0±6.4 vs 32.0±3.4 Ncm, p<0.001) but ISQ was equivalent at placement (67.1 vs 65.5) and 6 months (74.0 vs 73.3, p>0.05 both), with equivalent survival.
+## Three-line Summary
 
-## 한줄요약
-무작위대조시험 (Randomized Controlled Trial, RCT), 이중맹검, n=16 환자/55 임플란트 — Misch D3/D4 저밀도골에서 골밀도화 (Osseodensification, OD) 군이 표준 언더사이즈 드릴링 대비 삽입토크는 유의하게 높았으나(39.0±6.4 vs 32.0±3.4 Ncm, p<0.001) 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 placement(67.1 vs 65.5)·6개월(74.0 vs 73.3) 모두 동등(p>0.05), 생존율도 동등. 환자 수가 16명에 불과해 군집효과로 정밀도 과대평가 가능.
+Double-blind RCT (n=16 patients, 55 implants) comparing osseodensification (OD, Densah CCW healing-chamber) vs standard undersized drilling in Misch D3/D4 low-quality bone sites.
+
+OD significantly raised insertion torque (39.0±6.4 vs 32.0±3.4 Ncm, p<0.001), but ISQ at placement (67.1 vs 65.5) and at 6 months (74.0 vs 73.3) and implant survival were equivalent between groups (p>0.05 for all).
+
+OD is a viable alternative for low-density bone — it increases insertion torque but not ISQ or survival; the small patient count (n=16) inflates precision due to clustering.
+
+## 세줄요약
+
+이중맹검 무작위대조시험 (Randomized Controlled Trial, RCT), n=16명/55 임플란트 — Misch D3/D4 저밀도골에서 골밀도화 (Osseodensification, OD) vs 표준 언더사이즈 드릴링 비교.
+
+OD군 삽입토크 유의하게 높음 (39.0±6.4 vs 32.0±3.4 Ncm, p<0.001); 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 식립 시(67.1 vs 65.5) 및 6개월 (74.0 vs 73.3) 모두 동등(p>0.05), 생존율도 동등.
+
+OD는 저밀도골에서 실용적 대안이나 ISQ·생존율 우월성 없음; 환자 16명의 군집 효과로 정밀도 과대평가 가능 — 장기 추적 부재.
 
 ## Summary
 This double-blind RCT compared osseodensification (OD, Densah burs CCW, osteotomy wider than implant core — the "healing chamber" preparation) against standard undersized drilling in 16 patients with Misch D3 or D4 bone quality. Across 55 implants (G1 OD n = 29; G2 standard n = 26), insertion torque, ISQ at placement, ISQ at 6 months, and survival were assessed.

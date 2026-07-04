@@ -11,7 +11,7 @@ pdf_filename: guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (18 studies; 13 non-grafted TSFE + 5 platelet-grafted TSFE): 1-year implant survival rate (ISR) statistically equivalent — non-grafted 97% vs PC-grafted 99%. Suggests **graft material may be optional** for transcrestal sinus elevation with sufficient RBH.
 
 ## 1. Document Information

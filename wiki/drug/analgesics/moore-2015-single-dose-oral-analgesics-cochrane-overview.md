@@ -14,11 +14,21 @@ source_collection: external
 tags: [Cochrane, single-dose, postoperative-pain, NNT, ibuprofen, acetaminophen, APAP, codeine, tramadol, opioid, overview-of-reviews]
 ---
 
-## One-line Summary
-Cochrane overview of Cochrane SRs (Moore 2015): single-dose oral analgesics for acute postoperative pain — ibuprofen 200/400mg + APAP 500/1000mg combination NNT ~1.5 (lowest); ibuprofen 400mg alone ~2.5; APAP+codeine ~2.2; codeine 60mg alone NNT ~12 (essentially placebo); tramadol 75mg ~9 — NSAID+APAP combination is the standard first-line.
+## Three-line Summary
 
-## 한줄요약
-Oxford Cochrane overview of Cochrane SRs (Moore 2015): 급성 술후 통증 단일-dose 경구 진통제 — Ibuprofen 200/400 + APAP 500/1000 병용 NNT ~1.5 (최저); Ibuprofen 400 단독 ~2.5; APAP+codeine ~2.2; codeine 60 단독 NNT 12+ (사실상 효과 없음); tramadol 75 NNT ~9 — NSAID + APAP 병용이 표준 1차.
+Cochrane overview synthesizing multiple Cochrane SRs (Moore 2015, CD008659) comparing single-dose oral analgesics for acute postoperative pain, primarily in dental extraction populations, using the NNT framework.
+
+Ibuprofen + APAP combination reached NNT ~1.5 (most effective); ibuprofen 400 mg alone NNT ~2.5; APAP + codeine ~2.2; codeine 60 mg alone NNT ~12 and tramadol 75 mg NNT ~9 — both essentially indistinguishable from placebo.
+
+NSAID + APAP combination is the standard first-line single-dose regimen for acute dental pain; opioid monotherapy is poor analgesic practice, and forms the anchoring evidence for the 2022 ADA opioid-sparing guidelines.
+
+## 세줄요약
+
+Cochrane overview (Moore 2015, CD008659): 주로 발치 후 통증 집단을 대상으로 단회 경구 진통제 비교, NNT(50% 통증 완화 4–6시간) 프레임워크 사용.
+
+이부프로펜+APAP 병용 NNT ~1.5(최고 효과); 이부프로펜 400 mg 단독 ~2.5; APAP+코데인 ~2.2; 코데인 60 mg 단독 ~12·트라마돌 75 mg ~9(사실상 위약 수준).
+
+NSAID+APAP 병용이 급성 치과 통증 단회 표준 1차 요법; 마약 단독 사용은 부적절 — 2022 ADA 오피오이드 감량 가이드라인의 근거.
 
 ## Summary
 Cochrane overview synthesizing multiple single-drug Cochrane SRs of single-dose oral analgesics for acute postoperative pain (mostly dental extraction populations). Uses the NNT framework — number of patients who must be treated for one to achieve ≥50% pain relief at 4-6 hours vs placebo.

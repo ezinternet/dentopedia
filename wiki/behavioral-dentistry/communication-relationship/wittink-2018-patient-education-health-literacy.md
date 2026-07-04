@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (abstract-only — full text not retrieved): patient education has moved from ineffective biomedical knowledge-transfer toward patient-centred, individually tailored education; because low health literacy is common, professional bodies recommend universal precautions for every patient — avoid jargon, break information into small steps, limit each visit to three key points, confirm understanding with teach-back, keep print at ≤6th-grade reading level, and use visual aids.
+Narrative review/masterclass (musculoskeletal physiotherapy context, directly transferable to dentistry) arguing that patient education has shifted from ineffective one-way biomedical knowledge transfer to patient-centred, individually tailored education — a shift driven by recognising that low health literacy is widespread and that clinicians cannot reliably identify which patients are affected.
 
-## 한줄요약
+Because low health literacy cannot be detected by inspection, professional organizations recommend universal health-literacy precautions for every patient: avoid jargon, chunk information into small steps, limit to three key points per visit, confirm understanding with teach-back, keep print materials at ≤6th-grade reading level, and use visual aids.
 
-내러티브 리뷰(초록만 — 전문 미확보): 환자교육은 효과 없는 생의학적 지식전달에서 환자중심·개별맞춤 교육으로 이동했다. 낮은 건강정보이해력(health literacy)이 흔하므로 모든 환자에게 보편적 예방조치를 권고한다 — 전문용어 배제, 작은 단계로 분할, **방문당 핵심 3가지로 제한**, **티치백(teach-back)**으로 이해 확인, 인쇄물 6학년 이하 수준, 시각자료 활용.
+As an abstract-only narrative review, effect sizes are not captured here, but the universal-precautions framework is actionable and maps directly onto communication training programmes for dental teams.
+
+## 세줄요약
+
+내러티브 리뷰/마스터클래스(근골격 물리치료 맥락이나 치과에 직접 전용 가능): 환자교육은 효과 없는 단방향 생의학 지식전달에서 환자중심·개별맞춤 교육으로 이동했으며, 이 전환은 낮은 건강 문해력(Health Literacy)이 광범위하고 임상의가 이를 외양으로 파악할 수 없다는 인식에서 비롯된다.
+
+건강 문해력은 외양으로 판단 불가이므로, 전문학회들은 모든 환자에게 보편적 건강 문해력 예방조치(universal precaution) 적용을 권고한다: 전문용어 배제, 작은 단계로 분할, 방문당 핵심 3가지 제한, 티치백(teach-back)으로 이해 확인, 인쇄물 6학년 이하 수준, 시각 보조자료 활용.
+
+초록만 확보된 문헌으로 효과 크기는 미수집이나, 보편적 예방조치 체계는 실행 가능하며 치과 팀 소통 훈련 프로그램에 직접 적용 가능하다.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 This SR+MA directly quantifies patient-reported outcome (PRO) treatment effects for both implant-supported fixed complete dentures (IFCDs) and implant overdentures (IODs), filling a gap in [[complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]] which focuses on CAD/CAM fabrication rather than prosthesis-type PRO comparisons. Key evidence base for advising edentulous patients on fixed vs removable implant options.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (28 studies, n=1457) found large treatment-effect sizes for both IFCDs (g=1.68) and IODs (g=1.26) on patient-reported outcomes, with no significant difference between prosthesis types except for denture stability favoring IFCDs.
+SR+MA (Clin Oral Implants Res 2023 Suppl; PROSPERO CRD42022269277; 28 prospective studies, n=1,457 fully edentulous patients) quantifying treatment-effect sizes of implant-supported fixed complete dentures (IFCDs) and implant overdentures (IODs) on dental patient-reported outcomes (dPROs).
 
-## 한줄요약
+Both prosthesis types produced large treatment effects (IFCD Hedges' g=1.68; IOD g=1.26); overall IFCD vs IOD difference was not significant (p=0.165); denture stability was the only domain where IFCDs significantly outperformed IODs (ES difference 2.37, p=0.032); mandibular 2-implant IODs outperformed single-implant IODs (ES difference 0.73, p<0.001).
 
-체계적 문헌고찰 및 메타분석(28편, n=1457): 임플란트 지지 고정 총의치(IFCD)와 임플란트 피개의치(IOD) 모두 환자보고결과에 대한 큰 치료 효과 크기를 보였으며(g=1.68 vs 1.26), 의치 안정성에서만 IFCD가 유의하게 우수했다.
+Both implant-retained prosthesis types dramatically improve patient-reported outcomes versus conventional dentures; for patients where cost or bone volume limits fixed options, 2-implant IODs deliver equivalent overall satisfaction with significantly better stability than single-implant designs.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (Clin Oral Implants Res 2023 Suppl; PROSPERO CRD42022269277; 전향적 연구 28편, n=1,457 무치악 환자): 임플란트 지지 고정 총의치 (Implant-supported Fixed Complete Denture, IFCD)와 임플란트 피개의치 (Implant Overdenture, IOD)의 환자보고결과 (dental Patient-Reported Outcome, dPRO) 치료 효과 크기 정량화.
+
+두 보철 유형 모두 큰 치료 효과 (IFCD Hedges' g=1.68; IOD g=1.26); 전체 IFCD vs IOD 차이는 유의하지 않음 (p=0.165); 의치 안정성만 IFCD가 유의하게 우수 (효과 크기 차이 2.37, p=0.032); 2임플란트 IOD가 단일 임플란트 IOD보다 유의하게 우수 (ES 차이 0.73, p<0.001).
+
+양 보철 유형 모두 통상 총의치 대비 dPRO를 극적으로 향상 → 비용·골량 제한 시 2임플란트 피개의치가 고정성과 동등한 전반적 만족도를 제공하며, 단일 임플란트보다 현저히 우수.
 
 ## 1. Document Information
 

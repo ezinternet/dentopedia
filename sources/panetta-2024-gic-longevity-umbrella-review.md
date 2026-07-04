@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Top-tier longevity synthesis for the GIC cluster; supports [[glass-ionomer/panetta-2024-gic-longevity-umbrella-review]] and grounds the GIC overview's evidence-quality caveats.
 
-## One-line Summary
+## Three-line Summary
+
 Umbrella review of 13 SRs evaluating GIC longevity in primary/permanent teeth, with major AMSTAR-2/ROBIS quality caveats.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR 13편 우산 리뷰 — GIC longevity, 방법론적 품질 한계 명시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 J Funct Biomater 2024; 15(2): 48. DOI 10.3390/jfb15020048. Published 2024-02-19. Open access (CC BY). Universidade Católica Portuguesa; A.T. Still University.

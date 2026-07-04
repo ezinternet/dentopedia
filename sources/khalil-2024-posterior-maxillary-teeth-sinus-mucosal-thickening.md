@@ -17,13 +17,23 @@ text_filename: khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening.tx
 
 구체적 치아 위치, 치근-상악동 인접도, 치주골 소실 정도를 변수로 상악동 점막비후 위험을 로지스틱 회귀로 정량화한 연구. 제1대구치가 가장 높은 위험(AOR=3.97), 치근단 병변이 압도적 위험(AOR=32.7)임을 제시. [[sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus]]의 치주질환 연관성을 다변량 분석으로 더욱 세분화.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective CBCT study (n=124 patients, 992 teeth) quantified risk factors for maxillary sinus mucosal thickening: first molars (AOR=3.97), periapical lesions (AOR=32.7), and severe periodontal bone loss (AOR=2.75) were strongest predictors.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 CBCT 후향적 연구(n=124명, 992치): 제1대구치(AOR=3.97), 치근단 병변(AOR=32.7), 중증 치주골 소실(AOR=2.75)이 상악동 점막비후의 강력한 위험인자.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

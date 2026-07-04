@@ -9,7 +9,7 @@ pdf_filename: kim-2009-blood-vessels-peri-implant-mucosa.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Animal study in 6 dogs comparing peri-implant mucosal vascularity after flap vs flapless implant surgery, finding significantly greater vessel number and area fraction in flapless group (p<0.05).
 
 ## 1. Document Information

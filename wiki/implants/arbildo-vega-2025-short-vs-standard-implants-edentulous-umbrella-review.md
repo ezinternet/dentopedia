@@ -18,11 +18,21 @@ relations:
     target: zhang-2024-short-vs-long-implants-sinus
 ---
 
-## One-line Summary
-Umbrella review of 60 systematic reviews finding no significant differences in survival, implant failure, or prosthetic complications between short and standard implants, while short implants showed less marginal bone loss and fewer biological complications.
+## Three-line Summary
 
-## 한줄요약
-SR 60편 umbrella review — short vs standard 생존·실패·보철 합병증 유의차 없음, short가 MBL·생물학적 합병증 적음 (high-confidence).
+Umbrella review of 60 systematic reviews (790 records screened; PROSPERO CRD42020218497) comparing short vs standard-length implants across survival, failure, prosthetic complications, marginal bone loss (MBL), and biological complications.
+
+Survival, implant failure, and prosthetic complications did not differ significantly between short and standard implants; short implants showed less MBL and fewer biological complications with high-confidence grading.
+
+Short implants are a viable, less invasive alternative for patients with reduced vertical bone height — this umbrella review provides the highest-tier evidence endorsing the equivalence-plus-MBL-advantage thesis.
+
+## 세줄요약
+
+Umbrella review (SR 60편, 790건 검색; PROSPERO CRD42020218497) — short vs standard 임플란트의 생존율·실패·보철 합병증·MBL·생물학적 합병증 비교.
+
+생존율·임플란트 실패·보철 합병증은 유의차 없음; short 임플란트에서 MBL 적음, 생물학적 합병증 적음(고신뢰도 등급).
+
+Short 임플란트는 수직 골량 부족 환자에서 덜 침습적·실행 가능한 대안 — 이 umbrella review는 동등성+MBL 이점 명제의 최고 근거수준 지지.
 
 ## Summary
 Sitting at the top of the evidence pyramid for this question, this umbrella review synthesizes 60 systematic reviews comparing short and standard-length implants. It reproduces the now-familiar pattern with high-confidence backing: survival, implant failure, and prosthetic complications do not differ, while short implants accrue less marginal bone loss and fewer biological complications. The authors conclude short implants are a viable, less invasive alternative for patients with reduced vertical bone height. As an umbrella review it inherits overlap among constituent SRs and heterogeneous "short" definitions, but it is the strongest single statement of the equivalence-plus-MBL-advantage thesis.

@@ -14,8 +14,21 @@ source_collection: external
 
 Provides the skeptical counterweight that [[overviews/bone-regeneration-socket-biology-and-arp-critique]] needs — documents late xenograft failure (5–13 yr) and argues statistical dimensional preservation does not equal patient-centred benefit, contradicting the ARP-positive SR/MA pool in [[overviews/socket-preservation-arp-overview]]. Re-frames Carmagnola histology and the commercial drivers behind routine ARP.
 
-## One-line Summary
-Narrative review + 2 case reports of late xenograft failure (5–10 years post-ARP) published in BDJ — challenges the routine use of ARP by highlighting that statistical dimensional preservation does not consistently translate to patient-centred clinical benefit, and documents under-reported chronic graft complications.
+## Three-line Summary
+
+Narrative review + 2 case reports (BDJ 2022): skeptical critique of routine ARP by a UK restorative dentist, documenting late xenograft failure (5–13 years) with fibrous encapsulation and peri-implantitis-like presentation.
+
+Statistical dimensional preservation in existing SR/MA pools does not consistently translate to patient-centred benefit (implant survival, esthetics at 5+ years), and the $663M BSM market creates commercial pressure for universal ARP.
+
+Limit ARP to specific indications (Type 2/3 socket, >50% buccal plate loss) rather than routine use; two illustrated cases demonstrate that non-integrated xenograft can present as chronic peri-implantitis years after initial integration.
+
+## 세줄요약
+
+서술적 리뷰 + 사례보고 2편(BDJ 2022): 영국 개원의의 이종골 ARP 장기 실패(5–13년, 섬유성 피막·만성 감염) 사례를 중심으로 일상적 ARP 사용에 회의적 관점을 제시.
+
+기존 SR/MA에서 통계적으로 유의한 치조제 보존이 임플란트 생존율·심미 결과(5년 이상)로 이어진다는 근거는 불충분하며, 663백만 달러 BSM 시장의 상업적 압력이 근거 없는 일상적 사용을 부추길 수 있음.
+
+Type 2·3 소켓, 협측골판 >50% 소실 등 특정 적응증에 한정해 사용을 권고 — 이종골이 초기 통합 후에도 만성 주위염 유사 병변으로 재발할 수 있음을 인지해야 함.
 
 ## 1. Document Information
 - **Journal**: British Dental Journal 2022;233(6):471–476 (Sept 23 2022)

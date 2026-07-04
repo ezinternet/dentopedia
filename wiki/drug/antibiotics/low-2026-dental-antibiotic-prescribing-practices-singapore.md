@@ -26,13 +26,21 @@ relations:
     target: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 280 Singapore dentists (2024): appropriate antibiotic prescribing ranged 6.5-97.7% across scenarios (lowest periodontal 30.4%, oral surgery 34.0%), 71.2% over-prescribed prophylaxis after third-molar surgery and 73.5% before implants, public-sector/locally-trained/junior dentists prescribed more appropriately, and AMR-mechanism knowledge was consistently poor (59.3% unaware resistant bacteria spread easily).
+Cross-sectional online survey of 280 Singapore dentists (2024; ~10.4% of workforce), the first comprehensive Singapore study of dental antibiotic prescribing, knowledge, and attitudes, using scenario-based appropriateness scoring against local guidelines.
 
-## 한줄요약
+Appropriate prescribing ranged 6.5–97.7% across scenarios (lowest: periodontal 30.4%, oral surgery 34.0%); prophylaxis was the worst offender — 71.2% routinely prescribed after third-molar surgery and 73.5% before implants in healthy patients; AMR-mechanism knowledge was poor (59.3% unaware resistant bacteria spread easily) despite 80% positive attitudes toward AMR.
 
-싱가포르 치과의사 280명 단면조사(2024): 적절한 항생제 처방률이 임상상황별 6.5~97.7%로 편차가 컸고(치주 30.4%·구강외과 34.0% 최저), 사랑니 발치 후 71.2%·임플란트 식립 전 73.5%로 예방적 항생제를 과처방했으며, 공공부문·국내수련·저경력 치과의사가 더 적절히 처방했고 AMR 지식은 부족했다(59.3%가 내성균 전파 가능성 인지 못함).
+Public-sector, locally-trained, and less-experienced dentists prescribed more appropriately; nearly all (88.2%) wanted further training, preferring local guidelines (83.6%) and mobile apps (70.4%) — guideline dissemination alone is insufficient; COM-B/audit+feedback strategies are needed.
+
+## 세줄요약
+
+싱가포르 치과의사 280명 단면조사(2024; 전체 치과의사 ~10.4%): 싱가포르 최초 치과 항생제 처방·지식·태도 종합 연구; 임상 시나리오별 가이드라인 준수율로 적절성 평가.
+
+적절한 처방률이 임상상황별 6.5~97.7%로 극단적 편차(치주 30.4%·구강외과 34.0% 최저); 예방적 항생제 과처방이 가장 심각 — 건강 환자 사랑니 발치 후 71.2%·임플란트 전 73.5% 불필요 처방; 항균제 내성(Antimicrobial Resistance, AMR) 기전 지식 전반적 부족(59.3% 내성균 전파 인지 못함).
+
+공공부문·국내수련·저경력 치과의사가 더 적절히 처방; 88.2%가 추가 교육 희망(선호: 지역 가이드라인 83.6%, 모바일앱 70.4%) — 가이드라인 배포만으로는 불충분, COM-B 기반 감사+피드백 전략 필요.
 
 ## Summary
 

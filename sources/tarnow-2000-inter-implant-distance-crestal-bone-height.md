@@ -14,13 +14,21 @@ source_url: https://doi.org/10.1902/jop.2000.71.4.546
 
 임플란트 간격 3 mm 룰의 원조 논문. 인접 임플란트 간 수평 골소실 폭 (측방 골소실)과 임플란트 간격의 상호작용을 처음 정량화. [[implants/morales-schwarz-2025-1mm-interimplant-distance-10year-case]] 의 1 mm IID 케이스가 이 논문의 3 mm 권고를 기준점으로 인용.
 
-## One-line Summary
+## Three-line Summary
 
-Radiographic study (n=36 patients, 2 adjacent implants each): inter-implant crestal bone loss 0.45 mm when IID >3 mm vs 1.04 mm when IID ≤3 mm; lateral bone loss ~1.4 mm per side.
+Retrospective radiographic study (J Periodontol 2000; n=36 patients, each with 2 adjacent external-hex bone-level implants) measuring inter-implant crestal bone loss and lateral bone loss per implant.
 
-## 한줄요약
+Inter-implant crestal bone loss was 1.04 mm when IID ≤3 mm vs 0.45 mm when IID >3 mm; lateral bone loss was ~1.34–1.40 mm per implant shoulder, and the ≥3 mm guideline derives mechanistically from two overlapping ~1.4 mm zones summing to ~2.8 mm.
 
-방사선 연구 (n=36명, 인접 임플란트 2개): 임플란트 간 치조정 골소실 0.45 mm (IID>3 mm) vs 1.04 mm (IID≤3 mm); 측방 골소실 ~1.4 mm.
+The foundational "3 mm IID rule" applies to pre-platform-switching external-hex implants — modern internal-conical platform-switched designs may perform differently, and subsequent case series have challenged direct applicability to contemporary implant systems.
+
+## 세줄요약
+
+후향적 방사선 연구(J Periodontol 2000; n=36명, 각 인접 외부육각 골수준 임플란트 2개) — 임플란트 간 치조정 골소실 및 임플란트당 측방 골소실 정량.
+
+임플란트 간 치조정 골소실: IID ≤3 mm → 1.04 mm, IID >3 mm → 0.45 mm; 측방 골소실 ~1.34–1.40 mm/임플란트; ≥3 mm 가이드라인은 두 측방 골소실 구역(각 ~1.4 mm)이 겹치는 기전에서 도출됨.
+
+"임플란트 간격 3 mm 룰"의 원조 논문이나 플랫폼 교환 이전 외부육각 임플란트 기준 — 현대 내부원추형·플랫폼교환 시스템에 그대로 적용하면 과도하게 보수적일 수 있음.
 
 ## 1. Document Information
 - **Journal**: Journal of Periodontology 2000;71(4):546-9

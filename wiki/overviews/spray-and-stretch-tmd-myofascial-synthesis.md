@@ -24,13 +24,21 @@ source: synthesis
 > - **예후·환자선택**: 만성 사례는 기분장애·불안 동반이 흔하고 예후가 나빠(Vázquez-Delgado 2010) 조기 진단·치료가 유리하며, 심리적 디스트레스가 처치후 통증 인식과 상관(Martín-Pintado 2014) → 다학제·심리사회 평가 병행.
 > - **근거 한계 정직하게**: 마스티케이션 RCT 0편, 대부분 초록 기반, sham-통제 부재, 효과 단시간. 분사신장은 "저비용·저위험 보조기법"으로 권장 가능하나 고근거 단독요법으로 과대평가 금지. 더 강한 모달리티(운동치료 SR, 보툴리눔 SR+MA)가 위키에 별도 존재.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 wiki pages on spray-and-stretch (vapocoolant) for masticatory/myofascial trigger-point pain: the technique reliably produces an *immediate* increase in mouth opening and short-term pain/soreness relief, but masticatory-specific evidence is a single non-randomized study (Koole 2019), the only RCTs are in the trapezius (Ustun 2024 non-inferior to dry needling; Martín-Pintado 2014 effect <6 h), and orofacial reviews (Pal 2014, Vázquez-Delgado 2010) place it as a low-cost adjunct within a multimodal ladder — not a standalone cure.
+Synthesis of 5 wiki pages on spray-and-stretch (vapocoolant + passive stretch) for masticatory myofascial trigger-point pain and TMD: 1 direct masticatory prospective study, 2 transferable RCTs (trapezius), 2 orofacial narrative reviews.
 
-## 한줄요약
+The technique reliably produces an immediate increase in mouth opening and short-term pain/soreness relief (Koole 2019: MMO gain, pain group > control, p<0.001); however, masticatory-specific evidence is only a single non-randomized study; the two RCTs are trapezius-based (Ustun 2024: non-inferior to dry needling, better on PPT/NDI; Martín-Pintado 2014: postneedling-soreness relief lasting <6 hours, no PPT change); both orofacial reviews (Pal 2014, Vázquez-Delgado 2010) place spray-and-stretch as a 2-phase low-cost adjunct, not a standalone.
 
-마스티케이션·근막통 분사신장 위키 5편 종합 — 즉시 개구량↑·단기 통증완화는 일관되나, 마스티케이션 직접근거는 비무작위 1편(Koole 2019)뿐이고 RCT는 모두 승모근(Ustun 2024 건침에 비열등, Martín-Pintado 2014 효과 <6h)이며, 구강안면 리뷰(Pal 2014·Vázquez-Delgado 2010)는 분사신장을 다모달리티 치료 사다리 속 저비용 보조기법으로 위치시킴.
+Clinical positioning: spray-and-stretch is appropriate as (1) an immediate mouth-opening warm-up before passive stretching exercises and (2) a post-needling soreness buffer after dry needling — it should be combined with exercise therapy, self-stretch, and behavioral/occlusal treatment, not used as a monotherapy; chronic cases with comorbid mood/anxiety disorder have worse prognosis and warrant multidisciplinary evaluation.
+
+## 세줄요약
+
+5편 종합 (마스티케이션 전향 연구 1, 전이 가능 RCT 2(승모근), 구강안면 내러티브 리뷰 2) — 분사신장(Spray-and-Stretch, 냉각분사+수동신장)의 근막 트리거포인트(Myofascial Trigger Point, MTrP) 치료 근거.
+
+즉시 개구량 증가와 단기 통증 완화는 일관됨(Koole 2019: 최대 개구량(MMO) 증가, 통증군>대조군 p<0.001); 그러나 마스티케이션 직접 근거는 비무작위 1편뿐이고, RCT는 모두 승모근(Ustun 2024 건침(Dry Needling) 대비 비열등·압통역치(PPT)·경부장애지수(NDI) 우수; Martín-Pintado 2014 효과 <6시간·PPT 변화 없음); 양측 구강안면 리뷰(Pal 2014·Vázquez-Delgado 2010)는 분사신장을 다모달리티 사다리 속 저비용 보조기법으로 배치.
+
+임상 위치: ①수동신장 전 즉시 개구량 확보 워밍업, ②건침 후통증 완화 보조로 적합; 운동치료·자가신장·행동/교합치료와 병용 필수, 단독 근치요법 불가; 만성 사례·기분/불안장애 동반 시 예후 불량 — 다학제·심리사회 평가 권고.
 
 ## Scope
 

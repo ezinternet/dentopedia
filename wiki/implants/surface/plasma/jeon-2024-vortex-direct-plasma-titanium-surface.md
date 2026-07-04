@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, vortex-plasma, direct-discharge, titanium, hydrophilicity, osteoblast, device, in-vitro]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study comparing a novel magnetic-field "vortex plasma" source vs conventional direct plasma discharge on titanium: vortex plasma improved hydrophilicity, reduced carbon, and enhanced osteoblast adhesion/activity comparably to direct plasma, while keeping discharge independent of implant size/shape and preserving morphology.
+In vitro study comparing a novel magnetic-field vortex plasma source against conventional direct plasma discharge for treating titanium surfaces, assessing hydrophilicity, surface chemistry, morphology, and osteoblast adhesion/activity.
 
-## 한줄요약
+Vortex plasma achieved equivalent improvements in hydrophilicity, carbon reduction, and osteoblast adhesion and activity compared to direct discharge, while delivering uniform treatment independent of implant size or shape and preserving surface morphology.
 
-티타늄에서 자기장 "vortex plasma"와 기존 직접 방전 비교 in vitro: vortex가 친수성↑·탄소↓·골모세포 부착/활성을 직접 방전과 동등 수준으로 달성하면서, 대상 크기·형상에 무관한 균일 방전·표면형태 보존.
+The vortex design overcomes the geometric limitation of direct-discharge devices (electrode contact required), making it a more practical option for consistent chairside application across varied implant geometries.
+
+## 세줄요약
+
+티타늄 표면에 자기장 기반 vortex plasma와 기존 직접 방전 플라즈마를 비교한 in vitro 연구: 친수성·표면화학·형태·골모세포 부착/활성 평가.
+
+Vortex plasma는 친수성 증가, 탄소 감소, 골모세포 부착/활성 향상에서 직접 방전과 동등한 결과를 달성하면서 임플란트 크기·형상에 무관한 균일 방전 및 표면형태 보존.
+
+직접 방전 방식의 기하학적 한계(전극 접촉 필요)를 극복한 vortex 설계는 다양한 임플란트 형태에서 일관된 임상 적용을 가능하게 하나, in vivo·임상 데이터가 없음.
 
 ## Summary
 

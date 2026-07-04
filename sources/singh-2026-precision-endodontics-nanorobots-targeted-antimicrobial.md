@@ -13,7 +13,7 @@ source_collection: external
 
 근관치료 disinfection 영역에서 기존 [[endodontics/irrigation]] 카테고리는 NaOCl + PUI/ANP/sonic activation 기반의 임상 paper가 주류. 본 editorial-grade narrative는 dentinal tubule + apical ramification + isthmus 등 **conventional irrigation이 reach 못 하는 영역**을 nanorobot/nanozyme/biodegradable nanoparticle로 접근하는 aspirational framework를 제시. 본 wiki에 endodontic disinfection의 **'천장' (감염제어의 이론적 한계)** 을 표시하는 reference로 보존.
 
-## One-line Summary
+## Three-line Summary
 
 근관 disinfection의 미래로 nanorobot/nanozyme/biodegradable nanoparticle을 제시하는 J Conserv Dent Endod 2026 editorial. 임상 단계 미도달, 실험실 evidence + 안전성·biocompatibility 미해결.
 

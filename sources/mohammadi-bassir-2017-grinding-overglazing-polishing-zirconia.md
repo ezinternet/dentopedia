@@ -9,7 +9,7 @@ pdf_filename: mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Prosthet Dent 2017;118(5):658-665: 5 groups (standard polish, grind, grind+overglaze, grind+2-step polish, grind+polishing kit) — significant differences in Ra, Rz, flexural strength; grinding + polishing partially restores surface; overglazing alone insufficient.
 
 ## 1. Key Results

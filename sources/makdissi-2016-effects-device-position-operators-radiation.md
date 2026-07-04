@@ -19,13 +19,23 @@ Reinforces operator-positioning guidance for portable/handheld intraoral X-ray u
 
 (Note: PMC full-text body was not retrievable — this summary is built from the complete structured abstract retrieved verbatim via PubMed/PMC.)
 
-## One-line Summary
+## Three-line Summary
+
 
 Phantom + TLD bench study of a NOMAD Pro handheld dental X-ray unit in 3 hold positions: operator scatter dose is negligible overall (highest 0.0310 mGy on the left palm, perpendicular-hold) and well below IRR-1999 limits, but device position significantly affects exposure — so positioning protocols, personal dosemeters, training and audits are required.
 
-## 한줄요약
+(incomplete)
 
-핸드헬드 휴대용 치과 X-ray(NOMAD Pro)를 팬텀·열형광선량계(TLD)로 3가지 잡는 자세에서 측정한 벤치 연구. 술자(operator) 피폭은 전반적으로 무시할 수준(최고 0.0310 mGy, 왼손 손바닥, 수직 자세)이고 IRR-1999 한도보다 훨씬 낮지만, 기기를 잡는 위치가 피폭에 유의하게 영향을 주므로 자세 프로토콜·개인선량계·교육·정기 감사(audit)가 필요하다.
+(incomplete)
+
+## 세줄요약
+
+
+핸드헬드 휴대용 치과 X-ray(NOMAD Pro)를 팬텀·열형광선량계(TLD)로 3가지 잡는 자세에서 측정한 벤치 연구.
+
+술자(operator) 피폭은 전반적으로 무시할 수준(최고 0.0310 mGy, 왼손 손바닥, 수직 자세)이고 IRR-1999 한도보다 훨씬 낮지만, 기기를 잡는 위치가 피폭에 유의하게 영향을 주므로 자세 프로토콜·개인선량계·교육·정기 감사(audit)가 필요하다.
+
+(incomplete)
 
 ## 1. Document Information
 

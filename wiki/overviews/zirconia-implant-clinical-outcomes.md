@@ -26,11 +26,21 @@ tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
 > - 근거 한계: 60개월 초과 연구가 드물고 장기 파절/지대주나사 데이터 부족, 표준화 지르코니아 PROM 도구 부재, 경성종말점 (hard endpoint) 사용 지르코니아 vs 티타늄 직접비교 RCT 제한적. 임상 입장: 지르코니아는 적절 적응증에서 티타늄의 근거 기반 대안 (수정 가능한 위험 레버를 피한다는 전제).
 > - **미생물 축 신규 (Kniha 2026, 분할구 RCT, n=20, 12개월, 16S rRNA)**: 12개월 시점 지르코니아 > 티타늄 알파다양성(p<0.05); 지르코니아에서 Fusobacteria·Proteobacteria·Actinobacteria 감소, 레드 컴플렉스 경향 낮음. 단, 베타다양성(beta diversity) 차이 없음(PERMANOVA NS) → 전체 군집 조성은 동등. 치은연상 샘플링·임상 결과 없음 → 탐색적 데이터, 임상적 우위 단정 불가.
 
-## One-line Summary
-Zirconia implants now show high medium-to-long-term survival (10-year CSR ~95%) with low marginal bone loss and high patient satisfaction; the residual failure signal is concentrated in two-piece designs, narrow diameters (fracture), drill-prepared coronal parts, and discontinued products — i.e. execution/design, not the ceramic itself.
+## Three-line Summary
 
-## 한줄요약
-지르코니아 임플란트는 중장기 생존율(10년 누적 ~95%)과 낮은 변연골소실·높은 환자 만족도를 보이며, 잔여 실패 신호는 2-piece·협폭경(파절)·드릴가공·단종제품에 집중 — 세라믹 자체보다 설계·시공 문제.
+Synthesis of 3 papers (1 SR+MA, 2 SRs): zirconia implants achieve high medium-to-long-term survival (Mohseni 2024 SR+MA, 25 studies / 4,017 implants: 10-yr CSR 95.1%; MBL ~0.005 mm/month), with high patient-reported satisfaction in aesthetics, comfort, and chewing (Arefnia 2025 SR, 12 controlled studies), on par with titanium.
+
+The residual failure signal concentrates in four modifiable design/execution levers: two-piece design (worse survival, p=0.017), narrow diameter (fracture risk), chairside drill preparation of the coronal part (worse survival, p<0.001), and discontinued/early-generation products — the ceramic material itself is not the limiting factor.
+
+Arch location (maxilla vs mandible) does not significantly affect survival (p=0.637); zirconia is a viable evidence-supported alternative to titanium for suitable indications provided the modifiable risk levers are avoided; PROM literature remains too heterogeneous to pool and long-term (>5-yr) fracture/abutment data are still limited.
+
+## 세줄요약
+
+3편 종합(SR+MA 1·SR 2): 지르코니아 임플란트는 중장기 생존율 높음(Mohseni 2024 SR+MA, 25편/4,017개: 10년 누적 95.1%; MBL ~0.005 mm/월), 환자보고결과(PROMs)에서 심미·편안함·저작 유의 향상(Arefnia 2025 SR, 12편), 티타늄과 동등 수준.
+
+잔여 실패 신호는 4가지 수정 가능한 설계·시공 레버에 집중: 2-piece 설계(p=0.017), 협폭경(파절), 의자측 드릴 가공 관상부(p<0.001), 단종·초기세대 제품 — 세라믹 재료 자체가 아닌 설계·시공 문제.
+
+악궁 위치(상악 vs 하악)는 생존에 유의 영향 없음(p=0.637); 적절한 적응증에서 티타늄의 근거 기반 대안이나 PROM 문헌은 이질적이고 장기(>5년) 데이터는 아직 부족하다.
 
 ## Thesis
 Across a decade of evidence, zirconia implant survival converged on titanium-like territory: Pieralli 2017 reported 95.6% at 12 months (≤60-mo data), and Mohseni 2024 extended this to a 95.1% 10-year cumulative survival across 25 studies (4017 implants). Marginal bone loss is modest and accrues slowly (~0.005 mm/month). The failures that remain are not random "ceramic is brittle" events — they cluster in two-piece designs, narrow-diameter implants (fracture), implants whose coronal part was drill-modified chairside, and discontinued/early-generation products. Patient-reported outcomes (Arefnia 2025) are favorable — significant gains in aesthetics, comfort, and chewing — but the PROM literature is too heterogeneous to pool. The defensible clinical position: zirconia is a viable evidence-supported alternative to titanium for suitable indications, provided one avoids the modifiable risk levers.

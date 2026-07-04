@@ -13,15 +13,25 @@ source_collection: external
 tags: [dental-erosion, enamel, mineral-loss, caries, erosion, prevention, remineralisation, narrative-review]
 ---
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review (J Dent 2014 Supplement, 143 references) summarising chemical, biological, and host
 factors of enamel mineral loss from caries and erosion, with clinical management frameworks,
 concluding that evidence-based prevention — dietary advice, oral hygiene, fluoride — is the
 foundation of lifelong hard-tissue management.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review (J Dent 2014 Supplement, 143편 인용): 법랑질 미네랄 소실(우식·침식·마모)의
 화학·생물·숙주인자 종합 — 식이상담·불소·구강위생 중심의 근거기반 예방이 평생 경조직 관리의 핵심.
+
+(incomplete)
+
+(incomplete)
 
 ## Summary
 West and Joiner synthesise evidence on enamel mineral loss across its major pathways: caries

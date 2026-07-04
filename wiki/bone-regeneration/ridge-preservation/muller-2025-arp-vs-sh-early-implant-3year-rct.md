@@ -18,13 +18,21 @@ relations:
     target: atieh-2015-alveolar-ridge-preservation-cochrane-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Exploratory RCT (n=35, 3-year follow-up) comparing DBBM-C/CM, DBBM-C, and spontaneous healing (SH) before early implant placement (8 weeks): all groups showed statistically significant but clinically acceptable contour reduction at 3 years (−0.23, −0.21, −0.33 mm), with no significant between-group differences in marginal bone loss or clinical parameters.
+Exploratory parallel-group RCT (University of Zurich; n=35, 3 arms: DBBM-C/CM, DBBM-C, spontaneous healing) reporting 3-year profilometric and radiographic outcomes after early implant placement (8 weeks post-extraction, type 2 protocol) — the first study to reach 3-year follow-up for ARP combined with early implant placement.
 
-## 한줄요약
+All groups showed statistically significant but clinically acceptable contour reduction from prosthetic delivery to 3 years (DBBM-C/CM: −0.23 mm, DBBM-C: −0.21 mm, SH: −0.33 mm); between-group differences in marginal bone loss and clinical parameters were not statistically significant; no implant failures or peri-implantitis events occurred.
 
-조기 식립 (Early Implant Placement, 8주) 전 DBBM-C/CM, DBBM-C, 자발적 치유 (Spontaneous Healing, SH)를 비교한 탐색적 무작위 대조 시험 (RCT) (n=35, 3년 추적): 모든 군에서 외형 감소 통계적 유의 (−0.23, −0.21, −0.33 mm)이나 임상적으로 허용 가능한 수준이며, 군 간 변연골 소실 (Marginal Bone Loss, MBL) 및 임상 지표 차이 유의하지 않음.
+This underpowered exploratory RCT cannot confirm superiority of ARP over spontaneous healing at 3 years when implants are placed early, highlighting that early placement timing may reduce the window in which ARP provides measurable dimensional benefit.
+
+## 세줄요약
+
+탐색적 3군 RCT (취리히대, n=35: DBBM-C/CM·DBBM-C·자연치유): 조기 임플란트 식립 (발치 8주 후, 제2형) 후 3년 외형 분석 및 방사선 결과 — ARP와 조기 식립을 결합한 최초의 3년 추적 연구.
+
+보철물 장착~3년까지 전 군에서 통계적으로 유의한 외형 감소 (DBBM-C/CM: −0.23 mm, DBBM-C: −0.21 mm, SH: −0.33 mm); 군 간 변연골 소실·임상 지표 차이 비유의; 임플란트 실패·치주염 없음.
+
+검정력이 부족한 탐색적 RCT로서 조기 식립 시 ARP의 3년 우월성을 확인하지 못했으며, 조기 식립 타이밍 자체가 ARP의 측정 가능한 치수 이익 창을 좁힐 수 있음을 시사한다.
 
 ## Summary
 

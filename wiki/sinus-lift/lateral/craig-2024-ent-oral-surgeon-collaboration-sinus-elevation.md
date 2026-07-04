@@ -20,13 +20,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/craig-2024-ent-oral-surgeon-collabor
 text_filename: craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review proposing a Felisati grading system (1-5) for ENT referral decisions before maxillary sinus elevation; only grade ≥3 (OMC obstruction, overt sinusitis) warrants otolaryngological evaluation — mucosal thickening and MRC do not.
+Multidisciplinary narrative review (otolaryngologists + implantologists) proposing a standardized ENT referral framework — the Felisati grading system (grades 1–5) — for maxillary sinus elevation candidates based on CBCT ostiomeatal complex (OMC) patency and sinus opacification.
 
-## 한줄요약
+Only grade ≥3 (moderate OMC narrowing, mucosal disease, or complete obstruction) requires ENT referral; mucosal thickening alone, asymptomatic mucous retention cysts (MRC), and small cysts without OMC obstruction are confirmed safe and do not warrant referral.
 
-상악동거상술 전 이비인후과 협진 적응증 체계화 리뷰 — Felisati 5등급 시스템: 3등급 이상(골구내강 폐쇄·명백한 상악동염)만 협진 필요, 점막비후·MRC는 대부분 불필요.
+True contraindications to sinus elevation requiring ENT clearance first are active infectious sinusitis, fungal sinusitis, severe OMC ostial scarring, large obstructing polyps, and incurable chronic rhinosinusitis — dental providers should assess OMC patency, not mucosal thickness, as the primary referral trigger.
+
+## 세줄요약
+
+이비인후과·임플란트 전문가 다학제 서술적 리뷰로, 상악동거상술(Maxillary Sinus Elevation, MSE) 후보에서 CBCT 기반 골구내강(Ostiomeatal Complex, OMC) 개방성과 동 혼탁도를 결합한 Felisati 5등급 협진 결정 체계 제안.
+
+3등급 이상(중등도 OMC 협착·점막 질환·완전 폐쇄)만 이비인후과(Ear Nose Throat, ENT) 협진 필요; 점막비후 단독, 무증상 점액낭류(Mucous Retention Cyst, MRC), OMC 비폐쇄 소낭종은 MSE에 안전.
+
+협진 진짜 적응증은 감염성 상악동염, 진균성 상악동염, 중증 OMC 반흔, 폐쇄성 대형 용종, 불치 만성 비부비동염 — 점막 두께가 아닌 OMC 개방성이 협진 기준.
 
 ## Summary
 

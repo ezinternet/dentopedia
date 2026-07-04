@@ -22,13 +22,21 @@ relations:
     target: li-2024-salivary-diagnostics-opportunities-challenges
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 13 untargeted salivary-proteomics studies of periodontitis vs. health/gingivitis: complement C3, profilin-1, S100A8, and fibrinogen were consistently up-regulated and cystatin-SN and leukocyte elastase inhibitor down-regulated, but only S100A8 had a poolable diagnostic accuracy (meta-analytic AUC 0.71, 95% CI 0.66–0.75) — no single marker is yet clinic-ready.
+Systematic review (PRISMA; PROSPERO CRD42022299826) of 13 untargeted salivary-proteomics studies (11 cross-sectional, 2 longitudinal; n=20–141) comparing periodontitis with health or gingivitis.
 
-## 한줄요약
+Complement C3, profilin-1, S100A8, and fibrinogen were consistently up-regulated in periodontitis (≥3 studies); cystatin-SN and leukocyte elastase inhibitor were down-regulated; only S100A8 was poolable, yielding a modest AUC of 0.71 (95% CI 0.66–0.75, I²=2.4%).
 
-타액 프로테오믹스 13편 체계적 고찰 — 치주염에서 C3·profilin-1·S100A8·fibrinogen 일관 상승, cystatin-SN·leukocyte elastase inhibitor 일관 감소했으나, 메타분석 가능했던 마커는 S100A8(AUC 0.71) 하나뿐이라 타액 단일마커 치주 스크리닝은 아직 근거 미성숙.
+No single salivary protein is yet clinic-ready as a periodontal diagnostic; within-study multi-protein ML panels reach AUC ~0.97, but standardized protocols and independent validation are lacking.
+
+## 세줄요약
+
+치주염 vs 건강/치은염을 비교한 미표적 타액 프로테오믹스 연구 13편 체계적 고찰(PRISMA; PROSPERO CRD42022299826, 11편 단면·2편 종단; n=20–141).
+
+치주염에서 C3·profilin-1·S100A8·fibrinogen 일관 상승(≥3편), cystatin-SN·leukocyte elastase inhibitor 하락; 메타분석 가능한 마커는 S100A8뿐으로 진단정확도 AUC 0.71(95% CI 0.66–0.75, I²=2.4%)에 그침.
+
+단일 타액 마커로는 아직 임상 적용 불가; 단일기관 내 다단백질 기계학습 패널은 AUC ~0.97이나 외부 검증·표준화 프로토콜이 부재.
 
 ## Summary
 

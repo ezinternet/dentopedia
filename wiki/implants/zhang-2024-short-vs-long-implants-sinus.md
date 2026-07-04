@@ -13,11 +13,21 @@ source_collection: external
 tags: [short-implant, sinus-floor-elevation, posterior-maxilla, network-meta-analysis, marginal-bone-loss]
 ---
 
-## One-line Summary
-Network meta-analysis (17 studies, 1,076 patients, 1,751 implants) of posterior-maxilla strategies — short implants (4–8 mm) without sinus elevation vs long implants (≥8 mm) with immediate or delayed sinus floor elevation (SFE): implant survival statistically indistinguishable (failure long vs short OR 1.26, NS) but short implants showed significantly less marginal bone loss (MBL), with complication trends also favoring short.
+## Three-line Summary
 
-## 한줄요약
-네트워크 메타분석 (Network Meta-Analysis, NMA), 17건/환자 1,076명/임플란트 1,751개: 후방 상악동 거상술 (Sinus Floor Elevation, SFE)에서 단축형 임플란트 (Short Implant, 4–8 mm)는 장축형 (≥8 mm) 대비 생존율은 차이 없지만 변연골소실 (Marginal Bone Loss, MBL)이 통계적으로 유의하게 적음.
+PRISMA-NMA (17 studies, 1,076 patients, 1,751 implants, PROSPERO CRD42023495027, January 2014–November 2024) comparing three posterior-maxilla strategies: short implants 4–8 mm (no sinus elevation), long implants ≥8 mm + immediate SFE, and long implants ≥8 mm + delayed SFE.
+
+Implant failure was statistically indistinguishable (long vs short OR 1.26, 95% CI 0.53–3.00, NS); short implants showed significantly less marginal bone loss than both long+immediate and long+delayed SFE groups; complication trends also favored short but did not reach significance.
+
+For the atrophic posterior maxilla, short implants (4–8 mm) are a defensible alternative to sinus floor elevation — survival is comparable and MBL is lower, though the overall evidence level relies largely on heterogeneous prospective/RCT data.
+
+## 세줄요약
+
+PRISMA-NMA(17건, 환자 1,076명, 임플란트 1,751개, PROSPERO 등록, 2014년 1월–2024년 11월): 후방 상악 세 가지 전략 비교 — 단축형 임플란트(4–8 mm, 상악동거상 없음), 장축형(≥8 mm) + 즉시 SFE, 장축형 + 지연 SFE.
+
+임플란트 실패율은 통계적으로 차이 없었고(장형 vs 단형 OR 1.26, NS), 단축형은 즉시·지연 SFE 장형 대비 모두 MBL이 유의하게 적었으며, 합병증도 단축형 경향이나 유의하지 않았다.
+
+위축된 후방 상악에서 단축형 임플란트(4–8 mm)는 SFE의 합당한 대안이며 생존율 동등, MBL 유리 — 그러나 전체 근거 수준은 이질적 전향·RCT 데이터에 의존한다.
 
 ## Summary
 This 2024 BMC Oral Health network meta-analysis compares three posterior-maxilla rehabilitation strategies in one model: short implants (4–8 mm) without sinus elevation, long implants (≥8 mm) with delayed sinus floor elevation (SFE), and long implants with immediate SFE. Seventeen studies (1,076 patients; 1,751 implants) published January 2014 through November 2024 were synthesized following PRISMA-NMA. The headline result is clinically pragmatic: implant survival is statistically indistinguishable between approaches, but short implants are associated with significantly less marginal bone loss, while complication rates trend (non-significantly) in favor of short implants.

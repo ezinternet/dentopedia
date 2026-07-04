@@ -16,13 +16,21 @@ relations:
     target: nagaoka-2017-mdp-zirconia-chemical-interaction-nmr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative literature review of 11 in vitro studies (1995–2017) finding that adhesive functional monomers — especially MDP (phosphate), MEPS (thiophosphate), 6-MHPA (phosphonoacetate), and 4-META (carboxylate anhydride) — bond resin luting agents to titanium and titanium alloys as effectively as silanization plus tribochemical silica coating, with 10 wt% MDP-based primer and 4-META/MMA-TBB resin showing the best thermocycling durability.
+Narrative literature review (J Oral Sci 2022; PubMed search of 11 in-vitro studies, 1995–2017) summarizing how adhesive functional-monomer chemistry drives resin-luting-agent bond durability to titanium and titanium alloys under thermocycling aging.
 
-## 한줄요약
+Carboxyl- and phosphate-group monomers — MDP, MEPS, 6-MHPA, 4-META — bonded to the TiO₂ surface film as effectively as tribochemical silica coating + silanization; 10 wt% MDP-based primer ranked first among primers, 4-META/MMA-TBB (Super-Bond C&B bulk-mix) ranked first among luting agents; sulfur monomers (VTD, MTU-6) were ineffective for titanium.
 
-기능성 단량체(MDP·MEPS·6-MHPA·4-META)를 포함한 프라이머·접착제가 티타늄·티타늄 합금에 대한 레진 접착을 실란화 + 트라이보화학 실리카 코팅과 동등하게 촉진하며, 10 wt% MDP계 프라이머와 4-META/MMA-TBB 레진이 열순환 내구성에서 최우수.
+Chairside resin cementation of cast titanium restorations can be achieved with MDP or 4-META primers plus alumina air abrasion, without dedicated silica-blasting equipment; phosphoric acid etching must be avoided as it inhibits functional-monomer adsorption onto TiO₂.
+
+## 세줄요약
+
+서술적 문헌고찰(J Oral Sci 2022; PubMed 검색, in vitro 연구 11편, 1995–2017) — 기능성 접착 단량체 화학이 열순환 노화 후 티타늄·티타늄 합금에 대한 레진 접착 내구성을 어떻게 결정하는지 정리.
+
+카르복실·포스페이트기 단량체(MDP·MEPS·6-MHPA·4-META)가 트라이보화학 실리카 코팅+실란화와 동등한 접착을 TiO₂ 피막에 제공; 프라이머 중 10 wt% MDP계, 합착재 중 4-META/MMA-TBB(Super-Bond C&B bulk-mix)가 열순환 내구성 최우수; 황 계열 단량체(VTD·MTU-6)는 티타늄에 무효.
+
+주조 티타늄 보철 임상 접착은 알루미나 공기연마 + MDP 또는 4-META 프라이머로 전용 실리카 분사 장비 없이 가능하며, 인산 처리는 TiO₂ 표면의 단량체 흡착을 억제하므로 반드시 피해야 한다.
 
 ## Summary
 

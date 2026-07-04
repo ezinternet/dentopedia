@@ -17,13 +17,21 @@ text_filename: feng-2025-expert-consensus-digital-complete-denture.txt
 tags: [cad-cam, complete-denture, digital-workflow, expert-consensus, intraoral-scanning, facial-scanning, 3d-printing, cnc-milling]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Expert consensus statement (Chinese multi-institutional prosthodontics panel) standardizing the digital complete denture workflow — case selection, intraoral/facial scanning, custom tray/jaw-relation digital design, CAD tooth arrangement, additive (SLA/DLP/material jetting/powder bed fusion) and subtractive (CNC milling) manufacturing, and evaluation/outcome metrics — with a synthesis of the current comparative evidence vs conventional dentures.
+Expert consensus statement by a 27-author Chinese multi-institutional prosthodontics panel standardizing the digital complete denture workflow from case selection through intraoral/facial scanning, custom tray and jaw-relation design, CAD tooth arrangement, and additive/subtractive manufacturing to evaluation metrics.
 
-## 한줄요약
+Key evidence synthesis: digital workflows save 58–233 minutes of chair time, milled dentures achieve retention comparable to conventional (up to 74 N for border-molded maxillary), direct intraoral scanning still underperforms in movable-mucosa border areas, and patient satisfaction/OHRQoL does not differ significantly between digital and conventional dentures.
 
-중국 다기관 보철과 전문가 합의문: 디지털 총의치의 적응증 선정, 구강 내/안모 스캔, 커스텀 트레이·악간관계 디지털 디자인, 인공치 배열, 적층(SLA/DLP/재료분사/분말적층) 및 절삭(CNC 밀링) 제작, 평가지표까지 표준화된 임상 워크플로우를 제시하고 기존 방식과의 비교 근거를 종합함.
+Persistent gaps include lack of validated superiority for any single jaw-relation-recording device within digital workflows, and AI/AR integration is identified as the highest-priority future direction.
+
+## 세줄요약
+
+27인 중국 다기관 보철과 전문가 합의문으로, 디지털 총의치의 적응증부터 구강 내/안모 스캔, 커스텀 트레이·악간관계 디지털 디자인, 인공치 배열, 적층(SLA/DLP)/절삭(CNC 밀링) 제작, 평가지표까지 표준화된 워크플로우를 제시하였다.
+
+디지털 워크플로우는 임상시간 58–233분 절감, 밀링 의치의 유지력은 기존법과 동등(경계인기 상악 최대 74 N), 구강 내 스캔은 동적 점막 부위에서 여전히 열위이며, 환자만족도·OHRQoL은 디지털과 기존 의치 간 유의차 없었다.
+
+디지털 워크플로우 내 악간관계 기록장치 우열 검증이 부재하고, AI·증강현실(AR) 통합이 최우선 미래 방향으로 제시되었다.
 
 ## Summary
 

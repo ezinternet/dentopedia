@@ -13,13 +13,23 @@ source_collection: external
 
 발치와 협측 골 형태에 따른 치조골 보존술(ARP) 처치 결정 트리 제공 — 협측 골의 무결성, 두께, 골열개/천공 여부에 따라 임상 처치를 단계별로 안내하며 [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]]의 발치 후 치조골 변화 생물학을 임상 처치 알고리즘으로 연결.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review proposing a 3-type socket classification (ST1–ST3) based on buccal bone morphology with a clinical decision tree matching each type to the most predictable alveolar ridge preservation technique.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 협측 골 형태에 따른 3형 발치와 분류(ST1–ST3)와 각 유형별 치조골 보존술 처치 결정 트리를 제안한 서술적 고찰.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

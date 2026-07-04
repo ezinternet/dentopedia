@@ -13,13 +13,23 @@ source_collection: external
 
 맞춤형 치유 지대주 (Customized Healing Abutment)를 즉시 식립 후 연조직 외형 보존 수단으로 사용하는 임상 케이스를 제공하며, [[immediate-implant/esthetic-soft-tissue]] 카테고리의 연조직 관리 옵션(임시 보철 없이 연조직 외형 유지)을 보강하는 임상 기법 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Clinical case series (2019) demonstrating a chairside customized healing abutment technique for immediate implants to preserve peri-implant soft tissue contours without provisional restorations.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 즉시 임플란트 식립 후 임시 보철 없이 맞춤형 치유 지대주를 이용해 연조직 외형을 보존하는 간소화된 임상 기법을 소개한 케이스 시리즈 (2019).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

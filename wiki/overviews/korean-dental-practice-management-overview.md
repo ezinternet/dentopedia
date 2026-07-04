@@ -27,11 +27,21 @@ tags: [practice-management, korean-dentistry, constitutional-court, dentist-work
 > - 미충족 영역(2편으로는 합성 불가): 보험 심사 분쟁, 노동관계(근로기준법·치위생사 고용), 과실 판례, 광고 규제, 디지털 진료(스캐너·원격) 규제 — 각각 관련 논문 ingest 시 별도 페이지화.
 > - 신규(2026-06): 함석태(1889-?) — 일제강점기 첫 한국인 정규 치과대학 졸업·등록 치과의사, 한성치과의사회 창립(JKDA 2025 역사 기사).
 
-## One-line Summary
-Synthesis of 2 practice-management papers: Korean dentist workforce grew at 2.39% annually (2012–2022) with significant regional disparity; constitutional court decisions catalogue the legal framework governing Korean dental practice.
+## Three-line Summary
 
-## 한줄요약
-개원경영 2편 종합: 한국 치과의사 연 2.39% 증가(2012–2022), 지역 격차 유의, 헌법재판소 결정례가 한국 치과 진료 법적 테두리를 구성.
+Synthesis of 2 practice-management papers covering the Korean dental landscape: active Korean dentist count grew at 2.39% annually (2012–2022), exceeding population growth in most regions, with statistically significant metropolitan-vs-non-metropolitan distribution disparity (ANOVA confirmed; Yim & Jeon, JKDA 2024 cross-sectional, KDA Health Policy Institute).
+
+The regional concentration (수도권 쏠림) means urban competitive density is markedly higher, making regional density data a necessary input for branch-clinic location and specialty-niche planning; the 2.39% annual-growth rate is the primary quantitative anchor in the ongoing dental-school-quota expansion debate.
+
+Ha 2023 (JKDA, Jeonbuk National University) catalogues Korean Constitutional Court decisions and constitutional complaints (헌법소원) involving dental practice — scope likely covers scope-of-practice disputes, licensing/qualification, patient-vs-practitioner rights, and health-insurance regulatory disputes; individual case holdings require manual review (CID font encoding prevented machine-readable extraction).
+
+## 세줄요약
+
+개원경영 2편 종합: 한국 활동 치과의사 수 연평균 2.39% 증가(2012–2022), 대부분 지역에서 인구 증가를 상회, 수도권 vs 비수도권 분포 불균형 통계적 유의(ANOVA; Yim & Jeon, JKDA 2024 횡단, KDA 건강정책연구원).
+
+수도권 집중으로 도시 경쟁 밀도 현저히 높음 — 분점 입지·전문 niche 선택에 지역 밀도 데이터 반영 필요; 2.39% 증가율은 치과대학 정원 확대 논쟁의 1차 정량 근거.
+
+Ha 2023(JKDA, 전북대) — 치과의사 관련 헌법재판소 결정·헌법소원 카탈로그(업무범위 분쟁·면허·환자권 vs 시술자권·건강보험 규제 분쟁 포함 추정); 원문 기계판독 불가(CID 폰트)로 개별 판례 holding은 수기 검토 필요.
 
 ## Summary
 

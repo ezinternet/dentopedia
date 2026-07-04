@@ -15,13 +15,21 @@ text_filename: chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct.txt
 tags: [implant-neck-design, immediate-implant, MBL, peri-implant-tissues, keratinized-mucosa, RCT]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-12-month RCT (n=36) comparing triangular vs round implant neck design in immediately placed anterior maxillary implants: no significant differences in MBL, probing depth, buccal bone width, or soft tissue thickness; 88.9% survival in both groups.
+12-month parallel-group RCT (n=36; 18 triangular neck vs 18 round neck implants; anterior maxilla; immediate placement + immediate provisionalization; CBCT at day 0 and 4 months; clinical parameters at 4 and 12 months; NCT05944419).
 
-## 한줄요약
+No statistically significant between-group differences were detected for MBL, probing depth, bleeding on probing, crestal width, buccal bone width, or soft tissue thickness at any time point; survival was 88.9% in both groups at 12 months.
 
-상악 전치부 즉시식립 임플란트에서 삼각형 넥(Triangular Neck, TN) vs 원형 넥(Round Neck, RN) 비교 12개월 RCT(n=36): MBL, 탐침깊이(Probing Depth, PD), 협측골폭(Buccal Bone Width, BBW), 연조직 두께(Soft Tissue Thickness, STT) 모두 유의한 그룹 간 차이 없음 — 우월성 미입증.
+The study was not designed or powered for equivalence testing, so small undetected differences cannot be ruled out; adequately powered non-inferiority/equivalence trials are needed to make definitive claims about triangular neck geometry benefits.
+
+## 세줄요약
+
+12개월 평행군 무작위 대조시험 (Randomized Controlled Trial, RCT; n=36: 삼각형 넥 18개 vs 원형 넥 18개; 상악 전치부 즉시식립+즉시 임시보철; CBCT 식립당일·4개월; 임상 파라미터 4·12개월; NCT05944419).
+
+MBL, 탐침깊이 (Probing Depth, PD), 탐침 시 출혈 (Bleeding on Probing, BoP), 치조정 폭, 협측골폭 (Buccal Bone Width, BBW), 연조직 두께 (Soft Tissue Thickness, STT) 모두 군 간 유의한 차이 없음; 양군 12개월 생존율 88.9% 동등.
+
+동등성 검정을 위한 통계적 파워가 없어 작은 차이는 배제 불가 — 넥 디자인 우열 확인을 위한 적정 표본 비열등성 연구 필요.
 
 ## Summary
 

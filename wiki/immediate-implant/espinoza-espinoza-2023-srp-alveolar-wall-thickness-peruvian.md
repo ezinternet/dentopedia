@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective cross-sectional CBCT study in a Peruvian population relating Kan-class sagittal root position (SRP) to facial and palatal alveolar wall thickness (AWT) of maxillary anterior teeth; Class I dominant and facial AWT trends thin, adding a non-Caucasian dataset for immediate-implant treatment planning.
+## Three-line Summary
+Retrospective cross-sectional CBCT study in a Peruvian population (Pract Periodontics Aesthet Dent 2023) mapping the relationship between Kan-class sagittal root position (SRP) and facial/palatal alveolar wall thickness (AWT) in maxillary anterior teeth.
 
-## 한줄요약
-페루인 CBCT 후향 연구: SRP와 facial/palatal alveolar wall thickness(AWT)의 관계 — Kan-class별 AWT 분포 자료, 인구별 차이 강조.
+Kan Class I was dominant; facial AWT trended thin, consistent with other populations, adding a Latin American non-Caucasian reference dataset for pre-implant CBCT planning.
+
+Clinical implication: Peruvian population SRP and AWT distributions largely parallel other reported cohorts (Class I dominant, thin facial bone), supporting the need for CBCT-based assessment before immediate anterior implant placement regardless of ethnicity.
+
+## 세줄요약
+후향 단면 CBCT 연구 (페루 인구집단) — Kan 분류 시상 치근 위치 (Sagittal Root Position, SRP)와 상악 전치 협측/구개측 치조벽 두께 (Alveolar Wall Thickness, AWT) 관계 분석.
+
+Kan Class I 압도적 우세; 협측 AWT는 얇은 경향 — 타 인구집단 데이터와 유사, 라틴아메리카 비백인 참조 자료 추가.
+
+임상 적용: 페루인 SRP·AWT 분포가 기존 코호트와 유사해 즉시 전치부 식립 전 인종 불문 CBCT 기반 평가 필요성을 지지.
 
 ## Summary
 Retrospective CBCT study in a Peruvian population evaluating facial and palatal alveolar wall thickness in relation to Kan-class sagittal root position of maxillary anterior teeth.

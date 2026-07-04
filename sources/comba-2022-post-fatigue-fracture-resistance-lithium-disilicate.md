@@ -13,13 +13,21 @@ source_collection: external
 
 근관치료된 대구치(Endodontically-Treated Teeth, ETT) 수복 시 최소침습 준비(occlusal veneer/overlay) vs. 전통적 adhesive crown 간 피로 후 파절강도 차이를 직접 비교한 인비트로 연구. 기존 [[inlay/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue]]가 활성 치아의 리튬 디실리케이트 파절강도를 다루었으나, ETT에서 준비 형태(preparation design)와 재료(LS vs PICN) 두 변수를 교차 비교한 근거가 부재하여 ingest.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=84 ETT molars, 6 groups) comparing post-fatigue fracture resistance of lithium disilicate (LS) vs polymer-infiltrated ceramic network (PICN) restorations across three preparation designs (occlusal veneer 1.2 mm, overlay 1.6 mm, adhesive crown 2 mm): overlay was a valid alternative to adhesive crown; LS significantly outperformed PICN on static fracture load (p=0.0002).
+In-vitro 2×3 factorial study (n=84 endodontically-treated maxillary molars, 6 groups) comparing post-fatigue fracture resistance of lithium disilicate (LS; E-max CAD) vs polymer-infiltrated ceramic network (PICN; Vita Enamic) across three preparation depths (occlusal veneer 1.2 mm, overlay 1.6 mm, adhesive crown 2 mm) after 1,500,000-cycle chewing simulation at 50 N.
 
-## 한줄요약
+Overlay (1.6 mm) was not significantly different from adhesive crown in fracture resistance for either material; occlusal veneer was inferior to adhesive crown (p=0.042); LS significantly outperformed PICN on static fracture load across all preparations (p=0.0002, mean values: overlay LS 2059 N vs PICN 1727 N).
 
-인비트로 연구(n=84 근관치료 대구치, 6군): 리튬 디실리케이트 (Lithium Disilicate, LS)와 고분자 침윤 세라믹 네트워크 (Polymer-Infiltrated Ceramic Network, PICN) 3가지 수복 형태(교합면 비니어·오버레이·접착 크라운) 피로 후 파절강도 비교 — 오버레이가 접착 크라운의 유효 대안이며, LS가 PICN보다 정적 파절강도 유의하게 높음(p=0.0002).
+For endodontically-treated teeth with high structural loss, overlay is a valid minimally-invasive alternative to adhesive crown; occlusal veneers should be avoided; LS is preferred over PICN for static load resistance; results from an in-vitro maxillary-molar-only study do not directly translate to clinical durability.
+
+## 세줄요약
+
+인비트로 2×3 요인 설계 연구(n=84 상악 근관치료 대구치, 6군): 리튬 디실리케이트(LS; E-max CAD) vs 고분자 침윤 세라믹 네트워크(PICN; Vita Enamic)를 3가지 준비 깊이(교합면 비니어 1.2 mm·오버레이 1.6 mm·접착 크라운 2 mm)에서 150만 회 저작 시뮬레이션(50 N) 후 파절강도 비교.
+
+오버레이(1.6 mm)는 두 재료 모두 접착 크라운과 파절강도 차이 없음(유효 대안); 교합면 비니어는 접착 크라운보다 열등(p=0.042); LS가 모든 준비 형태에서 PICN보다 정적 파절강도 유의하게 높음(p=0.0002; 오버레이 LS 2059 N vs PICN 1727 N).
+
+구조 소실이 큰 근관치료 대구치에서 오버레이는 접착 크라운의 유효한 최소침습 대안; 교합면 비니어는 회피; LS가 PICN보다 정적 하중 내성 우수 — 상악 대구치 한정 인비트로 결과임을 주의.
 
 ## 1. Document Information
 

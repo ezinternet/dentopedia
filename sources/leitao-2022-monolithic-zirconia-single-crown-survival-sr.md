@@ -13,13 +13,23 @@ source_collection: external
 
 First SR+MA specifically focused on monolithic zirconia (MZ) single crowns with CAD/CAM — fills the gap left by Pjetursson 2018, which explicitly excluded MZ due to insufficient follow-up. Distinguishes MZ from veneered zirconia and provides pooled survival estimates for clinical decision-making. [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]]
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (n=594 patients, n=1,657 restorations): monolithic zirconia CAD/CAM single crowns show survival rates 91–100% with high heterogeneity (I²=93.74%); no correlation between SR and cementation type or follow-up duration.
 
-## 한줄요약
+SR+MA of 9 studies (n=594 patients, n=1,657 restorations): monolithic zirconia CAD/CAM single crowns show survival rates 91–100% with high heterogeneity (I²=93.74%);
 
-단일 모놀리식 지르코니아 CAD/CAM 크라운 SR+MA (9편, n=594명, n=1,657개): 생존율 91–100%로 임상적 가능성 확인, 이질성 높음(I²=93.74%); 장기 임상 데이터 부족.
+no correlation between SR and cementation type or follow-up duration.
+
+(incomplete)
+
+## 세줄요약
+
+
+단일 모놀리식 지르코니아 CAD/CAM 크라운 SR+MA (9편, n=594명, n=1,657개): 생존율 91–100%로 임상적 가능성 확인, 이질성 높음(I²=93.74%);
+
+장기 임상 데이터 부족.
+
+(incomplete)
 
 ## 1. Document Information
 

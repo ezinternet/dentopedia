@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Two retrospective cohorts (118 patients; 58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing of the exposed collagen membrane gave bone and soft-tissue outcomes equivalent to flap-released complete closure when initial crestal wound width was ≤6 mm, with less postoperative pain and swelling.
+Retrospective two-cohort study (118 patients; 58 complete closure [CC] vs 60 open healing [OH]) comparing wound-management strategies for collagen-membrane (Bio-Gide) coverage at immediate implant placement with simultaneous GBR.
 
-## 한줄요약
+Open healing of the exposed membrane gave equivalent vertical/horizontal CBCT bone change and full soft-tissue closure by 16 weeks when initial crestal wound width was ≤6 mm (W16 width 0.1 ± 0.4 mm); wounds ≥7 mm had 5/16 cover-screw exposures at W16, but final restorations were unaffected.
 
-즉시식립 + 동시 GBR(Bio-Gide) 두 후향적 코호트(118명; 완전봉합 58 vs 개방치유 60): 초기 치조정 창상폭 ≤6 mm일 때 노출된 콜라겐막 개방치유가 판막이완 완전봉합과 동등한 골·연조직 결과를 보였고 통증·부종은 더 적었다.
+Flap-release and tissue grafts for membrane coverage are unnecessary when crestal exposure is ≤6 mm, reducing morbidity — a clinically actionable threshold from a single-center retrospective study.
+
+## 세줄요약
+
+후향적 두 코호트 (118명; 완전봉합[CC] 58 vs 개방치유[OH] 60): 즉시식립+동시 골유도재생술(Guided Bone Regeneration, GBR) 시 Bio-Gide 콜라겐막 피개 방법 비교.
+
+개방치유군에서 초기 치조정 창상폭 ≤6 mm인 경우 16주에 완전 연조직 폐쇄(W16 폭 0.1 mm)와 CC군 대비 동등한 CBCT 골 변화; ≥7 mm에서는 5/16에서 덮개나사 노출 발생, 최종 보철에는 영향 없음.
+
+창상폭 ≤6 mm에서는 판막이완·결합조직이식 없이 개방치유로 동등한 결과 달성 가능 — 이환율 절감의 임상적 역치를 제시한 단일기관 후향 연구.
 
 ## Summary
 

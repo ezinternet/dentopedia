@@ -10,7 +10,7 @@ pdf_filename: slagter-2021-immediate-single-implant-provisionalization-5year.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 5년 prospective 비교 연구 (Groningen): 상악 심미부 단일 즉시식립 + 즉시임시치관 vs 즉시식립 + 지연임시치관 — 5년 MBL, BBT, PES, 환자만족도; 즉시임시치관 군 약간의 BBT 보존 우위.
 
 ## 1. Document Information

@@ -13,11 +13,21 @@ source_collection: external
 tags: [mronj, denosumab, osteoporosis, tooth-extraction, drug-holiday]
 ---
 
-## One-line Summary
-Retrospective cohort of 98 osteoporosis patients on denosumab who underwent extraction: MRONJ incidence 4.1%, no significant difference between denosumab-only vs BP+denosumab groups, rheumatoid arthritis was the only significant risk factor (OR 35.4), and MRONJ can arise from chronic periodontitis without extraction.
+## Three-line Summary
 
-## 한줄요약
-골다공증 환자 denosumab 투여 후 발치 98명 후향 코호트: MRONJ 발생률 4.1%, denosumab 단독 vs BP+denosumab 간 유의차 없음, 류마티스관절염이 유일한 유의 위험인자(OR 35.4), 발치 없이도 만성 치주염에서 MRONJ 발생 가능.
+Retrospective cohort (n=98 osteoporosis patients on Prolia 60 mg, Yonsei University Dental Hospital 2016–2020) undergoing tooth extraction, comparing denosumab-only vs BP-then-denosumab groups.
+
+MRONJ incidence was 4.1% (4/98), with no significant difference between the two groups; rheumatoid arthritis was the only independent risk factor (OR 35.4, 95% CI 1.34–932.5, p=0.033).
+
+Two of four MRONJ cases arose from progressive chronic periodontitis without extraction, confirming spontaneous MRONJ is possible in osteoporotic patients on denosumab.
+
+## 세줄요약
+
+후향 코호트(n=98, 골다공증 환자 Prolia 60 mg 투여 후 발치, 연세대 치과병원 2016–2020) — denosumab 단독군(n=52) vs BP→denosumab 전환군(n=46) 비교.
+
+MRONJ 발생률 4.1%(4/98), 두 군 간 유의차 없음; 류마티스관절염이 유일한 독립 위험인자(OR 35.4, 95% CI 1.34–932.5, p=0.033).
+
+4건 중 2건은 발치 없이 만성 치주염의 진행으로 발생 — 골다공증 용량 denosumab에서도 자발성 MRONJ가 가능함을 확인.
 
 ## Summary
 Retrospective cohort of 98 osteoporosis patients who received Prolia® (denosumab 60 mg SC q6mo) and underwent tooth extraction at Yonsei University Dental Hospital (2016–2020). MRONJ developed in 4 patients (4.1%). Group comparison (denosumab-only n=52 vs BP→denosumab n=46) showed no significant difference in MRONJ rate (3.8% vs 4.3%). Multivariate logistic regression identified rheumatoid arthritis as the only statistically significant predictor (OR 35.4, 95% CI 1.34–932.5, p=0.033). Notably, two of four MRONJ cases arose from progressive periodontal inflammation without extraction as the primary trigger, establishing that spontaneous MRONJ can occur in osteoporotic patients on denosumab.

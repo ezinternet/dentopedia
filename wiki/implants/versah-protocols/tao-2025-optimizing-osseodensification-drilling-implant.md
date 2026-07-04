@@ -18,13 +18,21 @@ relations:
     target: moghaddas-2025-osseodensification-standard-drilling-isq-itv
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (48 polyurethane foam blocks, 0.160 g/cm³ Type IV bone analog, CNC DMU machine): osseodensification drilling (OD, Densah) vs conventional drilling (CD, BLT tapered) — OD gave higher insertion/removal torque (IT 11.73 vs 7.77 N·m, RT 9.28 vs 6.65 N·m, both p<0.001) and fewer site-wall defects despite comparable ISQ (47.1 vs 46.7, NS); recommended OD parameters: 1500 rpm, 0.04 mm/z feed, with 4°C saline irrigation.
+In vitro CNC-controlled bench study (48 polyurethane foam blocks, 0.160 g/cm³ Type IV bone analog) comparing osseodensification (OD, Densah burs) vs conventional drilling (CD, BLT tapered) across varied spin speeds, feeds, and irrigation conditions.
 
-## 한줄요약
+OD yielded significantly higher insertion torque (11.73 vs 7.77 N·m, p<0.001) and removal torque (9.28 vs 6.65 N·m, p<0.001) with fewer osteotomy-wall defects and lower thermal load under irrigation; ISQ was statistically equivalent (47.1 vs 46.7, NS); recommended OD parameters: 1500 rpm, 0.04 mm/z feed, 4°C saline irrigation.
 
-In vitro 연구 (폴리우레탄 폼 블록 48개, 0.160 g/cm³ Type IV 골 모사, CNC DMU 장비): 골밀도화 드릴링 (Osseodensification Drilling, OD, Densah) vs 기존 드릴링 (Conventional Drilling, CD, BLT tapered) — OD가 식립·제거 토크를 더 높이고 (IT 11.73 vs 7.77 N·m, RT 9.28 vs 6.65 N·m, 모두 p<0.001) 골벽 결함이 적었으나 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 동등 (47.1 vs 46.7, NS); 권장 OD 파라미터는 1500 rpm, 0.04 mm/z, 4°C 식염수 관주.
+OD raises torque without improving ISQ in Type IV bone, confirming the IT–ISQ dissociation under controlled conditions; optimal parameters for OD in low-density bone are 1500 rpm with irrigation, filling the gap left by earlier OD descriptions.
+
+## 세줄요약
+
+In vitro CNC 제어 연구 (폴리우레탄 폼 블록 48개, 0.160 g/cm³ Type IV 골 유사): 골밀도화 (Osseodensification, OD, Densah bur) vs 기존 드릴링 (Conventional Drilling, CD, BLT tapered) — 회전속도·이송량·관주 조건 변화 비교.
+
+OD가 삽입 토크 (IT: 11.73 vs 7.77 N·m, p<0.001) 및 제거 토크 (RT: 9.28 vs 6.65 N·m, p<0.001) 유의하게 높고 골벽 결함 적으며 관주 시 열 발생 낮음; 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 동등 (47.1 vs 46.7, NS); 권장 OD 파라미터: 1500 rpm, 0.04 mm/z 이송, 4°C 식염수 관주.
+
+Type IV 골에서 OD는 ISQ 향상 없이 토크만 높임 — IT–ISQ 해리를 통제된 조건에서 재확인; 저밀도골 OD 권장 파라미터(1500 rpm + 관주)가 기존 기술 문헌의 공백을 처음 채움.
 
 ## Summary
 

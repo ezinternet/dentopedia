@@ -13,13 +13,21 @@ source_collection: external
 
 Direct SR+MA comparing BCP vs DBBM (Bio-Oss) for sinus floor elevation — answers which bone substitute yields superior histomorphometric outcomes in sinus augmentation, addressing a frequently debated question in implant planning. Adds evidence on an understudied synthetic graft alternative to the xenograft-dominated sinus lift literature. Related to and reinforces the framework of [[wiki/overviews/sinus-lift-lateral-2026-synthesis]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 RCTs (328 patients, 389 implants) finding BCP superior to DBBM for new bone formation (MD +3.48%) and soft tissue percentage, with lower residual graft material, though high heterogeneity limits conclusions.
+First SR+MA (10 RCTs, 328 patients, 389 implants, Cochrane ROB-2 appraisal, inception–May 2025) comparing biphasic calcium phosphate (BCP) vs. deproteinized bovine bone mineral (DBBM) for sinus floor elevation using histomorphometric outcomes.
 
-## 한줄요약
+BCP yielded significantly more new bone formation (MD +3.48%, p=0.01, I²=44%), less residual graft material (MD −8.41%, p<0.001, I²=86%), and more soft tissue (MD +6.01%, p<0.001, I²=72%) than DBBM.
 
-10개 RCT(328명, 389임플란트) SR+MA로 BCP가 DBBM 대비 신생골 형성률(MD +3.48%), 연조직 비율에서 우수하고 잔류 이식재가 적으나, 높은 이질성(I²=44–86%)으로 결론의 확실성이 제한된다.
+BCP produces superior histomorphometric outcomes than DBBM in sinus augmentation, consistent with its faster TCP resorption; however, high heterogeneity (I²=72–86%) for residual graft and soft tissue, and the absence of implant survival data, prevent firm clinical superiority claims.
+
+## 세줄요약
+
+첫 번째 SR+MA(10 RCT, 328명, 389임플란트, Cochrane ROB-2, 검색기간 ~ 2025.5): 상악동거상술에서 이상인산칼슘(BCP) vs 탈단백 우골(DBBM) 조직형태계측 결과 비교.
+
+BCP가 DBBM 대비 신생골 형성률(MD +3.48%, p=0.01, I²=44%), 잔류 이식재 감소(MD −8.41%, p<0.001, I²=86%), 연조직 비율 증가(MD +6.01%, p<0.001, I²=72%)에서 유의하게 우수.
+
+BCP는 TCP 성분의 빠른 흡수로 인해 조직형태계측상 우수하나, 잔류 이식재·연조직의 높은 이질성(I²=72–86%)과 임플란트 생존율 데이터 부재로 확실한 임상 우위 주장은 제한.
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: macias-hernandez-2022-home-based-exercise-tmj-osteoarthritis.txt
 
 TMD 물리치료(physiotherapy) 관련 아시아 저널(Journal of the Korean Association of Oral and Maxillofacial Surgeons) 논문을 PMC 풀텍스트로 확보하라는 요청에 따라 검색. 기존 [[tmj/kim-2023-treatment-tmj-osteoarthritis]]·[[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]]가 TMJ 골관절염(OA)의 진단·병태생리를 다루지만 물리치료 프로토콜의 구체적 효과 데이터가 없었고, 기존 [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]]·[[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]는 TMD 전반의 운동치료 SR이나 OA 아형에 특화되지 않음. 본 논문(Macías-Hernández 2022)은 임상+방사선 진단 기준을 모두 충족한 TMJ OA 환자만을 대상으로 6개월 가정 운동 프로그램의 통증·기능(Helkimo)·초음파 구조 변화를 정량화해 OA 아형 보존치료 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Single-group pre-post experimental study (n=15 patients, 26 TMJs with confirmed clinical+radiographic OA), Mexico; a 6-month home-based exercise program (thermotherapy, intra/extraoral massage, stretching, joint mobilization, strengthening) produced significant reductions in pain (VAS, p=0.001), improved Helkimo functionality index from severe to minimal dysfunction (p=0.001), and increased disc visibility/mouth-opening distance on ultrasound, with minimal NSAID use throughout follow-up.
+Single-group pre-post experimental study (n=15 patients, 26 TMJs, all female, median age 57y) with clinically and radiographically confirmed TMJ osteoarthritis (RDC/TMD Axis I Group IIIb), undergoing a 6-month home-based exercise program (thermotherapy, massage, stretching, mobilization, isometric strengthening) with weekly phone adherence checks.
 
-## 한줄요약
+Pain (VAS) and Helkimo dysfunction index improved significantly from baseline to 6 months (p=0.001); Helkimo score shifted from severe dysfunction (median 17) to minimal dysfunction (median 2); disc visualization on ultrasound increased from 38.5% to 57.7% of joints; rescue analgesic use remained minimal throughout.
 
-단일군 전후비교 연구(n=15명, 26개 관절, 임상+방사선 확진 TMJ 골관절염), 6개월 가정 운동 프로그램(온열·구강내외 마사지·스트레칭·관절가동·강화운동)으로 통증(VAS, p=0.001)·Helkimo 기능지수(중증→경증, p=0.001)가 유의 개선되고 초음파상 관절원판 관찰률·개구거리도 증가, NSAID 사용은 미미했다.
+No control group limits causal interpretation, the sample was small and entirely female, and ultrasound could not confirm cartilage-level structural change; nonetheless, the protocol is replicable and may serve as a low-risk conservative option before invasive TMJ OA interventions.
+
+## 세줄요약
+
+단일군 전후비교 연구(n=15명, 26개 관절, 전원 여성, 중앙연령 57세), 임상+방사선 확진 TMJ 골관절염(RDC/TMD Axis I Group IIIb) 환자를 대상으로 6개월 가정 운동 프로그램(온열·마사지·스트레칭·관절가동·등척성 강화) 시행.
+
+통증(VAS)과 Helkimo 기능지수가 6개월 시점에 유의하게 개선(p=0.001); Helkimo 점수 중증(17점)→경증(2점) 변화; 초음파상 관절원판 관찰률 38.5%→57.7% 증가; 구제 진통제 사용은 미미한 수준 유지.
+
+대조군 없는 단일군 설계로 인과 해석에 한계가 있고 표본이 소규모·전원 여성으로 일반화 제한; 그러나 프로토콜 재현성이 높아 침습적 TMJ OA 중재 전 저위험 보존 치료 옵션으로 활용 가능.
 
 ## 1. Document Information
 

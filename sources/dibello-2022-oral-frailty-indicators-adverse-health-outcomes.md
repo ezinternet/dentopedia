@@ -13,11 +13,21 @@ source_collection: external
 
 신설 geriatric-dentistry 카테고리의 핵심 개념 정의(oral frailty). 후속 유병률 SR([[geriatric-dentistry/li-2024-prevalence-oral-frailty-older-adults]], [[geriatric-dentistry/zhu-2024-prevalence-unfavourable-outcome-oral-frailty]])의 지표 토대.
 
-## One-line Summary
-SR (68 studies) - 11 oral-health indicators across 4 domains (oral status deterioration; oral motor decline; chewing/swallowing/saliva disorders; oral pain) link to 6 major adverse outcomes (mortality, physical frailty, disability, QoL, hospitalization, falls). Number of teeth most consistently associated.
+## Three-line Summary
 
-## 한줄요약
-SR(68편) - 4영역 11개 구강건강 지표(구강상태 악화·구강운동 저하·저작/연하/타액 장애·구강통증)가 6대 불량결과(사망·신체쇠약·기능장애·QoL·입원·낙상)와 연관; 잔존치아 수가 가장 일관되게 연관.
+Systematic review (68 studies, GeroScience 2022) mapping 11 oral-health indicators across 4 domains — oral status deterioration, oral motor decline, chewing/swallowing/saliva disorders, and oral pain — to 6 major adverse health outcomes in older adults (mortality, physical frailty, disability, quality of life, hospitalization, falls).
+
+Number of remaining teeth was the most consistently associated indicator, linking to all 6 adverse outcomes; chewing/swallowing disorders, oral motor decline, and oral pain each associated with subsets of outcomes.
+
+Oral frailty indicators — particularly tooth loss — are potentially reversible risk factors for adverse health outcomes in older age, underscoring the importance of preventive dental care in geriatric populations.
+
+## 세줄요약
+
+체계적 문헌고찰(68편, GeroScience 2022) — 4영역 11개 구강건강 지표(구강상태 악화·구강운동 저하·저작/연하/타액 장애·구강통증)와 노인의 6대 불량결과(사망·신체쇠약·기능장애·삶의 질·입원·낙상) 연관성 매핑.
+
+잔존치아 수가 6대 불량결과 모두와 가장 일관되게 연관; 저작/연하 장애·구강운동 저하·구강통증은 일부 결과와 연관.
+
+구강쇠약(oral frailty) 지표 — 특히 치아 소실 — 는 가역적 위험인자로, 노인 구강 예방 진료의 중요성을 지지.
 
 ## 1. Document Information
 GeroScience 2022;45(2):663-706 · Vittorio Dibello, Frank Lobbezoo, Madia Lozupone, Rodolfo Sardone, ... Francesco Panza · 2022 · DOI: 10.1007/s11357-022-00663-8. Study type: sr.

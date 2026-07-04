@@ -15,8 +15,21 @@ Osseodensification(OD) 임상 RCT — 1차·2차 안정성 모두에서 conventi
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary]]
 
-## One-line Summary
-Multicenter controlled clinical trial comparing osseodensification (OD) to conventional subtractive drilling (SD) for insertion torque and longitudinal ISQ across implant designs and jaw regions.
+## Three-line Summary
+
+Multicenter controlled clinical trial (56 patients, 150 implants; stratified by diameter, length, arch, and region) comparing osseodensification (OD) vs conventional subtractive drilling (SD) on insertion torque (IT) and ISQ at placement, 3 weeks, and 6 weeks.
+
+OD outperformed SD on IT across all pairwise comparisons except short implants; ISQ was significantly higher for OD at all timepoints and remained ≥68 (the suggested loading threshold) throughout the 6-week healing dip, while SD showed a dip below 68; short implants showed no OD–SD difference.
+
+OD elevates and sustains ISQ above the loading threshold during the early healing dip, supporting earlier loading protocols; however, short implants do not benefit from OD, and the 6-week follow-up provides no loaded-implant survival data.
+
+## 세줄요약
+
+다기관 대조 임상시험(56명, 임플란트 150개; 직경·길이·악궁·부위별 층화) — 골밀도화(Osseodensification, OD) vs 통상 삭제 천공(Subtractive Drilling, SD)의 삽입토크(IT) 및 식립~6주까지 ISQ 비교.
+
+단순 임플란트 제외 전 쌍대비교에서 OD가 SD보다 IT 우수; ISQ는 모든 시점에서 OD가 유의하게 높고 3주 healing dip 내내 ≥68(로딩 임계값) 유지, SD는 dip 기간 68 미만; 단순 임플란트에서는 OD–SD 차이 없음.
+
+OD는 초기 healing dip 동안 ISQ를 로딩 임계값 이상으로 유지시켜 조기 로딩을 지지하나, 단순 임플란트는 이점이 없고 6주 추적으로 임플란트 생존율 데이터가 없다는 한계가 있다.
 
 ## 1. Document Information
 - **Title:** Osseodensification effect on implants primary and secondary stability: Multicenter controlled clinical trial

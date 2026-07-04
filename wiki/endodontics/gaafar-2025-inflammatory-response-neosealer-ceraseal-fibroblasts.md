@@ -21,13 +21,21 @@ relations:
     target: kunam-2024-wettability-ahplus-ceraseal-guttaflow
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro MTT + qRT-PCR study (HGF-1 fibroblasts, 25–100% eluates, days 1/3/7) finding both premixed bioceramic sealers cause concentration- and time-dependent cytotoxicity and IL-6/IL-8/TNF-α upregulation, with NeoSEALER Flo slightly more cytotoxic/pro-inflammatory than CeraSeal, while AH Plus produced the highest cytokine levels.
+In-vitro study on human gingival fibroblasts (HGF-1 line, n=60 discs) comparing NeoSEALER Flo and CeraSeal bioceramic sealers against AH Plus using MTT cytotoxicity and qRT-PCR + ELISA cytokine (IL-6, IL-8, TNF-α) assays at 25–100% eluates over 1, 3, and 7 days.
 
-## 한줄요약
+Both bioceramics caused concentration- and time-dependent cytotoxicity; at 100% eluate NeoSEALER Flo reduced viability by 45% and CeraSeal by 35%; gene/protein cytokine output ranked: AH Plus > NeoSEALER Flo > CeraSeal at the 100% level (IL-6 190/150/130 pg/mL).
 
-인간 치은 섬유아세포(HGF) in-vitro 연구(MTT + qRT-PCR, 25–100% 용출액, 1/3/7일): 두 전혼합 바이오세라믹 실러 모두 농도·시간 의존적 세포독성과 IL-6/IL-8/TNF-α 상향을 보였고, NeoSEALER Flo가 CeraSeal보다 약간 더 독성·염증유발이 강했으며, 대조군 AH Plus 사이토카인 수치가 가장 높았다.
+CeraSeal showed the best biocompatibility profile among the three sealers in this fibroblast model, supporting its preference where minimal periapical tissue irritation is critical; all agents carry inherent cytotoxic/pro-inflammatory potential.
+
+## 세줄요약
+
+사람 치은 섬유아세포(HGF-1, 디스크 60개)에서 NeoSEALER Flo·CeraSeal·AH Plus를 25–100% 용출액으로 1/3/7일 동안 MTT·qRT-PCR·ELISA로 비교한 in-vitro 연구다.
+
+두 바이오세라믹 모두 농도·시간 의존적 세포독성을 보였으며, 100% 용출액에서 NeoSEALER Flo 생존율 45% 감소·CeraSeal 35% 감소; 사이토카인 단백질 수치는 AH Plus > NeoSEALER Flo > CeraSeal 순이었다(IL-6: 190/150/130 pg/mL).
+
+세 실러 중 CeraSeal이 섬유아세포 모델에서 가장 우수한 생체적합성을 나타냈으며, 치근단 조직 자극을 최소화해야 하는 상황에서의 임상적 선택 근거를 제공한다.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: kan-2003-immediate-placement-provisionalization-anterior.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Int J Oral Maxillofac Implants 2003;18(1):31-39: 35 patients, 35 HA-coated immediate implants + immediate provisionals, maxillary anterior, 1yr — 100% survival; MBL -0.26mm; midfacial recession -0.55mm; patients highly satisfied.
 
 ## 1. Key Results

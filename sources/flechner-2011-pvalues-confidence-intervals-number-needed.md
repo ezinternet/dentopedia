@@ -9,7 +9,7 @@ pdf_filename: flechner-2011-pvalues-confidence-intervals-number-needed.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Symposium tutorial (Indian J Urol 2011;27:532) using a single clinical chemoprevention scenario to teach the meaning and proper interpretation of p-values, 95% CIs, and NNT.
 
 ## 1. Document Information

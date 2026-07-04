@@ -27,11 +27,21 @@ tags: [CBCT, diagnostic-performance, sensitivity, specificity, endodontics, impl
 > - 정당화 원칙 ALADAIP: 2D로 충분하면 2D, 3D 필요 시 진단 질문에 답하는 최소 FOV·최대 복셀 선택, 촬영 전 임상 정당성 문서화.
 > - 결정 지도: routine follow-up·치근단 병소는 No(2D 충분), 2D로 불명확한 ERR·고난도 근관 계획·임플란트 술전은 Yes, 근관 결과 평가는 가급적 No.
 
-## One-line Summary
-Synthesis of 25 radiology papers: CBCT changes endodontic treatment plans in 24–56% of cases, achieves 78% sensitivity/79% specificity for root resorption, effective dose spans 2–200× panoramic equivalents — indication-specific FOV/voxel selection is the critical optimization lever.
+## Three-line Summary
 
-## 한줄요약
-방사선학 25편 종합: CBCT가 근관치료 계획을 24–56% 변경, 외흡수 민감도 78%·특이도 79%, 유효선량 파노라마 2–200배 — 적응증별 FOV·복셀 선택이 핵심 최적화 레버.
+Synthesis of 25 radiology papers: CBCT changes endodontic treatment plans in 24–56% of cases (Tay 2022 SR, 16 studies) primarily toward additional treatment, achieves 78.1% sensitivity/79.3% specificity for external root resorption (Baena 2022 SR+MA, 17 studies), and effective dose spans 2–200× panoramic equivalents depending on device and protocol.
+
+Indication-specific FOV/voxel selection is the critical optimization lever — endodontics requires small FOV + 0.076–0.2 mm voxels; implants/prosthetics require large FOV + 0.2–0.4 mm voxels (Fontenele 2025, 87 devices/34 manufacturers/11 countries); healing-rate interpretation is highly threshold-dependent (loose criteria 87% vs strict 36% at follow-up; Brochado-Martins 2025 SR+MA, 19 studies), so routine follow-up CBCT is not justified.
+
+Clinical takeaway: apply ALADAIP justification — use 2D when sufficient; for ERR/complex endodontic planning/implant pre-op, CBCT is justified; avoid CBCT for routine follow-up of periapical lesions; a 0.55T low-field MRI shows potential for pediatric cases (Willershausen 2025); lens scatter dose per scan (0.103–8.3 mSv) is below cataract threshold but cumulative occupational exposure warrants monitoring.
+
+## 세줄요약
+
+방사선학 25편 종합: 콘빔CT(CBCT)는 근관치료 계획을 24–56%에서 변경(주로 추가 처치 처방 방향; Tay 2022 SR, 16편), 외흡수(External Root Resorption, ERR) 민감도 78.1%·특이도 79.3%(Baena 2022 SR+MA, 17편), 유효선량 파노라마 2–200배(기기·프로토콜 의존).
+
+적응증별 촬영범위(Field of View, FOV)·복셀 선택이 핵심 최적화 레버 — 근관은 소FOV·0.076–0.2mm, 임플란트/보철은 대FOV·0.2–0.4mm(Fontenele 2025, 87기기·34제조사); 치유율은 기준에 따라 크게 달라짐(loose 87% vs strict 36%; Brochado-Martins 2025 SR+MA, 19편) — routine follow-up CBCT 불필요.
+
+임상 결론: ALADAIP 정당화 원칙 적용 — 2D로 충분하면 2D; ERR·고난도 근관 계획·임플란트 술전은 CBCT 정당; routine 치근단 병소 추적에는 가급적 CBCT 지양; 소아 방사선 우려 시 0.55T 저자장 MRI 잠재적 대안(Willershausen 2025); 안구 수정체 산란선량은 역치 미만이나 직업적 반복 노출 주의.
 
 ## Summary
 

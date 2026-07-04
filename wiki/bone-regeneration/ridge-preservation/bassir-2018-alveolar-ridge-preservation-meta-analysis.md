@@ -16,11 +16,21 @@ relations:
     target: mardas-2023-alveolar-ridge-preservation-overtreatment
 ---
 
-## One-line Summary
-SR+MA (21 studies): ARP reduces horizontal ridge resorption by a mean of 1.86 mm compared with extraction alone, with wound closure type, graft material, barrier membrane, growth factor use, and socket morphology all significantly influencing the magnitude of benefit.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (21편): 치조제 보존술(Alveolar Ridge Preservation, ARP)은 발치만 시행한 경우 대비 수평 골흡수를 평균 1.86 mm 감소시키며, 골 결손 형태·창상 폐쇄 방식·이식재·차폐막·성장인자 사용이 결과를 유의하게 좌우한다.
+SR+MA (21 controlled studies) comparing alveolar ridge preservation (ARP) vs. extraction alone in human patients, using random-effects meta-analysis across seven dimensional outcomes with prespecified subgroup analyses for five modifiable factors.
+
+ARP reduces horizontal ridge resorption by a mean of 1.86 mm (95% CI 1.44–2.28; p<.001); six of seven dimensional outcomes significantly favored ARP; socket morphology was the strongest modifier (p<.001), followed by graft material (p=.001) and barrier membrane use (p=.006).
+
+The 1.86 mm figure is a defensible clinical benchmark for ARP counseling, though the magnitude of benefit varies substantially by wound closure, grafting material, membrane, biologic adjunct, and buccal plate integrity.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (Systematic Review with Meta-Analysis, SR+MA, 21개 대조 연구): 치조제 보존술 (Alveolar Ridge Preservation, ARP) vs 발치 단독, 무작위 효과 모형, 7개 치수 결과 변수, 5개 사전 지정 하위군 분석.
+
+ARP가 수평 골흡수를 평균 1.86 mm (95% CI 1.44–2.28; p<.001) 감소; 7개 중 6개 치수 결과에서 ARP 우위; 소켓 형태가 가장 강한 조절 변수 (p<.001), 이식재 종류 (p=.001), 차폐막 사용 (p=.006) 순.
+
+1.86 mm 수치는 ARP 환자 상담의 임상 근거로 인용 가능 — 창상 폐쇄 방식·이식재·차폐막·생물학적 제제·협측판 완전성에 따라 실제 이득 크게 달라짐.
 
 ## Summary
 Bassir and colleagues conducted a systematic review with meta-analysis of 21 controlled studies that compared alveolar ridge preservation (ARP) procedures against extraction alone. Pooled across studies, ARP yielded a horizontal ridge dimensional advantage of **1.86 mm (95% CI 1.44 – 2.28; P < .001)** over unassisted socket healing. Six of seven dimensional outcome variables significantly favored ARP. Crucially, subgroup analyses showed that the magnitude of benefit is not uniform — it depends on **wound closure type, grafting material, barrier membrane, growth factor adjunct, and socket morphology**.

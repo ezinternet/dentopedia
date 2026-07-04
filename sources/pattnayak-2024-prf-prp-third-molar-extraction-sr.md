@@ -9,7 +9,7 @@ pdf_filename: pattnayak-2024-prf-prp-third-molar-extraction-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review of 6 studies comparing PRF vs. PRP after mandibular third molar extraction; both improve healing, but PRF shows advantages in soft tissue healing and bone density in 4/6 studies, with easier preparation and fully autologous nature.
 
 ## 1. Document Information

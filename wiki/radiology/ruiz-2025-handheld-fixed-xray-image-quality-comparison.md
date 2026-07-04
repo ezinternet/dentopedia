@@ -17,13 +17,21 @@ text_filename: ruiz-2025-handheld-fixed-xray-image-quality-comparison.txt
 tags: [handheld-xray, image-quality, cmos-sensor, intraoral-radiography]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro comparative study (acrylic block + aluminum step-wedge phantoms, 2 CMOS sensor systems, 6 exposures/condition, n=48 radiographs total) found handheld portable intraoral X-ray equipment produced significantly higher brightness and lower contrast than fixed intraoral X-ray equipment regardless of sensor (p<0.0001), sensor-dependent noise effects (p<0.05), and no significant uniformity difference (p>0.05).
+In-vitro comparative study (Eagle X-ray handheld vs Focus fixed intraoral unit, 2 CMOS sensor systems — Digora Toto and Snapshot, acrylic block + aluminum step-wedge phantoms, n=48 radiographs) objectively quantified image quality differences using ImageJ gray-value ROI analysis.
 
-## 한줄요약
+Handheld equipment produced significantly higher brightness and lower contrast than fixed equipment on both sensors (p<0.0001); noise effects were sensor-dependent (higher with Digora Toto, lower with Snapshot; both p<0.05); uniformity did not differ significantly (p>0.05).
 
-체외(in-vitro) 비교연구(아크릴 블록·알루미늄 스텝웨지 팬텀, CMOS 센서 2종, 조건당 6회 촬영, 총 48장)에서 휴대형(handheld) 구강내 X선 장비는 센서와 무관하게 고정형(fixed) 장비보다 밝기(brightness)가 유의하게 높고 대비(contrast)는 유의하게 낮았으며(p<0.0001), 노이즈(noise)는 센서에 따라 방향이 달랐고(p<0.05) 균일도(uniformity)는 유의한 차이가 없었다(p>0.05).
+These statistically significant gray-value differences are likely clinically imperceptible and consistent with prior literature showing handheld equipment does not compromise caries diagnosis, though diagnostic performance for other pathologies (root resorption, fractures, bone loss) remains understudied.
+
+## 세줄요약
+
+줄1: Eagle X-ray 휴대형 vs Focus 고정형 구내 X선 장비의 체외(in-vitro) 화질 비교 (CMOS 센서 2종, 팬텀 촬영, 총 48장, ImageJ 회색값 분석).
+
+줄2: 휴대형 장비는 센서 무관하게 밝기(brightness) 유의하게 높고 대비(contrast) 낮음(p<0.0001); 노이즈는 센서에 따라 방향 다름(p<0.05); 균일도는 유의한 차이 없음(p>0.05).
+
+줄3: 통계적으로 유의한 차이지만 임상적으로 지각 불가능할 가능성이 크며, 우식 진단 성능에는 영향 없다는 기존 문헌과 일치함.
 
 ## Summary
 

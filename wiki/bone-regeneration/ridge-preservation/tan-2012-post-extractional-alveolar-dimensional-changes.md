@@ -13,11 +13,21 @@ source_collection: external
 tags: [systematic-review, ridge-resorption, post-extraction, dimensional-change, EAO-consensus]
 ---
 
-## One-line Summary
-SR of 20 human studies (EAO 5th Consensus Workshop) quantifying post-extraction ridge changes after 6 months of spontaneous healing: horizontal resorption (−3.79 mm) dominates vertical (buccal −1.24 mm), with horizontal change of 29–63% vs vertical 11–22% — a widely cited baseline for alveolar ridge preservation (ARP) discussion.
+## Three-line Summary
 
-## 한줄요약
-20개 인간 연구를 종합한 SR로, 발치 6개월 후 자연치유 시 수평적 흡수(−3.79 mm)가 수직적 흡수(buccal −1.24 mm)를 압도하며 수평 변화율 29~63%, 수직 변화율 11~22%로 정량화 — Van der Weijden 2009와 더불어 ARP 논의의 베이스라인 수치를 제공.
+Systematic review (EAO 5th Consensus Workshop, 20 human RCTs/prospective cohorts) using weighted means to quantify time-dependent post-extraction alveolar hard and soft tissue dimensional changes without preservation intervention.
+
+At 6 months, horizontal width loss was −3.79 mm (29–63% of baseline), while vertical buccal loss was −1.24 mm (11–22%) — horizontal resorption exceeds vertical approximately 3-fold, with the buccal plate carrying the largest share; soft-tissue contour gained 0.4–0.5 mm thickness by 6 months.
+
+This is the companion EAO reference to Van der Weijden 2009, widely cited as the no-intervention baseline for ARP, immediate implant, and implant timing decision-making; site-specific magnitudes were later refined by tooth type in Couso-Queiruga 2021.
+
+## 세줄요약
+
+체계적 문헌고찰 (유럽치주학회 (European Association for Osseointegration, EAO) 5차 합의 워크숍, 인체 RCT/전향 코호트 20편): 가중평균으로 보존 처치 없는 발치 후 경·연조직 치수 변화를 시점별로 정량화.
+
+6개월 시점 수평 폭 −3.79 mm (29–63%), 수직 협측 −1.24 mm (11–22%) — 수평 흡수가 수직 흡수의 약 3배; 협측골이 흡수 주도; 연조직 두께는 6개월에 0.4–0.5 mm 증가.
+
+Van der Weijden 2009와 함께 ARP·즉시 임플란트·식립 타이밍 결정의 대조 baseline으로 광범위 인용; 치종별 세분화는 Couso-Queiruga 2021 SR+MA에서 보완되었다.
 
 ## Summary
 EAO 5th Consensus Workshop 부속 SR로, 자연 치유 인간 발치와의 hard·soft tissue 변화량을 시간별로 정량화. 20편의 RCT/전향코호트를 weighted mean으로 통합. **Horizontal 변화가 vertical보다 약 3배 큰 것**이 핵심 메시지이며, 이는 buccal bundle bone 흡수로 설명되는 Araújo 2005의 동물 결과를 인간에서 확인. ARP 효과를 평가할 때 비교 baseline으로 광범위 인용된다.

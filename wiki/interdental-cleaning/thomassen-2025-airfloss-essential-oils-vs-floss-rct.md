@@ -20,13 +20,21 @@ relations:
     target: tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Examiner-blind parallel RCT (n=82 healthy adults, ≥25% lower-jaw BOMP, no periodontitis; 3-wk experimental gingivitis then 4-wk reversal): AirFloss Ultra + essential oils (AFeo) vs waxed dental floss (DF), both adjunct to twice-daily fluoride toothbrushing — both significantly reduced BOMP, plaque (MPI) and gingival abrasion (GAS), but NO between-group difference at any time point (p>0.05); no serious adverse events. AFeo and waxed floss are clinically equivalent and both safe.
+Examiner-blind parallel RCT (n=82 systemically healthy young adults, ACTA Amsterdam; reversal-of-experimental-gingivitis model: 21-day no-lower-jaw plaque control then 4-week healing) comparing Philips AirFloss Ultra + Listerine Cool Mint (AFeo, n=41) vs waxed dental floss (DF, n=41) as once-daily adjuncts to twice-daily manual toothbrushing.
 
-## 한줄요약
+Both devices significantly reduced gingival bleeding (BOMP), plaque (MPI), and gingival abrasion (GAS) within groups (all p<0.01), but showed NO between-group difference at any time point (BOMP p=0.72, MPI p=0.26, GAS p=0.80 at week 4); six minor adverse events occurred, all in the floss arm.
 
-검사자 맹검 평행 RCT (n=82, 건강 성인, 하악 BOMP ≥25%, 치주염 없음; 3주 실험적 치은염 유도 후 4주 회복): 정유 함유 에어플로스(AFeo) vs 왁스 치실(DF), 둘 다 1일 2회 불소 칫솔질 보조 — 두 군 모두 치은출혈(BOMP)·치면세균막(MPI)·치은마모(GAS) 유의 감소했으나 어느 시점에서도 군간 유의차 없음(p>0.05), 중대 이상반응 없음. AFeo와 왁스 치실은 임상적으로 동등하며 둘 다 안전.
+AirFloss Ultra + essential oils is clinically equivalent to waxed floss — device selection should be based on patient compliance, dexterity, and cost; because AFeo combines mechanical + chemical action vs DF's mechanical only, the essential-oil contribution cannot be isolated.
+
+## 세줄요약
+
+검사자 맹검 평행 RCT(n=82, 건강 성인, ACTA 암스테르담; 하악 21일 무구강위생 후 4주 회복 모델): Philips AirFloss Ultra + Listerine Cool Mint (AFeo, n=41) vs 왁스 치실(DF, n=41)을 1일 1회 칫솔질 보조로 비교.
+
+두 군 모두 치은출혈(Bleeding on Marginal Probing, BOMP)·치면세균막(MPI)·치은마모(GAS)를 군내 유의하게 감소(모두 p<0.01)했으나, 어느 시점에서도 군간 유의차 없음(BOMP p=0.72, MPI p=0.26, GAS p=0.80); 경미한 이상반응 6건 모두 치실군에서만 발생.
+
+AFeo와 왁스 치실은 임상적으로 동등하며, 기기 선택은 순응도·손재주·비용을 기준으로 해야 한다; AFeo가 기계적+에센셜오일 화학적 작용을 병합하여 에센셜오일의 기여를 분리할 수 없다.
 
 ## Summary
 

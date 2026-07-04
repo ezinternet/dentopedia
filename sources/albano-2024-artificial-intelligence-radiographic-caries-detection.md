@@ -17,13 +17,21 @@ text_filename: albano-2024-artificial-intelligence-radiographic-caries-detection
 
 Adds a QUADAS-2–graded systematic review restricted to **radiographic** caries detection (20 studies, PROSPERO CRD42023470708) that refines and independently contextualizes the pooled SR+MA of [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]] — it partitions performance by imaging modality (periapical/bitewing/OPG) and by algorithm family (ANN/CNN/DCNN), showing where the meta-analytic averages come from and how heterogeneous (and mostly small) the underlying datasets are. It also parallels the imaging-based radiolucent-lesion detection work in [[artificial-intelligence/sadr-2022-deep-learning-periapical-radiolucent-lesions]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/QUADAS-2, 20 studies, 6346 radiographs) of AI models for radiographic caries-lesion detection: sensitivity 0.44–0.86, specificity 0.85–0.98, accuracy 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92; CNNs dominate (70%) and most studies were low risk of bias, but datasets were small/heterogeneous so no meta-analysis was possible.
+Systematic review (PRISMA/QUADAS-2, 20 studies, 6346 radiographs) of AI models for radiographic caries-lesion detection across periapical, bitewing, and OPG modalities; CNN architectures dominated (≈70%); most studies showed low risk of bias.
 
-## 한줄요약
+Sensitivity ranged 0.44–0.86 (mean 0.75), specificity 0.85–0.98, accuracy 0.73–0.98, AUC 0.84–0.98, and F1 0.64–0.92; several models matched or exceeded experienced dentists in individual studies.
 
-방사선 우식 병소 검출용 AI 모델을 다룬 체계적 문헌고찰(PRISMA/QUADAS-2, 20편·영상 6346장): 민감도 0.44–0.86, 특이도 0.85–0.98, 정확도 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92로 대체로 우수했고 CNN이 70%를 차지·대부분 낮은 비뚤림 위험이었으나, 데이터셋이 작고 이질적이라 메타분석은 불가능했다.
+No meta-analysis was possible due to small, heterogeneous datasets; AI is positioned as an assistive tool to reduce workload rather than a replacement for clinical judgment.
+
+## 세줄요약
+
+PRISMA/QUADAS-2 체계적 문헌고찰(20편, 영상 6346장): 치근단·교익·파노라마 방사선사진에서 AI 우식 병소 검출 성능 합성; CNN 계열이 약 70% 차지, 대부분 낮은 비뚤림 위험.
+
+민감도 0.44–0.86(평균 0.75), 특이도 0.85–0.98, 정확도 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92; 일부 연구에서 AI가 숙련 치과의사와 동등하거나 우월한 성능 보고.
+
+데이터셋 소규모·이질적이어서 메타분석 불가; AI는 임상 판단의 대체가 아닌 업무량 감소·보조 도구로 제시됨.
 
 ## 1. Document Information
 

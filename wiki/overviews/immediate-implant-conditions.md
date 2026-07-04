@@ -25,12 +25,21 @@ source: synthesis
 > - 소켓실드 (Socket Shield): 협측골 −0.5mm 우위이나 실드 노출 합병증 5–17% — 증례보고 위주로 장기 예측성 불명확. 표준 프로토콜 (gap 충전+임시치관+연조직 이식)이 더 안전. [claude해석]
 > - 7대 임상원칙: CBCT 5항목 평가 → 3대 위험인자 확인 → gap ≥2mm 충전 → 즉시 임시치관 적극 → IT ≥35 Ncm 1차 기준 (ISQ 단독 금지) → 소켓실드 보류 → 환자에게 20–30% 퇴축 위험 사전 동의.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis matrix over 24 immediate-implant papers defining feasibility conditions, failure risk factors, and esthetic outcomes for Type-1 (immediate) implant placement. Core thesis: immediate placement is safe by survival (95–98%) but carries the highest esthetic risk, with three stacking risk factors — thin buccal wall (≤1 mm), buccal/mesial implant position, and thin biotype (Chen 2009 ITI consensus) — and unavoidable bundle-bone loss. Clinical takeaway: CBCT 5-point assessment, fill buccal gaps ≥2 mm, place an immediate non-functional provisional plus soft-tissue grafting for best esthetics, use insertion torque ≥35 Ncm (not ISQ alone, which is artifactually low in the socket) as the primary loading criterion, defer the socket-shield technique, and consent the patient to 20–30% recession risk.
+Synthesis of 24 immediate-implant papers (4 SR+MA, 2 SR, 4 RCT, 3 prospective, 6 narrative review, 1 consensus): Type-1 immediate implant placement is safe by survival (95–98%) but carries the highest esthetic risk; the three stacking risk factors are thin buccal wall (≤1 mm — 90% of anterior maxillary sites), buccal/mesial implant position, and thin biotype (Chen 2009 ITI consensus, 91 studies), with bundle-bone loss unavoidable regardless of placement timing (Araujo 2005; thin wall loses median 7.5 mm vs 1.1 mm for thick wall, Chappuis 2013).
 
-## 한줄요약
-Type-1 즉시식립은 생존율 95–98%로 안전하나 **심미 위험이 가장 높은 타이밍**; **위험인자 3가지 = 얇은 협측벽 (≤1mm) · 협측 근심 임플란트 위치 · 얇은 생체형** (Chen 2009 ITI consensus, 91 studies); **bundle bone 완전 소실은 불가피** → 협측 gap 이식 + 즉시 임시치관 + 연조직 이식 복합 적용 시 심미 결과 최선; ISQ는 발치와에서 인공적으로 낮으므로 IT ≥35 Ncm 1차 기준.
+The best esthetic protocol combines buccal gap filling ≥2 mm (Sanz 2017 RCT; horizontal resorption reduced), immediate non-functional provisional (favorable for mucosal contour and papillae), and soft-tissue grafting (hard+soft combined yields highest PES, Rondone 2024); primary stability decision uses insertion torque ≥35 Ncm as the first criterion (ISQ is artifactually low in fresh sockets: 57.6 vs 72.9 in healed bone), with immediate loading only when IT ≥35 Ncm AND ISQ ≥70 both met.
+
+Socket-shield technique shows ~0.5 mm buccal bone advantage but carries 5–17% shield-exposure complication with unclear long-term predictability — defer it; the standard gap-fill + provisional + soft-tissue graft protocol is safer, and patients must be consented to 20–30% recession risk.
+
+## 세줄요약
+
+24편(SR+MA 4·SR 2·RCT 4·전향 3·서술적고찰 6·합의 1) 종합: Type-1 즉시식립(Immediate Implant Placement, IIP)은 생존율 95–98%로 안전하나 심미 위험이 가장 높은 타이밍; 위험인자 3가지(얇은 협측벽 ≤1 mm·협측 근심 식립 위치·얇은 생체형; Chen 2009 ITI 합의, 91편)가 누적되고 다발골(bundle bone) 소실은 불가피(Araujo 2005; 박벽형 수직 소실 중앙값 7.5 mm vs 후벽형 1.1 mm, Chappuis 2013).
+
+최선 심미 프로토콜 = 협측 gap ≥2 mm 충전(Sanz 2017 RCT) + 즉시 비기능 임시치관(점막 윤곽 유리) + 연조직 이식(경+연 복합 시 분홍심미점수(Pink Esthetic Score, PES) 최고); 1차 안정성 기준은 삽입토크(Insertion Torque, IT) ≥35 N·cm 우선(발치와에서 ISQ 인공적 저하: 57.6 vs 치유골 72.9), 즉시부하는 IT ≥35 N·cm + 임플란트안정성지수(Implant Stability Quotient, ISQ) ≥70 양조건.
+
+소켓실드(socket-shield) 기법은 협측골 ~0.5 mm 이득이나 노출 합병증 5–17%·장기 예측성 불명 — 보류; 표준 gap 충전+임시치관+연조직 이식이 더 안전, 환자에게 20–30% 퇴축 위험 사전 동의 필요.
 
 ---
 

@@ -9,8 +9,21 @@ pdf_filename: canfora-2025-burning-mouth-syndrome-pathogenesis-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
-구강작열감증후군(BMS) 병인론 최신 업데이트 및 진단 알고리즘 제안: 신경병증 이론, 심리적 요인, 호르몬적 요인 통합 모델.
+## Three-line Summary
+
+Narrative review (Journal of Oral and Facial Pain and Headache 2025) synthesizing current evidence on burning mouth syndrome (BMS) pathogenesis — integrating peripheral/central neuropathy, small fiber neuropathy, hormonal (estrogen decline), and psychological factors — and proposing an updated diagnostic algorithm.
+
+Primary BMS is a multifactorial neuropathic disorder with no identifiable cause, while secondary BMS requires identification and correction of an underlying cause (anemia, candidiasis, GERD); ICD-11 criteria are incorporated into the proposed algorithm.
+
+The lack of a single causal explanation and treatment means BMS diagnosis requires systematic exclusion of secondary causes before labeling a case as primary, with management necessarily multidisciplinary.
+
+## 세줄요약
+
+서술적 고찰(J Oral Facial Pain Headache 2025): 구강작열감증후군(BMS, Burning Mouth Syndrome)의 말초·중추 신경병증, 소섬유신경병증(Small Fiber Neuropathy), 에스트로겐 감소, 심리적 고통의 통합 병인론과 ICD-11 기반 진단 알고리즘 제안.
+
+원발성(Primary) BMS는 원인 없이 진단하는 다요인 신경병증 질환; 속발성(Secondary) BMS는 빈혈·칸디다증·위식도역류(GERD) 등 기저 원인 교정이 선행되어야 한다.
+
+단일 원인론·치료법이 없어 BMS 진단은 이차성 원인의 체계적 배제 후 원발성으로 분류하며, 치료는 필연적으로 다학제적 접근이 필요하다.
 
 ## 1. Document Information
 - **Title**: Burning mouth syndrome: updates on pathogenesis and diagnostic algorithms

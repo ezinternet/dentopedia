@@ -16,13 +16,23 @@ text_filename: bidra-2019-should-healing-abutments-cover-screws.txt
 
 Anchor systematic review for the "healing-abutment (HA) reuse" controversy batch — establishes the evidence baseline (6 observational studies, no clinical trials, no reported adverse events, conclusion = avoid *indiscriminate* reuse) against which the in-vitro/RCT sibling papers are read. Reinforces the broader sterilization/disinfection evidence in [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] and pairs directly with the surface-decontamination SR [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 observational studies, >300 used healing abutments): routine mechanical/chemical/steam methods often do NOT fully remove contaminants, but NO clinical study and NO reported adverse consequence exists — so indiscriminate HA/cover-screw reuse should be avoided until more evidence.
+Systematic review (6 observational studies, >300 used healing abutments, PubMed + Cochrane) asking whether used healing abutments and cover screws can be effectively resterilized for reuse and whether any adverse consequences of reuse have been reported.
 
-## 한줄요약
+3 studies found routine mechanical/chemical/steam methods did NOT completely remove contaminants; 2 studies found supplemented protocols achieved adequate decontamination; 1 found routine methods sufficient; no clinical studies and no reported adverse consequences (infection, bone loss, mechanical complications) from reuse were identified.
 
-체계적 문헌고찰(관찰연구 6편, 사용된 힐링어버트먼트 300개 이상): 일반적인 기계·화학·증기 세척으로는 오염물이 완전히 제거되지 않는 경우가 많으나, 임상연구도 없고 보고된 부작용도 없어 — 근거가 더 쌓일 때까지 힐링어버트먼트/커버스크류의 무분별한 재사용은 피해야 한다.
+Evidence base is entirely observational and small; the biological/mechanical implication of residual contamination remains undetermined; indiscriminate reuse should be avoided until supporting clinical evidence is established.
+
+## 세줄요약
+
+체계적 문헌고찰(관찰 연구 6편, 사용된 힐링어버트먼트(Healing Abutment, HA) 300개 이상, PubMed+Cochrane) — 사용된 HA·커버스크류의 효과적 재멸균 가능 여부 및 재사용 부작용 보고 여부 질문.
+
+3편: 일반 기계·화학·증기 세척으로 오염물 완전 제거 불가; 2편: 추가 처리 병용 시 적절한 오염 제거 달성; 1편: 일반 방법으로 충분; 임상 연구 없음, 보고된 부작용(감염·골소실·기계적 합병증) 없음.
+
+근거 기반은 관찰 연구만으로 소규모; 잔류 오염물의 생물학적·기계적 의미는 미확정; 뒷받침하는 임상 근거가 쌓일 때까지 무분별한 재사용 지양.
+
+## 1. Document Information
 
 ## 1. Document Information
 

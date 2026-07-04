@@ -13,13 +13,21 @@ source_collection: external
 tags: [denture-adhesive, complete-denture, retention, masticatory-performance, bite-force, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 39 RCTs/CCTs showing denture adhesives significantly improve complete denture retention (SMD 1.34), bite force (SMD 0.98), and masticatory performance (SMD 0.72).
+SR+MA of 39 RCTs/CCTs (Medline/Embase/CENTRAL, search to March 2020) evaluating denture adhesives specifically for complete dentures across retention, bite force, and masticatory performance outcomes.
 
-## 한줄요약
+Denture adhesives significantly improved all three outcomes: retention (SMD 1.34, 95% CI 0.89–1.79), maximum bite force (SMD 0.98), and masticatory performance (SMD 0.72), with substantial heterogeneity attributed to DA type, ridge condition, and measurement differences.
 
-39개 RCT/CCT 메타분석: 의치접착제는 완전의치 유지력(SMD 1.34), 최대교합력(SMD 0.98), 저작기능(SMD 0.72)을 유의하게 향상시킴.
+Denture adhesives are a viable conservative option for patients with declining retention — particularly those with xerostomia, compromised anatomy, or frailty — though patient-reported OHRQoL and microbiome effects remain inconclusive.
+
+## 세줄요약
+
+39개 RCT/CCT SR+MA (2020년 3월까지 검색) — 의치접착제(DA)가 완전의치 유지력·최대교합력·저작기능에 미치는 효과를 평가.
+
+세 지표 모두 유의하게 향상: 유지력 SMD 1.34(95% CI 0.89–1.79), 최대교합력 SMD 0.98, 저작기능 SMD 0.72. 다만 이질성이 커 접착제 종류·치조제 상태·측정법 차이 때문으로 해석됨.
+
+구강건조증·해부학적 불량·허약 환자 등 유지력 저하 완전의치 착용자에게 보존적 선택지로 권장; OHRQoL 및 구강 미생물 지표는 결론 불명확.
 
 ## Summary
 

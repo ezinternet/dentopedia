@@ -9,7 +9,7 @@ pdf_filename: negreiros-2017-cleaning-primer-zirconia-bond-water.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Eur J Dent 2017;11:6-11: Ivoclean + Monobond Plus combination → highest BS for Katana zirconia at 24h; all groups lost ~50% bond strength after 1 year water storage.
 
 ## 1. Document Information

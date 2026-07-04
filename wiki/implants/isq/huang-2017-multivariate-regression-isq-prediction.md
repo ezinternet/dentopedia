@@ -16,13 +16,21 @@ relations:
     target: huang-2020-isq-clinical-significance-literature-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective multivariate regression of 557 implants (3 groups, 2 surgeons, 2 brands) showed bone grafting (T1 coefficient −4 to −5) and implant diameter (T2 coefficient +3.4 to +4.2) are the only surgeon- and system-independent general ISQ predictors.
+Retrospective multivariate linear regression (557 implants, 336 patients, 3 groups across 2 clinics, 2 surgeons, 2 brands — SICace and Osstem TSIII) analyzing 11 clinical factors at T1 (placement) and T2 (pre-restoration).
 
-## 한줄요약
+Bone grafting was the only general T1 ISQ predictor (coefficient −4 to −5 across all groups); implant diameter was the only general T2 ISQ predictor (coefficient +3.4 to +4.2); sex, age, bone type, and healing stage were not significant at T2 in any group.
 
-557개 임플란트 다변량 회귀분석에서 T1 ISQ의 일반 예측인자는 골이식 필요 여부(계수 −4~−5), T2 ISQ의 일반 예측인자는 임플란트 직경(계수 +3.4~+4.2)으로 확인되었으며, 성별·연령·골질·식립 단계는 T2에 유의하지 않았음.
+Implant length is not a significant ISQ predictor at any timepoint; most factors influencing ISQ are surgeon- or system-specific, meaning ISQ prediction must be contextualized per protocol rather than applied universally.
+
+## 세줄요약
+
+557개 임플란트(336명, 3그룹, 2클리닉, 2술자, 2브랜드 — SICace·Osstem TSIII)에서 11개 임상 인자를 T1(식립) 및 T2(보철 전)에서 다변량 선형회귀로 분석하였다.
+
+T1 ISQ의 일반 예측인자는 골이식 필요 여부만(계수 −4~−5); T2 ISQ의 일반 예측인자는 임플란트 직경만(계수 +3.4~+4.2); 성별·연령·골질·치유 단계는 어느 그룹에서도 T2 ISQ에 유의하지 않았다.
+
+임플란트 길이는 어느 시점에서도 유의한 ISQ 예측인자가 아니며, 대부분의 ISQ 영향 인자는 술자 또는 시스템 특이적이어서 보편적 ISQ 예측 공식보다 프로토콜별 맥락화가 필요하다.
 
 ## Summary
 

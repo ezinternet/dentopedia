@@ -17,13 +17,21 @@ text_filename: al-obaida-2019-comparison-perceived-pain-patients-satisfaction.tx
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=80) comparing computer-controlled Single Tooth Anesthesia (STA) system versus traditional local infiltration for maxillary posterior restorative treatment: no significant difference in perceived pain (p=0.59) or systolic BP (p=0.09) during the anesthetic injection itself, but STA patients reported significantly less pain during the restorative procedure (p<0.001) and had significantly better treatment experience and future preference (p=0.04), despite significantly higher heart rate throughout (already elevated at baseline).
+Parallel-arm RCT (n=80; 40 STA / 40 traditional infiltration; Riyadh) comparing computer-controlled Single Tooth Anesthesia (STA) intra-ligamentary delivery versus standard infiltration for maxillary posterior class I/II restorations.
 
-## 한줄요약
+No significant difference in injection pain (p=0.59) or systolic BP (p=0.09) during injection itself; STA produced significantly less pain during the restorative procedure (p=0.008 between groups) and significantly better post-procedure satisfaction and future preference (p=0.04 for both).
 
-RCT(n=80): 상악 구치부 수복치료에서 컴퓨터 제어 단일치아마취(Single Tooth Anesthesia, STA) 시스템과 전통적 침윤마취를 비교한 결과, 주사 시 통증(p=0.59)과 수축기혈압(p=0.09)은 유의차가 없었으나, 수복치료 중 STA군의 통증이 유의하게 낮았고(p<0.001) 치료 경험 만족도와 향후 재선호도도 STA가 유의하게 높았음(p=0.04). 다만 STA군의 심박수는 기저치부터 이미 높았고 전 구간에서 유의하게 상승.
+STA's clinical benefit lies in intra-procedural comfort and patient satisfaction rather than injection-pain reduction; baseline HR imbalance limits cardiovascular interpretation.
+
+## 세줄요약
+
+평행 RCT(n=80; STA 40/침윤 40; 리야드): 상악 구치부 Class I/II 수복치료에서 컴퓨터 제어 단일치아마취(STA) vs 전통 침윤마취 비교.
+
+주사 중 통증(p=0.59)·수축기혈압(p=0.09) 유의차 없음; STA군이 수복 처치 중 통증 유의하게 낮음(군간 p=0.008); 치료 경험 만족도·향후 재선호도 STA 유의하게 우수(p=0.04).
+
+STA의 임상 이점은 주사 통증 감소가 아닌 처치 중 편안함·환자 만족도 향상; 기저치 심박수 불균형으로 심혈관 해석 제한.
 
 ## Summary
 

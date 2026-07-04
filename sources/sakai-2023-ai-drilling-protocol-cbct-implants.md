@@ -9,7 +9,7 @@ pdf_filename: sakai-2023-ai-drilling-protocol-cbct-implants.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Prosthodont Res 2023;67(3):360-365 (Osaka U): LeNet-5 AI model on CBCT images predicts drilling protocol A/B/C — overall accuracy 93.8%; AUC 98.6–99.4%; potential decision-support tool for primary stability planning.
 
 ## 1. Key Results

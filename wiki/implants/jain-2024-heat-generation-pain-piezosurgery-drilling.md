@@ -13,11 +13,21 @@ source_collection: external
 tags: [piezosurgery, conventional-drilling, heat-generation, postoperative-pain, VAS, systematic-review]
 ---
 
-## One-line Summary
-Systematic review (9 studies from 2,279 hits; RCT/non-RCT/in vitro, appraised with RoB 2.0/ROBINS-I/QUIN): piezosurgery significantly reduces postoperative pain (VAS) versus conventional rotary drilling but generates higher intraoperative bone temperature — a clear pain-vs-heat trade-off for implant osteotomy.
+## Three-line Summary
 
-## 한줄요약
-SR(Cureus 2024, 9편 from 2,279 hits): 피에조서저리는 술후 통증 유의 감소시키지만 — 술중 골내 온도는 회전 drilling보다 더 높음 → 명확한 pain-vs-heat trade-off.
+Systematic review (9 studies from 2,279 hits; RCT, non-RCT, and in vitro designs; bias appraised with RoB 2.0/ROBINS-I/QUIN): piezosurgery vs conventional rotary drilling for implant osteotomy in terms of heat generation and postoperative pain.
+
+Piezosurgery significantly reduced postoperative pain (VAS); however, it generated higher intraosseous temperature during the osteotomy — a clear pain-vs-heat trade-off.
+
+First SR to explicitly frame this trade-off with appropriate bias tool stratification; practical implication: piezo favored when patient comfort is the priority and thermal protocol (cold saline, controlled load) can be followed; conventional drilling preferred in dense bone or high thermal-load situations.
+
+## 세줄요약
+
+SR (Cureus 2024, 2,279건 → 9편; RCT·비무작위·in vitro 혼합; RoB 2.0/ROBINS-I/QUIN 비뚤림 평가): 임플란트 골삭제에서 피에조서저리 vs 회전 drilling의 발열 및 술후 통증 비교.
+
+피에조서저리 → 술후 통증(VAS) 유의하게 감소; 그러나 술 중 골내 온도는 회전 drilling보다 더 높음 → 명확한 통증-발열 상충관계(pain-vs-heat trade-off).
+
+통증-발열 trade-off를 명시적으로 분석한 최초 SR; 술후 편안함이 우선이고 thermal protocol 준수 가능 → 피에조 고려; D1 치밀골·깊은 피질골 drilling 등 발열 부하 큰 상황 → 회전 drill이 더 안전할 수 있음.
 
 ## Summary
 Nine studies (RCT/non-RCT/in vitro) appraised under RoB 2.0, ROBINS-I, and QUIN tools were synthesized. The consistent signal: piezosurgery significantly reduces postoperative pain (typically VAS), but generates higher intraoperative bone temperatures during osteotomy compared with conventional rotary drilling. This trade-off — patient comfort post-op vs. thermal risk intra-op — is the central clinical finding.

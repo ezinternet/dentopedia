@@ -13,13 +13,21 @@ source_collection: external
 
 Adds a Mexican (Latin American) population data point to the C-shaped canal prevalence map and uniquely co-reports radix entomolaris prevalence in the same mandibular-molar cohort, extending the morphology framework anchored by [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]]. Its female-predominance and C2-dominant findings reinforce the pattern seen in the sibling Iraqi/Iranian prevalence pages ([[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]]).
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (2173 mandibular molars — 1057 first + 1116 second — from 724 Mexican CBCT scans): C-shaped canal prevalence 0.2% in first vs 14.1% in second mandibular molars; female predominance (27.3% vs 13.3%, p=0.004, OR 1.78); C2 most common type (39.3%); radix entomolaris in 3.4% of first and 1.4% of second molars.
+Retrospective CBCT cross-sectional study (724 CBCT scans, 2173 mandibular molars — 1057 first + 1116 second — Mexican population, Durango City, 2018–2023) reporting C-shaped canal and radix entomolaris prevalence with Fan classification.
 
-## 한줄요약
+C-shaped canal prevalence: 0.2% (first molars) vs 14.1% (second molars); female predominance (27.3% vs 13.3%, p=0.004, OR 1.78); C2 most common type (39.3%); radix entomolaris: 3.4% in first and 1.4% in second molars.
 
-CBCT 횡단 연구(멕시코 인구, CBCT 724건에서 하악대구치 2173개 — 제1대구치 1057·제2대구치 1116): C-shaped 근관 유병률 제1대구치 0.2% vs 제2대구치 14.1%, 여성 우세(27.3% vs 13.3%, p=0.004, OR 1.78); C2형이 가장 흔함(39.3%); radix entomolaris는 제1대구치 3.4%·제2대구치 1.4%.
+Second mandibular molar C-shaped canal prevalence in Mexico (~14%) is broadly consistent with global estimates and warrants pre-operative CBCT; single-city sample limits national representativeness.
+
+## 세줄요약
+
+후향적 CBCT 횡단 연구(CBCT 724건, 하악대구치 2173개 — 제1대구치 1057·제2대구치 1116 — 멕시코 두랑고, 2018–2023) — C-shaped 근관·radix entomolaris 유병률을 Fan 분류로 보고.
+
+C-shaped 근관 유병률: 제1대구치 0.2% vs 제2대구치 14.1%; 여성 우세(27.3% vs 13.3%, p=0.004, OR 1.78); C2형 가장 흔함(39.3%); radix entomolaris: 제1대구치 3.4%·제2대구치 1.4%.
+
+멕시코 하악 제2대구치 C-shaped 근관 ~14% — 전 세계 추정치와 유사, 근관치료 전 CBCT 필요; 단일 도시 표본으로 전국 대표성 한계.
 
 ## 1. Document Information
 

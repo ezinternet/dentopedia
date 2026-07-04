@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (9 Macaca fascicularis, 48 implants, 3-month loading) demonstrating that immediate and delayed functional loading both produce significantly higher BIC and bone area within threads than submerged non-loading, with no significant difference between the two loading protocols.
+Animal histomorphometric study (9 Macaca fascicularis, 48 mandibular implants, 3-month loading) comparing unloaded submerged healing, delayed loading, and immediate functional loading.
 
-## 한줄요약
+Both loaded groups showed significantly higher BIC and bone area within threads than unloaded controls; immediate and delayed loading were statistically equivalent (no significant difference).
 
-마카크 원숭이 9마리, 48개 임플란트를 대상으로 한 조직형태계측 연구: 즉시 부하군과 지연 부하군 모두 무부하 대조군 대비 골-임플란트 접촉률(BIC) 및 나사산 내 골면적이 유의하게 높았으며, 두 부하군 간 차이는 없었음.
+Functional occlusal loading — not healing time alone — appears to drive interface bone quality, supporting the biological feasibility of immediate loading when primary stability is adequate.
+
+## 세줄요약
+
+원숭이 9마리(48개 임플란트)를 대상으로 무부하·지연부하·즉시부하를 비교한 조직형태계측 동물연구.
+
+지연부하·즉시부하 양군 모두 무부하 대조군 대비 골-임플란트 접촉률(Bone-to-Implant Contact, BIC) 및 나사산 내 골면적이 유의하게 높았으며, 두 부하군 간 차이는 없었음.
+
+기능적 교합 부하 자체가 계면 골질의 핵심 결정인자 — 초기 안정성이 충분한 경우 즉시부하의 생물학적 타당성을 뒷받침.
 
 ## Summary
 

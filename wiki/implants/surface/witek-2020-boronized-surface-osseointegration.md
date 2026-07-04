@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (5 sheep, ovine ilium, 3 and 6 weeks) showed boronized CP-titanium implants produce significantly lower BIC and declining BAFO over time vs. acid-etched controls, indicating boronization inhibits rather than enhances osseointegration.
+Ovine iliac-crest animal study (5 sheep, 40 implants, 4 groups: boronized machined/acid-etched vs control machined/acid-etched, 3 and 6 weeks) testing whether boronization — a TiB/TiB2 diffusion layer — improves osseointegration.
 
-## 한줄요약
+Boronized implants showed declining BIC and BAFO from 3 to 6 weeks (BAA: 21.73% → 5.93% BIC, p<0.01) while both control groups increased significantly, with focal bone demineralization (osteoid) visible histologically adjacent to boronized surfaces.
 
-양 장골 동물 모델(n=5, 3·6주)에서 보론화 티타늄 임플란트의 BIC와 BAFO가 산부식 대조군보다 유의하게 낮고 시간 경과에 따라 감소하여, 보론화 표면처리가 골유착을 억제함을 확인하였다.
+Boronization inhibits rather than enhances osseointegration in vivo despite positive in-vitro osteogenic predictions; hypothesized mechanism is suprathreshold local boron release disrupting osteoblast/osteoclast precursors.
+
+## 세줄요약
+
+양 장골능 동물실험 (5마리, 임플란트 40개, 4군: 보론화 machined/acid-etched vs 대조 machined/acid-etched, 3·6주) — 보론화 (Boronization) TiB/TiB2 확산층이 골유착을 개선하는지 검증.
+
+보론화 임플란트에서 BIC와 골면적분율 (BAFO)이 3→6주에 감소(BAA: BIC 21.73%→5.93%, p<0.01), 양 대조군은 유의하게 증가; 조직학적으로 보론화 표면 인접부에 탈무기질 골 (Osteoid) 관찰.
+
+보론화 표면처리는 in vitro 골형성 예측과 달리 in vivo에서 골유착을 억제; 추정 기전은 TiB2 표면의 국소 보론 방출이 역치를 초과해 조골세포·파골세포 전구세포를 교란.
 
 ## Summary
 

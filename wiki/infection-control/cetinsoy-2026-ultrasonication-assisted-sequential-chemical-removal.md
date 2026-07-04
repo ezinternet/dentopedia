@@ -21,13 +21,21 @@ relations:
     target: naghsh-2024-comparison-four-decontamination-procedures-reusing
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study on 95 retrieved titanium healing abutments (2 brands): after enzymatic-detergent precleaning, ultrasonication in 1% sodium hypochlorite + autoclave removed 99.7% of mature biofilm (vs 54.4% for autoclave-only control), with SEM/EDX surface characteristics resembling unused abutments.
+In vitro comparison of 5 decontamination protocols on 95 clinically retrieved titanium healing abutments (2 brands, mature 4–6 week intraoral biofilm): all groups received enzymatic-detergent precleaning before group-specific treatment.
 
-## 한줄요약
+Ultrasonication in 1% NaOCl + autoclave achieved 99.7% biofilm removal (Brand1: 99.6%; Brand2: 99.9%), significantly superior to autoclave-only control (54.4%), with SEM/EDX surface morphology and elemental composition resembling unused abutments.
 
-환자에서 회수한 티타늄 healing abutment 95개(2개 브랜드) in vitro 연구: 효소세제(ED) 전세척 후 1% 차아염소산나트륨(NaOCl) 내 초음파 세척 + 오토클레이브가 성숙 biofilm을 99.7% 제거(오토클레이브 단독 54.4% 대비)했고, SEM/EDX상 표면이 미사용 abutment와 유사 — 최소 1회 재사용 사이클은 실현 가능함을 시사.
+The "no 100% virgin surface" conclusion from prior SRs holds, but the ED + US + 1% NaOCl + autoclave three-step protocol approaches unused-HA quality and is proposed as a viable, low-cost option for at least one reuse cycle when a new abutment is not feasible.
+
+## 세줄요약
+
+환자에서 회수한 티타늄 힐링어버트먼트(Healing Abutment, HA) 95개(2개 브랜드, 성숙 4–6주 구강 내 바이오필름) in vitro 비교 연구: 전 군에 효소세제(Enzymatic Detergent, ED) 전세척 후 군별 처리 시행.
+
+1% 차아염소산나트륨(NaOCl) 내 초음파(Ultrasonication, US) + 오토클레이브가 99.7% 바이오필름 제거(브랜드별 99.6%·99.9%), 오토클레이브 단독 대조군(54.4%)보다 유의하게 우수하며 SEM/EDX상 미사용 HA와 유사.
+
+기존 SR의 "100% 초기 표면 불가" 결론은 유지되나, ED+US+1% NaOCl+오토클레이브 3단계 프로토콜은 최소 1회 재사용 주기에 실현 가능한 저비용 대안으로 제안됨.
 
 ## Summary
 

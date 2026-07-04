@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Abfraction에 초점을 둔 임상 의사결정 review. [[nccl/grippo-2012-abfraction-abrasion-biocorrosion-nccl-20year]] schema를 임상 진단·치료 결정(특히 "수복하지 말고 monitoring")으로 번역. NCCL 보존적 관리 원칙의 근거.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review concluding abfraction theory is unproven, occlusal adjustment/restoration are not indicated to prevent progression, and asymptomatic lesions should be monitored >=6 months before any invasive procedure.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Abfraction 이론은 미입증이며 진행 예방 목적의 교합조정·수복은 적응증이 아니고, 무증상 병변은 침습적 처치 전 6개월 이상 monitoring하라고 결론지은 review.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical, Cosmetic and Investigational Dentistry 2016;8:79-87. DOI 10.2147/CCIDE.S63465. Open access (CC BY-NC v3.0).

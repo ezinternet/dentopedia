@@ -13,13 +13,23 @@ source_collection: external
 
 Denture stomatitis (의치성 구내염)는 총의치 착용자에서 흔한 구강점막 병소로, 치료 방법 선택이 임상적으로 중요하다. 본 SR+MA는 마이크로웨이브 소독이 항진균제(nystatin) 치료와 비교하여 동등한 효과를 보이는지 GRADE 근거 수준으로 평가한다. [[complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]]의 디지털 의치 청결도 관련 논의에 근거 보강으로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (3 RCTs) showing microwave disinfection of complete dentures is as effective as topical nystatin for reducing Candida counts and clinical signs of denture stomatitis, with low certainty of evidence (GRADE).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (3건 RCT): 총의치 마이크로웨이브 소독은 구강 항진균제(nystatin) 치료와 동등하게 칸디다 수 및 의치성 구내염 임상 소견을 감소시키며, GRADE 근거 확실성은 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

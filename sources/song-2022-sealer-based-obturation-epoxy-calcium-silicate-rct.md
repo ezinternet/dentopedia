@@ -17,13 +17,23 @@ text_filename: song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct.txt
 
 Seeds the wiki's first CeraSeal / bioceramic calcium-silicate-sealer cluster with a head-to-head RCT (CeraSeal and EndoSeal TCS vs AH Plus and ADseal) reporting void, sealer-extrusion, and postoperative-pain outcomes. Anchors the clinical (in-vivo) end of the bioceramic-sealer evidence ladder against in-vitro siblings, complementing [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] (3-year single-cone CeraSeal survival) and [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] (obturation technique vs post-obturation pain). Source: PubMed / PMC, DOI [10.3390/ma15155146](https://doi.org/10.3390/ma15155146).
 
-## One-line Summary
+## Three-line Summary
+
 
 RCT (80 enrolled, 71 analyzed teeth, 4 sealer arms n=20: AH Plus, ADseal, CeraSeal, EndoSeal TCS) found no significant difference between calcium-silicate-based and epoxy-resin-based sealers in void, sealer extrusion, or 3-month postoperative pain — filling-quality variation tracked product properties, not sealer class.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 RCT(등록 80개, 분석 71개 치아, 4개 실러군 각 n=20: AH Plus·ADseal·CeraSeal·EndoSeal TCS): 칼슘실리케이트 실러와 에폭시레진 실러 사이에 기포·실러 압출·3개월 술후통증의 유의한 차이가 없었고, 충전 품질 차이는 실러 종류가 아니라 제품 특성에 따랐다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

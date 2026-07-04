@@ -19,13 +19,21 @@ relations:
     target: hamad-2025-buffered-lidocaine-infiltration-extraction-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 4-arm RCT (n=28, 7/group), mandibular extraction IANB: chair-side 8.4% NaHCO3 buffering significantly sped onset of every milestone for both 2% lidocaine and 4% articaine (buffered articaine fastest — objective onset 84 s vs 181 s non-buffered lidocaine, p<0.001), but extraction VAS did not differ (χ²=4.107, p=0.250).
+Prospective 4-arm RCT (n=28, 7/group) of mandibular extraction IANB comparing all four combinations of buffering (chair-side 8.4% NaHCO₃) × drug (2% lidocaine vs 4% articaine with 1:100,000 adrenaline).
 
-## 한줄요약
+Buffering significantly shortened onset across all milestones for both drugs; buffered articaine was fastest (objective onset 84 s) vs non-buffered lidocaine (181 s, p<0.001); extraction VAS did not differ across groups (χ²=4.107, p=0.250).
 
-전향적 4-군 RCT (n=28, 군당 7명), 하악 발치 IANB: chair-side 8.4% 중탄산나트륨 buffering이 2% 리도카인·4% 아티카인 모두에서 마취 발현을 유의하게 단축(buffered articaine 최속 — 객관적 발현 84초 vs non-buffered lidocaine 181초, p<0.001), 단 발치 중 VAS는 차이 없음(χ²=4.107, p=0.250).
+Buffering accelerates onset but does not reduce intraoperative surgical pain — the benefit is "start sooner," not "hurt less during extraction"; small sample (n=7/arm) limits pairwise conclusion strength.
+
+## 세줄요약
+
+전향적 4-군 RCT (n=28, 군당 7명): 하악 발치 IANB — buffering(chair-side 8.4% NaHCO₃) × 약물(2% 리도카인 vs 4% 아티카인/1:100,000 아드레날린) 4가지 조합 동시 비교.
+
+Buffering이 두 약물 모두에서 모든 발현 시점을 유의하게 단축; buffered articaine 최속(객관적 발현 84초) vs non-buffered 리도카인(181초, p<0.001); 발치 중 VAS는 군간 차이 없음(χ²=4.107, p=0.250).
+
+Buffering은 발현 단축에 유효하나 술중 통증 감소 효과 없음 — "더 빨리 마취", "덜 아프게 수술"이 아님; 군당 n=7의 소표본으로 쌍별 비교 신뢰도 제한.
 
 ## Summary
 

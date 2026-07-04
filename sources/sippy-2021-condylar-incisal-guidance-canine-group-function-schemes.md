@@ -13,11 +13,21 @@ source_collection: external
 
 신설 occlusion 카테고리의 교합양식(견치유도 vs 군기능) 축. [[overviews/bruxism-muscle-overload-axis]]의 교합 설계 논의와 연결.
 
-## One-line Summary
+## Three-line Summary
+
 Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes, informing posterior disclusion design.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 과두유도·절치유도가 견치유도 vs 군기능 교합양식 내에서 어떻게 작용하는지 평가한 연구 — 구치 이개(disclusion) 설계에 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 J Indian Prosthodont Soc 2021;21:256 · Vinita Rajesh Sippy, Chethan Hegde, Ganaraj Shetty · 2021 · DOI: 10.4103/jips.jips_183_21. Study type: cross-sectional.

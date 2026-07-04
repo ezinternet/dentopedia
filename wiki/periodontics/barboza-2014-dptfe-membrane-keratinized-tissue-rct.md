@@ -13,11 +13,21 @@ source_collection: external
 tags: [keratinized-tissue, d-ptfe, membrane, soft-tissue-augmentation, open-healing, rct]
 ---
 
-## One-line Summary
-RCT showing an intentionally exposed (open-healing) nonexpanded d-PTFE membrane predictably increases keratinized-tissue (KT) width before implant placement — test +6.6 to 7.06 mm versus control +1.40 to 2.46 mm at 60 and 90 days — as a graft-free, low-morbidity alternative to soft-tissue grafting.
+## Three-line Summary
 
-## 한줄요약
-RCT: 의도적으로 노출시킨 비확장형 d-PTFE 막이 임플란트 식립 전 각화치은(KT) 폭을 예측가능하게 증가 — 시험군 +6.6~7.1 mm vs 대조군 +1.4~2.5 mm (60·90일).
+RCT of an intentionally exposed (open-healing) nonexpanded dense-PTFE (d-PTFE) membrane for keratinized-tissue (KT) augmentation before implant placement, comparing the membrane against a no-membrane control.
+
+At 60 and 90 days, the d-PTFE membrane group gained significantly more KT width (test: +7.06 ± 2.63 mm at 60 days, +6.6 ± 2.84 mm at 90 days) versus control (+2.46 ± 1.59 mm; +1.40 ± 1.40 mm).
+
+The d-PTFE membrane provides a graft-free, low-morbidity option for pre-implant KT augmentation, though long-term KT stability was not reported.
+
+## 세줄요약
+
+임플란트 식립 전 각화치은(Keratinized Tissue, KT) 증대를 목적으로 의도적으로 노출시킨 비확장형 밀도폴리테트라플루오로에틸렌(d-PTFE) 막과 대조군(막 없음)을 비교한 RCT.
+
+60일·90일 시점에서 d-PTFE 막 군이 대조군보다 KT 폭 유의 증가(시험군: 60일 +7.06 ± 2.63 mm, 90일 +6.6 ± 2.84 mm; 대조군: +2.46 ± 1.59, +1.40 ± 1.40 mm).
+
+d-PTFE 막은 이식 없이 저이환율로 KT를 증대할 수 있는 임플란트 전 처치 옵션이나, 장기적 KT 안정성은 보고되지 않았다.
 
 ## Summary
 Barrier membranes are usually framed as GBR tools, but this RCT shows an intentionally exposed nonexpanded d-PTFE membrane substantially increases the keratinized-tissue zone before implant placement — a low-morbidity alternative to soft-tissue grafting for KT.

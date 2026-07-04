@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Long-term retrospective study (n=551 pressed acid-etched lithium disilicate partial-coverage restorations: 246 inlays, 305 onlays; up to 10.9 years) reporting 95.6% 10-year cumulative survival and 0.3% annual failure rate, with onlays outperforming inlays (98.3% vs 93.9%), higher molar failure risk, and bulk fracture as the only failure mode (no debonding).
+## Three-line Summary
+Long-term retrospective private-practice study (n=551 IPS e.max Press inlays and onlays; 246 inlays, 305 onlays; up to 10.9-year follow-up; Kaplan-Meier with Cox regression) of pressed acid-etched lithium disilicate partial coverage restorations.
 
-## 한줄요약
-후향적연구(n=551, 최대 10.9년): 프레스 리튬디실리케이트 인레이/온레이 — 10년 생존율 95.6%; 연간실패율 0.3%; 인레이 93.9% vs 온레이 98.3%; 대구치 위험 높음; 파절이 유일 실패 양식
+10-year cumulative survival was 95.6% (annual failure rate 0.3%); onlays significantly outperformed inlays (98.3% vs 93.9%; p<0.05); molar location was a significant failure risk factor; all six failures were bulk fractures — no debonding was recorded.
+
+Pressed lithium disilicate demonstrates excellent long-term partial-coverage performance; onlay design is preferred over inlay for posterior teeth, especially molars, where fracture (not debonding) is the predominant failure mode.
+
+## 세줄요약
+후향적 개인치과 연구(n=551 IPS e.max Press 인레이/온레이; 인레이 246·온레이 305; 최대 10.9년; KM + Cox 회귀): 산식각 접착 프레스 리튬디실리케이트 부분피개 수복물.
+
+10년 누적 생존율 95.6%(연간실패율 0.3%); 온레이가 인레이보다 유의하게 우수(98.3% vs 93.9%; p<0.05); 대구치 위험 높음; 6건 전부 파절 실패 — 탈락 없음.
+
+프레스 리튬디실리케이트 부분피개 수복 장기 성적 우수; 구치부(특히 대구치)에서는 인레이보다 온레이 설계 선호 — 실패양식은 탈락이 아닌 파절.
 
 ## Summary
 Long-term retrospective study of pressed acid-etched lithium disilicate (IPS e.max Press) partial coverage restorations in private practice. 551 restorations (246 inlays, 305 onlays), up to 10.9-year follow-up. 10-year cumulative survival 95.6%, annual failure rate 0.3%. Onlays outperformed inlays (98.3% vs 93.9%). Only failure mode: bulk fracture; no debonding reported.

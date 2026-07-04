@@ -9,7 +9,7 @@ pdf_filename: kim-2026-proximal-contact-loss-implants-10years.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 JPIS 2026;56(1):31-38: Cross-sectional (n=142 implants, 101 patients, >10yr): PCL rate 53.7%; mesial 65.6% > distal 28.3%; molar position + poor periodontal status of adjacent tooth = significant risk factors.
 
 ## 1. Key Results

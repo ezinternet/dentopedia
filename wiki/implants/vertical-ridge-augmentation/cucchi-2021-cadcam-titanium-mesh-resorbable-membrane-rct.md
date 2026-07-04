@@ -18,13 +18,21 @@ relations:
     target: cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First RCT (n=30) on CAD/CAM Ti mesh ± cross-linked collagen membrane for GBR: healing complications 33% (mesh alone) vs 13% (mesh+membrane), regeneration rate 74.3% vs 82.3% — all numerically favor membrane, but noninferiority analysis inconclusive for both.
+First RCT (n=30 patients, maxilla and mandible, mostly posterior vertical defects) comparing CAD/CAM Ti mesh alone (Mesh−, n=15) vs CAD/CAM Ti mesh + cross-linked collagen membrane (Mesh+, n=15) for GBR; primary outcome was healing complications at 6-month re-entry.
 
-## 한줄요약
+Healing complications were 33.3% (Mesh−) vs 13.3% (Mesh+), p=0.39; exposure rate 26.7% vs 6.7%; regeneration rate 74.3% vs 82.3%, p=0.44; VBG 4.7 vs 6.4 mm, p=0.08 — all trends favor membrane addition but no outcome reached statistical significance.
 
-첫 RCT(n=30): CAD/CAM 맞춤형 Ti 메시 단독(합병증 33%, RR 74.3%) vs +가교화 콜라겐막(13%, 82.3%) — 막 추가군 수치상 우수, 비열등성·우월성 검정 모두 inconclusive(유의차 없음).
+The study was underpowered (n=15/group) and both noninferiority and superiority testing were inconclusive; the numerical signals — particularly halved complications and nearly doubled VBG trend — support treating membrane addition as the clinical default pending a larger trial.
+
+## 세줄요약
+
+첫 RCT(n=30명, 상·하악 주로 구치부 수직 결손): CAD/CAM Ti 메시 단독(Mesh−, n=15) vs Ti 메시+가교화 콜라겐막(Mesh+, n=15) 비교; 6개월 재진입 시 치유 합병증이 1차 결과.
+
+치유 합병증 33.3%(Mesh−) vs 13.3%(Mesh+), p=0.39; 노출률 26.7% vs 6.7%; 재생률 74.3% vs 82.3%, p=0.44; 수직 골증대(VBG) 4.7 vs 6.4 mm, p=0.08 — 모든 지표가 막 추가군에 유리하나 통계적 유의성 없음.
+
+연구는 표본 수 부족(그룹당 n=15)으로 비열등성·우월성 모두 inconclusive — 합병증 절반 감소와 VBG 경향을 고려해 막 추가를 임상 기본값으로 적용하는 것이 타당.
 
 ## Summary
 

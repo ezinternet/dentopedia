@@ -17,13 +17,21 @@ text_filename: dipalma-2026-elastodontic-vertical-skeletal-neuromuscular-balance
 
 This paper adds the **vertical + neuromuscular (sEMG) axis** to the elastodontic/AMCOP® myofunctional cluster: it is the first page we hold pairing digital cephalometry with standardized surface electromyography (Teethan®) to document open-bite closure *and* masticatory-muscle rebalancing in growing patients. It reinforces and extends the sibling airway-functional treatment page [[wiki/orthodontics/myofunctional/inchingolo-2025-elastodontic-pharyngeal-airway-functional-treatment]] (same AMCOP® platform, functional-treatment lens) by quantifying the neuromuscular outcome the airway page only implies, and complements the sagittal-focused evidence in [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]].
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-arm case series (n=9 cephalometric, n=6 sEMG subgroup; mean age 9.8 yr) of AMCOP® "OPEN" elastodontic therapy for anterior open bite: overbite rose 0.1→2.2 mm, SN-GoGn/PP-MP fell 2.8°±1.9°, and Teethan® neuromuscular efficiency (IMP) increased ~40% — but no control group, so findings are hypothesis-generating.
+Retrospective single-arm case series (n=9 cephalometric, n=6 sEMG subgroup; mean age 9.8 yr) of AMCOP® "OPEN" elastodontic therapy for anterior open bite in growing patients.
 
-## 한줄요약
+Overbite rose from 0.1 to 2.2 mm (open-bite closure), SN-GoGn/PP-MP fell 2.8°±1.9° (improved vertical control with mandibular counterclockwise rotation), and Teethan® neuromuscular efficiency (IMP) increased approximately 40% on subgroup surface EMG.
 
-성장기 전치부 개교합(anterior open bite) 환자에서 AMCOP® "OPEN" 탄성교정장치(elastodontic appliance) 치료의 후향적 단일군 증례군(cephalometric n=9, 표면근전도 n=6, 평균 9.8세): 수직피개(overbite)가 0.1→2.2 mm로 증가하고 SN-GoGn/PP-MP 각이 2.8°±1.9° 감소했으며, Teethan® 신경근 효율 지수(IMP)가 약 40% 상승 — 그러나 대조군이 없어 가설 생성 수준.
+No control group and small sample size limit causal inference; findings are hypothesis-generating but suggest elastodontic treatment may simultaneously correct vertical skeletal deficiency and rebalance masticatory neuromuscular function in growing patients.
+
+## 세줄요약
+
+성장기 전치부 개교합(anterior open bite) 환자에서 AMCOP® "OPEN" 탄성교정장치 치료의 후향적 단일군 증례군(두부계측 n=9, 표면근전도(sEMG) n=6, 평균 9.8세).
+
+수직피개(overbite)가 0.1→2.2 mm로 증가했고, 하악골 평면각(SN-GoGn/PP-MP)이 2.8°±1.9° 감소했으며(수직조절 개선, 반시계 회전), Teethan® 신경근 효율 지수(IMP)가 약 40% 상승.
+
+대조군 부재 및 소표본 크기로 인한 인과 추론 한계; 성장기 환자에서 탄성교정 치료가 수직골결손과 교근 신경근 불균형을 동시에 개선할 수 있음을 시사하는 가설생성 연구.
 
 ## 1. Document Information
 

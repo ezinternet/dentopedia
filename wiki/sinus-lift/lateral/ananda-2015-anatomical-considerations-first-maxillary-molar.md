@@ -13,11 +13,21 @@ source_collection: external
 tags: [cbct, maxillary-first-molar, sinus-floor, anatomy, east-asian]
 ---
 
-## One-line Summary
-Cross-sectional CBCT study (60 East Asian patients — 30 Malay, 30 Chinese) of maxillary first-molar extraction sockets: mean socket width 11.4 mm, length 7.7 mm, height ~6.5–6.9 mm, with the sinus floor extending anterior to the first molar in 95%, inter-radicular dipping in 72%, and root apices protruding into the sinus in ~50% — implants >7 mm risk sinus perforation without sinus lift or osseodensification (OD), making preoperative CBCT effectively mandatory.
+## Three-line Summary
 
-## 한줄요약
-횡단연구 (Cross-sectional, n=60 East Asian CBCT): 상악 제1대구치 발치와 (Extraction Socket)의 평균 골 높이 약 7 mm, 95%에서 상악동저가 제1대구치보다 전방으로 확장, 약 50%에서 치근첨이 상악동저로 돌출 — 7 mm 이상 임플란트는 추가 술식 (상악동거상술 (Sinus Lift, SL), 골밀도화 (Osseodensification, OD)) 없이 식립 시 상악동 천공 (Sinus Perforation) 위험.
+Cross-sectional CBCT study (n=60 East Asian patients — 30 Malay, 30 Chinese) quantifying maxillary first-molar extraction socket dimensions and sinus floor relationships to inform implant planning.
+
+Mean socket width 11.4 mm, length 7.7 mm, height ~6.5–6.9 mm; sinus floor extended anterior to the first molar in 95%, inter-radicular dipping in 72%, and root apices protruded into the sinus in ~50% of cases.
+
+Implants longer than 7 mm risk sinus perforation without sinus lift or osseodensification in this population — preoperative CBCT is effectively mandatory before maxillary first-molar implant placement in East Asian patients.
+
+## 세줄요약
+
+상악 제1대구치 발치와 치수와 상악동저(Maxillary Sinus Floor) 관계를 정량화한 단면 CBCT 연구(동아시아인 60명 — 말레이 30·중국계 30).
+
+평균 발치와 폭 11.4 mm·길이 7.7 mm·높이 ~6.5–6.9 mm; 95%에서 상악동저가 제1대구치보다 전방 확장; 72%에서 치근 간 함몰; ~50%에서 치근첨이 상악동 내 돌출.
+
+이 인구집단에서 7 mm 초과 임플란트는 상악동거상술(Sinus Lift, SL) 또는 골밀도화(Osseodensification, OD) 없이 천공 위험 — 상악 제1대구치 임플란트 전 CBCT 평가 사실상 필수.
 
 ## Summary
 Ananda 2015는 말레이시아 단일 센터에서 동아시아인 (말레이 30명, 중국계 30명) 60건의 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT)을 후향적으로 분석하여, 상악 제1대구치 발치와의 미세해부학적 특성과 상악동저 (Maxillary Sinus Floor)와의 관계를 정량화했다. 결과는 동아시아인의 상악 후방 임플란트 식립이 매우 짧은 가용 골 (Available Bone)에 의존하며, CBCT 기반 술전 분석이 필수적임을 보여준다.

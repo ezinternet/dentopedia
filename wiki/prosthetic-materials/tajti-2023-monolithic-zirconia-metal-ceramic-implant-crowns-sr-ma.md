@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of RCTs comparing monolithic zirconia vs metal-ceramic posterior implant-supported single crowns: equivalent survival (RR 1.0) and marginal bone loss (MD -0.05mm), with significantly fewer technical complications for monolithic zirconia (OR 0.31, mainly chipping).
+## Three-line Summary
 
-## 한줄요약
-구치부 임플란트 단관 단일층 지르코니아 vs 금속도재 SR+MA — 기술적 합병증 OR 0.31(지르코니아 우위).
+SR+MA of RCTs (PubMed/Embase/Cochrane) comparing monolithic zirconia (MZ) versus metal-ceramic (MC) for posterior implant-supported single crowns.
+
+Survival was equivalent (RR 1.0) and marginal bone loss was clinically identical (MD -0.05 mm); MZ had significantly fewer technical complications than MC (OR 0.31), driven mainly by the absence of veneering-ceramic chipping.
+
+Monolithic zirconia is a valid alternative to metal-ceramic for posterior implant single crowns, with the principal advantage being a 69% lower technical-complication risk.
+
+## 세줄요약
+
+SR+MA (PubMed/Embase/Cochrane RCT 포함): 구치부 임플란트 지지 단관에서 단일층 지르코니아(Monolithic Zirconia, MZ) vs 금속도재(Metal-Ceramic, MC) 비교.
+
+생존율 동등(RR 1.0), 변연골소실(Marginal Bone Loss, MBL) 임상적으로 동등(MD -0.05 mm); MZ가 MC 대비 기술적 합병증 유의하게 적음(OR 0.31) — 주로 베니어 세라믹 치핑(chipping) 부재에 기인.
+
+단일층 지르코니아는 구치부 임플란트 단관에서 금속도재의 유효한 대안으로, 주된 이점은 기술적 합병증 위험 69% 감소.
 
 ## Summary
 SR+MA of RCTs comparing monolithic zirconia vs metal-ceramic for posterior implant-supported single crowns.

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-RCT (n=60, 30 per arm) comparing primary vs secondary closure after impacted mandibular third molar removal; secondary closure gave significantly less pain and swelling and greater mouth opening (p<0.05), with no difference in periodontal healing at 6 months (alveolar osteitis in 1 secondary-closure patient, 3.3%).
+## Three-line Summary
 
-## 한줄요약
-하악 매복 사랑니 발치 후 1차 폐쇄 대 2차 폐쇄를 비교한 무작위배정 임상시험(n=60, 군당 30명). 2차 폐쇄군이 통증·부종이 유의하게 적고 개구량이 더 컸으며(p<0.05), 6개월 시점 치주 치유에는 차이가 없었다(건성발치와는 2차 폐쇄군 1명, 3.3%).
+RCT (n=60, 30 per arm) comparing primary (complete suturing) vs secondary (drainage window open) closure after impacted mandibular third molar removal, with pain, swelling, and trismus tracked over 1 week and periodontal healing near the adjacent second molar at 6 months.
+
+Secondary closure produced significantly less pain and swelling and greater mouth opening vs primary closure (p<0.05); periodontal healing was statistically identical at 6 months; alveolar osteitis occurred in 1 secondary-closure patient (3.3%).
+
+Leaving the socket partially open reduces early postoperative morbidity without compromising 6-month periodontal healing of the adjacent second molar, consistent across the wider suture/sutureless third-molar cluster.
+
+## 세줄요약
+
+하악 매복 사랑니 발치 후 1차 폐쇄(완전 봉합) 대 2차 폐쇄(배수창 개방)를 비교한 RCT(n=60, 군당 30명); 1주간 통증·부종·개구장애 및 6개월 치주 치유 추적.
+
+2차 폐쇄군이 통증·부종 유의하게 적고 개구량 더 컸으며(p<0.05), 6개월 치주 치유는 차이 없음; 건성발치와 1명(3.3%).
+
+소켓 일부 개방이 조기 이환율을 줄이면서 인접 제2대구치의 6개월 치주 치유에 영향 없음 — 봉합·무봉합 사랑니 발치 연구군의 공통 결론과 일치.
 
 ## Summary
 A randomized controlled trial of 60 patients undergoing impacted mandibular third molar removal, randomized to primary closure (Group A, complete suturing, n=30) or secondary closure (Group B, a drainage window left open, n=30). Pain, swelling, and trismus were tracked over the first postoperative week and periodontal healing near the adjacent second molar at 6 months. Secondary closure produced significantly less pain and swelling and greater mouth opening, while periodontal healing was statistically identical between groups — consistent with the broader cluster finding that closure technique drives early comfort but not periodontal outcomes.

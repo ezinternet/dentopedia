@@ -10,7 +10,7 @@ pdf_filename: sennerby-2008-implant-stability-resonance-frequency-analysis.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RFA(공진 주파수 분석)의 생물학적·생체역학적 원리 및 임상 적용을 종합 정리한 리뷰; ISQ 측정의 결정 인자(골질, 임플란트 설계, 유효 노출 길이), stability dip 현상, 즉시/조기 부하 프로토콜에서의 임상적 활용.
 
 ## 1. Document Information

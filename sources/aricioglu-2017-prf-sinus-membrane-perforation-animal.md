@@ -9,8 +9,21 @@ pdf_filename: aricioglu-2017-prf-sinus-membrane-perforation-animal.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Preclinical animal study (n=42 New Zealand rabbits; 84 maxillary sinuses): platelet-rich fibrin (PRF) membrane vs collagen membrane vs no treatment for 1 cm Schneiderian membrane perforations. Histology at 1, 2, 4 weeks: no statistically significant difference between PRF and collagen membrane in lymphocyte, fibroblast, vein, or collagen fibril counts. PRF concluded to be a viable alternative to collagen membrane.
+## Three-line Summary
+
+Preclinical animal study (42 New Zealand rabbits, 84 maxillary sinuses, split-mouth: 1 cm standardized Schneiderian membrane perforation repaired with collagen membrane, PRF membrane, or left untreated; histology at 1/2/4 weeks).
+
+No statistically significant difference between PRF and collagen membrane at any time point for lymphocyte, fibroblast, vein, or collagen fibril counts; both treated groups showed significantly better healing than untreated controls (p<0.05).
+
+PRF membrane is histologically equivalent to collagen membrane for sinus membrane perforation repair and can serve as an autologous, cost-free alternative; short follow-up (4 weeks) and absence of grafting material limit clinical translation.
+
+## 세줄요약
+
+전임상 동물 연구(뉴질랜드 토끼 42마리, 상악동 84개, 1 cm 슈나이더 막 천공에 콜라겐 막·PRF 막·무처치 비교; 1·2·4주 조직학).
+
+PRF 막 vs 콜라겐 막: 림프구·섬유아세포·혈관·콜라겐 섬유 수 모든 시점에서 유의차 없음; 두 처치군 모두 무처치 대조군보다 유의미한 치유 향상(p<0.05).
+
+PRF 막은 콜라겐 막과 조직학적으로 동등 — 자가유래, 비용 무료 대안으로 활용 가능; 4주 단기 관찰·이식재 부재는 임상 외삽 제한.
 
 ## 1. Document Information
 - **Journal**: Journal of Cranio-Maxillofacial Surgery 2017;45(8):1150–1157

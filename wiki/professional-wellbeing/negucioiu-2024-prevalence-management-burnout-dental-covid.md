@@ -14,11 +14,21 @@ source_collection: external
 tags: [burnout, COVID, dentist, management, occupational-health, workplace-dynamics]
 ---
 
-## One-line Summary
-PROSPERO-registered systematic review (narrative synthesis, Newcastle-Ottawa quality) of dental-professional burnout across the full pre-/intra-/post-COVID arc: high EE/DP/reduced-PA persist in all three phases (no return to baseline), pandemic stressors amplify impact, and workplace dynamics & professional relationships emerge as the leading modifiable factor — authors call for occupational-health (organizational) strategies over individual coping programs.
+## Three-line Summary
 
-## 한줄요약
-COVID 전·중·후 전 구간을 담은 첫 dentist 번아웃 SR — 모든 phase에서 EE/DP/PA 저하 확인, pandemic-related stress가 증폭 인자. 핵심 모디파이어블 레버는 **workplace dynamics & professional relationships**. 개인 코핑보다 occupational health strategy 권고.
+PROSPERO-registered systematic review (PRISMA, Newcastle-Ottawa quality, narrative synthesis; search Jan 2014–Apr 2024) — the first SR to bracket dental professional burnout across the full pre-/intra-/post-COVID arc.
+
+High emotional exhaustion, depersonalization, and reduced personal accomplishment persist across all three pandemic phases with no return to baseline; pandemic-era stressors (infection fear, financial pressure, PPE burden) amplified impact, and younger/early-career professionals appear more affected.
+
+Workplace dynamics and professional relationships emerge as the leading modifiable factor — authors explicitly recommend occupational-health (organizational) strategies over individual-level mindfulness programs.
+
+## 세줄요약
+
+PROSPERO 등록 SR (PRISMA, Newcastle-Ottawa; 검색 2014년 1월~2024년 4월): COVID 전·중·후 전 구간을 아우르는 치과 전문직 번아웃 첫 SR.
+
+모든 팬데믹 구간에서 정서적 소진(EE)·비인격화(DP)·개인 성취감 저하 지속 — 기저치로 회복 없음; 감염 공포·재정 압박·PPE 부담이 증폭 인자; 젊은/초기 경력자가 더 크게 영향.
+
+직장 역동성(Workplace Dynamics) 및 동료 관계가 핵심 수정 가능 레버 — 개인 마음챙김 프로그램보다 직업건강(Occupational Health) 조직 전략 권고.
 
 ## Summary
 Negucioiu et al. (PROSPERO-registered, Newcastle-Ottawa-quality-assessed) provide the first SR that brackets dentist burnout across the entire COVID arc: pre-pandemic, intra-pandemic, and post-pandemic. The pooled picture isn't a meta-analysis — they conducted narrative synthesis — but the directional finding is clear: high MBI subscale scores (EE, DP, reduced PA) persist across all three phases, with pandemic-era stressors amplifying impact.

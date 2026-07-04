@@ -15,13 +15,21 @@ full_text: false
 tags: [tilted-implant, axial-implant, edentulous, systematic-review, survival, marginal-bone-loss]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (42 studies, edentulous jaws): intentionally tilted implants show NO significant difference versus axial implants in survival, marginal bone loss, prosthesis survival, or patient-reported outcomes.
+Systematic review (5-database search, 811 records → 42 included studies; level I/II evidence only) comparing intentionally tilted versus axially positioned implants in edentulous patients on implant survival, marginal bone loss, prosthesis survival, and patient-reported outcomes.
 
-## 한줄요약
+No significant differences were found between tilted and axial implants across all four outcomes; however, only one level-II study directly compared the two head-to-head, and heterogeneity precluded meta-analysis — the equivalence conclusion rests predominantly on indirect evidence.
 
-체계적 문헌고찰 (42편, 무치악): 경사 임플란트(tilted implant)는 수직 임플란트(axial implant) 대비 생존율·변연골 소실·보철 생존·환자보고결과 모두 유의한 차이 없음.
+All tilted implants were inclined toward the distal aspect (not buccolingual), and the findings provide the systematic evidence basis for All-on-4 and similar full-arch implant concepts, with a recognized gap for direct head-to-head RCTs.
+
+## 세줄요약
+
+체계적 문헌고찰 (5개 데이터베이스, 811편 검색→42편 포함; 근거 수준 I·II만): 무치악 환자에서 의도적 경사 임플란트 (Tilted Implant) vs 축방향 임플란트 (Axial Implant) 비교.
+
+임플란트 생존율·변연골 소실·보철 생존율·환자보고결과 모두 유의한 차이 없음; 그러나 직접 head-to-head 비교는 수준 II 연구 단 1편으로 근거가 대부분 간접; 이질성으로 메타분석 불가.
+
+모든 경사 임플란트는 원심 방향 경사(협설 방향 아님) — All-on-4 등 전악 고정성 보철 개념의 체계적 근거로 활용; 직접 비교 RCT의 부재가 핵심 한계.
 
 ## Summary
 

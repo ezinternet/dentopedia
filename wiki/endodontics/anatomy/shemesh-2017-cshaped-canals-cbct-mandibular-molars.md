@@ -16,13 +16,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT study of 1020 Israeli patients (1465 second + 1229 first mandibular molars): C-shaped canal prevalence 4.6% (second molars) and 0.16% (first molars), with 55% unilateral occurrence and configuration changing along the root in 63% of cases.
+Cross-sectional CBCT study of 1,020 Israeli patients (1,465 second and 1,229 first mandibular molars), examining C-shaped canal prevalence, laterality, and along-root configuration change.
 
-## 한줄요약
+C-shaped prevalence was 4.6% in second molars and 0.16% in first molars; 55% of affected second-molar cases were unilateral, and canal configuration changed along the root in 63% of cases.
 
-이스라엘 환자 1020명 CBCT 연구(하악 제2대구치 1465·제1대구치 1229) — C-shaped canal 유병률 제2대구치 4.6%·제1대구치 0.16%, 55%는 편측성이고 63%에서 근관 형태가 치근을 따라 변함.
+The high along-root configuration variability means orifice-level anatomy cannot predict apical morphology, requiring continuous awareness of the radicular-groove danger zone during shaping.
+
+## 세줄요약
+
+이스라엘 환자 1,020명 대상 하악 제2대구치 1,465개·제1대구치 1,229개 단면 CBCT 연구; C-shaped 유병률·편측성·치근 방향 형태 변화 측정.
+
+C-shaped 유병률: 제2대구치 4.6%·제1대구치 0.16%; 55%는 편측성이며, 63%에서 치근을 따라 근관 형태가 변화.
+
+치근 방향 형태 가변성이 높아 근관 입구부 형태로 근단부를 예측할 수 없으므로, 성형 중 radicular groove 위험구역에 대한 지속적 주의가 필요.
 
 ## Summary
 

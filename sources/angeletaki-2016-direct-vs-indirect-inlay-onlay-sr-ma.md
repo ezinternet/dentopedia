@@ -9,8 +9,21 @@ pdf_filename: angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-구치부 직접 vs 간접 레진 인레이/온레이 SR+MA (RCT 3편, 82+157명): 5년·11년 모두 실패율 차이 없음, 1개 파라미터만 직접 인레이 소폭 유리.
+## Three-line Summary
+
+Systematic review and meta-analysis (3 RCTs: 2 inlay RCTs n=82, 1 onlay RCT n=157) comparing direct versus indirect composite inlay/onlay restorations in posterior teeth.
+
+No significant difference in failure rates at 5 years (RR 1.54, p=0.52) or 11 years (RR 0.95, p=0.92); only marginal discoloration at 11 years favored direct inlays (RR 0.41, p=0.04); onlay 5-year survival was 87%.
+
+Both direct and indirect techniques show comparable long-term clinical success; the limited number of RCTs (n=3) and high risk of bias limit the strength of conclusions.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석(RCT 3편: 인레이 RCT 2편 82명, 온레이 RCT 1편 157명): 구치부 직접법 대 간접법 복합레진 인레이/온레이 비교.
+
+5년 실패율(교차비 RR 1.54, p=0.52) 및 11년 실패율(RR 0.95, p=0.92) 모두 차이 없었으며, 11년 변연 착색(marginal discoloration)만 직접 인레이에서 소폭 유리(RR 0.41, p=0.04); 온레이 5년 생존율 87%.
+
+두 기술 모두 구치부 수복에서 유사한 장기 임상 성적을 보이나, 포함 RCT 수 제한(3편) 및 높은 비뚤림위험으로 결론의 강도는 제한적이다.
 
 ## 1. Document Information
 - **Title**: Direct versus indirect inlay/onlay composite restorations in posterior teeth. A systematic review and meta-analysis

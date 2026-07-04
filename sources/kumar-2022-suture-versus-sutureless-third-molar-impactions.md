@@ -13,11 +13,21 @@ source_collection: external
 
 Part of a focused collection on suture techniques and primary wound closure after impacted mandibular third molar surgery. This RCT pairs a small modified Szmyd V-shaped flap with the suture-vs-sutureless question, and reports a strong early-phase (24–48 h) pain/swelling/trismus advantage for sutureless — a more pronounced effect than the equivocal results of [[suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars]] and the trismus-only benefit in [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]].
 
-## One-line Summary
-RCT (n=50, 25 per arm) of suture vs sutureless closure with a small modified Szmyd V-flap after impacted mandibular third molar removal; sutureless significantly reduced early postoperative pain, swelling, and trismus (p<0.001), with no difference in periodontal sequelae or alveolar osteitis.
+## Three-line Summary
 
-## 한줄요약
-작은 변형 Szmyd V자형 판막을 사용한 하악 매복 사랑니 발치에서 봉합 대 무봉합을 비교한 무작위배정 임상시험(n=50, 군당 25명). 무봉합이 초기 통증·부종·개구장애를 유의하게 줄였고(p<0.001), 치주 후유증과 건성발치와(alveolar osteitis)에는 차이가 없었다.
+RCT (n=50, 25 per arm) of suture vs sutureless closure with a small modified Szmyd V-flap after impacted mandibular third molar removal;
+
+sutureless significantly reduced early postoperative pain, swelling, and trismus (p<0.001), with no difference in periodontal sequelae or alveolar osteitis.
+
+(incomplete)
+
+## 세줄요약
+
+작은 변형 Szmyd V자형 판막을 사용한 하악 매복 사랑니 발치에서 봉합 대 무봉합을 비교한 무작위배정 임상시험(n=50, 군당 25명).
+
+무봉합이 초기 통증·부종·개구장애를 유의하게 줄였고(p<0.001), 치주 후유증과 건성발치와(alveolar osteitis)에는 차이가 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Comparative Evaluation of Suture Versus Sutureless Surgery in Mandibular Third Molar Impactions

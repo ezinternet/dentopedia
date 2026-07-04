@@ -19,13 +19,22 @@ relations:
     target: esimekara-2022-dental-implants-autoimmune-diseases-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (32 articles; 50 PV + 123 MMP intraoral cases, all DIF-confirmed): the mouth is the primary involvement site in both (PV 71.4 %, MMP 91 %); cheek mucosa leads in PV (30 %) vs gingiva in MMP (64.2 %); DIF was IgG-positive in 100 % of both; systemic corticosteroids dominate PV (50 %) while topical therapy dominates MMP (53.7 %).
+Systematic review (32 articles, 50 DIF-confirmed PV cases + 123 DIF-confirmed MMP cases) comparing pemphigus vulgaris and mucous membrane pemphigoid across demographics, clinical presentation, diagnosis, and treatment in patients with intraoral manifestations.
 
-## 한줄요약
+The mouth is the primary involvement site in both conditions (PV 71.4%, MMP 91%); the key intraoral discriminator is buccal mucosa (PV, 30%) versus gingiva (MMP, 64.2%); DIF is IgG-positive in 100% of both; first-line treatment diverges — systemic corticosteroids for PV (50%) vs topical therapy for MMP (53.7%).
 
-체계적 문헌고찰 (32편; 직접면역형광 확진 PV 50례 + MMP 123례): 두 질환 모두 구강이 1차 호발 부위 (PV 71.4 %, MMP 91 %), PV는 협점막(30 %)·MMP는 치은(64.2 %)이 최다 구강 침범 부위, 직접면역형광(DIF) IgG 양성은 양쪽 100 %, 치료는 PV 전신 스테로이드(50 %)·MMP 국소요법(53.7 %)이 주를 이룸.
+As both diseases frequently present first in the mouth, any persistent vesiculo-erosive mucosal lesion warrants DIF biopsy; the study is limited by abstract-only retrieval and case-report/series-level underlying evidence (descriptive, not comparative-statistical).
+
+## 세줄요약
+
+체계적 문헌고찰 (32편, DIF 확진 PV 50례 + MMP 123례) — 구강 내 병소를 보이는 환자에서 천포창(Pemphigus Vulgaris, PV)과 점막성 유천포창(Mucous Membrane Pemphigoid, MMP)의 인구통계·임상·진단·치료 비교.
+
+구강이 두 질환 모두 1차 호발 부위(PV 71.4%, MMP 91%); 구강 내 감별 키: 협점막(PV, 30%) vs 치은(MMP, 64.2%); DIF IgG 양성 양쪽 100%; 1차 치료 PV = 전신 스테로이드(50%), MMP = 국소요법(53.7%).
+
+두 질환 모두 구강에서 처음 발현되므로 지속적 수포·미란성 병소 = DIF 생검 필수; 초록 수준 검색·증례 기반 연구로 기술적 퍼센트이며 비교통계 아님.
+
 
 ## Summary
 

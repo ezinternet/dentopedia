@@ -15,13 +15,23 @@ category: [botulinum-toxin]
 
 PSQI(피츠버그 수면 질 지수)를 1차 결과 지표로 사용한 드문 브럭시즘 BoNT-A 연구. 기존 보유 논문들이 주로 통증(VAS)·기능을 평가하는 반면, 본 연구는 수면 질 개선이 통증 개선보다 더 지속적임을 6개월 종단 데이터로 보임. [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]]과 함께 "BoNT-A → 수면 질 개선" 축 구성.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=80, 6-month follow-up) of masseter BoNT-A injection for bruxism showed rapid BDI reduction (20.8→4.3 at 1mo), sustained PSQI improvement (10.0→2.8 at 6mo), and significant VAS pain reduction; sleep quality improvement was the most durable outcome. Abstract-only.
 
-## 한줄요약
+Prospective study (n=80, 6-month follow-up) of masseter BoNT-A injection for bruxism showed rapid BDI reduction (20.8→4.3 at 1mo), sustained PSQI improvement (10.0→2.8 at 6mo), and significant VAS pain reduction;
 
-교근 BoNT-A 주사 브럭시즘 전향 연구(n=80, 6개월)에서 BDI가 조기에 크게 감소(20.8→4.3, 1개월)하고 PSQI는 6개월까지 지속 개선(10.0→2.8)되어, 수면 질 개선이 가장 오래 지속되는 치료 효과임을 확인. 초록만 수집.
+sleep quality improvement was the most durable outcome.
+
+Abstract-only.
+
+## 세줄요약
+
+
+교근 BoNT-A 주사 브럭시즘 전향 연구(n=80, 6개월)에서 BDI가 조기에 크게 감소(20.8→4.3, 1개월)하고 PSQI는 6개월까지 지속 개선(10.0→2.8)되어, 수면 질 개선이 가장 오래 지속되는 치료 효과임을 확인.
+
+초록만 수집.
+
+(incomplete)
 
 ## 1. Document Information
 

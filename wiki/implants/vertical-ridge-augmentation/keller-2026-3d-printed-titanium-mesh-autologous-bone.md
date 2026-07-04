@@ -19,13 +19,21 @@ relations:
     target: sabri-2024-titanium-mesh-bone-augmentation-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective (n=16): DMLS micro-perforated grade-2 Ti mesh + pure autologous bone → 0% mesh exposure in 16 consecutive cases; planned and real CBCT bone augmentation statistically equivalent.
+Retrospective consecutive case series (n=16 patients, single center) using a specific DMLS (Direct Metal Laser Sintering) micro-perforated grade-2 titanium mesh with only 2 vestibular fixation screws and pure autologous bone graft for GBR; CBCT subtraction analysis compared planned vs achieved augmentation (102 measurements, 3 operators).
 
-## 한줄요약
+Mesh exposure was 0% (0/16 consecutive cases); all 16 patients had sufficient bone for implant placement after 122–160 days of healing; planned and real CBCT augmentation were statistically equivalent (linear mixed model, no significant difference).
 
-후향 연구 (n=16): DMLS 마이크로퍼포레이션 grade-2 Ti 메쉬 + 순수 자가골 → 16증례 연속 메쉬 노출 0%; 계획 골증대량과 실제 CBCT 결과가 통계적으로 동등.
+The zero-exposure result stands in direct contrast to Soares 2025 (77.8% exposure with different 3D-printed Ti mesh design), suggesting that mesh exposure in 3D-printed Ti GBR is not inherent to the technology but is design- and technique-dependent — micro-perforation, grade-2 Ti, pure autograft, and minimal fixation are the proposed contributing factors.
+
+## 세줄요약
+
+후향적 연속 증례 시리즈(n=16명, 단일 기관): DMLS(Direct Metal Laser Sintering) 마이크로 퍼포레이션 grade-2 티타늄 메시, 2개 전정 고정 스크류, 순수 자가골 이식재로 골유도재생술(GBR) 시행; CBCT 감산 분석으로 계획 대비 실제 골증대 비교(102개 계측, 3명 측정자).
+
+메시 노출 0%(16증례 연속 0건); 122–160일 치유 후 전 증례 임플란트 식립 충분; 계획·실제 CBCT 골증대량 통계적 동등(선형 혼합 모형, 유의차 없음).
+
+이 0% 노출 결과는 Soares 2025(동일 3D 프린팅 Ti 메시 기술 77.8% 노출)와 직접 대조됨 — 3D 프린팅 Ti 메시의 노출은 기술 자체의 특성이 아닌 디자인·술식 의존적임을 시사: 마이크로 퍼포레이션, grade-2 Ti, 순수 자가골, 최소 고정이 제안된 핵심 요인.
 
 ## Summary
 

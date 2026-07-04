@@ -9,7 +9,7 @@ pdf_filename: wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (14 CBCT studies, 35,929 teeth, Han population): MB2 prevalence 63.7% in maxillary first molars (PMFM), 23.3% in second molars (PMSM); males have significantly higher odds (OR 1.53–1.79); high heterogeneity (I²>95%).
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr.tx
 
 `clear-aligner` 예측가능성 축의 세 번째 결정인자(trimline/gingival margin 디자인)를 다루는 SR. attachment([[wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]])·앵커리지([[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]])와 함께 force-delivery 기전 삼각 완성. PMC OA 전문.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR (12 studies, low-moderate RoB): aligner trimline design drives tooth-movement efficacy via force delivery and retention — straight/extended margins generate higher forces/moments and better retention than scalloped/short designs, giving greater displacement for intrusion, translation, tipping, and root torque (effect varies by movement type).
 
-## 한줄요약
+(incomplete)
 
-SR(12편, low-moderate RoB): aligner trimline(절단연) 디자인이 force 전달과 유지력을 통해 이동 효율을 좌우 — straight/extended margin이 scalloped/short보다 force·moment·retention 우위, 함입·translation·tipping·root torque에서 더 큰 이동. 이동 종류별로 효과 상이.
+(incomplete)
+
+## 세줄요약
+
+
+SR(12편, low-moderate RoB): aligner trimline(절단연) 디자인이 force 전달과 유지력을 통해 이동 효율을 좌우 — straight/extended margin이 scalloped/short보다 force·moment·retention 우위, 함입·translation·tipping·root torque에서 더 큰 이동.
+
+이동 종류별로 효과 상이.
+
+(incomplete)
 
 ## 1. Document Information
 

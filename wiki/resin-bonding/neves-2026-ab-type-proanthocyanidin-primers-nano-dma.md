@@ -21,13 +21,21 @@ relations:
     target: tjaderhane-2015-dentin-bonding-can-we-make-it-last-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro nano-DMA + micro-permeability study (5 groups, 1-year SBF aging): rinse-out AB-type proanthocyanidin (PAC-DESIGNER) primers raised the complex modulus of the hybrid layer and underlying dentin and reduced interfacial micropermeability vs unprimed control, with trimeric (DP3) PACs outperforming tetrameric (DP4) — a layer-specific mechanism for durable resin-dentin bonding.
+In vitro nano-DMA + rhodamine micro-permeability study (25 molars, 5 PAC-DESIGNER primer groups, 24 h / 6-month / 1-year SBF aging): AB-type proanthocyanidin primers were applied as rinse-out neutral primers before a model methacrylate adhesive, resolving effects layer-by-layer across the adhesive, hybrid, and underlying dentin.
 
-## 한줄요약
+All PAC groups raised the complex modulus (E*) of the hybrid layer and underlying dentin vs unprimed control at 1 year; trimeric PM-AB (DP3) was the most effective and most stable, while the control's underlying dentin micropermeability increased over time but PAC groups stayed sealed.
 
-in vitro nano-DMA + 미세투과도 연구 (5군, 1년 SBF 노화): rinse-out AB형 프로안토시아니딘(PAC-DESIGNER) 프라이머가 무처치 대조 대비 혼성층·하부 상아질의 복합탄성계수를 높이고 계면 미세투과도를 낮췄으며, 삼량체(DP3)가 사량체(DP4)보다 우수 — 내구성 상아질 접착의 층별 기전을 제시.
+Trimeric (DP3) PACs outperform tetrameric (DP4) likely due to better fit into collagen interfibrillar spaces; biomodulation reinforces both the demineralized hybrid zone and mineralized underlying dentin, providing a structural rationale for proanthocyanidin as a durable dentin pretreatment.
+
+## 세줄요약
+
+In vitro nano-DMA + rhodamine 미세투과도 연구 (대구치 25개, PAC-DESIGNER 5군, 24시간/6개월/1년 SBF 노화): AB형 프로안토시아니딘(proanthocyanidin, PAC)을 rinse-out 중성 프라이머로 적용 후 모델 메타크릴레이트 접착제를 도포해 접착층·혼성층·하부상아질의 층별 역학 및 투과도 변화를 측정.
+
+모든 PAC군이 1년 시점에서 대조군 대비 혼성층·하부상아질 복합탄성계수(E*) 향상 및 미세투과도 감소를 나타냈으며, 삼량체 PM-AB(DP3)가 가장 효과적이고 안정적이었고 대조군 하부상아질 투과도는 1년에 걸쳐 증가한 반면 PAC군은 유지됨.
+
+삼량체(DP3)가 사량체(DP4)보다 우수한 것은 교원섬유 간 공간에 더 잘 맞기 때문으로 추정되며, 비광화(혼성층)와 광화(하부상아질) 구역 모두를 강화하는 층별 생체조절 기전은 내구성 접착의 새로운 구조적 근거를 제시한다.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review and meta-analysis comparing socket-shield versus conventional immediate implant placement in the esthetic zone: socket shield shows superior buccal bone preservation (mean difference -0.5 mm, statistically significant) and reduced facial mucosal recession, but with shield-related complications (fracture/exposure) in 5–17% of cases requiring monitoring.
+## Three-line Summary
 
-## 한줄요약
-소켓실드 vs 기존 즉시임플란트 SR+MA — 협측 골 MD -0.5mm 우위, 합병증(실드 노출) 5–17% 보고.
+Systematic review and meta-analysis (Gharpure et al., 2022) comparing socket-shield technique (SST) versus conventional immediate implant placement in the esthetic zone using PubMed/Embase searches of RCTs and prospective studies.
+
+SST showed superior buccal bone preservation (mean difference −0.5 mm, statistically significant) and reduced facial mucosal recession compared to conventional placement.
+
+Shield-related complications (fracture or exposure) occurred in 5–17% of SST cases, warranting ongoing monitoring and tempering the otherwise favorable hard-tissue and esthetic findings.
+
+## 세줄요약
+
+SR+MA(Gharpure 등, 2022): PubMed/Embase에서 RCT·전향적 연구를 검색해 심미부에서 소켓실드(SST) vs 기존 즉시식립 비교.
+
+SST가 협측 골 보존에 우월(MD −0.5 mm, 통계적 유의) 하고 협측 점막 퇴축도 적게 나타남.
+
+실드 관련 합병증(골절·노출) 5–17% 발생으로 지속적 모니터링이 필요하며 이는 우호적인 경조직·심미 결과를 제한하는 요인.
 
 ## Summary
 SR+MA comparing socket shield vs conventional immediate implant on buccal bone, soft tissue, and complications.

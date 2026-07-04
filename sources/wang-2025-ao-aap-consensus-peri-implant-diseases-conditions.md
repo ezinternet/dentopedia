@@ -15,7 +15,7 @@ AO/AAP 2025 peri-implant 질환·병태 예방·관리 합의문 요약 보고�
 
 → 관련 wiki: [[wiki/periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] / [[wiki/periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
 
-## One-line Summary
+## Three-line Summary
 AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-implant disease prevention and management. Published in J Periodontol May 2025.
 
 ## 1. Document Information

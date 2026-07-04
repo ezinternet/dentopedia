@@ -9,7 +9,7 @@ pdf_filename: gharpure-2022-socket-shield-conventional-implant-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 소켓실드(socket shield) 기법 vs 기존 즉시임플란트 비교 SR+MA.
 
 ## 1. Document Information

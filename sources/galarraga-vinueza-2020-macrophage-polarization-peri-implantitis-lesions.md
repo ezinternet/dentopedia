@@ -17,13 +17,23 @@ text_filename: galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-l
 
 사용자 요청 — "구강내 염증 육아조직(inflammatory granulation tissue)" 논문의 PMC 전문 인제스트. 임플란트주위염 골내결손부에서 채취한 **육아조직 생검**을 대식세포 극성화(M1/M2) 관점에서 정량한 조직화학 연구. 같은 육아조직을 Treg 관점에서 본 [[wiki/implants/peri-implantitis/cafferata-2025-impaired-treg-mediated-immune-regulation]]와 짝을 이뤄, 그 조직의 "파괴적" 성격(M1 우세 → 골용해)을 세포 수준에서 뒷받침한다. 표면제염 프로토콜의 단일 우월성 부재 [[wiki/implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]]와 GBR 재건 [[wiki/implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]]에, "왜 진행 병소에서 염증이 파괴적인가"를 설명하는 병인 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
-Immunohistochemical study of granulation tissue biopsies from 20 human peri-implantitis lesions: macrophages occupy ~14% of the inflammatory connective tissue, with M1 (CD80) significantly exceeding M2 (CD206) at advanced sites; CD68 and M1 expression correlate with probing depth.
 
-## 한줄요약
+Immunohistochemical study of granulation tissue biopsies from 20 human peri-implantitis lesions: macrophages occupy ~14% of the inflammatory connective tissue, with M1 (CD80) significantly exceeding M2 (CD206) at advanced sites;
 
-사람 임플란트주위염 병소 20개의 육아조직 생검 면역조직화학 연구: 대식세포가 염증성 결합조직의 약 14%를 차지하고, 진행 병소에서 M1(CD80)이 M2(CD206)보다 유의하게 우세; CD68·M1 발현이 탐침깊이와 상관.
+CD68 and M1 expression correlate with probing depth.
+
+(incomplete)
+
+## 세줄요약
+
+
+사람 임플란트주위염 병소 20개의 육아조직 생검 면역조직화학 연구: 대식세포가 염증성 결합조직의 약 14%를 차지하고, 진행 병소에서 M1(CD80)이 M2(CD206)보다 유의하게 우세;
+
+CD68·M1 발현이 탐침깊이와 상관.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [peri-implantitis, peri-implant-mucositis, epidemiology, prevalence]
 ---
 
-## One-line Summary
-SR+MA (11 studies): weighted mean population prevalence of peri-implant mucositis 43% (95% CI 32–54%) and peri-implantitis 22% (95% CI 14–30%), with extreme heterogeneity (I²=96–98%); prevalence rises with longer implant function time and varies strongly with the case definition (bone-loss threshold) used.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (11개 연구): 임플란트 주위 점막염 유병률 43%, 임플란트 주위염 22%; 기능 기간이 길수록 유병률 증가, 케이스 정의에 따라 큰 차이.
+SR+MA (11 studies, 15 articles, PRISMA) estimating population-level prevalence of peri-implant diseases in adults with dental implants.
+
+Weighted mean prevalence: peri-implant mucositis 43% (95% CI 32–54%) and peri-implantitis 22% (95% CI 14–30%), with extreme heterogeneity (I²=96–98%); both prevalences rise with longer implant function time.
+
+Case definition choice (bone-loss threshold) strongly drives apparent peri-implantitis prevalence, underscoring the need for standardized definitions — addressed by the 2018 EFP/AAP consensus.
+
+## 세줄요약
+
+SR+MA (11개 연구, 15편, PRISMA) — 임플란트 보유 성인에서 임플란트 주위 질환의 인구 수준 유병률 추정.
+
+임플란트 주위 점막염 가중평균 유병률 43% (95% CI 32–54%), 임플란트 주위염 22% (95% CI 14–30%); 기능 기간이 길수록 유병률 증가; 이질성 극도로 높음 (I²=96–98%).
+
+케이스 정의(골소실 기준값)에 따라 유병률이 크게 달라지므로 표준화된 진단 기준 적용이 필수임.
 
 ## Summary
 Systematic review and meta-analysis of 11 studies (15 articles) estimating population-level prevalence of peri-implant diseases. Weighted mean prevalence: peri-implant mucositis 43% (CI 32–54%), peri-implantitis 22% (CI 14–30%). Both estimates show extreme heterogeneity (I²=96–98%) attributed to inconsistent case definitions. Meta-regression confirms longer function time and higher bone-loss threshold both predict higher apparent peri-implantitis prevalence.

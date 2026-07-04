@@ -17,13 +17,21 @@ text_filename: demir-2024-artificial-intelligence-dental-lesion-detection.txt
 
 Extends the wiki's AI lesion-detection coverage beyond the single-lesion DTA focus of [[artificial-intelligence/sadr-2022-deep-learning-periapical-radiolucent-lesions]] (periapical radiolucency only): this PRISMA SR maps deep-learning lesion detection across FIVE lesion types (periapical, apical, cyst, jawbone, dental caries) and THREE imaging modalities (panoramic, periapical, CBCT), giving a model/architecture landscape (U-Net, AlexNet, YOLOv8) rather than a pooled-accuracy estimate. It also broadens the caries-only scope of the sibling review by Albano 2024 (artificial-intelligence, radiographic caries detection) to the wider lesion-detection problem.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (n=29 primary studies, 2019–2024, PROSPERO CRD42024607099) mapping deep-learning dental lesion detection across 5 lesion types, 3 imaging modalities, 14 DL architectures (U-Net most used at 27.59%), 12 augmentation techniques, and 6 recurring challenges with 13 proposed solutions.
+PRISMA systematic review (29 primary studies, 2019–2024, PROSPERO CRD42024607099) mapping deep-learning dental lesion detection across 5 lesion types (periapical 62%, apical 34%, cyst/caries/jawbone each ≤7%), 3 imaging modalities (panoramic, periapical, CBCT), and 14 DL architectures; qualitative synthesis only, no pooled accuracy.
 
-## 한줄요약
+U-Net was the dominant architecture (27.59%); representative per-study accuracy ranged 74–99.9%; flip and rotation/reflection were the most impactful augmentation techniques (each 17.24%); and 6 recurring challenges (data scarcity, poor image quality, limited generalization, lesion ambiguity, model complexity, overfitting) were mapped to 13 proposed solutions.
 
-PRISMA 체계적 문헌고찰(1차 연구 29편, 2019–2024): 치과 병소 탐지용 딥러닝을 5개 병소유형·3개 영상양식(파노라마·치근단·CBCT)·14개 아키텍처(U-Net 27.59%로 최다)·12개 데이터증강 기법·6개 공통 난제(+13개 해결책)로 정리한 지도(map)형 리뷰. 성능 pooling(메타분석)은 없음.
+The review provides a landscape map rather than a pooled estimate, and clinical deployment is limited by non-standardized datasets, heterogeneous metrics, and the absence of large multicenter validation studies.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰(1차 연구 29편, 2019–2024, PROSPERO CRD42024607099): 5개 병소유형(치근단병소 62%, 정단병소 34%, 낭종·우식·악골 각 ≤7%)·3개 영상양식·14개 딥러닝 아키텍처를 망라한 지형도(map)형 리뷰이며, 정량적 메타분석은 수행하지 않음.
+
+U-Net이 가장 많이 사용된 아키텍처(27.59%)였고, 연구별 정확도는 74–99.9%로 다양하였으며, 수평 뒤집기(flip)와 회전(rotation)/반전(reflection)이 가장 영향력 있는 데이터 증강 기법(각 17.24%)이었고, 6개 주요 난제에 13개 해결책이 제시됨.
+
+이 리뷰는 단일 정확도 추정치가 아닌 분야 지형도를 제공하며, 비표준화 데이터셋·이질적 평가지표·다기관 검증 부재로 임상 적용에는 한계가 있음.
 
 ## 1. Document Information
 

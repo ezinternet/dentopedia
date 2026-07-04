@@ -17,13 +17,23 @@ text_filename: viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropat
 
 삼차신경통 치과 감시 인제스트 — 치과의의 외상후 삼차신경병성 통증(Post-Traumatic Trigeminal Neuropathic pain, PTTN) 인지 부족이 오진→불필요·비가역 치료(불필요한 근관재치료·치근단절제술·발치)를 유발하는 동인임을 정량화. n=634 이탈리아 치과의 설문에서 29%가 PTTN 존재조차 모르고, 80%+가 학부/대학원에서 교육받은 적 없으며, 70%가 임상에서 의심 사례를 겪었으나 3명 중 1명만 통증 전문의에 의뢰. 기존 neuropathic 통증 페이지 [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]]의 삼차신경 신경병성 통증 기전을 임상 인지·오진 측면에서 보강하며, 종합 페이지 [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]]의 orofacial 신경병성 통증 인식 갭에 실증 근거를 추가. (지정된 sibling alkhutari-2023-... · khan-2023-...는 위키에 미존재하여 실존 페이지로 대체 링크함.)
 
-## One-line Summary
+## Three-line Summary
+
 
 Web-based cross-sectional survey of 634 Italian dentists: 29% were unaware that post-traumatic trigeminal neuropathic pain (PTTN) exists and >80% received no teaching about it, yet 70% had encountered suspected cases — most managed with irreversible procedures and only ~1 in 3 referred to a pain specialist, exposing a major misdiagnosis-driven public-health gap.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 이탈리아 치과의 634명 웹 단면조사: 29%가 외상후 삼차신경병성 통증(PTTN) 존재를 모르고 80% 이상이 관련 교육을 받은 적 없으나 70%가 의심 사례를 경험 — 대부분 비가역 치료로 대응하고 3명 중 1명만 통증 전문의에 의뢰해, 오진 기반의 중대한 공중보건 공백을 드러냄.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,19 @@ source_collection: external
 tags: [cadcam, all-ceramic, fdp, fixed-dental-prosthesis, zirconia, lithium-disilicate, feldspathic, chipping, fracture, survival-rate, clinical-performance]
 ---
 
-## One-line Summary
-SR+MA (RCTs + cohort studies; Materials 2021): for CAD/CAM all-ceramic tooth-supported fixed dental prostheses (FDPs), 5-year survival is generally >90%, zirconia framework fracture is rare with veneering-ceramic chipping the predominant technical complication, lithium disilicate carries higher fracture risk in long-span FPDs, and biological complications are comparable to metal-ceramic.
+## Three-line Summary
+SR+MA of RCTs and cohort studies (Materials 2021) evaluating clinical performance of CAD/CAM all-ceramic tooth-supported fixed dental prostheses (FDPs) across PubMed, Cochrane, Embase, and Wiley Online Library.
 
-## 한줄요약
-CAD/CAM 전부도재 치아지지 FPD(Fixed Dental Prosthesis) 임상성적 SR+MA (Materials 2021): 지르코니아 FPD 프레임 파절 드묾; 베니어 세라믹 칩핑(Chipping)이 주요 합병증; 리튬 디실리케이트는 장경간에서 파절 위험 증가.
+5-year survival for all-ceramic FDPs is generally >90%; zirconia framework fracture is rare, while veneering-ceramic chipping is the predominant technical complication; lithium disilicate carries higher fracture risk in long-span FPDs (>3 units).
+
+Biological complications are comparable to metal-ceramic (PFM) controls, and CAD/CAM all-ceramic achieves equivalent survival to PFM for short-span FDPs.
+
+## 세줄요약
+RCT 및 코호트 연구 SR+MA(Materials 2021)로 CAD/CAM 전부도재 치아지지 고정성치아보철물(Fixed Dental Prosthesis, FDP)의 임상 성적을 PubMed·Cochrane·Embase·Wiley에서 평가.
+
+전부도재 FDP 5년 생존율 일반적으로 >90%; 지르코니아 프레임 파절 드물고 베니어 세라믹 칩핑(Chipping)이 주요 기술적 합병증; 리튬 디실리케이트(Lithium Disilicate)는 장경간(3유닛 초과)에서 파절 위험 증가.
+
+생물학적 합병증은 도재-금속관(Porcelain-Fused-to-Metal, PFM) 대조군과 동등하며, 단경간 FDP에서 CAD/CAM 전부도재는 PFM과 유사한 생존율 달성.
 
 ## Summary
 Systematic review and meta-analysis of clinical performance of CAD/CAM all-ceramic tooth-supported fixed dental prostheses (FDPs). Databases: PubMed, Cochrane, Embase, Wiley Online Library. Included RCTs and cohort studies. Assessed survival rate, biological complications, and technical complications for CAD/CAM ceramics (zirconia, lithium disilicate, feldspathic) vs metal-ceramic (PFM) FDPs.

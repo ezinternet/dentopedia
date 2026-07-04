@@ -20,13 +20,21 @@ relations:
     target: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Comprehensive review (Theranostics 2024) mapping salivary biomarker classes (proteins/peptides, nucleic acids, EVs, metabolites, hormones, electrolytes) to diseases, surveying detection systems from biosensors and microfluidics to wearable intraoral devices, and framing collection/standardization as the central barrier to clinical translation.
+Comprehensive narrative review (Theranostics 2024) mapping six salivary biomarker classes (proteins/peptides, nucleic acids, EVs, metabolites, hormones, electrolytes) to diseases including OSCC, COVID-19, Alzheimer's, and breast cancer, and surveying detection systems from biosensors and microfluidics to wearable intraoral devices.
 
-## 한줄요약
+Salivary MMP-9 decreased from 588 to 132 ng/mL (p<0.05) 9 months post-OSCC surgery; electrochemical biosensors achieve salivary PSA sensitivity as low as 40 fg/mL; standardization and reference-range gaps remain the dominant clinical-translation barrier.
 
-침 진단(saliva diagnostics)의 바이오마커 종류(단백질·핵산·세포외소포(EV)·대사체·호르몬·전해질)를 질환별로 매핑하고, 바이오센서·마이크로플루이딕·웨어러블 구강기기까지 검출 시스템을 개관하며, 채취·표준화(standardization)를 임상화의 핵심 장벽으로 짚은 종합 리뷰 (Theranostics 2024). 침 MMP-9는 구강편평세포암(OSCC) 수술 후 588→132 ng/mL로 감소해 진단·예후 지표가 됨.
+Saliva offers a non-invasive liquid biopsy alternative to blood, but most biomarkers lie at lower concentration than in plasma and lack validated reference intervals — multiplexed standardized assays are needed before routine clinical use.
+
+## 세줄요약
+
+종합 서술 리뷰(Theranostics 2024) — 침 바이오마커 6종류(단백질·핵산·세포외소포(Extracellular Vesicle, EV)·대사체·호르몬·전해질)를 구강편평세포암(OSCC)·COVID-19·알츠하이머·유방암 등 질환과 연결하고, 바이오센서·마이크로플루이딕·웨어러블 구강기기를 포함한 검출 시스템 전반을 개관.
+
+침 MMP-9는 OSCC 수술 9개월 후 588→132 ng/mL (p<0.05)로 감소해 예후 지표로 활용 가능하며, 전기화학 바이오센서는 침 PSA를 40 fg/mL 감도로 검출; 대부분 바이오마커가 혈장보다 낮은 농도로 존재하고 표준 참조 범위(reference interval)가 부재.
+
+침은 비침습적 액체생검(liquid biopsy) 대안으로 유망하나, 채취 조건 변동성·표준화 부족이 임상 전환의 핵심 장벽으로, 다중화(multiplexed) 표준 프로토콜 및 기관 간 라운드로빈 검증이 선행되어야 함.
 
 ## Summary
 

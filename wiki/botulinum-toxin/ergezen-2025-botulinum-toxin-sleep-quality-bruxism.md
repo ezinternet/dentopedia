@@ -15,13 +15,21 @@ full_text: false
 tags: [sleep-bruxism, awake-bruxism, PSQI, sleep-quality]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective observational study (n=40 women with awake + sleep bruxism, standardized BTX-A 30U masseter + 20U temporalis) showed PSQI-defined good sleep quality rising from 17.5% to 60% post-treatment; all PSQI subscales significantly improved (all p<0.05). Abstract-only.
+Prospective observational study (n=40 women, all diagnosed with both awake bruxism and sleep bruxism) receiving standardized bilateral BTX-A injections (30U masseter + 20U temporalis) and assessed by PSQI pre- and post-treatment.
 
-## 한줄요약
+PSQI-defined good sleep quality (≤5) rose from 17.5% (7/40) to 60% (24/40; p<0.001), and all 7 PSQI subscales — including daytime function (p=0.002) — improved significantly (all p<0.05).
 
-각성 및 수면 브럭시즘 동시 진단 여성 40명 대상 표준화 BTX-A 주사(교근 30U + 측두근 20U) 전향 관찰 연구에서 PSQI 기준 수면의 질 양호 비율 17.5%→60%, 모든 수면 하위척도 유의 개선(p<0.05). 초록만.
+The absence of a control group is the major limitation, as placebo responses in bruxism studies can be substantial; nonetheless this study pairs with Hira (2026) to build a "BoNT-A → sustained PSQI improvement" evidence axis across comorbid awake/sleep bruxism patients.
+
+## 세줄요약
+
+각성 및 수면 브럭시즘을 동시에 가진 여성 40명 대상 전향 관찰 연구 — 표준화 BTX-A 주사(교근 30U + 측두근 20U 양측) 후 PSQI로 수면의 질 평가.
+
+PSQI 기준 수면 양호(≤5) 비율 17.5%→60%(p<0.001), 7개 PSQI 하위척도 전부 유의 개선(모두 p<0.05), 낮 시간 기능 개선도 유의(p=0.002).
+
+대조군이 없어 플라시보 기여도 불명인 점이 핵심 한계; Hira(2026)와 함께 "BoNT-A → PSQI 지속 개선" 근거 축을 구성하며, 초록만이므로 추적 시점·세부 수치 확인 불가.
 
 ## Summary
 

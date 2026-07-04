@@ -13,11 +13,19 @@ source_collection: external
 tags: [panoramic, cbct, implant-planning, IAN, paresthesia, posterior-mandible]
 ---
 
-## One-line Summary
-Prospective clinical study (n=148 implants in 73 patients): implant lengths chosen from panoramic radiograph alone were verified by post-operative CBCT — 93.2% underestimated available bone height, of which 73.9% had residual bone <2 mm; 5 cases of transient paresthesia in the posterior mandible — conclusion is that panoramic-only safety depends on surgeons conservatively selecting short implants.
+## Three-line Summary
+Prospective reliability study (BMC Oral Health 2020, 73 patients, 148 posterior implants — 68 maxillary, 80 mandibular) at Baghdad University Hospital comparing implant lengths selected from panoramic radiograph alone against post-operative CBCT ground-truth measurement of available bone height.
 
-## 한줄요약
-전향적 임상 (Prospective, n=148 implants in 73 patients): 파노라마 (Panoramic Radiograph) 만으로 술자가 선택한 임플란트 길이를 술후 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT) 으로 검증한 결과, 93.2% 가 가용 골 높이 (Available Bone Height, ABH) 를 과소평가했고 그 중 73.9% 는 잔여 골 (Remaining Bone) <2 mm — 후방 하악 (Posterior Mandible) 에서는 5건의 일과성 감각이상 (Transient Paresthesia) 보고. 파노라마만 사용 시 "안전한 이유는 술자가 보수적으로 짧게 선택하기 때문" 이라는 결론.
+Panoramic-only planning underestimated available bone height in 93.2% of implants, of which 73.9% had residual bone <2 mm; overestimation was significantly higher in the posterior mandible than maxilla, resulting in 5 cases of transient inferior alveolar nerve paresthesia (all mandibular overestimation).
+
+Panoramic-only safety in posterior implant planning relies on surgeon conservative bias toward short implants rather than true measurement accuracy; CBCT-based planning is strongly justified for posterior mandible to prevent neurovascular complications.
+
+## 세줄요약
+전향적 신뢰도 연구 (BMC Oral Health 2020, 바그다드대 병원, 73명 환자, 후방 임플란트 148개 — 상악 68, 하악 80): 파노라마만으로 선택한 임플란트 길이를 술후 CBCT 가용 골 높이(ABH) 실측값과 비교.
+
+파노라마 단독 계획이 93.2%에서 ABH를 과소평가했으며, 그 중 73.9%에서 잔여 골 <2 mm; 후방 하악의 과대평가율이 상악보다 유의하게 높아 하치조신경 일과성 감각이상 5건 발생(모두 하악 과대평가 증례).
+
+파노라마 단독의 안전성은 진정한 측정 정확도가 아닌 술자의 보수적 단축 편향에 의존하므로, 후방 하악 임플란트에서 신경혈관 합병증 예방을 위한 CBCT 계획이 강력히 정당화된다.
 
 ## Summary
 바그다드 대학병원에서 73명의 환자에 식립한 148개 후방 임플란트 (상악 68 / 하악 80) 를 대상으로 한 전향적 reliability 연구. 술자가 파노라마만 보고 implant length 를 선택한 후, 술후 CBCT 로 ABH 의 ground truth 를 측정하여 under/overestimation 비율과 그에 따른 신경혈관 합병증 (sinus perforation, 하치조신경 (Inferior Alveolar Nerve, IAN) 손상) 을 정량화했다. 결론은 panoramic-only planning 이 절대적으로 안전한 것이 아니라, 술자의 conservative bias 가 안전을 만든다는 것 — 후방 임플란트에서 **CBCT-based planning** 의 정당성을 강하게 뒷받침한다.

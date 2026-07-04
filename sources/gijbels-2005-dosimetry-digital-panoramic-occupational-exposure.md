@@ -15,13 +15,23 @@ text_filename: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.tx
 
 파노라마촬영실 외부(1 m 거리)의 산란선량을 실측한 핵심 데이터. 기존 [[radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography]] 및 [[radiology/schindler-2025-panoramic-thyroid-eye-lens-dose]]의 환자 측 선량 논의를 보완하여, 직원이 파노라마 촬영 중 실제로 받는 피폭량을 정량화하는 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro phantom study with 5 digital panoramic units: scatter dose at 1 m from unit was ≤0.60 μGy per exposure; 500 panoramics/year yields 5–40 μSv annual occupational organ dose to operator.
 
-## 한줄요약
+In-vitro phantom study with 5 digital panoramic units: scatter dose at 1 m from unit was ≤0.60 μGy per exposure;
+
+500 panoramics/year yields 5–40 μSv annual occupational organ dose to operator.
+
+(incomplete)
+
+## 세줄요약
+
 
 5종 디지털 파노라마 장치 팬텀 실험: 1 m 거리 산란선량 최대 0.60 μGy/촬영, 연간 500회 기준 술자 갑상선 5–15 μSv, 생식선 5–40 μSv 추가 피폭.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

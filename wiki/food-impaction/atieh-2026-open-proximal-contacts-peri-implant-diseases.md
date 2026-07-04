@@ -22,13 +22,21 @@ relations:
     target: sheba-2023-interproximal-contact-loss-systematic-meta
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (5 non-randomized observational studies, 4882 implants, 1050 with open proximal contact): open proximal contacts significantly raised peri-implant mucositis incidence (RR 1.74, 95% CI 1.06–2.86, p=0.03) but MBL change (MD 0.07), PPD change (MD 0.11), and peri-implantitis (RR 1.63, p=0.12) were all non-significant.
+SR+MA of 5 non-randomized observational studies (4,882 implants; 1,050 with open proximal contact; PROSPERO CRD420251089277; follow-up 24–84 months) asking whether open proximal contact (OPC) causes peri-implant tissue harm.
 
-## 한줄요약
+OPC significantly increased peri-implant mucositis incidence (RR 1.74, 95% CI 1.06–2.86, p=0.03; 182 more cases per 1,000); marginal bone level change (MD 0.07), probing depth change (MD 0.11), and peri-implantitis (RR 1.63, p=0.12) were all non-significant.
 
-SR+MA (비무작위 관찰연구 5편·임플란트 4882개·개방접촉 1050개): 개방근위접촉은 임플란트주위점막염 발생을 유의하게 증가시켰으나(RR 1.74, 95% CI 1.06–2.86, p=0.03), 변연골소실(MD 0.07)·탐침깊이(MD 0.11)·주위염(RR 1.63, p=0.12)은 모두 비유의했다.
+OPC is a risk indicator for peri-implant mucositis but not yet demonstrated to cause bone loss or peri-implantitis; low-to-very-low GRADE certainty and cross-sectional design limit causal inference — good oral hygiene and supportive care may attenuate the hard-tissue signal.
+
+## 세줄요약
+
+임플란트 보철의 개방 근위접촉(OPC)이 임플란트 주위 조직 손상을 유발하는지 평가한 비무작위 관찰연구 5편(임플란트 4,882개, OPC 1,050개, 추적 24–84개월) SR+MA.
+
+OPC는 임플란트주위점막염(Peri-implant Mucositis) 발생을 유의하게 증가시켰으나(RR 1.74, 95% CI 1.06–2.86, p=0.03; 1000개당 182건 추가); 변연골소실(MD 0.07)·탐침깊이(MD 0.11)·주위염(RR 1.63, p=0.12)은 모두 비유의.
+
+OPC는 임플란트주위점막염의 위험 지시인자이나, 골소실·주위염에 대한 인과관계 미확립; GRADE 낮음–매우 낮음, 횡단설계의 한계 — 양호한 구강위생 및 정기 지지치료가 경성 조직 신호를 약화시킬 수 있음.
 
 ## Summary
 

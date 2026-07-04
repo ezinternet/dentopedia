@@ -13,13 +13,23 @@ source_collection: external
 
 Saline rinsing is widely advised in post-surgical and periodontal wound care but lacked in-vitro mechanistic evidence. This paper fills that gap — providing the first controlled data on NaCl concentration–response in human gingival fibroblasts — and directly informs clinical recommendations on rinse concentration in [[wiki/periodontics/herrera-2014-acute-periodontal-lesions]] and post-periodontal-surgery wound care contexts.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (Chulalongkorn, 2016) showing short-term rinsing with 0.9–1.8% NaCl significantly promotes human gingival fibroblast migration and ECM gene expression, with 1.8% being optimal, while having no effect on oral keratinocytes; Cl⁻ ion identified as the active mediator.
 
-## 한줄요약
+In-vitro study (Chulalongkorn, 2016) showing short-term rinsing with 0.9–1.8% NaCl significantly promotes human gingival fibroblast migration and ECM gene expression, with 1.8% being optimal, while having no effect on oral keratinocytes;
 
-In vitro 연구 (쭐라롱콘대, 2016): 단기간 0.9–1.8% NaCl 세척이 인간 치은 섬유아세포(hGF)의 이동 및 세포외기질(ECM) 유전자 발현을 유의하게 촉진 (1.8%가 최적)하며, 구강 각화세포(hNOK)에는 효과 없음; Cl⁻ 이온이 핵심 매개체로 확인됨.
+Cl⁻ ion identified as the active mediator.
+
+(incomplete)
+
+## 세줄요약
+
+
+In vitro 연구 (쭐라롱콘대, 2016): 단기간 0.9–1.8% NaCl 세척이 인간 치은 섬유아세포(hGF)의 이동 및 세포외기질(ECM) 유전자 발현을 유의하게 촉진 (1.8%가 최적)하며, 구강 각화세포(hNOK)에는 효과 없음;
+
+Cl⁻ 이온이 핵심 매개체로 확인됨.
+
+(incomplete)
 
 ## 1. Document Information
 

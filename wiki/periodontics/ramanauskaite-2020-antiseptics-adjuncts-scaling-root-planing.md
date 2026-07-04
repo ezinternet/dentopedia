@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts to SRP significantly improve PD reduction, CAL gain, and BOP (all p=0.001), whereas subgingival antiseptic irrigation adds no significant benefit over SRP alone.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰+메타분석(RCT 12편, 추적 ≥6개월): 서방형 치은연하 소독제(겔·칩·바니시)를 SRP에 병용하면 치주낭깊이(PD)·임상부착수준(CAL)·탐침시출혈(BOP)이 유의하게 개선(모두 p=0.001)되었으나, 소독제 세척(irrigation) 병용은 SRP 단독 대비 유의한 추가 효과가 없었다.
+Systematic review + meta-analysis (12 RCTs; follow-up ≥6 months; published 2000–2019) evaluating antiseptic adjuncts to SRP stratified by delivery vehicle (sustained-release vs single-pass irrigation) in chronic periodontitis patients.
+
+Sustained-release antiseptics (gels/chips/varnish) significantly improved PD reduction, CAL gain, and BOP vs SRP alone (all p=0.001); subgingival antiseptic irrigation showed no significant benefit on any outcome (PD p=0.321, CAL p=0.757, BOP p=0.355).
+
+The delivery vehicle, not the antiseptic agent itself, determines whether an adjunct is effective — sustained-release formulations are the evidence-supported choice; one-time irrigation should be abandoned.
+
+## 세줄요약
+
+SR+MA(RCT 12편, 추적 ≥6개월, 2000–2019): 만성 치주염 환자에서 SRP 보조 소독제를 제형별(서방형 vs 일회 세척)로 층화하여 평가.
+
+서방형 소독제(겔·칩·바니시)는 SRP 단독 대비 PD 감소·CAL 회복·BOP 개선 모두 유의한 효과(모두 p=0.001); 일회 치은연하 세척은 어떤 지표에도 유의한 추가 효과 없음(PD p=0.321, CAL p=0.757, BOP p=0.355).
+
+소독제의 종류보다 제형(서방형)이 임상 효과를 결정하는 핵심 요소 — 서방형 제제만이 근거 있는 선택이며, 일회 세척은 SRP 보조요법으로 적절하지 않다.
 
 ## Summary
 Scaling and root planing (SRP) is the cornerstone of nonsurgical periodontal therapy, but its efficacy is limited in deep pockets, intrabony defects, and furcations where mechanical instrumentation is incomplete (up to ~30% of debrided root surface may retain residual calculus). This systematic review with meta-analysis evaluates whether adding chemical antiseptics to SRP improves clinical outcomes. Twelve RCTs (follow-up ≥6 months) published 2000–2019 were pooled, stratified by antiseptic **delivery vehicle**. The central finding is a delivery-dependent effect: **sustained-release antiseptics** (gels, chips, varnish) significantly outperform SRP alone, whereas **subgingival irrigation** with antiseptic solutions does not.

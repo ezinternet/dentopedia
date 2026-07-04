@@ -17,13 +17,23 @@ text_filename: low-2026-dental-antibiotic-prescribing-practices-singapore.txt
 
 기존 위키의 처방 행태 survey([[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]], [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]])와 stewardship SR([[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]], [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]])가 모두 서구/유럽 데이터에 치우쳐 아시아 권역 근거가 부족했다. 본 Singapore cross-sectional survey (Low 2026, n=280)는 아시아 첫 종합 처방·AMR 지식 데이터로, 부적절 처방의 modifiable driver(public vs private, 경력, 국내/해외 수련)와 third-molar/implant 예방적 항생제 과처방 패턴을 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cross-sectional survey of 280 Singapore dentists (2024): appropriate antibiotic prescribing ranged 6.5-97.7% across scenarios (lowest for periodontal 30.4% and oral surgery 34.0%), 71.2% over-prescribed prophylaxis after third-molar surgery and 73.5% before implant placement, and AMR-transmission knowledge was poor (59.3% unaware resistant bacteria spread easily).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 싱가포르 치과의사 280명 단면조사(2024): 적절한 항생제 처방률이 임상상황별 6.5~97.7%로 편차가 컸고(치주 30.4%·구강외과 34.0%가 최저), 사랑니 발치 후 예방적 처방 71.2%·임플란트 식립 전 73.5%로 과처방이 만연했으며, 공공부문·국내수련·저경력 치과의사가 더 적절히 처방했고 AMR 전파에 대한 지식은 부족했다(59.3%가 내성균 전파 가능성 모름).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

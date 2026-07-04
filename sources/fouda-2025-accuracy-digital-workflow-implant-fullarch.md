@@ -17,13 +17,23 @@ text_filename: fouda-2025-accuracy-digital-workflow-implant-fullarch.txt
 
 사용자가 CAD/CAM 치과기공소 관련 논문을 요청 — 본 in-vitro micro-CT 연구는 [[wiki/digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro]]가 다룬 IOS 전악 스캔 trueness 문제를, 실제 티타늄 프레임워크 passivity(단일나사검사/나사저항검사)까지 연결해 "스캔 오차 → 프레임워크 오적합" 인과 사슬을 직접 검증한 첫 연구로서 가치가 있다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro micro-CT study (10 milled titanium full-arch frameworks from TRIOS 5 IOS scans on a 4-implant edentulous model): none acceptable by single-screw-test micro-CT, only 3/10 acceptable by final-fit-test micro-CT; subjective non-passivity rates 60% (SST) and 80% (SRT); only 2/10 intraoral scans fell within the 150 µm acceptable deviation vs. lab-scanner control, indicating scanning error as the dominant misfit source.
 
-## 한줄요약
+In-vitro micro-CT study (10 milled titanium full-arch frameworks from TRIOS 5 IOS scans on a 4-implant edentulous model): none acceptable by single-screw-test micro-CT, only 3/10 acceptable by final-fit-test micro-CT;
 
-In-vitro micro-CT 연구 (4-임플란트 무치악 모델에서 TRIOS 5 IOS 스캔으로 제작한 티타늄 전악 프레임워크 10개): 단일나사검사 micro-CT 기준 전부 부적합, 최종 체결 micro-CT 기준 3/10만 적합; 주관적 비수동성(non-passivity)률 60%(SST)·80%(SRT); 실험실 스캐너 대비 150μm 이내에 든 구강스캔은 2/10에 불과해 오적합의 주된 원인이 스캔 오차임을 시사.
+subjective non-passivity rates 60% (SST) and 80% (SRT);
+
+only 2/10 intraoral scans fell within the 150 µm acceptable deviation vs. lab-scanner control, indicating scanning error as the dominant misfit source.
+
+## 세줄요약
+
+
+In-vitro micro-CT 연구 (4-임플란트 무치악 모델에서 TRIOS 5 IOS 스캔으로 제작한 티타늄 전악 프레임워크 10개): 단일나사검사 micro-CT 기준 전부 부적합, 최종 체결 micro-CT 기준 3/10만 적합;
+
+주관적 비수동성(non-passivity)률 60%(SST)·80%(SRT);
+
+실험실 스캐너 대비 150μm 이내에 든 구강스캔은 2/10에 불과해 오적합의 주된 원인이 스캔 오차임을 시사.
 
 ## 1. Document Information
 

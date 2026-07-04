@@ -15,13 +15,21 @@ text_filename: al-aroomi-2025-cgf-third-molar-postop-sr.txt
 
 기존 [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] 및 [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]]는 PRP/PRF/L-PRF를 다루지만, CGF(Concentrated Growth Factors)는 별도 원심분리 프로토콜로 생성되는 2세대 이후 농축물로 기존 SR에 포함되지 않음. 본 SR은 CGF 단독 효과를 평가한 첫 종합 review.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 11 RCTs evaluating CGF application after mandibular third molar extraction: pain improved in 75% of studies, swelling in 57%, analgesic use reduced in 100%, and radiographic bone fill improved in 80%; effects on trismus and alveolar osteitis remain uncertain.
+Systematic review of 11 RCTs evaluating concentrated growth factor (CGF) application after mandibular third molar extraction; meta-analysis not feasible due to high heterogeneity.
 
-## 한줄요약
+CGF reduced pain in 75% of studies, swelling in 57%, analgesic consumption in 100%, and improved radiographic bone fill in 80%; periodontal parameters distal to the second molar improved in all 4 evaluating studies; effects on trismus and alveolar osteitis remain uncertain.
 
-사랑니 발치 후 CGF(농축 성장인자) 적용을 평가한 11개 RCT SR — 통증 개선 75%, 부기 57%, 진통제 소비 100% 감소, 방사선 골충전 80% 개선; 개구제한·치조골염 효과는 불명확.
+CGF is a promising adjunct for third molar extraction recovery, particularly for pain, analgesic use, and bone fill, but standardized RCTs are needed to clarify its effect on trismus and dry-socket prevention.
+
+## 세줄요약
+
+사랑니 발치 후 농축성장인자(Concentrated Growth Factors, CGF) 적용을 평가한 11개 RCT 체계적 문헌고찰 — 이질성이 커 메타분석 불가.
+
+CGF는 통증 75% 개선, 부기 57%, 진통제 소비 100% 감소, 방사선 골충전 80% 개선; 제2대구치 원심 치주 파라미터 평가한 4편 전부 개선; 개구제한·치조골염(dry socket) 효과는 불명확.
+
+CGF는 사랑니 발치 후 통증·진통제 소비·골충전에 유망한 보조제이나, 개구제한 및 치조골염 예방 효과를 명확히 하려면 표준화된 대규모 RCT가 필요함.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral and Maxillofacial Surgery (JOMS)

@@ -17,13 +17,21 @@ text_filename: ayyad-2025-topical-vitamin-d-immediate-implants-rct.txt
 
 This RCT is distinct from the serum-deficiency literature on vitamin D and implants: instead of asking whether *systemic* hypovitaminosis D predicts failure, it tests **local/topical vitamin D3 (calcitriol) gel applied directly to the implant surface and osteotomy** as a bioactive adjunct at immediate placement — RCT-level human evidence for a delivery route that prior work covered mostly in animal/in-vitro models. It complements the systemic-deficiency syntheses: [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] (which also reviewed vitamin D implant coatings as an open question) and the osseointegration umbrella review [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]]. The 6-month ISQ endpoint (80 vs 75) is anchored to the loading-threshold framing in [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]].
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth-style two-arm RCT (n=24 immediate anterior-mandible implants, 12 control vs 12 + topical vitamin D3/calcitriol emulgel): the vitamin D arm showed significantly greater 6-month reductions in probing depth (1.17 vs 1.83 mm) and bleeding index (0.58 vs 1.42), lower day-7 pain (1.00 vs 2.50 VAS, 81.2% reduction), higher ISQ (80 vs 75), and higher bone density (+18.1% vs +6.4%).
+Two-arm parallel RCT (n=24 immediate anterior mandibular implants, 12 control vs 12 topical calcitriol emulgel, ASA I patients, Suez Canal University) testing local vitamin D3 application without bone grafting at the jumping gap over 6-month follow-up.
 
-## 한줄요약
+Topical calcitriol arm showed significantly better outcomes at 6 months: probing depth 1.17 vs 1.83 mm, bleeding index 0.58 vs 1.42, ISQ 80 vs 75, bone density +18.1% vs +6.4%, and VAS pain at day 7 was 1.00 vs 2.50 — all statistically significant.
 
-전악 하악 전치부 즉시 임플란트(Immediate Implant) 24개를 대상으로 한 2군 무작위대조시험(RCT, 대조 12 vs 국소 비타민 D3/칼시트리올(Calcitriol) 겔 12): 6개월째 칼시트리올군이 탐침깊이(Probing Depth, 1.17 vs 1.83 mm)·출혈지수(Bleeding Index, 0.58 vs 1.42) 감소, 7일째 통증(VAS 1.00 vs 2.50, 81.2% 감소), 임플란트 안정성 지수(Implant Stability Quotient, ISQ 80 vs 75), 골밀도(+18.1% vs +6.4%) 모두에서 유의하게 우수했다.
+Topical calcitriol is a promising adjunct for immediate implants in anterior mandible, but the small sample (n=24), short follow-up, and restriction to dense anterior bone limit generalizability to posterior/maxillary sites.
+
+## 세줄요약
+
+2군 병렬 RCT (하악 전치부 즉시 임플란트 24개, 대조군 12 vs 국소 칼시트리올(Calcitriol) 에멀젤군 12, ASA I 환자, 수에즈운하대학교) — 발치와 점프 간격에 골이식 없이 국소 비타민 D3 도포, 6개월 추적.
+
+6개월 국소 칼시트리올군: 탐침깊이(Probing Depth) 1.17 vs 1.83 mm, 출혈지수(Bleeding Index) 0.58 vs 1.42, 임플란트 안정성 지수(ISQ) 80 vs 75, 골밀도 +18.1% vs +6.4%, 7일째 통증(VAS) 1.00 vs 2.50 — 모두 통계적으로 유의.
+
+국소 칼시트리올은 하악 전치부 즉시 임플란트의 유망한 보조제이나, 소규모(24개)·단기 추적·치밀한 전치부 골에 국한된 설계로 후방부·상악으로의 일반화 한계.
 
 ## 1. Document Information
 

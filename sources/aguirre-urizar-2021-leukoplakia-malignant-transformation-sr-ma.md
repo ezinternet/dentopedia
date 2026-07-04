@@ -9,8 +9,21 @@ pdf_filename: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-최근 5년(2015–2020) OLK 악성전환 연구만 대상으로 한 최신 SR+MA: 전환율, 위험인자, 치료 효과 분석.
+## Three-line Summary
+
+SR+MA (32 studies, 2015–2020; PubMed/Embase/Cochrane, GRADE) focused exclusively on recent oral leukoplakia (OLK) malignant transformation data; median follow-up 6 years.
+
+Pooled malignant transformation rate was 3.5% (95% CI 2.2–5.1%); non-homogeneous type carried OR 4.1 increased risk, with lesion size >200 mm², female sex, and non-smoker status also showing elevated risk.
+
+Laser or surgical excision does not eliminate transformation risk — long-term surveillance remains mandatory; the non-smoker high-risk subgroup is a key clinical implication.
+
+## 세줄요약
+
+SR+MA(32편, 2015–2020년 연구만 대상; PubMed/Embase/Cochrane, GRADE): 구강백반증(OLK, Oral Leukoplakia) 악성전환율·위험인자·치료 효과 최신 분석; 추적 중앙값 6년.
+
+통합 악성전환율(Malignant Transformation Rate, MTR) 3.5%(95% CI 2.2–5.1%); 비균질형(non-homogeneous) OR 4.1, 병소 크기 >200 mm²·여성·비흡연자에서 위험 증가.
+
+레이저·수술 절제 후에도 전환 가능성이 잔존 — 장기 추적 필수; 비흡연자의 고위험 소견이 주요 임상적 시사점.
 
 ## 1. Document Information
 - **Title**: Malignant transformation of oral leukoplakia: Systematic review and meta-analysis of the last 5 years

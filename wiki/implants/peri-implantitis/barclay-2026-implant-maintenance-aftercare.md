@@ -19,13 +19,21 @@ relations:
     target: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative/clinical article (British Dental Journal 2026) arguing that as implants spread from the edentulous to the wider general population, a patient-focused peri-implant maintenance protocol is essential, framed by the 2018 periodontal classification which for the first time included peri-implant diseases and conditions.
+Narrative/clinical commentary (British Dental Journal 2026; abstract-only ingest) arguing that implants have shifted from early-edentulous to the broader general population, making patient-focused peri-implant maintenance essential.
 
-## 한줄요약
+The article frames this need within the 2018 periodontal classification — the first to formally include peri-implant diseases and conditions — with no quantitative outcomes reported.
 
-내러티브/임상 논문(British Dental Journal 2026) — 임플란트가 일반 인구로 확산됨에 따라 환자 중심 peri-implant 유지관리 프로토콜이 필수가 되었고, peri-implant 질환을 처음 포함한 2018 치주 신분류를 그 틀로 제시.
+Patient-tailored (not uniform) maintenance protocols are the clinical call-to-action; this article provides framing rather than effect estimates, and should be read alongside evidence-based supportive therapy reviews.
+
+## 세줄요약
+
+내러티브/임상 논평(British Dental Journal 2026; 초록만 수집): 임플란트 수혜자가 무치악 초기 환자에서 일반 인구 전반으로 확산됨에 따라 환자 중심 peri-implant 유지관리가 필수적이라고 주장.
+
+2018 치주 신분류(peri-implant 질환을 최초로 공식 포함)를 논의 틀로 삼으며, 정량적 결과 데이터는 없다.
+
+환자별 맞춤형(획일적이지 않은) 유지관리 프로토콜이 임상적 핵심 주장 — 이 논문은 틀 제시이고 효과 추정치는 근거 기반 지지치료 리뷰에서 보완해야 한다.
 
 > **Abstract-only ingest** — full text not retrieved (no PMC open access). Brief abstract; this page is a clinical-framing anchor, not a data source.
 

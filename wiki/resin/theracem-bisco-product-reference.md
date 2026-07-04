@@ -21,11 +21,19 @@ relations:
     target: tavangar-2022-calcium-silicate-cement-caries-dentin
 ---
 
-## One-line Summary
-Product reference for BISCO TheraCem, a calcium-silicate / 10-MDP dual-cure self-adhesive resin cement that releases Ca and fluoride and self-shifts to alkaline pH.
+## Three-line Summary
+Product reference (wiki synthesis) for BISCO TheraCem — a calcium-silicate / 10-MDP dual-cure self-adhesive resin cement indicated for luting zirconia, metal, and ceramic indirect restorations.
 
-## 한줄요약
-calcium silicate 기반·10-MDP 함유, Ca·fluoride 방출형 dual-cure 자가접착 레진시멘트 TheraCem(BISCO) 제품 reference.
+In vitro data (Mahrous 2020) show MDP-containing TheraCem produces higher µSBS on enamel, dentin, and zirconia than non-MDP self-adhesive cement; calcium-silicate component shifts pH to ~9 and releases Ca²⁺ to re-mineralize caries-affected dentin (Tavangar 2022).
+
+Key in vitro findings are largely from manufacturer-affiliated studies (Chen 2018, BISCO authors), limiting independence of the evidence, and long-term clinical survival data remain absent.
+
+## 세줄요약
+위키 합성 제품 레퍼런스 — BISCO TheraCem: calcium silicate + 10-MDP 기반 dual-cure 자가접착 레진시멘트, 지르코니아·금속·세라믹 간접 수복물 합착 적응증.
+
+In vitro 결과(Mahrous 2020): MDP 함유 TheraCem이 non-MDP 자가접착 시멘트 대비 법랑질·상아질·지르코니아 µSBS 우위; calcium silicate 성분이 pH ~9로 전환되며 Ca²⁺ 방출로 우식 상아질 재광화(Tavangar 2022).
+
+핵심 특성 근거가 제조사 소속 저자 연구(Chen 2018, BISCO)에 편중되고 장기 임상 생존율 데이터 부재 — 독립 재현 및 임상 연구 필요.
 
 ## 개요
 calcium silicate 기반·10-MDP 함유·calcium 및 fluoride 방출형 dual-cure self-adhesive resin cement. [합의수준] 별도 접착 전처리 없이 간접 수복물을 합착하며, 초기 산성 pH에서 알칼리(~pH 9)로 전환되는 점과 지르코니아 결합 강점이 특징이다. [근거강함] 지르코니아·금속·세라믹 crown·bridge·post·inlay 합착에 쓰인다. [합의수준]

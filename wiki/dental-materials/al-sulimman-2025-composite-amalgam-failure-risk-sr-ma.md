@@ -16,11 +16,21 @@ relations:
     target: tobias-2024-amalgam-composite-survival-big-data
 ---
 
-## One-line Summary
-SR+MA of composite resin vs amalgam failure risk (Int Dent J 2025, 13 studies): RR 0.96 (95% CI 0.68–1.34), no statistically significant difference; failure proportions ranged 0–50% for amalgam and 0–62.7% for composite; heterogeneity in failure definitions is the key limitation.
+## Three-line Summary
 
-## 한줄요약
-복합레진 vs 아말감 실패위험 SR+MA (Int Dent J 2025): 13편; RR 0.96 (95% CI 0.68–1.34), 통계적으로 유의한 차이 없음; 실패비율 아말감 0–50%, 레진 0–62.7%; 연구 간 실패 정의 이질성이 핵심 제한점.
+SR+MA (PRISMA; PubMed, Cochrane, Google Scholar; 13 studies; ≥12 months follow-up; 1990 onward) comparing failure risk of composite resin versus amalgam in permanent posterior teeth.
+
+Random-effects meta-analysis yielded RR 0.96 (95% CI 0.68–1.34) — no statistically significant difference — with amalgam failure proportions 0–50% and composite 0–62.7%, and no publication bias (Egger's p>0.05).
+
+Heterogeneity in failure definitions across studies is the key limitation; the null RR contradicts real-world big-data findings (Tobias 2024: HR 1.29 for composite), and standardized failure criteria are needed for future studies.
+
+## 세줄요약
+
+SR+MA(PRISMA; PubMed·Cochrane·Google Scholar; 13편; 추적 ≥12개월; 1990~): 영구 구치부 복합레진(Composite Resin) vs 아말감(Amalgam) 수복물 실패 위험 비교.
+
+무작위 효과 메타분석: RR 0.96(95% CI 0.68–1.34) — 통계적 유의차 없음; 아말감 실패비율 0–50%, 레진 0–62.7%; 출판 비뚤림 없음(Egger's p>0.05).
+
+연구 간 실패 정의 이질성이 핵심 제한점 — Tobias 2024(빅데이터 HR 1.29 레진 불리)와 결과 상충; 표준화된 실패 기준과 교란 통제가 요구됨.
 
 ## Summary
 Systematic review and meta-analysis (PRISMA) comparing failure risk of composite resin vs amalgam restorations in permanent posterior teeth. Published online June 26, 2025 (International Dental Journal, Elsevier/FDI). Databases: PubMed, Cochrane, Google Scholar. Inclusion: clinical trials and observational studies ≥12 months follow-up; English language; studies from 1990 onward.

@@ -13,13 +13,23 @@ source_collection: external
 
 This GRADE systematic review is the evidence backbone for the overview's "risk-stratify, don't reflex-restore" thesis: it quantifies that occlusal changes after posterior tooth loss are mostly limited (on average up to ~2 mm) and rates the quality of evidence as VERY LOW, so tooth replacement should not be regarded as the default mainstay of therapy. Directly supports the ≤2 mm limited-change claim and the decision-tree framing in [[wiki/overviews/unopposed-tooth-overeruption-overview]] and reinforces the conservative-management direction of [[wiki/occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]].
 
-## One-line Summary
+## Three-line Summary
+
 
 GRADE systematic review (7 included studies of posterior bounded edentulous spaces in adults) finding that mesio-distal migration and overeruption after tooth loss are mostly limited (on average up to ~2 mm), on VERY LOW quality evidence — so prosthetic replacement should not be considered the default mainstay of therapy.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 성인 후방 경계성 무치악 공간(BES) 7편을 GRADE로 평가한 체계적 문헌고찰 — 치아 상실 후 근원심 이동·정출은 대개 제한적(평균 ~2 mm 이하)이고 근거의 질은 "매우 낮음"이라, 보철 수복을 자동적인 1차 치료로 볼 수 없다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

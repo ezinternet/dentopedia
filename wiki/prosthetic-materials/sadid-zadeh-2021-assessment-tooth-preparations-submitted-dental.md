@@ -16,13 +16,21 @@ relations:
     target: tiu-2015-clinical-tooth-preparations-measuring-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional STL audit (n=392 posterior preparations from 3 labs) found most monolithic zirconia preparations exceeded 20° TOC and >50% had undercut, unsupported enamel, and/or unacceptable finish-line quality.
+Cross-sectional STL audit of 392 posterior tooth preparations for monolithic zirconia crowns from 3 Buffalo, NY CAD-CAM laboratories (May–June 2017; 2 calibrated evaluators, 3Shape 3D Viewer).
 
-## 한줄요약
+Most preparations exceeded the recommended 20° TOC; occluso-cervical dimension was below threshold in 39% of premolars, 77% of first molars, and 91% of second molars; >50% had undercut, unsupported enamel, and/or unacceptable finish-line quality.
 
-392개 후방치아 모놀리식 지르코니아 크라운 프렙(STL 파일) 단면조사: 대부분 총교합수렴각(TOC) 20° 초과, 50% 이상에서 언더컷·미지지 법랑질·부적합 변연선 품질이 확인되어 임상 프렙이 이상 기준에서 크게 벗어남.
+Real-world preparations broadly fail to meet guidelines for monolithic zirconia crowns; because milling cannot compensate for poor preparation geometry, defect screening at lab intake is warranted.
+
+## 세줄요약
+
+3개 버팔로 CAD-CAM 치기공소에 의뢰된 후방 치아 모놀리식 지르코니아 크라운 프렙 392개의 STL 파일 단면조사(2017년 5–6월; 교정된 평가자 2명, 3Shape 3D Viewer).
+
+대부분 TOC 20° 권고 초과; 교합-치경부 높이 부족 비율: 소구치 39%, 제1대구치 77%, 제2대구치 91%; 50% 이상에서 언더컷·미지지 법랑질·부적합 변연선 품질 확인.
+
+실제 임상 프렙이 모놀리식 지르코니아 지침을 광범위하게 미충족; 밀링으로 불량 프렙 형상을 보상할 수 없으므로 기공소 접수 시 결함 선별이 필요.
 
 ## Summary
 

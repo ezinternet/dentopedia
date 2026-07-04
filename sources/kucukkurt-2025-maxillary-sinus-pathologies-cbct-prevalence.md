@@ -17,13 +17,23 @@ text_filename: kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence.txt
 
 상악동 점막비후의 유병률과 치성 위험인자를 대규모 CBCT 코호트(n=1,000)로 정량화한 최신(2025) 연구. 기존 소규모 연구들([[sinus-lift/pseudocyst/yeung-2022-cbct-maxillary-sinus-pathology-review]], [[sinus-lift/pseudocyst/salari-2021-maxillary-sinus-pathologic-findings-cbct-implant]])의 유병률 추정치를 보강·확장함.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective CBCT study (n=1,000 scans) found 68% of dental implant candidates had maxillary sinus pathologies, with mucosal thickening most prevalent (47%), strongly linked to odontogenic factors including periapical lesions and periodontal disease.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 임플란트 후보 환자 1,000명 CBCT 분석: 68%에서 상악동 병변, 점막비후(47%)가 가장 흔했으며, 치근단 병변·치주질환과 강력한 연관성 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

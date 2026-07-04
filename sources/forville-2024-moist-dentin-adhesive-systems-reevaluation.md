@@ -16,13 +16,23 @@ text_filename: forville-2024-moist-dentin-adhesive-systems-reevaluation.txt
 
 Recent (2024) re-evaluation of the long-held wet/moist-bonding paradigm for the etch-and-rinse (ER) strategy — a clinically actionable test of whether dentin moisture state actually changes outcomes. Reinforces and broadens [[wiki/resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial]] (single RCT, n=36 NCCLs, 12 mo, no significant dry-vs-wet difference) by pooling five split-mouth RCTs (n=195, up to 5 y) and finding the same null result with GRADE-rated moderate certainty.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 5 split-mouth RCTs (195 patients, NCCLs, up to 5-y follow-up): dry- vs wet-bonding under the etch-and-rinse strategy showed no significant difference in retention or postoperative sensitivity (moderate certainty, GRADE).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰+메타분석 (분할구강 RCT 5편, 환자 195명, 비우식성 치경부 병소, 최대 5년 추적): 산부식-수세 (Etch-and-Rinse, ER) 전략에서 건조 접착 vs 습윤 접착 간 유지율·술후 과민증에 유의한 차이 없음 (GRADE 중등도 확실성).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

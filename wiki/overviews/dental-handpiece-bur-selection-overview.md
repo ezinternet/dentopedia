@@ -26,13 +26,21 @@ tags: [dental-handpiece, air-turbine, high-speed, low-speed, dental-bur, diamond
 > - **bur 재사용·멸균 현실**: 임상의 85%가 마모될 때까지 재사용하고 효율저하 인지는 33%에 불과 — 절삭효율 저하·교차감염 관리 측면의 실무 격차 (Sharma, 초록만).
 > - **남은 근거 공백 (Rule #1 정직성)**: "전동 하이스피드 vs 에어터빈의 절삭효율·토크·발열", "다이아몬드 vs 카바이드 정량 절삭효율", "핸드피스 엔진 기전"의 핵심 논문(Ercoli 2009, Peters 2019, Pegg 2019)은 여전히 **위키 미보유** — 해당 분기는 근거 공백으로 표시하며 PDF 확보 시 보강 예정. (레이저-vs-bur 임상 결과 공백은 Esteves-Oliveira 2025 인제스트로 메움 — 2026-06-25.)
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 4 held papers framing dental rotary-cutting-instrument selection across three axes — handpiece type (air turbine vs electric high-speed vs low-speed), bur type (diamond vs tungsten carbide), and erbium-laser alternatives — where the strongest current evidence concerns aerosol/exposure (air turbine dominates sub-micron aerosol; suction is the key mitigator) and laser-vs-bur equivalence for microleakage, while the core cutting-efficiency/heat indication evidence is an explicit gap.
+Synthesis of 5 papers framing dental rotary-cutting-instrument selection across three axes: on the aerosol/exposure axis, air-turbine handpieces generate the highest sub-micron (<1 µm) aerosol and should be substituted by electric high-speed in epidemic conditions; high-volume evacuation (HVE) cuts aerosol ~4× vs saliva ejector and up to 88% with wide custom tips (Matys 2020 in-vitro; Lahdentausta 2022 prospective n=253); 85% of clinicians reuse burs until worn while only 33% recognize efficiency decline (Sharma 2014 survey).
 
-## 한줄요약
+On the laser-vs-bur axis, Er,Cr:YSGG cavity preparation is equivalent to bur for microleakage (Zhang 2020 SR+MA, no significant difference); erbium-laser caries removal matches bur on restoration survival (RR 1.51 NS) and pulp vitality (RR 1.46 NS) but significantly reduces anesthesia need (RR 0.29) and pain (RR 0.35) at the cost of longer procedure time (MD +2.23 min) across 20 in-vivo RCTs (Esteves-Oliveira 2025 SR+MA; GRADE low/very-low); acid-etching after laser prep improves self-etch adhesive sealing (RR=2.69) but not etch-and-rinse.
 
-치과 회전절삭기구 선택을 핸드피스 종류·bur 종류·레이저 대안의 3축으로 종합한 4편 기반 오버뷰 — 보유 근거가 가장 강한 영역은 에어로졸/노출(에어터빈이 미세 에어로졸 압도, 흡입이 핵심 완화책)과 레이저-vs-bur 미세누출 동등성이며, 절삭효율·발열 적응증의 핵심 근거는 공백으로 명시한다.
+Clinical bottom line: laser is a patient-comfort/anesthesia-reduction option, not a microleakage or survival superiority device — choose it for anxious patients or those preferring reduced anesthesia, not for efficiency; core cutting-efficiency, torque, and pulpal-heat evidence for handpiece type and bur selection remains an explicit evidence gap in this corpus (key papers not held).
+
+## 세줄요약
+
+5편 종합(핸드피스 종류·bur 종류·레이저 대안의 3축): 에어로졸/노출 축 — 에어터빈이 <1µm 미세에어로졸 압도; HVE가 4배·최대 88% 저감(Matys 2020); 임상의 85%가 bur 마모까지 재사용하나 33%만 효율 저하 인지(Sharma 2014).
+
+레이저 vs bur 축 — Er,Cr:YSGG 와동형성은 bur와 미세누출 동등(Zhang 2020 SR+MA); 레이저 우식 제거는 수복물 생존·치수생활력 bur와 동등이나 마취 필요(RR 0.29)·통증(RR 0.35) 유의 감소, 단 시술 시간 증가(MD +2.23분)(Esteves-Oliveira 2025 SR+MA); 레이저 형성면은 자가부식 접착제에 산부식 추가 필요(RR=2.69).
+
+임상 결론: 레이저는 환자 편의·마취 절감 도구, 결과 우월이 아님; 불안 환자·마취 기피에 적응; 핸드피스 종류·bur 선택의 절삭효율·발열 근거는 이 보유 논문들의 명시적 공백.
 
 ## Thesis
 

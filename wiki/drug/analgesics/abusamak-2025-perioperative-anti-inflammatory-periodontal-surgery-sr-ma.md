@@ -16,13 +16,21 @@ relations:
     target: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 6 RCTs (n=262) in periodontal surgery: NSAIDs outperform corticosteroids (SAIDs) for early pain control (0–6 h, MD 1.00–2.33 on 100-pt VAS), SAIDs outperform NSAIDs at 48 h (MD −0.23), swelling and rescue medication comparable — moderate-to-low GRADE certainty; clinically insignificant differences overall.
+First SR+MA directly comparing perioperative steroidal (SAIDs: dexamethasone) vs nonsteroidal anti-inflammatory drugs (NSAIDs: ibuprofen, etoricoxib, celecoxib) in adults undergoing periodontal surgery (6 RCTs, n=262; PROSPERO CRD42024568891; GRADE assessed).
 
-## 한줄요약
+NSAIDs are statistically superior for early pain reduction (0–6 h, MD 1.00–2.33 on 100-pt VAS); SAIDs outperform NSAIDs at 48 h (MD −0.23); swelling and rescue analgesic consumption are comparable between drug classes; all differences are likely below the minimal clinically important difference given GRADE moderate-to-low certainty.
 
-치주수술 후 항염증제 비교 SR+MA (6 RCTs, n=262): NSAIDs는 조기 통증(0–6시간) 억제에, 스테로이드(SAIDs)는 48시간 후 통증 감소에 통계적으로 유리하나 임상적 차이는 미미; 부종·추가 진통제는 동등 — GRADE 근거 수준 중등도-낮음.
+Pharmacokinetics explain the time-dependent reversal (NSAIDs: faster onset; SAIDs: 6–12 h half-life); for complex/plastic periodontal procedures, SAIDs are preferred for wound-healing protection; for simple procedures, either drug class is acceptable — robust clinical guidelines require further multicentric RCTs.
+
+## 세줄요약
+
+스테로이드성(SAID: 덱사메타손(Dexamethasone)) vs 비스테로이드성 소염진통제(NSAID: 이부프로펜·에토리콕시브·셀레콕시브)를 치주수술에서 직접 비교한 최초 SR+MA(RCT 6편, n=262; PROSPERO CRD42024568891; GRADE 평가).
+
+NSAID가 조기 통증(0–6시간) 감소에 통계적으로 우월(MD 1.00–2.33/100점 VAS); SAID가 48시간 후 통증에 우월(MD −0.23); 부종·구제 진통제 소비는 두 군 동등 — 모든 차이는 GRADE 중등도-낮음으로 임상적 최소 유의차 이하일 가능성.
+
+약동학이 시간 의존적 역전을 설명(NSAID: 빠른 발현; SAID: 반감기 6–12시간); 복잡/성형 치주수술(GBR·결합조직이식)에서는 창상 열개 방지를 위해 SAID 선호; 단순 시술(개방피판소파)에서는 어느 쪽도 수용 가능 — 다기관 RCT가 더 강한 지침 작성에 필요.
 
 ## Summary
 

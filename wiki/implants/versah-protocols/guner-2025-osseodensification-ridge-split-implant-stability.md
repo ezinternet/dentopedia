@@ -21,13 +21,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=268 implants, 65 patients) of OD vs conventional Esset kit in ridge-split: OD significantly improved ISQ in maxilla and mandibular posterior (all ISQ ≥65), with equivalent horizontal bone gain.
+Retrospective study (n=268 Osstem implants, 65 patients) comparing osseodensification (OD, Densah burs) vs conventional ridge-split (Osstem Esset kit) with simultaneous implant placement, measuring ISQ at placement (T0) and 4-month abutment connection (T1) plus CBCT bone width.
 
-## 한줄요약
+OD produced significantly higher ISQ in maxillary anterior, maxillary posterior, and mandibular posterior at T0 and/or T1 (all p<0.01); all OD implants maintained ISQ ≥65 (prosthetic loading threshold) while the conventional minimum was 62 at T0; horizontal bone gain was equivalent between techniques.
 
-후향적 연구(268개 임플란트, 65명): 상악 및 하악 구치부에서 OD가 유의하게 높은 ISQ를 보였으며(모두 ≥65 달성), 수평 골폭 획득은 동등했다.
+OD's ISQ advantage is region-specific — most meaningful in low-density maxillary bone; in dense mandibular anterior bone (D1–D2), OD adds no ISQ benefit; OD does not compromise augmentation outcomes.
+
+## 세줄요약
+
+후향적 연구 (268개 임플란트, 65명): 치조제 분리술 (Ridge Split) + 즉시 식립 시 골밀도화 (Osseodensification, OD, Densah bur) vs 기존 Esset 키트 비교 — 식립 시(T0) 및 4개월 지대주 연결(T1) ISQ와 CBCT 골폭 측정.
+
+OD가 상악 전·후방부 및 하악 구치부에서 T0/T1 ISQ 유의하게 우수(모두 p<0.01); 모든 OD 임플란트 ISQ ≥65(보철 부하 임계값) 유지, 기존법 최솟값 T0 62; 수평 골폭 획득은 두 기법 동등.
+
+OD의 ISQ 이점은 저밀도 상악골에서 가장 유의미함; 고밀도 하악 전방 골(D1-D2)에서는 OD 이점 없음; OD는 증대 결과를 손상시키지 않는다.
 
 ## Summary
 

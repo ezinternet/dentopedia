@@ -16,11 +16,21 @@ relations:
 tags: [dentist-patient-relationship, dpr, communication, trust, dental-anxiety, scoping-review, korea]
 ---
 
-## One-line Summary
-Scoping review (JBI; 1,727 records → 16 articles) of dentist–patient relationship determinants — 6 domains; "communication" most frequent (8×), then "trust" (6×); patient-level "dental fear/anxiety" commonly used to measure relationship quality.
+## Three-line Summary
 
-## 한줄요약
-의사-환자 관계 결정요인 scoping review(JBI, 1,727 → 16편) — 6개 domain. 최빈 요인은 "커뮤니케이션"(8회) > "신뢰"(6회); 환자 수준에서 "치과 공포/불안"이 관계 측정에 자주 사용.
+JBI scoping review (6 databases, July 2023; 1,727 records → 16 articles) mapping dentist–patient relationship (DPR) determinants into a 6-domain model: dentist / patient / society-environment / clinical-structure / clinical-process / outcome — with most determinants clustering in the clinical-process domain.
+
+Within clinical-process, communication was the single most frequently cited determinant (8 occurrences), followed by trust (6), and at the patient level dental fear/anxiety was repeatedly used to operationalize relationship quality.
+
+The field lacks a comprehensive validated DPR evaluation scale, and 14 of 16 studies took the patient's perspective only, leaving the dentist's contribution to the relationship under-studied.
+
+## 세줄요약
+
+JBI 범위 검토(scoping review; 6개 DB, 2023.7; 1,727편 → 16편): 치과의사-환자 관계(Dentist–Patient Relationship, DPR) 결정요인을 치과의사·환자·사회환경·임상구조·임상과정·결과의 6개 도메인으로 매핑 — 대부분이 임상과정 도메인에 집중.
+
+임상과정 내에서 커뮤니케이션(8회)이 가장 빈번한 결정요인, 이어 신뢰(6회); 환자 수준에서는 치과 공포/불안(Dental Fear/Anxiety)이 관계 질 측정에 반복 사용됨.
+
+포괄적·검증된 DPR 평가 도구가 없고, 16편 중 14편이 환자 관점만 채택해 치과의사 측 기여는 미연구 상태이다.
 
 ## Summary
 This Seoul National University scoping review provides the **conceptual umbrella** above the operational communication literature: rather than asserting that a good relationship matters on ethical grounds, it charts what the empirical literature actually identifies as **determinants** of the dentist–patient relationship (DPR). From 1,727 records, 16 articles were mapped into a 6-domain model — dentist, patient, society/environment, clinical structure, clinical process, and outcome. Most determinants cluster in the **clinical-process** domain, where **communication** is the single most frequently cited determinant (8 occurrences), followed by **trust** (6). At the patient level, **dental fear/anxiety** is repeatedly used to operationalize relationship quality — which is why this page sits at the hub linking the communication and anxiety subcategories. The authors note the field lacks a validated DPR scale and is overwhelmingly patient-perspective (14/16).

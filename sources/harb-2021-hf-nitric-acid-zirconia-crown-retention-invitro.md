@@ -9,7 +9,7 @@ pdf_filename: harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Materials 2021;14:960 (Mansoura/Zurich) — in vitro 2×2 factorial: zirconia crowns × (air-abrasion only vs air-abrasion + hot HF/HNO₃ etching) × (Panavia SA Cement vs GC LinkForce) on 40 premolars; hot acid etching significantly improves retention (p=0.001); cement type alone NS (p=0.882); best: air-abrasion + hot acid + Panavia SA.
 
 ## 1. Document Information

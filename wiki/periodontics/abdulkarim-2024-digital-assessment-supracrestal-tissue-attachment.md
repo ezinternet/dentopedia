@@ -22,13 +22,21 @@ relations:
     target: alam-2024-supracrestal-tissue-attachment-biologic-width
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective in-vivo digital-superimposition study (DICOM+STL, 19 patients / 203 teeth) — supracrestal tissue attachment dimension (STAD) averages 2.05 mm but is not universal: it is larger in mandibular vs maxillary and anterior vs posterior teeth, and inversely related to buccal bone thickness, gingival thickness, and keratinized tissue width.
+Retrospective in-vivo digital-superimposition study (DICOM+STL, 19 patients / 203 teeth) measuring supracrestal tissue attachment dimension (STAD) non-invasively by combining CBCT, intraoral scan, and clinical probing in periodontally healthy implant-planning patients.
 
-## 한줄요약
+Mean STAD was 2.05 mm (range 0.02–5.85 mm); mandibular teeth were larger than maxillary (p=0.001) and anterior/canine larger than posterior (p<0.001); STAD correlated inversely with buccal bone thickness (r=−0.419), gingival thickness (r=−0.283), and keratinized tissue width (r=−0.138).
 
-후향적 in-vivo 디지털 중첩 연구(DICOM+STL, 19명/203치) — 초치조상부 조직부착 치수(Supracrestal Tissue Attachment Dimension, STAD)는 평균 2.05 mm이지만 고정값이 아니며, 하악>상악·전치>구치에서 더 크고 협측 골두께(Buccal Bone Thickness, BBT)·치은두께(Gingival Thickness, GT)·각화치은폭(Keratinized Tissue Width, KTW)과는 역상관 → biologic width를 모든 치아에 2.04 mm로 적용하면 안 됨.
+A thin phenotype (thin bone + thin gingiva + narrow keratinized tissue) carries a larger STAD, meaning the biologic width that must be respected is patient- and tooth-specific — not a universal 2 mm.
+
+## 세줄요약
+
+후향적 in-vivo 디지털 중첩 연구(DICOM+STL, 19명/203치): CBCT·구강 스캔·임상 탐침을 병합해 초치조상부 조직부착 치수(Supracrestal Tissue Attachment Dimension, STAD)를 비침습적으로 측정.
+
+평균 STAD 2.05 mm(범위 0.02–5.85 mm); 하악>상악(p=0.001), 전치·견치>구치(p<0.001); 협측 골두께(Buccal Bone Thickness, BBT, r=−0.419)·치은두께(Gingival Thickness, GT, r=−0.283)·각화치은폭(Keratinized Tissue Width, KTW, r=−0.138)과 역상관.
+
+얇은 표현형(Thin Phenotype, 얇은 골·치은·좁은 각화치은 공동 발현)에서 STAD가 더 크므로, biologic width는 모든 치아에 2 mm 고정 적용이 아닌 환자·치아별 개별 평가가 필요함.
 
 ## Summary
 

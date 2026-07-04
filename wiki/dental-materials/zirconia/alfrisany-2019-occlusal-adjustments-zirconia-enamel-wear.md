@@ -13,11 +13,19 @@ source_collection: external
 tags: [Y-TZP, occlusal-adjustment, grinding, glazing, porcelain-veneer, enamel-wear, surface-roughness, Toronto]
 ---
 
-## One-line Summary
-In vitro (J Adv Prosthodont 2019): Y-TZP (Lava/Bruxzir) under 5 conditions over 500,000 cycles — glazed zirconia showed increased roughness post-simulation (partial glaze delamination); polished Zr caused more antagonist wear than glazed or porcelain-veneered Zr; surface material matters more than finishing technique.
+## Three-line Summary
+In vitro chewing simulation (J Adv Prosthodont 2019; University of Toronto) testing Y-TZP zirconia (Lava and Bruxzir) under 5 finishing conditions against artificial enamel (steatite) over 500,000 cycles.
 
-## 한줄요약
-in-vitro(J Adv Prosthodont 2019): Y-TZP(Lava/Bruxzir) 5조건 500,000사이클 — 유약 지르코니아: 저작시뮬 후 조도 증가(유약층 부분 탈락); 연마 Zr이 유약·PVZ보다 대합치 마모 ↑; 재료 표면이 연마기법보다 중요.
+Polished zirconia caused more antagonist steatite volume loss (0.09 mm³) than glazed or porcelain-veneered zirconia (both ~0.02 mm³); glazed zirconia surface roughness increased after simulation, indicating partial glaze delamination.
+
+The surface material present at time of contact — not the finishing technique — determines antagonist wear; in vivo glaze removal over time may make clinical wear patterns converge between finishing methods.
+
+## 세줄요약
+인비트로 저작 시뮬레이션(J Adv Prosthodont 2019; 토론토 대학교): Y-TZP 지르코니아(Lava·Bruxzir) 5가지 마무리 조건에서 인공 에나멜(규산염, Steatite) 대비 500,000 사이클 시험.
+
+연마(Polished) 지르코니아가 유약(Glazed) 또는 도재 비니어 지르코니아(Porcelain-Veneered Zirconia, PVZ, 각 ~0.02 mm³)보다 스테아타이트 부피 손실 더 큼(0.09 mm³); 유약 지르코니아 표면 조도는 시뮬 후 증가 → 유약층 부분 탈락 확인.
+
+접촉 시점의 표면 재료가 대합치 마모를 결정하는 핵심 인자; 구강 내 유약 소실로 시간이 지나면 마무리 방법 간 마모 패턴이 수렴할 가능성 있음.
 
 ## Summary
 University of Toronto study revealing the counterintuitive finding that polished zirconia causes MORE artificial enamel wear than glazed or porcelain-veneered zirconia, and that the glaze layer is partially removed during chewing simulation, increasing roughness over time.

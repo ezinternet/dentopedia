@@ -16,13 +16,21 @@ relations:
     target: khafaji-2023-scattered-dose-eye-dentistry-cbct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-AAOMR position statement: discontinue gonadal/pelvic/fetal AND thyroid shielding for intraoral, panoramic, cephalometric, and CBCT imaging.
+AAOMR consensus position paper (ad hoc committee reviewing radiation-protection monographs and dosimetry studies) addressing patient shielding practices in all dentomaxillofacial radiographic modalities including intraoral, panoramic, cephalometric, and CBCT.
 
-## 한줄요약
+The recommendation is to discontinue both gonadal/pelvic/fetal shielding (no radiation-induced heritable effects demonstrated in humans; negligible gonad/fetus dose) and thyroid shielding (negligible thyroid cancer risk from dental imaging; thyroid collars can degrade images and require retakes).
 
-AAOMR 합의 권고: 구내·파노라마·측모두부·CBCT에서 생식선/골반/태아 차폐 및 갑상선 차폐 모두 중단.
+Regulators are called to update state/local rules accordingly; routine contact shielding provides negligible radiation-protection benefit and may compromise diagnostic quality.
+
+## 세줄요약
+
+구내·파노라마·측모두부·CBCT를 포함한 치과방사선 모든 모달리티의 환자 차폐 관행을 다룬 미국 구강악안면방사선학회(American Academy of Oral and Maxillofacial Radiology, AAOMR) 합의 입장문(특별위원회 검토).
+
+생식선/골반/태아 차폐 및 갑상선 차폐 모두 중단 권고 — 방사선 유발 유전적 영향 인체 근거 없음, 생식선·태아·갑상선 선량 미미; 갑상선 차폐대(Thyroid Collar)는 오히려 영상을 훼손해 재촬영을 유발.
+
+규제기관에 주·지방 규정 개정 촉구; 루틴 접촉 차폐는 방사선 방호 이점 없고 진단 화질을 손상시킬 수 있음.
 
 ## Summary
 

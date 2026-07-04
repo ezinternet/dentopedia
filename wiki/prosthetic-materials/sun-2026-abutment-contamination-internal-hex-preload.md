@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-In vitro study (n=90) demonstrating that abutment contamination within internal hexagonal connections reduces initial preload even at partial contamination, while extensive contamination additionally accelerates cyclic-loading-induced preload loss via two mechanistically distinct stages.
+## Three-line Summary
 
-## 한줄요약
-체외 연구 (n=90): 내부 육각형 연결부 어버트먼트 오염 시 부분 오염만으로도 초기 역토크값 (Reverse Torque Value, RTV) 감소; 완전 오염 (CT6)은 반복하중 (Cyclic Loading) 후 예비하중 손실 (Preload Loss)을 추가 가속화.
+In vitro study (n=90, three groups: CT0 clean, CT3 partial contamination, CT6 full contamination; 30 Ncm tightening; ISO 14801:2016 cyclic loading 90 N × 240,000 cycles) examining how abutment contamination in internal hexagonal connections affects preload formation and maintenance.
+
+Partial contamination (CT3) reduced initial RTV equivalently to full contamination (CT6), establishing a threshold effect; only CT6 significantly accelerated cyclic-loading-induced preload loss (ΔRTV CT6 > CT0 ≈ CT3); SEM confirmed line-angle surface wear in CT6.
+
+Any degree of internal hexagon surface contamination compromises initial preload; thorough decontamination before abutment seating is essential to preserve the integrity of the implant-abutment joint.
+
+## 세줄요약
+
+체외 연구(n=90: CT0 청결·CT3 부분 오염·CT6 완전 오염, 30 N·cm 체결, ISO 14801:2016 반복하중 90 N×240,000회): 내부 육각형 연결부 어버트먼트 오염이 예압(preload) 형성과 유지에 미치는 영향 분석.
+
+초기 역토크값(Reverse Torque Value, RTV)은 부분 오염(CT3)만으로도 완전 오염(CT6)과 동등하게 감소하는 임계 효과(threshold effect) 확인; 반복하중 후 예압 소실(ΔRTV) 가속은 CT6에서만 유의하게 증가; SEM에서 CT6의 헥스 면 모서리 표면 마모 확인.
+
+내부 육각형 표면의 어떤 오염도 초기 예압을 손상시키므로, 어버트먼트 장착 전 오염 제거(decontamination)가 임플란트-어버트먼트 연결부 안정성 유지의 핵심.
 
 ## Summary
 This in vitro study investigated how abutment surface contamination within internal hexagonal implant-abutment connections affects (1) initial preload formation and (2) preload loss after cyclic loading. Ninety titanium implant-abutment assemblies were divided into three groups: no contamination (CT0), contamination on 3 of 6 hexagonal surfaces (CT3), and contamination on all 6 surfaces (CT6). Contamination was simulated using dental stone applied to designated internal surfaces. Abutment screws were tightened to 30 N·cm, and reverse torque values (RTV) were measured before and after ISO 14801:2016 cyclic loading (90 N, 2 Hz, 240,000 cycles).

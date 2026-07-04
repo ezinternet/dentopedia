@@ -9,8 +9,21 @@ pdf_filename: al-sulimman-2025-composite-amalgam-failure-risk-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-복합레진 vs 아말감 실패위험 SR+MA (2025, Int Dent J): 13편; RR 0.96 (0.68–1.34), 두 재료 간 유의한 차이 없음; 아말감 0–50%, 레진 0–62.7% 실패비율.
+## Three-line Summary
+
+SR+MA (13 clinical/observational studies; permanent posterior teeth, ≥12-month follow-up) comparing failure risk of composite resin vs amalgam restorations.
+
+Pooled relative risk was 0.96 (95% CI 0.68–1.34), indicating no statistically significant difference in failure risk between composite and amalgam; failure proportions ranged widely (amalgam 0–50%, composite 0–62.7%) with no significant publication bias (Egger's p>0.05).
+
+Existing evidence is insufficient to declare one material superior; future systematic reviews need to control for caries risk, tooth position, surface number, and operator skill before recommending routine material substitution.
+
+## 세줄요약
+
+SR+MA (임상·관찰 연구 13편; 영구 구치부, 추적 ≥12개월) — 복합레진 vs 아말감 수복물 실패 위험 비교.
+
+풀링 상대위험도(Relative Risk, RR) 0.96 (95% CI 0.68–1.34) — 두 재료 간 실패 위험 유의차 없음; 실패율 범위 넓음(아말감 0–50%, 레진 0–62.7%), 출판 편향 유의하지 않음(Egger p>0.05).
+
+현존 근거는 어느 재료도 우월하다고 선언하기에 불충분; 우식 위험도·치아 위치·치면 수·술자 숙련도를 통제한 추가 체계적 문헌고찰이 필요.
 
 ## 1. Document Information
 - **Journal**: International Dental Journal (Elsevier/FDI), 2025

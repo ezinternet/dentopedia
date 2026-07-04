@@ -9,7 +9,7 @@ pdf_filename: nowicka-2015-tomographic-reparative-dentin-pulp-capping.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 DPC 4재료(Ca(OH)₂, MTA, Biodentine, Single Bond Universal) CT 평가(44개 인간 치아): Biodentine·MTA가 완전한 수복상아질 교(dentin bridge) 형성 우위.
 
 ## 1. Document Information

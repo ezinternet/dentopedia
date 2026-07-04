@@ -14,11 +14,21 @@ source_collection: external
 tags: [ridge-preservation, socket-grafting, bone-graft, barrier-membrane, horizontal-resorption, review]
 ---
 
-## One-line Summary
-Narrative literature review: unassisted post-extraction healing loses ~0.5–0.9 mm vertical and ~4.5–6.1 mm horizontal (~50%) ridge dimension over 12 months, with two-thirds of the loss within 3 months; all validated ridge-preservation techniques outperform blood clot alone, but no single best technique exists.
+## Three-line Summary
 
-## 한줄요약
-리뷰: 자연치유 = 수직 1mm + 수평 4–6mm(50%) 소실, 2/3가 3개월 내; 모든 치조제보존술이 혈전보다 우수; 단일 우수술식 없음
+Narrative literature review (Open Dentistry Journal 2014) synthesizing evidence on post-extraction ridge resorption and ridge-preservation techniques, including socket healing stages and comparative outcomes of graft and membrane strategies.
+
+Unassisted healing over 12 months causes ~0.5–0.9 mm vertical and ~4.5–6.1 mm horizontal (~50%) ridge loss, with two-thirds occurring within 3 months; all validated ridge-preservation techniques (graft alone, graft + membrane, membrane alone) outperform blood clot healing.
+
+No single best technique exists; horizontal loss dominates and occurs early, supporting immediate ridge preservation at time of extraction as the most effective intervention timing.
+
+## 세줄요약
+
+서술적 문헌 고찰 (The Open Dentistry Journal 2014): 발치 후 치조제 흡수와 치조제 보존술 근거를 발치와 치유 단계 및 술식별 비교 결과와 함께 정리.
+
+자연치유 12개월: 수직 0.5–0.9 mm + 수평 4.5–6.1 mm (~50%) 소실, 소실의 2/3가 3개월 내 발생; 모든 검증된 보존술 (골이식재 단독·골이식재+막·막 단독)은 혈전 단독보다 우수.
+
+단일 최우수 기법 없음; 수평 소실이 지배적이고 조기 발생 → 발치 즉시 보존술 시행이 가장 효과적인 개입 시점.
 
 ## Summary
 발치 후 치조제 보존술 문헌 고찰. 자연 치유 시 **수직 소실 ~1mm, 수평 소실 4-6mm(~50%)**; 소실의 2/3이 발치 후 3개월 내 발생. 모든 검증된 보존술이 혈병 단독보다 우수; 단일 최우수 기법은 없음.

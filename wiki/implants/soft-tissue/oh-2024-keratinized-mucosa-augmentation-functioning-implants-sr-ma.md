@@ -18,11 +18,21 @@ relations:
     target: stefanini-2023-soft-tissue-augmentation-peri-implant-sr
 ---
 
-## One-line Summary
-SR+MA (11 clinical studies, 290 participants): around functioning implants, FGG gained a weighted mean 2.6 mm of keratinized mucosa with reduced mucosal inflammation and no crestal bone change up to 4 years, while CTG reduced peri-implant mucosal recession by a weighted mean 2 mm.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(임상 11편, 290명): 기능 중인 임플란트에서 FGG는 각화점막을 가중평균 2.6 mm 늘리고 염증을 줄였으며 4년까지 치조정골 변화가 없었고, CTG는 점막 퇴축을 가중평균 2 mm 감소시켰다.
+SR+MA (11 clinical studies, 290 participants) specifically addressing soft-tissue grafting around already-restored, functioning implants — answering the maintenance-phase grafting question rather than the placement-time question.
+
+FGG achieved a weighted mean KM gain of 2.6 mm with reduced mucosal inflammation and stable crestal bone up to 4 years; CTG reduced peri-implant mucosal recession by a weighted mean 2 mm; lack of KM was confirmed associated with greater peri-implant mucosal inflammation.
+
+FGG is the graft of choice for keratinized mucosa building around functioning implants, while CTG addresses recession — the two grafts have distinct but complementary clinical roles even in the maintenance phase.
+
+## 세줄요약
+
+SR+MA(임상 11편, 290명): 이미 최종 보철이 장착된 기능 중인 임플란트에서의 연조직 이식 효과를 평가한 — 식립 시가 아닌 유지 관리 단계의 이식 질문에 답하였다.
+
+유리치은이식(Free Gingival Graft, FGG)은 각화점막(KM) 가중평균 2.6 mm 증가·점막 염증 감소·4년까지 치조정골 변화 없음; 결합조직이식(CTG)은 임플란트 주위 점막 퇴축 가중평균 2 mm 감소; KM 부재가 임플란트 주위 염증 증가와 연관 확인.
+
+기능 중인 임플란트에서 FGG는 KM 조성에, CTG는 퇴축 관리에 상호 보완적 역할을 가지며 두 이식재는 유지 관리 단계에서도 명확히 구별되는 임상 적응증을 지닌다.
 
 ## Summary
 This SR+MA isolates the **therapeutic** question — once an implant is already restored and functioning, what does soft-tissue grafting actually achieve? From 573 retrieved publications, 11 clinical studies (290 participants) were pooled and split by autogenous graft type. The result is a clean division of labor: **FGG is the keratinized-mucosa builder** (weighted mean KM gain 2.6 mm, with reduced mucosal inflammation and stable crestal bone to 4 years), while **CTG is the recession manager** (weighted mean mucosal recession reduction 2 mm). It also re-confirms that a lack of KM is associated with greater peri-implant mucosal inflammation.

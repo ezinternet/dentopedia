@@ -16,13 +16,21 @@ text_filename: bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct.txt
 
 소아 지르코니아 크라운(paediatric zirconia crown)의 효능 근거는 늘고 있으나, **합착제(luting agent) 선택**에 대한 임상 근거는 빈약하다. [[wiki/caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]]는 지르코니아 vs 스테인리스강 크라운(SSC)의 *크라운 종류* 비교를 다루지만 합착제 변수는 다루지 않는다. 본 36개월 split-mouth RCT (Bani-Hani 2026)는 글래스아이오노머시멘트(Glass Ionomer Cement, GIC) vs 자가접착 레진시멘트(self-adhesive resin cement)를 동일 환자 내에서 직접 비교해 그 합착제 공백을 메우는 자매 논문이다.
 
-## One-line Summary
+## Three-line Summary
 
-36-month split-mouth RCT (38 children, 64 pair-matched primary incisors / 128 crowns) — GIC (95.3% retention) vs self-adhesive resin cement (100% retention) for luting paediatric zirconia crowns showed no statistically significant difference in retention or gingival health; GIC is a clinically acceptable alternative.
+36-month split-mouth RCT (38 children aged 3–5, 128 primary incisors) comparing GIC vs self-adhesive resin cement for luting paediatric zirconia crowns; recall at 1-week, 1-, 3-, 6-, 12-, 24-, and 36-months.
 
-## 한줄요약
+GIC retention 95.3% vs resin cement 100% (p > 0.05; 95% CI −0.5% to +9.9%); gingival index showed no significant difference between cements at any follow-up (effect size r = 0.02–0.11).
 
-36개월 split-mouth RCT (소아 38명, 짝지은 유전치 64쌍 / 크라운 128개) — 소아 지르코니아 크라운 합착에서 GIC(유지율 95.3%) vs 자가접착 레진시멘트(100%)는 유지율·치은 건강 모두 통계적 유의차가 없었고, GIC가 임상적으로 수용 가능한 대안이다.
+GIC is a clinically acceptable alternative to self-adhesive resin cement for luting zirconia crowns in primary anterior teeth, though the small sample limits power to detect a clinically meaningful resin advantage.
+
+## 세줄요약
+
+소아 38명(3–5세) 유전치 128개 36개월 split-mouth RCT — GIC vs 자가접착 레진시멘트로 소아 지르코니아 크라운 합착; 1주~36개월 추적.
+
+GIC 유지율 95.3% vs 레진시멘트 100% (p > 0.05; 95% CI −0.5%~+9.9%); 치은지수는 모든 추적 시점에서 군간 유의차 없음 (효과크기 r = 0.02–0.11).
+
+GIC는 유전치 소아 지르코니아 크라운 합착의 임상적으로 수용 가능한 대안이나, 소규모 표본으로 레진시멘트의 임상적 우위를 배제하기에는 검정력이 부족하다.
 
 ## 1. Document Information
 

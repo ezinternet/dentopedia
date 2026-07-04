@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-FEA study using CBCT-derived 3D models (3 clinical scenarios) found one-piece zirconia implants generated significantly lower labial-cervical cortical bone stress than titanium in healed and reduced-bone anterior maxillary models; no significant difference in grafted extraction sockets.
+FEA study (PLoS ONE 2020) used CBCT-derived 3D osseous models of three anterior maxillary scenarios (healed socket, reduced bone width, extraction socket with graft) to compare peri-implant cortical bone stress between one-piece zirconia (Y-TZP, ~200 GPa) and titanium alloy (Ti-6Al-4V, ~110 GPa) implants under 200 N axial and 178 N oblique loading.
 
-## 한줄요약
+In healed socket and reduced-bone-width models, zirconia generated significantly lower labial-cervical and palatal cortical bone stress than titanium (p<0.05); in the grafted extraction socket model, cortical bone stress was not significantly different, though zirconia was more protective of graft material.
 
-CBCT 기반 FEA 연구: 치유 소켓·골폭 감소 모델에서 일체형 지르코니아 임플란트가 순측-치경부 피질골 응력을 티타늄보다 유의하게 낮춤; 발거 후 이식 모델에서는 차이 없음.
+Zirconia one-piece implants may offer a biomechanical advantage in non-grafted anterior esthetic-zone scenarios by reducing peri-implant bone overloading; however, findings are in-silico only with 100% osseointegration assumed and require clinical validation.
+
+## 세줄요약
+
+FEA 연구(PLoS ONE 2020): CBCT 기반 3D 전치부 상악 3가지 모델(치유 소켓·골폭 감소·발거 후 이식 소켓)에서 일체형 Y-TZP 지르코니아(~200 GPa) vs Ti-6Al-4V 티타늄(~110 GPa) 임플란트 주위 피질골 응력 비교.
+
+치유 소켓·골폭 감소 모델: 지르코니아가 순측-치경부·구개측 피질골 응력 모두 유의하게 낮음(p<0.05); 발거 후 이식 모델: 피질골 응력 차이 없음(이식재에서는 지르코니아 유리).
+
+비이식 전치부 심미구역에서 지르코니아 일체형 임플란트가 피질골 과부하 감소 잠재적 이점 있으나, 100% 골유착 가정 및 in-silico 한계로 임상 검증이 필요하다.
 
 ## Summary
 

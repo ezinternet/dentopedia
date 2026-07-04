@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA (Straumann 4.1×10 mm, mandibular molar, 100 N axial/45° angular): segmented abutment reduced peri-implant bone stress dramatically under angular load (31 vs 126 MPa) at the cost of slightly higher abutment screw stress (430 vs 375 MPa).
+3D finite element analysis (CT-based mandibular first molar, Straumann tissue-level 4.1×10 mm, ANSYS Workbench; n=2 abutment designs: segmented RNSynocta vs non-segmented RNSynocta Gold; 100 N vertical and 100 N 45° angular loading).
 
-## 한줄요약
+Under angular loading, the segmented abutment reduced peri-implant bone von Mises stress dramatically (31 vs 126 MPa, 4× lower) and micro-strain (2400 vs 9400 μɛ, well below vs far above the 3000 μɛ overload threshold), at the cost of slightly higher abutment screw stress (430 vs 375 MPa); vertical loading showed similar bone stress between designs (21 vs 24 MPa).
 
-3D 유한요소분석(하악 대구치, 100 N 수직·45° 각도 하중): 세그먼트형 어버트먼트가 각도 하중 시 골 응력을 4배 낮추지만(31 vs 126 MPa), 나사 응력은 약간 높다(430 vs 375 MPa).
+The segmented abutment's two-piece micro-motion junction absorbs lateral force, providing meaningful bone protection under the angular loading dominant in clinical occlusion — a favorable stress trade-off for bone preservation at modest screw-stress cost.
+
+## 세줄요약
+
+3D 유한요소분석(CT 기반 하악 제1대구치, Straumann 조직 수준 임플란트 4.1×10 mm, ANSYS Workbench; 세그먼트형 RNSynocta vs 비분리형 RNSynocta Gold; 100 N 수직·45° 각도 하중 2조건).
+
+각도 하중에서 세그먼트형 어버트먼트는 골 응력을 4배 낮추고(31 vs 126 MPa), 미세변형률도 과부하 역치(3000 μɛ) 이하로 유지(2400 vs 9400 μɛ); 나사 응력은 약간 증가(430 vs 375 MPa); 수직 하중은 두 설계 유사(21 vs 24 MPa).
+
+세그먼트형 어버트먼트의 2단 미세운동 접합부가 측방력을 흡수하여 임상 교합에서 지배적인 각도 하중 시 골 보호 효과를 제공함 — 약간의 나사 응력 증가를 감수하더라도 골 보존 면에서 유리한 응력 절충안이다.
 
 ## Summary
 

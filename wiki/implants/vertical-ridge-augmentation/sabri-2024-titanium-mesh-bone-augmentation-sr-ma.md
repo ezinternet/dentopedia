@@ -21,13 +21,21 @@ relations:
     target: yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (22 trials, n≥196): Ti mesh yields 3.36 mm vertical / 3.26 mm horizontal bone gain; pooled complication rate 10.8% (exposure most common); non-inferior to collagen membrane for horizontal gain.
+SR+MA (22 clinical trials, n≥196 for vertical analysis, n≥81 for horizontal analysis) reporting the most comprehensive pooled dataset for titanium mesh (Ti mesh) alveolar bone augmentation, covering both vertical and horizontal outcomes with random-effects meta-analysis.
 
-## 한줄요약
+Pooled vertical bone gain was 3.36 mm (95% CI 2.44–4.64 mm; range 1.4–5.7 mm); horizontal bone gain 3.26 mm (95% CI 2.93–3.63 mm); overall complication rate 10.8% (mesh exposure most common); Ti mesh was not significantly different from collagen membrane for horizontal bone gain when controlling for staged vs simultaneous implant placement.
 
-SR+MA (22편, n≥196): 티타늄 메쉬 골증대 = 수직 3.36 mm / 수평 3.26 mm; 전체 합병증률 10.8%(노출 가장 흔함); 수평 골증대는 콜라겐막과 유의한 차이 없음.
+Ti mesh provides predictable ~3–4 mm 3D reconstruction with an acceptable 10.8% complication rate; patient-reported outcomes (PROMs) were identified as a major evidence gap; the pooled figures represent conventional (non-customized) Ti mesh and serve as the reference benchmark against which CAD/CAM designs are compared.
+
+## 세줄요약
+
+SR+MA(22편 임상 시험; 수직 분석 n≥196, 수평 n≥81): 무작위 효과 모형으로 티타늄 메시(Ti mesh) 골증대술의 수직·수평 결과를 통합한 현재까지 가장 포괄적인 풀링 데이터.
+
+통합 수직 골증대 3.36 mm(95% CI 2.44–4.64; 범위 1.4–5.7 mm); 수평 3.26 mm(95% CI 2.93–3.63); 전체 합병증률 10.8%(메시 노출 가장 흔함); 단계적·동시 식립 통제 후 Ti 메시와 콜라겐막 간 수평 골증대 유의차 없음.
+
+Ti 메시는 약 3–4 mm 3D 재건을 예측 가능하게 제공하며 10.8% 합병증률은 수용 가능 — 환자보고결과(Patient-Reported Outcome Measures, PROMs) 데이터 부족이 주요 근거 공백; 이 통합 수치는 기성(비맞춤형) Ti 메시의 기준 벤치마크로 CAD/CAM 디자인 비교의 참고점.
 
 ## Summary
 

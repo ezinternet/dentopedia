@@ -31,13 +31,21 @@ relations:
 > - 구강내 세라믹 칩 수리: 전용 실란+접착제(BISCO 등) 필수, 표면처리(HF vs 다이아몬드 디스크)는 접착제 선택보다 부차적 — 구강내 HF 독성 위험을 고려하면 다이아몬드 디스크 거칠게+전용 실란+접착제가 선호된다.
 > - 전 근거가 in vitro이므로 임상 외삽에 주의하며, 제조사 지침을 대체하지 않는다.
 
-## One-line Summary
+## Three-line Summary
 
-Nine in vitro studies establish that successful silica-based ceramic bonding depends on a chain of four decisions — HF concentration ≥3% (≥ 10% optimal for feldspathic), a dedicated prehydrolyzed silane primer followed by an adhesive layer, Monobond Etch&Prime or HF re-etch after try-in contamination, and preheated composite (68°C) as the highest-performing luting agent.
+Nine in vitro studies establish that successful silica-based ceramic bonding depends on a chain of four decisions: HF concentration (feldspathic ceramic requires ≥3%, with 10% optimal for durability after aging; Venturini 2015, Moura 2020); dedicated prehydrolyzed silane primer (most universal adhesives contain inactive siloxane forms — only Calibra Silane contained active silanol monomers by NMR; Dimitriadi 2019) followed by a separate adhesive layer (silane alone without adhesive equals untreated control; Simasetha 2021).
 
-## 한줄요약
+After try-in contamination (saliva + silicone paste), only Monobond Etch&Prime or 5% HF re-etch restore bond strength — water, phosphoric acid, ethanol, and Ivoclean are all insufficient (Del Bianco 2025); heated HF (70°C) selectively enhances lithium disilicate bond strength (~18 → ~29 MPa) but provides no benefit for feldspathic ceramic (Leyva del Rio 2021); separate silane is necessary even with silane-containing universal adhesives, with product-specific exceptions (FuturaBond; Sagen 2025).
 
-9편의 인 비트로 연구 종합: 실리카 기반 세라믹 접착 성공은 4가지 결정 — HF 농도 ≥3%(장석계는 10% 최적), 별도 사전가수분해 실란+접착제 레이어, 트라이인 오염 후 Monobond Etch&Prime 또는 HF 재처리, 예열 복합레진(68°C) 사용 — 의 연쇄에 달려 있다.
+Clinical takeaway: HF etch → dedicated silane primer → adhesive layer → preheated composite (68°C; Grangeiro 2024); never rely on universal adhesive silane alone; after try-in, only MEP or HF re-etch works; flowable composite as luting agent is not recommended (lowest performance + elevated ceramic fracture risk); all evidence is in vitro — manufacturer instructions take precedence.
+
+## 세줄요약
+
+9편 인 비트로(in vitro) 연구 종합: 실리카 기반 세라믹 접착 성공은 4가지 결정의 연쇄 — ①불산(HF) 농도 ≥3%(장석계는 10% 최적, 노화 내구성 근거; Moura 2020), ②별도 사전가수분해 실란 프라이머(대부분 유니버설 접착제는 비활성 실록산 함유, Calibra Silane만 활성 실라놀; Dimitriadi 2019 NMR), ③실란 후 접착제 레이어(실란 단독은 무처리 대조군과 차이 없음; Simasetha 2021).
+
+트라이인(try-in) 오염(타액+실리콘 페이스트) 후 결합강도 회복은 Monobond Etch&Prime 또는 5% HF 재처리만 유효 — 물·인산·에탄올·Ivoclean은 모두 불충분(Del Bianco 2025); 가열 HF(70°C)는 리튬 디실리케이트만 선택적 강화(~18→~29 MPa; Leyva del Rio 2021); 유니버설 접착제에서도 별도 실란 단계 필요(제품 예외 있음; Sagen 2025).
+
+임상 결론: HF 산부식 → 전용 실란 프라이머 → 접착제 레이어 → 예열 복합레진(68°C; Grangeiro 2024) 순; 유니버설 접착제 실란 단독 금지; 트라이인 후 MEP 또는 HF 재처리만; 유동성 복합레진은 합착재 비권장(최저 성능+세라믹 파절 위험); 전 근거 in vitro — 제조사 지침이 우선.
 
 ## Summary
 

@@ -14,13 +14,23 @@ pdf_filename: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
 
 발치 후 건성발치와(Alveolar Osteitis, AO) 예방에 CHX를 어떤 제형·농도로 사용하는가? 이 SR+MA는 23편 RCT, 2,824 발치를 분석해 CHX의 AO 예방 효과와 제형(가글 vs 겔) 차이를 비교—구강외과 영역 CHX 활용의 핵심 근거. [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]]
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (23 RCTs, 2,824 extractions) — CHX in any formulation/concentration halves alveolar osteitis risk after third molar extraction (RR=0.53); gel slightly more efficacious than rinse (RR 0.47 vs 0.58).
 
-## 한줄요약
+SR+MA (23 RCTs, 2,824 extractions) — CHX in any formulation/concentration halves alveolar osteitis risk after third molar extraction (RR=0.53);
 
-SR+MA (23 RCT, 2,824 발치) — CHX는 제형·농도에 무관하게 발치 후 건성발치와 위험을 절반으로 감소 (RR=0.53); 겔이 가글보다 약간 우수 (RR 0.47 vs 0.58).
+gel slightly more efficacious than rinse (RR 0.47 vs 0.58).
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (23 RCT, 2,824 발치) — CHX는 제형·농도에 무관하게 발치 후 건성발치와 위험을 절반으로 감소 (RR=0.53);
+
+겔이 가글보다 약간 우수 (RR 0.47 vs 0.58).
+
+(incomplete)
 
 ## 1. Document Information
 

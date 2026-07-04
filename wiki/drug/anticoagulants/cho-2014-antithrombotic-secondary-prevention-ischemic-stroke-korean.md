@@ -14,11 +14,21 @@ source_collection: external
 tags: [ischemic-stroke, secondary-prevention, antiplatelet, anticoagulant, aspirin, clopidogrel, warfarin, DOAC, Korean, neurology-review]
 ---
 
-## One-line Summary
-Pusan Nat'l Univ. Neurology narrative review (Brain NeuroRehabil 2014): secondary prevention of ischemic stroke — non-cardioembolic → antiplatelet agents (aspirin/clopidogrel/aspirin+dipyridamole), cardioembolic → anticoagulants (warfarin/DOAC); Korean-language fundamental reference for drug indications in post-stroke dental patients.
+## Three-line Summary
 
-## 한줄요약
-부산대 신경과 narrative review (Brain NeuroRehabil 2014): 허혈성 뇌졸중 이차예방 — 비심인성 → 항혈소판제 (aspirin/clopidogrel/aspirin+dipyridamole), 심인성 → 항응고제 (warfarin/DOAC) 원칙. 치과에서 만나는 뇌졸중 후 환자의 약물 indication 한국어 기본 reference.
+Korean-language narrative review (Brain NeuroRehabil 2014, Pusan National University Neurology) on pharmacological secondary prevention of ischemic stroke, covering antiplatelet and anticoagulant drug selection by stroke etiology.
+
+Non-cardioembolic stroke (large-artery atherosclerosis, small-vessel) → antiplatelet agents (aspirin, clopidogrel, or aspirin+dipyridamole); cardioembolic stroke (atrial fibrillation, prosthetic valve) → anticoagulants (warfarin or DOAC).
+
+Clinical implication: this review explains the indication side of antiplatelet/anticoagulant therapy in post-stroke patients — when a dental patient presents on aspirin, clopidogrel, or warfarin after a stroke, this paper explains why; cross-reference with dental-procedural management papers (Lu 2018, Inchingolo 2024) for the extraction side.
+
+## 세줄요약
+
+한국어 서술적 고찰(Brain NeuroRehabil 2014, 부산대 신경과) — 허혈성 뇌졸중 이차예방 항혈전제 선택 기준: 뇌졸중 병인별 약제 분류.
+
+비심인성 뇌졸중(대혈관 죽상경화·소혈관) → 항혈소판제(아스피린·클로피도그렐·아스피린+디피리다몰); 심인성 뇌졸중(심방세동·인공판막) → 항응고제(와파린 또는 DOAC).
+
+임상적 의미: 뇌졸중 후 항혈소판제·항응고제를 복용 중인 치과 환자를 만날 때 약물 처방 근거(indication 측면)를 설명하는 레퍼런스; 발치 관리(처치 측면)는 Lu 2018, Inchingolo 2024와 교차 참조 필요.
 
 ## Summary
 Korean-language narrative review from Pusan National University Department of Neurology covering pharmacological secondary prevention of ischemic stroke. Key clinical principle: choice between antiplatelet vs anticoagulant depends on stroke etiology — antiplatelet for non-cardioembolic (large artery atherosclerosis, small vessel), anticoagulant for cardioembolic (atrial fibrillation, prosthetic valve).

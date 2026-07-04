@@ -17,13 +17,23 @@ text_filename: lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review
 
 Clarifies which professional debridement modality is least abrasive to enamel and cementum — directly informs the least-abrasive biofilm-removal choice in supportive periodontal therapy (air polishing > ultrasonic > hand). Reinforces the in-vitro hard-tissue-loss evidence in [[wiki/periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] (same ingest batch) and adds biofilm/maintenance framing complementing [[wiki/periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] and [[wiki/periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of 16 in vitro / in vitro-in vivo studies (last 15 yr): manual instrumentation causes the greatest surface irregularity and cementum removal, ultrasonic scaling produces more uniform surfaces with intermediate loss, and air polishing is the least abrasive with highest cementum preservation — but clinical relevance is uncertain (lab-based evidence).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서사적 리뷰(16편, in vitro/in vivo 혼합, 최근 15년): 손기구(hand instrumentation)가 표면 거칠기와 백악질(Cementum) 제거가 가장 크고, 초음파 스케일링(Ultrasonic scaling)은 더 균일한 표면에 중간 정도 소실, 에어폴리싱(Air polishing)이 가장 비마모적이며 백악질 보존이 가장 높음 — 다만 근거가 대부분 실험실 기반이라 임상적 의의는 불확실.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -19,13 +19,21 @@ relations:
     target: yeh-2018-estimated-radiation-risk-cancer-dental
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective record review (n=1,790 Swedish children/adolescents, two clinics) — a complete orthodontic imaging course (≈7 radiographs: 1 panoramic + 1 lateral ceph + ~3 intraorals) equals about 5–10 days of natural background radiation, with estimated fatal-cancer risk well under 1 per 100,000.
+Retrospective patient-record review (n=1,790 Swedish children/adolescents, mean age 14.8 y, two specialist orthodontic clinics, 2004–2012) tallying radiograph count and type across the full orthodontic treatment course to estimate cumulative stochastic cancer risk using effective-dose values and LNT age-stratified risk factors.
 
-## 한줄요약
+A complete orthodontic imaging course of approximately 7 radiographs (1 panoramic + 1 lateral cephalogram + ~3 intraorals) corresponds to about 5–10 days of natural background radiation; fatal-cancer risk was estimated below 1 per 100,000, and justification was recorded for only 5% of planning-stage examinations.
 
-후향적 의무기록 분석 (스웨덴 아동·청소년 1,790명, 2개 클리닉) — 교정치료 전 과정의 방사선 촬영(환자당 약 7장: 파노라마 1 + 측방두부계측 1 + 치근단 약 3)은 자연 배경방사선 약 5–10일분에 해당하며, 추정 치명적 암 위험은 10만 명당 1명 미만으로 낮음.
+These low per-patient risks must be weighed against high procedure volume in young patients, and ALARA compliance gaps in justification documentation signal an ongoing quality-improvement opportunity.
+
+## 세줄요약
+
+줄1: 스웨덴 아동·청소년 1,790명(평균 14.8세, 2개 교정 전문 클리닉, 2004~2012년) 의무기록 후향 분석 — 교정치료 전 과정의 촬영 횟수·종류 집계 및 LNT 모델 연령 보정 치명적 암 위험 추정.
+
+줄2: 교정 촬영 과정 전체(약 7장: 파노라마 1 + 측방두부계측 1 + 치근단 약 3)는 자연 배경방사선 약 5~10일분; 치명적 암 위험 10만 명당 1명 미만; 촬영 정당화 기록은 계획 단계의 5%에 불과.
+
+줄3: 개인별 위험은 낮으나 소아 대상 고빈도 시술이므로 ALARA 준수가 중요하며, 정당화 기록 부재는 임상 질 개선 과제임.
 
 ## Summary
 

@@ -58,13 +58,21 @@ relations:
 > - 근거의 한계: 대부분 단기(2–8주)·소표본 RCT, 산업후원·이질성 큼(교정 SR I²=98%), 장기·경성 종점(치아상실·임플란트 생존) 근거 부재.
 > - 임상 결정 트리: 열린 치간공간→치간칫솔 / 좁은 접촉→치실 / 손재주·교정·임플란트·비순응→워터픽 / 치주염 유지→워터플로싱 보조 / 나무 이쑤시개는 회피.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 18 interdental-device studies (plus the toothpick-method overview) comparing dental floss (DF), interdental brushes (IDB), rubber/silicone interdental picks, water flossers / oral irrigators (WF/OI), super floss, and the wooden toothpick: there is **no universally superior device — adherence matters more than device choice**; the IDB has the strongest single-device evidence where embrasures admit it (Carrouel 2026, pregnancy gingivitis BOP 56%→12%, OR 3.14), floss is best reserved for tight contacts where an IDB won't fit (equivalent to air-floss and to irrigators: Thomassen 2025, Yiamwattana 2025) and its weak efficacy is not fixable by better technique (Jung 2025, n=37, technique improved but plaque removal did not), rubber interdental picks were used far more consistently than floss over 6 months (Yilmaz 2025, 12.61 vs 4.96/24 weeks, p=0.003 — direct adherence-over-efficacy evidence), **water flossers help bleeding/gingivitis more than plaque** — the broadest evidence now (Badahdah 2025 SR+MA, 18 RCTs, n≈1005: slight bleeding/gingival benefit, moderate certainty for bleeding, no plaque superiority; Sarkisova 2024 scoping review of 275 sources: inflammation consistently down, plaque mixed) reconciles the earlier Mohapatra-2024-vs-Yiamwattana-2025 tension; they help with marginal bleeding (Mancinelli-Lyle 2024), are an effective and safe general-population toothbrushing adjunct (Ren 2023, RCT n=90, no pain/recession/hypersensitivity), favorably shift the subgingival microbiome (Kim 2023), and are a periodontitis adjunct (Liu 2025), yet add nothing over toothbrushing in fixed-orthodontic (Tyler 2023) or peri-implant contexts (Bishti 2025); super floss equals a water flosser for immediate plaque removal in orthodontic patients (Sawan 2022); a new safety caveat is reservoir hygiene — a nonsterile-tap-water flosser harbored Legionella biofilm and infected an immunocompromised patient (Slekovec 2026); environmental footprint is a further decision axis, single-use floss picks being the worst choice (Abed 2022, LCA); and habitual wooden-toothpick use harms the papilla (El Haddad 2026).
+Synthesis of 18 interdental-device studies + toothpick-method overview: no device is universally superior — adherence determines outcome more than device choice (Yilmaz 2025 RCT, n=54: rubber interdental picks used regularly for 12.61 vs 4.96/24 weeks vs floss, p=0.003; Jung 2025, n=37: better flossing technique improved FPS but not plaque removal); interdental brushes (IDB) have the strongest single-device benefit where embrasures permit (Carrouel 2026 RCT, pregnancy gingivitis BOP 56%→12%, OR 3.14 for bleeding resolution); floss is best reserved for tight/intact contacts where an IDB won't fit.
 
-## 한줄요약
+Water flossers help bleeding and gingivitis more than plaque: Badahdah 2025 SR+MA (18 RCTs, n≈1005) confirms slight bleeding benefit (moderate GRADE) but no plaque superiority; they are a safe effective general-population toothbrushing adjunct (Ren 2023, n=90, no safety adverse events), favorably shift the subgingival microbiome (Kim 2023), and assist periodontitis maintenance (Liu 2025); however they add nothing beyond toothbrushing in fixed-orthodontic (Tyler 2023) or peri-implant contexts (Bishti 2025); safety caveat: reservoir Legionella biofilm risk in immunocompromised patients (Slekovec 2026).
 
-치간 청소도구 8편 종합(+토스픽법 overview) — 치실·치간칫솔·구강세정기/워터픽·나무이쑤시개 비교: **보편적 우승 도구는 없고 순응도가 도구보다 중요**. 치간칫솔이 들어가는 공간이면 1순위(Carrouel 2026 임신치은염 BOP 56%→12%, OR 3.14), 치실은 좁은 접촉 한정(에어플로스·세정기와 동등), 워터픽은 변연출혈·치주염 보조엔 강하나 교정·임플란트 부가는 이점 없음, 나무 이쑤시개는 치간유두 위해로 회피.
+Wooden toothpicks cause interdental papilla loss with habitual/vertical use and should be avoided (El Haddad 2026); single-use floss picks have the worst environmental footprint across 13/16 LCA categories — prefer reusable/refillable aids (Abed 2022); clinical decision tree: open embrasure → IDB; tight contact → floss; orthodontics/prosthetics/poor dexterity → water flosser or super floss; counsel reservoir hygiene.
+
+## 세줄요약
+
+치간 청소도구 18편 종합(+토스픽법 overview): 보편적 우승 도구 없음 — **순응도가 도구보다 중요**(Yilmaz 2025 RCT n=54: 고무 치간 픽 12.61주 vs 치실 4.96주 규칙적 사용, p=0.003; Jung 2025 n=37: 치실 술식 향상에도 치태 제거 개선 없음); 치간칫솔(IDB)이 들어가는 공간이면 1순위(Carrouel 2026 임신치은염 BOP 56%→12%, OR 3.14); 치실은 좁은 접촉에서만 한정 적용.
+
+워터픽/구강세정기는 플라크보다 출혈·치은염에 더 효과적: Badahdah 2025 SR+MA(18 RCT n≈1005) 출혈 개선 약간 유의(중등도 근거), 플라크 우위 없음; 일반 인구에서 칫솔질 보조로 효과적·안전(Ren 2023 n=90, 이상반응·퇴축·통증 없음), 구강 미생물군 우호 전환(Kim 2023), 치주염 유지 보조 가능(Liu 2025); 교정 단독(Tyler 2023)·임플란트 주위(Bishti 2025)에는 추가 이득 없음; 안전 주의: 저수조 레지오넬라 생물막 위험(Slekovec 2026).
+
+나무 이쑤시개는 습관적 수직 사용 시 치간유두 소실·블랙트라이앵글(El Haddad 2026) — 회피; 일회용 플로스픽은 환경부담 최악(16개 범주 중 13개, Abed 2022 LCA) — 재사용 도구 선호; 임상 결정: 열린 치간공간→치간칫솔, 좁은 접촉→치실, 교정·보철·손재주제약→워터픽·슈퍼플로스.
 
 ## Summary
 

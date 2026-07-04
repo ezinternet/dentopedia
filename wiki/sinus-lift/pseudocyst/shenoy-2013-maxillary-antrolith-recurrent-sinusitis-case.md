@@ -18,13 +18,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/shenoy-2013-maxillary-antrolith-recu
 text_filename: shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report of a 2×1cm symptomatic maxillary antrolith causing recurrent sinusitis and oroantral fistula (prior Caldwell-Luc residual bone chips as nidus); managed with combined ESS + repeat Caldwell-Luc; recommends thorough sinus irrigation after ESS to prevent antrolith formation.
+Case report (India, n=1, 47-year-old) of a large 2×1 cm symptomatic maxillary antrolith forming over ~30 years around residual bone chips from a prior Caldwell-Luc procedure, presenting with recurrent sinusitis and oroantral fistula.
 
-## 한줄요약
+The antrolith was too large for ESS alone; combined ESS + repeat Caldwell-Luc successfully removed it with histological confirmation, ruling out osteoma and malignancy.
 
-과거 Caldwell-Luc 수술 잔류 골편을 nidus로 한 2×1cm 대형 상악동석이 재발성 상악동염·구강상악동루 유발; ESS+Caldwell-Luc 복합 제거 후 완치 — ESS 후 충분한 세척으로 예방 권고.
+Prior sinus surgery leaving residual bony fragments is a key endogenous nidus for antrolith formation; thorough sinus irrigation after all ESS procedures is recommended as prevention.
+
+## 세줄요약
+
+증례보고(인도, n=1, 47세): 과거 Caldwell-Luc 수술 후 남겨진 잔류 골편을 핵(Nidus)으로 ~30년에 걸쳐 형성된 2×1 cm 대형 상악동석(Antrolith)이 재발성 상악동염 및 구강상악동루를 유발.
+
+내시경 부비동 수술(Endoscopic Sinus Surgery, ESS) 단독으로 제거 불가, ESS + 반복 Caldwell-Luc 복합 수술로 제거 성공; 조직검사로 골종·악성종양 감별.
+
+이전 부비동 수술 후 남은 골/조직 잔편이 내인성 핵 역할을 하므로, 모든 ESS 후 철저한 부비동 세척으로 상악동석 형성을 예방해야 함.
 
 ## Summary
 

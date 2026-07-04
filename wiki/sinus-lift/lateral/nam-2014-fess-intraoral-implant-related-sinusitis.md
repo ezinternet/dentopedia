@@ -15,13 +15,21 @@ text_filename: nam-2014-fess-intraoral-implant-related-sinusitis.txt
 tags: [FESS, ostium-obstruction, implant-sinusitis, Korean-journal]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 39F): implant protruding 5 mm into right maxillary sinus with ostium obstruction after osteotome sinus elevation was resolved by combined FESS + intraoral approach; full CT recovery at 10 months.
+Case report (n=1, 39-year-old woman) of implant-related maxillary sinusitis caused by a 5 mm intra-sinus implant protrusion with ostium obstruction following osteotome-technique sinus elevation, refractory to 4 weeks of medical therapy.
 
-## 한줄요약
+Combined FESS (ostium enlargement, pus evacuation, mucosa preserved) plus intraoral implant removal and oro-antral fistula closure achieved complete CT recovery at 10 months with no complications.
 
-증례보고 (n=1, 39세 여): 골돌출형 임플란트(5 mm)로 인한 상악동 자연공 폐쇄성 상악동염에서 기능적 내시경 부비동 수술(FESS) + 구내접근법 병용으로 10개월 추적 CT 완전 회복.
+FESS alone is insufficient when an intraoral approach is simultaneously needed; the literature threshold of >4 mm protrusion for sinusitis/rhinosinusitis risk is supported; cooperative ENT–OMFS surgery under general anesthesia is indicated for complex implant-related sinusitis.
+
+## 세줄요약
+
+증례보고 (n=1, 39세 여성): 골돌출형 임플란트 (5 mm 상악동 내 노출) 로 인한 자연공 폐쇄성 상악동염 — 골절편 전위·상악동+사골동 혼탁; 4주 항생제 치료 무효.
+
+기능적 내시경 부비동 수술 (Functional Endoscopic Sinus Surgery, FESS; 자연공 확장·점막 보존) + 구내접근 임플란트 제거 및 구강-상악동 누공 (Oro-Antral Fistula, OAF) 폐쇄 → 10개월 추적 CT 완전 회복.
+
+FESS 단독으로는 구내 처치 (누공 폐쇄, 내반 임플란트 제거) 불가; 임플란트 돌출 >4 mm이 부비동염 위험 임계치; ENT–구강악안면외과 (OMFS) 협진 전신마취 수술 필요.
 
 ## Summary
 

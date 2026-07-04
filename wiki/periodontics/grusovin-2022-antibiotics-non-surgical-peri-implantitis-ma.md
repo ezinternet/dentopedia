@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of 6 RCTs on antibiotic adjuncts to non-surgical peri-implantitis therapy: local antibiotics improved PPD (-0.6 mm), BOP (-0.15), and success rate (RR 9.89), whereas systemic antibiotics improved only PPD (-1.15 mm) and PAL (-1.10 mm) with no success-rate change; peri-implantitis resolution remained low (~20–30%) even with local adjunct.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (6 RCT): 비외과 peri-implantitis 치료에 항생제 adjunct — 국소 항생제는 PPD(-0.6mm), BOP(-0.15), success rate(RR 9.89) 모두 유의 개선; 전신 항생제는 PPD(-1.15mm)·PAL(-1.10mm)만 개선, success는 차이 없음. peri-implantitis resolution은 국소 adjunct 시 20–30%로 여전히 낮음.
+SR and meta-analysis of 6 RCTs evaluating local or systemic antibiotic adjuncts to non-surgical debridement in peri-implantitis.
+
+Local antibiotics improved PPD (−0.6 mm), BOP (−0.15), and success rate (RR 9.89), while systemic antibiotics improved only PPD (−1.15 mm) and PAL (−1.10 mm) with no significant success-rate or bone-level change.
+
+Disease resolution rates remain low (~20–30%) even with local adjunctive antibiotics, confirming non-surgical management alone is insufficient for most peri-implantitis cases.
+
+## 세줄요약
+
+비외과적 peri-implantitis 치료에서 항생제 보조요법을 평가한 6편 RCT의 SR+MA.
+
+국소 항생제는 PPD(−0.6 mm), BOP(−0.15), 성공률(RR 9.89) 모두 유의하게 개선한 반면, 전신 항생제는 PPD(−1.15 mm)·PAL(−1.10 mm)만 개선하고 성공률·골수준 변화는 유의하지 않았다.
+
+국소 항생제 보조 시에도 병소 해소율이 약 20–30%에 그쳐, 대부분의 임플란트 주위염에서 비외과적 관리만으로는 불충분하다는 점을 뒷받침한다.
 
 ## Summary
 Cochrane-style SR+MA of 6 RCTs evaluating local vs systemic antibiotic adjuncts to non-surgical peri-implantitis therapy. Reports differential efficacy between routes.

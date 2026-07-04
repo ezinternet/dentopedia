@@ -16,13 +16,21 @@ text_filename: centenaro-2025-low-vs-high-hp-in-office.txt
 
 The EU 6% HP regulation for in-office bleaching demands direct head-to-head RCT evidence comparing 6% vs 35% HP efficacy. This is a powered equivalence trial (n=140) from the Loguercio group — the largest direct 6% vs 35% comparison to date. Extends [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]] by providing in-office–specific concentration data.
 
-## One-line Summary
+## Three-line Summary
 
-Parallel double-blind RCT (n=140) found 35% HP had superior in-office bleaching efficacy vs 6% HP (ΔE MD=6.3, 90% CI 4.8–7.7), while 6% HP halved tooth sensitivity risk (44% vs 74%, p=0.0005); 6% HP is a valid low-sensitivity alternative with acknowledged efficacy trade-off.
+Parallel double-blind RCT (n=140, 1:1 randomized; 3 sessions × 50 min with 1-week intervals; Automixx 6% vs 35% HP, FGM; spectrophotometer + shade-guide outcomes at days 7, 14, 21, and 1 month; equivalence design) from the Loguercio group at State University of Ponta Grossa, Brazil.
 
-## 한줄요약
+35% HP achieved significantly greater in-office bleaching than 6% HP at all time points (ΔE mean difference 6.3, 90% CI 4.8–7.7; non-equivalent by design); 6% HP halved tooth sensitivity risk (44% vs 74%, p=0.0005) and produced significantly lower sensitivity intensity at immediate post-treatment and 24 h, but not at 48 h.
 
-이중맹검 RCT(n=140)에서 35% HP는 6% HP보다 유의하게 우수한 미백 효과(ΔE MD=6.3)를 보였지만, 치아 민감도는 6% HP군이 절반 수준(44% vs 74%, p=0.0005)으로 낮았다.
+6% HP is a clinically valid alternative for sensitivity-prone patients with an accepted efficacy trade-off; results may not generalize beyond the tested FGM formulation and no follow-up beyond 1 month was conducted.
+
+## 세줄요약
+
+평행 이중맹검 RCT(n=140, 1:1 무작위; 3회 세션×50분, 1주 간격; FGM Automixx 6% vs 35% 과산화수소[Hydrogen Peroxide, HP]; 분광측색계+비색판으로 7·14·21일·1개월 평가; 동등성 설계) — Loguercio 그룹(브라질 Ponta Grossa 주립대).
+
+35% HP가 모든 시점에서 유의하게 우수한 미백 효과(ΔE 평균차 6.3, 90% CI 4.8–7.7; 비동등 확인); 6% HP는 치아민감도(Tooth Sensitivity, TS) 위험을 절반으로 감소(44% vs 74%, p=0.0005)하고 처치 직후·24시간 강도도 유의하게 낮았으며, 48시간에는 차이 없음.
+
+6% HP는 민감도 우선 환자의 실용적 대안이나 미백 효과 타협이 필요; 단일 FGM 제품 쌍 한정, 1개월 이후 추적 없음.
 
 ## 1. Document Information
 

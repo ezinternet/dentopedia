@@ -9,7 +9,7 @@ pdf_filename: smeets-2016-implant-surface-modifications-osseointegration.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Comprehensive narrative review of dental implant surface modifications (SLA, acid-etching, hydrophilic SLActive, DCD, laser, protein coatings, growth factors) and their effects on osseointegration in healthy and compromised bone.
 
 ## 1. Document Information

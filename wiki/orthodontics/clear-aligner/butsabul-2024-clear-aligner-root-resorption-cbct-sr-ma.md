@@ -17,13 +17,21 @@ text_filename: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma.txt
 tags: [clear-aligner, root-resorption, cbct, external-apical-root-resorption, incisor, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (9 CBCT studies) — clear aligners cause minimal but measurable EARR: overall incisor root length −0.56 mm and upper-incisor root volume −13.34 mm³, greatest at maxillary central incisors (−0.74 mm).
+SR+MA (435→9 CBCT studies; 638 patients, 6524 teeth; 1 RCT + 1 prospective + 14 retrospective; PROSPERO CRD42022372249) — first SR+MA reporting the absolute amount of clear-aligner EARR from pre/post CBCT data.
 
-## 한줄요약
+Overall incisor root length decreased by −0.56 mm (95% CI −0.73, −0.38; p<0.00001); maxillary central incisor was most affected at −0.74 mm; upper-incisor root volume loss was −13.34 mm³; severe resorption (>20% root loss) affected only ~3.7–6.3% of teeth.
 
-SR+MA (CBCT 9편) — 투명교정(clear aligner)은 경미하지만 측정 가능한 치근 흡수(EARR)를 유발: 전체 절치 치근길이 −0.56 mm, 상악 절치 치근부피 −13.34 mm³, 상악 중절치(−0.74 mm)에서 최대.
+Aligner-induced root resorption is minimal and not clinically meaningful in routine cases; monitor maxillary central and lateral incisors most closely, especially with intrusion/extrusion, extraction cases, or root-apex proximity to palatal cortex; use CBCT for accurate quantification.
+
+## 세줄요약
+
+SR+MA (435→CBCT 9편; 638명, 6524치; 1 RCT·1 전향·14 후향; PROSPERO CRD42022372249) — 치료 전후 CBCT로 투명교정(Clear Aligner)이 유발하는 절대 치근 흡수량(External Apical Root Resorption, EARR)을 최초로 정량화.
+
+전체 절치 치근길이 −0.56 mm(95% CI −0.73, −0.38; p<0.00001); 상악 중절치 최대 −0.74 mm; 상악 절치 치근부피 −13.34 mm³; 심각 흡수(>20% 손실) 약 3.7~6.3% 치아에만.
+
+투명교정 유발 치근흡수는 일상적 증례에서 임상적 의미 없는 수준; 상악 중·측절치(특히 압하/정출·발치·치근단-구개피질골 근접 시) 집중 모니터링; 정확한 정량화에는 CBCT 사용.
 
 ## Summary
 

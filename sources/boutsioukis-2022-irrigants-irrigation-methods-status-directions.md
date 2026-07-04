@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Commissioned status-and-directions review in the 2022 IEJ supplement that redefines the irrigation paradigm — instrumentation provides access, irrigants do the disinfection — and critically evaluates evidence for adjunct activation methods; directly complements [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] and the intracanal medicaments companion [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]].
 
-## One-line Summary
-Comprehensive narrative review critically appraising endodontic irrigants (NaOCl, EDTA, CHX) and delivery/activation methods (syringe, ultrasonic, sonic, negative-pressure, laser), concluding NaOCl + chelator remains the gold standard and no adjunct activation method has demonstrated improved long-term treatment outcomes.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: 세근관 세정제(NaOCl·EDTA·CHX) 및 활성화 방법(초음파·음파·레이저 등) 종합 비판 — NaOCl+킬레이터가 표준이며 어떤 보조 활성화법도 장기 치료 결과 향상을 입증하지 못함.
+Comprehensive commissioned narrative review (Int Endod J 2022 supplement; Boutsioukis & Arias-Moliz) critically appraising endodontic irrigants (NaOCl 0.5–8.25%, EDTA 15–17%, CHX 2%) and all delivery/activation methods (syringe, PUI, sonic, negative-pressure, laser) against the key irrigation challenges of biofilm EPS matrix, complex anatomy, and vapor lock.
+
+NaOCl plus chelator remains the gold standard; no adjunct activation method (PUI, sonic, negative-pressure irrigation, laser) has demonstrated improved long-term treatment outcomes in available RCT evidence; canal volume ≤30 µL mandates frequent irrigant replenishment.
+
+Absence of standardized outcome metrics prevents meta-analysis of activation studies; future research must shift toward clinically relevant long-term outcome comparisons rather than in-vitro disinfection proxies.
+
+## 세줄요약
+
+위임 서술형 리뷰(Int Endod J 2022 보충판; ACTA 암스테르담·그라나다대): 근관 세정제(NaOCl·EDTA·CHX)와 전달/활성화 방법(주사기·PUI·음파·음압·레이저)을 바이오필름 EPS 장벽·복잡 해부·기포(vapor lock) 등 주요 도전과 대비하여 비판적 평가.
+
+NaOCl+킬레이터가 표준; 어떤 보조 활성화법도 RCT에서 장기 치료 결과 향상 입증 없음; 근관 내 용적 ≤30 µL로 잦은 세정제 교환 필수.
+
+활성화 연구 간 표준 결과 지표 부재로 메타분석 불가; 향후 연구는 in vitro 소독 대리지표보다 임상적 장기 결과 비교 필요.
 
 ## 1. Document Information
 - Int Endod J. 2022;55(Suppl 3):588–612. Received 31 October 2021; accepted 21 March 2022.

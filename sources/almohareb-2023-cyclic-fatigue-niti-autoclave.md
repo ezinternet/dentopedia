@@ -13,8 +13,21 @@ source_collection: external
 
 [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]]·[[endodontics/shaping/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue]]와 함께 NiTi file 재사용 안전성 근거. EdgeTaper Platinum/PTG/TruNatomy 3종 — autoclave 0/1/5/10회 효과 정량. 우리 클리닉 file 재멸균 횟수 SOP 결정 근거.
 
-## One-line Summary
-In vitro (n=60, 3 files × 4 sterilization 조건): ETP cyclic fatigue 최상; autoclave 1·10회 후 ETP만 fatigue resistance 유의 증가 (p=0.039, 0.021); TruNatomy·PTG는 autoclave 영향 NS.
+## Three-line Summary
+
+In vitro study (n=60 NiTi files, 3 systems × 4 autoclave sterilization conditions: 0/1/5/10 cycles) comparing cyclic fatigue resistance of EdgeTaper Platinum, ProTaper Gold, and TruNatomy Prime using a metal canal block model.
+
+EdgeTaper Platinum (ETP) showed the highest cyclic fatigue resistance under all conditions; autoclave sterilization at 1 and 10 cycles significantly increased ETP's resistance (p=0.039, p=0.021), while ProTaper Gold and TruNatomy showed no significant change with sterilization.
+
+Clinicians can sterilize ETP files repeatedly without compromising fatigue resistance; the clinical fracture rate correlation is unproven and a single canal geometry limits generalizability.
+
+## 세줄요약
+
+in vitro 연구 (NiTi 파일 60개, 3종 × autoclave 0/1/5/10회 조건) — 금속 커브 캐널 블록에서 EdgeTaper Platinum(ETP), ProTaper Gold(PTG), TruNatomy Prime의 cyclic fatigue 저항성 비교.
+
+ETP가 모든 조건에서 최고 cyclic fatigue 저항성; autoclave 1·10회 후 ETP만 저항성 유의 증가 (p=0.039, 0.021), PTG·TruNatomy는 멸균 영향 유의차 없음.
+
+ETP는 반복 멸균 후에도 fatigue 저항성 손상 없음; 단일 캐널 형태·임상 파절률 상관 미검증으로 일반화 제한.
 
 ## 1. Document Information
 - PeerJ 11:e14656 (2023)

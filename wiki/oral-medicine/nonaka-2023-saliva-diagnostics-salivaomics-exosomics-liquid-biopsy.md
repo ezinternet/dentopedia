@@ -17,13 +17,21 @@ text_filename: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biops
 tags: [saliva, salivary-diagnostics, salivaomics, liquid-biopsy, exosomes, biomarkers, EFIRM, ctDNA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (JADA, Wong/UCLA group) organizing saliva-based diagnostics into three pillars — salivaomics, saliva exosomics, saliva liquid biopsy — and introducing the EFIRM electrochemical platform that detects lung-cancer EGFR ctDNA and SARS-CoV-2 in saliva without extraction or amplification.
+Narrative expert review (JADA 2023, Wong/UCLA group) organizing saliva-based diagnostics into three pillars — salivaomics (high-throughput omics), saliva exosomics (exosome cargo analysis), and saliva liquid biopsy (ctDNA/CTC/EV detection) — with 20–30% overlap between salivary and plasma proteomes supporting systemic biomarker detection.
 
-## 한줄요약
+The EFIRM (Electric Field–Induced Release and Measurement) electrochemical platform detects lung-cancer EGFR mutations (L858R/exon 19del/T790M) in saliva without extraction or amplification in ~30 min from 40–50 µL; EFIRM found T790M ctDNA in 2/26 patients missed by ddPCR and NGS; it is CLIA-certified.
 
-침 진단(saliva diagnostics)을 살리바오믹스(salivaomics)·침 엑소좀학(saliva exosomics)·침 액체생검(saliva liquid biopsy) 세 축으로 정리하고, 추출·증폭 없이 저농도 표적을 잡는 전기화학 센서 EFIRM으로 폐암 EGFR ctDNA와 SARS-CoV-2를 침에서 검출하는 서사적 리뷰 (JADA, Wong/UCLA 그룹). 침의 20~30%가 혈장 단백질체와 겹쳐 혈액 유래 바이오마커의 침샘 이송을 시사.
+Saliva diagnostics can detect cancers, COVID-19, and Alzheimer's biomarkers non-invasively, but the unresolved mechanism of blood-to-saliva biomarker transport limits clinical-grade standardization of most assays.
+
+## 세줄요약
+
+전문가 서술 리뷰(JADA 2023, Wong/UCLA 그룹) — 침 진단(saliva diagnostics)을 살리바오믹스(salivaomics)·침 엑소좀학(saliva exosomics)·침 액체생검(saliva liquid biopsy) 세 축으로 분류, 침·혈장 단백질체 20–30% 중첩으로 전신 바이오마커의 침샘 이송 가능성 지지.
+
+전기화학 센서 EFIRM(Electric Field–Induced Release and Measurement)은 추출·증폭 없이 40–50 µL 침에서 폐암 EGFR 돌연변이(L858R/exon 19del/T790M)를 ~30분 내 검출; 26명 중 2명에서 ddPCR·NGS가 놓친 T790M ctDNA를 발견; CLIA 인증 완료.
+
+침은 암·COVID-19·알츠하이머 바이오마커를 비침습적으로 검출할 수 있으나, 혈액→침 바이오마커 이송 기전이 미해결 상태로 대부분 분석의 임상급 표준화에 제약이 됨.
 
 ## Summary
 

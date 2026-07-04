@@ -13,13 +13,21 @@ source_collection: external
 tags: [free-gingival-graft, sling-suture, gingival-unit-transfer, graft-shrinkage, periodontal-plastic-surgery]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Three-month parallel-design RCT (60 enrolled, 52 completed; 4 groups of n=13): in free gingival graft surgery, graft technique mattered more than suture technique — gingival unit transfer (GUT) showed less graft shrinkage than conventional graft (CG) regardless of suture, while the modified sling suture (MSS) gave no advantage and GUT+conventional-suture had the largest keratinized-tissue-width gain.
+Three-month parallel-design RCT (60 enrolled, 52 completed; 4 groups × n=13) crossing two factors — suture technique (modified sling suture MSS vs conventional CS) and graft technique (gingival unit transfer GUT vs conventional graft CG) — in free gingival graft surgery for mandibular anterior Cairo RT2/RT3 recessions.
 
-## 한줄요약
+Graft technique dominated outcomes: GUT showed less shrinkage than CG regardless of suture (p<0.05), CG+MSS had the worst shrinkage, and GUT+CS achieved the largest keratinized-tissue-width gain; the modified sling suture conferred no shrinkage advantage over conventional suture.
 
-3개월 평행설계 RCT (60명 등록, 52명 완료; 4군 각 n=13): 유리치은이식술(FGG)에서 봉합법보다 이식편 기법이 더 중요했음 — 치은단위이식(GUT)이 봉합법과 무관하게 통상이식(CG)보다 이식편 수축이 적었고, 변형 슬링봉합(MSS)은 이점이 없었으며 GUT+통상봉합이 각화조직폭 증가가 가장 컸음.
+In FGG surgery the choice of graft harvest (GUT vs conventional) is a stronger determinant of graft stability than the sling-suture modification; limited by 3-month follow-up, single operator, and retrospective trial registration.
+
+## 세줄요약
+
+하악 전치부 Cairo RT2/RT3 퇴축에서 봉합법(변형 슬링봉합 MSS 대 통상 봉합 CS)과 이식편 기법(치은단위이식 GUT 대 통상이식 CG)을 2×2 교차 비교한 3개월 평행 RCT(등록 60명, 완료 52명; 4군 각 n=13).
+
+이식편 기법이 결과를 주도: GUT가 봉합과 무관하게 CG보다 수축 적음(p<0.05), CG+MSS 수축 최대, GUT+CS 각화조직폭 증가 최대; MSS는 이점 없음.
+
+FGG에서 이식편 채취 방법(GUT vs CG)이 봉합법 변형보다 이식편 안정성을 더 강하게 결정; 3개월 추적·단일 술자·사후 등록의 한계 있음.
 
 ## Summary
 

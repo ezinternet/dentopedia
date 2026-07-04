@@ -17,13 +17,21 @@ text_filename: angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.txt
 
 기존 [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]]는 당뇨병성 치주염에서 NSPT(비외과적 치주치료)에 국소 오존 겔을 보조했을 때의 효과를 다룬 단일 RCT다. 본 SR+MA(Angelopoulou 2026)는 같은 T2DM+치주염 모집단에서 *전신* 멜라토닌(melatonin) 보조요법으로 보조제 종류를 확장하고, 풀링된 정량합성(PPD/CAL/HbA1c/hs-CRP)으로 근거 수준을 끌어올린다. 또한 [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]]의 당뇨병성 치주염 SRP 보조 맥락과 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 3 RCTs (149 patients; 2 pooled, n=94) — systemic melatonin (3 mg nightly) adjunct to NSPT in T2DM + periodontitis significantly improved PPD (SMD −1.99), CAL (SMD −1.49), HbA1c (SMD −1.15) and hs-CRP (SMD −0.97) vs NSPT/placebo, but all GRADE-low certainty.
+SR+MA (3 RCTs eligible, 2 pooled, n=94; 8-week follow-up; adults with T2DM + periodontitis; Iran, Romania) of systemic melatonin 3 mg nightly as adjunct to NSPT (SRP + OHI).
 
-## 한줄요약
+Pooled results significantly favored adjunctive melatonin for PPD (SMD −1.99), CAL (SMD −1.49), HbA1c (SMD −1.15), and hs-CRP (SMD −0.97); TNF-α and IL-6 showed non-significant trends; all outcomes rated GRADE-low certainty.
 
-RCT 3편(149명, 2편 풀링 n=94) SR+MA — T2DM 치주염 환자에서 비외과적 치주치료(NSPT)에 전신 멜라토닌(밤 3 mg) 보조 시 치주낭깊이(PPD, SMD −1.99)·임상부착수준(CAL, SMD −1.49)·당화혈색소(HbA1c, SMD −1.15)·hs-CRP(SMD −0.97)가 유의하게 개선되나 모두 GRADE 근거수준은 낮음(low).
+The findings are exploratory: evidence is very thin (2 pooled RCTs, small n, high heterogeneity in some outcomes), and larger standardized RCTs with longer follow-up are required before clinical recommendation.
+
+## 세줄요약
+
+SR+MA(RCT 3편 적격, 2편 풀링 n=94; 8주 추적; T2DM+치주염 성인; 이란·루마니아) — 비외과적 치주치료(NSPT: SRP+OHI)에 전신 멜라토닌 3 mg(매일 밤) 보조 효과.
+
+풀링 결과: PPD(SMD −1.99)·CAL(SMD −1.49)·HbA1c(SMD −1.15)·hs-CRP(SMD −0.97) 모두 유의하게 개선; TNF-α·IL-6는 비유의; 모든 결과 GRADE 근거수준 낮음(low).
+
+2편(소규모) 풀링에 그치고 일부 이질성 높아 탐색적 결과 — 임상 권고 전 더 크고 표준화된 장기 RCT 필요.
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ text_filename: kim-2026-probiotics-nspt-periodontal-db-rct.txt
 tags: [probiotics, NSPT, SRP, periodontics, BOP, PPD, CAL, double-blind-RCT, microbiome, 16S-sequencing, metagenomics, Lactobacillus, Enterococcus]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind RCT (n=80; 61 completers, 12 weeks); Lactobacillus PB01 + Enterococcus EB10 lozenges as adjunct to NSPT significantly reduced BoP% (p=0.03) and number of PPD ≥5 mm sites (p=0.01) vs. placebo, with concurrent reductions in red/orange complex periodontal pathogens in subgingival and salivary microbiota.
+Double-blind RCT (n=80; 61 completers, University of Copenhagen, 12 weeks) of twice-daily Lactobacillus PB01 + Enterococcus EB10 lozenges as adjunct to NSPT (EFP Steps 1–2) vs placebo in stage II–III periodontitis patients.
 
-## 한줄요약
+Probiotic adjunct significantly reduced BoP% (p=0.03) and PPD ≥5 mm site count (p=0.01) vs placebo; subgingival 16S sequencing showed depletion of red/orange complex pathogens and enrichment of health-associated commensals; CAL and plaque index did not differ.
 
-이중맹검 무작위대조시험(n=80; 완료 61명, 12주); Lactobacillus PB01 + Enterococcus EB10 로젠지를 비수술치주치료(NSPT) 보조제로 사용 시 위약 대비 출혈양성률(BoP%, p=0.03)과 치주낭깊이(PPD) ≥5 mm 부위 수(p=0.01)가 유의하게 감소하고 치주낭·타액의 적색·오렌지색 복합군 병원균이 함께 감소함.
+The microbiological and clinical benefit supports probiotics as an adjunct to NSPT for inflammation and pocket-depth endpoints, but the 12-week single-centre design and lack of CAL benefit limit generalisability.
+
+## 세줄요약
+
+이중맹검 무작위대조시험(n=80; 완료 61명, 코펜하겐대, 12주): Lactobacillus PB01 + Enterococcus EB10 로젠지 1일 2회 복용을 NSPT(EFP 1–2단계) 보조요법으로 vs 위약, stage II–III 치주염 환자.
+
+위약 대비 BoP%(p=0.03)와 PPD ≥5 mm 부위 수(p=0.01) 유의 감소; 치주낭 16S 염기서열 분석에서 적색·오렌지색 복합군 병원균 감소 + 건강 연관 세균 증가; CAL·치면세균막 지수는 군간 차이 없음.
+
+미생물·임상적 이점이 NSPT 보조요법으로서 프로바이오틱스를 지지하나, 12주 단일기관 설계와 CAL 무효 결과로 일반화에는 한계가 있다.
 
 ## Summary
 

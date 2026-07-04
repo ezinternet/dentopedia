@@ -9,8 +9,19 @@ pdf_filename: alkadi-2023-intraoral-scanner-accuracy-factors.pdf
 source_collection: external
 ---
 
-## One-line Summary
-구강 내 스캐너(Intraoral Scanner, IOS) 정확도 영향 인자 종합 리뷰 (Diagnostics 2023): PubMed 검색; 스캐너 유형·광학기술·악궁 크기·치아 존재 여부·온도·분말 사용 등 다인자 분석.
+## Three-line Summary
+Narrative review (PubMed search, 2023) evaluating multiple factors influencing intraoral scanner (IOS) accuracy: device technology type, scanning strategy, arch size, tooth preparation design, operator experience, and environmental conditions.
+
+Full-arch scanning accumulates greater error than quadrant scanning; edentulous arches yield higher error due to reduced anatomical landmarks; operator consistency and scanning strategy are significant modifiable variables.
+
+No single technology is consistently superior, and the rapid evolution of IOS systems means findings can become outdated quickly — clinical decisions should weight full-arch implant cases as higher-risk for scan error.
+
+## 세줄요약
+서술적 고찰(PubMed, 2023) — IOS 정확도에 영향을 미치는 다인자(기기 광학기술, 스캔 전략, 악궁 크기, 지대치 형성, 술자 경험, 환경 조건) 종합 분석.
+
+전악 스캔은 사분악 스캔보다 누적 오류가 크고, 무치악 악궁은 해부학적 랜드마크 부족으로 오류가 더 크며, 술자 일관성이 중요한 수정 가능한 변수임.
+
+단일 우월 기술은 없으며 기술 진화 속도가 빠르므로 전악 임플란트 케이스는 스캔 오류 고위험군으로 보고 임상적 검증을 강화해야 함.
 
 ## 1. Document Information
 - **Journal**: Diagnostics 2023, 13, 3291

@@ -9,7 +9,7 @@ pdf_filename: lei-2022-alveolar-bone-width-sagittal-tooth.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal tooth angulation of maxillary central incisors stratified by Class I vs Class III canine relationship. Class III had significantly thinner labial bone and greater labial root inclination, complicating immediate implant placement planning.
 
 ## 1. Document Information

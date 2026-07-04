@@ -17,13 +17,23 @@ text_filename: marques-2025-irrigation-protocols-coronal-dentin-composition.txt
 
 사용자가 "상아질 성분 구성" 근거 논문을 요청. 이 논문 서론은 사람 상아질의 표준 성분 구성(유기 20wt%/33vol%, 무기 70wt%/45vol%, 수분 ~10%; 유기 매트릭스의 90wt%가 제1형 콜라겐)과 미세구조(관주상아질 vs 관간상아질, 관상 vs 치근 상아질)를 명확히 정리하고, 대조군(증류수)의 원소 성분(EDS: C 19.41·N 5.36·O 47.63·P 9.23·Ca 17.20 atomic%, Ca/P 1.87)·FTIR baseline까지 정량 제공 — "상아질 성분 구성"의 정량 레퍼런스로 딱 맞다. 동시에 기존 [[endodontics/irrigation/padmakumar-2022-irrigating-solutions-dentin-structure-ftir]] (FTIR로 세정제의 상아질 구조 변화)와 [[endodontics/irrigation/elfarraj-2024-irrigants-tooth-dentin-infrared-spectroscopy-slr]] SLR을 Raman imaging + EDS 원소분석 + SEM으로 확장·보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (25 human third molars, 5 groups) using confocal Raman, ATR-FTIR, EDS, and SEM to quantify native coronal dentin composition and how four clinical endodontic irrigation protocols (NaOCl; NaOCl/EDTA; NaOCl/EDTA/CHX; NaOCl/HEDP) alter its organic (collagen/amide), inorganic (phosphate/carbonate apatite, Ca/P), elemental, and ultrastructural (tubule/smear-layer) makeup.
 
-## 한줄요약
+In vitro study (25 human third molars, 5 groups) using confocal Raman, ATR-FTIR, EDS, and SEM to quantify native coronal dentin composition and how four clinical endodontic irrigation protocols (NaOCl;
+
+NaOCl/EDTA;
+
+NaOCl/EDTA/CHX; NaOCl/HEDP) alter its organic (collagen/amide), inorganic (phosphate/carbonate apatite, Ca/P), elemental, and ultrastructural (tubule/smear-layer) makeup.
+
+## 세줄요약
+
 
 사람 관상 상아질의 표준 성분 구성(유기 20wt%·무기 70wt%·수분, 유기의 90%가 제1형 콜라겐)을 정량하고, 4가지 임상 근관세정 프로토콜(NaOCl·NaOCl/EDTA·NaOCl/EDTA/CHX·NaOCl/HEDP)이 콜라겐·인산/탄산 아파타이트·Ca/P·상아세관/smear layer를 어떻게 바꾸는지를 Raman·FTIR·EDS·SEM으로 특성화한 in vitro 연구(사람 제3대구치 25개, 5군).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

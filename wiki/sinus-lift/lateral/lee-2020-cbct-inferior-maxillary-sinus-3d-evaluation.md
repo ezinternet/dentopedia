@@ -13,12 +13,21 @@ source_collection: external
 tags: [cbct, maxillary-sinus, 3d-visualization, nasal-cavity-floor, anatomy, sex-difference, korean]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective 3-D CBCT study (n=60 young Korean adults, 30 M / 30 F, 20s): all inferior maxillary sinus dimensions (height, width, volume) measured relative to the nasal cavity floor reference plane were significantly larger in males than females, and bizygomatic breadth (≥127 mm) correlated with larger inferior sinus size.
+Retrospective 3-D CBCT study (n=60 young Korean adults, 30 M / 30 F, 20s, Mimics 22.0 segmentation) measuring inferior maxillary sinus height, width, and volume relative to the nasal cavity floor (NCF) reference plane.
 
-## 한줄요약
-한국인 20대 60명 (남30/여30) 원뿔형 빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 3차원 분석: 비강저 (Nasal Cavity Floor, NCF) 기준 상악동 하부 부피·높이·폭 모두 남성이 유의하게 크며, 협골 폭 (Bizygomatic Breadth)과 상관 — 임플란트 수술 전 해부학적 평가 시 성차 고려 필요.
+All inferior sinus dimensions were significantly larger in males (NCF-F height ~15 vs ~11 mm, CW ~24.5 vs ~20.5 mm, SW ~32.5 vs ~26.1 mm, volume); bizygomatic breadth ≥127 mm correlated with larger inferior sinus dimensions across both sexes.
+
+Pre-implant CBCT in the posterior maxilla should account for sex-based sinus size differences; 3-D segmentation captures sinus volume more accurately than 2-D slice approximations.
+
+## 세줄요약
+
+한국인 20대 60명 (남 30 / 여 30) 후향적 콘빔 전산화 단층촬영 (CBCT) 3차원 연구 (Mimics 22.0): 비강저 (Nasal Cavity Floor, NCF) 기준면에서 상악동 하부 높이·폭·부피 계측.
+
+모든 하부 상악동 치수가 남성에서 유의하게 큼 (NCF-F 높이 ~15 vs ~11 mm, CW ~24.5 vs ~20.5 mm, SW ~32.5 vs ~26.1 mm); 협골 폭 (Bizygomatic Breadth) ≥127 mm에서 상악동 치수 더 큼.
+
+후방 상악 임플란트 전 CBCT 계획 시 성별 차이 고려 필요; 2차원 슬라이스는 상악동 부피를 과소평가 — 가능하면 3차원 분절 사용 권장.
 
 ## Summary
 Korean retrospective 3-D CBCT study (n=60, ages 20s, healthy non-missing dentition). Used Mimics 22.0 to segment the inferior portion of the maxillary sinus defined relative to the NCF reference plane. All inferior sinus dimensions (height NCF-F, width CW/SW, volume) significantly larger in males than females; bizygomatic breadth correlates with inferior sinus size.

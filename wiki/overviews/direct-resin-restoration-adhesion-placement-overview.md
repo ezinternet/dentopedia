@@ -26,12 +26,21 @@ source_collection: synthesis
 > - 수리(repair)가 교체보다 우월 — 15년 후방 복합레진 SR은 없으나 전치부 데이터 강력(van de Sande 2019, 수리를 비실패로 보면 15년 생존 69%) — 국소 결함은 수리가 1차 선택.
 > - 간접 수복으로의 escalation은 근거가 아니라 해부(교두 피개·교두간 거리 ½ 접근·근관치료 후 후방치 변연융선 소실+과중 교합)로 결정 — 일상적 Class II에 간접 수복은 강제되지 않는다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis over Cochrane SR, umbrella reviews, multiple SR+MA/NMA and large RCTs covering two decisions in every direct composite restoration — how to bond (adhesion strategy) and how to place (incremental vs bulk-fill, low-shrinkage chemistry, repair). Core thesis: when enamel margins exist, selective enamel etching or 3-step etch-and-rinse (EAR) consistently outperforms universal-adhesive self-etch (SE) alone, while bulk-fill and incremental placement are clinically equivalent through ≥24 months and "low-shrinkage = superior" is not supported by RCT MA. Clinical takeaway: protocol execution, not material selection, drives outcome; escalation to indirect restoration is decided by anatomy, not evidence.
+Synthesis of Cochrane SR, umbrella reviews, multiple SR+MA/NMA, and large RCTs on two decisions in every direct composite restoration — adhesion strategy and placement technique; when enamel margins exist, selective enamel etching or 3-step etch-and-rinse (EAR) consistently outperforms universal-adhesive self-etch (SE) alone (Hong 2021 SR+MA; Oza 2022 RCT: Clearfil Universal SE mode failed at 24 months on NCCL).
 
-## 한줄요약
-일반 직접 컴포짓 수복의 두 축 종합 — ① 접착방식: 법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 SR+MA·RCT에서 일관되게 우세, 유니버설 SE 단독은 NCCL 24개월 RCT에서 임상 부적합; ② 충전방식: 벌크필과 적층충전은 9 RCT MA·12 RCT NMA·우산형 리뷰 모두에서 임상 동등, "저수축 = 임상 우월" 명제는 21 RCT MA로 부정. 둘 다 "재료 선택"보다 "프로토콜 실행"이 결과를 좌우.
+Bulk-fill and incremental placement are clinically equivalent through ≥24 months (9-RCT MA RR 0.82 NS; 12-RCT NMA no significant difference; umbrella review; Zailai 2025, Chaple-Gil 2026), and the claim "low-shrinkage = clinically superior" is refuted by 21-RCT MA (Kruly 2018 — only 12-month marginal adaptation favors conventional methacrylate; all other outcomes equal).
+
+Protocol execution, not material generation, drives outcome; repair outperforms replacement for localized defects (15-year anterior survival 69% with repair as non-failure; Van de Sande 2019); escalation to indirect restoration is decided by anatomy (cusp coverage, large cavities, endo-treated teeth), not evidence.
+
+## 세줄요약
+
+Cochrane SR·우산형 리뷰·SR+MA/NMA·대규모 RCT를 아우르는 직접 복합레진 수복의 두 축 종합; 법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 일관 우세(Hong 2021 SR+MA; Oza 2022 RCT: 유니버설 SE 단독은 NCCL 24개월에서 임상 부적합).
+
+벌크필과 적층충전은 ≥24개월 임상 동등(9-RCT MA RR 0.82 NS·12-RCT NMA 차이 없음; Zailai 2025·Chaple-Gil 2026); "저수축=임상 우월" 명제는 21-RCT MA로 부정(Kruly 2018 — 유일한 차이는 12개월 변연적합, 그 외 동등).
+
+"재료 선택"보다 "프로토콜 실행"이 결과를 좌우; 국소 결함은 교체보다 수리 우선(15년 전치 생존 69%, Van de Sande 2019); 간접 수복 에스컬레이션은 근거가 아닌 해부(교두 피개·대형 와동·근관치료 후 치아)로 결정.
 
 ## Scope and Question
 

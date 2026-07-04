@@ -17,13 +17,23 @@ text_filename: omar-2026-marginal-gap-additive-subtractive-nanoceramic.txt
 
 CAD/CAM 보철재료 카테고리에 milling vs 3D-printing 비교 근거를 보강하기 위해 인제스트. 기존 [[wiki/dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]]가 3D프린팅 하이브리드 세라믹의 접착 취약성을 보였다면, 본 논문은 같은 재료 계열(Nanoksa)에서 밀링이 변연적합도 면에서도 3D프린팅보다 우수함을 보여 3D프린팅 하이브리드 나노세라믹의 한계를 다각도로 뒷받침한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro comparative study (BMC Oral Health 2026, 20 implant fixtures): milled Nanoksa G-Plus hybrid nanoceramic crowns showed significantly smaller marginal gaps (34.08→37.76 µm before/after thermomechanical aging) than 3D-printed Nanoksa BioGuard crowns (59.71→63.83 µm), both within McLean & von Fraunhofer's 120 µm clinical acceptability threshold, but milling significantly superior for this novel material class.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 In-vitro 비교연구(BMC Oral Health 2026, 임플란트 고정체 20개): 밀링 Nanoksa G-Plus 하이브리드 나노세라믹 크라운의 변연격차(34.08→37.76 µm, 열역학적 노화 전후)가 3D프린팅 Nanoksa BioGuard(59.71→63.83 µm)보다 유의하게 작음 — 둘 다 McLean & von Fraunhofer의 임상 허용 기준 120 µm 이내지만, 밀링이 이 신규 재료군에서 변연적합도 면에서 유의하게 우수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

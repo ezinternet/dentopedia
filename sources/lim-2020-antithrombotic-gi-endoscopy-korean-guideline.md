@@ -10,7 +10,7 @@ pdf_filename: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 한국 12개 종합병원 다학제 임상진료지침 (KJG 2020): 내시경 시술 전후 항혈전제 (warfarin/DOAC/aspirin/clopidogrel/DAPT) 관리 — 출혈 위험 vs 혈전 위험 stratification 기반 중단/유지 결정. 치과 prerequisites와 직접 동일하진 않지만 동일 약물 클래스를 다루는 한국어 guideline.
 
 ## 1. Document Information

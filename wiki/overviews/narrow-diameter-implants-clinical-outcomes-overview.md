@@ -37,11 +37,21 @@ relations:
 > - FEA 생역학 경계(Barbosa 2021): 2.5 mm 초소경(Extra-Narrow) one-piece 임플란트는 30° 경사하중 시 응력이 2188 MPa → 티타늄 항복강도(1130 MPa) 93.6% 초과. 3.0 mm one-piece 및 3.5 mm Morse taper two-piece는 축·경사 하중 모두 안전. **"3.0 mm가 임상적 안전 하한"** — Pachiou 2025의 생존율 데이터에 생역학적 근거를 제공.
 > - 정직한 한계: 추적기간 대부분 ≤36개월로 짧고, 후방 부하의 10년 horizon 미입증, 임플란트주위염(peri-implantitis) 등 생물학적 합병증 데이터가 pool 불가(Pachiou 2025) — NDI의 가장 큰 근거 공백.
 
-## One-line Summary
-Across four SR/MAs spanning the esthetic anterior maxilla, load-bearing posterior fixed prostheses, mandibular overdentures, and titanium-zirconium single crowns, narrow-diameter implants (<3.75 mm) match regular-diameter implants on survival and marginal bone loss — and sometimes beat them on patient-reported outcomes and esthetic complications — so the choice is driven by avoiding bone augmentation, not by a survival penalty.
+## Three-line Summary
 
-## 한줄요약
-SR/MA 4편(전치부 상악·구치부 고정성 보철·하악 피개의치·TiZr 단일크라운) 종합 — 좁은 직경 임플란트(NDI, <3.75 mm)는 정규 직경(RDI)과 생존율·변연골소실(MBL)이 동등하고 환자보고결과(PROM)·심미 합병증에서는 오히려 우위. 선택 기준은 생존율 손해가 아니라 "골증대 회피"다.
+Synthesis of 4 SR/MAs spanning four clinical indications — esthetic anterior maxilla (Zhang 2024, 5 studies/282 NDI vs RDI+augmentation), load-bearing posterior fixed prostheses (Pachiou 2025, 36 trials/2741 NDI), mandibular overdentures (Park 2023, 8 studies), and titanium-zirconium single crowns (Cao 2023, 7 studies/256 Ti-Zr NDI): narrow-diameter implants (<3.75 mm) match regular-diameter implants on survival (RR 0.989, p=0.896 anterior; pooled 97.0% maxillary/96.5% mandibular posterior) and marginal bone loss across all four indications.
+
+NDIs surpass RDIs in two ways: in the esthetic zone, augmentation+RDI carried more soft-tissue dehiscence than the graft-free NDI arm (Zhang 2024); for mandibular overdentures, NDIs significantly outperformed RDIs on patient satisfaction (VAS) and oral health-related quality of life (Park 2023) — together establishing that the selection criterion is augmentation-avoidance, not a survival tradeoff.
+
+The key caveats are: follow-up is mostly ≤36 months; dominant complications in posterior load-bearing use are technical (screw loosening/fracture up to 23.5%), not survival events; biological complication data are too sparse to pool (Pachiou 2025); and FEA shows 2.5 mm extra-narrow one-piece implants exceed titanium yield strength under 30° loading (2188 MPa vs yield 1130 MPa), establishing 3.0 mm as a biomechanical safety threshold (Barbosa 2021).
+
+## 세줄요약
+
+좁은 직경 임플란트(Narrow-Diameter Implant, NDI, <3.75 mm)의 임상 결과를 4개 적응증 SR/MA 4편으로 종합: 전치부 상악(Zhang 2024)·구치부 고정성 보철(Pachiou 2025, n=2741)·하악 피개의치(Park 2023)·TiZr 단일크라운(Cao 2023) 모두에서 NDI는 정규직경(RDI)과 생존율·변연골소실(MBL)이 통계적으로 동등하고, 심미 합병증과 환자보고결과(PROM)에서는 오히려 우위다.
+
+NDI 선택 기준은 "골증대(bone augmentation) 회피" — 전치부 심미 합병증은 NDI군보다 RDI+골증대군에서 더 많고(Zhang 2024), 하악 피개의치에서 NDI가 RDI보다 환자만족도·삶의질 유의 우월(Park 2023); Ti-Zr(Roxolid) 합금이 기계적 제한 해제의 핵심 재료이다.
+
+핵심 한계: 추적기간 대부분 ≤36개월(짧음), 구치부 dominant 합병증은 기술적(나사풀림·파절 최대 23.5%), 생물학적 합병증 풀링 불가(Pachiou 2025), FEA에서 2.5 mm extra-narrow는 30° 경사하중 시 응력이 항복강도 초과 → "3.0 mm가 임상적 안전 하한"(Barbosa 2021).
 
 ## Thesis
 The historical objection to narrow-diameter implants (NDIs) was mechanical: a reduced diameter means less bone contact and lower fracture/fatigue resistance, so NDIs were confined to the anterior region and to retaining overdentures. Four recent SR/MAs collectively dismantle that restriction. Survival is high and statistically indistinguishable from regular-diameter implants (RDIs) in every indication tested — the esthetic anterior maxilla (Zhang 2024, 36-mo ISR 93.8–100% vs 100%), load-bearing posterior fixed prostheses (Pachiou 2025, pooled survival 97.0% maxilla / 96.5% mandible across 2741 NDIs), and titanium-zirconium single crowns (Cao 2023, 97.5% survival, no difference vs commercially pure titanium). Marginal bone loss is equivalent throughout.

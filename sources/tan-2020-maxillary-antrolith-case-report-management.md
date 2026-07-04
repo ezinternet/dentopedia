@@ -17,13 +17,23 @@ text_filename: tan-2020-maxillary-antrolith-case-report-management.txt
 
 상악동석(Antrolith, 상악동석)은 상악동 거상술 전 CBCT에서 발견될 수 있는 방사선 불투과성 병변이다. 이를 MRC·pseudocyst·악성종양과 감별하고 임플란트 계획 전 처치 여부를 결정하는 것이 임상적으로 중요. [[sinus-lift/pseudocyst/shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case]]와 함께 상악동석의 전체 임상 스펙트럼(무증상 소형 vs 증상성 대형)을 포괄.
 
-## One-line Summary
+## Three-line Summary
 
-Case report of an asymptomatic 3.1×3.6mm maxillary antrolith (incidental CBCT finding in a 67-year-old pre-Denosumab patient) managed with Caldwell-Luc excision; literature review confirms small asymptomatic antroliths do not require prophylactic removal.
 
-## 한줄요약
+Case report of an asymptomatic 3.1×3.6mm maxillary antrolith (incidental CBCT finding in a 67-year-old pre-Denosumab patient) managed with Caldwell-Luc excision;
 
-67세 여성 데노수맙 치료 전 CBCT에서 우연히 발견된 3.1×3.6mm 무증상 상악동석 증례; 소형 무증상 상악동석은 예방적 제거 불필요, 증상성·합병증 동반 시 수술 제거.
+literature review confirms small asymptomatic antroliths do not require prophylactic removal.
+
+(incomplete)
+
+## 세줄요약
+
+
+67세 여성 데노수맙 치료 전 CBCT에서 우연히 발견된 3.1×3.6mm 무증상 상악동석 증례;
+
+소형 무증상 상악동석은 예방적 제거 불필요, 증상성·합병증 동반 시 수술 제거.
+
+(incomplete)
 
 ## 1. Document Information
 

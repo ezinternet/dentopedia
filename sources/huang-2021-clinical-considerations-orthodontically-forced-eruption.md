@@ -17,13 +17,23 @@ text_filename: huang-2021-clinical-considerations-orthodontically-forced-eruptio
 
 biologic width 스레드의 연장 — [[periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]]가 SCTA 침범 교정법으로 "교정적 정출(extrusion)"을 목록에만 올렸는데, 본 리뷰는 그 정출 옵션을 deep-dive한다: 크라운연장 수술 대비 인접치 골보존·crown-to-root 비 개선·심미 우위, 그리고 페룰(ferrule) 확보·임플란트 식립부 개발까지. biologic-width 침범을 "수복 불가 → 수복 가능"으로 전환하는 비외과적 대안을 [[periodontics/hamasni-2017-biologic-width-restorative-dentistry]]의 치수 근거와 짝지어 임상 결정 트리를 보강.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of orthodontically forced eruption (extrusion) for restorative purposes — crown lengthening/ferrule when caries or fracture violates the supracrestal tissue attachment (biologic width), and implant site development — detailing indications, contraindications, PDL tension biology, Salama and Hochman classifications, appliances, and ~1–2 mm/month extrusion protocol.
 
-## 한줄요약
+(incomplete)
 
-교정적 정출(Forced Eruption, 강제맹출)의 수복 목적 활용을 다룬 내러티브 리뷰 — 우식·파절이 초치조상부 조직부착(생물학적 폭경, biologic width)을 침범했을 때의 크라운연장·페룰 확보와 임플란트 식립부 개발; 적응증·금기·치주인대(PDL) 장력 생물학·Salama/Hochman 분류·장치·정출 속도(1–2 mm/월) 정리.
+(incomplete)
+
+## 세줄요약
+
+
+교정적 정출(Forced Eruption, 강제맹출)의 수복 목적 활용을 다룬 내러티브 리뷰 — 우식·파절이 초치조상부 조직부착(생물학적 폭경, biologic width)을 침범했을 때의 크라운연장·페룰 확보와 임플란트 식립부 개발;
+
+적응증·금기·치주인대(PDL) 장력 생물학·Salama/Hochman 분류·장치·정출 속도(1–2 mm/월) 정리.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [systematic-review, critical-appraisal, worksheet, forest-plot, heterogeneity, anonymous]
 ---
 
-## One-line Summary
-Anonymous, undated 4-page systematic-review critical-appraisal worksheet (presumed CASP/PHRU-style) providing a Yes/No/Unclear checklist (PICO, search comprehensiveness, inclusion criteria, study quality, heterogeneity, forest-plot interpretation) with a worked 5-trial example; a teaching/journal-club artifact only — not citable (no author, date, or journal).
+## Three-line Summary
 
-## 한줄요약
-4쪽짜리 익명 SR 비판적 평가 체크리스트 (CASP/PHRU 양식 추정): PICO·검색·포함기준·질평가·heterogeneity·forest plot 해석을 Yes/No/Unclear로 점검; 출처 미상이므로 인용 불가, 학습용으로만 사용.
+Anonymous, undated 4-page critical-appraisal worksheet (presumed CASP/PHRU-style) for systematic reviews, providing a Yes/No/Unclear checklist covering PICO, search comprehensiveness, inclusion criteria, study-quality assessment, heterogeneity (Q/df, Cochran p<0.10), and forest-plot interpretation.
+
+A worked 5-trial mortality meta-analysis example yields pooled OR 0.66 (95% CI 0.56–0.78, p<0.0001) with confirmed homogeneity (Q/df=0.23), illustrating the decision pipeline from "is the SR trustworthy?" through to "should this change my practice?".
+
+This is a teaching/journal-club artifact only — it has no named author, date, or journal and must not be cited in clinical write-ups; use Kiriakou 2014 or Shin WJ 2015 instead, and note it predates PRISMA 2020, RoB 2, and AMSTAR 2.
+
+## 세줄요약
+
+저자·날짜·저널 미상의 4쪽 SR 비판적 평가 체크리스트(CASP/PHRU 추정): PICO·검색 완전성·포함기준·연구 질 평가·이질성(Q/df, Cochran p<0.10)·forest plot 해석을 Yes/No/Unclear 체크리스트로 제공.
+
+5편 사망률 메타분석 예시(OR 0.66, 95% CI 0.56–0.78, p<0.0001, Q/df=0.23 동질성 확인)로 'SR 신뢰성 판단 → 결과 해석 → 임상 적용' 결정 흐름 시연.
+
+저자·날짜 없어 인용 불가 — 임상 문서에는 Kiriakou 2014 또는 Shin WJ 2015 사용; PRISMA 2020·RoB 2·AMSTAR 2 미반영으로 현대 SR 평가에는 불완전.
 
 ## Summary
 This is a "fill-in" worksheet, not a publication. It is useful as a chairside or journal-club checklist when reading an SR. It is **not** citable — no author, no date, no journal.

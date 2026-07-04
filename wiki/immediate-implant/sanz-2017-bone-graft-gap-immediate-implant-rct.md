@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-RCT (n=20, 12-month CBCT) at immediately placed implants showing that filling a buccal gap ≥3mm with xenograft significantly reduces buccal bone resorption (-0.46 vs -0.84 mm, p<0.05); 100% implant survival in both groups.
+## Three-line Summary
 
-## 한줄요약
-즉시식립 임플란트 협측 틈새(≥3mm) 이종골 충전 RCT — 충전군 협측 골 흡수 유의 감소(-0.46 vs -0.84mm).
+RCT (n=20, 12-month CBCT follow-up) evaluating whether filling the buccal gap (≥3 mm) at immediate implant placement sites with xenograft reduces buccal hard tissue resorption compared with no graft.
+
+Xenograft gap filling significantly reduced buccal bone thickness change (−0.46 mm graft vs −0.84 mm control, p<0.05); 100% implant survival in both groups at 12 months.
+
+Xenograft filling is recommended when the buccal gap is ≥3 mm at immediate implant placement; below 3 mm, natural bone fill may be sufficient without grafting.
+
+## 세줄요약
+
+즉시식립 부위의 협측 틈새 (≥3 mm)를 이종골로 충전하는 것이 협측 경조직 흡수를 줄이는지 평가한 RCT (n=20, 12개월 CBCT 추적).
+
+이종골 충전군의 협측 골 두께 변화가 유의하게 작음 (−0.46 mm vs 대조군 −0.84 mm, p<0.05); 양군 12개월 생존율 100%.
+
+협측 틈새 ≥3 mm인 즉시식립 부위에서는 이종골 충전 권고; 3 mm 미만은 자연 골충전으로 충분할 수 있다.
 
 ## Summary
 RCT evaluating whether filling the buccal gap (≥3mm) at immediate implant sites with xenograft reduces buccal bone loss.

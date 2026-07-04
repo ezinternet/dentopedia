@@ -13,13 +13,23 @@ source_collection: external
 
 This 2020 dog study is the direct sequel to [[wiki/occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]], which showed progressive loading alone increases BIC; this paper adds an overloading phase to test whether progressive loading conditions bone to better resist damage. Ingested to complete the Podaropoulos progressive-loading series and to ground [[wiki/overviews/implant-occlusion-loading-biomechanics-overview]] with animal-level mechanobiological evidence on overloading thresholds.
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal RCT (n=5 beagle dogs, 40 implants): progressive orthodontic pre-loading before overloading significantly raised implant success rate (87.5% vs 67.5%) but did not further increase bone-to-implant contact compared with overloading alone.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 동물실험(비글 5마리, 임플란트 40개): 점진적 교정력 전처치 후 과부하 적용 시 임플란트 성공률이 87.5%로 과부하 단독군(67.5%)보다 유의하게 높았으나, 골-임플란트 접촉률(BIC)은 두 군 간 유의한 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

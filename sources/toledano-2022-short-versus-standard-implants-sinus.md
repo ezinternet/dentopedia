@@ -9,8 +9,21 @@ pdf_filename: toledano-2022-short-versus-standard-implants-sinus.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Meta-analysis of 14 RCTs (597 patients, 901 implants) finding similar implant survival but significantly lower MBL with short implants (≤6 mm) vs. standard implants (≥8 mm) + sinus lift in atrophic posterior maxilla.
+## Three-line Summary
+
+Systematic review and meta-analysis (14 RCTs, 597 patients, 901 implants, PROSPERO #295642) comparing short implants ≤6 mm without sinus augmentation vs standard implants ≥8 mm plus sinus lift in atrophic posterior maxilla; search through February 2022.
+
+Implant survival was equivalent (RR=1.02, p=0.09, I²=0%), but short implants produced significantly less marginal bone loss at both ≤1 year (0.11 mm less, p=0.03) and >1 year (0.23 mm less, p=0.005); short implants also showed less postoperative discomfort, shorter surgical time, and better patient satisfaction.
+
+High MBL heterogeneity (I²=74–78%) limits precision of bone-loss conclusions, long-term (>5 year) data remain sparse, and the strict ≤6 mm definition may not reflect the full clinical range of short implants; however, evidence supports short implants as a valid first-line alternative to sinus grafting in appropriate cases.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (RCT 14편, 환자 597명, 임플란트 901개, PROSPERO #295642) — 위축된 상악 구치부에서 짧은 임플란트 (Short Implant, ≤6 mm) 대 표준 임플란트 (≥8 mm) + 상악동거상술 (Sinus Lift) 비교; 2022년 2월까지 검색.
+
+임플란트 생존율은 동등 (RR=1.02, p=0.09, I²=0%), 그러나 짧은 임플란트가 ≤1년 (0.11 mm 적음, p=0.03) 및 >1년 (0.23 mm 적음, p=0.005) 모두에서 유의하게 적은 변연골 소실 (Marginal Bone Loss, MBL); 짧은 임플란트가 수술 후 불편감·수술 시간·환자 만족도에서도 우세.
+
+MBL 이질성이 높아 (I²=74–78%) 골소실 결론의 정밀도가 제한되며, 장기(>5년) 데이터가 부족하고 엄격한 ≤6 mm 기준이 실제 임상 범위를 완전히 반영하지 못하나, 적절한 증례에서 상악동 이식 대신 짧은 임플란트가 1차 선택지로 지지됨.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations (2022) 26:6681–6698

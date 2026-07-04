@@ -16,13 +16,21 @@ relations:
     target: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-1-year retrospective study (48 anterior single immediate implants) comparing subepithelial CTG (SCTG), xenogenic collagen matrix (XCM), and no graft (NG); 100% survival, with the no-graft group losing significantly more facial soft-tissue thickness and buccal marginal level, while XCM performed comparably to SCTG.
+1-year retrospective study (48 anterior single immediately placed and provisionalized implants, BioMed Research International 2021) comparing subepithelial CTG (SCTG), xenogenic collagen matrix (XCM), and no graft (NG) at IIPP sites.
 
-## 한줄요약
+Survival was 100% across all groups; SCTG and XCM preserved facial soft-tissue thickness (FSTT) and buccal marginal level comparably (P>0.05), whereas the no-graft group lost significantly more of both (P<0.05).
 
-1년 후향연구(전치부 단일 즉시식립 48례) — SCTG·이종 콜라겐 기질(XCM)·무이식(NG) 비교에서 생존율 100%, 무이식군이 협측 연조직 두께·변연 수준 손실이 유의하게 컸고 XCM은 SCTG와 동등한 결과를 보였다.
+XCM positions as a viable donor-site-free alternative to autogenous CTG; retrospective design and 1-year follow-up limit evidence strength.
+
+## 세줄요약
+
+1년 후향 연구 (전치부 단일 즉시식립+즉시임시치아 48례, BioMed Res Int 2021): SCTG·이종 콜라겐 기질(XCM)·무이식(NG) 3군 비교.
+
+생존율 100%; SCTG ≈ XCM (FSTT·협측 변연 수준 P>0.05); 무이식군에서 두 지표 모두 유의하게 큰 손실(P<0.05).
+
+XCM이 공여부 없는 SCTG 대안으로 가능성 확인 — 후향 설계·1년 추적 한계로 근거 수준 제한.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [orthodontic-tooth-movement, otm, rankl, opg, rank, corticotomy, lipus, stem-cell, gene-therapy, biomarker, acceleration]
 ---
 
-## One-line Summary
-Narrative review (Cochrane, PubMed, Scopus through June 2023) of the molecular biology of orthodontic tooth movement (OTM) centered on the OPG/RANK/RANKL triad, surveying surgical (corticotomy/decortication, RAP), pharmacological, physical (LIPUS, vibration), gene therapy, and stem cell interventions to accelerate or control OTM; clinical translation is limited by scarce human studies and high cost/complexity.
+## Three-line Summary
 
-## 한줄요약
-교정적 치아이동(Orthodontic Tooth Movement, OTM) 분자·생물학적 기전 + 바이오엔지니어링 개입 가능성 narrative review (Bioengineering 2023): OPG/RANK/RANKL triad 중심; 외과·약물·진동 개입법; 인체 연구 부족으로 임상 적용 제한적.
+Narrative review (Bioengineering 2023; Cochrane/PubMed/Scopus to June 2023) of the molecular biology of OTM centered on the OPG/RANK/RANKL triad, surveying bioengineering interventions aimed at accelerating or controlling tooth movement.
+
+Surgical interventions (corticotomy, RAP) accelerate OTM; LIPUS and vibration show mixed evidence; pharmacological RANKL/OPG modulation, gene therapy, and stem cell approaches remain preclinical with no accepted clinical application; no universally accepted OTM biomarkers exist.
+
+Clinical translation of most bioengineering approaches is limited by scarcity of human studies, high cost, and technical complexity — OPG/RANKL modulation is the most mature target but still lacks robust clinical RCTs.
+
+## 세줄요약
+
+OPG/RANK/RANKL 삼원체 중심으로 OTM 분자 생물학과 바이오엔지니어링 개입 가능성을 정리한 narrative review (Bioengineering 2023, 2023년 6월까지).
+
+외과적 개입(골절단·RAP)은 OTM 가속; LIPUS·진동은 혼재 근거; 약물적 RANKL/OPG 조절·유전자치료·줄기세포는 전임상 수준에만 머물고 임상 적용 없음; 보편적 OTM 바이오마커 부재.
+
+대부분의 바이오엔지니어링 접근은 인체 연구 부족·고비용·기술적 복잡성으로 임상 전환이 제한적이며, OPG/RANKL 조절이 가장 성숙한 표적이나 여전히 강력한 임상 RCT가 부족함.
 
 ## Summary
 Narrative review (Cochrane, PubMed, Scopus; until June 2023) examining biomedical parameters influencing orthodontic tooth movement (OTM). Published November 2023, Bioengineering 10:1275. Aristotle University Thessaloniki + NKUA Athens + Case Western Reserve.

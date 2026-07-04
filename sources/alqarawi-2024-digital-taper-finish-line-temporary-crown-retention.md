@@ -9,8 +9,21 @@ pdf_filename: alqarawi-2024-digital-taper-finish-line-temporary-crown-retention.
 source_collection: external
 ---
 
-## One-line Summary
-Saudi Dent J 2024;36:1477-1482 (Saudi Arabia) — 2×2×2 in vitro factorial: 10° vs 20° TOC × chamfer vs shoulder × CAD/CAM milled vs 3D printed provisional molar crowns; 3D-printed retain higher (~6.6-7.65 MPa) than milled (~2.35-3.52 MPa); best combo = 3D printed + 20° TOC + shoulder finish line.
+## Three-line Summary
+
+In vitro 2×2×2 factorial study (n=80 specimens; 8 groups × 10; thermocycled 5,000 cycles) comparing provisional molar crown retention as a function of total occlusal convergence (10° vs 20°), finish line design (chamfer vs shoulder), and digital manufacturing method (CAD/CAM milling vs 3D printing).
+
+3D-printed provisional crowns showed approximately 2–3× higher tensile retention (~6.6–7.65 MPa) than CAD/CAM-milled crowns (~2.35–3.52 MPa) across all preparation configurations; the best overall retention was 3D printed + 20° TOC + chamfer (7.65 MPa), with 3D printed + 20° TOC + shoulder recommended for extended-wear provisionals.
+
+Printing material properties (as opposed to preparation geometry alone) appear to be the primary driver of provisional retention; single cement type and lack of masticatory simulation limit clinical translation.
+
+## 세줄요약
+
+in vitro 2×2×2 요인 실험 (n=80; 8군×10, 열순환 5,000회) — 총교합수렴각(Total Occlusal Convergence, TOC) 10° vs 20°, 변연 형태(chamfer vs shoulder), 제조 방식(CAD/CAM 밀링 vs 3D 프린팅) × 임시 구치부 치관 유지력 비교.
+
+3D 프린팅 임시 치관이 CAD/CAM 밀링 대비 약 2–3배 높은 인장 유지력 (~6.6–7.65 MPa vs ~2.35–3.52 MPa); 최고 유지력: 3D 프린팅+20° TOC+챔퍼 (7.65 MPa); 장기 임시 사용에는 3D 프린팅+20° TOC+숄더 권장.
+
+재료 특성이 준비 형태보다 유지력의 주요 결정 인자로 보임; 단일 시멘트 종류·저작 시뮬레이션 부재로 임상 적용 제한.
 
 ## 1. Document Information
 - Journal: The Saudi Dental Journal 2024;36:1477-1482

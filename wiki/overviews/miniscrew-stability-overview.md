@@ -28,13 +28,21 @@ tags: [orthodontics, miniscrew, tad, temporary-anchorage-device, failure, reuse,
 > - 임상 표준: 신품 + 정중구개부/후방 상악 우선 + root proximity 회피. [합의수준]
 > - 보조 근거: 협골하능선 미니스크류 pooled 성공률 92%(Katyal 2024), 피질골 두께가 1차 안정성을 견인(Marquezan 2012·2014, r=0.409)해 부위 선택 기준으로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis integrating 3 core SR+MAs (plus spokes) on orthodontic miniscrew (Temporary Anchorage Device, TAD) stability across 3 axes — overall failure rate, anatomical-site differences, and reuse safety. Core thesis: overall failure is ~13.5% (≈1 in 6–7) with smoking and gingival-tissue type the only consistent risk factors, site dominates outcome (midpalatal 1.3% lowest vs zygomatic buttress 16.4% highest, root proximity a strong predictor), and reused miniscrews show no in-vitro torque difference yet significantly higher clinical failure — so the clinical standard is new screws at midpalatal/posterior-maxilla sites with root-proximity avoided (≥1 mm safety margin on CBCT).
+Synthesis of 3 core SR+MAs on orthodontic miniscrew (Temporary Anchorage Device, TAD) stability across 3 axes: overall failure rate 13.5% (≈1 in 6–7) with smoking and gingival tissue type as the only consistent risk factors (Alharbi 2018 SR+MA, 46 studies, n=3,250); anatomical site dominates outcome — midpalatal 1.3% (lowest) vs zygomatic buttress 16.4% (highest), with root proximity a strong predictor (Mohammed 2018 SR+MA, 61 studies).
 
-## 한줄요약
+Reused miniscrews show no in-vitro insertion/fracture torque difference yet clinically significantly higher failure rates (Jahanbin 2025 SR+MA, 18 studies), establishing that in-vitro equivalence does not translate to clinical safety — the standard of care is single-use screws, with reuse only under informed consent + damage inspection + sterilization protocol.
 
-교정 미니스크류(Temporary Anchorage Device, TAD) SR+MA 3편 통합. 전체 실패율 13.5%; midpalatal 1.3%로 가장 안전, zygomatic buttress 16.4%로 위험. 재사용 미니스크류는 in-vitro torque 차 없으나 임상 실패율 유의 상승.
+The clinical decision ladder is: CBCT to confirm ≥1 mm root-proximity safety margin → site priority midpalatal (1.3%) for maxillary anterior / infrazygomatic crest or buccal alveolus (5–9%) for maxillary posterior / avoid zygomatic buttress (16.4%) → patient risk assessment (smoking, periodontitis, bone density) → single-use implant standard; failure: re-insert 1–2 mm away from original site.
+
+## 세줄요약
+
+교정 미니스크류(Temporary Anchorage Device, TAD) SR+MA 3편 통합: 전체 실패율 13.5%(6–7개당 1개; Alharbi 2018 SR+MA, 46편 n=3,250), 흡연·치은조직 형태만 유의 위험인자 — 환자 동의 시 명시·흡연력 확인 필수; 부위별 격차: midpalatal 1.3%(최저)·zygomatic buttress 16.4%(최고), 치근 근접도(Root Proximity)가 강한 예측자(Mohammed 2018 SR+MA, 61편).
+
+재사용 미니스크류: in-vitro 삽입·파절 토크 차이 없으나 임상 실패율 유의 상승(Jahanbin 2025 SR+MA, 18편) — "in-vitro 동등 = 임상 안전"이 아님; 표준은 single-use, 부득이한 재사용 시 환자 동의+손상 검사+항균 멸균 프로토콜.
+
+임상 결정 ladder: CBCT로 치근 안전공간 ≥1 mm 확인 → 부위 우선순위(상악 전치: midpalatal 1.3%, 상악 구치: infrazygomatic crest·협측 치조골 5–9%, zygomatic buttress 회피) → 환자 평가(흡연·치주·골밀도) → single-use 표준; 실패 시 1–2 mm 거리에서 재삽입.
 
 ## Summary
 

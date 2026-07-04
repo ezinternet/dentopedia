@@ -13,13 +13,23 @@ source_collection: external
 
 L-serine incorporation as a degradation modulator in collagen scaffolds — provides mechanistic insight into controllable membrane/scaffold degradation kinetics through non-crosslinking amino acid modification. Relevant to GBR barrier membrane design where premature resorption is a clinical problem. [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]]
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal + in vitro study: incorporating 40 wt% L-serine into bovine collagen scaffolds significantly slows subcutaneous degradation (residual area 2.70 vs 0.37 mm², p<0.05) without chemical crosslinking, though still slower than commercial Bio-Gide (5.64 mm²).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 동물(피하) + 시험관 연구: L-세린 40 wt% 콜라겐 스캐폴드는 화학적 가교 없이 분해 속도를 유의하게 지연시키나 Bio-Gide보다는 여전히 빠른 흡수 보임.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

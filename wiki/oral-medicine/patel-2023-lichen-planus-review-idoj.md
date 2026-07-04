@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Narrative review of lichen planus (LP) as a chronic immune-mediated inflammatory disorder affecting skin, oral mucosa, nails, and scalp, centered on CD8+ cytotoxic T cell damage to basal keratinocytes; topical corticosteroids are first-line and tacrolimus for refractory cases, with oral LP being chronic, relapsing, and not curable.
+## Three-line Summary
 
-## 한줄요약
-편평태선(LP) 전신 임상양상 및 T세포 매개 면역병리기전 고찰 — 피부·구강·모발 침범.
+Narrative review (Indian Dermatology Online Journal 2023) of lichen planus (LP) as a chronic immune-mediated inflammatory disorder, covering all anatomical sites (skin, oral mucosa, nails, scalp) with immunopathogenesis centered on CD8+ cytotoxic T cell–mediated basal keratinocyte damage.
+
+Hallmark features include Wickham striae, Koebner phenomenon, and interface dermatitis; topical corticosteroids are first-line for symptomatic LP; tacrolimus is used for refractory oral LP; complete cure of oral LP is rare and long-term management is standard.
+
+Oral LP is chronic, relapsing, and not curable — the clinical implication is managing symptoms and monitoring malignant transformation risk rather than expecting resolution.
+
+## 세줄요약
+
+서술 리뷰(Indian Dermatology Online Journal, 2023) — 편평태선(Lichen Planus, LP)을 피부·구강점막·손발톱·두피 등 전 해부학적 부위를 포함한 만성 면역매개 염증질환으로 개괄; 면역병리는 CD8+ 세포독성 T세포의 기저 각질세포 손상이 핵심.
+
+특징적 소견: 위컴 선조(Wickham striae)·쾨브너 현상(Koebner phenomenon)·경계부 피부염(interface dermatitis); 증상성 LP 1차 치료는 국소 스테로이드, 난치성 구강 LP에는 타크롤리무스(tacrolimus); 구강 LP는 완치 드물고 장기 관리가 표준.
+
+구강 편평태선(Oral LP)은 만성·재발성으로 완치 불가 — 증상 조절과 악성변화 위험 모니터링이 임상 목표.
 
 ## Summary
 Review of systemic lichen planus covering skin, oral mucosa, nails, and scalp manifestations; immunopathogenesis centered on CD8+ T cell cytotoxicity.

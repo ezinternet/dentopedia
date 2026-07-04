@@ -20,13 +20,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/khalil-2024-posterior-maxillary-teet
 text_filename: khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=124 patients, 992 teeth) found periapical lesions (AOR=32.7), first molars (AOR=3.97), and severe periodontal bone loss (AOR=2.75) as strongest independent predictors of maxillary sinus mucosal thickening.
+Retrospective cross-sectional CBCT study (n=124 patients, 992 posterior maxillary teeth, Egypt 2023–2024) using multivariable logistic regression to quantify independent predictors of maxillary sinus mucosal thickening (MT).
 
-## 한줄요약
+Periapical lesion was the dominant predictor (AOR=32.7), followed by first molar position (AOR=3.97) and severe periodontal bone loss (AOR=2.75); even extracted teeth carried less MT risk than present teeth without periapical lesions (AOR=19.8 vs reference); MT prevalence was 72.6% of patients.
 
-CBCT 후향적 연구(n=124명, 992치): 치근단 병변(AOR=32.7), 제1대구치(AOR=3.97), 중증 치주골 소실(AOR=2.75)이 상악동 점막비후의 독립적 위험인자.
+Pre-sinus-lift CBCT should specifically assess first molars and second molars for periapical lesions and severe periodontal bone loss, with ENT collaboration for significant thickening before augmentation.
+
+## 세줄요약
+
+후향적 CBCT 단면연구 (n=124명, 992치, 이집트 2023–2024): 다변량 로지스틱 회귀로 상악동 점막비후 (Mucosal Thickening, MT) 독립 예측인자 정량화; MT 유병률 72.6%.
+
+치근단 병변 (Periapical Lesion) 이 가장 강한 예측인자 (AOR=32.7); 제1대구치 (AOR=3.97), 중증 치주골 소실 (AOR=2.75) 순; 발치 부위 대비 치근단 병변 없는 치아도 AOR=19.8로 유의하게 높음.
+
+상악동거상술 전 콘빔 전산화 단층촬영 (CBCT)에서 제1·2대구치의 치근단 병변과 치주골 소실을 집중 평가하고, 유의한 점막비후 시 이비인후과 협진 권고.
 
 ## Summary
 

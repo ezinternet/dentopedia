@@ -16,13 +16,21 @@ relations:
     target: revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional rubric-based evaluation of 334 typodont preparations made by senior dental students for CAD/CAM restorations, finding finish line quality the most frequent error (136/223 prostheses) — the criterion most critical for well-fitting CAD/CAM restorations.
+Cross-sectional rubric study (J Dent Educ 2020, AY 2018–19) in which 4 calibrated faculty scored 334 typodont tooth preparations by senior dental students for CAD/CAM restorations (111 lithium disilicate crowns, 223 monolithic zirconia partial FDPs) across 4 criteria including an explicit intraoral-scanner-impression criterion.
 
-## 한줄요약
+Finish line quality was by far the most frequent error, recorded in 136 of 223 prostheses — the criterion that most directly degrades digital-workflow fit quality.
 
-단면연구(루브릭, 타이포돈트 형성치 334개): 본과 4학년 학생의 CAD/CAM 형성치에서 finish line(변연선) 품질 오류가 가장 빈번(223건 중 136건)했으며, 이는 CAD/CAM 수복물 적합도에 가장 결정적인 항목이다.
+Because finish line geometry is exactly the variable that [[digital-workflow/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr]] identifies as the primary IOS accuracy driver, this study maps educational frequency onto clinical consequence: the error students make most often is the one that matters most for digital fit.
+
+## 세줄요약
+
+단면 루브릭 연구(J Dent Educ 2020, 2018–19학년): 교수 4명이 본과 4학년 학생의 CAD/CAM 형성치 334개(리튬다이실리케이트 크라운 111개, 모놀리식 지르코니아 부분 FDP 223개)를 IOS 인상 기준을 포함한 4개 항목으로 평가.
+
+finish line 품질 오류가 가장 빈번(223건 중 136건)하며, 이는 CAD/CAM 디지털 워크플로우 적합도에 가장 결정적인 항목임.
+
+Revilla-León 2025 SR이 finish line 위치·디자인을 IOS 정확도의 핵심 결정인자로 규명한 것과 맞물려, 학생들이 가장 자주 범하는 오류가 임상에서 가장 중요한 결과를 초래함을 보여줌.
 
 ## Summary
 

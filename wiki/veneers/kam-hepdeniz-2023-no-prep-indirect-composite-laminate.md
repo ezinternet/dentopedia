@@ -18,13 +18,22 @@ relations:
     target: chandode-2026-no-preparation-conventional-veneers-clinical-considerations
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (n=80 veneers, 35 patients, 84 months): no-prep indirect microhybrid composite laminate veneers achieved 91.3% survival (Kaplan-Meier) with zero tooth fractures, zero secondary caries, and zero antagonist wear; failures limited to 4 debondings and 3 fractures.
+Prospective single-center case series (Suleyman Demirel University, Turkey; n=80 no-prep indirect microhybrid composite laminate veneers, 35 patients, indications: diastema closure 80%, wedge anomalies 11.3%, re-shaping 8.8%, all on intact enamel, 84-month follow-up) evaluated by modified USPHS criteria.
 
-## 한줄요약
+Kaplan-Meier survival was 91.3% (mean retention time 78.3 months); absolute failures were 7/80 (4 debondings, 3 fractures from hard food non-compliance); zero tooth fractures, secondary caries, antagonist wear, or postoperative sensitivity were observed throughout 7 years.
 
-전향적 증례 연구(n=80 비니어, 84개월): 무삭제 간접 복합레진 라미네이트 비니어 (no-prep indirect composite laminate veneer) 생존율 91.3% (생존 분석, Kaplan-Meier); 치아파절·이차 우식·대합치 마모 0건, 실패는 탈락 (디본딩, debonding) 4개·파절 3개뿐.
+This longest published no-prep indirect composite dataset supports the enamel-bonding hypothesis — 91.3% survival exceeds historical prepared composite data (87% at 3y, 75% at 10y) — but the no-bruxism, no-severe-malocclusion exclusion criteria limit applicability to screened low-risk cases.
+
+## 세줄요약
+
+전향적 단일기관 증례 연구 (터키 Suleyman Demirel 대학; 무삭제 간접 마이크로하이브리드 레진 라미네이트 비니어 80개, 35명 — 치간이개 폐쇄(Diastema Closure) 80%·쐐기형 이상(Wedge Anomaly) 11.3%·재형성 8.8%, 전 증례 법랑질 위, 84개월): 수정 USPHS 기준 평가.
+
+Kaplan-Meier 생존율 91.3% (평균 유지 기간 78.3개월); 절대 실패 7개 (탈접 4·파절 3 — 모두 딱딱한 음식 비순응); 7년간 치아파절·이차 우식(Secondary Caries)·대합치 마모·술후 과민 0건.
+
+현재까지 가장 긴 무삭제 간접 레진 비니어 추적 데이터 — 법랑질 접착의 우수성 지지 (91.3% > 삭제 레진 역사적 87%/75%); 단, 이갈이·심한 부정교합 배제로 선별된 저위험군에만 적용 가능.
+
 
 ## Summary
 

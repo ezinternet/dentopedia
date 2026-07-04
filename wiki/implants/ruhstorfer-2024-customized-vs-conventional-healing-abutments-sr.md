@@ -20,13 +20,21 @@ relations:
     target: rios-santos-2020-one-abutment-one-time-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 studies — 2 RCTs, 2 prospective, 1 retrospective; 190 implants, 100% survival, 6–36 mo) finding customized healing abutments trend toward better peri-implant soft/hard tissue and esthetics with less treatment pain and no biological or esthetic disadvantage vs conventional titanium stock abutments.
+Systematic review (PROSPERO CRD42024532449; 5 studies — 2 RCTs, 2 prospective, 1 retrospective; 190 implants, 91 customized/99 conventional; 6–36 months; all low risk of bias) comparing customized vs conventional prefabricated titanium stock healing abutments.
 
-## 한줄요약
+Customized healing abutments trended toward equal or better peri-implant soft tissue (less keratinized tissue reduction, better papilla indices), hard tissue (greater alveolar width gain), and esthetics (pink esthetic score), with significantly less early pain (NRS, p=0.003 at insertion); 100% survival in both groups; no measured biological or esthetic disadvantage.
 
-체계적 문헌고찰(5편 — RCT 2·전향 2·후향 1; 임플란트 190개, 생존율 100%, 6–36개월)로, 맞춤형 치유지대주(customized healing abutment)가 기성 티타늄 치유지대주 대비 임플란트주위 연·경조직과 심미가 더 좋아지는 경향을 보이고 치료 통증은 줄이며 생물학적·심미적 불리함은 없다고 결론.
+Meta-analysis was not possible due to heterogeneity; the evidence is short-term and thin (5 studies), making customized abutments a reasonable clinical preference — especially for immediate placement in esthetic zones — rather than a mandated protocol.
+
+## 세줄요약
+
+체계적 문헌고찰(SR; PROSPERO CRD42024532449; 5편 — RCT 2·전향 2·후향 1; 임플란트 190개, 맞춤형(Customized) 91/기성형(Conventional) 99; 추적 6–36개월; 전편 저위험 비뚤림) — 맞춤형 치유 지대주(Customized Healing Abutment) vs 기성 티타늄 치유 지대주 비교.
+
+맞춤형 치유 지대주는 연조직(각화 조직 소실↓, 치간 유두 지수 향상), 경조직(치조골 폭경 획득 더 큼), 심미(분홍 심미 점수, Pink Esthetic Score, PES)에서 동등 또는 우수한 경향; 삽입 시 통증(NRS) 유의하게 낮음(p=0.003); 생존율 100%; 생물학적·심미적 불이익 없음.
+
+이질성으로 메타분석 불가; 5편 단기 근거 — 맞춤형 치유 지대주는 특히 전치부 즉시 식립 시 유리한 임상 선택이지만 의무적 프로토콜은 아님.
 
 ## Summary
 

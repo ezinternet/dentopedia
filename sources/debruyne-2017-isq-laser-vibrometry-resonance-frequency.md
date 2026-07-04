@@ -13,13 +13,21 @@ source_collection: external
 
 ISQ는 Osstell 기기가 측정 공명주파수(Resonance Frequency, RF)를 비공개 다항식 계수(a,b,c,d,e)로 변환해 산출하는데, 이 변환 알고리즘 자체가 옳은지 독립적으로 검증된 적이 없었다. 본 in-vitro 연구는 레이저 도플러 진동측정법(Laser Doppler Vibrometry, LDV)으로 RF를 독립 포착한 뒤 Osstell 알고리즘으로 ISQ를 역산하여 기기 직접 측정값과 비교(r=0.99)함으로써 그 알고리즘의 정확성을 확인한다. 이는 [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]]의 RFA 수학적 모델링을 실험적으로 보강하고, [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]]의 ISQ 신뢰도(reliability) 논의에 측정 변환 단계의 타당도(validity) 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (20 resin-imbedded test implants; Straumann TL, Ankylos, 3i Certain) capturing resonance frequency by laser Doppler vibrometry and recomputing ISQ with the Osstell algorithm — indirect (LDV-derived) vs direct (Osstell IDx) ISQ correlated at r=0.99 with a clinically negligible mean difference (~0.09–0.54 ISQ units), validating the Osstell ISQ calculation algorithm.
+In-vitro study (20 resin-embedded test implants; Straumann TL, Ankylos, 3i Certain) capturing resonance frequency by laser Doppler vibrometry (LDV) and recomputing ISQ with the proprietary Osstell 4th-order polynomial algorithm.
 
-## 한줄요약
+Indirect (LDV-derived) vs direct (Osstell IDx) ISQ correlated at r=0.99 (p<0.001) with a clinically negligible mean difference of ~0.09–0.54 ISQ units; the difference was not statistically significant (paired t p=0.058).
 
-시험관내(in-vitro) 연구 — 레진에 매립한 시험 임플란트 20개(스트라우만 TL·앵킬로스·3i Certain)를 레이저 도플러 진동측정법(LDV)으로 공명주파수를 잡아 Osstell 알고리즘으로 ISQ를 역산한 결과, 기기 직접측정 ISQ와 r=0.99로 일치하고 평균차도 임상적으로 무시할 수준(~0.09~0.54 ISQ)이어서 Osstell의 ISQ 산출 알고리즘이 타당함을 확인.
+The Osstell ISQ-calculation algorithm is validated; older wired Osstell devices systematically underestimate ISQ by ~9–10 units compared with Mentor/IDx, so cross-generation ISQ comparisons require correction.
+
+## 세줄요약
+
+in-vitro 연구 — 레진 매립 시험 임플란트 20개(스트라우만 TL·앵킬로스·3i Certain)를 레이저 도플러 진동측정법(Laser Doppler Vibrometry, LDV)으로 공명주파수를 포착해 Osstell 비공개 4차 다항식 알고리즘으로 ISQ를 역산했다.
+
+간접(LDV 유도) vs 직접(Osstell IDx) ISQ의 상관계수 r=0.99(p<0.001), 평균 차이 약 0.09~0.54 ISQ로 통계적으로 유의하지 않음(paired t p=0.058) — Osstell ISQ 산출 알고리즘이 타당함을 확인.
+
+구형 유선 Osstell 기기는 Mentor/IDx보다 ISQ를 약 9~10 단위 과소평가하므로 기기 세대 간 ISQ 비교에는 보정이 필요하다.
 
 ## 1. Document Information
 

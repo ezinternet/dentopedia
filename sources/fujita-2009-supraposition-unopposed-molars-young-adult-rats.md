@@ -13,13 +13,21 @@ source_collection: external
 
 The [[wiki/overviews/unopposed-tooth-overeruption-overview]] explicitly names the **age effect** (younger individuals show larger supraposition of unopposed teeth) as a next-ingest gap — the existing pages establish that overeruption is variable but do not provide a controlled within-study young-vs-adult contrast. This rat micro-CT experiment is the primary animal source for that claim: it directly compares supraposition magnitude between 4-week (young/growing) and 26-week (adult) rats under identical occlusal-grinding conditions, and adds the dento-alveolar distinction (bone followed the tooth in young animals but not in adults). It reinforces the clinical observation in [[wiki/occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] that overeruption potential is age-dependent.
 
-## One-line Summary
+## Three-line Summary
 
-Animal micro-CT study (40 Wistar rats): unopposed maxillary molars in young (4-wk) rats showed supraposition of 262 ± 135 µm vs only 125 ± 108 µm in adults (26-wk) after 4 weeks (P < 0.01), with alveolar bone following the tooth only in the young.
+Controlled animal micro-CT study (40 Wistar rats, 4-week experiment): 20 young (4-wk) and 20 adult (26-wk) rats had maxillary molar crowns ground to remove antagonist contact, then micro-CT quantified vertical tooth position and alveolar bone level.
 
-## 한줄요약
+Young rats showed supraposition of 262 ± 135 µm vs 125 ± 108 µm in adults (P < 0.01), roughly doubling the overeruption magnitude; alveolar bone migrated coronally with the tooth only in young animals, not in adults.
 
-동물 micro-CT 연구(Wistar 쥐 40마리): 대합치 없는 상악 대구치의 정출(supraposition)이 어린 쥐(4주령)에서 262 ± 135 µm로 성체 쥐(26주령)의 125 ± 108 µm보다 유의하게 컸고(P < 0.01), 치조골(alveolar bone)은 어린 쥐에서만 치아를 따라 이동.
+Overeruption potential is age-dependent — younger patients losing antagonists are at greater risk of significant supraposition, and the accompanying alveolar apposition in growing individuals further complicates later implant placement.
+
+## 세줄요약
+
+통제 동물 micro-CT 실험(Wistar 쥐 40마리, 4주): 4주령(어린) 쥐와 26주령(성체) 쥐 각 20마리의 상악 대구치 교두를 삭제해 대합치 접촉을 제거한 후 수직 치아 위치와 치조골 수준을 micro-CT로 계측.
+
+어린 쥐의 정출량(262 ± 135 µm)이 성체(125 ± 108 µm)의 약 2배(P < 0.01)였고, 치조골(alveolar bone)은 어린 쥐에서만 치아를 따라 관상측으로 이동했으며 성체에서는 변화 없었다.
+
+대합치 상실 시 나이가 어릴수록 더 큰 정출이 일어나므로 성장기 환자의 대합치 관리 및 임플란트 계획에 연령을 반드시 고려해야 한다.
 
 ## 1. Document Information
 

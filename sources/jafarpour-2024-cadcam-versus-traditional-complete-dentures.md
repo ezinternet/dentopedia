@@ -13,13 +13,23 @@ source_collection: external
 
 This SR+MA from JOR 2024 extends [[wiki/complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]] by incorporating clinician-reported outcomes and cost data not analyzed in the 2021 review, and by subgrouping results by manufacturing method (milled vs. 3D printed) — providing a more nuanced evidence base for digital complete denture adoption decisions.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (11 studies) finding CAD/CAM complete dentures comparable to traditional in patient satisfaction and OHRQoL, with milled CDs superior in clinician satisfaction and fewer adjustments, and CAD/CAM requiring significantly lower laboratory and total costs.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (11편): CAD/CAM 총의치는 환자 만족도·구강건강관련삶의질에서 전통 의치와 동등하며, 밀링 의치는 임상의 만족도·조정 횟수에서 우수하고 전체 비용은 CAD/CAM이 유의하게 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [saline-irrigation, sharp-drill, K-wire, in-vivo, dog-tibia, osteonecrosis, orthopedic, Level-II]
 ---
 
-## One-line Summary
-Controlled in vivo canine study (Iowa Orthop J 2022, Level II; 5 devices × ± saline irrigation, bicortical tibial drilling): saline irrigation and sharp drill bits both significantly reduced temperature rise and acute histologic osteonecrosis, while conventional trocar-tip Kirschner wires produced the largest temperature rise and most osteonecrosis — supporting irrigation + sharp instrumentation as a mitigation principle transferable to implant osteotomy.
+## Three-line Summary
 
-## 한줄요약
-정형외과 dog tibia in vivo(Iowa Orthop J 2022, Level II, 5 device ± saline): saline irrigation과 sharp drill bit가 발열·급성 osteonecrosis 유의 감소; 전통 trocar-tip K-wire가 가장 큰 발열·가장 큰 osteonecrosis — 임플란트 영역에도 동일한 mitigation 원칙 적용 가능.
+Controlled in vivo canine study (Iowa Orthopedic Journal 2022, Level II evidence; 5 devices × ± saline irrigation, bicortical tibial drilling in anesthetized research dogs): temperature rise and acute histologic osteonecrosis were measured as paired outcomes.
+
+Saline irrigation and sharp drill bits both significantly reduced temperature rise and osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most osteonecrosis.
+
+Saline irrigation and sharp instrumentation are the key mitigation principles — this in vivo evidence base (orthopedic model) is transferable to dental implant osteotomy planning, with caution for industry-disclosure bias.
+
+## 세줄요약
+
+통제 in vivo 개 연구(Iowa Orthop J 2022, Level II; 5가지 기구 × 생리식염수 냉각 유무, 경골 양피질 천공): 온도 상승과 급성 조직학적 골괴사(osteonecrosis)를 쌍으로 측정.
+
+생리식염수 냉각과 날카로운 드릴 비트는 온도 상승과 골괴사를 모두 유의하게 감소시켰으며, 전통적 trocar-tip K-wire는 가장 높은 온도 상승과 가장 많은 골괴사를 보였다.
+
+생리식염수 냉각과 예리한 기구 유지가 핵심 방어 원칙이며, 이 in vivo 정형외과 근거는 치과 임플란트 골삭제에도 적용 가능하나 산업체 후원 편향은 고려해야 한다.
 
 ## Summary
 A controlled preclinical in vivo study in anesthetized research dogs evaluating bicortical tibial drilling with five different devices, with and without saline irrigation, and correlating temperature change with histologic acute osteonecrosis. Saline irrigation and sharp drill bits both produced smaller temperature increases and less acute osteonecrosis. Conventional trocar-tip Kirschner wires produced the largest temperature rise and the most osteonecrosis. The authors recommend avoiding dull drill bits and standard-tip K-wires and consistently using saline irrigation and sharp drill bits. Level II evidence.

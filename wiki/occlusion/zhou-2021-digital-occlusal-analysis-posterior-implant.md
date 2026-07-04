@@ -18,13 +18,21 @@ relations:
     target: mao-2024-occlusal-changes-implant-supported-single-crowns
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective pilot (n=32 restorations, 30 patients, 6 months) using T-Scan III showed single posterior implant prosthesis bite force doubles from 2 weeks to 3 months post-placement then stabilizes, while overall masticatory ability improves.
+Prospective pilot study (n=32 restorations, 30 patients, 5 time-points over 6 months) using T-Scan III to track occlusal force evolution after single posterior implant crown delivery.
 
-## 한줄요약
+Implant bite force approximately doubled from 2 weeks (3.39%) to 3 months (6.90%, p=0.008), then stabilized through 6 months (7.31%, p=0.900), remaining lower than adjacent teeth throughout; posterior masticatory function improved significantly for both unilateral and bilateral defect patients.
 
-후방 단일 임플란트 보철 32개를 T-Scan III로 5회 추적 측정한 전향적 파일럿 연구에서 교합력은 장착 2주~3개월 사이 약 2배 증가 후 안정화되었으며, 저작 기능은 즉시 개선됨.
+The light-contact standard at delivery does not prevent progressive force increase — the 3-month follow-up is a critical checkpoint for occlusal reassessment, especially in bilateral defect patients who show increasing arch discrepancy.
+
+## 세줄요약
+
+단일 후방 임플란트 보철 32개를 T-Scan III로 5회 추적 측정한 전향적 파일럿 연구(환자 30명, 6개월).
+
+임플란트 교합력은 장착 2주(3.39%)에서 3개월(6.90%) 사이 약 2배 증가(p=0.008) 후 6개월(7.31%)까지 안정; 구치부 저작 기능은 단측·양측 결손 모두 유의하게 개선.
+
+최초 경교합 설정에도 불구하고 교합력은 점진 증가 — 3개월 재내원이 임계 재평가 시점이며, 양측 결손 환자는 궁 간 불균형 증가에 주의 필요.
 
 ## Summary
 

@@ -17,6 +17,22 @@ text_filename: bortoli-2026-aligner-retention-gingival-margin-design.txt
 
 기존 [[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] SR은 trimline(straight/extended margin)이 force delivery·retention을 개선한다고 종합했으나, 건강한 치열 모델에서만 평가됐다는 한계가 있었다. 본 in-vitro 연구(Bortoli 2026, Korean Journal of Orthodontics)는 치은퇴축·치조골 소실 정도(Class I–IV)를 3D 프린팅으로 재현해 그 한계를 직접 메꾸며, retention이 margin design뿐 아니라 치주 상태에도 좌우됨을 처음으로 보임 — trimline SR의 적용 범위를 치주질환 환자로 확장.
 
+## Three-line Summary
+
+In vitro pull-off study (3D-printed mandibular models, n=3/group, 3 trimline designs × 5 recession conditions including control and Classes I–IV, 0.6mm PETG aligners) measuring retention force using a universal testing machine.
+
+Scalloped-extended (52.3N) and straight (47.9N) trimlines showed significantly higher retention than scalloped (33.1N); recession severity independently amplified retention (Class IV 82.2N vs control 26.8N), with the design ranking remaining consistent regardless of recession class (no significant interaction, p=0.105).
+
+The model used rigid resin for both teeth and gingiva, overestimating intraoral retention differences; no clinical threshold for "excessive" removal force exists, so the findings primarily inform design selection for periodontally compromised patients pending in vivo validation.
+
+## 세줄요약
+
+In vitro pull-off 연구(3D 프린팅 하악 모델, group당 n=3, trimline 디자인 3가지 × 퇴축 조건 5가지, 0.6mm PETG 교정장치): 만능시험기로 유지력(N) 측정.
+
+Scalloped-extended(52.3N)·straight(47.9N)가 scalloped(33.1N)보다 유의하게 큰 유지력; 퇴축 심도가 독립적으로 유지력을 증폭시켜 Class IV 82.2N vs 대조군 26.8N, 퇴축 정도와 무관하게 디자인 순위는 일정(교호작용 p=0.105).
+
+치아·치은 모두 동일 경질 레진으로 제작해 실제 구강 내 유지력 차이를 과대평가할 가능성; "과도한" 탈착력 임상 기준값이 없어 결과는 치주 취약 환자의 trimline 선택 참고에 활용하고 생체내 검증 필요.
+
 ## One-line Summary
 
 In-vitro pull-off test (n=3/group, 3D-printed models, Classes I–IV marginal tissue recession × 3 aligner trimline designs): scalloped-extended (52.3N) and straight (47.9N) margins retain significantly more than scalloped margins (33.1N), and retention rises sharply with recession severity (Class IV 82.2N vs control 26.8N).

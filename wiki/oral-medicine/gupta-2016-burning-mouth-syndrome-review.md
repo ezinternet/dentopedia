@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Narrative review of burning mouth syndrome (BMS) as a chronic pain disorder, covering epidemiology (0.7–4.6% prevalence, predominantly post-menopausal women), multifactorial pathophysiology (peripheral neuropathy plus psychological distress), diagnosis, and treatment, with RCT-supported alpha-lipoic acid and clonazepam.
+## Three-line Summary
 
-## 한줄요약
-BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
+Narrative review of burning mouth syndrome (BMS) as a chronic pain disorder covering epidemiology (prevalence 0.7–4.6%, predominantly post-menopausal women), multifactorial pathophysiology, diagnosis, and treatment options.
+
+BMS pathogenesis involves both peripheral neuropathy and psychological distress; alpha-lipoic acid and clonazepam both have RCT evidence for symptom reduction.
+
+BMS remains a diagnosis of exclusion requiring thorough investigation; hormonal changes, neuropathy, and psychological stress each contribute to the clinical picture in varying proportions.
+
+## 세줄요약
+
+만성통증질환으로서의 구강작열감증후군(BMS) 내러티브 리뷰 — 역학(유병률 0.7–4.6%, 주로 폐경 후 여성)·다인성 병태생리·진단·치료 전반.
+
+병태생리는 말초신경병증과 심리적 고통이 복합 관여; 알파리포산과 클로나제팜은 각각 증상 감소에 대한 RCT 근거 보유.
+
+BMS는 철저한 검사를 통한 배제 진단; 호르몬 변화·신경병증·심리적 스트레스가 각각 다른 비율로 임상 양상에 기여.
 
 ## Summary
 Foundational review of BMS covering epidemiology (0.7–4.6%, post-menopausal women), pathophysiology, diagnosis, and treatment options.

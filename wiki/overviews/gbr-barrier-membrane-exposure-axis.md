@@ -30,11 +30,21 @@ relations:
 > - 축4(티타늄메쉬): 맞춤형 CAD/CAM 메쉬(CTM)는 수직 증대는 메쉬-무관(NS)이나 수평 증대 우위(6.38 vs 3.85mm)·노출 경향 낮음(Ragucci 2025); 노출은 수직 골 yield를 깎음(Tay 2022, ratio-of-means 0.62~0.65).
 > - 임상 결론: 막 화학이 노출 내성 baseline을 정하지만(비가교 > 화학가교), 통제 가능한 외과 변수(절개 위치·판막 생존 길이·무장력 1차 봉합)가 노출 결과를 지배.
 
-## One-line Summary
-Synthesis of 12 GBR barrier-membrane papers organized around membrane exposure as the dominant failure mode, across four axes — membrane material/cross-linking, membrane configuration, flap/incision design, and titanium-mesh customization — converging on the rule that exposure is governed more by soft-tissue/flap management than by membrane brand, and that non-cross-linked resorbable membranes tolerate exposure better than chemically cross-linked ones.
+## Three-line Summary
 
-## 한줄요약
-GBR 차폐막 12편을 "막노출(membrane exposure)"이라는 공통 실패 모드 중심으로 4축(재료·가교, 막 구성, 판막·절개 설계, 티타늄메쉬 맞춤화)으로 통합. 핵심 결론은 노출은 막 종류보다 연조직·판막 관리가 좌우하며, 비가교 흡수성 막이 화학가교막보다 노출을 더 잘 견딘다는 것.
+Synthesis of 12 GBR barrier-membrane papers organized around membrane exposure as the dominant failure mode across four axes — membrane material/cross-linking, membrane configuration, flap/incision design, and titanium-mesh customization.
+
+Chemical cross-linking raises exposure ~30% over non-cross-linked membranes without a bone-gain payoff (Wessing 2018 SR+MA); flap design and residual keratinized tissue predict exposure better than membrane brand (Park 2007 prospective; Lee 2018 SR+MA), and flap elevation costs 3.21 mm of keratinized gingiva.
+
+Customized CAD/CAM titanium mesh is superior for horizontal gain (6.38 vs 3.85 mm) but not vertical gain; mesh/membrane exposure directly reduces vertical bone yield (ratio-of-means 0.62–0.65, Tay 2022 SR+MA).
+
+## 세줄요약
+
+GBR 차폐막 12편을 "막노출(membrane exposure)"이라는 공통 실패 모드 중심으로 4축(재료·가교, 막 구성, 판막·절개, 티타늄메쉬 맞춤화)으로 통합 — 노출은 막 브랜드보다 연조직·판막 관리가 좌우한다.
+
+화학가교막은 비가교막 대비 노출 ~30% 더 많고 골이득은 없으며(Wessing 2018 SR+MA), 판막 절개 위치·각화치은 폭이 노출을 예측하고(Park 2007 전향), 판막 거상 자체가 각화치은 3.21 mm 손실을 초래한다(Lee 2018 SR+MA).
+
+맞춤형 CAD/CAM 메쉬는 수평 증대 우위(6.38 vs 3.85 mm)지만 수직은 차이 없고, 메쉬 노출은 수직 골 수율을 직접 삭감한다(ratio-of-means 0.62–0.65; Tay 2022 SR+MA).
 
 ## Summary
 

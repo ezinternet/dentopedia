@@ -20,13 +20,22 @@ relations:
     target: kim-2019-definition-management-odontogenic-maxillary
 ---
 
-## One-line Summary
+## Three-line Summary
 
-ENT-perspective narrative review of odontogenic sinusitis (ODS) presenting dual-confirmation diagnosis criteria, evidence that antibiotics fail for treatable dental pathology, 90%–100% combined resolution when both dental and sinus disease are treated, and primary ESS as a valid option for high symptom-burden patients.
+ENT-perspective narrative review (55 references, 7 clinical scenarios) of odontogenic sinusitis (ODS) — bacterial maxillary sinusitis arising from dental pathology or iatrogenic injury that accounts for 25–40% of all chronic maxillary sinusitis and 45–75% of unilateral CT opacification.
 
-## 한줄요약
+ODS requires dual otolaryngologic + dental specialist confirmation (radiologists miss 60–70% of dental pathology), oral antibiotics fail for treatable dental sources, and combined dental + ESS management achieves 90–100% resolution with ESS resolving symptoms 7–12 days faster than primary dental treatment alone.
 
-이비인후과 시각의 치과기원 부비동염 (Odontogenic Sinusitis, ODS) 총정리 서술 리뷰 — 치과의·이비인후과 이중확인 진단 체계, 항생제 치료 한계, 치과+ESS 병행 시 90–100% 해소율, 증상 부담이 큰 경우 1차 ESS 전략 제시.
+The clinician's key takeaway is that unilateral maxillary sinus opacification on CT mandates dental specialist referral — even when CT shows no overt dental pathology (30% of AP-ODS cases), and patients rarely volunteer dental history.
+
+## 세줄요약
+
+이비인후과 시각의 치과기원 부비동염(Odontogenic Sinusitis, ODS) 총정리 서술 리뷰 (55편 참고, 7개 임상 시나리오) — 치성 또는 의인성 원인으로 발생하며 만성 상악동염의 25–40%, 일측 CT 불투명화의 45–75% 차지.
+
+ODS는 이비인후과+치과 이중 확인 진단 필요(방사선과 치성 병변 60–70% 오진), 항생제는 치료가능한 치성 병원에 효과 없음, 치과+ESS 병행 시 90–100% 해소, ESS가 1차 치과치료보다 7–12일 빠른 증상 해소.
+
+단측 상악동 CT 불투명화 = 치과 전문의 의뢰 필수; CT에서 명확한 치성 병변이 없어도 AP-ODS의 30%에서 치성 원인이 확인됨.
+
 
 ## Summary
 

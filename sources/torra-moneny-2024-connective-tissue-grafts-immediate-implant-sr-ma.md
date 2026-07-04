@@ -13,13 +13,23 @@ source_collection: external
 
 심미부 즉시식립(IIP)에 결합조직이식(CTG)을 동시/지연 병용하는 것이 협측 치은 수준·심미에 이득을 주는지에 대한 RCT 한정 SR+MA. 같은 주제의 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]·[[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]]와 결과를 비교·보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 RCTs (245 subjects; 4 pooled) finding that connective tissue grafting at immediate implant placement produces a non-significant but favorable trend in buccal gingival level (MD 0.09 mm, 95% CI −0.54 to 0.72, p = 0.05), concluding CTG helps maintain — but not increase — the gingival level for esthetic success.
 
-## 한줄요약
+SR+MA of 5 RCTs (245 subjects;
 
-5개 RCT(245명; 4편 합성) SR+MA — 즉시식립 시 결합조직이식(CTG)은 협측 치은 수준에 유의하지 않으나 유리한 경향(MD 0.09 mm, p = 0.05)을 보였고, CTG가 치은 수준을 '유지'(증가는 아님)시켜 심미 성공에 도움된다는 결론.
+4 pooled) finding that connective tissue grafting at immediate implant placement produces a non-significant but favorable trend in buccal gingival level (MD 0.09 mm, 95% CI −0.54 to 0.72, p = 0.05), concluding CTG helps maintain — but not increase — the gingival level for esthetic success.
+
+(incomplete)
+
+## 세줄요약
+
+
+5개 RCT(245명;
+
+4편 합성) SR+MA — 즉시식립 시 결합조직이식(CTG)은 협측 치은 수준에 유의하지 않으나 유리한 경향(MD 0.09 mm, p = 0.05)을 보였고, CTG가 치은 수준을 '유지'(증가는 아님)시켜 심미 성공에 도움된다는 결론.
+
+(incomplete)
 
 ## 1. Document Information
 

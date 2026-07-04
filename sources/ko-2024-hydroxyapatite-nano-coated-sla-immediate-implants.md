@@ -10,7 +10,7 @@ pdf_filename: ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 단일맹검 RCT (n=40, SNU 서울대): 상악 구치부 즉시식립 시 HA 나노코팅 SLA 임플란트 vs 무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
 
 ## 1. Document Information

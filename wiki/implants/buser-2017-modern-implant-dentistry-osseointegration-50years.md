@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Periodontology 2000, 2017) tracing 50 years of osseointegration-based implant dentistry — Brånemark/Schroeder foundations, moderately rough surfaces, GBR/sinus augmentation, digital workflows, and open controversies including peri-implantitis and zirconia implants.
+Commissioned narrative review (Periodontology 2000, 2017; >100 references, 1960s–2016) tracing the 50-year evolution of osseointegration-based implant dentistry from Brånemark and Schroeder's dual founding schools through digital workflows.
 
-## 한줄요약
+Moderately rough surfaces (Sa 1–2 µm, e.g., SLA) were identified as the most consequential material advance, enabling early loading at 3–6 weeks; GBR and sinus augmentation decoupled implant therapy from initial bone volume constraints.
 
-Periodontology 2000 (2017) 서술 리뷰 — 브로네마르크·슈뢰더의 골유착 (Osseointegration, OI) 개념 정립부터 중등도 거친 표면·유도골재생 (Guided Bone Regeneration, GBR)·디지털 워크플로우까지 50년을 총정리하고 주위염 (Peri-implantitis) 논쟁·지르코니아 임플란트 미래 과제를 제시.
+Peri-implantitis (prevalence ~10–20% at ≥5 years) and zirconia implants were framed as open controversies lacking long-term RCT data at time of publication, and remain active research priorities today.
+
+## 세줄요약
+
+위촉 서술 리뷰 (Periodontology 2000, 2017; 참고문헌 100편 이상): 브로네마르크 (Brånemark)·슈뢰더 (Schroeder) 이중 창시 학파부터 디지털 임플란트 치의학까지 50년 총정리.
+
+중등도 거친 표면 (Sa 1–2 µm, SLA 등)이 가장 중요한 소재 발전으로 평가되었고, 유도골재생 (Guided Bone Regeneration, GBR)과 상악동거상술은 골량 부족 부위에 임플란트 적용을 확대.
+
+임플란트주위염 (Peri-implantitis) 유병률 ~10–20% (5년 이상) 및 지르코니아 임플란트는 출판 당시 장기 RCT 데이터 부재로 미결 과제로 분류.
 
 ## Summary
 

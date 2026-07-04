@@ -14,13 +14,23 @@ pdf_filename: escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
 
 "0.05% CHX가 효과 있는가?" 질문에 대한 직접 근거 RCT. [[james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]]이 "농도 간 차이 없음"을 결론 내리는 바탕이 된 데이터군 — 저농도 CHX의 임상적 유효성을 뒷받침하며 유지 관리(SPC) 환자 적용 근거.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=47, 3 months) — 0.05% CHX + 0.05% CPC mouth rinse in SPC non-compliant patients reduces plaque and salivary bacterial load significantly vs placebo; modest microbiological benefit.
 
-## 한줄요약
+RCT (n=47, 3 months) — 0.05% CHX + 0.05% CPC mouth rinse in SPC non-compliant patients reduces plaque and salivary bacterial load significantly vs placebo;
 
-RCT (47명, 3개월) — SPC 불순응 치주염 환자에서 0.05% CHX + 0.05% CPC 가글은 위약 대비 플라크·타액 세균 유의하게 감소; 미생물학적 개선 효과.
+modest microbiological benefit.
+
+(incomplete)
+
+## 세줄요약
+
+
+RCT (47명, 3개월) — SPC 불순응 치주염 환자에서 0.05% CHX + 0.05% CPC 가글은 위약 대비 플라크·타액 세균 유의하게 감소;
+
+미생물학적 개선 효과.
+
+(incomplete)
 
 ## 1. Document Information
 

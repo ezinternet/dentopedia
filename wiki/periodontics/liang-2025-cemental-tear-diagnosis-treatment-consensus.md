@@ -21,13 +21,21 @@ relations:
     target: corbella-2025-surgical-techniques-vertical-root-fractures-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multi-institution Chinese expert consensus (Int J Oral Sci 2025) that codifies the epidemiology, pathogenesis, predisposing factors, diagnosis, differential diagnosis, and a location-based treatment decision tree for cemental tear — an under-recognized root-surface detachment of cementum whose central management principle is complete removal of torn fragments.
+Multi-institution Chinese expert consensus (Int J Oral Sci 2025) synthesizing epidemiology, histologic pathogenesis, predisposing factors, diagnostic criteria, and a location-based treatment decision tree for cemental tear — a cementum detachment at the cemento-dentinal junction distinct from vertical root fracture, primary endodontic disease, and periodontitis.
 
-## 한줄요약
+Prevalence is 0.89–1.9% by radiography; fragment location drives outcomes (coronal 60%, middle 66.7%, apical 11.1% healing); complete removal of torn fragments is the central therapeutic principle, with 94% functional tooth retention at 1 year after complete removal.
 
-시멘트질 열개(Cemental Tear)의 역학·병인·감별진단(수직치근파절 VRF·근관·치주질환)·위치기반 치료 결정 트리를 정리한 중국 다기관 전문가 합의문(Int J Oral Sci 2025) — 핵심은 "찢긴 시멘트질 조각의 완전 제거", CBCT가 1차 진단, 조직병리가 확진 기준이다.
+CBCT is the preferred imaging modality; histopathology is the gold standard; the consensus positions most cemental-tear teeth as retainable with regenerative surgery rather than extraction by default.
+
+## 세줄요약
+
+중국 다기관 전문가 합의문 (Int J Oral Sci 2025): 시멘트질 열개(Cemental Tear)의 역학(유병률 0.89–1.9%)·조직학적 병인·위치기반 치료 결정 트리를 체계화한 최초의 임상 지침.
+
+조각 위치에 따라 치유율이 달라지고(치관부 60%·중간부 66.7%·치근첨부 11.1%), 찢긴 조각의 완전 제거가 핵심 원칙이며 완전 제거 시 1년 기능 보존율 94%.
+
+소시야 CBCT가 1차 진단도구이고 조직병리가 확진 기준; 대부분의 시멘트질 열개 치아는 발치 대신 재생 수술로 보존 가능하다는 점을 강조.
 
 ## Summary
 

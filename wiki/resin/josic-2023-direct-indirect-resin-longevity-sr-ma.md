@@ -13,11 +13,21 @@ source_collection: external
 tags: [composite, longevity, direct, indirect, posterior]
 ---
 
-## One-line Summary
-Updated systematic review and meta-analysis (23 studies qualitative, 8 meta-analyzed) of direct vs indirect posterior resin composite longevity found no statistically significant difference at short- (RR=1.54), medium- (RR=1.87), or long-term (RR=0.95) follow-up; certainty of evidence rated very low (GRADE).
+## Three-line Summary
 
-## 한줄요약
-구치부 직접 vs 간접 복합레진 23편 SR+MA — 단기·중기·장기 모두 유의한 수명 차이 없음 (근거 수준 매우 낮음).
+Updated SR+MA (23 studies qualitative, 8 meta-analyzed; PROSPERO CRD42021282801) comparing longevity of direct versus indirect posterior resin composite restorations in permanent teeth.
+
+No statistically significant difference at any time horizon: short-term RR=1.54 (p=0.27), medium-term RR=1.87 (p=0.27), long-term RR=0.95 (p=0.86); worn-dentition subgroup also non-significant (RR=0.46, p=0.13).
+
+Evidence certainty was rated very low by GRADE, and most included studies carried high risk of bias — robust long-term RCTs are urgently needed before preferring either technique on longevity grounds.
+
+## 세줄요약
+
+구치부 직접 vs 간접 복합레진 수명 비교 SR+MA (정성 합성 23편, 메타분석 8편; PROSPERO CRD42021282801), 영구치 대상.
+
+단기(RR=1.54, p=0.27)·중기(RR=1.87, p=0.27)·장기(RR=0.95, p=0.86) 모든 관찰 기간에서 통계적으로 유의한 수명 차이 없음; 마모 치열 하위분석도 비유의(RR=0.46, p=0.13).
+
+GRADE 근거 수준 매우 낮음, 고위험 비뚤림 연구 다수 — 현 증거로는 한 기법을 수명 우위로 권고 불가.
 
 ## Summary
 This 2023 updated SR+MA (Dental Materials) addressed whether direct and indirect resin composite restorations differ in clinical longevity in permanent posterior teeth. Twenty-three studies were included in qualitative synthesis; 8 in meta-analysis. No statistically significant differences were found at any follow-up horizon: short-term (RR=1.54, p=0.27), medium-term (RR=1.87, p=0.27), or long-term (RR=0.95, p=0.86). A subgroup analysis for worn dentition also showed no significant difference. The certainty of evidence was rated as "very low" by GRADE, underscoring the need for high-quality long-term RCTs.

@@ -20,13 +20,21 @@ relations:
     target: poudel-2026-xerostomia-dental-treatment-outcomes-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (bibliographic synthesis of ~90+ studies, >65,000 COVID-19 patients/survivors combined) finding gustatory dysfunction (ageusia/dysgeusia) persists in 1–45% and saliva secretory dysfunction (xerostomia/hyposalivation) in 2–40% of COVID-19 survivors at 3-week–12-month follow-up, correlated with each other and mechanistically linked via ACE2/TRPV1 receptor expression in taste buds/salivary glands and infection-induced zinc deficiency.
+Narrative review synthesizing ~90+ studies (>65,000 COVID-19 patients/survivors combined) on persistent oral sequelae after COVID-19 recovery.
 
-## 한줄요약
+Gustatory dysfunction (ageusia/dysgeusia) persists in 1–45% of survivors at 3 weeks–12 months; saliva secretory dysfunction (xerostomia/hyposalivation) persists in 2–40%; both correlate with each other across cohorts (geographic gradient for gustatory: East Asia 3.8% vs Middle East 20.6%).
 
-내러티브 리뷰(약 90편 이상 연구, 코로나19 환자·완치자 총 6만5천여 명 종합) — 미각장애(ageusia/dysgeusia)는 완치 후 3주~12개월 추적에서 1~45%, 침분비저하(xerostomia/hyposalivation)는 2~40%에서 지속되고 서로 상관관계가 있으며, 타액선·미뢰의 ACE2/TRPV1 수용체 발현과 감염 유발 아연결핍이라는 공통 기전으로 설명됨.
+ACE2/TRPV1 co-expression in taste buds and salivary glands plus SARS-CoV-2-induced zinc deficiency (serum Zn 64.8 vs 88.3 µg/dL in healthy controls) provide a shared mechanism; dentists should assess these two complaints together in post-COVID patients.
+
+## 세줄요약
+
+내러티브 리뷰(약 90편 이상 연구, 코로나19 환자·완치자 총 6만5천여 명 종합) — 미각장애(ageusia/dysgeusia)와 침분비저하(xerostomia/hyposalivation) 등 구강 후유증의 지속 기간·유병률 종합.
+
+미각장애는 완치 후 3주~12개월 추적에서 1~45%, 침분비저하는 2~40%에서 지속되고 서로 상관관계가 있으며; 지리적 구배(동아시아 3.8% vs 중동 20.6%)가 미각장애에서 뚜렷함.
+
+타액선·미뢰의 ACE2/TRPV1 수용체 발현과 감염 유발 아연결핍이라는 공통 기전으로 설명되므로, 치과의는 두 증상을 함께 평가해야 한다.
 
 ## Summary
 

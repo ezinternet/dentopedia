@@ -13,11 +13,21 @@ source_collection: external
 tags: [flapless, flap, vascularity, peri-implant mucosa, animal study, soft tissue]
 ---
 
-## One-line Summary
-Canine animal study (n=6 dogs, 12 implant pairs, paired Wilcoxon): flapless implant surgery yielded significantly greater peri-implant mucosal vascularity than flap surgery at 3 months (vessel number 51.4 vs 38.2, vessel area fraction 1.7% vs 1.2%, both p<0.05); vessels >40 µm and zero clinical inflammation were seen only in the flapless group (vs 5/12 flap implants inflamed).
+## Three-line Summary
 
-## 한줄요약
-성견(n=6) 동물실험에서 무피판 (Flapless) 임플란트 수술 후 임플란트 주위 점막의 혈관분포 (Vascularity)가 피판 (Flap) 수술보다 유의하게 높음 (혈관 수 51.4 vs 38.2개, p<0.05).
+Canine animal study (6 dogs, 12 bilateral mandibular implant pairs; flapless tissue punch vs flap surgery) measuring peri-implant mucosal vascularity by histomorphometry at 3 months.
+
+Flapless surgery yielded significantly greater vessel number (51.4 vs 38.2, p<0.05) and vessel area fraction (1.7% vs 1.2%, p<0.05); vessels >40 µm diameter were seen only in the flapless group; clinical inflammation at 3 months was present in 5/12 flap implants but 0/12 flapless implants.
+
+Flapless surgery preserves periosteal blood supply and produces greater peri-implant mucosal vascularity, potentially enhancing tissue defense against bacterial invasion — but findings are limited to a small canine model and require clinical corroboration.
+
+## 세줄요약
+
+성견 동물실험 (n=6마리, 하악 임플란트 12쌍, paired Wilcoxon): 무피판 (Flapless) 대 피판 (Flap) 임플란트 수술 후 3개월 시점 임플란트 주위 점막을 조직형태계측으로 비교하였다.
+
+무피판군이 피판군보다 혈관 수 (51.4 vs 38.2개, p<0.05) 및 혈관 면적분율 (1.7% vs 1.2%, p<0.05) 모두 유의하게 높았고, 직경 >40 µm 혈관은 무피판군에서만 관찰되었다.
+
+무피판술식은 골막 혈류 보존으로 임플란트 주위 점막의 혈관밀도를 높여 세균 침입에 대한 조직 방어를 강화할 수 있으나, 본 연구는 소규모 동물실험으로 임상 일반화에 한계가 있다.
 
 ## Summary
 This canine animal study compared peri-implant mucosal vascularity following flap versus flapless implant surgery in 6 dogs with bilateral mandibular implants. Histomorphometric analysis at 3 months revealed significantly greater vessel number and vessel area fraction in flapless implants (51.4 vessels, 1.7% area fraction) compared to flap implants (38.2 vessels, 1.2% area fraction). The authors concluded that flapless surgery preserves periosteal blood supply and produces smaller, cleaner wounds, resulting in less scar tissue and greater vascularity — potentially enhancing peri-implant tissue defense against bacterial invasion.

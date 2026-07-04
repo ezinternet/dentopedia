@@ -18,13 +18,21 @@ relations:
     target: turkyilmaz-2008-bone-density-implant-stability-success
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=60, polyurethane bone, Seoul National University) comparing Osstell Beacon+ (ISQ) vs Anycheck (IST): both devices showed equivalent trends across bone densities (15 vs 30 PCF) and implant lengths (7.3/10/13 mm), with Anycheck demonstrating superior operator-independence due to its contact-based measurement method.
+In vitro study (n=60 implants in polyurethane bone blocks, 15 vs 30 PCF density, 3 lengths, Seoul National University) comparing Osstell Beacon+ (ISQ) vs Anycheck (IST) across bone densities and implant lengths.
 
-## 한줄요약
+Both devices showed equivalent directional trends (ISQ R up to 1.000, IST R 0.999 with bone density); in low-density bone longer implants improved both ISQ and IST, whereas in medium-density bone stability plateaued beyond 10 mm.
 
-서울대치과 체외 연구(n=60, 인공골블록)에서 Osstell Beacon+(ISQ)과 Anycheck(IST)는 골밀도·임플란트 길이에 따른 동등한 경향을 보였으며, Anycheck의 직접접촉법이 측정자 숙련도 무관하게 더 일관된 결과를 제공했다.
+Anycheck's contact-based method was more operator-independent than Osstell's SmartPeg method; in D3–D4 bone longer implants (>10 mm) meaningfully compensate for poor primary stability.
+
+## 세줄요약
+
+서울대치과 체외 연구 (n=60, 인공골블록, 밀도 15/30 PCF, 길이 7.3/10/13 mm): Osstell Beacon+ (ISQ) vs Anycheck (IST)를 골밀도·임플란트 길이에 따라 비교하였다.
+
+두 기기 모두 골밀도와 안정성 간 높은 상관성을 보였고 (R≈1.000/0.999); 저밀도 골에서는 길이 증가가 안정성을 개선했으나, 중밀도 골에서는 10 mm 이상에서 추가 이득이 없었다.
+
+Anycheck의 직접접촉법이 Osstell보다 측정자 숙련도에 덜 민감하며, D3–D4 저밀도 골 (후방 상악)에서 장임플란트 (>10 mm)가 안정성 부족을 보완한다.
 
 ## Summary
 

@@ -19,13 +19,21 @@ relations:
     target: zamparini-2023-premixed-calcium-silicate-carrier-based-2year
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (52 patients, 58 RCTs; Ceraseal + single-cone) reporting 92.7% survival and 92.1% per-protocol healing (PAI ≤2) at 36 months — the longest clinical follow-up for Ceraseal — with 100% healing in pulpitis and pulp-necrosis teeth.
+Single-arm prospective cohort (52 ASA 1–2 patients, 58 root canal treatments; Ceraseal premixed bioceramic sealer + single-cone technique; PAI evaluated by two blinded raters at 6/12/24/36 months) — the longest clinical follow-up for Ceraseal single-cone obturation to date.
 
-## 한줄요약
+Survival was 92.7% and per-protocol healing (PAI ≤2) reached 92.1% (OR 16.04) at 36 months; 100% of pulpitis and pulp-necrosis teeth healed per protocol; 24% of cases showed sealer extrusion, of which 3/14 resorbed completely over time consistent with calcium-silicate bioactivity.
 
-전향 코호트(환자 52명·근관치료 58건, Ceraseal + 단일콘): 36개월 생존율 92.7%, per-protocol 치유율(PAI ≤2) 92.1%로 Ceraseal 최장 추적 보고; 치수염·치수괴사 치아는 100% 치유.
+Key limitations are the absence of a control group, a 34.5% loss to follow-up, and a follow-up period below the ESE-recommended 4 years; the data nonetheless support Ceraseal + single-cone as safe and effective, with a potential advantage in pulpal necrosis where wet apices impede epoxy-resin set.
+
+## 세줄요약
+
+ASA 1–2 환자 52명의 근관치료 58건(Ceraseal 프리믹스 바이오세라믹 + 단일콘)에서 6/12/24/36개월마다 PAI를 이중 맹검 평가한 단일군 전향적 코호트 연구로, Ceraseal 단일콘 충전의 현재까지 최장 추적 보고다.
+
+36개월 생존율 92.7%, per-protocol 치유율(PAI ≤2) 92.1%(OR 16.04); 치수염·치수괴사 치아는 per-protocol 100% 치유; 실러 압출 24%(14/58건), 이 중 3건은 추적 중 완전 방사선적 흡수로 칼슘실리케이트 생체활성과 일치했다.
+
+대조군 없음, 34.5% 탈락, ESE 권고 4년 미만 추적의 한계가 있으나, 치수괴사 등 습윤 치근단에서 에폭시레진 경화가 어려운 상황에서의 Ceraseal 단일콘 충전의 안전성과 유효성을 뒷받침한다.
 
 ## Summary
 

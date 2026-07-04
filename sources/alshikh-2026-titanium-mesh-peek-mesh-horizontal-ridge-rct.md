@@ -17,13 +17,21 @@ text_filename: alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct.txt
 
 기존 [[implants/vertical-ridge-augmentation/chiapasco-2021-customized-cadcam-titanium-meshes-gbr]]가 맞춤형 CAD/CAM 티타늄 메시의 GBR 효능을 다뤘는데, 본 RCT는 그 맞춤형 메시 개념을 새 재료(맞춤형 PEEK 메시)로 확장하고 prebent Ti mesh와 직접 비교한다. 또한 [[implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]]의 mesh head-to-head RCT 흐름에 PEEK라는 새로운 비교 arm을 더해, 메시 재료 선택지의 volumetric 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (14 patients / 28 maxillary sites) comparing prebent titanium mesh + 60:40 autograft:xenograft vs customized PEEK mesh + 70:30 graft for predominantly horizontal ridge augmentation: no significant difference in linear horizontal (3.02 vs 2.42 mm, p=0.065) or vertical gain (1.12 vs 1.09 mm), but PEEK gained significantly more absolute bone volume (499 vs 371 mm³, p=0.004) while also losing more graft volume (175 vs 128 mm³, p=0.040); proportional resorption was near-identical (~34–35%); exposure was numerically lower with PEEK (7.1% vs 14.3%, NS); 100% implant placement in both.
+RCT (14 patients / 28 maxillary sites; Suez Canal University; patient-level randomization, site-level measurement; 6-month CBCT follow-up) comparing prebent titanium mesh + 60:40 autograft:xenograft vs customized PEEK mesh + 70:30 graft for predominantly horizontal maxillary ridge augmentation with volumetric CBCT assessment.
 
-## 한줄요약
+Linear horizontal (3.02 vs 2.42 mm, p=0.065) and vertical (1.12 vs 1.09 mm, p=0.738) bone gains were not significantly different; however, PEEK showed significantly greater absolute gained bone volume (499 vs 371 mm³, p=0.004) and graft loss volume (175 vs 128 mm³, p=0.040); proportional resorption was near-identical (~34–35%) and mesh exposure was numerically lower with PEEK (7.1% vs 14.3%, NS); 100% implant placement in both groups.
 
-RCT (환자 14명 / 상악 28부위): prebent 티타늄 메시(자가골:이종골 60:40) vs 맞춤형 PEEK 메시(70:30)를 주로 수평 골증대에 비교 — 수평(3.02 vs 2.42 mm, p=0.065)·수직(1.12 vs 1.09 mm) 선형 증대는 차이 없으나, PEEK가 절대 골량 증가(499 vs 371 mm³, p=0.004)와 이식재 흡수량(175 vs 128 mm³, p=0.040) 모두 유의하게 컸고, 비율 흡수는 거의 동일(~34–35%); 메시 노출은 PEEK 7.1% vs Ti 14.3%(유의차 없음), 양 군 모두 임플란트 식립 100%.
+The two protocols differ in graft composition (60:40 vs 70:30), so volumetric differences cannot be attributed solely to mesh material; small sample size (n=14) and 6-month short follow-up without long-term implant data limit conclusions.
+
+## 세줄요약
+
+RCT (환자 14명/상악 28부위; 수에즈 운하대학; 환자 수준 무작위, 부위 수준 측정; 6개월 CBCT) — prebent 티타늄 메시(자가골:이종골 60:40) vs 맞춤형 PEEK 메시(70:30), 주로 수평 상악 골증대 volumetric CBCT 평가.
+
+선형 수평(3.02 vs 2.42 mm, p=0.065)·수직(1.12 vs 1.09 mm, p=0.738) 골증대 유의차 없음; 그러나 PEEK에서 절대 골량 증가(499 vs 371 mm³, p=0.004)와 이식재 흡수량(175 vs 128 mm³, p=0.040) 유의하게 큼; 비율 흡수 거의 동일(~34–35%); 메시 노출 PEEK 7.1% vs Ti 14.3%(NS); 양 군 모두 임플란트 식립 100%.
+
+두 프로토콜은 이식재 조성 상이(60:40 vs 70:30)하여 메시 재료 단독 효과 귀속 불가; 소표본(n=14)·6개월 단기 추적·장기 임플란트 데이터 없음으로 결론 제한.
 
 ## 1. Document Information
 

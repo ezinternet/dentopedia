@@ -9,7 +9,7 @@ pdf_filename: hasegawa-2020-meso-micro-nano-rough-titanium-surface.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vivo/in-vitro study: acid-etching cpTi at 140°C creates hierarchical meso+micro+nano surface (Ra 6-12× higher); osteoblast differentiation ↑ without compromising attachment; bone-implant integration significantly enhanced vs micro-only.
 
 ## 1. Document Information

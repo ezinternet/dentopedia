@@ -15,11 +15,21 @@ tags: [최소침습-임플란트, MagiCore, NobelParallel, 생물학적-특성, 
 ---
 
 
-## One-line Summary
-In vitro cell-culture study comparing a minimally invasive implant (MagiCore®, Ra 2.02 µm) versus a standard implant (NobelParallel™, Ra 1.28 µm): despite the surface-roughness difference, the two showed equivalent cell viability, proliferation, and ALP activity (gingival fibroblasts and osteoblast-like cells), with denser cell adhesion on MagiCore — supporting biocompatibility of minimally invasive implants for space-restricted anatomy, though clinical/long-term outcomes were not assessed.
+## Three-line Summary
 
-## 한줄요약
-최소침습 vs 표준 임플란트 생체적합성 동등; 공간 제한 해부학 부위에서 최소침습 임플란트 고려 가능
+In vitro cell-culture study (Materials 2022) comparing minimally invasive implant MagiCore® (Ra 2.02 µm) vs standard implant NobelParallel™ (Ra 1.28 µm) using human gingival fibroblasts and osteoblast-like cells.
+
+Despite surface-roughness differences, cell viability, proliferation, and ALP activity were equivalent; cell adhesion was denser on MagiCore; calcium deposition slightly higher on NobelParallel (p<0.05).
+
+In vitro biocompatibility equivalence removes biological barriers to minimally invasive implant adoption in space-restricted anatomy, but clinical/long-term osseointegration outcomes were not assessed.
+
+## 세줄요약
+
+인비트로 세포배양 연구(Materials 2022): 최소침습 임플란트 MagiCore® (Ra 2.02 µm) vs 표준 임플란트 NobelParallel™ (Ra 1.28 µm) — 치은섬유아세포·골아세포 유사세포 비교.
+
+세포 생존율·증식·ALP 활성 동등; MagiCore에서 세포 부착 더 밀도 높음; 칼슘 침착은 NobelParallel에서 소폭 높음(p<0.05).
+
+인비트로 생체적합성 동등 — 공간 제한 해부학 부위에서 최소침습 임플란트 사용의 생물학적 장벽 없음; 임상·장기 결과는 미평가.
 
 # Biological Behavior of Minimally Invasive vs. Standard Implants (In Vitro Study)
 

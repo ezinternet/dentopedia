@@ -17,13 +17,23 @@ text_filename: ramirez-martinez-acitores-2020-antihypertensive-xerostomia-saliva
 
 "고혈압약 등 약물에 의한 미각상실·침분비저하" 요청에 대응. 기존 [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]]가 항고혈압제(ACE inhibitor·β-blocker 등)를 다약제복용의 여러 약물군 중 하나로 개괄했다면, 본 체계적 문헌고찰은 항고혈압제 단독의 xerostomia/hyposalivation 영향만을 13편(RCT 5·환자대조군 8)으로 정밀 검증 — 그리고 놀랍게도 "항고혈압제가 미각/침분비를 더 저하시킨다는 확증적 근거는 부족하다"는 반직관적 결론을 제공해 다약제복용 논문의 단정적 서술에 균형추 역할을 한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (PRISMA, 13 studies: 5 clinical trials + 8 case-control) finding the evidence for antihypertensive drugs causing more xerostomia/hyposalivation than controls is inconclusive and of low methodological quality overall — clinical trials show mixed/non-significant salivary flow changes, while case-control studies more consistently (though not uniformly) show lower salivary flow in antihypertensive-treated patients, with no single drug class identifiable as most xerogenic due to study heterogeneity.
 
-## 한줄요약
+(incomplete)
 
-체계적 문헌고찰(PRISMA, 13편: RCT 5편+환자대조군 8편) — 항고혈압제 복용군이 대조군보다 미각/침분비저하(xerostomia/hyposalivation)가 더 심하다는 확증적 근거는 부족하며 전반적 방법론적 질도 낮음; 임상시험은 침분비량 변화가 혼재되고 유의성 없음이 많았으나, 환자대조군 연구는(완전히 일관되지는 않지만) 대체로 항고혈압제군의 침분비량이 낮았음; 연구 이질성으로 어떤 약물군이 가장 침분비저하를 유발하는지 특정 불가.
+(incomplete)
+
+## 세줄요약
+
+
+체계적 문헌고찰(PRISMA, 13편: RCT 5편+환자대조군 8편) — 항고혈압제 복용군이 대조군보다 미각/침분비저하(xerostomia/hyposalivation)가 더 심하다는 확증적 근거는 부족하며 전반적 방법론적 질도 낮음;
+
+임상시험은 침분비량 변화가 혼재되고 유의성 없음이 많았으나, 환자대조군 연구는(완전히 일관되지는 않지만) 대체로 항고혈압제군의 침분비량이 낮았음;
+
+연구 이질성으로 어떤 약물군이 가장 침분비저하를 유발하는지 특정 불가.
 
 ## 1. Document Information
 

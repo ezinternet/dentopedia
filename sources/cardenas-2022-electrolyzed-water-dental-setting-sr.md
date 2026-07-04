@@ -17,13 +17,21 @@ text_filename: cardenas-2022-electrolyzed-water-dental-setting-sr.txt
 
 전해수 (Electrolyzed Water, EW)는 COVID-19 팬데믹 이후 치과 소독 분야에서 주목받은 신흥 소독제다. 기존 소독법([[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]])을 보완하는 novel approach로, 63개 연구를 망라한 SR이라 근거 수준이 높아 인제스트한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 63 studies (PROSPERO CRD42020206986) concluding that electrolyzed water is an effective broad-spectrum disinfectant for dental surfaces, materials, and equipment — including activity against SARS-CoV-2 — but with high overall risk of bias (only 35.18% NPQIP "Yes" entries).
+Systematic review (PROSPERO CRD42020206986; 63 studies: 58 in vitro + 5 RCTs) evaluating electrolyzed water (EW) for microbiological control of dental surfaces, equipment, waterlines (DUWL), and materials during the COVID-19 pandemic, assessed using AMSTAR-2 and NPQIP risk of bias.
 
-## 한줄요약
+EW demonstrated broad-spectrum antibacterial, antifungal, and antiviral (including SARS-CoV-2 plausibility) activity; DUWL decontamination achieved up to 98.1% microbial killing sustained for 6 weeks; PVS/alginate impressions and acrylic prostheses tolerated EW without dimensional distortion; however, only 35.18% of NPQIP items were answered "Yes" indicating widespread high risk of bias.
 
-63개 연구 체계적 고찰: 전해수(EW)는 치과 표면·재료·DUWL에서 광범위 항균·항바이러스(SARS-CoV-2 포함) 효과를 보이나, 전반적 비뚤림 위험이 높음(NPQIP "Yes" 비율 35.18%).
+EW is a promising broad-spectrum dental disinfectant, but the evidence base is predominantly in vitro with high methodological heterogeneity; standardized protocols and clinical RCTs are needed before widespread adoption.
+
+## 세줄요약
+
+체계적 문헌고찰(PROSPERO CRD42020206986; 63편: in vitro 58편+RCT 5편): 치과 표면·기구·DUWL·재료의 감염관리에서 전해수(EW, Electrolyzed Water) 효과를 AMSTAR-2·NPQIP 비뚤림 위험 평가와 함께 종합.
+
+EW는 항균·항진균·항바이러스(SARS-CoV-2 포함 개연성) 광범위 활성을 보이며; DUWL 오염 제어는 최대 98.1% 살균·6주 지속; PVS·알지네이트 인상체·아크릴 보철물은 EW 소독 후 치수적 변화 없음; 그러나 NPQIP 항목 중 35.18%만 "Yes"로 전반적 비뚤림 위험 높음.
+
+EW는 유망한 광범위 치과 소독제이나 근거의 대부분이 in vitro이고 이질성 높아, 임상 표준화 프로토콜 및 RCT 검증이 확산 채택 전 필요하다.
 
 ## 1. Document Information
 

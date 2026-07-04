@@ -19,13 +19,23 @@ text_filename: garcia-2023-teledentistry-acceptability-latino-rural-virginia.txt
 
 기존 [[practice-management/scheerman-2024-systematic-umbrella-review-effects-teledentistry]]는 원격치의학(Teledentistry)의 정확도·비용·접근성을 낙관적으로 종합하지만, 환자 측 수용성(acceptability) 데이터가 빈약하다. 본 cross-sectional 조사(García 2023, N=91)는 미국 농촌 라티노 성인에서 57%가 무관심이라는 환자-측 현실을 보여 "가용성=이용"이라는 접근성 낙관론을 한정(refine)하는 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey (N=91 rural Latina/o/x adults, southwest Virginia) found 57% had no interest in teledentistry even if available; only higher household income (>$24k) and lacking dental insurance were significantly associated with acceptability — availability alone will not close access gaps without explicit health-equity integration.
 
-## 한줄요약
+Cross-sectional survey (N=91 rural Latina/o/x adults, southwest Virginia) found 57% had no interest in teledentistry even if available;
 
-농촌 라티노 성인 91명 대상 단면조사 — 57%가 원격치의학(Teledentistry)에 무관심, 가구소득 >$24k와 치과보험 미보유만 수용성과 유의 연관; 단순 가용성만으로는 접근격차가 해소되지 않으며 보건형평성(health equity)의 명시적 통합이 필요.
+only higher household income (>$24k) and lacking dental insurance were significantly associated with acceptability — availability alone will not close access gaps without explicit health-equity integration.
+
+(incomplete)
+
+## 세줄요약
+
+
+농촌 라티노 성인 91명 대상 단면조사 — 57%가 원격치의학(Teledentistry)에 무관심, 가구소득 >$24k와 치과보험 미보유만 수용성과 유의 연관;
+
+단순 가용성만으로는 접근격차가 해소되지 않으며 보건형평성(health equity)의 명시적 통합이 필요.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: marinelli-2025-temporary-anchorage-devices-clear-aligner-sr.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 14 studies — mostly case reports/small series; ROBINS-I: 1 low / 9 some-concerns / 4 high risk of bias) concluding that combining clear aligners with temporary anchorage devices (TADs/miniscrews) improves precision and control of anchorage-demanding movements (distalization, intrusion, extrusion, vertical control), but the evidence is low-certainty with no controlled comparisons and few RCTs.
+PROSPERO-registered PRISMA systematic review (458 records → 14 studies, predominantly case reports and small series) synthesizing the combined clear aligner + temporary anchorage device (TAD/miniscrew) modality — the first SR dedicated to this combination rather than either technique alone.
 
-## 한줄요약
+Combining aligners with TADs improved precision and control for anchorage-demanding movements (molar distalization, intrusion, extrusion, vertical control, impacted-canine traction, dental asymmetry, open bite, and surgery-first cases) by providing skeletal anchorage that aligners alone cannot generate; patient satisfaction was high owing to aligner esthetics/comfort.
 
-체계적 문헌고찰 (PRISMA, 14편 — 대부분 증례보고/소규모 시리즈; ROBINS-I 비뚤림: 1편 낮음 / 9편 일부우려 / 4편 높음): 투명교정장치 (Clear Aligner)에 임시고정원장치 (Temporary Anchorage Device, TAD; 미니스크류)를 병용하면 후방이동·압하·정출·수직조절 등 고정원이 많이 필요한 치아이동의 정밀도·조절력이 향상되나, 대조군이 없고 무작위배정연구가 거의 없어 근거 수준은 낮다.
+Evidence is directional, not confirmatory: ROBINS-I rated only 1/14 studies at low risk of bias (9 some-concerns, 4 high), no controlled comparisons or RCTs exist, and no meta-analysis was possible — the modality is promising but rests on weak evidence.
+
+## 세줄요약
+
+PROSPERO 등록 PRISMA 체계적 문헌고찰 (458건 → 14편, 대부분 증례보고·소규모 시리즈): 투명교정+임시고정원장치(TAD/미니스크류) 병용을 단독이 아닌 조합으로 다룬 최초 SR.
+
+투명교정 단독으로 생성 불가한 골격 고정원을 TAD가 공급해 대구치 distalization·압하·정출·수직조절·매복 견치 견인·치아비대칭·개방교합·surgery-first 케이스에서 정밀도·조절력 향상; 환자 만족도는 투명교정 심미성·편의성 덕에 높음.
+
+근거는 방향성 지시에 그침: ROBINS-I 1/14편만 낮은 비뚤림(9편 일부우려, 4편 높음), 대조 연구·RCT 없어 메타분석 불가 — 유망하나 약한 근거에 기반.
 
 ## Summary
 

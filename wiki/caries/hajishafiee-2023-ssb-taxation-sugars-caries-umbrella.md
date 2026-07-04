@@ -13,11 +13,19 @@ source_collection: external
 tags: [SSB-tax, sugar-sweetened-beverages, free-sugars, dental-caries, price-elasticity, umbrella-review, LMIC, HIC, public-health-policy, WHO]
 ---
 
-## One-line Summary
-Umbrella review of 19 systematic reviews (14 for SSB-tax/consumption; 5 for sugars-caries dose-response) estimating that a 20% volumetric SSB tax reduces free sugars by ~4.0–4.4 g/day and prevents 0.03 carious teeth per adult and 2.7–2.9% caries occurrence in children over 10 years across HIC and LMIC.
+## Three-line Summary
+Umbrella review of 19 systematic reviews (JBI methodology, PROSPERO-registered) commissioned for WHO's Global Oral Health Strategy, quantifying how SSB taxation affects free sugar intake and dental caries in both HIC and LMIC.
 
-## 한줄요약
-Umbrella review: SSB 20% 과세 → 자유당 ~4.0–4.4 g/일 감소, 성인 10년간 0.03치아·소아 우식 2.7–2.9% 예방(HIC·LMIC 공통) — 개인 수준 효과는 미미하나 인구집단 규모에서 의미 있음.
+A 20% volumetric SSB tax reduces free sugars by ~4.0–4.4 g/day; modelled 10-year impact: 0.03 fewer carious teeth/adult and 2.7–2.9% caries occurrence reduction in children in both HIC and LMIC.
+
+Individual-level caries benefit is modest but population-level impact is meaningful; findings support including SSB taxation in WHO oral health action plans.
+
+## 세줄요약
+WHO 구강건강전략 위탁 umbrella review (SR 19편, JBI 방법론, PROSPERO 등록): HIC·LMIC 모두에서 SSB 과세의 자유당 섭취 및 우식 영향 정량화.
+
+20% 세율 → 자유당 ~4.0–4.4 g/일 감소, 10년 모델링: 성인 0.03치아 우식 감소, 소아 우식발생 2.7–2.9% 감소(HIC·LMIC 공통).
+
+개인 효과는 소량이나 인구집단 규모에서 의미 있어 WHO 구강건강 행동계획에 SSB 과세 포함을 지지한다.
 
 ## Summary
 Hajishafiee et al. conducted the first umbrella review assessing how SSB taxation affects dental caries in both HIC and LMIC, commissioned to inform WHO's Global Strategy on Oral Health. From 519 identified systematic reviews, 14 were included for SSB-tax/consumption questions and 5 for the sugars-caries dose-response. The best available evidence (high-AMSTAR SR by Teng et al.) showed a 10% SSB tax reduces consumption by 10.0% (95% CI: −5.0, 14.7%) in HIC. A 20% volumetric tax would reduce free sugars by approximately 4.4 g/day (HIC) and 4.0 g/day (LMIC). Applying the dose-response thresholds from Moynihan & Kelly 2014, this translates to 0.03 fewer carious teeth per adult and 2.7–2.9% reduction in caries occurrence in children over 10 years. The conclusion is that SSB taxation produces a modest but real population-level caries benefit in both income settings, supporting its inclusion in the WHO oral health action plan.

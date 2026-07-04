@@ -16,13 +16,21 @@ text_filename: lampl-2025-crown-failures-primary-teeth-sr-ma.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis (13 RCTs, n=454 children/1172 crowns; 5 clinical studies, n=810 children/2667 crowns) of pediatric primary-tooth crowns found pooled 5-year retention rates of 97.88% for stainless steel crowns (SSC), 97.09% for zirconia, 92.18% for composite resin, 90.30% for RMGIC, 88.90% for compomer, and 83.48% for strip crowns; SSC had zero recorded retentive complications (decementation/chipping/fracture/loss) in the RCT data, while zirconia showed the highest gingival inflammation (up to 21.8% in clinical studies) and composite resin the broadest technical/esthetic complication profile.
+SR+MA (13 RCTs, n=454 children/1172 crowns; 5 clinical studies, n=810 children/2667 crowns) comparing 6 pediatric primary-tooth crown materials using Poisson regression to estimate pooled retention rates.
 
-## 한줄요약
+SSC had the highest 5-year retention (97.88%), followed by zirconia (97.09%), composite resin (92.18%), RMGIC (90.30%), compomer (88.90%), and strip crowns (83.48%); SSC was the only material with zero retentive complications in RCT data.
 
-13개 RCT(454명, 크라운 1172개)와 5개 임상연구(810명, 크라운 2667개)를 분석한 체계적 문헌고찰·메타분석 결과, 유치관 5년 유지율은 스테인리스강관(SSC) 97.88%, 지르코니아 97.09%, 복합레진 92.18%, RMGIC 90.30%, 컴포머 88.90%, 스트립관 83.48%였고, SSC는 RCT에서 탈락·칩핑·파절 등 유지 관련 합병증이 전혀 보고되지 않은 반면 지르코니아는 치은염증(임상연구 최대 21.8%)이 가장 높고 복합레진은 기술적·심미적 합병증(변색·색조 불일치 등)이 가장 다양하게 나타났다.
+Zirconia showed the highest gingival inflammation (21.8% in clinical studies), composite resin the broadest technical/esthetic complication profile; SSC remains the gold standard for badly broken-down primary teeth.
+
+## 세줄요약
+
+6종 유치관 재료를 포아송 회귀로 비교한 SR+MA(RCT 13편 454명·1172개, 임상연구 5편 810명·2667개).
+
+5년 유지율: SSC 97.88% > 지르코니아 97.09% > 복합레진 92.18% > RMGIC 90.30% > 컴포머 88.90% > 스트립관 83.48%; SSC는 RCT에서 유지 관련 합병증 0건으로 유일.
+
+지르코니아는 치은염증 최대 21.8%로 가장 높고 복합레진은 기술적·심미적 합병증이 가장 다양; SSC는 심하게 파괴된 유치 수복의 표준치료로 재확인.
 
 ## Summary
 

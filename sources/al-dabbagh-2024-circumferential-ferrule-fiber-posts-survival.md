@@ -16,13 +16,21 @@ text_filename: al-dabbagh-2024-circumferential-ferrule-fiber-posts-survival.txt
 
 The ferrule effect is the single most cited predictor of restored-ETT longevity, so the new `post-and-core` category needs a dedicated clinical-evidence page on it. This SR+MA isolates the ferrule variable in fiber-post restorations (clinical RCTs/cohorts), complementing the material-choice papers [[post-and-core/tsintsadze-2022-survival-rates-glass-fiber-metal-posts]] and reinforcing the ferrule-dominance theme seen biomechanically in [[post-and-core/mously-2024-anterior-endocrowns-alternative-core-crown]].
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 clinical studies, 407 teeth): a uniform circumferential ferrule significantly increased SUCCESS of fiber-post-restored ETT in direct analysis (RR=1.28, 95% CI 1.06-1.54), but indirect analysis across all studies showed no significant survival/success difference.
+SR+MA (3,731 records screened; 8 clinical studies, 407 endodontically treated teeth) isolating the circumferential 360° ferrule variable in fiber-post-restored crowns.
 
-## 한줄요약
+Direct head-to-head success analysis (2 studies, 123 teeth) showed a circumferential ferrule significantly increased success (RR=1.28, 95% CI 1.06–1.54, p<0.05); indirect pooled analysis across all 8 studies showed no significant survival/success difference.
 
-SR+MA(임상연구 8편, 치아 407개): 균일한 원주형 페룰(circumferential ferrule)이 직접 분석에서 섬유포스트 수복 근관치료치아의 성공률을 유의하게 높였으나(RR=1.28, 95% CI 1.06-1.54), 전체 연구 간접분석에서는 생존·성공률 차이가 유의하지 않았음.
+A circumferential ferrule is recommended for fiber-post-restored ETTs, but the evidence base is limited to 8 studies and the direct-analysis advantage rests on only 123 teeth — higher-quality RCTs are needed.
+
+## 세줄요약
+
+SR+MA (3,731편 검색; 임상연구 8편, 근관치료치아 407개) — 섬유포스트(fiber post) 수복 크라운에서 원주형 360° 페룰(circumferential ferrule) 변수를 단독 분리.
+
+직접 비교 성공률 분석 (2편, 123개): 원주형 페룰이 성공률 유의하게 상승(RR=1.28, 95% CI 1.06–1.54, p<0.05); 8편 전체 간접 풀링 분석에서는 생존·성공률 차이 유의하지 않음.
+
+섬유포스트 수복 근관치료치아에 원주형 페룰 권장이 지지되나, 직접 분석이 123개 치아에 의존하는 한계로 고질적 RCT 추가 필요.
 
 ## 1. Document Information
 

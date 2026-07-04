@@ -13,11 +13,21 @@ source_collection: external
 
 [[wiki/sinus-lift/transcrestal/felix-2022-subantral-sinus-augmentation-hydraulic-lift-system]]이 hydraulic lift 원리를 기술했으나 hyaluronic acid(HA)를 graft 대체제로 사용한 fluid-dynamic 접근은 없음. Scarano 2025는 HA 단독 사용 + 유체역학적 막거상의 12개월 CBCT 전향적 데이터로 새 카테고리 개방.
 
-## One-line Summary
-Prospective (n=58 patients): fluid-dynamic OSFE with 2% cross-linked hyaluronic acid achieves 7.5 mm average bone gain, no failures at 12 months CBCT; wider sinuses gain more bone.
+## Three-line Summary
 
-## 한줄요약
-전향적(58환자): 2% 교차결합 HA를 이용한 유체역학적 transcrestal SFE — 12개월 CBCT 평균 골이득 7.5mm, 실패 없음; 동공 폭 넓을수록 골이득 큼.
+Prospective (n=58 patients): fluid-dynamic OSFE with 2% cross-linked hyaluronic acid achieves 7.5 mm average bone gain, no failures at 12 months CBCT;
+
+wider sinuses gain more bone.
+
+(incomplete)
+
+## 세줄요약
+
+전향적(58환자): 2% 교차결합 HA를 이용한 유체역학적 transcrestal SFE — 12개월 CBCT 평균 골이득 7.5mm, 실패 없음;
+
+동공 폭 넓을수록 골이득 큼.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Materials 2025;18:2230

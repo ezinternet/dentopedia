@@ -10,7 +10,7 @@ pdf_filename: wagner-2022-diabetes-mellitus-dental-implants-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR (40 clinical studies + 16 aggregated publications): poorly controlled DM → ↑ peri-implantitis + long-term implant loss; controlled DM = similar success to healthy controls; perioperative antibiotics + CHX improve outcomes; no contraindication for controlled DM.
 
 ## 1. Document Information

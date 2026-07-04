@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective study (n=212 patients, 496 implants, mean 8.02-year follow-up) of 4-mm short implants in posterior atrophic jaws: 95.36% survival (CI 93.12–97.04). Maxillary placement raised failure (p=0.02), more frequent hygiene sessions lowered it (p<0.001), and MBL stayed minimal (0.47 mm at 1y → 0.59 mm at 10y) — 4-mm short implants are a stable long-term option for posterior vertical atrophy.
+## Three-line Summary
 
-## 한줄요약
-4mm short implant 후향 연구(n=212명, 496 implants, 평균 8년): survival 95.36% (CI 93.12–97.04). 상악 실패율 ↑(p=0.02), 정기 hygiene 세션 많을수록 실패율 ↓(p<0.001). 1년 MBL 0.47mm → 10년 0.59mm. 후방 위축악 재활에서 4mm short implant는 장기간 안정적 옵션.
+Retrospective study of 4-mm short implants in 212 patients (496 implants, mean 8.02-year follow-up) placed in posterior severely atrophic jaws (mandibular or maxillary) by a single surgical team, with minimum 3-year post-loading follow-up.
+
+Cumulative survival 95.36% (95% CI 93.12–97.04); maxillary placement significantly increased failure risk (p=0.02) and higher hygiene visit frequency significantly reduced it (p<0.001); MBL remained minimal at 0.47 mm at 1 year progressing only to 0.59 mm at 10 years with no significant increase after year 3.
+
+4-mm short implants are a stable long-term option for posterior vertical atrophy, avoiding augmentation surgery; maxillary sites require heightened caution, and maintenance visit frequency is a modifiable protective factor.
+
+## 세줄요약
+
+4 mm 초단 임플란트 후향 코호트: 212명·496 임플란트, 평균 추적 8.02년, 단일 수술팀, 상·하악 후방 중증 위축악, 최소 하중 후 3년 이상 추적.
+
+누적 생존율 95.36%(95% CI 93.12–97.04); 상악 식립은 실패 위험 유의 증가(p=0.02), 연간 hygiene 내원 횟수 많을수록 실패 유의 감소(p<0.001); 변연골소실(MBL)은 1년 0.47 mm → 10년 0.59 mm로 3년 이후 유의한 추가 소실 없음.
+
+4 mm 초단 임플란트는 골증대 없이 후방 수직 위축악을 재활하는 장기 안정적 옵션이며, 상악은 주의 요구; 정기 유지관리 내원 빈도가 수정 가능한 보호인자이다.
 
 ## Summary
 Long-term retrospective study of 4-mm short implants in 212 patients (496 implants) with posterior severe vertical atrophy, mean follow-up 8.02 years.

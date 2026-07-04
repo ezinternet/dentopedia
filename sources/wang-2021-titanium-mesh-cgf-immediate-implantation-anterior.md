@@ -9,7 +9,7 @@ pdf_filename: wang-2021-titanium-mesh-cgf-immediate-implantation-anterior.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Short-term clinical evaluation of titanium mesh combined with CGF (Concentrated Growth Factor) membranes for GBR at immediate implant placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
 
 ## 1. Document Information

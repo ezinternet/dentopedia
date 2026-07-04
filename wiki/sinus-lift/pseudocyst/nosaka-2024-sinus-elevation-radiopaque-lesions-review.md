@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, radiopaque-lesion, sinus-floor-elevation, differential-diagnosis, CBCT, clinical-review, Japan, Showa]
 ---
 
-## One-line Summary
-Clinical review (Nosaka, Showa University, JCM 2024): a differential-diagnosis and decision framework for maxillary sinus floor elevation in patients with well-defined faintly radiopaque antral lesions — cautions against defaulting to "antral pseudocyst," maps AP/MRC/odontogenic cyst/antrolith/mucocele/tumor against imaging features, and defines ENT-consultation triggers (e.g. lesion >20 mm near ostium, full-sinus involvement).
+## Three-line Summary
 
-## 한줄요약
-Clinical review (Nosaka·Showa University, JCM 2024): 상악동 내 well-defined faintly radiopaque lesion의 sinus floor elevation 결정 framework — AP/MRC 외 다양한 mass 감별진단·차등 접근 가이드.
+Comprehensive clinical review (Nosaka, Showa University, JCM 2024) providing a differential-diagnosis and decision framework for sinus floor elevation in patients with well-defined faintly radiopaque antral lesions, mapping AP, MRC, odontogenic cyst, antrolith, mucocele, and tumor against imaging features and management pathways.
+
+The review cautions against defaulting to "antral pseudocyst" for any dome-shaped sinus opacity and defines ENT consultation triggers — lesion >20 mm near the ostium, full-sinus involvement, invasive margins, or associated unilateral chronic sinusitis.
+
+This serves as the "step zero" diagnostic gate before treatment decisions, with no primary data but drawing on Japanese clinical standards comparable to Korean practice.
+
+## 세줄요약
+
+종합 임상 고찰(Nosaka·쇼와대학교, JCM 2024): 상악동 내 well-defined 경도 방사선불투과성 병변에 대한 상악동저거상술 결정 framework — 가성낭종(AP)·MRC·치성낭종·상악동석(Antrolith)·점액류(Mucocele)·종양을 영상 특징·처치 경로에 따라 매핑.
+
+모든 dome형 상악동 음영을 AP로 가정하는 것을 경계하고, 이비인후과 협진 기준(>20 mm + 자연공 근접, 전체 부비동 침범, 침습성 경계, 일측성 만성 부비동염)을 정의.
+
+원발 데이터 없는 서술 고찰이나 수술 계획의 '0단계' 정확한 감별진단 단계를 체계화한 점에서 임상 의사결정 트리의 시작점으로 활용.
 
 ## Summary
 영상에서 "흐릿하게 방사선 불투과성"으로 보이는 lesion은 AP·MRC·odontogenic cyst·이물질·종양 등 다양한 가능성. 본 review는 단순 AP 가정을 경계하고 영상 추가검사·ENT 협진 시점·sinus elevation 결정의 통합 framework 제시.

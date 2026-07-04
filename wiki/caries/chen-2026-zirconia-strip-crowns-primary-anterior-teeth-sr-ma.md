@@ -19,13 +19,21 @@ relations:
     target: chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis of 9 RCTs (1746 primary anterior teeth, children aged 3–6 years) found prefabricated zirconia crowns (PZCs) superior to resin-bonded composite strip crowns (RCSCs) for secondary caries prevention (RR=0.41), crown retention (RR=0.15), restoration failure (RR=0.07), and plaque accumulation (RR=0.08), while RCSCs caused significantly less wear of opposing teeth (RR=7.58 favoring RCSC).
+SR+MA of 9 RCTs (1746 primary anterior teeth, children aged 3–6 years, PROSPERO CRD42024625706) comparing prefabricated zirconia crowns (PZCs) vs resin-bonded composite strip crowns (RCSCs); 8/9 studies rated low risk of bias with RoB 2.
 
-## 한줄요약
+PZCs were superior for secondary caries prevention (RR=0.41, p=0.030), crown retention (RR=0.15, p<0.001), restoration failure (RR=0.07, p<0.001), and plaque accumulation (RR=0.08, p<0.001); however, opposing-tooth wear strongly favored RCSCs (RR=7.58, 95% CI 2.73–21.07, p<0.001).
 
-RCT 9편(유전치 1746개, 3–6세 아동) SR+MA — prefabricated zirconia crown (PZC)이 resin-bonded composite strip crown (RCSC) 대비 이차우식 예방(RR=0.41), 크라운 유지(RR=0.15), 수복 실패(RR=0.07), 플라크 축적(RR=0.08)에서 우수했으나, 대합치 마모는 RCSC가 유의하게 적었다(RR=7.58, PZC 불리).
+PZC choice for primary anterior teeth should weigh its durability and hygiene advantages against significantly greater antagonist wear (hardness 1000–1400 HV vs enamel 300–400 HV); caries risk, esthetic demand, and parafunctional habits guide case selection.
+
+## 세줄요약
+
+유전치(Primary Anterior Teeth) 수복을 위한 prefabricated zirconia crown (PZC) vs resin-bonded composite strip crown (RCSC) 비교 SR+MA(RCT 9편, 치아 1746개, 3–6세 아동, PROSPERO CRD42024625706); RoB 2 기준 8/9 저위험.
+
+이차우식 예방(RR=0.41, p=0.030), 크라운 유지(RR=0.15, p<0.001), 수복 실패(RR=0.07, p<0.001), 플라크(RR=0.08, p<0.001) 모두 PZC 우수; 단, 대합치 마모는 RCSC가 강하게 유리(RR=7.58, 95% CI 2.73–21.07, p<0.001).
+
+PZC의 내구성·위생 이점과 유의하게 큰 대합치 마모(경도 1000–1400 HV vs 법랑질 300–400 HV)를 함께 고려; 우식 위험·심미 요구·이상기능을 바탕으로 증례 선택.
 
 ## Summary
 

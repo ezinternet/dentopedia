@@ -18,13 +18,21 @@ relations:
     target: li-2024-antiresorptive-implants-mronj-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Korean master's narrative review of 30 human studies (2008–2025) on dental implants in osteoporosis and five osteosclerotic jaw lesions: osteoporosis short-term survival is healthy-comparable (97.9–100%) but falls to 82.6–94.1% at 5–10 years with greater marginal bone loss; osteosclerotic-lesion outcomes are lesion-type dependent (florid COD 66.7% vs localized 100%; intralesional placement worst).
+Korean master's narrative review (30 human studies, 2008–2025) contrasting dental implant outcomes at the two extremes of bone metabolism: osteoporosis and five osteosclerotic jaw lesions (COD, condensing osteitis, idiopathic osteosclerosis, cementoblastoma, hypercementosis).
 
-## 한줄요약
+Osteoporosis short-term survival is healthy-comparable (97.9–100%) but declines to 82.6–94.1% at 5–10 years with greater marginal bone loss; osteosclerotic outcomes are lesion-type dependent — localized COD 100% vs florid COD 66.7%, with intralesional placement worst.
 
-골다공증·골경화성 5병변에서 임플란트를 다룬 한국 석사 종설(30편). 골다공증은 단기 97.9–100%지만 5–10년 82.6–94.1%로 하락하고 골소실이 커지며, 골경화성 병변은 유형 의존적(범발형 COD 66.7% vs 국소형 100%, 병소 내 식립 최악)이다.
+Non-systematic single-author design with no quality appraisal or meta-analysis limits evidence weight; oral bisphosphonates are not an absolute contraindication, and drug holidays are reserved for high-risk IV antiresorptive or steroid co-therapy profiles with endocrinology co-management.
+
+## 세줄요약
+
+골다공증 및 골경화성 5병변(COD, 응결성 골염, 특발성 골경화, 백악모세포종, 과백악질증)에서 임플란트 결과를 다룬 한국 석사 서사적 종설 (Narrative Review), 30편, 2008–2025.
+
+골다공증 단기 97.9–100%이나 5–10년 82.6–94.1%로 하락하고 변연골 소실 증가; 골경화성 병변은 유형 의존적 — 국소형 COD 100% vs 범발형 COD 66.7%, 병소 내 식립 시 실패 위험 최고.
+
+비체계적 단독 저자 설계로 근거 수준 낮음; 경구 비스포스포네이트 (bisphosphonate)는 절대 금기 아님, 약물 휴지기는 고위험(정맥 투여·스테로이드 병용) 환자에 한해 내분비과 협진 하에 고려.
 
 ## Summary
 

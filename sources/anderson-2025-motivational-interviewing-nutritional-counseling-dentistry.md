@@ -16,13 +16,21 @@ source_collection: external
 
 [[wiki/behavioral-dentistry/motivational-interviewing/rogers-2022-dental-hygienists-motivational-interviewing-perceptions]]가 위생사의 MI 사용 일반을 다뤘다면, 본 narrative review는 MI를 "영양상담(nutritional counseling)"이라는 구체적 적응증으로 확장 — 위생사가 식이 행동변화를 다루는 실무 도구(NRACT)를 제시. 위생사 교육·상담 매뉴얼 설계에 직접 연결. (Arnett 공저로 Rogers 2022와 연구진 연속.)
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (PRISMA-structured, n=6 included studies) — motivational interviewing and brief MI can be used by dental hygienists for nutritional counseling to improve provider confidence and patient dietary behavior change; the Nutritional Risk Assessment and Counseling Tool (NRACT) is offered as a brief-MI aid in dental settings.
+Narrative review (PRISMA-structured, 6 included studies, abstract-only source) mapping motivational interviewing (MI) and brief MI use by dental hygienists specifically for nutritional counseling.
 
-## 한줄요약
+MI training improved provider confidence and brief MI interventions showed effectiveness in dietary behavior change; the Nutritional Risk Assessment and Counseling Tool (NRACT) is proposed as a chair-side brief-MI aid.
 
-내러티브 리뷰(PRISMA 형식, 포함 6편) — MI·brief MI를 위생사가 영양상담에 활용 가능; 술자 자신감과 환자 식이 행동변화를 향상. 치과 영양상담용 brief-MI 도구로 NRACT(Nutritional Risk Assessment and Counseling Tool) 제시.
+Only 6 studies qualified and quantitative effect sizes were not recoverable from the abstract; evidence base is preliminary and requires full-text verification before clinical implementation.
+
+## 세줄요약
+
+내러티브 리뷰(PRISMA 형식, 포함 6편, 초록만 보유) — 치과위생사가 영양상담에 MI·brief MI를 적용하는 방식과 임상 맥락을 두 영역(술자 유형·집단/상태별)으로 정리.
+
+MI 교육이 술자 자신감을 높이고 brief MI가 식이 행동변화에 효과적임을 확인; 치과 영양상담 전용 brief-MI 도구 NRACT(Nutritional Risk Assessment and Counseling Tool)를 제안.
+
+포함 연구 6편에 그쳐 효과 크기 정량화 불가 — 임상 적용 전 전문 확보 후 재검토 권장.
 
 ## 1. Document Information
 - Journal: Journal of Dental Hygiene 2025;99(3):38–50

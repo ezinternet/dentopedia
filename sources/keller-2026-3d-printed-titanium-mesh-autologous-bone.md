@@ -15,13 +15,23 @@ full_text: false
 
 노출 0% 사례를 보고한 소규모 후향 연구로서, 메쉬 설계(마이크로퍼포레이션 grade-2 Ti) + 순수 자가골 조합이 [[wiki/implants/vertical-ridge-augmentation/sabri-2024-titanium-mesh-bone-augmentation-sr-ma]] 풀드 노출률(10.8%)과 상반되는 실제 zero-exposure 사례를 제공한다. 왜 노출이 생기지 않았는지에 대한 기술적 가설(micro-perforated design, 2-screw, pure autograft)을 문헌화.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective (n=16): 3D-printed micro-perforated grade-2 Ti mesh + pure autologous bone → 0% mesh exposure, targeted augmentation achieved in all cases (planned = real CBCT outcomes).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 연구 (n=16): 3D 프린팅 마이크로퍼포레이션 grade-2 Ti 메쉬 + 순수 자가골 → 메쉬 노출 0%, 계획과 실제 CBCT 골증대량 일치.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (21 RCTs) comparing extra-short (≤6 mm) vs longer (≥8 mm) implants: no survival difference at 1y (RR 1.002) or 3y (RR 0.996), longer implants higher survival at 5y (RR 0.970, p<0.05) but parity in the bone-augmentation subgroup; extra-short favored for marginal bone loss (WMD −0.22 mm) and biological complications (RR 0.321) — extra-short implants are an acceptable alternative to augmentation + long implants.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (21 RCT): extra-short ≤6mm vs long ≥8mm — 1·3년 survival 차이 없음, 5년에는 longer가 우세(RR 0.970). 단 augmentation 동반 5년 비교에서는 short가 비열등. MBL과 biological complications는 short가 유리. 결론: short implant는 augmentation 대안으로 수용 가능.
+SR+MA (AMSTAR-2 + GRADE, 21 RCTs, extra-short ≤6 mm vs longer ≥8 mm implants, searches through November 2020): no survival difference at 1 year (RR 1.002) or 3 years (RR 0.996); longer implants had significantly higher survival at 5 years (RR 0.970, p<0.05), but the augmentation subgroup showed parity at 5 years.
+
+Extra-short implants were favored for marginal bone loss (WMD −0.22 mm) and biological complications (RR 0.321); prosthetic complications and MBL from the prosthesis did not differ.
+
+Extra-short implants are an acceptable alternative to bone augmentation + longer implants, with the caveat that the 5-year survival gap disappears only in the augmentation-comparator subgroup — context matters for long-term planning.
+
+## 세줄요약
+
+SR+MA(AMSTAR-2·GRADE, 21 RCT, extra-short ≤6 mm vs long ≥8 mm, 2020년 11월까지): 1년(RR 1.002)·3년(RR 0.996) 생존율 차이 없음; 5년에서 longer 우세(RR 0.970, p<0.05), 단 골증대 서브그룹에서는 5년 동등.
+
+MBL(WMD −0.22 mm)과 생물학적 합병증(RR 0.321)은 extra-short 유리; 보철 합병증과 보철 기준 MBL은 차이 없음.
+
+Extra-short implant는 골증대+장형 임플란트의 수용 가능한 대안이나, 5년 생존 차이는 골증대 비교군에서만 소실됨 — 장기 계획 시 임상 맥락이 중요하다.
 
 ## Summary
 Meta-analysis of 21 RCTs comparing extra-short (≤6 mm) vs longer (≥8 mm) implants. AMSTAR-2 + GRADE quality appraisal. Outcomes: survival, MBL, biological/prosthetic complications.

@@ -9,8 +9,21 @@ pdf_filename: anitua-2022-short-vs-longer-implants-single-crown.pdf
 source_collection: external
 ---
 
-## One-line Summary
-STROBE-compliant retrospective cohort comparing short (≤6.5 mm) vs longer (≥7.5 mm) implants supporting single-crown restorations in posterior premolar/molar regions. Same surgeon, same prosthetic concept (transepithelial abutment + screw-retained crown).
+## Three-line Summary
+
+STROBE-compliant retrospective cohort study (88 short implants ≤6.5 mm vs 88 longer implants ≥7.5 mm, single-crown restorations in posterior premolar/molar regions, same surgeon and prosthetic protocol) with median follow-up ~31–35 months.
+
+No statistically significant differences were found in survival, marginal bone level changes, or prosthetic complications; MBL ≥2 mm occurred in 1/88 vs 3/88 (p=0.312).
+
+Short implants (≤6.5 mm) appear non-inferior to longer implants for single-crown posterior restorations at medium-term follow-up, but the retrospective single-surgeon design limits evidence strength.
+
+## 세줄요약
+
+STROBE 준수 후향적 코호트 연구(단임 술자, 동일 보철 프로토콜): 구치부 단일 크라운 지지를 위한 단축 임플란트(≤6.5 mm, 88개) 대 일반 임플란트(≥7.5 mm, 88개) 비교, 중앙 추적 기간 약 31–35개월.
+
+생존율, 변연골 소실(Marginal Bone Level, MBL), 보철 합병증 모두 유의차 없었으며; MBL ≥2 mm는 1/88 대 3/88(p=0.312).
+
+단축 임플란트(≤6.5 mm)는 구치부 단일 크라운에서 중기적으로 일반 임플란트와 동등한 성과를 보이지만, 후향적 단임 술자 연구로 근거 강도가 제한된다.
 
 ## 1. Document Information
 - **Title:** Single-crown restorations in premolar–molar regions: short (≤ 6.5) vs longer implants: retrospective cohort study

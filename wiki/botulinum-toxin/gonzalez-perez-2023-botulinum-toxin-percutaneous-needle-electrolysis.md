@@ -14,11 +14,21 @@ source_collection: external
 tags: [BTA, PNE, percutaneous-needle-electrolysis, chronic-masticatory-myalgia, head-to-head-RCT, trigger-points, EMG]
 ---
 
-## One-line Summary
-Single-center head-to-head RCT (n=52) in refractory chronic localized masticatory myalgia: both bilateral BTA (100 U) and single-session percutaneous needle electrolysis (PNE, 0.5 mA × 3 s × 3) reduced VAS pain (≈6.5 → ≈2.6) and improved MIO (+4 mm), sustained through 90 days, with no between-group difference; only PNE caused mild adverse events (4 cases of bruising/pain).
+## Three-line Summary
 
-## 한줄요약
-RCT (n=52) — chronic masticatory myalgia에서 BTA 100U와 PNE (0.5mA/3s ×3회) 모두 VAS 6.5→2.6, MIO +4mm, 90일 유지, 두 치료 간 차이 없음.
+Single-center head-to-head RCT (n=52, 26 per arm) in adults with refractory chronic localized masticatory myalgia (>12 months, active trigger points, DC/TMD-aligned diagnosis) comparing bilateral BTA injection (100 U total) vs single-session percutaneous needle electrolysis (PNE, 0.5 mA × 3 s × 3 applications).
+
+Both treatments produced significant within-group improvements in VAS pain (≈6.5 → ≈2.6), MIO (+4 mm), lateral movements, protrusion, and QoL from day 28 through day 90 (all p<0.001); no between-group difference emerged on any variable, with only PNE causing mild AEs (4 cases of bruising/pain).
+
+Clinical implication: PNE is a credible non-pharmacological alternative to BTA in refractory localized masticatory myalgia — choose based on AE profile and patient preference (PNE avoids muscle atrophy risk; BTA had zero AEs in this trial).
+
+## 세줄요약
+
+만성 국소 교근통(>12개월, 활성 trigger point, DC/TMD 진단) 성인 n=52를 양측 BTA(100U) vs 단회 경피 침전기분해(PNE, 0.5mA/3s ×3) 두 군으로 무작위 배정한 단일기관 head-to-head RCT.
+
+양 군 모두 28일부터 90일까지 VAS(≈6.5→2.6), MIO(+4mm), 측방 운동, 전방 돌출, QoL에서 군내 유의 개선(모두 p<0.001); 군간 차이는 어느 변수에서도 없었고, PNE에서만 경미한 이상반응 4건(멍·통증) 발생.
+
+임상 의미: 만성 국소 교근통에서 PNE는 BTA와 동등한 효과를 가진 비약물적 대안 — 부작용 프로필과 환자 선호도에 따라 선택 가능(PNE는 근육위축 위험 없음; BTA는 이 시험에서 이상반응 0건).
 
 ## Summary
 This Seville-based RCT randomized 52 adults with refractory chronic localized masticatory myalgia (>12 months) and active trigger points to either bilateral BTA injection (100 U total) or single-session percutaneous needle electrolysis (PNE, 0.5 mA × 3 s × 3 applications). Both treatments produced statistically significant within-group improvements in pain (VAS ≈6.5 → ≈2.6), maximum interincisal opening (+4 mm), lateral movements, protrusion, and quality of life from day 28 and sustained through day 90 (p < 0.001 within-group). No between-group difference emerged on any variable; only PNE produced mild adverse events (4 cases of bruising/pain at the puncture site).

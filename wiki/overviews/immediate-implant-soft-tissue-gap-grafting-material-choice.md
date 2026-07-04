@@ -31,13 +31,21 @@ relations:
 > - 임상 takeaway: 이 페이지는 '이식 여부'가 아닌 '어떤 이식재'를 다루는 material-selection 보완 페이지. 얇은 표현형·고심미 요구 → SCTG 1차, gap ≥2mm → 콜라겐 함유 골대체재.
 > - 근거 한계: 자가 vs 대체재 head-to-head 부피 endpoint 부족, BSM 합병증 신호(RR 3.50)는 저확실성 미확인, 경조직+연조직 동시 이식 효과크기 동시 보고 드묾.
 
-## One-line Summary
+## Three-line Summary
 
-At immediate implants, two graft decisions are separate: (1) **hard-tissue gap grafting** with a bone substitute reduces horizontal buccal resorption (~MD −0.5 mm) and improves esthetics but raises complications (RR ~3.5), and adding collagen improves buccal thickness/esthetics further; (2) **soft-tissue augmentation** with autogenous connective tissue graft (SCTG) is the strongest performer (buccal thickness +0.74 mm, mid-buccal level +0.5 mm, PES +0.79, less recession), xenogeneic collagen matrix is a viable donor-site-free alternative, and a customized healing abutment alone is insufficient.
+At immediate implants, two graft decisions must be kept anatomically separate: for the hard-tissue gap, a bone substitute reduces horizontal buccal resorption (MD −0.52 mm, PES +1.49; Zaki 2021 SR+MA, 20 RCTs) with a complication signal (RR 3.50, low certainty), and adding collagen to the graft further improves buccal thickness and esthetics (Liu 2023, 7 RCTs).
 
-## 한줄요약
+For soft-tissue augmentation, autogenous SCTG is the strongest performer (buccal tissue thickness +0.74 mm, mid-buccal level +0.5 mm, PES +0.79, MBL −0.11 mm; Aldhohrah 2022 SR+MA; ranked #1 in Azadi 2025 Bayesian NMA of 21 RCTs); xenogeneic collagen matrix is a viable donor-site-free alternative; a customized healing abutment alone is insufficient for thin sites (midfacial change −1.54 mm vs CTG −0.74 mm; Fettouh 2024 RCT).
 
-즉시식립의 이식 결정은 두 갈래로 분리된다: (1) **gap 골이식**(골대체재)은 수평 협측 흡수를 줄이고(약 MD −0.5 mm) 심미를 높이나 합병증을 증가(RR ~3.5)시키며 콜라겐 병용 시 협측 두께·심미가 더 개선되고, (2) **연조직 증대**는 자가 결합조직이식(SCTG)이 가장 우수(협측 두께 +0.74 mm·중협측 수준 +0.5 mm·PES +0.79·퇴축 감소), 이종 콜라겐 기질은 공여부 없는 대안, 맞춤형 치유지대주 단독은 불충분하다.
+CTG maintains rather than increases the gingival level (RCT-only pooling: MD 0.09 mm, NS; Torra-Moneny 2024); simultaneously, vestibular-socket-tunnel approach preserves papillae better than open-flap GBR (PES 12.78 vs 11.56, p=0.03; Ebrahim 2026 RCT) and DDBM vs e-PRF membranes are equivalent at 24 months for posterior mandibular IIP GBR (Abdelsameaa 2026 RCT, n=40).
+
+## 세줄요약
+
+즉시식립 이식 결정은 두 해부학적 축으로 분리해야 한다: **경조직 gap 이식** — 골대체재(BSM)는 수평 협측 흡수 MD −0.52 mm·PES +1.49를 얻으나 합병증을 증가(RR 3.50, 낮은 확실성; Zaki 2021 SR+MA)시키며, 콜라겐 병용 시 협측 두께·심미가 추가 개선된다(Liu 2023, 7 RCT).
+
+**연조직 증대** — 자가 SCTG가 최우수(협측두께 +0.74 mm·중협측 수준 +0.5 mm·PES +0.79·MBL −0.11 mm; Aldhohrah 2022 SR+MA; Azadi 2025 NMA 1위); 이종 콜라겐 기질은 공여부 없는 대안; 맞춤 치유지대주 단독은 얇은 부위에 불충분(−1.54 mm vs CTG −0.74 mm; Fettouh 2024 RCT); CTG는 치은 수준을 "유지"하는 것이지 "증가"가 아님(RCT-only MD 0.09 mm, NS; Torra-Moneny 2024).
+
+전정부 터널(VST) 접근은 open-flap 대비 유두를 유의하게 보존(PES 12.78 vs 11.56, p=0.03; Ebrahim 2026 RCT, n=20)하며; 하악 구치 즉시식립 GBR에서 DDBM vs e-PRF 막은 24개월 동등(Abdelsameaa 2026 RCT, n=40)으로, 차폐막 선택의 새 데이터가 추가되었다.
 
 ## Thesis
 

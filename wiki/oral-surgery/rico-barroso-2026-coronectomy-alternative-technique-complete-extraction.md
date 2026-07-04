@@ -16,13 +16,21 @@ relations:
     target: cervera-espert-2016-coronectomy-mandibular-third-molar-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (16 studies, 2551 patients; 2280 coronectomies vs 841 extractions): IAN injury 0.56% with coronectomy vs 6.53% with extraction; 6.22% of coronectomies converted to extraction; root migration the dominant coronectomy-specific complication.
+Systematic review of 16 studies (2,551 patients) comparing coronectomy (2,280 cases) vs complete extraction (841 cases) for high-risk mandibular third molars with radiographic IAN proximity signs.
 
-## 한줄요약
+Coronectomy reduced IAN injury ~tenfold (0.56% vs 6.53%) and permanent IAN injury ~tenfold (0.13% vs 1.18%), with comparable postoperative pain between techniques.
 
-체계적 문헌고찰 (16편·2551명, 치관절제 2280건 vs 발치 841건): 하치조신경 손상 치관절제 0.56% vs 발치 6.53%, 치관절제 6.22% 완전발치 전환, 치관절제 특유 합병증은 치근 이동.
+A 6.22% intraoperative conversion rate (mostly root mobilization) and early root migration in the first 6 months are the main coronectomy-specific trade-offs.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (16편, 2,551명): 방사선상 하치조신경(IAN) 근접 소견이 있는 고위험 하악 제3대구치의 치관절제(2,280건) vs 완전발치(841건) 비교.
+
+IAN 손상 치관절제 0.56% vs 발치 6.53% (약 10배 감소), 영구 손상도 0.13% vs 1.18%; 술후 통증은 두 술식 간 차이 없음.
+
+치관절제 특유 합병증으로 술중 완전발치 전환 6.22%와 초기 6개월 이내 치근 이동이 주요 trade-off다.
 
 ## Summary
 

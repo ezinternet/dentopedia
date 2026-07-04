@@ -9,7 +9,7 @@ pdf_filename: hatipoglu-2025-direct-pulp-capping-nmr-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 DPC 재료 6종 비교 Bayesian NMR(RCT 21개, 1733명): Biodentine OR 4.41, MTA OR 3.02로 Ca(OH)₂ 대비 유의 우위; 추적 기간 보정.
 
 ## 1. Document Information

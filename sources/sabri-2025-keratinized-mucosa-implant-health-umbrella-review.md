@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 주위 각화점막 (Keratinized Mucosa, KM) 폭경이 임플란트 건강에 미치는 영향에 대한 기존 SR/MA들을 총괄하는 우산형 체계적 고찰(umbrella review) + 메타-메타분석으로, KM 부족(< 2 mm)이 골흡수·치은퇴축·플라그지수 등에 미치는 영향을 정량화한 가장 상위 수준의 근거. 기존 [[wiki/implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] 및 [[wiki/implants/peri-implantitis/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma]]를 포함하는 10개 SR을 종합해 effect size를 통합 산출함.
 
-## One-line Summary
+## Three-line Summary
+
 
 Umbrella SR + meta-meta-analysis of 10 SRs (2012–2023) shows KM width < 2 mm is significantly associated with greater mucosal recession (eOR 4.05), higher plaque/gingival indices, and greater marginal bone loss (eOR 1.852), but not with bleeding on probing or pocket depth.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 10개 SR을 종합한 우산형 체계적 고찰 + 메타-메타분석: 각화점막 폭 < 2 mm는 치은퇴축(eOR 4.05)·치은지수·플라그지수·변연골소실(eOR 1.852) 악화와 유의한 관련이 있으나, 탐침 시 출혈·탐침 깊이와는 유의한 연관성이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

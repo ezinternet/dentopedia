@@ -20,13 +20,21 @@ relations:
     target: hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (17 clinical trials, 39 AO treatments, 2010–2020): only 53.8% met the pain-control benchmark (VAS ≤4 by day 2, or ≥85% pain-free by day 7); successful options = basic intra-alveolar irrigation + specific dressings (Alveogyl, Neocones, SaliCept Patch, low-level laser, PRF); heterogeneity prevents ranking.
+Systematic review (17 clinical trials, 39 AO treatments, 2010–2020) evaluating treatment of alveolar osteitis (dry socket) using explicit pain-control benchmarks: VAS ≤4 by day 2 or ≥85% pain-free by day 7.
 
-## 한줄요약
+Only 53.8% of tested treatments met the benchmark; successful options include basic intra-alveolar irrigation plus specific agents (Alveogyl, Neocones, SaliCept Patch, low-level laser, PRF), but heterogeneity prevents ranking.
 
-체계적 문헌고찰(임상시험 17편, 건성 발치와 (Alveolar Osteitis, AO) 치료 39개): 통증조절 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통)을 충족한 치료는 53.8%뿐. 성공 옵션 = 기본(발치와 내 세척) + 특정(Alveogyl·Neocones·SaliCept Patch·저출력 레이저 (LLLT)·혈소판농축섬유소 (Platelet-Rich Fibrin, PRF)). 이질성으로 단일 1순위 치료 선정 불가 — 가용성·장단점으로 선택.
+No single best treatment can be designated — first-line management is intra-alveolar irrigation, with adjunct selection based on availability and patient factors; prevention (chlorhexidine) and treatment decisions should be made separately.
+
+## 세줄요약
+
+체계적 문헌고찰(임상시험 17편, 건성 발치와(Alveolar Osteitis, AO) 치료 39개): 통증조절 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통) 명시 후 평가.
+
+39개 치료 중 53.8%만 기준 충족; 성공 옵션은 기본(발치와 내 세척) + 특정(Alveogyl·Neocones·SaliCept Patch·저출력 레이저(LLLT)·혈소판농축섬유소(PRF)); 이질성으로 단일 1순위 불가.
+
+건성 발치와 1차 처치는 발치와 세척; 이후 보조 처치는 가용성·장단점으로 선택 — 예방(클로르헥시딘)과 치료 의사결정은 별도로 이루어져야 함.
 
 ## Summary
 

@@ -17,13 +17,23 @@ text_filename: stervik-2024-radiation-exposure-during-orthodontic-treatment.txt
 
 Supplies a **second independent background-day data point** for the [[overviews/dental-imaging-effective-dose-background-equivalent-overview]]: a *full orthodontic imaging course* (≈1 panoramic + 1 lateral cephalogram + ~3 intraoral periapicals, ≈7 radiographs/patient over the whole treatment) is quantified as "5–10 days of natural background radiation" (against a Swedish 1–2 mSv/year baseline). This corroborates the overview's background-equivalent framing in a pediatric/orthodontic context and adds lateral-cephalogram dose data the overview otherwise lacked.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective record review (n=1,790 Swedish children/adolescents, two clinics) — a complete orthodontic imaging course (≈7 radiographs: 1 panoramic + 1 lateral ceph + ~3 intraorals) equals about 5–10 days of natural background radiation, with an estimated fatal-cancer risk well under 1 per 100,000.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 의무기록 분석 (스웨덴 아동·청소년 1,790명, 2개 클리닉) — 교정치료 전 과정의 방사선 촬영(환자당 약 7장: 파노라마 1 + 측방두부계측 1 + 치근단 약 3)은 자연 배경방사선 약 5–10일분에 해당하며, 추정 치명적 암 위험은 10만 명당 1명 미만으로 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

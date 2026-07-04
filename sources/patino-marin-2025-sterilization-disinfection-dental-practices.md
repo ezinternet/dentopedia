@@ -16,11 +16,21 @@ text_filename: patino-marin-2025-sterilization-disinfection-dental-practices.txt
 ## Why Ingested
 감염 관리 (Infection Control) 카테고리의 첫 번째 기초 논문. 치과 소독·멸균 방법 전반을 망라한 최신 서술 리뷰로, 개별 방법론(오토클레이브, 건열, EtO, H₂O₂, UV, 감마선, 오존)을 포함하는 전체 틀을 제공한다. [[infection-control/samaranayake-2024-dental-unit-waterlines-disinfection]] 및 [[infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr]]의 개별 토픽들을 연결하는 맥락을 형성한다.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review comprehensively covering sterilization and disinfection methods in dental practices — instrument washing, chemical/heat/radiation sterilization, biological indicator protocols, and sterile storage guidelines.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 치과 감염 관리를 위한 소독·멸균 방법 총론 서술 리뷰 — 세척, 화학·열·방사선 멸균, 생물학적 지시계, 보관 프로토콜을 포괄한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Cureus, Vol. 17, Issue 2, e79041

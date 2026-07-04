@@ -9,7 +9,7 @@ pdf_filename: feller-2015-periodontal-cytoskeleton-ecm-orthodontic.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 교정적 치아이동 관련 PDL 세포골격 및 세포외기질(ECM)의 생체역학적 역할 고찰.
 
 ## 1. Document Information

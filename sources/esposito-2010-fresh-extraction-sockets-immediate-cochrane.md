@@ -13,13 +13,23 @@ source_collection: external
 
 즉시식립(즉시·즉시지연·지연) 시기 비교에 대한 Cochrane 체계적 문헌고찰로, 현재 wiki에서 가장 상위 수준의 근거가 필요한 식립 시기 결정 문제를 다룬다. 기존 [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]]가 생물학적 기전을 설명하는 반면, 이 Cochrane SR+MA는 RCT 합성을 통해 임상 결과(생존율·합병증·심미) 비교 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Cochrane SR+MA of 7 RCTs (2010) found insufficient evidence to favor any implant placement timing (immediate, immediate-delayed, or delayed), with early placement potentially offering aesthetic benefits but higher complication risks.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 7개 RCT를 합성한 2010년 Cochrane 체계적 문헌고찰로, 즉시·즉시지연·지연 식립 중 어느 시기도 명확히 우월하지 않으며 조기 식립은 심미적 이점 가능성과 함께 합병증 위험이 높을 수 있음을 보고했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

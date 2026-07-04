@@ -17,13 +17,21 @@ text_filename: delgado-2025-thermoplastics-clear-aligners-review.txt
 
 The clear-aligner category holds clinical-outcome reviews (predictability, root resorption, biomechanics) but lacked a dedicated **material-science** anchor explaining *why* aligners behave as they do — the polymer chemistry (PETG vs hTPU vs multilayer vs 3D resin/SMP) underlying force delivery, comfort, staining, and biocompatibility. This review supplies that substrate. It directly extends [[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] (trimline geometry governs force, but material properties — yield point, stress relaxation, elastic range — set the force the trimline modulates) and contextualizes [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] (PETG wears bonded attachments far more than TPU; material choice drives attachment efficacy/wear).
 
-## One-line Summary
+## Three-line Summary
 
-Narrative material-science review of clear-aligner thermoplastics (PETG/PET, hTPU, EVA, PP, PC, multilayers, blends) plus emerging shape-memory polymers (SMP) and direct-3D-print resins, mapping optical, mechanical, stress-relaxation, thermal, and biocompatibility properties to inform material selection.
+Narrative material-science review (Polymers 2025; not PRISMA systematic) covering clear-aligner thermoplastics — PETG/PET (most common), hTPU, EVA, PP, PC, multilayer composites, blends — plus emerging shape-memory polymers (SMP) and direct-3D-print resins, across optical, mechanical, thermal, and biocompatibility domains.
 
-## 한줄요약
+Multilayer aligner force is 2–3× lower than PETG and 1.5–2× lower than hTPU; PETG drives larger root movements and higher attachment wear while hTPU provides a broader elastic range and more comfortable force; direct-print resins show extremely poor stress-relaxation retention (~10% vs PETG ~80%) and Tg ≈ 37°C making them clinically inefficient.
 
-투명교정 열가소성수지(PETG·hTPU·다층·블렌드)와 차세대 형상기억고분자(SMP)·직접 3D프린팅 레진의 광학·기계·응력완화·열·생체적합 특성을 재료선택 관점에서 정리한 서술적 종설 — hTPU는 탄성영역이 넓어 편안하고, PETG는 힘이 커 치근이동에 유리하며, 다층은 힘이 가장 부드럽고, 3D레진은 힘 유지가 거의 안 된다.
+No clinical evidence confirms TPU/EVA comfort superiority, no post-usage data exist for non-Invisalign thermoplastics, and a full life-cycle assessment of clear-aligner treatment is absent — material selection guidance relies mainly on in-vitro and model data.
+
+## 세줄요약
+
+서술적 재료과학 종설 (Polymers 2025; PRISMA 미적용) — 투명교정 열가소성수지(PETG·hTPU·EVA·PP·PC·다층 복합체·블렌드)와 차세대 형상기억고분자(Shape Memory Polymer, SMP)·직접 3D프린팅 레진의 광학·기계·열·생체적합 특성을 망라했다.
+
+다층 교정장치 힘은 PETG의 1/2~1/3, hTPU의 약 1/1.5~1/2; PETG는 치근이동이 크고 어태치먼트 마모가 심한 반면, hTPU는 탄성영역이 넓어 편안한 힘을 제공; 직접 3D프린팅 레진은 응력완화 보유율이 약 10%(PETG ~80%)로 극히 낮고 Tg ≈ 37°C여서 임상 효율이 낮다.
+
+TPU/EVA 편안함 우위의 임상 근거 없음, 비Invisalign 수지의 사용 후 데이터 없음, 투명교정 전체 수명주기 평가 부재 — 재료 선택 지침은 대부분 in-vitro·모델 데이터에 의존한다.
 
 ## 1. Document Information
 

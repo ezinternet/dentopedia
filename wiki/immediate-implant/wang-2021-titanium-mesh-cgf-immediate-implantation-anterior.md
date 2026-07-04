@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Short-term retrospective clinical evaluation: titanium mesh combined with concentrated growth factor (CGF) membranes for guided bone regeneration (GBR) at immediate implant placement in the anterior maxilla achieved acceptable buccal bone reconstruction and contour preservation, with mesh exposure in a subset of cases as the key limitation.
+## Three-line Summary
 
-## 한줄요약
-상악 전치 즉시식립 + GBR에 Ti mesh + CGF 멤브레인 단기 평가: 협측 골 재형성과 연조직 윤곽 유지에 유리한 옵션, 단 mesh 노출 관리가 핵심 limitation.
+Short-term retrospective clinical evaluation of titanium mesh combined with concentrated growth factor (CGF) membranes for GBR at immediate implant placement in the anterior maxilla.
+
+Acceptable buccal bone reconstruction and gingival contour preservation were achieved, though titanium mesh exposure occurred in a subset of cases as the primary complication.
+
+Short follow-up, non-comparative design, and operator-dependent CGF preparation limit generalizability; controlled prospective data are needed.
+
+## 세줄요약
+
+상악 전치 즉시식립 시 GBR에 Ti mesh + 농축성장인자(Concentrated Growth Factor, CGF) 막을 사용한 단기 후향적 임상 평가.
+
+협측 골 재형성과 치은 윤곽 보존은 전반적으로 수용 가능했으나 일부 증례에서 mesh 노출이 발생함.
+
+단기 추적·비교군 없음·CGF 술자 의존성이 일반화의 한계이며 전향적 대조 연구가 필요함.
 
 ## Summary
 Short-term clinical evaluation of titanium mesh combined with CGF (Concentrated Growth Factor) membranes for GBR at immediate implant placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.

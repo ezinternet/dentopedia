@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, sr+ma, isq, bic, bafo, human, animal, mixed-evidence]
 ---
 
-## One-line Summary
-SR+MA (11 studies, human + animal) of osseodensification (OD) vs conventional drilling: OD raised human ISQ at baseline by a median difference of 8.57 (clinically meaningful) but the gap shrank to a non-significant 4.49 at the secondary-stability follow-up; animal models showed large effects (insertion torque MD 46.79, BIC MD 2.17, BAFO MD 2.11), with overall low-to-moderate certainty of evidence.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 11편 (인체 + 동물, 8개 데이터베이스, 2021년 8월까지) — 골밀도화 (Osseodensification, OD)가 인체 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 초기값을 중앙값 차이 8.57로 상승시켰으나 2차 안정성 시점에서는 4.49로 유의차 없음; 동물 모델에서는 삽입 토크 (Insertion Torque) MD 46.79, 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) MD 2.17, 골면적분율 (Bone Area Fraction Occupancy, BAFO) MD 2.11로 모두 양의 방향. 임상 적용 한계: 인체 연구 4편으로 근거 (Certainty of Evidence)는 낮음~중간 (GRADE)이며, 2차 안정성에서는 차이가 사라지므로 OD의 임상 이득은 주로 초기 단계에 한정.
+SR+MA (8 databases, 11 studies — 4 human, 7 animal — through August 2021) comparing osseodensification (OD) versus conventional drilling on biomechanical and histomorphometric outcomes.
+
+OD raised human ISQ at baseline by a clinically meaningful median difference of 8.57, but this gap shrank to a non-significant 4.49 at secondary-stability follow-up; animal models showed large effects — insertion torque MD 46.79 N·cm, BIC MD 2.17, BAFO MD 2.11.
+
+OD's clinical advantage appears concentrated in the primary-stability window and is relevant for immediate loading and low-density sites; certainty of evidence is low to moderate (only 4 human studies), and the secondary-stability equivalence means biology equalizes the early mechanical advantage by functional loading.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 (SR+MA, 8개 데이터베이스, 11편 — 인체 4편·동물 7편, 2021년 8월까지): 골밀도화 (Osseodensification, OD) vs 통상 drilling의 생역학·조직형태계측 비교.
+
+OD가 인체 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 기저치를 중앙값 차이 8.57로 상승(임상적으로 유의미); 그러나 2차 안정성 시점에서는 4.49로 통계적 유의차 없음; 동물 모델에서는 삽입 토크 (Insertion Torque) MD 46.79 N·cm, 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) MD 2.17, 골면적분율 (Bone Area Fraction Occupancy, BAFO) MD 2.11로 일관되게 OD 우위.
+
+OD 임상 이득은 초기 안정성 단계에 집중 — 즉시 로딩 및 저밀도 골에서 활용 근거; 인체 연구 4편으로 근거 수준 (Certainty of Evidence, GRADE) 낮음~중간; 2차 안정성에서 차이 소실 → 생물학적 골개조가 초기 역학적 이득을 상쇄.
 
 ## Summary
 Lima Monteiro and colleagues (2024, Quintessence International) published the broadest osseodensification (OD) systematic review and meta-analysis to date, searching eight databases through August 2021 and structuring the analysis in two parallel arms: human ISQ outcomes (4 studies) and animal histomorphometric outcomes (7 studies). Across 11 included studies, OD favoured the experimental arm on every outcome examined, but the strength of evidence varies meaningfully across timepoints and species.

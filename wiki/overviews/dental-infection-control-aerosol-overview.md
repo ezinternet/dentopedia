@@ -28,13 +28,21 @@ tags: [infection-control, sterilization, disinfection, dental-unit-waterlines, d
 > - **AGP 합의(Ghoneim 2024, consensus, 초록만)**: 보안경+마스크+안면보호대 병용 PPE, HVE±구내흡인·타액흡인기·러버댐, 적절한 환기·여과 권고. 구강세척제는 **세균** 오염은 줄이나 **SARS-CoV-2엔 효과 제한적**. 정량 효과크기는 초록에 미보고.
 > - **임상 결론**: 세 전선은 각각 다른 프로토콜이 필요하며 어느 하나도 대체 불가 — BI로 검증된 멸균, 다중 DUWL 소독으로 ≤500 CFU/mL(가능하면 더 낮게) 유지, 러버댐+HVE+술전가글+환기+PPE로 에어로졸 노출 저감이 통합 체크리스트다. 근거 강도: 멸균/DUWL/bioaerosol은 narrative-review, 전해수는 SR(고 RoB), AGP 완화는 consensus(초록만).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 held papers framing dental infection control as three biologically distinct fronts — instrument/surface sterilization & disinfection (Spaulding classification, biological-indicator verification, human error as the dominant failure mode), dental-unit-waterline (DUWL) biofilm contamination (feed <100 CFU/mL → output up to 10⁶ CFU/mL; CDC ≤500 CFU/mL target requiring multi-modal engineering + procedural + chemical + automated control, with electrolyzed water as an emerging biocide), and aerosol-generating-procedure (AGP) bioaerosol dispersion (air turbine ~1000× the CFU of quiet breathing; the <5 µm airborne cut-off is invalid; a reduce-production → reduce-load → capture/remove → ventilation + PPE hierarchy lowers exposure) — no single measure suffices on any front.
+Synthesis of 5 papers framing dental infection control as three biologically distinct fronts: (1) instrument/surface sterilization — Spaulding classification governs processing level (noncritical → low-level, semicritical → high-level, critical → sterilization); biological indicators are the only globally accepted verification method; human error (inadequate training, maintenance) is the dominant sterilization failure mode (Patiño-Marín 2025).
 
-## 한줄요약
+(2) DUWL biofilm — feed water <100 CFU/mL amplifies to 100,000–1,000,000 CFU/mL at the handpiece exit via biofilm shedding; CDC target ≤500 CFU/mL; Legionella (12%) and Pseudomonas aeruginosa (8%) dominate; 23% of US dental staff are Legionella IgG seropositive vs 8% community baseline; control requires tiered engineering + procedural flushing + chemical biocides + automated systems (Samaranayake 2024); electrolyzed water achieves up to 98.1% DUWL kill (SR, 63 studies, Cárdenas 2022 — directionally consistent but high risk of bias).
 
-치과 감염관리를 기기·표면 멸균/소독, DUWL 바이오필름 오염, AGP 에어로졸 확산의 세 전선으로 종합한 5편 기반 오버뷰 — 멸균은 Spaulding 분류·BI 검증·인적오류가 핵심이고, DUWL은 급수 <100→출수 최대 10⁶ CFU/mL로 다중 소독이 필요하며(전해수 신흥 대안), 에어로졸은 에어터빈이 호흡의 ~1000배 세균을 내고 <5 µm 통념이 틀렸으며 생성감소→부하감소→포집→환기+PPE 계층으로 통제한다. 어느 전선도 단일 방법으로 불충분.
+Clinical bottom line: (3) AGP aerosol — air turbine disperses ~1000× the bacterial CFU of quiet breathing; the <5 µm "airborne" dichotomy is invalid (particles up to 100 µm stay suspended >2 m); dental-team seroprevalence (~16%) far exceeds general population (~6%); mitigation hierarchy is: reduce production (electric micromotor < air turbine) → reduce microbial load (rubber dam −70–99%, pre-procedural rinse −33–94%) → capture/remove (HVE −80–90%) → ventilate (~10 ACH) + PPE (Allison 2024).
+
+## 세줄요약
+
+5편 종합: (1) 멸균/소독 — Spaulding 분류(비critical→저수준, semicritical→고수준, critical→멸균); 생물학적 지시계(BI)가 유일 공인 검증 방법; 인적 오류가 멸균 실패 1위 원인(Patiño-Marín 2025).
+
+(2) DUWL 바이오필름 — 급수 <100 CFU/mL → 핸드피스 출수 최대 10⁶ CFU/mL; CDC 목표 ≤500 CFU/mL; *Legionella* 12%·*Pseudomonas* 8% 주요 병원체; 미국 치과직원 23%가 *Legionella* IgG 양성(지역사회 8% 대비); 다중 제어(공학적+절차적 flushing+화학적+자동화) 필수; 전해수는 DUWL 최대 98.1% 살균 신흥 대안(Cárdenas 2022 SR, 고 비뚤림).
+
+임상 결론: (3) AGP 에어로졸 — 에어터빈이 조용한 호흡의 ~1000배 세균 분산; <5µm 이분법 틀림(최대 100µm 부유·>2m 이동); 치과팀 혈청양성 ~16% vs 일반인 6%; 완화 계층: 생성감소(전동<에어터빈) → 부하감소(러버댐·술전가글) → 포집(HVE −80~90%) → 환기(~10 ACH)+PPE(Allison 2024).
 
 ## Summary
 

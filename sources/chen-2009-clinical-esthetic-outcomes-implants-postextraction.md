@@ -10,10 +10,19 @@ pdf_filename: chen-2009-clinical-esthetic-outcomes-implants-postextraction.pdf
 source_collection: external
 ---
 
-## One-line Summary
-ITI 4차 컨센서스 논문(91개 연구): 즉시식립(Type 1)·조기식립(Type 2/3) 모두 생존율 >95%; 단, Type 1에서 순측 점막 퇴축 빈번 — 얇은 생물형·순측 임플란트 위치·순측골벽 손상이 주요 위험인자.
+## Three-line Summary
+Systematic review (ITI 4th Consensus Conference, 91 studies) evaluating clinical and esthetic outcomes of implants placed in postextraction sites, establishing the Type 1–4 placement timing classification.
 
-## 1. Document Information
+All placement types (Type 1 immediate through Type 4 late) achieved survival rates >95%; Type 1 (immediate) was associated with frequent midfacial mucosal recession (average 0.5–1 mm); the three key risk factors were thin tissue biotype, facial implant malposition, and thin/damaged facial bone wall.
+
+Immediate (Type 1) placement requires strict patient selection (thick biotype, intact facial wall); early placement (Type 2/3) reduces esthetic risk and simplifies GBR space maintenance, and should be preferred when risk factors are present.
+
+## 세줄요약
+발치와 임플란트의 임상·심미 결과를 분석한 SR(ITI 4차 컨센서스, 91편)로, Type 1–4 식립 시기 분류를 확립.
+
+모든 식립 유형(Type 1 즉시 ~ Type 4 지연) 생존율 >95%; Type 1(즉시)에서 순측 점막 퇴축 빈번(평균 0.5–1 mm); 위험인자는 얇은 생물형·순측 오식립·얇거나 손상된 순측골벽.
+
+Type 1 식립은 엄격한 환자 선택(후벽 생물형·온전한 순측골)이 필수; 위험인자 존재 시 Type 2/3(조기 식립)이 심미 위험 감소 및 GBR 공간 유지에 유리.
 - **Journal**: Int J Oral Maxillofac Implants 2009;24(Suppl):186-217
 - **Institution**: University of Melbourne (Chen) / University of Bern (Buser)
 - **Type**: 체계적 문헌고찰 (ITI 4차 컨센서스 컨퍼런스, Stuttgart 2008)

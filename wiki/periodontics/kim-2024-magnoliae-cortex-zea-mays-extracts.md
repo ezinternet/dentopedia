@@ -14,11 +14,21 @@ source_collection: external
 tags: [periodontitis, host-modulation, magnoliae-cortex, honokiol, magnolol, zea-mays, insadol, canine-model, animal-rct, tnf-alpha, korean-veterinary]
 ---
 
-## One-line Summary
-Beagle dog model (10 dogs, MZ 5 vs placebo 5, 8-week study): oral Magnoliae Cortex 40 mg + Zea mays L. 20 mg daily significantly improved GI, PPD, CAL, and BoP vs placebo; tissue TNF-α expression significantly reduced; CBC and serum chemistry normal — confirms in vivo anti-inflammatory effect of the Korean herbal gingival supplement combination (Insadol class).
+## Three-line Summary
 
-## 한줄요약
-비글견 10마리(MZ 5 vs 위약 5) 8주 모델: Magnoliae cortex 40 mg + Zea mays L. 20 mg 경구 투여가 GI, PPD, CAL, BoP를 위약 대비 유의 개선; tissue TNF-α 발현 유의 감소; CBC·serum chemistry 정상 — Insadol 계열 한방 잇몸약의 in vivo 항염효과 확인.
+Randomized animal experiment (10 beagle dogs, MZ n=5 vs placebo n=5; 8-week ligature-induced periodontitis model): oral Magnoliae Cortex 40 mg + Zea mays L. 20 mg daily vs vehicle capsule.
+
+MZ significantly improved GI (p<0.05 at 4 & 8 wk), PPD and CAL (p<0.05 at 8 wk), and BoP (p<0.05 at 4 wk) vs placebo; tissue TNF-α expression significantly reduced; CBC and serum chemistry remained normal throughout.
+
+Provides in vivo confirmation of the Kim 2018 in vitro mechanism, but the n=5/group artificial model, and the fact that the combination does not match current Insadol formulation, limits direct extrapolation to human clinical use.
+
+## 세줄요약
+
+무작위 동물 실험(비글견 10마리, MZ n=5 vs 위약 n=5; 8주 결찰 유도 치주염 모델): Magnoliae Cortex 40 mg + Zea mays L. 20 mg 경구 투여 대 위약 캡슐.
+
+MZ군에서 GI(4·8주 p<0.05), PPD·CAL(8주 p<0.05), BoP(4주 p<0.05) 유의 개선; 조직 TNF-α 발현 유의 감소; CBC·혈청 화학 검사 정상 유지.
+
+Kim 2018 in vitro 기전의 in vivo 확인 근거이나, 군당 n=5·인공 결찰 모델이라는 한계와 현재 인사돌 처방 조성과 다른 점(Magnoliae Cortex 비포함)으로 인체 임상 효능으로의 직접 외삽은 제한적이다.
 
 ## Summary
 This Inje University–led veterinary RCT in 10 beagle dogs with ligature-induced periodontitis tested oral combined Magnoliae cortex extract (40 mg/day) + Zea mays L. extract (20 mg/day) over 2 months. The MZ group showed significantly better gingival index, pocket depth (PPD), clinical attachment loss (CAL), and bleeding on probing (BoP) than vehicle controls at 4 and/or 8 weeks post-medication. Tissue TNF-α expression was significantly reduced in MZ animals; IL-1β, IL-6, IL-17, and IL-8 trended lower. CD4+ T cell percentage was higher and CD8+ percentage lower in the MZ group. CBC and serum chemistry remained within reference ranges throughout, supporting short-term safety. This is the in vivo confirmation of the [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate|in vitro mechanism]] established earlier by the SNU periodontology group.

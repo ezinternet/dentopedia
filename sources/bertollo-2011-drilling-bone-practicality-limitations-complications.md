@@ -13,8 +13,21 @@ source_collection: external
 
 임플란트 골삭제(Osteotomy)에서 열괴사(Thermal Necrosis) 역치(47 °C/1 min, 50 °C/30 s, 56 °C)와 드릴 기하·이송속도·관주의 상호작용을 정량화한 공학 근거. 비절삭(골밀도화, Osseodensification) 접근의 합리적 근거를 제공해, 구강외과·골삭제 의사결정 종합의 기초 물리를 채운다. See [[overviews/oral-surgery-decision-ladder]].
 
-## One-line Summary
-Orthopaedic-engineering book chapter (Biomechanics in Applications, InTech 2011) reviewing the mechanics of bone drilling — heat generation, drill-bit geometry, feed-rate, irrigation — with thermal-necrosis thresholds (47 °C/1 min, 50 °C/30 s, 56 °C) directly transferable to implant osteotomy.
+## Three-line Summary
+
+Orthopaedic-engineering narrative review (InTech 2011) synthesizing 30+ years of bone-drilling biomechanics literature on heat generation, drill-bit geometry, feed-rate, and irrigation across orthopaedics, neurosurgery, craniomaxillofacial, and ENT applications.
+
+Established thermal-necrosis thresholds: 47 °C × 1 min reduces regenerative capacity, 50 °C × 30 s causes cellular necrosis, 56 °C causes osteonecrosis; without coolant, k-wire and cortical drilling routinely exceed 100 °C; principal heat determinants are geometry, diameter, rpm, feed-rate, and irrigation.
+
+Key limitation for dentistry: orthopaedic/engineering focus; direct translation to 2–6 mm dental drill diameters and slow-speed (50–1500 rpm) implant protocols requires interpretation; predates osseodensification.
+
+## 세줄요약
+
+정형외과 공학 서술 고찰(InTech 2011) — 30년 이상의 골 삭제 생체역학 문헌(정형외과·신경외과·두개악안면·이비인후과)을 열 발생, 드릴 형상, 이송 속도, 관주 측면에서 종합.
+
+열괴사(Thermal Necrosis) 역치: 47 °C×1분 → 재생 능력 감소, 50 °C×30초 → 세포 괴사, 56 °C → 골괴사; 냉각 없는 상태에서 K-와이어·피질골 삭제 시 100 °C 초과; 주요 열 결정 인자는 형상·직경·rpm·이송속도·관주.
+
+치의학 적용의 핵심 한계: 정형외과 공학 초점으로 2–6 mm 임플란트 드릴·저속(50–1,500 rpm) 프로토콜 직접 적용 시 해석 필요; 골밀도화(Osseodensification, OD) 이전 발표.
 
 ## 1. Document Information
 - **Type**: Book chapter / narrative review (engineering biomechanics, not dental-specific)

@@ -9,7 +9,7 @@ pdf_filename: xin-2020-advanced-platelet-rich-fibrin-schneiderian.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Animal experimental study (n=24, randomised 1:1) comparing advanced platelet-rich fibrin (A-PRF) vs absorbable collagen membrane (CM) to repair an intentionally perforated Schneiderian membrane during simultaneous bone grafting (DBBM) in a maxillary sinus elevation model: A-PRF yielded an intact membrane at 1 week, fewer inflammatory cells, and significantly greater new osteoid area at both 1 and 4 weeks (p<0.0001).
 
 ## 1. Document Information

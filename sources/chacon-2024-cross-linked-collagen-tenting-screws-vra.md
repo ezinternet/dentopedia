@@ -15,13 +15,21 @@ full_text: false
 
 Ti mesh 대안 탐색의 핵심 논문. **가교화 콜라겐막 + 텐팅 스크류(tenting screws)** 조합으로 수직골증대 6.2 mm를 달성 — Ti mesh 없이도 공간 유지 가능함을 Wang HL 그룹이 심미 구역에서 증명. [[wiki/implants/vertical-ridge-augmentation/sabri-2024-titanium-mesh-bone-augmentation-sr-ma]] Ti mesh 풀드 3.36 mm보다 높은 수직골증대를 보여 XL 콜라겐+텐팅 접근법의 임상적 경쟁력을 시사.
 
-## One-line Summary
+## Three-line Summary
 
-Case series (n=10, esthetic zone): Cross-linked collagen membrane + tenting screws for VRA → mean VBG 6.2 ± 1.61 mm (80% defect resolution); low complication rate; eliminates need for Ti mesh.
+Case series (n=10 patients, 5M/5F, esthetic zone; Wang HL group, University of Michigan/Loma Linda; mean 9.3 months healing before re-entry; abstract-only) using cross-linked collagen membrane draped over tenting osteosynthesis mini-screws — no titanium mesh — for vertical ridge augmentation (VRA).
 
-## 한줄요약
+Mean vertical bone gain (VBG) was 6.2 ± 1.61 mm with 80% defect resolution, the highest reported in a resorbable-membrane VRA case series — exceeding the pooled 3.36 mm from Ti mesh SR+MA; complication rate was low and the resorbable membrane eliminated the need for a second surgery to remove Ti mesh.
 
-증례시리즈 (n=10, 심미 구역): 가교화 콜라겐막 + 텐팅 스크류 수직골증대 → 평균 수직 6.2 ± 1.61 mm(결손 해소율 80%); 합병증 낮음; Ti 메쉬 불필요.
+Evidence level is low (case series, n=10, abstract-only, no control group, esthetic zone only); the technique cannot be generalized to large posterior defects without further validation.
+
+## 세줄요약
+
+증례시리즈(n=10명, 심미구역; Wang HL 그룹, 미시간대/로마린다대; 평균 재진입 전 치유 9.3개월; 초록 기반): 흡수성 가교화(Cross-Linked, XL) 콜라겐막을 텐팅 오스테오신테시스 미니스크류 위에 씌워 티타늄 메쉬(Ti Mesh) 없이 수직골증대(Vertical Ridge Augmentation, VRA) 시행.
+
+평균 수직골획득량(Vertical Bone Gain, VBG) 6.2 ± 1.61 mm·결손 해소율 80% — 흡수성 막 VRA 증례시리즈 중 최고치이며 Ti mesh SR+MA 풀드값 3.36 mm 초과; 합병증 낮고, 흡수성 막으로 Ti mesh 제거 2차 수술 불필요.
+
+증례시리즈(n=10)·초록 기반·비교군 없는 낮은 근거수준; 심미구역 특정, 후방 대형 결손 일반화는 추가 검증 필요.
 
 ## 1. Document Information
 

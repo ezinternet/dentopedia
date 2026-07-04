@@ -18,11 +18,19 @@ relations:
     target: meereis-2018-polymerization-shrinkage-stress-resin-sr-ma
 ---
 
-## One-line Summary
-In-vitro bench study of ultra-rapid (3 s, ~3000-3200 mW/cm²) bulk-fill composites (PFill with an AFCT agent, PFlow) finding ultra-high irradiance over ultra-short periods slightly lowers shrinkage strain but slightly raises stress (reduced network mobility), while the AFCT agent in PFill measurably lowers shrinkage stress even under high-irradiance curing.
+## Three-line Summary
+In-vitro bench study (Dental Materials 2021) measuring polymerization shrinkage (%) and shrinkage stress (MPa) of ultra-rapid-cure bulk-fill composites (PFill with AFCT agent, PFlow) under 3-second high-irradiance protocols (~3000–3200 mW/cm²) vs. standard 10-second curing (1200 mW/cm²).
 
-## 한줄요약
-In-vitro (초고속 3초·~3000 mW/cm² 벌크필 PFill/PFlow vs 비교군): 초단시간 고조사는 수축 strain은 약간 낮추나 stress는 약간 높임(network mobility 감소); PFill의 AFCT 첨가제는 고조사에서도 수축응력을 유의하게 낮춤.
+Ultra-high irradiance over 3 seconds slightly reduced shrinkage strain but slightly increased shrinkage stress (reduced network mobility limiting stress-relaxation via flow); PFill consistently showed lower shrinkage and stress than ECeram regardless of curing protocol, attributed to its AFCT chemistry.
+
+AFCT chemistry is an effective shrinkage-stress-reduction strategy that remains active even under high-irradiance ultra-rapid curing, validating the approach for 3-second clinical protocols.
+
+## 세줄요약
+3초 초고속 광중합(~3000–3200 mW/cm²) 및 표준 10초(1200 mW/cm²) 프로토콜 하에서 벌크필 복합레진(PFill·AFCT 함유, PFlow)의 중합수축(%)+수축응력(MPa)을 측정한 in-vitro 연구(Dental Materials 2021).
+
+3초 고조사는 수축 strain 소폭 감소 vs 수축응력 소폭 증가(network mobility 감소로 응력완화 제한); PFill은 프로토콜과 무관하게 ECeram 대비 수축·응력 모두 낮음 — AFCT 화학 구조 덕분.
+
+AFCT 첨가제는 초고속 광중합에서도 수축응력 저감 효과 유지 — 3초 임상 프로토콜 타당성 지지.
 
 ## Summary
 This Dental Materials (2021) study from the Manchester group examined "ultra-rapid photo-polymerized bulk fill" (URPBF) composites — materials marketed for 3-second high-irradiance curing — measuring polymerization shrinkage (%) and shrinkage stress (MPa). The tested URPBF materials were PFill (which contains an addition-fragmentation chain transfer, AFCT, agent) and PFlow, compared with ECeram and EFlow under two 3 s high-irradiance protocols (3000 and 3200 mW/cm²) and one 10 s standard protocol (1200 mW/cm²). Two findings matter clinically: (1) ultra-high irradiance over ultra-short periods slightly reduces shrinkage strain but slightly increases stress, attributed to reduced network mobility that limits flow-based stress relaxation; and (2) the AFCT agent in PFill is an effective stress-reducing chemistry that works even when curing fast and hard.

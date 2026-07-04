@@ -9,7 +9,7 @@ pdf_filename: pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Comparative pilot study evaluating esthetic outcomes of immediate implant placement with immediate provisionalization in maxillary anterior sites with vs without buccal dehiscence.
 
 ## 1. Document Information

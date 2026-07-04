@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA (22 publications: 15 RCTs + 7 prospective controlled cohort studies; meta-analysis of 13 RCTs) showing that platform switching (PS) significantly reduces marginal bone loss versus platform matching (PM): MBL 0.49 mm vs 1.01 mm (p<0.0001), though most studies had unclear/high risk of bias.
+## Three-line Summary
 
-## 한줄요약
-SR+MA(22편: 15 RCT + 7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭이 변연골 소실 유의하게 감소; 이질성으로 신중한 해석 필요
+SR+MA (22 publications: 15 RCTs + 7 prospective controlled cohort studies; meta-analysis of 13 RCTs; PubMed/Web of Science/Embase, 2005–June 2013) comparing platform switching (PS) vs platform matching (PM) on marginal peri-implant bone levels.
+
+Platform switching significantly reduced marginal bone loss versus platform matching: weighted mean MBL 0.49 mm (95% CI 0.38–0.60) for PS vs 1.01 mm (95% CI 0.62–1.40) for PM (p<0.0001); 13/15 RCTs and 3/7 PCCS qualitatively favored PS.
+
+Platform switching is supported as a bone-preserving strategy, but most included studies had unclear or high risk of bias and short follow-up periods, warranting cautious interpretation of the magnitude of benefit.
+
+## 세줄요약
+
+SR+MA (22편: RCT 15 + 전향적 대조 코호트 7; 메타분석 13 RCT; PubMed/Web of Science/Embase, 2005–2013년 6월) — 플랫폼 스위칭 (Platform Switching, PS) vs 플랫폼 매칭 (Platform Matching, PM)의 변연골 수준 비교.
+
+PS가 PM 대비 변연골소실을 유의하게 감소: 가중 평균 MBL PS 0.49 mm (95% CI 0.38–0.60) vs PM 1.01 mm (95% CI 0.62–1.40), p<0.0001; RCT 15편 중 13편이 질적으로 PS 지지.
+
+PS는 골보존 전략으로 지지되나, 대부분 연구에서 비뚤림 위험 불명확/높고 추적기간 짧아 효과 크기 해석 시 주의 필요.
 
 ## Summary
 SR+MA (22 publications: 15 RCTs + 7 prospective controlled cohort studies) examining impact of platform switching on marginal bone levels. Meta-analysis of 13 RCTs: PS MBL 0.49 mm (CI 0.38–0.60) vs PM MBL 1.01 mm (CI 0.62–1.40), p<0.0001. Clear tendency favouring PS technique despite heterogeneity and unclear/high risk of bias in most included studies.

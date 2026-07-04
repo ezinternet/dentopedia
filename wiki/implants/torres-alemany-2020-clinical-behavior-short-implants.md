@@ -13,13 +13,21 @@ source_collection: external
 tags: [short-implant, crown-implant-ratio, survival, marginal-bone-loss]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (15 studies qualitative, 14 quantitative) finding short implants (≤8 mm) show no significant influence of length, diameter, or crown-to-implant ratio on implant loss or peri-implant bone loss.
+PRISMA SR+MA (PROSPERO CRD42020191093; PubMed/Embase/Cochrane/Scopus/Web of Science; 15 studies qualitative, 14 quantitative) evaluating whether implant length, diameter, and crown-to-implant (C/I) ratio predict outcomes in short implants (≤8 mm) vs longer controls in posterior partially/totally edentulous sites.
 
-## 한줄요약
+None of the three parameters — length (p=0.06), diameter (p=0.10), C/I ratio (p=0.9) — showed a significant association with implant loss or peri-implant bone loss on quantitative meta-analysis; the length trend (p=0.06) was borderline.
 
-체계적 고찰 15편(정량 14편) 메타분석. 짧은 임플란트(≤8mm)에서 길이·직경·크라운-임플란트비(C/I ratio)는 임플란트 상실·주위 골소실에 유의한 영향이 없었다 — C/I ratio 우려 완화.
+Short implants with a high C/I ratio (>1:1) are not significantly at higher risk of loss or bone loss, supporting their use as an alternative to bone grafting in reduced-height sites; borderline length trend and quality caveats warrant continued monitoring.
+
+## 세줄요약
+
+PRISMA SR+MA (PROSPERO CRD42020191093; PubMed/Embase/Cochrane 등; 정성 15편/정량 14편) — 후방부 짧은 임플란트(≤8 mm)에서 길이·직경·크라운-임플란트비 (Crown-to-Implant ratio, C/I)가 예후에 미치는 영향 평가.
+
+임플란트 상실 및 주위 골소실에 대해 길이(p=0.06)·직경(p=0.10)·C/I비(p=0.9) 모두 유의한 관련 없음; 길이 경향(p=0.06)은 경계선.
+
+C/I비 >1:1인 짧은 임플란트가 상실·골소실 위험 유의하게 높지 않아 저신장 부위에서 골이식 대안으로 지지; 경계선 길이 경향 및 방법론적 제한 고려 필요.
 
 ## Summary
 

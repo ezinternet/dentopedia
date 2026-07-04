@@ -17,13 +17,23 @@ text_filename: lopez-valverde-2025-bone-expansion-compaction-densification-narro
 
 The narrow (horizontally atrophic) alveolar crest is the exact "narrow ridge" scenario where bone expansion / compaction / osteodensification (osteotomes, threaded expanders, osseodensification drills) are deployed instead of staged GBR. This SR+MA (10 studies, 241 subjects) quantifies, in one place, how those techniques move the three decision-relevant numbers — bone density (BD, HU), crestal expansion (CE, mm), and implant stability quotient (ISQ) — and exposes where the evidence is fragile (high heterogeneity + publication bias for CE/ISQ). It reinforces and consolidates several single-technique pages we already hold: [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] (reverse-drilling expansion), [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] (OD vs osteotome expansion), [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] (one of the 10 included studies), and [[implants/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] (OD stability SR+MA). It also extends the ridge-split origin pages [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] and [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] by setting expansion/densification head-to-head against crestal splitting.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (10 studies, n=241; PROSPERO CRD42025646738) — bone expansion/compaction/osteodensification in narrow (<=2.5 mm horizontal-atrophy) alveolar crests significantly favors the experimental group for BD (SMD -0.71, p=0.002), CE (SMD -1.12, p=0.04 after sensitivity test), and ISQ (SMD -8.88, p=0.0005), but with high heterogeneity and publication bias for CE and ISQ.
 
-## 한줄요약
+SR+MA (10 studies, n=241;
 
-SR+MA (10편, n=241; PROSPERO 등록) — 좁은(수평위축 <=2.5 mm) 치조제에서 골확장·압축·골밀도화(Osseodensification)가 대조군 대비 골밀도(BD, SMD -0.71, p=0.002)·치조정확장(CE, SMD -1.12, p=0.04)·임플란트안정지수(ISQ, SMD -8.88, p=0.0005)를 유의하게 개선하나, CE·ISQ는 이질성과 출판편향이 높음.
+PROSPERO CRD42025646738) — bone expansion/compaction/osteodensification in narrow (<=2.5 mm horizontal-atrophy) alveolar crests significantly favors the experimental group for BD (SMD -0.71, p=0.002), CE (SMD -1.12, p=0.04 after sensitivity test), and ISQ (SMD -8.88, p=0.0005), but with high heterogeneity and publication bias for CE and ISQ.
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (10편, n=241;
+
+PROSPERO 등록) — 좁은(수평위축 <=2.5 mm) 치조제에서 골확장·압축·골밀도화(Osseodensification)가 대조군 대비 골밀도(BD, SMD -0.71, p=0.002)·치조정확장(CE, SMD -1.12, p=0.04)·임플란트안정지수(ISQ, SMD -8.88, p=0.0005)를 유의하게 개선하나, CE·ISQ는 이질성과 출판편향이 높음.
+
+(incomplete)
 
 ## 1. Document Information
 

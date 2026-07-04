@@ -15,13 +15,21 @@ full_text: false
 tags: [inter-implant-distance, IID, crestal-bone, spacing, papilla, 3mm-rule]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Radiographic study (n=36, 2 adjacent implants each): crestal bone loss 0.45 mm when IID >3 mm vs 1.04 mm when IID ≤3 mm; established the "3 mm inter-implant distance" guideline.
+Retrospective radiographic study (n=36 patients, each with 2 adjacent implants) measuring inter-implant crestal bone height loss as a function of inter-implant distance (IID).
 
-## 한줄요약
+Inter-implant crestal bone loss was 0.45 mm when IID >3 mm vs 1.04 mm when IID ≤3 mm; lateral bone loss measured ~1.4 mm per implant side, meaning two implants within 2.8 mm have overlapping resorption zones that destroy the crest.
 
-방사선 연구 (n=36, 인접 임플란트 2개): 치조정 골소실 0.45 mm (IID>3 mm) vs 1.04 mm (IID≤3 mm); 임플란트 간격 3 mm 최소 기준의 원조 논문.
+Maintain a minimum 3 mm inter-implant distance to protect crestal bone and interproximal papilla; note that modern internal-cone + platform-switched implants may tolerate narrower spacing based on subsequent studies.
+
+## 세줄요약
+
+방사선 후향 연구 (n=36, 인접 임플란트 2개씩) — 임플란트 간격(IID)에 따른 치조정 골소실 측정 연구.
+
+IID >3 mm 시 치조정 골소실 0.45 mm, IID ≤3 mm 시 1.04 mm; 임플란트 측방 골소실이 각 측 ~1.4 mm이므로 간격 2.8 mm 이하이면 두 소실 영역이 겹쳐 치조정이 파괴됨.
+
+최소 임플란트 간격 3 mm 준수로 치조정 골과 유두 보호; 단, 현대 내부원추+플랫폼스위칭 임플란트는 더 좁은 간격도 허용될 수 있음.
 
 ## Summary
 

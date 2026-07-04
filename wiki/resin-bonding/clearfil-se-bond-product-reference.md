@@ -23,11 +23,19 @@ relations:
     target: etiennot-2025-mdp-saliva-contaminated-dentin
 ---
 
-## One-line Summary
-Product reference for Kuraray Clearfil SE Bond / SE Bond 2, the 10-MDP 2-step self-etch adhesive that serves as the de facto gold-standard control in comparative bonding studies.
+## Three-line Summary
+Product reference (wiki synthesis) for Kuraray Clearfil SE Bond / SE Bond 2 — a 10-MDP 2-step self-etch adhesive for direct composite bonding to dentin and enamel, used as the de facto gold-standard SE control in virtually all comparative in vitro bonding studies.
 
-## 한줄요약
-Kuraray의 2-step self-etch(SE) 상아질·법랑질 접착제 Clearfil SE Bond / SE Bond 2 제품 reference. SE 카테고리의 사실상 gold-standard 대조군.
+In vitro durability studies (Tang 2024; Hurtado 2023) consistently place CSE Bond 2 among the highest-performing universal/SE adhesives after thermocycling and water aging; 10-MDP's phosphate-Ca ionic bond and self-assembled nanolayering underlie its hydrolytic stability.
+
+Selective enamel etching is recommended to compensate for SE's weaker uncut enamel bond; in vitro superiority does not uniformly transfer to all clinical applications (Xiong 2024 pediatric anterior data).
+
+## 세줄요약
+위키 합성 제품 레퍼런스 — Kuraray Clearfil SE Bond / SE Bond 2: 10-MDP 2단계 자가산부식(SE) 접착제, 직접 복합레진 수복 상아질·법랑질 접착에 사용, 사실상 모든 비교 in vitro 결합강도 연구의 SE 금표준 대조군.
+
+In vitro 내구성 연구(Tang 2024; Hurtado 2023)에서 thermocycling·수중 노화 후 최상위 성능 그룹에 일관되게 위치; 10-MDP 인산-Ca 이온결합과 자가조립 나노층이 가수분해 안정성의 기전.
+
+절단되지 않은 법랑질 결합 약화를 보완하기 위해 선택적 법랑질 산부식 권장; in vitro 우위가 모든 임상 적응증으로 그대로 이전되지는 않음(Xiong 2024 유치 전치부 데이터).
 
 ## 개요
 calcium silicate 기반·10-MDP 함유 2-step self-etch(SE) 상아질·법랑질 접착제. 별도 인산 산부식 없이 산성 primer가 smear layer를 포섭·탈회하면서 동시에 침투시키며, 기능성 단량체 10-MDP를 함유한다. [합의수준] Direct composite 수복의 접착 단계에 쓰이고, SE 카테고리의 사실상 gold-standard 대조군으로 거의 모든 비교 in vitro 연구에 reference로 등장한다. [claude해석] 원조 SE Bond와 개량형 SE Bond 2(안정성·발색 개선)가 있다. [미검증]

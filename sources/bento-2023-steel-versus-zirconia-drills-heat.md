@@ -9,8 +9,21 @@ pdf_filename: bento-2023-steel-versus-zirconia-drills-heat.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR + meta-analysis (Saudi Dental J 2024, 36:1–10; 10 in vitro studies): zirconia drills produce significantly lower bone temperature variation during implant site preparation than stainless-steel drills.
+## Three-line Summary
+
+SR + meta-analysis (PRISMA; Saudi Dental Journal 2024, 36:1–10; 10 in-vitro studies; inverse-variance pooling; JBI quality assessment) comparing zirconia vs stainless-steel drills for bone temperature generation during implant site preparation.
+
+Pooled estimate: zirconia drills produce significantly lower temperature variation than steel drills; direction of effect consistent across all 10 studies despite heterogeneity; no in-vivo or clinical-survival data available.
+
+Zirconia drills are thermally superior to steel drills during implant osteotomy in vitro, but long-term clinical evidence on drill durability, fracture toughness, and osseointegration outcomes is lacking before routine adoption.
+
+## 세줄요약
+
+SR + 메타분석(PRISMA; Saudi Dental J 2024;36:1–10; in-vitro 10편; 역분산 메타분석; JBI 질 평가) — 임플란트 식립 시 지르코니아 vs 스테인리스강 드릴의 골 온도 발생 비교.
+
+풀링 추정치: 지르코니아 드릴이 스테인리스강 대비 온도 변화를 유의하게 낮춤; 이질성 존재하나 10편 전 연구에서 효과 방향 일관; in-vivo 또는 임상 생존 데이터 없음.
+
+지르코니아 드릴은 in-vitro 임플란트 골절제 시 열 발생에서 강 드릴보다 우수하나, 드릴 내구성·파절 인성·골유착 결과에 대한 장기 임상 근거가 부족해 일상적 도입 전 추가 검증이 필요하다.
 
 ## 1. Document Information
 - Journal: The Saudi Dental Journal 2024;36:1–10

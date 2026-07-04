@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (n=42 maxillary molars, 6 groups) of CAD/CAM IPS e.max CAD lithium disilicate occlusal veneers: 1 mm + Monobond etch & prime achieved highest fracture load (1644.7 N); 0.5 mm veneers surpass posterior masticatory forces (400–800 N) with HF and Monobond surface treatments; Monobond etch & prime recommended over HF for biological safety.
+In vitro 2×3 factorial study (n=42 maxillary molars, 6 groups of n=7) testing thickness (0.5 mm vs 1 mm) and surface conditioning (HF acid, APF acid, Monobond etch & prime) on fracture resistance of CAD/CAM IPS e.max CAD occlusal veneers after artificial aging (75-day water storage + 240,000 cyclic loading cycles).
 
-## 한줄요약
+Both thickness (p<0.0001) and surface treatment (p=0.002) significantly affected fracture load; highest values: 1 mm + Monobond etch & prime (1644.7 N) and 0.5 mm + Monobond (1277.0 N) — all groups exceeded the posterior masticatory force range (400–800 N) except APF-0.5 mm (962 N) which is borderline for bruxists.
 
-In-vitro 연구 (n=42 대구치): CAD/CAM 리튬 디실리케이트 (Lithium Disilicate, LD) 교합면 비니어 두께(0.5 mm vs 1 mm) × 표면처리[불산 (Hydrofluoric Acid, HF), 인산불화물 (Acidulated Phosphate Fluoride, APF), 자가산화 프라이머 (Monobond etch & prime)] — 1 mm + Monobond etch & prime 최고 파절 하중 (Fracture Load) 1644.7 N; 0.5 mm도 교합력 수준(400–800 N) 상회; APF+0.5 mm군(962 N)은 이갈이 환자에 비권장; HF 생물학적 위험성 근거로 Monobond etch & prime 권장.
+Monobond etch & prime is recommended as the preferred surface treatment: it equals or exceeds HF fracture performance while eliminating HF's biological hazards, and APF-0.5 mm should be avoided in parafunctional patients due to Mode II (debonding) failure.
+
+## 세줄요약
+
+In vitro 2×3 요인 설계 연구 (n=42 대구치; 두께 0.5/1 mm × 표면처리 HF·APF·Monobond etch & prime): 인공 노화(75일 수중 보관 + 24만 회 하중) 후 CAD/CAM IPS e.max CAD 교합면 비니어 파절 하중 비교.
+
+두께(p<0.0001)·표면처리(p=0.002) 모두 유의: 최고값 1 mm + Monobond 1644.7 N, 0.5 mm + Monobond 1277.0 N — APF-0.5 mm군(962 N) 제외 모든 군이 구치부 교합력(400–800 N) 상회.
+
+Monobond etch & prime은 HF와 동등·우월한 파절 성능에 생물학적 위험성 없어 권장; APF-0.5 mm는 이갈이(Bruxism) 환자에서 Mode II (탈접, Debonding) 파절 패턴 확인 — 금기.
 
 ## Summary
 

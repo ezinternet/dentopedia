@@ -17,13 +17,23 @@ text_filename: sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sec
 
 미각상실·침분비저하 관련 논문을 COVID와 무관한 범주로 확장하던 중, 자가면역질환(Sjögren 증후군)을 병인으로 하는 미각·후각 기능이상을 직접 정량 측정한 대조군 연구를 발견. 기존 [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]]·[[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]]가 Sjögren의 치료 결과(임플란트·보철)를 다뤘다면, 본 cross-sectional study는 Sjögren 환자의 미각상실·미각이상(dysgeusia) 자체를 정량 측정하고 침분비저하와의 관계(약한 상관관계에 그침)를 직접 검증한 원자료를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Comparative cross-sectional study (58 primary Sjögren's syndrome patients vs. 55 age/gender-matched healthy controls) finding significantly higher rates of gustatory dysfunction (ageusia/hypogeusia for sweet 34%, bitter 19%, salty 10%, sour 11%), olfactory dysfunction (anosmia OR 5.2), dysgeusia (52.6% vs. 9.4%), and burning tongue sensation (45.6% vs. 0%), all associated with significantly worse oral health-related quality of life (OHIP-14), while halitosis rates did not differ between groups.
 
-## 한줄요약
+Comparative cross-sectional study (58 primary Sjögren's syndrome patients vs.
 
-대조군 비교 횡단연구(원발성 쇼그렌증후군 환자 58명 vs 연령·성별 매칭 건강대조군 55명) — 미각기능이상(단맛 34%·쓴맛 19%·짠맛 10%·신맛 11% 무미각/저미각), 후각기능이상(무후각 교차비 5.2), 미각이상 dysgeusia(52.6% vs 9.4%), 설작열감(45.6% vs 0%)이 유의하게 높고 모두 구강건강관련 삶의 질(OHIP-14) 저하와 연관; 구취는 두 군간 차이 없음.
+55 age/gender-matched healthy controls) finding significantly higher rates of gustatory dysfunction (ageusia/hypogeusia for sweet 34%, bitter 19%, salty 10%, sour 11%), olfactory dysfunction (anosmia OR 5.2), dysgeusia (52.6% vs.
+
+9.4%), and burning tongue sensation (45.6% vs. 0%), all associated with significantly worse oral health-related quality of life (OHIP-14), while halitosis rates did not differ between groups.
+
+## 세줄요약
+
+
+대조군 비교 횡단연구(원발성 쇼그렌증후군 환자 58명 vs 연령·성별 매칭 건강대조군 55명) — 미각기능이상(단맛 34%·쓴맛 19%·짠맛 10%·신맛 11% 무미각/저미각), 후각기능이상(무후각 교차비 5.2), 미각이상 dysgeusia(52.6% vs 9.4%), 설작열감(45.6% vs 0%)이 유의하게 높고 모두 구강건강관련 삶의 질(OHIP-14) 저하와 연관;
+
+구취는 두 군간 차이 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

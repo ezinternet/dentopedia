@@ -13,11 +13,21 @@ source_collection: external
 tags: [lateral-sinus-elevation, sinus-floor-defect, long-term-follow-up, collagen-membrane, peking-university]
 ---
 
-## One-line Summary
-Retrospective single-center cohort (35 patients / 36 sinuses, 1–9 year follow-up) of lateral sinus floor elevation (LSFE) with a membrane-first collagen seal in patients with pre-existing sinus floor defects achieved a 97.2% first-attempt completion rate, 27.8% Schneiderian membrane perforation rate, and implant cumulative survival of 96.5% through 7 years (dropping to 64.3% at 8 years with a small denominator), showing LSFE is predictable in defect-bearing sinuses when properly managed.
+## Three-line Summary
 
-## 한줄요약
-후향적 cohort (Retrospective, n=35 patients/36 sinuses, 1–9년 추적): 기존 상악동저 결손 (Sinus Floor Defect) 환자에서 측방 상악동 거상술 (Lateral Sinus Floor Elevation, LSFE) + 흡수성 콜라겐막 (Resorbable Collagen Membrane) 으로 결손 봉합 후 골이식 — 1차 완성률 97.2%, 슈나이더 막 (Schneiderian Membrane, SM) 천공 27.8%, 임플란트 누적 생존율 (Cumulative Survival Rate, CSR) 1/3/5/7년 96.5%, 8년 64.3%. 결손이 있어도 적절히 관리하면 LSFE 가 예측 가능한 결과.
+Retrospective single-center cohort (35 patients, 36 sinuses, 1–9 year follow-up, Peking University) of lateral sinus floor elevation (LSFE) using a membrane-first collagen seal technique in patients with pre-existing sinus floor defects.
+
+First-attempt completion rate was 97.2%; Schneiderian membrane perforation occurred in 27.8% of sinuses (within the range of conventional LSFE); cumulative implant survival was 96.5% through 7 years (dropping to 64.3% at 8 years with a small denominator).
+
+Pre-existing sinus floor defects do not preclude predictable LSFE when a collagen membrane-first sealing technique is used; the 8-year survival drop likely reflects sample attrition but warrants long-term monitoring.
+
+## 세줄요약
+
+후향적 단일 기관 코호트 (n=35명 / 36 sinuses, 1–9년 추적, 북경대): 기존 상악동저 결손 (Sinus Floor Defect) 환자에서 막 우선 (Membrane-First) 콜라겐막 봉합 후 측방 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 골이식.
+
+1차 완성률 97.2%; 슈나이더 막 천공 (Schneiderian Membrane Perforation) 27.8% (일반 LSFE 범위 내); 임플란트 누적 생존율 (Cumulative Survival Rate, CSR) 7년까지 96.5%, 8년 64.3% (소표본).
+
+기존 상악동저 결손이 있어도 콜라겐막 우선 봉합 기법으로 예측 가능한 LSFE 가능; 8년 시점 생존율 감소는 표본 감소 가능성이 높으나 장기 추적 권장.
 
 ## Summary
 북경대 (Peking University School of Stomatology) 의 후향적 단일-센터 cohort: 2008–2020년간 상악동저에 기존 결손 (oroantral communication 병력, 이전 수술, 병리) 이 있는 환자 35명 (36 sinuses) 에게 변형 LSFE 기법 — palatal crestal incision 의 split-thickness flap + 결손 부위에 crestal side 로부터 흡수성 collagen membrane 을 먼저 배치 후 골이식재 — 을 시행하고 1–9년 추적했다. 결과는 결손이 있어도 적절한 술기 시 LSFE 가 예측 가능 (CSR 96.5% up to 7 years) 하나, 8년 시점 64.3% 로 떨어지는 점은 long-term 합병증 또는 표본 감소 주의.

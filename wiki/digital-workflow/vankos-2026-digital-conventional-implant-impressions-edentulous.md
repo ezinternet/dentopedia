@@ -13,11 +13,19 @@ source_collection: external
 tags: [digital-impression, IOS, intraoral-scanner, edentulous, full-arch, conventional-impression, trueness, precision, RMS, SR+MA]
 ---
 
-## One-line Summary
-SR+MA (MDPI Dentistry 2026, Semmelweis, 34 in vitro studies, PROSPERO): digital vs conventional full-arch implant impressions in edentulous patients — no significant difference by RMS; full-arch edentulous IOS accuracy remains debated; conventional impressions remain valid.
+## Three-line Summary
+SR + MA (MDPI Dentistry J 2026, Semmelweis University, PROSPERO CRD42023393091, 34 in vitro studies) comparing trueness and precision of digital versus conventional implant impression techniques in fully edentulous full-arch cases by root mean square (RMS) deviation.
 
-## 한줄요약
-sr+ma(MDPI Dentistry 2026, Semmelweis, 34편 in-vitro, PROSPERO): 무치악 전악 임플란트 인상 디지털 vs 전통 — RMS 기준 유의차 없음; IOS 전악 무치악 정확도 여전히 논쟁; 전통 인상도 유효.
+No statistically significant difference was found between digital and conventional impression techniques by RMS; IOS accuracy in full-arch edentulous cases remains debated due to cumulative scan error with arch length, and factors such as scan body design, splinting, and scan protocol affect IOS performance.
+
+Conventional impressions remain a valid and reliable option for edentulous full-arch implant cases; IOS may be justified for patient comfort, but the technique should include splinted scan bodies and optimized scan protocols to maximize accuracy.
+
+## 세줄요약
+SR + MA(MDPI Dentistry J 2026, Semmelweis 대학, PROSPERO 등록, 34편 in vitro): RMS 기준으로 완전 무치악 전악 임플란트 인상에서 디지털 vs 전통 기법의 정확도를 비교.
+
+두 기법 간 RMS 유의차 없음; IOS는 악궁 길이에 따른 누적 오차로 전악 무치악 정확도가 논쟁 중이며, 스캔바디 디자인·splinting·스캔 프로토콜이 IOS 정확도에 영향.
+
+전통 인상은 무치악 전악 임플란트 증례에서 여전히 유효하며, IOS 선택 시 환자 편의와 기술적 정밀도를 균형 있게 고려하고 스캔바디 splinting 및 최적화 프로토콜을 적용 권장.
 
 ## Summary
 SR+MA (Semmelweis University, registered PROSPERO CRD42023393091) of 34 in vitro studies comparing accuracy (trueness, precision by RMS) of digital vs conventional implant impression techniques in fully edentulous full-arch cases. No significant difference found between techniques.

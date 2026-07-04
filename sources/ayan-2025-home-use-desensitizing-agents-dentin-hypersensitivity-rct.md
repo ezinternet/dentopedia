@@ -17,13 +17,21 @@ text_filename: ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-r
 
 기존 [[dentin-hypersensitivity/qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct]]는 단일 활성성분(SnF₂) 치약을 표준 불소치약과만 비교했지만, 가정용 탈감작제(home-use desensitizing agent)들 사이의 직접 우열은 다루지 못했다. 본 RCT(Ayan 2025)는 NovaMin·포타슘 질산염(Sensodyne 양대 flagship 기술)을 포함한 5종 가정용 탈감작제를 표준 불소치약 대조군과 head-to-head로 비교해, 상아질 과민증(Dentin Hypersensitivity, DH) at-home 1차 치료 선택지의 상대적 효능 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=180 enrolled / 164 randomized / 150 analyzed, ages 18–70, DH in ≥2 non-adjacent teeth): five home-use desensitizing agents (CPP-ACP, Arginine, NovaMin, Propolis, Potassium nitrate) vs standard fluoride control over 8 weeks — all test agents significantly improved DHEQ-15/SSS/VAS at weeks 4 & 8, control improved only on SSS+VAS; CPP-ACP (brushing + finger inunction) gave the greatest reduction by week 8.
+Parallel-group RCT (n=180 enrolled / 164 randomized / 150 analyzed; ages 18–70; DH in ≥2 non-adjacent teeth; Turkey): five home-use desensitizing agents — CPP-ACP, Arginine 8%, NovaMin, Propolis, Potassium nitrate 3% — vs standard fluoride toothpaste control over 8 weeks, measuring DHEQ-15, SSS, and VAS at baseline/week 4/week 8.
 
-## 한줄요약
+All five test agents significantly improved DHEQ-15, SSS, and VAS at weeks 4 and 8 vs baseline (p<0.005); the control improved only SSS and VAS, not DHEQ-15 (p=0.068); CPP-ACP (brushing + nightly finger inunction) gave the greatest reductions by week 8 (DHEQ-15 −56.68, VAS −6.52, SSS −2.32), with ranking CPP-ACP > Arginine ≈ KNO3 > NovaMin ≈ Propolis > Control.
 
-무작위 대조 임상시험(180명 등록 / 164명 무작위배정 / 150명 분석, 18–70세, 비인접 2치 이상 DH): 5종 가정용 탈감작제(CPP-ACP, 아르기닌, 노바민, 프로폴리스, 포타슘 질산염)를 표준 불소치약 대조군과 8주간 비교 — 모든 시험군은 4·8주 DHEQ-15/SSS/VAS에서 유의 개선, 대조군은 SSS+VAS만 개선; CPP-ACP(칫솔질+손가락 도포)가 8주째 가장 큰 감소를 보임.
+CPP-ACP is the most effective home-use agent in this 8-week RCT; all active agents outperform standard fluoride for OHRQoL as measured by DHEQ-15, but studies were limited to 8 weeks, used an asymmetric CPP-ACP protocol (combined with fluoride), and lacked long-term durability data.
+
+## 세줄요약
+
+병렬군 RCT(180명 등록/164명 무작위배정/150명 분석, 18–70세, 비인접 2치 이상 DH, 터키): CPP-ACP·아르기닌 8%·노바민·프로폴리스·포타슘 질산염 3% 등 5종을 표준 불소치약 대조군과 8주간 비교 — DHEQ-15·SSS·VAS를 기저선/4주/8주에 측정.
+
+5종 모두 4·8주 DHEQ-15·SSS·VAS에서 유의 개선(p<0.005); 대조군은 SSS+VAS만 개선(DHEQ-15 P=0.068 NS); CPP-ACP(칫솔질+손가락 야간 도포)가 8주째 모든 지표에서 최대 감소(DHEQ-15 −56.68, VAS −6.52, SSS −2.32) — 효과 순위: CPP-ACP > 아르기닌 ≈ KNO3 > 노바민 ≈ 프로폴리스 > 대조군.
+
+CPP-ACP가 8주 기준 가장 효과적인 가정용 탈감작제; 모든 활성 성분이 표준 불소치약보다 삶의 질(DHEQ-15)을 유의하게 개선하나, CPP-ACP 프로토콜의 비대칭성(불소치약 병용)과 8주 단기 추적이 한계.
 
 ## 1. Document Information
 

@@ -17,13 +17,23 @@ text_filename: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative
 
 [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]]의 clockwise-OD cadaveric 실험은 저밀도골에서 초기 안정성을 끌어올리는 osseodensification(OD)을 평가하지만, 그 임상적 필요성을 떠받치는 "왜 저밀도골이 문제인가"의 기초 — D1–D4 골질 분류, 골밀도가 BIC/stress distribution/ISQ에 미치는 영향, 그리고 implant 재료·macro-design 선택 원칙 — 을 위키가 충분히 담고 있지 않았다. 본 narrative review (Khaohoen 2023, 119편 종합)는 D3–D4 soft bone에서 OD 같은 primary-stability 술식이 왜 필요한지를 biomaterial·implant-design·surgical-technique 관점에서 통합 설명해, OD 페이지에 골밀도 맥락(context)을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (119 articles) concluding that in low-density (D3–D4) bone, implant material (Ti remains gold standard; zirconia/PEEK as alternatives), macro/microgeometry (conical, wider, longer, reverse-buttress self-tapping, small pitch, deep thread), and surgical technique (osseodensification/under-drilling) jointly determine primary stability and success.
 
-## 한줄요약
+Narrative review (119 articles) concluding that in low-density (D3–D4) bone, implant material (Ti remains gold standard;
+
+zirconia/PEEK as alternatives), macro/microgeometry (conical, wider, longer, reverse-buttress self-tapping, small pitch, deep thread), and surgical technique (osseodensification/under-drilling) jointly determine primary stability and success.
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰 (119편)로, 저밀도골(D3–D4)에서는 임플란트 재료(티타늄이 여전히 표준, 지르코니아·PEEK는 대안), 매크로·마이크로 형태(원추형·넓은 직경·긴 길이·역버트레스 self-tapping·좁은 pitch·깊은 thread), 수술 술식(골밀도화·under-drilling)이 함께 초기 안정성과 성공률을 좌우한다고 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

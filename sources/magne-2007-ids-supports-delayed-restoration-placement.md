@@ -13,7 +13,7 @@ source_collection: external
 
 [[resin-bonding/magne-2005-ids-improves-bond-strength-indirect]]가 IDS의 24h µTBS 우위 확립. 본 follow-up은 **provisional period 2/7/12주 경과 후에도 bond strength가 유지되는가**라는 임상의 핵심 의문 해결 — IDS protocol 임상 적용 정당화의 핵심 증거. 보철 lab turn-around 지연·환자 cancellation 흔한 임상 상황에서 reseal 없이도 안전한 protocol window 제시.
 
-## One-line Summary
+## Three-line Summary
 
 JPD 98(3):166-174, Sep 2007 — Magne et al. (USC) in-vitro µTBS — 50 human molars, OptiBond FL (E&R) + SE Bond (SE), provisional 2/7/12주 후 µTBS 측정. IDS 모든 군 >45 MPa, control과 차이 없음. DDS는 SE Bond 1.81 MPa로 매우 낮음. 결론: provisional 12주까지 IDS bond 보존.
 

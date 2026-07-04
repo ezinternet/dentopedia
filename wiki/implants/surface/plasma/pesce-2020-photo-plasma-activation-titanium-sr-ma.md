@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, photofunctionalization, UV, titanium, osseointegration, BIC, meta-analysis, preclinical]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR + meta-analysis of pre-clinical animal studies (518 identified → 10 included; MA pooled 4 UV-in-rabbit studies): UV and non-thermal argon plasma activation of Ti surfaces may improve osseointegration in vivo; BIC significantly increased in bio-activated groups when follow-up was homogeneous, but heterogeneity was high (I²>75%).
+PRISMA systematic review and meta-analysis of pre-clinical studies on photo (UV) and non-thermal plasma activation of titanium implant surfaces (518 records screened → 10 included; quantitative meta-analysis on 4 UV-rabbit studies).
 
-## 한줄요약
+Both UV and non-thermal argon plasma may improve in vivo osseointegration; meta-analyzed BIC was significantly higher in bio-activated groups when follow-up duration was homogeneous, but heterogeneity was high (I² >75%) across all models.
 
-전임상 PRISMA SR+메타분석(518→10편 포함; 메타분석은 토끼 UV 4편): 티타늄 표면 UV·비열 플라즈마 활성화가 동물에서 골유착 향상 가능, BIC 유의 증가(추적기간 동질 시). 이질성 높음(I²>75%).
+Clinical translation is premature — quantitative pooling relied on UV studies in rabbits, plasma effects remain qualitative only, and no human or loading data exist.
+
+## 세줄요약
+
+전임상 PRISMA SR+메타분석(518건 → 10편 포함; 정량 메타분석은 토끼 UV 4편): 티타늄 표면 UV·비열 아르곤 플라즈마 활성화의 전임상 골유착 효과 분석.
+
+UV·비열 플라즈마 모두 in vivo 골유착 향상 가능성; 추적기간 동질 시 활성화군 BIC 유의 증가, 그러나 전 모델에서 이질성 높음(I² >75%).
+
+정량 풀링은 토끼 UV 연구에만 근거하며 플라즈마 효과는 정성 평가에 그침 — 임상 적용을 위한 인체 대상 근거는 아직 없음.
 
 ## Summary
 

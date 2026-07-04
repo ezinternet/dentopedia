@@ -15,13 +15,21 @@ text_filename: vertucci-2026-single-vs-multiple-visit-endodontics-umbrella.txt
 tags: [single-visit-RCT, multiple-visit-RCT, post-operative-pain, flare-up, periapical-healing, umbrella-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella SR of 12 systematic reviews (search to Dec 2025): no consistent or clinically important difference in post-operative pain between single-visit and multiple-visit root canal treatment; visit-strategy choice should be driven by case complexity, infection control, and patient preference.
+Umbrella systematic review synthesizing 12 SRs (search to December 2025) comparing single-visit vs multiple-visit root canal treatment on post-operative pain in permanent teeth, appraised with AMSTAR 2 and ROBIS.
 
-## 한줄요약
+No consistent or clinically important difference in post-operative pain intensity (VAS/NRS) or incidence was found between the two approaches in higher-confidence reviews; flare-up rates were inconsistently reported and could not be pooled.
 
-12개 SR을 종합한 umbrella SR(2025년 12월까지 검색): 1회 vs 다회 방문 근관치료 간 술후 통증에 임상적으로 유의미한 차이 없음; 방문 전략은 증례 복잡도·감염 조절·환자 선호에 따라 결정.
+The choice of visit strategy should be guided by case complexity, infection control needs, and patient preference rather than expected pain outcomes.
+
+## 세줄요약
+
+영구치 근관치료 1회 vs 다회 방문을 비교한 12개 SR을 종합한 umbrella SR(2025년 12월까지, AMSTAR 2·ROBIS 평가).
+
+고신뢰 SR에서 술후 통증 강도(VAS/NRS)·발생률 모두 두 접근 간 임상적으로 유의미한 차이 없음; flare-up 발생률은 정의 불일치로 통합 불가.
+
+방문 전략의 선택은 증례 복잡도·감염 조절·환자 선호에 따라 결정해야 하며, 통증 감소 기대 효과로 특정 방식을 선택할 근거는 없음.
 
 ## Summary
 

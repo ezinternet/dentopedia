@@ -16,13 +16,21 @@ relations:
 tags: [aphthous, recurrent-aphthous-stomatitis, corticosteroid, differential-diagnosis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of oral aphthosis: three morphological types (minor/major/herpetiform), idiopathic vs systemic-disease differential, and a treatment ladder with topical corticosteroids first line, systemic agents on progression.
+Narrative review of oral aphthous ulcers covering pathophysiology, three morphological types (minor/major/herpetiform), and a differential diagnosis framework separating idiopathic RAS from systemic-disease-associated ulceration.
 
-## 한줄요약
+Etiology ranges from local trauma and microbiota imbalance to systemic disease (Behçet, IBD, hematinic deficiency); topical corticosteroids are established first-line therapy, with systemic agents reserved for progressive/refractory cases.
 
-구강 아프타 내러티브 리뷰: 세 형태(소·대·포진형), 특발성 vs 전신질환 감별, 국소 스테로이드 1차·진행 시 전신제 치료 단계.
+A key clinical message is that thorough history and workup are needed to rule out secondary causes before diagnosing true idiopathic RAS, given the broad spectrum of systemic conditions that can present with recurrent oral ulcers.
+
+## 세줄요약
+
+구강 아프타 궤양의 병태생리·세 형태(소형·대형·포진형) 및 특발성 RAS와 전신질환 관련 궤양을 구별하는 감별진단 체계 내러티브 리뷰.
+
+원인은 국소 외상·구강미생물 불균형부터 전신질환(베체트·IBD·조혈인자 결핍)까지 다양; 국소 스테로이드가 1차 치료, 진행·난치성 시 전신 약물 추가.
+
+진정한 특발성 RAS 진단 전 전신 원인을 배제하는 병력 청취와 검사가 핵심 — 반복성 구강궤양으로 나타날 수 있는 전신질환 스펙트럼이 넓기 때문.
 
 ## Summary
 

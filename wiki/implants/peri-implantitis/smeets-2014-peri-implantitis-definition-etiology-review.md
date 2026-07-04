@@ -13,13 +13,21 @@ source_collection: external
 tags: [peri-implantitis, mucositis, risk-factors, treatment, CIST, smoking, periodontitis-history]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (2014, n=narrative) synthesizing definition, epidemiology (peri-implantitis prevalence 28–56%), risk factors, and CIST-guided treatment hierarchy for peri-implant disease.
+Narrative review (Smeets et al. 2014, Head & Face Medicine) synthesizing definition, epidemiology, microbiology, risk factors, and CIST treatment hierarchy for peri-implant disease, drawn from the 6th European Workshop on Periodontology.
 
-## 한줄요약
+Peri-implantitis prevalence is 28–56%; smoking combined with periodontitis history increases risk 4.7-fold and adds 0.16 mm/year marginal bone loss; Staphylococcus aureus has 80% positive predictive value for peri-implantitis.
 
-서술적 리뷰 (2014): 임플란트 주위염 정의·역학(유병률 28–56%)·위험인자·CIST 치료 위계 체계 정리.
+CIST escalation (mechanical → antiseptics → antibiotics → surgery) guides treatment, with resective approaches for supra-alveolar (class II) defects and GBR for intraosseous (class I) defects; early diagnosis is critical as conservative methods are ineffective for advanced disease.
+
+## 세줄요약
+
+서술적 리뷰(Smeets et al. 2014, Head & Face Medicine): 제6차 유럽치주학회(EWP) 기반으로 임플란트 주위 질환(점막염·주위염)의 정의·역학·미생물학·위험인자·누적 차단 지지 치료(Cumulative Interceptive Supportive Therapy, CIST) 위계를 종합.
+
+임플란트주위염(Peri-implantitis) 유병률 28–56%; 흡연+치주염 과거력 복합 시 위험 4.7배, 연간 골소실(Marginal Bone Loss) +0.16 mm; 황색포도상구균(Staphylococcus aureus) 양성 예측값 80%.
+
+CIST 단계적 치료(기계적 세정→항균제→항생제→외과) 적용 시, 치조골 상부(Class II) 결손은 절제적 접근, 골내(Class I) 결손은 골유도재생술(Guided Bone Regeneration, GBR)이 적응; 진행된 병소는 보존적 치료 효과가 제한적이어서 조기 진단이 핵심이다.
 
 ## Summary
 

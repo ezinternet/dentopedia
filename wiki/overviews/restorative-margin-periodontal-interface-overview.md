@@ -28,13 +28,21 @@ source_wiki:
 > - **대비/예외 (counter-intuitive null)**: Lamichhane (2025, n=95 split-mouth)은 지대치가 비지대치보다 PI·GI·PD·CAL 모두 유의하게 나쁨(p<0.001)을 확인했으나, **변연 위치(supra/equi/sub)는 지대치 치주지표에 유의한 영향 없음** → 단면연구의 한계(인과 아님)와 위생·적합·기간·재료가 위치보다 더 지배적일 수 있음을 시사.
 > - **임상 결론(통합)**: ① BW/SCTA를 침범하지 말 것(변연-치조정 ≥2 mm 확보, 부위별 측정), ② 가능하면 치은연상, 심미상 불가피하면 위생 가능한 얕은 치은내(intracrevicular)까지만, ③ 변연 적합을 µm 단위로 관리하고 overhang 제거, ④ 디자인은 개별화(전치·얇은 biotype → BOPT 고려, 구치·고하중 → 수평), ⑤ 모든 보철 환자는 정기 치주 모니터링·유지관리 필수.
 
-## One-line Summary
+## Three-line Summary
 
-A 7-paper synthesis arguing the restorative-margin/periodontium relationship is the product of four interacting axes — respecting the biologic width / supracrestal tissue attachment (~2 mm; Hamasni's clinical 1.13 mm shows real site variation), margin location (supragingival safest; subgingival tolerable only under excellent hygiene), marginal adaptation/fit and contour (misfit and overhangs drive the biofilm-to-bone-loss cascade), and finish-line design (horizontal vs vertical/BOPT) — and reconciling the apparent Ercoli-vs-Schätzle tension as a contrast between idealized controlled hygiene and real-world long-term maintenance.
+A 7-paper synthesis covering 4 decision axes (biologic width/SCTA, margin location, marginal fit/contour, finish-line design) across 26-year cohort to cross-sectional evidence on how restorations affect the periodontium.
 
-## 한줄요약
+Hamasni 2017 bone-sounding found clinical biologic width 1.13 mm (vs Gargiulo's histologic 2.04 mm); Schätzle 2001 26-year cohort showed subgingival margins raised GI at all 7 surveys (p<0.001); Lamichhane 2025 split-mouth found FDP abutment teeth worse on PI/GI/PD/CAL vs non-abutment (all p<0.001) yet margin location alone was NS — margin fit and hygiene dominate.
 
-7편 종합 — 수복 변연과 치주의 관계는 ① 생물학적 폭경/SCTA 존중(~2 mm, Hamasni 임상값 1.13 mm로 부위 편차 큼), ② 변연 위치(치은연상 최선, 치은연하는 탁월한 위생 시에만), ③ 변연 적합·외형(부적합·overhang이 biofilm→골소실 cascade 유발), ④ finish line 디자인(수평 vs 수직 BOPT) 4축의 상호작용 결과이며, Ercoli(통제 위생) vs Schätzle(실제 장기 위생)의 외관상 충돌은 위생 조건 차이로 해소된다.
+The Ercoli-vs-Schätzle tension resolves as idealized hygiene vs real-world maintenance: keep margin-to-crest ≥2 mm (site-specifically measured), favor supragingival placement, minimize fit gap (<100–120 µm), eliminate overhangs, and individualize finish-line design (BOPT for anterior/thin biotype, horizontal for posterior/high-load); all FDP abutments need ongoing periodontal monitoring.
+
+## 세줄요약
+
+7편 종합 — 수복 변연과 치주의 관계는 ① 생물학적 폭경/SCTA(Hamasni 2017 임상값 1.13 mm, 부위 편차 큼), ② 변연 위치(치은연상 최선, 치은연하는 탁월한 위생 시에만), ③ 변연 적합·외형(부적합·overhang이 biofilm→골소실 cascade 유발), ④ finish line 디자인(수평 vs 수직 BOPT)이라는 4축의 상호작용 결과이다.
+
+Schätzle 2001 26년 코호트는 치은연하 변연이 모든 7회 조사에서 치은지수 악화(p<0.001)를 보였고, Lamichhane 2025 구개분리 설계(n=95)는 지대치가 비지대치보다 PI·GI·PD·CAL 모두 유의하게 나빴으나(p<0.001) 변연 위치 자체는 비유의 — 위생·적합·기간이 위치를 압도한다.
+
+임상 결론: 변연-치조정 ≥2 mm(부위별 측정), 치은연상 우선, 변연 간격 <100–120 µm, overhang 제거, finish line 개별화(전치·얇은 생형 → BOPT, 구치·고부하 → 수평)하며 모든 FDP 지대치는 정기 치주 모니터링 필수.
 
 ## Summary
 

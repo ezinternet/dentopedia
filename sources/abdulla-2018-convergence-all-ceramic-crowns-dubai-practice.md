@@ -9,8 +9,21 @@ pdf_filename: abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.pdf
 source_collection: external
 ---
 
-## One-line Summary
-J Clin Exp Dent 2018;10(12):e1192-7 (MBRU Dubai) — cross-sectional survey of 206 all-ceramic crown preparations by 154 Dubai private practitioners scanned with Carestream CS 3500; mean MD convergence 24.6° (SD 11.8), BL 32.6° — well above Shillingburg 6° ideal and even the 10-22° clinically realistic band.
+## Three-line Summary
+
+Cross-sectional clinical practice survey (J Clin Exp Dent 2018; MBRU Dubai; 154 private practitioners, 206 all-ceramic crown preparations scanned with Carestream CS 3500).
+
+Mean mesiodistal (MD) total occlusal convergence (TOC) was 24.6° (SD 11.8°) and buccolingual (BL) 32.6° — both substantially exceeding the Shillingburg ideal of 6° and the clinically realistic 10–22° band; BL consistently exceeded MD.
+
+Dubai private-practice convergence angles mirror overpreparation patterns reported globally; the persistent gap from the 6° ideal confirms that textbook targets are routinely unmet even in adhesively retained all-ceramic restorations.
+
+## 세줄요약
+
+두바이 민간 개원의 154명, 전부도재관 보철 기공 모형 206개를 인트라오럴 스캐너(CS 3500)로 스캔한 횡단 임상 조사 연구.
+
+평균 근원심 전체 수렴각(Total Occlusal Convergence, TOC) 24.6°(SD 11.8°), 협설 32.6° — Shillingburg 이상값(6°) 및 현실적 임상 범위(10–22°)를 모두 크게 초과; 협설이 근원심보다 일관되게 큼.
+
+두바이 민간 개원의 수렴각은 세계적 과다삭제 패턴과 일치 → 접착 유지형 전부도재관에서도 교과서 기준이 현장에서 지켜지지 않음을 확인.
 
 ## 1. Document Information
 - Journal: Journal of Clinical and Experimental Dentistry 2018;10(12):e1192-1197

@@ -13,13 +13,23 @@ source_collection: external
 
 비전통적 근관 소독 보조 수단으로서 비열 대기압 플라즈마(Non-Thermal Atmospheric Pressure Plasma, NTPP)의 근관치료 적용 가능성을 체계적으로 개관한 리뷰. 기존 NaOCl/CHX 세정의 한계를 NTPP의 ROS/RNS 메커니즘으로 보완하는 근거를 제공하며, [[wiki/endodontics/irrigation]] 및 미래 복합 프로토콜과의 접점을 형성한다.
 
-## One-line Summary
+## Three-line Summary
 
-Integrative review (17 studies, 2007–2022) demonstrating non-thermal atmospheric pressure plasma's antimicrobial efficacy against endodontic pathogens (especially E. faecalis), with optimal effects at ≥8 min direct exposure, enhanced when combined with conventional irrigants.
 
-## 한줄요약
+Integrative review (17 studies, 2007–2022) demonstrating non-thermal atmospheric pressure plasma's antimicrobial efficacy against endodontic pathogens (especially E.
 
-2007–2022년 17편 통합 리뷰: 비열 대기압 플라즈마(NTPP)는 E. faecalis 등 근관 병원균에 강한 살균력(≥8분 직접 노출에서 최대 효과)을 보이며, 기존 세정제와 병용 시 상승 효과가 확인됨.
+faecalis), with optimal effects at ≥8 min direct exposure, enhanced when combined with conventional irrigants.
+
+(incomplete)
+
+## 세줄요약
+
+
+2007–2022년 17편 통합 리뷰: 비열 대기압 플라즈마(NTPP)는 E.
+
+faecalis 등 근관 병원균에 강한 살균력(≥8분 직접 노출에서 최대 효과)을 보이며, 기존 세정제와 병용 시 상승 효과가 확인됨.
+
+(incomplete)
 
 ## 1. Document Information
 

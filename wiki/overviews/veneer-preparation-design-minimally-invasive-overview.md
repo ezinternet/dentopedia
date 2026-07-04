@@ -30,13 +30,21 @@ tags: [veneer, laminate-veneer, preparation-design, minimally-invasive, mock-up,
 > - **비협상 원칙**: 모든 삭제 디자인의 성공 전제는 법랑질 한정 변연 — 상아질 변연 노출 시 실패율 ~10배(El-Mowafy 2018, Gürel 580 비니어 12년). 최소침습의 목적이 곧 법랑질 confinement.
 > - 임상 bottom line: "얼마나 깎을까"는 목업을 만들고 색 차이를 계산해 결정한다. 추가부피가 클수록(부가형 왁스업) 삭제는 작아지고(종종 0), 법랑질만 남으면 재료·절단연 디자인은 비교적 자유롭다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 6 papers (1 prospective clinical study, 1 SR, 1 SR+MA, 1 narrative review, 2 case reports) establishing the mock-up/APT-guided "preparation by design" paradigm for minimally invasive porcelain laminate veneers: reduction is referenced to the patient-approved final contour and quantified by the substrate-to-target color gap (P = LT − EV), evolving from analog (Gürel 2007) to color-math (Coachman 2014) to fully digital CAD-CAM mock-ups (Cattoni 2016), with survival evidence (Ali, Reis, Chandode, Albanesi) confirming minimal/no-prep equals or exceeds conventional preparation provided enamel-confined margins are preserved.
+Synthesis of 6 papers establishing the mock-up/APT-guided "preparation by design" paradigm: rather than preparing on the existing tooth, the clinician first designs the final restorative contour, then reduces through a patient-approved provisional, referencing the depth to the planned ceramic position; reduction depth is quantified region-by-region as P = LT − EV (ceramic thickness minus added volume), which collapses to 0 when additive wax-up volume equals or exceeds ceramic thickness.
 
-## 한줄요약
+This paradigm evolved from Gürel (2007) analog APT through Coachman (2014) color-math to Cattoni (2016) fully digital 3D-DSP (2D facial photo + intraoral STL → CAD-CAM PMMA mock-up as prep guide; 108 PLVs, 2-yr follow-up, marginal complications minimal); survival data (Ali 2023 SR, Reis 2025 12-yr case, Chandode 2026, Albanesi 2016) confirm minimal/no-prep equals or exceeds conventional preparation.
 
-6편 종합(전향 임상 1·SR 1·SR+MA 1·내러티브 1·증례 2): 최소침습 비니어 삭제는 목업/APT를 통과해 최종 보철 형태 기준으로 시행하고 삭제량은 기질-목표색 차이로 정량화(P = LT − EV)하며, 아날로그(Gürel 2007)→색 수식(Coachman 2014)→디지털 CAD-CAM(Cattoni 2016)으로 진화 — 법랑질 한정 변연을 지키는 한 최소/무삭제가 통상 삭제와 동등 이상.
+The single non-negotiable constraint across all designs is enamel-confined margins — dentin exposure carries ~10× failure penalty (El-Mowafy 2018), making enamel preservation the purpose of minimal preparation, not reduction for its own sake.
+
+## 세줄요약
+
+6편 종합(전향 임상 1·SR 1·SR+MA 1·내러티브 1·증례 2): 최소침습 비니어 삭제는 목업/APT를 통과해 최종 보철 형태 기준으로 시행하며 삭제량은 기질-목표색 차이로 정량화(P = LT − EV); 추가부피 ≥ 도재두께이면 P = 0(진정한 무삭제).
+
+패러다임 진화: 아날로그 APT(Gürel 2007) → 색 수식(Coachman 2014) → 디지털 CAD-CAM 목업(Cattoni 2016, 108 PLV 2년); 생존 근거(Ali SR·Reis 12년·Chandode·Albanesi)는 법랑질 한정 변연을 지키는 한 최소/무삭제가 통상 삭제와 동등 이상임을 확인.
+
+모든 삭제 디자인의 비협상 전제는 법랑질 한정 변연 — 상아질 노출은 실패율 ≈10배(El-Mowafy 2018); 최소침습의 목적은 삭제량 자체가 아니라 법랑질 보존이다.
 
 ## Summary
 

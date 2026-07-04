@@ -36,11 +36,21 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 > - **유병률 섹션 추가 — Sbricoli 2026 (횡단연구, n=70/임플란트 227개)**: 제2형 당뇨 vs 비당뇨 간 임플란트주위질환·점막염·주위염 유의차 없음(모두 p>0.4) — 당뇨를 독립 위험인자로 보는 통념에 반하나(contradicts), 검정력 부족 + 양군 모두 높은 치주염 과거력(83–94%)이 교란요인. 메시지는 "당뇨 진단"보다 "대사조절의 질"로 재구성.
 > - **재건 수술 섹션 확장 — Su 2026 (서술 리뷰)**: 이종골(xenogenic)이 자가골·비-GBR 대비 우월하다는 기존 패턴을 재확인(reinforces); 티타늄 부식/이온방출이 국소 염증을 악화시킨다는 기전 추가, CBCT를 결손 형태 진단의 표준으로 제시, 생분해성 마그네슘 막·3D 프린팅 티타늄 메쉬를 차세대 재료 후보로 소개.
 
-## One-line Summary
-Synthesis of 10 peri-implantitis papers: pooled prevalence 19.5% patient-level; mucositis management is primary prevention; no single decontamination protocol is superior; prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL; and a prosthetic/anatomic risk axis — emergence angle >30° + convex profile (Soulami), RM-AC ≤1.5 mm → 3.42× MBL (Basak IDRA), thin gingival phenotype as an indirect bone-loss risk (da Silva) — adds modifiable design and host factors.
+## Three-line Summary
 
-## 한줄요약
-10편 종합: 환자 단위 유병률 19.5%, 점막염 관리 = 1차 예방, 단일 표면제염 프로토콜 우위 없음, 보철 디자인(플랫폼스위칭·원추형 연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time)이 MBL을 유의하게 줄임. 더해 보철·해부학적 위험축 — 출현각 >30°+볼록 윤곽(Soulami), RM-AC ≤1.5 mm → MBL 3.42배(Basak IDRA), 얇은 치은 표현형의 간접 골소실 위험(da Silva) — 이 조절·평가 가능한 design/host 인자를 보강.
+Synthesis of 20+ peri-implantitis papers across etiology/immunopathogenesis (Smeets 2014 + Galarraga-Vinueza 2020 + Cafferata 2025), epidemiology (Diaz 2022 SR+MA: 19.5% patient-level), mucositis management, surgical decontamination, GBR reconstruction, prosthetic MBL levers, and prosthetic/anatomic risk axes.
+
+No single surface decontamination protocol is superior (Baima 2022 SR+MA, 16 RCTs); prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL (Lin 2025 SR+MA, 93 studies, all p<0.0001); GBR reconstruction (autograft + xenograft + membrane) yields radiographic MBL benefit (β=−1.65 mm) and recession reduction (β=−1.68 mm) but NOT improved clinical disease resolution vs open-flap debridement (disease resolution 44% both arms, Hakkers 2026 RCT); M1-skewed macrophage polarization (Galarraga-Vinueza) and impaired Treg function (Cafferata 2025) explain why established lesions resist self-resolution.
+
+For prevention: choose platform-switched conical connections, maintain abutment height ≥2 mm, design emergence angle <30° with concave/straight profile, and keep restoration-margin-to-crest distance >1.5 mm; for treatment, use PMPR as the backbone for mucositis, and step to surgical GBR only for contained intrabony defects with sufficient bone support.
+
+## 세줄요약
+
+임플란트주위염(Peri-implantitis) 20+편 종합 — 병인/면역병리(Smeets 2014·Galarraga-Vinueza 2020·Cafferata 2025)·역학(Diaz 2022 SR+MA: 환자 단위 19.5%)·점막염 관리·외과 제염·GBR 재건·보철 변연골소실(MBL) 레버·보철/해부 위험축.
+
+단일 표면제염 프로토콜 우위 없음(Baima 2022, 16 RCT); 보철 디자인(플랫폼스위칭·원추형 연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time)이 MBL 유의 감소(Lin 2025, 93편, 모두 p<0.0001); GBR 재건은 방사선학적 MBL 이득(β=−1.65 mm)·퇴축 감소(β=−1.68 mm) 있으나 임상 질환 해소율은 비재건 대비 동등(둘 다 44%, Hakkers 2026 RCT); M1 대식세포 편향(Galarraga-Vinueza)·Treg 기능부전(Cafferata 2025)이 병소 자연치유 실패의 면역기전.
+
+예방: 플랫폼스위칭·원추형 연결 선택, 어버트먼트 높이 ≥2 mm, 출현각 <30°+오목/직선 윤곽, 수복물 변연-치조정 거리(RM-AC) >1.5 mm 확보; 치료: 점막염엔 전문가 기계적 치면세균막 제거(PMPR) 근간, 포위형 골내 결손에만 GBR 재건 단계 진입.
 
 ## Summary
 

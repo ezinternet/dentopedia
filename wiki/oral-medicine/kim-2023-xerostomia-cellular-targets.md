@@ -20,13 +20,21 @@ relations:
     target: poudel-2026-xerostomia-dental-treatment-outcomes-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative mechanistic review (Int J Mol Sci 2023) mapping saliva secretion at the cellular level — parasympathetic neurotransmitter → GPCR (M3 mAChR) → PLC/IP3 → ER Ca²⁺ release + store-operated Ca²⁺ entry (SOCE) → AQP5 apical trafficking → water secretion — and proposing GPCR, IP3R, SOCE, and AQP5 as druggable cellular targets in xerostomia.
+Narrative mechanistic review (Int J Mol Sci 2023, Seoul National University) mapping the cellular saliva secretion pathway: parasympathetic neurotransmitter → M3 muscarinic GPCR → PLC/IP3 → ER Ca²⁺ release + SOCE (STIM1/Orai1) → AQP5 apical trafficking → water secretion.
 
-## 한줄요약
+Knockout-mouse evidence confirms each pathway node (M1/M3 double-KO abolishes salivation; IP3R2/R3 double-KO severely impairs it; AQP5-KO reduces pilocarpine-induced saliva by ~60%); xerostomia prevalence is 10–50% with no permanent FDA-approved cure.
 
-침 분비의 세포 기전 — 부교감신경 전달물질 → G단백연결수용체(GPCR, M3 무스카린수용체) → PLC/IP3 → 소포체 Ca²⁺ 방출 + 저장고작동 Ca²⁺ 유입(SOCE) → 아쿠아포린5(AQP5) 정단막 이동 → 물 분비 — 을 정리하고, GPCR·IP3R·SOCE·AQP5를 구강건조(xerostomia)의 치료 표적으로 제시한 기전 리뷰 (IJMS 2023, 서울대 치대). 구강건조 유병률 10~50%(여성 30%·고령 50%↑), FDA 승인 완치약은 없음.
+GPCR, IP3R, SOCE, and AQP5 are proposed as druggable targets; acinar-cell-specific GPCR agonists (mAChR, P2Y2R) may offer sialagogue benefit with fewer systemic side effects than current pilocarpine/cevimeline.
+
+## 세줄요약
+
+침 분비 세포 기전 내러티브 기전 리뷰 (IJMS 2023, 서울대 치대): 부교감신경 → M3 무스카린 GPCR → PLC/IP3 → 소포체 Ca²⁺ 방출 + 저장고작동 Ca²⁺ 유입(SOCE: STIM1/Orai1) → 아쿠아포린5(AQP5) 정단막 이동 → 물 분비.
+
+KO 마우스 근거가 각 경로 노드를 확인 (M1/M3 이중-KO 분비 완전 소실; IP3R2/R3 이중-KO 심각한 분비 장애; AQP5-KO 필로카르핀 유발 분비 ~60% 감소); 구강건조 유병률 10–50%, FDA 승인 완치약 없음.
+
+GPCR·IP3R·SOCE·AQP5를 치료 표적으로 제안; 선포세포 특이적 GPCR 작용제(mAChR·P2Y2R)가 현재 필로카르핀/세비멜린보다 전신 부작용 적은 타액 분비 촉진 경로로 유망.
 
 ## Summary
 

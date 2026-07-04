@@ -9,7 +9,7 @@ pdf_filename: liu-2024-maxillary-immediate-molar-palatal-root-socket.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Case report (2-year follow-up) of maxillary immediate molar implant placement using the palatal root socket as the primary anchorage when inter-radicular septum is inadequate.
 
 ## 1. Document Information

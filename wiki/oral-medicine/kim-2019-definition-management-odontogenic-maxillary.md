@@ -16,13 +16,21 @@ relations:
     target: psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2019 narrative review (Kim, Seoul National University) summarizing OMS pathophysiology, polymicrobial/biofilm microbiology, imaging diagnosis, and surgical management (CLP vs FESS vs MESS); OMS constitutes 30–40% of all chronic maxillary sinusitis.
+Narrative review (Kim SM, Seoul National University, 2019) of odontogenic maxillary sinusitis (OMS) covering anatomical basis, etiology, polymicrobial/biofilm microbiology, imaging diagnosis, and surgical management including CLP, FESS, and MESS approaches.
 
-## 한줄요약
+OMS constitutes 30–40% of all chronic maxillary sinusitis (far higher than the historical 10–12%); mean root-to-sinus floor distance is only 1.97 mm; molar region accounts for 47.68% of cases; bacterial biofilm detected in 70% of CRS samples.
 
-서울대 김승민 2019 내러티브 리뷰: 치성 상악동염 (OMS)이 만성 상악동염의 30–40%를 차지하며 치아 발거·치주·치근단 병소가 주원인; CLP·FESS·MESS 수술법과 구강-상악동 누공 (OAF) 관리 포함한 종합 진단·치료 정리.
+Three surgical approaches are compared (CLP causes postoperative maxillary cysts; FESS preserves function but incompletely addresses odontogenic source; MESS offers the best combination); OAF closure algorithm based on defect size is provided.
+
+## 세줄요약
+
+서울대 김승민 2019년 내러티브 리뷰 — 치성 상악동염(OMS)의 해부학적 기반·원인·다균종/생물막 미생물학·영상 진단·외과적 관리(CLP·FESS·MESS) 종합 정리.
+
+OMS는 만성 상악동염의 30–40% 차지(과거 인용 10–12%보다 훨씬 높음); 치근-상악동저 평균 거리 1.97 mm; 구치부가 전체 OMS의 47.68%; 세균 생물막이 만성 비부비동염 표본의 70%에서 검출.
+
+세 가지 수술법 비교(CLP는 술후 상악동낭종 발생; FESS는 기능 보존하나 치성 원인 해결 불완전; MESS가 가장 이상적 조합); OAF 결손 크기에 따른 폐쇄 알고리즘 제시.
 
 ## Summary
 

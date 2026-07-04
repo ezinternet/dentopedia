@@ -13,12 +13,21 @@ source_collection: external
 tags: [local-anesthesia, guideline, korean, position-paper]
 ---
 
-## One-line Summary
-Dental local anesthesia is the most frequently performed procedure but Korea lacks a standardized clinical practice guideline — short position paper formalizing the need and reviewing areas to be covered.
+## Three-line Summary
 
-## 한줄요약
+Short Korean position paper (narrative, no evidence grading) arguing for the development of formal clinical practice guidelines for dental local anesthesia — a procedure performed daily in every Korean dental practice yet lacking a structured national standard.
 
-치과 국소마취는 가장 빈번한 술기지만 한국 표준 임상진료지침은 미정립. 가이드라인 제정 필요성과 검토 영역을 명문화한 짧은 proposal.
+The paper enumerates the scope a future guideline must cover: anesthetic selection across teeth, periodontal tissue, oral mucosa, TMJ, and the maxillofacial region; no primary outcomes are reported.
+
+The institutional contribution is documenting the standardization gap and articulating the guideline framework, paired with the contemporaneous Korean sedation guideline introduction in the same JKDA issue.
+
+## 세줄요약
+
+한국 구강악안면외과 학자의 짧은 포지션 페이퍼(서술적, 근거등급 없음): 매일 시행되는 치과 국소마취에 국가 표준 임상진료지침이 없음을 지적하며 제정 필요성과 검토 범위를 명문화.
+
+향후 가이드라인이 다뤄야 할 영역 열거: 치아·치주조직·구강점막·TMJ·악안면부에 대한 마취제 선택; 1차 결과치는 없음.
+
+동일 JKDA 호에 게재된 한국 진정 가이드라인 소개와 짝을 이루며, 표준화 공백을 제도적으로 가시화하는 기여를 한다.
 
 ## Summary
 

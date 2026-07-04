@@ -18,13 +18,21 @@ relations:
     target: sanz-2022-keratinized-mucosa-around-implants-consensus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 16 RCTs/CCTs (n=446) confirms CTG yields +0.64 mm peri-implant soft-tissue thickness gain over no graft and +0.51 mm over substitutes, with superior esthetics but equal MBL outcomes.
+SR+MA (16 RCTs/CCTs, n=446) with two PICOS questions targeting soft-tissue thickness (STT) gain as the primary outcome around dental implants.
 
-## 한줄요약
+CTG yielded +0.64 mm STT over no graft (p=0.01) and +0.51 mm over substitutes (p<0.001), with better Pink Esthetic Scores (+1.02, p=0.01) and less recession (+0.50 mm, p=0.014); no significant MBL difference; CTG required ~1.68 more analgesic tablets (p<0.001).
 
-16개 RCT/CCT SR+MA: CTG는 임플란트 주위 연조직 두께 증가에서 무처치 대비 +0.64 mm, 대체재 대비 +0.51 mm 우월하며 핑크 심미 점수도 높으나, 변연골 소실에서는 차이 없음.
+Substitute gains diminish relative to CTG at ≥1 year, supporting CTG as the gold standard for peri-implant tissue thickening when esthetic longevity is the priority.
+
+## 세줄요약
+
+임플란트 주위 연조직 두께(STT) 증가를 주요 결과로 설정한 16편 RCT/CCT SR+MA(n=446), PICOS 2개 질문 체계.
+
+CTG는 무처치 대비 STT +0.64 mm(p=0.01), 대체재 대비 +0.51 mm(p<0.001), 핑크 심미 점수 +1.02(p=0.01), 퇴축 감소 +0.50 mm; MBL 차이 없음; 진통제 소비 ~1.68정 더 많음(p<0.001).
+
+대체재의 STT 이득은 ≥1년 시점에서 CTG 대비 감소 — 심미 지속성이 중요할 때 CTG가 금본위 술식임을 지지.
 
 ## Summary
 

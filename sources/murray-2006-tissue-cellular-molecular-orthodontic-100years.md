@@ -9,7 +9,7 @@ pdf_filename: murray-2006-tissue-cellular-molecular-orthodontic-100years.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Sandstedt(1904) 이후 100년간 교정적 치아이동 기전 연구 역사적 고찰 + 현재 분자 기전 통합.
 
 ## 1. Document Information

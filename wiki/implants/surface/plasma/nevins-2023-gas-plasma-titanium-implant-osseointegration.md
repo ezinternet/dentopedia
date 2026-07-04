@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, gas-plasma, chairside, osseointegration, BIC, foxhound, time-course, SLA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Preclinical in vivo: 36 implants in 6 foxhounds (chairside gas-plasma test vs control, sacrificed 2/4/6 wk): BIC higher for plasma at all timepoints, significantly higher at 4 wk (p=0.046); radiographic bone level significantly better for plasma at 6 wk (p=0.016).
+Preclinical in vivo (6 foxhounds, 36 SLA implants, split-mouth randomized, 2/4/6 wk sacrifice): chairside gas-plasma applied immediately before placement was tested against untreated controls with histomorphometric and radiographic endpoints.
 
-## 한줄요약
+BIC was numerically higher for plasma at all timepoints and reached significance at 4 weeks (p=0.046); radiographic marginal bone level was significantly better for plasma at 6 weeks (p=0.016) while earlier timepoints were non-significant.
 
-전임상 in vivo: foxhound 6마리 임플란트 36개(식립 직전 gas plasma vs 대조, 2·4·6주): BIC 모든 시점 플라즈마군 높음, 4주 유의(p=0.046); 방사선 골수준 6주 유의(p=0.016).
+Benefits are timepoint-specific rather than uniformly significant, per-timepoint n is only 2 animals, and no ISQ, resonance frequency, or clinical human data are available.
+
+## 세줄요약
+
+줄1: 전임상 in vivo(foxhound 6마리, SLA 임플란트 36개, split-mouth 무작위, 2·4·6주 희생): 식립 직전 chairside gas-plasma vs 무처리 대조, 조직형태계측+방사선 평가.
+
+줄2: BIC 전 시점 플라즈마군 높고 4주 유의(p=0.046); 방사선 변연골 수준 6주 유의(p=0.016), 이전 시점은 NS.
+
+줄3: 유의성이 특정 시점에만 나타나고 시점당 n=2마리에 불과하며, ISQ·공진주파수·인체 임상 데이터 없음.
 
 ## Summary
 

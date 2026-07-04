@@ -13,13 +13,23 @@ source_collection: external
 
 Part of a recent GBR / ridge-augmentation collection. This 7th ITI Consensus (Group 1) sets the authoritative buccal bone wall thickness (BBW) threshold of <1.5 mm and the role of simultaneous GBR for buccal dehiscence defects — it provides the consensus framework that contextualizes single-study work such as [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]] and the simultaneous-GBR membrane evidence in [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]].
 
-## One-line Summary
+## Three-line Summary
 
-7th ITI Consensus (Group 1, 2 underlying systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts worse vertical bone loss and clinical/radiographic outcomes; simultaneous GBR over dehiscence defects and soft tissue augmentation (STA) with connective tissue grafts give stable peri-implant outcomes from 1–5 years.
 
-## 한줄요약
+7th ITI Consensus (Group 1, 2 underlying systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts worse vertical bone loss and clinical/radiographic outcomes;
+
+simultaneous GBR over dehiscence defects and soft tissue augmentation (STA) with connective tissue grafts give stable peri-implant outcomes from 1–5 years.
+
+(incomplete)
+
+## 세줄요약
+
 
 7차 ITI 합의문(Group 1, 2개 SR 기반): 치유된 식립부에서 협측 골벽(BBW) <1.5 mm는 더 큰 수직 골소실·불리한 임상/방사선 결과를 예측하며, 열개 결손에 대한 동시 GBR과 결합조직이식(CTG)을 이용한 연조직증대(STA)는 1–5년간 안정적인 임플란트 주위 결과를 제공한다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

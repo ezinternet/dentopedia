@@ -13,11 +13,21 @@ source_collection: external
 tags: [hba1c, glycemic-control, diabetes-monitoring, eag, adag, dental-systemic-evaluation]
 ---
 
-## One-line Summary
-International multicenter prospective cohort (n=507, T1DM 268/T2DM 159/normal 80): established the linear regression eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84), independent of age, sex, race, diabetes type, or smoking — enables conversion from A1C % to eAG for patient communication.
+## Three-line Summary
 
-## 한줄요약
-국제 다기관 전향 코호트(n=507, T1DM 268·T2DM 159·정상 80) — HbA1c와 평균혈당의 선형회귀식 eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84) 확립; 연령·성별·인종·당뇨형·흡연 무관 → 환자 설명 시 % 대신 eAG로 환산 가능.
+International multicenter (10 centers) prospective ADAG cohort (n=507: T1DM 268, T2DM 159, non-diabetic 80; ages 18–70) combining CGM, 8-point capillary calibration, and 7-point SMBG over 3 months to derive the HbA1c-to-average-glucose equation; conditions that alter RBC lifespan were excluded.
+
+The linear regression eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84, p<0.0001) was established as the ADA/EASD reporting standard; the equation held across age, sex, diabetes type, race/ethnicity, and smoking with no significant slope/intercept differences.
+
+Clinically, eAG translation (HbA1c 7%→154 mg/dL, 8%→183, 9%→212) communicates glycemic risk concretely to patients, but the equation is not validated in populations excluded from ADAG (anemia, CKD, hemoglobinopathy, recent transfusion).
+
+## 세줄요약
+
+국제 다기관(10개 센터) 전향 ADAG 코호트(n=507: T1DM 268·T2DM 159·비당뇨 80; 18–70세) — CGM·8점 모세혈관 보정·7점 자가혈당 측정을 3개월 결합; 적혈구 수명 변화 조건(빈혈·CKD·이형 Hb) 제외.
+
+선형회귀식 eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84, p<0.0001) — ADA/EASD 공식 보고 기준으로 채택; 연령·성별·당뇨형·인종·흡연에 무관하게 일관성 확인.
+
+임상 활용: eAG 환산으로 혈당 위험을 환자 친숙한 mg/dL 단위로 소통 가능(7%→154, 8%→183, 9%→212 mg/dL); 단 ADAG 제외 대상(빈혈·CKD·이형 Hb·수혈 후)에서는 식이 불검증.
 
 ## Summary
 The A1C-Derived Average Glucose (ADAG) study enrolled 507 adults across 10 international centers (US, Europe, Africa, Asia) and combined ~2,700 glucose values per subject from continuous glucose monitoring (CGM every 5 min), eight-point fingerstick calibration days, and seven-point self-monitoring (≥3 days/week) over 3 months. After excluding hemoglobinopathies, anemia, CKD, transfusion, and other RBC-altering conditions, linear regression yielded **eAG (mg/dL) = 28.7 × A1C − 46.7** with R² = 0.84 (p<0.0001). The slope and intercept did not differ significantly across age, sex, diabetes type, race/ethnicity, or smoking status, supporting universal application of the equation outside the excluded populations.

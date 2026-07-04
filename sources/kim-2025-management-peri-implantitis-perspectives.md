@@ -9,7 +9,7 @@ pdf_filename: kim-2025-management-peri-implantitis-perspectives.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review by Korean periodontist summarizing peri-implantitis definition (2017 World Workshop), 2024 Korean Academy of Periodontology consensus classification, and management options in the Korean clinical landscape.
 
 ## 1. Document Information

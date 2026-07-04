@@ -17,11 +17,21 @@ text_filename: butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization.tx
 
 기존 [[caries/malcangi-2023-enamel-remineralization-techniques-sr]]가 "hydroxyapatite가 불소 대안으로 부상"이라고만 짚은 branch를, zinc-carbonate hydroxyapatite(Zn-CHA) 전용 리뷰로 확장해 기전(생체모방·이온치환·용해도)과 3대 임상 효용(enamel 보호·dentin 재광화·과민증 감소)을 구체화한다. 상아질 과민증 [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] 및 침식 [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]]과도 교차한다.
 
-## One-line Summary
-Narrative review of 30 studies (mostly in vitro) on biomimetic zinc-carbonate hydroxyapatite (Zn-CHA) oral-care products: evidence of enamel/dentin remineralization, erosion protection, and dentin-tubule occlusion for hypersensitivity, but few RCTs and moderate risk of bias.
+## Three-line Summary
 
-## 한줄요약
-생체모방 zinc-carbonate hydroxyapatite(Zn-CHA) 구강제품 30편(대부분 in vitro) 서술적 리뷰: 법랑질/상아질 재광화·침식보호·상아세관 폐쇄(과민증)에 효과 신호, 그러나 RCT 부족·중등도 비뚤림.
+Narrative review (Biomimetics 2023; PubMed/Scopus 2003–2023; 5065 records → 30 included; mostly in vitro) on biomimetic zinc-carbonate hydroxyapatite (Zn-CHA) oral-care products — toothpastes (~86%) and mouthwashes (~10%).
+
+Multiple in vitro studies showed Zn-CHA provides enamel remineralization, erosion protection, and dentin-tubule occlusion for hypersensitivity; one RCT (Hegazy) found comparable remineralization of early lesions to fluoride mouthwash, and clinical trials reported reduced dentinal hypersensitivity even within 3–8 weeks.
+
+Evidence quality is moderate overall — dominated by in vitro studies with few RCTs — and Zn-CHA product compositions (HA percentage often undeclared) limit direct comparison with established fluoride and CPP-ACP systems.
+
+## 세줄요약
+
+생체모방 zinc-carbonate hydroxyapatite(Zn-CHA) 구강제품(치약 ~86%·구강세정제 ~10%)을 평가한 서술적 리뷰(Biomimetics 2023; PubMed/Scopus 2003–2023; 5065건 → 30편 포함; 대부분 in vitro).
+
+다수 in vitro 연구에서 Zn-CHA가 법랑질 재광화, 침식 보호, 상아세관 폐쇄(과민증 감소)를 보여줬으며; Hegazy RCT에서 초기 병소 재광화 효과가 불소 구강세정제와 유사했고, 임상 시험에서 3–8주 내 상아질 과민증(Dentinal Hypersensitivity, DH) 감소 보고.
+
+근거 수준은 전반적으로 중등도 — in vitro 연구 주도, RCT 부족 — 이며, 제품별 HA 함량 미공개로 불소 및 CPP-ACP 시스템과의 직접 비교가 제한됨.
 
 ## 1. Document Information
 - Biomimetics (Basel) 2023;8(1):71. MDPI. PMC9944842. DOI 10.3390/biomimetics8010071.

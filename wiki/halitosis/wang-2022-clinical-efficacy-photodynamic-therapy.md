@@ -13,13 +13,21 @@ source_collection: external
 tags: [halitosis, PDT, photodynamic-therapy, VSC, tongue-scraper, H2S, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 RCTs (n=345): PDT and PDT+tongue scraper significantly reduce H2S immediately post-treatment vs. tongue scraper alone, but this advantage disappears at all follow-up time points (7–90 days).
+SR+MA of 8 RCTs (n=345; databases searched through August 2022) evaluating photodynamic therapy (PDT) vs tongue scraper (TS) for halitosis management, with VSC outcomes at immediate, 7-, 14-, 30-, and 90-day time points.
 
-## 한줄요약
+PDT (MD −34.49, 95% CI −66.34 to −2.64, p=0.03) and PDT+TS (MD −67.72, 95% CI −101.17 to −34.28, p<0.001) significantly reduced H2S immediately post-treatment compared to TS alone, but no significant differences were found at any follow-up time point (7–90 days).
 
-8개 RCT(n=345) SR+MA: PDT 및 PDT+혀클리너는 직후 H2S 감소에서 혀클리너 단독보다 유의하게 우수(MD −34.49, −67.72)하나, 7~90일 추적에서 차이는 소실됨.
+PDT is effective for acute halitosis reduction but provides no long-term advantage over mechanical tongue cleaning; bacterial recolonization appears to occur, and PDT is best used as an adjunct for short-term social/esthetic situations.
+
+## 세줄요약
+
+구취 관리에서 광역동치료(PDT, Photodynamic Therapy) 대 혀 클리너(TS)를 비교한 8개 RCT(n=345, 2022년 8월까지) SR+MA; VSC 결과를 즉시·7·14·30·90일 시점에서 평가.
+
+PDT(MD −34.49, p=0.03)와 PDT+TS(MD −67.72, p<0.001)는 시술 직후 H2S 감소에서 TS 단독보다 유의하게 우수; 이후 모든 추적 시점(7–90일)에서 군간 유의한 차이 없음.
+
+PDT는 급성 구취 감소에 효과적이지만 장기적으로는 기계적 혀 청소와 동등 — 세균 재군집화가 원인; 단기 심미·사회적 목적의 보조 치료로 활용 가능.
 
 ## Summary
 

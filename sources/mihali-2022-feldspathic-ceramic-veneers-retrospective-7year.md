@@ -13,13 +13,23 @@ source_collection: external
 
 The veneers category holds several SR/MA papers (klein-2025, morimoto-2016) on survival rates but lacks a Romanian private-practice cohort specifically comparing vertical-prep vs. no-prep feldspathic veneers across five thickness groups. This paper adds a 7-year retrospective cohort with 170 veneers and thickness-stratified failure data, directly reinforcing [[wiki/veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] while extending it with detailed thickness-group comparisons.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=30 patients, 170 feldspathic ceramic veneers, 7 years) found 91.77% overall survival; fractures occurred at all thicknesses except 0.5 mm, with no significant difference between vertical-prep and no-prep methods.
 
-## 한줄요약
+Retrospective cohort (n=30 patients, 170 feldspathic ceramic veneers, 7 years) found 91.77% overall survival;
 
-후향적 코호트 연구 (30명, 170개 장석세라믹 비니어, 7년): 전체 생존율 (Survival Rate) 91.77%; 파절은 0.5 mm를 제외한 모든 두께군에서 발생, 수직삭제 (Vertical Prep) vs. 무삭제 (No-prep) 간 생존곡선 유의차 없음.
+fractures occurred at all thicknesses except 0.5 mm, with no significant difference between vertical-prep and no-prep methods.
+
+(incomplete)
+
+## 세줄요약
+
+
+후향적 코호트 연구 (30명, 170개 장석세라믹 비니어, 7년): 전체 생존율 (Survival Rate) 91.77%;
+
+파절은 0.5 mm를 제외한 모든 두께군에서 발생, 수직삭제 (Vertical Prep) vs.
+
+무삭제 (No-prep) 간 생존곡선 유의차 없음.
 
 ## 1. Document Information
 

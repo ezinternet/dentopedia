@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/fortea-2024-chelating-agents-endodontic-treatment-sr]]가 7% maleic acid를 포함했으나, 본 scoping review가 MA 단독으로 apical smear layer 제거·항균·접착 이점을 심화. EDTA 한계(특히 apical third) 대안 근거.
 
-## One-line Summary
+## Three-line Summary
+
 Scoping review (PRISMA-ScR) concluding 7% maleic acid is a potent root-canal irrigant with consistent superiority in apical smear-layer removal and adhesion/regeneration advantages, best at short (1–3 min) conditioning to limit erosion.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Scoping review: 7% 말레산(maleic acid)은 apical smear layer 제거에서 일관된 우월성과 접착·재생 이점을 가진 강력 세정제이며, 침식 최소화 위해 1–3분 단시간 적용이 최적.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Oral Health 2026;26:76 (article 12903-025-07361-9). Manipal. PRISMA-ScR + Arksey & O'Malley framework.

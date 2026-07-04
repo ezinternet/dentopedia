@@ -18,13 +18,22 @@ relations:
     target: samet-2023-immediate-placement-loading-esthetic-zone
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=50, healed maxillary anterior/premolar single-tooth sites): immediate loading (IL) vs delayed loading (DL) of single implants gave statistically equivalent 5-year survival (100% vs 95.8%), marginal bone loss (−0.50 vs −0.54 mm, p=0.782), papilla index, and PES/WES — the early DL papilla advantage disappears by 5 years and smoking, not loading protocol, drove bone loss (p=0.021).
+5-year prospective RCT (Malmö; n=50 healed maxillary single-tooth sites, anterior/premolar, IL eligibility ≥30 Ncm) comparing immediate loading (IL, n=24) versus delayed loading (DL, n=23) of BioHorizons Tapered Internal implants in the aesthetic zone.
 
-## 한줄요약
+IL and DL were equivalent across all 5-year outcomes: survival 100% vs 95.8%, marginal bone loss −0.50 vs −0.54 mm (p=0.782), papilla index, and PES/WES; the early DL papilla advantage seen at 1 year resolved by 5 years, and PES improved significantly 1→5 yr in both groups.
 
-무작위대조시험 (RCT, n=50, 치유된 상악 심미영역 단일치): 즉시부하 (Immediate Loading, IL)와 지연부하 (Delayed Loading, DL)는 5년 생존율(100% vs 95.8%), 변연골소실(−0.50 vs −0.54 mm, p=0.782), 치간유두지수, 분홍·백색 심미점수(PES/WES) 모두 통계적 차이 없음 — 초기 DL의 유두 우위는 5년이면 사라지고, 골소실을 가른 것은 부하 프로토콜이 아니라 흡연(p=0.021)이었다.
+Smoking — not loading protocol — was the only significant predictor of marginal bone loss (smokers −1.90 vs non-smokers −0.40 mm, p=0.021); for healed aesthetic-zone single-tooth sites with ≥30 Ncm primary stability, IL is as safe as DL at 5 years.
+
+## 세줄요약
+
+5년 전향 RCT (말뫼; n=50 치유된 상악 단일치 심미영역, 즉시부하 적격 기준 ≥30 Ncm) — BioHorizons Tapered Internal 임플란트의 즉시부하(IL, n=24) vs 지연부하(DL, n=23) 비교.
+
+5년 전체 지표 동등: 생존율 100% vs 95.8%, 변연골소실(Marginal Bone Loss, MBL) −0.50 vs −0.54 mm (p=0.782), 유두지수·분홍심미점수(PES)/백색심미점수(WES) 모두 비유의; 1년에 유의했던 DL 유두 우위는 5년에 소실, 양군 모두 PES 1→5년 유의하게 향상.
+
+골소실의 유일한 유의 예측인자는 흡연(흡연자 −1.90 vs 비흡연자 −0.40 mm, p=0.021), 부하 프로토콜 아님; 1차 안정성 충분한 치유 심미영역 단일치에서 IL은 5년 시점 DL만큼 안전.
+
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=11, 60 restorations, up to 3 years): CAD-CAM ceramic (e.max CAD) occlusal veneers achieved 100% survival vs 84.7% for composite resin (Lava Ultimate) in severe dental erosion — survival difference non-significant (P=.124), but composite resin showed significantly greater surface degradation (P=.003).
+Prospective parallel-group RCT (n=11 patients with severe dental erosion, 60 CAD-CAM occlusal veneers randomized per tooth to lithium disilicate ceramic e.max CAD or composite resin Lava Ultimate) evaluated using modified USPHS criteria over up to 3 years.
 
-## 한줄요약
+Kaplan-Meier survival was 100% (ceramic) vs 84.7% (composite resin; P=.124, NS); all 5 failures were restorable chipping events in the composite resin group; composite resin showed significantly greater surface roughness degradation (P=.003).
 
-전향적 무작위대조시험(RCT) (n=11명, 60개 수복물, 최대 3년): 중증 치아 침식증(dental erosion)에 CAD-CAM 초박형 교합면 비니어(occlusal veneer) — 세라믹(lithium disilicate, e.max CAD) 생존율 100% vs 복합레진(composite resin, Lava Ultimate) 84.7% (P=.124, 유의하지 않음), 레진군 표면 조도(surface roughness) 유의하게 증가 (P=.003).
+Both materials are clinically comparable in the short term, but the 15-percentage-point survival gap and significant surface degradation of Lava Ultimate raise long-term durability concerns; ceramic is preferable where longevity is paramount.
+
+## 세줄요약
+
+전향적 병렬군 무작위대조시험(RCT) (중증 치아침식증(dental erosion) 환자 11명, 교합면 비니어(occlusal veneer) 60개; 리튬 디실리케이트 세라믹 e.max CAD vs 복합레진(composite resin) Lava Ultimate 치아별 무작위 배정, 최대 3년 추적).
+
+카플란-마이어 생존율 세라믹 100% vs 복합레진 84.7% (P=.124, 비유의); 파절 5건 모두 복합레진군의 수리 가능한 칩핑이었고, 복합레진의 표면 조도(surface roughness) 유의하게 증가 (P=.003).
+
+단기 임상 성능은 두 재료가 유사하나, 복합레진의 15% 생존율 차이·표면 노화 문제로 장기 내구성이 우려되며 세라믹이 더 유리함.
 
 ## Summary
 

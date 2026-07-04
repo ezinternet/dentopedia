@@ -16,15 +16,23 @@ text_filename: oliveira-2024-periodontal-host-modulation-avocado-soybean.txt
 
 인사돌(Insadol)·이가탄 계열 OTC 치주약 surveillance ingest의 일부. 인사돌의 유효성분은 옥수수 불검화물(Zea mays unsaponifiable)이며, 본 논문이 다루는 ASU(avocado/soybean unsaponifiables, Piascledine)는 같은 기전 계열의 국제판 자매 불검화물 host-modulation 화합물이다. 동물모델에서 ASU의 치주 골소실 감소·치유 개선 근거를 [[wiki/periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]]의 Zea mays 불검화물 기전과 짝지어 보강하기 위해 인제스트.
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal study (rat ligature periodontitis + experimental arthritis, n=60): adjunctive avocado/soybean unsaponifiables (ASU, 0.6 mg/kg gavage) after scaling reduced periodontal bone loss and improved healing, blunting the worse outcomes seen in arthritic animals.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 동물실험(쥐 결찰 치주염 + 실험적 관절염, n=60): 스케일링 후 보조 ASU(아보카도/대두 불검화물, 0.6 mg/kg 위관투여)가 치주 골소실을 줄이고 치유를 개선했으며, 관절염 동물에서 악화된 결과를 완화함.
 
 > abstract-only — full text not retrieved. 모든 내용은 PubMed 초록에서만 추출했고 본문·도표는 확인하지 못함.
+
+(incomplete)
 
 ## 1. Document Information
 

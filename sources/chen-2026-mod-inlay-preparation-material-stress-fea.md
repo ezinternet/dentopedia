@@ -17,13 +17,21 @@ text_filename: chen-2026-mod-inlay-preparation-material-stress-fea.txt
 
 Existing inlay FEA/preparation-design pages ([[inlay/hofsteenge-2023-preparation-design-fracture-strength-disilicate-inlay]], [[inlay/wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea]]) examine fracture strength and onlay foundation stress, but none systematically crosses inlay *material elastic modulus* with *preparation depth × width* for MOD inlays. This 36-model FEA fills that gap, quantifying the material-geometry interaction and giving a concrete inlay-vs-onlay depth threshold (≤4 mm inlay / >4 mm onlay). It also extends the zirconia-inlay biomechanics theme of [[inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging]] by showing zirconia's cervical stress-concentration tradeoff.
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA (36 models, mandibular first molar, 100 N vertical + 30° oblique) showing MOD-inlay stress depends on material × preparation-dimension interaction: low-modulus resin-based ceramics distribute stress most uniformly (lowest inlay stress but highest remaining-tooth stress), zirconia is the opposite (highest inlay/cervical stress, lowest tooth stress); d=4 mm/w=4 mm is generally the lowest-inlay-stress configuration; authors propose inlay ≤4 mm depth, onlay >4 mm.
+3D finite element analysis (36 models, mandibular first molar: 4 materials × 3 depths × 3 widths, 100 N vertical + 30° oblique loading) examining how MOD inlay stress distribution depends on the interaction between material elastic modulus and preparation dimensions.
 
-## 한줄요약
+Low-modulus resin-based ceramics (RBCs, ~38 GPa) produced the lowest inlay stress but highest remaining-tooth stress; zirconia (210 GPa) showed the inverse pattern (highest inlay/cervical stress, lowest tooth stress); inlay stress was generally minimized at depth = 4 mm and width = 4 mm.
 
-3D 유한요소분석 (36개 모델, 하악 제1대구치, 100 N 수직 + 30° 사면하중) — MOD 인레이 응력은 재료 탄성계수 × 와동 깊이·폭 상호작용으로 결정. 저탄성 레진세라믹(RBCs)은 응력을 가장 균일하게 분산(인레이 응력 최저·잔존치질 응력 최고), 지르코니아는 정반대(인레이/치경부 응력 최고·잔존치질 응력 최저). 인레이 응력은 대개 깊이 4 mm/폭 4 mm에서 최소이며, 저자는 깊이 ≤4 mm 인레이·>4 mm 온레이를 제안.
+Clinically, the authors propose inlay for defects ≤4 mm depth and onlay for >4 mm, with material selection guided by remaining tooth structure; deep narrow preparations (d=6/w=2) pose hidden root-fracture risk that the model cannot detect.
+
+## 세줄요약
+
+3D 유한요소분석(36개 모델, 하악 제1대구치: 재료 4종 × 깊이 3종 × 폭 3종, 100 N 수직 + 30° 사면하중) — MOD 인레이 응력 분포가 재료 탄성계수 × 와동 깊이·폭 상호작용으로 결정되는지 검토.
+
+저탄성 레진세라믹(RBCs, ~38 GPa)은 인레이 응력 최저·잔존치질 응력 최고; 지르코니아(210 GPa)는 정반대(인레이/치경부 응력 최고·잔존치질 응력 최저); 인레이 응력은 대개 깊이 4 mm·폭 4 mm에서 최소.
+
+임상 제언: 와동 깊이 ≤4 mm → 인레이, >4 mm → 온레이; 재료 선택은 잔존치질 량 기준; 깊고 좁은 prep(d=6/w=2)은 모델로 탐지 불가능한 잠재적 치근파절 위험.
 
 ## 1. Document Information
 

@@ -9,7 +9,7 @@ pdf_filename: faiyazuddin-2025-ai-healthcare-comprehensive-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Health Sci Rep 2025;8(1):e70312 — narrative review of AI in broader healthcare (not dental-specific) covering ML, DL, NLP, robotics; documents publication growth 158 (3.54%) in 2014 → 731 (16.33%) in 2024 in Web of Science; flags data security and budget constraints as primary deployment barriers.
 
 ## 1. Document Information

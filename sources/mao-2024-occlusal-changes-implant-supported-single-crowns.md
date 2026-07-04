@@ -13,11 +13,21 @@ source_collection: external
 
 신설 occlusion 카테고리. [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]]의 4단계 연간 교합점검을 정량 SR+MA로 보강, [[overviews/bruxism-muscle-overload-axis]]와 연결.
 
-## One-line Summary
+## Three-line Summary
+
 SR+MA (RCT/CCT, >=10 patients) - occlusal contacts on implant-supported single crowns change over the first year after loading (relative infraocclusion vs adjacent teeth), supporting periodic occlusal re-checks.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 SR+MA(RCT/CCT, ≥10명) - 임플란트 단관은 부하 후 1년에 걸쳐 교합접촉이 변화(인접치 대비 상대적 저위교합) → 정기 교합 재점검 근거.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Journal of Dentistry 2024 (Charite Berlin) · Zhen Mao, Hannah Bleiel, Florian Beuer, Mats Wernfried Heinrich Bose, Maren Soetebeer · 2024 · DOI: 10.1016/j.jdent.2024.105000. Study type: sr+ma.

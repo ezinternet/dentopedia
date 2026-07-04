@@ -13,13 +13,23 @@ source_collection: external
 
 (주)해냄(HaeNaem Co.)의 두 번째 특허(콘덴싱 스크류 [[wiki/implants/kim-2019-double-spiral-condensing-screw-implant]] 와 짝). 자가골 채집(autogenous bone harvesting)용 드릴 기구로, 골채집은 골재생술의 이식재 공급원이므로 구강외과 술기 자산으로 보관 가치가 있다. 사용자 요청으로 함께 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
-Granted Korean patent (KR 10-2327565 B1; patentee HaeNaem Co.) for an autogenous bone-collector drill whose elastic stopper sleeve has a thin folding band that visibly indicates insertion depth and softens contact pressure, reducing patient pain versus rigid-cup collectors.
 
-## 한줄요약
+Granted Korean patent (KR 10-2327565 B1;
 
-(주)해냄 등록특허 10-2327565: 자가골 채집용 드릴조립체. 탄성스토퍼의 얇은 접힘밴드가 드릴 삽입깊이만큼 반경방향으로 펴지며 깊이를 외부로 표시하고, 종래 경질 수집통의 강한 가압 통증을 완화. 수집공으로 골·혈액을 채집.
+patentee HaeNaem Co.) for an autogenous bone-collector drill whose elastic stopper sleeve has a thin folding band that visibly indicates insertion depth and softens contact pressure, reducing patient pain versus rigid-cup collectors.
+
+(incomplete)
+
+## 세줄요약
+
+
+(주)해냄 등록특허 10-2327565: 자가골 채집용 드릴조립체.
+
+탄성스토퍼의 얇은 접힘밴드가 드릴 삽입깊이만큼 반경방향으로 펴지며 깊이를 외부로 표시하고, 종래 경질 수집통의 강한 가압 통증을 완화.
+
+수집공으로 골·혈액을 채집.
 
 ## 1. Document Information
 

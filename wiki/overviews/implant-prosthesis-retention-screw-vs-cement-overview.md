@@ -22,13 +22,21 @@ tags: [prosthetic-materials, screw-retained, cement-retained, scrp, retention]
 > - **Leung 2022 (서술적 종설)**: 시멘트유지를 택했을 때의 luting 재료 선택 backbone — 고강도 세라믹(지르코니아)엔 레진/CaAl-GI 계열, 주조금속 포스트코어엔 인산아연, 가철성 보철 전엔 비유게놀 임시시멘트. "모든 조건을 만족하는 단일 시멘트는 없다."
 > - **임상 종합**: 가능하면 회수성·잔류시멘트 회피 위해 나사계열(나사유지/SCRP) 우선, 단 SAH가 심미·교합을 해치거나 RA가 커 SCRP 불가 시 시멘트유지로 전환하고 이때 잔류시멘트 통제·적정 luting 재료를 선택. 신형 시멘트리스 나사유지·후크유지·BSRP는 FEA·단기 RCT 근거가 쌓이는 차세대 옵션.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 papers framing implant single-crown retention as a screw- vs cement- vs hybrid SCRP decision: screw-based modes give retrievability and avoid subgingival residual cement but need a non-esthetic screw-access hole; cement-retained gives passive-fit tolerance and esthetics but risks residual cement; SCRP combines both yet is anatomically feasible only ~52–79% of the time in maxillary premolars (Park 2022), with comparable clinical survival to detachable BSRP (Kim 2023) and FEA showing cementless screw-/hook-retained designs distribute stress more favorably than cement-retained or SCRP (Lee 2021, Lee 2025); Leung 2022 guides luting-agent choice when cementing.
+Synthesis of 5 papers on implant single-crown retention mode: screw-retained gives retrievability and zero subgingival residual cement risk; cement-retained allows passive-fit latitude and full esthetics but introduces residual-cement–driven peri-implantitis; hybrid SCRP combines both yet is anatomically feasible only 52–78.8% of the time in maxillary premolars, constrained by the ridge-angle discrepancy (Park 2022 CBCT, n=47; OR 1.885).
 
-## 한줄요약
+SCRP and a novel detachable ball-and-spring-retained prosthesis (BSRP) reach identical 100% survival at 12 months with no significant MBL difference (Kim 2023 RCT, n=64); FEA shows cementless screw-retained and hook-retained designs carry ~40–50% lower fixture stress than cement-retained or SCRP (Lee 2021, Lee 2025).
 
-임플란트 단일 크라운 유지(나사 vs 시멘트 vs 혼합 SCRP) 결정을 5편으로 종합 — 나사계열은 회수성·잔류시멘트 회피가 장점이나 나사접근홀 노출이 단점, 시멘트유지는 수동적합·심미가 장점이나 잔류시멘트가 위험, SCRP는 양쪽을 결합하지만 상악 소구치에서 해부학적으로 52~78.8%만 적용 가능(Park 2022); SCRP는 탈착형 BSRP와 생존율 동등(Kim 2023), FEA상 시멘트리스 나사·후크 유지가 시멘트유지·SCRP보다 응력분포 유리(Lee 2021·2025), 시멘트 선택 시 Leung 2022가 luting 재료 지침 제공.
+When cement retention is chosen, no single luting agent satisfies all requirements — resin/CaAl-GI for high-strength ceramics (zirconia), zinc phosphate for cast-metal post-cores, non-eugenol provisional before composite (Leung 2022 narrative review); prefer retrievable retention whenever angulation permits.
+
+## 세줄요약
+
+임플란트 단일 크라운 유지(나사 vs 시멘트 vs 혼합 SCRP) 5편 종합: 나사계열은 회수성·잔류시멘트 회피 장점이나 나사접근홀 위치 제약, 시멘트유지는 적합 여유·심미 장점이나 잔류시멘트 위험, SCRP는 양쪽 결합이지만 상악 소구치에서 해부학적으로 52–78.8%만 가능(Park 2022 CBCT, n=47, ridge angle OR 1.885).
+
+SCRP와 신형 탈착형 BSRP는 12개월 생존율 100% 동등·MBL 차이 없음(Kim 2023 RCT, n=64); FEA에서 시멘트리스 나사유지·후크유지가 시멘트유지·SCRP보다 임플란트 응력 40–50% 낮음(Lee 2021·2025).
+
+시멘트유지 선택 시 단일 만능 시멘트는 없음 — 고강도 세라믹(지르코니아)엔 레진/CaAl-GI, 주조금속 코어엔 인산아연, 복합레진 전 임시고정엔 비유게놀 계열(Leung 2022); 해부학적으로 가능하면 회수성 계열 우선.
 
 ## Summary
 

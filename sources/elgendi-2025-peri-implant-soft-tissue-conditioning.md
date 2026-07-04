@@ -10,7 +10,7 @@ pdf_filename: elgendi-2025-peri-implant-soft-tissue-conditioning.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT: 구치부 즉시식립 시 CAD-CAM socket sealing abutment (SSA) 사용으로 점막 emergence profile 형성 — 무피판 sealing 어려운 큰 발치와에 해부학적 healing abutment 적용; 연조직 conditioning 우위 평가.
 
 ## 1. Document Information

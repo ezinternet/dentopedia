@@ -9,7 +9,7 @@ pdf_filename: heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Minipig in vivo study (COIR 2021): novel test drills with optimized design and surface treatment, used in a shortened drill sequence, produced significantly lower peak osteotomy temperatures (35.4°C vs 46.5°C) and significantly higher BIC at 2 and 8 weeks compared to control drills.
 
 ## 1. Document Information

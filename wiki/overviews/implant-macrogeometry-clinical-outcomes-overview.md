@@ -27,13 +27,21 @@ tags: [macrogeometry, tapered, cylindrical, neck-design, primary-stability, ISQ,
 > - **임상 결론**: 거대형태 선택은 골질을 먼저 평가하고 수술 술식 표준화가 우선; 저밀도골에서는 테이퍼드 + 깊은 나사 설계가 합리적 조합; 넥 디자인은 현재 증거만으로는 선택 기준이 되기 어려움.
 > - **근거 수준(Evidence Level)**: 1차 논문 중 RCT 2개는 초록만 확보(abstract-only) — 절대값 데이터 부재; FEA 2개는 생체 내 적용에 외삽 한계 있음.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of six papers (2 RCTs, 1 landmark review, 1 narrative review, 2 FEAs) on implant macrogeometry: surgical technique outweighs implant shape for early stability; tapered designs raise insertion torque but not 6-week ISQ; neither triangular nor round neck design demonstrates superiority at 12 months; thread depth matters most in low-density bone (D3/D4), where deeper threads cut crestal stress ~40%.
+Synthesis of six papers (2 RCTs, 1 landmark review, 1 narrative review, 2 FEAs) on implant macrogeometry: surgical technique (drilling under-preparation protocol) outweighs implant shape as the dominant determinant of primary stability — tapered implants achieve higher insertion torque but cylindrical implants show higher ISQ/IST at 6 weeks (Mourão 2025 RCT appraisal), and a split-mouth RCT confirms that healing-chamber macrogeometry can seat at lower insertion torque yet reach equivalent ISQ with lower early TNF-α (Bhattacharya 2025).
 
-## 한줄요약
+Neither triangular nor round neck cross-section demonstrates superiority at 12 months for MBL, probing depth, buccal bone width, or soft-tissue thickness (Chrcanovic 2025 RCT, n=36, immediate anterior maxilla), leaving neck design evidence-neutral; tapered forms generate higher crestal cortical von Mises stress than cylindrical across all bone types (Hussein 2019 FEA), but thread depth optimization in D3/D4 bone cuts crestal stress ~40% and displacement ≥9% (Chang 2024 FEA).
 
-임플란트 거대형태 6편 종합 (RCT 2, 기념비적 논문 1, 서술적 고찰 1, FEA 2): 수술 술식이 형태보다 초기 안정성에 더 큰 영향; 테이퍼드는 삽입 토크 높지만 6주 ISQ는 실린더가 우세; 넥 디자인 차이는 12개월 MBL·연조직 결과에 미반영; D3·D4 저밀도골에서 나사 깊이 증가가 crestal 응력 ~40% 절감.
+Clinical framework: select macrogeometry bone-quality-driven (tapered + deeper threads for D3/D4; either design in D1/D2 healed bone); optimize drilling protocol first since technique eclipses shape; and do not choose neck cross-section on current evidence.
+
+## 세줄요약
+
+임플란트 거대형태 6편 종합(RCT 2, 기념비적 리뷰 1, 서술고찰 1, FEA 2): 수술 술식(드릴 과소 삭제 프로토콜)이 임플란트 형태보다 초기 안정성의 더 강력한 결정인자 — 테이퍼드가 삽입토크는 높지만 6주 ISQ는 실린더형이 더 높고(Mourão 2025), 치유챔버 거대형태는 낮은 삽입토크에도 동등 ISQ + 낮은 초기 TNF-α를 달성(Bhattacharya 2025 RCT).
+
+삼각형 vs 원형 넥 디자인은 12개월 MBL·탐침깊이·협측골폭·연조직두께에서 차이 없음(Chrcanovic 2025 RCT, n=36) — 현재 증거 중립; 테이퍼드 형태는 모든 골질에서 치조정 피질골 응력이 실린더보다 높으나(Hussein 2019 FEA), D3/D4 골에서 나사 깊이 증가가 치조정 응력 ~40%·변위 ≥9% 감소(Chang 2024 FEA).
+
+임상 프레임: 거대형태는 골질 기반으로 선택(D3/D4에 테이퍼드+깊은 나사, D1/D2 치유골은 무관), 드릴 프로토콜 최적화가 형태 선택보다 우선, 넥 디자인은 현재 근거로 선택 근거 없음.
 
 ## Thesis
 

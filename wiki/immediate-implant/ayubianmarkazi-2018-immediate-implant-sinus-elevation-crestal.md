@@ -13,11 +13,21 @@ source_collection: external
 tags: [immediate-implant, transcrestal-sinus-lift, posterior-maxilla, early-loading, baosfe]
 ---
 
-## One-line Summary
-Retrospective case series (19 patients, 22 maxillary molar implants): immediate implant placement (IIP) combined with simultaneous transcrestal sinus floor elevation (Summers' BAOSFE) and early loading at 6-8 weeks showed, over a mean 33.12-month follow-up, 100% implant survival, 95.45% success (Buser criteria), and negligible mean crestal bone loss (−0.054 ± 0.56 mm).
+## Three-line Summary
 
-## 한줄요약
-후향적 케이스 시리즈(상악구치부 즉시식립 22개): 즉시식립(Immediate Implant Placement, IIP) + 동시 경치조골 상악동거상술(Bone-Added Osteotome Sinus Floor Elevation, BAOSFE) + 조기 부하 프로토콜에서 평균 33.12개월 추적 시 생존율 100%, 성공률 95.45%, 변연골 흡수 평균 −0.054 mm로 보고.
+Retrospective case series (19 patients, 22 maxillary molar implants, JAPID 2018) combining immediate implant placement (IIP), simultaneous transcrestal BAOSFE sinus floor elevation, and early loading at 6–8 weeks in a single visit.
+
+Over a mean 33.12-month follow-up (max 5 years), implant survival was 100%, success rate 95.45% (Buser criteria), and mean crestal bone loss was negligible (−0.054 ± 0.56 mm); 31.8% of surfaces showed net coronal bone gain.
+
+This triple-combination protocol is feasible when ≥5–6 mm of native interradicular bone is available, but the retrospective uncontrolled design and small n limit generalizability beyond a proof-of-concept level.
+
+## 세줄요약
+
+후향적 케이스 시리즈(n=19명, 22개 임플란트, JAPID 2018): 상악 구치부에서 즉시식립(IIP)+경치조골 상악동거상술(BAOSFE)+6–8주 조기 부하를 단일 방문으로 결합.
+
+평균 33.12개월 추적(최대 5년): 생존율 100%, Buser 성공률 95.45%, 평균 변연골 소실 −0.054 ± 0.56 mm; 31.8%의 임플란트 면에서 관상측 골 증가 관찰.
+
+고유 치간 격벽 골이 ≥5–6 mm 확보된 경우 세 술식의 단일 방문 병합이 가능하나, 후향적 비대조 소규모 설계로 일반화에는 한계가 있다.
 
 ## Summary
 This retrospective case series followed 19 patients (22 implants) who received immediate implant placement into fresh maxillary molar sockets combined with simultaneous transcrestal sinus floor elevation (Summers' BAOSFE) and early loading at 6–8 weeks. Over a mean 33.12-month follow-up, 100% implant survival and 95.45% success (Buser criteria) were observed, with negligible mean crestal bone resorption (−0.054 ± 0.56 mm).

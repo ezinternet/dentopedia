@@ -17,13 +17,21 @@ text_filename: kucukkurt-2026-comparison-five-anesthetic-delivery.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=200, 5-arm, single-blind) comparing conventional syringe, manual pressure syringe (MCJ), spring-activated pressure syringe (PCJ), needle-free jet injector (NFI), and CCLAD for palatal infiltration in adults: no clinically meaningful difference in post-injection pain across devices (p=0.380, all Hedges' g<0.20), but the spring-activated pressure syringe (PCJ) achieved the largest fear reduction and CCLAD produced the largest transient pulse-rate rise.
+Prospective 5-arm single-blind RCT (n=200, 40/arm) comparing five palatal infiltration devices — conventional syringe (CDS), manual pressure (MCJ), spring-activated push-button (PCJ), needle-free jet (NFI), and CCLAD — delivering 0.4 mL 4% articaine in healthy adults undergoing maxillary molar extraction.
 
-## 한줄요약
+Post-injection pain showed no clinically meaningful difference across devices (overall p=0.380; all Hedges' g<0.20 below MCID); fear reduction was greatest with PCJ (ΔVAS −2.70, p<0.001 vs CDS); CCLAD produced the largest transient pulse-rate rise (+6.2 bpm vs CDS, p=0.025).
 
-RCT(n=200, 5군, 단일눈가림)로 구개 침윤마취에서 통상 주사기·수동압력주사기(MCJ)·스프링식압력주사기(PCJ)·바늘없는 분사주입기(NFI)·컴퓨터제어전달장치(CCLAD)를 비교 — 통증은 임상적으로 유의한 차이 없었으나(p=0.380, 모든 Hedges' g<0.20), PCJ가 치과공포 감소 폭이 가장 컸고 CCLAD는 주사 중 맥박 상승이 가장 컸음.
+Device selection should be individualized by patient anxiety profile — PCJ or CCLAD for anxious patients, NFI for pronounced needle phobia despite modest benefit on palate, CDS as a low-cost default when skillfully used.
+
+## 세줄요약
+
+5군 단일눈가림 RCT(n=200, 군당 40명): 구개 침윤마취에서 통상 주사기(CDS)·수동압력(MCJ)·스프링식(PCJ)·바늘없는 분사(NFI)·컴퓨터제어전달(CCLAD)의 4% articaine 0.4 mL 전달 비교 — 건강한 성인 상악 대구치 발치 모델.
+
+술후 통증은 5군 간 임상적으로 유의한 차이 없음(전체 p=0.380, 모든 Hedges' g<0.20 이하); 치과공포 감소 PCJ 최대(ΔVAS −2.70, vs CDS p<0.001); CCLAD가 주사 중 맥박 상승 최대(+6.2 bpm, p=0.025).
+
+기기 선택은 환자 불안 프로파일에 따라 개별화 — PCJ·CCLAD는 불안환자, NFI는 주사침 공포 심한 경우, CDS는 숙련된 경우 저비용 기본 옵션.
 
 ## Summary
 

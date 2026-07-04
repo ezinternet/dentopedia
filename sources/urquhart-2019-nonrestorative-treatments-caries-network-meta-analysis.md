@@ -13,11 +13,21 @@ source_collection: external
 
 비복원 우식관리의 여러 중재를 동시에 순위화한 ADA NMA — 단일 중재 SR들을 통합. [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]](실란트 vs 바니시)와 [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]]를 상위 비교 프레임으로 묶는 anchor.
 
-## One-line Summary
+## Three-line Summary
+
 SR + network meta-analysis (informing the ADA clinical practice guideline) ranking nonrestorative caries treatments — silver diamine fluoride (SDF) and sealant + fluoride combinations rank among the most effective for arresting/reversing lesions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 체계적문헌고찰+네트워크 메타분석(ADA 임상진료지침 근거): 비복원 우식치료를 순위화 — 은나노다이아민불소(SDF)와 실란트+불소 조합이 병변 정지·역전에 가장 효과적인 축에 속함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of Dental Research 2019;98(1):14–26. ADA Council on Scientific Affairs expert panel. Informs Slayton 2018 JADA guideline.

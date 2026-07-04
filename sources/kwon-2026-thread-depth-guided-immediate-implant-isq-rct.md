@@ -17,11 +17,21 @@ text_filename: kwon-2026-thread-depth-guided-immediate-implant-isq-rct.txt
 
 ISQ/RFA 2026 surveillance에서 추출한 신규 RCT. 기존 isq 카테고리의 macro-design→1차 안정성 근거([[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]], [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]])는 대부분 healed ridge·in vitro 기반인데, 본 RCT는 thread depth 효과를 **즉시식립+fully guided** 라는 복잡 시나리오에서 직접 검증해 그 외삽 가능성을 한정한다. 또 [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]](osteotomy→ISQ)와 짝을 이뤄 "무엇이 immediate ISQ를 정하는가"의 implant-design 축을 보강. thread depth가 IT는 올리지만 longitudinal ISQ·MBL은 동등하고 오히려 angular deviation을 키운다는 결과는 digital-workflow 정확도 논의([[digital-workflow]])와도 연결.
 
-## One-line Summary
+## Three-line Summary
+
 Single-blinded RCT (n=54, 3 arms) in fully guided immediate placement: deeper thread depth raised insertion torque (more sites ≥40 Ncm) but did NOT improve longitudinal ISQ/ISV or 12-mo MBL, and significantly increased angular deviation (MST vs MDT p=0.029), worst in mandibular molars.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 완전가이드 즉시식립 RCT(54개, 3군): thread depth를 깊게 하면 식립토크는 올라가도(≥40 Ncm 비율↑) 시간에 따른 ISQ·ISV와 12개월 변연골은 동등했고, thread depth만 다른 두 군 비교에서 각도편차는 오히려 유의하게 커졌다(p=0.029, 특히 하악 대구치).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - RCT, single-blinded, 3-arm parallel; Yonsei University Dental Hospital (IRB 2-2020-0101). Aug 2021–May 2025. CONSORT 2025. Trial reg KCT0009402 (retrospective).

@@ -46,13 +46,21 @@ relations:
 > - **Ali 2026 추가 (분할구 RCT, n=7, 상악 전치부)**: Densah bur OD → ISQ 70.1 (즉시부하 임계 달성), Magnetic Mallet OD → ISQ 49.0 (미달) (p<0.001). 상악 전치부 얇은 치조제에서 Magnetic Mallet은 합병증(협측골판 파절, 구개측 균열) 2건 발생 — 학습곡선 급격함. Densah bur가 심미 구역 OD의 1차 선택. [rct, n=7 — 예비적]
 > - 도구 비교는 [합의수준], 임계값은 [근거강함], 영향 변수는 [근거강함]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis/decision-ladder over the `implants/isq/` sub-category (~31 papers) organizing Implant Stability Quotient (ISQ) / Resonance Frequency Analysis (RFA) along 3 axes — measurement device (Osstell vs Periotest, SmartPeg torque), loading threshold, and influencing variables (cortical thickness, macro-design, bone quality). Core thesis: ISQ ≥70 at placement or ≥65 after 4–6 weeks of healing is the early/immediate-loading threshold (with +3 for MSFA/GBR, +2 for Type IV bone), cortical bone thickness and tapered/platform macro-design are the dominant determinants of ISQ while length/diameter matter less, and Osstell is the recommended first-line tool — preassess cortical thickness on CBCT to predict ISQ.
+Decision-ladder synthesis of ~31 ISQ/RFA papers across 3 axes: (1) measurement device — Osstell (ISQ 1–100) recommended over Periotest for interpretability, SmartPeg torque ≥10 Ncm required for accuracy; Anycheck (DCA) is a valid operator-independent alternative; (2) loading threshold — ISQ ≥70 at placement OR ≥65 after 4–6 weeks is the early/immediate-loading cutoff, with immediate loading additionally requiring IT ≥35 Ncm (Andersson 2019 n=745; Wittneben 2023 SR); Type IV bone normally runs ISQ 58–65 — do not auto-delay.
 
-## 한줄요약
+Cortical bone thickness at <3 mm depth is the dominant ISQ determinant (r=0.885; Chatvaratthana 2017 prospective n=19); tapered design and wider diameter (+3.4 to +4.2 per mm diameter at secondary stability; Huang 2017 n=557 multivariate regression) matter more than implant length; CBCT cortical-thickness assessment before placement allows ISQ prediction and loading-decision planning.
 
-ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결정 3축 — 측정 도구 (Osstell vs Periotest) · 임계값 (loading decision) · 변수 (cortical 두께·macro-design·bone quality). 본 wiki sub-category `implants/isq/` 31 paper의 spine.
+ISQ and insertion torque (IT) are complementary, not interchangeable — their correlation is only r=0.44 with I²>90% (Tisci 2026 SR+MA), so both should be measured; use +3 ISQ correction for sinus-lift or GBR simultaneous placement, +2 for Type IV bone; fresh extraction sockets give artificially low ISQ (~57 vs healed bone ~72) — use IT (≥35 Ncm) as primary criterion there.
+
+## 세줄요약
+
+ISQ/RFA 31편 의사결정 ladder 3축: (1) 측정 도구 — Osstell(ISQ 1–100, 직관적) 1차 권장, SmartPeg 토크 ≥10 Ncm 표준화 필수, Anycheck(DCA)는 측정자 독립적 대안; (2) 임계값 — 식립 시 ISQ ≥70 또는 4–6주 후 ≥65가 조기/즉시 부하 기준, 즉시 부하는 추가로 IT ≥35 Ncm 필요(Andersson 2019 n=745; Wittneben 2023 SR); Type IV 골은 ISQ 58–65가 정상분포 — 자동 지연 결정 금지.
+
+피질골 두께(3 mm 이내)가 ISQ의 지배적 결정인자(r=0.885, Chatvaratthana 2017 전향적 n=19); 테이퍼 디자인·넓은 직경(직경 1 mm당 2차 안정성 ISQ +3.4~+4.2, Huang 2017 n=557 다변량)이 임플란트 길이보다 더 중요; CBCT로 식립 전 피질골 두께 평가 시 ISQ 예측 가능.
+
+ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+MA) — 둘 다 측정 권장; 상악동거상/GBR 동시식립은 ISQ +3, Type IV 골은 +2 보정; 신선 발치와는 ISQ 인위적 저하(~57 vs 치유골 ~72) — IT 우선 기준으로.
 
 ## Summary
 

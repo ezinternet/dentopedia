@@ -13,13 +13,21 @@ source_collection: external
 
 급성 치주농양과 치근단농양의 감별진단 및 비외과적 처치(항생제·배농·스케일링) 프로토콜을 보여주는 증례로, 치주 응급처치 의사결정에 참고가 된다. 치주 질환 분류·진단 맥락의 [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]]을 임상 응급 증례 측면에서 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 58-year-old man) of an acute periodontal abscess on a vital mandibular left central incisor that radiographically and clinically mimicked an acute apical abscess; resolved with antibiotics (amoxicillin + metronidazole), chlorhexidine, scaling/drainage rather than endodontic therapy — emphasizing pulp vitality testing for differential diagnosis.
+Case report (n=1, 58-year-old man, Qassim University, Saudi Arabia) of an acute periodontal abscess presenting with periapical radiolucency, fever, and lymphadenopathy that clinically and radiographically mimicked an acute apical abscess.
 
-## 한줄요약
+Pulp sensibility testing (thermal + electric) confirmed all mandibular incisors vital; treatment with amoxicillin 500 mg + metronidazole 500 mg TID × 7 days plus chlorhexidine and scaling/drainage achieved complete healing by 1 week with radiographic signs of healing at 3 months.
 
-증례보고(n=1, 58세 남성): 하악 좌측 중절치에 발생한 급성 치주농양이 임상·방사선상 급성 치근단농양처럼 보였으나, 치수생활력 검사로 생활치임을 확인 후 항생제(아목시실린+메트로니다졸)·클로르헥시딘·스케일링/배농으로 치료한 사례로, 감별진단에서 치수 생활력 검사의 중요성을 강조함.
+Pulp vitality testing is the decisive differential diagnostic step — correctly identifying the periodontal etiology avoided unnecessary root canal treatment, and the tooth was retained with a good prognosis.
+
+## 세줄요약
+
+증례보고(n=1, 58세 남성, 사우디 카심대): 하악 좌측 중절치에 발생한 급성 치주농양이 치근단 방사선투과상·발열·림프절종창으로 급성 치근단농양처럼 보임.
+
+열·전기 치수생활력 검사로 생활치 확인 후 아목시실린+메트로니다졸 TID×7일+클로르헥시딘+스케일링/배농으로 치료 → 1주 내 완전 치유, 3개월 방사선상 치유 소견.
+
+치수생활력 검사가 감별진단의 핵심 — 치주원인을 정확히 진단하여 불필요한 근관치료를 예방했으며, 치아 보존에 성공; 치근단농양과의 감별에서 항상 치수검사를 우선해야 한다는 점을 강조.
 
 ## 1. Document Information
 

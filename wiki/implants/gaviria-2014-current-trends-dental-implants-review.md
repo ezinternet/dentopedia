@@ -16,13 +16,21 @@ relations:
     target: buser-2017-modern-implant-dentistry-osseointegration-50years
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Invited narrative review (JKAOMS 2014) covering dental implant history from 600 AD through Brånemark's osseointegration discovery, endosseous implant design parameters, and surface modification strategies (SLA, HA coating, growth factors) with emerging functionalization trends.
+Invited narrative review (JKAOMS 2014, biomedical engineering perspective) covering dental implant science from history (600 AD Maya through 1957 Brånemark osseointegration discovery) to current endosseous implant design parameters and surface modification strategies.
 
-## 한줄요약
+Threaded endosseous implants: ~95.5% survival vs smooth implants 75.4%; ~450,000 implants placed per year globally (2014); SLA surface combination (blasting + acid-etching) established as clinical gold standard; HA coating offers early osseointegration gains with long-term delamination concerns.
 
-서사적 총론(JKAOMS 2014): 600년대 마야 임플란트부터 Brånemark의 골유착 발견까지 역사, 골내 임플란트 설계 파라미터(나사산·직경·길이·어버트먼트 연결), SLA·HA코팅·성장인자를 포함한 표면처리 전략 및 신흥 표면기능화 동향 종합 정리.
+Useful structured primer linking biomaterial science to macro design parameters; no primary data, no systematic search; authored by engineers rather than clinicians — emerging trends (drug-eluting surfaces, zirconia, smart implants) now partially realized.
+
+## 세줄요약
+
+초청 서사적 총론 (JKAOMS 2014, 생의공학 시각): 600년대 마야 임플란트~1957년 Brånemark 골유착 발견의 역사, 나사산·직경·길이·어버트먼트 연결 등 설계 파라미터, SLA·HA코팅·성장인자 표면처리 전략 체계적 정리.
+
+나사형 임플란트 ~95.5% vs 매끈형 75.4% 생존율; 2014년 기준 연간 ~45만 개 식립; SLA 표면(샌드블라스팅+산에칭)이 골유착 황금표준; HA 코팅은 초기 골유착 이점이나 장기 박리 우려.
+
+임상가보다 공학자 시각의 입문서; 1차 데이터 없음; 신흥 트렌드(약물용출·지르코니아·스마트 임플란트)는 현재 일부 실현됨 — 역사·설계 이론 배경으로 활용 가능.
 
 ## Summary
 

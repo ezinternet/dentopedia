@@ -9,7 +9,7 @@ pdf_filename: feng-2024-autogenous-particulated-dentin-graft-arp.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review + meta-analysis of 10 RCTs (n = 182 patients) comparing autogenous particulated dentin (APD) against blood clot healing (BCH) or other grafted materials (OGM) for alveolar ridge preservation (ARP); APD better maintained horizontal ridge width (MD 1.61 mm vs BCH; 1.28 mm vs OGM) and labial bone height (MD 1.75 mm vs BCH), with higher vital bone area (MD +10.51%) and lower residual graft area (MD -8.76%) versus OGM.
 
 ## 1. Document Information

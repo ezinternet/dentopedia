@@ -13,11 +13,21 @@ source_collection: external
 tags: [CBCT, sinus-septa, Underwood-septa, lateral-window, perforation-risk, classification, Turkish-cohort]
 ---
 
-## One-line Summary
-Retrospective cross-sectional CBCT study (300 individuals) of maxillary sinus septa found 91.7% were mediolateral and 40.0% located in the premolar region; using a modified seven-class radiographic risk system, predicted Schneiderian membrane (SM) perforation risk was most often Class I (33.0%) and Class III (32.7%), with septum location significantly associated with predicted risk (p<0.001) while posterior dentition status and septum orientation were not.
+## Three-line Summary
 
-## 한줄요약
-콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 후향 분석 (300명): 상악동 격벽은 91.7%가 내외측 (mediolateral) 방향이고 40.0%가 소구치 영역에 위치, 변형 7급 방사선학적 위험 분류 상 슈나이더리안 막 (Schneiderian Membrane, SM) 천공 위험 1급 33.0%·3급 32.7%가 가장 흔함. 격벽 위치는 위험과 유의한 연관 (p < 0.001), 잔존 치아 수 및 격벽 방향은 무관.
+Retrospective cross-sectional CBCT analysis (n=300, mean age 43.5 years) of maxillary sinus septa morphology, location, and orientation to predict Schneiderian membrane (SM) perforation risk using a modified seven-class radiographic risk classification.
+
+Septa were predominantly mediolateral (91.7%) and most often in the premolar region (40.0%); predicted SM perforation risk was most often Class I (33.0%) and Class III (32.7%); septum location was significantly associated with predicted risk (p<0.001), while posterior dentition status and orientation were not.
+
+Preoperative CBCT for septal location (not just presence or orientation) is the most informative planning step; female sex was associated with higher moderate predicted risk; predicted risk was not surgically validated.
+
+## 세줄요약
+
+후향적 횡단면 콘빔 전산화 단층촬영 (CBCT) 분석 (n=300, 평균 43.5세): 상악동 격벽 (Underwood Septa) 형태·위치·방향을 변형 7급 방사선학적 위험 분류로 슈나이더 막 (Schneiderian Membrane, SM) 천공 위험 예측.
+
+격벽은 91.7%가 내외측 (Mediolateral) 방향이며 40.0%가 소구치 영역; 예측 SM 천공 위험은 1급 (33.0%)·3급 (32.7%)이 가장 흔함; 격벽 위치는 위험과 유의 연관 (p<0.001), 치아 보유 수 및 격벽 방향은 무관.
+
+술 전 CBCT에서 격벽 위치 (방향이나 단순 유무보다 중요)가 가장 유용한 계획 정보; 여성에서 중등도 예측 위험 높음; 예측 위험이므로 수술적 검증은 없음.
 
 ## Summary
 Retrospective CBCT study of 300 individuals characterizing maxillary sinus septa (presence, orientation, location) and using a modified seven-class radiographic risk system to stratify predicted Schneiderian membrane (SM) perforation likelihood during lateral-window sinus floor augmentation (SFA). Septa were predominantly mediolateral (the surgically problematic orientation) and most often in the premolar region. **Septum location** was the single significant morphologic predictor of predicted risk; sex (female) was associated with higher moderate risk; posterior dentition status and orientation were not. Risk was *radiographically predicted, not surgically confirmed*.

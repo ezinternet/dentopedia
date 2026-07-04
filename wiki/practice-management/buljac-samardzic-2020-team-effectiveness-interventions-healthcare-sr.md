@@ -20,13 +20,21 @@ relations:
     target: dental-workforce-delegation-skill-mix-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (GRADE; 297 studies, 2008–Jul 2018, 7 databases) of healthcare team-effectiveness interventions organized into a 3+1 taxonomy — training (CRM/TeamSTEPPS/simulation), tools (SBAR/(de)briefing checklists/rounds/technology/monitoring), organizational redesign, and combined programmes; training is the most-studied and **principle-based + simulation-based training offer the greatest chance of improving (mostly non-technical) team functioning**, predominantly in acute hospital settings on low-to-moderate evidence.
+Systematic review (GRADE; 6,025 screened, 297 included studies from 7 databases, 2008–July 2018, PRISMA) covering all healthcare settings and study designs, updating the authors' 2008 review, and organizing interventions into a 3+1 taxonomy: training (principle-based CRM/TeamSTEPPS, simulation-based, general team training), tools (SBAR/(de)briefing checklists/rounds/technology/monitoring), organizational redesign, and combined programmes.
 
-## 한줄요약
+Principle-based training (CRM, TeamSTEPPS) and simulation-based training provide the greatest opportunity to improve team functioning; (de)briefing checklists are the best-supported tool; most studies target non-technical skills in acute hospital settings on low-to-moderate evidence; combined programmes (CUSP, MTT) are diverse but promising.
 
-SR(GRADE·297편·2008~2018·7개 DB): 의료팀 효과성 향상 중재를 3+1 분류(훈련[CRM/TeamSTEPPS/시뮬레이션]·도구[SBAR/체크리스트/라운드]·조직 재설계·복합 프로그램)로 정리. 훈련이 가장 많이 연구됐고, 원리기반 훈련(CRM·TeamSTEPPS)과 시뮬레이션 기반 훈련이 (주로 비기술적) 팀 기능 개선 가능성이 가장 높았음. 대부분 급성기 병원·낮은 근거수준.
+For dental practice application (an extrapolation — none of the 297 studies was dental), the transferable signal is that structured team training (CRM/TeamSTEPPS-style) and simulation are the highest-yield investments, while standalone communication tools like SBAR rest on weaker evidence.
+
+## 세줄요약
+
+계통고찰 (GRADE; 6,025 검색·297편 포함·7개 DB·2008~2018년 7월): 모든 의료 환경·연구설계를 포괄해 의료팀 효과성 향상 중재를 3+1 분류(훈련[원리기반 CRM/TeamSTEPPS·시뮬레이션·일반팀훈련]·도구[SBAR·브리핑체크리스트·라운드·기술·모니터링]·조직재설계·복합 프로그램)로 정리.
+
+원리기반 훈련(CRM·TeamSTEPPS)과 시뮬레이션 기반 훈련이 팀 기능 개선 가능성 최고; 브리핑 체크리스트가 가장 근거 있는 도구; 대부분 비기술적 스킬 대상, 급성기 병원 중심, 근거 수준은 낮음~중간.
+
+치과 적용(외삽): 독립적 SBAR 등 단일 도구보다 CRM/TeamSTEPPS 방식의 구조화된 팀 훈련과 시뮬레이션이 더 높은 효과를 기대할 수 있음.
 
 ## Summary
 

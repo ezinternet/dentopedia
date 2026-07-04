@@ -16,13 +16,21 @@ text_filename: brunello-2026-nonsurgical-peri-implant-mucositis-sr.txt
 
 Extends the existing narrative review [[wiki/implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] by adding a systematic, risk-of-bias-appraised synthesis (21 studies, 1068 patients): mechanical debridement alone improves clinical parameters, and adjuncts (laser, air-polishing, antimicrobials, probiotics, antibiotics) add only minor improvements at 6 months. Also contextualizes prevention-focused [[wiki/implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] on the treatment side.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (21 studies — 19 RCTs, 2 NRCTs; 1068 patients) of nonsurgical peri-implant mucositis therapy: all protocols including mechanical debridement alone reduced BOP and improved clinical parameters, with mucositis resolution ranging 9%–100%; adjuncts yielded only minor additional benefit at 6 months, and a planned network meta-analysis could not be performed due to data scarcity and heterogeneity.
+Systematic review of 21 controlled studies (19 RCTs, 2 NRCTs; 1,068 patients) evaluating nonsurgical peri-implant mucositis therapy with ≥6 months follow-up; search window May 2015–April 2025.
 
-## 한줄요약
+All protocols including mechanical debridement alone reduced bleeding on probing and improved clinical parameters; mucositis resolution ranged 9%–100%, and adjunctive therapies (laser, air-polishing, antimicrobials, probiotics, antibiotics) added only minor benefit at 6 months.
 
-임플란트주위 점막염(peri-implant mucositis)의 비외과적 치료를 다룬 체계적 문헌고찰(21편 — RCT 19편·NRCT 2편, 환자 1068명): 기계적 변연부 청소(mechanical debridement) 단독을 포함한 모든 프로토콜이 출혈(BOP)을 줄이고 임상지표를 개선했으며 점막염 해소율은 9%~100%로 편차가 컸고, 보조요법(레이저·air-polishing·항균제·프로바이오틱스·항생제)은 6개월 시점에서 미미한 추가 효과만 보였다. 데이터 부족과 이질성으로 네트워크 메타분석(NMA)은 수행하지 못했다.
+A planned network meta-analysis was not feasible due to data scarcity and heterogeneity; only one-third of studies had low risk of bias, highlighting the need for standardized outcomes.
+
+## 세줄요약
+
+임플란트주위 점막염(Peri-implant Mucositis) 비외과적 치료를 대상으로 한 체계적 문헌고찰(21편 — RCT 19편·NRCT 2편, 환자 1,068명), 추적 ≥6개월, 검색 기간 2015.5–2025.4.
+
+기계적 변연부 청소(Mechanical Debridement) 단독을 포함한 모든 프로토콜이 탐침출혈(Bleeding on Probing, BOP)을 줄이고 임상지표를 개선했으며, 점막염 해소율은 9%~100%로 편차가 컸고 보조요법(레이저·에어폴리싱·항균제·프로바이오틱스·항생제)은 6개월 시점에서 미미한 추가 효과만 보임.
+
+데이터 부족과 이질성으로 계획한 네트워크 메타분석(Network Meta-Analysis, NMA)은 수행 불가했으며, 포함 연구의 2/3가 비뚤림위험 낮음에 미달 — 표준화된 결과 측정과 환자보고결과(Patient-Reported Outcome, PRO) 수집이 필요.
 
 ## 1. Document Information
 

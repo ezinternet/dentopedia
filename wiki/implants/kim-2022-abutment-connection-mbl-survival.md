@@ -18,13 +18,21 @@ relations:
     target: park-2022-scrp-vs-crp-upper-premolar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective 5-year cohort (374 implants, Gangneung-Wonju NUU, Korea) found no survival difference between external (93.3%) and internal (90.7%) abutment connections; greater 1-year MBL with external connections; SCRP use was independently associated with significantly less MBL (p=0.027).
+Retrospective 5-year cohort (374 implants, 175 patients, Gangneung-Wonju National University, Korea) comparing external hex versus internal 11° conical hex connections using identical implant designs differing only in connection type.
 
-## 한줄요약
+External connections showed significantly greater 1-year MBL (1.23 vs 0.72 mm, p<0.001), though this gap disappeared by year 5 (1.20 vs 1.00 mm, p=0.137); 8-year cumulative survival was not significantly different (93.3% vs 90.7%).
 
-5년 후향적 코호트(374개 임플란트, 강릉원주대)에서 외부연결 임플란트 (external hex) 생존율 93.3% vs 내부연결 (internal conical hex) 90.7% 유의차 없으나, 1년 변연골흡수 (Marginal Bone Loss, MBL)은 외부연결에서 유의하게 큼(1.23 vs 0.72mm, p<0.001); 나사-시멘트 혼합유지 보철 (SCRP) 사용이 MBL 감소와 독립적으로 유의하게 연관(p=0.027).
+SCRP use was independently associated with reduced MBL (p=0.027), likely via facilitated excess cement removal, providing a clinically actionable finding alongside the connection-type data.
+
+## 세줄요약
+
+5년 후향적 코호트(374개 임플란트, 175명, 강릉원주대): 동일 설계에 연결 방식만 다른 임플란트 쌍(외부연결 external hex vs 내부연결 internal 11° conical hex)을 비교.
+
+외부연결에서 1년 변연골흡수 (Marginal Bone Loss, MBL) 유의하게 큼(1.23 vs 0.72 mm, p<0.001)이나 5년 시점에서는 차이 소실(p=0.137); 8년 누적 생존율 93.3% vs 90.7%로 유의차 없음.
+
+나사-시멘트 혼합유지 보철 (SCRP) 사용이 MBL 감소와 독립적으로 유의하게 연관(p=0.027) — 잉여 시멘트 완전 제거의 임상 이점으로 해석.
 
 ## Summary
 

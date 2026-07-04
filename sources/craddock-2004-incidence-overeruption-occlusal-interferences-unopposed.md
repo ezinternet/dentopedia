@@ -13,13 +13,21 @@ source_collection: external
 
 This is the foundational primary source behind the "~83% of unopposed posterior teeth over-erupt (range under 0.5 mm to 5.4 mm)" figure quoted throughout [[wiki/overviews/unopposed-tooth-overeruption-overview]]; that figure was previously cited second-hand and named as a sourcing gap. It provides the original 120-subject / 155-site clinical dataset that reinforces the CBCT-era over-eruption magnitudes in [[wiki/occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] and adds the missing occlusal-interference dimension (51.6% of unopposed sites involved in an RCP contact or excursive interference).
 
-## One-line Summary
+## Three-line Summary
 
-Single-centre retrospective clinical study (120 adults, 155 unopposed posterior sites): 83.9% of unopposed sites over-erupted (0–5.39 mm; 95% CI 78–90), 51.6% were involved in an occlusal interference (RCP/protrusive/excursive), and the correlation between over-eruption extent and interference presence was weak and non-significant.
+Single-centre retrospective clinical study (120 adults, 155 unopposed posterior sites, Leeds Dental Institute 2000) using 3D-scanned study models and standardized occlusal-foil interference mapping.
 
-## 한줄요약
+83.9% of unopposed sites over-erupted (range 0–5.39 mm; modal bands 1.0–2.5 mm; 95% CI 78–90%), and 51.6% were involved in at least one occlusal interference (ICP/RCP most common); the Spearman correlation between over-eruption extent and interference presence was weak and non-significant.
 
-단일기관 후향적 임상연구(성인 120명, 무대합 구치 155부위): 무대합 부위의 83.9%가 정출(과맹출)을 보였고(0–5.39 mm, 95% CI 78–90), 51.6%가 교합간섭(RCP/돌출/측방운동)에 관여했으며, 정출 정도와 교합간섭 존재 사이의 상관관계는 약하고 통계적으로 유의하지 않았다.
+The extent of over-eruption cannot be used to predict the presence of occlusal interference; both must be assessed independently when planning replacement of unopposed posterior teeth.
+
+## 세줄요약
+
+단일기관 후향적 임상연구 (성인 120명, 무대합 구치 155부위, Leeds Dental Institute 2000): 3D 스캔 스터디 모델과 교합박지 간섭 매핑을 사용.
+
+무대합 부위 83.9%에서 과맹출 (Overeruption) 확인 (범위 0–5.39 mm, 최빈 1.0–2.5 mm, 95% CI 78–90%); 51.6%가 1개 이상의 교합간섭(ICP/RCP 가장 흔함) 관여 — 과맹출 정도와 교합간섭 존재 간 상관은 약하고 비유의.
+
+과맹출 크기로 교합간섭 유무를 예측할 수 없으므로 무대합 구치 수복 계획 시 두 요소를 독립적으로 평가해야 함.
 
 ## 1. Document Information
 

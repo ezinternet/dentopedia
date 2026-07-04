@@ -17,13 +17,23 @@ text_filename: jain-2025-avulsed-tooth-storage-media-pdl-viability.txt
 
 탈구치 (Avulsed Tooth) 보관 배지 선택은 응급 임상 결정이며, HBSS가 부재할 때 대안 배지에 대한 근거가 필요하다. 이 체외 연구는 DNS (Dextrose Normal Saline)와 ORS가 HBSS와 동등한 PDL 세포 생존율을 보인다고 보고하여 [[dental-trauma/debrier-2020-storage-avulsed-tooth-prior]]의 기존 보관 배지 권고를 실용적 관점에서 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In vitro study (n=62 extracted premolars) demonstrating that DNS (dextrose normal saline) and ORS maintain PDL cell viability equivalent to HBSS for avulsed tooth storage, offering practical alternatives when HBSS is unavailable.
 
-## 한줄요약
+(incomplete)
 
-발치된 소구치 62개 체외 실험 — 탈구치 (Avulsed Tooth) 보관 배지 비교에서 당포도당생리식염수 (Dextrose Normal Saline, DNS)와 경구수액 (Oral Rehydration Salt, ORS)가 한크평형염용액 (Hanks Balanced Salt Solution, HBSS)과 동등한 치주인대 (Periodontal Ligament, PDL) 세포 생존율을 보임; 과일주스는 가장 저조.
+(incomplete)
+
+## 세줄요약
+
+
+발치된 소구치 62개 체외 실험 — 탈구치 (Avulsed Tooth) 보관 배지 비교에서 당포도당생리식염수 (Dextrose Normal Saline, DNS)와 경구수액 (Oral Rehydration Salt, ORS)가 한크평형염용액 (Hanks Balanced Salt Solution, HBSS)과 동등한 치주인대 (Periodontal Ligament, PDL) 세포 생존율을 보임;
+
+과일주스는 가장 저조.
+
+(incomplete)
 
 ## 1. Document Information
 

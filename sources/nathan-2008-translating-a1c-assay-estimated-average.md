@@ -9,7 +9,7 @@ pdf_filename: nathan-2008-translating-a1c-assay-estimated-average.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 International multicenter prospective study (n=507; 268 T1DM, 159 T2DM, 80 non-diabetic) establishing the linear regression equation eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84), enabling reporting of HbA1c as estimated Average Glucose (eAG).
 
 ## 1. Document Information

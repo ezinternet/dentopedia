@@ -13,7 +13,7 @@ source_collection: external
 
 Open-healing 치조제 보존술(ARP) 봉합 술식 근거. 같은 그룹의 open-healing ARP 연작 [[bone-regeneration/ridge-preservation/cho-2017-compressive-force-graft-ridge-preservation]]·[[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]]·[[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]]의 출발점이며, [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]]·[[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]]의 ARP 근거에 "봉합법이 KT·치조제 폭 보존에 기여" 변수를 추가.
 
-## One-line Summary
+## Three-line Summary
 RCT comparing conventional crossed mattress (X) suture vs novel hidden X suture for open-healing ARP: the hidden X suture significantly better preserves buccal keratinized tissue width and ridge dimensions.
 
 ## 1. Document Information

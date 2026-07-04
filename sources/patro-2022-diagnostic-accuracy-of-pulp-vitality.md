@@ -13,11 +13,21 @@ source_collection: external
 
 Donnermeyer SR [[endodontics/diagnosis/donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a]]가 "정확도 낮음"이라 정성 결론을 냈다면, 본 SR+MA는 개별 검사(pulse oximeter·EPT·cold·heat)의 진단정확도를 정량(pooled DOR)으로 줄세워 임상 선택 근거를 준다. 신설 endodontics/diagnosis 카테고리의 정량 축.
 
-## One-line Summary
+## Three-line Summary
+
 Systematic review + meta-analysis (10 qualitative / 5 meta-analyzed) ranking pulp-test accuracy by pooled diagnostic odds ratio: pulse oximeter 628.5 ≫ cold 17.24 > EPT 10.75 > heat 3.47 — pulse oximetry most accurate, though no study rated high quality.
 
-## 한줄요약
-SR+MA(정성 10편·MA 5편) — 치수검사 정확도를 통합 진단오즈비로 줄세우면 맥박산소계측 628.5 ≫ cold 17.24 > 전기치수검사 10.75 > heat 3.47; 맥박산소계측이 최정확하나 고품질 연구는 없음.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+SR+MA(정성 10편·MA 5편) — 치수검사 정확도를 통합 진단오즈비로 줄세우면 맥박산소계측 628.5 ≫ cold 17.24 > 전기치수검사 10.75 > heat 3.47;
+
+맥박산소계측이 최정확하나 고품질 연구는 없음.
+
+(incomplete)
 
 ## 1. Document Information
 - Int J Environ Res Public Health 2022;19(15):9599. Systematic Review (MDPI). DOI 10.3390/ijerph19159599.

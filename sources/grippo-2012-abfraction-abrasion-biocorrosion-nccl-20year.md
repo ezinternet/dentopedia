@@ -13,11 +13,21 @@ ingest_note: "Webpage capture: abstract, clinical significance, and full referen
 ## Why Ingested
 NCCL 병인론의 고전(biocorrosion 용어 제안, pathodynamic schema 원전). [[nccl/goodacre-2022-nccl-morphology-etiology-restoration-guidelines]]와 [[nccl/nascimento-2016-abfraction-etiology-diagnosis-treatment]]가 모두 이 schema를 인용하므로 원전 확보 차원.
 
-## One-line Summary
+## Three-line Summary
+
 Landmark narrative review proposing "biocorrosion" to supplant "erosion" and a revised pathodynamic schema in which stress, friction, and biocorrosion interact (with modifying factors) to produce multifactorial NCCLs.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 "erosion" 대신 "biocorrosion" 용어를 제안하고 stress·friction·biocorrosion 3기전 상호작용 schema로 NCCL 다인성 병인을 정식화한 고전 narrative review.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Esthet Restor Dent 2012;24(1):10-23. First published 2011-11-17. DOI 10.1111/j.1708-8240.2011.00487.x.

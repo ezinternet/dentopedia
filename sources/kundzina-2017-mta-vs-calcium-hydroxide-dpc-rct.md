@@ -9,7 +9,7 @@ pdf_filename: kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 성인 구치 우식 치수 노출: MTA vs Ca(OH)₂ DPC 다기관 RCT(3년) — MTA 군 생존율 우위, 3년 추적.
 
 ## 1. Document Information

@@ -21,13 +21,21 @@ relations:
     target: pitman-2023-immediate-implant-flap-flapless-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=40, posterior mandible, healed ridges) finding flapless placement preserved significantly more crestal bone than flapped at 3 months (0.32 vs 0.56 mm) and 6 months (0.48 vs 0.82 mm, both p<0.001), with 100% survival in both arms.
+Prospective RCT (n=40, single posterior mandibular implants in healed ridges, 1:1 randomization to flapless soft-tissue punch vs full-thickness mucoperiosteal flap; 4.0 × 10 mm implants; 6-month follow-up with periapical radiographic crestal bone loss measurement).
 
-## 한줄요약
+Flapless placement preserved significantly more crestal bone at 3 months (0.32 vs 0.56 mm, p<0.001) and 6 months (0.48 vs 0.82 mm, p<0.001); implant survival was 100% in both groups with no complications.
 
-하악 구치부 치유된 치조제 단일치 RCT (n=40)에서 무피판(flapless)이 피판(flapped)보다 치조정 골소실을 유의하게 적게 (6개월 0.48 vs 0.82 mm, p<0.001) — 양군 생존율 100%.
+Flapless technique offers a significant early crestal bone advantage in healed posterior-mandibular ridges, but the study is limited to 6 months, uses 2D radiography, and is a single-center single-surgeon trial; this finding contradicts a non-randomized cohort (Tarpara 2025) that found no crestal difference at 12 months.
+
+## 세줄요약
+
+전향적 RCT (n=40, 하악 구치부 치유된 치조제 단일치 임플란트, 1:1 무작위 배정: 무피판 펀치 vs 전층 점막골막 피판; 4.0 × 10 mm 임플란트; 6개월 치조정 골소실 방사선 평가).
+
+무피판군이 피판군 대비 치조정 골소실 유의하게 적음 — 3개월 (0.32 vs 0.56 mm) 및 6개월 (0.48 vs 0.82 mm, 모두 p<0.001); 양군 생존율 100%, 합병증 없음.
+
+무피판 술식이 치유된 하악 구치부에서 조기 치조정 골소실 감소 이점 제공; 단, 6개월·2D·단일기관 한계이며, 12개월 비무작위 코호트(Tarpara 2025)는 치조정 차이 없음을 보고해 상충.
 
 ## Summary
 

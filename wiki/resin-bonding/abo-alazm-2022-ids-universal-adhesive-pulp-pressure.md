@@ -13,13 +13,21 @@ source_collection: external
 tags: [ids, universal-adhesive, mdp, simulated-pulp-pressure, microtensile-bond-strength, dentin-permeability, weibull, cad-cam]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Eur J Dent 2022 in-vitro (50 human 3rd molars; iBOND SE vs GLUMA Bond Universal under 1-week simulated pulp pressure + CAD/CAM composite block): immediate dentin sealing (IDS) µTBS exceeded delayed dentin sealing (DDS) at 24h and 6mo (P<.05), MDP-containing GLUMA outperformed MDP-free iBOND, both adhesives showed 6-month Weibull strength decay, and both significantly reduced dentin permeability.
+In-vitro study (50 human third molars; iBOND SE vs GLUMA Bond Universal under 1-week simulated pulp pressure before CAD/CAM composite cementation) comparing immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) on microtensile bond strength (µTBS) at 24h and 6 months and dentin permeability.
 
-## 한줄요약
+IDS exceeded DDS at both 24h and 6 months (P<0.05); MDP-containing GLUMA Bond Universal outperformed MDP-free iBOND SE; both adhesives showed significant Weibull characteristic strength decay at 6 months; both significantly reduced dentin permeability with no inter-adhesive difference.
 
-Eur J Dent 16, 2022 in-vitro (50 human 3rd molars, iBOND SE vs GLUMA Bond Universal, simulated pulp pressure 1주 + CAD/CAM composite block): IDS µTBS > DDS at 24h·6mo (P<.05); GLUMA(MDP함유) > iBOND. 두 adhesive 모두 6mo Weibull strength ↓. Dentin permeability 둘 다 유의 감소.
+Universal adhesives containing MDP can extend the IDS benefit beyond the OptiBond FL era; however, IDS does not eliminate 6-month bond degradation — select MDP-containing universals for IDS and plan for marginal integrity follow-up.
+
+## 세줄요약
+
+In-vitro 연구 (인간 제3대구치 50개, iBOND SE vs GLUMA Bond Universal, 1주 모의 치수압 조건 후 CAD/CAM 복합레진 블록 합착) — 즉시 상아질 피개 (IDS, Immediate Dentin Sealing) vs 지연 상아질 피개 (DDS, Delayed Dentin Sealing)의 미세인장결합강도 (µTBS)·상아질 투과율 비교.
+
+IDS가 24h·6개월 모두 DDS 초과(P<0.05); MDP 함유 GLUMA Bond Universal이 MDP 미함유 iBOND SE보다 우수; 두 접착제 모두 6개월에 Weibull 특성강도 유의 감소; 상아질 투과율 둘 다 유의 감소 (군간 차이 없음).
+
+MDP 함유 유니버설 접착제도 IDS 효과를 재현 가능하나, IDS도 6개월 결합 열화를 피하지 못함 — MDP 함유 유니버설을 IDS에 우선 선택하고, 변연 완전성의 정기 추적 계획 필요.
 
 ## Summary
 

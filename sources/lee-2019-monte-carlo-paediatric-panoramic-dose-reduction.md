@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 파노라마 선량 저감의 인자별 정량근거. [[radiology/benchimol-2018-collimation-panoramic-effective-dose-reduction]]의 collimation 선량저감과 동일 기전(조사야 축소)을 인자분석으로 보강하고, MC 방법론을 [[radiology/lee-2019-cbct-dose-osl-monte-carlo-comparison]]와 공유.
 
-## One-line Summary
+## Three-line Summary
 
-Monte Carlo vs TLD for paediatric panoramic dose (MC 3.474 vs TLD 3.850 µSv); beam height is the dominant dose-reduction lever.
 
-## 한줄요약
+Monte Carlo vs TLD for paediatric panoramic dose (MC 3.474 vs TLD 3.850 µSv);
 
-소아 파노라마 선량 MC vs TLD(MC 3.474 vs TLD 3.850 µSv). 빔 높이(beam height)가 선량 결정 최대 인자.
+beam height is the dominant dose-reduction lever.
+
+(incomplete)
+
+## 세줄요약
+
+
+소아 파노라마 선량 MC vs TLD(MC 3.474 vs TLD 3.850 µSv).
+
+빔 높이(beam height)가 선량 결정 최대 인자.
+
+(incomplete)
 
 ## 1. Document Information
 

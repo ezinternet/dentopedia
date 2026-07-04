@@ -13,11 +13,21 @@ source_collection: external
 
 2017 World Workshop의 급성 치주병변 분류 공식 문서 — 치주농양(PA)·괴사성 치주질환(NPD)·치수치주복합병변(EPL)의 진단·분류 기준. 응급 내원이 잦은 병변군이라 임상 분류·치료결정 reference로 필수. EPL은 endo-perio 미세수술 [[periodontics/sharma-2014-endodontic-periodontal-microsurgery-for-combined]]과 직결.
 
-## One-line Summary
+## Three-line Summary
+
 2017 World Workshop review proposing classification frameworks for three acute/combined periodontal conditions — periodontal abscesses (by etiology), necrotizing periodontal diseases (by host immune status), and endo-periodontal lesions (by fractures/perforations and presence of periodontitis).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 2017 World Workshop review — 급성·복합 치주병변 3종의 분류틀 제안: 치주농양(병인별), 괴사성 치주질환(숙주 면역상태별), 치수치주복합병변(파절·천공 유무 및 치주염 동반 여부별).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Periodontol 2018;89(Suppl 1):S85–S102 (jointly in J Clin Periodontol). DOI 10.1002/JPER.16-0642.

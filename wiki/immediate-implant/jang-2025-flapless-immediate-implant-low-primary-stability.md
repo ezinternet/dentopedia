@@ -23,13 +23,21 @@ relations:
     target: witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (16 flapless immediate SLA implants with low primary stability, insertion torque <10 Ncm and mean initial ISQ <55) — mean ISQ rose from 42.2 to 68.7 and survival was 100% at mean 65.18 months, indicating low/no primary stability is not an absolute contraindication for immediate placement.
+Retrospective case series (n=16 flapless immediate SLA implants in 16 patients; all meeting strict low-stability criteria: insertion torque <10 Ncm AND mean initial ISQ <55; 6 implants produced no measurable ISQ at placement; single center, Inje University).
 
-## 한줄요약
+Mean ISQ rose significantly from 42.2 ± 7.5 at placement to 68.7 ± 7.6 at impression (~13 weeks, p<0.01; 95% CI 17.2–32.9), and survival was 100% at mean 65.18 months (range 12–128).
 
-후향 증례군 (16개 무피판 즉시 SLA 임플란트, 낮은 초기 안정성: 식립토크 <10 Ncm·평균 초기 ISQ <55) — 평균 ISQ가 42.2에서 68.7로 상승하고 평균 65.18개월에 생존율 100%로, 낮거나 없는 초기 안정성이 즉시식립의 절대 금기는 아님을 시사.
+Low or absent primary stability at immediate placement is not an absolute contraindication; the rising ISQ trajectory and undersized drilling with near-universal bone grafting rescued secondary stability, but the small single-operator cohort limits generalizability.
+
+## 세줄요약
+
+후향 증례군 (n=16, 무피판 즉시 SLA 임플란트; 식립토크 <10 Ncm 및 평균 초기 ISQ <55의 엄격한 저안정성 기준; 6개는 식립 시 ISQ 측정 불가; 단일기관 인제대).
+
+평균 ISQ가 42.2 ± 7.5에서 68.7 ± 7.6으로 유의하게 상승 (p<0.01; 95% CI 17.2–32.9), 평균 65.18개월 생존율 100%.
+
+초기 안정성이 낮거나 없어도 즉시식립의 절대 금기는 아니며, ISQ 상승 추세가 절대 초기값보다 중요한 임상 신호임을 시사; 다만 소규모 단일술자 코호트의 한계 존재.
 
 ## Summary
 

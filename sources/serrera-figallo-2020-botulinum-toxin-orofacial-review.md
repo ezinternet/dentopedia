@@ -9,7 +9,7 @@ pdf_filename: serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review from Sevilla covering the full range of botulinum toxin applications in orofacial clinical practice, including TMD, bruxism, facial pain, and cosmetic uses; summarizes injection protocols and dosing recommendations.
 
 ## 1. Document Information

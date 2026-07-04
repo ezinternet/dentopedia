@@ -16,13 +16,21 @@ relations:
     target: mohammed-2018-miniscrew-anatomical-site-failure-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (15 studies, 1981 patients, 3272 orthodontic mini-implants in young adults): success consistent across demographics — gender and age not significant — but failure higher in males and maxilla; insertion site and implant size not significant; higher applied force correlated with lower failure.
+SR+MA (15 studies; 1,981 patients; 3,272 orthodontic mini-implants) focused on young adults (adolescent through young-adult age groups), applying both univariate and multivariate meta-analysis to isolate which patient and implant factors drive failure.
 
-## 한줄요약
+Gender and age were not statistically significant predictors; however, failure trended higher in males and in the maxilla; insertion site and implant size were not significant; counter-intuitively, higher applied force was negatively correlated with failure (higher force → lower failure).
 
-SR+MA (15편·1981명·교정용 미니임플란트 3272개, 청년): 성공률은 인구통계와 무관하게 일관 — 성별·연령 무의미 — 단 남성·상악에서 실패↑, 식립 부위·크기 무의미, 적용 힘↑ 시 실패↓.
+In the young-adult subgroup, anatomical site and implant dimensions matter less than the broader literature implied — jaw (maxilla) and sex remain signals but the dominant modifiable factors remain unclear.
+
+## 세줄요약
+
+청년(청소년~청년) 대상 교정용 미니임플란트 실패 인자를 단변량·다변량 메타분석으로 규명한 SR+MA (15편, 1,981명, 미니임플란트 3,272개).
+
+성별·연령은 통계적으로 유의하지 않으나 남성·상악에서 실패 경향; 식립 부위·크기는 유의하지 않음; 역설적으로 적용 힘이 클수록 실패율이 낮은 음의 상관관계.
+
+청년 하위군에서는 해부학적 부위·크기가 기존 광범위 문헌의 시사보다 영향이 적으며, 악골(상악)과 성별이 신호로 남으나 주요 가변 인자는 아직 불명확.
 
 ## Summary
 

@@ -37,13 +37,21 @@ tags: [healing-abutment, reuse, single-use, decontamination, sterilization, sodi
 > - **근거 강도 주의**: 이 논쟁 전체가 **in vitro·survey·SR(of observational)** 로만 구성 — **임상 결과 연구(RCT of peri-implant outcomes)는 0건**. 잔류 오염↔임플란트주위질환의 인과는 미입증. "부작용 보고 없음"은 "안전 입증"과 다르다(Bidra의 경고).
 > - **정책 결론(clinic SOP 관점)**: 재사용을 채택한다면 — (a) **다단계 프로토콜**(기계적 debridement → 1% NaOCl+초음파 ±air polishing 또는 전기화학 → autoclave), (b) **나사산·드라이버홀 육안+확대 검사**, (c) **재사용 횟수 제한**과 동일 환자 우선, (d) 심미부·중요 증례는 **신품 사용**, (e) 손상·마모·변색 HA 폐기, (f) **고지·동의(informed consent)** 고려. 궁극 안전성 판단은 향후 in vivo 염증·임상 결과 연구를 기다려야 한다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 8 held papers framing the healing-abutment (HA) reuse-vs-single-use debate as two independent axes — a *cleanliness* axis (can a used HA be restored to a virgin surface?) and a *biologic-inertness* axis (even if clean, does it avoid provoking host inflammation?) — where two SRs and multiple in vitro studies agree no routine protocol reaches a 100% virgin surface and residual protein/biofilm concentrates in thread/driver-hole recesses, specific adjuncts (1% NaOCl + ultrasonic ≈99.7% biofilm removal; NaOCl or air polishing; combined chemical + electrochemical) get close on the cleanliness axis, yet Abreu 2024 decouples the axes by showing even the best-cleaned HAs stay inflammatory in vitro ("do not reuse"), while manufacturers label HAs single-use and 98.1% of clinicians reuse them anyway — all on an evidence base with zero clinical-outcome studies.
+Synthesis of 8 papers framing the healing-abutment (HA) reuse debate as two independent axes: a cleanliness axis (can a used HA be restored to a virgin surface?) and a biologic-inertness axis (even if clean, does it avoid provoking host inflammation?); two SRs agree no routine protocol achieves 100% virgin surface; residual protein persists after sterilization (reused 18.76 vs new 9.35 µg/mL; Burioni 2024) and concentrates in thread/driver-hole recesses.
 
-## 한줄요약
+Specific adjuncts approach the virgin surface on the cleanliness axis: 1% NaOCl + ultrasonic removes 99.7% of mature biofilm (Çetinsoy 2026), air polishing reduces body-surface contamination to 1.7–2.4% (Naghsh 2024), combined chemical + electrochemical enables multiple cycles without micro-gap change (Kyaw 2023 RCT) — but Abreu 2024 decouples the axes: even the best-cleaned groups provoke macrophage cytokine secretion for up to 5 days, yielding the strictest conclusion ("do not reuse").
 
-힐링 어버트먼트 재사용 논쟁을 청결도 축(미사용 표면 복원 가능?)과 생물학적 반응 축(깨끗해도 염증 안 내나?)의 둘로 종합한 8편 기반 오버뷰 — SR·in vitro는 어떤 통상 프로토콜도 100% 미사용 표면을 못 만들고 잔류물이 나사산·드라이버홀 요철부에 집중됨을 일치시키며, 1% NaOCl+초음파(바이오필름 99.7% 제거)·air polishing·화학+전기화학 병용은 청결도 축에서 거의 미사용 표면에 근접하나, Abreu는 가장 잘 닦은 HA조차 대식세포 염증을 유발해 두 축을 분리시키며("재사용 말라"), 제조사는 단일사용으로 지정하나 임상의 98.1%가 재사용하고, 이 모든 근거에 임상결과 연구는 0건이다.
+Manufacturers label HAs single-use yet 98.1% of implantologists reuse them (cost the primary driver, 71.2%) without informing patients (94.5%); crucially, zero clinical-outcome studies link reuse to peri-implant infection, bone loss, or failure, so the entire debate rests on in vitro and survey data — and the practically useful question is less "whether to reuse" than "under which protocol and with what disclosure."
+
+## 세줄요약
+
+힐링 어버트먼트 재사용 논쟁을 청결도 축(미사용 표면 복원 가능?)과 생물학적 반응 축(깨끗해도 염증 안 내나?)으로 분리한 8편 종합: 2편 SR은 어떤 통상 프로토콜도 100% 미사용 표면을 복원 못 하고, 멸균 후 잔류 단백질이 나사산·드라이버홀 요철부에 집중됨을 일치시킨다.
+
+1% NaOCl + 초음파(바이오필름 99.7% 제거, Çetinsoy 2026), air polishing(Naghsh 2024), 화학+전기화학 병용(Kyaw 2023 RCT)은 청결도 축에서 거의 미사용 표면에 근접하나, Abreu 2024는 가장 잘 닦은 군조차 대식세포 염증성 사이토카인(9종, 최대 5일)을 유발해 두 축을 분리하며("재사용 불가") — Kyaw(청결도, 다회 재사용 가능)와 충돌하는 핵심 미해결 모순이다.
+
+제조사는 단일사용 지정이지만 임상의 98.1%가 재사용하고(비용 71.2%), 94.5%는 환자에게 미고지; 임플란트주위 감염·골소실과 재사용을 연결한 임상 결과 연구는 0건 — 근거 전체가 in vitro·survey·관찰 SR이므로 "할지 말지"보다 "어떤 프로토콜·고지로"가 실질 질문이다.
 
 ## Thesis
 

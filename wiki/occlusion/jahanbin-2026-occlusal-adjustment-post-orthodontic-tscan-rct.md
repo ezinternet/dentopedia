@@ -22,13 +22,21 @@ relations:
     target: didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Interventional RCT (n=30, Class I 4-premolar-extraction cases) — CR-guided occlusal adjustment one month after debonding produced NO statistically significant difference vs no-adjustment control in T-Scan III occlusal contact intensity or number at 1 or 6 months (all P>0.05); only a non-significant trend toward improved posterior force distribution.
+Interventional RCT (n=30, Class I four-premolar-extraction orthodontic cases, 15 per arm): centric-relation–guided occlusal adjustment was performed one month after debonding using T-Scan III digital occlusal analysis and canine-guidance equilibration.
 
-## 한줄요약
+CR-guided adjustment produced no statistically significant difference vs no-adjustment control in T-Scan III contact intensity or number at 1 or 6 months (all P>0.05); only a non-significant trend toward improved posterior force distribution was observed.
 
-중재 RCT (n=30, Class I 소구치 4개 발치 케이스) — 디본딩 1개월 후 중심위(CR) 기반 교합조정을 해도 비조정 대조군 대비 T-Scan III 교합접촉 강도·개수에서 1·6개월 모두 통계적 유의차가 없었고(전부 P>0.05), 후방 힘 분포 개선의 비유의 경향만 나타남.
+Routine post-orthodontic occlusal adjustment does not measurably improve recorded occlusion within 6 months in acceptable Class I extraction cases, as ongoing physiologic tooth settling washes out any early effect.
+
+## 세줄요약
+
+중재 RCT(n=30, Class I 소구치 4개 발치 교정 케이스, 각 군 15명): 디본딩 1개월 후 중심위(CR) 기반 교합조정을 T-Scan III 디지털 교합분석 + 견치유도 교합평형으로 시행했다.
+
+교합조정군과 비조정 대조군 간 T-Scan III 교합접촉 강도·개수 차이는 1·6개월 모두 통계적으로 유의하지 않았으며(전부 P>0.05), 후방 힘 분포 개선의 비유의 경향만 관찰됐다.
+
+교합조정의 초기 효과가 계속되는 생리적 치아 이동으로 6개월 내 소거되므로, 이미 양호한 Class I 발치 케이스에서의 정기적 교합조정은 근거가 약하다.
 
 ## Summary
 

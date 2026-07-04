@@ -13,13 +13,21 @@ source_collection: external
 tags: [suture-biomechanics, pulley-suture, wound-tension, dermatologic-surgery]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Ex-vivo biomechanical bench study (5 suture techniques × 10 reps × 3 operators on a 5 N standardized neoprene wound model): the pulley suture required the least pulling force (3.46 N) to close a high-tension wound vs single (5.69 N), vertical mattress (7.25 N), and horizontal mattress (8.11 N, highest).
+Ex-vivo biomechanical bench study (5 suture techniques × 10 reps × 3 operators using a standardized 5 N neoprene wound model with dual force sensors) providing the first quantitative ranking of suture techniques by pulling force.
 
-## 한줄요약
+The pulley suture required the least pulling force (3.46 ± 0.61 N) to close a high-tension wound; horizontal mattress required the most (8.11 ± 1.00 N); force transmitted to the wound edge was similar across all techniques (0.80–0.96 N).
 
-생체외 역학 벤치 연구 (5가지 봉합법 × 각 10회 × 술자 3명, 5 N 표준화 네오프렌 창상 모델): 풀리 봉합(pulley suture)이 고장력 창상을 닫는 데 필요한 견인력이 가장 낮았고(3.46 N), 단순봉합(5.69 N)·수직매트리스(7.25 N)·수평매트리스(8.11 N, 최고)보다 적었음.
+The pulley suture is the most mechanically efficient for high-tension wound closure and may reduce overtightening/edge ischemia risk, though clinical endpoints were not tested in this neoprene model.
+
+## 세줄요약
+
+이중 힘 센서를 이용한 표준화 5 N 네오프렌 창상 모델에서 5가지 봉합법 × 각 10회 × 술자 3명으로 봉합법별 견인력을 처음 정량 비교한 생체외 역학 연구.
+
+풀리 봉합이 고장력 창상 폐쇄에 필요한 견인력이 가장 낮았고(3.46±0.61 N), 수평매트리스가 가장 높았으며(8.11±1.00 N), 창상 가장자리에 전달되는 실제 힘은 모든 기법에서 유사(0.80–0.96 N).
+
+풀리 봉합이 고장력 폐쇄에서 역학적으로 가장 효율적이며 과도한 조임·가장자리 허혈 위험을 줄일 수 있으나, 임상적 치유 결과는 이 모델에서 검증되지 않음.
 
 ## Summary
 

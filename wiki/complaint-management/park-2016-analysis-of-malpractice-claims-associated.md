@@ -16,11 +16,19 @@ relations:
     target: kwon-2017-analysis-of-the-legal-effect
 ---
 
-## One-line Summary
-Retrospective review of 40 Korean plastic-surgery SSI malpractice precedents (2010–2015): 34/40 won by plaintiffs, mean award 2.83M KRW, with liability driven by failure to culture/treat, failure to refer, poor infection control, and absent preoperative infection consent.
+## Three-line Summary
+Retrospective review of 40 Korean civil court precedents (2010–2015) in which surgical site infection (SSI) after plastic surgery led to malpractice claims, sourced from the Supreme Court Legal Information Service and classified by surgery type, complication, and liability grounds.
 
-## 한줄요약
-한국 성형외과 SSI 의료소송 판례 40건(2010–2015) 후향 분석 — 34건 원고 승소, 평균 배상 283만원; 배상 사유는 배양·항생제 미시행, 상급병원 미전원, 부적절한 감염관리, 술전 감염 설명 부재.
+Plaintiffs prevailed in 34 of 40 cases (85%); mean award was 2,832,654 KRW (~USD 2,637); four recurrent liability grounds were identified: failure to perform bacterial culture and use appropriate antibiotics, failure to refer to a higher-level facility, inadequate infection-control measures, and absence of preoperative explanation about infection risk.
+
+Preoperative infection risk disclosure is an independently actionable consent duty — not merely the infection itself — and maps directly to surgical dentistry (extractions, implants, bone grafts).
+
+## 세줄요약
+한국 성형수술 SSI(수술 부위 감염) 의료과실 민사 판례 40건(2010–2015) 후향 분석: 대법원 법률정보서비스 등에서 수집, 수술 유형·합병증·책임 근거로 분류.
+
+원고 승소 34/40건(85%); 평균 배상 2,832,654원(약 $2,637); 4가지 반복 책임 근거: 세균배양·적절한 항생제 미시행·상급병원 미전원·부적절한 감염관리·술전 감염 설명 부재.
+
+술전 감염 위험 설명은 독립적으로 법적 의무 — 감염 자체가 아닌 설명 부재가 소송 근거가 되며, 발치·임플란트·골이식 등 치과 수술에도 동일하게 적용된다.
 
 ## Summary
 Park and colleagues analyzed 40 Korean court precedents (2010–2015) in which surgical site infection (SSI) after plastic surgery led to a malpractice claim. Plaintiffs prevailed in 34 of 40 cases (85%), with a mean award of 2,832,654 KRW. Courts assigned liability on four recurrent grounds: failure to perform bacterial culture and use appropriate antibiotics, failure to refer to a higher-level hospital or infection-control service, inadequate SSI control measures, and — critically — absence of a preoperative explanation about infection risk. The study frames infection *handling* and preoperative *consent* as the two levers that most influence whether a surgeon is found liable.

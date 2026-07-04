@@ -20,13 +20,21 @@ relations:
     target: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-centre two-arm parallel single-blind RCT (1:1, n=40, ages 10-20, upper+lower fixed appliances, follow-up to 56 weeks): adding a Waterpik to a manual toothbrush gave NO statistically significant difference in plaque (OMPI diff 0.199, p=0.88), gingival (GI diff −0.008, p=0.94), or interdental-bleeding (IBI diff 5.60, p=0.563) indices vs manual toothbrush alone; trial stopped at interim analysis — no evidence of Waterpik benefit.
+Single-centre, single-blind, 2-arm parallel RCT (1:1, n=40, ages 10–20, upper+lower fixed appliances, York Hospital UK; up to 56 weeks follow-up) comparing Waterpik Water Flosser WP-560 with orthodontic tip (once nightly, ≈1 min) + manual toothbrush vs manual toothbrush alone using plaque (OMPI), gingival (GI), and interdental bleeding (IBI) indices.
 
-## 한줄요약
+Adding a Waterpik to manual toothbrushing gave NO statistically significant difference in plaque (OMPI diff 0.199, p=0.88), gingival inflammation (GI diff −0.008, p=0.94), or interdental bleeding (IBI diff 5.60, p=0.563) at any time point up to 56 weeks; no trauma detected in either group; trial was stopped at interim analysis.
 
-단일기관 2군 평행 단일맹검 RCT (1:1, n=40, 10-20세, 상하악 고정성 교정장치, 56주 추적): 수동칫솔에 워터픽(Waterpik) 추가 시 치면세균막(OMPI 차이 0.199, p=0.88)·치은(GI −0.008, p=0.94)·치간출혈(IBI 5.60, p=0.563) 지수 모두 수동칫솔 단독 대비 유의차 없음; 중간분석에서 조기종료 — 워터픽 이점 근거 없음.
+In fixed-appliance orthodontic patients with adequate baseline hygiene, the Waterpik provides no measurable oral hygiene benefit over manual toothbrushing alone; prior short-term positive findings likely reflected a novelty effect and selection of poor-hygiene patients.
+
+## 세줄요약
+
+단일기관 단일맹검 2군 평행 RCT(1:1, n=40, 10–20세, 상하악 고정 교정, 영국 York 병원; 최대 56주): Waterpik WP-560(교정용 팁, 매일 밤 ≈1분)+수동칫솔 vs 수동칫솔 단독을 치태(교정변형치태지수, OMPI)·치은(GI)·치간출혈(IBI) 지수로 비교.
+
+워터픽 추가 시 치태(OMPI 차이 0.199, p=0.88)·치은(GI −0.008, p=0.94)·치간출혈(IBI 5.60, p=0.563) 모두 56주까지 어느 시점에서도 유의차 없음; 두 군 모두 외상 없음; 중간분석 후 조기종료.
+
+기저 구강위생이 적절한 고정 교정 환자에서 워터픽은 수동 칫솔질 단독 대비 측정 가능한 이점이 없음; 이전 단기 양성 결과는 신기효과와 불량 위생 환자 선택의 산물이었을 가능성이 높다.
 
 ## Summary
 

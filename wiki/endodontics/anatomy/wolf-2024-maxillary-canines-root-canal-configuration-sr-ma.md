@@ -20,13 +20,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 22 studies on maxillary canine (MxC) root canal configuration: Vertucci Type I (1-1-1/1) dominates at 75.4–100%, anatomical variation reaches up to ~25% of cases, CBCT is the most-used method, and males show significantly more Vertucci III (OR 2.07) and V (OR 2.93) configurations.
+First SR+MA dedicated to maxillary canine root canal configuration (22 PRISMA-compliant studies), finding Vertucci Type I (single canal, 1-1-1/1) dominates at 75.4–100% across all methods and ethnic groups.
 
-## 한줄요약
+Up to ~25% of maxillary canines carry anatomical variations (Type II–VII), and males show significantly more Type III (OR 2.07, 95% CI 1.01–4.26) and Type V (OR 2.93, 95% CI 1.07–8.07) configurations than females.
 
-상악 견치 근관형태 22편 SR+MA — Vertucci Type I(단일 근관) 75.4–100% 우세이나 최대 약 25%에서 변이; CBCT가 최다 연구법, 남성에서 Vertucci III(OR 2.07)·V(OR 2.93) 유의하게 많음.
+Because non-Type-I canals cannot be mechanically instrumented, adequate chemical irrigation and careful obturation are decisive, and sex and ethnic origin should be considered when anticipating anatomical variation.
+
+## 세줄요약
+
+상악 견치 근관형태 전용 최초 SR+MA(22편, PRISMA 준수): Vertucci Type I(단일 근관)이 75.4–100%로 우세하나 최대 약 25%에서 변이 발생.
+
+남성에서 Type III(OR 2.07, 95% CI 1.01–4.26)·Type V(OR 2.93, 95% CI 1.07–8.07)가 유의하게 많으며 CBCT가 가장 많이 활용된 연구 방법.
+
+비 Type I 근관은 기계적 성형이 불가능하므로 화학적 세정과 충전이 결정적이며, 변이 예측 시 성별·민족적 배경을 고려해야 한다.
 
 ## Summary
 

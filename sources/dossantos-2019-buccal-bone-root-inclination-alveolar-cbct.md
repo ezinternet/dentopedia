@@ -9,7 +9,7 @@ pdf_filename: dossantos-2019-buccal-bone-root-inclination-alveolar-cbct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Descriptive CBCT study mapping buccal plate thickness, root inclination, and alveolar bone dimensions across the jaws, intended as a planning reference for immediate implants.
 
 ## 1. Document Information

@@ -9,7 +9,7 @@ pdf_filename: elsheikh-2023-prf-xenograft-alloplastic-immediate-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT comparing three jumping-gap fillers (PRF vs xenograft vs alloplastic) at immediate implant placement. All three yielded comparable clinical outcomes; PRF emerges as a low-cost autologous alternative without donor-site morbidity.
 
 ## 1. Document Information

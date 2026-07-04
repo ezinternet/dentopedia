@@ -14,11 +14,21 @@ source_collection: external
 tags: [apical-constriction, apical-foramen, working-length, CDJ, incisor, molar, anatomy, in-vitro]
 ---
 
-## One-line Summary
-In vitro study (90 extracted teeth) measuring apical constriction (AC)–apical foramen (AF) distance under 25× microscopy: incisors had significantly greater AC–AF distance than molars (0.847 vs 0.709 mm, p=0.035), supporting tooth-type-specific working-length termination (~0.85 mm short of AF for incisors, ~0.70 mm for molars) rather than a uniform 0.5 mm rule.
+## Three-line Summary
 
-## 한줄요약
-In vitro 90개 치아(이란 인구): AC–AF 거리 전치 0.847mm vs 구치 0.709mm(p=0.035 유의차); 근관치료 종지점은 전치 0.85mm, 구치 0.70mm 단(근첨공 기준)으로 치종별 다르게 적용 권장
+In vitro cross-sectional study (90 extracted teeth, Isfahan Province, Iran) measuring apical constriction (AC)–to–apical foramen (AF) distances under 25× microscopy in incisors (n=45) and molars (n=45).
+
+Incisors had a significantly greater AC–AF distance than molars (0.847 ± 0.33 mm vs 0.709 ± 0.27 mm, p=0.035); the AC-to-anatomical apex difference was not significant (1.23 vs 1.01 mm, p=0.172).
+
+The conventional uniform −0.5 mm rule underestimates the offset for anterior teeth; tooth-type-specific termination points (~0.85 mm short of AF for incisors, ~0.70 mm for molars) are recommended over a single standard.
+
+## 세줄요약
+
+In vitro 횡단 연구, 이란 이스파한 발치 치아 90개(전치 45, 구치 45)에서 25× 현미경으로 근첨협착부(AC)~근첨공(AF) 거리 측정.
+
+AC–AF 거리: 전치 0.847 ± 0.33mm vs 구치 0.709 ± 0.27mm(p=0.035 유의차); AC~해부학적 근단 거리는 유의차 없음(p=0.172).
+
+기존 통일 −0.5mm 규칙은 전치에서 근단 종지점을 과소추정; 전치 ~0.85mm 단, 구치 ~0.70mm 단의 치종별 종지점 적용 권고.
 
 ## Summary
 In vitro cross-sectional study (90 extracted teeth, Isfahan Province, Iran) measuring distances from apical constriction (AC) to apical foramen (AF) and anatomical apex (AA) under 25× microscopy. Incisors have significantly greater AC–AF distance than molars. Authors recommend tooth-type-specific WL termination points rather than uniform "0.5mm" rule.

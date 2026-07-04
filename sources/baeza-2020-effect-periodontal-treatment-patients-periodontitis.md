@@ -13,13 +13,21 @@ source_collection: external
 
 치주치료가 전신 건강(당뇨 대사조절·전신염증)에 미치는 효과의 근거를 보강하기 위해 ingest. 비외과적 치주치료(NSPT)의 심혈관 위험표지자 효과를 다룬 [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]]를 당뇨·HbA1c·CRP 결과로 보완·확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 RCTs: scaling and root planing in type 2 diabetics with periodontitis significantly reduced HbA1c (mean difference 0.56%, 0.36-0.75) and CRP (DM 1.89, 1.70-2.08), both p<0.01 with I²=0% heterogeneity.
+SR+MA (9 RCTs; PRISMA; PubMed/Cochrane CENTRAL through July 2018; T2D + periodontitis patients receiving SRP ± flap surgery vs no periodontal treatment; ≥3 months follow-up) quantifying the effect of conventional periodontal treatment on both metabolic control and systemic inflammation.
 
-## 한줄요약
+SRP significantly reduced HbA1c (MD 0.56%, 95% CI 0.36–0.75; p<0.01) and CRP (MD 1.89, 95% CI 1.70–2.08; p<0.01), both with I²=0% heterogeneity.
 
-9개 RCT 체계적문헌고찰·메타분석: 제2형 당뇨 + 치주염 환자에서 치석제거·치근활택술(SRP)이 당화혈색소(HbA1c)를 0.56%(0.36-0.75) 감소시키고 C-반응성단백(CRP)을 1.89(1.70-2.08) 낮춤(모두 p<0.01, 이질성 I²=0%).
+The ~0.56% HbA1c reduction is clinically meaningful and supports treating periodontitis as part of diabetes management, but long-term cardiovascular endpoint data and broader database searches are still needed to confirm durability.
+
+## 세줄요약
+
+SR+MA(RCT 9편; PRISMA; PubMed/Cochrane CENTRAL ~2018년 7월; T2D+치주염 환자의 SRP±판막술 vs 치주치료 없음; 추적 ≥3개월) — 비외과적 치주치료가 대사조절과 전신염증에 미치는 효과 정량화.
+
+SRP가 당화혈색소(HbA1c) 유의하게 감소(MD 0.56%, 95% CI 0.36–0.75; p<0.01) 및 C-반응성단백(CRP) 감소(MD 1.89, 95% CI 1.70–2.08; p<0.01); 양쪽 모두 이질성 I²=0%.
+
+약 0.56% HbA1c 감소는 임상적 의미가 있어 당뇨 관리의 일환으로 치주치료를 지지하나, 장기 심혈관 종말점 데이터와 더 광범위한 데이터베이스 검색이 필요.
 
 ## 1. Document Information
 

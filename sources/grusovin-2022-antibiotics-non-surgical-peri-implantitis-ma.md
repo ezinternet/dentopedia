@@ -9,7 +9,7 @@ pdf_filename: grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cochrane-style SR+MA of 6 RCTs evaluating local vs systemic antibiotic adjuncts to non-surgical peri-implantitis therapy. Reports differential efficacy between routes.
 
 ## 1. Document Information

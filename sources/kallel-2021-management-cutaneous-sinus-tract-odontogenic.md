@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]]·[[wiki/oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]]의 치성 피부누공(odontogenic cutaneous sinus tract) 클러스터에, **오진→불필요한 피부과 수술·장기 항생제→근관치료로 치유**의 18개월 추적 증례를 추가. 항생제 스튜어드십 관점(불필요한 장기 항생제)과 치근단 병소 진단 양쪽을 보강하는 실증 사례.
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 44-y female, 18-month follow-up): a chronically draining chin lesion repeatedly misdiagnosed and treated with cryotherapy, surgery, and prolonged antibiotics was actually an odontogenic cutaneous sinus tract; root canal treatment (+ surgery after a 2-week recurrence) resolved it, with clear periapical healing at 18 months — underscoring dentist–physician communication for correct diagnosis.
 
-## 한줄요약
+Case report (n=1, 44-y female, 18-month follow-up): a chronically draining chin lesion repeatedly misdiagnosed and treated with cryotherapy, surgery, and prolonged antibiotics was actually an odontogenic cutaneous sinus tract;
 
-증례 보고(n=1, 44세 여성, 18개월 추적): 만성 배농되는 턱 병변이 반복적으로 오진되어 냉동치료·수술·장기 항생제를 받았으나 실제로는 **치성 피부누공(odontogenic cutaneous sinus tract)**; 근관치료(2주 후 재발로 외과적 처치 추가)로 해소되고 18개월째 치근단 치유 확인 — 정확한 진단을 위한 치과-의과 간 소통의 중요성 강조.
+root canal treatment (+ surgery after a 2-week recurrence) resolved it, with clear periapical healing at 18 months — underscoring dentist–physician communication for correct diagnosis.
+
+(incomplete)
+
+## 세줄요약
+
+
+증례 보고(n=1, 44세 여성, 18개월 추적): 만성 배농되는 턱 병변이 반복적으로 오진되어 냉동치료·수술·장기 항생제를 받았으나 실제로는 **치성 피부누공(odontogenic cutaneous sinus tract)**;
+
+근관치료(2주 후 재발로 외과적 처치 추가)로 해소되고 18개월째 치근단 치유 확인 — 정확한 진단을 위한 치과-의과 간 소통의 중요성 강조.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -14,11 +14,21 @@ source_collection: external
 tags: [implant-failure, implant-retrieval, removal-technique, counter-torque, trephine, piezo, bone-preservation, scoping-review]
 ---
 
-## One-line Summary
-Scoping review (Front Oral Health 2025) of implant failure and retrieval: bridges failure definition/classification with removal techniques (counter-torque/reverse-torque, trephine bur, piezo-surgery, combined), favouring minimally invasive bone-preserving approaches selected by failure type, location, and crestal bone architecture.
+## Three-line Summary
 
-## 한줄요약
-Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
+Scoping review (Frontiers in Oral Health 2025; PRISMA-ScR; Manipal University group) covering the full spectrum of dental implant failure — definition, classification (early/late, peri-implantitis/fracture/infection), and mechanisms — integrated with an updated overview of retrieval techniques.
+
+Major removal approaches compared: counter-torque/reverse-torque devices, trephine bur, piezo-surgery, and combined techniques; modern minimally invasive approaches (piezo, reverse-torque) are preferred for crestal bone preservation and to enable earlier subsequent replacement.
+
+Technique selection should be guided by failure type, implant location (anterior esthetic vs posterior functional), bone quality, and crestal architecture — evidence base is predominantly case-series level with heterogeneous outcome reporting.
+
+## 세줄요약
+
+Scoping review (Frontiers in Oral Health 2025; PRISMA-ScR; Manipal University) — 치과 임플란트 실패(Dental Implant Failure) 정의·분류(조기/만기, 임플란트주위염/골절/감염)·기전과 실패 임플란트 제거(Retrieval) 기술을 통합적으로 정리.
+
+주요 제거 기술 비교: 역토크(Counter-torque/Reverse-torque) 장치, 트레핀 버(Trephine Bur), 압전술(Piezo-surgery), 복합 기법; 최소침습(Minimally Invasive) 기법(piezo, 역토크)이 치조정 골 보존·조기 재식립 가능성에서 선호됨.
+
+기술 선택 기준: 실패 유형·임플란트 위치(전치부 심미 vs 구치부 기능)·골질·치조정 형태 — 주 근거는 증례시리즈 수준, 결과 보고 이질성 높음.
 
 ## Summary
 Scoping review covering the implant failure spectrum (definition, classification, mechanism) and — more practically — the retrieval techniques for failed implants. Compares the major removal approaches: counter-torque/reverse-torque devices, trephine bur, piezo-surgery, and combined techniques. Modern preference: minimally invasive techniques (piezo, reverse-torque) preserve crestal bone better, enabling earlier subsequent replacement in many cases.

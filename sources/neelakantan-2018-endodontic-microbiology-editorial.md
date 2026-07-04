@@ -13,13 +13,23 @@ source_collection: external
 
 Provides the conceptual framing — "pulpal and periradicular infections are biofilm-mediated, and biofilm structure confers extraordinary antimicrobial resistance" — that anchors the disinfection rationale in [[wiki/endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and connects endodontic biofilm to the broader oral-biofilm matrix biology in [[wiki/oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Editorial (Dent J 2018, Endodontic Microbiology special issue): frames pulpal/periradicular disease as biofilm-mediated, with biofilm structure and inter-microbial dynamics conferring extraordinary resistance — positioning targeted, biofilm-aware disinfection as the goal of endodontic therapy.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 사설(Dent J 2018, 근관미생물학 특집호 서문): 치수·치근단 감염을 바이오필름 매개 질환으로 규정하고, 바이오필름 구조와 미생물 상호작용이 비범한 저항성을 부여한다고 정리 — 바이오필름을 표적하는 소독을 근관치료 목표로 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -13,12 +13,21 @@ source_collection: external
 tags: [sinus-membrane-perforation, re-entry, sinus-floor-elevation, rabbit, animal-model, bone-formation, collagen-matrix]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Pilot preclinical animal study (rabbit sinus model, n=6): re-entry sinus floor elevation performed 8 weeks after intentional complete sinus membrane perforation (≥10 mm) sealed with collagen matrix yielded significantly less new bone area than intact controls (5.8±2.7 vs 10.5±1.9 mm², P<0.05), indicating large perforation impairs bone formation in subsequent re-entry SFE.
+Pilot preclinical animal study (rabbit sinus model, n=6, Kyung Hee University) assessing early bone formation when re-entry sinus floor elevation (SFE) was performed 8 weeks after intentional complete sinus membrane perforation (≥10 mm) sealed with collagen matrix.
 
-## 한줄요약
-animal(JPIS 2026;56:161-171, 토끼 n=6): 완전 상악동막 천공(≥10mm) 후 8주 뒤 재시도 거상 — 신생골 면적 유의하게 감소(5.8 vs 10.5 mm², P<0.05); 대천공 후 재거상 시 골형성 손상.
+Histomorphometric new bone area was significantly smaller in the re-entry after perforation group vs intact controls (5.8±2.7 vs 10.5±1.9 mm², P<0.05); micro-CT showed no significant difference in total augmented or mineralized tissue volume.
+
+Large perforation (>10 mm) repaired with collagen matrix alone may not fully restore membrane integrity for bone formation; staged re-entry should allow more than 8 weeks of healing.
+
+## 세줄요약
+
+파일럿 전임상 동물 연구 (토끼 상악동 모델, n=6, 경희대학교): 콜라겐 매트릭스로 봉합된 완전 상악동막 천공 (≥10 mm) 후 8주 뒤 재시도 상악동저 거상술 (Sinus Floor Elevation, SFE)의 초기 골형성 평가.
+
+조직계측학적 신생골 면적 재시도군이 대조군보다 유의하게 작음 (5.8±2.7 vs 10.5±1.9 mm², P<0.05); 마이크로 CT상 전체 증대·무기화 조직 부피는 유의 차이 없음.
+
+대형 천공 (>10 mm) 후 콜라겐 매트릭스 단독 봉합만으로는 골형성을 위한 막 완전성 회복 불충분; 재시도 거상술은 8주 이상의 충분한 치유 기간 확보 필요.
 
 ## Summary
 Pilot animal study (Kyung Hee University, n=6 rabbits) evaluating early bone formation outcomes when re-entry sinus floor elevation (SFE) is performed 8 weeks after intentional complete sinus membrane perforation (≥10mm) sealed with collagen matrix.

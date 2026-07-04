@@ -18,13 +18,21 @@ relations:
     target: jakubovics-2021-dental-plaque-biofilm-matrix
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Editorial (Dent J 2018 special-issue intro): frames pulpal/periradicular disease as biofilm-mediated, with biofilm structure and polymicrobial interaction dynamics conferring extraordinary antimicrobial resistance — making targeted, biofilm-aware disinfection the goal of endodontic therapy.
+Editorial introducing the "Endodontic Microbiology" special issue of Dentistry Journal (2018), authored by Prashant Neelakantan; provides conceptual framing rather than primary data.
 
-## 한줄요약
+Pulpal and periradicular infections are defined as biofilm-mediated, with antimicrobial resistance arising from both the structural properties of the biofilm and the dynamics of polymicrobial interactions among its components.
 
-사설(Dent J 2018 특집호 서문): 치수·치근단 감염을 바이오필름 매개로 규정하고, 바이오필름 구조와 다균종 상호작용이 강한 항균저항성을 부여한다고 정리 — 바이오필름 표적 소독을 근관치료 목표로 제시.
+Understanding biofilm biology — EPS matrix, quorum sensing, persistent infections, irrigant effects — is positioned as prerequisite to designing effective targeted endodontic therapy; use this page for conceptual framing only, not as evidence of a treatment effect.
+
+## 세줄요약
+
+Prashant Neelakantan이 작성한 『Dentistry Journal』 2018년 근관치료 미생물학 특집호 서문 사설로, 원자 데이터 없이 개념 정리만을 제공한다.
+
+치수·치근단 감염은 바이오필름 매개로 규정되며, 항균 저항성은 바이오필름의 구조적 특성과 다균종 상호작용 역학 양쪽에서 비롯된다고 프레임화한다.
+
+EPS 기질·쿼럼 센싱·지속 감염·세정제 효과 등 바이오필름 생물학의 이해가 효과적 근관 소독 설계의 전제임을 강조하며, 치료 효과의 근거로 인용해서는 안 된다.
 
 ## Summary
 

@@ -20,13 +20,21 @@ relations:
     target: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro mechanical + structural bench study (46 elastodontic appliances artificial-aged at salivary pH 6/7/8 over 1–3 mo + 5 clinically retrieved appliances worn 2–12 mo) showing EAs are PDMS + silica-filler viscoelastic elastomers whose stress-softening (Mullins) ability and peak stress fall while compression set rises with aging — via side-chain (–CH₃) scission and Si–O–Si main-chain crosslinking, worst under alkaline (OH⁻) saliva, with structural integrity still acceptable to ~6 months of clinical service.
+In-vitro mechanical and structural bench study characterizing the aging behavior of elastodontic appliances (EAs): 46 standard-shape EAs artificially aged in salivary pH 6/7/8 over 1–3 months, plus 5 clinically retrieved EAs worn 2–12 months.
 
-## 한줄요약
+EAs are PDMS + silica-filler viscoelastic elastomers; with aging, Mullins stress-softening ability and peak stress decline while compression set rises, driven by side-chain (–CH₃) scission and Si–O–Si main-chain crosslinking — degradation is worst under alkaline (pH 8) saliva.
 
-체외 기계·구조 분석 연구(인공노화 EA 46개 pH 6/7/8, 1~3개월 + 임상 회수 EA 5개, 2~12개월): 엘라스토돈틱 장치(Elastodontic Appliance, EA)는 PDMS + 실리카 필러 점탄성 엘라스토머이고, 노화될수록 응력연화(Mullins 효과)·최대응력은 감소하고 압축영구변형(Compression Set, CS)은 증가한다. 기전은 측쇄(–CH₃) 절단 + Si–O–Si 주쇄 가교이며 알칼리(OH⁻) 타액에서 가장 심하고, 구조적 무결성은 임상 사용 약 6개월까지는 허용 가능하다.
+Structural integrity remains clinically acceptable to approximately 6 months of service; by 12 months fractures and calculus plaques render the appliance non-serviceable — supporting the 6–9-month replacement window.
+
+## 세줄요약
+
+엘라스토돈틱 장치(EA) 노화 거동을 규명한 체외 기계·구조 연구: 인공 타액 pH 6/7/8에서 1~3개월 인공노화 EA 46개 + 임상 회수 EA 5개(2~12개월 사용).
+
+EA는 PDMS + 실리카 필러 점탄성 엘라스토머; 노화 시 Mullins 응력연화·최대응력 감소, 압축영구변형(CS) 증가; 기전은 측쇄(–CH₃) 절단 + Si–O–Si 주쇄 가교 — 알칼리성(pH 8) 타액에서 가장 심각.
+
+구조적 무결성은 임상 사용 약 6개월까지 허용 가능; 12개월에는 파절·치석 형성으로 사용 불가 — 6~9개월 교체 주기를 지지.
 
 ## Summary
 

@@ -17,15 +17,25 @@ and host-factor context for interpreting the in-vitro acid-challenge data of
 [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] and
 [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]].
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review (J Dent 2014 Supplement) summarising chemical, biological, and host factors
 governing enamel mineral loss from caries and erosion, with management frameworks and emerging
 trends, concluding that prevention via evidence-based dietary and hygiene advice is the cornerstone
 of lifelong hard-tissue management.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review (J Dent 2014 Supplement): 법랑질 미네랄 소실(우식·침식·마모)의 화학적·생물학적·
 숙주인자 종합 정리 — 근거 기반 식이·구강위생 상담과 예방 중심 접근이 평생 경조직 관리의 핵심.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - J Dent. 2014;42(Suppl 1):S2–S11. Published June 2014.

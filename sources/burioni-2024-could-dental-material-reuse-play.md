@@ -17,11 +17,21 @@ text_filename: burioni-2024-could-dental-material-reuse-play.txt
 
 Part of the healing-abutment (HA) reuse controversy batch. [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] (anchor SR) concluded routine reprocessing does not reliably return HAs to a virgin surface and cautioned against indiscriminate reuse; this in vitro study (Burioni 2024, full text) provides the quantitative counterpart — sterilization eradicates all viable bacteria (100% of reused HAs culture-negative) yet leaves measurably more residual surface protein on reused than new HAs (18.76 vs 9.35 µg/mL, mean diff 9.41 µg/mL, 95% CI 4.28–14.54, p<0.001). It reinforces the "sterile ≠ clean" caveat that underpins the anchor SR's caution.
 
-## One-line Summary
-In vitro study (TG=40 reused+sterilized vs CG=35 new Winsix titanium healing abutments): a decontamination+autoclave protocol achieved 100% sterility (no bacterial growth) but left significantly more residual surface protein on reused HAs (18.76 vs 9.35 µg/mL, mean diff 9.41, 95% CI 4.28–14.54, t(30)=4.52, p<0.001; ~12 µg protein/screw); clinical significance of the difference undetermined.
+## Three-line Summary
 
-## 한줄요약
-인 비트로 연구(재사용+멸균 40개 vs 신품 35개 티타늄 힐링어버트먼트): 세척+오토클레이브 프로토콜은 세균을 100% 사멸(배양 음성)시켰으나, 재사용 어버트먼트 표면에 잔류 단백질이 유의하게 더 많이 남음(18.76 vs 9.35 µg/mL, 평균차 9.41, 95% CI 4.28–14.54, p<0.001, 스크류당 약 12 µg) — 멸균은 되나 "완전히 깨끗"하지는 않음, 그 차이의 임상적 의미는 미결정.
+In vitro comparative study (TG=40 reused+sterilized vs CG=35 new Winsix titanium healing abutments; IRCCS San Raffaele, Milan) testing whether a decontamination+autoclave protocol renders reused healing abutments microbiologically and chemically equivalent to new ones.
+
+The protocol achieved 100% sterility (no bacterial growth in any sample), but reused abutments retained significantly more residual surface protein than new ones (18.76 vs 9.35 µg/mL; mean diff 9.41, 95% CI 4.28–14.54; t(30)=4.52, p<0.001; ~12 µg protein per screw).
+
+Sterility does not equal cleanliness — the clinical significance of the residual protein difference is undetermined and requires prospective trials linking protein load to peri-implant inflammatory outcomes.
+
+## 세줄요약
+
+인 비트로 비교 연구(재사용+멸균 40개 vs 신품 35개 Winsix 티타늄 힐링어버트먼트; 밀라노 산라파엘 병원) — 세척+오토클레이브 프로토콜이 미생물학적·화학적 동등성을 달성하는지 검증.
+
+프로토콜은 세균을 100% 사멸(모든 샘플 배양 음성)했으나, 재사용 어버트먼트 표면에 잔류 단백질이 유의하게 더 많음(18.76 vs 9.35 µg/mL; 평균차 9.41, 95% CI 4.28–14.54; p<0.001; 스크류당 약 12 µg).
+
+멸균(sterility)과 청결(cleanliness)은 별개다 — 잔류 단백질 차이의 임상적 의미는 미결정이며, 단백질 부하와 임플란트 주위 염증 결과를 연결하는 전향적 연구가 필요.
 
 ## 1. Document Information
 

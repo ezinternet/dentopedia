@@ -13,7 +13,7 @@ source_collection: external
 
 [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]]가 EdgeTaper/PTG/TruNatomy 비교라면, 본 paper는 ProTaper series 내부 (PTU·PTN·PTG) head-to-head + autoclave 효과. M-wire(PTN) vs gold alloy(PTG) 진화 정량. PTG의 PTU/PTN 대비 강도 우월성 — 클리닉 file 선택 의사결정 근거.
 
-## One-line Summary
+## Three-line Summary
 In vitro (n=240, 3 files × 4 groups × 20): PTG > PTN > PTU 순 cyclic fatigue resistance (group 1, p<0.05); autoclave 10회로 PTN·PTG NCF 유의 증가; pre-fatigue + autoclave 시 PTN·PTG 추가 강화.
 
 ## 1. Document Information

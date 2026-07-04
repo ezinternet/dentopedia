@@ -16,13 +16,21 @@ relations:
     target: tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (8 studies): implant success >91% at up to 5 years for BOTH thin and thick gingival phenotypes; phenotype does not directly determine survival, but the thin phenotype is a main risk factor for additional marginal bone loss — so its effect on survival is indirect, via peri-implantitis/MBL.
+PRISMA systematic review (8 studies; PubMed/MEDLINE, PMC, B-On; search April–September 2023; last 13 years; ≥1-year follow-up with MBL assessment; 2 independent reviewers + JBI critical appraisal) examining whether gingival phenotype influences marginal bone loss and implant survival.
 
-## 한줄요약
+Implant success exceeded 91% at up to 5 years regardless of phenotype (thin or thick); the direct effect of tissue thickness on marginal bone level was inconclusive, but the thin phenotype was identified as a principal risk factor for additional bone loss.
 
-체계적 문헌고찰(8편): 얇은·두꺼운 치은 표현형 모두 5년까지 성공률 >91%. 표현형이 생존율을 직접 결정하지 않으나 얇은 표현형은 추가 변연골소실의 주요 위험인자 — 생존율 영향은 임플란트주위염/MBL을 통한 간접 경로.
+The thin phenotype's effect on survival is indirect — mediated through peri-implantitis/MBL risk — so preserving or augmenting a thin phenotype is recommended not to save the implant directly, but to reduce downstream peri-implantitis risk; flapless protocols showed better short-term esthetics.
+
+## 세줄요약
+
+PRISMA 체계적 고찰 (8편; 검색 2023년 4–9월; 최근 13년; 추적 ≥1년 + 변연골소실 평가 포함; 독립 2인 검토 + JBI 비뚤림 평가): 치은 표현형이 변연골 소실 및 임플란트 생존에 미치는 영향.
+
+얇은·두꺼운 표현형 모두 5년 성공률 >91%; 조직 두께가 변연골소실 (Marginal Bone Loss, MBL)에 직접적으로 영향을 미치는지는 불명확; 그러나 얇은 표현형은 추가 골 소실의 주요 위험인자로 확인.
+
+얇은 표현형의 생존율 영향은 임플란트주위염 (Peri-implantitis)/MBL을 통한 간접 경로 — 표현형 증대가 임플란트를 직접 '구하기' 위해서가 아닌 하방 임플란트주위염 위험 감소를 위해 권장; 무피판 (Flapless) 프로토콜은 단기 심미 결과 우수.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [MB2, CBCT, maxillary-molar, canal-morphology, Han, prevalence]
 ---
 
-## One-line Summary
-Systematic review + meta-analysis (14 CBCT studies, 15,639 participants / 35,929 teeth, Han population): pooled second mesiobuccal canal (MB2) prevalence 63.7% in maxillary first molars (PMFM) and 23.3% in second molars (PMSM); males had significantly higher odds (OR 1.53 PMFM, 1.79 PMSM), no left-right difference, with very high heterogeneity (I²>95%).
+## Three-line Summary
 
-## 한줄요약
-SR+MA (14개 CBCT 연구, 35,929치): 한족 상악 제1대구치 MB2 유병률 63.7%, 제2대구치 23.3% — 남성이 유의하게 높은 오즈비 (OR 1.53–1.79), 이분산성 매우 높음.
+SR+MA (14 CBCT studies, 15,639 participants / 35,929 teeth) of second mesiobuccal canal (MB2) prevalence specifically in the Han Chinese population — the largest ethnic group worldwide.
+
+Pooled MB2 prevalence: 63.7% in maxillary first molars and 23.3% in second molars; males had significantly higher odds in both (OR 1.53 and OR 1.79, respectively), with no left-right laterality difference; heterogeneity was very high (I²>95%).
+
+CBCT is essential for MB2 detection in Han patients, and individualized assessment should account for sex-based anatomical differences; the three-fold gap between first and second molar prevalence should guide clinical index of suspicion.
+
+## 세줄요약
+
+SR+MA (14개 CBCT 연구, 15,639명/35,929치아): 한족 상악 대구치에서 제2근심협측 근관(MB2) 유병률 분석 — 세계 최대 민족 집단 대상 전용 분석.
+
+상악 제1대구치 63.7%, 제2대구치 23.3%; 남성이 두 치아형에서 유의하게 높은 오즈비(OR 1.53, 1.79); 좌우 차이 없음; 이질성 매우 높음(I²>95%).
+
+한족 환자에서 MB2 탐지를 위해 CBCT가 필수적이며, 성별 차이를 고려한 개별적 진단 접근과 제1·2대구치 유병률 3배 격차를 임상에 반영해야 한다.
 
 ## Summary
 Systematic review and meta-analysis of 14 CBCT-based studies (15,639 participants, 35,929 teeth) evaluating the prevalence of 제2근심협측 근관 (second mesiobuccal canal, MB2) in the 한족 (Han population). Pooled MB2 prevalence: 63.7% in 상악 제1대구치 (PMFM) and 23.3% in 상악 제2대구치 (PMSM). Males had significantly higher odds of MB2: OR 1.532 (PMFM) and OR 1.790 (PMSM). No left-right side difference. Very high heterogeneity (I²>95%) across both molar types.

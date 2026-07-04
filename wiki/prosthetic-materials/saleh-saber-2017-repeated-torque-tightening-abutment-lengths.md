@@ -16,13 +16,21 @@ relations:
     target: couso-queiruga-2025-misfit-implant-prosthesis-bone-loss
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (n=32) across four internal implant–abutment connection types found that octagon connections produced the least settling (axial displacement) under repeated torque (20–30 Ncm), while internal hexagon connections produced the most, with the plateau reached after the second torque application.
+In vitro bench study (n=32, 8 per connection type) comparing axial settling across four internal implant–abutment connections (internal hexagon, octagon, Morse hex 6°, Morse hex 11°) torqued up to 30 Ncm across prosthetic fabrication stages.
 
-## 한줄요약
+Octagon showed the least settling at 30 Ncm (~18 µm cumulative) and internal hexagon the most (~35 µm); the settling plateau was reached after the second torque application — 3rd through 5th repetitions added no significant displacement.
 
-내부 연결형 임플란트 4종 비교 in vitro 연구(n=32): 반복 토크(20–30 Ncm) 적용 시 팔각형(octagon) 연결부가 안착 효과(settling effect, 축방향 변위)가 가장 작고 내부 육각형이 가장 컸으며, 30 Ncm 2회째부터 추가 안착이 유의하게 없었다.
+Connection geometry dominates settling risk, and retorquing twice at 30 Ncm is sufficient; excessive repeated tightening beyond the 2nd application does not add clinically meaningful settling.
+
+## 세줄요약
+
+체외 실험(n=32, 연결 유형별 8개): 내부 육각형·팔각형·Morse hex 6°·11° 네 종류 내부 연결 임플란트-어버트먼트의 축방향 안착(axial settling)을 20–30 Ncm 토크 및 보철 제작 단계별로 비교.
+
+30 Ncm 기준 팔각형이 누적 안착 최소(~18 µm), 내부 육각형이 최대(~35 µm); 안착 고원(plateau)은 2회 조임 후 도달 — 3~5회 추가 조임 시 유의한 변위 없음.
+
+연결 기하학이 안착량을 결정하며, 30 Ncm 2회 재조임이면 충분하고 과도한 반복 조임은 추가 안착을 일으키지 않음.
 
 ## Summary
 

@@ -17,13 +17,21 @@ text_filename: grassi-2017-effectiveness-computer-assisted-anesthetic-implant.tx
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort study (n=45) found computer-assisted Single Tooth Anesthesia (STA) delivered markedly less pain (mean 1.6/10) than patients' prior experience with conventional anesthesia (mean 7.9/10) during dental implant surgery, using half the anesthetic volume.
+Prospective cohort study (n=45) evaluating computer-assisted Single Tooth Anesthesia (STA) for dental implant surgery using a within-patient comparison of recalled conventional anesthesia (CA) pain versus new STA pain; both immediate and delayed implant placements were included.
 
-## 한줄요약
+STA produced dramatically lower pain scores (mean 1.6 ± 0.7 vs CA 7.9 ± 1.2, z=5.873, p<0.0001), high patient comfort (mean 9.5/10), and required only half the anesthetic volume with supplementation needed in just 3 of 45 cases.
 
-전향적 코호트 연구(n=45)에서 컴퓨터 제어 국소마취(Single Tooth Anesthesia, STA)가 임플란트 수술 시 기존 전통마취(Conventional Anesthesia, CA) 대비 통증을 크게 낮췄으며(평균 1.6 vs 7.9/10), 마취제 사용량도 절반으로 감소했다.
+Computer-controlled intraosseous/periodontal-space injection can substantially improve the implant surgery experience and reduce anesthetic consumption, though the within-patient recalled-pain design limits causal inference.
+
+## 세줄요약
+
+전향적 코호트 연구 (n=45): 임플란트 수술에서 컴퓨터 제어 단일치아마취(STA)를 적용하고, 3년 내 동일 환자의 기존 전통마취(CA) 통증 기억값과 비교; 즉시·지연 임플란트 식립 모두 포함.
+
+STA는 CA 대비 통증을 극적으로 낮췄고(평균 1.6±0.7 vs 7.9±1.2, z=5.873, p<0.0001), 환자 편안감 평균 9.5/10, 마취제 용량은 절반으로 45례 중 3례만 보충주사 필요.
+
+컴퓨터 제어 마취는 임플란트 수술의 경험을 크게 개선하고 마취제 소모량을 줄일 수 있으나, 회상 비교 설계의 한계로 인과적 결론에는 주의가 필요하다.
 
 ## Summary
 

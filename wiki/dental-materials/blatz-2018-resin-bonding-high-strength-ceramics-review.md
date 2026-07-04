@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Critical review (JDR 2018): effect of resin bonding on long-term success of high-strength ceramics (alumina and zirconia) — pretreatment protocols (sandblasting, silane, Rocatec) and cement selection guidelines by restoration type.
+## Three-line Summary
 
-## 한줄요약
-JDR 비평적 리뷰(2018): 고강도 세라믹(알루미나·지르코니아) 레진본딩이 장기 성공에 미치는 영향 — 전처리(샌드블라스팅·실란·Rocatec), 수복물 유형별 시멘트 선택 지침
+Critical narrative review (JDR 2018) of clinical evidence for resin bonding protocols on high-strength ceramics (alumina and zirconia), covering surface pretreatment methods (Al2O3 abrasion, silica/silane coating via Rocatec/CoJet), and cementation strategies by restoration type.
+
+Resin bonding is mandatory for adhesion-dependent restorations (veneers, RBFDPs, thin ceramics), while conventional cementation remains acceptable for retentive full-coverage crowns; tribochemical silica + silane (Rocatec, CoJet) produces superior bond strength for zirconia versus sandblasting alone.
+
+Single-retainer cantilever RBFDPs achieved 92.3% survival at 5 years and 94.4% at 10 years; monolithic full-contour zirconia crowns had limited long-term clinical data available as of 2018.
+
+## 세줄요약
+
+비평적 서술 리뷰(JDR 2018): 고강도 세라믹(알루미나·지르코니아) 레진 결합 프로토콜 임상 근거 — Al2O3 연마, 실란 코팅(Rocatec·CoJet), 수복물 유형별 시멘트 선택 전략.
+
+접착 의존형 수복물(베니어·수지 결합 고정성 치아보철물(Resin-Bonded FDP, RBFDP)·박형 세라믹)에는 레진 결합 필수; 유지형 전부피개 크라운은 통상 시멘트 사용 가능; 트리보화학적 실리카+실란(Rocatec·CoJet)이 지르코니아 접착강도 우위.
+
+편측 캔틸레버 RBFDP: 5년 92.3%, 10년 94.4% 생존율; 단일구조 완전해부학적 지르코니아(Full-Contour Zirconia, FCZ) 크라운은 2018년 기준 장기 임상 데이터 부족.
 
 ## Summary
 Critical review in JDR discussing clinical evidence for resin bonding protocols for high-strength ceramic restorations (alumina, zirconia). Covers surface pretreatment methods (Al₂O₃ air-particle abrasion, silica/silane coating via Rocatec/CoJet), cementation strategies by restoration type, and clinical survival data for zirconia-based FDPs and RBFDPs.

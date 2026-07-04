@@ -52,12 +52,21 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 구강작열감증후군(Burning Mouth Syndrome, BMS): 단계적 protocol — 습관조절→타액대체→심리상담→Clonazepam 국소→아연(Lee 2024). 2차 원인(빈혈·DM·Sjögren·Candida) 감별 우선.
 > - Corticosteroid: 단기 적응(술후 부종·OLP·아프타) 좁게 유지, 만성 복용자 침습 처치 시 부신위기 case-by-case 고려(routine stress dose 비권고). 이식·면역저하 환자는 이식 전 치과 클리어런스 필수.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of papers on dental management of medically compromised patients across four axes — disease-specific modification, drug-drug-interaction (DDI) screening, local-anesthetic vasoconstrictor safety, and HbA1c interpretation limits. Core thesis: controlled diabetes (HbA1c <7.0%) is not an implant contraindication (overall DM failure OR 1.78, T1DM OR 4.48), and 1:200,000 epinephrine matches 1:80,000 analgesia while being hemodynamically safer. Clinical takeaway: stratify implant decisions by HbA1c (but never trust HbA1c alone — Hb variants/anemia/CKD confound), screen elderly polypharmacy for DDIs (40.7% prevalence), and use only 1:100,000–200,000 epinephrine in pregnancy (felypressin contraindicated).
+Synthesis of 22 papers on dental management of medically compromised patients across four axes — disease-specific modification, drug-drug-interaction (DDI) screening, local-anesthetic vasoconstrictor safety, and HbA1c interpretation limits; Korean general-hospital OMFS baseline: 12.2% systemic disease comorbidity (Kim 2000, n=3,506), most common hypertension > diabetes > cardiac; controlled diabetes (HbA1c <7.0%) is not an implant contraindication — Wagner 2022 SR; Al-Ansari 2022 SR+MA 89 studies overall DM failure OR 1.78, T1DM vs T2DM OR 4.48, MBL +0.776 mm, maxilla > mandible failure.
 
-## 한줄요약
-전신질환 환자 치과 관리는 (a) DM·CVD·간·신 등 질환별 modification, (b) 약물상호작용 (Drug-Drug Interaction, DDI) 점검, (c) 국소마취제 vasoconstrictor 안전성, (d) HbA1c 해석 한계 인식의 4축. 조절 DM 임플란트는 정상 환자와 동등, 비조절 DM은 임플란트 실패 OR 1.78.
+1:200,000 epinephrine matches 1:80,000 analgesia while being hemodynamically safer (Karm 2017 RCT n=51) — use as first choice including CVD/hypertension/hyperthyroidism; β-blocker interaction: dilute and minimize dose; DDI prevalence in elderly: 40.7% positive, prescriber awareness 42.7% (Pyo 2026); major DDIs concentrated in 31–60-year-old CVD patients (Colibasanu 2025); Sjögren ACR-EULAR 2016 score ≥4 triggers rheumatology referral (Shiboski 2016); BMS stepwise protocol: habit modification → saliva substitutes → psychological counseling → topical clonazepam → zinc (Lee 2024).
+
+Clinical decision thresholds: HbA1c <7.0% proceed normally; 7.0–9.0% proceed with enhanced monitoring + CHX rinse; >9.0% defer to medical consultation; never rely on HbA1c alone — Hb variants/anemia/hemolysis/CKD confound (Chen 2022); pregnancy: use only 1:100,000–200,000 epinephrine, felypressin contraindicated (uterine contraction, Uritu 2025 SR); Korean sedation standard exists (2022 guideline, 15 PICO) but local-anesthesia guideline does not (Hwang 2023 proposal only).
+
+## 세줄요약
+
+전신질환 22편 통합, 4축: (a) 질환별 modification — 당뇨(Diabetes Mellitus, DM) 조절 DM(HbA1c <7.0%)은 임플란트 금기 아님(Wagner 2022); 전체 DM 실패 교차비(Odds Ratio, OR) 1.78·1형 당뇨(T1DM) OR 4.48(Al-Ansari 2022 SR+MA 89편); (b) 약물상호작용(Drug-Drug Interaction, DDI) — 고령 환자 DDI 보유율 40.7%·처방자 인식률 42.7%(Pyo 2026), 대표 주요 DDI = 에피네프린(Epinephrine)+비선택적 베타차단제(β-blocker).
+
+(c) 혈관수축제(Vasoconstrictor) 안전성 — 1:200,000 에피네프린이 1:80,000과 진통 동등·혈역학적으로 안전(Karm 2017 RCT n=51); 심혈관질환(Cardiovascular Disease, CVD)·고혈압·갑상선기능항진증 포함 1차 선택; 임신 시 1:100,000–200,000만 허용, felypressin 금기(자궁수축, Uritu 2025 SR). (d) HbA1c 해석 한계 — 헤모글로빈(Hemoglobin, Hb) 변이·빈혈·용혈·만성신부전(Chronic Kidney Disease, CKD)에서 위양/위음; 공복·임의 혈당 병행 필수.
+
+쇼그렌증후군(Sjögren Syndrome, pSS) ACR-EULAR 2016 ≥4점 시 류마티스내과 의뢰(Shiboski 2016); 구강작열감증후군(Burning Mouth Syndrome, BMS) 단계적 프로토콜: 습관조절→타액대체→심리상담→클로나제팜(Clonazepam) 국소→아연(Lee 2024); 한국 진정 표준(2022 가이드라인 15 PICO) 있으나 국소마취 표준 없음(Hwang 2023 제안 단계).
 
 ---
 

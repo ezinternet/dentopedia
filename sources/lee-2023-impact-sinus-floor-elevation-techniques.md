@@ -15,13 +15,23 @@ source_collection: external
 
 OMS 상악동거상술 (Sinus Floor Elevation, SFE) 개요의 "예방 축(prevention axis)" 보강을 위해 수집. 기존 [[wiki/sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]]는 천공 후 수복 결과에 집중했으나, 본 SR+NMA (85연구, 5,551술식)는 술식 유형별(측방창 vs 경치조골) 및 기구별 슈나이더 막 천공 (Sinus Membrane Perforation, SMP) 위험을 NMA로 직접 비교하고 천공이 임플란트 생존율에 미치는 영향을 정량화한 첫 네트워크 메타분석.
 
-## One-line Summary
+## Three-line Summary
 
-SR + NMA (85 studies, 5,551 SFE procedures): rotary burs in LSFE carry the highest SMP risk (SUCRA 0.0745) while reamers in TSFE have the lowest (SUCRA 0.9444); each 10% increase in SMP rate reduces implant survival (OR = 0.45, 95% CrI: 0.21–0.71).
 
-## 한줄요약
+SR + NMA (85 studies, 5,551 SFE procedures): rotary burs in LSFE carry the highest SMP risk (SUCRA 0.0745) while reamers in TSFE have the lowest (SUCRA 0.9444);
 
-SR+NMA (85연구, 5,551술식): 측방창에서 회전 버 (Rotary Bur)가 SMP 위험 최고(SUCRA 0.0745), 경치조골에서 리머 (Reamer)가 최저(SUCRA 0.9444); 천공률 10% 증가마다 임플란트 생존율 유의하게 감소(OR 0.45).
+each 10% increase in SMP rate reduces implant survival (OR = 0.45, 95% CrI: 0.21–0.71).
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+NMA (85연구, 5,551술식): 측방창에서 회전 버 (Rotary Bur)가 SMP 위험 최고(SUCRA 0.0745), 경치조골에서 리머 (Reamer)가 최저(SUCRA 0.9444);
+
+천공률 10% 증가마다 임플란트 생존율 유의하게 감소(OR 0.45).
+
+(incomplete)
 
 ## 1. Document Information
 

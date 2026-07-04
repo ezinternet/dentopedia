@@ -17,13 +17,21 @@ text_filename: almalki-2024-clear-aligner-masticatory-stomatognathic-sr.txt
 
 Part of the clear-aligner-limitations evidence base: documents that clear aligner therapy (CAT) is NOT inert on the masticatory/stomatognathic system — it transiently raises muscle activity/discomfort and reduces bite force in the first days/weeks. Pairs directly with the EMG sibling [[wiki/orthodontics/clear-aligner/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] (masseter/temporalis sEMG) and contextualizes the overall efficacy/safety anchor [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]].
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (no meta-analysis; 6 clinical studies, n=10–31, ROB-2) finding clear aligner therapy causes a transient early increase in masticatory muscle activity/discomfort that normalizes on follow-up, plus a significant bite-force reduction; all 6 studies were of good methodological quality (low overall risk of bias).
+Systematic review without meta-analysis (6 clinical studies, n=10–31, follow-up 9 days–8 months, ROB-2) examining the effect of clear aligner therapy on masticatory musculature and the stomatognathic system in adults.
 
-## 한줄요약
+Clear aligner therapy causes a transient early increase in masticatory muscle activity and discomfort that normalizes on later follow-up, with a consistent significant reduction in bite force across studies; no causal link to TMD onset was found.
 
-체계적 문헌고찰(메타분석 없음; 임상연구 6편, n=10–31, ROB-2): 투명교정(Clear Aligner Therapy, CAT)은 착용 초기에 저작근 활성도·불편감을 일시적으로 증가시키나 추적 시 정상화되고, 교합력(bite force)은 유의하게 감소함. 6편 모두 방법론적 질 양호(전체 비뚤림 위험 낮음).
+All 6 included studies were of good methodological quality (low overall risk of bias), but the small heterogeneous sample sizes precluded meta-analysis; clinicians can counsel patients that early muscle discomfort is expected but resolves.
+
+## 세줄요약
+
+체계적 문헌고찰 (메타분석 없음; 성인 임상연구 6편, n=10–31, 추적 9일–8개월, ROB-2) — 투명교정(Clear Aligner Therapy, CAT)이 저작계에 미치는 영향 평가.
+
+CAT 초기 저작근 활성도·불편감 일시 증가, 추적 시 정상화; 교합력(bite force) 유의 감소 일관; TMD 발생과의 인과관계 없음.
+
+6편 모두 방법론적 질 양호(전체 비뚤림 위험 낮음)이나 이질적 소표본으로 메타분석 불가; 초기 근육 불편감은 예상되지만 자연 소실된다고 환자 상담 가능.
 
 ## 1. Document Information
 

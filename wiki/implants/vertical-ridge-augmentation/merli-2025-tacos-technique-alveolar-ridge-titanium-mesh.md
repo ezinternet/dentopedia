@@ -13,13 +13,21 @@ source_collection: external
 tags: [titanium-mesh, cad-cam, gbr, surgical-protocol, technical-note, cgf, dbbm, vertical-augmentation]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Technical note / stepwise protocol (no patient outcome dataset): the TACOS technique (Titanium Alveolar Customized Osteogenic Scaffold) — a ~14-step procedure for horizontal+vertical ridge augmentation with CAD/CAM/SLM customized titanium mesh, autogenous bone + DBBM (≥60:40), cortical perforations for RAP, CGF, and a resorbable membrane over the mesh.
+Technical note / narrative review codifying the TACOS technique (Titanium Alveolar Customized Osteogenic Scaffold) — a stepwise ~14-step protocol for horizontal and vertical alveolar ridge augmentation using CAD/CAM/SLM patient-specific titanium mesh; no patient outcome cohort or quantitative data are reported.
 
-## 한줄요약
+The protocol integrates: virtual CBCT planning → autologous bone harvest (piezoelectric, ramus-corpus, nerve-aware) → autologous + DBBM graft (≥60:40 ratio) → cortical perforations to trigger Regional Acceleratory Phenomenon (RAP) → concentrated growth factors (CGF) → resorbable membrane (Bio-Gide) layered over the mesh → tension-free primary closure.
 
-기술 노트/단계별 프로토콜 (환자 결과 데이터 없음): TACOS 기법(맞춤형 티타늄 골유도 스캐폴드)을 약 14단계로 기술 — CAD/CAM·SLM 맞춤형 티타늄 메시, 자가골+DBBM(≥60:40), 피질골 천공(RAP), 농축성장인자(CGF), 메시 위 흡수성 차폐막을 활용한 수평·수직 치조제 증대술.
+Because no outcome data (VBG, complication rates, implant survival) are reported, clinical impact comes from procedural codification rather than efficacy evidence; the paper is a "how-to" companion to Chiapasco 2021 (which provides the outcome numbers for the same customized-Ti-mesh approach).
+
+## 세줄요약
+
+기술 노트/서술적 고찰: TACOS 기법(Titanium Alveolar Customized Osteogenic Scaffold) — CAD/CAM·선택적 레이저 용융(SLM) 맞춤형 Ti 메시를 이용한 수평·수직 치조제 증대술의 약 14단계 표준화 프로토콜; 환자 코호트·정량 데이터 없음.
+
+프로토콜 핵심 구성: 가상 CBCT 계획 → 자가골 채취(압전, 하악지·체부, 하치조신경 보호) → 자가골+탈단백우골(DBBM) ≥60:40 혼합 이식 → 피질골 천공(지역 가속 현상, Regional Acceleratory Phenomenon, RAP 유발) → 농축성장인자(Concentrated Growth Factors, CGF) → 메시 위 흡수성 차폐막(Bio-Gide) → 장력 없는 일차 봉합.
+
+수직 골증대·합병증·임플란트 생존 등 결과 데이터 없음 — 임상 가치는 효능 근거가 아닌 절차 표준화에 있으며, Chiapasco 2021(동일 CAD/CAM Ti 메시 기법의 결과 수치 제공)의 외과적 안내서 역할.
 
 ## Summary
 

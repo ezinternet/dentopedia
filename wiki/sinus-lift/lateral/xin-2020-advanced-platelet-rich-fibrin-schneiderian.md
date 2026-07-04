@@ -13,11 +13,21 @@ source_collection: external
 tags: [a-prf, schneiderian-membrane, perforation, animal, dbbm, sinus-elevation]
 ---
 
-## One-line Summary
-Randomized animal study (n=24, 12/group) comparing advanced platelet-rich fibrin (A-PRF) vs absorbable collagen membrane (CM) for repair of an intentionally perforated Schneiderian membrane during lateral-window sinus elevation with DBBM grafting: A-PRF achieved a fully reconstituted membrane by 1 week, fewer inflammatory cells, and significantly more new osteoid at both 1 and 4 weeks (p<0.0001), supporting bioactive over purely barrier repair materials.
+## Three-line Summary
 
-## 한줄요약
-동물 실험 (Animal Study, n=24, 1:1 무작위) — 상악동거상술 시 슈나이더 막 (Schneiderian Membrane, SM) 인위적 천공 후 진보된 혈소판 풍부 피브린 (Advanced Platelet-Rich Fibrin, A-PRF)이 흡수성 콜라겐 막 (Collagen Membrane, CM)보다 1주 시 막을 완전히 재형성하고, 1주·4주 모두 신생 골양조직 (Osteoid)이 유의하게 더 많이 형성되었다 (p<0.0001).
+Randomized animal study (n=24, 12/group) comparing advanced platelet-rich fibrin (A-PRF) vs absorbable collagen membrane (CM) for repair of an intentionally perforated Schneiderian membrane during lateral-window sinus elevation with deproteinized bovine bone mineral (DBBM) grafting, assessed histologically at 1 and 4 weeks.
+
+A-PRF achieved full membrane reconstitution by 1 week; fewer inflammatory cells at perforation site at both time points; significantly more new osteoid at 1 and 4 weeks vs CM (p<0.0001).
+
+A-PRF acts as a bioactive rather than purely barrier repair material, supporting dual-source osteogenesis; however, all evidence is animal-level and long-term implant outcomes are not reported.
+
+## 세줄요약
+
+동물 실험 (n=24, 1:1 무작위): 측방창 상악동거상술 시 의도적 슈나이더 막 천공 후 진보된 혈소판 풍부 피브린 (Advanced Platelet-Rich Fibrin, A-PRF) vs 흡수성 콜라겐막 (Collagen Membrane, CM) 비교 — 조직학·조직형태계측, 1주·4주 평가.
+
+A-PRF군: 1주 시 막 완전 재형성, 양 시점 모두 염증 세포 감소, 신생 골양조직 (Osteoid) 유의하게 더 많이 형성 (p<0.0001).
+
+A-PRF는 단순 차단 재료가 아닌 생체활성 (Bioactive) 수복 재료로 이중 조골원 가설 지지; 단 동물 수준 근거이며 장기 임플란트 결과는 보고되지 않음.
 
 ## Summary
 Xin et al. (2020, Front Bioeng Biotechnol) directly compared advanced platelet-rich fibrin (A-PRF) against an absorbable collagen membrane (CM) for repair of an intentionally perforated Schneiderian membrane during simultaneous lateral-window maxillary sinus elevation with deproteinized bovine bone mineral (DBBM) grafting in a randomised animal model (n=24, 12 per group). Histologic and histomorphometric outcomes were assessed at 1 and 4 weeks. A-PRF showed an intact reconstituted membrane at 1 week, fewer inflammatory cells at the perforation site at both time points, and significantly more new osteoid area at both 1 and 4 weeks (p<0.0001). At 4 weeks, osteogenesis in the A-PRF group radiated from the membrane periphery toward the centre of the sinus cavity — consistent with the Schneiderian membrane acting as a second osteogenic source when not blocked by a dense barrier. The study positions A-PRF as a bioactive (not merely barrier) material for perforation repair.

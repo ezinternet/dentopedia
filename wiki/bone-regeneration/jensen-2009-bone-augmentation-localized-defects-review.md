@@ -14,11 +14,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-ITI 4th Consensus background SR (108 studies, 11 RCTs): across 4 defect types (dehiscence/fenestration, horizontal, vertical, sinus), no single superior augmentation protocol exists; implant survival in augmented bone equals that in native bone (level A–B evidence).
+## Three-line Summary
 
-## 한줄요약
-ITI 4차 컨센서스 배경 SR(108편, RCT 11편): 4개 결손유형(열개·천공·수평·수직·상악동) 골이식 — 단일 우월 protocol 없음; 증대골 임플란트 생존율 = 자연골(level A–B 근거).
+ITI 4th Consensus background systematic review (108 studies including 11 RCTs, 1990s–2008) classifying bone augmentation evidence across 4 defect types: dehiscence/fenestration, horizontal, vertical, and sinus floor augmentation.
+
+No single superior augmentation protocol could be identified for any defect type due to study heterogeneity and limited RCT count; however, implant survival in augmented bone was established as equivalent to native bone at level A–B evidence.
+
+This defect-type classification framework became the foundation for subsequent ITI consensus statements and systematic reviews on bone augmentation.
+
+## 세줄요약
+
+ITI 4차 컨센서스 배경 체계적 문헌고찰(108편, RCT 11편, 1990년대~2008년): 골증대 근거를 4개 결손유형(열개/천공·수평·수직·상악동거상)으로 분류.
+
+어느 유형에서도 단일 우월 프로토콜 지정 불가(이질성·RCT 부족); 단, 증대골 임플란트 생존율 = 자연골이 level A–B 근거로 확립.
+
+이 4분류 체계는 이후 ITI 컨센서스·후속 SR이 채택하는 골증대 결손 분류의 기초 프레임워크로 정착.
 
 ## Summary
 Jensen·Terheyden(2009)은 ITI 4차 컨센서스 배경 SR로, 1990s–2008 영문 문헌(108편, 11 RCT)을 4개 결손유형(dehiscence/fenestration, 수평 ridge augmentation, 수직 ridge augmentation, MSFA)으로 분류·종합했다. 핵심 결론은 두 가지: (1) 어느 유형에서도 단일 우월 protocol을 지정할 수 없음 — 이질성과 RCT 수 부족 때문; (2) 다만 "증대된 골에 식립한 임플란트 생존율은 자연골과 동등하다"는 점은 level A–B 근거로 확립. 이 SR은 현재까지도 ITI consensus와 후속 SR이 참조하는 결손 분류 체계의 기초다.

@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]]는 내러티브 리뷰로 병인론·치료 개요를 제공하지만, CBCT 기반 단면연구에서 치주골소실이 치근단병소보다 점막비후와 더 강하게 연관된다는 임상 수치 근거가 없었음. 본 연구(Bisla 2022)는 대조군 포함 213명, 404개 상악동 CBCT를 분석하여 periapical lesion의 크기·거리보다 치주골소실이 2.2배 더 강력한 점막비후 예측인자임을 보여줌.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional CBCT study (n=213 patients, 404 sinuses) found periodontal bone loss — not periapical lesion size or proximity — is the dominant predictor of maxillary sinus mucosal thickening (OR 2.2), with overall mucosal change prevalence of 49.5%.
+Cross-sectional CBCT study (213 patients, 404 maxillary sinuses; 111 with odontogenic pathology vs 102 controls) using binary logistic regression to identify predictors of sinus mucosal changes.
 
-## 한줄요약
+Periodontal bone loss — not periapical lesion size (p=0.646) or proximity to sinus floor (p=0.49) — was the dominant predictor of mucosal thickening (OR 2.2); overall sinus mucosal change prevalence was 49.5%, highest in severe bone loss cases (72%).
 
-단면연구(213명, 404개 상악동 CBCT)에서 치주골소실이 치근단병소 크기·거리보다 상악동 점막비후의 더 강한 예측인자(OR 2.2)이며 전체 점막변화 유병률 49.5% 확인.
+Periodontal disease is a stronger odontogenic trigger for maxillary sinus disease than periapical pathology, suggesting periodontal treatment should be prioritized when sinus mucosal thickening is detected alongside posterior maxillary periodontitis.
+
+## 세줄요약
+
+단면연구(213명, 404개 상악동 CBCT; 치성 병소군 111명 vs 대조군 102명) — 이분형 로지스틱 회귀로 상악동 점막 변화 예측인자 분석.
+
+치주골소실이 치근단병소 크기(p=0.646)·거리(p=0.49)보다 점막비후의 더 강력한 예측인자(OR 2.2); 전체 점막변화 유병률 49.5%, 중증 골소실 시 72%까지 상승.
+
+치주 질환이 치근단 병소보다 상악동 점막 변화에 더 강한 원인으로 작용 — 상악동 점막비후 발견 시 후방 상악 치주 상태를 우선 평가·치료할 것을 시사.
 
 ## 1. Document Information
 

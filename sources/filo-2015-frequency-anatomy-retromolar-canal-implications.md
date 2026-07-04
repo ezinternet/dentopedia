@@ -16,13 +16,23 @@ text_filename: filo-2015-frequency-anatomy-retromolar-canal-implications.txt
 
 경부신경총·이설골설근신경 경로 외에, 세 번째 부가신경 경로인 **후구치관(retromolar canal, RMC)**을 CBCT로 정량화한 논문 — [[wiki/local-anesthesia/lin-2013-transverse-cervical-nerve-implications-dental]]·[[wiki/local-anesthesia/stein-2007-sensory-innervation-mandibular-teeth-nerve]]와 함께 "IANB 후에도 하악 후방부에서 통증이 남는" 임상 현상의 세 번째 해부학적 근거를 제공.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective CBCT study (680 scans, 1,340 mandibular sides): retromolar canal (RMC) found in 16.12% of sides, carrying accessory nerve fibers alongside blood vessels — a documented anatomical cause of mandibular block anesthesia failure and a structure to spare or additionally anesthetize during retromolar surgery.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 CBCT 연구(680건, 하악 1,340측): 후구치관(retromolar canal, RMC)이 16.12%에서 관찰되었고 혈관과 함께 부가신경섬유를 포함 — 하악블록마취 실패의 문서화된 해부학적 원인이며, 후구치부 수술 시 보존하거나 추가 국소마취를 고려해야 할 구조.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

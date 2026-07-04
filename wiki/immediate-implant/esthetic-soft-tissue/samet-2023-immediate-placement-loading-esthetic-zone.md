@@ -13,11 +13,19 @@ source_collection: external
 tags: [immediate-implant, esthetic-zone, provisionalization, socket-shield, ovate-pontic, anterior-maxilla]
 ---
 
-## One-line Summary
-Narrative review / clinical guide (IntechOpen book chapter 2023) on anterior immediate implant placement + immediate loading: in well-selected cases (intact buccal plate, thick biotype, no apical pathology), atraumatic extraction, palatal-axis placement, gap grafting, and an out-of-occlusion ovate-pontic provisional preserve buccal bone and gingival architecture, with midfacial recession (~0.5–1 mm) the main residual risk.
+## Three-line Summary
+Narrative review / clinical guide (IntechOpen 2023) covering indications, contraindications, surgical principles, and provisional design for immediate implant placement + immediate loading in the maxillary esthetic zone.
 
-## 한줄요약
-서술적 리뷰 (IntechOpen 챕터): 전치부 즉시식립·즉시부하 — 적절히 선택된 케이스에서 협측 골·연조직 보존 가능; 사전 진단·외상최소 발치·구개측 축 진입·골 이식·즉시 임시치관(emergence profile 조각)으로 합병증 최소화.
+In well-selected cases (intact buccal plate, thick biotype, no acute infection), atraumatic extraction, palatal-axis placement with apical/palatal primary stability, jumping-distance grafting, and an out-of-occlusion ovate-pontic provisional preserve buccal bone and gingival architecture; acceptable esthetic results are achieved in ~80–90% of such cases.
+
+Midfacial recession (~0.5–1 mm) remains the main residual risk; thin/fenestrated buccal wall, biotype <1 mm, and parafunction shift the indication toward early or delayed placement.
+
+## 세줄요약
+상악 전치부 즉시식립·즉시부하의 적응증·금기·술식·임시치관 설계를 다룬 서술적 리뷰 (IntechOpen 챕터 2023).
+
+적절히 선택된 증례에서 구개측 축 식립·점프핑 gap 이식·교합 외 ovate-pontic 임시치관의 조합이 협측 골·연조직을 보존; 심미 만족도 ~80–90% 수준.
+
+협측 치조골 두께 <1 mm·협측 골 결손·파기능이 있으면 즉시부하 대신 조기 또는 지연 식립을 고려해야 한다.
 
 ## Summary
 Loss of an anterior tooth is uniquely traumatic for patients because anterior teeth shape facial esthetics and personal identity. Two post-extraction phenomena complicate restoration: papilla flattening/loss and three-dimensional bone resorption (horizontal and vertical). This 2023 IntechOpen book chapter by Samet provides a clinically grounded narrative on **immediate implant placement and loading in the esthetic zone** — when it works, why it works, and how to execute it.

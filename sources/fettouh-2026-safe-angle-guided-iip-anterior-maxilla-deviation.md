@@ -17,13 +17,23 @@ text_filename: fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation.txt
 
 기존 [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]가 "협측에서 ≥2 mm 구개측" 위치 규칙을 3년 CBCT로 양적 뒷받침했다면, 본 전향연구(Fettouh 2026)는 그 구개측 위치를 *어떻게* 안정적으로 구현할지를 다룬다 — "Safe Angle Concept" 가상계획 + plateau drill(평면 밀링 커터) 2-guide 프로토콜로 socket 구개 경사면을 평탄화해 드릴 slippage·labial 편향을 줄인다. 동일 1저자의 기존 연조직 RCT [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]]와는 별개 논문(연조직 부피 vs 가이드 정확도)이며, 전상악 IIP의 facial 편향이라는 공통 문제를 다른 각도에서 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-arm clinical trial (n=26 implants/26 patients, anterior maxilla IIP) using the "Safe Angle Concept" virtual plan + a novel plateau-drill 2-guide protocol: planned-vs-actual deviation was 4.56 ± 3.14° angular, 0.91 ± 0.61 mm platform, 1.47 ± 0.88 mm apex; all implants stayed within the safe angle, none needed angled abutments, PES 11.89 ± 1.75.
 
-## 한줄요약
+Prospective single-arm clinical trial (n=26 implants/26 patients, anterior maxilla IIP) using the "Safe Angle Concept" virtual plan + a novel plateau-drill 2-guide protocol: planned-vs-actual deviation was 4.56 ± 3.14° angular, 0.91 ± 0.61 mm platform, 1.47 ± 0.88 mm apex;
+
+all implants stayed within the safe angle, none needed angled abutments, PES 11.89 ± 1.75.
+
+(incomplete)
+
+## 세줄요약
+
 
 전상악 즉시식립 26증례 전향연구: "Safe Angle Concept" 가상계획 + plateau-drill 2-guide로 계획-실제 편차 각도 4.56°, platform 0.91 mm, apex 1.47 mm — 전 증례 safe angle 내, 각도형 지대주 불필요, PES 11.89.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

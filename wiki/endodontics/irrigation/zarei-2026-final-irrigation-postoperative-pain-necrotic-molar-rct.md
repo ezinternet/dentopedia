@@ -24,13 +24,21 @@ relations:
     target: orozco-gallego-2025-irrigation-protocols-endodontic-umbrella
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=45, 15/group) of single-visit treatment in asymptomatic necrotic mandibular first molars: both passive ultrasonic irrigation (PUI) and side-vented needle irrigation (SNI) lowered postoperative pain, swelling, and analgesic use vs conventional needle irrigation (CNI) at 24–72 h, with no difference between PUI and SNI.
+Single-blind, parallel-group RCT (Mashhad University, n=45/15 per group) in asymptomatic necrotic mandibular first molars treated in a single visit with standardized ProTaper Gold + 5.25% NaOCl + 17% EDTA, comparing three final-irrigation delivery methods: conventional needle (CNI), side-vented needle (SNI), and passive ultrasonic irrigation (PUI).
 
-## 한줄요약
+Both PUI and SNI significantly reduced postoperative pain, swelling, and analgesic use compared to CNI from 24 h onward (e.g., pain VAS: PUI 0.0 / CNI 2.0 / SNI 0.0 at 24 h, p=0.003); PUI and SNI showed no significant difference on any outcome or time point.
 
-단일맹검 RCT (n=45, 군당 15명), 무증상 괴사 하악 제1대구치 단일내원 근관치료: 수동초음파세정 (Passive Ultrasonic Irrigation, PUI)과 측방배출침세정 (Side-vented Needle Irrigation, SNI) 모두 24~72시간 수술후 통증·부종·진통제 사용을 일반침세정 (Conventional Needle Irrigation, CNI)보다 낮췄으며, PUI와 SNI 사이에는 차이가 없었다.
+The clinically key finding is that an optimized needle delivery (side-vented) matches ultrasonic activation for short-term symptom control, suggesting that minimizing apical extrusion may be as important as acoustic agitation — at lower cost and complexity.
+
+## 세줄요약
+
+마샤드대 단일맹검 병렬군 무작위 대조시험(n=45, 군당 15명) — 무증상 괴사 하악 제1대구치(Mandibular First Molar) 단일내원 근관치료(ProTaper Gold + 5.25% NaOCl + 17% EDTA)에서 최종 세정 방식 3가지 비교: 일반주사바늘(CNI), 측방배출바늘(SNI), 수동초음파세정(PUI).
+
+PUI·SNI 모두 24시간 이후 CNI 대비 술후 통증·부종·진통제 사용을 유의하게 낮춤(24h VAS: PUI 0.0 / CNI 2.0 / SNI 0.0, p=0.003); PUI와 SNI 간에는 모든 시점·결과에서 유의차 없음.
+
+핵심 임상 시사: 최적화된 측방배출바늘이 초음파 활성화와 동등한 단기 증상 조절 제공 — 치근단 밀출 최소화가 음향 교반만큼 중요할 수 있으며, SNI는 더 낮은 비용·복잡도로 동일한 효과 가능.
 
 ## Summary
 

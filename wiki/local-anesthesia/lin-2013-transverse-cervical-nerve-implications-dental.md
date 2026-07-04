@@ -19,13 +19,21 @@ relations:
     target: kim-2016-systematic-review-cervical-plexus-accessory
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Fresh cadaver study (n=2, Sihler's staining technique): the transverse cervical nerve (C2-C3, cervical plexus) was found innervating the posterior mandible in one of two specimens, supporting accessory (non-trigeminal) innervation as a cause of IANB failure in posterior mandibular teeth.
+Fresh cadaver study (n=2) using Sihler's whole-mount nerve-staining technique — applied here specifically because conventional dissection cannot reliably trace the small accessory foramina and branches of the mandible — to investigate whether the transverse cervical nerve (TCN, C2-C3 cervical plexus) reaches the posterior mandible.
 
-## 한줄요약
+The TCN was found innervating the posterior mandible in 1 of 2 specimens, providing direct anatomical (rather than clinically inferred) evidence that cervical-plexus accessory innervation of the posterior mandible exists in at least some individuals.
 
-신선 사체 연구(n=2, Sihler's 염색기법): 횡경부신경(transverse cervical nerve, C2-C3, 경부신경총 분지)이 사체 2례 중 1례에서 후방 하악을 지배하는 것으로 확인 — 하악 구치부 IANB 실패 원인으로서 삼차신경 외 부가신경 지배를 뒷받침.
+This finding supports considering supplemental anesthetic techniques when standard IANB fails for posterior mandibular teeth, and establishes Sihler's staining as the preferred method for studying mandibular accessory nerve anatomy.
+
+## 세줄요약
+
+신선 사체 연구 (n=2): 소형 부가공 및 분지를 추적하기 어려운 일반 해부의 한계를 극복하기 위해 Sihler's 전체 신경 염색법을 적용하여 횡경부신경(TCN, C2-C3 경부신경총)이 후방 하악에 도달하는지 조사.
+
+2례 중 1례에서 TCN이 후방 하악을 지배하는 것으로 직접 해부학적으로 확인 — 임상적 추론이 아닌 직접 해부 근거로, 경부신경총 부가신경 지배가 일부 환자에 존재함을 입증.
+
+이 발견은 후방 하악 IANB 실패 시 보충마취 기법 적용의 해부학적 근거를 제공하며, Sihler's 염색법을 하악 부가신경 해부 연구의 표준 방법으로 확립한다.
 
 ## Summary
 

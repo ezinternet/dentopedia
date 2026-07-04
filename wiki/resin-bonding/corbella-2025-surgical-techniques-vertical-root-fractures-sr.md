@@ -20,13 +20,21 @@ relations:
     target: kodaira-2022-resin-bonding-titanium-adhesive-monomers-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (8 articles / 6 case series, ~64 teeth) of surgical management of confirmed vertical root fractures (VRF): 4 of 6 studies bonded fracture fragments with 4-META/MMA-TBB resin (Super-Bond), with highly heterogeneous survival (e.g. intentional-replantation 6/6 to resin-ionomer 0/5); evidence is sparse, low-quality (all case series), and insufficient to recommend any technique as standard.
+First systematic review (PROSPERO CRD42024524356; 8 articles representing 6 case series, all low-quality) of surgical techniques for confirmed vertical root fractures (VRF), including fragment bonding (4-META/MMA-TBB resin), intentional replantation, and in-situ MTA sealing.
 
-## 한줄요약
+4 of 6 studies used 4-META/MMA-TBB resin (Super-Bond) to bond fracture fragments; survival was highly heterogeneous: intentional replantation series achieved 6/6 and 9/12 success, while resin-ionomer (Anderegg) and silver-GIC (Selden) repairs all failed; no meta-analysis was possible due to heterogeneity.
 
-확진된 수직치근파절(VRF) 외과적 관리 체계적 문헌고찰(논문 8편/연구 6건, 전부 case series): 6개 연구 중 4개가 4-META/MMA-TBB 레진(Super-Bond)으로 파절 단편을 접착했고, 의도적 재식립 6/6 성공부터 resin-ionomer 0/5 실패까지 생존율이 매우 이질적이며, 근거가 빈약·저질이라 표준 술식 권고 불가.
+No surgical technique can be recommended as standard for VRF management given exclusively low-quality case-series evidence; resin-ionomer and GIC-based repairs are not supported; 4-META/MMA-TBB + intentional replantation provides the most favorable case-series signal and requires RCT evaluation.
+
+## 세줄요약
+
+최초 체계적 문헌고찰 (PROSPERO CRD42024524356; 논문 8편/연구 6건, 전부 증례시리즈·저질 근거) — 확진 수직치근파절 (VRF, Vertical Root Fracture)의 외과적 관리(단편 접착·의도적 재식립·MTA 인시투 봉합) 검토.
+
+6개 연구 중 4개가 4-META/MMA-TBB 레진 (Super-Bond)으로 파절 단편 접착; 생존율 매우 이질적: 의도적 재식립 시리즈 6/6·9/12 성공, 레진-아이오노머 (Anderegg) 및 은-GIC (Selden) 수리는 전례 실패; 이질성으로 메타분석 불가.
+
+저질 증례시리즈 근거만 존재하여 어떤 술식도 표준으로 권고 불가; 레진-아이오노머·GIC 기반 수리는 근거 없음; 4-META/MMA-TBB + 의도적 재식립이 가장 유망한 신호 — RCT 필요.
 
 ## Summary
 

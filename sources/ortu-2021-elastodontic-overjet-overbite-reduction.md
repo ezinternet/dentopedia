@@ -17,13 +17,23 @@ text_filename: ortu-2021-elastodontic-overjet-overbite-reduction.txt
 
 Supplies the head-to-head clinical efficacy evidence behind the EF-Line / elastodontic review pages: where [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] synthesizes elastodontic sagittal/cephalometric outcomes at the review level, this prospective controlled study directly measures overjet (OJ) and overbite (OB) reduction in mixed-dentition Class II children with two commercial elastodontic devices (EQ Series II vs Occlus-o-Guide), assessed on digital 3D model superimposition. It is the quantitative OJ/OB-reduction data point the reviews abstract over, and it shows device-brand matters (Eptamed EQ significantly outperformed Occlus-o-Guide).
 
-## One-line Summary
+## Three-line Summary
 
-Prospective controlled clinical study (n=60 children aged 7–15, Class II div 1/2; 30 EQ Series II [Eptamed] vs 30 Occlus-o-Guide) showing both elastodontic devices reduced overjet and overbite over 12 months, with the EQ Series II achieving significantly lower OJ and OB at T1 than Occlus-o-Guide (p=0.0019), measured by iTero digital-model evaluation.
 
-## 한줄요약
+Prospective controlled clinical study (n=60 children aged 7–15, Class II div 1/2;
 
-전향적 대조 임상연구 (소아 60명, 7~15세, 2급 부정교합 1·2류; EQ Series II [Eptamed] 30명 vs Occlus-o-Guide 30명) — 두 탄성교정장치 (Elastodontic Device) 모두 12개월간 수평피개 (Overjet, OJ)·수직피개 (Overbite, OB)를 감소시켰고, EQ Series II가 1년 후 OJ·OB를 Occlus-o-Guide보다 유의하게 더 낮춤 (p=0.0019). iTero 디지털 모델로 평가.
+30 EQ Series II [Eptamed] vs 30 Occlus-o-Guide) showing both elastodontic devices reduced overjet and overbite over 12 months, with the EQ Series II achieving significantly lower OJ and OB at T1 than Occlus-o-Guide (p=0.0019), measured by iTero digital-model evaluation.
+
+(incomplete)
+
+## 세줄요약
+
+
+전향적 대조 임상연구 (소아 60명, 7~15세, 2급 부정교합 1·2류;
+
+EQ Series II [Eptamed] 30명 vs Occlus-o-Guide 30명) — 두 탄성교정장치 (Elastodontic Device) 모두 12개월간 수평피개 (Overjet, OJ)·수직피개 (Overbite, OB)를 감소시켰고, EQ Series II가 1년 후 OJ·OB를 Occlus-o-Guide보다 유의하게 더 낮춤 (p=0.0019).
+
+iTero 디지털 모델로 평가.
 
 ## 1. Document Information
 

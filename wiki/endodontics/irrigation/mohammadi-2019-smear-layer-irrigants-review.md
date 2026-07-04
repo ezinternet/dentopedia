@@ -13,11 +13,19 @@ source_collection: external
 tags: [smear-layer, edta, mtad, qmix, maleic-acid, hebp, nacl, chx, chelation, dentin]
 ---
 
-## One-line Summary
-Narrative review of smear layer removal: MTAD > EDTA (speed); QMix ≈ EDTA; maleic acid ≈ EDTA; HEBP weakest; NaOCl alone cannot remove the inorganic smear component.
+## Three-line Summary
+Narrative literature review comparing smear-layer-removing ability of root canal irrigants — EDTA, MTAD, QMix, maleic acid, citric acid, HEBP (etidronate), NaOCl, and CHX — across their chelating efficiency, surface characteristics, and clinical protocols.
 
-## 한줄요약
-도말층(Smear Layer) 제거 능력 내러티브 리뷰: MTAD > EDTA (속도); QMix ≈ EDTA; 말레산 ≈ EDTA; HEBP 최약; NaOCl 단독은 무기질 성분 제거 불가.
+MTAD showed the fastest and most complete smear-layer removal (superior to EDTA in speed and completeness); QMix matched EDTA while adding antibacterial action; maleic acid 7% was comparable to EDTA 17%; HEBP demonstrated the weakest chelating action; NaOCl alone cannot remove the inorganic smear component (a chelating agent is always necessary); CHX has zero chelating action.
+
+The standard clinical sequence (NaOCl throughout → final EDTA 1 min → distilled water flush) remains well-supported, with single-step alternatives (QMix or MTAD after NaOCl) available when simplification is desired — direct NaOCl/CHX mixing must always be avoided due to PCA precipitate formation.
+
+## 세줄요약
+EDTA·MTAD·QMix·말레산·구연산·HEBP(에티드론산)·NaOCl·CHX의 스미어층 제거 능력을 킬레이션 효율·표면 특성·임상 프로토콜 면에서 비교한 내러티브 리뷰.
+
+MTAD가 가장 빠르고 완전한 스미어층 제거(EDTA 대비 속도·완성도 우월); QMix≈EDTA+항균 이점; 7% 말레산≈17% EDTA; HEBP가 킬레이션 최약; NaOCl 단독은 무기질 스미어 성분 제거 불가(킬레이트제 필수); CHX는 킬레이션 효과 전무.
+
+표준 순서(NaOCl → 최종 EDTA 1분 → 증류수 세척)가 기본, 단순화 원할 시 QMix·MTAD 단일 단계 대안 가능 — NaOCl과 CHX 직접 혼합은 PCA 침전 형성으로 반드시 금지.
 
 ## Summary
 Narrative literature review comparing the smear layer-removing ability of root canal irrigants: EDTA, MTAD, QMix, maleic acid, citric acid, HEBP (etidronate), NaOCl, and CHX. MTAD showed the fastest and most complete smear layer removal, outperforming EDTA. QMix was equivalent to EDTA while adding antibacterial action. Maleic acid (7%) was comparable to EDTA 17%. HEBP demonstrated the weakest chelating action. NaOCl alone cannot remove the inorganic smear component; a chelating agent is always necessary.

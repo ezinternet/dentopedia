@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a focused collection on flap design and tension-free primary wound closure over GBR / titanium mesh. This RCT quantifies how a coronally advanced lingual flap (CALF) eliminates titanium-mesh exposure in the posterior mandible, complementing periosteal-release-based advancement methods such as [[suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr]] and the broader flap-design discussion in [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]]. It pairs directly with its sibling Ti-mesh closure technique [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]].
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=14, posterior mandible horizontal GBR with titanium mesh) showing the coronally advanced lingual flap (CALF) achieved markedly greater lingual flap advancement (14.4 vs 3.9 mm) and zero titanium-mesh exposure vs 83.3% early exposure without CALF.
+RCT (n=14; posterior mandible horizontal GBR with titanium mesh; buccal flap advancement ± coronally advanced lingual flap [CALF]; wound monitored weekly for 4 weeks then at 2, 4, 6, and 9 months).
 
-## 한줄요약
+CALF group: zero titanium mesh exposures and mean lingual flap advancement of 14.4 ± 3.8 mm vs 83.3% early Class II exposure and 3.9 ± 1.1 mm advancement in the no-CALF control (P<0.0001 for both); no CALF-related complications reported.
 
-하악 구치부 수평 골유도재생술(GBR)·티타늄 메시 14명 대상 RCT. 설측 피판 거상량을 3.9mm에서 14.4mm로 크게 늘려 메시 노출을 83.3%(NO-CALF)에서 0%(CALF)로 없앤 관상측 전진 설측 피판(CALF) 기법.
+The CALF technique reliably eliminates titanium mesh exposure by providing markedly greater lingual flap mobilization, but the small sample (n=14), single anatomical site (posterior mandible), and abstract-only data availability limit full methodological and bone-gain outcome assessment.
+
+## 세줄요약
+
+RCT(n=14; 하악 구치부 수평 골유도재생술(Guided Bone Regeneration, GBR)·티타늄 메시; 협측 피판 거상 ± 관상측 전진 설측 피판(Coronally Advanced Lingual Flap, CALF); 4주간 주 1회 + 2·4·6·9개월 창상 관찰).
+
+CALF군: 티타늄 메시 노출 0건, 평균 설측 피판 거상량 14.4 ± 3.8 mm — 대조군(NO-CALF) 83.3% 조기 노출, 거상량 3.9 ± 1.1 mm와 유의한 차이(P<0.0001); CALF 관련 합병증 없음.
+
+CALF 기법이 설측 피판 거상량을 대폭 늘려 메시 노출을 안정적으로 차단하나, n=14 소규모·하악 구치부 단일 위치·초록 수준 데이터의 한계로 전체 방법론 및 골 획득 결과 평가가 제한됨.
 
 ## 1. Document Information
 

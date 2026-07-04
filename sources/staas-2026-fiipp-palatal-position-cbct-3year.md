@@ -9,7 +9,7 @@ pdf_filename: staas-2026-fiipp-palatal-position-cbct-3year.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective multi-center CBCT study of flapless IIPP with implant positioned ≥2 mm palatal to the buccal crest, followed for 3 years. Demonstrates preservation of buccal crest thickness and height.
 
 ## 1. Document Information

@@ -18,13 +18,30 @@ text_filename: ebnahmady-2015-patient-satisfaction-surveys-dental-school.txt
 
 A compact, citable framework for *what dimensions* patient satisfaction is built from — useful scaffolding when designing or interpreting PROM/PREM instruments in the wiki. It reinforces [[behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]] (which catalogs patient-reported outcomes/experience constructs) and [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] (which evaluates PROMs for a specific procedure) by giving a generic five-dimension satisfaction taxonomy (quality, interaction, access, environment, cost) that PROM design can map against.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (1980–Mar 2014, PubMed; 730 → 9 articles after critical appraisal) identifying five dimensions of patient satisfaction with dental school clinic services: quality, interaction, access, environment, and cost.
+Narrative review of literature (1980–March 2014) from PubMed: 730 articles identified, screened to 41, then critically appraised to 9 retained articles assessing patient satisfaction with dental school clinic services.
 
-## 한줄요약
+Five recurring measurement dimensions identified: quality (clinical/technical care), interaction (patient–provider communication), access (availability/waiting), environment (physical facilities), and cost (financial aspects).
 
-서술적 리뷰 (1980–2014.3, PubMed; 730편 → 비판적 평가 후 9편): 치과대학 부속병원 진료의 환자 만족도를 구성하는 5개 차원(질·상호작용·접근성·환경·비용)을 도출.
+These five dimensions are offered as a generic taxonomy that dental institutions should measure to improve care quality and patient cooperation with treatment.
+
+## 세줄요약
+
+PubMed 서술적 리뷰 (1980–2014년 3월): 730편 → 41편 → 9편의 비판적 평가 거쳐 치과대학 부속병원 진료의 환자 만족도 측정 차원을 도출.
+
+확인된 5개 차원: 질(임상 기술), 상호작용(환자–치과의 커뮤니케이션), 접근성(가용성·대기), 환경(진료실 시설), 비용(금전적 측면).
+
+이 5개 차원 분류는 치과기관이 진료 질과 환자 치료 협력도를 개선하기 위해 측정해야 할 일반적 분류 체계로 제시됨.
+
+## 세줄요약
+
+
+서술적 리뷰 (1980–2014.3, PubMed;
+
+730편 → 비판적 평가 후 9편): 치과대학 부속병원 진료의 환자 만족도를 구성하는 5개 차원(질·상호작용·접근성·환경·비용)을 도출.
+
+(incomplete)
 
 ## 1. Document Information
 

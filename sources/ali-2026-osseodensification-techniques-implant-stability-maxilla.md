@@ -17,13 +17,21 @@ text_filename: ali-2026-osseodensification-techniques-implant-stability-maxilla.
 
 기존 wiki는 Versah Densah bur의 임플란트 안정성(ISQ) 근거를 보강하지만 Magnetic Mallet과의 직접 head-to-head 비교는 없었다. 본 split-mouth RCT는 두 OD 기법의 ISQ·골밀도·순측 골판 두께를 전치부 심미 구역에서 직접 비교해 [[implants/versah-protocols/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] 의 Densah bur 우위 근거를 esthetic-zone 맥락에서 심화한다.
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth RCT (n=7 patients, 14 sites, maxillary anterior zone): rotary Densah bur osseodensification yielded significantly higher primary ISQ (70.1 vs 49.0) and labial plate thickness vs Magnetic Mallet, while bone density and crestal width were comparable at 6 months.
+Split-mouth RCT (n=7 patients, 14 sites, maxillary anterior esthetic zone, Alexandria University) directly comparing rotary Densah bur (DB) vs. pulse-based Magnetic Mallet (MM) osseodensification with IS-III-CMI implants placed 1 mm sub-crestally.
 
-## 한줄요약
+Densah bur yielded significantly higher primary ISQ (70.1 vs 49.0, p<0.001), better early wound healing, and greater labial plate thickness at 6 months (1.68 vs 0.98 mm, p=0.002); two MM complications occurred (1 labial plate fracture leading to implant failure, 1 palatal crack); bone density and crestal width were equivalent at 6 months.
 
-분할구 RCT (7명, 14부위, 상악 전치부): Densah bur 골밀화(osseodensification)가 Magnetic Mallet 대비 1차 ISQ(70.1 vs 49.0)와 순측 골판 두께에서 유의하게 우수했으며, 골밀도·치조정 폭경은 6개월 시점에 동등했다.
+Densah bur OD exceeds the ISQ ≥70 threshold in the anterior esthetic zone and preserves the labial plate better, but the very small sample (n=7, 14 sites) and retrospective trial registration make this exploratory — larger multicenter RCTs are required before firm protocol preference.
+
+## 세줄요약
+
+분할구 RCT(7명, 14부위, 상악 전치부 심미 구역, 알렉산드리아대): 회전식 Densah bur(DB) vs 펄스식 Magnetic Mallet(MM) 골밀화 비교; IS-III-CMI 임플란트 1mm 치조정 하방 식립.
+
+Densah bur가 1차 ISQ(70.1 vs 49.0, p<0.001), 조기 창상치유, 6개월 순측 골판 두께(1.68 vs 0.98mm, p=0.002)에서 유의 우수; MM은 순측 골판 파절(→임플란트 실패 1례)·구개측 균열(1례) 발생; 골밀도·치조정 폭경은 6개월에 동등.
+
+Densah bur OD가 전치부 심미 구역에서 ISQ ≥70 기준 달성 및 순측 골판 보존에서 우수하나, 초소형 표본(7명, 14부위)·후향 임상시험 등록으로 탐색적 연구에 불과 — 확정 프로토콜 권고까지 대규모 다기관 RCT 필요.
 
 ## 1. Document Information
 

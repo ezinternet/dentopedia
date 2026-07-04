@@ -13,11 +13,21 @@ source_collection: external
 tags: [wound-healing, GTR, bone-regeneration, research-models, EMD, PDGF, BMP-2, periodontics]
 ---
 
-## One-line Summary
-Narrative review (Periodontol 2000, 2015): overview of periodontal and bone-regeneration research models (in vitro → animal → human RCT); GTR and EMD are well-supported, BMP-2 is effective for vertical ridge augmentation, and PDGF is RCT-supported for bone defects, with emphasis on the limits of animal-to-human translation.
+## Three-line Summary
 
-## 한줄요약
-narrative-review(Periodontol 2000 2015): 치주·골 재생 연구모델(세포배양→동물→임상) 총론 — GTR·EMD 근거 충분; BMP-2 수직증대 유효; PDGF 골결손 RCT지지; 동물→인체 번역 한계 강조.
+Narrative review (Periodontology 2000, 2015) overviewing the research-model hierarchy used in periodontal and bone-regeneration science — from in vitro cell culture through animal models (rat, rabbit, dog, swine) to human RCTs — with a structured comparison of each tier's strengths and translational limitations.
+
+GTR and EMD (enamel matrix derivative) have the broadest combined animal + human evidence; BMP-2 is effective for vertical ridge augmentation with dose/carrier (collagen sponge) issues remaining; PDGF (GEM 21S) is RCT-supported for infrabony and furcation defects.
+
+Animal models do not reliably predict human outcomes — bundle bone/PDL-dependent bone is lost after extraction and is not restored by implants alone, underscoring the irreplaceable need for human RCT validation before clinical translation.
+
+## 세줄요약
+
+서사적 고찰(Periodontology 2000, 2015): 치주·골 재생 연구모델 위계 — 세포배양 → 동물모델(rat, rabbit, dog, swine) → 인체 무작위대조시험(RCT) — 각 단계의 강점과 번역 한계를 체계적으로 비교.
+
+근거 강도: GTR·에나멜 기질 단백질(Enamel Matrix Derivative, EMD) — 동물+인체 근거 충분; 뼈형성단백질-2(BMP-2) — 수직 증대 유효하나 용량·담체(콜라겐 스펀지) 문제; 혈소판유래성장인자(Platelet-Derived Growth Factor, PDGF, GEM 21S) — 골내 결손·분지 결손 RCT 지지.
+
+동물모델은 인체 결과를 예측하지 못하는 경우가 있음; 치조골과 치주인대 의존 골은 발치 후 소실되며 임플란트만으로 회복되지 않아 인체 RCT 검증이 필수.
 
 ## Summary
 Periodontol 2000 series review covering research models used in periodontal and bone regeneration research (in vitro cell culture, animal models, human trials). Discusses translational challenges and summarizes evidence for key regenerative modalities: GTR, EMD (enamel matrix derivative), PDGF, BMP-2, and scaffolds.

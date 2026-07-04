@@ -13,11 +13,21 @@ source_collection: external
 tags: [peri-implantitis, treatment-protocol, flowchart, nonsurgical, surgical, surface-decontamination, SPT, antibiotics, GBR]
 ---
 
-## One-line Summary
-Narrative review (Yonsei/SNU/Sanz-Martín) proposing a phased peri-implantitis treatment protocol and flowchart modeled on EFP periodontitis step-care: classify failed (extract) vs failing implants, then nonsurgical debridement ± antibiotics, then defect-morphology-guided surgery (resective/access/reconstructive) with combined surface decontamination, followed by risk-based supportive peri-implant therapy (SPT).
+## Three-line Summary
 
-## 한줄요약
-narrative-review(JPIS 2024;54:295-308, 연세대/서울대): 치주염 단계적 치료 틀 기반 임플란트 주위염 프로토콜 제안 — 실패vs실패중 분류→비수술(소파±항생제)→수술(절제·접근·재생: 결손 형태별)→SPT; 플로우차트 포함.
+Narrative review (JPIS 2024; Yonsei/SNU/Sanz-Martín) synthesizing current evidence into a comprehensive peri-implantitis treatment protocol and decision flowchart, modeled on the EFP periodontitis step-care framework.
+
+The protocol proceeds through four phases: classify failed (extract) vs failing implant → nonsurgical debridement ± adjunctive antibiotics with re-evaluation → defect-morphology-guided surgery (resective for horizontal/supracrestal, access for limited-access, reconstructive for intrabony defects) with combined mechanical/chemical/pharmacological surface decontamination → risk-based supportive peri-implant therapy (SPT).
+
+Success is defined as PPD ≤5 mm + no BOP + no suppuration + no progressive bone loss; the flowchart provides explicit re-evaluation decision nodes at each phase to guide extraction decisions.
+
+## 세줄요약
+
+현재 근거를 종합해 단계적 임플란트주위염 치료 프로토콜과 의사결정 플로우차트를 제시한 내러티브 리뷰(JPIS 2024; 연세대·서울대·Sanz-Martín) — 유럽 치주학회(European Federation of Periodontology, EFP) 치주염 단계 치료 틀에 기반.
+
+프로토콜은 4단계로 구성: 실패(발거) vs 실패 진행 중 임플란트 분류 → 비외과적 변연부 청소 ± 보조 항생제 + 재평가 → 결손 형태별 수술(수평/치조정 결손: 절제술, 접근 제한: 접근수술, 골내 결손: 재건술) + 기계적·화학적·약리학적 복합 표면오염제거 → 위험도 기반 임플란트 주위 지지치료(Supportive Peri-implant Therapy, SPT).
+
+치료 성공은 탐침깊이(Probing Pocket Depth, PPD) ≤5 mm + 탐침출혈(Bleeding on Probing, BOP) 없음 + 화농 없음 + 진행성 골소실 없음으로 정의하며, 플로우차트의 각 단계에 명시적 재평가 의사결정 노드가 포함되어 발거 결정을 안내한다.
 
 ## Summary
 Narrative review (Yonsei University/SNU/Sanz-Martín) proposing a comprehensive peri-implantitis treatment protocol and flowchart based on current scientific evidence. Adopts a phased approach analogous to the EFP periodontitis treatment protocol, with re-evaluation built into each decision point.

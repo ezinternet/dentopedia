@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA SR+MA (11 studies qualitative, 3 in meta-analysis; all moderate-to-high RoB) finds one-stage ridge split superior to two-stage (pooled SMD favouring one-stage ~0.89), tempered by poor heterogeneity and funnel-plot asymmetry suggesting possible publication bias.
+First PRISMA SR+MA to directly compare one-stage vs two-stage ridge splitting for horizontal alveolar ridge augmentation (11 studies qualitative, 3 in meta-analysis, January 2000–December 2021).
 
-## 한줄요약
+Pooled SMD favoured one-stage ridge split (~0.89), but all 11 included studies had moderate-to-high risk of bias, and funnel-plot asymmetry indicated possible publication bias; evidence certainty is low.
 
-PRISMA 체계적 문헌고찰+메타분석(정성 11편, 메타분석 3편, 전부 중-고 비뚤림위험): 1단계 치조제 분할술(one-stage ridge split)이 2단계보다 우수(통합 SMD ~0.89, one-stage 유리). 단, 이질성 불량·깔때기 비대칭(출판편향 가능성)으로 근거 강도는 제한적.
+The directional signal tilts toward one-stage as the preferred timing strategy but does not invalidate two-stage approaches for high-risk ridges (dense mandibular cortex, narrow width) where controlled fracture risk justifies staging.
+
+## 세줄요약
+
+1단계 vs 2단계 치조제 분할술을 직접 비교한 최초 PRISMA SR+MA(정성 11편, 메타분석 3편, 2000–2021년).
+
+통합 표준화평균차(Standardized Mean Difference, SMD) ~0.89로 1단계 우위; 전체 11편 중-고 비뚤림 위험, 깔때기도 비대칭(출판편향 가능성) — 근거 신뢰도 낮음.
+
+방향성 신호는 1단계 선호를 지지하지만, 하악 고밀도 피질골·극세 치조제 등 위험 증례에서 2단계 접근의 임상적 타당성을 부정하지는 않음.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Chinese expert Delphi consensus on regenerative endodontic procedures (REP) for immature necrotic teeth: protocol of 1.5% NaOCl irrigation, TAP/DAP antibiotic paste, blood-clot induction, and MTA barrier; reported success rates of 85–90% periapical healing, 60–80% root maturation, and 30–60% vitality response.
+## Three-line Summary
 
-## 한줄요약
-REP 중국 전문가 합의 — NaOCl 1.5% 세정, TAP/DAP 유치, 혈전 유도, MTA 차폐; 성공률 85–90%.
+Chinese expert panel Delphi consensus (Int J Oral Sci 2022) on clinical protocols for regenerative endodontic procedures (REP) in immature necrotic permanent teeth, synthesizing literature and expert opinion.
+
+Recommended protocol: 1.5% NaOCl irrigation (to preserve SCAP viability), TAP/DAP antibiotic paste (≤1 mg/mL), blood-clot induction, and MTA barrier; periapical healing 85–90%, root maturation 60–80%, vitality response 30–60%.
+
+TAP concentration must not exceed 1 mg/mL to avoid EDTA-induced cell toxicity, and TAP is preferred over tri-antibiotic paste in anterior teeth to prevent crown discolouration.
+
+## 세줄요약
+
+중국 전문가 패널 Delphi 합의문(Int J Oral Sci 2022)으로 미성숙 괴사 영구치 재생근관치료(REP) 임상 프로토콜을 문헌 합성 및 전문가 의견으로 정립.
+
+권고 프로토콜: 1.5% NaOCl 세정, TAP/DAP 항생제 페이스트(≤1 mg/mL), 혈전 유도, MTA 차폐; 치근단 치유 85–90%, 치근 성숙 60–80%, 감각 반응 30–60%.
+
+TAP 농도는 EDTA 유발 세포 독성 예방을 위해 1 mg/mL를 초과하면 안 되며, 전치부에서는 치관 변색 방지를 위해 삼중항생제 페이스트보다 DAP를 권장한다.
 
 ## Summary
 Chinese expert panel Delphi consensus on regenerative endodontic procedure (REP) clinical protocols for immature necrotic teeth.

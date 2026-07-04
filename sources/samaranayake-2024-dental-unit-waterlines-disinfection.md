@@ -17,13 +17,23 @@ text_filename: samaranayake-2024-dental-unit-waterlines-disinfection.txt
 
 치과 유니트 수관 (Dental Unit Waterlines, DUWL)은 임상 감염관리에서 흔히 간과되는 오염원이다. 이 리뷰는 DUWL 오염 기전·바이오필름·소독 방법·규제 준수를 종합적으로 다루며, [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]]가 다루지 않는 DUWL 특화 내용을 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of dental unit waterline (DUWL) contamination origins, biofilm formation, pathogen risks (Legionella, Pseudomonas, NTM), and decontamination strategies (engineering, procedural, chemical, automated), with regulatory compliance recommendations across jurisdictions.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 치과 유니트 수관(DUWL) 오염 기전·바이오필름·감염 위험(레지오넬라, 슈도모나스, 비결핵 마이코박테리아)과 공학적·절차적·화학적·자동화 소독 전략 및 각국 규제 기준을 종합한 서술적 고찰.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,11 +16,21 @@ relations:
     target: tabassum-2021-undersized-axial-compression-primary-stability
 ---
 
-## One-line Summary
-Histomorphometric bovine-rib study showing the torque-depth curve integral reliably reflects bone-to-implant contact and primary stability even in tapped/undersized sites, with linear relations linking undersizing extent to stability gain.
+## Three-line Summary
 
-## 한줄요약
-소 늑골 histomorphometry — 토크-깊이 적분이 tapped·undersized 부위에서도 BIC·안정성을 반영, undersizing 정도와 안정성이 선형 관계.
+In-vitro histomorphometric study on bovine ribs with varied undersizing and tapping, using an instantaneous torque-measuring motor to record the torque-depth curve during implant placement.
+
+The integral of the torque-depth curve reliably reflected bone-to-implant contact (BIC) and primary stability across tapped and undersized sites; linear relationships were found among undersizing extent, the integral, and resulting stability.
+
+The torque-depth integral serves as an intra-operative proxy for BIC and primary stability, enabling protocol-driven titration of undersizing to target stability rather than relying on qualitative bone-feel assessment.
+
+## 세줄요약
+
+소 늑골을 이용한 in-vitro 조직형태계측 연구 — 다양한 undersizing 및 tapping 조건에서 즉시 토크 측정 모터로 토크-깊이 곡선 기록.
+
+토크-깊이 곡선 적분이 tapped·undersized 부위에서도 BIC·1차 안정성을 신뢰도 있게 반영; undersizing 정도, 적분값, 안정성 사이에 선형 관계 확인.
+
+토크-깊이 적분은 수술 중 BIC·1차 안정성의 대리지표로 활용 가능하며, undersizing 정도를 목표 안정성에 맞게 조정할 수 있는 프로토콜 기반의 정량적 접근을 지원함.
 
 ## Summary
 This bench study connects how much an osteotomy is undersized to the resulting primary stability, using histomorphometry on bovine ribs and an instantaneous torque-measuring motor. The integral of the intra-operative torque-depth curve tracked bone-to-implant contact and primary stability even when sites were tapped or undersized, and the relations among undersizing extent, the integral, and stability were linear. Practically, this means undersizing can be titrated to a target primary stability for a planned loading protocol — turning a qualitative "drill smaller in soft bone" habit into a measurable lever.

@@ -17,13 +17,21 @@ text_filename: chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.txt
 
 Counterpoint and mechanistic complement to [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]], which is a cadaveric study contrasting bur **rotation direction** (clockwise vs counter-clockwise) for bone compaction/primary stability. This Chen 2022 sawbone bench study addresses the same core mechanism — the **reverse (counter-clockwise) drilling technique** — but isolates its *ridge-expansion* effect rather than primary stability, showing that counter-clockwise rotation (osseodensification Densah bur) expands narrow ridges but at the cost of higher bone stress and shallower implant insertion. Together the two papers map both sides of the reverse-drilling concept: expansion gain vs. fracture/insertion-depth penalty.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro sawbone bench study (27 blocks, 3 ridge widths × 3 protocols): counter-clockwise (reverse) Densah osseodensification drilling expanded narrow ridges (6.75 mm) significantly more than standard forward drilling, but only in narrow bone, and produced shallower implant insertion depth due to higher induced bone stress and elastic rebound.
+In-vitro sawbone bench study (27 blocks, 3 ridge widths × 3 protocols) comparing standard forward drilling, counter-clockwise Densah osseodensification (OD), and modified low-speed reverse drilling for alveolar ridge expansion during implant placement.
 
-## 한줄요약
+Counter-clockwise Densah OD expanded narrow ridges (6.75 mm) significantly more than standard forward drilling (p < 0.05), but showed no advantage at 7.25/7.75 mm widths and produced significantly shallower implant insertion depth than the other protocols (p ≈ 0.005).
 
-인공골(sawbone) 벤치 실험(27블록, 골폭 3종 × 드릴링 3종): 반시계(역회전, reverse) Densah 골밀도화(Osseodensification, OD) 드릴은 좁은 치조제(6.75 mm)에서만 표준 정회전보다 골폭을 유의하게 확장했고, 넓은 골폭에서는 차이가 없었으며, 더 큰 골 응력·탄성 반발 때문에 임플란트 식립 깊이는 더 얕았다.
+Reverse drilling provides a ridge-expansion benefit only in narrow bone, with a trade-off of shallower implant seating due to greater bone stress and elastic rebound; bone fracture rates did not differ significantly between groups.
+
+## 세줄요약
+
+인공골(sawbone) 벤치 실험(27블록, 골폭 3종 × 드릴링 3종): 표준 정회전, 반시계(역회전) Densah 골밀도화(Osseodensification, OD), 저속 역회전 변형 드릴 3가지를 비교.
+
+반시계 Densah OD는 좁은 치조제(6.75 mm)에서만 표준 정회전 대비 유의한 골폭 확장(p < 0.05)을 보였고, 7.25/7.75 mm에서는 유의차 없었으며, 다른 프로토콜보다 임플란트 식립 깊이가 유의하게 얕았다(p ≈ 0.005).
+
+역회전 드릴의 치조제 확장 이점은 좁은 골에 한정되며, 큰 골 응력·탄성 반발로 인한 얕은 식립 깊이가 절충점; 골 골절률은 군간 유의차 없음.
 
 ## 1. Document Information
 

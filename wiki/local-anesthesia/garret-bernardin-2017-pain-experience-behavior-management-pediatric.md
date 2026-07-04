@@ -17,13 +17,21 @@ text_filename: garret-bernardin-2017-pain-experience-behavior-management-pediatr
 tags: [local-anesthesia, pediatric, wand-sta, computerized-delivery, injection-pain, behavior-management, venham-scale]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Observational crossover split-mouth study (n=67 children/adolescents, 7-15y): the Wand STA computerized delivery system produced significantly lower pain VAS (-1.09 points, P=0.0003), smaller heart-rate increase (-3.4 bpm, P=0.028), more relaxed behavior (Venham=0 more frequent, P=0.019), and higher satisfaction (P=0.0003) versus traditional syringe injection.
+Observational crossover split-mouth study (n=67 children/adolescents, 7–15 y; Bambino Gesù Hospital, Rome) comparing Wand STA computerized delivery system vs traditional syringe injection — each child received both devices in separate appointments using the same anesthetic (1.8 mL mepivacaine/adrenaline 1:100,000).
 
-## 한줄요약
+The Wand produced significantly lower pain VAS (−1.09 points, P=0.0003), smaller heart-rate increase (−3.4 bpm, P=0.028), more relaxed behavior on modified Venham scale (P=0.019), and higher satisfaction (P=0.0003).
 
-관찰형 crossover split-mouth 연구(소아·청소년 67명, 7-15세): Wand STA 컴퓨터 제어 마취기가 전통 syringe 대비 통증 VAS 유의하게 낮음(-1.09점, P=0.0003), 심박수 증가폭 작음(-3.4bpm, P=0.028), 이완된 행동(Venham=0) 더 빈번(P=0.019), 만족도 더 높음(P=0.0003).
+Both devices achieved effective anesthesia; the Wand's advantage is perceived pain and behavioral cooperation, not success rate — the crossover design (vs parallel-group trials that found no difference) controlled for individual anxiety/pain-threshold variability.
+
+## 세줄요약
+
+관찰형 crossover split-mouth 연구(소아·청소년 67명, 7–15세, 로마 Bambino Gesù 병원): Wand STA 컴퓨터 제어 주사기 vs 전통 syringe — 각 소아는 동일 마취제로 두 기기를 각각 다른 방문에서 경험.
+
+Wand가 전통 syringe 대비 통증 VAS 유의하게 낮음(−1.09점, P=0.0003), 심박수 증가폭 작음(−3.4 bpm, P=0.028), 이완된 행동(Venham=0) 더 빈번(P=0.019), 만족도 높음(P=0.0003).
+
+두 기기 모두 마취 효과 동등; Wand의 장점은 마취 성공률이 아닌 주사 통증·행동 협조도 개선 — crossover 설계가 개인별 불안·통증역치 변수를 통제해 군 간 차이 검출 가능.
 
 ## Summary
 

@@ -9,8 +9,21 @@ pdf_filename: bresser-2023-intracoronal-restorations-longevity-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-SR+MA(12편, 946개 수복물, 1-7년): 교내 간접수복물 4재료 비교 — 간접레진 실패율 높음; 금·리튬디실리케이트 장기 생존율 우수; 루사이트도 양호
+## Three-line Summary
+
+Systematic review and meta-analysis (PRISMA/Cochrane; PROSPERO CRD42021233185; 12 studies; 946 intracoronal indirect restorations; 1–7 year observation; random-effects model with risk difference) comparing clinical longevity of gold, lithium disilicate, leucite, and indirect resin composite inlays/onlays.
+
+Indirect resin composite showed significantly higher failure rates than ceramic materials; gold and lithium disilicate demonstrated superior longevity; leucite ceramic performed satisfactorily across the observation period.
+
+The 1–7 year observation window is short for longevity comparisons and included studies were heterogeneous; indirect resin composite should be used with caution for intracoronal restorations when gold or ceramic alternatives are available.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석(PRISMA/Cochrane; PROSPERO CRD42021233185; 12편; 인레이/온레이 946개; 1–7년; 무선효과 모델, 위험 차이): 금·리튬디실리케이트·루사이트·간접 레진 복합체의 임상 장기 생존율 비교.
+
+간접 레진 복합체가 세라믹 재료보다 유의하게 높은 실패율; 금과 리튬디실리케이트가 우수한 생존율; 루사이트 세라믹은 만족스러운 성능.
+
+1–7년 관찰 기간은 장기 생존율 비교에 짧고 포함 연구 이질적; 간접 레진 복합체는 금·세라믹 대안이 가능한 경우 신중히 적용.
 
 ## 1. Document Information
 - **Title**: Clinical longevity of intracoronal restorations made of gold, lithium disilicate, leucite, and indirect resin composite: a systematic review and meta-analysis

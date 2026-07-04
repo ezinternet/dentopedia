@@ -13,11 +13,21 @@ source_collection: external
 
 Part of a focused collection on suture techniques and primary wound closure after impacted mandibular third molar surgery. This is the cluster's largest, multicentric, full-text open-access RCT and the methodological anchor: it found no difference in pain or any secondary outcome between suture and sutureless arms, providing the equivalence baseline against which the more positive single-center trials [[suture-wound-closure/kumar-2022-suture-versus-sutureless-third-molar-impactions]] and [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]] should be read.
 
-## One-line Summary
-Multicentric open RCT (3 French hospitals, n=94 analyzed: 44 suture / 50 without) of suture vs sutureless extraction of four impacted third molars under general anesthesia; no difference in Day-3 pain (p=0.904) or any secondary outcome, with shorter operating time sutureless and smoking a risk factor for complications (3.65× higher, p=0.0244).
+## Three-line Summary
 
-## 한줄요약
-4개 매복 사랑니를 전신마취 하에 발치하면서 봉합 대 무봉합을 비교한 프랑스 3개 병원 다기관 공개 무작위배정 임상시험(분석 n=94: 봉합 44, 무봉합 50). 3일째 통증(p=0.904)과 모든 2차 결과에서 차이가 없었고, 무봉합이 수술시간이 짧았으며 흡연이 합병증 위험인자였다(3.65배, p=0.0244).
+Multicentric open RCT (3 French hospitals, n=94 analyzed: 44 suture / 50 without) of suture vs sutureless extraction of four impacted third molars under general anesthesia;
+
+no difference in Day-3 pain (p=0.904) or any secondary outcome, with shorter operating time sutureless and smoking a risk factor for complications (3.65× higher, p=0.0244).
+
+(incomplete)
+
+## 세줄요약
+
+4개 매복 사랑니를 전신마취 하에 발치하면서 봉합 대 무봉합을 비교한 프랑스 3개 병원 다기관 공개 무작위배정 임상시험(분석 n=94: 봉합 44, 무봉합 50).
+
+3일째 통증(p=0.904)과 모든 2차 결과에서 차이가 없었고, 무봉합이 수술시간이 짧았으며 흡연이 합병증 위험인자였다(3.65배, p=0.0244).
+
+(incomplete)
 
 ## 1. Document Information
 - **Title**: Sutureless socket technique after removal of third molars: a multicentric, open, randomized controlled trial

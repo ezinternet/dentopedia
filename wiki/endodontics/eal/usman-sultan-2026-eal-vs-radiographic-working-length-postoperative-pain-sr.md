@@ -22,11 +22,21 @@ relations:
 tags: [EAL, apex-locator, working-length, postoperative-pain, RCT, systematic-review, endodontics]
 ---
 
-## One-line Summary
-Systematic review (4 RCTs, n=414, single-visit RCT, vital teeth) found no statistically significant difference in postoperative pain incidence, intensity, analgesic consumption, or time to resolution between standalone EAL and radiographic working length determination (4 h–7 days); one small three-arm trial showed lower early pain (6–48 h) with a hybrid EAL+radiograph method; very low certainty.
+## Three-line Summary
 
-## 한줄요약
-SR (RCT 4편, n=414, 단일내원 근관치료·생활치): standalone EAL과 방사선 근관장측정 간 술후 통증·진통제 사용·통증 소실시간 차이 없음(4시간–7일); 소규모 3-arm 1편에서 EAL+방사선 hybrid가 초기(6–48시간) 통증 더 낮음; 근거 확실성 매우 낮음.
+Systematic review (PRISMA 2020, PROSPERO-registered) of 4 RCTs (n=414, single-visit root canal treatment, vital teeth across Egypt, Pakistan, India, Turkey) designed with postoperative pain as the primary endpoint for standalone EAL vs standalone radiographic working length determination.
+
+No statistically significant difference was found in postoperative pain incidence, intensity (VAS/verbal), analgesic consumption, or pain resolution time at any observation point from 4 h to 7 days; one small three-arm trial (n=60, symptomatic teeth) showed lower early pain at 6–48 h with a hybrid EAL+radiograph (SLC) method.
+
+Method choice (EAL vs radiograph) can be driven by patient context — radiation sensitivity, complex anatomy, ALARA — without penalizing pain outcomes; very low evidence certainty from all four trials limits generalizability.
+
+## 세줄요약
+
+PRISMA 2020·PROSPERO 등록 SR, RCT 4편(n=414, 이집트·파키스탄·인도·터키 단일내원 근관치료·생활치), 술후 통증을 1차 결과변수로 standalone EAL vs standalone 방사선 근관장측정 비교.
+
+4시간~7일 어느 시점에서도 술후 통증 발생률·강도(VAS/언어 척도)·진통제 사용량·통증 소실시간의 유의한 차이 없음; 소규모 3-arm 1편(증상치아, n=60)에서 hybrid EAL+방사선(SLC)이 6–48시간 초기 통증 유의하게 낮음.
+
+통증 불이익 없이 방사선 감수성·복잡 해부·ALARA 등 환자 맥락에 따라 방법을 선택 가능; 4편 모두 Cochrane RoB 2.0 "우려 있음"으로 근거 확실성 매우 낮음.
 
 ## Summary
 Systematic review (qualitative synthesis, no meta-analysis) of 4 RCTs comparing **standalone** 전자근단측정기 (Electronic Apex Locator, EAL) vs **standalone** 방사선 (radiographic) 근관장측정 (working length determination, WLD), with **postoperative pain as the primary outcome**. Across 414 patients in single-visit root canal treatment (mostly vital teeth), there was no statistically significant difference in postoperative pain incidence, intensity (VAS or 4-point verbal rating scale), analgesic consumption, or time to pain resolution at any time point from 4 h to 7 days. Pain was low-to-moderate and resolved within 72 h in both groups; no flare-ups or serious adverse events. One small three-arm trial (Saha, n=60, symptomatic irreversible pulpitis) showed significantly lower early pain (6–48 h) with a hybrid 동시근관장조절 (Simultaneous Length Control, SLC) method combining EAL + radiography. Evidence certainty is **very low** (all 4 trials "some concerns" on Cochrane RoB 2.0, mainly randomization/blinding/subjective pain assessment).

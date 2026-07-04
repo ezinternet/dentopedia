@@ -13,13 +13,21 @@ source_collection: external
 tags: [ids, postoperative-sensitivity, sr-ma, grade-low, breschi, prisma]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-JERD 2022 SR+MA (4 clinical trials qualitative, 2 quantitative): immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) showed no significant difference in postoperative sensitivity (POS) at baseline or 2 years (P>.05; GRADE very-low to low), concluding no clinical evidence favors IDS over DDS for POS — directly conflicting with the Magne narrative and the Alghauli 2025 SR+MA.
+SR+MA (JERD 2022; 4 clinical trials qualitative synthesis, 2 pooled) comparing immediate dentin sealing (IDS) versus delayed dentin sealing (DDS) for postoperative sensitivity (POS) in teeth receiving indirect restorations.
 
-## 한줄요약
+IDS showed no significant difference from DDS in POS at baseline or at 2-year follow-up (P>.05), with GRADE evidence rated very-low to low; the authors concluded there is no clinical evidence to favor IDS over DDS for POS reduction.
 
-JERD 34(1), 2022 SR+MA (4 clinical trials qualitative, 2 quantitative): IDS vs DDS POS 차이 P>.05 (baseline·2년), GRADE very-low/low. 결론: "IDS does NOT reduce POS, no clinical evidence to favor IDS over DDS". Magne narrative 및 alghauli-2025와 직접 충돌.
+This finding directly conflicts with the Alghauli 2025 SR+MA (which pooled 11 studies and found IDS significantly reduced POS); clinicians should not cite POS reduction as a settled IDS benefit until the evidence is reconciled.
+
+## 세줄요약
+
+SR+MA (JERD 34(1), 2022; 임상시험 4편 정성 합성, 2편 정량 메타분석) — 간접수복 치아에서 즉시상아질밀봉(IDS) vs 지연상아질밀봉(DDS)의 술후 과민증(POS) 비교.
+
+IDS와 DDS 간 술후 과민증 차이 없음(P>.05, baseline 및 2년 추적), GRADE 근거수준 매우 낮음–낮음; 저자들은 "IDS가 DDS보다 POS를 줄인다는 임상 근거 없음"으로 결론.
+
+Alghauli 2025 SR+MA(11편, IDS 유의 우위)와 직접 충돌 — IDS POS 감소 효과를 확정된 사실로 환자에게 설명하는 것은 부적절하다.
 
 ## Summary
 

@@ -14,7 +14,7 @@ source_collection: external
 
 대부분 cluster는 lateral approach 중심이지만 본 case는 **transcrestal (osteotome sinus floor elevation, OSFE)** + 동시 implant + AP의 술후 drift 현상을 보고. 경치조골 접근의 의사결정 트리에 별도 anchor 필요. Lateral 중심 [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] SR과 차별, [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] (transcrestal 기본)과 연결.
 
-## One-line Summary
+## Three-line Summary
 Case report + literature review (Sichuan University, JCM 2023): OSFE + 동시 implant 후 AP가 sinus 내에서 위치 이동 (drift) 관찰. 술후 cyst 동적 변화 + literature review로 transcrestal 접근에서의 AP 핸들링 정리.
 
 ## 1. Document Information

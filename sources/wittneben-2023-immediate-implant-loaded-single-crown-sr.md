@@ -9,7 +9,7 @@ pdf_filename: wittneben-2023-immediate-implant-loaded-single-crown-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 즉시식립 및 즉시부하 단일치 임플란트 수복물의 임상 성능에 관한 체계적 고찰.
 
 ## 1. Document Information

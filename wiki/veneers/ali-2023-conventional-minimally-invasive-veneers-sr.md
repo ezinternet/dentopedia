@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 4 comparative studies on conventional veneers (CVs) vs minimal/no-preparation veneers (MPVs): MPVs demonstrated superior or equivalent survival rates and success periods; microleakage, marginal fit, and color stability varied by preparation technique and material, with feldspathic porcelain at 0.2–0.5 mm performing well as an MPV substrate.
+PRISMA systematic review (8 databases, 4 comparative studies included) comparing conventional veneers (CVs, 0.3–1.0 mm) to minimal/no-preparation veneers (MPVs, 0.2–0.5 mm) across esthetics, longevity, periodontal health, microleakage, marginal fit, and color stability.
 
-## 한줄요약
+MPVs demonstrated equal or superior survival rates and longer mean success periods versus CVs, contradicting the review's hypothesis of CV superiority; ultra-thin contact-lens type feldspathic porcelain (0.2–0.3 mm) showed favorable outcomes across most dimensions.
 
-4편 비교 연구 체계적 문헌고찰: 최소삭제 비니어(MPV)가 생존율·성공 기간에서 동등 이상; 미세누출·변연적합도·색 안정성은 준비 방식·재료에 따라 차이, 장석질 도재 MPV(0.2–0.5 mm)가 우수.
+MPVs offer a viable long-term restorative option with clinically meaningful patient advantages (no anesthesia, no temporaries, preserved enamel) when case selection and preparation technique are optimized, though only 4 heterogeneous studies limit definitive conclusions.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (8개 데이터베이스, 4편 비교 연구): 통상 비니어(Conventional Veneer, CV; 0.3–1.0 mm)와 최소/무삭제 비니어(Minimally/No-Preparation Veneer, MPV; 0.2–0.5 mm)를 심미성·수명·치주 건강·미세누출·변연적합도·색 안정성 6개 차원에서 비교.
+
+초박형 contact-lens형 장석질 도재 MPV(0.2–0.3 mm)가 생존율과 성공 기간에서 CV와 동등 이상 — 기존 CV 우위 가설 반박; 미세누출·변연적합도·색 안정성은 술식과 재료에 따라 차이.
+
+MPV는 법랑질 보존·마취 불필요·임시수복 불필요라는 환자 이점이 있으며 증례 선택과 술식 최적화 시 장기적으로 유효한 수복 선택지 — 단, 4편 이질적 연구는 결론 일반화를 제한.
 
 ## Summary
 

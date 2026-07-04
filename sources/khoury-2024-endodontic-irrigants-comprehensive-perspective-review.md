@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review]]·[[endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review]]의 개별 주제를 단일 narrative로 통합. NaOCl·CHX·EDTA·calcium hydroxide·herbal까지 망라하며 "이상적 단일 세정제는 없다, 증례별 선택" 메시지.
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review surveying endodontic irrigants (NaOCl, CHX, EDTA, TetraClean, calcium hydroxide, distilled water, herbals), concluding no single irrigant is ideal and case-by-case selection plus a CHX final rinse (substantivity) are advisable.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: NaOCl·CHX·EDTA·calcium hydroxide·herbal 등 세정제 총괄 — 이상적 단일 세정제는 없으며 증례별 선택과 CHX 최종 세척(잔류성) 권장.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - World J Clin Cases 2024;12(21):4460–4468. Invited review, externally peer reviewed.

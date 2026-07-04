@@ -19,13 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Concise narrative review (PubMed/MEDLINE) concluding that shared decision-making (SDM) is applied in dentistry but supported by limited published evidence, that informed consent is intertwined with the SDM process, and that patient decision aids (PDAs) need further development across more dental fields.
+Concise narrative review (PubMed/MEDLINE) examining how shared decision-making (SDM) is implemented in dentistry, finding that only a limited number of studies address SDM in dental practice and that implementation is shaped by many factors.
 
-## 한줄요약
+Informed consent is positioned not as a separate administrative step but as a process intertwined with SDM, beginning with high-quality information provision and use of patient decision aids (PDAs).
 
-치과 분야의 공유의사결정(Shared Decision-Making, SDM)을 다룬 간결한 서술적 종설로, SDM이 치과에 적용되고 있으나 근거는 제한적이며, 충분한설명 후 동의(informed consent)가 SDM 과정과 얽혀 있고, 환자 의사결정 보조도구(Patient Decision Aids, PDA)가 더 많은 치과 영역에서 개발될 필요가 있음을 정리했다.
+PDAs have been developed for some dental fields but need further development across more fields; the review concludes that SDM is applied in dentistry but the evidence base remains limited.
+
+## 세줄요약
+
+치과 분야의 공유의사결정(Shared Decision-Making, SDM)에 관한 간결한 서술적 종설(PubMed/MEDLINE) — SDM은 치과에 적용되고 있으나 관련 연구는 소수이며 다양한 요인에 의해 영향을 받는다.
+
+충분한 설명 후 동의(Informed Consent, IC)는 별도의 행정절차가 아니라 SDM과 얽힌 과정으로, 고품질 정보 제공과 환자 의사결정 보조도구(Patient Decision Aids, PDA) 활용에서 시작된다.
+
+일부 치과 영역에서 PDA가 개발되었으나 더 많은 분야로 확대가 필요하며, 치과 SDM의 근거 기반은 여전히 제한적이다.
 
 ## Summary
 

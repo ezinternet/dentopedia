@@ -17,13 +17,21 @@ text_filename: bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.txt
 
 Orthodontic tooth movement (OTM) is driven by the periodontal/bone remodeling cascade that pages like [[orthodontics/tsolakis-2023-orthodontic-tooth-movement-molecular-narrative]] and [[orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] describe at the cellular/molecular level; this review extends that mechanism story into a *chairside monitoring* modality — the specific GCF biomarkers (PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMPs, osteocalcin, NTx) whose GCF levels track pressure- vs tension-side remodeling and could be sampled to monitor OTM. It also connects to GCF-as-diagnostic-fluid work in periodontics ([[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]).
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (19 articles, Aug 2015–Aug 2024) mapping how gingival crevicular fluid (GCF) inflammatory mediators, enzymes and bone-remodeling markers (PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMP-1/2/3/8/9/13, osteocalcin, N-telopeptide) rise and fall during orthodontic tooth movement, arguing GCF sampling could non-invasively monitor OTM to shorten treatment and avoid adverse effects.
+Narrative review (19 studies, Aug 2015–Aug 2024) mapping the changes in gingival crevicular fluid (GCF) biomarkers — inflammatory mediators (PGE2, TNF-α, IL-1β, RANKL/OPG), enzymes (ALP, MMP-1/2/3/8/9/13), and bone-turnover markers (osteocalcin, N-telopeptide) — during orthodontic tooth movement across both pressure and tension sides.
 
-## 한줄요약
+Key findings include: MMP-9 rises as early as 4 h and persists throughout tooth movement; the RANKL/OPG ratio governs osteoclastogenesis (RANKL↑ at pressure, OPG↑ at tension); ALP peaks around day 14 (formation marker); and different appliance systems (lingual vs labial, self-ligating vs conventional, Twin Block vs clear) produce distinct biomarker profiles.
 
-내러티브 리뷰(논문 19편, 2015.8–2024.8): 교정 치아이동(Orthodontic Tooth Movement, OTM) 동안 치은열구액(Gingival Crevicular Fluid, GCF) 내 염증매개체·효소·골재형성 표지자(PGE2, TNF-α, IL-1β, RANKL/OPG, ALP, MMP, 오스테오칼신, N-telopeptide)가 압박측·긴장측 골재형성에 따라 변하며, GCF를 비침습적으로 채취해 OTM을 모니터링하면 치료기간 단축·부작용 회피가 가능하다는 관점 제시.
+Non-invasive chairside GCF sampling (absorbent paper strip + ELISA) could theoretically monitor tooth movement in real time to shorten treatment and reduce adverse effects, but the evidence base is small (n=19), non-systematic, and current assays are too laborious for routine clinical use.
+
+## 세줄요약
+
+내러티브 리뷰(19편, 2015.8–2024.8): 교정 치아이동(Orthodontic Tooth Movement, OTM) 동안 치은열구액(Gingival Crevicular Fluid, GCF) 내 염증매개체(PGE2, TNF-α, IL-1β), 골재형성 표지자(RANKL/OPG 비, ALP, MMP-1/2/3/8/9/13, 오스테오칼신, N-telopeptide)가 압박측·긴장측에서 시간 의존적으로 변하며, MMP-9는 4시간 내 상승·장기 지속, ALP는 14일경 정점을 보임.
+
+장치 종류(설측 vs 순측, 자가결찰 vs 일반, Twin Block vs 투명교정)에 따라 GCF 표지자 프로파일이 달라지고, 척도별 변화 패턴이 압박측(RANKL↑, OPG↓)과 긴장측(OPG↑)으로 뚜렷이 구분됨.
+
+흡수지(Absorbent Paper Strip) + ELISA 기반 GCF 비침습 채취로 OTM을 실시간 모니터링해 치료기간 단축·부작용 회피가 가능하다는 관점이나, 19편의 소규모 비체계적 근거로 현재 임상 적용은 제한적.
 
 ## 1. Document Information
 

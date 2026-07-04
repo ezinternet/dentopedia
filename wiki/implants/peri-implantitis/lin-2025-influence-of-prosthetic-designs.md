@@ -16,13 +16,21 @@ relations:
     target: mortazavi-2021-bone-loss-tissue-bone-level-implants
 ---
 
-## One-line Summary
+## Three-line Summary
 
-AO/AAP SR+MA of 93 studies: nonsplinted (p=0.04), platform-switched (p<0.0001), conical internal connection (p<0.0001), abutment height ≥2 mm (p<0.0001), and one-abutment-one-time (p<0.0001) each lower peri-implant MBL; screw vs cement retention (p=0.51) and crown-to-implant ratio (p=0.32) are neutral.
+Joint AO/AAP SR+MA (PROSPERO CRD42023484513; 93 comparative studies, 85 in meta-analyses; 1980–2023; ≥12 months follow-up, ≥10 implants/group) evaluating the effect of implant prosthetic design variables on peri-implant marginal bone loss (MBL) and peri-implantitis risk.
 
-## 한줄요약
+Nonsplinting (p=0.04), platform-switching (p<0.0001), conical internal connection (p<0.0001), abutment height ≥2 mm (p<0.0001), and one-abutment-one-time (p<0.0001) each independently lowered MBL; emergence angle <30° and concave/straight emergence profile reduced peri-implantitis risk (p=0.05, p=0.03).
 
-93편 AO/AAP SR+MA: 비연결·플랫폼스위칭·원추형 내부연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time이 변연골소실(MBL)을 줄였고, 나사/시멘트 유지·치관-임플란트 비는 MBL에 영향 없음.
+Screw vs cement retention (p=0.51) and crown-to-implant ratio (p=0.32) were neutral for MBL, resolving two common clinical debates; the findings provide an evidence-weighted hierarchy of bone-protective prosthetic choices that clinicians can act on at the design phase.
+
+## 세줄요약
+
+AO/AAP 공동 SR+MA(PROSPERO CRD42023484513; 비교 연구 93편, 메타분석 85편; 1980–2023; 추적 ≥12개월, 군당 임플란트 ≥10개) — 임플란트 보철 디자인 변수가 임플란트 주위 변연골소실(Marginal Bone Loss, MBL)과 임플란트주위염 위험에 미치는 영향 평가.
+
+비연결(Non-splinted; p=0.04)·플랫폼 스위칭(Platform Switching; p<0.0001)·원추형 내부 연결(Conical Internal Connection; p<0.0001)·지대치 높이 ≥2 mm(p<0.0001)·one-abutment-one-time(OAOT; p<0.0001) 각각이 독립적으로 MBL을 감소시켰으며, 출현각도(Emergence Angle) <30° 및 오목/직선 출현 형태가 임플란트주위염 위험을 줄였다(p=0.05, p=0.03).
+
+나사 vs 시멘트 유지(p=0.51)와 치관-임플란트 비(Crown-to-Implant Ratio; p=0.32)는 MBL에 중립적 — 두 가지 일반적 임상 논쟁을 해소하며, 보철 디자인 단계에서 활용 가능한 근거 기반 골 보호 선택 계층을 제공한다.
 
 ## Summary
 

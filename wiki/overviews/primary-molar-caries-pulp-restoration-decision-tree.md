@@ -37,13 +37,21 @@ relations:
 > - 결정축 요약: 치수상태(가역/비가역)·증상·병소 범위(단면/다면·공동성)·치아(제1 vs 제2유구치)·심미(부모 선호)·아동 협조도·비용. **공동성 다면 우식 = 크라운, 협조 어려운 아동 = Hall, 심미 우선 = 지르코니아/지오머(유지력·비용 감수), 비가역성 치수염 = 펄포토미 고려(근거 약함)**.
 > - 미충족: 비가역성 치수염 펄포토미의 장기·고확실성 RCT 부족, PZC 유지력 개선, modified HT의 major-failure 감소 확증 — 모두 추가 연구 필요.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 11 wiki papers into a 3-step decision tree for the carious primary molar — (1) pulp diagnosis, (2) pulp therapy, (3) restoration — under a minimally invasive, biological-sealing paradigm: vital/reversibly-inflamed pulps are preserved (selective excavation/IPC/pulpotomy with MTA per AAPD 2024), pulpotomy is an emerging but very-low-certainty alternative to pulpectomy even for irreversible pulpitis (Chawla 2026, Philip 2026), diode laser adds no success but cleaner healing (Cao 2026); for restoration, HVGIC≈giomer for direct Class II (Ali Eldin 2026) and the stainless steel crown — delivered by the no-prep Hall technique (faster, less pain: Mohamed 2025; HT≈modified HT with SSC fit decisive: Konukman 2026) — is the durable default, with prefabricated zirconia crowns an esthetic alternative of comparable success but lower retention (Chavhan 2026, Muller-Bolla 2025).
+Synthesis of 11 wiki papers into a 3-step decision tree (pulp diagnosis → pulp therapy → restoration) for the carious primary molar under a minimally invasive, biological-sealing paradigm: conventional complete carious-tissue removal has the highest failure odds (Schwendicke 2021 NMA: CR vs Hall technique OR 8.35); vital/reversibly inflamed pulps are preserved (selective excavation/IPC/pulpotomy with MTA, AAPD 2024 guideline).
 
-## 한줄요약
+Paradigm shift: pulpotomy is an emerging low-certainty alternative to pulpectomy even in irreversible pulpitis (Chawla 2026 SR+MA; Philip 2026 narrative, 95–100% success) — diode laser adds no extra clinical success but reduces periapical space widening (Cao 2026, especially with ZOE).
 
-우식 유구치 관리 위키 11편을 ①치수진단 ②치수처치 ③수복 3단 의사결정으로 종합 — 생활/가역 치수는 보존(선택적 우식제거·IPC·MTA 치수절단술, AAPD 2024), 비가역성 치수염서도 치수절단술이 치수절제술 대안 가능성(근거 약함; Chawla 2026·Philip 2026), diode laser는 성공률 동등·치유 깨끗(Cao 2026); 수복은 II급 와동서 HVGIC≈지오머(Ali Eldin 2026), 크라운은 Hall technique SSC가 표준(시술 빠르고 통증↓ Mohamed 2025; HT≈modified HT, SSC fit 결정적 Konukman 2026), 지르코니아는 심미 대안이나 유지력↓(Chavhan 2026·Muller-Bolla 2025).
+For restoration: HVGIC ≈ giomer for direct Class II (Ali Eldin 2026); Hall technique SSC is the durable default (half the chair time 7.1 vs 17.4 min, less child pain, Mohamed 2025; HT ≈ modified HT, crown fit decisive, Konukman 2026); prefabricated zirconia crowns offer comparable success (OR 0.96) but lower retention (Muller-Bolla 2025).
+
+## 세줄요약
+
+우식 유구치(carious primary molar) 11편을 ①치수진단 ②치수처치 ③수복 3단 결정으로 종합 — 최소침습·생물학적 봉입(biological sealing) 패러다임; 완전우식제거(Conventional Removal, CR)는 최고 실패 위험(Schwendicke 2021 NMA: Hall technique 대비 OR 8.35); 가역성 치수는 선택적 우식제거/간접치수복조(Indirect Pulp Cap, IPC)/치수절단술(MTA, AAPD 2024).
+
+패러다임 전환: 비가역성 치수염에서도 치수절단술이 치수절제술 대안 가능성(Chawla 2026 SR+MA; Philip 2026, 95–100% 성공) — 근거 약함, 종창·치근단 병변 없는 증례 선택 결정적; diode laser는 성공률 동등이나 치주공간 병적 확대 감소(Cao 2026).
+
+수복: II급 와동서 고점도 글래스아이오노머(High-Viscosity GIC, HVGIC)≈지오머(Ali Eldin 2026); 크라운은 Hall technique 기성금속관(Stainless Steel Crown, SSC)이 표준(시술시간 절반·통증↓, Mohamed 2025; SSC fit 결정적, Konukman 2026); 기성 지르코니아 크라운(Prefabricated Zirconia Crown, PZC)은 심미 대안이나 유지력 낮음(Muller-Bolla 2025).
 
 ## Summary
 

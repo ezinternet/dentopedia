@@ -17,13 +17,23 @@ text_filename: kuriakose-2024-occlusal-schemes-implant-supported-overdentures.tx
 
 Wiki에 implant-supported overdenture의 occlusal scheme(balanced vs lingualized vs monoplane)을 직접 head-to-head로 기능 결과로 비교한 임상 데이터가 없었다. 기존 [[occlusion/bhambhani-2020-choosing-denture-occlusion-systematic-review]]는 conventional complete denture의 occlusal scheme SR로 결론이 약했고, [[occlusion/zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis]]는 무치악 임플란트 보철 교합 설계를 다루지만 overdenture scheme별 정량 결과는 부족했다. 본 연구(Kuriakose 2024)는 mandibular 2-implant overdenture에서 세 scheme의 bite force·masticatory efficiency·satisfaction을 정량 비교해 그 gap을 메운다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Per PubMed, single-center trial of 60 mandibular 2-implant overdenture patients (3 groups × 20) found balanced occlusion gave the highest 6-month bite force (200 N), masticatory efficiency (80%), and OHIP-EDENT satisfaction (9.0), beating lingualized then monoplane.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 PubMed 기준, 하악 2-임플란트 오버덴처 환자 60명(3군 각 20명)에서 6개월 시점 교합력·저작효율·환자만족 모두 균형교합(Balanced) > 설측교합(Lingualized) > 단일평면교합(Monoplane) 순으로, 균형교합이 가장 우수했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

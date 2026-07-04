@@ -20,13 +20,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/kucukkurt-2025-maxillary-sinus-patho
 text_filename: kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=1,000 scans) found 68% of dental implant candidates had maxillary sinus pathologies, with mucosal thickening (~47%) most prevalent and strongly linked to periapical lesions and periodontal disease.
+Retrospective CBCT study (n=1,000 scans, 500 male/500 female, largest single-center series) of dental implant candidates found that ~68% had at least one maxillary sinus pathology, with mucosal thickening (>3 mm) the most prevalent at ~47%.
 
-## 한줄요약
+Periapical lesions and periodontal disease were significantly and independently associated with mucosal thickening on logistic regression; no significant gender difference was observed.
 
-임플란트 후보 1,000명 CBCT 연구: 68%에서 상악동 병변, 점막비후(~47%)가 가장 흔하며 치근단 병변·치주질환과 유의한 연관.
+Clinicians should conduct nuanced preoperative CBCT assessment — not all thickening represents infection requiring treatment delay before implant placement.
+
+## 세줄요약
+
+후향적 CBCT 연구(n=1,000, 남500/여500, 단일 센터 최대 규모): 임플란트 후보자의 약 68%에서 상악동 병변이 확인되었으며, 점막비후(>3 mm)가 약 47%로 가장 흔했음.
+
+치근단 병변·치주질환이 점막비후와 유의하게 독립적으로 연관(로지스틱 회귀); 성별 간 유의차 없음.
+
+임플란트 계획 전 CBCT에서 모든 점막비후가 치료 지연을 요하는 감염을 의미하지 않으므로 세밀한 판독과 선별적 처치 결정이 필요함.
 
 ## Summary
 

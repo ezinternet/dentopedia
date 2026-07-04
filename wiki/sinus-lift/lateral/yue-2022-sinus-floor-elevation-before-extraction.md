@@ -13,11 +13,21 @@ source_collection: external
 tags: [lateral-window, sinus-lift, msfe, hopeless-tooth, pre-extraction, immediate-implant]
 ---
 
-## One-line Summary
-3-year case report of Modified Lateral Sinus Floor Elevation (MSFE) performed before extraction of a periodontally hopeless maxillary molar (#16), augmenting residual bone height from 1–2 mm to 12–14 mm; the tooth was retained 13 months, then extracted with immediate implant placement, with histology showing predominantly new bone and <2 mm bone resorption and no peri-implantitis after 3 years of loading.
+## Three-line Summary
 
-## 한줄요약
-3년 추적 케이스 리포트: 치주적 예후 불량 상악 #16에 발치 전 변형 측방 상악동거상술(Modified Sinus Floor Elevation, MSFE)을 시행해 잔존골 1–2 mm를 12–14 mm로 증대시킨 뒤 13개월 후 발치 + 즉시식립; 조직학적으로 신생골 우세, 3년 부하 후 골흡수 2 mm 미만, 치주염성 임플란트(peri-implantitis) 없음.
+Case report (n=1, 33F, 3-year follow-up) of Modified Lateral Sinus Floor Elevation (MSFE) performed before extraction of a periodontally hopeless maxillary molar (#16) with residual bone height (RBH) of only 1–2 mm, retaining the tooth as a graft-protecting spacer for 13 months.
+
+Bone height was augmented from 1–2 mm to 12–14 mm; after 13 months the tooth was extracted with simultaneous immediate implant placement; histology showed predominantly new bone; at 3-year loading follow-up, bone resorption was <2 mm and no peri-implantitis was observed.
+
+Pre-extraction MSFE shortens the total edentulous interval compared to conventional staged approaches; the retained tooth serves as a biological tent protecting graft volume and preserving partial function, but this technique is supported only by a single case.
+
+## 세줄요약
+
+증례 보고 (n=1, 33세 여성, 3년 추적): 잔존 골높이 (Residual Bone Height, RBH) 1–2 mm의 치주적 예후 불량 상악 #16에 변형 측방 상악동거상술 (Modified Sinus Floor Elevation, MSFE)을 발치 전 시행 — 13개월간 치아를 이식재 보호 구조물로 유지.
+
+RBH 1–2 mm → 12–14 mm 증대; 13개월 후 발치 + 즉시 임플란트 식립; 조직학적으로 신생골 우세; 3년 부하 후 골흡수 <2 mm, 임플란트 주위염 (Peri-implantitis) 없음.
+
+발치 전 MSFE는 기존 단계적 술식 대비 무치악 기간 단축; 잔존 치아가 이식재 부피 보호 및 기능 유지에 기여하나 단일 증례에 근거.
 
 ## Summary
 This first-of-its-kind 3-year case report describes Modified Lateral Sinus Floor Elevation (MSFE) performed *before* the extraction of a periodontally hopeless maxillary molar (#16). The tooth was retained for 13 months while the graft consolidated, then atraumatically extracted with simultaneous immediate implant placement (4.8 × 10 mm SLA Straumann at 35 N·cm). Residual bone height was augmented from 1–2 mm to 12–14 mm. Histology at extraction showed predominantly new bone, and after 3 years of loading the implant remained healthy with <2 mm bone resorption, no peri-implantitis, and no mobility. A contralateral #26 received conventional post-extraction LSFE for informal comparison.

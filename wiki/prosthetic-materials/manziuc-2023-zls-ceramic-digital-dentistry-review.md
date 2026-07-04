@@ -13,11 +13,21 @@ source_collection: external
 tags: [zls, lithium-silicate, zirconia-reinforced, vita-suprinity, celtra, cad-cam, all-ceramic]
 ---
 
-## One-line Summary
-Comprehensive literature review of zirconia-reinforced lithium silicate (ZLS; Vita Suprinity, Celtra Duo/Press): mechanically superior to lithium disilicate but less translucent and weaker than zirconia (an intermediate hybrid), with HF etching, air abrasion, or laser etching plus silane/resin cement as standard bonding.
+## Three-line Summary
 
-## 한줄요약
-지르코니아 강화 리튬실리케이트(ZLS — Vita Suprinity, Celtra Duo/Press) 종합 리뷰: 리튬디실리케이트보다 기계적 강도↑, 지르코니아보다 투명도↑이지만 사이의 절충형. 본딩엔 HF etching·샌드블라스팅·레이저 etching이 표준.
+Comprehensive narrative review (PubMed/Web of Science/Cochrane; English in-vitro and clinical studies) of zirconia-reinforced lithium silicate (ZLS) ceramic — a Li₂SiO₃ glass-ceramic matrix with 8–12% ZrO₂ — including Vita Suprinity, Celtra Duo/Press, Vita Ambria, and Celtra Press.
+
+ZLS is mechanically superior to feldspathic, lithium disilicate, hybrid, and resin nanoceramic but weaker than translucent/high-translucency zirconia; its translucency is reduced vs pure lithium disilicate due to tetragonal ZrO₂ content; standard bonding requires HF etching or air/laser abrasion plus silane and resin cement.
+
+ZLS occupies a mechanical "middle ground" best suited for thin anterior restorations where lithium disilicate strength may be insufficient; it should be avoided for high-load posterior single crowns where translucent zirconia is preferred.
+
+## 세줄요약
+
+Li₂SiO₃ 유리세라믹 기질에 ZrO₂ 8–12%를 강화한 지르코니아 강화 리튬실리케이트(Zirconia-Reinforced Lithium Silicate, ZLS)(Vita Suprinity, Celtra Duo/Press, Vita Ambria, Celtra Press)에 대한 포괄적 서술 문헌고찰(PubMed/WoS/Cochrane).
+
+ZLS는 도재·리튬디실리케이트·하이브리드·레진나노세라믹보다 기계적 강도 우수하나, 반투명/고투명 지르코니아보다 약함; 테트라고날 ZrO₂로 인해 순 리튬디실리케이트 대비 투명도 감소; 표준 본딩: HF etching 또는 샌드블라스팅/레이저 에칭 + 실란 + 레진 시멘트.
+
+ZLS는 리튬디실리케이트 강도가 불충분한 얇은 전치부 수복에 가장 적합한 절충형 재료; 고하중 구치부 단단관에는 반투명 지르코니아가 우선 선택.
 
 ## Summary
 Comprehensive literature review of Zirconia-Reinforced Lithium Silicate (ZLS) ceramic — a hybrid material combining lithium metasilicate (Li₂SiO₃) glass-ceramic matrix with 8–12% ZrO₂. Commercial products: Vita Suprinity PC and Celtra Duo (CAD/CAM milling); Vita Ambria and Celtra Press (heat-press). Mechanical hierarchy: ZLS fracture toughness, flexural strength, elastic modulus, and hardness are higher than feldspathic, lithium disilicate, hybrid, and resin nanoceramics — but lower than translucent/high-translucency zirconia. Optical translucency reduced vs lithium disilicate due to tetragonal zirconia content. Standard bonding: HF etching, air abrasion, or laser etching followed by silane and resin cement.

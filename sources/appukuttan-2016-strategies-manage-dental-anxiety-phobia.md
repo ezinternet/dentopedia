@@ -17,13 +17,21 @@ text_filename: appukuttan-2016-strategies-manage-dental-anxiety-phobia.txt
 
 치과불안 관리의 **성인 중심** 의사결정 프레임워크 — 식별(주관적 척도 + 객관적 생리지표) → 심리치료(행동/인지/CBT) → 약물(진정/전신마취)의 단계적 논리를 한 페이지에 정리한 기준 종설. 기존 [[behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management]]가 소아 평가·관리에 치우친 것을 성인 결정 프레임워크로 보완하고, 단일 modality 종설인 [[behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia]](최면)를 상위 의사결정 맥락 안에 배치한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative literature review (adult-focused) laying out a stepwise framework for dental anxiety/phobia: identify with self-report scales (CDAS/MDAS/DFS) + objective physiologic measures, then manage via psychotherapeutic (behavioral/cognitive, with CBT most supported) → pharmacological (sedation/GA) interventions matched to anxiety severity.
+Narrative literature review (adult-focused, Dove Press 2016) laying out a stepwise framework for dental anxiety/phobia: identify with self-report scales (CDAS/MDAS/DFS) and objective physiologic measures (BP, galvanic skin response), then manage via psychotherapeutic or pharmacological interventions matched to severity.
 
-## 한줄요약
+CBT named the most accepted/successful psychological treatment; pharmacological tiers range from minimal anxiolysis (N₂O) through conscious sedation to GA for dental-phobic or special-care patients; the IOS tool (3–12 score) guides sedation-need staging.
 
-성인 중심 서술형 종설: 치과불안·공포를 자가보고 척도(CDAS/MDAS/DFS)와 객관적 생리지표로 식별한 뒤, 불안 정도에 맞춰 심리치료(행동/인지, CBT가 가장 근거 우세) → 약물(진정/전신마취)로 단계적으로 관리하는 의사결정 틀을 제시.
+Psychological interventions yield durable anxiety reduction with higher patient acceptability than pharmacological approaches, but require dentist training; article is narrative (no formal evidence grading) and pre-dates updated guidelines.
+
+## 세줄요약
+
+성인 중심 서술형 종설(Dove Press 2016) — 치과불안·공포를 자가보고 척도(CDAS/MDAS/DFS)·객관적 생리지표(혈압, 피부전기반응)로 식별한 뒤 불안 정도에 따라 심리치료(행동/인지; CBT가 가장 근거 우세) → 약물(최소 진정→의식하진정→전신마취) 단계적 관리 틀 제시.
+
+CBT 가장 근거 우수; IOS 도구(3~12점)로 진정 필요도 분류; N₂O(30~40%)·경구/정맥 벤조다이아제핀·전신마취 적응증 정의.
+
+심리치료는 약물보다 내구적·수용성 높으나 술자 훈련 필요; 서술 고찰 — 공식 근거 등급화 없음.
 
 ## 1. Document Information
 

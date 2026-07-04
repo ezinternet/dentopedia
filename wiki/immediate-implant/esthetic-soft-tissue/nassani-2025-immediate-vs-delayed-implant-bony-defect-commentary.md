@@ -14,11 +14,21 @@ source_collection: external
 tags: [immediate-implant, delayed-implant, bony-defect, aesthetic-zone, buccal-wall, RCT-commentary, UMCG, GBR, delayed-provisionalization]
 ---
 
-## One-line Summary
-EBD 2025 critical commentary (Nassani) on the Meijer et al. 10-year RCT (UMCG, n=40, aesthetic-zone sockets with buccal bony defect ≥5 mm): immediate placement + GBR + delayed provisionalization vs ridge preservation then delayed placement both gave acceptable 10-year outcomes, challenging the dogma that an intact buccal wall is mandatory for immediate placement.
+## Three-line Summary
 
-## 한줄요약
-EBD 2025 Commentary (Nassani) — Meijer JPeriodontol 2025 10년 RCT (UMCG, n=40, 협측골 결손 ≥5mm 심미부위): immediate + GBR + 지연 provisionalization vs 능선 보존 후 지연 식립 — 10년 결과 양 군 acceptable; "intact buccal wall 필수" dogma 약화.
+EBD 2025 critical commentary on the Meijer et al. JPeriodontol 2025 10-year RCT (UMCG, n=40) randomising esthetic-zone sockets with buccal bony defects ≥5 mm to immediate implant placement + GBR + delayed provisionalization versus ridge preservation then delayed placement.
+
+Both groups showed acceptable 10-year CBCT and clinical outcomes, challenging the teaching that an intact buccal wall is an absolute prerequisite for immediate implant placement.
+
+Immediate placement in buccal-defect sockets is defensible with GBR and delayed provisionalization; this does NOT validate immediate provisionalization in defect sockets, which requires separate evidence.
+
+## 세줄요약
+
+EBD 2025 비판적 해설 — Meijer 등 JPeriodontol 2025 10년 RCT(UMCG, n=40) — 협측골 결손 ≥5 mm 심미부 즉시식립+GBR+지연 프로비저널라이제이션 vs 능선 보존 후 지연 식립 무작위 비교.
+
+두 군 모두 10년 CBCT·임상 결과 허용 가능 — "협측골벽 완전 보존이 즉시식립의 절대 전제조건"이라는 기존 교의 약화.
+
+협측 결손 발치와에서 즉시식립은 GBR+지연 프로비저널라이제이션 조건으로 타당; 결손 발치와에서의 즉시 프로비저널라이제이션은 이 연구로 검증되지 않아 별도 근거 필요.
 
 ## Summary
 Evidence-Based Dentistry critical commentary on the Meijer et al. JPeriodontol 2025 10-year RCT (University Medical Center Groningen). The original RCT enrolled 40 patients with a failing tooth in the aesthetic region and a buccal bony defect of **≥5 mm** — historically considered a contraindication to immediate implant placement.

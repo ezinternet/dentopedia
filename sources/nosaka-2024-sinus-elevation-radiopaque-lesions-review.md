@@ -14,7 +14,7 @@ source_collection: external
 
 [[sinus-lift/pseudocyst/yeung-2022-cbct-maxillary-sinus-pathology-review]]가 CBCT의 광범위한 sinus pathology를 다뤘다면 본 review는 **"well-defined faintly radiopaque lesions"의 특정 임상 시나리오** 집중. AP/MRC 외에 다양한 radiopaque mass에 대한 술자 결정 가이드.
 
-## One-line Summary
+## Three-line Summary
 Clinical review (Nosaka Oral Surgery Clinic + Showa University, JCM 2024): 상악동 내 well-defined faintly radiopaque lesion이 있는 환자의 sinus floor elevation — 영상 진단·감별·술식 결정의 종합 review.
 
 ## 1. Document Information

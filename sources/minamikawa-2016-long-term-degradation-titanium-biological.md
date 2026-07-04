@@ -9,7 +9,7 @@ pdf_filename: minamikawa-2016-long-term-degradation-titanium-biological.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vitro study: Ti biological aging continues progressively up to 6 months (not just 4 weeks); cell attachment/spread/ALP all decrease time-dependently; degradation driven by carbon contamination rather than hydrophilicity per se.
 
 ## 1. Document Information

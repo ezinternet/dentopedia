@@ -13,11 +13,19 @@ source_collection: external
 tags: [niti-file, trunatomy, protaper-gold, waveone-gold, transportation, s-shaped-canal]
 ---
 
-## One-line Summary
-In vitro S-shaped resin block trial (n=60): TruNatomy preserved apical canal curvature significantly better than ProTaper GOLD and WaveOne GOLD, with shortest preparation time and least resin removal; ProTaper GOLD showed the largest apical transportation at 2–3 mm levels.
+## Three-line Summary
+In vitro pre/post-staining superimposition study (n=60 S-shaped resin blocks, 3 groups × 20) comparing canal transportation at 1-mm increments from apex to 9 mm among ProTaper GOLD, WaveOne GOLD, and TruNatomy, using paired t-test and one-way ANOVA/Kruskal-Wallis.
 
-## 한줄요약
-In vitro S-shaped resin block trial (n=60): TruNatomy preserved apical canal curvature significantly better than ProTaper GOLD and WaveOne GOLD; shortest preparation time and least resin removal; ProTaper GOLD showed the largest apical transportation at 2-3 mm levels.
+TruNatomy showed significantly less canal transportation at 3 mm and 5 mm levels (p<0.05), the shortest preparation time, and least resin removal; ProTaper GOLD produced the largest apical transportation at 2–3 mm and removed the most resin; WaveOne GOLD was intermediate.
+
+The minimally tapered TruNatomy system is the most conservative option for S-shaped or similarly complex curved canals, at the cost of a thinner canal wall — a trade-off requiring attention to residual dentine thickness in narrow or thin roots.
+
+## 세줄요약
+ProTaper GOLD, WaveOne GOLD, TruNatomy 3종 NiTi 성형 기구 비교 in vitro 연구 — S형 레진 블록(n=60, 3군 × 20개) 전후 착색 중첩법으로 치근단에서 9 mm까지 1 mm 간격 근관 이동량 측정(paired t-test, one-way ANOVA/Kruskal-Wallis).
+
+TruNatomy는 3 mm·5 mm 수준에서 유의하게 적은 근관 이동(p<0.05), 가장 짧은 성형 시간, 가장 적은 레진 제거; ProTaper GOLD는 치근단 2–3 mm 이동량 최대·레진 제거량 최다; WaveOne GOLD는 중간.
+
+최소 테이퍼의 TruNatomy가 S형 만곡 근관에서 가장 보존적 — 단, 얇은 근관벽은 좁거나 세장한 치근에서 잔존 상아질 두께(Residual Dentin Thickness) 주의 필요.
 
 ## Summary
 Three nickel-titanium shaping systems were compared in 60 S-shaped resin canals. The minimally-tapered TruNatomy showed the lowest canal transportation in the apical region and the shortest preparation time, while ProTaper GOLD removed the most resin and produced the largest apical transportation. Findings support TruNatomy as a more conservative option for S-shaped or otherwise complex canals.

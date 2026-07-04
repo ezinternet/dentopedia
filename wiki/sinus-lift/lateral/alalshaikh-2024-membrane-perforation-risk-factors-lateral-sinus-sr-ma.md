@@ -19,13 +19,21 @@ relations:
     target: nemati-2023-membrane-perforation-risk-lateral-sinus
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of (mostly retrospective) lateral-window sinus elevation studies identifying the most prominent Schneiderian membrane perforation risk factors as thin membrane (<1.5 mm), sinus septa (3× risk), and smoking (1.6× risk; ~1 perforation per 7 smokers).
+SR+MA (predominantly retrospective studies) examining risk factors for Schneiderian membrane perforation during lateral-window maxillary sinus floor elevation (abstract-only ingest; exact study count and CIs not retrieved).
 
-## 한줄요약
+Thin membrane (<1.5 mm), sinus septa (approximately 3× increased risk), and smoking (1.6× risk, roughly 1 perforation per 7 smokers treated) were the most prominent risk factors; piezosurgery showed marginal benefit over rotary instruments (p=0.05); lateral wall thickness and residual ridge height were significant but supported by only 3 studies.
 
-측방창 상악동거상술의 슈나이더 막(Schneiderian membrane) 천공 위험인자 SR+MA — 얇은 막(<1.5 mm), 중격(septa, 3배), 흡연(1.6배·흡연자 7명당 1건)이 가장 두드러진 위험인자이고, 측벽 두께·잔존 치조골 높이도 유의(근거 3편 한정)했으며 창 크기·결손치 수는 무관.
+Window size and number of missing teeth were not associated with perforation risk, and preoperative CBCT triage for membrane thickness, septa, and smoking status is the key clinical implication.
+
+## 세줄요약
+
+측방창 상악동거상술 (Lateral-Window Sinus Floor Elevation) 중 슈나이더 막 (Schneiderian Membrane) 천공 위험인자 체계적 고찰 및 메타분석 (주로 후향적 근거; 전문 미취득).
+
+얇은 막 (<1.5 mm), 상악동 중격 (Sinus Septa, 약 3배 위험), 흡연 (1.6배, 흡연자 7명당 약 1건) 이 가장 두드러진 위험인자; 압전기기(Piezosurgery)는 회전기기 대비 경계적 이점 (p=0.05); 측벽 두께·잔존 치조골 높이는 유의하나 근거가 3편으로 제한.
+
+창 크기 및 결손치 수는 천공 위험과 무관하며, 술전 콘빔CT(CBCT)로 막 두께·중격·흡연 여부를 우선 평가하는 것이 핵심 임상 함의.
 
 ## Summary
 

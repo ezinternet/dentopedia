@@ -18,13 +18,21 @@ text_filename: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 21 RCTs (n=1668): thalidomide significantly raised complete response (vs placebo RR 6.95; vs other drugs RR 2.18), prolonged recurrence interval (MD +26.91 d), accelerated healing and reduced ulcer number/size and TNF-α, but showed no pain (VAS) benefit and significantly more adverse events (RR 1.87) — best reserved for major or topical-refractory RAS at 25 mg/d.
+First SR+MA of thalidomide for recurrent aphthous stomatitis, pooling 21 RCTs (n=1,668 patients; 17/21 trials from China; PROSPERO CRD42024495038).
 
-## 한줄요약
+Thalidomide significantly raised complete response vs placebo (RR 6.95) and vs other drugs (RR 2.18), prolonged recurrence interval (MD +26.91 days), and reduced healing time/ulcer size, but did not improve VAS pain and significantly increased adverse events (RR 1.87) including peripheral neurotoxicity.
 
-21개 RCT(1668명) SR+MA: 탈리도마이드는 완전반응률(위약 대비 RR 6.95, 타약물 대비 RR 2.18)을 유의하게 높이고 재발간격(+26.91일)·치유속도·궤양 수/크기·TNF-α를 개선했으나 통증(VAS)은 개선 못 했고 부작용은 유의하게 증가(RR 1.87) — major RAS 또는 국소제 무반응 사례에 25 mg/d로 한정 권고.
+Best reserved for major or topical-refractory RAS at 25 mg/day; absolute contraindication in pregnancy; most trials had high risk of bias with I² up to 99%, limiting generalizability.
+
+## 세줄요약
+
+재발성 아프타 구내염(RAS)에 대한 탈리도마이드의 첫 SR+MA, 21개 RCT 통합 (1,668명; 21편 중 17편 중국 연구; PROSPERO CRD42024495038).
+
+탈리도마이드는 완전반응률을 위약 대비 RR 6.95, 타약물 대비 RR 2.18로 유의하게 향상시키고 재발간격(+26.91일)·치유시간·궤양 크기를 개선; 단, VAS 통증은 개선 없고 부작용 유의 증가(RR 1.87, 말초신경독성 포함).
+
+major RAS 또는 국소치료 무반응 시 25 mg/day로 한정 사용 권고; 임신 절대금기; 대부분 연구 비뚤림 위험 높고 I² 최대 99%로 일반화 제한.
 
 ## Summary
 

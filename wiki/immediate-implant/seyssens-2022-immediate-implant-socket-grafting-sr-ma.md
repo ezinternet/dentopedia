@@ -16,11 +16,21 @@ relations:
     target: sanz-2017-bone-graft-gap-immediate-implant-rct
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (15 RCTs; 577 patients, 604 implants; IIP+socket grafting 298 vs IIP-only 306; follow-up 4–36 months) showing that grafting the implant-socket gap during single immediate implant placement significantly reduces horizontal hard tissue loss and preserves buccal bone, with equivalent implant survival.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (Cosyn, 15 RCT, n=577명, 604 임플란트 IIP+SG 298 vs IIP 306, follow-up 4-36개월): IIP 시 implant-socket gap에 골이식 (SG) 동반 vs 비동반 — hard tissue·일부 soft tissue 보존 유의.
+Systematic review and meta-analysis (Cosyn group; 15 RCTs; 577 patients, 604 implants; IIP+socket grafting n=298 vs IIP-only n=306; follow-up 4–36 months) comparing the effect of grafting the implant-to-socket gap during single immediate implant placement on hard and soft tissue outcomes.
+
+Socket grafting significantly reduced horizontal hard tissue loss and improved buccal bone thickness preservation, with some soft tissue advantages; implant survival was equivalent between groups.
+
+When the jump space is ≥2 mm at single immediate implant placement, socket grafting (e.g., xenograft) should be considered standard practice based on this SR+MA evidence; this paper is a core part of Cosyn's four-series immediate placement bundle.
+
+## 세줄요약
+
+SR+MA (Cosyn 그룹; RCT 15편, 577명, 604 임플란트; IIP+소켓이식 298 vs IIP 단독 306, 추적 4–36개월): 단일 즉시식립 시 임플란트-소켓 간극 이식 동반 여부에 따른 경·연조직 결과 비교.
+
+소켓이식 동반군에서 수평 경조직 소실이 유의하게 감소하고 협측 골 두께가 보존되었으며, 일부 연조직 이점도 확인; 임플란트 생존율은 양군 동등.
+
+단일 즉시식립 시 점프 공간 ≥2 mm인 경우 이종골 등을 이용한 소켓이식이 표준 처치로 권고; 본 SR+MA는 Cosyn 4편 직식립 번들의 핵심 근거이다.
 
 ## Summary
 To assess effect of grafting gap between implant surface and alveolar socket on hard/soft tissue changes following single IIP. PubMed/WoS/Embase/Cochrane to Aug 2021. RCTs comparing IIP+SG vs IIP only. 15 RCTs included.

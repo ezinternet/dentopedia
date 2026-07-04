@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)에서 **플라즈마를 상용 친수성 표면(SLActive)과 직접 비교**한 동물(beagle) 근거. 플라즈마 활성화가 별도 비용·생물학적 노화 한계가 있는 SLActive의 대안이 될 수 있는지를 묻는다. [[wiki/implants/surface/plasma/zheng-2020-non-thermal-atmospheric-plasma-titanium]](같은 NTAP 기전)과 연결.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro + in vivo beagle study comparing non-thermal atmospheric plasma (NTAP)-functionalized titanium vs commercial Straumann SLActive: NTAP achieved a hydrophilic surface and early osseointegration comparable to SLActive, positioning chairside NTAP as a cost-effective alternative that avoids SLActive's time-dependent biological aging.
+In vitro (cell) plus in vivo beagle dog study (Frontiers in Bioengineering and Biotechnology 2022;10:965248) comparing non-thermal atmospheric plasma (NTAP)-functionalized titanium implant surfaces against the commercial hydrophilic benchmark Straumann SLActive for early osseointegration.
 
-## 한줄요약
+NTAP surface activation produced a hydrophilic surface and achieved early osseointegration comparable to SLActive in the beagle model; NTAP was framed as a cost-effective chairside alternative without SLActive's time-dependent biological aging from hydrocarbon accumulation.
 
-비글견 in vitro+in vivo 연구로 비열 대기압 플라즈마(NTAP) 처리 티타늄을 상용 Straumann SLActive와 비교: NTAP는 친수성 표면과 초기 골유착에서 SLActive에 필적 — 시간의존적 생물학적 노화가 없고 비용효율적인 chairside 대안 가능성.
+NTAP-activated implants may offer the osseointegration benefits of a commercial superhydrophilic surface (SLActive) at lower cost and without shelf-life constraints, though clinical human data are lacking and this represents a non-inferiority finding rather than superiority.
+
+## 세줄요약
+
+In vitro(세포) + in vivo 비글견 실험(Frontiers Bioeng Biotechnol 2022;10:965248): 비열 대기압 플라즈마(NTAP, Non-Thermal Atmospheric Plasma) 처리 티타늄 임플란트를 상용 초친수성 표면 Straumann SLActive와 초기 골유착에서 직접 비교.
+
+NTAP 처리로 친수성 표면이 형성되었고 비글견 모델에서 초기 골유착이 SLActive에 필적하는 수준; NTAP는 탄화수소 축적에 의한 시간의존적 생물학적 노화가 없어 비용효율적인 chairside 표면 활성화 대안으로 제안됨.
+
+인체 임상 데이터 없이 동물·in vitro 수준이므로 직접 임상 적용에 한계 있으나, NTAP가 SLActive 대비 비열등성(non-inferiority) 가능성을 보여 향후 임상 연구의 근거 제공.
 
 ## 1. Document Information
 

@@ -22,13 +22,21 @@ relations:
     target: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Consensus statement (SSRD/SEPES/PROSEC; built on 2 SR+MA covering 35 studies) endorsing feldspathic/LRGC/LDS for ceramic laminate veneers (≈96% 10-year survival) and LDS/RMC/LRGC for posterior partial coverage restorations, with enamel bonding and butt-joint incisal preparation as the key success drivers.
+Consensus statement from SSRD/SEPES/PROSEC (2 underlying SR+MA, 35 studies) endorsing feldspathic, LRGC, and LDS for ceramic laminate veneers, which show pooled survival of 97.76% at 2.6 years and 96.05% at 10.4 years, and LDS/RMC/LRGC as appropriate materials for posterior partial coverage restorations at 3 years.
 
-## 한줄요약
+LDS showed significantly fewer technical and biological complications than feldspathic (p=0.044) or LRGC (p=0.033), but no significant esthetic complication difference across materials; for posterior PCRs, LDS 3-year survival was 93.7% vs RMC 89.3% (NS).
 
-세라믹 라미네이트 비니어(feldspathic·LRGC·LDS, 10년 생존율 ≈96%)와 구치부 부분피개수복(LDS·RMC·LRGC)에 대한 SSRD/SEPES/PROSEC 합의문(2편 SR+MA·35편 기반) — 법랑질 접착과 butt-joint 절치 변연 형성을 핵심 성공 요인으로 권고.
+Clinical recommendations: bond to enamel wherever possible, prefer a flat incisal butt-joint preparation over non-overlapping or palatal-chamfer designs, and prioritize repair over replacement; zirconia veneer evidence remains insufficient for routine long-term use.
+
+## 세줄요약
+
+SSRD/SEPES/PROSEC 합의문 (2편 SR+MA, 35편 근거): feldspathic·LRGC·LDS 세라믹 라미네이트 비니어 생존율 2.6년 97.76%, 10.4년 96.05%; 구치부 부분피개수복(Partial Coverage Restoration, PCR)에는 LDS·RMC·LRGC 모두 3년 중기에 적절.
+
+LDS는 기술적·생물학적 합병증이 feldspathic(p=0.044)·LRGC(p=0.033)보다 유의하게 적음; 구치부 PCR: LDS 3년 생존율 93.7% vs 레진매트릭스 세라믹(RMC) 89.3% (NS).
+
+임상 권고: 법랑질 접착 우선, 절치 변연은 평면 butt-joint 선호, 교체보다 수리 우선; 지르코니아 비니어는 중·장기 근거 불충분으로 routine 적용 보류.
 
 ## Summary
 

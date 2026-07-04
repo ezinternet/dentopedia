@@ -14,13 +14,23 @@ source_collection: external
 
 기존 [[wiki/sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] 및 [[wiki/overviews/sinus-lift-lateral-2026-synthesis]]는 상악동거상술 (Sinus Floor Elevation, SFE)에서 슈나이더 막 천공 (Schneiderian Membrane Perforation, SMP)의 수복·해부학적 위험 예측을 다루지만, 흡연 (Smoking)이 천공 위험에 독립적으로 기여하는지에 대한 정량적 근거가 없었다. 본 SR+MA (Wang 2023)는 OR 1.58 (95% CI 1.10–2.25)를 제시해 흡연을 수술 전 조절 가능한 위험인자로 확립하며, OMS 개요의 예방 축에 직접 공급된다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (n=1424); smoking is significantly associated with Schneiderian membrane perforation during maxillary sinus floor augmentation (OR 1.58, 95% CI 1.10–2.25, I²=5%).
 
-## 한줄요약
+SR+MA of 9 studies (n=1424);
+
+smoking is significantly associated with Schneiderian membrane perforation during maxillary sinus floor augmentation (OR 1.58, 95% CI 1.10–2.25, I²=5%).
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (9편, n=1,424): 흡연 (Smoking)이 상악동거상술 (Maxillary Sinus Floor Augmentation) 시 슈나이더 막 천공 (Schneiderian Membrane Perforation) 위험을 유의하게 증가시킴 — OR 1.58 (95% CI 1.10–2.25, I²=5%).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

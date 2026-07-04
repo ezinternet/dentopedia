@@ -13,13 +13,23 @@ source_collection: external
 
 이 endotoxin/세포벽 성분(LTA/LPS) 배치의 한 축으로, 기존 [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]가 정리한 calcium hydroxide의 *E. faecalis* 한계를 보완할 신규 intracanal medicament 후보(postbiotic LTA)를 제시한다. 다른 배치 논문들이 LTA를 제거 대상 virulence factor로 다루는 것과 대비되게, 본 in-vitro는 LTA(probiotic 유래)를 치료제로 역전시킨다는 점에서 contrast 가치가 있다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro human dentinal cylinder model (n=28): lipoteichoic acid purified from *Lacticaseibacillus rhamnosus* GG (Lgg.LTA, 50 μg/ml) inhibited 2-week *E. faecalis* intracanal biofilm as effectively as calcium hydroxide, while sterile water and NMP vehicle had little effect.
 
-## 한줄요약
+In-vitro human dentinal cylinder model (n=28): lipoteichoic acid purified from *Lacticaseibacillus rhamnosus* GG (Lgg.LTA, 50 μg/ml) inhibited 2-week *E.
 
-발치한 사람 치아 상아질 실린더 모델(n=28) in-vitro 연구: 프로바이오틱 *Lacticaseibacillus rhamnosus* GG에서 정제한 지질테이코산(Lgg.LTA, 50 μg/ml)이 2주간 형성된 *E. faecalis* 근관 내 바이오필름을 수산화칼슘과 동등하게 억제했고, 증류수·NMP 부형제는 효과가 거의 없었다.
+faecalis* intracanal biofilm as effectively as calcium hydroxide, while sterile water and NMP vehicle had little effect.
+
+(incomplete)
+
+## 세줄요약
+
+
+발치한 사람 치아 상아질 실린더 모델(n=28) in-vitro 연구: 프로바이오틱 *Lacticaseibacillus rhamnosus* GG에서 정제한 지질테이코산(Lgg.LTA, 50 μg/ml)이 2주간 형성된 *E.
+
+faecalis* 근관 내 바이오필름을 수산화칼슘과 동등하게 억제했고, 증류수·NMP 부형제는 효과가 거의 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -17,13 +17,21 @@ text_filename: cafferata-2025-impaired-treg-mediated-immune-regulation.txt
 
 사용자 요청 — "구강내 염증 육아조직(inflammatory granulation tissue)" 논문의 PMC 전문 인제스트. 임플란트주위염(Peri-Implantitis, PI) 수술·발거 시 채취한 **육아조직(granulation tissue)**을 직접 분석해, 그 조직이 왜 만성 비해소성(non-resolving) 염증으로 남는지 host 면역(조절 T세포, Treg) 관점에서 설명한다. 같은 프랑크푸르트 Goethe 그룹의 대식세포 극성화 연구 [[wiki/implants/peri-implantitis/galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions]]가 "M1 우세 = 파괴적 염증"을 보였다면, 본 논문은 그 육아조직 안에서 Treg 조절축(FOXP3↑·NRP-1↓·TGF-β1↓·IL-35↑)이 어떻게 무너져 있는지를 보강한다. PI 표면제염·재건술이 기계적·항균 치료만으로 완전 해소되지 않는 [[wiki/implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]]의 "단일 우월 프로토콜 부재" 문제에 host-side 근거를 더한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective histological/molecular study of human peri-implantitis granulation tissue (PI surgical n=23, explantation PI-X n=23, healthy n=20): PI lesions show FOXP3↑ and IL-35↑ but NRP-1↓ and TGF-β1↓ — Tregs are present but functionally impaired, and these alterations correlate with probing depth and vertical defect depth.
+Retrospective histological/molecular study of human peri-implantitis granulation tissue (PI surgical n=23, explantation PI-X n=23, healthy n=20 controls) characterizing T regulatory cell profiles via RT-qPCR, immunohistochemistry, and crevicular-fluid ELISA.
 
-## 한줄요약
+PI lesions show a dissociated Treg signature: FOXP3 ↑3.8-fold and IL-35 ↑2.3-fold, but NRP-1 ↓ and TGF-β1 ↓ in crevicular fluid — Tregs are present but functionally impaired; FOXP3 correlates with probing depth (rho=0.59) and NRP-1 inversely with probing depth (rho=−0.61).
 
-사람 임플란트주위염 육아조직의 후향적 조직·분자 연구(수술군 23·발거군 23·건강 대조 20): 병소에서 FOXP3↑·IL-35↑이지만 NRP-1↓·TGF-β1↓ — 조절 T세포(Treg)가 존재하되 기능적으로 손상돼 있고, 이 변화가 탐침깊이·수직결손깊이와 상관.
+Treg dysfunction may explain why mechanical/antimicrobial therapy alone fails to resolve peri-implantitis; NRP-1 agonists and TGF-β1/IL-35 modulation are proposed as host-directed adjuncts.
+
+## 세줄요약
+
+임플란트주위염 병소 육아조직의 후향적 조직·분자 연구(수술군 23·발거군 23·건강 대조 20): RT-qPCR·면역조직화학·치은열구액 ELISA로 조절 T세포(Treg, T regulatory cell) 프로파일 분석.
+
+병소에서 FOXP3 ↑3.8배·IL-35 ↑2.3배이지만 NRP-1 및 치은열구액 TGF-β1은 감소 — Treg가 존재하되 기능적으로 손상돼 있고, FOXP3은 탐침깊이(rho=0.59), NRP-1은 역상관(rho=−0.61).
+
+기계적·항균 치료만으로 임플란트주위염이 완전 해소되지 않는 이유를 host 면역 기전으로 설명하며, NRP-1 작용제·TGF-β1/IL-35 조절이 면역중재 보조요법 후보로 제안됨.
 
 ## 1. Document Information
 

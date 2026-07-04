@@ -9,7 +9,7 @@ pdf_filename: feldman-2024-nonopioid-opioid-third-molar-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Multisite RCT (n=1,815): ibuprofen 400mg+APAP 500mg outperforms hydrocodone 5mg+APAP 300mg for pain on days 1–2 post-3rd molar extraction and yields higher overall satisfaction; opioid never outperformed nonopioid at any timepoint.
 
 ## 1. Document Information

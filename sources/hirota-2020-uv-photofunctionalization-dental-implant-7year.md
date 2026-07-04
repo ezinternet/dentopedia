@@ -9,7 +9,7 @@ pdf_filename: hirota-2020-uv-photofunctionalization-dental-implant-7year.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective study (70 implants, 16 patients, 7yr): UV-PF (15 min, pre-placement) → regular/complex cases 100% success; cancer-resection cases 22.2%; ISQ +21.9 in complex cases; BIC ~60% (aged Ti) vs ~90% (fresh Ti).
 
 ## 1. Document Information

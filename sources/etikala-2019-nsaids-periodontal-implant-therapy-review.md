@@ -9,7 +9,7 @@ pdf_filename: etikala-2019-nsaids-periodontal-implant-therapy-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 서술적 고찰: NSAIDs가 치주 상처 치유에 상충된 결과; 선택적 COX-2 억제제는 골형성 억제 → 임플란트 골유착 저해 가능성; 임상 근거 부족으로 결론 유보 (Compend Contin Educ Dent 2019).
 
 ## 1. Document Information

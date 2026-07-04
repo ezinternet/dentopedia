@@ -9,7 +9,7 @@ pdf_filename: hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In-vitro study (MC3T3-E1): C/Ti ratio dose-dependently suppresses osteoblast attachment and spreading; ALP and calcium mineralization reduced >40% at C/Ti=1.0; first direct evidence that hydrocarbon contamination is a primary cause of suboptimal BIC.
 
 ## 1. Document Information

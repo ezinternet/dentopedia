@@ -18,13 +18,21 @@ relations:
     target: altayar-2023-cbct-maxillary-sinus-septa-yemeni
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 62 studies (22,460 sinuses; 13,701 patients) establishing pooled maxillary sinus septa prevalence at 33.2% per sinus and 41.0% per patient, with most septa in the mid-sinus region and 86% transversely oriented.
+PROSPERO-registered SR+MA (62 studies, 22,460 sinuses, 13,701 patients) using CBCT or CT, with Freeman–Tukey double-arcsine transformation and random-effects pooling to estimate maxillary sinus septa prevalence.
 
-## 한줄요약
+Pooled per-sinus prevalence was 33.2% (95% CI 27.8–38.5%; I²=98.32%) and per-patient prevalence 41.0% (95% CI 36.0–46.0%); 86% of septa were transversely oriented and most common in the mid-sinus region; no significant sex difference (OR 0.785, p=0.098).
 
-SR+MA (62편, 22,460개 상악동): 상악동 격벽 (Sinus Septa, Underwood Septa) 유병률 상악동당 33.2% (95% CI 27.8–38.5%), 환자당 41.0% (95% CI 36.0–46.0%); 중간부 위치·횡단 방향 (86%)이 지배적.
+Roughly 1 in 3 sinuses harbors septa that will likely cross the planned lateral-window osteotomy, making preoperative CBCT for septa detection warranted before every lateral SFE.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (62편, 22,460개 상악동): 상악동 격벽 (Sinus Septa, Underwood Septa) 콘빔 전산화 단층촬영 (CBCT)/CT 기반 유병률, 이중 역정현 변환·무작위 효과 모형.
+
+상악동당 유병률 33.2% (95% CI 27.8–38.5%; I²=98.32%), 환자당 41.0%; 86%는 횡단 방향, 가장 많은 위치는 중간부; 성별 차이 없음 (OR 0.785, p=0.098).
+
+약 3분의 1 상악동에 격벽이 존재하고 대부분 측방창 골절개선을 가로질러, 측방 상악동저 거상술 (Sinus Floor Elevation, SFE) 전 CBCT 격벽 스크리닝이 모든 증례에서 필요함.
 
 ## Summary
 

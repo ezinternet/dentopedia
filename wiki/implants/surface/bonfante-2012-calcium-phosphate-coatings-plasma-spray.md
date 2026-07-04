@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (6 beagles, 36 plateau implants, 6 and 12 weeks) showing that plasma-sprayed amorphous CaP (ACP) and partially crystalline hydroxyapatite (PSHA) coatings produce equivalent BIC and BAFO despite differing significantly in roughness, crystalline phase content, and carbonate group presence.
+Animal study (6 beagles, 36 Ti-6Al-4V plateau implants, 6 and 12 weeks) comparing plasma-sprayed amorphous calcium phosphate (ACP, Sa 5.18 µm) vs partially crystalline hydroxyapatite (PSHA, Sa 3.22 µm) coatings.
 
-## 한줄요약
+Despite significantly different roughness, crystalline phase content (ACP <1% vs PSHA 71% HA), and carbonate group presence, BIC and BAFO were equivalent at both time points (all p>0.75).
 
-비글 6마리(평지형 임플란트 36개, 6·12주) 동물실험에서 플라즈마 스프레이 비결정질 ACP와 부분결정질 PSHA 코팅은 거칠기·결정상·탄산염 차이에도 불구하고 BIC·BAFO에서 동등한 골전도성을 보임.
+Both surfaces supported lamellar bone at 12 weeks; physicochemical differences between plasma-spray CaP coating types do not translate into measurable histomorphometric advantages at early time points.
+
+## 세줄요약
+
+동물 연구(비글 6마리, 평지형 임플란트 36개, 6·12주): 플라즈마 스프레이 비결정질 CaP(ACP, Sa 5.18 µm) vs 부분결정질 HA(PSHA, Sa 3.22 µm) 코팅 비교.
+
+거칠기·결정상(ACP <1% vs PSHA 71% HA)·탄산염 유무 유의차에도 불구하고 골-임플란트 접촉률 (BIC)·BAFO 동등(모두 p>0.75).
+
+12주에 양군 모두 층판골 형성 — 플라즈마 스프레이 CaP 코팅 간 물리화학적 차이가 조기 조직계측학적 우위로 이어지지 않음.
 
 ## Summary
 

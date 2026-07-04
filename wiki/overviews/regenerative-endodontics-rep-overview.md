@@ -28,11 +28,21 @@ tags: [REP, regenerative-endodontics, revitalization, apexification, MTA-apical-
 > - 조직학적 현실: REP 재생 조직은 진정한 치수-상아질 복합체가 아니라 백악질·골 유사 조직(Zhou 2022) → 성공 후에도 vitality test 음성 가능, 구조적 이득은 있으나 치수 감각 회복은 아님(환자 기대치 관리 필요).
 > - 의사결정 요약: 미성숙 영구치+치수괴사 → 일부 생활치수 잔존 시 부분치수절단(VPT) / 완전 괴사 시 젊은 환자·치근발육 목표면 REP, 고령·빠른 폐쇄 필요면 MAP. 양쪽 생존 동등, 치근 신장 목표 시 REP 선호.
 
-## One-line Summary
-Synthesis of 6 REP papers (3 SR+MA, 1 prospective-microbiology, 1 narrative-review): REP/revitalization and MAP have equivalent survival (~97%) and success (~93%), but REP is significantly superior for root elongation and dentin wall thickening; LPRF scaffold is NOT recommended.
+## Three-line Summary
 
-## 한줄요약
-REP 6편 종합: REP/revitalization과 MAP 생존율(~97%)·성공율(~93%) 동등, 치근 길이·벽 두께는 REP 유의 우위; LPRF 스캐폴드는 비권장.
+Synthesis of 6 REP papers covering necrotic immature permanent teeth: REP/revitalization and MTA apical plug (MAP) show equivalent survival (97.8% vs 97.1%) and success (91.3% vs 94.6%) in a 2017 SR+MA (Torabinejad), but REP is significantly superior for root elongation and dentin wall thickening in two independent SR+MAs (Panda 2022, Stefanidou 2024).
+
+Disinfection protocol: 1.5% NaOCl + 17% EDTA; intracanal medicament CH ≈ TAP (both 97% 1-year success, Alovisi 2026 SR+MA) — both superior to DAP (84.2%); blood-clot scaffold is standard; LPRF scaffold is NOT recommended (2/14 retreatments + persistent apical periodontitis at 3 years vs 0/controls).
+
+Clinical rule: choose REP over MAP for children with immature necrotic permanent teeth when structural root completion is the goal; apical periodontitis alone does not disqualify REP; histological regenerate is cementum/bone-like tissue, not true pulp — vitality tests will be negative post-REP.
+
+## 세줄요약
+
+미성숙 영구치 치수괴사 6편 종합: 재생근관치료(Regenerative Endodontic Procedure, REP)/혈관재생과 무기삼산화물집합체 치근단 폐쇄(MTA Apical Plug, MAP)의 생존율(97.8% vs 97.1%)·성공률(91.3% vs 94.6%)은 동등(Torabinejad 2017 SR+MA, LOW 근거); 그러나 치근 신장·상아질 벽 두께 증가는 REP가 유의 우위(Panda 2022·Stefanidou 2024 두 SR+MA 일치).
+
+소독 약제: 수산화칼슘(Calcium Hydroxide, CH)≈삼제항생제 페이스트(Triple Antibiotic Paste, TAP)(1년 성공률 동등·이제항생제 페이스트(Double Antibiotic Paste, DAP) 84.2% 대비 우월, Alovisi 2026 SR+MA); 표준 스캐폴드(scaffold)=혈병(blood clot); 백혈구풍부 피브린(Leukocyte-Platelet Rich Fibrin, LPRF) 비권장(14례 중 2례 재치료·3년 치근단치주염 지속 vs 대조군 완전치유).
+
+임상 원칙: 소아·미성숙 영구치+완전 치수괴사→구조적 치근 완성 목표면 REP 선택; 치근단 병소 자체는 REP 금기가 아님; REP 후 생활반응(vitality test) 음성 = 정상(재생조직은 백악질·골 유사 구조).
 
 ## Summary
 

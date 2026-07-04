@@ -13,13 +13,21 @@ source_collection: external
 tags: [vertical-augmentation, sinus-lift, simultaneous, titanium-mesh, implant-survival, complications, posterior-maxilla, case-series]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective case series (15 patients, 33 implants, 2005–2010, SNU Bundang Hospital): simultaneous maxillary sinus bone graft + vertical ridge augmentation (Ti-mesh/membrane in nearly all) gave 81.8% implant survival and success, low grafted-bone resorption (sinus 0.37 mm, ridge 0.20 mm at final), but elevated complications (4 Ti-mesh/membrane exposures) — authors recommend delayed implant placement.
+Retrospective single-center Korean case series (15 patients, 33 implants, single surgeon, 2005–2010, Seoul National University Bundang Hospital) reporting simultaneous maxillary sinus bone graft + vertical ridge augmentation in severely atrophic posterior maxilla; Ti-mesh/membrane barriers used in nearly all cases; 9 implants placed simultaneously and 24 delayed (~4.3-month healing).
 
-## 한줄요약
+Implant survival/success was 81.8% (6/33 failed: 3 before loading, 3 late); grafted-bone resorption was low (sinus 0.37 mm, ridge 0.20 mm at final follow-up); complications included 4 Ti-mesh/membrane exposures, 3 peri-implantitis, 2 sinusitis, and 2 fixture fractures.
 
-후향적 증례 시리즈 (환자 15명, 임플란트 33개, 2005–2010, 분당서울대병원): 상악동 골이식 + 수직 치조제 증대술 동시 시행(거의 전 증례 티타늄 메시/막)에서 임플란트 생존·성공률 81.8%, 이식골 흡수는 낮았으나(최종 상악동 0.37 mm, 치조제 0.20 mm) 합병증(메시/막 노출 4건)이 많아 지연 식립 권고.
+Grafted bone can remain stable while implant survival is still depressed (81.8%) because wound complications — not resorption — drive failure in this combined procedure; the authors recommend delayed implant placement and sufficient healing over simultaneous placement in this complex scenario.
+
+## 세줄요약
+
+후향적 단일 기관 증례 시리즈(환자 15명, 임플란트 33개, 단일 술자, 2005–2010, 분당서울대병원): 중증 위축 후방 상악에서 상악동 골이식 + 수직 치조제 증대술 동시 시행(거의 전 증례 Ti 메시/막); 동시 식립 9개·지연 식립 24개(평균 치유 4.3개월).
+
+임플란트 생존·성공률 81.8%(6/33 실패: 로딩 전 3·후 3); 이식골 흡수 낮음(최종 상악동 0.37 mm, 치조제 0.20 mm); 합병증: Ti 메시/막 노출 4건, 치주염 3, 상악동염 2, 고정체 파절 2.
+
+이식골은 안정적으로 유지되어도 창상 합병증이 임플란트 실패를 주도 — 81.8% 생존율은 창상 생물학이 결정함; 상악동 이식+수직 증대 동시술에서는 충분한 치유 기간을 두고 지연 식립을 권고.
 
 ## Summary
 

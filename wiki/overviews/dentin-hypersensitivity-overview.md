@@ -39,11 +39,21 @@ relations:
 > - 한국 임상 workflow: 1회차 history+visual+bite test로 잠정진단, 2회차 4–8주 재평가로 escalate 결정; 환자 동의서·hygienist 체크리스트 포함.
 > - Gap: 옵션별 head-to-head RCT 부분적, Korean cohort 유병률·외래 분포 데이터 없음(JKDA는 narrative review).
 
-## One-line Summary
-Synthesis/overview page integrating dentin hypersensitivity (DH) evidence — the JKDA 2022 special-issue trio plus the adjacent noncarious cervical lesion (NCCL)/adhesive cluster and 11 laser/desensitizer/toothpaste papers added 2026-06 — into a Korean clinical decision framework. It covers (1) the Brännström hydrodynamic-theory mechanism (with a neuroplasticity/TRP-CGRP layer), (2) an outpatient treatment ladder (at-home → in-office sealing → restorative, "conservative first, escalate only if fails"), and (3) iatrogenic-DH prevention in Class II direct composite and NCCL restoration, where adhesive technique plus slow curing is key and the etch-and-rinse (long-term retention) vs self-etch (lower postop sensitivity) trade-off guides adhesive choice.
+## Three-line Summary
 
-## 한줄요약
-시린이 (Dentin Hypersensitivity, DH) 통합 overview — JKDA 2022 특집 3편 + 인접 NCCL (Noncarious Cervical Lesion) 카테고리 통합. (1) Hydrodynamic theory 기반 메커니즘, (2) 외래 진단·치료 ladder (at-home → in-office sealing → restorative), (3) iatrogenic DH 예방 (Class II direct composite postop + NCCL restoration). 한국 임상 외래 의사결정 framework.
+Synthesis integrating the JKDA 2022 DH special-issue trio, the NCCL/adhesive cluster, and 14 laser/desensitizer/toothpaste papers (2026 additions) into a Korean clinical decision framework; global DH prevalence 8–57%, mechanism is the Brännström hydrodynamic theory (tubule-fluid movement → nerve activation), with a neuroplasticity/TRP-CGRP layer explaining why tubule occlusion alone sometimes fails.
+
+Three at-home RCTs converge: active tubule-occluding toothpastes beat plain fluoride — stannous fluoride and CSPS/NovaMin both show between-arm p<0.001 at 8 weeks (Qiu 2026; Creeth 2026, onset in 3 days), and CPP-ACP ranks highest across five agents in head-to-head (Ayan 2025 DHEQ-15 −56.68); at-home → in-office sealing → restorative ladder is the consensus escalation path.
+
+Laser (LLLT/Er:YAG) edges chemical agents short-term but converges by 3–6 months; glutaraldehyde (Gluma) has the best long-term durable effect (Corrêa 2025 SR+MA ≥6 months) but carries concentration-dependent pulp cytotoxicity near vital tissue; NCCL adhesive choice is etch-and-rinse (better long-term retention) vs self-etch (lower postop sensitivity).
+
+## 세줄요약
+
+JKDA 2022 DH 특집 3편+NCCL/접착 클러스터+2026년 14편(레이저·탈감작제·치약 RCT 등) 통합; 전세계 유병률 8–57%, 기전은 Brännström 수력학설(관내 유체 이동→신경 자극), 탈민감화 필요 이유 설명하는 TRP-CGRP 신경가소성 층 추가.
+
+at-home RCT 3편 수렴: 활성 관폐쇄 치약 > 표준 불소치약 — 불화주석·CSPS/NovaMin 모두 8주 군간 p<0.001, 3일 만에 onset(Creeth 2026); 5종 head-to-head에서 CPP-ACP 최고(Ayan 2025 DHEQ-15 −56.68); at-home→in-office sealing→restorative 사다리가 합의 에스컬레이션 경로.
+
+레이저(LLLT/Er:YAG)는 단기 우위이나 3–6개월에 화학제와 수렴; 글루타르알데히드(Gluma)가 장기 효과 최강(Corrêa 2025 SR+MA, ≥6개월)이나 농도의존 세포독성 주의; NCCL 접착은 E&R(장기 유지율) vs SE(술후 민감 낮음) trade-off.
 
 ## Scope
 DH는 한국 임상에서 흔한 호소 (전세계 유병률 8-57%) 이지만 single tool 진단 불가·치료 옵션 다양함이 임상 의사결정의 challenge. 본 overview는 JKDA 2022 특집 (Jeon&Seo overview, Jang clinical management, Kim postop prevention)을 axis로 [[resin-bonding/]] NCCL cluster와 [[endodontics/]] pulp 관련 페이지를 연결한다. DH 분야는 RCT가 부분적이고 narrative review 중심 — 본 overview는 임상 적용 framework 정리.

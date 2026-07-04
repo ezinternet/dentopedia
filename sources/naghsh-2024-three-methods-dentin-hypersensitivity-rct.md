@@ -13,11 +13,21 @@ source_collection: external
 
 [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]]가 Er,Cr:YSGG를 다룬 데 이어, 980 nm diode laser vs Gluma vs 병용을 직접 비교해 레이저 파장·기전별 효과를 보강. [[overviews/dentin-hypersensitivity-overview]] decision node 업데이트용.
 
-## One-line Summary
+## Three-line Summary
+
 Split-mouth RCT (20 patients / 60 teeth, 4 groups) finding 980-nm diode laser alone produced the lowest VAS at 1 month, but no significant between-group difference remained at 3 months.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 RCT(20명·60치, 4군): 980 nm 다이오드 레이저 단독이 1개월 시점 VAS가 가장 낮았으나 3개월에는 군간 유의차 소실.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - International Dental Journal, 2024. Accepted 20 Mar 2024.

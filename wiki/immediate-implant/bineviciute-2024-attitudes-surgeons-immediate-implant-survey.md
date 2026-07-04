@@ -13,13 +13,21 @@ source_collection: external
 tags: [immediate-implant, survey, decision-making, periapical-lesion, socket-classification, clinician-attitudes]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 186 Lithuanian oral surgeons and periodontists on immediate-implant decision-making; a periapical lesion >5 mm was the dominant contraindication (91.7%/96.9%), esthetics/structure preservation the chief advantage, yet only ~34–43% routinely use extraction-socket morphology classifications.
+Cross-sectional online survey (n=186 Lithuanian oral surgeons and periodontists, JOMR 2024) examining immediate-implant decision criteria, contraindications, perceived advantages, and uptake of socket classification systems.
 
-## 한줄요약
+A periapical lesion >5 mm was the dominant contraindication (91.7% oral surgeons, 96.9% periodontists); esthetics and anatomy preservation was the chief perceived advantage (>92% both groups); socket morphology classification systems were used routinely by only 33.9% (OS) and 43.1% (periodontists).
 
-리투아니아 구강외과의·치주과의 186명 단면조사 — 즉시식립의 주된 금기는 5 mm 초과 치근단 병소(91.7%/96.9%), 주된 장점은 심미·구조 보존이었으나, 발치와 형태 분류체계를 일상적으로 쓰는 비율은 ~34–43%에 불과했다.
+A substantial evidence-to-practice gap exists in socket classification use; specialty-specific decision criteria diverge (bone walls vs soft-tissue quality), suggesting targeted education on classification-guided case selection is needed.
+
+## 세줄요약
+
+단면 온라인 설문(n=186명, 리투아니아 구강외과의·치주과의, JOMR 2024): 즉시식립 결정 기준, 금기, 장점, 발치와 분류 활용도 조사.
+
+5 mm 초과 치근단 병소가 최대 금기(구강외과의 91.7%, 치주과의 96.9%); 심미·해부 보존이 최대 장점(양군 >92%); 발치와 형태 분류체계 일상 사용률은 구강외과의 33.9%, 치주과의 43.1%에 불과.
+
+분류 활용의 근거-실제 간 격차가 크며, 전문과별 결정 기준이 다르고(골벽 형태 vs 연조직 품질), 분류 기반 증례 선택에 대한 교육 개입이 필요함을 시사한다.
 
 ## Summary
 

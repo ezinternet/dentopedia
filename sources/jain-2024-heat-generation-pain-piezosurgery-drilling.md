@@ -9,7 +9,7 @@ pdf_filename: jain-2024-heat-generation-pain-piezosurgery-drilling.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review (Cureus 2024, 9 studies from 2,279 hits): piezosurgery significantly reduces postoperative pain but produces higher intraoperative bone temperatures during osteotomy than conventional rotary drilling — a clear pain-vs-heat trade-off.
 
 ## 1. Document Information

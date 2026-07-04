@@ -9,7 +9,7 @@ pdf_filename: jahanbin-2025-reused-miniscrew-stability-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of 18 studies finding that reused orthodontic miniscrews have no significant difference in insertion/fracture torque compared to new ones in vitro, but show a significantly higher clinical failure rate (RR 0.46), influenced by sterilization method, insertion technique, and patient anatomy.
 
 ## 1. Document Information

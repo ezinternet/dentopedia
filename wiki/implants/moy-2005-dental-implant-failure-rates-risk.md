@@ -14,11 +14,21 @@ source_collection: external
 tags: [implant-failure, risk-factors, diabetes, smoking, radiation, age, cohort-study, UCLA]
 ---
 
-## One-line Summary
-Retrospective cohort (4,680 implants, single operator, 21 years): diabetes (RR 2.75), head-and-neck radiation (RR 2.73), post-menopausal HRT (RR 2.55), age 60–79 (RR 2.24), and smoking (RR 1.56) were significant implant failure risk factors, while hypertension/cardiac disease/steroids were not; failure was highest in the posterior maxilla (~8.9–9.7%) and lowest in the anterior mandible (2.89%).
+## Three-line Summary
 
-## 한줄요약
-코호트 (4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 하악전치부 최저 실패율(2.89%)
+Retrospective cohort (4,680 implants, single operator, UCLA, 21 years) examining systemic disease and demographic risk factors for implant failure.
+
+Diabetes (RR 2.75), head-and-neck radiation (RR 2.73), post-menopausal HRT (RR 2.55), age 60–79 (RR 2.24), maxillary location (RR 1.79), and smoking (RR 1.56) were significant failure risk factors; hypertension, cardiac disease, and steroids were not; posterior maxilla failure rate was ~8.9–9.7% vs 2.89% in anterior mandible.
+
+No absolute implant contraindication exists — diabetes requires glycemic control and long-term monitoring; head-and-neck radiation warrants HBO consideration; hypertension and cardiac disease alone do not preclude implant placement.
+
+## 세줄요약
+
+후향적 코호트 (4,680개 임플란트, 단일 술자, UCLA, 21년) — 전신질환·인구통계 인자와 임플란트 실패 위험 분석.
+
+당뇨 RR 2.75·두경부 방사선 (Head-and-Neck Radiation) RR 2.73·폐경 후 HRT RR 2.55·고령(60–79세) RR 2.24·상악 위치 RR 1.79·흡연 RR 1.56 유의; 고혈압·심질환·스테로이드 유의차 없음; 후방 상악 실패율 ~8.9–9.7% vs 전방 하악 최저 2.89%.
+
+절대적 금기 없음 — 당뇨는 혈당 조절·장기 모니터링; 두경부 방사선은 고압산소치료 (HBO) 고려; 고혈압·심질환 단독은 임플란트 금기 아님.
 
 ## Summary
 21년간 단일 술자의 4,680개 임플란트 후향적 코호트. **당뇨·두경부 방사선·PMHRT·흡연·고령(60–79세)**이 유의한 실패 위험인자. 고혈압·심질환·스테로이드·항암제는 무관. 절대 금기 없음.

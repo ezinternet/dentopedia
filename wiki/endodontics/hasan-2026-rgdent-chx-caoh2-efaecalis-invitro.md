@@ -16,13 +16,21 @@ text_filename: hasan-2026-rgdent-chx-caoh2-efaecalis-invitro.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro comparative study (60 human single-rooted teeth, 21-day E. faecalis root canal infection model, n=10/subgroup): both 2% CHX gel (mean reduction 4.94 logCFU) and RG-Dent (metronidazole/iodoform/dexamethasone paste, 4.77 logCFU) were significantly more effective than Ca(OH)2 (3.69 logCFU) against mature E. faecalis (P<0.001, Cohen's d>4); CHX vs RG-Dent P=.036, d=0.69 (medium); application duration (2 vs 7 days) had no significant effect on efficacy (P=.78, no interaction).
+In-vitro two-way factorial study (60 single-rooted human premolars; 21-day mature E. faecalis infection model; 3 medicaments × 2 dwell durations; n=10/subgroup) comparing 2% CHX gel, RG-Dent (metronidazole/iodoform/dexamethasone), and Ca(OH)2 on bacterial log-CFU reduction.
 
-## 한줄요약
+Both CHX (4.94 logCFU reduction) and RG-Dent (4.77 logCFU) significantly outperformed Ca(OH)2 (3.69 logCFU; P<0.001, Cohen's d>4 for both comparisons); CHX exceeded RG-Dent with only a medium effect size (d=0.69, P=.036); extending dwell time from 2 to 7 days had no significant effect on any medicament (P=.78, no interaction).
 
-인비트로 비교연구(사람 단근치 60개, 21일 E. faecalis 근관 감염 모델, 서브그룹당 n=10): 성숙된 E. faecalis에 대해 2% 클로르헥시딘(CHX) 겔(평균 감소 4.94 logCFU)과 RG-Dent(메트로니다졸/요오드포름/덱사메타손 페이스트, 4.77 logCFU) 모두 수산화칼슘[Ca(OH)2](3.69 logCFU)보다 유의하게 더 효과적이었고(P<0.001, Cohen's d>4), CHX 대 RG-Dent는 P=.036, d=0.69(중간 효과크기)였으며, 적용 기간(2일 vs 7일)은 효과에 유의한 영향이 없었다(P=.78, 상호작용 없음).
+RG-Dent is a viable non-discoloring Ca(OH)2-alternative against mature E. faecalis, and the 7-day dwell-time convention confers no added bactericidal benefit — supporting shorter inter-appointment intervals.
+
+## 세줄요약
+
+사람 단근치 60개에 21일 성숙 E. faecalis 감염 모델을 구축하고, 2% CHX 겔·RG-Dent(메트로니다졸/요오드포름/덱사메타손)·Ca(OH)2를 2일 또는 7일 적용한 in-vitro 이원 요인 연구다(서브그룹당 n=10).
+
+CHX(4.94 logCFU 감소)·RG-Dent(4.77 logCFU)는 모두 Ca(OH)2(3.69 logCFU)보다 유의하게 우수했으며(P<0.001, d>4); CHX가 RG-Dent보다 약간 높았으나 중간 효과크기(d=0.69)에 그쳤고, 적용 기간 연장(2→7일)은 어느 약제에서도 효과를 높이지 않았다(P=.78).
+
+RG-Dent는 E. faecalis에 대해 CHX와 통계적으로 유사한 항균 효과를 가지며, 7일 적용 관행은 근거가 없어 2일 프로토콜로 방문 간격을 줄일 수 있다.
 
 ## Summary
 

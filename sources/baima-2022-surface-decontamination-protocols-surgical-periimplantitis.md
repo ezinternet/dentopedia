@@ -13,11 +13,21 @@ source_collection: external
 
 agenda/2026-06-03 ingest 백로그의 peri-implantitis 술식 gap. [[implants/herrera-2023-prevention-treatment-peri-implant-efp]](EFP S3)가 특정 표면제염법을 권고하지 못한 근거를 직접 제공 — surgical 단계 decontamination이 임상 핵심임에도 RCT 간 우열 불명.
 
-## One-line Summary
-SR+MA of 16 RCTs (22 manuscripts) comparing mechanical, chemical and physical implant-surface decontamination during surgical peri-implantitis treatment; no single protocol proved clearly superior on clinical/radiographic outcomes.
+## Three-line Summary
 
-## 한줄요약
-16 RCT(22편) SR+MA — 외과적 주위염 치료 시 기계·화학·물리 표면제염 프로토콜 비교, 어느 단일 프로토콜도 임상·방사선 결과에서 명확한 우월성 입증 못함.
+SR+MA of 16 RCTs (22 manuscripts, Clin Oral Implants Res 2022) comparing mechanical, chemical, and physical implant-surface decontamination protocols during surgical peri-implantitis treatment.
+
+No single decontamination protocol demonstrated consistent superiority in clinical or radiographic outcomes; evidence was limited by heterogeneity in technique definitions and a small number of available RCTs.
+
+The findings directly underpin the EFP S3 guideline's inability to recommend a specific decontamination method, highlighting the need for larger, standardized RCTs and longer follow-up on re-osseointegration.
+
+## 세줄요약
+
+16 RCT(22편) SR+MA (Clin Oral Implants Res 2022) — 외과적 주위염(Peri-implantitis) 치료 시 기계적·화학적·물리적(레이저 등) 임플란트 표면제염 프로토콜을 비교.
+
+어떤 단일 제염법도 임상·방사선 지표에서 일관된 우월성을 입증하지 못했으며, 기술 정의의 이질성과 RCT 수 부족이 주된 제한.
+
+이 결과가 EFP S3 가이드라인이 특정 표면제염법을 권고하지 못한 근거가 됐으며, 재골유착 결과를 포함한 장기·표준화 RCT가 필요하다.
 
 ## 1. Document Information
 Clinical Oral Implants Research 2022;33:1069-1086 · Giacomo Baima, Filippo Citterio, Mario Romandini, Federica Romano, Giulia Maria Mariani, et al. · 2022 · DOI: 10.1111/clr.13992. Study type: sr+ma.

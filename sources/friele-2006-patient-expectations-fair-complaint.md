@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 The keystone of the expectations axis -- it answers 'what do complainants actually want?' using justice theory. It explains why purely defensive or apology-only responses fail, and sets the standard the response-axis papers ([[complaint-management/12913_2021_Article_6733]], [[complaint-management/pone.0325185]]) are measured against.
 
-## One-line Summary
-Survey of 424 hospital complainants showing the dominant goal is preventing recurrence; they prioritise impartial procedure, explanation over apology, and rarely seek money.
+## Three-line Summary
 
-## 한줄요약
+Survey of 424 hospital complainants showing the dominant goal is preventing recurrence;
+
+they prioritise impartial procedure, explanation over apology, and rarely seek money.
+
+(incomplete)
+
+## 세줄요약
+
 병원 민원인 424명 설문 — 최우선 목표는 '재발 방지', 공정한 절차·(사과보다) 설명을 중시하고 금전 보상 요구는 드묾.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - BMC Health Services Research 2006;6:106. Open access.

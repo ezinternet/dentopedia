@@ -20,13 +20,21 @@ relations:
     target: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (MC3T3-E1 + primary BMM co-parallel model) demonstrating PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) at 10–20 mcg/mL without any direct effect on osteoclast precursor activity or resorption, establishing its profile as a selective anabolic bone agent.
+In vitro dual-model study using MC3T3-E1 pre-osteoblasts and primary bone marrow-derived macrophage osteoclast precursors tested in parallel at matched PDRN concentrations (10 and 20 mcg/mL).
 
-## 한줄요약
+PDRN significantly promoted osteoblast differentiation (Runx2↑, ALP activity↑ at Day 7, mineralization↑ at Day 28) while showing no effect on TRAP-positive osteoclast count, resorption pit area, or BMM metabolic activity.
 
-MC3T3-E1 오스테오블라스트와 골수유래 대식세포(BMM) 오스테오클라스트를 이용한 시험관 연구에서 PDRN(10–20 mcg/mL)이 오스테오블라스트 분화(Runx2↑, ALP↑, 광화↑)를 선택적으로 촉진하고 오스테오클라스트 생성 및 기능에는 직접적 영향을 주지 않음을 증명.
+This selective anabolic profile — building bone without suppressing resorption — distinguishes PDRN mechanistically from antiresorptive agents and supports its use as a bone-regeneration adjunct via the proposed A2A → Wnt/β-catenin → Runx2 signaling axis.
+
+## 세줄요약
+
+줄1: MC3T3-E1 전구 골모세포와 골수유래 대식세포(BMM, 파골세포 전구)를 병렬로 이용한 in vitro 이중 모델 연구(PDRN 10·20 mcg/mL).
+
+줄2: PDRN이 골모세포 분화(Runx2↑, ALP↑, Alizarin Red S 광화↑)를 유의하게 촉진하면서 파골세포 형성·흡수(TRAP 양성 수·흡수와·BMM 대사활성)에는 영향을 주지 않음.
+
+줄3: 선택적 동화 작용 프로파일(골 형성 촉진만, 흡수 억제 없음)은 비스포스포네이트류와 구별되며 A2A → Wnt/β-catenin → Runx2 신호축을 골재생 기전으로 지지함.
 
 ## Summary
 

@@ -10,7 +10,7 @@ pdf_filename: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (Pain Med 2022): 제3대구치 발치 후 acetaminophen 600 + codeine 60 vs ibuprofen 400 비교 — ibuprofen 단독이 동등 또는 우수; opioid combination 사용 정당화 부족 → ADA 2022 가이드라인 (opioid-sparing) 지지.
 
 ## 1. Document Information

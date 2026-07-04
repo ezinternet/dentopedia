@@ -22,11 +22,19 @@ relations:
     target: liang-2020-prevalence-associated-factors-retrospective
 ---
 
-## One-line Summary
-Retrospective single-practice study (124 single-tooth posterior implants, 100 patients, 2–21.5 yr): the MM-DD occlusal adjustment — at crown delivery, selectively relieving the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth to let adjacent teeth drift mesially and keep the contact closed — reduced open-contact incidence from 46.7% (conventional control, n=49) to 2.7% (MM-DD, n=75; p<0.001), with Kaplan–Meier contact survival 99.1%/97.5%/96.2% at 5/10/15 yr.
+## Three-line Summary
+Retrospective single-operator study (124 single-tooth posterior implants, 100 patients, 2–21.5 yr follow-up) testing the MM-DD occlusal adjustment — at crown delivery, selectively relieving the mesial-occlusal surface of the mesial adjacent tooth and the distal-occlusal surface of the distal adjacent tooth so adjacent teeth can drift toward the implant crown.
 
-## 한줄요약
-후향 단일 의원 연구(124 단일 구치부 임플란트, 100명, 2–21.5년): crown 장착 시 근심인접치의 근심교합면·원심인접치의 원심교합면을 선택 삭제해 인접치의 생리적 mesial drift를 허용·접촉을 유지하는 MM-DD 교합조정으로 open contact 발생을 46.7%(전통 대조군)→2.7%로 격감(p<0.001), 접촉 생존율 5/10/15년 99.1/97.5/96.2%.
+Open-contact incidence fell from 46.7% (conventional historical control, n=49) to 2.7% (MM-DD, n=75; p<0.001); Kaplan–Meier contact survival was 99.1%/97.5%/96.2% at 5/10/15 yr vs 66.7%/53.3% for controls; food impaction 3.2% vs 86.7%, 5-yr marginal bone change <0.3 vs 0.9 mm (p<0.05).
+
+MM-DD is a preventive, chairside-only protocol applied at crown delivery that harnesses physiologic mesial drift to maintain proximal contacts; benefit was highest in second molars, older patients, and mandibular molars, though prospective RCT validation is still needed.
+
+## 세줄요약
+단일 술자 후향 연구(124 단일 구치부 임플란트·100명·2–21.5년): crown 장착 시 근심 인접치의 근심교합면과 원심 인접치의 원심교합면을 선택 삭제해 인접치가 임플란트 방향으로 mesial drift하도록 유도하는 MM-DD 교합조정 효과 검증.
+
+Open contact 발생률 46.7%(전통 대조군)→2.7%(MM-DD, p<0.001); KM 접촉 생존율 5/10/15년 99.1/97.5/96.2% vs 대조군 66.7/53.3%; 식편압입 3.2% vs 86.7%, 5년 변연골 소실 <0.3 vs 0.9 mm.
+
+MM-DD는 치과의자 단계에서 crown 장착 시 한 번만 시행하는 예방적 교합조정으로, 하악 구치·고령 환자·제2대구치에서 효과가 크나 무작위 대조시험 검증이 필요하다.
 
 ## Summary
 Open proximal contacts adjacent to posterior implants are common (literature 34–66%, mandible-predominant) and lead to food impaction, peri-implant inflammation, proximal bone loss, and lower satisfaction. The root cause is a biomechanical mismatch: PDL-supported natural teeth keep drifting mesially under function, while an osseointegrated implant is ankylosed and cannot follow — so a gap opens on the implant's adjacent surfaces. Existing management (splinting, periodic recontouring, over-contoured proximal surfaces) is reactive and inconsistent over the long term.

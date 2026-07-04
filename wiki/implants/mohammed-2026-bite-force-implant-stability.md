@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (n=80, 18 months, Iraq) demonstrating that bite force and implant stability (ISQ) are significantly positively associated and jointly modulated by time, jaw location (posterior > anterior), and sex (males > females).
+Prospective cohort (n=80 patients, 235 immediately loaded implants, 18 months, Iraq) measuring concurrent bite force (BF) and ISQ at crown placement, 6 months, and 18 months.
 
-## 한줄요약
+Pearson correlation and mixed-effects regression confirmed a significant positive BF–ISQ association; posterior implants showed consistently higher ISQ than anterior; males exhibited significantly higher posterior BF and ISQ than females at all timepoints.
 
-전향적 코호트 (n=80, 18개월): 교합력 (Bite Force, BF)과 임플란트 안정성 지수 (ISQ)는 유의한 양의 상관관계를 보이며, 시간·해부학적 위치 (구치부 > 전치부)·성별 (남 > 여)이 두 지표 모두에 복합적으로 영향을 미친다.
+BF is a measurable modulator of implant stability alongside time, location, and sex — clinicians should consider lower posterior bite force in females when planning immediate loading in the anterior region.
+
+## 세줄요약
+
+전향적 코호트 (n=80명, 235개 즉시 로딩 임플란트, 18개월) — 교합력 (Bite Force, BF)과 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)를 식립 당일·6개월·18개월에 동시 측정.
+
+Pearson 상관 및 혼합효과 회귀로 BF-ISQ 유의한 양의 관계 확인; 구치부 ISQ > 전치부; 남성이 여성보다 구치부 BF·ISQ 모두 유의하게 높음.
+
+교합력은 시간·위치·성별과 함께 임플란트 안정성의 독립 조절 인자 — 여성 전치부 즉시 로딩 계획 시 낮은 교합력 고려 필요.
 
 ## Summary
 

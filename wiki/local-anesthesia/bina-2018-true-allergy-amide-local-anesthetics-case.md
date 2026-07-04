@@ -17,13 +17,21 @@ relations:
     target: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report + review (NYU Lutheran): a 43F with allergist-documented lidocaine anaphylaxis completed 13 dental visits using 1% diphenhydramine + 1:100,000 epinephrine as an alternative local anesthetic — effective for maxillary infiltration but short-acting (15–75 min) with postoperative swelling and drowsiness, requiring <5 mL/visit and occasional intrapulpal supplementation.
+Case report + narrative review (NYU Lutheran, n=1): a 43-year-old woman with allergist-documented lidocaine anaphylaxis and declined ester testing completed 13 dental visits (extractions, composites, root canals, crowns) using 1% diphenhydramine (DPH) + 1:100,000 epinephrine as an alternative local anesthetic.
 
-## 한줄요약
+Maxillary infiltration was adequate for all procedure types; duration was short (15–75 min); one visit with 8 mL caused 24 h diffuse facial swelling (ER-negative, resolved); volume cap adopted at <5 mL/visit; intrapulpal DPH supplementation required for root canal cases.
 
-증례 보고 + 고찰 (NYU Lutheran): 리도카인 아나필락시스가 확인된 43세 여성이 1% 디펜히드라민 + 1:100,000 에피네프린을 대체 국소마취제로 사용해 13회 치과 치료 완료 — 상악 침윤에 효과적이나 작용 짧고(15–75분) 술후 부종·졸림으로 회당 <5 mL 제한 및 간헐적 치수내 보충 필요.
+True allergy to amide LAs is extremely rare — most "LA allergy" reports reflect reactions to epinephrine, syncope, toxicity, or additives (metabisulfite/methylparaben); DPH is a viable but imperfect fallback for the genuinely amide-allergic, ester-untestable patient.
+
+## 세줄요약
+
+증례 보고 + 고찰(NYU Lutheran, n=1): 리도카인 아나필락시스 확인·에스터 테스트 거부 43세 여성이 1% 디펜히드라민(DPH)+1:100,000 에피네프린으로 13회 치과 치료(발치·복합레진·근관치료·크라운) 완료.
+
+상악 침윤 마취 충분; 작용 15–75분(단시간); 8 mL 투여 시 24시간 안면 부종(ER 음성·자연 소실); 이후 회당 <5 mL 상한 설정; 근관치료에 치수강 내 DPH 보충 필요.
+
+아미드 LA 진성 알레르기는 극히 드묾 — 대부분의 "LA 알레르기"는 에피네프린·혈관미주신경반응·독성·첨가제(메타중아황산염/메틸파라벤) 반응; DPH는 아미드 알레르기·에스터 불가 환자의 실현 가능하지만 불완전한 대안.
 
 ## Summary
 

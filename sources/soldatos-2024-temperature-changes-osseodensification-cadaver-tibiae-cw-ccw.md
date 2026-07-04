@@ -15,7 +15,7 @@ OD bur CW vs CCW 방향에 따른 골 온도 변화를 cadaver tibiae에서 측�
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]]
 
-## One-line Summary
+## Three-line Summary
 Four-way interaction analysis of bur usage count, rotation mode, bur diameter, and rotational speed on temperature rise during osseodensification in human cadaver tibiae.
 
 ## 1. Document Information

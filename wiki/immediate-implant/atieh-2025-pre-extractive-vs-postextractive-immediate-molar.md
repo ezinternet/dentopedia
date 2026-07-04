@@ -20,13 +20,21 @@ relations:
     target: immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 4 RCTs (n=82 implants) found that pre-extractive inter-radicular site preparation for mandibular molar immediate implant placement produced significantly higher ISQ at placement (MD +3.39, p<.0001, I²=0%) and near-perfect central positioning (RR 0.05, p=.002) vs postextractive approach; ISQ advantage converged by 3–6 months and overall evidence certainty was low to very low.
+SR+MA of 4 RCTs (n=82 implants, Int Dent J 2025) comparing pre-extractive (drilling through retained roots before extraction) vs postextractive site preparation for mandibular molar immediate implant placement.
 
-## 한줄요약
+Pre-extractive preparation significantly improved ISQ at placement (MD +3.39, 95% CI 2.59–4.20, p<.0001, I²=0%) and achieved near-perfect central positioning (100% vs ~10% of controls centrally placed, RR 0.05, p=.002); ISQ advantage converged by 3–6 months and zero failures occurred in both groups.
 
-4개 RCT(임플란트 82개) SR+MA: 발치 전 식립와 형성(pre-extractive) 기법이 하악 대구치 즉시식립(Immediate Implant Placement, IIP) 직후 임플란트 안정성 지수(ISQ)를 유의하게 높이고(MD +3.39, p<.0001) 중심 위치 달성률이 월등하나, 3–6개월 후 차이 소실; 근거 수준은 낮음.
+The positional accuracy advantage is clinically meaningful — 83% of postextractive implants showed mesial/distal tilt — making pre-extractive preparation the preferred technique when prosthetically optimal molar centration is required, despite low to very low GRADE certainty.
+
+## 세줄요약
+
+4개 RCT (n=82개 임플란트) SR+MA (Int Dent J 2025): 보존된 치근을 가이드로 이용한 발치 전(pre-extractive) 식립와 형성 vs 발치 후(postextractive) 형성을 하악 대구치 즉시식립에서 비교.
+
+발치 전 형성이 즉시식립 직후 ISQ를 유의하게 높이고(MD +3.39, p<.0001) 중심 위치 달성률이 압도적(100% vs 약 10%, RR 0.05, p=.002); 3–6개월에는 ISQ 차이 소실, 양군 모두 임플란트 실패 없음.
+
+발치 후군의 83%가 근·원심 기울기를 보여, 보철적으로 중심 위치가 요구되는 경우 pre-extractive 기법이 우선 고려되어야 하나, 근거 수준은 낮음-매우 낮음이다.
 
 ## Summary
 

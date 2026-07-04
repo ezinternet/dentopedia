@@ -21,13 +21,21 @@ relations:
     target: kan-2011-sagittal-root-position-immediate-implant-anterior
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT virtual study (179 patients, 716 maxillary premolars, two virtual implant orientations): immediate-implant cortical perforation occurred in 84.1% of prosthetically-driven placements vs 40.5% of bone-driven placements, with mean buccal tilt (ILAA) of 18.3° needed to escape perforation; female sex, older age, shorter tooth-apex-to-nasal/sinus distance, and smaller labial concavity angle raised risk.
+Retrospective CBCT virtual planning study (179 patients, 716 maxillary premolars) comparing prosthetically-driven versus bone-driven immediate implant placement orientations for cortical perforation risk.
 
-## 한줄요약
+Cortical perforation occurred in 84.1% of prosthetically-driven and 40.5% of bone-driven placements (p<0.001); avoiding perforation required a mean buccal tilt (ILAA) of 18.3°; female sex, older age, shorter tooth-apex distance, and smaller labial concavity angle independently raised risk.
 
-CBCT 가상 연구(환자 179명, 상악 소구치 716개, 가상 식립 방향 2종): 즉시식립 시 보철주도(prosthetically-driven) 위치는 84.1%, 골주도(bone-driven) 위치는 40.5%에서 순측/비강/상악동 천공이 발생했고, 천공을 피하려면 평균 18.3°의 순측 경사(ILAA)가 필요했다. 여성·고령·치근첨-구조물 거리 짧음·작은 순측 함몰각(LCA)이 위험을 높였다.
+Preoperative CBCT is essential for maxillary premolar immediate implants because 2D radiographs cannot reveal this high perforation risk; most cases will require angled or angled-screw-channel abutments due to the necessary buccal tilt.
+
+## 세줄요약
+
+상악 소구치에서 즉시 식립 시 피질골 천공 위험을 보철 주도 vs 골 주도 식립 방향으로 정량화한 후향적 CBCT 가상 계획 연구(환자 179명, 소구치 716개).
+
+보철 주도 위치에서 84.1%, 골 주도 위치에서도 40.5%의 피질골 천공이 발생하여(p<0.001), 천공 회피에 평균 18.3° 순측 경사(ILAA, Implant-Long Axis Angulation)가 필요했으며, 여성·고령·짧은 치근첨-구조물 거리·작은 순측 함몰각(LCA, Labial Concavity Angle)이 독립적 위험인자였다.
+
+2D 방사선 사진으로는 이 높은 천공 위험을 확인할 수 없어 술전 CBCT가 필수적이며, 대부분의 증례에서 필요한 순측 경사로 인해 앵글드 지대주가 요구된다.
 
 ## Summary
 

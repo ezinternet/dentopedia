@@ -20,13 +20,21 @@ relations:
     target: abbott-2024-ai-platforms-dental-caries-detection
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA/QUADAS-2, 20 studies, 6346 radiographs) of AI models for radiographic caries-lesion detection — sensitivity 0.44–0.86, specificity 0.85–0.98, accuracy 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92; CNNs dominate (~70%) and most studies were low risk of bias, but small/heterogeneous datasets precluded meta-analysis.
+PRISMA/QUADAS-2 systematic review (20 studies, 6346 radiographs, inception–January 2023) of AI models — predominantly CNNs (~70%) — for detecting caries lesions on periapical, bitewing, and panoramic radiographs.
 
-## 한줄요약
+Performance spanned sensitivity 0.44–0.86, specificity 0.85–0.98, accuracy 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92; most studies were low risk of bias but small, heterogeneous datasets precluded the planned meta-analysis.
 
-방사선 우식 병소 검출 AI 모델의 체계적 문헌고찰(PRISMA/QUADAS-2, 20편·영상 6346장) — 민감도 0.44–0.86, 특이도 0.85–0.98, 정확도 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92, CNN 약 70%·대부분 낮은 비뚤림 위험이었으나 데이터셋이 작고 이질적이라 메타분석은 불가능했다.
+AI caries detection matches or exceeds experienced dentists in several studies and is best positioned as an assistive tool for less-experienced examiners; bitewing is the highest-yield modality for interproximal lesions.
+
+## 세줄요약
+
+치과 방사선 우식 병소 검출 AI 모델 체계적 문헌고찰(PRISMA/QUADAS-2, 20편, 방사선 6,346장): 치근단/교익/파노라마 3가지 영상 양식 및 14종 아키텍처(합성곱 신경망(CNN) 약 70%) 분석.
+
+민감도 0.44–0.86, 특이도 0.85–0.98, 정확도 0.73–0.98, AUC 0.84–0.98, F1 0.64–0.92로 우수–탁월 범위; 다수 연구에서 AI가 숙련 치과의사와 동등하거나 상회.
+
+데이터셋이 소규모·이질적(최소 15장)이어서 계획된 메타분석을 수행하지 못했고, AI는 대체가 아닌 보조 도구로 포지셔닝 — 특히 경험이 적은 검사자에게 가치 있음.
 
 ## Summary
 

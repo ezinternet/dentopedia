@@ -16,13 +16,21 @@ relations:
     target: jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review (PROSPERO CRD42024555839) of small fiber neuropathy in BMS: across included studies, tongue biopsies show 30–60% reductions in nerve fiber density plus altered TRPV1/P2X3/NGF expression, Nav1.7 overexpression, and sensory threshold abnormalities, strongly supporting SFN as a core pathophysiologic mechanism.
+PRISMA systematic review (PROSPERO CRD42024555839) synthesizing histopathologic, molecular, and functional evidence for small fiber neuropathy (SFN) in burning mouth syndrome (BMS); narrative synthesis without meta-analysis due to between-study heterogeneity.
 
-## 한줄요약
+Tongue biopsies consistently show 30–60% reductions in intraepithelial nerve fiber density across eight studies, with concurrent ↑TRPV1/NGF/P2X3 fiber expression, ↑Nav1.7 overexpression, and QST-confirmed cool-detection and cold-pain threshold reductions.
 
-PRISMA 체계적 고찰(PROSPERO CRD42024555839) — BMS 환자 혀 생검에서 신경섬유밀도 30~60% 감소, TRPV1·P2X3·NGF 발현 변화, Nav1.7 과발현, 감각역치 이상이 일관되게 나타나 소섬유신경병증(SFN)이 BMS 핵심 병태생리임을 강하게 지지.
+SFN is strongly supported as a core BMS pathophysiologic mechanism, but causality remains unestablished and high heterogeneity precludes pooled estimates.
+
+## 세줄요약
+
+PRISMA 체계적 고찰(PROSPERO CRD42024555839) — 소섬유신경병증(Small Fiber Neuropathy, SFN)이 구강작열감증후군(Burning Mouth Syndrome, BMS)의 핵심 병태생리인지 조직·분자·기능 근거를 종합; 연구 간 이질성으로 메타분석 없이 서술적 합성.
+
+혀 생검 8편 모두 상피내 신경섬유밀도(intraepithelial nerve fiber density) 30~60% 감소, TRPV1·NGF·P2X3 섬유 발현 증가, Nav1.7 과발현, 정량감각검사(QST) 냉각 감지·냉통증 역치 감소가 일관되게 보고됨.
+
+SFN은 BMS 핵심 기전으로 강하게 지지되나, 인과관계는 미확립이며 높은 이질성으로 합산 추정치 제시 불가.
 
 ## Summary
 

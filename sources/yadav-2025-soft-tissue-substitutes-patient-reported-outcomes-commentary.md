@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] 및 [[wiki/overviews/keratinized-mucosa-peri-implant-health-overview]]는 임플란트 주변 연조직 증대의 임상적 결과(각화점막 폭·두께·BIC·MBL)를 주로 다루고 있으나, 자가이식편 대비 대체재(substitutes)의 **환자 보고 결과(PROMs)** — 통증, 진통제 소비, 수술 시간, 환자 만족도 — 에 특화된 근거는 부재했다. 본 EBD 코멘터리는 29개 임상연구(19 RCT 포함)를 메타분석한 SR을 비평적으로 요약하여, SCTG 대신 soft tissue substitute 선택 시 환자 경험 측면의 구체적 이익을 정량화한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 EBD commentary appraising a SR+MA (29 studies, 19 RCTs) finding that soft-tissue substitutes significantly reduce postoperative pain, analgesic consumption, and surgery time vs autogenous grafts in peri-implant soft tissue augmentation, with equivalent patient satisfaction and esthetics.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 임플란트 주변 연조직 증대 시 자가이식편 대비 연조직 대체재는 수술 후 통증·진통제 소비·수술 시간을 유의하게 감소시키고 환자 만족도·심미 인식은 동등하다는 SR+MA(29연구, RCT 19개)를 비평한 EBD 코멘터리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

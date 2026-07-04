@@ -22,13 +22,21 @@ relations:
     target: galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective histological/molecular study of human peri-implantitis granulation tissue (PI surgical n=23, explantation PI-X n=23, healthy n=20): PI lesions show FOXP3↑ and IL-35↑ but NRP-1↓ and TGF-β1↓ — Tregs are present but functionally impaired, and these alterations correlate with probing depth and vertical defect depth.
+Retrospective cross-sectional histological and molecular study of human peri-implantitis granulation tissue from three groups (PI reconstructive surgery n=23, PI explantation n=23, healthy second-stage n=20) at Goethe University Frankfurt.
 
-## 한줄요약
+PI lesions showed FOXP3↑ (3.8-fold) and IL-35↑ but NRP-1↓ and TGF-β1↓ in both tissue and crevicular fluid — regulatory T-cells (Tregs) accumulate but are functionally impaired — with NRP-1 and TGF-β1 inversely correlating with probing depth (rho = −0.61 and −0.70).
 
-사람 임플란트주위염 육아조직의 후향적 조직·분자 연구(수술군 23·발거군 23·건강 대조 20): 병소에서 FOXP3↑·IL-35↑이지만 NRP-1↓·TGF-β1↓ — 조절 T세포(Treg)가 존재하되 기능적으로 손상돼 있고, 이 변화가 탐침깊이·수직결손깊이와 상관.
+The dissociated Treg phenotype provides a host-side explanation for why mechanical and antimicrobial therapy alone often fails to fully resolve peri-implantitis, and nominates NRP-1 and IL-35 as candidate disease-progression markers.
+
+## 세줄요약
+
+프랑크푸르트 괴테 대학에서 사람 임플란트주위염 육아조직을 세 군(재건수술군 n=23·발거군 n=23·건강 대조 n=20)으로 분류한 후향적 조직·분자 연구.
+
+임플란트주위염 병소에서 FOXP3↑(3.8배)·IL-35↑이지만 NRP-1↓·TGF-β1↓ — 조절 T세포(T regulatory cell, Treg)가 축적되나 기능적으로 손상된 분리 표현형을 보이며, NRP-1·TGF-β1이 탐침깊이(Probing Depth, PD)와 역상관(rho = −0.61, −0.70).
+
+이 분리된 Treg 표현형은 기계적·항균 치료만으로 임플란트주위염이 완전히 해소되지 않는 숙주 측 면역학적 원인을 제공하며, NRP-1·IL-35를 질환 진행 바이오마커 후보로 제안한다.
 
 ## Summary
 

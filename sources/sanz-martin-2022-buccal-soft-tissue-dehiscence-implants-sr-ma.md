@@ -13,13 +13,23 @@ source_collection: external
 
 임플란트 주위 협측 연조직 열개(Buccal Soft Tissue Dehiscence, BSTD) 발생 빈도와 관련 위험요인에 대한 첫 포괄적 SR+MA로, [[wiki/overviews/peri-implant-soft-tissue-dehiscence-prevention]]의 근거 체계화 및 [[wiki/implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]의 선행 SR로서 CTG 보호 효과·협측 식립 위치의 OR을 정량화한 핵심 문헌.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 22 investigations (24 articles) on buccal peri-implant soft tissue dehiscence (BSTD ≥1 mm): thin biotype (OR 2.85) and buccal implant malposition (OR 14.37) were significant risk factors; CTG was strongly protective (OR 9.00 without CTG); buccal bone thickness and implant timing were not significant.
 
-## 한줄요약
+SR+MA of 22 investigations (24 articles) on buccal peri-implant soft tissue dehiscence (BSTD ≥1 mm): thin biotype (OR 2.85) and buccal implant malposition (OR 14.37) were significant risk factors;
+
+CTG was strongly protective (OR 9.00 without CTG);
+
+buccal bone thickness and implant timing were not significant.
+
+## 세줄요약
+
 
 22개 임상연구(24편)에 대한 SR+MA: 얇은 표현형(OR 2.85)과 협측 임플란트 위치 불량(OR 14.37)이 BSTD 유의 위험요인이며, 결합조직이식(CTG) 미시행이 BSTD 위험 9배 증가, 협측 골판 두께와 식립 시기는 유의하지 않음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

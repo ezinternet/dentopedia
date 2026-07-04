@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Long-term aging data (µTBS + nanoleakage) for universal adhesives to dentin; supports [[resin-bonding/hurtado-2023-universal-adhesives-long-term-dentin]] and the CSE reference page.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro 6-month aging: CSE and Scotchbond Universal > Xeno Select (higher µTBS, lower nanoleakage).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 in-vitro 6개월 노화 — CSE·Scotchbond Universal이 Xeno Select보다 µTBS↑·nanoleakage↓.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 Materials 2023; 16: 3458. DOI 10.3390/ma16093458. Open access. Universidad Rey Juan Carlos / CSIC, Spain.

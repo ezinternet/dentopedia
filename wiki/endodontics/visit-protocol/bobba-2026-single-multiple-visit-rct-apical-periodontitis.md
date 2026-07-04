@@ -18,13 +18,21 @@ relations:
     target: schwendicke-2017-single-visit-multiple-visit-rct-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=30, single-rooted teeth with primary apical periodontitis): single-visit vs multiple-visit RCT showed no significant difference in PAI-based radiographic periapical healing at 6/12 months (93.3% vs 86.7% success at 12 mo, P>0.05).
+Single-blind prospective RCT (n=30, single-rooted teeth with primary apical periodontitis, PAI 3–5) comparing single-visit vs multiple-visit root canal treatment (the latter with Ca(OH)₂ inter-appointment dressing) with PAI-based radiographic healing at 6 and 12 months.
 
-## 한줄요약
+No significant difference in healing was found at either time point (12-month success 93.3% vs 86.7%, P>0.05), supporting single-visit treatment as radiographically equivalent.
 
-단일맹검 RCT (n=30, 1차성 근단치주염 단근치): 단일내원 vs 다회내원 근관치료가 PAI 기반 방사선학적 치근단 치유에서 6/12개월 모두 유의차 없음 (12개월 성공률 93.3% vs 86.7%, P>0.05).
+Thorough chemo-mechanical debridement, not the inter-appointment medicament, appears to be the primary determinant of periapical healing; however, the small sample (n=30) limits generalizability.
+
+## 세줄요약
+
+단일맹검 전향적 RCT(n=30, PAI 3–5 1차성 근단치주염 단근치): 단일내원 vs 다회내원(수산화칼슘(Calcium Hydroxide, CH) 첩약 포함) 근관치료를 6·12개월 PAI 기반 방사선학적 치유로 비교.
+
+전 시점에서 유의차 없음(12개월 성공 93.3% vs 86.7%, P>0.05); 단일내원 근관치료가 방사선학적으로 동등한 치유 달성.
+
+근관 성형세정(Chemo-mechanical Debridement)의 철저성이 내원간 약제보다 치근단 치유의 주요 결정인자로 보이나, 소표본(n=30)으로 일반화에 한계.
 
 ## Summary
 

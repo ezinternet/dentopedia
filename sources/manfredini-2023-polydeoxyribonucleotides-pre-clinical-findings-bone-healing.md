@@ -13,7 +13,7 @@ source_collection: external
 
 PDRN의 골치유 효과에 대한 preclinical literature를 systematic하게 정리한 scoping review. [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]]가 narrative 형식으로 mechanism + 임상 영역을 다뤘다면, 본 paper는 in vitro·animal study에 한정해 **방법론·outcome·conclusion의 일관성**을 추적. 본 wiki의 PDRN 카테고리에서 systematic-level 근거(가장 높은 수준)로 자리잡으며, 후속 in vivo paper들이 본 review의 evidence base에 위치함을 확인하는 데 사용.
 
-## One-line Summary
+## Three-line Summary
 
 PDRN preclinical bone healing 문헌의 scoping review. In vitro에서 osteoblastic proliferation·differentiation 촉진이 비교적 일관, animal study에서 new bone formation·vascularization 향상이 보고됨. 다만 dose·vehicle·timing의 표준화 부재.
 

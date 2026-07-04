@@ -16,13 +16,23 @@ text_filename: haas-2011-alternative-mandibular-nerve-block-techniques.txt
 
 [[wiki/local-anesthesia/malamed-2011-mandibular-nerve-block-passe]]가 제기한 "표준 IANB 실패 시 무엇을 할 것인가"에 대한 실전 답 — Gow-Gates·Akinosi-Vazirani 두 대안 기법을 정리. 부가신경 지배로 인한 IANB 실패 환자에게 실질적 임상 대안을 제시한다는 점에서 이 클러스터의 "그래서 어떻게 하나" 결론부.
 
-## One-line Summary
+## Three-line Summary
+
 
 Review: the Gow-Gates mandibular nerve block (open-mouth, anesthetic deposited near the mandibular condyle neck close to the trigeminal nerve's exit from the foramen ovale) and the Akinosi-Vazirani closed-mouth block (anesthetic fills the pterygomandibular space) are reliable alternatives to standard IANB, particularly valuable when a patient has a history of IANB failure from anatomical variability or accessory innervation.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 리뷰: Gow-Gates 하악신경차단(개구위, 정원공을 나온 삼차신경 부근·하악과두경 근처에 마취제 침착)과 Akinosi-Vazirani 폐구위 차단(익돌하악강을 마취제로 채움)은 표준 IANB의 신뢰할 만한 대안이며, 해부학적 변이·부가신경 지배로 IANB 실패 이력이 있는 환자에 특히 유용하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

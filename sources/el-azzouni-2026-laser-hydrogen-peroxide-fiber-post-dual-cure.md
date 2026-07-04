@@ -17,13 +17,23 @@ text_filename: el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure.txt
 
 [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] established that adhesive-system choice (self-etch vs total-etch vs self-adhesive) drives large push-out bond strength differences for glass fiber posts, but held post surface conditioning constant. This paper crosses the other axis: it fixes silane use and varies the **post-surface conditioning method** (none / 24% hydrogen peroxide / Nd:YVO4 laser) crossed with **cement class** (self-adhesive dual-cure vs conventional dual-cure), and additionally reports canal-third-specific (cervical/middle/apical) bond strength trends — data the Dhawan paper does not break out. It extends the fiber-post bonding evidence base with a novel, potentially safer laser-based conditioning alternative to the traditionally used hydrogen peroxide.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro push-out study (75 glass fiber posts from 60 decoronated premolars, 3×2 factorial: conditioning [none / 24% H2O2-silane / Nd:YVO4 laser-silane] × cement [self-adhesive dual-cure vs conventional dual-cure]) — Nd:YVO4 laser produced the highest surface roughness (Ra 1.32±0.22 µm) and bond strength comparable to hydrogen peroxide conditioning at all canal thirds; conventional dual-cure cement bond strength declined cervical→apical while self-adhesive cement bond strength increased cervical→apical.
 
-## 한줄요약
+In vitro push-out study (75 glass fiber posts from 60 decoronated premolars, 3×2 factorial: conditioning [none / 24% H2O2-silane / Nd:YVO4 laser-silane] × cement [self-adhesive dual-cure vs conventional dual-cure]) — Nd:YVO4 laser produced the highest surface roughness (Ra 1.32±0.22 µm) and bond strength comparable to hydrogen peroxide conditioning at all canal thirds;
 
-In vitro push-out 연구 (소구치 60개에서 얻은 글래스 파이버 포스트 75개, 표면처리[무처리/24% 과산화수소-실란/Nd:YVO4 레이저-실란] × 시멘트[자가접착형 이중경화 레진시멘트(SADCRC) vs 전통형 이중경화 레진시멘트(CDCRC)] 3×2 설계) — Nd:YVO4 레이저군이 가장 높은 표면조도(Ra 1.32±0.22 µm)를 보였고 결합강도는 모든 치근부에서 과산화수소군과 유사(p>0.05); CDCRC는 치경부→치근단 갈수록 결합강도 감소, SADCRC는 반대로 치경부→치근단 갈수록 증가.
+conventional dual-cure cement bond strength declined cervical→apical while self-adhesive cement bond strength increased cervical→apical.
+
+(incomplete)
+
+## 세줄요약
+
+
+In vitro push-out 연구 (소구치 60개에서 얻은 글래스 파이버 포스트 75개, 표면처리[무처리/24% 과산화수소-실란/Nd:YVO4 레이저-실란] × 시멘트[자가접착형 이중경화 레진시멘트(SADCRC) vs 전통형 이중경화 레진시멘트(CDCRC)] 3×2 설계) — Nd:YVO4 레이저군이 가장 높은 표면조도(Ra 1.32±0.22 µm)를 보였고 결합강도는 모든 치근부에서 과산화수소군과 유사(p>0.05);
+
+CDCRC는 치경부→치근단 갈수록 결합강도 감소, SADCRC는 반대로 치경부→치근단 갈수록 증가.
+
+(incomplete)
 
 ## 1. Document Information
 

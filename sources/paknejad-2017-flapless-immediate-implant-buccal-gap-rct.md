@@ -9,7 +9,7 @@ pdf_filename: paknejad-2017-flapless-immediate-implant-buccal-gap-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 피판 없는(flapless) 즉시식립 시 협측 틈새의 이종골 충전이 협측 골 수준에 미치는 영향 RCT.
 
 ## 1. Document Information

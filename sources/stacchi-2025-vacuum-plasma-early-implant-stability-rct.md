@@ -13,13 +13,21 @@ source_collection: external
 
 플라즈마 배치 2차(2026-05-31)의 **사람 RCT 핵심 근거**. 기존 [[wiki/overviews/plasma-surface-treatment-dental-implants]]의 최대 약점이 "사람 임상·하중·생존 데이터 0편"이었는데, 이 split-mouth RCT가 그 공백을 직접 메운다. [[wiki/implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]]의 동물 vacuum plasma 결과를 사람에서 검증.
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind split-mouth RCT (24 patients, 48 implants): vacuum plasma activation immediately before insertion produced a more favourable early ISQ recovery — significantly higher ISQ than untreated controls at 60 and 90 days (P=0.04, P=0.03) — though the absolute ISQ difference was limited; insertion torque did not differ (P=0.86) and all 48 implants osseointegrated.
+Single-blind split-mouth RCT (24 patients, 48 implants; Plasma X Motion device) measuring ISQ at 9 timepoints up to 90 days to assess whether vacuum plasma activation immediately before insertion improves early implant stability.
 
-## 한줄요약
+Plasma-treated implants showed significantly higher ISQ than untreated controls at 60 days (P=0.04) and 90 days (P=0.03), while insertion torque did not differ (P=0.86) and all 48 implants osseointegrated without adverse events; the absolute ISQ difference between groups remained limited.
 
-단일맹검 split-mouth RCT(환자 24명, 임플란트 48개): 식립 직전 진공 플라즈마 활성화는 초기 안정성지수(ISQ) 회복을 더 유리하게 만들어 60·90일에 무처리 대조군보다 유의하게 높은 ISQ(P=0.04, P=0.03)를 보였으나 절대차는 작았다. 식입 토크는 차이 없음(P=0.86), 48개 모두 골유착 성공.
+Vacuum plasma activation is a safe, easy-to-use chairside adjunct that accelerates early ISQ recovery, though the small absolute effect and limited sample size (24 patients) call for larger trials before routine integration into loading protocols.
+
+## 세줄요약
+
+단일맹검 split-mouth RCT(환자 24명, 임플란트 48개; Plasma X Motion 기기): 식립 직전 진공 플라즈마 활성화가 초기 임플란트 안정성지수(ISQ, Implant Stability Quotient)에 미치는 영향을 90일간 9개 시점에서 측정.
+
+60일(P=0.04)·90일(P=0.03)에 플라즈마군이 대조군보다 유의하게 높은 ISQ를 보였고, 삽입 토크는 차이 없음(P=0.86), 48개 임플란트 모두 골유착 성공; 다만 두 군의 ISQ 절대 차이는 작았다.
+
+진공 플라즈마는 의자옆에서 간단히 적용 가능하고 초기 안정성 회복을 가속하는 안전한 보조수단이나, 소규모 연구(24명)의 한계로 하중 프로토콜 개선 여부는 대규모 연구로 확인 필요.
 
 ## 1. Document Information
 

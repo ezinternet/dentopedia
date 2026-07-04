@@ -21,13 +21,21 @@ relations:
     target: jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Qualitative SR (GRADE, no meta) of 12 studies (2 low-RoB RCTs, 10 moderate-RoB non-RCTs) on anterior tooth movement in adults: vertical movement (extrusion/intrusion) inconsistent between CA and FA, while FAs appear superior for rotation and torque control; limited evidence from few studies.
+Qualitative systematic review (GRADE; 6 databases to Sept 2024; 12 studies, 2 low-RoB RCTs + 10 moderate-RoB non-RCTs; no meta-analysis) comparing clear aligners and fixed appliances specifically for orthodontic movement of the anterior teeth (OMAT) in adults — decomposed by movement type.
 
-## 한줄요약
+Buccolingual and mesiodistal translation and intrusion showed mixed or equal results between CA and FA; extrusion was inconsistent (3 favor CA, 2 favor FA); tipping was mixed; torque control appeared better with fixed appliances (1 study favoring FA, 1 no difference); the authors' conclusion was that fixed appliances appear superior for rotation and torque control while vertical OMAT efficacy is inconsistent.
 
-성인 전치부 이동 SR 12편(저RoB RCT 2 + 중등도RoB 비RCT 10, GRADE·메타분석 없음): 수직이동(정출/압하)은 CA·FA 간 비일관, 회전·토크 조절은 FA 우위로 보임. 소수 연구 기반 제한적 근거.
+For adult anterior cases CAs are broadly comparable for bodily translation but rotation and torque (third-order root control) remain weak points vs braces — plan attachments, power ridges, overcorrection, or hybrid finishing when correcting rotated teeth or precise incisor torque in adults; evidence base is limited (abstract-only).
+
+## 세줄요약
+
+정성적 체계적 문헌고찰 (GRADE; 6개 데이터베이스, 2024년 9월까지; 12편, 저RoB RCT 2 + 중등도RoB 비RCT 10; 메타분석 없음): 성인에서 전치부 치아이동(OMAT) 이동 유형별 CA vs FA 비교.
+
+협-설·근-원심 translation과 함입(intrusion)은 혼재 또는 동등; 정출(extrusion)은 비일관(CA 우위 3, FA 우위 2); tipping은 혼재; torque 조절은 FA 우위로 보임(1편 FA 우위, 1편 차이 없음); 저자 결론: FA가 회전·torque 조절에서 우위, 수직 OMAT 효능은 비일관.
+
+성인 전치부 케이스에서 CA는 bodily translation에서 대체로 동등하나 회전·torque(3차원 치근 조절)는 FA 대비 약점 — 성인에서 회전된 치아 교정이나 정밀한 절치 torque 시 attachment·파워릿지·과교정·hybrid마무리 계획 필요; 근거 제한적(초록만 확보).
 
 ## Summary
 

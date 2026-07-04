@@ -13,11 +13,21 @@ source_collection: external
 tags: [revitalization, apexification, immature-teeth, root-length, dentin-wall-thickness, SR+MA]
 ---
 
-## One-line Summary
-SR+MA of revitalization vs apexification in necrotic immature teeth (Cureus 2024): revitalization significantly superior for both root length increase and dentin wall thickness.
+## Three-line Summary
 
-## 한줄요약
-미성숙 비활력치 revitalization vs apexification SR+MA(Cureus 2024): 치근 길이·상아질 벽 두께 모두 revitalization 유의 우위.
+SR+MA (Cureus 2024, Lithuanian University) searching 4 databases and comparing revitalization versus apexification in necrotic immature permanent teeth, with root length increase and dentinal wall thickness as primary outcomes.
+
+Revitalization was statistically significantly superior to apexification for both root length increase and dentinal wall thickness increase; survival and success rates were similar between the two groups.
+
+These findings corroborate and strengthen Panda 2022, confirming revitalization's biological root-development advantage as consistent across independent SR+MA analyses.
+
+## 세줄요약
+
+SR+MA(Cureus 2024, 리투아니아 대학)로 4개 데이터베이스를 검색하여 미성숙 비활력치에서 revitalization 대 apexification을 치근 길이 및 상아질 벽 두께를 1차 결과로 비교.
+
+치근 길이와 상아질 벽 두께 모두 revitalization이 통계적으로 유의하게 우위; 생존율과 성공율은 두 군 간 유사.
+
+Panda 2022의 결론을 독립적으로 재확인하며, revitalization의 치근 발육 이점이 SR+MA 수준에서 일관되게 확립됨을 뒷받침한다.
 
 ## Summary
 Cureus 2024. Lithuanian Univ. 4 DB 검색. 미성숙 비활력치 치근 발육(root length, dentin wall thickness) 비교 1차 outcome.

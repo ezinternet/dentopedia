@@ -20,13 +20,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/maska-2017-implant-grafting-success-
 text_filename: maska-2017-implant-grafting-success-mucosal-thickening-sinus.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (n=29, mean follow-up 3.3y) demonstrated 100% implant and grafting survival despite 93.1% prevalence of mucosal thickening (65.5% severe >5mm); periodontal disease history was the sole independent predictor.
+Retrospective CBCT study (n=29, mean follow-up 3.3 years) of sinus floor elevation (SFE) patients at the University of Michigan (2004–2014), assessing whether preexisting mucosal thickening affects implant and grafting outcomes.
 
-## 한줄요약
+100% implant and grafting survival despite 93.1% prevalence of mucosal thickening, including 65.5% classified as severe (>5 mm mean maximum 8.34 mm); periodontal disease history was the sole significant independent predictor (p=0.004).
 
-CBCT 후향적 연구(n=29, 평균 추적 3.3년): 93.1%에서 점막비후(65.5%가 중증 >5mm)에도 임플란트·골이식 생존율 100%, 치주질환 과거력만이 유의한 예측인자.
+Physiologic mucosal thickening — even severe — is not a contraindication for SFE provided no active sinusitis or periapical pathosis is present; an ENT consult is warranted only when sinusitis is suspected.
+
+## 세줄요약
+
+미시간대학교 후향적 CBCT 연구 (n=29, 평균 추적 3.3년): 상악동거상술 (Sinus Floor Elevation, SFE) 환자에서 기존 점막비후 (Mucosal Thickening)가 결과에 미치는 영향 평가.
+
+93.1%에서 점막비후 확인 (65.5%가 중증 >5 mm, 평균 최대 8.34 mm)에도 임플란트·골이식 생존율 100%; 치주질환 (Periodontal Disease) 과거력만 유의한 독립 예측인자 (p=0.004).
+
+활성 부비동염 (Sinusitis)·근단병소 (Periapical Pathosis) 가 없으면 생리적 점막비후는 SFE 금기가 아님; 부비동염 의심 시에만 이비인후과 (ENT) 협진 필요.
 
 ## Summary
 

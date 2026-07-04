@@ -20,11 +20,21 @@ relations:
     target: wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp
 ---
 
-## One-line Summary
-Parallel, blinded RCT (n=76) comparing computerized-controlled invasive local anesthesia vs noninvasive lidocaine/prilocaine gel for nonsurgical periodontal instrumentation: pain intensity (NRS-11) was similar between groups, but the noninvasive gel group required supplementary anesthesia in 100% of patients vs only 24% in the computerized group (P<0.001); hemodynamics were stable in both.
+## Three-line Summary
 
-## 한줄요약
-평행·맹검 RCT(n=76), 비외과적 치주기구조작 시 컴퓨터제어 침습마취 vs 비침습 리도카인/프릴로카인 겔 비교: 통증강도(NRS-11)는 두 군 유사했으나, 비침습 겔군은 100%가 보충마취 필요 vs 컴퓨터제어군 24%만 필요(p<0.001); 혈역학은 양 군 모두 안정.
+Parallel, blinded RCT (n=76) in Brazil comparing computerized-controlled injectable local anesthesia (Morpheus, 2% lidocaine/1:100,000 epi) versus noninvasive lidocaine/prilocaine intrapocket gel (Oraqix) for nonsurgical periodontal instrumentation.
+
+Both groups achieved similar mild pain intensity (NRS-11 median 0 vs 1, P>0.05), but 100% of the gel group required supplementary anesthesia versus only 24% in the computerized group (P<0.001).
+
+Both techniques adequately control pain during SRP, but computerized injectable anesthesia is far more procedurally reliable — reducing the need for workflow-interrupting re-anesthesia by 76%.
+
+## 세줄요약
+
+브라질 평행·맹검 RCT (n=76): 비외과적 치주기구조작에서 컴퓨터제어 침습마취(Morpheus, 2% 리도카인/1:100,000 에피네프린) vs 비침습 리도카인/프릴로카인 겔(Oraqix) 비교.
+
+두 군 모두 통증강도(NRS-11 중앙값 0 vs 1, P>0.05)는 유사한 '경증' 수준이었으나, 겔군은 100%에서 보충마취 필요 vs 컴퓨터제어군 24% (P<0.001).
+
+두 방법 모두 SRP 중 통증을 적절히 조절하지만, 컴퓨터제어 침습마취는 재마취 필요를 76% 줄여 시술 흐름의 예측 가능성이 크게 우월함.
 
 ## Summary
 This parallel-group, single-blind RCT randomized 76 volunteers 1:1 to receive either a computerized/computer-controlled injectable local anesthetic (Morpheus device, 2% lidocaine + 1:100,000 epinephrine) or a noninvasive intrapocket lidocaine/prilocaine thermosensitive gel (Oraqix) before manual subgingival instrumentation (Gracey/McCall curettes) for nonsurgical periodontal treatment. Pain perception (11-point NRS) did not differ significantly between the two techniques — both were "mild" on average. However, the two techniques diverged sharply on a secondary outcome: **all 38 gel-group patients (100%) required at least one supplementary anesthesia application**, versus only **9 of 38 computerized-group patients (24%)** (P<0.001). Blood pressure and SpO2 were stable and comparable between groups, with only a within-group systolic BP drop pre-to-post in the computerized group, attributed to resolving pre-procedure anxiety. The authors conclude both techniques control pain adequately, but the computerized invasive technique gives more consistent/predictable anesthetic performance, reducing procedural interruptions for re-anesthesia.

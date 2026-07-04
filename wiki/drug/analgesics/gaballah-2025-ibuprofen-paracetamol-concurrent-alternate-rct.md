@@ -13,11 +13,21 @@ source_collection: external
 tags: [ibuprofen, paracetamol, acetaminophen, third-molar, extraction-pain, dosing-interval, concurrent, alternate, multimodal-analgesia, RCT]
 ---
 
-## One-line Summary
-Single-center RCT (Sci Rep 2025, n=56): ibuprofen+paracetamol alternating every 4 hours vs concurrent every 8 hours after impacted mandibular third-molar extraction — rescue medication required 15% (alternating) vs 53% (concurrent) (p=0.002); VAS pain scores not significantly different.
+## Three-line Summary
 
-## 한줄요약
-하악 매복 3번째 대구치 발치 후 이부프로펜+파라세타몰 교대투여(매 4시간) vs 동시투여(매 8시간): 교대투여군 구제약 필요 15% vs 동시투여군 53%(p=0.002) — VAS 점수 차이는 유의하지 않음, 소규모 단일기관 RCT (Sci Rep 2025, n=56).
+Single-center double-masked parallel-group RCT (n=56; University of Sharjah, UAE; Sci Rep 2025) comparing two dosing schedules of ibuprofen 400 mg + paracetamol 1000 mg for 48 h after surgical impacted mandibular third-molar extraction: concurrent q8h versus alternating (staggered) q4h.
+
+Alternating dosing significantly reduced the proportion of patients requiring rescue medication (15% vs 53%, p=0.002); VAS pain category distribution not significantly different (p=0.495).
+
+Staggered/alternating dosing may be operationally superior for pain control; small sample (n=56) and single-center design limit generalizability; discrepancy between VAS and rescue medication outcomes warrants further investigation.
+
+## 세줄요약
+
+단일기관 이중맹검 평행군 RCT(n=56; Sharjah대학교, UAE; Sci Rep 2025): 하악 매복 사랑니 발치 후 48시간 ibuprofen 400mg+paracetamol 1000mg의 동시투여(q8h) vs 교대투여(q4h 스태거) 비교.
+
+교대투여군이 구제진통제 필요 비율 유의하게 낮음(15% vs 53%, p=0.002); VAS 통증 분포는 유의한 차이 없음(p=0.495).
+
+스태거/교대 투여가 통증 조절에 운영상 우월할 수 있음; 소규모 단일기관 한계로 일반화 제한; VAS와 구제약 결과의 불일치는 추가 연구 필요.
 
 ## Summary
 Single-center, double-masked, parallel-group RCT (n=56) comparing two dosing schedules of ibuprofen 400mg + paracetamol 1000mg for 48h after surgical removal of impacted mandibular third molars. Group A (concurrent): both drugs together q8h. Group B (alternate): ibuprofen and paracetamol staggered q4h each (effectively doubling dosing frequency). Alternate dosing significantly reduced the proportion of patients requiring rescue medication (15% vs 53%, p=0.002). However, VAS pain scores did not differ significantly between groups (p=0.495 for pain category distribution). The discrepancy between VAS and rescue medication outcomes is notable. Results support alternate/staggered dosing as operationally superior for pain control, though the small sample and single-center design limit generalizability.

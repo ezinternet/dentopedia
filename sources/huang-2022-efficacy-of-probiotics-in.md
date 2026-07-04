@@ -13,13 +13,23 @@ source_collection: external
 
 이 SR+MA는 프로바이오틱스의 구취 관리 효과를 단기(≤4주)·장기(>4주) 시간 관점으로 분석한 최초의 정량적 메타분석으로, [[halitosis/yoo-2017-effect-probiotics-on-halitosis]]의 단순 서술적 분석 결과를 SMD 기반 정량적 근거로 보완하고 [[halitosis/lopez-valverde-2022-role-probiotics-halitosis]]와 함께 프로바이오틱스 구취 치료 근거 기반을 구성한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 7 RCTs (n=23–68) showing probiotics significantly reduce organoleptic scores and VSC levels in the short term (≤4 weeks) but only organoleptic scores in the long term (>4 weeks).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 7개 RCT를 포함한 SR+MA로, 프로바이오틱스가 단기(≤4주)에 관능검사 점수와 VSC 농도를 유의하게 낮추나 장기(>4주)에는 관능검사 점수만 유의하게 개선함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

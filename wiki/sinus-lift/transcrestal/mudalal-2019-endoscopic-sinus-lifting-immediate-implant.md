@@ -13,11 +13,19 @@ source_collection: external
 tags: [transcrestal, sinus-lift, endoscope, prf, pess, immediate-implant, low-rbh]
 ---
 
-## One-line Summary
-Case report (40F, #16, residual bone height [RBH] 3.53 mm): combined PESS protocol (platelet-rich fibrin [PRF] + endoscope + simultaneous implant + sinus floor elevation) achieved 12 mm transcrestal elevation with a 4.8×12 mm implant; implant stability quotient (ISQ) rose 67.4 (3 mo) → 71.0 (6 mo), compressing a 12-month workflow to 3 months.
+## Three-line Summary
+Case report (40-year-old female, tooth #16, residual bone height [RBH] 3.53 mm) introducing the PESS protocol (PRF + Endoscope + Simultaneous implant placement + Sinus floor elevation) for transcrestal sinus lifting in severely atrophic posterior maxilla.
 
-## 한줄요약
-잔존골 높이(Residual Bone Height, RBH) 3.5 mm 케이스 리포트: 혈소판 풍부 피브린(Platelet-Rich Fibrin, PRF) + 내시경 + 즉시식립 + 상악동거상술(PESS) 조합으로 12 mm 거상, 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 3개월 67.4 → 6개월 71.0로 상승, 치료 기간을 12개월에서 3개월로 단축.
+A 4.8×12 mm Straumann implant was placed at 30 N·cm simultaneous with 12 mm of transcrestal sinus elevation using PRF alone; ISQ rose from 67.4 at 3 months to 71.0 at 6 months, and the zirconia crown was delivered at 3 months — compressing the conventional 12-month workflow to 3 months.
+
+Feasibility of RBH < 4 mm TSFE with immediate implant is demonstrated, but n=1 evidence cannot support generalization of this combined protocol.
+
+## 세줄요약
+증례보고 (40세 여성, #16, 잔존골높이(Residual Bone Height, RBH) 3.53 mm) — PRF + 내시경 + 즉시식립 + 상악동거상술(PESS) 복합 프로토콜 최초 보고.
+
+4.8×12 mm Straumann 임플란트 30 N·cm로 동시 식립, PRF 단독으로 12 mm 거상; 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 3개월 67.4 → 6개월 71.0, 지르코니아 보철 3개월 완료 — 기존 12개월 워크플로우를 3개월로 단축.
+
+RBH < 4 mm에서 즉시 경치조골 거상 실현 가능성을 제시하나, n=1 증거로 일반화 불가.
 
 ## Summary
 This case report describes the first use of a combined PESS (PRF + Endoscope + Simultaneous implant placement + Sinus floor elevation) protocol in a patient with severe atrophy of the posterior maxilla (RBH 3.53 mm). Endoscope-guided transcrestal sinus elevation using PRF as the sole graft allowed simultaneous placement of a 4.8 × 12 mm Straumann implant at 30 N·cm torque. ISQ rose to 67.4 at 3 months and 71.0 at 6 months, and a zirconia-ceramic crown was delivered at 3 months — compressing a conventional 12-month workflow to 3.

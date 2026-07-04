@@ -16,13 +16,21 @@ relations:
     target: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 8 RCTs (7 high PEDro quality) isolating manual therapy (MT) effects on TMD: masticatory-muscle myofascial release/massage and upper-cervical thrust/mobilisation are more effective than control (GRADE low–high) and as effective as botulinum toxin (moderate), while thoracic manipulation is not effective, for pain, maximum mouth opening (MMO) and pressure pain threshold (PPT).
+Systematic review of 8 RCTs (7 high PEDro quality, 5 databases) isolating the effect of manual therapy (MT) technique types on pain, maximum mouth opening (MMO), and pressure pain threshold (PPT) in TMD — the first SR to stratify effectiveness by MT technique.
 
-## 한줄요약
+Masticatory-muscle myofascial release/massage is more effective than control (GRADE low–moderate) and equivalent to botulinum toxin (GRADE moderate); upper-cervical thrust/mobilisation is more effective than control (GRADE low–high); thoracic manipulation is not effective for TMD outcomes.
 
-RCT 8편(7편 PEDro 고품질) 체계적 문헌고찰 — 측두하악장애(TMD)에서 도수치료(Manual Therapy, MT)는 통증·최대개구량(MMO)·압력통증역치(PPT)를 개선하나 기법에 따라 갈림: 저작근 근막이완·마사지와 상부경추 thrust/가동술은 대조군 대비 효과적(GRADE 저~고)이며 보툴리눔 독소와 동등(중등도), 흉추 도수정복은 효과 없음.
+MT technique selection is critical: targeting the masticatory muscles or upper cervical spine is supported by evidence, while thoracic manipulation should not be used; methodological heterogeneity across trials frequently downgraded GRADE and prevented pooled meta-analysis.
+
+## 세줄요약
+
+TMD 통증·최대개구량(MMO)·압력통증역치(PPT)에 대한 도수치료(MT) 기법별 효과를 분리한 첫 SR (8 RCT, 7편 PEDro 고품질, 5개 데이터베이스).
+
+저작근 근막이완·마사지는 대조군 대비 효과적(GRADE 저~중)이며 보툴리눔 독소와 동등(GRADE 중); 상부경추 thrust/가동술도 대조군 대비 효과적(GRADE 저~고); 흉추 도수정복은 효과 없음.
+
+MT 기법 선택이 핵심 — 저작근·상부경추 대상은 근거 지지, 흉추 조작은 사용 금지; 연구 간 방법론 이질성으로 GRADE 빈번 강등 및 메타분석 불가.
 
 ## Summary
 

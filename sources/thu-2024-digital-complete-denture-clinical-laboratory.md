@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]]과 [[complete-denture/avelino-2024-clinical-performance-digitally-fabricated-complete]]는 디지털 총의치의 임상 성능·결과(outcome)를 종합했으나, **어떤 임상·기공 절차**를 사용해야 하는지(테두리 형성 인상 vs IOS, 시적의치 필요 여부, 밀링 vs 3D 프린팅 재료 선택 등)에 대한 절차(procedure) 중심 체계적 리뷰가 없었다. 본 SR(JPD 2024)은 39편 임상연구를 PRISMA 방식으로 종합해 디지털 총의치 제작 절차의 변이와 그에 따른 합병증을 최초로 체계적으로 정리한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR of 39 clinical studies on digital complete denture fabrication (2000–2022) found that border-molded impression and trial denture placement remain essential for optimal retention and fit, regardless of milling or 3D-printing workflow.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 39편 SR: 디지털 총의치 제작 시 테두리형성 인상 채득 및 시적의치 시행이 유지력과 적합도를 위해 여전히 필수적이며, 밀링과 3D 프린팅 모두 유사한 환자만족도를 보임.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

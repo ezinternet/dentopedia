@@ -20,13 +20,21 @@ relations:
     target: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-blinded RCT (n=38) found locally delivered piperacillin + tazobactam equivalent to systemic amoxicillin + metronidazole as an NSPT adjunct for stage III periodontitis at 6 months across all clinical, microbiological, and immunological endpoints.
+Single-blinded RCT (n=38, 19 per arm; generalised stage III grade B/C periodontitis, ages 18–40, University of Belgrade; 6-month follow-up) comparing local delivery of piperacillin + tazobactam (Gelcide, single session) vs systemic amoxicillin 500 mg + metronidazole 400 mg TID ×7 days as NSPT adjuncts.
 
-## 한줄요약
+Both arms achieved highly significant improvements in PPD, CAL, BOP, plaque index, and ~10-fold bacterial count reduction (all p<0.001 within groups); no statistically significant difference between LA and SA groups for any clinical, microbiological, or immunological outcome at 6 months.
 
-단일 맹검 RCT (n=38, 치주염 3기): 비외과적 치주치료 (Non-Surgical Periodontal Therapy, NSPT) 보조로 국소 피페라실린+타조박탐 (Piperacillin+Tazobactam, LA)은 전신 아목시실린+메트로니다졸 (Amoxicillin+Metronidazole, SA)과 6개월 시점에 동등한 임상·미생물·면역 지표 개선을 보임.
+A single session of locally delivered piperacillin + tazobactam is a viable, systemically less burdensome alternative to a 7-day systemic antibiotic course, consistent with EFP 2020 antimicrobial stewardship guidance, though replication in larger trials and diverse populations is needed.
+
+## 세줄요약
+
+단일 맹검 RCT (n=38, 군당 19명; 전신성 3기 grade B/C 치주염, 18–40세, 베오그라드 대학; 6개월 추적): 비외과적 치주치료(NSPT) 보조로 국소 피페라실린+타조박탐(Gelcide, 1회) vs 전신 아목시실린 500 mg+메트로니다졸 400 mg TID 7일 비교.
+
+양 군 모두 PPD·CAL·BOP·치면세균막·세균 수(~10배 감소) 유의하게 개선(모두 p<0.001); 6개월 시점에 두 군 간 모든 임상·미생물·면역 지표에서 유의한 차이 없음.
+
+국소 피페라실린+타조박탐 1회 투여는 전신 항생제 7일 요법과 동등한 효과를 보이며 EFP 2020 항생제 관리 지침에 부합하는 전신 부담이 적은 대안이나, 대규모 다기관 연구로 검증이 필요하다.
 
 ## Summary
 

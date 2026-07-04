@@ -30,12 +30,21 @@ source: synthesis
 > - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort 부족.
 > - 환자 설명 framework: "crack은 시간이 지나면 split tooth로 진행 가능 → 교두 덮음이 진행 차단의 핵심 → 신경치료는 case-by-case → 정기 점검 필수" (Ferracane 3년 cohort 기반).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 20 papers (8 original + later additions) building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome (CTS), which is not a standalone diagnosis but the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum (now anchored by the ESE consensus position statement, Patel 2025, which recommends abandoning the "CTS" label). Core thesis: diagnosis requires a multi-modal framework (visual, transillumination, bite test, CBCT, QLF, and emerging AI/deep-learning — no single tool confirms, now backed by quantitative accuracy data: transillumination most sensitive but specificity only 53.6%, microscope/macrophotography specificity ~93%, QLF kappa 0.66–0.74, Kindaro 2025 / Son 2024), and the central clinical tension is whether to perform endodontic treatment — international evidence (Kaur 2026 umbrella, Ferracane 2023 PBRN cohort) favors endo + full cuspal coverage, while Korean JKDA (Kwak 2024) favors avoiding unnecessary endo, a split partly explained by sample population. Clinical takeaway: cuspal coverage is standard across all positions (with newer evidence shifting the design from full crown toward conservative onlay/inlay), the endo decision is case-by-case, and a Kwak-default-with-trigger-escalation (spontaneous pain, periapical pathology, cuspal mobility) framework fits Korean primary care.
+Synthesis of 20 papers building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome: CTS is the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum (craze line → fractured cusp → cracked tooth → split tooth → vertical root fracture), now anchored by the ESE consensus statement (Patel 2025) which recommends retiring the "CTS" label; diagnosis requires a multi-modal framework with now-quantified accuracies — transillumination sensitive but specificity only 53.6%, microscope/macrophotography specificity ~93%, QLF kappa 0.66–0.74, AI panoramic CNN AUC 0.82 for VRF screening.
 
-## 한줄요약
-균열치 증후군 (Cracked Tooth Syndrome, CTS) 20편 통합 — (1) longitudinal fracture 5-type 분류 (ESE Patel 2025 합의문이 표준화·"CTS" 용어 폐기 권고), (2) 진단 multi-modal framework (visual·bite test·transillumination·CBCT·QLF·AI) — 이제 정량 정확도로 뒷받침 (Kindaro 2025 micro-CT 기준: 투조 민감도↑·특이도 53.6%, 현미경 특이도 93%; Son 2024 QLF κ 0.66–0.74; Mun 2024 AI AUC 0.82), (3) 치료 결정의 핵심 tension — Kaur 2026 umbrella "endo + full cuspal coverage 최고 prognosis" vs Kwak 2024/Renner 2025 (개원가 55% 무증상) "unnecessary endo 회피" 보수적 입장. 한국 임상 적용 framework 제시.
+The central clinical tension is the endo decision: Kaur 2026 umbrella review + Ferracane 2023 PBRN cohort favor endo + full cuspal coverage for best prognosis; Korean JKDA (Kwak 2024) and Renner 2025 (55% asymptomatic in general practice) favor avoiding unnecessary endo — a split partly explained by patient population (academic/specialist vs primary care); both sides agree cuspal coverage is standard, and newer restoration evidence shifts the design toward conservative onlay/inlay over full crown (Wang 2025 RCT, Gavriil 2025).
+
+Clinical bottom line: apply a Kwak-default with trigger-escalation (spontaneous pain + periapical pathology + cuspal mobility → convert to endo + crown/onlay); cuspal coverage without endo is the default in vital bite-only-pain cases with shallow cracks; general-practice prevalence data (55% asymptomatic, 52% bite-test negative at presentation, 20% no dentin crack on extraction biopsy) supports restraint; CTS primary RCTs are nearly absent — all SR evidence rests on the same limited base.
+
+## 세줄요약
+
+20편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
+
+핵심 tension: Kaur 2026 umbrella + Ferracane 2023 PBRN 코호트 → "endo + 교두피개 최고 예후" 적극; Kwak 2024 JKDA + Renner 2025(개원가 55% 무증상) → "불필요한 endo 회피" 보수적; 양측 모두 교두피개(crown/onlay)는 표준으로 동의 — 수복 디자인은 최근 full crown → 보존적 onlay/inlay로 이동(Wang 2025 RCT, Gavriil 2025).
+
+임상 결론: Kwak 보수적 default + 결정 trigger(자발통·치근단 병변·교두 동요) 시 endo 전환; 생활치수·bite-only 통증·얕은 균열은 교두피개 단독이 기본값; 개원가 실측(55% 무증상·52% bite test 음성·20% 발치 후 상아질 균열 없음)이 자제 근거; CTS 1차 RCT 거의 없음.
 
 ## Scope
 2026-05-27 이전 wiki에 없던 CTS 카테고리를 신설하면서 동시 ingest한 8편의 종합. 4편의 international cluster (Kaur 2026 umbrella + Ferracane 2023 PBRN cohort + Li 2021 종합 review + Raj 2025 mini review)와 4편의 JKDA 한국 임상 cluster (Kim & Shin 진단·Son QLF·Kwak endo 결정 + Kaur 2026 protocol)가 짝을 이룬다. CTS 분야는 primary RCT가 빈약하고 SR/cohort/review 기반 — 본 overview는 그 evidence base의 한국 임상의용 의사결정 지도.

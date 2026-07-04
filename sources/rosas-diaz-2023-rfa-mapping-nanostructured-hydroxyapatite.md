@@ -13,13 +13,23 @@ source_collection: external
 
 The ISQ wiki currently contains RFA time-course data predominantly for SLA/CA/UV-treated surfaces. This prospective case series is the first mapped RFA dataset for a nanostructured hydroxyapatite (nano-HA) coated implant (SIN-UNITITE), documenting the dip timing and recovery pattern week-by-week over 20 weeks — filling a direct gap in [[wiki/overviews/implants-isq-stability-ladder]] which generalizes the primary→secondary stability dip without surface-specific ISQ trajectories for nano-HA implants.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case series (n=23 implants, 8 patients; 21 analyzed) mapping ISQ weekly over 20 weeks for nanostructured hydroxyapatite-coated implants (SIN-UNITITE), demonstrating a universal stability dip at weeks 2–3 followed by full recovery to or above baseline by week 8–10.
 
-## 한줄요약
+Prospective case series (n=23 implants, 8 patients;
+
+21 analyzed) mapping ISQ weekly over 20 weeks for nanostructured hydroxyapatite-coated implants (SIN-UNITITE), demonstrating a universal stability dip at weeks 2–3 followed by full recovery to or above baseline by week 8–10.
+
+(incomplete)
+
+## 세줄요약
+
 
 나노구조 하이드록시아파타이트(nano-HA) 코팅 임플란트(SIN-UNITITE) 23개(8명, 21개 분석)에서 20주간 매주 ISQ를 추적한 전향적 증례군 연구로, 식립 후 2–3주에 안정성 저하(dip)가 발생하고 8–10주에 기저치 이상으로 회복됨을 기록.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

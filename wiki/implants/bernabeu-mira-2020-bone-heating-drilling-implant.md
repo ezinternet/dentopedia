@@ -13,11 +13,21 @@ source_collection: external
 tags: [drill-design, drill-material, twisted-blade, DLC-coating, drill-wear, heat-generation, in-vitro]
 ---
 
-## One-line Summary
-In vitro study (3 drill groups — SS straight, DLC straight, DLC twisted — 50 drillings each, 800 rpm, no irrigation, automated press) decomposing drill material, design, and wear contributions to bone heating: drill design (twisted < straight) dominates over material (SS ≈ DLC, NS overall), initial/pilot drills heat more than progressive/final, and temperature rises progressively with wear across 50 uses.
+## Three-line Summary
 
-## 한줄요약
-인비트로(Materials 2020, 800 rpm, irrigation 없음, 자동press): drill **design**(twisted < straight)이 **material**(SS ≈ DLC)보다 발열에 큰 영향; initial·pilot drill > progressive·final drill 발열; 50회 drilling 동안 점진적 온도 상승.
+In vitro study (3 drill groups — SS straight, DLC-coated straight, DLC-coated twisted — 50 drillings each, 800 rpm, no irrigation, automated press) testing contributions of drill material, geometry, and wear to bone heating.
+
+Drill design (twisted < straight) dominated over material (SS ≈ DLC, NS overall) for progressive and final drills (p<0.01); initial and pilot drills generated more heat than progressive/final drills regardless of group.
+
+Temperature rose progressively across all 50 uses in every group, confirming wear as an independent heat driver; results apply to relative comparisons only — no irrigation means absolute temperatures exceed clinical conditions.
+
+## 세줄요약
+
+인비트로 (Materials 2020, 800 rpm, irrigation 없음, 자동 프레스): 스테인리스 스틸 (Stainless Steel, SS) 직선·다이아몬드유사탄소 (Diamond-Like Carbon, DLC) 직선·DLC 트위스트 3개 군, 드릴당 50회 시추.
+
+Drill 디자인 (twisted < straight, p<0.01)이 재질 (SS ≈ DLC, NS)보다 발열에 큰 영향; initial·pilot drill 단계가 progressive·final보다 발열 크다.
+
+50회 누적 사용 동안 모든 군에서 점진적 온도 상승 확인 — 재질보다 마모·교체주기 관리가 임상적으로 중요; 단, irrigation 미사용이므로 절대온도는 임상에 직접 적용 불가.
 
 ## Summary
 Three drill groups — stainless-steel (SS) straight, DLC-coated straight, DLC-coated twisted — were tested in a fully automated press across 50 drillings per drill, in standardized synthetic bone, without irrigation. The overall mean thermal change did not differ significantly between SS and DLC, isolating drill **design** (twisted blade) as the dominant thermal driver: twisted geometry produced significantly less heat than straight blades for progressive and final drills (p<0.01). Initial and pilot drills generated more heat than progressive and final drills. All drills, irrespective of group, showed gradual temperature elevation across 50 uses, confirming wear as an independent factor.

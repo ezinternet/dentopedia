@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Introduces the Polymicrobial Synergy and Dysbiosis (PSD) model — the paradigm-shifting framework that underpins all subsequent periodontal pathogenesis literature in this wiki, including [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] and [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]].
 
-## One-line Summary
-Narrative review proposing the PSD model of periodontitis etiology, in which keystone pathogens (exemplified by P. gingivalis at <0.01% of microbiota) remodel a symbiotic community into a dysbiotic, bone-destructive state through polymicrobial synergy and host immune subversion.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: 치주염은 'red complex' 특정균 단독 병원론을 넘어, keystone pathogen(P. gingivalis <0.01%)이 공생 미생물군을 dysbiotic 상태로 재편하여 숙주 면역을 우회하는 다균종 시너지·dysbiosis(PSD) 모델로 설명됨.
+Narrative review proposing the PSD model of periodontitis etiology, in which keystone pathogens (exemplified by P.
+
+gingivalis at <0.01% of microbiota) remodel a symbiotic community into a dysbiotic, bone-destructive state through polymicrobial synergy and host immune subversion.
+
+(incomplete)
+
+## 세줄요약
+
+Narrative review: 치주염은 'red complex' 특정균 단독 병원론을 넘어, keystone pathogen(P.
+
+gingivalis <0.01%)이 공생 미생물군을 dysbiotic 상태로 재편하여 숙주 면역을 우회하는 다균종 시너지·dysbiosis(PSD) 모델로 설명됨.
+
+(incomplete)
 
 ## 1. Document Information
 - Mol Oral Microbiol. 2012;27(6):409–419. NIH Public Access Author Manuscript.

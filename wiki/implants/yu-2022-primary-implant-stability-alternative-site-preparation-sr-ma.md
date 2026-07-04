@@ -13,11 +13,21 @@ source_collection: external
 tags: [systematic-review, meta-analysis, ISQ, primary-stability, osseodensification, osteotome, piezosurgery, under-drilling, low-density-bone]
 ---
 
-## One-line Summary
-Four-arm systematic review + meta-analysis (17 studies, 12 RCTs) of alternative implant-site preparations vs conventional drilling by primary ISQ: osseodensification (OD) +10.25 ISQ (95% CI 4.97–15.52), osteotome +6.34, under-drilling +11.43 (all significant), piezosurgery +1.50 (NS); the OD subgroup is only 3 small studies with a wide CI, so the large OD estimate is likely magnitude-inflated (cf. Marzorati 2026 OD MD +3.24).
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Meta-Analysis), 17 연구 (12 RCT) — 골밀도화 (Osseodensification, OD) ISQ +10.25, osteotome +6.34, under-drilling +11.43 (all 유의), piezosurgery +1.50 (비유의). OD 서브그룹은 3 연구뿐이며 신뢰구간이 넓고 (4.97–15.52), 추후 Marzorati 2026 SR이 더 엄격한 inclusion으로 OD 효과를 +3.24로 보고 — Yu의 OD 추정치는 과대평가 가능성.
+Four-arm SR+MA (17 studies, 12 RCTs, PRISMA, searches to March 2022, Wanfang Chinese sources included) comparing osseodensification (OD), osteotome (OT), piezosurgery (PS), and under-drilling (UD) vs conventional drilling on primary implant stability quotient (ISQ).
+
+All alternatives except piezosurgery significantly improved ISQ: OD +10.25 (95% CI 4.97–15.52, p<0.001, 3 studies), OT +6.34 (95% CI 2.26–10.42, p=0.002, 8 studies), UD +11.43 (95% CI 5.17–17.68, p<0.001, 4 studies); PS +1.50 (95% CI −2.54 to 5.54, NS, 5 studies).
+
+The OD subgroup estimate is likely magnitude-inflated (only 3 small studies, wide CI) — the subsequent Marzorati 2026 OD-specific SR with 343 implants found a tighter MD of +3.24 ISQ; this study is the best cross-technique comparison but should not be used alone for OD effect sizing.
+
+## 세줄요약
+
+4군 SR+MA(17연구, 12 RCT, PRISMA, 2022년 3월까지, 완방 중국어 포함): 골밀도화(OD)·osteotome(OT)·피에조수술(PS)·under-drilling(UD) 대 통상 드릴링의 1차 임플란트 안정성지수(ISQ) 비교.
+
+PS 제외 모두 유의한 ISQ 개선: OD +10.25 (p<0.001, 3연구), OT +6.34 (p=0.002, 8연구), UD +11.43 (p<0.001, 4연구); PS +1.50 (비유의).
+
+OD 서브그룹 추정치는 소수 연구·넓은 신뢰구간으로 과대평가 가능성이 있으며, 이후 Marzorati 2026 OD 전용 SR(343개 임플란트)이 +3.24 ISQ로 더 보수적인 결과를 보고 — OD 효과 추정 시 이 연구 단독 인용을 지양해야 한다.
 
 ## Summary
 Yu et al. published a four-arm SR+MA comparing alternative implant-site preparations (osseodensification, osteotome, piezosurgery, under-drilling) against conventional drilling, with primary implant stability quotient (ISQ) as the outcome. Across 17 studies (12 RCTs), they found that OD, osteotome, and under-drilling all significantly improved ISQ over conventional drilling, while piezosurgery did not.

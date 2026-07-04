@@ -22,13 +22,21 @@ relations:
     target: huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 17 RCTs (10 meta-analyzed) on transcrestal maxillary sinus elevation showing a pooled 100% (95% CI 99–100%) implant survival independent of follow-up time, tempered by a hand-osteotome–specific risk of sinus-membrane perforation and patient vertigo.
+SR+MA restricted to RCTs (17 included, 10 meta-analyzed) evaluating implant outcomes after transcrestal (closed) maxillary sinus floor elevation using hand osteotomes, piezoelectric, drill-based, and hydraulic techniques.
 
-## 한줄요약
+Pooled implant survival was 100% (95% CI 99–100%) for both grafted and non-grafted hand-osteotome transcrestal lifts, with follow-up time, implant level (bone vs tissue), and staging protocol showing no significant effect on survival.
 
-경치조골(transcrestal) 상악동거상 임플란트 RCT 17편(메타분석 10편) SR+MA — 풀링 생존율 100% (95% CI 99–100%), 추적기간 무관, 단 hand-osteotome 사용 시 막천공·현훈 위험 증가.
+The clinically important caveat is a hand-osteotome–specific morbidity signal — higher sinus membrane perforation rate and post-operative vertigo/dizziness — not apparent from the survival figures alone.
+
+## 세줄요약
+
+경치조골(transcrestal) 상악동거상 RCT 17편(메타분석 10편) SR+MA — hand osteotome·피에조·드릴·수압(hydraulic) 기법 포함, 임플란트 생존율 및 안전성 평가.
+
+통합 임플란트 생존율 100% (95% CI 99–100%), 이식 여부·추적기간·임플란트 유형(골수준/연조직수준)·식립 단계(1회/2회) 모두 생존율에 유의한 영향 없음.
+
+단, hand osteotome 사용군에서만 슈나이더막(Schneiderian membrane) 천공 및 현훈(vertigo)/어지럼증이 보고되어, 생존율 지표만으로는 드러나지 않는 술식 의존성 합병증 위험을 시사.
 
 ## Summary
 

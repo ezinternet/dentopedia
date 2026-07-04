@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/behavioral-dentistry/motivational-interviewing/kay-2016-motivational-interviewing-general-dental-practice]]는 MI의 일반 치과 적용에 대한 초기 근거를 다뤘으나, 치주질환 특이적 임상 지표(PI/BI/GI/PD)에 대한 정량 효과는 미확정 상태였다. 본 2024 SR+MA는 2023년 5월까지의 최신 RCT를 모아 치주 특이 결과를 정량화하여 currency gap을 메운다 (kay 2016 이후 출판된 Arnett 2022 등 최신 RCT 반영).
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (n=474; 6 in meta-analysis) found NO significant difference between motivational interviewing and standard oral health instruction on plaque, bleeding on probing, or gingival inflammation; evidence insufficient and mostly high risk of bias.
 
-## 한줄요약
+SR+MA of 7 RCTs (n=474;
+
+6 in meta-analysis) found NO significant difference between motivational interviewing and standard oral health instruction on plaque, bleeding on probing, or gingival inflammation;
+
+evidence insufficient and mostly high risk of bias.
+
+## 세줄요약
+
 
 7개 RCT(n=474, 6편 메타분석)를 종합한 SR+MA로, 동기면담(Motivational Interviewing, MI)이 표준 구강위생교육 대비 치면세균막·탐침시출혈·치은염증에서 유의한 차이를 보이지 않았으며, 근거 수준이 불충분하고 대부분 비뚤림 위험이 높았다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

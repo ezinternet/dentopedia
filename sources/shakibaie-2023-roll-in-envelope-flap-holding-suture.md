@@ -13,13 +13,23 @@ source_collection: external
 
 Part of a focused collection on flap design and peri-implant soft-tissue management. This prospective case series compares the microsurgical roll-in-envelope (RIE) flap against the holding-suture (HS) technique for second-stage implant soft-tissue handling, extending the flap-advancement/closure theme of [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] toward the soft-tissue-phenotype (thickness) outcome rather than mesh/membrane coverage. It contrasts with the major-advancement closure techniques in its siblings [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] and [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective case series (10 posterior implants, 10 patients, randomly assigned by flap design) reporting that the microsurgical roll-in-envelope (RIE) flap yielded a ~three-fold greater peri-implant mucosal thickness than the holding-suture (HS) technique with less pain/discomfort and no dropouts.
 
-## 한줄요약
+(incomplete)
 
-구치부 임플란트 10개·10명 대상 전향적 증례군. 미세수술 롤-인-엔벨로프(RIE) 피판이 홀딩-수처(HS) 기법보다 임플란트 주위 점막 두께를 약 3배 더 확보하고 통증·불편을 줄임(탈락 없음).
+(incomplete)
+
+## 세줄요약
+
+
+구치부 임플란트 10개·10명 대상 전향적 증례군.
+
+미세수술 롤-인-엔벨로프(RIE) 피판이 홀딩-수처(HS) 기법보다 임플란트 주위 점막 두께를 약 3배 더 확보하고 통증·불편을 줄임(탈락 없음).
+
+(incomplete)
 
 ## 1. Document Information
 

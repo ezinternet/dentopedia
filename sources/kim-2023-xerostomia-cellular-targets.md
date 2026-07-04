@@ -17,13 +17,23 @@ text_filename: kim-2023-xerostomia-cellular-targets.txt
 
 기존 위키의 구강건조 페이지들은 임상 결과·역학 층위다 — [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]](치료 결과 SR), [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]](항고혈압제↔타액유량). 이 IJMS 리뷰(Seoul National Univ. 치대)는 그 아래의 *분자·세포 기전*(GPCR→IP3R→SOCE→AQP5 Ca²⁺ 신호축)을 채워, 왜 pilocarpine/cevimeline가 작동하고 왜 방사선 hyposalivation은 반응이 약한지를 기전적으로 설명한다 — 구강건조 overview의 mechanism anchor.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative mechanistic review (Int J Mol Sci 2023, single-author) tracing salivary secretion at the cellular level — parasympathetic neurotransmitter → GPCR (M3 mAChR) → PLC/IP3 → ER Ca²⁺ release + store-operated Ca²⁺ entry (SOCE) → AQP5 apical trafficking — and framing GPCR, IP3R, SOCE, and AQP5 as druggable cellular targets in xerostomia.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 침 분비의 세포 기전 — 부교감신경 전달물질 → G단백연결수용체(GPCR, M3 mAChR) → PLC/IP3 → 소포체 Ca²⁺ 방출 + 저장고작동 Ca²⁺ 유입(SOCE) → 아쿠아포린5(AQP5) 정단막 이동 — 을 추적하고, GPCR·IP3R·SOCE·AQP5를 구강건조(xerostomia) 치료 표적으로 제시한 기전 리뷰 (IJMS 2023, 서울대 치대).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

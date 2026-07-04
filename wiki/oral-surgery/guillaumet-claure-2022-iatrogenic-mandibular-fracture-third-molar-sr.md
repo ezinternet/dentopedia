@@ -13,12 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (Guillaumet-Claure 2022): iatrogenic mandibular fracture after lower third molar extraction has an overall incidence of 0.0034%–0.075%, with postoperative fractures (premature chewing) more common than intraoperative; mandibular angle is the most frequent site (40%), and the typical at-risk patient is a male aged 40–60 with deeply impacted mesioangular molars.
+Systematic review (Guillaumet-Claure 2022; Cochrane/PubMed/Scopus) of the prevalence and risk factors of iatrogenic mandibular fractures occurring intraoperatively and postoperatively after lower third molar extraction.
 
-## 한줄요약
-체계적 문헌고찰: 하악 제3대구치 발치 후 의인성 하악골 골절 (Iatrogenic Mandibular Fracture) 발생률은 0.0033%–0.075%이며, 술후 골절이 술중보다 흔하고 40–60세 남성·깊은 매복치에서 위험 증가.
+Overall incidence is 0.0034%–0.075%; postoperative fractures (premature chewing) are more common than intraoperative; mandibular angle is the most frequent site (40%); typical at-risk patient is male, aged 40–60, with deeply impacted mesioangular molars (Pell-Gregory Class II/III, B/C).
+
+Preoperative CBCT-based risk stratification can identify high-risk anatomy, and conservative bone removal with avoidance of excessive lingual plate leverage is the primary prevention strategy.
+
+## 세줄요약
+
+체계적 문헌고찰(Guillaumet-Claure 2022; Cochrane·PubMed·Scopus): 하악 제3대구치 발치 후 의인성 하악골 골절(Iatrogenic Mandibular Fracture) 발생률·위험 인자 검토.
+
+전체 발생률 0.0034%–0.075%; 술후 골절(조기 저작)이 술중보다 흔함; 하악각이 가장 흔한 골절 부위(40%); 40–60세 남성, 깊은 근심 경사(Pell-Gregory Class II/III, B/C) 매복치가 고위험군.
+
+술전 CBCT 위험도 평가 및 설측판 과도 거상 회피가 핵심 예방 전략; ORIF 시행 시 예후 양호.
 
 ## Summary
 This systematic review (Guillaumet-Claure et al., 2022) examined the prevalence and risk factors of iatrogenic mandibular fractures occurring intraoperatively and postoperatively following lower third molar (3MI) extraction. Databases searched included Cochrane, PubMed/MEDLINE, and Scopus. Postoperative fractures are more common than intraoperative ones, with overall incidence ranging from 0.0034% to 0.075%. The mandibular angle is the most frequent fracture site (40%), and adequate preoperative planning can identify patients at risk.

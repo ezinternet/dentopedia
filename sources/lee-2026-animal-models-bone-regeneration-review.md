@@ -9,7 +9,7 @@ pdf_filename: lee-2026-animal-models-bone-regeneration-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 J Periodontal Implant Sci 2026 (online Apr 2026): narrative review of preclinical bone regeneration models — rodent/rabbit/dog/minipig; species-specific healing patterns; translational limitations; standardization requirements.
 
 ## 1. Key Results

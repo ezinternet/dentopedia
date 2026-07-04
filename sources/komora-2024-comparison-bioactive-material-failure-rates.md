@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]]가 pulpotomy/DPC 재료를 비교했으나, 본 Scientific Reports (Komora 2024) network meta-analysis는 21편 RCT를 시점별(6/12/24개월)·modality별로 계층화해 MTA를 기준으로 Ca(OH)2·Biodentine·Totalfill을 직접 순위화함으로써 anchor의 재료 비교에 시점별 정량 OR 근거를 보강.
 
-## One-line Summary
+## Three-line Summary
+
 
 Network meta-analysis of 21 RCTs (mature permanent teeth) ranking VPT bioactive materials against MTA: calcium hydroxide had significantly higher failure (OR ~2.3–2.5 at 6/12/24 mo) while Biodentine and Totalfill did not differ from MTA.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 21편 RCT(성숙영구치)의 네트워크 메타분석으로, VPT 생체활성재료를 MTA 기준 비교 시 수산화칼슘은 6·12·24개월에서 유의하게 높은 실패율(OR 약 2.3–2.5)을 보였고 Biodentine·Totalfill은 MTA와 차이가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

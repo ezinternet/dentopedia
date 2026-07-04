@@ -18,13 +18,21 @@ relations:
     target: vetromilla-2021-short-standard-implants-sinus-umbrella
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (393 patients, 474 implants) showing short implants (<8 mm) reduce marginal bone loss (MD −0.26 mm) and biological complications versus long implants with sinus floor elevation in the atrophic posterior maxilla, with equivalent survival.
+SR+MA of 7 RCTs (393 patients, 474 implants; searched to June 2025; PRISMA + Cochrane) comparing short implants (<8 mm) vs long implants (8–15 mm) with sinus floor elevation in the atrophic posterior maxilla.
 
-## 한줄요약
+Short implants significantly reduced marginal bone loss (MD −0.26 mm; 95% CI −0.43 to −0.09; p<0.001; I²=56.3%) and biological complications (OR 0.39; p=0.02) with equivalent survival (OR 0.96; p=0.76) and prosthetic complications.
 
-RCT 7편(환자 393명, 임플란트 474개) 체계적 고찰·메타분석. 위축 구치부 상악에서 짧은 임플란트(<8mm)는 상악동거상술 동반 긴 임플란트보다 변연골소실(MBL −0.26mm)·생물학적 합병증이 적었고 생존율은 동등.
+Short implants are a less invasive, bone-preserving alternative in atrophic posterior maxilla, though follow-up remains too short (<3 years in most trials) to confirm long-term survival equivalence.
+
+## 세줄요약
+
+RCT 7편 SR+MA (환자 393명, 임플란트 474개; 검색 2025.6까지) — 위축 구치부 상악에서 짧은 임플란트(<8mm) vs 상악동거상술 동반 긴 임플란트(8–15mm) 비교.
+
+짧은 임플란트에서 MBL 유의하게 낮음(MD −0.26 mm; p<0.001; I²=56.3%), 생물학적 합병증 적음(OR 0.39; p=0.02); 생존율(OR 0.96; p=0.76)·보철 합병증은 차이 없음.
+
+짧은 임플란트는 위축 구치부 상악의 덜 침습적·골보존적 대안이나, 대부분 추적 기간 3년 미만으로 장기 생존율 동등성 확인 추가 필요.
 
 ## Summary
 

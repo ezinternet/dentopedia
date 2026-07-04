@@ -27,11 +27,23 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 > - CBCT 기반 상악동 부피 자동측정(Luz 2018, SMOP)은 sinus lift 계획에 직접 활용 가능하나 측정 정확도 cross-validation 필요.
 > - 확신도 등급: IOS·CAIS = [근거강함](다수 SR+NMA), AI 진단 정확도·LLM = [합의수준](대부분 retrospective+narrative, 단일 SR+MA).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis decision-ladder over 28 digital-dentistry papers organized on four axes — intraoral scanner (IOS) accuracy, computer-assisted implant surgery (CAIS), AI diagnostics, and LLM patient communication. Core thesis: IOS is the clinical standard for single crowns/short spans but accuracy degrades on full-arch/edentulous; CAIS (dynamic or full-static) beats freehand for immediate/esthetic/multiple implants; AI and LLM are diagnostic/educational aids only (clinician review mandatory, no patient-identifying data, no autonomous treatment decisions). IOS/CAIS rest on strong SR+NMA evidence; AI/LLM are consensus-level.
+Synthesis decision-ladder over 28 digital-dentistry papers on four axes: IOS accuracy (4 SR/umbrella + 2 in-vitro), CAIS (SR+NMA), AI diagnostics (multiple SR/retrospective), and LLM patient communication (SR+MA + umbrella); IOS is the clinical standard for single crowns and short spans (trueness 50–100 µm) but accuracy degrades on full-arch/edentulous (trueness 50–200 µm, posterior error accumulation; laboratory scanner or conventional impression preferred for fully edentulous).
 
-## 한줄요약
+CAIS: dynamic or full-static guidance beats freehand for immediate, esthetic, and multiple implants (Schiavon 2025 SR+NMA, 7 RCTs, 338 implants); AI diagnostics achieve caries detection ≈95% accuracy, implant-type recognition 93.8–98%, and osseointegration prediction AUC 0.924–1.000 — all diagnostic/educational aids only, insufficient clinical validation for autonomous treatment decisions.
+
+LLM dental responses reach ≈82% accuracy and ≈70% clinically acceptable responses (Zhang 2025 SR+MA, 25 studies; ChatGPT leads); must be used only for drafting patient instructions with mandatory clinician review, never for direct patient delivery or diagnostic decisions; no patient-identifying data input (HIPAA/Korean data-protection law).
+
+## 세줄요약
+
+28편 4축 결정 사다리(IOS 정확도 4 SR/우산형+2 in-vitro, CAIS SR+NMA, AI 진단 다수 SR/후향, LLM SR+MA+우산형): IOS는 단관·소악궁 임상 표준(trueness 50–100µm)이나 전악·무치악 오차 누적(50–200µm), 무치악은 기공실 스캐너·전통 인상 우선.
+
+CAIS: 즉시식립·심미·다중 임플란트에서 dynamic/full-static이 freehand 우위(Schiavon 2025 SR+NMA, 7 RCT, 338 임플란트); AI 진단은 우식 검출 ≈95%·임플란트 종류 인식 93.8–98%·골유착 예측 AUC 0.924–1.000 — 모두 진단·교육 보조 단계, 자율 치료 결정 불가.
+
+LLM 치과 응답 정확도 ≈82%·임상 수용 ≈70%(Zhang 2025 SR+MA, 25편); 환자 지침 초안 작성 후 술자 검토 필수·직접 환자 제공 금지·환자 식별정보 입력 절대 금지(HIPAA·개인정보보호법).
+
+## 세줄요약
 
 디지털 치의학 4축 — 구강내 스캐너 (IOS) 정확도·컴퓨터지원 임플란트 외과 (CAIS)·AI 임상 적용·LLM/ChatGPT 환자 응답. Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 

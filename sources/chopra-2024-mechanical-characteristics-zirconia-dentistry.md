@@ -13,13 +13,21 @@ source_collection: external
 
 Comprehensive mechanical review of dental zirconia — covers fatigue, fracture toughness, low-temperature degradation (LTD), transformation toughening, wear, and surface modification. Serves as the foundational reference for all zirconia mechanical-properties discussions in the wiki. Extends and reinforces [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] by providing deep-dive biomechanical detail absent from that broader ceramic overview.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of zirconia's mechanical performance in dentistry, covering flexural strength, fracture toughness, fatigue, wear, LTD, and surface modification strategies for next-generation restorations and implants.
+Narrative review (University of Queensland; Dental Materials 2024) synthesizing zirconia's mechanical properties — flexural strength, fracture toughness, fatigue, wear, low-temperature degradation (LTD), and macro/nano surface modification — across dental prostheses and implants (3Y/4Y/5Y-TZP, ZTA, ATZ composites).
 
-## 한줄요약
+3Y-TZP shows flexural strength 900–1200 MPa and KIc ~5–10 MPa·m^0.5 via transformation toughening; LTD (moisture-induced t→m phase transformation) reduces long-term reliability; surface modifications (acid etching, sandblasting, UV, nanostructures) improve osseointegration without compromising bulk strength; monolithic zirconia may cause increased enamel wear on opposing teeth.
 
-치과용 지르코니아의 굴곡강도·파절인성·피로·마모·LTD 및 표면개질을 종합 고찰한 서술적 문헌 고찰로, 차세대 보철물·임플란트 설계 방향을 제시한다.
+Narrative design is susceptible to selection bias; most fatigue data are in vitro; LTD behavior of newer 4Y/5Y-PSZ materials is less well characterized than 3Y-TZP; long-term clinical fatigue data remain insufficient.
+
+## 세줄요약
+
+서술적 문헌 고찰(퀸즐랜드 대학; Dental Materials 2024): 치과용 지르코니아의 굴곡강도·파절인성·피로·마모·저온열화(Low-Temperature Degradation, LTD)·표면개질 종합 고찰(3Y/4Y/5Y-TZP, ZTA, ATZ 복합 소재; 보철물·임플란트).
+
+3Y-TZP 굴곡강도 900–1200 MPa·파절인성(Fracture Toughness, KIc) ~5–10 MPa·m^0.5(변태강화 기전); LTD(습식 구강환경 t→m 상변태)로 장기 신뢰성 저하; 표면개질(산에칭·샌드블라스팅·UV·나노구조)로 벌크 강도 손상 없이 골유착 향상; 단일블록 지르코니아는 대합치 법랑질 마모 가능성.
+
+서술적 고찰 특성상 선택편향 취약; 대부분 피로 데이터 in vitro; 4Y/5Y-PSZ의 LTD 거동 미충분 특성화; 장기 임상 피로 데이터 부족.
 
 ## 1. Document Information
 

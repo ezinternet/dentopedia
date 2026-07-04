@@ -13,11 +13,21 @@ source_collection: external
 tags: [bone-drilling, thermal-necrosis, drill-geometry, osseodensification-rationale, biomechanics]
 ---
 
-## One-line Summary
-Orthopaedic engineering book chapter (narrative review) on the biomechanics of bone drilling, consolidating the time–temperature osteonecrosis thresholds (47 °C/1 min, 50 °C/30 s, 56 °C) that underpin all irrigation and drill-sequencing protocols; provides the thermodynamic rationale for implant osteotomy cooling and compaction (osseodensification) drilling, though most data derive from large-diameter orthopaedic drills rather than dental implant burs.
+## Three-line Summary
 
-## 한줄요약
-정형외과 공학 단행본 챕터 (narrative review) — 골 (bone) 드릴링 시 열에너지 변환 메커니즘과 골괴사 (Osteonecrosis) 임계값 (47°C/1분, 50°C/30초, 56°C 이상)을 정리; 임플란트 골삭제 (osteotomy) 시 관주 (irrigation)·전진속도 (feed-rate)·버 (bur) 기하학 설계 근거의 기초 자료. 임상 적용 한계: 치과 임플란트(2–6 mm 직경, 50–1500 rpm)가 아닌 정형외과 큰 직경 드릴 데이터가 다수이므로 직접 외삽 시 주의.
+Orthopaedic engineering book chapter (narrative review; UNSW Sydney, 2011) synthesizing three decades of bone-drilling literature across orthopaedics, neurosurgery, craniomaxillofacial, and ENT surgery — no original experimental data presented.
+
+The chapter codifies the classic time–temperature osteonecrosis thresholds — 47 °C sustained for 1 minute reduces bone regenerative capacity, 50 °C for 30 s causes cellular necrosis, 56 °C produces frank osteonecrosis — and documents that uncooled cortical drilling routinely exceeds 100 °C, establishing the physical case for mandatory irrigation and careful drill-sequencing.
+
+Clinical translation to dental implants is plausible but limited: most data derive from large-diameter orthopaedic drills rather than dental implant burs (2–6 mm diameter, 50–1500 rpm); this chapter provides the thermodynamic rationale for osseodensification's compaction approach (displacing rather than cutting bone).
+
+## 세줄요약
+
+정형외과 공학 단행본 챕터(Narrative Review; UNSW 시드니, 2011) — 정형외과·신경외과·악안면·이비인후과에 걸친 30년 골 드릴링(Bone Drilling) 문헌 종합; 자체 실험 데이터 없음.
+
+골괴사(Osteonecrosis) 임계값 확립 — 47°C/1분(골 재생능 저하)·50°C/30초(세포 괴사)·56°C(골괴사); 비관주 피질골 드릴링은 100°C 초과 일상적 — 필수 관주(Irrigation) 및 드릴 순서 배열(Drill Sequencing)의 물리적 근거 제시.
+
+치과 임플란트 직접 적용 한계: 데이터 대부분이 정형외과용 대직경 드릴 기반(치과 임플란트 버 2–6mm·50–1500 rpm과 상이); 골밀도화(Osseodensification) 방식(절삭 대신 압축)의 열발생 회피 이론적 근거를 제공.
 
 ## Summary
 This 2011 chapter from Bertollo and Walsh (UNSW Sydney's Surgical and Orthopaedic Research Laboratories) is a foundational reference on the biomechanics of bone drilling. Although written for an orthopaedic audience covering joint arthroplasty and fracture fixation, the physical principles transfer directly to dental implant osteotomy: any rotating drill bit converts mechanical work energy into thermal energy at the cutting face, and the resulting temperature spike — if above species- and exposure-dependent thresholds — produces osteonecrosis that compromises healing.

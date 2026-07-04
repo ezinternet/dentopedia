@@ -13,13 +13,21 @@ source_collection: external
 
 The versah-protocols category needed a direct head-to-head comparison of the reference Densah®/Versah kit against a Brazilian-made competitor (Bone Reamer Drills®/WF) on the same outcome measures (insertion torque, removal torque, ISQ, temperature, SEM). This ex vivo study fills the gap and extends [[wiki/implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] by adding a second densification system into the comparison and qualifying *which* outcome metric (torque vs ISQ) actually separates osseodensification from conventional drilling in type IV bone.
 
-## One-line Summary
+## Three-line Summary
 
-Paired ex vivo study (n=16 bovine rib blocks, 48 osteotomies) found both osseodensification kits (Densah®/Versah and Bone Reamer Drills®/WF) produced significantly higher insertion and removal torque than conventional drilling in type IV bone, while ISQ and heat generation did not differ significantly.
+Paired ex vivo study (16 bovine rib blocks, 48 osteotomies, 3 groups: conventional drilling, Densah®/Versah osseodensification, Bone Reamer Drills®/WF osseodensification) comparing primary stability metrics and heat generation in type IV bone.
 
-## 한줄요약
+Both osseodensification kits produced significantly higher insertion torque (G1: 61.25 Ncm vs G2: 77.62 vs G3: 95.25; overall p=0.007) and removal torque (p=0.008) than conventional drilling, while ISQ (all ~79–82, p=0.157) and maximum temperature (all <31°C, p=0.087) did not differ significantly between groups.
 
-소 늑골 블록(n=16)을 이용한 ex vivo 쌍대 비교 연구에서 골밀도화 (Osseodensification, OD) 두 키트(Densah®/Versah, Bone Reamer Drills®/WF) 모두 기존 드릴링 대비 삽입·제거 토크가 유의하게 높았으나, 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 및 온도는 세 군 간 유의한 차이 없었음.
+Osseodensification improves primary stability measured by torque but not by resonance frequency analysis (ISQ) in type IV bone — torque and ISQ measure different aspects of primary stability and should not be used interchangeably when comparing protocols.
+
+## 세줄요약
+
+Ex vivo 쌍대 비교(소 늑골 블록 16개, 골절개와 48개, 3군: 기존 드릴링, Densah®/Versah 골밀도화[Osseodensification, OD], Bone Reamer Drills®/WF OD): 제4형(Type IV) 골에서 일차 안정성 지표와 온도 비교.
+
+두 OD 키트 모두 기존 드릴링 대비 삽입 토크(61.25 vs 77.62 vs 95.25 Ncm, p=0.007)·제거 토크(p=0.008) 유의 증가; 임플란트 안정성 지수(Implant Stability Quotient, ISQ)(~79–82, p=0.157)·최고 온도(<31°C, p=0.087)는 세 군 간 유의차 없음.
+
+OD는 토크 기준 일차 안정성을 향상하나 공명주파수분석(RFA/ISQ)에서는 차이 없음 — 토크와 ISQ는 일차 안정성의 서로 다른 측면을 측정하므로 프로토콜 비교 시 혼용 금지.
 
 ## 1. Document Information
 

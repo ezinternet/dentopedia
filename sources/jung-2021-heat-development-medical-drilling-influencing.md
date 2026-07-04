@@ -9,7 +9,7 @@ pdf_filename: jung-2021-heat-development-medical-drilling-influencing.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Mini-review (in vivo 2021, 35:3011–3017) categorizing internal (drill properties, parameters) and external (cooling, irrigation, bone) factors influencing heat development during medical/dental drilling, plus a discussion of standardized ex vivo measurement methods to reduce animal experimentation.
 
 ## 1. Document Information

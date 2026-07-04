@@ -13,13 +13,21 @@ source_collection: external
 
 This SR + network meta-analysis (J Dent 2026) ranks toothpaste active agents — high-concentration sodium fluoride (5000 ppm), arginine+fluoride, and bioactive calcium/phosphate (CaSO4 + NH4H2PO4) systems — for arresting and reversing root caries, giving clinically actionable first-line non-invasive guidance for high-risk (often geriatric) patients. It extends [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]], which already established 5000 ppm F toothpaste, CHX varnish, and SDF as superior lesion-arresting agents, by pooling newer bioactive and arginine formulations head-to-head against standard 1450 ppm NaF via network meta-analysis.
 
-## One-line Summary
+## Three-line Summary
 
-SR + network meta-analysis (Cochrane, 9 databases; 13 in vitro + 3 in situ + 12 clinical studies): high-concentration sodium fluoride toothpaste (5000 ppm) most effectively reduces root-caries lesion depth, hardens lesions, and prevents new caries — bioactive Ca/P and arginine+fluoride pastes are alternatives, while standard 1450 ppm NaF may be insufficient in high-risk patients.
+SR + network meta-analysis (9 databases, PROSPERO CRD42024512171; 28 studies — 13 in vitro, 3 in situ, 12 clinical) ranking toothpaste active agents for root-caries management in adults, including 5000 ppm NaF, bioactive Ca/P, arginine+fluoride, stannous/amine fluoride, and standard 1450 ppm NaF.
 
-## 한줄요약
+High-concentration NaF (5000 ppm) ranked first in the NMA for lesion hardening (RR 2.55, 95% CI 1.68–3.86) and prevention of new lesions; bioactive Ca/P ranked second (RR 1.81, CI 1.39–2.36); standard 1450 ppm NaF may be insufficient for active root caries in high-risk patients; all GRADE evidence was low quality.
 
-SR + 네트워크 메타분석 (Cochrane, 9개 DB; in vitro 13 + in situ 3 + 임상 12편): 고농도 불화나트륨 치약(5000 ppm)이 치근우식 병변 깊이 감소·경화·신규 우식 예방에 가장 효과적 — 생활성 칼슘/인산 및 아르기닌+불소 치약은 대안, 표준 1450 ppm NaF는 고위험 환자에서 불충분할 수 있음.
+Clinically, 5000 ppm NaF is the preferred first-line toothpaste for root-caries arrest in high-risk adults; the NMA has a star-shaped topology (only indirect comparisons) and high heterogeneity (I²=93–97%), limiting confidence in rank ordering.
+
+## 세줄요약
+
+SR + 네트워크 메타분석(9개 DB, PROSPERO CRD42024512171; 28편 — in vitro 13, in situ 3, 임상 12): 5000 ppm NaF, 생활성 Ca/P, 아르기닌+불소, 주석/아민불소, 표준 1450 ppm NaF를 치근우식 관리 효과로 순위화.
+
+NMA에서 고농도 NaF(5000 ppm)가 병변 경화(RR 2.55, CI 1.68–3.86) 및 신규 우식 예방에서 1위; 생활성 Ca/P 2위(RR 1.81, CI 1.39–2.36); 표준 1450 ppm NaF는 고위험 환자에서 불충분할 수 있음; 모든 GRADE 근거는 낮음(low quality).
+
+임상 적용: 고위험 성인의 치근우식 억제에 5000 ppm NaF 치약이 1차 선택; 단, NMA가 별형 위상(간접 비교만 포함)이고 이질성이 높아(I²=93–97%) 순위에 대한 신뢰도는 제한적.
 
 ## 1. Document Information
 

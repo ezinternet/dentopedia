@@ -14,11 +14,21 @@ source_collection: external
 tags: [ibuprofen, NSAIDs, pharmacology, COX-inhibitor, OTC, safety, anti-inflammatory, comprehensive-review, Rainsford]
 ---
 
-## One-line Summary
-Comprehensive 68-page narrative review (Inflammopharmacology 2009, Rainsford, 571+ citations): ibuprofen pharmacology, efficacy, and safety — OTC dose (800–1,200 mg/day) comparably safe to paracetamol; prescription dose (1,800–2,400 mg/day) for chronic rheumatic indications; mechanism via COX-1/COX-2-mediated prostanoid reduction.
+## Three-line Summary
 
-## 한줄요약
-Inflammopharmacology 2009 종합 review (68pp, Rainsford, 571+ 인용): ibuprofen 약리·임상효과·안전성 — OTC 용량 (800-1,200mg/day)에서 paracetamol 비견 가능한 안전; 처방 용량 (1,800-2,400mg/day) 만성 류마틱 indication; COX-1/COX-2 매개 prostanoid 감소 기전.
+Comprehensive narrative review (68 pages, 571+ citations, Inflammopharmacology 2009) covering the pharmacology, clinical efficacy, and safety of ibuprofen across its full dose range — the foundational reference for its modern clinical positioning.
+
+OTC dose range (800–1,200 mg/day) has a safety profile comparable to paracetamol; prescription range (1,800–2,400 mg/day) is indicated for chronic rheumatic disease with higher GI/CV monitoring; mechanism is dose-dependent COX-1/COX-2 inhibition reducing prostanoid production.
+
+The OTC vs prescription dose-safety dichotomy established here underpins the dental prescribing model of 400 mg q6h (1,600 mg/day) — between the two ranges, within the well-tolerated zone for short-course use.
+
+## 세줄요약
+
+종합 서술적 고찰 (68쪽, 571+ 인용, Inflammopharmacology 2009): 이부프로펜의 약리·임상 효과·안전성 전범위 정리, 현재 임상 적용의 기초 문헌.
+
+OTC 용량(800–1,200 mg/일)은 파라세타몰에 비견되는 안전성; 처방 용량(1,800–2,400 mg/일)은 만성 류마틱 질환 적응증으로 GI·CV 모니터링 필요; 기전은 COX-1/COX-2 억제에 의한 프로스타노이드 감소.
+
+이 OTC vs 처방 용량-안전성 이분법이 치과용 400 mg q6h (1,600 mg/일) 처방 모델의 토대 — 두 범위 사이에서 단기 사용에 충분히 안전한 용량.
 
 ## Summary
 Comprehensive narrative review (68 pages) covering the pharmacology, clinical efficacy, and safety profile of ibuprofen. Considered a foundational reference for the drug's modern clinical positioning. Distinguishes the OTC dose range (800-1,200mg/day daily total) — which has a safety profile comparable to paracetamol — from the prescription dose range (1,800-2,400mg/day daily total) used in chronic rheumatic disease.

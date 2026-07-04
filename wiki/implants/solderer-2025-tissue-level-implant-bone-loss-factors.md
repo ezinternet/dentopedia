@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective cohort (University of Zurich, tissue-level implants; n=106 implants at 1yr, 59 at 3yr): mean marginal bone loss (MBL) was 0.93 mm at 1 year and 1.04 mm at 3 years, with smoking and jaw of treatment significantly associated with greater bone loss, while age, sex, and periodontitis history were not significant predictors (elastic net regression).
+## Three-line Summary
 
-## 한줄요약
-후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
+Retrospective cohort (University of Zurich, 2006–2020) of tissue-level implants with screw-retained posterior restorations and no simultaneous augmentation; n=106 implants analyzed at 1 year and 59 at 3 years using elastic net regression.
+
+Mean marginal bone loss (MBL) was 0.93 ± 0.83 mm at 1 year and 1.04 ± 0.97 mm at 3 years; smoking and jaw of treatment were significantly associated with greater bone loss, while age, sex, and periodontitis history were not significant predictors.
+
+Smoking cessation and jaw-specific considerations are clinically relevant for managing tissue-level implant bone loss; the retrospective design with substantial attrition (106 → 59 implants) limits long-term inference.
+
+## 세줄요약
+
+후향적 코호트 (취리히대, 2006–2020, 조직수준 임플란트, 나사유지 후방 보철, 동시 증대술 제외; n=106/1년, 59/3년) — elastic net 회귀분석으로 MBL 예측 인자 분석.
+
+MBL 1년 0.93 ± 0.83 mm, 3년 1.04 ± 0.97 mm; 흡연·치료 악궁이 골소실과 유의하게 연관, 나이·성별·치주염 병력은 유의 인자 아님.
+
+금연 및 악궁별 고려가 조직수준 임플란트 골소실 관리에 임상적으로 중요; 후향적 설계와 상당한 탈락(106 → 59)으로 장기 추론 제한.
 
 ## Summary
 Retrospective cohort (University of Zurich, 2006–2020) assessing biological and host factors affecting radiographic bone loss around tissue-level implants. 1479 patients screened; 106 implants at T1 (1yr), 59 at T2 (3yr). Mean MBL 0.93 mm at 1yr and 1.04 mm at 3yr. Smoking status and jaw of treatment were significantly associated with bone loss.

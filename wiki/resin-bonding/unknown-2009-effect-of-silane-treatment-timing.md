@@ -14,11 +14,21 @@ tags: [silane-coupling-agent, saliva-contamination, ceramic-resin-cement, adhesi
 ---
 
 
-## One-line Summary
-In vitro bond-strength study showing saliva contamination of a silane-treated ceramic surface for more than 1 second significantly reduces ceramic–resin cement bond strength (p<0.05); pre-try-in silane application, or recleaning plus silane reapplication after contamination under rubber-dam isolation, is required to protect the bond.
+## Three-line Summary
 
-## 한줄요약
-타액 노출 1초 이상 → 세라믹-레진 결합강도 유의 감소(p<0.05); 시적 전 실란 도포 또는 오염 후 재도포 + 러버댐 차단 필수
+In vitro bond-strength study (2009) evaluating the effect of silane treatment timing and saliva contamination on ceramic–resin cement bond strength.
+
+Saliva contamination of a silane-treated ceramic surface for more than 1 second significantly reduced bond strength (p<0.05); even brief intraoral exposure compromises the ceramic-resin interface.
+
+Pre-try-in silane application is preferred; if contamination occurs, thorough recleaning plus silane reapplication under rubber-dam isolation is required before final cementation.
+
+## 세줄요약
+
+실란(silane) 처리 시기 및 타액 오염이 도재-레진 시멘트 결합강도에 미치는 영향을 평가한 in vitro 결합강도 연구(2009).
+
+실란 처리된 세라믹 표면이 1초 이상 타액에 노출되면 결합강도가 유의하게 감소하였다(p<0.05); 짧은 시적 중 타액 접촉도 계면을 손상시킨다.
+
+시적 전 실란 도포가 이상적이며, 오염이 발생한 경우 철저한 세정과 러버댐 격리 하 실란 재도포 후 최종 접착을 시행해야 한다.
 
 # Silane Application Timing and Saliva Contamination: Bond Strength Impact
 

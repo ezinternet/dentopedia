@@ -9,7 +9,7 @@ pdf_filename: worthington-2021-composite-vs-amalgam-cochrane-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 구치부 영구치 직접 복합레진 vs 아말감 수복 비교 코크란 리뷰: 생존율, 이차우식, 환자 선호.
 
 ## 1. Document Information

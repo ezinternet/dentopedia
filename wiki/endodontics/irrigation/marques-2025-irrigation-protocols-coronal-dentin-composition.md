@@ -23,13 +23,21 @@ relations:
     target: agarwal-2024-irrigating-solutions-dentin-microhardness-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (25 human third molars, 5 groups) quantifying native coronal dentin composition and how four clinical endodontic irrigation protocols (NaOCl; NaOCl/EDTA; NaOCl/EDTA/CHX; NaOCl/HEDP) alter its organic (collagen/amide), inorganic (phosphate/carbonate apatite, Ca/P), elemental, and ultrastructural (tubule/smear-layer) makeup via Raman, ATR-FTIR, EDS, and SEM.
+In vitro study (25 human third molars, 5 groups) using confocal Raman mapping, ATR-FTIR, EDS elemental analysis, and SEM to quantify native coronal dentin composition and characterize how four clinical endodontic irrigation protocols alter its organic (collagen/amide), inorganic (phosphate/carbonate apatite, Ca/P), and ultrastructural (tubule/smear-layer) makeup — the first Raman-imaging characterization of post-irrigation coronal dentin.
 
-## 한줄요약
+3% NaOCl alone deproteinizes dentin into a collagen-depleted, hypermineralized "ghost mineral" surface (amide II from 20.39 → 1.67, phosphate 8-fold higher); EDTA-containing sequences re-expose collagen and open tubules but disturb the native Ca/P ratio (1.87 → 1.99); NaOCl/HEDP continuous chelation preserves native Ca/P (1.87) but yields the roughest surface.
 
-사람 관상 상아질의 표준 성분 구성(유기 20wt%·무기 70wt%·수분, 유기의 90%가 제1형 콜라겐)을 정량하고, 4가지 임상 근관세정 프로토콜이 콜라겐·인산/탄산 아파타이트·Ca/P·상아세관/smear layer 성분·구조를 어떻게 바꾸는지 Raman·FTIR·EDS·SEM으로 특성화한 in vitro 연구.
+Because coronal dentin is the primary adhesive substrate, these irrigant-induced compositional shifts — altered collagen network, mineral content, Ca/P ratio, and smear-layer pattern — have direct implications for the bonding integrity of the final restoration, even though the irrigation protocols themselves are necessary for disinfection.
+
+## 세줄요약
+
+사람 관상 상아질의 표준 성분(유기 20wt%·무기 70wt%)을 기준값으로 삼고 4가지 임상 세정 프로토콜의 영향을 공초점 라만·FTIR·EDS·SEM으로 규명한 in vitro 연구(25개 제3대구치, 5군) — 관상 상아질 세정 후 라만 이미징 최초 적용.
+
+NaOCl 3%는 유기질을 선택 분해해 아미드 신호 급감(20.39→1.67)·무기질 과대('유령 광물층') 형성; EDTA 계열은 콜라겐 재노출·상아세관 개방하나 Ca/P 비율 교란(1.87→1.99); NaOCl/HEDP 연속 킬레이션은 Ca/P 보존(1.87)이나 표면 조도 최고.
+
+근관 세정 프로토콜이 만드는 상아질 조성 변화(콜라겐·무기질·Ca/P·스미어층 패턴)는 최종 수복물 접착에 직결 — 세정은 필수이나 접착 기질 변형을 인식하고 접착 전략을 조율해야 함.
 
 ## Summary
 

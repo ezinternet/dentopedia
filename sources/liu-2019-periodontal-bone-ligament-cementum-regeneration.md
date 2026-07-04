@@ -17,13 +17,23 @@ text_filename: liu-2019-periodontal-bone-ligament-cementum-regeneration.txt
 
 치주인대(PDL) 재생은 [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]의 GTR/EMD 임상 재생 근거를 생물학적으로 지탱하는 기저 메커니즘이나, 위키에는 bone-PDL-cementum 복합체를 동시 재생하는 공학적 접근 전체를 조망하는 페이지가 없었다. 본 SR은 줄기세포·3D 바이오프린팅·유전자치료·층별 생체모방 재료를 망라하여 [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]]의 PDLSC 분자기전 연구를 임상적 재생공학 맥락으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review of stem cell- and scaffold-based strategies (3D bioprinting, gene therapy, layered biomimetics) for simultaneous bone–PDL–cementum complex regeneration in periodontitis.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 치주염에서 뼈–치주인대–백악질 복합체의 동시 재생을 위한 줄기세포·3D 바이오프린팅·유전자치료·층별 생체모방 전략을 망라한 체계적 고찰.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

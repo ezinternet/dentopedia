@@ -13,13 +13,23 @@ source_collection: external
 
 The crown-prep geometry hub [[overviews/crown-preparation-geometry-convergence-resistance-retention]] is built largely on TOC/retention in-vitro studies; it needed the canonical narrative-review that distills the whole scientific basis into a numbered guideline set (TOC, O-C dimension, O-C:F-L ratio, auxiliary features, finish lines). This Goodacre 2001 review is the most-cited synthesis of complete-coverage prep principles and anchors the historic-to-evidence transition that [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] later quantified.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (J Prosthet Dent 2001;85:363-376; 250 yr history, last 50 yr MEDLINE+manual): nine scientific principles for complete-crown preparation — 10-20° TOC, ≥4 mm occlusocervical for molars (3 mm others), occlusocervical-to-faciolingual ratio ≥0.4, preserved line angles, and auxiliary resistance (grooves/boxes) when dimensions are deficient.
 
-## 한줄요약
+Narrative review (J Prosthet Dent 2001;85:363-376;
 
-narrative-review (J Prosthet Dent 2001;85:363-376; 250년 역사·최근 50년 MEDLINE+수기검색): 완전피개 치관 prep의 과학적 9원칙 — TOC 10-20°, 대구치 교합-치경 높이 ≥4 mm(기타치 3 mm), 교합-치경:협-설 비율 ≥0.4, line angle 보존, 높이 부족 시 보조 저항형태(groove/box) 추가. taper·finish line·교합삭제 가이드라인의 고전적 종합.
+250 yr history, last 50 yr MEDLINE+manual): nine scientific principles for complete-crown preparation — 10-20° TOC, ≥4 mm occlusocervical for molars (3 mm others), occlusocervical-to-faciolingual ratio ≥0.4, preserved line angles, and auxiliary resistance (grooves/boxes) when dimensions are deficient.
+
+(incomplete)
+
+## 세줄요약
+
+
+narrative-review (J Prosthet Dent 2001;85:363-376;
+
+250년 역사·최근 50년 MEDLINE+수기검색): 완전피개 치관 prep의 과학적 9원칙 — TOC 10-20°, 대구치 교합-치경 높이 ≥4 mm(기타치 3 mm), 교합-치경:협-설 비율 ≥0.4, line angle 보존, 높이 부족 시 보조 저항형태(groove/box) 추가.
+
+taper·finish line·교합삭제 가이드라인의 고전적 종합.
 
 ## 1. Document Information
 

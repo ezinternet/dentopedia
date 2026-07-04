@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Prospective single-arm pilot study (n=12) of an inverted body-shift implant design with a 12-degree angled platform for immediate placement plus provisionalization in the esthetic zone; 100% survival with favorable trajectory control, establishing proof-of-concept for angle-corrective macro-design ahead of a formal RCT.
+## Three-line Summary
 
-## 한줄요약
-12명 파일럿: 12° angled platform의 inverted body-shift 임플란트 디자인이 esthetic 영역 즉시식립에서 protrusion 위험을 줄이는 macro-design 옵션 — 정식 RCT는 후속.
+Prospective single-arm pilot study (n=12) of an inverted body-shift implant design with a 12° angled platform used for immediate esthetic-zone placement plus immediate provisionalization.
+
+Survival was 100% with favorable trajectory control and a satisfactory provisional emergence profile; no comparator was included.
+
+This proof-of-concept establishes the angle-corrective macro-design as a candidate for reducing facial protrusion risk in esthetic-zone immediate implants, pending a formal RCT comparison.
+
+## 세줄요약
+
+전향적 단일군 파일럿(n=12) — 12° angled platform의 inverted body-shift 임플란트 디자인으로 심미부 즉시식립+즉시 임시수복 시행.
+
+생존율 100%, 궤적 제어 양호, 만족스러운 임시 출현 윤곽 확인; 대조군 없음.
+
+이 proof-of-concept는 각도 교정 거시설계가 심미부 즉시식립의 협측 돌출 위험을 줄이는 후보임을 제시하며, 정식 RCT로 검증 필요.
 
 ## Summary
 Prospective clinical pilot study of an inverted body-shift implant design with a 12-degree angled platform for immediate placement in the esthetic zone.

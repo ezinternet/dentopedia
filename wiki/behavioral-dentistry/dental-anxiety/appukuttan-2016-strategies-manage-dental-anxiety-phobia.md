@@ -22,13 +22,21 @@ relations:
 tags: [dental-anxiety, dental-phobia, cbt, sedation, behavior-management]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Adult-focused narrative literature review giving a stepwise dental-anxiety framework: identify (semistructured interview + validated scales CDAS/MDAS/DFS + objective physiologic measures) → manage psychotherapeutically (behavioral/cognitive, with CBT the most-supported) → escalate to pharmacology (sedation/GA) per anxiety severity.
+Adult-focused narrative literature review (non-systematic) organizing dental anxiety/phobia management into a two-stage clinical framework: identification (semistructured interview + validated scales CDAS/MDAS/DFS + objective physiologic measures including galvanic skin response) followed by severity-matched treatment.
 
-## 한줄요약
+CBT is presented as the most accepted and successful psychological treatment; the pharmacological escalation ladder (minimal anxiolysis → conscious sedation → deep sedation → GA) is gated by the IOS tool and ASA status, with conscious-sedation routes covering N₂O, oral benzodiazepines, and IV titration.
 
-성인 중심 서술형 종설: 치과불안을 면담·검증된 자가보고 척도(CDAS/MDAS/DFS)·객관적 생리지표로 식별하고, 불안 정도에 맞춰 심리치료(행동/인지, CBT가 가장 근거 우세)에서 약물(진정/전신마취)로 단계적으로 올라가는 의사결정 틀을 제시한 종설.
+Psychological interventions are slower to work but produce durable anxiety reduction and better long-term return for care compared to pharmacology, which is effective short-term only and rated less acceptable by patients — making psychotherapy the first-line choice and pharmacology the escalation or adjunct.
+
+## 세줄요약
+
+성인 대상 비체계적 서술 종설 — 치과불안·치과공포 관리를 2단계(식별 → 중증도 맞춤 치료)로 조직: 면담+검증 척도(CDAS/MDAS/DFS)+생리지표(피부전기반응 포함)로 분류 후 치료 선택.
+
+CBT가 가장 근거 있는 심리치료; 약물 단계는 IOS 도구·ASA 기준으로 조절(최소 불안 완화 → 의식하 진정 N₂O·경구 벤조다이아제핀·IV → 심진정 → 전신마취).
+
+심리치료는 효과 발현이 느리지만 지속적 불안 감소·재내원률 향상; 약물은 단기 효과·환자 수용도 낮아 심리치료 우선, 약물은 보조·단계 상향 수단.
 
 ## Summary
 

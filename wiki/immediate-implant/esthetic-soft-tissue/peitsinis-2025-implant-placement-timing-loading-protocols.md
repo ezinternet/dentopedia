@@ -13,11 +13,21 @@ source_collection: external
 tags: [implant-timing, immediate-implant, early-implant, delayed-implant, loading-protocol, survival-rate, esthetic-complication]
 ---
 
-## One-line Summary
-Narrative review (JCM 2025, Aristotle University; 9,774 articles screened) comparing immediate (survival 93.8–100%), early, and delayed implant placement timing plus loading protocols: immediate placement carries the highest esthetic risk and delayed the lowest, with no single superior timing — patient selection determines outcomes.
+## Three-line Summary
 
-## 한줄요약
-narrative-review(JCM 2025, Aristotle U): 즉시(93.8-100%)·조기·지연 식립 타이밍 + 부하 프로토콜 비교 — 즉시는 최고 심미위험; 엄격한 환자선택이 결과 결정; 단일 최우수 타이밍 없음.
+Narrative literature review (JCM 2025, Aristotle University of Thessaloniki; 9,774 articles screened) comparing immediate (Type 1), early (Type 2/3), and delayed (Type 4) implant placement timing and loading protocols across survival, success, complications, and patient-reported outcomes.
+
+Immediate placement survival ranged 93.8–100% with the highest esthetic risk (gingival recession, implant exposure); delayed placement was the most predictable with lowest esthetic risk; early placement fell in between; no single timing is universally superior.
+
+Patient selection criteria — not timing per se — determine outcomes, particularly in the esthetic zone; immediate loading is viable when primary stability thresholds are met but is not universally applicable.
+
+## 세줄요약
+
+서술적 문헌 검토(JCM 2025, 아리스토텔레스대; 9,774편 검색) — 즉시(Type 1)·조기(Type 2/3)·지연(Type 4) 식립 타이밍 및 부하 프로토콜 비교, 생존율·성공률·합병증·환자보고결과 평가.
+
+즉시식립 생존율 93.8~100%이나 심미 위험(치은퇴축·임플란트 노출) 가장 높음; 지연식립은 가장 예측 가능하고 심미 위험 최저; 조기식립은 중간; 단일 최우수 타이밍 없음.
+
+환자 선택 기준이 타이밍 자체보다 결과를 결정함 — 특히 심미부에서; 즉시부하는 초기 안정성 기준 충족 시 가능하나 보편적으로 적용 불가.
 
 ## Summary
 Narrative literature review (Aristotle University of Thessaloniki, JCM 2025) comparing immediate, early, and delayed dental implant placement timing, and evaluating loading protocols. No single superior timing exists — patient selection criteria determine outcomes, particularly in esthetic zones.

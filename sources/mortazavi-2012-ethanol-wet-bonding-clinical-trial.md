@@ -11,7 +11,7 @@ pdf_filename: mortazavi-2012-ethanol-wet-bonding-clinical-trial.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (36 NCCLs, 12 patients, 12 months): ethanol wet bonding, OptiBond FL (etch-and-rinse), Clearfil SE Bond — all 100% retention at 6mo; ethanol wet group 91.67% at 12mo; no significant difference between groups (p=0.358).
 
 ## 1. Document Information

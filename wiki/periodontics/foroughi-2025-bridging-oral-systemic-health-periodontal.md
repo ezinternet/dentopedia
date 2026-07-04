@@ -22,13 +22,21 @@ relations:
     target: hajishengallis-2014-porphyromonas-gingivalis-host-manipulation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review synthesizing periodontal–systemic links (CVD, diabetes, adverse pregnancy, Alzheimer's, cancer, RA, respiratory) and the saliva/blood/GCF biomarker panel (IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, microbial DNA), arguing for AI-integrated multiplex point-of-care platforms (lateral flow, biosensors, microfluidics/lab-on-a-chip) for earlier detection and personalized systemic risk stratification.
+Narrative review (PubMed/Scopus/Google Scholar synthesis) mapping periodontal disease's systemic associations across seven conditions — CVD, diabetes, adverse pregnancy, Alzheimer's, GI/oral cancer, rheumatoid arthritis, respiratory infection — and the diagnostic-technology landscape for chairside biomarker detection.
 
-## 한줄요약
+Key biomarker compartments: saliva (IL-1β, TNF-α, MMPs, microbial DNA), blood (CRP, IL-6, AGEs), and GCF (RANKL:OPG, MMP-8/-9); pooled estimates from cited literature include 12% higher CHD risk, 3× respiratory pneumonia risk, and GI cancer risk elevations of +9–39%.
 
-내러티브 리뷰 — 치주–전신 연관성(심혈관·당뇨·임신 부작용·알츠하이머·암·류마티스관절염·호흡기)과 타액/혈액/치은열구액(GCF) 바이오마커 패널(IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, 미생물 DNA)을 종합하고, 조기 검출·개인 맞춤 전신위험 층화를 위해 AI 통합 멀티플렉스 현장검사(POC) 플랫폼(측방유동검사, 바이오센서, 미세유체)을 제안.
+AI-integrated multiplex point-of-care platforms (lateral flow assays, microfluidics/lab-on-a-chip, biosensors) are proposed for comprehensive early chairside risk stratification, but these associations remain observational and causation is unproven; no cut-offs are standardized for oral-fluid biomarkers.
+
+## 세줄요약
+
+내러티브 리뷰: 치주질환의 전신 연관성(심혈관질환, 당뇨, 임신 부작용, 알츠하이머, 소화기/구강암, 류마티스관절염, 호흡기 감염)과 진단기술 현황을 정리.
+
+주요 바이오마커 구획: 타액(IL-1β, TNF-α, MMP, 미생물 DNA), 혈액(CRP, IL-6, AGE), 치은열구액(GCF)(RANKL:OPG, MMP-8/-9); 인용 문헌에서 관상동맥질환 위험 +12%, 폐렴 위험 3배, 소화기암 위험 +9–39%.
+
+AI 통합 멀티플렉스 현장검사(POC, 측방유동·미세유체·바이오센서)로 조기 의자 옆 위험 층화가 제안되나, 연관성은 관찰 수준이고 인과관계 미입증, 구강액 바이오마커 기준치 미표준화.
 
 ## Summary
 

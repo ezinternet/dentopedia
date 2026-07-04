@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-CBCT cross-sectional study extending sagittal root position (SRP) classification to both maxillary AND mandibular anterior teeth — a rare combined dataset that quantifies Kan-style SRP class distributions, with implications for trajectory planning in the less-studied mandibular esthetic-zone immediate implant placement (IIP).
+## Three-line Summary
 
-## 한줄요약
-SRP 평가를 mandibular anterior까지 확장한 CBCT 단면 — 하악 전치에서도 Kan-style class 분포를 정량, 하악 IIP 계획에 시사점.
+CBCT cross-sectional study (Diagnostics 2024) extending sagittal root position (SRP) classification to both maxillary and mandibular anterior teeth in a Kurdish-Iraqi population, quantifying Kan-style SRP class distributions for both arches.
+
+Mandibular anterior teeth exhibited distinct SRP class patterns compared to maxillary, with implications for trajectory and positional planning in esthetic-zone immediate implant placement.
+
+One of the few datasets explicitly applying SRP classification to mandibular anterior teeth; anatomy-only single-population design limits direct clinical extrapolation.
+
+## 세줄요약
+
+CBCT 단면연구 (Diagnostics 2024): 상악뿐 아니라 하악 전치부까지 Kan 방식 시상 치근 위치(Sagittal Root Position, SRP) 분류를 확장한 드문 이중악 데이터셋.
+
+하악 전치는 상악과 다른 SRP 분포를 보여, 하악 전치부 즉시식립(Immediate Implant Placement, IIP) 궤도 계획에 직접적 시사점을 제공.
+
+단일 인구집단 해부학 연구로 다른 민족·집단 적용에는 검증이 필요하다.
 
 ## Summary
 CBCT cross-sectional study extending SRP analysis to both maxillary and mandibular anterior teeth — a rare combined dataset.

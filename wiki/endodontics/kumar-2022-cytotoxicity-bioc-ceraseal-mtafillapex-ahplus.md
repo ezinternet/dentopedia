@@ -16,13 +16,21 @@ text_filename: kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus.txt
 tags: [ceraseal, bioceramic-sealer, cytotoxicity, mtt-assay, biocompatibility]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro L929 fibroblast MTT/microscopy study (n=36; CeraSeal, Bio-C, MTA-Fillapex, AH Plus at 0 h/24 h/7 d) where calcium-silicate sealers CeraSeal and Bio-C fall from severe cytotoxicity at 0 h to noncytotoxic (>90% viability) by 24 h, while AH Plus stays severely cytotoxic at every time point and MTA-Fillapex only reaches moderate.
+In-vitro L929 mouse fibroblast MTT assay and phase-contrast microscopy study (n=36 Teflon discs; CeraSeal, Bio-C, MTA-Fillapex, AH Plus tested at 0 h, 24 h, and 7 d after mixing) using ISO 10993-5 extract method and US Pharmacopeia cytotoxicity bands.
 
-## 한줄요약
+All four sealers were severely cytotoxic when freshly mixed (0 h, <30% viability); both calcium-silicate sealers (CeraSeal 96.4%, Bio-C 91.4%) recovered to noncytotoxic by 24 h, while AH Plus remained severely cytotoxic throughout (<29% at 7 d) and MTA-Fillapex plateaued at moderate (~60%).
 
-L929 섬유아세포 MTT/현미경 in-vitro 연구(n=36; CeraSeal·Bio-C·MTA-Fillapex·AH Plus, 0시간/24시간/7일): 칼슘실리케이트 실러 CeraSeal·Bio-C는 0시간 심한 세포독성 → 24시간 무독성(생존율 >90%)으로 회복, AH Plus는 전 기간 심한 독성, MTA-Fillapex는 중등도에 그침.
+CeraSeal showed the best time-dependent biocompatibility profile among all four sealers, supporting its clinical use in biologically challenging environments; the in-vitro limitation of excluding periapical blood washout applies to all groups.
+
+## 세줄요약
+
+L929 마우스 섬유아세포 MTT 분석·위상차현미경 in-vitro 연구(테플론 디스크 n=36; CeraSeal·Bio-C·MTA-Fillapex·AH Plus, 혼합 후 0시간·24시간·7일 시점)로 ISO 10993-5 추출법을 적용했다.
+
+혼합 직후(0시간) 4종 모두 심한 독성(<30%)이었으나, 칼슘실리케이트 실러 CeraSeal(96.4%)·Bio-C(91.4%)는 24시간에 무독성으로 회복한 반면, AH Plus는 전 기간 심한 독성(<29%), MTA-Fillapex는 중등도(~60%)에 머물렀다.
+
+CeraSeal이 가장 우수한 시간 의존적 생체적합성을 나타내, 생물학적으로 까다로운 임상 환경(습윤 치근단, 치수괴사 등)에서의 사용을 뒷받침한다.
 
 ## Summary
 

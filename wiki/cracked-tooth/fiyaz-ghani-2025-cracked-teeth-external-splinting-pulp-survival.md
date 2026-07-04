@@ -19,13 +19,21 @@ relations:
     target: kaur-2026-cracked-tooth-syndrome-umbrella-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Abstract-only SR+MA (10 studies, 711 cracked teeth with normal pulp/reversible pulpitis): external splinting yields 85% pooled 12-month pulp survival (95% CI 79–91%), higher without interim orthodontic banding (89% vs 79%) and with a direct vs stepwise approach (89% vs 81%); very low GRADE certainty.
+Abstract-only SR+MA (10 studies, 711 permanent mature cracked teeth with normal pulp or reversible pulpitis, ≥12-month follow-up) assessing pulp survival after external splinting as conservative management.
 
-## 한줄요약
+Pooled 12-month pulp survival was 85% (95% CI 79–91%, I²=82.6%); subgroup analysis showed better survival without interim orthodontic banding (89% vs 79%) and with a direct over stepwise approach (89% vs 81%); GRADE certainty very low.
 
-abstract-only SR+MA(10편, 균열치 711개, 정상치수/가역성치수염): external splinting의 12개월 치수생존 85%(95% CI 79–91%) — 임시 교정밴드 미사용 시 89% vs 사용 79%, direct 89% vs stepwise 81%; GRADE 확실성 매우 낮음.
+External splinting with cuspal-coverage protection is a viable vitality-preserving option for vital cracked teeth; the wide protocol variation and very-low certainty preclude a standardized recommendation — banding and prolonged interim phases appear detrimental.
+
+## 세줄요약
+
+Abstract-only SR+MA (10편, 정상치수/가역성치수염 성숙 영구치 균열치 711개, ≥12개월 추적): external splinting 후 치수생존 평가.
+
+12개월 치수생존 85% (95% CI 79–91%, I²=82.6%); 임시 교정밴드 미사용(89%) > 사용(79%), direct 방식(89%) > stepwise(81%); GRADE 확실성 매우 낮음.
+
+External splinting + 교두 피개가 생활 균열치 치수 보존의 유효한 선택이나, 프로토콜 이질성·매우 낮은 확실성으로 표준 권고 불가 — 밴드 사용 및 장기 임시 단계는 치수 생존에 불리.
 
 ## Summary
 

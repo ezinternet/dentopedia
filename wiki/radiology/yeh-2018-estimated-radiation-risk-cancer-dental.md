@@ -19,13 +19,21 @@ relations:
     target: ozaki-2021-cbct-effective-dose-monte-carlo-simulation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Monte Carlo (PCXMC 2.0 Rotation) + BEIR-VII in-silico study on an i-CAT dental CBCT (16x13 cm FOV, 120 kV, 18.54 mAs): total effective dose ~31 uSv at beam centerline, salivary glands the dominant organ; lifetime cancer REID is ~2x higher in 10-year-olds than 30-year-olds and highest for female breast cancer.
+In-silico Monte Carlo simulation study (PCXMC 2.0 Rotation on ICRP phantoms, i-CAT CBCT, 120 kV, 18.54 mAs, 16×13 cm FOV) computing organ doses and converting them to lifetime cancer-death risk (REID) via BEIR-VII across age (5–80 y) and sex groups.
 
-## 한줄요약
+Total effective dose was 30.99 µSv at beam centerline with salivary glands the dominant organ (738 µGy); REID for all cancers in 10-year-olds (~22 ×10⁻⁵ female, ~19 ×10⁻⁵ male) was approximately double that in 30-year-olds (p<0.01), with female breast cancer the most age-sensitive radiogenic cancer.
 
-i-CAT 치과 콘빔CT(CBCT) 몬테카를로(PCXMC 2.0 Rotation)+BEIR-VII 전산 선량·위험 추정 — 빔 중심선 유효선량 약 31 uSv, 침샘이 최대 기여 장기, 방사선 유발 사망위험(REID)은 10세가 30세의 약 2배이며 여아 유방암이 가장 민감.
+The ~2× child-vs-adult risk gradient and female predominance quantitatively justify restricting and protocol-optimizing pediatric CBCT, and establish the radiation-justification framework for orthodontic CBCT decision-making.
+
+## 세줄요약
+
+줄1: i-CAT CBCT(120 kV, 18.54 mAs, 16×13 cm FOV) 몬테카를로(PCXMC 2.0 Rotation) 전산 시뮬레이션 — 장기 선량을 BEIR-VII 선형비역치(LNT) 모델로 연령·성별별 방사선 유발 사망위험(REID)으로 변환.
+
+줄2: 빔 중심선 유효선량 30.99 µSv, 침샘이 최대 기여 장기(738 µGy); 10세 REID(~22 ×10⁻⁵ F, ~19 ×10⁻⁵ M)는 30세의 약 2배(p<0.01), 여아 유방암이 가장 연령 민감.
+
+줄3: 소아 CBCT의 약 2배 위험 기울기와 여아 우세 확인 — 소아 CBCT 제한 및 프로토콜 최적화의 정량적 근거 제공.
 
 ## Summary
 

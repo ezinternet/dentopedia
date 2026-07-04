@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]]은 conventional GBR의 생물학적 원리와 35년 성과를 정리했으나, 최소침습 대안(Bone Core Technique, SPAL, IDR)에 대한 indication-driven 비교 framework는 없었다. 본 리뷰(Porczyk 2026)는 그 공백을 채우며 술식 선택 결정 알고리즘을 제시한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of three minimally invasive bone regeneration strategies for implants — Bone Core Technique, SPAL, and IDR — framed within an indication-driven clinical decision-making pathway; evidence strength is uneven across techniques and conventional augmentation remains indispensable in advanced defects.
 
-## 한줄요약
+Narrative review of three minimally invasive bone regeneration strategies for implants — Bone Core Technique, SPAL, and IDR — framed within an indication-driven clinical decision-making pathway;
 
-임플란트 골재생의 최소침습 3가지 술식(골코어 기법, SPAL, IDR)을 결손 형태 기반 임상 결정 프레임워크로 정리한 서술 고찰; 술식별 근거 수준은 불균등하고 광범위 결손에서는 conventional 증대술이 여전히 필수.
+evidence strength is uneven across techniques and conventional augmentation remains indispensable in advanced defects.
+
+(incomplete)
+
+## 세줄요약
+
+
+임플란트 골재생의 최소침습 3가지 술식(골코어 기법, SPAL, IDR)을 결손 형태 기반 임상 결정 프레임워크로 정리한 서술 고찰;
+
+술식별 근거 수준은 불균등하고 광범위 결손에서는 conventional 증대술이 여전히 필수.
+
+(incomplete)
 
 ## 1. Document Information
 

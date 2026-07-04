@@ -16,11 +16,21 @@ relations:
     target: mello-machado-2021-osseodensification-low-quality-bone-rct
 ---
 
-## One-line Summary
-SR+MA (555 patients / 685 implants, 343 osseodensification vs 342 standard) restricted to counterclockwise OD vs subtractive drilling in human trials: OD raised insertion torque (45.75 vs 38.00 N·cm, P<0.001) and ISQ (mean difference 3.24, 95% CI 0.72–5.95, P=0.024) — statistically significant but clinically modest, with insufficient longitudinal data to assess the stability dip or survival/MBL outcomes.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Meta-Analysis), n=555 환자 / 685 임플란트 — 골밀도화 (Osseodensification, OD)군이 conventional drilling 대비 삽입 토크 45.75 vs 38.00 N·cm (P<0.001), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 평균차 3.24 (95% CI 0.72–5.95, P=0.024). ISQ 효과 크기는 통계적 유의이나 임상적으로 작음 (~5 미만), 종단 데이터 부족으로 stability dip 시기 영향은 평가 불가.
+SR+MA (PRISMA 2020, search to September 2025, in vivo human trials only, 555 patients / 685 implants — 343 OD vs 342 standard) with the tightest inclusion criteria to date: counterclockwise OD burs only versus subtractive drilling, explicitly excluding Summers osteotomes and magnetic-mallet densification.
+
+OD raised mean insertion torque (45.75 vs 38.00 N·cm, P<0.001, ~7.75 N·cm difference) and ISQ (random-effects MD 3.24, 95% CI 0.72–5.95, P=0.024); the ISQ gain is statistically significant but clinically modest, and the ~7.75 N·cm torque gain has more clinical relevance by pushing implants into the comfortable immediate-provisionalization range (≥45 N·cm).
+
+Longitudinal ISQ data were too sparse to assess the stability dip or secondary stability; no survival, MBL, or soft-tissue endpoints — this SR establishes biomechanical surrogate benefits only, and the smaller ISQ effect size (vs earlier reviews that bundled osteotomes) likely reflects the true OD-only effect.
+
+## 세줄요약
+
+PRISMA 2020 체계적 문헌고찰 + 메타분석 (SR+MA, 검색 2025년 9월까지, 인체 in vivo만, n=555 환자 / 685 임플란트 — 343 OD vs 342 standard): 역대 가장 엄격한 포함기준 — 반시계방향 OD 버만 vs 감산 drilling; Summers 골도자·자기망치 골밀도화 제외.
+
+OD군 삽입 토크 (Insertion Torque) 유의하게 높음(45.75 vs 38.00 N·cm, P<0.001, 약 7.75 N·cm 차이); 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 무작위효과 평균차 3.24 (95% CI 0.72–5.95, P=0.024) — 통계적 유의이나 임상적으로 작음; 토크 차이가 즉시 임시보철 임계값(≥45 N·cm)에 도달하는 임상적 의미가 더 큼.
+
+종단 ISQ 데이터 부족으로 stability dip·2차 안정성 영향 평가 불가; 생존율·변연골·연조직 결과 없음 — 생역학 대리지표만 확립; 기존 SR보다 작은 ISQ 효과 크기는 osteotome 혼입 제거로 인한 진짜 OD 효과에 더 가까울 가능성.
 
 ## Summary
 This open-access systematic review and meta-analysis (Marzorati et al., Int J Oral Maxillofac Surg 2026) is currently the cleanest evidence on counterclockwise OD drilling vs conventional subtractive osteotomy in human clinical implant placement. It deliberately excludes Summers osteotomes and magnetic-mallet densification, which prior SRs (Gaspar 2021, Yu 2022, Gaikwad 2022, Lima Monteiro 2024, Kalra 2025) had bundled together — addressing a long-standing critique that the OD evidence base had been muddied by heterogeneous "densification" comparators.

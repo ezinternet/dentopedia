@@ -13,13 +13,23 @@ source_collection: external
 
 Tests whether adding resorbable synthetic biomaterials (α-TCP or biphasic calcium phosphate, BBCP) to DBBM overcomes DBBM's slow resorption problem while maintaining volume. Addresses the hybrid-grafting strategy for bone augmentation — relevant to understanding DBBM's limitations and how synthetic adjuncts affect the resorption/bone-formation balance. Extends [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] by probing the material-science side of why DBBM may underperform as a sole graft.
 
-## One-line Summary
+## Three-line Summary
 
-Rat critical-size defect study (n=30, 5 groups, 4 weeks): α-TCP or BBCP mixed 1:1 with DBBM showed similar new bone formation to negative control, paradoxically, while DBBM alone showed significantly less new bone than negative control; synthetic additives resorbed without volume change.
 
-## 한줄요약
+Rat critical-size defect study (n=30, 5 groups, 4 weeks): α-TCP or BBCP mixed 1:1 with DBBM showed similar new bone formation to negative control, paradoxically, while DBBM alone showed significantly less new bone than negative control;
 
-쥐 임계골결손 모델 5군 비교(4주): α-TCP 또는 BBCP+DBBM 혼합은 음성대조군 수준의 신생골 형성; DBBM 단독은 음성대조군 대비 유의하게 낮은 신생골량(p=0.025).
+synthetic additives resorbed without volume change.
+
+(incomplete)
+
+## 세줄요약
+
+
+쥐 임계골결손 모델 5군 비교(4주): α-TCP 또는 BBCP+DBBM 혼합은 음성대조군 수준의 신생골 형성;
+
+DBBM 단독은 음성대조군 대비 유의하게 낮은 신생골량(p=0.025).
+
+(incomplete)
 
 ## 1. Document Information
 

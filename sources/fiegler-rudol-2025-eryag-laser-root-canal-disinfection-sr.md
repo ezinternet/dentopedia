@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/endodontics/irrigation/do-2020-eryag-laser-pips-endodontic-irrigation-review]] established Er:YAG/PIPS laser-activated irrigation as a mechanism to enhance smear-layer and biofilm removal; this newer 15-study SR (2015–2025) extends that evidence base with SWEEPS and adds the clinically attractive finding that laser activation enables **lower NaOCl concentrations** without losing efficacy. Tempering the enthusiasm, the protocol/parameter heterogeneity it documents echoes [[wiki/endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]]'s caution that no activation method is yet proven to improve clinical outcomes.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (15 studies, 2015–2025) finding Er:YAG laser-activated irrigation (PIPS/SWEEPS) consistently improved root canal disinfection, biofilm disruption, and smear-layer removal over conventional and ultrasonic methods, and enabled lower NaOCl concentrations — though heterogeneous protocols limit pooling and clinical generalization.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 15편(2015–2025)을 모은 체계적 문헌고찰: Er:YAG 레이저 활성화 세정(PIPS/SWEEPS)은 기존·초음파 방법보다 근관 소독·biofilm 파괴·smear layer 제거를 일관되게 향상시켰고 NaOCl 농도를 낮춰도 효과를 유지했으나, 프로토콜 이질성이 커 통합·임상 일반화에는 한계가 있다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

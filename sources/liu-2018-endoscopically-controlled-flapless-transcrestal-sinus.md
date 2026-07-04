@@ -11,7 +11,7 @@ pdf_filename: liu-2018-endoscopically-controlled-flapless-transcrestal-sinus.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Case report (26F, #16, RBH 3.5 mm): endoscopically-controlled flapless transcrestal sinus elevation + PRF + simultaneous 12 mm implant. ISQ 72.6 at surgery; crown delivered at 12 weeks; demonstrates extending transcrestal indication to RBH <4 mm.
 
 ## 1. Document Information

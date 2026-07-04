@@ -13,13 +13,23 @@ source_collection: external
 
 Provides direct SR+MA evidence comparing splinted (bar) vs unsplinted (ball, stud) overdenture attachments on marginal bone loss, prosthetic complications, and implant survival — a core decision point in mandibular implant overdenture prosthodontics. Complements [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]] which covers individual attachment type comparisons (LOCATOR vs magnet vs ball) and [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]] which addresses implant number and attachment interaction effects.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 9 studies (984 implants, 380 patients) found no significant difference between splinted and unsplinted overdenture attachment systems in marginal bone loss, prosthetic complications, or implant survival.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 9개 연구 SR+MA에서 스플린트(바) 및 비스플린트(볼/스터드) 오버덴처 어태치먼트 간 변연골소실, 보철 합병증, 임플란트 생존율 모두 유의한 차이가 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,23 @@ text_filename: eswaramurthy-2021-contemporary-sterilization-protocols-healing-ab
 
 Anchor systematic review for the healing-abutment (HA) reuse controversy batch. It supplies the top-of-hierarchy SR framing — 812→8 studies, steam autoclave as the dominant resterilization method, and the key negative finding that *no* protocol restores a 100% virgin surface — which reinforces the practice-level infection-control gate in [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] and complements the surgical HA-cover-screw guidance in [[infection-control/bidra-2019-should-healing-abutments-cover-screws]]. Together with the in-vitro residual-contaminant papers ([[infection-control/burioni-2024-could-dental-material-reuse-play]], [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]]) it establishes the "reuse only after thorough decontamination + resterilization, never assume virgin surface" position.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 databases, 812→8 studies) of healing-abutment resterilization protocols for reuse: steam autoclave was the most widely used method, but no protocol achieved a 100% virgin surface; thorough decontamination + resterilization is recommended before reuse.
 
-## 한줄요약
+Systematic review (5 databases, 812→8 studies) of healing-abutment resterilization protocols for reuse: steam autoclave was the most widely used method, but no protocol achieved a 100% virgin surface;
+
+thorough decontamination + resterilization is recommended before reuse.
+
+(incomplete)
+
+## 세줄요약
+
 
 체계적 문헌고찰(5개 DB, 812→8편): 치유 지대주(healing abutment, HA) 재사용을 위한 재멸균 프로토콜 중 증기 오토클레이브가 가장 널리 쓰였으나 어떤 프로토콜도 표면을 100% 초기(virgin) 상태로 되돌리지 못했다 — 재사용 전 철저한 표면 제염 후 재멸균 권고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

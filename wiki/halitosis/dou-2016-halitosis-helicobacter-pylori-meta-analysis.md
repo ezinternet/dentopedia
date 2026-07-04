@@ -13,13 +13,21 @@ source_collection: external
 tags: [halitosis, helicobacter-pylori, eradication, VSC, extra-oral, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 21 studies: H. pylori infection significantly associated with halitosis (OR 2.85), and successful eradication reduced halitosis by ~83% (RR 0.17), supporting eradication therapy for refractory halitosis.
+SR+MA of 21 studies (English + Chinese databases, through December 2015) examining the relationship between H. pylori infection and halitosis across four clinical scenarios.
 
-## 한줄요약
+H. pylori infection was significantly associated with halitosis (OR 2.85, 95% CI 1.40–5.83), and successful eradication reduced halitosis risk by ~83% (RR 0.17, 95% CI 0.08–0.39, p<0.0001) compared to unsuccessful eradication.
 
-21개 연구 메타분석: H. pylori 감염이 구취와 유의하게 연관(OR 2.85)되며, 성공적 제균 치료 시 구취가 약 83% 감소(RR 0.17)하여 난치성 구취에 제균 치료를 고려할 수 있다.
+H. pylori should be considered a genuine extra-oral contributor to halitosis pathophysiology, and eradication therapy is warranted in refractory halitosis patients where oral causes have been excluded.
+
+## 세줄요약
+
+21개 연구(영어+중국어 DB, 2015년까지) SR+MA; H. pylori 감염과 구취의 관계를 4가지 임상 시나리오로 분석.
+
+H. pylori 감염은 구취 발생과 유의하게 연관(OR 2.85, 95% CI 1.40–5.83)되며, 성공적 제균 시 구취 위험 약 83% 감소(RR 0.17, 95% CI 0.08–0.39, p<0.0001).
+
+H. pylori는 구강외(extra-oral) 구취의 실제 병인인자로, 구강 원인이 배제된 난치성 구취에서 제균 치료를 고려해야 함.
 
 ## Summary
 

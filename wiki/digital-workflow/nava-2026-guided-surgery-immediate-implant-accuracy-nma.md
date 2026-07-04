@@ -14,11 +14,19 @@ source_collection: external
 tags: [digital-workflow, immediate-implant, guided-surgery, CAIS, dynamic-navigation, robotic-surgery, sCAIS, dCAIS, rCAIS, network-meta-analysis, accuracy]
 ---
 
-## One-line Summary
-Systematic review and network meta-analysis (Clin Oral Implants Res 2026; 18 studies, 780 immediate implants) of guided surgery accuracy in immediate implant placement (IIP): all guided protocols (static/dynamic/robotic) significantly outperformed freehand on angular, platform, and apex deviation—with rCAIS and dCAIS ranking highest—though overall CINeMA certainty was low due to predominance of non-RCT designs.
+## Three-line Summary
+SR + NMA (Clin Oral Implants Res 2026, 18 studies, 780 immediate implants) comparing freehand and five guided-surgery protocols (HG/FG-sCAIS, dCAIS, rCAIS) for accuracy in immediate implant placement.
 
-## 한줄요약
-Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수, rCAIS·dCAIS 최상위. 단 비-RCT 다수로 전반 근거 certainty는 LOW.
+All guided protocols significantly outperformed freehand on angular, platform, and apex deviation; rCAIS reduced angular error by 3.36° and dCAIS by 2.66° vs freehand, with rCAIS and dCAIS ranking highest overall.
+
+CINeMA certainty was low across outcomes due to predominance of non-RCT designs, and RCT-only sensitivity analysis excluded rCAIS entirely, making robotic superiority over dynamic navigation hypothesis-generating rather than confirmed.
+
+## 세줄요약
+SR + NMA (Clin Oral Implants Res 2026, 18편, 780개 즉시식립 임플란트): freehand 대비 5가지 가이드 수술 프로토콜(HG/FG-sCAIS, dCAIS, rCAIS)의 즉시식립 정확도를 비교.
+
+모든 guided 프로토콜이 freehand 대비 angular·platform·apex 편차에서 유의하게 우수; rCAIS는 angular 편차를 3.36° 줄이고 dCAIS는 2.66° 줄여 두 프로토콜이 최상위 랭크.
+
+비-RCT가 다수여서 CINeMA certainty는 전반 LOW이며, RCT-only 민감도 분석에서 rCAIS 데이터 부재로 robotic > dynamic 결론은 가설 생성 수준에 그침.
 
 ## Summary
 Systematic review and frequentist network meta-analysis of guided implant surgery accuracy restricted to immediate implant placement (IIP) — a context underrepresented in prior NMAs that focused on healed ridges. Eighteen studies (780 immediately placed implants) compared freehand (FH) against half- and fully-guided static (HG/FG-sCAIS), dynamic (dCAIS), and robotic (rCAIS) protocols across angular, platform, and apex deviation.

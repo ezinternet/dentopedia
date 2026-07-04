@@ -13,13 +13,21 @@ source_collection: external
 tags: [regenerative-endodontics, intracanal-medicament, TAP, DAP, calcium-hydroxide, REP, SR-MA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 24 studies (n=791) finds TAP (96.7%) and Ca(OH)₂ (97.4%) equivalent for 1-year REP success in permanent necrotic immature teeth, both superior to DAP (84.2%); GRADE high for TAP/CH, low for DAP.
+SR+MA (24 studies, n=791 patients; PROSPERO CRD42023484189) using naïve indirect comparison of intracanal medicaments for regenerative endodontic procedures (REPs) in permanent necrotic immature teeth, with ≥12-month follow-up and GRADE appraisal.
 
-## 한줄요약
+Triple antibiotic paste (TAP) achieved 96.7% and calcium hydroxide (CH) 97.4% pooled 1-year clinical success — statistically equivalent (difference −0.7%, within the ±2.5% margin) — while DAP reached only 84.2%, inferior to both TAP and CH by ~12–13 percentage points.
 
-영구 미성숙 치아 REP 24개 연구 SR+MA: TAP(96.7%)과 수산화칼슘(97.4%) 1년 성공률 동등, 두 약제 모두 DAP(84.2%) 대비 우월 — GRADE TAP·CH 높음, DAP 낮음.
+TAP and CH can be chosen interchangeably based on secondary factors (discoloration risk, antibiotic stewardship); DAP should be used with caution given low GRADE evidence and inferior success.
+
+## 세줄요약
+
+영구 미성숙 치아 재생근관치료(REP) 약제 비교 SR+MA(24편, n=791명, PROSPERO 등록, naïve 간접비교, ≥12개월 추적, GRADE 평가).
+
+삼중항생제 페이스트(Triple Antibiotic Paste, TAP) 96.7%·수산화칼슘(Ca(OH)₂, CH) 97.4%의 1년 성공률이 동등(차이 −0.7%, 동등 마진 ±2.5% 이내), 이중항생제 페이스트(Dressing Antibiotic Paste, DAP) 84.2%로 두 약제 대비 약 12–13%포인트 열위.
+
+TAP·CH는 탈색 위험·항생제 관리 등 이차 기준으로 선택 가능; DAP는 근거 수준 낮음(GRADE low)으로 일상 사용 전 추가 임상시험 필요.
 
 ## Summary
 

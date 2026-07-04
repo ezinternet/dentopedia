@@ -18,13 +18,21 @@ relations:
     target: abutment-emergence-profile-peri-implant-tissue-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single case report describing a 3D-printed emergence profile former (mounted on a standard titanium healing abutment) that shapes peri-implant soft tissues and simplifies intraoral scan registration, achieving aesthetic outcome in a mandibular molar with horizontal tissue deficiency.
+Case report (Indiana University / Ohio State University, JOPR 2025) introducing a 3D-printed emergence profile former (EPF) — a sleeve designed in free Autodesk Meshmixer software — retained on a standard titanium stock healing abutment to shape peri-implant soft tissue.
 
-## 한줄요약
+The EPF simultaneously conditioned buccal soft tissue and served as an IOS registration aid in a mandibular molar with horizontal buccal bone deficiency, achieving an aesthetic crown without buccal bone augmentation.
 
-기성 티타늄 치유 지대체에 장착되는 3D 프린팅 출현 형태 형성체로 임플란트 주위 연조직을 형성하고 IOS 등록을 단순화한 하악 구치부 단일 증례 보고.
+n=1 limits generalization; the workflow requires free-software CAD skills and DLP printing, but eliminates the need for a custom temporary abutment screw.
+
+## 세줄요약
+
+증례보고 (Indiana Univ + Ohio State Univ, JOPR 2025): 기성 티타늄 치유 지대체에 장착하는 3D 프린팅 출현 형태 형성체(EPF)를 Autodesk Meshmixer(무료)로 설계·제작.
+
+협측 수평 골결손이 있는 하악 구치부에서 EPF가 연조직 형성과 IOS 등록을 동시 수행 — 협측 골이식 없이 심미적 크라운 제공.
+
+n=1 증례로 일반화 제한; CAD 숙련도·DLP 프린팅 장비 필요, 그러나 임시 지대체 스크류 불필요한 단순화 장점.
 
 ## Summary
 

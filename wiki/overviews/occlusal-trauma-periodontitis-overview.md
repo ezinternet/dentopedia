@@ -26,11 +26,21 @@ tags: [overview, occlusion, periodontitis, occlusal-trauma]
 > - 임상 종합: 교합은 염증성·감수성 케이스에서 선택적으로 관리할 공동인자 (co-factor) 이지, 예방적으로 갈아내야 할 일차 원인이 아니다.
 > - gap: 인과 관계는 가용한 연구 설계로 해결 불가 (인간 근거는 연관성 수준)이고, 개입 근거는 빈약·저질 (Dommisch 적격 연구 5편)이며, aMMP-8 유도 교합관리는 제안되었으나 trial 미검증, 한국 인구 데이터 없음.
 
-## One-line Summary
-Occlusal trauma does not initiate periodontitis but can modify its progression in a susceptible, already-inflamed periodontium; splinting does not save mobile teeth, occlusal adjustment offers a modest selective benefit, and PDL widening has a broad differential beyond occlusion.
+## Three-line Summary
 
-## 한줄요약
-교합외상은 치주염을 일으키지 않지만 이미 염증이 있는 감수성 치주에서 진행을 수식할 수 있다; 스플린팅은 동요치를 구하지 못하고, 교합조정은 제한적·선택적 이득만 있으며, PDL 확장은 교합 외에도 감별폭이 넓다.
+Synthesis of 4 papers resolving the century-long occlusal trauma–periodontitis controversy into a precise deflationary position: the 2017 World Workshop consensus (Fan 2018) explicitly states that primary occlusal trauma on a healthy periodontium does not cause attachment loss and that occlusal trauma's causal role in periodontitis is unproven; a 2026 mechanistic update (Leone 2026) adds that excessive load on already-inflamed tissue may accelerate breakdown via inflammatory/proteolytic pathways (aMMP-8) only in susceptible individuals — making occlusion a modifier, never an initiator.
+
+The intervention evidence is sobering: splinting of mobile teeth provides no survival benefit (tooth loss 8.4% vs 10.1%, Dommisch 2022 SR) — it is indicated only for patient comfort; occlusal adjustment yields at most a modest CAL improvement on very low-quality evidence (Dommisch 2022) and is reserved for susceptible, already-inflamed cases, never as prophylactic treatment.
+
+The critical diagnostic safety net is that PDL widening is non-specific — its differential runs from occlusal trauma to scleroderma to osteosarcoma (Mortazavi 2016), so localized widening with bone destruction mandates malignancy workup and generalized symmetric widening requires systemic disease workup before attributing radiographic findings to occlusal forces.
+
+## 세줄요약
+
+교합외상-치주염 관계를 4편으로 종합한 결론은 디플레이션적(deflationary): 2017 World Workshop 합의(Fan 2018)에 따르면 건강한 치주에 가해진 1차 교합외상은 부착소실을 일으키지 않으며 치주염에서의 인과적 역할은 미입증; Leone 2026 기전 업데이트는 이미 염증이 있는 감수성 치주에서만 과부하가 파괴를 가속할 수 있다고 부연 — 교합은 "수식자(modifier)", 결코 "개시자(initiator)"가 아니다.
+
+중재 근거는 가혹하다: 동요치 스플린팅은 생존율을 개선하지 못하고(소실 8.4% vs 10.1%; Dommisch 2022 SR) 환자 편의 목적이며; 교합조정은 감수성·염증성 증례에서만 선택적으로 modest CAL 이득(낮은 근거 질) — 예방적 연삭은 근거 없음.
+
+PDL 확장은 비특이적 영상 소견 — 감별진단이 교합외상부터 경피증(scleroderma)·골육종(osteosarcoma)까지 넓고(Mortazavi 2016), 국소 확장+골파괴 → 악성종양 workup, 전반적 대칭 확장 → 전신질환 고려가 필수이다.
 
 ## Thesis
 The relationship between occlusal forces and periodontitis has been a century-long controversy, and the current evidence resolves it into a precise, deflationary position: occlusion is a **modifier, not an initiator**. The 2017 World Workshop consensus is explicit that primary occlusal trauma on a healthy periodontium does not cause attachment loss and that occlusal trauma's role in periodontitis remains unproven as causal (Fan 2018). The 2026 mechanistic update agrees from the molecular side — excessive loading on *already-inflamed* tissue may accelerate breakdown via inflammatory/proteolytic pathways, but only in susceptible individuals, and the effect sizes are modest enough to warrant selective rather than routine intervention (Leone 2026). On the therapeutic question, the outcome evidence is sobering: tooth splinting does not improve survival of mobile teeth (8.4% vs 10.1% loss), while occlusal adjustment yields at most a modest attachment benefit on low-quality evidence (Dommisch 2022). Finally, the headline diagnostic sign — PDL widening — is non-specific: its differential runs from occlusal trauma to scleroderma to osteosarcoma, so it must never be read as occlusal trauma by default (Mortazavi 2016). The clinical synthesis: treat occlusion as a co-factor to manage selectively in inflamed/susceptible cases, not a primary cause to grind away prophylactically, and exclude sinister causes of PDL widening before attributing it to bite.

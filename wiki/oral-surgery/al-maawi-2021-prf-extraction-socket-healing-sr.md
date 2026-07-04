@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Systematic review (20 randomized/controlled studies, no meta-analysis due to heterogeneity) finding platelet-rich fibrin (PRF) improves early extraction-socket healing — reduced postoperative pain (66.6% of studies), better soft-tissue healing (75%), and greater socket fill (85%) within 2–3 months — but shows no significant dimensional bone-loss benefit at 6 months and lacks long-term implant outcome data.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰(20편): 혈소판풍부섬유소 (Platelet-Rich Fibrin, PRF)는 발치 후 초기 2–3개월 동안 통증 감소(66.6%), 연조직 치유(75%), 골 충전(85%) 개선 효과가 있으나, 6개월 이후에는 자연 치유와 차이 없음.
+Systematic review (PubMed + Web of Knowledge; 20 randomized/controlled studies; no meta-analysis due to high heterogeneity in PRF preparation and outcome measurement) of PRF in fresh extraction sockets versus spontaneous healing.
+
+PRF improves early healing (2–3 months): postoperative pain reduced in 66.6% of studies, soft-tissue healing improved in 75%, and socket fill increased in 85%; however, at 6 months, dimensional bone loss showed no significant difference from spontaneous healing.
+
+Long-term implant outcome data in PRF-treated sockets are entirely absent, and lack of standardization in PRF preparation protocols is the major evidence gap preventing meta-analysis and definitive conclusions.
+
+## 세줄요약
+
+체계적 문헌고찰(Systematic Review; PubMed·Web of Knowledge; 무작위·대조 연구 20편; PRF 준비·결과 프로토콜 이질성으로 메타분석 불가) — 신선 발치와에서 혈소판풍부섬유소(Platelet-Rich Fibrin, PRF) 대 자연 치유 비교.
+
+PRF는 초기 치유(2–3개월)에 효과적: 통증 66.6%·연조직 치유 75%·골 충전(Socket Fill) 85% 개선; 그러나 6개월째 골 용적 소실(Dimensional Bone Loss)은 자연 치유와 유의한 차이 없음.
+
+PRF 처치 발치와의 장기 임플란트 결과 데이터 전무 — PRF 준비 비표준화가 핵심 근거 공백이며, 임플란트 예후 데이터 확보가 향후 연구 과제.
 
 ## Summary
 This systematic review by Al-Maawi et al. (2021) addresses whether PRF improves outcomes in fresh extraction sockets compared to spontaneous healing. Twenty randomized and/or controlled studies were included from PubMed and Web of Knowledge. A meta-analysis was not performed due to high heterogeneity in PRF preparation and outcome measurement protocols. Results indicate that PRF is most effective in the early healing period (2–3 months) but provides no demonstrable advantage at 6 months. Long-term implant success data in PRF-treated sockets remain unavailable.

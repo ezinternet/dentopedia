@@ -9,7 +9,7 @@ pdf_filename: jeon-2021-orthodontic-tooth-movement-mechanisms-animal.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 교정적 치아이동(OTM) 기전 동물 연구 critical review (JCM 2021): 압박측 파골세포생성·인장측 골형성; RANKL·TNF-α·DKK1·sclerostin·TGF-β·BMP 신호; 형질전환 동물 모델로 인과관계 규명.
 
 ## 1. Document Information

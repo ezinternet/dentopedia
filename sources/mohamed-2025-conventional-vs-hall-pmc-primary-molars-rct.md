@@ -16,13 +16,23 @@ text_filename: mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct.txt
 
 literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립. 위키 첫 Hall/SSC RCT [[wiki/caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] 의 process outcome(시술시간·통증·수용성) 축을 보완 — 동일 연구진(Philip)의 자매 RCT. abstract-only(no PMC OA).
 
-## One-line Summary
+## Three-line Summary
+
 
 Abstract-only RCT (80 carious primary molars): vs the conventional technique, the Hall technique for preformed metal crowns required less than half the chair time (7.1 vs 17.4 min, p<0.001), caused significantly less child pain (p=0.03), and earned significantly better parental acceptability (ease, duration, satisfaction, all p<0.001).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 abstract-only RCT(유구치 80개): 전통기법 대비 Hall technique PMC는 시술시간 절반 이하(7.1 vs 17.4분, p<0.001), 아동 통증 유의 감소(p=0.03), 부모 수용성(편의·시간·만족 모두 p<0.001) 유의 우위.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

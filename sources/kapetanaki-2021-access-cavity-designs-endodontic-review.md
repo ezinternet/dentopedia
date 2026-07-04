@@ -9,7 +9,7 @@ pdf_filename: kapetanaki-2021-access-cavity-designs-endodontic-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Literature review on traditional vs minimally invasive access (MIA) cavity designs: MIA not fully supported by evidence; traditional straight-line access remains safer for instrument operation and prevention of iatrogenic complications; guided endodontics emerging but lacks cost-benefit data.
 
 ## 1. Document Information

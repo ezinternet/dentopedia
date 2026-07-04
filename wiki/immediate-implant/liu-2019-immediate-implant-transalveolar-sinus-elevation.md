@@ -13,11 +13,21 @@ source_collection: external
 tags: [immediate-implant, transcrestal-sinus-lift, rct, maxillary-molar, ridge-preservation]
 ---
 
-## One-line Summary
-One-year RCT in maxillary molar sites comparing immediate vs delayed implant placement (both with transalveolar/osteotome sinus floor elevation and nonsubmerged healing): both groups reached 100% survival, but immediate placement significantly preserved buccal dimensions (horizontal shrinkage 0.65 vs 1.23 mm; vertical resorption 0.60 vs 1.53 mm, both P < .0001).
+## Three-line Summary
 
-## 한줄요약
-1년 추적 무작위대조시험(Randomized Controlled Trial, RCT, 상악구치부): 즉시식립(Immediate Implant Placement, IIP) + 경치조골 상악동거상술 + 비매몰 치유 vs 지연식립 동일 프로토콜에서 양 군 모두 생존율 100%, 그러나 즉시식립군이 협측 수평/수직 흡수를 약 0.6 mm 더 보존(P < .0001).
+One-year parallel-arm RCT in maxillary molar sites comparing immediate versus delayed implant placement, both combined with transalveolar (Summers/osteotome) sinus floor elevation and nonsubmerged healing.
+
+Both groups achieved 100% implant survival; immediate placement significantly preserved buccal ridge dimensions: horizontal shrinkage 0.65 vs 1.23 mm and vertical resorption 0.60 vs 1.53 mm (both P<.0001), while palatal changes and patient satisfaction (VAS) were equivalent.
+
+Immediate placement in maxillary molar sites with simultaneous transcrestal sinus elevation provides equivalent survival with superior buccal dimensional preservation compared to delayed placement using the same technique.
+
+## 세줄요약
+
+상악 구치부에서 경치조골 상악동거상술(Transalveolar Sinus Floor Elevation, TASFE) + 비매몰 치유를 동일 조건으로 유지한 채 즉시 vs 지연 식립을 비교한 1년 RCT.
+
+양 군 모두 생존율 100%; 즉시 식립군에서 협측 수평 수축 0.65 vs 1.23 mm, 협측 수직 흡수 0.60 vs 1.53 mm로 유의하게 적었고(P<.0001), 구개측 변화와 환자 만족도는 동등하였다.
+
+상악 구치부에서 경치조골 거상술과 병행한 즉시 식립은 지연 식립과 동등한 생존율을 유지하면서 협측 골 보존에 우위를 보인다.
 
 ## Summary
 This randomized controlled trial compared immediate vs delayed implant placement when both arms used transalveolar (Summers/osteotome) sinus floor elevation with nonsubmerged healing for failing maxillary molars. After 1 year, both groups achieved 100% implant survival, but immediate placement significantly preserved buccal ridge dimensions: horizontal shrinkage 0.65 vs 1.23 mm and vertical resorption 0.60 vs 1.53 mm (both P < .0001). Palatal aspect changes were similar between groups, and patient satisfaction was equivalent (VAS 8.36 vs 8.14, NS).

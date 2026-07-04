@@ -16,13 +16,21 @@ text_filename: frank-2021-internal-bleaching-agents-efficacy.txt
 tags: [tooth-whitening, internal-bleaching, walking-bleach, non-vital, endodontics, sodium-perborate, carbamide-peroxide, hydrogen-peroxide]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 studies, 6 meta-analyzed; RoB moderate–high) — internal (walking-bleach) of endodontically treated discolored teeth achieves large, significant lightening (ΔSGU 6.27, ΔE 12.83); on ΔSGU, carbamide peroxide 35–37%, HP 35%, and sodium perborate + HP all outperform sodium perborate alone, while ΔE shows no significant agent difference.
+SR+MA of 8 studies (6 meta-analyzed; RoB moderate–high) evaluating internal (walking-bleach) agents for endodontically treated discolored non-vital teeth.
 
-## 한줄요약
+Walking-bleach produces large, significant shade improvement: ΔSGU 6.27 (95% CI 5.36–7.17) and ΔE 12.83 (95% CI 9.46–16.20); carbamide peroxide 35–37%, HP 35%, and sodium perborate + HP each outperform sodium perborate alone on ΔSGU, with no significant difference on ΔE.
 
-SR+MA (8편, 6편 메타분석) — 근관치료된 변색치의 워킹블리치(내부 미백)는 큰 색조 변화(ΔSGU 6.27, ΔE 12.83). ΔSGU 기준 CP 35–37%·HP 35%·과붕산나트륨+HP이 과붕산나트륨 단독보다 우수, ΔE 기준 차이 없음.
+Evidence is thin (n=8 studies, moderate-to-high RoB) and long-term shade stability plus cervical resorption risk are not addressed — clinical caution warranted despite strong color outcomes.
+
+## 세줄요약
+
+SR+MA (8편, 6편 메타분석; 비뚤림 위험 중등도-높음) — 근관치료된 변색 비활성치에 대한 워킹블리치(내부 미백) 약제 비교.
+
+내부 미백은 큰 색조 변화를 달성함: ΔSGU 6.27, ΔE 12.83; ΔSGU 기준 CP 35–37%·HP 35%·과붕산나트륨+HP이 과붕산나트륨 단독 대비 유의하게 우수, ΔE 기준에서는 약제 간 차이 없음.
+
+근거는 8편으로 제한적이고 RoB 높음; 장기 색조 안정성·외부 경부 흡수 위험은 미보고 — 강한 색조 결과에도 불구하고 임상적 주의 필요.
 
 ## Summary
 

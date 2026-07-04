@@ -16,13 +16,21 @@ relations:
     target: chan-2022-myogenous-tmd-diagnosis-treatment-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PICOS/PRISMA systematic review of 28 clinical trials mapping the *techniques* (target muscle, substance, dose, navigation, sessions) of intramuscular injection and dry needling in masticatory muscles for myofascial pain — masseter (65%) and temporalis (27%) dominate, BTX is the most-studied substance, palpation is the main navigation method (72.5%), and pterygoid needling is scarce and unstandardized.
+PICOS/PRISMA systematic review (PROSPERO 272124) of 28 clinical trials focused on *technique parameters* — not efficacy appraisal — of intramuscular injection and dry needling within masticatory muscles for myofascial orofacial pain (24/28 papers from 2016+).
 
-## 한줄요약
+Masseter (65%, 711 cases) and temporalis (27%, 294 cases) dominate; BTX is the most-studied substance (masseter 17/32 trials), followed by local anesthetics, dry needling, and emerging PRP/collagen; navigation is primarily palpation (72.5%), with EMG (11.8%) and MRI-guided instruments rare; pterygoid needling (lateral 8%, medial <1%) is severely understudied.
 
-저작근 근막통증에 대한 근육내 주사·드라이니들링의 *기법*(표적 근육·물질·용량·위치확인·횟수)을 정리한 임상시험 28편 체계적 문헌고찰(PICOS/PRISMA) — 교근(65%)·측두근(27%)에 집중, 보툴리눔 독소가 최다 연구 물질, 위치확인은 촉진(72.5%)이 주류, 익돌근 니들링은 드물고 표준화 안 됨.
+The field lacks standardization; pterygoid needling and non-BTX substances need high-quality trials; dose-related bone loss with repeated/high-dose BTX in the masticatory complex warrants monitoring.
+
+## 세줄요약
+
+PICOS/PRISMA 체계적 문헌고찰 (PROSPERO 272124): 저작근 근막통 치료를 위한 근육내 주사·드라이니들링의 효능이 아닌 *기법*(표적 근육·물질·용량·위치확인·횟수) 파라미터를 정리한 임상시험 28편 분석 (2016년 이후 86%).
+
+교근(65%, 711명)·측두근(27%, 294명) 집중; BTX가 최다 연구 물질(교근 17/32 trials), 국소마취제·드라이니들링·PRP/콜라겐 순; 위치확인은 촉진(72.5%)이 주류, EMG(11.8%)·MRI 유도는 드묾; 익돌근 니들링(외측 8%, 내측 <1%)은 매우 부족하고 미표준화.
+
+기법 표준화 부재; 익돌근 니들링과 비-BTX 물질에 대한 고질 시험 필요; 반복·고용량 BTX의 저작복합체 골손실 가능성은 고용량 환자 모니터링 필요.
 
 ## Summary
 

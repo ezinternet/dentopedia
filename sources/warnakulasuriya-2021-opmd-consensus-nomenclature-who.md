@@ -9,7 +9,7 @@ pdf_filename: warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 WHO Collaborating Centre for Oral Cancer 주관 국제 전문가 합의문: OPMD 용어 및 분류 체계 재정립.
 
 ## 1. Document Information

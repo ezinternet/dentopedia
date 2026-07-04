@@ -16,13 +16,23 @@ text_filename: frank-2021-internal-bleaching-agents-efficacy.txt
 
 단일 변색치(근관치료된 비생활치)는 외부 미백과 다른 적응증 — walking-bleach/internal bleaching이 필요하다. 새 `tooth-whitening` 카테고리에서 "비생활치 미백" 축을 담당하며, 생활치 외부 미백을 다루는 [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]]와 대비되고 [[overviews/tooth-whitening-clinical-decision-overview]]의 비생활치 분기를 보강한다. abstract-only — full text not retrieved.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 studies, 6 meta-analyzed) — internal (walking-bleach) of endodontically treated discolored teeth produces large, significant shade change (ΔSGU 6.27, ΔE 12.83); carbamide peroxide 35–37%, HP 35%, and sodium perborate + HP outperform sodium perborate alone on ΔSGU (RoB moderate–high).
 
-## 한줄요약
+SR+MA (8 studies, 6 meta-analyzed) — internal (walking-bleach) of endodontically treated discolored teeth produces large, significant shade change (ΔSGU 6.27, ΔE 12.83);
 
-SR+MA (8편, 6편 메타분석) — 근관치료된 변색치의 내부(워킹블리치) 미백은 큰 색조 변화(ΔSGU 6.27, ΔE 12.83). ΔSGU 기준 CP 35–37%·HP 35%·과붕산나트륨+HP이 과붕산나트륨 단독보다 우수(근거 RoB 중–고).
+carbamide peroxide 35–37%, HP 35%, and sodium perborate + HP outperform sodium perborate alone on ΔSGU (RoB moderate–high).
+
+(incomplete)
+
+## 세줄요약
+
+
+SR+MA (8편, 6편 메타분석) — 근관치료된 변색치의 내부(워킹블리치) 미백은 큰 색조 변화(ΔSGU 6.27, ΔE 12.83).
+
+ΔSGU 기준 CP 35–37%·HP 35%·과붕산나트륨+HP이 과붕산나트륨 단독보다 우수(근거 RoB 중–고).
+
+(incomplete)
 
 ## 1. Document Information
 

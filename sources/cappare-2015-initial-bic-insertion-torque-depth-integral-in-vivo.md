@@ -13,13 +13,21 @@ source_collection: external
 
 식립 토크/깊이 적분이 초기 BIC를 in vivo로 예측하는지 검증한 연구로, [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] 의 in-vitro 결과를 임상(in vivo)으로 확장하기 위해 인제스트. 기존 [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] 의 IT-ISQ 상관 논의에 "토크 적분-BIC" 직접 측정 축을 추가.
 
-## One-line Summary
+## Three-line Summary
 
-In vivo study testing whether the insertion torque/depth integral recorded by an instantaneous torque-measuring motor correlates with initial bone-to-implant contact, supporting intra-operative bone-quality and primary-stability quantification.
+In vivo clinical study using an instantaneous torque-measuring implant motor to assess whether the insertion torque/depth integral correlates with initial bone-to-implant contact (BIC), validating real-time intraoperative bone-quality quantification.
 
-## 한줄요약
+The torque/depth integral measured by the intraoperative device correlated with initial BIC, and two key parameters — intraoperative bone-quality evaluation and post-insertion primary-stability assessment — were identified as clinically measurable proxies at the time of placement.
 
-in vivo 연구 — 순간 토크측정 모터로 기록한 식립 토크/깊이 적분값이 초기 BIC와 상관되는지 검증, 술중 골질·일차안정성 정량화 근거 제공.
+Device-specific measurements limit generalizability; this study extends the bench-level (bovine) torque-integral findings to in vivo conditions and complements ISQ-insertion torque correlation literature.
+
+## 세줄요약
+
+순간 토크측정 임플란트 모터를 사용한 in vivo 임상 연구: 식립 토크/깊이 적분값이 초기 골-임플란트 접촉률(BIC, Bone-to-Implant Contact)과 상관되는지 검증해 수술 중 골질 정량화 타당성 평가.
+
+식립 토크/깊이 적분값은 초기 BIC와 상관 관계를 보였으며, 술중 골질 평가·식립 후 일차안정성(Primary Stability) 평가 두 가지가 수술 시점에 정량 가능한 임상 지표로 확인됨.
+
+기기 특이적 측정으로 일반화 한계가 있으며, 기존 소 갈비뼈(in vitro) 토크 적분 결과를 in vivo로 확장하고 ISQ-식립토크(Insertion Torque, IT) 상관 문헌을 보완한다.
 
 ## 1. Document Information
 - Clinical Implant Dentistry and Related Research 2015;17(S2):e613–e620.

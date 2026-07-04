@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Comparative pilot study of immediate implant placement + immediate provisionalization (IIPP) in maxillary anterior sites with vs without buccal dehiscence: esthetic indices (PES/WES) were comparable across arms within the small sample, with recession trending higher but not significantly in the dehiscence arm.
+## Three-line Summary
+Comparative pilot study of immediate implant placement + immediate provisionalization (IIPP) in maxillary anterior sites comparing dehiscence vs intact-socket cases; PES/WES and recession were primary outcomes.
 
-## 한줄요약
-파일럿 비교 연구: 협측 dehiscence가 있는 전치부에서도 IIPP의 esthetic outcome이 무결 socket과 통계적으로 큰 차이 없이 수용 가능 — 단, 표본 작음.
+Within the small sample, esthetic indices (PES/WES) were statistically comparable across arms; recession trended higher but not significantly in the dehiscence group.
+
+These findings challenge strict contraindications to IIPP at dehiscence sites, but the pilot design (low n, unblinded, short-term) limits definitive conclusions.
+
+## 세줄요약
+상악 전치부 즉시식립·즉시임시치관 시 협측 골열개 유무를 비교한 파일럿 비교 연구; PES/WES·치은퇴축이 주요 결과.
+
+소표본 내에서 PES/WES는 통계적으로 비슷했고 치은퇴축은 열개군에서 높은 경향이었으나 유의하지 않았다.
+
+열개 부위에 대한 절대 금기를 재검토할 근거를 제시하나, 파일럿 설계(저통계력·단기)로 확정적 결론은 어렵다.
 
 ## Summary
 Comparative pilot study evaluating esthetic outcomes of immediate implant placement with immediate provisionalization in maxillary anterior sites with vs without buccal dehiscence.

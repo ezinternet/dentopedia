@@ -17,13 +17,23 @@ text_filename: feng-2025-expert-consensus-digital-complete-denture.txt
 
 사용자 요청으로 CAD/CAM 치과 기공 관련 논문을 확보하는 과정에서 입수. 기존 [[wiki/complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]]가 CAD-CAM 총의치의 기계적 물성·유지력을 메타분석으로 정량화한 반면, 본 전문가 합의문(Feng 2025)은 적응증 선정부터 디지털 인상·안모스캔·교합채득·CAD 디자인·CAM 제작·follow-up까지 표준화된 임상 워크플로우 프로토콜을 제시해 실행 수준의 공백을 메운다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Expert consensus statement (Chinese multi-institutional prosthodontics panel) standardizing the digital complete denture workflow — case selection, intraoral/facial scanning, custom tray/jaw-relation digital design, CAD tooth arrangement, additive (SLA/DLP/material jetting/powder bed fusion) and subtractive (CNC milling) manufacturing, and evaluation/outcome metrics — with a synthesis of the current comparative evidence vs conventional dentures.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 중국 다기관 보철과 전문가 합의문: 디지털 총의치의 적응증 선정, 구강 내/안모 스캔, 커스텀 트레이·악간관계 디지털 디자인, 인공치 배열, 적층(SLA/DLP/재료분사/분말적층) 및 절삭(CNC 밀링) 제작, 평가지표까지 표준화된 임상 워크플로우를 제시하고 기존 방식과의 비교 근거를 종합함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 TMD 치료 전체 스펙트럼(비침습·최소침습·수술)을 109개 SR을 바탕으로 망라한 최신 scoping review (2024). [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]]과 [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]의 비침습 근거를 확장하며, PRP·오존·BTX·관절경 등 새로운 치료 옵션 근거 추가.
 
-## One-line Summary
-Scoping review of SRs (109 studies, Dent J 2024): non-invasive (CBT/PT) → minimally invasive (splints/injections/BTX/PRP/acupuncture/laser) → surgery — tiered approach; emerging therapies (PRP, ozone, stem cells) show promise.
+## Three-line Summary
 
-## 한줄요약
-SR 109편 대상 scoping review: 비침습(CBT·PT)→최소침습(스플린트·주사·BTX·PRP·침·레이저)→수술 단계별 접근; PRP·오존·줄기세포 등 신치료 주목.
+Scoping review of SRs (109 studies, Dent J 2024): non-invasive (CBT/PT) → minimally invasive (splints/injections/BTX/PRP/acupuncture/laser) → surgery — tiered approach;
+
+emerging therapies (PRP, ozone, stem cells) show promise.
+
+(incomplete)
+
+## 세줄요약
+
+SR 109편 대상 scoping review: 비침습(CBT·PT)→최소침습(스플린트·주사·BTX·PRP·침·레이저)→수술 단계별 접근;
+
+PRP·오존·줄기세포 등 신치료 주목.
+
+(incomplete)
 
 ## 1. Document Information
 - **Journal**: Dentistry Journal 12(6):157 (2024)

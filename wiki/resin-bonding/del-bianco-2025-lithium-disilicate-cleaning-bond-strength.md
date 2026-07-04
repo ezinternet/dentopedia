@@ -13,13 +13,21 @@ source_collection: external
 tags: [lithium-disilicate, decontamination, surface-cleaning, self-etching-primer, saliva-contamination, shear-bond-strength]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n=70, 7 groups): after saliva + try-in silicone contamination of IPS e.max CAD, self-etching ceramic primer (Monobond Etch&Prime) equaled re-etching with 5% HF in bond strength, while water, phosphoric acid, ethanol, and cleaning paste (Ivoclean) were all insufficient.
+In vitro study (IPS e.max CAD, n=70, 7 cleaning groups, Variolink DC resin cement, 24 h storage + SEM) comparing decontamination methods after combined saliva + try-in silicone contamination of lithium disilicate before luting.
 
-## 한줄요약
+Self-etching ceramic primer Monobond Etch&Prime (MEP) achieved shear bond strength equivalent to 5% HF re-etching (p>0.05 for HFSEP vs SEP vs HF); water rinse, phosphoric acid, 70% ethanol, and Ivoclean cleaning paste all produced significantly lower bond strength (p<0.001).
 
-인 비트로 (n=70, 7그룹): 타액+트라이인 실리콘으로 오염된 IPS e.max CAD에서 자가 산처리 세라믹 프라이머(Monobond Etch&Prime)가 5% HF 재처리와 동등한 결합강도를 달성; 수세·인산·에탄올·세정 페이스트(Ivoclean) 모두 불충분.
+When HF re-etching is inconvenient after try-in contamination of lithium disilicate, Monobond Etch&Prime (20 s rubbing) is a clinically equivalent and more convenient chairside alternative; commercial cleaning pastes (Ivoclean) are insufficient.
+
+## 세줄요약
+
+In vitro 연구(IPS e.max CAD, n=70, 7군, Variolink DC 레진시멘트, 24시간 보관 + SEM): 리튬 디실리케이트(Lithium Disilicate, LiSi)의 타액+트라이인 실리콘 오염 후 세정 방법 비교.
+
+자가 산처리 세라믹 프라이머 Monobond Etch&Prime(MEP)이 5% 불산(HF) 재처리와 동등한 전단결합강도를 달성(p>0.05); 수세·인산·70% 에탄올·Ivoclean 클리닝 페이스트는 모두 유의하게 낮은 결합강도(p<0.001).
+
+트라이인 후 리튬 디실리케이트 오염 시 불산 재처리가 불편한 경우, Monobond Etch&Prime(20초 도포)이 임상적으로 동등하고 편리한 대안이며, 시판 클리닝 페이스트(Ivoclean)는 불충분하여 단독 사용을 권장할 수 없음.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: [denture-stomatitis, microwave-disinfection, candida, complete-denture, antifungal, hygiene]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (3 RCTs) demonstrating microwave disinfection of complete dentures is as effective as topical nystatin for treating denture stomatitis, with low GRADE certainty of evidence.
+SR+MA (6 databases, 1524 records, 3 RCTs included) comparing microwave disinfection of complete dentures versus topical nystatin antifungal therapy for treatment of denture stomatitis (Candida-associated).
 
-## 한줄요약
+Meta-analysis found no statistically significant difference between microwave and nystatin for Candida counts on denture surfaces or clinical stomatitis signs (p>0.05), but microwave showed a significant advantage for palatal Candida reduction within 90 days (SMD 0.47, 95% CI 0.02–0.91); GRADE certainty was low.
 
-SR+MA (3건 RCT): 총의치 마이크로웨이브 소독은 nystatin 국소 항진균 치료와 동등하게 의치성 구내염을 치료하며, GRADE 근거 확실성은 낮음.
+Microwave disinfection is a viable drug-free alternative to nystatin and may be preferred where antifungal resistance or contraindications exist, but further large, well-designed RCTs are needed to raise the evidence quality.
+
+## 세줄요약
+
+6개 데이터베이스 검색(1524건) 중 3편 RCT 포함 SR+MA — 완전의치 마이크로웨이브 소독 대 국소 nystatin의 의치성 구내염 치료 효과 비교.
+
+의치 표면 칸디다 수 및 구내염 임상 징후에서 두 군 간 유의차 없음(p>0.05); 구개 칸디다 정량(90일 이내)에서만 마이크로웨이브가 유의하게 유리(SMD 0.47, 95% CI 0.02–0.91). GRADE 근거 확실성: 낮음.
+
+약물 내성·금기가 있는 환자에서 마이크로웨이브는 실용적 비약물 대안이나, 확실한 권고를 위해 더 큰 규모의 잘 설계된 RCT가 필요.
 
 ## Summary
 

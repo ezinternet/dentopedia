@@ -20,13 +20,21 @@ relations:
     target: halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Updated narrative review (15 observational studies of healthy elderly ≥65y vs. younger controls, ROBINS-I risk-of-bias assessed) concluding presbygeusia (age-related taste alteration without pathology) is a real, relatively frequent phenomenon — driven by reduced fungiform papillae density, taste bud homeostasis decline, altered saliva composition/mucin, central nervous system changes, and oral microbiome shifts — but its clinical impact on dietary choices in the elderly is likely modest, since cultural/psychological/social factors dominate food-preference determination.
+Updated narrative review with systematic-style search (837 records screened; 15 observational studies of healthy elderly ≥65 years vs younger controls, all ROBINS-I appraised, overall moderate risk) examining whether presbygeusia — age-related taste impairment without pathology — exists as a distinct entity.
 
-## 한줄요약
+12 of 15 included studies support presbygeusia's existence; sour and bitter thresholds rise measurably with age while sweet is relatively preserved; proposed mechanisms span reduced fungiform papillae density, taste bud homeostasis decline, altered salivary mucin, CNS activation changes, and oral microbiome shifts.
 
-최신 내러티브 리뷰(건강한 노인 ≥65세 vs 젊은층 대조군 15편 관찰연구, ROBINS-I 편향위험 평가) — 병리 없는 순수 노화성 미각저하(presbygeusia)는 실재하는 비교적 흔한 현상이며 버섯유두(fungiform papillae) 밀도 감소·미뢰 항상성 저하·침 성분 변화·중추신경계 변화·구강미생물총 변화가 원인이나, 노인 식이선택에 대한 임상적 영향은 문화·심리·사회적 요인이 더 크게 작용해 제한적임.
+Despite measurable presbygeusia, its link to actual dietary choices in the elderly is weak; cultural, psychological, and social factors explain far more variance in food preference than sensory decline (genetics account for only ~20%); some degree of sour/bitter blunting is expected with normal aging and should not automatically prompt treatment.
+
+## 세줄요약
+
+체계적 검색 방식 내러티브 리뷰(837건 선별; 건강한 노인 ≥65세 vs 젊은층 대조군 관찰연구 15편, 전체 ROBINS-I 편향위험 중등도) — 병리 없이 노화만으로 발생하는 미각저하인 노령미각감퇴(Presbygeusia)가 독립적 실체로 존재하는지 검토.
+
+15편 중 12편이 presbygeusia 존재 지지; 신맛·쓴맛 역치가 나이와 함께 측정 가능하게 증가하고 단맛은 비교적 보존; 기전: 버섯유두(Fungiform Papillae) 밀도 감소·미뢰 항상성 저하·타액 뮤신 변화·중추신경계 활성화 패턴 변화·구강미생물총 변화.
+
+측정 가능한 presbygeusia에도 노인의 실제 식이선택과의 연관성은 약함; 문화·심리·사회적 요인이 식품 선호도 분산을 훨씬 더 많이 설명(유전적 요인 ~20%에 불과); 노화에 따른 신맛·쓴맛 둔화는 정상이므로 자동적으로 치료 대상으로 삼지 않아야 함.
 
 ## Summary
 

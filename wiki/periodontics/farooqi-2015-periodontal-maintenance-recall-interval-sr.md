@@ -13,11 +13,21 @@ source_collection: external
 tags: [spt, supportive-periodontal-therapy, recall-interval, periodontal-maintenance, tooth-retention, compliance, 3-month, 6-month, evidence-gap]
 ---
 
-## One-line Summary
-Systematic review (8 cohort studies, 0 RCTs; 1,095 abstracts screened) on the appropriate periodontal maintenance (PM) recall interval: shorter 3–6 month intervals favor tooth retention in compliant patients, with significantly more tooth loss as intervals approach 12 months; evidence for a uniform prescribed interval is weak, and risk-stratified intervals plus RCTs are needed.
+## Three-line Summary
 
-## 한줄요약
-치주유지치료(PM) 적정 주기 SR (JEBDP 2015): 8편 코호트, RCT 없음; 3–6개월 단기 주기 → 치아보존 유리; 모든 환자 일률적 주기 권고 근거 부족; RCT 필요.
+Systematic review (8 cohort studies, 0 RCTs; 1,095 abstracts screened) evaluating the appropriate recall interval for periodontal maintenance in treated periodontitis patients.
+
+Shorter 3–6 month intervals favored tooth retention in regular compliers; tooth loss rose significantly when intervals approached 12 months in two studies reporting mean recall data.
+
+The widely practiced 3–6 month standard is based on observational consensus alone — zero RCTs exist, and risk-stratified rather than uniform recall intervals are needed.
+
+## 세줄요약
+
+치주유지치료(SPT) 적정 주기에 관한 체계적 고찰(8편 코호트, RCT 0편, 1,095개 초록 선별) — 치료 완료 치주염 환자의 주기별 예후 비교.
+
+3–6개월 단기 주기는 정기 순응 환자에서 치아보존에 유리하며, 주기가 12개월에 근접하면 유의하게 치아 상실이 증가했다.
+
+임상에서 통용되는 3–6개월 주기는 관찰 연구 합의에 근거할 뿐이며 — RCT 근거가 전무하고 위험도 맞춤형 주기 처방이 필요하다.
 
 ## Summary
 Systematic review evaluating evidence for specific recall intervals for periodontal maintenance (PM) visits. Databases: MEDLINE, EMBASE, PubMed; until April 2014; 1,095 abstracts screened. Only 8 cohort studies met inclusion criteria. Zero RCTs found — a major evidence gap.

@@ -19,13 +19,21 @@ relations:
     target: kim-2016-systematic-review-cervical-plexus-accessory
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT study (680 scans, 1,340 mandibular sides): retromolar canal (RMC) found in 16.12% of sides, carrying accessory nerve fibers alongside blood vessels — a documented anatomical cause of mandibular block anesthesia failure and a structure to spare or additionally anesthetize during retromolar surgery.
+Retrospective CBCT study (n=680 scans, 1,340 mandibular sides) in which the retromolar canal (RMC) was found in 16.12% of sides, most commonly in a vertical (type A1) course, with a mean diameter of 1.03 mm and distance of 15.1 mm from the second molar.
 
-## 한줄요약
+The RMC carries accessory nerve fibers and blood vessels; its prevalence in roughly 1-in-6 mandibles provides a documented anatomical explanation for posterior-region mandibular block failures.
 
-후향적 CBCT 연구(680건, 하악 1,340측): 후구치관(RMC)이 16.12%에서 관찰되었고 혈관과 함께 부가신경섬유를 포함 — 하악블록마취 실패의 문서화된 해부학적 원인이며, 후구치부 수술 시 보존하거나 추가 국소마취를 고려해야 할 구조.
+Preoperative CBCT identification is recommended so the RMC can be spared surgically or supplemental locoregional anesthesia planned in the retromolar area when present.
+
+## 세줄요약
+
+후향적 CBCT 연구 (n=680건, 하악 1,340측): 후구치관(RMC)이 16.12%에서 관찰되었으며, 주로 수직형(type A1)이고 평균 직경 1.03mm, 제2대구치까지 거리 15.1mm였다.
+
+RMC는 부가신경섬유와 혈관을 포함하며, 약 1/6의 하악에서 나타나는 유병률로 후방 하악마취 실패의 해부학적 원인을 설명한다.
+
+술전 CBCT로 RMC를 확인하고 수술 시 보존하거나 해당 부위에 보충마취를 계획하는 것이 권장된다.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 연조질 블록형 골대체재 (soft block bone substitute, BBS)를 이용한 GBR 시 L형 성형 후 느슨하게 적용하는 방식(LP)과 비성형 압축 적용 방식(CP)의 효과 차이가 임상적으로 쟁점이었으나 in vivo 비교 데이터가 없었음. 이 개 동물 실험은 해당 gap을 직접 채우며, micro-CT와 조직형태계측 일치도 데이터도 제공해 [[wiki/bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]]와 [[wiki/bone-regeneration/friedmann-2022-horizontal-augmentation-gbr-dog]]의 맥락을 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-Dog RCT (n=4 dogs, 32 implants, 8 weeks): L-shaped loosely-packed vs compactly-packed soft BBS in GBR for peri-implant dehiscence showed no significant difference in bone width at any level; both failed to maintain coronal augmentation without membrane fixation; micro-CT overestimated bone width by 0.31 mm but correlated strongly with histomorphometry (r=0.971).
 
-## 한줄요약
+Dog RCT (n=4 dogs, 32 implants, 8 weeks): L-shaped loosely-packed vs compactly-packed soft BBS in GBR for peri-implant dehiscence showed no significant difference in bone width at any level;
 
-개 동물실험 (n=4마리, 32 임플란트, 8주): L형 느슨하게 적용 vs 비성형 압축 적용 연조질 블록형 골대체재(BBS) 간 골폭 차이 없음; 막 고정 없이는 두 군 모두 치관부 골유지 실패; 미세CT(micro-CT)는 조직형태계측보다 0.31mm 과대평가하나 상관성 강함(r=0.971).
+both failed to maintain coronal augmentation without membrane fixation;
+
+micro-CT overestimated bone width by 0.31 mm but correlated strongly with histomorphometry (r=0.971).
+
+## 세줄요약
+
+
+개 동물실험 (n=4마리, 32 임플란트, 8주): L형 느슨하게 적용 vs 비성형 압축 적용 연조질 블록형 골대체재(BBS) 간 골폭 차이 없음;
+
+막 고정 없이는 두 군 모두 치관부 골유지 실패;
+
+미세CT(micro-CT)는 조직형태계측보다 0.31mm 과대평가하나 상관성 강함(r=0.971).
 
 ## 1. Document Information
 

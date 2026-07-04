@@ -21,13 +21,21 @@ relations:
     target: heo-2022-omega-3-fatty-acids-periodontitis-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 10 RCTs (SRP ± CoQ10): locally delivered CoQ10 gel had no significant effect on PD/CAL, but oral supplementation (120 mg/day) gave small significant gains (PD −0.41 mm, CAL −0.52 mm) at 12 weeks — very low certainty of evidence.
+PROSPERO-registered systematic review (10 RCTs, search to May 2024) of CoQ10 as an adjunct to SRP for periodontitis, stratified by delivery route — local gel vs oral supplementation.
 
-## 한줄요약
+Locally delivered CoQ10 gel (topical/intra-pocket) had no significant effect on PD or CAL; oral supplementation at 120 mg/day gave small but significant improvements (PD −0.41 mm, 95% CI 0.02–0.80; CAL −0.52 mm, 95% CI 0.26–0.78) at ~12 weeks.
 
-10편 RCT 체계적 고찰 — 국소 CoQ10 겔은 효과 없음, 경구 120 mg/일은 12주에 작은 유의 개선(PD −0.41 mm, CAL −0.52 mm). 근거 확실성 very low → 근거기반 권고 불가. 마케팅이 앞서간 영역.
+CoQ10 gel marketed for gum health lacks efficacy evidence; oral 120 mg/day shows a signal but is overall very-low-certainty evidence, insufficient for an evidence-based recommendation and contradicting the earlier pooled MA (Rasoolzadeh 2022) that mixed delivery routes.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 고찰 (10편 RCT, 검색 2024년 5월까지): SRP 보조제로서의 코엔자임 Q10 (CoQ10)을 투여 경로별(국소 겔 vs 경구 보충제)로 층화 분석.
+
+국소 CoQ10 겔(도포/치주낭내)은 치주낭깊이(PD)·임상부착수준(CAL)에 유의한 효과 없음; 경구 120 mg/일은 12주 시 소폭 유의 개선(PD −0.41 mm; CAL −0.52 mm).
+
+'잇몸 제품'으로 판매되는 CoQ10 겔은 근거 없음; 경구 120 mg/일은 신호는 있으나 근거 확실성 very low로 권고 불가, 투여 경로를 혼합하여 겔 효과를 과장한 이전 MA (Rasoolzadeh 2022)와 직접 상충한다.
 
 ## Summary
 

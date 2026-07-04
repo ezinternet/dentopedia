@@ -13,11 +13,21 @@ source_collection: external
 tags: [periodontics, periodontitis, staging-grading, SRP, risk-factors, smoking, diabetes, maintenance]
 ---
 
-## One-line Summary
-Narrative clinical review applying the 2017 multidimensional staging/grading system to periodontitis management, quantifying smoking and diabetes risk, and outlining SRP-to-maintenance treatment sequence.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: 2017 병기/등급 분류 기반 치주염 관리 — 흡연·당뇨 위험 정량화, SRP+항생제 보조요법부터 수술·유지치료까지 치료 프로토콜 총괄.
+Narrative clinical review (Int Dent J, 2021) applying the 2017 World Workshop staging/grading system to the full periodontitis management continuum in adults, drawing on NHANES prevalence data, epidemiological odds ratios, and RCT meta-analyses.
+
+Smoking raises bone-loss OR 3.25–7.28 and attachment-loss OR 2.05–4.07; diabetes raises CAL OR 2.81 and bone-loss OR 3.43; adjunctive systemic antibiotics added to SRP give 0.448 mm extra PD reduction and 0.389 mm extra CAL gain at 6 months (28 RCTs), maintained at 12 months.
+
+The 2017 staging (I–IV by CAL/bone loss/complexity) and grading (A–C by rate of progression, smoking, HbA1c) framework should guide clinical decision-making from home-care optimisation through SRP, surgical therapy, and regular SPT.
+
+## 세줄요약
+
+종설(Int Dent J, 2021) — 2017 World Workshop 병기(I–IV)/등급(A–C) 분류를 성인 치주염 전체 관리 연속체에 적용; NHANES 유병률·역학 OR·RCT 메타분석 근거 종합.
+
+흡연 OR: 치조골손실 3.25–7.28, 부착소실 2.05–4.07; 당뇨 OR: CAL 2.81, 골손실 3.43; SRP 보조 전신 항생제: PD 0.448 mm 추가 감소·CAL 0.389 mm 추가 회복(6개월, RCT 28편), 12개월 유지.
+
+2017 병기·등급 분류로 임상 의사결정 구조화: 구강위생 최적화 → 전악 SRP → 재평가 → 수술(재생/절제) → 정기 유지치료의 단계별 프로토콜 적용.
 
 ## Summary
 This concise clinical review by Kwon, Lamster, and Levin synthesises the aetiology, risk factors, and treatment continuum for periodontitis. It applies the 2017 World Workshop staging (I–IV) and grading (A–C) classification to guide clinical decision-making. Key risk data include smoking ORs of 3.25–7.28 for alveolar bone loss and diabetes ORs of 2.81–3.43. Treatment follows a stepwise sequence: home care optimisation → full-mouth SRP (with optional adjunctive systemic antibiotics) → periodontal re-evaluation → surgical therapy (regenerative or resective) → regular maintenance.

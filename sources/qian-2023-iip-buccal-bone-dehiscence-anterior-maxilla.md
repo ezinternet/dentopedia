@@ -9,7 +9,7 @@ pdf_filename: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 1-year prospective case series of immediate implant placement performed in maxillary anterior sites with pre-existing buccal bone dehiscence, combined with simultaneous GBR.
 
 ## 1. Document Information

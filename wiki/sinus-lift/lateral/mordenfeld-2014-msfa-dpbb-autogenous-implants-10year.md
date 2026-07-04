@@ -13,12 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-10-year prospective cohort (20 patients, 108 turned-surface implants) of maxillary sinus floor augmentation (MSFA) with an 80% deproteinized bovine bone (DPBB) + 20% autogenous bone mixture: 10-year cumulative survival rate 86% (15/108 lost) and mean marginal bone loss 1.6 mm, with failures concentrated in a critical first-2-year window and no significant 10-year MBL/ISQ/pocket-depth difference between grafted vs residual bone or smokers vs non-smokers.
+10-year prospective cohort (20 patients, 108 turned-surface implants) reporting long-term outcomes after maxillary sinus floor augmentation (MSFA) with an 80% deproteinized bovine bone (DPBB) + 20% autogenous bone mixture in severely atrophic posterior maxilla.
 
-## 한줄요약
-10년 전향적 cohort (20명, 108 turned-surface 임플란트): 80% DPBB(Deproteinized Bovine Bone) + 20% 자가골 MSFA(Maxillary Sinus Floor Augmentation) — 누적 생존율 86%, 평균 변연골 흡수 1.6 mm; 식립 후 첫 2년이 critical window; 이후 흡연·증대골 여부와 무관하게 안정.
+10-year cumulative implant survival rate 86% (15/108 lost), mean marginal bone loss 1.6 mm; failures were concentrated in the first 2 years, after which no significant MBL/ISQ/pocket-depth differences were found between grafted vs residual bone or smokers vs non-smokers.
+
+The critical 2-year window concept: implants surviving beyond year 2 showed stable long-term outcomes regardless of smoking or graft position; graft height resorption also plateaued after year 2.
+
+## 세줄요약
+
+10년 전향적 코호트 (20명, 108 turned-surface 임플란트): 심한 후방 상악 위축 환자에서 80% 탈단백 우골 (Deproteinized Bovine Bone, DPBB) + 20% 자가골 상악동거상술 (Maxillary Sinus Floor Augmentation, MSFA) 장기 결과.
+
+10년 누적 생존율 86% (15개 소실), 평균 변연골소실 (Marginal Bone Loss, MBL) 1.6 mm; 실패는 식립 후 첫 2년에 집중 — 이후 증대골 vs 잔존골, 흡연 vs 비흡연 간 MBL·ISQ·치주낭 깊이 모두 유의차 없음.
+
+식립 후 2년이 '임계 시기 (Critical Window)'; 이를 통과한 임플란트는 흡연·이식재 위치와 무관하게 장기 안정 — 골 이식 성숙 후 흡연 영향은 제한적임을 시사.
 
 ## Summary
 Mordenfeld 등(2014)은 심한 후방 상악 위축 환자 20명을 대상으로 한 80:20 DPBB/자가골 MSFA 코호트의 10년 결과를 보고했다. 14명이 10년까지 추적됐고, 108개 turned-surface 임플란트 중 15개가 소실(누적 생존율 86%, 평균 MBL 1.6 mm)됐다. 핵심 발견은 (1) 실패는 첫 2년에 집중 — 이후 안정, (2) 10년 시점 MBL/ISQ/pocket depth는 증대골과 잔존골 간, 흡연·비흡연 간 모두 유의차 없음, (3) graft height는 3개월–2년 사이 흡수가 일어나고 그 이후 안정. Turned-surface 임플란트의 한계가 있지만 80:20 DPBB/자가골 MSFA의 long-term predictability를 뒷받침하는 핵심 임상 데이터다.

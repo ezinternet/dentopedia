@@ -29,13 +29,21 @@ tags: [no-show, non-attendance, practice-management, appointment, reminder, sms,
 > - **구조적 장벽(structural barrier)**: 보험 85%여도 소아 미내원 44% — 비용은 주동인 아님. 대중교통 의존(public transport)은 유의한 상관(p=0.002), 직원 의사소통 오류(staff miscommunication) 10.3%가 행정적 장벽 1위 (Khries).
 > - **임상·운영 takeaway**: ① 고위험군(초진·짧은 리드타임·과거 노쇼·기억 의존)을 **선별**, ② 환자 선호 채널로 **리마인더**(전화 우선), ③ 무차별 오버부킹 대신 **고위험 슬롯 단축**, ④ 가족·교통·예방진료 미수진 등 **구조·세대 장벽**을 동시에 공략. 단일 슬롯 차단보다 다층 운영 설계가 답.
 
-## One-line Summary
+## Three-line Summary
 
-Seven practice-management studies (1 large ML retrospective, 1 adult retrospective, 3 cross-sectional incl. 2 pediatric, and 2 reminder RCTs) converge on dental no-show as a predictable behavioral pattern — reported missed-appointment rates of 42.7–52%, driven by forgetfulness/scheduling/parental behavior rather than cost — best addressed by an operational ladder of risk-flagging (lead time + prior no-show history dominate; ML AUC 0.718), reminders (SMS vs none raised on-time attendance 79% vs 36%, but voice beat SMS, OR 2.12 — channel matters and matches patient preference for a dentist call), high-risk slot shortening, and structural/intergenerational barrier work.
+Synthesis of 7 practice-management studies (1 large ML retrospective, 1 adult retrospective, 3 cross-sectional including 2 pediatric, and 2 reminder RCTs): dental no-show rates are 42.7–52% (higher than primary-care medicine), driven by forgetfulness, scheduling conflicts, and parental behavior — not cost (44% non-attendance despite 85% insurance coverage, Khries 2024; highest-SES group had the highest rate, Bhatia 2018).
 
-## 한줄요약
+The strongest predictors in ML modeling are lead time (booking-to-visit interval; removing it drops AUC 7.5–7.9%) and prior no-show history (binary sequence representation is the key ML feature); overall model AUC 0.718 / F1 66.5% (Alabdulkarim 2022, 196,018 appointments); parental avoidance of preventive care is the strongest independent predictor of adolescent non-attendance (maternal AOR 4.19, Samohyl 2021).
 
-치과 미내원(no-show)을 다룬 7편(대규모 ML 후향 1, 성인 후향 1, 단면 3편 중 소아 2, 리마인더 RCT 2)은 노쇼가 비용이 아닌 망각·일정·부모 행동에 좌우되는 예측 가능한 패턴임을 보여주며(보고 미내원율 42.7~52%), 위험 선별(리드타임·과거 노쇼 이력이 최강 예측, ML AUC 0.718) → 리마인더(SMS가 무리마인더 대비 정시내원 79% vs 36%↑, 단 음성>SMS OR 2.12로 채널이 중요·환자 선호와 일치) → 고위험 슬롯 단축 → 구조·세대 장벽 공략의 운영 사다리로 대응할 것을 시사한다.
+Clinical bottom line: apply an operational ladder — flag high-risk patients (new visit, long lead time, prior no-show, memory-reliant), deliver patient-preferred reminders (voice beats SMS: no-show 8.2% vs 17.7%, OR 2.12, Nelson 2011 RCT; SMS vs none raised on-time attendance 79% vs 36%, Prasad 2012), shorten high-risk slots rather than blindly overbooking, and address structural/intergenerational barriers.
+
+## 세줄요약
+
+7편 종합(ML 후향 1, 성인 후향 1, 단면 3편, 리마인더 RCT 2): 치과 미내원율 42.7~52% — 비용이 아닌 망각·일정·부모 행동에 좌우되는 예측 가능한 패턴(보험 85% 있어도 미내원 44%, Khries 2024; 최상위 SES가 최고 노쇼율, Bhatia 2018).
+
+가장 강한 예측인자: 리드타임(제거 시 AUC 7.5~7.9% 하락)과 과거 노쇼 이력(이진 시퀀스 표현이 핵심); ML AUC 0.718(Alabdulkarim 2022, 196,018건); 부모의 예방진료 기피가 청소년 미내원 최강 독립 예측인자(모 AOR 4.19, Samohyl 2021).
+
+임상 결론: 운영 사다리 — 위험 선별(초진·긴 리드타임·과거 노쇼·기억 의존) → 리마인더(음성>SMS: 노쇼 8.2% vs 17.7%, OR 2.12, Nelson 2011 RCT; SMS vs 무 = 정시 79% vs 36%, Prasad 2012) → 고위험 슬롯 단축 → 구조·세대 장벽 공략.
 
 ## Thesis
 

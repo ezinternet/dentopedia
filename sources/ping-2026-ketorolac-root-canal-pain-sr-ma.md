@@ -17,13 +17,23 @@ text_filename: ping-2026-ketorolac-root-canal-pain-sr-ma.txt
 
 기존 [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]]와 [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]]는 NSAID 전반의 근관치료 후 통증 효과를 다루지만, 개별 약제 케토롤락 (Ketorolac) 단독의 비교효과 SR/MA는 부재했다. 본 SR+MA (Ping 2026, 7편 RCT)는 케토롤락 vs 다른 진통제의 시간대별 (6/12/24 h) 우열을 정량화해 endodontic 통증 약제 선택 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 7 RCTs (5 meta-analyzed): ketorolac significantly outperforms comparator analgesics (dexamethasone, ibuprofen, tapentadol, etodolac, prednisolone) for post-endodontic pain at 6 h (SMD -0.82) and reduces rescue-medication need (RR 0.50), but the advantage disappears by 12 and 24 h.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 7편 RCT (5편 메타분석) SR+MA: 케토롤락 (Ketorolac)은 근관치료 후 통증에서 6시간 시점 다른 진통제보다 유의하게 우수하고 (SMD -0.82) 추가 진통제 필요를 줄이지만 (RR 0.50), 12·24시간에는 차이가 사라진다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ relations:
     target: price-2009-chloride-regulation-pain-pathway
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Open-access review: primary afferent (DRG) nociceptors maintain high intracellular chloride via NKCC1/KCC2, so opening their many chloride channels (GABA-A, glycine, anoctamin/TMEM16, bestrophin, CLC, CFTR, VRAC) can paradoxically excite rather than inhibit — a critical, underappreciated driver of nociceptor sensitization in inflammatory and neuropathic pain.
+Open-access narrative mechanistic review cataloguing the complete chloride-channel repertoire of primary afferent DRG nociceptors (GABA-A, glycine, anoctamin/TMEM16, bestrophin, tweety-homolog, CLC, CFTR, VRAC) and their modulation by inflammatory mediators — extending the spinal chloride framework to the peripheral nervous system.
 
-## 한줄요약
+DRG nociceptors maintain unusually high intracellular chloride via NKCC1/KCC2, so chloride-channel activation paradoxically depolarizes rather than hyperpolarizes these neurons, making chloride flux a driver of peripheral sensitization in inflammatory and neuropathic pain states.
 
-오픈액세스 리뷰 — 말초 DRG nociceptor는 NKCC1/KCC2로 세포내 Cl⁻을 높게 유지해, 같은 Cl⁻ 통로(GABA-A·anoctamin 등) 활성화가 척수와 달리 흥분성 탈분극을 일으켜 염증·신경병성 통증의 nociceptor 감작에 기여한다.
+Anoctamin 1 (TMEM16A), a Ca²⁺-activated chloride channel in nociceptors, is highlighted as a key peripheral analgesic target whose regulation by inflammatory mediators links peripheral chloride homeostasis to clinical pain sensitization.
+
+## 세줄요약
+
+줄1: 일차 구심성 DRG nociceptor의 전체 Cl⁻ 통로 목록(GABA-A·glycine·anoctamin/TMEM16·bestrophin·CLC·CFTR·VRAC) 및 염증성 조절인자에 의한 변화를 체계화한 오픈액세스 내러티브 리뷰 — 척수 Cl⁻ 이론을 말초신경계로 확장.
+
+줄2: DRG nociceptor는 NKCC1/KCC2로 세포 내 Cl⁻ 농도를 높게 유지하므로, Cl⁻ 통로 활성화가 역설적으로 탈분극(흥분)을 유도 — 염증·신경병성 통증 상태에서 nociceptor 감작의 핵심 기전.
+
+줄3: Ca²⁺ 활성화 Cl⁻ 통로 anoctamin 1(TMEM16A)이 말초 진통 표적으로 부각되며, 염증성 조절인자에 의한 Cl⁻ 항상성 변화가 임상 통증 감작을 연결하는 분자 기반임을 강조.
 
 ## Summary
 

@@ -14,11 +14,21 @@ source_collection: external
 tags: [implants, bruxism, late-failure, occlusal-overload, fixture-fracture, screw-loosening, occlusal-splint, botulinum-toxin, btx, jkaoms, editors-opinion, jeju-univ]
 ---
 
-## One-line Summary
-JKAOMS Editor's Opinion (2-page narrative commentary): bruxism is a risk factor for late implant complications after osseointegration — fixture/screw/prosthesis fracture, screw loosening, severe marginal bone loss (MBL), and decementation — and the author recommends pre-implant screening (clinical signs plus EMG/polysomnography) with occlusal splint and/or botulinum toxin (BoNT) as preventive management.
+## Three-line Summary
 
-## 한줄요약
-JKAOMS Editor's Opinion(2 pages): 이갈이는 임플란트 late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인이며 식립 전 EMG·PSG 기반 진단 + 교합스플린트·보툴리눔 톡신으로 사전 관리 권고.
+JKAOMS Editor's Opinion (2-page narrative commentary, Jeju National University) reviewing 9 cited works on bruxism and implant complications; not a SR/MA.
+
+Bruxism is identified as a risk factor for late implant complications after osseointegration — fixture fracture, screw loosening, prosthesis fracture, severe marginal bone loss (MBL), and decementation — while osseointegration itself (early failure) is not impaired.
+
+The author recommends pre-implant bruxism screening (clinical signs + EMG/polysomnography) followed by occlusal splint and/or botulinum toxin (BoNT) injection as preventive management; no dose or decision threshold specified, as this is editorial opinion level only.
+
+## 세줄요약
+
+JKAOMS Editor's Opinion (2 pages, 제주대학교) — 이갈이와 임플란트 합병증에 관한 9편 인용 서술적 논평; SR/MA 아님.
+
+이갈이는 골유착 이후의 late failure(픽스처 파절·스크류 이완·보철 파절·심한 MBL·탈시멘트) 위험인자; 골유착 자체(early failure)는 영향 없음.
+
+식립 전 이갈이 선별검사(임상징후 + EMG·PSG) 후 교합스플린트 및/또는 보툴리눔 독소 예방적 관리 권고 — 투여량·결정 임계치 미제시(편집자 의견 수준).
 
 ## Summary
 This editorial commentary in the Journal of the Korean Association of Oral and Maxillofacial Surgeons argues that bruxism — clenching, grinding, or mandibular thrusting during sleep or wakefulness — is associated with **late** implant complications (after osseointegration is achieved), specifically fixture fracture, screw loosening, screw fracture, prosthesis fracture, severe marginal bone loss, and decementation. The author proposes pre-implant screening (history of repetitive prosthesis failure, clinical signs such as masticatory muscle hypertrophy, linea alba, severe attrition, and instrumental assessment via EMG or polysomnography) and recommends adjunctive treatment with occlusal splint and/or botulinum toxin injection into masticatory muscles before implant installation.

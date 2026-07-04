@@ -17,13 +17,23 @@ text_filename: ozbay-2024-enamel-matrix-derivative-transcrestal-sinus-rct.txt
 
 PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 RCT — transcrestal 거상에 **법랑기질유도체(Enamel Matrix Derivative, EMD)** 생물학적 첨가의 가치를 묻는다. 기존 transcrestal 페이지들이 술식(osteotome vs OD)·이식재 유무에 집중한 반면, 본 RCT는 biologic adjunct 축을 추가해 [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]]의 혈소판농축물 adjunct 논의와 짝을 이룬다. 결론은 "EMD가 조기(T3) endo-sinus 골증가는 늘리지만 12개월엔 차이 소실" — adjunct의 한계를 보여 [[sinus-lift/transcrestal/kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma]]의 높은 기저 생존율과 함께 "추가 술식의 한계효용"을 시사한다. PMC 전문 미제공 — abstract-only.
 
-## One-line Summary
+## Three-line Summary
+
 
 RCT (24 patients, 40 implants) of transcrestal sinus floor elevation with vs without enamel matrix derivative: EMD significantly increased endo-sinus bone gain at 3 months (3.72 vs 3.10 mm) but the difference vanished by 12 months, with no inter-group ISQ difference.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 경치조골 상악동거상에 법랑기질유도체(EMD) 첨가 RCT(24명·40 임플란트) — EMD군이 3개월 endo-sinus 골증가 유의하게 큼(3.72 vs 3.10 mm)이나 12개월엔 차이 소실, 군간 ISQ 차이 없음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

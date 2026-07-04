@@ -26,13 +26,21 @@ relations:
     target: mucogingival-surgery-apf-fgg-ctg
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + network meta-analysis (109 RCTs, 4712 RT1 recessions, 3188 patients; Periodontology 2000, 2024): among autologous platelet concentrates (APCs) added to a coronally advanced flap (CAF), only CAF+PRF significantly increased mean root coverage over CAF alone (+6.12%, 95% CI 1.83–10.42, p=0.02) — PRP and CGF did not — and the PRF benefit rose with more baseline keratinized tissue width (KTW), while no APC improved KTW or gingival thickness (GT).
+Systematic review + network meta-analysis (109 RCTs, 4712 RT1 gingival recessions, 3188 patients; Periodontology 2000, 2024) ranking autologous platelet concentrates (APCs) added to a coronally advanced flap (CAF) for RT1 root coverage.
 
-## 한줄요약
+Among PRF, PRP, and CGF tested against CAF alone as the reference, only CAF+PRF significantly increased mean root coverage (+6.12%, 95% CI 1.83–10.42, p=0.02); PRF benefit grew with greater baseline keratinized tissue width (interaction +4.98, p=0.03); no APC improved KTW or gingival thickness.
 
-체계적 문헌고찰 + 네트워크 메타분석(109 RCT · RT1 치은퇴축 4712 · 환자 3188명; Periodontology 2000, 2024): 치관변위판막(CAF)에 더한 자가혈소판농축물(APC) 중 CAF+PRF만 CAF 단독 대비 평균 근면피복을 유의하게 높였고(+6.12%, 95% CI 1.83–10.42, p=0.02), PRP·CGF는 무의미; PRF 효과는 baseline 각화조직폭(KTW)이 클수록 커졌으나 어떤 APC도 KTW·치은두께(GT)는 개선하지 못함.
+PRF is a viable low-morbidity adjunct to CAF where baseline keratinized tissue is adequate; autogenous CTG remains superior where KTW is deficient or recession is deep.
+
+## 세줄요약
+
+Periodontology 2000(2024) 체계적 문헌고찰 + 네트워크 메타분석(109 RCT, RT1 치은퇴축 4712개, 환자 3188명) — 치관변위판막(Coronally Advanced Flap, CAF)에 더한 자가혈소판농축물(Autologous Platelet Concentrate, APC) 비교.
+
+PRF·PRP·CGF 중 CAF+PRF만 CAF 단독 대비 평균 근면피복 유의 증가(+6.12%, 95% CI 1.83–10.42, p=0.02); PRF 효과는 baseline 각화조직폭(Keratinized Tissue Width, KTW)이 클수록 증가(상호작용 +4.98, p=0.03); 어떤 APC도 KTW·치은두께 개선 불가.
+
+KTW가 충분한 부위에서 PRF는 저이환율의 CAF 보조제; KTW 부족·퇴축 깊은 경우에는 자가결합조직이식(Connective Tissue Graft, CTG)이 여전히 우선.
 
 ## Summary
 

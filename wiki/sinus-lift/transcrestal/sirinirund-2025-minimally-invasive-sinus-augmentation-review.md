@@ -14,11 +14,21 @@ source_collection: external
 tags: [minimally-invasive, vsa, lsa, sinus-lift, endoscope, digital-planning, balloon, hydraulic]
 ---
 
-## One-line Summary
-Systematic review (SR, 36 studies, 2,732 maxillary sinus floor augmentations [MSFA]): classifies minimally invasive vertical (VSA) and lateral (LSA) sinus augmentation, recommending VSA for residual bone height ≥5 mm and LSA for <5 mm; stopper-drills, balloon, hydraulic, endoscope, and microscope techniques all achieved adequate bone gain, though perforation rates were mostly unreported.
+## Three-line Summary
 
-## 한줄요약
-SR (36연구, 2,732 MSFA): 잔존골 ≥5mm = VSA, <5mm = LSA; 스토퍼·풍선·수압·내시경·현미경 — 모든 최소침습기법에서 충분한 골증량
+Systematic review (36 studies, 2,732 maxillary sinus floor augmentations) classifying minimally invasive vertical (VSA) and lateral (LSA) sinus augmentation techniques and summarizing their outcomes.
+
+VSA is recommended for residual bone height ≥5 mm and LSA for <5 mm; stopper-drills, balloon, hydraulic, endoscope, and microscope techniques all achieved adequate bone gain and implant success across included studies.
+
+Perforation rates were mostly unreported, limiting direct comparison of morbidity; the RBH 5 mm threshold is a practical decision boundary, not a high-certainty evidence cutoff, as direct technique comparisons remain scarce.
+
+## 세줄요약
+
+최소침습 수직(Vertical Sinus Augmentation, VSA) 및 측방(Lateral Sinus Augmentation, LSA) 상악동 거상 기법을 분류하고 결과를 종합한 체계적 고찰(36연구, 2,732 상악동거상술(Maxillary Sinus Floor Augmentation, MSFA)).
+
+잔존 골 높이(Residual Bone Height, RBH) ≥5 mm는 VSA, <5 mm는 LSA 권고; 스토퍼 버, 풍선, 수압, 내시경, 현미경 등 모든 최소침습기법에서 충분한 골증량·임플란트 성공 달성.
+
+천공률이 대부분 미보고되어 이환율 직접 비교 불가; RBH 5 mm 기준치는 근거 기반 결정치가 아닌 실용적 경계 — 기법 간 직접 비교 연구가 부족함.
 
 ## Summary
 SR (36연구, 2732 MSFA). 최소 침습 VSA·LSA 기법 분류·기술. **잔존 골 ≥5mm: VSA; <5mm: LSA**. 모든 최소 침습 기법에서 충분한 골증량 및 임플란트 성공 달성. 천공 발생률 대부분 미보고.

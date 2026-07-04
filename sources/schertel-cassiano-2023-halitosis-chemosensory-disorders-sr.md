@@ -14,13 +14,23 @@ pmid: "33660384"
 
 구강 악취(Halitosis)의 화학감각장애(Chemosensory Disorder) — 후각 및 미각 이상 — 와의 연관성을 체계적으로 검토한 최초 SR로, 기존 [[halitosis/silva-2017-estimated-prevalence-halitosis-sr]]에서 다루지 않은 감각 합병증 차원의 임상적 맥락을 제공함. 구강 악취 환자에서 smell/taste 장애 동반 여부를 평가할 근거 기반 확립에 필요.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review (Oral Diseases, 2023) examining the bidirectional association between halitosis and chemosensory disorders (olfactory and gustatory), finding evidence that halitosis patients may report altered smell/taste perception, likely via shared oral/nasal pathophysiological mechanisms.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구강 악취(Halitosis)와 화학감각장애(Chemosensory Disorder) — 후각·미각 이상 — 의 연관성을 체계적으로 검토한 SR로, 구강 악취 환자에서 후각·미각 변화가 동반될 수 있음을 시사하는 근거를 제시함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

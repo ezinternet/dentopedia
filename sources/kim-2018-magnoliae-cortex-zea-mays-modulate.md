@@ -10,7 +10,7 @@ pdf_filename: kim-2018-magnoliae-cortex-zea-mays-modulate.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In vitro study (SNU Periodontology, funded by DongKook Pharmaceutical, maker of Insadol) showing that Magnoliae Cortex 60 µg/mL (M) and titrated unsaponifiable Zea mays L. fraction 300 µg/mL (Z) — alone or combined (MZ) — suppress NF-κB activation, p44/42 MAPK and iNOS expression, NO/PGE₂/IL-1β/IL-6 production in P. gingivalis-stimulated RAW 264.7 murine macrophages, with synergistic effect when combined.
 
 ## 1. Document Information

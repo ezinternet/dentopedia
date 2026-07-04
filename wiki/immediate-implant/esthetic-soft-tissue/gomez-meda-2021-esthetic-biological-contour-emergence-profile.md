@@ -16,13 +16,21 @@ relations:
     target: nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Gomez-Meda et al., 2021, J Esthet Restor Dent) proposing the Esthetic Biological Contour (EBC) concept — a four-zone framework for designing biologically sound and esthetically favorable emergence profiles of implant-supported restorations.
+Narrative review (J Esthet Restor Dent 2021) proposing the Esthetic Biological Contour (EBC) concept — a four-zone framework (implant-abutment interface, subcritical, critical, supragingival) for designing emergence profiles of implant-supported restorations, synthesising key cited studies (no original data).
 
-## 한줄요약
+Zones 1–2 require concave/neutral contour for biologic width accommodation and crestal bone stability; Zone 3 controls gingival margin position; Zone 4 provides the esthetic crown-like contour — all informed by implant 3D position, soft tissue thickness (≥2 mm buccal), and implant design.
 
-서술적 임상논문 (Gomez-Meda 등, 2021): 임플란트 수복물의 출현 윤곽을 4개 구역으로 구분하고 각 구역별 디자인 원칙을 제시한 EBC(심미적 생물학적 윤곽) 개념 소개.
+The EBC framework applies equally to provisional and definitive restorations; provisionalization is the primary clinical tool for zone-by-zone emergence shaping, with a palatal/apical implant position being the spatial prerequisite for adequate Zone 2 concavity.
+
+## 세줄요약
+
+서술적 논문(J Esthet Restor Dent 2021) — 임플란트 수복물 출현 윤곽을 4개 구역(임플란트-지대주 계면, 하임계, 임계, 치은상방)으로 구분한 EBC 개념 제안; 원본 데이터 없음, 기존 문헌 합성.
+
+Zone 1–2는 생물학적 폭경 수용·치조정 골 안정을 위해 오목/중립 윤곽 필요; Zone 3은 치은연 위치 조절; Zone 4는 심미적 치관 형태 — 임플란트 3D 위치·연조직 두께(협측 ≥2 mm)·임플란트 디자인이 각 구역을 결정.
+
+EBC 프레임워크는 임시·최종 수복물 모두에 적용 가능; 임시수복물이 주요 임상 도구이며, 구개측/치근단측 임플란트 위치가 충분한 Zone 2 오목 윤곽의 공간적 전제조건.
 
 ## Summary
 

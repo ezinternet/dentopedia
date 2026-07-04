@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Radiographic study (n=150 CBCTs of maxillary first premolars) proposing a prosthetically-driven classification system to predict optimal immediate implant placement (IIP) location, with a substantial proportion of cases amenable to inter-radicular septum anchorage and a subset requiring palatal-wall reliance.
+## Three-line Summary
 
-## 한줄요약
-150개 CBCT 분석: 상악 제1소구치 즉시식립의 위치는 보철 driven으로 분류 가능 — 단순 분류 체계 제안, 실제 술전 stability 예측은 별도 변수 필요.
+Retrospective CBCT study of 150 maxillary first premolars proposing a prosthetically-driven classification to predict optimal immediate implant placement (IIP) location.
+
+A substantial proportion of cases were amenable to inter-radicular septum anchorage, while a subset required palatal-wall reliance for primary stability.
+
+The classification provides a first-premolar–specific framework to decide between socket-driven versus septum-driven anchorage, though no outcome data were included.
+
+## 세줄요약
+
+상악 제1소구치 150개 CBCT를 후향 분석하여 즉시 식립 위치를 보철 주도로 예측하는 분류 체계를 제안한 연구.
+
+상당 비율의 증례는 치근간 중격 지지가 가능했고, 일부는 구개측 벽 지지가 필요했다.
+
+결과 데이터 없이 해부학적 분류만 제안한 단계이므로 실제 안정성 예측에는 추가 변수 평가가 필요하다.
 
 ## Summary
 Radiographic feasibility study on 150 CBCTs of maxillary first premolars, proposing a prosthetically-driven classification system to predict optimal immediate implant location.

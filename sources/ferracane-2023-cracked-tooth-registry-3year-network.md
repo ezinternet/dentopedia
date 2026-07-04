@@ -14,7 +14,7 @@ source_collection: external
 
 CTS 분야 가장 큰 cohort: National Dental PBRN의 **3년 다기관 관찰 연구 lessons learned**. SR/umbrella가 다루지 못한 실제 임상 환경 데이터 — 어떤 crack이 악화되는가, 언제 개입하나, 무엇이 best 치료인가. [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]]가 SR 통합을 했다면, 본 연구는 cohort primary data.
 
-## One-line Summary
+## Three-line Summary
 Multi-site prospective cohort + retrospective review (National Dental PBRN, 8 articles 2017-2022 통합, OHSU 주도): 후방 cracked teeth 임상 특성·치료·outcome 3년 — 3 핵심 임상 질문 답.
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: zyla-2015-black-stain-dental-caries-review.txt
 
 블랙 스테인 (Black Stain, BS)이 오히려 우식 경험을 낮춘다는 임상 관찰은 직관에 반하지만 중요한 임상 신호다. 이 리뷰는 그 메커니즘(미생물, 화학, 타액)을 체계적으로 정리한 가장 인용 빈도 높은 개요 문헌으로, [[caries/mousa-2022-black-stain-caries-children-sr-ma]]의 메타분석 결과를 해석하는 생물학적 기반을 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (2001–2014 literature) synthesizing etiology, prevalence (2.4–18%), microbiology (Actinomyces-dominant), chemistry (iron/sulfur complexes), and salivary factors explaining the inverse association between black stain and dental caries.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서사적 리뷰 (2001–2014): 블랙 스테인 (Black Stain, BS) 유병률 2.4–18%, 주요 원인균 Actinomyces, 철/황 복합체가 착색 원인이며 타액 칼슘·완충능 증가로 우식 경험 저하와 관련됨.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

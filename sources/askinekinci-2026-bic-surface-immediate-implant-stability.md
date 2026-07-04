@@ -17,13 +17,21 @@ text_filename: askinekinci-2026-bic-surface-immediate-implant-stability.txt
 
 기존 [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]]가 즉시식립 ISQ 안정성을 부위(상악/하악)로 비교했다면, 본 RCT는 동일 macro-design 임플란트에서 *fresh extraction (graft/no-graft) vs healed* 부위 간 primary stability와 가상 BIC의 상관을 직접 측정한다. 즉시식립의 잔존 gap에 graft를 채우는 것이 초기 기계적 안정성에 기여하는지, 그리고 native bone contact(BIC)가 ISQ를 얼마나 예측하는지에 대한 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Pilot RCT (n=28; 3 groups) showing immediate placement with vs without grafting yields similar primary stability, healed sites are significantly higher (ISQ/torque P=0.014/0.007), and virtual BIC correlates with early ISQ only in the no-graft immediate group (r=0.62/0.58).
+Pilot RCT (n=28; 3 groups: immediate-with-graft, immediate-no-graft, healed site) using a novel CBCT+IOS-based digital workflow to estimate virtual bone-implant contact surface (BIC) and correlate it with insertion torque and ISQ at a single posterior maxillary site.
 
-## 한줄요약
+Healed sites showed significantly higher insertion torque (41.1 vs 32.0 Ncm, P=0.007) and intraoperative ISQ (71.6 vs 62.0, P=0.014) than immediate implants; grafting the peri-implant gap did not improve primary stability over no grafting; virtual BIC correlated with ISQ and torque only in the no-graft group (r=0.62/0.58).
 
-파일럿 무작위대조시험 (Randomized Controlled Trial, RCT, n=28, 3군): 즉시식립 시 골이식 유무는 초기 안정성에 차이가 없고 (치유부 골 부위가 유의하게 높음, P=0.014/0.007), 가상 골-임플란트 접촉면적 (virtual Bone-Implant Contact surface, BIC)은 비이식 즉시식립군에서만 초기 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 상관 (r=0.62/0.58).
+Clinically, bone grafting at immediate implant placement does not enhance early mechanical stability, and native apical bone engagement (reflected by BIC) is the key driver of primary stability — but the pilot scale (n≈9–10 per group) and 90-day follow-up limit generalizability.
+
+## 세줄요약
+
+파일럿 RCT(n=28, 3군: 즉시식립+이식·즉시식립 비이식·치유 부위) — CBCT+구내 스캔(intraoral scan, IOS) 융합 디지털 워크플로우로 가상 골-임플란트 접촉면적(virtual Bone-Implant Contact surface, BIC)을 추정하고 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 및 삽입 토크와 상관분석.
+
+치유 부위가 즉시식립에 비해 삽입 토크(41.1 vs 32.0 Ncm, P=0.007)·수술 중 ISQ(71.6 vs 62.0, P=0.014) 유의하게 높았고, 이식 유무는 초기 안정성에 차이 없었으며, 가상 BIC는 비이식 즉시식립군에서만 ISQ·토크와 유의한 상관(r=0.62/0.58).
+
+골이식이 즉시식립의 초기 기계적 안정성을 향상시키지 않으며 선천 골 접촉이 주요 결정인자이나, 군당 n≈9–10의 파일럿 규모와 90일 추적의 한계가 있음.
 
 ## 1. Document Information
 

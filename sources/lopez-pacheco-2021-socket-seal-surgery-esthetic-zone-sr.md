@@ -9,7 +9,7 @@ pdf_filename: lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Int J Implant Dent 2021;7:13: SR+MA+TSA of 6 RCTs, 135 sockets esthetic zone — socket seal surgery (FGG, CM, CS, ADM, PTFEm); FGG without bone fill best height; CM vs FGG no clinical difference; TSA: insufficient data for definitive conclusions.
 
 ## 1. Key Results

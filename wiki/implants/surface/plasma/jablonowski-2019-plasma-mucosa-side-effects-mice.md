@@ -13,13 +13,21 @@ source_collection: external
 tags: [plasma, CAP, safety, mucosa, mice, peri-implantitis, kINPen]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vivo mouse safety study (180 mice, 12 groups; buccal mucosa treated with two CAP sources for 10 s or 1 min vs UV and untreated controls; sacrificed 1 day or 1 week): a pre-clinical screen for short-term mucosal tissue damage before in-human CAP use for peri-implant disease.
+In vivo mouse safety study (180 mice, 12 groups, n=15 each): buccal mucosa was treated with two CAP sources (10 s or 1 min for kINPen 09) vs UV and untreated controls, sacrificed at 1 day or 1 week, with blinded histopathology assessment.
 
-## 한줄요약
+Designed as a pre-clinical screen for short-term mucosal tissue damage before advancing CAP to human peri-implant disease treatment; device and dose comparisons were a primary design objective.
 
-쥐 in vivo 안전성 연구(180마리, 12군; 협측 점막에 2종 CAP 10초·1분 vs UV·무처리, 1일·1주 후 희생): 사람 임플란트주위염 CAP 적용 전 단기 점막 손상 여부를 보는 전임상 안전성 검증.
+The study is limited to short-term (≤1 wk) mouse mucosal outcomes at specific device/dose combinations — quantitative lesion-grade data were not extracted here and re-reading the PDF is needed for per-group grading.
+
+## 세줄요약
+
+줄1: 쥐 in vivo 안전성 연구(180마리, 12군, 군당 n=15): 협측 점막에 2종 CAP(kINPen 09는 10초·1분) vs UV·무처리 대조, 1일·1주 후 희생, 맹검 조직병리 평가.
+
+줄2: 인체 임플란트주위염 CAP 적용에 앞선 단기 점막 손상 전임상 안전성 검증이 설계 목적; 장치·용량 비교가 핵심 설계 요소.
+
+줄3: 단기(≤1주) 쥐 점막에 특정 장치·용량 조합 한정 — 군별 병소 등급 정량 데이터 미추출, 필요 시 원문 PDF 재독 필요.
 
 ## Summary
 

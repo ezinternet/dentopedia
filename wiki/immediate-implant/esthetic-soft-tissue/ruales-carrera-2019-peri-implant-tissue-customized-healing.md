@@ -16,13 +16,21 @@ relations:
     target: gomez-meda-2021-esthetic-biological-contour-emergence-profile
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Clinical case series demonstrating that chairside-fabricated customized healing abutments placed at immediate implant surgery preserve peri-implant soft tissue contours and eliminate the need for provisional restorations or reopening surgery.
+Clinical technique description with illustrative cases demonstrating chairside fabrication of customized healing abutments (CHA) using PEEK or PMMA blocks placed immediately after extraction and implant insertion.
 
-## 한줄요약
+CHA replicating the natural tooth's critical and subcritical contour zones preserved soft tissue architecture from extraction to final prosthesis without provisional restorations or a second surgical stage.
 
-즉시 임플란트 식립 시 맞춤형 치유 지대주(CHA)를 즉석 제작·장착해 연조직 외형을 보존하고 임시 보철과 재개방 수술을 생략할 수 있음을 보여준 케이스 시리즈 (2019).
+The technique is indicated when primary stability is insufficient for immediate loading, offering a staged protocol that maintains the soft-tissue "tunnel" established at extraction.
+
+## 세줄요약
+
+발치 후 즉시 PEEK/PMMA 맞춤형 치유 지대주(CHA)를 의장 제작·장착해 연조직 외형을 보존하는 술식을 증례와 함께 제시한 임상 기법 보고.
+
+천임계·초임계 외형대를 자연치 형태에 맞추면 임시치관이나 재개방 수술 없이 최종 보철까지 연조직 구조를 유지했다.
+
+1차 안정성이 즉시부하 요건에 미달할 때 사용하며, 총 내원 횟수를 줄이면서 연조직 형태를 보존하는 staged 프로토콜로 활용된다.
 
 ## Summary
 

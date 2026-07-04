@@ -13,13 +13,21 @@ text_filename: marenzi-2026-torque-limiting-devices-accuracy-manufacturers.txt
 tags: [torque, abutment-screw, microgap, implant-abutment-interface, torque-wrench, morse-taper]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study comparing 3 manufacturers' mechanical torque wrenches found all under-deliver torque by 11–29.3%, but all achieve zero microgap at the implant-abutment interface when set to 25 Ncm.
+In vitro study (3 manufacturers' mechanical torque-limiting devices, n=5 wrenches each, 15/20/25 Ncm; microgap assessed by SEM on 20 implants/group) using a universal testing machine for standardized torque measurement.
 
-## 한줄요약
+All wrenches under-delivered torque by 11–29.3%; wrench A (Biotech Dental, 5° taper) was significantly more accurate than B and C; at 25 Ncm, all manufacturers achieved zero microgap at the implant-abutment interface; at 20 Ncm, group A showed smaller gaps than B and C.
 
-기계식 토크 렌치(Mechanical Torque Wrench) 3종 비교 in vitro 연구: 모든 장치 설정값 대비 11–29.3% 낮은 토크 전달, 그러나 25 Ncm 설정 시 전 제조사에서 미세간극(Microgap) 無.
+25 Ncm is a safe clinical threshold that abolishes microgap despite systematic torque under-delivery; taper angle interacts with delivered torque at borderline settings, suggesting connection geometry matters when wrench accuracy is uncertain.
+
+## 세줄요약
+
+기계식 토크 제한 장치(Mechanical Torque-Limiting Device) 3제조사(Biotech Dental A·Biosafin B·Global D C)를 비교한 in vitro 연구(렌치 5개/제조사, 15/20/25 Ncm, SEM 미세간극 측정, 그룹당 임플란트 20개).
+
+모든 렌치 설정값 대비 11–29.3% 낮은 토크 전달; 렌치 A(5° 테이퍼)가 B·C보다 유의미하게 정확; 25 Ncm 설정 시 전 제조사 임플란트-어버트먼트 계면 미세간극(Microgap) 없음; 20 Ncm에서는 그룹 A가 B·C보다 간극 작음.
+
+25 Ncm은 체계적 토크 과소전달에도 미세간극을 없애는 안전한 임상 기준값; 경계 설정 시 연결부 테이퍼 각도가 계면 품질에 영향을 미침.
 
 ## Summary
 

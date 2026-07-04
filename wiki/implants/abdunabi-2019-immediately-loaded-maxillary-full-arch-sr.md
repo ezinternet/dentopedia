@@ -13,13 +13,21 @@ source_collection: external
 tags: [full-arch, immediate-loading, edentulous-maxilla, fixed-prosthesis, patient-satisfaction]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (4 controlled clinical trials; meta-analysis not possible due to heterogeneity) finding only weak evidence of any difference between immediate loading and early/conventional loading of fully implant-supported maxillary full-arch fixed prostheses, for patient satisfaction or maintenance complications.
+Systematic review of 4 controlled clinical trials (meta-analysis precluded by heterogeneity; 8 databases to Jan 2019) comparing immediate vs early/conventional loading of implant-supported maxillary full-arch fixed prostheses in edentulous patients.
 
-## 한줄요약
+Immediate loading showed only a transient patient-satisfaction advantage (lost by 12 months); implant success and prosthetic complications did not differ significantly across 3 of 4 trials.
 
-체계적 고찰(4개 임상시험; 이질성으로 메타분석 불가) — 무치악 상악 전악 고정성 보철에서 즉시 로딩과 조기/통상 로딩 간 환자 만족도·유지관리 합병증 차이는 약한 근거만 존재했다.
+Evidence is weak and insufficient for firm protocol recommendations — robust RCTs in the edentulous maxilla are still needed before immediate full-arch loading can be standardized.
+
+## 세줄요약
+
+체계적 고찰 (4개 CCT; 이질성으로 메타분석 불가; 8개 데이터베이스 2019.1까지) — 무치악 상악 전악 임플란트 지지 고정성 보철에서 즉시 vs 조기/통상 부하 비교.
+
+즉시 부하의 환자 만족도 이점은 일시적(12개월에 소실); 임플란트 성공률·보철 합병증은 3편에서 유의차 없음.
+
+근거 미약 — 상악 무치악 즉시 전악 부하 표준화를 위한 견고한 RCT 추가 필요.
 
 ## Summary
 

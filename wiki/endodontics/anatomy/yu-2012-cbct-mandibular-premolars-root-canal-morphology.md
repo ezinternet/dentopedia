@@ -16,13 +16,21 @@ relations:
     target: song-2008-cross-sectional-morphology-and-minimum-canal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT study of 356 mandibular premolars (149 western Chinese patients): first premolars 98% one-rooted (Vertucci Type I 86.8%, Type V 9.8%), with C-shaped canals in only 1.1% of first and 0.6% of second premolars.
+Cross-sectional CBCT study of 356 mandibular premolars (149 archival scans, western Chinese population with high non-Han ethnic diversity) evaluating root number, canal type, bifurcation level, and Vertucci configuration.
 
-## 한줄요약
+First premolars were 98% single-rooted (Vertucci Type I 86.8%, Type V 9.8%); second premolars were 100% single-rooted (Type I 97.2%); true C-shaped canals were rare (first 1.1%, second 0.6%), contrasting with an earlier Taiwanese report of 18% in first premolars.
 
-하악 소구치 356개(서부 중국인 149명) CBCT 분석 — 제1소구치 98% 단일근, Vertucci Type I(86.8%)·Type V(9.8%) 주류, C-shaped canal은 제1소구치 1.1%·제2소구치 0.6%로 드묾.
+Canal bifurcations occurred predominantly in the middle-to-apical third (87% in first, 75% in second premolars), which is the region hardest to negotiate, underscoring the need for careful length control and shaping strategy in premolars showing two-canal anatomy on preoperative imaging.
+
+## 세줄요약
+
+서부 중국 집단(149명) 하악 소구치 356개의 CBCT 후향적 연구 — 근수·근관형태·분지 위치·Vertucci 분류 분석.
+
+제1소구치 98% 단일근(Vertucci Type I 86.8%, Type V 9.8%), 제2소구치 100% 단일근(Type I 97.2%); C-shaped 근관은 드묾(제1소구치 1.1%, 제2소구치 0.6%) — 대만 연구의 18%와 대조.
+
+근관 분기는 중간·정단 1/3에 집중(제1소구치 87%, 제2소구치 75%)되어 술전 영상에서 2근관이 의심될 경우 정확한 작업 길이 설정과 성형 전략이 중요하다.
 
 ## Summary
 

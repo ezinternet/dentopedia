@@ -14,11 +14,21 @@ source_collection: external
 tags: [smoking, early-implant-failure, SR-MA, dose-response, J-Dent, OR-2.59, observational]
 ---
 
-## One-line Summary
-SR+MA (32 observational studies, 59,246 implants / 14,115 patients, 1994–2024) of smoking and early dental implant failure: smoking carries an implant-level OR of 2.59 (95% CI 2.08–3.23) vs non-smoking, with patient-level analysis also significantly positive — the current best single-paper quantitative anchor for the smoking → early implant failure relationship.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
+SR+MA (32 observational studies, 59,246 implants in implant-level analysis, 14,115 patients in patient-level analysis, 1994–2024) quantifying the association between smoking and early dental implant failure.
+
+Smoking was associated with an implant-level OR of 2.59 (95% CI 2.08–3.23) for early implant failure vs non-smoking; patient-level analysis was also significantly positive, confirming concordance across units of analysis.
+
+Smokers should be counselled that early implant failure risk is approximately 2.6-fold that of non-smokers; the evidence base is observational and "early failure" definitions vary, but this is the current best quantitative anchor for the smoking–failure relationship.
+
+## 세줄요약
+
+SR+MA (관찰 연구 32편, 임플란트 단위 59,246개 / 환자 단위 14,115명, 1994–2024) — 흡연과 조기 임플란트 실패의 연관성 정량화.
+
+흡연은 임플란트 단위에서 조기 실패 OR 2.59 (95% CI 2.08–3.23)로 유의하게 연관; 환자 단위 분석에서도 유의한 양의 결과; 두 분석 단위 간 일관성 확인.
+
+흡연자에게 비흡연자 대비 조기 임플란트 실패 위험이 약 2.6배임을 동의서 단계에서 고지해야 함; 근거는 관찰 연구이며 "조기 실패" 정의가 연구마다 다름.
 
 ## Summary
 Largest SR+MA to date on smoking and early dental implant failure: 32 observational studies, 59,246 implants in implant-level analysis, 14,115 patients in patient-level analysis. Twenty-one cohort studies meta-analyzed at implant level: smoking associated with **OR 2.59 (95% CI 2.08-3.23)** for early implant failure vs non-smoking. Patient-level analysis also significantly positive.

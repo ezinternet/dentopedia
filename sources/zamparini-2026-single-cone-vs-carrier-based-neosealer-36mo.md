@@ -17,13 +17,23 @@ text_filename: zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo.txt
 
 PubMed 감시(one-cone technique) — Bologna 그룹(Prati/Zamparini/Spinelli)이 [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]]를 NeoSealer Flo·36개월·carrier-based 비교로 확장. 단일콘 vs carrier-based가 healing은 동등(93% vs 88%)하나 **apical extrusion은 carrier-based에서 유의하게 많다(75% vs 48%)**는 점이 임상 의사결정(어떤 충전법을 쓸지)에 직접 쓰인다. [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]](NeoSealer Flo 생체적합성)의 임상 짝.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (53 RCTs, 48 patients, NeoSealer Flo) — single-cone vs carrier-based had equivalent 36-mo healing (93% vs 88%, p>0.05) but carrier-based showed significantly more apical sealer extrusion (75% vs 48.2%); extrusion did not compromise healing.
 
-## 한줄요약
+Retrospective cohort (53 RCTs, 48 patients, NeoSealer Flo) — single-cone vs carrier-based had equivalent 36-mo healing (93% vs 88%, p>0.05) but carrier-based showed significantly more apical sealer extrusion (75% vs 48.2%);
 
-후향 코호트(53건, 48명, NeoSealer Flo) — 단일콘 vs carrier-based의 36개월 치유율은 동등(93% vs 88%, p>0.05)했으나 carrier-based에서 치근단 실러 압출이 유의하게 많았다(75% vs 48.2%); 압출은 치유를 저해하지 않았다.
+extrusion did not compromise healing.
+
+(incomplete)
+
+## 세줄요약
+
+
+후향 코호트(53건, 48명, NeoSealer Flo) — 단일콘 vs carrier-based의 36개월 치유율은 동등(93% vs 88%, p>0.05)했으나 carrier-based에서 치근단 실러 압출이 유의하게 많았다(75% vs 48.2%);
+
+압출은 치유를 저해하지 않았다.
+
+(incomplete)
 
 ## 1. Document Information
 

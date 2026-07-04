@@ -9,7 +9,7 @@ pdf_filename: lee-2011-isq-loading-protocol-prediction.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective study (5-month, Asan Medical Center): ISQ values correlate with bone density and insertion torque; ISQ ≥65 at placement predicts successful early/immediate loading; ISQ trajectory monitored over 5 months.
 
 ## 1. Document Information

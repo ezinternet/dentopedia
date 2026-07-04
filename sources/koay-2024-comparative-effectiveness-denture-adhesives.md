@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/complete-denture/shu-2021-systematic-review-meta-analysis-denture-adhesives]]는 의치접착제가 유지력·저작력을 향상시킨다는 것을 보여주었지만, 크림·파우더·스트립·쿠션 등 접착제 유형 간 직접 비교 근거가 없었다. 본 NMA(Koay 2024)는 네트워크 메타분석으로 유형별 효능 순위를 제공해 임상 선택에 직접 활용 가능한 근거를 추가함.
 
-## One-line Summary
+## Three-line Summary
+
 
 Network meta-analysis of 17 RCTs comparing denture adhesive types (cream, powder, strip, cushion) for complete dentures — cream and powder adhesives most effective for mandibular retention (Kapur's index) and bite force (moderate certainty evidence).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 17개 RCT 네트워크 메타분석: 크림·파우더 의치접착제가 하악 완전의치 유지력(Kapur 지수)과 구치부 교합력 향상에 가장 효과적임 (중등도 근거).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

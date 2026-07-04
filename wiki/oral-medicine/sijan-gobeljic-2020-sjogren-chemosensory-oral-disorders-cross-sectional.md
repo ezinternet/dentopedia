@@ -20,13 +20,22 @@ relations:
     target: poudel-2026-xerostomia-dental-treatment-outcomes-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Comparative cross-sectional study (58 primary Sjögren's syndrome patients vs. 55 age/gender-matched healthy controls) finding significantly higher rates of gustatory dysfunction (ageusia/hypogeusia for sweet 34%, bitter 19%, salty 10%, sour 11%), olfactory dysfunction (anosmia OR 5.2), dysgeusia (52.6% vs. 9.4%), and burning tongue sensation (45.6% vs. 0%), all associated with significantly worse oral health-related quality of life (OHIP-14), while halitosis rates did not differ between groups.
+Comparative cross-sectional study (58 primary Sjögren's syndrome patients vs 55 age/gender-matched healthy controls, Belgrade 2017–2019) using objective taste strips (4 qualities) and Sniffin' Sticks olfactory identification alongside patient-reported dysgeusia, burning tongue, halitosis, and OHIP-14.
 
-## 한줄요약
+pSS patients showed significantly impaired gustatory function (objective taste score 4.11 vs 6.11, p<0.0001), elevated anosmia risk (OR 5.2), higher dysgeusia (52.6% vs 9.4%) and burning tongue sensation (45.6% vs 0%), all correlating with worse OHIP-14 across all sub-domains; halitosis did not differ.
 
-대조군 비교 횡단연구(원발성 쇼그렌증후군 환자 58명 vs 연령·성별 매칭 건강대조군 55명) — 미각기능이상(단맛 34%·쓴맛 19%·짠맛 10%·신맛 11% 무미각/저미각), 후각기능이상(무후각 교차비 5.2), 미각이상 dysgeusia(52.6% vs 9.4%), 설작열감(45.6% vs 0%)이 유의하게 높고 모두 구강건강관련 삶의 질(OHIP-14) 저하와 연관; 구취는 두 군간 차이 없음.
+Salivary flow rate correlates only weakly with chemosensory severity in pSS (suggesting a parallel inflammatory/interferon mechanism, not solely hyposalivation), and only 4% of pSS patients used artificial saliva versus 81% using artificial tears — a striking undertreatment gap.
+
+## 세줄요약
+
+비교 횡단연구 (원발성 쇼그렌증후군, pSS, 58명 vs 연령·성별 매칭 건강대조군 55명, 베오그라드 2017–2019) — 객관적 미각 스트립(4가지 맛)·Sniffin' Sticks 후각검사 + 자기보고 미각이상·설작열감·구취·OHIP-14 동시 측정.
+
+pSS군은 미각 기능 유의하게 저하(객관적 총점 4.11 vs 6.11, p<0.0001), 무후각 위험 높음(OR 5.2), 미각이상 52.6% vs 9.4%, 설작열감 45.6% vs 0% — 모두 OHIP-14 전 하위 영역 저하와 연관; 구취는 차이 없음.
+
+침 유량은 화학감각 기능장애 심각도와 약한 상관만 있음(저침분비 단독이 아닌 인터페론 경로 염증 기전 병행 시사); 인공 타액 사용률은 4% vs 인공 눈물 81% — 구강 영역의 뚜렷한 저치료 격차.
+
 
 ## Summary
 

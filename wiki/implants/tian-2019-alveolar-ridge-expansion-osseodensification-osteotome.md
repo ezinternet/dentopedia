@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, ridge-expansion, osteotome, animal-study, porcine, BIC, BAFO]
 ---
 
-## One-line Summary
-In vivo animal study (atrophic porcine mandible, 12 implants, 6 per arm, 4-week healing) comparing osseodensification (OD) vs conventional Summers osteotome for alveolar ridge expansion: OD nearly doubled BIC (62.5% vs 31.4%, P=0.018) but BAFO was unchanged (P=0.198), indicating denser interface intimacy without added bone volume; small sample and single early time point limit clinical extrapolation.
+## Three-line Summary
 
-## 한줄요약
-동물 in vivo 연구 (atrophic 돼지 하악, n=12 임플란트, 4주 치유) — 골밀도화 (Osseodensification, OD) 군이 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 62.5% vs 일반 osteotome 31.4% (P=0.018)로 우월. 단 표본이 6/6에 불과하고 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음 (P=0.198) — 짧은 관찰기간·소표본 한계 명시.
+In vivo animal study (atrophic porcine mandibles after bilateral premolar extraction; 12 × 4 × 13 mm implants, n=6 per arm; 4-week healing) comparing osseodensification (OD, Densah-style CCW burs) vs conventional Summers osteotome for alveolar ridge expansion.
+
+OD nearly doubled BIC at 4 weeks (62.5% vs 31.4%, P=0.018); bone area fraction occupancy (BAFO) was not significantly different between groups (P=0.198), indicating OD improves interface intimacy via compaction without changing total peri-implant bone volume.
+
+OD enables ridge expansion with enhanced early BIC in atrophic models, but n=6/arm, a single 4-week time point, and BRR Tech funding sharply limit clinical extrapolation; the BAFO null result means OD alone cannot make a sub-3 mm ridge implantable.
+
+## 세줄요약
+
+동물 in vivo 연구 (양측 소구치 발치 후 atrophic 돼지 하악; 임플란트 12개 n=6/군; 4주 치유) — 골밀도화 (Osseodensification, OD; Densah 반시계방향 버) vs 통상 Summers osteotome 치조제 확장 비교.
+
+4주 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC): OD 62.5% vs osteotome 31.4% (P=0.018); 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 두 군 간 차이 없음 (P=0.198) — OD는 압축 충전으로 접촉 밀도 향상, 총 골용적 증가 없음.
+
+OD는 atrophic 모델에서 조기 BIC 증가로 치조제 확장에 유리; 단 n=6/군·단일 4주·BRR Tech 지원으로 임상 외삽 제한 심각, BAFO 무차이는 OD 단독으로 3 mm 미만 치조제를 임플란트 가능하게 만들지 못함을 시사.
 
 ## Summary
 Tian et al. compared OD drilling (Densah-style counterclockwise burs) against the conventional Summers osteotome technique for alveolar ridge expansion in horizontally atrophic porcine mandibles. Twelve 4 × 13 mm endosteal implants were placed (six per arm) into ridges that had been deliberately atrophied by prior premolar extractions. Animals were sacrificed at 4 weeks and analyzed histologically.

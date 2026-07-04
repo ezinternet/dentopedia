@@ -17,13 +17,23 @@ text_filename: hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct.txt
 
 Fills the gap in head-to-head RCT evidence for reconstructive vs access-flap surgery specifically stratified by 3-wall vs 4-wall defect morphology in peri-implantitis — the key clinical decision split that existing NMA data from [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] does not resolve at defect-type level. This trial (Groningen, 2020–2025) adds defect-morphology subgroup data confirming radiographic MBL benefit of reconstruction while finding no difference in composite disease resolution.
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=52 patients, 63 implants, 1-year follow-up) found reconstructive peri-implantitis surgery (autogenous bone + Bio-Oss + Bio-Gide) vs open-flap debridement improved radiographic marginal bone levels (β = −1.65 mm at T12; p<0.001) and reduced mid-buccal recession (β = −1.68 mm; p<0.001), but showed no difference in PPD, BoP, SoP, or composite disease resolution.
 
-## 한줄요약
+Single-blind RCT (n=52 patients, 63 implants, 1-year follow-up) found reconstructive peri-implantitis surgery (autogenous bone + Bio-Oss + Bio-Gide) vs open-flap debridement improved radiographic marginal bone levels (β = −1.65 mm at T12;
 
-단일맹검 무작위대조시험 (n=52명, 63개 임플란트, 1년 추적): 재건적 임플란트주위염 수술 (자가골 + Bio-Oss + Bio-Gide)은 개방소파술 대비 방사선학적 변연골 수준 (Marginal Bone Level, MBL) 개선 (β = −1.65 mm; p<0.001) 및 협측 퇴축 감소 (β = −1.68 mm; p<0.001)에서 유의한 이점을 보였으나, 치주낭 깊이 (Probing Pocket Depth, PPD), 탐침 시 출혈 (Bleeding on Probing, BoP), 화농 (Suppuration on Probing, SoP), 복합 질환 해소율에는 유의한 차이가 없었다.
+p<0.001) and reduced mid-buccal recession (β = −1.68 mm;
+
+p<0.001), but showed no difference in PPD, BoP, SoP, or composite disease resolution.
+
+## 세줄요약
+
+
+단일맹검 무작위대조시험 (n=52명, 63개 임플란트, 1년 추적): 재건적 임플란트주위염 수술 (자가골 + Bio-Oss + Bio-Gide)은 개방소파술 대비 방사선학적 변연골 수준 (Marginal Bone Level, MBL) 개선 (β = −1.65 mm;
+
+p<0.001) 및 협측 퇴축 감소 (β = −1.68 mm;
+
+p<0.001)에서 유의한 이점을 보였으나, 치주낭 깊이 (Probing Pocket Depth, PPD), 탐침 시 출혈 (Bleeding on Probing, BoP), 화농 (Suppuration on Probing, SoP), 복합 질환 해소율에는 유의한 차이가 없었다.
 
 ## 1. Document Information
 

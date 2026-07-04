@@ -10,7 +10,7 @@ pdf_filename: huang-2020-isq-clinical-significance-literature-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review identifying 17 ISQ-influencing factors; only 6 have clinically predictive power; only 2 have well-documented scientific basis (local bone quality and implant macro-design).
 
 ## 1. Document Information

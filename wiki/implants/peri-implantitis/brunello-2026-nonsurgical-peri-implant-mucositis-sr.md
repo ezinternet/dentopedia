@@ -19,13 +19,21 @@ relations:
     target: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (21 studies — 19 RCTs, 2 NRCTs; 1068 patients) of nonsurgical peri-implant mucositis therapy: all protocols including mechanical debridement alone reduced BOP and improved clinical parameters, with mucositis resolution ranging 9%–100%; adjuncts gave only minor additional benefit at 6 months, and a planned network meta-analysis could not be performed due to data scarcity and heterogeneity.
+Systematic review (21 studies — 19 RCTs, 2 NRCTs; 1,068 patients) of nonsurgical therapy for peri-implant mucositis, searching MEDLINE-PubMed, Cochrane CENTRAL, and Web of Science for studies with ≥6 months follow-up.
 
-## 한줄요약
+All protocols including mechanical debridement alone reduced bleeding on probing (BOP) to varying degrees; mucositis resolution ranged 9%–100%, and adjuncts (laser, air-polishing, antimicrobials, probiotics, antibiotics) gave only minor additional benefit at 6 months.
 
-임플란트주위 점막염(peri-implant mucositis)의 비외과적 치료 체계적 문헌고찰(21편 — RCT 19편·NRCT 2편, 환자 1068명): 기계적 변연부 청소(mechanical debridement) 단독을 포함한 모든 프로토콜이 출혈(BOP)을 줄이고 임상지표를 개선했으며 점막염 해소율은 9%~100%로 편차가 컸고, 보조요법(레이저·air-polishing·항균제·프로바이오틱스·항생제)은 6개월 시점에서 미미한 추가 효과만 보였다. 데이터 부족·이질성으로 네트워크 메타분석(NMA)은 수행 불가였다.
+A planned network meta-analysis could not be performed due to data scarcity and heterogeneity; only one-third of studies were at low risk of bias, highlighting the need for standardized outcome sets and longer follow-up.
+
+## 세줄요약
+
+임플란트주위 점막염(Peri-implant Mucositis)의 비외과적 치료 체계적 문헌고찰(21편 — RCT 19편·NRCT 2편, 환자 1,068명) — MEDLINE-PubMed·Cochrane CENTRAL·Web of Science에서 ≥6개월 추적 연구를 검색.
+
+기계적 변연부 청소(Mechanical Debridement) 단독을 포함한 모든 프로토콜이 탐침출혈(Bleeding on Probing, BOP)을 다양한 정도로 감소시켰고, 점막염 해소율은 9%–100%의 편차를 보였으며, 보조요법(레이저·에어폴리싱·항균제·프로바이오틱스·항생제)은 6개월 시점에서 미미한 추가 효과만 보였다.
+
+계획된 네트워크 메타분석(Network Meta-Analysis, NMA)은 데이터 부족·이질성으로 수행 불가였으며, 포함 연구 중 저비뚤림위험 연구는 1/3에 그쳐 표준화된 결과 지표 세트와 장기 추적 연구의 필요성이 강조된다.
 
 > Note: abstract-only — full text not retrieved (no PMC full text available). Summary, Methodology, and Results below are written at abstract level only.
 

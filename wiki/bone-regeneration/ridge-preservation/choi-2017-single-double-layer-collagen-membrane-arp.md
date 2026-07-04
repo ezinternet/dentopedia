@@ -13,11 +13,21 @@ source_collection: external
 tags: [alveolar-ridge-preservation, collagen-membrane, open-healing, cbct, pilot-rct]
 ---
 
-## One-line Summary
-Randomized pilot (n=11 molars): single-layer (SL) vs. double-layer (DL) collagen membrane coverage in open-healing ARP shows no significant difference in horizontal or vertical ridge preservation or clinical healing — both are suitable (width reduction SL −1.7 vs. DL −1.8 mm).
+## Three-line Summary
 
-## 한줄요약
-무작위 파일럿(n=11 대구치): open-healing ARP에서 콜라겐 막 단층(SL) vs 이중층(DL) 피개는 수평·수직 치조제 보존과 임상 치유에서 차이 없음 — 둘 다 적합. (폭 감소 SL −1.7 vs DL −1.8 mm)
+Prospective randomized pilot (n=11 molar sockets, 9 patients) comparing single-layer (SL) vs. double-layer (DL) collagen membrane coverage in open-healing ARP with CBCT and clinical follow-up.
+
+No significant difference between SL and DL in horizontal width reduction (SL −1.7±0.5 mm vs DL −1.8±0.4 mm) or any other vertical or horizontal dimensional outcome; all sites received implants with acceptable initial stability.
+
+Membrane layering (1 vs 2 layers) is not a driver of ARP outcome in open-healing — single-layer coverage is sufficient, reducing material cost without compromising ridge preservation.
+
+## 세줄요약
+
+전향적 무작위 파일럿 (Prospective Randomized Pilot, n=11 대구치, 9명): 개방 치유 (Open-healing) 치조제 보존술 (ARP)에서 단층 (Single-layer, SL) vs 이중층 (Double-layer, DL) 콜라겐 막 피개, 콘빔 전산화 단층촬영 (CBCT) 및 임상 평가.
+
+SL vs DL 수평 폭 감소: SL −1.7±0.5 mm, DL −1.8±0.4 mm; 기타 수직·수평 치수 결과 모두 유의차 없음; 전 부위 임플란트 식립 성공.
+
+개방 치유 ARP에서 콜라겐 막 층수는 결과에 영향 없음 — 단층으로 충분하며 재료 비용 절감 가능; 다만 n=11로 소규모 파일럿이어서 확정 결론에 한계.
 
 ## Summary
 Park-group open-healing ARP series. Variable isolated: membrane layering. Single vs double collagen-membrane coverage made no substantial dimensional or healing difference — membrane layer count is not a driver of ARP outcome here.

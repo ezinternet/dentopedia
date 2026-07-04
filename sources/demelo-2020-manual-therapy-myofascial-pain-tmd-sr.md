@@ -13,13 +13,21 @@ source_collection: external
 
 Part of a TMD physical-therapy ingest batch building out the manual-therapy / physiotherapy evidence cluster. It reinforces [[wiki/tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] by supplying an RDC/TMD-anchored, RCT-only synthesis specifically for masticatory myofascial pain, and complements [[wiki/tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] (myogenous TMD management) by quantifying where manual therapy sits relative to counseling and botulinum toxin. The key nuance worth capturing: manual therapy relieved pain in all 5 RCTs but was NOT superior to counseling or botulinum toxin head-to-head — a comparative-effectiveness caveat that matters when sequencing conservative TMD care.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (5 RCTs, 279 patients, RDC/TMD-diagnosed masticatory myofascial pain): manual therapy relieved pain in all studies but was not superior to counseling or botulinum toxin; no meta-analysis due to heterogeneity and across-the-board risk of bias.
+Systematic review (5 RCTs, 279 patients) of manual therapy (MT) for RDC/TMD-diagnosed masticatory myofascial pain; all studies carried overall unclear risk of bias and methodologic heterogeneity prevented meta-analysis.
 
-## 한줄요약
+MT relieved pain in all 5 studies and was significantly better than no treatment (Kalamir 2012, P < .05) and counseling alone (Kalamir 2013, P < .001), but was not statistically superior to counseling + MT combined (Michelotti, P = .157) or to a single botulinum toxin injection (Guarda-Nardini, P > .05).
 
-체계적 문헌고찰 (RCT 5편, 환자 279명, RDC/TMD로 진단된 저작근 근막통증): 도수치료 (Manual Therapy, MT)는 모든 연구에서 통증을 완화했으나 상담 (counseling)이나 보툴리눔 독소 (botulinum toxin)보다 우월하지는 않았고, 이질성과 비뚤림 위험으로 메타분석은 시행하지 못함.
+MT is a low-cost, reversible, noninvasive first-line option for masticatory myofascial pain, but comparative effectiveness versus counseling or botulinum toxin remains unclear due to the small evidence base and uniform unclear risk of bias across all included trials.
+
+## 세줄요약
+
+체계적 문헌고찰 (RCT 5편, 환자 279명): RDC/TMD 진단 기준으로 확인된 저작근 근막통증 (Masticatory Myofascial Pain) 환자에서 도수치료 (Manual Therapy, MT)의 효과를 평가하였으며, 이질성으로 메타분석은 불가했고 5편 모두 비뚤림 위험 불명확으로 분류됨.
+
+MT는 모든 연구에서 통증을 완화하였고, 무처치 대비(P < .05) 및 상담 단독 대비(P < .001) 유의하게 우월하였으나, 상담 + MT 병합 대비(P = .157)나 보툴리눔 독소 (Botulinum Toxin, BTX) 단독(P > .05) 대비로는 통계적 우월성이 없었음.
+
+MT는 저비용·가역적·비침습적인 1차 보존적 선택지이나, 상담이나 보툴리눔 독소와의 비교효과는 소규모 근거와 전반적 불명확 비뚤림 위험으로 인해 여전히 불확실하며 추가 고품질 RCT가 필요함.
 
 ## 1. Document Information
 

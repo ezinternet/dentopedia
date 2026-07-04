@@ -9,7 +9,7 @@ pdf_filename: rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma.p
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of clinical endodontic irrigation and dressing protocols for apical periodontitis: single-visit treatment achieves higher healing rates (RR 1.10) than multi-visit with Ca(OH)2; NaOCl concentration and CHX vs NaOCl are not significant for 7-day pain.
 
 ## 1. Document Information

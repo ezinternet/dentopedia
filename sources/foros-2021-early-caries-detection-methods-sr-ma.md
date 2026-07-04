@@ -9,7 +9,7 @@ pdf_filename: foros-2021-early-caries-detection-methods-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 초기 우식 탐지 방법(DIAGNOdent, ICDAS-II, 방사선 등) SR+MA: DD Pen 민감도 0.81–0.89 최고, 교합면 기준 방사선 민감도 0–0.29 최저.
 
 ## 1. Document Information

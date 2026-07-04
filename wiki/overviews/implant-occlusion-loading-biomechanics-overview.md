@@ -35,13 +35,21 @@ relations:
 > - 오판 패턴: "임플란트도 자연치처럼 교합 주면 된다"(PDL 부재로 불가), "약교합 한 번이면 영구 예방"(교합력 증가로 유지 안 됨), "FEA가 임상 과부하-골소실을 증명"(모델 가정, 임상 인과 미확정).
 > - [[overviews/bruxism-muscle-overload-axis]]가 이갈이→과부하 병태생리 렌즈라면, 본 페이지는 임플란트 교합 설계·하중·측정의 보철·생역학 렌즈로 상보적이다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the occlusion cluster through the implant lens: because an osseointegrated implant lacks a periodontal ligament, occlusal force is neither cushioned nor sensed, so design aims to minimize and distribute load. Clinical and FEA evidence converges on four points — implant occlusal contacts drift (usually toward relative infraocclusion) within 6-12 months; "light occlusion" lowers force but is unstable over time; occlusal scheme and prosthesis configuration (cantilever, tooth-implant connection, full-arch) modulate peri-implant stress; and the chairside lever is periodic occlusal re-checks (T-Scan/articulating film), not a single ideal scheme.
+Synthesis of the implant occlusion cluster (~20 papers across clinical, FEA, and animal studies): the absence of a periodontal ligament means occlusal force on osseointegrated implants is neither cushioned nor sensed, so the design goal is to minimize and distribute load — active tactile thresholds of implants (10–100 µm) are consistently higher than natural teeth (<10–50 µm, Singh 2026 SR), and "light occlusion" reduces immediate force but is unstable over time as contacts drift and force increases (Zhang 2022 prospective, n=50, T-Scan III).
 
-## 한줄요약
+Clinical evidence converges on four axes: implant contacts drift toward relative infraocclusion within 6–12 months (Mao 2024 SR+MA, Assoratgoon 2025 SR); even a single posterior crown redistributes occlusal force across the entire arch — posterior and anterior forces drop while opposing and total forces rise (Gözen 2025 in-vivo, n=18); occlusal overload is associated with MBL (0.65–3.0 mm) and peri-implantitis (20–50%) through a dual biofilm-×-mechanical pathway rather than as an independent cause (Mojaver 2025 SR); and non-axial implant placement independently predicts MBL (0.22 vs 0.10 mm, p<0.05; Kim 2026 retrospective, n=506).
 
-교합 클러스터를 임플란트 관점으로 종합. 골유착 임플란트는 치주인대가 없어 교합력이 완충도 감지도 안 되므로, 설계 목표는 하중 최소화·분산이다. 임상·FEA 근거는 4점으로 수렴 — 임플란트 교합접촉은 6-12개월 내 변동(대개 상대적 저위교합 방향); "약교합(light occlusion)"은 힘을 낮추나 시간이 지나며 불안정; 교합양식·보철 구성(캔틸레버·치아-임플란트 연결·full-arch)이 임플란트주위 응력을 좌우; 체어사이드 레버는 단일 이상적 양식이 아니라 정기 교합 재점검(T-Scan/교합지)이다.
+Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/12 months (T-Scan/articulating paper, not IOS alone); ②minimize cantilever / tooth-implant connections for multi-unit prostheses; ③prioritize splinting for bruxers; ④axial placement preferred; for overdentures, balanced occlusion outperforms lingualized or monoplane schemes.
+
+## 세줄요약
+
+임플란트 교합 클러스터 ~20편 종합(임상·FEA·동물): 치주인대(PDL) 부재로 교합력이 완충·감지되지 않아 임플란트의 능동 촉각 역치(10–100 µm)가 자연치(<10–50 µm)보다 둔하고(Singh 2026 SR), "약교합"은 즉시 힘을 낮추나 시간이 지나며 교합력이 증가해 유지 안 됨(Zhang 2022 전향, n=50).
+
+4축 임상 근거: 임플란트 교합접촉은 6–12개월 내 상대적 저위교합으로 변동(Mao 2024 SR+MA); 단일 구치 임플란트 수복도 전악 교합력을 재분배함(Gözen 2025, n=18); 교합 과부하는 MBL(0.65–3.0mm)·임플란트주위염(20–50%)과 biofilm 염증과의 상승작용으로 연결됨(Mojaver 2025 SR); 비축 식립이 MBL에 독립적 기여(0.22 vs 0.10mm, Kim 2026, n=506).
+
+임상 ladder: ①약교합을 출발점으로 하되 0.5/3/6/12개월 교합 재점검(T-Scan/교합지, IOS 단독 불가) ②다단위 보철에서 캔틸레버·치아-임플란트 연결 최소화 ③이갈이 환자는 스플린트 우선 ④가능하면 축방향 식립; 오버덴처는 균형교합이 기능 결과 우위.
 
 ## Summary
 

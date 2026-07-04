@@ -13,13 +13,23 @@ source_collection: external
 
 Documents a rare C-shaped variant in the mandibular FIRST molar (the wiki's prevalence pages center on second molars), with the first reported case of four separate canals within a single fused C-shaped first-molar root, confirmed by CBCT. Applies the Fan C1–C5 classification and management principles from [[wiki/endodontics/anatomy/fernandes-2014-cshaped-root-canal-configuration-review]] and the thin-wall morphology of [[wiki/endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] to an uncommon tooth, and extends the second-molar-focused CBCT prevalence picture in [[wiki/endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[wiki/endodontics/anatomy/armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct]], and [[wiki/endodontics/anatomy/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma]] into the rarer first-molar territory.
 
-## One-line Summary
+## Three-line Summary
+
 
 Case report (CBCT-confirmed) of bilateral C-shaped mandibular first molars — the first documented mandibular first molar with four separate canals (two mesial + two distal) inside a single fused C-shaped root.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 양측 하악 제1대구치 C-shaped 근관 증례(CBCT 확진) — 융합된 단일 C-shaped 근 내에 4개의 분리된 근관(근심 2 + 원심 2)을 가진 최초 보고 하악 제1대구치.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

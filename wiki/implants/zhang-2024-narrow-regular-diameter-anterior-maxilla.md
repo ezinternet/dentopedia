@@ -13,13 +13,21 @@ source_collection: external
 tags: [narrow-diameter-implant, anterior-maxilla, esthetic-zone, bone-augmentation]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (5 studies; 282 NDIs, 100 RDIs) finding narrow-diameter implants yield implant survival, MBL, and PPD comparable to regular-diameter implants with bone augmentation in the anterior maxilla over 36 months.
+SR+MA (5 studies, 282 narrow-diameter implants vs 100 regular-diameter implants + bone augmentation in the anterior maxilla, searched to February 2024, ≥12-month follow-up): implant survival at 36 months was equivalent between groups (RR 0.989, 95% CI 0.839–1.165, p=0.896), with no significant differences in MBL or PPD.
 
-## 한줄요약
+Soft tissue dehiscence — the key esthetic-zone complication — was most common in the regular-diameter (augmentation) group; narrow-diameter implants also offered shorter treatment time and faster esthetic improvement.
 
-5편(NDI 282개, RDI 100개) 체계적 고찰·메타분석. 전치부 상악에서 좁은 직경 임플란트(NDI)는 골증대 동반 정규 직경(RDI)과 36개월 생존율·MBL·PPD가 동등했고 치료기간·심미 회복이 빠른 이점.
+In the narrow anterior maxilla, a narrow-diameter implant is a defensible graft-avoidance option with equivalent 36-month outcomes, though the limited follow-up and small RDI arm caution against broad generalization.
+
+## 세줄요약
+
+SR+MA(5편, 협소 직경 임플란트(NDI) 282개 vs 정규 직경(RDI) + 골증대 100개, 전치부 상악, ≥12개월 추적, 2024년 2월까지): 36개월 임플란트 생존율 동등(RR 0.989, p=0.896), MBL·PPD 유의차 없음.
+
+연조직 열개(soft tissue dehiscence) — 심미 부위의 핵심 합병증 — 는 정규 직경(골증대) 군에서 더 흔했고, NDI는 치료 기간 단축과 빠른 심미 회복의 이점도 있었다.
+
+좁은 전치부 상악에서 NDI는 골이식 회피의 합당한 선택지로 36개월 결과가 동등하나, 짧은 추적 기간과 소규모 RDI 군이 광범위한 일반화를 제한한다.
 
 ## Summary
 

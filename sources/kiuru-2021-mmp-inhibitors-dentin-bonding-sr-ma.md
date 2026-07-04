@@ -17,13 +17,23 @@ text_filename: kiuru-2021-mmp-inhibitors-dentin-bonding-sr-ma.txt
 
 Quantitative meta-analytic backing for the MMP-inhibition strategy that underpins hybrid-layer preservation: it converts the qualitative claim "collagenolytic enzymes degrade the hybrid layer over time" into a pooled effect showing chlorhexidine (CHX) preserves *aged* (but not immediate) resin-dentin bond strength. Reinforces the dentin bond-degradation mechanism described in the dentin-adhesion literature (sibling page [[wiki/resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]], which frames hybrid-layer collagen breakdown and MMP-inhibitor adjuncts within the evolution of adhesive dentistry) and complements [[wiki/resin-bonding/anithakumari-2022-desensitizing-agents-bond-strength-sr]] on agents applied at the bonding interface. (Note: intended sibling `resin-bonding/liu-2011-limitations-bonding-dentin-bond-degradation-review` is not yet in the wiki — link to be added when that page is ingested.)
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (740→43 studies; MA on 21 CHX articles) showing chlorhexidine (an MMP inhibitor) has no effect on immediate resin-dentin bond strength but significantly preserves aged bond strength at 6/12/24 months, with the advantage growing over time.
 
-## 한줄요약
+Systematic review + meta-analysis (740→43 studies;
 
-체계적 문헌고찰 + 메타분석 (740→43편; CHX 21편 메타분석) — 클로르헥시딘(기질금속단백분해효소 억제제, Matrix Metalloproteinase inhibitor, MMP inhibitor)은 즉시 결합강도에는 영향이 없으나 6·12·24개월 노화 후 레진-상아질 결합강도를 유의하게 보존하며, 노화가 길수록 이점이 커진다.
+MA on 21 CHX articles) showing chlorhexidine (an MMP inhibitor) has no effect on immediate resin-dentin bond strength but significantly preserves aged bond strength at 6/12/24 months, with the advantage growing over time.
+
+(incomplete)
+
+## 세줄요약
+
+
+체계적 문헌고찰 + 메타분석 (740→43편;
+
+CHX 21편 메타분석) — 클로르헥시딘(기질금속단백분해효소 억제제, Matrix Metalloproteinase inhibitor, MMP inhibitor)은 즉시 결합강도에는 영향이 없으나 6·12·24개월 노화 후 레진-상아질 결합강도를 유의하게 보존하며, 노화가 길수록 이점이 커진다.
+
+(incomplete)
 
 ## 1. Document Information
 

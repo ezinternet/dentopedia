@@ -28,11 +28,21 @@ source_papers:
 > - 한계(caveat): 전부 in silico — 균질·등방성 골, 정적 단일하중, 이상화된 골유착. FEA는 응력을 순위·국소화할 뿐 생존을 예측하지 않음; 저밀도골이 왜 더 실패하는지를 설명하는 mechanistic prior로 다룰 것.
 > - Gap: 순환·피로 하중 미반영, 환자별 이방성 거의 미시뮬, FEA 응력→임상 변연골 소실/실패 검증 chain 없음.
 
-## One-line Summary
-Across five finite-element studies, peri-implant stress concentrates at the crestal cortical bone in every model, rises as bone density falls (worst in D3/D4), and is modulated by macro-design — so the design goal in low-density bone is to limit crestal stress, with thread depth/geometry being the most optimizable lever (deeper threads cut D3/D4 crestal stress ~40%) and taper a stability-vs-stress trade-off.
+## Three-line Summary
 
-## 한줄요약
-FEA 5편 종합 — 임플란트 주위 응력은 모든 모델에서 치조정 피질골에 집중되고, 골밀도가 낮아질수록(D3/D4 최악) 커지며 macro-design이 이를 조절한다. 저밀도골 설계 목표는 치조정 응력 최소화이며, thread depth/geometry가 가장 최적화 가능한 레버(깊은 나사가 D3/D4 치조정 응력 ~40% 감소), taper는 안정성-응력 trade-off.
+Synthesis of 5 FEA studies: peri-implant stress concentrates universally at the crestal cortical bone around the implant neck regardless of design or bone density (Premnath 2012, Hussein 2019, Leblebicioğlu 2022); bone density reduction from D1 to D4 raises peri-implant stress and implant displacement proportionally — D4 cancellous modulus reduction increases both stress and micromotion simultaneously (Leblebicioğlu 2022, Chang 2024) — and macro-design redistributes but never abolishes this crestal concentration.
+
+Thread depth/geometry is the most optimizable lever and its payoff is bone-quality-dependent: deeper threads reduce crestal stress ~40% and displacement ≥9% in D3/D4 but show negligible change in D2 (Chang 2024); threaded designs load the crest more than cylindrical but cylindrical distributes more favorably in D3/D4 (Premnath 2012); taper raises peak von Mises stress across all densities versus cylindrical (Hussein 2019), making it a stability-vs-crestal-stress trade-off rather than a pure win in soft bone.
+
+FEA ranks and localizes stress but does not predict clinical survival — treat these as mechanistic priors explaining why low-density bone shows higher implant failure rates; gaps include no cyclic/fatigue loading simulation, no patient-specific anisotropic bone, and no validated chain from FEA crestal stress to clinical marginal bone loss.
+
+## 세줄요약
+
+5편 유한요소분석(Finite Element Analysis, FEA) 종합: 임플란트 주위 응력은 모든 모델에서 설계·골밀도 무관하게 임플란트 경부 치조정 피질골에 집중(Premnath 2012·Hussein 2019·Leblebicioğlu 2022); 골밀도가 낮아질수록(D4 최악) 응력과 임플란트 변위가 비례 증가하며, 해면골 탄성계수 저하 + 피질골 두께 감소 → 응력·미세동요(micromotion) 동시 악화(Leblebicioğlu 2022·Chang 2024) — macro-design은 재분배할 뿐 치조정 집중을 없애지 못함.
+
+나사(thread) 기하가 가장 최적화 가능한 레버이며 효과는 골질 의존적: 깊은 나사가 D3/D4 치조정 응력 ~40%·변위 ≥9% 감소(D2는 무변화; Chang 2024), 나사형 > 원통형이 치조정에 더 하중하나 원통형이 D3/D4에서 분산 유리(Premnath 2012), 테이퍼(taper)는 모든 밀도에서 peak von Mises 응력↑(Hussein 2019) → 1차 안정성 이득 vs 치조정 응력 증가의 trade-off.
+
+FEA는 응력을 순위·국소화할 뿐 임상 생존을 예측하지 않음 — 저밀도골 실패 증가의 기전적 선행 근거로 활용하고 임상/SR 근거와 함께 판단; 순환·피로 하중·이방성 골 미시뮬·FEA 응력→변연골소실/실패 검증 chain 부재가 현재 주요 갭이다.
 
 ## Thesis
 Finite element analysis answers a question clinical trials cannot resolve cleanly: *where* does load go, and *how* does implant macro-design redistribute it as bone quality degrades? Five FEA studies converge on three invariants and one lever.

@@ -9,7 +9,7 @@ pdf_filename: habib-2024-srp-decision-making-immediate-implant-cbct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cross-sectional CBCT study in a Pakistani population evaluating SRP (Kan classification) and labial bone thickness (LBT) at three apicocoronal levels in maxillary canine-to-canine teeth.
 
 ## 1. Document Information

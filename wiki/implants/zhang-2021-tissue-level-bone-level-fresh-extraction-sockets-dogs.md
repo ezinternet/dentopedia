@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Dog histomorphometric study (6 dogs, 24 implants, 6-month unloaded) comparing Straumann SP (tissue-level) vs BL (bone-level) implants placed in fresh extraction sockets: neck design had no significant effect on vertical bone resorption, but bone-level implants produced significantly wider lingual biologic width at 1 mm subcrestal placement (3.16 vs 2.43 mm, P=0.009).
+Dog histomorphometric study (6 Labrador dogs, 24 implants: 12 Straumann SP tissue-level vs 12 BL bone-level, placed immediately in mandibular extraction sockets at 0 mm and 1 mm subcrestal depths, 6-month unloaded healing, Van Gieson histology).
 
-## 한줄요약
+Neck design had no significant effect on vertical bone resorption at any depth or side; the only significant difference was wider lingual biologic width in bone-level implants at 1 mm subcrestal placement (3.16 vs 2.43 mm, P=0.009).
 
-개(6마리, 24개 임플란트, 6개월 무하중) 즉시식립 조직형태계측 연구: 경부 디자인이 수직골흡수에 유의한 영향 없으나, 1 mm 하방 식립 시 골레벨 임플란트의 설측 생물학적 폭경이 조직레벨 임플란트보다 유의하게 넓음(3.16 vs 2.43 mm, P=0.009).
+Tissue-level and bone-level implants behave equivalently for crestal bone resorption in immediate extraction sockets — the BL advantage of wider biologic width at depth may benefit esthetic/immunologic outcomes; the thin buccal plate (~0.53 mm) drives buccal > lingual resorption regardless of implant type.
+
+## 세줄요약
+
+개 조직형태계측 연구(라브라도 6마리, 24개 임플란트: Straumann SP 조직레벨 12개 vs BL 골레벨 12개, 하악 발치 직후 즉시식립, 0 mm 및 1 mm 하방 식립, 6개월 무하중, Van Gieson 염색).
+
+경부 디자인은 어떤 깊이·면에서도 수직 골흡수에 유의한 영향 없었으며, 유일한 유의 차이는 1 mm 하방 식립 시 골레벨 임플란트의 설측 생물학적 폭경이 더 넓었다는 것(3.16 vs 2.43 mm, P=0.009).
+
+즉시 발치와에서 조직레벨과 골레벨 임플란트는 치조정 골흡수가 동등하며, 골레벨의 더 넓은 생물학적 폭경이 심미·면역적 측면에서 유리할 수 있다; 얇은 협측 치조판(~0.53 mm)이 두 임플란트 유형 모두에서 협측 > 설측 흡수를 유발한다.
 
 ## Summary
 

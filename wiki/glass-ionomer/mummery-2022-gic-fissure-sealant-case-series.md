@@ -13,11 +13,21 @@ source_collection: external
 tags: [gic, fissure-sealant, first-permanent-molar, pediatric, covid, aerosol]
 ---
 
-## One-line Summary
-Retrospective case series (BDJ Open 2022) reporting ~77% retention of GIC fissure sealants on partially erupted first permanent molars in high-caries-risk paediatric patients awaiting GA.
+## Three-line Summary
 
-## 한줄요약
-GIC fissure sealant retrospective case series — 고우식위험 소아 제1대구치에서 평균 77% 유지율.
+Retrospective case series (BDJ Open 2022; NHS UK community dental service) evaluating GIC fissure sealant retention on partially erupted first permanent molars in high-caries-risk paediatric patients awaiting GA during COVID-19.
+
+Average GIC fissure sealant retention was ~77%, consistent with the wider GIC-FS literature, compared to zero GA aerosol risk from resin-based sealants.
+
+GIC fissure sealants are a viable non-aerosol-generating alternative for high-risk paediatric patients with limited access; retention is lower than resin-based sealants and close monitoring is needed.
+
+## 세줄요약
+
+소급 증례 시리즈 (BDJ Open 2022; 영국 NHS 지역사회 치과): COVID-19 기간 중 전신마취를 기다리는 고우식위험 소아 환자의 부분 맹출 제1대구치에 적용한 GIC fissure sealant 유지율 평가.
+
+평균 GIC fissure sealant 유지율은 약 77%로 기존 문헌과 일치했으며, 에어로졸 발생 없이 시술 가능했다.
+
+GIC fissure sealant는 접근성이 제한된 고위험 소아 환자에서 비에어로졸 대안이 될 수 있으나, 레진계 전색재보다 유지율이 낮으므로 정기 모니터링이 필요하다.
 
 ## Summary
 During COVID-19, GIC fissure sealants were used as a non-aerosol-generating alternative to resin-based sealants (RB-FS require acid etch and extended air/water drying, considered aerosol-generating). This retrospective review of a UK community dental service collated cases of GIC fissure sealants placed on paediatric patients awaiting exodontia under GA, recording placement numbers and retention at the GA appointment and follow-ups. Average retention was 77%, in line with wider GIC-FS literature. The authors support continued GIC-FS use where close patient monitoring is available, while noting reduced retention versus resin-based sealants.

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PubMed + manual search, English articles Jan 1990–Sep 2015) categorizing GBR flap designs by required advancement — minor (<3 mm), moderate (3–6 mm), major (≥7 mm) — and the incision/release/suturing techniques that achieve passive primary closure under the PASS principle.
+Systematic review (PubMed + manual search, English literature 1990–2015) classifying GBR flap designs by required advancement — minor (<3 mm), moderate (3–6 mm), major (≥7 mm) — and mapping incision, release, and suturing techniques to each stratum under the PASS principle.
 
-## 한줄요약
+Periosteal releasing incision contributes the largest single advancement gain (+5.5 mm); membrane exposure (GBR complication rate 6.95–13.1%) reduces bone gain ~6-fold at exposed vs non-exposed sites, and ePTFE exposure drops regeneration from 96.6% to 46.5%.
 
-GBR 피판 디자인을 필요한 전진량(소: <3mm, 중: 3–6mm, 대: ≥7mm)으로 분류하고 무장력 일차 봉합을 위한 절개·이완·봉합 기법을 PASS 원칙에 따라 정리한 체계적 문헌고찰(1990–2015).
+This review provides the decision framework for selecting flap-advancement technique by required advancement stratum; no meta-analysis was performed given study design heterogeneity.
+
+## 세줄요약
+
+1990–2015 영어 문헌을 PubMed+수기 검색해 GBR 피판 디자인을 필요 전진량(소: <3mm, 중: 3–6mm, 대: ≥7mm)으로 분류하고 PASS 원칙에 따라 절개·이완·봉합 기법을 정리한 체계적 문헌고찰.
+
+골막이완절개가 단일 기법 중 전진량 기여가 가장 크고(+5.5mm), 막 노출은 GBR 합병증 6.95–13.1%이며 노출 부위에서 골재생이 ~6배 감소함.
+
+이 리뷰는 필요 전진량에 따른 피판 기법 선택의 의사결정 프레임워크를 제공하며, 연구 설계 이질성으로 메타분석은 수행하지 않음.
 
 ## Summary
 

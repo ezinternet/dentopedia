@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-1-year prospective case series of immediate implant placement + simultaneous GBR in maxillary anterior sites with pre-existing buccal bone dehiscence: 100% short-term survival with acceptable PES/WES and contained radiographic bone change, with recession the main residual esthetic risk.
+## Three-line Summary
+1-year prospective case series of immediate implant placement combined with simultaneous GBR in maxillary anterior sites that had pre-existing buccal bone dehiscence (n not specified in summary).
 
-## 한줄요약
-1년 전향적 case series: 협측 골열개를 동반한 전치부 즉시식립도 적절한 GBR과 함께 임상·방사선·심미적으로 수용 가능한 결과 — 단, "절대 금기"가 아니라 risk-managed 시술임을 강조.
+Survival was 100% at 1 year; PES/WES were acceptable and radiographic bone changes were contained; recession remained the main esthetic risk.
+
+Results support relaxing the historical contraindication against IIP at dehiscence sites when disciplined GBR is applied, though the short follow-up and absent comparator group limit generalizability.
+
+## 세줄요약
+협측 골열개 동반 전치부에서 즉시식립 + 동시 GBR을 시행한 1년 전향적 케이스 시리즈.
+
+1년 생존율 100%; PES/WES 수용 가능; 방사선학적 골변화 제한적이며 치은퇴축이 주요 심미 위험 요인으로 남았다.
+
+적절한 GBR 시행 시 골열개 부위에 대한 절대 금기를 재검토할 수 있으나, 단기·비교군 없음의 한계가 있다.
 
 ## Summary
 1-year prospective case series of immediate implant placement performed in maxillary anterior sites with pre-existing buccal bone dehiscence, combined with simultaneous GBR.

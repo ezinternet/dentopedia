@@ -17,13 +17,23 @@ text_filename: samohyl-2021-non-attendance-dental-preventive-care-students.txt
 
 Extends [[practice-management/alkhurayji-2024-factors-patient-failure-attend-dental]] from a clinic no-show framing to a population-level *avoidance* framing: identifies the family/SES and parental-behavior predictors that determine whether adolescents and young adults attend preventive care at all. The standout finding — that a parent's own dental-care avoidance independently predicts the child's avoidance (AOR ~3.4-4.2) — gives clinics a concrete recall-targeting lever (engage the parent, not just the patient).
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional school-based survey (Slovakia, n=515 students aged 15-22 + 681 parents): male gender, older age, incomplete family, low household income (<EUR 900), home stress, and — most strongly — a parent's own avoidance of preventive care independently predicted non-attendance at dental preventive care; not visiting pediatric care raised the odds of skipping dental care (AOR 5.14, 95% CI 2.40-10.99).
 
-## 한줄요약
+Cross-sectional school-based survey (Slovakia, n=515 students aged 15-22 + 681 parents): male gender, older age, incomplete family, low household income (<EUR 900), home stress, and — most strongly — a parent's own avoidance of preventive care independently predicted non-attendance at dental preventive care;
+
+not visiting pediatric care raised the odds of skipping dental care (AOR 5.14, 95% CI 2.40-10.99).
+
+(incomplete)
+
+## 세줄요약
+
 
 슬로바키아 고등학생 대상 단면 설문(학생 515명, 부모 681명): 남성, 고연령, 결손가정, 저소득(<900유로), 가정 스트레스, 그리고 무엇보다 부모 자신의 예방진료 기피가 청소년의 치과 예방진료 비참여를 독립적으로 예측했다(소아과 진료 미수진 시 AOR 5.14, 95% CI 2.40-10.99).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

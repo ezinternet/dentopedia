@@ -17,13 +17,23 @@ text_filename: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma.t
 
 Prior pairwise reviews established only "electric > manual" for plaque control; they could not rank among electric subtypes. This 2026 frequentist NMA (19 RCTs) is the first to produce a SUCRA hierarchy — oscillating-rotating > sonic > ultrasonic > other electric > manual — for both plaque and gingivitis, converting the patient/clinician question from "whether electric" to "which electric." It extends the plaque-biofilm management literature in [[periodontics/jo-2008-management-of-dental-biofilm-through]] (professional care improving patient plaque-control ability) by quantifying the home-care tool axis, and provides a mechanical-disruption complement to the matrix biology in [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
 
-## One-line Summary
+## Three-line Summary
 
-Frequentist network meta-analysis (19 RCTs, 1996–2025) ranking electric toothbrush technologies: oscillating-rotating ranks first for both plaque (SUCRA 89.2%) and gingivitis (86.5%), followed by sonic > ultrasonic > other electric > manual; all electric types beat manual, with largest benefits in orthodontic patients and children and a non-significant effect in the elderly.
 
-## 한줄요약
+Frequentist network meta-analysis (19 RCTs, 1996–2025) ranking electric toothbrush technologies: oscillating-rotating ranks first for both plaque (SUCRA 89.2%) and gingivitis (86.5%), followed by sonic > ultrasonic > other electric > manual;
 
-빈도주의 네트워크 메타분석 (19개 RCT, 1996–2025): 전동칫솔 기술 순위 — 진동회전형(oscillating-rotating)이 치면세균막(SUCRA 89.2%)·치은염(86.5%) 모두 1위, 이어 음파(sonic) > 초음파(ultrasonic) > 기타 전동 > 수동 순. 모든 전동칫솔이 수동보다 우수하며 교정 환자·소아에서 효과 최대, 노인에서는 유의하지 않음.
+all electric types beat manual, with largest benefits in orthodontic patients and children and a non-significant effect in the elderly.
+
+(incomplete)
+
+## 세줄요약
+
+
+빈도주의 네트워크 메타분석 (19개 RCT, 1996–2025): 전동칫솔 기술 순위 — 진동회전형(oscillating-rotating)이 치면세균막(SUCRA 89.2%)·치은염(86.5%) 모두 1위, 이어 음파(sonic) > 초음파(ultrasonic) > 기타 전동 > 수동 순.
+
+모든 전동칫솔이 수동보다 우수하며 교정 환자·소아에서 효과 최대, 노인에서는 유의하지 않음.
+
+(incomplete)
 
 ## 1. Document Information
 

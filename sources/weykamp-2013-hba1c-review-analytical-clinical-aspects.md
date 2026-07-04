@@ -9,7 +9,7 @@ pdf_filename: weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Single-author narrative review (Ann Lab Med 2013) covering five HbA1c measurement methodologies (ion exchange chromatography, capillary electrophoresis, affinity chromatography, immunoassay, enzymatic), IFCC/NGSP standardization, common interferences (Hb variants S/C/D/E, HbF, carbamylated/acetylated Hb), and clinical applications including diagnosis (≥6.5%), monitoring, pregnancy, and POC testing.
 
 ## 1. Document Information

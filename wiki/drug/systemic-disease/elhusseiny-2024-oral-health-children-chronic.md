@@ -16,13 +16,21 @@ text_filename: elhusseiny-2024-oral-health-children-chronic.txt
 tags: [chronic-kidney-disease, hemodialysis, renal-transplant, oral-manifestations, pediatric]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (12 included studies) of oral manifestations and dental management in pediatric CKD, hemodialysis, and renal transplantation — paradoxically LOW caries (high salivary urea/buffering) but HIGH enamel defects (31-83%), gingival/periodontal disease, calculus, xerostomia, and drug-induced gingival overgrowth; key management levers are dialysis-day-after timing, bleeding-risk control, fluoride contraindication, and the 6-month post-transplant elective-care moratorium.
+Narrative review with PRISMA-style selection (12 studies, 4 databases) of oral manifestations and dental management in pediatric CKD, hemodialysis, and renal transplantation; evidence base is small with acknowledged selection bias.
 
-## 한줄요약
+Paradoxically LOW caries (elevated salivary urea/buffering; caries-free 40% CRF vs 8.5% controls), but HIGH enamel defects (31–83%), gingival bleeding (95.8%), periodontal pockets (70.3%), xerostomia, calculus, and drug-induced gingival overgrowth; the caries protection reverses post-transplant.
 
-소아 만성콩팥병(CKD)·혈액투석·신장이식 환자의 구강 발현과 치과적 관리를 다룬 narrative review(포함 연구 12편) — 타액 요소·완충능이 높아 우식은 역설적으로 적지만 법랑질 형성저하(31-83%), 치은·치주질환, 치석, 구강건조증, 약물성 치은비대가 흔하며, 핵심 관리 원칙은 투석 다음날 시술·출혈위험 관리·불소 금기·이식 후 6개월 선택적 치료 보류이다.
+Key management rules: treat the day after dialysis (heparin cleared, volume optimal), control bleeding risk, avoid fluoride supplements (renally retained), and defer elective care for the first 6 months post-transplant.
+
+## 세줄요약
+
+소아 만성콩팥병(CKD)·혈액투석·신장이식 환자의 구강 발현과 치과적 관리를 다룬 서술적 고찰(PRISMA 선별, 12편, 4개 데이터베이스); 포함 연구 수 적고 선택 편향 명시.
+
+우식은 타액 요소·완충능이 높아 역설적으로 적지만(caries-free 40% vs 대조군 8.5%), 법랑질 형성저하(31–83%)·치은출혈(95.8%)·치주낭(70.3%)·구강건조증·치석·약물성 치은비대가 흔하며, 이식 성공 후 우식 방어력이 사라진다.
+
+핵심 관리 원칙: 투석 다음날 시술(헤파린 소실, 혈액량 최적화), 출혈위험 관리, 불소 보충 금기(신 배설 저하), 이식 후 6개월 선택적 치료 보류.
 
 ## Summary
 

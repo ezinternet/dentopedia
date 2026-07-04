@@ -18,11 +18,21 @@ relations:
     target: aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma
 ---
 
-## One-line Summary
-Multi-centre RCT 10-year data (77 patients, 105 implants) showing 6 mm short implants and 11–15 mm long implants + sinus floor elevation have similar survival (96.0% vs 100%), identical median MBL (0.00 mm), and comparable OHIP, with directionally lower peri-implantitis for short implants.
+## Three-line Summary
 
-## 한줄요약
-다기관 RCT 10년(환자 77명) — 6 mm short vs 11–15 mm long+상악동거상의 생존율·MBL·OHIP 유사; 주위염은 short가 수치상 낮음(4.2% vs 13.3%).
+Multi-centre RCT 10-year follow-up (77 patients, 105 implants) comparing 6 mm short implants vs 11–15 mm long implants with sinus floor elevation in the atrophic posterior maxilla.
+
+Implant survival was similar (96.0% vs 100%, p=0.24); median marginal bone loss (MBL) was 0.00 mm in both groups (p=0.73); peri-implantitis trended lower with short implants (4.2% vs 13.3%, p=0.37); OHIP-49 was comparable.
+
+At 10 years, 6 mm short implants remain a viable alternative to sinus elevation, offering less morbidity and lower cost; a 21% dropout rate and wide individual MBL ranges are key limitations.
+
+## 세줄요약
+
+다기관 무작위 대조 시험 (Randomized Controlled Trial, RCT) 10년 추적 (77명, 105개 임플란트): 위축된 후방 상악에서 6 mm 단임플란트 vs 11–15 mm 장임플란트 + 상악동거상술 비교.
+
+임플란트 생존율 유사 (96.0% vs 100%, p=0.24); 중앙 변연골 소실 (Marginal Bone Loss, MBL) 양군 모두 0.00 mm (p=0.73); 임플란트 주위염 (Peri-implantitis) 단임플란트군에서 수치상 낮음 (4.2% vs 13.3%, p=0.37).
+
+10년 시점에서 6 mm 단임플란트는 상악동거상의 실행 가능한 대안; 이환율 감소·비용 절감 이점; 21% 탈락률 및 개인 간 넓은 MBL 편차가 주요 한계.
 
 ## Summary
 This is the longest-horizon randomized evidence in the short-implant question: a multi-centre RCT followed to 10 years. Among 77 patients with 105 implants, 6 mm implants survived at 96.0% versus 100% for 11–15 mm implants placed with sinus grafting — no significant difference — and both groups had a median marginal bone loss of exactly 0.00 mm. Peri-implantitis trended lower with short implants (4.2% vs 13.3%) and oral-health quality of life (OHIP-49) was comparable. The conclusion mirrors the pooled literature but now anchors it at a decade: shorter implants are a viable alternative with less morbidity and lower cost. The main caveat is a 21% drop-out and wide individual MBL ranges.

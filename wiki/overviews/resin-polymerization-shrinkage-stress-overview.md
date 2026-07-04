@@ -23,13 +23,21 @@ tags: [resin, shrinkage-stress, low-shrinkage, bulk-fill]
 > - **공통 분모**: 5개 기전 모두 수축응력을 **단량체(분자)·경화(network)·구조(V-factor)** 어느 한 단계에서 줄이는 것 — 어느 한 갈래도 단독으로 응력을 0으로 만들지 못한다.
 > - **임상 결론**: 대형 와동일수록 ①저수축 재료 또는 ②인레이(낮은 V-factor)로 수축 부피를 줄이고, ③SFRC base로 균열을 분산하며, 경화 protocol 조정만으로 응력 문제를 해결했다고 착각하지 말 것 — 실패가 일어나더라도 **복구 가능한 양상**으로 설계하는 것이 핵심.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 composite-resin bench/animal studies framing polymerization shrinkage stress as the root cause of marginal failure, attacked on three fronts — monomer chemistry (PUDMA 1.35% volumetric shrinkage [Feng 2024]; fluorinated thiol-ene step-growth lowering stress + microleakage [He 2026]), placement/cure strategy (ultra-rapid high-irradiance trades strain↓ for stress↑ but AFCT lowers stress [Algamaiah 2021]; filler wt% governs bulk-fill shrinkage and toughness [Yang 2022]), and structural reinforcement (SFRC base + CAD/CAM inlay cuts shrinkage-induced enamel cracks from 67–83% to ~0% via the lowest V-factor [Magne 2023]) — with a measurement-method caveat (photoelastic 6.4–13.4 MPa vs contraction-force 1.2–4.8 MPa, r=0.8 [Szczesio-Wlodarczyk 2024]) and the self-adhesive flowable class characterized as composition-driven [Yeloglu-Akbuar 2026].
+Synthesis of 7 composite-resin bench/animal studies across three attack fronts: monomer chemistry (PUDMA 1.35% volumetric shrinkage [Feng 2024]; fluorinated thiol-ene step-growth lowering stress + microleakage [He 2026]), placement/cure strategy (ultra-rapid high-irradiance trades strain↓ for stress↑ but AFCT lowers stress [Algamaiah 2021]; filler wt% governs bulk-fill shrinkage and toughness [Yang 2022]), and structural reinforcement (SFRC base + CAD/CAM inlay cuts shrinkage-induced enamel cracks from 67–83% to ~0% via the lowest V-factor [Magne 2023]).
 
-## 한줄요약
+A measurement-method caveat explains why stress values cannot be compared across studies: photoelastic 6.4–13.4 MPa vs contraction-force 1.2–4.8 MPa for identical materials, r=0.8 — rankings transfer, absolute values do not (Szczesio-Wlodarczyk 2024).
 
-복합레진 벤치/동물 연구 7편 종합: 중합수축응력이 변연 실패의 뿌리이며 ①단량체 화학(PU-MA 부피수축 1.35% [Feng 2024], 불소화 thiol-ene으로 응력·미세누출↓ [He 2026]), ②충전·경화(초고조사는 strain↓/stress↑이나 AFCT가 응력↓ [Algamaiah 2021], 충전율이 수축·인성 좌우 [Yang 2022]), ③구조보강(SFRC base+CAD/CAM 인레이로 법랑질 균열 67–83%→~0%, 최저 V-factor [Magne 2023]) 세 갈래로 공격하며, 측정법 차이(photoelastic 6.4–13.4 vs contraction-force 1.2–4.8 MPa, r=0.8 [Szczesio-Wlodarczyk 2024])와 자가접착 플로어블의 성분 의존성([Yeloglu-Akbuar 2026])을 함께 정리한다.
+Clinical bottom line: no single fix exists for shrinkage stress; reduce it at the monomer, avoid amplifying it at the cure, and in large cavities reduce the shrinking volume structurally — for large MOD restorations with undermined cusps, SFRC base plus CAD/CAM inlay is the combination that prevents enamel fracture and produces reparable failure modes.
+
+## 세줄요약
+
+복합레진 벤치/동물 연구 7편 — 중합수축응력이 변연 실패의 뿌리이며 ①단량체 화학(PU-MA 부피수축 1.35% [Feng 2024], 불소화 thiol-ene으로 응력·미세누출↓ [He 2026]), ②충전·경화(초고조사는 strain↓/stress↑이나 AFCT가 응력↓ [Algamaiah 2021], 충전율이 수축·인성 좌우 [Yang 2022]), ③구조보강(SFRC base+CAD/CAM 인레이로 법랑질 균열 67–83%→~0%, 최저 V-factor [Magne 2023]) 세 갈래로 공격한다.
+
+측정법이 절대치를 수 배 달리 보고(photoelastic 6.4–13.4 vs contraction-force 1.2–4.8 MPa, r=0.8 [Szczesio-Wlodarczyk 2024])하므로 논문 간 MPa 비교 금지 — 순위는 보존되나 절대값은 아님.
+
+임상 결론: 대형 와동일수록 ①저수축 재료 또는 ②인레이(낮은 V-factor)로 수축 부피를 줄이고 ③SFRC base로 균열을 분산할 것; 단독 경화 프로토콜 조정으로 응력 문제를 해결했다는 착각은 금물.
 
 ## Summary
 

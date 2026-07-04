@@ -9,7 +9,7 @@ pdf_filename: moldovan-2023-anticoagulant-oral-surgery-bleeding-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR of 7 studies comparing continuous vs discontinuous anticoagulant therapy for oral surgery: no significant difference in bleeding events; risk-scoring tools recommended for surgical decision-making.
 
 ## 1. Document Information

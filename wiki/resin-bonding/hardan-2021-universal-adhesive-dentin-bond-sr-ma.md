@@ -13,11 +13,21 @@ source_collection: external
 tags: [universal-adhesive, dentin-bonding, mmp-inhibitor, scrubbing, ethanol-wet-bonding, selective-etching]
 ---
 
-## One-line Summary
-In-vitro SR+MA of 61 studies on strategies to improve universal adhesive bond strength to dentin: ten strategies significantly increased bond strength (prior MMP inhibitor, prolonged application, scrubbing, selective dentin etching, non-atmospheric plasma, ethanol-wet bonding, prolonged air-blowing, multiple layers, prolonged curing, hydrophobic overlay), while shortened application time and pre-bonding dentin desensitizers significantly reduced it.
+## Three-line Summary
 
-## 한줄요약
-유니버설 접착제의 상아질 결합강도를 높이는 전략 in vitro SR/MA (61편): MMP 억제·길게 도포·scrubbing·선택적 산부식·플라즈마·에탄올 습윤본딩·길게 air-blow·다층 도포·길게 광중합·hydrophobic overlay가 효과적, 짧게 도포·상아질 desensitizer는 결합강도↓.
+In vitro SR+MA (PubMed/ISI/Scopus/EMBASE through Sep 2020; 5,671 initial hits; 61 studies included) of strategies to improve universal adhesive bond strength to dentin, covering 10 augmentation strategies and 2 bond-reducing strategies.
+
+Ten strategies significantly improved bond strength: prior MMP inhibitor (p<0.001), scrubbing (p<0.001), selective dentin etching (p<0.001), hydrophobic overlay (p<0.001), ethanol-wet bonding (p<0.01), multiple layers (p=0.005), prolonged application (p=0.007), prolonged curing (p=0.006), prolonged air-blowing (p=0.02), non-atmospheric plasma (p=0.01); pre-bonding desensitizers reduced bond strength (p=0.01).
+
+Universal adhesive bond optimization is achievable through easily modifiable clinical steps (MMP inhibitor, scrubbing, selective etch, adequate application time and air-blowing); avoid dentin desensitizers immediately before bonding.
+
+## 세줄요약
+
+In vitro 체계적 문헌고찰+메타분석(PubMed·ISI·Scopus·EMBASE, 2020년 9월까지; 초기 5,671편; 61편 포함): 유니버설 접착제의 상아질 결합강도를 향상시키는 전략을 10가지 증가·2가지 감소 전략으로 정리.
+
+10가지 전략이 결합강도를 유의하게 증가: 기질금속단백분해효소(Matrix Metalloproteinase, MMP) 억제제(p<0.001), 스크러빙(p<0.001), 선택적 상아질 산부식(p<0.001), 소수성 오버레이(p<0.001), 에탄올 습윤접착(p<0.01), 다층 도포(p=0.005), 연장 도포(p=0.007), 연장 광중합(p=0.006), 연장 에어블로우(p=0.02), 냉대기압 플라즈마(p=0.01); 접착 전 상아질 민감완화제는 결합강도 감소(p=0.01).
+
+유니버설 접착제 결합강도 최적화는 임상에서 쉽게 수정 가능한 단계(MMP 억제제·스크러빙·선택적 산부식·충분한 도포·에어블로우 시간)로 달성 가능; 접착 직전 상아질 민감완화제 사용은 반드시 피해야 함.
 
 ## Summary
 SR+MA of 61 in vitro studies (5,671 initial hits) on strategies to improve universal adhesive bond strength to dentin. Ten strategies SIGNIFICANTLY IMPROVED bond strength: prior MMP inhibitor application (p<0.001), prolonged application time (p=0.007), scrubbing technique (p<0.001), selective dentin etching (p<0.001), non-atmospheric plasma (p=0.01), ethanol-wet bonding (p<0.01), prolonged air-blowing (p=0.02), multiple layer application (p=0.005), prolonged curing time (p=0.006), hydrophobic layer coating (p<0.001). Two strategies IMPAIRED bond strength: shortened application time (p=0.006) and dentin desensitizers (p=0.01). High heterogeneity in most analyses.

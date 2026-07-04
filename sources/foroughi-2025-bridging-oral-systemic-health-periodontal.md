@@ -17,13 +17,23 @@ text_filename: foroughi-2025-bridging-oral-systemic-health-periodontal.txt
 
 [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] measures individual GCF inflammatory biomarkers (IL-1β, MMP-8) after subgingival debridement; this broad narrative review supplies the upstream framework — which oral/salivary/blood/GCF biomarkers matter, why (IL-1β/TNF-α/RANKL-OPG/microbial DNA), and which emerging point-of-care platforms (lateral flow, biosensors, microfluidics) could turn those single-marker measurements into multiplex chairside risk stratification. It also anchors the pathogen mechanisms already held in [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] and [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] into the diagnostics/biomarker thread.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review synthesizing periodontal–systemic links (CVD, diabetes, adverse pregnancy, Alzheimer's, cancer, RA, respiratory) and the saliva/blood/GCF biomarker panel (IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, microbial DNA), arguing for AI-integrated multiplex point-of-care diagnostic platforms (lateral flow, biosensors, microfluidics/lab-on-a-chip) for earlier detection and personalized systemic risk stratification.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 내러티브 리뷰 — 치주–전신 연관성(심혈관·당뇨·임신 부작용·알츠하이머·암·류마티스관절염·호흡기)과 타액/혈액/치은열구액(GCF) 바이오마커 패널(IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, 미생물 DNA)을 종합하고, 조기 검출·개인 맞춤 전신위험 층화를 위해 AI 통합 멀티플렉스 현장검사(POC) 플랫폼(측방유동검사, 바이오센서, 미세유체/lab-on-a-chip)을 제안.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

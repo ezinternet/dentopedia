@@ -17,13 +17,23 @@ text_filename: izadi-2020-core-materials-fracture-resistance-parapost.txt
 
 ParaPost 제품(티타늄 vented/serrated)을 FRC post와 직접 비교한 fracture-resistance 실험. 기존 [[post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged]]·[[post-and-core/tsintsadze-2022-survival-rates-glass-fiber-metal-posts]]의 임상 fiber > metal 근거를, 이 논문은 in-vitro 파절저항으로 재확인하면서 "core 재료 종류는 파절저항에 무관"이라는 별개의 결론을 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fracture-resistance study (108 mandibular premolars, 9 groups × 12): FRC-post groups pooled significantly higher fracture load than ParaPost groups (397.6 vs 265.6 N, P<0.001); among the three core build-up materials (Photo Core, LuxaCore, Core Max II) no material was superior.
 
-## 한줄요약
+In-vitro fracture-resistance study (108 mandibular premolars, 9 groups × 12): FRC-post groups pooled significantly higher fracture load than ParaPost groups (397.6 vs 265.6 N, P<0.001);
 
-인비트로 파절저항 연구 (하악 소구치 108개, 9군×12): FRC post군의 통합 파절하중이 ParaPost군보다 유의하게 높음 (397.6 vs 265.6 N, P<0.001); 3가지 core 재료(Photo Core, LuxaCore, Core Max II) 간 우열은 없음.
+among the three core build-up materials (Photo Core, LuxaCore, Core Max II) no material was superior.
+
+(incomplete)
+
+## 세줄요약
+
+
+인비트로 파절저항 연구 (하악 소구치 108개, 9군×12): FRC post군의 통합 파절하중이 ParaPost군보다 유의하게 높음 (397.6 vs 265.6 N, P<0.001);
+
+3가지 core 재료(Photo Core, LuxaCore, Core Max II) 간 우열은 없음.
+
+(incomplete)
 
 ## 1. Document Information
 

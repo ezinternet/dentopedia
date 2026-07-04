@@ -14,11 +14,21 @@ source_collection: external
 tags: [guideline, systemic-disease, ASA-classification, vasoconstrictor, anticoagulant, bisphosphonate, diabetes, hypertension, medical-consult, MRONJ, infective-endocarditis]
 ---
 
-## One-line Summary
-148-page institutional clinical practice guideline (University of Florida College of Dentistry) covering dental management of 23 systemic disease categories plus ASA classification, vasoconstrictor use, and medical-consultation indications — the most comprehensive single-source reference for medically compromised patient protocols (anticoagulants, bisphosphonate/MRONJ, diabetes, hypertension, infective endocarditis, prosthetic joints).
+## Three-line Summary
 
-## 한줄요약
-UF 치과대학 임상 가이드라인(148쪽): 23개 전신질환 카테고리 × 치과 관리 프로토콜; ASA 분류; 혈관수축제 사용 지침; 의과 협진 적응증 — 가장 포괄적인 단일 레퍼런스 문서
+148-page institutional clinical practice guideline (University of Florida College of Dentistry, 2019) covering dental management of 23 systemic disease categories including ASA classification, vasoconstrictor protocols, and medical-consultation indications.
+
+Key numeric thresholds: continue warfarin for routine extractions if INR ≤3.5; defer elective treatment if BP ≥180/110; delay implants if HbA1c ≥9%; oral BP ≥3 yr or IV BP requires 2-month drug holiday before and after invasive procedures.
+
+Clinical implication: this is the most comprehensive single-source reference in the wiki for medically compromised patient protocols — vasoconstrictor limits, anticoagulant management, MRONJ drug holiday, and antibiotic prophylaxis indications are all covered in one document.
+
+## 세줄요약
+
+UF 치과대학 임상 진료 가이드라인(148쪽, 2019) — ASA 분류, 혈관수축제 프로토콜, 의과 협진 적응증 포함 23개 전신질환 치과 관리.
+
+주요 수치 기준: INR ≤3.5이면 와파린 유지하며 일반 발치 가능; BP ≥180/110이면 선택적 치료 연기; HbA1c ≥9%이면 임플란트 연기; 경구 BP ≥3년 또는 IV BP는 침습 처치 전후 2개월 drug holiday.
+
+임상적 의미: 혈관수축제 용량 제한, 항응고제 관리, MRONJ drug holiday, 항생제 예방 적응증을 모두 포함하는 위키 내 가장 포괄적인 전신질환 단일 레퍼런스.
 
 ## Summary
 148-page institutional clinical practice guideline covering dental management of all major systemic conditions. The most comprehensive single-source reference in this wiki for medically compromised patient protocols. Covers 23 disease categories + ASA classification + vasoconstrictor use.

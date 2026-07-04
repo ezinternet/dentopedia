@@ -13,8 +13,21 @@ source_collection: external
 
 치주적으로 손상된 발치와에서 즉시식립(Immediate Implant) 일차 안정성을 얻기 위해 즉시치조재건술(Immediate Dentoalveolar Restoration, IDR)과 골밀도화(Osseodensification, OD)를 결합한 워크플로우 사례. 잔존 host bone/graft 계면을 OD로 치밀화해 IDR의 힘을 증폭하는 응용으로, OD 임상응용 범위 종합을 보강한다. See [[overviews/osseodensification-clinical-applications]] and [[overviews/immediate-implant-decision-ladder]].
 
-## One-line Summary
-Two-case clinical report combining Immediate Dentoalveolar Restoration (IDR) — autogenous tuberosity bone block — with osseodensification osteotomy to achieve immediate implant primary stability in periodontally compromised extraction sites.
+## Three-line Summary
+
+Two-case clinical report describing a technique that combines Immediate Dentoalveolar Restoration (IDR — autogenous maxillary tuberosity bone block to reconstruct the buccal plate) with osseodensification (Densah bur) osteotomy preparation for immediate implant placement in severely periodontally compromised extraction sites.
+
+Adding osseodensification to the IDR workflow was reported to raise insertion torque sufficiently to support immediate provisionalization in both cases; soft- and hard-tissue stability was maintained at follow-up by clinical, photographic, and CBCT assessment.
+
+Case-report level evidence (n=2, no comparator, no quantitative ISQ/Ncm data extractable) limits generalizability; longer-term peri-implant tissue stability and reproducibility across operators remain uncharacterized.
+
+## 세줄요약
+
+두 증례 보고 — 치주적으로 심하게 손상된 발치와에서 즉시치조재건술(Immediate Dentoalveolar Restoration, IDR; 상악결절 자가골 블록으로 협측판 재건) + 골밀도화(Osseodensification, OD; Densah bur) 시술 후 즉시식립·임시수복 workflow 기술.
+
+OD를 IDR에 추가함으로써 삽입토크가 즉시 임시수복이 가능한 수준으로 높아졌다고 보고하며, 임상·사진·CBCT 추적에서 연·경조직 안정성 유지 확인.
+
+n=2, 비교군 없음, 정량적 ISQ/Ncm 데이터 추출 불가로 증거 수준이 사례보고 수준에 그치며 술자 간 재현성 및 장기 임플란트주위 조직 안정성은 미확인.
 
 ## 1. Document Information
 - **Type**: Case report / preliminary clinical communication (n = 2 cases)

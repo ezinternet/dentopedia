@@ -9,7 +9,7 @@ pdf_filename: malament-2021-lithium-disilicate-partial-coverage-109year.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 후향적연구(n=551, 최대 10.9년): 프레스 리튬디실리케이트 인레이/온레이 — 10년 생존율 95.6%; 연간실패율 0.3%; 인레이 93.9% vs 온레이 98.3%; 대구치 위험 높음
 
 ## 1. Document Information

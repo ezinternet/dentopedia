@@ -16,13 +16,21 @@ text_filename: de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot.
 tags: [ceraseal, bioceramic-sealer, cytotoxicity, bioactivity, osteoblast]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro MC3T3 pre-osteoblast study (ISO 10993-5): CeraSeal, BioRoot RCS and AH Plus were all non-cytotoxic at 48 h (BioRoot transiently cytotoxic at 24 h, 1:10), and differentially induced inflammation/mineralization genes (AH Plus → Tnf; CeraSeal/BioRoot → Ptgs2 and Dmp1) without changing 28-day mineralization-nodule formation.
+In-vitro ISO 10993-5 study on MC3T3 mouse pre-osteoblast cells comparing CeraSeal, BioRoot RCS, and AH Plus at 24 h and 48 h; 28-day mineralization also assessed.
 
-## 한줄요약
+All three sealers were non-cytotoxic at 48 h (>90% viability); BioRoot transiently reduced viability at 24 h (1:10 dilution), while AH Plus uniquely upregulated Tnf (TNF-α) and CeraSeal/BioRoot upregulated Ptgs2 (COX-2) and Dmp1.
 
-In-vitro MC3T3 전조골세포 연구 (ISO 10993-5): CeraSeal·BioRoot RCS·AH Plus 모두 48시간 시점 비독성 (BioRoot만 24시간·1:10에서 일시적 독성), 염증·광화 유전자를 차등 유도 (AH Plus는 Tnf↑, CeraSeal/BioRoot는 Ptgs2·Dmp1↑) 했으나 28일째 광화 결절 형성에는 차이가 없었다.
+Despite differential gene-expression signatures, no sealer altered 28-day mineralization-nodule formation, showing that non-cytotoxic does not equal osteoinductive.
+
+## 세줄요약
+
+사람 전조골세포(MC3T3) ISO 10993-5 in-vitro 연구로 CeraSeal·BioRoot RCS·AH Plus를 24시간/48시간 세포독성 및 28일 광화결절로 비교했다.
+
+48시간 시점에서 세 실러 모두 비독성(생존율 >90%)이었으며, AH Plus만 Tnf(TNF-α)를 상향 발현, CeraSeal·BioRoot는 Ptgs2·Dmp1을 상향 발현하는 차별적 유전자 발현 패턴을 보였다.
+
+유전자 발현 차이에도 불구하고 28일 광화 결절 형성에는 군간 차이가 없어 '비독성 ≠ 골유도성'임을 시사한다.
 
 ## Summary
 

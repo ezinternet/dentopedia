@@ -13,11 +13,19 @@ source_collection: external
 tags: [WSL, resin-infiltration, remineralization, NMA, fluoride, CPP-ACP]
 ---
 
-## One-line Summary
-NMA of WSL therapies: resin infiltration ranked first for optical improvement, significantly superior to fluoride and CPP-ACP alone.
+## Three-line Summary
+BMC Oral Health 2023 SR + NMA of RCTs comparing WSL therapies — resin infiltration, fluoride varnish, CPP-ACP, and bleaching — assessed by visual/DIAGNOdent optical improvement with SUCRA ranking.
 
-## 한줄요약
-WSL 치료법 NMA: resin infiltration이 광학적 개선 1위, 불소·CPP-ACP 단독 대비 유의 우위.
+Resin infiltration ranked first for optical improvement (highest SUCRA), significantly outperforming fluoride varnish and CPP-ACP alone; bleaching ranked second; remineralization agents showed greater value for arresting caries progression than for esthetic reversal.
+
+Clinically, resin infiltration is preferred when optical improvement of WSLs is the primary goal; fluoride/CPP-ACP remain appropriate for caries arrest and as adjuncts where esthetic demand is secondary.
+
+## 세줄요약
+BMC Oral Health 2023 SR+NMA — 레진침투(Resin Infiltration), 불소바니시, CPP-ACP, 미백 등 WSL 치료법을 SUCRA 순위로 비교한 RCT 통합.
+
+광학적 개선에서 레진침투가 SUCRA 최고위로 불소바니시·CPP-ACP 단독 대비 유의하게 우수, 미백이 2위; 재광화제는 우식 진행 억제에 강점.
+
+임상적 의의: WSL의 외관 개선이 주목표일 때 레진침투가 1차 선택; 불소·CPP-ACP는 우식 억제 및 심미 요구가 낮은 경우 적합하다.
 
 ## Summary
 BMC Oral Health 2023 NMA. 레진침투(resin infiltration), 불소 바니시, CPP-ACP, 표백 등 WSL 치료법을 NMA로 동시 비교. Resin infiltration이 SUCRA 기준 가장 높은 외관 개선 순위. 교정 후 및 비-교정 WSL 모두 분석.

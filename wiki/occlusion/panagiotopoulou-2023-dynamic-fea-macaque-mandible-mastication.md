@@ -18,13 +18,21 @@ relations:
     target: yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea
 ---
 
-## One-line Summary
+## Three-line Summary
 
-First dynamic 3D FEM of a primate (rhesus macaque) mandible over a complete unilateral chewing gape cycle (EMG/PCSA-driven muscle forces, in vivo strain-validated); peak strains/moments occur at ~40% of the gape cycle and vary by food (nuts > grapes > dried fruit), and dynamic models capture strain in mandibular regions that static single-time-point FEMs miss.
+First dynamic 3D finite element model of a primate (rhesus macaque, n=1) mandible over a complete unilateral chewing gape cycle, with EMG/PCSA-derived time-varying muscle forces validated against in-vivo bone-strain recordings for three foods (grapes, dried fruit, nuts).
 
-## 한줄요약
+Peak strains and moments occurred at ~35–40% of the gape cycle (not at peak EMG) and varied by food hardness (nuts > grapes > dried fruit); the dynamic model captured strain in mandibular regions the group's prior static single-time-point FEM did not identify.
 
-영장류(붉은털원숭이) 하악의 완전한 편측 저작주기를 모델링한 최초의 동적 3D 유한요소모델(FEM) 연구(n=1). 근전도(EMG)·생리적 단면적(PCSA) 기반 근력을 적용하고 생체 골 변형률로 검증했으며, 최대 변형률·모멘트는 저작주기 약 40% 지점에서 발생하고 음식(견과류 > 포도 > 건과일)에 따라 달라졌다. 동적 모델은 정적 단일-시점 FEM이 놓치는 하악 부위 응력까지 포착함을 보여, 치과 FEA에서 흔한 정적 단일-하중 가정의 한계를 드러낸다.
+Static single-load FEA — the near-universal assumption in dental FEA studies — underrepresents jaw mechanics; dynamic models are needed for human clinical mandible questions (fracture fixation, TMJ replacement, distraction osteogenesis).
+
+## 세줄요약
+
+붉은털원숭이(n=1) 하악의 완전한 편측 저작주기를 모델링한 최초의 동적 3D 유한요소모델(FEM): 근전도(EMG)·생리적 단면적(PCSA) 기반의 시변 근력을 적용하고 3가지 음식(포도·건과일·견과류)에서 생체 골 변형률로 검증했다.
+
+최대 변형률·모멘트는 저작주기 약 35–40% 지점(최대 EMG 시점이 아님)에서 발생했으며 음식 경도에 따라 달랐다(견과류 > 포도 > 건과일); 동적 모델은 정적 단일-시점 FEM이 놓친 하악 부위 변형률까지 포착했다.
+
+치과 FEA에서 보편적으로 쓰이는 정적 단일 하중 가정은 악안면 역학을 과소 표현하므로, 하악 골절 고정·TMJ 치환·골연장 같은 임상 문제에는 동적 FEM이 필요하다.
 
 ## Summary
 

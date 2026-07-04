@@ -13,11 +13,19 @@ source_collection: external
 tags: [response, system, satisfaction]
 ---
 
-## One-line Summary
-Observational study in Chinese grassroots hospitals showing a structured complaint-management system improved satisfaction and reduced complaints; satisfaction correlated with department and administrative office.
+## Three-line Summary
+Observational study in Chinese grassroots (primary-care) hospitals analyzing verified complaints by department, administrative office, and category using chi-square, Spearman correlation, and univariate logistic regression, followed by implementation of a standardized complaint-handling process.
 
-## 한줄요약
-중국 1차 병원 관찰연구 — 구조화된 민원관리 시스템 도입 후 만족도 향상·민원 감소; 만족도는 진료과·행정부서와 상관.
+Patient satisfaction correlated significantly with the department (P=.016) and administrative office (P=.022) involved; logistic regression found "other related complaints" in the administrative office significantly associated with satisfaction (OR=3.321, 95% CI 1.196–9.218, P=.021); after implementing the complaint-management system, service quality, patient experience, and satisfaction improved while complaint volumes fell.
+
+A structured complaint-management system with formal regulations improves outcomes even in resource-limited primary-care settings, suggesting organizational structure matters independently of facility scale.
+
+## 세줄요약
+중국 1차(grassroots) 병원 관찰연구: 부서·행정 부서·유형별 민원을 chi-square·스피어만 상관·단변량 로지스틱 회귀로 분석 후 표준화 민원관리 시스템 도입.
+
+만족도는 진료과(P=.016)·행정 부서(P=.022)와 유의 상관; 로지스틱: 행정 부서 관련 기타 민원 OR=3.321(95% CI 1.196–9.218, P=.021); 시스템 도입 후 서비스 질·환자경험·만족도 향상, 민원 감소.
+
+1차 의료기관 규모에서도 체계적 민원관리 시스템이 결과를 개선 — 조직 구조 자체가 시설 규모와 독립적으로 중요하다.
 
 ## Summary
 Li, Chen and Lou studied complaints in Chinese grassroots (primary) hospitals and implemented a standardised complaint-handling process with formal regulations. Satisfaction was significantly associated with the department and administrative office involved, and after the system was introduced the hospitals reported improved service quality, patient experience, and satisfaction alongside fewer complaints. Despite a weak pre/post design, it offers outcome-level support that a structured complaint-management system benefits resource-limited settings comparable in scale to a small clinic.

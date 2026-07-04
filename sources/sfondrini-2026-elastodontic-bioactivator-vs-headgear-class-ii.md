@@ -17,13 +17,23 @@ text_filename: sfondrini-2026-elastodontic-bioactivator-vs-headgear-class-ii.txt
 
 Head-to-head comparison of an elastodontic appliance against a conventional Class II interceptive device (high-pull headgear) — the kind of controlled comparator data that the broader elastodontic literature largely lacks. Extends [[wiki/orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] (which scoped elastodontic effects on sagittal malocclusion but flagged weak comparative evidence) by providing a direct ED-vs-HPHD cephalometric outcome comparison in hyperdivergent growing patients.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (n=40, 20 ED vs 20 high-pull headgear; ages 7–11; 18-month follow-up) finding both appliances produced a comparable significant intragroup SNB increase with stable vertical (mandibular plane), sagittal (SNA/ANB), dentoalveolar, and soft-tissue parameters — no clinically meaningful between-group differences.
 
-## 한줄요약
+Retrospective cohort (n=40, 20 ED vs 20 high-pull headgear;
 
-후향적 코호트 (n=40, 탄성교정장치 ED 20명 vs 고위견인 헤드기어 HPHD 20명; 7–11세; 18개월 추적): 두 장치 모두 SNB를 유의하게(군내) 증가시켰고 효과 크기는 비슷했으며, 수직(하악평면각)·시상(SNA/ANB)·치조·연조직 지표는 안정적으로 유지되어 군간 임상적 차이는 없었다.
+ages 7–11;
+
+18-month follow-up) finding both appliances produced a comparable significant intragroup SNB increase with stable vertical (mandibular plane), sagittal (SNA/ANB), dentoalveolar, and soft-tissue parameters — no clinically meaningful between-group differences.
+
+## 세줄요약
+
+
+후향적 코호트 (n=40, 탄성교정장치 ED 20명 vs 고위견인 헤드기어 HPHD 20명;
+
+7–11세;
+
+18개월 추적): 두 장치 모두 SNB를 유의하게(군내) 증가시켰고 효과 크기는 비슷했으며, 수직(하악평면각)·시상(SNA/ANB)·치조·연조직 지표는 안정적으로 유지되어 군간 임상적 차이는 없었다.
 
 ## 1. Document Information
 

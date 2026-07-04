@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Shows where unresolved dental complaints end up -- consumer courts -- and what allegations and delays characterise them. Complements [[complaint-management/ADJ-63-285]] (regulatory complaints) with the litigation tail, and motivates documentation/indemnity for a clinic.
 
-## One-line Summary
+## Three-line Summary
+
 Analysis of 56 adjudicated Indian dental negligence cases (2018-2022) in consumer courts, classifying allegations by negligence severity and examining compensation and settlement delay.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 인도 소비자법원 치과 과실 판결 56건(2018-2022) 분석 — 과실 중증도별 분류, 보상·판결 지연 검토.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal of the International Society of Preventive and Community Dentistry 2024;14(4):295-301.

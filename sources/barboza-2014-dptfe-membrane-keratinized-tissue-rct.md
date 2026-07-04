@@ -13,8 +13,21 @@ source_collection: external
 
 치조제 보존·임플란트 전 각화치은(keratinized tissue, KT) 확보 술식 근거 확장. ARP 봉합 술식이 KT 폭에 미치는 영향을 다룬 [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]], open-healing 노출막 컨셉의 [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]]와 짝 — 노출된 d-PTFE 막 자체가 KT를 증가시킬 수 있음을 RCT로 제시.
 
-## One-line Summary
-RCT showing intentionally exposed nonexpanded d-PTFE membranes predictably increase the zone of keratinized tissue prior to implant placement (test +6.6–7.1 mm vs control +1.4–2.5 mm at 60/90 days).
+## Three-line Summary
+
+RCT (n not specified in abstract) evaluating intentionally exposed nonexpanded d-PTFE membranes versus control for keratinized tissue (KT) augmentation prior to implant placement.
+
+Test group gained 7.06 ± 2.63 mm KT at 60 days and 6.6 ± 2.84 mm at 90 days, versus control 2.46 ± 1.59 mm and 1.40 ± 1.40 mm — a clinically significant difference.
+
+d-PTFE membranes used as an open-healing barrier predictably augment KT width before implant placement, offering a lower-morbidity alternative to soft-tissue grafting.
+
+## 세줄요약
+
+비노출 d-PTFE 막의 의도적 노출(open-healing)이 임플란트 식립 전 각화치은(KT) 증대에 미치는 효과를 평가한 RCT.
+
+시험군 KT 증가: 60일 7.06 ± 2.63 mm, 90일 6.6 ± 2.84 mm; 대조군: 60일 2.46 mm, 90일 1.40 mm로 유의한 차이.
+
+d-PTFE 막의 개방치유 사용이 임플란트 전 KT를 예측 가능하게 증가시켜 연조직이식 대비 낮은 이환율의 대안이 된다.
 
 ## 1. Document Information
 - Journal: Implant Dentistry 2014;23(3):289–294

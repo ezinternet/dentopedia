@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-5-year retrospective case series (8 patients, 212 restorations) of adhesive full-mouth rehabilitation in severe tooth wear (TWES 2–4) reporting 90.1% overall survival; occlusal veneers 79.1%, vestibular veneers 94.1%, palatal veneers 100%; posterior location is the dominant risk predictor (p = 0.008).
+Retrospective case series (Spain; 8 patients, TWES grade 2–4, 212 restorations — 66 CAD-CAM composite occlusal veneers, 26 palatal veneers, 120 feldspathic/LDS vestibular veneers — 60 months follow-up) reporting 90.1% overall survival with a semi-additive VDO-raising protocol guided by DSD and Kois analyzer.
 
-## 한줄요약
+By restoration type, survival was occlusal veneers 79.1%, vestibular veneers 94.1%, palatal veneers 100%; 18 of 21 complications were minor chippings repaired without replacement; Cox regression identified posterior tooth location (HR 0.143, p=0.008) as the only statistically significant failure predictor — material type was not significant (composite 86.3% vs ceramic 93.1%, p=0.107).
 
-후향적 증례군 연구 (8명, 212개 수복물, 60개월): 중증 치아마모(Tooth Wear, TWES 2–4) 환자의 접착성 전악 수복(Total Adhesive Rehabilitation) 생존율 90.1%; 교합면 비니어(Occlusal Veneer) 79.1%, 순측 비니어(Vestibular Veneer) 94.1%, 구개측 비니어(Palatal Veneer) 100%; 후방 위치(Posterior Location)가 유일한 통계적 위험인자(HR 0.143, p=0.008).
+The clinical implication is that the additive/adhesive rehabilitation philosophy for severe tooth wear yields acceptable 5-year outcomes and high reparability, but posterior occlusal veneers carry substantially higher failure risk that requires patient counseling.
+
+## 세줄요약
+
+후향적 증례군 (스페인, TWES 2–4, 8명 212개 수복물 — CAD-CAM 레진 교합면 비니어 66개·구개면 비니어 26개·순측 도재 비니어 120개, 60개월): DSD·Kois 분석기 기반 반부가형(Semi-Additive) 수직 교합고경(VDO) 거상 프로토콜로 전악 접착 수복.
+
+전체 생존율 90.1%; 술식별: 교합면 비니어(Occlusal Veneer) 79.1%·순측 비니어(Vestibular) 94.1%·구개면 비니어(Palatal) 100%; 합병증 21개 중 18개는 직접 레진 수리 — Cox 회귀에서 후방 위치만 유의한 실패 예측 인자(HR 0.143, p=0.008), 재료 유형은 유의하지 않음.
+
+임상적 의미: 접착성 전악 수복은 중증 치아마모에서 5년 결과 양호·수리 용이 — 단, 구치부 교합면 비니어 실패 위험이 현저히 높아 사전 환자 상담 필수.
 
 ## Summary
 

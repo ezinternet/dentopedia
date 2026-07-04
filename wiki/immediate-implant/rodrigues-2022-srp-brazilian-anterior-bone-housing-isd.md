@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients reporting Kan-class SRP distribution (Class I 65.2%, II 9.3%, III 0.7%, IV 24.8%); notably higher Class IV prevalence than Kan's original data, underscoring the need for individualized, case-by-case SRP assessment.
+## Three-line Summary
 
-## 한줄요약
-브라질 인구 CBCT(420 치아/70명): Class I 65.2%, II 9.3%, III 0.7%, IV 24.8% — Kan 원본 대비 Class IV 비율 ↑, 인구별 SRP 분포는 case-by-case 평가가 필요함을 강조.
+Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients measuring Kan-class sagittal root position (SRP) distribution; age differed significantly across classes (p=0.004) but sex did not (p=0.307).
+
+Class I was most prevalent (65.2%), followed by Class IV (24.8%), Class II (9.3%), and Class III (0.7%); the notably higher Class IV prevalence compared with Kan's original data highlights population-level variation.
+
+SRP distribution varies between populations; individualized CBCT assessment rather than reliance on published prevalence data is essential for esthetic-zone IIP case planning.
+
+## 세줄요약
+
+브라질 환자 70명의 상악 전치 420개를 CBCT로 측정한 Kan-class 시상 치근 위치 (SRP) 분포 연구; 연령은 class 간 유의차 (p=0.004), 성별은 차이 없음 (p=0.307).
+
+Class I 65.2%, Class IV 24.8%, Class II 9.3%, Class III 0.7% — Kan 원본 대비 Class IV 비율이 높아 인구 간 분포 차이를 확인.
+
+SRP 분포는 인구 집단마다 다르므로, 심미 영역 즉시식립 계획 시 기존 유병률 데이터보다 개별 CBCT 평가가 필수적이다.
 
 ## Summary
 Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients reporting Kan-class SRP distribution.

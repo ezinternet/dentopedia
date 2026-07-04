@@ -19,13 +19,21 @@ relations:
     target: shah-2022-perioperative-antiplatelet-therapy-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective study (n=100, patients within 1 year of PCI/coronary stenting) — uninterrupted single (aspirin) vs dual (aspirin + clopidogrel) antiplatelet therapy showed no significant difference in post-extraction bleeding (complete hemostasis 78% vs 64%, p=0.08); all persistent/delayed bleeding controlled with local measures.
+Prospective two-arm study (single center, Iran; n=100 patients within 1 year of PCI/coronary stenting) comparing post-extraction bleeding under uninterrupted single antiplatelet therapy (SAPT: aspirin 100 mg, n=50) vs dual antiplatelet therapy (DAPT: aspirin + clopidogrel 75 mg, n=50).
 
-## 한줄요약
+Complete hemostasis was achieved in 78% (SAPT) vs 64% (DAPT), with no statistically significant between-group difference (p=0.08); sex, age, underlying disease, number/type of teeth extracted showed no association with bleeding; all persistent and delayed bleeding was controlled with local measures.
 
-전향적 연구 (n=100, PCI/관상동맥 스텐트 시술 후 1년 이내 환자) — 단일(아스피린) vs 이중(아스피린+클로피도그렐) 항혈소판요법을 중단하지 않고 발치했을 때 출혈에 유의차 없음 (완전지혈 78% vs 64%, p=0.08); 모든 지속·지연 출혈은 국소 처치로 조절됨.
+Tooth extraction — including multiple and surgical procedures — can be performed safely within the first post-PCI year without interrupting single or dual antiplatelet therapy; stent-thrombosis risk from interruption exceeds manageable extraction bleeding risk.
+
+## 세줄요약
+
+이란 단일기관 전향 2군 연구(n=100, PCI/관상동맥 스텐트 시술 후 1년 이내): 단일 항혈소판(아스피린 100 mg, n=50) vs 이중 항혈소판(아스피린+클로피도그렐 75 mg, n=50) 유지하 발치 후 출혈 비교.
+
+완전 지혈: SAPT 78% vs DAPT 64%, 군 간 유의차 없음(p=0.08); 성별·나이·기저질환·발치 수/유형 모두 출혈과 무관; 모든 지속·지연 출혈은 국소 처치로 조절.
+
+PCI 후 1년 이내 단순~복잡 다발 발치도 단일/이중 항혈소판제 중단 없이 안전 시행 가능; 스텐트 혈전증 위험이 관리 가능한 발치 출혈보다 큼.
 
 ## Summary
 

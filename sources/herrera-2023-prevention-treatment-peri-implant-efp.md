@@ -9,7 +9,7 @@ pdf_filename: herrera-2023-prevention-treatment-peri-implant-efp.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 EFP S3 clinical practice guideline for prevention and treatment of peri-implant mucositis and peri-implantitis; 13 commissioned SRs; structured recommendations covering pre-implant to supportive care.
 
 ## 1. Document Information

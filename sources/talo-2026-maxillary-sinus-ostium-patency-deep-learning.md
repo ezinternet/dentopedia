@@ -17,13 +17,23 @@ text_filename: talo-2026-maxillary-sinus-ostium-patency-deep-learning.txt
 
 A hybrid CNN+ViT model that automatically classifies maxillary sinus ostium patency (open/closed) on CBCT — ostium patency is clinically critical to assess before sinus lift/implant, since a narrowed or occluded ostium disrupts mucociliary drainage and predisposes to postoperative sinusitis, bone graft loss, and implant failure. This connects the AI-in-dentistry diagnostic-performance line to the sinus-ostium/drainage anatomy that governs sinus-lift risk, complementing the mucosal-thickening evidence in [[sinus-lift/lateral/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height]] (ostium patency ↔ mucosal thickening, both preoperative CBCT risk markers) and extending the dental-AI CBCT lesion-detection line of [[artificial-intelligence/demir-2024-artificial-intelligence-dental-lesion-detection]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective single-center CBCT study (704 images: 477 open / 227 closed ostium) proposing a ConvNeXt-Tiny + DeiT gated-MLP hybrid deep-learning model that classifies maxillary sinus ostium patency at 95.03% test accuracy (F1 94.18%, MCC 89.67, error 4.96%), beating the best pre-trained baseline (DenseNet121/ConvNeXt-Tiny, 89.36%).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 단일기관 후향 CBCT 연구(704장: 개방 477/폐쇄 227)로, ConvNeXt-Tiny + DeiT 게이트-MLP 하이브리드 딥러닝 모델이 상악동 자연공(ostium) 개폐를 테스트 정확도 95.03%(F1 94.18%, MCC 89.67, 오류율 4.96%)로 분류해 최고 사전학습 기준모델(DenseNet121/ConvNeXt-Tiny, 89.36%)을 능가했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

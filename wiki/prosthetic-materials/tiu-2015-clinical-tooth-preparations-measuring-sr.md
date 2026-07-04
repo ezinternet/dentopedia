@@ -13,11 +13,21 @@ source_collection: external
 tags: [systematic-review, TOC, taper, tooth-preparation, measurement-methodology, jpd, otago]
 ---
 
-## One-line Summary
-SR (1006→23 articles, 20 reporting taper of convergence, TOC) documenting that recommended TOC drifted from an unrealistic 2–5° (1960s textbook) to a clinically realistic 10–22° over four decades; in-mouth preparations consistently exceed recommendations and no standardized cross-section measurement protocol exists.
+## Three-line Summary
 
-## 한줄요약
-sr (J Prosthet Dent 2015;113(3):175-184, Otago NZ, 1006→23편): 임상 치관 prep 기하 SR — 권장 TOC가 1960년대 비현실적인 2-5°에서 현재 10-22°로 4-decade 동안 이동; in-mouth prep이 out-of-mouth보다 일관되게 TOC 높음; 표준화된 cross-section 측정 프로토콜 부재.
+Systematic review (Scopus/PubMed/ScienceDirect; 1006→23 included articles; J Prosthet Dent 2015) of clinical tooth-preparation geometry literature, with 20 of 23 studies reporting total occlusal convergence (TOC).
+
+Recommended TOC drifted from an unrealistic 2–5° (1960s textbook ideal) to a clinically realistic 10–22° over four decades; in-mouth preparations consistently exceeded published recommendations.
+
+No standardized cross-section measurement protocol exists, preventing meta-analysis; the "6° Shillingburg ideal" is a teaching convention, not a clinical benchmark.
+
+## 세줄요약
+
+체계적 고찰(Scopus/PubMed/ScienceDirect; 1006→23편 포함; J Prosthet Dent 2015;113(3):175-184, Otago, NZ): 임상 치관 삭제 기하학(tooth preparation geometry) 문헌 고찰 — 23편 중 20편이 총교합수렴각(Total Occlusal Convergence, TOC) 보고.
+
+권장 TOC는 1960년대 비현실적인 2–5°에서 현재 임상 현실적인 10–22°로 40년간 이동; 구강 내 삭제가 구강 외(실습 모형) 대비 일관되게 TOC 높음.
+
+표준화된 단면 측정 프로토콜 부재로 메타분석 불가; "6° Shillingburg 이상값"은 교육 관례일 뿐 임상 기준치가 아님.
 
 ## Summary
 Systematic review (J Prosthet Dent March 2015) of clinical tooth preparation geometry literature. Otago, NZ team. 1006 → 983 excluded → 23 included. Twenty studies report TOC; rest cover margin design, margin angle, abutment height. Heterogeneous methodology blocks meta-analysis.

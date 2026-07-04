@@ -20,13 +20,21 @@ relations:
     target: fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (IEJ 2024) proposing a new 8-diagnosis taxonomy for apical periodontitis in vital and nonvital teeth, advocating vital pulp therapy (VPT) with 92–99% long-term success as first-line treatment for vital teeth with AP, and summarizing global AP prevalence at ~52%.
+Narrative review (IEJ 2024) covering clinical and radiographic features of apical periodontitis (AP) in both vital and nonvital teeth, global AP prevalence (~52%), and an updated 8-diagnosis taxonomy integrating pulp status, percussion response, and radiographic findings.
 
-## 한줄요약
+A 10-year retrospective cohort found VPT (vital pulp therapy) success rates of 92% (pulpitis+AP) and 99% (overall survival), supporting VPT as first-line treatment for vital teeth with AP over immediate root canal treatment; health technology appraisal concurs.
 
-서사 리뷰(IEJ 2024) — 생활·비생활 치아 모두의 치근단 주위염(Apical Periodontitis, AP) 임상·방사선 소견을 정리하고, 새 8범주 진단 분류를 제안하며, 생활치수요법(Vital Pulp Therapy, VPT) 장기 성공률 92–99%를 근거로 생활치 AP의 1차 치료로 VPT를 권고함.
+The authors recommend retiring the "reversible/irreversible pulpitis" terminology because VPT can succeed in teeth so classified, and they flag AP's associations with cardiovascular disease and diabetes while noting causation remains unestablished.
+
+## 세줄요약
+
+IEJ 2024 서사 리뷰: 생활·비생활 치아 모두의 치근단 주위염(Apical Periodontitis, AP) 임상·방사선 소견, 전 세계 AP 유병률(~52%), 치수 상태·타진 반응·방사선 소견을 통합한 8범주 진단 분류 신규 제안.
+
+10년 후향적 대규모 코호트에서 생활치수요법(Vital Pulp Therapy, VPT) 성공률 92%(치수염+AP)·전체 생존 99% — 생활치 AP에서 즉시 근관치료보다 VPT를 1차 치료로 지지하며 보건기술평가(HTA)도 동조.
+
+저자들은 VPT로 회복되는 치아에 "비가역적 치수염" 딱지를 붙이는 문제로 해당 용어 폐지를 권고하며, AP와 심혈관 질환·당뇨의 연관성은 보고되나 인과관계는 미확립임을 명시.
 
 ## Summary
 

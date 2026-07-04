@@ -28,13 +28,21 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 > - 한국 가용성: Katana(STML/UTML, 전치부 1순위), IPS e.max ZirCAD(Prime 4Y·MT Multi·LT 3Y), BruxZir(수입 monolithic 3Y/4Y), 국산(DDS·HASS 등 3Y-TZP 후방부).
 > - 확신도: 축①~④ = 근거강함(재료과학·SR+MA·umbrella·5y), 축⑤ 접착 = 합의수준(in vitro 중심, 임상 RCT 부족), 한국 가용성 = 미검증.
 
-## One-line Summary
+## Three-line Summary
 
-Sub-overview decomposing dental zirconia grade selection (3Y-TZP, 4Y-PSZ, 5Y-PSZ, 6Y/UHTZ) into 5 axes: crystallography and the strength–translucency trade-off, grade × indication matrix, thickness–fracture threshold, antagonist enamel wear, and adhesion/surface treatment. Higher yttria raises translucency but lowers strength (3Y ~1200 MPa for posterior crowns/FPDs down to UHTZ ~300–500 MPa for anterior esthetics); all grades need ≥1.5 mm occlusal thickness; monolithic designs avoid the veneer-chipping that dominates real-world complications; polishing beats glazing for wear; and all grades share the air-abrasion + MDP-primer (APC) bonding protocol — 5Y-PSZ retaining MDP chemical bonding despite its cubic phase. Child overview of the dental-materials-decision-ladder axis 2.
+Sub-overview decomposing dental zirconia grade selection (3Y-TZP, 4Y-PSZ, 5Y-PSZ, 6Y/UHTZ) into 5 axes: crystallography and the strength–translucency trade-off, grade × indication matrix, thickness–fracture threshold, antagonist enamel wear, and adhesion/surface treatment; yttria ↑ = translucency ↑ but strength ↓ (3Y ~1200 MPa → 5Y ~600–800 → UHTZ ~300–500 MPa; Ban 2023), with grade × indication: posterior FPD/high-load → 3Y, anterior single crown → 5Y-PSZ/multilayer, anterior short-span FPD → 4Y-PSZ.
 
-## 한줄요약
+All grades require ≥1.5 mm occlusal thickness (fracture risk increases sharply below 1 mm; Ali 2023 SR+MA); polishing beats glazing for antagonist wear (glazing leaves rough surface after first layer wears; Steiner 2024); all grades use the same APC bonding protocol (air-abrasion + MDP primer + resin cement), with 5Y-PSZ retaining MDP chemical bonding despite its cubic-dominant phase (Comba 2021 in vitro).
 
-치과용 지르코니아 grade 선택의 5축 spine — (1) 결정학·강도-투명도 trade-off 기초, (2) grade × 적응증 매트릭스, (3) 두께-파절 임계값, (4) 대합치 마모, (5) 접착·표면처리 차이. [[dental-materials-decision-ladder]] 축 2 의 sub-overview, [[dental-materials-decision-ladder]] Phase 2 stub 의 첫 실현.
+Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zirconia is strong so minimal prep is fine" (1 mm or less → fracture); assuming 5Y-PSZ bonds poorly because it is cubic; re-glazing after intraoral occlusal adjustment instead of polishing.
+
+## 세줄요약
+
+치과용 지르코니아 grade 선택 5축 sub-overview: 이트리아 함량 ↑ = 투명도 ↑·강도 ↓(3Y-TZP ~1200 MPa → 5Y-PSZ ~600–800 → UHTZ ~300–500 MPa; Ban 2023); grade × 적응증 매트릭스 — 후방부 FPD/고하중 → 3Y-TZP, 전치부 단관 → 5Y-PSZ/multilayer, 전치부 단교 → 4Y-PSZ.
+
+모든 grade 공통 최소 교합면 두께 1.5 mm 필수, 두께 <1 mm 시 파절 급증(Ali 2023 SR+MA); 대합치 마모는 연마(polishing) < 유약(glazing) 역설 — 유약층 마모 후 거친 면 노출(Steiner 2024); 지르코니아 마모량 < 금속도재·장석도재·LDS(Aljomard 2022 SR+MA, Shah 2024 umbrella).
+
+접착: 모든 grade 공통 APC(air-abrasion + MDP primer + resin cement); 5Y-PSZ는 cubic 우세이지만 MDP 화학결합 유지(Comba 2021 in vitro); UHTZ를 전 부위에 쓰거나 "Zr 강하니 최소삭제 OK"는 오판 — 임상 결정은 적응증 → 두께 → 표면처리 순으로 판단한다.
 
 ## Summary
 

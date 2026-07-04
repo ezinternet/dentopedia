@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, antral-pseudocyst, dental-implants, risk-factor, systematic-review]
 ---
 
-## One-line Summary
-SR (Anitua group, Med Oral 2021): on whether maxillary sinus mucous retention cysts / antral pseudocysts are a risk factor for dental implants or sinus lift outcomes — no clinically significant increase in risk was demonstrated (implant survival generally remained high, cyst presence was not a strong risk signal), though high study heterogeneity and lack of RCTs mean a stratified, procedurally cautious approach is still needed.
+## Three-line Summary
 
-## 한줄요약
-SR (Anitua 그룹, Med Oral 2021): 상악동 점액낭종/위낭종이 implant 또는 sinus lift outcome에 미치는 risk factor 여부 — **임상적으로 유의한 위험 증가 미입증**, 단 stratified approach 필요.
+Systematic review (Anitua group, Med Oral 2021) evaluating whether maxillary sinus mucous retention cysts (MRC) and antral pseudocysts represent a risk factor for dental implants or sinus lift outcomes, synthesizing cohort studies and case series in the absence of RCTs.
+
+No clinically significant increase in implant loss or sinus lift failure was demonstrated with cyst presence; implant survival generally remained high; cyst presence was not a strong risk signal, though study heterogeneity was high.
+
+Maxillary sinus MRC/pseudocysts are not an absolute contraindication to implant placement or sinus lift; a stratified, procedurally cautious approach is still required, and size- and type-specific risk data remain limited to subsequent cohort studies.
+
+## 세줄요약
+
+체계적 문헌고찰 (Systematic Review, SR, Anitua 그룹, Med Oral 2021): 상악동 점액 낭종 (Mucous Retention Cyst, MRC) 및 위낭종 (Antral Pseudocyst)이 임플란트 또는 상악동거상술 결과에 미치는 위험인자 여부를 코호트·증례 보고 합성 (RCT 없음).
+
+낭종 존재에 따른 임플란트 소실 또는 거상술 실패의 임상적으로 유의한 증가 미입증; 임플란트 생존율 일반적으로 높게 유지; 낭종 존재 자체는 강한 위험 신호 아님 — 단 연구 이질성 높음.
+
+상악동 MRC/위낭종은 임플란트 식립 또는 상악동거상술의 절대 금기가 아님; 단계적·주의적 접근 필요; 크기·유형별 위험 데이터는 이후 코호트 연구로 보완.
 
 ## Summary
 Cyst 발견 시 술자의 1차 질문 "이게 implant 위험인가?"에 대한 SR-level anchor. 결론: 점액낭종 자체가 implant 절대 금기는 아니다. 다만 study heterogeneity 높고 RCT 부족 — 절차적 주의는 필요.

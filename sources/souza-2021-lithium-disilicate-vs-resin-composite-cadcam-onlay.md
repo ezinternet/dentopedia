@@ -9,7 +9,7 @@ pdf_filename: souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 스플릿마우스 RCT(n=20, 1년): e.max CAD vs Lava Ultimate 온레이 — 1년 임상 성능 유사(p>0.05); e.max에서 표면광택·색조일치 일부 저하 관찰; 장기 연구 필요
 
 ## 1. Document Information

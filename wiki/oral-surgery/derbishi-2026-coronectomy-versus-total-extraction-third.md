@@ -16,13 +16,21 @@ relations:
     target: cervera-espert-2016-coronectomy-mandibular-third-molar-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy reduces IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001; TSA-conclusive), no difference in dry socket or infection, and root-retrieval re-operation rate only 1.2%.
+SR+MA (8 studies — 3 RCTs + 5 cohorts, 1,488 teeth) comparing coronectomy versus total mandibular third molar extraction, with GRADE evaluation and trial sequential analysis.
 
-## 한줄요약
+Coronectomy significantly reduces IAN injury (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001; TSA-conclusive fourfold protection); dry socket and infection rates do not differ between techniques.
 
-SR+MA (8편 — RCT 3 + 코호트 5, 1488치): 치관절제가 발치 대비 하치조신경 손상 감소 (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001, TSA 확정), 건성치조염·감염 차이 없음, 치근 회수 재수술률 1.2%.
+Root-retrieval re-operation is needed in only 1.2% (95% CI 0.0–4.4%), reframing root migration as usually benign and making coronectomy the preferred technique when IAN proximity is confirmed.
+
+## 세줄요약
+
+SR+MA (8편 — RCT 3편 + 코호트 5편, 1,488치): 하악 제3대구치에서 치관절제술(coronectomy) 대 완전 발치를 GRADE·TSA까지 적용한 방법론적으로 가장 강력한 합성 연구.
+
+치관절제술이 하치조신경(IAN) 손상을 Peto OR 0.23(95% CI 0.13–0.39, p<0.0001, TSA 확정적)으로 약 4배 감소; 건성치조염·감염은 유의한 차이 없음.
+
+잔존 치근 회수를 위한 재수술률은 1.2%에 불과해, 치근 이동은 대개 양성 경과로 임상적 우려가 낮다.
 
 ## Summary
 

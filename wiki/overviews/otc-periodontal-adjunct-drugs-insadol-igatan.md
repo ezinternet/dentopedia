@@ -37,13 +37,21 @@ source_papers:
 > - **이가탄 성분별 근거**: (vit C) 국소 비타민C±주사형 혈소판농축섬유소(I-PRF)가 2기 치주염 RCT에서 SRP 단독 대비 **추가 임상이득 없음**(통증만 감소, Sherif 2025); (lysozyme) 리소짐·락토페린 함유 치약은 치은염 RCT에서 GI −0.53·치태 −0.96으로 **명확한 효과**(Hu 2025) — 단 **국소(치약) 전달**이지 정제 복용이 아님 → 전달 경로가 효과를 가른다.
 > - **임상 메시지**: 환자에게는 "저위험·저비용의 가벼운 보조제로, 잇몸 붓기·출혈 증상은 다소 줄여줄 수 있으나 SRP를 대체하지 못하고 뼈·부착 회복은 기대 근거가 없다"로 설명. 가격 대비 효용은 논쟁적. 같은 패턴(국소 효과 O / 전신·gel 효과 미미, 이질성·비뚤림 부풀림)은 코엔자임Q10 (Coenzyme Q10, CoQ10) 보조제에서도 반복됨 (Rasoolzadeh 2022).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 9 wiki pages on Korea's two dominant OTC "gum drugs" — Insadol (Zea mays unsaponifiable ± Magnoliae cortex) and Igatan/CELC (vitamin C/E + lysozyme + carbazochrome): mechanistic and animal anti-inflammatory signals are consistent, but human evidence shows benefit confined to gingival-inflammation surrogates (GI/BoP) with no demonstrated effect on PD/CAL beyond SRP, and the registered-drug evidence base is methodologically weak.
+Synthesis of 9 wiki pages on Korea's two dominant OTC periodontal drugs — Insadol (Zea mays unsaponifiable ± Magnoliae cortex, host-modulation) and Igatan/CELC (vitamin C/E + lysozyme + carbazochrome, antioxidant/enzyme/hemostatic).
 
-## 한줄요약
+Mechanistic and animal anti-inflammatory signals are consistent (NF-κB/MAPK suppression in vitro; beagle ligature-model RCT), but human evidence is confined to gingival-inflammation surrogates (GI/BoP only), with no demonstrated PD/CAL benefit beyond SRP.
 
-한국 양대 OTC 잇몸약(인사돌·이가탄) 9개 페이지 종합 — 기전·동물 항염 신호는 일관되나 사람에서는 GI/BoP 같은 잇몸 염증 surrogate만 개선되고 PD/CAL은 SRP 이상으로 못 바꾸며, 등록 약물의 임상 근거 자체가 방법론적으로 빈약하다.
+The registered-drug evidence base is methodologically weak (Insadol: 4 trials 1982–1994, all methodologically flawed, zero trials since 1994; Igatan: GI only at 4 weeks, PD/CAL NS) — market dominance precedes evidence.
+
+## 세줄요약
+
+한국 양대 OTC 잇몸약(인사돌·이가탄) 9편 종합 — 인사돌(옥수수 불검화물±후박)은 숙주조절·항염 계열, 이가탄(비타민C/E+리소짐+카르바조크롬)은 항산화·효소·지혈 계열.
+
+기전·동물 항염 신호는 일관되나 사람에서는 치은지수(Gingival Index, GI)/탐침시출혈(Bleeding on Probing, BoP) 같은 잇몸 염증 surrogate만 개선; 치주낭깊이(Probing Depth, PD)/임상부착수준(Clinical Attachment Level, CAL)은 스케일링·치근활택술(Scaling and Root Planing, SRP) 이상으로 개선 없음.
+
+등록 약물 임상 근거 자체가 빈약(인사돌: 1994년 이후 신규 시험 0건; 이가탄: GI만 유의, PD/CAL NS) — 시장 점유(66.8%)가 근거를 앞서는 사례.
 
 ## Summary
 

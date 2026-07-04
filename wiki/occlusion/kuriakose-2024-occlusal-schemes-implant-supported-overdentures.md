@@ -22,13 +22,21 @@ relations:
     target: zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Per PubMed, short clinical report (3 groups × 20 = 60 mandibular 2-implant overdenture patients) found balanced occlusion gave the highest 6-month bite force (200 N), masticatory efficiency (80%), and satisfaction (9.0), ranking balanced > lingualized > monoplane on every outcome.
+Brief clinical report (60 completely edentulous patients, mandibular 2-implant canine-region overdentures, 20 per group) comparing balanced, lingualized, and monoplane occlusal schemes at baseline, 3 months, and 6 months.
 
-## 한줄요약
+Balanced occlusion ranked highest on every 6-month outcome: bite force 200 ± 20 N, masticatory efficiency 80 ± 5%, and OHIP-EDENT satisfaction 9.0 ± 0.5, all significantly better than lingualized and monoplane (p < 0.05).
 
-PubMed 기준, 하악 2-임플란트 오버덴처 환자 60명(각 군 20명)에서 6개월 교합력·저작효율·만족도 모두 균형교합(Balanced) > 설측교합(Lingualized) > 단일평면교합(Monoplane) 순으로, 균형교합이 가장 우수했다(짧은 임상 보고, 근거 약함).
+The findings support balanced occlusion as the preferred scheme for implant-supported overdentures, but the minimal statistical reporting and single-center n=20/group design limit confidence; treat as directional rather than confirmatory evidence.
+
+## 세줄요약
+
+완전 무치악 환자 60명(하악 2-임플란트 견치부 오버덴처, 각 군 20명)에서 균형, 설측, 단일평면 교합 방식을 기준·3개월·6개월에 걸쳐 비교한 단기 임상 보고.
+
+6개월 시점에서 균형교합이 교합력 200 ± 20 N, 저작효율 80 ± 5%, OHIP-EDENT 만족도 9.0 ± 0.5로 모든 지표에서 유의하게 가장 우수했다(p < 0.05).
+
+임플란트 지지 오버덴처에서 균형교합을 권장하는 방향성 근거를 제공하나, 단일기관·각 군 20명·최소한의 통계 보고로 확증적 결론은 제한적이다.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [drill-wear, osteotomy, heat-generation, SEM, TiN-coating, drill-replacement, in-vitro]
 ---
 
-## One-line Summary
-In vitro CNC-controlled study (PLOS ONE 2025; two drill protocols, 150 holes each without irrigation): drill-bit wear (tracked by SEM TiN-coating loss) correlated directly and progressively with peak intraosseous drilling temperature, while hole-geometry deviation was only weakly affected — supporting strict adherence to drill-replacement protocols since heat rise begins well before the manufacturer's ~25–30-use limit.
+## Three-line Summary
 
-## 한줄요약
-인비트로(PLOS ONE 2025, CNC 통제, 150 hole/set): drill bit 마모(SEM, TiN 코팅 손실)와 골내 온도 상승이 직접 정비례; hole geometry와의 상관은 약함 — "제조사 권장 25–30회보다 훨씬 일찍 발열은 시작된다."
+CNC-controlled in vitro study (PLOS ONE 2025; two proprietary drill protocols, 150 holes each in synthetic bone without irrigation) isolating drill-bit wear (tracked by SEM TiN-coating loss) as the independent variable for intraosseous temperature rise and hole-geometry deviation.
+
+Drill-bit wear correlated directly and progressively with peak intraosseous drilling temperature as TiN coating was lost; hole-geometry deviation was only weakly affected by wear, while implantation-phase temperature and torque remained in acceptable ranges.
+
+Strict adherence to manufacturer drill-replacement protocols (typically ~25–30 uses) is essential since heat rise begins before that limit; clinical absolute temperatures are not directly applicable because the study intentionally omitted irrigation.
+
+## 세줄요약
+
+CNC 통제 인비트로 연구 (PLOS ONE 2025; 2개 드릴 프로토콜, 각 150 hole, 합성골, 의도적 irrigation 미사용) — TiN 코팅 손실(SEM)로 드릴 마모를 추적하며 온도 상승 및 홀 형상과의 관계를 분리.
+
+드릴 마모(TiN 코팅 손실)와 골내 최고 온도 상승이 직접 정비례; 홀 형상 편차는 마모에 약하게만 반응; 임플란트 삽입 단계의 온도·토크는 허용 범위 유지.
+
+제조사 권장 교체 기준(통상 25–30회)의 엄격한 준수가 필수 — 그 이전부터 이미 마모·발열 진행; irrigation 미사용으로 임상 절대온도 직접 적용 불가.
 
 ## Summary
 A CNC-controlled in vitro experiment (PLOS ONE 2025) quantified the relationship between drill bit wear and intraosseous temperature rise in implant osteotomy. Two proprietary drill protocols (AT, PT) were each used for 150 holes — 5–6× the manufacturer-recommended life — with no irrigation, to isolate wear as the independent variable. Temperature was recorded with three thermocouples (1.5/7/12 mm depths). Wear was tracked by SEM with TiN-coating loss as the marker. Tool wear correlated directly with peak temperature rise during drilling; geometric deviation of the hole was much less responsive to wear. The implantation phase itself stayed within acceptable temperature/torque ranges.

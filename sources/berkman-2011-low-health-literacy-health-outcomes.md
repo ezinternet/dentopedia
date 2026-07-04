@@ -16,13 +16,21 @@ text_filename: berkman-2011-low-health-literacy-health-outcomes.txt
 
 Foundational, frequently-cited AHRQ evidence base establishing that low health literacy is associated with poorer health outcomes — the empirical justification for patient communication, education, and plain-language counseling in clinical practice. Underpins the dentist-patient communication pages: it supplies the "why it matters" evidence behind the communication-quality synthesis in [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]]. Note the explicit dentistry-relevant gap: the review found NO evidence on oral health literacy and outcomes.
 
-## One-line Summary
+## Three-line Summary
 
-Updated AHRQ systematic review (96 good/fair-quality studies, 111 articles) finding low health literacy consistently associated with more hospitalizations, greater emergency-care use, lower preventive-screening uptake, poorer medication and label comprehension, and (in the elderly) worse health status and higher mortality; no evidence found on oral health literacy.
+Updated AHRQ systematic review (96 good/fair-quality studies, 111 articles, 2003–2011) examining the relationship between directly measured health literacy/numeracy and health outcomes across all age groups.
 
-## 한줄요약
+Low health literacy was consistently associated with more hospitalizations, greater emergency-care use, lower mammography/influenza-vaccine uptake, poorer medication/label comprehension, and (in the elderly) worse health status and higher mortality; poor literacy also partially explains racial health disparities.
 
-AHRQ 업데이트 체계적 문헌고찰(양호/중간 질 96편, 논문 111편): 낮은 건강 문해력 (Health Literacy)은 입원 증가, 응급실 이용 증가, 예방검진(유방촬영·독감백신) 수진율 저하, 약 복용·라벨·건강정보 해석 능력 저하, 노인의 건강상태 악화·사망률 증가와 일관되게 연관됨. 단, 구강 건강 문해력 (Oral Health Literacy)과 결과에 대한 근거는 발견되지 않음.
+No evidence was found on oral health literacy and outcomes — an explicit gap for dentistry identified as of 2011.
+
+## 세줄요약
+
+AHRQ 업데이트 체계적 문헌고찰(양호/중간 질 96편, 논문 111편, 2003–2011) — 직접 측정한 건강 문해력(Health Literacy)/수리력(Numeracy)과 건강 결과의 관계를 전 연령대에서 평가.
+
+낮은 건강 문해력은 입원 증가·응급실 이용 증가·예방검진(유방촬영·독감백신) 수진율 저하·약 복용·라벨·건강정보 해석 능력 저하, 노인의 건강 상태 악화·사망률 증가와 일관되게 연관; 일부 인종 건강 격차를 부분적으로 설명.
+
+구강 건강 문해력(Oral Health Literacy)과 결과에 대한 근거는 2011년 기준 발견되지 않음 — 치의학 분야의 명시적 근거 공백.
 
 ## 1. Document Information
 

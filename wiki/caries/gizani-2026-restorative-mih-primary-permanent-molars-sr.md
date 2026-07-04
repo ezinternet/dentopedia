@@ -16,13 +16,19 @@ relations:
     target: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct
 ---
 
-## One-line Summary
+## Three-line Summary
+Systematic review (20 studies, 1,231 children, search to Sept 2025) of restorative interventions for MIH-affected first permanent molars (FPMs) and hypomineralized second primary molars (HSPM); 10 RCTs, PROSPERO-registered, no meta-analysis due to heterogeneity.
 
-Systematic review (20 studies, 1,231 children, search to Sept 2025) of restorative interventions for MIH-affected first permanent molars (FPMs) and hypomineralized second primary molars (HSPM): overall clinical success 84% (12 mo) → 94% (18 mo) → 92% (24 mo) → 83% (36 mo); lowest for GIC (53% at 12 mo), highest (100%) for CAD/CAM fabricated ceramic (18 mo) and preformed metal crowns (PMCs, 24 mo); heterogeneity precluded meta-analysis, no evidence-based best-approach recommendation possible.
+Overall clinical success 84% (12 mo) → 94% (18 mo) → 83% (36 mo); GIC lowest (53% at 12 mo); CAD/CAM ceramic and PMCs highest (100% at 18–24 mo); vital pulp therapy >95% success at 24 mo for deeply carious MIH-FPMs.
 
-## 한줄요약
+Full-coverage crowns (PMC, indirect ceramic) provide the most reliable long-term performance for severely damaged MIH teeth; GIC is inadequate as a definitive restoration in stress-bearing areas.
 
-체계적 문헌고찰 (20편, 1,231명, 2025년 9월까지 검색): **법랑질 저광화 (MIH)** 침범 제1대구치(FPM)·저광화 제2유구치(HSPM)의 수복 중재 성공률 종합 — 전체 임상 성공률 84%(12개월)→94%(18개월)→92%(24개월)→83%(36개월); 글래스아이오노머(GIC) 최저(12개월 53%), 제작 세라믹(18개월)·기성금속관(PMC, 24개월) 최고(100%); 이질성으로 메타분석 불가, 근거 기반 최적 수복법 권고 불가.
+## 세줄요약
+SR (20편, 1,231명, 2025년 9월 검색): MIH 침범 제1대구치(FPM)·저광화 제2유구치(HSPM)의 수복 성공률 종합 — RCT 10편 포함, 이질성으로 메타분석 불가.
+
+전체 임상 성공률 84%(12개월)→83%(36개월); GIC 최저(12개월 53%); 간접 세라믹·PMC 최고(100%); 생활치수요법(VPT) 심우식 MIH치 24개월 >95%.
+
+교합 부하부위의 심한 MIH 손상치는 완전 피개관(PMC·간접 세라믹)이 장기적으로 가장 신뢰할 수 있으며, GIC는 임시 재료로 위치를 제한한다.
 
 ## Summary
 

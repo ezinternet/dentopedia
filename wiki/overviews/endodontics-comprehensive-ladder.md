@@ -28,13 +28,21 @@ tags: [endodontics, vital-pulp-therapy, regenerative-endodontics, dpc, pulpotomy
 > - 균열치 사다리: craze line→관찰·교합조정, fractured cusp→수복/onlay, cracked(증상 무)→banding 후 monitoring, cracked+치수증상→근관+crown, split·수직치근파절→발치.
 > - 확신도: VPT·REP = [근거강함], 균열치 = [합의수준](narrative), 나노로봇 등 미래 = [추정](현 임상 적용 없음).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis decision-ladder over 21 endodontics papers on four axes — vital pulp therapy (VPT), regenerative endodontics (REP/revitalization), cracked tooth, and primary-tooth pulp therapy. Core thesis: first-line VPT material is Biodentine or MTA, not Ca(OH)₂ (Hatipoglu 2025 Bayesian NMR: Biodentine OR 4.41, MTA OR 3.02); for immature non-vital permanent teeth, REP is preferred over apexification because it preserves root length and dentin-wall thickness with equivalent survival. Clinical takeaway: AAPD 2025 now allows VPT even for selected irreversible pulpitis, primary teeth get MTA pulpotomy first-line (~93% success), and procedural depth is delegated to sub-categories (anatomy/eal/irrigation).
+Synthesis decision-ladder over 21 endodontics papers on four axes — vital pulp therapy (VPT), regenerative endodontics (REP/revitalization), cracked tooth, and primary-tooth pulp therapy.
 
-## 한줄요약
+First-line VPT material is Biodentine or MTA, not Ca(OH)₂ (Hatipoglu 2025 Bayesian NMR: Biodentine OR 4.41, MTA OR 3.02); for immature non-vital permanent teeth, REP is preferred over apexification because it preserves root length and dentin-wall thickness with equivalent survival (Stefanidou, Panda, Meschi SR+MA).
 
-근관 의사결정 4축 — VPT (Vital Pulp Therapy: DPC·pulpotomy) · 재생근관치료 (REP/revitalization) · cracked tooth · 유치 치수 치료. AAPD 2024/2025 + AAE 2021 + ESE 2019 + Cochrane spine. Endodontics는 별도 sub-category (anatomy·eal·irrigation)에서 더 깊이 다룸.
+AAPD 2025 now permits VPT even for selected irreversible pulpitis; primary teeth receive MTA pulpotomy first-line (~93% success per Cochrane); and procedural depth is delegated to sub-categories (anatomy/eal/irrigation).
+
+## 세줄요약
+
+근관 의사결정 4축(VPT·REP/revitalization·cracked tooth·유치 치수치료)을 21편으로 종합한 결정 사다리로, AAPD 2024/2025·AAE 2021·ESE 2019·Cochrane이 근간이다.
+
+1차 VPT 재료는 Biodentine 또는 MTA(Ca(OH)₂ 아님; Hatipoglu 2025 NMR: Biodentine OR 4.41, MTA OR 3.02); 미성숙 비활력 영구치는 치근 보존 우위(REP > apexification; 다수 SR+MA).
+
+AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA pulpotomy 1차(~93%); 술기 깊이는 anatomy·eal·irrigation 서브카테고리로 위임.
 
 ## Summary
 

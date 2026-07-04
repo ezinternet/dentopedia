@@ -20,13 +20,21 @@ relations:
     target: akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective single-center CBCT study (704 images: 477 open / 227 closed) in which a ConvNeXt-Tiny + DeiT gated-MLP hybrid deep-learning model classifies maxillary sinus ostium patency at 95.03% test accuracy (F1 94.18%, MCC 89.67), beating the best single-backbone baseline (89.36%).
+Retrospective single-center CBCT study (704 images: 477 open / 227 closed) training a ConvNeXt-Tiny + DeiT gated-MLP hybrid deep-learning classifier for maxillary sinus ostium patency assessment, motivated by the low inter-observer reliability (κ as low as 0.399) of manual CBCT interpretation.
 
-## 한줄요약
+The proposed model achieved 95.03% test accuracy, F1 94.18%, and MCC 89.67 — substantially outperforming the best single-backbone baseline (89.36%) and misclassifying only 7 of 141 test images; the gated fusion mechanism (not the backbone choice) was the critical improvement.
 
-단일기관 후향 CBCT 연구(704장: 개방 477/폐쇄 227)에서 ConvNeXt-Tiny + DeiT 게이트-MLP 하이브리드 딥러닝 모델이 상악동 자연공(ostium) 개폐를 테스트 정확도 95.03%(F1 94.18%, MCC 89.67)로 분류해 최고 단일-백본 기준모델(89.36%)을 능가했다.
+Clinically the model is framed as a preoperative screening aid for sinus-lift planning, but external multi-center validation, linkage to postoperative sinusitis outcomes, and assessment of narrowing degree are absent; the dataset is small, imbalanced, and from a single device.
+
+## 세줄요약
+
+단일기관 후향 CBCT 연구(704장: 개방 477/폐쇄 227)에서 상악동 자연공(ostium) 개폐 판별의 낮은 판독자 간 신뢰도(일치도 κ 최저 0.399)를 해결하기 위해 ConvNeXt-Tiny + DeiT 게이트-MLP 하이브리드 딥러닝 분류기를 개발·검증했다.
+
+제안 모델은 테스트 정확도 95.03%·F1 94.18%·매튜스 상관계수(Matthews Correlation Coefficient, MCC) 89.67로 최고 단일-백본 기준(89.36%)을 능가했으며, 7/141장만 오분류했다; 단순 연결+MLP 융합(90.07%) 대비 게이팅 기전이 결정적 향상 요인이었다.
+
+임상적으로 상악동 거상술 전 CBCT 선별 보조도구로 제안되나, 다기관 외부 검증·수술 후 부비동염 결과와의 연계·협착 정도 평가가 없고 단일 장비·소규모 불균형 데이터셋이라는 한계가 있다.
 
 ## Summary
 

@@ -34,13 +34,21 @@ tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment, s
 > - **세척 vs 점착-봉합의 역설**: 단순 약제 *세척*(da Silveira: 음성)과 효소분해+클롯안정화 *겔 봉합*(Jungbauer: 양성)의 대비는 — 전달방식(접촉시간·기질분해·클롯안정화)이 약제 종류보다 결정적임을 시사. NaOCl은 세척용이 아니라 생체막/기질을 분해하는 겔 형태로, HA는 봉합제로 작용.
 > - **임상 결론**: 프로바이오틱스(특히 Lactobacillus + Enterococcus 복합)는 NSPT 후 BoP 감소 목표에 부가적 가치가 있으며, 가정용 이중광 aPDT는 기계적 접근이 어려운 부위에서 보조 가능성이 있다. 단순 약제 치은연하 세척은 이득 없으나, 유지치료 단계 깊은 잔존 포켓에 한정한 "clean and seal" 겔 프로토콜은 의미있는 부가효과를 보인다. CAL 개선 근거는 세척 계열에서 여전히 미약하고 장기 데이터가 없다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 2026 probiotic and aPDT adjunct RCTs against the 2017 NMA benchmark: all adjuncts to NSPT/SRP yield ~0.3 mm extra CAL gain, probiotics improve BoP and PPD ≥5 mm sites but not CAL, and home-use dual-light aPDT adds meaningful plaque reduction on top of conventional oral hygiene — no adjunct is yet dominant.
+Synthesis of 8 papers (1 NMA, 4 RCTs, 1 SR+MA, 1 RCT) against the 2017 NMA benchmark (John 2017, 61 RCTs, 9 adjuncts): all NSPT adjuncts share a ~0.3 mm CAL ceiling with no adjunct superior to another.
 
-## 한줄요약
+2026 probiotic RCTs (Lundtorp-Olsen n=80; Jeon n=80) consistently reduce BoP and PPD ≥5 mm sites but leave CAL unchanged; home-use dual-light aPDT (Gusseva 2026, n=30) reduces plaque by 21.2% vs 6.5% conventional (pilot only).
 
-NSPT/SRP 보조요법 2026년 프로바이오틱스·이중광 aPDT RCT를 2017 NMA 벤치마크와 종합: 모든 보조요법의 추가 CAL 이득은 ~0.3 mm에 불과하고, 프로바이오틱스는 BoP와 PPD ≥5 mm 부위를 개선하되 CAL은 미개선, 가정용 이중광 aPDT는 기존 구강위생에 추가적 치태 감소를 제공하며, 아직 우월한 단일 보조요법은 없다.
+Chemical subgingival irrigation adds no benefit over water/saline (da Silveira 2026 SR+MA, 16 RCTs, PPD MD 0.01 mm), while the structured "clean and seal" gel protocol (Jungbauer 2026) yields +0.50 mm PD and 88% vs 38% pocket closure — delivery mode, not agent identity, governs outcome.
+
+## 세줄요약
+
+8편 종합(NMA 1·RCT 4·SR+MA 1·RCT 1) — 2017 NMA 벤치마크(John 2017, 61편, 9종 보조요법): 모든 보조요법의 추가 임상부착수준(Clinical Attachment Level, CAL) 이득 ~0.3 mm, 우월한 단일 보조요법 없음.
+
+2026 프로바이오틱스 RCT(Lactobacillus+Enterococcus, n=80; OraCMU, n=80)는 탐침시출혈(Bleeding on Probing, BoP)·심부포켓 수를 유의 감소(p=0.03·p=0.01)하나 CAL 미개선; 가정용 이중광 aPDT(Gusseva 2026, n=30 파일럿)는 치태 −21.2% 대 −6.5%.
+
+약제 세척(da Silveira 2026 SR+MA, 16편, 치주낭깊이(Probing Pocket Depth, PPD) MD 0.01 mm = 무효)과 겔 봉합(Jungbauer 2026, +0.50 mm PD·포켓폐쇄 88% vs 38% = 양성)의 대비 — 전달방식이 약제 종류보다 결정적.
 
 ## Thesis
 

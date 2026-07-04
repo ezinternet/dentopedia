@@ -9,7 +9,7 @@ pdf_filename: petaibunlue-2019-anterior-arch-root-position-angulation.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 CBCT cross-sectional study evaluating how anterior arch form combined with Kan-class SRP relates to root-to-bone angulation in the maxillary esthetic zone.
 
 ## 1. Document Information

@@ -13,11 +13,21 @@ source_collection: external
 tags: [coronectomy, third-molar, IAN, nerve-injury, dry-socket, root-migration]
 ---
 
-## One-line Summary
-SR+MA (12 studies): for impacted mandibular third molars in contact with the inferior alveolar canal, coronectomy significantly reduced inferior alveolar nerve (IAN) sensory loss and dry socket compared with complete extraction, with no significant difference in pain or infection; the retained root fragment migrates ~2 mm coronally within 2 years and rarely requires reintervention.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (12편): 관상절제술은 완전 발치 대비 하치조신경 감각 손실·건성발치창 유의하게 감소 — 치근편 평균 2년 내 2mm 이동, 동통·감염 차이 없음.
+SR+MA (PubMed + Cochrane; 12 studies, ≥10 cases, ≥6-month follow-up through 2014) of coronectomy vs complete extraction for impacted mandibular third molars in direct contact with the inferior alveolar canal (IAC).
+
+Coronectomy significantly reduced IAN sensory loss and dry socket compared with complete extraction; pain and infection rates were not significantly different between the two techniques.
+
+The retained root fragment migrates an average of ~2 mm coronally within 2 years but rarely requires reintervention — providing a clinically manageable outcome when IAN-contact risk is high on CBCT.
+
+## 세줄요약
+
+SR+MA (PubMed·코크란; 12편, ≥10증례·≥6개월 추적, 2014년까지) — 하치조신경관(Inferior Alveolar Canal, IAC)에 직접 접촉하는 매복 하악 제3대구치에서 관상절제술(Coronectomy) vs 완전 발치 비교.
+
+관상절제술은 완전 발치 대비 하치조신경(Inferior Alveolar Nerve, IAN) 감각 손실과 건조치조염(Dry Socket) 유의하게 감소; 동통과 감염은 두 기법 간 유의한 차이 없음.
+
+잔류 치근편은 2년 내 평균 약 2mm 치관 방향 이동하나 재시술이 거의 필요 없어 임상적으로 관리 가능 — CBCT에서 IAN 접촉 위험 높을 때 유효한 대안.
 
 ## Summary
 Systematic review and meta-analysis of 12 studies evaluating 관상절제술 (coronectomy) for impacted mandibular third molars in contact with the 하치조신경관 (inferior alveolar canal, IAC). Coronectomy resulted in significantly less 하치조신경 (IAN) sensory loss and significantly fewer 건성발치창 (dry socket) compared to complete extraction. Pain and infection rates were not significantly different. Remaining root fragment migrates an average of 2 mm coronally within 2 years but rarely requires reintervention.

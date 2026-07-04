@@ -15,7 +15,7 @@ OD를 이용한 경치조골 상악동거상술(transcrestal sinus lift)에 특�
 
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]]
 
-## One-line Summary
+## Three-line Summary
 Narrative review by lead OD-TSFE researchers proposing three RBH-stratified protocols (matched to Versah Sinus Lift I/II and Combined approaches) and synthesizing biomechanical, histologic, and clinical evidence.
 
 ## 1. Document Information

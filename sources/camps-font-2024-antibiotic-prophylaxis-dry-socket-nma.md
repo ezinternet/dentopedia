@@ -9,8 +9,21 @@ pdf_filename: camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Network meta-analysis of 16 RCTs (2158 patients) comparing antibiotic regimens for prevention of dry socket and SSI after lower third molar extraction; antibiotics reduce both complications but NNT is high (25 for dry socket, 18 for SSI), arguing against routine use.
+## Three-line Summary
+
+Network meta-analysis of 16 RCTs (2,158 patients, 2,428 lower third molars) comparing multiple antibiotic regimens (amoxicillin ± clavulanic acid, metronidazole, azithromycin, clindamycin) versus placebo for prevention of dry socket and surgical site infection (SSI) after lower third molar extraction.
+
+Antibiotics statistically significantly reduce dry socket (NNT=25) and SSI (NNT=18) compared to placebo, but the high NNT values indicate that 18–25 healthy patients must be treated to prevent one complication, with associated risks of adverse events, resistance, and microbiota disruption.
+
+Routine antibiotic prophylaxis is not justified for healthy patients undergoing lower third molar extraction; individual risk stratification is needed before prescribing.
+
+## 세줄요약
+
+16건 RCT(2,158명, 2,428개 하악 제3대구치) 네트워크 메타분석: 아목시실린 ± 클라뷸란산, 메트로니다졸, 아지스로마이신, 클린다마이신 vs 위약 비교.
+
+항생제는 건조와(Dry Socket, NNT=25) 및 수술부위감염(SSI, NNT=18)을 통계적으로 유의하게 감소시키나, 높은 NNT는 건강한 환자 18~25명을 치료해야 1명의 합병증을 예방함을 의미하며 부작용·내성·미생물군 교란 위험이 따른다.
+
+건강한 환자의 하악 제3대구치 발치 시 항생제 예방적 투여는 일상적으로 권고되지 않으며, 개별 위험도 평가 후 처방 여부를 결정해야 한다.
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral and Maxillofacial Surgery 2024;53:57–67

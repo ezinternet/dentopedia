@@ -9,7 +9,7 @@ pdf_filename: ostman-2020-macro-hybrid-implant-anterior-postextraction.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Single-cohort prospective study (18–24 month follow-up) of immediate implant placement with immediate provisional restoration in maxillary anterior sockets using a novel macro-hybrid implant design.
 
 ## 1. Document Information

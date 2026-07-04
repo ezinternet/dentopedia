@@ -9,7 +9,7 @@ pdf_filename: papapanou-2018-periodontitis-classification-consensus-2017.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 2017 치주 세계 워크샵 Workgroup 2 합의: 치주염 새 분류 체계(병기 I–IV, 등급 A–C) 발표.
 
 ## 1. Document Information

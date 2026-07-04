@@ -19,13 +19,21 @@ Pairs with the Gothic-arch / jaw-relation-record cluster — [[wiki/occlusion/kw
 
 According to PubMed, this article (de Moraes Melo Neto et al., 2021, *European Journal of Dentistry*; [DOI](https://doi.org/10.1055/s-0041-1735903); PMID 34921385; PMCID PMC9339936) is a systematic review comparing CR techniques within the same method-of-obtaining-CR.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 low-quality clinical studies, complete-dentition non-TMD subjects) comparing centric-relation recording techniques *within the same method*: every included study compared only bimanual manipulation vs chin-point guidance (guided method) — 3 found bimanual more reproducible, 2 found them equivalent, 1 favored chin-point — so bimanual manipulation is more recommended.
+Systematic review (PROSPERO CRD42018097285; 6 studies, all low quality by Jadad scale) comparing centric-relation (CR) recording techniques within the same method in complete-dentition, non-TMD subjects; all included studies compared guided-method techniques only (bimanual manipulation vs chin-point guidance).
 
-## 한줄요약
+Of the 6 studies, 3 found bimanual manipulation more reproducible, 2 found the techniques equivalent, and 1 favored chin-point guidance; no studies evaluated graphic (gothic-arch) or physiologic (swallowing, tongue retrusion) methods, and none included edentulous patients.
 
-체계적 문헌고찰(6편, 모두 저질·완전치열·비TMD 대상)로 중심위(CR) 획득 술식을 같은 방법(method) 내에서 비교 — 포함된 6편 모두 유도법(guided)의 양손조작(bimanual) 대 턱끝유도(chin-point guidance)만 비교했고, 3편은 양손조작이, 2편은 동등, 1편은 턱끝유도가 과두위치 재현성이 더 높다고 보고 → 양손조작법이 더 권장됨.
+Bimanual manipulation is the more recommended guided technique for CR condylar reproducibility in dentate patients; the absence of evidence on graphic/physiologic methods and on edentulous patients represents a major evidence gap for complete-denture prosthodontics.
+
+## 세줄요약
+
+체계적 문헌고찰(PROSPERO CRD42018097285; 6편, 전편 Jadad 저질): 완전치열·비TMD 환자에서 중심위(Centric Relation, CR) 기록 술식을 **같은 방법(method) 내에서** 비교 — 포함된 6편 모두 유도법(guided)의 양손조작(Bimanual Manipulation) vs 턱끝유도(Chin-point Guidance)만 비교.
+
+6편 중 3편은 양손조작이, 2편은 동등, 1편은 턱끝유도가 과두위치 재현성에서 우수; 도식법(Gothic-arch) 및 생리적 방법(연하·혀 후방운동)을 비교한 연구 없으며, 무치악 환자 대상 연구도 전무.
+
+양손조작법이 완전치열에서 유도법 내 CR 재현성의 더 권장되는 술식; 도식법·생리적 방법 및 무치악 환자에 대한 근거 부재는 총의치 보철의 중요한 근거 공백.
 
 ## 1. Document Information
 

@@ -13,13 +13,21 @@ source_collection: external
 
 기존 single-visit vs multiple-visit 근거([[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]], [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]])가 "유의한 결과 차이 없음"이라는 SR/MA 결론을 제시했는데, 이 2026 RCT는 단근치·근단치주염 한정으로 PAI 기반 방사선학적 치유를 직접 비교해 그 결론을 1차 임상 데이터로 재확인(reinforce)한다.
 
-## One-line Summary
+## Three-line Summary
 
-Single-blind RCT (n=30, single-rooted teeth with primary apical periodontitis): single-visit vs multiple-visit RCT showed no significant difference in PAI-based radiographic periapical healing at 6/12 months (93.3% vs 86.7% success at 12 mo, P>0.05).
+Prospective single-blind RCT (n=30, 1:1 randomization; single-rooted teeth with primary apical periodontitis, PAI 3–5; standardized chemo-mechanical preparation; Ca(OH)₂ inter-appointment medicament in multi-visit group) comparing single-visit vs multiple-visit root canal treatment using PAI-based radiographic periapical healing at 6 and 12 months.
 
-## 한줄요약
+No statistically significant difference at either time point: mean PAI at 12 months was 1.8 (single-visit) vs 1.9 (multiple-visit), p=0.71; success rate (PAI ≤2 at 12 months) was 93.3% vs 86.7%, p=0.6.
 
-단일맹검 RCT (n=30, 1차성 근단치주염 단근치): 단일내원 vs 다회내원 근관치료가 PAI 기반 방사선학적 치근단 치유에서 6/12개월 모두 유의차 없음 (12개월 성공률 93.3% vs 86.7%, P>0.05) — 회내 횟수가 장기 예후를 좌우하지 않음을 시사.
+The study reinforces SR/MA conclusions that inter-appointment calcium hydroxide dressing provides no measurable radiographic healing benefit; however, n=30 is underpowered for equivalence/non-inferiority claims and follow-up is limited to 12 months in single-rooted teeth only.
+
+## 세줄요약
+
+전향적 단일맹검 RCT (n=30, 1:1 무작위 배정; 1차성 근단치주염 단근치, PAI 3–5; 표준화된 화학기계적 성형; 다회 내원군 수산화칼슘 내 투약) — 단일·다회 내원 근관치료의 PAI 기반 방사선학적 치근단 치유 비교(6·12개월).
+
+양 시점 모두 유의차 없음: 12개월 PAI 1.8(단일) vs 1.9(다회), p=0.71; 성공률(PAI ≤2 at 12 mo) 93.3% vs 86.7%, p=0.6.
+
+수산화칼슘 내 투약이 방사선학적 치유에 측정 가능한 이점 없음을 1차 데이터로 재확인 — 단, n=30으로 동등성/비열등성 주장에는 검정력 부족, 단근치·12개월 추적으로 일반화 제한.
 
 ## 1. Document Information
 

@@ -16,13 +16,23 @@ text_filename: ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-s
 
 `clear-aligner` sweep efficacy 축에서 **anterior-tooth movement type별 분해 근거**. umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 가 narrative로 주장하는 "CA는 rotation·torque control에서 FA보다 열등" 결론을 movement type별 study-tally로 직접 substantiate (torque better with FA in 1 study; vertical movement inconsistent). paywall이라 abstract-only.
 
-## One-line Summary
+## Three-line Summary
 
-Qualitative SR (GRADE, no meta) of 12 studies (2 low-RoB RCTs, 10 moderate-RoB non-RCTs) on anterior tooth movement in adults: vertical movement (extrusion/intrusion) inconsistent between CA and FA, while FAs appear superior for rotation and torque control; limited evidence from few studies.
 
-## 한줄요약
+Qualitative SR (GRADE, no meta) of 12 studies (2 low-RoB RCTs, 10 moderate-RoB non-RCTs) on anterior tooth movement in adults: vertical movement (extrusion/intrusion) inconsistent between CA and FA, while FAs appear superior for rotation and torque control;
 
-성인 전치부 이동 SR 12편(저RoB RCT 2 + 중등도RoB 비RCT 10, GRADE·메타분석 없음): 수직이동(정출/압하)은 CA·FA 간 비일관, 회전·토크 조절은 FA 우위로 보임. 소수 연구 기반 제한적 근거.
+limited evidence from few studies.
+
+(incomplete)
+
+## 세줄요약
+
+
+성인 전치부 이동 SR 12편(저RoB RCT 2 + 중등도RoB 비RCT 10, GRADE·메타분석 없음): 수직이동(정출/압하)은 CA·FA 간 비일관, 회전·토크 조절은 FA 우위로 보임.
+
+소수 연구 기반 제한적 근거.
+
+(incomplete)
 
 ## 1. Document Information
 

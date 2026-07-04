@@ -32,13 +32,21 @@ source: synthesis
 > - **감별 원칙**: 유령상은 "반대측+상방+흐림+확대", 실상은 정위치·선명. 광학 artifact는 **masking test**(법랑질 변연 가림 → 투과상 소실 시 마하밴드)·회전(cone cut은 재촬영). 최종 확진은 **임상검사·필요시 CBCT**로 보완 — 방사선은 임상을 보조하되 대체하지 않는다.
 > - **행동 지침**: (1) 촬영 전 금속·보호대 제거·정확한 자세, (2) PSP 취급·즉시 스캔·스캐너 유지보수, (3) 판독 시 artifact를 먼저 배제한 뒤 병변 진단, (4) 소아·상악 대구치 근심면은 TSR/마하밴드 의심을 기본값으로.
 
-## One-line Summary
+## Three-line Summary
 
-A cross-paper synthesis organizing dental radiographic artifacts into four mechanistic classes — geometry/positioning, ghost/double images, receptor/scanning, and disease-mimicking optical effects — spanning panoramic and intraoral (periapical/bitewing) imaging: the first three degrade or repeat the image (a dose/quality problem), while the fourth causes false-positive diagnoses (an overtreatment problem); it consolidates prevalence figures (77.2% of panoramics carry ≥1 positioning error; PA images = 80.8% of intraoral artifact retakes; ~26% TSR and ~13% optical false-positives), the physics of ghost images and the focal trough, and the clinical rules for telling an artifact from true pathology.
+Synthesis of 8 papers organizing dental radiographic artifacts into 4 mechanistic classes: (1) geometry/positioning — only 32.8% of 2,629 panoramics are error-free; 77.2% carry ≥1 error; ~15% are diagnostically unacceptable, above the ≤10% benchmark (Lingam 2023); cone cut is the most frequent intraoral PSP operator error (39.5% of operator errors, Elkhateeb 2022); (2) ghost/double images — contralateral, superior, magnified, blurred projections from radiopaque objects between the X-ray source and rotation center; real, ghost, and pseudo-ghost images can coexist on one film (Kim 2024); pediatric-skewed prevalence (~2.2% of panoramic errors, P=0.001 in 5–12 year olds, Lingam 2023).
 
-## 한줄요약
+(3) Receptor/scanning artifacts — 7.1% of 50,000 PSP intraoral images required retake due to artifacts; 80.8% of artifact retakes were periapical (PA); technique errors 70.4% (cone cut 39.5%), plate errors (bite marks 40.3%), and scanning errors (delayed scanning 39.9%) are the main categories (Elkhateeb 2022); PSP has more bending/scratching/scanning artifacts than film (Farman 2010); (4) optical/interpretive artifacts — Mach band, cervical burnout, and triangular-shaped radiolucency (TSR) mimic caries; ~26% of maxillary molar non-carious approximal surfaces show TSR and ~13% are optical false-positives (Dioguardi 2025 SR+MA); primary teeth show TSR in ~51% vs ~27% in permanent — pediatric bitewing is highest false-positive risk.
 
-치과 방사선 artifact를 4가지 기전(기하/자세·유령상·수용체/스캐닝·해석적 광학)으로 분류해 파노라마와 구내(치근단/bitewing) 영상을 아우르는 종합 페이지: 앞 세 계열은 영상을 망가뜨리거나 재촬영을 부르는 **화질·피폭** 문제, 넷째는 없는 병을 만드는 **과진단** 문제다. 유병률(파노라마 오류 77.2%, 구내 artifact 재촬영의 80.8%가 PA, 상악 대구치 TSR ~26%·위양성 ~13%), 유령상·초점골의 물리, 그리고 artifact와 진짜 병변을 가르는 임상 감별 원칙을 정리한다.
+Clinical bottom line: classes 1–3 demand retake (dose problem); class 4 demands clinical correlation (overtreatment problem); differentiation rules — ghost images are contralateral + superior + magnified + blurred; optical TSR/Mach band disappears when enamel margin is masked; final diagnosis requires clinical examination and CBCT when pathology remains uncertain.
+
+## 세줄요약
+
+8편 종합: 치과 방사선 artifact를 4계열로 분류 — (1) 기하/자세: 파노라마 2,629장 중 오류 없음 32.8%뿐, 77.2%에서 오류 ≥1개, ~15%가 진단 불가(Lingam 2023); 구내 PSP 술자오류 1위는 cone cut(39.5%, Elkhateeb 2022); (2) 유령상: 방사선원과 회전중심 사이 불투과체가 반대측·상방·확대·흐릿하게 투영; 실상·유령상·유사유령상 공존 가능(Kim 2024); 소아(5~12세) 집중(Lingam 2023).
+
+(3) 수용체/스캐닝: PSP 5만 장 중 7.1%가 재촬영 필요, 그중 80.8%가 PA; 술자오류 70.4%·판 오류(교흔 40.3%)·스캐닝 오류(지연 39.9%)(Elkhateeb 2022); PSP는 필름보다 굽힘·스캐닝 artifact 많음(Farman 2010); (4) 해석적 광학: 마하밴드·치경부소각·삼각형투과상(TSR)이 우식 위조; 상악 대구치 비우식 TSR ~26%·위양성 ~13%(Dioguardi 2025 SR+MA); 유치 TSR ~51% vs 영구치 ~27%.
+
+임상 결론: 계열 1~3 → 재촬영(피폭 문제); 계열 4 → 임상 교차확인(과진단 문제); 감별: 유령상=반대측·상방·확대·흐림; 광학 TSR/마하밴드는 법랑질 변연 차단 시 소실; 병변 불확실 시 임상검사 + 필요 시 CBCT.
 
 ## Why This Overview
 

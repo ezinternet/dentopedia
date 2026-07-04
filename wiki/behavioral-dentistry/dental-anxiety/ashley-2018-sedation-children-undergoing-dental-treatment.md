@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (2nd update; 50 RCTs, 3704 children ≤16y): moderate-certainty evidence that oral midazolam 0.25–1 mg/kg improves cooperative behaviour vs placebo (SMD 1.96, 95% CI 1.59–2.33; 6 studies, 202 participants, I²=90%); the other 33 sedatives are too sparse/heterogeneous to pool, and 81% of trials are at high risk of bias.
+Cochrane SR+MA (2nd update, search to February 2018; 50 RCTs, 3,704 children ≤16 y, 34 different sedative agents) evaluating conscious sedation for behaviour management in paediatric dental treatment; 81% of trials were at high risk of bias and extreme heterogeneity limited meta-analysis to one comparison.
 
-## 한줄요약
+Oral midazolam 0.25–1 mg/kg showed moderate-certainty evidence of improved cooperative behaviour versus placebo (SMD 1.96, 95% CI 1.59–2.33; 6 studies, 202 participants, I²=90%); no reliable conclusions could be drawn for any of the other 33 sedative agents or for secondary outcomes due to inconsistent reporting.
 
-코크란 체계적 문헌고찰·메타분석(2차 업데이트, RCT 50편·만 16세 이하 소아 3704명): 경구 미다졸람(oral Midazolam) 0.25–1 mg/kg가 위약 대비 협조적 행동을 개선한다는 중등도 확실성 근거(SMD 1.96, 95% CI 1.59–2.33; 6편·202명, I²=90%). 나머지 33종 진정제는 근거가 너무 적고 이질적이라 통합 불가, 시험의 81%가 높은 비뚤림 위험.
+Oral midazolam is the only conscious-sedation agent with poolable, moderate-certainty efficacy evidence in paediatric dentistry; future trials should use it or inhaled nitrous oxide as the active comparator, and standardize outcomes and reporting to enable synthesis.
+
+## 세줄요약
+
+코크란 SR+MA 2차 업데이트(검색 2018년 2월; RCT 50편·소아 3,704명·진정제 34종) — 소아 치과 행동관리를 위한 의식하 진정 효과 평가; 81%가 높은 비뚤림 위험, 이질성으로 메타분석은 1개 비교에만 가능.
+
+경구 미다졸람 0.25–1 mg/kg가 위약 대비 협조 행동 개선에서 중등도 확실성 근거(SMD 1.96, 95% CI 1.59–2.33; 6편·202명, I²=90%); 나머지 33종 진정제와 모든 이차 결과는 보고 불일치로 결론 불가.
+
+소아 치과에서 의식하 진정 효과가 통합 가능한 중등도 근거를 가진 유일한 약제는 경구 미다졸람; 향후 연구는 경구 미다졸람 또는 아산화질소를 대조군으로 하고 표준화된 결과 측정이 필요.
 
 ## Summary
 

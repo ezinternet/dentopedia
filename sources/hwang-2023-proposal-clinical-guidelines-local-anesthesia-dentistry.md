@@ -13,7 +13,7 @@ source_collection: external
 
 [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]]와 동일 JKDA 호(61권 4호)의 짝 논문. 치과 진료에서 가장 빈번한 술기인 국소마취에 대한 한국 표준 임상진료지침이 부재한 상황을 지적하고, 가이드라인 제정 필요성을 제안. 본 wiki의 약물·통증 관리 카테고리에 한국 임상 현장의 표준화 공백을 표시하는 reference.
 
-## One-line Summary
+## Three-line Summary
 
 치과 국소마취는 치의학 교육 기본 + 임상 최빈 술기지만 한국 임상진료지침은 미정립 상태. 가이드라인 제정의 필요성과 검토 사항을 정리한 제안서.
 

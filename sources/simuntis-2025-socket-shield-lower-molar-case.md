@@ -14,7 +14,7 @@ source_collection: external
 
 SST literature는 대부분 **anterior maxilla (esthetic zone)** 중심 — 본 case report는 **lower molar site**에 SST proof of principle 적용한 드문 datapoint. SST 적응증 확장의 한 축. [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] esthetic zone NMA와 대비, 후방 적응증 anchor 제공.
 
-## One-line Summary
+## Three-line Summary
 Case report (Vilnius Univ + Lithuanian Univ of Health Sciences, Dent J 2025): 하악 대구치 부위 SST proof of principle — esthetic zone 중심 SST 적응증을 후방 대구치로 확장하는 임상 시도.
 
 ## 1. Document Information

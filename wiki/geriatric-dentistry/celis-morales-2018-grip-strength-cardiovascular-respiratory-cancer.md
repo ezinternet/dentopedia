@@ -18,13 +18,21 @@ relations:
     target: li-2024-prevalence-oral-frailty-older-adults
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (n=502,293 UK Biobank, mean 7.1 years) found each 5 kg lower grip strength independently raised all-cause mortality hazard by 16–20%, cardiovascular mortality by 19–24%, respiratory mortality by 24–31%, and cancer mortality by 10–17%, with grip strength addition improving cardiovascular risk score discrimination (ΔC=0.012).
+Prospective cohort (UK Biobank; n=502,293, aged 40–69, mean follow-up 7.1 years; 13,322 deaths) examining grip strength (악력, GS) as a predictor of mortality across cardiovascular, respiratory, and cancer outcomes; landmark analysis excluded reverse causality.
 
-## 한줄요약
+Per 5 kg lower grip strength, fully adjusted hazard ratios were: all-cause mortality HR 1.16–1.20, cardiovascular mortality HR 1.19–1.24, respiratory mortality HR 1.24–1.31, cancer mortality HR 1.10–1.17; adding grip strength to an office-based risk score raised the C-index by ΔC=0.012–0.013.
 
-UK 바이오뱅크 502,293명 전향적 코호트(7.1년): 악력 (Grip Strength, GS) 5 kg 감소당 전사망 위험비 (Hazard Ratio, HR) 1.16–1.20, 심혈관 1.19–1.24, 호흡기 1.24–1.31, 암 1.10–1.17로 독립적으로 증가하며 사무실기반 심혈관 위험점수의 C-index를 0.012 향상시킴.
+Grip strength is a stronger mortality predictor than systolic blood pressure; muscle weakness thresholds (≤26 kg men; ≤16 kg women) confer clinically meaningful elevated risk; grip strength measured at a dental visit may serve as a low-cost physical frailty screening signal.
+
+## 세줄요약
+
+전향적 코호트(UK Biobank; n=502,293, 40–69세, 평균 7.1년 추적; 사망 13,322명) — 악력(Grip Strength, GS)을 심혈관·호흡기·암에 의한 사망 예측인자로 조사; 역인과성 배제를 위한 landmark 분석 적용.
+
+악력 5 kg 감소당 완전 보정 위험비(Hazard Ratio, HR): 전사망 1.16–1.20, 심혈관 사망 1.19–1.24, 호흡기 사망 1.24–1.31, 암 사망 1.10–1.17; 악력을 사무실 기반 위험점수에 추가 시 C-index ΔC=0.012–0.013 향상.
+
+악력이 수축기혈압보다 강한 사망 예측인자; 약력 부족 기준치(남성 ≤26 kg·여성 ≤16 kg)에서 임상적으로 의미 있는 위험 증가; 치과 내원 시 악력 측정이 저비용 신체노쇠(Physical Frailty) 스크리닝 신호로 활용 가능.
 
 ## Summary
 

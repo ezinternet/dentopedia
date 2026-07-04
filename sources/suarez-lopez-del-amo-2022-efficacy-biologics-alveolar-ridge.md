@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]]가 ARP 중재 전반의 효과를 평가했다면, 본 AAP Best Evidence Consensus (Suárez-López del Amo & Monje 2022)는 그 범위를 biologics(ABP·EMD·rhPDGF-BB·rhBMP-2)와 ARR·ARA·MSFA까지 확장해 "생물학적 제제가 표준 프로토콜을 능가하는가"라는 별도 질문에 답한다 — anchor의 ARP 효과 평가를 biologics 차원으로 확장.
 
-## One-line Summary
+## Three-line Summary
+
 
 AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD, rhPDGF-BB, rhBMP-2) generally do not yield superior clinical/radiographic ARP/ARR/ARA/MSFA outcomes versus controls, but improve histomorphometric bone formation and wound healing.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 39편 RCT의 AAP Best Evidence Consensus SR(이질성으로 정량분석 불가)로, biologics(ABP·EMD·rhPDGF-BB·rhBMP-2)는 ARP/ARR/ARA/상악동거상 임상·방사선 결과에서 대조군 대비 우월하지 않았으나, 골조직형태계측상 신생골 형성과 창상치유는 개선했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

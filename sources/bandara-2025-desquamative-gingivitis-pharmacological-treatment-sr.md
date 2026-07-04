@@ -17,13 +17,21 @@ text_filename: bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr
 
 Desquamative gingivitis (DG) is the gingival manifestation of mucocutaneous diseases — oral lichen planus (OLP), mucous membrane pemphigoid (MMP), and pemphigus vulgaris (PV) — which together account for 88–98% of DG cases. This SR (15 studies, MMAT mean 5.57) establishes the pharmacological treatment evidence base — first-line agents, dosing regimens, adverse-event profiles — complementing the wiki's existing mucocutaneous-disease pages. It extends [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] (PV/MMP SR) by providing the DG-specific treatment lens, and reinforces [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] (OLP corticosteroid Cochrane review) by independently confirming clobetasol and tacrolimus as the dominant agents across the entire DG spectrum regardless of underlying diagnosis.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 15 studies (2 RCTs, 5 NRCTs, 8 observational; MMAT mean 5.57) on pharmacological management of desquamative gingivitis: clobetasol propionate 0.05% (used in 53.3% of studies) and tacrolimus 0.1% are established first-line agents producing significant pain and lesion-severity reduction; topical routes carry mild/transient AEs; systemic agents carry greater risk (candidiasis, haemolysis, anaemia, alopecia); PRP and propolis/nano-vitamin gels are emerging adjuncts; QoL formally assessed in only 1 study (OHIP-14).
+Systematic review (PRISMA; PROSPERO-registered; 15 studies: 2 RCTs, 5 NRCTs, 8 observational; 624 records screened; MMAT mean 5.57; January 1990–December 2023) of pharmacological management of desquamative gingivitis (DG) across OLP, MMP, and pemphigus vulgaris presentations.
 
-## 한줄요약
+Clobetasol propionate 0.05% (53.3% of studies) and tacrolimus 0.1% (26.7%) are established dual first-line agents producing significant pain and lesion-severity reduction; topical routes carry mild/transient AEs (candidiasis, burning), while systemic agents carry greater risk (haemolysis, anaemia, alopecia); PRP and propolis/nano-vitamin gels are emerging adjuncts; QoL formally assessed in only 1 study (OHIP-14).
 
-탈락성 치은염 (Desquamative Gingivitis, DG)의 약물치료에 관한 15개 연구(RCT 2건 포함) 체계적 문헌고찰: 클로베타솔 0.05%(53.3%의 연구에 사용)와 타크로리무스 0.1%가 1차 치료제로 유효하며 통증·병변 중증도의 유의한 감소를 보임; 국소도포는 경미·일시적 부작용, 전신투여는 칸디다증·용혈·빈혈 등 더 높은 위험; PRP 및 프로폴리스/나노비타민 젤은 보조치료로 유망; 삶의 질은 1개 연구에서만 OHIP-14로 정식 평가됨.
+Meta-analysis was not feasible due to high heterogeneity; QoL is critically under-measured (13/15 studies lack validated instruments); larger standardized RCTs with mandatory DIF diagnosis, validated QoL tools, and ≥12-month follow-up are urgently needed.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA; PROSPERO 등록; 15편: RCT 2·NRCT 5·관찰 8; 검색기록 624건; MMAT 평균 5.57; 1990–2023년) — OLP·MMP·천포창에 걸친 탈락성 치은염(DG) 약물치료.
+
+클로베타솔 0.05%(53.3%)·타크로리무스 0.1%(26.7%)가 확립된 양대 1차 치료제로 통증·병변 중증도 유의 감소; 국소제: 경미·일시적 부작용(칸디다증·작열감); 전신제: 용혈·빈혈·탈모 등 더 높은 위험; PRP·프로폴리스/나노비타민 젤은 유망 보조치료; 삶의 질은 15편 중 1편만 OHIP-14로 정식 평가.
+
+높은 이질성으로 메타분석 불가; QoL 측정 심각히 부족(13/15편 미검증 도구); DIF 진단 의무화·검증 QoL 도구·≥12개월 추적을 포함한 대규모 표준화 RCT 시급.
 
 ## 1. Document Information
 

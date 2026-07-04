@@ -10,8 +10,21 @@ pdf_filename: arghami-2021-immediate-early-loading-hydroxyapatite-coated.pdf
 source_collection: external
 ---
 
-## One-line Summary
-전향적 RCT 7년 (n=50, 42명): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음; 두 프로토콜 동등.
+## Three-line Summary
+
+7-year prospective RCT (50 implants, 42 patients; Zimmer Tapered Screw-Vent, hydrothermal plasma-sprayed HA-coated) comparing immediate loading (Group A) vs early loading at 3 weeks (Group B) for single-tooth replacements at a university postgraduate clinic.
+
+Cumulative 7-year survival: 98.0% (Group A 100%, Group B 95.5%); one implant failed at 3 weeks; no significant difference in marginal bone level between 2-year and 7-year follow-up, and no between-group differences in location, bone type, or length.
+
+Both immediate and early (3-week) loading protocols are clinically equivalent for HA-coated implants over 7 years; this rare long-term dataset supports the durability of partial HA-coated surfaces.
+
+## 세줄요약
+
+전향적 RCT 7년(임플란트 50개, 환자 42명; Zimmer Tapered Screw-Vent HA 코팅) — 단일치 치환에서 즉시부하(A군) vs 조기부하 3주(B군) 비교.
+
+7년 생존율 98.0%(A 100%, B 95.5%); 3주 시 1개 실패; 2년↔7년 MBL 유의차 없음; 군 간 위치·골 유형·길이 차이 없음.
+
+HA 코팅 임플란트에서 즉시·조기(3주) 부하 7년 결과 동등 — HA 코팅 장기 안정성을 뒷받침하는 드문 7년 데이터.
 
 ## 1. Document Information
 - **Title**: Immediate and early loading of hydrothermally treated, hydroxyapatite-coated dental implants: a 7-year prospective randomized clinical study

@@ -22,13 +22,21 @@ relations:
     target: yassir-2022-cat-vs-fat-overview-systematic-reviews
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 9 studies (1 RCT + 8 NRSI, n=465): clear aligner mandibular advancement (CAMA) achieves skeletal effects comparable to Twin Block and Herbst (SNA/SNB/ANB, vertical all NS); CAMA gives marginally greater overjet reduction (MD -0.46 mm, clinically minimal) and significantly less lower-incisor proclination (IMPA MD -0.90°, P=0.0002); certainty low (mostly retrospective).
+PROSPERO-registered SR+MA (PRISMA 2020, 1589 records → 9 studies, 1 RCT + 8 NRSI, n=465 growing skeletal Class II patients) comparing clear aligner mandibular advancement (CAMA) against traditional functional appliances (Twin Block, Herbst, Vanbeek Activator).
 
-## 한줄요약
+CAMA produced no statistically significant difference from Twin Block or Herbst on any sagittal skeletal parameter (SNA/SNB/ANB/Wits all NS) or vertical dimensions; versus untreated controls CAMA produced genuine skeletal change (SNB +1.00°, ANB −1.55°); CAMA achieved marginally greater overjet reduction (MD −0.46 mm, clinically minimal) and significantly less lower-incisor proclination than Twin Block (IMPA MD −0.90°, P=0.0002).
 
-9편(RCT 1 + NRSI 8, n=465) SR+MA: 투명교정 하악전방유도(CAMA)의 골격효과는 트윈블록·Herbst와 동등(SNA/SNB/ANB·수직 모두 NS). overjet 감소는 CAMA가 약간 우위(MD -0.46 mm, 임상적으로 미미), 하악전치 순측경사는 CAMA가 유의하게 적음(IMPA MD -0.90°, P=0.0002). 근거수준 낮음(대부분 후향).
+CAMA is a viable functional-appliance alternative for growing Class II patients — equivalent skeletal correction with better lower-incisor torque control — but certainty is low (only 1 RCT, 5/8 NRSI high risk of bias), so decisions should remain cautious until larger RCTs confirm.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (PRISMA 2020, 1589건 → 9편, RCT 1 + NRSI 8, n=465 성장기 골격성 Class II): 투명교정 하악전방유도(CAMA)와 트윈블록·Herbst·Vanbeek Activator 비교.
+
+CAMA는 트윈블록·Herbst 대비 모든 시상 골격 지표(SNA/SNB/ANB/Wits) 및 수직 지표에서 유의차 없음(NS); 미처치 대조군 대비 실제 골격 변화 확인(SNB +1.00°, ANB −1.55°); 트윈블록 대비 overjet 감소 약간 우위(MD −0.46 mm, 임상적으로 미미)·하악전치 순측경사 유의하게 적음(IMPA MD −0.90°, P=0.0002).
+
+성장기 Class II 환자에서 CAMA는 동등 골격교정 + 더 좋은 하악전치 torque 조절로 기능성장치 대안 가능하나, 근거수준 낮음(RCT 1편, NRSI 5/8편 높은 비뚤림 위험) — 대규모 RCT로 확증 전까지 신중.
 
 ## Summary
 

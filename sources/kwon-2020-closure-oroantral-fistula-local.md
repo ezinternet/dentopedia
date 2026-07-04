@@ -13,13 +13,23 @@ source_collection: external
 
 OMS 클러스터 내 구강상악동루 (Oroantral Fistula, OAF) 외과적 폐쇄 술식 지식 공백을 채우기 위해 수집. 기존 [[wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] 및 [[wiki/oral-medicine/kim-2019-definition-management-odontogenic-maxillary]]는 OMS 진단·치료 개요를 다루지만, 실제 OAF 폐쇄 플랩 선택 알고리즘과 각 술식의 적응증·장단점을 상세히 제공하지 않는다. 본 리뷰는 협측 전진 피판 (Buccal Advancement Flap), 협측 지방 패드 (Buccal Fat Pad, BFP), 구개 회전 피판 (Palatal Rotational Flap) 세 가지 주요 국소 피판 술식을 비교해 임상 의사결정 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of local flap techniques for oroantral fistula (OAF) closure — buccal advancement flap, buccal fat pad, and palatal rotational flap — with a size-based decision algorithm and illustrative case series from a Korean oral and maxillofacial surgery department.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구강상악동루 (Oroantral Fistula, OAF) 폐쇄를 위한 협측 전진 피판, 협측 지방 패드, 구개 회전 피판 세 가지 국소 피판 술식의 적응증·장단점과 크기 기반 치료 알고리즘을 정리한 서술적 문헌고찰.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

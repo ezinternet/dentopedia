@@ -17,13 +17,21 @@ text_filename: buzatu-2024-vitamin-d-osseointegration-human-studies-sr.txt
 
 Human-only systematic review that complements the more animal-heavy / umbrella-level vitamin D literature already in the wiki: it quantifies *human* implant-loss rates stratified by vitamin D status (3.9–11.4%, peaking at 11.1% in severe deficiency), which is exactly the patient-facing number missing from broader syntheses. Reinforces the deficiency-as-risk-factor signal in [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]], refines the inconclusive-causality verdict of [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] with study-level human numbers, and anchors to [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] because the single largest study here (Mangano) found smoking + periodontal disease compounded vitamin D deficiency into a ~4× early-loss risk.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA) of 7 human studies (2008–2021; 1462 participants, 4450 implants); implant-loss rate 3.9–11.4% (avg 8.37%), highest (11.1%) in severe vitamin D deficiency compounded by smoking/periodontitis — but overall no significant association between vitamin D level and osseointegration; advocates pre-surgical vitamin D screening.
+Systematic review (PRISMA; 7 human studies; 2008–2021; 1462 participants, 4450 implants; Nutrients 2024) examining the impact of vitamin D on dental implant osseointegration — the first human-only SR in this area.
 
-## 한줄요약
+Implant-loss rate ranged 3.9–11.4% (average 8.37%); the highest rate (11.1%) occurred in severe vitamin D deficiency compounded by smoking and periodontal disease (Mangano); despite this deficiency signal, the formal conclusion was no significant association between vitamin D level and osseointegration, reflecting the predominantly low-quality observational evidence pool.
 
-사람 대상 7편(2008–2021; 참가자 1462명·임플란트 4450개)을 묶은 PRISMA 체계적 고찰. 임플란트 소실률(implant loss rate)은 3.9–11.4%(평균 8.37%)로, 중증 비타민 D 결핍 + 흡연·치주염이 겹친 군에서 최고 11.1%. 다만 비타민 D 수치와 골유착(osseointegration) 사이에 유의한 연관성은 없었고, 술전 비타민 D 선별검사를 권고.
+Pre-surgical vitamin D screening is recommended; prospective intervention trials with uniform methodology are needed, as only one high-quality RCT (Kwiatek) was identified, showing significantly higher bone density after 12 weeks of supplementation.
+
+## 세줄요약
+
+골유착(osseointegration)에 대한 비타민 D의 영향을 평가한 사람 대상 전용 PRISMA 체계적 고찰(7편; 2008–2021; 참가자 1462명·임플란트 4450개; Nutrients 2024).
+
+임플란트 소실률 3.9–11.4%(평균 8.37%); 중증 비타민 D 결핍 + 흡연·치주염 동반 시 최고 11.1%(Mangano); 이 결핍 신호에도 불구하고 비타민 D 수치와 골유착 간 유의한 연관성은 없음 — 대부분 저질의 관찰 연구 풀을 반영.
+
+술전 비타민 D 선별검사 권고; 확인된 고질 RCT는 단 1편(Kwiatek — 12주 보충 후 골밀도 유의 증가)으로, 표준화된 방법론의 전향적 중재 연구가 필요.
 
 ## 1. Document Information
 

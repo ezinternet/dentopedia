@@ -17,13 +17,23 @@ text_filename: li-2026-white-mta-regenerative-apexification-immature.txt
 
 사용자가 요청한 PMC 전문 논문으로, 미성숙 영구치의 개방 근단공(open apex) 관리에서 White MTA의 역할을 정량화한 SR+MA다. 기존 [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]]가 REP/apexification 전반의 성공률을 다뤘다면, 본 논문(Li 2026)은 WMTA를 관교(coronal barrier)로 특정해 방사선학적 성공(pooled 0.99)과 PC-vs-BC scaffold 비교, WMTA 대 대체 bioceramic 간 변색 위험(58.33% vs 7.69%, P=.01)까지 별도로 분리해 정량화한 점에서 기존 지식을 세분화·보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review and meta-analysis (PROSPERO CRD420261337704) of 15 studies (4 RCTs, 2 cohorts, 9 case reports/series) on White MTA (WMTA) and alternative bioceramics in regenerative endodontic procedures (REP) and apexification for immature permanent teeth, finding pooled radiographic success of 0.99 (95% CI 0.96-1.00, very low certainty), a non-significant trend favouring platelet concentrates (PC) over blood clot (BC) scaffolds (OR 3.56, 95% CI 0.87-14.52), and significantly higher tooth discolouration with WMTA versus alternative bioceramics (58.33% vs 7.69%, P=.01).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 미성숙 영구치의 재생근관치료(REP)·apexification에서 White MTA(WMTA) 및 대체 bioceramic을 다룬 15개 연구(RCT 4, 코호트 2, 증례 9) 체계적 고찰·메타분석으로, 방사선학적 성공률 pooled 0.99(95% CI 0.96-1.00, 근거수준 매우낮음), PC가 BC보다 근단 성숙을 다소 우세하게 하는 경향(OR 3.56, 유의하지 않음), WMTA가 대체 bioceramic 대비 변색 위험이 유의하게 높음(58.33% vs 7.69%, P=.01)을 보고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ text_filename: song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct.txt
 tags: [bioceramic-sealer, calcium-silicate, single-cone, obturation-technique, ah-plus]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (80 enrolled, 71 analyzed teeth, 4 sealer arms n=20: AH Plus, ADseal, CeraSeal, EndoSeal TCS) found no significant difference between calcium-silicate-based and epoxy-resin-based sealers in voids, sealer extrusion, or 3-month postoperative pain — filling-quality variation tracked product properties, not sealer class.
+Pilot single-center RCT (80 enrolled, 71 analyzed; 4 sealer arms each n=20: AH Plus, ADseal [epoxy-resin]; CeraSeal, EndoSeal TCS [calcium-silicate]; asymptomatic irreversible pulpitis or pulp necrosis ± chronic apical periodontitis; 3-month follow-up) comparing sealer-based single-cone obturation on radiographic voids, extrusion, and postoperative pain.
 
-## 한줄요약
+No statistically significant differences were found between calcium-silicate-based and epoxy-resin-based sealers for any primary or secondary endpoint (voids, extrusion, VAS pain, percussion/palpation, periapical radiolucency regression; all p>0.05); filling-quality variation tracked individual product properties and canal anatomy rather than sealer class.
 
-RCT(등록 80개, 분석 71개 치아, 4개 실러군 각 n=20: AH Plus·ADseal·CeraSeal·EndoSeal TCS): 칼슘실리케이트 실러와 에폭시레진 실러 사이에 기포·실러 압출·3개월 술후통증의 유의한 차이가 없었고, 충전 품질 차이는 실러 종류가 아니라 제품 특성에 따랐다.
+This pilot RCT establishes clinical equivalence of CeraSeal vs AH Plus at 3 months; the authors flag concern about long-term hydraulic resorption of calcium-silicate sealers and call for larger, longer studies.
+
+## 세줄요약
+
+단일 기관 파일럿 RCT(등록 80개, 분석 71개 치아; 4개 실러군 각 n=20: AH Plus·ADseal[에폭시레진], CeraSeal·EndoSeal TCS[칼슘실리케이트]; 3개월 추적)로 단일콘 실러 기반 충전의 기포·압출·술후통증을 비교했다.
+
+모든 평가 항목(기포·압출·VAS 통증·타진/촉진·치근단 방사선 소실 회복)에서 칼슘실리케이트와 에폭시레진 실러 간 통계적 유의차가 없었고(전부 p>0.05), 충전 품질 차이는 제품 특성·근관 해부학적 요인에 기인했다.
+
+이 파일럿 RCT는 3개월 시점에서 CeraSeal과 AH Plus의 임상적 동등성을 확립하며, 저자들은 칼슘실리케이트 실러의 장기 수압 흡수 가능성을 지적하며 대규모·장기 연구를 촉구했다.
 
 ## Summary
 

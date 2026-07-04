@@ -9,7 +9,7 @@ pdf_filename: kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT(n=40, 36개월): 지르코니아 vs FRC 캔틸레버 IR-FDP — 생존율 97.5%·성공률 96.6%; 두 재료 간 유의차 없음; 최소침습 후방부 결손 해결책으로 모두 유효
 
 ## 1. Document Information

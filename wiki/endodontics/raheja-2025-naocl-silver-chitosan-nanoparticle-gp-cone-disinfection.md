@@ -16,13 +16,21 @@ text_filename: raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfecti
 tags: [gutta-percha, disinfection, sodium-hypochlorite, silver-nanoparticles, chitosan-nanoparticles, atomic-force-microscopy]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study (335 F1 ProTaper GP cones; *B. subtilis* + *C. albicans*): 2.62% and 5.25% NaOCl eliminated both organisms within 1 min with minimal AFM surface change, while 250 µg/mL AgNPs and 625 µg/mL ChNPs needed 5 min against *B. subtilis*; all agents caused progressive time-dependent surface damage — supporting the standard 1-min NaOCl chairside protocol.
+In-vitro study (335 F1 ProTaper GP cones; 270 for antimicrobial arm, 65 for AFM; organisms: B. subtilis MTCC 441 and C. albicans MTCC 227) comparing 5.25%/2.62% NaOCl, AgNPs (250 µg/mL), and ChNPs (625 µg/mL) on disinfection efficacy and GP-cone surface topography by tapping-mode AFM.
 
-## 한줄요약
+Both NaOCl concentrations eliminated both organisms in 1 min (0 CFU) with minimal AFM surface change (RMS 103–108 vs control 124.6); AgNPs and ChNPs cleared C. albicans in 1 min but required 5 min for B. subtilis; all agents produced progressively worse surface damage with extended immersion (RMS ~40–44 at 5 min).
 
-In vitro 연구 (F1 ProTaper GP cone 335개, *B. subtilis*·*C. albicans*): 2.62%·5.25% NaOCl은 두 균 모두 1분 내 제거하고 AFM 표면변화가 최소였으나, AgNP(250 µg/mL)·ChNP(625 µg/mL)는 *B. subtilis*에 5분이 필요했다(*C. albicans*는 1분에 제거). 침적시간이 길수록 표면손상이 커져, 기존 1분 NaOCl 진료실 프로토콜을 뒷받침한다.
+NaOCl (either concentration) is the superior chairside GP-cone disinfectant for speed and surface safety; nanoparticle agents confer no efficacy advantage and impose comparable surface damage, supporting the established 1-minute NaOCl protocol.
+
+## 세줄요약
+
+F1 ProTaper GP cone 335개(항균 270개, AFM 65개)에서 NaOCl(5.25%·2.62%)·AgNP(250 µg/mL)·ChNP(625 µg/mL)를 *B. subtilis*·*C. albicans*에 대한 소독 효능과 AFM(태핑 모드) 표면 형태로 비교한 in-vitro 연구다.
+
+NaOCl 양 농도는 두 균 모두 1분 내 제거(0 CFU)하고 AFM 표면 변화가 최소였으나(RMS 103–108 vs 대조군 124.6), AgNP·ChNP는 *C. albicans*는 1분에 제거했으나 *B. subtilis*는 5분이 필요했으며 모든 약제는 침지 시간 증가에 따라 표면 손상이 누적됐다.
+
+속도·표면 안전성 모두에서 NaOCl이 우월하며, 나노입자는 효능 우위 없이 유사한 손상을 초래해 기존 1분 NaOCl 진료실 프로토콜을 뒷받침한다.
 
 ## Summary
 

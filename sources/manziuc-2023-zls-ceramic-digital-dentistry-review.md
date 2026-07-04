@@ -9,7 +9,7 @@ pdf_filename: manziuc-2023-zls-ceramic-digital-dentistry-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Literature review on Zirconia-Reinforced Lithium Silicate (ZLS) ceramics (Vita Suprinity, Celtra Duo/Press) — higher fracture toughness than lithium disilicate but lower than zirconia; bonding requires acid etching, sandblasting, or laser etching.
 
 ## 1. Document Information

@@ -13,13 +13,23 @@ source_collection: external
 
 Adds a pathophysiology-plus-treatment-ladder reference for aphthous ulcers, complementing [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] and [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of oral aphthosis covering pathophysiology, three morphological types (minor/major/herpetiform), differential diagnosis (idiopathic vs systemic), and a treatment ladder with topical corticosteroids as first line.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 구강 아프타의 병태생리, 세 형태(소·대·포진형), 감별진단(특발성 vs 전신질환 연관), 국소 코르티코스테로이드를 1차로 하는 치료 단계를 다룬 내러티브 리뷰.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

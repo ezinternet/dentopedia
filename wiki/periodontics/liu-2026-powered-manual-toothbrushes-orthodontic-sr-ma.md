@@ -20,13 +20,21 @@ relations:
     target: jo-2008-management-of-dental-biofilm-through
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (23 papers / 39 comparisons, fixed-appliance orthodontic patients): powered toothbrushes (PTBs) beat manual (MTBs) on plaque (SMD -0.77), gingivitis (SMD -0.82), and bleeding (SMD -0.51) by incremental-difference meta-analysis, but the evidence is GRADE-LOW (I2 80–93%, possible publication bias, TSA inconclusive); descriptively most comparisons showed no difference, and the PS/GS advantage disappeared when restricted to low-risk or non-industry studies. Only counter-rotational PTBs beat MTBs on plaque by action mode (very low quality); ORP/OR/sonic did not.
+SR+MA (23 papers / 39 comparisons, fixed-appliance orthodontic patients, GRADE): powered toothbrushes (PTBs) beat manual (MTBs) on plaque (SMD −0.77), gingivitis (SMD −0.82), and bleeding (SMD −0.51) by incremental-difference meta-analysis; descriptively, most comparisons showed no difference, and PS/GS advantages disappeared in low-RoB or non-industry sensitivity analyses.
 
-## 한줄요약
+Evidence quality is GRADE-LOW throughout (I² 80–93%, possible publication bias, trial sequential analysis inconclusive); only counter-rotational PTBs beat MTBs on plaque by action-mode subgroup (very low quality), while oscillating-rotating, oscillating-rotating-pulsating, and sonic modes did not.
 
-SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 수동칫솔(MTB)보다 치면세균막(SMD -0.77)·치은염(SMD -0.82)·치은출혈(SMD -0.51)에서 우세하지만 근거 수준은 낮음(GRADE LOW; I2 80–93%, 출판편향 배제 불가, TSA 미결). 서술적 분석에서는 대부분 비교에서 차이가 없었고, 저편향·비산업지원 연구로 한정하면 PS·GS 우위가 사라짐. 작용방식별로는 역회전(CR) PTB만 치면세균막에서 우세(very low quality)했고 ORP/OR/sonic은 차이 없음.
+No clinical recommendation was issued; for fixed-appliance patients, brushing technique quality matters more than device type, and bleeding-score benefit was the most robust finding across all sensitivity restrictions.
+
+## 세줄요약
+
+SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 수동칫솔(MTB)보다 치면세균막(SMD −0.77)·치은염(SMD −0.82)·출혈(SMD −0.51)에서 통계적으로 우세하나, 서술적 분석에서는 대부분 차이 없었고 저편향·비산업지원 연구로 한정하면 치면세균막·치은염 우위가 사라짐.
+
+근거 수준은 GRADE LOW (I² 80–93%, 출판편향 배제 불가, TSA 미결); 작용방식별로는 역회전(CR)형만 치면세균막에서 유의하게 우세(very low quality)했고 ORP·OR·sonic은 유의하지 않음.
+
+임상 권고는 발표되지 않았고, 기기 종류보다 칫솔질 기법의 질이 중요하며 출혈 감소 효과가 가장 일관된 결과임.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Controlled prospective non-randomized trial (n=30; 14 maxilla / 16 mandible) of computer-guided immediate molar implants: both arches reached primary ISQ >73; mandible trended higher throughout and was significantly higher at 24 weeks (81.47 vs 78.23, P=0.018), with a 2–4-week stability dip seen only in the maxilla.
+Controlled prospective non-randomized trial (n=30; 14 maxilla / 16 mandible) of computer-guided, tooth-supported immediate molar implants placed into the inter-radicular septum (SuperLine II, Dentium) with alloplastic graft and RFA-ISQ tracked to 24 weeks.
 
-## 한줄요약
+Both arches achieved primary ISQ >73 (P=0.864, NS); the mandible was higher at all timepoints and significantly higher at 24 weeks (81.47 vs 78.23, P=0.018); a stability dip (GEE b=−2.607, P=0.009 at 2 wk) occurred only in the maxilla, never in the mandible.
 
-대조 전향 비무작위 임상시험(n=30; 상악 14 / 하악 16): 컴퓨터 가이드(computer-guided) 즉시 대구치 임플란트에서 상·하악 모두 초기 임플란트 안정성 지수(Implant Stability Quotient, ISQ) >73, 하악이 전 기간 더 높고 24주에서 유의하게 높음(81.47 vs 78.23, P=0.018); 안정성 딥(stability dip)은 상악 2–4주에만 관찰되고 하악에는 없음.
+Computer-guided septal-bone engagement achieves adequate primary stability (>70 ISQ) in both arches, but clinicians should anticipate a maxillary-specific 2–4-week dip absent in the mandible; arch differences are confounded by implant length and bone density.
+
+## 세줄요약
+
+대조 전향 비무작위 임상시험 (n=30; 상악 14, 하악 16): 3Shape+CBCT 가이드로 격막골(inter-radicular septum) 즉시 대구치 임플란트(SuperLine II, Dentium), Osteon III 이식, 24주 ISQ 추적.
+
+상·하악 모두 초기 임플란트 안정성 지수(Implant Stability Quotient, ISQ) >73 (P=0.864, NS); 하악은 전 기간 높고 24주에서 유의하게 우월(81.47 vs 78.23, P=0.018); 안정성 딥(stability dip)은 상악 2주(GEE b=−2.607, P=0.009)·4주에만 관찰, 하악은 단조 증가.
+
+컴퓨터 가이드 격막골 식립은 두 악궁에서 충분한 초기안정성(>70)을 확보하지만, 상악에만 발생하는 2–4주 딥을 예상해야 하며 임플란트 길이·골밀도 차이로 인한 교란 가능성에 유의.
 
 ## Summary
 

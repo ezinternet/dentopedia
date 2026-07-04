@@ -13,11 +13,21 @@ source_collection: external
 tags: [piezo-surgery, rotary-drill, initial-osteotomy, heat-generation, irrigation-temperature, in-vitro]
 ---
 
-## One-line Summary
-In vitro study (315 osteotomies, IR thermal camera + SEM): piezo-surgical inserts generated drastically higher heat during initial osteotomy than rotary drills (ΔT 53–65°C vs <2°C, p<0.001), exceeding the 47°C necrosis threshold; lower saline temperature reduced peak heat while increased irrigation volume did not — though a constant 9.8 N overload may have biased piezo results upward.
+## Three-line Summary
 
-## 한줄요약
-인비트로(J Maxillofac Oral Surg 2023, 315 prep, IR 카메라): 초기 osteotomy에서 piezo insert가 회전 drill 대비 압도적으로 높은 발열(ΔT 53–65°C vs <2°C, p<0.001) — 단, 9.8 N 과부하 적용이 piezo 결과 왜곡 가능; 차가운 saline은 효과적, irrigation volume 증가는 무효.
+In vitro study (315 osteotomies, 9 groups; IR thermal camera + SEM) comparing piezo-surgical inserts vs rotary drills for initial implant osteotomy under varying irrigation volumes and temperatures in artificial bone blocks.
+
+Piezo-surgical inserts generated drastically higher peak temperatures (ΔT 53–65°C; peak 75–88°C) vs rotary drills (<2°C; p<0.001), far exceeding the 47°C/1 min necrosis threshold; lower saline temperature (10°C) significantly reduced heat (p<0.001) while irrigation volume increase had no significant effect.
+
+The 9.8 N constant load exceeded manufacturer-recommended piezo pressure (100–400 g), likely biasing piezo temperatures upward — clinical significance is that correct piezo technique (light pressure + quarter-turn rotation) is critical, not a contraindication to piezo use.
+
+## 세줄요약
+
+인비트로 연구 (315 osteotomy, 9그룹; IR 열화상카메라 + SEM) — 인공 골블록에서 초기 임플란트 osteotomy 시 piezo insert vs 회전 드릴 발열 비교(관개 부피·온도 조합).
+
+Piezo insert는 회전 드릴 대비 압도적 발열(ΔT 53–65°C; 최고 75–88°C; p<0.001) — 47°C/1분 괴사 임계치 초과; 차가운 식염수(10°C)는 유의하게 발열 감소(p<0.001), 관개 부피 증가는 무효.
+
+9.8 N 고정 하중은 piezo 권장(100–400 g) 초과 — piezo 결과 과대평가 가능; 임상적 시사점은 경압력+quarter-turn 회전 등 제조사 권장 술식 준수가 발열 방지의 핵심.
 
 ## Summary
 A 315-osteotomy in vitro experiment compared rotary drills and piezo-surgical inserts for initial implant site preparation under nine combinations of cooling volume and temperature. Piezo-insert groups generated drastically higher temperatures (ΔT 53–65°C; peak 75–88°C in some groups), far exceeding the 47°C/1 min necrosis threshold. Rotary drill groups stayed below 22°C max throughout. Lower saline temperature significantly reduced peak temperatures; increased cooling volume did not. SEM analysis after 35 uses showed essentially no wear on rotary drills but progressive smear-layer accumulation on piezo inserts. The authors caveat that the constant 9.8 N (1 kgf) load exceeded the manufacturer-recommended 100–400 g for piezo, and that the sliding arm could not perform the quarter-turn rotation recommended for piezo handling — both likely biased the piezo results upward.

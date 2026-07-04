@@ -13,13 +13,23 @@ source_collection: external
 
 Peri-implantitis 비수술/유지 단계의 핵심은 임플란트 표면 생물막 제거인데, [[overviews/peri-implantitis-management-overview]]의 표면 decontamination 분기에서 air-polishing powder 선택(어떤 powder가 가장 효율적이고 표면 손상이 적은가)에 대한 직접 비교 근거를 보강하기 위해 인제스트. 본 in-vitro RCT-design 비교는 SB(40 µm) vs ERY(14 µm) 두 파우더의 생물막 제거 효율을 직접 대조해, 큰 입자가 더 잘 제거할 것이라는 통념을 반박하고 작은 입자(ERY) 쪽이 표면 손상이 적어 임상적으로 선호된다는 결론을 제공한다. 또한 [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]]의 surface decontamination 프로토콜 논의와 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (33 Dentium SuperLine II implants, 3 groups of n=11) showing both sodium bicarbonate (40 µm) and erythritol (14 µm) air-abrasion powders removed biofilm far better than untreated control (mean OD 0.130 and 0.129 vs 0.728; p<0.05) with no significant difference between the two powders (p>0.05) — supporting smaller-particle erythritol as the preferred choice for lower surface damage.
 
-## 한줄요약
+In-vitro study (33 Dentium SuperLine II implants, 3 groups of n=11) showing both sodium bicarbonate (40 µm) and erythritol (14 µm) air-abrasion powders removed biofilm far better than untreated control (mean OD 0.130 and 0.129 vs 0.728;
 
-체외(in-vitro) 연구(임플란트 33개, 3군 각 n=11): 탄산수소나트륨(Sodium Bicarbonate, SB, 40 µm)과 에리스리톨(Erythritol, ERY, 14 µm) 두 air-abrasion 파우더 모두 무처치 대조군 대비 생물막을 훨씬 잘 제거(평균 광학밀도 OD 0.130·0.129 vs 0.728; p<0.05)했고, 두 파우더 간 차이는 유의하지 않았다(p>0.05) — 입자가 작아 표면 손상이 적은 에리스리톨이 임상적으로 선호된다는 근거.
+p<0.05) with no significant difference between the two powders (p>0.05) — supporting smaller-particle erythritol as the preferred choice for lower surface damage.
+
+(incomplete)
+
+## 세줄요약
+
+
+체외(in-vitro) 연구(임플란트 33개, 3군 각 n=11): 탄산수소나트륨(Sodium Bicarbonate, SB, 40 µm)과 에리스리톨(Erythritol, ERY, 14 µm) 두 air-abrasion 파우더 모두 무처치 대조군 대비 생물막을 훨씬 잘 제거(평균 광학밀도 OD 0.130·0.129 vs 0.728;
+
+p<0.05)했고, 두 파우더 간 차이는 유의하지 않았다(p>0.05) — 입자가 작아 표면 손상이 적은 에리스리톨이 임상적으로 선호된다는 근거.
+
+(incomplete)
 
 ## 1. Document Information
 

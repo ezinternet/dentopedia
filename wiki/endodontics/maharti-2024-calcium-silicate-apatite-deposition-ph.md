@@ -16,13 +16,21 @@ text_filename: maharti-2024-calcium-silicate-apatite-deposition-ph.txt
 tags: [bioceramic-sealer, calcium-silicate, apatite, bioactivity, ph]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro SEM/EDX + pH study (15 premolars, 14-day PBS immersion) showing premixed Ceraseal deposits more interfacial apatite (23.65 vs 18.49 µm) and reaches higher pH (11.48 vs 9.19 at day 14) than AH Plus Bioceramic, indicating superior biomineralization.
+In-vitro SEM/EDX and pH study (15 human premolars, 3 groups; 14-day PBS immersion) directly comparing the biomineralization potential of premixed Ceraseal versus AH Plus Bioceramic by measuring interfacial apatite thickness and medium pH at days 0, 7, and 14.
 
-## 한줄요약
+Ceraseal deposited significantly more interfacial apatite (median 23.65 µm vs 18.49 µm; p<0.05) and maintained higher alkalinity through day 14 (pH 11.48 vs 9.19), attributed to Ceraseal's higher calcium silicate proportion yielding more silanol nucleation sites and greater Ca²⁺/OH⁻ release.
 
-전치아 15개·14일 PBS 침지 in-vitro SEM/EDX·pH 연구 — 프리믹스 Ceraseal이 AH Plus Bioceramic보다 계면 아파타이트 침착(23.65 vs 18.49 µm)·pH(14일 11.48 vs 9.19)가 더 높아 생광화(biomineralization) 잠재력이 우수함.
+AH Plus Bioceramic's reformulation (reduced calcium silicate, added ZrO₂) explains its lower biomineralization output; Ceraseal's continuous pH rise versus AH Plus Bioceramic's peak-and-decline trajectory suggests more sustained bioactivity.
+
+## 세줄요약
+
+사람 소구치 15개(3군)의 14일 PBS 침지 in-vitro SEM/EDX·pH 연구로, 프리믹스 Ceraseal과 AH Plus Bioceramic의 계면 아파타이트 두께와 pH를 0·7·14일 시점에 비교했다.
+
+Ceraseal이 AH Plus Bioceramic보다 계면 아파타이트를 더 많이 침착시키고(23.65 vs 18.49 µm, p<0.05), 14일까지 더 높은 알칼리도를 유지했다(pH 11.48 vs 9.19); 칼슘실리케이트 비율이 높아 실라놀 핵생성 부위가 더 많고 Ca²⁺/OH⁻ 방출이 크기 때문이다.
+
+AH Plus Bioceramic의 ZrO₂ 치환과 칼슘실리케이트 감소가 생광화 저하를 설명하며, Ceraseal의 지속 상승 pH 곡선은 더 지속적인 생체 활성을 시사한다.
 
 ## Summary
 

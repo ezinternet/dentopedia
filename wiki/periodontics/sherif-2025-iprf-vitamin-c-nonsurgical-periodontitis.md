@@ -22,13 +22,21 @@ relations:
 tags: [iprf, vitamin-c, nspt, pmpr, stage-ii-periodontitis, platelet-concentrate, rct]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3-arm double-blind RCT (n=45, stage-II grade A periodontitis) showing that injectable platelet-rich fibrin (I-PRF) with or without vitamin C added NO clinical benefit (BOP/PD/CAL/PI/bone) over professional mechanical plaque removal (PMPR) alone at 6 months; the only adjunct advantage was lower post-operative pain.
+3-arm double-blind RCT (n=45, 15/arm; stage-II grade A periodontitis) comparing PMPR alone vs PMPR + I-PRF vs PMPR + I-PRF/vitamin C, with 6-month follow-up and zero dropouts.
 
-## 한줄요약
+All three groups improved significantly over time (PD reduction, CAL gain, BOP decline), but no significant intergroup difference in BOP (primary), PD, CAL, PI, or radiographic bone at 6 months; the sole durable adjunct benefit was lower post-operative pain in I-PRF arms on days 2–3.
 
-3군 이중맹검 RCT (n=45, 2기 grade A 치주염): 비타민C 함유 주사형 혈소판농축피브린(I-PRF)이든 일반 I-PRF든 기계적 치석제거(PMPR) 단독 대비 6개월 시점 BOP·PD·CAL·PI·골 변화에 추가 임상이득이 없었고, 차이는 술후 통증이 더 낮았던 것뿐이다.
+I-PRF ± vitamin C does not add clinical benefit over PMPR alone in stage-II periodontitis; the floor effect of PMPR in moderate disease leaves little headroom for biologic adjuncts, though post-operative pain reduction is a real patient-centered benefit.
+
+## 세줄요약
+
+3군 이중맹검 RCT (n=45, 각 15명; 2기 grade A 치주염): PMPR 단독 vs PMPR+I-PRF vs PMPR+I-PRF/비타민C, 탈락 없이 6개월 추적.
+
+세 군 모두 시간 경과에 따라 유의하게 호전되었으나 BOP(1차 결과)·PD·CAL·PI·방사선학적 골 변화에서 군간 유의차 없음; 유일한 지속적 보조 효과는 I-PRF군에서의 술후 2–3일 통증 감소(p=0.001).
+
+중등도(2기) 치주염에서 PMPR 단독의 floor effect로 생물학적 보조제 추가 효과가 없으며, 임상지표 개선이 아닌 술후 통증 감소만이 실질적인 I-PRF의 환자중심 이점이다.
 
 ## Summary
 

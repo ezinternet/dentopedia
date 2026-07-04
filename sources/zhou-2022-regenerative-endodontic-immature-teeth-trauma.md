@@ -9,7 +9,7 @@ pdf_filename: zhou-2022-regenerative-endodontic-immature-teeth-trauma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 외상 미성숙 영구치 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 외상 후 치수괴사 IPT에서 MTA 직접치수복조·치수절단술·혈관재생·apexogenesis 등 술식별 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표의 차이 정리.
 
 ## 1. Document Information

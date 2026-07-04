@@ -22,13 +22,21 @@ relations:
 
 > [!note] DOI not indexed in PubMed; cite PMID 38661760. J Health Care Poor Underserved 2023;34(4):1353–1365.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey (N=91 rural Latina/o/x adults, southwest Virginia) found 57% had no interest in teledentistry even if available; only higher household income (>$24k) and lacking dental insurance were significantly associated with acceptability — availability alone will not close access gaps without explicit health-equity integration.
+Cross-sectional REDCap survey (N=91 self-identified Latina/o/x adults, 14 rural southwest Virginia ZIP codes, May 2020–Feb 2021) assessing teledentistry acceptability in a fast-growing, oral-health-underserved population during the COVID-19 pandemic using chi-squared bivariate analysis.
 
-## 한줄요약
+Contrary to prior positive-attitude literature, 57.1% of participants reported no interest in teledentistry even if available; only household income >$24,000 (p=.04) and lacking dental insurance (p=.01) were significantly associated with acceptability; non-receptive respondents were disproportionately Spanish-speaking (61.5%) and foreign-born (63.5%).
 
-농촌 라티노 성인 91명 대상 단면조사 — 57%가 원격치의학(Teledentistry)에 무관심, 가구소득 >$24k와 치과보험 미보유만 수용성과 유의 연관; 단순 가용성만으로는 접근격차가 해소되지 않으며 보건형평성(health equity)의 명시적 통합이 필요.
+Teledentistry availability alone will not close dental-access gaps in rural Latino populations — health equity must be explicitly designed in (bilingual/bicultural workforce, community partnerships), as acculturation and language barriers leave the most underserved subgroup behind.
+
+## 세줄요약
+
+단면 REDCap 설문 (N=91명; 버지니아 남서부 농촌 14개 ZIP코드의 라티노 성인, 2020년 5월~2021년 2월; COVID-19 팬데믹 중): 구강건강 취약 집단에서 원격치의학(teledentistry) 수용성을 카이제곱 이변량 분석으로 평가.
+
+선행 연구의 긍정적 태도 결과와 달리 57.1%가 원격치의학에 관심 없다고 응답; 가구소득 >$24,000(p=.04)과 치과보험 미보유(p=.01)만 수용성과 유의 연관; 비수용자는 스페인어 사용(61.5%)·외국 태생(63.5%) 비율 높음.
+
+단순 원격치의학 가용성 확대만으로는 농촌 라티노의 접근 격차를 해소할 수 없음 — 이중언어·다문화 인력, 지역사회 파트너십 등 보건형평성(health equity)의 명시적 통합이 필수.
 
 ## Summary
 

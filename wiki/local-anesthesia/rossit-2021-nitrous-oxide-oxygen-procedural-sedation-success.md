@@ -16,11 +16,21 @@ relations:
     target: drug-anesthesia-sedation-korean-guidelines-overview
 ---
 
-## One-line Summary
-SR+MA (19 RCTs, 1293 patients) - nitrous oxide-oxygen inhalation sedation has a pooled success rate of 94.9%; significantly higher in adults (99.9%) than children (91.9%, p=0.002).
+## Three-line Summary
 
-## 한줄요약
-SR+MA(19 RCT, 1293명) - 아산화질소-산소 흡입진정 성공률 94.9%; 성인(99.9%)이 소아(91.9%)보다 유의하게 높음(p=0.002).
+SR+MA of 19 RCTs (1,293 dental patients, 1988–2019) quantifying the success rate of nitrous oxide-oxygen (N2O-O2) inhalation sedation.
+
+Pooled success rate was 94.9% (95% CI 88.8–98.9%); adults achieved 99.9% vs children 91.9%, a statistically significant difference (p=0.002).
+
+N2O-O2 sedation is highly effective overall, but lower pediatric success rates and heterogeneous success-rate definitions across studies should temper expectations in children.
+
+## 세줄요약
+
+19편 무작위대조시험(1,293명, 1988–2019년) 체계적 문헌고찰+메타분석으로 아산화질소-산소 흡입진정의 성공률을 정량화.
+
+통합 성공률 94.9%(95% CI 88.8–98.9%); 성인 99.9% vs 소아 91.9%로 유의한 차이(p=0.002).
+
+전반적으로 효과적이나 소아에서는 성공률이 낮고 연구 간 성공 기준 표준화가 필요하다는 한계가 있어 소아 적용 시 기대치를 조정해야 한다.
 
 ## Summary
 치과 N2O-O2 흡입진정의 성공률을 정량화한 SR+MA. 전반 94.9%, 성인>소아. 진정 적응증·기대치 설정의 기초 수치.

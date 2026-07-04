@@ -13,8 +13,21 @@ source_collection: external
 
 Methodological foundation for interpreting the ISQ outcomes that dominate the osseodensification literature — an in vitro head-to-head of Osstell (RFA/ISQ) vs Periotest, establishing ISQ reliability, the ~55 failure-risk threshold, and that RFA tracks interface stiffening over time. Underpins how stability is measured throughout [[overviews/implants-isq-stability-ladder]].
 
-## One-line Summary
-In vitro acrylic-cube model comparing Osstell (RFA/ISQ) and Periotest (PTV) for sensitivity and reliability across simulated hard/soft interfaces, horizontal bone-loss levels, and a hardening interface; Osstell was more reliable overall and the only system that tracked interface stiffening over time.
+## Three-line Summary
+
+In vitro study (49 implants, acrylic-cube model) comparing Osstell (RFA/ISQ) vs Periotest (PTV) across simulated hard/soft interfaces, progressive horizontal bone loss (0/2/4/6 mm), and a progressively stiffening resin interface.
+
+Soft interface dropped ISQ to 53.95 (below the 55 failure-risk threshold); ISQ declined linearly with bone exposure (r=−0.946, from 70.43 to 52.14 over 0–6 mm); Osstell uniquely tracked progressive interface stiffening (r=0.986) while Periotest was less sensitive to this change.
+
+Osstell ISQ is more reliable than Periotest PTV for both interface characterization and longitudinal monitoring of osseointegration maturation; ISQ <55 signals elevated failure risk.
+
+## 세줄요약
+
+체외실험 (임플란트 49개, 아크릴 큐브 모델) — Osstell (공명주파수분석/임플란트 안정성 지수, ISQ) vs Periotest (PTV) 비교; 경/연 계면·수평 골노출 수준·경화 계면 3가지 조건 평가.
+
+연 계면에서 ISQ 53.95(실패 위험 임계값 55 미만); 골노출 0→6 mm 시 ISQ 70.43→52.14 선형 감소(r=−0.946); Osstell만이 계면 경화의 시간 경과 추적 가능(r=0.986), Periotest는 이에 덜 민감.
+
+Osstell ISQ는 Periotest PTV보다 계면 특성화 및 골유착 성숙도 종단 모니터링에 더 신뢰할 수 있으며, ISQ <55는 임플란트 실패 위험 상승 신호임.
 
 ## 1. Document Information
 - **Type**: In vitro experimental study

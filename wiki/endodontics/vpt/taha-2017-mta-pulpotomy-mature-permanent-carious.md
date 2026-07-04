@@ -13,11 +13,19 @@ source_collection: external
 tags: [MTA, pulpotomy, permanent-teeth, carious-exposure, adult]
 ---
 
-## One-line Summary
-Prospective study (52 mature permanent molars, 43 patients aged 11–51) of full pulpotomy with Mineral Trioxide Aggregate (MTA) for carious pulp exposures with reversible pulpitis: short-term success ~80%, supporting the feasibility of vital pulp therapy (VPT) in mature adult teeth when indication selection is accurate.
+## Three-line Summary
+Prospective clinical study (IEJ 2017, 52 mature permanent molars, 43 patients aged 11–51) evaluating full pulpotomy with MTA for carious pulp exposures confirmed as reversible pulpitis, with 5% NaOCl irrigation and vitality/radiographic follow-up.
 
-## 한줄요약
-성인(11–51세) 영구 구치 우식 노출 MTA full pulpotomy(52개): 단기 성공률 ~80%, 성숙치에서 VPT 가능성 제시.
+Short-term success rate was approximately 80%, demonstrating that vital pulp therapy (VPT) is clinically feasible in mature adult permanent teeth, not just immature/pediatric cases.
+
+Accurate preoperative diagnosis of reversible pulpitis was identified as the critical determinant of success, underscoring that case selection quality outweighs technique.
+
+## 세줄요약
+전향적 임상 연구(IEJ 2017, 성숙 영구 구치 52개, 43명, 11–51세): 가역성 치수염으로 확인된 우식 치수 노출에 5% NaOCl 세정 후 MTA full pulpotomy 시행, 생활력 검사 및 방사선 추적 평가.
+
+단기 성공률 약 80%로, 성숙 영구치(성인 포함)에서도 바이탈 치수 요법(Vital Pulp Therapy, VPT)이 임상적으로 실현 가능함을 시사.
+
+술전 가역성 치수염의 정확한 진단이 성공의 핵심 결정인자로, 술식보다 증례 선택의 정확성이 예후를 좌우한다.
 
 ## Summary
 IEJ 2017 전향적 연구. 52개 영구 구치(43명, 11–51세); 완전 치근 형성; 가역성 치수염; 5% NaOCl 소독 후 full pulpotomy + MTA; 임상·방사선 추적.

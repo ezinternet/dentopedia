@@ -14,11 +14,21 @@ source_collection: external
 tags: [smoking, implant-failure, dose-response, SR-MA, JCP, cigarettes-per-day, risk-factor]
 ---
 
-## One-line Summary
-SR+MA (Naseri, J Clin Periodontol 2020; 23 studies) of smoking dose and implant failure: implant failure risk (RR) rises dose-dependently with cigarettes/day, with heavy smokers at significantly higher risk than non-smokers — smoking amount itself is a risk modifier.
+## Three-line Summary
 
-## 한줄요약
-JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
+SR+MA (J Clin Periodontol 2020, 23 studies with quantitative smoking data) specifically examining whether the amount of smoking — cigarettes per day — modulates dental implant failure risk.
+
+Implant failure risk rose dose-dependently with cigarettes/day; heavy smokers had significantly higher failure risk than non-smokers; studies without quantitative smoking data were excluded, making this methodologically stricter than binary smoker/non-smoker reviews.
+
+Smoking amount is an independent dose-response risk modifier for implant failure — even partial smoking reduction may meaningfully lower risk, informing targeted cessation counseling.
+
+## 세줄요약
+
+SR+MA (J Clin Periodontol 2020, 흡연량 정량 데이터 보유 23편) — 흡연량(cigarettes/day)이 임플란트 실패 위험에 미치는 용량-반응 (Dose-Response) 관계 특이적 분석.
+
+하루 흡연량 증가 → 임플란트 실패 위험 용량 의존적 증가; 다량 흡연자가 비흡연자 대비 유의하게 높은 위험; 흡연량 미보고 연구 제외 — 기존 이분법적 흡연/비흡연 비교보다 방법론적으로 엄격.
+
+흡연량 자체가 임플란트 실패의 독립적 용량-반응 위험 조절인자 — 부분적 금연도 실패 위험을 의미 있게 낮출 수 있어 단계적 금연 상담의 근거 제공.
 
 ## Summary
 Systematic review and meta-analysis specifically addressing whether the *amount* of smoking (cigarettes per day) affects implant failure risk. Studies that did not report smoking quantity were excluded, leaving 23 articles for analysis. Pooled RR shows a dose-dependent relationship — more cigarettes per day = higher implant failure risk.

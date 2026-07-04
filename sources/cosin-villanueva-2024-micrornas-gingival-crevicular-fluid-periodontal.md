@@ -17,13 +17,21 @@ text_filename: cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodo
 
 GCF는 이미 periodontal biomarker matrix로 위키에 있으나([[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]]는 GBT 후 단백질/사이토카인 GCF biomarker를 다룸), 그 GCF 안의 epigenetic 층(miRNA)을 진단 biomarker로 정리한 페이지가 없었다. 이 PRISMA SR은 GCF miRNA 16편을 종합해 어떤 miRNA가 진단적으로 쓸 만한지(miR-146a/200b/223/23a acceptable, miR-203 not)를 명시해 GCF biomarker 근거를 분자 층위로 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review of 16 case-control studies (no meta-analysis, high heterogeneity) on GCF miRNAs as periodontal diagnostic biomarkers: the most-studied miR-146a, miR-200b (esp. miR-200b-3p), miR-223, and miR-23a show acceptable diagnostic plausibility (AUC > 0.8) for periodontitis, whereas miR-203 does not.
+PRISMA systematic review (Int J Mol Sci 2024; 16 case-control studies, 3222 records screened) evaluating gingival crevicular fluid (GCF) miRNAs as diagnostic biomarkers for periodontal diseases; meta-analysis was not feasible due to high methodological heterogeneity.
 
-## 한줄요약
+miR-146a, miR-200b (especially miR-200b-3p), miR-223, and miR-23a demonstrated acceptable diagnostic plausibility (AUC > 0.8) for periodontitis; miR-203 did not meet this threshold and may serve as a protective therapeutic target rather than a diagnostic marker.
 
-치은열구액(GCF) miRNA를 치주질환 진단 biomarker로 다룬 16편 환자대조군 연구의 PRISMA 체계적 고찰(이질성 커 메타분석 불가): 가장 많이 연구된 miR-146a·miR-200b(특히 miR-200b-3p)·miR-223·miR-23a는 치주염 진단 타당성(AUC > 0.8)이 있으나 miR-203은 없다.
+GCF miRNA biomarkers show molecular-layer diagnostic promise but lack standardized protocols; no single miRNA is ready for standalone clinical screening, and only 4 of 16 studies validated findings in an independent cohort.
+
+## 세줄요약
+
+PRISMA 체계적 고찰(Int J Mol Sci 2024; 16편 환자대조군, 3222건 스크리닝): 치은열구액(GCF) miRNA를 치주질환 진단 바이오마커로 평가; 방법론 이질성으로 메타분석 불가.
+
+miR-146a·miR-200b(특히 miR-200b-3p)·miR-223·miR-23a는 치주염 진단 타당성(AUC > 0.8) 충족; miR-203은 해당 기준 미달 — 보호·치료 표적 역할 시사.
+
+GCF miRNA는 분자 층위 진단 잠재력 있으나 표준 프로토콜 부재; 단독 임상 스크리닝 수준엔 미달, 16편 중 4편만 독립 코호트 검증 수행.
 
 ## 1. Document Information
 

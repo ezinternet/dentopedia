@@ -17,13 +17,21 @@ text_filename: altuhafy-2026-tenoxicam-postoperative-dental-pain-sr.txt
 
 기존 분석소염제 페이지가 ibuprofen·diclofenac·etoricoxib·rofecoxib 등 흔한 NSAID에 집중되어 있고 oxicam 계열(tenoxicam) 치과 술후통 근거가 비어 있었다. 본 SR(Altuhafy 2026, 9 RCT)은 tenoxicam이 다른 NSAID와 동등하거나 우월하며 1일 1회 투여·GI 내약성 이점을 제시해, [[drug/analgesics/moore-2015-otc-oral-analgesics-cochrane-overview]]의 단일용량 NSAID 순위와 [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]]의 치과 NSAID 개관에 oxicam 선택지를 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 9 RCTs, n=35-100/study; no meta-analysis due to I²=62-89% heterogeneity): tenoxicam 20 mg (oral, once-daily) for postoperative dental pain was superior to placebo and comparable-to-superior versus ibuprofen, diclofenac, flurbiprofen, meloxicam, and methylprednisolone, but inferior to rofecoxib (which had more GI adverse events); GRADE moderate at 1-24 h, low at 48-72 h.
+Systematic review (PRISMA, 9 RCTs, n=35–100/study; I²=62–89% precluded meta-analysis) of tenoxicam 20 mg oral (once-daily oxicam-class NSAID) for postoperative dental pain across third molar, orthodontic, endodontic, and implant procedures.
 
-## 한줄요약
+Tenoxicam was superior to placebo, comparable-to-superior versus ibuprofen, diclofenac, flurbiprofen, meloxicam, and methylprednisolone, but inferior to rofecoxib (which had more GI adverse events); GRADE certainty moderate at 1–24 h, low at 48–72 h.
 
-체계적 문헌고찰(PRISMA, RCT 9편, 연구당 35-100명; 이질성 I²=62-89%로 메타분석 불가): 치과 술후통에 tenoxicam 20 mg(경구 1일 1회)은 위약보다 우월하고 ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 위장관 부작용 더 많음); 1일 1회 투여·GI 내약성이 임상적 강점.
+Once-daily dosing and favorable GI tolerability support tenoxicam as a viable alternative NSAID for dental postoperative pain; larger standardized RCTs are needed before firm recommendations.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA, RCT 9편, 연구당 35–100명; I²=62–89%로 메타분석 불가) — 제3대구치 발거·교정·근관치료·임플란트 수술 후 통증에 tenoxicam 20 mg(경구 1일 1회) 효과.
+
+위약 대비 우월, ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 위장관 부작용 더 많음); GRADE 근거수준 1–24 h 중등도, 48–72 h 낮음.
+
+1일 1회 투여 편의성과 위장관 내약성이 임상 장점이나, 이질성이 높아 표준화된 대규모 RCT로 추가 검증 필요.
 
 ## 1. Document Information
 

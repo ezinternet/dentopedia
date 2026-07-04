@@ -13,11 +13,21 @@ source_collection: external
 
 우식 예방 1차술식(실란트 vs 불소바니시)의 상대적 효과를 직접 비교한 대규모 RCT. 기존 [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] 등 비복원 예방 근거를 1차 영구대구치 점열구 예방 맥락으로 확장하고, [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] NMA와 짝.
 
-## One-line Summary
-RCT (1016 children, 36 mo) — pit-and-fissure sealant vs fluoride varnish on first permanent molars: no significant difference in dentine caries (FS 19.6% vs FV 17.5%); FV applied in a community program may be more cost-effective.
+## Three-line Summary
 
-## 한줄요약
-RCT(아동 1016명·36개월): 1차 영구대구치에 점열구실란트 vs 불소바니시 — 상아질우식 발생에 유의차 없음(실란트 19.6% vs 바니시 17.5%); 지역사회 프로그램에선 바니시가 더 비용효과적일 수 있음.
+Pragmatic RCT (1016 children, FS n=514 vs FV n=501, high-deprivation Welsh community, 36-month follow-up with 6-monthly applications) comparing pit-and-fissure sealant against fluoride varnish for caries prevention on first permanent molars.
+
+At 36 months, dentine caries (D4–6MFT) on ≥1 first permanent molar was 19.6% (FS) vs 17.5% (FV) — no significant difference; sealant retention was 74.5% intact (maxillary) and 91.4% intact (mandibular) at 36 months.
+
+In a school-based community program, fluoride varnish (fewer visits, lower cost) is clinically equivalent to fissure sealant for caries prevention in high-deprivation populations, supporting FV as a competitive alternative where chair access is limited.
+
+## 세줄요약
+
+실용적 RCT(아동 1016명 — 실란트 514명 vs 바니시 501명, 고취약 웨일즈 지역사회, 36개월 추적, 6개월 간격 적용): 1차 영구대구치 점열구실란트(FS) vs 불소바니시(FV) 우식 예방 비교.
+
+36개월 후 ≥1개 제1영구대구치 상아질 우식(D4–6MFT) 발생률: FS 19.6% vs FV 17.5% — 유의차 없음; 실란트 유지율: 상악 74.5%·하악 91.4% 온전.
+
+학교 기반 지역사회 프로그램에서 FV(방문 횟수·비용 적음)는 FS와 임상적으로 동등해, 의자 접근이 제한된 고취약 집단에서 경쟁력 있는 대안으로 지지됨.
 
 ## 1. Document Information
 - Journal of Dental Research 2017;96(7):754–761. Cardiff University, "Designed to Smile" Welsh program. Targeted high-deprivation population.

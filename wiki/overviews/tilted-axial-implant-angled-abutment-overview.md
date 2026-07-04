@@ -24,13 +24,21 @@ tags: [implants, tilted-implant, angled-abutment, all-on-4, fea]
 > - **지대주 설계 원칙**: 모든 각도에서 멀티유닛(나사유지) 지대주가 시멘트유지보다 응력·피로 우세 (Erdogdu 2024). 단 프레임워크 응력은 시멘트유지가 나사유지보다 3.5배 낮아 retrievability ↔ 응력 trade-off 존재 (Bilgi-Ozyetim 2025).
 > - **임상 원칙(clinical rule)**: 치아가 기울었으면 임플란트는 **교합면에 수직(축방향)으로 식립**하고, 크라운 방향은 **최소 각도 지대주**로 교정하라 (Chi 2024, Erdogdu 2024).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 7 papers: intentionally tilted implants (e.g. All-on-4 distal tilt) are clinically equivalent to axial implants in survival and short-term marginal bone (Del Fabbro 2014; Lin 2018), with only a modest long-term MBL penalty (Del Fabbro 2022, P<.0001), even though FEA consistently shows stress rising with angulation and off-axis load (Murat 2025; Bilgi-Ozyetim 2025; Erdogdu 2024; Chi 2024) — the stress stays well below titanium yield, resolving the in-vitro/clinical gap; angled abutments correct emergence on tilted placement but pay a stress/fatigue penalty modulated by angle, load direction, and bone quality.
+Synthesis of 7 papers: intentionally tilted implants (e.g. All-on-4 distal tilt) are clinically equivalent to axial implants in survival and short-term marginal bone (Del Fabbro 2014; Lin 2018), with only a modest long-term MBL penalty emerging in the larger 24-study SR+MA at 3–18 years (Del Fabbro 2022, P<.0001); implant survival 93.91%, prosthesis survival 99.31%.
 
-## 한줄요약
+FEA consistently shows stress rising with angulation and off-axis load — yet the highest recorded value (~266 MPa) sits well below titanium yield strength (550 MPa), resolving the in-vitro/clinical gap: extra stress is real but sub-critical, expressed only as the small long-term MBL penalty.
 
-7편 종합: 의도적 경사식립은 생존율·단기 변연골에서 수직식립과 임상적으로 동등(Del Fabbro 2014; Lin 2018)하고 장기엔 작은 MBL 페널티만 있다(Del Fabbro 2022, P<.0001) — FEA는 각도·축외 하중 증가 시 응력이 오르지만 모두 티타늄 항복강도 한참 아래라 in-vitro와 임상의 간극이 해소된다; 각도지대주는 emergence를 교정하나 각도·하중 방향·골질에 따라 응력·피로 페널티를 진다.
+Angled abutments correct emergence on tilted or inclined teeth but pay a stress/fatigue penalty modulated by angle, load direction, and bone quality — minimum-angle multiunit/screw-retained designs are preferred; 15° tilt and oblique (not buccolingual) occlusal loading are the biomechanical optimum.
+
+## 세줄요약
+
+7편 종합: 의도적 경사식립은 생존율·단기 변연골에서 수직식립과 임상적으로 동등(Del Fabbro 2014; Lin 2018)하며 장기(3–18년)엔 통계적으로 유의하나 작은 MBL 페널티가 존재(Del Fabbro 2022, P<.0001); 임플란트 생존율 93.91%·보철 생존율 99.31%.
+
+FEA는 각도·축외 하중 증가 시 응력이 오르지만 최대값(~266 MPa)이 티타늄 항복강도(550 MPa)보다 훨씬 낮아 in-vitro와 임상의 간극이 해소되며, 협설(BL) 하중 방향이 임플란트 각도보다 피질골 응력에 더 큰 영향(29.8% vs 27.0%)을 준다.
+
+각도지대주는 기울어진 치아·임플란트에서 emergence를 교정하나 각도·하중 방향·골질에 따라 응력·피로 페널티를 지므로, 최소 각도 지대주 + 멀티유닛(나사유지) + 교합 최적화가 핵심 임상 레버다.
 
 ## Summary
 

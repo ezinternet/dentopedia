@@ -13,11 +13,19 @@ source_collection: external
 tags: [alveolar-ridge-preservation, suture-technique, hidden-x-suture, keratinized-tissue, open-healing, rct]
 ---
 
-## One-line Summary
-RCT (n=14): in open-healing ARP, the hidden X suture preserves buccal keratinized tissue width and ridge dimensions significantly better than the conventional X suture — the conventional X suture shifts the MGJ 1.56 mm lingually while the hidden X shifts it 0.25 mm buccally.
+## Three-line Summary
+RCT (n=14, posterior extractions) introducing the hidden X suture for open-healing alveolar ridge preservation and comparing it against the conventional crossed mattress (X) suture on mucogingival junction (MGJ) position, buccal keratinized tissue (KT) width, and ridge dimensions at 4 months.
 
-## 한줄요약
-RCT(n=14): open-healing 치조제 보존술에서 hidden X suture가 기존 X suture보다 협측 각화치은(KT) 폭과 치조제 치수를 유의하게 잘 보존. 기존 X suture는 점막치은경계(MGJ)를 설측으로 1.56 mm 당기는 반면 hidden X는 협측으로 0.25 mm 밀어냄.
+The conventional X suture shifted the MGJ lingually by 1.56 ± 0.90 mm; the hidden X shifted it buccally by 0.25 ± 0.66 mm — a significant difference favoring the hidden X for buccal KT preservation (P<0.05); all sites healed uneventfully.
+
+Suture technique choice alone measurably changes MGJ position and buccal KT outcomes in open-healing ARP, making the hidden X suture the preferred option when preserving the keratinized band for future implant peri-implant tissue management is a priority.
+
+## 세줄요약
+RCT (n=14, 후방 발치): 개방 치유 치조제보존술에서 hidden X suture를 도입, 기존 교차 매트리스 (X) suture와 4개월 시점의 점막치은경계 (MGJ) 위치·협측 각화치은 (KT) 폭·치조제 치수를 비교.
+
+기존 X suture는 MGJ를 설측으로 1.56 ± 0.90 mm 이동시킨 반면, hidden X는 협측으로 0.25 ± 0.66 mm 이동 — 협측 KT 보존에 유의한 우위 (P<0.05); 전 부위 합병증 없이 치유.
+
+봉합 기법만으로도 MGJ 위치와 협측 KT 결과가 유의하게 달라지므로, 향후 임플란트 주위 연조직 관리를 위해 각화대 보존이 중요한 경우 hidden X suture가 선호된다.
 
 ## Summary
 First paper in the Park-group open-healing ARP series. Suture technique alone measurably changes MGJ position and buccal KT preservation: the hidden X suture outperforms the conventional crossed mattress (X) suture.

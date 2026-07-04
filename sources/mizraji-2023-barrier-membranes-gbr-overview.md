@@ -15,13 +15,23 @@ full_text: false
 
 Ti mesh 대안을 체계적으로 비교하기 위한 최신 포괄적 리뷰. Periodontology 2000(Tier-1 리뷰 저널)의 2023년 GBR 막 개요로, 모든 막 유형(PTFE, Ti mesh, 콜라겐, 가교화 콜라겐, 합성폴리머, 심막 등)의 특성·장단점·메타분석 데이터를 종합한 현재 가장 권위 있는 참고문헌. [[wiki/bone-regeneration]] 상위 개요 페이지 작성 시 1차 근거로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Periodontology 2000 review (2023): Comprehensive overview of all GBR barrier membrane types — resorbable (collagen/XL-collagen/synthetic/pericardium) vs non-resorbable (d-PTFE/e-PTFE/Ti mesh/Ti-PTFE) — characteristics, advantages, disadvantages, and updated meta-analyses.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 Periodontology 2000 종설 (2023): 흡수성(콜라겐·가교화 콜라겐·합성·심막) vs 비흡수성(d-PTFE·e-PTFE·Ti 메쉬·Ti-PTFE) 모든 GBR 차폐막 유형의 특성·장단점·최신 메타분석 종합.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

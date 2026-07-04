@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, sr+ma, isq, crestal-bone-level, low-density-bone, human, null-finding]
 ---
 
-## One-line Summary
-SR+MA (5 studies, 109 patients, 198 implants) in low-density bone: osseodensification (OD) yielded significantly higher implant stability quotient (ISQ) than conventional drilling at both baseline and follow-up (P<.05), but crestal bone level (CBL) change did not differ between groups (P>.05) — first OD SR+MA to pool CBL, though n=198 leaves a genuine-null vs underpowered ambiguity unresolved.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 5편 / 109 환자 / 198 임플란트, 저밀도 골 (low-density bone) — 골밀도화 (Osseodensification, OD)가 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 초기·추적 시점 모두에서 일반 드릴링 대비 유의하게 높음 (P<.05); 그러나 변연골 수준 (Crestal Bone Level, CBL) 변화는 두 군 사이 유의차 없음 (P>.05). 임상 적용 한계: 표본수가 작아 (n=198) CBL의 "차이 없음"이 진정한 음성 결과인지 검정력 부족인지 분리 불가.
+SR+MA (5 studies, 109 patients, 198 implants, SCOPUS/PubMed/Google Scholar, JBI risk-of-bias, Jan 2013–Jan 2024): specifically focused on osseodensification (OD) vs conventional drilling in low-density bone, measuring ISQ and crestal bone level (CBL).
+
+OD yielded significantly higher ISQ at both baseline and follow-up (P<.05), consistent with Gaspar 2022 and Lima Monteiro 2024; crestal bone level change did not differ between groups at any timepoint (P>.05) — first OD SR+MA to pool CBL outcomes, finding no advantage.
+
+Mechanical primary-stability gain from OD does not translate to crestal bone protection in current evidence; n=198 leaves genuine-null vs underpowered ambiguity unresolved; clinical use of OD in soft bone should focus on ISQ improvement and bone expansion, not long-term bone preservation.
+
+## 세줄요약
+
+SR+MA (5편, 109명, 198 임플란트, SCOPUS/PubMed/Google Scholar, JBI 비뚤림 평가, 2013.01–2024.01): 저밀도골(low-density bone)에서 골밀도화(OD) vs 통상 드릴링의 ISQ 및 변연골 수준(CBL) 전용 분석.
+
+OD가 초기·추적 ISQ 모두 유의하게 높음 (P<.05); Gaspar 2022, Lima Monteiro 2024와 방향 일치; CBL 변화는 어느 시점에서도 두 군 간 유의차 없음 (P>.05) — CBL을 풀링한 최초 OD SR+MA로 이점 없음 확인.
+
+OD의 기계적 1차 안정성 이점이 변연골 보호로 이어지지 않음; n=198은 진성 음성 결과 vs 검정력 부족 구분 불가; 저밀도골 OD의 임상 적용은 ISQ 향상·골 확장에 집중하되 장기 골 보존 이점은 기대 불가.
 
 ## Summary
 Kalra and colleagues (2025, J Prosthet Dent) published the most recent human-focused systematic review and meta-analysis dedicated to osseodensification (OD) outcomes in low-density bone, the indication where OD claims its strongest clinical benefit. Pooling data from 5 studies (109 patients, 198 implants) and using JBI tools for risk-of-bias appraisal, they confirm the OD ISQ advantage and add a new, nuanced finding on crestal bone level (CBL).

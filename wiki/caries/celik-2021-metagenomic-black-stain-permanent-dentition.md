@@ -20,13 +20,21 @@ relations:
     target: al-shareef-2025-black-stain-bacterial-origin-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional NGS study (n=52 adults, 4 BS×caries groups): Capnocytophaga, Neisseria, Corynebacterium dominate black stain plaque; BS+ patients had significantly more caries-free teeth (p=0.007); first metagenomic evidence in adult permanent dentition.
+Cross-sectional NGS study (n=52 Turkish adults, 4 groups: BS+/caries-free, BS+/carious, BS−/caries-free, BS−/carious; n=13 each) profiling black-stain plaque in adult permanent dentition using 16S rRNA sequencing.
 
-## 한줄요약
+BS+ patients had significantly more caries-free teeth than BS− patients (p=0.007); dominant BS+ genera were Neisseria (5.4%), Capnocytophaga (4.8%), and Corynebacterium (3.9%), with Capnocytophaga reaching 10.8% in the BS+/caries-free subgroup.
 
-단면 연구(n=52 성인, 4군, NGS): 흑색 치태에서 Capnocytophaga·Neisseria·Corynebacterium 우점; 흑색 치태 양성군이 유의하게 더 많은 우식 없는 치아 보유(p=0.007); 영구치열에서의 최초 메타게노믹 근거.
+This is among the first NGS metagenomic studies in adult permanent dentition, challenging the Actinomyces-only narrative and demonstrating a complex multi-genus community with intra-BS+ heterogeneity related to caries protection.
+
+## 세줄요약
+
+영구치열 성인 52명(BS+·BS−×우식 유무 4군, n=13씩) 대상 16S rRNA NGS 메타게노믹 단면 연구.
+
+BS+ 군이 BS− 군보다 유의하게 더 많은 무우식 치아 보유(p=0.007); 흑색 치태 우점 속 — Neisseria(5.4%)·Capnocytophaga(4.8%)·Corynebacterium(3.9%), BS+/무우식 세부군에서 Capnocytophaga 10.8%.
+
+영구치열 성인 흑색 치태 최초 NGS 연구 중 하나; 단순 Actinomyces 지배 서사에 도전하고 우식 보호 수준과 연관된 복잡한 다속 군집 이질성 제시.
 
 ## Summary
 

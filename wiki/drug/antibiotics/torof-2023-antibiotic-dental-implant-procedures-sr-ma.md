@@ -14,11 +14,21 @@ source_collection: external
 tags: [antibiotic-prophylaxis, dental-implant, DIP, amoxicillin, preoperative, SR-MA, PRISMA]
 ---
 
-## One-line Summary
-SR+MA (Wolverhampton, Medicina 2023): antibiotic prophylaxis for dental implant placement (DIP) — single preoperative amoxicillin 2g recommended; postoperative continuation provides no incremental benefit; PRISMA-P/PROSPERO registered.
+## Three-line Summary
 
-## 한줄요약
-SR+MA (Wolverhampton, Medicina 2023): 임플란트 식립 (DIP) 항생제 예방 — 술전 단일 amoxicillin 2g 권고; 술후 연장은 incremental benefit 없음. PRISMA-P/PROSPERO 등록.
+PRISMA-P/PROSPERO-registered SR+MA (Wolverhampton; Medicina 2023) of RCT-level evidence on antibiotic use for dental implant placement (DIP), evaluating preoperative versus postoperative antibiotic regimens.
+
+Single preoperative oral amoxicillin 2 g reduces early implant failure; postoperative antibiotic continuation provides no incremental benefit; penicillin-allergic alternative is clindamycin 600 mg single dose.
+
+Routine 5–7 day postoperative antibiotic courses after implant placement are not evidence-based; most data derive from simple single-implant cases with limited representation of sinus lift, large GBR, or immediate implant in infected sockets.
+
+## 세줄요약
+
+PRISMA-P/PROSPERO 등록 SR+MA(Wolverhampton; Medicina 2023): 임플란트 식립(Dental Implant Placement, DIP) 항생제 예방의 술전 vs 술후 요법 RCT 근거 평가.
+
+술전 단일 amoxicillin 2g → 초기 임플란트 실패 감소; 술후 항생제 연장은 추가 이득 없음; 페니실린 알레르기 대안은 clindamycin 600mg 단일 투여.
+
+임플란트 식립 후 통상적 5–7일 항생제 처방은 근거 없음; 대부분의 데이터가 단순 단일 임플란트 사례에서 도출되어 상악동거상술·대규모 GBR·감염 소켓 즉시식립은 근거 부족.
 
 ## Summary
 SR+MA of RCT-level evidence on antibiotic use for dental implant placement (DIP). Supports the now-standard recommendation: a single preoperative oral amoxicillin 2g dose reduces early implant failure. Postoperative antibiotic continuation does not add benefit and increases AMR exposure.

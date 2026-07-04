@@ -9,7 +9,7 @@ pdf_filename: manresa-2018-supportive-periodontal-therapy-cochrane-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Cochrane systematic review on supportive periodontal therapy (SPT) showing limited RCT evidence comparing different SPT protocols, with comparisons including specialist vs non-specialist delivery, antimicrobial adjuncts, and photonic adjuncts.
 
 ## 1. Document Information

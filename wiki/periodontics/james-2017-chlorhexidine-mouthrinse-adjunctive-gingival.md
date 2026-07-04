@@ -16,13 +16,21 @@ full_text: false
 tags: [chlorhexidine, mouthwash, gingivitis, plaque, cochrane]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (51 RCTs, n=5,345) — CHX mouthrinse produces large plaque reduction (SMD 1.45) and modest gingivitis reduction; no evidence one concentration is superior; tooth staining is a consistent, large side effect.
+Cochrane SR+MA (51 RCTs, n=5,345) evaluating CHX mouthrinse as an adjunct to mechanical oral hygiene in adults, assessing plaque, gingivitis, tooth staining, and adverse effects.
 
-## 한줄요약
+CHX mouthrinse produced large plaque reduction (SMD −1.45, high certainty) and modest gingivitis reduction (GI −0.21, high certainty) at 4–6 weeks; tooth staining was large and consistent (SMD +1.07, moderate certainty); no evidence that any concentration (0.05%, 0.12%, 0.2%) was more effective than another.
 
-코크란 SR+MA (51 RCT, 5,345명) — CHX 가글은 치태 대폭 감소(SMD 1.45)·경도 치은염 소폭 감소; 농도별 효능 차이 없음; 치아 착색은 모든 농도에서 일관되게 발생.
+CHX is a well-supported adjunct for plaque/gingivitis control, but tooth staining at any concentration should be discussed with patients, and concentration choice can be guided by tolerability rather than efficacy.
+
+## 세줄요약
+
+코크란 SR+MA (51 RCT, 5,345명) — 기계적 구강위생 보조제로서 CHX 가글의 치태·치은염·착색·부작용 평가.
+
+치태 대폭 감소(SMD −1.45, 고품질), 치은지수(GI) 소폭 감소(−0.21, 고품질); 치아 착색 일관되게 증가(SMD +1.07, 중등도 품질); 0.05%·0.12%·0.2% 농도 간 효능 차이 없음.
+
+CHX는 치태·치은염에 근거 충분한 보조요법이나, 모든 농도에서 착색 발생하므로 환자 상담 시 부작용 고지 필요; 농도 선택은 효능 아닌 내약성 기준으로 가능.
 
 ## Summary
 

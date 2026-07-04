@@ -17,13 +17,21 @@ text_filename: cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodo
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PRISMA systematic review of 16 case-control studies (no meta-analysis, high heterogeneity) on GCF miRNAs as periodontal diagnostic biomarkers: the most-studied miR-146a, miR-200b (esp. miR-200b-3p), miR-223, and miR-23a show acceptable diagnostic plausibility (AUC > 0.8) for periodontitis, whereas miR-203 does not.
+PRISMA systematic review (PROSPERO CRD42024544648) of 16 case-control studies (3222 records screened; n=18–216 per study) evaluating GCF miRNAs as diagnostic biomarkers for periodontal disease; meta-analysis was not feasible due to high heterogeneity.
 
-## 한줄요약
+Using AUC >0.8 as the acceptability threshold, miR-146a, miR-200b (especially miR-200b-3p), miR-223, and miR-23a show acceptable diagnostic plausibility for periodontitis, while miR-203 (underexpressed, targets VEGFA) does not qualify and is instead a candidate therapeutic target.
 
-치은열구액(GCF) miRNA를 치주질환 진단 biomarker로 다룬 16편 환자대조군 연구의 PRISMA 체계적 고찰(이질성 커 메타분석 불가): 가장 많이 연구된 miR-146a·miR-200b(특히 miR-200b-3p)·miR-223·miR-23a는 치주염 진단 타당성(AUC > 0.8)이 있으나 miR-203은 없다.
+Standardized study designs, larger cohorts, and validated expression-unit reporting are needed before any GCF miRNA can be adopted as a clinical periodontal biomarker.
+
+## 세줄요약
+
+PRISMA 체계적 고찰(PROSPERO CRD42024544648) — 치은열구액(Gingival Crevicular Fluid, GCF) miRNA를 치주질환 진단 바이오마커로 평가한 16편 환자대조군 연구(3222건 스크린, 연구당 n=18–216); 이질성으로 메타분석 불가.
+
+AUC >0.8 기준으로 miR-146a·miR-200b(특히 miR-200b-3p)·miR-223·miR-23a는 치주염 진단 타당성 적정; miR-203은 적격 미달(VEGFA 표적, 발현 감소 — 치료 표적 후보).
+
+임상 GCF miRNA 바이오마커 적용을 위해서는 표준화된 연구설계·대규모 코호트·검증된 발현단위 보고가 필수.
 
 ## Summary
 

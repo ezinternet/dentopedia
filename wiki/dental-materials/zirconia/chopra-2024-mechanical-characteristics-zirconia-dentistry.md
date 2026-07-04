@@ -18,13 +18,21 @@ relations:
     target: ban-2023-dental-zirconia-types-development-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of zirconia's mechanical performance in dentistry, covering flexural strength, fracture toughness, fatigue, wear, LTD, and surface modification strategies for next-generation restorations and implants.
+Narrative review (Dental Materials 2024; Web of Science, Medline, Scopus) of zirconia mechanical performance across dental restorations and implants, systematically covering flexural strength (900–1,200 MPa for 3Y-TZP), fracture toughness (KIc 5–10 MPa·m^0.5), fatigue, wear, and low-temperature degradation (LTD).
 
-## 한줄요약
+The central mechanical paradox of zirconia is that transformation toughening — the same tetragonal-to-monoclinic phase transformation that makes it uniquely tough — is progressively degraded by LTD (moisture-induced aging at 37°C body fluids over years), reducing surface integrity and initiating microcracking in 3Y-TZP.
 
-치과용 지르코니아의 굴곡강도·파절인성·피로·마모·LTD 및 표면개질을 종합 고찰한 서술적 문헌 고찰로, 차세대 보철물·임플란트 설계 방향을 제시한다.
+Surface modifications (sandblasting, acid etching, laser, anodization, UV photofunctionalization) can improve osseointegration without compromising bulk strength; nano-scale modifications preserve mechanical performance while addressing the "3Is" (Integration, Infection, Inflammation) for implant applications.
+
+## 세줄요약
+
+서술적 고찰(Dental Materials 2024; Web of Science·Medline·Scopus): 치과 보철물 및 임플란트에서 지르코니아(ZrO₂)의 역학적 성능 — 굴곡강도(3Y-TZP 900–1,200 MPa), 파절인성(KIc 5–10 MPa·m^0.5), 피로, 마모, 저온열화(Low-Temperature Degradation, LTD) 체계적 고찰.
+
+지르코니아의 핵심 역학적 역설: 변태강화(Transformation Toughening)가 탁월한 인성의 원천이지만, 동일한 정방정→단사정 상변태가 LTD(체액 37°C에서 수년에 걸친 습윤 노화)에 의해 점진적으로 저하되어 3Y-TZP 표면 손상 및 마이크로균열 유발.
+
+표면개질(샌드블라스팅·산부식·레이저·양극산화·UV 광기능화)은 벌크 강도를 손상하지 않고 골유착(Osseointegration) 향상 가능; 나노 스케일 개질은 임플란트 '3I'(통합·감염·염증) 문제를 해결하면서 역학적 성능 유지.
 
 ## Summary
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: ['flapless', 'immediate implant', 'bone graft', 'jump space', 'peri-implant gap']
 ---
 
-## One-line Summary
-Systematic review and meta-analysis (RCTs only) evaluating flapless immediate implant placement (IIP) with vs without bone grafting of the peri-implant gap on hard/soft tissue changes, suggesting a trend toward better hard-tissue preservation with grafting (e.g., jump space ≥2 mm) but limited by few RCTs and variable follow-up.
+## Three-line Summary
 
-## 한줄요약
-SR+MA: flapless 즉시식립 시 peri-implant gap에 골이식 추가 vs 비추가 — hard/soft tissue 변화를 평가; RCT 한정.
+Pre-registered SR+MA of RCTs only, evaluating flapless immediate implant placement (IIP) with versus without bone grafting of the peri-implant gap on hard and soft tissue outcomes (search to March 2024).
+
+A trend toward better hard-tissue preservation was observed with bone grafting, supporting gap grafting when the jump space is ≥2 mm, though results were highly variable across studies.
+
+The clinical conclusion is limited by a small number of RCTs and variable follow-up durations; flapless IIP preserves soft tissue well, but bone grafting is recommended when the peri-implant gap is significant.
+
+## 세줄요약
+
+RCT만을 포함한 사전등록 SR+MA로, Flapless 즉시 식립(Immediate Implant Placement, IIP) 시 임플란트 주위 간격(Peri-implant Gap)에 골이식 추가 vs 미추가의 경·연조직 변화를 평가하였다(2024년 3월까지 검색).
+
+골이식 추가군에서 경조직 보존 경향이 관찰되었으며, Jump Space ≥2 mm일 경우 골이식 동반이 지지되었으나 연구 간 결과 변동이 컸다.
+
+포함된 RCT 수가 적고 추적 기간이 다양하여 결론에 한계가 있으며, Flapless IIP 자체는 연조직 보존에 유리하지만 간격이 클수록 골이식 동반이 권장된다.
 
 ## Summary
 To evaluate the influence of bone grafting peri-implant gap on hard/soft tissue changes following flapless immediate implantation. Embase/PubMed/WoS/Cochrane + manual search up to March 2024. Only RCTs comparing flapless IIP with vs without bone grafting included.

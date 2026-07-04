@@ -21,13 +21,21 @@ relations:
     target: deporter-2021-cbct-immediate-maxillary-molar-implant
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-center retrospective (106 patients / 148 immediate maxillary-molar implants; 26 analyzed in detail, 29 tapered-SLA fixtures) proposing a paired case-selection classification — alveolar bone height (ABH) Grade A/B/C × interradicular-septum Type I/II/III — to drive socket-lifting, bone-graft, and wide-implant decisions; 93.10% survival with marginal bone stable (~0.01–0.03 mm loss) after 1 year of loading.
+Single-center retrospective study (Seoul National University; 106 patients, 148 immediate maxillary-molar implants; detailed analysis of 26 patients/29 tapered-SLA fixtures) proposing a two-axis case-selection classification: alveolar bone height Grade A/B/C (vertical/sinus decision) crossed with interradicular-septum Type I/II/III (lateral stability/graft decision).
 
-## 한줄요약
+Implant survival was 93.10%; the 2 early failures were salvaged with wider-diameter implants ±sinus lifting, and marginal bone stabilized after 1 year of loading (0.01–0.03 mm loss).
 
-서울대 단일기관 후향연구(환자 106명·즉시 상악대구치 임플란트 148개, 정밀분석 26명·tapered-SLA 29개)로, 치조골 높이(ABH) A/B/C 등급과 치근간중격(interradicular septum) I/II/III 유형을 짝지어 상악동거상·골이식·광경 임플란트 선택을 결정하는 가이드라인을 제시 — 생존율 93.10%, 1년 부하 후 변연골 0.01~0.03 mm로 안정.
+This is the first explicit maxillary-molar IIP guideline pairing vertical and lateral bone parameters in a 3×3 decision matrix; limitations include single-center design, mixed implant brands, and a small detailed-analysis cohort.
+
+## 세줄요약
+
+서울대 단일기관 후향 연구(환자 106명·즉시 상악 대구치 임플란트 148개, 정밀 분석 26명·타이퍼드-SLA 29개): 치조골 높이(ABH, Alveolar Bone Height) A/B/C 등급과 치근간 중격 I/II/III 유형을 짝지어 상악동 거상·골이식·광경 임플란트 선택을 결정하는 3×3 의사결정 체계를 제안하였다.
+
+생존율 93.10%; 조기 실패 2건은 광경 임플란트±상악동 거상으로 즉시 재식립하여 기능 유지, 변연골은 1년 부하 후 0.01–0.03 mm 손실로 안정화되었다.
+
+수직(상악동) 및 수평(중격) 골 변수를 결합한 최초의 상악 대구치 즉시 식립 가이드라인이나, 단일기관·혼합 임플란트·소규모 정밀 분석 코호트라는 한계가 있다.
 
 ## Summary
 

@@ -16,13 +16,23 @@ text_filename: garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-re
 
 This paper seeds the new `artificial-intelligence` category — the first AI/ML evidence-synthesis page in the wiki. As an umbrella review it sits one tier above primary SRs and anchors how AI evidence in (pediatric) dentistry should be appraised: AMSTAR-2 quality, GROOVE/CCA overlap, and CNN-imaging diagnostic metrics. It is paired with the sibling ML methodology review [[wiki/artificial-intelligence/gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr]] (created alongside this one), which it reinforces by independently confirming that AI image-based diagnostics are promising but rest on low/critically-low-quality primary evidence.
 
-## One-line Summary
+## Three-line Summary
+
 
 Umbrella review (7 SRs, 109 primary studies) finding AI — chiefly CNNs for imaging — reaches pooled sensitivity/specificity 80–83% and AUC 0.87–0.91 in pediatric dentistry, but most underlying reviews are low/critically-low quality, so evidence is preliminary (abstract-only).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 엄브렐러 리뷰 (체계적 문헌고찰 7편, 1차 연구 109편): 소아치과에서 인공지능 (Artificial Intelligence, AI), 특히 영상용 합성곱 신경망 (Convolutional Neural Network, CNN)은 통합 민감도/특이도 80–83%, 곡선하면적 (Area Under the Curve, AUC) 0.87–0.91로 우수하나, 포함된 리뷰 대부분이 낮은/매우 낮은 질이라 근거는 예비적 (초록만 확보).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -16,13 +16,21 @@ relations:
     target: camps-font-2024-antibiotic-prophylaxis-dry-socket-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cochrane SR+MA (49 RCTs, n=6,771): chlorhexidine rinse (OR 0.38) and 0.2% intrasocket gel (OR 0.44) probably reduce dry socket (moderate-certainty); NNT scales with baseline risk (≈7 at 30% prevalence in surgical third molars); Alvogyl > ZOE for day-7 pain (very low-certainty).
+Cochrane SR+MA (3rd edition, 2022; 49 RCTs, n=6,771: 39 prevention studies n=6,219 + 10 treatment studies n=552) of local interventions for dry socket prevention (antimicrobial rinses/gels) and treatment (obtundent dressings) after tooth extraction.
 
-## 한줄요약
+Chlorhexidine (CHX) rinse (OR 0.38, 95% CI 0.25–0.58) and 0.2% intrasocket CHX gel (OR 0.44, 95% CI 0.27–0.71) probably reduce dry socket (moderate-certainty GRADE); NNT scales with baseline risk — NNT≈7 for high-risk surgical third molars (30% prevalence) vs NNT≈162 for routine extractions (1% prevalence).
 
-코크란 SR+MA (RCT 49편, n=6,771): 클로르헥시딘 (Chlorhexidine, CHX) 가글 (OR 0.38)·0.2% 발치와 내 젤 (OR 0.44)이 건성 발치와 (Dry Socket, Alveolar Osteitis)를 줄일 가능성(중등도 확실성). 효과는 기저 위험에 비례 — 하악 사랑니 고위험(유병률 30%)에서 NNT≈7, 일반 발치(1%)에서는 NNT 160대로 미미. 치료로는 Alvogyl(구 제형)이 산화아연유지놀 (Zinc Oxide Eugenol, ZOE)보다 7일째 통증 감소(매우 낮은 확실성).
+For established dry socket, the old Alvogyl formulation reduced day-7 pain more than zinc oxide eugenol (ZOE; MD −1.40, very low-certainty), but this formulation has been discontinued — limiting treatment evidence to symptom management with obtundent dressings.
+
+## 세줄요약
+
+코크란 SR+MA(3판, 2022; RCT 49편, n=6,771: 예방 39편 n=6,219 + 치료 10편 n=552) — 발치 후 건조치조염(Dry Socket, Alveolar Osteitis) 예방(항균 가글·젤)·치료(진통 드레싱) 국소 중재 평가.
+
+클로르헥시딘(Chlorhexidine, CHX) 가글(OR 0.38, 95% CI 0.25–0.58)과 0.2% 발치와 내 젤(OR 0.44, 95% CI 0.27–0.71)이 건조치조염 감소 가능성(GRADE 중등도); NNT는 기저 위험에 비례 — 고위험 사랑니(유병률 30%)에서 NNT≈7, 일반 발치(1%)에서 NNT≈162.
+
+확립된 건조치조염 치료에서 구 Alvogyl 제형이 산화아연유지놀(Zinc Oxide Eugenol, ZOE)보다 7일째 통증 감소(MD −1.40, 매우 낮은 확실성); 단 해당 제형 단종 — 치료 근거가 증상 관리(진통 드레싱) 수준에 한정됨.
 
 ## Summary
 

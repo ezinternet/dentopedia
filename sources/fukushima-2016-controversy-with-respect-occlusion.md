@@ -17,13 +17,23 @@ text_filename: fukushima-2016-controversy-with-respect-occlusion.txt
 
 조기접촉(premature contact)을 "안정적 교두감합위(ICP)의 종착 조건"이라는 개념 축에서 정면으로 다루는 review. 기존 위키의 조기접촉 1차연구 [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] (교정후 조기접촉 T-Scan RCT)와 [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] (교합분석 SR)이 *측정·조정* 층위라면, 본 논문은 그 위의 *개념 층위* — centric relation(CR)의 한계와, 변형 과두(deformed condyle) 환자에서 습관성 폐구운동(HCM)이 조기접촉 없이 종료되는 안정 ICP를 어떻게 확보하는지 — 를 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review (single clinical case illustration, 25-yr follow-up) arguing that centric relation is unreliable in patients with deformed/unstable condyles, and that a stable intercuspal position where habitual closing movements terminate **without premature tooth contact** — guided by muscle-driven jaw positions rather than condylar position — should be the reference for occlusal reconstruction.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 서술적 종설(임상증례 1건, 25년 추적): 변형·불안정 과두 환자에서는 중심위(CR)가 신뢰할 수 없으며, 조기접촉 없이 습관성 폐구운동(HCM)이 종료되는 안정적 교두감합위(ICP)를 — 과두 위치가 아니라 근육 유도 하악위로 — 기준 삼아 교합을 재건해야 한다고 주장.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

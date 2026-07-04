@@ -12,6 +12,22 @@ source_collection: local
 tags: [최소침습-임플란트, MagiCore, NobelParallel, 생물학적-특성, 세포-부착, 표면-형태, 시험관내-연구, 세포-적합성]
 ---
 
+## Three-line Summary
+
+In vitro comparative study (MagiCore minimal-invasive vs NobelParallel standard implant, human gingival fibroblasts and MG63 osteoblast-like cells, 7–14 day culture) evaluating surface characteristics and biocompatibility of a minimal-invasive implant system.
+
+Despite MagiCore having higher surface roughness (Ra 2.02 µm vs 1.28 µm for NobelParallel), both implants showed equivalent cell viability, metabolic activity, and ALP response; MC® demonstrated superior cell attachment density and fibronectin layer formation on SEM/confocal imaging.
+
+The minimal-invasive implant system showed biocompatibility comparable to the gold standard, supporting its potential clinical use in anatomically limited sites, though in vitro findings require in vivo validation for osseointegration and long-term stability.
+
+## 세줄요약
+
+시험관내 비교 연구(MagiCore 최소침습 임플란트 vs NobelParallel 표준 임플란트, 인간 치은 섬유아세포·MG63 골아세포, 7–14일 배양): 두 임플란트의 표면 특성 및 생체적합성 평가.
+
+표면 거칠기 차이(MagiCore Ra 2.02 µm > NobelParallel 1.28 µm)에도 불구하고 세포 생존력·대사활성·ALP 반응은 양군 동등; SEM/공초점 영상에서 MC® 표면에서 더 조밀한 세포층 및 우수한 세포 부착 확인.
+
+최소침습 임플란트가 표준 임플란트와 동등한 생체적합성을 보여 해부학적으로 제한된 공간에서의 임상 적용 가능성을 시사하나, 실제 골유착 및 장기 안정성은 생체내 연구로 검증 필요.
+
 ## 한 줄 요약
 시험관내 비교 연구로, 최소침습 임플란트 시스템과 표준 임플란트 간의 표면 특성 차이에도 불구하고 동등한 생물학적 특성과 세포 적합성을 입증한 논문.
 

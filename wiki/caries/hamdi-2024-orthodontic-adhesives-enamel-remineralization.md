@@ -22,11 +22,19 @@ relations:
     target: malcangi-2023-enamel-remineralization-techniques-sr
 ---
 
-## One-line Summary
-PRISMA/PROSPERO SR of 24 in vitro studies: orthodontic adhesives loaded with bioactive fillers (bioactive glass, n-HAP, n-ACP, n-AFCP, nCaF2) or fluoride-releasing cements significantly remineralize/anti-demineralize enamel around brackets — but 15/24 are high risk of bias, heterogeneous, and no meta-analysis was possible (weak evidence).
+## Three-line Summary
+PRISMA/PROSPERO SR of 24 in vitro/in situ studies evaluating remineralization and anti-demineralization effects of bioactive-filler or fluoride-releasing orthodontic adhesives on bracket-adjacent enamel.
 
-## 한줄요약
-교정 접착제에 생체활성 필러(BAG·n-HAP·n-ACP·n-AFCP·nCaF2)나 불소방출을 넣으면 브라켓 주위 법랑질을 재광화/탈회억제한다는 in vitro 24편 SR — 그러나 24편 중 15편 고비뚤림·이질성으로 메타분석 불가, 근거 약함.
+All included studies (hardness, micro-CT, PLM) found significant remineralization for experimental adhesives vs controls; bioactive glass (BAG), n-HAP, n-ACP, nCaF2 were the main active fillers.
+
+Evidence is promising but weak: 15/24 studies high risk of bias, no meta-analysis feasible due to heterogeneity; clinical translation requires studies with >28-day pH cycling and standardized protocols.
+
+## 세줄요약
+PRISMA/PROSPERO SR (in vitro 24편): 생체활성 필러(BAG·n-HAP·n-ACP·n-AFCP·nCaF2) 또는 불소방출 교정 접착제의 브라켓 주위 법랑질 재광화·탈회억제 효과 평가.
+
+경도·micro-CT·PLM 전 연구에서 실험 접착제가 대조군보다 유의하게 재광화·탈회억제; BAG(솔-겔형), Fuji Ortho LC, Transbond Plus 등이 주요 수행자.
+
+근거는 유망하나 약함(15/24 고비뚤림, 이질성으로 메타분석 불가); 임상 적용에는 28일 이상 pH 순환 및 표준화 연구가 필요.
 
 ## Summary
 BMC Oral Health 2024 SR (Egypt) answering "Do orthodontic adhesives remineralize or prevent demineralization of enamel around brackets?". From 1712 hits (2005–2024), 24 in vitro/in situ studies were included. The strategy is to make the adhesive itself therapeutic — loading it with bioactive/remineralizing fillers so it counteracts the white-spot lesions (WSLs) that arise at the plaque-retentive bracket margin (reported WSL prevalence 33.8–97%).

@@ -13,13 +13,21 @@ source_collection: external
 tags: [titanium-mesh, cad-cam, gbr, vertical-augmentation, horizontal-augmentation, mesh-exposure]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective human study (41 patients, 53 atrophic sites, 106 implants): customized CAD/CAM titanium mesh GBR with autogenous bone + bovine bone mineral achieved mean vertical gain 4.78 mm and horizontal gain 6.35 mm, 11/53 mesh exposures, 100% implant survival (mean 10.6 mo post-loading).
+Retrospective preliminary case series (41 patients, 53 severely atrophic edentulous sites, 106 implants; 2018–2019) evaluating GBR with patient-specific CAD/CAM titanium mesh filled with autogenous bone chips + bovine bone mineral (BBM), mean 7-month healing before mesh removal and implant placement.
 
-## 한줄요약
+Mean vertical bone gain was 4.78 ± 1.88 mm and horizontal gain 6.35 ± 2.10 mm; mesh exposure occurred in 11/53 sites (~21%) and significantly increased graft volume loss in both dimensions (p<0.001); 100% implant survival at mean 10.6 months post-loading.
 
-후향적 임상 연구 (환자 41명, 위축 부위 53곳, 임플란트 106개): 맞춤형 CAD/CAM 티타늄 메시 + 자가골/이종골(BBM) 골유도재생술로 수직 평균 4.78 mm, 수평 평균 6.35 mm 골증대를 얻었고, 53곳 중 11곳 메시 노출에도 임플란트 생존율은 100% (로딩 후 평균 10.6개월).
+Mesh exposure is the dominant risk and directly costs graft volume — soft-tissue management over the mesh is the key determinant of outcome; the study lacked a control group and had short follow-up.
+
+## 세줄요약
+
+후향적 예비 증례 시리즈(환자 41명, 심한 위축 53부위, 임플란트 106개; 2018–2019): 맞춤형 CAD/CAM 티타늄 메시 + 자가골+이종골(Bovine Bone Mineral, BBM)로 골유도재생술(Guided Bone Regeneration, GBR) 시행, 평균 7개월 치유 후 메시 제거 및 임플란트 식립.
+
+수직 평균 골증대 4.78 ± 1.88 mm, 수평 6.35 ± 2.10 mm; 메시 노출 11/53부위(~21%)에서 골 용적 손실이 유의하게 증가(p<0.001); 임플란트 생존율 100%(로딩 후 평균 10.6개월).
+
+메시 노출이 주된 위험이며 골 용적 손실과 직결됨 — 연조직 관리가 결과의 핵심 결정 인자; 대조군 없고 추적 기간 짧음.
 
 ## Summary
 

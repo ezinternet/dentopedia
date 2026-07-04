@@ -13,11 +13,21 @@ source_collection: external
 tags: [DCP, hygienist, therapist, wellbeing, UK, job-satisfaction]
 ---
 
-## One-line Summary
-Systematic review (n=12 UK studies, 11 of medium-to-high quality) of health and wellbeing in Dental Care Professionals (DCPs — hygienists, therapists, clinical dental technicians, orthodontic therapists): evidence is sparse and skewed to hygienists/therapists, with clinical dental technicians and orthodontic therapists nearly absent; determinants mirror the dentist macro/meso/micro framework (job satisfaction and career most-studied), but overall wellbeing is essentially unmeasured directly.
+## Three-line Summary
 
-## 한줄요약
-UK DCP(위생사·therapist·dental technician·orthodontic therapist) 웰빙 SR — 단 12편, 대부분 hygienist/therapist 대상. 결정인자 구조(macro/meso/micro)는 치과의사와 동일하나 전체 wellbeing 자체를 측정한 연구는 사실상 없음.
+Systematic review of 12 UK studies (11 medium-to-high quality) on the health and wellbeing of Dental Care Professionals (DCPs): dental hygienists, therapists, clinical dental technicians, and orthodontic therapists.
+
+Evidence is sparse and skewed toward hygienists/therapists; clinical dental technicians and orthodontic therapists are nearly absent from the literature; the determinant structure (macro/meso/micro framework) mirrors what is found for dentists.
+
+Overall DCP wellbeing has not been directly measured — existing data focus on specific determinants (job satisfaction, career trajectory), leaving a critical evidence gap for a workforce that outnumbers dentists in clinical settings.
+
+## 세줄요약
+
+영국 임상 치과 보조인력(Dental Care Professional, DCP: 위생사·치료사·기공사·교정치료사) 건강 및 웰빙 SR (12편, 11편 중등~고질).
+
+근거가 위생사·치료사에 편중되고 기공사·교정치료사는 사실상 전무; 결정인자 구조(거시/중간/미시 macro/meso/micro)는 치과의사와 동일하게 일치.
+
+전체 웰빙을 직접 측정한 연구는 거의 없고 직무만족·커리어 특정 결정인자만 부분적으로 존재 — 치과의사보다 수적으로 많은 인력에 대한 근거 공백 심각.
 
 ## Summary
 Most dentist wellbeing research targets dentists. Kaki et al. fill the parallel gap for DCPs (Dental Care Professionals — hygienists, therapists, clinical dental technicians, orthodontic therapists), who outnumber dentists in any clinic. The headline finding is that only 12 UK studies exist, and they mostly look at hygienists and therapists; clinical dental technicians and orthodontic therapists are essentially absent from the literature.

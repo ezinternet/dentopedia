@@ -17,13 +17,21 @@ text_filename: omar-2026-marginal-gap-additive-subtractive-nanoceramic.txt
 tags: [marginal-gap, CAD-CAM, additive-manufacturing, subtractive-manufacturing, 3D-printing, milling, hybrid-nanoceramic, implant-crown]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro comparative study (20 implant fixtures): milled Nanoksa G-Plus hybrid nanoceramic crowns showed significantly smaller marginal gaps (34.08→37.76 µm before/after thermomechanical aging) than 3D-printed Nanoksa BioGuard crowns (59.71→63.83 µm) — milling superior for this novel hybrid nanoceramic material class, though both stayed within the classic 120 µm clinical acceptability threshold.
+In vitro comparative study (20 implant fixtures in bone-mimicking epoxy resin; n=10 milled Nanoksa G-Plus vs n=10 3D-printed Nanoksa BioGuard; identical digital design; marginal gap measured at 6 points per crown before cementation and after 5,000 thermal + 75,000 mechanical loading cycles).
 
-## 한줄요약
+Milled crowns showed significantly smaller marginal gaps than 3D-printed crowns at both timepoints: 34.08 vs 59.71 µm pre-cementation, and 37.76 vs 63.83 µm post-aging (both p<0.001); both groups showed significant gap widening after aging (p<0.001 within each group), attributed to cement layer degradation.
 
-In-vitro 비교연구(임플란트 고정체 20개): 밀링 Nanoksa G-Plus 하이브리드 나노세라믹 크라운의 변연격차(34.08→37.76 µm, 열역학적 노화 전후)가 3D프린팅 Nanoksa BioGuard(59.71→63.83 µm)보다 유의하게 작음 — 이 신규 하이브리드 나노세라믹 재료군에서 밀링이 변연적합도 면에서 우수, 다만 둘 다 전통적 임상 허용 기준 120 µm 이내.
+Both fabrication methods stayed within the 120 µm clinical acceptability threshold, so both are clinically usable, but milling offers a superior safety margin for marginal fit of this novel hybrid nanoceramic material class.
+
+## 세줄요약
+
+In vitro 비교연구(임플란트 고정체 20개, 골 모방 에폭시 레진 매립; 밀링 Nanoksa G-Plus n=10 vs 3D프린팅 Nanoksa BioGuard n=10; 동일 디지털 설계; 크라운당 6점 변연격차(Marginal Gap) 측정 — 합착 전 및 열·기계적 가속노화 후).
+
+밀링 크라운이 모든 시점에서 유의하게 작은 변연격차: 합착 전 34.08 vs 59.71 µm, 노화 후 37.76 vs 63.83 µm(각 p<0.001); 두 군 모두 노화 후 격차 유의하게 증가(군내 p<0.001) — 열순환에 의한 시멘트 층 저하로 해석.
+
+두 제조법 모두 전통적 임상 허용 기준 120 µm 이내 — 임상 사용 가능, 그러나 이 신규 하이브리드 나노세라믹 재료군에서 밀링이 변연적합도 면에서 우월한 안전 여유 제공.
 
 ## Summary
 

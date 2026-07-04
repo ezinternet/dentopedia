@@ -13,12 +13,21 @@ source_collection: external
 tags: [reamer-drill, lateral-window, sinus-augmentation, schneiderian-membrane, perforation, lateral-wall-thickness]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-center retrospective case series on the reamer-drilling lateral window approach (LWA) for maxillary sinus augmentation: Schneiderian membrane perforation rate was 12.5% (lower than the historical 20–30% with conventional bur/piezo), with lateral wall thickness ≥1.25 mm as the threshold below which perforation risk rises — judged a safe, effective alternative.
+Double-center retrospective case series reporting outcomes of the reamer-drilling lateral window approach (LWA) for maxillary sinus augmentation, focusing on Schneiderian membrane perforation incidence and associated risk factors.
 
-## 한줄요약
-이중센터 후향 케이스시리즈: 리머 드릴 (Reamer Drill) 기반 측방 접근 (Lateral Window Approach, LWA) 슈나이더 막 (Schneiderian membrane) 천공률 12.5% — 측벽 두께 ≥1.25 mm일 때 안전하고 효과적인 대체 술식.
+Overall Schneiderian membrane perforation rate was 12.5%, lower than the historical 20–30% with conventional bur or piezoelectric techniques; lateral wall thickness ≥1.25 mm was identified as the safety threshold, and sinus septa were an independent risk factor.
+
+Reamer drilling is a viable alternative to bur/piezo for lateral-window sinus augmentation; pre-op CBCT measurement of lateral wall thickness and septa detection are recommended before selecting this technique.
+
+## 세줄요약
+
+이중센터 후향적 케이스 시리즈: 리머 드릴 (Reamer Drill) 기반 측방창 접근 (Lateral Window Approach, LWA) 상악동거상술에서 슈나이더 막 (Schneiderian Membrane) 천공 발생률 및 관련 위험인자 분석.
+
+전체 천공률 12.5% — 기존 버 (Bur) 또는 피에조 (Piezo) 의 역사적 20–30%보다 낮음; 측방벽 두께 ≥1.25 mm이 안전 임계치, 상악동 격벽 (Sinus Septa) 이 독립 위험인자.
+
+리머 드릴은 측방창 상악동거상술의 유효한 대안; 술전 콘빔 CT (Cone-Beam Computed Tomography, CBCT) 로 측방벽 두께 측정 및 격벽 여부 확인 필수.
 
 ## Summary
 Two-center retrospective case series on the reamer-drilling lateral window approach. Sinus membrane perforation rate 12.5% — lower than historical 20–30% with conventional bur or piezo techniques. Lateral wall thickness ≥1.25 mm is the threshold below which perforation risk rises.

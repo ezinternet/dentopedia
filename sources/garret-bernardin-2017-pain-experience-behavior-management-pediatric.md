@@ -17,13 +17,23 @@ text_filename: garret-bernardin-2017-pain-experience-behavior-management-pediatr
 
 바늘없는(정확히는 pressure-controlled 컴퓨터 제어) 침윤마취기 The Wand STA system을 소아 환자에서 전통 syringe와 직접 비교한 crossover 연구로, [[local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction]]·[[overviews/topical-anesthetic-injection-pain-overview]]가 다루는 "주사통증 경감" 계열에 기기(device) 축을 추가한다. 소아 행동관리(modified Venham scale) 결과도 함께 보고해 behavioral-dentistry/dental-anxiety 영역과도 접점이 있다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Observational crossover split-mouth study (n=67 children/adolescents, 7-15y): the Wand STA computerized delivery system produced significantly lower pain VAS (-1.09 points, P=0.0003), smaller heart-rate increase (-3.4 bpm, P=0.028), more relaxed behavior (Venham=0 more frequent, P=0.019), and higher satisfaction (P=0.0003) versus traditional syringe injection.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 관찰형 crossover split-mouth 연구(소아·청소년 67명, 7-15세): Wand STA 컴퓨터 제어 마취기가 전통 syringe 대비 통증 VAS 유의하게 낮음(-1.09점, P=0.0003), 심박수 증가폭 작음(-3.4bpm, P=0.028), 이완된 행동(Venham=0) 더 빈번(P=0.019), 만족도 더 높음(P=0.0003).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

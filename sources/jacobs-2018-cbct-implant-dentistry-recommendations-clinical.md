@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 임플란트 CBCT 정당화 근거. 기기간 선량·정확도 편차를 정리해 [[radiology/fontenele-2025-cbct-dentistry-clinical-recommendations-indication]]의 전공별 차트와 짝을 이루고, 임상 [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] 계열 술전계획 의사결정에 영상 근거 제공.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review giving justification/optimization recommendations for CBCT in oral implantology; effective dose spans 2–200 panoramic equivalents across machines.
 
-## 한줄요약
+Narrative review giving justification/optimization recommendations for CBCT in oral implantology;
 
-임플란트 CBCT의 정당화·최적화 권고 내러티브 리뷰. 기기별 유효선량이 파노라마 2~200장 범위로 편차.
+effective dose spans 2–200 panoramic equivalents across machines.
+
+(incomplete)
+
+## 세줄요약
+
+
+임플란트 CBCT의 정당화·최적화 권고 내러티브 리뷰.
+
+기기별 유효선량이 파노라마 2~200장 범위로 편차.
+
+(incomplete)
 
 ## 1. Document Information
 

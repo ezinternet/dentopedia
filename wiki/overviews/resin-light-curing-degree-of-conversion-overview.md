@@ -23,13 +23,21 @@ source_collection: synthesis
 > - **임상 결정 체크리스트**: ① 큐어링 팁은 물리적으로 닿을 수 있는 한 최대한 근접 (거리 증가는 DC·세포생존율 동시 저하); ② 벌크필은 하면(바닥면) DC 리스크 인지 — 깊은 와동엔 sculptable capping layer 또는 dual-cure 대체 고려; ③ hybrid ceramic/지르코니아 등 간접수복 2.5mm 이상 두께엔 dual-cure resin cement 우선 선택(광 의존 단독 composite luting 지양); ④ 방사선 검출성이 중요한 부위(변연 잔사·임플란트 보철)엔 ytterbium계 고radiopacity 시멘트(Variolink N) 우선.
 > - **확신도**: 4편 모두 in-vitro(전임상) — 임상 RCT 검증 없음. n이 작아(그룹당 3~7) 예비적(preliminary) 근거로 읽어야 함. Hashemian은 윤리승인서 소재불명을 저자 스스로 명시 — 근거 중량은 다소 낮게 잡을 것.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of four in-vitro studies (2025–2026) on the physics and chemistry of light-curing adequacy: curing-tip distance and LED exposure mode drive degree of conversion (DC) in direct composites — with distance-dependent DC loss crossing an ISO cytotoxicity threshold at ≥6 mm — while indirect-restoration thickness (hybrid ceramic CAD/CAM) compounds the same light-attenuation problem for luting materials, where dual-cure resin cement's chemical-cure reserve gives it the most thickness-stable DC (best at 2.5 mm) versus flowable/bulk-fill composites that fail badly beyond 2.0 mm; a companion physicochemical comparison shows dual-cure cement choice also trades off pH neutrality against radiopacity. Clinical takeaway: DC failure is overwhelmingly a light-delivery-geometry problem, not a material-chemistry problem, and the fix is procedural (minimize tip distance, prefer dual-cure under thick indirect restorations) rather than a "better material" search.
+Synthesis of 4 in-vitro studies (2025–2026) on light-curing adequacy: curing-tip distance is the primary driver of degree of conversion (DC) loss in direct composites — at ≥6 mm, DC falls below ISO 70% cytocompatibility threshold for gingival fibroblast viability (Hashemian 2025); exposure mode determines bottom-surface DC, where bulk-fill drops below 45% even under standard mode (Lehmann 2026).
 
-## 한줄요약
+For indirect restorations, hybrid ceramic (CAD/CAM) thickness is the attenuating variable: dual-cure resin cement is the only material maintaining adequate DC at 2.5 mm (30.88%); flowable composite collapses to 11.69% at 2.5 mm; dual-cure cement selection also involves a pH vs radiopacity trade-off (NX3 Nexus pH 5.84 and less radiopaque vs Variolink N pH 5.32 and 2.00 mmAl radiopacity, Aguirre-Gil 2026).
 
-4편의 in-vitro 연구(2025–2026) 종합 — 전환율(DC) 저하의 근본 원인은 재료 화학이 아니라 **큐어링 팁 거리·노출모드·간접수복 두께**라는 광조사 기하학. 거리 증가는 직접 복합레진의 DC뿐 아니라 세포생존율까지 ISO 임계값 아래로 떨어뜨리며(6mm↑), hybrid ceramic 두께 증가는 같은 광감쇠 문제를 luting cement에 재현 — dual-cure resin cement가 두께 전반 가장 안정적(2.5mm 최고 DC). 임상 함의: DC 문제 해결은 "더 좋은 재료 찾기"가 아니라 "빛 전달 프로토콜 실행"이다.
+Clinical rule: DC failure is a light-delivery-geometry problem, not a material-chemistry problem — minimize curing-tip distance in every increment, prefer dual-cure resin cement under thick indirect restorations (≥2.5 mm), and choose cement based on radiopacity needs; all four studies are in vitro (n=3–7/group, preliminary evidence only).
+
+## 세줄요약
+
+4편의 in-vitro 연구(2025–2026) 종합: 직접 복합레진에서 전환율(Degree of Conversion, DC) 저하의 1차 변수는 큐어링 팁-표면 거리 — 6mm 이상에서 ISO 70% 세포생존율 임계값 미달(Hashemian 2025); 노출 모드(exposure mode)는 하면 DC를 결정해 벌크필(bulk-fill)이 표준 모드에서도 45% 미만으로 떨어짐(Lehmann 2026).
+
+간접수복에서는 하이브리드 세라믹(hybrid ceramic, CAD/CAM) 두께가 광감쇠(light attenuation) 변수: 2.5mm 두께에서 이중중합 레진 시멘트(dual-cure resin cement)만 적절한 DC 유지(30.88%); 플로어블 복합레진은 11.69%로 급락; 이중중합 시멘트 선택에는 pH(NX3 Nexus 5.84, 더 중성) vs 방사선불투과도(Variolink N 2.00mmAl, ytterbium, 유의 우위) 상충관계(Aguirre-Gil 2026).
+
+임상 원칙: DC 저하는 재료 화학 문제가 아니라 광전달 기하학 문제 — 팁 거리 최소화·두꺼운 간접수복(≥2.5mm) 시 이중중합 시멘트 우선·방사선 검출 중요 부위엔 ytterbium계 고radiopacity 선택; 4편 모두 소규모 in-vitro(그룹당 n=3~7)이므로 예비근거로 해석.
 
 ## Summary
 

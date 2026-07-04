@@ -13,11 +13,21 @@ source_collection: external
 tags: [RET, MTA-apical-plug, open-apex, necrotic-pulp, immature-teeth, survival, success]
 ---
 
-## One-line Summary
-SR+MA of RET vs MTA apical plug for necrotic immature teeth: survival (RET 97.8% / MAP 97.1%) and success (RET 91.3% / MAP 94.6%) — no significant difference; low evidence level.
+## Three-line Summary
 
-## 한줄요약
-미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율(RET 97.8%/MAP 97.1%), 성공율(RET 91.3%/MAP 94.6%) — 유의차 없음, 근거 수준 낮음.
+SR+MA (J Endod 2017) comparing regenerative endodontic treatment (RET) versus MTA apical plug (MAP) for immature permanent teeth with necrotic pulps and open apices, pooling survival and success rates.
+
+Survival (RET 97.8% vs MAP 97.1%) and success (RET 91.3% vs MAP 94.6%) were not significantly different; evidence quality was low, with no RCTs included.
+
+Both techniques offer acceptable outcomes, though this early SR predates the root-development endpoint analyses showing RET's biological advantage for root elongation and wall thickening.
+
+## 세줄요약
+
+SR+MA(J Endod 2017)로 미성숙 영구치 치수괴사·개방 치근단에서 재생근관치료(RET) 대 MTA 근단 플러그(MAP)를 생존율·성공율 측면에서 비교.
+
+생존율(RET 97.8% vs MAP 97.1%)과 성공율(RET 91.3% vs MAP 94.6%) 모두 유의차 없음; 포함 연구 대부분이 증례 시리즈·후향 연구로 근거 수준 낮음.
+
+두 방법 모두 수용 가능한 결과를 보이나, 이 초기 SR은 치근 발육(치근 길이·상아질 벽 두께)에서 RET 우위를 보여준 이후 SR+MA들의 분석을 포함하지 않고 있다.
 
 ## Summary
 J Endod 2017 SR+MA. 미성숙 영구치, 치수괴사, 개방 치근단 대상 RET vs MAP 비교. Pooled survival/success rates 분석.

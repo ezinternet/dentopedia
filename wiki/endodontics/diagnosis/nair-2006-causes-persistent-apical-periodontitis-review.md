@@ -18,13 +18,21 @@ relations:
     target: asgary-2024-apical-periodontitis-vital-nonvital
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Nair 2006, Int Endod J) establishing the six biological causes of persistent post-treatment apical periodontitis: intraradicular infection, extraradicular infection (periapical actinomycosis), foreign-body reaction, cholesterol crystals, true apical cysts, and scar tissue healing.
+Landmark narrative review (Nair 2006, Int Endod J) drawing on serial block-biopsy histobacteriology to systematize the six biological causes of persistent post-treatment apical periodontitis: intraradicular biofilm infection, extraradicular infection (periapical actinomycosis), foreign-body reaction, cholesterol crystals, true apical cyst, and scar tissue healing.
 
-## 한줄요약
+Intraradicular biofilm — >1000× more biocide-resistant than planktonic cells and sheltered in uninstrumented apical recesses, isthmuses, and ramifications — is the most frequent cause and the indication for nonsurgical retreatment as the default first step; causes 2–5 are extraradicular or self-sustaining and indicate apical surgery when retreatment cannot succeed.
 
-Nair (2006, Int Endod J) 종설 — 근관치료 후 잔존하는 치근단치주염의 여섯 가지 생물학적 원인(근관 내 감염, 근관 외 감염=치근단 방선균증, 이물반응, 콜레스테롤 결정, 진성 낭종, 반흔 치유)을 정립한 고전 리뷰.
+A true (enclosed-lumen) cyst is unlikely to heal after orthograde retreatment and is distinguished from a pocket/bay cyst only by serial histology; scar tissue is a benign healing variant that should be recognized to avoid over-treatment.
+
+## 세줄요약
+
+Nair (2006, Int Endod J) 연속 블록생검 조직세균학(histobacteriology)에 근거한 이정표적 종설: 근관치료 후 잔존 치근단치주염의 6가지 생물학적 원인 — ①근관 내 바이오필름 감염, ②근관 외 감염(치근단 방선균증), ③이물반응, ④콜레스테롤 결정, ⑤진성 근단 낭종, ⑥반흔 치유 — 을 정립.
+
+근관 내 바이오필름(부유균보다 살균제 내성 >1000배, 미기구 근단부 오목부·협부·분지에 은신)이 가장 빈번한 원인으로, 비외과적 재근관치료가 기본 첫 단계; 원인 2–5는 근관 외 또는 자기지속성이라 재근관치료로 해결 불가 시 외과적 처치 적응증.
+
+진성(폐쇄강) 낭종은 순행 재근관치료 후 치유가 어렵고 포켓/만(bay) 낭종과의 감별은 연속 조직병리로만 가능; 반흔 치유는 양성 치유 변형으로 과잉 치료를 피하기 위해 인식해야 한다.
 
 ## Summary
 

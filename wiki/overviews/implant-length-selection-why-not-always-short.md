@@ -35,11 +35,19 @@ relations:
 > - **결정 4번째(동등 시)**: 숏은 이환·비용·시간·MBL에서 우위, 장축/이식 경로는 ≥5년 publish된 track record에서 우위 → 환자 우선순위로 tie-break.
 > - **오판 패턴**: "7 mm 숏이 되니 거상은 불필요" — RBH·부하가 허용할 때만 참; 허용 안 되면 장축+거상이 자리를 번다.
 
-## One-line Summary
-On survival the short implant (≤8 mm) equals the longer implant — so the real question is not "does short work?" but "when does short *stop* being the better choice?"; the answer is governed by residual bone height, crown-to-implant ratio / occlusal load, the thinner ≥5-year evidence base, and primary stability in poor bone — not by length per se.
+## Three-line Summary
+Synthesis of 7 papers (5 SR+MAs/umbrella, 1 retrospective, 1 prospective) on short vs standard implants: across head-to-head meta-analyses, short implants (≤8 mm) match longer implants on survival at 1–3 years while consistently losing less marginal bone and carrying fewer biological complications (Yu 2021: MBL WMD −0.22; Mester 2023: biological-complication RR 0.46).
 
-## 한줄요약
-생존율만 보면 숏 임플란트(≤8mm)는 더 긴 임플란트와 동등하다. 따라서 진짜 질문은 "숏이 되느냐"가 아니라 "언제 숏이 더 이상 최선이 아니게 되느냐"이며, 그 답은 길이 자체가 아니라 **잔존골고(RBH)·치관-임플란트 비(C/I)/교합부하·얇은 5년 근거·불량골 1차안정성** 네 가지가 결정한다.
+Short implants are not always optimal: residual bone height (RBH) below ~4–5 mm removes the option entirely, unfavorable crown-to-implant ratio / bruxism / long spans concentrate lever-arm stress, and the ≥5-year evidence base bends slightly toward longer implants (Yu 2021 5y RR 0.970 p<0.05; Mester 2023 RR 0.97 p=0.07).
+
+Clinical rule: where RBH and occlusal load permit, the short implant is the lower-morbidity default; where RBH < 4–5 mm or load is hostile and unmitigable, augmentation + standard-length implant earns its place — the 4-mm short implant can survive 8 years at 95% but requires tighter maintenance in the maxilla.
+
+## 세줄요약
+7편 종합(SR+MA/umbrella 5, 후향 1, 전향 1): 숏 임플란트(≤8mm)는 1–3년 head-to-head 메타분석에서 긴 임플란트와 생존율이 동등하면서 변연골소실(MBL)이 더 적고 생물학적 합병증도 더 적다(Yu 2021: MBL WMD −0.22; Mester 2023: 생물학적 합병증 RR 0.46).
+
+숏 임플란트가 최선이 아닌 세 가지 상황 — ①잔존골고(RBH) <4–5 mm이면 자리 자체가 없음, ②불리한 치관-임플란트 비(C/I)/이갈이/긴 span은 lever arm 집중, ③5년 이상 장기 곡선은 장축 쪽으로 경향(Yu 5y p<0.05; Mester RR 0.97 p=0.07).
+
+임상 원칙: RBH·교합부하가 허용하면 숏이 저이환 기본값; 허용하지 않으면 거상+표준 길이가 자리를 번다 — 4mm 숏도 8년 95% 생존 가능하나 상악·초단에서는 유지관리 강화 필수.
 
 ## Thesis
 

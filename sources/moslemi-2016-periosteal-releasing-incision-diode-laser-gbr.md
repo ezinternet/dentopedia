@@ -13,13 +13,23 @@ source_collection: external
 
 Part of the flap-design / tension-free primary closure collection. This case series tests a diode-laser periosteal releasing incision (PRI) as a lower-morbidity alternative to scalpel PRI for achieving tension-free GBR closure, providing the device-level execution of the "periosteal releasing incision" advancement category framed in [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]]. It complements the closure techniques in [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] and [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Case series (17 patients, anterior-maxilla lateral ridge augmentation) showing a 940-nm diode-laser periosteal releasing incision achieved tension-free primary closure in all cases with minimal bleeding, mild pain (VAS 20.6 ± 12.1 mm at day 1), no hematoma/intense swelling, and 100% implant success at 6 months post-loading.
 
-## 한줄요약
+(incomplete)
 
-전상악 측방 골증대 17명 대상 증례군. 940nm 다이오드 레이저 골막이완절개로 전 증례 무장력 일차 봉합 달성, 출혈 최소·통증 경미(1일차 VAS 20.6mm)·혈종/심한 부종 없음, 6개월 부하 후 임플란트 성공률 100%.
+(incomplete)
+
+## 세줄요약
+
+
+전상악 측방 골증대 17명 대상 증례군.
+
+940nm 다이오드 레이저 골막이완절개로 전 증례 무장력 일차 봉합 달성, 출혈 최소·통증 경미(1일차 VAS 20.6mm)·혈종/심한 부종 없음, 6개월 부하 후 임플란트 성공률 100%.
+
+(incomplete)
 
 ## 1. Document Information
 

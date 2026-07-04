@@ -9,7 +9,7 @@ pdf_filename: hajjaj-2022-cleaning-methods-zirconia-sbs.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Materials 2022;15:5068: 5 cleaning methods for contaminated zirconia — evaluated SBS after various cleaning protocols; confirms cleaning mandatory before cementation.
 
 ## 1. Key Results

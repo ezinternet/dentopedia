@@ -13,13 +13,23 @@ source_collection: external
 
 이 EFP 전문가 합의 보고서는 치주 및 임플란트 영역에서 PRO(Patient-Reported Outcome)가 임상가 평가 지표(CRO)와 어떻게 다르고 어떻게 통합되어야 하는지를 체계적으로 정의한 첫 번째 합의 문건으로, [[wiki/behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]]의 개별 연구 결과를 정책·방법론 수준으로 확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 EFP 2025 expert consensus (40 experts, 5 SRs) establishes that clinician-reported aesthetic scores and patient-reported outcomes (PROs) provide complementary but discordant perspectives on root coverage and implant soft-tissue procedures, and calls for their systematic integration in future trials.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 EFP 2025 전문가 합의(전문가 40인, 체계적 고찰 5편): 치근피개술·임플란트 연조직 처치에서 임상가 심미점수와 환자보고결과(PRO)는 보완적이나 불일치하며, 향후 임상시험에서 PRO·CRO·PRE의 통합 보고가 필요하다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -9,7 +9,7 @@ pdf_filename: zhang-2024-arthrocentesis-injectable-agent-tmd-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Systematic review from Chengdu on arthrocentesis (관절천자) combined with injectable agents (HA, corticosteroids, PRP, BTX) for TMD; finds hyaluronic acid and corticosteroids most evidence-supported, with emerging data on PRP.
 
 ## 1. Document Information

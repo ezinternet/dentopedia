@@ -19,13 +19,21 @@ relations:
     target: craddock-2007-overeruption-posterior-teeth-partial-occlusal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional human study (53 individuals, 84 molars unopposed ≥10 years): only 24% showed moderate-to-severe overeruption (≥2 mm) while 18% showed none — not all unopposed molars overerupt, even long-term.
+Cross-sectional clinical and dental-cast study (53 individuals, 84 molars [61 maxillary, 23 mandibular] unopposed ≥10 years) assessing vertical position, rotation, and tipping by qualitative three-category grading.
 
-## 한줄요약
+Only 24% showed moderate-to-severe overeruption (≥2 mm), while 18% showed no overeruption at all; antagonist loss in adult age was associated with lower risk, rotation was more frequent in maxillary molars, and tipping was more common in mandibular molars.
 
-단면 인체 연구 (53명, 10년 이상 대합치 없는 대구치 84개): 18%는 정출 징후가 전혀 없었고 중등도-중증 정출(≥2 mm)은 24%뿐 — 대합치 없는 모든 치아가 정출하는 것은 아니다.
+Not all unopposed molars overerupt even over the long term — this "non-eruptor" finding (~18%) is the foundational reference for clinical decision-making on whether to restore opposing spaces.
+
+## 세줄요약
+
+단면 임상·석고모형 연구(53명, 10년 이상 대합치 없는 대구치 84개[상악 61·하악 23]): 정출 없음·경미·중등도-중증의 3단계로 수직위치, 회전, 경사를 평가했다.
+
+중등도-중증 정출(≥2 mm)은 24%에 불과했고 18%는 전혀 정출하지 않았으며, 성인기 이후 대합치 소실이면 위험이 낮고, 회전은 상악에서, 경사는 하악에서 더 흔했다.
+
+장기간 대합치가 없더라도 모든 대구치가 정출하지는 않는다 — 이 "비정출" 비율(~18%)은 대합치 없는 공간 보철 여부를 결정하는 핵심 근거로 활용된다.
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 심미부 즉시식립+즉시부하 후 연·경조직 변화 SR+MA.
 
 ## 1. Document Information

@@ -13,13 +13,23 @@ source_collection: external
 
 사용자 요청: 용도별 핸드피스·절삭기구 적응증 풀텍스트 인제스트. 위키 오버뷰 [[overviews/dental-handpiece-bur-selection-overview]]가 "레이저 vs bur caries 제거의 임상 결과"를 근거 공백으로 명시했는데, 본 SR+MA(20편, 환자 1090+명)가 바로 그 공백을 메운다. 와동형성 instrument 결과를 다룬 [[dental-handpiece/zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma]](미세누출)를 임상 결과(생존·통증·마취·속도)로 확장.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 20 in-vivo RCTs (≥2263 teeth, >1090 patients) finding laser caries excavation gives restoration survival and pulp vitality equivalent to burs, significantly reduces need for anesthesia and pain, but takes significantly longer — all at low/very-low evidence level.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 생체 RCT 20편(치아 ≥2263개, 환자 1090+명) SR+MA — 레이저 우식 제거는 수복물 생존·치수생활력이 bur와 동등하고 마취 필요·통증을 유의하게 줄이지만 시간이 유의하게 더 걸린다(근거수준 낮음~매우낮음).
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

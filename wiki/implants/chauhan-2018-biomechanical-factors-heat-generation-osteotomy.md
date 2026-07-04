@@ -13,11 +13,21 @@ source_collection: external
 tags: [osteotomy, heat-generation, drill-design, drill-material, drill-wear, irrigation, bone-quality, systematic-review]
 ---
 
-## One-line Summary
-Narrative SR (34 articles, 1992–2015): osteotomy heat generation is multifactorial — drill design, material, and wear; drilling method (intermittent/continuous/sequential); irrigation type and temperature; and bone quality all act independently and interactively, so controlling any single factor is insufficient and heat management requires a multi-factor approach.
+## Three-line Summary
 
-## 한줄요약
-SR(Indian J Dent Res 2018, 34편, 1992-2015): osteotomy 발열은 multifactorial — drill 디자인·재질·마모, drilling method, irrigation, 골질이 모두 독립적·상호작용적으로 작용. 단일 요인 통제만으로는 부족.
+Narrative systematic review (34 articles, 1992–2015; PubMed + manual search) cataloguing the biomechanical determinants of osteotomy heat generation for implant site preparation.
+
+Osteotomy heat is governed by multiple interacting factors — drill geometry, material, wear, drilling method (intermittent > continuous), irrigation type/temperature, bone quality, speed, and axial load — with no single variable dominating.
+
+Clinical heat management requires a multi-factor approach; controlling irrigation alone is insufficient, and worn drills of any design exceed the thermal necrosis threshold — the 2015 evidence cutoff means newer techniques (osseodensification, piezo, guided surgery) are not reflected.
+
+## 세줄요약
+
+서술적 체계적 고찰 (Indian J Dent Res 2018; 34편, 1992–2015; PubMed + 수기 검색): 임플란트 식립부 절제 오목부 (Osteotomy) 발열의 생역학적 결정인자 종합.
+
+발열은 다인자적 — drill 기하학·재질·마모, drilling 방법 (간헐 > 연속), irrigation 종류/온도, 골질, 속도, 축방향 하중이 독립적·상호작용적으로 관여; 단독 지배인자 없음.
+
+임상적 발열 관리는 다인자 접근 필수 — irrigation만으로 불충분; 마모된 drill은 어떤 디자인이든 열 괴사 임계값 초과 가능; 2015년 이전 근거로 골밀도화·압전·가이드 수술은 미반영.
 
 ## Summary
 A narrative systematic review of 34 articles (1992–2015) cataloguing the biomechanical determinants of osteotomy heat generation. The principal conclusion is that heat is governed by multiple interacting factors — drill geometry, material, wear, drilling method (intermittent/continuous/sequential), irrigation type and temperature, bone quality, speed, and load. No single variable dominates; clinical management must address several simultaneously.

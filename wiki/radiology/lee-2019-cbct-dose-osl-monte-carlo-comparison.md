@@ -16,13 +16,21 @@ relations:
     target: ozaki-2021-cbct-effective-dose-monte-carlo-simulation
 ---
 
-## One-line Summary
+## Three-line Summary
 
-OSLD vs Monte Carlo CBCT dosimetry across 2 units/4 modes; effective-dose discrepancy 4.0–14.3%, narrowing as FOV shrinks.
+In-vitro dosimetry study comparing optically stimulated luminescence dosimetry (OSLD) against Monte Carlo (PCXMC) for effective-dose estimation across two CBCT units (CS9300, RAYSCAN α+) and four scan modes using an anthropomorphic head-and-neck phantom.
 
-## 한줄요약
+OSLD effective dose was generally higher than Monte Carlo, with percent discrepancy of 4.0–14.3% across modes; the discrepancy narrowed as FOV decreased, and organ-dose patterns were broadly consistent between methods.
 
-CBCT 선량 OSLD vs 몬테카를로(2기종·4모드). 유효선량 차이 4.0~14.3%, FOV 작을수록 감소.
+Both dosimetry methods are viable; the choice is a practicality/efficiency trade-off, and clinicians should account for method-dependent differences when interpreting published CBCT dose figures.
+
+## 세줄요약
+
+두부·경부 인체 팬텀을 이용해 2개 CBCT 기종(CS9300·RAYSCAN α+), 4개 촬영 모드에서 광자극발광선량계(OSLD, Optically Stimulated Luminescence Dosimetry)와 몬테카를로(PCXMC)를 비교한 체외 선량 측정 연구.
+
+OSLD 유효선량이 몬테카를로보다 전반적으로 높았으며(차이 4.0~14.3%), FOV가 작을수록 두 방법 간 차이가 감소; 장기 선량 패턴은 양 방법 간 대체로 일치.
+
+두 방법 모두 실용적이나, 발표된 CBCT 선량값을 해석할 때 측정 방법에 따른 차이를 반드시 고려해야 함.
 
 ## Summary
 

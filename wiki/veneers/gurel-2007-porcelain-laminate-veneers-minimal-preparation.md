@@ -18,13 +18,21 @@ relations:
     target: chandode-2026-no-preparation-conventional-veneers-clinical-considerations
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Seminal clinical-technique / narrative paper establishing the Aesthetic Pre-evaluative Temporary (APT) workflow (mock-up → wax-up → APT → silicone index) so porcelain laminate veneer teeth are prepared *through* the patient-approved provisional — referencing reduction to the final restorative contour rather than the existing tooth, to preserve enamel and align dentist, patient, and ceramist on one outcome.
+Seminal clinical-technique paper (Dent Clin N Am 2007) establishing "minimal tooth preparation by design" — a three-step analog workflow (mock-up → wax-up → APT → silicone index) where the tooth is prepared through the patient-approved aesthetic pre-evaluative temporary (APT) rather than directly on enamel, referencing reduction to the final restorative contour.
 
-## 한줄요약
+The APT serves both as a patient esthetic/phonetic/functional test drive before irreversible preparation and as the physical preparation guide: the same silicone index is passed to the ceramist so the laboratory reproduces the exact patient-approved contours.
 
-도재 라미네이트 비니어(Porcelain Laminate Veneer, PLV)의 "설계에 의한 최소 삭제(minimal preparation by design)" 철학을 정립한 임상 기법/내러티브 논문 — 목업→왁스업→심미 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)→실리콘 인덱스를 만든 뒤, 기존 치아가 아닌 환자가 승인한 최종 윤곽을 기준으로 APT를 통과해 삭제함으로써 법랑질(enamel)을 보존하고 술자·환자·기공사가 하나의 결과에 합의하게 한다.
+The conceptual contribution — that PLVs are conservative only when case selection, functional evaluation, and this communication chain are respected — became the foundational rationale for all subsequent digital and mock-up-guided minimal-preparation approaches; no quantitative outcome data are reported.
+
+## 세줄요약
+
+임상 기법 논문 (Dent Clin N Am 2007): "설계에 의한 최소 삭제(Minimal Preparation by Design)" 정립 — 목업→왁스업→심미 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)→실리콘 인덱스의 3단계 아날로그 워크플로우, 기존 치아가 아닌 APT를 통해 삭제.
+
+APT는 비가역적 삭제 전 환자의 심미·발음·기능 사전 평가 수단인 동시에 삭제 가이드; 동일 실리콘 인덱스를 기공소에 전달해 환자 승인 윤곽을 기공물로 재현.
+
+도재 라미네이트 비니어(Porcelain Laminate Veneer, PLV)가 "보존적"이 되려면 증례 선택·기능 평가·소통 체계가 모두 갖춰져야 한다는 원칙 정립 — 이후 디지털 스마일 디자인(Digital Smile Design, DSD)·CAD-CAM 목업 기반 최소삭제의 개념적 토대; 수치적 결과 데이터 없음.
 
 ## Summary
 

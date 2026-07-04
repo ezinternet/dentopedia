@@ -17,13 +17,23 @@ text_filename: sirri-2026-physical-adjunctive-interventions-clear-aligner-rct-sr
 
 Covers the **acceleration / adjunct axis** of clear-aligner-treatment (CAT) limitations: can vibration or low-level laser shorten treatment, improve tracking, or reduce pain? The efficacy anchor [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] establishes CA≈FA occlusal equivalence in simple cases; this paper tests whether physical adjuncts move that needle and answers no (low/very-low certainty). It also contextualizes the [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] umbrella by showing the aligner-change cadence — not the device — drives tracking/time.
 
-## One-line Summary
+## Three-line Summary
 
-First RCT-only SR (7 RCTs, n=266) of physical adjunctive interventions (vibration, LLLT) in clear aligner treatment: no consistent benefit on alignment (Little's Irregularity Index MD 0.08 maxilla p=0.869, 0.44 mandible p=0.487), case completion (p=0.999), compliance (~77%, p=0.390) or QoL; only transient day-1–3 pain reduction; GRADE low to very low.
 
-## 한줄요약
+First RCT-only SR (7 RCTs, n=266) of physical adjunctive interventions (vibration, LLLT) in clear aligner treatment: no consistent benefit on alignment (Little's Irregularity Index MD 0.08 maxilla p=0.869, 0.44 mandible p=0.487), case completion (p=0.999), compliance (~77%, p=0.390) or QoL;
 
-투명교정(CAT)에 물리적 보조요법(진동·저출력레이저)을 더한 RCT 7편(n=266) 첫 SR: 정렬(Little 불규칙지수 상악 MD 0.08 p=0.869, 하악 0.44 p=0.487)·완료율(p=0.999)·순응도(~77%, p=0.390)·삶의질 모두 일관된 이득 없음. 통증만 1~3일 일시 감소. GRADE 확실성 low~very low.
+only transient day-1–3 pain reduction;
+
+GRADE low to very low.
+
+## 세줄요약
+
+
+투명교정(CAT)에 물리적 보조요법(진동·저출력레이저)을 더한 RCT 7편(n=266) 첫 SR: 정렬(Little 불규칙지수 상악 MD 0.08 p=0.869, 하악 0.44 p=0.487)·완료율(p=0.999)·순응도(~77%, p=0.390)·삶의질 모두 일관된 이득 없음.
+
+통증만 1~3일 일시 감소.
+
+GRADE 확실성 low~very low.
 
 ## 1. Document Information
 

@@ -16,11 +16,21 @@ relations:
     target: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb
 ---
 
-## One-line Summary
-In-vivo clinical trial (n=100 adults): rice-nanogel (RNG) topical anesthetics with 5%/20% lidocaine or prilocaine reduced needle-insertion pain in buccal mucosa below both placebo and commercial gels, best with 20% formulations.
+## Three-line Summary
 
-## 한줄요약
-In-vivo 임상시험(성인 100명): rice nanogel에 lidocaine·prilocaine 5%/20%를 담은 표면마취제가 needle 자입 통증을 위약·상용겔보다 더 낮췄고 20% 제형이 최우수.
+In-vivo clinical efficacy trial (n=100 healthy adults, 25–60 y) testing four rice-nanogel (RNG) topical anesthetic formulations (5%/20% lidocaine HCl or prilocaine HCl) against placebo RNG and three commercial gels for buccal-mucosa needle-insertion pain.
+
+All anesthetic RNG groups produced lower needle-stick pain than placebo; 20% formulations outperformed 5% and commercial gels, with patients preferring higher drug-content RNG, attributed to superior mucoadhesion from the modified-rice nanoparticle carrier (485 ± 70 nm).
+
+This first clinical evaluation of rice-based nanogel as an oral topical-anesthetic vehicle demonstrates a concentration-dependent benefit and potential to outperform conventional commercial gels, though specific effect-size data are limited in the source.
+
+## 세줄요약
+
+In-vivo 임상시험 (n=100 건강 성인, 25–60세): 변성 쌀 기반 나노겔(RNG)에 5%/20% 리도카인 또는 프릴로카인을 담은 4가지 표면마취제를 위약 RNG·상용겔 3종과 협측 점막 자침 통증으로 비교.
+
+모든 마취제 RNG군이 위약보다 낮은 통증; 20% 제형이 5% 및 상용겔보다 우수, 환자 선호도도 고농도 RNG에서 높았으며, 이는 쌀 나노입자(485±70nm)의 우수한 점막부착력에 기인.
+
+쌀 기반 나노겔을 구강 표면마취 전달체로 처음 임상 평가한 연구로, 농도 의존적 효과와 상용겔 초과 가능성을 보여주나 구체적 효과 크기 데이터는 원문에 제한적.
 
 ## Summary
 This in-vivo study tested whether a novel mucoadhesive delivery vehicle — a nanogel built from modified rice as gelling agent (particle size 485 ± 70 nm) — improves the clinical efficacy of topical dental anesthetics. Lidocaine HCl and prilocaine HCl were loaded at 5% and 20% into the rice nanogel (RNG) and applied to buccal mucosa of 100 healthy adults before needle insertion. Anesthetic RNG produced lower needle-stick pain than both placebo (RNG base) and three commercial topical gels, with the 20% formulations performing best, and patients preferred the higher-drug-content RNG.

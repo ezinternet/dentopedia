@@ -9,7 +9,7 @@ pdf_filename: mohammadi-2019-smear-layer-irrigants-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review of smear layer removal efficacy of root canal irrigants: MTAD fastest overall; QMix ≈ EDTA; maleic acid ≈ EDTA; HEBP (etidronate) weakest; NaOCl alone inadequate.
 
 ## 1. Document Information

@@ -17,13 +17,23 @@ text_filename: naghsh-2024-comparison-four-decontamination-procedures-reusing.tx
 
 [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]]의 핵심 결론("어떤 재멸균 프로토콜도 표면을 100% virgin 상태로 되돌리지 못한다")을 프로토콜-대-프로토콜 head-to-head in vitro로 정량 검증하기 위해 인제스트. 이 논문은 오토클레이브+초음파 baseline 위에 4개 화학·기계 보조법을 얹어 직접 비교하고, 어떤 군에서도 오염이 완전 제거되지 않음을 재확인하면서 동시에 3% NaOCl과 air polishing(glycine)을 body-surface 오염 저감에 가장 효과적인 보조법으로 지목한다 — "reuse decontamination 후보 순위"를 만든다는 점에서 anchor SR을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study of 50 used healing abutments (DIO UFII) across 5 groups (all ultrasonic + autoclave; +3% NaOCl / +12% CHX / +air polishing(glycine) / +3% H2O2): occlusal-surface residual protein did not differ between groups (p=0.26), but on the body/shank surface air polishing (1.7±1.1) and NaOCl (2.4±1.1) left significantly less contamination than control (6.1), H2O2 (4.6), or CHX (5.4) (p<0.05) — yet contamination was never fully eliminated in any group.
 
-## 한줄요약
+In vitro study of 50 used healing abutments (DIO UFII) across 5 groups (all ultrasonic + autoclave;
 
-사용된 치유 지대주(healing abutment, HA) 50개(DIO UFII)를 5군(전부 초음파+오토클레이브; +3% NaOCl / +12% CHX / +air polishing(글리신) / +3% H2O2)으로 비교한 in vitro 연구: 교합면 잔류 단백질은 군 간 차이 없음(p=0.26)이었으나, body/shank 면에서는 air polishing(1.7±1.1)과 NaOCl(2.4±1.1)이 대조군(6.1)·H2O2(4.6)·CHX(5.4)보다 유의하게 오염이 적었다(p<0.05) — 그러나 어떤 군에서도 오염이 완전히 제거되지는 않았다.
++3% NaOCl / +12% CHX / +air polishing(glycine) / +3% H2O2): occlusal-surface residual protein did not differ between groups (p=0.26), but on the body/shank surface air polishing (1.7±1.1) and NaOCl (2.4±1.1) left significantly less contamination than control (6.1), H2O2 (4.6), or CHX (5.4) (p<0.05) — yet contamination was never fully eliminated in any group.
+
+(incomplete)
+
+## 세줄요약
+
+
+사용된 치유 지대주(healing abutment, HA) 50개(DIO UFII)를 5군(전부 초음파+오토클레이브;
+
++3% NaOCl / +12% CHX / +air polishing(글리신) / +3% H2O2)으로 비교한 in vitro 연구: 교합면 잔류 단백질은 군 간 차이 없음(p=0.26)이었으나, body/shank 면에서는 air polishing(1.7±1.1)과 NaOCl(2.4±1.1)이 대조군(6.1)·H2O2(4.6)·CHX(5.4)보다 유의하게 오염이 적었다(p<0.05) — 그러나 어떤 군에서도 오염이 완전히 제거되지는 않았다.
+
+(incomplete)
 
 ## 1. Document Information
 

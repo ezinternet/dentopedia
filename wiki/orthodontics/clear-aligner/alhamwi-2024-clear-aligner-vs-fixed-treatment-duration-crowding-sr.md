@@ -16,13 +16,21 @@ text_filename: alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-s
 tags: [clear-aligner, fixed-appliance, treatment-duration, crowding, grade, time-efficiency]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (10 studies, 6 RCTs; GRADE low): in mild-to-moderate crowding, treatment duration with clear aligners is similar to fixed appliances; no meta-analysis (high inconsistency); duration also driven by patient/treatment factors.
+Systematic review (3537→10 studies, 6 RCTs, 9 non-extraction; 9 databases to June 2023; RoB 2/ROBINS-I; GRADE) comparing treatment duration of clear aligners vs fixed appliances in mild-to-moderate crowding cases.
 
-## 한줄요약
+No significant difference in treatment duration between clear aligners and fixed appliances in mild-to-moderate crowding (GRADE: low certainty); meta-analysis was not feasible due to high inconsistency; treatment duration is shaped by patient- and treatment-related factors beyond appliance type.
 
-SR(10편, RCT 6편; GRADE low): 경중등도 crowding에서 CA와 FA의 치료기간 유사. 이질성 커서 MA 미시행. 기간은 환자·치료 요인에도 좌우.
+Duration parity holds for simple non-extraction crowding, but contrasts with a fixed-appliance advantage in extraction cases (Jaber 2023) — the practical answer to "are aligners slower?" is case-class dependent.
+
+## 세줄요약
+
+체계적 문헌고찰(9개 DB, 2023.6까지, 3537→10편, RCT 6편, 비발치 9편; RoB 2/ROBINS-I; GRADE) — 경중등도 총생에서 투명교정장치(Clear Aligner, CA) vs 고정장치(Fixed Appliance, FA) 치료기간 비교.
+
+경중등도 총생에서 CA와 FA 치료기간에 유의한 차이 없음(GRADE: low); 이질성 높아 메타분석(MA) 미시행; 치료기간은 장치 종류 외 환자·치료 관련 요인에도 좌우됨.
+
+단순 비발치 총생에서는 기간 동등하나, 발치 증례에서는 FA 우위(Jaber 2023)와 대비 — "aligners가 더 느린가" 질문의 답은 증례 복잡도에 따라 다름.
 
 ## Summary
 

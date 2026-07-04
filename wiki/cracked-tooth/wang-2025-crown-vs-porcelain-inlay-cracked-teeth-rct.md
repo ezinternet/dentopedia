@@ -19,13 +19,21 @@ relations:
     target: zhang-2024-cracked-teeth-treatment-outcomes-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective RCT (n=106, post-RCT cracked teeth): porcelain inlay outperformed full crown on success rate, day-1/3/7 VAS pain, 6-month gingival indices, masticatory efficiency, and bite force (all P<0.05). (Abstract-only; Chinese-language study.)
+Prospective RCT (n=106, 53 per arm, post-root-canal cracked teeth, Dec 2020–Dec 2023) comparing full crown vs porcelain inlay as definitive restoration; abstract-only, Chinese-language study.
 
-## 한줄요약
+Porcelain inlay showed significantly lower VAS pain at days 1/3/7 (4.43/3.15/2.04 vs 4.86/3.81/2.86), better gingival indices (GI, PLI, BI, PD) at 6 months, and higher masticatory efficiency (92.57% vs 84.26%) and bite force (143.54 vs 125.36 lbs) at 6 months (all P<0.05).
 
-전향적 RCT (n=106, 근관치료 후 균열치): 포세린 인레이가 전부피개관(full crown)보다 성공률·1/3/7일 VAS 통증·6개월 치은지수·저작효율·교합력 모두에서 우수 (모두 P<0.05). (초록만 확보; 중국어 논문.)
+Short follow-up (≤6 months), abstract-only, no DOI, and Chinese-language limit generalizability; the finding that a conservative intracoronal restoration outperforms cuspal coverage contrasts with the broader cracked-tooth literature and requires corroboration from longer, higher-quality trials before changing practice.
+
+## 세줄요약
+
+전향적 RCT (n=106, 각 53명, 근관치료 후 균열치, 2020-12~2023-12) 포세린 인레이 vs 전부피개관(full crown) 비교; 초록만 확보된 중국어 논문.
+
+포세린 인레이 군이 VAS 통증(1/3/7일: 4.43/3.15/2.04 vs 4.86/3.81/2.86), 6개월 치은지수(GI·PLI·BI·PD), 저작효율(92.57% vs 84.26%), 교합력(143.54 vs 125.36 lbs) 모두에서 유의하게 우수(모두 P<0.05).
+
+추적 최대 6개월·초록만·DOI 없음·중국어로 일반화 제한; 보존적 관내 수복이 교두피개를 능가한다는 방향은 균열치 주류 문헌과 상충하므로 단독 근거로 임상 변경 불가.
 
 ## Summary
 

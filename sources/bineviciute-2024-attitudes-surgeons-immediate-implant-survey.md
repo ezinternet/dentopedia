@@ -13,13 +13,21 @@ source_collection: external
 
 즉시식립(IDIP) 적응증·금기에 대한 임상가(구강외과의·치주과의)의 실제 의사결정 기준과 분류체계 사용 실태를 조사한 단면연구 — 근거(소켓 형태 분류·치근단 병소 기준)와 임상 행태의 간극을 드러낸다. 소켓 형태 분류를 다룬 [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]와 치근단 병소 기준인 [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]의 임상 적용 맥락.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 186 Lithuanian oral surgeons and periodontists on immediate-implant decision-making; a periapical lesion >5 mm was the dominant contraindication (91.7%/96.9%), esthetics/structure preservation the chief advantage, yet only ~34–43% routinely use extraction-socket morphology classifications.
+Cross-sectional anonymous survey of 186 Lithuanian oral surgeons (n=127) and periodontists (n=59) on immediate dental implant placement (IDIP) decision-making criteria.
 
-## 한줄요약
+Periapical lesion >5 mm was the dominant contraindication (91.7% OS / 96.9% perio); esthetics/anatomy preservation was the chief advantage (99.2% OS / 92.3% perio); periodontists prioritized soft-tissue quality while oral surgeons prioritized bone-wall morphology for esthetic-zone decisions.
 
-리투아니아 구강외과의·치주과의 186명 단면조사 — 즉시식립의 주된 금기는 5 mm 초과 치근단 병소(91.7%/96.9%), 주된 장점은 심미·구조 보존이었으나, 발치와 형태 분류체계를 일상적으로 쓰는 비율은 ~34–43%에 불과했다.
+Only ~34–43% of clinicians routinely use extraction-socket morphology classifications, revealing a gap between available evidence-based frameworks and clinical uptake.
+
+## 세줄요약
+
+리투아니아 구강외과의·치주과의 186명 대상 단면 익명 설문 — 즉시식립(IDIP) 의사결정 기준 조사.
+
+주된 금기는 5 mm 초과 치근단 병소(구강외과의 91.7%, 치주과의 96.9%); 주된 장점은 심미·해부학적 구조 보존(각 99.2%, 92.3%); 심미 구역에서 치주과의는 연조직 양·질, 구강외과의는 골벽 형태를 우선 기준으로 삼았다.
+
+발치와 형태 분류체계를 일상적으로 사용하는 비율은 치주과의 43.1%, 구강외과의 33.9%에 불과 — 근거와 임상 행태의 간극을 드러냄.
 
 ## 1. Document Information
 

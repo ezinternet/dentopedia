@@ -20,13 +20,22 @@ relations:
     target: halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, 13 studies: 5 clinical trials + 8 case-control) finding the evidence for antihypertensive drugs causing more xerostomia/hyposalivation than controls is inconclusive and of low methodological quality overall — clinical trials show mixed/non-significant salivary flow changes, while case-control studies more consistently (though not uniformly) show lower salivary flow in antihypertensive-treated patients, with no single drug class identifiable as most xerogenic due to study heterogeneity.
+PRISMA systematic review (13 studies: 5 clinical trials + 8 case-control) of antihypertensive drugs (β-blockers, ACE inhibitors, diuretics, calcium channel blockers, centrally-acting agents) versus untreated controls for xerostomia, hyposalivation, and salivary flow rate.
 
-## 한줄요약
+Current literature cannot confirm that antihypertensive-treated patients suffer more xerostomia or hyposalivation than untreated patients; clinical trials gave mixed or non-significant results (one trial found captopril significantly increased parotid flow), while case-control studies more consistently showed lower salivary flow in treated patients — but overall quality was poor-to-fair.
 
-체계적 문헌고찰(PRISMA, 13편: RCT 5편+환자대조군 8편) — 항고혈압제 복용군이 대조군보다 미각/침분비저하(xerostomia/hyposalivation)가 더 심하다는 확증적 근거는 부족하며 전반적 방법론적 질도 낮음; 임상시험은 침분비량 변화가 혼재되고 유의성 없음이 많았으나, 환자대조군 연구는(완전히 일관되지는 않지만) 대체로 항고혈압제군의 침분비량이 낮았음; 연구 이질성으로 어떤 약물군이 가장 침분비저하를 유발하는지 특정 불가.
+No single antihypertensive class can be identified as most xerogenic, and none of the 13 studies used the Xerostomia Inventory (the only validated tool for medication-induced xerostomia); individual patient assessment is more appropriate than blanket drug-class assumptions.
+
+## 세줄요약
+
+PRISMA 체계적 문헌고찰 (13편: 임상시험 5 + 환자대조군 8) — 항고혈압제(베타차단제·ACE억제제·이뇨제·칼슘채널차단제·중추성 제제) 복용군 vs 무처치 대조군의 구강건조증·침분비저하 비교.
+
+항고혈압제 복용군이 대조군보다 구강건조증/침분비저하가 더 심하다는 결론 불가; 임상시험은 혼재·비유의(캅토프릴은 이하선 침분비 유의 증가), 환자대조군은 대체로 침분비 감소 경향 — 그러나 전반적 방법론 질 낮음~보통.
+
+가장 침분비저하를 일으키는 약물군 특정 불가; 13편 모두 유일한 검증 도구인 Xerostomia Inventory 미사용; 고혈압 환자의 구강건조 호소에는 약물군별 가정보다 개별 환자 평가가 적합.
+
 
 ## Summary
 

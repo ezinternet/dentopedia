@@ -9,7 +9,7 @@ pdf_filename: galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA of 102 studies (13,030 patients): peri-implant mucositis 46%, peri-implantitis 21%; periodontitis and smoking are risk indicators for both; diabetes and obesity additionally relevant.
 
 ## 1. Document Information

@@ -9,8 +9,21 @@ pdf_filename: bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Cochrane systematic review comparing surgical techniques for mandibular wisdom tooth removal, including flap design, lingual nerve protection, and bur vs. chisel techniques, across multiple RCT outcomes (alveolar osteitis, infection, nerve injury, pain, swelling, trismus).
+## Three-line Summary
+
+Cochrane systematic review (3rd edition, CD004345) including multiple RCTs that compared surgical technique variables — flap design, lingual nerve protection, bone removal method (bur vs. chisel), and wound closure — for mandibular wisdom tooth extraction.
+
+No single technique was clearly superior; evidence certainty was low for most comparisons due to high between-study heterogeneity in outcome measurement and risk-of-bias concerns in included trials.
+
+Well-designed RCTs with standardized outcome reporting are needed; current evidence is insufficient to make definitive recommendations about optimal flap design or lingual nerve protection for preventing alveolar osteitis, infection, or permanent altered sensation.
+
+## 세줄요약
+
+Cochrane 체계적문헌고찰(3판, CD004345) — 하악 사랑니 발치 시 피판 디자인·설신경 보호·골제거 방법(버 vs 끌)·창상 폐쇄 등 술기 변수를 비교한 다수 RCT 포함.
+
+어떤 단일 술기도 명확한 우위가 없었고, 연구 간 이질성과 비뚤림 위험으로 대부분 비교에서 근거수준이 낮음.
+
+건조와(Alveolar Osteitis, 건성소켓)·창상감염·영구적 신경손상에 대해 최적 피판 설계나 설신경 보호에 관한 확실한 권고를 위해서는 표준화된 결과 보고를 갖춘 RCT가 필요하다.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews 2020, Issue 7, Art. No.: CD004345

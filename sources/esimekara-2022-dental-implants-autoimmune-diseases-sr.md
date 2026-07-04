@@ -13,13 +13,23 @@ source_collection: external
 
 Seeds the autoimmune-disease dental-treatment evidence cluster: this is the most comprehensive systematic review of dental implants across autoimmune diseases (55 studies, 9 distinct conditions) and serves as the hub of the batch, complementing the disease-specific sibling [[wiki/implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] (Sjögren-only SR). It reinforces the broad "systemic disease rarely contraindicates implants if hygiene/recall are strict" position of [[wiki/implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]].
 
-## One-line Summary
+## Three-line Summary
+
 
 PRISMA systematic critical review (55 studies, 9 autoimmune diseases) finding dental implant survival comparable to the general population, though secondary Sjögren's and erosive oral lichen planus raise peri-mucositis and marginal bone loss risk.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 PRISMA 체계적 비판적 고찰 (55편, 자가면역질환 9종): 치과 임플란트 생존율은 일반 인구와 동등하나, 이차 쇼그렌증후군과 미란성 구강편평태선에서 임플란트주위점막염(peri-mucositis)과 변연골소실(MBL) 위험이 증가.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

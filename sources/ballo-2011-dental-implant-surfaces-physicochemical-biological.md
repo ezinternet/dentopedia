@@ -13,13 +13,21 @@ source_collection: external
 
 임플란트 표면처리(Surface Treatment) 카테고리의 기반 참조문헌으로 활용. SLA, 산화처리, HA 코팅, 나노표면 등 주요 표면처리 기술의 물리화학적 특성과 골반응을 체계적으로 정리한 InTech 북챕터로, [[implants/surface]] 카테고리의 개념적 토대를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-2011 InTech narrative review covering titanium implant surface types (machined, sandblasted, SLA, anodized, HA-coated, nano), their physicochemical properties, and mechanisms of bone response including inflammation, MSC recruitment, and osseointegration.
+Narrative review/book chapter (InTech 2011; Gothenburg/Uppsala groups) synthesizing in vitro, animal, and limited clinical evidence on titanium dental implant surface modifications — machined, sandblasted, acid-etched, SLA, anodically oxidized, HA-coated, bioactive glass, and nanostructured surfaces.
 
-## 한줄요약
+Moderately rough surfaces (Sa 1.0–2.0 μm) optimize osseointegration; anodically oxidized (TiUnite) surfaces upregulate CXCR4 11-fold vs machined at 12 hours, driving MSC recruitment; HA and bioactive glass coatings enhance early BIC but carry long-term delamination risk; nano-surfaces show promise in vitro without RCT evidence as of 2011.
 
-2011년 InTech 내러티브 리뷰 — 티타늄 임플란트 표면처리 종류(기계가공, 샌드블라스팅, SLA, 양극산화, HA코팅, 나노표면)별 물리화학적 특성과 골반응 기전(염증, 줄기세포 모집, 골유착)을 체계적으로 정리.
+As a 2011 narrative review, it lacks systematic search methodology and predates clinical RCT evidence for most nano/bioactive coatings; it serves as a conceptual foundation for the implant surface category rather than a clinical guideline.
+
+## 세줄요약
+
+내러티브 리뷰/북챕터(InTech 2011; 예테보리·웁살라 그룹) — 기계가공·샌드블라스팅·산부식·SLA·양극산화·HA코팅·생체활성유리·나노표면을 in vitro·동물·제한적 임상 근거를 종합해 기술.
+
+중등도 거칠기 표면(Sa 1.0–2.0 μm)이 골유착 최적; 양극산화(TiUnite)는 12시간에 CXCR4 11배 상향조절(줄기세포 모집); HA·생체활성유리는 초기 BIC 향상 but 장기 박리 위험; 나노표면은 in vitro 유망하나 2011년 기준 RCT 없음.
+
+2011년 서술적 리뷰로 체계적 검색 없고 나노/생체활성 코팅 임상 RCT 이전 — 임상 지침보다 임플란트 표면 카테고리의 개념적 토대로 활용.
 
 ## 1. Document Information
 

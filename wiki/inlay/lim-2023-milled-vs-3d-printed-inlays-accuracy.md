@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-In vitro study (n=52, 13 per group) comparing marginal/internal fit and 3D accuracy of Class II inlays made by four methods (conventional resin, milled hybrid ceramic, milled zirconia, 3D-printed resin): all CAD/CAM methods showed clinically acceptable marginal fit (<120 μm) with no significant internal-fit differences, and 3D-printed inlays were comparable to milled options.
+## Three-line Summary
+In-vitro study (n=52 Class II inlays, 13 per group, digital microscopy at 160×) comparing marginal/internal fit and 3D accuracy of four fabrication methods: conventional resin (TS), milled hybrid ceramic (Lava Ultimate/LU), milled zirconia (Zolid Fx/ZR), and 3D-printed resin (NextDent C&B).
 
-## 한줄요약
-인비트로(n=52): 전통레진·밀링 하이브리드(Lava Ultimate)·밀링 지르코니아·3D프린팅(NextDent) 인레이 4그룹 변연·내부 적합도 및 3D 정확도 비교; 모든 CAD/CAM 방식 허용 범위 내
+All CAD/CAM methods achieved clinically acceptable marginal fit (<120 μm) with no significant internal-fit differences; 3D-printed inlays showed comparable marginal accuracy to milled groups; milled zirconia showed the highest 3D dimensional accuracy by digital superimposition.
+
+3D printing produced inlays with acceptable fit comparable to established CAD/CAM milling, supporting its use as a digital fabrication alternative for inlay restorations.
+
+## 세줄요약
+인비트로(n=52; 클래스 II 인레이 각 그룹 13개; 디지털 현미경 160×): 4가지 제작 방법 — 전통레진(TS)·밀링 하이브리드(Lava Ultimate/LU)·밀링 지르코니아(Zolid Fx/ZR)·3D프린팅(NextDent C&B) — 변연·내부 적합도 및 3D 정확도 비교.
+
+모든 CAD/CAM 방식 임상 허용 변연 간격(<120 μm) 달성; 내부 적합도 군간 유의차 없음; 3D프린팅 변연 정확도 밀링과 동등; 지르코니아 밀링이 3D 치수 정확도 최고.
+
+3D프린팅 인레이가 기존 CAD/CAM 밀링에 상응하는 적합도로, 인레이 수복의 대안적 디지털 제작 방법으로 활용 가능.
 
 ## Summary
 In vitro comparison (n=52) of marginal/internal fit and 3D accuracy of Class II inlays fabricated by four methods: conventional resin (TS), milled hybrid ceramic (Lava Ultimate/LU), milled zirconia (Zolid Fx/ZR), and 3D-printed resin (NextDent C&B). All CAD/CAM methods demonstrated acceptable marginal fit. Digital fabrication methods compared for chairside and laboratory applications.

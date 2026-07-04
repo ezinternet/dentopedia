@@ -27,13 +27,21 @@ tags: [endodontics, postoperative-pain, flare-up, irrigation-activation, niti-ki
 > - 임상 권고: ① 증상성 치아를 술후 통증 고위험군으로 분류해 예방적/구조적 진통 계획 우선(술식 선택보다 영향 큼), ② 근단 밖 압출 최소화(측방배출침·MDI 회피·근단 patency 절제·정확한 WL), ③ 세정 활성화는 통증 목적이면 LAI 선호·MDI 회피(그러나 대부분 근거 low confidence), ④ EAL vs 방사선·rotary vs reciprocating는 통증만으로 결정하지 말고 정확도·해부·비용·피폭으로 결정.
 > - 근거 한계: SR 2편은 이질성으로 메타분석 불가(정성종합, GRADE 낮음~매우낮음), 네트워크 메타회귀는 CINeMA 신뢰도 대부분 낮음, RCT는 소표본·단일센터·비맹검 다수. 임상 외삽은 상당 부분 [claude해석].
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 5 post-endodontic-pain papers (3 RCTs + 2 systematic reviews, incl. one Bayesian network meta-regression): post-operative endodontic pain is multifactorial and dominated by preoperative symptomatic status rather than by the choice of instrument kinematics or working-length method — pain peaks at 6–24 h and resolves by 7–14 days across all techniques; EAL vs radiographic working length and rotary vs reciprocating kinematics show no pain difference, whereas irrigation choices that reduce apical extrusion (laser-activated or ultrasonic activation, side-vented needles; avoiding manual-dynamic irrigation and hand files) consistently lower early pain, and a single 30-s LLLT application matches a 1-week calcium-hydroxide dressing for acute symptom control.
+Synthesis of 5 post-endodontic-pain papers (3 RCTs, 2 SRs including a Bayesian 7-technique network meta-regression): post-operative pain is multifactorial and dominated by preoperative symptomatic status — all 7 treatment-specific slopes for symptomatic status were positive with credible intervals excluding zero (Hatipoğlu 2025 network meta-regression); pain follows a technique-independent 6–24 h peak → 7–14 day resolution curve regardless of protocol; EAL vs radiographic working length shows no pain difference (4 RCTs, n=414, very low certainty); rotary vs reciprocating kinematics in retreatment shows no pain difference (5 RCTs, n=554) though hand files cause significantly more pain at 48 h.
 
-## 한줄요약
+Irrigation choices that minimize apical extrusion consistently lower early pain: laser-activated irrigation (LAI) ranked first (SUCRA 85%) and manual dynamic irrigation (MDI) ranked last (SUCRA 1.5%) in the 7-technique NMA (Hatipoğlu 2025, 31 studies, n=2,595); only LAI vs MDI exceeded MCID (MD −2.46 VAS); in a necrotic-molar RCT, both passive ultrasonic irrigation (PUI) and side-vented needle (SNI) outperformed conventional open-ended needle (CNI) at 24–72 h with no PUI/SNI difference — suggesting lateral-flow extrusion control equals acoustic activation (Zarei 2026, Bayesian RCT).
 
-근관치료 후 통증 RCT 3편·SR 2편 통합. ①시간 경과 — 모든 술식에서 6~24h 최고 후 7~14일 소실. ②근관장측정(EAL vs 방사선)·kinematics(rotary vs reciprocating)는 통증 차이 없음. ③세정은 근단 밖 압출을 줄이는 선택(LAI·초음파·측방배출침, MDI·손파일 회피)이 초기 통증을 낮춤 — LAI 1위, MDI 최하위. ④LLLT 30초 = 수산화칼슘 1주 첩약(급성 증상). ⑤최강 변수는 술식이 아니라 술전 증상 상태.
+A single 30-second LLLT application equals a 1-week calcium hydroxide dressing for acute symptom control in symptomatic apical periodontitis (n=46; pain at 6/12/24/48 h + percussion pain + IL-8/Substance P indistinguishable; Otaify 2026 RCT) — positions LLLT as a single-visit alternative (CH antimicrobial role not tested); cross-cutting mechanistic thread: apical extrusion of NaOCl/debris/bacteria is the operative mechanism across all axes — any choice reducing extrusion points in the pain-reducing direction.
+
+## 세줄요약
+
+근관치료 후 통증(Post-endodontic Pain) RCT 3편·SR 2편(7기법 베이지안 네트워크 메타회귀 포함) 통합: 통증은 다인자성이며 최강 결정인자는 시술 방법이 아닌 **술전 증상 상태** — 7가지 시술 축 모두에서 증상 상태 기울기가 신용구간 양의 방향(Hatipoğlu 2025); 시간 경과는 술식 무관 6~24시간 최고 후 7~14일 소실; 전자근관장측정기(Electronic Apex Locator, EAL) vs 방사선 근관장측정 — 통증 차이 없음(4 RCT n=414); 회전(rotary) vs 왕복(reciprocating) NiTi — 재치료 통증 차이 없음(5 RCT n=554), 단 손파일(hand file)은 48h 유의하게 더 아픔.
+
+세정 활성화는 근단 밖 압출(Apical Extrusion)을 줄이는 선택이 초기 통증을 낮춤: 레이저활성화세정(Laser-Activated Irrigation, LAI) 1위(SUCRA 85%)·수동역동세정(Manual Dynamic Irrigation, MDI) 최하위(1.5%; Hatipoğlu 2025 NMA 31편 n=2,595); LAI vs MDI만 최소중요임상차(Minimal Clinically Important Difference, MCID 1.0) 초과(MD −2.46 VAS); 괴사 대구치 RCT에서 초음파활성화세정(Passive Ultrasonic Irrigation, PUI)과 측방배출침(Side-vented Needle, SNI) 모두 일반침(CNI)보다 우수, PUI=SNI — 측방류에 의한 압출 억제가 음향 활성화와 동등(Zarei 2026).
+
+저출력레이저치료(Low-Level Laser Therapy, LLLT) 30초 단일 적용 = 수산화칼슘(Calcium Hydroxide, CH) 1주 첩약(증상치 n=46; 통증 6/12/24/48h·타진통·IL-8/Substance P 구별 없음; Otaify 2026 RCT) — 단일 내원 대안; 관통 기전: 근단 밖 압출이 모든 축을 연결하는 실질 매개 — 압출을 줄이는 어떤 선택도 통증 감소 방향으로 정렬.
 
 ## Summary
 

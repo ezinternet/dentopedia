@@ -16,13 +16,21 @@ relations:
 tags: [oral-lichen-planus, corticosteroid, tacrolimus, cost, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review comparing efficacy and treatment costs of OLP interventions: corticosteroids remain the efficacy-cost benchmark; tacrolimus is effective but costlier; cost reporting across the literature is inconsistent.
+PRISMA-based systematic review jointly evaluating efficacy and direct treatment costs of oral lichen planus (OLP) interventions across topical corticosteroids, calcineurin inhibitors, and systemic agents.
 
-## 한줄요약
+Topical corticosteroids deliver favorable efficacy at low cost and remain the pragmatic first line; tacrolimus is effective but more expensive; inconsistent cost reporting across studies prevents formal cost-effectiveness modeling.
 
-OLP 치료의 효능·비용 비교 체계적 문헌고찰: 스테로이드가 효능-비용 기준, 타크롤리무스는 효과적이나 고가, 문헌의 비용 보고 일관성 부족.
+The review uniquely adds a value-based selection lens to the efficacy-dominated OLP treatment literature, but cannot produce quantitative cost-effectiveness ratios due to heterogeneous cost reporting.
+
+## 세줄요약
+
+PRISMA 기반 체계적 문헌고찰 — 구강편평태선(Oral Lichen Planus, OLP) 치료의 효능(efficacy)과 직접 치료 비용(direct treatment cost)을 함께 비교한 최초 수준의 연구; 국소 스테로이드·칼시뉴린 억제제·전신 약물 포함.
+
+국소 스테로이드는 낮은 비용 대비 양호한 효능으로 실용적 1차 치료; 타크롤리무스(tacrolimus)는 효과적이나 고가; 연구 간 비용 보고 불일치로 공식 비용-효과 모델링 불가.
+
+효능 중심의 OLP 치료 문헌에 가치기반(value-based) 선택 관점을 최초로 추가했으나, 비용 보고 이질성으로 정량적 비용-효과비(cost-effectiveness ratio) 도출에는 한계.
 
 ## Summary
 

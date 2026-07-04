@@ -14,8 +14,21 @@ source_collection: external
 
 One of the two definitive human SRs (with Van der Weijden 2009) establishing the natural post-extraction ridge-change baseline — the "do-nothing" reference (horizontal 3.79 mm loss) against which ARP benefit is judged in [[overviews/socket-preservation-arp-overview]], and the quantitative anchor for the resorption biology discussed in [[overviews/bone-regeneration-socket-biology-and-arp-critique]].
 
-## One-line Summary
-Systematic review (20 human studies) establishing weighted-mean post-extraction ridge dimensional changes: horizontal reduction (3.79 ± 0.23 mm) substantially exceeds vertical reduction (buccal 1.24 ± 0.11 mm, mesial 0.84 ± 0.62 mm, distal 0.80 ± 0.71 mm) at 6 months; soft tissue gains 0.4–0.5 mm thickness; horizontal change 29–63% vs vertical 11–22% of baseline.
+## Three-line Summary
+
+Systematic review of 20 human RCTs and prospective cohort studies (from 3,954 titles screened) quantifying undisturbed post-extraction alveolar ridge dimensional changes in hard and soft tissue at 3 and 6 months.
+
+Horizontal (width) reduction averaged 3.79 ± 0.23 mm (29–63% of baseline) and substantially exceeded vertical (height) reduction: buccal −1.24 ± 0.11 mm, mesial −0.84 mm, distal −0.80 mm (11–22%); soft tissue gained 0.4–0.5 mm thickness at 6 months.
+
+These weighted-mean values serve as the "do-nothing" reference baseline against which socket preservation/ARP efficacy is benchmarked; heterogeneity precluded formal pooled meta-analysis and site-specific estimates (anterior vs posterior) remain uncertain.
+
+## 세줄요약
+
+3,954건 검색에서 선정된 20편 인체 RCT·전향코호트의 체계적 고찰 — 발치 후 방치 시 치조제 경조직·연조직 3·6개월 치수 변화를 가중평균으로 정량화.
+
+수평(폭) 감소 평균 3.79 ± 0.23 mm(기준치 대비 29~63%)가 수직 감소(협측 −1.24 mm, 근심 −0.84 mm, 원심 −0.80 mm; 11~22%)를 크게 상회; 연조직 두께는 6개월에 0.4~0.5 mm 증가.
+
+이 가중평균값은 치조제 보존술(ARP) 효능을 판단하는 '무처치 기준선'으로 활용되며, 이질성으로 공식 메타분석은 불가하고 부위별(전치·구치) 추정치는 불확실함.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2012;23(Suppl 5):1–21

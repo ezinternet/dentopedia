@@ -22,13 +22,22 @@ relations:
     target: khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-center RCT (n=42; 21/group) — adjunctive amino-acid NaOCl + cross-linked HA ("clean and seal") added to subgingival re-instrumentation (SRI) of residual pockets in maintenance patients gave an extra 0.50 mm PD reduction and 0.57 mm CAL gain at 6 months, 88.1% vs 38.1% pocket closure, and significant decrease of 5/8 periopathobionts; effect largest in deeper pockets.
+Single-center RCT (n=42, 21/group) in supportive periodontal-care patients with residual pockets ≥4–5 mm, testing AA-NaOCl + cross-linked HA ("clean and seal") added to subgingival re-instrumentation.
 
-## 한줄요약
+AA-NaOCl + xHA gave +0.50 mm extra PD reduction and +0.57 mm CAL gain at 6 months versus SRI alone, with pocket closure 88.1% vs 38.1% and significant reduction of 5/8 periopathobionts.
 
-단일기관 RCT (환자 42명, 군당 21명) — 유지치료 단계 잔존 포켓의 재기구조작(SRI)에 아미노산-차아염소산나트륨(AA-NaOCl) + 가교 히알루론산(xHA, "clean and seal")을 보조로 추가하니 6개월에 PD 0.50 mm 추가 감소·CAL 0.57 mm 추가 회복, 포켓 폐쇄율 88.1% 대 38.1%, 8개 중 5개 치주병원균 유의 감소했고, 깊은 포켓일수록 효과가 더 컸다.
+Reserve the protocol for deeper residual pockets where the effect is largest; magnitude (~0.5 mm) is smaller than in initial therapy because SRI sites are previously treated non-responders.
+
+## 세줄요약
+
+단일기관 RCT (n=42, 군당 21명) — 유지치료 단계 잔존 포켓(≥4–5 mm) 환자에서 재기구조작(SRI)에 아미노산-차아염소산나트륨(AA-NaOCl) + 가교 히알루론산(xHA, "clean and seal") 보조 추가를 비교.
+
+6개월 시점에 SRI 단독 대비 PD 0.50 mm 추가 감소·CAL 0.57 mm 추가 회복, 포켓 폐쇄율 88.1% vs 38.1%, 8개 중 5개 치주병원균 유의 감소.
+
+더 깊은 포켓에서 효과가 가장 크므로 선택적 사용이 적합; 효과 규모(~0.5 mm)는 초기 치료 시보다 작음(기존 치료된 비반응 부위).
+
 
 ## Summary
 

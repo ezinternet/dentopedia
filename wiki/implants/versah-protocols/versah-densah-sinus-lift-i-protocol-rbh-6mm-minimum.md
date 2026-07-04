@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Versah Densah manufacturer protocol card (narrative-review, 2-page, REV09) for osseodensification (OD)-facilitated crestal sinus floor elevation when residual bone height (RBH) ≥6 mm and crestal width ≥4 mm: pilot drill (1 mm below sinus) → Densah 2.0 OD (CCW, 1000 rpm) → staged 3.0/4.0/5.0 expansion up to 3 mm past the sinus floor, lifting the membrane via compaction autografting; Densah-specific, no quantitative outcomes.
+## Three-line Summary
 
-## 한줄요약
-Versah Densah® 골밀도화(Osseodensification, OD) 경치조골 상악동 거상(Crestal Sinus Lift) 프로토콜 I — 잔존 골높이(Residual Bone Height, RBH) ≥6 mm, 치조정 폭 ≥4 mm 적응. 순서: pilot drill(상악동 1 mm 아래) → Densah 2.0 OD(CCW 1000 rpm, irrigation) → 3.0/4.0/5.0 단계적 확장(상악동 바닥 3 mm 통과까지). Compaction autografting으로 점진 막 거상.
+Versah Densah manufacturer protocol card (2-page, REV09, narrative-review) for osseodensification (OD)-facilitated crestal sinus floor elevation when residual bone height (RBH) ≥6 mm and crestal width ≥4 mm.
+
+Five-step protocol: pilot drill to 1 mm below sinus floor → Densah 2.0 OD (CCW, 1000 rpm, irrigation) → staged bur expansion 3.0/4.0/5.0 mm up to 3 mm past the sinus floor, lifting the Schneiderian membrane via compaction autografting → implant placement.
+
+Applicable when RBH ≥6 mm allows pilot drill access; maximum bur advancement past sinus floor is 3 mm per stage to limit perforation risk; Densah-specific, no quantitative outcomes — cross-reference peer-reviewed sinus-lift literature.
+
+## 세줄요약
+
+Versah Densah® 골밀도화 (Osseodensification, OD) 경치조골 상악동 거상 (Crestal Sinus Lift) 프로토콜 I (2페이지 제조사 카드, REV09): 잔존 골높이 (Residual Bone Height, RBH) ≥6 mm, 치조정 폭 ≥4 mm 적응.
+
+5단계 프로토콜: 상악동 1 mm 아래까지 pilot drill → Densah 2.0 OD (CCW, 1000 rpm, 관주) → 3.0/4.0/5.0 mm 단계 확장(상악동 바닥 3 mm 초과 한도) — Compaction autografting으로 슈나이더막 점진 거상 → 임플란트 식립.
+
+RBH ≥6 mm에서 pilot drill 접근이 가능할 때 적용; 단계별 최대 3 mm 초과로 천공 위험 제한; Densah 전용 프로토콜로 정량적 결과 없음 — 동료심사 상악동 거상 문헌 병행 참조 필수.
 
 ## Summary
 Versah Densah® manufacturer-issued clinical protocol card (2-page, REV09) for crestal sinus floor elevation using osseodensification mode in residual bone height ≥6 mm.

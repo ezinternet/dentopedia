@@ -26,13 +26,21 @@ relations:
     target: barootchi-2024-autologous-platelet-concentrates-root-coverage
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 55 RCTs on PRF for periodontal intrabony defects: adding PRF to OFD gives ~1.3 mm PPD reduction, ~1.2 mm CAL gain, and ~1.6 mm radiographic bone fill vs OFD alone; PRF is clinically equivalent to EMD/PRP/bone graft/barrier membrane; adding PRF to a bone graft — and adding metformin/bisphosphonates/statins to PRF — yields further significant gains.
+Largest SR+MA on PRF for periodontal intrabony defects (55 RCTs, searches to Oct 2023, 21 comparison categories): adding PRF to OFD produces ~1.3 mm PPD reduction (MD 1.27 mm), ~1.2 mm CAL gain (MD 1.22 mm), and ~1.6 mm radiographic bone fill (MD 1.59 mm) vs OFD alone (all p<0.00001).
 
-## 한줄요약
+Head-to-head, PRF is clinically equivalent to EMD, PRP, bone graft, and barrier membrane; adding PRF to a bone graft yields additional significant gains (~0.59 mm PPD, ~0.57 mm CAL, ~0.63 mm RBF); adding metformin, bisphosphonates, or statins (but not antibiotics or LLLT) to PRF provides further benefit.
 
-치주 골내결손(intrabony defect)에 대한 PRF 55개 RCT SR+MA: OFD 단독 대비 PRF 병용 시 탐침깊이 약 1.3mm 감소·임상부착수준 약 1.2mm 획득·방사선 골충전 약 1.6mm 개선; PRF는 EMD·PRP·골이식재·차폐막과 임상적으로 대등하고, 골이식재에 PRF를 더하거나 PRF에 메트포르민·비스포스포네이트·스타틴을 더하면 추가 유의 개선.
+PRF is a low-cost autogenous alternative or additive in the intrabony-defect regenerative armamentarium, but high heterogeneity (I² 80–95%), unclear/high RoB in most studies, and near-absence of smokers (3/55 RCTs) limit precision.
+
+## 세줄요약
+
+치주 골내결손 PRF 최대 규모 SR+MA (55개 RCT, 2023.10 검색, 21개 비교 범주): OFD에 PRF 추가 시 탐침깊이 ~1.3 mm 감소(MD 1.27 mm)·임상부착수준 ~1.2 mm 획득(MD 1.22 mm)·방사선 골충전 ~1.6 mm 개선(MD 1.59 mm) (모두 p<0.00001).
+
+직접 비교에서 PRF는 EMD·PRP·골이식재·차폐막과 동등하며, 골이식재에 PRF를 추가하면 추가 개선(~0.59 mm PPD, ~0.57 mm CAL, ~0.63 mm RBF); PRF에 메트포르민·비스포스포네이트·스타틴 추가 시 추가 이점(항생제·LLLT는 효과 없음).
+
+PRF는 저비용 자가 재료로 골내결손 재생 치료의 대안·보조제이나, 높은 이질성(I² 80–95%)·대부분 불분명/높은 비뚤림 위험·흡연자 배제(55개 중 3개만 포함)가 정밀도를 제한함.
 
 ## Summary
 

@@ -16,13 +16,21 @@ text_filename: alkahtani-2010-root-canal-sealers-timing-parapost.txt
 tags: [parapost, microleakage, resin-cement, root-canal-sealer, ah26, eugenol, fluid-filtration]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro fluid-filtration study (70 single-rooted teeth, 4 groups × 15 + 2 controls): microleakage of a resin-cemented ParaPost increased significantly over 3 months regardless of sealer type or cementation timing; immediate cementation after AH26 (non-eugenol) gave the least leakage. (abstract-only — full text not retrieved)
+In-vitro fluid-filtration study (70 single-rooted teeth, 2×2 factorial × 15 + 2 controls) comparing eugenol vs AH26 sealer and immediate vs delayed post cementation on resin-cemented ParaPost microleakage.
 
-## 한줄요약
+Neither sealer type nor cementation timing significantly affected leakage; instead, microleakage rose significantly over time in all groups (24 h → 2 months → 3 months), with persistent voids at the resin–dentin interface.
 
-인비트로 fluid-filtration 연구 (단근치 70개, 4군×15 + 대조 2군): resin cement로 합착한 ParaPost의 미세누출은 sealer 종류·cementation 타이밍과 무관하게 3개월간 유의하게 증가; AH26(non-eugenol) 즉시 합착이 최소 누출. (초록만 확보)
+Immediate cementation after AH26 (non-eugenol) gave the least leakage, but the dominant clinical implication is that a resin-cemented post seal degrades over time — the definitive coronal restoration, not the post, is the primary coronal barrier.
+
+## 세줄요약
+
+인비트로 fluid-filtration 연구 (단근치 70개, 2×2 요인설계 ×15 + 대조 2군): eugenol vs AH26 실러 및 즉시·지연 합착이 resin cement로 합착한 ParaPost 미세누출에 미치는 영향 비교.
+
+실러 종류·합착 시기 모두 누출에 유의한 영향 없음; 대신 모든 군에서 시간 경과(24시간→2개월→3개월)에 따른 누출이 유의하게 증가하며 레진-상아질 계면에 지속적 공극 관찰.
+
+AH26(non-eugenol) 즉시 합착이 최소 누출을 보였으나, 임상적으로 중요한 점은 resin-cemented post의 밀폐 효과가 시간에 따라 저하된다는 것이며 — 최종 관상 수복이 주된 방어선이다.
 
 ## Summary
 

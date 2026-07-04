@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA of 9 RCTs (632 restorations, posterior permanent teeth, ≥12-mo follow-up): bulk-fill resin composite vs incremental composite shows no significant difference in restoration failure (RR = 0.82, 95% CI 0.33–2.01, p = 0.67), with equivalence at both <24-mo and ≥24-mo follow-up.
+## Three-line Summary
 
-## 한줄요약
-9개 RCT(632개 수복물) 메타분석: 구치부 영구치에서 벌크필 레진(bulk-fill resin)과 적층충전 레진(incremental resin)의 수복물 실패율 차이 없음 (RR = 0.82; p = 0.67), 단기~장기 추적 모두 동등한 임상 성적.
+SR+MA of 9 RCTs (632 restorations in posterior permanent teeth, ≥12-month follow-up) comparing clinical failure rates of bulk-fill versus incrementally placed resin composites using a random-effects model.
+
+No significant difference in restoration failure: RR = 0.82 (95% CI 0.33–2.01, p=0.67); subgroup analysis confirmed equivalence at both <24-month and ≥24-month follow-up; marginal adaptation, discoloration, and postoperative sensitivity were also comparable.
+
+Bulk-fill composites (including flowable/capping-layer, full-body, and self-adhesive types) can be used in posterior permanent teeth with clinical failure rates equivalent to conventional incremental technique, supporting adoption for time efficiency.
+
+## 세줄요약
+
+9개 RCT(632개 수복물, 구치부 영구치, ≥12개월 추적) SR+MA — 무작위효과 모형으로 벌크필 레진 (Bulk-Fill Resin Composite) vs 적층충전 레진 (Incremental Composite)의 임상 실패율 비교.
+
+수복물 실패율 유의차 없음: RR = 0.82 (95% CI 0.33–2.01, p=0.67); 추적기간 <24개월·≥24개월 하위군 모두 동등; 변연적합·변색·술후 과민증도 유사.
+
+벌크필 레진 (플로어블·캡핑층형, 풀바디형, 자가접착형 포함) 은 구치부 영구치에서 적층충전과 임상 실패율이 동등하여 시술 효율을 위한 채택을 지지.
 
 ## Summary
 This SR+MA (PROSPERO CRD420251173044) evaluated 9 RCTs involving 632 restorations in posterior permanent teeth, with a minimum 12-month follow-up, to compare failure rates and restoration quality between bulk-fill and incrementally placed resin composites. Using a random-effects model with the Cochrane RoB 2 tool, the primary outcome (restoration failure) showed no statistically significant difference: RR = 0.82 (95% CI: 0.33–2.01; p = 0.67). Subgroup analysis by follow-up (<24 months vs. ≥24 months) yielded no significant between-group variation. Secondary outcomes (marginal adaptation, discoloration, postoperative sensitivity) were comparable across most studies.

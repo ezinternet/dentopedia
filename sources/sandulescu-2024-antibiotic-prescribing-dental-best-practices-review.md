@@ -10,7 +10,7 @@ pdf_filename: sandulescu-2024-antibiotic-prescribing-dental-best-practices-revie
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 다전공 review (Bucharest 감염내과 + Carol Davila 치과; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation strategy 종합; stewardship 구현 가이드.
 
 ## 1. Document Information

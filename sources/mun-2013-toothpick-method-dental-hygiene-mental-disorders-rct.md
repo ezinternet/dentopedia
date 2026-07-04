@@ -18,13 +18,23 @@ This RCT applies the toothpick method as one component of a structured, hygienis
 
 Caveat: this is an **abstract-only** record (full text not retrieved). The toothpick method was just **one element** of a multi-part programme (10-min flash-based video + brochures + toothpick method), so its isolated contribution to the plaque reduction cannot be separated from the educational components.
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hygiene care programme (10-min flash video + brochures + toothpick method, delivered by 5 hygienists) significantly reduced plaque index after each session in patients with mental disorders; oral dryness improved, but stimulated saliva and caries activity did not.
 
-## 한줄요약
+RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hygiene care programme (10-min flash video + brochures + toothpick method, delivered by 5 hygienists) significantly reduced plaque index after each session in patients with mental disorders;
 
-정신질환 환자 73명 대상 RCT(3군, 12주·4주 간격): 10분 플래시 동영상 + 브로셔 + 토스픽법(toothpick method)을 묶은 다요소 구강위생 관리 프로그램이 매 세션 후 치면세균막 지수(plaque index)를 유의하게 감소시켰고(P<0.0001) 군간 차이도 유의(P=0.036). 구강건조감은 개선됐으나 자극타액과 우식활성도는 변화 없었다.
+oral dryness improved, but stimulated saliva and caries activity did not.
+
+(incomplete)
+
+## 세줄요약
+
+
+정신질환 환자 73명 대상 RCT(3군, 12주·4주 간격): 10분 플래시 동영상 + 브로셔 + 토스픽법(toothpick method)을 묶은 다요소 구강위생 관리 프로그램이 매 세션 후 치면세균막 지수(plaque index)를 유의하게 감소시켰고(P<0.0001) 군간 차이도 유의(P=0.036).
+
+구강건조감은 개선됐으나 자극타액과 우식활성도는 변화 없었다.
+
+(incomplete)
 
 ## 1. Document Information
 

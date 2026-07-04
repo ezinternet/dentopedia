@@ -13,13 +13,21 @@ source_collection: external
 tags: [ids, dds, microtensile-bond-strength, optibond-fl, sem, in-vitro, magne]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-JPD 2005 in-vitro µTBS study (15 human molars, OptiBond FL 3-step E&R): immediate dentin sealing (IDS) reached 58.25 MPa, statistically equivalent to direct control (55.06 MPa, P>.05) and ~5× higher than delayed dentin sealing (DDS) at 11.58 MPa (P=.0081); SEM showed well-organized 3–5 µm hybrid layers for IDS/control vs marked disruption for DDS.
+In-vitro µTBS study (JPD 2005; 15 freshly extracted human molars, 3 groups × 5 teeth, OptiBond FL 3-step etch-and-rinse, 24 h water storage) comparing immediate dentin sealing (IDS), delayed dentin sealing (DDS), and direct bonding control for indirect restorations.
 
-## 한줄요약
+IDS reached 58.25 MPa — statistically equivalent to direct control (55.06 MPa, P>.05) and approximately 5× higher than DDS (11.58 MPa, P=.0081); SEM showed well-organized 3–5 µm hybrid layers for IDS and control versus marked disruption for DDS.
 
-JPD 94(6), 2005 in-vitro µTBS (15 human molars, OptiBond FL 3-step E&R): IDS 58.25 MPa ≈ direct control 55.06 MPa (P>.05) >> DDS 11.58 MPa (P=.0081). SEM에서 IDS·C는 잘 조직된 hybrid layer 3–5 µm; DDS는 marked disruption.
+IDS restores dentin bonding to direct-bonding quality by protecting freshly cut dentin from provisional contamination; the 5× bond strength advantage over DDS is the headline figure cited across the IDS literature, though from a small in-vitro study with no long-term aging data.
+
+## 세줄요약
+
+인 비트로 µTBS 연구(JPD 2005; 발거 대구치 15개, 3군 × 5개, OptiBond FL 3단계 산부식 접착, 24시간 수침) — 간접수복에서 즉시상아질밀봉(IDS)·지연상아질밀봉(DDS)·직접 즉시접착 대조군 비교.
+
+IDS 58.25 MPa ≈ 직접 대조군 55.06 MPa(P>.05) >> DDS 11.58 MPa(P=.0081); SEM에서 IDS·대조군은 3–5 µm 혼성층 양호 반면 DDS는 심각한 교란.
+
+IDS는 신선 상아질을 임시수복물 오염으로부터 보호해 직접 접착 수준의 결합강도를 회복시키며; DDS 대비 5배 우위가 IDS 문헌의 핵심 수치이나 소규모 단기 in vitro 연구로 장기 임상 데이터는 없다.
 
 ## Summary
 

@@ -17,13 +17,21 @@ text_filename: chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.txt
 
 오버덴쳐 임플란트 감시 인제스트 — CAD-CAM 밀링 bar 유지 오버덴쳐의 재료·임상성능을 다룬 SR+MA(디지털 bar 근거). 기존 어태치먼트/오버덴쳐 페이지 [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] (어태치먼트 retained mandibular overdenture MBL)와 [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] (오버덴쳐 임플란트 직경)가 attachment/implant 변수를 다루는 반면, 이 페이지는 **bar 재료**(Ti vs CoCr vs PEEK/BioHPP vs zirconia) 축을 보강한다. (지정된 sibling `koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma`는 위키에 존재하지 않아 링크 생략.)
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 10 clinical studies (PROSPERO CRD42021284190) on implant-supported overdentures (IODs) retained by CAD-CAM milled bars: ~100% implant survival across Ti/PEEK/BioHPP/zirconia bars, CAD-CAM milled titanium bars showed minimal complications (pooled bar-level complication 7.4%, biological 2.8%, MBL 0.324 mm) and best OHIP/satisfaction, while polymer (PEEK/BioHPP) bars carried peri-implantitis signal.
+SR+MA (PROSPERO CRD42021284190; 10 clinical studies — 1 RCT, 1 pseudo-RCT, 5 prospective, 3 retrospective; follow-up 3 months to 4 years; GRADE very low to moderate) of implant-supported overdentures (IODs) retained by CAD-CAM milled bars in 4 material types (titanium, PEEK, BioHPP, zirconia) in edentulous patients.
 
-## 한줄요약
+All bar materials achieved ~100% implant survival; pooled milled-titanium bar data: bar-level complication 7.4% (95% CI 4.2–12.6%), biological complication 2.8% (95% CI 1.1–6.9%), peri-implant MBL 0.324 mm (95% CI 0.061–0.587, I²=97.5%); milled Ti vs conventional gold bar showed no significant difference in complication risk (RR=0.638, p=0.619); PEEK and BioHPP polymer bars showed peri-implantitis in some patients; milled titanium showed best OHIP improvement and patient satisfaction.
 
-임플란트 지지 오버덴쳐를 CAD-CAM 밀링 bar로 유지한 임상연구 10편 SR+MA: 모든 bar 재료(티타늄/PEEK/BioHPP/지르코니아)에서 임플란트 생존율 ~100%, 밀링 티타늄 bar가 합병증 최소(bar 합병증 7.4%, 생물학적 2.8%, MBL 0.324 mm)·OHIP/만족도 최상이고, 폴리머(PEEK/BioHPP) bar는 임플란트주위염 신호를 보임.
+Polymer bars require longer-term evidence before routine use; the I²=97.5% heterogeneity in the MBL estimate limits confidence in that pooled value; all GRADE certainty ratings were very low to moderate.
+
+## 세줄요약
+
+PROSPERO 등록(CRD42021284190) SR+MA(10편 임상연구 — RCT 1·유사무작위 1·전향 5·후향 3; 추적 3개월~4년; GRADE 매우낮음~중등도): CAD-CAM 밀링 bar(티타늄·PEEK·BioHPP·지르코니아) 유지 임플란트 지지 오버덴쳐(Implant-supported Overdenture, IOD) 무치악 환자 대상.
+
+모든 bar 재료에서 임플란트 생존율 ~100%; 밀링 티타늄 bar 풀드 데이터: bar 합병증 7.4%(95% CI 4.2–12.6%), 생물학적 합병증 2.8%(1.1–6.9%), 변연골소실(Marginal Bone Loss, MBL) 0.324 mm(0.061–0.587, I²=97.5%); 밀링 Ti vs 전통 납땜 금 bar 합병증 RR=0.638(p=0.619) — 유의차 없음.
+
+폴리머(PEEK/BioHPP) bar에서 임플란트주위염(Peri-implantitis) 신호 — 장기 확인 필요; MBL I²=97.5% 극고이질성으로 풀드 추정치 신뢰 제한; GRADE 전반 매우낮음~중등도.
 
 ## 1. Document Information
 

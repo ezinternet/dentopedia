@@ -32,13 +32,21 @@ relations:
 > - **근거 등급 주의**: 부신경지배는 임상적으로 자주 인용되나 고등급 근거는 얇다(Kim 2016 SR이 명시). "기전은 그럴듯, 확증은 부족" — 실패 시 대체 기법·보충주사를 시도할 근거로는 충분하나, 각 경로의 기여도 정량화는 불가.
 > - **확신도**: 다인성 실패 프레임·RMC 유병률(CBCT) = 근거탄탄; 부신경지배 3경로의 존재 = 해부학적으로 입증되나 기여도는 저등급; 대체 기법 우월성 = 내러티브 리뷰 수준(RCT 부족).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 6 local-anesthesia papers on *why* the inferior alveolar nerve block (IANB) — the highest-failure-rate dental anesthetic technique — fails for anatomical reasons: failure is multifactorial (cortical bone, needle deflection, nerve-localization difficulty, and accessory innervation, with up to 81% failure in lateral incisors), and three anatomically distinct accessory-innervation routes (nerve to the mylohyoid; cervical plexus via the transverse cervical nerve; retromolar canal, present in 16% of sides on CBCT) can leave teeth sensate despite a technically successful block, motivating alternative techniques (Gow-Gates, Akinosi-Vazirani).
+6-paper synthesis on the anatomical reasons IANB — the highest-failure-rate dental block — fails: failure is multifactorial (cortical bone thickness, needle deflection through soft tissue, nerve-localization difficulty, and accessory innervation; up to 81% failure at lateral incisors; Malamed 2011), and three anatomically distinct accessory-innervation routes can leave teeth sensate despite a technically successful block with confirmed lip numbness.
 
-## 한줄요약
+The three routes are: (1) nerve to the mylohyoid — a mixed motor-sensory nerve with variable branching, blocked from the standard IANB field by the pterygomandibular fascia and sphenomandibular ligament (Stein 2007); (2) cervical plexus via the transverse cervical nerve (C2–C3) supplying the posterior mandible — confirmed by Sihler staining in 1/2 cadavers (Lin 2013) but supported only by low-grade evidence in the 44-study SR (LOE-1 in 4 studies only; Kim 2016); (3) retromolar canal — present in 16.12% of sides on CBCT, carrying supplemental nerve fibers and causing isolated retromolar-region failure (Filo 2015).
 
-IANB가 *왜* 해부학적으로 실패하는지 다룬 local-anesthesia 6편 통합. 실패는 다인성(피질골·바늘편향·신경위치·부신경지배, 측절치 실패율 81%)이며, 해부학적으로 구별되는 세 부신경지배 경로(이설골근신경, 경부신경총의 횡경부신경, CBCT상 16%에서 보이는 후구치관)가 술기적으로 성공한 마취에도 치아 감각을 남길 수 있어 대체 기법(Gow-Gates, Akinosi-Vazirani)이 필요하다.
+The clinical algorithm: absent lip numbness after IANB → technique failure (reposition or Gow-Gates); lip numb but tooth sensate → accessory innervation (retromolar-limited → local supplemental infiltration; widespread → Gow-Gates for proximal coverage, or Akinosi-Vazirani for limited-opening patients); alternative-technique superiority rests on narrative-review evidence only (no comparative RCTs).
+
+## 세줄요약
+
+IANB 해부학적 실패 원인 local-anesthesia 6편 종합: 실패는 다인성(피질골·바늘편향·신경위치·부신경지배, 측절치 실패율 81%; Malamed 2011)이며, 입술 마비가 있는데도 치아 감각이 남으면 반복 IANB가 아니라 부신경지배를 의심해야 한다.
+
+해부학적으로 구별되는 3개 경로: ① 이설골근신경(혼합 운동-감각, 근막 장벽으로 표준 IANB 회피; Stein 2007), ② 경부신경총 횡경부신경(C2–C3, 사체 2례 중 1례 확인; Lin 2013 + Kim 2016 SR 44편·LOE-1 4편 — 저등급), ③ 후구치관(CBCT 1,340측 중 16.12% 관찰, 부가신경 포함; Filo 2015).
+
+위치별 감별: 후구치부 국한 잔여 감각 → 후구치관 → 국소 보충 침윤; 광범위 하악 잔여 감각 → mylohyoid/cervical-plexus → Gow-Gates(근위부 포괄) 또는 보충주사; 개구 제한 → Akinosi-Vazirani 폐구위 차단(Haas 2011); 대체 기법 우월성은 내러티브 리뷰 수준(RCT 부족).
 
 ## Summary
 

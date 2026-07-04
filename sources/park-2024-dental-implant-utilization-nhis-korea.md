@@ -9,7 +9,7 @@ pdf_filename: park-2024-dental-implant-utilization-nhis-korea.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Population-level analysis of claimed dental implant utilization in South Korea using NHIS Health Checkup Cohort. Anderson behavioral model applied. Subjects: 63,880 (covered since 2014, age 75 baseline).
 
 ## 1. Document Information

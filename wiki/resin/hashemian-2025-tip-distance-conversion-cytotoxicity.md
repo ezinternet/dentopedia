@@ -20,11 +20,19 @@ relations:
     target: li-2025-curing-modes-dual-cure-dentin
 ---
 
-## One-line Summary
-In-vitro study (J Oral Biol Craniofac Res 2025) curing Filtek Z350 XT nanocomposite disks at light-curing tip distances of 0, 2, 4, 6, and 8 mm (n=4/group) found degree of conversion (DC%, ATR-FTIR) and human gingival fibroblast viability (MTT) both declined significantly with increasing distance, with viability dropping below the ISO 70% biocompatibility threshold at ≥6 mm and correlating positively with DC% (top surface R=0.597, bottom R=0.490).
+## Three-line Summary
+In-vitro study (J Oral Biol Craniofac Res 2025) curing Filtek Z350 XT nanocomposite at five light-curing tip distances (0–8 mm; n=4/group) and measuring both degree of conversion (DC%, ATR-FTIR) and human gingival fibroblast viability (MTT assay).
 
-## 한줄요약
-in-vitro 연구(J Oral Biol Craniofac Res 2025): 나노복합레진(Filtek Z350 XT) 디스크를 큐어링 팁 거리 0/2/4/6/8mm(군당 n=4)에서 광중합 — 거리가 증가할수록 전환도(DC%, ATR-FTIR)와 치은섬유아세포 생존율(MTT) 모두 유의하게 감소, 6mm 이상에서 생존율이 ISO 70% 생체적합성 임계값 아래로 하락, DC%와 생존율은 양의 상관관계(상면 R=0.597, 하면 R=0.490).
+Both DC% (44.57% at 0 mm → 32.99% at 8 mm) and cell viability declined significantly with increasing tip distance; cell viability fell below the ISO 10993 70% biocompatibility threshold at ≥6 mm; DC% and cell viability correlated positively (top surface R=0.597, bottom R=0.490, both p<0.05).
+
+Clinically, curing-tip distance should be minimized (preferably ≤4 mm) in deep or interproximal restorations near gingival tissue; this study quantifies the causal chain from inadequate light exposure to under-polymerization to cytotoxicity.
+
+## 세줄요약
+나노복합레진(Filtek Z350 XT)을 광중합 팁 거리 0–8 mm(군당 n=4)에서 광중합 후 전환도(DC%, ATR-FTIR)와 치은섬유아세포 생존율(MTT)을 동시 측정한 in-vitro 연구(J Oral Biol Craniofac Res 2025).
+
+거리 증가에 따라 DC%(44.57%→32.99%)와 세포생존율 모두 유의하게 감소; 6 mm 이상에서 생존율이 ISO 10993 기준 70% 아래로 하락; DC%와 생존율 양의 상관관계(상면 R=0.597, 하면 R=0.490, p<0.05).
+
+심부·인접면 수복 시 팁 거리를 ≤4 mm로 최소화할 것을 임상적으로 권고 — 불충분한 광조사→저중합→세포독성의 인과 연쇄를 정량화.
 
 ## Summary
 This in vitro study examined whether the distance between a light-curing unit tip and a composite resin surface — a variable that increases in deep proximal or Class II cavities — affects both the degree of conversion (DC%) of the composite and its biocompatibility as measured by gingival fibroblast cell viability. Disk samples of a nanocomposite (Filtek Z350 XT) were light-cured at five tip distances (0–8 mm) and assessed via ATR-FTIR for DC% and MTT assay for cell viability. Both DC% and cell viability declined as tip distance increased, and cell viability fell below the ISO 10993 70% biocompatibility threshold at 6 mm and 8 mm. DC% and cell viability were positively and significantly correlated, supporting a mechanistic chain from insufficient light exposure to under-polymerization to residual monomer release to cytotoxicity. Clinically, this quantifies a safety-relevant reason to minimize curing-tip-to-composite distance, particularly in deep or interproximal restorations near the gingiva.

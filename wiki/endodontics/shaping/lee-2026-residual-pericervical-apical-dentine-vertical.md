@@ -17,13 +17,21 @@ text_filename: lee-2026-residual-pericervical-apical-dentine-vertical.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case-control study (44 VRF cases vs. 92 controls) in endodontically treated molars found excessive residual apical dentine loss (RCF/root-width ratio > 0.21) — not pericervical dentine loss — was the strongest independent radiographic predictor of vertical root fracture, alongside tooth type, reRCT history, and time since primary root canal treatment ≥15 years (combined model AUC 0.940).
+Retrospective case-control study (STROBE-reported; 44 VRF cases vs. 92 non-VRF controls; 136 endodontically treated molars with isolated PD ≥5 mm; Tokyo specialist clinic 2012–2020) using periapical radiograph-based residual dentine classification (4-tier, kappa >0.8) and multivariate logistic regression.
 
-## 한줄요약
+Excessive residual apical dentine loss (RCF/root-width ratio >0.21; OR 12.9, 95% CI 2.92–57.5, p=0.001) was the dominant independent radiographic predictor of VRF, whereas excessive pericervical dentine loss was not significant after multivariate adjustment; reRCT history (OR up to 87.9 for ≥2 reRCTs) and time since primary RCT ≥15 years (OR 20.7) were additional independent predictors; the combined model achieved AUC 0.940.
 
-근관치료된 대구치 대상 case-control 연구(수직치근파절 44례 vs 대조군 92례)에서 치경부(pericervical)가 아닌 치근단부(apical) 잔존 상아질의 과도한 소실(RCF/치근폭 비율 > 0.21)이 수직치근파절(VRF)의 가장 강력한 독립적 방사선학적 예측인자로 확인됐으며, 치아종류·재근관치료 병력·1차 근관치료 후 15년 이상 경과와 함께 통합모델 AUC 0.940을 보임.
+The key clinical implication is to minimize apical canal preparation extent (not just preserve pericervical dentine) in molars — and that post presence was not a significant risk factor when analysis was restricted to molars, contrasting with prior multi-tooth-type studies.
+
+## 세줄요약
+
+후향적 환자-대조군 연구(STROBE; 수직치근파절 VRF 44례 vs 비VRF 대조군 92례; 근관치료된 대구치 136개, 고립성 치주낭 깊이 PD ≥5 mm; 도쿄 전문의 클리닉 2012–2020) — 방사선 사진 기반 4단계 잔존 상아질 분류(급간일치도 kappa >0.8) + 다변량 로지스틱 회귀.
+
+치근단부(Apical) 잔존 상아질 과다 소실(근관충전물/치근 폭 비율 >0.21; 조정 OR 12.9, p=0.001)이 VRF 가장 강력한 독립 방사선학적 예측인자; 치경부(Pericervical) 과다 소실은 다변량 조정 후 비유의; 재근관치료(ReRCT) 병력(OR 최대 87.9), 1차 근관치료 후 ≥15년 경과(OR 20.7)도 독립 예측인자; 통합 모델 AUC 0.940.
+
+핵심 임상 시사: 대구치에서 치근단 성형 크기 최소화(치경부 상아질 보존만이 아님)가 VRF 예방 핵심 전략; 포스트(Post) 존재는 대구치 한정 분석에서 유의한 위험인자가 아님(기존 다치종 연구와 상충).
 
 ## Summary
 

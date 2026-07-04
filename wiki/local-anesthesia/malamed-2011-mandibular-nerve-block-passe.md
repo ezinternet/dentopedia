@@ -19,13 +19,21 @@ relations:
     target: kim-2016-systematic-review-cervical-plexus-accessory
 ---
 
-## One-line Summary
+## Three-line Summary
 
-JADA supplement introduction: reviews why the standard inferior alveolar nerve block (IANB) has a high failure rate (e.g., 81% in lateral incisors) — cortical bone thickness, soft-tissue-thickness-driven needle deflection, difficulty locating the nerve, and accessory innervation — framing the case for alternative mandibular anesthesia techniques.
+Narrative review / JADA supplement introduction identifying four multifactorial causes of standard IANB failure: cortical bone thickness, soft-tissue-thickness-driven needle deflection, difficulty locating the inferior alveolar nerve, and accessory innervation — illustrated with an 81% failure rate in lateral incisors.
 
-## 한줄요약
+Despite being the most commonly used mandibular anesthesia technique, the IANB's multifactorial failure mechanisms make it unreliable across tooth types and patient anatomies, motivating a full supplement of alternative mandibular nerve block papers.
 
-JADA supplement 서론: 표준 IANB의 높은 실패율(예: 측절치 81%) 원인 — 피질골 두께, 연조직 두께로 인한 바늘 편향, 신경 위치 파악의 어려움, 부가신경 지배 — 을 정리하며 대안적 하악마취 기법의 필요성을 제기.
+No primary outcomes or quantitative synthesis are reported; the contribution is a conceptual framing of IANB's limitations that forms the intellectual foundation for the companion Gow-Gates/Akinosi-Vazirani technique paper.
+
+## 세줄요약
+
+JADA supplement 서론 서술적 리뷰: 표준 IANB 실패의 네 가지 다인성 원인 — 피질골 두께·연조직 두께에 의한 바늘 편향·하치조신경 위치 파악의 어려움·부가신경 지배 — 을 정리, 측절치에서 81% 실패율로 불신뢰성을 예시.
+
+IANB는 가장 흔히 사용되는 하악마취 기법임에도 다인성 실패 메커니즘으로 인해 치아 유형·환자 해부학에 따라 신뢰성이 낮으며, 이를 근거로 대안적 기법에 관한 supplement 전 호를 기획.
+
+1차 결과치나 정량적 합성 없음; 기여는 IANB 한계의 개념적 틀을 제시하여 Gow-Gates/Akinosi-Vazirani 기법 동반 논문의 지적 토대를 마련하는 것.
 
 ## Summary
 

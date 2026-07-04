@@ -18,13 +18,21 @@ relations:
     target: shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian
 ---
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (2173 mandibular molars from 724 Mexican CBCT scans): C-shaped canal prevalence 0.2% in first vs 14.1% in second mandibular molars; female predominance (27.3% vs 13.3%, p=0.004, OR 1.78); C2 most common type (39.3%); radix entomolaris in 3.4% of first and 1.4% of second molars.
+Retrospective CBCT cross-sectional study of 2,173 mandibular molars (724 Mexican patients), classifying C-shaped canals by the Fan system and supernumerary roots as radix entomolaris.
 
-## 한줄요약
+C-shaped canal prevalence was 0.2% in first and 14.1% in second mandibular molars, with significant female predominance (OR 1.78, p=0.004) and C2 as the most common type (39.3%); radix entomolaris was more frequent in first molars (3.4%) than second molars (1.4%).
 
-CBCT 횡단 연구(멕시코 인구, CBCT 724건에서 하악대구치 2173개): C-shaped 근관 유병률 제1대구치 0.2% vs 제2대구치 14.1%, 여성 우세(27.3% vs 13.3%, p=0.004, OR 1.78); C2형이 가장 흔함(39.3%); radix entomolaris는 제1대구치 3.4%·제2대구치 1.4%.
+C-shaped canals and supernumerary roots show opposite tooth-position gradients in Mexican patients, requiring position-specific anticipation during root canal treatment.
+
+## 세줄요약
+
+멕시코 환자 724명(CBCT 스캔) 대상 하악대구치 2,173개의 후향적 CBCT 횡단 연구, Fan 분류 및 radix entomolaris 기준 적용.
+
+C-shaped 근관 유병률: 제1대구치 0.2% vs 제2대구치 14.1%; 여성 유의 우세(OR 1.78, p=0.004), C2형 가장 흔함(39.3%); radix entomolaris는 제1대구치(3.4%)에서 제2대구치(1.4%)보다 더 흔함.
+
+멕시코 환자에서 C-shaped 근관과 과잉근은 반대의 치아 위치 패턴을 보이므로 위치별 맞춤 예측이 필요.
 
 ## Summary
 

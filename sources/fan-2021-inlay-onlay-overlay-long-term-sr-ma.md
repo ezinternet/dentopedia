@@ -9,7 +9,7 @@ pdf_filename: fan-2021-inlay-onlay-overlay-long-term-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 복합레진 및 세라믹 인레이·온레이·오버레이 장기 임상 성적 SR+MA: 레진 91%/세라믹 89% 5년 생존, 세라믹 10년 89%로 높은 장기 생존율.
 
 ## 1. Document Information

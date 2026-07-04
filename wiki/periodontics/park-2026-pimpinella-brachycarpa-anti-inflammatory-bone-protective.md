@@ -22,13 +22,21 @@ relations:
 tags: [periodontitis, alveolar-bone-loss, osteoclast, herbal-medicine, insadol, ligature-model]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat ligature-induced periodontitis study (6 groups, n=5–7/group): Pimpinella brachycarpa extract (PBE, 150–300 mg/kg/day) dose-dependently reduced alveolar bone loss, TRAP+ osteoclasts, and CD45/IL-1β/TNF-α, with efficacy comparable to positive control ISD (250 mg/kg/day = the Insadol Plus formula, Zea mays + Magnolia cortex extract).
+Rat ligature-induced periodontitis study (maxillary 2nd molar ligatures, oral gavage ×14 days, euthanasia day 15; 6 groups, n=5–7/group) testing Pimpinella brachycarpa extract (PBE; 참나물/Chamnamul) at 150/200/300 mg/kg/day against positive control ISD 250 mg/kg/day (the 인사돌플러스/Insadol Plus Zea mays + Magnolia cortex formula) and individual components GTC, CGA, and their combination.
 
-## 한줄요약
+PBE dose-dependently reduced alveolar bone loss, TRAP+ osteoclasts, and CD45/IL-1β/TNF-α immunostaining vs ligature-only controls; PBE "exhibited comparable efficacy" to ISD (Insadol Plus) on inflammatory markers and osteoclast suppression; GTC, CGA, and MIX each independently reduced bone loss, implicating chlorogenic acid (13.7 mg/g in PBE) and catechins as active constituents.
 
-쥐 결찰-유발 치주염 모델(6군, 군당 n=5–7)에서 한약 추출물 PBE(150–300 mg/kg/day)가 치조골 소실·TRAP+ 파골세포·CD45/IL-1β/TNF-α를 용량 의존적으로 줄였고, 그 효과가 양성대조약 ISD(250 mg/kg/day, 옥수수+후박 추출물 = 인사돌플러스 처방)와 비슷했다.
+PBE is a novel plant extract with comparable anti-periodontitis efficacy to the Insadol Plus formula in this animal model, though the study is limited by short 14-day treatment, small group sizes, no molecular pathway assays, and rodent doses far exceeding human dietary intake.
+
+## 세줄요약
+
+쥐 결찰-유발 치주염 모델 (상악 2번째 구치 결찰, 위관투여 14일, 15일째 안락사; 6군, 군당 n=5–7): 한약 추출물 PBE(참나물, 150/200/300 mg/kg/day)와 양성대조 ISD 250 mg/kg/day(인사돌플러스 = Zea mays+후박 추출물), 개별 성분 GTC·CGA·MIX 비교.
+
+PBE가 치조골 소실·TRAP+ 파골세포·CD45/IL-1β/TNF-α를 용량 의존적으로 감소; PBE는 ISD(인사돌플러스)와 염증 지표·파골세포 억제에서 "유사한 효능"; GTC·CGA·MIX 각각 독립적으로 골소실 감소 — 클로로겐산(13.7 mg/g)과 카테킨을 주요 활성 성분으로 지목.
+
+PBE는 이 동물 모델에서 인사돌플러스와 유사한 항치주염 효능을 보이나, 14일 단기 치료·소집단 규모·분자경로 분석 부재·인간 식이 섭취량을 훨씬 초과하는 용량으로 임상 번역에는 한계가 있음.
 
 ## Summary
 

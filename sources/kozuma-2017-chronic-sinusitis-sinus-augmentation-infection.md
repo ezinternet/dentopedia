@@ -14,13 +14,23 @@ source_collection: external
 
 측방 접근 상악동거상술 (Lateral Sinus Augmentation, LSA) 후 수술 후 감염 및 임플란트 실패의 원인 규명이 임상적으로 중요하며, 기존 [[wiki/sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]]가 슈나이더 막 천공 중심의 합병증을 다루나, 술 전 만성 부비동염 (Chronic Sinusitis, CS)이 독립적 위험인자임을 다변량 분석으로 제시한 연구가 없었음. 이 논문은 OMS 예방 축 (술 전 부비동 건강 스크리닝 필요성)의 근거로 활용됨. [[wiki/overviews/odontogenic-maxillary-sinusitis-overview]]의 "preop screening → sinus clearance before augmentation" 논거를 보강함.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective cohort (109 patients, 121 sinuses, 252 implants) found preoperative chronic sinusitis was the strongest predictor of postoperative infection (p=0.007) and implant loss (p=0.007) after lateral sinus augmentation, mandating preoperative ENT evaluation and treatment.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 코호트 연구 (109명, 121개 상악동, 252개 임플란트): 술 전 만성 부비동염이 측방 상악동거상술 후 감염(p=0.007) 및 임플란트 실패(p=0.007)의 가장 강력한 예측인자였으며, 수술 전 이비인후과적 평가 및 치료가 필수임을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

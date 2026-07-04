@@ -13,13 +13,21 @@ source_collection: external
 tags: [feldspathic-porcelain, composite-repair, chipping, silane, universal-adhesive, surface-treatment]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In vitro (n=40, 4 groups): for intraoral feldspathic porcelain chipping repair, using a separate silane primer + adhesive (BISCO) dramatically outperformed a universal adhesive regardless of surface treatment; HF etching and diamond disc roughening produced equivalent bond strength within the same bonding method.
+In vitro study (n=40, 4 groups: 2 surface treatments [9.5% HF etching vs diamond disc roughening] × 2 bonding methods [Scotchbond Universal vs BISCO silane primer + adhesive]; 5,000 thermal cycles) evaluating intraoral feldspathic porcelain chipping repair bond strength.
 
-## 한줄요약
+Bonding method dominated outcomes: BISCO separate silane primer + adhesive (R-SA and E-SA) produced significantly higher shear bond strength (p<0.05) while Scotchbond Universal groups (R-UA, E-UA) had 50–70% debonding during thermal cycling (SBS ≈ 0 MPa); within each bonding method, HF etching ≈ diamond disc roughening (p>0.05).
 
-인 비트로 (n=40, 4그룹): 구강 내 장석질 도재 치핑 수리 시 별도 실란 프라이머+접착제(BISCO)가 표면처리 방식에 무관하게 유니버설 접착제보다 현저히 우수; HF 산처리와 다이아몬드 디스크 거칠기 처리는 동일한 접착 방법 내에서 동등한 결합강도를 나타냄.
+For intraoral porcelain repair, use a dedicated separate silane primer followed by an adhesive — not a universal adhesive — as the bonding agent; HF etching can be replaced by diamond disc roughening without loss of bond strength, which avoids HF toxicity risk.
+
+## 세줄요약
+
+In vitro 연구 (n=40, 4그룹: 표면처리 2종 [9.5% HF 산처리 vs 다이아몬드 디스크 거칠기 처리] × 접착제 2종 [Scotchbond Universal vs BISCO 실란 프라이머+접착제]; 열순환 5,000회) — 구강 내 장석질 도재 치핑 수리 전단결합강도 평가.
+
+접착 방법이 결과 지배: BISCO 별도 실란 프라이머+접착제군(R-SA·E-SA)이 유의하게 높은 전단결합강도(p<0.05); Scotchbond Universal군(R-UA·E-UA)은 열순환 중 50–70% 탈락(SBS ≈ 0 MPa); 동일 접착 방법 내에서는 HF 산처리 ≈ 다이아몬드 디스크(p>0.05).
+
+구강 내 도재 수리 시 별도 실란 프라이머 후 접착제를 사용하되 유니버설 접착제는 사용 금지; HF 산처리는 다이아몬드 디스크로 대체 가능 — 독성 위험 없이 동등한 결합강도 달성.
 
 ## Summary
 

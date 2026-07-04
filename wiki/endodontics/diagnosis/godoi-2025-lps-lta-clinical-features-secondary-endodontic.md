@@ -18,13 +18,21 @@ relations:
     target: karamifar-2020-endodontic-periapical-lesion-an-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional study (n=40 retreatment teeth with apical periodontitis): LPS (mean 5.1 EU/mL) and LTA (mean 537.5 pg/mL) found in all canals; higher LPS correlated with larger periapical radiolucency and clinical signs/symptoms, and defective coronal restoration raised virulence-factor load.
+Cross-sectional STROBE-reported study (n=40, root-filled teeth with radiographic apical periodontitis requiring retreatment, UNICAMP Brazil) simultaneously quantifying intracanal LPS (LAL assay) and LTA (ELISA) under endotoxin-free conditions.
 
-## 한줄요약
+LPS and LTA were detected in 100% of canals (mean LPS 5.1±2.83 EU/mL; mean LTA 537.53±134.14 pg/mL); higher LPS load correlated with larger periapical bone-resorption area and presence of clinical signs/symptoms; defective coronal restorations were associated with greater virulence-factor burden.
 
-단면연구(재근관치료 근단치주염 40치): 모든 근관에서 LPS(평균 5.1 EU/mL)·LTA(평균 537.5 pg/mL) 검출. LPS가 높을수록 근단 골흡수 범위·임상 증상이 컸고, 결손 치관수복물이 독성인자 부하를 높였다.
+These findings link microbial virulence-byproduct load to lesion severity and coronal seal quality, reinforcing that secondary endodontic infections retain active immunostimulatory molecules that drive ongoing periapical destruction.
+
+## 세줄요약
+
+STROBE 보고 단면연구(n=40, 방사선적 근단치주염 동반 근관충전 치아, UNICAMP): 무균 채취 조건 하에서 LPS(리물루스 아메보사이트 용해물, LAL assay)와 LTA(ELISA)를 동시 정량.
+
+모든 근관에서 LPS·LTA 검출(평균 LPS 5.1±2.83 EU/mL, LTA 537.53±134.14 pg/mL); LPS 높을수록 근단 골흡수 면적 크고 임상 증상 존재; 결손 치관수복물이 독성인자(Virulence Factor) 부하를 높임.
+
+이는 세균 독성 부산물 부하가 병소 중증도·치관 밀봉 상태와 연결되어 있음을 보여주며, 2차 근관 감염에서도 면역 자극 분자가 지속적 치근단 파괴를 주도함을 뒷받침한다.
 
 ## Summary
 

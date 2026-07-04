@@ -21,13 +21,21 @@ relations:
     target: samet-2023-immediate-placement-loading-esthetic-zone
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Single-arm prospective study (n=20, maxillary esthetic zone IIP with a dual-thread [upper U-shaped + lower V-shaped] 11° internal-hex IU implant): 85% success / 100% survival after loading, ISQ >70 by 70 days, minimal 1-year buccal-bone loss (−0.34 to −0.48 mm), midfacial recession improved (1.86→1.21 mm), and MBL retained above the implant shoulder.
+Prospective single-arm study (n=20 → 17 analyzed, Seoul National University) of immediate implant placement in the maxillary esthetic zone using a dual-thread IU implant (upper U-shaped + lower V-shaped thread, 11° internal hex, platform switching) with bovine bone graft and collagen membrane; 90-day prosthesis loading.
 
-## 한줄요약
+85% success / 100% post-loading survival; ISQ (buccal/palatal) rose from ~60 to >70 by day 70; 1-year buccal bone loss −0.34 to −0.48 mm (CBCT); midfacial recession improved from 1.86 to 1.21 mm; marginal bone retained above implant shoulder.
 
-단일군 전향연구(n=20, 상악 심미부 즉시식립 + 듀얼스레드[상부 U자·하부 V자] 11° 내부육각 IU 임플란트): 성공률 85%·기능부하 후 생존율 100%, 70일째 ISQ >70, 1년 협측골 손실 −0.34~−0.48 mm로 미미, 중안면 치은퇴축은 오히려 개선(1.86→1.21 mm), 변연골은 임플란트 숄더 위로 안정 유지.
+This dual-thread macrodesign produced favorable esthetic-zone IIP outcomes, but single-arm design, 1-year follow-up, n=20, and single-manufacturer device limit generalizability; 3 early pre-loading osseointegration failures warrant careful preoperative risk assessment.
+
+## 세줄요약
+
+전향 단일군 연구 (n=20→17 분석, 서울대학교): 상악 심미부 즉시식립(IIP)에 듀얼스레드 IU 임플란트(상부 U자+하부 V자 나선, 11° 내부육각, 플랫폼 스위칭, Warantec) + 소뼈 무기질·콜라겐막 이식, 90일 보철 부하.
+
+성공률 85% / 기능부하 후 생존율 100%; ISQ 70일에 >70 도달(협측 74.0, 구개측 76.4); 1년 협측골 손실(CBCT) −0.34~−0.48 mm; 중안면 치은퇴축(midfacial recession) 1.86→1.21 mm 개선; 변연골(MBL)은 임플란트 숄더 위 유지.
+
+단일군·1년 추적·n=20·단일 제조사 설계로 일반화 제한; 부하 전 3례 조기 골유착 실패는 술전 위험인자 평가의 중요성 시사.
 
 ## Summary
 

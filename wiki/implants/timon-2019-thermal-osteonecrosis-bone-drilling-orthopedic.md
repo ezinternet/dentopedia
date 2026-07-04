@@ -13,11 +13,21 @@ source_collection: external
 tags: [thermal-osteonecrosis, orthopedic-drilling, external-irrigation, bone-drilling, narrative-review, cross-specialty]
 ---
 
-## One-line Summary
-Narrative literature review (orthopedic perspective) on thermal osteonecrosis during bone drilling: identifies a 50°C critical temperature threshold and concludes that, although heat generation is multifactorial, external irrigation is the single most important mitigation variable; Level V evidence translatable to implant drilling.
+## Three-line Summary
 
-## 한줄요약
-서술적 고찰(Cureus 2019, 정형외과): bone drilling thermal osteonecrosis 50°C critical value; 발열은 multifactorial이지만 **external irrigation이 단일 가장 중요한 mitigation 변수**. 임플란트 분야의 47°C 기준보다 보수적.
+Narrative literature review from an orthopedic perspective (Cureus 2019; PubMed/ScienceDirect/Cochrane through December 2017) on thermal osteonecrosis during bone drilling, covering critical temperature thresholds and multifactorial heat generation.
+
+The critical bone temperature threshold is identified as 50°C (slightly higher than the classical dental 47°C); heat generation is multifactorial (drill speed, feed, intermittence, geometry, material) but external irrigation is the single most important mitigation variable for keeping temperature below the threshold.
+
+This cross-specialty Level V review validates the dental implant drilling community's emphasis on irrigation as the primary safety measure; however, all clinical recommendations derive from in vitro and animal model extrapolations, with no in vivo human data.
+
+## 세줄요약
+
+정형외과 관점의 서술적 고찰 (Cureus 2019; PubMed/ScienceDirect/Cochrane, 2017년 12월까지) — 골 드릴링 중 열 골괴사(thermal osteonecrosis)의 임계 온도와 다요인 발열 기전 검토.
+
+임계 골온도 50°C (치과의 47°C보다 약간 높음); 발열은 드릴 속도·이송·간헐·형상·재질 등 다요인이나, **외부 irrigation이 단일 가장 중요한 mitigation 변수**로 결론.
+
+임플란트 치과의 irrigation 우선 원칙을 정형외과 영역에서 교차 검증하는 Level V 근거; 단, 모든 임상 권고는 in vitro·동물 외삽이며 인체 in vivo 데이터 없음.
 
 ## Summary
 A literature review from an orthopedic perspective on thermal osteonecrosis during bone drilling. Critical temperature: 50°C (slightly higher than the classical dental 47°C). Heat generation factors are multifactorial and interact, but the authors single out **external irrigation as the most important variable** for keeping bone temperature below the critical threshold. Level V evidence; calls for more in vivo human studies.

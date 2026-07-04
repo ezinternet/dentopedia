@@ -12,7 +12,7 @@ source_collection: local
 tags: [biofilm-management, professional-oral-hygiene, plaque-control, periodontal-health, prevention]
 ---
 
-## One-line Summary
+## Three-line Summary
 Doctoral study examining changes in plaque control ability through regular professional oral health care program using multi-visit intervention protocol.
 
 ## 1. Document Information

@@ -13,11 +13,21 @@ source_collection: external
 tags: [diabetes-mellitus, dental-implant, hba1c, systemic-disease, peri-implantitis, mbl]
 ---
 
-## One-line Summary
-Systematic review (BMC Oral Health 2026, article-in-press): updates post-2022 evidence on dental implant outcomes in diabetic patients; full quantitative findings pending the edited publication — refer to the PDF directly for pooled estimates.
+## Three-line Summary
 
-## 한줄요약
-Systematic review (BMC Oral Health 2026 article-in-press): updates the post-2022 evidence base on dental implant outcomes in diabetic patients; full body content pending the edited publication — refer to the PDF directly for pooled estimates.
+Systematic review (BMC Oral Health 2026, article-in-press, Tabriz University group) updating post-2022 evidence on dental implant outcomes in patients with diabetes mellitus; multidisciplinary authorship spanning endodontics, periodontics, and oral medicine.
+
+Full quantitative findings (pooled estimates, outcome metrics) are pending the final edited publication — refer directly to the PDF for numbers; the review follows a transparent peer-review model.
+
+This SR serves as the most current successor to the 2022 Al-Ansari SR+MA and is the evolving clinical-decision anchor for HbA1c-stratified implant candidacy in diabetic patients; re-audit this wiki page once the final edited version is released.
+
+## 세줄요약
+
+SR(BMC Oral Health 2026, article-in-press, 타브리즈의과대학 그룹) — 2022년 이후 당뇨 환자 임플란트 결과에 관한 근거를 업데이트하는 최신 체계적 고찰; 근관치료·치주·구강내과 다학제 저자진.
+
+정량적 결과(풀링 추정치·결과 지표)는 최종 편집본 발행 전이므로 PDF 직접 참조; BMC 투명 동료심사 모델 적용.
+
+2022년 Al-Ansari SR+MA의 후속 최신 근거로서 HbA1c 층화 임플란트 적응증 결정의 핵심 문서; 최종 편집본 발행 후 이 위키 페이지 재감사 필요.
 
 ## Summary
 2026 systematic review on dental implant outcomes in diabetes mellitus patients, currently available as an unedited "article in press" version. Successor to the 2022 SR/MA by Al-Ansari and the team's clinical decision-making anchor for diabetic implant candidates. Full quantitative findings require the final edited PDF, which the wiki body will be updated against once published.

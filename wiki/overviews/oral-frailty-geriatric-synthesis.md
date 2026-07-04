@@ -29,13 +29,21 @@ relations:
 > - 오판 패턴: ① "노년 구강쇠퇴는 불가피한 노화" (가역적 인자 다수), ② "유병률은 단일 수치" (도구에 따라 18–44%), ③ "근관면 우식은 무조건 수복" (비침습 우선이 노년에서 근거 우위).
 > - 4단 사슬 spine: 개념 (Dibello) → 규모 (Li) → 규모+결과 (Zhu) → 결과·영양 (Kumar) → 개입·우식 (Chan).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the new geriatric-dentistry cluster: oral frailty is a measurable, reversible age-related decline in oral function. Tooth count and chewing/swallowing/saliva indicators predict mortality, physical frailty, and malnutrition; pooled prevalence is 24-32% (highly tool-dependent); the clinic's actionable levers are professionally applied fluoride (38% SDF arrests root caries) and early detection/management of hyposalivation, which is tightly linked to malnutrition.
+5-paper synthesis on oral frailty as a measurable, reversible age-related decline in oral function: 11 indicators across 4 domains (oral status, oral motor function, chewing/swallowing/saliva, oral pain) are defined, with tooth count most consistently associated with all 6 adverse outcomes (mortality, physical frailty, disability, QoL, hospitalization, falls; Dibello 2022 SR, 68 studies).
 
-## 한줄요약
+Pooled prevalence is 24–32% but highly tool-dependent (OFI-8 44% vs OFI-6 18%; Li 2024 SR+MA, Zhu 2024 SR+MA); oral frailty raises physical frailty risk (OR 1.67), malnutrition (OR 2.27), and social withdrawal (OR 1.42; Zhu 2024); hyposalivation is strongly linked to malnutrition (xerostomia 38%, malnutrition 55%; Kumar 2025 SR+MA) through impaired chewing, swallowing, and taste.
 
-신설 geriatric-dentistry 5편 통합. 구강노쇠는 측정 가능하고 가역적인 노화성 구강기능 저하다. 잔존치아 수·저작/연하/타액 지표가 사망·신체쇠약·영양실조를 예측하며, 유병률은 24-32%(평가도구 의존). 클리닉의 실행 레버는 전문가 적용 불소(38% SDF가 근관면 우식 정지)와 영양실조와 직결된 구강건조의 조기 발견·관리다.
+The clinic's strongest actionable lever is professionally applied fluoride — 38% SDF prevents and arrests root caries (24-month arrest rate 42%), NaF varnish 64% prevention, APF 32%, all applicable by hygienists (Chan 2022 SR+MA); do not quote a single prevalence number for oral frailty (tool-dependent 18–44%), and treat root caries non-invasively first (SDF) rather than defaulting to restoration in older adults.
+
+## 세줄요약
+
+geriatric-dentistry 5편 종합: 구강노쇠는 11지표·4영역(구강상태·구강운동·저작/연하/타액·구강통증)으로 구조화되고 잔존치아 수가 사망·신체쇠약·기능장애·QoL·입원·낙상 6대 결과 전부와 가장 일관되게 연관된다(Dibello 2022 SR, 68편).
+
+유병률은 24–32%이나 평가도구에 크게 의존(OFI-8 44% vs OFI-6 18%; Li 2024, Zhu 2024 SR+MA); 구강노쇠는 신체쇠약(OR 1.67)·영양실조(OR 2.27)·사회적 위축(OR 1.42)을 높이며(Zhu 2024), 구강건조는 영양실조와 강하게 연관됨(xerostomia 38%·malnutrition 55%; Kumar 2025 SR+MA).
+
+가장 강한 임상 레버는 전문가 적용 불소 — 38% SDF 24개월 정지율 42%·NaF varnish 64% 예방·APF 32% 예방(Chan 2022 SR+MA); 유병률 단일 수치 인용 금지(도구 18–44% 차이), 노년 근관면 우식은 비침습(SDF·고농도 불소) 1차 원칙이다.
 
 ## Summary
 

@@ -17,11 +17,21 @@ text_filename: cabral-2026-comparative-efficacy-anesthetic-techniques-periodonta
 
 바늘없는/컴퓨터제어 압력 침윤마취기(Wand-type computerized delivery system) 관련 질의 대응 목적으로 인제스트. 기존 [[local-anesthesia/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp]] (SR+MA)는 SRP에서 injected anesthetic이 topical gel보다 통증강도·rescue 필요성에서 우위라고 결론지었는데, 본 RCT(Cabral 2026)는 통증 강도 자체는 두 기법이 동등하다고 보고해 부분적으로 상충하며, 대신 "보충마취 필요성"이라는 secondary outcome에서 컴퓨터제어 침습기법의 우위(24% vs 100%, p<0.001)를 명확히 정량화해 기존 근거를 정제(refine)한다.
 
-## One-line Summary
-Parallel, blinded RCT (n=76) comparing computerized-controlled invasive local anesthesia vs noninvasive lidocaine/prilocaine gel for nonsurgical periodontal instrumentation: pain intensity (NRS-11) was similar between groups, but the noninvasive gel group required supplementary anesthesia in 100% of patients vs only 24% in the computerized group (P<0.001); hemodynamics were stable in both.
+## Three-line Summary
 
-## 한줄요약
-평행·맹검 RCT(n=76), 비외과적 치주기구조작 시 컴퓨터제어 침습마취 vs 비침습 리도카인/프릴로카인 겔 비교: 통증강도(NRS-11)는 두 군 유사했으나, 비침습 겔군은 100%가 보충마취 필요 vs 컴퓨터제어군 24%만 필요(p<0.001); 혈역학은 양 군 모두 안정.
+Parallel, single-blind RCT (n=76; 38/group; Brazilian university clinic; REBEC registered) directly comparing a computer-controlled invasive anesthetic delivery device (Morpheus) vs noninvasive intrapocket lidocaine/prilocaine thermosensitive gel (Oraqix) for nonsurgical subgingival periodontal instrumentation.
+
+Pain intensity (NRS-11) was statistically similar between groups (both "mild"); however, 100% of the noninvasive-gel patients required supplementary anesthesia vs only 24% in the computerized-invasive group (P<0.001); hemodynamics remained stable in both groups.
+
+The key clinical distinction is not pain intensity but the need for procedural interruption for rescue anesthesia — the computerized device was far superior on workflow efficiency, though its higher cost and the baseline imbalance in periodontal disease severity between groups are important caveats.
+
+## 세줄요약
+
+컴퓨터제어 침습마취기(Morpheus) vs 비침습 겔(Oraqix, 리도카인/프릴로카인 열감응성 겔)을 비외과적 치은연하 기구조작 시 비교한 평행·단일맹검 RCT(n=76; 브라질 대학 치과; REBEC 등록).
+
+통증강도(NRS-11)는 두 군 모두 "경미" 수준으로 유의한 차이 없음; 그러나 비침습 겔군은 100%가 보충마취 필요 vs 컴퓨터제어군은 24%만 필요(P<0.001); 혈역학은 양 군 모두 안정.
+
+핵심 임상 구분은 통증 강도가 아닌 처치 중단(보충마취) 필요성 — 컴퓨터제어 기법이 워크플로우 효율에서 우월; 단, 높은 기기 비용과 군 간 치주염 중증도 기저 불균형이 중요한 주의 사항.
 
 ## 1. Document Information
 - **Title**: Comparative efficacy of different anesthetic techniques on pain perception during nonsurgical periodontal treatment: A parallel, blinded, randomized controlled trial

@@ -9,7 +9,7 @@ pdf_filename: goncalves-2024-canal-taper-apex-locator-influence.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 근관 테이퍼(taper) 차이가 두 전자근관장측정기(EAL) 측정값에 미치는 영향 분석 — 테이퍼 증가 시 측정 정확도에 영향.
 
 ## 1. Document Information

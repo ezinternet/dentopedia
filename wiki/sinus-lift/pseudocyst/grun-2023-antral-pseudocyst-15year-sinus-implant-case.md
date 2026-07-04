@@ -14,11 +14,21 @@ source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, untreated, 15-year-follow-up, sinus-floor-augmentation, dental-implant, longitudinal]
 ---
 
-## One-line Summary
-Case report (n=1, 15-year follow-up) of an antral pseudocyst that predated sinus floor augmentation and was left untreated during implant placement; over 15 years the implant remained stable with maintained sinus health and no major complications despite dynamic radiographic changes in the pseudocyst, serving as a long-term anchor for the "untreated" management option.
+## Three-line Summary
 
-## 한줄요약
-Case report (Danube Private University Austria, IJSCR 2023): AP가 sinus augmentation 이전부터 존재, **15년 추적** — radiographic feature 동적 변화 있었으나 implant 안정·sinus health 유지. "Untreated 옵션도 장기 안전" anchor.
+Case report (n=1, Danube Private University Austria) of an antral pseudocyst left untreated during sinus floor augmentation and implant placement with 15-year radiographic follow-up.
+
+The implant remained stable and sinus health was maintained throughout; the pseudocyst showed dynamic radiographic changes over time but caused no major complications.
+
+This is one of the longest documented follow-ups in the sinus pseudocyst literature, providing a long-term anchor for the "untreated" management option in small, non-obstructing lesions.
+
+## 세줄요약
+
+증례보고(n=1, 오스트리아 다뉴브 사립대): 상악동거상술 및 임플란트 식립 전부터 존재하던 상악동 가성낭종(Antral Pseudocyst, AP)을 미처치한 채 수술 진행 후 15년 방사선학적 추적.
+
+임플란트 안정·상악동 건강 유지되었으며, AP는 시간 경과에 따른 영상학적 형태 변화를 보였으나 주요 합병증 없음.
+
+15년 추적은 문헌상 최장 datapoint 중 하나로, 소형 비폐쇄성 AP의 "미처치 옵션"이 장기적으로 안전함을 뒷받침하는 근거 anchor로 활용 가능.
 
 ## Summary
 Krems 대학병원 사례. 15년이라는 이례적 장기 추적은 sinus cyst 문헌에서 드물다. AP는 처치하지 않고 sinus augmentation·implant 식립을 진행 — 이후 15년간 implant 정상 기능·sinus health 유지, 단 AP의 영상 모습은 dynamic하게 변화.

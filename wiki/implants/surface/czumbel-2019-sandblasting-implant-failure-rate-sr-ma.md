@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 7 RCTs (722 implants) shows sandblasted implants have ~80% lower failure rate at 1 year and ~74% at 5 years vs machined implants, with no significant difference in marginal bone loss.
+SR+MA of 7 RCTs (362 sandblasted vs 360 machined implants in healthy patients) comparing implant failure rate and marginal bone level change at 1 and 5 years.
 
-## 한줄요약
+Sandblasted surfaces showed ~80% lower failure rate at 1 year (RR=0.20, 95% CI 0.06–0.67) and ~74% lower at 5 years (RR=0.26, 95% CI 0.09–0.74), both with I²=0%; marginal bone loss was not significantly different at either timepoint.
 
-7개 RCT 대상 SR+MA (722개 임플란트): 샌드블라스팅 표면이 머신드 표면 대비 임플란트 실패율을 1년 80%, 5년 74% 감소시켰으나 변연골 소실은 유의한 차이 없음.
+Sandblasting provides robust, low-heterogeneity survival advantage over machined surfaces without added bone preservation benefit; this is the first SR+MA restricted to RCTs on this comparison.
+
+## 세줄요약
+
+SR+MA(RCT 7편, 샌드블라스팅 362개 vs 머신드 360개): 건강한 환자에서 1년·5년 임플란트 실패율 및 변연골 소실 비교.
+
+샌드블라스팅 표면: 1년 실패율 약 80% 감소(RR=0.20, 95% CI 0.06–0.67), 5년 약 74% 감소(RR=0.26, 0.09–0.74) — 모두 I²=0%; 변연골 소실 유의차 없음.
+
+이질성 없는 강력한 생존 우위 — RCT만 포함한 첫 SR+MA; 골 보존 측면에서는 표면 처리 추가 이점 없음.
 
 ## Summary
 

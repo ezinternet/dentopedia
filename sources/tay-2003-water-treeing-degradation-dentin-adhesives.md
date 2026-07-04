@@ -16,13 +16,23 @@ text_filename: tay-2003-water-treeing-degradation-dentin-adhesives.txt
 
 This is the originating paper that introduced the "water treeing" concept to dentin adhesion, borrowing the term from the electrical high-voltage cable insulation literature where dendritic water-filled channels progressively degrade polymer insulation. It supplies the foundational mechanistic vocabulary that later degradation reviews and nanoleakage-classification papers build on, so it anchors the dentin-adhesion "hybrid layer / wet bonding / bond degradation" batch. It reinforces and is reinforced by [[wiki/resin-bonding/tay-2003-aging-two-modes-nanoleakage-bonded-dentin]] (the companion classification of two nanoleakage modes in aged bonded dentin) and is cited as a primary mechanism in [[wiki/resin-bonding/liu-2011-limitations-bonding-dentin-bond-degradation-review]] (the limitations-of-dentin-bonding degradation review).
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro TEM tracer study (3 total-etch + 3 self-etch adhesives, conventional vs ammoniacal 50 wt% silver nitrate, 24 h): all adhesives showed nanoleakage within hybrid layers, and dendritic interconnecting silver "water trees" extended perpendicularly from the hybrid-layer surface into the adhesive — a proposed pathway for hydrolytic bond degradation. Abstract-only.
 
-## 한줄요약
+In-vitro TEM tracer study (3 total-etch + 3 self-etch adhesives, conventional vs ammoniacal 50 wt% silver nitrate, 24 h): all adhesives showed nanoleakage within hybrid layers, and dendritic interconnecting silver "water trees" extended perpendicularly from the hybrid-layer surface into the adhesive — a proposed pathway for hydrolytic bond degradation.
 
-In-vitro TEM 추적자 연구 (전부식 3종 + 자가부식 3종, 통상 vs 암모니아성 50 wt% 질산은, 24시간): 모든 접착제가 혼성층(hybrid layer) 내 나노누출(nanoleakage)을 보였고, 수지상으로 연결된 은 침착물 "물나무(water tree)"가 혼성층 표면에서 접착제 층으로 수직 연장됨 — 수분에 의한 접착 분해의 잠재 경로로 제시. 초록만 확보.
+Abstract-only.
+
+(incomplete)
+
+## 세줄요약
+
+
+In-vitro TEM 추적자 연구 (전부식 3종 + 자가부식 3종, 통상 vs 암모니아성 50 wt% 질산은, 24시간): 모든 접착제가 혼성층(hybrid layer) 내 나노누출(nanoleakage)을 보였고, 수지상으로 연결된 은 침착물 "물나무(water tree)"가 혼성층 표면에서 접착제 층으로 수직 연장됨 — 수분에 의한 접착 분해의 잠재 경로로 제시.
+
+초록만 확보.
+
+(incomplete)
 
 ## 1. Document Information
 

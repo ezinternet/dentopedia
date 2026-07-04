@@ -43,11 +43,21 @@ relations:
 > - 근거 한계(Tallon 2024 우산형): 메타분석 부재, 선택적 보고, 기준치·용량·결과지표 불일치 — 그래서 "보충하면 좋아진다"는 인과는 아직 약함.
 > - 임상 takeaway: ① 고위험(흡연·당뇨·치주염·재발 실패·중증 골다공증) 환자는 **술전 25(OH)D 선별** ② **중증 결핍(<10~20 ng/mL) 교정 후 식립** ③ 충분군에 루틴 보충은 근거 없음 ④ 비타민 D는 골질·1차 안정성을 대체하지 못함 — [[overviews/bone-quality-implant-risk-modification-overview]]의 위험 축에 *부가* 레버로 본다.
 
-## One-line Summary
-Synthesis of 8 papers (1 umbrella review, 3 SRs, 1 RCT, 2 prospective, 1 retrospective): vitamin D's pro-osseointegration effect is consistent in animals/mechanism but split in humans — the positive signal concentrates in severe deficiency (<10–20 ng/mL) plus co-risks, while studies in replete populations find no association; pre-surgical screening and correction of *severe* deficiency is defensible, routine supplementation in replete patients is unproven.
+## Three-line Summary
 
-## 한줄요약
-8편 종합(우산형 1·SR 3·RCT 1·전향 2·후향 1): 비타민 D의 골유착 촉진 효과는 동물·기전에서는 일관되나 사람에서는 갈린다 — 양성 신호는 중증 결핍(<10~20 ng/mL)+동반위험에 몰리고 충분군에서는 무차이; 고위험군 술전 선별 + *중증 결핍만* 교정이 방어 가능, 충분군 루틴 보충은 미입증.
+Synthesis of 8 papers (1 umbrella review, 3 SRs, 1 RCT, 2 prospective cohorts, 1 retrospective) on vitamin D [25(OH)D] and implant osseointegration spanning mechanism, animal models, and human clinical data; the umbrella review (Tallon 2024) identifies no pooled meta-analysis and heterogeneous thresholds/outcomes across the literature.
+
+Animal and mechanistic evidence consistently supports a pro-osseointegration role for vitamin D; the human evidence splits by deficiency severity — positive signals concentrate in severe deficiency (<10–20 ng/mL) with co-risks (Mohsen 2024: failure rate 46.2% vs 4.5% for <10 vs >30 ng/mL; Miron 2025 SR: up to 4× early failure risk), while replete-population studies find no association (Francis 2024, n=174: NS, failed implants actually had higher vitamin D; Buzatu 2024 SR, 7 studies/4450 implants: no significant overall association); topical calcitriol gel at immediate implant placement improved 6-month ISQ (80 vs 75) and bone density (+18.1% vs +6.4%) in a small single-center RCT (Ayyad 2025, n=24).
+
+Pre-surgical 25(OH)D screening and correction of severe deficiency (<10–20 ng/mL) before implant placement is defensible in high-risk patients (smokers, diabetes, periodontitis, recurrent failure, severe osteoporosis); routine supplementation of replete patients is not supported by current evidence.
+
+## 세줄요약
+
+비타민 D[25(OH)D]와 임플란트 골유착(Osseointegration) 8편(우산형 1·SR 3·RCT 1·전향 2·후향 1) 종합 — 기전/동물·SR/MA·사람 임상 근거 사다리 전반; Tallon 2024 우산형 고찰은 메타분석 부재·기준치·용량·결과지표 불일치를 명시.
+
+동물·기전 근거는 일관되게 양성; 사람 근거는 결핍 중증도에 따라 갈림 — 양성 신호가 중증 결핍(<10~20 ng/mL)+동반위험에 몰림(Mohsen 2024: 실패율 <10 ng/mL 46.2% vs >30 ng/mL 4.5%; Miron 2025 SR: 조기 실패 최대 4배), 충분군 연구는 무차이(Francis 2024 n=174 NS·Buzatu 2024 SR 7편/4450개 전반 유의 연관 없음); 국소 칼시트리올 겔을 즉시식립에 적용한 소규모 RCT(Ayyad 2025, n=24)는 6개월 임플란트 안정성 지수(ISQ) 80 vs 75·골밀도 +18.1% vs +6.4% 모두 유의 우위.
+
+임상 권고: 고위험군(흡연·당뇨·치주염·재발 실패·중증 골다공증)에서 술전 25(OH)D 선별 + 중증 결핍(<10~20 ng/mL)만 교정 후 식립이 방어 가능; 충분군 루틴 보충은 현재 근거 없음.
 
 ## Summary
 

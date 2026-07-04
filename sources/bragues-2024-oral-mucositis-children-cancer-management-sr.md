@@ -17,13 +17,21 @@ text_filename: bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 
 The wiki's oral mucosal-disease coverage in `oral-medicine` (aphthous stomatitis, lichen planus, BMS) had no entry on cancer-therapy-induced oral mucositis — a high-incidence (40–100%) inflammatory condition distinct from those entities. This SR fills that gap and pairs with [[oral-medicine/dean-2022-oral-chronic-gvhd-review]], which covers the adjacent oncology context (oral chronic GVHD after hematopoietic stem cell transplantation); both deal with debilitating oral mucosal injury in the cancer/transplant patient, but mucositis is the acute antineoplastic-therapy lesion whereas chronic oral GVHD is the late immunologic one. According to PubMed ([DOI](https://doi.org/10.3390/cancers16081548)).
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (PRISMA, PROSPERO CRD42022347208; 39 studies, n=14–148, mNOS quality) of pediatric cancer-therapy-induced oral mucositis therapies: chlorhexidine best for incidence, honey best for duration, olive oil best for pain, palifermin reduces incidence/severity/duration; calcium phosphate showed no effect — but overall evidence remains inconclusive for firm protocols.
+Systematic review (PRISMA, PROSPERO CRD42022347208; 39 studies, n=14–148 per study; search to March 2024; mNOS quality assessment) focused exclusively on pediatric (≤18 y) cancer-therapy-induced oral mucositis management across 10 intervention classes.
 
-## 한줄요약
+LLLT was most studied (8 studies); chlorhexidine was most effective for incidence reduction; honey for duration; olive oil for pain; palifermin reduced incidence/severity/duration; calcium phosphate showed no effect in all three trials assessing it.
 
-소아 항암치료 구강점막염 치료를 다룬 체계적 문헌고찰 (PRISMA, 39편, n=14–148): 발생률엔 클로르헥시딘, 기간엔 꿀, 통증엔 올리브유가 가장 효과적이고 팔리퍼민은 발생률·중증도·기간을 줄였으나, 칼슘인산염은 효과 없음 — 전반적 근거는 아직 불충분.
+No meta-analysis was possible due to high heterogeneity across cancer types, protocols, and outcomes; evidence remains inconclusive for firm clinical protocols and larger standardized RCTs in pediatric populations are needed.
+
+## 세줄요약
+
+체계적 문헌고찰(PRISMA; PROSPERO CRD42022347208; 39편; 표본 n=14–148; 2024년 3월까지; mNOS 질 평가): 소아(≤18세) 항암치료 유발 구강점막염 관리의 10가지 중재 범주를 전용 평가.
+
+저출력 레이저치료(LLLT)가 가장 많이 연구됨(8편); 발생률엔 클로르헥시딘, 기간엔 꿀, 통증엔 올리브유가 최우수; 팔리퍼민은 발생률·중증도·기간 모두 감소; 칼슘인산염은 3편 모두 효과 없음.
+
+암 종류·프로토콜·결과 지표 간 높은 이질성으로 메타분석 불가; 전반적 근거 불충분하여 소아 대상 대규모 표준화 RCT가 필요.
 
 ## 1. Document Information
 

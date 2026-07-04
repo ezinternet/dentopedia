@@ -17,13 +17,21 @@ text_filename: jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.txt
 tags: [clear-aligner, fixed-appliance, premolar-extraction, complex-case, predictability, buccolingual-inclination, treatment-duration]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR (6 trials, n=283, premolar-extraction/complex cases): clear aligners and fixed appliances reach equivalent ABO-OGS/PAR outcomes, but fixed appliances achieve better buccolingual inclination and occlusal contacts in shorter time, while aligners show notable predicted-vs-achieved discrepancies in extraction cases.
+Systematic review (6 databases to Feb 2023; 6 trials, 3 RCTs + 2 retrospective cohorts + 1 CCT; n=283; RoB 2 + ROBINS-I) examining clear aligner effectiveness in the most demanding case class — premolar-extraction and complex malocclusions.
 
-## 한줄요약
+On final occlusal grading (ABO-OGS, PAR), 3 studies found no difference between aligners and fixed appliances; however, fixed appliances achieved better buccolingual inclination and occlusal contacts in shorter treatment time, while aligners showed meaningful predicted-vs-achieved discrepancies in the bodily movement and space closure demanded by extraction cases.
 
-SR(6편, n=283, 소구치 발치/복잡): CA와 FA의 ABO-OGS/PAR는 동등하나 FA가 buccolingual inclination·교합접촉이 더 좋고 기간이 짧음. 발치 케이스에서 CA는 predicted-achieved 괴리 뚜렷.
+Extraction/complex cases are feasible with aligners but carry a predictability penalty — expect mid-course corrections, plan robust anchorage and attachments, counsel on longer timelines, and consider fixed appliances where demanding torque/inclination control is required.
+
+## 세줄요약
+
+체계적 문헌고찰 (6개 데이터베이스, 2023년 2월까지; 6편, RCT 3 + 후향 코호트 2 + CCT 1; n=283; RoB 2 + ROBINS-I): 가장 어려운 케이스인 소구치발치·복잡 부정교합에서 투명교정 효과 검토.
+
+최종 교합 평점(ABO-OGS, PAR)에서 3편이 CA·FA 간 차이 없음; 그러나 FA가 buccolingual inclination·교합접촉 더 좋고 치료기간 짧음, CA는 발치 케이스에서 예측-달성 괴리 뚜렷.
+
+발치·복잡 케이스에 CA 가능하나 예측성 패널티 — 중간 수정, 강력한 앵커리지·attachment 계획, 장기 기간 상담 필요; 까다로운 torque·inclination 조절에는 FA 우위 유지.
 
 ## Summary
 

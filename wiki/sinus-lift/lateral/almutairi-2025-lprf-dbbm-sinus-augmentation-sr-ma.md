@@ -16,13 +16,21 @@ relations:
     target: idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 5 RCTs (n=140): L-PRF+DBBM significantly improves new bone formation (MD +7.07%, p<0.001, I²=37%) and reduces residual graft (MD −7.93%, p<0.001, I²=0%) vs DBBM alone in lateral sinus augmentation; ISQ at loading not significantly different.
+SR+MA (PRISMA+Cochrane; 5 RCTs, n=140) comparing leukocyte-platelet-rich fibrin (L-PRF) combined with demineralized bovine bone mineral (DBBM) versus DBBM alone for lateral maxillary sinus augmentation.
 
-## 한줄요약
+L-PRF+DBBM significantly improved new bone formation (MD +7.07%, 95% CI 2.20–11.93, p<0.001, I²=37%) and reduced residual graft material (MD −7.93%, 95% CI −11.20 to −4.66, p<0.001, I²=0%); ISQ at loading was not significantly different (MD −2.25, p=0.56).
 
-5편 RCT SR+MA (140명): L-PRF+DBBM은 DBBM 단독 대비 신생골 유의 증가(MD +7.07%, p<0.001)·잔류이식재 유의 감소(MD −7.93%, p<0.001); ISQ 및 연조직 비율은 유의차 없음.
+Despite superior histomorphometry, ISQ equivalence means earlier implant loading cannot be justified on stability alone — L-PRF adjunction to DBBM improves graft turnover but does not accelerate functional osseointegration by ISQ criteria.
+
+## 세줄요약
+
+측방 상악동거상술에서 백혈구혈소판풍부피브린(Leukocyte-Platelet-Rich Fibrin, L-PRF)+탈회우골미네랄(Demineralized Bovine Bone Mineral, DBBM) vs DBBM 단독을 비교한 SR+MA(PRISMA+Cochrane; RCT 5편, n=140).
+
+L-PRF+DBBM이 신생골 형성 유의 증가(MD +7.07%, p<0.001, I²=37%)·잔류 이식재 유의 감소(MD −7.93%, p<0.001, I²=0%); 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 유의차 없음(MD −2.25, p=0.56).
+
+조직형태계측적 우수성에도 ISQ 동등 — L-PRF 추가로 이식재 전환율은 향상되나 조기 부하 적응증으로 이어지지는 않음.
 
 ## Summary
 

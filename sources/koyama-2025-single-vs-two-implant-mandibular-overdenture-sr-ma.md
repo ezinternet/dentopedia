@@ -17,13 +17,23 @@ text_filename: koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.tx
 
 오버덴쳐 임플란트 감시 인제스트 — 하악 1 vs 2 임플란트 IOD를 직접 비교한 17-RCT SR+MA로, 임플란트 개수 결정의 핵심 근거. 임플란트 생존율은 5년까지 차이 없지만 보철 합병증(의치 파절·재제작·메탈하우징 재부착)은 1-IOD에서 ~2배 잦다는, 갯수 선택의 trade-off를 정량화한다. 기존 [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]](직경 비교)와 짝을 이뤄 하악 오버덴쳐 임플란트 설계 변수(직경 vs 개수)를 보강하며, [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]](부하 시기)와 함께 오버덴쳐 의사결정 축을 채운다.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA of 17 RCTs comparing single (1-IOD) vs two (2-IOD) implant mandibular overdentures: no difference in implant survival through 5 years, but denture fracture, denture remake, and metal-housing reattachment are ~2× more frequent with 1-IOD.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 하악 단일(1-IOD) vs 2개(2-IOD) 임플란트 오버덴쳐를 비교한 17편 RCT SR+MA — 5년까지 임플란트 생존율은 차이 없으나, 의치 파절·재제작·메탈하우징 재부착 같은 보철 합병증은 1-IOD에서 약 2배 더 잦다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

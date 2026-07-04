@@ -14,11 +14,21 @@ source_collection: external
 tags: [antibiotic-prophylaxis, infective-endocarditis, IE, AHA, NICE, dental-procedure, SR-MA, JAMA-Cardiol, risk-stratification]
 ---
 
-## One-line Summary
-JAMA Cardiology 2024 SR+MA (n=1,152,345 IE cases): antibiotic prophylaxis after invasive dental procedures significantly reduces IE risk only in high-risk patients; no significant effect in moderate-, low-, or unknown-risk groups — empirically supports the AHA/NICE high-risk-only recommendation.
+## Three-line Summary
 
-## 한줄요약
-JAMA Cardiology 2024 SR+MA (n=1,152,345 IE 사례): 침습적 치과시술 후 항생제 예방 — **고위험군에서만** IE 위험 유의 감소; 중간/저위험/불명 위험군에서는 효과 없음 → 2007/2017 AHA·NICE의 고위험군 한정 권고 입장 empirical 지지.
+SR+MA (JAMA Cardiology 2024, n=1,152,345 IE cases) risk-stratified analysis of antibiotic prophylaxis efficacy after invasive dental procedures across high-, moderate-, low-, and unknown-risk cardiac patient groups.
+
+Prophylaxis significantly reduces IE incidence only in high-risk patients (prosthetic valves, prior IE, certain congenital heart disease, cardiac transplant with valvulopathy); no significant effect in moderate, low, or unknown risk groups.
+
+Empirically supports AHA 2007/2017 and NICE 2008 high-risk-only prophylaxis policy; 90%+ of patients under old universal prophylaxis recommendations would derive no measurable IE benefit.
+
+## 세줄요약
+
+SR+MA (JAMA Cardiology 2024, n=1,152,345 IE 사례): 침습적 치과시술 후 항생제 예방 효과를 고위험·중간위험·저위험·불명 위험 심장질환군으로 층화 분석.
+
+항생제 예방이 IE 발생 유의하게 감소시키는 것은 고위험군(인공판막, 과거 IE, 특정 선천성 심장병, 이식 후 판막병)에서만; 나머지 위험군에서는 유의하지 않음.
+
+AHA 2007/2017·NICE 2008의 고위험군 한정 권고를 대규모 데이터로 실증 지지; 과거 전체예방 권고 하의 환자 90% 이상은 실질적 IE 예방 이득 없음.
 
 ## Summary
 Largest SR+MA to date on dental antibiotic prophylaxis for infective endocarditis (IE) prevention, including data on 1,152,345 IE cases. Stratifies analysis by patient IE risk category (high vs moderate vs low/unknown) — a critical methodological choice given the long debate over whom prophylaxis benefits.

@@ -13,13 +13,21 @@ source_collection: external
 
 비니어의 실험실(in vitro) 파절·탈락 원인이 임상 생존율에 어떻게 반영되는지 연결짓는 서사적 리뷰가 부족하여 추가. 기존 [[wiki/veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]]에서 제시한 생존율 메타분석을 기계적 실패 메커니즘 관점에서 보완한다.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (1999–2024) synthesizing in vitro failure mechanisms and clinical survival of dental veneers: >90% survival at 10+ years; minimal/no-prep glass-ceramic veneers show highest survival; fracture > debonding > color change as ranked failure modes.
+Narrative review (January 1999–January 2024; PubMed, Scopus, Google Scholar, ScienceDirect) linking in vitro failure mechanisms (fracture, debonding, color change) to clinical survival rates of dental veneers across multiple materials and preparation designs.
 
-## 한줄요약
+Minimal/no-prep glass-ceramic veneers achieved >90% survival at 10+ years; failure hierarchy was fracture > debonding > color change; once adhesively luted, 0.6 mm lithium disilicate showed equivalent fracture load to conventionally luted 1.5 mm veneers.
 
-서사적 문헌고찰(1999–2024): 치과 비니어(dental veneer)의 실험실 파절·탈락·색변화 원인과 임상 생존율(survival rate)을 연결 분석; 최소삭제(minimal/no-prep) 유리도재(glass-ceramic) 비니어가 10년 이상 >90% 생존율로 최우수.
+Narrative methodology with no PRISMA or meta-analysis; key clinical recommendations include IDS when dentin exposure exceeds 50%, proper HF etching + silane, and UDMA-based resin cements for color stability.
+
+## 세줄요약
+
+서사적 문헌고찰(1999–2024; PubMed/Scopus/Google Scholar/ScienceDirect): 치과 비니어의 in vitro 파절·탈락·색변화 원인을 임상 생존율과 직접 연결 — 재료·준비 디자인별 종합.
+
+최소삭제/무삭제 유리도재 비니어 10년 이상 >90% 생존율 최우수; 파절 > 탈락 > 색변화 순의 실패 위계; 접착 합착 후 0.6 mm 리튬 디실리케이트는 전통적 합착 1.5 mm와 파절 하중 동등.
+
+PRISMA·메타분석 없는 내러티브 리뷰; 핵심 임상 권고: 상아질 노출 >50%일 때 즉시 상아질 봉쇄(IDS), 올바른 HF 에칭+실란, 색안정성을 위한 UDMA 기반 레진 시멘트 사용.
 
 ## 1. Document Information
 

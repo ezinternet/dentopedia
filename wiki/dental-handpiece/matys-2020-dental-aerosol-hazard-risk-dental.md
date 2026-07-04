@@ -17,13 +17,21 @@ text_filename: matys-2020-dental-aerosol-hazard-risk-dental.txt
 tags: [dental-handpiece, high-speed, low-speed, aerosol, suction, high-volume-evacuator, er-yag-laser, infection-control]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro manikin study measuring aerosol (0.3–10 μm) at three sites during caries removal, scaling, and polishing — the high-speed handpiece produced the most aerosol, low-speed less than the high-speed turbine, Er:YAG laser the least, and wide customized high-volume evacuators removed the most aerosol.
+Controlled in-vitro manikin study (three-dimensional phantom, optical particle counter 0.3–10 µm, manikin/operator/assistant sites, 6 repeats) comparing aerosol from caries removal, ultrasonic scaling, and polishing across 7 suction modalities.
 
-## 한줄요약
+High-speed handpiece + saliva ejector produced the highest aerosol at all sites; low-speed handpiece significantly less than the high-speed turbine; Er:YAG laser + HVE the least (operator 29.2 ± 0.8); Zirc customized HVE achieved 88% aerosol reduction vs standard HVE during high-speed caries removal.
 
-마네킹 인비트로 실험(0.3–10 μm, 3지점) — 하이스피드 핸드피스가 에어로졸 최다, 로우스피드는 하이스피드 터빈보다 적게, Er:YAG 레이저가 최소 생성했고, 넓은 맞춤형 고용량 흡입기(HVE)가 가장 효과적으로 제거(Zirc 88% 감소).
+Suction device choice is the primary controllable exposure determinant — wide HVE removed 2× more than standard HVE and 8× more than a saliva ejector; Er:YAG laser is the lowest-aerosol caries-removal modality.
+
+## 세줄요약
+
+3D 마네킹 인비트로 실험(광학입자측정기 0.3–10 µm, 마네킹·술자·보조자 3지점, 6반복) — 우식 제거·초음파 스케일링·연마 시 7종 흡인기구별 에어로졸 비교.
+
+하이스피드 핸드피스+타액흡인기가 전 지점 최다; 로우스피드는 하이스피드 터빈보다 유의하게 적음; Er:YAG 레이저+HVE 최소(술자 29.2±0.8); Zirc 맞춤 HVE는 하이스피드 우식 제거 시 표준 HVE 대비 88% 감소.
+
+흡인 장치 선택이 노출을 결정하는 1차 통제 변수 — 맞춤 HVE는 표준 HVE의 2배, 타액흡인기의 8배 제거; Er:YAG 레이저가 가장 낮은 에어로졸 우식 제거 수단.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 치성 피부 누공(Odontogenic Cutaneous Sinus Tract, OCST)은 치아 증상 없이 피부 병소로만 나타나 흔히 오진되는데, 본 증례는 정확한 치성 진단과 근관치료(RCT)만으로 외과적·항생제 치료를 회피할 수 있음을 보여 근관치료 진단·감별의 임상적 가치를 강화한다. [[endodontics/anatomy/mohammadi-2016-methods-decrease-missed-root-canals]]가 다루는 누락 근관·불완전 처치로 인한 지속 감염 문제와 맥을 같이하며, 근단 감염 원인 치아 식별의 중요성을 확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Case report (n=1, 11-year-old boy): an odontogenic cutaneous sinus tract on the left cheek, secondary to chronic periradicular periodontitis of mandibular first molar (tooth 36), was misdiagnosed/treated dermatologically for 6 months but resolved fully after root canal therapy plus granuloma debridement, with complete healing at 6 months.
+Case report (n=1, 11-year-old boy, Guangzhou) presenting with a non-healing ~2.5 cm purulent abscess on the left cheek for 6 months misdiagnosed as a dermatological condition; TB excluded; tooth 36 found necrotic with periapical radiolucency; multi-visit RCT (Vitapex dressing, cold lateral condensation) closed the sinus tract by the third visit (2 weeks).
 
-## 한줄요약
+After RCT, residual cheek granulation tissue required surgical debridement; complete radiographic and clinical healing confirmed at 6 months follow-up.
 
-증례보고 (1명, 11세 남아): 좌측 뺨의 치성 피부 누공(OCST)이 하악 제1대구치(36번) 만성 치근단주위염에서 비롯되었으나 6개월간 피부과적으로 오진·오치됐고, 근관치료(RCT)와 육아종 변연절제술 후 완전 치유되어 6개월 추적에서 병소 소실됨.
+Odontogenic cutaneous sinus tracts are frequently misdiagnosed because dental symptoms are absent; endodontic origin must be the first differential for any non-healing facial draining lesion; RCT of the offending tooth can resolve the cutaneous component without extraction — but n=1 limits evidence generalizability.
+
+## 세줄요약
+
+증례보고(n=1, 11세 남아, 광저우): 6개월간 좌측 뺨의 화농성 누공이 피부과 오진·항생제 무효 후 치과 의뢰; 결핵 제외; 하악 제1대구치(36번) 괴사 치수 및 치근단 병변 확인; 다회내원 근관치료(Vitapex 드레싱 → 차가운 측방가압 충전)로 3회 방문(2주) 만에 피부 누공 폐쇄.
+
+근관치료 후 잔존 육아조직은 국소·전신마취 하 외과적 변연절제술 추가 시행; 6개월 추적에서 방사선학적·임상적 완전 치유 확인.
+
+치성 피부 누공(Odontogenic Cutaneous Sinus Tract, OCST)은 치아 증상 없이 나타나 피부과로 오진되기 쉬움 — 비치유성 안면 누공에서 치성 원인을 먼저 감별해야 하며, 근관치료만으로 발치 없이 해결 가능; 단, n=1 증례보고로 근거 수준 최하위.
 
 ## 1. Document Information
 

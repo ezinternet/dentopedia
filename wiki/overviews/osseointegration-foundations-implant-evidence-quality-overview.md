@@ -28,13 +28,21 @@ tags: [osseointegration, foundations, history, surface-topography, sla, slactive
 > - 사용법: 이 페이지는 임플란트 카테고리의 **landing anchor** — 표면·골질·안정성·주위염 세부 overview로 가기 전 "정착 생물학은 무엇이고 그 숫자를 얼마나 믿을 것인가"의 backbone.
 > - 시간축 caveat: buser·bosshardt·gaviria는 2014~2017 narrative review라 SR+MA가 아님 — 최신 표면·지르코니아·주위염 정량치는 각 세부 overview(surface·peri-implantitis)가 갱신.
 
-## One-line Summary
+## Three-line Summary
 
-Anchor synthesis of 5 papers (3 narrative reviews, 1 SR+MA, 1 SR) organizing implant knowledge into two axes: Axis 1 — the settled osseointegration foundations (dual founding schools, moderately rough Sa 1–2 µm surfaces as master-variable, SLA→SLActive %BIC ladder, TiZr≈cpTi material biology, with peri-implantitis and zirconia as open controversies); and Axis 2 — the evidence-quality discount factor (minipig-model heterogeneity I²>90% and low reporting quality upstream; industry-sponsorship inflation OR 0.21 downstream) that softens the quantitative confidence attached to Axis 1.
+Anchor synthesis of 5 papers (3 narrative reviews, 1 SR+MA, 1 SR) across two axes: Axis 1 settles osseointegration foundations — dual founding schools (Brånemark/Schroeder), moderately rough Sa 1–2 µm as master-variable, SLA→SLActive %BIC ladder, TiZr≈cpTi, peri-implantitis and zirconia as open controversies.
 
-## 한줄요약
+Axis 2 quantifies the evidence-quality discount factor: minipig-model pooled BIC 59.88% carries I²>90% heterogeneity and poor reporting quality (Musskopf 2022), while industry-linked studies report failure at OR 0.21 — ~5× lower than non-industry (Popelut 2010).
 
-임플란트 정착 기초·근거품질 anchor 5편: Brånemark/Schroeder 이원 창시와 표면거칠기(Sa 1~2µm)·SLActive %BIC 사다리·TiZr≈cpTi 재료생물학은 정착된 기초(Axis 1)이나, 미니피그 모델 초고이질성·저보고(musskopf)와 산업 스폰서십 ~5× 실패율 축소(popelut)가 그 수치에 걸어야 할 할인계수(Axis 2)임.
+Combined: Axis 1 biology is robust and internally consistent, but quantitative figures from both preclinical and clinical literature are softer than they appear — apply the heterogeneity and sponsorship discounts when quoting %BIC or survival numbers.
+
+## 세줄요약
+
+임플란트 정착 기초·근거품질 anchor 5편 — Axis 1은 Brånemark/Schroeder 이원 창시·표면거칠기(Sa 1~2µm)·SLA→SLActive 골접촉률(%BIC) 사다리·TiZr≈cpTi 재료생물학을 정착된 기초로 정리.
+
+Axis 2는 할인계수: 미니피그 모델 풀링 %BIC 59.88%에 I²>90% 초고이질성·저보고(Musskopf 2022), 산업연계 연구 실패율 OR 0.21(~5× 축소, Popelut 2010).
+
+결론: 정착 생물학은 견고하나 거기 붙은 정량 신뢰도는 보이는 것보다 물렁하다 — 이 페이지가 임플란트 카테고리의 landing anchor.
 
 ## Summary
 

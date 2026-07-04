@@ -13,13 +13,23 @@ source_collection: external
 
 Tissue-level implant crestal bone behavior is a recurring clinical question; this pre-clinical study provides BIC and fBIC benchmarks for a novel fully tapered self-cutting tissue-level design (Straumann TLX) across three diameters in moderate bone quality, directly extending the evidence base reviewed in [[wiki/implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] regarding tissue-level implant crestal bone preservation advantages.
 
-## One-line Summary
+## Three-line Summary
+
 
 Animal (minipig, n=48 implants, 12 wk) non-inferiority study comparing a novel fully tapered self-cutting tissue-level implant (Straumann TLX) to the established Straumann Standard Plus across small/medium/large diameters in moderate bone: BIC was non-inferior (≈45–61% test vs 52–55% control), fBIC showed superior crestal bone maintenance for test implants, and insertion torques were markedly higher for the tapered design.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 미니피그 하악(n=48개 임플란트, 12주 치유, 보통 골질) 비열등성 동물연구: 신규 완전 테이퍼형 자가절삭 조직 수준 임플란트(Straumann TLX)가 기존 Standard Plus 대비 BIC 비열등(≈45–61% vs 52–55%), fBIC(치조골 유지) 우위, 삽입 토크값 현저히 높음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

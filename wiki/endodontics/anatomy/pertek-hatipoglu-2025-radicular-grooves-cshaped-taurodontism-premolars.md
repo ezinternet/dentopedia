@@ -22,13 +22,21 @@ relations:
     target: brea-2021-cbct-cshaped-mandibular-premolars
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter cross-sectional study with meta-analytic pooling (20 countries, 6,000 participants / 12,000 bilateral mandibular first premolars, CBCT): C-shaped canal global prevalence 10% (95% CI 7–12%; Asia 19%, Europe 3%), radicular grooves 20%, taurodontism 7%; all three show strong bilateral symmetry and inter-correlation suggesting shared developmental pathways.
+Standardized multicenter CBCT cross-sectional study with meta-analytic pooling across 20 countries (6,000 participants / 12,000 bilateral mandibular first premolars), co-quantifying radicular grooves, C-shaped canals, and taurodontism in one dataset.
 
-## 한줄요약
+Global C-shaped canal prevalence was 10% (95% CI 7–12%; Asia 19%, Yemen 31%, Europe 3%), radicular grooves 20%, and taurodontism 7%; all three showed strong bilateral symmetry and mutual inter-correlation (I²=98% for C-shaped).
 
-다기관 단면연구+메타분석(20개국, 6,000명/12,000 양측 하악 제1소구치, CBCT): C-shaped 근관 전세계 유병률 10%(95% CI 7–12%; 아시아 19%·예멘 31% 최고, 유럽 3% 최저), radicular groove 20%, taurodontism 7% — 세 변이 모두 강한 양측 대칭성·상호 상관(공유 발생 경로). I²=98%로 지역간 이질성 큼.
+The bilateral symmetry of all three anatomical variants supports contralateral CBCT vigilance, and steep geographic gradients require population-specific clinical expectations.
+
+## 세줄요약
+
+20개국 표준화 다기관 CBCT 횡단 연구+메타 분석(6,000명/12,000 양측 하악 제1소구치), radicular groove·C-shaped 근관·타우로돈티즘을 단일 데이터셋에서 공동 측정.
+
+C-shaped 근관 전세계 유병률 10% (95% CI 7–12%; 아시아 19%·예멘 31% 최고, 유럽 3%); radicular groove 20%, taurodontism 7%; 세 변이 모두 강한 양측 대칭성·상호 상관(I²=98%).
+
+세 해부학적 변이의 높은 양측 대칭성으로 인해 반대편 CBCT 주의가 권고되며, 급격한 지역별 유병률 차이에 따른 인구 특이적 임상 예측이 필요.
 
 ## Summary
 

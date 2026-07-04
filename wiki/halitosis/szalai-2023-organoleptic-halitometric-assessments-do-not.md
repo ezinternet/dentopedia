@@ -13,13 +13,21 @@ source_collection: external
 tags: [halitosis, organoleptic-test, halitometer, VSC, OralChroma, Halimeter, gas-chromatography, diagnostic-accuracy, SR+MA]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 76 studies (n=14,635) shows Halimeter, OralChroma, and bench GC correlate only moderately with the gold-standard organoleptic test (r=0.65–0.76), and no device can currently replace sensory halitosis assessment.
+SR+MA of 76 studies (n=14,635 adult patients; PROSPERO CRD42022320024) evaluating whether Halimeter, OralChroma, or bench gas chromatography (GC) can replace the organoleptic test (OLT) for diagnosing intra-oral halitosis.
 
-## 한줄요약
+Pooled Spearman correlations with OLT were: Halimeter r=0.65 (I²=95%), OralChroma r=0.69 (I²=12%), and bench GC r=0.76 (I²=0%); all were statistically significant but none exceeded the threshold for strong clinical agreement; SROC analysis confirmed no device was superior.
 
-76개 연구(n=14,635) SR+MA에서 할리미터·OralChroma·GC 모두 관능검사(OLT)와 중등도 상관(r=0.65–0.76)에 그쳐, 현재 구취측정기는 OLT를 대체할 수 없음.
+No current halitometer is an acceptable substitute for the organoleptic gold standard — new contactless devices or hybrid approaches are urgently needed, particularly given safety concerns during infectious disease outbreaks.
+
+## 세줄요약
+
+성인 구강내 구취 환자 대상 76개 연구(n=14,635) SR+MA; 할리미터·OralChroma·벤치 GC가 관능검사(OLT) 금본위를 대체할 수 있는지 평가.
+
+OLT와의 Spearman 상관: 할리미터 r=0.65(I²=95%), OralChroma r=0.69(I²=12%), 벤치 GC r=0.76(I²=0%); 모두 통계적 유의성 확인되나 강한 임상적 일치 역치 미달; SROC 분석에서도 우월한 기기 없음.
+
+현재 어떤 구취 측정기도 OLT를 대체할 수 없음 — 감염병 유행 시 근거리 관능검사 안전 문제를 고려할 때 비접촉식 신기기 개발이 시급.
 
 ## Summary
 

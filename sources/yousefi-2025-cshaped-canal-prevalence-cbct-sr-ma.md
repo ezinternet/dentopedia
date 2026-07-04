@@ -13,13 +13,23 @@ source_collection: external
 
 This 101-study SR+MA is the highest-evidence anchor for C-shaped canal prevalence in the wiki, pooling the kind of single-population cross-sectional data captured in [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] and the sibling prevalence pages ([[endodontics/anatomy/abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct]], [[endodontics/anatomy/armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct]], [[endodontics/anatomy/brea-2021-cbct-cshaped-mandibular-premolars]]) into continent-, gender-, and tooth-type-stratified estimates. It supersedes the per-study scatter with a pooled mandibular-second-molar estimate of 17.3% and confirms the Asian + female predominance pattern.
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis of 101 CBCT studies (from 5548 screened): highest C-shaped canal prevalence in mandibular second molars (17.3%), lowest in maxillary first molars (0.8%); female predominance in mandibular second molars (23.6% vs 16.7%); highest in the Asian continent; right/left difference not significant (21.2% vs 23.1%).
 
-## 한줄요약
+Systematic review + meta-analysis of 101 CBCT studies (from 5548 screened): highest C-shaped canal prevalence in mandibular second molars (17.3%), lowest in maxillary first molars (0.8%);
 
-CBCT 연구 101편(5548편 스크리닝) 체계적 문헌고찰+메타분석: C-shaped 근관 유병률은 하악 제2대구치에서 최고(17.3%), 상악 제1대구치에서 최저(0.8%); 하악 제2대구치에서 여성 우세(23.6% vs 16.7%); 아시아 대륙에서 가장 높음; 좌우 차이 무의미(21.2% vs 23.1%).
+female predominance in mandibular second molars (23.6% vs 16.7%);
+
+highest in the Asian continent; right/left difference not significant (21.2% vs 23.1%).
+
+## 세줄요약
+
+
+CBCT 연구 101편(5548편 스크리닝) 체계적 문헌고찰+메타분석: C-shaped 근관 유병률은 하악 제2대구치에서 최고(17.3%), 상악 제1대구치에서 최저(0.8%);
+
+하악 제2대구치에서 여성 우세(23.6% vs 16.7%);
+
+아시아 대륙에서 가장 높음; 좌우 차이 무의미(21.2% vs 23.1%).
 
 ## 1. Document Information
 

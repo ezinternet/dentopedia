@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[endodontics/regenerative/]] 논문들은 scaffold/barrier 위주; 약제 선택(TAP vs DAP vs Ca(OH)₂)이 REP 결과에 미치는 영향을 SR+MA로 정량화한 첫 메타분석. TAP·CH 동등, 두 약제 모두 DAP 대비 우월함을 pooled success rate으로 직접 수치화.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 24 studies (n=791) in permanent necrotic immature teeth finds TAP (96.7%) and Ca(OH)₂ (97.4%) equivalent for 1-year REP success, both superior to DAP (84.2%; GRADE: high for TAP/CH, low for DAP).
+SR+MA with naïve indirect comparison (24 studies, n=791 permanent necrotic immature teeth; MEDLINE/Scopus/Embase/Web of Science; PROSPERO CRD42023484189) comparing TAP, DAP, and Ca(OH)₂ as intracanal medicaments for REP 1-year clinical success.
 
-## 한줄요약
+TAP (96.7%, 95% CI 94.8–98.0%, GRADE high) and Ca(OH)₂ (97.4%, 95% CI 93.9–99.1%, GRADE high) are equivalent (TAP−CH difference −0.7%, within ±2.5% equivalence margin); both are superior to DAP (84.2%, GRADE low): TAP−DAP +12.5% (95% CI 2.8–22.1%), CH−DAP +13.2% (95% CI 3.3–23.0%).
 
-영구 미성숙 치아 REP에서 TAP(96.7%)과 수산화칼슘(97.4%)의 1년 성공률이 동등하며, 두 약제 모두 DAP(84.2%)보다 우월함을 24개 연구 SR+MA로 확인.
+DAP evidence is very limited (3 studies, n=64, GRADE low); no direct head-to-head comparisons existed, necessitating the less-robust naïve indirect approach; scaffold type did not significantly affect 1-year success.
+
+## 세줄요약
+
+SR+MA 단순 간접비교 (24편, 791개 영구 미성숙 괴사치; PROSPERO CRD42023484189) — REP 1년 임상 성공률 기준 TAP·DAP·수산화칼슘(Ca(OH)₂) 비교.
+
+TAP (96.7%, GRADE 높음)과 Ca(OH)₂ (97.4%, GRADE 높음)는 동등 (차이 −0.7%, 등가 범위 ±2.5% 이내); 두 약제 모두 DAP (84.2%, GRADE 낮음) 대비 우월: TAP−DAP +12.5%, CH−DAP +13.2%.
+
+DAP 근거 극히 제한 (3편, n=64, GRADE 낮음); 직접 head-to-head 비교 없어 단순 간접 비교 불가피; 스캐폴드 종류는 1년 성공률에 유의 영향 없음.
 
 ## 1. Document Information
 

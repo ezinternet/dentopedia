@@ -17,13 +17,23 @@ text_filename: elhusseiny-2024-oral-health-children-chronic.txt
 
 USER EMPHASIS — renal/dialysis dental management. Opens the CKD/hemodialysis/renal-transplant sub-topic in medically-compromised dentistry (none existed in the wiki yet). This adds the **renal/CKD axis** to the systemic-disease management collection alongside the existing diabetes axis: [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — both are chronic systemic conditions that reshape oral-disease risk and constrain dental treatment planning (bleeding risk, drug clearance, immunosuppression, infection control). NOTE the **pediatric scope** as a key limitation: management thresholds (dialysis-day timing, GO drug-substitution, transplant 6-month window) are framed for children and must be extrapolated cautiously to adults.
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (12 included studies) of oral manifestations and dental management in pediatric CKD, hemodialysis, and renal transplantation — paradoxically LOW caries (high salivary urea/buffering) but HIGH enamel defects (31-83%), gingival/periodontal disease, calculus, xerostomia, and drug-induced gingival overgrowth; key management levers are dialysis-day-after timing, bleeding-risk control, fluoride contraindication, and the 6-month post-transplant elective-care moratorium.
 
-## 한줄요약
+Narrative review (12 included studies) of oral manifestations and dental management in pediatric CKD, hemodialysis, and renal transplantation — paradoxically LOW caries (high salivary urea/buffering) but HIGH enamel defects (31-83%), gingival/periodontal disease, calculus, xerostomia, and drug-induced gingival overgrowth;
+
+key management levers are dialysis-day-after timing, bleeding-risk control, fluoride contraindication, and the 6-month post-transplant elective-care moratorium.
+
+(incomplete)
+
+## 세줄요약
+
 
 소아 만성콩팥병(CKD)·혈액투석·신장이식 환자의 구강 발현과 치과적 관리를 다룬 narrative review(포함 연구 12편) — 타액 요소·완충능이 높아 우식은 역설적으로 적지만 법랑질 형성저하(31-83%), 치은·치주질환, 치석, 구강건조증, 약물성 치은비대가 흔하며, 핵심 관리 원칙은 투석 다음날 시술·출혈위험 관리·불소 금기·이식 후 6개월 선택적 치료 보류이다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

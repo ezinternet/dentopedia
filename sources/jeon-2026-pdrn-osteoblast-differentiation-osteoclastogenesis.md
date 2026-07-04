@@ -16,13 +16,23 @@ category: [pdrn]
 
 기존 PDRN 골 재생 임상 논문([[pdrn/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing]])이 오스테오블라스트/오스테오클라스트 이중 모델 없이 골 재생 효과를 보고했으나, 인과 기전이 불분명했음. 본 연구는 PDRN이 오스테오클라스트를 직접 억제하지 않고 오스테오블라스트만 선택적으로 강화한다는 분리 기전을 최초로 증명. [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]]에서 기술된 A2A receptor 기전을 세포 수준에서 뒷받침.
 
-## One-line Summary
+## Three-line Summary
+
 
 In vitro study (MC3T3-E1 osteoblasts + primary BMM osteoclasts) showing PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis, supporting its role as a selective anabolic bone agent.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 MC3T3-E1 오스테오블라스트와 골수유래 대식세포(BMM) 오스테오클라스트를 이용한 시험관 내 연구로, PDRN이 오스테오블라스트 분화(Runx2↑, ALP↑, 광화↑)를 선택적으로 촉진하고 오스테오클라스트 생성에는 영향을 주지 않음을 증명.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -15,13 +15,23 @@ source_collection: external
 
 **자료 한계 [근거강함→제한]:** papers/ 파일은 실제 full-text PDF가 아닌 ScienceDirect 저장 웹페이지(초록+서론+토의+결론 확보). SLA 본문 세부(통계 p값 등)는 미확인.
 
-## One-line Summary
+## Three-line Summary
 
-In vivo miniature pig study (16 SLA implants in 4 pigs, frontal bone, 8-week healing; cold argon plasma applied chairside 240 s before insertion): plasma group showed higher bone-to-implant contact (90.4% vs 86.5%) and interthread bone density (72.5% vs 63.4%), with peri-implant bone density similar (60.5% vs 61.1%); authors describe the increases as slight and fluorescence labeling did not indicate significantly faster/stronger mineralization.
 
-## 한줄요약
+In vivo miniature pig study (16 SLA implants in 4 pigs, frontal bone, 8-week healing;
 
-미니돼지 in vivo(SLA 임플란트 16개, 4마리, 전두골, 8주; 식립 전 cold argon plasma 240초): 플라즈마군이 골-임플란트 접촉률(90.4% vs 86.5%)·나사산간 골밀도(72.5% vs 63.4%)는 더 높았으나, 임플란트주위 골밀도는 유사(60.5% vs 61.1%). 저자는 증가폭을 "약간 높음"으로 기술하고, 형광표지상 광물화가 유의하게 빠르거나 강하지는 않았다.
+cold argon plasma applied chairside 240 s before insertion): plasma group showed higher bone-to-implant contact (90.4% vs 86.5%) and interthread bone density (72.5% vs 63.4%), with peri-implant bone density similar (60.5% vs 61.1%);
+
+authors describe the increases as slight and fluorescence labeling did not indicate significantly faster/stronger mineralization.
+
+## 세줄요약
+
+
+미니돼지 in vivo(SLA 임플란트 16개, 4마리, 전두골, 8주;
+
+식립 전 cold argon plasma 240초): 플라즈마군이 골-임플란트 접촉률(90.4% vs 86.5%)·나사산간 골밀도(72.5% vs 63.4%)는 더 높았으나, 임플란트주위 골밀도는 유사(60.5% vs 61.1%).
+
+저자는 증가폭을 "약간 높음"으로 기술하고, 형광표지상 광물화가 유의하게 빠르거나 강하지는 않았다.
 
 ## 1. Document Information
 

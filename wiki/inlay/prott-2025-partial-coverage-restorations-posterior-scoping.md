@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Scoping review of survival rates for posterior partial coverage restorations: ceramic inlays/onlays 5-year survival 93–96% (lithium disilicate highest), endocrowns 92–95%, resin composite 88–94% — ceramic comparable to full crowns.
+## Three-line Summary
+Scoping review (broad clinical study inclusion) mapping 5-year survival rates of posterior partial coverage restorations by material type: inlays, onlays, and endocrowns across ceramic, resin composite, and hybrid materials.
 
-## 한줄요약
-구치부 부분 피개 수복물(인레이·온레이·엔도크라운) 생존율 스코핑 리뷰 — 세라믹 93–96%, 엔도크라운 92–95%.
+Ceramic inlays/onlays showed 5-year survival of 93–96% (lithium disilicate highest); endocrowns for endodontically treated teeth 92–95%; resin composite partial coverage 88–94% — ceramic performance is comparable to full crowns.
+
+An adhesive protocol is essential for all partial coverage restorations; the scoping methodology limits quantitative meta-analytic comparisons but confirms ceramic as the first-choice material.
+
+## 세줄요약
+구치부 부분피개 수복물(인레이·온레이·엔도크라운) 재료별 5년 생존율을 광범위한 임상연구 포함 기준으로 매핑한 스코핑 리뷰.
+
+세라믹 인레이/온레이 5년 생존율 93–96%(리튬디실리케이트 최고); 근관치료 후 엔도크라운 92–95%; 복합레진 부분피개 88–94% — 세라믹은 풀크라운과 동등한 성적.
+
+모든 부분피개 수복에 접착 프로토콜이 필수; 스코핑 설계로 정량적 메타분석 불가하나 세라믹 제1선택 재료임을 확인.
 
 ## Summary
 Scoping review of survival rates of posterior partial coverage restorations (inlays, onlays, endocrowns) by material type.

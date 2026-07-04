@@ -13,11 +13,19 @@ source_collection: external
 tags: [zirconia, zro2, single-crown, fpd, fixed-dental-prosthesis, 5-year, retrospective, chipping, marginal-adaptation, survival-rate]
 ---
 
-## One-line Summary
-5-year retrospective comparison of zirconia single crowns vs FDPs (Medicina 2025, Romania): both showed high survival rates; veneering ceramic chipping was more frequent in FDPs; marginal adaptation remained acceptable for both groups over 5 years.
+## Three-line Summary
+5-year retrospective cohort study (Medicina 2025, two Romanian university dental centers) comparing clinical performance and survival of zirconia (ZrO₂) single crowns versus zirconia fixed dental prostheses (FDPs) with outcomes assessed for survival rate, technical complications, biological complications, and marginal adaptation.
 
-## 한줄요약
-지르코니아(Zirconia, ZrO₂) 단관 vs FPD 5년 후향적 비교 (Medicina 2025, 루마니아): 단관과 FPD 생존율 모두 높음; FPD에서 베니어 칩핑(Chipping) 빈도 더 높음; 변연 적합성 양 군 5년간 양호.
+Both single crowns and FDPs showed high 5-year survival rates (>90%); veneering ceramic chipping was more frequent in FDPs than single crowns, consistent with greater biomechanical stress distribution in multi-unit designs.
+
+Marginal adaptation remained clinically acceptable at 5 years for both restoration types, and biological complications were low in both groups, supporting zirconia as a viable metal-free option for both single and multi-unit prosthodontics.
+
+## 세줄요약
+5년 후향적 코호트 연구(Medicina 2025, 루마니아 2개 대학 치과): 지르코니아 단관 vs FPD — 생존율·기술적 합병증·생물학적 합병증·변연 적합성 비교.
+
+단관·FPD 모두 5년 생존율 높음(>90%); FPD에서 베니어 도재 칩핑(Chipping) 빈도 단관보다 높음 — 다단위 설계의 응력 분포 차이와 일치.
+
+5년 변연 적합성 양 군 임상적으로 허용 범위; 생물학적 합병증 낮음 — 단관·다단위 모두 금속 대안으로서 지르코니아 타당성 지지.
 
 ## Summary
 Five-year retrospective cohort study comparing clinical performance and survival of zirconia (ZrO₂) single crowns vs zirconia FDPs. Conducted at Romanian university dental centers (Timișoara and Arad). Real-world clinical data assessing: survival rate, technical complications (chipping, fracture), biological complications, and marginal adaptation.

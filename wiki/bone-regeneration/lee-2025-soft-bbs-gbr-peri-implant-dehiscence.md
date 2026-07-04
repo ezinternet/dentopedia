@@ -18,13 +18,21 @@ relations:
     target: friedmann-2022-horizontal-augmentation-gbr-dog
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Dog study (4 dogs, 32 implants, 8 weeks): L-shaped loosely-packed vs compactly-packed soft block bone substitutes showed equivalent GBR outcomes for peri-implant dehiscence — no significant bone width difference at any level; both failed coronally without membrane fixation; micro-CT overestimated by 0.31 mm but correlated strongly with histomorphometry (r=0.971).
+Pre-clinical dog study (4 dogs, 32 implants, 8 weeks) comparing L-shaped loosely-packed (LP) vs compactly-packed (CP) porcine soft block bone substitutes for GBR at standardized 5×5 mm buccal dehiscence defects, using non-fixed collagen membranes.
 
-## 한줄요약
+LP and CP application techniques produced equivalent bone width at all levels from the implant shoulder to 5 mm apical; both groups showed near-zero bone at the coronal region (shoulder: 0 mm, 1 mm apical: ~0.1 mm) due to non-fixed membrane collapse.
 
-개 동물실험 (4마리, 32 임플란트, 8주): L형 느슨 적용(LP) vs 비성형 압축 적용(CP) 연조질 블록형 골대체재(Soft BBS) 간 골폭 유의차 없음; 막 고정 없이 두 군 모두 치관부 골유지 불량; 미세CT(micro-CT)는 0.31mm 과대평가하나 조직계측과 강한 상관(r=0.971).
+BBS compaction technique alone cannot compensate for absent membrane fixation; micro-CT overestimated bone width by 0.31 mm but correlated strongly with histomorphometry (r=0.971), validating its use as a pre-clinical surrogate.
+
+## 세줄요약
+
+개 전임상 연구(4마리, 32 임플란트, 8주): 표준화 5×5 mm 협측 열개결손에서 L형 느슨 적용(Loosely Packed, LP) vs 압축 적용(Compactly Packed, CP) 연조질 블록형 골대체재(Block Bone Substitute, BBS) 비교, 비고정 콜라겐막 사용.
+
+LP·CP 간 모든 레벨에서 골폭 유의차 없음; 비고정 막 붕괴로 임플란트 견부(0 mm)·1 mm 하방(약 0.1 mm) 모두 치관부 골재생 불량.
+
+골대체재 충전 기법만으로는 막 고정 부재를 보완할 수 없음; 미세CT는 0.31 mm 과대평가하나 조직계측과 강한 상관(r=0.971)으로 전임상 대리지표로 유효.
 
 ## Summary
 

@@ -19,13 +19,21 @@ relations:
     target: kim-2026-probiotics-nspt-periodontal-db-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Double-blind placebo-controlled RCT (n=80) of 8-week OraCMU/ProbioticCMU oral probiotic tablets vs placebo in adults with gingivitis/incipient periodontitis: probiotic gave significantly greater reductions in gingival index (GI −0.19 vs −0.08, p=.035) and bleeding on probing (BOP −7.74 vs −2.82, p=.030), modulated inflammatory markers and oral microbiota, no serious adverse events.
+Double-blind placebo-controlled RCT (n=80, 1:1, adults with gingivitis and incipient periodontitis) testing 8-week twice-daily OraCMU/ProbioticCMU oral probiotic tablets versus placebo, assessed at six index teeth at baseline and week 8.
 
-## 한줄요약
+Probiotic group showed significantly greater reductions in gingival index (GI −0.19 vs −0.08, p=.035) and bleeding on probing (BOP −7.74 vs −2.82, p=.030), with significant modulation of inflammatory markers (FGF-5, TSLP, RANKL/OPG ratio) and oral microbiota; no serious adverse events.
 
-성인 치은염·초기 치주염 80명 이중맹검 위약대조 RCT: OraCMU/ProbioticCMU 경구 프로바이오틱 정제 8주 복용군이 위약군 대비 치은지수(GI −0.19 vs −0.08, p=.035)와 탐침시 출혈(BOP −7.74 vs −2.82, p=.030)을 유의하게 더 감소시켰고 염증 마커·구강 미생물총을 조절, 중대 이상반응 없음.
+An 8-week oral probiotic course as a standalone supplement significantly improves gingival inflammation (GI, BOP) in gingivitis/early periodontitis with a clean safety profile, supporting probiotics as a low-risk adjunct to professional care — limited by abstract-only availability (strain identity, CFU dose, and most secondary outcomes not recoverable).
+
+## 세줄요약
+
+이중맹검 위약대조 RCT (n=80, 1:1, 치은염·초기 치주염 성인): 8주간 1일 2회 OraCMU/ProbioticCMU 경구 프로바이오틱 정제 vs 위약, 6개 지표 치아 기준선·8주 평가.
+
+프로바이오틱군: 치은지수(GI) −0.19 vs −0.08 (p=.035), 탐침시 출혈(BOP) −7.74 vs −2.82 (p=.030) 유의 감소; 염증 마커 (FGF-5, TSLP, RANKL/OPG 비) 및 구강 미생물총 유의 조절; 중대 이상반응 없음.
+
+8주 경구 프로바이오틱 단독 보충제로 치은염·초기 치주염에서 치은 염증(GI, BOP)을 유의하게 개선, 안전성 양호 — 단 초록 전용으로 균주 정체·CFU 용량·2차 결과 대부분 확인 불가.
 
 ## Summary
 

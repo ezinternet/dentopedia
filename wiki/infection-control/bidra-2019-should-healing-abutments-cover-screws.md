@@ -19,13 +19,21 @@ relations:
     target: eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (6 observational studies, >300 used healing abutments): routine mechanical/chemical/steam decontamination often fails to fully remove contaminants, yet no clinical study and no adverse consequence has been reported — so indiscriminate reuse of healing abutments and cover screws should be avoided until stronger evidence exists.
+Systematic review (657 titles → 6 included observational studies, >300 used healing abutments) addressing two questions: can used titanium HAs and cover screws be effectively resterilized, and have adverse consequences of reuse been reported?
 
-## 한줄요약
+Three of 6 studies found routine mechanical/chemical/steam methods did NOT fully remove contaminants; 2 found adequate decontamination only with supplemental regimens; 1 found routine methods sufficient; no true clinical studies and no adverse consequences (infection, bone loss, implant failure, patient harm) were identified.
 
-체계적 문헌고찰(관찰연구 6편, 사용된 힐링어버트먼트 300개 이상): 일반적인 기계·화학·증기 세척으로는 오염물이 완전히 제거되지 않는 경우가 많으나, 임상연구도 없고 보고된 부작용도 없어 — 더 강한 근거가 나올 때까지 힐링어버트먼트와 커버스크류의 무분별한 재사용은 피해야 한다.
+Clinical implication — the anchor SR for the HA reuse debate: the biological/mechanical significance of residual contamination is undetermined and indiscriminate reuse should be avoided until more evidence is established; this framework has since been extended by in vitro biologic-response data (Abreu 2024) and an RCT suggesting reuse is acceptable with combined chemical/electrochemical decontamination (Kyaw 2023).
+
+## 세줄요약
+
+체계적 문헌고찰(657건 스크리닝 → 6편 관찰연구 포함, 사용된 힐링어버트먼트 300개 이상) — "사용된 티타늄 HA·커버스크류를 효과적으로 재멸균할 수 있는가" 및 "재사용에 따른 부작용이 보고된 적 있는가" 두 가지 질문 평가.
+
+6편 중 3편: 일반 기계·화학·증기 방법으로 오염물 완전 제거 실패; 2편: 추가 처치 병용 시 적절한 세정; 1편: 일반 방법으로 충분; 진정한 임상연구 없음, 부작용(감염·골소실·임플란트 실패·환자 피해) 보고 없음.
+
+임상 의미: HA 재사용 논쟁의 anchor SR — 잔류 오염물의 생물학적·기계적 유의성 불명이므로 근거 확립 전까지 무분별한 재사용을 피해야 함; 이후 Abreu(2024)의 생물학적 반응 데이터와 Kyaw(2023) RCT가 이 framework를 확장·보완함.
 
 ## Summary
 

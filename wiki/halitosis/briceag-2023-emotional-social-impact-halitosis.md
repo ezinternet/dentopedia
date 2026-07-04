@@ -13,13 +13,21 @@ source_collection: external
 tags: [halitosis, adolescents, young-adults, psychosocial, quality-of-life, anxiety, depression, OHIP-14, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of 6 observational studies in adolescents and young adults (age 10–26) finding self-reported halitosis prevalence of 23.1–77.5% (mean 44.7%) with consistent associations to anxiety, depression, social isolation, and reduced self-esteem measured by OHIP-14 and SCL-9-R.
+Systematic review of 6 observational studies (ages 10–26) examining psychosocial and emotional impact of halitosis in adolescents and young adults from Brazil and India.
 
-## 한줄요약
+Self-reported halitosis prevalence ranged 23.1–77.5% (mean 44.7%), with consistent associations to elevated anxiety and depression (SCL-9-R), reduced OHRQoL (OHIP-14), social isolation, and diminished self-esteem.
 
-청소년·젊은 성인(10–26세) 대상 6편 체계적 문헌고찰: 자가보고 구취(Halitosis) 유병률 23.1–77.5%(평균 44.7%), 구강건강관련삶의질(OHRQoL, OHIP-14)·불안·우울(SCL-9-R) 저하 및 사회적 고립과 일관된 연관성 확인.
+Psychological burden was present even in pseudo-halitosis and halitophobia — objective malodor is not required for emotional harm — supporting an integrated medical-plus-psychological management paradigm.
+
+## 세줄요약
+
+청소년·젊은 성인(10–26세) 대상 관찰연구 6편 체계적 문헌고찰; 브라질·인도 중심의 횡단/코호트 연구 포함.
+
+자가보고 구취(Halitosis) 유병률 23.1–77.5%(평균 44.7%); 불안·우울(SCL-9-R) 상승, 구강건강관련삶의질(OHRQoL, OHIP-14) 저하, 사회적 고립·자존감 감소와 일관된 연관성.
+
+가성 구취 및 구취공포증 환자에서도 동일한 심리 부담이 관찰되어, 구취 관리는 구강 원인 치료와 심리적 지지를 병행해야 함.
 
 ## Summary
 

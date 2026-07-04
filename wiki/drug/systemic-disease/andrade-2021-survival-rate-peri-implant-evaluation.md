@@ -19,13 +19,21 @@ relations:
     target: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (7 studies qualitative / 5 quantitative) finds immediately loaded dental implants in type 2 diabetics show no survival difference vs nondiabetics (RR 1.00, 95% CI 0.96–1.04; I²=0%), even with poor glycemic control (RR 1.08, 95% CI 0.87–1.33), and no marginal bone loss difference vs conventional loading (MD −0.08 mm).
+SR+MA (7 studies qualitative / 5 quantitative, first dedicated review on immediate loading in T2DM) searching 6 databases through January 2021; included studies n=4–108 patients, follow-up mostly 6–24 months.
 
-## 한줄요약
+Immediately loaded implants in T2DM showed no survival difference vs nondiabetics (RR 1.00, 95% CI 0.96–1.04; I²=0%), even with poor glycemic control (RR 1.08, 95% CI 0.87–1.33), and no marginal bone loss difference vs conventional loading (MD −0.08 mm).
 
-SR+MA (정성 7편 / 정량 5편): 제2형 당뇨 환자의 즉시부하(immediate loading) 임플란트 생존율이 비당뇨군과 차이 없고(RR 1.00), 혈당 조절 불량 환자에서도 차이 없었으며(RR 1.08), 변연골소실(MBL)도 통상부하 대비 차이 없었다 — 프로토콜·구강위생 준수 시 DM2는 즉시부하의 위험인자가 아니다.
+With strict protocol adherence and good oral hygiene, T2DM does not appear to contraindicate immediate loading, though evidence rests on few studies with high heterogeneity in the uncontrolled-DM and MBL analyses.
+
+## 세줄요약
+
+SR+MA (정성 7편 / 정량 5편): 제2형 당뇨 환자의 즉시부하 임플란트에 특화된 첫 메타분석으로, 6개 데이터베이스 2021.1월까지 검색; 포함 연구 n=4–108명, 추적관찰 주로 6–24개월.
+
+즉시부하 임플란트 생존율이 비당뇨군과 차이 없고(RR 1.00), 혈당 조절 불량 환자에서도 차이 없었으며(RR 1.08), 변연골소실(MBL)도 통상부하 대비 차이 없었다(MD −0.08 mm).
+
+프로토콜·구강위생 준수 시 DM2는 즉시부하의 위험인자가 아니나, 조절불량 DM2 및 MBL 풀링은 포함 연구 수가 적고 이질성이 높아 결론은 잠정적이다.
 
 ## Summary
 

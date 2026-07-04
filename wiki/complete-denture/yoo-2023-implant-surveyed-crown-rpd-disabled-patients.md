@@ -13,11 +13,21 @@ source_collection: external
 tags: [ic-rpd, implant-surveyed-crown, removable-partial-denture, disabled-patients, marginal-bone-loss, korean-review]
 ---
 
-## One-line Summary
-Narrative special-feature review (J Korean Dent Assoc 2023): introduces IC-RPD (implant surveyed crown retained removable partial denture) for severely disabled patients who tolerate neither conventional dentures nor full fixed implant rehabilitation, using implant-supported surveyed crowns as abutments to improve RPD retention and stability; reviews marginal bone loss (MBL) and survival considerations (specific figures require full Korean-text extraction).
+## Three-line Summary
 
-## 한줄요약
-대한치과의사협회지 2023 특집: 통상 의치·전악 고정성 보철이 어려운 중증 장애 환자를 위한 IC-RPD(임플란트 써베이드 크라운 유지 국소의치) 소개 — 임플란트 지지 써베이드 크라운을 지대치로 활용해 RPD 유지·안정 향상, MBL·생존 고찰. (구체 수치는 본문 정밀추출 필요 [미검증])
+Narrative special-feature review (J Korean Dent Assoc 2023) introducing IC-RPD (implant surveyed crown retained removable partial denture) as a prosthodontic option for severely disabled patients who cannot tolerate conventional complete dentures or full fixed implant rehabilitation.
+
+IC-RPD uses implant-supported surveyed crowns as abutments that provide rests, guide planes, and retention for a removable partial denture, combining implant stability with the hygiene access and repairability of a removable prosthesis; marginal bone loss and survival considerations are reviewed (specific figures require full Korean-text extraction).
+
+Clinically, IC-RPD occupies the middle ground between conventional RPD and full fixed implant rehabilitation and is indicated for severely disabled patients with aging/systemic disease who fail both extremes — a practical design strategy within the limits of a narrative/case-level review.
+
+## 세줄요약
+
+대한치과의사협회지 2023 특집 — 통상 의치·전악 고정성 보철이 불가능한 중증 장애 환자를 위한 IC-RPD(임플란트 써베이드 크라운 유지 국소의치)를 임상 개념으로 소개.
+
+임플란트 지지 써베이드 크라운이 레스트·가이드 플레인·유지부를 갖춘 지대치 역할을 하여 국소의치 유지·안정 향상; 가철성 의치의 위생관리·수리 용이성과 임플란트 안정성을 결합. MBL·생존율 고찰 포함(구체 수치는 한국어 본문 정밀추출 필요).
+
+IC-RPD는 통상 RPD와 전악 고정성 임플란트의 중간 선택지로, 고령·전신질환으로 두 극단 모두 부적합한 장애 환자에게 유용한 설계 전략; 증례 수준 근거가 한계.
 
 ## Summary
 Proposes IC-RPD as a pragmatic middle-ground rehabilitation for severely disabled patients: implant-supported surveyed crowns act as abutments giving rests, guide planes, and retention to a removable partial denture, combining implant stability with the hygiene access and repairability of a removable prosthesis.

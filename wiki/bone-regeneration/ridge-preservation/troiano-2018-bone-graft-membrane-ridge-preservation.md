@@ -13,11 +13,21 @@ source_collection: external
 tags: [alveolar-ridge-preservation, bone-graft, resorbable-membrane, meta-analysis, tsa, gbr]
 ---
 
-## One-line Summary
-SR+MA (7 studies) with trial sequential analysis (TSA) showing that alveolar ridge preservation using allogenic/xenogenic bone graft plus a resorbable membrane reduces horizontal ridge width loss by 2.19 mm (95% CI −2.67 to −1.71) and vertical height loss by 1.72 mm (95% CI −2.14 to −1.30) vs spontaneous healing, with TSA confirming sufficient evidence despite high heterogeneity.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 및 메타분석(7편) + 시험 순차 분석(Trial Sequential Analysis, TSA): 발치 후 동종/이종골 이식 + 흡수성 차폐막 조합이 자연치유 대비 치조제 수평 폭 흡수를 2.19 mm, 수직 높이 흡수를 1.72 mm 감소시키며, TSA로 결론이 충분히 입증됨(이질성 높음에도).
+SR+MA with trial sequential analysis (TSA; 7 RCT-level studies) comparing alveolar ridge preservation using allogenic or xenogenic bone graft combined with a resorbable membrane versus spontaneous healing after extraction.
+
+Graft + resorbable membrane significantly reduced horizontal ridge width loss by 2.19 mm (95% CI −2.67 to −1.71) and vertical height loss by 1.72 mm (95% CI −2.14 to −1.30); TSA confirmed the evidence base has crossed the required information size, validating the conclusion despite high heterogeneity.
+
+These ~2 mm horizontal and ~1.7 mm vertical preservation benefits are now the standard clinical expectation for grafted ARP; TSA redirects future research from overall efficacy confirmation to graft-membrane optimization.
+
+## 세줄요약
+
+체계적 문헌고찰·메타분석 + 시험 순차 분석 (Trial Sequential Analysis, TSA; 7편): 발치 후 동종골 (allograft) 또는 이종골 (xenograft) + 흡수성 차폐막 치조제 보존술 (Alveolar Ridge Preservation, ARP) vs 자연치유 비교.
+
+이식재+흡수성막 조합: 수평 치조제 폭 흡수 2.19 mm (95% CI −2.67 to −1.71) + 수직 높이 흡수 1.72 mm (95% CI −2.14 to −1.30) 유의 감소; TSA 결론 — 이질성에도 불구하고 필요 정보 규모 충족으로 근거 충분.
+
+~2 mm 수평·~1.7 mm 수직 보존 효과가 임상 기대치 표준이 됨; TSA는 추후 연구 방향을 전체 효능 확인에서 이식재·막 조합 최적화로 전환할 것을 권고.
 
 ## Summary
 This systematic review, meta-analysis, and trial sequential analysis evaluated alveolar ridge preservation (ARP) using allogenic/xenogenic bone graft combined with a resorbable membrane versus spontaneous healing after extraction. Across 7 studies, the combination significantly reduced horizontal ridge width reduction by 2.19 mm (95% CI −2.67 to −1.71) and vertical ridge height reduction by 1.72 mm (95% CI −2.14 to −1.30). TSA confirmed that the body of evidence has reached the required information size to validate this benefit despite substantial heterogeneity in graft and membrane choices.

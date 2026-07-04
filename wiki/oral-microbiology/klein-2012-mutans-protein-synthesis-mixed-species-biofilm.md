@@ -13,11 +13,19 @@ source_collection: external
 tags: [S. mutans, proteomics, MudPIT, mixed-species-biofilm, EPS, glucosyltransferase, acid-tolerance, caries]
 ---
 
-## One-line Summary
-In-vitro MudPIT proteomics of S. mutans in 3-species biofilms on saliva-coated hydroxyapatite reveals that mixed-species context significantly up-regulates glucan-synthesis (GtfB/C, DexA, GbpB) and acid-tolerance proteins (F1F0-ATPase, FabM, GroEL) vs. single-species biofilms (P<0.05), detecting up to 60% of the UA159 proteome.
+## Three-line Summary
+In vitro MudPIT shotgun proteomics study of S. mutans UA159 in three-species biofilms with A. naeslundii and S. oralis on saliva-coated hydroxyapatite discs, detecting up to 60% of the S. mutans proteome; 1% sucrose ecological challenge at 29 h was applied, with biofilms harvested at 67 h and 115 h.
 
-## 한줄요약
-In-vitro 정량 프로테오믹스(MudPIT): S. mutans가 혼합균종 바이오필름에서 글루칸 합성(GtfB/C, DexA)·산 내성(F1F0-ATPase, FabM) 단백질을 단일균종 대비 유의하게 증가 — 충치 발병 기전 설명 (P<0.05).
+Mixed-species context significantly up-regulated glucan-synthesis proteins (GtfB, GtfC, DexA, GbpB) and acid-tolerance proteins (F1F0-ATPase/AtpD, FabM, GroEL) compared to single-species controls (P<0.05), with S. mutans shifting from minority to dominant species by 115 h post-sucrose; RT-qPCR across 4 time points corroborated the proteomic trends.
+
+This study provides the mechanistic basis explaining why interspecies context amplifies S. mutans cariogenic virulence — community signals induce both the EPS matrix assembly and acid-stress systems simultaneously, a combination not triggered in monospecies conditions.
+
+## 세줄요약
+타액 코팅 hydroxyapatite 디스크 위 3종 바이오필름(S. mutans UA159 + A. naeslundii + S. oralis)에서 MudPIT 정량 프로테오믹스를 수행한 In vitro 연구 — S. mutans 단백질체의 최대 60% 검출; 29시간째 1% 수크로스 투여, 67·115시간에 수확.
+
+혼합균종 조건에서 글루칸 합성 단백질(GtfB·GtfC·DexA·GbpB)과 산 내성 단백질(F1F0-ATPase, FabM, GroEL)이 단일균종 대비 유의하게 증가(P<0.05); S. mutans는 115시간 후 우점종으로 전환 — RT-qPCR로 단백질 발현 추세 확인.
+
+종간 상호작용이 EPS 기질 조립과 산 스트레스 시스템을 동시에 유도함으로써 S. mutans 우식성 독성이 군집 맥락에서 증폭되는 분자 기전 규명.
 
 ## Summary
 Klein et al. applied MudPIT shotgun proteomics to characterize S. mutans UA159 protein expression during formation of 3-species biofilms (with A. naeslundii and S. oralis) on saliva-coated hydroxyapatite discs following sucrose-induced ecological challenge. The method detected up to 60% of the S. mutans proteome within biofilms. Mixed-species conditions significantly elevated glucan-synthesis (gtfB, gtfC, dexA) and glucan-binding (gbpB) proteins, as well as acid-stress adaptations (F1F0-ATPase, FabM, GroEL), compared with single-species controls. After 1% sucrose introduction at 29 h, S. oralis predominance reversed and S. mutans became dominant by 115 h. Findings were corroborated by RT-qPCR across 4 time points (n=12). This study mechanistically explains how interspecies context amplifies S. mutans cariogenic virulence.

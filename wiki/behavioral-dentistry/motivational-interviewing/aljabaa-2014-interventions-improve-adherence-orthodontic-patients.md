@@ -20,13 +20,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review (Medline/EMBASE/Cochrane CENTRAL, 1966–Mar 2012) of RCTs on interventions to improve adherence in orthodontic patients aged 12–18; 381 articles screened → 4 RCTs, each a different method (rewards/awards, Hawthorne effect, written information, plaque-microbiology demonstration); all except reward/award improved adherence, with insufficient evidence to name a single best method.
+Systematic review of RCTs (Medline, EMBASE, Cochrane CENTRAL; 1966–March 2012; 381 screened → 4 RCTs) testing interventions to improve adherence in orthodontic patients aged 12–18, covering information recall, appointment attendance, self-reported oral hygiene, and clinical oral-hygiene indexes.
 
-## 한줄요약
+Three of four interventions improved adherence (Hawthorne effect, written information, plaque-microbiology demonstration), while the one reward/award system did not; no meta-analysis was possible due to intervention and outcome heterogeneity.
 
-12–18세 교정환자 순응도(adherence) 향상 중재 RCT를 모은 체계적 고찰(1966~2012.3) — 381편 선별 후 4편의 RCT만 포함, 각기 다른 방법(보상/시상, 호손효과, 서면정보, 플라크 미생물 시연)을 썼고 보상/시상을 뺀 모든 중재가 순응도를 개선했으나 단일 최선책을 정할 근거는 부족.
+No single best method can be recommended; the recurring lesson is that spending clinician time engaging patients with why adherence matters — an attention/engagement mechanism — is more effective than extrinsic incentives alone.
+
+## 세줄요약
+
+체계적 문헌고찰(Medline·EMBASE·Cochrane CENTRAL; 1966–2012.3; 381편 선별 → 4편 RCT): 12–18세 교정환자의 순응도(adherence) — 정보 기억·약속 이행·구강위생 자가보고·임상지수 — 향상 중재를 검토.
+
+4가지 중 3가지(호손 효과, 서면 정보 제공, 플라크 미생물 시연)는 순응도를 개선했으나 보상/시상 방법은 효과 없음; 중재 및 결과 이질성으로 메타분석 불가.
+
+단일 최선 방법은 권고 불가; 핵심 교훈은 외적 인센티브보다 "순응이 왜 중요한지"를 임상의가 시간을 들여 환자에게 설명하는 주의/참여(attention/engagement) 기제가 더 효과적이라는 점이다.
 
 ## Summary
 

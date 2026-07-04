@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-SR+MA (103 articles, laboratory studies + RCTs): bulk-fill composites show significantly less polymerization shrinkage, polymerization stress, and cusp deflection than conventional composites, with flowable bulk-fill having superior degree of conversion at >2 mm depth but lower microhardness at ≤2 mm; clinical performance in RCTs over 1–10 years was equivalent to conventional composites.
+## Three-line Summary
+SR+MA (103 articles, laboratory studies + RCTs) simultaneously evaluating physicochemical in-vitro properties and clinical RCT performance of bulk-fill vs. conventional resin composites.
 
-## 한줄요약
-103개 논문(실험실+RCT) 메타분석: 벌크필 레진은 중합수축, 중합응력, 교두편향이 적고 유동성 벌크필은 2 mm 초과 깊이에서 전환율 우수하나, 2 mm 이하에서 미세경도 낮음; 임상시험(1–10년)에서는 기존 레진과 동등.
+Bulk-fill composites showed significantly less polymerization shrinkage, polymerization stress, and cusp deflection; flowable bulk-fill had superior degree of conversion at >2 mm depth but lower microhardness at ≤2 mm; clinical performance over 1–10 years in RCTs was equivalent.
+
+The in-vitro advantages of bulk-fill (less shrinkage, stress, cusp deflection) do not translate into measurable clinical superiority; microhardness at shallow depths is the sole potential weakness.
+
+## 세줄요약
+벌크필 vs 기존 복합레진의 이화학적 특성 및 임상 RCT 성능을 동시 평가한 SR+MA(103편, 실험실 연구+RCT).
+
+벌크필은 중합수축·중합응력·교두편향 유의하게 낮음; 유동성 벌크필은 2 mm 초과 깊이에서 전환도 우수하나 2 mm 이하 미세경도 낮음; 1–10년 RCT 임상 성능은 동등.
+
+벌크필의 in-vitro 이점(수축·응력·교두편향)이 임상적 우월성으로 이어지지 않음 — 얕은 깊이에서의 미세경도만 잠재적 단점으로 확인됨.
 
 ## Summary
 This SR+MA included 103 articles (laboratory studies + RCTs) sourced from PubMed and Scopus, analyzed using the Peto method in RevMan software. The study compared bulk-fill and conventional composite resins across nine outcomes: polymerization shrinkage, polymerization stress, cusp deflection, marginal quality, degree of conversion, microhardness, flexural strength, fracture strength, and clinical performance. Bulk-fill composites showed significantly less shrinkage, polymerization stress, and cusp deflection compared to conventional composites. Flowable bulk-fill composites showed DC comparable to conventional composites at ≤2 mm depth but superior DC at >2 mm depth. Microhardness was the sole property where bulk-fill was inferior (at ≤2 mm thickness). Clinical performance in RCTs over 1–10 years was equivalent between bulk-fill and conventional composites.

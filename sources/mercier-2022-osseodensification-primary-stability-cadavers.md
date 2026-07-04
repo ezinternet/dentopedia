@@ -20,13 +20,23 @@ Rittipakorn-2025 clockwise OD 논문의 reference surveillance 인제스트. 동
 
 → [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]]
 
-## One-line Summary
+## Three-line Summary
+
 
 Cadaver study (21 mandibles, 58 implants) showing OD (Densah burs) significantly increased insertion torque (34.9 vs 23.6 Ncm, p=0.036) and peri-implant bone density (p=0.026) vs standard drilling.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 카데바 연구(하악 21개, 임플란트 58개): OD(Densah bur)가 표준 드릴링 대비 삽입 토크(34.9 vs 23.6 Ncm, p=0.036) 및 주위 골밀도(p=0.026)를 유의하게 증가시켰다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Title:** Evaluation of the Osseodensification Technique in Implant Primary Stability: Study on Cadavers

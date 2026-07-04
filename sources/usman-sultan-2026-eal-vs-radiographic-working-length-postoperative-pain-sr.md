@@ -17,11 +17,21 @@ text_filename: usman-sultan-2026-eal-vs-radiographic-working-length-postoperativ
 
 기존 [[endodontics/eal/kaur-2024-eal-vs-radiograph-working-length-sr-ma]]는 EAL vs 방사선 비교에서 정확도·obturation 적합성을 1차 결과로 삼고 통증은 부차적(추출치 포함, 3편, very low certainty)으로만 다뤘다. 본 SR (Usman Sultan 2026)은 *standalone* EAL vs *standalone* 방사선만으로 좁혀 **술후 통증을 1차 결과로** 직접 합성한 첫 리뷰로, kaur-2024의 통증 endpoint를 RCT-only로 확장·정교화한다. 결론적으로 두 방법 간 통증 차이가 없다는 점을 RCT 근거로 보강.
 
-## One-line Summary
-Systematic review (4 RCTs, n=414, single-visit RCT, vital teeth) found no statistically significant difference in postoperative pain incidence, intensity, analgesic consumption, or time to resolution between standalone EAL and radiographic working length determination (4 h–7 days); one small three-arm trial showed lower early pain (6–48 h) with a hybrid EAL+radiograph method; very low certainty.
+## Three-line Summary
 
-## 한줄요약
-SR (RCT 4편, n=414, 단일내원 근관치료·생활치): standalone EAL과 방사선 근관장측정 간 술후 통증·진통제 사용·통증 소실시간 차이 없음(4시간–7일); 소규모 3-arm 1편에서 EAL+방사선 hybrid가 초기(6–48시간) 통증 더 낮음; 근거 확실성 매우 낮음.
+Systematic review (4 RCTs, n=414, single-visit RCT, vital teeth) found no statistically significant difference in postoperative pain incidence, intensity, analgesic consumption, or time to resolution between standalone EAL and radiographic working length determination (4 h–7 days);
+
+one small three-arm trial showed lower early pain (6–48 h) with a hybrid EAL+radiograph method;
+
+very low certainty.
+
+## 세줄요약
+
+SR (RCT 4편, n=414, 단일내원 근관치료·생활치): standalone EAL과 방사선 근관장측정 간 술후 통증·진통제 사용·통증 소실시간 차이 없음(4시간–7일);
+
+소규모 3-arm 1편에서 EAL+방사선 hybrid가 초기(6–48시간) 통증 더 낮음;
+
+근거 확실성 매우 낮음.
 
 ## 1. Document Information
 - **Title**: Effect of working length determination on postoperative pain using Electronic Apex Locator versus Radiographic method: a systematic review of randomized control trials

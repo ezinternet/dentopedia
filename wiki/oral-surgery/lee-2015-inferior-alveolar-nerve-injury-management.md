@@ -14,12 +14,21 @@ source_collection: external
 tags: [IAN-injury, inferior-alveolar-nerve, dexamethasone, steroid, third-molar, neuropraxia, oral-surgery]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case report: an inferior alveolar nerve (IAN) exposed during mandibular third molar extraction and diagnosed as neuropraxia achieved complete recovery within 36 days using topical dexamethasone application, a tapering oral prednisolone regimen, and NSAIDs.
+Case report (Lee et al. 2015): inferior alveolar nerve (IAN) neurovascular bundle exposed during mandibular third molar extraction, diagnosed as neuropraxia based on brush-test sensory monitoring, and managed with intraoperative topical dexamethasone, a 10-day tapering oral prednisolone regimen, NSAIDs, and immediate cooling.
 
-## 한줄요약
-증례보고: 하치조신경 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
+Complete sensory recovery was achieved within 36 days (brush test 100/70 → 100/100), supporting the efficacy of the topical dexamethasone + systemic steroid taper protocol for neuropraxia-level IAN injury.
+
+No standardized protocol exists for IAN injury management; if paresthesia does not resolve within 3 months, surgical intervention should be considered — this single case provides a practical treatment template, not controlled evidence.
+
+## 세줄요약
+
+증례보고(이상호 외, 2015): 하악 제3대구치 발치 중 하치조신경혈관 다발 노출 → 붓 검사(Brush Test) 감각 모니터링으로 신경손상(Neuropraxia) 진단; 국소 Dexamethasone 도포(술 중 5분), Prednisolone 10일 점감, NSAIDs, 냉각요법으로 관리.
+
+36일 내 완전 감각 회복(붓 검사 100/70 → 100/100); 국소 dexamethasone + 전신 스테로이드 점감 프로토콜의 유효성 지지.
+
+하치조신경 손상 관리 표준 프로토콜 미확립; 이감각증이 3개월 내 미회복 시 외과적 개입 고려 — 본 증례는 임상 치료 틀을 제공하나 대조 연구 근거가 아님.
 
 ## Summary
 하악 제3대구치 발치 중 하치조 신경혈관 다발 노출 → neuropraxia 진단 → **dexamethasone 국소도포 + prednisolone 점감법 + NSAIDs** 병용 치료로 36일 내 완전 회복한 증례.

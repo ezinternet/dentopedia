@@ -13,8 +13,21 @@ source_collection: external
 
 [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] 의 PathFile/Scout RaCe 2-arm 비교를 5-arm으로 확장 (Scout RaCe + One G + PathFile + GPS + manual K). S-shape에서 rotary NiTi 동질성 evidence 강화 + K-file 열위 재확인.
 
-## One-line Summary
-S-shaped resin blocks (n=100, 5 groups × 20): manual K-file이 apical·middle·coronal third 모두 transportation 유의 증가; 4 rotary 시스템 (Scout RaCe / One G / PathFile / GPS) 간 NS 차이.
+## Three-line Summary
+
+In vitro comparative study (S-shaped resin blocks, n=100, 5 groups × 20) evaluating canal transportation after glide path preparation with four rotary NiTi systems and manual K-file.
+
+Manual K-file showed significantly greater canal transportation in the apical, middle, and coronal thirds (p<0.001 to p<0.05) compared to rotary systems; the four rotary systems (Scout RaCe, One G, PathFile, GPS) showed no significant differences among themselves.
+
+Rotary NiTi systems are superior to manual K-file for glide path preparation in curved canals; choice among available rotary systems appears clinically equivalent.
+
+## 세줄요약
+
+실험 연구(S자형 레진 블록, n=100, 5군 × 20개): 4종 회전식 니켈-티타늄(NiTi) 시스템과 수동 K-파일의 글라이드 패스(glide path) 후 근관 변위(canal transportation) 비교.
+
+수동 K-파일은 치근단·중간·치관 1/3 모두에서 회전식 시스템보다 유의하게 큰 근관 변위를 보인 반면(p<0.001~0.05), 4종 회전식 시스템(Scout RaCe, One G, PathFile, GPS) 간에는 유의차 없었다.
+
+만곡 근관에서 글라이드 패스 형성 시 회전식 NiTi 시스템이 수동 K-파일보다 우월하며, 현재 출시된 회전식 시스템 간 임상적 선택은 동등한 것으로 보인다.
 
 ## 1. Document Information
 - The Scientific World Journal 2022:8087378 (2022)

@@ -17,13 +17,23 @@ text_filename: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.t
 
 literature-surveillance `clear-aligner` 토픽 첫 sweep(2026-06-20)의 OA:PMC 최고가치 SR+MA. 위키 orthodontics 카테고리는 현재 miniscrew/TAD·tooth-movement biology 중심이라 **투명교정(clear aligner) 임상 근거가 전무** — 이 페이지가 첫 aligner 항목으로, 교정 력생물학 [[wiki/orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] 의 임상 적용 축을 연다. 성장기(growing/mixed dentition) 환자라 소아치과 감시와도 교차. PubMed/PMC, CC BY 4.0 OA 전문 확보.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (15 studies, 7 pooled) in growing patients: clear aligners can achieve maxillary expansion but produce significantly LESS transverse gain than conventional expanders — intermolar (6-6) −1.77 mm, palatal volume −460.6 mm³, arch perimeter −1.75 mm in favor of conventional expanders; aligner expansion is mainly dentoalveolar (anterior, deciduous teeth), evidence mostly retrospective / moderate RoB.
 
-## 한줄요약
+SR+MA (15 studies, 7 pooled) in growing patients: clear aligners can achieve maxillary expansion but produce significantly LESS transverse gain than conventional expanders — intermolar (6-6) −1.77 mm, palatal volume −460.6 mm³, arch perimeter −1.75 mm in favor of conventional expanders;
 
-성장기 환자 SR+MA(15편, 7편 pooled): 투명교정으로 상악 확장은 가능하나 conventional expander 대비 횡적 확장량이 유의하게 적음 — 구치간폭(6-6) −1.77 mm, 구개 용적 −460.6 mm³, 호선 둘레 −1.75 mm 모두 conventional 우위. aligner 확장은 주로 치조성(전치부·유치)이며 근거 대부분 후향적·중등도 RoB.
+aligner expansion is mainly dentoalveolar (anterior, deciduous teeth), evidence mostly retrospective / moderate RoB.
+
+(incomplete)
+
+## 세줄요약
+
+
+성장기 환자 SR+MA(15편, 7편 pooled): 투명교정으로 상악 확장은 가능하나 conventional expander 대비 횡적 확장량이 유의하게 적음 — 구치간폭(6-6) −1.77 mm, 구개 용적 −460.6 mm³, 호선 둘레 −1.75 mm 모두 conventional 우위.
+
+aligner 확장은 주로 치조성(전치부·유치)이며 근거 대부분 후향적·중등도 RoB.
+
+(incomplete)
 
 ## 1. Document Information
 

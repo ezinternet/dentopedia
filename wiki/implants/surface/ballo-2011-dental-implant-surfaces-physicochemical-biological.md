@@ -13,13 +13,21 @@ source_collection: external
 tags: [implant-surface, physicochemical, osseointegration, titanium, surface-treatment, SLA, anodized, hydroxyapatite, nanotechnology]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2011 InTech narrative review classifying titanium implant surfaces by roughness and modification type, detailing physicochemical properties and molecular/cellular mechanisms of osseointegration including CXCR4-mediated MSC recruitment.
+Narrative review (InTech 2011, in vitro + animal + clinical) classifying titanium implant surfaces by roughness (smooth < 0.5 µm to rough > 2.0 µm) and modification type, from first-generation machined surfaces through nanostructured coatings.
 
-## 한줄요약
+Moderately rough surfaces (Sa 1.0–2.0 µm, SLA) are optimal for bone response; anodically oxidized surfaces upregulate CXCR4 11-fold at 12 h vs machined, recruiting MSCs via SDF-1α axis for faster bone formation.
 
-티타늄 임플란트 표면을 거칠기·처리법별로 분류하고, CXCR4 매개 줄기세포 모집을 포함한 골유착 분자기전을 체계적으로 정리한 2011년 InTech 내러티브 리뷰.
+As a narrative review lacking systematic search, this paper provides a mechanistic and classification framework; nanostructured and photofunctionalized surfaces have advanced considerably since 2011.
+
+## 세줄요약
+
+내러티브 리뷰(InTech 2011, 인비트로·동물·임상 종합): 티타늄 임플란트 표면을 거칠기(Sa)별로 분류(smooth < 0.5 µm ~ rough > 2.0 µm) — machined 1세대부터 나노구조 코팅까지 체계화.
+
+중간 거칠기(Sa 1.0–2.0 µm, SLA)가 최적 골반응; 양극산화 표면은 machined 대비 12시간에 CXCR4 11배 상향 → SDF-1α 축을 통한 중간엽줄기세포 (MSC) 모집 가속.
+
+체계적 검색 없는 서술 고찰 — 분류·기전 프레임워크로 활용; 나노·UV 광기능화 (UV Photofunctionalization) 분야는 2011년 이후 크게 발전.
 
 ## Summary
 

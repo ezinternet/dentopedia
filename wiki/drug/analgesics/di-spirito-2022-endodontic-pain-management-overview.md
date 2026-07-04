@@ -13,11 +13,21 @@ source_collection: external
 tags: [endodontic-pain, NSAIDs, corticosteroids, preemptive-analgesia, postoperative-pain]
 ---
 
-## One-line Summary
-Overview of SRs for post-operative endodontic pain: NSAIDs (ibuprofen) as first choice, effective adjunct corticosteroid combination; preemptive administration superior; technical factors (instrumentation extent, irrigation, occlusal reduction) also influence pain (Healthcare 2022).
+## Three-line Summary
 
-## 한줄요약
-근관 술후통증: NSAIDs(ibuprofen) 1차 선택, 코르티코스테로이드 보조 병용 유효; 술전 예방투여가 우월; 기구 조작 범위·세정·교합 감소 등 기술적 요소도 통증에 영향 (SR들의 overview, Healthcare 2022).
+Overview of systematic reviews (Healthcare 2022) combined with a narrative review of technical procedural factors, covering pharmacological and non-pharmacological management of post-operative endodontic pain affecting 2.5–60% of patients and peaking at 6–12 hours.
+
+NSAIDs (ibuprofen ± APAP) are first-line pharmacotherapy; corticosteroids (dexamethasone) provide additive benefit as an NSAID adjunct; preemptive (pre-operative) administration is superior to reactive post-operative dosing alone.
+
+Technical factors — instrument extrusion beyond apex, irrigation volume/concentration, and single- vs multi-visit treatment — also influence post-operative pain; antibiotics are not indicated for pain management per se.
+
+## 세줄요약
+
+체계적 고찰 개요(Healthcare 2022)와 기술적 요인 서술 고찰 통합: 근관 술후통증(환자의 2.5–60%, 6–12시간 최고조) 약물·비약물 관리 포괄.
+
+NSAIDs(ibuprofen ± APAP) 1차 약물치료; 코르티코스테로이드(dexamethasone)는 NSAID 보조제로 추가 이득; 술전 예방투여가 술후 반응투여보다 우월.
+
+기구의 근첨 외 이탈·세정액 농도/용량·단일 vs 다회 방문 등 기술적 요인도 통증에 영향; 진통 목적 항생제 사용은 근거 없음.
 
 ## Summary
 Overview of systematic reviews covering oral medications for post-operative endodontic pain, combined with a narrative review of technical procedural factors. Post-operative pain affects 2.5–60% of patients, peaking at 6–12 hours and falling to ~11% at 1 week. NSAIDs — particularly ibuprofen — represent first-line pharmacotherapy. Corticosteroids (dexamethasone) provide additive benefit when combined with NSAIDs. Preemptive (pre-operative) analgesic administration is superior to post-operative administration alone. Technical factors including instrument extrusion beyond the apex, irrigant volume/concentration, and single- vs. multi-visit treatment also influence post-operative pain outcomes.

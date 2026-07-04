@@ -9,7 +9,7 @@ pdf_filename: zix-2008-osstell-periotest-implant-stability-clinical.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Clinical trial (213 one-stage implants in 65 patients): direct comparison of resonance frequency analysis (Osstell, ISQ) and damping capacity assessment (Periotest); ISQ mean 57.66 ± 8.19, Periotest mean -5.08 ± 2.02; correlation between techniques moderate to good (Pearson -0.64); intraclass correlation higher for ISQ (0.99) than Periotest (0.88); ISQ more precise and less variable than Periotest.
 
 ## 1. Document Information

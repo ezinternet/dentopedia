@@ -13,11 +13,21 @@ source_collection: external
 tags: [surface-topography, meso-micro-nano, acid-etching, hierarchical, osseointegration, osteoblast]
 ---
 
-## One-line Summary
-In vitro + in vivo study (Int J Mol Sci 2020): sulfuric-acid etching at 140°C creates a hierarchical meso+micro+nano-scale rough titanium surface (Ra 6–12× micro-only) that significantly enhances osteoblast differentiation and in vivo bone-implant integration strength without compromising cell attachment, overcoming the proliferation–differentiation tradeoff of conventional microrough surfaces; meso-spike size/density predicts osteoconductivity, with 140°C optimal.
+## Three-line Summary
 
-## 한줄요약
-인비보+인비트로(Int J Mol Sci 2020): H2SO4 140°C 산부식으로 메조+마이크로+나노 계층형 거칠기 표면 제작 — 골아세포 (osteoblast) 분화 유의 향상, 부착 손상 없음, 골유착 (osseointegration) 강도 마이크로 단독 대비 최대 향상.
+In vitro and in vivo study (Int J Mol Sci 2020) fabricating a hierarchical meso+micro+nano-scale rough titanium surface via sulfuric-acid etching at 140°C, with Ra 6–12× higher than micro-only surfaces.
+
+The 140°C surface significantly enhanced osteoblast differentiation (ALP, mineralization) and in vivo bone-implant integration strength without compromising cell attachment; meso-spike size and density were the primary predictors of osteoconductivity.
+
+Hierarchical multi-scale topography overcomes the proliferation–differentiation tradeoff of conventional microrough surfaces; 140°C is the optimal etching temperature balancing meso-spike formation and surface integrity.
+
+## 세줄요약
+
+인비트로+인비보(Int J Mol Sci 2020): H2SO4 140°C 산부식으로 메조+마이크로+나노 계층형 거칠기 티타늄 표면 제작(Ra 마이크로 단독 대비 6–12배).
+
+140°C 표면 — 골아세포 (Osteoblast) 분화(ALP·무기화) 유의 향상, 세포 부착 손상 없음, 인비보 골임플란트 통합 강도 최대 향상; 메조 돌기 크기·밀도가 골전도성 (Osteoconductivity) 1차 예측인자.
+
+다중 계층 위상 구조는 기존 마이크로 거칠기 표면의 증식–분화 상충 극복; 140°C가 메조 돌기 형성과 표면 완전성 간 최적 균형점.
 
 ## Summary
 In vitro and in vivo study creating a novel hierarchical titanium surface via sulfuric acid etching at 140-150°C. This temperature exclusively produces meso-scale spikes (20-50 µm), micro-scale compartments, and nano-scale polymorphic structures simultaneously — Ra 6-12× higher than micro-only. Despite dramatically increased roughness, osteoblast attachment is not compromised. Differentiation (ALP, mineralization) and in vivo bone-implant integration strength are significantly enhanced. Optimal temperature: 140°C.

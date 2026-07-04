@@ -19,13 +19,21 @@ relations:
 > [!warning] RETRACTED — do not cite
 > This article (Cureus 2024, DOI 10.7759/cureus.73130; PMID 39575356) was issued a **Correction** on 2024-11-21 (cureus.c200, one citation added to the conclusions) and was **subsequently retracted**. Retraction confirmed via PubMed, which lists the article type as **"Retracted Publication"** (the held PDF predates the retraction and shows only the correction). The full text below is retained **for completeness only** — as the sole prospective clinical dataset on the HaeNaem indirect-sinus-lift kit — under a deliberate exception to the CLAUDE.md retraction policy (which otherwise requires a stub). Do **NOT** cite these findings as clinical evidence; the "more favorable risk-to-benefit ratio vs Densah" claim was untested and the study has no comparator arm. (set 2026-06-24)
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-arm study (n=12, RCBH 6–8 mm) showing statistically significant bone height gain at all four CBCT aspects (p<0.01) at 4 months using the HaeNaem Zero Bone Loss clockwise-rotation osseodensification kit for graft-free indirect transcrestal sinus lift with simultaneous implant placement.
+Prospective single-arm case series (n=12, residual crestal bone height 6–8 mm) evaluating the HaeNaem Zero Bone Loss clockwise-rotation osseodensification kit for graft-free indirect transcrestal sinus lift with simultaneous implant placement. **RETRACTED — do not cite as clinical evidence.**
 
-## 한줄요약
+Statistically significant bone height gain at all four CBCT aspects (mesial, distal, buccal, palatal; p<0.01) at 4 months post-procedure; no membrane perforations; all 12 implants osseointegrated — but no control group and no ISQ values were reported.
 
-전향적 단일군 연구(n=12, 잔존 골고 6–8mm): HaeNaem Zero Bone Loss CW-OD 버 키트로 무이식 경치조골 간접 거상 동시 임플란트 식립 후 4개월 CBCT에서 근심·원심·협측·구개측 4개 방향 모두 유의한 골 높이 증가(p<0.01).
+This is the only prospective clinical dataset on a CW-rotation OD bur system as an alternative to Densah (CCW); the claimed risk-to-benefit advantage over Densah is an unsupported assertion not tested within this study.
+
+## 세줄요약
+
+잔존 치조골 높이(Residual Crestal Bone Height, RCBH) 6–8 mm에서 HaeNaem Zero Bone Loss 시계방향(Clockwise, CW) 골밀도화(Osseodensification, OD) 버를 이용한 무이식 경치조골 간접 거상·동시 식립을 평가한 전향적 단일군 연구(n=12). **철회(Retracted) — 임상 근거로 인용 금지.**
+
+4개월 CBCT에서 근심·원심·협측·구개측 4개 방향 모두 유의한 골 높이 증가(p<0.01); 막 천공 없음; 전 임플란트 골유착 — 대조군 없음, ISQ 수치 미보고.
+
+반시계방향(CCW) Densah 버의 대안인 CW 회전 OD 버에 대한 유일한 전향적 임상 데이터; Densah 대비 위험-편익 우위 주장은 이 연구 내에서 검증되지 않은 주장.
 
 ## Summary
 

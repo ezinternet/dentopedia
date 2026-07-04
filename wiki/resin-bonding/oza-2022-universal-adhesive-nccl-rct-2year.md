@@ -14,11 +14,21 @@ source_collection: external
 tags: [universal-adhesive, Clearfil-SE-Bond, NCCL, RCT, self-etch, etch-and-rinse, selective-etch, 24-month, clinical]
 ---
 
-## One-line Summary
-2-year 5-arm RCT (234 noncarious cervical lesions (NCCLs), 34 patients): Clearfil Universal Bond Quick in self-etch (SE) mode was clinically unacceptable (6 restorations lost), whereas selective-enamel-etch (SLE) and etch-and-rinse (E&R) modes were acceptable — confirming universal adhesives should not be used in SE-only mode for NCCLs with enamel margins.
+## Three-line Summary
 
-## 한줄요약
-RCT (NCCL 234개, 34명, 24개월): Clearfil Universal Bond Quick SE 모드 임상적 부적합(6개 탈락); SLE·E&R 모드는 허용; Clearfil SE Bond 4개 탈락; SE 단독 모드 보편접착제에 부적합 확인
+5-arm 2-year RCT (234 NCCLs, 34 patients, Hacettepe University) comparing Clearfil Universal Bond Quick in SE, SLE, and E&R modes against Clearfil SE Bond and Tetric N-Bond Universal E&R for composite restoration of NCCLs.
+
+Clearfil Universal Bond Quick in SE-only mode was clinically unacceptable at 24 months (6 restorations lost); SLE and E&R modes were acceptable; Clearfil SE Bond lost 4 restorations; marginal adaptation and discoloration were worse in SE/SE-Bond groups.
+
+Universal adhesives must not be used in SE-only mode for NCCLs with enamel margins; selective enamel etching (SLE) or full E&R is required, as MDP provides dentin bonding but insufficient enamel demineralization without phosphoric acid.
+
+## 세줄요약
+
+5군 2년 RCT (NCCL 234개, 34명, Hacettepe대): Clearfil Universal Bond Quick의 SE·SLE·E&R 3가지 적용 모드와 Clearfil SE Bond 및 Tetric N-Bond Universal E&R을 비교.
+
+Clearfil Universal Bond Quick SE 단독 모드 24개월 시점 임상적 부적합(6개 탈락), SLE·E&R 모드 허용; Clearfil SE Bond 4개 탈락; SE/SE-Bond군 변연 적합도·변색이 더 불량(p<0.05).
+
+법랑질 변연이 있는 NCCL에서 universal adhesive를 SE 단독으로 사용하면 안 됨; MDP는 상아질 결합을 제공하지만 인산 산부식 없이는 법랑질 탈회 불충분하므로 SLE 또는 완전 E&R 모드가 필요.
 
 ## Summary
 5-arm 2-year RCT (234 NCCLs, 34 patients, Hacettepe University Turkey) comparing Clearfil Universal Bond Quick in 3 modes vs Clearfil SE Bond and Tetric N-Bond Universal E&R. Key finding: universal adhesive in SE mode is **clinically unacceptable** — 6 restorations lost. E&R and selective enamel-etch modes acceptable.

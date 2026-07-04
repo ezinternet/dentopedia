@@ -21,13 +21,21 @@ relations:
     target: pal-2014-trends-management-myofascial-pain
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Part 2, treatment) from an orofacial-pain unit concluding that, among the many trigger-point treatments, the spray-and-stretch technique and direct trigger-point injection are the most effective options — and that chronic cases need psychosocial intervention and carry a poorer prognosis, underscoring early diagnosis/treatment.
+Narrative review (Part 2 of a series) from a university orofacial-pain unit covering differential diagnosis and treatment of masticatory myofascial pain — abstract-only ingest.
 
-## 한줄요약
+Among numerous trigger-point therapies, spray-and-stretch and direct trigger-point injection are singled out as the most effective; expert opinion, not pooled evidence.
 
-구강안면통증 유닛의 근막통 치료 리뷰(Part 2) — 다수의 트리거포인트 치료법 중 분사신장(spray-and-stretch)과 직접 주사가 가장 효과적이며, 만성 사례는 정신사회적 개입이 필요하고 예후가 나빠 조기 진단·치료가 중요하다고 결론.
+Chronic myofascial-pain cases carry a poorer prognosis due to high rates of mood/anxiety disorders, making early diagnosis and treatment the key clinical priority.
+
+## 세줄요약
+
+대학 구강안면통증 유닛의 근막통 치료 리뷰(Part 2, 감별진단·치료) — 초록만 수집.
+
+다양한 트리거포인트 치료법 중 분사신장(Spray-and-stretch)과 직접 주사가 가장 효과적이라는 전문가 의견 제시(근거 수준: 서술 검토).
+
+만성 근막통 환자는 기분·불안장애 동반 빈도가 높아 예후가 나쁘며, 조기 진단·치료가 핵심 임상 원칙.
 
 ## Summary
 

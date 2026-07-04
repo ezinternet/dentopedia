@@ -13,13 +13,23 @@ source_collection: external
 
 CAD-CAM 기반 총의치(디지털 제작) 비교 근거가 wiki에 없어 공백을 채우기 위해 수집. 기존 [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]]가 다루는 수직교합고경(VDO) 결정과 함께, 실제 의치 제작 방식(디지털 vs 전통)의 임상·기계적 특성을 비교한 SR+MA로 complete-denture 카테고리의 디지털 워크플로우 축을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (73 studies) comparing CAD-CAM (milled/3D-printed) vs conventional complete dentures: milled CDs showed superior flexural strength, surface roughness, and toughness; CAD-CAM CDs had better retention and lower chairside time/cost.
 
-## 한줄요약
+SR+MA (73 studies) comparing CAD-CAM (milled/3D-printed) vs conventional complete dentures: milled CDs showed superior flexural strength, surface roughness, and toughness;
+
+CAD-CAM CDs had better retention and lower chairside time/cost.
+
+(incomplete)
+
+## 세줄요약
+
 
 SR+MA (73개 연구): 밀링 CAD-CAM 총의치는 굴곡강도·표면조도·인성에서 우수하고, CAD-CAM 총의치 전반이 기존 방식보다 유지력이 높으며 의자 시간과 비용이 적게 든다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

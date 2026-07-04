@@ -13,11 +13,19 @@ source_collection: external
 tags: [classification, HCAT, reliability, external-validation]
 ---
 
-## One-line Summary
-Reliability study coding 140 Danish emergency-care compensation claims with HCAT; high inter-assessor reliability but skewed domain coverage.
+## Three-line Summary
+Cross-sectional reliability study applying the full HCAT instrument to a random sample of 140 Danish emergency-care patient compensation claims from the Danish Patient Compensation Association, using multiple trained raters.
 
-## 한줄요약
-덴마크 응급의료 보상청구 140건을 HCAT로 코딩한 신뢰도 연구 — 평가자 간 신뢰도는 높으나 도메인 분포가 한쪽으로 치우침.
+High inter-assessor reliability was achieved across the full HCAT instrument (all domains, categories, subcategories), confirming transferability of HCAT to a non-UK country and to compensation-claim data sources.
+
+Domain coverage was skewed toward clinical/safety categories because the compensation-claim source under-represents relational and management problems; replication in other healthcare settings is needed before generalizing.
+
+## 세줄요약
+덴마크 응급의료 보상청구 140건(Danish Patient Compensation Association)에 전체 HCAT 도구를 적용한 신뢰도 연구 — 다수 훈련된 평가자 참여.
+
+HCAT 전체(도메인·범주·세부범주) 평가자 간 신뢰도 높음: 영국 외 국가·보상청구 데이터로의 전이 가능성 확인.
+
+보상청구 특성상 임상/안전 범주 편중·관계·관리 문제 과소 대표 — 다양한 의료 환경에서 추가 검증 필요.
 
 ## Summary
 Bogh and colleagues tested whether HCAT travels beyond its UK origins by applying the full instrument to 140 Danish emergency-care compensation claims. Multiple trained raters reached high inter-assessor reliability, confirming HCAT's transferability to a different country and to compensation-claim data. However, the compensation-claim source skewed coverage toward clinical/safety categories and under-represented relational and management problems, so the authors stress the study must be followed by replication in other healthcare settings.

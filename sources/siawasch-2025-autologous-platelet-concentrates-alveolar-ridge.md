@@ -13,13 +13,23 @@ source_collection: external
 
 [[wiki/bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]가 정량화한 post-extraction 치수 변화(수평 ~2.7 mm, 수직 ~1.7 mm)를 출발점으로, 본 Periodontology 2000 (2025) SR+MA는 autologous platelet concentrate (APC, 자가혈소판농축물) 단독 사용이 그 흡수를 얼마나 줄이는지를 RCT만으로 확장 평가 — anchor의 "변화량" 기술을 "어떤 중재가 변화를 완화하는가"로 확장.
 
-## One-line Summary
+## Three-line Summary
 
-SR with meta-analyses of 35 papers (33 RCTs; PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally accelerate soft-tissue healing, reduce post-extraction pain, and lessen ridge resorption versus unassisted healing, though high heterogeneity limits strong conclusions.
 
-## 한줄요약
+SR with meta-analyses of 35 papers (33 RCTs;
 
-35편(33 RCT; PRP·PRGF·L-PRF)의 SR+MA로, 치조제보존술에서 자가혈소판농축물(APC) 단독 사용이 미처치 자연치유 대비 연조직 치유 가속·발치 후 통증 감소·치조제 흡수 완화 경향을 보였으나, 높은 이질성으로 강한 결론은 제한적이다.
+PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally accelerate soft-tissue healing, reduce post-extraction pain, and lessen ridge resorption versus unassisted healing, though high heterogeneity limits strong conclusions.
+
+(incomplete)
+
+## 세줄요약
+
+
+35편(33 RCT;
+
+PRP·PRGF·L-PRF)의 SR+MA로, 치조제보존술에서 자가혈소판농축물(APC) 단독 사용이 미처치 자연치유 대비 연조직 치유 가속·발치 후 통증 감소·치조제 흡수 완화 경향을 보였으나, 높은 이질성으로 강한 결론은 제한적이다.
+
+(incomplete)
 
 ## 1. Document Information
 

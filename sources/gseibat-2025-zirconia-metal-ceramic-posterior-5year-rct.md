@@ -9,7 +9,7 @@ pdf_filename: gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 디지털 워크플로우에서 반투명 지르코니아 vs 금속도재 구치부 전관 5년 전향적 RCT.
 
 ## 1. Document Information

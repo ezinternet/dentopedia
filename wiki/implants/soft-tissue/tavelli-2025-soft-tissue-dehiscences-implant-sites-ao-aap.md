@@ -13,11 +13,19 @@ source_collection: external
 tags: ['peri-implant soft tissue dehiscence', 'PSTD', 'mucosal recession', 'meta-regression', 'AO/AAP']
 ---
 
-## One-line Summary
-AO/AAP systematic review + meta-regression (221 studies) of soft tissue dehiscences at implant sites in the absence of disease: mean peri-implant soft tissue dehiscence (PSTD) prevalence 46.2% and mucosal recession (MREC) 23.1%; risk factors include thin biotype, lack of keratinized mucosa, buccal implant position, immediate placement, and smoking, while ≥2 mm keratinized tissue and connective-tissue grafting (CTG) are protective.
+## Three-line Summary
+AO/AAP systematic review and meta-regression including 221 studies to evaluate prevalence, incidence, and risk/protective factors for soft tissue dehiscences at implant sites in the absence of peri-implant disease.
 
-## 한줄요약
-AO/AAP SR+meta-regression (221 연구): peri-implant soft tissue dehiscence (PSTD)·mucosal level apical shift·mucosal recession (MREC) prevalence·incidence — PSTD 평균 46.2%, MREC 23.1%; 위험·보호인자 다층 회귀로 식별.
+Mean peri-implant soft tissue dehiscence (PSTD) prevalence was 46.2% and mucosal recession (MREC) 23.1%; risk factors included thin biotype, lack of keratinized mucosa, buccal implant position, immediate placement, and smoking.
+
+Protective factors were ≥2 mm keratinized tissue, CTG augmentation, adequate emergence profile, and soft tissue volume augmentation — supporting routine pre-implant risk assessment and prophylactic soft tissue management.
+
+## 세줄요약
+질환이 없는 임플란트 부위의 연조직 dehiscence 유병률·발생률 및 위험·보호인자 평가를 위한 AO/AAP SR+메타회귀 분석(221편).
+
+peri-implant soft tissue dehiscence(PSTD) 평균 유병률 46.2%, mucosal recession(MREC) 23.1%; 위험인자는 얇은 생물형·각화점막 부족·협측 식립 위치·즉시식립·흡연.
+
+보호인자는 각화점막 ≥2 mm·CTG·적절한 emergence profile·연조직 부피증대 — 식립 전 위험평가와 예방적 연조직 처치를 지지.
 
 ## Summary
 To evaluate prevalence and incidence of soft tissue dehiscences at implant sites in absence of disease, with risk/protective factors. Cross-sectional and prospective studies. Mixed-effects uni-/multi-level regression to identify predictive factors.

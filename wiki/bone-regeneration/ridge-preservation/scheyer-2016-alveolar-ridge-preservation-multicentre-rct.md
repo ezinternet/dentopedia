@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Multicentre RCT (40 subjects, 10 centres) of ridge preservation in posterior sockets with substantial buccal dehiscence: DBBM-collagen + native bilayer collagen membrane preserved ~1.76 mm more horizontal ridge at 6 months (p=0.0256) and gave better early soft-tissue closure than demineralized allograft + cross-linked collagen membrane.
+Multicentre RCT (40 subjects, 10 centres, 1:1 randomization) comparing two ARP systems for posterior sockets with substantial buccal dehiscence (Elian Class II/III): DBBM-collagen + native bilayer collagen membrane (Bio-Oss Collagen + Bio-Gide) vs demineralized freeze-dried allograft + cross-linked collagen membrane.
 
-## 한줄요약
+DBBM-collagen + native membrane preserved ~1.76 mm more horizontal ridge at 6 months (p=0.0256) with better early soft-tissue closure; vertical differences were non-significant; 3/40 sites insufficient for implant placement, all in the allograft+cross-linked arm.
 
-협측 열개가 큰 구치부 발치와 치조제보존 다기관 RCT(40명, 10기관): DBBM-콜라겐 + 천연 이중층 콜라겐막이 6개월 수평 치조제를 약 1.76 mm 더 보존했고(p=0.0256) 탈회동종골 + 교차결합막보다 초기 연조직 봉합이 우수했다.
+In dehisced posterior sockets, a flexible xenograft + native bilayer membrane outperforms a stiff allograft + cross-linked membrane, and early inflammation plus shallow socket depth predict worse preservation outcomes.
+
+## 세줄요약
+
+다기관 무작위대조시험 (40명, 10기관, 1:1): 협측 열개가 큰 구치부 발치와 (Elian II/III)에서 탈단백우골 (Deproteinized Bovine Bone Mineral with Collagen, DBBMC) + 천연 이중층 콜라겐막 (Bio-Gide) vs 탈회동결건조동종골 (Demineralized Freeze-Dried Bone Allograft, DFDBA) + 교차결합 콜라겐막 비교.
+
+DBBMC + 천연막 군: 6개월 수평 치조제 ~1.76 mm 추가 보존 (p=0.0256), 초기 연조직 봉합 우수; 수직 차이 없음; 임플란트 불가 3례 모두 DFDBA+교차결합막군.
+
+협측 열개 구치부에서 유연한 이종골+천연막이 강직한 동종골+교차결합막을 능가하며, 1주 염증 정도 및 소켓 형태(깊이·벽 두께)가 보존 결과의 예측인자이다.
 
 ## Summary
 

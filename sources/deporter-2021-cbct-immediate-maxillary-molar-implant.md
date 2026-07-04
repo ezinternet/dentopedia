@@ -9,8 +9,19 @@ pdf_filename: deporter-2021-cbct-immediate-maxillary-molar-implant.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective CBCT study of 427 maxillary molar sites in 223 patients evaluating inter-radicular septum (IRS) width and furcation-to-sinus-floor distance (FSD) for immediate molar implant (IMI) candidacy. Only 61.7% of first molars and 34% of second molars have IRS broad enough to fully contain a 5 mm-diameter implant; mean FSD ~9 mm suggests most cases need sinus elevation if longer implants are used.
+## Three-line Summary
+Retrospective CBCT cross-sectional study of 427 maxillary molar sites (223 patients, two centers in Canada and Iran, 2016–2019) measuring inter-radicular septum (IRS) width and furcation-to-sinus-floor distance (FSD) to assess immediate molar implant (IMI) candidacy.
+
+Only 61.7% of first molars and 34% of second molars have an IRS buccopalatal width sufficient to fully contain a 5 mm-diameter implant; mean FSD was ~9 mm, and sinus intrusion rates reached up to 37.65% for second molar mesiobuccal roots.
+
+Pre-operative CBCT is essential for maxillary molar immediate implant planning — the majority of second molar sites lack the IRS width for standard 5 mm implants, and short FSD means sinus elevation is frequently required when longer fixtures are chosen.
+
+## 세줄요약
+상악 대구치 즉시 임플란트(IMI) 적합성 평가를 위해 캐나다·이란 2개 기관에서 223명 환자의 427개 상악 대구치 부위를 대상으로 치근간 격벽(IRS) 폭경과 치근분기부-상악동저 거리(FSD)를 CBCT로 측정한 후향적 단면연구.
+
+제1대구치의 61.7%, 제2대구치의 34%만이 직경 5 mm 임플란트를 완전히 수용할 수 있는 IRS 폭경을 가졌으며, 평균 FSD는 약 9 mm이고 제2대구치 근심협측 치근의 상악동 침범률은 37.65%로 가장 높았다.
+
+상악 대구치 즉시 식립 시 술 전 CBCT가 필수적이며, 대다수 제2대구치 부위는 표준 직경 임플란트에 적합하지 않고 짧은 FSD로 인해 긴 임플란트 선택 시 상악동 거상술이 빈번히 필요하다.
 
 ## 1. Document Information
 - **Journal**: Journal of Advanced Periodontology and Implant Dentistry 2021;13(2):49–55

@@ -20,13 +20,21 @@ relations:
     target: bonsmann-2025-risk-factors-early-implant-failure-sinus-nested
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective cohort (1323 implants / 738 patients; 53 early failures before final prosthetic loading): independent multivariate predictors of early implant failure were immediate provisional prosthesis (OR 3.42), posterior maxilla (OR 2.96), type IV bone (OR 2.88), periodontal-extraction site (OR 2.53), previously augmented site (OR 2.24), and smoking (OR 1.84).
+Retrospective single-center cohort (1323 implants / 738 patients, 4-year span, 53 early failures before final prosthetic loading, ~4% implant-level): multivariate logistic regression identified 6 independent predictors of early failure.
 
-## 한줄요약
+The strongest predictors were immediate provisional prosthesis (OR 3.42, p=0.019), posterior maxilla (OR 2.96, p=0.006), type IV bone (OR 2.88, p=0.008), periodontal-extraction site (OR 2.53, p=0.004), previously augmented site (OR 2.24, p=0.014), and smoking (OR 1.84, p=0.031).
 
-후향 코호트(임플란트 1323개 / 환자 738명, 보철 로딩 전 조기 실패 53건): 조기 임플란트 실패의 독립적 다변량 위험인자는 즉시 잠정보철(OR 3.42)·후방 상악(OR 2.96)·4형 골(OR 2.88)·치주문제 발치부위(OR 2.53)·기존 골증대 부위(OR 2.24)·흡연(OR 1.84).
+Narrow-implant diameter showed a bivariate signal (OR 2.32, p=0.012) that vanished on multivariate adjustment — illustrating why single-factor risk estimates can mislead; abstract-only ingest limits full detail.
+
+## 세줄요약
+
+단일 기관 후향 코호트(임플란트 1323개 / 환자 738명, 4년간, 최종 보철 로딩 전 조기 실패 53건, 약 4%): 다변량 로지스틱회귀로 6가지 독립 위험인자 도출.
+
+가장 강한 예측인자는 즉시 잠정보철(OR 3.42)·후방 상악(OR 2.96)·4형 골(OR 2.88)·치주원인 발치부위(OR 2.53)·기존 골증대 부위(OR 2.24)·흡연(OR 1.84).
+
+협소 직경 임플란트는 이변량에서 유의(OR 2.32, p=0.012)했으나 다변량에서 소실됨 — 단일 인자 위험 추정치의 과대해석을 경계해야 하며, 초록만 수집한 페이지로 세부 데이터 제한.
 
 > Abstract-only ingest (Elsevier, not in PMC) — full text not retrieved; numbers from the PubMed abstract.
 

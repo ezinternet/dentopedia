@@ -17,13 +17,23 @@ text_filename: kucukkurt-2026-comparison-five-anesthetic-delivery.txt
 
 바늘없는 압력 침윤마취기(needle-free jet injector, NFI) 및 스프링식 압력주사기(PCJ) 관련 질의 대응을 위해 인제스트. 5종의 구개 침윤마취 전달 시스템(CDS·MCJ·PCJ·NFI·CCLAD)을 동일 환자군·동일 프로토콜에서 직접 head-to-head 비교한 최초의 RCT로, 기존 [[local-anesthesia/park-2024-articaine-infiltration-lidocaine-intraosseous-molars]]가 다룬 컴퓨터제어 전달장치(QuickSleeper5)의 임상적 이점을 구개 침윤이라는 다른 해부학적 맥락에서 재검증·확장한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 RCT (n=200, 5-arm parallel, single-blind) comparing conventional syringe, manual pressure syringe (MCJ), spring-activated pressure syringe (PCJ), needle-free jet injector (NFI), and CCLAD for palatal infiltration: pain did not differ significantly across devices (p=0.380, all Hedges' g<0.20), but PCJ produced the largest fear reduction (ΔVAS -2.7) and CCLAD produced the largest transient pulse-rate increase.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 RCT(n=200, 5군 병렬, 단일눈가림)로 구개 침윤마취에서 통상 주사기·수동압력주사기(MCJ)·스프링식압력주사기(PCJ)·바늘없는 분사주입기(NFI)·컴퓨터제어전달장치(CCLAD)를 비교 — 통증은 군간 유의차 없었으나(p=0.380, 모든 Hedges' g<0.20), PCJ가 공포 감소 폭이 가장 컸고(ΔVAS -2.7) CCLAD는 주사 중 맥박 상승이 가장 컸음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

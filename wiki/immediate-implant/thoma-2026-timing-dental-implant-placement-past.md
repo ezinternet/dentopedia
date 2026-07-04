@@ -13,11 +13,21 @@ source_collection: external
 tags: [implant-timing, immediate-implant, early-placement, delayed-placement, ITI-classification, GBR, periodontal-phenotype, AI-dentistry]
 ---
 
-## One-line Summary
-Narrative review / perspective (Univ. of Zurich): reviews the ITI Type 1–4 implant-placement timing classification with reported survival (immediate Type 1 95–98%, early Type 2 4–8 wk 96–99%, early Type 3 12–16 wk 97–99%, delayed Type 4 >6 mo >95%), clinical gray zones, and the future shift toward AI-guided personalized "safe earliest placement."
+## Three-line Summary
 
-## 한줄요약
-ITI 관점 (Type 1–4): 즉시(95–98%) → 조기4–8주(96–99%) → 조기12–16주(97–99%) → 지연>6mo(>95%); 미래 = AI 가이드 '안전한 최조기 식립'
+Narrative review/perspective (University of Zurich, Thoma & Jung) reviewing the evidence base for ITI Type 1–4 implant placement timing classification, protocol-specific survival rates, clinical gray zones, and emerging AI-guided personalization.
+
+Reported survival by timing: immediate Type 1 95–98%, early Type 2 (4–8 wk) 96–99%, early Type 3 (12–16 wk) 97–99%, delayed Type 4 (>6 mo) >95%; Type 2 is often safer than Type 1 for thin phenotype patients with minimal esthetic compromise.
+
+The future principle shifts from "wait 3–6 months" to AI + CBCT-guided "safe earliest placement" individualized to the patient, socket, and systemic conditions; bioactive materials and soft tissue augmentation are the enabling technologies.
+
+## 세줄요약
+
+스위스 취리히대 (Thoma & Jung) 관점 논문: ITI Type 1–4 식립 시기 분류의 근거, 프로토콜별 생존율, 임상 회색지대, AI 기반 개인화 미래 방향을 검토.
+
+생존율: 즉시 Type 1(95–98%) → 조기 Type 2(4–8주, 96–99%) → 조기 Type 3(12–16주, 97–99%) → 지연 Type 4(>6개월, >95%); 얇은 표현형 환자에서 Type 2가 Type 1보다 심미 손실 최소화하며 안전한 경우가 많음.
+
+미래 원칙은 '3–6개월 대기'에서 CBCT + AI 기반 '환자·소켓·전신 조건 맞춤형 안전한 최조기 식립'으로 전환; 생체활성 재료와 연조직 증대가 핵심 지원 기술.
 
 ## Summary
 Perspective article from University of Zurich (Thoma, Jung) reviewing the ITI Type 1–4 implant timing classification, evidence-based criteria for each protocol, clinical gray zones, and the future shift toward AI-guided personalized timing. Core message: **"Time truly is everything"** — the art is knowing when to accelerate and when to wait.

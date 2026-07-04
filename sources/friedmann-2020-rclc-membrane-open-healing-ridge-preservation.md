@@ -17,13 +17,23 @@ full_text: true
 
 가교화 콜라겐(RCLC)의 독특한 open-healing 특성을 임상적으로 검증한 파일럿 연구. 리보오스(ribose) 가교화가 막을 콜라게나아제로부터 보호해 노출 상태에서도 이차 상피화·골재생이 이루어짐을 조직학적으로 확인. [[wiki/bone-regeneration/ridge-preservation]] 카테고리의 일반 콜라겐막 open-healing 대안으로 RCLC의 차별점을 문헌화.
 
-## One-line Summary
+## Three-line Summary
 
-Pilot study (n=18 pts, 20 sockets): RCLC membrane open healing (no primary closure) → 100% implant placement without additional augmentation; vertical change 0.45 mm (NS); secondary epithelization in 100% by 4 weeks.
 
-## 한줄요약
+Pilot study (n=18 pts, 20 sockets): RCLC membrane open healing (no primary closure) → 100% implant placement without additional augmentation;
 
-파일럿 연구 (n=18환자, 20발치와): RCLC막 open healing(1차 폐쇄 없음) → 100% 추가 증대 없이 임플란트 식립; 수직 변화 0.45 mm(NS); 4주 이내 100% 이차 상피화 완료.
+vertical change 0.45 mm (NS);
+
+secondary epithelization in 100% by 4 weeks.
+
+## 세줄요약
+
+
+파일럿 연구 (n=18환자, 20발치와): RCLC막 open healing(1차 폐쇄 없음) → 100% 추가 증대 없이 임플란트 식립;
+
+수직 변화 0.45 mm(NS);
+
+4주 이내 100% 이차 상피화 완료.
 
 ## 1. Document Information
 

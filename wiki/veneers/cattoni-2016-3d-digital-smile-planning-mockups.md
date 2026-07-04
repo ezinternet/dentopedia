@@ -18,13 +18,21 @@ relations:
     target: chandode-2026-no-preparation-conventional-veneers-clinical-considerations
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical study (n=28 patients, 108 IPS e.max porcelain laminate veneers, 2-year follow-up) of a fully digital 3D Digital Smile Planning (3D-DSP) workflow that fuses 2D facial photos with an intraoral STL scan, mills a PMMA mockup by CAD-CAM, and uses that mockup as a position guide for enamel-only minimally invasive preparation; complications were minimal (1 fracture, 2 sensitivities, 1 recession; no debonding/chipping/microleakage) with high patient satisfaction (85.7% rated the mockup test very effective).
+Prospective single-arm clinical study (n=28 patients, 108 IPS e.max porcelain laminate veneers, 2-year follow-up) of a fully digital 3D Digital Smile Planning (3D-DSP) workflow fusing 2D facial photos with intraoral STL scan and CAD-CAM-milled PMMA mockup as preparation guide.
 
-## 한줄요약
+At 2 years: 1 fracture, 2 sensitivities, 1 recession — zero debonding, chipping, microleakage, secondary caries, or root canal therapy; 85.7% of patients rated the mockup test "very effective."
 
-전향 임상연구(환자 28명, IPS e.max 도재 라미네이트 비니어 108개, 2년 추적): 안면 2D 사진과 구내 STL 스캔을 합쳐 3차원 스마일 디자인(3D Digital Smile Planning, 3D-DSP)을 만들고 CAD-CAM으로 밀링한 PMMA 목업을 법랑질 한정 최소삭제(Minimally Invasive)의 위치 가이드로 사용 — 파절 1·지각과민 2·치은퇴축 1개뿐, 탈락·치핑·미세누출 0건, 목업 테스트 만족도 "매우 효과적" 85.7%.
+The all-digital workflow (no analog wax-up, stone models, or silicone keys) is viable for enamel-confined minimally invasive laminate veneers, but the study is limited by small sample size and absence of a control arm.
+
+## 세줄요약
+
+전향적 단일군 임상연구 (환자 28명, IPS e.max 도재 라미네이트 비니어 108개, 2년 추적) — 안면 2D 사진 + 구내 STL 스캔 융합 3D 디지털 스마일 플래닝 (3D Digital Smile Planning, 3D-DSP)으로 CAD-CAM 밀링 PMMA 목업을 법랑질 한정 최소삭제 가이드로 사용.
+
+2년 결과: 파절 1·지각과민 2·치은퇴축 1개; 탈락·치핑·미세누출·이차우식·근관치료 0건; 목업 테스트 "매우 효과적" 85.7%.
+
+아날로그 납형·석고모형·실리콘키 없는 전디지털 워크플로우가 법랑질 한정 최소삭제 비니어에 적용 가능하나, 소규모 단일군·대조군 없음이 한계.
 
 ## Summary
 

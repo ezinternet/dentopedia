@@ -51,12 +51,21 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - **socket dressing 선택(new)**: Al-Suliman 2025 분악 임상시험(40명)에서 항응고 환자 발치와에 **산화셀룰로오스(Surgicel) > 젤라틴 스폰지(Gelfoam)** — 지혈·지연출혈·치유·통증 모두 우수; 와파린군이 아스피린군보다 결과 나쁨.
 > - **근거 수준**: VKA 중단 vs 지속 동등(낮음, 이질성 높음), DOAC 단순 발치 지속(중간; Dou 2025 SR+MA로 강화되나 GRADE very low — 관찰연구 기반), NSAID-아스피린 차단(강함, RCT+약역학). 처치 전 체크리스트로 약물 목록 확인·처방의 사전 연락·국소 지혈 준비를 표준화.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 21 papers on perioperative management of anticoagulants and antiplatelets for dental procedures. Core thesis: do not routinely interrupt these drugs — thromboembolic risk (stroke, MI, stent thrombosis) outweighs dental bleeding risk, and bridging therapy only increases bleeding without thrombotic benefit. Clinical takeaway: continue VKA when INR ≤3.5, continue DOACs for simple extractions (Kim 2024, Izzetti 2024 — suspension confers no bleeding benefit; Xiang 2026 — continue and brief-interrupt both acceptable for minimal-risk procedures), obtain cardiology consult before altering dual antiplatelet therapy (DAPT) though uninterrupted DAPT extraction is safe even within 1 year post-stent (Yari 2023), use 4.8% tranexamic-acid (TXA) mouthwash as first-line local hemostasis (oxidized cellulose > gelatin sponge as socket dressing — Al-Suliman 2025), and prefer acetaminophen over ibuprofen for post-op analgesia in aspirin patients (NSAID–aspirin antiplatelet interaction). Procedural extent (>3 teeth, flap, osteotomy) drives bleeding more than the suspension decision (Izzetti 2024); among DOACs dabigatran has the most favorable bleeding profile vs VKA (Dou 2025 RR 0.40).
+Synthesis of 21 papers on perioperative management of anticoagulants and antiplatelets for dental procedures: do not routinely interrupt these drugs — thromboembolic risk (stroke, MI, stent thrombosis) outweighs dental bleeding risk; bridging therapy only increases bleeding without reducing thrombosis (Moldovan 2023); continue VKA when INR ≤3.5, continue DOACs for simple extractions (Kim 2024 n=293 retrospective + Izzetti 2024 n=49 prospective — suspension confers no bleeding benefit; Dou 2025 SR+MA 29 studies n=29,212 — uninterrupted DOAC vs VKA bleeding RR 0.79; dabigatran most favorable RR 0.40).
 
-## 한줄요약
-항응고제·항혈소판제는 루틴 치과 처치 시 중단 불필요 — 중단에 따른 혈전 위험 > 치과 출혈 위험. INR ≤3.5 VKA 지속, DOAC 단순 발치 지속, DAPT 심장내과 협진, 트라넥삼산(Tranexamic Acid, TXA) 양치액이 1차 국소 지혈제.
+For DOACs vs minimal-risk procedures, both continuous and brief interruption are acceptable (Xiang 2026 SR+MA 24 studies n=8,663 — high-quality RCTs show no difference; procedural extent — >3 teeth, flap, osteotomy — drives bleeding more than suspension decision); obtain cardiology consult before altering dual antiplatelet therapy (DAPT) though uninterrupted DAPT extraction is safe even within 1 year post-stent (Yari 2023 n=100); use 4.8% tranexamic-acid (TXA) mouthwash as first-line local hemostasis (10 mL × 2 min × 4×/day × 7 days); oxidized cellulose > gelatin sponge as socket dressing in anticoagulated patients (Al-Suliman 2025).
+
+NSAID–aspirin interaction (ibuprofen blocks aspirin's antiplatelet effect) — prefer acetaminophen for post-op analgesia in aspirin patients; selective COX-2 inhibitors and acetaminophen do not interfere with aspirin antiplatelet action; avoid NSAIDs in dental-implant patients (osseointegration risk) and renal impairment (AKI OR 1.98).
+
+## 세줄요약
+
+항응고제(anticoagulant)·항혈소판제(antiplatelet) 21편 통합: 루틴 치과 처치 시 중단 불필요 — 혈전색전증(뇌졸중·심근경색·스텐트 혈전증) 위험 > 치과 출혈 위험; 브리징 요법(Bridging Therapy)은 출혈만 증가(Moldovan 2023); 비타민K 길항제(Vitamin K Antagonist, VKA) INR ≤3.5 지속, 직접경구항응고제(Direct Oral Anticoagulant, DOAC) 단순 발치 지속(Kim 2024·Izzetti 2024 중단=출혈 감소 없음; Dou 2025 n=29,212 비중단 DOAC vs VKA RR 0.79; 다비가트란 최우수 RR 0.40).
+
+이중 항혈소판요법(Dual Antiplatelet Therapy, DAPT) 변경 전 심장내과 협진 필수, 단 스텐트 1년 내 비중단 발치 안전(Yari 2023 n=100); 1차 국소 지혈제는 트라넥삼산(Tranexamic Acid, TXA) 4.8% 양치액(10mL×2분×4회/일×7일); socket dressing은 산화셀룰로오스(Surgicel) > 젤라틴 스폰지(Gelfoam, Al-Suliman 2025); Xiang 2026 SR+MA(n=8,663) — 침습도 최소 시술에서 지속·단기 중단 모두 허용, 시술 침습도가 중단 여부보다 출혈 결정.
+
+NSAID↔아스피린 상호작용: 이부프로펜(Ibuprofen)은 아스피린 항혈소판 효과 차단 → 아스피린 복용자 술후 진통제는 아세트아미노펜(Acetaminophen) 우선; 선택적 COX-2 억제제·아세트아미노펜은 아스피린에 영향 없음; 임플란트 환자(골유착 저해)·신부전(AKI OR 1.98)에서 NSAID 회피.
 
 ---
 

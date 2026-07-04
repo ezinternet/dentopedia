@@ -16,13 +16,22 @@ relations:
     target: esimekara-2022-dental-implants-autoimmune-diseases-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review + meta-analysis (13 case-control studies; 706,611 periodontitis patients vs 349,983 controls) finding periodontitis patients carry a 69% higher risk of rheumatoid arthritis (pooled OR 1.69, 95% CI 1.31–2.17, P<0.0001; I²=89%), strongest for incident RA and RA of >5-year duration.
+SR + meta-analysis of 13 case-control studies (706,611 periodontitis patients, 349,983 controls) examining whether periodontitis is a risk factor for rheumatoid arthritis across Asia, Europe, and North America.
 
-## 한줄요약
+Periodontitis patients carried a 69% higher risk of RA (pooled OR 1.69, 95% CI 1.31–2.17, P<0.0001; I²=89%), with the association strongest for incident RA and disease duration >5 years; shared citrullination/PAD/HLA-DRB1 mechanism is proposed as the biological bridge.
 
-치주염 환자가 대조군보다 류마티스 관절염(RA) 위험이 69% 높다는 13개 증례-대조 연구·치주염 70만6611명 vs 대조군 34만9983명 SR+MA로, 통합 OR 1.69(95% CI 1.31–2.17, P<0.0001; I²=89%), 신규 발병 RA와 이환기간 5년 초과 RA에서 연관성이 가장 강했다.
+High heterogeneity (I²=89%), variable confounder adjustment, and zero-percent risk-of-bias adherence to follow-up duration limit causal inference; the findings support bidirectional periodontal-RA screening but not causation.
+
+## 세줄요약
+
+SR+MA (13개 증례-대조 연구, 치주염 70만6611명 vs 대조군 34만9983명) — 아시아·유럽·북미에서 치주염이 류마티스 관절염(RA) 위험인자인지 검토.
+
+치주염 환자는 대조군보다 RA 위험 69% 높음(통합 OR 1.69, 95% CI 1.31–2.17, P<0.0001; I²=89%); 신규 발병 RA·이환기간 5년 초과에서 연관성 가장 강하며, P. gingivalis PAD를 통한 시트룰린화·HLA-DRB1 공유가 생물학적 기전으로 제시.
+
+이질성 매우 높고(I²=89%) 교란변수 보정 불충분; 인과관계보다는 양방향 치주-RA 스크리닝의 근거로 해석.
+
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: strietzel-2015-platform-switching-mbl-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA(22편: 15 RCT + 7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭이 변연골 소실 유의하게 감소; 이질성으로 신중한 해석 필요
 
 ## 1. Document Information

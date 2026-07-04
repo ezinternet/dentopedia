@@ -13,11 +13,21 @@ source_collection: external
 
 지르코니아 임플란트 생존·MBL 근거의 최신(2023 검색) SR+MA. 기존 [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]](2015 검색, 12mo 중심)를 10년 CSR·25편 규모로 확장·갱신하고, PRO 측면 [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]]와 짝.
 
-## One-line Summary
-SR+MA (25 studies, 4017 implants) — zirconia implants 10-year cumulative survival 95.1%, low short-term MBL (0.63–2.06 mm); two-piece and drill-prepared implants survived worse.
+## Three-line Summary
 
-## 한줄요약
-체계적문헌고찰+메타분석(25편·임플란트 4017개): 지르코니아 임플란트 10년 누적생존율 95.1%, 단기 변연골소실 낮음; 2-piece·드릴가공형은 생존율 낮음.
+SR+MA (25 studies, 4017 implants) — zirconia implants 10-year cumulative survival 95.1%, low short-term MBL (0.63–2.06 mm);
+
+two-piece and drill-prepared implants survived worse.
+
+(incomplete)
+
+## 세줄요약
+
+체계적문헌고찰+메타분석(25편·임플란트 4017개): 지르코니아 임플란트 10년 누적생존율 95.1%, 단기 변연골소실 낮음;
+
+2-piece·드릴가공형은 생존율 낮음.
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Oral Investigations 2024;28:15 (online 23 Dec 2023). PROSPERO CRD42022342055.

@@ -13,13 +13,23 @@ source_collection: external
 
 Provides the human longitudinal magnitude of risk for unopposed-molar overeruption that anchors the modifier table in [[wiki/overviews/unopposed-tooth-overeruption-overview]]: a **4.9× higher risk of ≥2 mm overeruption** (95% CI 1.5–15.3) over 12 years, plus the **bone-support modifier** (overeruption increases as alveolar bone support decreases). It reinforces the implant-CBCT evidence in [[wiki/occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] with a population-based radiographic cohort, converting a cross-sectional CBCT snapshot into a 12-year incidence/risk estimate in real patients.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective 12-year panoramic study of 292 women: unopposed molars carried a 4.9× higher risk of ≥2 mm overeruption (95% CI 1.5–15.3) than opposed molars, averaging ~4.5% (≈0.9 mm), with overeruption increasing as alveolar bone support decreased; mesial tipping was small (mean 0.8°) and not predicted by edentulous space, but overeruption and tipping interacted significantly.
 
-## 한줄요약
+Prospective 12-year panoramic study of 292 women: unopposed molars carried a 4.9× higher risk of ≥2 mm overeruption (95% CI 1.5–15.3) than opposed molars, averaging ~4.5% (≈0.9 mm), with overeruption increasing as alveolar bone support decreased;
 
-여성 292명 12년 파노라마 전향연구: 대합치 없는 대구치는 대합치 있는 대구치 대비 ≥2 mm 정출 위험이 4.9배(95% CI 1.5–15.3) 높았고 평균 약 4.5%(≈0.9 mm)였으며, 치조골 지지가 줄수록 정출이 커졌다. 근심 경사(평균 0.8°)는 결손 공간으로 예측되지 않았으나 정출과 경사 사이에는 유의한 상호작용이 있었다.
+mesial tipping was small (mean 0.8°) and not predicted by edentulous space, but overeruption and tipping interacted significantly.
+
+(incomplete)
+
+## 세줄요약
+
+
+여성 292명 12년 파노라마 전향연구: 대합치 없는 대구치는 대합치 있는 대구치 대비 ≥2 mm 정출 위험이 4.9배(95% CI 1.5–15.3) 높았고 평균 약 4.5%(≈0.9 mm)였으며, 치조골 지지가 줄수록 정출이 커졌다.
+
+근심 경사(평균 0.8°)는 결손 공간으로 예측되지 않았으나 정출과 경사 사이에는 유의한 상호작용이 있었다.
+
+(incomplete)
 
 ## 1. Document Information
 

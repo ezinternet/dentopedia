@@ -13,11 +13,19 @@ source_collection: external
 tags: [motivational-interviewing, medical-care, meta-analysis, brief-consultation, OR, cross-domain]
 ---
 
-## One-line Summary
-SR+MA of 48 RCTs (n=9,618) in non-mental-health medical settings — MI yields an overall OR of 1.55 (1.40–1.71) and is effective even in brief consultations; dental outcomes are explicitly cited as a responsive domain, though the paper has author-bias and subsequent methodological critiques.
+## Three-line Summary
+SR+MA of 48 RCTs (n=9,618) of motivational interviewing (MI) in non-mental-health medical care settings, pooling diverse outcome types (HIV viral load, body weight, alcohol/tobacco, sedentary behaviour, dental outcomes) using a random-effects model.
 
-## 한줄요약
-의료 일반(non-mental-health) 48 RCT(n=9,618) SR+MA — MI 전체 효과 OR 1.55 (1.40–1.71), 짧은 상담에서도 작동. dental outcome도 명시적으로 효과 영역으로 거론. 단, Rollnick(MI 공동개발자) 공저 + 후속 PEC 코멘터리에서 방법론 비판 있음.
+Overall MI advantage: OR 1.55 (95% CI 1.40–1.71, p<0.001); MI works in brief consultations — directly applicable to time-constrained dental appointment structures; dental outcomes are explicitly named as a positive domain.
+
+Two cautions apply: co-author Rollnick is the co-developer of MI (potential allegiance bias), and Mullin (2013) and van der Wouden & Rietmeijer (2014) published methodological critiques in the same journal.
+
+## 세줄요약
+정신건강/약물남용 제외 의료환경 대상 SR+MA(48 RCT, n=9,618) — HIV 바이러스 부하·체중·알코올·금연·구강보건 등 다양한 결과를 무작위효과모형으로 통합.
+
+전체 동기면담(Motivational Interviewing, MI) 효과 OR 1.55(95% CI 1.40–1.71, p<0.001); 짧은 상담에서도 효과 유지 — 치과 진료 시간 제약 환경에 직접 적용 가능; 치과 결과가 효과 영역으로 명시.
+
+주의: 공저자 Rollnick이 MI 공동 개발자(충성도 비뚤림 가능), Mullin(2013)·van der Wouden & Rietmeijer(2014)가 같은 저널에 방법론 비판 게재.
 
 ## Summary
 This is the cross-domain reference paper for MI evidence in medicine. Lundahl et al. pooled 48 RCTs (n=9,618) of MI in medical care settings (excluding pure mental health/substance abuse) and reported a modest but statistically robust overall advantage of OR 1.55 (95% CI 1.40–1.71). MI works across many outcome types — HIV viral load, body weight, alcohol/tobacco, sedentary behavior — and the paper specifically calls out **dental outcomes** as an area where MI shows promise.

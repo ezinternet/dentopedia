@@ -13,13 +13,23 @@ source_collection: external
 
 User request: papers on the implant abutment-screw **settling effect**. This in-vitro study directly quantifies settling (axial displacement) and post-loading removal torque across 5 connection geometries, mechanistically extending [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] (insertion-torque vs misfit) and [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] (Morse-taper subsidence), and complementing the connection-design comparison in [[implants/seong-2016-external-internal-implant-connection-system]]. It supplies the "settling effect" mechanism that underlies screw-loosening risk discussed in [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]].
 
-## One-line Summary
+## Three-line Summary
+
 
 In-vitro static-loading study (5 implant-abutment connection designs, n=10 each, 700 N vertical load) showing settling (axial displacement) increases with tapered interfaces (external butt-joint lowest 0.8 µm, internal 8° Morse-taper octagon highest 25.6 µm), and that two-piece abutments lose removal torque (preload) from settling while one-piece abutments gain it via friction.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 In-vitro 정적하중 연구(5종 임플란트-지대주 연결, 군당 n=10, 700 N 수직하중): settling(축방향 변위)은 테이퍼 계면일수록 커지고(외부 버트조인트 0.8 µm 최소 → 내부 8° Morse-taper 옥타곤 25.6 µm 최대), 2-piece 지대주는 settling으로 제거토크(preload)가 감소하나 1-piece 지대주는 마찰로 오히려 증가.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

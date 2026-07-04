@@ -22,13 +22,21 @@ relations:
     target: buzatu-2024-vitamin-d-osseointegration-human-studies-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (PRISMA, JBI appraisal) of 5 systematic reviews — 351 records → 5 SRs included → 8 relevant primary studies; vitamin D appears to have a positive effect on osseointegration and on reducing dental implant failure, but the evidence is methodologically limited (no meta-analysis, selective reporting, inconsistent reference levels and doses).
+Umbrella review (PRISMA, JBI appraisal) of 5 systematic reviews (351 records screened; 8 qualifying primary studies, 2014–2021) examining vitamin D and dental-implant osseointegration.
 
-## 한줄요약
+Vitamin D appears to positively influence osseointegration, marginal bone loss, and early implant failure (EDIF); Tabrizi 2022 found each +1 ng/mL 25(OH)D reduced MBL by 0.02 mm (p<0.001); Mangano 2018 (n=885) showed a deficiency–EDIF trend that was not significant (p=0.105).
 
-우산형 종설(Umbrella Review, PRISMA·JBI)로 체계적 문헌고찰(Systematic Review, SR) 5편을 통합(검색 351건 → SR 5편 → 관련 1차 연구 8편). 비타민 D(Vitamin D, 25(OH)D)는 골유착(Osseointegration)과 임플란트 실패 감소에 긍정적 효과로 보이나, 근거 질이 제한적(메타분석 없음, 선택적 보고, 기준치·용량 불일치).
+Evidence is methodologically weak — no included SR performed a meta-analysis, selective/confirmation bias was documented in two SRs, and vitamin D reference thresholds and supplementation doses were inconsistent across studies.
+
+## 세줄요약
+
+우산형 종설(Umbrella Review, PRISMA·JBI)로 체계적 문헌고찰(Systematic Review, SR) 5편을 통합(검색 351건 → SR 5편 → 1차 연구 8편, 2014–2021년).
+
+비타민 D(Vitamin D, 25(OH)D)는 골유착(Osseointegration)·변연골소실(MBL)·조기임플란트실패(Early Dental Implant Failure, EDIF)에 긍정적으로 보이며, Tabrizi 2022에서 25(OH)D +1 ng/mL마다 MBL −0.02 mm(p<0.001); Mangano 2018(n=885)은 결핍-EDIF 경향이 비유의(p=0.105).
+
+근거 질은 취약 — 포함된 SR 중 메타분석 수행 없음, 2편에서 선택적 보고·확증편향 확인, 비타민 D 기준치·보충 용량 불일치로 임상 권고 근거 불충분.
 
 ## Summary
 

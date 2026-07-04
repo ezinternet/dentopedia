@@ -16,13 +16,23 @@ text_filename: yassir-2022-cat-vs-fat-overview-systematic-reviews.txt
 
 literature-surveillance `clear-aligner` sweep(2026-06-20) efficacy 축의 **앵커(umbrella review)**. 효율·발치/복잡·부작용 세 서브토픽 결론을 한 편이 관통 — 위키 첫 aligner 임상 항목 [[wiki/orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] 의 단일 토픽(확장) 한계를 넘어 CAT 전반의 evidence ceiling을 설정. paywall(PMC 없음)이라 abstract-only 인제스트.
 
-## One-line Summary
+## Three-line Summary
 
-Overview of 18 systematic reviews: CAT is effective for mild-to-moderate malocclusion but inferior for severe cases and specific movements (torque, extrusion, rotation); periodontal health better and root-resorption risk lower with CAT, relapse greater, duration possibly shorter in mild cases; overall evidence moderate.
 
-## 한줄요약
+Overview of 18 systematic reviews: CAT is effective for mild-to-moderate malocclusion but inferior for severe cases and specific movements (torque, extrusion, rotation);
 
-SR 18편 통합 umbrella review: 투명교정은 경증~중등도엔 유효하나 중증·특정 이동(torque·정출·회전)엔 열등. 치주건강은 CAT 우위, 치근흡수 위험은 더 낮음, 재발은 더 큼, 기간은 경증에서 더 짧을 수 있음. 전반 근거수준 moderate.
+periodontal health better and root-resorption risk lower with CAT, relapse greater, duration possibly shorter in mild cases;
+
+overall evidence moderate.
+
+## 세줄요약
+
+
+SR 18편 통합 umbrella review: 투명교정은 경증~중등도엔 유효하나 중증·특정 이동(torque·정출·회전)엔 열등.
+
+치주건강은 CAT 우위, 치근흡수 위험은 더 낮음, 재발은 더 큼, 기간은 경증에서 더 짧을 수 있음.
+
+전반 근거수준 moderate.
 
 ## 1. Document Information
 

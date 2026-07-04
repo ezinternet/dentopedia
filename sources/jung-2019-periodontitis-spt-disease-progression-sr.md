@@ -9,7 +9,7 @@ pdf_filename: jung-2019-periodontitis-spt-disease-progression-sr.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 치주지지치료(Supportive Periodontal Therapy, SPT) 후 질환 진행 SR (JPIS 2019): 17편 14연구 964명, 5–15년 추적; 10/14 연구에서 CAL 손실 ≤0.5mm; 흡연·구강위생불량·SPT 불순응이 주요 예측인자.
 
 ## 1. Document Information

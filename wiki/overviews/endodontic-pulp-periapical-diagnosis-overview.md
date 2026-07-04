@@ -41,11 +41,21 @@ relations:
 > - **오진 위험 — 악성 종양 (Yamamoto-Silva 2017)**: 생활치(vital pulp)에서 근단 방사선투과상·치주인대강 확대가 보일 때 비치성 악성 종양 감별 필수 — 연골모세포성 골육종(chondroblastic osteosarcoma)이 치근단 농양으로 오인된 증례(18세 남성); 양성 치수활력 검사(vital pulp sensibility)가 비치성 병변을 의심케 한 핵심 단서, CBCT·절개생검으로 확진.
 > - **확신도**: Donnermeyer = sr; Patro = sr+ma; Igna·Karamifar·Nair·Asgary = narrative-review; Ricucci = cross-sectional; Kallel·Yamamoto-Silva = case-report. PO 628.5 DOR은 저/중질 연구 기반으로 방향성일 뿐 정밀치 아님.
 
-## One-line Summary
-Clinical pulp diagnosis is fundamentally limited by the absence of a reference standard; among available tests blood-flow (vitality) methods outperform sensibility tests, the same logic holds in children, and undiagnosed necrosis ends as a periapical lesion.
+## Three-line Summary
 
-## 한줄요약
-임상 치수진단은 reference standard 부재로 근본적 한계가 있고, 가용 검사 중 혈류 기반 vitality test가 sensibility test보다 우수하며, 이 논리는 소아에도 적용되고, 진단 안 된 괴사는 근단병소로 귀결된다.
+Synthesis of 9 papers on endodontic pulp and periapical diagnosis: clinical pulp diagnosis is fundamentally limited by the absence of a reference standard — no single test can be validated against ground truth, and overall diagnostic effectiveness is low (Donnermeyer 2023 SR, 28 studies); among available tests, blood-flow vitality methods dramatically outperform sensibility tests — pooled diagnostic odds ratio (DOR): pulse oximetry (PO) 628.5 ≫ cold 17.24 > EPT 10.75 > heat 3.47 (Patro 2022 SR+MA); heat testing alone is near-useless; same vitality-over-sensibility preference applies in children where sensibility tests are especially unreliable (Igna 2022).
+
+Undiagnosed necrosis progresses to apical periodontitis, which is fundamentally a biofilm-mediated infectious disease: intraradicular biofilm in 77% of canals (untreated 80%, treated 74% — treatment frequently fails to eradicate apical biofilm; Ricucci 2010 histobacteriologic cross-sectional n=106); biofilm prevalence rises with lesion size (small 62% → very large 100%); Nair 2006 taxonomy of six non-healing causes (intraradicular infection as dominant — orthograde retreatment is the default first step; true cysts and actinomycosis as the confirmed extraradicular minority for surgery); vital pulp AP (ALEO) requires Asgary 2024 expanded 8-category diagnosis and VPT-first approach (success 92–99%).
+
+Two misdiagnosis pitfalls: (1) odontogenic cutaneous sinus tract presents as dermatological skin lesion with no dental symptoms — repeatedly mismanaged by dermatology until dental cause identified; RCT-quality cure with endodontic treatment alone (Kallel 2021); (2) vital tooth with periapical radiolucency/PDL widening must trigger differential for non-odontogenic malignancy — chondroblastic osteosarcoma mimicking periapical abscess in 18-year-old male; positive vitality test was the key diagnostic clue, confirmed by CBCT and incisional biopsy (Yamamoto-Silva 2017); never rely on one test alone — corroborate across examination, history, and imaging.
+
+## 세줄요약
+
+근관치료 진단 9편 통합: 임상 치수진단(Pulp Diagnosis)은 기준 표준(Reference Standard) 부재로 근본적 한계 — 단일 검사로 참 치수 상태 검증 불가(Donnermeyer 2023 SR 28편); 가용 검사 중 혈류 기반 활력 검사(Vitality Test)가 감각 검사(Sensibility Test)를 압도 — 진단 오즈비(Diagnostic Odds Ratio, DOR): 맥박산소측정기(Pulse Oximeter, PO) 628.5 ≫ 냉검사(Cold) 17.24 > 전기 치수 검사(Electric Pulp Test, EPT) 10.75 > 열검사(Heat) 3.47(Patro 2022 SR+MA); 소아에서도 동일 원칙 적용(Igna 2022).
+
+진단 안 된 괴사 → 치근단치주염(Apical Periodontitis, AP): 근본적으로 바이오필름(Biofilm) 매개 감염성 질환(Ricucci 2010 n=106, 관내 바이오필름 77%, 치료치 74%에서도 검출 — 기존 치료의 근단 바이오필름 제거 실패가 지속 원인); Nair 2006 비치유 6원인(관내 감염이 단일 최대 원인 → 정방향 재치료 1순위, 관외 감염·진성낭·이물은 외과 대상); Asgary 2024 생활치 AP(Apical Periodontitis in Vital Teeth, ALEO) 8범주 확장 진단 + 생활치수요법(Vital Pulp Therapy, VPT) 우선 시행(성공률 92–99%).
+
+오진 위험 2가지: ①치성 피부누공(Odontogenic Cutaneous Sinus Tract)은 치과 증상 없이 피부병변으로만 나타나 반복 오진 → 근관치료로 완치(Kallel 2021); ②생활치에서 근단 방사선투과상·치주인대강 확대 시 비치성 악성종양 감별 필수 — 연골모세포성 골육종(Chondroblastic Osteosarcoma)이 18세 남성에서 치근단 농양으로 오인, 양성 치수활력 검사가 핵심 단서·CBCT+절개생검으로 확진(Yamamoto-Silva 2017); 검사 단독 판정 금지, 증상력·방사선과 조합 필수.
 
 ## Thesis
 Pulp diagnosis is the weakest link in the endodontic decision chain, and the literature is candid about why: there is no clinical reference standard for the "true" status of the pulp, so no single test can be validated against ground truth and overall diagnostic effectiveness is low (Donnermeyer 2023). Within that ceiling, the tests are not equal — a true vitality (blood-flow) test, the pulse oximeter, discriminates pulpal health an order of magnitude better than the sensibility tests in everyday use (Patro 2022), and the same vitality-over-sensibility preference is now advised in children, where sensibility tests are especially unreliable (Igna 2022). When pulp diagnosis fails and necrosis goes untreated, the disease reappears as a periapical lesion, where histopathology remains the diagnostic standard and advanced imaging is an emerging adjunct (Karamifar 2020). The actionable stance: never let one test be the verdict — corroborate, prefer blood-flow methods where available, and treat preoperative pulp prediction as inherently uncertain.

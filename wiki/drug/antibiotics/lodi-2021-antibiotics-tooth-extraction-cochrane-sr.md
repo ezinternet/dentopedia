@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Cochrane SR (CD003811.pub3, 3rd update): perioperative antibiotic prophylaxis significantly reduces infectious complications, pain, dry socket, swelling, and trismus after tooth extraction, but routine use in healthy patients must be weighed against adverse effects and resistance risk.
+## Three-line Summary
 
-## 한줄요약
-코크란 SR (CD003811.pub3, 3차 업데이트): 발치 후 항생제 예방투여는 감염 합병증·통증·건성와포·부종·개구장애를 유의하게 감소시키나, 건강한 환자의 루틴 사용에는 부작용·내성 위험을 고려해야 함.
+Cochrane systematic review (3rd update, CD003811.pub3) of 23 RCTs (3,206 participants; 21/23 in impacted third-molar surgery) evaluating perioperative antibiotic prophylaxis vs. placebo in otherwise healthy patients.
+
+Antibiotics significantly reduced post-extraction infection (RR 0.34, NNT 19) and dry socket (RR 0.66, NNT 46) at low certainty; no significant effect on pain, fever, or adverse events was found, with timing of administration making no clear difference.
+
+Given low certainty evidence and high NNTs, routine prophylaxis in healthy patients is not recommended; individual clinical risk stratification is required, and immunocompromised patients need specialist input as this review provides no data for them.
+
+## 세줄요약
+
+코크란 SR(3차 업데이트, CD003811.pub3), 23개 RCT(3,206명; 21/23이 매복 사랑니 수술), 건강한 환자에서 수술전후 항생제 예방 대 위약 비교.
+
+항생제는 발치 후 감염(RR 0.34, NNT 19)과 건성와포(RR 0.66, NNT 46)를 낮은 확실성으로 유의하게 감소시켰으나, 통증·발열·부작용에는 유의한 차이 없음; 투여 시기는 효과에 영향 없음.
+
+낮은 확실성과 높은 NNT를 고려하면 건강한 환자에서 루틴 예방투여는 권고되지 않으며, 개별 임상 위험도에 따른 판단이 필요하고 면역저하 환자는 본 리뷰 범위 밖이어서 별도 전문가 상담이 요구된다.
 
 ## Summary
 This Cochrane systematic review (third update, 2021) synthesizes randomized evidence on whether perioperative antibiotic prophylaxis prevents complications after tooth extraction in otherwise healthy patients. The review evaluates eight outcomes at day 6–7 post-extraction: infectious complications, pain (dichotomous and VAS), fever, swelling, trismus, dry socket, and adverse events. Meta-analyses (Analyses 1.1–1.8) assess each. The review provides the highest level of evidence informing antibiotic stewardship in oral surgery: while antibiotics reduce several post-extraction complications, the absolute benefit must be weighed against antibiotic-related adverse events and the broader public health imperative of minimizing antibiotic resistance.

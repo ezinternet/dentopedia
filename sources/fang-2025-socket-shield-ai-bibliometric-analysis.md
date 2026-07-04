@@ -13,13 +13,23 @@ source_collection: external
 
 소켓 쉴드(Socket Shield Technique, SST) 연구의 15년(2010–2024) 학술 지형을 AI 보조 계량서지학으로 지도화 — 어느 임상 근거 페이지가 분야에서 차지하는 위치를 파악하는 메타 맥락. 임상 결과를 다룬 [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]·[[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]] 위에 얹는 연구 동향 레이어.
 
-## One-line Summary
+## Three-line Summary
+
 
 AI-assisted bibliometric analysis of 157 socket-shield-technique articles (Scopus, 2010–2024) mapping a steadily rising output (especially post-2015), with the USA leading total and international collaborative publications, China most single-country publications, and Germany the highest total and average citations.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 소켓 쉴드 논문 157편(Scopus, 2010–2024)을 AI 보조 계량서지학으로 분석 — 2015년 이후 출판이 꾸준히 증가, 미국이 총·국제공동 출판 1위, 중국이 단일국가 출판 최다, 독일이 총·평균 피인용 최고.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -17,13 +17,23 @@ text_filename: hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort.txt
 
 Most ridge-preservation (ARP) evidence reports linear/horizontal changes; true volumetric (mm³) human data with collagenated xenograft is scarce. This 80-subject CBCT cohort quantifies residual resorption *despite* Bio-Oss Collagen and contrasts site-specific behavior (maxillary molar worst), extending the DBBM/collagenated-xenograft ARP picture in [[bone-regeneration/ridge-preservation/van-orten-2024-species-specific-collagen-dbbm-arp]] and [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] with a volumetric outcome and posterior (molar/premolar) focus.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective CBCT cohort (n=80; 60 with complete imaging) finds ridge preservation with Bio-Oss Collagen still incurs ~3–18% residual alveolar volume loss vs pre-extraction root volume (worst in maxillary molars ~18%, best in maxillary premolars ~3%); 78/80 sites achieved implant placement without further augmentation.
 
-## 한줄요약
+Retrospective CBCT cohort (n=80;
+
+60 with complete imaging) finds ridge preservation with Bio-Oss Collagen still incurs ~3–18% residual alveolar volume loss vs pre-extraction root volume (worst in maxillary molars ~18%, best in maxillary premolars ~3%);
+
+78/80 sites achieved implant placement without further augmentation.
+
+## 세줄요약
+
 
 후향적 CBCT 코호트(n=80, 영상 완전 60)에서 Bio-Oss Collagen 치조제보존 후에도 발치 전 치근 체적 대비 약 3~18%의 잔여 골흡수가 남았고(상악 대구치 최대 ~18%, 상악 소구치 최소 ~3%), 80건 중 78건은 추가 증대 없이 임플란트 식립이 가능했다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

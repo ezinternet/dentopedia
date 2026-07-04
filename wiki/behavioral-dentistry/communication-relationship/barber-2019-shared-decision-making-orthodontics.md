@@ -19,11 +19,21 @@ relations:
 tags: []
 ---
 
-## One-line Summary
-Narrative review of shared decision-making (SDM) in orthodontics — outlines the key stages of SDM, the main barriers to uptake, and the evidence gaps (notably validated orthodontic decision aids) that still block full integration into orthodontic practice. (abstract-only — full text not retrieved)
+## Three-line Summary
 
-## 한줄요약
-교정학에서의 공유의사결정(Shared Decision-Making, SDM)에 관한 서술적 리뷰 — SDM의 핵심 단계, 도입 장벽, 그리고 완전한 통합을 막는 근거 공백(특히 검증된 교정용 의사결정 보조도구)을 정리한다. (초록만 확보 — 전문 미수집)
+Narrative review of SDM in orthodontics, framing it as making decisions "with rather than about" patients — many orthodontic choices (extraction vs. non-extraction, appliance type, aesthetic trade-offs) are preference-sensitive and turn on patient values rather than clinical superiority alone.
+
+The review outlines the key stages of the SDM process, identifies the main barriers to uptake in orthodontic practice, and names the evidence gaps — notably the absence of validated orthodontic patient decision aids — that still block full integration.
+
+As an agenda-setting abstract-only narrative review it provides no effect estimates; its value is a structured SDM roadmap for orthodontists, signalling that adoption remains incomplete ("Are we there yet?" answers: not yet).
+
+## 세줄요약
+
+교정학에서 공유의사결정(Shared Decision-Making, SDM)을 환자와 "함께" 결정하는 것으로 재정의한 서술적 리뷰 — 발치 여부, 장치 종류, 심미-기능 상충 같은 선호 민감 결정에서 환자 가치가 결정의 핵심이다.
+
+SDM의 핵심 단계, 교정 진료에서의 주요 도입 장벽, 그리고 검증된 교정용 환자 의사결정 보조도구(Patient Decision Aid, PDA) 부재 등 통합을 막는 근거 공백을 정리한다.
+
+초록만 확보된 agenda-setting 논문으로 효과 추정치는 없으며, 교정 SDM 도입이 아직 미완임을 명시("Are we there yet?" — 아직 아님)한다.
 
 ## Summary
 Shared decision-making (SDM) reframes the clinical encounter as making decisions **'with' rather than 'about'** patients. This narrative review brings that frame into orthodontics, where many decisions are genuinely preference-sensitive — treat now vs. monitor, extraction vs. non-extraction, fixed vs. removable appliances, and aesthetic-versus-functional trade-offs — so the "right" choice often turns on patient values rather than clinical superiority alone. The review (1) lays out the **key stages** of the SDM process, (2) discusses the **main barriers** to applying it in orthodontic practice, and (3) names the **areas where further evidence is needed** to integrate SDM fully, with patient decision aids and elicitation of patient preferences as recurring themes. The title's question — "Are we there yet?" — signals that adoption remains incomplete. As an abstract-only narrative review, it is a how-to/agenda-setting piece, not an effect estimate; treat it as orthodontics-specific guidance layered on the general SDM literature.

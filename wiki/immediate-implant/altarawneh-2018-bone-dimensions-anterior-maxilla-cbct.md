@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective CBCT cross-sectional study of buccal/palatal bone dimensions on anterior maxillary teeth: the buccal plate was <1 mm thick in the majority of teeth measured (palatal bone generally thicker), confirming that immediate implant placement in the anterior maxilla usually faces a thin buccal plate as the default scenario.
+## Three-line Summary
 
-## 한줄요약
-CBCT 단면 연구: 상악 전치부 협측골은 압도적 다수가 1 mm 미만 — 즉시 식립 시 thin-plate 시나리오가 default임을 재확인.
+Retrospective CBCT cross-sectional study (JPRD 2018) measuring buccal and palatal bone dimensions at multiple apicocoronal levels on anterior maxillary teeth in a Middle-East population to inform immediate implant planning.
+
+Buccal bone was <1 mm thick in the majority of teeth at all measured levels, while palatal bone was consistently thicker; statistically significant variability existed by tooth position.
+
+Confirms that thin-buccal-plate is the default anatomical scenario in the anterior maxilla across populations, reinforcing the need for grafting, palatal implant positioning, and soft-tissue augmentation as standard in this zone.
+
+## 세줄요약
+
+후향적 CBCT 단면연구 (JPRD 2018): 상악 전치부(견치-견치) 협측·구개측 골 두께를 여러 치근측 수준에서 측정한 중동 인구 규범 데이터.
+
+협측골은 압도적 다수의 치아에서 1 mm 미만으로, 구개측골보다 얇았으며 치아 위치별로 유의한 차이가 있었음.
+
+상악 전치부 즉시식립(IIP) 시 협측판 얇음은 default 상황이므로, 구개측 임플란트 위치 설정·간극 이식·연조직 증대가 표준 접근이어야 함을 재확인한 연구.
 
 ## Summary
 Retrospective CBCT study assessing buccal and palatal bone dimensions on anterior maxillary teeth. Confirms majority of buccal plates are <1 mm thick at multiple apicocoronal levels.

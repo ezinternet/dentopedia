@@ -14,11 +14,21 @@ source_collection: external
 tags: [immediate-implant, open-healing, closed-healing, PES, Pink-Esthetic-Score, RCT, Heidelberg, soft-tissue, volumetric-change]
 ---
 
-## One-line Summary
-RCT (Int J Implant Dent 2026, 46 patients / 48 implants, 12-month follow-up): open vs closed (submerged) healing in immediate implant placement — the open-healing group achieved significantly higher Pink Esthetic Score (PES) (mean difference 1.49 favoring open, 95% CI -2.36 to -0.62, p=0.0014).
+## Three-line Summary
 
-## 한줄요약
-Heidelberg Univ RCT (Int J Implant Dent 2026, n=46/48 implants): 즉시 임플란트 open vs closed healing — Pink Esthetic Score (PES) open group이 closed보다 유의하게 우수 (MD -1.49, 95% CI -2.36 to -0.62, p=0.0014). 12개월 결과.
+RCT (n=46 patients/48 implants, Heidelberg University, Int J Implant Dent 2026) randomizing immediate implant placement to open healing (n=25) vs closed/submerged healing (n=23) with Pink Esthetic Score (PES) as primary outcome at 12 months.
+
+The open-healing group achieved significantly higher PES than the closed-healing group (mean difference 1.49, 95% CI 0.62–2.36, p=0.0014); both implant survival and volumetric tissue outcomes were also assessed.
+
+Open healing is the PES-superior choice for esthetic-zone immediate implant placement when wound closure permits; thin biotype or high volumetric resorption risk may still justify closed healing on biological grounds not captured by PES alone.
+
+## 세줄요약
+
+RCT (n=46명/48개 임플란트, 하이델베르크 대학, Int J Implant Dent 2026): 즉시식립 후 개방 치유(n=25) vs 폐쇄/매몰 치유(n=23)를 12개월 시점 분홍 심미 지수(Pink Esthetic Score, PES)로 비교.
+
+개방 치유군이 폐쇄 치유군보다 PES 유의하게 우수(MD 1.49, 95% CI 0.62–2.36, p=0.0014); 생존율과 조직 용적 변화도 평가.
+
+창상 폐쇄가 가능한 경우 심미 구역 즉시식립에서 개방 치유가 PES 기준으로 우선 선택이지만, 얇은 생체형이나 높은 용적 흡수 위험 증례에서는 PES만으로 평가되지 않는 생물학적 이유로 폐쇄 치유가 정당화될 수 있다.
 
 ## Summary
 Prospective RCT comparing open vs closed (submerged) healing approaches in immediate implant placement. Forty-six patients received a total of 48 implants, randomized to open healing (n=25) or closed healing (n=23). Clinical and radiographic assessment at three timepoints: T1 pre-extraction, T2 3 months post-op, T3 12 months post-op.

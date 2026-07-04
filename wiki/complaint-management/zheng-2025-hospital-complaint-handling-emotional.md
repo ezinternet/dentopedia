@@ -13,11 +13,19 @@ source_collection: external
 tags: [response, NLP, emotion-analysis, DISC, sentiment-lexicon, clustering, system]
 ---
 
-## One-line Summary
-Randomised intervention (n=334 vs 341) at a Chinese tertiary hospital combining a DISC behavioural-language model, a Boson sentiment lexicon, and KANN-DBSCAN clustering to handle complaints; total satisfaction 93.39% vs 83.24% (p<0.001).
+## Three-line Summary
+RCT at a Chinese tertiary hospital (n=334 intervention vs 341 control) testing a three-engine complaint pipeline: DISC behavioural-language classification, Boson sentiment lexicon scoring, and KANN-DBSCAN keyword clustering added to standard complaint handling.
 
-## 한줄요약
+The behaviour-informed pipeline raised total satisfaction from 83.24% to 93.39% (p<0.001) and reduced compensation rate (8.15%→3.56%) and petition/escalation rate (15.32%→2.49%); independent DISC effect aOR 3.06 (95% CI 1.66–5.64).
+
+Single Chinese-site study; the sentiment lexicon requires retraining for Korean/non-Chinese complaints, but the DISC four-type response logic (D/I/S/C scripts) transfers directly to any dental complaint encounter.
+
+## 세줄요약
 중국 3차병원 무작위배정 개입연구(개입 334 vs 대조 341) — DISC 행동언어모델 + Boson 감성사전 + KANN-DBSCAN 군집을 결합한 민원처리로 총 만족도 93.39% vs 83.24% (p<0.001).
+
+보상률 8.15%→3.56%, 상급기관 민원율 15.32%→2.49% 감소; DISC 독립 효과 aOR 3.06 (95% CI 1.66–5.64); 부정 감성점수 −17→−8 개선.
+
+단일 중국기관 연구로 감성사전은 한국어 재학습 필요하나, DISC 4유형(D/I/S/C) 응대 스크립트는 치과 민원 현장에 직접 적용 가능.
 
 ## Summary
 Zheng and colleagues ran a randomised, controlled intervention at a tertiary hospital in Quanzhou, Fujian, testing whether a behaviour-informed, analytics-driven complaint pipeline beats standard handling. The engine is a **three-layer stack**, not a single "emotional-language model": (1) a **DISC behavioural-language model** classifies each complainant into Dominant / Influential / Steady / Compliant types from their language, tone, and body language, prescribing a tailored response for each; (2) a **Boson public sentiment lexicon** scores complaint text token-by-token to gauge the intensity of negative emotion; (3) an improved **KANN-DBSCAN** density clustering extracts the specific keyword themes driving dissatisfaction. The intervention group (n=334) reached 93.39% total satisfaction vs 83.24% in the standard-handling control (n=341), with lower compensation and petition rates and an independent DISC effect (aOR 3.06). It remains single-site and Chinese-language, so the sentiment layer would need re-training for Korean dental complaints, but the DISC response logic transfers directly.

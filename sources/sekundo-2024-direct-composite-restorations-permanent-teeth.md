@@ -13,13 +13,23 @@ source_collection: external
 
 This is Part 2 (composite *processing* technique) of the German S3 direct-composite guideline whose Part 1 (indications) we already hold as [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]]; it completes the indication→processing chain by giving step-by-step procedural recommendations (caries removal, isolation, matrix, adhesive, curing, polishing). It also provides a consensus anchor for our bulk-fill processing pages such as [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] (statement: bulk-fill safely polymerized to 4 mm with adequate-power units).
 
-## One-line Summary
+## Three-line Summary
 
-German S3 consensus-based clinical practice guideline (Part 2; 6 PICO questions, panel from 20 societies) issuing 7 recommendations + 2 statements on composite processing: prefer one-stage selective caries removal near pulp, accept relative or absolute isolation (rubber dam may aid longevity), use anatomically preformed sectional matrix + ring/wedge for Class II, etch enamel with phosphoric acid, prefer 2-step self-etch / 3-step etch-and-rinse / universal adhesives, and polish all restorations.
 
-## 한줄요약
+German S3 consensus-based clinical practice guideline (Part 2;
 
-독일 S3 합의기반 임상진료지침(Part 2; PICO 6개, 20개 학회 패널)으로 복합레진 제작 과정에 대한 권고 7개와 statement 2개 제시: 치수 근접 상아질 병소는 1단계 선택적 우식 제거 선호, 상대적·절대적 격리 모두 사용 가능(러버댐은 장기 수명에 유리할 수 있음), Class II는 해부학적 sectional matrix+링·쐐기 선호, 법랑질은 인산 에칭, 2-step self-etch·3-step etch-and-rinse·universal adhesive 선호, 모든 수복물은 연마 권장.
+6 PICO questions, panel from 20 societies) issuing 7 recommendations + 2 statements on composite processing: prefer one-stage selective caries removal near pulp, accept relative or absolute isolation (rubber dam may aid longevity), use anatomically preformed sectional matrix + ring/wedge for Class II, etch enamel with phosphoric acid, prefer 2-step self-etch / 3-step etch-and-rinse / universal adhesives, and polish all restorations.
+
+(incomplete)
+
+## 세줄요약
+
+
+독일 S3 합의기반 임상진료지침(Part 2;
+
+PICO 6개, 20개 학회 패널)으로 복합레진 제작 과정에 대한 권고 7개와 statement 2개 제시: 치수 근접 상아질 병소는 1단계 선택적 우식 제거 선호, 상대적·절대적 격리 모두 사용 가능(러버댐은 장기 수명에 유리할 수 있음), Class II는 해부학적 sectional matrix+링·쐐기 선호, 법랑질은 인산 에칭, 2-step self-etch·3-step etch-and-rinse·universal adhesive 선호, 모든 수복물은 연마 권장.
+
+(incomplete)
 
 ## 1. Document Information
 

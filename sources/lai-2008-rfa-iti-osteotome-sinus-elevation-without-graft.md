@@ -13,11 +13,21 @@ source_collection: external
 
 [[wiki/sinus-lift/transcrestal/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol]]이 참조 근거로 RFA 추적 설계를 채택했으며, 이 설계의 foundational prospective 데이터가 wiki에 없음. Lai 2008은 graftless OSFE의 ISQ stability dip 패턴을 20주간 tracking한 가장 초기 전향적 연구 중 하나.
 
-## One-line Summary
-Prospective (n=42 ITI implants, 32 patients, 20-week RFA): graftless OSFE survival 95.2%; ISQ dips at weeks 2–6, recovers by week 16; RBH and bone type do not predict ISQ.
+## Three-line Summary
 
-## 한줄요약
-전향적(42 ITI 임플란트, 32환자, 20주 RFA): 골이식 없는 OSFE 생존율 95.2%; ISQ는 2–6주 dip 후 16주에 회복; RBH·골형은 ISQ 예측인자 아님.
+Prospective (n=42 ITI implants, 32 patients, 20-week RFA): graftless OSFE survival 95.2%;
+
+ISQ dips at weeks 2–6, recovers by week 16;
+
+RBH and bone type do not predict ISQ.
+
+## 세줄요약
+
+전향적(42 ITI 임플란트, 32환자, 20주 RFA): 골이식 없는 OSFE 생존율 95.2%;
+
+ISQ는 2–6주 dip 후 16주에 회복;
+
+RBH·골형은 ISQ 예측인자 아님.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2008;19(5):469–475

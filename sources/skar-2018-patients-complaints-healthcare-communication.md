@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Grounds the expectations axis in the relational content of complaints: what patients actually report about encounters and communication. Complements the quantitative Friele surveys and the [[complaint-management/bmjqs-2013-002437]] relationship domain with concrete encounter-level themes.
 
-## One-line Summary
+## Three-line Summary
+
 Qualitative content analysis of patient complaints finding that poor communication, not being listened to, and disrespect dominate dissatisfying encounters.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 환자 민원 질적 내용분석 — 불충분한 소통·경청 부재·존중 결여가 불만족 진료 경험을 지배함.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Nursing Open 2018;5(2):224-232. CC BY.

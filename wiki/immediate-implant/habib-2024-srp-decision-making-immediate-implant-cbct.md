@@ -13,11 +13,19 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Cross-sectional CBCT study (Pakistani population, n=196 maxillary anterior teeth) found Kan sagittal root position (SRP) Class I in 81.7% and labial bone thickness (LBT) mostly 0.5–0.9 mm, indicating most patients are anatomically suitable for immediate implant placement but thin buccal bone often warrants augmentation.
+## Three-line Summary
+Cross-sectional CBCT study (Pakistani population, n=196 maxillary canine-to-canine teeth) classifying Kan sagittal root position (SRP) and measuring labial bone thickness (LBT) at three levels.
 
-## 한줄요약
-파키스탄인 CBCT 단면 연구: SRP Class I이 81.7%로 압도적이고 LBT는 대부분 0.5–0.9 mm로 얇음 — 인구 다수가 immediate implant 호적자이나 얇은 협측골은 추가 augmentation 필요성을 시사.
+Kan Class I found in 81.7%; mean LBT was 0.5–0.9 mm (predominantly thin); no significant association between tooth type and SRP class (p=0.510).
+
+Clinical implication: the Pakistani population presents mostly Class I SRP (anatomically favorable for immediate anterior implant) but near-universally thin labial bone (<1 mm), indicating augmentation should be anticipated in virtually all cases.
+
+## 세줄요약
+단면 CBCT 연구 (파키스탄 인구집단, n=196 상악 견치-견치 치아) — Kan 분류 시상 치근 위치 (Sagittal Root Position, SRP) 및 순측 골 두께 (Labial Bone Thickness, LBT) 세 수준에서 측정.
+
+Kan Class I 81.7%; 평균 LBT 0.5–0.9 mm (주로 얇음); 치아 종류와 SRP 분류 간 유의한 연관 없음 (p=0.510).
+
+임상 적용: 파키스탄인은 SRP Class I 우세(즉시식립 해부학적 유리)하나 순측 골이 거의 대부분 얇아(<1 mm) 사실상 모든 증례에서 골 증대술 고려 필요.
 
 ## Summary
 Cross-sectional CBCT study in a Pakistani population evaluating SRP (Kan classification) and labial bone thickness (LBT) at three apicocoronal levels in maxillary canine-to-canine teeth.

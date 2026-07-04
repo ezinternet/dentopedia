@@ -16,13 +16,21 @@ relations:
     target: pachiou-2025-narrow-diameter-implants-fixed-posterior
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 studies qualitative, 7 quantitative; 256 Ti-Zr NDIs) showing titanium-zirconium narrow-diameter implants for single crowns achieve 97.5% survival and 97.2% success at up to 36 months, with no difference from commercially pure titanium.
+SR+MA (PROSPERO CRD42022324205; 8 qualitative, 7 quantitative studies; 256 Ti-Zr narrow-diameter implants ≤3.5 mm, ≥10 patients, ≥12-month follow-up) evaluating single-crown outcomes for titanium-zirconium (Roxolid) NDIs.
 
-## 한줄요약
+Cumulative survival was 97.5% (95% CI 94.5–98.9) and success 97.2% (95% CI 94.2–98.7) at up to 36 months; 1-year marginal bone loss was 0.44 mm — no difference from commercially pure titanium on any outcome.
 
-8편(정량 7편, TiZr NDI 256개) 체계적 고찰·메타분석. 단일 크라운을 지지하는 티타늄-지르코늄(Ti-Zr) NDI는 최대 36개월 생존율 97.5%·성공률 97.2%로 순수 티타늄(cpTi)과 차이 없었고 1년 MBL 0.44mm — 단기 우수, 장기 근거 부족.
+Maximum follow-up of 36 months and only 7 quantitative studies limit conclusions; long-term performance and behavior beyond 3 years remain unproven.
+
+## 세줄요약
+
+SR+MA (PROSPERO CRD42022324205; 정량 7편, 티타늄-지르코늄 (Ti-Zr) 협소직경 임플란트 (Narrow-Diameter Implant, NDI) 256개, ≤3.5 mm, ≥12개월): 단일 크라운 지지 결과 평가.
+
+36개월 누적 생존율 97.5%, 성공률 97.2%; 1년 변연골소실 (Marginal Bone Loss, MBL) 0.44 mm — 상업용 순티타늄 (cpTi) 대비 모든 결과 동등.
+
+최대 추적기간 36개월·정량 연구 7편에 그쳐 장기 성능 미확인; 3년 이후 거동은 근거 부족.
 
 ## Summary
 

@@ -18,13 +18,21 @@ relations:
     target: jensen-2023-iti-consensus-bone-dimensions-soft-tissue
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Clinical technique article introducing the "Aesthetic Contour Graft" — GBR with particulate allograft + collagen membrane to augment labial bone contour and enhance peri-implant soft tissue thickness and emergence profiles, including pontic sites, with cases showing stability to 8 years.
+Clinical technique article (narrative-review, case series, 2022) introducing the "Aesthetic Contour Graft" — GBR with particulate allograft + resorbable collagen membrane to rebuild deficient labial bone contour and secondarily enhance peri-implant soft tissue thickness and emergence profiles, including pontic sites.
 
-## 한줄요약
+The central thesis is that most peri-implant soft tissue deficiencies have an osseous etiology: correcting labial bone via GBR (≥2–3 mm target) thickens the overlying mucosa and may eliminate the need for a separate CTG; cases show soft tissue contour stability to 8 years.
 
-임상 기법 논문: 입자형 동종골 이식재 + 콜라겐 막을 이용한 GBR("Aesthetic Contour Graft")로 순측 골 윤곽을 증대해 임플란트 주위 연조직 출현 윤곽 및 폰틱 부위 심미성을 개선하며, 8년 추적에서 안정적인 연조직 윤곽 유지를 보고.
+This is a technique/case series without a prospective control group; evidence is illustrative rather than quantitative, and targets (≥2 mm labial bone, ≥2–3 mm soft tissue) align with ITI consensus thresholds.
+
+## 세줄요약
+
+임상 기법 논문(서술적 고찰·증례 시리즈, 2022): 입자형 동종골 + 흡수성 콜라겐 막을 이용한 GBR("Aesthetic Contour Graft")로 결손된 순측 골 윤곽을 재건하여 임플란트 주위 연조직 두께·출현윤곽·폰틱 부위 심미성을 개선; 8년 추적에서 안정적인 연조직 윤곽 유지를 보고.
+
+핵심 논지: 대부분의 임플란트 주위 연조직 결손은 골 결손에 기인하며, 순측 골(목표 ≥2–3 mm)을 GBR로 보완하면 피개 점막이 두꺼워져 별도 결합조직이식(CTG, Connective Tissue Graft)이 불필요할 수 있음; 경사 구개측 식립 vs 순측 식립은 치조정 연조직 두께에 2.98 mm vs 1.71 mm 차이를 보임.
+
+대조군 없는 증례 시리즈로 정량적 효능 근거 부재; ITI 합의문의 BBW <1.5 mm·연조직 ≥2 mm 임계값과 일치하나 독립 검증 필요.
 
 ## Summary
 

@@ -13,13 +13,21 @@ source_collection: external
 
 디지털 총의치(digital complete denture)의 임상 퍼포먼스와 환자보고결과(PROM)를 종합하는 SR+MA가 필요했으며, 기존 [[wiki/complete-denture/khorasani-2024-3d-printed-vs-milled-complete]]는 3D 프린팅 vs 밀링 비교에 집중한 반면, 본 논문은 밀링·프린팅 모두 conventional CD 대비 비교하고 PROMs(만족도, OHRQoL, WTP)까지 포괄한 JPD 2024 SR+MA로 보완적 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 16 studies (n=1505 screened) found digitally fabricated complete dentures (milled or 3D-printed) had similar or better clinical performance vs conventional dentures, with no significant difference in patient satisfaction PROMs.
+PRISMA SR+MA (16 studies, PROSPERO CRD42023433909) comparing milled and 3D-printed complete dentures against conventionally fabricated dentures on 5 clinical outcomes and 4 patient-reported outcome measures, published in Journal of Prosthetic Dentistry 2024.
 
-## 한줄요약
+Conventional CDs showed significantly better denture-base retention vs 3D-printed CDs (p=.02) but not vs milled CDs (p=.20); patient satisfaction, OHRQoL, masticatory efficiency, and occlusal force were not significantly different across fabrication methods.
 
-16편 SR+MA: 디지털 총의치(밀링·프린팅)는 기존 총의치와 임상 성능이 유사하거나 우수하며, 환자 만족도 PROM에서 유의한 차이 없음.
+Digitally fabricated CDs are clinically viable alternatives to conventional dentures; however, printed dentures may have inferior retention, and high-quality long-term RCTs are still needed to confirm equivalence.
+
+## 세줄요약
+
+PRISMA SR+MA (16편, PROSPERO CRD42023433909) — 밀링·3D 프린팅 디지털 총의치(CD)를 기존 총의치와 5가지 임상 결과 및 4가지 환자보고결과(PROM) 기준으로 비교, JPD 2024 게재.
+
+기존 총의치가 3D 프린팅 총의치 대비 의치상 유지력 유의하게 우수(p=.02), 밀링 대비는 차이 없음(p=.20); 환자 만족도·구강건강관련 삶의 질(OHRQoL)·저작 효율·교합력은 제작 방법 간 유의한 차이 없음.
+
+디지털 총의치는 임상적으로 허용 가능한 대안이나, 3D 프린팅 의치상 유지력 열위 가능성 및 고품질 장기 무작위대조시험(RCT) 부족이 근거 한계.
 
 ## 1. Document Information
 

@@ -13,11 +13,21 @@ source_collection: external
 tags: [tmd, bms, pharmacological-treatment, nma, nsaids, cyclobenzaprine, clonazepam, capsaicin, hyaluronate, corticosteroid, grade, orofacial-pain]
 ---
 
-## One-line Summary
-SR + network meta-analysis (57 RCTs, 2,033 patients): NSAIDs/IA corticosteroid/hyaluronate for TMD-joint; cyclobenzaprine for TMD-muscle; clonazepam and capsaicin for BMS — all limited GRADE evidence.
+## Three-line Summary
 
-## 한줄요약
-SR+NMA (57 RCT, 2,033명): TMD-관절에 NSAIDs/관절강내 코르티코스테로이드·히알루론산; TMD-근육에 시클로벤자프린; BMS에 클로나제팜·캅사이신 — 전반적 GRADE 근거 제한.
+SR plus network meta-analysis (SBU health technology assessment; 57 RCTs screened, 41 included, 2,033 patients) evaluating pharmacological treatments for orofacial pain across three subgroups: TMD-joint (15 studies), TMD-muscle (9 studies, NMA), and burning mouth syndrome (BMS, 17 studies, NMA).
+
+NSAIDs and intra-articular injections (corticosteroid, hyaluronate) are effective for TMD-joint pain; cyclobenzaprine ranked highest in NMA for TMD-muscle; clonazepam (topical > systemic) and capsaicin ranked highest for BMS — all low to moderate GRADE evidence.
+
+Cyclobenzaprine for TMD-muscle and clonazepam for BMS are the NMA-based top-ranked agents but carry important caveats (sedation and dependency risk respectively); uniform GRADE low evidence limits confident recommendations across all categories.
+
+## 세줄요약
+
+구강안면통증 약물치료를 평가한 SR+네트워크 메타분석(NMA) (SBU 보건기술평가; 57 RCT 스크리닝, 41편 포함, 2,033명; TMD-관절 15편·TMD-근육 9편 NMA·구강작열감증후군(BMS) 17편 NMA).
+
+TMD-관절: NSAIDs·관절강내 코르티코스테로이드·히알루론산 효과적; TMD-근육 NMA: 시클로벤자프린(Cyclobenzaprine) 최고 순위; BMS NMA: 클로나제팜(topical > systemic)·캅사이신 최고 순위 — 전반적 GRADE 저~중 근거.
+
+시클로벤자프린은 진정 부작용, 클로나제팜은 장기 의존성 위험 — 단기 처방 원칙; 전 범주 GRADE 저 근거로 신뢰도 있는 권고에 한계.
 
 ## Summary
 This health technology assessment by the Swedish SBU agency systematically reviewed pharmacological treatments for orofacial pain. After screening 1,552 articles, 41 RCTs (2,033 patients) met final criteria. Three subgroups were analyzed: TMD-joint (15 studies), TMD-muscle (9 studies), BMS (17 studies). Network meta-analysis was possible for TMD-muscle (8 studies) and BMS (5 studies). Key findings: NSAIDs and intra-articular injections (corticosteroid, hyaluronate) are effective for TMD-joint pain; cyclobenzaprine for TMD-muscle; clonazepam and capsaicin for BMS. Evidence quality is uniformly low–moderate per GRADE, limiting confident clinical recommendations.

@@ -21,13 +21,21 @@ relations:
     target: delgado-2025-thermoplastics-clear-aligners-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro six-axis mechanical sensor bench study (n=6/group, 6 groups) comparing three clear-aligner materials (Zendura and Trioclear thermoplastics vs Graphy TA-28 direct-3D-printed resin) at two labial-tipping magnitudes (0.3 mm, 0.6 mm) of a maxillary lateral incisor, finding no significant inter-material differences at 0.3 mm tipping but at 0.6 mm Zendura produced greater labial force than Trioclear while Graphy paradoxically produced lingual force, and Zendura/Trioclear generated greater labial-inclination moment than Graphy (all p<0.01), with Graphy showing the lowest absolute force/moment values overall.
+In-vitro six-axis mechanical sensor bench study (6 groups, n=6/group; 3D-printed maxillary typodont with root/PDL/proximal contacts, 37°C water bath) comparing three clear-aligner materials — Zendura and Trioclear thermoplastics vs Graphy TA-28 direct-3D-printed resin — at 0.3 mm and 0.6 mm labial tipping of the maxillary right lateral incisor.
 
-## 한줄요약
+At 0.3 mm tipping, inter-material differences were non-significant for labio-lingual forces; at 0.6 mm, Zendura produced significantly greater labial force than Trioclear while Graphy paradoxically generated lingual force, and Zendura/Trioclear produced significantly greater labial-inclination moment than Graphy (all p<0.01); Graphy showed the lowest absolute force/moment values overall.
 
-6축 기계 센서를 이용한 in-vitro 실험(6그룹, 그룹당 n=6)에서 상악 측절치 0.3mm 및 0.6mm 순측경사(labial tipping) 시 3종 투명교정장치 재료(Zendura·Trioclear 열가소성 vs Graphy TA-28 직접출력형)를 비교한 결과, 0.3mm에서는 재료 간 유의차가 없었으나 0.6mm에서는 Zendura가 Trioclear보다 큰 순측 방향 힘을, Graphy는 오히려 설측 방향 힘을 발생시켰고(p<0.01) Zendura·Trioclear가 Graphy보다 큰 순측경사 모멘트를 보여(p<0.01), Graphy가 전반적으로 가장 낮은 절대 force/moment 값을 나타냈다.
+Aligner material selection should be guided by the specific biomechanical demand of the case — materials are not interchangeable and can produce unexpected force/moment magnitudes and directions, especially at larger activations; direct-3D-printed resins may underperform due to thermal-softening spring-back.
+
+## 세줄요약
+
+6축 기계 센서 in-vitro 실험(6그룹, n=6/그룹; 3D프린팅 상악 모형·치근/치주인대(PDL)/인접접촉·37°C 수조) — Zendura·Trioclear 열가소성수지 vs Graphy TA-28 직접출력형 레진, 상악 측절치 0.3 mm·0.6 mm 순측경사(Labial Tipping) 비교.
+
+0.3 mm에서는 재료 간 협설방향력 유의차 없음; 0.6 mm에서 Zendura가 Trioclear보다 큰 순측력, Graphy는 역방향(설측) 힘 발생; Zendura·Trioclear가 Graphy보다 유의하게 큰 순측경사 모멘트(p<0.01); Graphy는 전반적으로 최소 절대 force/moment.
+
+투명교정 재료 선택은 증례별 생역학적 요구에 맞춰야 함 — 재료가 예상치 못한 힘/모멘트 방향을 생성할 수 있고, 직접출력형 레진은 열연화 탄성복원(Spring-Back)으로 과소 발현 가능.
 
 ## Summary
 

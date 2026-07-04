@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 파노라마 디지털 수용체의 선량·초점골 폭 trade-off 기초 근거. [[radiology/devlin-2013-object-position-magnification-panoramic-radiography]]·[[radiology/martins-2022-multilayer-panoramic-radiography-device-mapping]]의 초점골 논의에 수용체 관점 추가(역사적 앵커).
 
-## One-line Summary
+## Three-line Summary
 
-Receptor comparison: CCD (OP100D wide trough/higher dose; DigiPan narrow trough/lower dose), storage phosphor (high-res, no dose saving, slower) vs film.
 
-## 한줄요약
+Receptor comparison: CCD (OP100D wide trough/higher dose;
 
-수용체 비교: CCD(OP100D 넓은 초점골·고선량; DigiPan 좁은 초점골·저선량), 저장형광판(고해상도·선량절감 없음·느림) vs 필름.
+DigiPan narrow trough/lower dose), storage phosphor (high-res, no dose saving, slower) vs film.
+
+(incomplete)
+
+## 세줄요약
+
+
+수용체 비교: CCD(OP100D 넓은 초점골·고선량;
+
+DigiPan 좁은 초점골·저선량), 저장형광판(고해상도·선량절감 없음·느림) vs 필름.
+
+(incomplete)
 
 ## 1. Document Information
 

@@ -27,13 +27,21 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 > - 오판 패턴: ① "베니어가 심미 우월" (단일체가 칩핑 유의 감소·심미 차이 미미), ② "상악 6 implant가 더 안전" (4 vs 6 NS).
 > - 근거 한계: 축 1–3은 [근거강함] (다수 SR+MA), 축 4 지대주·삭제는 [합의수준] (FEA·단면연구·narrative 혼합).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis page over 32 prosthetic-materials papers organizing crown/bridge/implant-prosthesis material choice along 4 axes: single-crown material (lithium disilicate vs zirconia vs PFM), screw- vs cement-retention, overdenture attachment system, and abutment design. Monolithic lithium disilicate gives the highest 5-year single-crown survival (~98.5%, Pjetursson 2026 SR+MA) with monolithic designs reducing chipping vs veneered; screw retention is the default implant-prosthesis choice (lower 6-month MBL, ~46% fewer complications, retrievable); mandibular overdenture defaults to 2-implant ball attachments and maxillary 4 vs 6 implants are equivalent — anchored on multiple SR+MAs plus the DGI/DGZMK S3 guideline.
+Synthesis of 32 prosthetic-materials papers across 4 axes: (1) single-crown material — monolithic lithium disilicate (LDS) leads at 98.5% 5-year survival (Pjetursson 2026 SR+MA, 64 studies, 11,560 crowns), monolithic design reduces chipping vs veneered; zirconia and PFM at 97.1%; (2) screw vs cement retention — screw is the default (6-month MBL SMD −0.63 lower, ~46% fewer complications, Tomar 2025).
 
-## 한줄요약
+(3) Overdenture attachments — mandibular 2-implant ball attachment has fewest prosthetic complications (≈½ of locator/magnet); maxillary 4 vs 6 implants are equivalent in survival/complications/satisfaction (DiFrancesco 2021 SR+MA, 15 studies); (4) abutment design — titanium or Ti-base is the primary choice (consistent stress distribution, FEA Ziada 2025); realistic taper convergence 10–22° (Tiu 2015).
 
-보철 재료 4축 — 단관 material (LDS vs 지르코니아 vs PFM) · screw vs cement retention · overdenture attachment system · abutment 디자인. Pjetursson 2026 SR+MA + DGI/DGZMK S3 guideline spine.
+Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic reduces chipping with minimal esthetic difference) and "6 implants are safer than 4 for maxillary overdentures" (outcomes equivalent).
+
+## 세줄요약
+
+보철재료 4축 — ①단관 재료: 단일체(monolithic) 리튬디실리케이트(Lithium Disilicate, LDS) 5년 생존 98.5% 최고(Pjetursson 2026 SR+MA, 11,560 crowns); 지르코니아·PFM 97.1% 유사; 단일체가 베니어(veneered) 대비 칩핑(chipping) 유의 감소.
+
+②나사(screw) vs 시멘트 유지: 나사 유지가 기본값(6개월 변연골소실(Marginal Bone Loss, MBL) 0.63 SMD 낮음·합병증 ~46% 감소, Tomar 2025); ③하악 오버덴쳐: 2 implant + 볼 어태치먼트가 합병증 최소; 상악 4 vs 6 implant 생존·합병증·만족도 모두 무차이(DiFrancesco 2021).
+
+④지대주(abutment) 디자인: 티타늄 또는 Ti-base가 응력 분포 일관(Ziada 2025 FEA), 수렴각(Taper of Convergence) 현실적으로 10–22°; 오판 패턴: "베니어=심미 우월"(단일체 칩핑↓·심미 차이 미미)·"상악 6 implant=더 안전"(4 vs 6 NS).
 
 ## Summary
 

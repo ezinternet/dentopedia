@@ -13,13 +13,23 @@ source_collection: external
 
 Contributes an Iranian-population CBCT data point covering all three mandibular molars (first, second, third) and jointly reports C-shaped canals *and* three-rooted (radix entomolaris) prevalence, adding a second high-impact anatomical variant to the same cluster. It reinforces the C-shaped morphology baseline of [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] and pairs with sibling prevalence studies [[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]], [[endodontics/anatomy/singh-2022-cshaped-canal-second-molars-indian-cbct]], and [[endodontics/anatomy/yu-2012-cbct-mandibular-premolars-root-canal-morphology]].
 
-## One-line Summary
+## Three-line Summary
 
-CBCT cross-sectional study (292 Iranian patients; 291 first, 402 second, 200 third mandibular molars): C-shaped canal prevalence 1.7% (first), 2% (second), 2% (third molars); three-rooted prevalence highest in first molars (2.7%), with most molars two-rooted.
 
-## 한줄요약
+CBCT cross-sectional study (292 Iranian patients;
+
+291 first, 402 second, 200 third mandibular molars): C-shaped canal prevalence 1.7% (first), 2% (second), 2% (third molars);
+
+three-rooted prevalence highest in first molars (2.7%), with most molars two-rooted.
+
+## 세줄요약
+
 
 이란인 환자 292명 CBCT 단면 연구(하악 제1대구치 291·제2대구치 402·제3대구치 200) — C-shaped canal 유병률 제1 1.7%·제2 2%·제3 2%, 3근치는 제1대구치(2.7%)에서 가장 높고 대부분의 대구치는 2근치였음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

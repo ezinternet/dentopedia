@@ -18,7 +18,7 @@ Retained NOT as a citable source but as a retraction/context reference — it do
 ## ⚠️ RETRACTION NOTICE
 This paper has been **RETRACTED** by JAMA Internal Medicine. The original PDF carries an Article Alert: "This article has been retracted." A correction was also published. Treat all numerical findings as historical/contextual only — do not cite the effect estimates as reliable evidence.
 
-## One-line Summary
+## Three-line Summary
 [RETRACTED] Originally reported that physician burnout (47 studies, n=42,473) was associated with ~2× odds of unsafe care, unprofessional behavior, and low patient satisfaction, with depersonalization the strongest link — but the meta-analysis was retracted, so effect sizes should not be cited.
 
 ## 1. Document Information

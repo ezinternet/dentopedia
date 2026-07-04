@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Methodological quality assessment (CONSORT + trial-registration audit) of 32 RCTs on SRP adjuncts published 2010–2017 by a single research group (GDCRI, Bangalore); all RCTs scored low on reporting quality, most CONSORT items <50% (including randomization, registration, blinding), only 38% had follow-up periods consistent with declared trial start/end dates — so the group's unusually large effect sizes should be viewed with extreme caution.
+Preregistered meta-research Part 2 (CONSORT reporting-quality + trial-registration audit) of 32 RCTs on SRP adjuncts published 2010–2017 by a single research group (GDCRI, Bangalore, India) whose effect sizes had been flagged as unreproducibly large in a 2015 ADA systematic review.
 
-## 한줄요약
+All 32 RCTs scored low on reporting quality with the majority of CONSORT items <50% (including randomization, blinding, and registration); only 38% had follow-up periods consistent with declared trial initiation/termination dates, and registration records showed systematic inconsistencies.
 
-단일 연구그룹(인도 GDCRI)이 2010–2017년 발표한 SRP 부가요법 RCT 32편의 보고질(CONSORT)·임상시험 등록 일치성 감사로, 모든 RCT가 낮은 보고질을 보였고 대부분 CONSORT 항목이 50% 미만(무작위배정·등록·맹검 포함), 등록기록과 추적기간이 일치한 RCT는 38%뿐이어서, 이 그룹이 보고한 비정상적으로 큰 효과크기는 극도의 주의가 필요하다는 메타-연구(part 2).
+Clinicians should not uncritically apply the large SRP-adjunct benefits reported by this group; the study is a teaching case in critical appraisal, introducing a practical timeline-consistency test (actual duration vs declared follow-up) for auditing suspicious trial outputs.
+
+## 세줄요약
+
+2022년 사전등록 메타-연구 Part 2: 단일 연구기관(인도 GDCRI)이 2010–2017년 발표한 SRP 부가요법 RCT 32편의 CONSORT 보고질 및 임상시험 등록 일치성 감사 (효과크기의 비재현성이 2015 ADA SR에서 이미 지적된 그룹).
+
+모든 RCT가 낮은 보고질(대부분 CONSORT 항목 <50%; 무작위배정·맹검·등록 포함); 38%만 선언된 시작/종료일과 추적기간 일치; 등록기록에 체계적 불일치 다수.
+
+이 그룹의 큰 SRP 부가요법 효과크기는 무비판적 적용 금지; '실제 연구기간 vs 선언된 추적기간' 타임라인 일치성 검사를 실용적 감사 기법으로 제시한 비판적 평가 교육 사례.
 
 ## Summary
 

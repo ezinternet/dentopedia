@@ -14,13 +14,21 @@ pdf_filename: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
 tags: [chlorhexidine, alveolar-osteitis, dry-socket, third-molar, extraction]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (23 RCTs, 2,824 extractions) — CHX in any form/concentration reduces alveolar osteitis risk by ~47% (RR=0.53, NNT=8) after third molar extraction; gel slightly superior to rinse (RR 0.47 vs 0.58); no difference in adverse effects vs placebo.
+SR+MA of 23 RCTs (2,824 third molar extraction sites) examining chlorhexidine (CHX) in any form or concentration for prevention of alveolar osteitis (dry socket).
 
-## 한줄요약
+CHX reduced alveolar osteitis risk by ~47% compared to placebo (RR=0.53, 95% CI 0.45–0.62; NNT=8); CHX gel was slightly superior to rinse (RR 0.47 vs 0.58); heterogeneity was low (I²=9.3%).
 
-SR+MA (23 RCT, 2,824 발치) — 사랑니 발치 후 CHX (제형·농도 무관)는 건성발치와 위험 약 47% 감소 (RR=0.53, NNT=8); 겔이 가글보다 약간 우수; 이상반응은 위약과 차이 없음.
+Adverse effects were not significantly different from placebo, and no specific concentration or application timing showed superiority, supporting flexible CHX prescription.
+
+## 세줄요약
+
+SR+MA (23 RCT, 2,824 발치): 사랑니 발치 후 제형·농도 무관 클로르헥시딘(Chlorhexidine, CHX) 적용이 건성발치와(Alveolar Osteitis, AO) 위험 약 47% 감소 (RR=0.53, NNT=8).
+
+CHX 겔이 가글보다 약간 우수 (RR 0.47 vs 0.58); 이질성 낮음 (I²=9.3%) — 연구 간 일관된 효과.
+
+이상반응은 위약 대비 차이 없고 특정 농도·적용시기 우위 없어 처방 유연성 확보 가능.
 
 ## Summary
 

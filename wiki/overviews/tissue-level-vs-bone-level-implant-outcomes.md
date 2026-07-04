@@ -33,13 +33,21 @@ relations:
 > - 신형 TL 거시설계(tapered self-cutting, Laser-Lok collar, convergent neck)는 치은연상 microgap + 추가 치조정 보존 기전 결합 → 전향 코호트에서 100% 생존·거의 0 주위염(Spinelli 2023).
 > - 임상 bottom line: 생존엔 사실상 호환 가능, IAJ를 치은연상에 두는 것(TL 또는 tall transmucosal + 플랫폼 스위칭 BL)이 치조정골을 0.25–0.66mm 보호 — 얇은 조직형·상악 구치부 단축 임플란트에서 가장 의미 있음; BL에선 플랫폼 스위칭·모스 테이퍼(Morse taper)가 최강 MBL 조절 레버.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis across 9 papers (2 SR, 1 SR+MA, 2 prospective/case-control, 2 retrospective, 2 animal) finds TL and BL implants achieve equivalent survival (>90–100%) and comparable MBL by SR-level analysis, but controlled clinical studies consistently show TL implants lose 0.25–0.66 mm less marginal bone, with the advantage most pronounced for short implants in posterior maxilla, thin-tissue scenarios, and novel TL macro-designs — while peri-implantitis risk reduction for TL remains directionally favorable (RR 0.59) but statistically non-significant.
+Synthesis of 10 papers (2 SR, 1 SR+MA, 2 prospective/case-control, 2 retrospective, 2 animal + 1 long-term RCT) comparing tissue-level (TL) vs bone-level (BL) implants: survival is equivalent (>90–100%) across all evidence levels, and SR/SR+MA analyses find no statistically significant MBL difference, but controlled head-to-head clinical studies consistently show TL loses 0.25–0.66 mm less marginal bone (TL 0.31 vs BL 0.97 mm at 2 years, p<0.001; Agustín-Panadero 2021; TL 0.30 vs BL 0.55 mm at 1 year, p=0.003; Lombardi 2025).
 
-## 한줄요약
+The biological mechanism is IAJ position: placing the implant-abutment junction supragingivally (TL) moves bacterial interface and biologic-width establishment away from crestal bone; the 15–17-year RCT confirms 1-piece MBL of 0.08 mm vs 2-piece 1.53 mm (p<0.001), but at the cost of 6× higher technical complications (35.4% vs 5.8%; Pirc 2026); peri-implantitis risk shows a directionally favorable signal for TL (RR 0.59) but is underpowered (5 studies, 501 implants, 95% CI 0.14–2.48, p=0.47; Atieh 2025 SR+MA).
 
-9편 종합(2 SR, 1 SR+MA, 2 전향/케이스-대조, 2 후향, 2 동물): 생존율은 TL·BL 동등(>90–100%), SR 수준에서는 MBL도 유의차 없으나, 통제된 임상연구들은 TL이 일관적으로 0.25–0.66 mm 적은 변연골 소실을 보임 — 상악 구치부 단축 임플란트·얇은 연조직·신형 TL 거시설계에서 이점이 가장 뚜렷; 주위염 위험 감소(RR 0.59)는 방향성은 있으나 통계적 유의 미달.
+Thin peri-implant mucosa (≤2 mm) is the strongest predictor of early MBL in both types — outweighing smoking, periodontitis, ISQ, and insertion torque (Lombardi 2025); for BL implants, platform-switching and Morse-taper connections are the strongest MBL-moderating levers; the clinical bottom line is TL/BL interchangeability for survival, with the IAJ position (supragingival) protecting crestal bone by a clinically meaningful 0.25–0.66 mm in thin-tissue and posterior-maxilla short-implant scenarios.
+
+## 세줄요약
+
+10편 종합(2 SR, 1 SR+MA, 2 전향/케이스-대조, 2 후향, 2 동물 + 장기 RCT 1): 생존율은 TL·BL 모두 동등(>90–100%)하고 SR/SR+MA 수준에서는 MBL 유의차 없으나, 동질 head-to-head 임상연구들은 TL이 0.25–0.66 mm 적은 변연골 소실을 일관되게 보임(TL 0.31 vs BL 0.97 mm, p<0.001; Agustín-Panadero 2021; 15–17년 RCT에서 1-piece MBL 0.08 vs 2-piece 1.53 mm, p<0.001, 단 기술 합병증 6배↑; Pirc 2026).
+
+이득의 기전은 IAJ 위치 — 치은연상 microgap이 세균 계면·생물학적 폭경 형성을 치조정골에서 멀리 보냄; 주위염 위험 TL 방향성 우위(RR 0.59)는 통계적 미달(95% CI 0.14–2.48; Atieh 2025 SR+MA, 5편 501개); 얇은 임플란트주위 점막(≤2 mm)이 TL·BL 모두에서 초기 MBL 최강 예측인자로 흡연·치주염·ISQ를 능가(Lombardi 2025).
+
+임상 결론: 생존에서는 사실상 호환 가능; IAJ를 치은연상에 두는 설계(TL 또는 tall transmucosal + platform-switching BL)가 치조정골을 0.25–0.66 mm 보호 — 얇은 조직형·상악 구치부 단축 임플란트에서 임상적 의미가 가장 크며, BL에서는 platform-switching·Morse taper가 최강 MBL 조절 레버이다.
 
 ## Summary
 

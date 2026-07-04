@@ -14,8 +14,21 @@ source_collection: external
 
 The 2021 Cochrane update is the highest-tier evidence node for [[overviews/socket-preservation-arp-overview]] — its GRADE downgrade to "very low" certainty tempers the ARP-positive conclusions and supplies the critical-appraisal backbone for [[overviews/bone-regeneration-socket-biology-and-arp-critique]]. Doubles the trial pool (8→16 RCTs) while confirming no graft-material superiority.
 
-## One-line Summary
-2021 Cochrane update (.pub3) of the 2015 ARP review — 16 RCTs, 524 extraction sites, 426 participants; xenograft vs extraction alone shows reduced width loss (MD −1.18 mm) and height loss (MD −1.35 mm), but **certainty downgraded to "very low"** by GRADE; conclusions changed from 2015 — limited certainty about meaningful clinical benefit and no superiority among graft materials.
+## Three-line Summary
+
+2021 Cochrane update (.pub3; 16 RCTs, 524 extraction sites, 426 participants) of the 2015 ARP review, with doubled trial count, updated GRADE assessment, and changed conclusions compared to the prior version.
+
+Xenograft ARP vs extraction reduced width loss (MD −1.18 mm) and height loss (MD −1.35 mm), but GRADE certainty was downgraded to "very low" (from "moderate" in 2015); need for additional augmentation and implant failure were not significantly different; no graft material proved superior.
+
+The changed conclusion — limited certainty about meaningful clinical benefit of ARP over unassisted extraction — reflects the 2021 GRADE downgrade; this review remains the highest-tier evidence for ARP efficacy decisions but cannot confirm patient-level benefit given the very low certainty and absent long-term implant-survival data.
+
+## 세줄요약
+
+2021년 코크란 업데이트(.pub3; RCT 16편·발치와 524개·참가자 426명) — 시험 수 2배(8→16편), GRADE 재평가, 2015년 버전 대비 결론 변경.
+
+이종골 ARP vs 발치 단독: 수평 골 소실 감소(MD −1.18 mm), 수직 골 소실 감소(MD −1.35 mm); 그러나 GRADE 확실성이 "중등도"(2015)에서 "매우 낮음"(2021)으로 하향; 추가 골증대 필요성·임플란트 실패율은 비유의; 이식재 종류 간 우위 없음.
+
+ARP의 임상적 의미 있는 이점에 대한 제한된 확실성이라는 변경된 결론은 GRADE 하향을 반영하며, 장기 임플란트 생존 데이터 부재로 환자 수준 이득 확인 불가 — 현재까지 ARP 효능 평가의 최고 근거 수준 문헌.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews 2021, Issue 4

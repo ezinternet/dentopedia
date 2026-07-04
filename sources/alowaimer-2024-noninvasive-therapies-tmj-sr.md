@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 [[gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]를 보완하는 비침습적 TMD 치료 SR. 스플린트, 관절천자세정술, 레이저, 전기자극 등 보다 넓은 non-invasive 스펙트럼을 포함; 병용 치료의 우월성 확인.
 
-## One-line Summary
-SR (20 studies, Cureus 2024, PRISMA): combination of manual therapy + counseling + splint shows best outcomes for TMD; TENS and LLLT alone show limited efficacy; >80% managed non-surgically.
+## Three-line Summary
 
-## 한줄요약
-SR (20 연구): 수기치료+상담+스플린트 병용이 최선; TENS·LLLT 단독 효과 제한; TMD 환자 80% 이상 비수술 관리 가능.
+Systematic review (PRISMA; 20 RCTs/clinical trials; 1,437 records screened; Cureus 2024) comparing non-invasive and minimally invasive therapies for temporomandibular joint dysfunction, including physical therapy, splints, laser, TENS, ultrasound, electrical stimulation, and arthrocentesis.
+
+Combination therapy (manual therapy + counseling + splint) produced the best outcomes with substantial reductions in pain, depression, and anxiety; TENS and LLLT alone showed limited and inconsistent efficacy; arthrocentesis was effective as a minimally invasive option when conservative management fails; >80% of TMD patients are manageable non-surgically.
+
+No meta-analysis was performed due to heterogeneous outcome measures; the review lacked standardized protocols, and most studies had limited longitudinal follow-up — a standardized evidence-based treatment algorithm is needed.
+
+## 세줄요약
+
+체계적 문헌고찰 (PRISMA; 20편 RCT/임상연구; Cureus 2024) — 측두하악관절 기능이상(TMD)의 비침습·최소침습 치료 비교 (물리치료·스플린트·레이저·TENS·초음파·전기자극·관절천자세정술).
+
+수기치료+상담+스플린트 병용이 최선 (통증·우울·불안 유의 감소); TENS·LLLT 단독 효과 제한 및 비일관적; 관절천자세정술은 보존적 치료 실패 시 효과적 최소침습 옵션; TMD 환자 80% 이상 비수술 관리 가능.
+
+메타분석 미시행 (이질적 결과 지표); 표준화 프로토콜 부재·추적 기간 제한 — 표준화된 근거 기반 치료 알고리즘 필요.
 
 ## 1. Document Information
 - **Journal**: Cureus 16(3):e56713 (2024)

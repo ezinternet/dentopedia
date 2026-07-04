@@ -10,7 +10,7 @@ pdf_filename: iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospecti
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 일본 4 기관 후향 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방을 위한 amoxicillin (AMPC) 투여 — 단일 술전 500mg vs 3일 코스 비교; MRONJ 발생률 동등 → 단일 술전 dose로 충분, AMR 회피 가능.
 
 ## 1. Document Information

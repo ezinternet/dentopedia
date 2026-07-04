@@ -13,13 +13,21 @@ source_collection: external
 tags: [cyanoacrylate, tissue-adhesive, coronally-advanced-flap, flap-stability, periodontal-plastic-surgery]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Ex-vivo biomechanical study (36 half-pig mandibles, n=12 per group): cyanoacrylate tissue adhesive (TA) gave significantly higher CAF marginal flap stability than sutures alone (5.20 vs 0.88 N maximum tensile force), and TA + sutures combined was highest (8.50 N; all p<0.001).
+Ex-vivo biomechanical study (36 half-pig mandibles, 3 groups × n=12) comparing coronally advanced flap (CAF) fixation by sutures alone, cyanoacrylate tissue adhesive (TA) alone, or sutures + TA, measuring pull-off force until the CEJ reappeared.
 
-## 한줄요약
+TA alone (5.20 N) vastly outperformed sutures alone (0.88 N; p<0.001) and TA + sutures combined was highest (8.50 N; p<0.001 vs both other groups), attributable to areal adhesive bonding vs punctual suture fixation.
 
-생체외 역학 연구 (반쪽 돼지 하악골 36개, 군당 n=12): 시아노아크릴레이트 조직접착제(TA)가 봉합 단독보다 치관변위판막(CAF) 변연 안정성을 유의하게 높였고(최대 인장력 5.20 vs 0.88 N), TA+봉합 병용이 가장 높았음(8.50 N; 모두 p<0.001).
+Cyanoacrylate TA is a mechanically superior adjunct for CAF marginal stability in periodontal plastic surgery, but evidence is immediate-mechanical only (pig model, no clinical recession-coverage or healing outcomes).
+
+## 세줄요약
+
+돼지 반쪽 하악골 36개(군당 n=12)를 이용한 생체외 역학 연구로 치관변위판막(CAF) 봉합 단독·시아노아크릴레이트 조직접착제(TA) 단독·봉합+TA 병용의 변연 안정성(최대 인장력)을 비교.
+
+TA 단독(5.20 N)이 봉합 단독(0.88 N, p<0.001)보다 크게 우수했고, 봉합+TA 병용(8.50 N)이 최고(p<0.001); 면적 접착 대 점적 고정 차이가 원인.
+
+시아노아크릴레이트 TA는 치주성형수술 CAF의 역학적 안정성 보조제로 우수하나 즉각적 역학 결과에 국한(돼지 모델, 임상 치근 피개·치유 데이터 없음).
 
 ## Summary
 

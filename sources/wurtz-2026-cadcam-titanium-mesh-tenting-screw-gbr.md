@@ -17,13 +17,23 @@ text_filename: wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr.txt
 
 GBR 6패널 분류 인터랙티브 도구(GBR 6패널 분류 standalone.html)의 Panel IV–V 근거 논문. CAD/CAM 맞춤형 티타늄 메시(Panel IV–V) vs 텐팅 스크루 + 흡수성 콜라겐막(Panel III)의 직접 비교 데이터를 제공. [[wiki/implants/vertical-ridge-augmentation/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct]]과 [[wiki/implants/vertical-ridge-augmentation/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct]] 계열에 추가되는 맞춤형 Ti mesh 임상 결과 데이터.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective study (n=40, 5-year follow-up) comparing CAD/CAM customized titanium mesh vs tenting screws with resorbable collagen membrane for horizontal/vertical GBR: equivalent bone gain, significantly shorter operative time with Ti mesh (62.4 vs 72.7 min), 100% implant survival.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 맞춤형 CAD/CAM 티타늄 메시 vs 텐팅 스크루+흡수성 콜라겐막 후향적 비교(n=40, 5년): 골증대량 동등, Ti 메시군 수술 시간 유의하게 짧음(62.4 vs 72.7분), 임플란트 생존율 100%.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

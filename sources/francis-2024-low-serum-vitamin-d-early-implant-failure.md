@@ -18,13 +18,23 @@ This is the contrarian / negative-evidence anchor for the vitamin D → implant-
 
 Note: abstract-only — full text not retrieved.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective cohort (174 implants / 109 patients) found no statistically significant correlation between low serum vitamin D and early dental implant failure; the 8 failed cases even had a higher mean serum vitamin D (42.54 ng/mL) than successful patients (31.92 ng/mL).
 
-## 한줄요약
+Prospective cohort (174 implants / 109 patients) found no statistically significant correlation between low serum vitamin D and early dental implant failure;
+
+the 8 failed cases even had a higher mean serum vitamin D (42.54 ng/mL) than successful patients (31.92 ng/mL).
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 코호트(임플란트 174개 / 환자 109명)에서 낮은 혈청 비타민 D와 조기 임플란트 실패 사이에 통계적으로 유의한 상관관계가 없었으며, 실패한 8건은 오히려 성공군(31.92 ng/mL)보다 높은 평균 비타민 D(42.54 ng/mL)를 보인 음성 결과 연구.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

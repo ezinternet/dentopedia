@@ -32,13 +32,21 @@ relations:
 > - 농도: 위약 대비는 농도 의존적이나 표준 20% 이상 증량의 추가 이득은 불명(8% lidocaine도 추가이득 없음).
 > - 도포 프로토콜: 제제별 권장 onset 준수(EMLA 약 5분 — 2분 고정은 EMLA에 불리), 건조·압박·접촉시간 표준화. 표면 단독은 깊은 block에 부적합(rescue 마취 필요↑).
 
-## One-line Summary
+## Three-line Summary
 
-Topical anesthetics reliably reduce needle/injection pain versus placebo, but head-to-head differences between agents (lidocaine, benzocaine, EMLA) are small and inconsistent — delivery/formulation, concentration, and contact technique appear to matter more than which drug is chosen; topical does not fully match injected anesthetic for pain intensity but remains an acceptable less-invasive option in contexts like SRP.
+Synthesis of 4 papers: topical anesthetics reliably reduce needle/injection pain versus placebo (concentration-dependent, 20% > 5%; Khongkhunthian 2018), but injected anesthetic remains superior for pain intensity in SRP (Wambier 2017 SR+MA), and head-to-head agent comparisons (benzocaine, lidocaine, EMLA) are inconsistent — a small low-power RCT (Subramanian 2023) favored benzocaine, while a larger triple-blind RCT (Karkoutly 2024) showed no agent difference.
 
-## 한줄요약
+The convergent inference is that delivery, concentration, and application technique matter more than drug choice; strict blinding erases apparent agent advantages, suggesting measurement/expectation bias is partly responsible for previously reported agent-specific effects.
 
-표면마취제는 위약 대비 needle·주사 통증을 확실히 줄이지만, 제제 간(lidocaine·benzocaine·EMLA) 직접비교 차이는 작고 비일관적이다 — 어떤 약물이냐보다 전달제형·농도·도포술기가 더 결정적이며, 표면마취가 통증강도에서 주사마취를 완전히 대체하진 못해도 SRP 같은 맥락에선 덜 침습적 대안으로 유효하다.
+Topical does not fully replace injected anesthetic for pain intensity, but is an accepted less-invasive option when deep block is not required; formulation choice should favor availability and safety over perceived efficacy advantage.
+
+## 세줄요약
+
+4편 종합: 표면마취제는 위약 대비 needle·주사 통증을 확실히 줄이나(농도 의존, 20%>5%; Khongkhunthian 2018) SRP에서 통증강도는 주사마취가 우위(Wambier 2017 SR+MA), 제제 간 비교는 비일관적 — 소규모 RCT(Subramanian 2023)는 benzocaine 우위, 더 엄격한 triple-blind RCT(Karkoutly 2024)는 차이 없음.
+
+엄격한 blinding이 제제 간 차이를 없애는 패턴은 관찰된 "우위"가 상당 부분 측정·기대 편향임을 시사하며, 약물명보다 전달제형·농도·도포술기가 더 결정적이다.
+
+표면마취가 주사를 통증강도에서 완전히 대체하지는 못하지만 깊은 block이 불필요한 맥락(SRP 등)에서는 덜 침습적 대안으로 유효하며, 제제 선택은 효능이 아닌 가용성·안전성(benzocaine methemoglobinemia 주의)으로 한다.
 
 ## Thesis
 

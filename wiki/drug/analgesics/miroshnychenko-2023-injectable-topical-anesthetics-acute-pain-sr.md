@@ -19,13 +19,21 @@ relations:
     target: miroshnychenko-2023-dental-extraction-pain-network-meta
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Two GRADE-rated SRs informing the ADA acute-dental-pain CPG: SR1 (14 RCTs) — long-acting bupivacaine probably reduces analgesic consumption vs lidocaine+epinephrine (MD −1.91 doses, 95% CI −3.35 to −0.46) and mepivacaine (MD −1.58, −2.21 to −0.95); SR2 (5 RCTs) — 20% benzocaine increases pain-reduction responders vs placebo (RR 1.47, 1.03–2.10) in symptomatic irreversible pulpitis.
+Two paired GRADE-rated systematic reviews informing the ADA acute-dental-pain clinical practice guideline: SR1 (14 RCTs, simple/surgical extraction, adolescents/adults) comparing injectable long-acting bupivacaine vs short-acting lidocaine/articaine/mepivacaine; SR2 (5 RCTs) evaluating topical benzocaine for symptomatic irreversible pulpitis.
 
-## 한줄요약
+SR1: bupivacaine probably reduces analgesic consumption vs lidocaine+epinephrine (MD −1.91 doses, 95% CI −3.35 to −0.46, moderate certainty) and mepivacaine (MD −1.58, −2.21 to −0.95, moderate), and extends time-to-analgesic vs lidocaine+epinephrine (+2.56 h, high certainty); SR2: 20% benzocaine increases pain-reduction responders vs placebo at 20–30 min (RR 1.47, 1.03–2.10, low certainty).
 
-ADA 급성 치과통증 진료지침 근거가 된 2개 SR: SR1(14 RCT) — 장시간형 bupivacaine이 lidocaine+에피네프린(MD −1.91회분, 95% CI −3.35~−0.46)·mepivacaine(MD −1.58, −2.21~−0.95) 대비 진통제 소비 감소; SR2(5 RCT) — 20% benzocaine이 위약 대비 증상성 비가역치수염 통증 감소 반응자 증가(RR 1.47, 1.03~2.10).
+Clinically: bupivacaine is preferred for procedures with anticipated postoperative pain (surgical third molar removal) to extend comfort and reduce rescue analgesic doses; benzocaine is a short (20–30 min) temporizing measure for irreversible pulpitis pending definitive treatment.
+
+## 세줄요약
+
+ADA 급성 치과통증 임상진료지침(CPG)을 위한 쌍둥이 GRADE 체계적 문헌고찰: SR1(RCT 14편, 단순/외과적 발치; 청소년·성인) — 주사형 장시간 부피바카인(Bupivacaine) vs 단시간 리도카인(Lidocaine)/아티카인(Articaine)/메피바카인(Mepivacaine) 비교; SR2(RCT 5편) — 국소 벤조카인(Benzocaine) 증상성 비가역치수염 효과.
+
+SR1: 부피바카인이 리도카인+에피네프린(Epinephrine) 대비 진통제 소비 감소(MD −1.91회분, 95% CI −3.35~−0.46, 중등도 확실성)·진통제 필요 시간 연장(+2.56시간, 높은 확실성); SR2: 20% 벤조카인이 위약 대비 20–30분 내 통증 감소 반응자 증가(RR 1.47, 1.03–2.10, 낮은 확실성).
+
+임상 적용: 수술적 발치(사랑니) 등 술후 통증 예상 시 부피바카인으로 편안한 회복 연장·구제 진통제 감소; 벤조카인은 비가역치수염의 20–30분 일시적 완화용(결정적 치료 전 임시 조치).
 
 ## Summary
 

@@ -9,7 +9,7 @@ pdf_filename: rocha-2016-platform-switching-crestal-bone-3year-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 다기관 RCT(n=63명, 135 임플란트, 3년): PS 0.28 mm vs PM 0.68 mm MBL(p=0.002); 플랫폼 스위칭이 하악 후방부 변연골 보존에 유의하게 유리
 
 ## 1. Document Information

@@ -20,13 +20,21 @@ relations:
     target: liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (14 studies, 21 cohort groups, ≥3-yr follow-up, Clin Oral Implants Res 2021) on multiple-unit implant FDPs: all placement/loading combinations except IPIL achieved >90% survival, and meta-analysis of 3 RCTs showed no significant survival difference between DPIL vs. DPDL (p = .227); GRADE certainty very low throughout.
+SR+MA of 14 studies (21 cohort groups, ≥3-year follow-up; PROSPERO CRD42020179528) on timing of implant placement and loading for multiple-unit fixed dental prostheses (FDPs on ≥2 implants) in partially edentulous patients.
 
-## 한줄요약
+All placement/loading combinations except IPIL (1 cohort, 90%) achieved >90% implant survival; the only feasible meta-analysis (DPIL vs DPDL; 3 RCTs) found no significant survival difference (p = .227); GRADE certainty was very low for all outcomes.
 
-복수 임플란트 지지 고정성 국소의치 대상 SR+MA(14편, 21코호트, ≥3년): IPIL 제외 모든 조합 생존율 >90%; 지연식립-즉시부하(DPIL) vs. 지연식립-지연부하(DPDL) 생존율 차이 없음(p = .227, RCT 3편); 전체 GRADE 근거수준 매우 낮음.
+Early placement (EP) protocols are entirely absent from the multiple-unit FDP evidence base, and mucositis was not reported as a primary outcome in any of the 14 studies — major evidence gaps remain.
+
+## 세줄요약
+
+SR+MA (14편, 21코호트, ≥3년; PROSPERO CRD42020179528) — 복수 임플란트 지지 고정성 보철(FDP, ≥2 임플란트)의 식립·부하 시기 조합 비교.
+
+IPIL(1코호트, 90%) 제외 모든 조합 생존율 >90%; 가능한 유일한 메타분석(DPIL vs DPDL; RCT 3편)에서 생존율 유의차 없음(p = .227); 전체 GRADE 근거수준 매우 낮음.
+
+조기식립(EP) 프로토콜 데이터 전무, 전 14편에서 점막염 1차 결과 미보고 — 주요 근거 공백 존재.
 
 ## Summary
 

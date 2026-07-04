@@ -11,7 +11,7 @@ pdf_filename: furlan-2024-apical-foramen-morphology-efl-accuracy.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In vitro (30 premolars): RootZX II, Raypex 6, EPex Pro, CanalPro all accurate across foramen morphologies; divergent apical foramen reduces accuracy of Raypex 6 and CanalPro at 0.0mm but not at −1.0mm.
 
 ## 1. Document Information

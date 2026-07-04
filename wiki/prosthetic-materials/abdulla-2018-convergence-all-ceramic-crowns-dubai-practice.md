@@ -13,11 +13,21 @@ source_collection: external
 tags: [convergence-angle, TOC, all-ceramic, bonded-crown, dubai, private-practice, clinical-survey, intraoral-scanner]
 ---
 
-## One-line Summary
-Cross-sectional clinical practice survey (J Clin Exp Dent 2018, Dubai; 154 dentists, 206 all-ceramic bonded crown preps, digitally scanned) finding mean total occlusal convergence (TOC) of 24.6° mesio-distal (SD 11.8) and 32.6° bucco-lingual — both far exceeding the Shillingburg 6° ideal and the Tiu 2015 SR realistic 10–22° range, documenting that real-world prep taper is much more over-tapered than textbook/SR recommendations.
+## Three-line Summary
 
-## 한줄요약
-cross-sectional (J Clin Exp Dent 2018;10(12):e1192-7, MBRU Dubai, 154 dentist × 206 prep): 두바이 개원의 all-ceramic bonded crown prep 평균 수렴각 MD 24.6° (SD 11.8) / BL 32.6° — Shillingburg 이상치 6°와 Tiu 2015 SR의 현실치 10-22° 둘 다 초과; 실제 임상은 교과서·SR 권장보다 훨씬 더 over-tapered.
+Cross-sectional clinical practice survey (Dubai private practice; 154 dentists, 206 all-ceramic bonded crown preparations digitally scanned via Carestream CS 3500; anterior n=72, posterior n=134) measuring total occlusal convergence (TOC) separately for mesio-distal and bucco-lingual directions.
+
+Mean TOC was 24.6° mesio-distal (SD 11.8) and 32.6° bucco-lingual — both far exceeding the Shillingburg 6° textbook ideal and the Tiu 2015 SR's 10–22° realistic range, with the BL > MD directional pattern consistent with the preclinical literature.
+
+Real-world all-ceramic crown preparations are substantially over-tapered versus both textbook and systematic-review recommendations; adhesive cementation may be masking clinical failure feedback, suggesting clinicians do not self-correct without external benchmarking.
+
+## 세줄요약
+
+두바이 개원의 단면 임상 실태 조사(154명, all-ceramic bonded crown 준비와 206개, Carestream CS 3500 디지털 스캔; 전치 72개, 구치 134개): 근원심(MD)·협설(BL) 방향별 전체 교합 수렴각(Total Occlusal Convergence, TOC) 측정.
+
+평균 TOC: MD 24.6°(SD 11.8), BL 32.6° — Shillingburg의 이상치 6°와 Tiu 2015 SR의 현실치 10–22° 모두 초과; BL>MD 패턴은 선임상 문헌과 일치.
+
+실제 all-ceramic crown 삭제량은 교과서·SR 권장보다 현저히 과도하게 수렴(over-tapered)되어 있으며, 접착 시멘트가 임상 실패 피드백을 완충해 자기 교정이 이루어지지 않을 가능성이 있다.
 
 ## Summary
 Cross-sectional clinical practice survey (Journal of Clinical and Experimental Dentistry December 2018) of all-ceramic bonded crown preparations from Dubai private practitioners. 206 preparations from 154 dentists scanned via Carestream CS 3500 and measured digitally.

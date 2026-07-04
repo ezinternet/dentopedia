@@ -18,13 +18,21 @@ relations:
     target: park-2022-scrp-vs-crp-upper-premolar
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective multicenter RCT (64 implants, 12 months, Pusan National University + Yonsei, Korea) comparing BSRP vs SCRP: 100% survival both groups, no significant MBL or pocket depth difference; BSRP had more abutment loosening while SCRP had more screw fractures.
+Prospective multicenter RCT (64 implants, 64 patients, 12 months; Pusan National University + Yonsei, Korea) comparing the novel ball-and-spring-retained prosthesis (BSRP) to the established screw-and-cement-retained prosthesis (SCRP) for single-implant restorations.
 
-## 한줄요약
+Both groups achieved 100% survival with no significant difference in MBL at any follow-up timepoint; BSRP had more abutment screw loosening (11 events) while SCRP had more screw fractures (2 events).
 
-전향적 다기관 RCT(64개 임플란트, 12개월, 부산대+연세대)에서 볼-스프링 유지 보철 (Ball-and-Spring-Retained Prosthesis, BSRP)과 나사-시멘트 혼합유지 보철 (Screw-and-Cement-Retained Prosthesis, SCRP) 모두 100% 생존율이었으며, 변연골흡수 (Marginal Bone Loss, MBL)·탐침 깊이 차이 없음; BSRP 어버트먼트 풀림↑, SCRP 나사 파절↑.
+BSRP is a viable clinical alternative to SCRP at 1 year, but long-term data are needed and abutment compatibility issues (multi-manufacturer Morse taper) must be resolved to reduce loosening.
+
+## 세줄요약
+
+단일 임플란트 보철의 볼-스프링 유지형(Ball-and-Spring-Retained Prosthesis, BSRP)과 나사-시멘트 혼합유지형(Screw-and-Cement-Retained Prosthesis, SCRP)을 비교한 전향적 다기관 RCT(64명·64개 임플란트, 12개월, 부산대+연세대).
+
+양 그룹 모두 100% 생존율이었으며 모든 추적 시점에서 변연골흡수(Marginal Bone Loss, MBL) 차이 없음; BSRP에서 어버트먼트 나사 풀림 11건, SCRP에서 나사 파절 2건.
+
+1년 시점에서 BSRP가 임상적 대안이 될 수 있으나 장기 근거가 부족하고 다제조사 Morse taper 호환성으로 인한 나사 풀림 문제 해결이 선행되어야 함.
 
 ## Summary
 

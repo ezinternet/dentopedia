@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 The authoritative Nature Reviews Microbiology synthesis that unifies the PSD model of periodontitis (from [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] and [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]]) with the ecological plaque/caries dysbiosis framework, covering ~1,000 known oral species, feedforward loops, inter-kingdom interactions with C. albicans, and therapeutic opportunities.
 
-## One-line Summary
+## Three-line Summary
+
 Nature Reviews Microbiology narrative review by Lamont, Koo, and Hajishengallis synthesizing current mechanisms of oral polymicrobial synergy and dysbiosis in periodontitis and dental caries, including feedforward loops between the microbiota and host factors (inflammation/dietary sugars), inter-kingdom interactions, and therapeutic prospects.
 
-## 한줄요약
-Nature Reviews Microbiology narrative review: 치주염·치아우식증의 다균종 시너지·dysbiosis 기전(염증·식이당 feedforward loop, C. albicans 종간 왕국 상호작용 포함)과 치료 전략을 포괄 정리.
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
+Nature Reviews Microbiology narrative review: 치주염·치아우식증의 다균종 시너지·dysbiosis 기전(염증·식이당 feedforward loop, C.
+
+albicans 종간 왕국 상호작용 포함)과 치료 전략을 포괄 정리.
+
+(incomplete)
 
 ## 1. Document Information
 - Nat Rev Microbiol. 2018;16(12):745–759. Published December 2018.

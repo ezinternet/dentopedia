@@ -17,13 +17,21 @@ text_filename: aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-
 
 기존 [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]는 EMD/xenograft 재생술의 평균 결과를 제시하지만, BoP+ 잔존 부위에서 국소 독시사이클린(DOX, doxycycline)을 사전 투여하는 BOOST 전처치가 실제로 결과를 개선하는지는 RCT 수준 근거가 없었다. 본 RCT (Aimetti 2025)는 그 공백을 직접 채우며, 국소항생제의 최적 사용 시점(수술 전 2주)과 용도(항염·항교원분해)를 명확히 한다.
 
-## One-line Summary
+## Three-line Summary
 
-Triple-blind RCT (n=60, stage III/IV periodontitis) showed that locally delivered doxycycline (BOOST approach) 2 weeks before MIST with EMD + xenograft significantly improved CAL gain (4.1 vs. 3.2 mm), composite outcome success (83.3% vs. 46.7%), and radiographic bone fill (3.5 vs. 2.7 mm) at 1 year.
+Triple-blind RCT (n=60, stage III/IV periodontitis, non-smokers) testing locally delivered doxycycline (BOOST) 2 weeks before MIST with EMD + xenograft vs. MIST alone.
 
-## 한줄요약
+CAL gain was significantly greater in the BOOST group (4.1 vs. 3.2 mm, p=0.019) with composite success 83.3% vs. 46.7% (NNT=2.73) and radiographic bone fill 3.5 vs. 2.7 mm at 1 year.
 
-3중맹검 무작위대조시험(n=60, 3·4기 치주염)에서 최소침습수술(MIST, Minimally Invasive Surgical Technique) 2주 전 국소 독시사이클린(DOX, doxycycline) BOOST 투여군이 대조군 대비 임상부착수준(CAL, Clinical Attachment Level) 획득 4.1 대 3.2 mm, 복합성공률(COM, Composite Outcome Measure) 83.3% 대 46.7%, 방사선학적 골충전 3.5 대 2.7 mm에서 유의하게 우수한 1년 결과를 보였다.
+Pre-surgical doxycycline delivery repositions local antimicrobials as a site-preparation tool; the NNT of 2.73 is clinically very favorable, but external validity is limited to non-smokers with controlled plaque undergoing regenerative surgery.
+
+## 세줄요약
+
+3중맹검 RCT(n=60, 3·4기 치주염, 비흡연자): 최소침습수술(MIST) 2주 전 국소 독시사이클린(DOX) BOOST 투여 vs MIST 단독 비교.
+
+BOOST군이 임상부착수준(CAL) 획득 4.1 대 3.2 mm(p=0.019), 복합성공률 83.3% 대 46.7%(NNT=2.73), 방사선학적 골충전 3.5 대 2.7 mm에서 유의하게 우수.
+
+수술 전 국소 항생제를 부가요법이 아닌 부위 전처치 도구로 재정의하며 임상적 의의가 크지만, 비흡연·플라크 조절 완료 환자에만 적용된 점이 일반화의 한계.
 
 ## 1. Document Information
 

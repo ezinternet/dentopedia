@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[wiki/caries/zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct]]는 SDF의 우식 *예방* 효과를 다루지만, 이미 와동이 형성된 상아질 우식(cavitated dentinal lesion)을 *전통적 수복*과 직접 비교한 무작위 근거는 정리되지 않았다. 본 SR (Garcia-Miralles 2026)은 유구치 cavitated dentinal caries에서 silver diamine fluoride (SDF) vs 전통 수복을 head-to-head로 비교한 RCT만 합성해, SDF의 최소침습 적응증을 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review of RCTs (2 eligible trials, no quantitative pooling) finding that silver diamine fluoride (SDF) may yield favourable short-term (≤12 mo) caries-arrest and treatment-failure outcomes for cavitated dentinal lesions in primary molars versus conventional restorative treatment — but randomised evidence is limited.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 RCT 체계적 문헌고찰(적격 시험 2편, 정량 통합 불가): 유구치의 와동성 상아질 우식에서 silver diamine fluoride (SDF, 은 다이아민 불화물)가 전통적 수복 대비 12개월 이내 단기 우식정지·실패율에서 유리할 수 있으나 무작위 근거는 제한적.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

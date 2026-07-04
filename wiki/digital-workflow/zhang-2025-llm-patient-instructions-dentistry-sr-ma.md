@@ -13,11 +13,19 @@ source_collection: external
 tags: [LLM, ChatGPT, GPT-4, Bard, Bing, patient-instructions, patient-education, prosthodontics, accuracy, QUADAS-2, sr-ma]
 ---
 
-## One-line Summary
-SR+MA (J Prosthodont 2025, 25 studies): pooled LLM accuracy for dental patient questions 81.87% (95% CI 77.24–86.51%), clinically acceptable responses 69.9% (95% CI 57.3–82.6%); ChatGPT-3.5 significantly outperformed Bing, no significant difference vs GPT-4.0/Bard — promising for simple instructions, limited for complex clinical scenarios.
+## Three-line Summary
+SR + MA (J Prosthodont 2025, PRISMA, 25 studies from Nov 2022–Jun 2024, 7 databases, modified QUADAS-2 quality) evaluating LLM accuracy and clinical acceptability for answering dental patient inquiries.
 
-## 한줄요약
-sr+ma (J Prosthodont 2025 Early View, 25편): 치과 환자 질문 응답에서 LLM 정확도 풀링 81.87% (95% CI 77.24–86.51%), 임상적 수용 가능 응답 69.9% (95% CI 57.3–82.6%); ChatGPT-3.5 > Bing 유의, GPT-4.0/Bard와는 차이 없음 — 단순 안내에는 유망, 복잡 임상에는 한계.
+Pooled LLM accuracy was 81.87% (95% CI 77.24–86.51%) and clinically acceptable responses reached 69.9% (95% CI 57.3–82.6%); ChatGPT-3.5 significantly outperformed Bing but showed no significant difference versus GPT-4.0 or Bard — the 12% accuracy-to-acceptability gap highlights that accurate facts alone do not ensure clinically safe output.
+
+LLMs are promising for simple patient FAQs but the ~18% error rate and 30% unacceptable-response rate require front-desk or clinician oversight, especially for medication interactions and postoperative complications where verbatim LLM output is not yet safe to distribute.
+
+## 세줄요약
+SR + MA(J Prosthodont 2025, PRISMA, 25편, 2022.11–2024.6, 7 DB, modified QUADAS-2): 치과 환자 문의에 대한 LLM 정확도와 임상적 수용 가능성을 정량 평가.
+
+LLM 정확도 풀링 81.87%(95% CI 77.24–86.51%), 임상 수용 가능 응답 69.9%(95% CI 57.3–82.6%); ChatGPT-3.5 > Bing 유의, GPT-4.0·Bard와는 차이 없음 — 정확한 사실만으로는 임상적으로 안전한 출력이 보장되지 않음을 보여주는 12%포인트 차이.
+
+단순 FAQ에는 유망하나 ~18% 오류율·30% 수용 불가 응답으로 직원·임상가 감독 필수, 특히 약물 상호작용·술후 합병증 같은 복잡 임상 상황에서 LLM 출력을 그대로 환자에게 전달하는 것은 부적절.
 
 ## Summary
 PRISMA-compliant systematic review with meta-analysis (Journal of Prosthodontics, e-pub 10 Dec 2025) of LLMs answering dental patient inquiries. 25 studies (Nov 2022 – Jun 2024) across 7 databases; quality by modified QUADAS-2.

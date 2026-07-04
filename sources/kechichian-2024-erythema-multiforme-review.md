@@ -13,13 +13,23 @@ source_collection: external
 
 Adds the HSV-triggered immune-mediated ulcerative disease erythema multiforme to oral-medicine, linking the herpes axis [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] with the oral-ulcer differential in [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Narrative review of erythema multiforme (EM) — an HSV/Mycoplasma-triggered inflammatory skin-and-mucosal disease with acral target lesions and painful oral involvement — covering diagnosis, differentiation from SJS/TEN, and symptomatic plus etiologic (antiviral) management.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 다형홍반(EM) 내러티브 리뷰 — HSV/마이코플라스마 유발의 피부·점막 염증질환으로 사지 표적병변과 통증성 구강 침범 동반, 진단·SJS/TEN 감별·대증 및 원인(항바이러스) 치료 정리.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

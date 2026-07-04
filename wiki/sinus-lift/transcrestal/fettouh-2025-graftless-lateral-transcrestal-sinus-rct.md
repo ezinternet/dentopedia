@@ -22,13 +22,21 @@ relations:
     target: sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-RCT (n=26, RBH 4–6 mm, graftless) comparing lateral window vs transcrestal MSFE: no significant 12-month ISQ (80.92 vs 80.19) or marginal bone loss difference, but significantly greater intra-sinus vertical bone gain with the lateral window (3.82 vs 2.42 mm) at the cost of more postoperative complications and discomfort.
+Parallel-arm RCT (n=26, RBH 4–6 mm) comparing graftless lateral window versus transcrestal maxillary sinus floor elevation with delayed implant placement over 12 months.
 
-## 한줄요약
+ISQ at 12 months was statistically equivalent (lateral 80.92 vs transcrestal 80.19); lateral window produced significantly greater intra-sinus vertical bone gain (3.82 vs 2.42 mm, p<0.001) and equivalent marginal bone loss, but more postoperative complications and patient discomfort.
 
-무이식(graftless) 측방 vs 경치조골 상악동거상 RCT (n=26, 잔존골 4–6 mm) — 12개월 ISQ(80.92 vs 80.19)·변연골소실 차이 없음, 수직골증가는 측방 우월(3.82 vs 2.42 mm), 대신 측방이 합병증·불편감 더 많음.
+For the 4–6 mm RBH window, transcrestal elevation delivers equivalent implant stability with lower morbidity; the lateral window yields more apical bone whose clinical necessity is debatable when stability is already matched.
+
+## 세줄요약
+
+잔존 골 높이(Residual Bone Height, RBH) 4–6 mm, 지연 식립 조건에서 무이식(Graftless) 측방 창(Lateral Window) vs 경치조골(Transcrestal) 상악동거상을 비교한 평행군 RCT(n=26, 12개월).
+
+12개월 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 동등(측방 80.92 vs 경치조골 80.19); 동굴 내 수직골증가는 측방 우월(3.82 vs 2.42 mm, p<0.001); 변연골소실은 차이 없음; 합병증·불편감은 측방 더 많음.
+
+RBH 4–6 mm 구간에서 경치조골 거상이 동등한 안정성에 낮은 이환율 — 측방 거상의 추가 골 증가의 임상적 필요성은 불명확.
 
 ## Summary
 

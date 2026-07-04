@@ -22,13 +22,21 @@ relations:
     target: nucera-2022-composite-attachments-clear-aligners-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-PROSPERO-registered systematic review of 29 FEA studies of clear-aligner biomechanics: all CA side effects (roller-coaster effect, anchorage loss, tipping, rotation) stem from uneven crown-vs-root stress distribution, and auxiliaries (attachments, power ridges, divots, intermaxillary elastics, membrane thickness) are designed to rebalance stress and convert tipping into translation; CA can exert up to 8-11× PDL pressure on anchorage teeth vs fixed appliances during extraction-space closure.
+PROSPERO-registered systematic review (186→29 FEA studies; ABAQUS/Ansys 13/13; all graded B-moderate; organized by mesiodistal, buccolingual, and occlusal movement direction) — first SR spanning all movement directions and auxiliary classes for clear-aligner biomechanics.
 
-## 한줄요약
+All clear aligner side effects (roller-coaster effect, anchorage loss, tipping, rotation) stem from uneven crown-vs-root stress distribution; every auxiliary device (attachments, power ridges, divots, intermaxillary elastics, membrane thickness) exists to rebalance that stress; extraction-space closing can exert 8–11× PDL pressure on anchorage teeth vs fixed appliances.
 
-29편 FEA 연구를 모은 PROSPERO 등록 체계적 문헌고찰: 투명교정장치 (Clear Aligner, CA)의 모든 부작용(롤러코스터 효과, 고정원 손실, 경사이동, 회전)은 치관-치근 간 불균등 응력 분포에서 비롯되며, 보조장치(어태치먼트, 파워릿지, 디봇, 악간고무, 멤브레인 두께)는 응력을 재균형화해 경사이동을 평행이동으로 바꾼다; 발치공간 폐쇄 시 CA는 고정성 장치 대비 치주인대(PDL)에 최대 8-11배 압력을 가한다.
+This FEA atlas maps side-effect-to-auxiliary relationships as a treatment-planning reference — understanding that CA delivers force only to crowns explains tipping-dominant movement and guides which auxiliary counterbalances each unwanted effect.
+
+## 세줄요약
+
+PROSPERO 등록 체계적 문헌고찰(186→FEA 29편; ABAQUS/Ansys 각 13편; 전체 B등급 중간; 근원심·협설·교합 방향별 분류) — 투명교정장치(Clear Aligner, CA) 생역학 전 이동 방향 및 보조장치 클래스를 포괄하는 최초 SR.
+
+CA의 모든 부작용(롤러코스터 효과(Roller-Coaster Effect), 고정원 손실, 경사이동, 회전)은 치관-치근 간 불균등 응력 분포에서 기원; 모든 보조장치(어태치먼트·파워릿지·디봇·악간고무·멤브레인 두께)는 이 응력 재균형 목적; 발치 공간 폐쇄 시 치주인대(PDL) 압력 고정성 장치 대비 최대 8~11배.
+
+이 FEA 아틀라스는 부작용↔보조장치 대응표를 치료계획 참조자료로 제공 — CA가 치관에만 힘을 전달한다는 점이 경사이동 우세의 근본 설명.
 
 ## Summary
 

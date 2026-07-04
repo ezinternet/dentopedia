@@ -18,13 +18,21 @@ relations:
     target: odontogenic-maxillary-sinusitis-overview
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (27 studies: 18 sinus lift, 9 zygomatic implant) — pooled postoperative sinusitis 1.11% after sinus lift vs 3.76% after zygomatic implants; technique drives risk: sinus slot ZI 21.62% vs extrasinus ZI 0.00%; lateral window SFE 1.35% vs transcrestal SFE 0.00%.
+PROSPERO-registered SR+MA (27 studies, 18 sinus lift / 9 zygomatic implant) — the first direct comparison of postoperative sinusitis rates between the two most common maxillary atrophy interventions.
 
-## 한줄요약
+Pooled sinusitis prevalence: 1.11% after sinus lift vs 3.76% after zygomatic implants overall; technique-level breakdown reveals sinus-slot ZI 21.62% vs extrasinus ZI 0.00%, and lateral-window SFE 1.35% vs transcrestal SFE 0.00%.
 
-SR+MA (27편: 18편 상악동거상술, 9편 협골 임플란트) — 상악동거상술(Sinus Floor Elevation, SFE) 후 부비동염(Sinusitis) 1.11% vs 협골 임플란트(Zygomatic Implant, ZI) 3.76%; 술식이 위험을 결정: 협골 내막하(Sinus Slot) 21.62% vs 외막법(Extrasinus) 0.00%, 측방창(Lateral Window) 1.35% vs 경치조골(Transcrestal) 0.00%.
+The sinus-slot zygomatic technique should be abandoned in favor of extrasinus approaches; transcrestal SFE carries zero pooled sinusitis, and sinusitis risk is driven by the path through or around the sinus, not the procedure itself.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (27편, 상악동거상술 18편/협골임플란트 9편) — 상악골 위축 치료의 두 주요 술식 간 수술 후 부비동염(Sinusitis) 발생률을 최초로 직접 비교.
+
+상악동거상술(Sinus Floor Elevation, SFE) 후 1.11% vs 협골 임플란트(Zygomatic Implant, ZI) 전체 3.76%; 술식별로 ZI 협골 내막하(Sinus Slot) 21.62% vs 외막법(Extrasinus) 0.00%, 측방창(Lateral Window) SFE 1.35% vs 경치조골(Transcrestal) 0.00%.
+
+협골 내막하(Sinus Slot) 술식은 현대 외막법으로 대체해야 하며; 경치조골 접근은 부비동염 0%, 부비동염 위험은 술식 자체가 아니라 상악동을 통과하거나 우회하는 경로에 의해 결정된다.
 
 ## Summary
 

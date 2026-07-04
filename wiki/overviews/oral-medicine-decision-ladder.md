@@ -39,13 +39,21 @@ relations:
 > - 동종 조혈모세포이식 병력+태선양 점막염·구강건조·개구장애 → 구강 만성 GVHD(NIH 2014 기준, 국소→전신 면역억제, 악성전환 monitoring, Dean 2022).
 > - 근거 등급: 축 2 OLK·축 6 OMS [근거강함], 축 3 OLP·축 4 BMS·축 5 RAS [합의수준](narrative 위주). 구강내과는 전반적으로 narrative review 비중이 높다.
 
-## One-line Summary
+## Three-line Summary
 
-Oral-medicine decision ladder synthesizing the `oral-medicine/` papers across 7 axes — OPMD in general, leukoplakia (OLK) malignant-transformation monitoring, oral lichen planus (OLP), burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), odontogenic maxillary sinusitis (OMS), and vesiculo-ulcerative/immune-mediated mucosal disease (HSV/EM/GVHD/PFAPA). Core thesis: stratify by lesion type and risk — OLK pooled MT 6.64% (non-homogeneous RR 4.23, dysplasia RR 2.75, post-surgical recurrence RR 7.39) drives biopsy-vs-monitor; OLP true MT is only 0.5–1.4% (avoid overstating risk); unilateral maxillary sinus opacification is 30–72% odontogenic; built on WHO consensus + Cochrane SR+MA + Delphi spine, with much of the field resting on narrative reviews.
+Synthesis of the oral-medicine papers across 7 axes — OPMD general, oral leukoplakia (OLK) malignant-transformation monitoring, oral lichen planus (OLP), burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), odontogenic maxillary sinusitis (OMS), and vesiculo-ulcerative/immune-mediated mucosal disease (HSV/EM/GVHD/PFAPA): OLK pooled malignant transformation rate is 6.64% (95% CI 5.21–8.21; Pimenta-Barros 2025 SR+MA, 55 studies, n=41,231), with non-homogeneous type RR 4.23, dysplasia RR 2.75, post-surgical recurrence RR 7.39 (Sapkota 2024 SR+MA) — these drive the biopsy-vs-monitor decision.
 
-## 한줄요약
+OLP true malignant transformation is only 0.5–1.4% (high-quality studies only; past 5% figures reflect diagnostic error, Kaur 2022); OLP is also a systemic-disease marker (diabetes OR 1.64, Hashimoto OR 2.23, celiac OR 18.44, HCV OR 4.09); unilateral maxillary sinus opacification is 30–72% odontogenic (Lin 2024, Psillas 2020); RAS moderate-to-severe refractory cases have thalidomide complete-response RR 6.95 but peripheral neuropathy/thrombosis RR 1.87 and absolute pregnancy contraindication (Jian 2024 SR+MA, 21 RCTs, n=1,668).
 
-구강내과 7축 — OPMD 일반 · OLK 악성전환 monitoring · OLP 진단·관리 · BMS · RAS · OMS · 수포·궤양성 면역매개 점막질환(HSV·EM·GVHD·PFAPA). WHO consensus + Cochrane SR+MA + Delphi 합의 spine.
+The evidence spine is WHO 2020 consensus (OPMD nomenclature) + Cochrane SR (OLP management) + Delphi (BMS ICD-11 renaming to BMD), with much of the field resting on narrative reviews — axes 3–5 (OLP/BMS/RAS) are consensus-level, while axes 2 (OLK) and 6 (OMS) are evidence-strong.
+
+## 세줄요약
+
+구강내과 7축(OPMD 일반 · 백반증(OLK) 악성전환 monitoring · 구강편평태선(OLP) · 작열감증후군(BMS) · 재발성 아프타(RAS) · 치성 상악동염(OMS) · 수포·궤양성 면역매개 질환) 종합: OLK pooled 악성전환률 6.64%(Pimenta-Barros 2025 SR+MA, 55편 n=41,231; 비균질형 RR 4.23, 이형성 RR 2.75, 수술 후 재발 RR 7.39) — 이 수치가 biopsy vs monitor 분기를 결정한다.
+
+OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 진단 오류 가능성) + 전신질환 marker(당뇨 OR 1.64·하시모토 OR 2.23·셀리악 OR 18.44); 단측 상악동 혼탁의 30–72%가 치성(Lin 2024·Psillas 2020); 중증·난치성 RAS에 탈리도마이드(thalidomide)는 완전반응 RR 6.95이나 말초신경병증·혈전 RR 1.87·**임신 절대금기**(Jian 2024 SR+MA, 21 RCT n=1,668).
+
+근거 spine: WHO 2020 합의(OPMD 명칭) + Cochrane SR(OLP 치료) + Delphi(BMS → ICD-11 BMD 재명명); 축 2(OLK)·6(OMS)은 [근거강함], 축 3–5(OLP·BMS·RAS)는 [합의수준](narrative 위주).
 
 ## Summary
 

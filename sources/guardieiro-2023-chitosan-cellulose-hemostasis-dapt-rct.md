@@ -10,7 +10,7 @@ pdf_filename: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Within-person, single-blind RCT (J Evid Based Dent Pract 2023, n=DAPT 환자): 이중 항혈소판 (DAPT) 환자 발치에서 chitosan-기반 국소 지혈제 vs cellulose oxidized gauze — chitosan이 출혈시간 단축 + 치유 개선; DAPT 환자 발치 시 chitosan 지혈제 우위.
 
 ## 1. Document Information

@@ -22,13 +22,21 @@ relations:
 > [!note] Extra-masticatory (transferable) evidence
 > This RCT was conducted in the **upper trapezius**, not the masticatory muscles. It is filed under `tmj` to keep the spray-and-stretch evidence cluster together, but direct transfer of its effect sizes to masseter/temporalis is unproven. Read it as technique-level (efficacy/comparator) evidence, not as a TMD trial.
 
-## One-line Summary
+## Three-line Summary
 
-Prospective single-blind RCT (n=60, upper-trapezius MPS) — cold-spray-stretching vs dry needling over 3 weekly sessions; both improved pain, function, sEMG and ultrasound histogram (P<.05), with cold-spray-stretching scoring higher on algometer (pain threshold) and NDI than dry needling (P<.008 and P<.028).
+Prospective single-blind RCT (n=60, 51 female, mean age 39.7±11.6 y; active upper-trapezius trigger point) comparing cold-spray-stretching vs dry needling over 3 weekly sessions; outcomes: NRS, algometer (PPT), NDI, neck ROM, sEMG, ultrasound histogram — conducted in trapezius muscle, not masticatory muscles.
 
-## 한줄요약
+Both arms showed significant within-group improvement in pain, function, sEMG, and ultrasound histogram (P<.05); cold-spray-stretching was favored over dry needling on pressure pain threshold (P<.008) and NDI (P<.028).
 
-전향 단일맹검 RCT (n=60, 상부 승모근 근막통) — 분사신장 vs 건침 3주(주 1회); 두 군 모두 통증·기능·sEMG·초음파 호전(P<.05), 분사신장군이 압통역치·NDI에서 건침보다 우수(P<.008, P<.028). 교근 외 전이가능 근거.
+Cold-spray-stretching is at least non-inferior and favored on PPT/disability vs dry needling — extrapolation to masticatory muscles is unproven but technique-level evidence supports the spray-and-stretch efficacy claim used in orofacial-pain reviews.
+
+## 세줄요약
+
+전향 단일맹검 RCT (n=60, 여성 51명, 평균 39.7세; 상부 승모근 활성 트리거포인트) — 분사신장(Cold-spray-stretching) vs 건침(Dry needling), 주 1회 3주; 결과: NRS·압통역치(PPT)·NDI·경추 ROM·sEMG·초음파 히스토그램 평가.
+
+두 군 모두 통증·기능·sEMG·초음파 지표 군내 유의 개선(P<.05); 분사신장군이 압통역치(P<.008)와 NDI(P<.028)에서 건침보다 우수.
+
+분사신장이 건침 대비 압통역치·장애 지수에서 우위 — 교근·측두근으로의 직접 전이는 미입증이나 기법 수준의 효과성 근거로 활용 가능.
 
 ## Summary
 

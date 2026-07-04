@@ -9,7 +9,7 @@ pdf_filename: rugova-2024-thermal-evaluation-bone-drilling-sequential.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 In vitro (Bioengineering 2024, custom drill press, IR thermography): sequential drilling does NOT eliminate the thermal damage zone — the first (pilot) drill peaks above 100°C, creates thermal trauma up to 10 mm from the osteotomy, and subsequent drills add to (rather than remove) the damage.
 
 ## 1. Document Information

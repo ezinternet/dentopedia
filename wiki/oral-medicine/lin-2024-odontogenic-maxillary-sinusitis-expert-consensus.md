@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Multi-institution expert consensus (15+ Chinese medical centers, ENT plus dentistry) on odontogenic maxillary sinusitis (OMS): CT-based studies attribute 45–72% (meta-analysis ~51%) of unilateral maxillary opacification to dental causes; OMS resists conventional rhinosinusitis therapy and requires multidisciplinary dental-cause elimination plus sinus drainage (ESS), with a standardized classification, diagnostic criteria, and treatment algorithm.
+## Three-line Summary
 
-## 한줄요약
-중국 다기관 전문가 합의 (베이징 퉁런 병원 외 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; OMS는 기존 비부비동염 치료에 저항적; 치과·이비인후과 다학제 협진 + 표준화된 분류·진단·치료 알고리즘 제시.
+Expert consensus (20+ authors from 15 Chinese medical centers, ENT plus dentistry) developing standardized classification, diagnostic criteria, and multidisciplinary treatment algorithms for odontogenic maxillary sinusitis (OMS).
+
+CT-based studies attribute 45–72% of unilateral maxillary opacification to dental causes (meta-analysis of 31 studies: ~51%); OMS is predominantly unilateral, equal sex distribution, and resistant to conventional rhinosinusitis therapy.
+
+OMS requires mandatory identification of the oral cause (periapical X-ray/CBCT) combined with functional endoscopic sinus surgery (ESS) for drainage; multidisciplinary ENT-dental cooperation is essential and the sequencing of dental vs. sinus intervention must be individualized.
+
+## 세줄요약
+
+전문가 합의문 (베이징 퉁런병원 외 15개 중국 기관, 이비인후과+치과 공동) — 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS)에 대한 표준화된 분류·진단 기준·다학제 치료 알고리즘 제시.
+
+CT 기반 연구에서 단측 상악동 혼탁의 45–72%가 치성 원인으로 귀속(31편 메타분석: ~51%); OMS는 주로 편측성·양성 동등 성비이며 기존 비부비동염 치료에 저항적.
+
+구강원인 규명(치근단 방사선·CBCT) + 기능적 내시경 부비동 수술(Endoscopic Sinus Surgery, ESS)을 통한 배농이 필수이며, 치과치료와 부비동 수술의 순서는 병기·원인에 따라 개별화해야 하고 이비인후과-치과 다학제 협진이 절대적으로 요구됨.
 
 ## Summary
 This open-access expert consensus, led by Beijing TongRen Hospital (Capital Medical University), addresses the lack of standardized diagnostic and treatment protocols for odontogenic maxillary sinusitis (OMS) by bringing together otolaryngologists and dentists from 15+ major Chinese medical centers. The consensus synthesizes reviewed literature and practical expert experience to define OMS characteristics, propose a classification system, establish diagnostic criteria, and outline multidisciplinary treatment algorithms. Epidemiologically, CT-based studies show OMS accounts for 45–72% of unilateral maxillary sinus opacification cases; a meta-analysis of 31 studies gives an aggregated prevalence of ~51%. Because OMS has distinct oral infectious pathogeny, it is resistant to conventional rhinosinusitis therapy, and multidisciplinary cooperation between ENT and dentistry is "absolutely urgent."

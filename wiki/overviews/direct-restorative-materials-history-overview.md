@@ -28,13 +28,21 @@ relations:
 > - **현재 프론티어**: bioactive resin(항균 monomer·이온 유리·remineralization)과 alkasite(Cention N). **In-vitro 유망하나 임상적 우월성은 미입증** (Melo, Lee) — 최근 30년 "발전"의 다수는 임상 우월이 아니라 **술식 편의·심미** 개선이었다는 것이 발달사의 핵심 교훈.
 > - **임상 함의**: "신소재 = 더 나은 결과"가 아니다. 재료 선택은 여전히 우식위험·격리 가능성·와동 크기·심미 요구로 결정하며, 술식 통제(격리·접착 프로토콜)가 재료 세대차보다 결과를 더 좌우한다.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of the wiki's material-science and clinical pages tracing the history of **direct dental restoratives** along three intertwined lineages — the esthetic line (silicate → PMMA → Bis-GMA composite, from Bowen 1962 and acid-etch through light-curing, low-shrinkage monomers and bulk-fill to bioactive resins), the posterior-durability line (amalgam's century-long dominance and its regulation-driven, not performance-driven, phase-out under the Minamata Convention), and the fluoride/bioactive line (glass ionomer's chemical adhesion and fluoride release, alkasites, and bioactive composites) — with the recurring lesson that most recent "advances" delivered handling/esthetic gains and clinical *equivalence* rather than demonstrated superiority.
+Synthesis of the wiki's material-science and clinical pages tracing direct dental restorative history along three intertwined lineages: the esthetic line (silicate → PMMA → Bowen's Bis-GMA 1962 + acid-etch → light-curing via camphorquinone/LED → low-shrinkage monomers → bulk-fill → bioactive resins); the posterior-durability line (amalgam's ~century dominance with median survival >16 years, phased out by the Minamata Convention on mercury, not by performance inferiority — 5-year Cochrane SR and SR+MA both show composite ≈ amalgam survival); and the fluoride/bioactive line (GIC's chemical adhesion + fluoride release, WHO 2021 Essential Medicines listing, HVGIC for ART, alkasite, bioactive composites).
 
-## 한줄요약
+The recurring evidence-based lesson: most "advances" of the past 30 years delivered handling/esthetic improvements and clinical equivalence rather than demonstrated superiority — low-shrinkage siloranes/ormocers matched but did not beat methacrylates; bulk-fills perform comparably to incremental; bioactive and alkasite materials are in-vitro promising but clinically unproven; adhesive evolution from EAR → SE → universal did not eliminate operator dependence.
 
-위키의 재료과학·임상 페이지를 종합해 직접충전재의 역사를 세 계보로 정리 — 심미선(silicate→PMMA→Bis-GMA 복합레진, Bowen 1962·산부식→광중합→저수축→bulk-fill→bioactive), 구치부 내구선(아말감의 100년 지배와 성능이 아닌 미나마타 수은규제에 의한 퇴장), 불소·생리활성선(GIC의 화학접착·불소유리, alkasite, bioactive composite). 반복되는 교훈: 최근 "발전"의 다수는 임상 우월이 아니라 술식·심미 개선이며 임상 성적은 대체로 동등.
+Clinical takeaway: material selection is still governed by caries risk, isolation, cavity size/surfaces, and esthetic demand rather than "generation"; technique control (isolation, adhesive protocol) outweighs the choice of material generation in determining restoration outcomes.
+
+## 세줄요약
+
+위키의 재료과학·임상 페이지를 종합해 직접충전재 역사를 세 계보로 정리: 심미선(silicate→PMMA→Bowen Bis-GMA 1962+산부식→광중합 CQ/LED→저수축 단량체→bulk-fill→bioactive resin); 구치부 내구선(아말감 생존 중앙값 >16년, 미나마타 협약 수은규제에 의한 퇴장, 5년 Cochrane SR·SR+MA 모두 복합레진≈아말감 생존율); 불소·생리활성선(GIC 화학접착+불소유리, 2021 WHO 필수의약품 등재, HVGIC ART, alkasite, bioactive composite).
+
+반복되는 근거 기반 교훈: 지난 30년 "발전"의 다수는 술식·심미 개선이지 임상 우월이 아님 — 저수축 silorane/ormocer는 메타크릴레이트와 동등; bulk-fill은 적층충전과 동등; bioactive·alkasite는 in-vitro 유망하나 임상 미입증; 접착제 진화(EAR→SE→universal)는 술자 의존성을 없애지 못함.
+
+임상 함의: 재료 선택은 우식위험·격리·와동 크기·심미 요구로 결정하며 세대차보다 술식 통제(격리·접착 프로토콜)가 결과를 더 좌우.
 
 ## Summary
 

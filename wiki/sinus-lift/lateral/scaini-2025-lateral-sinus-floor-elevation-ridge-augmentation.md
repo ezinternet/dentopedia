@@ -14,12 +14,21 @@ source_collection: external
 tags: [sinus-lift, lateral-window, dsp, digital-planning, systemic-conditions, piezo, complications, state-of-art]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative state-of-the-art review of lateral-window sinus floor elevation with ridge augmentation, covering systemic-condition risk (smoking complicates but is not a contraindication; chronic sinusitis is a contraindication), digital surgical planning (DSP), piezo vs rotary instrumentation, grafting materials, complication and postoperative management.
+Narrative state-of-the-art review of lateral-window sinus floor elevation (LSFE) with ridge augmentation, covering indications, patient selection, digital surgical planning (DSP), instrumentation, grafting materials, complications, and postoperative management.
 
-## 한줄요약
-내러티브 리뷰: 전신상태(흡연·당뇨·항흡수제)·디지털 가이드·피에조 vs 회전기·수술후 관리 — 측방창 상악동거상 최신 현황
+Smoking increases complications but is not a contraindication; chronic sinusitis is an absolute contraindication; diabetes and antiresorptive medications require modified protocols; piezo is preferred over rotary for lower soft-tissue injury risk.
+
+Preoperative CBCT + DSP is recommended for complex cases; smaller lateral windows and standardized postoperative antibiotic + steroid + decongestant regimens reduce morbidity, but evidence-based ranking of graft materials remains inconclusive.
+
+## 세줄요약
+
+내러티브 최신 현황 리뷰: 측방창 상악동거상술 (Lateral Window Sinus Floor Elevation, LSFE) 적응증·환자 선택·디지털 수술 계획 (Digital Surgical Planning, DSP)·기구·이식재·합병증·술후 관리 포괄.
+
+흡연은 합병증 증가이나 금기 아님; 만성 상악동염은 절대 금기; 당뇨·항흡수제 복용자는 변형 프로토콜 적용; 피에조가 연조직 손상↓로 선호.
+
+수술 전 콘빔 전산화 단층촬영 (Cone-Beam CT, CBCT) + DSP 권장; 작은 측창과 표준화된 항생제·스테로이드·비충혈제거제 병용이 이환율 감소에 기여하나 이식재 근거 기반 서열은 아직 불명확.
 
 ## Summary
 측창 상악동 거상술 현 state-of-the-art 종합 리뷰. 전신 상태별 위험도, DSP 디지털 수술 계획, 수술 기법(piezo vs 회전기), 이식재, 합병증 관리, 술후 처치까지 포괄. **흡연 합병증↑이나 금기 아님; 만성 상악동염은 금기**.

@@ -20,13 +20,21 @@ relations:
     target: cucchi-2021-dptfe-titanium-mesh-vertical-ridge-rct
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=40, 5-year follow-up) comparing CAD/CAM customized Ti mesh vs tenting screws + resorbable collagen membrane for GBR: comparable bone gain at 6 months, significantly shorter operative time with Ti mesh (62.4 vs 72.7 min), 100% implant survival.
+Retrospective study (n=40, University of Genoa) comparing CAD/CAM customized Ti mesh vs tenting-screw + resorbable collagen membrane for GBR over 5 years.
 
-## 한줄요약
+Vertical and horizontal bone gain were equivalent between groups at 6 months (all p>0.05); operative time significantly shorter with Ti mesh (62.4 vs 72.7 min, p<0.05); all 60 implants survived at 5 years.
 
-맞춤형 CAD/CAM 티타늄 메시 vs 텐팅 스크루+흡수성 콜라겐막 후향적 비교(n=40, 5년): 6개월 골증대량 동등, Ti 메시군 수술 시간 유의하게 짧음(62.4 vs 72.7분), 임플란트 60개 100% 생존.
+CAD/CAM Ti mesh achieves equivalent bone augmentation to tenting-screw GBR with a meaningful reduction in operative time, supporting its adoption in complex ridge defects.
+
+## 세줄요약
+
+후향적 연구(n=40, 제노바대): CAD/CAM 맞춤형 Ti 메시 vs 텐팅 스크루+흡수성 콜라겐막 GBR 5년 비교.
+
+6개월 수직·수평 골증대량 동등(p>0.05); Ti 메시군 수술 시간 유의하게 짧음(62.4 vs 72.7분, p<0.05); 임플란트 60개 5년 생존율 100%.
+
+CAD/CAM Ti 메시는 텐팅 스크루와 동등한 골증대를 더 짧은 수술 시간에 달성 — 복잡한 치조제 결손에서 채택 근거 제공.
 
 ## Summary
 

@@ -18,13 +18,21 @@ relations:
     target: goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Updated narrative review (J Oral Rehabil 2017) classifying OVD-determination methods for complete-denture patients into pre-extraction (intra-oral measurement, profile tracing, cephalometry) and post-extraction (rest position, facial esthetics, swallowing, craniofacial-landmark measurement, cephalometry, phonetics, existing dentures), concluding all are empirical and no single method is accurate, so techniques should be combined.
+Updated narrative review (J Oral Rehabil 2017) organizing all available methods for determining occlusal vertical dimension (OVD) in complete-denture patients into two streams: pre-extraction methods (intra-oral measurement, profile tracing, cephalometric analysis) that capture the natural OVD, and post-extraction methods (mandibular rest position, facial esthetics, swallowing, craniofacial-landmark measurement, cephalometry, phonetics, existing dentures) that reconstruct it after tooth loss.
 
-## 한줄요약
+Every listed method is empirical and lacks robust scientific validation; pre-extraction records demand foresight and are usually unavailable in long-term edentulous patients, while post-extraction physiologic and esthetic methods are subjective and population-dependent.
 
-업데이트 narrative 리뷰(J Oral Rehabil 2017) — 총의치 환자 OVD 결정법을 발치 전(구내계측·프로파일 트레이싱·두부계측)과 발치 후(안정위·안면심미·연하·두개안면 계측·두부계측·음성학·기존의치)로 분류; 모두 경험적이고 단일 정확법은 없어 병용 권고.
+The clinical recommendation is to combine multiple techniques rather than relying on any single method; this review is the foundational reference for the complete-denture OVD category and is the predecessor cited by subsequent 2025 and 2026 SR+MA reviews.
+
+## 세줄요약
+
+J Oral Rehabil 2017 업데이트 서사 리뷰: 완전 무치악 환자의 교합 수직 고경(Occlusal Vertical Dimension, OVD) 결정법을 발치 전(구내 계측·프로파일 트레이싱·두부방사선 계측)과 발치 후(하악 안정위, 안면 심미, 연하, 두개안면 계측점, 두부계측, 음성학, 기존의치)의 두 흐름으로 정리.
+
+모든 방법이 경험적이고 과학적 검증이 부족함; 발치 전 기록은 선견지명이 필요하고 장기 무치악 환자에게는 대부분 없으며, 발치 후 생리·심미적 방법은 주관적이고 집단 의존적.
+
+임상 권고: 단일 방법에 의존하지 않고 다중 기법을 병용; 본 리뷰는 총의치 OVD 카테고리의 기초 참조 문헌이며 이후 2025·2026 SR+MA 리뷰들이 인용하는 선행 연구.
 
 ## Summary
 

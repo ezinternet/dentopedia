@@ -13,13 +13,21 @@ source_collection: external
 tags: [zirconia, metal-ceramic, single-crown, implant, survival, systematic-review]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR of 35 studies (n=5,275 implant-supported crowns): zirconia-ceramic 5-year survival 97.6% vs metal-ceramic 98.3% — similar overall, but zirconia shows significantly more material fractures (2.1% vs 0.2%) and fewer aesthetic complications.
+Systematic review (Clin Oral Implants Res 2018; 35 studies, n=5,275 implant-supported single crowns) comparing veneered zirconia-ceramic vs metal-ceramic crowns over 5 years.
 
-## 한줄요약
+5-year survival was similar (zirconia 97.6% vs metal-ceramic 98.3%), but zirconia showed significantly more catastrophic material fractures (2.1% vs 0.2%, p=0.001) and fewer aesthetic complications; monolithic zirconia was not represented as no studies met the ≥3-year threshold.
 
-임플란트 지지 단일 크라운 SR (35편): 지르코니아 크라운 5년 생존율 97.6%로 금속도재관(98.3%)과 유사하나, 재료 파절이 유의하게 높고(2.1% vs 0.2%, p=0.001) 심미적 합병증은 적음.
+Veneered zirconia is a viable alternative to metal-ceramic for implant-supported crowns, though its higher fracture risk warrants careful patient selection and occlusal load management; the review predates evidence on monolithic zirconia.
+
+## 세줄요약
+
+체계적 문헌고찰(Clin Oral Implants Res 2018; 35편, n=5,275 임플란트 지지 단일 크라운): 비니어드 지르코니아-도재관 vs 금속-도재관 5년 결과 비교.
+
+5년 생존율 유사(지르코니아 97.6% vs 금속도재 98.3%)하나 지르코니아에서 재료 파절 유의하게 증가(2.1% vs 0.2%, p=0.001); 심미 합병증은 오히려 적음; 단일체 지르코니아 포함 연구 없음.
+
+비니어드 지르코니아는 임플란트 단일 크라운에서 금속도재관 대안으로 가능하나, 파절 위험 증가로 교합력 조절과 환자 선택이 중요하며 이 리뷰는 단일체 지르코니아 근거를 포함하지 않는다.
 
 ## Summary
 

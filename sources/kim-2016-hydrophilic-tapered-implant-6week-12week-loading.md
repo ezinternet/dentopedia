@@ -10,7 +10,7 @@ pdf_filename: kim-2016-hydrophilic-tapered-implant-6week-12week-loading.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (30 patients, 41 maxillary implants): 6-week loading vs 12-week loading — same 97.56% success, same MBL; bone quality in 6-week group correlated with stability; 6-week loading acceptable if bone quality considered.
 
 ## 1. Document Information

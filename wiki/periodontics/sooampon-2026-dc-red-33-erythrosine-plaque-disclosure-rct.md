@@ -20,13 +20,21 @@ relations:
     target: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Partially-blinded randomized crossover trial (n=11 healthy adults) comparing 3% erythrosine vs 3% D&C Red No. 33 vs a mixed two-tone agent for plaque disclosure: erythrosine gave the highest plaque visibility but percentage plaque-index reduction was equivalent across all three, while D&C Red No. 33 had the least residual staining, best taste, and easiest removal — supporting it as a patient-friendly, regulatory-safe alternative.
+Partially-blinded randomized crossover trial (n=11 healthy adults, Chulalongkorn University) comparing 3% erythrosine, 3% D&C Red No. 33, and a mixed two-tone agent for plaque disclosure, motivated by the FDA's ban of erythrosine in food and orally ingested drugs effective January 2025.
 
-## 한줄요약
+Erythrosine showed the highest plaque visibility and baseline TQHPI staining, but percentage plaque-index reduction after brushing/flossing was equivalent across all three agents (p NS); D&C Red No. 33 had the least residual lip/mucosal staining, best taste, and easiest removal.
 
-무작위 교차 임상시험(건강 성인 11명)에서 3% 에리트로신(erythrosine), 3% D&C Red No. 33, 혼합 2색 제제를 비교 — 에리트로신이 치태 가시성은 가장 높았으나 칫솔질 후 치태지수 감소율(%)은 세 제제 모두 차이가 없었고, D&C Red No. 33은 잔류 착색이 가장 적고 맛·제거 용이성이 우수해 규제 안전성을 갖춘 환자 친화적 치태 착색제 대안으로 제시됨.
+D&C Red No. 33 is a regulatory-safe, patient-friendly substitute for erythrosine that provides adequate plaque visualization without compromising hygiene instruction effectiveness; the two-tone formulation added no maturity-differentiation benefit in well-maintained mouths.
+
+## 세줄요약
+
+미국 FDA의 에리트로신(FD&C Red No. 3) 식품·내복약 사용 금지(2025-01-15)를 배경으로, 건강 성인 11명에서 3% 에리트로신·3% D&C Red No. 33·혼합 2색 제제를 비교한 무작위 교차 임상시험(Chulalongkorn 대학).
+
+에리트로신의 치태 가시성(VAS)과 기저 TQHPI가 가장 높았으나, 칫솔질 후 치태지수 감소율(%)에서 세 제제 간 유의차 없음; D&C Red No. 33은 입술·점막 잔류 착색 최소, 맛·제거 용이성 최우수.
+
+D&C Red No. 33은 치태 시각화 효과를 유지하면서 규제 적합성과 환자 수용성을 갖춘 에리트로신 대체 착색제이며, 혼합 2색 제제는 잘 관리된 구강에서 치태 성숙도 구분 이점이 없음.
 
 ## Summary
 

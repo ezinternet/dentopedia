@@ -13,11 +13,19 @@ source_collection: external
 tags: [proximal-contact-loss, food-impaction, implant-prosthesis, prospective]
 ---
 
-## One-line Summary
-7-year prospective study (150 patients, 234 implant-fixed prostheses on 384 implants, 299 proximal contacts): PCL occurred in 59.9% of contacts; lower adjacent-tooth bone support, maxillary position, and mesial site were significant risk factors.
+## Three-line Summary
+7-year prospective study (150 patients, 234 posterior implant-fixed prostheses on 384 implants, 299 proximal contacts, Korea) using Kaplan–Meier and Cox regression to quantify PCL prevalence and identify risk factors.
 
-## 한줄요약
-7년 전향연구(150명, IFP 234개): 근접접촉 59.9%에서 PCL; 인접치 골지지 저하·상악·mesial이 유의 위험인자.
+PCL developed in 59.9% of proximal contacts (179/299); Cox regression identified mesial proximal-contact position, lower adjacent-tooth alveolar bone level, and maxillary jaw position as significant independent predictors.
+
+The high cumulative PCL rate over 7 years and the role of adjacent-tooth bone support underscore the need for pre-prosthetic periodontal assessment and long-term radiographic follow-up.
+
+## 세줄요약
+7년 전향 코호트(한국·150명·IFP 234개·299 proximal contact): Kaplan–Meier·Cox 회귀로 PCL 발생률과 위험인자를 장기 추적.
+
+7년간 접촉점의 59.9%(179/299)에서 PCL 발생; Cox 회귀 유의 독립인자: mesial 접촉 위치·인접치 치조골 지지 저하·상악 위치.
+
+7년간 누적 PCL 59.9%라는 높은 발생률과 인접치 골지지의 역할을 고려해 보철 전 치주 평가와 장기 방사선 추적이 필요하다.
 
 ## Summary
 This 7-year prospective study followed 150 patients restored with 234 posterior implant-fixed prostheses (IFPs) supported by 384 implants, recruited 2009–2014 and followed to mid-2016. Proximal contact tightness was recorded with calibrated aluminum strips, with proximal contact loss (PCL) defined as a tightness gap exceeding 50 μm. Among 299 proximal contacts, 179 (59.9%) developed PCL. Kaplan–Meier/log-rank analysis identified adjacent-tooth bone level, adjacent-tooth root configuration, proximal-contact position, and jaw position as significant; Cox proportional-hazards regression retained proximal-contact position, adjacent-tooth bone level, and jaw position. The authors conclude that lower alveolar bone support of adjacent teeth, maxillary IFP location, and the mesial site are associated with higher PCL incidence, framing PCL as a multifactorial prosthetic complication.

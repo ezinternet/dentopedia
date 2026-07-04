@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 하악 전진 장치(MAD) 치료 중 과두·하악 운동 변화를 CBCT로 정량 평가한 전향적 연구. [[tmj/]] 카테고리의 OSA-TMJ 상호작용 근거 및 MAD 적용 시 TMJ 영향에 대한 지식 보강.
 
-## One-line Summary
-Prospective study (n=20 OSA): MAD increases VD and shifts condylar position; anterior condylar translation directly correlates with total upper airway volume; articular eminence morphology modulates condylar movement amount.
+## Three-line Summary
 
-## 한줄요약
-전향적 연구 (n=20, OSA): MAD 치료 시 VD 증가·과두 위치 변화; 전방 과두 이동은 상기도 총 용적과 직접 상관; 관절 융기 형태가 과두 이동량 조절.
+Prospective study (n=20 OSA): MAD increases VD and shifts condylar position;
+
+anterior condylar translation directly correlates with total upper airway volume;
+
+articular eminence morphology modulates condylar movement amount.
+
+## 세줄요약
+
+전향적 연구 (n=20, OSA): MAD 치료 시 VD 증가·과두 위치 변화;
+
+전방 과두 이동은 상기도 총 용적과 직접 상관;
+
+관절 융기 형태가 과두 이동량 조절.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations 28:122 (2024)

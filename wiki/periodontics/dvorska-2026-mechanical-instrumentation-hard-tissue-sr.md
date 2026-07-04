@@ -19,13 +19,21 @@ relations:
     target: lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review of in-vitro studies (MEDLINE/EMBASE/Cochrane; human cementum/dentine, ≥6 specimens) showing hand curettes remove the most hard tissue per stroke (mean 6.0 µm vs ultrasonic 4.89 µm) and low-abrasive air-polishing removes the most per second; surface roughness mixed, heterogeneity limits comparison.
+Systematic review of in-vitro studies (MEDLINE/EMBASE/Cochrane; human cementum/dentine; ≥6 specimens) comparing substance loss and surface roughness caused by hand instruments, ultrasonic scalers, and low-abrasive air-polishing (glycine/erythritol) on root surfaces.
 
-## 한줄요약
+Per stroke, hand instruments caused the greatest substance loss (mean 6.0 µm range 0.86–20.60) versus ultrasonic scalers (mean 4.89 µm, range 0.28–14.73); per second, low-abrasive air-polishing caused the most (mean 8.65 µm, range 0.12–23.40 µm); surface roughness findings were mixed.
 
-사람 백악질·상아질 in-vitro 연구 체계적 고찰(MEDLINE/EMBASE/Cochrane, 표본 ≥6) — 스트로크당 경조직 손실은 손기구(curette)가 최대(평균 6.0 µm vs 초음파 4.89 µm), 초당 손실은 저연마분말 에어폴리싱이 최대(평균 8.65 µm). 표면조도는 혼재, 이질성으로 직접비교 한계. (abstract-only — full text not retrieved)
+High heterogeneity across studies precludes direct quantitative comparison; the least-destructive selection logic depends on whether time per stroke or continuous application time is the limiting factor.
+
+## 세줄요약
+
+손기구·초음파 치석제거기·저연마분말 에어폴리싱(glycine/erythritol)이 치근 표면(백악질·상아질)에 미치는 경조직 손실 및 표면조도를 비교한 in-vitro 연구 체계적 고찰(MEDLINE/EMBASE/Cochrane, ≥6 표본, abstract-only).
+
+스트로크당 경조직 손실: 손기구 최대(평균 6.0 µm, 범위 0.86–20.60) > 초음파 4.89 µm(0.28–14.73); 초당 손실: 저연마 에어폴리싱 최대(평균 8.65 µm, 0.12–23.40); 표면조도 결과는 혼재.
+
+연구 간 이질성이 높아 직접 정량 비교 제한; 스트로크 횟수 제한 vs 연속 적용 시간 제한에 따라 최소 침습 기구 선택 논리가 달라짐.
 
 ## Summary
 

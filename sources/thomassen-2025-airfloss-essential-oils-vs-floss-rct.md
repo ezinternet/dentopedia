@@ -17,13 +17,23 @@ text_filename: thomassen-2025-airfloss-essential-oils-vs-floss-rct.txt
 
 Head-to-head examiner-blind RCT of a powered air-flosser charged with essential-oil mouthwash (AirFloss Ultra + Listerine, AFeo) versus conventional waxed dental floss as a toothbrushing adjunct — directly informs the floss-vs-device interdental-cleaning question. Pairs with [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]], whose SR concludes self-performed floss adds little for gingivitis: this RCT finds the powered air-flosser is *equivalent* to floss (neither superior), reinforcing that the device choice is driven by compliance/dexterity, not efficacy.
 
-## One-line Summary
+## Three-line Summary
 
-Examiner-blind parallel RCT (n=82 systemically healthy adults, ≥25% lower-jaw BOMP, no periodontitis; 3-wk experimental gingivitis then 4-wk reversal): AirFloss Ultra + essential oils (AFeo) vs waxed dental floss (DF), both adjunct to twice-daily fluoride toothbrushing — both reduced BOMP/MPI/GAS but NO between-group difference at any time point (p>0.05); no serious adverse events.
 
-## 한줄요약
+Examiner-blind parallel RCT (n=82 systemically healthy adults, ≥25% lower-jaw BOMP, no periodontitis;
 
-검사자 맹검 평행 RCT (n=82, 전신 건강 성인, 하악 BOMP ≥25%, 치주염 없음; 3주 실험적 치은염 유도 후 4주 회복): 정유 함유 에어플로스(AFeo) vs 왁스 치실(DF), 둘 다 1일 2회 불소 칫솔질 보조 — 두 군 모두 BOMP·치면세균막·치은마모 감소했으나 어느 시점에서도 군간 유의차 없음(p>0.05), 중대 이상반응 없음. 즉 동등·둘 다 안전.
+3-wk experimental gingivitis then 4-wk reversal): AirFloss Ultra + essential oils (AFeo) vs waxed dental floss (DF), both adjunct to twice-daily fluoride toothbrushing — both reduced BOMP/MPI/GAS but NO between-group difference at any time point (p>0.05);
+
+no serious adverse events.
+
+## 세줄요약
+
+
+검사자 맹검 평행 RCT (n=82, 전신 건강 성인, 하악 BOMP ≥25%, 치주염 없음;
+
+3주 실험적 치은염 유도 후 4주 회복): 정유 함유 에어플로스(AFeo) vs 왁스 치실(DF), 둘 다 1일 2회 불소 칫솔질 보조 — 두 군 모두 BOMP·치면세균막·치은마모 감소했으나 어느 시점에서도 군간 유의차 없음(p>0.05), 중대 이상반응 없음.
+
+즉 동등·둘 다 안전.
 
 ## 1. Document Information
 

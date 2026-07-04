@@ -23,13 +23,21 @@ tags: [photofunctionalization, uv, ultraviolet, implant-surface, osseointegratio
 > - 한계/예외: 높은 이질성(I² 최대 99%)·높은 비뚤림 위험(Lang RCT 5편 중 3편 high risk), MBL 통합효과 비유의, Krishna·Komatsu는 abstract-only, 장기 하중 생존 데이터 전무. Hirota: 해부학적 위축은 극복(100%)하나 암절제(병태생리적 손상)는 극복 못함(22.2%).
 > - 한국 임상 takeaway: 취약 숙주(조절 당뇨·암절제 후·중증 위축·연질골 D3/D4)에서 가장 타당 — 식립 직전 짧은 프로토콜로 활성화하고 즉시 식립; 과처리 말고, 자외선은 "마법의 magnitude"가 아니라 "조기 치유 가속+초기 골/안정성 보강" 도구로 사용. 지르코니아는 아직 신흥 근거.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesizing 13 wiki papers (3 mechanistic in-vitro, 1 in-vitro bacterial, 1 case report, 2 SR/MA, 1 7-year prospective, 2 split-mouth RCTs, 2 narrative reviews, 1 systematic review): UV photofunctionalization is a chairside, topography-preserving surface RE-ACTIVATION technology that reverses titanium biological aging (hydrocarbon removal → superhydrophilicity/electropositivity) and acts across three interfaces (bone, soft tissue, bacteria), with its strongest and most consistent signal on the *rate* of implant-stability development (Lang OSI MD=2.13, p=0.007) while a higher final endpoint, MBL benefit, and long-term loaded survival remain unproven — newest 2026 SR (Komatsu) reframing it as a surface-agnostic, positive-sum strategy.
+Synthesis of 13 papers: UV photofunctionalization is a chairside, topography-preserving titanium surface RE-ACTIVATION technology — UV exposure removes storage-acquired hydrocarbon contamination (up to 76.5% surface carbon on commercial implants), restoring superhydrophilicity (contact angle ≈0°) and electropositivity without altering topography or composition, acting across bone, soft-tissue, and bacterial interfaces.
 
-## 한줄요약
+The strongest and most consistent clinical signal is the *rate* of implant-stability development (Lang 2022 SR+MA: OSI MD=2.13, p=0.007; ISQ significant at 2 months only), while a higher final stability plateau, MBL benefit, and long-term loaded survival remain unproven — untreated controls consistently catch up.
 
-위키 13편 종합(기전 in-vitro 3·세균 in-vitro 1·증례 1·SR/MA 2·전향 1·RCT 2·서술고찰 2·SR 1): 자외선 광기능화는 형태를 보존하며 티타늄 생물학적 노화를 되돌리는 체어사이드 표면 재활성화 기술로, 골·연조직·세균 3계면에 작용한다. 가장 강하고 일관된 신호는 임플란트 안정성 "발달 속도"(Lang OSI MD=2.13, p=0.007)이며, 더 높은 최종치·MBL 이득·장기 하중 생존은 미입증 — 2026 최신 SR(Komatsu)은 이를 표면 비의존 포지티브섬 전략으로 재개념화한다.
+Benefit is greatest in compromised hosts (controlled diabetics, complex/atrophied anatomy); the newest 2026 SR (Komatsu, 34 papers) reframes the technology as surface-agnostic/positive-sum, with anti-bacterial biofilm reduction as the most consistent bench-level finding.
+
+## 세줄요약
+
+13편 종합(기전 in-vitro 3·세균 in-vitro 1·증례 1·SR/MA 2·전향 1·RCT 2·서술고찰 2·SR 1): UV 광기능화는 보관 중 축적된 탄화수소를 제거(상업용 임플란트 표면탄소 최대 76.5%)해 형태 보존 그대로 초친수성(접촉각 ≈0°)·양전하를 복원하는 체어사이드 표면 재활성화 기술로 골·연조직·세균 3계면에 작용한다.
+
+가장 강하고 일관된 임상 신호는 안정성 "발달 속도"(Lang 2022 SR+MA: OSI MD=2.13, p=0.007; ISQ는 2개월만 유의), 더 높은 최종치·MBL 이득·장기 하중 생존은 미입증(대조군이 따라잡는 패턴); 취약 숙주(조절 당뇨·복잡/위축 증례)에서 이득 최대.
+
+최신 SR(Komatsu 2026, 34편)은 표면 비의존 포지티브섬 전략으로 재개념화; 기기 이질성·높은 비뚤림 위험·abstract-only 주요 데이터가 현 근거의 주된 한계.
 
 ## Thesis
 

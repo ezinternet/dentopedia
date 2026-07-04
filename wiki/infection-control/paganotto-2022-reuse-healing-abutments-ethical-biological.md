@@ -20,13 +20,21 @@ relations:
     target: bidra-2019-should-healing-abutments-cover-screws
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional survey of 202 Brazilian implantologists: 98.1% reuse healing abutments (mainly for cost, 71.2%), 94.5% do not inform the patient, all disinfect + autoclave, and 95.3% received no manufacturer guidance — reuse is de facto standard practice with low risk perception.
+Cross-sectional survey of 202 implantology specialists in Brazil (randomized from 1,147 CRO/RS registrants; Sept–Nov 2021): prevalence, reasons, practices, and risk perception regarding healing abutment (HA) reuse.
 
-## 한줄요약
+98.1% reuse HAs (mainly cost, 71.2%; "countless times" 98.1%), 94.5% do not inform the patient, 100% disinfect + autoclave, yet 95.3% never received manufacturer guidance on reuse, and only 8.9% identified cross-infection as a perceived risk.
 
-브라질 임플란트 전문의 202명 설문: 98.1%가 치유지대주(healing abutment)를 재사용(주 이유 비용 71.2%), 94.5%는 환자에게 고지하지 않으며, 전원이 소독+오토클레이브를 하지만 95.3%는 제조사 재사용 지침을 받은 적이 없음 — 재사용은 위험 인식이 낮은 사실상의 표준 관행.
+Reuse is de facto universal practice in this specialist population, with a profound informed-consent gap and low risk perception — the dominant cleaning methods (enzymatic + ultrasonic) leave residual organic matter in up to ~95% of samples per cited literature.
+
+## 세줄요약
+
+브라질 임플란트 전문의(CRO/RS 등록 1,147명 중 202명 무작위 표본; 2021년 9–11월) 대상 횡단면 설문: 힐링어버트먼트(Healing Abutment, HA) 재사용 실태·이유·관행·위험 인식 조사.
+
+98.1%가 HA 재사용(주 이유: 비용 71.2%, "무한 재사용" 98.1%), 94.5%는 환자에게 재사용 사실 미고지, 100% 소독+오토클레이브 시행, 그러나 95.3%는 제조사 지침 미수령 — 교차감염(Cross-infection) 위험 인식은 8.9%에 불과.
+
+이 전문의 집단에서 재사용은 사실상 표준(Universal Practice), 고지동의(Informed Consent) 결여가 심각 — 주요 세척법(효소세제+초음파)은 문헌상 ~95%에서 잔류 유기물 제거 불완전.
 
 ## Summary
 

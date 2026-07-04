@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective case–control study (n=32 patients, 48 NDIs, 3 months): ISQ of 3.3 mm TiZr SLActive implants rose significantly in both T2DM (HbA1c>6.5%, mean 7.34%) and normoglycemic patients from Day 3 to Month 3, reaching equivalent values (~64) with no between-group difference and no HbA1c–ISQ correlation.
+Prospective case–control study (32 patients, 48 narrow-diameter TiZr SLActive implants; 16 T2DM with mean HbA1c 7.34% vs 16 normoglycemic controls) measuring ISQ at 4 time points over 3 months.
 
-## 한줄요약
+Both groups showed significant ISQ increase from Day 3 to Month 3 (T2DM: 55.87→63.84; control: 51.41→63.84), with no between-group difference at any time point and no correlation between HbA1c and ISQ; all 48 implants osseointegrated.
 
-전향적 환자-대조군 연구(32명, 48개 세경 임플란트, 3개월): 제2형 당뇨군(HbA1c 평균 7.34%)과 정상혈당군 모두 식립 3일 후~3개월간 ISQ가 유의하게 증가해 최종 ISQ ~64로 동등했으며, 두 군 간 차이 및 HbA1c–ISQ 상관관계는 없었다.
+Narrow-diameter implants can achieve adequate osseointegration in moderately hyperglycemic T2DM patients (HbA1c ~7.3%) while avoiding bone augmentation, though the study's 3-month follow-up and small sample limit generalizability.
+
+## 세줄요약
+
+전향적 환자-대조군 연구(32명, 48개 3.3 mm TiZr SLActive 세경 임플란트(Narrow-Diameter Implant, NDI); T2DM 16명(HbA1c 평균 7.34%) vs 정상혈당 대조군 16명): 3개월간 4시점 ISQ를 추적하였다.
+
+두 군 모두 식립 3일→3개월 ISQ 유의 증가(T2DM: 55.87→63.84; 대조군: 51.41→63.84)했으나 어느 시점에도 군 간 차이 없었고 HbA1c–ISQ 상관관계도 없었으며 48개 전 임플란트 골유착 성공.
+
+중등도 혈당 조절 T2DM(HbA1c ~7.3%)에서도 세경 임플란트가 골증대 없이 적절한 골유착을 달성할 수 있으나, 3개월 추적 및 소규모 표본은 일반화의 한계이다.
 
 ## Summary
 

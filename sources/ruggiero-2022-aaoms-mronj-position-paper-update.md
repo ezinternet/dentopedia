@@ -9,7 +9,7 @@ pdf_filename: ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 AAOMS 2022 MRONJ position paper update: staging system unchanged (0–3), drug holiday remains controversial with no AAOMS consensus, romosozumab added to at-risk medications, bone turnover markers (CTX) no longer recommended for risk assessment.
 
 ## 1. Document Information

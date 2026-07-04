@@ -27,13 +27,21 @@ tags: [resin-bonding, hybrid-layer, water-tree, nanoleakage, mmp, ethanol-wet-bo
 > - **임상 한 줄**: 결합 수명을 늘리려면 **물을 줄이고(용매 충분 휘발·습윤 과하지 않게)·효소를 막고(CHX)·콜라겐을 보존**하라. MDP/nanolayer·습윤접착의 in-vitro 우월성은 임상서 희석되므로 술식 규율(전환율·오염차단·CHX)이 더 결정적.
 > - **확신도**: 열화 기전·water-tree·MDP nanolayering = in-vitro 강함; MMP-CHX = SR+MA 중등도; 습윤접착·MDP 임상효과 = RCT/SR이 in-vitro와 괴리(낮음~중등도).
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of 15 wiki papers on why resin-dentin bonds fail over time and how to prevent it: bonds degrade through hydrolysis of hydrophilic resin plus MMP/cathepsin collagenolysis of a water-rich matrix (manifest as nanoleakage/water-trees), and the durability strategies — ethanol-wet bonding, MMP inhibition (CHX), collagen crosslinking, MDP nanolayering, biomimetic remineralization, dentin conditioners — all converge on removing water, blocking enzymes, and preserving collagen; notably MDP nanolayering and wet-bonding show in-vitro superiority that thins out in clinical RCTs.
+Synthesis of 15 resin-bonding wiki papers across 6 axes of bond-degradation research: bonds fail via two parallel mechanisms — hydrolysis of hydrophilic resin (solvent-phase, thermodynamically driven) and MMP/cysteine-cathepsin collagenolysis of the water-rich, resin-sparse hybrid layer — with residual water as the shared culprit, visualized by nanoleakage silver-tracer and Tay–Pashley water-tree morphology (Tay 2003 ×2, Tay 2005).
 
-## 한줄요약
+The one clinically supported durability adjunct is chlorhexidine MMP inhibition: no effect on immediate bond strength but significantly preserves aged bond strength at 6, 12, and 24 months (SR+MA, Kiuru 2021, 740→43 studies); 10-MDP nanolayering and ethanol-wet bonding demonstrate in-vitro superiority but both show no NCCL RCT advantage over controls (de Oliveira 2021; Forville 2024 — 5 RCTs, NS), illustrating the in-vitro–clinical gap.
 
-위키 15편 종합: 레진-상아질 결합은 친수성수지 가수분해 + MMP/cathepsin 콜라겐분해(잔류 물이 매개, nanoleakage/water-tree)로 열화하며, 대응 전략(에탄올습윤·MMP억제·가교·MDP nanolayer·재광화·conditioner)은 모두 "물 제거·효소 차단·콜라겐 보존"으로 수렴 — MDP·습윤접착의 in-vitro 우월성은 임상서 약화.
+Clinical rule: prolong bond life by reducing water (full solvent evaporation, do not over-wet), blocking enzymes (CHX application before bonding), and preserving collagen — procedural discipline beats "better material" selection.
+
+## 세줄요약
+
+위키 15편 6축 종합: 레진-상아질 결합 열화의 두 기전은 친수성 수지의 가수분해(hydrolysis)와 물이 많고 수지가 적은 혼성층(hybrid layer) 콜라겐의 기질금속단백분해효소(Matrix Metalloproteinase, MMP)/카텝신(cathepsin) 분해이며, 공통 원흉은 잔류 물(residual water) — 형태학적으로 나노누출(nanoleakage)·수분수(water-tree, Tay 2003·2005)로 나타남.
+
+임상 지지 근거가 있는 유일한 내구성 보조법은 클로르헥시딘(Chlorhexidine, CHX) MMP 억제: 즉시 결합강도엔 무효하나 6/12/24개월 노화 결합강도를 유의 보존(SR+MA, Kiuru 2021); 10-MDP 나노층(nanolayering)과 에탄올 습윤접착은 실험실 우월성에도 불구하고 비우식성치경부병소(Non-Carious Cervical Lesion, NCCL) RCT에서 대조군 대비 임상 이점 없음(de Oliveira 2021, Forville 2024).
+
+임상 원칙: 결합 수명은 재료 교체보다 술식 규율이 더 결정적 — 용매 충분 휘발로 물 제거, CHX 도포로 효소 차단, 과습윤 금지로 콜라겐 보존.
 
 ## Synthesis
 

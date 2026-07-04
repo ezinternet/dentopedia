@@ -9,8 +9,19 @@ pdf_filename: van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.pdf
 source_collection: external
 ---
 
-## One-line Summary
-Retrospective analysis of 63 Ludwig's angina cases at University of Pretoria demonstrating that empirical aminoglycoside use is not well-supported by bacterial culture data, with predominantly streptococcal (aminoglycoside-resistant) organisms identified.
+## Three-line Summary
+Retrospective chart and culture review of 63 consecutive Ludwig's angina cases at a South African tertiary referral center (Steve Biko Academic Hospital, University of Pretoria) with high prevalence of HIV and diabetes mellitus comorbidities.
+
+Cultures showed predominantly Gram-positive streptococci (intrinsically aminoglycoside-resistant) and mixed anaerobic flora; only a minority of organisms were Gram-negative (aminoglycoside-sensitive), making empirical aminoglycoside use microbiologically unjustified; odontogenic origin (mandibular molars) predominated.
+
+Empirical antibiotic choice for Ludwig's angina should be β-lactam + metronidazole or penicillin/ampicillin-sulbactam rather than aminoglycosides; surgical drainage plus airway management remain the cornerstones of management.
+
+## 세줄요약
+남아공 3차 의뢰기관(Steve Biko Academic Hospital, 프레토리아대) 루드비히 협심증 63례 후향 배양 분석; HIV·당뇨 병발이 높은 고위험 코호트, 하악 대구치 치성 감염이 주 원인.
+
+배양 결과 아미노글리코시드 내성 그람양성 연쇄상구균 및 혼합 혐기균이 우세; 그람음성균(아미노글리코시드 감수성)은 소수 — 경험적 아미노글리코시드 사용을 미생물학적으로 지지하지 않음.
+
+루드비히 협심증 경험적 항생제는 아미노글리코시드 대신 β-락탐+메트로니다졸 또는 페니실린/암피실린-설박탐을 권고; 절개배농 및 기도 관리가 치료의 근간.
 
 ## 1. Document Information
 - **Journal**: Journal of Stomatology, Oral and Maxillofacial Surgery 2023

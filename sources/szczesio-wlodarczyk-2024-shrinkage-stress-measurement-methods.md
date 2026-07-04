@@ -16,11 +16,21 @@ text_filename: szczesio-wlodarczyk-2024-shrinkage-stress-measurement-methods.txt
 
 [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]]와 [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]]가 보고하는 "수축응력 2-3 MPa" 같은 절대값을 해석할 때, 측정 방법(photoelastic vs contraction-force)에 따라 같은 재료의 수축응력 값이 수배 차이 난다는 methodological caveat가 위키에 없었다. 본 연구는 동일 10종 레진을 두 방법으로 측정해 값의 비교 가능성/한계를 보강한다 — 다른 논문 간 stress 수치를 함부로 비교하면 안 된다는 근거. abstract-only.
 
-## One-line Summary
+## Three-line Summary
+
 In-vitro methodological comparison (10 commercial composites) showing photoelastic shrinkage-stress values (6.4-13.4 MPa) are several-fold higher than contraction-force values (1.2-4.8 MPa) for the same materials, yet the two methods correlate strongly (r=0.8).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 In-vitro 방법론 비교(상용 레진 10종): 동일 재료라도 photoelastic 법(6.4-13.4 MPa)이 contraction-force 법(1.2-4.8 MPa)보다 수배 높은 수축응력 값을 주지만, 두 방법은 강하게 상관(r=0.8) — 논문 간 절대값 비교 시 측정법 확인 필수.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Dental Materials Journal, 2024;43(2):155-163

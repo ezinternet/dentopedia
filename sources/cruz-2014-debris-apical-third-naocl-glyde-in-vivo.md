@@ -13,11 +13,21 @@ source_collection: external
 
 [[endodontics/irrigation/wong-2014-root-canal-lubricants-antibacterial-irrigants]]가 Glyde 항균성을 다룬 데 비해, 본 in vivo 연구는 Glyde paste 사용이 apical third debris 축적을 오히려 증가시킴을 보여 윤활제 사용의 trade-off를 제시.
 
-## One-line Summary
-In vivo study finding that using Glyde File Prep (EDTA paste) during rotary instrumentation increases debris accumulation in the apical third, whereas NaOCl with a final rinse left little/no apical debris.
+## Three-line Summary
 
-## 한줄요약
-In vivo: 회전 기구조작 중 Glyde File Prep(EDTA paste) 사용이 apical third debris 축적을 증가시킴 — NaOCl + 최종 세척군은 debris 거의 없음.
+In vivo study on extracted teeth comparing rotary instrumentation with NaOCl irrigation alone (Group A) vs NaOCl + Glyde File Prep EDTA paste lubricant (Group B), with histologic/microscopic apical-third debris assessment.
+
+Group A (no Glyde) left little or no debris in the apical third; Group B (Glyde) showed increased debris accumulation, indicating the EDTA paste worsens apical cleanliness.
+
+Small in vivo sample with a single paste tested at one technique level, limiting generalizability to other lubricant formulations or instrumentation systems.
+
+## 세줄요약
+
+발거 예정 치아를 이용한 생체 내(In Vivo) 연구 — NaOCl 세정 단독군(A)과 NaOCl + Glyde File Prep(EDTA paste) 윤활제 병용군(B)의 근첨 1/3 잔류 이물(Debris) 조직학적 비교.
+
+NaOCl 단독군(A)은 근첨 1/3 잔류 이물이 거의 없었으나, Glyde 병용군(B)은 이물 축적이 증가해 EDTA paste 윤활제가 근첨 청결도를 악화시킴을 확인.
+
+표본 수가 적고 단일 제품·단일 기술 수준에서 검증되어, 다른 윤활제 제형이나 기구 시스템으로의 일반화에 한계.
 
 ## 1. Document Information
 - Journal of Endodontics 2014;40(9):1419–1423.

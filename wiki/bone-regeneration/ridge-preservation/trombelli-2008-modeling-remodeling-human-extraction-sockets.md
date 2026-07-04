@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Human histological biopsy series (27 extraction-socket biopsies across 2–24 weeks): granulation tissue dominant at 2–4 weeks is replaced by provisional matrix and woven bone by week 6, with osteoblast density peaking at weeks 6–8, but the timing of mineralized bone deposition is highly variable between individuals.
+## Three-line Summary
 
-## 한줄요약
-인체 발치공 6개월 조직학 연구 (27 biopsy): 발치 2–4주에 우세하던 육아조직 (granulation tissue)이 6주 전후로 잠정 기질 (provisional matrix)과 직조골 (woven bone)로 대체되며, 골모세포 (osteoblast) 활성은 6–8주에 정점을 찍고 이후 안정 상태로 유지되지만 무기질화의 시점은 개인차가 매우 크다.
+Prospective human histological biopsy series (27 extraction-socket biopsies, 3 phases: 2–4 wk n=10, 6–8 wk n=6, 12–24 wk n=11) using semi-quantitative scoring of tissue composition, cell populations, and vascularity across the healing timeline.
+
+Granulation tissue dominated weeks 2–4; it was replaced by provisional matrix and woven bone between weeks 4–6; osteoblast density peaked at weeks 6–8 and remained stable through week 24, with small but consistent osteoclast presence at all timepoints indicating ongoing remodeling.
+
+The key clinical limitation is marked inter-individual variability in the timing of mineralized bone deposition — the soft-tissue/provisional-matrix sequence is predictable, but bone fill is not, undermining fixed-duration implant placement protocols.
+
+## 세줄요약
+
+전향적 인체 조직학 생검 연구 (27개 발치와 생검, 3시기: 2–4주 n=10, 6–8주 n=6, 12–24주 n=11): 조직 구성·세포군·혈관 밀도를 반정량적 조직학 점수로 치유 경과 추적.
+
+2–4주: 육아조직 (granulation tissue) 지배; 4–6주에 잠정 기질 (provisional matrix) + 직조골 (woven bone)로 교체; 골모세포 (osteoblast) 밀도 6–8주 정점 후 24주까지 안정; 전 시점에 파골세포 소량 존재 — 개형 (remodeling) 지속.
+
+임상적 핵심 한계: 개인 간 무기질화 시점 편차가 매우 크며, 연조직/잠정기질 경과는 예측 가능하지만 골충전은 그렇지 않아 고정 기간(예: "8주 후 식립") 프로토콜의 신뢰성을 약화시킨다.
 
 ## Summary
 Trombelli and coworkers performed one of the most cited **human histological** studies of postextraction socket healing. They collected 27 biopsies from human extraction sockets across early (2–4 wk), intermediate (6–8 wk), and late (12–24 wk) phases. The dominant biological narrative — granulation tissue → provisional matrix → woven bone with osteoblast activity peaking by week 6–8 — gives clinicians a defensible mental model for when implant placement and grafting decisions are biologically supported. The key clinical caveat: the timing of mineralized bone deposition is highly variable between individuals, which is why deterministic "wait 8 weeks" protocols can fail.

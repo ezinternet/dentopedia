@@ -16,13 +16,21 @@ relations:
 tags: [pfapa, aphthous-stomatitis, autoinflammation, tonsillectomy, periodic-fever]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review of PFAPA pathogenesis: recent genetic susceptibility loci link the commonest childhood periodic-fever syndrome to Behcet disease/recurrent aphthous ulcers; tonsillectomy is effective even in incomplete-criteria patients.
+Narrative review (Current Opinion in Rheumatology 2023) of PFAPA (periodic fever, aphthous stomatitis, pharyngitis, cervical adenitis) pathogenesis — the most common childhood periodic-fever syndrome — summarizing recent genetic-association, linkage, and tonsillectomy-outcome studies.
 
-## 한줄요약
+No causative rare mutations have been found, reframing PFAPA as a complex polygenic autoinflammatory disorder; susceptibility loci are shared with Behçet disease and recurrent aphthous ulcers; tonsillectomy is effective even in patients not meeting full diagnostic criteria, with distinct tonsillar immune profiles.
 
-PFAPA 병인 내러티브 리뷰: 최근 유전 감수성 좌위가 베체트병/재발성 아프타와 연결, 진단기준 미충족 환자에서도 편도절제술 효과.
+The genetic overlap with Behçet/RAS blurs PFAPA's nosological boundaries, and tonsillectomy efficacy beyond strict criteria suggests the diagnostic definition may be overly narrow for clinical decision-making.
+
+## 세줄요약
+
+서술 리뷰(Current Opinion in Rheumatology, 2023) — 소아기 가장 흔한 주기발열증후군인 PFAPA(주기발열·아프타성 구내염·인두염·경부 림프절비대, Periodic Fever, Aphthous stomatitis, Pharyngitis, Adenitis) 병태생리를 최신 유전·편도절제술 연구를 중심으로 정리.
+
+희귀 원인 돌연변이 없음 → PFAPA는 복합 다유전자성 자기염증질환으로 재해석; 감수성 유전좌위가 베체트병(Behçet disease)·재발성 아프타와 공유; 편도절제술은 진단 기준 미충족 환자에서도 효과적이며 편도 면역 프로파일이 특이함.
+
+PFAPA와 베체트/RAS 간 유전 중첩으로 질환 경계 재검토 필요, 엄격한 진단 기준이 임상 의사결정에 과도하게 제한적일 수 있음을 시사.
 
 ## Summary
 

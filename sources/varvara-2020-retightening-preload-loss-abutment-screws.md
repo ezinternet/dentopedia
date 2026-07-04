@@ -13,13 +13,23 @@ source_collection: external
 
 나사 풀림(abutment-screw loosening)은 임플란트 보철 합병증 중 가장 흔한 것 중 하나이며, 재조임(retightening) 타이밍이 전조임 소실(preload loss)에 미치는 영향에 대한 체계적 데이터가 부족하다. 본 논문은 내부 vs 외부 육각 연결부(internal vs external hexagon)에서 재조임 시점(2·5·10분)과 전조임 유지량을 직접 비교하여 [[wiki/prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload]]가 다루는 오염 변수와 함께 나사 조임 프로토콜의 기계적 근거를 보강한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 In vitro study (n=80 implants, internal vs external hexagon) showed retightening at 2 minutes after initial torque (35 Ncm) significantly reduced preload loss compared to 5- or 10-minute intervals or no retightening.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 체외 연구(내·외부 육각 임플란트 각 40개): 초기 조임(35 Ncm) 후 2분 시점 재조임이 5분·10분·비재조임군 대비 전조임 소실을 유의하게 감소시켰다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

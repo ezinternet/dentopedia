@@ -9,7 +9,7 @@ pdf_filename: srinivasan-2025-artificial-intelligence-dental-implants-review.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 IJDM 2025;7(4):120-124 (Chettinad): AI in implant dentistry narrative review — diagnostic efficiency, treatment planning, patient outcomes; accuracy, rapidity, precision highlighted; drawbacks limit current clinical use; further clinical trials needed.
 
 ## 1. Key Results

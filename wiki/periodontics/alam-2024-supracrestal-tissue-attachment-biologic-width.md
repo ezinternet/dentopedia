@@ -18,13 +18,21 @@ relations:
     target: ercoli-2021-fixed-dental-prostheses-restorations-periodontium
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case presentation + literature review defining supracrestal tissue attachment (SCTA, the renamed biologic width = junctional epithelium + connective tissue attachment) and detailing identification (bone sounding, margin-to-crest <2 mm), evaluation, and correction (gingivectomy, surgical crown lengthening, extrusion) of SCTA violation in a subgingival-crown case.
+Case presentation + literature review (n=1, 47-year-old female, Cureus 2024) defining supracrestal tissue attachment (SCTA, the 2017 World Workshop renaming of biologic width) and presenting a worked clinical pathway for its violation caused by deeply placed subgingival crown margins.
 
-## 한줄요약
+Diagnosis used bone sounding showing margin-to-crest distance <2 mm; surgical correction via full-thickness flap with osteotomy/osteoplasty at teeth 34–36 resolved gingival inflammation, BOP, and crestal bone loss.
 
-증례 + 문헌고찰 — supracrestal tissue attachment(SCTA, biologic width의 새 명칭 = 접합상피 + 결합조직부착)을 정의하고, 치은연하 크라운에 의한 SCTA 침범의 식별(bone sounding, 변연-치조정 <2 mm)·평가·교정(치은절제술, 외과적 치관연장술, 정출)을 정리.
+Decision tables organize correction strategies — gingivectomy, apically positioned flap ± osteotomy, surgical/orthodontic extrusion — against keratinized tissue amount and bone-level relationship, providing a practical algorithm for restorative-periodontic interface management.
+
+## 세줄요약
+
+증례보고+문헌고찰(n=1, 47세 여성, Cureus 2024): 초치조상부 조직부착(Supracrestal Tissue Attachment, SCTA; 2017년 세계워크숍 명명 — 구 biologic width)을 정의하고, 치은연하 크라운 변연에 의한 SCTA 침범의 임상 처치 경로 제시.
+
+변연-치조정 거리(bone sounding) <2 mm 진단 기준; 전층 판막+골절제/골성형술(34–36번)로 교정 후 치은 염증·탐침 출혈(Bleeding on Probing, BOP)·치조골 소실 해소.
+
+교정 전략 결정표: 치은절제술, 근단변위 판막 ± 골절제, 외과적/교정적 정출 — 각화치은량 및 치조골-법랑백악경계(CEJ) 관계에 따라 선택; 보철-치주 경계면 관리의 임상 알고리즘 제공.
 
 ## Summary
 

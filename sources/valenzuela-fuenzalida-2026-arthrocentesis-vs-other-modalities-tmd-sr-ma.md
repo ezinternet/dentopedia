@@ -17,13 +17,23 @@ text_filename: valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd
 
 기존 [[tmj/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma]] (7개 RCT)는 관절천자(Arthrocentesis)가 보존치료 대비 하악 최대개구량(MMO)을 +1.12mm 유의 개선한다고 보고했다. 본 2026 SR+MA는 비교군을 보존치료뿐 아니라 관절내 주사·관절경·대체 천자 프로토콜까지 넓혀 32개 RCT(1247명)로 풀을 확장했고, 통증(VAS) 차이 없음 + MMO/MIO는 오히려 비교군 우세로 나와 기존 페이지의 modest-benefit 결론을 비교군 다양화 맥락에서 갱신·재맥락화한다. [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]]의 천자 프로토콜 비교(NMA)와도 짝을 이룬다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 32 RCTs (n=1247; 640 arthrocentesis vs 607 other) finds arthrocentesis is NOT superior to other modalities (conservative therapy, intra-articular injection, arthroscopy, alternative protocols): pain (VAS) no difference (MD −0.25, 95% CI −1.09–0.59, p=0.55, I²=96%); MMO and MIO statistically favored comparators; only masticatory efficiency (2 studies) favored arthrocentesis; all outcomes low-to-very-low GRADE certainty.
 
-## 한줄요약
+SR+MA of 32 RCTs (n=1247;
+
+640 arthrocentesis vs 607 other) finds arthrocentesis is NOT superior to other modalities (conservative therapy, intra-articular injection, arthroscopy, alternative protocols): pain (VAS) no difference (MD −0.25, 95% CI −1.09–0.59, p=0.55, I²=96%);
+
+MMO and MIO statistically favored comparators; only masticatory efficiency (2 studies) favored arthrocentesis; all outcomes low-to-very-low GRADE certainty.
+
+## 세줄요약
+
 
 32개 RCT(1247명) SR+MA: 관절천자(Arthrocentesis)는 다른 치료(보존·관절내주사·관절경 등) 대비 통증(VAS) 차이 없고(MD −0.25, p=0.55, I²=96%), 최대개구량(MMO)·최대절치개구(MIO)는 오히려 비교군이 우세 — 우월성 입증 안 됨, 근거확실성 매우 낮음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

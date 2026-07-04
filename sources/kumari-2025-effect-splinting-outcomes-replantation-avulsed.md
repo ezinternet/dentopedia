@@ -16,13 +16,23 @@ text_filename: kumari-2025-effect-splinting-outcomes-replantation-avulsed.txt
 
 Brings trauma-specific splinting evidence (flexible, short-term for replanted avulsed teeth) into the new `dental-trauma` category, complementing the periodontal/occlusal splinting page [[occlusion/dommisch-2022-efficacy-of-tooth-splinting-occlusal]] which addresses a different indication (mobility/periodontal). It also follows directly from the storage-media decision in [[dental-trauma/debrier-2020-storage-avulsed-tooth-prior]].
 
-## One-line Summary
+## Three-line Summary
 
-SR (7 studies; 4 in MA; 708 patients, 975 teeth; GRADE very low): trends favor flexible splints and shorter durations for replanted avulsed permanent teeth in children, tentatively supporting IADT guidance, but most effects were not statistically significant.
 
-## 한줄요약
+SR (7 studies;
 
-SR (7편, MA 4편; 환자 708명·치아 975개; GRADE 매우 낮음): 소아 영구치 탈구치 재식 후 탄성(flexible) 스플린트·짧은 고정 기간이 더 나은 경향을 보여 IADT 권고를 잠정 지지하나, 대부분 통계적 유의성에는 도달하지 못함.
+4 in MA;
+
+708 patients, 975 teeth; GRADE very low): trends favor flexible splints and shorter durations for replanted avulsed permanent teeth in children, tentatively supporting IADT guidance, but most effects were not statistically significant.
+
+## 세줄요약
+
+
+SR (7편, MA 4편;
+
+환자 708명·치아 975개;
+
+GRADE 매우 낮음): 소아 영구치 탈구치 재식 후 탄성(flexible) 스플린트·짧은 고정 기간이 더 나은 경향을 보여 IADT 권고를 잠정 지지하나, 대부분 통계적 유의성에는 도달하지 못함.
 
 ## 1. Document Information
 

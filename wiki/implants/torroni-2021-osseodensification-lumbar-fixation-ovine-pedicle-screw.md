@@ -13,11 +13,21 @@ source_collection: external
 tags: [osseodensification, pedicle-screw, orthopaedic, lumbar-fusion, animal-study, sheep, pullout-strength]
 ---
 
-## One-line Summary
-Ovine ex-vivo/in-vivo spine study (8 sheep, 64 pedicle screws) extending osseodensification (OD) to orthopedic lumbar fixation: OD pullout strength (387 N at 6wk, 312 N at 12wk) exceeded conventional drilling (292 N, 212 N) by ~32–47%, with OD trending upward and conventional declining over time, while BAFO showed no difference; small sample, exact P-values unreported.
+## Three-line Summary
 
-## 한줄요약
-양 척추 ex-vivo 연구 (n=8 sheep, 64 pedicle screws) — 골밀도화 (Osseodensification, OD)군 pullout 강도가 6주 387 N / 12주 312 N으로 conventional drilling 군 (292/212 N)을 능가하며 시간에 따라 OD는 증가·R은 감소. 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음 — 정확한 P-값 미보고, 표본 크기 작음.
+Ovine split-spine ex vivo/in vivo study (8 adult sheep, 64 pedicle screws, 4 per side; conventional regular drilling on left vs osseodensification (OD) Densah-style burs on right; sacrificed at 6 and 12 weeks) extending OD to orthopedic lumbar pedicle-screw fixation.
+
+OD pullout strength (~32% higher at 6 weeks: 387 vs 292 N; ~47% higher at 12 weeks: 312 vs 212 N) exceeded conventional drilling, with OD trending upward and conventional declining over time; BAFO showed no significant difference between groups, suggesting the mechanical gain reflects spicula-architecture, not bone volume.
+
+OD provides substantial pedicle-screw anchorage improvements in this feasibility model, motivating an RCT in osteoporotic spine; direct clinical translation is limited by n=4 screws/arm/timepoint, unreported exact P-values, and author affiliation with OD device developers.
+
+## 세줄요약
+
+양 척추 분할 ex vivo/in vivo 연구 (성체 sheep 8마리, pedicle screw 64개, 좌측 통상 드릴링 vs 우측 골밀도화 Osseodensification, OD; 6주·12주 희생) — 정형외과 요추 pedicle screw 고정에 OD 적용 확장.
+
+OD pullout 강도: 6주 387 N vs 292 N (~32% 높음), 12주 312 N vs 212 N (~47% 높음); OD는 시간에 따라 증가·통상군은 감소; 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음 → 기계적 이득은 spiculae 구조 반영.
+
+OD가 이 feasibility 모델에서 pedicle screw 고정력을 크게 향상시켜 골다공증 척추 RCT 동기 부여; 단 n=4 screws/군/시점·P-값 미보고·OD 기기 개발자 저자 포함으로 임상 외삽 제한.
 
 ## Summary
 Torroni et al. extended the osseodensification (OD) concept from dental implants into orthopedic pedicle-screw fixation. In an ovine ex-vivo / in vivo split-spine model, 64 pedicle screws (4.5 × 45 mm, 8 per spine) were placed in 8 adult sheep, with one side instrumented by regular (R) manual technique and the contralateral side prepared with Densah-style OD burs. Animals were sacrificed at 6 and 12 weeks.

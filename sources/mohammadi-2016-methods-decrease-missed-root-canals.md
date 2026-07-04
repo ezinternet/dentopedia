@@ -11,7 +11,7 @@ pdf_filename: mohammadi-2016-methods-decrease-missed-root-canals.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Narrative review of strategies to reduce missed canals: pre-op CBCT, access cavity design, ultrasonics, magnification (DOM), transillumination — each technique's role and limitations in canal orifice localization.
 
 ## 1. Document Information

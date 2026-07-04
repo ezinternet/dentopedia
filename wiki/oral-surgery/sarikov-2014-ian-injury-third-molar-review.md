@@ -13,12 +13,21 @@ source_collection: external
 tags: [ian, inferior-alveolar-nerve, paresthesia, third-molar, impaction, risk-factors, recovery, age, horizontal-impaction, trainee-surgeon, radiographic-signs]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Literature review of inferior alveolar nerve (IAN) injury after mandibular third molar extraction (14 of 84 sources analyzed); IAN paresthesia incidence ranges 0.35–8.4% with permanent injury very rare and most cases recovering, and identifies age >24, horizontal impaction, and trainee surgeon as key risk factors alongside radiographic OPG signs of intimate canal-root contact.
+Narrative literature review of IAN injury following mandibular third molar extraction, analyzing 14 of 84 PubMed sources (Jan 2009–Jun 2014) with ≥6-month follow-up.
 
-## 한줄요약
-하악 제3대구치 발치 후 하치조신경(IAN) 손상 문헌 고찰 (JOMR 2014): 14편 분석; 유병률 0.35–8.4%; 24세 초과·수평매복·수련의 시술이 위험인자; 영구적 손상 드묾; 대부분 회복.
+IAN paresthesia incidence ranges 0.35–8.4%; permanent nerve injury is very rare; risk factors include age >24 years, horizontal impaction, and trainee (vs experienced) surgeon performing the extraction.
+
+Radiographic OPG signs of intimate IAC-root contact (canal narrowing, root deflection, canal interruption, root grooving) are the key predictors for pre-surgical risk stratification and informed consent.
+
+## 세줄요약
+
+하악 제3대구치 발치 후 하치조신경(Inferior Alveolar Nerve, IAN) 손상 문헌 고찰 (PubMed 2009–2014, 84편 검색, 14편 분석; ≥6개월 추적).
+
+IAN 감각이상 발생률 0.35–8.4%; 영구 손상 극히 드물고 대부분 회복; 위험인자는 연령 >24세, 수평 매복, 수련의 시술.
+
+파노라마 방사선(OPG) 신경관-치근 밀접 소견(협착·편위·단절·홈)이 핵심 예측 지표로, 술전 위험 분류 및 설명동의서 근거로 활용.
 
 ## Summary
 Literature review of IAN injury following mandibular third molar extraction. Searched PubMed (January 2009–June 2014); English; ≥6 months follow-up; injury assessed by patient report, radiographic evaluation, and neurosensory testing. 84 sources reviewed; 14 most relevant selected and analyzed.

@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[overviews/short-implant-vs-sinus-augmentation-decision]] 의 근거 위계 최상단(umbrella review of meta-analyses)을 채우기 위해 인제스트. 개별 SR/MA들을 묶은 umbrella review로, "short implant ≈ standard+SFE" 결론의 *근거 품질(AMSTAR-2 critically low/low)* 한계를 명시해 overview의 confidence 캡으로 활용. [[implants/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] 와 짝.
 
-## One-line Summary
+## Three-line Summary
+
 
 Umbrella review (7 SRs, 66 studies) finding short implants perform better-than-or-equal to standard implants with sinus floor elevation across survival, MBL, and biologic outcomes — but on a base of critically low / low quality reviews.
 
-## 한줄요약
+(incomplete)
 
-체계적 고찰 7편(연구 66편)을 묶은 우산형 고찰(umbrella review). 짧은 임플란트(short implant)는 상악동거상술(sinus floor elevation)을 동반한 표준 임플란트와 비교해 생존율은 동등하고 변연골소실(MBL)·생물학적 합병증은 더 적었으나, 포함된 고찰의 근거 품질이 "critically low~low"라 결론은 잠정적.
+(incomplete)
+
+## 세줄요약
+
+
+체계적 고찰 7편(연구 66편)을 묶은 우산형 고찰(umbrella review).
+
+짧은 임플란트(short implant)는 상악동거상술(sinus floor elevation)을 동반한 표준 임플란트와 비교해 생존율은 동등하고 변연골소실(MBL)·생물학적 합병증은 더 적었으나, 포함된 고찰의 근거 품질이 "critically low~low"라 결론은 잠정적.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: The Journal of Prosthetic Dentistry, Volume 126, Issue 4, P503-511, October 2021

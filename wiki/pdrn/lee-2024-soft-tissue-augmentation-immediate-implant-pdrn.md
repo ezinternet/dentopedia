@@ -13,13 +13,21 @@ source_collection: external
 tags: [pdrn, immediate-implant, soft-tissue, animal, conflicting-result]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Preclinical canine study (4 mongrel dogs, split-mouth) comparing SCTG, VCMX, and VCMX+PDRN versus control for soft-tissue augmentation in immediate implant placement (IIP): PDRN produced no additional soft-tissue volume gain (all groups showed volume decrease on STL), with its only advantage in keratinized-tissue height; wound dehiscence in over half of test sites limited interpretation.
+Preclinical canine split-mouth study (4 mongrel dogs) compared SCTG, VCMX, and VCMX+PDRN versus no augmentation for soft-tissue management in immediate implant placement (IIP) with 4-month histomorphometric and STL superimposition evaluation.
 
-## 한줄요약
+PDRN added no soft-tissue volume benefit — all groups including VCMX+PDRN showed volume decrease on STL superimposition; SCTG produced the greatest tissue thickness at and above the implant platform, while VCMX+PDRN showed only superior keratinized-tissue (KT) height.
 
-Mongrel dog 4마리 IIP 모델에서 SCTG / VCMX / VCMX+PDRN / control 비교. PDRN은 soft-tissue volume gain에는 효과 없음. KT height에서만 우위. Wound dehiscence가 빈번해 결과 해석 제한.
+Wound dehiscence occurred in more than half of test sites (likely from over-grafting), severely limiting interpretation; clinicians should exercise restraint on graft volume in IIP and not expect PDRN to compensate for volumetric loss in this setting.
+
+## 세줄요약
+
+Mongrel dog 4마리 split-mouth IIP 모델에서 SCTG / VCMX / VCMX+PDRN / 대조군을 4개월 후 조직형태계측 및 STL 중첩 비교한 전임상 연구.
+
+PDRN은 연조직 부피 증가에 기여 없음 — VCMX+PDRN 포함 전 그룹 STL 부피 감소; SCTG가 임플란트 플랫폼 수준에서 가장 높은 조직 두께를 보였고, VCMX+PDRN은 각화조직(KT) 높이에서만 우위.
+
+절반 이상의 부위에서 창상 열개 발생(과도한 이식재 부피 원인 추정)으로 결과 해석이 제한되며, IIP 시 이식 부피를 자제하고 PDRN의 부피 보상 효과를 기대하지 않는 것이 권고됨.
 
 ## Summary
 

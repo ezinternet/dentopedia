@@ -18,13 +18,21 @@ relations:
     target: ruggiero-2022-aaoms-mronj-position-paper-update
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective BRONJ vs non-BRONJ comparison in bisphosphonate users: alkaline phosphatase and ESR were significantly higher in BRONJ, with associations to smoking, tooth extraction, anaemia and leukocytosis, plus radiographic persisting alveolar socket, osteolysis, bone sclerosis and mandibular canal narrowing; CTX, PTH, calcium and phosphorus did not differ.
+Retrospective record review of bisphosphonate-treated patients comparing those who developed BRONJ against those who did not, using clinical, panoramic/periapical, and haematological/biochemical data.
 
-## 한줄요약
+Alkaline phosphatase and ESR were significantly elevated in BRONJ; radiographic correlates included persisting alveolar socket, osteolysis, bone sclerosis, and mandibular-canal narrowing — but CTX, PTH, calcium, and phosphorus did not differ between groups.
 
-비스포스포네이트 복용자에서 BRONJ vs 비BRONJ 후향 비교: BRONJ 군에서 ALP·ESR이 유의하게 높았고 흡연·발치·빈혈·백혈구증가증과 연관, 방사선 소견(잔존 발치와·골용해·골경화·하악관 협착)도 더 흔함. CTX·PTH·칼슘·인은 차이 없음.
+CTX alone is insufficient for MRONJ risk stratification; a combined clinical-radiographic-laboratory picture (ALP, ESR, non-healing socket) should guide clinical suspicion in bisphosphonate patients.
+
+## 세줄요약
+
+비스포스포네이트 복용 환자를 BRONJ 발생군과 비발생군으로 나눈 후향적 기록 검토 — 임상·파노라마/치근단방사선·혈액학·생화학 지표를 포괄 비교.
+
+ALP·ESR이 BRONJ군에서 유의하게 상승했고, 방사선 소견(잔존 발치와·골용해·골경화·하악관 협착)도 더 흔했으나, CTX·PTH·칼슘·인은 두 군 간 차이 없었다.
+
+CTX 단독 검사는 MRONJ 위험 층화에 불충분하며, ALP·ESR 상승 + 비치유 발치와 + 방사선 소견의 복합적 판단이 비스포스포네이트 환자 관리에 필요하다.
 
 ## Summary
 

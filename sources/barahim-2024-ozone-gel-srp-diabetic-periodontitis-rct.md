@@ -13,13 +13,21 @@ source_collection: external
 
 기존 [[wiki/periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]]는 일반(비당뇨) 환자에서 SRP(scaling and root planing) 부가 오존이 PPD·CAL에 소폭·대부분 비유의한 효과만 있다고 보고했다. 본 Barahim 2024 RCT는 그 결론을 **controlled type 2 DM (HbA1c<7) + stage III periodontitis**라는 고위험 하위집단에 적용·검증하며, 임상 파라미터의 intergroup 무차이는 재확인하되 방사선학적 골결손(RLDD·DA·PDL space)에서 오존군에서만 유의한 intra-group 개선을 보여 deepthi-2020을 당뇨 맥락으로 확장한다. 또한 [[wiki/periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] 및 [[wiki/periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]]의 "NSPT가 당뇨 대사조절(HbA1c)을 개선한다"는 결론과 짝을 이뤄, 오존 부가 여부와 무관하게 양 군 모두 6개월에 HbA1c가 유의하게 감소한 점을 추가 근거로 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-Egyptian RCT (n=24; 12 SRP+ozone gel vs 12 SRP alone) in controlled T2DM + stage III grade B periodontitis: both groups improved CAL/PPD/BOP/PI/HbA1c with NO significant intergroup difference, but the SRP+Ozone group uniquely showed significant intra-group radiographic improvement (RLDD, defect angle, PDL space) and significantly greater PPD reduction at 3 months and lower postoperative VAS pain.
+Two-arm parallel RCT (n=24; 12 SRP+ozonated olive-oil gel vs 12 SRP alone) in controlled T2DM (HbA1c < 7) + stage III grade B periodontitis; clinical, radiographic, and glycemic outcomes at baseline, 3, and 6 months.
 
-## 한줄요약
+Both groups significantly improved CAL, PPD, BOP, PI, and HbA1c with no significant intergroup differences; however, only the ozone group achieved significant within-group radiographic improvement (RLDD: −0.78 mm, p=0.008; defect angle, PDL space), and showed significantly greater PPD reduction at 3 months (p=0.045) and lower VAS pain at 1 week (p=0.017).
 
-조절된 제2형 당뇨 + stage III periodontitis 환자 24명(SRP+오존젤 12 vs SRP 단독 12) RCT — 양 군 모두 CAL·PPD·BOP·PI·HbA1c가 개선됐으나 군간 차이는 없었고, 다만 오존군에서만 방사선학적 지표(RLDD·결손각·치주인대공간)가 유의하게 개선되고 3개월 PPD 감소와 술후 통증(VAS)이 유의하게 더 좋았다.
+Ozonated olive-oil gel as SRP adjunct may offer additional early PPD and radiographic bone-defect benefits in T2DM periodontitis, but the small sample (n=12/group) limits power to detect intergroup differences, and most clinical gains were indistinguishable between arms.
+
+## 세줄요약
+
+조절된 제2형 당뇨(HbA1c < 7) + stage III 치주염 24명(SRP+오존젤 12 vs SRP 단독 12) 2군 평행 RCT — 임상·방사선·혈당 지표를 기저·3·6개월에 평가.
+
+양 군 모두 CAL·PPD·BOP·PI·HbA1c 유의 개선, 군간 차이 없음; 그러나 오존군에서만 방사선학적 유의 개선(RLDD −0.78 mm, p=0.008; 결손각·PDL공간)과 3개월 PPD 감소 우위(p=0.045), 1주 VAS 통증 감소(p=0.017)가 나타남.
+
+SRP 보조 오존젤은 T2DM 치주염에서 조기 PPD 및 방사선 골결손 개선을 추가할 수 있으나, n=12/군의 소규모 표본으로 군간 차이 검출 검정력이 부족해 대부분의 임상 이득은 양 군에서 동등했다.
 
 ## 1. Document Information
 

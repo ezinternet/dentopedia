@@ -9,7 +9,7 @@ pdf_filename: rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Clinical + tomographic study evaluating the relationship between Kan-class SRP and periodontal phenotype (gingival biotype, bone wall thickness) in maxillary anterior teeth.
 
 ## 1. Document Information

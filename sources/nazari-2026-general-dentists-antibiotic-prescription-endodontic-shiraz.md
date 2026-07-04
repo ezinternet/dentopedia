@@ -18,13 +18,23 @@ text_filename: nazari-2026-general-dentists-antibiotic-prescription-endodontic-s
 
 기존 [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] (이탈리아) 및 [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]]가 보고한 치과 항생제 과잉처방·가이드라인 괴리 패턴이 이란(Shiraz) 일반의 모집단에서도 재현되는지 확인. 본 cross-sectional (Nazari 2026, n=103)은 AAE 가이드라인 대비 knowledge↔performance 단절을 직접 측정해, endodontic 적응증별 부적절 처방 데이터를 그 합의 페이지들에 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Cross-sectional questionnaire (n=103 general dentists/residents, Shiraz, Iran): moderate-to-good AAE knowledge (70.9% knew first-line) but low-to-moderate performance — 69.9% inappropriately prescribed antibiotics for immunocompromised endodontic patients, 51.5% for localized acute apical abscess; residents outperformed GPs (p=0.019); 88.3% wanted more training.
 
-## 한줄요약
+Cross-sectional questionnaire (n=103 general dentists/residents, Shiraz, Iran): moderate-to-good AAE knowledge (70.9% knew first-line) but low-to-moderate performance — 69.9% inappropriately prescribed antibiotics for immunocompromised endodontic patients, 51.5% for localized acute apical abscess;
 
-Shiraz 일반의·전공의 103명 단면 설문: AAE 가이드라인 지식은 중상(70.9% 1차 항생제 정답)이나 수행은 하~중 — 면역저하 환자에 69.9%, 국소 급성 근단농양에 51.5%가 부적절 처방; 전공의가 일반의보다 우수(p=0.019); 88.3%가 추가 교육 요구.
+residents outperformed GPs (p=0.019);
+
+88.3% wanted more training.
+
+## 세줄요약
+
+
+Shiraz 일반의·전공의 103명 단면 설문: AAE 가이드라인 지식은 중상(70.9% 1차 항생제 정답)이나 수행은 하~중 — 면역저하 환자에 69.9%, 국소 급성 근단농양에 51.5%가 부적절 처방;
+
+전공의가 일반의보다 우수(p=0.019);
+
+88.3%가 추가 교육 요구.
 
 ## 1. Document Information
 

@@ -14,7 +14,7 @@ source_collection: external
 
 The ITI 4th Consensus background SR that frames bone augmentation by four defect types and establishes implant survival in augmented bone equals pristine bone — a foundational reassurance underpinning [[overviews/dbbm-bone-substitute-overview]] and the augmentation context of [[overviews/gbr-barrier-membrane-overview]]. Documents the heterogeneity that prevents naming any single superior protocol.
 
-## One-line Summary
+## Three-line Summary
 ITI 4th Consensus background SR (108 studies, 11 RCTs) of bone augmentation in four defect types — dehiscence/fenestration, horizontal ridge, vertical ridge, maxillary sinus floor: no single superior protocol identified, but implant survival in augmented bone equals pristine bone (level A–B evidence).
 
 ## 1. Document Information

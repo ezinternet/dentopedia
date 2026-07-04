@@ -16,13 +16,21 @@ relations:
     target: liu-2011-limitations-bonding-dentin-bond-degradation-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (199 refs, 408 citations) framing resin-dentin bond durability: the hybrid layer degrades via endogenous MMP/cysteine-cathepsin collagenolysis and resin hydrolysis — both enabled by residual unbound water at the base of the HL — and is preserved by removing that water and silencing the enzymes.
+Narrative review (199 references, Dental Materials 2018) synthesizing dentin collagen architecture, hybrid-layer (HL) formation and degradation mechanisms, and preservation strategies for resin-dentin bond durability.
 
-## 한줄요약
+The hybrid layer degrades via two pathways both enabled by residual unbound water at the HL base: (1) endogenous MMP and cysteine-cathepsin collagenolysis, and (2) resin hydrolysis/leaching — neither etch-and-rinse nor self-etch fully envelopes the deepest collagen fibrils.
 
-서술형 리뷰(199편 인용): 레진-상아질 결합 내구성은 잔류 미결합수(unbound water)가 가능케 하는 내인성 효소(MMP·시스테인 카텝신)의 콜라겐 분해와 레진 가수분해(hydrolysis) 두 기전으로 hybrid layer(HL)가 열화되며, 그 물을 제거하고 효소를 잠재우는 두 가지 전략으로 보존된다.
+Durable bonds require (1) minimizing residual unbound water in the bonded zone and (2) inhibiting endogenous MMP/cathepsin activity — the two preservation strategy families that directly translate into clinical adjuncts (enzyme inhibitors, cross-linkers, active drying techniques).
+
+## 세줄요약
+
+서술형 리뷰 (199편 인용, Dental Materials 2018) — 상아질 콜라겐 구조, 혼성층 (Hybrid Layer, HL) 형성·열화 기전, 레진-상아질 결합 내구성 보존 전략 종합.
+
+혼성층 열화는 두 경로로 진행 — 모두 HL 기저 잔류 미결합수 (Unbound Water)가 가능케 함: ① 내인성 기질금속단백분해효소 (MMP)·시스테인 카텝신 (Cysteine Cathepsin) 콜라겐분해, ② 레진 가수분해 (Hydrolysis)/용출; 전부식·자가부식 모두 심층 콜라겐 섬유 완전 피개 불가.
+
+내구성 있는 결합을 위해: ① 결합 영역 잔류 미결합수 최소화, ② 내인성 MMP/카텝신 활성 억제 — 두 보존 전략 계열이 임상적 보조제 (효소 억제제·가교제·적극 건조 기법)로 직결됨.
 
 ## Summary
 

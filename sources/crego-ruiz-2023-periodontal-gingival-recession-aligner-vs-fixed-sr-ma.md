@@ -17,13 +17,21 @@ text_filename: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-s
 
 [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] already links TO this paper as the "periodontal outcome, more cautious" counterpart. Baneshi 2024 (RCT-only) reports relatively optimistic pro-CA periodontal effect sizes; this Crego-Ruiz SR+MA refines that optimism by showing only 2 of many pooled estimates reached significance (PI mid-term, PPD long-term), both with extreme heterogeneity (I²=99%), and concluding there is insufficient evidence that clear aligners (CA) maintain better periodontal health than fixed appliances (FA). It anchors the periodontal axis of the clear-aligner limitations batch and supplies the cautious bottom line that balances [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] and the [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] umbrella.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (12 studies, 8 in MA, 612 patients; Cochrane RoB) finding clear aligners only slightly favor periodontal health — significant only for plaque index mid-term (MD −0.99) and pocket depth long-term (MD −0.93 mm), both at I²=99% — so evidence is insufficient to claim CA maintains better periodontal health than fixed appliances.
+SR+MA (12 studies, 8 in MA, 612 patients; Cochrane RoB) comparing periodontal health and gingival recession during clear aligner (CA) vs fixed appliance (FA) orthodontic treatment across short-, mid-, and long-term follow-up windows.
 
-## 한줄요약
+CA showed statistically significant advantages only for plaque index mid-term (MD −0.99, I²=99%) and pocket depth long-term (MD −0.93 mm, based on one study); gingival index and bleeding on probing differences were non-significant; gingival recession evidence rests on one 3-month study.
 
-체계적 문헌고찰+메타분석 (12편, MA 8편, 612명; Cochrane RoB): 투명교정장치 (Clear Aligner, CA)가 치주 지표를 약간 더 잘 유지하는 경향은 있으나 통계적 유의는 치태지수 중기(MD −0.99)·치주낭깊이 장기(MD −0.93 mm) 2건뿐이며 둘 다 I²=99%로 이질성 극심 — CA가 고정식장치 (Fixed Appliance, FA)보다 치주건강을 더 잘 유지한다고 결론짓기엔 근거 불충분.
+Extreme heterogeneity (I²>90% in all meta-analyses), few RCTs, and near-unity clinical magnitudes mean there is insufficient evidence to claim CA maintains better periodontal health than FA when adequate oral hygiene is maintained.
+
+## 세줄요약
+
+체계적 문헌고찰+메타분석(12편, 메타분석 8편, 612명; Cochrane RoB) — 교정치료 중 단기·중기·장기 치주건강 및 치은퇴축을 투명교정장치(Clear Aligner, CA)와 고정식장치(Fixed Appliance, FA)로 비교.
+
+CA가 통계적으로 유의한 우위를 보인 항목은 중기 치태지수(MD −0.99, I²=99%)와 장기 치주낭깊이(MD −0.93 mm, 단일 연구 기반)뿐; 치은지수·탐침 출혈은 비유의, 치은퇴축 근거는 3개월 추적 연구 1편에 불과.
+
+전 메타분석에서 이질성 극심(I²>90%), RCT 수 적음, 임상적 차이 미미 — 적절한 구강위생 유지 시 CA가 FA보다 치주건강을 더 잘 유지한다는 근거 불충분.
 
 ## 1. Document Information
 

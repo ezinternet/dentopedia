@@ -16,13 +16,23 @@ text_filename: jeon-2026-probioticcmu-gingivitis-rct.txt
 
 Probiotic adjuncts for periodontal/gingival inflammation are an active area where the wiki holds a sibling RCT, [[wiki/periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] (probiotics adjunct to non-surgical periodontal therapy). This Jeon 2026 double-blind, placebo-controlled RCT tests an oral probiotic (OraCMU / ProbioticCMU) as a *standalone* daily supplement in gingivitis/incipient periodontitis — reinforcing the probiotic-for-gingival-inflammation evidence base with a clean placebo comparator and mechanistic (inflammatory-marker, microbiota) readouts. Ingested to strengthen the periodontics probiotic cluster and provide a non-NSPT (supplement-only) data point alongside the NSPT-adjunct sibling.
 
-## One-line Summary
+## Three-line Summary
+
 
 Double-blind placebo-controlled RCT (n=80) of 8-week OraCMU/ProbioticCMU oral probiotic tablets vs placebo in adults with gingivitis/incipient periodontitis: probiotic produced significantly greater reductions in gingival index (GI) and bleeding on probing (BOP) and modulated inflammatory markers and oral microbiota, with no serious adverse events.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 성인 치은염·초기 치주염 환자 80명 대상 이중맹검 위약대조 무작위대조시험(RCT): OraCMU/ProbioticCMU 경구 프로바이오틱 정제를 8주간 1일 2회 복용한 군이 위약군보다 치은지수(GI)·탐침시 출혈(BOP)을 유의하게 더 많이 감소시키고 염증 마커·구강 미생물총을 조절했으며 중대한 이상반응은 없었음.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

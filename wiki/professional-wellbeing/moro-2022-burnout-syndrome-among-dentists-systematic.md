@@ -13,11 +13,21 @@ source_collection: external
 tags: [burnout, prevalence, MBI, emotional-exhaustion, meta-analysis, dentist]
 ---
 
-## One-line Summary
-MBI-only SR+MA (37 studies, 31 meta-analyzed) of dentist burnout: full-syndrome (all 3 subscales) prevalence ~13% (95% CI 0.6–21%, I²=97.1%) but emotional exhaustion (EE) alone ~28% — EE is far more common and the earliest clinical warning sign, making it the operational early-detection target.
+## Three-line Summary
 
-## 한줄요약
-MBI 기반 SR+MA — 치과의사 번아웃 전체 유병률 13%, 그러나 정서적 소진(EE) subscale은 28%. EE 단독 노출이 압도적이고, 이게 번아웃의 진입 신호다.
+MBI-only SR+MA of 37 studies (31 meta-analyzed, search through Jan 2021) establishing dentist burnout prevalence using only the Maslach Burnout Inventory to eliminate instrument heterogeneity.
+
+Full-syndrome burnout (all 3 subscales positive) prevalence is ~13% (95% CI 0.6–21%; I²=97.1%); emotional exhaustion (EE) alone is ~28% (I²=20.7%) — EE is the most prevalent subscale, earliest warning sign, and the operational early-detection target.
+
+No included study met all JBI critical appraisal criteria, and extremely high heterogeneity for the full syndrome (I²=97%) means the 13% point estimate is not directly transferable to any specific country or setting.
+
+## 세줄요약
+
+MBI 단독 포함기준 SR+MA (37편, 31편 메타분석, 검색 2021년 1월): Maslach Burnout Inventory(MBI) 외 도구 배제 — 도구 이질성 제거, 비교가능성 향상.
+
+전체 번아웃 증후군(3개 하위척도 모두 양성) 유병률 13% (I²=97.1%); 정서적 소진(Emotional Exhaustion, EE) 단독 유병률 28% (I²=20.7%) — EE가 가장 흔하고 번아웃의 최초 진입 신호.
+
+포함된 연구 중 JBI 비판적 평가 전 기준 충족 연구 없음; 전체 증후군 I²=97% — 13% 수치를 특정 국가·환경에 직접 적용 시 주의 필요.
 
 ## Summary
 Moro et al. pooled 37 studies (31 meta-analyzed) using only Maslach Burnout Inventory (MBI) data — the deliberate exclusion of non-MBI instruments improves comparability but tightens the sample. Three numbers matter:

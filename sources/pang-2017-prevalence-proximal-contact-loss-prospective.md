@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 food-impaction 카테고리의 장기 전향연구 정점 근거로 인제스트. SR들([[food-impaction/abduo-2022-proximal-contact-loss-qualitative-systematic]])이 인용하는 핵심 1차 prospective 데이터로, 인접치 골지지 수준·상악 위치를 위험인자로 제시한다.
 
-## One-line Summary
-7-year prospective study (150 patients, 234 implant-fixed prostheses on 384 implants): PCL occurred in 59.9% of proximal contacts; lower adjacent-tooth bone support, maxillary position, and mesial site were significant risk factors.
+## Three-line Summary
 
-## 한줄요약
-7년 전향연구(150명, IFP 234개/임플란트 384개): 근접접촉 59.9%에서 PCL 발생; 인접치 골지지 저하·상악 위치·mesial 부위가 유의 위험인자.
+7-year prospective study (150 patients, 234 implant-fixed prostheses on 384 implants): PCL occurred in 59.9% of proximal contacts;
+
+lower adjacent-tooth bone support, maxillary position, and mesial site were significant risk factors.
+
+(incomplete)
+
+## 세줄요약
+
+7년 전향연구(150명, IFP 234개/임플란트 384개): 근접접촉 59.9%에서 PCL 발생;
+
+인접치 골지지 저하·상악 위치·mesial 부위가 유의 위험인자.
+
+(incomplete)
 
 ## 1. Document Information
 - Clinical Oral Implants Research 2017;28(12):1501-1508. DOI 10.1111/clr.13018. First published 8 April 2017. Yonsei University.

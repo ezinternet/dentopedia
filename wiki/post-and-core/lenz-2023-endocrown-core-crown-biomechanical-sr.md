@@ -15,13 +15,21 @@ text_path: /Users/oracleneo/llm-wiki/papers/lenz-2023-endocrown-core-crown-biome
 text_filename: lenz-2023-endocrown-core-crown-biomechanical-sr.txt
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR of 31 in-vitro studies (9 molar, 14 premolar, 8 anterior): endocrowns demonstrate similar or superior survival under fatigue/monotonic load and more favorable failure patterns than (post-)core-crown restorations for severely damaged endodontically treated teeth.
+Systematic review of 31 in-vitro studies across all tooth types (9 molar, 14 premolar, 8 anterior) comparing biomechanical performance of endocrowns vs (post-)core-crown restorations for severely damaged endodontically treated teeth.
 
-## 한줄요약
+Endocrowns showed similar or greater survival under fatigue and monotonic loading in the majority of studies for all tooth types, with more favorable failure modes (reparable adhesive/cohesive failures vs catastrophic root fractures seen with post-retained restorations); endocrowns also generated lower stresses in restorative material for molars/premolars and in luting cement for premolars.
 
-체계적 문헌고찰(31개 실험실 연구, 9구치·14소구치·8전치): 엔도크라운은 근관치료된 심한 치관 손상 치아에서 (포스트-)코어-크라운보다 유사하거나 우수한 생존율과 더 유리한 파절 양상을 보임.
+The first SR to include anterior teeth alongside posterior, this review supports post-free endocrown rehabilitation as the biomechanically viable — often preferable — conservative default for severely damaged endodontically treated teeth.
+
+## 세줄요약
+
+체계적 문헌고찰 (31개 인비트로 연구, 구치 9·소구치 14·전치 8편): 심한 치관 손상 근관치료치에서 엔도크라운과 (포스트-)코어-크라운의 생체역학적 성능을 전치아 유형에 걸쳐 비교.
+
+대다수 연구에서 엔도크라운이 피로·단조하중 모두에서 유사하거나 더 높은 생존율을 보였고, 파절 양상도 더 유리함 (포스트 유지 수복물의 치명적 치근 파절 vs 수리 가능한 접착/내부 파절); 엔도크라운은 구치·소구치의 수복 재료 및 소구치의 접착 시멘트 응력도 더 낮음.
+
+전치를 포함한 첫 번째 통합 SR로, 포스트 없는 엔도크라운 수복이 심한 손상 근관치료치에서 생체역학적으로 실행 가능하며 — 흔히 더 바람직한 — 보존적 기본 선택지임을 지지한다.
 
 ## Summary
 

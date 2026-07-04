@@ -13,11 +13,19 @@ source_collection: external
 tags: [dentin-hypersensitivity, novamin, gluma, tubule-occlusion, sem, bioactive-glass]
 ---
 
-## One-line Summary
-SEM in vitro study (3 groups, n=20) comparing NovaMin (calcium sodium phosphosilicate) and Gluma against an untreated control for dentinal tubule occlusion after a single application.
+## Three-line Summary
+SEM in vitro study (3 groups, n=20 each: NovaMin, Gluma, untreated control) examining dentinal tubule occlusion after single application on acid-etched human premolar dentin discs.
 
-## 한줄요약
-SEM in vitro(3군·각 20): 단회 도포 후 NovaMin과 Gluma의 상아세관 폐쇄를 대조군과 비교.
+Both NovaMin (calcium sodium phosphosilicate) and Gluma increased tubule occlusion versus control, with NovaMin depositing a surface mineral layer and Gluma producing intratubular protein precipitation via distinct mechanisms.
+
+Both agents provide morphologically confirmed tubule occlusion after a single application, supporting their clinical use for DH; the study does not assess durability or clinical pain outcomes.
+
+## 세줄요약
+SEM in vitro(3군·각 n=20): 산 처리된 인간 소구치 상아질 디스크에 NovaMin·Gluma 단회 도포 후 상아세관 폐쇄 비교.
+
+두 제제 모두 대조군 대비 세관 폐쇄율 증가; NovaMin은 표면 광화층, Gluma는 세관 내 단백질 침전으로 기전 상이.
+
+단회 적용으로 형태학적 세관 폐쇄 확인 — 임상 DH 사용 근거 제공; 내구성·통증 결과 미평가가 주요 한계.
 
 ## Summary
 This scanning electron microscopy study compared two mechanistically different desensitizers — NovaMin, a powder-based calcium sodium phosphosilicate bioactive glass, and Gluma, a liquid HEMA/glutaraldehyde agent — for their ability to occlude acid-etched dentinal tubules after one application. Both agents increased the proportion of completely and partially occluded tubules relative to control, with NovaMin depositing a mineral-like surface layer and Gluma producing intratubular precipitation. The study provides the morphological basis for the tubule-occlusion mechanism underlying these agents.

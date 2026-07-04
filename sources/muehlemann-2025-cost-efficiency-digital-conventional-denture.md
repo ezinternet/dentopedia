@@ -17,13 +17,21 @@ text_filename: muehlemann-2025-cost-efficiency-digital-conventional-denture.txt
 
 사용자가 CAD/CAM 치과 기공(dental laboratory) 관련 논문을 요청하여 인제스트. 기존 [[wiki/complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures]]는 CAD/CAM 총의치가 기공·총비용에서 유의하게 저렴하다고 보고했으나, 본 SR+MA는 비용-효율성(cost-efficiency) 메타분석 방법론으로 재검증한 결과 유의한 차이가 없음을 보여 상반된 결론을 제공한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (5 studies, 4 retrospective + 1 prospective, n=184 patients, J Prosthodont 2025) found no statistically significant difference between digital (CAD/CAM) and conventional removable complete denture workflows in laboratory costs (MD -239.77 USD, p=0.106), clinical costs (MD 74.39 USD, p=0.451), total costs (MD -357.76 USD, p=0.258), or number of sessions (MD -1.47, p=0.351); operator experience significantly affected clinical costs and session count.
+Systematic review and meta-analysis (PROSPERO CRD42024607329; 5 studies, 4 retrospective + 1 prospective, n=184 patients/202 RCDs, J Prosthodont 2025) comparing laboratory, clinical, and total costs plus session counts between digital (CAD/CAM milling/3D-printed) and conventional removable complete denture (RCD) workflows, using PPP-adjusted 2025 international USD.
 
-## 한줄요약
+No statistically significant difference was found in laboratory costs (MD −239.77 USD, p=0.106), clinical costs (MD +74.39 USD, p=0.451), total costs (MD −357.76 USD, p=0.258), or number of sessions (MD −1.47, p=0.351); however, operator experience significantly affected clinical costs (Chi²=260.9, p<0.0001) and session count — experienced clinicians trended toward fewer sessions with digital workflows.
 
-SR+MA (5편, 후향적 4 + 전향적 1, n=184명, J Prosthodont 2025): 디지털(CAD/CAM) 대 전통(conventional) 총의치(완전의치) 제작 워크플로우 간 기공비(laboratory cost, MD -239.77달러, p=0.106), 임상비(clinical cost, MD 74.39달러, p=0.451), 총비용(total cost, MD -357.76달러, p=0.258), 내원횟수(sessions, MD -1.47, p=0.351) 모두 통계적으로 유의한 차이 없음; 술자 숙련도(operator experience)는 임상비와 내원횟수에 유의한 영향을 미침.
+Critical limitations include: initial digital equipment capital investment not captured in any included study (underestimating true digital cost), substantial heterogeneity (I²=74–98%), all 5 studies at moderate-to-high risk of bias, and absence of quantitative patient-centered outcome data — conclusions reflect resource utilization, not patient effectiveness.
+
+## 세줄요약
+
+체계적 문헌고찰 + 메타분석 (PROSPERO CRD42024607329; 5편, 후향적 4+전향적 1, n=184명/202개 총의치, J Prosthodont 2025) — 디지털 (CAD-CAM 밀링/3D 프린팅) 대 전통적 총의치 (Removable Complete Denture, RCD) 워크플로우의 기공비·임상비·총비용·내원횟수를 PPP 조정 2025 국제달러로 비교.
+
+기공비 (MD −239.77달러, p=0.106)·임상비 (MD +74.39달러, p=0.451)·총비용 (MD −357.76달러, p=0.258)·내원횟수 (MD −1.47, p=0.351) 모두 통계적 유의차 없음; 그러나 술자 숙련도 (Operator Experience)가 임상비 (Chi²=260.9, p<0.0001) 및 내원횟수에 유의한 영향 — 숙련 술자는 디지털 워크플로우에서 내원 감소 경향.
+
+핵심 한계: 디지털 장비 초기 투자비용 미포함(실제 디지털 비용 과소평가), 이질성 높음 (I²=74–98%), 5편 모두 중등도-고위험 비뚤림, 환자 중심 결과 데이터(OHRQoL 등) 부재 — 결론은 환자 효과가 아닌 자원 활용을 반영.
 
 ## 1. Document Information
 

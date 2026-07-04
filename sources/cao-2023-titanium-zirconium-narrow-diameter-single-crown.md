@@ -13,13 +13,21 @@ source_collection: external
 
 신규 [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] 의 재료 축(TiZr alloy)을 담당. NDI의 기계적 강도 우려를 TiZr(Roxolid)로 해결할 수 있는지 single-crown 시나리오로 검증한 근거. [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] 의 "재료 무관 일관성"을 보강(reinforces).
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (8 studies qualitative, 7 quantitative; 256 Ti-Zr NDIs) showing titanium-zirconium narrow-diameter implants for single crowns achieve 97.5% survival and 97.2% success at up to 36 months, with no difference from commercially pure titanium.
+SR+MA (PROSPERO CRD42022324205; 8 qualitative, 7 quantitative studies; 256 Ti-Zr narrow-diameter implants ≤3.5 mm, ≥12-month follow-up, single crowns) evaluating survival, success, and marginal bone loss (MBL) of titanium-zirconium alloy (Roxolid) narrow-diameter implants.
 
-## 한줄요약
+Ti-Zr narrow-diameter implants achieved 97.5% cumulative survival (95% CI 94.5–98.9%) and 97.2% success (95% CI 94.2–98.7%) at up to 36 months with 1-year MBL of 0.44 mm (95% CI 0.36–0.52 mm); no significant differences from commercially pure titanium implants were found.
 
-8편(정량 7편, TiZr NDI 256개) 체계적 고찰·메타분석. 단일 크라운을 지지하는 티타늄-지르코늄(Ti-Zr) 좁은 직경 임플란트는 최대 36개월 생존율 97.5%·성공률 97.2%로 순수 티타늄(cpTi)과 차이 없었고 1년 변연골소실 0.44mm — 단기 결과는 우수하나 장기 근거 부족.
+Ti-Zr alloy narrow-diameter implants are a reliable option for single-crown restorations in the short term, addressing mechanical strength concerns of cpTi narrow implants, though follow-up beyond 36 months is lacking.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (8편 질적, 7편 정량; Ti-Zr 좁은직경임플란트(NDI, Narrow-Diameter Implant) ≤3.5 mm·≥12개월·단일 크라운 256개): 티타늄-지르코늄 합금(Roxolid) NDI의 생존율·성공률·변연골소실(MBL, Marginal Bone Loss) 평가.
+
+Ti-Zr NDI 최대 36개월 누적 생존율 97.5%(95% CI 94.5–98.9%)·성공률 97.2%(95% CI 94.2–98.7%), 1년 MBL 0.44 mm(95% CI 0.36–0.52 mm); 순수 티타늄(cpTi)과 생존율·성공률·MBL 모두 유의한 차이 없음.
+
+Ti-Zr 합금 NDI는 단기 단일 크라운 보철에서 신뢰할 수 있는 선택지로 cpTi의 기계적 강도 우려를 해소하나, 36개월 초과 장기 데이터가 부족하다.
 
 ## 1. Document Information
 - Journal: British Journal of Oral and Maxillofacial Surgery 61(7):403–410 (2023); accepted May 7, 2023

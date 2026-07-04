@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-3D FEA comparing three implant retention systems (n=3 models, 100N loads): novel screwless hook-retained prosthesis (HRP) showed lower implant fixture stress (21.33 MPa vertical, 187.50 MPa oblique) than screw-and-cement system (SCRP: 32.91 / 262.24 MPa) and comparable to cementless screw-retained (SRP: 21.92 / 187.64 MPa), with equivalent peri-implant bone stress across all groups.
+3D FEA (ANSYS 2022 R2; 3 single-crown models on NeoBiotech IS-III Ø4.0 × 10 mm; 100 N vertical and oblique loading) comparing SCRP, SRP, and novel screwless hook-retained prosthesis (HRP) — first biomechanical evaluation of the HRP system.
 
-## 한줄요약
+HRP produced lower implant fixture stress than SCRP under both loading conditions (21.33 vs 32.91 MPa vertical; 187.50 vs 262.24 MPa oblique) and was nearly identical to SRP; peri-implant bone stress was equivalent across all three systems.
 
-3D 유한요소분석에서 신규 후크유지 보철(HRP)의 임플란트 최대 폰미제스 응력이 스크류-시멘트 유지(SCRP)보다 낮고 시멘트리스 스크류유지(SRP)와 동등하여, HRP가 기존 SCRP의 생역학적 대안이 될 수 있음을 최초로 보고함.
+HRP offers a biomechanically viable alternative to SCRP, potentially combining SRP's stress-distribution advantage with freedom from screw-access complications; clinical confirmation is needed.
+
+## 세줄요약
+
+SCRP·SRP·신규 후크유지 보철(Hook-Retained Prosthesis, HRP)을 비교한 첫 생역학 연구인 3D 유한요소분석(ANSYS 2022 R2; NeoBiotech IS-III Ø4.0×10 mm; 100 N 수직·사방 하중).
+
+HRP는 수직(21.33 vs 32.91 MPa)·사방(187.50 vs 262.24 MPa) 모두에서 SCRP보다 임플란트 고정체 응력이 낮고 SRP와 거의 동등; 주위골 응력은 세 그룹 모두 동등.
+
+HRP는 SCRP의 생역학적 대안으로 타당하며 스크류 접근홀 없이 SRP의 응력 분산 이점을 가질 수 있으나, 임상적 확인 필요.
 
 ## Summary
 

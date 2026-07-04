@@ -13,11 +13,19 @@ source_collection: external
 tags: [socket-seal-surgery, SSS, FGG, collagen-matrix, ridge-preservation, esthetic-zone, RCT-SR, TSA]
 ---
 
-## One-line Summary
-SR+MA (Int J Implant Dent 2021): 6 RCTs, 135 sockets in the esthetic zone for socket seal surgery — FGG (without bone fill) shows the best buccal/lingual height preservation; CM vs. FGG has no clinically significant difference; TSA indicates evidence is still insufficient and additional RCTs are needed.
+## Three-line Summary
+SR+MA with trial sequential analysis (TSA; Int J Implant Dent 2021) of 6 RCTs evaluating socket seal surgery (SSS) techniques in 135 esthetic-zone extraction sockets, comparing FGG, collagen matrix (CM), collagen sponge, acellular dermal matrix, and PTFE membrane.
 
-## 한줄요약
-sr+ma(Int J Implant Dent 2021): 6 RCT, 135소켓 심미부위 SSS; FGG(무이식) 협/설측 높이 보존 최우수; CM vs FGG 임상적 차이 없음; TSA: 근거 불충분, 추가 RCT 필요.
+FGG without bone fill showed the best buccal and lingual bone height preservation; CM vs FGG with bone fill showed no clinically significant dimensional differences; TSA confirmed the evidence base is still insufficient and further RCTs are needed to establish superiority.
+
+No single SSS technique is proven superior overall, and technique selection should be guided by site-specific soft-tissue goals and clinician experience rather than current evidence alone.
+
+## 세줄요약
+시험 순차 분석 (Trial Sequential Analysis, TSA) 포함 SR+MA (Int J Implant Dent 2021): 심미영역 발치와 135개에서 소켓실링 수술 (SSS) 기법을 비교한 6개 RCT — FGG, 콜라겐 기질 (CM), 콜라겐 스펀지, 무세포 진피 기질, PTFE막 비교.
+
+FGG (골이식 없음)가 협·설측 골높이 보존에서 가장 우수했으며, 골이식 동반 CM vs FGG는 임상적으로 유의한 차원 차이 없음; TSA상 현 근거는 불충분하여 추가 RCT 필요.
+
+어떤 SSS 기법도 전반적 우월성이 입증되지 않았으므로, 기법 선택은 현 근거보다 부위별 연조직 목표와 술자 경험에 따라야 한다.
 
 ## Summary
 Systematic review with meta-analysis and trial sequential analysis (TSA) of 6 RCTs evaluating socket seal surgery (SSS) techniques in the esthetic zone. Techniques compared: FGG, collagen matrix (CM), collagen sponge (CS), acellular dermal matrix (ADM), and PTFE membrane. No single technique proven superior; FGG shows best evidence for height but data insufficient.

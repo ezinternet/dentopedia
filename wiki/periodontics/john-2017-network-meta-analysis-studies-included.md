@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain; all adjuncts add ~0.3-0.35 mm CAL over 6-12 months vs SRP alone, with publication bias inflating effects by ~20%.
+Star-shaped frequentist network meta-analysis (61 RCTs, 74 SRP+adjunct vs SRP-alone comparisons, 9 adjuncts) reusing the 2015 ADA guideline RCT library to generate 36 indirect head-to-head comparisons.
 
-## 한줄요약
+No adjunct was statistically superior to any other; all 36 pairwise differences were non-significant with wide CIs; adjuncts improved CAL by only ~0.3–0.35 mm over SRP alone at 6–12 months, and publication bias inflated observed effects by ~20%.
 
-별형 네트워크 메타분석(RCT 61편, 74개 비교, 보조요법 9종): SRP 단독 대비 어떤 보조요법도 임상부착수준(CAL) 이득에서 다른 보조요법보다 통계적으로 우월하지 않았고, 모든 보조요법은 6-12개월간 약 0.3-0.35 mm의 CAL 이득만 추가했으며 출판편향이 효과를 약 20% 부풀렸다.
+Clinicians should not rank one adjunct above another based on current evidence — the marginal CAL gain (~0.3 mm) is a surrogate outcome of uncertain patient-perceived value.
+
+## 세줄요약
+
+별형 빈도주의 네트워크 메타분석(RCT 61편, 74개 비교, 보조요법 9종): 2015년 ADA 가이드라인 RCT 풀을 재활용해 간접 비교 36쌍을 생성.
+
+어떤 보조요법도 다른 보조요법보다 통계적으로 우월하지 않았으며(전 비교 쌍 비유의, 넓은 CI), SRP 단독 대비 CAL 이득은 ~0.3–0.35 mm에 불과하고 출판편향이 효과를 약 20% 과대평가함.
+
+현 근거로는 특정 보조요법이 다른 것보다 우월하다고 결론낼 수 없으며, ~0.3 mm CAL 향상의 임상적 의미는 불확실하다.
 
 ## Summary
 

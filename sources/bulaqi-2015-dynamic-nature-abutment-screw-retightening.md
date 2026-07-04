@@ -16,13 +16,21 @@ text_filename: bulaqi-2015-dynamic-nature-abutment-screw-retightening.txt
 
 기존 settling-effect 클러스터([[prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes]] static-loading settling, [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] subsidence, [[prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] dynamic fatigue)는 세틀링이펙트의 *결과*(preload 손실량·removal torque 변화)는 측정하지만 *왜* 세틀링이 일어나고 *재조임(retightening)이 왜 그것을 회복시키는지*의 메커니즘은 비워둔다. 본 FEA 논문은 마찰계수(coefficient of friction)와 표면 거칠기가 settling effect를 어떻게 구동하는지, 그리고 retightening이 settling을 줄이되 preload는 거의 못 올리는 이유를 동역학 시뮬레이션으로 설명해 그 메커니즘 공백을 채운다. [[prosthetic-materials/nithyapriya-2018-factors-loss-preload-dental-implants]]의 "factors of preload loss" 서술을 정량적 메커니즘으로 보강.
 
-## One-line Summary
+## Three-line Summary
 
-Finite element analysis (dynamic simulation, single Straumann implant–abutment–crown model) showing that rougher thread surfaces (higher coefficient of friction) increase the settling effect and reduce remaining torque/preload, while retightening reduces the settling effect but has only an insignificant effect on preload — with the retightening benefit amplified at high friction.
+Finite element analysis dynamic simulation (Straumann implant–abutment–crown model, fine/regular/rough thread surfaces) modelling the full sequence of tightening → relaxation → retightening → second relaxation at varying coefficients of friction.
 
-## 한줄요약
+Rougher thread surfaces (higher friction coefficient) increased the settling effect and reduced remaining torque and preload; retightening reduced the settling effect but had only an insignificant effect on preload recovery — and the retightening benefit was amplified at high friction coefficients.
 
-유한요소해석(FEA 동역학 시뮬레이션, Straumann 임플란트-지대주-크라운 단일 모델) — 나사산 표면이 거칠수록(마찰계수↑) 세틀링이펙트가 커지고 잔류 토크·프리로드가 감소하며, 재조임(retightening)은 세틀링이펙트를 줄이지만 프리로드는 거의 못 올리고, 이 재조임 효과는 마찰이 높을수록 더 커진다.
+The study explains mechanistically why "re-torque after 10 min" protocols improve seating without meaningfully restoring clamping preload; absolute torque/preload values are not recoverable (abstract-only), and findings apply to a single Straumann geometry.
+
+## 세줄요약
+
+Straumann 임플란트-지대주-크라운 유한요소해석(Finite Element Analysis, FEA) 동역학 시뮬레이션 — 나사산 표면 거칠기(fine/regular/rough)별 마찰계수를 변수로 조임→이완→재조임→2차이완 전 과정을 모델링.
+
+나사산이 거칠수록(마찰계수↑) 세틀링이펙트(Settling Effect) 증가·잔류 토크·프리로드 감소; 재조임(Retightening)은 세틀링이펙트를 줄이지만 프리로드 회복 효과는 미미 — 이 재조임 효과는 마찰계수가 높을수록 더 커짐.
+
+"10분 후 재조임" 프로토콜이 안착(seating)을 개선하되 클램핑력(Preload)은 거의 못 올리는 이유를 역학적으로 설명; 절대 토크·프리로드값은 초록만으로 미회수, 단일 Straumann 형상 한정 결과.
 
 ## 1. Document Information
 

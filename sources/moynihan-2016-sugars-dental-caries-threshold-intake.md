@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Provides the empirical dose-response foundation for the WHO 2015 free-sugars guidelines (<10% and <5% energy), directly informing [[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]] which uses the same thresholds to model SSB-tax impact on caries; both papers by Moynihan.
 
-## One-line Summary
-Narrative review (65 papers, 54 studies; 8 cohort studies; children and adults; all countries) synthesizing the evidence base for the WHO 2015 free-sugars guideline, showing moderate-quality cohort evidence that limiting free sugars to ≤10% of energy intake reduces — but does not eliminate — dental caries, with low-quality ecologic evidence supporting an additional benefit below 5% energy.
+## Three-line Summary
 
-## 한줄요약
-Narrative review: WHO 2015 자유당 가이드라인 근거 종합 — 자유당 ≤10% 에너지가 우식 감소(중등도 근거), <5%에서 추가 이득(낮은 근거); 에너지의 10% 이하에서도 우식이 완전 소실되지는 않음.
+Narrative review (65 papers, 54 studies;
+
+8 cohort studies;
+
+children and adults; all countries) synthesizing the evidence base for the WHO 2015 free-sugars guideline, showing moderate-quality cohort evidence that limiting free sugars to ≤10% of energy intake reduces — but does not eliminate — dental caries, with low-quality ecologic evidence supporting an additional benefit below 5% energy.
+
+## 세줄요약
+
+Narrative review: WHO 2015 자유당 가이드라인 근거 종합 — 자유당 ≤10% 에너지가 우식 감소(중등도 근거), <5%에서 추가 이득(낮은 근거);
+
+에너지의 10% 이하에서도 우식이 완전 소실되지는 않음.
+
+(incomplete)
 
 ## 1. Document Information
 - Advances in Nutrition 2016;7(1):149–156. Published 2016-01-15. DOI: 10.3945/an.115.009365.

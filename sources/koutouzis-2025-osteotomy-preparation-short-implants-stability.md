@@ -18,13 +18,23 @@ abstract-only — full text not retrieved
 
 Rittipakorn-2025 clockwise OD 논문의 reference surveillance 인제스트. OD의 IT 이점이 임플란트 직경 의존적임을 밝혀 narrow implant에서는 OD를 써도 유의한 IT 이점이 없음을 보여줌. Rittipakorn과 Mercier의 cadaveric 데이터에 대한 diameter-dependent refinement 역할. [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] 결과의 임상 적용 범위를 한정.
 
-## One-line Summary
+## Three-line Summary
 
-Animal study (90 short 6mm implants, porcine tibia) showing OD significantly increases insertion torque only for wide (5.4mm) implants vs standard drilling; narrow (4.2mm) implants show no IT advantage.
 
-## 한줄요약
+Animal study (90 short 6mm implants, porcine tibia) showing OD significantly increases insertion torque only for wide (5.4mm) implants vs standard drilling;
+
+narrow (4.2mm) implants show no IT advantage.
+
+(incomplete)
+
+## 세줄요약
+
 
 동물 연구(6mm 단임플란트 90개, 돼지 경골): OD는 광폭(5.4mm) 임플란트에서만 유의하게 높은 삽입 토크를 보이며, 세폭(4.2mm)에서는 표준 드릴링 대비 IT 이점이 없었다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - **Title:** The Effect of Osteotomy Preparation Techniques and Implant Diameter on Primary Stability and the Bone-Implant Interface of Short Implants (6 mm)

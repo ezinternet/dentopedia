@@ -13,13 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Case series (5 patients, 23 surgical sites, severe atrophic ridges with customized titanium mesh) showing the modified "Poncho" technique (MPT) achieved uneventful soft-tissue healing at 95.7% of sites (1/23 partial dehiscence) with Landry's healing index rising from 3 ± 0.47 to 4.69 ± 1.06 over 30 days.
+Case series (5 patients, 23 surgical sites, severe atrophic ridges) introducing the modified "Poncho" technique (MPT) — a multilayer flap design with double-suture closure — for major flap advancement over digitally customized titanium mesh in GBR.
 
-## 한줄요약
+MPT achieved uneventful soft-tissue healing at 95.7% of sites (1/23 partial dehiscence); Landry's healing index rose from 3 ± 0.47 to 4.69 ± 1.06 over 30 days.
 
-심한 위축성 치조제·맞춤형 티타늄 메시 5명·23부위 증례군. 변형 "판초"기법(MPT)으로 95.7% 부위에서 합병증 없는 연조직 치유(23부위 중 1부위 부분 열개), Landry 치유지수 30일간 3±0.47→4.69±1.06로 상승.
+MPT is a promising reproducible protocol for tension-free primary closure over customized Ti-mesh, but evidence is limited to a small case series with 30-day follow-up and no bone gain or implant outcome data.
+
+## 세줄요약
+
+디지털 맞춤형 티타늄 메시 GBR에서 주요 피판 전진을 위한 다층 피판 설계 + 이중 봉합(변형 "판초"기법, MPT)을 소개한 증례군(5명, 23부위, 심한 위축 치조제).
+
+MPT로 95.7% 부위에서 합병증 없는 치유(23부위 중 1부위 부분 열개), Landry 치유지수 30일간 3±0.47→4.69±1.06 상승.
+
+MPT는 맞춤형 Ti-메시 상방 무장력 일차 봉합의 유망한 프로토콜이나, 30일 추적 소규모 증례군으로 골증가량·임플란트 결과 데이터 없음.
 
 ## Summary
 

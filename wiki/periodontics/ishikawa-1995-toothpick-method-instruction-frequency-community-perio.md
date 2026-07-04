@@ -16,13 +16,21 @@ text_filename: ishikawa-1995-toothpick-method-instruction-frequency-community-pe
 tags: [toothpick-method, watanabe-method, toothbrushing-instruction, community-program, gingivitis, CPITN, oral-hygiene-instruction]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Community comparative intervention (n=31 three-time vs n=40 single Watanabe toothpick-method instruction, 1-year follow-up): repeated instruction significantly reduced gingival redness/swelling and gave higher CPITN improvement, while single instruction did not change gingival inflammation at 1 year — repeated instruction outperformed single.
+Community comparative intervention (n=31 three-time vs n=40 single Watanabe toothpick-method instruction, 1-year follow-up, non-randomized, abstract-only) in a Japanese small-town oral-health program.
 
-## 한줄요약
+Gingival redness/swelling significantly decreased at 1, 2, and 12 months in the three-time group only; CPITN improvement ratio was higher in three-time group; BOP improved in both groups.
 
-지역사회 비교중재연구(와타나베 이쑤시개법 칫솔질 지도, 3회 반복 n=31 vs 1회 n=40, 1년 추적): 반복 지도군만 치은 발적·종창이 유의 감소하고 CPITN 개선율이 더 높았으며, 1회 지도군은 1년 후 치은 염증이 변하지 않음 — 반복 지도가 단일 지도보다 우월.
+Three monthly reinforcement sessions outperformed a single instruction session for resolving gingival inflammation; patient self-reported greater brushing activity and satisfaction with the repeated program.
+
+## 세줄요약
+
+일본 지역사회 비교중재연구(와타나베 이쑤시개법 칫솔질 지도, 3회 반복 n=31 vs 1회 n=40, 1년 추적, 비무작위, 초록 수준).
+
+3회 반복 지도군만 1·2·12개월 치은 발적·종창이 유의 감소, CPITN 개선율도 더 높음; BOP는 양 군 모두 개선.
+
+3회 월별 강화교육이 단일 지도보다 치은 염증 해소에 우월하며, 반복 지도군이 칫솔질 활동성과 프로그램 만족도도 더 높음.
 
 ## Summary
 

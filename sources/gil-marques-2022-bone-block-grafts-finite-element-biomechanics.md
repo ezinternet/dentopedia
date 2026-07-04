@@ -13,13 +13,23 @@ source_collection: external
 
 Part of a recent GBR / wound-closure collection. This finite-element study models how bone-block graft shape (right-angled vs rounded) and suture tension drive soft-tissue displacement and dehiscence risk during split-bone-block regeneration — giving a biomechanical basis for the primary-closure and flap-tension concerns raised in [[suture-wound-closure/marsidi-2020-measuring-forces-suture-techniques-wound-closure]] and [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]].
 
-## One-line Summary
+## Three-line Summary
 
-Finite-element analysis combining two block-graft designs (right-angled vs rounded) and two suture tensions (0.05 vs 0.2 N): all soft-tissue stress/deformation/displacement increased at 0.2 N; block design did not change transferred stress or deformation, but the right-angled/chamfer design produced ~25% greater mucosal displacement (dehiscence tendency) — so low suture tension and a rounded block are recommended.
 
-## 한줄요약
+Finite-element analysis combining two block-graft designs (right-angled vs rounded) and two suture tensions (0.05 vs 0.2 N): all soft-tissue stress/deformation/displacement increased at 0.2 N;
+
+block design did not change transferred stress or deformation, but the right-angled/chamfer design produced ~25% greater mucosal displacement (dehiscence tendency) — so low suture tension and a rounded block are recommended.
+
+(incomplete)
+
+## 세줄요약
+
 
 블록 이식재 형태(직각 vs 라운드)와 봉합장력(0.05 vs 0.2 N)을 조합한 유한요소해석: 0.2 N에서 모든 연조직 응력·변형·변위가 증가했고, 블록 형태는 전달 응력·변형을 바꾸지 않았으나 직각/챔퍼 형태가 점막 변위를 약 25% 더 키워(열개 경향), 낮은 봉합장력과 라운드 형태가 권장된다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

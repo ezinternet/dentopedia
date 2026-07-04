@@ -10,7 +10,7 @@ pdf_filename: gonzalez-perez-2023-botulinum-toxin-percutaneous-needle-electrolys
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 RCT (n=52, Seville) — BTA (100 U) and percutaneous needle electrolysis (PNE) both significantly reduce chronic masticatory myalgia pain (VAS 6.5 → ~2.6) and improve MIO at 28 days, sustained through 90 days, with no superiority of one over the other.
 
 ## 1. Document Information

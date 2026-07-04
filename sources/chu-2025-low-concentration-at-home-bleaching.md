@@ -16,13 +16,21 @@ text_filename: chu-2025-low-concentration-at-home-bleaching.txt
 
 Directly compares 3% HP (Invisalign whitening) vs 8% CP (Beyke iWhite) — two low-concentration at-home products with matched effective peroxide content — in a well-designed split-mouth RCT. Fills a specific gap not addressed by [[tooth-whitening/terra-2025-effect-at-home-agents-nma]] (which could not separate product-specific effects); the SEM and pH analysis add mechanistic depth.
 
-## One-line Summary
+## Three-line Summary
 
-Split-mouth triple-blind RCT (n=22) comparing 3% HP vs 8% CP at-home bleaching found 3% HP achieved greater ΔE (5.39 vs 4.75, p<0.05) while 8% CP caused less sensitivity (p<0.05); both improved OHRQoL and exceeded clinical acceptability (ΔE>1.8).
+Split-mouth triple-blind RCT (n=22 adults) comparing 3% hydrogen peroxide (Invisalign whitening gel) vs 8% carbamide peroxide (Beyke iWhite) at-home bleaching trays over 2 weeks.
 
-## 한줄요약
+3% HP achieved greater whitening (ΔE 5.39 vs 4.75, p<0.05) but caused more tooth sensitivity; 8% CP produced less sensitivity (p<0.05) and less SEM enamel alteration due to its alkaline pH; both products exceeded the clinical acceptability threshold (ΔE >1.8) and significantly improved OHRQoL.
 
-분할구강 삼중맹검 RCT(n=22)에서 3% HP는 8% CP보다 더 높은 색 변화(ΔE 5.39 vs 4.75, p<0.05)를, 8% CP는 더 낮은 민감도(p<0.05)를 보였으며 두 제품 모두 임상적 수용 기준을 초과했다.
+When minimal sensitivity is the priority, 8% CP (iWhite) is preferable; when maximum whitening is the goal, 3% HP (Invisalign) has a modest but significant advantage — both are effective low-concentration options; small n=22 and retrospective registration are key limitations.
+
+## 세줄요약
+
+분할구강 삼중맹검 RCT(n=22): 3% 과산화수소(HP, Invisalign 미백젤) vs 8% 카바마이드 과산화물(CP, Beyke iWhite) 가정용 미백 트레이를 2주간 비교.
+
+3% HP는 더 높은 색 변화(ΔE 5.39 vs 4.75, p<0.05)를 보였으나 지각과민이 더 심했고, 8% CP는 민감도가 낮고(p<0.05) 알칼리성 pH로 SEM상 법랑질 변화 더 적음; 두 제품 모두 임상적 수용 기준(ΔE>1.8) 초과·OHRQoL 유의 향상.
+
+민감도 최소화가 목표라면 8% CP, 최대 미백이 목표라면 3% HP가 미세한 우위 — 두 제품 모두 유효한 저농도 선택지; n=22 소규모·소급 등록이 주요 한계.
 
 ## 1. Document Information
 

@@ -13,12 +13,21 @@ source_collection: external
 tags: [miniscrew, TAD, reuse, sterilization, failure-rate, insertion-torque, fracture-torque]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis (18 studies; 13 retrieved+sterilized, 5 unused+sterilized) of reused orthodontic miniscrews: in vitro insertion, removal, and fracture torque show no significant difference vs new miniscrews, but reused miniscrews have a significantly higher clinical failure rate (RR 0.46, 95% CI 0.24–0.69), with sterilization method, insertion technique, and patient anatomy as modifying factors.
+SR+MA of 18 studies (13 retrieved-and-sterilized, 5 unused-and-sterilized) comparing reused orthodontic miniscrews against new ones on mechanical and clinical outcomes.
 
-## 한줄요약
-SR+MA (18편): 재사용 미니스크류는 체외 삽입·파절 토크에서 새 것과 유의한 차이 없으나, 임상 실패율은 유의하게 높음 (위험비 0.46, 95% CI 0.24–0.69); 멸균 방법·삽입 술기·해부학적 요인이 결과에 영향.
+In vitro insertion, removal, and fracture torque showed no significant difference between retrieved and new miniscrews; however, meta-analysis of clinical studies found reused miniscrews had a significantly higher failure rate (RR 0.46, 95% CI 0.24–0.69).
+
+Mechanical properties are preserved by sterilization alone, but real-world clinical reuse carries higher failure risk — sterilization method, insertion technique, and patient anatomy all modify outcomes.
+
+## 세줄요약
+
+재사용 교정용 미니스크류 대 신품을 기계적·임상적으로 비교한 SR+MA (18편: 회수-멸균 13편, 미사용-멸균 5편).
+
+체외 삽입·제거·파절 토크는 새 것과 유의한 차이 없으나, 임상 연구 메타분석에서 재사용 스크류의 실패 위험비는 0.46 (95% CI 0.24–0.69)으로 유의하게 높음.
+
+멸균만으로는 역학적 특성이 보존되지만 실제 임상 재사용 시 실패 위험이 높아짐 — 멸균 방법·삽입 술기·환자 해부학이 결과를 조절.
 
 ## Summary
 A systematic review and meta-analysis of 18 studies evaluating whether orthodontic miniscrews can be retrieved from patients, sterilized, and successfully reused. In vitro mechanical testing showed **no significant difference** in insertion torque, removal torque, or fracture torque between retrieved-and-sterilized vs new miniscrews. However, meta-analysis of clinical studies revealed that **reused miniscrews have a significantly higher failure rate** (RR 0.46, 95% CI 0.24–0.69). Sterilization alone increased insertion torque but did not compromise fracture resistance. Outcomes are influenced by sterilization method, insertion technique, and patient-specific anatomy.

@@ -16,13 +16,21 @@ relations:
     target: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Narrative review (Periodontology 2000, 27 pages) comprehensively cataloguing every major diagnostic measure used in lifelong periodontal and peri-implant follow-up — probing, %BOP, radiography, crevicular/salivary biomarkers, microbiology, RFA/ISQ, ultrasound — and integrating SPT interval algorithm, PRA/IDRA risk tools, compliance data, and AI perspectives into one framework.
+Narrative review (Periodontology 2000, 2024, 27 pages; Ramseier, University of Bern) cataloguing the full diagnostic toolkit for lifelong periodontal and peri-implant maintenance — probing, %BOP, radiography, biomarkers, microbiology, RFA/ISQ, ultrasound — in one integrated framework.
 
-## 한줄요약
+The SPT interval algorithm (11,842 visits/883 patients) yields individualized 3–12 month recall; smoking-adjusted %BOP thresholds are <20–23% (non-/former smokers) vs <16% (smokers); and early SPT attenders lost 0.60 vs 1.45 teeth over 20 years vs late attenders (p<0.0001).
 
-내러티브 리뷰(Periodontology 2000, 27쪽) — 치주·임플란트 평생 유지관리의 모든 진단 도구(탐침·BoP·방사선·바이오마커·미생물 검사·RFA·초음파)와 SPT 주기 알고리즘(perio-tools.com/spt), PRA·IDRA 위험도 도구, 20년 치아 상실 데이터, AI 전망까지 통합 정리한 포괄적 참고문헌.
+Peri-implant stability criteria are PPD <5 mm + no BOP/suppuration + <2 mm bone loss from baseline; probing force ≤0.15 N (vs 0.25 N for teeth) avoids false-positive BOP around implants.
+
+## 세줄요약
+
+내러티브 리뷰(Periodontology 2000, 2024, 27쪽; Ramseier, 베른 대학): 치주·임플란트 평생 유지관리를 위한 전체 진단 도구(탐침·출혈지수·방사선·바이오마커·미생물·RFA/ISQ·초음파)를 단일 통합 프레임워크로 정리.
+
+지지치주치료(Supportive Periodontal Therapy, SPT) 주기 알고리즘(1만1842회/883명)은 개인화된 3–12개월 주기를 산출; 흡연자 출혈지수(BleeedingOnProbing, BOP) 임계값 <16%(비흡연자 <20–23%); 조기 SPT 이행군은 20년 치아 상실 0.60 vs 지연군 1.45개(p<0.0001).
+
+임플란트 주위 안정 기준은 탐침깊이(Probing Depth, PPD) <5 mm + BOP·화농 없음 + 골수준 변화 <2 mm; 임플란트 주위 탐침 압력은 ≤0.15 N(치아 0.25 N 대비)이 위음성 BOP를 방지한다.
 
 ## Summary
 

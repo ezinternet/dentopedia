@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 NCCL 형태(wedge vs saucer)와 병인(교합과부하 vs 칫솔질) 연결을 stereomicroscope로 검증. [[nccl/goodacre-2022-nccl-morphology-etiology-restoration-guidelines]]의 형태 분류와 깊이 진행 데이터를 영상학적으로 보강.
 
-## One-line Summary
+## Three-line Summary
+
 Stereomicroscopic study of 27 extracted teeth with NCCLs showing 59% wedge-shaped (scratches/furrows/cracks, linked to occlusal+brushing) vs 37% saucer-shaped (smooth walls), with 67% under 500 µm depth.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 발치 NCCL 27개 stereomicroscope 연구 — wedge형 59%(긁힘·균열, 교합+칫솔질 연관)·saucer형 37%(매끈한 벽), 깊이의 67%가 500µm 미만.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Diagnostics (MDPI) 2023;13:2590. DOI 10.3390/diagnostics13152590. Open access (CC BY). Univ of Medicine and Pharmacy of Craiova, Romania.

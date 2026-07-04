@@ -11,7 +11,7 @@ pdf_filename: floratos-2017-intraoperative-cbct-calcified-canals.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 3-case series: intraoperative CBCT used to localize calcified/obliterated canals when clinical exploration fails — gutta-percha reference points placed, CBCT taken, distance to actual canal orifice measured in 3D.
 
 ## 1. Document Information

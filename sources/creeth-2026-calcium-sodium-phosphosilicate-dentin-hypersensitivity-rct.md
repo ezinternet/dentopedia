@@ -16,13 +16,23 @@ text_filename: creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivit
 
 8주 examiner-blind RCT로 5% calcium-sodium phosphosilicate (CSPS, NovaMin — Sensodyne Repair & Protect 기술) 무수 치약의 **단기/시간경과 onset**을 특성화 — Day 3부터 유의한 상아질 과민증 (Dentine Hypersensitivity, DH) 완화가 시작되어 8주까지 증가. 동일 Haleon 그룹의 무수 불소 치약 vs 표준 NaF 치약 RCT인 [[wiki/dentin-hypersensitivity/qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct]]를 같은 Schiff·Yeaple·56일 설계로 보강하며, bioactive glass 치약 효능 SR [[wiki/dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]]에 임상 time-course 근거를 더한다. (abstract-only — full text not retrieved.)
 
-## One-line Summary
+## Three-line Summary
 
-8-week examiner-blind parallel RCT (217 screened / 215 completed): anhydrous 5% CSPS+NaF toothpaste reduced examiner-assessed DH (Schiff + Yeaple tactile) significantly at every timepoint from Day 3 onward and significantly more than conventional NaF-silica toothpaste (all p<0.001), with relief growing over 8 weeks; DHEQ-48 OHRQoL improved but treatment difference NS.
+8-week examiner-blind parallel RCT (217 screened / 215 completed, abstract-only): anhydrous 5% calcium-sodium phosphosilicate (CSPS) + NaF toothpaste vs conventional NaF-silica toothpaste in adults with dentine hypersensitivity (DH), twice-daily brushing.
 
-## 한줄요약
+CSPS toothpaste significantly reduced DH (Schiff evaporative + Yeaple tactile) from Day 3 onward at all timepoints (all p<0.001 vs reference), with the magnitude of relief growing through 8 weeks.
 
-8주 examiner-blind 평행 RCT (스크리닝 217명 / 완료 215명): 무수 5% CSPS+NaF 치약이 Schiff·Yeaple 촉각역치 두 지표 모두에서 Day 3부터 모든 시점에 DH를 유의하게 감소시키고 표준 NaF-실리카 치약보다 유의하게 우월 (모두 p<0.001), 완화 효과는 8주까지 증가; DHEQ-48 삶의질은 개선됐으나 군간 차이는 유의하지 않음.
+DHEQ-48 OHRQoL improved progressively in both arms but the between-group difference was not statistically significant, and the study was manufacturer-sponsored (Haleon/Sensodyne).
+
+## 세줄요약
+
+8주 examiner-blind 평행 무작위대조시험(RCT) (스크리닝 217명 / 완료 215명, 초록 한정): 상아질 과민증(Dentine Hypersensitivity, DH) 성인에서 무수 5% 칼슘소듐포스포실리케이트(CSPS) + NaF 치약 vs 표준 NaF-실리카 치약, 하루 2회 양치.
+
+CSPS 치약이 Schiff·Yeaple 두 지표 모두에서 Day 3부터 모든 시점에 DH를 유의하게 감소(모두 p<0.001), 완화 효과는 8주까지 증가.
+
+DHEQ-48 구강건강 관련 삶의 질(Oral Health-Related Quality of Life, OHRQoL)은 양군 모두 개선됐으나 군간 차이는 유의하지 않았고, 연구는 제조사(Haleon) 지원.
+
+
 
 ## 1. Document Information
 

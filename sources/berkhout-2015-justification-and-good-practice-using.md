@@ -17,13 +17,21 @@ text_filename: berkhout-2015-justification-and-good-practice-using.txt
 
 Adds the operator-side / third-party radioprotection dimension of dental radiology to complement [[radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography]], which centers on patient (thyroid/gonadal) shielding. Handheld portable intraoral X-ray units are increasingly marketed but raise distinct occupational-exposure, collimation, and uncontrolled-environment risks that no existing radiology page covered — this EADMFR consensus fills that handheld/portable gap and frames justification + ALARA from the operator's standpoint.
 
-## One-line Summary
+## Three-line Summary
 
-EADMFR consensus/position paper: handheld portable intraoral X-ray units introduce new operator/third-party exposure and collimation risks; they should be used only exceptionally, after documented justification, with strict ALARA safeguards.
+EADMFR consensus position paper on handheld portable intraoral X-ray units, identifying unique operator/third-party exposure and collimation risks not present with fixed wall-mounted installations.
 
-## 한줄요약
+The paper concludes that handheld use should be "very exceptional and for justified situations only," with mandatory attention to beam-aiming devices, rectangular collimation, focus–skin distance, X-ray receptor selection, and backscatter shielding.
 
-EADMFR 합의(position paper): 휴대형 핸드헬드 구내 X-ray 장비는 술자·제3자 피폭과 시준(collimation) 위험을 새로 만들므로, 문서화된 정당화와 엄격한 ALARA 안전조치 하에서만 예외적으로 사용해야 한다.
+Indiscriminate use violates the ALARA principle; consistent reproducible dose across all environmental conditions (battery charge, temperature) must be verified before routine deployment.
+
+## 세줄요약
+
+EADMFR 합의문 — 휴대형 핸드헬드 구내 X-ray 장비가 기존 벽부착형 장비에 없는 새로운 술자·제3자 피폭 및 시준(Collimation) 위험을 만들어냄.
+
+결론: 핸드헬드 사용은 "매우 예외적이며 정당화된 상황에서만" 허용; 시준장치·직사각형 콜리메이션·집속-피부 거리·수용체 선택·후방산란 차폐에 반드시 주의.
+
+무분별 사용은 ALARA 원칙 위반; 모든 환경 조건(배터리·온도)에서 일관된 재현성 있는 선량 확보가 일상 배포의 전제 조건.
 
 ## 1. Document Information
 

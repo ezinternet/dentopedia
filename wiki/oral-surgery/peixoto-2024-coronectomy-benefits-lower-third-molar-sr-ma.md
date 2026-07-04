@@ -16,12 +16,21 @@ relations:
     target: cervera-espert-2016-coronectomy-mandibular-third-molar-sr
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Systematic review and meta-analysis comparing coronectomy versus complete extraction for mandibular third molars with high inferior alveolar nerve (IAN) proximity; coronectomy significantly reduces IAN injury risk (permanent injury effectively eliminated), with predictable coronal root migration (~2–3 mm over 2 years) and reoperation/root retrieval needed in ~5–12% of cases and no significant difference in infection or dry socket.
+Systematic review and meta-analysis (JOMS 2024; PRISMA; PubMed/Embase/Cochrane/Scopus/Web of Science) comparing coronectomy versus complete extraction in mandibular third molars with high IAN proximity — defined by panoramic/CBCT signs of root darkening, canal narrowing, or apex deflection.
 
-## 한줄요약
-체계적 문헌고찰 및 메타분석: 하악 제3대구치의 하치조신경(IAN) 근접 고위험군에서 관상절제술(coronectomy)은 완전 발치 대비 IAN 손상 위험을 유의하게 낮추며, 재수술률은 약 5–12%로 수용 가능한 수준임.
+Coronectomy significantly reduced IAN injury risk, with permanent IAN injury effectively eliminated; root migration was predictable (~2–3 mm coronally over 2 years) and rarely clinically problematic; reoperation required in ~5–12%; infection and dry socket rates comparable between techniques.
+
+Coronectomy is the evidence-based preferred technique when IAN proximity is radiographically confirmed, with the tradeoff of a ~5–12% reoperation rate for root retrieval that is generally straightforward to manage.
+
+## 세줄요약
+
+SR+MA(JOMS 2024; PRISMA): 파노라마/CBCT상 치근 암흑화·신경관 협착·치근단 편향 등 하치조신경(IAN) 근접 고위험 하악 제3대구치에서 치관절제술 대 완전 발치 비교.
+
+치관절제술이 IAN 손상 위험 유의하게 감소(영구 손상 사실상 소실); 치근 이동 예측 가능(관상 방향 ~2–3 mm/2년)하고 임상적 문제 드묾; 재수술(치근 회수) ~5–12%; 감염·건성치조염 비율 차이 없음.
+
+IAN 근접 영상 소견 확인 시 치관절제술이 근거 기반 선호 술식 — 재수술률 ~5–12%는 대부분 단순 처치로 관리 가능한 수용 가능 수준.
 
 ## Summary
 This systematic review and meta-analysis (J Oral Maxillofac Surg 2024;82(1):73-92) compares coronectomy (intentional partial odontectomy leaving roots in situ) versus complete extraction for mandibular third molars with high inferior alveolar nerve (IAN) proximity. High-risk criteria include panoramic/CBCT signs such as root darkening, canal narrowing, or canal deflection at the root apex. The primary outcome is IAN injury (permanent or transient neurosensory deficit). Secondary outcomes include root migration, reoperation rate, infection, and dry socket.

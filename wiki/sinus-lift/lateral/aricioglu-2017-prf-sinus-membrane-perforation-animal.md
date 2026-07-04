@@ -13,11 +13,21 @@ source_collection: external
 tags: [prf, platelet-rich-fibrin, schneiderian-membrane, perforation, collagen-membrane, rabbit, sinus-lift]
 ---
 
-## One-line Summary
-Preclinical animal study (42 rabbits, 84 sinuses) comparing platelet-rich fibrin (PRF) membrane vs resorbable collagen membrane for repair of standardized 1 cm Schneiderian membrane perforations: at 1, 2, and 4 weeks histological cell counts showed no significant difference between PRF and collagen (both significantly better than untreated controls), establishing autologous PRF as a low-cost alternative for small/medium perforation closure.
+## Three-line Summary
 
-## 한줄요약
-가토 동물실험 (n=42, 84 부비동): 슈나이더 막 (Schneiderian membrane) 천공 시 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF) 막과 콜라겐막 (Collagen Membrane, CM) 조직학적 치유 결과 동등 — PRF가 CM의 대안 가능.
+Preclinical randomized animal study (42 New Zealand female rabbits, 84 sinuses) comparing platelet-rich fibrin (PRF) membrane versus resorbable collagen membrane for repair of standardized 1 cm Schneiderian membrane perforations, with untreated contralateral sinuses as controls.
+
+At 1, 2, and 4 weeks, histological cell counts (lymphocytes, fibroblasts, veins, collagen fibrils) showed no significant difference between PRF and collagen membrane (p>0.05); both treated groups significantly outperformed untreated controls.
+
+PRF is an autologous, cost-free alternative to commercial collagen membranes for closing intraoperative sinus membrane perforations — human RCT evidence is still needed before widespread clinical adoption.
+
+## 세줄요약
+
+표준화된 1 cm 슈나이더 막(Schneiderian Membrane) 천공 수복에 혈소판풍부피브린(Platelet-Rich Fibrin, PRF) 막과 흡수성 콜라겐막(Collagen Membrane, CM)을 비교한 무작위 전임상 동물연구(뉴질랜드 암컷 토끼 42마리, 84 동; 미처치 대측 동 = 대조군).
+
+1·2·4주 시점 조직학적 세포 수(림프구, 섬유아세포, 혈관, 콜라겐 섬유)에서 PRF vs 콜라겐막 간 유의차 없음(p>0.05); 양 처치군 모두 무처치 대조군보다 유의하게 우수.
+
+PRF는 상업용 콜라겐막의 자가유래 무비용 대안 — 임상 적용 확산 전 인체 RCT 근거 필요.
 
 ## Summary
 Rabbit animal study comparing PRF membrane vs resorbable collagen membrane for repair of standardized 1 cm Schneiderian membrane perforations. At 1, 2, and 4 weeks, histological cell counts (lymphocytes, fibroblasts, veins, collagen fibrils) showed no statistically significant difference between PRF and collagen membrane. Both materials significantly outperformed untreated contralateral controls.

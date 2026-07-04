@@ -9,7 +9,7 @@ pdf_filename: jamil-2020-surgeon-reliability-implant-high-risk-panoramic.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 Prospective study (73 patients, 148 posterior implants: 68 maxilla, 80 mandible) comparing the surgeon's panoramic-radiograph–based implant-length choice against post-operative CBCT-measured available bone height; 93.2% of decisions underestimated available bone, and in 73.9% of those, remaining bone after placement was <2 mm — concluding panoramic radiographs are "reliable" only because surgeons systematically choose short implants, with 5 cases of mandibular transient paresthesia among overestimated insertions.
 
 ## 1. Document Information

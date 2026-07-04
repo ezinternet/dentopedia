@@ -13,13 +13,23 @@ source_collection: external
 
 This is one of the foundational early-2000s RFA studies that defined protocol-specific ISQ-at-placement (ISQi) cut-offs for osseointegration — a higher threshold for immediately loaded (IL, ≥54) than for delayed-loaded (DL, ≥49) implants — and described the now-classic ISQ-band-dependent stability trajectory (low-ISQi implants rise, mid-band 60–69 implants dip then recover, high-ISQi >69 dip early then stay stable). It anchors the historical/threshold basis for our newer ISQ pages. Extends and provides the early-evidence foundation for [[implants/isq/lee-2011-isq-loading-protocol-prediction]] (ISQ as a loading-protocol predictor) and reinforces the primary-stability → loading-decision logic explored for fresh sockets in [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]].
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective clinical RFA study (36 patients, 106 ITI SLA implants: 63 IL + 43 DL) finding that Osstell RFA could NOT reliably detect mobile implants, but all DL implants with ISQi ≥49 and all IL implants with ISQi ≥54 achieved and maintained osseointegration at 1 year, with stability trajectories during healing depending on the ISQi band.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 RFA 임상연구 (환자 36명, ITI SLA 임플란트 106개: 즉시부하 63 + 지연부하 43) — Osstell RFA는 동요 임플란트를 신뢰성 있게 감별하지 못했으나, 식립 시 ISQ (ISQi)가 지연부하군 ≥49·즉시부하군 ≥54인 임플란트는 모두 1년 시점에 골유착을 달성·유지했고, 치유 중 안정성 변화 패턴은 ISQi 구간에 따라 달랐다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

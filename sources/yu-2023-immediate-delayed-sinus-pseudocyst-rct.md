@@ -14,7 +14,7 @@ source_collection: external
 
 상악동 점액낭종 (Antral Pseudocyst, AP)이 존재할 때 측방창 거상술을 **즉시 vs 3개월 지연** 시행 — 술자별로 의견이 갈리는 시점 결정의 prospective RCT 근거. [[sinus-lift/pseudocyst/fu-2022-pseudocyst-removal-retainment-msfa-cohort]]·[[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]]와 함께 "낭종 발견 시 다음 수술 일정을 어떻게 잡을 것인가" 결정 트리의 핵심 RCT anchor로 삼기 위함.
 
-## One-line Summary
+## Three-line Summary
 RCT n=31 환자/33 sinuses: 점액낭종 제거 후 측방창 거상술을 즉시 시행한 군과 3개월 지연 후 시행한 군 사이에 골 신생률·임플란트 생존율·연조직 합병증·VAS 통증 모두 유의차 없음. **One-stage 접근이 타당함**을 시사.
 
 ## 1. Document Information

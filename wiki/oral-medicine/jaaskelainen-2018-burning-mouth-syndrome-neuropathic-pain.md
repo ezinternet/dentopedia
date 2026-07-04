@@ -13,13 +13,21 @@ source_collection: external
 tags: [burning-mouth-syndrome, neuropathic-pain, small-fiber, trigeminal, QST, peripheral-central-subtype]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-NeuPSIG (PAIN) review concluding primary BMS is a neuropathic pain condition with neurophysiologically verifiable lesions, divisible into peripheral and central subtypes (often overlapping) that differ in treatment response and psychiatric comorbidity.
+NeuPSIG (PAIN journal) expert narrative review of primary BMS as a neuropathic pain condition, synthesizing evidence from peripheral small-fiber testing, trigeminal electrophysiology, and central neurotransmitter imaging.
 
-## 한줄요약
+Neurophysiologic evidence (QST, electrogustatometry, brainstem reflexes, dopamine-PET) identifies two overlapping subtypes: peripheral (responds to topical lidocaine/clonazepam) and central (requires centrally acting therapy, associates with depression/anxiety).
 
-NeuPSIG(PAIN) 리뷰 — 일차성 BMS는 신경생리 검사로 확인되는 신경병성 통증이며, 치료 반응·정신과 동반이 다른 말초형·중추형 두 아형(중첩 가능)으로 나뉜다.
+A unifying hypothesis links postmenopausal neuroprotective hormone decline to susceptibility of small fibers and basal ganglia; subtype determination guides therapy selection and should precede empiric treatment choices.
+
+## 세줄요약
+
+일차성 BMS의 신경병성 통증 여부를 다룬 NeuPSIG(PAIN) 전문가 내러티브 리뷰 — 말초 소섬유 검사·삼차신경 전기생리·중추 신경전달물질 영상 근거 종합.
+
+정량감각검사(QST)·전기미각검사·뇌간반사·도파민-PET 등 신경생리 근거가 두 가지 중첩 아형 확인: 말초형(국소 리도카인/클로나제팜 반응)·중추형(중추 작용 약물 필요, 우울/불안 동반 빈번).
+
+폐경 후 신경보호 호르몬 감소 → 소섬유·기저핵 취약성 가설 제시; 아형 판별이 치료 선택을 안내해야 하며 이를 선행하지 않은 경험적 치료는 피해야 함.
 
 ## Summary
 

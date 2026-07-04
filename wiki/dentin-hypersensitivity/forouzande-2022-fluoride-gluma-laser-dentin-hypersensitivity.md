@@ -16,11 +16,19 @@ relations:
     target: shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma
 ---
 
-## One-line Summary
-Single-session clinical trial (55 patients / 165 teeth; 5 groups, n=33) showing Er,Cr:YSGG laser alone or combined with Gluma reduced dentin hypersensitivity more than 5% NaF varnish across 6 months, while all treatments produced significant relief.
+## Three-line Summary
+Single-session RCT (55 patients, 165 hypersensitive teeth, 5 arms including Er,Cr:YSGG laser, Gluma, 5% NaF varnish, and combinations) assessed VAS to air spray over 6 months.
 
-## 한줄요약
-임상시험(55명·165치): Er,Cr:YSGG 레이저 단독/Gluma 병용이 6개월간 5% 불화나트륨 바니시보다 상아질 과민증을 더 감소시켰고, 모든 처치가 유의한 통증 완화를 보임.
+All five groups significantly reduced DH from baseline; Er,Cr:YSGG laser alone or combined with Gluma was significantly superior to NaF varnish at 1 week through 6 months (P<0.05).
+
+A single laser session provides durable DH relief superior to fluoride varnish; chemical agents (Gluma, NaF) remain effective but laser-containing arms show longer-lasting benefit.
+
+## 세줄요약
+단회 임상시험(55명·165치, 5군): Er,Cr:YSGG 레이저·Gluma·5% NaF 바니시·복합군에서 6개월간 VAS를 비교.
+
+모든 군이 기저치 대비 유의한 DH 감소; 레이저 단독/병용군이 1주~6개월에서 NaF 바니시보다 유의하게 우수(P<0.05).
+
+단회 레이저가 불화물 바니시보다 지속적 효과 우수; Gluma·NaF 모두 효과적이나 레이저 포함 군의 장기 유지가 더 우월.
 
 ## Summary
 This single-session trial compared chemical and photonic desensitizers for cervical dentin hypersensitivity (DH) using air-spray VAS over six months. All five arms — Gluma, 5% NaF varnish, Er,Cr:YSGG laser, Gluma+laser, and varnish+Gluma — significantly reduced DH from baseline. Laser-containing arms (alone or with Gluma) achieved significantly greater reduction than NaF varnish at 1 week, 1 month, and 6 months, supporting laser irradiation as a durable in-office option while confirming chemical agents remain effective.

@@ -18,11 +18,21 @@ superseded_scope: partial
 > [!note] Partially superseded → [[marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]], [[lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]]
 > This page's meta-analysis was ANIMAL-ONLY and explicitly flagged human magnitude as unquantified ("await RCTs not yet in the wiki"). Newer human-pooled SR+MAs now fill that gap and show the human OD effect is modest and fading — ISQ MD ~3.24 (clinically small) and non-significant by secondary stability / in low-density bone. For human clinical decisions prefer the newer pages. Retained for its unique animal pooling + clockwise-vs-counterclockwise BAFO synthesis (not replicated elsewhere). (set 2026-06-21)
 
-## One-line Summary
-Systematic review + meta-analysis (16 papers; meta-analysis restricted to 8 animal studies): osseodensification (OD) significantly raised insertion torque and bone-to-implant contact (BIC) vs conventional drilling, and clockwise vs counterclockwise OD differed on BIC and torque but not on bone area fraction occupancy (BAFO); human clinical magnitude remained unquantified, requiring RCTs.
+## Three-line Summary
 
-## 한줄요약
-체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), n=16편 (그 중 임상연구 11편: 동물 8 + 인간 3) — 골밀도화 (Osseodensification, OD)는 통상 드릴링 대비 삽입 토크와 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)을 유의하게 높이고, 시계방향(절삭) vs 반시계방향(다짐) OD 간에는 BIC·토크는 차이 있으나 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음. 메타분석이 동물 데이터에 한정되어 인간 임상 외삽은 여전히 RCT가 필요.
+SR+MA (16 papers, PubMed-only; meta-analysis restricted to 8 animal studies; 3 human studies synthesized narratively): osseodensification (OD) vs conventional drilling for implant site osteotomy, comparing clockwise vs counterclockwise OD modes.
+
+OD significantly raised insertion torque and BIC vs conventional drilling in pooled animal data; clockwise vs counterclockwise OD differed significantly on BIC and torque but not on bone area fraction occupancy (BAFO); human clinical magnitude remained unquantified pending RCTs.
+
+First meta-analytic pooling in the OD literature (animal-only); heavy authorship overlap (NYU/Coelho group) and proprietary device exposure limit independence; human effect now estimated by newer SR+MAs as modest (ISQ MD ~3.24) and fading at secondary stability.
+
+## 세줄요약
+
+SR+MA (16편, PubMed 단독; 메타분석은 동물 8편 한정; 인간 3편은 서술적 합성): 임플란트 부위 골삭제에서 골밀도화(OD) vs 통상 드릴링 비교, 시계방향 vs 반시계방향 OD 모드 분석.
+
+동물 풀링 결과 OD가 삽입 토크·BIC 유의하게 높임; 시계방향 vs 반시계방향 OD 간 BIC·토크 차이(BAFO는 차이 없음); 인간 임상 효과 크기는 RCT 부재로 미확인.
+
+OD 문헌 최초 메타분석(동물 한정); NYU/Coelho 그룹 저자 중복·독점 기기 노출로 독립성 제한; 최신 SR+MA에서 인간 효과 소폭(ISQ MD ~3.24)이며 2차 안정성 시점에서 소실됨.
 
 ## Summary
 This 2021 SR+MA updates the OD evidence base. Of 16 papers screened in PubMed (Medline), 11 were clinical (8 animal, 3 human), 4 were narrative reviews, and 1 was a case report. Meta-analytic pooling was restricted to the animal studies (only design homogeneous enough), comparing clockwise OD, counter-clockwise OD, and conventional drilling for BIC %, BAFO %, and insertion torque.

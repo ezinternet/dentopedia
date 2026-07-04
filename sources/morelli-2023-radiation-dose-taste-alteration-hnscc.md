@@ -17,13 +17,23 @@ text_filename: morelli-2023-radiation-dose-taste-alteration-hnscc.txt
 
 미각상실·침분비저하의 병인 스펙트럼(바이러스성/자가면역성/약물성/노화성)에 "방사선치료 유발" 축을 추가하기 위해 검색. 기존 [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]가 바이러스 수용체 발현 기전으로 미각·타액 동시장애를 설명했다면, 본 전향적 코호트는 두경부암 방사선치료에서 실제 선량-반응 관계로 "미각이상이 미뢰 선량보다 타액선 선량에 더 강하게 상관"함을 정량 검증해, 방사선 유발 병인의 실제 기전(타액선 손상 매개 vs 미뢰 직접손상)에 대한 근거를 제공한다.
 
-## One-line Summary
+## Three-line Summary
+
 
 Prospective observational cohort (31 HNSCC patients undergoing IMRT, CiTAS/EORTC questionnaires at baseline, 3 weeks, 3 months) finding acute dysgeusia correlates significantly with mean dose to submandibular and parotid glands (p=0.05 each) but NOT with dose to the taste-bud-bearing tongue mucosa itself, suggesting radiation-induced taste alteration is substantially mediated through salivary gland damage rather than direct taste bud injury alone.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 전향적 관찰 코호트(두경부편평세포암 IMRT 환자 31명, CiTAS/EORTC 설문 기저·3주·3개월 추적) — 급성 미각이상(dysgeusia)은 미뢰(taste bud) 선량이 아니라 악하선·이하선 평균선량과 유의하게 상관(각 p=0.05)함을 발견 — 방사선 유발 미각장애가 미뢰 직접손상보다 타액선 손상을 매개로 발생함을 시사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

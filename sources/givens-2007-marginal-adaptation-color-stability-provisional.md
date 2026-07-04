@@ -16,13 +16,23 @@ text_filename: givens-2007-marginal-adaptation-color-stability-provisional.txt
 
 사용자가 아크릴레진 임시치아 재료 중 **SNAP**(Parkell, polyethyl methacrylate) 제품 관련 논문을 요청. SNAP을 직접 다룬 논문은 모두 PMC 전문이 없어(2000년대 JPD/J Prosthodont 초록만), 그중 SNAP을 대조군으로 두고 물성을 정면 비교한 이 논문을 초록 기반(abstract-only)으로 ingest. bis-acryl(Protemp Garant·Integrity·Luxatemp Solar) vs PMMA/PEMA(SNAP)의 변연적합·색안정성 근거로, PMC 전문판인 [[prosthetic-materials/sokhal-2025-surface-hardness-bis-acryl-pmma-provisional]](표면경도)와 짝을 이뤄 "아크릴 임시치아 vs bis-acryl" 물성 대비를 완성한다. 기존 [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]](임시치관 유지력)와도 연결.
 
-## One-line Summary
+## Three-line Summary
 
-In-vitro study (J Prosthodont 2007, n=10/group) comparing marginal fit and 1-week tea-stain color stability of three bis-acryl provisionals (Protemp Garant, Integrity auto-cure; Luxatemp Solar dual-cure) against SNAP (polyethyl methacrylate control): the dual-cure Luxatemp Solar had the worst marginal discrepancy (319 µm), Protemp Garant was the only material with a clinically noticeable shade change (ΔE=4.33), while SNAP matched the auto-cure bis-acryls for both low marginal gap and color stability.
 
-## 한줄요약
+In-vitro study (J Prosthodont 2007, n=10/group) comparing marginal fit and 1-week tea-stain color stability of three bis-acryl provisionals (Protemp Garant, Integrity auto-cure;
 
-In-vitro 연구(J Prosthodont 2007, 군당 n=10): bis-acryl 3종(Protemp Garant·Integrity 자가중합, Luxatemp Solar 이중중합)을 SNAP(폴리에틸메타크릴레이트, Polyethyl Methacrylate, PEMA 대조군)과 변연적합·1주 홍차착색 색안정성으로 비교 — 이중중합 Luxatemp Solar가 변연오차 최대(319 µm), Protemp Garant만 임상적으로 인지되는 색변화(ΔE=4.33); SNAP은 자가중합 bis-acryl과 대등하게 낮은 변연오차·우수한 색안정성.
+Luxatemp Solar dual-cure) against SNAP (polyethyl methacrylate control): the dual-cure Luxatemp Solar had the worst marginal discrepancy (319 µm), Protemp Garant was the only material with a clinically noticeable shade change (ΔE=4.33), while SNAP matched the auto-cure bis-acryls for both low marginal gap and color stability.
+
+(incomplete)
+
+## 세줄요약
+
+
+In-vitro 연구(J Prosthodont 2007, 군당 n=10): bis-acryl 3종(Protemp Garant·Integrity 자가중합, Luxatemp Solar 이중중합)을 SNAP(폴리에틸메타크릴레이트, Polyethyl Methacrylate, PEMA 대조군)과 변연적합·1주 홍차착색 색안정성으로 비교 — 이중중합 Luxatemp Solar가 변연오차 최대(319 µm), Protemp Garant만 임상적으로 인지되는 색변화(ΔE=4.33);
+
+SNAP은 자가중합 bis-acryl과 대등하게 낮은 변연오차·우수한 색안정성.
+
+(incomplete)
 
 ## 1. Document Information
 

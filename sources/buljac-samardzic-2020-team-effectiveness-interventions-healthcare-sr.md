@@ -17,13 +17,21 @@ text_filename: buljac-samardzic-2020-team-effectiveness-interventions-healthcare
 
 General-healthcare (not dental-specific) evidence ingested to anchor the dental team-communication / workforce axis. It is the broadest single SR cataloguing *every* type of team-improvement intervention used in healthcare organizations — training, tools, organizational redesign, and combined programmes — so it provides the taxonomy and evidence-base ranking that the dental clinic can extrapolate from (a dental practice is a small healthcare team facing the same teamwork-and-handoff vulnerabilities). Reinforces [[overviews/dental-workforce-delegation-skill-mix-overview]] by supplying the upstream menu of how team effectiveness is actually improved (delegation/skill-mix needs functioning teams), and contextualizes SBAR/checklists as one branch within that menu.
 
-## One-line Summary
+## Three-line Summary
 
-SR (GRADE; 297 studies, 2008–Jul 2018, 7 databases) of healthcare team-effectiveness interventions: a 3+1 taxonomy (training [CRM/TeamSTEPPS/simulation], tools [SBAR/(de)briefing checklists/rounds/tech/monitoring], organizational redesign, combined programmes); training is most-studied and principle-based + simulation-based training offer the greatest chance of improving (mostly non-technical) team functioning, predominantly in acute hospital settings on low-to-moderate evidence.
+Systematic review (GRADE; 297 studies, 2008–July 2018, 7 databases) cataloguing all types of healthcare team-effectiveness interventions into a 3+1 taxonomy: training (CRM/TeamSTEPPS/simulation), tools (SBAR/(de)briefing checklists/rounds/technology/monitoring), organizational redesign, and combined programmes.
 
-## 한줄요약
+Training was the most-studied category; principle-based training (CRM, TeamSTEPPS) and simulation-based training offered the greatest opportunity to improve team functioning — primarily non-technical skills — mostly in acute hospital settings on low-to-moderate evidence.
 
-SR(GRADE·297편·2008~2018·7개 DB): 의료팀 효과성 향상 중재를 3+1 분류(훈련[CRM/TeamSTEPPS/시뮬레이션]·도구[SBAR/체크리스트/라운드]·조직 재설계·복합 프로그램)로 정리. 훈련이 가장 많이 연구됐고, 원리기반 훈련(CRM·TeamSTEPPS)과 시뮬레이션 기반 훈련이 (주로 비기술적) 팀 기능 개선 가능성이 가장 높았으나 대부분 급성기 병원·낮은 근거수준.
+Non-hospital settings (including dental practices), long-term effects, and professional well-being outcomes remain under-researched; the taxonomy is directly transferable to dental team-communication and delegation workflows.
+
+## 세줄요약
+
+의료팀 효과성 향상 중재를 3+1 분류(훈련[CRM·TeamSTEPPS·시뮬레이션]·도구[SBAR·체크리스트·라운드]·조직 재설계·복합 프로그램)로 정리한 체계적 고찰(GRADE; 297편, 2008–2018, 7개 데이터베이스).
+
+훈련이 가장 많이 연구됐으며, 원리기반 훈련(CRM·TeamSTEPPS)과 시뮬레이션 기반 훈련이 비기술적 팀 기능 개선 가능성이 가장 높았으나 대부분 급성기 병원 환경·낮은 근거수준이었다.
+
+비병원 환경(치과 포함)·장기 효과·직업적 웰빙 결과는 미흡하게 연구됐으며, 분류체계는 치과 팀 커뮤니케이션 및 업무 위임 워크플로우에 직접 적용 가능.
 
 ## 1. Document Information
 

@@ -33,13 +33,21 @@ relations:
 > - **근거 등급**: 앵커는 체계적 문헌고찰(SR, in vitro 7편)이나 **포함 연구 전부 중등도~높은 비뚤림 위험**이고 메타분석 불가. 나머지 3편은 in-vitro. 임상결과(RCT) 근거는 0건 — 권고는 미생물학적·표면분석 근거에 기반.
 > - **임상 SOP**: ① 사용 중 박스의 마스터·보조 콘 모두 소독 대상 ② **NaOCl(3~5.25%)에 1분** 침적 ③ 무균 증류수/치오황산나트륨 세정액으로 헹궈 염화물 결정 제거·건조 ④ 침적 1분 초과 금지(탄성 손실) ⑤ 진균 우려 시 CHX(±cetrimide) 고려 ⑥ 콘을 집는 핀셋과 근관에 넣는 핀셋 분리.
 
-## One-line Summary
+## Three-line Summary
 
-Synthesis of four papers (one systematic review + three in vitro studies) on chairside decontamination of gutta-percha (GP) cones: because GP is thermoplastic and cannot be heat-sterilized, chemical disinfection before obturation is mandatory; real-world contamination of in-use cones is low (1.9–22.9%) but includes MRSA, so the evidence converges on **short (1-min) sodium-hypochlorite immersion followed by a rinse** as the practical gold standard, with chlorhexidine reserved for fungal concerns and nanoparticle agents offering no efficiency advantage.
+Synthesis of 4 papers (1 systematic review + 3 in-vitro studies): gutta-percha cones cannot be heat-sterilized (thermoplastic), so chairside chemical decontamination before obturation is mandatory; in-use cone contamination is low (1.9% MRSA/MSSA-targeted vs 22.9% all-bacteria culture) but includes MRSA, concentrating in thread/driver recesses of less-used oversized cones (brand is irrelevant; handling and box-residence time drive contamination).
 
-## 한줄요약
+All evidence converges on NaOCl (3–5.25%) 1-minute immersion as the practical gold standard: it eliminates Enterococcus faecalis and S. aureus within 1–5 minutes (Aucinaite SR), and 2.62–5.25% NaOCl completely removes B. subtilis and C. albicans in 1 minute (Raheja), achieving 76.4–100% sterility of contaminated cones; but immersion beyond 1 minute causes elasticity loss and chloride crystal precipitation (AFM surface deterioration at 3–5 min), so a mandatory rinse with detergent or sodium thiosulfate is required.
 
-거타퍼차(gutta-percha, GP) 콘은 열가소성이라 열멸균이 불가능해 근관충전 직전 화학 소독이 필수인데, 사용 중 콘 오염률은 1.9~22.9%로 낮지만 MRSA를 포함하므로, 4편(체계적 문헌고찰 1 + in vitro 3)의 근거는 **차아염소산나트륨(NaOCl) 1분 침적 + 헹굼**을 실질적 표준으로 수렴시키며, 클로르헥시딘은 진균 우려 시, 나노입자 소독제는 효율 이점이 없다고 정리한다.
+Chlorhexidine (CHX) is reserved for fungal concerns (effective against Candida without agitation; preserves GP elasticity), while silver and chitosan nanoparticles take 5 min for B. subtilis (vs 1 min for NaOCl) with similar surface damage — offering no clinical efficiency advantage; the entire evidence base is in vitro/SR with zero clinical-outcome RCTs, so recommendations are microbiology-based only.
+
+## 세줄요약
+
+4편(체계적 문헌고찰 1 + in vitro 3) 종합: 거타퍼차(gutta-percha, GP) 콘은 열가소성으로 열멸균 불가능해 근관충전(obturation) 직전 화학 소독이 필수; 사용 중 콘 오염률은 MRSA/MSSA 표적 검사 1.9%, 전체 세균 배양 22.9%로 낮지만 MRSA를 포함하며, 오염은 브랜드가 아닌 취급·박스 체류시간 의존적(덜 쓰이는 큰 사이즈가 집중).
+
+근거 전체가 **차아염소산나트륨(Sodium Hypochlorite, NaOCl) 3–5.25% 1분 침적** 으로 수렴 — 엔테로코쿠스 페칼리스(Enterococcus faecalis)·황색포도상구균(S. aureus)을 1–5분 내 제거, 오염 콘 76.4–100% 소독 달성; 단 1분 초과 침적 시 GP 탄성 손실 + 염화물 결정 석출(원자간력현미경 표면 악화) → 무균증류수/치오황산나트륨으로 반드시 헹굼.
+
+클로르헥시딘(Chlorhexidine, CHX)은 진균 우려 시 대안(GP 탄성 보존·교반 없이 효과), 은·키토산 나노입자는 B. subtilis에 5분 필요(NaOCl의 1분 대비 불리)해 진료실 효율에서 NaOCl 대체 불가; 이 모든 근거는 in vitro/SR으로 임상 결과(RCT) 연구는 0건이다.
 
 ## Summary
 

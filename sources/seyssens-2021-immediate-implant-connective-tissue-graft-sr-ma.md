@@ -10,7 +10,7 @@ pdf_filename: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (Cosyn 그룹, 5 RCT + 3 NRS, n=409 임플란트 IIP+CTG 246 vs IIP 163, follow-up 12-?개월): 협측 vertical midfacial 연조직 변화 — IIP+CTG 군이 recession 유의하게 적음.
 
 ## 1. Document Information

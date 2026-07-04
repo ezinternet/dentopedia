@@ -16,13 +16,21 @@ text_filename: abreu-2024-assessment-detoxification-strategies-used-dental.txt
 
 The healing-abutment (HA) reuse debate splits into two axes: a *surface-cleanliness* axis (can residual debris/protein be removed?) and a *biologic-response* axis (does a cleaned surface still provoke inflammation?). Most papers we hold argue on the cleanliness axis — [[infection-control/burioni-2024-could-dental-material-reuse-play]] shows residual protein persists in vitro but stops there. Abreu 2024 supplies the missing biologic-response endpoint: even the best-cleaned used HAs (Groups D/E, lowest residual protein) still triggered high inflammatory cytokine secretion from human macrophages. This makes it the strongest anti-reuse pole of the batch and the direct biologic counterweight to reuse-permissive protocols such as [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]].
 
-## One-line Summary
+## Three-line Summary
 
-In vitro study of 50 used healing abutments across 5 enzymatic-cleaner decontamination strategies: Groups D/E removed the most debris/protein, but ALL cleaned groups still induced high macrophage inflammatory cytokine secretion vs new controls — authors conclude clinicians should not reuse HAs.
+In vitro study (IJOMI 2024; University of Illinois Chicago; 50 used healing abutments, n=10 per group) testing 5 enzymatic-cleaner decontamination protocols (Groups A–E) and measuring residual debris/protein plus human primary macrophage inflammatory cytokine response vs new sterile controls.
 
-## 한줄요약
+Groups D and E (prophy jet + ultrasonic + enzymatic cleaner / prophy jet + autoclave) removed the most surface debris and had the lowest residual protein, but ALL five cleaned groups still triggered high macrophage cytokine secretion for up to 5 days — equivalent to non-decontaminated used surfaces.
 
-사용된 힐링어버트먼트 50개를 효소세정제 5개 프로토콜(A~E)로 처리한 in vitro 연구 — D/E군이 잔여 debris·단백질을 가장 잘 제거했으나, 세정한 모든 군이 대조(신품) 대비 대식세포 염증성 사이토카인 분비를 높게 유발 → 저자 결론은 "재멸균·재세정해도 힐링어버트먼트를 재사용하지 말라".
+Decontamination and sterilization cannot restore immunological inertness to a used healing abutment; authors conclude clinicians should not reuse HAs regardless of cleaning protocol. Abstract-only; exact cytokine values unavailable.
+
+## 세줄요약
+
+In vitro 연구 (IJOMI 2024; 일리노이 대학교 시카고; 사용 힐링어버트먼트 50개, 군당 n=10): 5가지 효소세정제 기반 오염제거 프로토콜(A–E군) 후 잔여 debris·단백질 및 사람 대식세포 (macrophage) 염증성 사이토카인 (cytokine) 반응 비교.
+
+D·E군(공기연마 + 초음파 / 공기연마 + 멸균)이 표면 debris·잔여 단백질 최소 제거 효과; 그러나 5개 세정군 모두 신품 대조 대비 5일간 대식세포 사이토카인 분비 높게 유지 — 재세정·재멸균이 면역학적 불활성 복원 불가.
+
+어떤 세정 프로토콜로도 사용된 힐링어버트먼트의 면역 반응 정상화 불가 → 저자: "재사용 금지"; 초록만 수집, 사이토카인 개별 수치 불명.
 
 ## 1. Document Information
 

@@ -10,7 +10,7 @@ pdf_filename: qin-2023-immediate-implant-provisionalization-maxillary-esthetic-s
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (RCT only): 상악 심미부 단일 즉시식립 시 즉시 부하 (= immediate provisionalization) vs 지연부하 — midfacial mucosal level 중심 비교; PES·MBL·생존율 보조 평가.
 
 ## 1. Document Information

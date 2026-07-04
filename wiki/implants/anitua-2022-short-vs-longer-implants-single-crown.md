@@ -13,11 +13,21 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-Retrospective cohort (STROBE; n=88 short ≤6.5 mm + 88 longer ≥7.5 mm; single surgeon; follow-up 11–117 months): no significant differences in survival, marginal bone level changes, or prosthetic complications between short and longer implants for posterior single-crown restorations, supporting short implants as a reasonable option.
+## Three-line Summary
 
-## 한줄요약
-STROBE 후향 cohort (n=88+88, follow-up 11–117개월): 단일 크라운 보철에서 short(≤6.5mm) vs long(≥7.5mm) 임플란트 사이 survival·MBL·보철 합병증 차이 없음 — short implant가 후방 단일 보철에서 합리적 옵션.
+STROBE-compliant retrospective cohort (n=88 short ≤6.5 mm + 88 longer ≥7.5 mm; single surgeon; median follow-up 31 vs 35 months) comparing short and longer implants for posterior single-crown restorations in premolar/molar regions.
+
+No significant differences in implant survival, marginal bone level changes (MBL ≥2 mm in 1/88 vs 3/88; p=0.312), or prosthetic complications (screw loosening 2 vs 5; ceramic chipping 1 vs 0) between groups.
+
+Short implants (≤6.5 mm) are a reasonable non-inferior option for posterior single-crown restorations, though the single-operator retrospective design with medium follow-up limits generalizability.
+
+## 세줄요약
+
+STROBE 후향 코호트 (단(≤6.5mm) 88개 + 장(≥7.5mm) 88개; 단일 술자; 중앙 추적 31 vs 35개월) — 구치부 단일 크라운 보철에서 short vs long 임플란트 비교.
+
+생존율·MBL 변화(MBL ≥2mm 1/88 vs 3/88; p=0.312)·보철 합병증(스크류 풀림 2 vs 5; 세라믹 파절 1 vs 0) 모두 유의차 없음.
+
+Short 임플란트(≤6.5mm)는 구치부 단일 크라운에서 합리적 비열등 옵션 — 단, 단일 술자 후향 설계·중등 추적 기간으로 일반화 제한.
 
 ## Summary
 STROBE-compliant retrospective cohort comparing short (≤6.5 mm) vs longer (≥7.5 mm) implants supporting single-crown restorations in posterior premolar/molar regions. Same surgeon, same prosthetic concept (transepithelial abutment + screw-retained crown).

@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] ADA 가이드라인이 SRP 보조요법들을 서로 직접 비교하지 않은 공백을, 동일한 1차 연구를 사용한 네트워크 메타분석으로 보강·확장한다. 또한 [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]]의 NMA·SUCRA·출판편향 방법론을 실제 치주 임상 질문에 적용한 사례로 근거평가 측면에서도 유용하다.
 
-## One-line Summary
+## Three-line Summary
 
-Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain; all adjuncts add ~0.3-0.35 mm CAL over 6-12 months vs SRP alone, with publication bias inflating effects by ~20%.
 
-## 한줄요약
+Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain;
+
+all adjuncts add ~0.3-0.35 mm CAL over 6-12 months vs SRP alone, with publication bias inflating effects by ~20%.
+
+(incomplete)
+
+## 세줄요약
+
 
 별형 네트워크 메타분석(RCT 61편, 74개 비교, 보조요법 9종): SRP 단독 대비 어떤 보조요법도 임상부착수준(CAL) 이득에서 다른 보조요법보다 통계적으로 우월하지 않았고, 모든 보조요법은 6-12개월간 약 0.3-0.35 mm의 CAL 이득만 추가했으며 출판편향이 효과를 약 20% 부풀렸다.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

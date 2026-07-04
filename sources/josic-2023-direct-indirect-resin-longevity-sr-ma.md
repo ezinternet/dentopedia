@@ -9,7 +9,7 @@ pdf_filename: josic-2023-direct-indirect-resin-longevity-sr-ma.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 구치부 직접 vs 간접 복합레진 수복의 임상 수명 비교 SR+MA: 단기·중기·장기 모두 유의한 차이 없음(근거 수준 매우 낮음).
 
 ## 1. Document Information

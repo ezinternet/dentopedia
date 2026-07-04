@@ -9,7 +9,7 @@ pdf_filename: pak-2011-root-canal-pain-prevalence-severity.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 SR+MA (J Endod 2011, 72편): 근관치료 전 통증 유병률 81%, 24h 후 40%, 1주 후 11%로 급감; 보조마취 필요율 60%.
 
 ## 1. Document Information

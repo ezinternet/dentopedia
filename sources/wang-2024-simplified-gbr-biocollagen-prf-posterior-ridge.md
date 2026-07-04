@@ -17,13 +17,23 @@ text_filename: wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge.txt
 
 GBR 6패널 분류 인터랙티브 도구의 Panel II 근거 논문. 소규모 후방 Seibert Class I 결손에서 흡수성막(Bio-Gide) 대신 PRF막으로 대체한 단순화 GBR의 가능성을 검증. [[wiki/bone-regeneration/ridge-preservation]] 카테고리에서 PRF 적용 범위를 발치와 보존 넘어 교합면 위 소규모 overlay 결손으로 확장하는 근거. abstract-only (전문 PMC 미제공).
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=44, 2 groups) comparing simplified GBR (Bio-collagen + PRF membrane) vs classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I ridge defects: HW gain 1.50 mm vs 1.83 mm at 6 months; comparable contour morphology.
 
-## 한줄요약
+Retrospective study (n=44, 2 groups) comparing simplified GBR (Bio-collagen + PRF membrane) vs classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I ridge defects: HW gain 1.50 mm vs 1.83 mm at 6 months;
+
+comparable contour morphology.
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 연구(n=44)에서 Bio-collagen+PRF막(단순화 GBR) vs Bio-Oss+Bio-Gide(고전적 GBR)로 후방 Seibert Class I 치조제 결손 치료: 수평폭경 증가 1.50 vs 1.83mm, 윤곽 형태 유사.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

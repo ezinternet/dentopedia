@@ -13,11 +13,19 @@ source_collection: external
 tags: [EPS-matrix, S-mutans, GtfB, GtfC, caries, pH-microenvironment, 3D-biofilm, glucan, virulence]
 ---
 
-## One-line Summary
-Review with experimental data establishing the Gtf-derived EPS matrix as the dominant cariogenic virulence determinant: 3D in-situ pH mapping of mixed-species biofilms reveals compartmentalised pH 4.5–5.5 zones at the microcolony/enamel interface that resist >2 hours of neutral-pH buffer neutralisation.
+## Three-line Summary
+Review with original experimental data using a fluorescent probe and confocal imaging to map 3D spatiotemporal EPS development in mixed-species biofilms (S. mutans, S. oralis, A. naeslundii on saliva-coated hydroxyapatite with 1% sucrose), demonstrating three-phase matrix assembly and EPS-enmeshed microcolony formation.
 
-## 한줄요약
-Review+실험: S. mutans Gtf 유래 EPS 기질이 3D microcolony scaffold를 형성하고 microcolony/법랑질 계면 pH 4.5–5.5 산성 microenvironment를 >2시간 유지 — 우식 독성의 핵심 결정인자 확인.
+pH mapping reveals compartmentalised acidic zones (pH 4.5–5.5) at the EPS-microcolony interior and microcolony/enamel interface that resist neutralisation for >2 hours despite a pH 7.0 buffer; gtfB + gtfC deletion abolishes EPS-microcolony complexes and acidic microenvironments and reduces virulence in rodent caries models.
+
+The EPS matrix — not acid production alone — is established as the primary cariogenic virulence determinant by creating microenvironments that protect acidogenic bacteria from neutralization, with glucanohydrolase treatment (dismantling the matrix) eliminating the pH gradients.
+
+## 세줄요약
+혼합균종 바이오필름(S. mutans·S. oralis·A. naeslundii, 1% 수크로스)에서 형광 탐침·공초점 3D 매핑으로 EPS 기질 발달을 시각화한 Review+실험 연구 — 표면 EPS → 3D 확장 → microcolony 기반의 3단계 기질 조립 모델 확립.
+
+EPS-microcolony 내부 및 microcolony/hydroxyapatite 계면에서 pH 4.5–5.5 구획화된 산성 microenvironment 형성; pH 7.0 중화 완충액에도 >2시간 저항 — gtfB+gtfC 결손 돌연변이에서 산성 microenvironment 소실 및 설치류 우식 독성 감소.
+
+EPS 기질 자체(산 생성만이 아닌)가 우식성 독성의 핵심 결정인자 — 글루칸 분해효소(Glucanohydrolase) 처리로 기질 해체 시 pH 기울기 소실, 치료 표적으로 확인.
 
 ## Summary
 Koo et al. argue that the EPS matrix — rather than numerical dominance or acidogenicity of S. mutans per se — is the primary determinant of cariogenic biofilm virulence. Using a fluorescent probe incorporated during Gtf-mediated EPS synthesis, they map 3D spatio-temporal EPS development in mixed-species biofilms (S. mutans, S. oralis, A. naeslundii on sHA with 1% sucrose). A three-phase matrix assembly model is described: (i) surface EPS primes bacterial clustering; (ii) in-situ EPS expansion creates an EPS-enmeshed cell core; (iii) the core scaffolds 3D microcolonies that bridge and aggregate. pH mapping by fluorescent indicator reveals localised acidic zones (pH 4.5–5.5) at the interior of EPS-microcolony complexes and at the microcolony/sHA interface, resisting neutralisation for >2 hours despite neutral pH (7.0) buffer bathing. Deletion of gtfB and gtfC eliminates EPS-microcolony complexes, abolishes acidic microenvironments, and reduces virulence in rodent caries models. gtfB and gtfC expression is highly induced in mixed-species vs. monospecies biofilms, mediated by interspecies autoinducer signalling.

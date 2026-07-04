@@ -14,11 +14,21 @@ source_collection: external
 tags: [socket-shield-technique, SST, orthodontic-extraction, premolar, paired-RCT, bone-preservation, guangzhou-medical]
 ---
 
-## One-line Summary
-Paired RCT (n=26 patients; OMFS 2026): first randomized trial of the socket-shield technique (SST) in the orthodontic-extraction context (first premolar), with extracted teeth paired SST vs conventional and shield removed as the adjacent tooth approaches; evaluates expansion of SST indications into bone preservation for orthodontics.
+## Three-line Summary
 
-## 한줄요약
-RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, paired allocation): 교정 발치 (first premolar) 맥락에서 **SST 첫 RCT**. 발치 치아를 시험군 (SST) vs 대조군 paired. Shield는 인접치 근접 시 제거. SST 적응증의 교정 분야 확장 가능성 평가.
+Paired RCT (n=26 patients, Guangzhou Medical University, OMFS 2026): first randomized trial of the socket-shield technique (SST) in an orthodontic-extraction context, pairing first-premolar extraction sites as SST vs conventional within the same patient.
+
+SST demonstrated superior bone preservation at the extraction site, with shield removed as the adjacent tooth approached during orthodontic treatment, signaling an expanded indication beyond immediate implant placement.
+
+Study limitations include n=26 (single center), variable shield-removal timing dependent on individual tooth-movement speed, and absence of long-term implant outcome data.
+
+## 세줄요약
+
+대응 RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, 대응 배분): 교정 발치(제1소구치) 맥락에서 SST를 시험한 첫 RCT — 동일 환자 내 SST vs 일반 발치 대응 비교.
+
+SST 시행 발치와에서 골보존 우월; shield는 인접치 근접 시 제거 — 즉시 임플란트 외 교정적 골보존 적응증 확장 가능성 시사.
+
+단일 센터 n=26으로 검정력 제한; shield 제거 시점 가변적; 장기 임플란트 결과 데이터 부재.
 
 ## Summary
 SST의 새로운 적응증 — **교정 발치 (orthodontic extraction)**. 기존 SST 문헌은 즉시 임플란트 + 전치부 미용 중심이었으나, 교정 치료를 위한 발치 (보통 premolar)에서도 골보존 가치 — 인접치 이동 후 shield 제거. Paired RCT 디자인 강점.

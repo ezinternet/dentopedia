@@ -32,11 +32,21 @@ tags: [behavioral-dentistry, patient-communication, motivational-interviewing, p
 > - (신규) 치과불안 ladder에 약물 진정(sedation) rung 추가 — Appukuttan 2016이 식별→심리치료(인지행동치료, CBT 최강)→약물(진정/전신마취) 단계틀을 제시하고, 소아 경구 midazolam 0.25–1mg/kg는 협조도 개선(Cochrane SR+MA, 표준화평균차 SMD 1.96; Ashley 2018), 성인 사랑니 의식하진정은 결과지표 비표준화로 결론 보류(Melini 2020).
 > - (신규) MI는 더 큰 행동변화 이론지형의 한 기법 — Kitsaras 2023이 COM-B·행동변화수레바퀴(Behaviour Change Wheel)·co-design을 제시, Aljabaa 2014(교정 순응도 RCT 4편)는 보상/award를 빼면 대부분 중재가 순응도를 개선하나 단일 최적법 근거는 없다고 정리. 환자만족은 5차원(quality·interaction·access·environment·cost)으로 측정(Ebn Ahmady 2015).
 
-## One-line Summary
-Master synthesis of the behavioral-dentistry category (30 papers, 4 axes) — the non-clinical layer that decides whether clinical work lands: motivational interviewing (behavior change), communication & relationship (how care is delivered and decided), patient-reported outcomes (how the patient judges it), and dental anxiety (the barrier that gates all three).
+## Three-line Summary
 
-## 한줄요약
-행동치의학 카테고리 마스터 통합(30편, 4축) — 임상 술식의 성패를 좌우하는 비임상 층위. 동기면담(행동변화)·커뮤니케이션과 관계(전달·의사결정)·환자보고결과(환자의 평가)·치과불안(세 축을 가로막는 장벽).
+Synthesis page spanning 30 papers across 4 axes of behavioral dentistry (motivational interviewing, communication & relationship, patient-reported outcomes, dental anxiety) — the non-clinical layer that determines whether clinical work actually succeeds in producing behavior change, shared decisions, and acceptable patient experience.
+
+MI is firmly effective in general medicine (Lundahl 2013 SR+MA, 48 RCTs, n=9,618, OR 1.55 95% CI 1.40–1.71) and pediatric ECC prevention (Jahanshahi 2022 SR+MA, 6 RCTs, n=2,776), but narrows to BoP −6.41pp only in adult periodontal MI (Cartes-Velasquez 2024); communication is the top determinant of the dentist–patient relationship (Choi 2024), and dental anxiety is confirmed as a physiological and behavioral gate across all three other axes (Pandey 2025, Al Homoud 2023).
+
+The clinical implication is a staged approach: screen for past negative dental experience and anxiety at intake, use non-pharmacological strategies (tell-show-do, distraction) around LA/drilling, apply MI selectively (strong evidence for children/ECC, limited for adult periodontal behavior), use SDM + expectation alignment for complex restorative/esthetic decisions, and capture outcomes with validated PRO instruments — implementation training should use role-play, not didactic lecture.
+
+## 세줄요약
+
+행동치의학 카테고리 30편을 4축(동기면담, 커뮤니케이션과 관계, 환자보고결과, 치과불안)으로 묶은 마스터 통합 페이지 — 술식이 완벽해도 환자의 행동 변화·공유의사결정·결과 인식·내원 협조가 없으면 임상 outcome이 무너진다는 명제가 전체 축.
+
+동기면담(Motivational Interviewing, MI)은 의료 일반에서 교차비(Odds Ratio, OR) 1.55(95% CI 1.40–1.71, 48 RCT, n=9,618; Lundahl 2013)로 견고하고 영유아 우식(Early Childhood Caries, ECC) 예방에도 효과(6 RCT, n=2,776; Jahanshahi 2022)지만, 성인 치주에서는 치은출혈지수(Bleeding on Probing, BoP) −6.41pp만 유의(Cartes-Velasquez 2024); 커뮤니케이션이 의사-환자 관계(Dentist–Patient Relationship, DPR) 최대 결정요인(Choi 2024), 치과불안은 생리·행동 지표로 확인된 모든 축의 장벽(Pandey 2025, Al Homoud 2023).
+
+임상 제언: ① 접수 시 과거 부정경험·불안 스크리닝 → ② 국소마취·드릴링 전 비약물 전략(tell-show-do, distraction) → ③ MI는 영유아 우식엔 우선 적용, 성인 구강엔 제한적 기대 → ④ 복잡한 보철·심미 결정에 공유의사결정(Shared Decision-Making, SDM)+기대 정렬 → ⑤ 검증된 환자보고결과(Patient-Reported Outcome, PRO) 도구로 결과 측정; 동기면담 교육은 강의 아닌 롤플레이로 정착.
 
 ## Summary
 

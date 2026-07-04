@@ -18,13 +18,21 @@ relations:
     target: li-2022-ian-position-nerve-injury-sr-ma
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 18 CBCT studies: absent mandibular canal cortical bone (OR 9.87), dumbbell-shaped canal (OR 8.25), and lingual position (OR 3.82) are the top three tomographic predictors of inferior alveolar nerve injury during mandibular third molar surgery.
+PROSPERO-registered SR+MA of 18 CBCT-based studies (16/18 low risk of bias) identifying tomographic predictors of inferior alveolar nerve (IAN) injury during mandibular third molar extraction.
 
-## 한줄요약
+The three statistically significant predictors with OR >3 are absent mandibular canal cortical bone (OR 9.87), dumbbell-shaped canal (OR 8.25), and lingual canal position (OR 3.82); when all three features coexist the combined OR is 5.06 (95% CI 2.23–11.39).
 
-18개 CBCT 연구 SR+MA — 하치조신경관 피질골 소실(OR 9.87), 아령형 관(OR 8.25), 설측 위치(OR 3.82)가 하치조신경 손상(IAN injury)의 3대 CBCT 예측 인자; 3가지 모두 해당 시 OR 5.06.
+GRADE certainty was moderate-to-high for the top three predictors, supporting their routine inclusion in pre-surgical CBCT radiology reports to enable risk-stratified surgical planning.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (CBCT 기반 18편, 16편 저위험): 하악 제3대구치 발치 시 하치조신경(IAN) 손상 예측 CBCT 지표 규명.
+
+통계적으로 유의한 OR>3 예측 지표 3개: 하치조신경관 피질골 소실(OR 9.87), 아령형 신경관(OR 8.25), 설측 위치(OR 3.82); 3가지 공존 시 결합 OR 5.06.
+
+상위 3대 예측 지표의 GRADE 근거 수준 중등도~높음 — 술전 CBCT 방사선 보고서에 해당 소견 정례 포함 권고.
 
 ## Summary
 

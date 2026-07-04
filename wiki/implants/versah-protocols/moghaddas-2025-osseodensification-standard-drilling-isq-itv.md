@@ -20,13 +20,21 @@ relations:
     target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Prospective clinical trial (21 patients, 39 implants, posterior maxilla): osseodensification raised insertion torque ~37% over standard drilling (50.3 vs 36.1 Ncm, p<0.001) but produced no significant ISQ difference at placement or 3 months — IT and ISQ dissociate, both groups staying above the ISQ 68 threshold.
+Prospective clinical trial (21 patients, 39 implants, posterior maxilla) comparing osseodensification (OD, Versah Densah burs) vs standard drilling (SD) on insertion torque and ISQ at placement and 3 months.
 
-## 한줄요약
+OD raised insertion torque ~37% over SD (50.3 vs 36.1 Ncm, p<0.001) but produced no significant ISQ difference at placement (76.1 vs 71.7, p≈0.13) or 3 months (75.1 vs 73.4, p≈0.47); both groups remained above the ISQ 68 favorable-loading threshold throughout.
 
-전향적 임상시험 (환자 21명, 임플란트 39개, 상악 구치부): 골밀도화 (Osseodensification, OD)가 표준 드릴링 (Standard Drilling, SD) 대비 식립 토크 (Insertion Torque, IT)를 ~37% 높였으나 (50.3 vs 36.1 Ncm, p<0.001), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 식립 시점·3개월 모두 유의차 없음 — 두 군 모두 ISQ 68 임계값 이상 유지, IT와 ISQ가 해리됨.
+Insertion torque and ISQ dissociate with OD in the clinical posterior maxilla — OD significantly raises IT but not ISQ, yet SD already achieves adequate ISQ in well-selected ridges, questioning the necessity of OD for ISQ outcomes alone.
+
+## 세줄요약
+
+전향적 임상시험 (21명, 39개 임플란트, 상악 구치부): 골밀도화 (Osseodensification, OD, Versah Densah bur) vs 표준 드릴링 (SD) — 식립 시 및 3개월 식립 토크(IT)와 임플란트 안정성 지수(ISQ) 비교.
+
+OD가 삽입 토크 (Insertion Torque) ~37% 높음 (50.3 vs 36.1 Ncm, p<0.001)이나 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 식립 시(76.1 vs 71.7, p≈0.13) 및 3개월(75.1 vs 73.4, p≈0.47) 모두 유의차 없음; 양군 모두 ISQ 68 임계값 이상 유지.
+
+임상 상악 구치부에서 OD는 IT를 유의하게 높이나 ISQ는 변화 없음 — IT와 ISQ가 해리됨; 잘 선택된 치조골에서는 SD도 충분한 ISQ를 달성하므로 ISQ 결과만을 위한 OD 필요성은 의문.
 
 ## Summary
 

@@ -16,13 +16,23 @@ text_filename: park-2022-scrp-vs-crp-upper-premolar.txt
 
 SCRP 적용 가능성을 해부학적으로 분석한 첫 CBCT 기반 연구. 상악 소구치 영역에서 SCRP가 항상 가능하지 않다는 임상 맹점을 정량화했으며, [[prosthetic-materials/scrp-overview]]와 같은 SCRP 선택기준 개요 작성을 위한 핵심 근거 논문으로 활용.
 
-## One-line Summary
+## Three-line Summary
+
 
 Retrospective CBCT analysis of 47 Korean patients (58 implants) found SCRP feasible in only 52% of maxillary first premolar vs 78.8% of second premolar areas, with alveolar bone angulation difference (RA) as the strongest predictor (OR=1.885 for CRP).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 후향적 CBCT 분석(47명, 58개 임플란트)에서 상악동 (Screw-and-Cement-Retained Prosthesis, SCRP)의 적용 가능성이 제1소구치 52%, 제2소구치 78.8%였으며, 보철 축 대 치조골 축 각도 차이 (Ridge Angle, RA)가 보철 종류 결정의 독립적 예측인자(OR=1.885)임을 확인.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

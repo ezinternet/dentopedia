@@ -14,13 +14,21 @@ text_filename: marton-2026-enamel-damage-whitening-sr-ma.txt
 tags: [enamel, microhardness, bleaching-safety, peroxide, meta-analysis]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 81 in vitro studies (9 in synthesis) shows peroxide bleaching reduces enamel microhardness by ~11% (ROM = 0.89; 95% CI 0.84–0.94), with exposure time — not concentration — as the main moderator; the reduction is unlikely clinically meaningful and does not support strict concentration-based regulation.
+SR+MA of 81 in vitro studies (9 ISO 28,399-aligned entered quantitative synthesis; PROSPERO CRD42023472326) assessing enamel microhardness change after peroxide bleaching.
 
-## 한줄요약
+Pooled ratio of means (ROM) = 0.89 (95% CI 0.84–0.94; ~11% reduction; I² = 50.8%); exposure time was the significant moderator (10× increase → 6.8% Knoop decrease), while peroxide concentration was not significant.
 
-81편 인비트로 연구 SR+MA에서 과산화물 미백은 법랑질 미세경도를 약 11% 소폭 감소(ROM = 0.89)시켰으나 임상적 유의성은 불명확하며, 농도보다 노출 시간이 주요 조절 변수였다.
+The ~11% reduction approaches but does not clearly exceed the 10% clinical significance threshold, and concentration-based regulation (e.g., EU 6% cap) is not supported by enamel hardness data; ISO-compliant RCTs are still needed.
+
+## 세줄요약
+
+81편 인비트로 연구 SR+MA (ISO 28,399 적합 9편만 정량합성; PROSPERO CRD42023472326) — 과산화물 미백 후 법랑질 미세경도 변화 평가.
+
+ROM = 0.89 (약 11% 감소; I² = 50.8%); 노출 시간이 유의한 조절 변수(10배 증가 → 6.8% Knoop 감소), 과산화물 농도는 유의하지 않음.
+
+약 11% 감소는 임상적 유의 기준(10%)에 근접하나 초과 명확하지 않음; 농도 기반 규제(EU 6% 상한)는 경도 데이터로 지지되지 않으며 ISO 적합 RCT 추가 필요.
 
 ## Summary
 

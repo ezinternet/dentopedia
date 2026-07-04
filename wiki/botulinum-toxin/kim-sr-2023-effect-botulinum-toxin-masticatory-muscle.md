@@ -14,11 +14,21 @@ source_collection: external
 tags: [BoNT/A, MMP, masticatory-muscle-pain, headache, pilot-RCT, tender-points, Yonsei, double-blind]
 ---
 
-## One-line Summary
-Double-blind placebo-controlled pilot RCT (n=21; BoNT/A n=14 vs saline n=7) in myogenous TMD with masticatory muscle pain (MMP) and concurrent headache: tender-point-guided BoNT/A produced significant within-group reductions in orofacial VAS, tender point count, headache VAS, and headache frequency over 12 weeks (all p ≤ 0.005), with tender point count significantly lower than saline at all timepoints; MMO did not change and no adverse events occurred.
+## Three-line Summary
 
-## 한줄요약
-연세대 파일럿 RCT (n=21) — BoNT/A는 12주간 orofacial VAS, 압통점 수, headache VAS·빈도에서 군내 유의한 감소를 보였고 (p<0.005), 압통점 수는 saline 대비 군간 유의한 차이.
+Double-blind placebo-controlled pilot RCT at Yonsei University (n=21; BoNT/A n=14 vs saline n=7) in myogenous TMD patients (19F/2M, age 21–53) with masticatory muscle pain (MMP) and concurrent headache, using tender-point-guided injections across up to 16 muscle areas (masseter, temporalis, splenius capitis, SCM, trapezius).
+
+BoNT/A produced significant within-group reductions in orofacial VAS (5.00→2.50, p=0.003), tender point count (9.50→4.50, p<0.001), headache VAS (4.50→0.00, p=0.005), and headache frequency over 12 weeks; tender point count was significantly lower than saline at all follow-up timepoints; MMO did not improve and no adverse events occurred.
+
+The novel value is pairing MMP and headache as co-primary outcomes with a tender-point-guided protocol; as a pilot RCT (2:1 allocation, n=21) it lacks power to establish efficacy and should not be extrapolated beyond hypothesis-generation without a confirmatory trial.
+
+## 세줄요약
+
+연세대 이중맹검 위약 대조 파일럿 RCT(BoNT/A n=14 vs saline n=7) — 교근통(MMP) + 두통 동반 교근형 TMD 환자에서 압통점 유도 주사(교근·측두근·경추근군 등 최대 16개 근육 부위).
+
+BoNT/A군에서 12주간 구강안면 VAS(5.00→2.50, p=0.003), 압통점 수(9.50→4.50, p<0.001), 두통 VAS(4.50→0.00, p=0.005), 두통 빈도 모두 군내 유의 감소; 압통점 수는 전 추적 시점에서 saline 대비 군간 유의 차이; MMO 불변, 이상반응 없음.
+
+파일럿 규모(n=21, 2:1 배정)로 검정력 부족 — 효능 확립이 아닌 가설 생성 수준; 확증 RCT 없이 더 넓은 TMD 집단에 외삽 금지.
 
 ## Summary
 This Yonsei University pilot RCT compared BoNT/A (n=14) to saline placebo (n=7) in 21 patients with myogenous TMD presenting with masticatory muscle pain (MMP) and concurrent headache. Injections were tailored to palpated tender sites across 16 muscle areas (masseter, temporalis, splenius capitis, sternocleidomastoid, trapezius). Over 12 weeks, BoNT/A produced significant within-group reductions in orofacial VAS, tender point count, headache VAS, and headache frequency (all p ≤ 0.005), while none of these changed in the saline group. The decline in tender point count significantly differed between groups at all follow-up timepoints. No adverse events were reported.

@@ -13,13 +13,23 @@ source_collection: external
 
 radiology 카테고리 CBCT 선량·dosimetry의 의학물리 기반 레퍼런스. [[radiology/kang-2024-national-dental-radiological-dose-management]]의 국가 선량관리·DRL과 [[radiology/lee-2019-cbct-dose-osl-monte-carlo-comparison]]의 선량측정 방법론을 물리학적으로 묶는 허브.
 
-## One-line Summary
+## Three-line Summary
+
 
 Medical-physics review of dental CBCT: scanner technical features, dose optimization, dosimetry methods, and diagnostic reference levels (DRLs).
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 
 치과 CBCT 의학물리 리뷰: 스캐너 기술특성, 선량 최적화, 선량측정법, 진단참고수준(DRL) 종합.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

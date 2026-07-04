@@ -18,13 +18,21 @@ relations:
     target: zyla-2015-black-stain-dental-caries-review
 ---
 
-## One-line Summary
+## Three-line Summary
 
-2025 narrative review (Eur J Oral Sci, n=literature): Actinomyces-dominant black stain biofilm deposits iron sulfide via H₂S pathway; prevalence 2.4–20%; inverse caries association; standard treatment is ultrasonic scaling.
+2025 narrative review (Eur J Oral Sci; abstract-only) synthesizing etiology, microbiology, salivary biochemistry, epidemiology, and treatment of bacterially-derived dental black stain (BS).
 
-## 한줄요약
+Actinomyces spp. produce H₂S that reacts with elevated salivary Fe³⁺ to precipitate ferric sulfide black deposits; prevalence 2.4–20% across all ages/genders; individuals with BS show elevated salivary iron, pH, Na, Cu, Ca/P and reduced flow rate, correlating with an inverse caries association.
 
-2025년 서사적 고찰: Actinomyces 주도 흑색 치태는 H₂S 경로를 통해 황화철을 침착하며, 유병률 2.4–20%, 우식 역상관 관계, 표준 치료는 초음파 스케일링.
+First-line treatment is repeated professional ultrasonic scaling; alternative modalities (PDT, coconut oil, probiotics, lactoferrin) have limited evidence and must be balanced against enamel damage risk; no standardized protocol has demonstrated superiority over scaling.
+
+## 세줄요약
+
+2025년 서사적 고찰 (Eur J Oral Sci; 초록만 수집): 세균 유래 치아흑색착색(black stain, BS)의 병인·미생물학·타액생화학·역학·치료를 종합.
+
+Actinomyces 속 세균이 생성한 황화수소(H₂S)와 타액 내 과잉 Fe³⁺이 반응하여 황화철(FeS)을 침착; 유병률 2.4–20%, 전 연령·성별 동일; BS 보유자는 타액 철·pH·Na·Cu·Ca/P↑, 타액 유량↓, 우식과 역상관.
+
+1차 치료는 반복적 전문가 초음파 스케일링; 광역동치료·코코넛오일·프로바이오틱스·락토페린 등 대안은 근거 제한적이며 법랑질 손상 위험 고려 필요; 표준화된 우월 프로토콜 미확립.
 
 ## Summary
 

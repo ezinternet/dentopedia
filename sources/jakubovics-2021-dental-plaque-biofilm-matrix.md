@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 Comprehensive narrative review of the extracellular matrix of dental plaque — the foundational scaffold that enables [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]] and underpins cariogenic virulence described in [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]].
 
-## One-line Summary
+## Three-line Summary
+
 Narrative review of the molecular composition and functional roles of the dental plaque extracellular matrix (carbohydrates, proteins, eDNA, lipids), with emphasis on subgingival matrix and its relevance to periodontal disease pathogenesis.
 
-## 한줄요약
+(incomplete)
+
+(incomplete)
+
+## 세줄요약
+
 Narrative review: 치태 세포외 기질(carbohydrates, proteins, eDNA, lipids)의 조성과 기능 총괄 — 치주 병원성과의 연관성 및 항바이오필름 표적으로서의 가능성 제시.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 - Periodontology 2000. 2021;86(1):32–56. Published online 2021 April. Open access (CC BY).

@@ -17,13 +17,21 @@ text_filename: basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping.txt
 
 기존 inlay scoping review 두 편은 다른 축을 다룬다 — [[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]]는 재료별 **생존율**, [[inlay/sirikatitham-2026-fracture-resistance-partial-coverage-scoping]]는 prep design별 **파절저항**. 본 Basheer 2026은 세 번째 축인 **제작 방식**(CAD/CAM 절삭 가공 vs 3D 프린팅 적층 제조)을 inlay·onlay·veneer 전반에 매핑한 scoping review로, 디지털 워크플로우(3D-printed 수복물)의 임상 outcome(적합도·강도·심미·제작시간)을 기존 페이지가 다루지 않은 각도에서 보강한다. 특히 [[inlay/lim-2023-milled-vs-3d-printed-inlays-accuracy]] (밀링 vs 3D 프린팅 인레이 정확도)를 포함·확장한다.
 
-## One-line Summary
+## Three-line Summary
 
-Scoping review (PRISMA-ScR, Arksey & O'Malley framework) of 30 studies (27 in-vitro, 3 case reports; 2000–Jun 2025) mapping clinical-outcome evidence for CAD/CAM-milled vs 3D-printed inlays, onlays, and veneers — both methods reach clinically acceptable marginal fit (<120 µm), CAD/CAM is faster (45–90 min) with higher ceramic strength, 3D printing offers better adaptation/customization (especially veneers) but longer fabrication (90–150 min) and lower hardness/color stability; no long-term clinical trials exist.
+Scoping review (PRISMA-ScR; Arksey & O'Malley framework; 30 studies — 27 in-vitro, 3 case reports; 2000–June 2025; no RCTs) mapping fabrication-method evidence for CAD/CAM-milled vs 3D-printed inlays, onlays, and veneers across marginal fit, fracture resistance, fabrication time, and esthetics.
 
-## 한줄요약
+Both methods achieve clinically acceptable marginal fit (<120 µm); CAD/CAM is faster (45–90 min) with higher ceramic fracture resistance (≤2500 N lithium disilicate); 3D printing offers better adaptation/customization — especially for veneers — but requires longer fabrication (90–150 min) and shows lower hardness and colour stability.
 
-30편(in-vitro 27 + 증례 3) 스코핑 리뷰 — CAD/CAM 밀링과 3D 프린팅 모두 임상 허용 변연적합(<120 µm) 달성; CAD/CAM은 더 빠르고(45–90분) 세라믹 강도 우수, 3D 프린팅은 적합·맞춤성(특히 비니어) 우수하나 제작시간 길고(90–150분) 경도·색안정성 낮음. 장기 임상시험은 부재.
+No long-term clinical trials exist comparing CAD/CAM vs 3D-printed indirect restorations; current evidence is dominated by in-vitro studies and the clinical-performance gap cannot yet be filled; 3D-printed zirconia veneers show the strongest emerging potential.
+
+## 세줄요약
+
+스코핑 리뷰(PRISMA-ScR; 30편 — in-vitro 27 + 증례 3; 2000–2025년 6월; RCT 없음) — CAD/CAM 밀링 vs 3D 프린팅 인레이·온레이·비니어의 변연적합·파절저항·제작시간·심미 근거 매핑.
+
+두 방법 모두 임상 허용 변연적합 달성(<120 µm); CAD/CAM 더 빠르고(45–90분) 세라믹 파절저항 높음(최대 2500 N); 3D 프린팅은 적합·맞춤 우수(특히 비니어)하나 제작시간 길고(90–150분) 경도·색안정성 낮음.
+
+CAD/CAM vs 3D 프린팅 간접수복물을 비교한 장기 임상시험이 없어 임상 성능 공백은 아직 메울 수 없으며, 3D 프린팅 지르코니아 비니어가 가장 유망한 적용 분야로 부각된다.
 
 ## 1. Document Information
 

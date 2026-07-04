@@ -14,11 +14,21 @@ source_collection: external
 tags: [access-cavity, ConsAC, TradAC, conservative-access, canal-orifice, debris, scoping-review]
 ---
 
-## One-line Summary
-PRISMA-ScR scoping review (10 studies from 3,697 records): conservative access cavities (ConsAC) trend toward more residual debris, while traditional/guided access (TradAC) offers superior canal orifice localization precision.
+## Three-line Summary
 
-## 한줄요약
-Scoping review (3,697건 → 10연구): conservative access cavity(ConsAC) → 잔류 debris 증가 경향; traditional/guided access(TradAC) → 근관구 위치 정확도 우위
+PRISMA-ScR scoping review (10 studies selected from 3,697 records) comparing conservative access cavities (ConsAC) versus traditional/guided access (TradAC) on canal orifice localization and residual debris presence.
+
+ConsAC showed a trend toward more residual debris and greater difficulty in canal orifice localization compared with TradAC, which offered superior detection precision; however, evidence is based on only 10 heterogeneous studies, mostly in vitro.
+
+Clinically, ConsAC may be appropriate for simple single-canal teeth, but for complex anatomy (MB2, calcified canals) TradAC with magnification remains preferred to avoid missed orifices and iatrogenic complications.
+
+## 세줄요약
+
+PRISMA-ScR 스코핑 리뷰(3,697건 → 10개 연구): 보존적(ConsAC)·전통적/유도(TradAC) 접근와동을 근관구 위치 파악·잔류 debris 측면에서 비교.
+
+ConsAC는 잔류 debris 증가 경향·근관구 탐색 어려움; TradAC는 근관구 위치 정확도 우위 — 단 10개 이질적 연구(대부분 in vitro)이므로 '경향성'에 그침.
+
+임상 의미: 단순 단일 근관치아에는 ConsAC도 가능하나, 복잡 해부(MB2, 석회화)에는 확대기구+TradAC가 표준.
 
 ## Summary
 PRISMA-ScR scoping review, 10 studies from 3,697 records. Compares **ConsAC vs TradAC** on canal orifice localization and debris presence. Trend: conservative = more debris; traditional/guided = superior orifice detection precision.

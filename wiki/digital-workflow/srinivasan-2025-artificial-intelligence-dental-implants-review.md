@@ -13,11 +13,19 @@ source_collection: external
 tags: [AI, artificial-intelligence, digital-dentistry, implant-identification, treatment-planning, complication-management, clinical-translation]
 ---
 
-## One-line Summary
-Narrative review (IJDM 2025;7(4):120–124, Chettinad): AI in dental implants overview — improved diagnostic efficiency, treatment planning, and patient outcomes; advantages of accuracy, speed, and precision; clinical limitations (cost, regulation, interpretability) remain; further clinical trials needed.
+## Three-line Summary
+Narrative review (IJDM 2025;7(4):120–124, Chettinad Dental College) covering AI-driven advancements in dental implants across four roles: implant identification, treatment planning, outcome prediction, and complication management.
 
-## 한줄요약
-narrative-review(IJDM 2025;7(4):120-124, Chettinad): AI 임플란트 임상 적용 총론 — 진단효율·치료계획·환자결과 향상; 정확성·신속성·정밀성; 임상적 한계(비용·규제·해석불가) 상존; 추가 임상시험 필요.
+AI provides key advantages in accuracy, rapidity, and precision of clinical decision-making, with ongoing advances promising personalized and efficient oral healthcare delivery.
+
+Current clinical translation is limited by high costs, data dependency, limited model interpretability, and regulatory constraints; AI is recommended as a supportive decision-assistance tool pending further prospective clinical trial evidence.
+
+## 세줄요약
+내러티브 리뷰(IJDM 2025;7(4):120–124, Chettinad 치과대): AI 임플란트 적용의 4가지 역할 — 임플란트 식별·치료계획·결과예측·합병증 관리를 총망라.
+
+AI의 핵심 강점은 임상 의사결정의 정확성·신속성·정밀성이며, 개인 맞춤형 효율적 구강 의료 제공 가능성을 제시.
+
+높은 비용·데이터 의존성·해석 불가·규제 장벽이 임상 전환을 제한하며, 추가 전향적 임상시험 근거가 확보될 때까지 AI는 보조 의사결정 도구로 활용 권장.
 
 ## Summary
 Narrative review (Chettinad Dental College, IJDM 2025) on AI-driven advancements in dental implants. Covers AI roles in implant identification, planning, prediction, and complication management, highlighting both promise and current limitations.

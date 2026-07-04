@@ -17,13 +17,21 @@ text_filename: delgado-2025-functional-monomers-dental-adhesive-technology.txt
 
 Super-Bond 성분(4-META) surveillance — the wiki holds 10-MDP / IDS / titanium-bonding / saliva-contamination pages but had no canonical reference for the **4-META (4-methacryloxyethyl trimellitic anhydride)** monomer chemistry that defines the Super-Bond / 4-META-MMA-TBB resin family. This narrative review by Van Meerbeek's group lays out 4-META structure, its hydrolysis to 4-MET, pKa/acidity, etching behaviour, and HAp/collagen interaction, and benchmarks it head-to-head against 10-MDP and GPDM. It reinforces [[resin-bonding/fehrenbach-2021-10-mdp-bonding-performance-sr-ma]] (10-MDP superiority quantified) and feeds the cross-paper picture in [[overviews/adhesive-bonding-strategies-overview]].
 
-## One-line Summary
+## Three-line Summary
 
-Literature-based narrative review (PubMed/Scopus/LILACS, 2005–2025) of the physico-chemical properties of acidic functional monomers in contemporary adhesives; 10-MDP dominates (~50% of marketed adhesives) and outperforms 4-META/GPDM on bonding, hydrolytic stability and collagen interaction, while 4-META (carboxylic, pKa of 4-MET ≈ 2.9, hydrolyzes to 4-MET) remains a structurally weaker but still-used monomer.
+Literature-based narrative review (PubMed/Scopus/LILACS, 20-year window 2005–2025; Van Meerbeek group) synthesizing physico-chemical properties — MW, Log P, Log S, pKa, etching efficacy, hydrolytic stability — of acidic functional monomers (10-MDP, GPDM, 4-META/4-MET, and 9 others) in contemporary dental adhesives.
 
-## 한줄요약
+10-MDP dominates (~50% of marketed adhesives) and meta-analytic data show it significantly outperforms 4-META, 4-MET, GPDM, 6-MHP, PENTA, and Pyro-EMA (p<0.01) on bond strength and hydrolytic stability; 4-META (carboxylic, MW 304.2, pKa of hydrolyzed 4-MET ≈ 2.9 vs 10-MDP pKa 2.2) forms less hydrolytically stable calcium salts and lacks 10-MDP's stable collagen complexation.
 
-문헌기반 내러티브 리뷰(2005–2025): 현대 접착제의 산성 기능성 단량체를 물리화학적으로 정리한다. 10-MDP가 시판 접착제의 약 50%를 차지하며 4-META·GPDM보다 결합력·가수분해 안정성·콜라겐 상호작용에서 우월하다. 4-META는 카르복실산계로 수용액에서 4-MET로 가수분해되며(4-MET pKa ≈ 2.9) 구조적으로 약하지만 여전히 다수 제형에 사용된다.
+Acidic-monomer concentration in commercial products is usually undisclosed, limiting cross-product comparison; long-term clinical data for newer monomers (PEM-F, 4-AET, MAC-10) are insufficient to confirm equivalence with 10-MDP.
+
+## 세줄요약
+
+문헌 기반 내러티브 리뷰 (PubMed/Scopus/LILACS, 20년 창 2005~2025년; Van Meerbeek 그룹) — 현대 치과 접착제의 산성 기능성 단량체(10-MDP·GPDM·4-META/4-MET 외 9종)의 MW·Log P·pKa·에칭 효능·가수분해 안정성을 물리화학적으로 정리했다.
+
+10-MDP는 시판 접착제의 약 50%를 차지하며, 메타분석 데이터에서 4-META·4-MET·GPDM·6-MHP·PENTA·Pyro-EMA 대비 결합강도·가수분해 안정성 모두 유의하게 우월(p<0.01); 4-META(카르복실산계, MW 304.2, 가수분해물 4-MET pKa ≈ 2.9 vs 10-MDP 2.2)는 칼슘염 안정성이 낮고 콜라겐 안정적 복합체 형성 능력이 없다.
+
+시판 제품의 단량체 농도가 대부분 비공개여서 제품 간 비교가 제한적이며, 신형 단량체(PEM-F·4-AET·MAC-10)의 장기 임상 데이터가 불충분하다.
 
 ## 1. Document Information
 

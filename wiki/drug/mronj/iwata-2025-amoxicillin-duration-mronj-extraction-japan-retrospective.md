@@ -14,11 +14,21 @@ source_collection: external
 tags: [MRONJ, amoxicillin, bisphosphonate, tooth-extraction, prophylaxis, single-dose, Japan, multi-center, retrospective, AMR]
 ---
 
-## One-line Summary
-Japanese 4-center retrospective comparison (J Bone Miner Metab 2025, n=160 low-dose BP patients): amoxicillin (AMPC) for MRONJ prevention at extraction — single preoperative 500 mg vs 3-day course — MRONJ incidence equivalent → single preoperative dose is sufficient to avoid AMR exposure.
+## Three-line Summary
 
-## 한줄요약
-일본 4기관 후향 비교 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방 amoxicillin (AMPC) — 술전 단일 500mg vs 3일 코스 — MRONJ 발생률 **동등** → AMR 회피 목적 단일 술전 dose로 충분.
+Japanese 4-center retrospective comparison (J Bone Miner Metab 2025; n=160 low-dose oral bisphosphonate patients undergoing tooth extraction) comparing single preoperative amoxicillin 500 mg versus a 3-day postoperative course for MRONJ prevention.
+
+MRONJ development rates were equivalent between the single-dose and 3-day regimens in both cohorts (2019-2021 vs 2022-2024), all with tension-free primary closure.
+
+Clinical implication: a single preoperative AMPC 500 mg combined with atraumatic technique and tension-free closure is a defensible protocol for low-dose oral BP patients; does not apply to high-dose IV antiresorptives (zoledronic acid, Xgeva) or denosumab.
+
+## 세줄요약
+
+일본 4기관 후향 비교 연구(J Bone Miner Metab 2025; n=160 저용량 경구 비스포스포네이트 발치 환자) — MRONJ 예방 amoxicillin 술전 단일 500 mg vs 3일 코스 비교.
+
+두 코호트(2019-2021 vs 2022-2024) 모두 MRONJ 발생률 동등; 전체 증례에서 무장력 1차 봉합 시행.
+
+임상적 의미: 저용량 경구 BP 환자 발치 시 술전 AMPC 500 mg 단일 투여 + 무외상 술기 + 무장력 봉합이 AMR 회피를 위한 방어적 프로토콜로 타당; IV 고용량 항흡수제(조레드론산, Xgeva) 또는 데노수맙에는 적용 불가.
 
 ## Summary
 Japanese 4-center retrospective comparative study (2019-2024, n=160) evaluating amoxicillin (AMPC) duration for MRONJ prevention in patients on low-dose oral bisphosphonates requiring tooth extraction. The 2019-2021 cohort received standard AMPC 500mg preoperatively + 750mg/day for 2 days postoperatively. The 2022-2024 cohort received only a single preoperative 500mg dose (intentionally shortened to reduce AMR exposure). Tension-free wound closure was performed in all cases.

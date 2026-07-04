@@ -18,13 +18,21 @@ relations:
     target: fan-2018-occlusal-trauma-and-excessive-occlusal
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Rat split-mouth study (n=14 male Sprague-Dawley, unilateral maxillary molar extraction, 8 wk) showing occlusal hypofunction decreases BMD and BV/TV and increases osteoclast number, with upregulated sclerostin and RANKL and downregulated β-catenin — implicating sclerostin-driven inhibition of Wnt/β-catenin signaling as the molecular mechanism of disuse alveolar bone loss.
+Rat split-mouth animal study (n=14 male Sprague-Dawley; unilateral maxillary molar extraction + incisor abrasion to create occlusal hypofunction, contralateral side as paired control; 8-week endpoint; micro-CT, TRAP histology, IHC).
 
-## 한줄요약
+Hypofunction side showed ↓BMD, ↓BV/TV (P<0.001), ↑osteoclast number (P<0.001), ↑sclerostin and ↑RANKL expression, ↓β-catenin — pointing to sclerostin-mediated inhibition of Wnt/β-catenin signaling (suppressing bone formation) combined with RANKL-driven osteoclastogenesis as the molecular mechanism.
 
-Rat split-mouth 연구(수컷 Sprague-Dawley 14마리, 편측 상악 대구치 발치로 교합저하 유도, 8주) — 교합저하 측에서 골밀도(BMD)·BV/TV 감소와 파골세포 증가가 sclerostin·RANKL 상승, β-catenin 저하와 동반됨을 보여, sclerostin이 Wnt/β-catenin 신호를 억제해 disuse 치조골 소실을 일으키는 분자 기전임을 시사.
+This is the first demonstration of sclerostin upregulation in an occlusal-hypofunction jaw-bone model; the finding extends a known long-bone unloading mechanism to alveolar bone and proposes anti-sclerostin antibody as a candidate protective therapy for disuse jaw-bone loss after tooth loss.
+
+## 세줄요약
+
+수컷 흰쥐 split-mouth 연구(n=14, 편측 상악 대구치 발치+절치 마모로 교합저하 유도, 반대측 대조; 8주; micro-CT·TRAP 조직학·면역조직화학).
+
+교합저하 측에서 BMD·BV/TV 감소(p<0.001), 파골세포 증가(p<0.001), sclerostin·RANKL 상승, β-catenin 저하 — sclerostin이 Wnt/β-catenin 신호를 억제해 골형성 감소, RANKL 증가로 파골세포 활성화.
+
+치조골에서 교합저하 상황의 sclerostin 상향 조절을 처음으로 입증; 장골 unloading 기전을 악골에 확장하고 anti-sclerostin 항체를 발치 후 disuse 치조골 소실 보호 요법 후보로 제안.
 
 ## Summary
 

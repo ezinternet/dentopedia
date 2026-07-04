@@ -14,11 +14,19 @@ source_collection: external
 tags: [aspirin, cardiovascular-prevention, primary-prevention, USPSTF, guideline, bleeding-risk, antiplatelet, CRC]
 ---
 
-## One-line Summary
-2022 USPSTF recommendation statement narrowing low-dose aspirin for primary cardiovascular disease (CVD) prevention: adults 40–59 y with ≥10% 10-year CVD risk = Grade C (individualize), adults ≥60 y = Grade D (recommend against initiation), reversing the 2016 statement because age-related bleeding harms now outweigh the small CVD benefit; applies only to primary prevention, not established secondary prevention.
+## Three-line Summary
+2022 USPSTF recommendation statement (JAMA 327:1577) updating low-dose aspirin use for primary CVD prevention based on ASPREE, ARRIVE, and ASCEND trials; covers adults 40–59 y and ≥60 y without established CVD.
 
-## 한줄요약
-USPSTF 2022 권고 (JAMA): 저용량 aspirin 1차예방 — 40-59세 ≥10% 10년 CVD 위험 성인은 C등급 개별 결정; ≥60세 신규 시작 권고 안 함 (D등급) — 2016년 권고에서 후퇴, 출혈 위험 (GI·뇌출혈) > 이득.
+Adults 40–59 y with ≥10% 10-year CVD risk: Grade C (small net benefit, individualize); adults ≥60 y: Grade D (recommend against initiation) — reversed from 2016 because age-related GI and intracranial bleeding harms now outweigh the small CVD benefit.
+
+Applies only to primary prevention initiation; does not affect patients already on aspirin for secondary prevention (post-MI, post-stroke, post-stent), who should continue per established non-interruption protocols in dental management.
+
+## 세줄요약
+USPSTF 2022 권고문(JAMA 327:1577): ASPREE·ARRIVE·ASCEND 기반 저용량 아스피린 1차 CVD 예방 업데이트; 기확립 CVD 없는 40–59세·≥60세 대상.
+
+40–59세 ≥10% 10년 CVD 위험: C등급(소폭 이득, 개별 결정); ≥60세: D등급(신규 시작 권고 안 함) — 연령 관련 GI·뇌출혈 위험이 이득 초과해 2016년 권고 후퇴.
+
+1차예방 신규 시작에만 적용; 기확립 2차예방(MI 후·뇌졸중 후·스텐트 후) 환자는 기존 복약 유지, 치과 처치 시 비중단 원칙 적용 변동 없음.
 
 ## Summary
 2022 US Preventive Services Task Force update revising the population eligible for aspirin primary CVD prevention. The recommendation narrows substantially compared with the 2016 statement:

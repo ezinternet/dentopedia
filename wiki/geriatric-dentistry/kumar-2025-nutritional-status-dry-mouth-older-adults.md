@@ -16,11 +16,19 @@ relations:
     target: dibello-2022-oral-frailty-indicators-adverse-health-outcomes
 ---
 
-## One-line Summary
-SR+MA (14 studies) - hyposalivation is strongly associated with malnutrition in non-cancer older adults; pooled xerostomia prevalence 38%, malnutrition 55%; dry mouth impairs chewing, swallowing and taste.
+## Three-line Summary
+SR + MA (14 studies — 11 cross-sectional, 2 case-control, 1 cohort — 4 databases searched to December 2024, PROSPERO registered) quantifying the association between dry mouth and nutritional status in non-cancer older adults.
 
-## 한줄요약
-SR+MA(14편) - 비암성 노인에서 타액분비저하가 영양실조와 강하게 연관; 통합 xerostomia 유병률 38%·영양실조 55%; 구강건조가 저작·연하·미각 저하.
+Pooled xerostomia prevalence was 38% (95% CI 22–57%) and malnutrition prevalence 55% (95% CI 34–74%); 13 of 14 studies reported a statistically significant association between dry mouth and malnutrition, with high heterogeneity (I²).
+
+The proposed pathway (dry mouth → impaired chewing/swallowing/taste → malnutrition) underscores the need for early detection and management of hyposalivation as part of geriatric dental care; diagnostic standardization is needed to reduce study heterogeneity.
+
+## 세줄요약
+SR+MA(14편 — 횡단11·환자대조2·코호트1, 4개 DB 2024년 12월까지, PROSPERO 등록) — 비암성 노인의 구강건조와 영양 상태의 연관을 정량화.
+
+통합 구강건조증(xerostomia) 유병률 38%(22–57%), 영양실조 55%(34–74%); 14편 중 13편에서 구강건조↔영양실조 유의 연관, 이질성 높음(I²).
+
+구강건조→저작/연하/미각 저하→영양실조 경로를 제시하며, 노인 치과진료에서 타액분비저하의 조기 발견·관리 필요성 강조; 이질성 감소를 위한 진단기준 표준화 필요.
 
 ## Summary
 노인 구강건조(hyposalivation)와 영양상태의 연관을 정량화한 SR+MA. 구강건조→저작/연하/미각 저하→영양실조 경로를 제시 - 조기 발견·관리의 근거.

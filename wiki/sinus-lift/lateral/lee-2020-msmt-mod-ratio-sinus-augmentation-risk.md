@@ -15,13 +15,21 @@ text_filename: lee-2020-msmt-mod-ratio-sinus-augmentation-risk.txt
 tags: [MSMT, MOD, ostium-distance, sinusitis-risk, preoperative-risk, Korean-institution]
 ---
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective study (n=120, 11 years, Korean tertiary center) showing MSMT/MOD ratio — not MOD alone — significantly differentiates preoperative sinusitis-risk groups; osteomeatal complex status provides additional independent risk signal for sinus augmentation planning.
+Retrospective 11-year cohort (n=120 patients, Seoul St. Mary's Hospital) stratified into three management groups (no antibiotics / preoperative antibiotics / implant after FESS) to validate MSMT, MOD, and MSMT/MOD ratio as preoperative risk metrics for sinus augmentation.
 
-## 한줄요약
+MSMT/MOD ratio significantly differentiated all three groups (A: 0.19, B: 0.39, C: 0.78; all pairings p≤0.003), while MOD alone showed no significant between-group differences; OMC obstruction acted as an independent sinusitis risk factor overriding a favorable MSMT/MOD ratio; postoperative sinusitis was 1.6%.
 
-한국 3차병원 11년 후향적 연구(n=120)에서 상악동점막두께(MSMT)/자연공-동저 거리(MOD) 비율이 세 군 간 유의한 차이를 보인 반면 MOD 단독은 무의미; 자연공-골수계(OMC) 폐쇄가 독립적 위험인자임을 확인.
+The MSMT/MOD ratio — the proportion of sinus depth occupied by mucosal disease — is a more sensitive pre-augmentation risk metric than absolute mucosal thickness alone; OMC status must be assessed independently.
+
+## 세줄요약
+
+11년 후향적 코호트 (n=120, 서울성모병원) 3군 (항생제 없음 / 술전 항생제 / 기능적 내시경 부비동 수술 [FESS] 후 임플란트) 분류: 상악동점막두께 (Maxillary Sinus Mucosal Thickness, MSMT), 자연공-동저 거리 (MOD), MSMT/MOD 비율 검증.
+
+MSMT/MOD 비율이 세 군을 모두 유의하게 구분 (A: 0.19, B: 0.39, C: 0.78; 모든 쌍 p≤0.003); MOD 단독은 군 간 차이 없음; 오스티오메아탈 복합체 (OMC) 폐쇄는 비율이 낮아도 부비동염 위험 독립 가중; 술후 부비동염 1.6%.
+
+MSMT/MOD 비율은 절대 점막 두께보다 민감한 거상술 전 위험 지표이나, OMC 상태는 반드시 별도로 평가해야 함.
 
 ## Summary
 

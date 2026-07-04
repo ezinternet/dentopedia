@@ -17,13 +17,21 @@ text_filename: abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment
 
 기존 [[periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]]와 [[periodontics/hamasni-2017-biologic-width-restorative-dentistry]]는 biologic width(SCTA/STA)의 정의·침범·교정을 정성적으로 다루지만, "2.04 mm는 모든 치아에 보편적인가?"라는 정량 질문에는 답을 주지 못한다. 본 in-vivo 디지털 측정 연구(203치)는 STA 치수가 치아 위치·표현형(phenotype)에 따라 크게 달라짐(하악·전치·얇은 표현형에서 더 큼)을 보여, biologic-width 페이지들의 "표준 2 mm" 전제를 정량적으로 보강·한정한다.
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective in-vivo digital-superimposition study (DICOM+STL, 19 patients / 203 teeth) measuring supracrestal tissue attachment dimensions (STADs): overall mean 2.05 mm but varying by tooth position (mandibular>maxillary, anterior>posterior) and inversely with buccal bone thickness, gingival thickness, and keratinized tissue width — STA is not a universal 2.04 mm.
+Retrospective in-vivo digital-superimposition study (DICOM+STL, 19 periodontally healthy patients / 203 teeth) measuring supracrestal tissue attachment dimensions (STADs) noninvasively across six tooth-position groups.
 
-## 한줄요약
+Overall mean STAD was 2.05 mm (range 0.02–5.85 mm); mandibular anterior/canine STADs were largest (MnC 2.70, MnA 2.56 mm); STADs inversely correlated with buccal bone thickness (r=−0.419), gingival thickness (r=−0.283), and keratinized tissue width (r=−0.138).
 
-후향적 in-vivo 디지털 중첩 연구(DICOM+STL, 19명/203치) — 초치조상부 조직부착 치수(Supracrestal Tissue Attachment Dimension, STAD) 평균 2.05 mm이나, 치아 위치(하악>상악, 전치>구치)와 표현형에 따라 크게 다르고 협측 골두께·치은두께·각화치은폭과는 역상관 → biologic width는 모든 치아에서 2.04 mm로 고정된 값이 아님.
+The classic "universal 2.04 mm biologic width" is a mean, not a fixed value — thin-phenotype mandibular anterior sites carry the greatest risk of STAD violation from subgingival margins or crown lengthening.
+
+## 세줄요약
+
+후향적 in-vivo 디지털 중첩 연구 (DICOM+STL, 치주 건강한 19명/203치): 초치조상부 조직부착 치수 (Supracrestal Tissue Attachment Dimension, STAD)를 6개 치아 위치군에서 비침습적으로 계측.
+
+전체 평균 STAD 2.05 mm (범위 0.02–5.85 mm); 하악 견치(2.70 mm)·전치(2.56 mm)가 가장 크며, 협측 골두께(r=−0.419)·치은두께(r=−0.283)·각화치은폭(r=−0.138)과 역상관.
+
+"보편적 biologic width 2.04 mm"는 평균일 뿐 — 얇은 표현형의 하악 전치·견치에서 치은연하 마진이나 치관연장술 시 STAD 침범 위험이 가장 높음.
 
 ## 1. Document Information
 

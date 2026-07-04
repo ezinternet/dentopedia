@@ -22,13 +22,21 @@ relations:
     target: srinivasan-2021-cad-cam-removable-complete-dentures
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (5 studies, n=184 patients, J Prosthodont 2025) found no statistically significant difference between digital (CAD/CAM) and conventional removable complete denture workflows in laboratory costs (MD -239.77 USD, p=0.106), clinical costs (MD 74.39 USD, p=0.451), total costs (MD -357.76 USD, p=0.258), or number of sessions (MD -1.47, p=0.351); operator experience significantly affected clinical costs and session count.
+SR+MA of 5 studies (n=184 patients) comparing digital (CAD/CAM milling/3D-printing) versus conventional (compression-molding) removable complete denture workflows in terms of cost and session count.
 
-## 한줄요약
+No statistically significant difference was found in laboratory cost (MD −239.77 USD, p=0.106), clinical cost (MD +74.39 USD, p=0.451), total cost (MD −357.76 USD, p=0.258), or number of sessions (MD −1.47, p=0.351); operator experience (students vs specialists) was the dominant driver of cost variability (p<0.0001).
 
-SR+MA (5편, n=184명, J Prosthodont 2025): 디지털(CAD/CAM) 대 전통(conventional) 총의치(완전의치) 워크플로우 간 기공비(MD -239.77달러, p=0.106), 임상비(MD 74.39달러, p=0.451), 총비용(MD -357.76달러, p=0.258), 내원횟수(MD -1.47, p=0.351) 모두 통계적으로 유의한 차이 없음; 술자 숙련도(operator experience)가 임상비와 내원횟수에 유의한 영향을 미침.
+Clinicians should not assume a cost-efficiency advantage for digital workflows; the choice should be guided by clinical feasibility and operator/technician expertise, and digital equipment capital costs were not captured in any included study.
+
+## 세줄요약
+
+SR+MA (5편, n=184명): 디지털(CAD/CAM 밀링·3D프린팅) 대 전통(압축성형) 총의치(완전의치) 워크플로우의 비용 및 내원횟수를 비교.
+
+기공비(MD −239.77달러, p=0.106), 임상비(MD +74.39달러, p=0.451), 총비용(MD −357.76달러, p=0.258), 내원횟수(MD −1.47, p=0.351) 모두 통계적으로 유의한 차이 없음; 술자 숙련도(학생 대 전문의)가 비용 변동의 주요 결정 인자(p<0.0001).
+
+디지털 워크플로우의 비용 우위를 당연하게 가정해서는 안 되며, 임상 실행 가능성과 술자·기공사 숙련도를 기준으로 선택해야 하고, 장비 초기 투자비용은 포함된 연구에서 집계되지 않았음에 유의.
 
 ## Summary
 

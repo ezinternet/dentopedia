@@ -16,13 +16,21 @@ relations:
     target: mortazavi-2021-bone-loss-tissue-bone-level-implants
 ---
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA of 8 studies (bone-level platform-switched implants): long abutments (≥2 mm) preserve more marginal bone than short (<2 mm) — at 1 year (6 studies/384 implants) MD 0.26 mm (95% CI −0.02 to 0.53, I²=73%), moderate GRADE; probing depth and bleeding unaffected.
+PROSPERO-registered SR+MA (8 studies; restricted to bone-level platform-switched implants with one-abutment-one-time protocol; excluding GBR, tissue-level, zirconia, retrospective, and animal studies) testing whether abutment height (≥2 mm vs <2 mm) affects marginal bone loss (MBL).
 
-## 한줄요약
+Long abutments (≥2 mm) preserved more marginal bone than short (<2 mm) at 1 year (6 studies/384 implants; MD 0.26 mm, 95% CI −0.02 to 0.53, I²=73%, moderate GRADE certainty); probing pocket depth and bleeding on probing were unaffected (both p>0.05).
 
-8편 SR+MA(골수준 플랫폼스위칭 임플란트): 긴 어버트먼트(≥2 mm)가 짧은 것보다 변연골소실 적음 — 1년 6편/384 임플란트 MD 0.26 mm(95% CI −0.02~0.53), GRADE 중등도; 탐침깊이·BOP는 차이 없음.
+In bone-level platform-switched implants, selecting abutments ≥2 mm tall appears to provide a bone-protective advantage; however, several pooled confidence intervals cross zero and the effect is specific to hard tissue, not soft-tissue inflammation markers.
+
+## 세줄요약
+
+PROSPERO 등록 SR+MA (8편; 골수준 플랫폼스위칭 임플란트, one-abutment-one-time 프로토콜 한정; GBR·조직수준·지르코니아·후향적·동물 연구 제외) — 어버트먼트 높이(≥2 mm vs <2 mm)가 변연골소실(MBL)에 미치는 영향 검증.
+
+긴 어버트먼트(≥2 mm)가 1년 MBL 유의하게 적음 (6편/384 임플란트; MD 0.26 mm, 95% CI −0.02~0.53, I²=73%, GRADE 중등도); 탐침깊이·BOP는 두 군 차이 없음(모두 p>0.05).
+
+골수준 플랫폼스위칭 임플란트에서 ≥2 mm 높이 어버트먼트 선택이 골보존에 유리해 보이나, 다수 신뢰구간이 영을 포함하고 효과는 경조직에 국한.
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 전치/소구치 단일치 발치 후 즉시식립(IMI) vs 12주 지연식립을 직접 비교한 대표적 다기관 RCT. 즉시식립의 심미·합병증 위험을 정량화해 [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] 의사결정 narrative와 [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] 심미 결과를 1차 RCT 근거로 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-Multicenter RCT (124 subjects, anterior/premolar single teeth) comparing immediate vs 12-week delayed implant placement; immediate placement required more bone augmentation (72% vs 43.9%), had more wound failures (26.1% vs 5.3%), deeper 1-year probing depths, and more inadequate pink-esthetic scores (42% vs 19%), leading to a recommendation against immediate placement where esthetics matter.
 
-## 한줄요약
+Multicenter RCT (124 subjects, anterior/premolar single teeth) comparing immediate vs 12-week delayed implant placement;
+
+immediate placement required more bone augmentation (72% vs 43.9%), had more wound failures (26.1% vs 5.3%), deeper 1-year probing depths, and more inadequate pink-esthetic scores (42% vs 19%), leading to a recommendation against immediate placement where esthetics matter.
+
+(incomplete)
+
+## 세줄요약
+
 
 다기관 RCT(124명, 전치·소구치 단일치) — 즉시식립이 지연식립보다 골증대 필요(72% vs 43.9%)·창상실패(26.1% vs 5.3%)·1년 탐침깊이·부적절 심미점수(42% vs 19%)가 모두 많아, 심미가 중요한 경우 즉시식립을 권장하지 않는다는 결론.
+
+(incomplete)
+
+(incomplete)
 
 ## 1. Document Information
 

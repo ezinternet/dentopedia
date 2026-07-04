@@ -16,13 +16,23 @@ text_filename: fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr.txt
 
 CoQ10 ("잇몸 영양제") is one of the most heavily marketed periodontal supplements, yet the wiki held **zero pages** on it. This Fernandez 2025 SR is the cited evidence behind the CoQ10 claim and the most current (search to May 2024), most methodologically careful answer: it **stratifies by administration route**, which is exactly what resolves the controversy — local CoQ10 gel shows no effect on PD/CAL, whereas oral 120 mg/day supplementation shows a small benefit, all at *very low* certainty. It directly contradicts the earlier pooled MA [[wiki/periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] (which endorses CoQ10 gel), and pairs with the omega-3 host-modulation anchor [[wiki/periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]]. Ingested as the CoQ10 anchor of the periodontal-adjunct supplement evidence map.
 
-## One-line Summary
+## Three-line Summary
+
 
 Systematic review of 10 RCTs (SRP ± CoQ10): locally delivered CoQ10 gel had no significant effect on PD/CAL, but oral supplementation (120 mg/day) gave small significant gains (PD −0.41 mm, CAL −0.52 mm) at 12 weeks — very low certainty of evidence.
 
-## 한줄요약
+(incomplete)
 
-10편 RCT 체계적 고찰(SRP ± CoQ10) — 국소 CoQ10 겔은 치주낭·부착수준에 유의한 효과 없음, 경구 보충(120 mg/일)은 12주에 작은 유의 개선(PD −0.41 mm, CAL −0.52 mm). 근거 확실성은 very low.
+(incomplete)
+
+## 세줄요약
+
+
+10편 RCT 체계적 고찰(SRP ± CoQ10) — 국소 CoQ10 겔은 치주낭·부착수준에 유의한 효과 없음, 경구 보충(120 mg/일)은 12주에 작은 유의 개선(PD −0.41 mm, CAL −0.52 mm).
+
+근거 확실성은 very low.
+
+(incomplete)
 
 ## 1. Document Information
 

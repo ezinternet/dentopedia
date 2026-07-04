@@ -28,11 +28,21 @@ source: synthesis
 > - **가장 흔한 prep 오류 = 가장 치명적 오류**(Sadid-Zadeh 2020): 학생 형성치 223개 중 136개에서 finish line 품질 오류가 최빈 — 그런데 이 finish line이 곧 IOS 정확도를 가장 떨어뜨리는 변수(Revilla-León). 잘못하기 쉬운 항목이 곧 디지털 적합을 가장 망치는 항목. Han 2023의 software 자동평가(SAE)는 TOC·교합삭제를 완벽 재현성으로 측정해 인간 채점 불일치 문제를 해소.
 > - **갭**: core 9편 in-vitro/cross-sectional이라 5–10년 임상 생존율 RCT 부재, 한국 인구 TOC 데이터 부재, adhesive cement 시대의 TOC 재평가 부재, 3D 프린팅 retention 우위의 기전 미규명. 추가 디지털 prep 근거도 trueness/precision(µm) 위주라 임상 적합/생존 outcome과의 연결은 아직 미확립.
 
-## One-line Summary
-Synthesis page on crown preparation geometry (core 9 in-vitro/cross-sectional papers + 6 added 2026-06: prep-principles, ceramic marginal-fit SR, digital-prep) organized along six axes — recommended vs clinical total occlusal convergence (TOC), tooth-specific TOC sensitivity, the retention-vs-marginal-fit trade-off of auxiliary features, provisional-crown fabrication, zirconia surface treatment, and a scientific 9-principle anchor plus a marginal-fit/digital-scannability cluster. Core thesis: the textbook 6° TOC ideal is clinically unreachable (Goodacre/Tiu recommend 10-22°; real practice is over-tapered to 25-32°), auxiliary features recover retention but worsen marginal fit, and in the digital era the same geometry choices that aid retention (simple form, larger TOC, chamfer, supragingival finish line) also improve IOS scan accuracy.
+## Three-line Summary
 
-## 한줄요약
-크라운 prep 기하 종합 (core 9편 + 2026-06 추가 6편)을 (1) 권장 vs 임상 TOC gap, (2) 치아별 TOC 민감도, (3) 보조 유지·저항형의 retention-fit trade-off, (4) 임시 크라운 제작 기술별 retention, (5) 지르코니아 표면처리, (6) 과학적 9원칙 anchor + 변연적합·디지털 prep scannability 클러스터로 묶고 — Shillingburg 6° 이상치는 임상에서 도달 불가능, Goodacre/Tiu 권장 band는 10-22°이며 실제 임상은 25-32°까지 over-tapered되어 있음. 보조 형태는 retention 회복하지만 marginal fit을 동시에 손상. 디지털 시대 재구성: retention을 돕는 기하 선택이 IOS 스캔 정확도도 높인다.
+Synthesis of 15 papers (core 9 in-vitro/cross-sectional + 6 added: prep-principles, ceramic marginal-fit SR, digital-prep) organized across 6 axes: recommended vs clinical TOC (textbook 6° is unreachable; Tiu 2015 SR recommends 10–22°; clinical practice reaches 25–32° in Dubai GPs with MD 24.6°/BL 32.6°; students preclinical ~12° — a 1.5–2× gap), tooth-specific TOC sensitivity (canines and molars: 8° increase cuts retention ~40%; premolars: not significant), and auxiliary-feature trade-offs (grooves/holes raise retention 35–50% but worsen marginal float 2–3×, Yang 2015).
+
+In the digital era, the same geometry choices that optimize retention (simple form, larger TOC, chamfer, supragingival finish line) also improve IOS scan accuracy (Revilla-León 2025 SR, 39 papers); finish-line quality is both the most common prep error (Sadid-Zadeh 2020: 136/223 student preparations) and the variable that most degrades digital scan accuracy; 3D-printed provisional crowns outperform milled on retention 2–3× at all taper/finish-line combinations (Alqarawi 2024 in-vitro).
+
+Clinical bottom line: avoid prophylactic auxiliary features when geometry is already adequate (they cost marginal fit); for zirconia cementation use air-abrasion + Ivoclean after try-in + MDP primer (SBS 9.3 vs 3.04 MPa with IPA alone, Genc 2025); evidence base is entirely in-vitro/cross-sectional — clinical survival-rate RCTs linking TOC to longevity do not exist in this corpus.
+
+## 세줄요약
+
+15편 종합(core 9편 + 추가 6편): 권장 vs 임상 TOC — Shillingburg 6° 이상치는 도달 불가능, Tiu 2015 SR 권장 10–22°, 임상 개원의(두바이) MD 24.6°/BL 32.6°로 over-taper, 학생 preclinical ~12°; 치아별 민감도(견치·대구치: 8° 증가 시 유지력 ~40% 감소; 소구치: 비유의); 보조 유지형의 trade-off(grooves/holes retention +35~50%이나 marginal float 2~3배 악화, Yang 2015).
+
+디지털 재구성: retention을 돕는 기하 선택(단순 형태·큰 TOC·chamfer·치은연상 finish line)이 IOS 스캔 정확도도 높임(Revilla-León 2025 SR); finish line 오류는 가장 흔한 prep 오류이자 디지털 적합을 가장 망치는 변수; 3D 프린팅 임시 크라운은 밀링 대비 유지력 2~3배 우위(Alqarawi 2024).
+
+임상 결론: 기하가 충분하면 보조 유지형 예방 사용 금지(marginal fit 손상); 지르코니아 시멘테이션은 air-abrasion + Ivoclean(시적 후 오염 시) + MDP primer; 근거 전체가 in-vitro/단면 연구 — TOC와 장기 생존율 연결 임상 RCT 없음.
 
 ## Scope
 이 종합 페이지의 core는 2026-05-21에 `wiki/prosthetic-materials/` 아래로 ingest된 9편의 크라운 prep 기하 논문(모두 in vitro/cross-sectional, RCT·임상 결과 연결 없으나 정량 데이터 풍부)이다. 2026-06에 **과학적 원칙 anchor 1편(Goodacre 2001 narrative-review) + 세라믹 변연적합 SR 1편(Contrepois 2013) + 디지털 prep 4편**을 추가해, "prep 기하가 retention뿐 아니라 변연적합과 IOS scannability에 어떻게 작용하는가"라는 디지털 시대 축을 붙였다.

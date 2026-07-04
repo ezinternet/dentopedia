@@ -33,13 +33,21 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - **교정적 정출(Forced Eruption)** — 우식·파절이 STA를 침범했거나 페룰(ferrule) 부족 시, 절제형 크라운연장의 보존적 대안. 인접치 골 보존·crown-to-root 비 개선이 장점이나 치료기간 연장·섬유절제술(fiberotomy) 필요; 임플란트 식립부 개발 목적이면 반대로 PDL 장력으로 골을 따라오게 유도 (Huang 2021). 활동성 치주염은 절대 금기(정출 시 치은퇴축만 유발).
 > - **시멘트질 열개(Cemental Tear)** — 수직치근파절·근관질환·치주질환으로 오진되기 쉬운 저인지 병소. 중국 다기관 전문가합의(Liang 2025)는 위치 기반 치료 결정트리(치관측 3분의1 vs 근단측)와 완전 조각제거 원칙을 제시(1년 기능보존율 94%); 홍콩 후향적 단면연구(Lee 2025, n=445치)는 유병률 5.6%(기존 문헌의 3배)와 4개 독립위험인자(전치부, 치아동요도, 심한 치조골소실 ≥70%, 오히려 "적절한" 근관충전 — OR 8.38)를 확인, 단순 치근단방사선사진의 CBCT 대비 민감도는 0.60에 불과.
 
-## One-line Summary
+## Three-line Summary
 
-Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ axes — 2017 classification → non-surgical (SRP ± adjunct) → surgical/regeneration (GTR/EMD) → acute/combined lesions → supportive periodontal therapy (SPT) → mucogingival surgery, with peri-implantitis and systemic-effect threads. Core thesis: every diagnosis starts from 2017 World Workshop Staging I–IV × Grading A–C; treatment is step-wise per EFP S3 (behavior change → SRP → surgery → SPT) with SRP strongly recommended and systemic doxycycline adding little; intrabony defects regenerate better with GTR/EMD + graft (combination > monotherapy); SPT runs 3–6-month cadence risk-stratified; SRP lowers diabetic HbA1c ~0.4–0.6% and cardiovascular markers; periodontitis history raises peri-implantitis risk ~4.8× — built on EFP S3 + Cochrane SR + 2017 World Workshop spine, with ozone gel only weakly supported.
+Decision ladder synthesizing 27+ periodontics/ papers across 6 axes: (1) 2017 World Workshop Staging I–IV × Grading A–C classification; (2) non-surgical SRP ± adjunct (EFP S3 step-wise); (3) surgical/regeneration (GTR+graft/EMD+graft > OFD, Stavropoulos 2021 NMA, 30 RCTs); (4) SPT at 3–6-month cadence risk-stratified; (5) acute/combined lesions; (6) mucogingival surgery.
 
-## 한줄요약
+SRP is strongly recommended; systemic doxycycline adds only 0.2–0.4 mm PPD beyond SRP; SRP lowers HbA1c ~0.4–0.6% (Simpson 2022 Cochrane) and cardiovascular markers; periodontitis history raises peri-implantitis risk ~4.8×.
 
-치주치료 6축 — 2017 새 분류 (Staging I-IV × Grading A-C + 전신질환 발현·치은점막 상태) · 비외과 치료 (SRP ± 보조) · 외과·재생 (GTR/EMD) · SPT · 급성/복합 병소 (농양·괴사·치수치주병변) · 치주성형 (APF/FGG/CTG). EFP S3 guideline + Cochrane SR + 2017 World Workshop spine.
+Extended axes added: RA↔periodontitis bidirectional connection (Dolcezza 2024 SR+MA), RANKL/NF-κB molecular pathogenesis, supracrestal tissue attachment variability (mean 2.05 mm, not a fixed value; Abdulkarim 2024), cemental tear as a misdiagnosed low-prevalence entity (Lee 2025, 5.6%).
+
+## 세줄요약
+
+치주치료 6축 — ①2017 분류(Staging I–IV × Grading A–C) ②비외과 치료(SRP ± 보조, EFP S3 단계별) ③외과·재생(GTR/EMD+이식재, NMA 우위) ④유지치료(Supportive Periodontal Therapy, SPT) ⑤급성/복합 병소 ⑥치주성형술(APF/FGG/CTG).
+
+SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소); SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Simpson 2022 코크란)·심혈관 위험표지자 감소; 치주염력이 임플란트 주위염(peri-implantitis) 위험 ~4.8배.
+
+추가 확장 축: 류마티스 관절염(Rheumatoid Arthritis, RA)↔치주염 양방향(Dolcezza 2024 SR+MA), RANKL/NF-κB 분자기전, 초치조상부 조직부착(Supracrestal Tissue Attachment, STA) 평균 2.05 mm(고정값 아님; Abdulkarim 2024), 시멘트질 열개(cemental tear) 유병률 5.6%(Lee 2025, 기존 3배).
 
 ## Summary
 

@@ -13,13 +13,23 @@ source_collection: external
 
 기존 [[overviews/implant-length-selection-why-not-always-short]] 의 핵심 변수 — implant length·diameter·C/I ratio가 short implant 결과에 미치는 영향 — 을 정면으로 다룬 SR+MA. 세 변수 모두 생존·MBL에 유의한 영향이 없다는 결론으로, "C/I ratio 우려"를 약화(refine)하는 근거.
 
-## One-line Summary
+## Three-line Summary
+
 
 SR+MA (15 studies qualitative, 14 quantitative) finding short implants (≤8 mm) show no significant influence of length, diameter, or crown-to-implant ratio on implant loss or peri-implant bone loss.
 
-## 한줄요약
+(incomplete)
 
-체계적 고찰 15편(정량 14편) 메타분석. 짧은 임플란트(≤8mm)에서 길이·직경·크라운-임플란트비(C/I ratio)는 임플란트 상실이나 임플란트 주위 골소실에 유의한 영향을 주지 않았다 — short implant의 C/I ratio 우려를 완화.
+(incomplete)
+
+## 세줄요약
+
+
+체계적 고찰 15편(정량 14편) 메타분석.
+
+짧은 임플란트(≤8mm)에서 길이·직경·크라운-임플란트비(C/I ratio)는 임플란트 상실이나 임플란트 주위 골소실에 유의한 영향을 주지 않았다 — short implant의 C/I ratio 우려를 완화.
+
+(incomplete)
 
 ## 1. Document Information
 - Journal: Journal of Clinical Medicine 2020, 9, 3271 (published Oct 12, 2020)

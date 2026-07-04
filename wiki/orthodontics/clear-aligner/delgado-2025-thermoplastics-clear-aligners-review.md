@@ -17,13 +17,21 @@ text_filename: delgado-2025-thermoplastics-clear-aligners-review.txt
 tags: []
 ---
 
-## One-line Summary
+## Three-line Summary
 
 Narrative material-science review of clear-aligner thermoplastics (PETG/PET, hTPU, EVA, PP, PC, multilayers, blends) and emerging shape-memory polymers and direct-3D-print resins, mapping optical, mechanical, stress-relaxation, thermal, and biocompatibility properties to guide material selection.
 
-## 한줄요약
+Key differentiators: multilayer aligners deliver 2–3× lower force than PETG and 1.5–2× lower than hTPU; direct-3D-print resin (Tg ≈37°C) retains only ~10% of force vs ~80% for PETG; PETG produces larger root movements and greater attachment wear while hTPU produces mainly crown movement.
 
-투명교정 열가소성수지(PETG·hTPU·다층·블렌드)와 형상기억고분자(SMP)·직접 3D프린팅 레진의 광학·기계·응력완화·열·생체적합 특성을 재료선택 관점에서 정리한 서술적 종설.
+No clear clinical guideline yet exists on when to switch rigid→soft staging or how many of each a patient needs; biocompatibility nuance — all BPA-free polyesters except PETG showed in-vitro estrogenic activity, and Invisalign's isocyanate-containing TPU can provoke histologic reactions.
+
+## 세줄요약
+
+투명교정 열가소성수지(PETG·고경도 열가소성 폴리우레탄(hTPU)·다층·블렌드)와 형상기억고분자(Shape Memory Polymer, SMP)·직접 3D프린팅 레진의 광학·기계·응력완화·열·생체적합 특성을 재료선택 관점에서 정리한 서술적 종설.
+
+핵심 비교: 다층 얼라이너는 PETG보다 2~3배, hTPU보다 1.5~2배 낮은 힘; 직접출력 레진(유리전이온도(Tg)≈37°C)은 PETG의 ~80% 대비 응력완화 후 ~10%만 잔류; PETG는 큰 치근이동·어태치먼트 마모, hTPU는 주로 치관이동·낮은 마모.
+
+강성→연성 스테이징 전환 시점 및 갯수에 대한 명확한 임상 지침 미정립; 생체적합 세부: PETG 외 BPA-free 폴리에스터 모두 in-vitro 에스트로겐 활성, Invisalign TPU 이소시아네이트 성분은 조직학적 반응 가능.
 
 ## Summary
 

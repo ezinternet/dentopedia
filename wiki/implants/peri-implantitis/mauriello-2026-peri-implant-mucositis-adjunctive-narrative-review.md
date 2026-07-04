@@ -13,11 +13,21 @@ source_collection: external
 tags: [peri-implant-mucositis, pmpr, chlorhexidine, local-antibiotics, probiotics, adjunctive-therapy]
 ---
 
-## One-line Summary
-Narrative review (Quintessence Int 2026; 9 RCTs, 414 patients) of adjuncts for peri-implant mucositis: professional mechanical plaque removal (PMPR) remains the gold standard, while chlorhexidine, local antibiotics, sodium hypochlorite, probiotics, and bioactive agents show within-group improvement but no consistent statistically significant added benefit over PMPR alone.
+## Three-line Summary
 
-## 한줄요약
-Narrative review (Quintessence Int 2026, 9 RCTs / 414 patients): professional mechanical plaque removal (PMPR) remains the gold standard for peri-implant mucositis; chlorhexidine, local antibiotics, sodium hypochlorite, probiotics, and bioactive agents show within-group improvements but no consistent statistically significant added benefit over PMPR alone.
+Narrative review (Quintessence International 2026; PubMed + Scopus through March 2025; 9 RCTs, 414 patients; adult RCTs with BOP outcome, ≥3-month follow-up) of chemical and pharmaceutical adjuncts added to PMPR for peri-implant mucositis.
+
+Professional mechanical plaque removal (PMPR) alone produced significant BOP and probing depth reductions but inconsistent complete disease resolution; adjuncts — chlorhexidine, local antibiotics, sodium hypochlorite, probiotics, and bioactive agents — showed within-group improvements but no consistent statistically significant added benefit over PMPR alone.
+
+Heterogeneity in diagnostic criteria, outcome measures, and protocols limits head-to-head comparison and prevents quantitative pooling; standardized RCTs with longer follow-up and unified outcome sets are needed before adjuncts can be recommended routinely over PMPR alone.
+
+## 세줄요약
+
+Quintessence International 2026; PubMed + Scopus (2025년 3월까지); 9편 RCT, 414명; ≥3개월 추적, BOP 결과 포함 성인 RCT — 임플란트주위 점막염에서 전문 기계적 치태 제거(Professional Mechanical Plaque Removal, PMPR)에 화학·약리 보조요법을 추가한 효과를 다룬 내러티브 리뷰.
+
+PMPR 단독은 유의한 탐침출혈(BOP) 및 탐침깊이(PD) 감소를 보였으나 완전 해소는 일관성 없음; 클로르헥시딘·국소 항생제·차아염소산나트륨·프로바이오틱스·생활성 제제는 군내 개선을 보였으나 PMPR 단독 대비 일관되게 유의한 추가 효과를 보이지 않았다.
+
+진단 기준·결과 지표·프로토콜의 이질성이 직접 비교와 정량적 통합을 제한하며, PMPR 단독 대비 보조요법의 일상적 권고를 위해서는 표준화된 장기 RCT가 필요하다.
 
 ## Summary
 Narrative review of nine RCTs (414 patients) testing chemical and pharmaceutical adjuncts to PMPR for peri-implant mucositis. PMPR alone produced significant reductions in bleeding on probing and probing depth, but complete disease resolution was inconsistent. Adjunctive agents (chlorhexidine, local antibiotics, sodium hypochlorite, probiotics, bioactive agents) yielded within-group improvements but did not reliably outperform PMPR alone. Heterogeneity in diagnostic criteria, outcomes, and protocols limits head-to-head comparison.
