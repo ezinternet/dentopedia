@@ -10,9 +10,10 @@ source_wiki:
   - wiki/implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review.md
   - wiki/implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea.md
   - wiki/implants/chang-2024-optimization-implant-design-bone-quality-fea.md
+  - wiki/immediate-implant/hernandez-2026-wide-thread-implant-macrogeometry-immediate.md
 category: [implants]
 confidence: synthesis
-tags: [macrogeometry, tapered, cylindrical, neck-design, primary-stability, ISQ, MBL]
+tags: [macrogeometry, tapered, cylindrical, neck-design, primary-stability, ISQ, MBL, immediate-implant, wide-thread]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -24,8 +25,9 @@ tags: [macrogeometry, tapered, cylindrical, neck-design, primary-stability, ISQ,
 > - **골질(Bone Quality)별 나사 깊이 최적화**: D3·D4 저밀도골에서 thread depth 증가 시 crestal 응력 ~40% 감소, 변위 ≥9% 감소 효과 — D2 고밀도골에서는 효과 미미 (Chang 2024).
 > - **즉시식립(Immediate Implant Placement) 맥락의 한계**: 넥 디자인 RCT(Chrcanovic 2025)는 즉시식립 + 즉시 임시보철 조건에서 수행 — 비즉시식립이나 저밀도골로 결과를 외삽하기 어려움.
 > - **동등성 검증 부재**: 두 RCT 모두 우월성(superiority) 설계로, 동등성(equivalence) 또는 비열등성(non-inferiority) 검정은 미수행 — 소규모 차이가 존재할 가능성을 배제할 수 없음.
-> - **임상 결론**: 거대형태 선택은 골질을 먼저 평가하고 수술 술식 표준화가 우선; 저밀도골에서는 테이퍼드 + 깊은 나사 설계가 합리적 조합; 넥 디자인은 현재 증거만으로는 선택 기준이 되기 어려움.
-> - **근거 수준(Evidence Level)**: 1차 논문 중 RCT 2개는 초록만 확보(abstract-only) — 절대값 데이터 부재; FEA 2개는 생체 내 적용에 외삽 한계 있음.
+> - **즉시식립 전용 wide-thread 근거 추가 (Hernandez 2026 SR)**: 25편(임상·in vitro·FEA·서술고찰; 2007–2025) 합성 — 넓고 공격적인 나사산 + 테이퍼드 바디는 D3-D4 골·발치 즉시식립 소켓에서 IT·ISQ를 일관되게 향상; 즉시식립 wide-thread 임플란트 임상 생존율 93.9–98.6%. 단, 표본 소규모·단기 추적·비표준화된 결과 보고로 메타분석 미시행 — 다기관 RCT 필요.
+> - **임상 결론**: 거대형태 선택은 골질을 먼저 평가하고 수술 술식 표준화가 우선; 저밀도골·즉시식립 소켓에서는 테이퍼드 + 깊은/넓은 나사 설계(wide-thread)가 합리적 조합; 넥 디자인은 현재 증거만으로는 선택 기준이 되기 어려움.
+> - **근거 수준(Evidence Level)**: 1차 논문 중 RCT 2개는 초록만 확보(abstract-only) — 절대값 데이터 부재; FEA 2개는 생체 내 적용에 외삽 한계 있음; Hernandez 2026 SR은 메타분석 없는 narrative synthesis.
 
 ## Three-line Summary
 
@@ -152,3 +154,4 @@ The Mourão (2025) RCT appraisal establishes that drilling protocol — specific
 - [[implants/isq/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct]] — supporting: split-mouth RCT (n=18) — healing-chamber macrogeometry seats at lower insertion torque but equivalent ISQ + lower early TNF-α; clinical confirmation of torque≠ISQ dissociation
 - [[implants/isq/song-2026-tapered-straight-implants-immediate-loading-3year]] — immediate loading context excluded by Mourão (2025); tapered vs straight under immediate loading
 - [[implants/isq/monje-2025-implant-design-stability-early-healing-rct]] — sibling RCT on design and early-healing stability referenced in Mourão (2025) appraisal
+- [[immediate-implant/hernandez-2026-wide-thread-implant-macrogeometry-immediate]] — SR (25 studies, 2007–2025): wide-thread macrogeometry in IIP context; IT/ISQ improvement in D3-D4; survival 93.9–98.6%; no meta-analysis possible

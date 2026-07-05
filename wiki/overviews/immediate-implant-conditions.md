@@ -105,7 +105,9 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **임플란트 협측 근심 위치** | 협측 숄더 위치 시 설측 대비 3배 퇴축 (Evans 2008, 1.8 vs 0.6mm, p=0.000) |
 | **얇은 생체형** | 점막 퇴축 위험↑ |
 | 협측벽 결손 | 즉시식립 비권장 |
-| 만성 감염·급성 누공 | 식립 지연 (4–8주 type-2) |
+| 만성 치근단 병변 (비화농성) | IIP 가능 — 철저한 소파 + 항생제 필수 (→ [[overviews/immediate-implant-infected-sites-decision]]) |
+| 급성 화농성 농양 | 조기식립 (Early, 8–12주) 권장 (Prati 2017) |
+| 활동성 화농성 삼출·봉와직염 | 절대 금기 |
 | 환자 흡연·당뇨 미조절 | 위험 증가 |
 
 ### 2.3 절대 금기 [claude해석]
@@ -258,6 +260,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 - [[overviews/isq-loading-threshold]] — 즉시부하 ISQ·IT 결정 임계값
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악 후방 즉시식립과 거상 동시 결정
+- [[overviews/immediate-implant-infected-sites-decision]] — 감염 부위 IIP 임상결정 프레임워크 (만성 병변 vs 급성 농양 vs 수술 후 감염 3분기)
 
 ## Wiki Coverage Caveat
 
