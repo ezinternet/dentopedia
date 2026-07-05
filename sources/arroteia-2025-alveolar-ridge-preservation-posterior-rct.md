@@ -25,6 +25,10 @@ Titanium mesh + xenograft is the gold standard for posterior vertical preservati
 
 타이타늄 막+이종이식재가 구치부 수직 보존의 gold standard; 수평 소실은 ARP로도 불가피 — 환자 상담 필수; MFGG 단독은 수직 결과 개선 없이 이환율만 추가.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/open-healing-arp-technique-variables-overview]]에서 확인되는 현재 역할을 백필.] [[overviews/open-healing-arp-technique-variables-overview]]의 "축 3(후방부)"를 담당하는 RCT — avila-ortiz-2019(9개 modality SR+MA, 단일 우월 없음)·adams-2022(통계적 보존≠환자 이득)와 함께, 수평 골소실은 ARP 기법과 무관하게 불가피하다는 결론을 후방부에 특화해 뒷받침.
+
 ## 1. Key Results
 - 4-arm RCT; posterior region only (not anterior); n=22 per group
 - Groups: MFGG, MFGG+XG, TM+XG (titanium membrane + xenograft), USH (unassisted socket healing)
