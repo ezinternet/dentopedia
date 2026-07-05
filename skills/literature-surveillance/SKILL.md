@@ -43,7 +43,7 @@ python3 scripts/sweep_state.py init
 - `datetype`: **`edat`** (게재일 pdat 아님 — 신규 등재 누락 방지).
 - `sort`: `pub_date`, `max_results`: 50 권장.
 
-ptyp 필터는 토픽별로 조정 가능(가이드라인·코호트 포함 여부 등). 카탈로그는 `references/topic-queries.md` 참조.
+ptyp 필터는 토픽별로 조정 가능(가이드라인·코호트 포함 여부 등). 카탈로그는 저장소 루트의 `references/topic-queries.md` 참조 (이 스킬 폴더 내 동명 파일이 아님 — 과거 두 파일로 갈라졌다가 2026-07-05 병합됨).
 
 ### 3. 중복 제거 (스크립트)
 검색으로 모은 PMID를 토픽별로 넘긴다:
@@ -95,7 +95,7 @@ seen-pmids가 수천 단위로 커져도 set 조회라 부담 없음. 큐(`queue
 
 ## Reference / Scripts
 
-- `references/topic-queries.md` — 토픽별 PubMed 쿼리식 카탈로그. 새 토픽 추가·쿼리 튜닝은 여기서. (skill 본문이 아니라 이 파일을 고치게 유도)
+- 저장소 루트 `references/topic-queries.md` — 토픽별 PubMed 쿼리식 카탈로그(canonical). 새 토픽 추가·쿼리 튜닝은 여기서 (skill 본문이 아니라 이 파일을 고치게 유도). `skills/literature-surveillance/references/topic-queries.md`는 스텁이니 편집하지 말 것.
 - `scripts/sweep_state.py` — 상태·중복·큐 I/O. 서브커맨드: `init` / `load` / `dedup` / `enqueue` / `status`. 사용법은 `--help`.
 
 ## 경계
