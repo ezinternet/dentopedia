@@ -1,0 +1,46 @@
+Immediate Implant Placement in Non-Infected Sockets versus Infected Sockets: a Systematic Review and Meta-Analysis
+Saijeva A, Juodzbalys G
+Journal of Oral & Maxillofacial Research 2020;11(2):e1
+DOI: 10.5037/jomr.2020.11201
+PMCID: PMC7393932
+PMID: 32760474
+
+INTRODUCTION
+Currently, the treatment of choice to replace missing teeth has been implant supported dental rehabilitation due to its success rate and good long-term prognosis. Immediate post extraction implant placement offers advantages such as reduced number of surgical interventions and shortening of the treatment procedure, ultimately leading to an increased patient satisfaction; and optimal soft tissue aesthetics due to the preservation of soft tissue envelope.
+
+A non-infected extraction socket has great benefit to the survival rate of immediate implant placement. However, in practice, teeth extractions are largely due to presence of chronic pathology that later leads to endodontic or periodontal apical lesions. Thus, the aim of this systematic review was to evaluate if immediate implant placement in infected extraction sockets can be considered as successful in comparison to non-infected sockets.
+
+MATERIAL AND METHODS
+Focus question (PICO): What is the outcome of immediate implant placement in patients with infected sockets versus non-infected sockets with the evaluation of survival rate, probing depth, marginal bone level, marginal gingival level, modified bleeding index and width of keratinized gingiva?
+
+An electronic search was conducted in PubMed, ScienceDirect, ISI Web of Knowledge and Google Scholar between January 2010 and February 2020.
+
+Inclusion criteria:
+- Studies with sample size > 5 patients in each group
+- Minimum follow-up of 6 months
+- Evaluated with one of the outcomes
+- If the sockets were classified as having an infection
+
+In total, nine studies were included and a pool of 1346 patients and 2281 sockets were analysed. A total of 933 immediate implants were placed in infected sites and 1348 in non-infected sites.
+
+RESULTS
+Implant survival rates:
+- Infected sockets: 97.64% (911/933)
+- Non-infected sockets: 98.57% (1329/1348)
+- RR = 0.99; 95% CI = 0.98 to 1; P = 0.08 (no significant difference)
+- Implant failure rates: RR = 1.8; 95% CI = 0.98 to 3.31; P = 0.06 (no significant difference)
+
+Secondary outcomes (marginal bone level, MGL, PD, mBI): no significant differences between groups at any follow-up time point (1, 2, 3+ years).
+
+Width of keratinized gingiva (WKG): slight but significant decrease favoring non-infected group.
+- 1 year: MD = 0.22; 95% CI = -0.17 to 0.6; P = 0.27
+- 2 years: MD = 0.16; 95% CI = -0.22 to 0.55; P = 0.4
+- 3+ years: MD = 0.25; 95% CI = -0.3 to 0.8; P = 0.38
+
+All included studies reported removing granulation tissue before implant placement. Most studies used preoperative antibiotic prophylaxis and/or postoperative antibiotics.
+
+CONCLUSIONS
+No statistically significant difference in survival rates between infected sockets and non-infected sockets. All secondary outcome variables showed equal favourable results, except for width of keratinized gingiva, which slightly but significantly favoured the non-infected group.
+
+LIMITATIONS
+No randomized clinical trials were found concerning this subject. Only English studies were included. Classification of the socket pathology origin was vague and varied among the studies.
