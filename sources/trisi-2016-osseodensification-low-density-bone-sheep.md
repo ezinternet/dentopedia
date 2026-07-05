@@ -23,9 +23,9 @@ removal torque, and less micromotion under lateral load vs conventional drilling
 
 ## 세줄요약
 
-Sheep iliac-crest 생체내 (In vivo) study (n=2 sheep, 20 임플란트 (Implant)s, 2-month healing)
+Sheep iliac-crest 생체내 (In vivo) study (n=2 sheep, 20 implants, 2-month healing)
 
-— OD (Versah Densah) gave ~30% higher 골 (Bone) volume %, better
+— OD (Versah Densah) gave ~30% higher bone volume %, better
 
 removal torque, and less micromotion under lateral load vs conventional drilling.
 

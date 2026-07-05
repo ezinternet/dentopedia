@@ -20,7 +20,7 @@ comprehensive dental management protocols per disease with medical consultation 
 
 ## 세줄요약
 
-148-page UF dental school clinical guideline covering 23
+148-page UF dental school 임상적 (Clinical) guideline covering 23
 
 systemic conditions + ASA classification + vasoconstrictor use;
 

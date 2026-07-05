@@ -23,7 +23,7 @@ Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics"): narrati
 
 in the anterior esthetic zone — when done correctly and in selected cases, immediate placement helps preserve buccal
 
-골 (Bone) and gingival architecture, with provisional crown shaping the emergence profile; conditions, contraindications, and surgical/prosthetic protocols are detailed.
+bone and gingival architecture, with provisional crown shaping the emergence profile; conditions, contraindications, and 외과적 (Surgical)/prosthetic protocols are detailed.
 
 ## 1. Document Information
 - **Type**: Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics")

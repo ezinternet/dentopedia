@@ -25,11 +25,11 @@ osseodensification mode in residual bone height ≥6 mm.
 
 ## 세줄요약
 
-Versah Densah® manufacturer-issued clinical protocol card (2-page,
+Versah Densah® manufacturer-issued 임상적 (Clinical) protocol card (2-page,
 
 REV09) for crestal sinus floor elevation using
 
-osseodensification mode in residual 골 (Bone) height ≥6 mm.
+osseodensification mode in residual bone height ≥6 mm.
 
 ## 1. Document Information
 - **Title:** Osseodensification-Facilitated Crestal Sinus Lift Protocol I (Densah® Lift I, REV09)

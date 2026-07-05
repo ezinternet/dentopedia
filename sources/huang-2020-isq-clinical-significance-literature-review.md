@@ -20,9 +20,9 @@ only 2 have well-documented scientific basis (local bone quality and implant mac
 
 ## 세줄요약
 
-Narrative review identifying 17 ISQ-influencing factors
+Narrative review identifying 17 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)-influencing factors
 
-only 6 have clinically predictive power
+only 6 have 임상적 (Clinical)ly predictive power
 
 only 2 have well-documented scientific basis (local 골 (Bone) quality and 임플란트 (Implant) macro-design).
 

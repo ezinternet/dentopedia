@@ -20,11 +20,11 @@ ISQ measured at placement and loading.
 
 ## 세줄요약
 
-Retrospective study (96 Osstem SA 임플란트 (Implant)s, 45 patients, ≥8yr follow-up): 94.8% survival
+Retrospective study (96 Osstem SA 임플란트 (Implant), 45 patients, ≥8yr follow-up): 94.8% survival
 
 early complications + MBL >1mm within 1yr both 유의미한 (Significant) failure predictors
 
-ISQ measured at placement and loading.
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ) measured at placement and loading.
 
 ## 1. Document Information
 - Journal: Maxillofacial Plastic and Reconstructive Surgery 42:10 (2020)

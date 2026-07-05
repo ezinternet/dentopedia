@@ -20,7 +20,7 @@ Prospective clinical study (n=10) of BTX-A for gummy smile evaluated both clinic
 
 ## 세줄요약
 
-Prospective clinical study (n=10) of BTX-A for gummy smile evaluated both clinically and with surface EMG (compound muscle action potential, C-MAP)
+Prospective 임상적 (Clinical) study (n=10) of BTX-A for gummy smile evaluated both 임상적 (Clinical)ly and with surface EMG (compound muscle action potential, C-MAP)
 
 — first reported use of EMG to quantify BTX-A effect on upper lip elevators; mean gingival display reduction 2.90 mm at
 

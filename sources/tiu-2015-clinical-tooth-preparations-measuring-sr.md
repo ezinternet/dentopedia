@@ -19,7 +19,7 @@ in-mouth preparation gives higher TOC than out-of-mouth; calls for standardized 
 
 ## 세줄요약
 
-J Prosthet Dent 2015;113(3):175-184 (Otago, NZ) — systematic review of 1006 → 23 studies on clinical tooth preparation geometry
+J Prosthet Dent 2015;113(3):175-184 (Otago, NZ) — systematic review of 1006 → 23 studies on 임상적 (Clinical) tooth preparation geometry
 
 recommended TOC values have shifted from unachievable 2-5° taper (1960s) to a realistic 10-22° range
 

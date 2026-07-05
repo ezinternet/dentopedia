@@ -19,7 +19,7 @@ sandblasting = largest monoclinic phase and TZD; foundational paper on surface t
 
 ## 세줄요약
 
-Dent Mater 1999: Y-TZP fine/coarse grained × grinding/sandblasting — sandblasting 유의미한 (Significant)ly increases flexural strength
+Dent Mater 1999: Y-TZP fine/coarse grained × grinding/sandblasting — sandblasting significantly increases flexural strength
 
 grinding reduces Weibull modulus
 

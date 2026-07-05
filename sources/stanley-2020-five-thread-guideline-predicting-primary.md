@@ -21,9 +21,9 @@ illustrated through 3 immediate implant placement cases using CBCT virtual plann
 
 Case letter presenting the Five Thread Guideline (5-TG)
 
-engaging ≥5 임플란트 (Implant) threads in native 골 (Bone) for primary stability prediction
+engaging ≥5 implant threads in native bone for primary stability prediction
 
-illustrated through 3 immediate 임플란트 (Implant) placement cases using CBCT virtual planning.
+illustrated through 3 immediate implant placement cases using CBCT virtual planning.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Implantology, Vol. XLVI, No. 1, 2020, pp. 81-83

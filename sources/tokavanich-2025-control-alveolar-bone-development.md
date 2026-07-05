@@ -24,11 +24,11 @@ development and slows socket repair, opening a path to PTH-pathway-targeted rege
 
 ## 세줄요약
 
-Mouse model study showing that salt-inducible kinases SIK2/SIK3 (downstream of PTH/PTHrP signaling) control alveolar 골 (Bone)
+Mouse model study showing that salt-inducible kinases SIK2/SIK3 (downstream of PTH/PTHrP signaling) control alveolar bone
 
-osteoblast maturation, BV/TV, and post-extraction socket healing — conditional SIK2/3 deletion (Ubiquitin-CreERt2) impairs alveolar 골 (Bone)
+osteoblast maturation, BV/TV, and post-extraction socket healing — conditional SIK2/3 deletion (Ubiquitin-CreERt2) impairs alveolar bone
 
-development and slows socket repair, opening a path to PTH-pathway-targeted regenerative therapeutics distinct from long-골 (Bone) biology.
+development and slows socket repair, opening a path to PTH-pathway-targeted regenerative therapeutics distinct from long-bone biology.
 
 ## 1. Document Information
 - **Journal**: Journal of Bone and Mineral Research 2025;40(5):656–670 (Advance access March 9, 2025)

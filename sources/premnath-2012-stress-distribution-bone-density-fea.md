@@ -19,9 +19,9 @@ Von Mises stress always at crestal/neck region regardless of design.
 
 ## 세줄요약
 
-3D FEA (8 models, mandibular first molar): cylindrical 임플란트 distribute
+3D FEA (8 models, mandibular first molar): cylindrical implants distribute
 
-stress more favourably than threaded 임플란트 in D1–D4 bone; maximum
+stress more favourably than threaded implants in D1–D4 bone; maximum
 
 Von Mises stress always at crestal/neck region regardless of design.
 

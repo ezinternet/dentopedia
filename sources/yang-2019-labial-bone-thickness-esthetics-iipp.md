@@ -19,11 +19,11 @@ implant placement with immediate provisionalization in the esthetic zone.
 
 ## 세줄요약
 
-Prospective cohort study quantifying the impact of labial
+Prospective 코호트 (Cohort) study quantifying the impact of labial
 
-골 (Bone) thickness on PES/WES esthetic outcomes after immediate
+bone thickness on PES/WES esthetic outcomes after immediate
 
-임플란트 (Implant) placement with immediate provisionalization in the esthetic zone.
+implant placement with immediate provisionalization in the esthetic zone.
 
 ## 1. Document Information
 - **Title:** The thickness of labial bone affects the esthetics of immediate implant placement and provisionalization in the esthetic zone: A prospective cohort study

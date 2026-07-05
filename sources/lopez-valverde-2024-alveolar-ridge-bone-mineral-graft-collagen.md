@@ -19,9 +19,9 @@ high heterogeneity I²>75%; more RCTs needed.
 
 ## 세줄요약
 
-Bioengineering 2024;11:565: SR+MA (12 studies)
+Bioengineering 2024;11:565: 체계적 고찰 및 메타분석 (SR+MA) (12 studies)
 
-골 (Bone) mineral graft + collagen membrane vs spontaneous healing — trend for preservation but no statistical significance (p>0.05)
+골 (Bone) mineral graft + collagen membrane 대 (vs) spontaneous healing — trend for preservation but no statistical significance (p>0.05)
 
 high heterogeneity I²>75%; more 무작위 대조 시험 (RCT)s needed.
 

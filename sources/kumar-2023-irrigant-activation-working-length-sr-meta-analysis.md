@@ -21,7 +21,7 @@ followed by PUI > SI > MDA; IATs routinely recommended.
 
 ## 세줄요약
 
-SR+MA on irrigant activation techniques (IATs) vs conventional
+체계적 고찰 및 메타분석 (SR+MA) on irrigant activation techniques (IATs) vs conventional
 
 needle irrigation (CNI): ANP best at working-length delivery,
 

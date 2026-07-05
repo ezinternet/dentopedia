@@ -23,7 +23,7 @@ thereafter excellent stability irrespective of smoking or grafted-vs-residual pl
 
 ## 세줄요약
 
-10-year prospective clinical/radiographic follow-up of 108 turned-surface 임플란트 in MSFA sites grafted with 80% DPBB + 20% autogenous bone: cumulative survival 86%, mean MBL 1.6±1.0 mm
+10-year 전향적 (Prospective) 임상적 (Clinical)/radiographic follow-up of 108 turned-surface implants in MSFA sites grafted with 80% DPBB + 20% autogenous bone: cumulative survival 86%, mean MBL 1.6±1.0 mm
 
 first 2 years are critical
 

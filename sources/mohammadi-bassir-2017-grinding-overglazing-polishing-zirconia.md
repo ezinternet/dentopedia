@@ -19,7 +19,7 @@ overglazing alone insufficient.
 
 ## 세줄요약
 
-J Prosthet Dent 2017;118(5):658-665: 5 groups (standard polish, grind, grind+overglaze, grind+2-step polish, grind+polishing kit) — 유의미한 (Significant) differences in Ra, Rz, flexural strength
+J Prosthet Dent 2017;118(5):658-665: 5 groups (standard polish, grind, grind+overglaze, grind+2-step polish, grind+polishing kit) — significant differences in Ra, Rz, flexural strength
 
 grinding + polishing partially restores surface
 

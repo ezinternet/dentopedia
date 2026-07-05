@@ -27,7 +27,7 @@ prevention and management. Published in J Periodontol May 2025.
 
 AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8
 
-systematic reviews into unified evidence-based recommendations for peri-임플란트 (Implant) disease
+systematic reviews into unified evidence-based recommendations for peri-implant disease
 
 prevention and management. Published in J Periodontol May 2025.
 

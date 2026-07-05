@@ -19,7 +19,7 @@ manufacturer-specific microstructural signatures that predict differences in dur
 
 ## 세줄요약
 
-In vitro study (BioMed Res Int 2018) characterizing 임플란트 (Implant) drill surface
+In vitro study (BioMed Res Int 2018) characterizing implant drill surface
 
 roughness across five manufacturers via white-light interferometry; multivariate discriminant analysis shows
 

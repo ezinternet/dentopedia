@@ -23,7 +23,7 @@ Provides **standardized TSFE outcome-reporting checklist** for clinicians and re
 
 Narrative review (Periodontology 2000): synthesizes TSFE foundational principles,
 
-treatment planning, surgical execution, postoperative management, emerging technologies.
+treatment planning, 외과적 (Surgical) execution, postoperative management, emerging technologies.
 
 Provides **standardized TSFE outcome-reporting checklist** for clinicians and researchers.
 

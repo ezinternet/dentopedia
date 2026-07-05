@@ -19,7 +19,7 @@ first 12 months after extraction**, with most resorption (~two-thirds of horizon
 
 ## 세줄요약
 
-Foundational 12-month prospective clinical and radiographic study (Schropp et al. 2003; n=46 patients, single premolar/molar extractions) using study casts,
+Foundational 12-month 전향적 (Prospective) 임상적 (Clinical) and radiographic study (Schropp et al. 2003; n=46 patients, single premolar/molar extractions) using study casts,
 
 linear radiographic analysis, and subtraction radiography — established that **major dimensional changes of the extraction site occur within the
 

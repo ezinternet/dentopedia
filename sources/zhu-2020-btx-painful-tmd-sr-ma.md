@@ -19,9 +19,9 @@ found BTX-A superior to placebo for myofascial pain reduction but no significant
 
 ## 세줄요약
 
-SR+MA on botulinum toxin type A for painful TMD
+체계적 고찰 및 메타분석 (SR+MA) on botulinum toxin type A for painful TMD
 
-found BTX-A superior to placebo for myofascial pain reduction but no 유의미한 (Significant) difference in maximum mouth opening
+found BTX-A superior to placebo for myofascial pain reduction but no significant difference in maximum mouth opening
 
 20 무작위 대조 시험 (RCT)s included qualitatively, 6 meta-analyzed.
 

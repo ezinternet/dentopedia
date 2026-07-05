@@ -19,7 +19,7 @@ p = 0.67).
 
 ## 세줄요약
 
-SR+MA of 9 무작위 대조 시험 (RCT)s (632 restorations) finding no 유의미한 (Significant) difference in failure rates between bulk-fill and incremental resin composites in posterior permanent teeth (RR = 0.82
+체계적 고찰 및 메타분석 (SR+MA) of 9 무작위 대조 시험 (RCT)s (632 restorations) finding no significant difference in failure rates between bulk-fill and incremental resin composites in posterior permanent teeth (RR = 0.82
 
 95% CI: 0.33–2.01
 

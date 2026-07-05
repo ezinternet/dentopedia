@@ -20,11 +20,11 @@ bone quality in 6-week group correlated with stability
 
 ## 세줄요약
 
-무작위 대조 시험 (RCT) (30 patients, 41 maxillary 임플란트 (Implant)s): 6-week loading vs 12-week loading — same 97.56% success, same MBL
+무작위 대조 시험 (RCT) (30 patients, 41 maxillary implants): 6-week loading vs 12-week loading — same 97.56% success, same MBL
 
-골 (Bone) quality in 6-week group correlated with stability
+bone quality in 6-week group correlated with stability
 
-6-week loading acceptable if 골 (Bone) quality considered.
+6-week loading acceptable if bone quality considered.
 
 ## 1. Document Information
 - Journal: Journal of Advanced Prosthodontics 8(5):396-403 (2016)

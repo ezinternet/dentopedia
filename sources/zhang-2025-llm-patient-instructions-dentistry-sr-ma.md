@@ -19,9 +19,9 @@ ChatGPT-3.5 > Bing, NS vs ChatGPT-4.0/Bard.
 
 ## 세줄요약
 
-J Prosthodont 2025 (Early View, pub 10 Dec 2025) — SR+MA of 25 studies on LLMs (ChatGPT, Bard, Bing) answering dental patient inquiries
+J Prosthodont 2025 (Early View, pub 10 Dec 2025) — 체계적 고찰 및 메타분석 (SR+MA) of 25 studies on LLMs (ChatGPT, Bard, Bing) answering dental patient inquiries
 
-pooled accuracy 81.87% (95% CI 77.24–86.51%), clinical acceptability 69.9% (57.3–82.6%)
+pooled accuracy 81.87% (95% CI 77.24–86.51%), 임상적 (Clinical) acceptability 69.9% (57.3–82.6%)
 
 ChatGPT-3.5 > Bing, NS vs ChatGPT-4.0/Bard.
 

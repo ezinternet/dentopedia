@@ -25,11 +25,11 @@ In-vitro phantom study with 5 digital panoramic units: scatter dose at 1 m from 
 
 ## 세줄요약
 
-5종 디지털 파노라마 장치 팬텀 실험: 1 m 거리 산란선량 최대 0.60 μGy/촬영, 연간 500회 기준 술자 갑상선 5–15 μSv, 생식선 5–40 μSv 추가 피폭.
+디지털 파노라마 촬영 장비 5종의 팬텀 실험 (이온화실 이용) — 촬영실 외부 1 m 거리에서 산란선량 측정 (최대 0.60 μGy/촬영).
 
-(incomplete)
+연간 500회 파노라마 촬영 기준으로 술자(비쌍안 자리)의 갑상선 선량 5–15 μSv, 생식선 선량 5–40 μSv의 추가 직업적 피폭.
 
-(incomplete)
+장비 종류와 위치에 따라 산란선량 차이 0.04–0.53 μGy/촬영으로 가변적; 직원 방사선방호 기준 설정에 근거 제공.
 
 ## 1. Document Information
 

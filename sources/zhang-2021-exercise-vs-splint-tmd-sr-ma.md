@@ -19,7 +19,7 @@ relief and MMO improvement, suggesting it as a viable non-appliance alternative.
 
 ## 세줄요약
 
-SR+MA comparing exercise therapy to occlusal splints for painful
+체계적 고찰 및 메타분석 (SR+MA) comparing exercise therapy to occlusal splints for painful
 
 TMD; found exercise therapy equivalent or superior for pain
 

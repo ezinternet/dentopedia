@@ -22,7 +22,7 @@ SR of 4 clinical trials finding no significant difference between HVGIC and comp
 
 ## 세줄요약
 
-SR of 4 clinical trials finding no 유의미한 (Significant) difference between HVGIC and composite resin in primary-teeth restorations.
+SR of 4 임상적 (Clinical) trials finding no significant difference between HVGIC and composite resin in primary-teeth restorations.
 
 (incomplete)
 

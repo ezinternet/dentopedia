@@ -23,9 +23,9 @@ residual graft <9% at 6 months.
 
 ## 세줄요약
 
-Human split-mouth study of techBiomat 골 (Bone)® DBBM for alveolar ridge preservation: 87% of treated sockets achieved >75% 골 (Bone) fill (vs 7% untreated)
+Human split-mouth study of techBiomat bone® DBBM for alveolar ridge preservation: 87% of treated sockets achieved >75% bone fill (vs 7% untreated)
 
-new 골 (Bone) 42% vs 25%
+new bone 42% vs 25%
 
 residual graft <9% at 6 months.
 

@@ -19,9 +19,9 @@ IOS accuracy remains debated in edentulous cases.
 
 ## 세줄요약
 
-MDPI Dentistry 2026 (Semmelweis): SR+MA 시험관내 (In vitro) (34 papers
+MDPI Dentistry 2026 (Semmelweis): 체계적 고찰 및 메타분석 (SR+MA) 시험관내 (In vitro) (34 papers
 
-PROSPERO CRD42023393091): digital vs conventional 임플란트 (Implant) impressions in edentulous full-arch — no 유의미한 (Significant) differences in trueness/precision (RMS)
+PROSPERO CRD42023393091): digital vs conventional implant impressions in edentulous full-arch — no significant differences in trueness/precision (RMS)
 
 IOS accuracy remains debated in edentulous cases.
 

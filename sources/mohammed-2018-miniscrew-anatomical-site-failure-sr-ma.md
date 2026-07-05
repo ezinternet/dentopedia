@@ -19,7 +19,7 @@ highest (16.4%), with root contact conferring an 8.7× increased risk of failure
 
 ## 세줄요약
 
-SR+MA of 61 studies providing site-specific failure rates for orthodontic miniscrews, showing
+체계적 고찰 및 메타분석 (SR+MA) of 61 studies providing site-specific failure rates for orthodontic miniscrews, showing
 
 midpalatal sites have the lowest failure rate (1.3%) and zygomatic buttress the
 

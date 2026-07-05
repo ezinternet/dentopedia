@@ -19,7 +19,7 @@ based on 15 commissioned SRs and GRADE methodology.
 
 ## 세줄요약
 
-EFP S3 level clinical practice guideline for
+EFP S3 level 임상적 (Clinical) practice guideline for
 
 stage I–III periodontitis treatment using stepwise therapy;
 

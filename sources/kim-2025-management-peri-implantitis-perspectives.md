@@ -19,11 +19,11 @@ consensus classification, and management options in the Korean clinical landscap
 
 ## 세줄요약
 
-Narrative review by Korean periodontist summarizing peri-임플란트 (Implant)itis definition
+Narrative review by Korean periodontist summarizing peri-implantitis definition
 
 (2017 World Workshop), 2024 Korean Academy of Periodontology
 
-consensus classification, and management options in the Korean clinical landscape.
+consensus classification, and management options in the Korean 임상적 (Clinical) landscape.
 
 ## 1. Document Information
 - **Title:** Current perspectives on the management of peri-implantitis (임플란트 주위염 치료의 최신 지견)

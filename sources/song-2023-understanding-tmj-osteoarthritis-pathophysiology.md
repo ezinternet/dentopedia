@@ -25,7 +25,7 @@ inconsistent), and diagnosis (CT is gold standard; cortical-continuity changes o
 
 Korean special-feature narrative review on TMJ OA pathophysiology (overload → hypoxia/HIF-1
 
-→ VEGF/MMP → cartilage & 골 (Bone) destruction), epidemiology (female-predominant, age-related but
+→ VEGF/MMP → cartilage & bone destruction), epidemiology (female-predominant, age-related but
 
 inconsistent), and diagnosis (CT is gold standard; cortical-continuity changes outweigh shape changes).
 

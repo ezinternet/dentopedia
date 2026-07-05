@@ -19,7 +19,7 @@ correlation between techniques moderate to good (Pearson -0.64); intraclass corr
 
 ## 세줄요약
 
-Clinical trial (213 one-stage 임플란트 (Implant)s in 65 patients): direct comparison of resonance frequency analysis (Osstell, ISQ) and damping capacity assessment (Periotest)
+Clinical trial (213 one-stage implants in 65 patients): direct comparison of resonance frequency analysis (Osstell, ISQ) and damping capacity assessment (Periotest)
 
 ISQ mean 57.66 ± 8.19, Periotest mean -5.08 ± 2.02
 

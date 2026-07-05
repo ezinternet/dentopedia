@@ -19,7 +19,7 @@ extraction, with acceptable reoperation rates and favorable root migration outco
 
 ## 세줄요약
 
-체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) demonstrating that coronectomy 유의미한 (Significant)ly reduces
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) demonstrating that coronectomy significantly reduces
 
 inferior alveolar nerve (IAN) injury risk compared to complete
 

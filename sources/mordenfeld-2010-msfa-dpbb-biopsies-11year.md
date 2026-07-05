@@ -23,9 +23,9 @@ particle size unchanged vs 6-month and pristine — DPBB does not resorb, integr
 
 ## 세줄요약
 
-Human biopsies harvested 11 years after MSFA with 80% DPBB + 20% autogenous 골 (Bone) (n=11 patients): 44.7% lamellar 골 (Bone), 38% marrow, 17.3% DPBB
+Human biopsies harvested 11 years after MSFA with 80% DPBB + 20% autogenous bone (n=11 patients): 44.7% lamellar bone, 38% marrow, 17.3% DPBB
 
-DPBB-골 (Bone) contact 61.5%
+DPBB-bone contact 61.5%
 
 particle size unchanged vs 6-month and pristine — DPBB does not resorb, integrates as a permanent osteoconductive scaffold.
 

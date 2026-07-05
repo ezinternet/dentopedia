@@ -21,7 +21,7 @@ definition/prevalence/classification, risk indicators, diagnostic criteria, and 
 
 Narrative review backing the Korean Academy of
 
-Periodontology consensus report on peri-임플란트 (Implant) diseases. Covers
+Periodontology consensus report on peri-implant diseases. Covers
 
 definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.
 

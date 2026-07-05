@@ -19,7 +19,7 @@ translational limitations; standardization requirements.
 
 ## 세줄요약
 
-J Periodontal Implant Sci 2026 (online Apr 2026): narrative review of preclinical 골 (Bone) regeneration models — rodent/rabbit/dog/minipig
+J Periodontal Implant Sci 2026 (online Apr 2026): narrative review of pre임상적 (Clinical) bone regeneration models — rodent/rabbit/dog/minipig
 
 species-specific healing patterns
 

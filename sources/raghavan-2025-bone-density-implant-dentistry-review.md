@@ -19,11 +19,11 @@ for implant treatment planning, surgical technique, and loading protocols.
 
 ## 세줄요약
 
-Narrative review of 골 (Bone) density classification (Misch D1–D4,
+Narrative review of bone density classification (Misch D1–D4,
 
-Lekholm-Zarb), measurement methods (CBCT HU), and clinical implications
+Lekholm-Zarb), measurement methods (CBCT HU), and 임상적 (Clinical) implications
 
-for 임플란트 (Implant) treatment planning, surgical technique, and loading protocols.
+for implant treatment planning, 외과적 (Surgical) technique, and loading protocols.
 
 ## 1. Document Information
 - **Journal**: International Journal of Research in Medical Sciences 2025; 13(9):3904–3907

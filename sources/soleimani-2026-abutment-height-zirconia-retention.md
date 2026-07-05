@@ -23,7 +23,7 @@ IJOD 2026: abutment height (2mm vs 4mm) × TheraCem vs GI cement for monolithic 
 
 TheraCem > GI at both heights
 
-zirconia + self-adhesive resin cement viable for short clinical crowns.
+zirconia + self-adhesive resin cement viable for short 임상적 (Clinical) crowns.
 
 ## 1. Key Results
 - 60 molars; two abutment heights: 2mm and 4mm

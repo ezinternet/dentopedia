@@ -22,9 +22,9 @@ screening and adjunctive interventions (occlusal splint, botulinum toxin injecti
 
 Editor's Opinion (2-page narrative commentary) from Jeju National University arguing that bruxism is
 
-associated with late 임플란트 (Implant) complications (fracture of fixture/screw/prosthesis, severe MBL, decementation), and recommending
+associated with late implant complications (fracture of fixture/screw/prosthesis, severe MBL, decementation), and recommending
 
-screening and adjunctive interventions (occlusal splint, botulinum toxin injection) before 임플란트 (Implant) installation in bruxers.
+screening and adjunctive interventions (occlusal splint, botulinum toxin injection) before implant installation in bruxers.
 
 ## 1. Document Information
 - Author: Ji-Young Song (Dental Clinic, Jeju National University Hospital)

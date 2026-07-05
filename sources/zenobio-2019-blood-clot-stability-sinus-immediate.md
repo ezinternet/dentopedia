@@ -19,11 +19,11 @@ distal 35% height reduction) and 16.52% ± 8.60% blood-clot volume contraction. 
 
 ## 세줄요약
 
-Controlled clinical pilot (10 patients, 10 임플란트 (Implant)s): lateral-window maxillary sinus lift with immediate 임플란트 (Implant) placement and
+Controlled 임상적 (Clinical) pilot (10 patients, 10 implants): lateral-window maxillary sinus lift with immediate implant placement and
 
-no grafting; 15-day vs 180-day CBCT showed predictable but contracted 골 (Bone) neoformation (mesial 38%, apical 43%,
+no grafting; 15-day vs 180-day CBCT showed predictable but contracted bone neoformation (mesial 38%, apical 43%,
 
-distal 35% height reduction) and 16.52% ± 8.60% blood-clot volume contraction. Bone formed reliably around all 임플란트 (Implant)s.
+distal 35% height reduction) and 16.52% ± 8.60% blood-clot volume contraction. Bone formed reliably around all implants.
 
 ## 1. Document Information
 - **Journal**: Journal of Cranio-Maxillofacial Surgery 2019;47(11):1803–1808

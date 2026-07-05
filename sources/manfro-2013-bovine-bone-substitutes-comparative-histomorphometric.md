@@ -27,7 +27,7 @@ Rabbit cranial-vault titanium-cylinder model (n=8, 8/12 wk) head-to-head compari
 
 anorganic bovine xenografts: Bone-Fill and Bio-Oss were comparable and both
 
-clearly superior to Gen-Ox and blood clot in new 골 (Bone) formation.
+clearly superior to Gen-Ox and blood clot in new bone formation.
 
 ## 1. Document Information
 - **Journal**: Journal of Maxillofacial and Oral Surgery 2014;13(4):464–470 (received Apr 2013, e-pub Aug 2013).

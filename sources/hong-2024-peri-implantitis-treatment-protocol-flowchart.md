@@ -19,11 +19,11 @@ protocol — failed vs failing classification → nonsurgical (debridement±anti
 
 ## 세줄요약
 
-JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-임플란트 (Implant)itis phased treatment
+JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-implantitis phased treatment
 
-protocol — failed vs failing classification → nonsurgical (debridement±antibiotics)
+protocol — failed vs failing classification → non외과적 (Surgical) (debridement±antibiotics)
 
-→ surgical (resective/access/reconstructive by defect morphology) → SPT; flowchart provided.
+→ 외과적 (Surgical) (resective/access/reconstructive by defect morphology) → SPT; flowchart provided.
 
 ## 1. Key Results
 - Peri-implantitis treatment follows phased periodontitis protocol framework

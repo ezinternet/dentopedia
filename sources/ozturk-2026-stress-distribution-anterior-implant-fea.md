@@ -23,7 +23,7 @@ across different clinical scenarios (bone availability, loading angle, restorati
 
 a single implant placed in the anterior maxilla
 
-across different clinical scenarios (골 (Bone) availability, loading angle, restoration protocol).
+across different 임상적 (Clinical) scenarios (bone availability, loading angle, restoration protocol).
 
 ## 1. Document Information
 - **Title:** Stress distribution of an anteriorly placed single implant in different clinical scenarios: a 3D finite element analysis

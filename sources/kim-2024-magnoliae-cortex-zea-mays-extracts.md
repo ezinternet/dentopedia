@@ -24,7 +24,7 @@ Two-month canine 무작위 대조 시험 (RCT) (n=10 beagles, 5 per arm) demonst
 
 + Zea mays L. extract 20 mg in ligature-induced periodontitis improves GI, PPD, CAL, and BoP
 
-versus vehicle and 유의미한 (Significant)ly suppresses tissue TNF-α expression; 생체내 (In vivo) confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
+대 vehicle and 유의미한 (Significant)ly suppresses tissue TNF-α expression; 생체내 (In vivo) confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
 
 ## 1. Document Information
 - Authors: Se Eun Kim¹², Sun Young Hwang¹, Yong Ho Park³, William C. Davis⁴ (Washington State Univ), Kun Taek Park⁵ (Inje Univ, corresponding ktpark@inje.ac.kr)

@@ -20,7 +20,7 @@ SR crowns had 46% lower complication risk overall.
 
 ## 세줄요약
 
-SR+MA (7 studies, 334 zirconia 임플란트 (Implant) crowns, 3–10 yr): screw-retained 유의미한 (Significant)ly lower MBL at 6 months (SMD -0.63)
+체계적 고찰 및 메타분석 (SR+MA) (7 studies, 334 zirconia implant crowns, 3–10 yr): screw-retained significantly lower MBL at 6 months (SMD -0.63)
 
 long-term MBL comparable
 

@@ -21,7 +21,7 @@ significant winner among restorative strategies for root caries; weak trend favo
 
 NMA of 9 무작위 대조 시험 (RCT)s (1,263 root caries lesions, 473 patients) finds no statistically
 
-유의미한 (Significant) winner among restorative strategies for root caries; weak trend favoring 2-3-step etch-and-rinse
+significant winner among restorative strategies for root caries; weak trend favoring 2-3-step etch-and-rinse
 
 + composite or RMGIC over conventional GIC at 24 months. CINeMA confidence: low.
 

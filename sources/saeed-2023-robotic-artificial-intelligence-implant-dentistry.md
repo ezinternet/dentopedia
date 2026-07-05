@@ -19,11 +19,11 @@ ethical considerations; integration with digital workflows; case studies show im
 
 ## 세줄요약
 
-Cureus 2023: Narrative review — robotics + AI in 임플란트 (Implant) dentistry
+Cureus 2023: Narrative review — robotics + AI in implant dentistry
 
 robotic accuracy in placement, AI for diagnosis/treatment planning
 
-ethical considerations; integration with digital workflows; case studies show improved 생존율 (Survival rate)s and patient satisfaction.
+ethical considerations; integration with digital workflows; case studies show improved survival rates and patient satisfaction.
 
 ## 1. Key Results
 - Narrative review (Ministry of Health, Saudi Arabia)

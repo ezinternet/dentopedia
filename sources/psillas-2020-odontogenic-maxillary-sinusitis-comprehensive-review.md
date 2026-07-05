@@ -21,7 +21,7 @@ multidisciplinary ENT + dental team is essential.
 
 Comprehensive narrative review covering anatomy, epidemiology, etiology, bacteriology, diagnosis, and treatment of odontogenic maxillary sinusitis (OMS)
 
-surgical treatment combining dental surgery with endoscopic sinus surgery (ESS) is the standard
+외과적 (Surgical) treatment combining dental surgery with endoscopic sinus surgery (ESS) is the standard
 
 multidisciplinary ENT + dental team is essential.
 

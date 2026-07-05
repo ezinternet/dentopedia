@@ -25,7 +25,7 @@ sinus floor elevation. 621 patients across 6 international centers.
 
 ## 세줄요약
 
-Largest multicenter clinical study to date evaluating
+Largest multicenter 임상적 (Clinical) study to date evaluating
 
 sinus membrane perforation rate during OD-mediated transcrestal
 

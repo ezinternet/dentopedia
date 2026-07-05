@@ -21,7 +21,7 @@ naproxen and flurbiprofen have their own independent antiplatelet effects.
 
 In vitro study using steady-state plasma concentrations of nine NSAIDs
 
-ibuprofen and mefenamic acid (but not the other seven) 유의미한 (Significant)ly reduce aspirin's antiplatelet effect when added before aspirin
+ibuprofen and mefenamic acid (but not the other seven) significantly reduce aspirin's antiplatelet effect when added before aspirin
 
 naproxen and flurbiprofen have their own independent antiplatelet effects.
 

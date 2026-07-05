@@ -21,7 +21,7 @@ at three apicocoronal levels in maxillary canine-to-canine teeth.
 
 Cross-sectional CBCT study in a Pakistani population evaluating
 
-SRP (Kan classification) and labial 골 (Bone) thickness (LBT)
+SRP (Kan classification) and labial bone thickness (LBT)
 
 at three apicocoronal levels in maxillary canine-to-canine teeth.
 

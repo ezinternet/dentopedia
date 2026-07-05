@@ -21,7 +21,7 @@ cement type alone NS (p=0.882); best: air-abrasion + hot acid + Panavia SA.
 
 Materials 2021;14:960 (Mansoura/Zurich) — 시험관내 (In vitro) 2×2 factorial: zirconia crowns × (air-abrasion only vs air-abrasion + hot HF/HNO₃ etching) × (Panavia SA Cement vs GC LinkForce) on 40 premolars
 
-hot acid etching 유의미한 (Significant)ly improves retention (p=0.001)
+hot acid etching significantly improves retention (p=0.001)
 
 cement type alone NS (p=0.882); best: air-abrasion + hot acid + Panavia SA.
 

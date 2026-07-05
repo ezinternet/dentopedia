@@ -19,7 +19,7 @@ pre-existing buccal bone dehiscence, combined with simultaneous GBR.
 
 ## 세줄요약
 
-1-year prospective 증례 모음 of immediate implant
+1-year 전향적 (Prospective) 증례 모음 (Case Series) of immediate implant
 
 placement performed in maxillary anterior sites with
 

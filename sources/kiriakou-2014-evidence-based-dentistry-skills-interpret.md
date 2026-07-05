@@ -23,7 +23,7 @@ Open-access review (Progress in Orthodontics 2014;15:58) teaching dentists
 
 how to apply 무작위 대조 시험 (RCT) and SR critical appraisal
 
-to clinical practice, anchored on the 5-step EBD framework.
+to 임상적 (Clinical) practice, anchored on the 5-step EBD framework.
 
 ## 1. Document Information
 - Journal: Progress in Orthodontics 2014, 15:58

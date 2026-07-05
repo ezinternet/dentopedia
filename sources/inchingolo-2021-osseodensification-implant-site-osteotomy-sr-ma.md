@@ -23,11 +23,11 @@ torque between clockwise vs counter-clockwise OD mode and no difference in BAFO.
 
 ## 세줄요약
 
-SR + 메타분석 (Meta-analysis, MA) (16 articles, 11 clinical studies) — osseodensification raises insertion
+SR + 메타분석 (Meta-analysis, MA) (16 articles, 11 임상적 (Clinical) studies) — osseodensification raises insertion
 
-torque and BIC vs conventional drilling, with 유의미한 (Significant) difference in BIC and
+torque and 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 대 (vs) conventional drilling, with 유의미한 (Significant) difference in 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) and
 
-torque between clockwise vs counter-clockwise OD mode and no difference in BAFO.
+torque between clockwise 대 (vs) counter-clockwise OD mode and no difference in BAFO.
 
 ## 1. Document Information
 - **Type**: Systematic review with meta-analysis (animal studies pooled)

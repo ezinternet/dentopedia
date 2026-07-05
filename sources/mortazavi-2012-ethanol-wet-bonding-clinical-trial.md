@@ -25,7 +25,7 @@ no significant difference between groups (p=0.358).
 
 ethanol wet group 91.67% at 12mo
 
-no 유의미한 (Significant) difference between groups (p=0.358).
+no significant difference between groups (p=0.358).
 
 ## 1. Document Information
 Isfahan University of Medical Sciences, Iran. Dental Research Journal 2012. 1-year RCT on noncarious cervical lesions comparing ethanol wet bonding vs conventional adhesives.

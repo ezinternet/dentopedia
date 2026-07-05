@@ -25,9 +25,9 @@ operative therapy across all stages, and removal of pre-surgical drug holiday su
 
 Korean-language review of the AAOMS MRONJ position-paper evolution (2007 BRONJ → 2014
 
-MRONJ → 2022 update), highlighting three clinically important 2022 changes: immune-modulator inclusion,
+MRONJ → 2022 update), highlighting three 임상적 (Clinical)ly important 2022 changes: immune-modulator inclusion,
 
-operative therapy across all stages, and removal of pre-surgical drug holiday support.
+operative therapy across all stages, and removal of pre-외과적 (Surgical) drug holiday support.
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(7):444–, 2023 (16 pages)

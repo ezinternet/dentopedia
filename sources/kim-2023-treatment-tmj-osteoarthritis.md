@@ -25,7 +25,7 @@ NSAIDs, occlusal splint, arthrocentesis (+HA/steroid), surgery as last resort.
 
 Korean-language clinician special-feature narrative review summarizing the
 
-conservative-first treatment ladder for TMJ osteoarthritis: self-care,
+보존적 (Conservative)-first treatment ladder for TMJ osteoarthritis: self-care,
 
 NSAIDs, occlusal splint, arthrocentesis (+HA/steroid), surgery as last resort.
 

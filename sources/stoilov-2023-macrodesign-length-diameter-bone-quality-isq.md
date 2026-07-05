@@ -22,9 +22,9 @@ drilling protocol must adapt to simulated bone quality for optimal IT and ISQ.
 
 In vitro PU foam study: diameter > length for primary stability
 
-tapered (TE) macro-design outperforms parallel in all 골 (Bone) densities
+tapered (TE) macro-design outperforms parallel in all bone densities
 
-drilling protocol must adapt to simulated 골 (Bone) quality for optimal IT and ISQ.
+drilling protocol must adapt to simulated bone quality for optimal IT and ISQ.
 
 ## 1. Document Information
 - Journal: Journal of Functional Biomaterials 14:469 (2023)

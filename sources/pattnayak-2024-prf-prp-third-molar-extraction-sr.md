@@ -23,7 +23,7 @@ healing and bone density in 4/6 studies, with easier preparation and fully autol
 
 molar extraction; both improve healing, but PRF shows advantages in soft tissue
 
-healing and 골 (Bone) density in 4/6 studies, with easier preparation and fully autologous nature.
+healing and bone density in 4/6 studies, with easier preparation and fully autologous nature.
 
 ## 1. Document Information
 - **Journal**: The Journal of Contemporary Dental Practice 2024; DOI 10.5005/jp-journals-10024-3727

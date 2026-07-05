@@ -23,11 +23,11 @@ cannot use conventional dentures, with discussion of marginal bone loss (MBL) an
 
 ## 세줄요약
 
-Korean special-feature review proposing the 임플란트 (Implant) surveyed crown–retained removable partial denture
+Korean special-feature review proposing the implant surveyed crown–retained removable partial denture
 
 (IC-RPD) as an oral rehabilitation option for severely disabled patients who
 
-cannot use conventional dentures, with discussion of marginal 골 (Bone) loss (MBL) and survival.
+cannot use conventional dentures, with discussion of marginal bone loss (MBL) and survival.
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(8):528–, 2023

@@ -21,9 +21,9 @@ significantly higher than non-chewing side, especially in posterior regions.
 
 Cross-sectional CBCT study in 25 unilateral mastication
 
-adults showing chewing-side alveolar 골 (Bone) density is
+adults showing chewing-side alveolar bone density is
 
-유의미한 (Significant)ly higher than non-chewing side, especially in posterior regions.
+significantly higher than non-chewing side, especially in posterior regions.
 
 ## 1. Document Information
 - **Journal**: Asia-Pacific Journal of Multimedia Services Convergent with Art, Humanities, and Sociology, Vol.8, No.8, August 2018, pp.11-18

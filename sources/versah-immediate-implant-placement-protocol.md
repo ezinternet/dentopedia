@@ -27,7 +27,7 @@ osseodensification, emphasizing apical anchorage and compaction allografting.
 
 Versah manufacturer protocol (2-page) for immediate
 
-임플란트 (Implant) placement into extraction sockets using
+implant placement into extraction sockets using
 
 osseodensification, emphasizing apical anchorage and compaction allografting.
 

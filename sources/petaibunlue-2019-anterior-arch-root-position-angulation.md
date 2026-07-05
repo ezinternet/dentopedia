@@ -23,7 +23,7 @@ CBCT cross-sectional study evaluating how anterior arch
 
 form combined with Kan-class SRP relates to
 
-root-to-골 (Bone) angulation in the maxillary esthetic zone.
+root-to-bone angulation in the maxillary esthetic zone.
 
 ## 1. Document Information
 - **Title:** Influence of the anterior arch shape and root position on root angulation in the maxillary esthetic area

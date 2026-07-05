@@ -19,7 +19,7 @@ and future directions toward AI-guided, biologically personalized timing decisio
 
 ## 세줄요약
 
-Perspective article reviewing the evolution of 임플란트 (Implant) placement timing
+Perspective article reviewing the evolution of implant placement timing
 
 (ITI Type 1–4), current evidence-based criteria for each protocol,
 

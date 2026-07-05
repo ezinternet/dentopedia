@@ -21,9 +21,9 @@ for chronic periodontitis with evidence-based outcomes.
 
 ## 세줄요약
 
-Comprehensive review of non-surgical
+Comprehensive review of non-외과적 (Surgical)
 
-and surgical treatment approaches
+and 외과적 (Surgical) treatment approaches
 
 for chronic periodontitis with evidence-based outcomes.
 

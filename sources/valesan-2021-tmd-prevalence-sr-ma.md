@@ -19,7 +19,7 @@ provides epidemiological foundation for TMD research and resource planning.
 
 ## 세줄요약
 
-SR+MA on TMD prevalence
+체계적 고찰 및 메타분석 (SR+MA) on TMD prevalence
 
 pooled global prevalence approximately 31% for any TMD sign/symptom, with higher rates in women and younger adults
 

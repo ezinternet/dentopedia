@@ -19,11 +19,11 @@ multicenter validation needed for clinical deployment.
 
 ## 세줄요약
 
-BMC Oral Health 2023;23:208 (Gachon/Wonkwang): DL model on 580 patients/1206 임플란트 (Implant) radiographs — 7 models predict 골일체화 (Osseointegration) status (pre vs post)
+BMC Oral Health 2023;23:208 (Gachon/Wonkwang): DL model on 580 patients/1206 implant radiographs — 7 models predict osseointegration status (pre vs post)
 
 reliable classification performance
 
-multicenter validation needed for clinical deployment.
+multicenter validation needed for 임상적 (Clinical) deployment.
 
 ## 1. Key Results
 - 580 patients, 1206 implants; panoramic + periapical radiographs

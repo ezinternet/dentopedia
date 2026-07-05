@@ -27,9 +27,9 @@ low-density bone, using ISQ-based stability outcomes plus periodontal indices.
 
 체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) of 7 studies
 
-comparing osseodensification vs conventional drilling specifically in
+comparing osseodensification 대 (vs) conventional drilling specifically in
 
-low-density 골 (Bone), using ISQ-based stability outcomes plus periodontal indices.
+low-density 골 (Bone), using 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)-based stability outcomes plus periodontal indices.
 
 ## 1. Document Information
 - **Title:** Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis

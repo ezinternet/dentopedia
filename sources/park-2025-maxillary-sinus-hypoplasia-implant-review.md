@@ -23,7 +23,7 @@ JPIS 2025;55(6):425-435: Narrative review of maxillary sinus hypoplasia (MSH) �
 
 sinus volume variants including sinus atelectasis, inferior meatus pneumatization, and ethmomaxillary
 
-sinus; all require CBCT diagnosis and alter sinus lift surgical planning.
+sinus; all require CBCT diagnosis and alter sinus lift 외과적 (Surgical) planning.
 
 ## 1. Key Results
 - MSH = reduction in sinus volume (opposite of pneumatization)

@@ -23,11 +23,11 @@ P<0.001) and ISQ (MD 3.24, 95% CI 0.72–5.95, P=0.024) over standard osteotomy.
 
 ## 세줄요약
 
-SR+MA (555 patients, 685 임플란트 (Implant)s, 생체내 (In vivo) human trials only) — OD
+체계적 고찰 및 메타분석 (SR+MA) (555 patients, 685 임플란트 (Implant), 생체내 (In vivo) human trials only) — OD
 
-raises insertion torque (45.75 ± 6.55 N·cm vs 38.00 ± 7.01 N·cm,
+raises insertion torque (45.75 ± 6.55 N·cm 대 (vs) 38.00 ± 7.01 N·cm,
 
-P<0.001) and ISQ (MD 3.24, 95% CI 0.72–5.95, P=0.024) over standard osteotomy.
+P<0.001) and 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) (MD 3.24, 95% CI 0.72–5.95, P=0.024) over standard osteotomy.
 
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis (in vivo human trials only)

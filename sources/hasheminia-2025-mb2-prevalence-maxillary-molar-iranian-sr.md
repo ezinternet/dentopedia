@@ -19,7 +19,7 @@ with microscope (78%/61%), lowest with periapical radiograph (15%/4%); I²=97% i
 
 ## 세줄요약
 
-SR+MA (29 studies, Iranian population): MB2 prevalence 60% in maxillary
+체계적 고찰 및 메타분석 (SR+MA) (29 studies, Iranian population): MB2 prevalence 60% in maxillary
 
 first molars, 33% in second molars — detection rates highest
 

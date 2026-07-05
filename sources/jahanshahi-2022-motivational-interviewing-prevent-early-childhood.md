@@ -23,7 +23,7 @@ age, session count, but improves with **session quality** and ≥3-year follow-u
 
 ## 세줄요약
 
-SR+MA of 6 무작위 대조 시험 (RCT)s (n=2,776) — Motivational Interviewing (MI) 유의미한 (Significant)ly prevents
+체계적 고찰 및 메타분석 (SR+MA) of 6 무작위 대조 시험 (RCT)s (n=2,776) — Motivational Interviewing (MI) 유의미한 (Significant)ly prevents
 
 Early Childhood Caries (ECC) measured by dmfs; effect independent of child
 

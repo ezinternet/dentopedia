@@ -21,9 +21,9 @@ across all parameters; low polymerization shrinkage alone does not confer clinic
 
 Meta-analysis of 11 무작위 대조 시험 (RCT)s showing that silorane-based composites (SBC) have statistically similar
 
-clinical performance to methacrylate-based composites (MBC) in posterior restorations, with no heterogeneity
+임상적 (Clinical) performance to methacrylate-based composites (MBC) in posterior restorations, with no heterogeneity
 
-across all parameters; low polymerization shrinkage alone does not confer clinical superiority.
+across all parameters; low polymerization shrinkage alone does not confer 임상적 (Clinical) superiority.
 
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analysis

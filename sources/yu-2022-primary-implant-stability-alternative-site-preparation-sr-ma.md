@@ -23,11 +23,11 @@ CI 4.97–15.52), osteotome MD 6.34, under-drilling MD 11.43; piezosurgery non-s
 
 ## 세줄요약
 
-SR+MA of 17 studies (12 무작위 대조 시험 (RCT)s) comparing four alternative site
+체계적 고찰 및 메타분석 (SR+MA) of 17 studies (12 무작위 대조 시험 (RCT)s) comparing four alternative site
 
 preparations vs conventional drilling — OD MD 10.25 ISQ (95%
 
-CI 4.97–15.52), osteotome MD 6.34, under-drilling MD 11.43; piezosurgery non-유의미한 (Significant) (MD 1.50).
+CI 4.97–15.52), osteotome MD 6.34, under-drilling MD 11.43; piezosurgery non-significant (MD 1.50).
 
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis

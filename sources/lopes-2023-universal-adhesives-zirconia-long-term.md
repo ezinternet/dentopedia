@@ -21,7 +21,7 @@ no material resists water degradation.
 
 Contemporary Clinical Dentistry 2023;14:307: 4 universal adhesives vs Z-Prime Plus on zirconia — 24h: SBU≈AU≈ZP
 
-12 months: all groups 유의미한 (Significant)ly decreased
+12 months: all groups significantly decreased
 
 no material resists water degradation.
 

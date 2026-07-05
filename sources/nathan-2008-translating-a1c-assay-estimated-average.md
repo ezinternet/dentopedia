@@ -19,7 +19,7 @@ establishing the linear regression equation eAG (mg/dL) = 28.7 × A1C
 
 ## 세줄요약
 
-International multicenter prospective study (n=507; 268 T1DM, 159 T2DM, 80 non-diabetic)
+International multicenter 전향적 (Prospective) study (n=507; 268 T1DM, 159 T2DM, 80 non-diabetic)
 
 establishing the linear regression equation eAG (mg/dL) = 28.7 × A1C
 

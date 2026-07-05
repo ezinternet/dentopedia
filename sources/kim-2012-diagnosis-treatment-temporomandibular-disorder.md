@@ -22,7 +22,7 @@ loading test, diagnostic anesthetic blockade), and treatment hierarchy (occlusal
 
 KDA Journal 임상가 특집 narrative review on TMD diagnosis and treatment by an OMFS clinician — covers etiology framework (normal function
 
-+ events > physiological tolerance), differential diagnosis (muscle vs joint disorder), clinical exam protocol (history, mandibular ROM end-feel, deviation/deflection pathway, palpation,
++ events > physiological tolerance), differential diagnosis (muscle vs joint disorder), 임상적 (Clinical) exam protocol (history, mandibular ROM end-feel, deviation/deflection pathway, palpation,
 
 loading test, diagnostic anesthetic blockade), and treatment hierarchy (occlusal stabilization splint → arthrocentesis and lavage → arthroscopic lysis → open surgery).
 

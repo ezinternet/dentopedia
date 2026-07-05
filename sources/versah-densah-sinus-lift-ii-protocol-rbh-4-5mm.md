@@ -25,9 +25,9 @@ mm — eliminates pilot drill step and adds allograft propulsion.
 
 ## 세줄요약
 
-Versah Densah® manufacturer-issued clinical protocol card (2-page, REV08) for
+Versah Densah® manufacturer-issued 임상적 (Clinical) protocol card (2-page, REV08) for
 
-crestal sinus floor elevation in residual 골 (Bone) height 4–5
+crestal sinus floor elevation in residual bone height 4–5
 
 mm — eliminates pilot drill step and adds allograft propulsion.
 

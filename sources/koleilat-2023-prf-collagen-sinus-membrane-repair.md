@@ -23,7 +23,7 @@ Case report (1 patient, 70-year-old male, non-restorable maxillary molar
 
 CBCT incidentally revealed antral pseudocyst): combined **platelet-rich fibrin (PRF) + resorbable collagen membrane** technique used to repair a Schneiderian membrane perforation created during pseudocyst removal at the lateral-window sinus lift
 
-staged healing produced a thickened, fibrotic but intact membrane allowing successful subsequent 임플란트 (Implant) placement.
+staged healing produced a thickened, fibrotic but intact membrane allowing successful subsequent implant placement.
 
 ## 1. Document Information
 - **Journal**: Dentistry Journal (MDPI) 2023;11(3):84

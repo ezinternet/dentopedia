@@ -23,7 +23,7 @@ bone gain comparable to lateral window with no membrane perforations.
 
 ## 세줄요약
 
-3-patient 증례 모음 proposing an OD-based crestal sinus window technique
+3-patient 증례 모음 (Case Series) proposing an OD-based crestal sinus window technique
 
 for very low RBH (0.4–1.5 mm), reporting 10.3–13.6 mm vertical
 

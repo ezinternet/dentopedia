@@ -21,7 +21,7 @@ pain, and cosmetic uses; summarizes injection protocols and dosing recommendatio
 
 Narrative review from Sevilla covering the full range of botulinum
 
-toxin applications in orofacial clinical practice, including TMD, bruxism, facial
+toxin applications in orofacial 임상적 (Clinical) practice, including TMD, bruxism, facial
 
 pain, and cosmetic uses; summarizes injection protocols and dosing recommendations.
 

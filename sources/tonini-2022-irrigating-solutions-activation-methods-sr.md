@@ -23,7 +23,7 @@ conventional needle; NaOCl+chelating agent combinations not more effective antim
 
 SR of 7 무작위 대조 시험 (RCT)s (PubMed/Scopus/Embase/Cochrane, search to Jan 2021):
 
-activation methods (PUI, XP-endo, EndoVac) 유의미한 (Significant)ly reduce biofilm vs
+activation methods (PUI, XP-endo, EndoVac) significantly reduce biofilm vs
 
 conventional needle; NaOCl+chelating agent combinations not more effective antimicrobially.
 

@@ -21,7 +21,7 @@ mo) → 72.9 (6 mo). Higher crystallinity / lower porosity (BBM) → faster earl
 
 ## 세줄요약
 
-Split-mouth prospective (10 patients, 60 임플란트 (Implant)s): ISQ trajectory after sinus lift — BBM (bovine HA) baseline
+Split-mouth 전향적 (Prospective) (10 patients, 60 implants): ISQ trajectory after sinus lift — BBM (bovine HA) baseline
 
 63.8 → 73.5 (3 mo) → 74.65 (6 mo); PBM (porcine HA) 62.6 → 67.0 (3
 

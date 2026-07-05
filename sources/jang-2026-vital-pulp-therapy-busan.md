@@ -19,7 +19,7 @@ Vital Pulpectomy using bioceramic materials (Endoseem), with FAQ and case-based 
 
 ## 세줄요약
 
-A 69-slide Korean clinical lecture presented in Busan (April 2026) by
+A 69-slide Korean 임상적 (Clinical) lecture presented in Busan (April 2026) by
 
 a clinician named Jang, covering step-by-step protocols for Vital Pulpotomy and
 

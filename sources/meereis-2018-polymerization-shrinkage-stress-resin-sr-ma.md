@@ -19,7 +19,7 @@ monomers) is the most effective strategy, while alternative photoinitiators alon
 
 ## 세줄요약
 
-SR+MA of 62 시험관내 (In vitro) studies on composition strategies for reducing polymerization shrinkage
+체계적 고찰 및 메타분석 (SR+MA) of 62 시험관내 (In vitro) studies on composition strategies for reducing polymerization shrinkage
 
 stress in resin-based dental materials; resin matrix modification (including SDR-type chemistry and low-shrinkage
 

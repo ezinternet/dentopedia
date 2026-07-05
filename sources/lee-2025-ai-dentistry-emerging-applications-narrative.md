@@ -23,7 +23,7 @@ J Dent 2025;155:105648 — narrative review (120 articles, 4 reviewers) of
 
 AI applications across dental education, patient care, and practice management; emphasises
 
-adaptive learning, simulation/VR training, multi-specialty diagnostic/clinical decision support, and operational workflow integration.
+adaptive learning, simulation/VR training, multi-specialty diagnostic/임상적 (Clinical) decision support, and operational workflow integration.
 
 ## 1. Document Information
 - Journal: Journal of Dentistry 2025;155:105648

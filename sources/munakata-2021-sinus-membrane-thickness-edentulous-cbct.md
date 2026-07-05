@@ -23,7 +23,7 @@ Retrospective CBCT analysis of 40 edentulous maxillary molar sinuses (35 patient
 
 SMT > 2 mm in 25%, SMT < 0.8 mm in 50%
 
-유의미한 (Significant) factors influencing SMT were sex, time since extraction, reason for extraction, sinus septa, and nasal septum deviation.
+significant factors influencing SMT were sex, time since extraction, reason for extraction, sinus septa, and nasal septum deviation.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry, 2021; 7:16

@@ -23,7 +23,7 @@ highest, Americas lowest), longitudinal > cross-sectional, and a downward tempor
 
 ## 세줄요약
 
-Independent SR+MA (15 studies, n=6,038) — overall dentist burnout
+Independent 체계적 고찰 및 메타분석 (SR+MA) (15 studies, n=6,038) — overall dentist burnout
 
 prevalence **13%**, matching Moro 2022; adds geographic gradient (Europe
 

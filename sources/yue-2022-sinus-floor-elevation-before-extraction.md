@@ -19,11 +19,11 @@ immediate implant placement at extraction; predominantly new bone histologically
 
 ## 세줄요약
 
-First reported case (3-year follow-up) of **Modified Lateral Sinus Floor Elevation (MSFE) performed *before* extraction** of a periodontally hopeless maxillary molar (#16): residual 골 (Bone) height augmented from 1–2 mm to 12–14 mm
+First reported case (3-year follow-up) of **Modified Lateral Sinus Floor Elevation (MSFE) performed *before* extraction** of a periodontally hopeless maxillary molar (#16): residual bone height augmented from 1–2 mm to 12–14 mm
 
 tooth retained 13 months pre-extraction
 
-immediate 임플란트 (Implant) placement at extraction; predominantly new 골 (Bone) histologically; <2 mm 골 (Bone) loss after 3 y of loading, no peri-임플란트 (Implant)itis.
+immediate implant placement at extraction; predominantly new bone histologically; <2 mm bone loss after 3 y of loading, no peri-implantitis.
 
 ## 1. Document Information
 - **Journal**: Case Reports in Dentistry 2022; Article ID 8143765 (18 pages).

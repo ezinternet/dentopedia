@@ -19,7 +19,7 @@ showing gradual risk increase, yet most furcation-involved molars can be retaine
 
 ## 세줄요약
 
-SR+MA of 21 longitudinal studies showing furcation involvement (FI) approximately doubles the risk of
+체계적 고찰 및 메타분석 (SR+MA) of 21 longitudinal studies showing furcation involvement (FI) approximately doubles the risk of
 
 molar tooth loss during SPT over 10–15 years, with degree II and III FI
 

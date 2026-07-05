@@ -23,7 +23,7 @@ Clinical + tomographic study evaluating the relationship
 
 between Kan-class SRP and periodontal phenotype (gingival
 
-biotype, 골 (Bone) wall thickness) in maxillary anterior teeth.
+biotype, bone wall thickness) in maxillary anterior teeth.
 
 ## 1. Document Information
 - **Title:** Relationship between anterior maxillary tooth sagittal root position and periodontal phenotype: a clinical and tomographic study

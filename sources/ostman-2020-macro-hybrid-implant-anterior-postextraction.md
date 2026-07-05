@@ -19,11 +19,11 @@ anterior sockets using a novel macro-hybrid implant design.
 
 ## 세줄요약
 
-Single-cohort prospective study (18–24 month follow-up) of immediate
+Single-코호트 (Cohort) 전향적 (Prospective) study (18–24 month follow-up) of immediate
 
-임플란트 (Implant) placement with immediate provisional restoration in maxillary
+implant placement with immediate provisional restoration in maxillary
 
-anterior sockets using a novel macro-hybrid 임플란트 (Implant) design.
+anterior sockets using a novel macro-hybrid implant design.
 
 ## 1. Document Information
 - **Title:** Clinical Outcomes of Maxillary Anterior Postextraction Socket Implants with Immediate Provisional Restorations Using a Novel Macro-Hybrid Implant Design: An 18- to 24-Month Single-Cohort Prospective Study

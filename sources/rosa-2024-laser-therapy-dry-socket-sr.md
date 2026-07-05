@@ -23,7 +23,7 @@ correlation not highly significant, suggesting it as a viable minimally invasive
 
 (LLLT) for dry socket treatment; laser proves effective vs. Alvogyl but
 
-correlation not highly 유의미한 (Significant), suggesting it as a viable minimally invasive alternative.
+correlation not highly significant, suggesting it as a viable minimally invasive alternative.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:700

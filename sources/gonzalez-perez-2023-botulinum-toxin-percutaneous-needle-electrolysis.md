@@ -22,7 +22,7 @@ at 28 days, sustained through 90 days, with no superiority of one over the other
 
 무작위 대조 시험 (RCT) (n=52, Seville) — BTA (100 U) and percutaneous needle electrolysis (PNE) both
 
-유의미한 (Significant)ly reduce chronic masticatory myalgia pain (VAS 6.5 → ~2.6) and improve MIO
+significantly reduce chronic masticatory myalgia pain (VAS 6.5 → ~2.6) and improve MIO
 
 at 28 days, sustained through 90 days, with no superiority of one over the other.
 

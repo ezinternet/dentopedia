@@ -26,7 +26,7 @@ data show that T/B lymphocyte deficiency abolishes external-surface osteoclastog
 
 Narrative review proposing that residual ridge resorption (RRR) is a **pathological**, not merely physiological, process
 
-driven by oral-barrier-tissue lymphocyte-mediated osteoclast activation on the external alveolar 골 (Bone) surface — Rag2-/- mouse
+driven by oral-barrier-tissue lymphocyte-mediated osteoclast activation on the external alveolar bone surface — Rag2-/- mouse
 
 data show that T/B lymphocyte deficiency abolishes external-surface osteoclastogenesis after extraction while intra-socket remodeling remains normal.
 

@@ -25,9 +25,9 @@ more vital bone (62.5% vs 31.25%) and less acellular bone (5% vs 32.91%).
 
 Retrospective histomorphometric analysis (n=24, 4 mo) of post-extraction socket preservation with
 
-Bio-Oss + calcium sulphate vs Bio-Oss alone: combined group showed 유의미한 (Significant)ly
+Bio-Oss + calcium sulphate vs Bio-Oss alone: combined group showed significantly
 
-more vital 골 (Bone) (62.5% vs 31.25%) and less acellular 골 (Bone) (5% vs 32.91%).
+more vital bone (62.5% vs 31.25%) and less acellular bone (5% vs 32.91%).
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2025, 14, 3 (received Nov 2024, published 24 Dec 2024).

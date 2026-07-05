@@ -21,7 +21,7 @@ composites, except for marginally inferior marginal adaptation at 12 months for 
 
 Meta-analysis of 21 무작위 대조 시험 (RCT)s (up to 60-month follow-up) showing that silorane,
 
-ormocer, and bulk-fill composites have similar clinical performance to conventional methacrylate
+ormocer, and bulk-fill composites have similar 임상적 (Clinical) performance to conventional methacrylate
 
 composites, except for marginally inferior marginal adaptation at 12 months for modified-monomer composites.
 

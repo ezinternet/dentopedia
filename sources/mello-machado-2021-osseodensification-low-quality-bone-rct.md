@@ -23,11 +23,11 @@ undersized drilling but identical ISQ at placement and at 6 months, with equival
 
 ## 세줄요약
 
-Double-blind 무작위 대조 시험 (RCT) (16 patients, 55 임플란트 (Implant)s) in D3/D4 골 (Bone) — osseodensification produced higher insertion
+Double-blind 무작위 대조 시험 (RCT) (16 patients, 55 임플란트 (Implant)) in D3/D4 골 (Bone) — osseodensification produced 더 높음 insertion
 
-torque (39.0 ± 6.4 vs 32.0 ± 3.4 Ncm, p< 0.001) than standard
+torque (39.0 ± 6.4 대 (vs) 32.0 ± 3.4 Ncm, p< 0.001) than standard
 
-undersized drilling but identical ISQ at placement and at 6 months, with equivalent survival.
+undersized drilling but identical 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) at placement and at 6 months, with equivalent survival.
 
 ## 1. Document Information
 - **Type**: Double-blind, randomized clinical trial (RCT)

@@ -23,7 +23,7 @@ trismus following surgical third molar extraction compared to controls.
 
 laser therapy (LLLT) 유의미한 (Significant)ly reduces pain, swelling, and
 
-trismus following surgical third molar extraction compared to controls.
+trismus following 외과적 (Surgical) third molar extraction 비교 to controls.
 
 ## 1. Document Information
 - **Journal**: Journal of the American Dental Association (JADA) 2025;156(3):211-224.E11

@@ -24,7 +24,7 @@ Prospective double-blinded 무작위 대조 시험 (RCT) (n=20) showing that a C
 
 into the lateral pterygoid muscle is **equally effective as EMG-guided injection** for TMJ disc
 
-displacement with reduction (DDWR), with 유의미한 (Significant)ly greater LPM-tenderness reduction at 3 and 6 months.
+displacement with reduction (DDWR), with significantly greater LPM-tenderness reduction at 3 and 6 months.
 
 ## 1. Document Information
 - Study type: Prospective, double-blinded, randomized controlled trial

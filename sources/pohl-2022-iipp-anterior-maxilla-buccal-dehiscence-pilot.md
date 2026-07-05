@@ -21,7 +21,7 @@ maxillary anterior sites with vs without buccal dehiscence.
 
 Comparative pilot study evaluating esthetic outcomes of
 
-immediate 임플란트 (Implant) placement with immediate provisionalization in
+immediate implant placement with immediate provisionalization in
 
 maxillary anterior sites with vs without buccal dehiscence.
 

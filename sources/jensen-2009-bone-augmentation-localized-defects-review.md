@@ -24,11 +24,11 @@ protocol identified, but implant survival in augmented bone equals pristine bone
 
 ## 세줄요약
 
-ITI 4th Consensus background SR (108 studies, 11 무작위 대조 시험 (RCT)s) of 골 (Bone) augmentation in four
+ITI 4th Consensus background SR (108 studies, 11 무작위 대조 시험 (RCT)s) of bone augmentation in four
 
 defect types — dehiscence/fenestration, horizontal ridge, vertical ridge, maxillary sinus floor: no single superior
 
-protocol identified, but 임플란트 (Implant) survival in augmented 골 (Bone) equals pristine 골 (Bone) (level A–B evidence).
+protocol identified, but implant survival in augmented bone equals pristine bone (level A–B evidence).
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral & Maxillofacial Implants 2009;24 Suppl:218–236 (4th ITI Consensus Conference proceedings background paper).

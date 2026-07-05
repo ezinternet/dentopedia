@@ -20,7 +20,7 @@ outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis suppor
 
 ## 세줄요약
 
-4-arm RCT (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy,
+4-arm 무작위 대조 시험 (RCT) (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy,
 
 and manual therapy produce equivalent VAS / MMO / OHIP-14
 

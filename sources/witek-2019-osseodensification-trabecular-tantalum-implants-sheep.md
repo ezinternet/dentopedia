@@ -25,9 +25,9 @@ to bone chips trapped in the porous network, with no other significant differenc
 
 Sheep ilium 3-week histology — three osteotomy modes (Regular, OD-CW, OD-CCW)
 
-for trabecular tantalum 임플란트 (Implant)s; OD-CCW showed higher BAFO% than Regular due
+for trabecular tantalum implants; OD-CCW showed higher BAFO% than Regular due
 
-to 골 (Bone) chips trapped in the porous network, with no other 유의미한 (Significant) differences.
+to bone chips trapped in the porous network, with no other significant differences.
 
 ## 1. Document Information
 - **Type**: Animal experimental (in vivo histomorphometry)

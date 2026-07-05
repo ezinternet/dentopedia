@@ -25,7 +25,7 @@ extraction sockets despite lack of primary stability.
 
 Case report and literature review of
 
-successfully osseointegrated 임플란트 (Implant)s placed immediately in
+successfully osseointegrated implants placed immediately in
 
 extraction sockets despite lack of primary stability.
 

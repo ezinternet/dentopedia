@@ -21,7 +21,7 @@ evidence limited and heterogeneous; role of β-TCP in ARP remains provisional.
 
 J Funct Biomater 2026: SR (5 무작위 대조 시험 (RCT)s): β-TCP alone variable results (worse than xenograft in some)
 
-β-TCP in combination= comparable to DBBM
+β-TCP in combination = comparable to DBBM
 
 evidence limited and heterogeneous; role of β-TCP in ARP remains provisional.
 

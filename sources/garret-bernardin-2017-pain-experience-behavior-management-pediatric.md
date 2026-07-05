@@ -27,11 +27,11 @@ Observational crossover split-mouth study (n=67 children/adolescents, 7-15y): th
 
 ## 세줄요약
 
-관찰형 crossover split-mouth 연구(소아·청소년 67명, 7-15세): Wand STA 컴퓨터 제어 마취기가 전통 syringe 대비 통증 VAS 유의하게 낮음(-1.09점, P=0.0003), 심박수 증가폭 작음(-3.4bpm, P=0.028), 이완된 행동(Venham=0) 더 빈번(P=0.019), 만족도 더 높음(P=0.0003).
+관찰형 교차설계 분할입강법 연구 (Split-mouth Crossover) (소아·청소년 67명, 7–15세) — Wand STA 압력제어식 컴퓨터 주입 시스템 대 전통 주사기의 직접 비교.
 
-(incomplete)
+Wand STA는 전통 syringe 대비 통증 시각아날로그척도 (Visual Analog Scale, VAS) 유의하게 저하 (–1.09점, P=0.0003), 심박수 증가량 감소 (–3.4 bpm, P=0.028), 행동평가척도 (Venham scale) 완화 상태 더 빈번 (P=0.019), 환자 만족도 더 높음 (P=0.0003).
 
-(incomplete)
+투명 눈가림 설계 (음성 신호 음소거)로 기기 종류 식별 불가능하게 하여 기대효과 편향 최소화.
 
 ## 1. Document Information
 

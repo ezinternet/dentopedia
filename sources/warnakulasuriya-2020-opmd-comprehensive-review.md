@@ -23,7 +23,7 @@ Comprehensive narrative review covering the spectrum of oral
 
 potentially malignant disorders (OPMDs): definition, classification, risk factors,
 
-clinical features, malignant transformation rates, and management strategies.
+임상적 (Clinical) features, malignant transformation rates, and management strategies.
 
 ## 1. Document Information
 - **Title**: Oral potentially malignant disorders: A comprehensive review on clinical aspects and management

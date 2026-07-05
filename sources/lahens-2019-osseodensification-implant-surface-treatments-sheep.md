@@ -23,11 +23,11 @@ showing OD CCW/CW drilling raises insertion torque and BIC vs regular drilling
 
 ## 세줄요약
 
-Sheep ilium study (12 animals, 72 임플란트 (Implant)s — 36 acid-etched, 36 machined)
+Sheep ilium study (12 animals, 72 임플란트 (Implant) — 36 acid-etched, 36 machined)
 
-showing OD CCW/CW drilling raises insertion torque and BIC vs regular drilling
+showing OD CCW/CW drilling raises insertion torque and 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 대 (vs) regular drilling
 
-(BIC P=0.024 CW, P=0.006 CCW), with CCW-OD eliminating the surface-treatment effect on BIC/BAFO.
+(골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) P=0.024 CW, P=0.006 CCW), with CCW-OD eliminating the surface-treatment effect on 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)/BAFO.
 
 ## 1. Document Information
 - **Type**: Animal in vivo study (ovine ilium model)

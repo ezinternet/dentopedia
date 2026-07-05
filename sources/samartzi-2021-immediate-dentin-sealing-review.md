@@ -21,7 +21,7 @@ strength, gap formation, microleakage, and dentin hypersensitivity with no major
 
 Literature review of 88 articles on Immediate Dentin Sealing (IDS) covering
 
-protocol, materials, and clinical evidence; concludes IDS is beneficial for bond
+protocol, materials, and 임상적 (Clinical) evidence; concludes IDS is beneficial for bond
 
 strength, gap formation, microleakage, and dentin hypersensitivity with no major contraindications.
 

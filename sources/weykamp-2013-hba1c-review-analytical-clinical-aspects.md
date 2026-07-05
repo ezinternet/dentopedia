@@ -23,7 +23,7 @@ Single-author narrative review (Ann Lab Med 2013) covering five HbA1c measuremen
 
 chromatography, capillary electrophoresis, affinity chromatography, immunoassay, enzymatic), IFCC/NGSP standardization, common interferences (Hb variants S/C/D/E,
 
-HbF, carbamylated/acetylated Hb), and clinical applications including diagnosis (≥6.5%), monitoring, pregnancy, and POC testing.
+HbF, carbamylated/acetylated Hb), and 임상적 (Clinical) applications including diagnosis (≥6.5%), monitoring, pregnancy, and POC testing.
 
 ## 1. Document Information
 - **Title**: HbA1c: A Review of Analytical and Clinical Aspects

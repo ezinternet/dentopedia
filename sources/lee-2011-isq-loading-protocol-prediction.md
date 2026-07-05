@@ -19,11 +19,11 @@ ISQ trajectory monitored over 5 months.
 
 ## 세줄요약
 
-Prospective study (5-month, Asan Medical Center): ISQ values correlate with 골 (Bone) density and insertion torque
+Prospective study (5-month, Asan Medical Center): 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) values correlate with 골 (Bone) density and insertion torque
 
-ISQ ≥65 at placement predicts successful early/immediate loading
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ) ≥65 at placement predicts successful early/immediate loading
 
-ISQ trajectory monitored over 5 months.
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ) trajectory monitored over 5 months.
 
 ## 1. Document Information
 - **Journal**: Journal of Advanced Prosthodontics 2011; 3(2):76–80

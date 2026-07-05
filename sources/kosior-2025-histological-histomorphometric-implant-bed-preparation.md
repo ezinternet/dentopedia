@@ -21,7 +21,7 @@ classical drilling can still match outcomes if rotation/cooling/load are optimal
 
 체계적 고찰 (Systematic Review, SR) (J Clin Med 2025, 29 articles): comparing 5 임플란트 (Implant) bed preparation methods (classical drilling, laser, piezoelectric, osteotomy/osteotomes, osseodensification) on histological and histomorphometric outcomes — classical drilling causes more microcracks, uneven margins, osteocyte damage, and thermal injury
 
-alternatives yield higher %BIC and less damage
+alternatives yield 더 높음 %골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) and less damage
 
 classical drilling can still match outcomes if rotation/cooling/load are optimal.
 

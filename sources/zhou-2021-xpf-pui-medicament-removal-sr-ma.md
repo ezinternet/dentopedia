@@ -19,9 +19,9 @@ but advantage disappears when both use NaOCl+EDTA combined (OR 1.51, NS).
 
 ## 세줄요약
 
-SR+MA (시험관내 (In vitro)) of XP-Endo Finisher vs. passive ultrasonic irrigation
+체계적 고찰 및 메타분석 (SR+MA) (시험관내 (In vitro)) of XP-Endo Finisher vs. passive ultrasonic irrigation
 
-for intracanal medicament removal: PUI 유의미한 (Significant)ly superior overall (OR 3.09),
+for intracanal medicament removal: PUI significantly superior overall (OR 3.09),
 
 but advantage disappears when both use NaOCl+EDTA combined (OR 1.51, NS).
 
