@@ -23,7 +23,7 @@ Animal study (rat): nanopolymorphic crystalline HA (55% crystallinity, needle-li
 
 soft tissue infiltration ↓
 
-effect limited to ≤50 µm from implant surface.
+effect limited to ≤50 µm from 임플란트 (Implant) surface.
 
 ## 1. Document Information
 Int J Nanomedicine 2012;7:859-873. doi:10.2147/IJN.S28082. UCLA LBIS. Flame spray + low-temperature calcination method.

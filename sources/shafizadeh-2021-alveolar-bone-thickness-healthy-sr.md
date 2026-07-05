@@ -19,7 +19,7 @@ No consistent gender or smoking effect.
 
 ## 세줄요약
 
-체계적 고찰 (SR) and 메타분석 (MA) pooling CBCT alveolar bone thickness measurements from healthy dentitions.
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) pooling CBCT alveolar 골 (Bone) thickness measurements from healthy dentitions.
 
 Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly.
 

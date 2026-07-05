@@ -19,9 +19,9 @@ than open flap debridement, with combination approaches (GTR+grafting, EMD+graft
 
 ## 세줄요약
 
-SR and NMA of 30 RCTs (3–20 years post-op) showing periodontal regenerative/reconstructive
+SR and NMA of 30 무작위 대조 시험 (RCT)s (3–20 years post-op) showing periodontal regenerative/reconstructive
 
-therapy in intrabony defects produces 유의미한ly better residual PD and CAL gain
+therapy in intrabony defects produces 유의미한 (Significant)ly better residual PD and CAL gain
 
 than open flap debridement, with combination approaches (GTR+grafting, EMD+grafting) appearing most efficacious.
 

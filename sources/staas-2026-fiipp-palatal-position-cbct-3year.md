@@ -19,7 +19,7 @@ for 3 years. Demonstrates preservation of buccal crest thickness and height.
 
 ## 세줄요약
 
-Prospective multi-center CBCT study of flapless IIPP with implant
+Prospective multi-center CBCT study of flapless IIPP with 임플란트 (Implant)
 
 positioned ≥2 mm palatal to the buccal crest, followed
 

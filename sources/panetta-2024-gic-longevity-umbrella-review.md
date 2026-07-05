@@ -22,7 +22,7 @@ Umbrella review of 13 SRs evaluating GIC longevity in primary/permanent teeth, w
 
 ## 세줄요약
 
-SR 13편 우산 리뷰 — GIC longevity, 방법론적 품질 한계 명시.
+Umbrella review of 13 SRs evaluating GIC longevity in primary/permanent teeth, with major AMSTAR-2/ROBIS quality caveats.
 
 (incomplete)
 

@@ -20,9 +20,9 @@ functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw mya
 
 ## 세줄요약
 
-Swedish multicentre double-blind RCT pilot (n=45) — single 100-U Botox session
+Swedish multicentre double-blind 무작위 대조 시험 (RCT) pilot (n=45) — single 100-U Botox session
 
-into masseter and temporalis showed no 유의미한 change in days with
+into masseter and temporalis showed no 유의미한 (Significant) change in days with
 
 functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw myalgia.
 

@@ -19,9 +19,9 @@ P < .0001).
 
 ## 세줄요약
 
-RCT (one-year) in maxillary molar region: immediate implant placement + transalveolar (transcrestal) sinus floor elevation with nonsubmerged healing (test) vs delayed implant placement after staged sinus lift (control)
+무작위 대조 시험 (RCT) (one-year) in maxillary molar region: immediate 임플란트 (Implant) placement + transalveolar (transcrestal) sinus floor elevation with nonsubmerged healing (test) vs delayed 임플란트 (Implant) placement after staged sinus lift (control)
 
-100% survival in both groups, but test group preserved 유의미한ly more buccal ridge dimensions (horizontal shrinkage 0.65 vs 1.23 mm, vertical resorption 0.60 vs 1.53 mm
+100% survival in both groups, but test group preserved 유의미한 (Significant)ly more buccal ridge dimensions (horizontal shrinkage 0.65 vs 1.23 mm, vertical resorption 0.60 vs 1.53 mm
 
 P < .0001).
 

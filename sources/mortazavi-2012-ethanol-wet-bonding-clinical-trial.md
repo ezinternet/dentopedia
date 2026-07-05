@@ -21,11 +21,11 @@ no significant difference between groups (p=0.358).
 
 ## 세줄요약
 
-RCT (36 NCCLs, 12 patients, 12 months): ethanol wet bonding, OptiBond FL (etch-and-rinse), Clearfil SE Bond — all 100% retention at 6mo
+무작위 대조 시험 (RCT) (36 NCCLs, 12 patients, 12 months): ethanol wet bonding, OptiBond FL (etch-and-rinse), Clearfil SE Bond — all 100% retention at 6mo
 
 ethanol wet group 91.67% at 12mo
 
-no 유의미한 difference between groups (p=0.358).
+no 유의미한 (Significant) difference between groups (p=0.358).
 
 ## 1. Document Information
 Isfahan University of Medical Sciences, Iran. Dental Research Journal 2012. 1-year RCT on noncarious cervical lesions comparing ethanol wet bonding vs conventional adhesives.

@@ -23,7 +23,7 @@ Case report: a large intraoperative Schneiderian membrane perforation during lat
 
 a partially edentulous patient (sites #16, #17, #18) was repaired with **L-PRF (leukocyte platelet-rich fibrin)**
 
-combined with collagen membranes; uneventful healing and successful placement of two external-hexagon 임플란트 at 8 months.
+combined with collagen membranes; uneventful healing and successful placement of two external-hexagon 임플란트 (Implant)s at 8 months.
 
 ## 1. Document Information
 - **Journal**: Implant Dentistry 2018; 27(3): 375–380

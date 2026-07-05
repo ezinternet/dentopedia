@@ -21,9 +21,9 @@ membrane perforation 27.8%, cumulative implant survival 96.5% at 1/3/5/7 years a
 
 Retrospective cohort (35 patients, 36 sinuses with preexisting sinus floor defects confirmed by CBCT, treated 2008–2020 by lateral sinus floor elevation using a split-thickness palatal-crestal-incision flap and
 
-resorbable collagen membrane to seal the defect before graft placement, then 임플란트 placed staged at 8 months in 81% or simultaneous in 19%); first-attempt completion 97.2%, Schneiderian
+resorbable collagen membrane to seal the defect before graft placement, then 임플란트 (Implant)s placed staged at 8 months in 81% or simultaneous in 19%); first-attempt completion 97.2%, Schneiderian
 
-membrane perforation 27.8%, cumulative implant survival 96.5% at 1/3/5/7 years and 64.3% at 8 years — sinus floor defects do not compromise lateral SFE outcomes when properly managed.
+membrane perforation 27.8%, cumulative 임플란트 (Implant) survival 96.5% at 1/3/5/7 years and 64.3% at 8 years — sinus floor defects do not compromise lateral SFE outcomes when properly managed.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2023;34(10):1141–1150

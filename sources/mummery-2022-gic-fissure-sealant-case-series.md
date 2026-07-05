@@ -22,7 +22,7 @@ Retrospective case series reporting ~77% GIC fissure-sealant retention in high-c
 
 ## 세줄요약
 
-GIC fissure sealant case series — 고우식위험 소아에서 평균 77% 유지율.
+Retrospective 증례 모음 (Case Series) reporting ~77% GIC fissure-sealant retention in high-caries-risk paediatric patients awaiting GA.
 
 (incomplete)
 

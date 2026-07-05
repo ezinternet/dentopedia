@@ -23,11 +23,11 @@ and peri-implant bone level — only residual graft particle size differed signi
 
 ## 세줄요약
 
-RCT (12 completers): in molar open-healing ARP, 5 N vs 30
+무작위 대조 시험 (RCT) (12 completers): in molar open-healing ARP, 5 N vs 30
 
-N compressive force on particulate DBBM gave comparable new bone, ISQ,
+N compressive force on particulate DBBM gave comparable new 골 (Bone), ISQ,
 
-and peri-implant bone level — only residual graft particle size differed 유의미한ly.
+and peri-임플란트 (Implant) 골 (Bone) level — only residual graft particle size differed 유의미한 (Significant)ly.
 
 ## 1. Document Information
 - Journal: J Periodontal Implant Sci 2020 Jun;50(3):197

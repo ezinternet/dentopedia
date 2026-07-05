@@ -19,7 +19,7 @@ codeine 60mg, and tramadol 37.5mg+APAP were no better than placebo.
 
 ## 세줄요약
 
-Network MA (82 RCTs, n=9,095): ibuprofen 200–400mg+APAP 500–1,000mg is
+Network MA (82 무작위 대조 시험 (RCT)s, n=9,095): ibuprofen 200–400mg+APAP 500–1,000mg is
 
 the most effective intervention for post-extraction pain; oxycodone 5mg,
 

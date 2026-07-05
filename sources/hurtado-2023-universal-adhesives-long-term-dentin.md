@@ -22,7 +22,7 @@ In-vitro 6-month aging: CSE and Scotchbond Universal > Xeno Select (higher µTBS
 
 ## 세줄요약
 
-in-vitro 6개월 노화 — CSE·Scotchbond Universal이 Xeno Select보다 µTBS↑·nanoleakage↓.
+In-vitro 6-month aging: CSE and Scotchbond Universal > Xeno Select (higher µTBS, lower nanoleakage).
 
 (incomplete)
 

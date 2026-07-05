@@ -24,7 +24,7 @@ Narrative review identifying 17 ISQ-influencing factors
 
 only 6 have clinically predictive power
 
-only 2 have well-documented scientific basis (local 골 (Bone) quality and implant macro-design).
+only 2 have well-documented scientific basis (local 골 (Bone) quality and 임플란트 (Implant) macro-design).
 
 ## 1. Document Information
 - Journal: Journal of Oral Biology and Craniofacial Research 10(4):629-638 (2020)

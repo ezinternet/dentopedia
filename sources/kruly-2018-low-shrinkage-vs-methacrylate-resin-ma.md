@@ -19,7 +19,7 @@ composites, except for marginally inferior marginal adaptation at 12 months for 
 
 ## 세줄요약
 
-Meta-analysis of 21 RCTs (up to 60-month follow-up) showing that silorane,
+Meta-analysis of 21 무작위 대조 시험 (RCT)s (up to 60-month follow-up) showing that silorane,
 
 ormocer, and bulk-fill composites have similar clinical performance to conventional methacrylate
 

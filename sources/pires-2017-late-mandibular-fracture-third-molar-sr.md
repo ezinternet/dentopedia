@@ -19,7 +19,7 @@ removal, identifying risk factors, timing, and management strategies.
 
 ## 세줄요약
 
-체계적 고찰 (SR) analyzing 124 cases of
+체계적 고찰 (Systematic Review, SR) analyzing 124 cases of
 
 late mandibular fracture following third molar
 

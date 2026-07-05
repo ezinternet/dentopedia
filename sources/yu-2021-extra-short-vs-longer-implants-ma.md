@@ -19,7 +19,7 @@ Outcomes: survival, MBL, biological/prosthetic complications.
 
 ## 세줄요약
 
-Meta-analysis of 21 RCTs comparing extra-short (≤6 mm) vs longer (≥8 mm) 임플란트.
+Meta-analysis of 21 무작위 대조 시험 (RCT)s comparing extra-short (≤6 mm) vs longer (≥8 mm) 임플란트 (Implant)s.
 
 AMSTAR-2 + GRADE quality appraisal.
 

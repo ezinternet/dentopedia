@@ -19,7 +19,7 @@ function compared to no treatment, but evidence quality is limited.
 
 ## 세줄요약
 
-체계적 고찰 (SR) of RCTs evaluating occlusal splint efficacy for TMD;
+체계적 고찰 (Systematic Review, SR) of 무작위 대조 시험 (RCT)s evaluating occlusal splint efficacy for TMD;
 
 found moderate evidence that stabilization splints reduce pain and improve
 

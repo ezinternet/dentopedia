@@ -19,11 +19,11 @@ implant design optimization; all models in development — additional clinical v
 
 ## 세줄요약
 
-J Prosthet Dent 2023;129:293-300 (ePub 2021): SR (17 studies): AI for implant type recognition 93.8–98% accuracy
+J Prosthet Dent 2023;129:293-300 (ePub 2021): SR (17 studies): AI for 임플란트 (Implant) type recognition 93.8–98% accuracy
 
 골일체화 (Osseointegration) success prediction 62.4–80.5%
 
-implant design optimization; all models in development — additional clinical validation needed.
+임플란트 (Implant) design optimization; all models in development — additional clinical validation needed.
 
 ## 1. Key Results
 - SR of 17 studies (search to Feb 2021); 5 databases

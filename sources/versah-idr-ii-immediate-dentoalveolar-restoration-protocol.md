@@ -29,7 +29,7 @@ Versah Immediate Dentoalveolar Restoration II manufacturer protocol (2-page, REV
 
 severely compromised sockets with full buccal wall loss and thin/recessed
 
-soft tissue — single-procedure implant + 골 (Bone)/soft-tissue graft + provisional.
+soft tissue — single-procedure 임플란트 (Implant) + 골 (Bone)/soft-tissue graft + provisional.
 
 ## 1. Document Information
 - **Title:** Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)

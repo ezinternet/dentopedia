@@ -23,7 +23,7 @@ qualitative synthesis.)
 
 ## 세줄요약
 
-체계적 고찰 (SR) (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD), 27 reported positive associations, 9 null, 4 negative
+체계적 고찰 (Systematic Review, SR) (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD), 27 reported positive associations, 9 null, 4 negative
 
 higher-quality studies more often positive — authors conclude the evidence supports an association and advise limiting acetaminophen in pregnancy. (Association, not causation
 

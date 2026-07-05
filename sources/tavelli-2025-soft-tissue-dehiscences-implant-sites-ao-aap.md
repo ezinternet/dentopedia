@@ -20,7 +20,7 @@ PSTD 평균 46.2%, MREC 23.1%; 위험·보호인자 다층 회귀로 식별.
 
 ## 세줄요약
 
-AO/AAP SR+meta-regression (221 연구): peri-implant soft tissue dehiscence
+AO/AAP SR+meta-regression (221 연구): peri-임플란트 (Implant) soft tissue dehiscence
 
 (PSTD)·mucosal level apical shift·mucosal recession (MREC) prevalence·incidence —
 

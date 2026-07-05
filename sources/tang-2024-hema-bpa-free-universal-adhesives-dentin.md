@@ -22,9 +22,9 @@ HEMA/BPA-free universals match CSE2 and beat Scotchbond Universal after 50k ther
 
 ## 세줄요약
 
-in-vitro — CSE2 기준, HEMA/BPA-free universal이 CSE2 동등·Scotchbond Universal 우위(50k thermocycle).
+In-vitro multi-parameter study using CSE Bond 2 as gold standard;
 
-(incomplete)
+HEMA/BPA-free universals match CSE2 and beat Scotchbond Universal after 50k thermocycles.
 
 (incomplete)
 

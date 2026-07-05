@@ -21,7 +21,7 @@ in bleeding events; risk-scoring tools recommended for surgical decision-making.
 
 SR of 7 studies comparing continuous vs discontinuous
 
-anticoagulant therapy for oral surgery: no 유의미한 difference
+anticoagulant therapy for oral surgery: no 유의미한 (Significant) difference
 
 in bleeding events; risk-scoring tools recommended for surgical decision-making.
 

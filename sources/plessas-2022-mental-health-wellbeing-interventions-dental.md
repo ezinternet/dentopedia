@@ -23,7 +23,7 @@ of evidence, especially for primary prevention; secondary/tertiary (psychoeducat
 
 ## 세줄요약
 
-체계적 고찰 (SR) of workplace interventions for mental health
+체계적 고찰 (Systematic Review, SR) of workplace interventions for mental health
 
 & wellbeing in the dental sector — paucity
 

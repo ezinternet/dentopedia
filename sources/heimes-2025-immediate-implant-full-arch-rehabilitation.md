@@ -19,11 +19,11 @@ prosthesis survival >98% despite mechanical complications; QoL improved signific
 
 ## 세줄요약
 
-Int J Prosthodont 2025 Suppl: Narrative review (Mainz/Berlin): full-arch immediate implant placement + restoration — implant survival >97%, success >95%
+Int J Prosthodont 2025 Suppl: Narrative review (Mainz/Berlin): full-arch immediate 임플란트 (Implant) placement + restoration — 임플란트 (Implant) survival >97%, success >95%
 
 MBL 0.29–1.48mm over 1–5yr
 
-prosthesis survival >98% despite mechanical complications; QoL improved 유의미한ly.
+prosthesis survival >98% despite mechanical complications; QoL improved 유의미한 (Significant)ly.
 
 ## 1. Key Results
 - Implant survival rate consistently >97% in full-arch immediate protocols

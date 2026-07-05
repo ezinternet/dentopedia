@@ -21,7 +21,7 @@ based on the inter-radicular bone available for primary stability.
 
 Technical note introducing the A/B/C classification of
 
-molar extraction sockets for immediate implant placement
+molar extraction sockets for immediate 임플란트 (Implant) placement
 
 based on the inter-radicular 골 (Bone) available for primary stability.
 

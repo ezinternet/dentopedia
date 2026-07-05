@@ -19,7 +19,7 @@ were most prevalent, linked to surgeon experience and surgery duration.
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 3 included studies on complications after
+체계적 고찰 (Systematic Review, SR) of 3 included studies on complications after
 
 simple (non-surgical) tooth extraction; trismus, alveolitis, and retained roots
 

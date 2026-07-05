@@ -24,7 +24,7 @@ SST 협측 골판 흡수 (BBPR) 감소 효과 — 생존율 98.6%, 합병증 3.8
 
 ## 세줄요약
 
-SR (D'Amario et al., JPIS 2023, PROSPERO CRD42020180637, 17 included studies, 656 임플란트):
+SR (D'Amario et al., JPIS 2023, PROSPERO CRD42020180637, 17 included studies, 656 임플란트 (Implant)s):
 
 SST 협측 골판 흡수 (BBPR) 감소 효과 — 생존율 98.6%, 합병증 3.81%, MBL
 

@@ -19,11 +19,11 @@ titanium implants; introduces VUV (1-minute) as clinical advancement.
 
 ## 세줄요약
 
-Narrative review covering UV photofunctionalization effects on osseointegration,
+Narrative review covering UV photofunctionalization effects on 골일체화 (Osseointegration),
 
 soft tissue attachment, and bacterial biofilm inhibition on
 
-titanium 임플란트; introduces VUV (1-minute) as clinical advancement.
+titanium 임플란트 (Implant)s; introduces VUV (1-minute) as clinical advancement.
 
 ## 1. Document Information
 J Prosthodont Res 2025;69(2):136-152. UCLA Weintraub Center. Received 2024-03-27, accepted 2024-05-21.

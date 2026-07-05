@@ -23,11 +23,11 @@ suture significantly better preserves buccal keratinized tissue width and ridge 
 
 ## 세줄요약
 
-RCT comparing conventional crossed mattress (X) suture vs novel
+무작위 대조 시험 (RCT) comparing conventional crossed mattress (X) suture vs novel
 
 hidden X suture for open-healing ARP: the hidden X
 
-suture 유의미한ly better preserves buccal keratinized tissue width and ridge dimensions.
+suture 유의미한 (Significant)ly better preserves buccal keratinized tissue width and ridge dimensions.
 
 ## 1. Document Information
 - Journal: J Periodontal Implant Sci 2016 Dec;46(6):415

@@ -26,7 +26,7 @@ esthetic zone — multi-intervention network MA로 효과 비교, 임플란트 �
 
 Network MA (General Hospital Northern Theater Command + Dalian Medical Univ
 
-+ China Medical Univ, JPD 2025): SST vs conventional implantation in
++ China Medical Univ, JPD 2025): SST vs conventional 임플란트 (Implant)ation in
 
 esthetic zone — multi-intervention network MA로 효과 비교, 임플란트 미용 의사결정에 강력한 anchor.
 

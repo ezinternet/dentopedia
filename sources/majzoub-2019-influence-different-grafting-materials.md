@@ -24,7 +24,7 @@ mm (alloplast); ARP reduces resorption vs extraction alone, but inter-material d
 
 ## 세줄요약
 
-SR (40 RCTs) calculating inverse-variance weighted means by graft material —
+SR (40 무작위 대조 시험 (RCT)s) calculating inverse-variance weighted means by graft material —
 
 horizontal ridge resorption was 1.52 mm (allograft), 1.47 mm (xenograft), 2.31
 

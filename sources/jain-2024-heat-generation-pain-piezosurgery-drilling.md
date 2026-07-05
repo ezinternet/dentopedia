@@ -19,9 +19,9 @@ during osteotomy than conventional rotary drilling — a clear pain-vs-heat trad
 
 ## 세줄요약
 
-체계적 고찰 (SR) (Cureus 2024, 9 studies from 2,279 hits): piezosurgery
+체계적 고찰 (Systematic Review, SR) (Cureus 2024, 9 studies from 2,279 hits): piezosurgery
 
-유의미한ly reduces postoperative pain but produces higher intraoperative bone temperatures
+유의미한 (Significant)ly reduces postoperative pain but produces higher intraoperative 골 (Bone) temperatures
 
 during osteotomy than conventional rotary drilling — a clear pain-vs-heat trade-off.
 

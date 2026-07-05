@@ -23,7 +23,7 @@ EAL acceptable in primary teeth (low evidence); overall low evidence level.
 
 Umbrella review (7 SRs): EAL and radiography comparable for WL adequacy
 
-EAL generations 3–6 not 유의미한ly different
+EAL generations 3–6 not 유의미한 (Significant)ly different
 
 EAL acceptable in primary teeth (low evidence); overall low evidence level.
 

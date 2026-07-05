@@ -29,7 +29,7 @@ Conference e-poster abstract (Clinical Oral Implants Research Vol 29 Suppl
 
 S17) reporting sheep iliac-골 (Bone) study comparing osseodensification (Densah CCW), Densah
 
-clockwise, and standard subtractive drilling on Astra TX and EV implant systems.
+clockwise, and standard subtractive drilling on Astra TX and EV 임플란트 (Implant) systems.
 
 ## 1. Document Information
 - **Title:** Effects of osseodensification on Astra TX and EV implant systems

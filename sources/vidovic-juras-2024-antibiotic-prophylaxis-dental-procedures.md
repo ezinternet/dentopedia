@@ -20,7 +20,7 @@ prosthetic joints no longer routine.
 
 ## 세줄요약
 
-Narrative review (2024): antibiotic prophylaxis indications 유의미한ly narrowed due to antibiotic resistance concerns
+Narrative review (2024): antibiotic prophylaxis indications 유의미한 (Significant)ly narrowed due to antibiotic resistance concerns
 
 currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck
 

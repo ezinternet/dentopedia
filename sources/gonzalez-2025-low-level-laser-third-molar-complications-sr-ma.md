@@ -19,9 +19,9 @@ trismus following surgical third molar extraction compared to controls.
 
 ## 세줄요약
 
-체계적 고찰 (SR) and 메타분석 (MA) confirming that low-level diode
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) confirming that low-level diode
 
-laser therapy (LLLT) 유의미한ly reduces pain, swelling, and
+laser therapy (LLLT) 유의미한 (Significant)ly reduces pain, swelling, and
 
 trismus following surgical third molar extraction compared to controls.
 

@@ -23,11 +23,11 @@ alveolar ridge expansion, with greater coronal expansion in narrower starting ri
 
 ## 세줄요약
 
-Multicenter 후향적 (21 patients / 28 임플란트) showing osseodensification produces measurable
+Multicenter 후향적 (Retrospective) (21 patients / 28 임플란트 (Implant)s) showing osseodensification produces measurable
 
 alveolar ridge expansion, with greater coronal expansion in narrower starting ridges
 
-(2.83 ± 0.66 mm in 3–4 mm ridges) and 92.8% implant survival.
+(2.83 ± 0.66 mm in 3–4 mm ridges) and 92.8% 임플란트 (Implant) survival.
 
 ## 1. Document Information
 - **Type**: Multicenter retrospective clinical study

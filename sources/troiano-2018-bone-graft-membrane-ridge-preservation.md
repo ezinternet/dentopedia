@@ -19,7 +19,7 @@ resorption by 1.72 mm (95% CI −2.14 to −1.30); TSA confirmed the evidence ba
 
 ## 세줄요약
 
-체계적 고찰 (SR) + 메타분석 (MA) + trial sequential analysis (7 studies) on alveolar ridge preservation (ARP) using allogenic/xenogenic graft covered by a
+체계적 고찰 (Systematic Review, SR) + 메타분석 (Meta-analysis, MA) + trial sequential analysis (7 studies) on alveolar ridge preservation (ARP) using allogenic/xenogenic graft covered by a
 
 resorbable membrane vs spontaneous healing: combination therapy reduced horizontal ridge resorption by 2.19 mm (95% CI −2.67 to −1.71) and vertical
 

@@ -19,7 +19,7 @@ minimally invasive.
 
 ## 세줄요약
 
-Biology 2022;11:142: n=104 patients, 135 teeth, flapless open-healing (DBBM + collagen membrane, purposely exposed) — implant survival 98.5%, success 94.8% at 5 years
+Biology 2022;11:142: n=104 patients, 135 teeth, flapless open-healing (DBBM + collagen membrane, purposely exposed) — 임플란트 (Implant) survival 98.5%, success 94.8% at 5 years
 
 CBCT confirms 3D ridge preservation
 

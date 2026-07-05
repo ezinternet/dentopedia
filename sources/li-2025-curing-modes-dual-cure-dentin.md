@@ -19,7 +19,7 @@ all cements benefit from light activation.
 
 ## 세줄요약
 
-Front Bioeng Biotechnol 2025;12:1511099: 6 dual-cure cements × 2 curing modes (light vs self-cure) × 3 storage times — light-curing 유의미한ly improves µTBS and durability
+Front Bioeng Biotechnol 2025;12:1511099: 6 dual-cure cements × 2 curing modes (light vs self-cure) × 3 storage times — light-curing 유의미한 (Significant)ly improves µTBS and durability
 
 N3 (Nexus 3) best overall
 

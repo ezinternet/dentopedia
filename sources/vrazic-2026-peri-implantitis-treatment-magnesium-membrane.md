@@ -19,11 +19,11 @@ peri-implantitis defects — novel biodegradable membrane option; illustrative c
 
 ## 세줄요약
 
-MDPI Dentistry 2026;14(2):112 (Zagreb/Osijek): Narrative review of peri-implantitis treatments +
+MDPI Dentistry 2026;14(2):112 (Zagreb/Osijek): Narrative review of peri-임플란트 (Implant)itis treatments +
 
 3 case reports using resorbable magnesium membrane for GBR in
 
-peri-implantitis defects — novel biodegradable membrane option; illustrative cases only.
+peri-임플란트 (Implant)itis defects — novel biodegradable membrane option; illustrative cases only.
 
 ## 1. Key Results
 - Narrative review of therapeutic interventions for peri-implantitis

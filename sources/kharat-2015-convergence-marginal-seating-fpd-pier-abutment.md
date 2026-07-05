@@ -19,7 +19,7 @@ abutment at 0°, 6°, 12°, 20° convergence angles; convergence-marginal fit in
 
 ## 세줄요약
 
-J Clin Diagn Res 2015;9(7):ZC56-ZC60 (Triveni Institute, India) — 시험관내 evaluation of
+J Clin Diagn Res 2015;9(7):ZC56-ZC60 (Triveni Institute, India) — 시험관내 (In vitro) evaluation of
 
 marginal seating of cast single crowns, 3-unit FPDs, and multi-unit FPDs with pier
 

@@ -19,7 +19,7 @@ to NaOCl only when contact >10 min or volume >3 mL.
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 14 시험관내 studies: QMix superior to
+체계적 고찰 (Systematic Review, SR) of 14 시험관내 (In vitro) studies: QMix superior to
 
 NaOCl, EDTA, CHX, MTAD, and Cetrimide against E. faecalis; superior
 

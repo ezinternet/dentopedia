@@ -20,7 +20,7 @@ perioperative antibiotics + CHX improve outcomes; no contraindication for contro
 
 ## 세줄요약
 
-SR (40 clinical studies + 16 aggregated publications): poorly controlled DM → ↑ peri-implantitis + long-term implant loss
+SR (40 clinical studies + 16 aggregated publications): poorly controlled DM → ↑ peri-임플란트 (Implant)itis + long-term 임플란트 (Implant) loss
 
 controlled DM = similar success to healthy controls
 

@@ -22,7 +22,7 @@ In-vitro micro-shear study: MDP/CaF self-adhesive cement (TheraCem) > non-MDP Re
 
 ## 세줄요약
 
-in-vitro micro-shear — TheraCem이 RelyX Unicem보다 3개 기질 모두 우위(thermocycling 5000).
+In-vitro micro-shear study: MDP/CaF self-adhesive cement (TheraCem) > non-MDP RelyX Unicem on enamel/dentin/zirconia after thermocycling.
 
 (incomplete)
 

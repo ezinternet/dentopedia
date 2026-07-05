@@ -21,7 +21,7 @@ chipping of veneering ceramic as the predominant technical complication, address
 
 Overview SR of 38 systematic reviews (~10,000 zirconia restorations) showing satisfactory
 
-5-year survival for tooth- and implant-supported zirconia crowns and FDPs, with
+5-year survival for tooth- and 임플란트 (Implant)-supported zirconia crowns and FDPs, with
 
 chipping of veneering ceramic as the predominant technical complication, addressable by monolithic design.
 

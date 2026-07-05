@@ -23,7 +23,7 @@ SR+MA (48 studies): ISQ correlates moderately with insertion torque (pooled
 
 r=0.44, p<0.001) but shows high heterogeneity; current evidence does not
 
-support ISQ as an independent predictor of MBL or implant survival.
+support ISQ as an independent predictor of MBL or 임플란트 (Implant) survival.
 
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research 2026;28:e70156

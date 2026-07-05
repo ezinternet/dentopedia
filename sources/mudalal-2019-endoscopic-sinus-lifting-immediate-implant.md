@@ -19,9 +19,9 @@ ISQ increased from initial to 67.4 at 3 mo and 71.0 at 6 mo, with stable bone he
 
 ## 세줄요약
 
-Case report of a 40-year-old female with severe posterior maxillary atrophy (residual 골 (Bone) height 3.53 mm): a PESS (PRF + Endoscope + Simultaneous implant
+Case report of a 40-year-old female with severe posterior maxillary atrophy (residual 골 (Bone) height 3.53 mm): a PESS (PRF + Endoscope + Simultaneous 임플란트 (Implant)
 
-placement + Sinus floor elevation) technique allowed transcrestal sinus elevation under direct endoscopic visualization with PRF as graft and a 12-mm implant placed simultaneously;
+placement + Sinus floor elevation) technique allowed transcrestal sinus elevation under direct endoscopic visualization with PRF as graft and a 12-mm 임플란트 (Implant) placed simultaneously;
 
 ISQ increased from initial to 67.4 at 3 mo and 71.0 at 6 mo, with stable 골 (Bone) height and full-ceramic crown delivery at 3 months.
 

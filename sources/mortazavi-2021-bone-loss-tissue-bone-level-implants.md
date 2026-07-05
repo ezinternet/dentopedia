@@ -19,9 +19,9 @@ definitive winner — both designs show acceptable MBL under appropriate conditi
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 38 clinical trials comparing MBL around bone-level (BL)
+체계적 고찰 (Systematic Review, SR) of 38 clinical trials comparing MBL around 골 (Bone)-level (BL)
 
-and tissue-level (TL) 임플란트, finding high heterogeneity across studies and no
+and tissue-level (TL) 임플란트 (Implant)s, finding high heterogeneity across studies and no
 
 definitive winner — both designs show acceptable MBL under appropriate conditions.
 

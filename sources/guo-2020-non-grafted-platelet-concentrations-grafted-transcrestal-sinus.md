@@ -21,9 +21,9 @@ survival rate (ISR) statistically equivalent — non-grafted 97% vs PC-grafted 9
 
 ## 세줄요약
 
-SR+MA (18 studies; 13 non-grafted TSFE + 5 platelet-grafted TSFE): 1-year implant
+SR+MA (18 studies; 13 non-grafted TSFE + 5 platelet-grafted TSFE): 1-year 임플란트 (Implant)
 
-생존율 (ISR) statistically equivalent — non-grafted 97% vs PC-grafted 99%. Suggests
+생존율 (Survival rate) (ISR) statistically equivalent — non-grafted 97% vs PC-grafted 99%. Suggests
 
 **graft material may be optional** for transcrestal sinus elevation with sufficient RBH.
 

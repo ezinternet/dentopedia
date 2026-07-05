@@ -21,7 +21,7 @@ Clearfil SE Bond 4/234 lost; pure SE mode inferior for universal adhesive.
 
 ## 세줄요약
 
-RCT (234 NCCLs, 34 patients, 24 months): Clearfil Universal Bond Quick in SE mode — clinically unacceptable (6/234 lost)
+무작위 대조 시험 (RCT) (234 NCCLs, 34 patients, 24 months): Clearfil Universal Bond Quick in SE mode — clinically unacceptable (6/234 lost)
 
 SLE and E&R modes acceptable
 

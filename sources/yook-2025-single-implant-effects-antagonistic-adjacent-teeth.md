@@ -21,9 +21,9 @@ Cracks, cusp fractures, alveolar bone, occlusal contact (Shimstock), and systemi
 
 Retrospective observational study (n=100) at Gangneung-Wonju National University Dental Hospital comparing
 
-teeth adjacent and antagonistic to single posterior 임플란트 vs contralateral controls.
+teeth adjacent and antagonistic to single posterior 임플란트 (Implant)s vs contralateral controls.
 
-Cracks, cusp fractures, alveolar bone, occlusal contact (Shimstock), and systemic disease associations analyzed.
+Cracks, cusp fractures, alveolar 골 (Bone), occlusal contact (Shimstock), and systemic disease associations analyzed.
 
 ## 1. Document Information
 - **Title:** Retrospective study on pathological effects of single implant-supported fixed prosthesis on antagonistic and adjacent teeth

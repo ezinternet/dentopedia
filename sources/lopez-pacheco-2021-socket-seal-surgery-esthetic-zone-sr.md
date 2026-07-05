@@ -19,7 +19,7 @@ CM vs FGG no clinical difference; TSA: insufficient data for definitive conclusi
 
 ## 세줄요약
 
-Int J Implant Dent 2021;7:13: SR+MA+TSA of 6 RCTs, 135 sockets esthetic zone — socket seal surgery (FGG, CM, CS, ADM, PTFEm)
+Int J Implant Dent 2021;7:13: SR+MA+TSA of 6 무작위 대조 시험 (RCT)s, 135 sockets esthetic zone — socket seal surgery (FGG, CM, CS, ADM, PTFEm)
 
 FGG without 골 (Bone) fill best height
 

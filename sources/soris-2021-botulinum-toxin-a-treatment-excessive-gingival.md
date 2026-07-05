@@ -20,7 +20,7 @@ in gingival exposure of ~3.5 ± 1 mm at 2 weeks, peak effect maintained through 
 
 ## 세줄요약
 
-Prospective clinical study (n=15) of BTX-A injected on the Yonsei triangle for gummy smile: 유의미한 decrease
+Prospective clinical study (n=15) of BTX-A injected on the Yonsei triangle for gummy smile: 유의미한 (Significant) decrease
 
 in gingival exposure of ~3.5 ± 1 mm at 2 weeks, peak effect maintained through month
 

@@ -19,7 +19,7 @@ protocol — failed vs failing classification → nonsurgical (debridement±anti
 
 ## 세줄요약
 
-JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-implantitis phased treatment
+JPIS 2024;54(5):295-308 (Yonsei/SNU): Narrative review proposing peri-임플란트 (Implant)itis phased treatment
 
 protocol — failed vs failing classification → nonsurgical (debridement±antibiotics)
 

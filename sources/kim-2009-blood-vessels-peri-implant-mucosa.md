@@ -19,9 +19,9 @@ vessel number and area fraction in flapless group (p<0.05).
 
 ## 세줄요약
 
-Animal study in 6 dogs comparing peri-implant mucosal vascularity
+Animal study in 6 dogs comparing peri-임플란트 (Implant) mucosal vascularity
 
-after flap vs flapless implant surgery, finding 유의미한ly greater
+after flap vs flapless 임플란트 (Implant) surgery, finding 유의미한 (Significant)ly greater
 
 vessel number and area fraction in flapless group (p<0.05).
 

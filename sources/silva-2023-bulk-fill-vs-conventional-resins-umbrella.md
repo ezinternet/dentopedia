@@ -21,7 +21,7 @@ in posterior direct restorations; overall meta-analysis without statistical sign
 
 Umbrella review (AMSTAR 2-assessed) of systematic reviews comparing bulk-fill vs. conventional resins
 
-in posterior direct restorations; overall 메타분석 (MA) without statistical significance found results approximately
+in posterior direct restorations; overall 메타분석 (Meta-analysis, MA) without statistical significance found results approximately
 
 5× more favorable to conventional resin, yet both show similar behavior across multiple properties.
 

@@ -22,7 +22,7 @@ SR of 4 clinical trials finding no significant difference between HVGIC and comp
 
 ## 세줄요약
 
-임상시험 4편 SR — 유치 수복에서 HVGIC와 composite resin 간 유의차 없음.
+SR of 4 clinical trials finding no 유의미한 (Significant) difference between HVGIC and composite resin in primary-teeth restorations.
 
 (incomplete)
 

@@ -23,7 +23,7 @@ Case series (n=10) reporting a trans-socket osteotome approach: maxillary extrac
 
 even with apical radiolucency or infection
 
-used as the conduit to penetrate or fracture the sinus floor for immediate implant placement with bicortical fixation, without 골 (Bone) substitute, achieving high primary stability when residual 골 (Bone) depth >5 mm.
+used as the conduit to penetrate or fracture the sinus floor for immediate 임플란트 (Implant) placement with bicortical fixation, without 골 (Bone) substitute, achieving high primary stability when residual 골 (Bone) depth >5 mm.
 
 ## 1. Document Information
 - **Journal**: Clinical Advances in Periodontics, Volume 2, Issue 2, pp. 80–87

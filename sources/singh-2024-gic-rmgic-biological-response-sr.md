@@ -22,7 +22,7 @@ SR of 9 studies finding conventional GIC less cytotoxic than RMGIC, relevant to 
 
 ## 세줄요약
 
-9편 SR — 전통 GIC가 RMGIC보다 세포독성 낮음, VPT 재료 선택에 시사.
+SR of 9 studies finding conventional GIC less cytotoxic than RMGIC, relevant to vital pulp therapy.
 
 (incomplete)
 

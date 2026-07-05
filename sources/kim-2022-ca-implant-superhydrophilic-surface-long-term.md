@@ -20,7 +20,7 @@ super hydrophilic calcium-modified SA surface demonstrates excellent long-term o
 
 ## 세줄요약
 
-Retrospective study (258 Osstem CA 임플란트, 120 patients, avg
+Retrospective study (258 Osstem CA 임플란트 (Implant)s, 120 patients, avg
 
 62 months): 97.3% survival, 94.2% success, MBL 0.074mm —
 

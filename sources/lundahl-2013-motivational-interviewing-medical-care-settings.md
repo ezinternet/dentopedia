@@ -23,7 +23,7 @@ viral load, dental outcomes, weight, alcohol/tobacco, sedentary behavior. Refere
 
 ## 세줄요약
 
-SR+MA of 48 RCTs (n=9,618) — MI in medical care settings shows modest but robust
+SR+MA of 48 무작위 대조 시험 (RCT)s (n=9,618) — MI in medical care settings shows modest but robust
 
 advantage (OR 1.55, 95% CI 1.40–1.71), effective even in brief consultations; promising areas include HIV
 

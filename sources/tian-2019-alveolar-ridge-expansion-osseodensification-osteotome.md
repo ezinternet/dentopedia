@@ -23,7 +23,7 @@ with conventional osteotome (P=0.018) in atrophic mandibular ridges.
 
 ## 세줄요약
 
-Porcine 생체내 split-mouth study (n=12 임플란트, 4-week
+Porcine 생체내 (In vivo) split-mouth study (n=12 임플란트 (Implant)s, 4-week
 
 healing) reporting BIC 62.5% with osseodensification vs 31.4%
 

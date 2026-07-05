@@ -23,7 +23,7 @@ BAF vs conventional drilling, but evidence is predominantly animal/histologic.
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 12 osseodensification (OD) studies through Nov
+체계적 고찰 (Systematic Review, SR) of 12 osseodensification (OD) studies through Nov
 
 2018 — average increase in insertion torque, BIC and
 

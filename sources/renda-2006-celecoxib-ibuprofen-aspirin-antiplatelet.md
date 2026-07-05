@@ -19,9 +19,9 @@ Placebo-controlled RCT in 24 OA + stable IHD patients on aspirin 100 mg: ibuprof
 
 ## 세줄요약
 
-Placebo-controlled RCT in 24 OA + stable IHD patients on aspirin 100 mg: ibuprofen
+Placebo-controlled 무작위 대조 시험 (RCT) in 24 OA + stable IHD patients on aspirin 100 mg: ibuprofen
 
-600 mg TID 유의미한ly raised serum TXB2 and platelet aggregation (aspirin effect abolished); celecoxib
+600 mg TID 유의미한 (Significant)ly raised serum TXB2 and platelet aggregation (aspirin effect abolished); celecoxib
 
 200 mg BID had no effect on platelet COX-1 inhibition despite equivalent COX-2 suppression.
 

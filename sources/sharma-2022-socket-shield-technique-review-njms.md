@@ -26,7 +26,7 @@ vs conventional immediate implant placement treatment outcome 비교
 
 Review (ESIC Dental College Delhi, NJMS 2022): SST
 
-vs conventional immediate implant placement treatment outcome 비교
+vs conventional immediate 임플란트 (Implant) placement treatment outcome 비교
 
 — PubMed/Google Scholar/Cochrane 검색 606 articles → 19 eligible.
 

@@ -19,7 +19,7 @@ marginal adaptation, and marginal staining compared to self-etch mode.
 
 ## 세줄요약
 
-체계적 고찰 (SR) and 메타분석 (MA) of 13 clinical studies showing
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) of 13 clinical studies showing
 
 that etch-and-rinse mode for universal adhesives provides superior retention,
 

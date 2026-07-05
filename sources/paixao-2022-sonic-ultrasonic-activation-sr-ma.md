@@ -19,9 +19,9 @@ ultrasonic is superior for push-out bond strength at middle and apical thirds.
 
 ## 세줄요약
 
-체계적 고찰 (SR) + 메타분석 (MA) of sonic vs. ultrasonic irrigant activation
+체계적 고찰 (Systematic Review, SR) + 메타분석 (Meta-analysis, MA) of sonic vs. ultrasonic irrigant activation
 
-(시험관내): sonic is superior for apical smear layer removal;
+(시험관내 (In vitro)): sonic is superior for apical smear layer removal;
 
 ultrasonic is superior for push-out bond strength at middle and apical thirds.
 

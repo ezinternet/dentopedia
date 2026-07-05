@@ -20,9 +20,9 @@ placement (hydrophilic SOI surface) → monolithic zirconia — successful digit
 
 ## 세줄요약
 
-Case report (44F): peri-implantitis + periodontitis → implant + tooth removal →
+Case report (44F): peri-임플란트 (Implant)itis + periodontitis → 임플란트 (Implant) + tooth removal →
 
-9mo healing → CAD/CAM titanium mesh GBR (autograft+bovine) → fully guided 2-implant
+9mo healing → CAD/CAM titanium mesh GBR (autograft+bovine) → fully guided 2-임플란트 (Implant)
 
 placement (hydrophilic SOI surface) → monolithic zirconia — successful digital rehabilitation workflow.
 

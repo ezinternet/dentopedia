@@ -19,9 +19,9 @@ delayed placement when primary stability and septum-driven positioning are achie
 
 ## 세줄요약
 
-체계적 고찰 (SR) + 메타분석 (MA) of immediate implant placement in
+체계적 고찰 (Systematic Review, SR) + 메타분석 (Meta-analysis, MA) of immediate 임플란트 (Implant) placement in
 
-molar extraction sockets. Pooled 생존율s are comparable to
+molar extraction sockets. Pooled 생존율 (Survival rate)s are comparable to
 
 delayed placement when primary stability and septum-driven positioning are achieved.
 

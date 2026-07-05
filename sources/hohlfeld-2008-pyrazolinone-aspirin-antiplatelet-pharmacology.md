@@ -19,7 +19,7 @@ block aspirin's COX-1 acetylation similarly to ibuprofen, through a hydrogen-bon
 
 ## 세줄요약
 
-Human platelet 시험관내 study demonstrating that dipyrone (metamizole) and other pyrazolinones
+Human platelet 시험관내 (In vitro) study demonstrating that dipyrone (metamizole) and other pyrazolinones
 
 via their active metabolite 4-methylaminoantipyrine (MAA)
 

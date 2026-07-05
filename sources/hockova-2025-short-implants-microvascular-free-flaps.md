@@ -21,7 +21,7 @@ free flaps (fibula/iliac crest/scapula). Assesses survival, success, and quality
 
 Five-year prospective study of 13 head-and-neck cancer patients (44
 
-임플란트) who received short dental 임플란트 in microvascular bone
+임플란트 (Implant)s) who received short dental 임플란트 (Implant)s in microvascular 골 (Bone)
 
 free flaps (fibula/iliac crest/scapula). Assesses survival, success, and quality-of-life.
 

@@ -23,7 +23,7 @@ months post-placement, regardless of grafting material (β-TCP vs 60% HA + 40% �
 
 Prospective clinical study (44 test + 48 control patients, 170 Astra Tech
 
-임플란트): ISQ values **equal between augmented and non-augmented posterior maxilla** at 4
+임플란트 (Implant)s): ISQ values **equal between augmented and non-augmented posterior maxilla** at 4
 
 months post-placement, regardless of grafting material (β-TCP vs 60% HA + 40% β-TCP).
 

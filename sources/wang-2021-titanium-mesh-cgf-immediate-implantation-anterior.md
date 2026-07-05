@@ -21,7 +21,7 @@ placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and
 
 Short-term clinical evaluation of titanium mesh combined with CGF
 
-(Concentrated Growth Factor) membranes for GBR at immediate implant
+(Concentrated Growth Factor) membranes for GBR at immediate 임플란트 (Implant)
 
 placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
 

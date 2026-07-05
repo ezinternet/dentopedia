@@ -23,7 +23,7 @@ showing OD CCW/CW drilling raises insertion torque and BIC vs regular drilling
 
 ## 세줄요약
 
-Sheep ilium study (12 animals, 72 임플란트 — 36 acid-etched, 36 machined)
+Sheep ilium study (12 animals, 72 임플란트 (Implant)s — 36 acid-etched, 36 machined)
 
 showing OD CCW/CW drilling raises insertion torque and BIC vs regular drilling
 

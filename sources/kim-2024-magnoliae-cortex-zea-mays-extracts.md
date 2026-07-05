@@ -20,11 +20,11 @@ versus vehicle and significantly suppresses tissue TNF-α expression; in vivo co
 
 ## 세줄요약
 
-Two-month canine RCT (n=10 beagles, 5 per arm) demonstrating that oral combined Magnoliae cortex 40 mg
+Two-month canine 무작위 대조 시험 (RCT) (n=10 beagles, 5 per arm) demonstrating that oral combined Magnoliae cortex 40 mg
 
 + Zea mays L. extract 20 mg in ligature-induced periodontitis improves GI, PPD, CAL, and BoP
 
-versus vehicle and 유의미한ly suppresses tissue TNF-α expression; 생체내 confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
+versus vehicle and 유의미한 (Significant)ly suppresses tissue TNF-α expression; 생체내 (In vivo) confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
 
 ## 1. Document Information
 - Authors: Se Eun Kim¹², Sun Young Hwang¹, Yong Ho Park³, William C. Davis⁴ (Washington State Univ), Kun Taek Park⁵ (Inje Univ, corresponding ktpark@inje.ac.kr)

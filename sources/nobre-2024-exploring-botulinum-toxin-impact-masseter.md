@@ -20,7 +20,7 @@ thickness, EMG activity, and masticatory performance** — i.e. clinically relev
 
 ## 세줄요약
 
-Triple-blinded RCT (n=26 women, same cohort as the temporalis-focused companion paper) showing BoNT-A
+Triple-blinded 무작위 대조 시험 (RCT) (n=26 women, same cohort as the temporalis-focused companion paper) showing BoNT-A
 
 is effective for masseter hypertrophy but **repeated injections cause persistent decreases in masseter
 

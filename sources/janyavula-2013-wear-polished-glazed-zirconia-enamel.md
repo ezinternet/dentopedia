@@ -19,9 +19,9 @@ veneering porcelain: most enamel wear; polish > glaze.
 
 ## 세줄요약
 
-J Prosthet Dent 2013;109:22-29: 시험관내 Alabama wear device — polished zirconia: no ceramic loss, least enamel wear
+J Prosthet Dent 2013;109:22-29: 시험관내 (In vitro) Alabama wear device — polished zirconia: no ceramic loss, least enamel wear
 
-glazed zirconia: 유의미한 ceramic + enamel wear
+glazed zirconia: 유의미한 (Significant) ceramic + enamel wear
 
 veneering porcelain: most enamel wear; polish > glaze.
 

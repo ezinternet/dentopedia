@@ -20,9 +20,9 @@ frequency in BoNT/A arm but not control; tender-point count differed between gro
 
 ## 세줄요약
 
-Yonsei University pilot RCT (n=21, BoNT/A vs. saline, 12 weeks) —
+Yonsei University pilot 무작위 대조 시험 (RCT) (n=21, BoNT/A vs. saline, 12 weeks) —
 
-유의미한 within-group decreases in orofacial VAS, tender points, headache VAS and
+유의미한 (Significant) within-group decreases in orofacial VAS, tender points, headache VAS and
 
 frequency in BoNT/A arm but not control; tender-point count differed between groups.
 

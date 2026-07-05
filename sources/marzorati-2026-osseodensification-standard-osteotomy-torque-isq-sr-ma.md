@@ -23,7 +23,7 @@ P<0.001) and ISQ (MD 3.24, 95% CI 0.72–5.95, P=0.024) over standard osteotomy.
 
 ## 세줄요약
 
-SR+MA (555 patients, 685 임플란트, 생체내 human trials only) — OD
+SR+MA (555 patients, 685 임플란트 (Implant)s, 생체내 (In vivo) human trials only) — OD
 
 raises insertion torque (45.75 ± 6.55 N·cm vs 38.00 ± 7.01 N·cm,
 

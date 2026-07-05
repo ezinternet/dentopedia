@@ -22,9 +22,9 @@ TheraCem among strongest.
 
 ## 세줄요약
 
-in-vitro — 지르코니아 합착 적층기법·mould·노화 영향, TheraCem 상위.
+In-vitro: resin-cement-to-zirconia adhesion under incremental vs bulk build-up, mould, and ageing;
 
-(incomplete)
+TheraCem among strongest.
 
 (incomplete)
 

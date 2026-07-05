@@ -19,11 +19,11 @@ space / angulated implants, magnets the worst; implant survival did not differ s
 
 ## 세줄요약
 
-체계적 고찰 (SR) and 메타분석 (MA) (14 RCTs/crossover trials, 2010–2020) comparing implant overdenture attachment systems: bar
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) (14 무작위 대조 시험 (RCT)s/crossover trials, 2010–2020) comparing 임플란트 (Implant) overdenture attachment systems: bar
 
 attachments showed superior retention, telescopic attachments highest patient satisfaction, locators best for limited interarch
 
-space / angulated 임플란트, magnets the worst; implant survival did not differ 유의미한ly across attachments.
+space / angulated 임플란트 (Implant)s, magnets the worst; 임플란트 (Implant) survival did not differ 유의미한 (Significant)ly across attachments.
 
 ## 1. Document Information
 - **Journal**: Cureus, 2025 May 10

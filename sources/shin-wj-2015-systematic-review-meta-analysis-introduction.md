@@ -19,7 +19,7 @@ fixed vs random effects, and publication bias (funnel plot, Egger's test).
 
 ## 세줄요약
 
-Korean-language methodological introduction to systematic review and 메타분석 (MA) (Hanyang Med Rev
+Korean-language methodological introduction to systematic review and 메타분석 (Meta-analysis, MA) (Hanyang Med Rev
 
 2015;35:9-17) covering search/selection/quality assessment, effect size pooling, heterogeneity (I², Cochran Q),
 

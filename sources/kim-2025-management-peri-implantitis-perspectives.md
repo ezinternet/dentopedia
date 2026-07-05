@@ -19,7 +19,7 @@ consensus classification, and management options in the Korean clinical landscap
 
 ## 세줄요약
 
-Narrative review by Korean periodontist summarizing peri-implantitis definition
+Narrative review by Korean periodontist summarizing peri-임플란트 (Implant)itis definition
 
 (2017 World Workshop), 2024 Korean Academy of Periodontology
 

@@ -19,7 +19,7 @@ and their effects on osseointegration in healthy and compromised bone.
 
 ## 세줄요약
 
-Comprehensive narrative review of dental implant surface modifications (SLA,
+Comprehensive narrative review of dental 임플란트 (Implant) surface modifications (SLA,
 
 acid-etching, hydrophilic SLActive, DCD, laser, protein coatings, growth factors)
 

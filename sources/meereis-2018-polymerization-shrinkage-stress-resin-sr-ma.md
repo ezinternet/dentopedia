@@ -19,11 +19,11 @@ monomers) is the most effective strategy, while alternative photoinitiators alon
 
 ## 세줄요약
 
-SR+MA of 62 시험관내 studies on composition strategies for reducing polymerization shrinkage
+SR+MA of 62 시험관내 (In vitro) studies on composition strategies for reducing polymerization shrinkage
 
 stress in resin-based dental materials; resin matrix modification (including SDR-type chemistry and low-shrinkage
 
-monomers) is the most effective strategy, while alternative photoinitiators alone show no 유의미한 benefit.
+monomers) is the most effective strategy, while alternative photoinitiators alone show no 유의미한 (Significant) benefit.
 
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analyses (multiple meta-analyses by composition strategy subgroup)

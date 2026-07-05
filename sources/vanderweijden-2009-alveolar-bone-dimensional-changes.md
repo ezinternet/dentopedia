@@ -19,7 +19,7 @@ socket fill in height 2.57 mm — width loss exceeds height loss during natural 
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 12 human studies on post-extraction ridge change without preservation: weighted-mean horizontal width
+체계적 고찰 (Systematic Review, SR) of 12 human studies on post-extraction ridge change without preservation: weighted-mean horizontal width
 
 loss 3.87 mm, mid-buccal height loss 1.67 mm, crestal radiographic height loss 1.53 mm, and
 

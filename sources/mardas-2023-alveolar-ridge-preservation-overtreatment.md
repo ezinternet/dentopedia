@@ -21,7 +21,7 @@ and concluding that ARP is clinically valid and safe but is not universally indi
 
 Critical review (Periodontology 2000, open access) examining the four conventional objectives of **alveolar ridge preservation (ARP)**
 
-limiting dimensional change, promoting 골 (Bone) formation, preserving soft tissue/contour, and enabling implant placement without additional augmentation
+limiting dimensional change, promoting 골 (Bone) formation, preserving soft tissue/contour, and enabling 임플란트 (Implant) placement without additional augmentation
 
 and concluding that ARP is clinically valid and safe but is not universally indicated; in selected scenarios (thick walls, posterior sites, no esthetic demand) unassisted socket healing yields comparable outcomes and ARP can constitute overtreatment.
 

@@ -26,9 +26,9 @@ PRISMA 2020, JBI, AMSTAR 2, ConQual): fluoridated > non-fluoridated dentifrices 
 
 ## 세줄요약
 
-엄브렐러 리뷰(SR 8편;
+엄브렐러 리뷰 (체계적고찰 8편, PRISMA 2020·JBI·AMSTAR 2·ConQual 평가) — 치아침식 (Erosive Tooth Wear, ETW) 방지에 효과적인 치약 성분을 계층화 평가.
 
-PRISMA 2020·JBI·AMSTAR 2·ConQual): 불소 함유 치약이 비함유 대비 법랑질·상아질 보호에 우수하며, 그중 주석 함유(SnF2·다중이온) 제형이 침식·침식마모 조건에서 NaF/NaMFP보다 가장 일관되게 우수(주석=중등도 확실성, 신기술=낮음/매우 낮음).
+불소 함유 치약이 비함유 대비 법랑질·상아질 보호에 우수하며, 그중 주석 함유 (Stannous Fluoride, SnF2) 제형이 침식·침식마모 조건에서 염화나트륨불화(Sodium Fluoride, NaF)보다 가장 일관되게 우수 (주석 확실성=중등도, 신기술=낮음/매우 낮음).
 
 단, 근거가 in vitro/in situ 단기 모델에 치우쳐 임상 ETW 진행 감소의 증거는 아님.
 

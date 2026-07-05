@@ -21,7 +21,7 @@ demonstrates extending transcrestal indication to RBH <4 mm.
 
 ## 세줄요약
 
-Case report (26F, #16, RBH 3.5 mm): endoscopically-controlled flapless transcrestal sinus elevation + PRF + simultaneous 12 mm implant. ISQ 72.6 at surgery
+Case report (26F, #16, RBH 3.5 mm): endoscopically-controlled flapless transcrestal sinus elevation + PRF + simultaneous 12 mm 임플란트 (Implant). ISQ 72.6 at surgery
 
 crown delivered at 12 weeks
 

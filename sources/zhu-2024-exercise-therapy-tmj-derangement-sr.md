@@ -19,9 +19,9 @@ improves MMO and reduces pain, supporting structured rehabilitation protocols.
 
 ## 세줄요약
 
-체계적 고찰 (SR) on exercise therapy after surgical/interventional treatment of
+체계적 고찰 (Systematic Review, SR) on exercise therapy after surgical/interventional treatment of
 
-TMJ internal derangement (악관절 내장증); finds postoperative exercise 유의미한ly
+TMJ internal derangement (악관절 내장증); finds postoperative exercise 유의미한 (Significant)ly
 
 improves MMO and reduces pain, supporting structured rehabilitation protocols.
 

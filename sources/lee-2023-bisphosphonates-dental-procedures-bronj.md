@@ -24,7 +24,7 @@ Narrative review: bisphosphonates (oral/IV) mechanism, BRONJ risk stratification
 
 topical BPs enhance 골일체화 (Osseointegration)
 
-systemic (IV especially) → high BRONJ risk; prevention = oral hygiene + pre-treatment dental clearance.
+systemic (IV especially) → high BRONJ risk; prevention= oral hygiene + pre-treatment dental clearance.
 
 ## 1. Document Information
 - Journal: Cancers 15(22):5366 (November 2023)

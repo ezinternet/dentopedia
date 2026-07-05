@@ -23,7 +23,7 @@ Critical narrative review challenges 9 "biomimetic restorative dentistry" (BRD) 
 
 abrasion, enamel beveling, CHX MMP inactivation, "elected" gold-standard adhesives, IDS, deep margin elevation, decoupling,
 
-fiber inserts) — finding most lack RCT/SR-level evidence of superiority over standard adhesive techniques.
+fiber inserts) — finding most lack 무작위 대조 시험 (RCT)/SR-level evidence of superiority over standard adhesive techniques.
 
 ## 1. Document Information
 - **Journal**: J Appl Oral Sci 2024;32:e20240271

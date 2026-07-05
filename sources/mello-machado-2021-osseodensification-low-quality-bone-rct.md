@@ -23,7 +23,7 @@ undersized drilling but identical ISQ at placement and at 6 months, with equival
 
 ## 세줄요약
 
-Double-blind RCT (16 patients, 55 임플란트) in D3/D4 bone — osseodensification produced higher insertion
+Double-blind 무작위 대조 시험 (RCT) (16 patients, 55 임플란트 (Implant)s) in D3/D4 골 (Bone) — osseodensification produced higher insertion
 
 torque (39.0 ± 6.4 vs 32.0 ± 3.4 Ncm, p< 0.001) than standard
 

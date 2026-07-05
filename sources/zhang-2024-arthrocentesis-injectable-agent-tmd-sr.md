@@ -19,7 +19,7 @@ hyaluronic acid and corticosteroids most evidence-supported, with emerging data 
 
 ## 세줄요약
 
-체계적 고찰 (SR) from Chengdu on arthrocentesis (관절천자) combined with
+체계적 고찰 (Systematic Review, SR) from Chengdu on arthrocentesis (관절천자) combined with
 
 injectable agents (HA, corticosteroids, PRP, BTX) for TMD; finds
 

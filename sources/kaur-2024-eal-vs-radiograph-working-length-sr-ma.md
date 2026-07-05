@@ -19,7 +19,7 @@ EAL 10% better adequacy (RR 1.10, P=0.006); very low-certainty evidence; no supe
 
 ## 세줄요약
 
-BMC Oral Health 2024;24:532: SR+MA (11 RCTs SR / 8 MA): EAL vs radiograph — no pain difference
+BMC Oral Health 2024;24:532: SR+MA (11 무작위 대조 시험 (RCT)s SR / 8 MA): EAL vs radiograph — no pain difference
 
 radiograph better accuracy (SMD 0.55, P=0.02)
 

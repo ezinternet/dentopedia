@@ -21,7 +21,7 @@ the primary anchorage when inter-radicular septum is inadequate.
 
 Case report (2-year follow-up) of maxillary immediate molar
 
-implant placement using the palatal root socket as
+임플란트 (Implant) placement using the palatal root socket as
 
 the primary anchorage when inter-radicular septum is inadequate.
 

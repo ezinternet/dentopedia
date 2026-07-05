@@ -20,7 +20,7 @@ screw = more mechanical complications.
 
 ## 세줄요약
 
-체계적 고찰 (SR) (12 studies): no 유의미한 overall difference in survival between screw and cement-retained implant reconstructions
+체계적 고찰 (Systematic Review, SR) (12 studies): no 유의미한 (Significant) overall difference in survival between screw and cement-retained 임플란트 (Implant) reconstructions
 
 cement = more biological complications
 

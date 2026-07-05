@@ -22,7 +22,7 @@ SR of 5 in-vitro studies finding Ca/P-releasing modifications enhance GIC bioact
 
 ## 세줄요약
 
-in-vitro 5편 SR — Ca/P 방출 개질이 GIC 생체활성·재광화·pH·항우식 향상.
+SR of 5 in-vitro studies finding Ca/P-releasing modifications enhance GIC bioactivity, hydroxyapatite formation, pH, and cariostasis.
 
 (incomplete)
 

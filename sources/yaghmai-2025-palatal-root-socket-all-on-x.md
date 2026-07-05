@@ -19,7 +19,7 @@ support in All-on-X full-arch rehabilitations, avoiding long cantilevers.
 
 ## 세줄요약
 
-Case report describing immediate implant placement into maxillary
+Case report describing immediate 임플란트 (Implant) placement into maxillary
 
 molar palatal root sockets specifically to provide distal
 

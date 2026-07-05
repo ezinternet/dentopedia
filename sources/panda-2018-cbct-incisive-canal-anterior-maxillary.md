@@ -23,7 +23,7 @@ Cross-sectional CBCT study evaluating incisive canal dimensions
 
 and anterior maxillary 골 (Bone) thickness, with implications
 
-for immediate implant placement risk of canal perforation.
+for immediate 임플란트 (Implant) placement risk of canal perforation.
 
 ## 1. Document Information
 - **Title:** Cone beam computerized tomography evaluation of incisive canal and anterior maxillary bone thickness for placement of immediate implants

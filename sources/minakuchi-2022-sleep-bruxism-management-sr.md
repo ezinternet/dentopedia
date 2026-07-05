@@ -19,7 +19,7 @@ pharmacological and BTX options supported by limited data.
 
 ## 세줄요약
 
-체계적 고찰 (SR) from Okayama University on sleep bruxism (수면이갈이) management in adults
+체계적 고찰 (Systematic Review, SR) from Okayama University on sleep bruxism (수면이갈이) management in adults
 
 occlusal splints and biofeedback devices show most evidence
 

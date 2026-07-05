@@ -23,7 +23,7 @@ SR+MA of clinical endodontic irrigation and dressing protocols for apical period
 
 single-visit treatment achieves higher healing rates (RR 1.10) than multi-visit with
 
-Ca(OH)2; NaOCl concentration and CHX vs NaOCl are not 유의미한 for 7-day pain.
+Ca(OH)2; NaOCl concentration and CHX vs NaOCl are not 유의미한 (Significant) for 7-day pain.
 
 ## 1. Document Information
 - **Journal**: International Endodontic Journal 56(S3):422–435, 2023

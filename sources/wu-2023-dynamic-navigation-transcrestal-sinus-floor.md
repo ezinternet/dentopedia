@@ -19,7 +19,7 @@ navigation in non-TSFE contexts; premolar sites showed smaller angular deviation
 
 ## 세줄요약
 
-Retrospective pilot study (28 임플란트 in 28 patients, Peking University Hospital of Stomatology, Oct 2019–Jul 2021): dynamic navigation combined with osteotomes and a piezoelectric device for transcrestal sinus
+Retrospective pilot study (28 임플란트 (Implant)s in 28 patients, Peking University Hospital of Stomatology, Oct 2019–Jul 2021): dynamic navigation combined with osteotomes and a piezoelectric device for transcrestal sinus
 
 floor elevation (TSFE) achieved angular deviation 3.66 ± 1.67°, entry-point horizontal deviation 1.07 ± 0.69 mm, and apical-point horizontal deviation 1.09 ± 0.67 mm — comparable to dynamic
 

@@ -19,7 +19,7 @@ intraoral polishing critical after occlusal adjustment.
 
 ## 세줄요약
 
-Dent Mater J 2021;40(3):650-656: 시험관내, Y-TZP 3 contact conditions × polished/ground — polished zirconia minimized antagonist wear regardless of contact type
+Dent Mater J 2021;40(3):650-656: 시험관내 (In vitro), Y-TZP 3 contact conditions × polished/ground — polished zirconia minimized antagonist wear regardless of contact type
 
 grinding increased roughness and wear
 

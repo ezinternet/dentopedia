@@ -19,7 +19,7 @@ Subjects: 63,880 (covered since 2014, age 75 baseline).
 
 ## 세줄요약
 
-Population-level analysis of claimed dental implant utilization in South Korea using NHIS Health Checkup Cohort.
+Population-level analysis of claimed dental 임플란트 (Implant) utilization in South Korea using NHIS Health Checkup Cohort.
 
 Anderson behavioral model applied.
 

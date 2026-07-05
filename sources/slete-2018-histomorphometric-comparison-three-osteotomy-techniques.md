@@ -23,7 +23,7 @@ immediate BIC was 60.3% with osseodensification vs 40.7% with Summers osteotome 
 
 ## 세줄요약
 
-Porcine tibia pilot histomorphometry (n = 18 osteotomies, 6 per group) —
+Porcine tibia pilot histomorphometry (n= 18 osteotomies, 6 per group) —
 
 immediate BIC was 60.3% with osseodensification vs 40.7% with Summers osteotome and
 

@@ -23,9 +23,9 @@ deviation 492.94 mm³ (21.21% of preset), mean displacement 0.0248 mm, mean angl
 
 ## 세줄요약
 
-Chinese clinical 증례 모음 (n=4 edentulous patients) on a 3D-printed digital stackable
+Chinese clinical 증례 모음 (Case Series) (n=4 edentulous patients) on a 3D-printed digital stackable
 
-template (osteotomy + implant + provisional in one stack) — mean volume
+template (osteotomy + 임플란트 (Implant) + provisional in one stack) — mean volume
 
 deviation 492.94 mm³ (21.21% of preset), mean displacement 0.0248 mm, mean angle deviation 6.03°.
 

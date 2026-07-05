@@ -19,11 +19,11 @@ implant site prep, bone grafting, sinus floor elevation, ridge splitting, IAN la
 
 ## 세줄요약
 
-Narrative clinical review (Clin Cosmet Investig Dent 2015;7:115–124) of piezoelectric 골 (Bone) surgery in implant dentistry — principal claimed advantages
+Narrative clinical review (Clin Cosmet Investig Dent 2015;7:115–124) of piezoelectric 골 (Bone) surgery in 임플란트 (Implant) dentistry — principal claimed advantages
 
 precise/selective cutting, avoidance of thermal damage, preservation of soft tissue; indications
 
-implant site prep, 골 (Bone) grafting, sinus floor elevation, ridge splitting, IAN lateralization.
+임플란트 (Implant) site prep, 골 (Bone) grafting, sinus floor elevation, ridge splitting, IAN lateralization.
 
 ## 1. Document Information
 - Journal: Clinical, Cosmetic and Investigational Dentistry 2015;7:115–124

@@ -19,7 +19,7 @@ zirconia generations for single crowns (~96–97% 3-year survival), restricting 
 
 ## 세줄요약
 
-German S3 clinical guideline (DGI/DGZMK) on all-ceramic implant-supported restorations recommending lithium disilicate and all
+German S3 clinical guideline (DGI/DGZMK) on all-ceramic 임플란트 (Implant)-supported restorations recommending lithium disilicate and all
 
 zirconia generations for single crowns (~96–97% 3-year survival), restricting FDPs and full-arch cases to
 

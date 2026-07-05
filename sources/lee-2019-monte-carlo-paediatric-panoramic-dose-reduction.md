@@ -23,9 +23,9 @@ beam height is the dominant dose-reduction lever.
 
 ## 세줄요약
 
-소아 파노라마 선량 MC vs TLD(MC 3.474 vs TLD 3.850 µSv).
+Monte Carlo vs TLD for paediatric panoramic dose (MC 3.474 vs TLD 3.850 µSv);
 
-빔 높이(beam height)가 선량 결정 최대 인자.
+beam height is the dominant dose-reduction lever.
 
 (incomplete)
 

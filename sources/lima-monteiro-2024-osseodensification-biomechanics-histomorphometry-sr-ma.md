@@ -23,7 +23,7 @@ BAFO MD 2.11); certainty of evidence low to moderate.
 
 ## 세줄요약
 
-SR+MA (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human ISQ by median 8.57 vs conventional drilling at baseline (no 유의미한 difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79
+SR+MA (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human ISQ by median 8.57 vs conventional drilling at baseline (no 유의미한 (Significant) difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79
 
 BIC MD 2.17
 

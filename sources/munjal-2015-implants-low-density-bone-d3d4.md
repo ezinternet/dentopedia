@@ -19,11 +19,11 @@ specially designed implants viable in poor bone quality.
 
 ## 세줄요약
 
-Clinical study (n=14, D3/D4 bone, Maestro™ 임플란트, 12-month follow-up): 92.3% 생존율
+Clinical study (n=14, D3/D4 골 (Bone), Maestro™ 임플란트 (Implant)s, 12-month follow-up): 92.3% 생존율 (Survival rate)
 
-mean bone loss not statistically 유의미한
+mean 골 (Bone) loss not statistically 유의미한 (Significant)
 
-specially designed 임플란트 viable in poor bone quality.
+specially designed 임플란트 (Implant)s viable in poor 골 (Bone) quality.
 
 ## 1. Document Information
 - **Journal**: Contemporary Clinical Dentistry 2015; 6(1):40–44

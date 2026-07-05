@@ -22,7 +22,7 @@ In-vitro fatigue bond strength + SEM finding two-step HEMA-free G2-Bond Universa
 
 ## 세줄요약
 
-in-vitro 피로결합강도 — 2-step HEMA-free G2-Bond이 E&R 모드 법랑질 최고.
+In-vitro fatigue bond strength + SEM finding two-step HEMA-free G2-Bond Universal highest enamel fatigue strength in E&R mode.
 
 (incomplete)
 

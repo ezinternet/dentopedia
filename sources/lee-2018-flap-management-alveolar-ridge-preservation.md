@@ -19,7 +19,7 @@ p<0.00001)** vs flapless — supporting flapless ARP for keratinized tissue pres
 
 ## 세줄요약
 
-체계적 고찰 (SR) and 메타분석 (MA) (11 studies: 9 RCTs + 2 CCTs) of flap management strategies in alveolar ridge preservation: no 유의미한 differences in bone width or height between flapped and flapless techniques, but **flapped ridge preservation produced a statistically 유의미한 shrinkage of keratinized gingiva width (WMD -3.21 mm
+체계적 고찰 (Systematic Review, SR) and 메타분석 (Meta-analysis, MA) (11 studies: 9 무작위 대조 시험 (RCT)s + 2 CCTs) of flap management strategies in alveolar ridge preservation: no 유의미한 (Significant) differences in 골 (Bone) width or height between flapped and flapless techniques, but **flapped ridge preservation produced a statistically 유의미한 (Significant) shrinkage of keratinized gingiva width (WMD -3.21 mm
 
 95% CI -4.10 to -2.33
 

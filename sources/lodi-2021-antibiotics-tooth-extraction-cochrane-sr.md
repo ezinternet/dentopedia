@@ -23,7 +23,7 @@ Cochrane systematic review (3rd update, CD003811.pub3) evaluating antibiotic pro
 
 prevent post-extraction complications; outcomes tracked at day 6–7 include infectious
 
-complications, pain, fever, swelling, 개구제한 (Trismus), dry socket, and adverse events.
+complications, pain, fever, swelling, trismus, dry socket, and adverse events.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews 2021, Issue 2, Art. No.: CD003811

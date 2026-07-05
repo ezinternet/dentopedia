@@ -23,7 +23,7 @@ Cureus 2025
 
 Narrative review (2015-2025 literature)
 
-future of 임플란트 — zirconia/Ti-Zr alloys, AI/robotics/3D printing, bioactive surfaces, smart 임플란트; clinical adoption limited by cost, learning curves, inconsistent long-term data.
+future of 임플란트 (Implant)s — zirconia/Ti-Zr alloys, AI/robotics/3D printing, bioactive surfaces, smart 임플란트 (Implant)s; clinical adoption limited by cost, learning curves, inconsistent long-term data.
 
 ## 1. Key Results
 - Literature 2015–2025 (PubMed, Scopus, Google Scholar)

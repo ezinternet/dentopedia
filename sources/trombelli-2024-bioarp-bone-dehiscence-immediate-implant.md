@@ -23,7 +23,7 @@ Case study describing a modification of Biologically-oriented
 
 Alveolar Ridge Preservation (BioARP) applied to correct
 
-buccal 골 (Bone) dehiscence at immediate implant placement.
+buccal 골 (Bone) dehiscence at immediate 임플란트 (Implant) placement.
 
 ## 1. Document Information
 - **Title:** Biologically-oriented alveolar ridge preservation to correct bone dehiscence at immediate implant placement

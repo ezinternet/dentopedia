@@ -19,11 +19,11 @@ molar position + poor periodontal status of adjacent tooth = significant risk fa
 
 ## 세줄요약
 
-JPIS 2026;56(1):31-38: Cross-sectional (n=142 임플란트, 101 patients, >10yr): PCL rate 53.7%
+JPIS 2026;56(1):31-38: Cross-sectional (n=142 임플란트 (Implant)s, 101 patients, >10yr): PCL rate 53.7%
 
 mesial 65.6% > distal 28.3%
 
-molar position + poor periodontal status of adjacent tooth = 유의미한 risk factors.
+molar position + poor periodontal status of adjacent tooth = 유의미한 (Significant) risk factors.
 
 ## 1. Key Results
 - n=142 implants, 188 adjacent teeth, 101 patients; all >10 years function (Pusan National University)

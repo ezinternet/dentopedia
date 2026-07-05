@@ -23,7 +23,7 @@ First reported case (3-year follow-up) of **Modified Lateral Sinus Floor Elevati
 
 tooth retained 13 months pre-extraction
 
-immediate implant placement at extraction; predominantly new 골 (Bone) histologically; <2 mm 골 (Bone) loss after 3 y of loading, no peri-implantitis.
+immediate 임플란트 (Implant) placement at extraction; predominantly new 골 (Bone) histologically; <2 mm 골 (Bone) loss after 3 y of loading, no peri-임플란트 (Implant)itis.
 
 ## 1. Document Information
 - **Journal**: Case Reports in Dentistry 2022; Article ID 8143765 (18 pages).

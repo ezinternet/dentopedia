@@ -19,11 +19,11 @@ healing and bone density in 4/6 studies, with easier preparation and fully autol
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 6 studies comparing PRF vs. PRP after mandibular third
+체계적 고찰 (Systematic Review, SR) of 6 studies comparing PRF vs. PRP after mandibular third
 
 molar extraction; both improve healing, but PRF shows advantages in soft tissue
 
-healing and bone density in 4/6 studies, with easier preparation and fully autologous nature.
+healing and 골 (Bone) density in 4/6 studies, with easier preparation and fully autologous nature.
 
 ## 1. Document Information
 - **Journal**: The Journal of Contemporary Dental Practice 2024; DOI 10.5005/jp-journals-10024-3727

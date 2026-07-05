@@ -19,7 +19,7 @@ osseodensification shows transient mid-healing gains; bone condensation shows pr
 
 ## 세줄요약
 
-RCT (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ
+무작위 대조 시험 (RCT) (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ
 
 high-speed 800rpm yields highest initial IT in dense 골 (Bone)
 

@@ -23,7 +23,7 @@ Critical narrative review (Dent J 2025) of osseodensification evidence: higher p
 
 ISQ advantage variable
 
-benefits greatest in D3/D4 골 (Bone) and sinus augmentation; long-term RCT data limited.
+benefits greatest in D3/D4 골 (Bone) and sinus augmentation; long-term 무작위 대조 시험 (RCT) data limited.
 
 ## 1. Document Information
 - **Journal**: Dentistry Journal 2025; 13:461

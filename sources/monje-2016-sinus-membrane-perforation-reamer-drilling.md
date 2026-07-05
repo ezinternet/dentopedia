@@ -19,7 +19,7 @@ reamer drilling is concluded to be safe and effective when lateral wall thicknes
 
 ## 세줄요약
 
-Two-center 후향적 증례 모음 evaluating the reamer-drilling lateral window approach for sinus augmentation: overall Schneiderian membrane perforation rate **12.5%**
+Two-center 후향적 (Retrospective) 증례 모음 (Case Series) evaluating the reamer-drilling lateral window approach for sinus augmentation: overall Schneiderian membrane perforation rate **12.5%**
 
 thinner lateral walls (<1.25 mm) trended toward higher perforation
 

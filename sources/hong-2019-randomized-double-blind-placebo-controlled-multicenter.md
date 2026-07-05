@@ -20,9 +20,9 @@ versus placebo in chronic periodontitis, but does not change probing depth, atta
 
 ## 세줄요약
 
-Multicenter double-blind RCT (n=100) showing that an 8-week fixed-dose combination of vitamin C / vitamin E
+Multicenter double-blind 무작위 대조 시험 (RCT) (n=100) showing that an 8-week fixed-dose combination of vitamin C / vitamin E
 
-/ lysozyme / carbazochrome (CELC; brand IGATAN F) added to SRP reduces gingival index (GI) 유의미한ly
+/ lysozyme / carbazochrome (CELC; brand IGATAN F) added to SRP reduces gingival index (GI) 유의미한 (Significant)ly
 
 versus placebo in chronic periodontitis, but does not change probing depth, attachment level, or plaque index.
 

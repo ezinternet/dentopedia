@@ -19,7 +19,7 @@ stress 2–3 MPa (most studies), flexural strength >80 MPa for most materials.
 
 ## 세줄요약
 
-체계적 고찰 (SR) of 53 시험관내 studies on flowable bulk-fill resin
+체계적 고찰 (Systematic Review, SR) of 53 시험관내 (In vitro) studies on flowable bulk-fill resin
 
 composites reporting wide property variation: DC 19.41–93.71%, polymerization shrinkage 1.26–10.45%, shrinkage
 
