@@ -25,6 +25,10 @@ IOS는 무치악에서 가능성 있으나, 편평하고 특징 없는 점막면
 
 IOS는 아직 완전 무치악 환자의 통상 인상을 대체하기 어려움 — 긴 스캔 경로·해부학적 랜드마크 부족이 핵심 한계; 신세대 IOS가 개선 가능성 있으나 근거 부족(8편).
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/digital-workflow-decision-ladder]]에서 확인되는 현재 역할을 백필.] [[overviews/digital-workflow-decision-ladder]] 무치악 IOS 정확도 스펙트럼에서 유일하게 "기공실 스캐너가 IOS보다 우위"라는 반대축을 제공 — vankos-2026·singh-2025의 IOS 우호적 결과와 대비되는 근거로 배치됨.
+
 ## 1. Document Information
 - **Journal**: BDJ Open 2025, 11:13
 - **DOI**: 10.1038/s41405-025-00300-4
