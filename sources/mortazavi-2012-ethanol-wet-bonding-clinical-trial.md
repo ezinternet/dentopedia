@@ -27,6 +27,10 @@ ethanol wet group 91.67% at 12mo
 
 no significant difference between groups (p=0.358).
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/direct-resin-restoration-adhesion-placement-overview]]에서 확인되는 현재 역할을 백필.] [[overviews/direct-resin-restoration-adhesion-placement-overview]]에서 dentin hybridization 기법 변형 목록("multiple-layer application", "hydrophobic-layer overlay" 등) 중 ethanol-wet bonding 항목의 유일한 임상 RCT 근거 — NCCL 12개월 데이터로 이 기법 옵션의 실제 임상 성적을 뒷받침.
+
 ## 1. Document Information
 Isfahan University of Medical Sciences, Iran. Dental Research Journal 2012. 1-year RCT on noncarious cervical lesions comparing ethanol wet bonding vs conventional adhesives.
 
