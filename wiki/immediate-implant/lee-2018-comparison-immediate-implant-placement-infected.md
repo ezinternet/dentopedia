@@ -7,9 +7,11 @@ doi: 10.1080/00016357.2018.1453084
 pmid: "29611763"
 source: lee-2018-comparison-immediate-implant-placement-infected.md
 category: [immediate-implant]
-confidence: sr
-source_collection: pubmed-text
-full_text: false
+confidence: sr+ma
+source_collection: external
+full_text: true
+pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-comparison-immediate-implant-placement-infected.pdf
+pdf_filename: lee-2018-comparison-immediate-implant-placement-infected.pdf
 text_path: /Users/oracleneo/llm-wiki/papers/lee-2018-comparison-immediate-implant-placement-infected.txt
 text_filename: lee-2018-comparison-immediate-implant-placement-infected.txt
 superseded_by: saijeva-2020-immediate-implant-placement-non-infected-sockets
