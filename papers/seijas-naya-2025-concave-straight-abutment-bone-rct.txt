@@ -1,0 +1,1351 @@
+1
+
+Introduction
+
+Currently, the success of implant treatment is no longer solely measured by the successful osseointegration of implants following placement surgery but has evolved to encompass the quality and stability of the surrounding tissues, which ultimately determine implant survival (Canullo et al.). Marginal bone loss (MBL) is a multifactorial event that inevitably occurs after implant placement. While MBL itself does not necessarily lead to peri‐implant disease, peri‐implantitis does not occur without prior MBL (Galindo‐Moreno et al.). In a retrospective study analyzing 590 implants, it was observed that implants exhibiting radiographic bone loss greater than 0.5 mm after prosthetic placement were at a higher risk of developing peri‐implant pathology, potentially leading to treatment failure (Galindo‐Moreno et al.).
+
+In 2017, criteria for diagnosing and classifying different peri‐implant pathologies were established, distinguishing between physiological and pathological bone loss (Berglundh et al.). This consensus emphasized the importance of clinical and radiographic assessments before implant placement, after the healing period, and at various time points following prosthetic rehabilitation. According to their findings, bone loss exceeding 3 mm from the most coronal portion of the implant post‐restoration is suggestive of peri‐implantitis. This contrasts with the threshold proposed in a previous consensus by Misch et al., who considered bone loss of up to 4 mm acceptable, provided it was less than half the length of the implant (Berglundh et al.; Misch et al.).
+
+Given the strong association between early MBL and the increased risk of peri‐implant disease, various preventive strategies have been explored. It is widely recognized that soft tissue thickness of less than 2 mm compromises the biological seal around implants, promoting inflammatory activity and increasing the likelihood of MBL (Tastan Eroglu et al.). Lysov et al. introduced the WHS concept (width, height, stability) to define optimal parameters for peri‐implant health, function, and esthetics. They emphasized that soft tissue thickness below 2 mm, a keratinized tissue band of less than 3 mm (particularly on the buccal side), and frequent soft tissue manipulation contribute to early MBL and may increase the risk of future complications (Lysov and Saadoun). To address the latter, the “one abutment‐one time” concept has been widely adopted to minimize repeated soft tissue disturbances (Becker et al.).
+
+Several approaches have been proposed to optimize implant geometry and its influence on biological width formation. One widely accepted concept is platform switching, which has been shown to reduce MBL (Del Amo et al.). Additionally, current research suggests that abutment height plays a crucial role in preventing early bone remodeling, with abutments exceeding 3 mm in height associated with lower early MBL (Del Amo et al.). Another critical factor is abutment shape. While a systematic review in 2020 suggested that abutment design may influence hard tissue health, evidence regarding its effect on soft tissue health remains inconclusive (Canullo et al.). However, recent studies indicate that concave abutments, which create additional space for soft tissue, are associated with reduced early MBL compared to traditional cylindrical abutments (Bernabeu‐Mira et al.; Corvino et al.; Pérez‐Sayans et al.).
+
+The aim of this study is to evaluate MBL over a two‐year period by comparing two types of abutments: ‘straight’ and ‘slim,’ the latter featuring a concave design to accommodate peri‐implant tissues. This study seeks to independently assess MBL trends without relying on previous early MBL findings.
+
+2
+
+Material and Methods
+
+2.1
+
+Trial Design, Participants, and Setting
+
+This study was designed as a balanced, randomised, double‐blind clinical trial, which was conducted with two parallel experimental arms, without a control group. The participants were recruited solely from Spain. The trial was conducted from February 2020 to July 2021. The data from early MBL had previously been published (Pérez‐Sayans et al.). The study protocol was registered in, under the identifier:, and it was approved by the Regional Committee for Research Ethics (Ref. 2019/169).
+
+Patients who met the inclusion criteria were recruited by the Unit of Oral Medicine, Oral Surgery and Implantology of the University of Santiago de Compostela from February 2020 to April 2020. The patients were fully informed of the characteristics of the study and were invited to participate. A complete medical history was taken for each of the patients, and they also underwent a thorough oral examination and a cone beam tomography (CBCT)‐based radiology study (i‐CAT‐FLX, Madrid, Spain).
+
+The principles outlined in the Declaration of Helsinki on clinical research involving human subjects were followed. This clinical trial is reported in accordance with the criteria recommended in the CONSORT guidelines (Schulz et al.). The selection criteria for this study have previously been published (Pérez‐Sayans et al.).
+
+2.2
+
+Interventions
+
+Patients were divided into two parallel experimental arms, and neither control nor placebo groups were established given that neither of the groups was considered to be superior. The two arms were straight abutment and concave abutment.
+
+2.2.1
+
+Study Products
+
+Initially, 80 Hexagonal Internal Connection Implants (IPX Model, Galimplant, Sarria, Spain) were placed in healed mature bone (more than six months post‐extraction), all with a diameter of 4 mm and a length of 10 mm, and 80 screw‐retained abutments, 40 straight aesthetic antirotational abutments (Nueva Galimplant, Sarria, Spain), and 40 concave (Slim) antirotational abutments (Nueva Galimplant, Sarria, Spain), each of 2 or 3 mm in height were used. After 6 months, 3 implants were retired from the study and after a 24‐month observation period, a total of 9 implants, attributed to 5 patients, were lost during the follow‐up; therefore, the final sample size was 68 implants.
+
+2.2.2
+
+Surgical Procedures
+
+The implants were placed following the usual surgical technique for non‐submerged implants with a mucoperiosteal flap. The implant bed drilling was performed according to the manufacturer's instructions. The implants were placed mechanically up to a maximum of 40 Ncm, and the implantation process was finished manually using a surgical torque wrench. Patients had a sufficient amount of bone to accommodate implants with a diameter of 4 mm and a length of 10 mm. There had to be at least 1.5–2 mm of bone surrounding the implant to ensure proper osseointegration and long‐term stability. A thinner bone thickness could increase the risk of bone resorption and alveolar crest recession. It was determined that the implant was always to be placed 4 mm under the future gingival margin, and if possible, 1 mm below the residual alveolar crest.
+
+2.2.3
+
+Abutment Insertion
+
+All abutments were placed during the same surgical procedure as the implant insertion, following the “one‐abutment‐one‐time” philosophy to minimise peri‐implant tissue alterations (Becker et al.). According to the randomised allocation, whenever bone and gingival availability permitted, 3 mm abutments were utilised, allowing for a 4 mm biological width. In cases where this measurement couldn't be achieved, shorter abutments (2 mm) were employed. The abutment placement torque was set at a minimum of 25 N, with the potential to increase to 35 N if the implant exhibited sufficient primary stability. Additionally, a healing cap was affixed to safeguard the abutment until the final impression was taken.
+
+2.2.4
+
+Definitive Prosthesis
+
+Eight weeks after the surgical procedure, impressions were taken for the definitive prosthesis and its placement. Using a burnout cap, the metal‐porcelain prosthesis was screwed to the definitive abutment with a torque of 20 N. In this study, no fixed partial dentures were performed; all implants were rehabilitated individually.
+
+2.3
+
+Measurement and Primary and Secondary Objectives
+
+The main variables were: (1) Peri‐implant tissue stability, measured as marginal bone remodelling by MBL, defined as the reduction in bone height around the implant over time, or marginal bone gain (MBG), referring to an increase in bone height around the implant, using digital intraoral radiology (CS 7600, Carestream, Madrid, Spain) at 8 weeks pre‐loading and 24 months post‐loading; (2) primary and post‐prosthodontic stability of implants evaluated by means of resonance frequency analysis (RFA) quantified as the ISQ (Ostell, Madrid, Spain). The secondary variables were: (1) Demographic variables: age and sex; (2) Habits: smoking and bruxism; (3) Topographic variables: tooth position, premolar/M, maxilla/mandible, and type of antagonist tooth; (4) Periodontal clinical variables: (a) Periodontal biotype/phenotype (thin or thick at the operator's discretion, following Müller and Eger's recommendations) (Müller and Eger); (b) Bleeding Index (which measures the bleeding on four surfaces of all teeth present × 100); (c) O'Leary plaque index (O'Leary et al.) (four surfaces per tooth, number of total plaque surfaces/total surfaces × 100 of all of the teeth present through disclosure with erythrosine); (d) Overall average probing depth (six surfaces per tooth, sum of the depth on all of the measured surfaces/number of measured surfaces); (e) Abutment type (straight or concave).
+
+The tissue stability evaluations, as well as the periodontal indicees, were performed 8 weeks after the implantation procedure and 24 months after the prosthetic loading procedure had taken place. All of the radiological images were taken using the same intrabuccal radiology device (X‐Mind AC Satelec, Acteon, Barcelona, Spain). This process was performed by the same operator using an XCP type Intraoral X‐ray positioner p/4 (Bader, Madrid, Spain) as previously described (Pérez‐Sayans et al.).
+
+The measurements were taken by two independent observers (FSN and MPS). The reliability of the measurements performed by the two examiners was evaluated using the k‐statistic in order to determine the probing depth and the MBL, with values of 0.86 and 0.96 recorded respectively.
+
+2.4
+
+Sample Size Calculation
+
+In line with our previous study, published with a 6‐month follow‐up, we established statistical criteria for the “a priori” calculation of sample size. These criteria included an effect size on MBL of 0.5 mm, an alpha error of 0.05, and a statistical power of 90%. Applying these parameters and utilising the Student's t‐test for independent samples, we determined that each group would require a sample of 40 implants, resulting in a total of 80 implants for the study, considering an estimated loss ratio of 15%. The sample size calculation was performed using the G Power 3.1.5 software. The current investigation extends the follow‐up period to 24 months to assess the longer‐term outcomes.
+
+2.5
+
+Randomisation (Random Number Generation, Allocation Concealment, and Implementation)
+
+Patients eligible for inclusion had at least two missing posterior teeth (from first premolar to second molar), with or without distal‐end saddles, in either the maxilla or mandible. Randomization was performed at the patient level, with intra‐patient allocation used to assign different abutment types to each implant site. This design allowed each patient to serve as their own control, ensuring balance in the distribution of interventions.
+
+The randomization sequence was generated prior to the start of the clinical phase by an independent researcher not involved in patient recruitment, treatment, or outcome assessment, using a custom macro in SPSS version 24.0 (IBM Corp., Armonk, NY, USA). The allocation sequence determined both the abutment type and its position within each patient's arch.
+
+Allocation concealment was ensured through the use of sealed, opaque, sequentially numbered envelopes prepared by the same independent researcher. These envelopes were opened only at the time of abutment connection, after implant placement, thus maintaining allocation concealment until the appropriate stage of treatment.
+
+2.6
+
+Blinding
+
+This was a randomized, double‐blind clinical trial in which both the patients and the individual responsible for statistical analysis were blinded to the group allocation (type of abutment). Patients were unaware of which type of abutment had been placed, and the data analyst received anonymized data labeled as “Group 1” and “Group 2,” rather than “test/control” or “straight/concave,” ensuring unbiased data evaluation. However, the investigator analyzing the radiographs was not blinded, as the abutment shapes were clearly distinguishable in intraoral radiographs.
+
+2.7
+
+Statistical Analysis
+
+The study analysed implants as the primary focus, presenting categorical variables as frequency/percentage and continuous variables as mean ± standard deviation. Normality was assessed with the Kolmogorov–Smirnov Test. Statistical comparisons included independent‐sample t‐tests for dichotomous variables and paired‐sample t‐tests for intra‐group bone level changes. Pearson's correlation coefficient examined bivariate correlations among periodontal indices. IBM SPSS 24.0 was used for statistical analysis, incorporating mixed linear regression models to assess the impact of abutment type and height on MBR, with individual variations weighted based on implant count per patient. Additive Generalized Additive Models (GAMs) were also constructed to estimate MBL, simultaneously considering the variables abutment height and group. R version 4.1.1 estimated fixed and random effects, with significance set at< 0.05.
+
+The statistical analysis was conducted per‐protocol, excluding implants lost to follow‐up or those with prosthetic complications, which were not considered in the final dataset.
+
+3
+
+Results
+
+3.1
+
+Sample Description
+
+During the follow‐up period, a total of 12 implants were excluded from the final analysis. Two patients, one with two implants and the other with four implants, declined to attend the follow‐up visits at 24 months despite repeated contact attempts via telephone and email. As a result, these six implants were excluded due to the absence of clinical and radiographic data. Of the remaining six excluded implants, two experienced abutment fractures, and four presented crown fractures that caused occlusal interference and interproximal contact loss. These complications required clinical intervention and prosthetic replacement, and thus these implants were also excluded from the final evaluation. Consequently, the final sample consisted of 68 implants placed in 21 patients (9 men and 12 women), with 33 implants restored using straight abutments (48.5%) and 35 with concave abutments (51.5%) (Figure). The average age of the patients was 61.2 ± 9.9, with a range from 47 to 80 years. Regarding the presence of distal‐end abutments, 26 implants (78.8%) in the straight group and 30 implants (85.7%) in the concave group did not have a distal‐end abutment, whereas 7 implants (21.2%) in the straight group and 5 implants (14.3%) in the concave group were positioned as distal‐end abutments. No statistically significant differences between groups have been observed. A summary of all the variables of the study can be seen in Tables,,.
+
+FIGURE 1
+
+CONSORT 2010 flow diagram.
+
+TABLE 1
+
+Descriptive data by abutment type.
+
+Variables
+
+No. of straight group (%)
+
+No. of concave group (%)
+
+Sex
+
+Male
+
+12 (36.4)
+
+13 (37.1)
+
+Female
+
+21 (63.6)
+
+22 (62.9)
+
+Arch
+
+Maxilla
+
+8 (24.2)
+
+9 (25.7)
+
+Mandible
+
+25 (75.8)
+
+26 (74.3)
+
+Position
+
+Premolar
+
+9 (27.3)
+
+15 (42.9)
+
+Molar
+
+24 (72.7)
+
+20 (57.1)
+
+Mesial contact
+
+No contact
+
+3 (9.1)
+
+3 (8.6)
+
+Tooth
+
+21 (63.6)
+
+24 (68.6)
+
+Implant
+
+9 (27.3)
+
+8 (22.9)
+
+Distal contact
+
+No contact
+
+11 (33.3)
+
+13 (37.1)
+
+Tooth
+
+15 (45.5)
+
+13 (37.1)
+
+Implant
+
+7 (21.2)
+
+9 (25.7)
+
+Distal‐end‐abutment
+
+No
+
+26 (78.8)
+
+30 (85.7)
+
+Yes
+
+7 (21.2)
+
+5 (14.3)
+
+Tobacco
+
+Non‐smoker
+
+27 (81.8)
+
+28 (80)
+
+< 5 cigarettes
+
+6 (18.2)
+
+7 (20)
+
+Biotype
+
+Thin
+
+5 (15.2)
+
+5 (14.3)
+
+Thick
+
+28 (84.8)
+
+30 (85.7)
+
+Antagonist
+
+No
+
+6 (18.2)
+
+4 (11.4)
+
+Natural
+
+16 (48.5)
+
+20 (57.1)
+
+Ceramic
+
+11 (33.3)
+
+11 (31.4)
+
+Parafunctional habits
+
+No
+
+26 (78.8)
+
+28 (80)
+
+Yes
+
+7 (21.2)
+
+7 (20)
+
+Bone type
+
+I
+
+5 (15.2)
+
+5 (14.3)
+
+II, III or IV
+
+28 (84.8)
+
+30 (85.7)
+
+Implant torque
+
+< 15
+
+3 (9.1)
+
+1 (2.9)
+
+15–40
+
+14 (42.4)
+
+15 (42.9)
+
+> 40
+
+16 (48.5)
+
+19 (54.3)
+
+Abutment torque
+
+< 15
+
+3 (9.1)
+
+2 (5.7)
+
+15–40
+
+24 (72.7)
+
+26 (74.3)
+
+> 40
+
+6 (18.2)
+
+7 (20)
+
+Abutment height (mm)
+
+2
+
+28 (84.8)
+
+28 (80)
+
+3
+
+5 (15.2)
+
+7 (20)
+
+TABLE 2
+
+Bone levels.
+
+Bone position
+
+Straight group
+
+Concave group
+
+p
+
+Mean ± SD
+
+CI 95%
+
+Mean ± SD
+
+CI 95%
+
+Lower lim.
+
+Upper lim.
+
+Lower lim.
+
+Upper lim.
+
+TB (Baseline)
+
+Mesial
+
+1.21 ± 1.04
+
+0.84
+
+1.58
+
+0.88 ± 0.67
+
+0.65
+
+1.12
+
+0.130
+
+Distal
+
+0.91 ± 1.09
+
+0.52
+
+1.30
+
+0.54 ± 0.62
+
+0.32
+
+0.76
+
+0.087
+
+Average
+
+1.06 ± 1.01
+
+0.70
+
+1.42
+
+0.71 ± 0.57
+
+0.51
+
+0.91
+
+0.086
+
+T0 (8 weeks)
+
+Mesial
+
+0.66 ± 0.79
+
+0.38
+
+0.93
+
+0.68 ± 0.60
+
+0.47
+
+0.89
+
+0.896
+
+Distal
+
+0.37 ± 0.77
+
+0.09
+
+0.64
+
+0.38 ± 0.54
+
+0.19
+
+0.57
+
+0.949
+
+Average
+
+0.51 ± 0.71
+
+0.26
+
+0.76
+
+0.53 ± 0.51
+
+0.35
+
+0.71
+
+0.913
+
+T6 (6 months)
+
+Mesial
+
+0.51 ± 0.50
+
+0.32
+
+0.68
+
+0.67 ± 0.61
+
+0.45
+
+0.87
+
+0.243
+
+Distal
+
+0.36 ± 0.63
+
+0.13
+
+0.58
+
+0.37 ± 0.55
+
+0.17
+
+0.56
+
+0.938
+
+Average
+
+0.43 ± 0.46
+
+0.27
+
+0.59
+
+0.52 ± 0.52
+
+0.34
+
+0.69
+
+0.474
+
+T24 (24 months)
+
+Mesial
+
+0.98 ± 0.72
+
+0.72
+
+1.23
+
+0.94 ± 0.59
+
+0.74
+
+1.14
+
+0.808
+
+Distal
+
+0.65 ± 0.59
+
+0.44
+
+0.86
+
+0.85 ± 1.39
+
+0.37
+
+1.33
+
+0.449
+
+Average
+
+0.82 ± 0.49
+
+0.64
+
+0.99
+
+0.89 ± 0.83
+
+0.61
+
+1.18
+
+0.632
+
+Abbreviations: T0, 8 weeks (before prosthesis placement, pre‐loading); T6, 6 months post‐loading; T24, 24 months post‐loading; TB, baseline.
+
+TABLE 3
+
+MBL at different times.
+
+MBL
+
+Straight group
+
+Concave group
+
+p
+
+Mean ± SD
+
+CI 95%
+
+Mean ± SD
+
+CI 95%
+
+Lower lim.
+
+Upper lim.
+
+Lower lim.
+
+Upper lim.
+
+T0 (8 weeks)
+
+Mesial
+
+−0.55 ± 0.62
+
+−0.77
+
+−0.33
+
+−0.21 ± 0.43
+
+−0.35
+
+−0.05
+
+0.009
+
+Distal
+
+−0.54 ± 0.59
+
+−0.75
+
+−0.33
+
+−0.16 ± 0.38
+
+−0.29
+
+−0.03
+
+0.002
+
+Average
+
+−0.54 ± 0.53
+
+−0.73
+
+−0.35
+
+−0.18 ± 0.37
+
+−0.31
+
+−0.05
+
+0.002
+
+T6 (6 months)
+
+Mesial
+
+−0.15 ± 0.56
+
+−0.35
+
+−0.04
+
+−0.01 ± 0.45
+
+−0.17
+
+−0.14
+
+0.266
+
+Distal
+
+−0.01 ± 0.49
+
+−0.18
+
+0.15
+
+−0.01 ± 0.32
+
+−0.13
+
+0.09
+
+0.993
+
+Average
+
+−0.08 ± 0.47
+
+−0.25
+
+0.08
+
+−0.01 ± 0.34
+
+−0.13
+
+0.10
+
+0.487
+
+T6–T24 (6–24 months)
+
+Mesial
+
+0.47 ± 0.58
+
+0.26
+
+0.67
+
+0.27 ± 0.60
+
+0.06
+
+0.48
+
+0.175
+
+Distal
+
+0.29 ± 0.47
+
+0.12
+
+0.46
+
+0.48 ± 1.23
+
+0.06
+
+0.91
+
+0.414
+
+Average
+
+0.38 ± 0.41
+
+0.24
+
+0.53
+
+0.38 ± 0.68
+
+0.14
+
+0.61
+
+0.972
+
+T24 (24 months)
+
+Mesial
+
+0.32 ± 0.83
+
+0.03
+
+0.61
+
+0.26 ± 0.64
+
+0.04
+
+0.48
+
+0.735
+
+Distal
+
+0.28 ± 0.51
+
+0.10
+
+0.46
+
+0.47 ± 1.22
+
+0.05
+
+0.89
+
+0.414
+
+Average
+
+0.30 ± 0.58
+
+0.09
+
+0.51
+
+0.37 ± 0.72
+
+0.12
+
+0.61
+
+0.689
+
+Significant‐values are highlighted in bold.
+
+Abbreviations: T0, 8 weeks (before prosthesis placement, pre‐loading); T6, 6 months post‐loading; T6–T24, period from 6 to 24 months post‐loading; T24, 24 months post‐loading.
+
+3.2
+
+Periodontal Indices
+
+In relation to the baseline periodontal indices, the bleeding index was 16.9% ± 11.5%, the mean plaque index was 12.3% ± 5.2%, and the overall mean probing depth was 3.9 ± 2.2 mm. At 24 months, the bleeding index was 16.2% ± 11.8%, the mean plaque index was 12.2% ± 4.9%, and the overall mean probing depth was 2.2 ± 0.6 mm. No statistically significant differences were recorded.
+
+3.3
+
+Post‐Prosthodontic Stability
+
+At the 24‐month follow‐up after prosthodontic loading, the average RFA values remained stable in both groups. In the straight abutment group, the mean ISQ was 70.2 ± 8.7 (range 48–84), while in the study (concave abutment) group, the mean was 71.0 ± 9.1 (range 50–86). No statistically significant differences were detected between groups, and both showed comparable stability profiles. Similarly, no clinically relevant differences were observed with respect to the main peri‐implant clinical variables at this time point.
+
+3.4
+
+Baseline Bone Level
+
+Following the surgical protocol, the implants were placed subcrestally to ensure that there was sufficient room for the peri‐implant tissues, with an average of 0.8 ± 0.8 mm, and a range from 0.3 to 4.5 mm. In the mesial area, the implants were placed in a more subcrestal position, at 1 ± 0.9 mm, compared to their positioning in the distal area, at 0.7 ± 0.9 mm (= 0.004).
+
+3.5
+
+andat 8 Weeks (Pre‐Loading) and 6 and 24 Months (After‐Loading)
+
+Mesial bone loss at 8 weeks was −0.4 ± 0.6 mm and distal bone loss was −0.4 ± 0.5 mm, and no statistically significant differences were recorded (= 0.978). The average MBL for the pre‐loading period was −0.4 ± 0.5 mm. Statistically significant differences were recorded when taking the abutment type into account, being −0.5 ± 0.5 for the straight abutment and −0.2 ± 0.4 mm for the concave abutment (= 0.02).
+
+There were no differences between the MBL from loading to 6 months in the mesial and distal implant place. The average was −0.08 ± 0.5 for the straight abutment and −0.01 ± 0.3 for the concave. No differences were found between the two groups (= 0.487).
+
+In the period from 6 to 24 months, there was an average bone gain with a MBG of 0.3 ± 0.6 mm without differences between groups (= 0.972).
+
+The MBG from loading to 24 months was slightly higher in the distal area, with no differences with the mesial place. The average MBG was 0.3 ± 0.7 mm with no differences between the study groups (= 0.689).
+
+3.6
+
+Adverse Events
+
+Implant failure occurred in two cases (2.6%) and abutment fracture occurred in one case (0.8%). No other adverse events were recorded during the follow‐up period, such as evidence of mucositis, loosening/mobility of the crown, or chipping of the ceramic restorations.
+
+3.7
+
+Regression Analysis
+
+In the analysis of the impact of time and patient at 24 months on the MBL, using linear mixed regression models, we observed that the concave group showed significantly less MBL compared to the straight abutment group across all models (mesial, distal, and average), with effect sizes ranging from 1.948 to 2.105 and‐values between 0.006 and 0.026. This indicates that the concave abutment design may offer a protective effect on peri‐implant bone levels. Importantly, the interaction terms (concave group × time) were also statistically significant at 8 weeks and 6 months in all models, suggesting that the beneficial effect of the concave abutment appears early and is sustained over time. At 24 months, the interaction remained positive but reached borderline significance in the mesial model (= 0.072) and was fully significant in the distal and average models (< 0.01).
+
+Abutment height emerged as a significant factor associated with increased MBL (positive coefficient) in the main effects, especially in the straight group. However, the interaction between the concave group and abutment height was negative and highly significant in all models (< 0.01), indicating that in the concave group, increasing abutment height actually mitigated bone loss. This suggests that the concave abutment design may be more resilient to changes in abutment height, possibly due to improved biological width accommodation or platform‐switching effects (Table). Models were constructed taking into account the periodontal biotype without obtaining significantly different results (Figure).
+
+TABLE 4
+
+Mixed linear regression models for MBL in the mesial, distal and average positions.
+
+Fixed effects
+
+Value
+
+Standard error
+
+CI 95%
+
+p
+
+t
+
+Lower
+
+Upper
+
+Mesial
+
+Intercept straight group
+
+−0.989
+
+0.584
+
+−2.141
+
+0.162
+
+0.092
+
+−1.694
+
+8 weeks
+
+−0.551
+
+0.112
+
+−0.774
+
+−0.328
+
+< 0.001
+
+−0.488
+
+6 months
+
+−0.703
+
+0.112
+
+−0.925
+
+−0.480
+
+< 0.001
+
+−6.229
+
+24 months
+
+−0.230
+
+0.112
+
+−0.452
+
+−0.007
+
+0.042
+
+−2.041
+
+Concave group
+
+1.948
+
+0.677
+
+0.583
+
+3.313
+
+0.006
+
+2.877
+
+Abutment height
+
+1.027
+
+0.266
+
+0.490
+
+1.563
+
+< 0.001
+
+3.857
+
+Concave group: time 8 weeks
+
+0.346
+
+0.157
+
+0.035
+
+0.650
+
+0.029
+
+2.198
+
+Concave group: time 6 months
+
+0.483
+
+0.157
+
+0.172
+
+0.793
+
+0.002
+
+3.071
+
+Concave group: time 24 months
+
+0.284
+
+0.157
+
+−0.025
+
+0.595
+
+0.072
+
+1.809
+
+Concave group: Abutment height
+
+−1.058
+
+0.303
+
+−1.670
+
+−0.446
+
+0.001
+
+−3.486
+
+Distal
+
+Intercept straight group
+
+−0.827
+
+0.684
+
+−2.175
+
+0.520
+
+0.227
+
+−1.211
+
+8 weeks
+
+−0.545
+
+0.138
+
+−0.817
+
+−0.274
+
+< 0.001
+
+−3.961
+
+6 months
+
+−0.561
+
+0.138
+
+−0.832
+
+−0.289
+
+< 0.001
+
+−4.071
+
+24 months
+
+−0.264
+
+0.138
+
+−0.535
+
+0.007
+
+0.057
+
+−1.914
+
+Concave group
+
+2.105
+
+0.917
+
+0.257
+
+3.952
+
+0.026
+
+2.296
+
+Abutment height
+
+0.810
+
+0.311
+
+0.183
+
+1.437
+
+0.013
+
+2.604
+
+Concave group: time 8 weeks
+
+0.383
+
+0.192
+
+0.004
+
+0.761
+
+0.048
+
+1.993
+
+Concave group: time 6 months
+
+0.383
+
+0.192
+
+0.004
+
+0.761
+
+0.047
+
+1.998
+
+Concave group: time 24 months
+
+0.572
+
+0.192
+
+0.194
+
+0.951
+
+0.003
+
+2.981
+
+Concave group: Abutment height
+
+−1.144
+
+0.412
+
+−1.975
+
+−0.313
+
+0.008
+
+−2.774
+
+Average
+
+Intercept straight group
+
+−0.870
+
+0.569
+
+−1.994
+
+0.254
+
+0.128
+
+−1.526
+
+8 weeks
+
+−0.548
+
+0.102
+
+−0.750
+
+−0.346
+
+< 0.001
+
+−5.351
+
+6 months
+
+−0.632
+
+0.102
+
+−0.834
+
+−0.429
+
+< 0.001
+
+−6.165
+
+24 months
+
+−0.247
+
+0.102
+
+−0.449
+
+−0.045
+
+0.016
+
+−2.409
+
+Concave group
+
+2.016
+
+0.704
+
+0.596
+
+3.436
+
+0.006
+
+2.862
+
+Abutment height
+
+0.898
+
+0.260
+
+0.373
+
+1.422
+
+0.001
+
+3.449
+
+Concave group: time 8 weeks
+
+0.364
+
+0.143
+
+0.082
+
+0.646
+
+0.011
+
+2.549
+
+Concave group: time 6 months
+
+0.433
+
+0.143
+
+0.151
+
+0.715
+
+0.002
+
+3.033
+
+Concave group: time 24 months
+
+0.428
+
+0.143
+
+0.146
+
+0.710
+
+0.003
+
+2.999
+
+Concave group: Abutment height
+
+−1.094
+
+0.317
+
+−1.733
+
+−0.456
+
+0.001
+
+−3.455
+
+Significant‐values are highlighted in bold.
+
+FIGURE 2
+
+Representation of the non‐parametric effect of abutment height on the (mesial, distal and average, respectively) bone loss estimation measured at 24 months for groups Concave (red line) and Straight (blue line) and confidence intervals. This estimation was obtained by fitting a generalized additive model (GAM) thanks to the R package mgcv.
+
+4
+
+Discussion
+
+The aim of this study was to assess the impact of two distinct abutment shapes (straight vs. concave) on marginal bone remodeling. The previously randomised clinical trial (Pérez‐Sayans et al.) reported lower MBL in concave abutments compared to straight abutments after 6 months, a short follow‐up period. The present study aligns with this finding, as the narrower abutments led to lower bone loss than wider abutments after 24 months of follow‐up.
+
+Systematic reviews (Canullo et al.; Soulami et al.; Valente et al.) indicate that the emergence of the transmucosal component (whether it's an intermediate prosthetic abutment or the prosthesis itself) affects MBL. Similar to this study, narrower prosthetic emergences and abutments are associated with significantly less MBL compared to wider ones. However, the number of randomised clinical trials is limited, and most have short follow‐up periods (Canullo et al.).
+
+Four randomised clinical trials have previously investigated the influence of abutment shape on MBL (Bernabeu‐Mira et al.; Patil et al.; Pérez‐Sayans et al.; Weinländer et al.). Two studies (Patil et al.; Weinländer et al.) compared minor modifications to the apical portion of the transmucosal abutment, close to the implant platform, which might explain the lack of a significant effect on bone level changes. In contrast, this study found statistically significant differences between the two abutment designs, possibly due to the more pronounced shape differences between the groups. The studies published by Pérez‐Sayans et al. () and Bernabeu‐Mira et al. () modified the shape of the abutment along its entire length. This led to statistically significant differences, with narrower abutments causing less bone loss than wider ones.
+
+Moreover, a recent histological and immunohistochemical study (Camacho‐Alonso et al.) showed that concave abutments significantly increased peri‐implant tissue height, associated with a longer barrier epithelium, compared to straight abutments in thick tissue phenotypes. This design improved soft tissue sealing, promoting a higher percentage of transversely oriented collagen fibers. The concave shape also decreased chronic inflammatory exudation involving T and B cells, thereby reducing the risk of chronic inflammation. These peri‐implant soft tissue conditions may have an influence on MBL (Camacho‐Alonso et al.).
+
+The health and integrity of peri‐implant soft tissues are crucial factors influencing the long‐term success of dental implants. Soft tissue thickness and quality significantly affect the preservation of marginal bone levels, as thinner tissues are associated with increased risk of early MBL. In addition to thickness, the quality and vascularity of the soft tissues surrounding the implant play a role in maintaining a proper biological seal and preventing bacterial infiltration, which is linked to peri‐implant diseases. Recent studies have shown that thicker peri‐implant tissues can promote a more stable biological environment, thus reducing the likelihood of bone resorption (Suárez‐López Del Amo et al.). Furthermore, the dynamic nature of soft tissue remodeling around implants should be considered, as soft tissue augmentation techniques may be required in certain cases to optimize peri‐implant health.
+
+Preserving the peri‐implant soft tissues is mandatory for avoiding MBL. The peri‐implant soft tissue must have enough space, with the minimum possible disturbance from the time of implant placement. Thin soft tissues have been associated with increased early MBL. Linkevicius et al. () demonstrated that a minimum 2 mm of soft tissue thickness is necessary to prevent MBL. However, in cases where the mucosa is thin, subcrestal implant positioning seems to reduce early bone loss (Linkevicius et al.; Pellicer‐Chover et al.). The implants of this study were placed in subcrestal position to ensure the maximum biological space.
+
+In recent studies, subcrestal implant placement has been shown to influence marginal bone level changes and peri‐implant tissue response. One study by (Linkevicius et al.) demonstrated that implants placed subcrestally (1.5 mm below the bone crest) resulted in significantly lower early bone loss compared to implants with vertical soft tissue thickening through the tenting technique. After two years of follow‐up, the subcrestal group exhibited only 0.18 ± 0.32 mm of bone loss, whereas the epicrestal group showed 0.51 ± 0.4 mm of bone loss (= 0.001). Bone remodeling in the subcrestal group was also notably greater, with a mean of 1.17 ± 0.51 mm, suggesting that subcrestal placement may reduce crestal bone loss, even in cases with thin peri‐implant soft tissues (Linkevicius et al.).
+
+Similarly, another study by Linkevicius et al. () found that subcrestal implant placement, in combination with tissue‐level abutments, significantly reduced early bone loss compared to epicrestal implant placement. In this study, implants placed 1.5 mm subcrestally and connected to immediate tissue‐level abutments showed a statistically significant reduction in early bone loss (0.14 ± 0.27 mm) compared to the straight group (0.64 ± 0.64 mm) after one month of follow‐up (= 0.0001). However, after one year, the difference in late bone loss between the two groups was no longer statistically significant (= 0.22). These findings emphasize the importance of subcrestal positioning, especially in cases with thin mucosal tissues, as it may help mitigate early bone loss and promote better long‐term bone stability (Linkevicius et al.).
+
+These findings support the hypothesis that both abutment design and abutment height are critical factors influencing MBR. The observed interaction effects suggest that the benefit of the concave abutment is time‐dependent and may be particularly relevant during early healing and the first year of function. Furthermore, while higher abutments are often associated with more bone loss in conventional designs, this does not appear to hold for the concave group, which shows a potentially favorable biological response even with increased abutment height. Despite the statistically significant results, the clinical relevance of the observed differences in MBL level changes remains uncertain, as the magnitude of these changes was relatively small (less than 0.5 mm over 24 months) and may not have a meaningful long‐term impact on implant functionality or durability.
+
+However, these narrower or concave abutment designs may offer particular advantages in esthetic zones, where preservation of peri‐implant bone and soft tissue contours is critical to achieving optimal esthetic outcomes. Additionally, the influence of factors such as soft tissue response, tissue phenotype, and peri‐implant sealing characteristics should also be considered, as these elements can alter the course of bone loss level or remodeling. To gain a more accurate understanding, further studies with longer follow‐up periods and a more detailed evaluation of these factors together are needed. Therefore, while the findings support the biological benefits of these abutment shapes, clinicians should interpret the results cautiously and consider individual patient factors.
+
+As limitations, it should be noted that the 1 mm subcrestal position may be challenging to determine in certain cases, and the initial radiographic evaluation may also present difficulties. To mitigate this, the surgeons (MPS and JMSM) underwent internal calibration, ensuring precise subcrestal placement, and the radiographs and marginal bone level (MBL) measurements were evaluated by FSN, who was also calibrated using a sample of 20 implants. Furthermore, FSN has previously conducted similar measurements in other studies, enhancing the reliability of the evaluations. Hence, the results should only be applied to subcrestal bone‐level implants with a conical internal connection, platform‐switching, and this specific abutment design. Additional studies are needed to explore other abutment designs.
+
+One important limitation of this study is that blinding could not be maintained for the radiographic evaluator, as the abutment shapes were clearly distinguishable in the intraoral radiographs. Although patients and the statistician performing the data analysis were blinded to group allocation, the lack of blinding during radiographic assessment could introduce a potential risk of detection bias and should be considered when interpreting the results. Another limitation of the present study is that an intention‐to‐treat (ITT) analysis was not performed. Instead, a per‐protocol approach was applied, whereby implants lost to follow‐up or those affected by prosthetic complications were excluded from the final dataset. Although this strategy ensures that the analysis is based only on cases that completed the full evaluation protocol, it may introduce bias and limit the generalizability of the findings.
+
+4.1
+
+Conclusion
+
+Concave abutments appeared to offer a potential advantage in reducing early bone loss compared to straight abutments, suggesting better preservation of bone during the critical pre‐loading period. Over time, concave abutments also seemed to promote positive bone growth, indicating potential benefits for mid‐term peri‐implant bone stability. Their design appears to enhance adaptation to soft tissue, which may contribute to better marginal bone preservation. While an increase in the height of straight abutments was associated with positive bone growth, concave abutments showed a more complex effect. However, given the exploratory nature of these findings and the study's limitations, further long‐term research is needed to fully understand the clinical implications and confirm these hypotheses.
+
+Author Contributions
+
+data curation, formal analysis, investigation, methodology, writing – original draft, writing – review and editing.conceptualization, data curation, investigation, writing – original draft, writing – review and editing.data curation, investigation, writing – original draft, writing – review and editing, conceptualization.methodology, software, investigation, writing – original draft, writing – review and editing.formal analysis, methodology, writing – original draft, writing – review and editing.project administration, conceptualization, validation, supervision.conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, software, supervision, validation, visualization, writing – original draft, writing – review and editing, resources.
+
+Funding
+
+The study was supported by Nueva Galimplant and the Universidade de Santiago de Compostela (Ref. USC‐2019‐178). The funding source played no role in the design of this study, the data collection and analyses, the decision to publish, and the preparation of the manuscript. M. Conde‐Amboage acknowledges the financial support received through grant PID2020‐116587GB‐I00 funded by MCIN/AEIand the European Union.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
