@@ -25,6 +25,10 @@ OD appears to improve primary implant stability, but the high RoB in available R
 
 OD가 1차 안정성을 향상시키는 것으로 보이나, RCT의 높은 비뚤림위험으로 인해 근거 수준이 제한적이므로 고품질 무작위 연구가 추가로 필요하다.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/osseodensification-clinical-applications]]에서 확인되는 현재 역할을 백필.] [[overviews/osseodensification-clinical-applications]]의 저밀도골(D3-D4) 결정표에서 OD 지지 근거 축 — bergamo-2021·mercier-2022·moghaddas-2025 등과 함께 지지 진영을 이루고, mohammadi-2025·shilpi-2025의 SR+MA 반례 2편과 대비되는 "지지 vs 반례" 구도의 한 축을 담당.
+
 ## 1. Document Information
 - Journal: Cureus 2023 (Published October 11, 2023)
 - DOI: 10.7759/cureus.49024 [미검증 — Cureus DOI format; exact number from filename]
