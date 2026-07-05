@@ -8,6 +8,22 @@ method_lens: ["뭘 했나", "왜 골랐나", "제대로 했나", "어떻게 읽�
 tags: [biostatistics, clustering, multilevel-logistic, odds-ratio, confidence-interval, survival, dichotomization, multiplicity, implant-survival, case-based-stats]
 ---
 
+## Three-line Summary
+
+Comparative statistical appraisal of two implant survival cohorts (andersson 2019: 745 implants/334 patients, 5-year actuarial; roccuzzo 2022: 172 implants/84 patients, 20-year prospective).
+
+Andersson used univariate uncontrolled analysis with clustering bias and dichotomized ISQ; roccuzzo applied multilevel logistic regression with covariate adjustment. Both studies limited by sparse events (12–20 cases), resulting in OR confidence intervals spanning two orders of magnitude (2.3–143).
+
+Clinically, both show directionality (ISQ loading threshold, SPC compliance predicts survival), but effect estimates unreliable without adequate statistical power; demonstrates that rigorous methods (multilevel adjustment) cannot overcome fundamental sample-size constraints on precision.
+
+## 세줄요약
+
+두 임플란트 생존 코호트의 통계 방법론 비교 분석 (andersson 2019: 745/334명 5년 정위도분석 vs roccuzzo 2022: 172/84명 20년 전향적 코호트).
+
+Andersson은 단변량·비보정·군집무시·ISQ 이분화 사용; roccuzzo는 다수준 로지스틱으로 교란 보정. 양 연구 모두 희소 사건 문제(사건 12~20건)로 OR CI가 두 자릿수 폭(2.3–143).
+
+임상적으로 양쪽 모두 방향성(ISQ 임계값, SPC 순응성)은 보여주나, 통계적 정밀도는 표본 부족으로 신뢰 불가; 방법론적 엄격성도 기본 사건 수 부족을 극복 불가임을 시사.
+
 ## 개요
 임플란트 생존 코호트를 통계 교보재로 읽는 재사용 렌즈(4단)와, 같은 설계 결함을 "못한 예 vs 잘한 예"로 대조한 케이스 노트. andersson 2019(745 임플란트/334명, 5년)는 군집 무시·비보정 OR·연속변수 이분화의 전형이고, roccuzzo 2022(172 임플란트/84명, 20년)는 동일한 군집 문제를 다수준 로지스틱으로 보정한 대조군이다. [claude해석]
 
