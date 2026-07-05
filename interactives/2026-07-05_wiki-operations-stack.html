@@ -1,0 +1,201 @@
+<!--
+---
+title: "오늘은 어제 위에 쌓인다 — llm-wiki 5-레이어 운영 스택 (2026-07-05, 48일·5,520 커밋)"
+type: interactive
+date: 2026-07-05
+status: done
+category: meta
+agenda: agenda/2026-07-05_wiki-operations-stack-chart.md
+source_wiki:
+  - index.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>llm-wiki — 오늘은 어제 위에 쌓인다</title>
+<style>
+  :root{
+    --bg:#f5ecd9; --ink:#1a1a1a; --muted:#6b6b6b; --grid:#c9bfa8;
+    --card:#fbf4e2;
+    --c1:#d97d52;  /* papers·sources   — terracotta */
+    --c2:#5f9b6b;  /* 구조·overviews   — green */
+    --c3:#c89e3a;  /* 운영규칙(CLAUDE) — mustard */
+    --c4:#8a5fa3;  /* 일일운영루프(scripts) — purple */
+    --c5:#3d8b8d;  /* 작업스펙(agenda+logs) — teal */
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;padding:28px;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Helvetica Neue",Arial,sans-serif;}
+  .wrap{max-width:1180px;margin:0 auto;}
+  h1{font-size:30px;font-weight:700;margin:0 0 14px;letter-spacing:-.01em;}
+  h1 em{color:var(--c2);font-style:italic;font-weight:700;}
+  .lede{color:#3a3a3a;font-size:14.5px;line-height:1.75;max-width:920px;margin-bottom:22px;}
+  .card{background:var(--card);border-radius:18px;padding:26px 34px 22px;
+    box-shadow:0 1px 0 rgba(0,0,0,.04);}
+  .subtitle{color:var(--muted);font-size:12px;margin-bottom:14px;font-feature-settings:"tnum";}
+  svg{display:block;width:100%;height:auto;}
+  .axis text{font-size:11px;fill:var(--muted);font-feature-settings:"tnum";}
+  .grid line{stroke:var(--grid);stroke-dasharray:2 3;opacity:.6;}
+  .ms-line{stroke:var(--ink);stroke-dasharray:2 3;stroke-width:1;opacity:.5;}
+  .ms-dot{fill:var(--ink);}
+  .ms-label{font-size:10px;fill:var(--ink);font-feature-settings:"tnum";}
+  .dot{cursor:pointer;}
+  .legend{display:flex;gap:22px;flex-wrap:wrap;padding-top:14px;border-top:1px solid var(--grid);margin-top:10px;font-size:12.5px;}
+  .legend .item{display:inline-flex;align-items:center;gap:7px;}
+  .legend .sw{width:13px;height:13px;border-radius:3px;display:inline-block;}
+  .legend .name{font-weight:600;}
+  #tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--bg);padding:8px 11px;border-radius:8px;
+    font-size:12px;line-height:1.5;opacity:0;transition:opacity .1s;font-feature-settings:"tnum";z-index:9;max-width:280px;}
+  #tip b{color:#ffd9a8;}
+  .note{font-size:11.5px;color:var(--muted);margin-top:12px;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>오늘은 <em>어제</em> 위에 쌓인다</h1>
+  <div class="lede">
+    아래 차트는 llm-wiki 저장소가 만들어진 첫날(2026-05-18)부터 오늘(2026-07-05)까지 48일·5,520 커밋 동안
+    5개의 운영 레이어가 어떻게 쌓였는지 보여준다. 첫 열흘은 논문을 적재하는 3-tier 파이프라인 하나뿐이었지만,
+    5/31 하루에 daily-audit 등 8개 자가감사 스크립트가 한꺼번에 태어나고, 신규 ingest마다 "왜 넣었는지"를
+    묻는 품질 기준(Why Ingested, 5/27~)이 붙기 시작했다. 이때부터 이 저장소는 논문 저장 폴더를 넘어
+    매일 스스로를 점검하는 <em style="font-style:normal;font-weight:600;">운영 시스템</em>에 가까워졌다.
+  </div>
+
+  <div class="card">
+    <div class="subtitle" id="sub">2026-05-18 ~ 2026-07-05 · sources 2,385 · overviews 194 · scripts 37 · CLAUDE.md 개정 커밋 37 · agenda+logs 62</div>
+    <svg id="chart" viewBox="0 0 1180 560" preserveAspectRatio="xMidYMid meet"></svg>
+    <div class="legend" id="legend"></div>
+    <div class="note" id="note"></div>
+  </div>
+</div>
+<div id="tip"></div>
+
+<script>
+/* ===== DATA (2026-07-05 실측, git log --diff-filter=A / CLAUDE.md는 수정 커밋 누적) ===== */
+const SOURCES_PTS   = {"2026-05-18":350,"2026-05-19":409,"2026-05-20":489,"2026-05-21":535,"2026-05-22":601,"2026-05-24":694,"2026-05-31":897,"2026-06-02":909,"2026-06-03":926,"2026-06-05":1045,"2026-06-06":1092,"2026-06-07":1155,"2026-06-08":1212,"2026-06-09":1214,"2026-06-10":1249,"2026-06-11":1251,"2026-06-12":1340,"2026-06-14":1397,"2026-06-15":1421,"2026-06-16":1483,"2026-06-17":1533,"2026-06-18":1572,"2026-06-19":1644,"2026-06-20":1753,"2026-06-21":1786,"2026-06-22":1813,"2026-06-23":1834,"2026-06-24":1964,"2026-06-25":2014,"2026-06-26":2097,"2026-06-27":2194,"2026-06-28":2225,"2026-06-29":2242,"2026-06-30":2252,"2026-07-01":2291,"2026-07-02":2307,"2026-07-03":2370,"2026-07-04":2372,"2026-07-05":2385};
+const OVERVIEWS_PTS = {"2026-05-18":11,"2026-05-20":12,"2026-05-21":14,"2026-05-22":18,"2026-05-23":19,"2026-05-24":20,"2026-05-31":58,"2026-06-01":60,"2026-06-02":62,"2026-06-03":63,"2026-06-05":71,"2026-06-06":77,"2026-06-07":83,"2026-06-08":88,"2026-06-10":93,"2026-06-12":97,"2026-06-14":100,"2026-06-15":102,"2026-06-16":110,"2026-06-17":113,"2026-06-18":115,"2026-06-19":120,"2026-06-20":127,"2026-06-21":134,"2026-06-22":140,"2026-06-23":141,"2026-06-24":143,"2026-06-25":146,"2026-06-26":151,"2026-06-27":162,"2026-06-28":167,"2026-06-29":169,"2026-06-30":170,"2026-07-01":180,"2026-07-02":182,"2026-07-03":194};
+const CLAUDE_PTS    = {"2026-05-18":1,"2026-05-23":2,"2026-05-31":4,"2026-06-03":5,"2026-06-05":6,"2026-06-06":8,"2026-06-08":10,"2026-06-12":13,"2026-06-15":14,"2026-06-16":17,"2026-06-17":19,"2026-06-18":20,"2026-06-19":21,"2026-06-20":28,"2026-06-22":29,"2026-06-24":30,"2026-06-25":31,"2026-06-26":32,"2026-06-27":33,"2026-07-01":35,"2026-07-03":36,"2026-07-04":37};
+const SCRIPTS_PTS   = {"2026-05-18":3,"2026-05-19":4,"2026-05-23":5,"2026-05-24":8,"2026-05-31":20,"2026-06-08":21,"2026-06-12":22,"2026-06-16":23,"2026-06-19":25,"2026-06-23":26,"2026-06-26":27,"2026-06-27":30,"2026-07-01":35,"2026-07-02":37};
+const SPEC_PTS       = {"2026-05-23":1,"2026-05-31":11,"2026-06-01":12,"2026-06-02":15,"2026-06-03":16,"2026-06-05":18,"2026-06-07":20,"2026-06-08":21,"2026-06-09":24,"2026-06-12":25,"2026-06-13":26,"2026-06-14":28,"2026-06-18":29,"2026-06-19":30,"2026-06-20":31,"2026-06-21":34,"2026-06-22":36,"2026-06-24":37,"2026-06-25":41,"2026-06-26":43,"2026-06-28":44,"2026-06-30":46,"2026-07-01":53,"2026-07-02":55,"2026-07-03":61,"2026-07-05":62};
+
+const MILESTONES = [
+  {date:"2026-05-18",label:"repo init"},
+  {date:"2026-05-27",label:"Why Ingested 의무화"},
+  {date:"2026-05-31",label:"8 audits 동시 출생"},
+  {date:"2026-06-12",label:"ingest-one 병렬화"},
+  {date:"2026-07-05",label:"현재",last:true}
+];
+
+const LAYERS = [
+  {key:"papers",   name:"Papers · sources",        pts:SOURCES_PTS,   color:"var(--c1)", unit:"편"},
+  {key:"overviews",name:"구조 · overviews",         pts:OVERVIEWS_PTS, color:"var(--c2)", unit:"편"},
+  {key:"rules",    name:"운영 규칙 (CLAUDE.md 개정)",pts:CLAUDE_PTS,    color:"var(--c3)", unit:"커밋"},
+  {key:"scripts",  name:"일일 운영 루프 (scripts)",  pts:SCRIPTS_PTS,   color:"var(--c4)", unit:"개"},
+  {key:"spec",     name:"작업 스펙 (agenda+logs)",   pts:SPEC_PTS,      color:"var(--c5)", unit:"건"}
+];
+
+/* ===== SVG helpers ===== */
+const NS="http://www.w3.org/2000/svg";
+const svg=document.getElementById("chart");
+const tip=document.getElementById("tip");
+const legend=document.getElementById("legend");
+const noteEl=document.getElementById("note");
+const W=1180,H=560;
+function el(tag,a={},p=svg){const n=document.createElementNS(NS,tag);for(const k in a)n.setAttribute(k,a[k]);p.appendChild(n);return n;}
+function showTip(e,html){tip.innerHTML=html;tip.style.opacity=1;tip.style.left=(e.clientX+14)+"px";tip.style.top=(e.clientY+14)+"px";}
+function hideTip(){tip.style.opacity=0;}
+function lgItem(color,name,val){const s=document.createElement("span");s.className="item";s.innerHTML=`<span class="sw" style="background:${color}"></span><span class="name">${name}</span> <span style="color:var(--muted)">${val??""}</span>`;legend.appendChild(s);}
+
+function dateRange(a,b){const out=[],d=new Date(a);const end=new Date(b);while(d<=end){out.push(d.toISOString().slice(0,10));d.setDate(d.getDate()+1);}return out;}
+function carry(pts,dates){const out=[];let last=0;for(const d of dates){if(pts[d]!=null)last=pts[d];out.push(last);}return out;}
+
+const DATES = dateRange("2026-05-18","2026-07-05");
+const N = DATES.length;
+
+/* 레이어별 raw 누적 + 자기 최종값 대비 정규화(0~100) — 절대 스케일이 65배 차이(2,385 vs 37)라
+   그대로 쌓으면 4개 레이어가 안 보이므로, "언제 성숙했는가"를 보여주는 정규화 스택을 쓴다.
+   절대 누적수치는 hover 툴팁에 그대로 노출한다. */
+LAYERS.forEach(L=>{
+  L.raw = carry(L.pts, DATES);
+  const max = L.raw[L.raw.length-1] || 1;
+  L.norm = L.raw.map(v=>v/max*100);
+});
+
+/* ===== draw ===== */
+const M={top:70,right:40,bottom:46,left:46}, iW=W-M.left-M.right, iH=H-M.top-M.bottom;
+const yMax = 500; // 5 layers × 100%
+const xs = i => M.left + (i/(N-1))*iW;
+const ys = v => M.top + iH - (v/yMax)*iH;
+
+// grid
+for(let t=0;t<=4;t++){
+  const yv=yMax/4*t, yy=ys(yv);
+  el("g",{class:"grid"}); el("line",{x1:M.left,x2:M.left+iW,y1:yy,y2:yy,class:"grid"});
+}
+
+// stacked areas (bottom → top: papers, overviews, rules, scripts, spec)
+let base = new Array(N).fill(0);
+LAYERS.forEach(L=>{
+  const top = base.map((b,i)=>b+L.norm[i]);
+  let d = "";
+  for(let i=0;i<N;i++) d += (i? " L":"M") + ` ${xs(i)} ${ys(top[i])}`;
+  for(let i=N-1;i>=0;i--) d += ` L ${xs(i)} ${ys(base[i])}`;
+  d += " Z";
+  el("path",{d, fill:L.color, "fill-opacity":.82, stroke:L.color, "stroke-width":1});
+  L.top = top;
+  base = top;
+});
+
+// baseline
+el("line",{x1:M.left,x2:M.left+iW,y1:ys(0),y2:ys(0),stroke:"var(--ink)","stroke-width":1});
+
+// x ticks
+["2026-05-18","2026-05-27","2026-06-05","2026-06-14","2026-06-23","2026-07-05"].forEach(dt=>{
+  const i=DATES.indexOf(dt); if(i<0) return;
+  const t=el("text",{x:xs(i),y:ys(0)+22,"text-anchor":"middle"});
+  t.setAttribute("font-size","11"); t.setAttribute("fill", dt==="2026-07-05"?"var(--ink)":"var(--muted)");
+  t.setAttribute("font-weight", dt==="2026-07-05"?"700":"400");
+  t.textContent=dt.slice(5);
+});
+
+// milestones
+MILESTONES.forEach(ms=>{
+  const i=DATES.indexOf(ms.date); if(i<0) return;
+  const x=xs(i);
+  el("line",{x1:x,x2:x,y1:34,y2:ys(0),class:"ms-line"});
+  el("circle",{cx:x,cy:34,r:3,class:"ms-dot"});
+  const rightEdge = x>W-170;
+  const t=el("text",{x:x,y:16,"text-anchor":rightEdge?"end":"middle",class:"ms-label"});
+  t.setAttribute("font-weight",ms.last?"700":"400"); t.textContent=ms.date.slice(5);
+  const t2=el("text",{x:x,y:50,"text-anchor":rightEdge?"end":"middle",class:"ms-label"});
+  t2.setAttribute("fill","var(--muted)"); t2.textContent=ms.label;
+});
+
+// hover targets (invisible column per day, tooltip shows every layer's raw value that day)
+for(let i=0;i<N;i++){
+  const hd=el("rect",{x:xs(i)-(iW/N)/2, y:M.top, width:Math.max(iW/N,2), height:iH, fill:"transparent", class:"dot"});
+  hd.addEventListener("mousemove",e=>{
+    let html = `<b>${DATES[i]}</b>`;
+    LAYERS.forEach(L=>{ html += `<br>${L.name}: ${Math.round(L.raw[i]).toLocaleString()}${L.unit}`; });
+    showTip(e, html);
+  });
+  hd.addEventListener("mouseleave",hideTip);
+}
+
+LAYERS.forEach(L=>{
+  const finalVal = L.raw[L.raw.length-1];
+  lgItem(L.color, L.name, `${finalVal.toLocaleString()}${L.unit}`);
+});
+
+noteEl.innerHTML = "Y축은 절대 수치가 아니라 <b>레이어별 자기 최종값 대비 진행률(0~100%)을 5개 쌓은 것</b> — "
+  + "papers(2,385)와 CLAUDE.md 개정(37)은 65배 스케일 차이가 나서 그대로 쌓으면 위 4개 레이어가 안 보이기 때문. "
+  + "그래서 이 차트는 '무엇이 얼마나 많은가'가 아니라 <b>'무엇이 언제 성숙했는가'</b>를 보여준다 — "
+  + "실제 누적 수치는 밴드에 마우스를 올리면 그날짜 5개 레이어 값이 모두 뜬다. "
+  + "5/31 하루에 daily-audit 외 8개 감사 스크립트가 동시에 태어나며 운영 규칙·운영 루프 두 레이어가 함께 도약한 지점이 이 저장소가 "
+  + "'논문 저장 폴더'에서 '매일 도는 운영 시스템'으로 전환된 변곡점이다.";
+</script>
+</body>
+</html>
