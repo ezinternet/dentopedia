@@ -5,8 +5,10 @@ year: 2018
 doi: 10.1080/00016357.2018.1453084
 pmid: "29611763"
 category: [immediate-implant]
-source_collection: pubmed-text
-full_text: false
+source_collection: external
+full_text: true
+pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-comparison-immediate-implant-placement-infected.pdf
+pdf_filename: lee-2018-comparison-immediate-implant-placement-infected.pdf
 text_path: /Users/oracleneo/llm-wiki/papers/lee-2018-comparison-immediate-implant-placement-infected.txt
 text_filename: lee-2018-comparison-immediate-implant-placement-infected.txt
 ---
@@ -72,7 +74,7 @@ Only 3 CCTs included in meta-analysis — evidence base very limited.
 - Zero RCTs found (all CCTs) — lowest evidence quality for quantitative analysis
 - Only 3 of 5 studies included in meta-analysis
 - Small pooled sample
-- Abstract-only access (full text not retrieved)
+- Full text now available via PDF (lee-2018-comparison-immediate-implant-placement-infected.pdf)
 
 ## 6. Related Work
 
