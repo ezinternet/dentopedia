@@ -25,6 +25,10 @@ Socket shield provides superior buccal dimensional preservation over xenograft a
 
 소켓실드가 12개월 협측 치수 보존에서 이종골보다 우수하나, 소규모(n=40)·단일 술자·단기 추적으로 이 시점 이후의 임상 일반화에 제한이 있음.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/immediate-implant-decision-ladder]]에서 확인되는 현재 역할을 백필.] [[overviews/immediate-implant-decision-ladder]] 소켓실드 근거 사다리에서 gharpure-2022(sr+ma)·ogawa-2022(sr) 다음 단계인 RCT-등급 근거 — 협측 골 흡수 −0.28 vs −0.94mm로 SST 우위를 개별 RCT 수준에서 확인.
+
 ## 1. Document Information
 - **Title**: Comparison of soft and hard peri-implant tissue dimensional changes around single immediate implants in the esthetic zone with socket shield technique versus xenograft: A randomized controlled clinical trial
 - **Authors**: Mohamed Atef, et al.
