@@ -25,6 +25,10 @@ The 1–7 year observation window is short for longevity comparisons and include
 
 1–7년 관찰 기간은 장기 생존율 비교에 짧고 포함 연구 이질적; 간접 레진 복합체는 금·세라믹 대안이 가능한 경우 신중히 적용.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/lithium-disilicate-inlay-onlay-evidence]]에서 확인되는 현재 역할을 백필.] [[overviews/lithium-disilicate-inlay-onlay-evidence]]에서 4재료(금·LiDiSi·루사이트·간접 RBC)를 직접 비교한 유일한 SR+MA — lempel-2023·abdulrahman-2021(retrospective)과 fan-2021(sr+ma) 사이에서 "간접 RBC 실패율↑" 근거를 제공해 "후방부 광범위 우식엔 LiDiSi 1순위"라는 임상 함의의 핵심 축.
+
 ## 1. Document Information
 - **Title**: Clinical longevity of intracoronal restorations made of gold, lithium disilicate, leucite, and indirect resin composite: a systematic review and meta-analysis
 - **Authors**: Bresser RA, Hofsteenge JW, Wieringa TH, Braun PG, Cune MS, Özcan M, Gresnigt MMM
