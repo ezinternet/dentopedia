@@ -18,7 +18,6 @@ This narrative review unifies the acidic-microenvironment mechanism that drives 
 
 ## Three-line Summary
 
-
 Narrative review (Sichuan University / HKU): an acidic microenvironment is the unifying pathophysiologic driver across dental caries (selecting acidogenic/aciduric cariogenic bacteria and accelerating demineralization), pulpitis (low pH impairs pulpal function and raises bacterial virulence), and apical periodontitis (acid disrupts osteoblast/osteoclast/enzymatic processes to increase bone resorption), and it also compromises endodontic treatment effectiveness — yet acid-mitigation strategies remain far better developed for caries than for pulpal/periapical disease.
 
 (incomplete)
@@ -26,7 +25,6 @@ Narrative review (Sichuan University / HKU): an acidic microenvironment is the u
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰(쓰촨대·홍콩대): 산성 미세환경(acidic microenvironment)이 우식→치수염→근단치주염으로 이어지는 질환 연속체의 공통 병태생리 동인으로, 우식에서는 산생성·내산성(acidogenic/aciduric) 우식원성 세균을 선택·증식시키고 탈회를 가속하며, 치수염에서는 pH 저하가 치수 기능을 손상시키고 세균 독성을 높이고, 근단치주염에서는 산이 골모세포·파골세포·효소 과정을 교란해 골흡수를 늘리며, 근관치료 효과까지 저하시킨다 — 그런데 산 완화 전략은 우식에 비해 치수·근단 질환에서는 훨씬 덜 연구되어 있다.
 

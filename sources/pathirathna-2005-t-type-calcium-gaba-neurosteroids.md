@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vivo (rat thermal nociception) + in vitro electrophysiology study showing that locally injected 5α-reduced neurosteroids produce potent, dose-dependent, enantioselective peripheral analgesia primarily via blockade of T-type Ca²⁺ channels, with GABA-A potentiation enhancing (but not independently driving) the effect.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vivo (rat thermal nociception) + in vitro electrophysiology study showing tha
 (incomplete)
 
 ## 세줄요약
-
 
 동물(rat) in vivo 열통각 + in vitro 전기생리 실험 — 국소 주사한 5α-환원 신경스테로이드가 주로 T-type Ca²⁺ 통로 차단으로 강력한 말초 진통을 내고, GABA-A 강화는 단독으로는 진통을 못 내지만 T-type 차단 진통을 증폭한다.
 

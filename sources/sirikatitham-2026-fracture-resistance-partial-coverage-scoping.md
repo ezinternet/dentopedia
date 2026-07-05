@@ -19,7 +19,6 @@ Extends [[wiki/inlay/prott-2025-partial-coverage-restorations-posterior-scoping]
 
 ## Three-line Summary
 
-
 Scoping review (34 in-vitro studies;
 
 9 premolar, 25 molar) of fracture resistance of non-endodontically-treated posterior teeth restored with ceramic partial coverage restorations (PCRs);
@@ -27,7 +26,6 @@ Scoping review (34 in-vitro studies;
 MOD overlays lowered molar fracture loads vs anatomic overlays, increasing occlusal thickness generally helped, proximal boxes worsened fracture severity, and all designs still exceeded maximum bite forces.
 
 ## 세줄요약
-
 
 비-근관치료 구치를 세라믹 부분피개수복물(PCR)로 수복했을 때의 파절저항을 다룬 스코핑 리뷰(34편: 소구치 9·대구치 25) — MOD 박스는 대구치 anatomic overlay 대비 파절하중을 낮췄고, 교합 두께 증가는 대체로 유리, proximal box는 파절 양상을 악화시켰으나 모든 디자인의 파절하중은 최대 교합력을 상회했다.
 

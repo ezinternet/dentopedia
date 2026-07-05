@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 RCT secondary analysis (n=75, 3 groups 1:1:1;
 
 55 datasets analyzed at 1y) of early implant placement (8-wk delayed) in the anterior maxilla: ARP (DBBM-C + collagen matrix or palatal graft) cut the need for additional GBR at implant placement from 68.4% (no ARP) to ~30%, but simultaneous GBR at placement — not ARP alone — was the dominant driver of restored buccal convexity at 1 year (72.7% with GBR vs 36.0% ARP-only).
@@ -23,7 +22,6 @@ RCT secondary analysis (n=75, 3 groups 1:1:1;
 (incomplete)
 
 ## 세줄요약
-
 
 전치부 상악 단일치 조기식립(발치 8주 후) RCT 2차분석(n=75, 3군 1:1:1, 1년 55건 분석): 치조제보존(ARP;
 

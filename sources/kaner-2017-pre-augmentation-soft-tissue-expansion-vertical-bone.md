@@ -15,7 +15,6 @@ Part of a focused collection on vertical ridge augmentation, contributing the so
 
 ## Three-line Summary
 
-
 Randomized split-mouth animal study (10 beagle dogs, supra-alveolar critical-size mandibular defects): pre-augmentation soft-tissue expansion (STE) before alloplastic-scaffold (BCP/PEG) vertical GBR eliminated flap dehiscence (0/STE vs 8 control, p=0.002), preserved flap microcirculation, and significantly increased new bone (median NB 3.81 vs 1.06 mm², p=0.023).
 
 (incomplete)
@@ -23,7 +22,6 @@ Randomized split-mouth animal study (10 beagle dogs, supra-alveolar critical-siz
 (incomplete)
 
 ## 세줄요약
-
 
 무작위 분할구 동물 연구 (비글견 10마리, 하악 임계크기 상치조 결손): 동종이형 스캐폴드(BCP/PEG) 수직 골유도재생 전 연조직 확장(STE)을 시행하면 피판 열개가 사라지고(STE 0건 vs 대조군 8건, p=0.002), 피판 미세순환이 보존되며, 신생골이 유의하게 증가(신생골 중앙값 3.81 vs 1.06 mm², p=0.023).
 

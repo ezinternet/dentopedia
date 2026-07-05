@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-J Indian Prosthodont Soc 2024: umbrella review (4 SRs); polished monolithic zirconia ≤ natural enamel wear over time; polished < glazed; polished Zr < metal-ceramics, feldspathic, lithium disilicate; meta-analysis not possible due to heterogeneity.
 
+J Indian Prosthodont Soc 2024: umbrella review (4 SRs)
+
+polished monolithic zirconia ≤ natural enamel wear over time
+
+polished < glazed; polished Zr < metal-ceramics, feldspathic, lithium disilicate; meta-analysis not possible due to heterogeneity.
+
+## 세줄요약
+
+J Indian Prosthodont Soc 2024: umbrella review (4 SRs)
+
+polished monolithic zirconia ≤ natural enamel wear over time
+
+polished < glazed; polished Zr < metal-ceramics, feldspathic, lithium disilicate; 메타분석 (MA) not possible due to heterogeneity.
 
 ## 1. Key Results
 - 4 systematic reviews included (2013-2023); qualitative analysis

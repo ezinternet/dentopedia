@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Finite element analysis of the mandible showing crestal cortical bone around the implant neck bears the highest stress, and tapered implant bodies produce higher peak von Mises stress than cylindrical bodies across all bone types.
 
 (incomplete)
@@ -23,7 +22,6 @@ Finite element analysis of the mandible showing crestal cortical bone around the
 (incomplete)
 
 ## 세줄요약
-
 
 하악 FEA — 임플란트 경부 주위 crestal cortical bone에 최대 응력 집중, tapered body가 cylinder body보다 모든 골종에서 peak von Mises 응력이 높음.
 

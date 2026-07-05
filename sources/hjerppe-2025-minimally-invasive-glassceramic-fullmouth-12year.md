@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-전악 최소침습 유리세라믹 수복 전향적코호트(n=20, 439개 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자); 탈락 및 파절 3%; 환자만족도 심미 9.5/기능 9.3
+
+전악 최소침습 유리세라믹 수복 전향적코호트(n=20, 439개 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자)
+
+탈락 및 파절 3%
+
+환자만족도 심미 9.5/기능 9.3
+
+## 세줄요약
+
+전악 최소침습 유리세라믹 수복 전향적코호트(n=20, 439개 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자)
+
+탈락 및 파절 3%
+
+환자만족도 심미 9.5/기능 9.3
 
 ## 1. Document Information
 - **Title**: Minimally invasive glass-ceramic restorations: Clinical and patient-reported outcomes in full-mouth rehabilitations

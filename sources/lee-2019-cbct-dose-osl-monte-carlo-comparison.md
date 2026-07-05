@@ -15,7 +15,6 @@ radiology 카테고리 CBCT dosimetry 방법론 비교(측정 vs 시뮬레이션
 
 ## Three-line Summary
 
-
 OSLD vs Monte Carlo CBCT dosimetry across 2 units/4 modes;
 
 effective-dose discrepancy 4.0–14.3%, narrowing as FOV shrinks.
@@ -23,7 +22,6 @@ effective-dose discrepancy 4.0–14.3%, narrowing as FOV shrinks.
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT 선량 OSLD vs 몬테카를로(2기종·4모드).
 

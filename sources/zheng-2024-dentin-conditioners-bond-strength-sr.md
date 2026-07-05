@@ -18,7 +18,6 @@ Dentin conditioners modulate hybrid-layer formation and resin-dentin bond streng
 
 ## Three-line Summary
 
-
 SR+MA (23 studies qualitative, 15 quantitative, random-effects SMD): acid-based dentin conditioners significantly improved long-term resin-dentin bond durability under both dry and wet bonding, while selective extrafibrillar demineralization conditioners boosted bond strength under dry bonding (P<.001).
 
 (incomplete)
@@ -26,7 +25,6 @@ SR+MA (23 studies qualitative, 15 quantitative, random-effects SMD): acid-based 
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (정성 23편, 정량 15편, random-effects SMD): 산 기반 (acid-based) 상아질 조정제 (dentin conditioner)는 건·습 본딩 모두에서 장기 레진-상아질 결합 내구성을 유의하게 향상시켰고, 선택적 섬유외 탈회 (selective extrafibrillar demineralization) 조정제는 건식 본딩에서 결합강도를 높였다 (P<.001).
 

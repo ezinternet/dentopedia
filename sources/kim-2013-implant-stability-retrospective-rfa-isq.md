@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective RFA study (n=90 implants, 72 patients) showing wider diameter (5 mm > 4 mm) and mandibular placement yield significantly higher ISQ, while implant length (10–13 mm) does not significantly affect stability.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective RFA study (n=90 implants, 72 patients) showing wider diameter (5 m
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 RFA 연구(90개 임플란트, 72명): 직경 5 mm가 4 mm보다 ISQ 유의하게 높고, 하악이 상악보다 ISQ 유의하게 높으나, 길이(10–13 mm)는 ISQ에 유의한 영향 없음.
 

@@ -18,7 +18,6 @@ category: [pdrn]
 
 ## Three-line Summary
 
-
 In vitro study (MC3T3-E1 osteoblasts + primary BMM osteoclasts) showing PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis, supporting its role as a selective anabolic bone agent.
 
 (incomplete)
@@ -26,7 +25,6 @@ In vitro study (MC3T3-E1 osteoblasts + primary BMM osteoclasts) showing PDRN sel
 (incomplete)
 
 ## 세줄요약
-
 
 MC3T3-E1 오스테오블라스트와 골수유래 대식세포(BMM) 오스테오클라스트를 이용한 시험관 내 연구로, PDRN이 오스테오블라스트 분화(Runx2↑, ALP↑, 광화↑)를 선택적으로 촉진하고 오스테오클라스트 생성에는 영향을 주지 않음을 증명.
 

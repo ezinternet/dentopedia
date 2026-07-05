@@ -15,7 +15,6 @@ Provides pilot SEM evidence on optimal HF etching time for ultrathin feldspathic
 
 ## Three-line Summary
 
-
 Pilot in-vitro SEM study (Int J Periodontics Restorative Dent 2024; DOI 10.11607/prd.6574) evaluating the effect of HF acid etching time (0, 90, 120, 150 s;
 
 9.6% HF) on intaglio surface microroughness of ultrathin feldspathic veneers made by platinum foil vs. refractory die techniques;
@@ -23,7 +22,6 @@ Pilot in-vitro SEM study (Int J Periodontics Restorative Dent 2024; DOI 10.11607
 platinum foil required 120 s for optimal roughness vs. 90 s for refractory die.
 
 ## 세줄요약
-
 
 파일럿 SEM 연구(2024): 9.6% HF로 초박형 장석 비니어의 내면 에칭 시간을 비교한 결과, 백금박 기법은 120초, 내화 다이 기법은 90초에서 최적 미세거칠기 패턴을 보였으며, 150초는 추가적인 이점이 없었음.
 

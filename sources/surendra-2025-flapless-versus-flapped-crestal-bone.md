@@ -19,7 +19,6 @@ User requested a PubMed ingest on flapless implant placement. The wiki's flaples
 
 ## Three-line Summary
 
-
 Prospective RCT (n=40, posterior mandible) finding flapless implant placement preserved significantly more crestal bone than the flapped technique at both 3 months (0.32 vs 0.56 mm) and 6 months (0.48 vs 0.82 mm, p<0.001), with 100% survival in both arms.
 
 (incomplete)
@@ -27,7 +26,6 @@ Prospective RCT (n=40, posterior mandible) finding flapless implant placement pr
 (incomplete)
 
 ## 세줄요약
-
 
 하악 구치부 단일치 RCT (n=40)에서 무피판(flapless) 식립이 피판거상(flapped)보다 치조정 골소실을 유의하게 적게 보존 (6개월 0.48 vs 0.82 mm, p<0.001);
 

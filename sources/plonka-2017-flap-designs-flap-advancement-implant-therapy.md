@@ -15,7 +15,6 @@ Anchor reference for the flap-design / tension-free primary closure collection: 
 
 ## Three-line Summary
 
-
 Systematic review (PubMed + manual search, English articles Jan 1990–Sep 2015) categorizing GBR flap designs by required advancement — minor (<3 mm), moderate (3–6 mm), major (≥7 mm) — and the incision/release/suturing techniques that achieve passive primary closure under the PASS principle.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review (PubMed + manual search, English articles Jan 1990–Sep 2015)
 (incomplete)
 
 ## 세줄요약
-
 
 GBR 피판 디자인을 필요한 전진량(소: <3mm, 중: 3–6mm, 대: ≥7mm)으로 분류하고 무장력 일차 봉합을 위한 절개·이완·봉합 기법을 PASS 원칙에 따라 정리한 체계적 문헌고찰(1990–2015).
 

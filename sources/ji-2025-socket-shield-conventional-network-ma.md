@@ -15,7 +15,20 @@ source_collection: external
 SST vs conventional implantation approaches의 **network meta-analysis** — multi-intervention 비교 시 분야 최고 evidence-level. 기존 pairwise MA [[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]]·[[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]보다 강력한 비교. Esthetic zone에 한정해 임상 적용 정밀도 높음.
 
 ## Three-line Summary
-Network MA (General Hospital Northern Theater Command + Dalian Medical Univ + China Medical Univ, JPD 2025): SST vs conventional implantation in esthetic zone — multi-intervention network MA로 효과 비교, 임플란트 미용 의사결정에 강력한 anchor.
+
+Network MA (General Hospital Northern Theater Command + Dalian Medical Univ
+
++ China Medical Univ, JPD 2025): SST vs conventional implantation in
+
+esthetic zone — multi-intervention network MA로 효과 비교, 임플란트 미용 의사결정에 강력한 anchor.
+
+## 세줄요약
+
+Network MA (General Hospital Northern Theater Command + Dalian Medical Univ
+
++ China Medical Univ, JPD 2025): SST vs conventional implantation in
+
+esthetic zone — multi-intervention network MA로 효과 비교, 임플란트 미용 의사결정에 강력한 anchor.
 
 ## 1. Document Information
 저자: Shumin Ji et al. Liaoning Natural Science Foundation grant 지원. Journal of Prosthetic Dentistry — top-tier prosthodontic journal.

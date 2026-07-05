@@ -20,7 +20,6 @@ Caveat: this is an **abstract-only** record (full text not retrieved). The tooth
 
 ## Three-line Summary
 
-
 RCT (n=73, 3 groups, 12 weeks at 4-week intervals): a multi-component dental hygiene care programme (10-min flash video + brochures + toothpick method, delivered by 5 hygienists) significantly reduced plaque index after each session in patients with mental disorders;
 
 oral dryness improved, but stimulated saliva and caries activity did not.
@@ -28,7 +27,6 @@ oral dryness improved, but stimulated saliva and caries activity did not.
 (incomplete)
 
 ## 세줄요약
-
 
 정신질환 환자 73명 대상 RCT(3군, 12주·4주 간격): 10분 플래시 동영상 + 브로셔 + 토스픽법(toothpick method)을 묶은 다요소 구강위생 관리 프로그램이 매 세션 후 치면세균막 지수(plaque index)를 유의하게 감소시켰고(P<0.0001) 군간 차이도 유의(P=0.036).
 

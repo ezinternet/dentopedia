@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review of three minimally invasive bone regeneration strategies for implants — Bone Core Technique, SPAL, and IDR — framed within an indication-driven clinical decision-making pathway;
 
 evidence strength is uneven across techniques and conventional augmentation remains indispensable in advanced defects.
@@ -23,7 +22,6 @@ evidence strength is uneven across techniques and conventional augmentation rema
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 골재생의 최소침습 3가지 술식(골코어 기법, SPAL, IDR)을 결손 형태 기반 임상 결정 프레임워크로 정리한 서술 고찰;
 

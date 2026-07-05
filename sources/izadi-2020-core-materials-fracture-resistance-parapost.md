@@ -19,7 +19,6 @@ ParaPost 제품(티타늄 vented/serrated)을 FRC post와 직접 비교한 fract
 
 ## Three-line Summary
 
-
 In-vitro fracture-resistance study (108 mandibular premolars, 9 groups × 12): FRC-post groups pooled significantly higher fracture load than ParaPost groups (397.6 vs 265.6 N, P<0.001);
 
 among the three core build-up materials (Photo Core, LuxaCore, Core Max II) no material was superior.
@@ -27,7 +26,6 @@ among the three core build-up materials (Photo Core, LuxaCore, Core Max II) no m
 (incomplete)
 
 ## 세줄요약
-
 
 인비트로 파절저항 연구 (하악 소구치 108개, 9군×12): FRC post군의 통합 파절하중이 ParaPost군보다 유의하게 높음 (397.6 vs 265.6 N, P<0.001);
 

@@ -15,7 +15,6 @@ The electric-toothbrush evidence base we hold (e.g. [[wiki/periodontics/luo-2026
 
 ## Three-line Summary
 
-
 4-week examiner-blind parallel-group RCT (n=60, 6–10 yo children, Israel): an advanced oscillating-rotating electric toothbrush (Oral-B iO2) gave 51% greater whole-mouth plaque reduction than a manual toothbrush (TQHPI change 0.67 vs 0.44;
 
 p=0.003), with 42–64% greater reductions across all subregions (lingual, buccal, approximal, molar;
@@ -23,7 +22,6 @@ p=0.003), with 42–64% greater reductions across all subregions (lingual, bucca
 p≤0.021); no adverse events.
 
 ## 세줄요약
-
 
 4주 검사자-맹검 병렬군 RCT (n=60, 6–10세 아동, 이스라엘): 첨단 회전-진동(OR) 전동칫솔(Oral-B iO2)이 수동칫솔보다 전악 치면세균막(TQHPI) 감소가 51% 더 컸고(0.67 vs 0.44;
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cross-sectional survey of University of Minnesota dental-hygiene graduates 2010–2019 (n=58 analyzed, 28%) — 95% use MI and 98% perceive it effective;
 
 Theory-of-Planned-Behavior constructs (attitudes, subjective norms, perceived behavioral control) predicted MI use, though clinicians doubted patients' capacity to change.
@@ -23,7 +22,6 @@ Theory-of-Planned-Behavior constructs (attitudes, subjective norms, perceived be
 (incomplete)
 
 ## 세줄요약
-
 
 미네소타대 치위생 졸업생 단면조사(분석 n=58, 28%) — 95%가 MI 사용, 98%가 효과적이라 인식.
 

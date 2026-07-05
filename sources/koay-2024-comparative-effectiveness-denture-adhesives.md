@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Network meta-analysis of 17 RCTs comparing denture adhesive types (cream, powder, strip, cushion) for complete dentures — cream and powder adhesives most effective for mandibular retention (Kapur's index) and bite force (moderate certainty evidence).
 
 (incomplete)
@@ -23,7 +22,6 @@ Network meta-analysis of 17 RCTs comparing denture adhesive types (cream, powder
 (incomplete)
 
 ## 세줄요약
-
 
 17개 RCT 네트워크 메타분석: 크림·파우더 의치접착제가 하악 완전의치 유지력(Kapur 지수)과 구치부 교합력 향상에 가장 효과적임 (중등도 근거).
 

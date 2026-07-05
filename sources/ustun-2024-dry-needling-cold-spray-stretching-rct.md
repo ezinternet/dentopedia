@@ -18,7 +18,6 @@ TMD 분사신장 논문 감시 (B) 영역 — 분사신장(cold-spray-stretching
 
 ## Three-line Summary
 
-
 Prospective single-blind RCT (n=60, upper-trapezius MPS) — cold-spray-stretching vs dry needling over 3 weekly sessions;
 
 both improved pain, function, sEMG and ultrasound histogram (P<.05), with cold-spray-stretching showing higher algometer (pain-threshold) and NDI scores than dry needling (P<.008 and P<.028).
@@ -26,7 +25,6 @@ both improved pain, function, sEMG and ultrasound histogram (P<.05), with cold-s
 Extra-masticatory (transferable) technique evidence; abstract-only.
 
 ## 세줄요약
-
 
 전향 단일맹검 RCT (n=60, 상부 승모근 근막통) — 분사신장 vs 건침 3주(주 1회);
 

@@ -19,7 +19,6 @@ text_filename: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct.txt
 
 ## Three-line Summary
 
-
 RCT (single-blind parallel, n=78 young adults with moderate gingivitis): water flosser (WF, n=40) vs interdental brush (IDB, n=38) adjunct to manual brushing over 4 weeks — both reduced BOMP/BOPP (p=0.000), but WF was significantly more effective than IDB for marginal gingival health (all-sites BOMP p=0.003, BOPP p=0.030) with no difference in gingival abrasion.
 
 (incomplete)
@@ -27,7 +26,6 @@ RCT (single-blind parallel, n=78 young adults with moderate gingivitis): water f
 (incomplete)
 
 ## 세줄요약
-
 
 RCT(단일맹검 평행, n=78 중등도 치은염 청년): 물세정기(WF, n=40) vs 치간칫솔(IDB, n=38)을 칫솔질 보조로 4주 비교 — 두 기기 모두 BOMP/BOPP 감소(p=0.000)했으나, WF가 변연치은 건강(전체부위 BOMP p=0.003, BOPP p=0.030)에서 IDB보다 유의하게 더 효과적이었고 치은마모 차이는 없었다.
 

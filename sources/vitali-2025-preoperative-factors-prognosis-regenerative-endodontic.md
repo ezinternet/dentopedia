@@ -18,7 +18,6 @@ Anchors the trauma–regenerative-endodontics bridge in the new `dental-trauma` 
 
 ## Three-line Summary
 
-
 SR+MA (20 studies, 13 observational + 7 RCT;
 
 GRADE very low): REP clinical/radiographic healing >81% regardless of pre-op factors, but trauma-related necrosis (RR 3.59), incisors (RR 1.90), and apical lesions (RR 2.55) carry higher root-development-failure risk.
@@ -26,7 +25,6 @@ GRADE very low): REP clinical/radiographic healing >81% regardless of pre-op fac
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (20편, 관찰 13 + RCT 7;
 

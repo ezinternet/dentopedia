@@ -19,7 +19,6 @@ text_filename: mendez-romero-2025-antibiotic-stewardship-dentistry-sr.txt
 
 ## Three-line Summary
 
-
 SR+MA of 23 studies (1997–2023) finds that stewardship interventions — particularly audit+feedback and audit+education — reduce inappropriate antibiotic prescribing among dentists by 70% (95% CI 33.3%–86.4%), though evidence quality is low due to predominance of pre-post designs without control groups.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA of 23 studies (1997–2023) finds that stewardship interventions — parti
 (incomplete)
 
 ## 세줄요약
-
 
 항생제 처방 중재 SR+MA (23개 연구, 1997–2023): 감사·교육·피드백 기반 항생제 청지기 프로그램 (Antibiotic Stewardship Program, ASP)이 치과의사의 부적절 처방을 70% 감소시키나, 대부분 대조군 없는 사전-사후 설계로 근거 수준은 낮음.
 

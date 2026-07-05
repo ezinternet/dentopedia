@@ -21,7 +21,6 @@ SmartPeg의 재사용 가능 여부와 소독 후 ISQ 측정값 안정성은 임
 
 ## Three-line Summary
 
-
 Korean in-vitro study (n=8 SmartPegs per experiment, Dankook University 2008) showing that ISQ values remain stable after up to 400 repeated measurements, 400 attach-detach cycles, and six clinical sterilization methods, but SmartPegs lose magnetism and become non-functional at 150°C/10 min dry-heat sterilization.
 
 (incomplete)
@@ -29,7 +28,6 @@ Korean in-vitro study (n=8 SmartPegs per experiment, Dankook University 2008) sh
 (incomplete)
 
 ## 세줄요약
-
 
 단국대 2008년 체외 연구 (실험당 SmartPeg 8개): SmartPeg은 400회 반복 측정·탈부착 및 6종 임상 소독법 후 ISQ값이 유의하게 변하지 않으나, 150°C/10분 진공건열멸균 시 자성 소실로 측정 불가.
 

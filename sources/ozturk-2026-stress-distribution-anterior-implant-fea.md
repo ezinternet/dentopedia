@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-3D finite element analysis of stress distribution for a single implant placed in the anterior maxilla across different clinical scenarios (bone availability, loading angle, restoration protocol).
 
+3D finite element analysis of stress distribution for
+
+a single implant placed in the anterior maxilla
+
+across different clinical scenarios (bone availability, loading angle, restoration protocol).
+
+## 세줄요약
+
+3D finite element analysis of stress distribution for
+
+a single implant placed in the anterior maxilla
+
+across different clinical scenarios (골 (Bone) availability, loading angle, restoration protocol).
 
 ## 1. Document Information
 - **Title:** Stress distribution of an anteriorly placed single implant in different clinical scenarios: a 3D finite element analysis

@@ -18,7 +18,6 @@ relations:
 
 ## Three-line Summary
 
-
 5-year prospective follow-up (n=101 elements): LTD continues to progress significantly from baseline to 5 years in 3Y-TZP monolithic zirconia;
 
 grain pull-out raises nanoparticle release concern;
@@ -26,7 +25,6 @@ grain pull-out raises nanoparticle release concern;
 fracture rate 4.5%; glazing still not protective.
 
 ## 세줄요약
-
 
 3Y-TZP 모놀리식 지르코니아 5년 전향적 추적 (n=101): LTD 기저치 대비 5년 시점에서 유의하게 증가, 교합면 그레인 탈락으로 나노입자 체내 유입 우려 제기, 파절률 4.5%.
 

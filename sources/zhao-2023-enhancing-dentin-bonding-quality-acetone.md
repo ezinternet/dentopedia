@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro microtensile study (60 third molars, 4 solvent groups): acetone wet-bonding preserved bond strength after thermocycling/collagenase aging (p<0.05) without affecting immediate strength, with less nanoleakage and suppressed MMP collagenolytic activity vs water wet-bonding.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro microtensile study (60 third molars, 4 solvent groups): acetone wet-bon
 (incomplete)
 
 ## 세줄요약
-
 
 60개 제3대구치 미세인장 실험(4개 용매군): 아세톤 습윤접착이 즉시 접착강도는 유지한 채 열순환·콜라겐분해효소 노화 후 강도를 보존(p<0.05), 물 습윤접착 대비 나노누출 감소 및 MMP 콜라겐분해활성 억제.
 

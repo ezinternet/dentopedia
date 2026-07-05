@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n=40, 4 groups): for feldspathic porcelain chipping repair, bonding method (separate silane+adhesive > universal adhesive) matters more than surface treatment (HF etching ≈ diamond roughening);
 
 universal adhesive groups showed high debonding rates during thermal cycling.
@@ -23,7 +22,6 @@ universal adhesive groups showed high debonding rates during thermal cycling.
 (incomplete)
 
 ## 세줄요약
-
 
 인 비트로 연구 (n=40, 4그룹): 장석질 도재 치핑 수리 시 표면처리 방법(HF 산처리 ≈ 다이아몬드 거칠기)보다 접착 방법(별도 실란+접착제 > 유니버설 접착제)이 결합강도에 더 중요하며, 유니버설 접착제 그룹은 열순환 중 높은 탈락률을 보였다.
 

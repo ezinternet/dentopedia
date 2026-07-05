@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective comparative study (83 patients, 135 implants) showing autonomous robotic CAIS halves angular/platform/apex deviation vs dynamic navigation and is faster.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective comparative study (83 patients, 135 implants) showing autonomous rob
 (incomplete)
 
 ## 세줄요약
-
 
 전향 비교연구(환자 83명·임플란트 135개): 자율로봇 임플란트수술(r-CAIS)이 동적내비게이션(d-CAIS)보다 각도·플랫폼·첨부 편차를 절반으로 줄이고 시술시간도 단축.
 

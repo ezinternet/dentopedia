@@ -19,7 +19,6 @@ text_filename: sharma-2024-orofacial-complications-systemic-sclerosis.txt
 
 ## Three-line Summary
 
-
 Narrative review (J Dent Res, 3-author) of orofacial complications in systemic sclerosis: microstomia (52–80%), xerostomia (sicca 70%;
 
 secondary Sjögren ≤14%), more severe periodontitis (stage III/IV in 90% dcSSc vs 60% lcSSc), condylar resorption (10–50%), trigeminal neuralgia, dysgeusia;
@@ -27,7 +26,6 @@ secondary Sjögren ≤14%), more severe periodontitis (stage III/IV in 90% dcSSc
 MMP-9/CXCL-4 in GCF track early disease; dental implants can succeed but need vasculopathy/bone-quality risk assessment.
 
 ## 세줄요약
-
 
 전신경화증의 구강안면 합병증을 정리한 서술적 종설(J Dent Res, 3저자): 소구증(52–80%), 구강건조증(sicca 70%·이차 쇼그렌 ≤14%), 더 심한 치주염(dcSSc III/IV기 90% vs lcSSc 60%), 하악과두 흡수(10–50%), 삼차신경통, 미각이상;
 

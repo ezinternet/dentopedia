@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review + meta-analysis of immediate implant placement in molar extraction sockets. Pooled survival rates are comparable to delayed placement when primary stability and septum-driven positioning are achieved.
 
+Systematic review + meta-analysis of immediate implant placement in
+
+molar extraction sockets. Pooled survival rates are comparable to
+
+delayed placement when primary stability and septum-driven positioning are achieved.
+
+## 세줄요약
+
+체계적 고찰 (SR) + 메타분석 (MA) of immediate implant placement in
+
+molar extraction sockets. Pooled 생존율s are comparable to
+
+delayed placement when primary stability and septum-driven positioning are achieved.
 
 ## 1. Document Information
 - **Title:** Immediate implant placement in molar extraction sockets: a systematic review and meta-analysis

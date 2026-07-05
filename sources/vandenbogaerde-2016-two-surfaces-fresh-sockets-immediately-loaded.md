@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Randomized within-patient case-series (11 patients, 22 implants — 11 bimodal control vs 11 proactive hydrophilic/rough test, Neoss) placed in fresh maxillary sockets and immediately loaded: both surfaces had a ~2-week ISQ dip, but the proactive test implant dipped less and recovered to significantly higher stability at 12 weeks (test +3.5±4.6 vs control −0.3±5.6 ISQ from baseline;
 
 p=0.021).
@@ -23,7 +22,6 @@ p=0.021).
 (incomplete)
 
 ## 세줄요약
-
 
 같은 환자에서 두 표면을 짝지어 비교한 무작위 케이스 시리즈(11명, 22개 — bimodal 대조 11 vs proactive 친수성·거친 표면 시험 11, Neoss)를 상악 발치와에 즉시식립·즉시부하: 두 표면 모두 2주째 ISQ 하강(stability dip)을 보였으나 proactive 시험 임플란트는 하강 폭이 작고 회복이 빨라 12주째 유의하게 높은 안정성에 도달(시험 +3.5±4.6 vs 대조 −0.3±5.6 ISQ, p=0.021).
 

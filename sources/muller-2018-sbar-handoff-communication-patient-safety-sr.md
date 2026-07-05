@@ -19,7 +19,6 @@ General-healthcare (not dental-specific) evidence ingested to anchor the dental 
 
 ## Three-line Summary
 
-
 Systematic review (11 studies: 8 before–after + 3 controlled trials;
 
 general healthcare) finds MODERATE evidence that the SBAR hand-off tool improves patient safety — 8 of 26 outcomes significantly improved, strongest for structured nurse-to-physician telephone communication, but overall study quality is low.
@@ -27,7 +26,6 @@ general healthcare) finds MODERATE evidence that the SBAR hand-off tool improves
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(11편: 전후비교 8 + 대조시험 3, 일반 의료) — 표준화 인계도구 SBAR가 환자안전을 개선한다는 중등도 근거.
 

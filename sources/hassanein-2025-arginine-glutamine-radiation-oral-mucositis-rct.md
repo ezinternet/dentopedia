@@ -19,7 +19,6 @@ The wiki's oral-mucosal-disease coverage centers on oral lichen planus, RAS, BMS
 
 ## Three-line Summary
 
-
 Triple-blind RCT (n=69 HNC radiotherapy patients, 3 arms ×23) showing both L-arginine and L-glutamine oral suspensions reduced WHO mucositis severity, pain, and weight loss vs maltodextrin control by week 5–7, with L-arginine non-inferior to glutamine and a numerically higher week-7 healing rate (56% vs 13%).
 
 (incomplete)
@@ -27,7 +26,6 @@ Triple-blind RCT (n=69 HNC radiotherapy patients, 3 arms ×23) showing both L-ar
 (incomplete)
 
 ## 세줄요약
-
 
 삼중맹검 RCT (두경부암 방사선치료 환자 69명, 3군 ×23명) — L-아르기닌·L-글루타민 경구 현탁액 모두 maltodextrin 대조군 대비 5–7주차 WHO 점막염 중증도·통증·체중감소를 유의하게 줄였고, L-아르기닌은 글루타민에 비열등하며 7주차 완치율이 수치상 더 높았다 (56% vs 13%).
 

@@ -19,7 +19,6 @@ Covers the **acceleration / adjunct axis** of clear-aligner-treatment (CAT) limi
 
 ## Three-line Summary
 
-
 First RCT-only SR (7 RCTs, n=266) of physical adjunctive interventions (vibration, LLLT) in clear aligner treatment: no consistent benefit on alignment (Little's Irregularity Index MD 0.08 maxilla p=0.869, 0.44 mandible p=0.487), case completion (p=0.999), compliance (~77%, p=0.390) or QoL;
 
 only transient day-1–3 pain reduction;
@@ -27,7 +26,6 @@ only transient day-1–3 pain reduction;
 GRADE low to very low.
 
 ## 세줄요약
-
 
 투명교정(CAT)에 물리적 보조요법(진동·저출력레이저)을 더한 RCT 7편(n=266) 첫 SR: 정렬(Little 불규칙지수 상악 MD 0.08 p=0.869, 하악 0.44 p=0.487)·완료율(p=0.999)·순응도(~77%, p=0.390)·삶의질 모두 일관된 이득 없음.
 

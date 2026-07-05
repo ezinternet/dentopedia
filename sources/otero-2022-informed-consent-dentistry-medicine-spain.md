@@ -19,7 +19,6 @@ Informed consent (IC) is the legal backbone of shared decision-making — it ope
 
 ## Three-line Summary
 
-
 Narrative review of Spanish IC law/jurisprudence + INFLESZ readability analysis of official dental ICDs: IC is a care PROCESS (not the ICD form), defective IC has produced more convictions than malpractice, and the analysed ICDs (INFLESZ 41.24–52.18) were all below the 55-point readability threshold for the general Spanish public.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review of Spanish IC law/jurisprudence + INFLESZ readability analysis 
 (incomplete)
 
 ## 세줄요약
-
 
 스페인 사전동의(IC) 법·판례 내러티브 리뷰 + 공식 치과 동의서(ICD) 가독성(INFLESZ) 분석: IC는 서명이 마지막 고리인 '진료 과정'이지 문서가 아니며, 결함 있는 IC가 의료과실보다 더 많은 유죄판결을 낳았고, 분석한 모든 ICD가 일반 대중 접근 기준(55점) 미만이었다.
 

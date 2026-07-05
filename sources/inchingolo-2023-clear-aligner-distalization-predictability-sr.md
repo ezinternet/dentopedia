@@ -19,7 +19,6 @@ text_filename: inchingolo-2023-clear-aligner-distalization-predictability-sr.txt
 
 ## Three-line Summary
 
-
 SR (19 studies): molar distalization is achievable with clear aligners alone, but anterior anchorage loss is highly probable;
 
 predictability and stability improve markedly with skeletal anchorage (TADs) and IPR — a hybrid approach gives the best success, especially with large overjet.
@@ -27,7 +26,6 @@ predictability and stability improve markedly with skeletal anchorage (TADs) and
 (incomplete)
 
 ## 세줄요약
-
 
 SR(19편): 투명교정 단독으로 대구치 distalization은 가능하나 전치부 앵커리지 손실이 매우 흔함.
 

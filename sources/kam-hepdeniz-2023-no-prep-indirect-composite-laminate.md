@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective case series (n=80 veneers, 35 patients, 84 months): no-prep indirect microhybrid composite laminate veneers on maxillary anterior teeth achieved 91.3% survival rate (Kaplan-Meier), with debonding (n=4) and fracture (n=3) as the only absolute failures;
 
 no secondary caries, antagonist wear, or tooth fracture observed.
@@ -23,7 +22,6 @@ no secondary caries, antagonist wear, or tooth fracture observed.
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 증례 연구(n=80 비니어, 35명, 84개월): 무삭제 간접 마이크로하이브리드 복합레진 라미네이트 비니어(라미네이트 비니어, laminate veneer)의 생존율 91.3%(Kaplan-Meier);
 

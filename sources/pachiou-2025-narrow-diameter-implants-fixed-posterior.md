@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (36 trials, 2741 NDIs) showing narrow-diameter implants (<3.75 mm) achieve high pooled survival (maxilla 97.0%, mandible 96.5%) for fixed restorations in posterior premolar/molar sites, consistent across jaw location and implant material.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (36 trials, 2741 NDIs) showing narrow-diameter implants (<3.75 mm) achieve
 (incomplete)
 
 ## 세줄요약
-
 
 36편(NDI 2741개) 체계적 고찰·메타분석.
 

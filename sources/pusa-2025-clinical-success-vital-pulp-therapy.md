@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 21 RCTs (1,816 participants, 1,948 permanent teeth) finding direct pulp capping with MTA significantly more successful than calcium hydroxide (RR 1.21, 95% CI 1.02–1.42, P=0.03), with no significant MTA-vs-Biodentine or partial-vs-full-pulpotomy difference.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 21 RCTs (1,816 participants, 1,948 permanent teeth) finding direct pulp
 (incomplete)
 
 ## 세줄요약
-
 
 21편 RCT(참가자 1,816명·치아 1,948개)의 SR+MA로, 직접치수복조에서 MTA가 수산화칼슘보다 유의하게 높은 성공률(RR 1.21, 95% CI 1.02–1.42, P=0.03)을 보였고 MTA vs Biodentine, 부분 vs 전체 치수절단술 간에는 유의차가 없었다.
 

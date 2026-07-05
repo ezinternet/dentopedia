@@ -19,7 +19,6 @@ GLP-1 수용체작용제(semaglutide/Ozempic·Wegovy)가 체중감량용으로 �
 
 ## Three-line Summary
 
-
 Case series (Medicine 2023, n=3 overweight women, mean 11.3 weeks on semaglutide) reporting the first documented semaglutide (GLP-1 agonist)–associated hyposalivation — severe dry mouth, mean modified Schirmer 9 mL/3 min, Sjögren-negative — reversible on discontinuation or manageable with pilocarpine.
 
 (incomplete)
@@ -27,7 +26,6 @@ Case series (Medicine 2023, n=3 overweight women, mean 11.3 weeks on semaglutide
 (incomplete)
 
 ## 세줄요약
-
 
 세마글루타이드(Semaglutide, Ozempic;
 

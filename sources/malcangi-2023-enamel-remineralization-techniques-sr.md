@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-법랑질 재광화 기술 SR: 불소, CPP-ACP, hydroxyapatite, resin infiltration, silver diamine fluoride, 레이저 등 비교 — 불소+CPP-ACP 병용이 효과적.
 
+법랑질 재광화 기술 SR: 불소, CPP-ACP,
+
+hydroxyapatite, resin infiltration, silver diamine fluoride,
+
+레이저 등 비교 — 불소+CPP-ACP 병용이 효과적.
+
+## 세줄요약
+
+법랑질 재광화 기술 SR: 불소, CPP-ACP,
+
+hydroxyapatite, resin infiltration, silver diamine fluoride,
+
+레이저 등 비교 — 불소+CPP-ACP 병용이 효과적.
 
 ## 1. Document Information
 - **Title**: Analysis of Dental Enamel Remineralization: A Systematic Review of Technique Comparisons

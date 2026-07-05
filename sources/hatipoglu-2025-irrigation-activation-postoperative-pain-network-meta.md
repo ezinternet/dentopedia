@@ -19,7 +19,6 @@ Direct head-to-head ranking of seven irrigation activation/agitation techniques 
 
 ## Three-line Summary
 
-
 Bayesian network meta-regression of 57 trials (31 in network, 2595 patients) ranking 7 irrigation activation techniques for Day-1 postop pain: laser-activated irrigation (LAI) ranked best (SUCRA 85%) and was the only clinically important contrast (vs manual dynamic irrigation, MD −2.46 VAS, >1.0 MCID);
 
 manual dynamic irrigation (MDI) ranked worst;
@@ -27,7 +26,6 @@ manual dynamic irrigation (MDI) ranked worst;
 CINeMA confidence mostly low/very low.
 
 ## 세줄요약
-
 
 57편(네트워크 31편, 2595명) 베이지안 네트워크 메타회귀: 7가지 근관세정 활성화 기법 중 레이저 활성화 세정(LAI)이 술후 1일 통증 최저(SUCRA 85%)로 1위, 임상적으로 유의한 유일한 비교는 LAI vs 수동 역동 세정(MDI, MD −2.46 VAS, MCID 1.0 초과);
 

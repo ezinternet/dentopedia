@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA (J Endod 2017): 술전 통증 동반 근관치료 환자에서 Ibuprofen 600mg이 위약 대비 6시간 시점 유효; Ibuprofen+Acetaminophen 병용이 위약보다 우수하나 ibuprofen 단독과 유의차 없음.
 
+SR+MA (J Endod 2017): 술전 통증 동반 근관치료
+
+환자에서 Ibuprofen 600mg이 위약 대비 6시간 시점 유효;
+
+Ibuprofen+Acetaminophen 병용이 위약보다 우수하나 ibuprofen 단독과 유의차 없음.
+
+## 세줄요약
+
+SR+MA (J Endod 2017): 술전 통증 동반 근관치료
+
+환자에서 Ibuprofen 600mg이 위약 대비 6시간 시점 유효;
+
+Ibuprofen+Acetaminophen 병용이 위약보다 우수하나 ibuprofen 단독과 유의차 없음.
 
 ## 1. Document Information
 J Endod 2017;43(1):7-15. PMID 27939729. Ovid MEDLINE 1946~2015 + Cochrane 검색. 2,284편 확인, 최종 15편 포함. 1차저자 소속: Oregon Health & Science University.

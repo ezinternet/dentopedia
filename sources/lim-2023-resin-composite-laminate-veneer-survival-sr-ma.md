@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 7 studies (3 RCTs + 4 cohorts): resin composite laminate veneers showed 88% overall pooled survival rate (mean follow-up 24–97 months), with direct veneers outperforming indirect (91% vs 84%).
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 7 studies (3 RCTs + 4 cohorts): resin composite laminate veneers showed
 (incomplete)
 
 ## 세줄요약
-
 
 7편 연구(RCT 3 + 코호트 4) SR+MA: 레진 복합재 라미네이트 비니어 생존율 88%(추적관찰 24–97개월), 직접법(91%)이 간접법(84%)보다 우수.
 

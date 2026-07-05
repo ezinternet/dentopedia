@@ -18,7 +18,6 @@ Existing clear-aligner biomechanics/predictability pages such as [[wiki/orthodon
 
 ## Three-line Summary
 
-
 Retrospective analysis of 122 adult Invisalign Lite patients found planned overjet, arch depth, and mandibular incisor inclination closely matched achieved outcomes, but overbite and maxillary incisor labiolingual inclination showed statistically and clinically significant planned-vs-achieved discrepancies (abstract-only — full text not retrieved).
 
 (incomplete)
@@ -26,7 +25,6 @@ Retrospective analysis of 122 adult Invisalign Lite patients found planned overj
 (incomplete)
 
 ## 세줄요약
-
 
 성인 Invisalign Lite 환자 122명의 후향적 분석 결과, 계획된 수평피개교합(overjet)·치열궁 깊이(arch depth)·하악 절치 순설측 경사(labiolingual inclination)는 실제 달성치와 잘 일치했으나, 수직피개교합(overbite)과 상악 절치 순설측 경사는 계획 대비 통계적·임상적으로 유의한 차이를 보였다 (초록만 확보, 전문 미확보).
 

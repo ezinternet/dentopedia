@@ -32,8 +32,6 @@ Statistically significant between-group differences were not observed, suggestin
 
 군 간 통계적 유의차가 관찰되지 않았으므로, 비수술적 기계적 제거 단독이 조기 주위염에서 의미 있는 단기 효과를 제공함을 시사하며, 글리신 파우더 보조 요법이 부분적 임상 효과를 가질 수 있으나 통계적 우월성은 뚜렷하지 않음; 표본 크기(26명/5군) 제한이 더 작은 효과 크기 감지에 영향.
 
-
-
 ## 1. Document Information
 
 - **Title**: Efficacy of different nonsurgical treatments for peri-implantitis: a multi-arm randomized controlled clinical trial

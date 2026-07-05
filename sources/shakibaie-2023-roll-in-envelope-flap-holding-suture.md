@@ -15,7 +15,6 @@ Part of a focused collection on flap design and peri-implant soft-tissue managem
 
 ## Three-line Summary
 
-
 Prospective case series (10 posterior implants, 10 patients, randomly assigned by flap design) reporting that the microsurgical roll-in-envelope (RIE) flap yielded a ~three-fold greater peri-implant mucosal thickness than the holding-suture (HS) technique with less pain/discomfort and no dropouts.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective case series (10 posterior implants, 10 patients, randomly assigned b
 (incomplete)
 
 ## 세줄요약
-
 
 구치부 임플란트 10개·10명 대상 전향적 증례군.
 

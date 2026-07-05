@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-구치부 임플란트 지지 단관: 단일층 지르코니아(MZ) vs 금속도재(MC) 비교 RCT들의 SR+MA.
 
+구치부 임플란트 지지
+
+단관: 단일층 지르코니아(MZ)
+
+vs 금속도재(MC) 비교 RCT들의 SR+MA.
+
+## 세줄요약
+
+구치부 임플란트 지지
+
+단관: 단일층 지르코니아(MZ)
+
+vs 금속도재(MC) 비교 RCT들의 SR+MA.
 
 ## 1. Document Information
 - **Title**: Monolithic zirconia as a valid alternative to metal-ceramic for implant-supported single crowns in the posterior region: A systematic review and meta-analysis of randomized controlled trials

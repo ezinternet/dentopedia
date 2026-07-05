@@ -15,7 +15,6 @@ Part of a TMD physical-therapy ingest batch. This is the only systematic review/
 
 ## Three-line Summary
 
-
 Frequentist network meta-analysis (17 RCTs qualitative, 8 in NMA, n=556) of myofascial TMD pain: indirect dry-needling-vs-manual-therapy comparison showed NO significant difference (MD −0.263 [−1.517, 0.992] on 10-point VAS), but manual therapy ranked most likely to reduce pain (SUCRA 0.932) ahead of deep dry needling (0.775);
 
 low-quality, heterogeneous evidence.
@@ -23,7 +22,6 @@ low-quality, heterogeneous evidence.
 (incomplete)
 
 ## 세줄요약
-
 
 근막성 측두하악장애(TMD) 통증에 대한 빈도주의 네트워크 메타분석 (정성 17 RCT, NMA 8편, n=556): 건침(dry needling) 대 도수치료(manual therapy)의 간접 비교는 유의차 없음 (MD −0.263 [−1.517, 0.992], 10점 VAS)이었으나, 통증 감소 가능성 순위는 도수치료(SUCRA 0.932)가 심부건침(0.775)보다 높음 — 근거 질은 낮고 프로토콜 이질성이 큼.
 

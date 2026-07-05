@@ -20,7 +20,6 @@ This is the newest and largest systematic review (43 studies: 16 animal + 27 hum
 
 ## Three-line Summary
 
-
 Systematic review (43 studies = 16 animal + 27 human, search to May 2025) finding vitamin D deficiency associated with up to a fourfold increase in early implant failures, while pre-surgical supplementation enhanced osseointegration and bone-implant contact (BIC), even in high-risk diabetic patients.
 
 (incomplete)
@@ -28,7 +27,6 @@ Systematic review (43 studies = 16 animal + 27 human, search to May 2025) findin
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(43편 = 동물 16편 + 사람 27편, 2025년 5월까지 검색)로, 비타민 D 결핍(Vitamin D deficiency)이 조기 임플란트 실패(Early Dental Implant Failure, EDIF)를 최대 4배까지 증가시키며, 수술 전 보충이 당뇨 등 고위험군에서도 골유착과 골-임플란트 접촉(Bone-to-Implant Contact, BIC)을 개선했다고 보고.
 

@@ -36,7 +36,6 @@ RCT (즉시식립 테이퍼드 임플란트 n=30, 상악 전치부; 통상 드�
 
 토크-ISQ 해리(UD에서 토크↑·ISQ↓)는 높은 토크에 의한 골 압박·micro-damage 후 조기 개조로 설명 가능; 평균 ISQ 70 미달 — 12주 이후 교합 부하 권장.
 
-
 ## Summary
 
 This is probably the first randomized controlled trial to test whether undersized drilling improves the primary stability of **immediate** implants in the esthetically demanding anterior maxilla. Thirty tapered 3.75 × 13 mm implants were placed immediately after extraction and randomized 1:1 to a conventional complete drilling sequence (final 3.0 mm twist drill used) or an undersized sequence (3.0 mm twist drill omitted, leaving a narrower bone bed). Stability was tracked by insertion torque (IT) and resonance frequency analysis (RFA/ISQ) at insertion, 6 weeks, and 12 weeks.

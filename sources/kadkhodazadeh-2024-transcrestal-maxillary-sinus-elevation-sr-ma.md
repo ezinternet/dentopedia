@@ -19,7 +19,6 @@ PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 17-study
 
 ## Three-line Summary
 
-
 SR+MA (17 studies, 10 meta-analyzed;
 
 RCTs) of implants placed with transcrestal sinus lift reporting a pooled 100% (95% CI 99–100%) implant survival, with follow-up time non-significant in meta-regression, but a hand-osteotome–specific risk of membrane perforation and patient vertigo.
@@ -27,7 +26,6 @@ RCTs) of implants placed with transcrestal sinus lift reporting a pooled 100% (9
 (incomplete)
 
 ## 세줄요약
-
 
 경치조골(transcrestal) 상악동거상 임플란트 17편(메타분석 10편) SR+MA — 풀링 생존율 100% (95% CI 99–100%), 추적기간 무관(메타회귀 비유의)이나 hand-osteotome 사용 시 막천공·현훈 위험이 더 높다.
 

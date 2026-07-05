@@ -18,7 +18,6 @@ General-healthcare foundational review establishing the teamwork → patient-saf
 
 ## Three-line Summary
 
-
 Narrative literature review (general healthcare, acute/dynamic domains) synthesizing three evidence streams — critical-incident analyses, provider-perception studies, and observational performance studies — that together establish teamwork as a determinant of quality and patient safety.
 
 (incomplete)
@@ -26,7 +25,6 @@ Narrative literature review (general healthcare, acute/dynamic domains) synthesi
 (incomplete)
 
 ## 세줄요약
-
 
 수술실·중환자실·응급실 등 역동적 의료 영역의 팀워크-환자안전 관계를 다룬 서술적 문헌 고찰 (Narrative Review).
 

@@ -19,7 +19,6 @@ text_filename: marenzi-2026-torque-limiting-devices-accuracy-manufacturers.txt
 
 ## Three-line Summary
 
-
 In vitro study (3 manufacturers, 5 wrenches each, 20 measurements × 3 torque levels) found all mechanical torque-limiting devices delivered less torque than set (error 11–29.3%);
 
 all wrenches at 25 Ncm eliminated microgap regardless of manufacturer.
@@ -27,7 +26,6 @@ all wrenches at 25 Ncm eliminated microgap regardless of manufacturer.
 (incomplete)
 
 ## 세줄요약
-
 
 기계식 토크 제한 렌치(Mechanical Torque-Limiting Wrench) 3종 제조사 비교 in vitro 연구: 모든 장치가 설정값보다 낮은 토크(오차 11–29.3%)를 전달하나, 25 Ncm 적용 시 전 제조사에서 미세간극(Microgap) 없음.
 

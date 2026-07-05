@@ -15,7 +15,6 @@ The crown-prep geometry hub [[overviews/crown-preparation-geometry-convergence-r
 
 ## Three-line Summary
 
-
 Narrative review (J Prosthet Dent 2001;85:363-376;
 
 250 yr history, last 50 yr MEDLINE+manual): nine scientific principles for complete-crown preparation — 10-20° TOC, ≥4 mm occlusocervical for molars (3 mm others), occlusocervical-to-faciolingual ratio ≥0.4, preserved line angles, and auxiliary resistance (grooves/boxes) when dimensions are deficient.
@@ -23,7 +22,6 @@ Narrative review (J Prosthet Dent 2001;85:363-376;
 (incomplete)
 
 ## 세줄요약
-
 
 narrative-review (J Prosthet Dent 2001;85:363-376;
 

@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cross-sectional CBCT study in a Pakistani population evaluating SRP (Kan classification) and labial bone thickness (LBT) at three apicocoronal levels in maxillary canine-to-canine teeth.
+
+Cross-sectional CBCT study in a Pakistani population evaluating
+
+SRP (Kan classification) and labial bone thickness (LBT)
+
+at three apicocoronal levels in maxillary canine-to-canine teeth.
+
+## 세줄요약
+
+Cross-sectional CBCT study in a Pakistani population evaluating
+
+SRP (Kan classification) and labial 골 (Bone) thickness (LBT)
+
+at three apicocoronal levels in maxillary canine-to-canine teeth.
 
 ## 1. Document Information
 - **Title:** Does the sagittal root position of maxillary anterior teeth affect the decision making on immediate implants in the anterior maxilla? A CBCT-based study

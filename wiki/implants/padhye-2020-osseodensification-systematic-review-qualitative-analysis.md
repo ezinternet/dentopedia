@@ -34,8 +34,6 @@ OD는 통상 드릴링 대비 삽입 토크(Insertion Torque, IT), 골-임플란
 
 메타분석 미시행(설계 이질성) → 효과 크기·장기 임상 결과 외삽 불가; 2018년 시점 OD 근거 지형도로만 활용.
 
-
-
 ## Summary
 Padhye et al. published one of the first systematic reviews focused exclusively on osseodensification (OD), the Densah-bur technique introduced by Huwais in 2015. They searched PubMed-Medline, Embase, and Google Scholar (2010 through Nov 2018) with no language restriction. From 132 hits they included 12 articles: 8 animal histologic studies, 2 human clinical studies, 1 case series, and 1 case report.
 

@@ -19,7 +19,6 @@ Supplies the head-to-head clinical efficacy evidence behind the EF-Line / elasto
 
 ## Three-line Summary
 
-
 Prospective controlled clinical study (n=60 children aged 7–15, Class II div 1/2;
 
 30 EQ Series II [Eptamed] vs 30 Occlus-o-Guide) showing both elastodontic devices reduced overjet and overbite over 12 months, with the EQ Series II achieving significantly lower OJ and OB at T1 than Occlus-o-Guide (p=0.0019), measured by iTero digital-model evaluation.
@@ -27,7 +26,6 @@ Prospective controlled clinical study (n=60 children aged 7–15, Class II div 1
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 대조 임상연구 (소아 60명, 7~15세, 2급 부정교합 1·2류;
 

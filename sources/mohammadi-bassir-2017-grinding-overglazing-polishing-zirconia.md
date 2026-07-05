@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-J Prosthet Dent 2017;118(5):658-665: 5 groups (standard polish, grind, grind+overglaze, grind+2-step polish, grind+polishing kit) — significant differences in Ra, Rz, flexural strength; grinding + polishing partially restores surface; overglazing alone insufficient.
 
+J Prosthet Dent 2017;118(5):658-665: 5 groups (standard polish, grind, grind+overglaze, grind+2-step polish, grind+polishing kit) — significant differences in Ra, Rz, flexural strength
+
+grinding + polishing partially restores surface
+
+overglazing alone insufficient.
+
+## 세줄요약
+
+J Prosthet Dent 2017;118(5):658-665: 5 groups (standard polish, grind, grind+overglaze, grind+2-step polish, grind+polishing kit) — 유의미한 differences in Ra, Rz, flexural strength
+
+grinding + polishing partially restores surface
+
+overglazing alone insufficient.
 
 ## 1. Key Results
 - 50 bar-shaped Y-TZP specimens; 5 groups (n=10): SP, Gr, Gl (overglaze), BP (2-step polish), MP (polishing kit)

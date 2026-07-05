@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-교정적 치아이동(OTM) 기전 동물 연구 critical review (JCM 2021): 압박측 파골세포생성·인장측 골형성; RANKL·TNF-α·DKK1·sclerostin·TGF-β·BMP 신호; 형질전환 동물 모델로 인과관계 규명.
+
+교정적 치아이동(OTM) 기전 동물 연구 critical review (JCM 2021): 압박측 파골세포생성·인장측 골형성
+
+RANKL·TNF-α·DKK1·sclerostin·TGF-β·BMP 신호
+
+형질전환 동물 모델로 인과관계 규명.
+
+## 세줄요약
+
+교정적 치아이동(OTM) 기전 동물 연구 critical review (JCM 2021): 압박측 파골세포생성·인장측 골형성
+
+RANKL·TNF-α·DKK1·sclerostin·TGF-β·BMP 신호
+
+형질전환 동물 모델로 인과관계 규명.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2021, 10, 1733

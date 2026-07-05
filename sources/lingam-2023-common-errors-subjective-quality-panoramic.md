@@ -19,7 +19,6 @@ text_filename: lingam-2023-common-errors-subjective-quality-panoramic.txt
 
 ## Three-line Summary
 
-
 Cross-sectional audit of 2,629 digital panoramic radiographs (Orthophos XG, Riyadh): 77.2% had ≥1 positioning error, only 32.8% error-free;
 
 ghost/reflected images (error 10) were the least frequent error overall (~2.2%) but significantly concentrated in 5–12-year-old children (P=0.001), while ~15% of images were diagnostically unacceptable (exceeding the ≤10% benchmark).
@@ -27,7 +26,6 @@ ghost/reflected images (error 10) were the least frequent error overall (~2.2%) 
 (incomplete)
 
 ## 세줄요약
-
 
 디지털 파노라마 2,629장 단면 감사(사우디 리야드): 77.2%가 자세오류 1개 이상, 무오류는 32.8%뿐이며, ghost/reflected image(오류 10)는 전체적으로 가장 드물지만(~2.2%) 5–12세 소아에서 유의하게 몰림(P=0.001), 진단 불가 영상은 ~15%로 권고 기준(≤10%)을 초과.
 

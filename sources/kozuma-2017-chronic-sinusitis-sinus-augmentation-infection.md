@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective cohort (109 patients, 121 sinuses, 252 implants) found preoperative chronic sinusitis was the strongest predictor of postoperative infection (p=0.007) and implant loss (p=0.007) after lateral sinus augmentation, mandating preoperative ENT evaluation and treatment.
 
 (incomplete)
@@ -24,7 +23,6 @@ Retrospective cohort (109 patients, 121 sinuses, 252 implants) found preoperativ
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 코호트 연구 (109명, 121개 상악동, 252개 임플란트): 술 전 만성 부비동염이 측방 상악동거상술 후 감염(p=0.007) 및 임플란트 실패(p=0.007)의 가장 강력한 예측인자였으며, 수술 전 이비인후과적 평가 및 치료가 필수임을 시사.
 

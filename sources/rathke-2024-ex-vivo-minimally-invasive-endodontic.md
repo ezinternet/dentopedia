@@ -19,7 +19,6 @@ The wiki's shaping category has no direct ex vivo test of the widely repeated cl
 
 ## Three-line Summary
 
-
 Ex vivo study (n=18/group, 6 groups) on extracted human maxillary central incisors found that minimally invasive endodontic (MIE) canal shaping (#40/.04) did not significantly reduce vertical root fracture (VRF) incidence or crack formation compared to conventional enlargement (ISO #80) after chewing simulation, regardless of sealer type (cement-based vs.
 
 adhesive resin-based);
@@ -27,7 +26,6 @@ adhesive resin-based);
 VRF resistance was in fact significantly lower in the +MIE/cement-sealer group than in untreated controls (p=0.020).
 
 ## 세줄요약
-
 
 발치된 상악 중절치를 이용한 ex vivo 연구(그룹당 n=18, 총 6군)에서 최소침습 근관치료(minimally invasive endodontic treatment, MIE, #40/.04 성형)는 기존 확대(ISO #80)에 비해 저작 시뮬레이션 후 수직치근파절(vertical root fracture, VRF) 발생률이나 균열 형성을 유의하게 줄이지 못했으며(실러 종류와 무관), 오히려 +MIE/시멘트 실러 군의 VRF 저항성은 무처치 대조군보다 유의하게 낮았다(p=0.020).
 

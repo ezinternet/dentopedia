@@ -14,8 +14,20 @@ source_collection: external
 경치조골(indirect) 상악동 거상에서 RBH 층화 프로토콜([[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]])과 천공 위험([[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]])의 전제인 "CBCT RBH 측정값"이 실제보다 과소평가됨을 정량화. borderline RBH 의사결정에 직접 영향 — [[overviews/sinus-lift-technique-selection]] 보강.
 
 ## Three-line Summary
-Prospective observational study (n=50, CAS kit): CBCT underestimated infra-sinus residual ridge height by ~1.86 mm vs intraoperative measurement (4.66 vs 6.50 mm, p<0.001), arguing for dual-modality verification in borderline cases.
 
+Prospective observational study (n=50, CAS kit): CBCT underestimated infra-sinus residual
+
+ridge height by ~1.86 mm vs intraoperative measurement (4.66 vs
+
+6.50 mm, p<0.001), arguing for dual-modality verification in borderline cases.
+
+## 세줄요약
+
+Prospective observational study (n=50, CAS kit): CBCT underestimated infra-sinus residual
+
+ridge height by ~1.86 mm vs intraoperative measurement (4.66 vs
+
+6.50 mm, p<0.001), arguing for dual-modality verification in borderline cases.
 
 ## 1. Document Information
 - Journal of Indian Prosthodontic Society (JIPS) 2026. Prospective observational clinical study.

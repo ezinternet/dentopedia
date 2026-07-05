@@ -20,7 +20,6 @@ Mechanism-level review of how *Streptococcus mutans* — the keystone cariogenic
 
 ## Three-line Summary
 
-
 Narrative review (Crit Rev Microbiol 2025) of *S.
 
 mutans* collagen-binding proteins (SpaP, WapA, Cnm, Cbm) and their mechanobiology, characterized by AFM single-molecule (SMFS) and single-cell (SCFS) force spectroscopy, as drivers of dentin/ECM adhesion, coaggregation, virulence, and as targets for anti-biofilm caries prevention.
@@ -28,7 +27,6 @@ mutans* collagen-binding proteins (SpaP, WapA, Cnm, Cbm) and their mechanobiolog
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 리뷰 (Crit Rev Microbiol 2025) — 우식 핵심균 *S.
 

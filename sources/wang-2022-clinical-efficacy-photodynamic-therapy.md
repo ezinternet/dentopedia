@@ -15,7 +15,6 @@ First systematic review + meta-analysis quantifying PDT efficacy specifically fo
 
 ## Three-line Summary
 
-
 SR+MA of 8 RCTs (n=345): PDT and PDT+tongue scraper reduce H2S immediately post-treatment better than tongue scraper alone, but the advantage disappears at 7–90-day follow-up.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 8 RCTs (n=345): PDT and PDT+tongue scraper reduce H2S immediately post-
 (incomplete)
 
 ## 세줄요약
-
 
 8개 RCT(n=345) SR+MA: 광역동치료(PDT) 및 PDT+혀클리너는 시술 직후 H2S 감소에서 혀클리너 단독보다 우수하지만, 7~90일 추적에서는 차이가 없어진다.
 

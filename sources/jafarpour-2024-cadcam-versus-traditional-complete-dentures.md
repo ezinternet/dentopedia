@@ -15,7 +15,6 @@ This SR+MA from JOR 2024 extends [[wiki/complete-denture/srinivasan-2021-cad-cam
 
 ## Three-line Summary
 
-
 SR+MA (11 studies) finding CAD/CAM complete dentures comparable to traditional in patient satisfaction and OHRQoL, with milled CDs superior in clinician satisfaction and fewer adjustments, and CAD/CAM requiring significantly lower laboratory and total costs.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (11 studies) finding CAD/CAM complete dentures comparable to traditional i
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (11편): CAD/CAM 총의치는 환자 만족도·구강건강관련삶의질에서 전통 의치와 동등하며, 밀링 의치는 임상의 만족도·조정 횟수에서 우수하고 전체 비용은 CAD/CAM이 유의하게 낮음.
 

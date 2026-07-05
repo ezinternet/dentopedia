@@ -36,7 +36,6 @@ GRADE certainty is low-to-moderate throughout, 10/16 studies have serious risk o
 
 GRADE 근거수준 낮음~중등도, 62.5% 연구가 심각 비뚤림; 구강건조증 환자에서 고불소 예방 강화 + 방사선 유발 시 임플란트 증례 선정 신중이 임상 핵심.
 
-
 ## Summary
 
 According to PubMed ([DOI 10.1186/s12903-026-07815-8](https://doi.org/10.1186/s12903-026-07815-8)), this systematic review (16 studies, 1227 patients; no meta-analysis due to heterogeneity) is the first to synthesize xerostomia's impact across all dental treatment modalities — restorations, implants, periodontal therapy, prostheses, and patient-reported outcomes — spanning Sjögren's, radiation-induced, medication-induced, and other etiologies. The dominant finding is that xerostomia substantially shortens **restoration longevity** (hazard ratio ~2.6–2.9 vs controls; 5-year survival ~55% vs ~75% in Sjögren's), mainly through recurrent caries at restoration margins. **Implant survival** stays high (~94% average, moderate certainty) and comparable to controls in autoimmune xerostomia (97–100% in Sjögren's cohorts), but **radiation-induced xerostomia carries a distinctly higher implant failure risk** (failures within the first year; success ~86.7% under Albrektsson criteria). **Periodontal therapy** may heal more slowly short-term but reaches equivalent long-term outcomes with diligent maintenance. All rehabilitative treatments improved patient-reported OHRQoL, though Sjögren's patients stayed worse than controls. Overall certainty is low-to-moderate; 10/16 studies were at serious risk of bias.

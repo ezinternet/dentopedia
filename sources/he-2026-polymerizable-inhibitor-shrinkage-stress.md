@@ -19,7 +19,6 @@ text_filename: he-2026-polymerizable-inhibitor-shrinkage-stress.txt
 
 ## Three-line Summary
 
-
 In-vitro material-science study (Clin Oral Investig 2026, Turku/SCUT) synthesizing a polymerizable radical inhibitor PBHT (a methacrylate-functional BHT analog) and adding it at 1–3 wt% to a UDMA/Bis-EMA/TEGDMA composite: PBHT significantly lowered polymerization shrinkage stress (max stress-rate falling from 47.5 to 13.1 ×10⁻³ MPa·s at 3 wt%) where non-polymerizable BHT did not, while leaching far less inhibitor (1%PBHT 132 vs 1%BHT 549 µg/g), with 1 wt% PBHT giving the best overall balance.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro material-science study (Clin Oral Investig 2026, Turku/SCUT) synthesizi
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 재료연구(Clin Oral Investig 2026): 중합성 라디칼 억제제 PBHT(메타크릴레이트 결합형 BHT 유도체)를 합성해 UDMA/Bis-EMA/TEGDMA 레진에 1–3 wt% 첨가 — 비중합형 BHT는 수축응력을 못 낮췄으나 PBHT는 유의하게 저감(최대 수축응력속도 47.5→13.1 ×10⁻³ MPa·s, 3 wt%), 용출 억제제도 훨씬 적음(1%PBHT 132 vs 1%BHT 549 µg/g);
 

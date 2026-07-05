@@ -21,7 +21,6 @@ Ionosit (DMG, RMGI/compomer 라이너-베이스) 감시 인제스트 — Ionosit
 
 ## Three-line Summary
 
-
 Cochrane SR (8 RCTs, >700 participants) found inconsistent, low-quality evidence that a cavity liner under Class I/II posterior composite reduces postoperative hypersensitivity, and no evidence it improves restoration longevity.
 
 (incomplete)
@@ -29,7 +28,6 @@ Cochrane SR (8 RCTs, >700 participants) found inconsistent, low-quality evidence
 (incomplete)
 
 ## 세줄요약
-
 
 코크란 SR(8 RCT, 참가자 700명 초과): Class I/II 구치부 컴포지트 밑에 라이너를 깔아도 술후 과민증 감소 근거는 일관성 없는 저질(low-quality)이고, 수복물 수명 차이는 근거 없음.
 

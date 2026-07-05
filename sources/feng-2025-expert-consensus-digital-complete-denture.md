@@ -33,8 +33,6 @@ Digital complete dentures achieve comparable patient satisfaction and mechanical
 
 디지털 총의치는 기존 방식과 비교해 환자만족도 및 역학적 성능이 동등하고 시간 효율성이 우수하나, 초기 장비·교육 투자 비용이 높고 총의치 안정성(수평 운동 저항성)에 대한 표준화된 평가 기준이 부족함.
 
-
-
 ## 1. Document Information
 
 - **Title**: Expert consensus on digital restoration of complete dentures

@@ -19,7 +19,6 @@ Quantifies the Schneiderian membrane perforation rate specific to **graftless** 
 
 ## Three-line Summary
 
-
 SR+MA (14 studies, 2119 graftless transcrestal sinus-lift sites): pooled Schneiderian membrane perforation incidence 1% (95% CI 0–6%), early implant failure ≤12mo 1%, no postoperative sinusitis/epistaxis;
 
 subgroup shows motor-driven OD 34% perforation vs conventional osteotome 0% (GRADE very low).
@@ -27,7 +26,6 @@ subgroup shows motor-driven OD 34% perforation vs conventional osteotome 0% (GRA
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (14편, 무이식 경치조골 상악동거상 부위 2119곳): 슈나이더막 천공 발생률 통합 1% (95% CI 0–6%), 12개월 내 조기 임플란트 실패 1%, 술후 부비동염·비출혈 보고 없음.
 

@@ -19,7 +19,6 @@ Clear aligner therapy is widely assumed to either protect against or provoke bru
 
 ## Three-line Summary
 
-
 Systematic review (11 studies, n=818, 72.8% female;
 
 no meta-analysis possible) finding clear aligners have a predominantly **neutral** effect on bruxism — often reducing tonic contractions (clenching) but with inconsistent/transient effects on phasic activity (grinding) and no change in overall sleep-bruxism index;
@@ -27,7 +26,6 @@ no meta-analysis possible) finding clear aligners have a predominantly **neutral
 GRADE certainty moderate (RCTs) to very low (non-randomised).
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (11편, n=818, 여성 72.8%, 메타분석 불가): 투명교정장치 (Clear Aligner)는 이갈이 (Bruxism)에 대체로 **중립적** — 긴장성 수축 (tonic/clenching)은 종종 감소시키나 위상성 수축 (phasic/grinding)과 수면이갈이지수 (SB index)에는 일관된 영향 없음.
 

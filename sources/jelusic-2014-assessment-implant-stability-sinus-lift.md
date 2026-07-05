@@ -12,7 +12,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Prospective clinical study (44 test + 48 control patients, 170 Astra Tech implants): ISQ values **equal between augmented and non-augmented posterior maxilla** at 4 months post-placement, regardless of grafting material (β-TCP vs 60% HA + 40% β-TCP).
+
+Prospective clinical study (44 test + 48 control patients, 170 Astra Tech
+
+implants): ISQ values **equal between augmented and non-augmented posterior maxilla** at 4
+
+months post-placement, regardless of grafting material (β-TCP vs 60% HA + 40% β-TCP).
+
+## 세줄요약
+
+Prospective clinical study (44 test + 48 control patients, 170 Astra Tech
+
+임플란트): ISQ values **equal between augmented and non-augmented posterior maxilla** at 4
+
+months post-placement, regardless of grafting material (β-TCP vs 60% HA + 40% β-TCP).
 
 ## 1. Document Information
 Original research, University of Zagreb. Bilingual Croatian/English. Astra Tech OsseoSpeed implants used in all groups.

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 ADA evidence-based clinical practice guideline (expert panel, GRADE): for immunocompetent adults, antibiotics should NOT be prescribed for symptomatic irreversible pulpitis ± symptomatic apical periodontitis (strong, low certainty) nor for pulp necrosis with apical periodontitis/localized acute apical abscess (conditional, very low certainty) — definitive conservative dental treatment (pulpotomy/pulpectomy/RCT/I&D) is first-line;
 
 antibiotics only if no immediate access (delayed amoxicillin 500 mg TID) or systemic involvement.
@@ -23,7 +22,6 @@ antibiotics only if no immediate access (delayed amoxicillin 500 mg TID) or syst
 (incomplete)
 
 ## 세줄요약
-
 
 미국치과의사협회 (American Dental Association, ADA) 근거기반 임상진료지침(전문가 패널, GRADE): 면역정상 성인에서 증상성 비가역적 치수염 (Symptomatic Irreversible Pulpitis, SIP) ± 증상성 치근단치주염 (Symptomatic Apical Periodontitis, SAP)에 항생제 처방 금지(강한 권고, 낮은 확실성), 치수괴사+치근단농양에도 비권장(조건부, 매우 낮은 확실성) — 1차 치료는 결정적 보존 치과치료 (Definitive Conservative Dental Treatment, DCDT: 치수절단·치수절제·근관치료·절개배농);
 

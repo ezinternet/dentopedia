@@ -29,8 +29,6 @@ Extreme occlusal-curve deviation after ≥5 years of posterior absence complicat
 
 5년 이상 방치된 후방 무대합 부위는 교합 곡선 변형이 심해 조화로운 교합 재건이 어려워지며 기공 난이도 증가.
 
-
-
 ## 1. Document Information
 
 - **Title**: Deviation from the Broadrick occlusal curve following posterior tooth loss

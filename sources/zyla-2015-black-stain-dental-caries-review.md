@@ -19,7 +19,6 @@ text_filename: zyla-2015-black-stain-dental-caries-review.txt
 
 ## Three-line Summary
 
-
 Narrative review (2001–2014 literature) synthesizing etiology, prevalence (2.4–18%), microbiology (Actinomyces-dominant), chemistry (iron/sulfur complexes), and salivary factors explaining the inverse association between black stain and dental caries.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review (2001–2014 literature) synthesizing etiology, prevalence (2.4
 (incomplete)
 
 ## 세줄요약
-
 
 서사적 리뷰 (2001–2014): 블랙 스테인 (Black Stain, BS) 유병률 2.4–18%, 주요 원인균 Actinomyces, 철/황 복합체가 착색 원인이며 타액 칼슘·완충능 증가로 우식 경험 저하와 관련됨.
 

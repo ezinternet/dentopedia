@@ -19,7 +19,6 @@ text_filename: lee-2020-msmt-mod-ratio-sinus-augmentation-risk.txt
 
 ## Three-line Summary
 
-
 Retrospective study (n=120) from a Korean tertiary center demonstrating that MSMT/MOD ratio — not MOD alone — significantly differentiates preoperative sinusitis-risk groups and should guide sinus augmentation planning alongside osteomeatal complex assessment.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective study (n=120) from a Korean tertiary center demonstrating that MSM
 (incomplete)
 
 ## 세줄요약
-
 
 한국 3차 병원 후향적 연구(n=120)로, 상악동점막두께(MSMT)/자연공-동저 거리(MOD) 비율이 군간 유의한 차이를 보임을 확인;
 

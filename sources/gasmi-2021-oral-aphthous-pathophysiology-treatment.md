@@ -15,21 +15,19 @@ Adds a pathophysiology-plus-treatment-ladder reference for aphthous ulcers, comp
 
 ## Three-line Summary
 
+Narrative review (Archives Razi Inst 2021) of oral aphthous ulcers covering pathophysiology, microbial/microbiota contributions, and the three morphological types (minor, major, herpetiform) as guides to management.
 
-Narrative review of oral aphthosis covering pathophysiology, three morphological types (minor/major/herpetiform), differential diagnosis (idiopathic vs systemic), and a treatment ladder with topical corticosteroids as first line.
+Etiology spans local trauma to systemic disease (Behçet syndrome, inflammatory bowel disease, hematinic deficiency); systematic history and examination are necessary to distinguish truly idiopathic RAS from disease-associated presentations.
 
-(incomplete)
-
-(incomplete)
+Topical corticosteroids are first-line for symptom control in idiopathic cases; systemic agents and further investigation reserved for progressive or systemic-disease-associated disease.
 
 ## 세줄요약
 
+구강 아프타성 궤양의 병태생리·미생물/미생물군집 기여도와 세 형태(소형·대형·포진형)를 관리 지침으로 다룬 내러티브 리뷰(Archives Razi Inst 2021).
 
-구강 아프타의 병태생리, 세 형태(소·대·포진형), 감별진단(특발성 vs 전신질환 연관), 국소 코르티코스테로이드를 1차로 하는 치료 단계를 다룬 내러티브 리뷰.
+병인은 국소 외상에서 전신질환(베체트증후군·염증성장질환·조혈 결핍)까지 범위; 특발성 RAS와 질환 연관 궤양을 감별하려면 철저한 병력·검진 필수.
 
-(incomplete)
-
-(incomplete)
+특발성 증례는 국소 코르티코스테로이드 1차 치료; 진행성 또는 전신질환 연관 궤양은 전신제·추가 검사 고려.
 
 ## 1. Document Information
 

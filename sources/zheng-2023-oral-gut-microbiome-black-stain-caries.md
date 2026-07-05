@@ -19,7 +19,6 @@ This study extends [[caries/li-2015-microbiota-black-stain-primary-dentition]] b
 
 ## Three-line Summary
 
-
 Cross-sectional study (epidemiologic survey n=2,675 + microbiome n=4 groups) found EBS prevalence of 12.10% in preschool children, with EBS associated with reduced caries (lower dmft), Actinomyces/Rothia enrichment in EBS+ caries-free plaque, and a unique Lactobacillus-enriched gut microbiome signature in EBS+ children.
 
 (incomplete)
@@ -27,7 +26,6 @@ Cross-sectional study (epidemiologic survey n=2,675 + microbiome n=4 groups) fou
 (incomplete)
 
 ## 세줄요약
-
 
 취학 전 아동 2,675명의 역학 조사에서 EBS(조기 흑색 착색) 유병률은 12.10%이었으며, EBS는 우식 감소와 관련되고 EBS+ 무우식 치태에서 Actinomyces·Rothia가 증가하였으며 EBS+ 아동의 장내 미생물에서 Lactobacillus 고유 신호가 처음 보고되었다.
 

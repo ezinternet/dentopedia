@@ -15,7 +15,6 @@ Novel glutaraldehyde (GA) cross-linked mineralized polyanionic collagen (PAC) me
 
 ## Three-line Summary
 
-
 Animal study (n=190 Wistar rats, 5-mm CSD) showing that GA-crosslinked mineralized PAC collagen membranes (0, 25, 75 HA cycles) promoted significantly more new bone formation than a commercial membrane while avoiding resorption and reducing TNF-α at 4 and 12 weeks.
 
 (incomplete)
@@ -23,7 +22,6 @@ Animal study (n=190 Wistar rats, 5-mm CSD) showing that GA-crosslinked mineraliz
 (incomplete)
 
 ## 세줄요약
-
 
 동물실험(흰쥐 190마리, 5-mm 두개골 임계 결손) — GA 가교 광물화 폴리음이온 콜라겐 막이 상업용 막보다 신생골 형성이 현저히 우수하고 막 흡수 없이 TNF-α를 감소시킴을 보임.
 

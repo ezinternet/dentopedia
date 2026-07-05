@@ -34,7 +34,6 @@ Smoking — not loading protocol — was the only significant predictor of margi
 
 골소실의 유일한 유의 예측인자는 흡연(흡연자 −1.90 vs 비흡연자 −0.40 mm, p=0.021), 부하 프로토콜 아님; 1차 안정성 충분한 치유 심미영역 단일치에서 IL은 5년 시점 DL만큼 안전.
 
-
 ## Summary
 
 This 5-year prospective RCT (Malmö, Sweden; NCT02770846) is the long-term extension of a previously published 1-year trial, comparing **immediate loading (IL)** vs **delayed loading (DL)** of single-tooth implants in the maxillary aesthetic zone (teeth 15–25). Fifty patients with **healed** edentulous sites (≥4 months post-extraction, no grafting, gaps flanked by natural roots) were randomized; all IL implants required **≥30 Ncm insertion torque**. At 5 years the two protocols were **clinically and esthetically indistinguishable** across every outcome — survival, success, marginal bone loss, papilla index, PES, and WES.

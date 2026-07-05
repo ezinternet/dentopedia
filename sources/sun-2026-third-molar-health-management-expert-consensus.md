@@ -19,7 +19,6 @@ A 2026 Chinese multi-center expert consensus covering the full clinical lifecycl
 
 ## Three-line Summary
 
-
 Chinese multi-center expert consensus (2026) covering the full clinical spectrum of third molar management: developmental trajectory, classification, extraction indications, preoperative preparation, surgical techniques (including coronectomy, root-removal-first, orthodontic traction, and digital navigation), socket graft materials, severe-complication rescue protocols, and functional utilization via autotransplantation or orthodontic mesialization.
 
 (incomplete)
@@ -27,7 +26,6 @@ Chinese multi-center expert consensus (2026) covering the full clinical spectrum
 (incomplete)
 
 ## 세줄요약
-
 
 2026년 중국 다기관 전문가 합의문으로, 사랑니(제3대구치)의 발생·분류·발치 적응증·수술 기법(발치 전 치관절제술, 치근우선 발치, 교정적 견인, 디지털 가이드)·소켓 이식재·중증 합병증 처치 및 기능적 활용(자가치아이식, 교정적 근심이동)을 총망라한 최고 수준의 지침서.
 

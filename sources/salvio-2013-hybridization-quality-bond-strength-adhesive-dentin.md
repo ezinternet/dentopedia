@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro microtensile study (10 molars, 5 adhesives) demonstrating that two-step self-etch adhesives (especially Clearfil SE Bond) achieve higher bond strength and superior hybridization quality vs single-step self-etch and etch-and-rinse systems.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro microtensile study (10 molars, 5 adhesives) demonstrating that two-step
 (incomplete)
 
 ## 세줄요약
-
 
 10개 대구치, 5종 접착제 비교 in vitro 연구: 2-step 자가산부식(특히 Clearfil SE Bond)이 single-step 자가산부식 및 산부식-수세 방식 대비 높은 접착강도와 우수한 혼성층 질을 보임.
 

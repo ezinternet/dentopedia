@@ -15,7 +15,6 @@ Medium- and long-term stability of soft tissue augmentation (STA) at implant sit
 
 ## Three-line Summary
 
-
 Systematic review of 15 prospective studies (≥36-month follow-up) finds that soft tissue augmentation at implants yields high survival rates, stable soft tissue margins, and maintained KMW/MT gains — especially with CTG-based bilaminar techniques — while non-augmented sites show progressive apical recession.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review of 15 prospective studies (≥36-month follow-up) finds that s
 (incomplete)
 
 ## 세줄요약
-
 
 15편 전향적 연구(추적 ≥36개월)를 분석한 체계적 고찰: CTG 기반 이중층 술식으로 연조직 증대 시 임플란트 생존율 높음(90.9–100%), 각화점막폭·점막두께 유지 또는 증가, 비증대 부위는 점진적 점막퇴축 발생.
 

@@ -19,7 +19,6 @@ The wiki's curing-mode evidence so far is anchored in dual-cure cement chemistry
 
 ## Three-line Summary
 
-
 In vitro preliminary study (n=81 specimens, 27 groups: 3 composites × 3 exposure modes × 3 distances) using Raman spectroscopy to measure degree of conversion (DC): material type and distance significantly affected top-surface DC (p<0.001, p=0.049), while material type and exposure mode significantly affected bottom-surface DC (p<0.001, p=0.032);
 
 flowable composite had the highest DC (top 74%, bottom >60%), bulk-fill the lowest (bottom <45%, below the ~55% clinically suggested minimum).
@@ -27,7 +26,6 @@ flowable composite had the highest DC (top 74%, bottom >60%), bulk-fill the lowe
 (incomplete)
 
 ## 세줄요약
-
 
 시험관내 예비연구 (n=81 시편, 27개 그룹: 복합레진 3종 × 노출모드 3종 × 거리 3단계), 라만분광법으로 전환율 (Degree of Conversion, DC) 측정: 상면 DC는 재료·거리가 유의(p<0.001, p=0.049), 하면 DC는 재료·노출모드가 유의(p<0.001, p=0.032);
 

@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서 치과의사 항생제 과잉처방률 정량화 — 비적응 케이스에 광범위 항생제 처방 흔함; 근관치료가 우선 치료라는 ESE/AAE 입장과 괴리.
 
+SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서
+
+치과의사 항생제 과잉처방률 정량화 — 비적응 케이스에 광범위
+
+항생제 처방 흔함; 근관치료가 우선 치료라는 ESE/AAE 입장과 괴리.
+
+## 세줄요약
+
+SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서
+
+치과의사 항생제 과잉처방률 정량화 — 비적응 케이스에 광범위
+
+항생제 처방 흔함; 근관치료가 우선 치료라는 ESE/AAE 입장과 괴리.
 
 ## 1. Document Information
 - Authors: Méndez-Millán et al., Univ Sevilla Endodontic Section

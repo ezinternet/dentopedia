@@ -15,8 +15,20 @@ source_collection: external
 CTS의 **etiology부터 prevention까지** 4축 narrative review — iatrogenic vs non-iatrogenic 원인 framework 제공. [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] umbrella review가 치료에 집중한 반면, 본 review는 etiology·prevention까지 포괄.
 
 ## Three-line Summary
-Narrative review (Shandong First Medical University + Korea University 협력, PRM 2021): CTS의 etiology·diagnosis·management·prevention 4축 종합 review. Iatrogenic + non-iatrogenic 원인 framework.
 
+Narrative review (Shandong First Medical University +
+
+Korea University 협력, PRM 2021): CTS의 etiology·diagnosis·management·prevention
+
+4축 종합 review. Iatrogenic + non-iatrogenic 원인 framework.
+
+## 세줄요약
+
+Narrative review (Shandong First Medical University +
+
+Korea University 협력, PRM 2021): CTS의 etiology·diagnosis·management·prevention
+
+4축 종합 review. Iatrogenic + non-iatrogenic 원인 framework.
 
 ## 1. Document Information
 저자: Shandong First Medical University (중국) + Korea University 구강악안면외과 (한국 이의석). PRM = Pain Research and Management (Hindawi).

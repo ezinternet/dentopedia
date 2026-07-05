@@ -32,8 +32,6 @@ CSPS 치약이 Schiff·Yeaple 두 지표 모두에서 Day 3부터 모든 시점�
 
 DHEQ-48 구강건강 관련 삶의 질(Oral Health-Related Quality of Life, OHRQoL)은 양군 모두 개선됐으나 군간 차이는 유의하지 않았고, 연구는 제조사(Haleon) 지원.
 
-
-
 ## 1. Document Information
 
 - **Title**: Time-course of clinical efficacy of a 5% calcium-sodium phosphosilicate toothpaste on dentine hypersensitivity

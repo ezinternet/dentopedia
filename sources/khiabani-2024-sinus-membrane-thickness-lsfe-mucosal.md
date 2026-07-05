@@ -15,7 +15,6 @@ The current synthesis page [[wiki/overviews/sinus-lift-lateral-2026-synthesis]] 
 
 ## Three-line Summary
 
-
 Prospective controlled trial (n=40 sinuses, 20 per group) comparing preoperative SM thickness <5 mm vs >5 mm after lateral SFE: thickened mucosa resolves significantly (6.8 → 3.4 mm, p<.001) without rhinosinusitis, and is not a contraindication to LSFE.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective controlled trial (n=40 sinuses, 20 per group) comparing preoperative
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 대조 임상시험 (n=40 상악동, 각 군 20예): 수술 전 상악동 점막 두께 (Sinus Membrane, SM) <5 mm 대 >5 mm 비교;
 

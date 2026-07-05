@@ -18,7 +18,6 @@ Adds the endodontic arm to the `artificial-intelligence` category — the strong
 
 ## Three-line Summary
 
-
 SR+MA of diagnostic test accuracy (18 studies SR, 6 pooled;
 
 QUADAS-2 + GRADE) of deep learning vs expert clinicians for detecting periapical radiolucent lesions: pooled sensitivity 0.925 (95% CI 0.862–0.960), specificity 0.852 (0.810–0.885), diagnostic OR 71.7;
@@ -26,7 +25,6 @@ QUADAS-2 + GRADE) of deep learning vs expert clinicians for detecting periapical
 GRADE certainty "high"; most studies had risk of bias.
 
 ## 세줄요약
-
 
 치근단 방사선투과 병소를 검출하는 딥러닝 vs 전문의의 진단정확도 체계적 문헌고찰+메타분석(SR 18편, 풀링 6편;
 

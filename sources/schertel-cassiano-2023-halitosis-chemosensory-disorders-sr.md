@@ -16,7 +16,6 @@ pmid: "33660384"
 
 ## Three-line Summary
 
-
 Systematic review (Oral Diseases, 2023) examining the bidirectional association between halitosis and chemosensory disorders (olfactory and gustatory), finding evidence that halitosis patients may report altered smell/taste perception, likely via shared oral/nasal pathophysiological mechanisms.
 
 (incomplete)
@@ -24,7 +23,6 @@ Systematic review (Oral Diseases, 2023) examining the bidirectional association 
 (incomplete)
 
 ## 세줄요약
-
 
 구강 악취(Halitosis)와 화학감각장애(Chemosensory Disorder) — 후각·미각 이상 — 의 연관성을 체계적으로 검토한 SR로, 구강 악취 환자에서 후각·미각 변화가 동반될 수 있음을 시사하는 근거를 제시함.
 

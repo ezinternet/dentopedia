@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Network MA (IJPPP 2025, 16 RCT, n=2021): NSAIDs·코르티코스테로이드가 비외과적 근관치료 후 8~72h 전 시점에서 통증 유의 감소; 높은 이질성으로 최적 약제 결론 유보.
 
+Network MA (IJPPP 2025, 16 RCT, n=2021):
+
+NSAIDs·코르티코스테로이드가 비외과적 근관치료 후 8~72h 전 시점에서
+
+통증 유의 감소; 높은 이질성으로 최적 약제 결론 유보.
+
+## 세줄요약
+
+Network MA (IJPPP 2025, 16 RCT, n=2021):
+
+NSAIDs·코르티코스테로이드가 비외과적 근관치료 후 8~72h 전 시점에서
+
+통증 유의 감소; 높은 이질성으로 최적 약제 결론 유보.
 
 ## 1. Document Information
 Int J Physiol Pathophysiol Pharmacol 2025;17(4):116-130. Scopus·PubMed·Google Scholar 검색(~2024.02). 16 RCT, 2,021명 포함. 다기관 공동 저술(이란·사이프러스·중국).

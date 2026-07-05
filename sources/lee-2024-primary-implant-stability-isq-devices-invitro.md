@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n=60 implants, polyurethane bone blocks) comparing Osstell Beacon+ (ISQ/RFA) vs Anycheck (IST/DCA): both devices showed similar trends across bone densities and lengths, with Anycheck simpler to use regardless of operator expertise.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro study (n=60 implants, polyurethane bone blocks) comparing Osstell Beaco
 (incomplete)
 
 ## 세줄요약
-
 
 인공 골블록(n=60) 체외 연구에서 Osstell Beacon+(ISQ/공명주파수분석)과 Anycheck(IST/감쇠용량분석)는 골밀도·임플란트 길이 변화에 따른 유사한 경향을 보였으며, Anycheck가 측정자 숙련도에 무관하게 사용이 간편했다.
 

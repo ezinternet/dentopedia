@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-밀폐형 UV 처리 임플란트 증례보고: UV 광기능화로 초친수성·양전하 표면 구현 → stability dip 없이 ISQ 조기 상승 → 식립 1주~4주 내 조기부하 성공.
 
+밀폐형 UV 처리 임플란트 증례보고: UV 광기능화로
+
+초친수성·양전하 표면 구현 → stability dip 없이
+
+ISQ 조기 상승 → 식립 1주~4주 내 조기부하 성공.
+
+## 세줄요약
+
+밀폐형 UV 처리 임플란트 증례보고: UV 광기능화로
+
+초친수성·양전하 표면 구현 → stability dip 없이
+
+ISQ 조기 상승 → 식립 1주~4주 내 조기부하 성공.
 
 ## 1. Document Information
 - **Journal**: Implantology 2017;21(2):110-127 (대한구강악안면임플란트학회지)

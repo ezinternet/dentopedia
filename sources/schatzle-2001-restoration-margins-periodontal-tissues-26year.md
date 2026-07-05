@@ -15,7 +15,6 @@ This is the foundational longitudinal evidence behind the modern guidance synthe
 
 ## Three-line Summary
 
-
 26-year prospective longitudinal cohort (160 Norwegian males;
 
 615 control vs 98 test mesial sites) showing subgingival filling margins cause higher plaque, gingival inflammation, and ~more attachment loss than supragingival/sound surfaces, with damage detectable 1–3 years after placement followed by a "burn-out" effect.
@@ -23,7 +22,6 @@ This is the foundational longitudinal evidence behind the modern guidance synthe
 (incomplete)
 
 ## 세줄요약
-
 
 26년 전향 종단 코호트(노르웨이 남성 160명;
 

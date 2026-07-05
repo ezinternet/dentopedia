@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (27 studies: 18 sinus lift, 9 zygomatic implant) comparing pooled sinusitis prevalence: sinus lift 1.11% vs zygomatic implants 3.76%;
 
 technique matters — zygomatic sinus slot 21.62%, extrasinus 0.00%, lateral window 1.35%, transcrestal 0.00%.
@@ -23,7 +22,6 @@ technique matters — zygomatic sinus slot 21.62%, extrasinus 0.00%, lateral win
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (27편: 상악동거상술 18편, 협골 임플란트 9편) — 상악동거상술 후 부비동염 1.11% 대 협골 임플란트 3.76%;
 

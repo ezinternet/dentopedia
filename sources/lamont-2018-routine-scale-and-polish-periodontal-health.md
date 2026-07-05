@@ -21,7 +21,6 @@ text_filename: lamont-2018-routine-scale-and-polish-periodontal-health.txt
 
 ## Three-line Summary
 
-
 Cochrane systematic review + meta-analysis (2 RCTs, n=1711, UK general practice) finding that routine scale & polish makes little or no difference to gingivitis, probing depths, or oral-health-related quality of life over 2–3 years in adults without severe periodontitis (high-certainty), with only a small, clinically uncertain reduction in calculus.
 
 (incomplete)
@@ -29,7 +28,6 @@ Cochrane systematic review + meta-analysis (2 RCTs, n=1711, UK general practice)
 (incomplete)
 
 ## 세줄요약
-
 
 중증 치주염이 없는 정기 내원 성인에서 루틴 스케일링·폴리싱(프로필락시스)이 치은염·치주낭 깊이·삶의 질에 2~3년간 거의 차이를 만들지 않는다는 코크란 SR+MA(RCT 2편, 1711명);
 

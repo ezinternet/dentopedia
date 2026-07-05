@@ -19,7 +19,6 @@ Super-Bond(4-META/MMA-TBB계 레진시멘트)의 적응증을 현대 CAD-CAM 보
 
 ## Three-line Summary
 
-
 In-vitro SBS study (CAD-CAM PEEK, 244 specimens, n=10/group) showing alumina airborne-particle abrasion + non-thermal plasma treatment, combined with MMA-based luting systems (Beautylink BL and Super-Bond SB), gives superior or comparable shear bond strength and markedly improved post-thermocycling (20,000×) durability vs single treatments;
 
 AB drives durability for SB, plasma adds wettability/durability especially for BL.
@@ -27,7 +26,6 @@ AB drives durability for SB, plasma adds wettability/durability especially for B
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 전단결합강도(SBS) 연구(CAD-CAM PEEK 244개, 군당 n=10): 알루미나 샌드블라스팅(AB) 후 비열 플라즈마(PT) 병용 + MMA계 레진시멘트(Beautylink·Super-Bond)가 단일 처리보다 우월하거나 동등한 결합강도와 2만회 열순환 후 향상된 내구성을 보임 — Super-Bond는 AB가 내구성의 주역, Beautylink는 플라즈마가 젖음성·내구성에 기여.
 

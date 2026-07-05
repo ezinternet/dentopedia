@@ -15,7 +15,6 @@ Part of a recent GBR / immediate-implant wound-closure collection. This two-coho
 
 ## Three-line Summary
 
-
 Two retrospective cohorts (118 patients;
 
 58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing of the exposed collagen membrane gave bone/soft-tissue outcomes equivalent to flap-released complete closure when initial crestal wound width was ≤6 mm, with less pain/swelling.
@@ -23,7 +22,6 @@ Two retrospective cohorts (118 patients;
 (incomplete)
 
 ## 세줄요약
-
 
 즉시식립 + 동시 GBR(Bio-Gide) 두 후향적 코호트(118명;
 

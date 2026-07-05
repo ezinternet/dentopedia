@@ -19,7 +19,6 @@ text_filename: liu-2019-periodontal-bone-ligament-cementum-regeneration.txt
 
 ## Three-line Summary
 
-
 Systematic review of stem cell- and scaffold-based strategies (3D bioprinting, gene therapy, layered biomimetics) for simultaneous bone–PDL–cementum complex regeneration in periodontitis.
 
 (incomplete)
@@ -27,7 +26,6 @@ Systematic review of stem cell- and scaffold-based strategies (3D bioprinting, g
 (incomplete)
 
 ## 세줄요약
-
 
 치주염에서 뼈–치주인대–백악질 복합체의 동시 재생을 위한 줄기세포·3D 바이오프린팅·유전자치료·층별 생체모방 전략을 망라한 체계적 고찰.
 

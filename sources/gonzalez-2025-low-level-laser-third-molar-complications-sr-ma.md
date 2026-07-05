@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review and meta-analysis confirming that low-level diode laser therapy (LLLT) significantly reduces pain, swelling, and trismus following surgical third molar extraction compared to controls.
+
+Systematic review and meta-analysis confirming that low-level diode
+
+laser therapy (LLLT) significantly reduces pain, swelling, and
+
+trismus following surgical third molar extraction compared to controls.
+
+## 세줄요약
+
+체계적 고찰 (SR) and 메타분석 (MA) confirming that low-level diode
+
+laser therapy (LLLT) 유의미한ly reduces pain, swelling, and
+
+trismus following surgical third molar extraction compared to controls.
 
 ## 1. Document Information
 - **Journal**: Journal of the American Dental Association (JADA) 2025;156(3):211-224.E11

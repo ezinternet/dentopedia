@@ -18,7 +18,6 @@ literature-surveillance `cracked-tooth` sweep(2026-06-19)에서 적립된 최대
 
 ## Three-line Summary
 
-
 Abstract-only SR+MA (27 studies, 26 pooled): for cracked teeth, direct restorations without cuspal coverage on vital teeth raise pulpal-complication risk (RR 3.2) and extraction risk (RR 8.1) vs full crowns, and endodontically treated cracked teeth without full crowns have 11.3× higher extraction risk — full-crown restoration strongly recommended for symptomatic/RCT cracked teeth, while asymptomatic teeth may be monitored.
 
 (incomplete)
@@ -26,7 +25,6 @@ Abstract-only SR+MA (27 studies, 26 pooled): for cracked teeth, direct restorati
 (incomplete)
 
 ## 세줄요약
-
 
 abstract-only SR+MA(27편, 26편 pooled): 균열치에서 생활치 direct 수복(cuspal coverage 없음)은 full-crown 대비 치수합병증 RR 3.2·발치 RR 8.1, 근관치료 균열치는 full-crown 없으면 발치 위험 11.3배 → 증상성·근관치료 균열치엔 full-crown 강력 권고, 무증상은 monitoring 가능.
 

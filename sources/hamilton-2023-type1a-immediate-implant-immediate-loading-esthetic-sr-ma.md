@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-ITI Consensus Conference SR+MA (COIR 2023 Suppl 26, n=3118 publications screened / 68 included, mean 37.2 implants per study, mean follow-up 2.8 y): 상악 심미부위 single tooth 즉시식립 + 즉시부하 (Type 1A) selection criteria — 엄격한 환자·부위 선정 시 high survival; facial gap >2 mm (+3.1 PP, p=0.04) + 근관 감염 부재 (+2.6 PP, p=0.004) 유의한 우호 인자.
+
+ITI Consensus Conference SR+MA (COIR 2023 Suppl 26, n=3118 publications screened / 68 included, mean 37.2 implants per study,
+
+mean follow-up 2.8 y): 상악 심미부위 single tooth 즉시식립 + 즉시부하 (Type 1A) selection criteria — 엄격한 환자·부위 선정
+
+시 high survival; facial gap >2 mm (+3.1 PP, p=0.04) + 근관 감염 부재 (+2.6 PP, p=0.004) 유의한 우호 인자.
+
+## 세줄요약
+
+ITI Consensus Conference SR+MA (COIR 2023 Suppl 26, n=3118 publications screened / 68 included, mean 37.2 임플란트 per study,
+
+mean follow-up 2.8 y): 상악 심미부위 single tooth 즉시식립 + 즉시부하 (Type 1A) selection criteria — 엄격한 환자·부위 선정
+
+시 high survival; facial gap >2 mm (+3.1 PP, p=0.04) + 근관 감염 부재 (+2.6 PP, p=0.004) 유의한 우호 인자.
 
 ## 1. Document Information
 - Authors: Hamilton A (Univ Western Australia + Harvard), Gonzaga L, Amorim K, Wittneben JG (Bern), Martig L (Significantis Data Science), Morton D (Indiana), Martin W (Florida), Gallucci GO (Harvard), Wismeijer D (Netherlands)

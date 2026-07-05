@@ -18,7 +18,6 @@ This paper isolates the source of water entrapment in one-step self-etch adhesiv
 
 ## Three-line Summary
 
-
 In-vitro TEM/silver-impregnation study (experimental single-bottle one-step self-etch adhesive): bonding to caries-affected dentin with occluded tubules eliminated water-treeing and water-droplets, whereas sound dentin showed both — demonstrating transdentinal water flux (not just residual solvent) drives water-treeing.
 
 (incomplete)
@@ -26,7 +25,6 @@ In-vitro TEM/silver-impregnation study (experimental single-bottle one-step self
 (incomplete)
 
 ## 세줄요약
-
 
 체외 투과전자현미경(TEM)·은침착(silver-impregnation) 연구 (실험용 단일병 1단계 자가부식 접착제): 세관(tubule)이 폐쇄된 우식이환상아질(caries-affected dentin)에 접착 시 water-treeing과 water-droplet이 사라진 반면, 정상상아질(sound dentin)에서는 둘 다 관찰됨 — 잔류 용매가 아니라 경상아질 수분 이동(transdentinal water flux)이 water-treeing의 주된 동인임을 입증.
 

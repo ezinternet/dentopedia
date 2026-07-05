@@ -19,7 +19,6 @@ text_filename: ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.txt
 
 ## Three-line Summary
 
-
 RCT (n=60) comparing WANDSTA computer-controlled single tooth anesthesia (intra-ligamentary, 4% articaine) versus conventional IANB (4% articaine) for surgical removal of impacted mandibular third molars: STA had faster onset (2.2 ± 0.25 min difference, p<0.05) and lower postoperative pain/trismus, but required more supplemental long buccal nerve blocks (50% vs 23.3%) and showed higher intra-operative VAS during tooth elevation.
 
 (incomplete)
@@ -27,7 +26,6 @@ RCT (n=60) comparing WANDSTA computer-controlled single tooth anesthesia (intra-
 (incomplete)
 
 ## 세줄요약
-
 
 RCT(n=60): 매복 하악 제3대구치 외과적 발치에서 WANDSTA 컴퓨터 제어 단일치아마취(치주인대내 주사, 4% articaine)가 전통적 IANB(4% articaine) 대비 발현 시간이 2.2(±0.25)분 더 빠르고(p<0.05) 술후 통증·개구제한은 낮았으나, 장협신경 추가블록 필요율이 더 높았고(50% vs 23.3%) 발치 시 VAS는 더 높았음.
 

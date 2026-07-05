@@ -19,7 +19,6 @@ This SR+MA fixes the evidence on how horizontal condylar guidance (HCG) angle is
 
 ## Three-line Summary
 
-
 SR+MA (20 of 22 cross-sectional studies, n=325 completely edentulous patients) comparing extraoral Gothic arch tracing against radiographic and wax methods for measuring horizontal condylar guidance (HCG) angle: cephalogram and panoramic radiograph (OPG) yield significantly HIGHER HCG angles than Gothic arch tracing (cephalogram pooled MD ≈ +10.2–10.7°, OPG ≈ +5.1°, both p<0.05 bilaterally), while CBCT and protrusive interocclusal wax record show NO significant difference — authors conclude OPG is the best accurate alternative for programming the semi-adjustable articulator.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA (20 of 22 cross-sectional studies, n=325 completely edentulous patients) c
 (incomplete)
 
 ## 세줄요약
-
 
 무치악 환자(n=325)에서 수평과로각(Horizontal Condylar Guidance, HCG)을 재는 구외 고딕아치 트레이싱(extraoral Gothic arch tracing)을 방사선·왁스 방법과 비교한 SR+MA(22편 중 20편 메타분석): 측방두부규격(cephalogram)과 파노라마(OPG)는 고딕아치보다 유의하게 큰 HCG 값(cephalogram 약 +10.2~10.7°, OPG 약 +5.1°, 양측 p<0.05)을 주고, CBCT와 단백 교합간 왁스기록(interocclusal wax record)은 차이 없음 — 저자는 반조절성 교합기 프로그래밍에 OPG가 가장 정확한 대안이라 결론.
 

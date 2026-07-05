@@ -19,21 +19,19 @@ The wiki's handheld/portable-X-ray coverage so far is entirely about radiation-d
 
 ## Three-line Summary
 
+Prospective quality-assessment study (Gerodontology 2025; 127 single-tooth intraoral radiographs from domiciliary nursing-home dental care in Germany, handheld Nomad Pro 2 device, all by one experienced operator) independently graded by three dentists of differing expertise against German Federal Dental Association quality criteria.
 
-Prospective quality-assessment study of 127 single-tooth radiographs taken with a handheld Nomad Pro 2 device in German nursing-home domiciliary dental care, graded by 3 dentists against German Federal Dental Association criteria: 80% showed no quality defects, periapical bone was diagnostic in 86%, and unexpected clinically important secondary findings appeared in 61% — quality was comparable to conventional wall-mounted units.
+80% (101/127) of radiographs showed no quality limitations; periapical/periradicular bone structure was diagnostically assessable in 86% (109/127); field of view adequately covered the justifying indication in 84%; unexpected clinically important secondary findings (apical osteolysis, root remnants, other lesions) were discovered in 61% of radiographs.
 
-(incomplete)
-
-(incomplete)
+Qualitative defect rate (16%) and diagnostic adequacy metrics matched or exceeded published benchmarks for conventional wall-mounted units, with no significant increase in motion artifacts (4%) despite the challenging bedside-imaging setting; handheld radiography appears diagnostically equivalent to stationary units while enabling diagnostics in immobile patients who cannot attend conventional practice.
 
 ## 세줄요약
 
+전향적 화질평가 연구(Gerodontology 2025; 독일 요양원 방문진료 127장, 핸드헬드 Nomad Pro 2, 경험있는 단일 술자) 치과의사 3인(경력·전문성 다양)이 독일치과의사협회 기준으로 독립 평가.
 
-독일 요양원 방문진료 (domiciliary dental care) 환경에서 핸드헬드 (handheld) 이동형 X-ray 장비 Nomad Pro 2로 촬영한 단일치아 방사선사진 127장을 치과의사 3인이 독일치과의사협회 (German Federal Dental Association) 화질 기준으로 평가한 전향적 연구 — 80%는 화질 결함 없음, 근단부 (periapical) 골 구조 진단가능 86%, 예상치 못한 임상적으로 중요한 부수소견 (secondary finding) 61%에서 발견되어, 벽걸이형 (wall-mounted) 장비와 비교해 화질이 대등함을 확인.
+화질 제한 없음 80%(101/127); 근단/치주 골 구조 진단가능 86%(109/127); 정당 적응증 시야 포함 84%; 예상치 못한 임상적으로 중요한 부수소견(근단 골용해·근관 잔존 등) 61%에서 발견.
 
-(incomplete)
-
-(incomplete)
+화질 결함률(16%)과 진단 적절성 지표가 벽걸이형 장비 발표 기준과 동등 또는 우수; 침상 영상 어려움에도 운동 부유물 무증가(4%); 이동형이 정지형과 진단학적 동등성 입증하면서 클리닉 내원 불가 운동 제한 환자 진단 가능.
 
 ## 1. Document Information
 

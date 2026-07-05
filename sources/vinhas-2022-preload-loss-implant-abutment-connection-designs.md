@@ -19,7 +19,6 @@ Extends the screw-mechanics evidence anchored by [[prosthetic-materials/velez-20
 
 ## Three-line Summary
 
-
 In vitro RTV study of 180 Klockner implants (4 connection designs, external SK2/KL & internal Vega/Essential) finding connection design did not influence preload maintenance, cyclic loading (500 N × 1000 cycles) significantly lowered removal torque for all connections, and multiple re-tightening yielded higher RTV than single tightening (except Vega) — hence clinically retighten retaining screws a few minutes after insertion.
 
 (incomplete)
@@ -27,7 +26,6 @@ In vitro RTV study of 180 Klockner implants (4 connection designs, external SK2/
 (incomplete)
 
 ## 세줄요약
-
 
 180개 Klockner 임플란트(외부연결 SK2/KL·내부연결 Vega/Essential 4종)의 제거토크값(RTV) 실험.
 

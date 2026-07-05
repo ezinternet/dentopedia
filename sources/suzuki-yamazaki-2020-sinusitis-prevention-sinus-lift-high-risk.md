@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Case report (n=1, 48M) demonstrating noninvasive prevention of post-sinus-lift maxillary sinusitis in a high-risk patient (septal deviation, concha bullosa, Haller cell, allergic rhinitis) via preoperative topical steroid + leukotriene receptor antagonist + perioperative antibiotics, with uneventful bilateral sinus lift outcome at 7 months.
 
 (incomplete)
@@ -24,7 +23,6 @@ Case report (n=1, 48M) demonstrating noninvasive prevention of post-sinus-lift m
 (incomplete)
 
 ## 세줄요약
-
 
 증례 보고 (n=1, 48세 남성): 비중격만곡·함기화 중비갑개·할러 세포·알레르기 비점막 부종이 복합된 상악동거상술 고위험 환자에서 국소 스테로이드 + 류코트리엔 수용체 길항제 + 주술기 항생제 조합으로 수술 없이 상악동염 합병증을 예방하여 양측 상악동거상술 후 7개월 경과 이상 없음.
 

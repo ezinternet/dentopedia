@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 13 population-based studies (n=~10,000+) estimates global halitosis prevalence at 31.8% (95% CI 24.6–39.0%), with high heterogeneity driven by year of publication and country socioeconomic status.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 13 population-based studies (n=~10,000+) estimates global halitosis pre
 (incomplete)
 
 ## 세줄요약
-
 
 13개 인구기반 연구를 메타분석한 결과 구강 악취(Halitosis) 유병률은 31.8%(95% CI 24.6–39.0%)이며, 출판 연도 및 국가 사회경제적 수준이 이질성의 주요 요인으로 확인됨.
 

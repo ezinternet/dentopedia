@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Clinical study (n=14, D3/D4 bone, Maestro™ implants, 12-month follow-up): 92.3% survival rate; mean bone loss not statistically significant; specially designed implants viable in poor bone quality.
 
+Clinical study (n=14, D3/D4 bone, Maestro™ implants, 12-month follow-up): 92.3% survival rate
+
+mean bone loss not statistically significant
+
+specially designed implants viable in poor bone quality.
+
+## 세줄요약
+
+Clinical study (n=14, D3/D4 bone, Maestro™ 임플란트, 12-month follow-up): 92.3% 생존율
+
+mean bone loss not statistically 유의미한
+
+specially designed 임플란트 viable in poor bone quality.
 
 ## 1. Document Information
 - **Journal**: Contemporary Clinical Dentistry 2015; 6(1):40–44

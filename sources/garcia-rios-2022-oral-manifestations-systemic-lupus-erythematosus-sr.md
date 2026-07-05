@@ -19,21 +19,19 @@ Part of an autoimmune-dentistry batch building out the oral-medicine view of sys
 
 ## Three-line Summary
 
+Systematic review (15 observational studies, 2012–2022, STROBE-appraised, PROSPERO CRD42021291356) synthesizing oral manifestations of systemic lupus erythematosus across multiple geographic regions.
 
-Systematic review (15 STROBE-appraised observational studies, PRISMA/PROSPERO CRD42021291356) finding oral ulcers the most prevalent oral manifestation of SLE (11 of 14 prevalence studies), most commonly on the hard palate, with hyposalivation, pigmentation, glossodynia, cheilitis and secondary Sjögren also frequent.
+Oral ulcers are the most prevalent oral manifestation of SLE (present in 11 of 14 prevalence-reporting studies), primarily located on the hard palate; hyposalivation affects >75% of SLE patients and is worsened by disease activity; other manifestations include pigmentation, glossodynia, cheilitis, and secondary Sjögren syndrome.
 
-(incomplete)
-
-(incomplete)
+Oral ulceration and hyposalivation are particularly pronounced in juvenile-onset SLE compared to adult-onset, suggesting age-related disease mechanisms and informing surveillance of dental complications in this high-risk population.
 
 ## 세줄요약
 
+전신홍반루푸스(SLE) 환자의 구강 증상을 다룬 체계적 고찰(관찰 연구 15편, 2012–2022, STROBE 평가, PROSPERO CRD42021291356).
 
-전신홍반루푸스(SLE) 환자의 구강 증상을 다룬 15편 관찰연구 체계적 고찰 — 구강궤양(oral ulcer)이 가장 흔한 증상(14편 중 11편)이며 경구개(hard palate)에 호발, 타액감소·색소침착·설통·구순염·이차 쇼그렌도 빈번.
+구강궤양(oral ulcer)이 가장 흔한 증상(14개 유병률 연구 중 11편)이며 경구개(hard palate)에 호발; 타액감소는 SLE 환자의 75% 초과에서 발생하며 질환 활동성으로 악화; 색소침착·설통·구순염·이차 쇼그렌증도 빈번.
 
-구강궤양은 청소년기 발병 SLE에서 특히 흔하다.
-
-(incomplete)
+구강궤양·타액감소는 청소년기 발병 SLE에서 성인 발병보다 현저하며, 이 고위험군의 치과 합병증 감시 및 기전 이해에 임상적 시사 제공.
 
 ## 1. Document Information
 

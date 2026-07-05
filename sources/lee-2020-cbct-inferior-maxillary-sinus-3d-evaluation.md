@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Retrospective 3-D CBCT analysis of 60 healthy Korean adults (30 M / 30 F, 20s, no missing teeth, no asymmetry, no systemic disease) using Mimics 22.0 to evaluate the inferior part of the maxillary sinus relative to the nasal cavity floor (NCF). Inferior sinus dimensions (height NCF-F, width CW/SW, volume V) are significantly larger in males than females; bizygomatic breadth correlates with sinus dimensions.
 
+Retrospective 3-D CBCT analysis of 60 healthy Korean adults (30 M / 30 F, 20s, no missing teeth, no asymmetry, no
+
+systemic disease) using Mimics 22.0 to evaluate the inferior part of the maxillary sinus relative to the nasal cavity floor (NCF).
+
+Inferior sinus dimensions (height NCF-F, width CW/SW, volume V) are significantly larger in males than females; bizygomatic breadth correlates with sinus dimensions.
+
+## 세줄요약
+
+Retrospective 3-D CBCT analysis of 60 healthy Korean adults (30 M / 30 F, 20s, no missing teeth, no asymmetry, no
+
+systemic disease) using Mimics 22.0 to evaluate the inferior part of the maxillary sinus relative to the nasal cavity floor (NCF).
+
+Inferior sinus dimensions (height NCF-F, width CW/SW, volume V) are 유의미한ly larger in males than females; bizygomatic breadth correlates with sinus dimensions.
 
 ## 1. Document Information
 - **Journal**: Scientific Reports 2020;10:21012

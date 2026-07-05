@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-J Biomed Sci 2025;32:45 — PRISMA umbrella review of 17 reviews (15 SRs + 2 MAs) on ChatGPT in healthcare; AMSTAR-2 quality: 5 moderate, 12 low; most common theme — diagnosis/clinical decision-making; 52.9% general healthcare, 41.2% specialty-specific (incl. public health dentistry); methodology and funding-source reporting gaps flagged.
+
+J Biomed Sci 2025;32:45 — PRISMA umbrella review of 17 reviews (15 SRs + 2 MAs) on ChatGPT in healthcare
+
+AMSTAR-2 quality: 5 moderate, 12 low
+
+most common theme — diagnosis/clinical decision-making; 52.9% general healthcare, 41.2% specialty-specific (incl. public health dentistry); methodology and funding-source reporting gaps flagged.
+
+## 세줄요약
+
+J Biomed Sci 2025;32:45 — PRISMA umbrella review of 17 reviews (15 SRs + 2 MAs) on ChatGPT in healthcare
+
+AMSTAR-2 quality: 5 moderate, 12 low
+
+most common theme — diagnosis/clinical decision-making; 52.9% general healthcare, 41.2% specialty-specific (incl. public health dentistry); methodology and funding-source reporting gaps flagged.
 
 ## 1. Document Information
 - Journal: Journal of Biomedical Science 2025;32:45

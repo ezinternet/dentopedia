@@ -19,7 +19,6 @@ text_filename: matys-2020-dental-aerosol-hazard-risk-dental.txt
 
 ## Three-line Summary
 
-
 In-vitro manikin study measuring aerosol (0.3–10 μm) at manikin/operator/assistant during caries removal, scaling, and polishing — high-speed handpiece + saliva ejector produced the most aerosol, low-speed produced less than the high-speed turbine, Er:YAG laser the least, and wide customized high-volume evacuators removed the most (Zirc evacuator 88% reduction).
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro manikin study measuring aerosol (0.3–10 μm) at manikin/operator/assi
 (incomplete)
 
 ## 세줄요약
-
 
 마네킹 인비트로 실험(0.3–10 μm, 마네킹·술자·보조자 3지점) — 하이스피드 핸드피스+타액흡인기가 에어로졸을 가장 많이, 로우스피드는 하이스피드 터빈보다 적게, Er:YAG 레이저가 가장 적게 생성했고, 넓은 맞춤형 고용량 흡입기(HVE)가 가장 효과적으로 제거(Zirc 88% 감소).
 

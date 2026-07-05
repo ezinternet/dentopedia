@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (8 papers;
 
 5 RCTs) of motivational interviewing within general dental practice — all 5 RCTs showed MI-inclusive interventions positively affected oral health and health behaviour;
@@ -23,7 +22,6 @@ Systematic review (8 papers;
 MI proposed as a high-value addition to the dental team skill set.
 
 ## 세줄요약
-
 
 치과 일반진료에 한정한 MI 체계적 문헌고찰(8편, RCT 5편) — RCT 5편 전부에서 MI 포함 개입이 구강건강·건강행동에 긍정적 효과.
 

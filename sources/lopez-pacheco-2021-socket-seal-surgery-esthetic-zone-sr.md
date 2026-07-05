@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Int J Implant Dent 2021;7:13: SR+MA+TSA of 6 RCTs, 135 sockets esthetic zone — socket seal surgery (FGG, CM, CS, ADM, PTFEm); FGG without bone fill best height; CM vs FGG no clinical difference; TSA: insufficient data for definitive conclusions.
 
+Int J Implant Dent 2021;7:13: SR+MA+TSA of 6 RCTs, 135 sockets esthetic zone — socket seal surgery (FGG, CM, CS, ADM, PTFEm)
+
+FGG without bone fill best height
+
+CM vs FGG no clinical difference; TSA: insufficient data for definitive conclusions.
+
+## 세줄요약
+
+Int J Implant Dent 2021;7:13: SR+MA+TSA of 6 RCTs, 135 sockets esthetic zone — socket seal surgery (FGG, CM, CS, ADM, PTFEm)
+
+FGG without 골 (Bone) fill best height
+
+CM vs FGG no clinical difference; TSA: insufficient data for definitive conclusions.
 
 ## 1. Key Results
 - 6 RCTs; 135 sockets; esthetic zone; ≥3 months follow-up post-extraction

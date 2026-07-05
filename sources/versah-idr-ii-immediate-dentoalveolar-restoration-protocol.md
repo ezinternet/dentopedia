@@ -16,8 +16,20 @@ Versah IDR II 즉시 치조골 회복 프로토콜 (REV06). 발치 직후 즉시
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]]
 
 ## Three-line Summary
-Versah Immediate Dentoalveolar Restoration II manufacturer protocol (2-page, REV06) for severely compromised sockets with full buccal wall loss and thin/recessed soft tissue — single-procedure implant + bone/soft-tissue graft + provisional.
 
+Versah Immediate Dentoalveolar Restoration II manufacturer protocol (2-page, REV06) for
+
+severely compromised sockets with full buccal wall loss and thin/recessed
+
+soft tissue — single-procedure implant + bone/soft-tissue graft + provisional.
+
+## 세줄요약
+
+Versah Immediate Dentoalveolar Restoration II manufacturer protocol (2-page, REV06) for
+
+severely compromised sockets with full buccal wall loss and thin/recessed
+
+soft tissue — single-procedure implant + 골 (Bone)/soft-tissue graft + provisional.
 
 ## 1. Document Information
 - **Title:** Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)

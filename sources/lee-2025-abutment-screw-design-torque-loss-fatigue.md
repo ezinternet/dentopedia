@@ -19,7 +19,6 @@ An Osstem TSIII vs KSIII head-to-head torque-loss study directly relevant to a K
 
 ## Three-line Summary
 
-
 In vitro fatigue study (50 implant–abutment assemblies, n=5 per torque group) showing Osstem KSIII keeps torque loss <25% at all torque levels, while TSIII loses 36.5%–51.8% (~2.5–3.0× more), with ~35 Ncm giving the most stable preload.
 
 (incomplete)
@@ -27,7 +26,6 @@ In vitro fatigue study (50 implant–abutment assemblies, n=5 per torque group) 
 (incomplete)
 
 ## 세줄요약
-
 
 체외 피로하중 실험(임플란트-지대주 50쌍, 토크군당 n=5): 오스템 KSIII는 모든 토크에서 토크손실 <25%로 안정적이나 TSIII는 36.5%~51.8% 손실(약 2.5~3.0배 더 큼)을 보였고, 약 35 Ncm에서 가장 안정적인 전하중(preload)을 얻음.
 

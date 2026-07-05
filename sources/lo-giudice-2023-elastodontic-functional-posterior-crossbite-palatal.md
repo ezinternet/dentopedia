@@ -21,7 +21,6 @@ Extends the elastodontic/myofunctional evidence base along the **transverse / po
 
 ## Three-line Summary
 
-
 Retrospective cohort (n=39;
 
 TG=25, CG=14, mean age 7y) — AMCOP elastodontic activator corrected functional posterior cross-bite and increased palatal symmetry (surface-matching 81.1%→92.3%) plus intermolar/intercanine widths over 12 months, versus no change in untreated controls.
@@ -29,7 +28,6 @@ TG=25, CG=14, mean age 7y) — AMCOP elastodontic activator corrected functional
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 코호트 (n=39;
 

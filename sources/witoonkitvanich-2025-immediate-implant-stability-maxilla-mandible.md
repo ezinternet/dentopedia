@@ -15,7 +15,6 @@ The immediate-molar implant pages we hold establish that fresh molar sockets can
 
 ## Three-line Summary
 
-
 Controlled prospective non-randomized trial (n=30;
 
 14 maxilla / 16 mandible) of computer-guided immediate molar implants: both arches achieved primary ISQ >73;
@@ -23,7 +22,6 @@ Controlled prospective non-randomized trial (n=30;
 mandible trended higher throughout and was significantly higher at 24 weeks (81.47 vs 78.23, P=0.018); a stability dip appeared in the maxilla at 2–4 weeks but not the mandible.
 
 ## 세줄요약
-
 
 대조 전향 비무작위 임상시험(n=30;
 

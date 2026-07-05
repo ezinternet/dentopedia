@@ -15,7 +15,6 @@ Tests Cerabone (naturally derived bovine hydroxyapatite, BCHA) + PRF vs unassist
 
 ## Three-line Summary
 
-
 Split-mouth RCT (n=25) comparing Cerabone + PRF + collagen plug vs atraumatic extraction alone: ridge width loss 1.47 mm vs 2.75 mm, bone fill 8.7% higher at test site at 6 months.
 
 (incomplete)
@@ -23,7 +22,6 @@ Split-mouth RCT (n=25) comparing Cerabone + PRF + collagen plug vs atraumatic ex
 (incomplete)
 
 ## 세줄요약
-
 
 분할구강 RCT (n=25): Cerabone+PRF+콜라겐 플러그 처치군에서 대조군 대비 폭경 소실 1.47 mm vs 2.75 mm, 방사선학적 골충전 8.7% 향상 (6개월).
 

@@ -15,7 +15,6 @@ First histological evaluation of a species-specific (all-bovine) collagen-enrich
 
 ## Three-line Summary
 
-
 Prospective case series (n=10 patients, 130–319 days healing): C-DBBM block + bovine cross-linked collagen membrane achieved histological bone formation via appositional membranous osteogenesis and 0% required GBR at implant placement;
 
 2.5–4.5 year follow-up with no biological or technical complications.
@@ -23,7 +22,6 @@ Prospective case series (n=10 patients, 130–319 days healing): C-DBBM block + 
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 증례집(n=10, 130–319일 치유): 우종별 교원소 함유 DBBM 블록 + 소 교원막으로 ARP 시 막상골 형성 확인, 임플란트 식립 시 GBR 불필요(0%);
 

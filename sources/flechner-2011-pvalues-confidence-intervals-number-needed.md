@@ -10,7 +10,18 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Symposium tutorial (Indian J Urol 2011;27:532) using a single clinical chemoprevention scenario to teach the meaning and proper interpretation of p-values, 95% CIs, and NNT.
+Symposium tutorial (Indian J Urol 2011;27:532) using a single clinical chemoprevention decision scenario (60-year-old post-prostate-biopsy asking about preventive 5α-reductase inhibitor) to teach the meaning and proper interpretation of p-values, 95% confidence intervals (CIs), and number needed to treat (NNT).
+
+The tutorial frames p-value, CI, and NNT as three complementary but distinct statistical lenses on the same data — p < 0.05 is mere convention, not truth, and statistical significance does not equal clinical significance.
+
+Key message: confidence intervals and NNT translate statistical findings into clinically actionable evidence; NNT specifically allows the clinician to weigh benefit-to-harm-to-cost for individual patient counseling.
+
+## 세줄요약
+교육용 심포지움 강의: 전립선 화학예방(5α-환원효소 억제제) 임상 시나리오로 p-값, 95% 신뢰도(CI), 필요 치료 수(NNT)의 의미와 올바른 해석을 교육.
+
+p-값·CI·NNT를 동일 데이터의 세 가지 상보적 통계 렌즈로 프레임화 — p < 0.05는 관례일 뿐이며, 통계적 유의성은 임상적 유의성과 다름.
+
+신뢰도와 NNT는 통계 결과를 임상 행동증거로 변환; 특히 NNT는 임상의가 환자 상담 시 이익-해로움-비용을 저울질하도록 번역하는 실용적 도구 제공.
 
 ## 1. Document Information
 - Journal: Indian Journal of Urology 2011 Oct-Dec; Vol 27, Issue 4, p.532

@@ -15,7 +15,6 @@ Flapless tissue-level implant placement with Laser-Lok (laser-microtextured coll
 
 ## Three-line Summary
 
-
 Prospective 4-year cohort (41 implants, 36 patients) of tapered tissue-level Laser-Lok implants placed flaplessly showed 100% survival, mean MBL −1.10 ± 0.89 mm at 48 months, and stable peri-implant soft-tissue parameters with no mucositis or peri-implantitis.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective 4-year cohort (41 implants, 36 patients) of tapered tissue-level Las
 (incomplete)
 
 ## 세줄요약
-
 
 무판막 술식으로 식립한 Laser-Lok 조직-레벨 임플란트 41개(36명)를 4년 추적한 전향적 연구: 생존율 100%, 48개월 MBL −1.10 ± 0.89 mm로 제한적 골소실, 치주 지표 안정적이며 주위염·점막염 없음.
 

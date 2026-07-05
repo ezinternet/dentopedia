@@ -22,10 +22,21 @@ relations:
     target: hamasni-2017-biologic-width-restorative-dentistry
 ---
 
+## Three-line Summary
+
+Narrative review of orthodontic forced eruption (extrusion) as alternative to resective crown lengthening when caries/fracture violates biologic width or ferrule is inadequate
+
+Preserves supporting bone on adjacent teeth (vs osseous surgery), improves crown-to-root ratio, avoids recession/sensitivity; requires fiberotomy to prevent supracrestal tissue relocation; Salama extraction-site + Hochman soft-tissue classification guide case selection
+
+Extrusion protocol ~1-2 mm/month with light forces (15g anterior / 50g posterior); contraindicated in active periodontitis (coronal relocation only, no attachment gain) and Salama Type 3 sites (severe vertical defect → GTR)
+
 ## 세줄요약
 
-교정적 정출(Forced Eruption, 강제맹출)의 수복 목적 활용을 다룬 내러티브 리뷰 — 우식·파절이 초치조상부 조직부착(생물학적 폭경, Biologic Width)을 침범했을 때의 크라운연장·페룰(Ferrule) 확보와 임플란트 식립부 개발; 크라운연장 수술 대비 인접치 골보존·crown-to-root 비 개선·심미 우위, 적응증·금기(염증·유착·수직치근파절)·치주인대(PDL) 장력 생물학·Salama/Hochman 분류·정출 속도(1–2 mm/월) 정리.
+교정적 정출(Forced Eruption, 강제맹출)의 수복 목적 활용을 다룬 내러티브 리뷰 — 우식·파절이 초치조상부
 
+조직부착(생물학적 폭경, Biologic Width)을 침범했을 때의 크라운연장·페룰(Ferrule) 확보와 임플란트 식립부 개발; 크라운연장 수술
+
+대비 인접치 골보존·crown-to-root 비 개선·심미 우위, 적응증·금기(염증·유착·수직치근파절)·치주인대(PDL) 장력 생물학·Salama/Hochman 분류·정출 속도(1–2 mm/월) 정리.
 
 ## Summary
 

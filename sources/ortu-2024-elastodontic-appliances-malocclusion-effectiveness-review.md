@@ -18,7 +18,6 @@ Part of the EF-Line / elastodontic myofunctional-orthodontics ingest batch. This
 
 ## Three-line Summary
 
-
 Narrative literature review (8 articles, 2020–June 2023;
 
 abstract-only) concluding that elastodontic devices treat malocclusion in growing patients safely, simply, and comfortably, but with a noted lack of knowledge/evidence on the technique.
@@ -26,7 +25,6 @@ abstract-only) concluding that elastodontic devices treat malocclusion in growin
 (incomplete)
 
 ## 세줄요약
-
 
 문헌 고찰(8편, 2020–2023년 6월;
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ; high-speed 800rpm yields highest initial IT in dense bone; osseodensification shows transient mid-healing gains; bone condensation shows progressive ISQ decline.
 
+RCT (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ
+
+high-speed 800rpm yields highest initial IT in dense bone
+
+osseodensification shows transient mid-healing gains; bone condensation shows progressive ISQ decline.
+
+## 세줄요약
+
+RCT (n=100, 5 osteotomy protocols × 3-month ISQ trajectory): moderate-speed drilling 300rpm achieves best long-term ISQ
+
+high-speed 800rpm yields highest initial IT in dense 골 (Bone)
+
+osseodensification shows transient mid-healing gains; 골 (Bone) condensation shows progressive ISQ decline.
 
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research 2026;28:e70125

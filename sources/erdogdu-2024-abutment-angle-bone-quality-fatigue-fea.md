@@ -18,7 +18,6 @@ text_filename: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
 
 ## Three-line Summary
 
-
 FEA (maxillary 3-unit bridge, 150 N oblique, 6 abutment configs × 2 bone types): abutment angle ↑ → von Mises stress ↑ and fatigue performance ↓;
 
 multiunit abutments outperform cemented at all angles;
@@ -26,7 +25,6 @@ multiunit abutments outperform cemented at all angles;
 resorbed bone amplifies both findings.
 
 ## 세줄요약
-
 
 FEA (상악 3단 브릿지, 150 N 사선 하중, 6 지대주 구성 × 2 골 유형): 지대주 각도 증가 → 응력 증가·피로 강도 감소;
 

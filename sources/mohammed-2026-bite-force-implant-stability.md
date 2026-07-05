@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective cohort (n=80, 18 months) showing that bite force (BF) and implant stability (ISQ) are significantly associated and dynamically co-influenced by time, jaw location (posterior > anterior), and sex (males > females).
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective cohort (n=80, 18 months) showing that bite force (BF) and implant st
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 코호트 연구 (n=80, 18개월): 교합력 (Bite Force, BF)과 임플란트 안정성 지수 (ISQ)는 유의하게 연관되며, 시간·위치(구치부>전치부)·성별(남>여) 모두가 두 지표에 복합적으로 영향을 미친다.
 

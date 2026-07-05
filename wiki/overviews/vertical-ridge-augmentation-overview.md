@@ -68,7 +68,11 @@ collagen membrane 부가 효용은 미결(SR 차이 없음 vs RCT 수치상 유�
 
 ## 세줄요약
 
-수직골증대(VRA) 20편 5축 — 술식별 장기 PBL (SBB < GBR < Onlay < Inlay < distraction) · 차폐재 (CAD/CAM Ti-mesh ≈ d-PTFE, 다수 RCT) · collagen membrane 부가 효용 논쟁 · **메시 노출(0~78%)이 지배적 실패 모드** (미세천공+자가골 0% vs 일반 3D프린트 78%) · 열개 예방=연조직. SR+MA 2 + SR 2 + RCT 6 + 전향 1 + 후향 3 + 증례 2 + 동물 2 + 술기노트 1.
+수직골증대(VRA) 20편 5축 — 술식별 장기 PBL (SBB < GBR < Onlay < Inlay < distraction) · 차폐재 (CAD/CAM Ti-mesh ≈ d-PTFE,
+
+다수 RCT) · collagen membrane 부가 효용 논쟁 · **메시 노출(0~78%)이 지배적 실패 모드** (미세천공+자가골 0% vs 일반 3D프린트 78%) · 열개
+
+예방=연조직. SR+MA 2 + SR 2 + RCT 6 + 전향 1 + 후향 3 + 증례 2 + 동물 2 + 술기노트 1.
 
 ## Summary
 

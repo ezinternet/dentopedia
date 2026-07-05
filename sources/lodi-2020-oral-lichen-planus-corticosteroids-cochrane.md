@@ -15,7 +15,6 @@ Provides the highest-evidence anchor for OLP symptomatic treatment, complementin
 
 ## Three-line Summary
 
-
 Cochrane systematic review + meta-analysis (35 RCTs, 1474 patients): topical corticosteroids may resolve OLP pain better than placebo (RR 1.91, 95% CI 1.08-3.36, low certainty);
 
 topical tacrolimus may resolve pain better than clobetasol (very low certainty).
@@ -23,7 +22,6 @@ topical tacrolimus may resolve pain better than clobetasol (very low certainty).
 (incomplete)
 
 ## 세줄요약
-
 
 코크란 SR+MA(35 RCT, 1474명): 국소 코르티코스테로이드가 위약보다 OLP 통증 해소에 우월할 수 있음(RR 1.91, 95% CI 1.08-3.36, 낮은 근거), 타크롤리무스가 클로베타솔보다 통증 해소에 나을 수 있음(매우 낮은 근거).
 

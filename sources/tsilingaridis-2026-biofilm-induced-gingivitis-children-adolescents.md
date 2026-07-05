@@ -19,7 +19,6 @@ New 2026 JCP systematic review (EFP/EAPD-commissioned, 269 included studies) cha
 
 ## Three-line Summary
 
-
 EFP/EAPD-commissioned systematic review (269 studies, 47 countries;
 
 22 large low-bias studies pooled) — dental biofilm-induced gingivitis affects ~52% of children/adolescents (95% CI 42–62%, I²>99%;
@@ -27,7 +26,6 @@ EFP/EAPD-commissioned systematic review (269 studies, 47 countries;
 34% CPI to 80% bleeding-index), rises with age/puberty, is socioeconomically patterned, and is best controlled by supervised fluoride toothbrushing + school/caregiver education (flossing adds nothing; CHX is an adjunct only).
 
 ## 세줄요약
-
 
 EFP/EAPD 의뢰 체계적 문헌고찰(269편, 47개국;
 

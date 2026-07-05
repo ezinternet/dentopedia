@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Umbrella review and meta-analysis comparing short implants (<10 mm) vs. regular implants with bone augmentation in the atrophic posterior mandible, finding short implants may reduce failure, MBL, and complications.
 
+Umbrella review and meta-analysis comparing short implants (<10 mm)
+
+vs. regular implants with bone augmentation in the atrophic
+
+posterior mandible, finding short implants may reduce failure, MBL, and complications.
+
+## 세줄요약
+
+Umbrella review and 메타분석 (MA) comparing short 임플란트 (<10 mm)
+
+vs. regular 임플란트 with bone augmentation in the atrophic
+
+posterior mandible, finding short 임플란트 may reduce failure, MBL, and complications.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry (2023) 9:18

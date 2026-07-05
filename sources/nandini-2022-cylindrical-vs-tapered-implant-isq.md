@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Split-mouth in vivo study (30 paired implants): tapered implants achieved significantly higher ISQ, less postoperative pain, and better peri-implant health than cylindrical implants at all timepoints.
 
+Split-mouth in vivo study (30 paired implants): tapered
+
+implants achieved significantly higher ISQ, less postoperative pain,
+
+and better peri-implant health than cylindrical implants at all timepoints.
+
+## 세줄요약
+
+Split-mouth 생체내 study (30 paired 임플란트): tapered
+
+임플란트 achieved 유의미한ly higher ISQ, less postoperative pain,
+
+and better peri-implant health than cylindrical 임플란트 at all timepoints.
 
 ## 1. Document Information
 - Journal: Cureus 14(10):e29675 (October 2022)

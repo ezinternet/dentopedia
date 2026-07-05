@@ -15,7 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
-JERD 34(1):55-64, 2022 — Josic·Breschi et al. (Bologna·Belgrade·Bristol) SR+MA — PRISMA·PICOS, 4 clinical trials 정성, 2 정량 분석. RoB-2 "some concerns", GRADE very-low/low. IDS vs DDS의 POS 차이 P>.05 (baseline·2년). 결론: "IDS does NOT reduce POS" — clinical significance: no evidence to favor IDS over DDS.
+JERD 34(1):55-64, 2022 — Josic·Breschi et al. (Bologna·Belgrade·Bristol) SR+MA — PRISMA·PICOS, 4 clinical trials 정성, 2 정량 분석. RoB-2 "some concerns", GRADE very-low/low. IDS vs DDS의 POS 차이 P>.05 (baseline·2년). 결론
+
+"IDS does NOT reduce POS" — clinical significance
+
+no evidence to favor IDS over DDS.
+
+## 세줄요약
+
+체계적 문헌고찰 및 메타분석 (JERD 2022): 즉시 상아질 밀폐(IDS) vs 지연 밀폐(DDS) 간접수복에서 술후 민감성 비교, 4편 정성·2편 정량분석
+
+술후 민감성 차이 유의하지 않음 (기초값·2년 추적, P>.05, GRADE 매우 낮음-낮음)
+
+임상적으로 IDS가 POS 감소를 보여주지 못함 — in-vitro 결합강도 증가가 임상 민감성 감소로 이어지지 않음.
 
 ## 1. Document Information
 

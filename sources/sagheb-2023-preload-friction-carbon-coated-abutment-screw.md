@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n=25 implant-abutment-screw complexes, Nobel Biocare) showed repeated tightening to 25 Ncm (×10) significantly decreased preload from 329.9 N to 253.7 N and increased the coefficient of friction from 0.33 to 0.44, suggesting carbon-coated screws should not be reused.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro study (n=25 implant-abutment-screw complexes, Nobel Biocare) showed rep
 (incomplete)
 
 ## 세줄요약
-
 
 탄소 코팅 지대주 나사를 25 Ncm으로 10회 반복 조임 시 예압(preload)이 329.9 N → 253.7 N으로 유의하게 감소하고 마찰계수가 0.33 → 0.44로 증가하여, 코팅 나사 재사용은 최적 예압 달성에 실패함을 시험관 내 실험으로 확인.
 

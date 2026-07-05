@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA (J Adhes Dent 2022): 타액 오염 지르코니아 표면 세정법 비교 — Al2O3 샌드블라스팅이 Ivoclean·알코올·인산·물보다 레진 접착강도 유의하게 높음.
 
+SR+MA (J Adhes Dent 2022): 타액
+
+오염 지르코니아 표면 세정법 비교 —
+
+Al2O3 샌드블라스팅이 Ivoclean·알코올·인산·물보다 레진 접착강도 유의하게 높음.
+
+## 세줄요약
+
+SR+MA (J Adhes Dent 2022): 타액
+
+오염 지르코니아 표면 세정법 비교 —
+
+Al2O3 샌드블라스팅이 Ivoclean·알코올·인산·물보다 레진 접착강도 유의하게 높음.
 
 ## 1. Document Information
 J Adhes Dent 2022;24:175-186. doi:10.3290/j.jad.b2916437. PRISMA 기반 SR+MA. PubMed/Scopus/Web of Science, ~October 2021. 804편 검색 → 13편 정성분석, 11편 메타분석.

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cochrane systematic review on supportive periodontal therapy (SPT) showing limited RCT evidence comparing different SPT protocols, with comparisons including specialist vs non-specialist delivery, antimicrobial adjuncts, and photonic adjuncts.
 
+Cochrane systematic review on supportive periodontal therapy (SPT) showing
+
+limited RCT evidence comparing different SPT protocols, with comparisons
+
+including specialist vs non-specialist delivery, antimicrobial adjuncts, and photonic adjuncts.
+
+## 세줄요약
+
+Cochrane systematic review on supportive periodontal therapy (SPT) showing
+
+limited RCT evidence comparing different SPT protocols, with comparisons
+
+including specialist vs non-specialist delivery, antimicrobial adjuncts, and photonic adjuncts.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews, 2018; Issue 1, Art. No.: CD009376

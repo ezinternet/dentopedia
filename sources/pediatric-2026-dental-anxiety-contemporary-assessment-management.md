@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Children, MDPI) synthesizing validated pediatric dental-anxiety assessment tools (selection varies by age/cognition/context) and non-pharmacological management — tell–show–do, modeling, parental guidance, audiovisual distraction, and VR-based methods show consistent effectiveness;
 
 structured assessment + multimodal behavioral strategies improve cooperation and clinical efficiency.
@@ -23,7 +22,6 @@ structured assessment + multimodal behavioral strategies improve cooperation and
 (incomplete)
 
 ## 세줄요약
-
 
 소아 치과불안 narrative review(Children, MDPI) — 검증된 평가도구는 연령·인지·맥락에 따라 선택 달라짐.
 

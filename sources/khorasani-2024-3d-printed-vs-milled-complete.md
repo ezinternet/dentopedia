@@ -15,7 +15,6 @@ Complete-denture fabrication is increasingly digital, yet the relative clinical 
 
 ## Three-line Summary
 
-
 SR+MA (4 RCTs/clinical studies, n=patients) finds no statistically significant difference in denture retention (SMD=0.165, p=0.343) or patient satisfaction (SMD=−0.595, p=0.236) between 3D-printed and milled complete dentures, though high heterogeneity limits conclusions.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (4 RCTs/clinical studies, n=patients) finds no statistically significant d
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (4편)에서 3D 프린팅과 밀링으로 제작된 총의치 간 유지력(SMD=0.165, p=0.343) 및 환자 만족도(SMD=−0.595, p=0.236) 차이 없음 — 단, 높은 이질성으로 해석에 주의 필요.
 

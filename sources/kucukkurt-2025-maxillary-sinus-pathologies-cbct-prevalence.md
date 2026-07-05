@@ -19,7 +19,6 @@ text_filename: kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence.txt
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (n=1,000 scans) found 68% of dental implant candidates had maxillary sinus pathologies, with mucosal thickening most prevalent (47%), strongly linked to odontogenic factors including periapical lesions and periodontal disease.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective CBCT study (n=1,000 scans) found 68% of dental implant candidates 
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 후보 환자 1,000명 CBCT 분석: 68%에서 상악동 병변, 점막비후(47%)가 가장 흔했으며, 치근단 병변·치주질환과 강력한 연관성 확인.
 

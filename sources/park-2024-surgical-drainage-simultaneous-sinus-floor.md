@@ -19,7 +19,6 @@ text_filename: park-2024-surgical-drainage-simultaneous-sinus-floor.txt
 
 ## Three-line Summary
 
-
 Case report (n=2) demonstrating that intraoral surgical drainage with intentional Schneiderian membrane incision, simultaneous with lateral-window MSFA and implant placement, resolved chronic maxillary sinusitis without FESS, with favorable 1-year outcomes.
 
 (incomplete)
@@ -27,7 +26,6 @@ Case report (n=2) demonstrating that intraoral surgical drainage with intentiona
 (incomplete)
 
 ## 세줄요약
-
 
 만성 상악동염 환자 2명에서 FESS 없이 측방창 접근 MSFA 도중 구강내 배액(의도적 막 절개)을 동시 시행하여 1년 추적에서 성공적인 임플란트 생존율과 상악동 병변 소실을 보고한 증례 보고.
 

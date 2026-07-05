@@ -19,7 +19,6 @@ PubMed surveillance(2025–2026 IIP SR/MA) 중 dedup 게이트를 통과한 최�
 
 ## Three-line Summary
 
-
 Meta-analysis (27 studies = 22 RCT + 5 NRSI, 1307 implants) finding the socket shield technique (SST) significantly reduces horizontal (MD −0.50 mm) and vertical (MD −0.56 mm) buccal bone loss and improves PES (+1.25) and ISQ (+5.83) vs conventional immediate implant placement (CIIP), with comparable implant success (RR 1.00);
 
 SST superiority held across shield height, thickness, and grafting subgroups, but high heterogeneity, short follow-up, and absent standardized protocols temper the evidence.
@@ -27,7 +26,6 @@ SST superiority held across shield height, thickness, and grafting subgroups, bu
 (incomplete)
 
 ## 세줄요약
-
 
 소켓실드 기법(Socket Shield Technique, SST) vs 전통 즉시식립(CIIP) 메타분석(27편·1307임플란트).
 

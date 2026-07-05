@@ -19,7 +19,6 @@ Anchors the practice-reality/ethics pole of the healing-abutment (HA) reuse cont
 
 ## Three-line Summary
 
-
 Cross-sectional survey of 202 Brazilian implantologists: 98.1% reuse healing abutments (cost-driven, 71.2%), 94.5% do not inform the patient, all disinfect + autoclave, and 95.3% received no manufacturer guidance — reuse is de facto standard practice with low risk perception.
 
 (incomplete)
@@ -27,7 +26,6 @@ Cross-sectional survey of 202 Brazilian implantologists: 98.1% reuse healing abu
 (incomplete)
 
 ## 세줄요약
-
 
 브라질 임플란트 전문의 202명 설문: 98.1%가 치유지대주(healing abutment)를 재사용(주 이유 비용 71.2%), 94.5%는 환자에게 고지하지 않고, 전원이 소독+오토클레이브를 하지만 95.3%는 제조사 재사용 지침을 받은 적이 없음 — 재사용은 위험 인식이 낮은 사실상의 표준 관행.
 

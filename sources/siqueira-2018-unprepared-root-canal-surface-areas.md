@@ -15,7 +15,6 @@ This critical review quantifies how much of the canal wall instruments leave unt
 
 ## Three-line Summary
 
-
 Critical review (Siqueira et al.
 
 2018, Braz Oral Res) explaining why instruments leave substantial canal surface unprepared (~10–50% in round/small canals, up to 80% in oval/flattened canals;
@@ -23,7 +22,6 @@ Critical review (Siqueira et al.
 even higher apically), the resulting biofilm-persistence risk for post-treatment apical periodontitis, and strategies to compensate (adequate apical size, copious/renewed NaOCl, supplementary activation, anatomy-adapted techniques).
 
 ## 세줄요약
-
 
 Siqueira 등 (2018, Braz Oral Res) 비평적 종설 — 기구가 근관벽의 상당 부분을 건드리지 못하는 이유(원형/소형 근관 약 10–50%, 타원형/편평 근관 최대 80%, 근단부는 더 높음)와 그로 인한 바이오필름 잔존·치료 후 치근단치주염 위험, 이를 보완하는 전략(적절한 근단부 확대, 충분·교체되는 NaOCl, 보조 세정 활성화, 해부 맞춤 술식)을 정리.
 

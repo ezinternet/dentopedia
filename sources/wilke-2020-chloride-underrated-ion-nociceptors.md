@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Open-access review arguing that chloride homeostasis in primary afferent (DRG/nociceptor) neurons — set by NKCC1/KCC2 and a large repertoire of Cl⁻ channels (GABA-A, glycine, anoctamin/TMEM16, bestrophin, CLC, CFTR, VRAC) — is a critical, underappreciated driver of nociceptor excitability and sensitization in neuropathic and inflammatory pain.
 
 (incomplete)
@@ -23,7 +22,6 @@ Open-access review arguing that chloride homeostasis in primary afferent (DRG/no
 (incomplete)
 
 ## 세줄요약
-
 
 오픈액세스 리뷰 — 말초 1차 구심신경(DRG/nociceptor)은 NKCC1/KCC2로 세포내 Cl⁻을 높게 유지하며, 여기서 같은 Cl⁻ 통로(GABA-A·glycine·anoctamin 등) 활성화가 척수와 달리 흥분성 탈분극을 일으켜 통각 과민·감작에 기여한다고 정리.
 

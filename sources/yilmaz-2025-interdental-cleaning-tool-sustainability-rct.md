@@ -19,7 +19,6 @@ Existing interdental-cleaning RCTs in the wiki (e.g. [[interdental-cleaning/manc
 
 ## Three-line Summary
 
-
 Examiner-blinded RCT (n=54 completers, 24 weeks, periodontally healthy adults): rubber interdental picks were used regularly (≥3 days/week) for a mean 12.61/24 weeks vs 4.96/24 weeks for dental floss (p=0.003);
 
 plaque/bleeding scores were similar between groups but negatively correlated with the number of weeks of regular use.
@@ -27,7 +26,6 @@ plaque/bleeding scores were similar between groups but negatively correlated wit
 Note: "sustainability" here means adherence/consistency of use over time, NOT environmental sustainability.
 
 ## 세줄요약
-
 
 검사자 맹검 무작위대조시험(RCT, n=54, 24주, 치주 건강 성인): 고무 치간 픽(rubber interdental pick)이 주 3일 이상 규칙적으로 사용된 주수는 평균 12.61/24주로 치실(dental floss) 4.96/24주보다 유의하게 높았다(p=0.003).
 

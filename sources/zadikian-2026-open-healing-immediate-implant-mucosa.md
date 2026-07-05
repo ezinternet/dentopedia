@@ -19,7 +19,6 @@ Existing [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-
 
 ## Three-line Summary
 
-
 SR+MA (12 studies, 431 patients / 438 implants;
 
 4 RCTs) finds open healing — immediate transmucosal non-occlusal provisionalization + particulate bone graft without a barrier membrane or primary flap closure — yields limited midfacial mucosal change (MML SMD −0.26, 95% CI −0.71 to 0.18, NS) and comparable papilla/MBL/survival vs primary flap closure.
@@ -27,7 +26,6 @@ SR+MA (12 studies, 431 patients / 438 implants;
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 고찰·메타분석(12편, 환자 431명·임플란트 438개, RCT 4편): 즉시식립 시 비폐쇄 치유(차폐막 없이 임시보철/맞춤치유지대주로만 입자형 골이식재를 봉합 없이 덮는 방식, open healing)는 일차봉합 대비 정중협측 점막레벨(Midfacial Mucosal Level, MML) 변화가 미미(SMD −0.26, 유의차 없음)하고 유두·변연골소실·생존율도 동등했다.
 

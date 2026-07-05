@@ -19,7 +19,6 @@ The wiki currently lacks any dedicated pericoronitis page, despite pericoronitis
 
 ## Three-line Summary
 
-
 Dual-part review (narrative + SR, 11 studies) showing ~75% of dentists prescribe antibiotics for pericoronitis despite evidence that local irrigation/debridement and operculectomy are the appropriate first-line treatments;
 
 amoxicillin and metronidazole are most commonly prescribed, and systemic antibiotics should be reserved for infection spread or systemic involvement.
@@ -27,7 +26,6 @@ amoxicillin and metronidazole are most commonly prescribed, and systemic antibio
 (incomplete)
 
 ## 세줄요약
-
 
 서술 검토(Part A) + 체계적 문헌고찰(Part B, 11편) 결과, 치과의사의 약 75%가 치관주위염에 항생제를 처방하나 근거 기반 치료는 국소 세척·변연제거 및 판절제술(operculectomy)이며 항생제는 감염 확산·전신 증상 시에만 적용해야 함.
 

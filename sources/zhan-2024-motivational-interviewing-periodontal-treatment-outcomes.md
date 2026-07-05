@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 7 RCTs (n=474;
 
 6 in meta-analysis) found NO significant difference between motivational interviewing and standard oral health instruction on plaque, bleeding on probing, or gingival inflammation;
@@ -23,7 +22,6 @@ SR+MA of 7 RCTs (n=474;
 evidence insufficient and mostly high risk of bias.
 
 ## 세줄요약
-
 
 7개 RCT(n=474, 6편 메타분석)를 종합한 SR+MA로, 동기면담(Motivational Interviewing, MI)이 표준 구강위생교육 대비 치면세균막·탐침시출혈·치은염증에서 유의한 차이를 보이지 않았으며, 근거 수준이 불충분하고 대부분 비뚤림 위험이 높았다.
 

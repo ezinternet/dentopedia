@@ -19,7 +19,6 @@ text_filename: nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr.tx
 
 ## Three-line Summary
 
-
 SR (12 studies, low-moderate RoB): aligner trimline design drives tooth-movement efficacy via force delivery and retention — straight/extended margins generate higher forces/moments and better retention than scalloped/short designs, giving greater displacement for intrusion, translation, tipping, and root torque (effect varies by movement type).
 
 (incomplete)
@@ -27,7 +26,6 @@ SR (12 studies, low-moderate RoB): aligner trimline design drives tooth-movement
 (incomplete)
 
 ## 세줄요약
-
 
 SR(12편, low-moderate RoB): aligner trimline(절단연) 디자인이 force 전달과 유지력을 통해 이동 효율을 좌우 — straight/extended margin이 scalloped/short보다 force·moment·retention 우위, 함입·translation·tipping·root torque에서 더 큰 이동.
 

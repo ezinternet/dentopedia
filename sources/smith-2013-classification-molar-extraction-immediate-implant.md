@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Technical note introducing the A/B/C classification of molar extraction sockets for immediate implant placement based on the inter-radicular bone available for primary stability.
 
+Technical note introducing the A/B/C classification of
+
+molar extraction sockets for immediate implant placement
+
+based on the inter-radicular bone available for primary stability.
+
+## 세줄요약
+
+Technical note introducing the A/B/C classification of
+
+molar extraction sockets for immediate implant placement
+
+based on the inter-radicular 골 (Bone) available for primary stability.
 
 ## 1. Document Information
 - **Title:** Classification of Molar Extraction Sites for Immediate Dental Implant Placement: Technical Note

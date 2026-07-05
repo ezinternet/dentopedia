@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 3D FEA (n=3 models) comparing von Mises stress in maxillary central incisors restored with glass fiber post, SFRC post, and Ribbond fiber post under 100 N oblique load;
 
 SFRC post showed lowest internal post stress (5.22 MPa vs 12.28 MPa glass fiber) and most favorable dentin-compatible stress distribution.
@@ -23,7 +22,6 @@ SFRC post showed lowest internal post stress (5.22 MPa vs 12.28 MPa glass fiber)
 (incomplete)
 
 ## 세줄요약
-
 
 3D FEA — 상악 중절치 근관치료 후 유리섬유 포스트·SFRC 포스트·Ribbond 포스트 응력분포 비교;
 

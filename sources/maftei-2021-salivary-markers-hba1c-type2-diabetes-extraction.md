@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Case-control study (n=86: 45 systemically healthy + 41 T2DM) measuring 8 salivary markers (OPG, RANKL, HGF, TNF-α, IL-18, MMP-9, TOS, TAC) plus HbA1c at baseline and 3 months post-extraction;
 
 T2DM had higher OPG/RANKL/TNF-α/MMP-9/IL-18/TOS, and baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG were good ROC predictors of HbA1c >6.5% (RANKL AUC 0.999), with TOS positively (r=+0.777) and TAC negatively (r=−0.475) correlated to HbA1c post-extraction.
@@ -23,7 +22,6 @@ T2DM had higher OPG/RANKL/TNF-α/MMP-9/IL-18/TOS, and baseline RANKL/TNF-α/IL-1
 (incomplete)
 
 ## 세줄요약
-
 
 타액 8종 마커(OPG·RANKL·HGF·TNF-α·IL-18·MMP-9·TOS·TAC)와 HbA1c를 건강군 45명·2형 당뇨군 41명에서 발치 전(T0)·발치 3개월 후(T1) 측정한 case-control 연구로, 당뇨군은 염증·산화·골대사 마커가 더 높았고 baseline RANKL·TNF-α·IL-18·MMP-9·TOS·OPG가 HbA1c>6.5%의 좋은 ROC 예측인자(RANKL AUC 0.999)였으며, 발치 후 TOS는 HbA1c와 양의 상관(r=+0.777)·TAC는 음의 상관(r=−0.475)을 보여 타액이 당뇨 환자의 발치 후 치유 상태의 비침습 지표가 될 수 있음을 시사.
 

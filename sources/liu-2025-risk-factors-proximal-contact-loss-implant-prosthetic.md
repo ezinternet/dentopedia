@@ -19,7 +19,6 @@ text_filename: liu-2025-risk-factors-proximal-contact-loss-implant-prosthetic.tx
 
 ## Three-line Summary
 
-
 Retrospective cohort (206 patients, 395 implant-crown↔natural-tooth contact points, 2015–2025, Cox regression): PCL incidence 67.5% patient-level / 40.3% contact-level;
 
 independent predictors were food impaction (HR 2.75), residual ridge height discrepancy (HR 2.51), and severe adjacent alveolar bone loss >3/8 root length (HR 5.83).
@@ -27,7 +26,6 @@ independent predictors were food impaction (HR 2.75), residual ridge height disc
 (incomplete)
 
 ## 세줄요약
-
 
 후향 코호트(206명·395 contact·Cox 회귀): PCL 발생률 환자단위 67.5%·접촉점단위 40.3%;
 

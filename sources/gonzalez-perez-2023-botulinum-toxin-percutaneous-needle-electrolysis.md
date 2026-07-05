@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT (n=52, Seville) — BTA (100 U) and percutaneous needle electrolysis (PNE) both significantly reduce chronic masticatory myalgia pain (VAS 6.5 → ~2.6) and improve MIO at 28 days, sustained through 90 days, with no superiority of one over the other.
+
+RCT (n=52, Seville) — BTA (100 U) and percutaneous needle electrolysis (PNE) both
+
+significantly reduce chronic masticatory myalgia pain (VAS 6.5 → ~2.6) and improve MIO
+
+at 28 days, sustained through 90 days, with no superiority of one over the other.
+
+## 세줄요약
+
+RCT (n=52, Seville) — BTA (100 U) and percutaneous needle electrolysis (PNE) both
+
+유의미한ly reduce chronic masticatory myalgia pain (VAS 6.5 → ~2.6) and improve MIO
+
+at 28 days, sustained through 90 days, with no superiority of one over the other.
 
 ## 1. Document Information
 - **Journal**: Toxins 2023;15(4):278

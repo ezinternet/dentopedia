@@ -15,8 +15,20 @@ source_collection: external
 SST의 **failure rate·MBL·PES** 3 outcome 집중 SR+MA — esthetic zone implant 의사결정의 핵심 지표 정량. [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]·[[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]]보다 1년 앞선 SR로 분야 baseline 데이터.
 
 ## Three-line Summary
-SR+MA (Universidad Alfonso X El Sabio 등 Spain, Biology 2021): SST esthetic zone 즉시 임플란트 — failure rate, marginal bone loss (MBL), pink esthetic score (PES) 3 outcome 정량 분석.
 
+SR+MA (Universidad Alfonso X El Sabio 등 Spain, Biology 2021):
+
+SST esthetic zone 즉시 임플란트 — failure rate, marginal bone
+
+loss (MBL), pink esthetic score (PES) 3 outcome 정량 분석.
+
+## 세줄요약
+
+SR+MA (Universidad Alfonso X El Sabio 등 Spain, Biology 2021):
+
+SST esthetic zone 즉시 임플란트 — failure rate, marginal 골 (Bone)
+
+loss (MBL), pink esthetic score (PES) 3 outcome 정량 분석.
 
 ## 1. Document Information
 저자: Velasco Bohórquez et al. (Madrid Spain). Biology (MDPI) open access.

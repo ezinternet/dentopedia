@@ -19,7 +19,6 @@ PubMed full-text surveillance (레진접착) — [[wiki/resin-bonding/zhou-2025-
 
 ## Three-line Summary
 
-
 In vitro nano-DMA + micro-permeability study (5 groups, 1-year SBF aging): rinse-out AB-type proanthocyanidin (PAC-DESIGNER) primers raised the complex modulus of the hybrid layer and underlying dentin and reduced interfacial micropermeability vs unprimed control, with trimeric (DP3) PACs outperforming tetrameric (DP4) — a layer-specific mechanism for durable resin-dentin bonding.
 
 (incomplete)
@@ -27,7 +26,6 @@ In vitro nano-DMA + micro-permeability study (5 groups, 1-year SBF aging): rinse
 (incomplete)
 
 ## 세줄요약
-
 
 in vitro nano-DMA + 미세투과도 연구 (5군, 1년 SBF 노화): rinse-out AB형 프로안토시아니딘(PAC-DESIGNER) 프라이머가 무처치 대조군 대비 혼성층·하부 상아질의 복합탄성계수를 높이고 계면 미세투과도를 낮췄으며, 삼량체(DP3)가 사량체(DP4)보다 우수 — 내구성 상아질 접착의 층별 기전을 제시.
 

@@ -19,7 +19,6 @@ text_filename: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota.txt
 
 ## Three-line Summary
 
-
 12-week parallel RCT (n=256 gingivitis subjects, 5 arms) using quantitative shotgun metagenomics found that brushing+flossing (BF) did not reduce supragingival plaque microbiota vs.
 
 brushing alone (B), whereas essential-oil mouthrinses (BA, BZ, BFZ) significantly reduced diversity, species richness, and total bacterial abundance;
@@ -27,7 +26,6 @@ brushing alone (B), whereas essential-oil mouthrinses (BA, BZ, BFZ) significantl
 subgingival synergy was seen only with combined flossing+rinsing (BFZ).
 
 ## 세줄요약
-
 
 12주 평행군 무작위대조시험(Randomized Controlled Trial, RCT) (치은염 256명, 5군)에서 샷건 메타게놈 시퀀싱(Shotgun Metagenomic Sequencing)을 이용한 결과, 치솔질+치실(BF)군은 치솔질 단독(B)군 대비 치은연상 플라크(Supragingival Plaque) 미생물군집(Microbiome)의 유의한 변화가 없었던 반면, 에센셜오일(Essential Oil, EO) 가글(BA·BZ·BFZ)군은 다양성(Diversity)·세균총 풍부도·총 세균량을 유의하게 감소시켰으며, 치은연하(Subgingival) 상승효과(Synergy)는 치실+가글 병용(BFZ)군에서만 관찰되었다.
 

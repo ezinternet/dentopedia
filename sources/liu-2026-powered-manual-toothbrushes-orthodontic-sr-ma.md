@@ -19,7 +19,6 @@ New 2026 SR+MA (European Journal of Orthodontics, search to Nov 2025) settling w
 
 ## Three-line Summary
 
-
 SR+MA (23 papers / 39 comparisons, fixed-appliance orthodontic patients): PTBs > MTBs on plaque (SMD -0.77), gingivitis (SMD -0.82), and bleeding (SMD -0.51) by incremental-difference meta-analysis, but evidence is LOW quality (I2 80–93%, possible publication bias, TSA inconclusive);
 
 descriptively most comparisons showed no difference, and PS/GS significance vanished when restricted to low-RoB or non-industry studies.
@@ -27,7 +26,6 @@ descriptively most comparisons showed no difference, and PS/GS significance vani
 Only counter-rotational PTBs beat MTBs on plaque by action mode (very low quality).
 
 ## 세줄요약
-
 
 SR+MA (23편 / 39비교, 고정성 교정장치 환자): 전동칫솔(PTB)이 수동칫솔(MTB)보다 치면세균막(SMD -0.77)·치은염(SMD -0.82)·치은출혈(SMD -0.51)에서 우세하나 근거 수준은 낮음(I2 80–93%, 출판편향 배제 불가, TSA 미결).
 

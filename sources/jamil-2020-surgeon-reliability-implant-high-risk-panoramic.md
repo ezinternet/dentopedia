@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Prospective study (73 patients, 148 posterior implants: 68 maxilla, 80 mandible) comparing the surgeon's panoramic-radiograph–based implant-length choice against post-operative CBCT-measured available bone height; 93.2% of decisions underestimated available bone, and in 73.9% of those, remaining bone after placement was <2 mm — concluding panoramic radiographs are "reliable" only because surgeons systematically choose short implants, with 5 cases of mandibular transient paresthesia among overestimated insertions.
+
+Prospective study (73 patients, 148 posterior implants: 68 maxilla, 80 mandible) comparing the surgeon's panoramic-radiograph–based implant-length choice against post-operative CBCT-measured available
+
+bone height; 93.2% of decisions underestimated available bone, and in 73.9% of those, remaining bone after placement was <2 mm —
+
+concluding panoramic radiographs are "reliable" only because surgeons systematically choose short implants, with 5 cases of mandibular transient paresthesia among overestimated insertions.
+
+## 세줄요약
+
+Prospective study (73 patients, 148 posterior 임플란트: 68 maxilla, 80 mandible) comparing the surgeon's panoramic-radiograph–based implant-length choice against post-operative CBCT-measured available
+
+bone height; 93.2% of decisions underestimated available bone, and in 73.9% of those, remaining bone after placement was <2 mm —
+
+concluding panoramic radiographs are "reliable" only because surgeons systematically choose short 임플란트, with 5 cases of mandibular transient paresthesia among overestimated insertions.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2020;20:96

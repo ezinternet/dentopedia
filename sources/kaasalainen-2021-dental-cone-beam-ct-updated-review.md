@@ -15,7 +15,6 @@ radiology 카테고리 CBCT 선량·dosimetry의 의학물리 기반 레퍼런�
 
 ## Three-line Summary
 
-
 Medical-physics review of dental CBCT: scanner technical features, dose optimization, dosimetry methods, and diagnostic reference levels (DRLs).
 
 (incomplete)
@@ -23,7 +22,6 @@ Medical-physics review of dental CBCT: scanner technical features, dose optimiza
 (incomplete)
 
 ## 세줄요약
-
 
 치과 CBCT 의학물리 리뷰: 스캐너 기술특성, 선량 최적화, 선량측정법, 진단참고수준(DRL) 종합.
 

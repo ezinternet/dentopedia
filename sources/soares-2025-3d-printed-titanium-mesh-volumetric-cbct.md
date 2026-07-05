@@ -17,7 +17,6 @@ CBCT 감산 분석(CBCT subtraction)을 이용한 용적 측정을 도입한 3D-
 
 ## Three-line Summary
 
-
 Retrospective case series (n=9): 3D-printed Ti mesh;
 
 vertical gain 4.8 ± 2.4 mm, volumetric gain 0.49 cm³, graft stability 87.9%;
@@ -25,7 +24,6 @@ vertical gain 4.8 ± 2.4 mm, volumetric gain 0.49 cm³, graft stability 87.9%;
 mesh exposure 77.8% (7/9), complete early exposure in 22.2% → total graft loss.
 
 ## 세줄요약
-
 
 후향 증례시리즈 (n=9): 3D 프린팅 Ti 메쉬;
 

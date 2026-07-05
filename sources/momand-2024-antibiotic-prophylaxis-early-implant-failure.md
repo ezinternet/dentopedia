@@ -19,7 +19,6 @@ text_filename: momand-2024-antibiotic-prophylaxis-early-implant-failure.txt
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis (7 placebo-controlled double-blind RCTs, 1859 patients / 3014 implants): preoperative antibiotic prophylaxis did NOT significantly reduce early implant failure (RR 0.66, 95% CI 0.30-1.47;
 
 risk difference -0.007;
@@ -27,7 +26,6 @@ risk difference -0.007;
 NNT 143), GRADE moderate certainty — routine prophylaxis not supported for uncomplicated implant surgery.
 
 ## 세줄요약
-
 
 체계적 고찰+메타분석(위약대조 이중맹검 RCT 7편, 환자 1859명 / 임플란트 3014개): 술전 항생제 예방은 조기 임플란트 실패를 유의하게 줄이지 못함(RR 0.66, 95% CI 0.30-1.47;
 

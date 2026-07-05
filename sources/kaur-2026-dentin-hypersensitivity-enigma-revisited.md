@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 2026 narrative review — comprehensive overview of dentin hypersensitivity mechanisms (hydrodynamic, direct innervation, neuroplasticity, odontoblast mechanosensory), stepwise diagnosis, and management (home care through biomimetic/nanotech approaches);
 
 Triple-C recall framework.
@@ -23,7 +22,6 @@ Triple-C recall framework.
 (incomplete)
 
 ## 세줄요약
-
 
 2026 서사 리뷰 — 상아질 과민증의 기전(수역학설·신경가소성·TRP), 단계적 진단 배제, 가정 요법부터 바이오미메틱·나노기술까지 포괄적 관리 전략 및 Triple-C 유지 체계 정리.
 

@@ -21,7 +21,6 @@ Reinforces operator-positioning guidance for portable/handheld intraoral X-ray u
 
 ## Three-line Summary
 
-
 Phantom + TLD bench study of a NOMAD Pro handheld dental X-ray unit in 3 hold positions: operator scatter dose is negligible overall (highest 0.0310 mGy on the left palm, perpendicular-hold) and well below IRR-1999 limits, but device position significantly affects exposure — so positioning protocols, personal dosemeters, training and audits are required.
 
 (incomplete)
@@ -29,7 +28,6 @@ Phantom + TLD bench study of a NOMAD Pro handheld dental X-ray unit in 3 hold po
 (incomplete)
 
 ## 세줄요약
-
 
 핸드헬드 휴대용 치과 X-ray(NOMAD Pro)를 팬텀·열형광선량계(TLD)로 3가지 잡는 자세에서 측정한 벤치 연구.
 

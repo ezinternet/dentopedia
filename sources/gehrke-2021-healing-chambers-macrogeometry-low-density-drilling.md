@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro polyurethane-block study (120 implants, 2 macrogeometries × 3 osteotomy techniques) showing undersized osteotomy raises insertion torque/stability/pullout only in PCF-20 bone (not PCF-10), while healing-chamber macrogeometry retains more bone on the surface after pullout.
 
 (incomplete)
@@ -23,7 +22,6 @@ In-vitro polyurethane-block study (120 implants, 2 macrogeometries × 3 osteotom
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 폴리우레탄 블록 실험(임플란트 120개, 2 macrogeometry × 3 osteotomy) — undersized osteotomy는 PCF-20 골에서만 토크·안정성·pullout을 유의하게 높이고 PCF-10(최저밀도)에서는 한계가 있으며, healing chamber 설계가 pullout 후 표면 잔류골을 더 많이 확보.
 

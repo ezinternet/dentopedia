@@ -19,7 +19,6 @@ text_filename: rovira-lastra-2026-articulating-paper-accuracy-occlusal-points.tx
 
 ## Three-line Summary
 
-
 Cross-sectional test–retest validity study (n=32 natural dentitions, silicone registration as reference standard): articulating paper detected 81% of posterior occlusal contacts (true-positive) with a 15% false-positive rate;
 
 200 µm paper gave fewer false positives (9.4%) than 100 µm (20.6%), the mandibular arch outperformed the maxillary, and the pulling technique made no difference.
@@ -27,7 +26,6 @@ Cross-sectional test–retest validity study (n=32 natural dentitions, silicone 
 (incomplete)
 
 ## 세줄요약
-
 
 단면 test–retest 타당도 연구(n=32 자연치열, 실리콘 인기 = 기준표준): 교합지는 구치부 교합접촉의 81%만 검출(진양성)하고 15%는 위양성이었으며, 200 µm 교합지(위양성 9.4%)가 100 µm(20.6%)보다 정확하고 하악궁이 상악궁보다 우수했으며 당기기(pulling) 기법은 차이가 없었다.
 

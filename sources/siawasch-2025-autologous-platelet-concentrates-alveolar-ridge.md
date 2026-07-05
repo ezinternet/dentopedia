@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR with meta-analyses of 35 papers (33 RCTs;
 
 PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally accelerate soft-tissue healing, reduce post-extraction pain, and lessen ridge resorption versus unassisted healing, though high heterogeneity limits strong conclusions.
@@ -23,7 +22,6 @@ PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge
 (incomplete)
 
 ## 세줄요약
-
 
 35편(33 RCT;
 

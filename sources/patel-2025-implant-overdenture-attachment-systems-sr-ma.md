@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review and meta-analysis (14 RCTs/crossover trials, 2010–2020) comparing implant overdenture attachment systems: bar attachments showed superior retention, telescopic attachments highest patient satisfaction, locators best for limited interarch space / angulated implants, magnets the worst; implant survival did not differ significantly across attachments.
 
+Systematic review and meta-analysis (14 RCTs/crossover trials, 2010–2020) comparing implant overdenture attachment systems: bar
+
+attachments showed superior retention, telescopic attachments highest patient satisfaction, locators best for limited interarch
+
+space / angulated implants, magnets the worst; implant survival did not differ significantly across attachments.
+
+## 세줄요약
+
+체계적 고찰 (SR) and 메타분석 (MA) (14 RCTs/crossover trials, 2010–2020) comparing implant overdenture attachment systems: bar
+
+attachments showed superior retention, telescopic attachments highest patient satisfaction, locators best for limited interarch
+
+space / angulated 임플란트, magnets the worst; implant survival did not differ 유의미한ly across attachments.
 
 ## 1. Document Information
 - **Journal**: Cureus, 2025 May 10

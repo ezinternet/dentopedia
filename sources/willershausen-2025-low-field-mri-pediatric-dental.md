@@ -15,7 +15,6 @@ radiology 카테고리에 비전리(non-ionizing) modality 대비축 도입. 선
 
 ## Three-line Summary
 
-
 Prospective 16-child study: radiation-free 0.55 T MRI matched ULD-CT image quality for tooth axis/root/resorption/cysts but not all structures.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective 16-child study: radiation-free 0.55 T MRI matched ULD-CT image quali
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 소아 16명: 무피폭 0.55 T MRI가 치축·치근·치근흡수·낭종에서 초저선량 CT와 동등 화질, 단 모든 구조엔 미흡.
 

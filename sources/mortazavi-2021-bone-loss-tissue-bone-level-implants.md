@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review of 38 clinical trials comparing MBL around bone-level (BL) and tissue-level (TL) implants, finding high heterogeneity across studies and no definitive winner — both designs show acceptable MBL under appropriate conditions.
 
+Systematic review of 38 clinical trials comparing MBL around bone-level (BL)
+
+and tissue-level (TL) implants, finding high heterogeneity across studies and no
+
+definitive winner — both designs show acceptable MBL under appropriate conditions.
+
+## 세줄요약
+
+체계적 고찰 (SR) of 38 clinical trials comparing MBL around bone-level (BL)
+
+and tissue-level (TL) 임플란트, finding high heterogeneity across studies and no
+
+definitive winner — both designs show acceptable MBL under appropriate conditions.
 
 ## 1. Document Information
 - **Journal**: J Korean Assoc Oral Maxillofac Surg 2021;47:153-174

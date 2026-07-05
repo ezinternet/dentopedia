@@ -18,7 +18,6 @@ literature-surveillance `clear-aligner` sweep(2026-06-20) efficacy 축의 **앵�
 
 ## Three-line Summary
 
-
 Overview of 18 systematic reviews: CAT is effective for mild-to-moderate malocclusion but inferior for severe cases and specific movements (torque, extrusion, rotation);
 
 periodontal health better and root-resorption risk lower with CAT, relapse greater, duration possibly shorter in mild cases;
@@ -26,7 +25,6 @@ periodontal health better and root-resorption risk lower with CAT, relapse great
 overall evidence moderate.
 
 ## 세줄요약
-
 
 SR 18편 통합 umbrella review: 투명교정은 경증~중등도엔 유효하나 중증·특정 이동(torque·정출·회전)엔 열등.
 

@@ -18,7 +18,6 @@ text_filename: vidal-2022-resin-composite-color-change-bleaching.txt
 
 ## Three-line Summary
 
-
 SR+MA with meta-regression (23 in vitro studies) — resin-based composites do change color after peroxide bleaching, but the change is not clinically significant;
 
 storage time, measuring device, and background color (not bleaching agent/time) drive the measured ΔE.
@@ -26,7 +25,6 @@ storage time, measuring device, and background color (not bleaching agent/time) 
 (incomplete)
 
 ## 세줄요약
-
 
 메타회귀 포함 SR+MA (in vitro 23편) — 과산화물 미백 후 레진 복합체는 색이 변하지만 임상적으로 유의하지 않음.
 

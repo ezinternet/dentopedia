@@ -18,7 +18,6 @@ This is the origin/cornerstone RCT of the Watanabe Toothpick method (T. Watanabe
 
 ## Three-line Summary
 
-
 RCT (n=20 dental students, split-mouth, modified Quigley-Hein index): the Toothpick toothbrushing method removed significantly more proximal-surface plaque than the Bass method.
 
 (incomplete)
@@ -26,7 +25,6 @@ RCT (n=20 dental students, split-mouth, modified Quigley-Hein index): the Toothp
 (incomplete)
 
 ## 세줄요약
-
 
 무작위 대조시험(치대생 20명, split-mouth, 변형 Quigley-Hein 지수): 이쑤시개법(Toothpick method)이 Bass법보다 인접면 치면세균막을 유의하게 더 많이 제거했다.
 

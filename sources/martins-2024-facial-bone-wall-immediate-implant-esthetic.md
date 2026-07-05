@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR (12 연구): 상악 전치부 즉시식립 + 즉시수복 시 facial bone plate가 얇거나 결손되면 alveolar 흡수·심미 위험 증가; thinner facial plate → higher alveolus loss; ≥12개월 추적 연구 한정.
 
+SR (12 연구): 상악 전치부 즉시식립 + 즉시수복 시 facial bone plate가 얇거나 결손되면 alveolar 흡수·심미 위험 증가
+
+thinner facial plate → higher alveolus loss
+
+≥12개월 추적 연구 한정.
+
+## 세줄요약
+
+SR (12 연구): 상악 전치부 즉시식립 + 즉시수복 시 facial 골 (Bone) plate가 얇거나 결손되면 alveolar 흡수·심미 위험 증가
+
+thinner facial plate → higher alveolus loss
+
+≥12개월 추적 연구 한정.
 
 ## 1. Document Information
 - **Title**: Is the facial bone wall critical to achieving esthetic outcomes in immediate implant placement with immediate restoration? A systematic review

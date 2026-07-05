@@ -19,7 +19,6 @@ The "one-abutment-one-time" (OAOT) concept — placing the definitive abutment a
 
 ## Three-line Summary
 
-
 Multicenter double-blind RCT (147 patients, 231 platform-switched subcrestal implants) finding no significant difference in 12-month peri-implant marginal bone loss or ISQ between the one-abutment-one-time protocol (definitive abutment at surgery, never removed;
 
 0.36 ± 0.79 mm) and repeated healing-abutment disconnection (up to 3 times;
@@ -27,7 +26,6 @@ Multicenter double-blind RCT (147 patients, 231 platform-switched subcrestal imp
 0.48 ± 0.71 mm) — but abutment height mattered: 2 mm abutments lost significantly less bone than 1 mm abutments (p = 0.002).
 
 ## 세줄요약
-
 
 다기관 이중맹검 RCT(환자 147명, 플랫폼 스위칭·치조골하 식립 임플란트 231개)에서 원-어버트먼트-원-타임(수술 당일 최종 어버트먼트 장착 후 미분리, 0.36 ± 0.79 mm)과 반복적 치유 어버트먼트 분리(최대 3회, 0.48 ± 0.71 mm) 간 12개월 변연골소실·ISQ에 유의차가 없었으나, 어버트먼트 높이는 유의했음 — 2 mm 어버트먼트가 1 mm보다 골소실 적음(p = 0.002).
 

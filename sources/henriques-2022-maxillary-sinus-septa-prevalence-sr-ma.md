@@ -19,7 +19,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 62 studies (22,460 sinuses;
 
 13,701 patients) reporting maxillary sinus septa prevalence of 33.2% per sinus and 41.0% per patient by CBCT/CT, with septa most common in the mid-sinus region with transverse orientation (86%).
@@ -27,7 +26,6 @@ SR+MA of 62 studies (22,460 sinuses;
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (62편, 22,460개 상악동): CBCT/CT 기반 상악동 격벽 (Sinus Septa) 유병률 상악동당 33.2%, 환자당 41.0%;
 

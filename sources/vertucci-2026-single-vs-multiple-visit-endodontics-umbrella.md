@@ -18,7 +18,6 @@ text_filename: vertucci-2026-single-vs-multiple-visit-endodontics-umbrella.txt
 
 ## Three-line Summary
 
-
 Umbrella systematic review of 12 SRs found no consistent clinically important difference in post-operative pain between single-visit and multiple-visit root canal treatment in permanent teeth, though confidence is limited by heterogeneity and primary-study overlap.
 
 (incomplete)
@@ -26,7 +25,6 @@ Umbrella systematic review of 12 SRs found no consistent clinically important di
 (incomplete)
 
 ## 세줄요약
-
 
 12개 체계적 문헌고찰을 종합한 umbrella SR에서 1회 방문과 다회 방문 근관치료 간 술후 통증에 임상적으로 유의한 차이가 없었으나, 이질성과 1차 연구 중복으로 근거 신뢰도가 제한됨.
 

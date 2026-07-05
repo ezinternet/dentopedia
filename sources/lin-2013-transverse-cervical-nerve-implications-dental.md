@@ -18,7 +18,6 @@ text_filename: lin-2013-transverse-cervical-nerve-implications-dental.txt
 
 ## Three-line Summary
 
-
 Fresh cadaver study (n=2, Sihler's staining technique): the transverse cervical nerve (C2-C3, cervical plexus) was found innervating the posterior mandible in one of two specimens, supporting accessory (non-trigeminal) innervation as a cause of IANB failure in posterior mandibular teeth.
 
 (incomplete)
@@ -26,7 +25,6 @@ Fresh cadaver study (n=2, Sihler's staining technique): the transverse cervical 
 (incomplete)
 
 ## 세줄요약
-
 
 신선 사체 연구(n=2, Sihler's 염색기법): 횡경부신경(transverse cervical nerve, C2-C3, 경부신경총 분지)이 사체 2례 중 1례에서 후방 하악을 지배하는 것으로 확인 — 하악 구치부 IANB 실패 원인으로서 삼차신경 외 부가신경 지배를 뒷받침.
 

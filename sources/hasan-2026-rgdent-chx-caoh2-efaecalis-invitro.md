@@ -19,7 +19,6 @@ text_filename: hasan-2026-rgdent-chx-caoh2-efaecalis-invitro.txt
 
 ## Three-line Summary
 
-
 In-vitro comparative study (60 human single-rooted teeth, 21-day E.
 
 faecalis intracanal infection model, 3 medicaments × 2 durations, n=10/subgroup): both 2% CHX gel (mean logCFU reduction 4.94±0.23) and RG-Dent (4.77±0.26, metronidazole/iodoform/dexamethasone paste) were significantly more effective than Ca(OH)2 (3.69±0.27) against E.
@@ -27,7 +26,6 @@ faecalis intracanal infection model, 3 medicaments × 2 durations, n=10/subgroup
 faecalis (P<0.001, Cohen's d>4); CHX showed marginal superiority over RG-Dent (P=0.036, d=0.69, medium); application duration (2 vs 7 days) had no significant effect on efficacy (P=0.78) and no interaction with medicament type (P=0.97).
 
 ## 세줄요약
-
 
 인비트로 비교연구(사람 단근치 60개, 21일 E.
 

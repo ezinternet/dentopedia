@@ -18,7 +18,6 @@ text_filename: lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care.t
 
 ## Three-line Summary
 
-
 PRISMA systematic review (11 studies, n=15–85, mean age 60–68;
 
 none at low risk of bias) on supportive peri-implant care frequency for implant-supported full-arch prostheses, recommending professional oral hygiene every 6 months and prosthesis removal at least once per year, tailored to patient risk.
@@ -26,7 +25,6 @@ none at low risk of bias) on supportive peri-implant care frequency for implant-
 (incomplete)
 
 ## 세줄요약
-
 
 PRISMA 체계적 문헌고찰(11편, n=15–85, 평균연령 60–68세;
 

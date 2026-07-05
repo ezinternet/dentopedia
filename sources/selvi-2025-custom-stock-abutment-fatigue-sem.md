@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro study (n=44 conical-hex assemblies) showing CAD-CAM custom abutments had lower baseline removal torque than stock abutments but maintained equivalent preload stability after 2 million fatigue cycles, with greatest preload loss occurring before 1 million cycles.
 
 (incomplete)
@@ -23,7 +22,6 @@ In-vitro study (n=44 conical-hex assemblies) showing CAD-CAM custom abutments ha
 (incomplete)
 
 ## 세줄요약
-
 
 체외 실험(n=44, 내부 원추형-헥스 연결)에서 CAD-CAM 맞춤 어버트먼트(custom abutment)는 기성 어버트먼트(stock abutment)보다 기저 제거 토크값(Removal Torque Value, RTV)이 낮았으나, 200만 사이클 피로 하중 후 예압(preload) 유지 능력은 동등하였으며 가장 큰 예압 소실은 50,000~100만 사이클 구간에서 발생하였다.
 

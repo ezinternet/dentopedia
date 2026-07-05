@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review concluding that socket shielding (intentional retention of the buccal root fragment) effectively minimizes buccal bone resorption and contour change as a minimally invasive, graft-optional approach in the esthetic zone, but that supporting evidence remains limited and larger studies are needed.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review concluding that socket shielding (intentional retention of the 
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 리뷰 — 소켓 쉴드(협측 치근편 의도적 보존)는 심미부에서 협측골 흡수·윤곽 변화를 효과적으로 줄이는 최소침습·골이식 선택적 기법이나, 근거가 제한적이어 대규모 연구가 필요하다는 결론.
 

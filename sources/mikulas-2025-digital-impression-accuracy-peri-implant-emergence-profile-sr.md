@@ -19,7 +19,6 @@ Implant crown 보철의 디지털 워크플로우에서 잇몸 형태(emergence 
 
 ## Three-line Summary
 
-
 Systematic review (24 studies;
 
 1 RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques) finding indirect EP scanning (extraoral scan of the provisional, superimposed) most accurately captures the peri-implant emergence profile, while direct scanning after provisional removal shows considerable soft-tissue collapse (~200–500 μm immediate, up to ~1 mm by 20 min).
@@ -27,7 +26,6 @@ Systematic review (24 studies;
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(24편;
 

@@ -19,7 +19,6 @@ literature-surveillance `primary-pulpotomy-ssc` 토픽 첫 sweep(2026-06-20)의 
 
 ## Three-line Summary
 
-
 RCT (268 primary molars, deep dentine caries) over 24 months: Hall technique (HT, seal caries under SSC, no caries removal) vs modified HT (selective removal of outer carious layer first) gave statistically equal 24-mo success (86.6% vs 92.8%, p=0.121);
 
 SSC fit was decisive in HT (insufficient fit → 40% major failure vs 7.3% with good fit).
@@ -27,7 +26,6 @@ SSC fit was decisive in HT (insufficient fit → 40% major failure vs 7.3% with 
 (incomplete)
 
 ## 세줄요약
-
 
 RCT(유구치 268개, deep dentine caries) 24개월: Hall technique(HT, 우식제거 없이 SSC로 봉입) vs modified HT(바깥 우식층 선택제거 후 SSC) 성공률 통계적 동등(86.6% vs 92.8%, p=0.121).
 

@@ -10,10 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Narrative review (Med Sci Monit 2025) surveying AI and deep learning applications across six major dental specialties: endodontics, periodontics, implantology, orthodontics, prosthodontics, and oral/maxillofacial surgery. Applications span prevention, early screening, diagnostic imaging (caries, periapical/periodontal lesions, implant identification, cephalometric landmarks), treatment planning, execution, and prognosis assessment. Review identifies critical limitations including inaccurate data annotation, institutional dataset bias, and legal/privacy risks that constrain current clinical deployment.
+
+Narrative review (Med Sci Monit 2025) surveying AI and deep learning applications across six major dental specialties: endodontics, periodontics, implantology, orthodontics, prosthodontics, and oral/maxillofacial surgery.
+
+Applications span prevention, early screening, diagnostic imaging (caries, periapical/periodontal lesions, implant identification, cephalometric landmarks), treatment planning, execution, and prognosis assessment.
+
+Review identifies critical limitations including inaccurate data annotation, institutional dataset bias, and legal/privacy risks that constrain current clinical deployment.
 
 ## 세줄요약
-6개 주요 치과 전공(근관, 치주, 임플란트, 교정, 보철, 구강악안면외과)에서의 AI·딥러닝 응용을 정리한 내러티브 리뷰(Med Sci Monit 2025). 예방부터 진단, 치료계획, 실행, 예후 평가까지 아우름. 현재 가장 많은 구현은 영상기반 딥러닝(방사선 우식 감지, 근첨·치주 병소, 임플란트 식별, 두개 계측 표지점). 데이터 주석 부정확, 기관별 편향, 법적·개인정보 위험 등 임상 도입을 제한하는 핵심 한계 지적.
+
+6개 주요 치과 전공(근관, 치주, 임플란트, 교정, 보철, 구강악안면외과)에서의 AI·딥러닝 응용을 정리한 내러티브 리뷰(Med Sci Monit 2025).
+
+예방부터 진단, 치료계획, 실행, 예후 평가까지 아우름.
+
+현재 가장 많은 구현은 영상기반 딥러닝(방사선 우식 감지, 근첨·치주 병소, 임플란트 식별, 두개 계측 표지점). 데이터 주석 부정확, 기관별 편향, 법적·개인정보 위험 등 임상 도입을 제한하는 핵심 한계 지적.
 
 ## 1. Document Information
 

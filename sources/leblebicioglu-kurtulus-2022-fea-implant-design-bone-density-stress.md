@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Finite element analysis showing that lower trabecular bone density (D4) and reduced cortical thickness increase peri-implant stress, and that thread design and abutment angulation modulate stress distribution under a 30° 200 N oblique load.
 
 (incomplete)
@@ -23,7 +22,6 @@ Finite element analysis showing that lower trabecular bone density (D4) and redu
 (incomplete)
 
 ## 세줄요약
-
 
 유한요소해석(FEA) — trabecular 골밀도 저하(D4)와 cortical 두께 감소가 임플란트 주위 응력을 증가시키며, 나사 설계·지대주 각도가 30° 200N 경사하중에서 응력분포를 좌우.
 

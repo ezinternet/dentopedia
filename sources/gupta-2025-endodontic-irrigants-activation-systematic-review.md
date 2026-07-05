@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (PROSPERO CRD420250655029, 2015–2025) of emerging endodontic irrigants (nanoparticle-based, herbal, photoactivated) and activation systems (ultrasonic, laser-activated, multisonic, negative-pressure), concluding they enhance antimicrobial action, biofilm disruption, and smear-layer removal over conventional NaOCl/EDTA but lack long-term clinical validation.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review (PROSPERO CRD420250655029, 2015–2025) of emerging endodontic
 (incomplete)
 
 ## 세줄요약
-
 
 근관 세정제·활성화 시스템 최신 발전(2015–2025)을 정리한 체계적 고찰 — 나노입자·허브·광활성 세정제와 초음파·레이저·멀티소닉·음압 활성화가 기존 NaOCl/EDTA보다 항균력·바이오필름 제거·스미어층 제거를 향상시키나, 장기 임상 근거는 아직 부족하다.
 

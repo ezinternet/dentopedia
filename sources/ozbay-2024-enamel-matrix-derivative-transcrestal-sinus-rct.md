@@ -19,7 +19,6 @@ PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 RCT — 
 
 ## Three-line Summary
 
-
 RCT (24 patients, 40 implants) of transcrestal sinus floor elevation with vs without enamel matrix derivative: EMD significantly increased endo-sinus bone gain at 3 months (3.72 vs 3.10 mm) but the difference vanished by 12 months, with no inter-group ISQ difference.
 
 (incomplete)
@@ -27,7 +26,6 @@ RCT (24 patients, 40 implants) of transcrestal sinus floor elevation with vs wit
 (incomplete)
 
 ## 세줄요약
-
 
 경치조골 상악동거상에 법랑기질유도체(EMD) 첨가 RCT(24명·40 임플란트) — EMD군이 3개월 endo-sinus 골증가 유의하게 큼(3.72 vs 3.10 mm)이나 12개월엔 차이 소실, 군간 ISQ 차이 없음.
 

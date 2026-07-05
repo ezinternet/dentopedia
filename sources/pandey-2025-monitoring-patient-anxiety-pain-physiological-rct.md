@@ -17,7 +17,6 @@ dental-anxiety 하위 카테고리에 "성인·생리학적 객관지표" 축이
 
 ## Three-line Summary
 
-
 Observational study (n=76 adults, single-visit root canal treatment) — preoperative MDAS anxiety and VAS pain with HR/SpO2 monitored at 6 stages;
 
 HR rose significantly during local anesthesia (93.9±8.2) and drilling (94.7±8.07), especially with moderate anxiety/severe pain (p<0.05);
@@ -25,7 +24,6 @@ HR rose significantly during local anesthesia (93.9±8.2) and drilling (94.7±8.
 prior negative dental experience raised anxiety (p=0.018); moderate positive anxiety–HR correlation, SpO2 stable.
 
 ## 세줄요약
-
 
 관찰연구(성인 76명, 단일내원 근관치료) — 술전 MDAS 불안·VAS 통증, HR/SpO2를 6단계 측정.
 

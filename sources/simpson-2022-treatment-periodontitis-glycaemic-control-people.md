@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a moderate-certainty absolute HbA1c reduction of 0.43% (4.7 mmol/mol) at 3-4 months vs no treatment/usual care, sustained at 6 and 12 months.
 
 (incomplete)
@@ -23,7 +22,6 @@ Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): 
 (incomplete)
 
 ## 세줄요약
-
 
 Cochrane 체계적 문헌고찰+메타분석(RCT 35편, 무작위배정 3249명, 대부분 제2형 당뇨): 치은연하 기구조작(subgingival instrumentation, SRP)에 의한 치주치료가 무처치/일상관리 대비 3-4개월 시점 당화혈색소(HbA1c)를 0.43%(4.7 mmol/mol) 절대 감소시켰고(중등도 근거), 6·12개월에도 유지됨.
 

@@ -15,7 +15,6 @@ Morimoto 2016 SR+MA (장석계/글래스세라믹만 포함)의 후속 근거로
 
 ## Three-line Summary
 
-
 SR+MA of 29 studies (7,753 veneers, 986 patients): LDS shows highest survival (96.81%) and lowest complication rates at 10.4 years;
 
 feldspathic and LRGC comparable in survival but higher complication rates;
@@ -23,7 +22,6 @@ feldspathic and LRGC comparable in survival but higher complication rates;
 zirconia 100% at 2.6 years (insufficient long-term data).
 
 ## 세줄요약
-
 
 SR+MA (29편, 7,753개 비니어): LDS 생존율 96.81%로 최고, 장석계·LRGC와 생존율은 유사하나 합병증 훨씬 낮음;
 

@@ -19,7 +19,6 @@ text_filename: xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA (24 studies, n=8663;
 
 4 dental) — continuous DOAC reduced major bleeding (OR 0.57, 95% CI 0.37-0.87) and thrombotic events (OR 0.54, 0.33-0.91) overall, but ALL differences vanished in high-quality RCT data (very low/low GRADE certainty);
@@ -27,7 +26,6 @@ SR+MA (24 studies, n=8663;
 both continue and interrupt are acceptable for minimal bleeding-risk procedures incl. minor dental.
 
 ## 세줄요약
-
 
 SR+MA (24편, n=8663;
 

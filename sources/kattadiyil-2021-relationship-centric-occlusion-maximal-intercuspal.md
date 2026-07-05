@@ -18,7 +18,6 @@ This is the keystone paper of a 6-paper CR/CO/MICP batch establishing the founda
 
 ## Three-line Summary
 
-
 Best Evidence Consensus Statement (J Prosthodont 2021;
 
 literature review screening >15,000 → 313 SR/RCT/MA/clinical-trial articles): centric occlusion (condyle-seated) and maximal intercuspal position are usually NON-coincident in dentate/partially dentate patients, and complete mouth rehabilitation should be restored in centric occlusion.
@@ -26,7 +25,6 @@ literature review screening >15,000 → 313 SR/RCT/MA/clinical-trial articles): 
 (incomplete)
 
 ## 세줄요약
-
 
 베스트 에비던스 합의문(J Prosthodont 2021, >15,000편 검색 → 313편 분석): 대부분의 유치악·부분유치악 환자에서 중심교합(centric occlusion, CO;
 

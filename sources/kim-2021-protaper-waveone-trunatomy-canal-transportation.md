@@ -14,8 +14,20 @@ source_collection: external
 신규 [[endodontics/shaping]] subcategory 첫 paper 중 하나. TruNatomy(작은 taper, n=20)·ProTaper GOLD(공격적 taper)·WaveOne GOLD(reciprocation)의 canal transportation을 동일 S-shaped block에서 직접 비교 — minimally-invasive endodontics vs conventional shaping 의사결정 근거. [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]]의 minimum dentin thickness 안전마진 논의와 직접 연결.
 
 ## Three-line Summary
-In vitro S-shaped resin block (n=60): TruNatomy < WaveOne GOLD < ProTaper GOLD 순으로 canal transportation 적음; TruNatomy shaping time 최단; ProTaper GOLD apical curve(2-3 mm) 위치 transportation 최대.
 
+In vitro S-shaped resin block (n=60): TruNatomy < WaveOne GOLD < ProTaper GOLD 순으로 canal transportation 적음
+
+TruNatomy shaping time 최단
+
+ProTaper GOLD apical curve(2-3 mm) 위치 transportation 최대.
+
+## 세줄요약
+
+In vitro S-shaped resin block (n=60): TruNatomy < WaveOne GOLD < ProTaper GOLD 순으로 canal transportation 적음
+
+TruNatomy shaping time 최단
+
+ProTaper GOLD apical curve(2-3 mm) 위치 transportation 최대.
 
 ## 1. Document Information
 - BMC Oral Health 21:533 (2021)

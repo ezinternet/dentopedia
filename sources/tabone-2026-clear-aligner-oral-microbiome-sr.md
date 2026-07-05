@@ -18,7 +18,6 @@ text_filename: tabone-2026-clear-aligner-oral-microbiome-sr.txt
 
 ## Three-line Summary
 
-
 Systematic review (PRISMA, PROSPERO 628072) of 12 observational studies (4 hours–12 months follow-up) found that clear aligners (CA) generally promote more stable oral microbiota and better periodontal parameters than fixed appliances (FA), though early (4–24h) CA use induces transient alpha-diversity decreases and increased acidity, and one included study found Invisalign did not outperform FA in microbiome composition/function.
 
 (incomplete)
@@ -26,7 +25,6 @@ Systematic review (PRISMA, PROSPERO 628072) of 12 observational studies (4 hours
 (incomplete)
 
 ## 세줄요약
-
 
 12편의 관찰연구(4시간~12개월 추적)를 정성종합한 체계적 문헌고찰(PRISMA, PROSPERO 628072)로, 투명교정장치(clear aligner, CA)가 고정장치(fixed appliance, FA)보다 대체로 더 안정적인 구강 미생물총과 우수한 치주 지표를 보였으나, 초기(4~24시간) 착용 시 일시적 alpha diversity 감소와 산성화가 관찰되었고, 포함된 연구 중 하나(Wang et al.)는 Invisalign이 미생물총 구성·기능 면에서 FA보다 우월하지 않다는 상반된 결론을 보고했다.
 

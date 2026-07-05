@@ -19,7 +19,6 @@ text_filename: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr.txt
 
 ## Three-line Summary
 
-
 Scoping review of 125 studies (25 RCTs, 60 cohort, 40 SRs) mapping antibiotic prophylaxis evidence across oral and maxillofacial surgery: perioperative prophylaxis (≤24 h) is supported for high-risk procedures, but extended postoperative courses beyond 24 h do not reduce SSI rates and increase antimicrobial resistance risk.
 
 (incomplete)
@@ -27,7 +26,6 @@ Scoping review of 125 studies (25 RCTs, 60 cohort, 40 SRs) mapping antibiotic pr
 (incomplete)
 
 ## 세줄요약
-
 
 구강악안면외과 125편(RCT 25, 코호트 60, SR 40) 스코핑 리뷰: 제3대구치 발치·하악골절·TMJ 치환·복잡 임플란트·두경부종양 절제술에서 항생제 예방투여 (Antibiotic Prophylaxis, AP)가 지지되나, 술후 24시간 초과 연장 투여는 수술부위감염 (Surgical Site Infection, SSI) 감소 효과 없이 항균제 내성 (Antimicrobial Resistance, AMR) 위험만 증가시킨다.
 

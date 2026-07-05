@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-2017 치주 세계 워크샵 Workgroup 2 합의: 치주염 새 분류 체계(병기 I–IV, 등급 A–C) 발표.
 
+2017 치주 세계 워크샵 Workgroup
+
+2 합의: 치주염 새 분류
+
+체계(병기 I–IV, 등급 A–C) 발표.
+
+## 세줄요약
+
+2017 치주 세계 워크샵 Workgroup
+
+2 합의: 치주염 새 분류
+
+체계(병기 I–IV, 등급 A–C) 발표.
 
 ## 1. Document Information
 - **Title**: Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions

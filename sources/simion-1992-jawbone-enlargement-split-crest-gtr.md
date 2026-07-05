@@ -18,7 +18,6 @@ text_filename: simion-1992-jawbone-enlargement-split-crest-gtr.txt
 
 ## Three-line Summary
 
-
 Case series (n=5): a single-stage split-crest that longitudinally divides the ridge to provoke a greenstick fracture, spreads the cortical plates with a chisel, places immediate implants, and covers with e-PTFE (GTR) — yielding 1–4 mm width gain (greater in the maxilla) with histologic interpositional bone regeneration.
 
 (incomplete)
@@ -26,7 +25,6 @@ Case series (n=5): a single-stage split-crest that longitudinally divides the ri
 (incomplete)
 
 ## 세줄요약
-
 
 split-crest 고전 증례군(n=5): 치조제를 길이방향으로 분할해 녹색골절을 유발하고 끌로 피질판을 벌린 뒤 즉시 임플란트 식립·e-PTFE 막(GTR) 적용 → 폭 1–4 mm 증가(상악에서 더 큼), 조직학적으로 분할면 사이 골재생 확인.
 

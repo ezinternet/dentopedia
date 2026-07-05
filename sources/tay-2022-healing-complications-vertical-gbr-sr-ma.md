@@ -15,7 +15,6 @@ Part of a focused collection on vertical ridge augmentation (VRA). This SR/MA qu
 
 ## Three-line Summary
 
-
 SR/MA of 31 publications: when membrane exposure (without suppuration) occurs in vertical GBR, the ratio of means of vertical bone gained is 0.65 (95% CI 0.47–0.91) vs uneventful healing (0.62 [0.45–0.85] for abscess without exposure);
 
 overall healing-complication incidence ~11% site-level and ~10.8% patient-level — uncommon but markedly bone-reducing.
@@ -23,7 +22,6 @@ overall healing-complication incidence ~11% site-level and ~10.8% patient-level 
 (incomplete)
 
 ## 세줄요약
-
 
 31편 SR/MA: 수직 GBR에서 막노출(화농 없음) 발생 시 수직골증가량 비(RoM)가 정상 치유 대비 0.65 (95% CI 0.47–0.91), 노출 없는 농양은 0.62 (0.45–0.85) — 치유합병증은 부위/환자 수준 각 약 11%/10.8%로 드물지만 골획득을 크게 감소.
 

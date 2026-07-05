@@ -12,8 +12,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA on irrigant activation techniques (IATs) vs conventional needle irrigation (CNI): ANP best at working-length delivery, followed by PUI > SI > MDA; IATs routinely recommended.
 
+SR+MA on irrigant activation techniques (IATs) vs conventional
+
+needle irrigation (CNI): ANP best at working-length delivery,
+
+followed by PUI > SI > MDA; IATs routinely recommended.
+
+## 세줄요약
+
+SR+MA on irrigant activation techniques (IATs) vs conventional
+
+needle irrigation (CNI): ANP best at working-length delivery,
+
+followed by PUI > SI > MDA; IATs routinely recommended.
 
 ## 1. Document Information
 KLE Academy, India. European Endodontic Journal open-access SR+MA. Searched MEDLINE, Scopus, Cochrane. Focus: irrigant penetration to working length (WL) in straight and curved canals.

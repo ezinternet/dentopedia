@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Examiner-blind split-mouth RCT (30 patients, 60 NCCL restorations, 18-month follow-up) found no significant difference between rubber dam and cotton roll/retraction cord isolation for retention rate (73% vs 73% at 18 months), gingival damage, patient preference, or chairside time.
 
 (incomplete)
@@ -23,7 +22,6 @@ Examiner-blind split-mouth RCT (30 patients, 60 NCCL restorations, 18-month foll
 (incomplete)
 
 ## 세줄요약
-
 
 Examiner-blind split-mouth RCT(환자 30명, 유치경부병소 수복물 60개, 18개월 추적)에서 러버댐과 코튼롤/견인사 격리법 간 유지율(18개월 73% vs 73%), 치은손상, 환자 선호도, 시술시간 모두 유의한 차이가 없었다.
 

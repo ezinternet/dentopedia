@@ -15,7 +15,6 @@ Part of a focused collection on vertical ridge augmentation, covering the high-c
 
 ## Three-line Summary
 
-
 Retrospective case series (15 patients, 33 implants, 2005–2010, Seoul National University Bundang Hospital): simultaneous maxillary sinus bone graft + vertical ridge augmentation (Ti-mesh/membrane in nearly all) gave 81.8% implant survival and success, low grafted-bone resorption (sinus 0.37 mm, ridge 0.20 mm at final), but elevated complications (4 Ti-mesh/membrane exposures) — authors recommend delayed implant placement.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective case series (15 patients, 33 implants, 2005–2010, Seoul National
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 증례 시리즈 (환자 15명, 임플란트 33개, 2005–2010, 분당서울대병원): 상악동 골이식 + 수직 치조제 증대술 동시 시행(거의 전 증례에서 티타늄 메시/차폐막)에서 임플란트 생존·성공률 81.8%, 이식골 흡수는 낮았으나(최종 상악동 0.37 mm, 치조제 0.20 mm) 합병증(티타늄 메시/막 노출 4건)이 많아 지연 식립을 권고.
 

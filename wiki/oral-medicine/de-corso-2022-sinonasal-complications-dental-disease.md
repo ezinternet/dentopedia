@@ -36,7 +36,6 @@ FESS is the definitive primary surgical approach for SCDDT regardless of CT exte
 
 FESS는 CT 범위에 관계없이 SCDDT의 1차 수술적 접근; 상악동 개방이면 충분하나 모든 병변 부비동 처리 권장; 임플란트 제거는 탈구 시에만, 주위염(peri-implantitis) 단독으로는 불필요.
 
-
 ## Summary
 
 De Corso et al. report a real-world tertiary-center experience managing 262 patients with sinonasal complications of dental disease or treatment (SCDDT) using a standardized multidisciplinary protocol (ENT + dental + radiology). All patients underwent endoscopic endonasal sinus surgery (FESS) as the primary surgical modality — no Caldwell-Luc or external approach was used. The overall treatment success rate was 96.5%, with rapid QoL improvement documented by SNOT-22 (43.4 pre-op → 6 at 15 days, p < 0.05). The SCDDT terminology and classification by Felisati (2013) was applied throughout, distinguishing pre-implantologic (Group I, 8.4%), implantologic (Group II, 23.7%), and classic dental disease/treatment complications (Group III, 67.9%).

@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (10 studies, 1,809 sinus lifts): lower residual ridge height is significantly associated with Schneiderian membrane perforation during lateral-window sinus floor elevation (MD −0.89 mm, 95% CI −1.47 to −0.31;
 
 small RRH OR 2.47, NS in primary analysis but significant after outlier removal).
@@ -24,7 +23,6 @@ small RRH OR 2.47, NS in primary analysis but significant after outlier removal)
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (10연구, 1,809회 상악동거상술): 잔류 치조골 높이 (Residual Ridge Height, RRH)가 낮을수록 측방창 (Lateral Window) 상악동거상술에서 슈나이더 막 천공 위험 증가 (MD −0.89 mm;
 

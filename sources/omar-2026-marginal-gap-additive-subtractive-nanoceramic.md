@@ -19,7 +19,6 @@ CAD/CAM 보철재료 카테고리에 milling vs 3D-printing 비교 근거를 보
 
 ## Three-line Summary
 
-
 In-vitro comparative study (BMC Oral Health 2026, 20 implant fixtures): milled Nanoksa G-Plus hybrid nanoceramic crowns showed significantly smaller marginal gaps (34.08→37.76 µm before/after thermomechanical aging) than 3D-printed Nanoksa BioGuard crowns (59.71→63.83 µm), both within McLean & von Fraunhofer's 120 µm clinical acceptability threshold, but milling significantly superior for this novel material class.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro comparative study (BMC Oral Health 2026, 20 implant fixtures): milled N
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 비교연구(BMC Oral Health 2026, 임플란트 고정체 20개): 밀링 Nanoksa G-Plus 하이브리드 나노세라믹 크라운의 변연격차(34.08→37.76 µm, 열역학적 노화 전후)가 3D프린팅 Nanoksa BioGuard(59.71→63.83 µm)보다 유의하게 작음 — 둘 다 McLean & von Fraunhofer의 임상 허용 기준 120 µm 이내지만, 밀링이 이 신규 재료군에서 변연적합도 면에서 유의하게 우수.
 

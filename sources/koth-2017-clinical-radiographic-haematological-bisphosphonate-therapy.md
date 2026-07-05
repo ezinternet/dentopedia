@@ -18,7 +18,6 @@ Extends the MRONJ knowledge base from prevention/management ([[wiki/drug/lee-202
 
 ## Three-line Summary
 
-
 Retrospective study of bisphosphonate-treated patients: alkaline phosphatase and ESR were significantly higher in the BRONJ group, and BRONJ associated with smoking, tooth extraction, anaemia and leukocytosis plus radiographic persisting alveolar socket, osteolysis, bone sclerosis and mandibular canal narrowing.
 
 (incomplete)
@@ -26,7 +25,6 @@ Retrospective study of bisphosphonate-treated patients: alkaline phosphatase and
 (incomplete)
 
 ## 세줄요약
-
 
 비스포스포네이트 복용 환자 후향연구: BRONJ 군에서 ALP·ESR이 유의하게 높았고, BRONJ는 흡연·발치·빈혈·백혈구증가증 및 방사선 소견(잔존 발치와·골용해·골경화·하악관 협착)과 연관됨.
 

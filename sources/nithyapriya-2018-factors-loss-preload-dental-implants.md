@@ -19,7 +19,6 @@ This is the foundational reference page for the *complete inventory of factors t
 
 ## Three-line Summary
 
-
 Narrative/literature-search review (MEDLINE-PubMed, 10-year window;
 
 84 articles screened → 36 analyzed, no quality appraisal) cataloguing the factors that cause loss of preload in implant abutment screws — material (gold > Ti-alloy > surface-treated Ti > pure Ti), connection type (internal > external hex), calibrated torque, retorque after 10 min, lubrication, settling effect, and abutment collar length.
@@ -27,7 +26,6 @@ Narrative/literature-search review (MEDLINE-PubMed, 10-year window;
 (incomplete)
 
 ## 세줄요약
-
 
 문헌검색 기반 서술적 리뷰(MEDLINE-PubMed 10년, 84편 스크리닝 → 36편 분석, 질평가 없음)로, 임플란트 지대주 나사의 예압(preload) 손실을 유발하는 요인들을 총정리한다 — 재료(금 > 티타늄 합금 > 표면처리 Ti > 순 Ti), 연결형태(내부 > 외부 hex), 보정된 토크기, 10분 후 재토크, 윤활, 세틀링 효과, 지대주 칼라 길이.
 

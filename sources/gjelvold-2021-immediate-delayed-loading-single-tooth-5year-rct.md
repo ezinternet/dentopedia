@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 RCT (n=50, healed maxillary anterior/premolar sites): immediate loading (IL) and delayed loading (DL) of single-tooth implants gave statistically indistinguishable 5-year survival (100% vs 95.8%), marginal bone loss (−0.50 vs −0.54 mm), papilla index, and PES/WES — IL is as safe as DL esthetically and biologically at 5 years.
 
 (incomplete)
@@ -23,7 +22,6 @@ RCT (n=50, healed maxillary anterior/premolar sites): immediate loading (IL) and
 (incomplete)
 
 ## 세줄요약
-
 
 무작위대조시험 (RCT, n=50, 치유된 상악 심미영역): 단일치 임플란트의 즉시부하 (Immediate Loading, IL)와 지연부하 (Delayed Loading, DL)는 5년 생존율(100% vs 95.8%), 변연골소실(−0.50 vs −0.54 mm), 치간유두지수, 분홍·백색 심미점수(PES/WES) 모두 통계적 차이가 없어 — IL이 DL만큼 심미적·생물학적으로 안전함을 5년 시점에 입증.
 

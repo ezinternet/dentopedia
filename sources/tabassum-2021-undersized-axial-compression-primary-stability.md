@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cadaver-goat experimental study (44 implants, 4 surgical approaches) showing that combining lateral (undersized) and axial (under-depth) bone compression significantly raises insertion torque and %BIC vs standard drilling, proposed as an alternative for low-density bone.
 
 (incomplete)
@@ -23,7 +22,6 @@ Cadaver-goat experimental study (44 implants, 4 surgical approaches) showing tha
 (incomplete)
 
 ## 세줄요약
-
 
 염소 사체 실험(임플란트 44개, 4개 술식)에서 측방압축(언더사이즈)과 축방향압축(식립 깊이 미달 드릴링)을 결합하면 표준 드릴링 대비 식립 토크와 골-임플란트 접촉률(BIC)이 유의하게 증가 — 저밀도골 대체 술식으로 제안.
 

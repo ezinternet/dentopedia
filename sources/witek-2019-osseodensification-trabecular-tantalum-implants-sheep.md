@@ -14,8 +14,20 @@ source_collection: external
 Tests whether the osseodensification (OD) autografting mechanism interacts with implant porosity — first in vivo pairing of OD with a porous trabecular tantalum implant, finding OD-CCW raises BAFO via bone chips trapped in the porous network. Extends the OD mechanism evidence of [[overviews/osseodensification-clinical-applications]] into the porous-implant/surface domain alongside [[overviews/implant-surface-comparison]].
 
 ## Three-line Summary
-Sheep ilium 3-week histology — three osteotomy modes (Regular, OD-CW, OD-CCW) for trabecular tantalum implants; OD-CCW showed higher BAFO% than Regular due to bone chips trapped in the porous network, with no other significant differences.
 
+Sheep ilium 3-week histology — three osteotomy modes (Regular, OD-CW, OD-CCW)
+
+for trabecular tantalum implants; OD-CCW showed higher BAFO% than Regular due
+
+to bone chips trapped in the porous network, with no other significant differences.
+
+## 세줄요약
+
+Sheep ilium 3-week histology — three osteotomy modes (Regular, OD-CW, OD-CCW)
+
+for trabecular tantalum 임플란트; OD-CCW showed higher BAFO% than Regular due
+
+to bone chips trapped in the porous network, with no other 유의미한 differences.
 
 ## 1. Document Information
 - **Type**: Animal experimental (in vivo histomorphometry)

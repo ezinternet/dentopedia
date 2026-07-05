@@ -19,7 +19,6 @@ text_filename: sierra-rebolledo-2021-undersized-drilling-immediate-tapered-impla
 
 ## Three-line Summary
 
-
 RCT (n=30 immediate tapered implants, anterior maxilla;
 
 16 conventional vs 14 undersized drilling): undersized drilling did NOT significantly improve primary stability — IT slightly higher in UD (41.36 vs 38.44 Ncm, p=0.654) but RFA/ISQ consistently higher in conventional group at all timepoints, no significant between-group ISQ difference over 12 weeks.
@@ -27,7 +26,6 @@ RCT (n=30 immediate tapered implants, anterior maxilla;
 (incomplete)
 
 ## 세줄요약
-
 
 RCT (즉시식립 tapered 임플란트 30개, 상악 전치부;
 

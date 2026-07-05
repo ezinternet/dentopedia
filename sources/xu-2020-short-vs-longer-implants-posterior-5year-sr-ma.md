@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis (≥5-year follow-up) finding short implants in the posterior region have survival similar to long implants in the mandible but possibly lower in the maxilla, with fewer biological complications overall.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review + meta-analysis (≥5-year follow-up) finding short implants i
 (incomplete)
 
 ## 세줄요약
-
 
 ≥5년 추적 SR+MA — 구치부 short implant는 하악에서 long과 생존율 유사하나 상악에서는 더 낮을 수 있고, 전반적으로 생물학적 합병증은 적음 (부위 의존성).
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 42 studies found complete dentures have a weighted mean longevity of 10.1 ± 4.0 years overall, with maxillary dentures lasting longer (10.3 yr) than mandibular (8.6 yr), and failure proportions rising from 5% at ≤2 years to 41% at ≥10 years.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 42 studies found complete dentures have a weighted mean longevity of 10
 (incomplete)
 
 ## 세줄요약
-
 
 42개 연구의 SR+MA 결과, 총의치 가중평균 수명은 10.1 ± 4.0년이며, 상악의치(10.3년)가 하악의치(8.6년)보다 길고, 실패율은 2년 이하 5%에서 10년 이상 41%로 증가한다.
 

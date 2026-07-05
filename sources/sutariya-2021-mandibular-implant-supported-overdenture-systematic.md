@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 6 RCTs (2010–2020) comparing ball, bar, magnet, locator, and telescopic attachments for mandibular 2-implant overdentures — ball < locator in prosthodontic complications (RR 0.55, p=0.03);
 
 bar ≈ telescopic in MBL and probing depth;
@@ -23,7 +22,6 @@ bar ≈ telescopic in MBL and probing depth;
 bar = best retention, telescopic = best patient satisfaction.
 
 ## 세줄요약
-
 
 하악 2임플란트 피개의치 어태치먼트 비교 SR+MA (6 RCT): 볼 어태치먼트가 로케이터보다 보철합병증 적음 (RR 0.55, p=0.03);
 

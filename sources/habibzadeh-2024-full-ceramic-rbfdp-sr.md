@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR of 14 studies on all-ceramic resin-bonded fixed dental prostheses (RBFDPs): cantilever single-abutment designs with zirconia or IPS e.max ZirCAD frameworks achieved 76–100% survival at 3–10 years; debonding then framework fracture remain dominant failure modes.
+
+SR of 14 studies on all-ceramic resin-bonded fixed dental prostheses (RBFDPs):
+
+cantilever single-abutment designs with zirconia or IPS e.max ZirCAD frameworks achieved
+
+76–100% survival at 3–10 years; debonding then framework fracture remain dominant failure modes.
+
+## 세줄요약
+
+SR of 14 studies on all-ceramic resin-bonded fixed dental prostheses (RBFDPs):
+
+cantilever single-abutment designs with zirconia or IPS e.max ZirCAD frameworks achieved
+
+76–100% survival at 3–10 years; debonding then framework fracture remain dominant failure modes.
 
 ## 1. Document Information
 - **Journal**: J Appl Biomater Funct Mater 2024 (SAGE)

@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Materials 2022;15:5068: 5 cleaning methods for contaminated zirconia — evaluated SBS after various cleaning protocols; confirms cleaning mandatory before cementation.
+
+Materials 2022;15:5068: 5 cleaning methods for
+
+contaminated zirconia — evaluated SBS after
+
+various cleaning protocols; confirms cleaning mandatory before cementation.
+
+## 세줄요약
+
+Materials 2022;15:5068: 5 cleaning methods for
+
+contaminated zirconia — evaluated SBS after
+
+various cleaning protocols; confirms cleaning mandatory before cementation.
 
 ## 1. Key Results
 - King Abdulaziz University study

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Eur J Med Res 2025;30:382 — narrative review of AI in healthcare practice covering robot-assisted surgery, rehabilitation, medical imaging/diagnostics, virtual patient care, drug discovery, patient engagement, administrative use; integrates AR/VR/IoT directions; not dental-specific.
 
+Eur J Med Res 2025;30:382 — narrative review of AI in healthcare practice covering robot-assisted surgery, rehabilitation, medical imaging/diagnostics, virtual patient care, drug discovery, patient engagement, administrative use
+
+integrates AR/VR/IoT directions
+
+not dental-specific.
+
+## 세줄요약
+
+Eur J Med Res 2025;30:382 — narrative review of AI in healthcare practice covering robot-assisted surgery, rehabilitation, medical imaging/diagnostics, virtual patient care, drug discovery, patient engagement, administrative use
+
+integrates AR/VR/IoT directions
+
+not dental-specific.
 
 ## 1. Document Information
 - Journal: European Journal of Medical Research 2025;30:382

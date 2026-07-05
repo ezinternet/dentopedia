@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 CE narrative review synthesizing animal and human data on buccal gap management in immediate implant placement, providing 14 clinical guidelines on grafting thresholds, implant positioning, buccal plate thickness, and flap approaches.
 
 (incomplete)
@@ -24,7 +23,6 @@ CE narrative review synthesizing animal and human data on buccal gap management 
 (incomplete)
 
 ## 세줄요약
-
 
 즉시식립 후 협측 갭(buccal gap) 관리에 관한 CE 서술 리뷰로, 동물·인체 데이터를 종합해 골이식 임계값·임플란트 위치·협측판 두께·판막 접근법에 대한 14가지 임상 가이드라인을 제시한다.
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review (Cureus 2024, 11 studies, 2010–2024): guided implant drilling generates significantly higher bone temperatures than non-guided osteotomy due to metal sleeves blocking irrigation, but in most reports peak temperatures remain below the 47°C/1 min necrosis threshold when irrigation, drill geometry, and speed are appropriately managed.
 
+Systematic review (Cureus 2024, 11 studies, 2010–2024): guided implant drilling generates significantly higher bone temperatures
+
+than non-guided osteotomy due to metal sleeves blocking irrigation, but in most reports peak temperatures
+
+remain below the 47°C/1 min necrosis threshold when irrigation, drill geometry, and speed are appropriately managed.
+
+## 세줄요약
+
+체계적 고찰 (SR) (Cureus 2024, 11 studies, 2010–2024): guided implant drilling generates 유의미한ly higher bone temperatures
+
+than non-guided osteotomy due to metal sleeves blocking irrigation, but in most reports peak temperatures
+
+remain below the 47°C/1 min necrosis threshold when irrigation, drill geometry, and speed are appropriately managed.
 
 ## 1. Document Information
 - Journal: Cureus 16(9):e70216, September 2024

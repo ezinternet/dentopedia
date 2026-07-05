@@ -37,7 +37,6 @@ For low-risk healthy adults, fixed-interval routine prophylaxis is not evidence-
 
 저위험 건강 성인에서 고정 간격 예방처치는 치주건강에 근거가 없으며, 개인 위험도 기반 리콜로의 전환을 지지.
 
-
 ## Summary
 
 This Cochrane review (update of the 2013 version) asks whether **routine scaling and polishing** — professional removal of plaque, calculus, debris and staining without surgery, chemotherapeutics or root planing, also called *prophylaxis* or *professional mechanical plaque removal (PMPR)* — benefits low-risk healthy adults, and at what recall interval. Pooling two UK general-practice RCTs (n=1711) of regularly attending adults without severe periodontitis, it finds **high-certainty evidence of little or no effect** on gingivitis, probing depth, and oral-health-related quality of life over 2–3 years, whether treatment is scheduled 6- or 12-monthly or omitted entirely. The only consistent effect is a **small reduction in calculus** (larger with 6-monthly recall), whose clinical importance is unclear. No trial measured adverse effects, and none compared dentists with hygienists/therapists. The practical message: for low-risk healthy adults, fixed-interval routine prophylaxis is not evidence-based for periodontal health, supporting risk-based recall.

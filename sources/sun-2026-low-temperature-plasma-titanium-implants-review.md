@@ -14,8 +14,20 @@ source_collection: external
 [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]]·[[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]] UV photofunctionalization과 유사 — '표면 활성화/clean-up'으로 osseointegration 향상 + 항균성. LTP는 chairside·shelf-life 측면 추가 장점. [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] 의 hydrocarbon contamination 문제와 직접 연결되는 해법.
 
 ## Three-line Summary
-Narrative review (Biomaterials Advances 2026, Aug issue): LTP의 표면화학 변화 — bulk 미영향, 항균 + osteoblast 부착/증식/분화 향상; plasma aging·임상전이 장벽 비판적 검토.
 
+Narrative review (Biomaterials Advances 2026, Aug issue):
+
+LTP의 표면화학 변화 — bulk 미영향, 항균
+
++ osteoblast 부착/증식/분화 향상; plasma aging·임상전이 장벽 비판적 검토.
+
+## 세줄요약
+
+Narrative review (Biomaterials Advances 2026, Aug issue):
+
+LTP의 표면화학 변화 — bulk 미영향, 항균
+
++ osteoblast 부착/증식/분화 향상; plasma aging·임상전이 장벽 비판적 검토.
 
 ## 1. Document Information
 - Biomaterials Advances 2026 (Aug issue), DOI 10.1016/j.bioadv.2026.214884

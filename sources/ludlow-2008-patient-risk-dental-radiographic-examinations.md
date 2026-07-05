@@ -18,7 +18,6 @@ text_filename: ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 
 ## Three-line Summary
 
-
 Phantom-based dosimetry study recalculating effective doses of common dental radiographs using 2007 ICRP recommendations: intraoral PSP+rect-collimation full-mouth 34.9 µSv, 4 bitewings 5.0 µSv, panoramic 14–24 µSv.
 
 (incomplete)
@@ -26,7 +25,6 @@ Phantom-based dosimetry study recalculating effective doses of common dental rad
 (incomplete)
 
 ## 세줄요약
-
 
 2007 ICRP 권고안 적용 재계산: 구내 전악(PSP+직사각조준) 34.9 µSv, 4매 bite-wing 5.0 µSv, 파노라마 14–24 µSv — 이전 값 대비 32–422% 상승.
 

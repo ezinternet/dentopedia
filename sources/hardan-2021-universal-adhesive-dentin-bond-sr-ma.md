@@ -10,7 +10,17 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Meta-analysis of 61 in vitro studies identifies 10 strategies that improve universal adhesive bond strength to dentin (MMP inhibitors, prolonged application, scrubbing, selective enamel etching, plasma, ethanol-wet bonding, prolonged blowing, multiple layers, prolonged curing, hydrophobic overlay) and 2 that impair it (shortened application time, dentin desensitizers).
+Meta-analysis of 61 in vitro studies identifies 10 strategies that improve universal adhesive bond strength to dentin (MMP inhibitors, prolonged application, scrubbing, selective
+
+enamel etching, plasma, ethanol-wet bonding, prolonged blowing, multiple layers, prolonged curing, hydrophobic overlay) and 2 that impair it (shortened application time, dentin desensitizers).
+
+(see methods).
+## 세줄요약
+체계적 문헌고찰 + 메타분석(in vitro 61개 연구, 5671개 검색): universal adhesive의 상아질 접착 강도를 개선하는 전략 10가지 (MMP 저해제, 연장된 적용시간, 문지르기 도포, 선택적 법랑질 산식, 플라즈마, 에탄올-습식 접착, 연장된 송풍, 다층 도포, 연장된 광중합, 소수성 층) 확인.
+
+저해 전략 2가지: 단축된 도포시간, 상아질 탈감재.
+
+임상적 의미: manufacturer 지침에 따른 능동적 도포 기법과 MMP 저해제가 universal adhesive의 접착력을 최적화하는 핵심 전략; desensitizer 병용은 피해야 함.
 
 ## 1. Document Information
 - **Journal**: Polymers 2021, 13, 814 (MDPI)

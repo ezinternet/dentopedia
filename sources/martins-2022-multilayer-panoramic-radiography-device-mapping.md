@@ -15,7 +15,6 @@ radiology 카테고리 파노라마 기하·초점골 이해의 기기 특이 �
 
 ## Three-line Summary
 
-
 Technical mapping of an OP300 Maxio multilayer panoramic device: all 5 image layers curved (39–51°), maxilla anteriorly displaced vs mandible, layers thicker at mandible.
 
 (incomplete)
@@ -23,7 +22,6 @@ Technical mapping of an OP300 Maxio multilayer panoramic device: all 5 image lay
 (incomplete)
 
 ## 세줄요약
-
 
 OP300 Maxio 다층 파노라마 초점골(focal trough) 매핑: 5개 영상층 모두 곡선(39~51°), 상악이 하악보다 전방 변위, 하악측 층이 더 두꺼움.
 

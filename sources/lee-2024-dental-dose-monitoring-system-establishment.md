@@ -14,8 +14,20 @@ source_collection: external
 신규 [[radiology]] subcategory의 첫 paper. 한국 치과 방사선량 모니터링 시스템 국가 단위 구축 — 우리 클리닉 CBCT 사용 빈도 증가 + 환자 방사선 노출 우려 대응 SOP 근거. [[radiology/kang-2024-national-dental-radiological-dose-management]] DRL paper와 한 쌍.
 
 ## Three-line Summary
-대한치과의사협회지 2024: 한국 치과 X-ray 장비 (intraoral·panoramic·CBCT)의 국가 단위 dose monitoring system 구축 — 통합 data collection 계획·pilot operation·전문가 의견 기반 향후 확장.
 
+대한치과의사협회지 2024: 한국 치과 X-ray 장비 (intraoral·panoramic·CBCT)의
+
+국가 단위 dose monitoring system 구축 —
+
+통합 data collection 계획·pilot operation·전문가 의견 기반 향후 확장.
+
+## 세줄요약
+
+대한치과의사협회지 2024: 한국 치과 X-ray 장비 (intraoral·panoramic·CBCT)의
+
+국가 단위 dose monitoring system 구축 —
+
+통합 data collection 계획·pilot operation·전문가 의견 기반 향후 확장.
 
 ## 1. Document Information
 - 대한치과의사협회지 (Journal of Korean Dental Association) 62(2), 2024

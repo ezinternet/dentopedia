@@ -19,7 +19,6 @@ text_filename: renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.txt
 
 ## Three-line Summary
 
-
 Cross-sectional practice-based study (147 patient records, single Australian general practice, 2014–2017): most cracked posterior teeth are asymptomatic (55.1%) and not visible before restoration removal (55.1%);
 
 cold sensitivity is associated with unrestored marginal ridges (OR 2.89), pre-removal-visible cracks (OR 3.04) and combined body+cusp cracks (OR 3.11), while stained cracks are inversely associated (OR 0.30);
@@ -27,7 +26,6 @@ cold sensitivity is associated with unrestored marginal ridges (OR 2.89), pre-re
 nearly half (51.7%) of cracked teeth gave a negative bite test.
 
 ## 세줄요약
-
 
 단면 개원가 연구 (호주 일반치과 1곳 환자기록 147건, 2014–2017): 균열치의 55.1%가 무증상이고 55.1%는 수복물 제거 전엔 균열이 안 보였다.
 

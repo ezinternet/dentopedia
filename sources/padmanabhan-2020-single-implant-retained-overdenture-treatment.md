@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (17 studies, 11 in meta-analysis) reporting 5-year implant survival of 91.93% and 10-year survival of 84.62% for single implant-retained mandibular overdentures, with delayed loading showing highest survival and locator abutments requiring most maintenance.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (17 studies, 11 in meta-analysis) reporting 5-year implant survival of 91.
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (17편, 11편 메타분석): 단일 임플란트 하악 피개의치의 5년 생존율 91.93%, 10년 생존율 84.62%이며, 지연 부하 시 생존율 최고, 로케이터 어태치먼트는 유지관리 빈도 최다.
 

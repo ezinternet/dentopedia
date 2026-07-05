@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Chinese multi-center expert consensus (29 authors, IJOS 2025) providing a technique-selection decision tree for peri-implant keratinized mucosa augmentation at second-stage surgery based on implant site, residual KM width, mucosa thickness, and patient factors.
 
 (incomplete)
@@ -23,7 +22,6 @@ Chinese multi-center expert consensus (29 authors, IJOS 2025) providing a techni
 (incomplete)
 
 ## 세줄요약
-
 
 중국 다기관 전문가 컨센서스(저자 29인, IJOS 2025): 2차 수술 시 치근임플란트 각화점막 증대술의 술식 선택(ARF·FGG·SFGG·소프트티슈 대체재)을 임플란트 위치·잔존 각화점막 폭·점막 두께·환자 요소 기반으로 구조화한 결정 트리 제시.
 

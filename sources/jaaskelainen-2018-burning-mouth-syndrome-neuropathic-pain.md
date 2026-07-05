@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 NeuPSIG (PAIN) review concluding that primary BMS is a neuropathic pain condition with neurophysiologically verifiable lesions, divisible into peripheral and central subtypes (often overlapping) that differ in treatment response and psychiatric comorbidity.
 
 (incomplete)
@@ -23,7 +22,6 @@ NeuPSIG (PAIN) review concluding that primary BMS is a neuropathic pain conditio
 (incomplete)
 
 ## 세줄요약
-
 
 NeuPSIG(PAIN) 리뷰 — 일차성 BMS는 신경생리 검사로 확인되는 신경병성 통증이며, 치료 반응과 정신과 동반이 다른 말초형·중추형 두 아형(개인 내 중첩 가능)으로 나뉜다고 결론.
 

@@ -19,7 +19,6 @@ text_filename: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.t
 
 ## Three-line Summary
 
-
 Systematic review (PRISMA/PROSPERO;
 
 7 human studies, 39 patients, 45 ridges) finding resorbable scaffolds (PLA/PCL/PLGA/β-TCP) are a viable alternative to conventional grafting for alveolar ridge augmentation that avoids second-stage mesh removal, but evidence is too sparse and heterogeneous for meta-analysis (1 RCT, mostly case series;
@@ -27,7 +26,6 @@ Systematic review (PRISMA/PROSPERO;
 high risk of bias; degradation kinetics unreported in every study).
 
 ## 세줄요약
-
 
 체계적 문헌고찰(7개 임상연구, 환자 39명·치조제 45부위): resorbable scaffold(PLA/PCL/PLGA/β-TCP)는 2차 mesh 제거 수술을 피할 수 있는 conventional 골이식 대안으로 보이나, RCT 1편·대부분 증례군에 이질성이 커 메타분석 불가하고 비뚤림 위험이 높으며 모든 연구에서 분해속도(degradation time)가 보고되지 않았다.
 

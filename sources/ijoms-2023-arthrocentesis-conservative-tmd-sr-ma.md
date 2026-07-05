@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA of 7 RCTs (448 patients) comparing arthrocentesis vs. conservative management for painful TMD; arthrocentesis significantly improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
+
+SR+MA of 7 RCTs (448 patients) comparing arthrocentesis
+
+vs. conservative management for painful TMD; arthrocentesis significantly
+
+improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
+
+## 세줄요약
+
+SR+MA of 7 RCTs (448 patients) comparing arthrocentesis
+
+vs. conservative management for painful TMD; arthrocentesis 유의미한ly
+
+improved MMO (+1.12 mm, p=0.001) with borderline pain benefit.
 
 ## 1. Document Information
 - **Journal**: International Journal of Oral and Maxillofacial Surgery 2023;52(8):889–896

@@ -17,7 +17,6 @@ full_text: false
 
 ## Three-line Summary
 
-
 Retrospective (n=16): 3D-printed micro-perforated grade-2 Ti mesh + pure autologous bone → 0% mesh exposure, targeted augmentation achieved in all cases (planned = real CBCT outcomes).
 
 (incomplete)
@@ -25,7 +24,6 @@ Retrospective (n=16): 3D-printed micro-perforated grade-2 Ti mesh + pure autolog
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 연구 (n=16): 3D 프린팅 마이크로퍼포레이션 grade-2 Ti 메쉬 + 순수 자가골 → 메쉬 노출 0%, 계획과 실제 CBCT 골증대량 일치.
 

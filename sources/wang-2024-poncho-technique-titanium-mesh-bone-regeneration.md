@@ -15,7 +15,6 @@ Part of the flap-design / tension-free primary closure collection, specifically 
 
 ## Three-line Summary
 
-
 Case series (5 patients, 23 surgical sites, severe atrophic ridges with customized titanium mesh) showing the modified "Poncho" technique (MPT) achieved uneventful soft-tissue healing at 95.7% of sites (1/23 partial dehiscence) with Landry's healing index rising from 3 ± 0.47 to 4.69 ± 1.06 over 30 days.
 
 (incomplete)
@@ -23,7 +22,6 @@ Case series (5 patients, 23 surgical sites, severe atrophic ridges with customiz
 (incomplete)
 
 ## 세줄요약
-
 
 심한 위축성 치조제·맞춤형 티타늄 메시 5명·23부위 증례군.
 

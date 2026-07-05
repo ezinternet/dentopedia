@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-IJOD 2026: abutment height (2mm vs 4mm) × TheraCem vs GI cement for monolithic zirconia — strong positive correlation between abutment height and pull-out force; TheraCem > GI at both heights; zirconia + self-adhesive resin cement viable for short clinical crowns.
 
+IJOD 2026: abutment height (2mm vs 4mm) × TheraCem vs GI cement for monolithic zirconia — strong positive correlation between abutment height and pull-out force
+
+TheraCem > GI at both heights
+
+zirconia + self-adhesive resin cement viable for short clinical crowns.
+
+## 세줄요약
+
+IJOD 2026: abutment height (2mm vs 4mm) × TheraCem vs GI cement for monolithic zirconia — strong positive correlation between abutment height and pull-out force
+
+TheraCem > GI at both heights
+
+zirconia + self-adhesive resin cement viable for short clinical crowns.
 
 ## 1. Key Results
 - 60 molars; two abutment heights: 2mm and 4mm

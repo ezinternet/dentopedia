@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Big-data retrospective (n=650k patients, 58 clinics, 2014–2021): amalgam annual failure rate 3.5% vs composite 4.5%; composite HR 1.29 overall, significantly higher in multi-surface restorations; no difference for single-surface.
 
+Big-data retrospective (n=650k patients, 58 clinics, 2014–2021): amalgam annual failure rate 3.5% vs composite 4.5%
+
+composite HR 1.29 overall, significantly higher in multi-surface restorations
+
+no difference for single-surface.
+
+## 세줄요약
+
+Big-data 후향적 (n=650k patients, 58 clinics, 2014–2021): amalgam annual failure rate 3.5% vs composite 4.5%
+
+composite HR 1.29 overall, 유의미한ly higher in multi-surface restorations
+
+no difference for single-surface.
 
 ## 1. Document Information
 - **Journal**: Bioengineering 2024, 11, 579

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-2024 SR+MA from King Khalid University confirms botulinum toxin (보툴리눔독소) significantly reduces pain in TMD, with updated evidence from a larger trial pool than prior reviews; published in PLoS ONE.
 
+2024 SR+MA from King Khalid University confirms botulinum toxin (보툴리눔독소)
+
+significantly reduces pain in TMD, with updated evidence from a
+
+larger trial pool than prior reviews; published in PLoS ONE.
+
+## 세줄요약
+
+2024 SR+MA from King Khalid University confirms botulinum toxin (보툴리눔독소)
+
+유의미한ly reduces pain in TMD, with updated evidence from a
+
+larger trial pool than prior reviews; published in PLoS ONE.
 
 ## 1. Document Information
 - **Journal**: PLoS ONE 2024

@@ -15,7 +15,6 @@ Extends the fabrication-technique comparison to include cast glass ceramic venee
 
 ## Three-line Summary
 
-
 In-vitro study (Int J Prosthodont 1993, PMID 8507328) comparing marginal fit of platinum foil, refractory die, and cast glass ceramic (0.5 mm and 1.0 mm) porcelain veneers;
 
 platinum foil had the best fit, and thicker cast ceramic (1.0 mm) had the worst.
@@ -23,7 +22,6 @@ platinum foil had the best fit, and thicker cast ceramic (1.0 mm) had the worst.
 (incomplete)
 
 ## 세줄요약
-
 
 시험관 내 연구(1993): 네 가지 제작 기법 비교에서 백금박 기법의 변연 적합도가 가장 우수하였고, 1.0 mm 주조 글래스세라믹이 가장 불량하였음.
 

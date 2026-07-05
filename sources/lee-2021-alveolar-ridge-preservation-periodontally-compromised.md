@@ -15,7 +15,6 @@ Most alveolar ridge preservation (ARP) evidence comes from intact, non-infected 
 
 ## Three-line Summary
 
-
 Retrospective cohort (418 periodontally compromised extraction sites, 287 patients): ARP significantly reduced implant-placement infeasibility (0.8% vs 4.7% no-ARP) and reduced the need/severity of bone augmentation at implant placement.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective cohort (418 periodontally compromised extraction sites, 287 patien
 (incomplete)
 
 ## 세줄요약
-
 
 후향연구 (치주적으로 손상된 발치와 418부위, 287명): ARP를 시행하면 임플란트 식립 불가율이 0.8%로 무ARP군(4.7%)보다 유의하게 낮아지고, 식립 시 골이식 필요성·범위도 줄어들었다.
 

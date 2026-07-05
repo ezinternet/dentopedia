@@ -15,7 +15,6 @@ Comprehensive physiology-grounded narrative review of oral local anesthesia in p
 
 ## Three-line Summary
 
-
 Narrative review (West China Hospital of Stomatology, 182 studies included from 546 screened): standard oral local anesthesia is safe throughout pregnancy;
 
 2% lidocaine with 1:200,000 epinephrine best balances maternal/fetal safety and efficacy;
@@ -23,7 +22,6 @@ Narrative review (West China Hospital of Stomatology, 182 studies included from 
 lidocaine and prilocaine are FDA category B (safe) while articaine/mepivacaine/bupivacaine are category C (caution); best elective timing is weeks 14–20 (second trimester), with semi-supine positioning and BP monitoring for high-risk mothers.
 
 ## 세줄요약
-
 
 내러티브 리뷰 (West China Hospital of Stomatology, 546편 스크리닝 중 182편 포함): 표준 구강 국소마취는 임신 전 기간 안전;
 

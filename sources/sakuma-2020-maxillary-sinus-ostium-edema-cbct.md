@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (n=72 sinuses, 59 patients): after lateral-window SFE, MSO diameter narrowed from 1.8 mm to 1.1 mm at 1 week with 19.4% infundibulum occlusion, fully recovering to 1.5 mm / 1.4% occlusion by 9 months with no sinusitis cases.
 
 (incomplete)
@@ -24,7 +23,6 @@ Retrospective CBCT study (n=72 sinuses, 59 patients): after lateral-window SFE, 
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 CBCT 연구 (n=72 상악동, 59명): 측방창 상악동거상술 후 1주에 MSO 직경이 1.8→1.1 mm로 감소하고 누두 폐쇄 19.4%까지 증가하지만, 9개월에 1.5 mm / 1.4%로 완전 회복;
 

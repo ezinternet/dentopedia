@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs;
 
 n 20–297) found social-cognitive-model interventions combining goal-setting, planning, self-monitoring and feedback may improve oral hygiene in periodontitis patients, and CBT combined with motivational interviewing may reduce plaque and bleeding scores.
@@ -23,7 +22,6 @@ n 20–297) found social-cognitive-model interventions combining goal-setting, p
 (incomplete)
 
 ## 세줄요약
-
 
 21개 연구(RCT 16편, 비무작위 5편;
 

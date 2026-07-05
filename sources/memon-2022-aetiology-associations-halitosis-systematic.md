@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (19 studies, 2014–2020) concluding that 80–90% of halitosis is intra-oral in origin, with coated tongue, periodontal disease, and poor oral hygiene as the leading factors.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review (19 studies, 2014–2020) concluding that 80–90% of halitosi
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(19편, 2014–2020): 구강 악취의 80–90 %는 구강내 원인(설태·치주질환·구강위생 불량)이며, 10–20 %는 구강외 전신질환에 기인함.
 

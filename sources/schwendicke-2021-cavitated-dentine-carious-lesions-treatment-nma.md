@@ -19,7 +19,6 @@ Sealant-surveillance / seal-vs-restore 감시 인제스트 — minimal-intervent
 
 ## Three-line Summary
 
-
 Cochrane SR + network meta-analysis (27 RCTs, 3350 participants, 4195 teeth) of carious-tissue-removal strategies: for deep lesions, conventional complete removal (CR) had the highest probability of failure vs selective (SE), stepwise (SW), and Hall technique (HT);
 
 in primary teeth HT beat CR (OR 8.35 for CR-vs-HT failure) and NRCC.
@@ -27,7 +26,6 @@ in primary teeth HT beat CR (OR 8.35 for CR-vs-HT failure) and NRCC.
 (incomplete)
 
 ## 세줄요약
-
 
 코크란 SR+네트워크 메타분석(27 RCT·환자 3350명·치아 4195개): 깊은 우식에서 완전절삭 후 통상수복(CR)이 선택적절삭(SE)·단계적절삭(SW)·홀테크닉(HT) 대비 실패 확률이 가장 높았고, 유치에서는 HT가 CR(CR 실패 OR 8.35)·NRCC보다 우수 — 대부분 근거확실성은 낮음/매우낮음.
 

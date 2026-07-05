@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (12 publications, 8 independent studies) finding narrow-diameter implants for mandibular overdentures match regular-diameter implants on survival and MBL while delivering significantly better patient satisfaction and oral health-related quality of life.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (12 publications, 8 independent studies) finding narrow-diameter implants 
 (incomplete)
 
 ## 세줄요약
-
 
 12편 논문(독립 연구 8편) 체계적 고찰·메타분석.
 

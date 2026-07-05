@@ -18,7 +18,6 @@ Extends the practice-management workforce/scope-of-delegation theme of [[practic
 
 ## Three-line Summary
 
-
 Cross-sectional survey (J Dent Child 2024;
 
 n=202 caregivers of pediatric medical patients, urban teaching hospital) finding caregivers are receptive to midlevel dental therapists (DT) performing restorations/extractions/emergency care, with strong agreement (p<0.001) that procedures occur under dentist supervision;
@@ -26,7 +25,6 @@ n=202 caregivers of pediatric medical patients, urban teaching hospital) finding
 abstract-only.
 
 ## 세줄요약
-
 
 소아 의과 환자 보호자 202명 대상 단면조사(J Dent Child 2024): 보호자들은 중간단계 치과인력인 치과치료사(Dental Therapist, DT)의 수복·발치·응급처치 수행에 수용적이나, 치과의사 감독 하 시행을 강하게 지지(p<0.001);
 

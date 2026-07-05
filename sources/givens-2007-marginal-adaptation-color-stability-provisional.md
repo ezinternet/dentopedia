@@ -18,7 +18,6 @@ text_filename: givens-2007-marginal-adaptation-color-stability-provisional.txt
 
 ## Three-line Summary
 
-
 In-vitro study (J Prosthodont 2007, n=10/group) comparing marginal fit and 1-week tea-stain color stability of three bis-acryl provisionals (Protemp Garant, Integrity auto-cure;
 
 Luxatemp Solar dual-cure) against SNAP (polyethyl methacrylate control): the dual-cure Luxatemp Solar had the worst marginal discrepancy (319 µm), Protemp Garant was the only material with a clinically noticeable shade change (ΔE=4.33), while SNAP matched the auto-cure bis-acryls for both low marginal gap and color stability.
@@ -26,7 +25,6 @@ Luxatemp Solar dual-cure) against SNAP (polyethyl methacrylate control): the dua
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 연구(J Prosthodont 2007, 군당 n=10): bis-acryl 3종(Protemp Garant·Integrity 자가중합, Luxatemp Solar 이중중합)을 SNAP(폴리에틸메타크릴레이트, Polyethyl Methacrylate, PEMA 대조군)과 변연적합·1주 홍차착색 색안정성으로 비교 — 이중중합 Luxatemp Solar가 변연오차 최대(319 µm), Protemp Garant만 임상적으로 인지되는 색변화(ΔE=4.33);
 

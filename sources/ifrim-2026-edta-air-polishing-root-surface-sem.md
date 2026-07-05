@@ -19,7 +19,6 @@ Bench (SEM) evidence on how adjunctive erythritol- vs glycine-based air polishin
 
 ## Three-line Summary
 
-
 In-vitro SEM study (10 periodontitis-affected human teeth, 20 samples) showing SRP+EDTA leaves a continuous smear layer, adjunctive erythritol air polishing lowers instrumentation-mark scores (Se<S, p=0.001) but raises crack scores (Se>S, p=0.001), while smear-layer scores are comparable across all protocols (p=0.950) and CEJ behaves like mid-root.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro SEM study (10 periodontitis-affected human teeth, 20 samples) showing S
 (incomplete)
 
 ## 세줄요약
-
 
 치주염 발치치 10개(시편 20개) SEM 인비트로 연구 — SRP+EDTA는 연속적 smear layer를 남기고, 에리스리톨 에어폴리싱 추가군(Se)은 기구흔 점수가 더 낮지만(Se<S, p=0.001) 균열 점수는 더 높았으며(Se>S, p=0.001), smear layer 점수는 모든 프로토콜에서 차이 없음(p=0.950), CEJ는 치근 중간부와 유사하게 반응.
 

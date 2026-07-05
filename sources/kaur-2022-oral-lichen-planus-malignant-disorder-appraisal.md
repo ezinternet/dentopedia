@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-OLP를 OPMD로 분류하는 것의 근거와 한계를 비판적으로 검토한 letter/appraisal.
+
+OLP를 OPMD로 분류하는
+
+것의 근거와 한계를
+
+비판적으로 검토한 letter/appraisal.
+
+## 세줄요약
+
+OLP를 OPMD로 분류하는
+
+것의 근거와 한계를
+
+비판적으로 검토한 letter/appraisal.
 
 ## 1. Document Information
 - **Title**: Is oral lichen planus a potential malignant disorder?: A critical appraisal

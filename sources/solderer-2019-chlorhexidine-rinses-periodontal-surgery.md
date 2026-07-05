@@ -16,7 +16,6 @@ pdf_filename: solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt
 
 ## Three-line Summary
 
-
 Systematic review (11 studies) — CHX mouthrinse after periodontal/implant surgery reduces plaque 29–86% and bleeding up to 73% at 1 week;
 
 0.12% concentration shows most favorable benefit-to-side-effect ratio.
@@ -24,7 +23,6 @@ Systematic review (11 studies) — CHX mouthrinse after periodontal/implant surg
 (incomplete)
 
 ## 세줄요약
-
 
 SR (11편) — 치주·임플란트 수술 후 CHX 가글은 1주 치태 29–86% 감소, 출혈 73% 감소;
 

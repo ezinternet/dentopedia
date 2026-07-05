@@ -19,7 +19,6 @@ The wiki's existing alveolar-ridge-split pages document the *technique* (deliber
 
 ## Three-line Summary
 
-
 SR+MA (24 studies, 1287 implants in 634 patients) of modern ARSE devices: USG (piezo) yields 3.40 mm ridge width gain vs MRE 2.83 mm (p<0.0001), overall implant survival 98.07%;
 
 USG suits osteo-mobilization, MRE suits minimally invasive osteo-condensation.
@@ -27,7 +26,6 @@ USG suits osteo-mobilization, MRE suits minimally invasive osteo-condensation.
 (incomplete)
 
 ## 세줄요약
-
 
 치조제 분할·확장(ARSE) 현대 기구를 비교한 체계적 문헌고찰+메타분석(24편, 환자 634명·임플란트 1287개): 초음파(피에조, USG)가 골폭 증가 3.40 mm로 전동확장기(MRE) 2.83 mm보다 우수(p<0.0001), 전체 임플란트 생존율 98.07%.
 

@@ -14,8 +14,20 @@ tags: [immediate-implant-placement, primary-stability, extraction-socket, osseoi
 ---
 
 ## Three-line Summary
-Case report and literature review of successfully osseointegrated implants placed immediately in extraction sockets despite lack of primary stability.
 
+Case report and literature review of
+
+successfully osseointegrated implants placed immediately in
+
+extraction sockets despite lack of primary stability.
+
+## 세줄요약
+
+Case report and literature review of
+
+successfully osseointegrated 임플란트 placed immediately in
+
+extraction sockets despite lack of primary stability.
 
 ## 1. Document Information
 - **Type**: Clinical case report with literature review

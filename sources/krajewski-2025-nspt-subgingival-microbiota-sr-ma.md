@@ -19,7 +19,6 @@ text_filename: krajewski-2025-nspt-subgingival-microbiota-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA of 115 studies (n=196 eligible) across four microbiological technologies confirms that NSPT significantly reduces mean counts of disease-associated subgingival species (A. actinomycetemcomitans, T.
 
 denticola, P. gingivalis, T.
@@ -27,7 +26,6 @@ denticola, P. gingivalis, T.
 forsythia, E. nodatum, P. intermedia, C. rectus), with supportive periodontal care providing further reductions at 6 months.
 
 ## 세줄요약
-
 
 115편(4가지 미생물 탐지기술)의 SR+MA로 NSPT가 치은연하 병원균(Pg, Td, Tf, Aa 등) 평균 개수를 유의미하게 감소시킴을 확인;
 

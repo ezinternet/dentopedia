@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Korean Dental Association, 2016) comparing external hexagon vs.
 
 internal connection implant systems across biomechanics, microgap, clinical procedures, and prosthetic applications.
@@ -24,7 +23,6 @@ internal connection implant systems across biomechanics, microgap, clinical proc
 (incomplete)
 
 ## 세줄요약
-
 
 대한치과의사협회지 2016년 서술 리뷰 — 외부 육각형 연결과 내부 연결 임플란트 시스템을 생역학, 마이크로갭, 임상 술식, 보철 적용 측면에서 비교.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro human dentinal cylinder model (n=28): lipoteichoic acid purified from *Lacticaseibacillus rhamnosus* GG (Lgg.LTA, 50 μg/ml) inhibited 2-week *E.
 
 faecalis* intracanal biofilm as effectively as calcium hydroxide, while sterile water and NMP vehicle had little effect.
@@ -23,7 +22,6 @@ faecalis* intracanal biofilm as effectively as calcium hydroxide, while sterile 
 (incomplete)
 
 ## 세줄요약
-
 
 발치한 사람 치아 상아질 실린더 모델(n=28) in-vitro 연구: 프로바이오틱 *Lacticaseibacillus rhamnosus* GG에서 정제한 지질테이코산(Lgg.LTA, 50 μg/ml)이 2주간 형성된 *E.
 

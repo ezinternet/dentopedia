@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Blood (THROMBOSIS AND HEMOSTASIS) 기초·중개 연구: JAK2V617F clonal hematopoiesis of indeterminate potential (CHIP) — 골수 변이가 platelet activation·cross-talk을 통해 동맥혈전증 위험 증가시키는 기전 규명. 치과 직접 적용보다는 노인 환자의 CHIP-driven thrombosis 배경 지식.
 
+Blood (THROMBOSIS AND HEMOSTASIS) 기초·중개 연구: JAK2V617F clonal hematopoiesis of indeterminate
+
+potential (CHIP) — 골수 변이가 platelet activation·cross-talk을 통해 동맥혈전증 위험 증가시키는
+
+기전 규명. 치과 직접 적용보다는 노인 환자의 CHIP-driven thrombosis 배경 지식.
+
+## 세줄요약
+
+Blood (THROMBOSIS AND HEMOSTASIS) 기초·중개 연구: JAK2V617F clonal hematopoiesis of indeterminate
+
+potential (CHIP) — 골수 변이가 platelet activation·cross-talk을 통해 동맥혈전증 위험 증가시키는
+
+기전 규명. 치과 직접 적용보다는 노인 환자의 CHIP-driven thrombosis 배경 지식.
 
 ## 1. Document Information
 - Authors: Wenli Liu, Joachim Pircher, Art Schuermans, et al.; senior Nan Wang (Columbia)

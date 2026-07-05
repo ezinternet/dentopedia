@@ -19,7 +19,6 @@ text_filename: lee-2025-prevalence-classification-factors-cemental-tears.txt
 
 ## Three-line Summary
 
-
 Retrospective cross-sectional study (n=445 teeth, Hong Kong postgraduate endodontic clinic, 2019-2024) finding 5.6% prevalence of cemental tear and four independent risk factors (incisor tooth type, tooth mobility, severe crestal bone loss, adequate root filling quality) on multivariate logistic regression, with PR sensitivity only 0.6 vs CBCT.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective cross-sectional study (n=445 teeth, Hong Kong postgraduate endodon
 (incomplete)
 
 ## 세줄요약
-
 
 홍콩 대학 근관치료 전문 클리닉 후향적 단면 연구(치아 445개)로 시멘트질 열개 유병률 5.6%를 보고하고, 다변량 분석에서 전치부·치아동요도·심한 치조골 소실·적절한 근관충전이 독립적 위험인자임을 확인 — 근관치료 후 만성 문제를 겪는 환자에서 특히 의심해야 함을 시사.
 

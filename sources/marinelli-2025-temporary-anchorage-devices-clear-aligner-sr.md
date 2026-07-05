@@ -19,7 +19,6 @@ The clear-aligner library has multiple pages on specific TAD-assisted movements 
 
 ## Three-line Summary
 
-
 Systematic review (PRISMA, 14 studies — mostly case reports/small series, ROBINS-I: 1 low / 9 some-concerns / 4 high risk of bias) finding that combining clear aligners with temporary anchorage devices (TADs/miniscrews) improves precision and control of complex movements (intrusion, extrusion, distalization), but the evidence base is weak (no controlled comparisons, scarce RCTs).
 
 (incomplete)
@@ -27,7 +26,6 @@ Systematic review (PRISMA, 14 studies — mostly case reports/small series, ROBI
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (PRISMA, 14편 — 대부분 증례보고/소규모 시리즈, ROBINS-I 비뚤림: 1편 낮음 / 9편 일부우려 / 4편 높음): 투명교정장치 (Clear Aligner)에 임시고정원장치 (Temporary Anchorage Device, TAD;
 

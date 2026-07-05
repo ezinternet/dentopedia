@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA(9편, PS 475 vs 일반 462 임플란트): PS에서 변연골 소실 0.255 mm 유의하게 적음; 탐침 깊이는 PS에서 0.082 mm 증가(유의차 없음)
+
+SR+MA(9편, PS 475 vs 일반 462 임플란트):
+
+PS에서 변연골 소실 0.255 mm 유의하게 적음;
+
+탐침 깊이는 PS에서 0.082 mm 증가(유의차 없음)
+
+## 세줄요약
+
+플랫폼 스위칭(PS) vs 일반(PM) 임플란트의 주위 조직 영향 비교 SR+MA (J Clin Med 2022): 9편, PS 475 vs PM 462개
+
+PS는 변연골 소실 0.255mm 유의하게 적음 (P<0.05), 탐침 깊이는 0.082mm 증가하나 유의차 없음
+
+PS는 골 보존에 유리하며 일회제거 민감도 분석에서 탐침 깊이 차이가 유의해짐.
 
 ## 1. Document Information
 - **Title**: Comparative Study by Systematic Review and Meta-Analysis of the Peri-Implant Effect of Two Types of Platforms: Platform-Switching versus Conventional Platforms

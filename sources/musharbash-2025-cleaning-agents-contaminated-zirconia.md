@@ -18,7 +18,6 @@ Direct head-to-head in-vitro comparison of the three main commercial saliva-deco
 
 ## Three-line Summary
 
-
 In-vitro SBS study (n=100, KATANA STML, saliva-contaminated): air-particle abrasion gave the highest bond strength, while Katana Cleaner / Ivoclean / Zirclean were viable chemical alternatives;
 
 thermocycling reduced bond in all groups.
@@ -26,7 +25,6 @@ thermocycling reduced bond in all groups.
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 전단접착강도 연구(n=100, KATANA STML, 타액 오염): 공기입자분사(Air-Particle Abrasion)가 가장 높은 접착강도를 보였고, Katana Cleaner·Ivoclean·Zirclean은 유효한 화학적 대안이었으며, 열순환(thermocycling)은 모든 군의 접착강도를 감소시켰다.
 

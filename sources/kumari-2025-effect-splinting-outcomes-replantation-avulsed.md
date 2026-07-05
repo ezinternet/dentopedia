@@ -18,7 +18,6 @@ Brings trauma-specific splinting evidence (flexible, short-term for replanted av
 
 ## Three-line Summary
 
-
 SR (7 studies;
 
 4 in MA;
@@ -26,7 +25,6 @@ SR (7 studies;
 708 patients, 975 teeth; GRADE very low): trends favor flexible splints and shorter durations for replanted avulsed permanent teeth in children, tentatively supporting IADT guidance, but most effects were not statistically significant.
 
 ## 세줄요약
-
 
 SR (7편, MA 4편;
 

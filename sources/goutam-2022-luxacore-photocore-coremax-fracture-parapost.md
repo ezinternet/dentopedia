@@ -19,7 +19,6 @@ ParaPost vs FRC post 파절저항을 다룬 in-vitro 연구로, 방금 인제스
 
 ## Three-line Summary
 
-
 In-vitro fracture-resistance study (90 mandibular premolars, 9 groups × 10): pooled FRC-post groups significantly higher fracture load than ParaPost groups (380.1 vs 262.8 N, P<0.05);
 
 core material type had no effect — findings that closely replicate Izadi et al.
@@ -27,7 +26,6 @@ core material type had no effect — findings that closely replicate Izadi et al
 2020.
 
 ## 세줄요약
-
 
 인비트로 파절저항 연구 (하악 소구치 90개, 9군×10): FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높음 (380.1 vs 262.8 N, P<0.05);
 

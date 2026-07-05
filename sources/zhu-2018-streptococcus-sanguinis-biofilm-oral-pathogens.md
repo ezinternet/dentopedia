@@ -19,7 +19,6 @@ text_filename: zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens.txt
 
 ## Three-line Summary
 
-
 Narrative review summarizing *Streptococcus sanguinis* biofilm formation mechanisms and its antagonistic interactions with cariogenic (*S.
 
 mutans*) and periodontopathic (*P.
@@ -27,7 +26,6 @@ mutans*) and periodontopathic (*P.
 gingivalis*, *A. actinomycetemcomitans*) species, while noting its dual role as an oral health commensal and infective endocarditis pathogen.
 
 ## 세줄요약
-
 
 *Streptococcus sanguinis*의 생물막 형성 기전(필리, SrpA, GtfP, eDNA)과 우식원균(*S.
 

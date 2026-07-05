@@ -12,8 +12,20 @@ tags: [chronic-periodontitis, non-surgical-therapy, surgical-therapy, scaling-ro
 ---
 
 ## Three-line Summary
-Comprehensive review of non-surgical and surgical treatment approaches for chronic periodontitis with evidence-based outcomes.
 
+Comprehensive review of non-surgical
+
+and surgical treatment approaches
+
+for chronic periodontitis with evidence-based outcomes.
+
+## 세줄요약
+
+Comprehensive review of non-surgical
+
+and surgical treatment approaches
+
+for chronic periodontitis with evidence-based outcomes.
 
 ## 1. Document Information
 - **Type**: Literature review/educational article

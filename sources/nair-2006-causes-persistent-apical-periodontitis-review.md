@@ -15,7 +15,6 @@ This is the landmark review that systematized the six biological causes of post-
 
 ## Three-line Summary
 
-
 Narrative review (Nair 2006, Int Endod J) consolidating the six biological causes of persistent apical periodontitis after root canal treatment: (i) intraradicular infection, (ii) extraradicular infection (periapical actinomycosis), (iii) foreign-body reaction to extruded materials, (iv) endogenous cholesterol crystals, (v) true (apical) cysts, and (vi) fibrous scar tissue healing.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Nair 2006, Int Endod J) consolidating the six biological cause
 (incomplete)
 
 ## 세줄요약
-
 
 Nair의 2006년 종설 (Int Endod J) — 근관치료 후에도 사라지지 않는 치근단치주염(persistent apical periodontitis)의 여섯 가지 생물학적 원인을 정리한 고전 리뷰: ① 근관 내 잔존 감염, ② 근관 외 감염(주로 치근단 방선균증), ③ 밀려나온 재료에 대한 이물반응, ④ 콜레스테롤 결정 축적, ⑤ 진성 낭종(true cyst), ⑥ 반흔조직 치유.
 

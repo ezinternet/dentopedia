@@ -15,7 +15,6 @@ RCT 성공의 결정인자가 근관 내 술식뿐 아니라 coronal seal·술�
 
 ## Three-line Summary
 
-
 Retrospective study (585 teeth, 1–6 yr follow-up) of primary RCT by endodontic postgraduates: preoperative periapical/periodontal status and especially the quality of the coronal restoration governed complete periapical healing (overall ~90.9% healing).
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective study (585 teeth, 1–6 yr follow-up) of primary RCT by endodontic
 (incomplete)
 
 ## 세줄요약
-
 
 대학원 수련의가 시행한 1차 근관치료 585개 치아(1~6년 추적) 후향연구 — 술전 치근단·치주 상태와 특히 최종 보철수복(coronal restoration)의 적합도가 완전 치유를 좌우했고, 전체 치유율은 약 90.9%였다.
 

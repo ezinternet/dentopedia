@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (15 studies qualitative, 14 quantitative) finding short implants (≤8 mm) show no significant influence of length, diameter, or crown-to-implant ratio on implant loss or peri-implant bone loss.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (15 studies qualitative, 14 quantitative) finding short implants (≤8 mm)
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 고찰 15편(정량 14편) 메타분석.
 

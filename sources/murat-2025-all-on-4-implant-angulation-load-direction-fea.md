@@ -18,7 +18,6 @@ text_filename: murat-2025-all-on-4-implant-angulation-load-direction-fea.txt
 
 ## Three-line Summary
 
-
 FEA+RSM (All-on-4, 15 configurations): frontal load angle (BL) is the #1 stress factor (29.8%);
 
 implant angulation #2 (27.0%);
@@ -26,7 +25,6 @@ implant angulation #2 (27.0%);
 lowest cortical stress at 15° tilt + 45° oblique; highest at 45° tilt + 90° frontal load (265.72 MPa); no single universally optimal angle.
 
 ## 세줄요약
-
 
 FEA+RSM (All-on-4, 15개 구성): 전두면 하중각(협설 방향)이 피질골 응력 1위 결정 요인(29.8%);
 

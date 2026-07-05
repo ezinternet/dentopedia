@@ -15,7 +15,6 @@ Extends the fixed-prosthesis/periodontal-health cluster from "where to place the
 
 ## Three-line Summary
 
-
 Narrative review (112 studies) comparing horizontal preparations (chamfer/shoulder) with the vertical Biologically Oriented Preparation Technique (BOPT);
 
 BOPT is associated with greater gingival thickness, stable probing depths (<0.2 mm variation), lower BOP (<10%), and up to 10-year margin stability, but evidence is limited and superiority over horizontal designs is unproven.
@@ -23,7 +22,6 @@ BOPT is associated with greater gingival thickness, stable probing depths (<0.2 
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰(112편): 수평 변연(chamfer/shoulder) vs 수직 변연 BOPT 비교.
 

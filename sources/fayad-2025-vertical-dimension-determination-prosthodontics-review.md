@@ -29,8 +29,6 @@ Consequences of VD errors are clinically significant: excessive VD causes muscle
 
 과도한 VD는 근육 피로·안면 긴장 초래, 감소한 VD는 노화 인상·mentolabial fold 깊어짐·mentalis 긴장·심미성/저작 기능 저하로 임상 결과 직결.
 
-
-
 ## 1. Document Information
 
 - **Type:** Open-access comprehensive literature review (Part II of a two-part series; Part I = conceptual evolution, Cureus 2024)

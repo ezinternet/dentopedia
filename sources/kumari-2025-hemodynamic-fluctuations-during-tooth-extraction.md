@@ -19,7 +19,6 @@ Adds direct intraoperative hemodynamic time-course data (SBP/DBP/HR/SpO2 measure
 
 ## Three-line Summary
 
-
 Prospective observational study (n=50 normotensive adults) showing SBP, DBP and HR all rise significantly (P=0.0001) during local-anesthetic injection and tooth extraction under 2% lidocaine + 1:100,000 adrenaline, peaking at extraction and falling below baseline 5 min postoperatively;
 
 authors recommend anxiolysis/sedation caution for anxious and hypertensive patients.
@@ -27,7 +26,6 @@ authors recommend anxiolysis/sedation caution for anxious and hypertensive patie
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 관찰연구 (정상혈압 성인 50명): 2% 리도카인 + 1:100,000 아드레날린 하 발치 시 수축기·이완기 혈압과 심박수가 마취주사·발치 단계에서 유의하게 상승(P=0.0001)해 발치 시점에 최고치를 보이고 술후 5분에 기저치 이하로 회복 — 불안·고혈압 환자에서는 진정/항불안제 사용 권고.
 

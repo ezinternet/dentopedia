@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review of RCTs (2 eligible trials, no quantitative pooling) finding that silver diamine fluoride (SDF) may yield favourable short-term (≤12 mo) caries-arrest and treatment-failure outcomes for cavitated dentinal lesions in primary molars versus conventional restorative treatment — but randomised evidence is limited.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review of RCTs (2 eligible trials, no quantitative pooling) finding t
 (incomplete)
 
 ## 세줄요약
-
 
 RCT 체계적 문헌고찰(적격 시험 2편, 정량 통합 불가): 유구치의 와동성 상아질 우식에서 silver diamine fluoride (SDF, 은 다이아민 불화물)가 전통적 수복 대비 12개월 이내 단기 우식정지·실패율에서 유리할 수 있으나 무작위 근거는 제한적.
 

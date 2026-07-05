@@ -19,7 +19,6 @@ TMD 처방(pharmacotherapy/injection) 관련 아시아 저널(아시아 저자·
 
 ## Three-line Summary
 
-
 Bayesian random-effects network meta-analysis of 14 RCTs (n=674 adults with TMD-myofascial pain syndrome), authored by a Chinese (Gansu University of Chinese Medicine) team;
 
 lidocaine injection and ischemic compression ranked highest for short-term pain relief (SUCRA 91.7% and 88.7%) versus basic treatment, followed by platelet-rich plasma and laser therapy, but certainty of evidence for all top-ranked comparisons was low to very low (CINeMA), driven by sparse single-trial nodes, high risk of bias in 9/14 trials, and mostly indirect evidence for the top two interventions.
@@ -27,7 +26,6 @@ lidocaine injection and ischemic compression ranked highest for short-term pain 
 (incomplete)
 
 ## 세줄요약
-
 
 베이지안 랜덤효과 네트워크 메타분석(14 RCT, TMD 근막통증증후군 성인 674명), 중국 간쑤중의약대학 저자팀;
 

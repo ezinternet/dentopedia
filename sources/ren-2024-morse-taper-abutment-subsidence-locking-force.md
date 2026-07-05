@@ -19,7 +19,6 @@ text_filename: ren-2024-morse-taper-abutment-subsidence-locking-force.txt
 
 ## Three-line Summary
 
-
 In-vitro bench study on Bicon-type pure Morse taper (1.5° taper) implant-abutment specimens (≥10 per group) showing abutment subsidence rises with seating load (r=0.645) but falls most strongly with deeper locking depth (r=−0.807) and larger locking-post diameter and thicker implant outer wall, while pull-apart locking force rises with load (r=0.963), depth (r=0.607), and post diameter (r=0.372) — supporting ≥5 seating loadings and delayed final occlusal adjustment to prevent late occlusal change from continued sinking.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro bench study on Bicon-type pure Morse taper (1.5° taper) implant-abutme
 (incomplete)
 
 ## 세줄요약
-
 
 순수 Morse taper(Bicon형, 1.5°) 임플란트-어버트먼트 벤치 실험(그룹당 ≥10): 어버트먼트 침하량은 시팅 하중↑에 따라 증가(r=0.645)하나 잠금깊이↑(r=−0.807, 최강)·잠금기둥경↑·외벽두께↑에 따라 감소했고, 분리 결합력은 하중(r=0.963)·잠금깊이(r=0.607)·기둥경(r=0.372)에 따라 증가 — 후기 교합변화를 막으려면 시팅 시 ≥5회 가압과 최종 교합조정 지연을 권고.
 

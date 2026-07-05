@@ -19,7 +19,6 @@ text_filename: maska-2017-implant-grafting-success-mucosal-thickening-sinus.txt
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (n=29, University of Michigan, mean follow-up 3.3y) showed 100% implant survival despite 93.1% prevalence of mucosal thickening;
 
 only periodontal disease history was significantly associated with thickening severity.
@@ -27,7 +26,6 @@ only periodontal disease history was significantly associated with thickening se
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT 후향적 연구(n=29, 추적 3.3년): 93.1%에서 점막비후 존재에도 임플란트 생존율 100%, 치주질환 과거력만이 비후 정도와 유의한 연관인자.
 

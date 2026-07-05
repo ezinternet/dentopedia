@@ -29,7 +29,6 @@ tags: [burnout, mental-health, wellbeing, dentists, dcp, hygienists, mbi, profes
 
 ## Three-line Summary
 
-
 Synthesis of 7 systematic reviews/meta-analyses on burnout and mental health among dentists and dental care professionals (DCPs), organized on four axes — prevalence, determinants/workforce, interventions, and critical appraisal/retraction; two independent SR+MAs (Moro 2022; Long 2023, 15 studies n=6,038) agree on overall burnout ≈13%, emotional exhaustion (EE) 28%, depersonalization 18%, reduced personal accomplishment 30–50%, with Europe highest and the Americas lowest.
 
 Burnout is driven more by system factors (workload, time pressure, financial/medico-legal burden, perfectionism) than individual mental health; DCP (hygienist/therapist) data are extremely sparse (UK SR, 12 studies; Kaki 2022); COVID amplified but did not cause burnout — pre-pandemic baseline was already elevated (Negucioiu 2024 SR).
@@ -37,7 +36,6 @@ Burnout is driven more by system factors (workload, time pressure, financial/med
 Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd-tier psychoeducational and mindfulness interventions show partial benefit; Plessas 2022 SR), and the Panagioti 2018 claim that physician burnout doubles patient harm is RETRACTED — this association must not be cited.
 
 ## 세줄요약
-
 
 치과의사·DCP 번아웃 SR+MA 7편 통합. 전체 번아웃 13%;
 

@@ -32,8 +32,6 @@ Bond strength outcomes and some penetration metrics showed inconsistent results,
 
 결합강도와 일부 침투지표는 비일관적 결과를 보였으며, 기공학 증거만 있고 임상 전임 자료 부재 — UA의 광범위한 적용 가치는 제한적.
 
-
-
 ## 1. Document Information
 
 - **Type**: Systematic review + meta-analysis of laboratory-based studies

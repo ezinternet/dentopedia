@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Animal study (5 sheep, ovine ilium, 3+6 weeks) found boronized CP-titanium implants (BM, BAA) produced significantly lower BIC and declining BAFO over time compared to non-boronized acid-etched controls, indicating boronization impairs osseointegration despite favorable mechanical properties.
 
 (incomplete)
@@ -23,7 +22,6 @@ Animal study (5 sheep, ovine ilium, 3+6 weeks) found boronized CP-titanium impla
 (incomplete)
 
 ## 세줄요약
-
 
 양 장골 모델(n=5, 3·6주)에서 보론화 티타늄 임플란트(BM, BAA)의 BIC와 BAFO가 비보론화 산부식 대조군보다 유의하게 낮고 시간이 지날수록 감소하여, 보론화 표면처리가 우수한 기계적 특성에도 불구하고 골유착을 저해함을 확인하였다.
 

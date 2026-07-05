@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-A 69-slide Korean clinical lecture presented in Busan (April 2026) by a clinician named Jang, covering step-by-step protocols for Vital Pulpotomy and Vital Pulpectomy using bioceramic materials (Endoseem), with FAQ and case-based illustrations.
+
+A 69-slide Korean clinical lecture presented in Busan (April 2026) by
+
+a clinician named Jang, covering step-by-step protocols for Vital Pulpotomy and
+
+Vital Pulpectomy using bioceramic materials (Endoseem), with FAQ and case-based illustrations.
+
+## 세줄요약
+
+A 69-slide Korean clinical lecture presented in Busan (April 2026) by
+
+a clinician named Jang, covering step-by-step protocols for Vital Pulpotomy and
+
+Vital Pulpectomy using bioceramic materials (Endoseem), with FAQ and case-based illustrations.
 
 ## 1. Document Information
 - **Format**: Clinical lecture slides (PDF, 69 pages)

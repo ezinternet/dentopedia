@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Exploratory RCT (n=35) comparing DBBM-C/CM, DBBM-C, and spontaneous healing (SH) before early implant placement: all groups showed significant but clinically acceptable contour reduction at 3 years (−0.23, −0.21, −0.33 mm), with no significant differences in marginal bone loss between groups.
 
 (incomplete)
@@ -23,7 +22,6 @@ Exploratory RCT (n=35) comparing DBBM-C/CM, DBBM-C, and spontaneous healing (SH)
 (incomplete)
 
 ## 세줄요약
-
 
 탈단백 소 골 미네랄 (Deproteinized Bovine Bone Mineral, DBBM)-C/CM, DBBM-C, 자발적 치유 (Spontaneous Healing, SH) 세 군을 조기 식립 전에 비교한 탐색적 무작위 대조 시험 (Randomized Controlled Trial, RCT) (n=35): 3년 추적에서 모든 군 외형 감소 통계적 유의 (−0.23, −0.21, −0.33 mm), 군 간 변연골 소실 (Marginal Bone Level, MBL) 차이는 유의하지 않음.
 

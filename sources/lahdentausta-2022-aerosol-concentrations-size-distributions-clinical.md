@@ -19,7 +19,6 @@ text_filename: lahdentausta-2022-aerosol-concentrations-size-distributions-clini
 
 ## Three-line Summary
 
-
 Clinical observational study (84 patients, 253 procedures, optical particle sizer) finding air turbine handpieces generated the highest <1 μm and total aerosol concentrations, while high- and low-speed handpieces and ultrasonic scalers elevated aerosol vs oral examination — supporting substitution of air turbine with high-speed handpiece in poor epidemic conditions.
 
 (incomplete)
@@ -27,7 +26,6 @@ Clinical observational study (84 patients, 253 procedures, optical particle size
 (incomplete)
 
 ## 세줄요약
-
 
 실제 진료 관찰연구(환자 84명·253건, 광학입자측정기) — 에어터빈 핸드피스가 <1 μm 미세·총 에어로졸을 가장 많이 생성했고 하이스피드·로우스피드 핸드피스와 초음파 스케일러도 구강검진 대비 에어로졸을 유의하게 높였으며, 감염 위험 상황에서 에어터빈을 하이스피드 핸드피스로 대체할 것을 시사.
 

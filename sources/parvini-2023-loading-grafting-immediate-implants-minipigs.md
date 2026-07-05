@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Animal study (minipig, n=56 TLX implants, 4 groups, 4 and 12 weeks) showing that neither immediate loading nor gap grafting with bovine bone mineral significantly affected BIC or peri-implant soft-tissue dimensions at immediately placed progressive-thread tissue-level implants.
 
 (incomplete)
@@ -23,7 +22,6 @@ Animal study (minipig, n=56 TLX implants, 4 groups, 4 and 12 weeks) showing that
 (incomplete)
 
 ## 세줄요약
-
 
 미니피그 동물실험(n=56 TLX 임플란트, 4그룹, 4·12주)에서 즉시 하중 여부 및 소뼈유래 골이식재 사용 여부는 즉시식립 임플란트의 골-임플란트 접촉률(BIC) 및 연조직 치유에 유의한 영향을 미치지 않았다.
 

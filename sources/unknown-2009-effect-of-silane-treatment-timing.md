@@ -12,8 +12,20 @@ tags: [silane-coupling-agent, saliva-contamination, ceramic-resin-cement, adhesi
 ---
 
 ## Three-line Summary
-Experimental study examining the effects of silane application timing and saliva contamination on bond strength between ceramic restorations and resin cement.
 
+Experimental study examining the effects of silane
+
+application timing and saliva contamination on bond
+
+strength between ceramic restorations and resin cement.
+
+## 세줄요약
+
+Experimental study examining the effects of silane
+
+application timing and saliva contamination on bond
+
+strength between ceramic restorations and resin cement.
 
 ## 1. Document Information
 - **Type**: Research article (Korean dental journal)

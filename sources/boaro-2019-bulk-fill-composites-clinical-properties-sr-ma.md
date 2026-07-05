@@ -25,8 +25,6 @@ Bulk-fill이 중합 수축응력·교두 굴절 유의 감소, 수축도 낮음(
 
 심부 구치 와동에서 bulk-fill은 안전하게 적용 가능하나 표층 미세경도 감소로 최적 캡핑 전략에 대한 의문 남음; 일반 점도 수축에 대한 초록·본문 불일치가 내부 한계.
 
-
-
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analysis
 - **Published**: October 2019 in Dental Materials

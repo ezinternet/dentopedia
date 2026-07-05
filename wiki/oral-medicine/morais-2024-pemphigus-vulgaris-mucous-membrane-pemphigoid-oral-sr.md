@@ -35,7 +35,6 @@ As both diseases frequently present first in the mouth, any persistent vesiculo-
 
 두 질환 모두 구강에서 처음 발현되므로 지속적 수포·미란성 병소 = DIF 생검 필수; 초록 수준 검색·증례 기반 연구로 기술적 퍼센트이며 비교통계 아님.
 
-
 ## Summary
 
 According to PubMed ([DOI 10.1016/j.jormas.2024.101960](https://doi.org/10.1016/j.jormas.2024.101960)), this systematic review compared pemphigus vulgaris (PV) and mucous membrane pemphigoid (MMP) — two mucocutaneous autoimmune blistering diseases with very similar clinical pictures — across demographic, clinical, diagnostic, and treatment axes, using only cases confirmed by direct immunofluorescence (DIF) that showed intraoral manifestations. Thirty-two articles (18 PV, 15 MMP) yielded 50 PV and 123 MMP cases. The review is **abstract-only** here (full text not retrieved), so quality-appraisal and pooling methods are not captured. Both diseases presented predominantly in women (PV 64 %, MMP 81.3 %) in the fifth (PV) and sixth (MMP) decades, with the mouth as the primary involvement site (PV 71.4 %, MMP 91 %). The distinguishing intraoral feature: PV favors the cheek (buccal) mucosa (30 %) whereas MMP favors the gingiva (64.2 %, fitting its desquamative-gingivitis presentation). DIF was IgG-positive in 100 % of both. Treatment defaults diverged — systemic corticosteroids for PV (50 %), topical therapy for MMP (53.7 %).

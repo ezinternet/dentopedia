@@ -19,7 +19,6 @@ Seeds the wiki's first CeraSeal / bioceramic calcium-silicate-sealer cluster wit
 
 ## Three-line Summary
 
-
 RCT (80 enrolled, 71 analyzed teeth, 4 sealer arms n=20: AH Plus, ADseal, CeraSeal, EndoSeal TCS) found no significant difference between calcium-silicate-based and epoxy-resin-based sealers in void, sealer extrusion, or 3-month postoperative pain — filling-quality variation tracked product properties, not sealer class.
 
 (incomplete)
@@ -27,7 +26,6 @@ RCT (80 enrolled, 71 analyzed teeth, 4 sealer arms n=20: AH Plus, ADseal, CeraSe
 (incomplete)
 
 ## 세줄요약
-
 
 RCT(등록 80개, 분석 71개 치아, 4개 실러군 각 n=20: AH Plus·ADseal·CeraSeal·EndoSeal TCS): 칼슘실리케이트 실러와 에폭시레진 실러 사이에 기포·실러 압출·3개월 술후통증의 유의한 차이가 없었고, 충전 품질 차이는 실러 종류가 아니라 제품 특성에 따랐다.
 

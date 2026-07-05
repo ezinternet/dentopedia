@@ -15,21 +15,19 @@ ISQ 시계열 데이터(2개월~24개월)와 MBL 상관관계를 동시에 추�
 
 ## Three-line Summary
 
+Prospective pilot cohort (90 patients, 156 implants, Kaohsiung Medical University) tracking ISQ at 10 time points (surgery through 24 months) and marginal bone level at 7 time points in patients receiving single-unit delayed-loaded implant crowns.
 
-2-year prospective pilot study (n=90 patients, 156 implants, Kaohsiung) tracking ISQ from surgery through 24 months and MBL at 7 time points, finding bone density and insertion torque — not primary ISQ — are the dominant predictors of marginal bone loss.
+Bone density (Misch D1–D4) and insertion torque are the dominant predictors of marginal bone loss (r=0.826 and r=0.794 respectively), whereas primary ISQ shows no significant correlation with MBL; secondary ISQ stabilizes after 6 months and correlates negatively with MBL (r=−0.581).
 
-(incomplete)
-
-(incomplete)
+100% implant survival at 2 years; findings suggest that surgical insertion variables (bone density, torque) exert greater influence on bone remodeling than the initial resonance frequency measurement alone.
 
 ## 세줄요약
 
+환자 90명, 임플란트 156개의 2년 전향적 파일럿(고슝 의대병원): ISQ 10시점(수술~24개월) + 변연골 수준 7시점 추적, 단일 단위 지연 로딩 임플란트 크라운 환자 대상.
 
-90명·156개 임플란트 2년 전향적 파일럿 연구(고슝): ISQ 추적(수술~24개월) 및 7시점 MBL 측정에서 변연골 소실의 주 예측인자는 primary ISQ가 아닌 골밀도·삽입 토크였음.
+변연골 소실의 주요 예측인자는 골밀도·삽입 토크(r=0.826·r=0.794)이며, primary ISQ는 MBL과 유의 상관 무; secondary ISQ는 6개월 후 안정화되고 MBL과 음의 중등 상관(r=−0.581).
 
-(incomplete)
-
-(incomplete)
+24개월 100% 임플란트 생존; 수술 변수(골밀도·토크)가 초기 공명 주파수 단독보다 골 재형성에 더 강한 영향을 미침을 시사.
 
 ## 1. Document Information
 

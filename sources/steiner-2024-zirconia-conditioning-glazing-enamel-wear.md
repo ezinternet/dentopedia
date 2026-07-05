@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Clin Oral Investig 2024;28:128: 6 groups 3Y-TZP (glazed on rough/sintered/polished, unglazed polished/106μm/46μm), 10,000 cycles — only polishing prevents wear; glazing over rough surface does NOT mitigate wear; polishing alone = least antagonist volume loss (0.4mm³).
 
+Clin Oral Investig 2024;28:128: 6 groups 3Y-TZP (glazed on rough/sintered/polished, unglazed polished/106μm/46μm), 10,000 cycles — only polishing prevents wear
+
+glazing over rough surface does NOT mitigate wear
+
+polishing alone = least antagonist volume loss (0.4mm³).
+
+## 세줄요약
+
+Clin Oral Investig 2024;28:128: 6 groups 3Y-TZP (glazed on rough/sintered/polished, unglazed polished/106μm/46μm), 10,000 cycles — only polishing prevents wear
+
+glazing over rough surface does NOT mitigate wear
+
+polishing alone = least antagonist volume loss (0.4mm³).
 
 ## 1. Key Results
 - 60 specimens; 6 surface conditions; 10,000 cycles 49N; 3D volumetric scan

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cross-sectional double-blind study (n=24, chronic unilateral TMD, untreated normal occlusion): the habitual chewing side coincided with the TMD-painful side in 15/17 (Kappa=0.767), with a steeper condylar path (50.5° vs 45.5°, P=0.002) and flatter lateral guidance (38.0° vs 47.5°, P<0.001) on the affected side.
 
 (incomplete)
@@ -23,7 +22,6 @@ Cross-sectional double-blind study (n=24, chronic unilateral TMD, untreated norm
 (incomplete)
 
 ## 세줄요약
-
 
 교합치료 이력 없는 정상교합 만성 편측 TMD 환자 24명 단면연구: 습관저작측이 통증측과 일치(17명 중 15명, Kappa=0.767)했고, 통증측은 과로각이 더 가파르고(50.5° vs 45.5°, P=0.002) 측방유도각이 더 평평했다(38.0° vs 47.5°, P<0.001).
 

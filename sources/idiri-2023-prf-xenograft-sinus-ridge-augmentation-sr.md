@@ -15,7 +15,6 @@ SR specifically on PRF+xenograft (DBBM/BioOss) combination for sinus and ridge a
 
 ## Three-line Summary
 
-
 SR of 7 RCTs (PROSPERO CRD42023411160;
 
 PRISMA 2020): PRF+DBBM shows no statistically significant benefit over DBBM alone in sinus lift histomorphometry, but may reduce graft resorption in mandibular GBR.
@@ -23,7 +22,6 @@ PRISMA 2020): PRF+DBBM shows no statistically significant benefit over DBBM alon
 (incomplete)
 
 ## 세줄요약
-
 
 7편 RCT 대상 SR: PRF+DBBM은 상악동거상술 조직형태계측 결과에서 DBBM 단독 대비 유의한 이점 없음;
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (n=1957 sinuses) found that osteomeatal complex variations — including ostium width, infundibulum length, ethmoidal bulla diameter, and UPSA types 3/4/6 — are significantly associated with maxillary sinus mucosal thickening and ostium obstruction, with implications for pre-surgical sinus floor elevation risk assessment.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective CBCT study (n=1957 sinuses) found that osteomeatal complex variati
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 CBCT 연구 (n=1957 상악동): 오스티오메아탈 복합체 (Osteomeatal Complex, OMC) 변이 — 골공 폭 (Ostium Width, OW), 누두부 길이 (Infundibulum Length, IL), 사골포 직경 (Ethmoidal Bulla Diameter, EBD), 구개돌기 상부 부착 (Uncinate Process Superior Attachment, UPSA) 유형 3·4·6 — 이 최대상악동 점막 두께 (Mucosal Thickness, MT) 및 골공 폐쇄와 유의하게 연관됨을 입증;
 

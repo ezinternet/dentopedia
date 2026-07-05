@@ -19,7 +19,6 @@ Most water-flosser RCTs we hold are either orthodontic-population or periodontit
 
 ## Three-line Summary
 
-
 12-week single-blind parallel RCT (n=90 gingivitis patients;
 
 FAS 88) — toothbrush + WaterPik oral irrigator significantly outperformed toothbrush alone on gingival indices (MGI/BI/BOP% from 4 weeks, all p<0.001 by 8–12 weeks) and on plaque (T-QH significant from 8 weeks), with no serious adverse events and no added pain/dentin hypersensitivity.
@@ -27,7 +26,6 @@ FAS 88) — toothbrush + WaterPik oral irrigator significantly outperformed toot
 (incomplete)
 
 ## 세줄요약
-
 
 12주 단일맹검 평행 RCT(치은염 환자 90명;
 

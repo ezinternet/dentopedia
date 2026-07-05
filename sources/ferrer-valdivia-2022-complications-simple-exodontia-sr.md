@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review of 3 included studies on complications after simple (non-surgical) tooth extraction; trismus, alveolitis, and retained roots were most prevalent, linked to surgeon experience and surgery duration.
+
+Systematic review of 3 included studies on complications after
+
+simple (non-surgical) tooth extraction; trismus, alveolitis, and retained roots
+
+were most prevalent, linked to surgeon experience and surgery duration.
+
+## 세줄요약
+
+체계적 고찰 (SR) of 3 included studies on complications after
+
+simple (non-surgical) tooth extraction; trismus, alveolitis, and retained roots
+
+were most prevalent, linked to surgeon experience and surgery duration.
 
 ## 1. Document Information
 - **Journal**: Dental and Medical Problems (Dent Med Probl) 2022;59(4):593–601

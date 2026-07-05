@@ -32,7 +32,6 @@ No ceramic system can be ranked superior for marginal fit on current evidence; c
 
 현재 근거로 어떤 세라믹 시스템도 변연 적합에서 우월하다 결론 불가; 임상 조절 가능 인자는 CAD 다이 스페이서 설정·합착 기법; 향후 연구에는 micro-CT 표준화 권장.
 
-
 ## Summary
 
 Contrepois and colleagues systematically reviewed marginal-adaptation literature for ceramic crowns (469 → 54 studies, 17 ceramic systems, 1994-2012). The vast majority (94.9%) of measured marginal gaps were clinically acceptable, but heterogeneous measurement methods made meta-analysis and head-to-head system ranking impossible. Four parameters were identified as influencing marginal adaptation: finish-line configuration, the predefined cement space, the veneering process, and cementation. Micro-CT is recommended for future standardized, non-destructive measurement.

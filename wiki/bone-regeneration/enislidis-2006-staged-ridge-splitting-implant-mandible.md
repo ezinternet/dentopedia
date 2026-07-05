@@ -37,8 +37,6 @@ The technique converts an uncontrollable mandibular fracture risk into a planned
 
 예측 불가한 하악 골절 위험을 계획된 골막 유경 이식편으로 전환하는 개념적 기여가 있으나, 소수 증례·초록만 수집(abstract-only)으로 근거 수준 제한.
 
-
-
 ## Summary
 
 Single-stage alveolar ridge-splitting widens a narrow ridge by deliberately producing a greenstick fracture of the buccal cortical plate, but in the mandible the cortical thickness makes the fracture line uncontrollable, so the risk of an uncontrolled complete fracture (malfracture) of the buccal segment is high. Enislidis et al. address this with a staged protocol: a first-stage rectangular buccal corticotomy defines the future fracture line; after 40 days of healing the ridge is split, leaving the buccal periosteum attached to the lateralized segment. Across 5 consecutive patients (6 long-span mandibular sites, 17 implants), all buccal segments fractured exactly along the predetermined corticotomy, and all implants were stable, bone-surrounded, and successfully loaded with fixed partial dentures at 6 months. The key conceptual advance is that the greenstick-fracture location is predetermined and the buccal segment remains a periosteally pedicled graft — its perfusion shifting from internal spongy-bone supply to external periosteal supply between the two stages.

@@ -10,10 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Narrative systematic review analyzing 68 articles to derive evidence-based resin cement selection criteria for partial coverage restorations (inlays, onlays, laminates, endocrowns) stratified by restoration material (metal, ceramic type), thickness, and optical properties (opaque/translucent). Light-cure conventional etch-and-rinse cements are preferred for thin translucent restorations, whereas self-cure or dual-cure cements suit thick opaque ceramics and metallic restorations. Self-etch and self-adhesive dual-cure cements are contraindicated for laminate veneers due to insufficient bond strength.
+
+Narrative systematic review analyzing 68 articles to derive evidence-based resin cement selection criteria for partial coverage restorations (inlays, onlays, laminates, endocrowns) stratified by restoration material (metal, ceramic type), thickness, and optical properties (opaque/translucent).
+
+Light-cure conventional etch-and-rinse cements are preferred for thin translucent restorations, whereas self-cure or dual-cure cements suit thick opaque ceramics and metallic restorations.
+
+Self-etch and self-adhesive dual-cure cements are contraindicated for laminate veneers due to insufficient bond strength.
 
 ## 세줄요약
-인레이·온레이·라미네이트·엔도크라운 등 부분 피개 수복물에 사용할 레진 시멘트 선택 기준을 68개 논문 분석을 통해 도출한 내러티브 체계적 리뷰. 수복물의 재료·두께·투광성에 따라 레진 시멘트 중합 방식(자가·광중합·이중중합)과 접착 전략(레진 에칭·자가식각·자가접착)을 선택해야 한다. 얇은 반투명 수복물은 광중합 EAR 시멘트, 두꺼운 불투명 수복물은 자가 또는 이중중합 시멘트를 권장하며, 라미네이트 베니어에는 자가식각 및 자가접착 이중중합 시멘트를 피해야 한다.
+
+인레이·온레이·라미네이트·엔도크라운 등 부분 피개 수복물에 사용할 레진 시멘트 선택 기준을 68개 논문 분석을 통해 도출한 내러티브 체계적 리뷰.
+
+수복물의 재료·두께·투광성에 따라 레진 시멘트 중합 방식(자가·광중합·이중중합)과 접착 전략(레진 에칭·자가식각·자가접착)을 선택해야 한다.
+
+얇은 반투명 수복물은 광중합 EAR 시멘트, 두꺼운 불투명 수복물은 자가 또는 이중중합 시멘트를 권장하며, 라미네이트 베니어에는 자가식각 및 자가접착 이중중합 시멘트를 피해야 한다.
 
 ## 1. Document Information
 - **Journal**: Clinical and Experimental Dental Research 2023;9:1096–1111

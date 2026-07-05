@@ -15,7 +15,6 @@ EFP S3 가이드라인([[periodontics/sanz-2020-treatment-stage-i-iii-periodonti
 
 ## Three-line Summary
 
-
 Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty, mostly clinically marginal benefits on CAL/PD/closed pockets/BOP for non-surgical periodontitis treatment, with no reliable evidence one antibiotic is superior.
 
 (incomplete)
@@ -23,7 +22,6 @@ Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amo
 (incomplete)
 
 ## 세줄요약
-
 
 Cochrane 체계적고찰+메타분석(RCT 45편): SRP에 전신 항생제(가장 많이 연구된 조합은 아목시실린+메트로니다졸)를 추가해도 비외과적 치주염 치료에서 CAL·PD·closed pocket·BOP 개선 효과는 모두 매우 낮은 확실성이며 임상적으로 미미하고, 특정 항생제가 더 우수하다는 신뢰할 만한 근거도 없음.
 

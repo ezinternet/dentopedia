@@ -19,7 +19,6 @@ text_filename: pannuti-2026-loading-timing-edentulous-maxilla-pro.txt
 
 ## Three-line Summary
 
-
 Systematic review of 5 prospective studies (4 RCT + 1 non-RCT;
 
 121 patients, 724 implants) in edentulous maxilla comparing immediate vs early/delayed loading: VAS was the dominant PROM (80% of studies, 7 PROs), OHIP-19/20 and McGill Pain Questionnaire for QoL/pain, but the 12 identified clinician-reported outcomes (ClinROs) showed no standardized approach — high heterogeneity, standardization of PROM/CROM reporting needed.
@@ -27,7 +26,6 @@ Systematic review of 5 prospective studies (4 RCT + 1 non-RCT;
 (incomplete)
 
 ## 세줄요약
-
 
 무치악 상악 즉시 vs 조기/지연 로딩을 비교한 전향적 연구 5편(RCT 4 + non-RCT 1;
 

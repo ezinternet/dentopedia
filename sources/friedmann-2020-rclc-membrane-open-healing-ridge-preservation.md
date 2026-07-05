@@ -19,7 +19,6 @@ full_text: true
 
 ## Three-line Summary
 
-
 Pilot study (n=18 pts, 20 sockets): RCLC membrane open healing (no primary closure) → 100% implant placement without additional augmentation;
 
 vertical change 0.45 mm (NS);
@@ -27,7 +26,6 @@ vertical change 0.45 mm (NS);
 secondary epithelization in 100% by 4 weeks.
 
 ## 세줄요약
-
 
 파일럿 연구 (n=18환자, 20발치와): RCLC막 open healing(1차 폐쇄 없음) → 100% 추가 증대 없이 임플란트 식립;
 

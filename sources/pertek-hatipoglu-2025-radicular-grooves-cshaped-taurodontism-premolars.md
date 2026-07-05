@@ -19,7 +19,6 @@ literature-surveillance `c-shaped-canal` 토픽 첫 sweep(2026-06-19)의 OA:PMC 
 
 ## Three-line Summary
 
-
 Multicenter cross-sectional study with meta-analytic pooling (20 countries, 6,000 participants / 12,000 bilateral mandibular first premolars, CBCT): C-shaped canal global prevalence 10% (95% CI 7–12%;
 
 Asia 19%, Europe 3%), radicular grooves 20%, taurodontism 7%;
@@ -27,7 +26,6 @@ Asia 19%, Europe 3%), radicular grooves 20%, taurodontism 7%;
 all three show strong bilateral symmetry and inter-correlation (shared developmental pathways).
 
 ## 세줄요약
-
 
 다기관 단면연구+메타분석(20개국, 6,000명/12,000 양측 하악 제1소구치, CBCT): C-shaped 근관 전세계 유병률 10%(95% CI 7–12%;
 

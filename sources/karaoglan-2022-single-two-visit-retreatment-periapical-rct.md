@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 RCT (n=100, single-rooted asymptomatic retreatment teeth with periapical lesions, 24-mo follow-up): single-visit (CHX final irrigation) vs two-visit (Ca(OH)₂ dressing) root canal retreatment showed no significant difference in healing (single-visit 88.6% healed vs two-visit 86.7%, p>.05);
 
 lesion size and pre-op filling length affected outcome.
@@ -23,7 +22,6 @@ lesion size and pre-op filling length affected outcome.
 (incomplete)
 
 ## 세줄요약
-
 
 RCT (n=100, 근단병소 동반 무증상 단근 재치료치, 24개월 추적): 단일내원(CHX 최종세정) vs 2회내원(Ca(OH)₂ 첩약) 근관 재치료가 치유율에서 유의차 없음(단일내원 88.6% 치유 vs 2회내원 86.7%, p>.05);
 

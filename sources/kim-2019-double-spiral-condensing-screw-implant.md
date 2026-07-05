@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Korean patent application (KR 10-2021-0014513 A;
 
 applicant HaeNaem Co.) for a dental "condensing screw" with a double-spiral geometry that simultaneously expands the osteotomy and densifies bone both laterally AND apically (via a lower compression dome + bone-powder guide grooves), enabling transcrestal sinus elevation in a single instrument pass.
@@ -23,7 +22,6 @@ applicant HaeNaem Co.) for a dental "condensing screw" with a double-spiral geom
 (incomplete)
 
 ## 세줄요약
-
 
 (주)해냄 특허출원(공개 10-2021-0014513): 이중 스파이럴 구조 콘덴싱 스크류로, 압착나사산부가 골삭제·측방 골치밀화를 동시에 수행하고 본파우더안내홈이 분쇄골을 하부압착돔으로 보내 내측(근단)까지 골치밀화 — 측방만 압축하던 종래 버의 한계를 보완해 단일 기구로 상악동 거상까지 수행.
 

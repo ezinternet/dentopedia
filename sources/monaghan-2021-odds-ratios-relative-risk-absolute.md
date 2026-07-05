@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Open-access tutorial (Int J Environ Res Public Health 2021;18:5669) defining and contrasting the four most common effect/risk measures in medical research — odds ratio, relative risk, absolute risk, and number needed to treat — with real-world worked examples.
 
+Open-access tutorial (Int J Environ Res Public Health 2021;18:5669) defining and contrasting the four most common effect/risk measures in medical research
+
+odds ratio, relative risk, absolute risk, and number needed to treat
+
+with real-world worked examples.
+
+## 세줄요약
+
+Open-access tutorial (Int J Environ Res Public Health 2021;18:5669) defining and contrasting the four most common effect/risk measures in medical research
+
+odds ratio, relative risk, absolute risk, and number needed to treat
+
+with real-world worked examples.
 
 ## 1. Document Information
 - Journal: Int J Environ Res Public Health 2021, 18, 5669

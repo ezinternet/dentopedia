@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-NMA of 9 RCTs (1,263 root caries lesions, 473 patients) finds no statistically significant winner among restorative strategies for root caries; weak trend favoring 2-3-step etch-and-rinse + composite or RMGIC over conventional GIC at 24 months. CINeMA confidence: low.
 
+NMA of 9 RCTs (1,263 root caries lesions, 473 patients) finds no statistically
+
+significant winner among restorative strategies for root caries; weak trend favoring 2-3-step etch-and-rinse
+
++ composite or RMGIC over conventional GIC at 24 months. CINeMA confidence: low.
+
+## 세줄요약
+
+NMA of 9 RCTs (1,263 root caries lesions, 473 patients) finds no statistically
+
+유의미한 winner among restorative strategies for root caries; weak trend favoring 2-3-step etch-and-rinse
+
++ composite or RMGIC over conventional GIC at 24 months. CINeMA confidence: low.
 
 ## 1. Document Information
 - **Journal**: Journal of Dentistry 142 (March 2024) 104776

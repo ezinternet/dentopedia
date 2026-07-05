@@ -19,7 +19,6 @@ text_filename: wu-2026-immediate-provisionalization-natural-crown-frc.txt
 
 ## Three-line Summary
 
-
 Exploratory RCT (n=20, anterior maxilla IIP, 4-5 mo) in which immediate non-implant-supported provisionalization using the patient's own natural crown fixed with an FRC splint to adjacent teeth preserved pink esthetic score (PES) and reduced early postoperative pain/swelling vs delayed restoration, with no significant difference in gingival height change.
 
 (incomplete)
@@ -27,7 +26,6 @@ Exploratory RCT (n=20, anterior maxilla IIP, 4-5 mo) in which immediate non-impl
 (incomplete)
 
 ## 세줄요약
-
 
 탐색적 RCT (전치부 상악 즉시식립 IIP, n=20, 4-5개월): 환자 자연치관 + 섬유강화복합 스플린트(FRC)를 인접치에 고정하는 비-임플란트지지 즉시 임시수복이 지연수복 대비 분홍심미점수(PES)를 유지하고 술후 초기 통증·종창을 줄였으며, 치은 높이 변화에는 군간 유의차가 없었다.
 

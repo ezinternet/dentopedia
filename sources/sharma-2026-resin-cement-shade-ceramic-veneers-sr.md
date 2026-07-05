@@ -19,7 +19,6 @@ text_filename: sharma-2026-resin-cement-shade-ceramic-veneers-sr.txt
 
 ## Three-line Summary
 
-
 In-vitro systematic review (10 studies, 2011–2021;
 
 no meta-analysis) showing resin cement shade and translucency materially shift the final color of ceramic laminate veneers — white-opaque/high-chroma cements drive the largest ΔE (often above the 3.3 acceptability threshold), worsened by thin (0.3–0.5 mm) and high-translucency veneers, while try-in pastes poorly predict the cured cement.
@@ -27,7 +26,6 @@ no meta-analysis) showing resin cement shade and translucency materially shift t
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 계통고찰 (10편, 2011–2021;
 

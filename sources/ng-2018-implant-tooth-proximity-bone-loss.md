@@ -16,7 +16,6 @@ source_url: https://doi.org/10.1111/adj.12650
 
 ## Three-line Summary
 
-
 Retrospective (n=98 patients, 195 implants, mean 37.8 months): BL implants <1 mm from adjacent tooth → significantly more BOP and interproximal bone loss;
 
 TL implants showed no significant impact of proximity.
@@ -24,7 +23,6 @@ TL implants showed no significant impact of proximity.
 (incomplete)
 
 ## 세줄요약
-
 
 후향 코호트 (n=98명, 195 임플란트, 37.8개월): BL 임플란트 <1 mm 근접 → BOP↑ 및 치간 골소실↑ 유의;
 

@@ -19,7 +19,6 @@ text_filename: ye-2021-mandibular-third-molar-impaction-pathologies.txt
 
 ## Three-line Summary
 
-
 Retrospective chart review (n=262 patients, 432 M3Ms, Shanghai 2019–2020): soft-tissue impaction and vertical angulation were associated with pericoronitis (p=0.0097, p<0.0001);
 
 mesio-angular shallow (position A) impaction was associated with M2M distal caries (p<0.0001);
@@ -27,7 +26,6 @@ mesio-angular shallow (position A) impaction was associated with M2M distal cari
 deeper mesio-angular/horizontal impaction was associated with M2M distal periodontal pathology (p<0.0001).
 
 ## 세줄요약
-
 
 후향 연구 (262명, 432개 매복 제3대구치, 상하이 2019–2020): 연조직 매복·수직 경사 → 치관주위염 (p<0.0001);
 

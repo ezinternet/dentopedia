@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Rat experimental study (n=24, 4 groups): occlusal hypofunction reduced PDL thickness and alveolar bone BMD;
 
 low-level laser (LLL, 904–910 nm) irradiation restored both to control levels and raised bFGF/VEGF-positive cell counts.
@@ -23,7 +22,6 @@ low-level laser (LLL, 904–910 nm) irradiation restored both to control levels 
 (incomplete)
 
 ## 세줄요약
-
 
 랫드 실험(n=24, 4군): 교합 무자극(hypofunction)은 치주인대(PDL) 두께와 치조골 골밀도(BMD)를 감소시켰고, 저출력 레이저(LLL, 904–910 nm) 조사가 이를 대조군 수준으로 회복시키며 bFGF·VEGF 양성세포를 증가시켰다.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro study (n=210 premolars) comparing CAP plasma jet vs 5.25% NaOCl vs QMix for E.
 
 faecalis root canal disinfection at 2, 5, and 10 min exposures;
@@ -23,7 +22,6 @@ faecalis root canal disinfection at 2, 5, and 10 min exposures;
 NaOCl was most effective, CAP plasma required 5 min for substantial CFU reduction.
 
 ## 세줄요약
-
 
 단근 소구치 210개를 이용한 시험관 연구에서 냉대기압 플라즈마(CAP) 제트·5.25% NaOCl·QMix의 E.
 

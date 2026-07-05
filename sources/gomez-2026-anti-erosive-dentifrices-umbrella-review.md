@@ -18,7 +18,6 @@ Top-of-evidence-pyramid umbrella review (SR of SRs) answering *which* toothpaste
 
 ## Three-line Summary
 
-
 Umbrella review (8 SRs;
 
 PRISMA 2020, JBI, AMSTAR 2, ConQual): fluoridated > non-fluoridated dentifrices for enamel/dentin protection, with stannous-containing (SnF2 / multi-ion) formulations most consistently superior to NaF/NaMFP under erosive/erosive-abrasive protocols (certainty moderate for stannous, low/very-low for emerging tech), but evidence is dominated by in vitro/in situ short-term models — not proof of reduced clinical ETW.
@@ -26,7 +25,6 @@ PRISMA 2020, JBI, AMSTAR 2, ConQual): fluoridated > non-fluoridated dentifrices 
 (incomplete)
 
 ## 세줄요약
-
 
 엄브렐러 리뷰(SR 8편;
 

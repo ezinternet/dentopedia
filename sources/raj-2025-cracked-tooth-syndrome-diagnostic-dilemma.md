@@ -15,8 +15,20 @@ source_collection: external
 CTS = 5 longitudinal fracture 중 하나, 진단 dilemma의 mini review. [[cracked-tooth/jkda-2024-62-1-003]] (한국 진단 한계)와 함께 진단 관련 cluster 보강. Frontiers OA platform — 최신 international perspective.
 
 ## Three-line Summary
-Mini review (DAPMRV Dental College + Manipal CDS, FROH 2025): CTS = longitudinal fracture의 한 type, 진단 어려움 (diagnostic dilemma) 종합 mini review.
 
+Mini review (DAPMRV Dental College + Manipal
+
+CDS, FROH 2025): CTS = longitudinal fracture의
+
+한 type, 진단 어려움 (diagnostic dilemma) 종합 mini review.
+
+## 세줄요약
+
+Mini review (DAPMRV Dental College + Manipal
+
+CDS, FROH 2025): CTS = longitudinal fracture의
+
+한 type, 진단 어려움 (diagnostic dilemma) 종합 mini review.
 
 ## 1. Document Information
 저자: Shreya Raj (DAPMRV Dental College, Bangalore) + Ankita Singh (Manipal CDS Mangalore). FROH = Frontiers in Oral Health.

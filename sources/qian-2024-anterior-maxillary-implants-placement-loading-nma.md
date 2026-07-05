@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+NMA (Semmelweis): 상악 전치부 단일 임플란트 — type 1/2/3/4 placement × immediate/early/conventional loading 조합 — 생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
 
+SR+NMA (Semmelweis): 상악 전치부 단일 임플란트
+
+type 1/2/3/4 placement × immediate/early/conventional loading 조합
+
+생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
+
+## 세줄요약
+
+SR+NMA (Semmelweis): 상악 전치부 단일 임플란트
+
+type 1/2/3/4 placement × immediate/early/conventional loading 조합
+
+생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
 
 ## 1. Document Information
 - **Title**: Comparison of implant placement and loading protocols for single anterior maxillary implants: A systematic review and network meta-analysis

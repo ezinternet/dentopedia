@@ -25,16 +25,15 @@ Granting moderate hygienist autonomy increased total dental visits through great
 The findings suggest a non-monotonic relationship between hygienist autonomy and care mix — moderate scope expansion boosts access, but maximal autonomy may displace treatment visits, with implications for workforce policy in underserved areas.
 
 ## 세줄요약
-
-MEPS 2001–2014 자료 및 연장된 DHPPI 규제 지수를 이용한 이중차분(difference-in-differences) 준실험 연구 — 미국 주(州)별 치과위생사(dental hygienist) 진료 자율성 변화가 치과 이용에 미친 영향을 분석.
+이중차분(difference-in-differences) 준실험 연구: MEPS 2001–2014 자료 및 연장된 DHPPI 규제 지수로 미국 주(州)별 치과위생사(dental hygienist) 진료 자율성 변화가 치과 이용에 미친 영향을 분석.
 
 중간 수준의 위생사 자율성 부여 → 예방치료(preventive care) 증가를 통한 전체 방문 횟수 증가; 최고 수준 자율성 → 치료(treatment) 이용 감소; 두 효과 모두 치과의료 취약지(provider shortage area)에서 더 크게 나타남.
 
-위생사 자율성과 진료 구성(mix) 사이에 비단조(non-monotonic) 관계가 시사되며, 중간 수준 업무범위 확대는 접근성 향상에 유리하고 최대 자율성은 치료 방문을 대체할 수 있어 취약 지역 인력 정책에 시사점 제공.
-
-> abstract-only — full text not retrieved (pmid 38536894, full_text: false).
+위생사 자율성과 진료 구성(mix) 사이에 비단조(non-monotonic) 관계가 시사되며, 중간 수준 업무범위 확대는 접근성 향상, 최대 자율성은 치료 방문 대체 가능 — 취약 지역 인력 정책에 시사점 제공.
 
 ## 1. Document Information
+
+> abstract-only — full text not retrieved (pmid 38536894, full_text: false).
 
 - **Title**: The effects of dental hygienist autonomy on dental care utilization.
 - **Authors**: Chen J, Meyerhoefer CD, Timmons EJ

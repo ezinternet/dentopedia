@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review of implant stability measurement methods (clinical perception, percussion, reverse torque, cutting torque resistance, Periotest, RFA/ISQ), concluding no single critical cutoff value reliably predicts implant success and RFA/ISQ is the most useful noninvasive option.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review of implant stability measurement methods (clinical perception, 
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 안정성 (Implant Stability) 측정 방법 6가지(임상 촉진·타진·역토크·절삭토크저항·Periotest·공명주파수분석 RFA/ISQ)를 정리한 narrative review로, 단일 임계값으로 성공/실패를 확정할 수 없으며 비침습적인 RFA/ISQ가 가장 유용하다고 결론.
 

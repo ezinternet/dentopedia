@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative overview (HKU) of dentist–patient communication — covers why it matters (efficiency, less litigation, less anxiety, more adherence/satisfaction), barriers (time, rapport, oral-health illiteracy, language, dentist skill/perception), strategies (patient-centered approach, jargon-free verbal + non-verbal skills), and training (didactic + role-play + interviewing + assessment;
 
 MI, open-ended questions, affirmations, reflective listening, summaries).
@@ -23,7 +22,6 @@ MI, open-ended questions, affirmations, reflective listening, summaries).
 (incomplete)
 
 ## 세줄요약
-
 
 의사-환자 커뮤니케이션 내러티브 overview(홍콩대) — 중요성(효율·소송감소·불안완화·순응도·만족), 장벽(시간·라포·구강건강 문해력·언어·술자 역량), 전략(환자중심·비전문용어·언어/비언어 스킬), 교육(강의+롤플레이+면담+평가;
 

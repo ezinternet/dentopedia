@@ -19,7 +19,6 @@ text_filename: low-2026-dental-antibiotic-prescribing-practices-singapore.txt
 
 ## Three-line Summary
 
-
 Cross-sectional survey of 280 Singapore dentists (2024): appropriate antibiotic prescribing ranged 6.5-97.7% across scenarios (lowest for periodontal 30.4% and oral surgery 34.0%), 71.2% over-prescribed prophylaxis after third-molar surgery and 73.5% before implant placement, and AMR-transmission knowledge was poor (59.3% unaware resistant bacteria spread easily).
 
 (incomplete)
@@ -27,7 +26,6 @@ Cross-sectional survey of 280 Singapore dentists (2024): appropriate antibiotic 
 (incomplete)
 
 ## 세줄요약
-
 
 싱가포르 치과의사 280명 단면조사(2024): 적절한 항생제 처방률이 임상상황별 6.5~97.7%로 편차가 컸고(치주 30.4%·구강외과 34.0%가 최저), 사랑니 발치 후 예방적 처방 71.2%·임플란트 식립 전 73.5%로 과처방이 만연했으며, 공공부문·국내수련·저경력 치과의사가 더 적절히 처방했고 AMR 전파에 대한 지식은 부족했다(59.3%가 내성균 전파 가능성 모름).
 

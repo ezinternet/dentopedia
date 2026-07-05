@@ -19,7 +19,6 @@ text_filename: jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentatio
 
 ## Three-line Summary
 
-
 Single-center RCT (n=42;
 
 21/group) — adjunctive amino-acid NaOCl + cross-linked HA ("clean and seal") added to subgingival re-instrumentation (SRI) of residual pockets in SPC patients yielded an extra 0.50 mm PD reduction and 0.57 mm CAL gain at 6 months, with 88.1% vs 38.1% pocket closure and significant reduction of 5/8 periopathobionts;
@@ -27,7 +26,6 @@ Single-center RCT (n=42;
 effect greatest in deeper pockets.
 
 ## 세줄요약
-
 
 단일기관 RCT (환자 42명, 군당 21명) — 유지치료(SPC) 단계 잔존 포켓의 재기구조작(SRI)에 아미노산-차아염소산나트륨(AA-NaOCl) + 가교 히알루론산(xHA, "clean and seal")을 보조로 추가하니 6개월 시점에 PD가 0.50 mm 더 감소하고 CAL이 0.57 mm 더 회복, 포켓 폐쇄율 88.1% 대 38.1%, 8개 중 5개 치주병원균 유의 감소했고, 깊은 포켓일수록 효과가 컸다.
 

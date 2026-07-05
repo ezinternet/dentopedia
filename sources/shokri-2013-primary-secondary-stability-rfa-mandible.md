@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective cohort (15 mandibular SLA ITI implants, 10 patients) tracked weekly by Osstell mentor RFA for 11 weeks: mean ISQ fell from 77.2 at placement to a 72.13 nadir at week 4, then significantly recovered to 75.6 by week 11 without reaching baseline — suggesting loading before week 4 may be disadvantageous.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective cohort (15 mandibular SLA ITI implants, 10 patients) tracked weekly 
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 코호트 연구 (Shokri 2013) — 하악 SLA ITI 임플란트 15개를 11주간 매주 공명주파수분석 (Resonance Frequency Analysis, RFA, Osstell mentor)으로 추적.
 

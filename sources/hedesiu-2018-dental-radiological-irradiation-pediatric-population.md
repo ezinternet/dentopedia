@@ -18,7 +18,6 @@ text_filename: hedesiu-2018-dental-radiological-irradiation-pediatric-population
 
 ## Three-line Summary
 
-
 Retrospective cohort (n=7,150 children, 12,252 dental X-rays): 2D exams median <20 µSv;
 
 CBCT median 127 µSv;
@@ -26,7 +25,6 @@ CBCT median 127 µSv;
 highest CBCT = 34.1 days of natural background radiation.
 
 ## 세줄요약
-
 
 후향적 코호트(소아 7,150명, 방사선 촬영 12,252건): 2D 검사 중앙값 <20 µSv;
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA+TSA of 29 RCTs (4,341 patients): single-visit RCT did not increase long-term complications or postoperative pain vs multiple-visit, but significantly raised flare-up risk (RR 2.13;
 
 95% CI 1.16–3.89), though all evidence was weak-to-moderate and firm TSA conclusions were not reached.
@@ -23,7 +22,6 @@ SR+MA+TSA of 29 RCTs (4,341 patients): single-visit RCT did not increase long-te
 (incomplete)
 
 ## 세줄요약
-
 
 29개 RCT(4,341명) SR+MA+TSA: 1회법과 다회법 간 장기 합병증·술후 통증 차이 없음;
 

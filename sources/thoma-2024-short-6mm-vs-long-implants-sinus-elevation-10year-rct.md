@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Multi-centre RCT 10-year data (77 patients, 105 implants) showing 6 mm short implants and 11–15 mm long implants + sinus floor elevation have similar survival (96.0% vs 100%), identical median MBL (0.00 mm), and comparable OHIP — supporting short implants as an alternative with less morbidity and lower cost.
 
 (incomplete)
@@ -23,7 +22,6 @@ Multi-centre RCT 10-year data (77 patients, 105 implants) showing 6 mm short imp
 (incomplete)
 
 ## 세줄요약
-
 
 다기관 RCT 10년 데이터(환자 77명, 임플란트 105개) — 6 mm short implant vs 11–15 mm long implant+상악동거상의 생존율(96.0% vs 100%)·중앙값 MBL(0.00 mm)·OHIP 유사;
 

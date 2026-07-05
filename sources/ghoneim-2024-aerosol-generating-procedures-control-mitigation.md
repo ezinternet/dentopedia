@@ -19,7 +19,6 @@ This CDHA/ADHA position paper complements the wiki's bioaerosol hazard evidence 
 
 ## Three-line Summary
 
-
 Consensus position paper (78 studies, 6 databases, 2012–2022) endorsing combined eyewear+mask+face-shield PPE, high/low-volume evacuation + saliva ejector + rubber dam, and appropriate ventilation/filtration to reduce aerosol transmission during dental AGPs;
 
 mouthrinses cut bacterial contamination but show limited effect against SARS-CoV-2.
@@ -28,12 +27,11 @@ mouthrinses cut bacterial contamination but show limited effect against SARS-CoV
 
 ## 세줄요약
 
+CDHA/ADHA 합의 입장문 (78편의 체계적 검토, 6개 DB, 2012–2022) — 치과 에어로졸 발생 술식 (Aerosol-Generating Procedures, AGP)의 감염 전파를 줄이기 위한 제어·완화 방안을 종합.
 
-CDHA/ADHA 합의 입장문(78편, 6개 DB, 2012–2022): 치과 에어로졸 발생 술식(AGP)에서 보안경+마스크+안면보호대 병용, 고/저용량 흡인·타액흡인기·러버댐, 적절한 환기·여과가 에어로졸 전파를 줄이며, 구강세척제는 세균 오염은 줄이나 SARS-CoV-2에 대한 효과는 제한적.
+보안경+마스크+안면보호대 병용, 고/저용량 흡인 장치, 타액흡인기, 러버댐 (Rubber Dam), 그리고 적절한 실내 환기·여과가 에어로졸 전파 위험을 감소.
 
-(incomplete)
-
-(incomplete)
+구강세척제는 세균 오염은 감소시키나 SARS-CoV-2 바이러스에 대한 효과는 제한적.
 
 ## 1. Document Information
 

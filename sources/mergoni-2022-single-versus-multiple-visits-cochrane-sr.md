@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cochrane SR+MA pub4 (47 RCTs, n=5805 teeth): single-visit and multiple-visit root canal treatment show equivalent radiological outcomes;
 
 single-visit has modestly higher pain within 1 week (RR 1.55, moderate certainty).
@@ -23,7 +22,6 @@ single-visit has modestly higher pain within 1 week (RR 1.55, moderate certainty
 (incomplete)
 
 ## 세줄요약
-
 
 Cochrane SR+MA pub4 (47건 RCT, 5805명): 단회·다회 근관치료의 방사선학적 성공률은 동등하며, 단회군에서 1주 내 통증 보고 비율이 약간 높음 (RR 1.55, 중등도 근거).
 

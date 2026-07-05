@@ -15,7 +15,6 @@ Provides the measured-dimension basis for the biologic-width concept that the pe
 
 ## Three-line Summary
 
-
 Clinical study (42 patients, 504 sites/126 teeth, bone-sounding under anesthesia) finding mean clinical biologic width 1.13 mm (significantly less than Gargiulo's 2.04 mm histologic value) and mean sulcus depth 1.96 mm (significantly greater than 0.69 mm), arguing for site-specific rather than fixed-value margin planning.
 
 (incomplete)
@@ -23,7 +22,6 @@ Clinical study (42 patients, 504 sites/126 teeth, bone-sounding under anesthesia
 (incomplete)
 
 ## 세줄요약
-
 
 임상연구(환자 42명, 126개 치아 504부위, 마취하 bone-sounding) — 평균 임상 biologic width 1.13 mm(Gargiulo 2.04 mm보다 유의하게 작음), 평균 sulcus depth 1.96 mm(0.69 mm보다 유의하게 큼)로, 고정값이 아닌 site-specific 변연 계획을 권고.
 

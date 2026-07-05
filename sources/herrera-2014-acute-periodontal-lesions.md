@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Periodontology 2000) of acute periodontal lesions — periodontal abscesses, necrotizing periodontal diseases, and other acute gingival conditions — covering etiology, classification, differential diagnosis, and emergency/definitive management.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Periodontology 2000) of acute periodontal lesions — periodon
 (incomplete)
 
 ## 세줄요약
-
 
 급성 치주병변(치주농양, 괴사성 치주질환, 기타 급성 치은병변)의 병인·분류·감별진단·응급 및 최종 치료를 정리한 서술적 종설(Periodontology 2000).
 

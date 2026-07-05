@@ -29,8 +29,6 @@ A paired comparison reported with an unpaired t-test, or a survival outcome anal
 
 대응 비교를 독립표본 t-test로 분석하거나 생존 결과를 카이제곱으로 처리하는 방법론 적신호를 이 flowchart로 감지 가능; 2012년 기준이라 효과크기·신뢰구간 우선 및 인과추론 프레임워크(DAG·성향점수) 이전임.
 
-
-
 ## Summary
 The "which test do I use?" reference for clinicians who didn't take graduate-level biostatistics. Bridges the gap between Flechner/Monaghan (what does this number mean?) and Shin WJ 2015 (how do I pool across studies?).
 

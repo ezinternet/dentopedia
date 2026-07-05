@@ -19,7 +19,6 @@ Part of the user's flapless-implant PubMed ingest. Paired with [[implants/surend
 
 ## Three-line Summary
 
-
 Prospective non-randomized cohort (n=20, single posterior implants, 12-month post-load) finding flapless placement gave significantly less postoperative pain and lower probing depth at 6 months, but **no difference in crestal bone height** vs the flapped technique at any time point.
 
 (incomplete)
@@ -27,7 +26,6 @@ Prospective non-randomized cohort (n=20, single posterior implants, 12-month pos
 (incomplete)
 
 ## 세줄요약
-
 
 단일 구치부 임플란트 비무작위 코호트 (n=20, 부하 후 12개월)에서 무피판(flapless)이 술후 통증·6개월 탐침깊이는 유의하게 낮았으나, 치조정 골높이(CBH)는 피판군과 어느 시점에도 차이 없음.
 

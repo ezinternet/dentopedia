@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (17 clinical trials, 39 AO treatments, 2010–2020): only 53.8% of treatments met the pain-control benchmark (VAS ≤4 by day 2, or ≥85% pain-free by day 7);
 
 successful options group into basic (intra-alveolar irrigation) and specific (Alveogyl, Neocones, SaliCept Patch, low-level laser, PRF);
@@ -23,7 +22,6 @@ successful options group into basic (intra-alveolar irrigation) and specific (Al
 heterogeneity prevents ranking.
 
 ## 세줄요약
-
 
 체계적 문헌고찰(임상시험 17편, 건성 발치와 (Alveolar Osteitis, AO) 치료 39개, 2010–2020): 통증조절 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통)을 충족한 치료는 53.8%뿐.
 

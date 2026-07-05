@@ -19,7 +19,6 @@ text_filename: joshi-2025-implant-tooth-proximity-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA (11 studies, 1,727 patients, 2,000+ implants): <1.5 mm implant-to-tooth distance — pulpal damage 20–25%, marginal bone loss up to 4% of implants;
 
 implant survival consistently >95%;
@@ -27,7 +26,6 @@ implant survival consistently >95%;
 pooled effect size 0.11.
 
 ## 세줄요약
-
 
 SR+MA (11편, 1,727명, 임플란트 2,000개+): 임플란트-치근 <1.5 mm → 치수 손상 20–25%, 골소실 최대 4%;
 

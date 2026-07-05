@@ -15,7 +15,6 @@ Foundational SR+MA establishing the quantitative association between periodontit
 
 ## Three-line Summary
 
-
 SR+MA of 5 population-based observational studies found individuals with periodontitis have 3.16× higher odds of halitosis (OR 3.16;
 
 95% CI: 1.12–8.95), with measurement criteria explaining ~45% (halitosis) and ~24% (periodontitis) of heterogeneity.
@@ -23,7 +22,6 @@ SR+MA of 5 population-based observational studies found individuals with periodo
 (incomplete)
 
 ## 세줄요약
-
 
 치주염 환자는 구취 발생 오즈가 3.16배 높으며(OR 3.16;
 

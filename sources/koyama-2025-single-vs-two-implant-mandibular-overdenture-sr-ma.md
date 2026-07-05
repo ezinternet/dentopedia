@@ -19,7 +19,6 @@ text_filename: koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.tx
 
 ## Three-line Summary
 
-
 SR+MA of 17 RCTs comparing single (1-IOD) vs two (2-IOD) implant mandibular overdentures: no difference in implant survival through 5 years, but denture fracture, denture remake, and metal-housing reattachment are ~2× more frequent with 1-IOD.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA of 17 RCTs comparing single (1-IOD) vs two (2-IOD) implant mandibular over
 (incomplete)
 
 ## 세줄요약
-
 
 하악 단일(1-IOD) vs 2개(2-IOD) 임플란트 오버덴쳐를 비교한 17편 RCT SR+MA — 5년까지 임플란트 생존율은 차이 없으나, 의치 파절·재제작·메탈하우징 재부착 같은 보철 합병증은 1-IOD에서 약 2배 더 잦다.
 

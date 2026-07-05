@@ -15,7 +15,6 @@ Occlusal force evolution after single posterior implant crown delivery is poorly
 
 ## Three-line Summary
 
-
 Prospective pilot (n=32 restorations, 30 patients) using T-Scan III at 5 time points found that single posterior implant prosthesis occlusal force increased ~2× from 2 weeks to 3 months post-placement, then stabilized, improving masticatory ability while maintaining light-contact guidelines.
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective pilot (n=32 restorations, 30 patients) using T-Scan III at 5 time po
 (incomplete)
 
 ## 세줄요약
-
 
 후방 단일 임플란트 보철 32개를 T-Scan III로 5회 측정한 전향적 파일럿 연구에서, 임플란트 교합력은 장착 2주~3개월 사이 약 2배 증가 후 안정화되었으며, 즉시 교합 회복으로 저작 능력이 개선됨.
 

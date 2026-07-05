@@ -17,7 +17,6 @@ text_filename: kim-2016-occupational-radiation-procedures-doses-korean-dentists.
 
 ## Three-line Summary
 
-
 Cross-sectional survey of 658 South Korean dentists linked to national dose registry: mean annual effective dose 0.18 mSv (male) / 0.13 mSv (female), far below the 20 mSv limit, with panoramic radiography being the most frequent procedure.
 
 (incomplete)
@@ -25,7 +24,6 @@ Cross-sectional survey of 658 South Korean dentists linked to national dose regi
 (incomplete)
 
 ## 세줄요약
-
 
 한국 치과의사 658명 국가선량레지스트리 연계 조사: 연평균 유효선량 남성 0.18 mSv, 여성 0.13 mSv — 직업한도(20 mSv/y)의 1% 미만;
 

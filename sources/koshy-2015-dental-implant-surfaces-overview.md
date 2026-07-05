@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative overview (2015) of titanium implant surface modification methods — additive (plasma spray, HA coating, calcium phosphate), subtractive (sandblasting, acid etching, anodization), and material-modification (laser, ion implantation) — cataloguing how macro/micro/nanotopography each influence osseointegration.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative overview (2015) of titanium implant surface modification methods — a
 (incomplete)
 
 ## 세줄요약
-
 
 서술 리뷰 (2015): 티타늄 임플란트 표면처리를 첨가형(플라즈마 스프레이, HA 코팅), 삭감형(샌드블라스팅, 산에칭, 양극산화), 재질변형(레이저, 이온주입) 세 축으로 체계화하고, 거시·미시·나노 표면거칠기가 골유착에 미치는 영향을 정리.
 

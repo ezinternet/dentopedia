@@ -19,7 +19,6 @@ text_filename: liu-2025-mm-dd-occlusal-adjustment-preventing-open-contacts.txt
 
 ## Three-line Summary
 
-
 Retrospective single-practice study (124 single-tooth posterior implants, 100 patients, 2–21.5 yr): the MM-DD occlusal adjustment — selectively relieving the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth at crown delivery to permit physiologic mesial drift — cut open-contact incidence from 46.7% (conventional control, n=49) to 2.7% (MM-DD, n=75;
 
 p<0.001), with Kaplan–Meier contact survival 99.1%/97.5%/96.2% at 5/10/15 yr.
@@ -27,7 +26,6 @@ p<0.001), with Kaplan–Meier contact survival 99.1%/97.5%/96.2% at 5/10/15 yr.
 (incomplete)
 
 ## 세줄요약
-
 
 후향 단일 의원 연구(124 단일 구치부 임플란트, 100명, 2–21.5년): crown 장착 시 근심인접치의 근심교합면·원심인접치의 원심교합면을 선택적으로 삭제해 생리적 mesial drift를 허용하는 MM-DD 교합조정으로 open contact를 46.7%(전통적 대조군)→2.7%로 격감(p<0.001), 접촉 생존율 5/10/15년 99.1/97.5/96.2%.
 

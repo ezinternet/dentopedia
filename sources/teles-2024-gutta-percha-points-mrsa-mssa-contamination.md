@@ -19,7 +19,6 @@ Gutta-percha (GP) points are the obturation gold standard but cannot be autoclav
 
 ## Three-line Summary
 
-
 In-vitro screen of 315 in-use GP points (2 brands, packages open 1 month) found only 6 (1.9%) contaminated (1 MRSA, 5 MSSA by PCR);
 
 a 3% NaOCl 60-s chairside disinfection cleared all six (100%).
@@ -27,7 +26,6 @@ a 3% NaOCl 60-s chairside disinfection cleared all six (100%).
 (incomplete)
 
 ## 세줄요약
-
 
 사용 1개월 된 개봉 거타퍼차(GP) 포인트 315개 중 6개(1.9%)만 오염(PCR로 MRSA 1, MSSA 5 확인)됐고, 3% NaOCl 60초 체어사이드 소독으로 6개 전부(100%) 오염이 제거된 in-vitro 연구.
 

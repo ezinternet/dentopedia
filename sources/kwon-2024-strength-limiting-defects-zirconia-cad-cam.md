@@ -15,7 +15,6 @@ Identifies the specific failure origins (strength-limiting defects) in CAD/CAM f
 
 ## Three-line Summary
 
-
 In vitro fractographic study (n=168 specimens, 7 zirconia materials, 3–5 mol% Y) showing CAM-milling defects dominate as-sintered strength while polishing shifts failure to intrinsic subsurface pores and grain clusters.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro fractographic study (n=168 specimens, 7 zirconia materials, 3–5 mol% 
 (incomplete)
 
 ## 세줄요약
-
 
 7종 CAD/CAM 지르코니아(3–5Y) 굴곡강도·파절기원 연구로, as-sintered 시편은 CAM 밀링 결함이, 고연마 시편은 내재 공극·결정립 집합이 파절 기원임을 FE-SEM 파절기술로 규명했다.
 

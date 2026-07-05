@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-In vitro study (SNU Periodontology, funded by DongKook Pharmaceutical, maker of Insadol) showing that Magnoliae Cortex 60 µg/mL (M) and titrated unsaponifiable Zea mays L. fraction 300 µg/mL (Z) — alone or combined (MZ) — suppress NF-κB activation, p44/42 MAPK and iNOS expression, NO/PGE₂/IL-1β/IL-6 production in P. gingivalis-stimulated RAW 264.7 murine macrophages, with synergistic effect when combined.
 
+In vitro study (SNU Periodontology, funded by DongKook Pharmaceutical, maker of Insadol) showing that Magnoliae Cortex 60 µg/mL (M) and titrated unsaponifiable Zea mays L. fraction 300 µg/mL (Z)
+
+alone or combined (MZ)
+
+suppress NF-κB activation, p44/42 MAPK and iNOS expression, NO/PGE₂/IL-1β/IL-6 production in P. gingivalis-stimulated RAW 264.7 murine macrophages, with synergistic effect when combined.
+
+## 세줄요약
+
+In vitro study (SNU Periodontology, funded by DongKook Pharmaceutical, maker of Insadol) showing that Magnoliae Cortex 60 µg/mL (M) and titrated unsaponifiable Zea mays L. fraction 300 µg/mL (Z)
+
+alone or combined (MZ)
+
+suppress NF-κB activation, p44/42 MAPK and iNOS expression, NO/PGE₂/IL-1β/IL-6 production in P. gingivalis-stimulated RAW 264.7 murine macrophages, with synergistic effect when combined.
 
 ## 1. Document Information
 - Authors: Kim J-Y, Kim K-H, Kwag E-H, Seol YJ, Lee YM, Ku Y, Rhyu I-C (corresponding, icrhyu@snu.ac.kr)

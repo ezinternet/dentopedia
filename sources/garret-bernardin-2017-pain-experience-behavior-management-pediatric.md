@@ -19,7 +19,6 @@ text_filename: garret-bernardin-2017-pain-experience-behavior-management-pediatr
 
 ## Three-line Summary
 
-
 Observational crossover split-mouth study (n=67 children/adolescents, 7-15y): the Wand STA computerized delivery system produced significantly lower pain VAS (-1.09 points, P=0.0003), smaller heart-rate increase (-3.4 bpm, P=0.028), more relaxed behavior (Venham=0 more frequent, P=0.019), and higher satisfaction (P=0.0003) versus traditional syringe injection.
 
 (incomplete)
@@ -27,7 +26,6 @@ Observational crossover split-mouth study (n=67 children/adolescents, 7-15y): th
 (incomplete)
 
 ## 세줄요약
-
 
 관찰형 crossover split-mouth 연구(소아·청소년 67명, 7-15세): Wand STA 컴퓨터 제어 마취기가 전통 syringe 대비 통증 VAS 유의하게 낮음(-1.09점, P=0.0003), 심박수 증가폭 작음(-3.4bpm, P=0.028), 이완된 행동(Venham=0) 더 빈번(P=0.019), 만족도 더 높음(P=0.0003).
 

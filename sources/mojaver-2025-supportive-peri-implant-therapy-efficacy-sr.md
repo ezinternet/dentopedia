@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (25 studies: 9 RCTs, 13 cohorts, 3 case-control;
 
 narrative synthesis) finding that individualized, risk-based supportive peri-implant therapy (SPiT) recall intervals consistently improve probing depth and bleeding on probing versus fixed-interval or no maintenance — though high heterogeneity precluded meta-analysis.
@@ -23,7 +22,6 @@ narrative synthesis) finding that individualized, risk-based supportive peri-imp
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(25편: RCT 9·코호트 13·환자대조 3, 정성 종합) — 환자별 위험도 기반(risk-based) 개별화 SPiT recall 주기가 고정 주기나 무관리 대비 탐침깊이·탐침시출혈을 일관되게 개선했으나, 높은 이질성으로 메타분석은 불가.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Umbrella review (7 SRs, 66 studies) finding short implants perform better-than-or-equal to standard implants with sinus floor elevation across survival, MBL, and biologic outcomes — but on a base of critically low / low quality reviews.
 
 (incomplete)
@@ -23,7 +22,6 @@ Umbrella review (7 SRs, 66 studies) finding short implants perform better-than-o
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 고찰 7편(연구 66편)을 묶은 우산형 고찰(umbrella review).
 

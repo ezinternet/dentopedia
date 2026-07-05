@@ -19,7 +19,6 @@ Seeds the EF-Line / elastodontic (myofunctional-orthodontics) evidence base in t
 
 ## Three-line Summary
 
-
 Scoping review (PRISMA-ScR;
 
 16 studies, n=345 treated, mean age 8.48 y) finding elastodontic appliances produce statistically significant sagittal correction in mixed-dentition Class II — SNB ↑ (13 studies, +0.61° to +2.82°), ANB ↓ (11–12 studies, −0.38° to −2.42°), OVJ ↓ (10 studies, −2.1 to −4.58 mm) — effective vs no-treatment but weaker than twin-block.
@@ -27,7 +26,6 @@ Scoping review (PRISMA-ScR;
 (incomplete)
 
 ## 세줄요약
-
 
 스코핑 리뷰(PRISMA-ScR;
 

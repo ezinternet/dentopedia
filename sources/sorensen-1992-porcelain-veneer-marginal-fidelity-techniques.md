@@ -15,7 +15,6 @@ Provides foundational in-vitro evidence comparing platinum foil vs. refractory d
 
 ## Three-line Summary
 
-
 In-vitro study (JPD 1992) comparing marginal fidelity and microleakage of platinum foil vs.
 
 refractory die porcelain veneers on intraenamel-prepared incisors;
@@ -23,7 +22,6 @@ refractory die porcelain veneers on intraenamel-prepared incisors;
 platinum foil showed better vertical marginal fidelity but more overcontouring, while microleakage occurred universally at the tooth–composite resin interface.
 
 ## 세줄요약
-
 
 시험관 내 연구(JPD 1992): 백금박 기법이 수직 변연 적합도는 우수하나 과풍융이 심했고, 두 기법 모두 치아-레진 계면에서 미세 누출이 보편적으로 관찰됨.
 

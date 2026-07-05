@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review proposing a 3-type socket classification (ST1–ST3) based on buccal bone morphology with a clinical decision tree matching each type to the most predictable alveolar ridge preservation technique.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review proposing a 3-type socket classification (ST1–ST3) based on b
 (incomplete)
 
 ## 세줄요약
-
 
 협측 골 형태에 따른 3형 발치와 분류(ST1–ST3)와 각 유형별 치조골 보존술 처치 결정 트리를 제안한 서술적 고찰.
 

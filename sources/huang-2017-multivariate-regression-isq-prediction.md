@@ -15,7 +15,6 @@ ISQ 예측 모델의 정량적 근거를 확보하기 위해 인제스트. 기�
 
 ## Three-line Summary
 
-
 Retrospective study of 557 implants (3 groups, 2 surgeons, 2 brands) using multivariate linear regression identified bone grafting (T1, coefficient −4 to −5) and implant diameter (T2, coefficient +3.4 to +4.2) as the only surgeon/system-independent general predictors of ISQ.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective study of 557 implants (3 groups, 2 surgeons, 2 brands) using multi
 (incomplete)
 
 ## 세줄요약
-
 
 557개 임플란트 후향 연구에서 다변량 회귀분석으로 T1 ISQ는 골이식 필요 여부(계수 −4~−5), T2 ISQ는 임플란트 직경(계수 +3.4~+4.2)이 술자·시스템 독립적인 일반 예측인자임을 확인.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 EBD commentary appraising a SR+MA (29 studies, 19 RCTs) finding that soft-tissue substitutes significantly reduce postoperative pain, analgesic consumption, and surgery time vs autogenous grafts in peri-implant soft tissue augmentation, with equivalent patient satisfaction and esthetics.
 
 (incomplete)
@@ -23,7 +22,6 @@ EBD commentary appraising a SR+MA (29 studies, 19 RCTs) finding that soft-tissue
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 주변 연조직 증대 시 자가이식편 대비 연조직 대체재는 수술 후 통증·진통제 소비·수술 시간을 유의하게 감소시키고 환자 만족도·심미 인식은 동등하다는 SR+MA(29연구, RCT 19개)를 비평한 EBD 코멘터리.
 

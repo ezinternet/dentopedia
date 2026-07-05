@@ -19,7 +19,6 @@ Yonsei University preclinical data on BMP-2 timing in damaged sockets — addres
 
 ## Three-line Summary
 
-
 Beagle dog RCT comparing immediate vs 2-week delayed BMP-2 injection into damaged extraction sockets found significantly greater new bone area with immediate application (10.8 vs 6.3 mm², p=0.043).
 
 (incomplete)
@@ -27,7 +26,6 @@ Beagle dog RCT comparing immediate vs 2-week delayed BMP-2 injection into damage
 (incomplete)
 
 ## 세줄요약
-
 
 개 실험에서 손상된 발치와에 BMP-2를 즉시 적용한 군이 2주 지연 적용군보다 신생골 면적이 유의하게 컸음 (10.8 vs 6.3 mm², p=0.043).
 

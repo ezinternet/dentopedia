@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Preclinical in vivo dog tibial study (Iowa Orthop J 2022, 42:22, Level II): saline irrigation and sharp drill bits significantly reduce drilling-induced temperature rise and acute osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most necrosis.
 
+Preclinical in vivo dog tibial study (Iowa Orthop J 2022, 42:22, Level II):
+
+saline irrigation and sharp drill bits significantly reduce drilling-induced temperature rise and acute
+
+osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most necrosis.
+
+## 세줄요약
+
+Preclinical 생체내 dog tibial study (Iowa Orthop J 2022, 42:22, Level II):
+
+saline irrigation and sharp drill bits 유의미한ly reduce drilling-induced temperature rise and acute
+
+osteonecrosis; conventional trocar-tip Kirschner wires produced the largest temperature rise and the most necrosis.
 
 ## 1. Document Information
 - Journal: Iowa Orthopaedic Journal 2022;42:22 (Volume 42, Issue 2)

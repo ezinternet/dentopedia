@@ -18,7 +18,6 @@ text_filename: jimenez-silva-2017-centric-relation-intercuspal-position-discrepa
 
 ## Three-line Summary
 
-
 Systematic review (n=20 low-quality observational studies;
 
 NOS mean 3.36): most individual studies link CR–ICP (centric) discrepancy to muscle pain and joint disorders, but heterogeneity + low quality preclude any definite causal association with TMD.
@@ -26,7 +25,6 @@ NOS mean 3.36): most individual studies link CR–ICP (centric) discrepancy to m
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(저질 관찰연구 20편, NOS 평균 3.36): 대부분의 개별 연구는 중심위–최대교두감합위 불일치(CR–ICP discrepancy)를 근육통·관절장애와 연관시키지만, 이질성과 낮은 질로 인해 측두하악장애(TMD)와의 확정적 인과 연관은 성립할 수 없다.
 

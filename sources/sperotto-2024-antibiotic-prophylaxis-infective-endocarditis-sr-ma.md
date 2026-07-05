@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-JAMA Cardiology 2024 대규모 SR+MA (n=1,152,345 IE cases): 침습적 치과시술 후 항생제 예방 — 고위험군에서만 감염성 심내막염 (IE) 위험 유의 감소; 중간/저위험군 효과 없음 → 2017 AHA·NICE 입장 (고위험군 한정 권고) 지지.
 
+JAMA Cardiology 2024 대규모 SR+MA (n=1,152,345 IE cases): 침습적 치과시술
+
+후 항생제 예방 — 고위험군에서만 감염성 심내막염 (IE) 위험 유의
+
+감소; 중간/저위험군 효과 없음 → 2017 AHA·NICE 입장 (고위험군 한정 권고) 지지.
+
+## 세줄요약
+
+JAMA Cardiology 2024 대규모 SR+MA (n=1,152,345 IE cases): 침습적 치과시술
+
+후 항생제 예방 — 고위험군에서만 감염성 심내막염 (IE) 위험 유의
+
+감소; 중간/저위험군 효과 없음 → 2017 AHA·NICE 입장 (고위험군 한정 권고) 지지.
 
 ## 1. Document Information
 - Authors: F. Sperotto, K. France, M. Gobbo, et al.

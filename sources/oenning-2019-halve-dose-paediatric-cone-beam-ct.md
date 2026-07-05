@@ -15,7 +15,6 @@ radiology 카테고리 소아 CBCT 선량 최적화의 핵심 실험근거(ALADA
 
 ## Three-line Summary
 
-
 Phantom + Monte Carlo (DIMITRA): 70 kVp/16 mAs/180 µm voxel cut paediatric CBCT effective dose ~45% with maintained image quality.
 
 (incomplete)
@@ -23,7 +22,6 @@ Phantom + Monte Carlo (DIMITRA): 70 kVp/16 mAs/180 µm voxel cut paediatric CBCT
 (incomplete)
 
 ## 세줄요약
-
 
 팬텀+몬테카를로(DIMITRA): 70 kVp·16 mAs·180 µm 복셀 조합으로 소아 CBCT 유효선량 ~45% 감소하면서 화질 유지.
 

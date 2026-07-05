@@ -19,7 +19,6 @@ text_filename: shin-2026-aging-socket-healing-rat-jeonbuk.txt
 
 ## Three-line Summary
 
-
 Animal study (rat, n=17, 3 age groups) showing that aging (18-month-old rats) significantly impairs alveolar socket healing — reduced bone volume/trabecular thickness, empty sockets with inflammatory infiltrate — compared to younger animals, emphasizing age-specific considerations in dental rehabilitation.
 
 (incomplete)
@@ -27,7 +26,6 @@ Animal study (rat, n=17, 3 age groups) showing that aging (18-month-old rats) si
 (incomplete)
 
 ## 세줄요약
-
 
 동물실험(쥐, n=17, 3연령군): 고령(18개월) 쥐에서 발치와 골재생 현저히 저하 — 골용적·골소주 두께 감소, 빈 소켓+염증세포 축적;
 

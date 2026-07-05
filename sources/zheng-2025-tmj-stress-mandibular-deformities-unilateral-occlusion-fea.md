@@ -17,7 +17,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Finite-element analysis of 35 patient-derived models (11 asymptomatic, 10 mandibular prognathism, 5 retrusion, 9 deviation) under unilateral molar occlusion: mandibular deformity raises condyle and articular-disc stress, with facial asymmetry (deviation) producing the highest TMJ stress and therefore the highest TMD risk;
 
 chewing on the non-deviated side worsens it.
@@ -25,7 +24,6 @@ chewing on the non-deviated side worsens it.
 (incomplete)
 
 ## 세줄요약
-
 
 유한요소해석(FEA) 연구 (환자 기반 모델 35개: 무증상 11, 하악전돌 10, 하악후퇴 5, 하악편위 9).
 

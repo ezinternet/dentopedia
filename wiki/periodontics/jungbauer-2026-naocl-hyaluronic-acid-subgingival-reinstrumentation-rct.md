@@ -38,7 +38,6 @@ Reserve the protocol for deeper residual pockets where the effect is largest; ma
 
 더 깊은 포켓에서 효과가 가장 크므로 선택적 사용이 적합; 효과 규모(~0.5 mm)는 초기 치료 시보다 작음(기존 치료된 비반응 부위).
 
-
 ## Summary
 
 In supportive periodontal care (SPC) patients with residual pockets, mechanical subgingival re-instrumentation (SRI) alone produces only modest probing-depth reduction, and prior evidence found no reliable benefit from adjuncts at this stage. This RCT tested the "clean and seal" local protocol — amino-acid–buffered sodium hypochlorite gel (AA-NaOCl, Perisolv) for biofilm/matrix degradation, followed by cross-linked hyaluronic acid gel (xHA, hyaDent BG) for clot stabilization (re-applied after 1 week) — as an adjunct to SRI.

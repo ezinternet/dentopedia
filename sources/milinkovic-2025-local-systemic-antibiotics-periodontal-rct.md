@@ -19,7 +19,6 @@ Fills a direct gap in the wiki's coverage of adjunctive antibiotic strategies du
 
 ## Three-line Summary
 
-
 Single-blinded RCT (n=38, stage III periodontitis) found that locally delivered piperacillin + tazobactam produced equivalent 6-month reductions in PPD, CAL, BOP, plaque index, and total bacterial count compared to systemic amoxicillin + metronidazole as NSPT adjuncts, with no significant differences in IL-17 or TNF-α expression between groups.
 
 (incomplete)
@@ -27,7 +26,6 @@ Single-blinded RCT (n=38, stage III periodontitis) found that locally delivered 
 (incomplete)
 
 ## 세줄요약
-
 
 단일 맹검 RCT (n=38, 치주염 (Periodontitis) 3기): 비외과적 치주치료 (Non-Surgical Periodontal Therapy, NSPT) 보조 요법으로 국소 피페라실린 + 타조박탐 (Piperacillin + Tazobactam)이 전신 아목시실린 + 메트로니다졸 (Amoxicillin + Metronidazole)과 동등한 탐침 깊이 (Probing Pocket Depth, PPD), 임상 부착 수준 (Clinical Attachment Level, CAL), 탐침 출혈 (Bleeding on Probing, BOP), 총 세균수 감소 효과를 보임.
 

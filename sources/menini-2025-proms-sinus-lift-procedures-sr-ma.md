@@ -17,7 +17,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (12 RCTs + 1 non-RCT) of patient-reported outcomes in sinus floor elevation finding graftless and transcrestal approaches associated with less postoperative pain/discomfort than grafted lateral SFE, with overall evidence sparse.
 
 (incomplete)
@@ -25,7 +24,6 @@ SR+MA (12 RCTs + 1 non-RCT) of patient-reported outcomes in sinus floor elevatio
 (incomplete)
 
 ## 세줄요약
-
 
 PROM 중심 SR+MA(RCT 12 + 비RCT 1) — 무이식(graftless)·경치조(transcrestal) 접근이 이식 동반 측방 상악동거상보다 술후 통증·불편감이 적음;
 

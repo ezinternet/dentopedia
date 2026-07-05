@@ -29,7 +29,6 @@ tags: [inlay, onlay, partial-coverage, lithium-disilicate, e-max, cad-cam, 3d-pr
 
 ## Three-line Summary
 
-
 Decision-ladder synthesis of 13 posterior partial-coverage restoration papers (inlay/onlay/overlay) across 4 axes: lithium disilicate (e.max) is first-line with ≥95.6% 10-year survival (Malament 2021, n=551; inlay 93.9% / onlay 98.3%) and outperforms CAD/CAM indirect resin composite long-term — resin matches ceramic at 5 years but diverges sharply by 7.8 years (LiDiSi 96.8% vs resin 84.9%, 5× annual failure rate; Lempel 2023).
 
 Partial coverage equals or outperforms full crowns on survival and complication rates while conserving tooth structure (Wang 2022 SR+MA, Prott 2025 scoping) — "if this much tooth is removed, just crown it" is a clinical misjudgment; overlay (cusp coverage) is stronger than box inlay in fracture resistance, and immediate dentin sealing (IDS) is recommended before final cementation (Hofsteenge 2023 in-vitro + FEA, n=64).
@@ -37,7 +36,6 @@ Partial coverage equals or outperforms full crowns on survival and complication 
 Short-term RCTs (1–2 years) show no material difference between e.max and nanoceramic/hybrid composite (Hassan 2024, Souza 2021 split-mouth RCTs) — never downgrade to indirect resin composite based on short-term equivalence alone, as the 7-year divergence confirms the long-term inferiority; 3D-printed inlay marginal fit is within clinical tolerance in vitro (Lim 2023), pending clinical validation.
 
 ## 세줄요약
-
 
 후방부 부분피개 수복(인레이·온레이·overlay) 13편 종합.
 

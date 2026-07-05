@@ -17,7 +17,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vivo miniature pig study (16 SLA implants in 4 pigs, frontal bone, 8-week healing;
 
 cold argon plasma applied chairside 240 s before insertion): plasma group showed higher bone-to-implant contact (90.4% vs 86.5%) and interthread bone density (72.5% vs 63.4%), with peri-implant bone density similar (60.5% vs 61.1%);
@@ -25,7 +24,6 @@ cold argon plasma applied chairside 240 s before insertion): plasma group showed
 authors describe the increases as slight and fluorescence labeling did not indicate significantly faster/stronger mineralization.
 
 ## 세줄요약
-
 
 미니돼지 in vivo(SLA 임플란트 16개, 4마리, 전두골, 8주;
 

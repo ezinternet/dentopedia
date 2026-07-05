@@ -10,10 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Prospective pilot study (n=12) of an inverted body-shift implant design featuring a 12-degree angled platform for immediate implant placement and provisionalization in the esthetic zone. The design concept was developed to improve trajectory control and provisional emergence profile compared to conventional geometries. All 12 implants survived at follow-up with favorable esthetic characteristics, establishing proof-of-concept for this angle-corrective implant geometry.
+
+Prospective pilot study (n=12) of an inverted body-shift implant design featuring a 12-degree angled platform for immediate implant placement and provisionalization in the esthetic zone.
+
+The design concept was developed to improve trajectory control and provisional emergence profile compared to conventional geometries.
+
+All 12 implants survived at follow-up with favorable esthetic characteristics, establishing proof-of-concept for this angle-corrective implant geometry.
 
 ## 세줄요약
-미용 부위 즉시식립을 위한 12도 각도 플랫폼을 가진 역향 바디-시프트 임플란트 설계의 전향적 파일럿 연구(n=12). 전통적 기하학에 비해 궤적 제어와 임시 우출 프로파일을 개선하도록 설계됨. 12개 임플란트 모두 생존했고 유리한 심미 특성을 보여 이 각도 보정 임플란트 설계의 개념증명을 확립했다.
+
+미용 부위 즉시식립을 위한 12도 각도 플랫폼을 가진 역향 바디-시프트 임플란트 설계의 전향적 파일럿 연구(n=12).
+
+전통적 기하학에 비해 궤적 제어와 임시 우출 프로파일을 개선하도록 설계됨.
+
+12개 임플란트 모두 생존했고 유리한 심미 특성을 보여 이 각도 보정 임플란트 설계의 개념증명을 확립했다.
 
 ## 1. Document Information
 

@@ -18,7 +18,6 @@ Documents a serious safety complication — subcutaneous facial emphysema (SFE) 
 
 ## Three-line Summary
 
-
 Case report: glycine-based subgingival air polishing with a subgingival nozzle in a 5 mm pocket caused subcutaneous facial emphysema (periorbital + cheek swelling), requiring 3-day hospitalisation and antibiotics, with full recovery.
 
 (abstract-only — full text not retrieved)
@@ -26,7 +25,6 @@ Case report: glycine-based subgingival air polishing with a subgingival nozzle i
 (incomplete)
 
 ## 세줄요약
-
 
 증례보고: 5 mm 치주낭에 글라이신(glycine) 치은연하 노즐로 air polishing 시행 후 안면 피하기종(subcutaneous facial emphysema)이 발생해 안와주위·뺨 부종으로 3일 입원·항생제 투여 후 완전 회복.
 

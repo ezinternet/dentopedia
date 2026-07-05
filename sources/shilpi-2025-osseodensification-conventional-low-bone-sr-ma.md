@@ -25,7 +25,6 @@ Rittipakorn-2025 clockwise OD 논문의 reference surveillance 인제스트. 저
 
 ## Three-line Summary
 
-
 SR+MA (6 human RCT/NRCT studies) of OD vs conventional drilling in low bone density: ISQ non-significant at both time points;
 
 bone density significantly higher immediately post-placement but not at 3–7 months.
@@ -33,7 +32,6 @@ bone density significantly higher immediately post-placement but not at 3–7 mo
 (incomplete)
 
 ## 세줄요약
-
 
 저밀도 골 SR+MA(인간 대상 RCT/NRCT 6편): OD는 ISQ에서 유의하지 않았으나 임플란트 식립 직후 골밀도는 유의하게 높았고(p=0.004), 3–7개월 후에는 비유의였다.
 

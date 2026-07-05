@@ -19,7 +19,6 @@ Highest-level synthesis (umbrella review of 5 systematic reviews) anchoring the 
 
 ## Three-line Summary
 
-
 Umbrella review (PRISMA, JBI appraisal) of 5 systematic reviews (351 records → 5 SRs → 8 relevant primary studies);
 
 vitamin D appears to positively affect osseointegration, marginal bone loss, implant survival, and reduction of early dental implant failure, but the underlying evidence is methodologically weak (no meta-analysis, confirmation/selective-reporting bias, inconsistent reference levels, unreported doses).
@@ -27,7 +26,6 @@ vitamin D appears to positively affect osseointegration, marginal bone loss, imp
 (incomplete)
 
 ## 세줄요약
-
 
 우산형 종설(Umbrella Review, PRISMA·JBI 평가)로 체계적 문헌고찰(Systematic Review, SR) 5편(검색 351건 → SR 5편 → 관련 1차 연구 8편)을 통합.
 

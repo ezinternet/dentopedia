@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Westlake University / Tianjin Medical University, 2026;
 
 Bioactive Materials) presenting a three-lens framework (osteoimmune biology, stimuli-responsive materials, translational bottlenecks) covering four next-generation material families and four structural architectures for next-generation GBR membranes, with a 26% complication rate of conventional GBR as the clinical motivation.
@@ -23,7 +22,6 @@ Bioactive Materials) presenting a three-lens framework (osteoimmune biology, sti
 (incomplete)
 
 ## 세줄요약
-
 
 서사적 고찰(웨스트레이크대·천진의대, 2026) — 기존 GBR 합병증률 26%를 배경으로, 골면역생물학·자극반응성 소재·중개의학 병목이라는 3-렌즈 프레임워크로 차세대 GBR 막(폴리머 복합재·생분해성 Mg/Zn 합금·MXene·시트레이트 폴리머)과 4가지 구조설계(이중층·야누스·구배·4D 프린팅)를 체계적으로 정리함.
 

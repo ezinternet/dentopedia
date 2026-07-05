@@ -17,7 +17,6 @@ text_filename: yeloglu-akbuar-2026-self-adhesive-flowable-physical-properties.tx
 
 ## Three-line Summary
 
-
 In vitro lab study (5 flowable composites, n=10 each): a conventional flowable composite (Filtek Ultimate Flowable) had the highest microhardness, while bacterial adhesion was composition-dependent and not explained by surface roughness alone — resin matrix chemistry and filler composition drive both physical properties and biofilm affinity.
 
 (incomplete)
@@ -25,7 +24,6 @@ In vitro lab study (5 flowable composites, n=10 each): a conventional flowable c
 (incomplete)
 
 ## 세줄요약
-
 
 In vitro 실험 (플로어블 레진 5종, 각 n=10): 통상형(Filtek Ultimate Flowable)이 미세경도 최고, 세균부착은 표면조도가 아니라 **레진 매트릭스·필러 성분**에 좌우 — self-adhesive flowable은 통상형보다 경도가 낮으나 일부는 색안정성·세균부착에서 유리.
 

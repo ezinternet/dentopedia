@@ -19,7 +19,6 @@ This 3-year prospective cohort seeds the wiki's first Ceraseal (Meta Biomed prem
 
 ## Three-line Summary
 
-
 Prospective cohort (52 patients, 58 RCTs;
 
 Ceraseal + single-cone) reporting 92.7% survival and 92.1% per-protocol healing (PAI ≤2) at 36 months, with 100% healing in pulpitis and pulp-necrosis teeth.
@@ -27,7 +26,6 @@ Ceraseal + single-cone) reporting 92.7% survival and 92.1% per-protocol healing 
 (incomplete)
 
 ## 세줄요약
-
 
 전향 코호트(환자 52명·근관치료 58건, Ceraseal + 단일콘): 36개월 생존율 92.7%, per-protocol 치유율(PAI ≤2) 92.1%, 치수염·치수괴사 치아는 100% 치유.
 

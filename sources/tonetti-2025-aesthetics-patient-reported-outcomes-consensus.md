@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 EFP 2025 expert consensus (40 experts, 5 SRs) establishes that clinician-reported aesthetic scores and patient-reported outcomes (PROs) provide complementary but discordant perspectives on root coverage and implant soft-tissue procedures, and calls for their systematic integration in future trials.
 
 (incomplete)
@@ -23,7 +22,6 @@ EFP 2025 expert consensus (40 experts, 5 SRs) establishes that clinician-reporte
 (incomplete)
 
 ## 세줄요약
-
 
 EFP 2025 전문가 합의(전문가 40인, 체계적 고찰 5편): 치근피개술·임플란트 연조직 처치에서 임상가 심미점수와 환자보고결과(PRO)는 보완적이나 불일치하며, 향후 임상시험에서 PRO·CRO·PRE의 통합 보고가 필요하다.
 

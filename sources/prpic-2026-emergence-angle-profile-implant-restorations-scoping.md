@@ -19,7 +19,6 @@ text_filename: prpic-2026-emergence-angle-profile-implant-restorations-scoping.t
 
 ## Three-line Summary
 
-
 PRISMA-ScR scoping review (17 studies, incl.
 
 2 RCT, 1 SR+MA, cross-sectional/retrospective) of implant-restoration emergence angle/profile: an emergence angle < 30° may reduce marginal bone loss (evidence inconclusive), and a concave emergence profile is consistently associated with greater peri-implant soft tissue margin stability and reduced recession.
@@ -27,7 +26,6 @@ PRISMA-ScR scoping review (17 studies, incl.
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 보철 emergence angle/profile에 관한 17편 scoping review — emergence angle < 30°가 변연골 흡수를 줄일 수 있으나(근거 불확실), concave(오목) emergence profile은 일관되게 peri-implant 연조직 안정·퇴축 감소와 연관된다.
 

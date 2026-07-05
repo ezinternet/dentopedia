@@ -18,7 +18,6 @@ Builds out the autoimmune blistering oral-disease branch of `oral-medicine`. Pem
 
 ## Three-line Summary
 
-
 Systematic review (32 articles;
 
 50 PV + 123 MMP intraoral cases, all DIF-confirmed): mouth is the primary site in both (PV 71.4 %, MMP 91 %);
@@ -26,7 +25,6 @@ Systematic review (32 articles;
 cheek mucosa is the top PV site (30 %) vs gingiva for MMP (64.2 %); DIF was IgG-positive in 100 % of both; systemic corticosteroids dominate PV management (50 %), topical therapy dominates MMP (53.7 %).
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (32편;
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Randomized beagle dog study (n=9, 3 groups) showing BMP2-functionalized biomimetic calcium phosphate (BioCaP) graft produces 1.61× more new bone than control and 1.25× more than DBB during orthodontic tooth movement without obstructing tooth movement.
 
 (incomplete)
@@ -23,7 +22,6 @@ Randomized beagle dog study (n=9, 3 groups) showing BMP2-functionalized biomimet
 (incomplete)
 
 ## 세줄요약
-
 
 개 9마리 3군 무작위 연구 — BMP2 기능화 칼슘인산염(BioCaP) 이식재가 교정적 치아 이동 중 대조군 대비 신생골 형성 1.61배, DBB 대비 1.25배 증가;
 

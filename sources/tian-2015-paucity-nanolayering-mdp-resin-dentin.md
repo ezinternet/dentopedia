@@ -19,7 +19,6 @@ Direct counterpoint to the foundational nanolayering claim. [[wiki/resin-bonding
 
 ## Three-line Summary
 
-
 In-vitro TEM + thin-film XRD study (7 commercial 10-MDP adhesives, n=6 TEM / n=4 XRD;
 
 experimental 15/10/5 wt% primers): profuse ~3.7 nm-periodicity nanolayering appears at 15% 10-MDP but is rarely seen in commercial adhesives, challenging nanolayering as a clinical bond-longevity mechanism.
@@ -27,7 +26,6 @@ experimental 15/10/5 wt% primers): profuse ~3.7 nm-periodicity nanolayering appe
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro TEM·박막 XRD 연구(상용 10-MDP 접착제 7종, TEM n=6/XRD n=4;
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (15 studies, 1981 patients, 3272 orthodontic mini-implants in young adults): success broadly consistent across demographics — gender and age not significant — but failure higher in males and in the maxilla;
 
 insertion site and implant size not significant;
@@ -23,7 +22,6 @@ insertion site and implant size not significant;
 higher applied force correlated with LOWER failure.
 
 ## 세줄요약
-
 
 SR+MA (15편·1981명·교정용 미니임플란트 3272개, 청소년·청년): 성공률은 인구통계에 무관하게 일관 — 성별·연령 무의미 — 그러나 남성·상악에서 실패 높음, 식립 부위·임플란트 크기는 무의미, 적용 힘이 클수록 실패 낮음(음의 상관).
 

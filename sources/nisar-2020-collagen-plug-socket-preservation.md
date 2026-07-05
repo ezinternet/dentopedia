@@ -15,7 +15,6 @@ Collagen plug + PRP as a simple, low-cost socket preservation approach — split
 
 ## Three-line Summary
 
-
 Split-mouth prospective study (n=30) comparing collagen plug + PRP vs extraction alone: significant crestal bone height preservation at 3 and 6 months (p<0.001) with collagen plug, but no significant difference in alveolar ridge width.
 
 (incomplete)
@@ -23,7 +22,6 @@ Split-mouth prospective study (n=30) comparing collagen plug + PRP vs extraction
 (incomplete)
 
 ## 세줄요약
-
 
 분할구강 전향적 연구 (n=30): 콜라겐 플러그+PRP군에서 6개월 치조골 높이 유의하게 보존 (p<0.001), 치조골 폭경은 양군 간 유의차 없음.
 

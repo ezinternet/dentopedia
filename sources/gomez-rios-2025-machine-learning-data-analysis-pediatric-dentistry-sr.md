@@ -18,7 +18,6 @@ Seeds the new `artificial-intelligence` category with primary-study-level eviden
 
 ## Three-line Summary
 
-
 Systematic review (PRISMA, QUADAS-2;
 
 20 of 1945 screened articles) finding machine learning in paediatric dentistry is dominated by caries prediction (14/20 studies, using socio-demographic/behavioural/biological predictors) and that ML-derived cost analyses favour sealants + fluoride, while concluding that ML-specific methodological guidelines and quality scales are still lacking.
@@ -26,7 +25,6 @@ Systematic review (PRISMA, QUADAS-2;
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(PRISMA, QUADAS-2;
 

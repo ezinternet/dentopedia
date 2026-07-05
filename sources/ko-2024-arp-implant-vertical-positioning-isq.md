@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective case series (n=30 sites, 28 patients) comparing implants placed within vs.
 
 beyond ARP boundaries: beyond-ARP group showed higher insertion torque (33.33 vs.
@@ -23,7 +22,6 @@ beyond ARP boundaries: beyond-ARP group showed higher insertion torque (33.33 vs
 17.08 Ncm) but equivalent ISQ at 10 weeks (80.66 vs. 76.44).
 
 ## 세줄요약
-
 
 후향적 증례연구(30부위, 28명): ARP 경계 초과 임플란트는 삽입 토크가 높았으나(33.33 대 17.08 Ncm), 10주 ISQ는 두 군 간 유의한 차이 없음(80.66 대 76.44).
 

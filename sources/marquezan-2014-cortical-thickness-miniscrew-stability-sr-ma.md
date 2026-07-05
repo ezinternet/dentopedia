@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis (12 studies) finding a positive association between orthodontic miniscrew primary stability and cortical thickness (pooled r=0.409 for primary-stability studies;
 
 r=0.338 in human studies).
@@ -23,7 +22,6 @@ r=0.338 in human studies).
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰+메타분석(12편) — 미니스크류 일차안정성과 cortical thickness 간 양의 상관(일차안정성 연구 묶음 r=0.409, 인간 연구 r=0.338).
 

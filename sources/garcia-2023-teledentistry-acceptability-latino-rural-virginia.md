@@ -21,7 +21,6 @@ text_filename: garcia-2023-teledentistry-acceptability-latino-rural-virginia.txt
 
 ## Three-line Summary
 
-
 Cross-sectional survey (N=91 rural Latina/o/x adults, southwest Virginia) found 57% had no interest in teledentistry even if available;
 
 only higher household income (>$24k) and lacking dental insurance were significantly associated with acceptability — availability alone will not close access gaps without explicit health-equity integration.
@@ -29,7 +28,6 @@ only higher household income (>$24k) and lacking dental insurance were significa
 (incomplete)
 
 ## 세줄요약
-
 
 농촌 라티노 성인 91명 대상 단면조사 — 57%가 원격치의학(Teledentistry)에 무관심, 가구소득 >$24k와 치과보험 미보유만 수용성과 유의 연관;
 

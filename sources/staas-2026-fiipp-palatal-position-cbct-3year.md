@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Prospective multi-center CBCT study of flapless IIPP with implant positioned ≥2 mm palatal to the buccal crest, followed for 3 years. Demonstrates preservation of buccal crest thickness and height.
 
+Prospective multi-center CBCT study of flapless IIPP with implant
+
+positioned ≥2 mm palatal to the buccal crest, followed
+
+for 3 years. Demonstrates preservation of buccal crest thickness and height.
+
+## 세줄요약
+
+Prospective multi-center CBCT study of flapless IIPP with implant
+
+positioned ≥2 mm palatal to the buccal crest, followed
+
+for 3 years. Demonstrates preservation of buccal crest thickness and height.
 
 ## 1. Document Information
 - **Title:** Flapless immediate implant placement and provisionalisation (FIIPP) using a palatal implant position (≥ 2 mm): A prospective multicentre CBCT study with a 3-year follow-up

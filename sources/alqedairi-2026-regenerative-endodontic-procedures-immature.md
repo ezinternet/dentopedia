@@ -33,8 +33,6 @@ Current REP outcomes represent "biologically supported repair" rather than true 
 
 현재 REP 결과는 진성 치수 재생이 아닌 "생물학적 지지 수복" (조직학적으로 백악질/골 유사 조직); 5년 초과 장기 데이터 부족, 표준화된 핵심 결과 지표 필요.
 
-
-
 ## 1. Document Information
 
 - Journal: Cureus, published 2026-05-24

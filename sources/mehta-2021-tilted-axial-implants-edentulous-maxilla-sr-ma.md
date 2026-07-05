@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (11 studies survival, 7 MBL) finding no significant difference between tilted and axial implants in immediately loaded atrophic edentulous maxillae at 3 years for implant survival (RR 1.00, 95% CI 0.98–1.01) or marginal bone loss (MD −0.02 mm, 95% CI −0.09 to 0.06).
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (11 studies survival, 7 MBL) finding no significant difference between til
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA(생존 11편·MBL 7편) — 위축 무치악 상악 즉시 로딩 재건에서 3년 시점 경사식립과 축방향 임플란트 간 생존율(RR 1.00)·변연골소실(MD −0.02 mm) 차이가 없었다.
 

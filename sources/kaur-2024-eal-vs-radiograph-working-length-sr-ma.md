@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-BMC Oral Health 2024;24:532: SR+MA (11 RCTs SR / 8 MA): EAL vs radiograph — no pain difference; radiograph better accuracy (SMD 0.55, P=0.02); EAL 10% better adequacy (RR 1.10, P=0.006); very low-certainty evidence; no superiority conclusion possible.
+
+BMC Oral Health 2024;24:532: SR+MA (11 RCTs SR / 8 MA): EAL vs radiograph — no pain difference
+
+radiograph better accuracy (SMD 0.55, P=0.02)
+
+EAL 10% better adequacy (RR 1.10, P=0.006); very low-certainty evidence; no superiority conclusion possible.
+
+## 세줄요약
+
+BMC Oral Health 2024;24:532: SR+MA (11 RCTs SR / 8 MA): EAL vs radiograph — no pain difference
+
+radiograph better accuracy (SMD 0.55, P=0.02)
+
+EAL 10% better adequacy (RR 1.10, P=0.006); very low-certainty evidence; no superiority conclusion possible.
 
 ## 1. Key Results
 - 11 eligible RCTs (SR); 8 RCTs (MA); mixed risk of bias

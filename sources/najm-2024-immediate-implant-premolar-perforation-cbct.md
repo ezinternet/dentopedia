@@ -19,7 +19,6 @@ Extends [[immediate-implant/kheur-2024-feasibility-iip-maxillary-first-premolars
 
 ## Three-line Summary
 
-
 CBCT virtual study (179 patients, 716 maxillary premolars): immediate-implant labial/nasal/sinus perforation occurred in 84.1% of prosthetically-driven placements vs 40.5% of bone-driven placements;
 
 female sex, older age, shorter tooth-apex distance, and smaller labial concavity angle raised perforation risk.
@@ -27,7 +26,6 @@ female sex, older age, shorter tooth-apex distance, and smaller labial concavity
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT 가상 연구(환자 179명, 상악 소구치 716개): 즉시식립 시 보철주도(prosthetically-driven) 위치는 84.1%, 골주도(bone-driven) 위치는 40.5%에서 순측/비강/상악동 천공이 발생했고, 여성·고령·치근첨-구조물 거리 짧음·작은 순측 함몰각(LCA)이 천공 위험을 높였다.
 

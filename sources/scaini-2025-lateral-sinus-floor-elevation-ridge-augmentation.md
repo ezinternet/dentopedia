@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-측창 상악동 거상술 종합 내러티브 리뷰: 전신질환(흡연·당뇨·골다공증 등) 영향, DSP(디지털 수술 계획) 프로토콜, 수술 기법, 이식재, 합병증 관리, 술후 처치까지 현 state-of-the-art 총정리.
 
+측창 상악동 거상술 종합 내러티브 리뷰: 전신질환(흡연·당뇨·골다공증
+
+등) 영향, DSP(디지털 수술 계획) 프로토콜, 수술
+
+기법, 이식재, 합병증 관리, 술후 처치까지 현 state-of-the-art 총정리.
+
+## 세줄요약
+
+측창 상악동 거상술 종합 내러티브 리뷰: 전신질환(흡연·당뇨·골다공증
+
+등) 영향, DSP(디지털 수술 계획) 프로토콜, 수술
+
+기법, 이식재, 합병증 관리, 술후 처치까지 현 state-of-the-art 총정리.
 
 ## 1. Document Information
 - **Journal**: Clinical Implant Dentistry and Related Research 2025;27:e70007

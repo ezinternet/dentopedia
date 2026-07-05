@@ -15,7 +15,6 @@ OMS 클러스터 내 구강상악동루 (Oroantral Fistula, OAF) 외과적 폐�
 
 ## Three-line Summary
 
-
 Narrative review of local flap techniques for oroantral fistula (OAF) closure — buccal advancement flap, buccal fat pad, and palatal rotational flap — with a size-based decision algorithm and illustrative case series from a Korean oral and maxillofacial surgery department.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review of local flap techniques for oroantral fistula (OAF) closure �
 (incomplete)
 
 ## 세줄요약
-
 
 구강상악동루 (Oroantral Fistula, OAF) 폐쇄를 위한 협측 전진 피판, 협측 지방 패드, 구개 회전 피판 세 가지 국소 피판 술식의 적응증·장단점과 크기 기반 치료 알고리즘을 정리한 서술적 문헌고찰.
 

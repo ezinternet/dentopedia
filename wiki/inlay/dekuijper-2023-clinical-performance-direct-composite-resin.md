@@ -29,8 +29,6 @@ The evidence is insufficient to equate direct composite with indirect restoratio
 
 직접수복이 간접수복과 동등하다고 결론내리기에는 근거 불충분; 잔존 치관 조직량을 통제한 RCT가 필요.
 
-
-
 ## Summary
 This PRISMA-guided systematic review and meta-analysis addresses a question with surprisingly thin high-level evidence: when restoring an **endodontically treated posterior tooth**, does a direct composite resin restoration perform differently from an indirect restoration (mostly complete crowns; few inlays/onlays)? Searching MEDLINE, CENTRAL, and EMBASE (1275 records; 938 after de-duplication), the authors included 22 studies (2 RCTs, 3 prospective, 17 retrospective), deliberately separating composite resin from other direct materials (amalgam, glass ionomer).
 

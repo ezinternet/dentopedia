@@ -18,7 +18,6 @@ This is the originating paper that introduced the "water treeing" concept to den
 
 ## Three-line Summary
 
-
 In-vitro TEM tracer study (3 total-etch + 3 self-etch adhesives, conventional vs ammoniacal 50 wt% silver nitrate, 24 h): all adhesives showed nanoleakage within hybrid layers, and dendritic interconnecting silver "water trees" extended perpendicularly from the hybrid-layer surface into the adhesive — a proposed pathway for hydrolytic bond degradation.
 
 Abstract-only.
@@ -26,7 +25,6 @@ Abstract-only.
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro TEM 추적자 연구 (전부식 3종 + 자가부식 3종, 통상 vs 암모니아성 50 wt% 질산은, 24시간): 모든 접착제가 혼성층(hybrid layer) 내 나노누출(nanoleakage)을 보였고, 수지상으로 연결된 은 침착물 "물나무(water tree)"가 혼성층 표면에서 접착제 층으로 수직 연장됨 — 수분에 의한 접착 분해의 잠재 경로로 제시.
 

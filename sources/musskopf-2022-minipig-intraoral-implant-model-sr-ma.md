@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 55 minipig intraoral implant studies (n≈550 animals): mean BIC 59.88% (95% CI 57.43–62.33), increasing significantly over time, with high heterogeneity (I²>90%) explained by observation interval and implant surface.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 55 minipig intraoral implant studies (n≈550 animals): mean BIC 59.88%
 (incomplete)
 
 ## 세줄요약
-
 
 미니피그 구내 임플란트 모델 55편 SR+MA: 평균 골-임플란트 접촉률(BIC) 59.88%, 관찰기간 및 임플란트 표면에 따라 유의한 차이, 이종성 매우 높음(I²>90%).
 

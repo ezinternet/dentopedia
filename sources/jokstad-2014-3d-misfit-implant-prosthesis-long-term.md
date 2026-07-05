@@ -16,7 +16,6 @@ source_url: https://doi.org/10.1111/clr.12490
 
 ## Three-line Summary
 
-
 Retrospective (n=30 edentulous patients, avg 19yr follow-up): average framework misfit 150 μm;
 
 weak correlation with bone loss (R²=0.04);
@@ -24,7 +23,6 @@ weak correlation with bone loss (R²=0.04);
 but prostheses with screw complications had significantly higher misfit (169 vs 134 μm, P=.005).
 
 ## 세줄요약
-
 
 후향 코호트 (n=30 무치악 환자, 평균 19년): 프레임워크 미스피트 평균 150 μm;
 

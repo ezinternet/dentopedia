@@ -17,7 +17,6 @@ Part of a focused collection on suture techniques & primary wound closure (sutur
 
 ## Three-line Summary
 
-
 Cadaveric human-skin biomechanical study (4 suture patterns × 12 samples each, 3-0 nylon): the novel Lindeque locking (LL) stitch had the greatest dehiscence force (198.60 N) and ultimate load-to-failure (211.13 N), significantly beating only the horizontal mattress (HM), which was the weakest of all patterns.
 
 (incomplete)
@@ -25,7 +24,6 @@ Cadaveric human-skin biomechanical study (4 suture patterns × 12 samples each, 
 (incomplete)
 
 ## 세줄요약
-
 
 사체 인체 피부 생체역학 연구 (4가지 봉합 패턴 × 각 12개 시료, 3-0 나일론): 새로운 Lindeque locking(LL) 봉합이 열개력(198.60 N)과 최대 파괴하중(211.13 N)에서 가장 높았고, 모든 패턴 중 가장 약했던 수평매트리스(HM) 대비로만 유의하게 우월했음.
 

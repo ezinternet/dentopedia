@@ -29,8 +29,6 @@ OP100D CCD는 넓은 초점골(위치오차 허용) 제공하나 선량 증가; 
 
 필름→디지털 전환기 초기의 수용체 선택 간 근본적 trade-off(위치오차 허용도·방사선량·워크플로우 속도)를 입증; 현대 기기로 대체되었으므로 주로 역사적·개념적 가치.
 
-
-
 ## 1. Document Information
 
 - Title: A Comparison of Image Characteristics and Convenience in Panoramic Radiography Using Charge-Coupled Device, Storage Phosphor, and Film Receptors

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro study (n=72 molars, 9 groups) of IPS e.max CAD occlusal veneers: only the thickest group (0.7 mm fissure / 1.0 mm cusp) survived all 600,000 chewing cycles undamaged;
 
 minimum thickness of 0.7–1.0 mm recommended.
@@ -23,7 +22,6 @@ minimum thickness of 0.7–1.0 mm recommended.
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 연구 (n=72 구치, 9개 군): IPS e.max CAD 교합면 비니어 (리튬 디실리케이트 세라믹, Lithium Disilicate Ceramic, LDS)에서 두꺼운 군(협착부 0.7 mm/교두 1.0 mm)만 교합 시뮬레이터 600,000 사이클을 무손상 완주;
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Network MA (82 RCTs, n=9,095): ibuprofen 200–400mg+APAP 500–1,000mg is the most effective intervention for post-extraction pain; oxycodone 5mg, codeine 60mg, and tramadol 37.5mg+APAP were no better than placebo.
 
+Network MA (82 RCTs, n=9,095): ibuprofen 200–400mg+APAP 500–1,000mg is
+
+the most effective intervention for post-extraction pain; oxycodone 5mg,
+
+codeine 60mg, and tramadol 37.5mg+APAP were no better than placebo.
+
+## 세줄요약
+
+Network MA (82 RCTs, n=9,095): ibuprofen 200–400mg+APAP 500–1,000mg is
+
+the most effective intervention for post-extraction pain; oxycodone 5mg,
+
+codeine 60mg, and tramadol 37.5mg+APAP were no better than placebo.
 
 ## 1. Document Information
 - Journal: J Dent Res 2023;102(4):391–401

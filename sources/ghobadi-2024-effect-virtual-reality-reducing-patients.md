@@ -19,7 +19,6 @@ Adds the first **adult, intraoperative VR distraction RCT** to a dental-anxiety 
 
 ## Three-line Summary
 
-
 Randomized controlled crossover trial (n=73 adults, each patient own control across two implant-surgery sessions) showing VR distraction with high-resolution headset and natural-scene content significantly reduced experienced pain (−1.71 NRS), state anxiety (STAI-S −3.45), and dental anxiety (MDAS −4.55) versus no VR, with physiological confirmation (lower EMG, heart rate, GSR) and 90.4% wanting to reuse VR.
 
 (incomplete)
@@ -27,7 +26,6 @@ Randomized controlled crossover trial (n=73 adults, each patient own control acr
 (incomplete)
 
 ## 세줄요약
-
 
 성인 임플란트 수술 RCT 교차설계(n=73, 환자 자신이 대조군) — 고해상도 헤드셋·자연영상 VR이 무(無)VR 대비 경험 통증(NRS −1.71)·상태불안(STAI-S −3.45)·치과불안(MDAS −4.55)을 유의하게 낮췄고 생리지표(EMG·심박·GSR)로 검증, 90.4%가 재사용 희망.
 

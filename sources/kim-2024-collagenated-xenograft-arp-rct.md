@@ -15,7 +15,6 @@ Three-arm RCT comparing collagenated DBBM (DBBM-C, Straumann XenoFlex) with and 
 
 ## Three-line Summary
 
-
 Three-arm RCT (n=50 completed, 180-day follow-up) showing DBBM-C with and without FGG socket seal preserved alveolar ridge volume better than spontaneous healing, with FGG seal enhancing horizontal ridge stability at 1 mm below crest;
 
 ISQ >70 in all groups.
@@ -23,7 +22,6 @@ ISQ >70 in all groups.
 (incomplete)
 
 ## 세줄요약
-
 
 3군 RCT (n=50, 180일): DBBM-C ± FGG 소켓실링 모두 자연치유 대비 치조골 부피 유의하게 보존, FGG 실링은 치조정 1 mm 하방 수평폭경 추가 유지 효과;
 

@@ -15,7 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
-2022년 발표된 한국 진정 가이드라인(non-anesthesiologist 포함 대상, moderate sedation focus, 15개 PICO question 기반)을 임상가 관점에서 해설.
+2022년 발표된 한국 진정 가이드라인(non-anesthesiologist
+
+포함 대상, moderate sedation focus,
+
+15개 PICO question 기반)을 임상가 관점에서 해설.
+
+## 세줄요약
+
+2022년 발표된 한국 진정 가이드라인(non-anesthesiologist
+
+포함 대상, moderate sedation focus,
+
+15개 PICO question 기반)을 임상가 관점에서 해설.
 
 ## 1. Document Information
 

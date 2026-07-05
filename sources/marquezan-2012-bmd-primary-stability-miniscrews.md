@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Experimental study showing cortical bone mineral density (BMD), but not trabecular or total BMD, correlates with insertion torque and primary stability of orthodontic miniscrews, with CBCT and DEXA BMD strongly correlated.
 
 (incomplete)
@@ -23,7 +22,6 @@ Experimental study showing cortical bone mineral density (BMD), but not trabecul
 (incomplete)
 
 ## 세줄요약
-
 
 실험 연구 — cortical BMD만이 미니스크류 식립 토크·일차안정성과 상관(trabecular·total BMD는 약함·비유의), CBCT와 DEXA 골밀도는 강한 상관.
 

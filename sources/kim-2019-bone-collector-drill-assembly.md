@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Granted Korean patent (KR 10-2327565 B1;
 
 patentee HaeNaem Co.) for an autogenous bone-collector drill whose elastic stopper sleeve has a thin folding band that visibly indicates insertion depth and softens contact pressure, reducing patient pain versus rigid-cup collectors.
@@ -23,7 +22,6 @@ patentee HaeNaem Co.) for an autogenous bone-collector drill whose elastic stopp
 (incomplete)
 
 ## 세줄요약
-
 
 (주)해냄 등록특허 10-2327565: 자가골 채집용 드릴조립체.
 

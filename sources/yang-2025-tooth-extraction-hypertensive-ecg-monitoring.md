@@ -19,7 +19,6 @@ text_filename: yang-2025-tooth-extraction-hypertensive-ecg-monitoring.txt
 
 ## Three-line Summary
 
-
 Single-center retrospective case-control study (n=2,059 extractions in 1,314 hypertensive patients under intraoperative ECG monitoring): 8.01% needed intraoperative antihypertensive drugs and 37.20% developed transient new-onset ECG abnormalities (all non-lethal);
 
 preoperative SBP ≥159 mmHg (AUC 0.91) and operative time (OR 3.62) predicted BP intervention, while age, female sex, cerebrovascular disease, number of teeth extracted, and operative time predicted ECG abnormalities.
@@ -27,7 +26,6 @@ preoperative SBP ≥159 mmHg (AUC 0.91) and operative time (OR 3.62) predicted B
 (incomplete)
 
 ## 세줄요약
-
 
 고혈압 환자 발치 2,059건 후향 연구: 8.01%가 발치 중 혈압강하제 필요, 37.20%에서 일과성 신규 부정맥(모두 비치명적) 발생;
 

@@ -19,7 +19,6 @@ text_filename: mun-2024-deep-learning-cracked-tooth-extraction-panoramic.txt
 
 ## Three-line Summary
 
-
 Retrospective single-center AI study: three CNNs (InceptionV3, ResNet50, EfficientNetB0) trained on 418 individual-tooth crops from panoramic radiographs (200 patients, 209 VRF vs 209 normal, 1:1) predicted cracked-tooth (VRF) extraction indication with high sensitivity (90–94%) but low specificity (53–61%), accuracy 72–76%, AUC 0.80–0.82 (ResNet50 best at 0.82).
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective single-center AI study: three CNNs (InceptionV3, ResNet50, Efficie
 (incomplete)
 
 ## 세줄요약
-
 
 단일기관 후향 AI 연구: 파노라마에서 개별 치아 절편 418개(환자 200명, 수직치근파절 VRF 209 vs 정상 209, 1:1)로 CNN 3종(InceptionV3·ResNet50·EfficientNetB0)을 학습시켜 균열치 발치 적응증을 예측 — 민감도는 높으나(90~94%) 특이도는 낮고(53~61%), 정확도 72~76%, AUC 0.80~0.82(ResNet50가 0.82로 최고).
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review of 41 implant trials (5 SRs, 1993–2008): industry-sponsored trials reported ~5× lower annual failure rates (OR 0.21) than non-industry-sponsored trials after controlling for publication age.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review of 41 implant trials (5 SRs, 1993–2008): industry-sponsored 
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 고찰(41개 임상시험): 업계 후원 임플란트 연구는 비후원 연구 대비 연간 실패율이 약 5배 낮게 보고되어(OR 0.21), 후원 편향(sponsorship bias)이 임플란트 연구 결과에 유의한 영향을 미침.
 

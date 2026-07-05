@@ -15,7 +15,6 @@ Contributes an Iranian-population CBCT data point covering all three mandibular 
 
 ## Three-line Summary
 
-
 CBCT cross-sectional study (292 Iranian patients;
 
 291 first, 402 second, 200 third mandibular molars): C-shaped canal prevalence 1.7% (first), 2% (second), 2% (third molars);
@@ -23,7 +22,6 @@ CBCT cross-sectional study (292 Iranian patients;
 three-rooted prevalence highest in first molars (2.7%), with most molars two-rooted.
 
 ## 세줄요약
-
 
 이란인 환자 292명 CBCT 단면 연구(하악 제1대구치 291·제2대구치 402·제3대구치 200) — C-shaped canal 유병률 제1 1.7%·제2 2%·제3 2%, 3근치는 제1대구치(2.7%)에서 가장 높고 대부분의 대구치는 2근치였음.
 

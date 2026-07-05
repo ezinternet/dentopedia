@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thromboxane A2, reducing atherothrombosis (e.g., RR 0.52, NNT 10 in one secondary-prevention dataset) while increasing GI bleeding and lowering colorectal adenoma recurrence.
 
 (incomplete)
@@ -23,7 +22,6 @@ State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/d
 (incomplete)
 
 ## 세줄요약
-
 
 저용량 aspirin(75–100 mg/일)에 관한 30년 근거를 통합한 State-of-the-Art 종설로, 혈소판 COX-1의 비가역적 아세틸화가 thromboxane A2를 억제해 죽상혈전증을 줄이고(일부 2차예방 데이터 상대위험비 0.52, NNT 10) 위장관 출혈을 늘리며 대장 선종 재발을 낮춘다.
 

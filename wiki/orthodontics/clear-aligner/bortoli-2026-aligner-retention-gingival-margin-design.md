@@ -27,6 +27,22 @@ In-vitro pull-off test on 3D-printed models (n=3/group): scalloped-extended and 
 
 3D 프린팅 모델 pull-off test in-vitro 연구: scalloped-extended·straight trimline이 scalloped trimline보다 유의하게 큰 유지력을 보였고, 치은퇴축(marginal tissue recession)이 심할수록(Class IV) 유지력이 대조군의 약 3배까지 급증.
 
+## Three-line Summary
+
+In-vitro pull-off test on 3D-printed mandibular models (n=3 per group) with five recession conditions (control + Class I-IV) and three trimline designs (scalloped, scalloped-extended, straight)
+
+Retention force significantly affected by both trimline design (scalloped-extended 52.3N, straight 47.9N > scalloped 33.1N, p<0.001) and recession severity (Class IV 82.2N >> Class III 54.4N >> Classes I-II/control 26-33N, p<0.001); no interaction
+
+Advanced recession (Classes III-IV with bone loss) amplified retention ~3-fold; clinically suggests harder aligner insertion/removal in periodontal patients with higher-retention trimline designs; no validated discomfort threshold yet
+
+## 세줄요약
+
+3D 프린팅 하악모델 pull-off test in-vitro (n=3/군), 5개 치은퇴축 조건(대조군 + Class I-IV) × 3개 trimline 설계(scalloped, scalloped-extended, straight)
+
+Trimline 설계 유의(scalloped-extended 52.3N, straight 47.9N > scalloped 33.1N, p<0.001) 및 퇴축 중증도(Class IV 82.2N >> Class III 54.4N >> Classes I-II/대조 26-33N, p<0.001); 상호작용 무
+
+진행된 퇴축(Classes III-IV 골손실)은 유지력을 ~3배 증대; 임상적으로 치주질환 환자의 고유지력 trimline에서 교정기 삽입/제거 난이도 증가; 아직 검증된 불편도 임계값 미정립
+
 ## Summary
 
 According to PubMed ([DOI 10.4041/kjod25.269](https://doi.org/10.4041/kjod25.269)), this in-vitro study is the first to test clear aligner gingival margin (trimline) retention on models simulating varying degrees of periodontal marginal tissue recession, rather than only healthy dental arches. Using 3D-printed mandibular models across five conditions (control plus Classes I–IV of combined gingival recession and interdental bone/soft-tissue loss) and three trimline designs (scalloped, scalloped-extended, straight), the authors measured peak dislodgement force via pull-off testing.

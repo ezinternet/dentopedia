@@ -14,7 +14,20 @@ source_collection: external
 [[radiology/lee-2024-dental-dose-monitoring-system-establishment]] 와 한 쌍 — Lee는 monitoring 시스템 architecture, Kang은 DRL(진단참고준위) 기반 dose management 관점. ICRP 60·73·135 + EU Directive 97/43/Euratom + IAEA BSS 정리 — 우리 클리닉 CBCT 사용 시 justification·optimization 의사결정 근거.
 
 ## Three-line Summary
-대한치과의사협회지 2024 (서울대치과병원): DRL 기반 한국 치과방사선 dose management — intraoral·panoramic 2009, CBCT 2018 첫 DRL; 3-5년 주기 갱신 권고; ICRP 60/73/135·EU Directive·IAEA BSS Req 34 검토.
+
+대한치과의사협회지 2024 (서울대치과병원): DRL 기반 한국 치과방사선 dose management — intraoral·panoramic 2009, CBCT 2018 첫 DRL
+
+3-5년 주기 갱신 권고
+
+ICRP 60/73/135·EU Directive·IAEA BSS Req 34 검토.
+
+## 세줄요약
+
+한국 국가 수준 치과 방사선 선량 관리 (대한치과의사협회지 2024): DRL(진단참고준위) 기반, 구강내·파노라마 2009, CBCT 2018 첫 DRL
+
+3-5년 주기 갱신 권고, 기술 진전 시 더 빈번한 갱신 필요
+
+ICRP 60/73/135·EU Directive 97/43/Euratom·IAEA BSS Requirement 34 검토 — justification·optimization 원칙.
 
 ## 1. Document Information
 - 대한치과의사협회지 (Journal of Korean Dental Association) 62(2), 2024

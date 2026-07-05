@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Bioengineering 2024;11:565: SR+MA (12 studies); bone mineral graft + collagen membrane vs spontaneous healing — trend for preservation but no statistical significance (p>0.05); high heterogeneity I²>75%; more RCTs needed.
 
+Bioengineering 2024;11:565: SR+MA (12 studies)
+
+bone mineral graft + collagen membrane vs spontaneous healing — trend for preservation but no statistical significance (p>0.05)
+
+high heterogeneity I²>75%; more RCTs needed.
+
+## 세줄요약
+
+Bioengineering 2024;11:565: SR+MA (12 studies)
+
+골 (Bone) mineral graft + collagen membrane vs spontaneous healing — trend for preservation but no statistical significance (p>0.05)
+
+high heterogeneity I²>75%; more RCTs needed.
 
 ## 1. Key Results
 - PubMed/Medline, WoS, Embase, Cochrane; up to January 2024

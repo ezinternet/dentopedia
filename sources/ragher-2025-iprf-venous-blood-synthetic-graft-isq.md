@@ -19,7 +19,6 @@ text_filename: ragher-2025-iprf-venous-blood-synthetic-graft-isq.txt
 
 ## Three-line Summary
 
-
 RCT (n=64, 4 groups) comparing no graft, venous blood, i-PRF, and synthetic graft (NovaBone) for indirect sinus augmentation found that i-PRF and NovaBone achieved significantly higher ISQ values at 6 months (ISQ ~70–76) vs.
 
 no graft or venous blood (ISQ ~55–62), with no significant difference between i-PRF and synthetic graft.
@@ -27,7 +26,6 @@ no graft or venous blood (ISQ ~55–62), with no significant difference between 
 (incomplete)
 
 ## 세줄요약
-
 
 간접 상악동거상술 후 i-PRF군과 합성골(NovaBone)군이 무이식군·정맥혈군 대비 6개월 ISQ를 유의하게 높였으며(~70–76 vs ~55–62), 두 군 간 차이는 없었다 (RCT, n=64).
 

@@ -19,7 +19,6 @@ Maxillary-molar immediate placement is uniquely hard (wide socket, poor bone, si
 
 ## Three-line Summary
 
-
 Single-center retrospective (106 patients / 148 immediate maxillary-molar implants, 26 fully analyzed with 29 tapered-SLA fixtures) proposing a paired classification — alveolar bone height (ABH) Grade A/B/C and interradicular-septum Type I/II/III — to drive socket-lifting, bone-graft, and wide-implant decisions;
 
 93.10% survival (2 early failures reinstalled), with fluctuating then stable marginal bone (≈0.01–0.03 mm loss after 1 y loading).
@@ -27,7 +26,6 @@ Single-center retrospective (106 patients / 148 immediate maxillary-molar implan
 (incomplete)
 
 ## 세줄요약
-
 
 서울대 단일기관 후향연구(환자 106명·즉시 상악대구치 임플란트 148개, 정밀분석 26명·tapered-SLA 29개)로, 치조골 높이(ABH) A/B/C 등급과 치근간중격(interradicular septum) I/II/III 유형을 짝지어 상악동거상·골이식·광경 임플란트 선택을 결정하는 가이드라인을 제시했고, 생존율 93.10%(조기실패 2개 재식립), 변연골은 변동 후 안정(1년 부하 후 0.01~0.03 mm 소실).
 

@@ -19,21 +19,19 @@ text_filename: galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-l
 
 ## Three-line Summary
 
+Immunohistochemical characterization of granulation tissue biopsies from 20 patients with surgical peri-implantitis: macrophages constitute 14.36% of infiltrated connective tissue; intrabony lesions were classified as slight, moderate, or advanced by radiographic MBL.
 
-Immunohistochemical study of granulation tissue biopsies from 20 human peri-implantitis lesions: macrophages occupy ~14% of the inflammatory connective tissue, with M1 (CD80) significantly exceeding M2 (CD206) at advanced sites;
+M1 macrophages (CD80, pro-inflammatory) were significantly higher than M2 (CD206, reparative) at advanced disease sites (p=0.01), with M1/M2 ratio 1.56 overall; both CD68 and M1 expression showed strong positive correlation with probing depth (R=0.77 and 0.57, respectively).
 
-CD68 and M1 expression correlate with probing depth.
-
-(incomplete)
+M1 macrophage dominance in advanced peri-implantitis granulation tissue provides mechanistic evidence that disease progression is driven by a pro-inflammatory, tissue-destructive immune phenotype.
 
 ## 세줄요약
 
+수술적 임플란트주위염(PI) 환자 20명의 육아조직 생검 면역조직화학 검사: 대식세포가 침윤 결합조직(ICT)의 14.36%를 차지; 골내 결손은 방사선학적 한계골소실(MBL)에 따라 경도·중등도·진행으로 분류.
 
-사람 임플란트주위염 병소 20개의 육아조직 생검 면역조직화학 연구: 대식세포가 염증성 결합조직의 약 14%를 차지하고, 진행 병소에서 M1(CD80)이 M2(CD206)보다 유의하게 우세;
+M1 대식세포(CD80, 염증유발)는 진행 병소에서 M2(CD206, 수복)보다 유의하게 높았고(p=0.01), M1/M2 비율 1.56; CD68·M1 발현은 탐침깊이와 강한 양의 상관(R=0.77·0.57).
 
-CD68·M1 발현이 탐침깊이와 상관.
-
-(incomplete)
+진행 임플란트주위염 육아조직에서 M1 우세는 질환 진행을 염증·조직파괴 면역표현형이 주도함을 시사하는 기전적 근거 제공.
 
 ## 1. Document Information
 

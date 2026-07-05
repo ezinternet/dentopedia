@@ -19,7 +19,6 @@ Foundational systematic review establishing the vitamin D–osseointegration evi
 
 ## Three-line Summary
 
-
 Systematic review (18 studies: 13 animal experimental + 2 clinical + 3 case reports;
 
 titanium implants 24–1740) finding vitamin D deficiency negatively affects new bone formation/BIC and supplementation enhances osseointegration in animals (especially with systemic disease), but only slight, high-risk-of-bias evidence in humans.
@@ -27,7 +26,6 @@ titanium implants 24–1740) finding vitamin D deficiency negatively affects new
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(18편: 동물실험 13 + 임상 2 + 증례보고 3;
 

@@ -16,7 +16,6 @@ full_text: false
 
 ## Three-line Summary
 
-
 Large prospective cohort (PURE, n=139,691, 17 countries, median 4.0-year follow-up) shows grip strength is inversely associated with all-cause mortality (HR 1.16 per 5 kg reduction), cardiovascular mortality (HR 1.17), MI (HR 1.07), and stroke (HR 1.09), and is a stronger predictor of mortality than systolic blood pressure.
 
 (incomplete)
@@ -24,7 +23,6 @@ Large prospective cohort (PURE, n=139,691, 17 countries, median 4.0-year follow-
 (incomplete)
 
 ## 세줄요약
-
 
 대규모 전향적 코호트 (PURE, n=139,691, 17개국, 추적 중앙값 4.0년): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (Hazard Ratio, HR) 1.16, 심혈관사망 HR 1.17로 수축기혈압보다 강한 예측인자.
 

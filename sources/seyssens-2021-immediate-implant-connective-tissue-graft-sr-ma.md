@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA (Cosyn 그룹, 5 RCT + 3 NRS, n=409 임플란트 IIP+CTG 246 vs IIP 163, follow-up 12-?개월): 협측 vertical midfacial 연조직 변화 — IIP+CTG 군이 recession 유의하게 적음.
 
+SR+MA (Cosyn 그룹, 5 RCT + 3 NRS, n=409
+
+임플란트 IIP+CTG 246 vs IIP 163, follow-up 12-?개월): 협측
+
+vertical midfacial 연조직 변화 — IIP+CTG 군이 recession 유의하게 적음.
+
+## 세줄요약
+
+SR+MA (Cosyn 그룹, 5 RCT + 3 NRS, n=409
+
+임플란트 IIP+CTG 246 vs IIP 163, follow-up 12-?개월): 협측
+
+vertical midfacial 연조직 변화 — IIP+CTG 군이 recession 유의하게 적음.
 
 ## 1. Document Information
 - **Title**: Immediate implant placement with or without connective tissue graft: A systematic review and meta-analysis

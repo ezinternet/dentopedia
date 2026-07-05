@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review on exercise therapy after surgical/interventional treatment of TMJ internal derangement (악관절 내장증); finds postoperative exercise significantly improves MMO and reduces pain, supporting structured rehabilitation protocols.
 
+Systematic review on exercise therapy after surgical/interventional treatment of
+
+TMJ internal derangement (악관절 내장증); finds postoperative exercise significantly
+
+improves MMO and reduces pain, supporting structured rehabilitation protocols.
+
+## 세줄요약
+
+체계적 고찰 (SR) on exercise therapy after surgical/interventional treatment of
+
+TMJ internal derangement (악관절 내장증); finds postoperative exercise 유의미한ly
+
+improves MMO and reduces pain, supporting structured rehabilitation protocols.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Rehabilitation 2024;51(10):2158–2168

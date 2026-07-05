@@ -19,7 +19,6 @@ text_filename: grassi-2017-effectiveness-computer-assisted-anesthetic-implant.tx
 
 ## Three-line Summary
 
-
 Prospective cohort study (n=45) found computer-assisted Single Tooth Anesthesia (STA) delivered markedly less pain (mean 1.6/10) than patients' prior experience with conventional anesthesia (mean 7.9/10) during dental implant surgery, using half the anesthetic volume.
 
 (incomplete)
@@ -27,7 +26,6 @@ Prospective cohort study (n=45) found computer-assisted Single Tooth Anesthesia 
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 코호트 연구(n=45)에서 컴퓨터 제어 국소마취(Single Tooth Anesthesia, STA)가 임플란트 수술 시 기존 전통마취(Conventional Anesthesia, CA) 대비 통증을 크게 낮췄으며(평균 1.6 vs 7.9/10), 마취제 사용량도 절반으로 감소했다.
 

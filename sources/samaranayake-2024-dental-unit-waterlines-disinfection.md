@@ -19,7 +19,6 @@ text_filename: samaranayake-2024-dental-unit-waterlines-disinfection.txt
 
 ## Three-line Summary
 
-
 Narrative review of dental unit waterline (DUWL) contamination origins, biofilm formation, pathogen risks (Legionella, Pseudomonas, NTM), and decontamination strategies (engineering, procedural, chemical, automated), with regulatory compliance recommendations across jurisdictions.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review of dental unit waterline (DUWL) contamination origins, biofilm 
 (incomplete)
 
 ## 세줄요약
-
 
 치과 유니트 수관(DUWL) 오염 기전·바이오필름·감염 위험(레지오넬라, 슈도모나스, 비결핵 마이코박테리아)과 공학적·절차적·화학적·자동화 소독 전략 및 각국 규제 기준을 종합한 서술적 고찰.
 

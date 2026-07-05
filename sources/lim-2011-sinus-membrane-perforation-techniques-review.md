@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Korean narrative review (PubMed 1998–2009, 7 studies, n>436 implants) summarizing repair techniques for maxillary sinus membrane perforations by size, with implant success rates ranging 69.6–98.9%.
 
 (incomplete)
@@ -23,7 +22,6 @@ Korean narrative review (PubMed 1998–2009, 7 studies, n>436 implants) summariz
 (incomplete)
 
 ## 세줄요약
-
 
 한국 종설(PubMed 1998~2009, 7편, 임플란트 436개 이상): 상악동막 천공 크기별 처치법(교원질막, 층판골, 협부지방대, 봉합술)과 임플란트 성공률(69.6~98.9%) 정리.
 

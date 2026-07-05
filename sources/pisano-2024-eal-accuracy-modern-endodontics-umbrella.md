@@ -12,8 +12,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Umbrella review (7 SRs): EAL and radiography comparable for WL adequacy; EAL generations 3–6 not significantly different; EAL acceptable in primary teeth (low evidence); overall low evidence level.
 
+Umbrella review (7 SRs): EAL and radiography comparable for WL adequacy
+
+EAL generations 3–6 not significantly different
+
+EAL acceptable in primary teeth (low evidence); overall low evidence level.
+
+## 세줄요약
+
+Umbrella review (7 SRs): EAL and radiography comparable for WL adequacy
+
+EAL generations 3–6 not 유의미한ly different
+
+EAL acceptable in primary teeth (low evidence); overall low evidence level.
 
 ## 1. Document Information
 University of Salerno + CHU Besançon. Medicina 2024. Umbrella review including 7 SRs/MAs on EAL accuracy. Covers: EAL vs radiography, EAL generations, EAL in primary teeth.

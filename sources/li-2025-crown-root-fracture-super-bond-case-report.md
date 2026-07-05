@@ -19,7 +19,6 @@ Super-Bond(4-META/MMA-TBB)의 치관-치근 파절편 재접착(crown-root fragm
 
 ## Three-line Summary
 
-
 Case report (n=1, 55-month follow-up): a complicated oblique crown-root fracture of the maxillary left central incisor was treated by immediate fragment reattachment with the Super-Bond C&B (4-META/MMA-TBB) adhesive and a #1.4 fiber post under a M-MIST labial flap, achieving stable restoration, PD <3 mm with negative BoP, no root/bone resorption, and complete periapical cyst healing at 55 months.
 
 (incomplete)
@@ -27,7 +26,6 @@ Case report (n=1, 55-month follow-up): a complicated oblique crown-root fracture
 (incomplete)
 
 ## 세줄요약
-
 
 증례보고 (n=1, 55개월 추적): 상악 좌측 중절치의 복합 사선형 치관-치근 파절을 M-MIST 순측 소판막 하에서 Super-Bond C&B(4-META/MMA-TBB) 접착제 + #1.4 fiber post로 즉시 파절편 재접착해, 55개월째 무탈착·PD <3 mm·BoP 음성·치근/치조골 흡수 없음·치근단 낭종 완전 치유의 양호한 결과를 얻은 보존적 치료.
 

@@ -15,7 +15,6 @@ Key SR comparing zirconia-ceramic vs metal-ceramic crown survival and complicati
 
 ## Three-line Summary
 
-
 SR of 35 studies (n=5,275 crowns): zirconia-ceramic implant SCs show comparable 5-year survival to metal-ceramic (97.6% vs 98.3%) but significantly more material fractures (2.1% vs 0.2%) and fewer aesthetic complications.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR of 35 studies (n=5,275 crowns): zirconia-ceramic implant SCs show comparable 
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 지지 단일 지르코니아 크라운 SR (35편, n=5,275): 5년 생존율은 금속도재관(98.3%)과 유사(97.6%)하나 재료 파절이 유의하게 많고(2.1% vs 0.2%) 심미적 합병증은 적음.
 

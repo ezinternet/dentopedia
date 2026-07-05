@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Finite element analysis comparing socket shield (SS, 2.0-mm dentin fragment), heterologous bone graft (HBG), and a fully bone-embedded control (C) under oblique loading;
 
 both SS and HBG produced higher peri-implant bone stress than the control, with SS showing the highest stress concentration in peri-implant tissues.
@@ -23,7 +22,6 @@ both SS and HBG produced higher peri-implant bone stress than the control, with 
 (incomplete)
 
 ## 세줄요약
-
 
 유한요소분석 — 소켓 쉴드(SS, 2.0 mm 치근편)·이종골이식(HBG)·완전 골내 대조(C) 비교에서 SS와 HBG 모두 대조군보다 주위골 응력이 높았고, SS가 주위 조직 응력 집중이 가장 컸다.
 

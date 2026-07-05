@@ -15,7 +15,6 @@ radiology 카테고리 modality별 선량 벤치마크 표의 1차 레퍼런스(
 
 ## Three-line Summary
 
-
 Literature dose compilation (post-2010) + dentaldose.org calculator: mean effective dose intraoral 1.32, panoramic 17.93, CBCT 121.09 µSv.
 
 (incomplete)
@@ -23,7 +22,6 @@ Literature dose compilation (post-2010) + dentaldose.org calculator: mean effect
 (incomplete)
 
 ## 세줄요약
-
 
 2010년 이후 문헌 선량 집계+웹 계산기(dentaldose.org).
 

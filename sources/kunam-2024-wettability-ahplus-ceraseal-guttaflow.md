@@ -19,7 +19,6 @@ Seeds the wiki's first Ceraseal / calcium-silicate-bioceramic sealer cluster wit
 
 ## Three-line Summary
 
-
 In vitro contact-angle (Ossila goniometer) study on 60 NaOCl/EDTA/CHX-treated human mandibular premolar root-dentin halves (n=20/group): AH Plus wet dentin best (mean 47.40°) < Ceraseal (61.64°) < Guttaflow bioseal (95.64°, nonwetting);
 
 all pairwise differences highly significant (P<0.001).
@@ -27,7 +26,6 @@ all pairwise differences highly significant (P<0.001).
 (incomplete)
 
 ## 세줄요약
-
 
 사람 하악 소구치 근관상아질 60편(군당 20편, NaOCl/EDTA/CHX 처리)에서 실러 접촉각을 Ossila 고니오미터로 측정한 in vitro 연구: AH Plus(47.40°)가 가장 잘 젖었고 Ceraseal(61.64°), Guttaflow bioseal(95.64°, 비습윤) 순.
 

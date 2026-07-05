@@ -15,7 +15,6 @@ radiology 카테고리 임플란트 CBCT 정당화 근거. 기기간 선량·정
 
 ## Three-line Summary
 
-
 Narrative review giving justification/optimization recommendations for CBCT in oral implantology;
 
 effective dose spans 2–200 panoramic equivalents across machines.
@@ -23,7 +22,6 @@ effective dose spans 2–200 panoramic equivalents across machines.
 (incomplete)
 
 ## 세줄요약
-
 
 임플란트 CBCT의 정당화·최적화 권고 내러티브 리뷰.
 

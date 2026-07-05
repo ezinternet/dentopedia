@@ -18,7 +18,6 @@ pdf_path: null
 
 ## Three-line Summary
 
-
 SR (42 studies, level I–II): intentionally tilted implants show no difference in survival, marginal bone loss, prosthesis survival, or PROMs versus axially placed implants in edentulous jaws.
 
 (incomplete)
@@ -26,7 +25,6 @@ SR (42 studies, level I–II): intentionally tilted implants show no difference 
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (42편): 무치악 악궁에서 경사 임플란트(tilted implant)는 수직 임플란트(axial implant)와 생존율·변연골 소실·보철 생존·환자보고결과 모두 유의한 차이 없음.
 

@@ -16,7 +16,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 9 studies (n=1424);
 
 smoking is significantly associated with Schneiderian membrane perforation during maxillary sinus floor augmentation (OR 1.58, 95% CI 1.10–2.25, I²=5%).
@@ -24,7 +23,6 @@ smoking is significantly associated with Schneiderian membrane perforation durin
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (9편, n=1,424): 흡연 (Smoking)이 상악동거상술 (Maxillary Sinus Floor Augmentation) 시 슈나이더 막 천공 (Schneiderian Membrane Perforation) 위험을 유의하게 증가시킴 — OR 1.58 (95% CI 1.10–2.25, I²=5%).
 

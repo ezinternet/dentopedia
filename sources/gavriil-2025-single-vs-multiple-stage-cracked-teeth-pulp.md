@@ -18,7 +18,6 @@ literature-surveillance `cracked-tooth` sweep(2026-06-19) 적립 SR+MA. CTS 수�
 
 ## Three-line Summary
 
-
 Abstract-only SR+MA (14 cohort studies, symptomatic vital cracked teeth): single- vs multiple-stage treatment did not differ for pulp survival/success, but single-stage with indirect restorations gave the best pulp success, onlays outperformed crowns, direct restorations were inferior for pulp success, and short interim duration (1–2 wk) beat long;
 
 1-yr tooth survival 96.1–100%;
@@ -26,7 +25,6 @@ Abstract-only SR+MA (14 cohort studies, symptomatic vital cracked teeth): single
 very low certainty.
 
 ## 세줄요약
-
 
 abstract-only SR+MA(14 코호트, 증상성 생활 균열치): single vs multiple-stage 간 치수생존·성공 차이 없음.
 

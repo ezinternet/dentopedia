@@ -15,7 +15,6 @@ radiology 카테고리 파노라마 허상 판독의 진보된 증례(유사허�
 
 ## Three-line Summary
 
-
 Case report: earrings produced real + typical ghost + pseudo-ghost (ghost-like real) images on panoramic;
 
 rotation center extending beyond the jaw explains the doubling.
@@ -23,7 +22,6 @@ rotation center extending beyond the jaw explains the doubling.
 (incomplete)
 
 ## 세줄요약
-
 
 증례보고: 귀걸이가 파노라마에 실상+전형적 허상+유사허상(ghost-like real)을 동시 형성.
 

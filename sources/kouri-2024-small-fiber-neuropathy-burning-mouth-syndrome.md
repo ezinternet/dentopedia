@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 PRISMA systematic review (PROSPERO CRD42024555839) of small fiber neuropathy in BMS: across included studies, tongue biopsies show 30–60% reductions in nerve fiber density plus altered TRPV1/P2X3/NGF expression, Nav1.7 overexpression, and sensory threshold abnormalities, strongly supporting SFN as a core pathophysiologic mechanism.
 
 (incomplete)
@@ -23,7 +22,6 @@ PRISMA systematic review (PROSPERO CRD42024555839) of small fiber neuropathy in 
 (incomplete)
 
 ## 세줄요약
-
 
 PRISMA 체계적 고찰(PROSPERO CRD42024555839) — BMS 환자 혀 생검에서 신경섬유밀도가 30~60% 감소하고 TRPV1·P2X3·NGF 발현 변화, Nav1.7 과발현, 감각역치 이상이 일관되게 관찰돼, 소섬유신경병증(SFN)이 BMS의 핵심 병태생리임을 강하게 지지.
 

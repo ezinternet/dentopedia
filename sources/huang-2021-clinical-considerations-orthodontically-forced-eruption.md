@@ -19,7 +19,6 @@ biologic width 스레드의 연장 — [[periodontics/alam-2024-supracrestal-tis
 
 ## Three-line Summary
 
-
 Narrative review of orthodontically forced eruption (extrusion) for restorative purposes — crown lengthening/ferrule when caries or fracture violates the supracrestal tissue attachment (biologic width), and implant site development — detailing indications, contraindications, PDL tension biology, Salama and Hochman classifications, appliances, and ~1–2 mm/month extrusion protocol.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review of orthodontically forced eruption (extrusion) for restorative 
 (incomplete)
 
 ## 세줄요약
-
 
 교정적 정출(Forced Eruption, 강제맹출)의 수복 목적 활용을 다룬 내러티브 리뷰 — 우식·파절이 초치조상부 조직부착(생물학적 폭경, biologic width)을 침범했을 때의 크라운연장·페룰 확보와 임플란트 식립부 개발;
 

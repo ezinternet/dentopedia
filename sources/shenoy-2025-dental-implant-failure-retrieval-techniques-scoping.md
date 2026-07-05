@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
 
+Scoping review (Front Oral Health 2025, Manipal): 임플란트
+
+실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술
+
+종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
+
+## 세줄요약
+
+Scoping review (Front Oral Health 2025, Manipal): 임플란트
+
+실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술
+
+종합 — early/late failure, retrievability, removal protocols (counter-torque, trephine, piezo).
 
 ## 2. Key Contributions
 - Failure 정의·분류 + 실제 제거 술기 통합 review.

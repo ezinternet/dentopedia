@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-ICU 후향적 연구(n=1,157, 포르투갈): NSAIDs 사용이 급성신손상(AKI) 독립적 위험인자(OR 1.98); 중증 AKI(stage 3)는 2년 생존율 유의하게 악화(aHR 1.42) — 치과 임상과의 연관성: 수술 후 NSAID 처방 시 신기능 손상 환자 주의 (J Crit Care 2025).
+
+ICU 후향적 연구(n=1,157, 포르투갈)
+
+NSAIDs 사용이 급성신손상(AKI) 독립적 위험인자(OR 1.98); 중증 AKI(stage 3)는 2년 생존율 유의하게 악화(aHR 1.42) — 치과 임상과의 연관성
+
+수술 후 NSAID 처방 시 신기능 손상 환자 주의 (J Crit Care 2025).
+
+## 세줄요약
+
+ICU 환자 1,157명 9년 추적: NSAID 사용 vs 미사용 급성신손상(AKI) 비교 후향연구
+
+AKI 발생 67% vs 51% (P=0.009), 중증 AKI(stage 3) 34% vs 26%; NSAID 독립위험인자(OR 1.98)
+
+중증 AKI 발생 시 2년 생존 악화(aHR 1.42, P=0.011) — 수술 후 장기 NSAID 처방 시 신기능 주의
 
 ## 1. Document Information
 - Journal: Journal of Critical Care 2025;90:155202

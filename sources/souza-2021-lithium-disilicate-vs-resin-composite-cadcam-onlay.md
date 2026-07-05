@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-스플릿마우스 RCT(n=20, 1년): e.max CAD vs Lava Ultimate 온레이 — 1년 임상 성능 유사(p>0.05); e.max에서 표면광택·색조일치 일부 저하 관찰; 장기 연구 필요
 
+스플릿마우스 RCT(n=20, 1년): e.max CAD vs Lava Ultimate 온레이 — 1년 임상 성능 유사(p>0.05)
+
+e.max에서 표면광택·색조일치 일부 저하 관찰
+
+장기 연구 필요
+
+## 세줄요약
+
+스플릿마우스 RCT(n=20, 1년): e.max CAD vs Lava Ultimate 온레이 — 1년 임상 성능 유사(p>0.05)
+
+e.max에서 표면광택·색조일치 일부 저하 관찰
+
+장기 연구 필요
 
 ## 1. Document Information
 - **Title**: One-year clinical performance of lithium disilicate versus resin composite CAD/CAM onlays

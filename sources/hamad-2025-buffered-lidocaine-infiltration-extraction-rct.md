@@ -15,7 +15,6 @@ Buffered-LA cluster의 다른 RCT는 모두 IANB(nerve block)를 다루는데, �
 
 ## Three-line Summary
 
-
 Double-blind prospective RCT (n=100, 50/group, ASA I/II, 18–60y), maxillary posterior extraction with supraperiosteal infiltration: buffered 2% lidocaine/1:100,000 (pH 7.3) beat conventional (pH 4.2) on injection pain (VAS 2.8±0.7 vs 4.2±0.9), onset (2.3 vs 4.7 min) and duration (45.8±7.6 vs 36.4±8.2 min), all p<0.01;
 
 reinjection rate not different (4% vs 8%, p=0.678).
@@ -23,7 +22,6 @@ reinjection rate not different (4% vs 8%, p=0.678).
 (incomplete)
 
 ## 세줄요약
-
 
 이중맹검 전향적 RCT (n=100, 군당 50명, ASA I/II, 18–60세), 상악 구치 발치 골막상 침윤마취: buffered 2% 리도카인/1:100,000(pH 7.3)이 conventional(pH 4.2) 대비 주사 통증(VAS 2.8±0.7 vs 4.2±0.9), 발현(2.3분 vs 4.7분), 지속(45.8±7.6분 vs 36.4±8.2분) 모두 우수(전부 p<0.01);
 

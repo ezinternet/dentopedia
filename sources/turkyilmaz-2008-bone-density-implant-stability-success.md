@@ -15,7 +15,6 @@ Provides the foundational large-n (300 implant) clinical evidence that CT bone d
 
 ## Three-line Summary
 
-
 Retrospective clinical study (300 Brånemark Mk III TiUnite implants, 111 patients) finding strong correlations between CT bone density (HU), insertion torque, and ISQ, with failed implants showing markedly lower values on all three parameters.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective clinical study (300 Brånemark Mk III TiUnite implants, 111 patien
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 임상연구(임플란트 300개, 환자 111명)로, CT 골밀도(HU)·삽입토크·ISQ 사이에 강한 상관(r=0.76~0.88)을 확인했고, 실패한 임플란트는 세 지표 모두 현저히 낮았다.
 

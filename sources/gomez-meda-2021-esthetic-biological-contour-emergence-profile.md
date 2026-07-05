@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative clinical article (Gomez-Meda et al., 2021) introducing the Esthetic Biological Contour (EBC) concept, a zone-based framework for designing the emergence profile of implant-supported restorations in the esthetic zone.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative clinical article (Gomez-Meda et al., 2021) introducing the Esthetic Bi
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 임상논문 (Gomez-Meda 등, 2021): 임플란트 수복물의 출현 윤곽을 생물학적·심미적 구역별로 구분하고 각 구역의 디자인 원칙을 제시한 EBC(심미적 생물학적 윤곽) 개념 소개.
 

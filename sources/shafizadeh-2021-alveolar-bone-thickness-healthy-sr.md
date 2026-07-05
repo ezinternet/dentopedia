@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review and meta-analysis pooling CBCT alveolar bone thickness measurements from healthy dentitions. Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly. No consistent gender or smoking effect.
 
+Systematic review and meta-analysis pooling CBCT alveolar bone thickness measurements from healthy dentitions.
+
+Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly.
+
+No consistent gender or smoking effect.
+
+## 세줄요약
+
+체계적 고찰 (SR) and 메타분석 (MA) pooling CBCT alveolar bone thickness measurements from healthy dentitions.
+
+Confirms anterior teeth carry the thinnest buccal plates, with thickness increasing posteriorly.
+
+No consistent gender or smoking effect.
 
 ## 1. Document Information
 - **Title:** Alveolar bone thickness overlying healthy maxillary and mandibular teeth: A systematic review and meta-analysis

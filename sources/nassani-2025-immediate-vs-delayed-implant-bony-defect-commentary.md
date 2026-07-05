@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-EBD 2025 Commentary on Meijer et al. JPeriodontol 2025 10-year RCT (n=40, UMCG): 협측골 결손 (≥5mm) 있는 심미부위에서 immediate vs delayed implant placement 비교 — long-term 결과 양 군 acceptable; intact buccal wall 절대 필수 아님.
 
+EBD 2025 Commentary on Meijer et al. JPeriodontol 2025 10-year RCT (n=40,
+
+UMCG): 협측골 결손 (≥5mm) 있는 심미부위에서 immediate vs delayed implant placement 비교
+
+— long-term 결과 양 군 acceptable; intact buccal wall 절대 필수 아님.
+
+## 세줄요약
+
+EBD 2025 Commentary on Meijer et al. JPeriodontol 2025 10-year RCT (n=40,
+
+UMCG): 협측골 결손 (≥5mm) 있는 심미부위에서 immediate vs delayed implant placement 비교
+
+— long-term 결과 양 군 acceptable; intact buccal wall 절대 필수 아님.
 
 ## 2. Key Contributions
 - 10년 RCT의 EBD critical commentary.

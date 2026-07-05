@@ -19,7 +19,6 @@ text_filename: liu-2024-perioperative-hypertension-implant-bone-augmentation.txt
 
 ## Three-line Summary
 
-
 Retrospective cohort (n=728, single Beijing center) — perioperative hypertension occurred in 26.77% of implant + bone-augmentation surgeries;
 
 male (RR 1.74), age ≥60 (RR 2.35), and surgical time >60 min (RR 1.65) were risk factors, but their effect varied by augmentation approach (significant in GBR, attenuated in lateral-window sinus lift).
@@ -27,7 +26,6 @@ male (RR 1.74), age ≥60 (RR 2.35), and surgical time >60 min (RR 1.65) were ri
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 코호트(n=728, 단일 베이징 센터) — 임플란트 동기 골증대술의 26.77%에서 围术期 고혈압 발생;
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Short-term clinical evaluation of titanium mesh combined with CGF (Concentrated Growth Factor) membranes for GBR at immediate implant placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
 
+Short-term clinical evaluation of titanium mesh combined with CGF
+
+(Concentrated Growth Factor) membranes for GBR at immediate implant
+
+placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
+
+## 세줄요약
+
+Short-term clinical evaluation of titanium mesh combined with CGF
+
+(Concentrated Growth Factor) membranes for GBR at immediate implant
+
+placement in anterior maxilla. Reports acceptable hard-tissue reconstruction and contour preservation.
 
 ## 1. Document Information
 - **Title:** Short-Term Evaluation of Guided Bone Reconstruction with Titanium Mesh Membranes and CGF Membranes in Immediate Implantation of Anterior Maxillary Tooth

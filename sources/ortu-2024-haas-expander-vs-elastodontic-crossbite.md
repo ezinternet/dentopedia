@@ -19,7 +19,6 @@ First head-to-head comparison we hold of an **elastodontic (myofunctional) devic
 
 ## Three-line Summary
 
-
 Single-centre prospective comparative study (n=64, ages 7–8;
 
 32 elastodontic Equilibrator vs 32 Haas expander) finding **no statistically significant difference** in intermolar (IMW) or intercanine (ICW) width gain at 12 months — the two devices were equally effective, with the elastodontic device offering greater comfort and lower relapse/complication risk.
@@ -27,7 +26,6 @@ Single-centre prospective comparative study (n=64, ages 7–8;
 (incomplete)
 
 ## 세줄요약
-
 
 단일기관 전향적 비교연구(n=64, 7~8세;
 

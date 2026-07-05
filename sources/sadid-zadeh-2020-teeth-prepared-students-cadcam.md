@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cross-sectional evaluation (rubric-based;
 
 334 typodont preparations) of senior dental students' tooth preparations for CAD/CAM restorations finding finish line quality the most frequent error (136/223 prostheses), the criterion most critical for well-fitting CAD/CAM restorations.
@@ -23,7 +22,6 @@ Cross-sectional evaluation (rubric-based;
 (incomplete)
 
 ## 세줄요약
-
 
 단면연구(루브릭 기반, 타이포돈트 형성치 334개): 본과 4학년 학생이 CAD/CAM 수복용으로 형성한 치아에서 **finish line(변연선) 품질 오류가 가장 빈번(223건 중 136건)**했으며, 이는 CAD/CAM 수복물 적합도에 가장 결정적인 항목이다.
 

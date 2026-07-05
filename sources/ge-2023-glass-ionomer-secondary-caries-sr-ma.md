@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Meta-analysis of 64 RCTs finds glass ionomer cement (GIC) restorations are superior to amalgam and equivalent to resin-composite in preventing secondary caries, in both primary and permanent dentition.
+
+Meta-analysis of 64 RCTs finds glass ionomer cement (GIC)
+
+restorations are superior to amalgam and equivalent to resin-composite
+
+in preventing secondary caries, in both primary and permanent dentition.
+
+## 세줄요약
+
+이차 우식 예방 효과 메타분석: 글래스아이오노머(GIC) vs 아말감·레진복합 64편 RCT
+
+GIC: 아말감 대비 우월 (영구치 RR 0.20, 유치 RR 0.55), 레진복합 동등
+
+GIC vs RMGIC 차이 없음 — WHO 필수의약품 지정 근거 강화
 
 ## 1. Document Information
 - **Journal**: Dental Materials 39 (2023) e1–e17

@@ -19,7 +19,6 @@ Seeds the wiki's first **retreatment/retrievability** evidence for the Ceraseal/
 
 ## Three-line Summary
 
-
 In-vitro micro-CT study (36 mandibular premolars, n=12/group) showing AH Plus Bioceramic and Ceraseal single-cone fills are more retrievable than epoxy-resin AH Plus during retreatment (94.8% / 92.5% vs 87.1% removed after WaveOne Gold + XP-endo Finisher).
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro micro-CT study (36 mandibular premolars, n=12/group) showing AH Plus Bi
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 마이크로-CT 연구 (하악소구치 36개, 군당 12개): AH Plus Bioceramic·Ceraseal 단일콘 충전이 에폭시 레진 AH Plus보다 재근관치료 시 제거가 잘 됨 (WaveOne Gold + XP-endo Finisher 후 제거율 94.8%·92.5% vs 87.1%).
 

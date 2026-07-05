@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 22 studies (n=4,044 patients, 13,265 implants) found that lack of keratinized mucosa is an independent risk factor for peri-implantitis (OR=2.78, 95% CI 2.07–3.74), consistent across multiple subgroup analyses adjusting for case definition, prosthesis type, and maintenance scheme.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 22 studies (n=4,044 patients, 13,265 implants) found that lack of kerat
 (incomplete)
 
 ## 세줄요약
-
 
 22편 포함 SR+MA(환자 4,044명, 임플란트 13,265개)에서 각화점막 부족이 주위염의 독립적 위험인자(OR=2.78, 95% CI 2.07–3.74)임을 교란변수 통제 하위군 분석을 통해 일관되게 확인하였다.
 

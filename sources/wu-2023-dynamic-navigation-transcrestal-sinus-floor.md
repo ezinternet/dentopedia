@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Retrospective pilot study (28 implants in 28 patients, Peking University Hospital of Stomatology, Oct 2019–Jul 2021): dynamic navigation combined with osteotomes and a piezoelectric device for transcrestal sinus floor elevation (TSFE) achieved angular deviation 3.66 ± 1.67°, entry-point horizontal deviation 1.07 ± 0.69 mm, and apical-point horizontal deviation 1.09 ± 0.67 mm — comparable to dynamic navigation in non-TSFE contexts; premolar sites showed smaller angular deviation than molar sites (p = 0.004), no surgeon effect, and no obvious sinus perforation on immediate postoperative CBCT.
 
+Retrospective pilot study (28 implants in 28 patients, Peking University Hospital of Stomatology, Oct 2019–Jul 2021): dynamic navigation combined with osteotomes and a piezoelectric device for transcrestal sinus
+
+floor elevation (TSFE) achieved angular deviation 3.66 ± 1.67°, entry-point horizontal deviation 1.07 ± 0.69 mm, and apical-point horizontal deviation 1.09 ± 0.67 mm — comparable to dynamic
+
+navigation in non-TSFE contexts; premolar sites showed smaller angular deviation than molar sites (p = 0.004), no surgeon effect, and no obvious sinus perforation on immediate postoperative CBCT.
+
+## 세줄요약
+
+Retrospective pilot study (28 임플란트 in 28 patients, Peking University Hospital of Stomatology, Oct 2019–Jul 2021): dynamic navigation combined with osteotomes and a piezoelectric device for transcrestal sinus
+
+floor elevation (TSFE) achieved angular deviation 3.66 ± 1.67°, entry-point horizontal deviation 1.07 ± 0.69 mm, and apical-point horizontal deviation 1.09 ± 0.67 mm — comparable to dynamic
+
+navigation in non-TSFE contexts; premolar sites showed smaller angular deviation than molar sites (p = 0.004), no surgeon effect, and no obvious sinus perforation on immediate postoperative CBCT.
 
 ## 1. Document Information
 - **Journal**: Journal of Dental Sciences 2023;18(4):1747–1755

@@ -18,7 +18,6 @@ Anchors the "abandon CR" pole of the long-running centric-relation terminology d
 
 ## Three-line Summary
 
-
 Narrative review (~70 years of CR literature) concluding the term "centric relation" is semantically, conceptually and practically flawed and should be abandoned;
 
 in healthy dentate patients, maximum intercuspation determines the TMJ relationship and is biologically acceptable.
@@ -26,7 +25,6 @@ in healthy dentate patients, maximum intercuspation determines the TMJ relations
 (incomplete)
 
 ## 세줄요약
-
 
 약 70년간의 CR 문헌을 검토한 서술적 리뷰로, "중심위(centric relation, CR)"라는 용어가 의미론적·개념적·실용적으로 결함이 있어 폐기되어야 한다고 결론지음 — 건강한 유치악 환자에서는 최대교두감합(maximum intercuspation, MIP)이 턱관절 관계를 결정하며 생물학적으로 수용 가능하다고 주장.
 

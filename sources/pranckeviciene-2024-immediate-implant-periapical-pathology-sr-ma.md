@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs 없는 부위 즉시식립 — 장기 임상 결과 비교; 적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
 
+SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs
+
+없는 부위 즉시식립 — 장기 임상 결과 비교;
+
+적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
+
+## 세줄요약
+
+SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs
+
+없는 부위 즉시식립 — 장기 임상 결과 비교;
+
+적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
 
 ## 1. Document Information
 - **Title**: Comparison of Immediate Implantation into the Socket with and without Periapical Pathology: Systematic Review and Meta-Analysis

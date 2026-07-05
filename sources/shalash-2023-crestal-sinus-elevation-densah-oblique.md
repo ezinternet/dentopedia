@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Prospective study (n=16, RBH 4–7mm, oblique sinus floor): Densah bur osseodensification achieves mean lift 4.42mm, seating torque 35.5 Ncm; 1/16 perforation; 100% 1-year success.
 
+Prospective study (n=16, RBH 4–7mm, oblique sinus floor): Densah bur osseodensification achieves mean lift 4.42mm, seating torque 35.5 Ncm
+
+1/16 perforation
+
+100% 1-year success.
+
+## 세줄요약
+
+Prospective study (n=16, RBH 4–7mm, oblique sinus floor): Densah bur osseodensification achieves mean lift 4.42mm, seating torque 35.5 Ncm
+
+1/16 perforation
+
+100% 1-year success.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry 2023; 9:41

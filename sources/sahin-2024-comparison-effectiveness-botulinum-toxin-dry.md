@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-4-arm RCT (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy, and manual therapy produce equivalent VAS / MMO / OHIP-14 outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis supported.
 
+4-arm RCT (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy,
+
+and manual therapy produce equivalent VAS / MMO / OHIP-14
+
+outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis supported.
+
+## 세줄요약
+
+4-arm RCT (n=80, Turkey) finds BoNT-A, dry needling, pharmacological therapy,
+
+and manual therapy produce equivalent VAS / MMO / OHIP-14
+
+outcomes through 12 weeks for bruxism-induced myalgia — null hypothesis supported.
 
 ## 1. Document Information
 - **Journal**: J Oral Facial Pain Headache 2024;38(4):101-110

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 24-month double-blind RCT (n=240 ETT lower molars): polyethylene-fiber-reinforced bulk-fill vs plain bulk-fill resin composite showed no significant difference on any modified USPHS parameter, with Alpha scores for retention, gross fracture, and secondary caries at all intervals.
 
 (incomplete)
@@ -23,7 +22,6 @@ source_collection: external
 (incomplete)
 
 ## 세줄요약
-
 
 24개월 이중맹검 RCT(n=240 근관치료 하악대구치): 폴리에틸렌섬유 강화 벌크필 vs 일반 벌크필 복합레진은 모든 modified USPHS 항목에서 유의차 없었고, 유지·파절·이차우식에서 전 시점 Alpha 점수 유지.
 

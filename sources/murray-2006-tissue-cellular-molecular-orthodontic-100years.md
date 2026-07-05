@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Sandstedt(1904) 이후 100년간 교정적 치아이동 기전 연구 역사적 고찰 + 현재 분자 기전 통합.
 
+Sandstedt(1904) 이후 100년간 교정적
+
+치아이동 기전 연구 역사적
+
+고찰 + 현재 분자 기전 통합.
+
+## 세줄요약
+
+Sandstedt(1904) 이후 100년간 교정적
+
+치아이동 기전 연구 역사적
+
+고찰 + 현재 분자 기전 통합.
 
 ## 1. Document Information
 - **Title**: The tissue, cellular, and molecular regulation of orthodontic tooth movement: 100 years after Carl Sandstedt

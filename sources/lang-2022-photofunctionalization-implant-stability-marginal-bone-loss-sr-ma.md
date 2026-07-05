@@ -20,7 +20,6 @@ This is the first photofunctionalization-SPECIFIC clinical SR+MA on implant stab
 
 ## Three-line Summary
 
-
 SR+MA (7 clinical studies, 5 in meta-analysis;
 
 430 patients / 734 implants): UV photofunctionalization significantly increased the osseointegration speed index (OSI;
@@ -28,7 +27,6 @@ SR+MA (7 clinical studies, 5 in meta-analysis;
 MD = 2.13, p = 0.007) and improved implant stability at 2 months (MD = 3.48, p = 0.04), but pooled effects on stability at other time points and on marginal bone loss were non-significant — high heterogeneity, low study count and high risk of bias temper the conclusion.
 
 ## 세줄요약
-
 
 SR+MA (임상연구 7편, 메타분석 5편;
 

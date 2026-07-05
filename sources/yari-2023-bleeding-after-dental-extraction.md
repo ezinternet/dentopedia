@@ -19,7 +19,6 @@ Adds a post-PCI (percutaneous coronary intervention) clinical dataset directly o
 
 ## Three-line Summary
 
-
 Prospective study (n=100, recent-PCI patients) — uninterrupted single vs dual antiplatelet therapy showed no significant difference in post-extraction bleeding (complete hemostasis 78% vs 64%, p=0.08);
 
 all persistent/delayed bleeding controlled locally.
@@ -27,7 +26,6 @@ all persistent/delayed bleeding controlled locally.
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 연구 (n=100, 최근 PCI 환자) — 단일 vs 이중 항혈소판요법을 중단하지 않은 채 발치 시 출혈에 유의차 없음 (완전지혈 78% vs 64%, p=0.08);
 

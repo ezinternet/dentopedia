@@ -19,7 +19,6 @@ Primary prospective evidence with a striking dose-response — early implant fai
 
 ## Three-line Summary
 
-
 Prospective study (143 implant sites / 53 patients, RFA-measured ISQ): overall early implant failure 7%, but 46.2% at serum vitamin D <10 ng/mL vs 4.5% (>30) and 2.3% (10–30 ng/mL);
 
 deficiency also associated with lower CBCT bone density and ISQ and higher immature/mature collagen ratio.
@@ -27,7 +26,6 @@ deficiency also associated with lower CBCT bone density and ISQ and higher immat
 (incomplete)
 
 ## 세줄요약
-
 
 전향 연구(임플란트 143부위/환자 53명, 공명주파수분석 ISQ): 전체 조기 임플란트 실패 7%이나 혈청 비타민 D <10 ng/mL군에서 46.2%로 급증(>30: 4.5%, 10–30: 2.3%), 결핍군은 CBCT 골밀도·ISQ 낮고 미성숙/성숙 콜라겐 비율 높음.
 

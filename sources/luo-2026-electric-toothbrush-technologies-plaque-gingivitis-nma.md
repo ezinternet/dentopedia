@@ -19,7 +19,6 @@ Prior pairwise reviews established only "electric > manual" for plaque control; 
 
 ## Three-line Summary
 
-
 Frequentist network meta-analysis (19 RCTs, 1996–2025) ranking electric toothbrush technologies: oscillating-rotating ranks first for both plaque (SUCRA 89.2%) and gingivitis (86.5%), followed by sonic > ultrasonic > other electric > manual;
 
 all electric types beat manual, with largest benefits in orthodontic patients and children and a non-significant effect in the elderly.
@@ -27,7 +26,6 @@ all electric types beat manual, with largest benefits in orthodontic patients an
 (incomplete)
 
 ## 세줄요약
-
 
 빈도주의 네트워크 메타분석 (19개 RCT, 1996–2025): 전동칫솔 기술 순위 — 진동회전형(oscillating-rotating)이 치면세균막(SUCRA 89.2%)·치은염(86.5%) 모두 1위, 이어 음파(sonic) > 초음파(ultrasonic) > 기타 전동 > 수동 순.
 

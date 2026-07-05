@@ -19,7 +19,6 @@ A brand-named device (Waterpik) RCT added to manual toothbrushing in fixed-appli
 
 ## Three-line Summary
 
-
 Single-centre two-arm parallel single-blind RCT (n=40, ages 10-20, upper+lower fixed appliances, 56-week follow-up): adding a Waterpik to a manual toothbrush produced NO statistically significant difference in plaque, gingival, or interdental-bleeding indices vs manual toothbrush alone — trial stopped at interim analysis, no evidence of benefit.
 
 (incomplete)
@@ -27,7 +26,6 @@ Single-centre two-arm parallel single-blind RCT (n=40, ages 10-20, upper+lower f
 (incomplete)
 
 ## 세줄요약
-
 
 단일기관 2군 평행 단일맹검 RCT (n=40, 10-20세, 상하악 고정성 교정장치, 56주 추적): 수동칫솔에 워터픽(Waterpik)을 추가해도 치면세균막·치은·치간출혈 지수 모두 수동칫솔 단독 대비 유의차 없음 — 중간분석에서 조기종료, 워터픽 부가 이점 근거 없음.
 

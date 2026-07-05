@@ -19,7 +19,6 @@ text_filename: uesugi-2024-risk-factors-early-failure-all-on-four.txt
 
 ## Three-line Summary
 
-
 Retrospective cohort (561 patients / 2364 implants, all-on-four immediate loading): 1-year implant-level survival 98.9% (maxilla) vs 99.6% (mandible);
 
 multivariate risk factors for early failure were maxilla (OR 3.12) and smoking (OR 2.92), while photofunctionalisation showed a non-significant protective trend (OR 0.51, p=0.25).
@@ -27,7 +26,6 @@ multivariate risk factors for early failure were maxilla (OR 3.12) and smoking (
 (incomplete)
 
 ## 세줄요약
-
 
 후향 코호트(환자 561명 / 임플란트 2364개, all-on-four 즉시로딩): 1년 임플란트 단위 생존율 상악 98.9% vs 하악 99.6%;
 

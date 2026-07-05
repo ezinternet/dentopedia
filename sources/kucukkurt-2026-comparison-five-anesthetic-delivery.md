@@ -19,7 +19,6 @@ text_filename: kucukkurt-2026-comparison-five-anesthetic-delivery.txt
 
 ## Three-line Summary
 
-
 RCT (n=200, 5-arm parallel, single-blind) comparing conventional syringe, manual pressure syringe (MCJ), spring-activated pressure syringe (PCJ), needle-free jet injector (NFI), and CCLAD for palatal infiltration: pain did not differ significantly across devices (p=0.380, all Hedges' g<0.20), but PCJ produced the largest fear reduction (ΔVAS -2.7) and CCLAD produced the largest transient pulse-rate increase.
 
 (incomplete)
@@ -27,7 +26,6 @@ RCT (n=200, 5-arm parallel, single-blind) comparing conventional syringe, manual
 (incomplete)
 
 ## 세줄요약
-
 
 RCT(n=200, 5군 병렬, 단일눈가림)로 구개 침윤마취에서 통상 주사기·수동압력주사기(MCJ)·스프링식압력주사기(PCJ)·바늘없는 분사주입기(NFI)·컴퓨터제어전달장치(CCLAD)를 비교 — 통증은 군간 유의차 없었으나(p=0.380, 모든 Hedges' g<0.20), PCJ가 공포 감소 폭이 가장 컸고(ΔVAS -2.7) CCLAD는 주사 중 맥박 상승이 가장 컸음.
 

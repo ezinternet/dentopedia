@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Swedish multicentre double-blind RCT pilot (n=45) — single 100-U Botox session into masseter and temporalis showed no significant change in days with functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw myalgia.
 
+Swedish multicentre double-blind RCT pilot (n=45) — single 100-U Botox session
+
+into masseter and temporalis showed no significant change in days with
+
+functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw myalgia.
+
+## 세줄요약
+
+Swedish multicentre double-blind RCT pilot (n=45) — single 100-U Botox session
+
+into masseter and temporalis showed no 유의미한 change in days with
+
+functional jaw pain at 2 months (p=0.585) vs. saline in DC/TMD-diagnosed jaw myalgia.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral Rehabilitation 2025;52:587-596

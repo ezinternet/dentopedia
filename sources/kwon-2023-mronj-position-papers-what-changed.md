@@ -14,8 +14,20 @@ source_collection: external
 대한치과의사협회지 2023 일괄 ingest. 본 종설은 [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]](AAOMS 2022 position paper 원문)를 한국어로 해설하며 "이전 대비 무엇이 바뀌었나"를 정리 — 동일 1차 자료의 해석 레이어. 기존 [[drug/baghalipour-2025-mronj-prevention-management-review]]·[[drug/li-2024-antiresorptive-implants-mronj-sr]]의 관리 권고와 교차 검증용.
 
 ## Three-line Summary
-Korean-language review of the AAOMS MRONJ position-paper evolution (2007 BRONJ → 2014 MRONJ → 2022 update), highlighting three clinically important 2022 changes: immune-modulator inclusion, operative therapy across all stages, and removal of pre-surgical drug holiday support.
 
+Korean-language review of the AAOMS MRONJ position-paper evolution (2007 BRONJ → 2014
+
+MRONJ → 2022 update), highlighting three clinically important 2022 changes: immune-modulator inclusion,
+
+operative therapy across all stages, and removal of pre-surgical drug holiday support.
+
+## 세줄요약
+
+Korean-language review of the AAOMS MRONJ position-paper evolution (2007 BRONJ → 2014
+
+MRONJ → 2022 update), highlighting three clinically important 2022 changes: immune-modulator inclusion,
+
+operative therapy across all stages, and removal of pre-surgical drug holiday support.
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(7):444–, 2023 (16 pages)

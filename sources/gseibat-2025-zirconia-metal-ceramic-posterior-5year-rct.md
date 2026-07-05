@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-디지털 워크플로우에서 반투명 지르코니아 vs 금속도재 구치부 전관 5년 전향적 RCT.
+
+디지털 워크플로우에서 반투명
+
+지르코니아 vs 금속도재
+
+구치부 전관 5년 전향적 RCT.
+
+## 세줄요약
+
+디지털 워크플로우에서 반투명
+
+지르코니아 vs 금속도재
+
+구치부 전관 5년 전향적 RCT.
 
 ## 1. Document Information
 - **Title**: Clinical outcome of translucent zirconia and metal-ceramic posterior crowns in a digital workflow: A 5-year prospective randomized clinical trial

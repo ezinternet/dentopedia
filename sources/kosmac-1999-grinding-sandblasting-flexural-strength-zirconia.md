@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Dent Mater 1999: Y-TZP fine/coarse grained × grinding/sandblasting — sandblasting significantly increases flexural strength; grinding reduces Weibull modulus; sandblasting = largest monoclinic phase and TZD; foundational paper on surface treatment effects.
 
+Dent Mater 1999: Y-TZP fine/coarse grained × grinding/sandblasting — sandblasting significantly increases flexural strength
+
+grinding reduces Weibull modulus
+
+sandblasting = largest monoclinic phase and TZD; foundational paper on surface treatment effects.
+
+## 세줄요약
+
+Dent Mater 1999: Y-TZP fine/coarse grained × grinding/sandblasting — sandblasting 유의미한ly increases flexural strength
+
+grinding reduces Weibull modulus
+
+sandblasting = largest monoclinic phase and TZD; foundational paper on surface treatment effects.
 
 ## 1. Key Results
 - 2 Y-TZP: fine-grained and coarse-grained; 60 discs; 6 surface treatments

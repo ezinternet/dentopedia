@@ -18,7 +18,6 @@ Provides concrete 5-year survival rates disaggregated by tooth vitality, post ty
 
 ## Three-line Summary
 
-
 SR (26 studies, ≥24 mo): fiber-post + all-ceramic SCs achieve 95.0% 5-year survival on nonvital teeth vs 85.7% without post;
 
 tooth vitality significantly predicts FDP survival (84.9% vital vs 81.3% nonvital, P=.049).
@@ -26,7 +25,6 @@ tooth vitality significantly predicts FDP survival (84.9% vital vs 81.3% nonvita
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 고찰 (26편): 비활력치에 파이버포스트 + 올세라믹 단관은 5년 생존율 95.0%로 최우수;
 

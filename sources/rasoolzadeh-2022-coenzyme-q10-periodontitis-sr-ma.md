@@ -18,7 +18,6 @@ Ingested as the **contrasting half** of the CoQ10 evidence pair. This 2022 SR+MA
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis of 11 controlled trials: CoQ10 significantly reduced Plaque Index, Bleeding Index, Pocket Depth (SMD −0.96), CAL (SMD −0.73), and Gingival Index in periodontitis (intra-pocket > topical), but with very high heterogeneity (I² 72–89%) and a larger effect in high-risk-of-bias studies.
 
 (incomplete)
@@ -26,7 +25,6 @@ Systematic review + meta-analysis of 11 controlled trials: CoQ10 significantly r
 (incomplete)
 
 ## 세줄요약
-
 
 11편 임상시험 SR+MA — CoQ10가 치주염에서 치태지수·출혈지수·치주낭깊이(SMD −0.96)·부착수준(SMD −0.73)·치은지수를 유의하게 감소(낭내 > 국소).
 

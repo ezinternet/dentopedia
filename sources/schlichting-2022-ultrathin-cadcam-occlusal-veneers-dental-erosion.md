@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective RCT (n=11 participants, 60 restorations) comparing CAD-CAM ceramic (e.max CAD) vs composite resin (Lava Ultimate) ultrathin occlusal veneers for severe dental erosion over up to 3 years: 100% vs 84.7% Kaplan-Meier survival with no statistically significant difference (P=.124), but significantly greater surface degradation in the composite resin group (P=.003).
 
 (incomplete)
@@ -23,7 +22,6 @@ Prospective RCT (n=11 participants, 60 restorations) comparing CAD-CAM ceramic (
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 무작위대조시험(Randomized Controlled Trial, RCT) (n=11명, 60개 수복물): 중증 치아 침식증(dental erosion)에 CAD-CAM 세라믹 교합면 비니어(occlusal veneer, e.max CAD) vs 복합레진(composite resin, Lava Ultimate)을 최대 3년 추적 — 카플란-마이어(Kaplan-Meier) 생존율 100% vs 84.7% (P=.124, 유의하지 않음), 레진군에서 표면 조도(surface roughness) 유의하게 높음 (P=.003).
 

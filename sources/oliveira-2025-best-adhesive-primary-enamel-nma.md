@@ -19,7 +19,6 @@ PubMed full-text surveillance (레진접착) — 기존 enamel 접착 근거는 
 
 ## Three-line Summary
 
-
 Bayesian network meta-analysis (14 in vitro studies, primary tooth enamel bond strength): 3-step etch-and-rinse ranked best (highest SUCRA);
 
 two-bottle universal adhesive WITH phosphoric acid etching was statistically equivalent to it;
@@ -27,7 +26,6 @@ two-bottle universal adhesive WITH phosphoric acid etching was statistically equ
 within the same number of steps, self-etch ≈ etch-and-rinse — suggesting clinical steps can be reduced for deciduous enamel.
 
 ## 세줄요약
-
 
 베이지안 네트워크 메타분석 (in vitro 14편, 유치 법랑질 결합강도): 3단계 etch-and-rinse가 SUCRA 1위였고, 인산 산부식을 동반한 2병형 universal adhesive는 그와 통계적으로 동등했으며, 같은 단계 수에서는 self-etch ≈ etch-and-rinse — 유치 법랑질에서는 임상 단계 축소 여지가 있음을 시사.
 

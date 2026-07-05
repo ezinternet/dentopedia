@@ -25,8 +25,6 @@ Long-term data on monolithic full-contour zirconia (FCZ) crowns are scarce, and 
 
 모놀리식 지르코니아(FCZ)의 장기 임상 데이터 부족이 주요 한계 — 신형 반투명 4Y/5Y 지르코니아의 접착 특수 문제는 다루지 않음.
 
-
-
 ## 1. Document Information
 - **Title**: Effect of Resin Bonding on Long-Term Success of High-Strength Ceramics
 - **Authors**: Blatz MB et al. (first author inferred; PDF extraction incomplete)

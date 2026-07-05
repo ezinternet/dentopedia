@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Dog RCT (n=4 dogs, 32 implants, 8 weeks): L-shaped loosely-packed vs compactly-packed soft BBS in GBR for peri-implant dehiscence showed no significant difference in bone width at any level;
 
 both failed to maintain coronal augmentation without membrane fixation;
@@ -23,7 +22,6 @@ both failed to maintain coronal augmentation without membrane fixation;
 micro-CT overestimated bone width by 0.31 mm but correlated strongly with histomorphometry (r=0.971).
 
 ## 세줄요약
-
 
 개 동물실험 (n=4마리, 32 임플란트, 8주): L형 느슨하게 적용 vs 비성형 압축 적용 연조질 블록형 골대체재(BBS) 간 골폭 차이 없음;
 

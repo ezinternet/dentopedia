@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cochrane systematic review (3rd update, CD003811.pub3) evaluating antibiotic prophylaxis to prevent post-extraction complications; outcomes tracked at day 6–7 include infectious complications, pain, fever, swelling, trismus, dry socket, and adverse events.
 
+Cochrane systematic review (3rd update, CD003811.pub3) evaluating antibiotic prophylaxis to
+
+prevent post-extraction complications; outcomes tracked at day 6–7 include infectious
+
+complications, pain, fever, swelling, trismus, dry socket, and adverse events.
+
+## 세줄요약
+
+Cochrane systematic review (3rd update, CD003811.pub3) evaluating antibiotic prophylaxis to
+
+prevent post-extraction complications; outcomes tracked at day 6–7 include infectious
+
+complications, pain, fever, swelling, 개구제한 (Trismus), dry socket, and adverse events.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews 2021, Issue 2, Art. No.: CD003811

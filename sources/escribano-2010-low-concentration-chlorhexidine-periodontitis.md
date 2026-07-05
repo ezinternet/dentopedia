@@ -30,8 +30,6 @@ Clinical implications: low-concentration CHX formulation effective for patients 
 
 임상적 의의: 저농도 CHX 제형이 구강위생 불순응 환자에 효과적이나, PPD·CAL 개선 없어 임상적 부착 회복의 한계.
 
-
-
 ## 1. Document Information
 
 - **Journal**: Journal of Clinical Periodontology

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 17 RCTs: non-crosslinked XCM inferior to CTG for mucosal thickness gain (MD 0.27 mm, P=0.01) but crosslinked XCM (VCMX) equals CTG;
 
 FGG superior to XCM* for keratinized mucosa width (MD 1.47 mm, P=0.0006) at implant sites.
@@ -23,7 +22,6 @@ FGG superior to XCM* for keratinized mucosa width (MD 1.47 mm, P=0.0006) at impl
 (incomplete)
 
 ## 세줄요약
-
 
 17편 RCT SR+MA: 임플란트 부위 연조직 증대에서 비가교 XCM은 CTG 대비 점막두께 열위(MD 0.27 mm)이나 가교형 VCMX는 CTG와 동등;
 

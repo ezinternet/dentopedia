@@ -16,8 +16,20 @@ Versah 공식 프로토콜 II — RBH 4~5mm 조건의 경치조골 상악동거�
 → 관련 wiki: [[wiki/overviews/osseodensification-clinical-applications]] / [[wiki/implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]]
 
 ## Three-line Summary
-Versah Densah® manufacturer-issued clinical protocol card (2-page, REV08) for crestal sinus floor elevation in residual bone height 4–5 mm — eliminates pilot drill step and adds allograft propulsion.
 
+Versah Densah® manufacturer-issued clinical protocol card (2-page, REV08) for
+
+crestal sinus floor elevation in residual bone height 4–5
+
+mm — eliminates pilot drill step and adds allograft propulsion.
+
+## 세줄요약
+
+Versah Densah® manufacturer-issued clinical protocol card (2-page, REV08) for
+
+crestal sinus floor elevation in residual 골 (Bone) height 4–5
+
+mm — eliminates pilot drill step and adds allograft propulsion.
 
 ## 1. Document Information
 - **Title:** Osseodensification-Facilitated Crestal Sinus Lift Protocol II (Densah® LIFT II, REV08)

@@ -33,8 +33,6 @@ PCL 유병률 18–66%, 연 ~9–10% 증가(3–9년 내 약 50% 소실); mesial
 
 PCL→식편압입→우식원성 biofilm→인접면 우식의 인과 경로를 기전적으로 제시하나, 합산 우식 발생률 수치 없음 — 우식 연관성은 측정값이 아닌 추론.
 
-
-
 ## 1. Document Information
 
 - **Type**: Narrative review (PubMed article type: Review)

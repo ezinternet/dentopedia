@@ -19,7 +19,6 @@ Clear-aligner (CA) limitations / masticatory-function batch. Reinforces and quan
 
 ## Three-line Summary
 
-
 SR+MA (6 studies, 108 adults, NOS low–moderate RoB;
 
 PROSPERO CRD42024522231): clear aligner treatment transiently raised masseter sEMG at maximal clench then it fell, with mixed temporalis/resting responses, but the pooled meta-analysis found a NON-significant difference in masseter and temporalis activity — evidence too thin for firm conclusions.
@@ -27,7 +26,6 @@ PROSPERO CRD42024522231): clear aligner treatment transiently raised masseter sE
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰+메타분석(6편, 성인 108명, NOS 비뚤림 낮음–중등도): 투명교정(CAT)은 최대 악물기(MVC)에서 교근(masseter) 표면근전도가 초기 증가 후 감소했고 측두근(temporalis)·안정위 반응은 혼재했으나, 통합 메타분석에서는 교근·측두근 활성도 차이가 통계적으로 유의하지 않아(masseter ES 0.20, temporalis 0.24, 둘 다 95% 신뢰구간이 0 포함) 확정 결론을 내리기엔 근거가 부족하다.
 

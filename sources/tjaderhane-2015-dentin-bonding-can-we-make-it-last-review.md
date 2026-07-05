@@ -15,7 +15,6 @@ Durability review anchoring the dentin-adhesion hybrid-layer batch. It frames th
 
 ## Three-line Summary
 
-
 Narrative review (Buonocore Lecture) arguing that dentin bond durability is undermined by endogenous collagenolytic enzymes (MMPs, cysteine cathepsins) and adhesive hydrophilicity, and systematically cataloging countermeasures including chlorhexidine, alternative MMP inhibitors, collagen cross-linkers, ethanol-wet bonding, and biomimetic remineralization.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Buonocore Lecture) arguing that dentin bond durability is unde
 (incomplete)
 
 ## 세줄요약
-
 
 서술형 리뷰(Buonocore 강연) — 상아질 접착의 내구성은 내인성 콜라겐 분해효소(기질금속단백분해효소(MMP), 시스테인 카텝신(cysteine cathepsin))와 접착제의 친수성으로 인해 저하되며, 클로르헥시딘(chlorhexidine), 교차결합제(cross-linker), 에탄올 습식 접착(ethanol-wet bonding), 생체모방 광물화(biomimetic remineralization) 등의 대응 전략을 체계적으로 정리한다.
 

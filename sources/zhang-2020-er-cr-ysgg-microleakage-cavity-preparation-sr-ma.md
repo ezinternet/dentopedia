@@ -19,7 +19,6 @@ text_filename: zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma.txt
 
 ## Three-line Summary
 
-
 First SR+MA (13 in-vitro studies, 11 meta-analyzed) finding Er,Cr:YSGG laser cavity preparation produces microleakage equivalent to traditional burs, and that adjunctive acid etching significantly improves self-etch adhesive sealing after laser preparation.
 
 (incomplete)
@@ -27,7 +26,6 @@ First SR+MA (13 in-vitro studies, 11 meta-analyzed) finding Er,Cr:YSGG laser cav
 (incomplete)
 
 ## 세줄요약
-
 
 첫 SR+MA(인비트로 13편, 11편 메타분석) — Er,Cr:YSGG 레이저 와동형성은 전통적 bur와 미세누출이 동등하며, 레이저 형성 후 자가부식 접착제에 산부식을 추가하면 미세누출이 유의하게 감소.
 

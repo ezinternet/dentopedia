@@ -15,7 +15,6 @@ radiology 카테고리 파노라마 판독 함정(허상)의 실무 근거. [[ra
 
 ## Three-line Summary
 
-
 Pictorial essay (dry skull + clinical case) demonstrating panoramic ghost-image formation from metal objects in the head/neck to prevent misdiagnosis.
 
 (incomplete)
@@ -23,7 +22,6 @@ Pictorial essay (dry skull + clinical case) demonstrating panoramic ghost-image 
 (incomplete)
 
 ## 세줄요약
-
 
 파노라마 허상(ghost image) 형성을 두개골+임상증례로 보여주는 화보형 논문.
 

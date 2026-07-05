@@ -19,7 +19,6 @@ text_filename: nechita-2026-guided-provisionalization-emergence-profile-esthetic
 
 ## Three-line Summary
 
-
 Retrospective single-arm cohort (n=20 single esthetic-zone implants) of a digitally planned, guide-delivered immediate provisionalization protocol on non-antirotational 5° Morse taper implants: provisional retention without major intervention 75%, 1-year MBL 0.37 mm, buccal contour gain 1.41 mm, complete papilla preserved in 70%.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective single-arm cohort (n=20 single esthetic-zone implants) of a digita
 (incomplete)
 
 ## 세줄요약
-
 
 심미부위 단일 임플란트 20개에 대한 후향 단일군 코호트 — 디지털 계획·가이드 전달의 즉시 프로비저널라이제이션(무회전방지 5° Morse taper) 결과: 주요 개입 없는 프로비저널 유지율 75%, 1년 변연골소실 0.37 mm, 협측 윤곽 증가 1.41 mm, 완전 유두 보존 70%.
 

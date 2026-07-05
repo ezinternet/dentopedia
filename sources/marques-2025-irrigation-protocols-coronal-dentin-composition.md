@@ -19,7 +19,6 @@ text_filename: marques-2025-irrigation-protocols-coronal-dentin-composition.txt
 
 ## Three-line Summary
 
-
 In vitro study (25 human third molars, 5 groups) using confocal Raman, ATR-FTIR, EDS, and SEM to quantify native coronal dentin composition and how four clinical endodontic irrigation protocols (NaOCl;
 
 NaOCl/EDTA;
@@ -27,7 +26,6 @@ NaOCl/EDTA;
 NaOCl/EDTA/CHX; NaOCl/HEDP) alter its organic (collagen/amide), inorganic (phosphate/carbonate apatite, Ca/P), elemental, and ultrastructural (tubule/smear-layer) makeup.
 
 ## 세줄요약
-
 
 사람 관상 상아질의 표준 성분 구성(유기 20wt%·무기 70wt%·수분, 유기의 90%가 제1형 콜라겐)을 정량하고, 4가지 임상 근관세정 프로토콜(NaOCl·NaOCl/EDTA·NaOCl/EDTA/CHX·NaOCl/HEDP)이 콜라겐·인산/탄산 아파타이트·Ca/P·상아세관/smear layer를 어떻게 바꾸는지를 Raman·FTIR·EDS·SEM으로 특성화한 in vitro 연구(사람 제3대구치 25개, 5군).
 

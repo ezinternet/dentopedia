@@ -18,7 +18,6 @@ Classic Watanabe-toothpick-method community program (T. Watanabe is a coauthor) 
 
 ## Three-line Summary
 
-
 Community comparative intervention (n=31 three-time vs n=40 single toothpick-method instruction, 1-year follow-up): repeated instruction significantly reduced gingival redness/swelling and gave higher CPITN improvement, while single instruction did not change gingival inflammation at 1 year — repeated instruction outperformed single.
 
 (incomplete)
@@ -26,7 +25,6 @@ Community comparative intervention (n=31 three-time vs n=40 single toothpick-met
 (incomplete)
 
 ## 세줄요약
-
 
 지역사회 비교중재연구(와타나베 이쑤시개법 칫솔질 지도, 3회 반복 n=31 vs 1회 n=40, 1년 추적): 반복 지도군만 치은 발적·종창이 유의 감소하고 CPITN 개선율이 더 높았으며, 1회 지도군은 1년 후 치은 염증이 변하지 않음 — 반복 지도가 단일 지도보다 우월.
 

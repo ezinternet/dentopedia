@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-재발성 아프타 구내염(RAS) 치료 및 관리 최신 고찰: 국소 및 전신 치료 옵션.
 
+재발성 아프타 구내염(RAS) 치료
+
+및 관리 최신 고찰:
+
+국소 및 전신 치료 옵션.
+
+## 세줄요약
+
+재발성 아프타 구내염(RAS) 치료
+
+및 관리 최신 고찰:
+
+국소 및 전신 치료 옵션.
 
 ## 1. Document Information
 - **Title**: Recurrent Aphthous Stomatitis: Treatment and Management

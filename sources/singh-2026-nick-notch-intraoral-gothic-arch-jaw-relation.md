@@ -21,7 +21,6 @@ According to PubMed, the source article is "Jaw relation recording using nick an
 
 ## Three-line Summary
 
-
 Within-subject clinical comparative study (n=20 edentulous, ages 45-60);
 
 split-cast verification on a semi-adjustable articulator showed Nick and Notch wax registration gave the lowest jaw-relation discrepancy (centric 0.15 mm, protrusive 0.23 mm), intraoral Gothic arch tracing intermediate (0.42 / 0.51 mm), and extraoral Gothic arch tracing the highest (0.74 / 0.86 mm);
@@ -29,7 +28,6 @@ split-cast verification on a semi-adjustable articulator showed Nick and Notch w
 all pairwise differences significant (p<0.001).
 
 ## 세줄요약
-
 
 무치악 환자 20명(45-60세) 자가대조 임상비교연구.
 

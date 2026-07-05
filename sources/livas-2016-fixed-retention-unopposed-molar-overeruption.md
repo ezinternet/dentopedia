@@ -19,7 +19,6 @@ text_filename: livas-2016-fixed-retention-unopposed-molar-overeruption.txt
 
 ## Three-line Summary
 
-
 Retrospective panoramic study (65 Class II div 1 cases): unopposed mandibular second molars retained with bonded sectional wires showed no statistically significant overeruption vs partial-contact non-retention controls — both moved only ~0.1 mm (clinically insignificant);
 
 partial occlusal contact restrained eruption as well as fixed retention.
@@ -27,7 +26,6 @@ partial occlusal contact restrained eruption as well as fixed retention.
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 파노라마 연구(Class II 1류 65명): 고정 sectional wire로 잡아둔 대합치 없는 하악 2대구치는 부분접촉 비고정 대조군과 비교해 통계적으로 유의한 정출이 없었고, 양쪽 모두 약 0.1mm(임상적으로 무의미)만 이동 — 부분 교합접촉도 고정 retainer만큼 정출을 억제했다.
 

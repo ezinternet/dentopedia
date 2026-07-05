@@ -15,7 +15,6 @@ Maxillary molar 즉시식립 (immediate implant placement, IIP)에서 임상적�
 
 ## Three-line Summary
 
-
 Murine first-molar extraction + palatal-root-socket osteotomy model showing that low-strain peri-implant zones (buccal, PDL-filled gap) osseointegrate via PDL-derived Wnt-responsive osteogenic cells, while high-strain zones (palatal, direct bone contact) suffer osteocyte death and bone resorption — and that exogenous liposomal WNT3A rescues osseointegration where PDL/Wnt cells are absent.
 
 (incomplete)
@@ -23,7 +22,6 @@ Murine first-molar extraction + palatal-root-socket osteotomy model showing that
 (incomplete)
 
 ## 세줄요약
-
 
 마우스 제1대구치 발치 후 구개근 소켓 (palatal root socket)에 골삭제·임플란트 식립한 동물 모델 연구.
 

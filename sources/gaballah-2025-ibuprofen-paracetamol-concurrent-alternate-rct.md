@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT (n=56): alternate ibuprofen 400mg / paracetamol 1000mg every 4h for 48h is superior to concurrent dosing every 8h for post-3rd molar extraction pain; 85% vs 53% required rescue medication (p=0.002).
+
+RCT (n=56): alternate ibuprofen 400mg / paracetamol 1000mg every 4h
+
+for 48h is superior to concurrent dosing every 8h for
+
+post-3rd molar extraction pain; 85% vs 53% required rescue medication (p=0.002).
+
+## 세줄요약
+
+하악 매복 3번치 발거 후 진통: 병용(4시간 교대) vs 동시(8시간) 투여 RCT (n=56, UAE)
+
+추가 진통제 필요율: 교대 15% vs 동시 53% (P=0.002) — 교대 투여가 우월
+
+VAS 통증 점수는 유의차 없으나, 구제약물 필요 대폭 감소로 임상적 유의성 입증
 
 ## 1. Document Information
 - Journal: Scientific Reports 2025;15:11519

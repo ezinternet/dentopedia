@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA (RCT only): 상악 심미부 단일 즉시식립 시 즉시 부하 (= immediate provisionalization) vs 지연부하 — midfacial mucosal level 중심 비교; PES·MBL·생존율 보조 평가.
 
+SR+MA (RCT only): 상악 심미부 단일 즉시식립 시
+
+즉시 부하 (= immediate provisionalization) vs 지연부하 —
+
+midfacial mucosal level 중심 비교; PES·MBL·생존율 보조 평가.
+
+## 세줄요약
+
+SR+MA (RCT only): 상악 심미부 단일 즉시식립 시
+
+즉시 부하 (= immediate provisionalization) vs 지연부하 —
+
+midfacial mucosal level 중심 비교; PES·MBL·생존율 보조 평가.
 
 ## 1. Document Information
 - **Title**: Immediate Implant Placement With or Without Immediate Provisionalization in the Maxillary Esthetic Zone: A Systematic Review and Meta-analysis

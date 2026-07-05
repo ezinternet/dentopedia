@@ -10,10 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT comparing an inverted body-shift implant design versus a conventional conical implant for immediate placement in the anterior esthetic zone with 1-year follow-up. Both designs showed comparable implant survival and clinical integration; the test design demonstrated design-specific advantages in trajectory control and buccal bone preservation. This study provided RCT-level evidence for the novel geometry initially validated in the Galve-Huertas 2024 pilot.
+
+RCT comparing an inverted body-shift implant design versus a conventional conical implant for immediate placement in the anterior esthetic zone with 1-year follow-up.
+
+Both designs showed comparable implant survival and clinical integration; the test design demonstrated design-specific advantages in trajectory control and buccal bone preservation.
+
+This study provided RCT-level evidence for the novel geometry initially validated in the Galve-Huertas 2024 pilot.
 
 ## 세줄요약
-미용 부위 즉시식립에서 역향 바디-시프트 임플란트 대 통상적 원뿔형 임플란트를 비교한 RCT(1년 추적). 두 설계 모두 유사한 임플란트 생존과 임상적 통합을 보였으나, 시험 설계는 궤적 제어와 협측 골 보존에서 설계 특이적 이점 입증. 파일럿(2024)에서 초기 검증된 신규 기하학에 대한 RCT 수준 근거 제공.
+
+미용 부위 즉시식립에서 역향 바디-시프트 임플란트 대 통상적 원뿔형 임플란트를 비교한 RCT(1년 추적).
+
+두 설계 모두 유사한 임플란트 생존과 임상적 통합을 보였으나, 시험 설계는 궤적 제어와 협측 골 보존에서 설계 특이적 이점 입증.
+
+파일럿(2024)에서 초기 검증된 신규 기하학에 대한 RCT 수준 근거 제공.
 
 ## 1. Document Information
 

@@ -18,7 +18,6 @@ Seeds a dental health-economics theme on the wiki — specifically how patient c
 
 ## Three-line Summary
 
-
 Difference-in-differences study of Japanese administrative dental claims (1108 children, 6276 visits) finding that discontinuing a childhood dental subsidy at age 10 produced NO significant short-term (12-month) change in first/total visits, cost, or acute severe dental conditions.
 
 (incomplete)
@@ -26,7 +25,6 @@ Difference-in-differences study of Japanese administrative dental claims (1108 c
 (incomplete)
 
 ## 세줄요약
-
 
 일본 행정 청구자료 이중차분(DiD) 연구(아동 1108명·내원 6276건) — 만 10세에 소아 치과 보조금을 중단해도 12개월 단기 동안 초진·총 내원·비용·급성 중증 치과상태에 유의한 변화가 없었음.
 

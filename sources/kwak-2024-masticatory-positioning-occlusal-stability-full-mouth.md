@@ -15,7 +15,6 @@ Adds a long-term (10-year) human clinical anchor for the centric-relation / ther
 
 ## Three-line Summary
 
-
 Prospective 10-year follow-up case series (n=16) using an intraoral Gothic arch tracer to set the normalized hard-food chewing position (CM-H) as the therapeutic position for full-mouth rehabilitation;
 
 63% concordance between CM-H and MICP at both timepoints, with overall stomatognathic recovery improving 19%, supporting long-term stability of chewing-position-centered occlusal reconstruction.
@@ -23,7 +22,6 @@ Prospective 10-year follow-up case series (n=16) using an intraoral Gothic arch 
 (incomplete)
 
 ## 세줄요약
-
 
 전악 수복 환자 16명을 약 10년 추적한 전향적 증례군 — 구내 고딕아치 트레이서로 정상화한 단단한 음식 저작위치(CM-H)를 치료위(therapeutic position)로 설정.
 

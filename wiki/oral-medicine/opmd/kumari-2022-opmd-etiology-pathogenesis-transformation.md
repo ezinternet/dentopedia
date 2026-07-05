@@ -32,8 +32,6 @@ WHO/Globocan 2020 틀 내에서 구강잠재악성질환(Oral Potentially Malign
 
 가역 단계(양성/이형성)가 습관 제거로 개입 가능한 핵심 시점; 분자 마커 기반 위험층화 도구는 유망하나 아직 임상 검증 미완.
 
-
-
 ## Summary
 
 This review compiles scattered OPMD knowledge into one etiology-pathogenesis framework. It traces the histopathologic sequence hyperplasia -> dysplasia -> carcinoma in situ -> invasive cancer and positions oral epithelial dysplasia (OED) grade as the key intermediate predicting malignant transformation. Genetic, epigenetic, microbial, and habitual (tobacco/areca/alcohol) drivers are reviewed, with the heaviest burden in low-HDI South-Asian populations (Globocan 2020: ~0.37M new lip/oral cancers). Reversible habitual factors make the benign/dysplastic stage the critical window for intervention.

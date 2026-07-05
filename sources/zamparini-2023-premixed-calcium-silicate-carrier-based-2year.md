@@ -19,7 +19,6 @@ Seeds the wiki's first Ceraseal / premixed calcium-silicate bioceramic-sealer cl
 
 ## Three-line Summary
 
-
 Prospective cohort (Bologna master program), 89 root canal treatments at 24 mo: Ceraseal premixed calcium-silicate sealer with warm carrier-based (Thermafil) obturation matched AH Plus on healing (91.1% vs 88.6%, NS) and survival (97.8% overall), with lower apical extrusion (13.3% vs 25%) and uniquely showed radiographic disappearance of 3/6 extrusions by 24 months.
 
 (incomplete)
@@ -27,7 +26,6 @@ Prospective cohort (Bologna master program), 89 root canal treatments at 24 mo: 
 (incomplete)
 
 ## 세줄요약
-
 
 전향 코호트 (볼로냐 마스터 과정), 24개월 근관치료 89건: Ceraseal 프리믹스 칼슘실리케이트 실러를 warm carrier-based(Thermafil) 충전과 병용 시 AH Plus와 치유율(91.1% vs 88.6%, 무의차)·생존율(전체 97.8%) 동등, 근단부 sealer 일출은 더 낮았고(13.3% vs 25%), Ceraseal 일출 6건 중 3건은 24개월 내 방사선학적으로 소실됨.
 

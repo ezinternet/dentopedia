@@ -19,7 +19,6 @@ text_filename: min-2024-essential-oil-mouthrinses-plaque-microbiome.txt
 
 ## Three-line Summary
 
-
 Parallel-group RCT (n=153 gingivitis subjects, 6 weeks);
 
 alcohol-containing EO mouthrinses (LCM and ACPM) produced ≥37% gingivitis reduction and shifted dysbiotic plaque microbiome toward healthy composition using a novel spike-in quantitative metagenomics method.
@@ -27,7 +26,6 @@ alcohol-containing EO mouthrinses (LCM and ACPM) produced ≥37% gingivitis redu
 (incomplete)
 
 ## 세줄요약
-
 
 병렬군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=153, 6주);
 

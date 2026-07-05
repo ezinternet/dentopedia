@@ -19,7 +19,6 @@ The wiki's OLP pages center on local disease behaviour — diagnostic criteria, 
 
 ## Three-line Summary
 
-
 Critical review (J Dent Res 2025) synthesizing recent (≤3 y) meta-analyses: OLP patients carry significantly elevated prevalence and risk of diabetes mellitus (PP 9.77%, OR 1.64), Hashimoto thyroiditis (8.60%, OR 2.2), hypo/hyperthyroidism, celiac disease (8.66%, OR 18.44), hepatitis C (7.14%, OR 4.09) and B, steatohepatitis, cirrhosis, and emotional disorders (depression 31%, anxiety 55%, stress 41%) — many comorbidities are asymptomatic and act as cancer risk factors, so OLP warrants oral-systemic vigilance.
 
 (incomplete)
@@ -27,7 +26,6 @@ Critical review (J Dent Res 2025) synthesizing recent (≤3 y) meta-analyses: OL
 (incomplete)
 
 ## 세줄요약
-
 
 구강편평태선(OLP) 환자는 당뇨·하시모토 갑상선염·셀리악병(OR 18.44)·C형간염(OR 4.09)·우울/불안/스트레스 등 전신질환 위험이 유의하게 높다 — 무증상·암 위험인자가 많아 치과의가 선별·의뢰해야 한다는 비판적 고찰.
 

@@ -19,7 +19,6 @@ Extends the ostium-patency risk story around sinus augmentation: this CBCT study
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (15 septa + 15 control sinuses, lateral-window SFE): post-op mucosal swelling peaks at 1 week — obstructing 3/15 infundibula in the septa group vs 5/15 in controls — and fully regresses by 9 months with no residual obstruction;
 
 septa presence did not worsen ostium involvement (though it caused 4 perforations vs 0).
@@ -27,7 +26,6 @@ septa presence did not worsen ostium involvement (though it caused 4 perforation
 (incomplete)
 
 ## 세줄요약
-
 
 후향 CBCT 연구(격막 15동 + 대조 15동, 측방창 상악동거상술): 술후 점막 부종은 1주에 최고조에 달해 격막군에서 3/15, 대조군에서 5/15의 자연공누두(infundibulum)를 폐색시켰으나, 9개월 후 완전히 정상으로 회귀하고 폐색은 사라졌다.
 

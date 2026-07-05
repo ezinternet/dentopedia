@@ -19,7 +19,6 @@ text_filename: nautiyal-2024-prevalence-keratosis-oral-cavity.txt
 
 ## Three-line Summary
 
-
 Retrospective clinical study of 144,056 South Indian dental patients (2019-2023) identified 5,613 (3.89%) with an innocuous keratotic white lesion — frictional keratosis (71.65%), tobacco pouch keratosis (27.38%), or morsicatio buccarum (0.9%) — all significantly more common in men, distinguishing these benign entities from oral potentially malignant white lesions.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective clinical study of 144,056 South Indian dental patients (2019-2023)
 (incomplete)
 
 ## 세줄요약
-
 
 2019-2023년 남인도 치과 환자 144,056명 대상 후향적 연구에서 5,613명(3.89%)이 양성 각화성 백색병소(마찰성 각화증 71.65%, 담배쌈지각화증 27.38%, 교흔/morsicatio buccarum 0.9%)를 보였으며, 모두 남성에서 유의하게 더 흔했고 잠재적 악성 백색병소와 구분되는 양성 소견임을 확인했다.
 

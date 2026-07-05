@@ -18,7 +18,6 @@ text_filename: oliveira-2024-periodontal-host-modulation-avocado-soybean.txt
 
 ## Three-line Summary
 
-
 Animal study (rat ligature periodontitis + experimental arthritis, n=60): adjunctive avocado/soybean unsaponifiables (ASU, 0.6 mg/kg gavage) after scaling reduced periodontal bone loss and improved healing, blunting the worse outcomes seen in arthritic animals.
 
 (incomplete)
@@ -26,7 +25,6 @@ Animal study (rat ligature periodontitis + experimental arthritis, n=60): adjunc
 (incomplete)
 
 ## 세줄요약
-
 
 동물실험(쥐 결찰 치주염 + 실험적 관절염, n=60): 스케일링 후 보조 ASU(아보카도/대두 불검화물, 0.6 mg/kg 위관투여)가 치주 골소실을 줄이고 치유를 개선했으며, 관절염 동물에서 악화된 결과를 완화함.
 

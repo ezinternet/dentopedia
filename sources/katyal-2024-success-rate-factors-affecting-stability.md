@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (14 studies, n=1683 infrazygomatic crest miniscrews): pooled success 92% (95% CI 87–95%;
 
 I²=80%), rising to 94% in studies with >100 screws;
@@ -23,7 +22,6 @@ I²=80%), rising to 94% in studies with >100 screws;
 no significant age–success relation and only limited correlation for other host/implant factors.
 
 ## 세줄요약
-
 
 SR+MA (14편·관골하능 미니스크루 1683개): 통합 성공률 92% (95% CI 87–95%, I²=80%), 표본 >100 연구에서는 94%;
 

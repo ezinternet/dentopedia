@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Periodontology 2000, 27 pages) comprehensively cataloguing diagnostic measures — periodontal and peri-implant probing, bleeding on probing, intraoral radiography, crevicular/salivary biomarkers, microbiology, resonance frequency analysis (ISQ), ultrasound — alongside patient compliance data, periodontal/peri-implant stability criteria, the SPT interval algorithm (perio-tools.com/spt), and the PRA/IDRA risk tools, framed around lifelong follow-up after active treatment.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Periodontology 2000, 27 pages) comprehensively cataloguing dia
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰(Periodontology 2000, 27쪽) — 치주·임플란트 평생 유지관리의 진단 도구 전체(탐침·BoP·방사선·바이오마커·미생물 검사·RFA·초음파)와 환자 순응도 데이터, 안정성 기준, SPT 주기 계산 알고리즘(perio-tools.com/spt), PRA·IDRA 위험도 평가 도구를 통합 정리.
 

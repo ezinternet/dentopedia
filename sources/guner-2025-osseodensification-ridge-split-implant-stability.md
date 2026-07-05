@@ -19,7 +19,6 @@ Rittipakorn-2025 clockwise OD cadaveric study의 reference surveillance 인제�
 
 ## Three-line Summary
 
-
 Retrospective study (n=268 implants, 65 patients) comparing OD vs conventional Esset kit in ridge-split procedures: OD significantly improved stability in maxilla and mandibular posterior, with all OD implants maintaining ISQ ≥65;
 
 bone gain was equivalent.
@@ -27,7 +26,6 @@ bone gain was equivalent.
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 연구(268개 임플란트, 65명): OD는 상악 및 하악 구치부에서 유의하게 높은 ISQ를 보였고 모든 OD 임플란트가 ISQ ≥65를 유지했으나, 골폭 획득은 기존 방법과 동등했다.
 

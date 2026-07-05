@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+Retrospective human retrieval study (Journal Biomedical Materials Research B 2015; 93 Bicon plateau root form implants collected over ~15 years, functional loading range 120 days to ~18 years) analyzing bone-to-implant contact (BIC) and bone area fraction occupancy (BAFO) via undecalcified histomorphometry.
 
-Human retrieval study of 93 plateau root form implants (Bicon, 120 days–~18 years in function) showing that BIC and BAFO increase progressively over functional loading time, independently of implant design and clinical variables.
+Both BIC and BAFO increased significantly and progressively with functional loading time; this time-dependent improvement was statistically independent of implant surface type, diameter, length, jaw location, and region (anterior/posterior).
 
-(incomplete)
-
-(incomplete)
+Progressive osseointegration over long-term loading supports the biomechanical adaptation hypothesis: bone remodels toward higher contact and occupancy under sustained functional loading, suggesting that osseointegration is an active, continuing process rather than a static state achieved at initial healing.
 
 ## 세줄요약
 
+후향적 인간 회수 연구(Journal Biomedical Materials Research B 2015; Bicon 고원형 임플란트 93개, ~15년 동안 수집, 기능 부하 120일~18년): 무광화(undecalcified) 조직형태계측으로 골-임플란트 접촉률(BIC)·골면적분율(BAFO) 분석.
 
-인간 회수 임플란트 93개(Bicon, 기능 부하 120일~약 18년)를 조직형태계측으로 분석하여 BIC와 BAFO가 임플란트 디자인·임상 변수와 무관하게 기능 부하 시간에 따라 점진적으로 증가함을 입증한 후향적 회수 연구.
+BIC와 BAFO는 모두 기능 부하 시간에 따라 유의하고 점진적으로 증가; 임플란트 표면 유형·지름·길이·악궁·부위(전방·후방)와 무관하게 시간 의존적 개선 통계적 입증.
 
-(incomplete)
-
-(incomplete)
+장기간 부하 하의 점진적 골유착은 생역학적 적응 가설 지지 — 골은 지속적 기능 부하 하에 접촉률·점유율 증가로 재형성되어, 골유착이 정적 상태 아닌 활동적·지속 과정임을 시사.
 
 ## 1. Document Information
 

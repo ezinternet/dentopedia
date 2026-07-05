@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n=32) comparing settling effect (axial displacement) across four internal implant–abutment connection types (internal hex, internal octagon, Morse hex 6°, Morse hex 11°) at three torque levels (20, 25, 30 Ncm);
 
 octagon showed consistently the least settling and internal hexagon the most.
@@ -23,7 +22,6 @@ octagon showed consistently the least settling and internal hexagon the most.
 (incomplete)
 
 ## 세줄요약
-
 
 내부 연결형 임플란트 4종(내부 육각, 내부 팔각, 모스테이퍼 6°·11°)에서 반복 토크(20·25·30 Ncm) 적용 시 안착 효과(axial displacement)를 비교한 in vitro 연구(n=32);
 

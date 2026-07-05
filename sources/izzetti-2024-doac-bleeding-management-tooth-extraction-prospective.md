@@ -19,7 +19,6 @@ text_filename: izzetti-2024-doac-bleeding-management-tooth-extraction-prospectiv
 
 ## Three-line Summary
 
-
 Prospective cohort (n=49 DOAC patients, 136 extractions): ~50% had intra-/early peri-op bleeding peaking day 1 post-op, but all episodes were mild and controlled with local hemostasis;
 
 DOAC suspension did NOT reduce post-operative bleeding, while >3 teeth, flap elevation, and osteotomy raised bleeding rates.
@@ -27,7 +26,6 @@ DOAC suspension did NOT reduce post-operative bleeding, while >3 teeth, flap ele
 (incomplete)
 
 ## 세줄요약
-
 
 전향코호트(DOAC 49명·발치 136개): 약 50%에서 술중·초기 술후 출혈(1일째 최고)이 있었으나 모두 경미하고 국소지혈(거즈압박·트라넥삼산)로 조절됐고, DOAC 중단은 술후 출혈을 줄이지 못함.
 

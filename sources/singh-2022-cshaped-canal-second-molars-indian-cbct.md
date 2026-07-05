@@ -15,7 +15,6 @@ Adds an Indian-subpopulation (Greater Noida) CBCT data point and uniquely covers
 
 ## Three-line Summary
 
-
 CBCT cross-sectional study (500 Indian patients, Greater Noida): overall C-shaped canal prevalence 22% in second molars (maxillary 25.1% vs mandibular 18.9%, NS);
 
 most common configuration continuous/Category 1 (52.7%), then semicolon (37.3%) and separate (10%).
@@ -23,7 +22,6 @@ most common configuration continuous/Category 1 (52.7%), then semicolon (37.3%) 
 (incomplete)
 
 ## 세줄요약
-
 
 인도(그레이터 노이다) 환자 500명 CBCT 단면 연구 — 제2대구치 C-shaped canal 전체 유병률 22%(상악 25.1% vs 하악 18.9%, 유의차 없음), 가장 흔한 형태는 연속형(Category 1, 52.7%), 이어 세미콜론형(37.3%)·분리형(10%).
 

@@ -15,7 +15,6 @@ Attachment system selection for implant-supported mandibular overdentures is a c
 
 ## Three-line Summary
 
-
 SR+MA of 25 RCTs (2154 implants, 737 overdentures) found high implant (98%) and prosthesis (95.8%) survival regardless of attachment type, with LOCATOR having fewest prosthetic complications and magnets having 7.4× more than other attachments.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 25 RCTs (2154 implants, 737 overdentures) found high implant (98%) and 
 (incomplete)
 
 ## 세줄요약
-
 
 25개 RCT를 포함한 SR+MA (임플란트 2154개, 피개의치 737개)에서 어태치먼트 종류와 무관하게 임플란트 98%, 피개의치 95.8%의 높은 생존율을 보였으며, LOCATOR가 보철 합병증이 가장 적고 마그넷은 다른 어태치먼트보다 7.4배 높은 보철 합병증을 나타냈다.
 

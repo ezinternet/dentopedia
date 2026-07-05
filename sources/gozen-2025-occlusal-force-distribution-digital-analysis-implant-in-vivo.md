@@ -19,7 +19,6 @@ text_filename: gozen-2025-occlusal-force-distribution-digital-analysis-implant-i
 
 ## Three-line Summary
 
-
 Prospective in-vivo study (n=18 analyzed, 20 enrolled) comparing Medit i700 IOS (contact area) vs OccluSense (contact area + force) before/after single posterior implant single-crown restoration: occlusal force redistributes across the whole arch (anterior + posterior contact/force decrease, opposing arch + total increase;
 
 posterior drop > anterior), and the two digital methods correlate strongly (Kendall's Tau-B, p<0.001).
@@ -27,7 +26,6 @@ posterior drop > anterior), and the two digital methods correlate strongly (Kend
 (incomplete)
 
 ## 세줄요약
-
 
 전향 임상연구(분석 18명, 등록 20명) — 단일 구치부 임플란트 단일치관 수복 전후를 Medit i700 IOS(접촉면적)와 OccluSense(접촉면적+교합력)로 비교: 수복 후 교합력이 전악으로 재분배(전·후방 접촉/힘 감소, 대합치·전체 증가;
 

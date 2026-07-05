@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Paired-site human cadaveric tibia study (40 Osstem TS III implants, D3/D4 low-density bone) comparing a novel **clockwise osseodensification (CW-OD, 800 rpm)** vs standard drilling (SD): OD gave higher but non-significant mean ISQ (67.5 vs 62.9, p=0.077) and insertion torque (34.0 vs 29.5 Ncm, p=0.052), with tighter IQR and a significant IT–ISQ correlation only in OD (ρ=0.577, p=0.0077).
 
 (incomplete)
@@ -23,7 +22,6 @@ Paired-site human cadaveric tibia study (40 Osstem TS III implants, D3/D4 low-de
 (incomplete)
 
 ## 세줄요약
-
 
 사람 경골(tibia) 사체 짝지음-부위 연구(임플란트 40개, D3/D4 저밀도골)로 **시계방향 골밀도화(CW-OD, 800 rpm)** vs 표준 드릴링(SD) 비교: OD가 평균 ISQ(67.5 vs 62.9, p=0.077)·삽입토크(34.0 vs 29.5 Ncm, p=0.052)가 더 높았으나 통계적으로 비유의했고, 사분위범위(IQR)는 더 좁았으며 IT–ISQ 상관은 OD에서만 유의(ρ=0.577, p=0.0077)했다.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (39 in-vitro/in-vivo studies) finding that simpler preparation geometry, greater total occlusal convergence (TOC), anatomic occlusal reduction, supragingival/chamfer finish lines, and wider interdental space all improve intraoral scanner (IOS) accuracy for tooth-supported restorations;
 
 existing foundation restorations and apical finish-line locations reduce it.
@@ -23,7 +22,6 @@ existing foundation restorations and apical finish-line locations reduce it.
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(39편): 형성 형태가 단순할수록, 축면 경사(TOC)가 클수록, 교합면을 해부학적으로 삭제할수록, finish line이 치은연 위·chamfer 형태일수록, 인접치와의 간격이 넓을수록 구강스캐너(IOS) 정확도가 좋아지고, 기존 코어 수복물·치은연하 finish line은 정확도를 떨어뜨린다.
 

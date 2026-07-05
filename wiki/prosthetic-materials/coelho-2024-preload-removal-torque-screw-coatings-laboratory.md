@@ -34,7 +34,6 @@ PTFE 테이프는 프리로드를 유의하게 감소(28.88 vs 30.41 N·cm, p=0.
 
 PTFE 테이프는 임상에서 흔히 사용되나 조임력을 오히려 약화시키므로 금기; GapSeal은 어버트먼트 나사 체결 전 임플란트 내부에 적용하여 프리로드 손실 없이 나사 이완 방지 가능.
 
-
 ## Summary
 
 This laboratory study compared two chairside screw coating materials — GapSeal silicone sealing gel and PTFE (polytetrafluoroethylene) tape — against an uncoated control for their effect on implant-abutment screw preload and removal torque value (RTV). Forty-five external hexagonal implant-abutment-screw complexes (DIUIMPLANT, Korea) were equally divided into three groups (n=15). Screws were torqued to 30 N·cm (manufacturer recommendation) and preload was recorded with a high-precision force gauge (1000 Hz); RTV was measured immediately after tightening.

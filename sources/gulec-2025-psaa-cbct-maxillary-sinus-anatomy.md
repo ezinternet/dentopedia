@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (n=255, 510 sinuses, Turkey) mapping the posterior superior alveolar artery (PSAA): bilateral prevalence 70.2%, predominantly intraosseous type, diameter <1 mm in ~55%, mean distance to alveolar crest ~16 mm — critical preoperative landmarks for lateral sinus lift vascular complication prevention.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective CBCT study (n=255, 510 sinuses, Turkey) mapping the posterior supe
 (incomplete)
 
 ## 세줄요약
-
 
 후향 CBCT 연구 (255명, 510개 상악동): 후상치조동맥 (Posterior Superior Alveolar Artery, PSAA) 양측 유병률 70.2%, 골내형 (intraosseous) 우세, 직경 <1 mm 약 55%, 치조정까지 평균 거리 ~16 mm — 측방 상악동 거상술 혈관 합병증 예방을 위한 수술 전 CBCT 핵심 지표.
 

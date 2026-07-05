@@ -19,7 +19,6 @@ RCT (Kim 2025, n=60) that uses the **toothpick method (TPM)** of professional to
 
 ## Three-line Summary
 
-
 Double-blind RCT (n=60: CB-TPM 21 / chlorhexidine-TPM 20 / saline-TPM 19), all delivered by the toothpick method — only CB-TPM reduced salivary occult blood (Cohen's d = 1.148) and uniquely produced large-effect (d >= 0.8) reductions in P.
 
 micra, T.
@@ -27,7 +26,6 @@ micra, T.
 forsythia, and P. intermedia, positioning natural CB extract + TPM as a side-effect-free non-surgical option for peri-implant mucositis.
 
 ## 세줄요약
-
 
 이중맹검 RCT(n=60: CB-TPM 21 / 클로르헥시딘-TPM 20 / 생리식염수-TPM 19) — 세 군 모두 토스픽 방법(TPM)으로 전달했을 때, CB-TPM만 타액 잠혈을 감소(Cohen's d=1.148)시켰고 P.
 

@@ -19,7 +19,6 @@ Sealant 감시 인제스트 — 치면열구전색 (Pit-and-Fissure Sealant, PFS
 
 ## Three-line Summary
 
-
 SR+MA (4 RCTs, 1249 children, all 24-month follow-up): pit-and-fissure resin sealant and fluoride varnish show **no significant difference** in caries prevention of first permanent molars (caries-increment RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%;
 
 DMFS MD 0.09, 95% CI -0.03 to 0.21), so FV is favored as cheaper/easier.
@@ -27,7 +26,6 @@ DMFS MD 0.09, 95% CI -0.03 to 0.21), so FV is favored as cheaper/easier.
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (RCT 4편, 어린이 1249명, 모두 24개월 추적): 제1대구치 우식예방에서 치면열구전색(레진계)과 불소바니시는 **유의한 차이 없음**(우식증가 RR 0.65, 95% CI 0.31-1.35, p=0.26, I²=89%;
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR + network meta-analysis (52 studies, 23 RCTs) ranking soft tissue phenotype modification techniques around implants: CTG/ADM bilaminar best for mucosal thickness gain;
 
 APF+FGG best for keratinized mucosa width gain;
@@ -23,7 +22,6 @@ APF+FGG best for keratinized mucosa width gain;
 both improve peri-implant health markers.
 
 ## 세줄요약
-
 
 52편(RCT 23편) 포함 SR+네트워크 메타분석 — 점막두께 증가에는 CTG·ADM 이층술이, 각화점막폭 증가에는 APF+FGG가 가장 효과적이며 두 접근 모두 임플란트 주위 건강 지표를 개선한다.
 

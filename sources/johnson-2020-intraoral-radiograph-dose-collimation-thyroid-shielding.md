@@ -18,7 +18,6 @@ text_filename: johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shield
 
 ## Three-line Summary
 
-
 Phantom dosimetry (adult + child, 7 collimator systems): best FMS = Focus-RC 54 µSv adult / 44 µSv child;
 
 circular collimation 86–89 µSv;
@@ -26,7 +25,6 @@ circular collimation 86–89 µSv;
 rectangular collimation outperforms thyroid shielding for thyroid dose reduction.
 
 ## 세줄요약
-
 
 팬텀 선량측정(성인·소아, 7개 조준 시스템): 최저 FMS = Focus-RC 54 µSv 성인 / 44 µSv 소아;
 

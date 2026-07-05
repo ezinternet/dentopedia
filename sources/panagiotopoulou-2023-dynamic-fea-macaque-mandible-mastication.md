@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 First dynamic 3D FEM of a primate (rhesus macaque) mandible over a complete unilateral chewing gape cycle, EMG/PCSA-driven muscle forces and validated against in vivo bone strain;
 
 peak strains/moments occur ~40% of the gape cycle and vary by food (nuts > grapes > dried fruit), with dynamic models capturing strain in mandibular regions static single-time-point FEMs miss.
@@ -23,7 +22,6 @@ peak strains/moments occur ~40% of the gape cycle and vary by food (nuts > grape
 (incomplete)
 
 ## 세줄요약
-
 
 영장류(붉은털원숭이) 하악의 완전한 편측 저작주기를 모델링한 최초의 동적 3D 유한요소모델(FEM) 연구.
 

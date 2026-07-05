@@ -34,7 +34,6 @@ SS는 LXR↔Hedgehog 상호 신호를 통해 PDLSC 골분화를 유도하고 발
 
 천연 BMP-2 대안 후보로 주목되나 소표본·단기·발치와 모델(진정한 치주 재생 평가 없음) 한계로 임상 적용 전 추가 연구 필요.
 
-
 ## Summary
 
 Periodontal regeneration needs osteoinductive factors; rhBMP-2 works but carries safety/cost concerns (ectopic bone, inflammation, resorption, carcinogenicity worries). This study tested a naturally occurring **oxysterol combination (SS)** — equimolar 22(S)-hydroxycholesterol + 20(S)-hydroxycholesterol — as a BMP-2 alternative, the first such test in a periodontal context. Using human PDLSCs (in-vitro) and a rat maxillary first-molar extraction-socket defect (in-vivo), SS induced osteogenic differentiation and socket bone fill at a level the authors describe as equivalent to rhBMP-2.

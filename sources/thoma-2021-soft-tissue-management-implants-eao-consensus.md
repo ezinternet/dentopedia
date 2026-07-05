@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 6th EAO consensus report (group 2;
 
 based on 3 systematic reviews + 1 critical review) concluding that soft tissue augmentation at immediate or delayed implant placement reduces mid-buccal recession and (at immediate placement) increases mucosal thickness in esthetic sites, with autologous grafts showing a consistent but non-significant tendency to outperform substitutes, and insufficient evidence on optimal timing.
@@ -23,7 +22,6 @@ based on 3 systematic reviews + 1 critical review) concluding that soft tissue a
 (incomplete)
 
 ## 세줄요약
-
 
 제6차 EAO 합의문(group 2;
 

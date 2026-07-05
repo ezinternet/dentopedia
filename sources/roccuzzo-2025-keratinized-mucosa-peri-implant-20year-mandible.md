@@ -15,7 +15,6 @@ The long-term causal role of keratinized mucosa (KM) absence on peri-implant dis
 
 ## Three-line Summary
 
-
 20-year prospective cohort (n=64, posterior mandible SLA tissue-level implants) shows implants lacking keratinized mucosa had 25% peri-implantitis rate vs.
 
 4.2% with keratinized tissue, and 100% soft-tissue dehiscence (REC ≥1 mm) rate, with free gingival grafting conferring a significant protective effect.
@@ -23,7 +22,6 @@ The long-term causal role of keratinized mucosa (KM) absence on peri-implant dis
 (incomplete)
 
 ## 세줄요약
-
 
 20년 전향적 코호트(n=64, 하악 구치부 조직수준 임플란트)에서 각화점막 없는 임플란트는 각화점막 있는 임플란트 대비 임플란트주위염 발생률이 25% 대 4.2%로 유의하게 높았으며, 연조직 열개 발생률이 100%에 달해 유리치은이식(FGG)의 예방 효과가 입증되었다.
 

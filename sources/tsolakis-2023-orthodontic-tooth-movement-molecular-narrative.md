@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-교정적 치아이동(OTM) 분자·생물학적 기전 및 바이오엔지니어링 개입 가능성 narrative review (Bioengineering 2023): OPG/RANK/RANKL triad, 외과적·약물·진동 방법, 줄기세포; 인체 연구 부족으로 임상 적용 제한적.
 
+교정적 치아이동(OTM) 분자·생물학적 기전 및 바이오엔지니어링 개입
+
+가능성 narrative review (Bioengineering 2023): OPG/RANK/RANKL triad,
+
+외과적·약물·진동 방법, 줄기세포; 인체 연구 부족으로 임상 적용 제한적.
+
+## 세줄요약
+
+교정적 치아이동(OTM) 분자·생물학적 기전 및 바이오엔지니어링 개입
+
+가능성 narrative review (Bioengineering 2023): OPG/RANK/RANKL triad,
+
+외과적·약물·진동 방법, 줄기세포; 인체 연구 부족으로 임상 적용 제한적.
 
 ## 1. Document Information
 - **Journal**: Bioengineering 2023, 10, 1275

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 PCT patent (WO 2017/124079 A1;
 
 applicant Huwais IP Holding LLC, inventor Salah Huwais) for the osseodensification "Densah/Versah" rotary osteotome — a tapered multi-fluted bur whose key improvement is a *continuously negative rake angle*, with each flute carrying a cutting face and an opposing densifying face so the same tool cuts when rotated clockwise and condenses/autografts bone hydraulically when rotated counterclockwise.
@@ -23,7 +22,6 @@ applicant Huwais IP Holding LLC, inventor Salah Huwais) for the osseodensificati
 (incomplete)
 
 ## 세줄요약
-
 
 Huwais IP Holding LLC / 발명자 Salah Huwais의 PCT 특허(WO 2017/124079): 골밀도화 Densah/Versah 회전 osteotome.
 

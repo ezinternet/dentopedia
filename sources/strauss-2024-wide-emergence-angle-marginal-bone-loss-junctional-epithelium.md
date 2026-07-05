@@ -19,7 +19,6 @@ text_filename: strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-e
 
 ## Three-line Summary
 
-
 Preclinical RCT (6 mongrel dogs, 48 implant sites, 4 emergence-angle groups 20/40/60/80°, 24 wk): wider restorative emergence angle progressively increased marginal bone loss (24-wk MBL ~4× higher at 80° vs 20°) and ≥60° angles impaired junctional-epithelium continuity, supporting keeping the angle <40°.
 
 (incomplete)
@@ -27,7 +26,6 @@ Preclinical RCT (6 mongrel dogs, 48 implant sites, 4 emergence-angle groups 20/4
 (incomplete)
 
 ## 세줄요약
-
 
 전임상 RCT (개 6마리, 임플란트 48부위, emergence angle 20/40/60/80° 4군, 24주): 보철 emergence angle이 넓을수록 변연골소실이 단계적으로 증가했고(80°군 24주 MBL이 20°군의 약 4배), 60° 이상 광각은 접합상피(junctional epithelium) 연속성을 손상시켜 — 각도를 40° 미만으로 유지할 것을 뒷받침.
 

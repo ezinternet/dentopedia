@@ -19,7 +19,6 @@ Prior irrigation-activation evidence on our shelf ([[endodontics/irrigation/paix
 
 ## Three-line Summary
 
-
 Single-blind RCT (n=45, 15/group) — in single-visit RCT of asymptomatic necrotic mandibular first molars, both PUI and side-vented needle irrigation lowered postoperative pain, swelling, and analgesic use vs conventional needle irrigation at 24–72 h, with no PUI-vs-SNI difference.
 
 (incomplete)
@@ -27,7 +26,6 @@ Single-blind RCT (n=45, 15/group) — in single-visit RCT of asymptomatic necrot
 (incomplete)
 
 ## 세줄요약
-
 
 단일맹검 RCT (n=45, 군당 15명) — 무증상 괴사 하악 제1대구치 단일내원 근관치료에서 수동초음파세정(PUI)과 측방배출침세정(SNI) 모두 24~72시간 수술후 통증·부종·진통제 사용을 일반침세정(CNI)보다 낮췄고, PUI와 SNI 간 차이는 없었다.
 

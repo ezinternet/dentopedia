@@ -35,7 +35,6 @@ CoQ10은 5개 지표 모두 유의하게 개선(치주낭 SMD −0.96, 출혈 �
 
 친-CoQ10 결론은 투여 경로 혼합·비뚤림 연구 효과 과대의 결과일 가능성; 신형 route-stratified SR (Fernandez 2025)은 gel 경로 무효 보고 — 본 페이지는 이 증거 쌍의 주의 사례.
 
-
 ## Summary
 
 This 2022 SR+MA pooled **11 controlled trials** and concluded **in favour of CoQ10 gel** ("our findings encourage administration of coenzyme Q10 gel"), reporting significant improvements across five indices — Plaque Index, Bleeding Index, Pocket Depth, CAL, and Gingival Index — with a subgroup signal that intra-pocket delivery outperforms topical.

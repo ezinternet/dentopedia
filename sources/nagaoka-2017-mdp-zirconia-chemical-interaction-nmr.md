@@ -19,7 +19,6 @@ This paper supplies the atomic-level mechanistic basis for why 10-MDP-containing
 
 ## Three-line Summary
 
-
 In-vitro NMR mechanistic study (¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR) showing 10-MDP binds zirconia via both ionic (deprotonated P-O⁻ ↔ partial-positive Zr) and hydrogen bonding (P=O / non-deprotonated P-OH ↔ Zr-OH), with concentration-dependent shear bond strength;
 
 the "ionic-only" hypothesis was rejected.
@@ -27,7 +26,6 @@ the "ionic-only" hypothesis was rejected.
 (incomplete)
 
 ## 세줄요약
-
 
 10-MDP가 지르코니아에 어떻게 결합하는지 핵자기공명(¹H/³¹P MAS NMR + 2D ¹H→³¹P HETCOR)으로 원자 수준에서 규명한 in-vitro 연구.
 

@@ -19,7 +19,6 @@ text_filename: rajan-2025-doxycycline-safety-children-dental-sr.txt
 
 ## Three-line Summary
 
-
 SR+MA (5 studies, n=162 children <8 years): short-course doxycycline (median 8.5 days) caused dental staining in only 1/162 children (0.62%), with pooled adverse event proportion of 0.21 (95% CI: 0.13–0.28), supporting revised AAP/CDC guidance permitting doxycycline in young children for life-threatening indications.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA (5 studies, n=162 children <8 years): short-course doxycycline (median 8.5
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (5개 연구, n=162명, 8세 미만): 단기 독시사이클린(doxycycline, Doxy) 투여(중앙값 8.5일) 후 치아 착색(tooth staining)은 162명 중 1명(0.62%)에서만 발생했으며, 통합 이상반응 비율 0.21 (95% CI: 0.13–0.28)로, AAP/CDC의 생명위협적 적응증에서의 소아 사용 지침 개정을 지지한다.
 

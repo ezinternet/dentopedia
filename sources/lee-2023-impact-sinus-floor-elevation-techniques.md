@@ -17,7 +17,6 @@ OMS 상악동거상술 (Sinus Floor Elevation, SFE) 개요의 "예방 축(preven
 
 ## Three-line Summary
 
-
 SR + NMA (85 studies, 5,551 SFE procedures): rotary burs in LSFE carry the highest SMP risk (SUCRA 0.0745) while reamers in TSFE have the lowest (SUCRA 0.9444);
 
 each 10% increase in SMP rate reduces implant survival (OR = 0.45, 95% CrI: 0.21–0.71).
@@ -25,7 +24,6 @@ each 10% increase in SMP rate reduces implant survival (OR = 0.45, 95% CrI: 0.21
 (incomplete)
 
 ## 세줄요약
-
 
 SR+NMA (85연구, 5,551술식): 측방창에서 회전 버 (Rotary Bur)가 SMP 위험 최고(SUCRA 0.0745), 경치조골에서 리머 (Reamer)가 최저(SUCRA 0.9444);
 

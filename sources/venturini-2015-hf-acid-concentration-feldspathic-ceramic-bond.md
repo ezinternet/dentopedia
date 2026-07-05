@@ -15,7 +15,6 @@ HF 산 농도가 장석계 세라믹의 레진 접착 내구성에 미치는 영
 
 ## Three-line Summary
 
-
 In vitro RCT (n=40 blocks, Vita Mark II): HF ≥3% provides durable resin bond to feldspathic ceramic after 230-day aging + 12,000 thermocycles, while 1% HF shows significant bond strength degradation.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro RCT (n=40 blocks, Vita Mark II): HF ≥3% provides durable resin bond t
 (incomplete)
 
 ## 세줄요약
-
 
 In vitro (n=40, Vita Mark II): HF 농도 3% 이상에서 장기 열순환 후에도 레진 접착력 유지;
 

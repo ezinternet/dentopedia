@@ -15,7 +15,6 @@ Symptomatic irreversible pulpitis (SIP)의 "hot tooth" IANB 실패율(literature
 
 ## Three-line Summary
 
-
 Double-blind RCT (n=45, 15/group), IANB in mandibular molar with symptomatic irreversible pulpitis: buffered 2% lidocaine gave the highest anesthetic success (84.2% per Table 2;
 
 abstract states 86.2%) vs precooled 72.0% (abstract 78.9%) vs conventional 36.8% (abstract 38.9%), with buffered also showing fastest onset (61.1 s vs 79.6 s precooled vs 139.6 s conventional, p<0.001) and longest duration (313.8 min vs 278 vs 193.3 min).
@@ -23,7 +22,6 @@ abstract states 86.2%) vs precooled 72.0% (abstract 78.9%) vs conventional 36.8%
 (incomplete)
 
 ## 세줄요약
-
 
 이중맹검 RCT (n=45, 군당 15명), 증후성 비가역치수염(SIP) 하악 대구치 IANB: buffered 2% 리도카인이 마취 성공률 최고(Table 2 기준 84.2%, 초록은 86.2%) > precooled 72.0%(초록 78.9%) > conventional 36.8%(초록 38.9%);
 

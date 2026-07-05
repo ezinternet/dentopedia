@@ -19,7 +19,6 @@ text_filename: kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-m
 
 ## Three-line Summary
 
-
 Frequentist network meta-analysis (10 RCTs qualitative, 5 quantitative, n=347): single-dose oral analgesics after non-surgical RCT — Diclofenac+Acetaminophen best for immediate (6–8 h) relief (MD −6.28), Novafen and Naproxen sustained at 12–24 h.
 
 (incomplete)
@@ -27,7 +26,6 @@ Frequentist network meta-analysis (10 RCTs qualitative, 5 quantitative, n=347): 
 (incomplete)
 
 ## 세줄요약
-
 
 네트워크 메타분석 (RCT 10편 정성·5편 정량, n=347): 비수술 근관치료 후 단회투여 경구 진통제 중 디클로페낙+아세트아미노펜이 즉각(6–8h) 진통 최고(MD −6.28), 노바펜·나프록센이 12–24h 지속 효과 우수.
 

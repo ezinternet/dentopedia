@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review (Cureus 2024, 9 studies from 2,279 hits): piezosurgery significantly reduces postoperative pain but produces higher intraoperative bone temperatures during osteotomy than conventional rotary drilling — a clear pain-vs-heat trade-off.
+
+Systematic review (Cureus 2024, 9 studies from 2,279 hits): piezosurgery
+
+significantly reduces postoperative pain but produces higher intraoperative bone temperatures
+
+during osteotomy than conventional rotary drilling — a clear pain-vs-heat trade-off.
+
+## 세줄요약
+
+체계적 고찰 (SR) (Cureus 2024, 9 studies from 2,279 hits): piezosurgery
+
+유의미한ly reduces postoperative pain but produces higher intraoperative bone temperatures
+
+during osteotomy than conventional rotary drilling — a clear pain-vs-heat trade-off.
 
 ## 1. Document Information
 - Journal: Cureus, October 2024

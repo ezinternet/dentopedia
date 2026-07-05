@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-J Prosthodont Res 2013: narrative review — Y-TZP/Ce-TZP properties, CAD/CAM workflow, zirconia-veneer bond (chipping main complication), zirconia-resin bond (MDP primer required), surface finish + enamel wear, clinical outcomes.
 
+J Prosthodont Res 2013: narrative review — Y-TZP/Ce-TZP properties,
+
+CAD/CAM workflow, zirconia-veneer bond (chipping main complication), zirconia-resin bond
+
+(MDP primer required), surface finish + enamel wear, clinical outcomes.
+
+## 세줄요약
+
+J Prosthodont Res 2013: narrative review — Y-TZP/Ce-TZP properties,
+
+CAD/CAM workflow, zirconia-veneer bond (chipping main complication), zirconia-resin bond
+
+(MDP primer required), surface finish + enamel wear, clinical outcomes.
 
 ## 1. Key Results
 - Y-TZP: best mechanical properties among dental ceramics; Ce-TZP/Al2O3: highest fracture toughness

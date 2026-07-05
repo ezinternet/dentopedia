@@ -17,7 +17,20 @@ source_collection: external
 균열치 증후군 (Cracked Tooth Syndrome, CTS) 치료법의 **umbrella review (SR of SRs)** — 분야 최고 evidence-level. [[cracked-tooth/jkda-2024-62-1-003·004·005]] 진단·치료 review와 결합해 cracked-tooth cluster를 완성 (한국 review + 국제 SR).
 
 ## Three-line Summary
-Umbrella review (Manipal College of Dental Sciences, JCDE 2026): 4 SR (30 primary studies, 45 entries) 통합 — **endodontic therapy + full cuspal coverage가 최고 prognosis**. PROSPERO registered, AMSTAR-2 평가, CCA 17% (높은 overlap).
+
+Umbrella review (Manipal College of Dental Sciences, JCDE 2026): 4 SR
+
+(30 primary studies, 45 entries) 통합 — **endodontic therapy + full
+
+cuspal coverage가 최고 prognosis**. PROSPERO registered, AMSTAR-2 평가, CCA 17% (높은 overlap).
+
+## 세줄요약
+
+Umbrella review (Manipal College of Dental Sciences, JCDE 2026): 4 SR
+
+(30 primary studies, 45 entries) 통합 — **endodontic therapy + full
+
+cuspal coverage가 최고 prognosis**. PROSPERO registered, AMSTAR-2 평가, CCA 17% (높은 overlap).
 
 ## 1. Document Information
 저자: Manipal College of Dental Sciences (인도). PROSPERO CRD420250648720. PRISMA 2020. JCDE = Journal of Conservative Dentistry and Endodontics.

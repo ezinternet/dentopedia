@@ -19,7 +19,6 @@ text_filename: tan-2020-maxillary-antrolith-case-report-management.txt
 
 ## Three-line Summary
 
-
 Case report of an asymptomatic 3.1×3.6mm maxillary antrolith (incidental CBCT finding in a 67-year-old pre-Denosumab patient) managed with Caldwell-Luc excision;
 
 literature review confirms small asymptomatic antroliths do not require prophylactic removal.
@@ -27,7 +26,6 @@ literature review confirms small asymptomatic antroliths do not require prophyla
 (incomplete)
 
 ## 세줄요약
-
 
 67세 여성 데노수맙 치료 전 CBCT에서 우연히 발견된 3.1×3.6mm 무증상 상악동석 증례;
 

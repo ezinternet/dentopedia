@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR(36개 연구, 2732 상악동): 최소 침습 VSA(27개)·LSA(8개) 기법 분류 — 잔존 골높이 ≥5mm: VSA 적용, <5mm: LSA 적용; 최소 침습 기법 모두 충분한 골증량 및 임플란트 성공 달성.
 
+SR(36개 연구, 2732 상악동)
+
+최소 침습 VSA(27개)·LSA(8개) 기법 분류 — 잔존 골높이 ≥5mm
+
+VSA 적용, <5mm: LSA 적용; 최소 침습 기법 모두 충분한 골증량 및 임플란트 성공 달성.
+
+## 세줄요약
+
+SR(36개 연구, 2732 상악동)
+
+최소 침습 VSA(27개)·LSA(8개) 기법 분류 — 잔존 골높이 ≥5mm
+
+VSA 적용, <5mm: LSA 적용; 최소 침습 기법 모두 충분한 골증량 및 임플란트 성공 달성.
 
 ## 1. Document Information
 - **Journal**: Clinical Implant Dentistry and Related Research 2025;27:e13403

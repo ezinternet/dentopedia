@@ -19,7 +19,6 @@ The interdental-cleaning collection has efficacy and head-to-head device RCTs bu
 
 ## Three-line Summary
 
-
 Case report (n=1, France 2026): a 48-yo myeloma/auto-HSCT patient developed fatal-risk nosocomial Legionnaires' disease whose Lp1 isolate had an *identical* whole genome (sequence type 42) to Lp1 cultured from his home water flosser (300 CFU/L) while all hospital water sources tested negative — first literature evidence that nonsterile-water water flossers can aerosolize *Legionella* biofilm and infect immunocompromised patients.
 
 (incomplete)
@@ -27,7 +26,6 @@ Case report (n=1, France 2026): a 48-yo myeloma/auto-HSCT patient developed fata
 (incomplete)
 
 ## 세줄요약
-
 
 증례 보고 (n=1, 프랑스 2026): 골수종·자가조혈모세포이식 환자에서 발생한 병원내 레지오넬라병의 Lp1 균주가 환자 집 물치실(water flosser)에서 배양된 Lp1 (300 CFU/L)과 전장유전체가 동일(sequence type 42)했고 병원 수계는 전부 음성 — 비멸균 수돗물을 쓴 물치실이 레지오넬라 생물막을 에어로졸화해 면역저하 환자를 감염시킬 수 있음을 보인 첫 문헌 사례.
 

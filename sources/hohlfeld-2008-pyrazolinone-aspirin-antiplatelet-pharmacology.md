@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Human platelet in vitro study demonstrating that dipyrone (metamizole) and other pyrazolinones — via their active metabolite 4-methylaminoantipyrine (MAA) — block aspirin's COX-1 acetylation similarly to ibuprofen, through a hydrogen-bond interaction with serine-530.
+
+Human platelet in vitro study demonstrating that dipyrone (metamizole) and other pyrazolinones
+
+via their active metabolite 4-methylaminoantipyrine (MAA)
+
+block aspirin's COX-1 acetylation similarly to ibuprofen, through a hydrogen-bond interaction with serine-530.
+
+## 세줄요약
+
+Human platelet 시험관내 study demonstrating that dipyrone (metamizole) and other pyrazolinones
+
+via their active metabolite 4-methylaminoantipyrine (MAA)
+
+block aspirin's COX-1 acetylation similarly to ibuprofen, through a hydrogen-bond interaction with serine-530.
 
 ## 1. Document Information
 - **Journal**: Journal of Thrombosis and Haemostasis 2008;6:166–73

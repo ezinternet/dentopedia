@@ -18,7 +18,6 @@ Part of the "healing abutment (HA) reuse" controversy batch. [[infection-control
 
 ## Three-line Summary
 
-
 RCT on 90 implants + 90 HAs (80 patient-retrieved): repeated NaOCl-only cleaning progressively enlarged micro-gap/microleakage and shrank implant–HA contact surface, whereas combined chemical + electrochemical decontamination removed debris up to triple use without altering the surface, near the new-HA control — so Ti HA reuse is acceptable multiple times only with the combined protocol.
 
 (incomplete)
@@ -26,7 +25,6 @@ RCT on 90 implants + 90 HAs (80 patient-retrieved): repeated NaOCl-only cleaning
 (incomplete)
 
 ## 세줄요약
-
 
 RCT (임플란트 90 + 힐링어버트먼트 90개, 그중 80개는 환자에서 회수): NaOCl 단독 세척을 반복하면 micro-gap·미세누출이 점점 커지고 임플란트–HA 접촉면이 줄었지만, 화학 + 전기화학 병용 세척은 3회 재사용까지 표면 변화 없이 오염물을 제거해 신품 대조군에 근접 — 따라서 티타늄 HA 다회 재사용은 병용 프로토콜을 쓸 때만 허용된다.
 

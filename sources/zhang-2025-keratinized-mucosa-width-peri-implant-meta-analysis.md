@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 30 studies (n=1,773 subjects, 5,241 implants) showing that adequate KMW (≥2 mm) significantly reduces plaque index (MD −0.30), gingival index (MD −0.26), bleeding index (MD −0.20), and marginal bone loss (MD −0.27 mm) compared to KMW <2 mm, while probing depth and CAL differences were non-significant.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 30 studies (n=1,773 subjects, 5,241 implants) showing that adequate KMW
 (incomplete)
 
 ## 세줄요약
-
 
 30개 연구(1,773명, 임플란트 5,241개) 메타분석 결과, 각화점막 폭 ≥2 mm인 임플란트는 <2 mm 대비 치태지수(MD −0.30), 치은지수(MD −0.26), 출혈지수(MD −0.20), 변연골소실(MD −0.27 mm)이 유의하게 낮았으나 탐침깊이·임상부착수준 차이는 유의하지 않았다.
 

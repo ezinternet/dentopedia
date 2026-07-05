@@ -19,7 +19,6 @@ AMCOP (Cranium-Occluded-Postural Multifunctional Harmonizers) Bio-activators are
 
 ## Three-line Summary
 
-
 Case series (4 of 38 developing-dentition children, ages 7–10) plus literature review showing AMCOP elastodontic Bio-activators corrected Class I/II/III, deep-bite, open-bite and atypical-swallowing malocclusions with no follow-up fixed appliances, over ~12–20-month active+retention protocols.
 
 (incomplete)
@@ -27,7 +26,6 @@ Case series (4 of 38 developing-dentition children, ages 7–10) plus literature
 (incomplete)
 
 ## 세줄요약
-
 
 성장기 소아 4명(전체 38명 중, 7–10세) 증례 시리즈 + 문헌고찰로, AMCOP 탄성교정(elastodontic) Bio-activator가 1·2·3급, 과개교합, 개방교합, 비정상 연하를 약 12–20개월 능동+유지 프로토콜로 교정했고 추가 고정장치가 불필요했음을 보고.
 

@@ -19,7 +19,6 @@ Plaque disclosing agents are the patient-education backbone of any mechanical pl
 
 ## Three-line Summary
 
-
 Partially-blinded randomized crossover trial (n=11 healthy adults) comparing 3% erythrosine vs 3% D&C Red No.
 
 33 vs a mixed two-tone agent for plaque disclosure: erythrosine gave the highest plaque visibility but percentage plaque-index reduction was equivalent across all three, while D&C Red No.
@@ -27,7 +26,6 @@ Partially-blinded randomized crossover trial (n=11 healthy adults) comparing 3% 
 33 had the least residual staining, best taste, and easiest removal — supporting it as a patient-friendly, regulatory-safe alternative.
 
 ## 세줄요약
-
 
 무작위 교차 임상시험(건강 성인 11명)에서 3% 에리트로신(erythrosine), 3% D&C Red No.
 

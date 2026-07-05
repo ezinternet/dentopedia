@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cochrane systematic review on occlusal interventions for TMD; found very low to low certainty evidence that occlusal splints and adjustments provide modest benefit, with insufficient data to support irreversible occlusal modifications.
 
+Cochrane systematic review on occlusal interventions for TMD; found very
+
+low to low certainty evidence that occlusal splints and adjustments
+
+provide modest benefit, with insufficient data to support irreversible occlusal modifications.
+
+## 세줄요약
+
+Cochrane systematic review on occlusal interventions for TMD; found very
+
+low to low certainty evidence that occlusal splints and adjustments
+
+provide modest benefit, with insufficient data to support irreversible occlusal modifications.
 
 ## 1. Document Information
 - **Journal**: Cochrane Database of Systematic Reviews 2024;9:CD012850

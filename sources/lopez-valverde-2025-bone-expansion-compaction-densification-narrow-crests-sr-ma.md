@@ -19,7 +19,6 @@ The narrow (horizontally atrophic) alveolar crest is the exact "narrow ridge" sc
 
 ## Three-line Summary
 
-
 SR+MA (10 studies, n=241;
 
 PROSPERO CRD42025646738) — bone expansion/compaction/osteodensification in narrow (<=2.5 mm horizontal-atrophy) alveolar crests significantly favors the experimental group for BD (SMD -0.71, p=0.002), CE (SMD -1.12, p=0.04 after sensitivity test), and ISQ (SMD -8.88, p=0.0005), but with high heterogeneity and publication bias for CE and ISQ.
@@ -27,7 +26,6 @@ PROSPERO CRD42025646738) — bone expansion/compaction/osteodensification in nar
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (10편, n=241;
 

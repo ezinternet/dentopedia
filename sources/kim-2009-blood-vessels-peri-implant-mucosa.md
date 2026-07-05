@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Animal study in 6 dogs comparing peri-implant mucosal vascularity after flap vs flapless implant surgery, finding significantly greater vessel number and area fraction in flapless group (p<0.05).
 
+Animal study in 6 dogs comparing peri-implant mucosal vascularity
+
+after flap vs flapless implant surgery, finding significantly greater
+
+vessel number and area fraction in flapless group (p<0.05).
+
+## 세줄요약
+
+Animal study in 6 dogs comparing peri-implant mucosal vascularity
+
+after flap vs flapless implant surgery, finding 유의미한ly greater
+
+vessel number and area fraction in flapless group (p<0.05).
 
 ## 1. Document Information
 - **Journal**: Journal of the Korean Association of Oral and Maxillofacial Surgeons (대한구강악안면외과학회지) 2009;35:101-105

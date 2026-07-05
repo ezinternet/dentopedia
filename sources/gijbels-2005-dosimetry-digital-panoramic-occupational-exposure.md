@@ -17,7 +17,6 @@ text_filename: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.tx
 
 ## Three-line Summary
 
-
 In-vitro phantom study with 5 digital panoramic units: scatter dose at 1 m from unit was ≤0.60 μGy per exposure;
 
 500 panoramics/year yields 5–40 μSv annual occupational organ dose to operator.
@@ -25,7 +24,6 @@ In-vitro phantom study with 5 digital panoramic units: scatter dose at 1 m from 
 (incomplete)
 
 ## 세줄요약
-
 
 5종 디지털 파노라마 장치 팬텀 실험: 1 m 거리 산란선량 최대 0.60 μGy/촬영, 연간 500회 기준 술자 갑상선 5–15 μSv, 생식선 5–40 μSv 추가 피폭.
 

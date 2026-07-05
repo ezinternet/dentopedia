@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA: 임플란트 주위 각화조직 증대술(FGG/CTG)이 각화조직 폭 유의하게 증가시킴; 각화조직 부족 시 임플란트 주위 건강에 부정적 영향; 각화조직 ≥2mm 유지가 임플란트 장기 건강에 유리.
 
+SR+MA: 임플란트 주위 각화조직 증대술(FGG/CTG)이 각화조직 폭 유의하게 증가시킴
+
+각화조직 부족 시 임플란트 주위 건강에 부정적 영향
+
+각화조직 ≥2mm 유지가 임플란트 장기 건강에 유리.
+
+## 세줄요약
+
+SR+MA: 임플란트 주위 각화조직 증대술(FGG/CTG)이 각화조직 폭 유의하게 증가시킴
+
+각화조직 부족 시 임플란트 주위 건강에 부정적 영향
+
+각화조직 ≥2mm 유지가 임플란트 장기 건강에 유리.
 
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2018;29(Suppl. 15):32-49

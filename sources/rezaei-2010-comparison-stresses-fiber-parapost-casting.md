@@ -19,7 +19,6 @@ ParaPost 제품(Coltène/Whaledent 티타늄 기성 포스트)의 생체역학�
 
 ## Three-line Summary
 
-
 In-vitro photoelastic bench study (PSM-5 blocks, 3 groups × 3): rigid ParaPost (metal) concentrates high stress apically under vertical load and cervically under oblique load, whereas fiber and cast posts distribute stress evenly — but the 1.25 mm fiber post fractured below 90 N oblique load.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro photoelastic bench study (PSM-5 blocks, 3 groups × 3): rigid ParaPost 
 (incomplete)
 
 ## 세줄요약
-
 
 광탄성 인비트로 연구 (PSM-5 블록, 3군×3): 강성 금속 ParaPost는 수직하중 시 근단부·경사하중 시 치경부에 응력이 집중되는 반면 fiber·cast post는 응력이 고르게 분포함 — 단, 1.25 mm fiber post는 90 N 경사하중 전에 파절됨.
 

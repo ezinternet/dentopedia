@@ -19,7 +19,6 @@ text_filename: sokhal-2025-surface-hardness-bis-acryl-pmma-provisional.txt
 
 ## Three-line Summary
 
-
 In-vitro Vickers-hardness study (Cureus 2025, n=40/group, 160 total) of four provisional crown-and-bridge materials: three bis-acryl composites (3M Protemp 4, Dentsply Integrity, Vericom Care C&B) all had significantly higher surface hardness than the PMMA self-cure acrylic (Pyrax SC-10) — ranking Protemp 4 (20.54 VHN) > Integrity (19.80) > Vericom (18.55) > Pyrax (16.65), all pairwise p<0.01.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro Vickers-hardness study (Cureus 2025, n=40/group, 160 total) of four pro
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro Vickers 경도 연구(Cureus 2025, 군당 n=40, 총 160): 임시치관 재료 4종 비교 — bis-acryl 3종(3M Protemp 4, Dentsply Integrity, Vericom Care C&B)이 PMMA 자가중합 아크릴(Pyrax SC-10)보다 표면경도 유의하게 높음.
 

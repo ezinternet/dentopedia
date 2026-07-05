@@ -19,7 +19,6 @@ Adds the orthodontics/treatment-planning arm to the `artificial-intelligence` ca
 
 ## Three-line Summary
 
-
 SR+MA (34 studies;
 
 27 on 2D cephalograms, 7 on 3D-CBCT;
@@ -27,7 +26,6 @@ SR+MA (34 studies;
 QUADAS-2) of AI automated cephalometric landmark detection: pooled 2D mean radial error 1.39 mm (95% CI 0.85–1.92), below the clinically accepted 2 mm threshold, in <1 min; 3D error 1.0–5.8 mm (not poolable); most studies high risk of bias in patient selection.
 
 ## 세줄요약
-
 
 인공지능(AI) 자동 두부계측 계측점 검출의 체계적 문헌고찰+메타분석(34편;
 

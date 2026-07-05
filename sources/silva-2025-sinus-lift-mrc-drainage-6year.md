@@ -15,8 +15,20 @@ source_collection: external
 [[sinus-lift/pseudocyst/berberi-2023-mucous-retention-cyst-sinus-lift]] (1년 case)가 단기 안정성을, 본 case는 **6년 추적 + 조직학 데이터**까지 보강. MRC 동시 drainage + lateral SFE의 장기 outcome narrative anchor. 환자 설명용 시각자료 풍부.
 
 ## Three-line Summary
-Case report (Cureus 2025, USP Ribeirão Preto + ARDEC): MRC 환자에서 simultaneous drainage + lateral SFE → guided implant placement. 6년 후 clinical·CBCT·histology 모두 안정 확인.
 
+Case report (Cureus 2025, USP Ribeirão Preto +
+
+ARDEC): MRC 환자에서 simultaneous drainage + lateral SFE
+
+→ guided implant placement. 6년 후 clinical·CBCT·histology 모두 안정 확인.
+
+## 세줄요약
+
+Case report (Cureus 2025, USP Ribeirão Preto +
+
+ARDEC): MRC 환자에서 simultaneous drainage + lateral SFE
+
+→ guided implant placement. 6년 후 clinical·CBCT·histology 모두 안정 확인.
 
 ## 1. Document Information
 University of São Paulo (Ribeirão Preto) + ARDEC Academy (Italy) 협력. Cureus open access. 단일 case지만 6년 추적·조직학 분석으로 longitudinal value 높음.

@@ -14,7 +14,20 @@ source_collection: external
 Core human-data evidence for the osseodensification (OD) primary-stability literature — quantifies the ISQ advantage of OD over conventional drilling (MD 13.1 at baseline, 5.99 at 4–6 mo) feeding the [[overviews/osseodensification-clinical-applications]] synthesis. Complements the animal-model SR+MA [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] by confirming the stability gain persists into early follow-up in humans.
 
 ## Three-line Summary
-SR+MA (IJOMI 2022;36(6):1104–1110) of 3 NRSIs in humans comparing OD vs conventional drilling — OD produced a significantly higher mean ISQ at baseline (MD 13.1, 95% CI 10.0–16.1, P < .0001, I² = 0.0%) and at 4–6 month follow-up (MD 5.99, 95% CI 1.3–10.6, P < .0001, I² = 73.0%).
+
+SR+MA (IJOMI 2022;36(6):1104–1110) of 3 NRSIs in humans comparing OD vs conventional drilling — OD produced
+
+a significantly higher mean ISQ at baseline (MD 13.1, 95% CI 10.0–16.1, P < .0001, I²
+
+= 0.0%) and at 4–6 month follow-up (MD 5.99, 95% CI 1.3–10.6, P < .0001, I² = 73.0%).
+
+## 세줄요약
+
+인간 3개 비무작위 연구(NRSI) 메타분석 — 골밀도화(OD) vs 관강 드릴 ISQ 비교
+
+기저 ISQ: OD +13.1 (P<.0001, I²=0% 균일), 4–6개월: +5.99 (P<.0001, I²=73% 이질성)
+
+일차 안정성 이득 명확 및 지속이나, 3편만 수록으로 근거 제한; RCT 필요
 
 ## 1. Document Information
 - **Type**: Systematic review + random-effects meta-analysis (humans, NRSIs)

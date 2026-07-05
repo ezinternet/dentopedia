@@ -14,7 +14,20 @@ source_collection: external
 Part of the osseodensification (OD) primary-stability evidence base — the animal-model SR+MA arm showing OD raises insertion torque (WMD 2.27) but does not significantly improve BIC/BAFO at 3–6 weeks, a key nuance for the [[overviews/osseodensification-clinical-applications]] synthesis. Pairs with the human-data SR+MA [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] to separate biomechanical torque gains from true histologic osseointegration benefit.
 
 ## Three-line Summary
-SR+MA of 9 animal studies (J Prosthet Dent 2022;127:61–70) — osseodensification significantly raised insertion torque (WMD 2.27, 95% CI 1.15–3.39, P < .001) but BIC and BAFO differences at 3 and 6 weeks were not statistically significant (mixed P values; small WMDs with wide CIs).
+
+SR+MA of 9 animal studies (J Prosthet Dent 2022;127:61–70) — osseodensification significantly raised insertion torque
+
+(WMD 2.27, 95% CI 1.15–3.39, P < .001) but BIC and BAFO differences at 3
+
+and 6 weeks were not statistically significant (mixed P values; small WMDs with wide CIs).
+
+## 세줄요약
+
+동물 모델 9편 메타분석 — 골밀도화(OD) vs 관강식 드릴 비교
+
+삽입 토크: WMD +2.27 (P<.001) 우월, BIC/BAFO (3·6주): 유의차 없음 (P 혼합, CI 폭넓음)
+
+일차 안정성(토크)은 상승하나, 조직학적 골유착(BIC/BAFO) 조기 이득은 미미한 해석
 
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis (animal studies only)

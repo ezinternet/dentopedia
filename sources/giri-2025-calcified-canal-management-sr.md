@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-석회화 근관 관리 SR(증례 보고 34개, 41명): 비외과적 근관치료(킬레이팅제 + 유연한 회전기구) 가장 효과적; CBCT 유도·현미경·초음파 보조가 핵심.
+
+석회화 근관 관리 SR(증례 보고 34개,
+
+41명): 비외과적 근관치료(킬레이팅제 + 유연한 회전기구)
+
+가장 효과적; CBCT 유도·현미경·초음파 보조가 핵심.
+
+## 세줄요약
+
+석회화 근관 관리 SR(증례 보고 34개,
+
+41명): 비외과적 근관치료(킬레이팅제 + 유연한 회전기구)
+
+가장 효과적; CBCT 유도·현미경·초음파 보조가 핵심.
 
 ## 1. Document Information
 - **Title**: Management of calcified canals during root canal treatment. A systematic review of case reports

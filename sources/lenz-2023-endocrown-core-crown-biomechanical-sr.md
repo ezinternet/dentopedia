@@ -19,7 +19,6 @@ Introduces the endocrown as the conservative, post-free alternative to tradition
 
 ## Three-line Summary
 
-
 SR of 31 in-vitro studies: endocrowns show similar or superior survival, more favorable failure patterns, and lower stresses than (post-)core-crown restorations for anterior and posterior endodontically treated teeth.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR of 31 in-vitro studies: endocrowns show similar or superior survival, more fa
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(31개 실험실 연구): 엔도크라운은 (포스트-)코어-크라운 대비 유사하거나 우수한 생존율, 더 유리한 파절 양상, 낮은 응력을 보임.
 

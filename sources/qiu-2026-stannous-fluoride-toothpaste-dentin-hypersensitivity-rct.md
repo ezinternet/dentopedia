@@ -19,7 +19,6 @@ Two parallel examiner-blind RCTs confirming a new anhydrous 0.454% stannous fluo
 
 ## Three-line Summary
 
-
 Two examiner-blind parallel RCTs (Study 1 n=104, Study 2 n=113;
 
 18–65 y;
@@ -27,7 +26,6 @@ Two examiner-blind parallel RCTs (Study 1 n=104, Study 2 n=113;
 healthy adults with DH): twice-daily anhydrous 0.454% SnF₂ toothpaste (Test) gave significantly greater Schiff reduction, tactile-threshold increase, and LMS pain improvement than standard fluoride toothpaste (Reference) at Day 28 and 56 (all p<0.05); Study 1 also superior DHEQ-48 QoL at Day 56.
 
 ## 세줄요약
-
 
 검사자 맹검 평행 RCT 2건(Study 1 n=104, Study 2 n=113;
 

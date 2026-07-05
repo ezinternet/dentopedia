@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Scoping review (103 studies, 2010–2020): maps real-world TAD practice — most placed in the maxilla, inter-radicular between 2nd premolar and 1st molar, AbsoAnchor most-used brand, typical 1.6 mm × 8 mm self-drilled immediately-loaded screws (40–800 g);
 
 47.6% of studies reported success rates ≥90%.
@@ -23,7 +22,6 @@ Scoping review (103 studies, 2010–2020): maps real-world TAD practice — most
 (incomplete)
 
 ## 세줄요약
-
 
 스코핑 리뷰 (103편, 2010–2020): TAD 실제 사용 패턴 정리 — 대부분 상악, 제2소구치–제1대구치 사이 인접근, AbsoAnchor 브랜드 최다, 전형 1.6 mm × 8 mm self-drilled 즉시부하(40–800 g);
 

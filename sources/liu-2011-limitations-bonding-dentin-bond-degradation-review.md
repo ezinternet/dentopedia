@@ -19,7 +19,6 @@ This is the unifying landmark review (JDR 2011, by the Tay–Pashley–Breschi�
 
 ## Three-line Summary
 
-
 Narrative review (Liu et al.
 
 2011, J Dent Res;
@@ -27,7 +26,6 @@ Narrative review (Liu et al.
 abstract-only retrieved) framing resin-dentin bond degradation as hydrolysis of suboptimally polymerized hydrophilic resin + MMP/cysteine-cathepsin collagenolysis of the water-rich, resin-sparse hybrid layer, and synthesizing five experimental strategies to extend bond longevity.
 
 ## 세줄요약
-
 
 서술적 리뷰(Liu 등 2011, J Dent Res;
 

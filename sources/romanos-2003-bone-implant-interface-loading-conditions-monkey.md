@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Animal study (9 Macaca fascicularis monkeys, 48 implants) showing that both immediately loaded and delayed-loaded titanium implants achieved significantly higher BIC and bone area within threads than unloaded submerged implants, with no significant difference between the two loading groups.
 
 (incomplete)
@@ -23,7 +22,6 @@ Animal study (9 Macaca fascicularis monkeys, 48 implants) showing that both imme
 (incomplete)
 
 ## 세줄요약
-
 
 마카크 원숭이 9마리, 임플란트 48개 대상 조직형태계측 연구: 즉시 기능 부하군과 지연 부하군 모두 무부하 대조군보다 골-임플란트 접촉률(BIC) 및 나사산 내 골면적(BA)이 유의하게 높았으며, 두 부하군 간 유의한 차이는 없었음.
 

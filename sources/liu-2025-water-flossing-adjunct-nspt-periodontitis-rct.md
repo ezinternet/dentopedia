@@ -18,7 +18,6 @@ First RCT we hold testing daily home-use **water flossing** as an adjunct to **n
 
 ## Three-line Summary
 
-
 6-month RCT (n=72, stage I-II periodontitis, 3 arms post-NSPT) — daily home-use water flossing significantly improved plaque and periodontal indices and shifted subgingival microbiota;
 
 adding an herb-containing mouthrinse further altered microbiota but gave no extra clinical benefit over water flossing alone.
@@ -26,7 +25,6 @@ adding an herb-containing mouthrinse further altered microbiota but gave no extr
 (incomplete)
 
 ## 세줄요약
-
 
 6개월 RCT (n=72, stage I-II 치주염, NSPT 후 3군) — 매일 가정용 워터플로싱이 치태·치주지수를 유의하게 개선하고 치은연하 미생물군을 변화시켰으며, 허브 함유 가글 추가는 미생물군을 더 바꿨으나 워터플로싱 단독 대비 추가 임상 이득은 없었다.
 

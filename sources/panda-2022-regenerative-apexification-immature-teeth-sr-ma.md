@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-미성숙 영구치 비활력증: RET(재생근관치료) vs apexification(치근단형성술) 임상 결과 SR+MA — 생존율·성공율 유사, 치근 발육은 RET 우위.
 
+미성숙 영구치 비활력증: RET(재생근관치료) vs
+
+apexification(치근단형성술) 임상 결과 SR+MA —
+
+생존율·성공율 유사, 치근 발육은 RET 우위.
+
+## 세줄요약
+
+미성숙 영구치 비활력증: RET(재생근관치료) vs
+
+apexification(치근단형성술) 임상 결과 SR+MA —
+
+생존율·성공율 유사, 치근 발육은 RET 우위.
 
 ## 1. Document Information
 - **Title**: Clinical Outcome and Comparison of Regenerative and Apexification Intervention in Young Immature Necrotic Teeth

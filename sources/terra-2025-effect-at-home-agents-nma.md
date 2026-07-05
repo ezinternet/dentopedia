@@ -17,7 +17,6 @@ The first Bayesian network meta-analysis (NMA) directly ranking all at-home blea
 
 ## Three-line Summary
 
-
 SR + Bayesian NMA of 81 eligible RCTs (53 in NMA) found most at-home bleaching concentrations equally efficacious except extreme concentrations (CP 5% and HP 2–4% inferior to CP 15–17% and HP 14–16%), with low quality of evidence.
 
 (incomplete)
@@ -25,7 +24,6 @@ SR + Bayesian NMA of 81 eligible RCTs (53 in NMA) found most at-home bleaching c
 (incomplete)
 
 ## 세줄요약
-
 
 81편 RCT의 SR + 베이지안 NMA에서 극단적 농도 제외 시 대부분의 재가 미백 농도는 동등한 효과를 보였으며, 근거 수준은 낮았다.
 

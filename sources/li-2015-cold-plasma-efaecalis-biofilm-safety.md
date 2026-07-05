@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n = teeth with 3-week E.
 
 faecalis biofilm) demonstrating complete biofilm eradication within 12 minutes of AC argon/oxygen cold plasma treatment with no significant dentin microhardness or roughness change.
@@ -23,7 +22,6 @@ faecalis biofilm) demonstrating complete biofilm eradication within 12 minutes o
 (incomplete)
 
 ## 세줄요약
-
 
 In vitro 연구: AC 아르곤/산소 냉각 플라즈마 12분 처치로 3주 성숙 E.
 

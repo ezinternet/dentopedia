@@ -19,7 +19,6 @@ A hybrid CNN+ViT model that automatically classifies maxillary sinus ostium pate
 
 ## Three-line Summary
 
-
 Retrospective single-center CBCT study (704 images: 477 open / 227 closed ostium) proposing a ConvNeXt-Tiny + DeiT gated-MLP hybrid deep-learning model that classifies maxillary sinus ostium patency at 95.03% test accuracy (F1 94.18%, MCC 89.67, error 4.96%), beating the best pre-trained baseline (DenseNet121/ConvNeXt-Tiny, 89.36%).
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective single-center CBCT study (704 images: 477 open / 227 closed ostium
 (incomplete)
 
 ## 세줄요약
-
 
 단일기관 후향 CBCT 연구(704장: 개방 477/폐쇄 227)로, ConvNeXt-Tiny + DeiT 게이트-MLP 하이브리드 딥러닝 모델이 상악동 자연공(ostium) 개폐를 테스트 정확도 95.03%(F1 94.18%, MCC 89.67, 오류율 4.96%)로 분류해 최고 사전학습 기준모델(DenseNet121/ConvNeXt-Tiny, 89.36%)을 능가했다.
 

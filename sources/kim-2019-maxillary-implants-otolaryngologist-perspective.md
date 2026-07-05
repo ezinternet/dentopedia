@@ -19,7 +19,6 @@ text_filename: kim-2019-maxillary-implants-otolaryngologist-perspective.txt
 
 ## Three-line Summary
 
-
 Narrative review from otolaryngologists at Seoul St.
 
 Mary's Hospital outlining preoperative maxillary sinus assessment, sinus pathology classification, and ENT-dental joint management protocols to reduce post-implant sinusitis (~5% incidence).
@@ -27,7 +26,6 @@ Mary's Hospital outlining preoperative maxillary sinus assessment, sinus patholo
 (incomplete)
 
 ## 세줄요약
-
 
 서울성모병원 이비인후과 전문의 관점에서 상악 임플란트 전 부비동 평가·병리 분류·FESS 적응증을 정리한 서술 리뷰로, 골이식편 탈락에 의한 자연공 차단이 핵심 합병증 기전임을 강조.
 

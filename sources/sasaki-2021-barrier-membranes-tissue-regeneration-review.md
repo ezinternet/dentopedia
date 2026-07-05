@@ -15,7 +15,6 @@ Provides a comprehensive component-based taxonomy of all barrier membranes used 
 
 ## Three-line Summary
 
-
 Narrative review (Osaka University, 2021) organizing all commercially available and research-stage barrier membranes for dental GTR/GBR by component type, contrasting non-biodegradable (PTFE, Ti, Co) vs biodegradable (collagen, polyesters, inorganic composites) materials and identifying gap in clinical selection guidelines.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Osaka University, 2021) organizing all commercially available 
 (incomplete)
 
 ## 세줄요약
-
 
 서사적 고찰(오사카대, 2021) — GTR/GBR용 장벽막을 비생분해성(PTFE·Ti·Co 합금) vs 생분해성(콜라겐·지방족 폴리에스터·무기복합재) 성분별로 체계적으로 분류하고 임상 선택 지침의 공백을 확인함.
 

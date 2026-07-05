@@ -19,7 +19,6 @@ text_filename: hamade-2024-hypertension-dental-implants-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA (24 studies, 21,066 implants) finding that hypertensive patients show no higher dental-implant failure odds than normotensive patients (OR 1.100, 95% CI 0.709-1.707, p=0.671).
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA (24 studies, 21,066 implants) finding that hypertensive patients show no h
 (incomplete)
 
 ## 세줄요약
-
 
 24편·임플란트 21,066개 SR+MA — 고혈압 환자의 임플란트 실패 위험은 정상혈압 환자와 차이 없음 (OR 1.100, 95% CI 0.709-1.707, p=0.671).
 

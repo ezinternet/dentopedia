@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Retrospective CBCT study of 128 maxillary sinuses (64 patients) using the SMOP implant-planning software to quantify osseous and mucosal-bordered (pneumatized) sinus volumes; mean osseous surface area 39.7 cm², volume 17.1 cm³; 42.2% of sinuses showed obliteration, with mean obliterated volume 5.1 cm³; obliteration volume associated with pathologies; males had significantly larger osseous volume.
 
+Retrospective CBCT study of 128 maxillary sinuses (64 patients) using the SMOP implant-planning software to quantify osseous and mucosal-bordered (pneumatized) sinus volumes
+
+mean osseous surface area 39.7 cm², volume 17.1 cm³
+
+42.2% of sinuses showed obliteration, with mean obliterated volume 5.1 cm³; obliteration volume associated with pathologies; males had significantly larger osseous volume.
+
+## 세줄요약
+
+Retrospective CBCT study of 128 maxillary sinuses (64 patients) using the SMOP implant-planning software to quantify osseous and mucosal-bordered (pneumatized) sinus volumes
+
+mean osseous surface area 39.7 cm², volume 17.1 cm³
+
+42.2% of sinuses showed obliteration, with mean obliterated volume 5.1 cm³; obliteration volume associated with pathologies; males had 유의미한ly larger osseous volume.
 
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry, 2018; 4:17

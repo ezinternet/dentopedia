@@ -19,7 +19,6 @@ text_filename: najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma.txt
 
 ## Three-line Summary
 
-
 Systematic review and meta-analysis (15 studies included, 10 in meta-analysis, 1,669 primary teeth) comparing Ca(OH)2/iodoform paste (Vitapex/Metapex) vs.
 
 ZOE as pulpectomy root filling material in primary teeth: no significant difference in clinical/radiographical success at 6 and 12 months, but ZOE (and ZOE/iodoform combined with Ca(OH)2) showed statistically significantly higher success rates than Ca(OH)2/iodoform at ≥18-month follow-up in high-quality studies.
@@ -27,7 +26,6 @@ ZOE as pulpectomy root filling material in primary teeth: no significant differe
 (incomplete)
 
 ## 세줄요약
-
 
 유치 발수(pulpectomy) 근관충전재로 Ca(OH)2/iodoform paste(Vitapex/Metapex)와 ZOE를 비교한 체계적 문헌고찰+메타분석(15편 SR, 10편 메타분석, 치아 1,669개) — 6·12개월 추적에서는 임상·방사선학적 성공률 차이가 없었으나, 18개월 이상 추적 시(특히 고품질 연구에서) ZOE 및 ZOE/iodoform+Ca(OH)2가 Ca(OH)2/iodoform보다 통계적으로 유의하게 높은 성공률을 보였다.
 

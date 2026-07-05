@@ -19,7 +19,6 @@ GBR 6패널 분류 인터랙티브 도구(GBR 6패널 분류 standalone.html)의
 
 ## Three-line Summary
 
-
 Retrospective study (n=40, 5-year follow-up) comparing CAD/CAM customized titanium mesh vs tenting screws with resorbable collagen membrane for horizontal/vertical GBR: equivalent bone gain, significantly shorter operative time with Ti mesh (62.4 vs 72.7 min), 100% implant survival.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective study (n=40, 5-year follow-up) comparing CAD/CAM customized titani
 (incomplete)
 
 ## 세줄요약
-
 
 맞춤형 CAD/CAM 티타늄 메시 vs 텐팅 스크루+흡수성 콜라겐막 후향적 비교(n=40, 5년): 골증대량 동등, Ti 메시군 수술 시간 유의하게 짧음(62.4 vs 72.7분), 임플란트 생존율 100%.
 

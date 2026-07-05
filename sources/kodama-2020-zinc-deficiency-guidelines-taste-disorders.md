@@ -19,7 +19,6 @@ text_filename: kodama-2020-zinc-deficiency-guidelines-taste-disorders.txt
 
 ## Three-line Summary
 
-
 Narrative review summarizing Japan's 2018 Practical Guideline for Zinc Deficiency (diagnostic criteria: serum zinc <60 μg/dL = deficiency, 60–80 μg/dL = marginal;
 
 symptom-based + exclusion + zinc-responsiveness criteria) with a focused section on zinc-deficiency taste disorders — affecting ~240,000 Japanese patients (1.7× increase since 1990), improved by oral zinc (Polaprezinc 150mg/day) in 50–82% of cases but requiring ≥3 months of therapy for full effect (13.6% response at week 4 rising to 58.8% at week 24).
@@ -27,7 +26,6 @@ symptom-based + exclusion + zinc-responsiveness criteria) with a focused section
 (incomplete)
 
 ## 세줄요약
-
 
 일본 임상영양학회 2018년 아연결핍 진단·치료 실무 가이드라인 종설 — 혈청아연 <60μg/dL(결핍)·60-80μg/dL(경계결핍) 진단기준, 아연결핍성 미각장애는 일본 내 약 24만 명(1990년 대비 1.7배 증가)에 영향을 미치며 경구 아연치료(폴라프레진크 150mg/일)로 50-82% 호전되나 효과 발현에 최소 3개월 필요(4주차 13.6%→24주차 58.8% 반응률).
 

@@ -18,7 +18,6 @@ text_filename: terra-2025-at-home-bleaching-concentration-tooth-sensitivity.txt
 
 ## Three-line Summary
 
-
 Bayesian network meta-analysis (77 studies, 50 meta-analyzed) — higher at-home peroxide concentrations (CP 20–22%, HP 14–16%) raise tooth-sensitivity risk ~2.8–2.9× vs low (HP 2–4%/CP 10–11%);
 
 on average sensitivity is mild for all concentrations (low QoE).
@@ -26,7 +25,6 @@ on average sensitivity is mild for all concentrations (low QoE).
 (incomplete)
 
 ## 세줄요약
-
 
 베이지안 NMA (77편, 50편 메타분석) — 고농도 자가미백(CP 20–22%, HP 14–16%)은 저농도(HP 2–4%/CP 10–11%) 대비 민감도 위험 약 2.8–2.9배.
 

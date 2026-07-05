@@ -19,7 +19,6 @@ This narrative review is the concepts/companion piece to the proximal-contact-lo
 
 ## Three-line Summary
 
-
 Narrative review (56 studies + 148-case 25-yr private-practice retrospective) of open proximal contacts beside posterior implants;
 
 introduces the MM-DD occlusal-adjustment concept (remove mesial-of-mesial / distal-of-distal occlusal contacts to steer adjacent teeth toward the implant), reporting open-contact incidence 11.5% vs 34-66% conventional.
@@ -27,7 +26,6 @@ introduces the MM-DD occlusal-adjustment concept (remove mesial-of-mesial / dist
 (incomplete)
 
 ## 세줄요약
-
 
 후방 임플란트 인접 개방접촉(open contact)의 다인자성 원인·발생률·결과를 정리하고, 인접 자연치를 임플란트 쪽으로 유도하는 MM-DD 교합조정 개념(근심치 근심 / 원심치 원심 교합접촉 제거)을 소개한 서술적 리뷰 — MM-DD군 개방접촉 11.5% vs 통상 34-66%(후향·RCT 부재).
 

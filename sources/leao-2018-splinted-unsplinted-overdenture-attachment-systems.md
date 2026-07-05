@@ -15,7 +15,6 @@ Provides direct SR+MA evidence comparing splinted (bar) vs unsplinted (ball, stu
 
 ## Three-line Summary
 
-
 SR+MA of 9 studies (984 implants, 380 patients) found no significant difference between splinted and unsplinted overdenture attachment systems in marginal bone loss, prosthetic complications, or implant survival.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 9 studies (984 implants, 380 patients) found no significant difference 
 (incomplete)
 
 ## 세줄요약
-
 
 9개 연구 SR+MA에서 스플린트(바) 및 비스플린트(볼/스터드) 오버덴처 어태치먼트 간 변연골소실, 보철 합병증, 임플란트 생존율 모두 유의한 차이가 없었다.
 

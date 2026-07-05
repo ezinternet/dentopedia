@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-IJDM 2025;7(4):120-124 (Chettinad): AI in implant dentistry narrative review — diagnostic efficiency, treatment planning, patient outcomes; accuracy, rapidity, precision highlighted; drawbacks limit current clinical use; further clinical trials needed.
 
+IJDM 2025;7(4):120-124 (Chettinad): AI in implant dentistry narrative review — diagnostic efficiency, treatment planning, patient outcomes
+
+accuracy, rapidity, precision highlighted
+
+drawbacks limit current clinical use; further clinical trials needed.
+
+## 세줄요약
+
+IJDM 2025;7(4):120-124 (Chettinad): AI in implant dentistry narrative review — diagnostic efficiency, treatment planning, patient outcomes
+
+accuracy, rapidity, precision highlighted
+
+drawbacks limit current clinical use; further clinical trials needed.
 
 ## 1. Key Results
 - Narrative review; databases: PubMed, Scopus, Web of Science, Google Scholar

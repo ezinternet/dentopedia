@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Sci Rep 2023;13:16856: DL (VGG16) + clustering (k-means++) for implant diameter/length classification from periapical radiographs — DL accuracy >0.994, AUC >0.975; clustering accuracy >0.983 across 9 implant size groups.
 
+Sci Rep 2023;13:16856: DL (VGG16) + clustering (k-means++) for
+
+implant diameter/length classification from periapical radiographs — DL accuracy
+
+>0.994, AUC >0.975; clustering accuracy >0.983 across 9 implant size groups.
+
+## 세줄요약
+
+Sci Rep 2023;13:16856: DL (VGG16) + clustering (k-means++) for
+
+implant diameter/length classification from periapical radiographs — DL accuracy
+
+>0.994, AUC >0.975; clustering accuracy >0.983 across 9 implant size groups.
 
 ## 1. Key Results
 - Periapical radiographs; 9 implant size groups (diameter × length combinations)

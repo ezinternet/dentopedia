@@ -19,7 +19,6 @@ Brings the modern minimally-invasive alternative (endocrown) into the new `post-
 
 ## Three-line Summary
 
-
 Systematic review (12 in-vitro/FEA studies, narrative — no meta-analysis): endocrowns gave comparable-or-greater fracture resistance and more repairable failures vs post-core-crown in anterior ETT;
 
 ferrule was the dominant fatigue-resistance factor, lithium disilicate the best material.
@@ -27,7 +26,6 @@ ferrule was the dominant fatigue-resistance factor, lithium disilicate the best 
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(in-vitro/FEA 12편, 메타분석 없음·서술적): 전치부 근관치료치아에서 엔도크라운이 포스트-코어-크라운 대비 동등하거나 더 높은 파절저항과 더 수리 가능한 실패양상을 보였고, 페룰이 피로저항의 결정적 인자, 리튬디실리케이트가 최적 재료였음.
 

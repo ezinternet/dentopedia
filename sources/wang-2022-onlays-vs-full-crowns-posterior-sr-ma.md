@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-구치부 수복: 온레이/부분관 vs 완전관 비교 SR+MA — 생존율, 합병증, 치질 보존 이점.
 
+구치부 수복: 온레이/부분관 vs
+
+완전관 비교 SR+MA —
+
+생존율, 합병증, 치질 보존 이점.
+
+## 세줄요약
+
+구치부 수복: 온레이/부분관 vs
+
+완전관 비교 SR+MA —
+
+생존율, 합병증, 치질 보존 이점.
 
 ## 1. Document Information
 - **Title**: Onlays/partial crowns versus full crowns in restoring posterior teeth: a systematic review and meta-analysis

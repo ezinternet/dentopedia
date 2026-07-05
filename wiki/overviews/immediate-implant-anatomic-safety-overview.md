@@ -35,7 +35,6 @@ tags: [immediate-implant, cbct, incisive-canal, inferior-alveolar-canal, lingual
 
 ## Three-line Summary
 
-
 Synthesis of 5 IIP papers as a site-specific anatomic-safety map: much IIP failure originates from skipped preoperative anatomic assessment (nerve encroachment, cortical perforation, buccal-plate loss) rather than regeneration failure, making CBCT mandatory; anterior maxilla mean incisive canal length is 16.33 mm (width 3.85 mm) with ethnic variation (Mongoloid longer/more curved; Al-Amery 2015), and posterior mandible second-molar root-apex-to-IAC distance is shortest (pooled 4.65 mm) while 73% undercut — a double-risk site (Behfarnia 2025 SR+MA, n=1,834).
 
 Buccal gap ≥2 mm warrants DBBM grafting, buccal plate <1–2 mm warrants augmentation, and ~1/3 of patients show ~1 mm buccal recession after IIP (Greenstein 2013); however, grafting the peri-implant gap does not improve primary stability — native bone engagement beyond the socket drives early stability, and virtual BIC predicts early ISQ only in the ungrafted group (Askin Ekinci 2026 pilot RCT, n=28).
@@ -43,7 +42,6 @@ Buccal gap ≥2 mm warrants DBBM grafting, buccal plate <1–2 mm warrants augme
 The anatomic safety margins and stability-providing bone are the same territory, confirming that preoperative CBCT-guided planning is both a safety and a stability precondition; outcome-measure heterogeneity (12 distinct clinician-reported outcomes, no consensus) currently limits cross-protocol patient-centered comparisons (Pannuti 2026).
 
 ## 세줄요약
-
 
 즉시식립 5편을 부위별 해부 안전역으로 종합 — 상악 전치부 절치관(IC, 길이 16.33 mm·민족차), 하악 구치부 하치조관(제2대구치 4.65 mm로 가장 가깝고 73% 언더컷, 이중 위험), 협측 갭 ≥2 mm DBBM·협측판 <2 mm 증대.
 

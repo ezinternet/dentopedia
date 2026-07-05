@@ -19,7 +19,6 @@ text_filename: wolf-2024-maxillary-canines-root-canal-configuration-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA of 22 studies on maxillary canine (MxC) root canal configuration: Vertucci Type I (1-1-1/1) dominates at 75.4–100%, but anatomical variation reaches up to ~25% of cases;
 
 CBCT is the most-used method, and males show significantly more Vertucci III and V configurations.
@@ -27,7 +26,6 @@ CBCT is the most-used method, and males show significantly more Vertucci III and
 (incomplete)
 
 ## 세줄요약
-
 
 상악 견치 근관형태 22편 SR+MA — Vertucci Type I(단일 근관) 75.4–100% 우세이나 최대 약 25%에서 변이;
 

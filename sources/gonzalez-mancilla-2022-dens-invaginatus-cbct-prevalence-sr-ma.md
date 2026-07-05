@@ -19,7 +19,6 @@ text_filename: gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA (4 retrospective studies, 2,009 CBCTs) — pooled CBCT-assessed prevalence of dens invaginatus is 9.0% (95% CI 7.2–10.8%), roughly double conventional-radiograph estimates (0.25–7.7%);
 
 maxillary lateral incisor most affected and Oehlers Type I most common.
@@ -27,7 +26,6 @@ maxillary lateral incisor most affected and Oehlers Type I most common.
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (후향연구 4편, CBCT 2,009건) — CBCT로 측정한 치내치(dens invaginatus) 통합 유병률 9.0% (95% CI 7.2–10.8%)로 2D 방사선 추정치(0.25–7.7%)의 약 2배.
 

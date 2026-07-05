@@ -15,7 +15,6 @@ Provides the clinical-recognition foundation (lesion morphology, subtyping, biop
 
 ## Three-line Summary
 
-
 Narrative review describing the clinical features and presentation of the full OPMD spectrum (leukoplakia, erythroplakia, OSF, OLP, oral lichenoid/GvHD lesions), stressing clinical subtyping, mandatory biopsy, and timely specialist referral.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review describing the clinical features and presentation of the full O
 (incomplete)
 
 ## 세줄요약
-
 
 OPMD 전 스펙트럼(백반증·홍반증·구강점막하섬유증·OLP·태선양/GvHD 병변)의 임상 양상을 기술한 내러티브 리뷰 — 임상 아형분류, 필수 조직검사, 적시 전문의 의뢰 강조.
 

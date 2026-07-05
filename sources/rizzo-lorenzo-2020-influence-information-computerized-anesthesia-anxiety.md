@@ -19,7 +19,6 @@ text_filename: rizzo-lorenzo-2020-influence-information-computerized-anesthesia-
 
 ## Three-line Summary
 
-
 Single-blinded RCT (n=68, Barcelona) among upper third molar extraction patients found that a detailed verbal explanation of The Wand computerized anesthesia system before injection did NOT significantly reduce dental anxiety (ISAR/MDAS/DFS/STAI-S) or perceived pain (VAS) vs no information;
 
 need of intraoperative re-anesthesia (42.6%) was unrelated to anxiety but significantly related to longer operative time (p=0.007).
@@ -27,7 +26,6 @@ need of intraoperative re-anesthesia (42.6%) was unrelated to anxiety but signif
 (incomplete)
 
 ## 세줄요약
-
 
 단일맹검 RCT (n=68, 바르셀로나, 상악 제3대구치 발치): The Wand 컴퓨터 제어 마취 시스템 작동원리에 대한 상세 구두 설명이 불안(ISAR/MDAS/DFS/STAI-S)이나 통증(VAS)을 유의하게 줄이지 못함;
 

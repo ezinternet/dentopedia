@@ -15,7 +15,6 @@ This is Part 2 (composite *processing* technique) of the German S3 direct-compos
 
 ## Three-line Summary
 
-
 German S3 consensus-based clinical practice guideline (Part 2;
 
 6 PICO questions, panel from 20 societies) issuing 7 recommendations + 2 statements on composite processing: prefer one-stage selective caries removal near pulp, accept relative or absolute isolation (rubber dam may aid longevity), use anatomically preformed sectional matrix + ring/wedge for Class II, etch enamel with phosphoric acid, prefer 2-step self-etch / 3-step etch-and-rinse / universal adhesives, and polish all restorations.
@@ -23,7 +22,6 @@ German S3 consensus-based clinical practice guideline (Part 2;
 (incomplete)
 
 ## 세줄요약
-
 
 독일 S3 합의기반 임상진료지침(Part 2;
 

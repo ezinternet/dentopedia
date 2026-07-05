@@ -15,7 +15,6 @@ Early Korean evidence for a *customized, preformed* (ready-to-use, no cut/bend) 
 
 ## Three-line Summary
 
-
 Prospective case series (10 patients / 12 implants) using a customized 3D preformed titanium mesh (SMARTbuilder;
 
 Osstem) over a 1:1 intraoral autograft + FDBA mixture for peri-implant dehiscence/fenestration defects: 4-month core biopsy showed ~80% vital bone, mesh exposure in 3/10 (30%), and all implants functional with stable marginal bone at 12 months.
@@ -23,7 +22,6 @@ Osstem) over a 1:1 intraoral autograft + FDBA mixture for peri-implant dehiscenc
 (incomplete)
 
 ## 세줄요약
-
 
 전치성 케이스 시리즈(환자 10명·임플란트 12개)로, 임플란트 식립 후 발생한 열개/천공 결손에 맞춤형 3차원 사전성형 티타늄 메쉬(SMARTbuilder;
 

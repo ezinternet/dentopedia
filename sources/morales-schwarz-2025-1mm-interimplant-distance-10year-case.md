@@ -19,7 +19,6 @@ text_filename: morales-schwarz-2025-1mm-interimplant-distance-10year-case.txt
 
 ## Three-line Summary
 
-
 Case report + literature review (10yr follow-up, IID=1 mm, platform-switch BL implants): bone maintained 1.40 mm coronal to implant-abutment connection at 10 years;
 
 2 animal studies on 1 mm IID also show no bone loss vs wider distances.
@@ -27,7 +26,6 @@ Case report + literature review (10yr follow-up, IID=1 mm, platform-switch BL im
 (incomplete)
 
 ## 세줄요약
-
 
 케이스보고+문헌고찰 (10년, IID=1 mm, 플랫폼 스위칭 골수준 임플란트): 임플란트-지대주 연결부보다 1.40 mm 상방 골 유지;
 

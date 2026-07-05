@@ -19,7 +19,6 @@ text_filename: liang-2025-cemental-tear-diagnosis-treatment-consensus.txt
 
 ## Three-line Summary
 
-
 Multi-institution Chinese expert consensus (Int J Oral Sci 2025) synthesizing epidemiology, pathogenesis, predisposing factors, diagnosis, differential diagnosis (vs VRF / endodontic / periodontal disease), and a location-based treatment decision tree for cemental tear, whose central principle is complete removal of torn cementum fragments.
 
 (incomplete)
@@ -27,7 +26,6 @@ Multi-institution Chinese expert consensus (Int J Oral Sci 2025) synthesizing ep
 (incomplete)
 
 ## 세줄요약
-
 
 시멘트질 열개(Cemental Tear)의 역학·병인·감별진단(VRF·근관·치주질환)·치료 결정 트리를 정리한 중국 다기관 전문가 합의문(Int J Oral Sci 2025) — 핵심 원칙은 "찢긴 시멘트질 조각의 완전 제거"이며 CBCT가 1차 진단 도구, 조직병리가 확진 기준이다.
 

@@ -18,7 +18,6 @@ text_filename: malamed-2011-mandibular-nerve-block-passe.txt
 
 ## Three-line Summary
 
-
 JADA supplement introduction: reviews why the standard inferior alveolar nerve block (IANB) has a high failure rate (e.g., 81% in lateral incisors) — cortical bone thickness, soft-tissue-thickness-driven needle deflection, difficulty locating the nerve, and accessory innervation — framing the case for alternative mandibular anesthesia techniques.
 
 (incomplete)
@@ -26,7 +25,6 @@ JADA supplement introduction: reviews why the standard inferior alveolar nerve b
 (incomplete)
 
 ## 세줄요약
-
 
 JADA supplement 서론: 표준 하치조신경전달마취(IANB)의 높은 실패율(예: 측절치 81%) 원인 — 피질골 두께, 연조직 두께로 인한 바늘 편향, 신경 위치 파악의 어려움, 부가신경 지배 — 을 정리하며 대안적 하악마취 기법의 필요성을 제기.
 

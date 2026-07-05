@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 9 observational studies (585 cases, 1591 controls) found a significant positive association between halitosis and periodontitis, with OR ~4 for both organoleptic and VSC-based assessments.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 9 observational studies (585 cases, 1591 controls) found a significant 
 (incomplete)
 
 ## 세줄요약
-
 
 9편 관찰연구(585 증례, 1591 대조)의 SR+MA로, 구취와 치주염은 유의한 양의 연관성(OR≈4, 관능검사·VSC 측정 모두)을 보이나 이질성이 높아 추가 연구가 필요하다.
 

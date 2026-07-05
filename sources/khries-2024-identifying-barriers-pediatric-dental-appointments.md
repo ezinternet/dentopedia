@@ -19,7 +19,6 @@ Extends appointment-attendance / non-attendance evidence from adults to the pedi
 
 ## Three-line Summary
 
-
 Cross-sectional questionnaire study (n=265 children <12 yr, Jordan): 44% missed-appointment rate despite 85% insured;
 
 non-attendance significantly linked to child age, gender, and public-transport use, with social/family commitments (15.5%), forgetfulness (11.2%), and staff miscommunication (10.3%) as leading barriers.
@@ -27,7 +26,6 @@ non-attendance significantly linked to child age, gender, and public-transport u
 (incomplete)
 
 ## 세줄요약
-
 
 요르단 12세 미만 소아 265명 단면 설문연구 — 85%가 보험이 있음에도 결손율(missed-appointment rate) 44%;
 

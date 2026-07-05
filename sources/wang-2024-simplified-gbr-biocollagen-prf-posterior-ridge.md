@@ -19,7 +19,6 @@ GBR 6패널 분류 인터랙티브 도구의 Panel II 근거 논문. 소규모 �
 
 ## Three-line Summary
 
-
 Retrospective study (n=44, 2 groups) comparing simplified GBR (Bio-collagen + PRF membrane) vs classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I ridge defects: HW gain 1.50 mm vs 1.83 mm at 6 months;
 
 comparable contour morphology.
@@ -27,7 +26,6 @@ comparable contour morphology.
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 연구(n=44)에서 Bio-collagen+PRF막(단순화 GBR) vs Bio-Oss+Bio-Gide(고전적 GBR)로 후방 Seibert Class I 치조제 결손 치료: 수평폭경 증가 1.50 vs 1.83mm, 윤곽 형태 유사.
 

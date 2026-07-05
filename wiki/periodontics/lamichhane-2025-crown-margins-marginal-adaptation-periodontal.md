@@ -34,7 +34,6 @@ The cross-sectional design establishes association only; the null result for mar
 
 횡단 설계로 연관성만 확인됨; 변연 위치의 무효 결과는 반직관적이며 대규모 종단 연구로 재확인 필요.
 
-
 ## Summary
 
 This split-mouth cross-sectional study from Tribhuvan University Teaching Hospital (Kathmandu, Nepal) compared the periodontal status of fixed-dental-prosthesis abutment teeth against contralateral matched non-abutment teeth in 95 systemically healthy non-smoking adults (20–50 years) wearing crowns or tooth-supported FPDs for ≥3 months. Using validated indices (Silness–Löe plaque index, Löe–Silness gingival index, probing depth, clinical attachment loss) scored by a single trained examiner and compared with the Mann–Whitney U test, the study found abutment teeth carried significantly worse periodontal status across **all four parameters — PI, GI, PD, and CAL (all p<0.001)**. Effect modifiers diverged: prosthesis **duration** significantly affected PI (p=0.026) and CAL (p=0.037) but not GI or PD; prosthetic **material** affected PI (p=0.004) and GI (p=0.036) but not PD or CAL. Notably, **margin location** (supra-/equi-/subgingival relative to the free gingival margin) showed **no significant effect** on any abutment periodontal parameter in this cohort. The authors conclude FDPs may negatively influence abutment periodontal status, underscoring periodic periodontal monitoring, oral-hygiene education, and prosthetic quality control. As a cross-sectional, single-center, convenience-sampled study it establishes association, not causation.

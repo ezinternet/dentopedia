@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective 4-arm RCT (n=28, 7/group), mandibular extraction with IANB: chair-side buffering (0.2 mL 8.4% NaHCO3 into 2 mL cartridge) significantly accelerated onset of all anesthetic milestones (first symptom, lip numbness, subjective, objective) for both 2% lidocaine and 4% articaine;
 
 buffered articaine was fastest overall (objective onset 84 s vs 181 s for non-buffered lidocaine), while VAS pain during extraction did not differ across groups (χ²=4.107, p=0.250).
@@ -23,7 +22,6 @@ buffered articaine was fastest overall (objective onset 84 s vs 181 s for non-bu
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 4-군 RCT (n=28, 군당 7명), 하악 발치 IANB: chair-side buffering(2 mL 카트리지에 8.4% 중탄산나트륨 0.2 mL 치환)이 2% 리도카인·4% 아티카인 모두에서 마취 발현(첫 증상·입술 마비·주관·객관)을 유의하게 단축;
 

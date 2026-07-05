@@ -36,7 +36,6 @@ ODS는 이비인후과+치과 이중 확인 진단 필요(방사선과 치성 �
 
 단측 상악동 CT 불투명화 = 치과 전문의 의뢰 필수; CT에서 명확한 치성 병변이 없어도 AP-ODS의 30%에서 치성 원인이 확인됨.
 
-
 ## Summary
 
 Odontogenic sinusitis (ODS) is bacterial maxillary sinusitis arising from adjacent infectious dental pathology (apical periodontitis [AP], marginal periodontitis, oroantral fistula [OAF]) or iatrogenic dental injury (implants, foreign bodies, sinus bone grafts). It accounts for 25%–40% of all chronic maxillary sinusitis and 45%–75% of unilateral maxillary sinus opacification on CT. ODS is distinct from rhinosinusitis in microbiology (alpha-hemolytic streptococci and anaerobes predominate), CT pattern (relative sparing of posterior ethmoid and sphenoid), and treatment response (oral antibiotics fail for treatable dental pathology). Diagnosis requires dual confirmation: otolaryngologists confirm sinusitis via nasal endoscopy (middle meatal purulence, edema, polyps), while dental specialists confirm dental pathology through examination and imaging. Radiologists miss 60%–70% of dental pathology on CT. When both the dental source and sinusitis are addressed, resolution rates are 90%–100%. Primary ESS resolves symptoms 7–12 days faster than primary dental treatment (35–56 days). Asymptomatic ODS occurs in ~15% of cases; complicated ODS (orbital, intracranial, osseous spread) in ~7%.

@@ -18,7 +18,6 @@ Extends the global teledentistry diagnostic-accuracy evidence in [[practice-mana
 
 ## Three-line Summary
 
-
 SR+MA (18 articles, Australia, to June 2024): teledentistry is an effective caries-screening tool (avg sensitivity 69.7%, specificity 97.4%), with patients positive but clinicians mixed, and economic evaluations suggesting cost savings — improving access in regional/rural/remote areas.
 
 (incomplete)
@@ -26,7 +25,6 @@ SR+MA (18 articles, Australia, to June 2024): teledentistry is an effective cari
 (incomplete)
 
 ## 세줄요약
-
 
 호주 대상 SR+MA (논문 18편, 2024년 6월까지): 원격치과(teledentistry)는 우식 스크리닝 도구로 효과적이며(평균 민감도 69.7%, 특이도 97.4%), 환자는 긍정적이나 임상의는 의견이 갈렸고, 경제성 평가에서 비용 절감 가능성이 확인되어 특히 지방·농어촌·오지 지역 접근성을 향상시킨다.
 

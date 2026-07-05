@@ -19,7 +19,6 @@ text_filename: guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis
 
 ## Three-line Summary
 
-
 Narrative review (in vitro/in vivo/clinical evidence) detailing how diabetes (chronic hyperglycemia, AGE-RAGE, oxidative stress, prolonged inflammation, impaired angiogenesis) and osteoporosis (resorption-shifted remodeling, low BMD, weak peri-implant bone) impair peri-implant bone healing, and how titanium surface modifications—especially nanotopography (<25 nm nanoporous)—may rescue deficient healing pathways.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review (in vitro/in vivo/clinical evidence) detailing how diabetes (ch
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰 — 당뇨(만성 고혈당·AGE-RAGE·산화스트레스·염증 지연·혈관신생 저하)와 골다공증(흡수 우위 remodeling·낮은 골밀도·약한 골)이 임플란트 주위 골치유를 손상시키는 기전을 정리하고, 티타늄 표면처리(특히 나노토포그래피)가 손상된 치유 경로를 회복시킬 수 있음을 제시.
 

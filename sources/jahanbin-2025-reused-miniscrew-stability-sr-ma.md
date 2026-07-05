@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA of 18 studies finding that reused orthodontic miniscrews have no significant difference in insertion/fracture torque compared to new ones in vitro, but show a significantly higher clinical failure rate (RR 0.46), influenced by sterilization method, insertion technique, and patient anatomy.
+
+SR+MA of 18 studies finding that reused orthodontic miniscrews have no significant difference
+
+in insertion/fracture torque compared to new ones in vitro, but show a significantly
+
+higher clinical failure rate (RR 0.46), influenced by sterilization method, insertion technique, and patient anatomy.
+
+## 세줄요약
+
+SR+MA of 18 studies finding that reused orthodontic miniscrews have no 유의미한 difference
+
+in insertion/fracture torque compared to new ones 시험관내, but show a 유의미한ly
+
+higher clinical failure rate (RR 0.46), influenced by sterilization method, insertion technique, and patient anatomy.
 
 ## 1. Document Information
 - **Journal**: Journal of the World Federation of Orthodontists (J World Fed Orthod), Volume 14, Issue 2, Pages 97–110, April 2025

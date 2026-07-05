@@ -15,8 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
-근관 disinfection의 미래로 nanorobot/nanozyme/biodegradable nanoparticle을 제시하는 J Conserv Dent Endod 2026 editorial. 임상 단계 미도달, 실험실 evidence + 안전성·biocompatibility 미해결.
+근관 disinfection의 미래로 nanorobot/nanozyme/biodegradable nanoparticle을 제시하는
 
+J Conserv Dent Endod 2026 editorial.
+
+임상 단계 미도달, 실험실 evidence + 안전성·biocompatibility 미해결.
+
+## 세줄요약
+
+근관 disinfection의 미래로 nanorobot/nanozyme/biodegradable nanoparticle을 제시하는
+
+J Conserv Dent Endod 2026 editorial.
+
+임상 단계 미도달, 실험실 evidence + 안전성·biocompatibility 미해결.
 
 ## 1. Document Information
 

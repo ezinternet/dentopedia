@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Network meta-analysis of 21 RCTs (mature permanent teeth) ranking VPT bioactive materials against MTA: calcium hydroxide had significantly higher failure (OR ~2.3–2.5 at 6/12/24 mo) while Biodentine and Totalfill did not differ from MTA.
 
 (incomplete)
@@ -23,7 +22,6 @@ Network meta-analysis of 21 RCTs (mature permanent teeth) ranking VPT bioactive 
 (incomplete)
 
 ## 세줄요약
-
 
 21편 RCT(성숙영구치)의 네트워크 메타분석으로, VPT 생체활성재료를 MTA 기준 비교 시 수산화칼슘은 6·12·24개월에서 유의하게 높은 실패율(OR 약 2.3–2.5)을 보였고 Biodentine·Totalfill은 MTA와 차이가 없었다.
 

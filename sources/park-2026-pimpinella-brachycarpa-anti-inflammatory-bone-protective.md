@@ -19,7 +19,6 @@ text_filename: park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protectiv
 
 ## Three-line Summary
 
-
 Rat ligature-induced periodontitis study (6 groups, n=5–7/group): Pimpinella brachycarpa extract (PBE, 150–300 mg/kg/day) dose-dependently reduced alveolar bone loss, TRAP+ osteoclasts, and CD45/IL-1β/TNF-α, with efficacy comparable to the positive control ISD (250 mg/kg/day, the Insadol Plus formula = Zea mays + Magnolia cortex extract).
 
 (incomplete)
@@ -27,7 +26,6 @@ Rat ligature-induced periodontitis study (6 groups, n=5–7/group): Pimpinella b
 (incomplete)
 
 ## 세줄요약
-
 
 쥐 결찰-유발 치주염 모델(6군, 군당 n=5–7)에서 한약 추출물 PBE(150–300 mg/kg/day)가 치조골 소실·TRAP+ 파골세포·CD45/IL-1β/TNF-α를 용량 의존적으로 줄였고, 그 효과가 양성대조약 ISD(250 mg/kg/day, 옥수수+후박 추출물 = 인사돌플러스 처방)와 비슷했다.
 

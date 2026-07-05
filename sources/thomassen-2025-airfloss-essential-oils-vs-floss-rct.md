@@ -19,7 +19,6 @@ Head-to-head examiner-blind RCT of a powered air-flosser charged with essential-
 
 ## Three-line Summary
 
-
 Examiner-blind parallel RCT (n=82 systemically healthy adults, ≥25% lower-jaw BOMP, no periodontitis;
 
 3-wk experimental gingivitis then 4-wk reversal): AirFloss Ultra + essential oils (AFeo) vs waxed dental floss (DF), both adjunct to twice-daily fluoride toothbrushing — both reduced BOMP/MPI/GAS but NO between-group difference at any time point (p>0.05);
@@ -27,7 +26,6 @@ Examiner-blind parallel RCT (n=82 systemically healthy adults, ≥25% lower-jaw 
 no serious adverse events.
 
 ## 세줄요약
-
 
 검사자 맹검 평행 RCT (n=82, 전신 건강 성인, 하악 BOMP ≥25%, 치주염 없음;
 

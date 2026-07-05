@@ -19,7 +19,6 @@ text_filename: zhou-2026-metal-phenolic-electrospun-membrane-alveolar-gbr.txt
 
 ## Three-line Summary
 
-
 In-vitro + rat alveolar bone defect study: a silk fibroin/PCL electrospun membrane loaded with curcumin–strontium metal-phenolic nanoparticles (Cur-Sr/SF/PCL) gave superior mechanical strength (~13.9 MPa) and slow degradation (<8% at 8 weeks), and synergistically drove osteogenesis (Wnt/Ca/CaN pathway), angiogenesis (VEGF/HIF-1), and M1→M2 macrophage reprogramming, yielding the highest BV/TV and new-bone fraction in vivo.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro + rat alveolar bone defect study: a silk fibroin/PCL electrospun membra
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro + 쥐 치조골 결손 연구: 커큐민-스트론튬 금속-페놀 나노입자를 담지한 실크피브로인/PCL 전기방사막(Cur-Sr/SF/PCL)이 우수한 인장강도(~13.9 MPa)와 느린 분해(8주 <8%)를 보이며, 골형성(Wnt/Ca/CaN)·혈관신생(VEGF/HIF-1)·대식세포 M1→M2 전환을 시너지로 유도해 in vivo에서 최고 BV/TV·신생골 면적을 달성했다.
 

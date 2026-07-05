@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-J Prosthet Dent 2015;113(3):175-184 (Otago, NZ) — systematic review of 1006 → 23 studies on clinical tooth preparation geometry; recommended TOC values have shifted from unachievable 2-5° taper (1960s) to a realistic 10-22° range; in-mouth preparation gives higher TOC than out-of-mouth; calls for standardized cross-section-based measurement.
 
+J Prosthet Dent 2015;113(3):175-184 (Otago, NZ) — systematic review of 1006 → 23 studies on clinical tooth preparation geometry
+
+recommended TOC values have shifted from unachievable 2-5° taper (1960s) to a realistic 10-22° range
+
+in-mouth preparation gives higher TOC than out-of-mouth; calls for standardized cross-section-based measurement.
+
+## 세줄요약
+
+J Prosthet Dent 2015;113(3):175-184 (Otago, NZ) — systematic review of 1006 → 23 studies on clinical tooth preparation geometry
+
+recommended TOC values have shifted from unachievable 2-5° taper (1960s) to a realistic 10-22° range
+
+in-mouth preparation gives higher TOC than out-of-mouth; calls for standardized cross-section-based measurement.
 
 ## 1. Document Information
 - Journal: Journal of Prosthetic Dentistry 2015;113(3):175-184

@@ -15,7 +15,6 @@ The zirconia-bonding pages we hold ([[dental-materials/zirconia/lopes-2023-unive
 
 ## Three-line Summary
 
-
 8-year RCT (57 patients, 64 cantilever zirconia RBFDPs, mean 61.4 mo) — non-invasive nanostructured alumina coating (NAC) gave retention (88.4%) statistically equivalent to airborne-particle abrasion (89.1%, p=0.99), with 100% prosthesis survival.
 
 (incomplete)
@@ -23,7 +22,6 @@ The zirconia-bonding pages we hold ([[dental-materials/zirconia/lopes-2023-unive
 (incomplete)
 
 ## 세줄요약
-
 
 8년 RCT (환자 57명, 캔틸레버 지르코니아 RBFDP 64개, 평균 61.4개월) — 비침습적 나노구조 알루미나 코팅(NAC) 유지율 88.4%가 분사연마(APA) 89.1%와 통계적으로 동등(p=0.99), 보철물 생존율 100%.
 

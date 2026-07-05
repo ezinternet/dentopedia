@@ -10,7 +10,17 @@ source_collection: external
 ---
 
 ## Three-line Summary
-DPC 재료 6종 비교 Bayesian NMR(RCT 21개, 1733명): Biodentine OR 4.41, MTA OR 3.02로 Ca(OH)₂ 대비 유의 우위; 추적 기간 보정.
+Network meta-regression of 21 RCTs (1,733 patients) comparing 6 direct pulp capping materials: Biodentine (OR 4.41) and MTA (OR 3.02) both significantly superior to Ca(OH)₂;
+
+analysis adjusted for follow-up duration.
+
+(see methodology).
+## 세줄요약
+Bayesian 네트워크 메타회귀(RCT 21개, 1733명): 직접 치수 캡핑(DPC) 재료 6종(Biodentine, MTA, Ca(OH)₂, TheraCal, 레진계, 기타) 동시 비교.
+
+Biodentine OR 4.41 [1.40–17.66], MTA OR 3.02 [1.19–8.30] vs Ca(OH)₂; SUCRA 순위: Biodentine > MTA > 나머지; 추적 기간 길수록 성공률 하락 보정.
+
+임상적 의미: Biodentine과 MTA가 Ca(OH)₂보다 DPC 임상 성공률이 유의 우수하나, 신뢰 구간 넓음(소규모 연구) 및 치료 결과 정의 불일치가 제한요인.
 
 ## 1. Document Information
 - **Title**: Comparative clinical success of direct pulp capping materials: A network meta-regression of randomized clinical trials

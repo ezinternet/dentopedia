@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (5 studies;
 
 282 NDIs, 100 RDIs) finding narrow-diameter implants yield implant survival, MBL, and PPD comparable to regular-diameter implants with bone augmentation in the anterior maxilla over 36 months.
@@ -23,7 +22,6 @@ SR+MA (5 studies;
 (incomplete)
 
 ## 세줄요약
-
 
 5편(NDI 282개, RDI 100개) 체계적 고찰·메타분석.
 

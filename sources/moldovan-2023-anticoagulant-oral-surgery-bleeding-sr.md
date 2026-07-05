@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR of 7 studies comparing continuous vs discontinuous anticoagulant therapy for oral surgery: no significant difference in bleeding events; risk-scoring tools recommended for surgical decision-making.
 
+SR of 7 studies comparing continuous vs discontinuous
+
+anticoagulant therapy for oral surgery: no significant difference
+
+in bleeding events; risk-scoring tools recommended for surgical decision-making.
+
+## 세줄요약
+
+SR of 7 studies comparing continuous vs discontinuous
+
+anticoagulant therapy for oral surgery: no 유의미한 difference
+
+in bleeding events; risk-scoring tools recommended for surgical decision-making.
 
 ## 1. Document Information
 - **Journal**: Medicine and Pharmacy Reports, Vol. 96 No. 4, 2023: 346–357

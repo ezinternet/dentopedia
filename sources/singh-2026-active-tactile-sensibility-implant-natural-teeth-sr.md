@@ -18,7 +18,6 @@ text_filename: singh-2026-active-tactile-sensibility-implant-natural-teeth-sr.tx
 
 ## Three-line Summary
 
-
 PRISMA SR of 6 clinical studies (4 RCTs, 1 prospective, 1 cross-sectional): single-implant active tactile sensibility thresholds (10–100 µm) are consistently higher (coarser) than natural-tooth thresholds (<10–50 µm), but osseoperception improves over time with functional loading;
 
 immediate loading and occlusion against a natural antagonist accelerate sensory recovery — the physiological rationale for lighter implant occlusal contacts.
@@ -26,7 +25,6 @@ immediate loading and occlusion against a natural antagonist accelerate sensory 
 (incomplete)
 
 ## 세줄요약
-
 
 임상연구 6편(RCT 4·전향 1·단면 1)을 종합한 PRISMA 체계적 고찰: 단일 임플란트의 능동 촉각 감수성(ATS) 역치(10–100µm)는 자연치(<10–50µm)보다 일관되게 높지만(둔감), 기능적 부하와 함께 골유착감각이 시간경과로 개선된다.
 

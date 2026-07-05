@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 3 RCTs (2017): probiotics (mainly Lactobacillus) significantly reduce organoleptic halitosis scores (SMD −1.93) but do not significantly lower volatile sulfur compound concentrations (SMD −0.02).
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 3 RCTs (2017): probiotics (mainly Lactobacillus) significantly reduce o
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (RCT 3편, 2017): 프로바이오틱스(주로 Lactobacillus)는 기관능관능 구취 점수를 유의하게 낮추나(SMD −1.93), VSC 농도에는 유의한 차이 없음(SMD −0.02).
 

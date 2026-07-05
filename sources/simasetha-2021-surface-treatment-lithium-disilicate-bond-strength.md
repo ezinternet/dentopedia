@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n=70, 7 groups) comparing silane surface treatments on HF-etched lithium disilicate: experimental silane + adhesive achieved highest SBS (45.49 MPa), with bonding method mattering more than silane brand.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro study (n=70, 7 groups) comparing silane surface treatments on HF-etched
 (incomplete)
 
 ## 세줄요약
-
 
 인 비트로 연구 (n=70, 7그룹): HF 산처리된 리튬 디실리케이트에 대한 실란 처리 비교 — 실험적 순수 실란 + 접착제 조합이 최고 전단결합강도(45.49 MPa)를 보였으며, 실란 종류보다 접착제 추가 여부가 더 중요했다.
 

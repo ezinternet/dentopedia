@@ -19,7 +19,6 @@ Adds furcation-specific regenerative evidence to the wiki's periodontal regenera
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis of 21 RCTs (all class II furcation defects, 786 patients, mean 9.42-mo follow-up): adding PRF to OFD (or to bone graft) significantly improves PPD/VCAL/HCAL (e.g., OFD vs OFD/PRF: PPD MD 1.73 mm, VCAL MD 1.42 mm), PRF alone is clinically equivalent to bone graft/collagen membrane/PRP/rhBMP2, and layering a small biomolecule (metformin, bisphosphonate, statin) or amniotic membrane onto PRF further improves outcomes — amid very high heterogeneity (I²≈85–94%).
 
 (incomplete)
@@ -27,7 +26,6 @@ Systematic review + meta-analysis of 21 RCTs (all class II furcation defects, 78
 (incomplete)
 
 ## 세줄요약
-
 
 21개 RCT(전부 2급 치근이개부병소, 786명, 평균 9.42개월) SR+메타분석: 치은박리소파술(OFD) 또는 골이식(BG)에 혈소판농축피브린(PRF)을 더하면 PPD·수직/수평 부착수준이 유의하게 개선(OFD vs OFD/PRF: PPD 1.73 mm, VCAL 1.42 mm)되고, PRF 단독은 골이식·콜라겐막·PRP·rhBMP2와 임상적으로 동등하며, PRF에 소분자(메트포르민·비스포스포네이트·스타틴)나 양막을 추가하면 결과가 더 좋아진다 — 단 이질성이 매우 높음(I²≈85–94%).
 

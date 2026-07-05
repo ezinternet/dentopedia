@@ -19,7 +19,6 @@ This is the key HEAD-TO-HEAD synthesis for choosing a horizontal ridge augmentat
 
 ## Three-line Summary
 
-
 SR+MA (18 studies, 17 meta-analyzed → 21 groups, 336 patients / 665 implants;
 
 Jan 2017–Dec 2022) ranking horizontal ridge augmentation by mean bone gain: GBR 4.04 mm > RS 3.66 mm > OD 2.15 mm (ANOVA P=0.002);
@@ -27,7 +26,6 @@ Jan 2017–Dec 2022) ranking horizontal ridge augmentation by mean bone gain: GB
 implant survival ~99% for all; OD applied to widest ridges, RS to narrowest.
 
 ## 세줄요약
-
 
 수평 치조제 증대술 3종(가이드골재생 GBR·치조제분할 RS·골밀도화 OD)을 직접 비교한 SR+MA(18편, 17편 메타분석, 환자 336명/임플란트 665개): 평균 수평 골증대량 GBR 4.04 mm > RS 3.66 mm > OD 2.15 mm (P=0.002), 임플란트 생존율은 세 방법 모두 ~99%로 동일.
 

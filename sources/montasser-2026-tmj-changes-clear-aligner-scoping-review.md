@@ -19,7 +19,6 @@ text_filename: montasser-2026-tmj-changes-clear-aligner-scoping-review.txt
 
 ## Three-line Summary
 
-
 Scoping review (PRISMA-ScR) of 4 retrospective CBCT studies on TMJ morphology after clear-aligner treatment: no significant condylar-position or joint-space change in adult Class I (extraction + non-extraction) and Class II non-extraction;
 
 Class II div 2 non-extraction showed forward condylar repositioning;
@@ -27,7 +26,6 @@ Class II div 2 non-extraction showed forward condylar repositioning;
 growth-driven changes in adolescent Class II div 1 functional aligners. All 4 studies serious RoB (ROBINS-I) → evidence exploratory, not confirmatory.
 
 ## 세줄요약
-
 
 CBCT 기반 후향 4편 scoping review(PRISMA-ScR): 성인 Class I(발치·비발치)·Class II 비발치에서 과두 위치·관절강 유의 변화 없음.
 

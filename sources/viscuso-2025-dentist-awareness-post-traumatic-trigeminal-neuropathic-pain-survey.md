@@ -19,7 +19,6 @@ text_filename: viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropat
 
 ## Three-line Summary
 
-
 Web-based cross-sectional survey of 634 Italian dentists: 29% were unaware that post-traumatic trigeminal neuropathic pain (PTTN) exists and >80% received no teaching about it, yet 70% had encountered suspected cases — most managed with irreversible procedures and only ~1 in 3 referred to a pain specialist, exposing a major misdiagnosis-driven public-health gap.
 
 (incomplete)
@@ -27,7 +26,6 @@ Web-based cross-sectional survey of 634 Italian dentists: 29% were unaware that 
 (incomplete)
 
 ## 세줄요약
-
 
 이탈리아 치과의 634명 웹 단면조사: 29%가 외상후 삼차신경병성 통증(PTTN) 존재를 모르고 80% 이상이 관련 교육을 받은 적 없으나 70%가 의심 사례를 경험 — 대부분 비가역 치료로 대응하고 3명 중 1명만 통증 전문의에 의뢰해, 오진 기반의 중대한 공중보건 공백을 드러냄.
 

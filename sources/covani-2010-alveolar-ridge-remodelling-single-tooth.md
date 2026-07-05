@@ -18,8 +18,6 @@ Buccal resorption was greatest at the midpoint of the socket (39.1 ± 10.4%) ver
 
 The non-uniform buccal-dominant, central-maximum resorption pattern implies that implant placement and ridge preservation procedures should specifically target the mid-buccal zone.
 
-## 세줄요약
-
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2010; doi: 10.1111/j.1600-0501.2010.02060.x
 - **Institution**: Versilia Hospital / University of Pisa / University of Genoa, Italy

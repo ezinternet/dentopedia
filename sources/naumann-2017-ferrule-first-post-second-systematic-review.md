@@ -18,7 +18,6 @@ This is the landmark clinical SR that directly challenges the post-first assumpt
 
 ## Three-line Summary
 
-
 SR of 8 prospective clinical studies (≥5yr) in endodontically treated teeth: ferrule/cavity wall preservation is the dominant survival factor;
 
 7/8 studies show no independent benefit from post placement.
@@ -26,7 +25,6 @@ SR of 8 prospective clinical studies (≥5yr) in endodontically treated teeth: f
 (incomplete)
 
 ## 세줄요약
-
 
 근관치료 치아 대상 전향적 임상연구 8편(5년 이상) 체계적 고찰: 페룰(ferrule)·치벽 보존이 생존의 주요 결정인자이며, 8편 중 7편에서 포스트의 독립적 효과 없음.
 

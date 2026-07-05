@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Human cadaver correlation study (48 stepped-cylinder implants in 4 maxillae/mandibles) relating implant primary stability to CT bone mineral density and histomorphometric parameters of the implant site.
 
 (incomplete)
@@ -23,7 +22,6 @@ Human cadaver correlation study (48 stepped-cylinder implants in 4 maxillae/mand
 (incomplete)
 
 ## 세줄요약
-
 
 인체 cadaver 상관 연구(stepped-cylinder 임플란트 48개, 상·하악 4구) — 임플란트 일차안정성을 CT 골밀도·식립부 histomorphometric 지표와 상관 분석.
 

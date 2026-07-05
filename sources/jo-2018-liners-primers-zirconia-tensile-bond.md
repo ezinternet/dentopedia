@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-J Adv Prosthodont 2018;10:374-80: silica-based glass-ceramic liner + P-free liner vs MDP primers — both types significantly increase tensile bond strength vs control; liner effect comparable to MDP primer; P-free liner slightly inferior.
+
+J Adv Prosthodont 2018;10:374-80: silica-based glass-ceramic liner + P-free liner vs MDP primers — both types significantly increase tensile bond strength vs control
+
+liner effect comparable to MDP primer
+
+P-free liner slightly inferior.
+
+## 세줄요약
+
+지르코니아-복합레진 인터페이스의 인장 결합강도 in vitro 비교: 실릭산 유리-세라믹 라이너 + 무인산 라이너 vs MDP 프라이머
+
+모든 표면 처리가 대조군보다 유의하게 높은 TBS를 나타냄 — 함인산 라이너는 MDP 프라이머와 동등
+
+무인산 라이너는 함인산 라이너보다 약간 낮은 수준의 결합강도.
 
 ## 1. Key Results
 - All surface treatments (2 primers + 2 liners) significantly higher TBS than control

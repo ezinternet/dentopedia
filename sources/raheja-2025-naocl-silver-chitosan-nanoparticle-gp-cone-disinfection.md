@@ -19,7 +19,6 @@ Chairside gutta-percha (GP) cone decontamination is a small but recurring endodo
 
 ## Three-line Summary
 
-
 In vitro comparison (335 F1 ProTaper GP cones, *B. subtilis* + *C.
 
 albicans*): 2.62% and 5.25% NaOCl eliminated both organisms within 1 min with minimal AFM surface change, whereas 250 µg/mL AgNPs and 625 µg/mL ChNPs needed 5 min against *B. subtilis* (both cleared *C.
@@ -27,7 +26,6 @@ albicans*): 2.62% and 5.25% NaOCl eliminated both organisms within 1 min with mi
 albicans* in 1 min); all agents caused progressive, time-dependent topographical damage.
 
 ## 세줄요약
-
 
 In vitro 연구 (F1 ProTaper GP cone 335개, *B.
 

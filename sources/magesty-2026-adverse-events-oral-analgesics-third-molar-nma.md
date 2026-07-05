@@ -19,7 +19,6 @@ Existing analgesics pages emphasize NSAID *efficacy* and serious long-term safet
 
 ## Three-line Summary
 
-
 Frequentist network meta-analysis of 28 RCTs (5306 third-molar patients): single-dose NSAID monotherapy ranked least safe by SUCRA (86.5%), but very low–low certainty and a high placebo adverse-event rate point to a predominant nocebo effect rather than true NSAID harm.
 
 (incomplete)
@@ -27,7 +26,6 @@ Frequentist network meta-analysis of 28 RCTs (5306 third-molar patients): single
 (incomplete)
 
 ## 세줄요약
-
 
 28개 RCT(5306명, 하악 제3대구치 발치)의 빈도주의 네트워크 메타분석: 단회 경구 NSAID 단독요법이 SUCRA 안전성 순위에서 가장 위험(86.5%)했으나 근거 확실성은 매우 낮음~낮음이고 위약군 이상반응 빈도도 높아, 실제 NSAID 위해보다 노세보(nocebo) 효과가 주된 기전으로 해석됨.
 

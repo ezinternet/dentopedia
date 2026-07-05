@@ -19,7 +19,6 @@ text_filename: xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars.txt
 
 ## Three-line Summary
 
-
 Retrospective cohort study with 1:1 propensity score matching (312 primary molars with diagnostically equivocal pulp status, 156 matched pairs per group) found pulpotomy (iRoot BP Plus) had significantly higher 24-month survival than pulpectomy (ZOE-iodoform) — 86.4% vs 67.1%, log-rank p<0.001;
 
 benefit concentrated in asymptomatic teeth (HR=0.42, p=0.002) with no significant difference in symptomatic teeth (HR=0.88, p=0.41);
@@ -27,7 +26,6 @@ benefit concentrated in asymptomatic teeth (HR=0.42, p=0.002) with no significan
 pulpotomy showed more internal resorption, pulpectomy more external resorption/periapical radiolucency.
 
 ## 세줄요약
-
 
 성향점수매칭(PSM) 후향적 코호트 연구(치수 상태가 애매한 유구치 312개, 매칭 후 156쌍)에서 24개월 생존율이 pulpotomy(iRoot BP Plus군) 86.4% vs pulpectomy(ZOE-요오드폼군) 67.1%로 유의하게 높음(log-rank p<0.001);
 

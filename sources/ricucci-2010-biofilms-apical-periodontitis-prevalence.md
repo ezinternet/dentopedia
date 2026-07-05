@@ -15,7 +15,6 @@ This is the key histobacteriologic study that *empirically quantifies* the intra
 
 ## Three-line Summary
 
-
 Cross-sectional histobacteriologic study (Ricucci & Siqueira 2010, J Endod) of 106 roots (64 untreated, 42 treated) with apical periodontitis: intraradicular biofilms in 77% of canals (80% untreated, 74% treated), more frequent with larger lesions and significantly associated with epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%;
 
 p<0.001);
@@ -23,7 +22,6 @@ p<0.001);
 extraradicular biofilms in only 6%.
 
 ## 세줄요약
-
 
 Ricucci & Siqueira (2010, J Endod) 횡단·조직세균학 연구 — 치근단치주염 치아 106개 치근(미치료 64, 치료 42)에서 근관 내 바이오필름이 77%(미치료 80%, 치료 74%)에 존재했고, 병소가 클수록·상피화 병소(낭종 95%·농양 83%·육아종 69.5%)일수록 유의하게 많았으며(p<0.001), 근관 외 바이오필름은 단 6%에 그쳐 치근단치주염을 바이오필름 유발 질환으로 분류할 근거를 제시.
 

@@ -19,7 +19,6 @@ text_filename: ramirez-martinez-acitores-2020-antihypertensive-xerostomia-saliva
 
 ## Three-line Summary
 
-
 Systematic review (PRISMA, 13 studies: 5 clinical trials + 8 case-control) finding the evidence for antihypertensive drugs causing more xerostomia/hyposalivation than controls is inconclusive and of low methodological quality overall — clinical trials show mixed/non-significant salivary flow changes, while case-control studies more consistently (though not uniformly) show lower salivary flow in antihypertensive-treated patients, with no single drug class identifiable as most xerogenic due to study heterogeneity.
 
 (incomplete)
@@ -27,7 +26,6 @@ Systematic review (PRISMA, 13 studies: 5 clinical trials + 8 case-control) findi
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(PRISMA, 13편: RCT 5편+환자대조군 8편) — 항고혈압제 복용군이 대조군보다 미각/침분비저하(xerostomia/hyposalivation)가 더 심하다는 확증적 근거는 부족하며 전반적 방법론적 질도 낮음;
 

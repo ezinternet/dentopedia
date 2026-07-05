@@ -19,7 +19,6 @@ text_filename: khan-2023-trigeminal-neuralgia-therapeutic-approach-sr.txt
 
 ## Three-line Summary
 
-
 Umbrella/systematic review (11 review articles, 31 pharmacological interventions, PROSPERO CRD42023408948) confirming carbamazepine and oxcarbazepine as first-line drugs for classical trigeminal neuralgia, with lamotrigine/baclofen second-line and botulinum toxin A / IV lidocaine for refractory cases.
 
 (incomplete)
@@ -27,7 +26,6 @@ Umbrella/systematic review (11 review articles, 31 pharmacological interventions
 (incomplete)
 
 ## 세줄요약
-
 
 엄브렐러/체계적 문헌고찰 (리뷰 11편·약물 31종) — 전형 삼차신경통의 1차 약물은 카르바마제핀·옥스카르바제핀, 2차는 라모트리진·바클로펜, 난치성에는 보툴리눔독소 A와 정맥 리도카인, 혈관압박 전형 TN의 1차 수술은 미세혈관감압술(MVD).
 

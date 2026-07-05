@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 3D FEA (n=3 systems, 100N vertical/30° oblique): novel hook-retained prosthesis (HRP) showed lower implant stress (21.33 MPa) than screw-and-cement (SCRP, 32.91 MPa) and comparable to cementless screw-retained (SRP, 21.92 MPa), with similar peri-implant bone stress across all groups.
 
 (incomplete)
@@ -23,7 +22,6 @@ source_collection: external
 (incomplete)
 
 ## 세줄요약
-
 
 3D 유한요소분석에서 새로운 후크유지 보철(HRP)의 임플란트 최대 폰미제스 응력(21.33 MPa)이 스크류-시멘트 유지(SCRP, 32.91 MPa)보다 낮고 시멘트리스 스크류유지(SRP, 21.92 MPa)와 유사하여 HRP가 SCRP의 대안으로 타당함을 확인함.
 

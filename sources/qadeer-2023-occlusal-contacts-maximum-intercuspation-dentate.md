@@ -18,7 +18,6 @@ Establishes the baseline question of what a "normal" number of occlusal contacts
 
 ## Three-line Summary
 
-
 Systematised review of 18 studies over four decades (1980s–2022) finding the number of occlusal contacts at MICP in dentate adults ranges widely from 11 to 70, with variation driven mainly by the occlusal indicator/technique and population differences.
 
 (incomplete)
@@ -26,7 +25,6 @@ Systematised review of 18 studies over four decades (1980s–2022) finding the n
 (incomplete)
 
 ## 세줄요약
-
 
 18편(1980년대–2022)을 종합한 systematised review로, 유치악 성인의 최대교두감합위(MICP) 교합접촉 수는 11~70개로 크게 분포하며 그 차이는 주로 사용된 교합지시재·기법과 대상 집단의 차이에서 비롯된다.
 

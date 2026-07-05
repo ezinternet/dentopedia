@@ -18,7 +18,6 @@ PubMed 감시(one-cone technique) — Camilleri 그룹이 단일콘+hydraulic ce
 
 ## Three-line Summary
 
-
 Split-tooth in-vitro study (4 sealers × 3 irrigation sequences) — continuous chelation with HEDP caused less dentin erosion, a larger mineral zone at the hydraulic-cement/dentin interface, and improved sealer antimicrobial properties;
 
 all sealers lost antimicrobial efficacy after contact with irrigated dentin.
@@ -26,7 +25,6 @@ all sealers lost antimicrobial efficacy after contact with irrigated dentin.
 (incomplete)
 
 ## 세줄요약
-
 
 split-tooth in-vitro(실러 4종 × 세정 3종) — HEDP 지속적 킬레이션은 dentin 침식을 줄이고 hydraulic cement/dentin 계면의 미네랄 영역을 넓히며 실러 항균성을 향상;
 

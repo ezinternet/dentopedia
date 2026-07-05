@@ -20,7 +20,6 @@ Rittipakorn-2025 clockwise OD 논문의 reference surveillance 인제스트. OD�
 
 ## Three-line Summary
 
-
 Animal study (90 short 6mm implants, porcine tibia) showing OD significantly increases insertion torque only for wide (5.4mm) implants vs standard drilling;
 
 narrow (4.2mm) implants show no IT advantage.
@@ -28,7 +27,6 @@ narrow (4.2mm) implants show no IT advantage.
 (incomplete)
 
 ## 세줄요약
-
 
 동물 연구(6mm 단임플란트 90개, 돼지 경골): OD는 광폭(5.4mm) 임플란트에서만 유의하게 높은 삽입 토크를 보이며, 세폭(4.2mm)에서는 표준 드릴링 대비 IT 이점이 없었다.
 

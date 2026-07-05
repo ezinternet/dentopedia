@@ -19,7 +19,6 @@ text_filename: leung-2022-update-on-dental-luting.txt
 
 ## Three-line Summary
 
-
 Narrative review of dental luting materials covering 7 cement families (zinc oxide eugenol, zinc phosphate, zinc polycarboxylate, GIC, RMGIC, hybrid CaAl/GI, resin cements), classifying them by chemistry/bonding/indication and detailing properties, clinical indications, and recent modifications.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review of dental luting materials covering 7 cement families (zinc oxi
 (incomplete)
 
 ## 세줄요약
-
 
 치과 luting 재료 7종(산화아연유지놀·인산아연·폴리카르복실레이트·GIC·RMGIC·칼슘알루미네이트하이브리드·레진시멘트)을 화학조성·결합기전·임상적응증으로 분류하고 각 재료의 속성·적응증·최신 개량을 정리한 서술적 종설.
 

@@ -18,7 +18,6 @@ Quantifies the pulp-necrosis and root-resorption risk that decides whether a lat
 
 ## Three-line Summary
 
-
 SR+MA (13 studies;
 
 GRADE very low): after lateral luxation of permanent anterior teeth, pooled pulp-necrosis prevalence is 57% overall — 58% in mature-apex vs only 12% in immature-apex teeth — and EIRR ~11%, so routine prophylactic pulp extirpation in mature teeth should be applied with caution.
@@ -26,7 +25,6 @@ GRADE very low): after lateral luxation of permanent anterior teeth, pooled pulp
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (13편;
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Radiographic feasibility study on 150 CBCTs of maxillary first premolars, proposing a prosthetically-driven classification system to predict optimal immediate implant location.
 
+Radiographic feasibility study on 150 CBCTs of
+
+maxillary first premolars, proposing a prosthetically-driven classification
+
+system to predict optimal immediate implant location.
+
+## 세줄요약
+
+Radiographic feasibility study on 150 CBCTs of
+
+maxillary first premolars, proposing a prosthetically-driven classification
+
+system to predict optimal immediate implant location.
 
 ## 1. Document Information
 - **Title:** Feasibility of Immediate Implant Placement in Maxillary First Premolars: Prediction of Implant Locations Using Restorations—A Radiographic Study

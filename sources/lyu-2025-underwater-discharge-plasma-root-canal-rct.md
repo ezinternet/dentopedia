@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Prospective RCT pilot (n=28, 4-month follow-up) comparing underwater discharge plasma vs.
 
 6% NaOCl as root canal irrigant — comparable VAS pain reduction and periapical healing (PAI), no adverse effects with UDP.
@@ -23,7 +22,6 @@ Prospective RCT pilot (n=28, 4-month follow-up) comparing underwater discharge p
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 무작위 대조 파일럿 RCT (n=28, 4개월 추적): 수중방전 플라즈마(UDP)와 6% 차아염소산나트륨(NaOCl) 근관세정 비교 — 통증(VAS)과 치근단 치유(PAI) 모두 동등하며 UDP 부작용 없음.
 

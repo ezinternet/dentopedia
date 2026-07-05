@@ -15,7 +15,6 @@ Provides original clinical (cross-sectional) evidence for the failure-cascade th
 
 ## Three-line Summary
 
-
 Analytical cross-sectional study (Nepal, n=95, split-mouth) — fixed-dental-prosthesis abutment teeth had significantly higher plaque index, gingival index, probing depth and clinical attachment loss than contralateral matched non-abutment teeth (all p<0.001);
 
 prosthesis duration and material affected PI/GI, but margin location showed no significant effect on abutment periodontal parameters.
@@ -23,7 +22,6 @@ prosthesis duration and material affected PI/GI, but margin location showed no s
 (incomplete)
 
 ## 세줄요약
-
 
 분석적 단면연구(네팔, n=95, split-mouth): 고정성 보철 지대치는 대측 대조 비지대치보다 PI·GI·PD·CAL이 모두 유의하게 높음(p<0.001).
 

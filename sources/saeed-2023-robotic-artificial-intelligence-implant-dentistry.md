@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cureus 2023: Narrative review — robotics + AI in implant dentistry; robotic accuracy in placement, AI for diagnosis/treatment planning; ethical considerations; integration with digital workflows; case studies show improved survival rates and patient satisfaction.
 
+Cureus 2023: Narrative review — robotics + AI in implant dentistry
+
+robotic accuracy in placement, AI for diagnosis/treatment planning
+
+ethical considerations; integration with digital workflows; case studies show improved survival rates and patient satisfaction.
+
+## 세줄요약
+
+Cureus 2023: Narrative review — robotics + AI in implant dentistry
+
+robotic accuracy in placement, AI for diagnosis/treatment planning
+
+ethical considerations; integration with digital workflows; case studies show improved 생존율s and patient satisfaction.
 
 ## 1. Key Results
 - Narrative review (Ministry of Health, Saudi Arabia)

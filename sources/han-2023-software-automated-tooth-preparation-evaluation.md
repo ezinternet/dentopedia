@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro feasibility study (35 mandibular first molars prepared by graduate students) proposing software-based automated evaluation (SAE) of crown tooth preparation via a computational geometric algorithm;
 
 SAE showed perfect intra-rater agreement (vs moderate-to-good for human digitally assisted evaluation) and almost-perfect SAE–DAE inter-rater agreement.
@@ -23,7 +22,6 @@ SAE showed perfect intra-rater agreement (vs moderate-to-good for human digitall
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 타당성 연구(대학원생이 형성한 하악 제1대구치 35개): computational geometric algorithm 기반 자동 평가(SAE)로 crown 형성치의 교합면 삭제량·축면 경사(TOC)를 평가했더니, 인간의 디지털 보조 평가(DAE)는 moderate~good 내적 일치였던 반면 SAE는 완벽한 내적 일치를 보였고 SAE–DAE 간 일치도도 거의 완벽했다.
 

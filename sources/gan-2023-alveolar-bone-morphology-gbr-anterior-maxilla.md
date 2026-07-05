@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Retrospective study (n=28) in anterior maxilla showing bone concavity depth ≥1.03 mm and angulation <155.3° significantly reduce grafted bone resorption rate after simultaneous GBR with DBBM + collagen membrane.
 
 (incomplete)
@@ -23,7 +22,6 @@ Retrospective study (n=28) in anterior maxilla showing bone concavity depth ≥1
 (incomplete)
 
 ## 세줄요약
-
 
 전방 상악 지연 임플란트+GBR 28명 후향적 연구 — 골오목 깊이 ≥1.03 mm, 각도 <155.3°에서 이식재 흡수율이 유의하게 낮아 GBR 예후 예측 변수로 확인.
 

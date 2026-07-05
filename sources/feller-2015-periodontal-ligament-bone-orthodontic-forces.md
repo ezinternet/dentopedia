@@ -25,8 +25,6 @@ Review is limited to basic science literature without direct clinical applicatio
 
 기초과학 중심, 임상 적용 부족. In vitro/동물 다변수 부하 조건·개인 생물학 변이·장기 효과 미재현. 힘 임계값 개인/치아별 미표준화로 임상 인도 제한.
 
-
-
 ## 1. Document Information
 - **Title**: Biological Events in Periodontal Ligament and Alveolar Bone Associated with Application of Orthodontic Forces
 - **Authors**: L. Feller, R.A.G. Khammissa, I. Schechter, G. Thomadakis, J. Fourie, J. Lemmer

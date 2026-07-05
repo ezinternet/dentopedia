@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 5 RCTs finding short implants (≤6 mm) supporting single crowns in the posterior region have survival comparable to standard implants short-term but significantly poorer long-term (RR 0.94), with no MBL difference.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 5 RCTs finding short implants (≤6 mm) supporting single crowns in the
 (incomplete)
 
 ## 세줄요약
-
 
 무작위대조시험(RCT) 5편 체계적 고찰·메타분석.
 

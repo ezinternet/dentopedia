@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb, Antibiotics 2024): 치과 항생제 처방 추세 — 전체 처방량과 광범위 항생제 비율 변화; AMR threat 하 국가 단위 stewardship intervention의 baseline.
 
+크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb, Antibiotics
+
+2024): 치과 항생제 처방 추세 — 전체 처방량과 광범위 항생제
+
+비율 변화; AMR threat 하 국가 단위 stewardship intervention의 baseline.
+
+## 세줄요약
+
+크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb, Antibiotics
+
+2024): 치과 항생제 처방 추세 — 전체 처방량과 광범위 항생제
+
+비율 변화; AMR threat 하 국가 단위 stewardship intervention의 baseline.
 
 ## 1. Document Information
 - Authors: Šutej I, Bašić K, Šegović S, Peroš K

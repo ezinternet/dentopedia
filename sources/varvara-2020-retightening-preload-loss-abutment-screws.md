@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study (n=80 implants, internal vs external hexagon) showed retightening at 2 minutes after initial torque (35 Ncm) significantly reduced preload loss compared to 5- or 10-minute intervals or no retightening.
 
 (incomplete)
@@ -23,7 +22,6 @@ In vitro study (n=80 implants, internal vs external hexagon) showed retightening
 (incomplete)
 
 ## 세줄요약
-
 
 체외 연구(내·외부 육각 임플란트 각 40개): 초기 조임(35 Ncm) 후 2분 시점 재조임이 5분·10분·비재조임군 대비 전조임 소실을 유의하게 감소시켰다.
 

@@ -18,7 +18,6 @@ Probiotic adjuncts for periodontal/gingival inflammation are an active area wher
 
 ## Three-line Summary
 
-
 Double-blind placebo-controlled RCT (n=80) of 8-week OraCMU/ProbioticCMU oral probiotic tablets vs placebo in adults with gingivitis/incipient periodontitis: probiotic produced significantly greater reductions in gingival index (GI) and bleeding on probing (BOP) and modulated inflammatory markers and oral microbiota, with no serious adverse events.
 
 (incomplete)
@@ -26,7 +25,6 @@ Double-blind placebo-controlled RCT (n=80) of 8-week OraCMU/ProbioticCMU oral pr
 (incomplete)
 
 ## 세줄요약
-
 
 성인 치은염·초기 치주염 환자 80명 대상 이중맹검 위약대조 무작위대조시험(RCT): OraCMU/ProbioticCMU 경구 프로바이오틱 정제를 8주간 1일 2회 복용한 군이 위약군보다 치은지수(GI)·탐침시 출혈(BOP)을 유의하게 더 많이 감소시키고 염증 마커·구강 미생물총을 조절했으며 중대한 이상반응은 없었음.
 

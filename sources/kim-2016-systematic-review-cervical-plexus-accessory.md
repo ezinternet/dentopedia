@@ -18,7 +18,6 @@ text_filename: kim-2016-systematic-review-cervical-plexus-accessory.txt
 
 ## Three-line Summary
 
-
 Systematic review (44/185 papers, 1922–2015, Ovid/Medline): cervical plexus accessory innervation — especially via the transverse cervical nerve and great auricular nerve — may explain persistent sensation after "successful" mandibular anesthesia, but evidence quality is mostly low (LOE 4–5 dominate;
 
 only 4 LOE-1 studies).
@@ -26,7 +25,6 @@ only 4 LOE-1 studies).
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(185편 중 44편 채택, 1922–2015, Ovid/Medline): 경부신경총(cervical plexus)의 부가신경 지배 — 특히 횡경부신경(transverse cervical nerve)·대이개신경(great auricular nerve) — 이 "성공적인" 하악마취 후에도 남는 감각을 설명할 수 있으나, 근거 수준은 낮음(LOE 4~5가 다수;
 

@@ -19,7 +19,6 @@ text_filename: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA of 21 RCTs (n=1668): thalidomide significantly raised complete response (vs placebo RR 6.95;
 
 vs other drugs RR 2.18), prolonged recurrence interval (MD +26.91 d), accelerated healing and reduced ulcer number/size and TNF-α, but no pain (VAS) benefit and significantly more adverse events (RR 1.87) — best reserved for major or topical-refractory RAS.
@@ -27,7 +26,6 @@ vs other drugs RR 2.18), prolonged recurrence interval (MD +26.91 d), accelerate
 (incomplete)
 
 ## 세줄요약
-
 
 21개 RCT(1668명) SR+MA: 탈리도마이드는 완전반응률(위약 대비 RR 6.95, 타약물 대비 RR 2.18)을 유의하게 높이고 재발간격(+26.91일)·치유속도·궤양 수/크기·TNF-α를 개선했으나 통증(VAS)은 개선 못 했고 부작용은 유의하게 증가(RR 1.87) — major RAS 또는 국소제 무반응 사례에 한정 권고.
 

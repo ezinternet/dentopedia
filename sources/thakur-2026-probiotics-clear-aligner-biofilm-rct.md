@@ -18,7 +18,6 @@ text_filename: thakur-2026-probiotics-clear-aligner-biofilm-rct.txt
 
 ## Three-line Summary
 
-
 4-period single-blind crossover RCT (n=20 Invisalign users): all four consumer probiotic forms (drink/rinse/gummy/capsule) significantly reduced aligner biofilm viable counts (CFU/mL) and EPS matrix fluorescence vs pre-intervention (P<0.001), CFU reductions 0.62–1.06 log10 with the probiotic drink (Yakult) largest (1.055 log10);
 
 preliminary — short duration, label-only verification, no comparison vs mechanical cleaning.
@@ -26,7 +25,6 @@ preliminary — short duration, label-only verification, no comparison vs mechan
 (incomplete)
 
 ## 세줄요약
-
 
 4기간 단일맹검 교차 RCT(n=20 Invisalign 사용자): 소비자용 프로바이오틱 4종(드링크·린스·구미·캡슐) 모두 aligner biofilm 생균수(CFU/mL)와 EPS 기질 형광을 개입 전 대비 유의하게 감소(P<0.001), CFU 감소 0.62–1.06 log10로 드링크(야쿠르트)가 최대(1.055 log10).
 

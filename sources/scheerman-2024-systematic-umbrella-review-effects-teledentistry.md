@@ -19,7 +19,6 @@ Opens a new teledentistry/service-delivery sub-topic in the thin `practice-manag
 
 ## Three-line Summary
 
-
 First-ever umbrella review of teledentistry (10 systematic reviews, AMSTAR-2): teledentistry is widely *assumed* cost-saving and shows positive oral-health signals, but all included reviews were low/critically-low quality, so there is insufficient evidence for either long-term clinical effectiveness or true cost-effectiveness.
 
 (incomplete)
@@ -27,7 +26,6 @@ First-ever umbrella review of teledentistry (10 systematic reviews, AMSTAR-2): t
 (incomplete)
 
 ## 세줄요약
-
 
 원격치과(teledentistry)에 관한 최초의 우산형 리뷰(systematic review 10편, AMSTAR-2 평가): 비용절감·임상효과 신호는 긍정적이나 포함된 리뷰가 전부 낮음/매우 낮음 품질이라 장기 임상효과와 진정한 비용효과성 모두 근거가 불충분하다.
 

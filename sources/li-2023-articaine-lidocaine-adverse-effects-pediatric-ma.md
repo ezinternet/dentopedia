@@ -15,7 +15,6 @@ Existing local-anesthesia coverage ([[wiki/drug/karm-2017-lidocaine-epinephrine-
 
 ## Three-line Summary
 
-
 SR+MA of 8 RCTs (470 articaine vs 441 lidocaine subjects, ages 3–13): no difference in overall adverse-event risk between 4% articaine and 2% lidocaine in pediatric dentistry (RR 1.08, 95% CI 0.54–2.15, p=0.83), with high heterogeneity (I²=57%) and GRADE-rated "moderate" certainty.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 8 RCTs (470 articaine vs 441 lidocaine subjects, ages 3–13): no diffe
 (incomplete)
 
 ## 세줄요약
-
 
 8개 RCT (articaine 470명 vs lidocaine 441명, 3–13세) SR+MA: 소아치과에서 4% articaine과 2% lidocaine의 전체 이상반응 위험에 차이 없음 (RR 1.08, 95% CI 0.54–2.15, p=0.83), 이질성 높음(I²=57%), GRADE "moderate" 등급.
 

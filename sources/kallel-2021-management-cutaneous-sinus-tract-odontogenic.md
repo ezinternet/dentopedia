@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Case report (n=1, 44-y female, 18-month follow-up): a chronically draining chin lesion repeatedly misdiagnosed and treated with cryotherapy, surgery, and prolonged antibiotics was actually an odontogenic cutaneous sinus tract;
 
 root canal treatment (+ surgery after a 2-week recurrence) resolved it, with clear periapical healing at 18 months — underscoring dentist–physician communication for correct diagnosis.
@@ -23,7 +22,6 @@ root canal treatment (+ surgery after a 2-week recurrence) resolved it, with cle
 (incomplete)
 
 ## 세줄요약
-
 
 증례 보고(n=1, 44세 여성, 18개월 추적): 만성 배농되는 턱 병변이 반복적으로 오진되어 냉동치료·수술·장기 항생제를 받았으나 실제로는 **치성 피부누공(odontogenic cutaneous sinus tract)**;
 

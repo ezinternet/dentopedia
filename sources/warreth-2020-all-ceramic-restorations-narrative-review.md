@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Saudi Dental Journal 2020, PubMed search 2010–2019) providing a comprehensive classification of dental ceramics by composition (glass-based, glass-infiltrated, polycrystalline) and fabrication method (stacking/sintering, heat-pressing, slip-casting, dry-pressing, CAD/CAM), with clinical selection guidance.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Saudi Dental Journal 2020, PubMed search 2010–2019) providin
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 고찰(Saudi Dental Journal 2020): 치과 세라믹을 조성(유리계·유리침윤형·다결정)과 제조법(적층소결·열가압·슬립캐스팅·건식압축·CAD/CAM)으로 분류하고, 임상적 재료 선택 기준을 제시.
 

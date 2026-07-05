@@ -19,7 +19,6 @@ Provides the synthesizing in-vitro evidence base behind the connection-geometry 
 
 ## Three-line Summary
 
-
 Systematic review (10 in-vitro cyclic-loading studies) finding that abutment-screw preload loss after dynamic fatigue ranges 16.1%–39%, and that internal-connection implants — especially Morse taper — best resist screw loosening in single-tooth restorations.
 
 (incomplete)
@@ -27,7 +26,6 @@ Systematic review (10 in-vitro cyclic-loading studies) finding that abutment-scr
 (incomplete)
 
 ## 세줄요약
-
 
 10편의 in-vitro 반복하중 연구를 묶은 체계적 문헌고찰.
 

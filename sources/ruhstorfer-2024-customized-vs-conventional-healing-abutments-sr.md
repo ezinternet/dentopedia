@@ -19,7 +19,6 @@ Seeds the healing-abutment function/usage evidence cluster — the wiki has emer
 
 ## Three-line Summary
 
-
 Systematic review (5 studies — 2 RCTs, 2 prospective, 1 retrospective;
 
 190 implants, 100% survival, 6–36 mo) finding customized healing abutments trend toward better peri-implant soft/hard tissue and esthetics with less treatment pain and no biological or esthetic disadvantage vs conventional titanium stock abutments.
@@ -27,7 +26,6 @@ Systematic review (5 studies — 2 RCTs, 2 prospective, 1 retrospective;
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(5편 — RCT 2·전향 2·후향 1;
 

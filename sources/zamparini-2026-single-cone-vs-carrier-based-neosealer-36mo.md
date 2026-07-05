@@ -19,7 +19,6 @@ PubMed 감시(one-cone technique) — Bologna 그룹(Prati/Zamparini/Spinelli)�
 
 ## Three-line Summary
 
-
 Retrospective cohort (53 RCTs, 48 patients, NeoSealer Flo) — single-cone vs carrier-based had equivalent 36-mo healing (93% vs 88%, p>0.05) but carrier-based showed significantly more apical sealer extrusion (75% vs 48.2%);
 
 extrusion did not compromise healing.
@@ -27,7 +26,6 @@ extrusion did not compromise healing.
 (incomplete)
 
 ## 세줄요약
-
 
 후향 코호트(53건, 48명, NeoSealer Flo) — 단일콘 vs carrier-based의 36개월 치유율은 동등(93% vs 88%, p>0.05)했으나 carrier-based에서 치근단 실러 압출이 유의하게 많았다(75% vs 48.2%);
 

@@ -29,8 +29,6 @@ Primary 교합외상은 건강한 치주에서 돌이킬 수 없는 부착소실
 
 치아동요·PDL 확장·fremitus 등 진단 징후가 있으나 단 하나의 결정적 검사는 없으며, 인체 근거는 대부분 연관성만 입증되고 인과성은 미해결 상태.
 
-
-
 ## 1. Document Information
 - J Periodontol 2018;89(Suppl 1):S214–S222 (jointly published in J Clin Periodontol). DOI 10.1002/JPER.16-0581.
 - 2017 World Workshop on Classification of Periodontal and Peri-Implant Diseases and Conditions.

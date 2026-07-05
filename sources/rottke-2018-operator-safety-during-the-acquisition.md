@@ -19,7 +19,6 @@ Quantifies the operator-side radiation dose and scatter geometry of a handheld/p
 
 ## Three-line Summary
 
-
 In-vitro phantom dosimetry of the Aribex NOMAD Pro 2 handheld intraoral X-ray showing operator scatter dose is negligible behind the device and that the control area (max 42 cm, mean 16.7 cm at 4000 simulated exposures) is far smaller than European/international standards specify, provided manufacturer instructions are followed.
 
 (abstract-only — full text not retrieved)
@@ -27,7 +26,6 @@ In-vitro phantom dosimetry of the Aribex NOMAD Pro 2 handheld intraoral X-ray sh
 (incomplete)
 
 ## 세줄요약
-
 
 휴대용 구내 X-ray(Aribex NOMAD Pro 2)의 팬텀 선량 측정 in-vitro 연구 — 술자 뒤쪽 산란선은 측정되지 않았고, 관리구역(최대 42 cm, 4000회 모의노출 평균 16.7 cm)이 유럽·국제 방사선방호 기준보다 훨씬 작아 제조사 지침 준수 시 술자 위험이 증가하지 않음을 입증.
 

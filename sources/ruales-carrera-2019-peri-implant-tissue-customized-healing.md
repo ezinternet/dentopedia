@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Clinical case series (2019) demonstrating a chairside customized healing abutment technique for immediate implants to preserve peri-implant soft tissue contours without provisional restorations.
 
 (incomplete)
@@ -23,7 +22,6 @@ Clinical case series (2019) demonstrating a chairside customized healing abutmen
 (incomplete)
 
 ## 세줄요약
-
 
 즉시 임플란트 식립 후 임시 보철 없이 맞춤형 치유 지대주를 이용해 연조직 외형을 보존하는 간소화된 임상 기법을 소개한 케이스 시리즈 (2019).
 

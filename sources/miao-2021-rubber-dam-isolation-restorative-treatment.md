@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cochrane SR+MA (6 RCTs, 1342 participants, all high risk of bias): rubber dam isolation may increase survival of direct composite restorations of NCCLs at 6 months (OR 2.29, 95% CI 1.05–4.99;
 
 low-certainty), with very uncertain evidence at later time points.
@@ -23,7 +22,6 @@ low-certainty), with very uncertain evidence at later time points.
 (incomplete)
 
 ## 세줄요약
-
 
 Cochrane 체계적 문헌고찰+메타분석 (RCT 6편, 1342명, 모두 비뚤림 위험 높음): 러버댐 격리가 6개월 시점에 비우식성 치경부병소(NCCL) 직접 복합레진 수복물의 생존율을 높일 수 있으나(OR 2.29, 95% CI 1.05–4.99;
 

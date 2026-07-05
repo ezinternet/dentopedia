@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-치주염 병력 유무에 따른 임플란트 20년 전향적 연구: 생존율, MBL, 치주염 병력의 영향.
 
+치주염 병력 유무에 따른
+
+임플란트 20년 전향적 연구:
+
+생존율, MBL, 치주염 병력의 영향.
+
+## 세줄요약
+
+치주염 병력 유무에 따른
+
+임플란트 20년 전향적 연구:
+
+생존율, MBL, 치주염 병력의 영향.
 
 ## 1. Document Information
 - **Title**: Clinical outcomes of dental implants in patients with and without history of periodontitis: A 20-year prospective study

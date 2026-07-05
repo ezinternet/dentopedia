@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-치주지지치료(Supportive Periodontal Therapy, SPT) 후 질환 진행 SR (JPIS 2019): 17편 14연구 964명, 5–15년 추적; 10/14 연구에서 CAL 손실 ≤0.5mm; 흡연·구강위생불량·SPT 불순응이 주요 예측인자.
+
+치주지지치료(Supportive Periodontal Therapy, SPT) 후 질환 진행 SR (JPIS 2019): 17편 14연구 964명, 5–15년 추적
+
+10/14 연구에서 CAL 손실 ≤0.5mm
+
+흡연·구강위생불량·SPT 불순응이 주요 예측인자.
+
+## 세줄요약
+
+치주염 활동기 치료 후 지지치료(SPT) 동안 질환 진행 SR (JPIS 2019): 17편·14연구·964명·5-15년 추적
+
+10/14 연구에서 임상 부착 소실(CAL) ≤0.5mm로 안정적, 3/14에서 0.5-1.0mm, 4/14에서 >1.0mm
+
+주요 예측인자: 불량한 구강위생, 흡연, SPT 불순응 — 순응도 높은 환자는 질환 안정적.
 
 ## 1. Document Information
 - **Journal**: Journal of Periodontal & Implant Science 2019, 49(2): 60–75

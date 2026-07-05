@@ -15,7 +15,20 @@ source_collection: external
 [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] umbrella review의 사전 protocol. Methodology 투명성·search strategy·평가 criteria 사전 공개로 reproducibility 보장. 본 protocol을 wiki에 함께 두면 결과 평가 시 사전 명세 확인 가능.
 
 ## Three-line Summary
-Protocol publication (Manipal CDS, Systematic Reviews 2026): 본격 umbrella review에 앞서 PROSPERO registered (CRD420250648720) protocol — search strategy, AMSTAR-2 평가, CCA 분석 사전 명세.
+
+Protocol publication (Manipal CDS, Systematic Reviews 2026): 본격
+
+umbrella review에 앞서 PROSPERO registered (CRD420250648720) protocol —
+
+search strategy, AMSTAR-2 평가, CCA 분석 사전 명세.
+
+## 세줄요약
+
+Protocol publication (Manipal CDS, Systematic Reviews 2026): 본격
+
+umbrella review에 앞서 PROSPERO registered (CRD420250648720) protocol —
+
+search strategy, AMSTAR-2 평가, CCA 분석 사전 명세.
 
 ## 1. Document Information
 저자: Manipal College of Dental Sciences. Systematic Reviews (BMC) open access. Protocol 단독 publication — 분야 표준 reproducibility 강화.

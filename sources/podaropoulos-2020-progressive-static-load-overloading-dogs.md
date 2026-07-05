@@ -15,7 +15,6 @@ This 2020 dog study is the direct sequel to [[wiki/occlusion/podaropoulos-2016-b
 
 ## Three-line Summary
 
-
 Animal RCT (n=5 beagle dogs, 40 implants): progressive orthodontic pre-loading before overloading significantly raised implant success rate (87.5% vs 67.5%) but did not further increase bone-to-implant contact compared with overloading alone.
 
 (incomplete)
@@ -23,7 +22,6 @@ Animal RCT (n=5 beagle dogs, 40 implants): progressive orthodontic pre-loading b
 (incomplete)
 
 ## 세줄요약
-
 
 동물실험(비글 5마리, 임플란트 40개): 점진적 교정력 전처치 후 과부하 적용 시 임플란트 성공률이 87.5%로 과부하 단독군(67.5%)보다 유의하게 높았으나, 골-임플란트 접촉률(BIC)은 두 군 간 유의한 차이 없음.
 

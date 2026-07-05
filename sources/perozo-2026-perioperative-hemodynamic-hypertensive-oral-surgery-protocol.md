@@ -19,7 +19,6 @@ Wiki had vasoconstrictor-in-LA risk only for pregnancy ([[drug/systemic-disease/
 
 ## Three-line Summary
 
-
 Retrospective analysis of prospectively collected observational data (n=39: 21 normotensive vs 18 treated hypertensive) showing baseline hypertensive status is the dominant perioperative hemodynamic determinant (eta-squared=0.33) and a 7-fold higher hemorrhagic-complication rate (66.7% vs 9.5%, p=0.008) during oral surgery;
 
 introduces the unvalidated 3-phase Perozo perioperative BP-management protocol.
@@ -27,7 +26,6 @@ introduces the unvalidated 3-phase Perozo perioperative BP-management protocol.
 (incomplete)
 
 ## 세줄요약
-
 
 전향적으로 수집된 관찰자료의 후향분석(n=39: 정상혈압 21 vs 치료중 고혈압 18)으로, 기저 고혈압 상태가 구강수술 중 혈역학 변동의 최대 결정인자(eta제곱=0.33)이고 출혈합병증이 7배 높았음(66.7% vs 9.5%, p=0.008)을 보였으며, 미검증 3단계 Perozo 수술전후 혈압관리 프로토콜을 제안한다.
 

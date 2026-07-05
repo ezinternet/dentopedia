@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 5-year retrospective study (288 patients, 506 implants) using CAD-derived 3D (mesiodistal + buccolingual) angulation measurement: nonaxial implants had significantly greater marginal bone loss (0.22±0.48 vs 0.10±0.39 mm, P<.05), maxilla > mandible (P<.001), and a significant angulation×antagonist interaction (nonaxial opposing implant-supported FDP worst, Δ0.373 mm).
 
 (incomplete)
@@ -23,7 +22,6 @@ source_collection: external
 (incomplete)
 
 ## 세줄요약
-
 
 CAD 기반 3D 각도 측정을 쓴 5년 후향연구(환자 288명·임플란트 506개).
 

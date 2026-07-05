@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation, and increased taper plus planar occlusal reduction improved fit of digitally fabricated zirconia prostheses (all within the ~60–120 µm clinically acceptable range).
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review of 27 in vitro studies: rounded-shoulder finish line favored m
 (incomplete)
 
 ## 세줄요약
-
 
 27편 in vitro 연구 체계적 고찰: 디지털 제작 지르코니아 보철에서 둥근 숄더 변연선은 변연 적합을, 챔퍼는 내면 적합을 유리하게 했고, 테이퍼 증가와 평면형 교합삭제가 적합도를 개선(모두 임상 허용범위 ~60–120 µm 이내).
 

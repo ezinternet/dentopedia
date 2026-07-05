@@ -15,7 +15,6 @@ The wiki's buffered-LA evidence is all clinical-onset RCTs ([[wiki/drug/kalra-20
 
 ## Three-line Summary
 
-
 In-vivo (Sprague-Dawley rat) development study of a buffered, epinephrine-free 2% lidocaine formulation (LW/O/E "Sample 3A": lactated Ringer's + dextrose + amino-acid bitter-blockers, pH 6.7–7.0, 590–610 mOsm/kg): viscosity, injectability, anesthetic duration (RHTFL and hot-plate paw-withdrawal latency) comparable to commercial 2% lidocaine+1:100,000-epinephrine (LW/E) with reduced bitterness and only minor transient erythema/edema.
 
 (incomplete)
@@ -23,7 +22,6 @@ In-vivo (Sprague-Dawley rat) development study of a buffered, epinephrine-free 2
 (incomplete)
 
 ## 세줄요약
-
 
 In-vivo(Sprague-Dawley 랫드) 개발 연구 — 에피네프린 없는 완충 2% lidocaine 제형(LW/O/E "Sample 3A": 락테이트 링거 + 덱스트로스 + 아미노산 쓴맛차단제, pH 6.7–7.0, 590–610 mOsm/kg)이 점도·주사성·마취 지속시간(꼬리튕김·핫플레이트 발회피 잠복기)에서 상용 2% lidocaine+1:100,000 에피네프린(LW/E)과 동등, 쓴맛 감소·일시적 경미 홍반/부종만 관찰.
 

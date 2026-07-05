@@ -19,7 +19,6 @@ text_filename: valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd
 
 ## Three-line Summary
 
-
 SR+MA of 32 RCTs (n=1247;
 
 640 arthrocentesis vs 607 other) finds arthrocentesis is NOT superior to other modalities (conservative therapy, intra-articular injection, arthroscopy, alternative protocols): pain (VAS) no difference (MD −0.25, 95% CI −1.09–0.59, p=0.55, I²=96%);
@@ -27,7 +26,6 @@ SR+MA of 32 RCTs (n=1247;
 MMO and MIO statistically favored comparators; only masticatory efficiency (2 studies) favored arthrocentesis; all outcomes low-to-very-low GRADE certainty.
 
 ## 세줄요약
-
 
 32개 RCT(1247명) SR+MA: 관절천자(Arthrocentesis)는 다른 치료(보존·관절내주사·관절경 등) 대비 통증(VAS) 차이 없고(MD −0.25, p=0.55, I²=96%), 최대개구량(MMO)·최대절치개구(MIO)는 오히려 비교군이 우세 — 우월성 입증 안 됨, 근거확실성 매우 낮음.
 

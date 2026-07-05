@@ -19,7 +19,6 @@ text_filename: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-
 
 ## Three-line Summary
 
-
 SR+MA (9 controlled trials, n=283): mandibular advancement aligners and traditional functional appliances give comparable skeletal/dental Class II correction (SNA/SNB/ANB/overjet n.s.);
 
 aligners control lower-incisor proclination better (1.94 deg less) but produce less mandibular ramus growth (Co-Go 1.10 mm less).
@@ -27,7 +26,6 @@ aligners control lower-incisor proclination better (1.94 deg less) but produce l
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA(대조연구 9편, n=283): MA aligner와 전통적 functional appliance의 골격·치성 Class II 교정은 유사(SNA/SNB/ANB/overjet 무의미).
 

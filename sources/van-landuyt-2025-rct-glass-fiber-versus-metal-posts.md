@@ -18,7 +18,6 @@ Provides the longest-term (15-year) RCT evidence on the fiber-vs-metal post ques
 
 ## Three-line Summary
 
-
 15-year RCT (131 patients, 182 restorations): glass-fiber posts trended toward higher success/survival (prefab 59.2%/68.5%) than metal posts (48.0%/53.6%), but post material had NO statistically significant effect;
 
 metal posts failed more by root fracture.
@@ -26,7 +25,6 @@ metal posts failed more by root fracture.
 (incomplete)
 
 ## 세줄요약
-
 
 15년 추적 RCT(환자 131명, 수복 182건): 유리섬유 포스트가 금속 포스트보다 성공·생존율이 높은 경향(기성 59.2%/68.5% vs 금속 48.0%/53.6%)이었으나 포스트 재료 자체의 통계적 유의 효과는 없었고, 금속 포스트는 치근파절로 실패하는 비율이 더 높았음.
 

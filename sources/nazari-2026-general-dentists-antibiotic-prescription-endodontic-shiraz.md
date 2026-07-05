@@ -20,7 +20,6 @@ text_filename: nazari-2026-general-dentists-antibiotic-prescription-endodontic-s
 
 ## Three-line Summary
 
-
 Cross-sectional questionnaire (n=103 general dentists/residents, Shiraz, Iran): moderate-to-good AAE knowledge (70.9% knew first-line) but low-to-moderate performance — 69.9% inappropriately prescribed antibiotics for immunocompromised endodontic patients, 51.5% for localized acute apical abscess;
 
 residents outperformed GPs (p=0.019);
@@ -28,7 +27,6 @@ residents outperformed GPs (p=0.019);
 88.3% wanted more training.
 
 ## 세줄요약
-
 
 Shiraz 일반의·전공의 103명 단면 설문: AAE 가이드라인 지식은 중상(70.9% 1차 항생제 정답)이나 수행은 하~중 — 면역저하 환자에 69.9%, 국소 급성 근단농양에 51.5%가 부적절 처방;
 

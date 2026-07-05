@@ -18,7 +18,6 @@ text_filename: yari-2023-risk-factors-early-implant-failure.txt
 
 ## Three-line Summary
 
-
 Retrospective cohort (1323 implants / 738 patients;
 
 53 early failures before final prosthetic loading): multivariate predictors of early implant failure were smoking (OR 1.84), posterior maxilla (OR 2.96), periodontal-extraction site (OR 2.53), type IV bone (OR 2.88), previously augmented site (OR 2.24), and immediate provisional prosthesis (OR 3.42).
@@ -26,7 +25,6 @@ Retrospective cohort (1323 implants / 738 patients;
 (incomplete)
 
 ## 세줄요약
-
 
 후향 코호트(임플란트 1323개 / 환자 738명, 보철 로딩 전 조기 실패 53건): 조기 임플란트 실패의 다변량 위험인자는 흡연(OR 1.84)·후방 상악(OR 2.96)·치주문제 발치부위(OR 2.53)·4형 골(OR 2.88)·기존 골증대 부위(OR 2.24)·즉시 잠정보철(OR 3.42).
 

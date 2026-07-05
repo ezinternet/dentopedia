@@ -19,7 +19,6 @@ text_filename: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biops
 
 ## Three-line Summary
 
-
 Narrative review (JADA, Wong/UCLA group) framing three pillars of saliva-based diagnostics — salivaomics, saliva exosomics, and saliva liquid biopsy — and introducing the EFIRM electrochemical platform for noninvasive ctDNA detection of lung cancer, SARS-CoV-2, and other systemic disease from saliva.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative review (JADA, Wong/UCLA group) framing three pillars of saliva-based d
 (incomplete)
 
 ## 세줄요약
-
 
 침 진단(saliva diagnostics)의 세 축 — 살리바오믹스(salivaomics), 침 엑소좀학(saliva exosomics), 침 액체생검(saliva liquid biopsy) — 을 정리하고, 채취·증폭 없이 저농도 표적을 잡는 EFIRM 전기화학 플랫폼으로 폐암 ctDNA·SARS-CoV-2를 침에서 검출한 서사적 리뷰 (JADA, Wong/UCLA 그룹).
 

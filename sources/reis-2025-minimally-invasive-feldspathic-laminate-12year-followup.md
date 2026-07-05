@@ -19,7 +19,6 @@ text_filename: reis-2025-minimally-invasive-feldspathic-laminate-12year-followup
 
 ## Three-line Summary
 
-
 Case report (J Esthet Restor Dent 2025) of maxillary anterior diastema closure / morphology correction with thin (<0.5 mm) feldspathic laminates on enamel-limited (~0.2 mm cervical) minimally invasive preparations — HF + phosphoric-acid clean + silane on ceramic, 3-step adhesive + light-cured veneer cement, cotton-roll isolation — surviving 12+ years with no fracture, caries, sensitivity, or repair.
 
 (incomplete)
@@ -27,7 +26,6 @@ Case report (J Esthet Restor Dent 2025) of maxillary anterior diastema closure /
 (incomplete)
 
 ## 세줄요약
-
 
 상악 전치 치간이개 폐쇄·형태 수정을 thin (<0.5 mm) feldspathic 라미네이트로 시행한 case report (J Esthet Restor Dent 2025).
 

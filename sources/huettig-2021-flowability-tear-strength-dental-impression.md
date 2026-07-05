@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-현재 시판 탄성 인상재 14종(PE 2, VXSE 2, PVS 10) 비교: 유동성은 PE > PVS·VXSE; 인열강도는 PVS > PE; 친수성은 VXSE가 가장 우수; VXSE·신형 PVS가 PE의 인열강도·친수성 단점 상당 부분 보완.
+
+현재 시판 탄성 인상재 14종(PE 2, VXSE 2, PVS 10) 비교: 유동성은 PE > PVS·VXSE
+
+인열강도는 PVS > PE
+
+친수성은 VXSE가 가장 우수; VXSE·신형 PVS가 PE의 인열강도·친수성 단점 상당 부분 보완.
+
+## 세줄요약
+
+현재 시판 탄성 인상재 14종(PE 2, VXSE 2, PVS 10) 비교: 유동성은 PE > PVS·VXSE
+
+인열강도는 PVS > PE
+
+친수성은 VXSE가 가장 우수; VXSE·신형 PVS가 PE의 인열강도·친수성 단점 상당 부분 보완.
 
 ## 1. Document Information
 - **Journal**: Materials 2021;14:2994

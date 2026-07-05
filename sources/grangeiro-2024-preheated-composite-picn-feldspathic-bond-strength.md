@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro microshear bond strength study (n=180 per material, 12 groups): preheated composite (68°C) achieved highest µSBS to both feldspathic ceramic and PICN;
 
 thermocycling reduced all groups' bond strength, with preheated composite remaining superior after aging.
@@ -23,7 +22,6 @@ thermocycling reduced all groups' bond strength, with preheated composite remain
 (incomplete)
 
 ## 세줄요약
-
 
 인 비트로 미세전단결합강도 연구 (재료당 n=180, 12그룹): 예열 복합레진(68°C)이 장석질 도재와 PICN 모두에서 가장 높은 결합강도를 달성했으며, 열순환 후에도 우위 유지;
 

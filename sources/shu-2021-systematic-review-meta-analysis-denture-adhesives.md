@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (39 studies, n=~1200) demonstrating that denture adhesives significantly improve retention (SMD 1.34), bite force (SMD 0.98), and masticatory performance (SMD 0.72) in complete denture wearers.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (39 studies, n=~1200) demonstrating that denture adhesives significantly i
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 및 메타분석 (39개 연구): 의치접착제는 완전의치 착용자의 유지력(SMD 1.34), 최대교합력(SMD 0.98), 저작효율(SMD 0.72)을 유의하게 향상시킴.
 

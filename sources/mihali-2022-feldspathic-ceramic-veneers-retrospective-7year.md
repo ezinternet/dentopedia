@@ -15,7 +15,6 @@ The veneers category holds several SR/MA papers (klein-2025, morimoto-2016) on s
 
 ## Three-line Summary
 
-
 Retrospective cohort (n=30 patients, 170 feldspathic ceramic veneers, 7 years) found 91.77% overall survival;
 
 fractures occurred at all thicknesses except 0.5 mm, with no significant difference between vertical-prep and no-prep methods.
@@ -23,7 +22,6 @@ fractures occurred at all thicknesses except 0.5 mm, with no significant differe
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 코호트 연구 (30명, 170개 장석세라믹 비니어, 7년): 전체 생존율 (Survival Rate) 91.77%;
 

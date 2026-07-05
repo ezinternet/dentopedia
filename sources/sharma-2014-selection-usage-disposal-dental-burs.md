@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Cross-sectional questionnaire survey (131/150 practitioners) on dental-bur selection, usage, sterilization and disposal: diamond burs preferred (75%) over tungsten carbide (15%), most reused until worn out (85%), with awareness that cutting efficiency drops with wear/grit/duration, variable sterilization, and universal dustbin disposal.
 
 (incomplete)
@@ -23,7 +22,6 @@ Cross-sectional questionnaire survey (131/150 practitioners) on dental-bur selec
 (incomplete)
 
 ## 세줄요약
-
 
 단면 설문조사(개원의 131/150) — 다이아몬드 bur 선호(75%) > 텅스텐카바이드(15%), 대부분 마모까지 재사용(85%), 절삭효율은 마모·grit·시간에 따라 감소, 멸균 빈도 가변, 폐기는 전원 일반쓰레기.
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Case report describing immediate implant placement into maxillary molar palatal root sockets specifically to provide distal support in All-on-X full-arch rehabilitations, avoiding long cantilevers.
 
+Case report describing immediate implant placement into maxillary
+
+molar palatal root sockets specifically to provide distal
+
+support in All-on-X full-arch rehabilitations, avoiding long cantilevers.
+
+## 세줄요약
+
+Case report describing immediate implant placement into maxillary
+
+molar palatal root sockets specifically to provide distal
+
+support in All-on-X full-arch rehabilitations, avoiding long cantilevers.
 
 ## 1. Document Information
 - **Title:** Implant Placement in the Palatal Root Socket of Maxillary Molars to Avoid Posterior Cantilevers in All-on-X Treatments

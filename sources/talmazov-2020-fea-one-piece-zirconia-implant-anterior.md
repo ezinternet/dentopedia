@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 FEA study (n=3 CBCT-derived models) comparing one-piece zirconia vs titanium implants in three anterior maxillary scenarios found Zir produced significantly lower labial-cervical cortical bone stress in healed and reduced-bone models, with no significant difference in grafted extraction sockets.
 
 (incomplete)
@@ -23,7 +22,6 @@ FEA study (n=3 CBCT-derived models) comparing one-piece zirconia vs titanium imp
 (incomplete)
 
 ## 세줄요약
-
 
 FEA 연구(3가지 CBCT 기반 모델): 치유 소켓 및 골폭 감소 모델에서 일체형 지르코니아 임플란트가 티타늄보다 순측-치경부 피질골 von Mises 응력을 유의하게 낮췄으며, 발거 후 이식 모델에서는 유의한 차이 없음.
 

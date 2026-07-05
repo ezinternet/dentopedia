@@ -19,7 +19,6 @@ text_filename: singh-2026-rotary-reciprocating-kinematics-postoperative-pain-ret
 
 ## Three-line Summary
 
-
 Systematic review (PRISMA 2020;
 
 qualitative synthesis, no MA) of 5 RCTs (n=554) finding rotary and reciprocating NiTi systems produce comparable postoperative pain after nonsurgical endodontic retreatment;
@@ -27,7 +26,6 @@ qualitative synthesis, no MA) of 5 RCTs (n=554) finding rotary and reciprocating
 pain is mild, peaks at 24 h, and declines over time without consistent dependence on kinematics.
 
 ## 세줄요약
-
 
 RCT 5편(n=554)을 정성종합한 체계적 문헌고찰: 비외과적 재근관치료에서 회전(rotary)·왕복(reciprocating) NiTi 시스템 간 술후통 차이는 대체로 없고, 통증은 경미하며 24시간에 최고였다가 시간이 지나며 감소 — kinematics에 일관되게 의존하지 않음.
 

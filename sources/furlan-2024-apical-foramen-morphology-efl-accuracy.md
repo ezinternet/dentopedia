@@ -12,7 +12,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-In vitro (30 premolars): RootZX II, Raypex 6, EPex Pro, CanalPro all accurate across foramen morphologies; divergent apical foramen reduces accuracy of Raypex 6 and CanalPro at 0.0mm but not at −1.0mm.
+
+In vitro (30 premolars): RootZX II, Raypex 6, EPex Pro,
+
+CanalPro all accurate across foramen morphologies; divergent apical foramen reduces
+
+accuracy of Raypex 6 and CanalPro at 0.0mm but not at −1.0mm.
+
+## 세줄요약
+
+30개 소구치 발치치 — 정상 및 미성숙(개방된 치근단공) 형태별 4종 전자근관장측정기(RZX II, RAY, EPEX, CNP) 정확도 비교
+
+RZX II·EPEX: 근단공 형태 영향 없음; RAY·CNP는 개방형태에서 정확도 저하(0.0mm 기준)
+
+1.0mm 단축 기준에서는 모든 기계 정확 — 임상적 안전마진 확인
 
 ## 1. Document Information
 Bauru Dental School, USP Brazil + Federal University of Ceará. Published in European Journal of Dentistry 2024. In vitro study using alginate model with 3 foramen morphology groups: fully formed, immature parallel walls, immature divergent walls.

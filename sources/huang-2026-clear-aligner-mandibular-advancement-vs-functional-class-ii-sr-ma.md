@@ -19,7 +19,6 @@ This 2026 SR+MA is the larger, newer counterpart to [[wiki/orthodontics/clear-al
 
 ## Three-line Summary
 
-
 SR+MA of 9 studies (1 RCT + 8 NRSI, n=465): clear aligner mandibular advancement (CAMA) achieves skeletal effects (SNA/SNB/ANB, vertical) statistically comparable to Twin Block and Herbst;
 
 CAMA gives marginally greater overjet reduction (MD -0.46 mm, clinically minimal) and significantly less lower-incisor proclination (IMPA MD -0.90°);
@@ -27,7 +26,6 @@ CAMA gives marginally greater overjet reduction (MD -0.46 mm, clinically minimal
 certainty of evidence low (mostly retrospective).
 
 ## 세줄요약
-
 
 9편(RCT 1 + NRSI 8, n=465) SR+MA: 투명교정 하악전방유도(CAMA)의 골격효과(SNA/SNB/ANB·수직)는 트윈블록·Herbst와 통계적으로 동등.
 

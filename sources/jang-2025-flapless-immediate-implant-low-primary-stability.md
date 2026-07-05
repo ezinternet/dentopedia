@@ -19,7 +19,6 @@ text_filename: jang-2025-flapless-immediate-implant-low-primary-stability.txt
 
 ## Three-line Summary
 
-
 Retrospective case series (16 flapless immediate SLA implants, ITV <10 Ncm and mean initial ISQ <55) — mean ISQ rose from 42.2 to 68.7 and survival was 100% at mean 65.18 months, suggesting low/no primary stability is not an absolute contraindication for immediate placement.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective case series (16 flapless immediate SLA implants, ITV <10 Ncm and m
 (incomplete)
 
 ## 세줄요약
-
 
 후향 증례군 (16개 무피판 즉시 SLA 임플란트, 식립토크 <10 Ncm·초기 ISQ <55) — 평균 ISQ가 42.2에서 68.7로 상승하고 평균 65.18개월에 생존율 100%로, 낮거나 없는 초기 안정성이 즉시식립의 절대 금기는 아님을 시사.
 

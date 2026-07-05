@@ -14,8 +14,20 @@ source_collection: external
 User가 대한치과의사협회지 2023 vol 61 특집(턱관절 골관절염) 시리즈를 일괄 ingest 요청. 기존 [[overviews/tmd-management-evidence-ladder]]와 [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]]·[[tmj/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma]]가 다룬 보존적 치료(splint·arthrocentesis)를 한국어 임상가 관점에서 술기 디테일(주사 자입점·이개측두신경 마취 주의)까지 보강. 같은 호의 기전·진단편 [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]]와 짝.
 
 ## Three-line Summary
-Korean-language clinician special-feature narrative review summarizing the conservative-first treatment ladder for TMJ osteoarthritis: self-care, NSAIDs, occlusal splint, arthrocentesis (+HA/steroid), surgery as last resort.
 
+Korean-language clinician special-feature narrative review summarizing the
+
+conservative-first treatment ladder for TMJ osteoarthritis: self-care,
+
+NSAIDs, occlusal splint, arthrocentesis (+HA/steroid), surgery as last resort.
+
+## 세줄요약
+
+Korean-language clinician special-feature narrative review summarizing the
+
+conservative-first treatment ladder for TMJ osteoarthritis: self-care,
+
+NSAIDs, occlusal splint, arthrocentesis (+HA/steroid), surgery as last resort.
 
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(5):358–363, 2023

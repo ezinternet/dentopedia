@@ -18,7 +18,6 @@ Highest available evidence tier (RCT-only SR+MA, GRADE-rated) specifically addre
 
 ## Three-line Summary
 
-
 RCT-only SR+MA (4 RCTs, 3–7 yr, GRADE high/moderate): fiber posts show significantly higher survival than metal posts (RR 0.57, 95% CI 0.33–0.97, P=.04) in severely damaged ETT (≤2 coronal walls).
 
 (incomplete)
@@ -26,7 +25,6 @@ RCT-only SR+MA (4 RCTs, 3–7 yr, GRADE high/moderate): fiber posts show signifi
 (incomplete)
 
 ## 세줄요약
-
 
 RCT 전용 SR+MA (4건, 3–7년 추적, GRADE 고/중): 잔존 치질 ≤2벽 심한 손상 근관치료치에서 파이버포스트의 생존율이 금속포스트보다 유의하게 높음 (RR 0.57, P=.04).
 

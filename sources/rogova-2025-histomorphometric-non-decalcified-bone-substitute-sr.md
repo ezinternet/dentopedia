@@ -14,8 +14,20 @@ source_collection: external
 Maps the histomorphometric methodology landscape (models, stains, parameters) behind the bone-substitute efficacy claims synthesized in [[overviews/dbbm-bone-substitute-overview]] — a methods reference for interpreting the new-bone/residual-graft numbers reported across DBBM studies. Highlights the gap between proliferating biomaterials and standardized assessment.
 
 ## Three-line Summary
-Systematic review (118 studies, 2015–2024) of histomorphometric methodology in bone regeneration research using non-decalcified plastic-embedded specimens: rat most common animal model; toluidine blue most common stain; new bone formation, residual graft, MAR (mineral apposition rate) with calcein green dominate parameters.
 
+Systematic review (118 studies, 2015–2024) of histomorphometric methodology in bone regeneration research using non-decalcified plastic-embedded specimens: rat most common animal model
+
+toluidine blue most common stain
+
+new bone formation, residual graft, MAR (mineral apposition rate) with calcein green dominate parameters.
+
+## 세줄요약
+
+체계적 고찰 (SR) (118 studies, 2015–2024) of histomorphometric methodology in bone regeneration research using non-decalcified plastic-embedded specimens: rat most common animal model
+
+toluidine blue most common stain
+
+new bone formation, residual graft, MAR (mineral apposition rate) with calcein green dominate parameters.
 
 ## 1. Document Information
 - **Journal**: Materials 2025, 18, 119 (received Nov 2024, published 30 Dec 2024).

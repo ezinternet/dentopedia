@@ -19,7 +19,6 @@ text_filename: nucera-2022-composite-attachments-clear-aligners-sr.txt
 
 ## Three-line Summary
 
-
 SR (5 clinical trials, medium RoB): composite attachments mostly increase aligner treatment effectiveness — improving anterior root torque, rotation, mesio-distal movement, and posterior anchorage;
 
 evidence for intrusion is weaker and lacking for extrusion and posterior expansion.
@@ -27,7 +26,6 @@ evidence for intrusion is weaker and lacking for extrusion and posterior expansi
 (incomplete)
 
 ## 세줄요약
-
 
 SR(임상 5편, medium RoB): 컴포지트 attachment는 대체로 교정 효과를 높임 — 전치부 root torque·rotation·근원심 이동·후방 앵커리지 개선.
 

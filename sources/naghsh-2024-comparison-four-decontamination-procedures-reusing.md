@@ -19,7 +19,6 @@ text_filename: naghsh-2024-comparison-four-decontamination-procedures-reusing.tx
 
 ## Three-line Summary
 
-
 In vitro study of 50 used healing abutments (DIO UFII) across 5 groups (all ultrasonic + autoclave;
 
 +3% NaOCl / +12% CHX / +air polishing(glycine) / +3% H2O2): occlusal-surface residual protein did not differ between groups (p=0.26), but on the body/shank surface air polishing (1.7±1.1) and NaOCl (2.4±1.1) left significantly less contamination than control (6.1), H2O2 (4.6), or CHX (5.4) (p<0.05) — yet contamination was never fully eliminated in any group.
@@ -27,7 +26,6 @@ In vitro study of 50 used healing abutments (DIO UFII) across 5 groups (all ultr
 (incomplete)
 
 ## 세줄요약
-
 
 사용된 치유 지대주(healing abutment, HA) 50개(DIO UFII)를 5군(전부 초음파+오토클레이브;
 

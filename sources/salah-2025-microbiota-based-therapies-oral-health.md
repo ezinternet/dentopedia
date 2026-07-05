@@ -19,7 +19,6 @@ text_filename: salah-2025-microbiota-based-therapies-oral-health.txt
 
 ## Three-line Summary
 
-
 Narrative review (2025) synthesizing the oral microbiome's role in caries, periodontitis, halitosis, and candidiasis, and cataloguing emerging microbiota-based therapies — probiotics (S.
 
 salivarius K12/M18, Lactobacillus spp.), postbiotics, predatory bacteria (Bdellovibrio bacteriovorus), bacteriophages, and oral microbiota transplantation.
@@ -27,7 +26,6 @@ salivarius K12/M18, Lactobacillus spp.), postbiotics, predatory bacteria (Bdello
 (incomplete)
 
 ## 세줄요약
-
 
 2025년 narrative review: 구강 미생물 불균형(우식·치주염·구취·칸디다증)의 기전을 정리하고, 프로바이오틱스·포스트바이오틱스·포식세균(Bdellovibrio)·박테리오파지·구강 미생물 이식 등 신흥 미생물 기반 치료를 체계적으로 개관.
 

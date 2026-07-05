@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review from Chengdu on arthrocentesis (관절천자) combined with injectable agents (HA, corticosteroids, PRP, BTX) for TMD; finds hyaluronic acid and corticosteroids most evidence-supported, with emerging data on PRP.
 
+Systematic review from Chengdu on arthrocentesis (관절천자) combined with
+
+injectable agents (HA, corticosteroids, PRP, BTX) for TMD; finds
+
+hyaluronic acid and corticosteroids most evidence-supported, with emerging data on PRP.
+
+## 세줄요약
+
+체계적 고찰 (SR) from Chengdu on arthrocentesis (관절천자) combined with
+
+injectable agents (HA, corticosteroids, PRP, BTX) for TMD; finds
+
+hyaluronic acid and corticosteroids most evidence-supported, with emerging data on PRP.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:1108

@@ -19,7 +19,6 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8754113/
 
 ## Three-line Summary
 
-
 RCT substudy (n=153, 12 weeks), Listerine Zero daily use caused no significant change in oropharyngeal microbiota composition;
 
 Biotène caused small but significant decreases in Streptococcus and Rothia.
@@ -27,7 +26,6 @@ Biotène caused small but significant decreases in Streptococcus and Rothia.
 (incomplete)
 
 ## 세줄요약
-
 
 RCT 서브스터디 (n=153, 12주), 리스테린 제로 매일 사용은 구인두 마이크로바이오타 구성에 유의한 변화 없음;
 

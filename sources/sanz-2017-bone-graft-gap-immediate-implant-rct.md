@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-즉시식립 임플란트의 임플란트-치조골 틈새(jumping gap)에 이종골 충전 유무 비교 RCT.
 
+즉시식립 임플란트의 임플란트-치조골
+
+틈새(jumping gap)에 이종골
+
+충전 유무 비교 RCT.
+
+## 세줄요약
+
+즉시식립 임플란트의 임플란트-치조골
+
+틈새(jumping gap)에 이종골
+
+충전 유무 비교 RCT.
 
 ## 1. Document Information
 - **Title**: The effect of placing a bone replacement graft in the gap at immediately placed implants: a randomized clinical trial

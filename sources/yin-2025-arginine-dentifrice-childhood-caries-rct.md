@@ -19,7 +19,6 @@ A large 2-year phase-3 RCT (n=6,000 children) showing 8.0% arginine dentifrice i
 
 ## Three-line Summary
 
-
 2-year phase-3 double-blind 3-arm RCT (n=6,000 children, 10–14 y, China): 8.0% arginine dentifrice gave a 26.0% DMFS / 25.3% DMFT reduction vs 0.32% NaF (P<.001), while 1.5% arginine was equivalent to NaF — arginine is an effective fluoride-free anticaries alternative, dose-dependent.
 
 (incomplete)
@@ -27,7 +26,6 @@ A large 2-year phase-3 RCT (n=6,000 children) showing 8.0% arginine dentifrice i
 (incomplete)
 
 ## 세줄요약
-
 
 2년 3상 이중맹검 3군 RCT (어린이 6,000명, 10–14세, 중국): 8.0% 아르기닌 치약이 0.32% 불화나트륨(NaF) 대비 우식 26.0% DMFS / 25.3% DMFT 감소(P<.001), 1.5% 아르기닌은 NaF와 동등 — 아르기닌은 용량 의존적인 불소-비함유 우식 예방 대안.
 

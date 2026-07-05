@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 16 RCTs/CCTs (n=446 patients) showing CTG yields +0.64 mm STT gain vs no graft and +0.51 mm vs soft-tissue substitutes around dental implants, with better esthetic scores but no MBL benefit over substitutes.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 16 RCTs/CCTs (n=446 patients) showing CTG yields +0.64 mm STT gain vs n
 (incomplete)
 
 ## 세줄요약
-
 
 16개 RCT/CCT(446명) SR+MA: 임플란트 주위 연조직 두께 증가에서 CTG가 무처치 대비 +0.64 mm, 연조직 대체재 대비 +0.51 mm 우월한 STT를 제공하며 심미 점수도 유의하게 높으나, 변연골 소실(MBL)에서는 대체재와 차이 없음.
 

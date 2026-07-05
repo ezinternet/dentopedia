@@ -19,7 +19,6 @@ Our cracked-tooth restorative-design evidence is dominated by comparative trials
 
 ## Three-line Summary
 
-
 Single case report (n=1): a cracked endodontically treated maxillary first molar restored in one visit with a morphology-driven, minimally invasive lithium-disilicate occlusal veneer (butt-joint proximal margins + hollow-chamfer axial walls) over an SFRC access build-up;
 
 complete pain resolution and intact restoration at 15-month follow-up.
@@ -27,7 +26,6 @@ complete pain resolution and intact restoration at 15-month follow-up.
 (incomplete)
 
 ## 세줄요약
-
 
 단일 증례 보고 (n=1): 균열이 있는 근관치료 상악 제1대구치를 단일 내원에 형태기반 최소침습 삭제(MDPT) — 근심·원심 butt-joint 변연 + 협·구개측 hollow-chamfer — 로 만든 리튬 디실리케이트 교합 비니어로 수복(단섬유강화복합레진 SFRC로 와동 충전 후 접착).
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Animal (dog) histomorphometric RCT-analog: progressive static orthodontic loading (100→200→300 g, 9 wks) on 12 Biomet 3i implants in beagle maxillae significantly increased BIC vs unloaded controls (P = 0.018), with no difference in peri-implant bone density or crestal bone resorption.
 
 (incomplete)
@@ -23,7 +22,6 @@ Animal (dog) histomorphometric RCT-analog: progressive static orthodontic loadin
 (incomplete)
 
 ## 세줄요약
-
 
 비글 개 상악에서 점진적 정적 교합력(100→200→300 g, 9주) 적용 임플란트(12개)가 무부하 대조군 대비 골-임플란트 접촉률(BIC)을 유의하게 높였고(P = 0.018), 골밀도 및 치조정 골흡수는 두 군 간 차이 없었다.
 

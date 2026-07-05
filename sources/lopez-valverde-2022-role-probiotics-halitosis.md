@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (4 RCTs, n=283): probiotics (Streptococcus salivarius K12/M18, Weissella cibaria) showed no statistically significant reduction in oral halitosis measures (p=0.53), though individual trials suggest potential benefit.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (4 RCTs, n=283): probiotics (Streptococcus salivarius K12/M18, Weissella c
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (4 RCT, n=283): 프로바이오틱스(Streptococcus salivarius K12/M18, Weissella cibaria)가 구강 구취를 통계적으로 유의하게 줄이지 못했으나(p=0.53) 일부 개별 연구는 긍정적 효과를 시사.
 

@@ -19,7 +19,6 @@ text_filename: kniha-2026-zirconia-titanium-microbial-anterior-rct.txt
 
 ## Three-line Summary
 
-
 Split-mouth RCT (n=20 edentulous patients, 12 months): zirconia implants harbored lower Actinobacteria at 12 months and higher microbial diversity vs titanium;
 
 beta diversity did not differ significantly between materials at any timepoint;
@@ -27,7 +26,6 @@ beta diversity did not differ significantly between materials at any timepoint;
 findings are exploratory with no definitive clinical superiority of either material.
 
 ## 세줄요약
-
 
 분할구 RCT (20명, 12개월): 지르코니아 임플란트는 12개월 시점 Actinobacteria 감소·미생물 다양성 우세 경향을 보였고 티타늄은 다양성 감소;
 

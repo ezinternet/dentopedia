@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-JCM 2025: Narrative review (Aristotle University): immediate (93.8-100% survival, high complication risk), early, delayed placement timing comparison + loading protocols; immediate has highest esthetic risk — strict patient selection criteria essential.
 
+JCM 2025
+
+Narrative review (Aristotle University)
+
+immediate (93.8-100% survival, high complication risk), early, delayed placement timing comparison + loading protocols; immediate has highest esthetic risk — strict patient selection criteria essential.
+
+## 세줄요약
+
+JCM 2025
+
+Narrative review (Aristotle University)
+
+immediate (93.8-100% survival, high complication risk), early, delayed placement timing comparison + loading protocols; immediate has highest esthetic risk — strict patient selection criteria essential.
 
 ## 1. Key Results
 - Immediate implant: survival 93.8–100%; increased risk of gingival recession and implant exposure

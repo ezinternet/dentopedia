@@ -15,7 +15,6 @@ This is the foundational origin paper that introduced **Resonance Frequency Anal
 
 ## Three-line Summary
 
-
 Landmark in-vitro + in-vivo method paper that first introduced resonance frequency analysis (RFA) for quantifying implant-tissue interface stability;
 
 a small transducer's resonance frequency correlated strongly (r=0.94, p<0.01) with exposed fixture height and rose with surrounding-material stiffness, founding what later became the ISQ scale.
@@ -23,7 +22,6 @@ a small transducer's resonance frequency correlated strongly (r=0.94, p<0.01) wi
 (incomplete)
 
 ## 세줄요약
-
 
 공명주파수분석 (Resonance Frequency Analysis, RFA)을 임플란트-조직 계면 안정성 정량화에 처음 도입한 기념비적 in-vitro·in-vivo 방법 논문 — 소형 트랜스듀서의 공명주파수가 노출된 고정체 높이와 강한 상관(r=0.94, p<0.01)을 보였고 주변 재료의 강성(stiffness)이 증가하면 함께 상승했으며, 이것이 훗날 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 척도의 기원이 되었다.
 

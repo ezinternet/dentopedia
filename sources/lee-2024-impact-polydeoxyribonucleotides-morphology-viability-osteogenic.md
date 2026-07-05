@@ -15,8 +15,19 @@ PDRN의 골재생 효과를 in vivo가 아닌 **gingiva-derived stem cell (GMSC)
 
 ## Three-line Summary
 
-GMSC spheroid에 PDRN 처리 시 D14에 75 μg/mL에서 calcium deposition 유의 증가. RUNX2는 25 μg/mL, COL1A1은 75 μg/mL에서 peak — **PDRN agonist 농도가 단일하지 않고 marker별로 다름**.
+GMSC spheroid에 PDRN 처리 시 D14에 75 μg/mL에서 calcium
 
+deposition 유의 증가. RUNX2는 25 μg/mL, COL1A1은 75 μg/mL에서
+
+peak — **PDRN agonist 농도가 단일하지 않고 marker별로 다름**.
+
+## 세줄요약
+
+GMSC spheroid에 PDRN 처리 시 D14에 75 μg/mL에서 calcium
+
+deposition 유의 증가. RUNX2는 25 μg/mL, COL1A1은 75 μg/mL에서
+
+peak — **PDRN agonist 농도가 단일하지 않고 marker별로 다름**.
 
 ## 1. Document Information
 

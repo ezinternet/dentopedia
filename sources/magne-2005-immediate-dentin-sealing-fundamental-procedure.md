@@ -15,8 +15,19 @@ IDS 개념의 originating/foundational paper — 모든 후속 IDS SR+MA ([[resi
 
 ## Three-line Summary
 
-JERD 17(3):144-154, 2005 — Pascal Magne 단독 narrative review (30+ articles) — IDS 개념 명명·정립; "DBA를 인상 채득 전 즉시 도포·중합"하는 protocol 권장; filled adhesive resin (low elastic modulus liner) 병용 권장.
+JERD 17(3):144-154, 2005 — Pascal Magne 단독 narrative review (30+ articles) — IDS 개념 명명·정립
 
+"DBA를 인상 채득 전 즉시 도포·중합"하는 protocol 권장
+
+filled adhesive resin (low elastic modulus liner) 병용 권장.
+
+## 세줄요약
+
+JERD 17(3):144-154, 2005 — Pascal Magne 단독 narrative review (30+ articles) — IDS 개념 명명·정립
+
+"DBA를 인상 채득 전 즉시 도포·중합"하는 protocol 권장
+
+filled adhesive resin (low elastic modulus liner) 병용 권장.
 
 ## 1. Document Information
 

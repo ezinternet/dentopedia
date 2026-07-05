@@ -19,7 +19,6 @@ Super-Bond 4-META/MMA-TBB resin 화학의 성분·물성을 직접 특성화한 
 
 ## Three-line Summary
 
-
 In-vitro study (DSC + 3-point flexural + shear bond to root dentin) of 3 wt% fillers in 4-META/MMA-TBB resin (Super-Bond chemistry): organic composite filler shortened curing time and raised post-thermocycling dentin bond strength, while bioactive glass (45S5) and aluminosilicate glass prolonged curing and lowered flexural/bond strength — organic composite filler is the most suitable additive.
 
 (incomplete)
@@ -27,7 +26,6 @@ In-vitro study (DSC + 3-point flexural + shear bond to root dentin) of 3 wt% fil
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro 연구(DSC + 3점 굴곡강도 + 근면 상아질 전단접착): 4-META/MMA-TBB(슈퍼본드 화학) 수지에 3 wt% filler를 첨가했을 때, 유기 복합 filler는 경화시간을 단축하고 열순환 후 상아질 접착강도를 높인 반면, 생활성유리(45S5)·알루미노실리케이트 유리는 경화를 지연시키고 굴곡·접착강도를 낮춰 — 노인 root caries 수복에는 유기 복합 filler가 가장 적합.
 

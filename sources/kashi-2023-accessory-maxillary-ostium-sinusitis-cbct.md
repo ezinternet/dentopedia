@@ -21,7 +21,6 @@ This CBCT study quantifies accessory maxillary ostium (AMO) frequency and — cl
 
 ## Three-line Summary
 
-
 Cross-sectional CBCT study (n = 244 scans;
 
 sinusitis vs normal groups) — AMO presence did NOT correlate with maxillary sinusitis (p = 0.104), but PMO obstruction was significantly more frequent in the sinusitis group (p < 0.001);
@@ -29,7 +28,6 @@ sinusitis vs normal groups) — AMO presence did NOT correlate with maxillary si
 AMO frequency was gender-dependent (p = 0.013).
 
 ## 세줄요약
-
 
 CBCT 단면연구 (n = 244 스캔, 부비동염군 vs 정상군) — 부이관(Accessory Maxillary Ostium, AMO) 존재는 상악동염과 유의한 상관 없음 (p = 0.104)이나, 원발 상악동공(Primary Maxillary Ostium, PMO) 폐쇄는 부비동염군에서 유의하게 더 흔했다 (p < 0.001);
 

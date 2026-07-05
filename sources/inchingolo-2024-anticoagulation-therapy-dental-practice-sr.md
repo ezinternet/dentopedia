@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review (25 clinical studies, 1989–2024): local hemostatic measures sufficient for anticoagulated patients; do not routinely stop VKAs/DOACs for routine dental procedures; tranexamic acid mouthwash as first-line adjunct.
+
+Systematic review (25 clinical studies, 1989–2024): local hemostatic measures sufficient for anticoagulated patients
+
+do not routinely stop VKAs/DOACs for routine dental procedures
+
+tranexamic acid mouthwash as first-line adjunct.
+
+## 세줄요약
+
+체계적 문헌고찰 (25개 임상연구, 1989–2024): 항응고제(VKA/DOAC) 복용 환자의 치과 처치 시 루틴 중단 불필요.
+
+국소 지혈 조치(트라넥삼산 4.8% 구강세정액, 산화셀룰로오스 등)로 충분; 트라넥삼산은 1993년부터 근거 구축.
+
+교육 격차 식별: 치과의사·환자 모두 항응고제 관리에 불확실성 존재.
 
 ## 1. Document Information
 - Journal: Healthcare 12(15):1537 (August 2024)

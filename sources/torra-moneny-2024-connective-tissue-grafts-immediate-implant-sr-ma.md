@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 5 RCTs (245 subjects;
 
 4 pooled) finding that connective tissue grafting at immediate implant placement produces a non-significant but favorable trend in buccal gingival level (MD 0.09 mm, 95% CI −0.54 to 0.72, p = 0.05), concluding CTG helps maintain — but not increase — the gingival level for esthetic success.
@@ -23,7 +22,6 @@ SR+MA of 5 RCTs (245 subjects;
 (incomplete)
 
 ## 세줄요약
-
 
 5개 RCT(245명;
 

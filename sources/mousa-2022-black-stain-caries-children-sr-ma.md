@@ -19,7 +19,6 @@ text_filename: mousa-2022-black-stain-caries-children-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA (14 studies, children) finding black stain associated with lower odds of caries (OR 0.67, 95% CI 0.54–0.82) and fewer affected teeth (MD −0.98) and surfaces (MD −2.34), though causality direction remains uncertain.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA (14 studies, children) finding black stain associated with lower odds of c
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (14편, 소아): 블랙 스테인 (Black Stain, BS) 아동에서 우식 발생 교차비 (Odds Ratio, OR) 0.67 (95% CI 0.54–0.82) — 우식 경험 저하와 유의하게 관련;
 

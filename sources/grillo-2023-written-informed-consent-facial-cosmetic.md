@@ -18,7 +18,6 @@ Reinforces the medico-legal value of documentation seen in [[complaint-managemen
 
 ## Three-line Summary
 
-
 Retrospective 10-year (2012-2022) analysis of Brazilian facial cosmetic surgery litigation (992 identified, 122 included) found written informed consent significantly reduces both litigation losses and mean financial damage ($59,536).
 
 (incomplete)
@@ -26,7 +25,6 @@ Retrospective 10-year (2012-2022) analysis of Brazilian facial cosmetic surgery 
 (incomplete)
 
 ## 세줄요약
-
 
 브라질 안면성형수술 소송 10년치(2012-2022, 992건 검색·122건 포함)를 후향 분석한 결과, 적절한 서면 동의서(written informed consent)가 패소와 배상액(평균 $59,536)을 유의하게 줄였다.
 

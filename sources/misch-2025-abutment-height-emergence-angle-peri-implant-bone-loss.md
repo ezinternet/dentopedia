@@ -19,7 +19,6 @@ text_filename: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss
 
 ## Three-line Summary
 
-
 Retrospective radiographic analysis (192 bone-level implants / 119 patients, mean 7.4-yr follow-up) crossing trans-mucosal abutment height (TmAH) × restoration emergence angle (REA) into 4 groups: Short/Wide-Angle (TmAH <2 mm + REA ≥30°) had the greatest MBL (+0.48 mm vs Long/Narrow, p<0.001) and ~4× higher peri-implantitis (OR 4.19 vs Long/Wide, p=0.013);
 
 REA was a significant MBL factor ONLY when TmAH <2 mm, and every 1 mm TmAH increase cut odds of any MBL by 37% (OR 0.63, p=0.003).
@@ -27,7 +26,6 @@ REA was a significant MBL factor ONLY when TmAH <2 mm, and every 1 mm TmAH incre
 (incomplete)
 
 ## 세줄요약
-
 
 후향 방사선 분석(골수준 임플란트 192개·환자 119명, 평균 7.4년 추적)에서 경점막 지대주 높이(TmAH)와 보철 출현각(REA)을 4그룹으로 교차분류 — 짧은 지대주+넓은 각(TmAH <2 mm·REA ≥30°) 그룹이 MBL 최대(+0.48 mm, p<0.001)·임플란트주위염 약 4배(OR 4.19, p=0.013)였고, REA는 TmAH <2 mm일 때만 유의했으며 TmAH 1 mm 증가마다 MBL 발생 odds 37% 감소(OR 0.63, p=0.003).
 

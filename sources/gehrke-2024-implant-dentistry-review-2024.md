@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-현대 임플란트 치의학 주요 현안(표면 처리, 골융합, 임플란트 재료, 디지털 임플란트) 서술적 고찰.
+
+현대 임플란트 치의학 주요
+
+현안(표면 처리, 골융합, 임플란트
+
+재료, 디지털 임플란트) 서술적 고찰.
+
+## 세줄요약
+
+2024 임플란트 치의학 현대 이슈 서술적 고찰: 표면처리·골융합·재료선택·디지털계획
+
+티타늄 표준 유지, 지르코니아 증거 증가; SLA·SLActive·UV처리 발전 동향
+
+가이드 수술 위치 정확도 향상, 현대 임플란트 선택 및 술식 다양화 추세
 
 ## 1. Document Information
 - **Title**: Contemporary aspects of implant dentistry: a narrative review

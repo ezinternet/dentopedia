@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (2,994 screened → 8 included): across many regimens (amoxicillin, amox/clav, cefalexin, clindamycin, metronidazole, etc.) for acute dentoalveolar infections, virtually all showed clinical success, and one study found no antibiotics gave the same outcome as broad-spectrum — concluding broad-spectrum first-line empirical antibiotics are unnecessary, narrow-spectrum is equally effective in healthy patients, and dental treatment (drainage / source removal) is the primary determinant of success.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review (2,994 screened → 8 included): across many regimens (amoxici
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰(2,994편 선별 → 8편 포함): 급성 치성감염(농양)에 쓰인 여러 항생제 요법(amoxicillin, amox/clav, cefalexin, clindamycin, metronidazole 등) 거의 모두 임상 성공, 한 연구에서는 **무항생제 = 광범위 항생제와 동일 결과**.
 

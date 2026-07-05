@@ -19,7 +19,6 @@ text_filename: li-2024-salivary-diagnostics-opportunities-challenges.txt
 
 ## Three-line Summary
 
-
 Comprehensive review (Theranostics 2024) of salivary diagnostics covering salivary biomarker classes (proteins/peptides, nucleic acids, extracellular vesicles, metabolites, hormones, electrolytes), state-of-the-art detection systems (biosensors, microfluidics, wearable intraoral devices), and the collection/standardization challenges that limit clinical translation.
 
 (incomplete)
@@ -27,7 +26,6 @@ Comprehensive review (Theranostics 2024) of salivary diagnostics covering saliva
 (incomplete)
 
 ## 세줄요약
-
 
 침 진단(saliva diagnostics)의 바이오마커 종류(단백질·핵산·세포외소포(EV)·대사체·호르몬·전해질), 최신 검출 시스템(바이오센서·마이크로플루이딕·웨어러블 구강기기), 그리고 임상 적용을 막는 채취·표준화 과제를 종합한 리뷰 (Theranostics 2024).
 

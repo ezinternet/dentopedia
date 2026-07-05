@@ -15,7 +15,6 @@ Supplies the pharmacology backbone (mechanisms, resistance, pipeline) behind the
 
 ## Three-line Summary
 
-
 Narrative pharmacology review of anti-HSV-1 agents over ~60 years — nucleoside/nucleotide analogs (aciclovir family), helicase-primase inhibitors, immunomodulators — framing the drug-resistance problem and emerging therapeutic directions.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative pharmacology review of anti-HSV-1 agents over ~60 years — nucleoside
 (incomplete)
 
 ## 세줄요약
-
 
 지난 60여 년의 항-HSV-1 약물(뉴클레오시드/뉴클레오타이드 유사체·헬리카제-프라이메이스 억제제·면역조절제)을 정리한 약리학 내러티브 리뷰 — 약물내성 문제와 차세대 치료 방향 제시.
 

@@ -19,7 +19,6 @@ text_filename: shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case.txt
 
 ## Three-line Summary
 
-
 Case report of a large (2×1cm) symptomatic maxillary antrolith causing recurrent sinusitis and oroantral fistula, arising from residual bone chips post-Caldwell-Luc;
 
 managed with repeat Caldwell-Luc and endoscopic sinus surgery.
@@ -27,7 +26,6 @@ managed with repeat Caldwell-Luc and endoscopic sinus surgery.
 (incomplete)
 
 ## 세줄요약
-
 
 과거 Caldwell-Luc 수술 후 잔류 골편을 nidus로 형성된 2×1cm 대형 상악동석이 재발성 상악동염·구강상악동루를 유발한 증례;
 

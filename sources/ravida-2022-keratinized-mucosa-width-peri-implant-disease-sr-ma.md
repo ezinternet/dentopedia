@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR + meta-analysis + TSA (9 studies, 685 implants;
 
 RCT/prospective interventional designs only): KMW <2 mm vs ≥2 mm showed significantly higher plaque index (MD 0.37, p=0.002) but no significant difference in MBL, PD, or soft-tissue recession, with TSA confirming all findings except mPI are underpowered and inconclusive (GRADE: very low to low).
@@ -23,7 +22,6 @@ RCT/prospective interventional designs only): KMW <2 mm vs ≥2 mm showed signif
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA+TSA (9연구, 685임플란트;
 

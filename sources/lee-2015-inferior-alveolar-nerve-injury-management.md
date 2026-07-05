@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-하악 제3대구치 발치 중 하치조 신경혈관 다발 노출 증례에서 dexamethasone 국소 도포 + 경구 prednisolone 점감법 + NSAIDs로 36일 내 neuropraxia 완전 회복.
 
+하악 제3대구치 발치 중 하치조 신경혈관 다발
+
+노출 증례에서 dexamethasone 국소 도포 + 경구
+
+prednisolone 점감법 + NSAIDs로 36일 내 neuropraxia 완전 회복.
+
+## 세줄요약
+
+하악 제3대구치 발치 중 하치조 신경혈관 다발
+
+노출 증례에서 dexamethasone 국소 도포 + 경구
+
+prednisolone 점감법 + NSAIDs로 36일 내 neuropraxia 완전 회복.
 
 ## 1. Document Information
 - **Journal**: J Korean Academy of Advanced General Dentistry 2015;4:33-37

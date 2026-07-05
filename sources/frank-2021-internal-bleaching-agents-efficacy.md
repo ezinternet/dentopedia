@@ -18,7 +18,6 @@ text_filename: frank-2021-internal-bleaching-agents-efficacy.txt
 
 ## Three-line Summary
 
-
 SR+MA (8 studies, 6 meta-analyzed) — internal (walking-bleach) of endodontically treated discolored teeth produces large, significant shade change (ΔSGU 6.27, ΔE 12.83);
 
 carbamide peroxide 35–37%, HP 35%, and sodium perborate + HP outperform sodium perborate alone on ΔSGU (RoB moderate–high).
@@ -26,7 +25,6 @@ carbamide peroxide 35–37%, HP 35%, and sodium perborate + HP outperform sodium
 (incomplete)
 
 ## 세줄요약
-
 
 SR+MA (8편, 6편 메타분석) — 근관치료된 변색치의 내부(워킹블리치) 미백은 큰 색조 변화(ΔSGU 6.27, ΔE 12.83).
 

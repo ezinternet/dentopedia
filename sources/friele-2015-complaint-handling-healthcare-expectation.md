@@ -14,19 +14,19 @@ Extends [[complaint-management/1472-6963-6-106]] by measuring the mismatch betwe
 
 ## Three-line Summary
 
-Paired surveys of 3,366 physicians and 1,422 public respondents revealing a large gap: the public expects complaint handling to go badly, physicians expect it to go well.
+Cross-sectional parallel surveys (NIVEL, Netherlands): 3,366 physicians (57% response) and 1,422 public respondents (68% response) from Dutch Healthcare Consumer Panel answered identical items on expectations of how health care complaints would be handled.
 
-(incomplete)
+The public held significantly negative expectations about complaint resolution, while physicians held far more positive expectations, creating a large, statistically significant expectation gap that establishes adversarial priors before complaints are even filed or discussed.
 
-(incomplete)
+This systematic mismatch suggests that negative public preconceptions are entrenched and self-confirming during complaint handling, making complainant satisfaction difficult to achieve regardless of physician effort during resolution.
 
 ## 세줄요약
 
-의사 3,366명·일반인 1,422명 병행 설문 — 일반인은 민원 처리를 부정적으로, 의사는 긍정적으로 기대하는 큰 격차 확인.
+횡단면 병행 설문(NIVEL, 네덜란드): 의사 3,366명(응답률 57%), 네덜란드 보건소비자 패널 일반인 1,422명(응답률 68%)이 민원 처리 기대 동일 항목 응답.
 
-(incomplete)
+일반인은 민원 해결을 부정적으로, 의사는 긍정적으로 기대해 큰 격차 생성; 민원 제기 전부터 대립적 선입견 형성.
 
-(incomplete)
+음의 일반인 선입견은 사전에 고착되어 있고 민원 처리 과정 중 자기확인 경향이 강해, 의사의 노력 무관하게 민원인 만족 달성 어려움을 시사.
 
 ## 1. Document Information
 - BMC Research Notes 2015;8:529. Open access.

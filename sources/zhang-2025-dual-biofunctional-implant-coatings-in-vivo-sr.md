@@ -14,8 +14,20 @@ source_collection: external
 [[implants/surface/sun-2026-low-temperature-plasma-titanium-implants-review]] LTP review와 dual-functional 전략 비교 — coating(physical layer) 접근. [[implants/surface/smeets-2016-implant-surface-modifications-osseointegration]] 표면 modification 종합과 cross-link. [[implants/surface/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants]] HA-nano coating evidence와 함께 coating evidence pool 보강.
 
 ## Three-line Summary
-SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편 in vivo (1 clinical 15 animal — 5종 동물) 항균+골유합 dual-biofunctional coating; protocol 이질성 큼·표준화 필요·peri-implantitis model 6편.
 
+SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편
+
+in vivo (1 clinical 15 animal — 5종
+
+동물) 항균+골유합 dual-biofunctional coating; protocol 이질성 큼·표준화 필요·peri-implantitis model 6편.
+
+## 세줄요약
+
+SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편
+
+생체내 (1 clinical 15 animal — 5종
+
+동물) 항균+골유합 dual-biofunctional coating; protocol 이질성 큼·표준화 필요·peri-implantitis model 6편.
 
 ## 1. Document Information
 - 저널 미확인 (BMC 추정), 2025

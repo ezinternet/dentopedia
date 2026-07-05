@@ -19,7 +19,6 @@ Xerostomia (구강건조증, incl. Sjögren·radiation·medication causes) is th
 
 ## Three-line Summary
 
-
 Systematic review (16 studies, 1227 patients) showing xerostomia roughly doubles–triples restoration failure (HR ~2.6–2.9, recurrent caries) while implant survival stays >90% except in radiation-induced cases;
 
 no major periodontal-therapy penalty;
@@ -27,7 +26,6 @@ no major periodontal-therapy penalty;
 evidence GRADE low-to-moderate, RoB moderate-to-serious.
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (16편, 환자 1227명) — 구강건조증(Xerostomia)은 보철물(restoration) 실패를 약 2.6~2.9배 높이고(재발우식, recurrent caries) 임플란트 생존율은 방사선유발 외에는 90% 이상 유지되며, 치주치료 결과 차이는 뚜렷하지 않음.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 5 RCTs + 2 cohorts (191 participants, 400 implants) finding no significant difference in peri-implant MBL between immediate and delayed loading of unsplinted mandibular overdentures (WMD 0.04 mm, 95% CI −0.13 to 0.21), though immediate loading carried a numerically higher implant failure rate (5.03% vs 1.00%).
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 5 RCTs + 2 cohorts (191 participants, 400 implants) finding no signific
 (incomplete)
 
 ## 세줄요약
-
 
 5 RCT + 2 코호트(191명·400 임플란트) SR+MA — 무치악 하악 비연결형 오버덴처에서 즉시 로딩과 지연 로딩 간 임플란트 변연골소실(MBL) 차이는 없었으나(WMD 0.04 mm), 즉시 로딩군 임플란트 실패율이 수치상 더 높았다(5.03% vs 1.00%).
 

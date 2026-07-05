@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Rat split-mouth study (n=14 male Sprague-Dawley, unilateral maxillary molar extraction, 8 wk) showing occlusal hypofunction decreases BMD and BV/TV and increases osteoclast number, accompanied by upregulated sclerostin and RANKL and downregulated β-catenin — implicating sclerostin-mediated inhibition of Wnt/β-catenin signaling as the molecular driver of disuse alveolar bone loss.
 
 (incomplete)
@@ -23,7 +22,6 @@ Rat split-mouth study (n=14 male Sprague-Dawley, unilateral maxillary molar extr
 (incomplete)
 
 ## 세줄요약
-
 
 Rat split-mouth 연구(수컷 Sprague-Dawley 14마리, 편측 상악 대구치 발치로 교합저하 유도, 8주) — 교합저하 측에서 골밀도(BMD)·BV/TV 감소, 파골세포 수 증가가 sclerostin·RANKL 상승 및 β-catenin 저하와 동반됨을 보여, sclerostin이 Wnt/β-catenin 신호를 억제해 disuse 치조골 소실을 일으키는 분자 기전임을 시사.
 

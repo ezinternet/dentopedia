@@ -15,7 +15,20 @@ source_collection: external
 [[sinus-lift/pseudocyst/fu-2022-pseudocyst-removal-retainment-msfa-cohort]]의 2-arm (제거 vs 잔존) 비교를 **3-arm (제거 vs 흡인 vs 미처치)으로 확장**한 후속 연구. 후향이지만 n=107로 통계 power 개선. 소형 (≤20mm) 점액낭종 다룰 때 최저-침습 옵션이 안전한지 결정에 핵심.
 
 ## Three-line Summary
-Retrospective n=107: 소형 (≤20mm) AP를 가진 환자에서 측방창 거상술 + 동시 implant — **제거·흡인·미처치 3군 비교**. 6개월 후 미처치군이 골이식재 volume 유의하게 더 감소 (P<.001), 모든 군 implant 생존·sinusitis 발생 0%.
+
+Retrospective n=107: 소형 (≤20mm) AP를 가진 환자에서 측방창 거상술 +
+
+동시 implant — **제거·흡인·미처치 3군 비교**. 6개월 후 미처치군이 골이식재
+
+volume 유의하게 더 감소 (P<.001), 모든 군 implant 생존·sinusitis 발생 0%.
+
+## 세줄요약
+
+소형(≤20mm) 상악동 점액낭종을 가진 측방창 거상술 환자 n=107 — 3군 비교: 제거 vs 흡인 vs 미처치
+
+미처치군이 6개월 후 골이식재 volume 18.31% 감소 (P<.001) vs 제거군 14.11%, 흡인군 16.55%
+
+임플란트 생존·부비동염 발생 모두 0% 달성 → 소형 낭종은 제거 또는 흡인 권장
 
 ## 1. Document Information
 Retrospective cohort, Zhongshan Hospital Fudan University Shanghai. 2016년 이후 LSFE + 즉시 implant 환자 대상.

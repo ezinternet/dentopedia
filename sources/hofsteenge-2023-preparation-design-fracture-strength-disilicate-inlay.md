@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-인비트로+FEA(n=64 대구치): 리튬디실리케이트 수복 시 4가지 와동형성 디자인(UI/EI/RO/EO) 비교 — 오버레이 디자인이 파절강도 우수; 즉시상아질봉쇄(IDS) 적용 전 제
+
+인비트로+FEA(n=64 대구치): 리튬디실리케이트 수복 시 4가지
+
+와동형성 디자인(UI/EI/RO/EO) 비교 — 오버레이 디자인이
+
+파절강도 우수; 즉시상아질봉쇄(IDS) 적용 전 제
+
+## 세줄요약
+
+인비트로+FEA(n=64 대구치): 리튬디실리케이트 수복 시 4가지
+
+와동형성 디자인(UI/EI/RO/EO) 비교 — 오버레이 디자인이
+
+파절강도 우수; 즉시상아질봉쇄(IDS) 적용 전 제
 
 ## 1. Document Information
 - **Title**: Effect of preparation design on fracture strength of compromised molars restored with lithium disilicate inlay and overlay restorations: An in vitro and in silico study

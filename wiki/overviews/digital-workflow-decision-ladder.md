@@ -45,7 +45,11 @@ LLM 치과 응답 정확도 ≈82%·임상 수용 ≈70%(Zhang 2025 SR+MA, 25편
 
 ## 세줄요약
 
-디지털 치의학 4축 — 구강내 스캐너 (IOS) 정확도·컴퓨터지원 임플란트 외과 (CAIS)·AI 임상 적용·LLM/ChatGPT 환자 응답. Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
+디지털 치의학 4축 — 구강내 스캐너 (IOS) 정확도·컴퓨터지원 임플란트
+
+외과 (CAIS)·AI 임상 적용·LLM/ChatGPT 환자 응답. Vankos 2026 +
+
+Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 
 ## Summary
 

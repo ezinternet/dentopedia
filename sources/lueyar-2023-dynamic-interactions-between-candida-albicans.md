@@ -19,7 +19,6 @@ text_filename: lueyar-2023-dynamic-interactions-between-candida-albicans.txt
 
 ## Three-line Summary
 
-
 In vitro eight-species supragingival biofilm model (3 experiments, triplicate) showing that adding oral streptococci progressively lowers C. albicans CFU — S.
 
 gordonii + S. mutans gave the lowest counts — while S.
@@ -27,7 +26,6 @@ gordonii + S. mutans gave the lowest counts — while S.
 mutans plus a single mitis-group species induces C. albicans hyphae, and multiple mitis species revert it to yeast form.
 
 ## 세줄요약
-
 
 In-vitro 8종 상연골상(supragingival) 바이오필름 모델(3회·삼중): 구강 연쇄상구균을 추가할수록 칸디다 알비칸스 (Candida albicans, C.
 

@@ -19,7 +19,6 @@ text_filename: son-2024-qlf-validity-diagnosing-cracked-teeth.txt
 
 ## Three-line Summary
 
-
 Prospective STARD diagnostic-accuracy study (26 cracked molars, 2 examiners): QLF fluorescent images localized crack lines with substantial agreement vs reference standard (kappa F-R 0.662, combination C-R 0.742), far better than natural-color images alone (N-R 0.164);
 
 inter-examiner kappa moderate for fluorescent/combination (0.449/0.493) vs fair for natural color (0.394).
@@ -27,7 +26,6 @@ inter-examiner kappa moderate for fluorescent/combination (0.449/0.493) vs fair 
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 STARD 진단정확도 연구 (균열치 26개, 평가자 2명): QLF 형광영상(405 nm)은 균열선 위치를 기준표준 대비 substantial 일치도로 검출(kappa 형광 0.662, 복합 0.742)했고, 자연색 영상 단독(0.164)보다 훨씬 우수.
 

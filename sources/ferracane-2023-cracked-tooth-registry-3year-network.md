@@ -30,8 +30,6 @@ National Dental PBRN(Oregon Health & Science University 주도)의 3년 다기�
 
 관찰 무작위화 미보유로 인과성 제약. PBRN 참여 임상→ selection bias. Lessons learned 형식은 임상성 우선, 원문 8편 상세 방법론 참조 필요. 제한점에도 managed-care network의 현재 균열치 자연사·치료 결과 최대 근거.
 
-
-
 ## 1. Document Information
 저자: Jack L. Ferracane (OHSU), Thomas J. Hilton (OHSU), Ellen Funkhouser (UAB), National Dental PBRN. NIHMS-1946110 = PMC PMC archive ID. 통합 review article로 8개 published article (2017-2022) 종합.
 

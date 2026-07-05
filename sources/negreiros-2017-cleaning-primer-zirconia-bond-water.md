@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Eur J Dent 2017;11:6-11: Ivoclean + Monobond Plus combination → highest BS for Katana zirconia at 24h; all groups lost ~50% bond strength after 1 year water storage.
 
+Eur J Dent 2017;11:6-11: Ivoclean + Monobond Plus combination
+
+→ highest BS for Katana zirconia at 24h; all
+
+groups lost ~50% bond strength after 1 year water storage.
+
+## 세줄요약
+
+Eur J Dent 2017;11:6-11: Ivoclean + Monobond Plus combination
+
+→ highest BS for Katana zirconia at 24h; all
+
+groups lost ~50% bond strength after 1 year water storage.
 
 ## 1. Document Information
 Journal: European Journal of Dentistry 2017;11:6-11

@@ -19,7 +19,6 @@ text_filename: hu-2025-enzyme-protein-toothpaste-gingival-condition.txt
 
 ## Three-line Summary
 
-
 Double-blind RCT (n=251, Chinese adults with gingivitis, 26 weeks): a fluoride toothpaste containing enzymes + proteins (lysozyme, lactoferrin, colostrum-IgG, lactoperoxidase + amyloglucosidase/glucose oxidase) reduced Gingival Index (between-product diff −0.53, p<0.0001) and supragingival plaque MQHPI (diff −0.96, p<0.0001) at 26 wk vs control fluoride toothpaste, raising non-bleeding sites from 35.7% to 93.8% (vs 45.3% control).
 
 (incomplete)
@@ -27,7 +26,6 @@ Double-blind RCT (n=251, Chinese adults with gingivitis, 26 weeks): a fluoride t
 (incomplete)
 
 ## 세줄요약
-
 
 이중맹검 RCT (n=251, 치은염 중국 성인, 26주): 효소-단백(리소짐·락토페린·초유 IgG·락토퍼옥시다제 등) 함유 불소 치약이 대조 불소 치약 대비 치은지수(GI, between-product 차 −0.53, p<0.0001)와 치은연상 치태(MQHPI, 차 −0.96, p<0.0001)를 유의하게 낮췄고, 비출혈 부위를 35.7%→93.8%(대조 45.3%)로 끌어올렸다.
 

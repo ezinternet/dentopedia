@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review (20 studies, 1,231 children, search to Sept 2025) of restorative interventions for MIH-affected first permanent molars (FPMs) and hypomineralized second primary molars (HSPM): overall clinical success 84% (12 mo) → 94% (18 mo) → 92% (24 mo) → 83% (36 mo);
 
 lowest for GIC (53% at 12 mo), highest (100%) for fabricated ceramic (18 mo) and preformed metal crowns/PMCs (24 mo);
@@ -23,7 +22,6 @@ lowest for GIC (53% at 12 mo), highest (100%) for fabricated ceramic (18 mo) and
 heterogeneity precluded meta-analysis and no evidence-based best-approach recommendation could be drawn.
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (20편, 1,231명, 2025년 9월까지 검색): **법랑질 저광화 (MIH)** 침범 제1대구치(FPM)·저광화 제2유구치(HSPM)의 수복 중재 성공률 종합 — 전체 임상 성공률 84%(12개월)→94%(18개월)→92%(24개월)→83%(36개월);
 

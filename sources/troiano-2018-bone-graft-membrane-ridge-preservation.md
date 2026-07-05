@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review + meta-analysis + trial sequential analysis (7 studies) on alveolar ridge preservation (ARP) using allogenic/xenogenic graft covered by a resorbable membrane vs spontaneous healing: combination therapy reduced horizontal ridge resorption by 2.19 mm (95% CI −2.67 to −1.71) and vertical resorption by 1.72 mm (95% CI −2.14 to −1.30); TSA confirmed the evidence base is sufficient to validate these effects despite high heterogeneity.
 
+Systematic review + meta-analysis + trial sequential analysis (7 studies) on alveolar ridge preservation (ARP) using allogenic/xenogenic graft covered by a
+
+resorbable membrane vs spontaneous healing: combination therapy reduced horizontal ridge resorption by 2.19 mm (95% CI −2.67 to −1.71) and vertical
+
+resorption by 1.72 mm (95% CI −2.14 to −1.30); TSA confirmed the evidence base is sufficient to validate these effects despite high heterogeneity.
+
+## 세줄요약
+
+체계적 고찰 (SR) + 메타분석 (MA) + trial sequential analysis (7 studies) on alveolar ridge preservation (ARP) using allogenic/xenogenic graft covered by a
+
+resorbable membrane vs spontaneous healing: combination therapy reduced horizontal ridge resorption by 2.19 mm (95% CI −2.67 to −1.71) and vertical
+
+resorption by 1.72 mm (95% CI −2.14 to −1.30); TSA confirmed the evidence base is sufficient to validate these effects despite high heterogeneity.
 
 ## 1. Document Information
 - **Journal**: Journal of Periodontology 2018;89(1):46–57.

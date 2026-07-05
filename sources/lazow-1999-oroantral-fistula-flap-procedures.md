@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (1999) of oroantral fistula (OAF) closure techniques covering buccal sliding flap, buccal fat pad, palatal rotation/island flap, tongue flap, temporalis flap, and alloplastic grafts, with a 4-step size-based protocol: acute primary repair ~95% success vs chronic secondary repair as low as 67%.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (1999) of oroantral fistula (OAF) closure techniques covering b
 (incomplete)
 
 ## 세줄요약
-
 
 서사 리뷰(1999) — 구강상악동루 (Oroantral Fistula, OAF) 폐쇄 술식(협측 활주 피판, 협지방체 이식, 구개 회전/도서 피판, 설 피판, 측두근 피판, 동종이식재) 전반 정리;
 

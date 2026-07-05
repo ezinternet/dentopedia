@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-WHO Collaborating Centre for Oral Cancer 주관 국제 전문가 합의문: OPMD 용어 및 분류 체계 재정립.
 
+WHO Collaborating Centre for Oral
+
+Cancer 주관 국제 전문가 합의문:
+
+OPMD 용어 및 분류 체계 재정립.
+
+## 세줄요약
+
+WHO Collaborating Centre for Oral
+
+Cancer 주관 국제 전문가 합의문:
+
+OPMD 용어 및 분류 체계 재정립.
 
 ## 1. Document Information
 - **Title**: Oral potentially malignant disorders: A consensus report from an international seminar on nomenclature and classification, convened by the WHO Collaborating Centre for Oral Cancer

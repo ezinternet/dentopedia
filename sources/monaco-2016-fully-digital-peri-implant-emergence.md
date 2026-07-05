@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Short communication introducing the Fully Digital Technique (FDT) — a two-scan STL superimposition method using an intraoral scanner to capture peri-implant soft tissue contours and emergence profile directly from the provisional restoration, enabling fully digital CAD/CAM abutment design without conventional impressions.
 
 (incomplete)
@@ -23,7 +22,6 @@ Short communication introducing the Fully Digital Technique (FDT) — a two-scan
 (incomplete)
 
 ## 세줄요약
-
 
 임시 수복물의 두 번의 구강 내 디지털 인상을 STL 중첩하여 임플란트 주위 점막 형태와 출현 프로파일을 완전 디지털 방식으로 복제하는 FDT(완전 디지털 기법)를 소개한 단기 임상 보고.
 

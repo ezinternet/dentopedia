@@ -17,7 +17,6 @@ text_filename: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA of 18 CBCT-based studies identifying 8 tomographic predictors of inferior alveolar nerve (IAN) injury during mandibular third molar extraction, with absent cortical bone (OR 9.87), dumbbell-shaped canal (OR 8.25), and lingual canal position (OR 3.82) as highest-risk features.
 
 (incomplete)
@@ -25,7 +24,6 @@ SR+MA of 18 CBCT-based studies identifying 8 tomographic predictors of inferior 
 (incomplete)
 
 ## 세줄요약
-
 
 18개 CBCT 연구 SR+MA — 하치조신경관(IAN) 피질골 소실(OR 9.87), 아령형 관(OR 8.25), 설측 위치(OR 3.82)가 하치조신경 손상(IAN injury)의 주요 CBCT 예측 인자임을 정량화.
 

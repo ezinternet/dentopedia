@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review of 30 human studies (2008–2025) summarizing dental implant survival and surgical considerations in osteoporosis and five osteosclerotic jaw lesions;
 
 osteoporosis shows healthy-comparable short-term survival (97.9–100%) but declines to 82.6–94.1% at 5–10 years with greater marginal bone loss, while osteosclerotic-lesion outcomes are lesion-type dependent (florid COD and intralesional placement worst).
@@ -23,7 +22,6 @@ osteoporosis shows healthy-comparable short-term survival (97.9–100%) but decl
 (incomplete)
 
 ## 세줄요약
-
 
 인간 대상 30편(2008–2025)을 검토한 종설.
 

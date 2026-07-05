@@ -18,7 +18,6 @@ text_filename: zhang-2025-clear-aligner-extraction-protocol-alveolar-bone-cbct.t
 
 ## Three-line Summary
 
-
 Retrospective CBCT cohort (n=281: 186 non-extraction, 59 two-premolar-extraction, 36 one-lower-incisor-extraction) — alveolar bone height/thickness loss is common across all clear aligner extraction protocols;
 
 two-premolar-extraction carries higher risk of lingual bone dehiscence and torque loss, one-lower-incisor-extraction carries higher risk of open gingival embrasures, and mandibular anterior teeth show more severe bone loss than maxillary anterior teeth (all p<0.05).
@@ -26,7 +25,6 @@ two-premolar-extraction carries higher risk of lingual bone dehiscence and torqu
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 CBCT 코호트 (n=281: 무발치 186, 양측 소구치발치 59, 하악전치발치 36) — 모든 발치 프로토콜에서 치조골 높이·두께 소실이 공통 관찰됨;
 

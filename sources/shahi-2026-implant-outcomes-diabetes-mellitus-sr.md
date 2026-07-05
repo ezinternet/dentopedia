@@ -14,8 +14,20 @@ source_collection: external
 [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] (2022 MA) 이후 최신 SR — 2025년 11월 submit, 2026년 1월 accept (BMC Oral Health). DM 환자 implant outcome evidence pool 갱신. 우리 클리닉 DM 환자 implant 상담 시 가장 최신 SR 인용 근거.
 
 ## Three-line Summary
-SR (BMC Oral Health 2026, BMC unedited version 단계): DM 환자 dental implant outcome 종합 — 메타·중간 결과는 본문 직접 확인 (PDF 미수록 본문 본문 일부만 추출).
 
+SR (BMC Oral Health 2026, BMC unedited version 단계):
+
+DM 환자 dental implant outcome 종합 — 메타·중간 결과는
+
+본문 직접 확인 (PDF 미수록 본문 본문 일부만 추출).
+
+## 세줄요약
+
+SR (BMC Oral Health 2026, BMC unedited version 단계):
+
+DM 환자 dental implant outcome 종합 — 메타·중간 결과는
+
+본문 직접 확인 (PDF 미수록 본문 본문 일부만 추출).
 
 ## 1. Document Information
 - BMC Oral Health 2026 (article in press, unedited version)

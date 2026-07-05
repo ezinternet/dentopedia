@@ -19,7 +19,6 @@ text_filename: momeni-2024-intraspecies-interactions-streptococcus-mutans.txt
 
 ## Three-line Summary
 
-
 In vitro biofilm + in vivo Drosophila study of two clinical S.
 
 mutans genotypes (G09, G18) from a high-caries-risk child showing that co-culture significantly lowers biofilm pH, doubles cell density/biofilm thickness, and enhances colonization versus mono-culture — with each strain occupying a distinct spatial domain.
@@ -27,7 +26,6 @@ mutans genotypes (G09, G18) from a high-caries-risk child showing that co-cultur
 (incomplete)
 
 ## 세줄요약
-
 
 임상 S.
 

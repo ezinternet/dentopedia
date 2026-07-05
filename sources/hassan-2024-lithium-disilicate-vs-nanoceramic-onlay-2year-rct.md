@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-스플릿마우스 RCT(n=20, 2년): e.max CAD vs Voco Grandio 온레이 — 양군 모두 KM 생존율 90%; 재료 간 유의차 없음; 변연변색·변연적합·표면질감·술후과민 시간에 따라 유의하게 변화
+
+스플릿마우스 RCT(n=20, 2년): e.max CAD vs Voco Grandio 온레이 — 양군 모두 KM 생존율 90%
+
+재료 간 유의차 없음
+
+변연변색·변연적합·표면질감·술후과민 시간에 따라 유의하게 변화
+
+## 세줄요약
+
+스플릿마우스 RCT(n=20, 2년): e.max CAD vs Voco Grandio 온레이 — 양군 모두 KM 생존율 90%
+
+재료 간 유의차 없음
+
+변연변색·변연적합·표면질감·술후과민 시간에 따라 유의하게 변화
 
 ## 1. Document Information
 - **Title**: Clinical performance comparison between lithium disilicate and hybrid resin nano-ceramic CAD/CAM onlay restorations: a two-year randomized clinical split-mouth study

@@ -15,7 +15,6 @@ Introduces PFAPA — the commonest childhood periodic-fever syndrome featuring r
 
 ## Three-line Summary
 
-
 Narrative review of PFAPA (periodic fever, aphthous stomatitis, pharyngitis, cervical adenitis) pathogenesis — recent genetic susceptibility loci link it to Behcet disease/recurrent aphthous ulcers, and tonsillectomy shows efficacy even in incomplete-criteria patients.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review of PFAPA (periodic fever, aphthous stomatitis, pharyngitis, cer
 (incomplete)
 
 ## 세줄요약
-
 
 PFAPA(주기열·아프타구내염·인두염·경부림프절염) 병인 내러티브 리뷰 — 최근 유전 감수성 좌위가 베체트병/재발성 아프타궤양과 연결되며, 진단기준 미충족 환자에서도 편도절제술 효과 확인.
 

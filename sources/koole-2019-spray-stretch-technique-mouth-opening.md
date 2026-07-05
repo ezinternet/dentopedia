@@ -18,7 +18,6 @@ TMD 물리치료 분사신장(spray-and-stretch / vapocoolant) 논문 감시 요
 
 ## Three-line Summary
 
-
 Clinical study (n=121: 60 orofacial-pain patients + 61 asymptomatic controls) showing that a vapocoolant spray-and-stretch maneuver to both cheeks immediately increased maximal mouth opening (MMO), with a larger relative gain in pain patients than controls (P<.001) and larger in women than men — abstract-only, full text not retrieved.
 
 (incomplete)
@@ -26,7 +25,6 @@ Clinical study (n=121: 60 orofacial-pain patients + 61 asymptomatic controls) sh
 (incomplete)
 
 ## 세줄요약
-
 
 구강안면통증 환자 60명 + 무증상 대조 61명 임상연구 — 양 볼에 vapocoolant 분사 후 최대개구량(MMO)이 즉시 증가했고, 통증 환자에서 대조군보다(P<.001), 여성에서 남성보다 증가폭이 컸다 (PubMed 초록 기반, 전문 미확보).
 

@@ -19,7 +19,6 @@ The wiki holds insertion torque thresholds (≥30 Ncm for immediate loading) dis
 
 ## Three-line Summary
 
-
 3-year follow-up RCT (n=28 patients, 61 implants): tapered implants showed numerically higher patient-level survival (95.8% vs 78.3%, NS) and fewer composite protocol failures vs straight implants for immediate loading in posterior jaws;
 
 MBL was minimal and equivalent between groups.
@@ -27,7 +26,6 @@ MBL was minimal and equivalent between groups.
 (incomplete)
 
 ## 세줄요약
-
 
 3년 추적 RCT (28명, 61개): 테이퍼 임플란트는 즉시 부하 성공률에서 직선형보다 우위(프로토콜 실패 4 vs 13개), 생존율 차이는 비유의적(환자 수준 95.8% vs 78.3%);
 

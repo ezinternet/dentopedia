@@ -19,7 +19,6 @@ Extends [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] (T-S
 
 ## Three-line Summary
 
-
 Interventional RCT (n=30, Class I extraction cases) — CR-guided occlusal adjustment one month post-debonding produced NO statistically significant difference vs no-adjustment control in T-Scan III occlusal contact intensity or number at 1 or 6 months, only a non-significant trend toward better posterior force distribution.
 
 (incomplete)
@@ -27,7 +26,6 @@ Interventional RCT (n=30, Class I extraction cases) — CR-guided occlusal adjus
 (incomplete)
 
 ## 세줄요약
-
 
 중재 RCT (n=30, Class I 발치 케이스) — 디본딩 1개월 후 중심위(CR) 기반 교합조정을 시행해도 비조정 대조군 대비 T-Scan III 교합접촉 강도·개수에서 1·6개월 시점 모두 통계적 유의차 없었고, 후방 힘 분포 개선의 비유의 경향만 관찰됨.
 

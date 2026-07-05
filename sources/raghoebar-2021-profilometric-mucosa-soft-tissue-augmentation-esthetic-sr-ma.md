@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 18 studies showing that soft-tissue grafting at esthetic-zone implant sites yields significantly less mid-buccal recession (0.34 mm gain, immediate) and greater mucosa thickness (0.66 mm, immediate) vs no graft, with stable medium-term outcomes.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 18 studies showing that soft-tissue grafting at esthetic-zone implant s
 (incomplete)
 
 ## 세줄요약
-
 
 전치부 임플란트에서 연조직 이식술은 즉시 식립 시 점막 퇴축 감소(0.34 mm)와 두께 증가(0.66 mm)를 유의하게 제공하며, 중기까지 안정적으로 유지됨을 18개 연구 SR+MA로 확인한 논문.
 

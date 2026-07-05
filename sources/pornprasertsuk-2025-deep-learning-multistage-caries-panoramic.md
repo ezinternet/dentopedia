@@ -19,7 +19,6 @@ Recent (2025) primary deep-learning study performing multistage caries segmentat
 
 ## Three-line Summary
 
-
 Retrospective diagnostic model development/validation (500 panoramic radiographs, 1,792 caries in 14,997 teeth, bitewing gold standard) of a two-stage YOLOv5 + Attention U-Net pipeline that segments and stages caries (enamel/dentine/pulp) on panoramics with F1 0.85, accuracy 0.93, recall 0.96 in posterior teeth and strong agreement (κ ≥ 0.9) with radiologists.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective diagnostic model development/validation (500 panoramic radiographs
 (incomplete)
 
 ## 세줄요약
-
 
 파노라마 방사선사진 500장(치아 14,997개 중 우식 1,792개, 바이트윙 gold standard)에서 YOLOv5(치아 검출) + Attention U-Net(우식 분할) 2단계 파이프라인으로 우식을 단계별(법랑질/상아질/치수)로 분할·분류한 후향적 진단모델 연구 — 구치부 F1 0.85·정확도 0.93·재현율 0.96, 방사선과 전문의와 강한 일치(κ ≥ 0.9).
 

@@ -18,7 +18,6 @@ Ruggiero 2022 (AAOMS)는 미국 기준이라 한국 임상(보험환경·약제 
 
 ## Three-line Summary
 
-
 Consensus statement by 5 Korean societies providing Korean-adapted evidence-based guidelines for MRONJ prevention, diagnosis, and management — including drug-class-specific prophylactic drug holiday recommendations and advocacy for early surgical intervention across all MRONJ stages.
 
 (incomplete)
@@ -26,7 +25,6 @@ Consensus statement by 5 Korean societies providing Korean-adapted evidence-base
 (incomplete)
 
 ## 세줄요약
-
 
 한국 5개 학회 공동 2025 MRONJ 포지션 스테이트먼트 — 약제별 예방적 drug holiday 기준(oral BP 2개월, IV zoledronate 6-12개월, denosumab 수술 3-4개월 전), 전 병기 적극 수술 권고, CTX 무용론 재확인.
 

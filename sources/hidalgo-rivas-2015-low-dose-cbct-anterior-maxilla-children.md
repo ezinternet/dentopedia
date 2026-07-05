@@ -15,7 +15,6 @@ radiology 카테고리 소아 CBCT 저선량 프로토콜의 선구 근거(저�
 
 ## Three-line Summary
 
-
 Phantom dosimetry + clinician IQ scoring: a paediatric anterior-maxilla CBCT low-dose protocol (DAP ≥127 mGy·cm², CNR ≥4.8) gives ~50% dose cut vs manufacturer.
 
 (incomplete)
@@ -23,7 +22,6 @@ Phantom dosimetry + clinician IQ scoring: a paediatric anterior-maxilla CBCT low
 (incomplete)
 
 ## 세줄요약
-
 
 팬텀 선량+임상의 화질평가: 소아 전치부 CBCT 저선량 프로토콜(DAP ≥127 mGy·cm², CNR ≥4.8)로 제조사 권장 대비 ~50% 선량 절감.
 

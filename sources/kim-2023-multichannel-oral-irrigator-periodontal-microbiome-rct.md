@@ -19,7 +19,6 @@ Extends the oral-irrigation evidence in our `interdental-cleaning` category from
 
 ## Three-line Summary
 
-
 Small preliminary RCT (n=29 healthy adults, 3-day no-brushing model): a multichannel oral irrigator (COMORAL, 45° gingival-margin jet + suction) kept PI/SBI stable and lowered % BOP, and prevented the Prevotella/Bacteroidetes increase seen in the no-cleaning control, enriching pioneer non-mutans streptococci instead.
 
 (incomplete)
@@ -27,7 +26,6 @@ Small preliminary RCT (n=29 healthy adults, 3-day no-brushing model): a multicha
 (incomplete)
 
 ## 세줄요약
-
 
 소규모 예비 RCT(건강한 성인 29명, 3일 무칫솔질 모델): 다채널 구강세정기 (Multichannel Oral Irrigator, MCOI;
 

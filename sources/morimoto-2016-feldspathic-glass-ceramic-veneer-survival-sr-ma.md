@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 13 clinical studies: ceramic laminate veneers show 89% overall cumulative survival at median 9 years;
 
 glass-ceramic outperforms feldspathic (94% vs 87%);
@@ -23,7 +22,6 @@ glass-ceramic outperforms feldspathic (94% vs 87%);
 fracture/chipping is the most frequent complication (4%).
 
 ## 세줄요약
-
 
 SR+MA (13편): 세라믹 라미네이트 비니어의 전체 누적 생존율 89% (중앙값 9년), 글래스세라믹 94% vs 장석계 87%;
 

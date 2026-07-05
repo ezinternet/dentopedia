@@ -19,7 +19,6 @@ text_filename: gupta-2023-prevalence-distribution-oral-mucosal-nepal.txt
 
 ## Three-line Summary
 
-
 Cross-sectional study of 16,572 Nepalese dental OPD patients found 21.08% had oral mucosal lesions (OMLs) and 13.96% had normal mucosal variants (most commonly frictional keratosis, linea alba, and Fordyce's granules), with buccal mucosa the dominant site for both.
 
 (incomplete)
@@ -27,7 +26,6 @@ Cross-sectional study of 16,572 Nepalese dental OPD patients found 21.08% had or
 (incomplete)
 
 ## 세줄요약
-
 
 네팔 치과 외래 환자 16,572명 대상 단면연구에서 구강점막병소(OML) 21.08%, 정상 변이(normal variant) 13.96%가 확인되었고, 정상 변이 중 마찰성 각화증·교흔(linea alba)·포다이스 그래뉼(Fordyce's granules)이 가장 흔했으며 협점막이 주요 호발 부위였다.
 

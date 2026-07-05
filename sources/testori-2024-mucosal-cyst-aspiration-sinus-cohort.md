@@ -15,8 +15,20 @@ source_collection: external
 낭종 제거 vs 잔존의 양극 선택 사이 **흡인 (aspiration)이라는 중간 옵션**의 prospective cohort 근거. Testori·Del Fabbro·Wang 등 sinus lift 권위자 그룹의 임상 프로토콜 — 안전성과 재발률을 직접 보고. [[sinus-lift/pseudocyst/fu-2025-antral-pseudocyst-management-lsfe]]의 후향 3-arm을 prospective로 보강.
 
 ## Three-line Summary
-Cohort n=15 환자/18 sinuses: pre-existing mucosal cyst에 needle aspiration 후 즉시 sinus elevation. 안전·효과적 프로토콜로 보고, 합병증·재발 추적 결과 제시.
 
+Cohort n=15 환자/18 sinuses: pre-existing mucosal
+
+cyst에 needle aspiration 후 즉시 sinus
+
+elevation. 안전·효과적 프로토콜로 보고, 합병증·재발 추적 결과 제시.
+
+## 세줄요약
+
+Cohort n=15 환자/18 sinuses: pre-existing mucosal
+
+cyst에 needle aspiration 후 즉시 sinus
+
+elevation. 안전·효과적 프로토콜로 보고, 합병증·재발 추적 결과 제시.
 
 ## 1. Document Information
 Multi-author international cohort, ARDEC + 이탈리아 + 미시간 협력. Treatment strategies for max sinus cysts in implant cases가 controversial한 상황에서 safe·effective alternative 제시 목적.

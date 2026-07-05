@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT (30 patients, 41 maxillary implants): 6-week loading vs 12-week loading — same 97.56% success, same MBL; bone quality in 6-week group correlated with stability; 6-week loading acceptable if bone quality considered.
 
+RCT (30 patients, 41 maxillary implants): 6-week loading vs 12-week loading — same 97.56% success, same MBL
+
+bone quality in 6-week group correlated with stability
+
+6-week loading acceptable if bone quality considered.
+
+## 세줄요약
+
+RCT (30 patients, 41 maxillary 임플란트): 6-week loading vs 12-week loading — same 97.56% success, same MBL
+
+bone quality in 6-week group correlated with stability
+
+6-week loading acceptable if bone quality considered.
 
 ## 1. Document Information
 - Journal: Journal of Advanced Prosthodontics 8(5):396-403 (2016)

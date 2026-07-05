@@ -15,7 +15,6 @@ ISQ 변화 패턴이 임플란트 시스템(macrodesign)보다 골질(bone quali
 
 ## Three-line Summary
 
-
 Prospective clinical study (28 patients, 45 implants, 3 systems — Astra Osseospeed/Camlog/Replace, single-stage, no loading) tracking ISQ over 24 weeks: ISQ change patterns over time differed significantly by bone type (not by implant system);
 
 stability rose sharply weeks 0–6 (largest gain in Type 4 bone) then plateaued through 6 months;
@@ -23,7 +22,6 @@ stability rose sharply weeks 0–6 (largest gain in Type 4 bone) then plateaued 
 no implants failed.
 
 ## 세줄요약
-
 
 전향적 임상연구(환자 28명, 임플란트 45개, 3개 시스템 — Astra/Camlog/Replace, 단일 단계, 무하중)에서 24주간 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)를 추적한 결과, ISQ의 시간적 변화 패턴은 임플란트 시스템이 아니라 골질 유형 (bone type)에 따라 유의하게 갈렸으며, 안정성은 0~6주에 급증(4형 골에서 증가폭 최대)한 뒤 6개월까지 정체(plateau)했고, 실패한 임플란트는 없었다.
 

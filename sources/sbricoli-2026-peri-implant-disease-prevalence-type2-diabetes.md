@@ -19,7 +19,6 @@ Most existing peri-implantitis pages in our wiki frame T2DM as an established sy
 
 ## Three-line Summary
 
-
 Single-center cross-sectional study (70 subjects, 227 implants;
 
 35 T2DM vs 35 non-DM): no statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) — but underpowered, with high periodontitis history confounding.
@@ -27,7 +26,6 @@ Single-center cross-sectional study (70 subjects, 227 implants;
 (incomplete)
 
 ## 세줄요약
-
 
 단일기관 횡단연구(70명·임플란트 227개;
 

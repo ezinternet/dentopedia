@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Case report (J Appl Oral Sci 2017): an 18-year-old male with a periapical radiolucency, PDL widening, and lamina dura loss at vital teeth #29/#30/#31 — initially suspected periapical abscess — was ultimately diagnosed by incisional biopsy as chondroblastic osteosarcoma, underscoring that non-endodontic malignancies must be in the differential of periapical lesions.
 
 (incomplete)
@@ -23,7 +22,6 @@ Case report (J Appl Oral Sci 2017): an 18-year-old male with a periapical radiol
 (incomplete)
 
 ## 세줄요약
-
 
 증례보고(J Appl Oral Sci 2017): 18세 남성에서 생활치 #29/#30/#31에 근단 방사선투과상·치주인대강 확대·치조백선(lamina dura) 소실이 보여 처음에는 치근단 농양으로 의심했으나, 절개생검 결과 연골모세포성 골육종으로 확진된 사례 — 근단병소 감별진단에 비치성 악성 종양을 반드시 포함해야 함을 보여준다.
 

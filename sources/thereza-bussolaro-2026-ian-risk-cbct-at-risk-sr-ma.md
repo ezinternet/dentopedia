@@ -17,7 +17,6 @@ text_filename: thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA of 11 prospective/retrospective cohorts with CBCT: overall IAN injury risk 9.52%, rising to 14.76% in high-risk cases;
 
 cortical bone absence elevates risk to 15.65%, lingual canal position ranges 1.34–27.47% by subclassification.
@@ -25,7 +24,6 @@ cortical bone absence elevates risk to 15.65%, lingual canal position ranges 1.3
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT 보유 11개 코호트 SR+MA — 전체 하치조신경(IAN) 손상률 9.52%;
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review of 12 human studies on post-extraction ridge change without preservation: weighted-mean horizontal width loss 3.87 mm, mid-buccal height loss 1.67 mm, crestal radiographic height loss 1.53 mm, and socket fill in height 2.57 mm — width loss exceeds height loss during natural socket healing.
 
+Systematic review of 12 human studies on post-extraction ridge change without preservation: weighted-mean horizontal width
+
+loss 3.87 mm, mid-buccal height loss 1.67 mm, crestal radiographic height loss 1.53 mm, and
+
+socket fill in height 2.57 mm — width loss exceeds height loss during natural socket healing.
+
+## 세줄요약
+
+체계적 고찰 (SR) of 12 human studies on post-extraction ridge change without preservation: weighted-mean horizontal width
+
+loss 3.87 mm, mid-buccal height loss 1.67 mm, crestal radiographic height loss 1.53 mm, and
+
+socket fill in height 2.57 mm — width loss exceeds height loss during natural socket healing.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2009;36(12):1048–1058

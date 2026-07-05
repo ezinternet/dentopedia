@@ -35,8 +35,6 @@ Narrative CE 평론(Anesth Prog 2012): 치과 국소마취 Na⁺채널 기전, �
 
 염증 조직(저 pH)에서 이온형 증가로 마취 효과 감소; IANB에서 에피네프린 >1:200,000은 추가 이점 없음; 약제 혼합 시 독성 가산적 — 각 최대용량의 절반 적용.
 
-
-
 ## Summary
 
 This is the foundational pharmacology reference for the wiki's local-anesthesia cluster — a Becker & Reed continuing-education review covering mechanism, kinetics, maximum doses, and toxicity for the agents used in dentistry. It is the substrate that makes the clinical-outcome LA pages interpretable.

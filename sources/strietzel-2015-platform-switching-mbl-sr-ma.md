@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA(22편: 15 RCT + 7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭이 변연골 소실 유의하게 감소; 이질성으로 신중한 해석 필요
 
+SR+MA(22편: 15 RCT + 7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001)
+
+플랫폼 스위칭이 변연골 소실 유의하게 감소
+
+이질성으로 신중한 해석 필요
+
+## 세줄요약
+
+SR+MA(22편: 15 RCT + 7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001)
+
+플랫폼 스위칭이 변연골 소실 유의하게 감소
+
+이질성으로 신중한 해석 필요
 
 ## 1. Document Information
 - **Title**: Impact of platform switching on marginal peri-implant bone-level changes. A systematic review and meta-analysis

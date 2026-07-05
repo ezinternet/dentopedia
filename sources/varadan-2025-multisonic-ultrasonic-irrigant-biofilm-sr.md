@@ -15,7 +15,6 @@ GentleWave® multisonic (negative-apical-pressure) activation is marketed as the
 
 ## Three-line Summary
 
-
 Systematic review (3 in-vitro studies, multispecies biofilm in extracted teeth) finding GentleWave multisonic activation achieved bacterial reduction similar to passive ultrasonic irrigation — multisonic did not consistently outperform ultrasonic.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review (3 in-vitro studies, multispecies biofilm in extracted teeth) 
 (incomplete)
 
 ## 세줄요약
-
 
 다균종 biofilm을 심은 발치치아 모델 3편(in vitro)을 모은 체계적 문헌고찰: GentleWave 멀티소닉 활성화는 초음파 활성화(PUI)와 세균 감소량이 비슷했고, 멀티소닉이 일관되게 더 우수하지는 않았다.
 

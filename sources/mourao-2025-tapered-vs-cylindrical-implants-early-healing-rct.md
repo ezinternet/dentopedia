@@ -18,7 +18,6 @@ Implant macrogeometry (tapered vs cylindrical) is routinely cited as a primary-s
 
 ## Three-line Summary
 
-
 EBD critical summary (Mourão & Dos Santos Pereira 2025) appraising a 2-arm RCT of tapered vs cylindrical implants over 6 weeks of early healing: tapered gave higher insertion torque (MIT) but cylindrical gave higher ISQ/IST at 6 weeks;
 
 surgical technique mattered more than macrogeometry, and unstandardized osteotomy confounds the design comparison.
@@ -26,7 +25,6 @@ surgical technique mattered more than macrogeometry, and unstandardized osteotom
 (incomplete)
 
 ## 세줄요약
-
 
 Evidence-Based Dentistry 비평 요약 (Mourão & Dos Santos Pereira 2025) — 테이퍼드 vs 실린더형 임플란트의 6주 초기 치유기 안정성을 비교한 2군 RCT를 평가: 테이퍼드는 더 높은 삽입 토크(MIT), 실린더형은 6주째 더 높은 ISQ/IST를 보였으나, 임플란트 거대형태(macrogeometry)보다 수술 술식이 1차 안정성에 더 큰 영향을 미쳤고, 비표준화된 골삭제(osteotomy)가 설계 비교를 교란함.
 

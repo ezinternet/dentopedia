@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-성인 영구치 우식 노출 치수에 MTA full pulpotomy 적용: 52개 치아, 2년 성공률 ~80% (임상적 성공 기준).
 
+성인 영구치 우식 노출 치수에
+
+MTA full pulpotomy 적용: 52개
+
+치아, 2년 성공률 ~80% (임상적 성공 기준).
+
+## 세줄요약
+
+성인 영구치 우식 노출 치수에
+
+MTA full pulpotomy 적용: 52개
+
+치아, 2년 성공률 ~80% (임상적 성공 기준).
 
 ## 1. Document Information
 - **Title**: Assessment of Mineral Trioxide Aggregate pulpotomy in mature permanent teeth with carious exposures

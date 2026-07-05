@@ -18,7 +18,6 @@ This is the "CR is a needed, defensible reference position" counter-review respo
 
 ## Three-line Summary
 
-
 Narrative review (abstract-only) arguing that centric relation is a reproducible, clinically validated reference position for diagnosis and full-arch reconstruction with a long track record;
 
 the real problem is lack of consensus on definition and recording method, not the concept, and any alternative position should be given a different name.
@@ -26,7 +25,6 @@ the real problem is lack of consensus on definition and recording method, not th
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 리뷰(초록만): 중심위(Centric Relation, CR)는 재현 가능하고 임상적으로 검증된 진단·전악 재건용 기준위(reference position)이며, 진짜 문제는 개념 자체가 아니라 정의·기록법에 대한 합의 부재이고, 다른 위치를 쓸 거면 다른 이름을 붙여야 한다고 주장한다.
 

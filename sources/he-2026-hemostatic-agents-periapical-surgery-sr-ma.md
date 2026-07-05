@@ -18,7 +18,6 @@ text_filename: he-2026-hemostatic-agents-periapical-surgery-sr-ma.txt
 
 ## Three-line Summary
 
-
 SR+MA of 10 studies (388 teeth) on hemostatic agents in periapical surgery: average efficacy 63 ± 6.6%, no significant differences among agents, but network meta-analysis shows epinephrine and aluminum chloride superior to collagen (P < .05);
 
 smoking was the only clinical variable trending toward significance.
@@ -26,7 +25,6 @@ smoking was the only clinical variable trending toward significance.
 (incomplete)
 
 ## 세줄요약
-
 
 10편 SR+MA (388개 치아): 근관외과 지혈제 평균 효능 63 ± 6.6%로 양호하나 제제 간 유의차 없음;
 

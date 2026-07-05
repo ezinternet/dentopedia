@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-OLP 악성전환을 보고한 고품질 연구만 선별 분석: 진정한 OLP-to-SCC 전환율 추정.
+
+OLP 악성전환을 보고한
+
+고품질 연구만 선별
+
+분석: 진정한 OLP-to-SCC 전환율 추정.
+
+## 세줄요약
+
+OLP 악성전환을 보고한
+
+고품질 연구만 선별
+
+분석: 진정한 OLP-to-SCC 전환율 추정.
 
 ## 1. Document Information
 - **Title**: An appraisal of highest quality studies reporting malignant transformation of oral lichen planus based on a systematic review

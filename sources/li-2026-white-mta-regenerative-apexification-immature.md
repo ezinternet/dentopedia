@@ -19,7 +19,6 @@ text_filename: li-2026-white-mta-regenerative-apexification-immature.txt
 
 ## Three-line Summary
 
-
 Systematic review and meta-analysis (PROSPERO CRD420261337704) of 15 studies (4 RCTs, 2 cohorts, 9 case reports/series) on White MTA (WMTA) and alternative bioceramics in regenerative endodontic procedures (REP) and apexification for immature permanent teeth, finding pooled radiographic success of 0.99 (95% CI 0.96-1.00, very low certainty), a non-significant trend favouring platelet concentrates (PC) over blood clot (BC) scaffolds (OR 3.56, 95% CI 0.87-14.52), and significantly higher tooth discolouration with WMTA versus alternative bioceramics (58.33% vs 7.69%, P=.01).
 
 (incomplete)
@@ -27,7 +26,6 @@ Systematic review and meta-analysis (PROSPERO CRD420261337704) of 15 studies (4 
 (incomplete)
 
 ## 세줄요약
-
 
 미성숙 영구치의 재생근관치료(REP)·apexification에서 White MTA(WMTA) 및 대체 bioceramic을 다룬 15개 연구(RCT 4, 코호트 2, 증례 9) 체계적 고찰·메타분석으로, 방사선학적 성공률 pooled 0.99(95% CI 0.96-1.00, 근거수준 매우낮음), PC가 BC보다 근단 성숙을 다소 우세하게 하는 경향(OR 3.56, 유의하지 않음), WMTA가 대체 bioceramic 대비 변색 위험이 유의하게 높음(58.33% vs 7.69%, P=.01)을 보고.
 

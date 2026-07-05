@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Pilot CBCT study (13 patients, RBH <8 mm) of transcrestal sinus elevation by osseodensification with graft, showing significant immediate bone-height gain of 6.65 mm, modest 0.90 mm graft contraction at 12 months, and 100% implant success.
 
 (incomplete)
@@ -23,7 +22,6 @@ Pilot CBCT study (13 patients, RBH <8 mm) of transcrestal sinus elevation by oss
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT pilot 연구(환자 13명, 잔존골고 <8 mm) — osseodensification+이식재 경치조골 상악동거상으로 즉시 6.65 mm 골고 증가, 12개월째 이식재 수축 0.90 mm, 임플란트 성공률 100%.
 

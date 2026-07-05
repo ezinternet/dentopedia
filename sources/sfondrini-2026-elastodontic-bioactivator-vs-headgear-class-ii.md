@@ -19,7 +19,6 @@ Head-to-head comparison of an elastodontic appliance against a conventional Clas
 
 ## Three-line Summary
 
-
 Retrospective cohort (n=40, 20 ED vs 20 high-pull headgear;
 
 ages 7–11;
@@ -27,7 +26,6 @@ ages 7–11;
 18-month follow-up) finding both appliances produced a comparable significant intragroup SNB increase with stable vertical (mandibular plane), sagittal (SNA/ANB), dentoalveolar, and soft-tissue parameters — no clinically meaningful between-group differences.
 
 ## 세줄요약
-
 
 후향적 코호트 (n=40, 탄성교정장치 ED 20명 vs 고위견인 헤드기어 HPHD 20명;
 

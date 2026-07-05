@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Korean-language KDA Journal introduction of a multicenter, randomized, double-blind, crossover phase IV RCT (NCT02696369, n=65 enrolled / 51 analyzed) comparing 2% lidocaine + 1:80,000 vs 1:200,000 epinephrine for surgical extraction of bilateral impacted mandibular third molars — analgesic efficacy equivalent; hemodynamic safety (SBP, HR) significantly better with 1:200,000 epinephrine.
+
+Korean-language KDA Journal introduction of a multicenter, randomized, double-blind, crossover phase IV RCT (NCT02696369, n=65 enrolled
+
+/ 51 analyzed) comparing 2% lidocaine + 1:80,000 vs 1:200,000 epinephrine for surgical extraction of bilateral
+
+impacted mandibular third molars — analgesic efficacy equivalent; hemodynamic safety (SBP, HR) significantly better with 1:200,000 epinephrine.
+
+## 세줄요약
+
+하악 매복 3대구치 발거술을 위한 2% 리도카인 + 1:80,000 vs 1:200,000 에피네프린 다기관 무작위 대조 교차 연구 (KDA Journal, NCT02696369)
+
+진통 효과는 동등하나 혈역동학 안전성(수축기혈압, 심박수)은 1:200,000 에피네프린이 유의하게 우수 (p≤0.01)
+
+심혈관 불안정 환자 발거에서 에피네프린 1:200,000 처방이 동등한 진통과 함께 저용량 카테콜아민 노출.
 
 ## 1. Document Information
 

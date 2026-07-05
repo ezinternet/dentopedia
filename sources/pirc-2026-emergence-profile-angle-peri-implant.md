@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Zurich 2026) synthesizing biological and clinical evidence that concave, polished emergence profiles with adequately tall abutments are the key modifiable prosthetic factor for preventing and reversing peri-implant inflammation.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Zurich 2026) synthesizing biological and clinical evidence tha
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰(취리히 2026): 오목하고 연마된 출현 프로파일(emergence profile)과 충분히 높은 지대주가 치주위임플란트 염증 예방 및 해소의 핵심 수정 가능한 보철 요소임을 종합.
 

@@ -15,7 +15,6 @@ Extends [[wiki/implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] by
 
 ## Three-line Summary
 
-
 SR+MA of 8 studies (7 meta-analyzed;
 
 bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) — at 1 year, 6 studies/384 implants, MD 0.26 mm (95% CI −0.02 to 0.53, I²=73%), moderate GRADE certainty;
@@ -23,7 +22,6 @@ bone-level platform-switched implants): long abutments (≥2 mm) showed less mar
 no difference in probing pocket depth or bleeding on probing.
 
 ## 세줄요약
-
 
 8편 SR+MA(7편 메타분석;
 

@@ -19,7 +19,6 @@ The wiki holds ridge-split *case reports* ([[bone-regeneration/ayoub-2018-ridge-
 
 ## Three-line Summary
 
-
 SR+MA of 25 studies (24 observational + 1 RCT) on the alveolar ridge split (ARS) technique: pooled gained horizontal ridge width 3.348 mm (95%CI 2.533-4.163) and pooled implant survival 98.1% (95%CI 96.9-98.9), establishing ARS as a reliable horizontal augmentation method for narrow crests.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA of 25 studies (24 observational + 1 RCT) on the alveolar ridge split (ARS)
 (incomplete)
 
 ## 세줄요약
-
 
 치조제 분할술(ARS) 25편(관찰 24 + RCT 1) SR+MA: 수평 골폭 증가 3.348 mm(95%CI 2.533-4.163), 임플란트 생존율 98.1%(95%CI 96.9-98.9) — 좁은 치조정의 수평 골증대에 신뢰할 만한 술식임을 입증.
 

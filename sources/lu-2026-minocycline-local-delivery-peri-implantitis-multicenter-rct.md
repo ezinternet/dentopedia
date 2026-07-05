@@ -18,7 +18,6 @@ text_filename: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-r
 
 ## Three-line Summary
 
-
 Multicenter single-blind RCT (n=46) showing adjunctive subgingival 2% minocycline ointment reduces probing depth and BOP at 12 weeks versus debridement alone in peri-implantitis, with transient microbiologic benefits at 8 weeks but insufficient follow-up for radiographic conclusions.
 
 (incomplete)
@@ -26,7 +25,6 @@ Multicenter single-blind RCT (n=46) showing adjunctive subgingival 2% minocyclin
 (incomplete)
 
 ## 세줄요약
-
 
 다기관 단일맹검 RCT(n=46): 임플란트 주위염 비외과적 치료 시 2% 미노사이클린 연고 보조요법이 12주 시점에 탐침깊이(Probing Depth, PD)와 탐침출혈(Bleeding on Probing, BOP)을 유의하게 개선하나, 방사선학적 골안정성 결론을 도출하기엔 추적 기간 부족.
 

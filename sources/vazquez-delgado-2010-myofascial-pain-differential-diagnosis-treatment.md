@@ -18,7 +18,6 @@ TMD 물리치료 분사신장(spray-and-stretch) 논문 감시의 (A) 영역 —
 
 ## Three-line Summary
 
-
 Narrative review (Part 2, treatment) from an orofacial-pain unit concluding that, among the many trigger-point treatments, the spray-and-stretch technique and direct trigger-point injection are the most effective options — and that chronic cases need psychosocial intervention and carry a poorer prognosis, underscoring early diagnosis/treatment.
 
 (incomplete)
@@ -26,7 +25,6 @@ Narrative review (Part 2, treatment) from an orofacial-pain unit concluding that
 (incomplete)
 
 ## 세줄요약
-
 
 구강안면통증 유닛의 근막통 치료 리뷰(Part 2) — 다수의 트리거포인트 치료법 중 분사신장(spray-and-stretch)과 직접 주사가 가장 효과적이며, 만성 사례는 정신사회적 개입이 필요하고 예후가 나빠 조기 진단·치료가 중요하다고 결론.
 

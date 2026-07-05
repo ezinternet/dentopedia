@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-EFP S3 level clinical practice guideline for stage I–III periodontitis treatment using stepwise therapy; based on 15 commissioned SRs and GRADE methodology.
 
+EFP S3 level clinical practice guideline for
+
+stage I–III periodontitis treatment using stepwise therapy;
+
+based on 15 commissioned SRs and GRADE methodology.
+
+## 세줄요약
+
+EFP S3 level clinical practice guideline for
+
+stage I–III periodontitis treatment using stepwise therapy;
+
+based on 15 commissioned SRs and GRADE methodology.
 
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology 2020; 47(Suppl. 22): 4–60

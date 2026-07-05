@@ -15,7 +15,6 @@ Provides the missing quantitative layer under the OVD-determination narratives: 
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis (13 cross-sectional studies, 3275 participants, 11 anthropometric methods;
 
 J Prosthet Dent 2026) finding anthropometric (facial/finger) measurements correlate highly overall with the standard OVD recording method — thumb length strongest overall (r ≈ 0.63 common / 0.57 random), distal outer-canthus–rima-oris strongest in men (≈0.57–0.58), little-finger length strongest in women (≈0.46) — but with very high heterogeneity (I² up to 99%) and high risk of bias in patient selection/index test.
@@ -23,7 +22,6 @@ J Prosthet Dent 2026) finding anthropometric (facial/finger) measurements correl
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 + 메타분석(13편 단면연구, 3275명, 11개 인체계측법;
 

@@ -15,7 +15,6 @@ Part of a focused collection on suture techniques & primary wound closure (this 
 
 ## Three-line Summary
 
-
 Three-month parallel-design RCT (60 enrolled, 52 completed;
 
 4 groups of n=13): in free gingival graft surgery, graft technique mattered more than suture technique — gingival unit transfer (GUT) showed less graft shrinkage than conventional graft (CG) regardless of suture, while the modified sling suture (MSS) gave no advantage and GUT+conventional-suture had the largest keratinized-tissue-width gain.
@@ -23,7 +22,6 @@ Three-month parallel-design RCT (60 enrolled, 52 completed;
 (incomplete)
 
 ## 세줄요약
-
 
 3개월 평행설계 RCT (60명 등록, 52명 완료;
 

@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA (Cosyn 그룹): 단일 즉시식립 시 mucoperiosteal flap vs flapless — 협측 hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
 
+SR+MA (Cosyn 그룹): 단일 즉시식립 시
+
+mucoperiosteal flap vs flapless — 협측
+
+hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
+
+## 세줄요약
+
+SR+MA (Cosyn 그룹): 단일 즉시식립 시
+
+mucoperiosteal flap vs flapless — 협측
+
+hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
 
 ## 1. Document Information
 - **Title**: Immediate implant placement with flap or flapless surgery: A systematic review and meta-analysis

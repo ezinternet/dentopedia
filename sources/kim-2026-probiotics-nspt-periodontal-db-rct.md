@@ -19,7 +19,6 @@ text_filename: kim-2026-probiotics-nspt-periodontal-db-rct.txt
 
 ## Three-line Summary
 
-
 Double-blind RCT (n=80;
 
 61 completers);
@@ -27,7 +26,6 @@ Double-blind RCT (n=80;
 Lactobacillus PB01 + Enterococcus EB10 lozenges as adjunct to NSPT over 12 weeks reduced BoP% and PPD ≥5 mm sites significantly vs. placebo, with concurrent reduction in red/orange complex pathogens in subgingival and salivary microbiota.
 
 ## 세줄요약
-
 
 이중맹검 무작위대조시험(n=80;
 

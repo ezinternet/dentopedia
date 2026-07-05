@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Multicenter prospective case–control study (n=58 patients, 71 implants, 1-year loading) found tissue-level short implants exhibited significantly less physiological bone remodeling than subcrestal bone-level short implants in posterior maxilla (PBR T0–T2: 0.30 vs.
 
 0.55 mm, p=0.003), with 100% survival in both groups.
@@ -23,7 +22,6 @@ Multicenter prospective case–control study (n=58 patients, 71 implants, 1-year
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 다기관 케이스-대조 연구(환자 58명, 임플란트 71개, 1년 추적)에서 상악 구치부 단축 임플란트의 변연골 개조량이 조직-수준 임플란트(0.30 mm)에서 골-수준 임플란트(0.55 mm)보다 유의하게 낮았으며(p=0.003), 두 군 모두 100% 생존율 달성.
 

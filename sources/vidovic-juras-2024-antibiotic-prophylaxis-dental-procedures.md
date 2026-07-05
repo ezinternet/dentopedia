@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Narrative review (2024): antibiotic prophylaxis indications significantly narrowed due to antibiotic resistance concerns; currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck; prosthetic joints no longer routine.
 
+Narrative review (2024): antibiotic prophylaxis indications significantly narrowed due to antibiotic resistance concerns
+
+currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck
+
+prosthetic joints no longer routine.
+
+## 세줄요약
+
+Narrative review (2024): antibiotic prophylaxis indications 유의미한ly narrowed due to antibiotic resistance concerns
+
+currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck
+
+prosthetic joints no longer routine.
 
 ## 1. Document Information
 - Journal: Dentistry Journal 12(11):364 (November 2024)

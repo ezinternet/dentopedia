@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 7 RCTs (205 patients, 279 implants) finding that adding collagen to bone-grafting material in the immediate-implant jumping gap significantly improves buccal bone thickness (MD −0.43 mm, 95% CI −0.72 to −0.41) and esthetic score (MD −1.23, 95% CI −1.90 to −0.55), with no difference in implant failure or soft-tissue thickness.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA of 7 RCTs (205 patients, 279 implants) finding that adding collagen to bon
 (incomplete)
 
 ## 세줄요약
-
 
 7개 RCT(205명·279 임플란트) SR+MA — 즉시식립 jumping gap에 골이식재 + 콜라겐을 병용하면 협측 골두께(MD −0.43 mm)와 심미 점수(MD −1.23)가 유의하게 좋아지고, 임플란트 실패율·연조직 두께에는 차이가 없었다.
 

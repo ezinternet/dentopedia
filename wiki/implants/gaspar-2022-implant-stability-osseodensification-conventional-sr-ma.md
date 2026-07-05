@@ -20,7 +20,6 @@ superseded_scope: partial
 
 ## Three-line Summary
 
-
 SR+MA (3 human NRSIs, no RCTs found at search to July 2020) comparing osseodensification (OD) drilling vs conventional drilling on implant stability (ISQ) in humans; first human-focused OD ISQ synthesis.
 
 OD raised baseline ISQ by a pooled MD of 13.1 points (95% CI 10.0–16.1, P<.0001, I²=0%) vs conventional drilling; the effect persisted at 4–6 months but was smaller (MD 5.99, 95% CI 1.3–10.6, P<.0001) and more heterogeneous (I²=73%).

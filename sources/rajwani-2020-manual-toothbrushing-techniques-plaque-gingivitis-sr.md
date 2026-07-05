@@ -15,7 +15,6 @@ This is the evidence backbone for the **toothpick method (Watanabe method) of ma
 
 ## Three-line Summary
 
-
 Systematic review (13 studies: 5 RCTs, 7 experimental non-RCT, 1 in vitro) comparing 10 manual toothbrushing techniques — no single technique is proven superior for plaque/gingivitis due to excessive methodological heterogeneity;
 
 the toothpick method beat Bass in the one study that tested it (Morita 1998).
@@ -23,7 +22,6 @@ the toothpick method beat Bass in the one study that tested it (Morita 1998).
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (13편: RCT 5·비무작위 실험 7·in vitro 1)로 수동 칫솔질 기법 10종을 비교한 연구.
 

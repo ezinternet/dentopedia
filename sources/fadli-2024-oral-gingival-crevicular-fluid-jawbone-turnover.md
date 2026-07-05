@@ -27,7 +27,6 @@ Clinical implication: oral fluids offer accessible multi-biomarker diagnostics f
 
 ## 세줄요약
 
-
 턱뼈 골대사 질환 3종에 걸친 구강액 골대사 표지자를 정리한 스코핑 리뷰 (PRISMA-ScR, 관찰연구 37편).
 
 치은열구액(GCF)에서는 IL-1β·sclerostin·OPG·IL-34가 주요 표지자(주로 치주염·골다공증)이고, 타액에서는 OC·IL-1β·TNF-α·IL-6·OPG·MMP-9가 치주염·약물관련 턱뼈괴사(MRONJ)·골다공증에 걸쳐 나타난다.

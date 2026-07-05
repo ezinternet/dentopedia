@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR of 39 clinical studies on digital complete denture fabrication (2000–2022) found that border-molded impression and trial denture placement remain essential for optimal retention and fit, regardless of milling or 3D-printing workflow.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR of 39 clinical studies on digital complete denture fabrication (2000–2022) 
 (incomplete)
 
 ## 세줄요약
-
 
 39편 SR: 디지털 총의치 제작 시 테두리형성 인상 채득 및 시적의치 시행이 유지력과 적합도를 위해 여전히 필수적이며, 밀링과 3D 프린팅 모두 유사한 환자만족도를 보임.
 

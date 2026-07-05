@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Retrospective longitudinal cohort (103 patients with maxillary molar sinus floor elevation: crestal vs lateral approach, followed 3 years with serial orthopantomographs) showed lateral approach produced 12.00 mm grafted bone height vs 8.07 mm for crestal, but post-graft resorption was nearly identical (~0.95–0.98 mm total over 3 years, mostly in year 1) — both approaches give predictable long-term bone maintenance, with crestal vs lateral selected by available initial bone, not by long-term stability concerns.
 
+Retrospective longitudinal cohort (103 patients with maxillary molar sinus floor elevation: crestal vs lateral approach, followed 3 years with serial orthopantomographs) showed lateral approach
+
+produced 12.00 mm grafted bone height vs 8.07 mm for crestal, but post-graft resorption was nearly identical (~0.95–0.98 mm total over 3 years, mostly
+
+in year 1) — both approaches give predictable long-term bone maintenance, with crestal vs lateral selected by available initial bone, not by long-term stability concerns.
+
+## 세줄요약
+
+Retrospective longitudinal cohort (103 patients with maxillary molar sinus floor elevation: crestal vs lateral approach, followed 3 years with serial orthopantomographs) showed lateral approach
+
+produced 12.00 mm grafted 골 (Bone) height vs 8.07 mm for crestal, but post-graft resorption was nearly identical (~0.95–0.98 mm total over 3 years, mostly
+
+in year 1) — both approaches give predictable long-term 골 (Bone) maintenance, with crestal vs lateral selected by available initial 골 (Bone), not by long-term stability concerns.
 
 ## 1. Document Information
 - **Journal**: Medicina 2023;59(6):1132

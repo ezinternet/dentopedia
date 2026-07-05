@@ -15,7 +15,6 @@ Part of the flap-design / tension-free primary closure collection. This case ser
 
 ## Three-line Summary
 
-
 Case series (17 patients, anterior-maxilla lateral ridge augmentation) showing a 940-nm diode-laser periosteal releasing incision achieved tension-free primary closure in all cases with minimal bleeding, mild pain (VAS 20.6 ± 12.1 mm at day 1), no hematoma/intense swelling, and 100% implant success at 6 months post-loading.
 
 (incomplete)
@@ -23,7 +22,6 @@ Case series (17 patients, anterior-maxilla lateral ridge augmentation) showing a
 (incomplete)
 
 ## 세줄요약
-
 
 전상악 측방 골증대 17명 대상 증례군.
 

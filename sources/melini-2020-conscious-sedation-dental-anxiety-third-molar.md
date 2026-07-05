@@ -19,7 +19,6 @@ Adult counterpart to the pediatric/behavioral-management literature already in t
 
 ## Three-line Summary
 
-
 Systematic review (BMC Oral Health, 17 RCTs, n=1788) of conscious sedation for dental anxiety during third molar extraction: narrative synthesis only (heterogeneity precluded meta-analysis);
 
 6 studies showed some anxiety improvement, but findings overall inconclusive and conflicting due to non-standardized outcome measures.
@@ -27,7 +26,6 @@ Systematic review (BMC Oral Health, 17 RCTs, n=1788) of conscious sedation for d
 (incomplete)
 
 ## 세줄요약
-
 
 사랑니 발치 시 치과불안 관리를 위한 의식하 진정(conscious sedation) 체계적 고찰 (BMC Oral Health, RCT 17편·n=1788).
 

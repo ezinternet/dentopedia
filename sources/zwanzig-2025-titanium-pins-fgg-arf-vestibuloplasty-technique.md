@@ -15,7 +15,6 @@ Existing KM augmentation literature ([[wiki/overviews/keratinized-mucosa-peri-im
 
 ## Three-line Summary
 
-
 Technique report (n = 3) describing the use of titanium pins — traditionally used in GBR — to fixate free gingival grafts (FGGs) and apically repositioned flaps (ARFs) during vestibuloplasty, yielding successful KM augmentation with minimal shrinkage in cases where conventional suturing was impractical.
 
 (incomplete)
@@ -23,7 +22,6 @@ Technique report (n = 3) describing the use of titanium pins — traditionally u
 (incomplete)
 
 ## 세줄요약
-
 
 증례 보고(n=3): 수직골재생(GBR)에 사용되는 티타늄 핀을 전정성형술 중 유리치은이식편(FGG) 및 근단이동판막(ARF) 고정에 활용하여 기존 봉합이 어려운 환경에서 성공적인 각화점막 증대를 달성한 술식 보고.
 

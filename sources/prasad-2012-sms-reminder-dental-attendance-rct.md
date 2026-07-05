@@ -19,7 +19,6 @@ The [[overviews/dental-appointment-no-show-overview]] flagged reminder-intervent
 
 ## Three-line Summary
 
-
 Controlled trial in 4 outpatient dental departments (India, n=206) — SMS appointment reminders raised on-time attendance to 79.2% vs 35.5% with no reminder.
 
 (incomplete)
@@ -27,7 +26,6 @@ Controlled trial in 4 outpatient dental departments (India, n=206) — SMS appoi
 (incomplete)
 
 ## 세줄요약
-
 
 치과 외래 4개과 대조시험 (인도, n=206): SMS 예약 알림 문자를 받은 군의 정시 내원율 79.2%로, 무알림 대조군 35.5%보다 유의하게 높았다.
 

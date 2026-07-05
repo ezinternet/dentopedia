@@ -19,7 +19,6 @@ Quantitative meta-analytic backing for the MMP-inhibition strategy that underpin
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis (740→43 studies;
 
 MA on 21 CHX articles) showing chlorhexidine (an MMP inhibitor) has no effect on immediate resin-dentin bond strength but significantly preserves aged bond strength at 6/12/24 months, with the advantage growing over time.
@@ -27,7 +26,6 @@ MA on 21 CHX articles) showing chlorhexidine (an MMP inhibitor) has no effect on
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 + 메타분석 (740→43편;
 

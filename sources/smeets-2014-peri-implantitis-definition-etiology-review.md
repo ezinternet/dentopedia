@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (Head & Face Medicine 2014) covering definition, pathogenesis, epidemiology (prevalence up to 56%), risk factors (smoking, periodontitis history, systemic disease), and treatment hierarchy (CIST protocol) for peri-implantitis.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (Head & Face Medicine 2014) covering definition, pathogenesis, 
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 리뷰 (2014): 임플란트 주위염 정의·병인·역학(유병률 최대 56%)·위험인자(흡연·치주염 병력·전신질환)·CIST 치료 프로토콜 체계 정리.
 

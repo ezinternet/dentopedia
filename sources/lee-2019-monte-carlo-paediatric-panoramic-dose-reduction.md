@@ -15,7 +15,6 @@ radiology 카테고리 파노라마 선량 저감의 인자별 정량근거. [[r
 
 ## Three-line Summary
 
-
 Monte Carlo vs TLD for paediatric panoramic dose (MC 3.474 vs TLD 3.850 µSv);
 
 beam height is the dominant dose-reduction lever.
@@ -23,7 +22,6 @@ beam height is the dominant dose-reduction lever.
 (incomplete)
 
 ## 세줄요약
-
 
 소아 파노라마 선량 MC vs TLD(MC 3.474 vs TLD 3.850 µSv).
 

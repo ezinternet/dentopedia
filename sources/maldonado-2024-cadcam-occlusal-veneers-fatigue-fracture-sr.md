@@ -15,7 +15,6 @@ Wiki coverage of occlusal veneers lacked a dedicated in-vitro mechanical perform
 
 ## Three-line Summary
 
-
 Systematic review (6 in-vitro studies) finding comparable fracture resistance between CAD/CAM composite resin and lithium disilicate occlusal veneers, with two studies showing higher fatigue resistance for composite resin.
 
 (incomplete)
@@ -23,7 +22,6 @@ Systematic review (6 in-vitro studies) finding comparable fracture resistance be
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (in vitro 연구 6편): CAD/CAM 교합면 비니어에서 레진 복합체와 리튬 디실리케이트 세라믹의 파절저항성(Fracture Resistance)은 동등하며, 피로저항성(Fatigue Resistance)은 2편의 연구에서 레진이 더 우수한 결과를 보임.
 

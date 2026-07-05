@@ -18,7 +18,6 @@ text_filename: ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-s
 
 ## Three-line Summary
 
-
 Qualitative SR (GRADE, no meta) of 12 studies (2 low-RoB RCTs, 10 moderate-RoB non-RCTs) on anterior tooth movement in adults: vertical movement (extrusion/intrusion) inconsistent between CA and FA, while FAs appear superior for rotation and torque control;
 
 limited evidence from few studies.
@@ -26,7 +25,6 @@ limited evidence from few studies.
 (incomplete)
 
 ## 세줄요약
-
 
 성인 전치부 이동 SR 12편(저RoB RCT 2 + 중등도RoB 비RCT 10, GRADE·메타분석 없음): 수직이동(정출/압하)은 CA·FA 간 비일관, 회전·토크 조절은 FA 우위로 보임.
 

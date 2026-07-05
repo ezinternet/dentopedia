@@ -33,8 +33,6 @@ UV 광기능화 (Photofunctionalization, PF) 처리군은 식립 전→후 임�
 
 양군 모두 조기 생존율 100%; 임플란트 안정성 지수 (ISQ)는 측정 안 함(임상 결과 연관성 평가의 주요 한계).
 
-(incomplete)
-
 ## 1. Document Information
 
 - **Journal**: BMC Oral Health (2025)

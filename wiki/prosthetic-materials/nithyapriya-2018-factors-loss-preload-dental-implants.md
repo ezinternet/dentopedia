@@ -37,8 +37,6 @@ Greatest abutment collar height was associated with significantly greater torque
 
 지대주 칼라 높이가 클수록 사이클 하중 후 토크 손실 유의하게 증가(과소평가된 설계 변수); 질평가 미시행으로 근거 등급화 불가.
 
-
-
 ## Summary
 
 Screw loosening is the most common implant complication, and its principal upstream cause is **loss of preload** — the decay of the axial clamping force that the tightened abutment screw exerts to hold the abutment against the implant. This review searches MEDLINE-PubMed over a 10-year window (84 articles screened, 36 analyzed) to assemble the full list of factors that drive preload loss. The central mechanism is the **settling effect (embedment relaxation)**: microroughness on the two mating surfaces collapses under initial torquing, so clamping force bleeds off and the screw loosens. The review's bottom line is a set of clinical levers that preserve preload — gold (vs Ti) screws, internal (vs external hex) connections, lubrication, a calibrated torque device, and a retorque 10 min after initial tightening. Note the paper frames itself as a "systematic review" and uses a PRISMA search flow, but performs **no risk-of-bias appraisal and no meta-analysis**, so it is best read as a factors catalogue (`narrative-review`).

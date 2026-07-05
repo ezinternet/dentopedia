@@ -17,7 +17,6 @@ category: [botulinum-toxin]
 
 ## Three-line Summary
 
-
 Prospective self-controlled study (n=14, 28 masseter muscles) using ultrasound elastography showed BoNT-A caused 28.9–31.5% thickness reduction at 1–3 months (partial recovery 47.4% at 6mo) and decreased elasticity (shear wave velocity) at 1–3 months that fully returned to baseline by 6 months;
 
 thickness and elasticity recovery were uncorrelated.
@@ -25,7 +24,6 @@ thickness and elasticity recovery were uncorrelated.
 Abstract-only.
 
 ## 세줄요약
-
 
 초음파 탄성영상을 이용한 전향 자기대조 연구(n=14, 28개 교근)에서 BoNT-A 후 교근 두께가 1–3개월에 28.9–31.5% 감소(6개월에 47.4% 부분 회복)하고, 전단파 속도로 측정한 탄성도는 1–3개월 감소 후 6개월에 기저선으로 완전 회복;
 

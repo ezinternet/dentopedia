@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Multicenter RCT (124 subjects, anterior/premolar single teeth) comparing immediate vs 12-week delayed implant placement;
 
 immediate placement required more bone augmentation (72% vs 43.9%), had more wound failures (26.1% vs 5.3%), deeper 1-year probing depths, and more inadequate pink-esthetic scores (42% vs 19%), leading to a recommendation against immediate placement where esthetics matter.
@@ -23,7 +22,6 @@ immediate placement required more bone augmentation (72% vs 43.9%), had more wou
 (incomplete)
 
 ## 세줄요약
-
 
 다기관 RCT(124명, 전치·소구치 단일치) — 즉시식립이 지연식립보다 골증대 필요(72% vs 43.9%)·창상실패(26.1% vs 5.3%)·1년 탐침깊이·부적절 심미점수(42% vs 19%)가 모두 많아, 심미가 중요한 경우 즉시식립을 권장하지 않는다는 결론.
 

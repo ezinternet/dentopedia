@@ -19,7 +19,6 @@ Ionosit(DMG) 감시 인제스트 — Ionosit를 **명시적으로** 측정한 �
 
 ## Three-line Summary
 
-
 In-vitro photoelastic + ISO 4049 study of 10 ion-releasing polymeric restoratives (RMGIC, compomer, giomer) showing material-dependent polymerization contraction stress relaxed (and sometimes reversed to expansion stress) by hygroscopic water sorption;
 
 Ionosit (compomer) had the highest water sorption (~3 wt%) and produced significant radial pressure after 56 days.
@@ -27,7 +26,6 @@ Ionosit (compomer) had the highest water sorption (~3 wt%) and produced signific
 (incomplete)
 
 ## 세줄요약
-
 
 이온유리 폴리머 수복재 10종(RMGIC·컴포머·지오머)을 광탄성 + ISO 4049로 평가한 in-vitro 연구 — 중합수축응력이 수분흡수(hygroscopic expansion)로 완화·역전됨이 재료별로 다르며, Ionosit(컴포머)이 전 시험재 중 최고 수분흡수(~3 wt%)·56일 후 유의한 radial pressure를 보임.
 

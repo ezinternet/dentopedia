@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients reporting Kan-class SRP distribution.
 
+Cross-sectional CBCT study of 420
+
+maxillary anterior teeth in 70
+
+Brazilian patients reporting Kan-class SRP distribution.
+
+## 세줄요약
+
+Cross-sectional CBCT study of 420
+
+maxillary anterior teeth in 70
+
+Brazilian patients reporting Kan-class SRP distribution.
 
 ## 1. Document Information
 - **Title:** Tomographic sagittal root position in relation to maxillary anterior bone housing in a Brazilian population

@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자, 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600mg vs ibuprofen 600mg + APAP 1000mg — 병용군이 단독 대비 통증 감소·escape medication 사용 감소 trend 보임.
 
+RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자, 치수괴사+근첨방사선투과+중-중증
+
+통증): 술후 ibuprofen 600mg vs ibuprofen 600mg + APAP 1000mg
+
+— 병용군이 단독 대비 통증 감소·escape medication 사용 감소 trend 보임.
+
+## 세줄요약
+
+RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자, 치수괴사+근첨방사선투과+중-중증
+
+통증): 술후 ibuprofen 600mg vs ibuprofen 600mg + APAP 1000mg
+
+— 병용군이 단독 대비 통증 감소·escape medication 사용 감소 trend 보임.
 
 ## 1. Document Information
 - Authors: Wells LK, Drum M, Nusstein J, Reader A, Beck M

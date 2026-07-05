@@ -15,8 +15,20 @@ source_collection: external
 **Subtype별 술식 선택 결정 트리**의 명시적 anchor. 3 case로 (1) Pseudocyst, (2) MRC <20mm, (3) MRC >20mm 각각에 spontaneous drainage·aspiration·enucleation 차등 적용 — 결정 트리를 case로 시각화. Korean 술자 그룹 (서울대치병원·SCS 2024). [[sinus-lift/pseudocyst/fu-2025-antral-pseudocyst-management-lsfe]] (3-arm), [[sinus-lift/pseudocyst/jadach-2024-croco-eye-mrc-sinus-lift-cohort]] (큰 MRC enucleation)와 연결.
 
 ## Three-line Summary
-Case series (서울대 치병원, J Craniofac Surg 2024): sinus pathology 3 type을 type 1 (PsC), type 2 (MRC <20mm), type 3 (MRC >20mm)로 분류하고 각각 spontaneous drainage·aspiration·enucleation을 시행. **Subtype별 결정 트리** 임상 예시.
 
+Case series (서울대 치병원, J Craniofac Surg 2024): sinus pathology 3
+
+type을 type 1 (PsC), type 2 (MRC <20mm), type 3 (MRC
+
+>20mm)로 분류하고 각각 spontaneous drainage·aspiration·enucleation을 시행. **Subtype별 결정 트리** 임상 예시.
+
+## 세줄요약
+
+Case series (서울대 치병원, J Craniofac Surg 2024): sinus pathology 3
+
+type을 type 1 (PsC), type 2 (MRC <20mm), type 3 (MRC
+
+>20mm)로 분류하고 각각 spontaneous drainage·aspiration·enucleation을 시행. **Subtype별 결정 트리** 임상 예시.
 
 ## 1. Document Information
 서울대 치과병원 OMFS 그룹 (이원욱·한정준·권익재). J Craniofac Surg, IF 1.0 정도. 명확한 의사결정 트리 framework이 본 case series의 가치.

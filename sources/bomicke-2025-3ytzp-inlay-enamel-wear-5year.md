@@ -25,8 +25,6 @@ Polished 3Y-TZP causes greater enamel wear than natural enamel antagonists, but 
 
 연마된 3Y-TZP는 천연 법랑질보다 대합 법랑질 마모를 더 야기하나 5년 기준으로 임상적으로 허용 가능 — 소표본(n=6)으로 통계 검정력·일반화 제한.
 
-
-
 ## 1. Document Information
 - **Title**: Enamel wear of teeth opposing polished 3Y-TZP resin-bonded fixed partial dentures over 5 years
 - **Authors**: Bömicke W et al.

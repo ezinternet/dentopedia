@@ -18,7 +18,6 @@ text_filename: stein-2007-sensory-innervation-mandibular-teeth-nerve.txt
 
 ## Three-line Summary
 
-
 Narrative review: the nerve to the mylohyoid — traditionally classified as purely motor — carries accessory sensory innervation to mandibular teeth;
 
 because of variable branching location and the barrier formed by the pterygomandibular fascia/sphenomandibular ligament, it may escape anesthesia during a standard inferior alveolar nerve block, contributing to IANB's high failure rate.
@@ -26,7 +25,6 @@ because of variable branching location and the barrier formed by the pterygomand
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰: 전통적으로 순수 운동신경으로 분류된 이설골설근신경(nerve to the mylohyoid)이 실제로는 하악치아에 부가 감각신경을 공급하며, 분지 위치의 변이성과 익돌하악근막(pterygomandibular fascia)·접형하악인대(sphenomandibular ligament)가 만드는 장벽 때문에 표준 IANB로도 마취되지 않을 수 있어 IANB의 높은 실패율에 기여한다.
 

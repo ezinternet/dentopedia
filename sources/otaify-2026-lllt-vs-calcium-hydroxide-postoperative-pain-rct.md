@@ -19,7 +19,6 @@ Our intracanal-medicament pages — [[endodontics/irrigation/rossi-fedele-2023-i
 
 ## Three-line Summary
 
-
 Parallel RCT (n=46, single-canalled symptomatic apical periodontitis) found low-level laser therapy and Calcium Hydroxide intracanal medication gave statistically comparable postoperative pain, percussion pain, and reduction of periapical IL-8 and Substance P (all intergroup p>0.05), supporting LLLT as a single-visit alternative for acute symptom control — but CH's antimicrobial role was not tested.
 
 (incomplete)
@@ -27,7 +26,6 @@ Parallel RCT (n=46, single-canalled symptomatic apical periodontitis) found low-
 (incomplete)
 
 ## 세줄요약
-
 
 단일근관 증상성 치근단치주염 RCT (n=46)에서 저출력레이저치료 (Low-Level Laser Therapy, LLLT)와 수산화칼슘 (Calcium Hydroxide, CH) 근관내 첩약은 수술후 통증·타진통·치근단 IL-8·물질P 감소가 통계적으로 동등(군간 모두 p>0.05)했고, LLLT가 단일내원 대체 옵션이 될 수 있으나 CH의 항균 역할은 평가하지 않았다.
 

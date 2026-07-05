@@ -15,7 +15,6 @@ Adds a large-sample Israeli/Middle-Eastern data point to the C-shaped-canal prev
 
 ## Three-line Summary
 
-
 CBCT cross-sectional study (1020 Israeli patients;
 
 1465 second + 1229 first mandibular molars): C-shaped canal prevalence 4.6% in second and 0.16% in first mandibular molars, with 55% unilateral occurrence and configuration changing along the root in 63% of cases.
@@ -23,7 +22,6 @@ CBCT cross-sectional study (1020 Israeli patients;
 (incomplete)
 
 ## 세줄요약
-
 
 이스라엘 환자 1020명 CBCT 단면 연구(하악 제2대구치 1465개·제1대구치 1229개) — C-shaped canal 유병률은 제2대구치 4.6%·제1대구치 0.16%로 낮은 편이며, 55%는 편측성, 63%에서 근관 형태가 치근 길이를 따라 변함.
 

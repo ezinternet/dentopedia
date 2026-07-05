@@ -19,7 +19,6 @@ text_filename: khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening.tx
 
 ## Three-line Summary
 
-
 Retrospective CBCT study (n=124 patients, 992 teeth) quantified risk factors for maxillary sinus mucosal thickening: first molars (AOR=3.97), periapical lesions (AOR=32.7), and severe periodontal bone loss (AOR=2.75) were strongest predictors.
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective CBCT study (n=124 patients, 992 teeth) quantified risk factors for
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT 후향적 연구(n=124명, 992치): 제1대구치(AOR=3.97), 치근단 병변(AOR=32.7), 중증 치주골 소실(AOR=2.75)이 상악동 점막비후의 강력한 위험인자.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 22 investigations (24 articles) on buccal peri-implant soft tissue dehiscence (BSTD ≥1 mm): thin biotype (OR 2.85) and buccal implant malposition (OR 14.37) were significant risk factors;
 
 CTG was strongly protective (OR 9.00 without CTG);
@@ -23,7 +22,6 @@ CTG was strongly protective (OR 9.00 without CTG);
 buccal bone thickness and implant timing were not significant.
 
 ## 세줄요약
-
 
 22개 임상연구(24편)에 대한 SR+MA: 얇은 표현형(OR 2.85)과 협측 임플란트 위치 불량(OR 14.37)이 BSTD 유의 위험요인이며, 결합조직이식(CTG) 미시행이 BSTD 위험 9배 증가, 협측 골판 두께와 식립 시기는 유의하지 않음.
 

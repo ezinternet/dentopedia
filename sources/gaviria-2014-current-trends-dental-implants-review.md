@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Narrative review (2014) tracing dental implant history from ancient civilizations to modern titanium endosseous implants, covering macro/micro design parameters, surface modification strategies (HA coating, sandblasting, acid-etching, anodization), and emerging trends (drug delivery, growth factors, biomimetic surfaces).
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative review (2014) tracing dental implant history from ancient civilization
 (incomplete)
 
 ## 세줄요약
-
 
 서사적 총론(2014): 고대 문명부터 현대 티타늄 골내 임플란트까지의 역사, 거시/미세 설계 파라미터, 표면처리 전략(하이드록시아파타이트 코팅, 샌드블라스팅, 산 에칭, 양극산화), 신흥 트렌드(약물전달, 성장인자, 생체모방 표면)를 종합 정리.
 

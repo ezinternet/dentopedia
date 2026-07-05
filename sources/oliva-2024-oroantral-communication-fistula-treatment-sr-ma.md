@@ -15,7 +15,6 @@ OMS 클러스터([[wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusit
 
 ## Three-line Summary
 
-
 SR + network meta-analysis of 9 studies (7 RCTs, n=519 OACs) found buccal fat pad significantly superior to buccal advancement flap (OR 15;
 
 95% CI 3.52–63.83) and palatal rotational flap (OR 15.29;
@@ -23,7 +22,6 @@ SR + network meta-analysis of 9 studies (7 RCTs, n=519 OACs) found buccal fat pa
 CI 2.63–88.93) for OAC/OAF closure.
 
 ## 세줄요약
-
 
 9건(7 RCT, n=519) SR+네트워크 메타분석: 협측지방패드(BFP)가 구강상악동교통·누공 폐쇄에서 협측전진피판(OR 15) 및 구개회전피판(OR 15.29) 대비 통계적으로 유의하게 우수.
 

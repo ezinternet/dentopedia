@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro study on contaminated zirconia: at 60 s of non-thermal plasma (NTP), Porphyromonas gingivalis adhesion did not differ from control (p=0.91), but adhesion significantly increased at 300 s and 600 s (p<0.05);
 
 meanwhile osteoblast (MC3T3-E1) activity on P.
@@ -23,7 +22,6 @@ meanwhile osteoblast (MC3T3-E1) activity on P.
 gingivalis-contaminated zirconia significantly increased at 72 and 96 h after 60/120 s NTP (p<0.017). Authors conclude 60 s NTP inhibits P. gingivalis proliferation and increases osseointegration on contaminated zirconia.
 
 ## 세줄요약
-
 
 오염 지르코니아 in vitro: 비열 플라즈마(NTP) 60초에서는 Porphyromonas gingivalis 부착이 대조군과 차이 없음(p=0.91)이었으나 300·600초에서는 부착이 유의하게 증가(p<0.05);
 

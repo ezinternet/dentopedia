@@ -19,7 +19,6 @@ text_filename: morelli-2023-radiation-dose-taste-alteration-hnscc.txt
 
 ## Three-line Summary
 
-
 Prospective observational cohort (31 HNSCC patients undergoing IMRT, CiTAS/EORTC questionnaires at baseline, 3 weeks, 3 months) finding acute dysgeusia correlates significantly with mean dose to submandibular and parotid glands (p=0.05 each) but NOT with dose to the taste-bud-bearing tongue mucosa itself, suggesting radiation-induced taste alteration is substantially mediated through salivary gland damage rather than direct taste bud injury alone.
 
 (incomplete)
@@ -27,7 +26,6 @@ Prospective observational cohort (31 HNSCC patients undergoing IMRT, CiTAS/EORTC
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 관찰 코호트(두경부편평세포암 IMRT 환자 31명, CiTAS/EORTC 설문 기저·3주·3개월 추적) — 급성 미각이상(dysgeusia)은 미뢰(taste bud) 선량이 아니라 악하선·이하선 평균선량과 유의하게 상관(각 p=0.05)함을 발견 — 방사선 유발 미각장애가 미뢰 직접손상보다 타액선 손상을 매개로 발생함을 시사.
 

@@ -19,7 +19,6 @@ This RCT (Lee 2020, Seoul National University) tests the **Watanabe method (toot
 
 ## Three-line Summary
 
-
 Double-blind RCT (n=60 T2DM chronic-periodontitis patients, 3 arms, 12 wk): both SRP and SRP + Watanabe-method toothpick toothbrushing (SRPAT, once weekly x5) improved HbA1c and periodontal status, but only SRPAT significantly reduced serum endotoxin (-0.78 EU/mL, p=0.003) and produced significantly greater BOP reduction (-16.5% vs SRP -7.3%).
 
 (incomplete)
@@ -27,7 +26,6 @@ Double-blind RCT (n=60 T2DM chronic-periodontitis patients, 3 arms, 12 wk): both
 (incomplete)
 
 ## 세줄요약
-
 
 이중맹검 RCT(2형 당뇨 만성 치주염 60명, 3군, 12주): SRP군과 SRP+와타나베(toothpick)법 추가칫솔질군(SRPAT, 주1회 x5) 모두 HbA1c·치주상태 개선, 그러나 혈청 내독소 유의 감소(-0.78 EU/mL, p=0.003)와 더 큰 BOP 감소(-16.5% vs SRP -7.3%)는 SRPAT군에서만 나타남.
 

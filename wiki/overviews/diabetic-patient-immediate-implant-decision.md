@@ -27,7 +27,6 @@ relations:
 
 ## Three-line Summary
 
-
 Cross-paper synthesis (4 contributing papers: Wagner 2022 SR, Al-Ansari 2022 SR+MA 89 studies, Andrade 2021 SR+MA, Ragucci 2020 SR+MA) on when a diabetic patient can receive an immediate implant: DM is not an absolute contraindication, but the decision is gated by HbA1c band (<8% proceed / 8–9% enhanced precautions / ≥9% defer) and site (maxilla carries the significant DM failure signal OR 1.777, p<0.001; mandible does not).
 
 The two governing SR+MAs conflict: Andrade 2021 finds no survival penalty for immediately loaded implants even in uncontrolled T2DM (RR 1.08, NS) but covers mostly ≤24-month follow-up; Al-Ansari 2022 (89 studies, 68,290 implants) shows a real DM failure signal localized to the maxilla and a marginal bone loss divergence that widens over time (+0.776 mm, +0.032 mm/month) — weight Al-Ansari for maxillary/long-term decisions.

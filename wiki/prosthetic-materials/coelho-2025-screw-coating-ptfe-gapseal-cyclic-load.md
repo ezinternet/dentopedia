@@ -34,7 +34,6 @@ PTFE 테이프는 모든 조건에서 프리로드 유의 감소(p=0.009); 단 R
 
 하중 없을 때는 GapSeal이 최적(프리로드 유지 + RTV 최고); PTFE는 임상적으로 윤활제로 작용하나 피로 하중 후 기계적 잠금 효과 가능성 — 단, 프리로드 일관 감소는 조건 무관 안전 우려 사항.
 
-
 ## Summary
 
 This in vitro study (Coelho 2025) is the direct follow-up to Coelho 2024, adding ISO 14801-compliant cyclic loading (CL: 300,000 cycles, 20–200 N, 2 Hz, 37 °C distilled water) to the same PTFE vs GapSeal® screw coating comparison. Ninety external hex implant-abutment complexes (DIUIMPLANT) were randomized across 6 subgroups (3 coatings × 2 loading conditions, n=15 each). All screws tightened to 30 Ncm and retightened at 10 min. Preload and RTV were measured by dynamometer; micro-CT confirmed absence of microgaps; SEM documented coating status post-loosening.

@@ -17,7 +17,6 @@ Ti mesh 대안을 체계적으로 비교하기 위한 최신 포괄적 리뷰. P
 
 ## Three-line Summary
 
-
 Periodontology 2000 review (2023): Comprehensive overview of all GBR barrier membrane types — resorbable (collagen/XL-collagen/synthetic/pericardium) vs non-resorbable (d-PTFE/e-PTFE/Ti mesh/Ti-PTFE) — characteristics, advantages, disadvantages, and updated meta-analyses.
 
 (incomplete)
@@ -25,7 +24,6 @@ Periodontology 2000 review (2023): Comprehensive overview of all GBR barrier mem
 (incomplete)
 
 ## 세줄요약
-
 
 Periodontology 2000 종설 (2023): 흡수성(콜라겐·가교화 콜라겐·합성·심막) vs 비흡수성(d-PTFE·e-PTFE·Ti 메쉬·Ti-PTFE) 모든 GBR 차폐막 유형의 특성·장단점·최신 메타분석 종합.
 

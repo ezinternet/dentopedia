@@ -15,7 +15,6 @@ This SR+MA directly addresses the diagnostic validity of halitometers (Halimeter
 
 ## Three-line Summary
 
-
 SR+MA (76 studies, n=14,635) finds that no common halitometer correlates strongly with organoleptic scores (Spearman r = 0.65–0.76), concluding that current devices cannot replace the OLT for diagnosing intra-oral halitosis.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (76 studies, n=14,635) finds that no common halitometer correlates strongl
 (incomplete)
 
 ## 세줄요약
-
 
 76개 연구(n=14,635)를 메타분석한 결과, 현재 사용되는 어떤 구취측정기(할리미터, OralChroma, GC)도 관능검사(OLT)와 충분한 상관관계(r=0.65–0.76)를 보이지 않아 OLT를 대체할 수 없다고 결론 내림.
 

@@ -19,7 +19,6 @@ Surveillance ingest on 이가탄(Igatan)-family OTC periodontal drug ingredients
 
 ## Three-line Summary
 
-
 3-arm double-blind RCT (n=45, stage-II grade A periodontitis) showing that injectable platelet-rich fibrin (I-PRF) with or without vitamin C added NO clinical benefit (BOP/PD/CAL/PI/bone) over professional mechanical plaque removal (PMPR) alone at 6 months;
 
 the only adjunct advantage was lower post-operative pain.
@@ -27,7 +26,6 @@ the only adjunct advantage was lower post-operative pain.
 (incomplete)
 
 ## 세줄요약
-
 
 3군 이중맹검 RCT (n=45, 2기 grade A 치주염): 비타민C를 넣은 주사형 혈소판농축피브린(I-PRF)이든 그냥 I-PRF든, 기계적 치석제거(PMPR) 단독 대비 6개월 시점에서 BOP·PD·CAL·PI·골 변화에 추가 임상이득이 없었고, 유일한 차이는 술후 통증이 낮았다는 점뿐이었다.
 

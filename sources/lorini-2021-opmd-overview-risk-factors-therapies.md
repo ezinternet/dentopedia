@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-OPMD별 위험인자 및 치료 전략 개요: OLK, OLP, OE, OSF, actinic cheilitis 각각에 대한 악성전환 위험도와 현재 치료 옵션 요약.
 
+OPMD별 위험인자 및 치료 전략 개요:
+
+OLK, OLP, OE, OSF, actinic cheilitis
+
+각각에 대한 악성전환 위험도와 현재 치료 옵션 요약.
+
+## 세줄요약
+
+OPMD별 위험인자 및 치료 전략 개요:
+
+OLK, OLP, OE, OSF, actinic cheilitis
+
+각각에 대한 악성전환 위험도와 현재 치료 옵션 요약.
 
 ## 1. Document Information
 - **Title**: Overview of Oral Potentially Malignant Disorders: From Risk Factors to Specific Therapies

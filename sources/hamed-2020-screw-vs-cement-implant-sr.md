@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review (12 studies): no significant overall difference in survival between screw and cement-retained implant reconstructions; cement = more biological complications; screw = more mechanical complications.
+
+Systematic review (12 studies): no significant overall difference in survival between screw and cement-retained implant reconstructions
+
+cement = more biological complications
+
+screw = more mechanical complications.
+
+## 세줄요약
+
+체계적 고찰 (SR) (12 studies): no 유의미한 overall difference in survival between screw and cement-retained implant reconstructions
+
+cement = more biological complications
+
+screw = more mechanical complications.
 
 ## 1. Document Information
 - **Type**: Systematic review

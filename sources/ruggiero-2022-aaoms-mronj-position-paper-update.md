@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-AAOMS 2022 MRONJ position paper update: staging system unchanged (0–3), drug holiday remains controversial with no AAOMS consensus, romosozumab added to at-risk medications, bone turnover markers (CTX) no longer recommended for risk assessment.
 
+AAOMS 2022 MRONJ position paper update: staging system unchanged (0–3), drug
+
+holiday remains controversial with no AAOMS consensus, romosozumab added to at-risk
+
+medications, bone turnover markers (CTX) no longer recommended for risk assessment.
+
+## 세줄요약
+
+AAOMS 2022 MRONJ position paper update: staging system unchanged (0–3), drug
+
+holiday remains controversial with no AAOMS consensus, romosozumab added to at-risk
+
+medications, 골 (Bone) turnover markers (CTX) no longer recommended for risk assessment.
 
 ## 1. Document Information
 - **Journal**: Journal of Oral and Maxillofacial Surgery 80:920-943, 2022

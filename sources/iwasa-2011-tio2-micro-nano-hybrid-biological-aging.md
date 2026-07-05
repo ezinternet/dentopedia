@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-In-vitro study: TiO2 nanonodules (300 nm) on micropit Ti surface sustain bioactivity for ≥7 days after UV-PF (vs 30-50% decay on micropit-only); mechanism is sustained electropositivity, not hydrophilicity.
+
+In-vitro study: TiO2 nanonodules (300 nm) on micropit Ti
+
+surface sustain bioactivity for ≥7 days after UV-PF (vs
+
+30-50% decay on micropit-only); mechanism is sustained electropositivity, not hydrophilicity.
+
+## 세줄요약
+
+체외 실험: 마이크로핏 티타늄에 TiO2 나노노듈(300 nm) 코팅 시 자외선 광기능화(UV-PF) 후 생물활성 ≥7일 유지.
+
+마이크로핏 단독은 7일간 30–50% 감소; 나노하이브리드 표면은 7일차에도 신선한 표면과 동등한 활성 유지.
+
+기전: 영구적 친수성이 아닌 지속적 전기양성(electropositivity)이 생물학적 노화 저항의 핵심.
 
 ## 1. Document Information
 Int J Nanomedicine 2011;6:1327-1341. doi:10.2147/IJN.S22099. UCLA LBIS.

@@ -23,11 +23,11 @@ reconstructive approaches did better, but certainty is low.
 
 ## 세줄요약
 
-체계적문헌고찰(17편·추적 ≥3년): 수술적 임플란트주위염 치료 후 거친(modified) 표면이 매끈한(machined) 표면보다 재발·임플란트 상실 위험이 높음;
+체계적고찰 (17편, 추적 ≥3년) — 임플란트 표면 특성이 수술적 주위염 (Peri-implantitis) 치료 후 장기 예후에 미치는 영향을 평가.
 
-재건술식이 더 유리하나 근거확실성은 낮음.
+거친/개질된 표면이 매끈한 표면보다 임플란트주위염 재발 및 임플란트 상실 위험이 높음.
 
-(incomplete)
+재건술식 (골이식+차단막)이 비재건술식보다 유리하나, 근거확실성은 낮음.
 
 ## 1. Document Information
 - Frontiers in Dental Medicine 2025;6:1661369. University of Geneva / Malmö / Bern. Open access.

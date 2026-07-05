@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In-vitro two/three-body ACTA wear study of 4 bulk-fill composites vs 1 nanohybrid (Grandio): uncovered bulk-fills wore 59-118 µm/200k cycles vs 31 µm for the nanohybrid and had much lower Vickers hardness, but a 0.5-1.0 mm conventional cover layer wore the same as the nanohybrid alone (bulk-fill substrate stiff enough to act as a monoblock).
 
 (incomplete)
@@ -23,7 +22,6 @@ In-vitro two/three-body ACTA wear study of 4 bulk-fill composites vs 1 nanohybri
 (incomplete)
 
 ## 세줄요약
-
 
 In-vitro ACTA 마모시험 — 벌크필 레진 4종 vs 나노하이브리드(Grandio) 비교: 커버 없는 벌크필은 59-118 µm/200k cycle로 나노하이브리드(31 µm)보다 마모가 크고 비커스 경도도 낮았으나, 0.5-1.0 mm 일반 컴포지트로 덮으면 나노하이브리드 단독과 동일한 마모를 보여 벌크필이 단단한 받침(monoblock) 역할을 함.
 

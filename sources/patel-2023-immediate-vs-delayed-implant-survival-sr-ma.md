@@ -15,7 +15,6 @@ The immediate-implant category and the timing-overview need a recent SR+MA that 
 
 ## Three-line Summary
 
-
 SR+MA (10 studies, 6 RCT + 4 non-randomised;
 
 341 immediate vs 359 delayed implants) found no significant difference in implant survival between immediate and delayed placement (RR 0.99, 95% CI 0.96–1.02, p≈0.44, I²=0%), with immediate ~97.4% vs delayed ~97.5%.
@@ -23,7 +22,6 @@ SR+MA (10 studies, 6 RCT + 4 non-randomised;
 (incomplete)
 
 ## 세줄요약
-
 
 체계적 문헌고찰+메타분석 (10편, RCT 6 + 비무작위 4;
 

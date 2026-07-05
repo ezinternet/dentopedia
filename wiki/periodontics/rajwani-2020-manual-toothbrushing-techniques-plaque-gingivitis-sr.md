@@ -32,7 +32,6 @@ Current evidence is insufficient to recommend any specific manual technique; CON
 
 특정 기법 권고 근거 불충분; CONSORT 준수·표준화 지수(MPI 권장) RCT 필요.
 
-
 ## Summary
 
 Manual toothbrushing remains the predominant mechanical plaque-control method (≈80% of toothbrush sales in Australia), yet there is **no consensus on which manual technique to teach**. Rajwani et al (2020) is the first systematic review focused specifically on manual toothbrushing *techniques* (earlier SRs addressed manual-vs-powered, or bristle/duration). From 3190 screened articles, 40 were read in full and **13 met inclusion** — 5 RCTs, 7 experimental non-randomised studies, and 1 in vitro study. Ten techniques were compared (roll, horizontal scrub, modified Bass, Bass, Charter's, Fones, modified Stillman, toothpick, vertical, circular scrub).

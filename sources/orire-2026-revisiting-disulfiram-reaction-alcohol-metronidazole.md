@@ -15,8 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
-Focused literature review (4 databases, Jan 1970–Nov 2024, 11 studies): the evidence does not strongly support a clinically significant disulfiram-like reaction between alcohol and oral metronidazole — case reports suggest a link but controlled trials, a chart review, and animal studies do not — questioning the need for strict alcohol abstinence during therapy. (Abstract-only; full text paywalled.)
+Focused literature review (4 databases, Jan 1970–Nov 2024, 11 studies): the evidence does not strongly support a clinically significant disulfiram-like reaction between alcohol and oral metronidazole
 
+case reports suggest a link but controlled trials, a chart review, and animal studies do not
+
+questioning the need for strict alcohol abstinence during therapy. (Abstract-only; full text paywalled.)
+
+## 세줄요약
+
+Focused literature review (4 databases, Jan 1970–Nov 2024, 11 studies): the evidence does not strongly support a clinically 유의미한 disulfiram-like reaction between alcohol and oral metronidazole
+
+case reports suggest a link but controlled trials, a chart review, and animal studies do not
+
+questioning the need for strict alcohol abstinence during therapy. (Abstract-only; full text paywalled.)
 
 ## 1. Document Information
 

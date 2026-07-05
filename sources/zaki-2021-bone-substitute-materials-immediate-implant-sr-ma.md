@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA of 20 RCTs (848 patients, 916 sites) showing bone-substitute grafting of the immediate-implant gap reduces horizontal buccal bone resorption (MD −0.52 mm) and improves esthetic score (MD +1.49) but increases complications (RR 3.50), with no effect on implant failure (RR 0.92);
 
 GRADE certainty mostly moderate.
@@ -23,7 +22,6 @@ GRADE certainty mostly moderate.
 (incomplete)
 
 ## 세줄요약
-
 
 20개 RCT(848명·916부위) SR+MA — 즉시식립 gap에 골대체재를 채우면 수평 협측골 흡수가 줄고(MD −0.52 mm) 심미 점수가 높아지나(MD +1.49) 합병증은 증가하며(RR 3.50), 임플란트 실패율에는 차이가 없었다(RR 0.92).
 

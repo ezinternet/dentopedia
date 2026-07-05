@@ -15,7 +15,6 @@ Provides the conceptual framing — "pulpal and periradicular infections are bio
 
 ## Three-line Summary
 
-
 Editorial (Dent J 2018, Endodontic Microbiology special issue): frames pulpal/periradicular disease as biofilm-mediated, with biofilm structure and inter-microbial dynamics conferring extraordinary resistance — positioning targeted, biofilm-aware disinfection as the goal of endodontic therapy.
 
 (incomplete)
@@ -23,7 +22,6 @@ Editorial (Dent J 2018, Endodontic Microbiology special issue): frames pulpal/pe
 (incomplete)
 
 ## 세줄요약
-
 
 사설(Dent J 2018, 근관미생물학 특집호 서문): 치수·치근단 감염을 바이오필름 매개 질환으로 규정하고, 바이오필름 구조와 미생물 상호작용이 비범한 저항성을 부여한다고 정리 — 바이오필름을 표적하는 소독을 근관치료 목표로 제시.
 

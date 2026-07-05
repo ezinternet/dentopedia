@@ -15,21 +15,19 @@ Tests whether adding resorbable synthetic biomaterials (α-TCP or biphasic calci
 
 ## Three-line Summary
 
+Animal preclinical study (International Journal Molecular Sciences 2022; Wistar rats, 15 animals, 30 bilateral cranial critical-size defects, 4-week observation) comparing DBBM alone vs hybrid DBBM + synthetic biomaterial combinations.
 
-Rat critical-size defect study (n=30, 5 groups, 4 weeks): α-TCP or BBCP mixed 1:1 with DBBM showed similar new bone formation to negative control, paradoxically, while DBBM alone showed significantly less new bone than negative control;
+DBBM alone paradoxically suppressed new bone formation (p=0.025) compared to empty-defect negative control; in contrast, α-TCP mixed 1:1 with DBBM and biphasic calcium phosphate (BBCP) with 3–6% hydroxyapatite mixed 1:1 with DBBM all rescued bone formation to levels comparable to empty control.
 
-synthetic additives resorbed without volume change.
-
-(incomplete)
+Synthetic additives resorbed (mineral density decreased) without macroscopic volume change, suggesting that resorbable synthetic components may facilitate increased osteogenic activity when combined with DBBM's slower resorption profile.
 
 ## 세줄요약
 
+동물 임상전 연구(International Journal Molecular Sciences 2022; Wistar 쥐, 15마리, 양측 두개골 임계골결손 30개, 4주 관찰): DBBM 단독 vs DBBM + 합성 생물재료 혼합 비교.
 
-쥐 임계골결손 모델 5군 비교(4주): α-TCP 또는 BBCP+DBBM 혼합은 음성대조군 수준의 신생골 형성;
+DBBM 단독은 공결손(negative control) 대비 신생골 형성을 역설적으로 억제(p=0.025); α-TCP+DBBM(1:1) 및 BBCP(3–6% HA)+DBBM(1:1) 혼합은 모두 공결손 수준의 신생골 형성 복구.
 
-DBBM 단독은 음성대조군 대비 유의하게 낮은 신생골량(p=0.025).
-
-(incomplete)
+합성 첨가제는 광학적 부피 변화 없이 광물 밀도 감소(흡수) — 느린 DBBM 흡수 프로필과 합쳐지면 빠른 합성 성분이 골형성 활성화를 촉진할 수 있음을 시사.
 
 ## 1. Document Information
 

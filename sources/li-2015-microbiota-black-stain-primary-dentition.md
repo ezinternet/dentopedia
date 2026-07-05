@@ -19,7 +19,6 @@ Black stain (BS) is a clinical phenotype that appears caries-protective but whos
 
 ## Three-line Summary
 
-
 16S rRNA cross-sectional study (n=25 caries-free children) found that black stain plaque harbors a distinct, heterogeneous microbiota enriched in Actinomyces and depleted in Campylobacter, with significantly lower salivary microbial diversity vs controls.
 
 (incomplete)
@@ -27,7 +26,6 @@ Black stain (BS) is a clinical phenotype that appears caries-protective but whos
 (incomplete)
 
 ## 세줄요약
-
 
 우식이 없는 25명의 아동을 대상으로 한 16S rRNA 횡단 연구에서 흑색 착색(Black Stain, BS) 치태에는 Actinomyces가 증가하고 Campylobacter가 감소하는 특이 미생물 군집이 존재하며 타액 내 미생물 다양성이 대조군에 비해 유의하게 낮음을 확인하였다.
 

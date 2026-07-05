@@ -15,7 +15,6 @@ radiology 카테고리 CBCT MC 선량추정의 계산효율·FOV 전략 근거. 
 
 ## Three-line Summary
 
-
 Step-and-shoot Monte Carlo CBCT dose (PHITS, Accuitomo): 5° (large FOV)/10° (small FOV) steps suffice;
 
 six small FOVs ≈1.2× one large FOV.
@@ -23,7 +22,6 @@ six small FOVs ≈1.2× one large FOV.
 (incomplete)
 
 ## 세줄요약
-
 
 step-and-shoot 몬테카를로 CBCT 선량(PHITS, Accuitomo): 대형 FOV 5°·소형 10° 간격이면 충분.
 

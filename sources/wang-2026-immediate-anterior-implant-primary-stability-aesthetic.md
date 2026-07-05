@@ -19,7 +19,6 @@ text_filename: wang-2026-immediate-anterior-implant-primary-stability-aesthetic.
 
 ## Three-line Summary
 
-
 Single-center retrospective cohort (n=120;
 
 60 immediate vs 60 delayed, single maxillary anterior teeth): despite lower primary stability at placement (ISQ 63.1 vs 71.5, P<.001), immediate placement achieved equivalent 12-month success (98.3% vs 96.7%) and final ISQ (P=.589) once primary-stability thresholds (ITV ≥20 N·cm, ISQ ≥50) were met, with less MBL (0.48 vs 0.85 mm) and higher PES (11.47 vs 10.05).
@@ -27,7 +26,6 @@ Single-center retrospective cohort (n=120;
 (incomplete)
 
 ## 세줄요약
-
 
 단일기관 후향 코호트(n=120;
 

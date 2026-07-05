@@ -19,7 +19,6 @@ text_filename: xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct.txt
 
 ## Three-line Summary
 
-
 RCT (n=50;
 
 DDM 25 vs DBBM 25): autogenous demineralized dentin matrix showed greater early (3-mo) horizontal resorption at mid-socket (0.77 vs 0.44 mm, p=0.006) but comparable 6-month dimensional stability and superior histological tissue integration (active remodeling, SATB2+ osteoblasts) vs DBBM.
@@ -27,7 +26,6 @@ DDM 25 vs DBBM 25): autogenous demineralized dentin matrix showed greater early 
 (incomplete)
 
 ## 세줄요약
-
 
 RCT (n=50;
 

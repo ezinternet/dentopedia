@@ -19,7 +19,6 @@ text_filename: kindaro-2025-diagnostic-accuracy-detect-cracked-teeth.txt
 
 ## Three-line Summary
 
-
 Ex vivo diagnostic-accuracy study (n=30 extracted teeth, micro-CT gold standard) comparing macrophotography, surgical microscope, fiber-optic transillumination and DIAGNOcam: transillumination most accurate (65.3%) and most sensitive (68.8%) but with poor specificity (53.6%), while high-mag microscope and macrophotography gave the highest specificity (92.9%) and PPV (~96-97%);
 
 no visual tool can definitively diagnose or locate cracks.
@@ -27,7 +26,6 @@ no visual tool can definitively diagnose or locate cracks.
 (incomplete)
 
 ## 세줄요약
-
 
 치아 균열 진단 도구의 정확도를 비교한 생체외(ex vivo) 연구(발치 치아 30개, 마이크로CT를 기준표준으로 사용).
 

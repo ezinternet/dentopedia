@@ -10,7 +10,19 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Meta-analysis of 21 in vitro studies confirms IDS improves bond strength over DDS for indirect restorations; long-term benefit largest with 3-step etch-and-rinse adhesives or addition of a flowable resin layer.
+
+Systematic review and meta-analysis (22 studies identified, 21 included in quantitative synthesis with 3,717 initial search results) evaluating immediate dentin sealing (IDS) versus delayed dentin sealing (DDS) for adhesive cementation of indirect restorations across diverse adhesive systems.
+
+Meta-analysis of 21 in vitro studies confirms IDS significantly improves bond strength over DDS for indirect restorations (p<0.001 for both immediate and aged testing), with effect size modulated by adhesive class and supplementary flowable resin layer.
+
+Long-term benefit of IDS largest with 3-step etch-and-rinse adhesives combined with flowable resin layer, though clinical RCT data and 5+ year survival outcomes remain absent to translate in-vitro advantages to clinical practice.
+
+## 세줄요약
+메타분석(in vitro 21개 연구, 3717개 검색): 즉시 상아질 봉합(IDS)이 간접 수복에서 지연 상아질 봉합(DDS) 대비 접착 강도 우위 입증(즉시·노화 모두 p<0.001).
+
+3-step etch-and-rinse 또는 유동성 레진 층 추가 시 노화 접착 강도 증가 가장 큼; 1-step self-etch와 2-step etch-and-rinse는 노화 후 IDS 이점 감소.
+
+임상적 의미: IDS는 특히 3-step EAR + 유동성 레진 protocol로 장기 접착 안정성을 확보하나, 임상 RCT 및 5년↑ 장기 생존율 데이터 부재.
 
 ## 1. Document Information
 - **Journal**: Gels 2022, 8, 175 (MDPI)

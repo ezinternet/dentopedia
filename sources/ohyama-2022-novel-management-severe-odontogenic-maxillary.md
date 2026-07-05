@@ -19,7 +19,6 @@ This case documents the pathophysiology of natural-ostium reclosure/recurrence i
 
 ## Three-line Summary
 
-
 Single case report (n=1, 54-year-old man) of severe OMS from underfilled teeth #25/#26 spreading to the frontal sinus, treated by conservative maxillary sinus management (CMSM) — Caldwell–Luc access, mucosa preservation, a large inferior-meatus nasoantral window, plus apicoectomy and retrograde filling — with complete recovery at 2 years and preserved teeth and sinus function.
 
 (incomplete)
@@ -27,7 +26,6 @@ Single case report (n=1, 54-year-old man) of severe OMS from underfilled teeth #
 (incomplete)
 
 ## 세줄요약
-
 
 증례보고 1례(54세 남성): 근관충전 불량 #25/#26 치아에서 전두동까지 파급된 중증 치성 상악동염(OMS)을 Caldwell–Luc 접근으로 점막을 보존하고 하비도에 큰 비강-상악동창(nasoantral window)을 만들며 치근단절제·역충전을 병행한 보존적 상악동관리(CMSM)로 치료해, 2년 후 완전 회복·원인치 보존·상악동 기능 회복을 얻음.
 

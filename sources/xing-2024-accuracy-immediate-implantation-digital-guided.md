@@ -19,7 +19,6 @@ text_filename: xing-2024-accuracy-immediate-implantation-digital-guided.txt
 
 ## Three-line Summary
 
-
 Systematic review + single-arm meta-analysis (Int Dent J 2024;
 
 7 studies, 202 patients / 215 immediate implants) of digital-template-guided immediate implant placement accuracy: pooled coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34° deviation — generally acceptable but with very high heterogeneity (I² 75-99%);
@@ -27,7 +26,6 @@ Systematic review + single-arm meta-analysis (Int Dent J 2024;
 timing (immediate vs delayed) did not materially change accuracy.
 
 ## 세줄요약
-
 
 SR + 단일군 메타분석 (Int Dent J 2024, 7연구·202명·215 즉시 임플란트): 디지털 템플릿 가이드 즉시식립의 풀링 편차는 coronal 0.74 mm·apical 1.01 mm·depth 0.50 mm·angular 2.34°로 임상적으로 수용 가능하나 이질성 매우 높음(I² 75~99%).
 

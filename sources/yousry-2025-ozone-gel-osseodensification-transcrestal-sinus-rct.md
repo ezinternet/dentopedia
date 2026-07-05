@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 RCT (closed/transcrestal sinus lift with osteotome) finding ozone gel adjunct did not significantly increase peri-implant bone width or labial plate thickness vs graftless control at 4 months, though both groups reached acceptable dimensions.
 
 (incomplete)
@@ -23,7 +22,6 @@ RCT (closed/transcrestal sinus lift with osteotome) finding ozone gel adjunct di
 (incomplete)
 
 ## 세줄요약
-
 
 경치조골(폐쇄형) 상악동거상 RCT — ozone gel 보조제는 무이식 대조군 대비 4개월째 임플란트 주위 골 폭·협측 골판 두께를 유의하게 증가시키지 못함(둘 다 수용 가능 수준).
 

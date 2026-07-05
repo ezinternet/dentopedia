@@ -19,7 +19,6 @@ DBBM의 느린 turnover와 잔존 입자 문제를 다룬 [[bone-regeneration/ma
 
 ## Three-line Summary
 
-
 Pilot RCT (n=25;
 
 ACBP 12 vs DBBM 13, sinus + socket GBR): at 6 months, partially demineralized allogeneic cancellous bone plug matched DBBM on CBCT dimensional stability and vital bone (38.84% vs 32.18%, P=0.105) but had significantly lower residual graft (11.18% vs 19.80%, P=0.006).
@@ -27,7 +26,6 @@ ACBP 12 vs DBBM 13, sinus + socket GBR): at 6 months, partially demineralized al
 (incomplete)
 
 ## 세줄요약
-
 
 소규모 RCT (총 25명;
 

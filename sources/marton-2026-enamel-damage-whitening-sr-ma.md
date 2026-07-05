@@ -17,7 +17,6 @@ The safety of peroxide bleaching on enamel integrity is the most commonly cited 
 
 ## Three-line Summary
 
-
 SR+MA of 81 in vitro studies (9 in synthesis) found peroxide bleaching causes small but statistically significant enamel microhardness reductions (ROM = 0.89;
 
 95% CI 0.84–0.94), unlikely to be clinically meaningful;
@@ -25,7 +24,6 @@ SR+MA of 81 in vitro studies (9 in synthesis) found peroxide bleaching causes sm
 exposure time but not concentration was a significant moderator.
 
 ## 세줄요약
-
 
 81편 인비트로 연구의 SR+MA에서 과산화물 미백은 법랑질 미세경도를 통계적으로 유의하게 소폭 감소시켰으나(ROM = 0.89), 임상적 의미는 불명확하며 노출 시간이 주요 조절 변수였다.
 

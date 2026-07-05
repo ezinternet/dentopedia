@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR of 6 in vitro studies on 3D-printed crown bond strength: photopolymer-printed crowns show bond strength comparable to milled materials when properly pretreated, with airborne-particle abrasion (alumina) generally recommended.
+
+SR of 6 in vitro studies on 3D-printed crown
+
+bond strength: photopolymer-printed crowns show bond strength comparable to
+
+milled materials when properly pretreated, with airborne-particle abrasion (alumina) generally recommended.
+
+## 세줄요약
+
+3D 프린팅 보철물 결합강도 in vitro SR: 6편 (광중합 레진 5편, 지르코니아 1편)
+
+광중합 레진 3D 프린팅 크라운은 적절한 전처리(알루미나 분사) 시 밀링된 재료와 동등한 결합강도 제공
+
+에어본 파티클 어브레이션이 가장 효과적인 표면 전처리, 시멘트 종류는 일관된 우위 없음.
 
 ## 1. Document Information
 - **Journal**: Journal of Dentistry 144 (2024) 104908

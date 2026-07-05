@@ -18,7 +18,6 @@ SCRP와 신개념 탈착형 보철(BSRP)을 전향적 다기관 RCT로 비교한
 
 ## Three-line Summary
 
-
 Prospective multicenter RCT (64 implants, 12 months, Korea) comparing BSRP vs SCRP found 100% survival in both groups with no significant difference in MBL or pocket depth, though BSRP had more abutment loosening and SCRP had more screw fractures.
 
 (incomplete)
@@ -26,7 +25,6 @@ Prospective multicenter RCT (64 implants, 12 months, Korea) comparing BSRP vs SC
 (incomplete)
 
 ## 세줄요약
-
 
 전향적 다기관 RCT(64개 임플란트, 12개월)에서 볼-스프링 유지 보철 (Ball-and-Spring-Retained Prosthesis, BSRP)과 나사-시멘트 혼합유지 보철 (Screw-and-Cement-Retained Prosthesis, SCRP)의 생존율 100%로 동등했으나, BSRP는 나사 풀림, SCRP는 나사 파절이 주요 합병증.
 

@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Case report (44F): peri-implantitis + periodontitis → implant + tooth removal → 9mo healing → CAD/CAM titanium mesh GBR (autograft+bovine) → fully guided 2-implant placement (hydrophilic SOI surface) → monolithic zirconia — successful digital rehabilitation workflow.
 
+Case report (44F): peri-implantitis + periodontitis → implant + tooth removal →
+
+9mo healing → CAD/CAM titanium mesh GBR (autograft+bovine) → fully guided 2-implant
+
+placement (hydrophilic SOI surface) → monolithic zirconia — successful digital rehabilitation workflow.
+
+## 세줄요약
+
+Case report (44F): peri-implantitis + periodontitis → implant + tooth removal →
+
+9mo healing → CAD/CAM titanium mesh GBR (autograft+bovine) → fully guided 2-implant
+
+placement (hydrophilic SOI surface) → monolithic zirconia — successful digital rehabilitation workflow.
 
 ## 1. Document Information
 - Journal: Reports 8(3):118 (July 2025)

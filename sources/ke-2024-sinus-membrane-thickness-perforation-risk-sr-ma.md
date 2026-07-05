@@ -19,7 +19,6 @@ Membrane thickness is repeatedly cited as a Schneiderian-membrane perforation ri
 
 ## Three-line Summary
 
-
 SR+MA of 11 CBCT-based observational studies (1841 lateral sinus lifts): the Schneiderian membrane is significantly thinner in perforation cases (MD −0.91 mm, 95% CI −1.48 to −0.33), but no thickness cutoff (2 / 1.5 / 1 mm) predicts perforation rate — so thickness matters as a continuous trend but offers no clean clinical threshold.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR+MA of 11 CBCT-based observational studies (1841 lateral sinus lifts): the Sch
 (incomplete)
 
 ## 세줄요약
-
 
 11편 CBCT 관찰연구(측방창 상악동거상술 1841건) SR+MA — 천공 증례에서 슈나이더막(Schneiderian membrane)이 유의하게 더 얇았으나(MD −0.91 mm), 2/1.5/1 mm 어떤 절단값도 천공률과 유의한 관계가 없었다.
 

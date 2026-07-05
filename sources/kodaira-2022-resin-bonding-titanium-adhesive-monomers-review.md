@@ -15,7 +15,6 @@ Extends the MDP chemical-bonding story from tooth/zirconia substrates to **titan
 
 ## Three-line Summary
 
-
 Narrative literature review of 11 studies concluding that adhesive functional monomers (MDP, MEPS, 6-MHPA, 4-META) in primers/luting agents bond resin to titanium and titanium alloy as effectively as silanization plus tribochemical silica coating, with MDP-based and 4-META/MMA-TBB systems showing the highest bonding durability across thermocycling aging tests.
 
 (incomplete)
@@ -23,7 +22,6 @@ Narrative literature review of 11 studies concluding that adhesive functional mo
 (incomplete)
 
 ## 세줄요약
-
 
 서술적 문헌고찰 (11편 선별): 기능성 단량체(MDP·MEPS·6-MHPA·4-META)를 포함한 프라이머·접착제가 티타늄·티타늄 합금에 대한 레진 접착을 실란화 + 트라이보화학 실리카 코팅과 동등한 수준으로 촉진하며, MDP계 프라이머와 4-META/MMA-TBB 레진이 열순환 내구성에서 가장 우수한 결과를 보임.
 

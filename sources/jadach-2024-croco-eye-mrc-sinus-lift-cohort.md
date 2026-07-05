@@ -15,7 +15,20 @@ source_collection: external
 대형 MRC 처치를 위한 **specific surgical technique (Croco Eye)** 보고. [[sinus-lift/pseudocyst/yu-2023-immediate-delayed-sinus-pseudocyst-rct]]의 "제거 시 즉시 vs 지연" 결정에서 제거 기법의 표준화 옵션. Retrospective cohort로 단순 case report보다 신뢰도 높음.
 
 ## Three-line Summary
-Retrospective cohort (Wrocław, Poland 2024): MRC excision + 동시 open (lateral) sinus lift의 "Croco Eye" technique. 큰 MRC를 측방창 통해 안전하게 enucleation하는 술식 표준화 — n·outcome은 본문.
+
+Retrospective cohort (Wrocław, Poland 2024): MRC excision + 동시
+
+open (lateral) sinus lift의 "Croco Eye" technique. 큰 MRC를
+
+측방창 통해 안전하게 enucleation하는 술식 표준화 — n·outcome은 본문.
+
+## 세줄요약
+
+Retrospective cohort (Wrocław, Poland 2024): MRC excision + 동시
+
+open (lateral) sinus lift의 "Croco Eye" technique. 큰 MRC를
+
+측방창 통해 안전하게 enucleation하는 술식 표준화 — n·outcome은 본문.
 
 ## 1. Document Information
 Wrocław 그룹 (Poland), JCM (MDPI). Technique-naming retrospective cohort.

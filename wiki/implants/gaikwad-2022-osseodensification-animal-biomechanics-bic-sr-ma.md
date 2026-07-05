@@ -15,7 +15,6 @@ tags: [osseodensification, animal-study, sr+ma, bic, bafo, insertion-torque, syr
 
 ## Three-line Summary
 
-
 SR+MA (9 in-vivo animal studies — dog/sheep/rabbit; SYRCLE risk-of-bias) comparing osseodensification (OD) vs conventional drilling for endosseous implant placement, with insertion torque, BIC, and BAFO at 3 and 6 weeks of healing.
 
 OD significantly increased insertion torque (WMD 2.27, 95% CI 1.15–3.39, P<.001); BIC and BAFO effect estimates numerically favored OD at 3 and 6 weeks but P-values mostly exceeded .05, and a CI/P mismatch in the BAFO data warrants interpretive caution.

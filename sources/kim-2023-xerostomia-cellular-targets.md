@@ -19,7 +19,6 @@ text_filename: kim-2023-xerostomia-cellular-targets.txt
 
 ## Three-line Summary
 
-
 Narrative mechanistic review (Int J Mol Sci 2023, single-author) tracing salivary secretion at the cellular level — parasympathetic neurotransmitter → GPCR (M3 mAChR) → PLC/IP3 → ER Ca²⁺ release + store-operated Ca²⁺ entry (SOCE) → AQP5 apical trafficking — and framing GPCR, IP3R, SOCE, and AQP5 as druggable cellular targets in xerostomia.
 
 (incomplete)
@@ -27,7 +26,6 @@ Narrative mechanistic review (Int J Mol Sci 2023, single-author) tracing salivar
 (incomplete)
 
 ## 세줄요약
-
 
 침 분비의 세포 기전 — 부교감신경 전달물질 → G단백연결수용체(GPCR, M3 mAChR) → PLC/IP3 → 소포체 Ca²⁺ 방출 + 저장고작동 Ca²⁺ 유입(SOCE) → 아쿠아포린5(AQP5) 정단막 이동 — 을 추적하고, GPCR·IP3R·SOCE·AQP5를 구강건조(xerostomia) 치료 표적으로 제시한 기전 리뷰 (IJMS 2023, 서울대 치대).
 

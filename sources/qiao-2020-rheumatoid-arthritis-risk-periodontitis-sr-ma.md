@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis (13 case-control studies;
 
 706,611 periodontitis patients vs 349,983 controls) finding periodontitis patients carry a 69% higher risk of rheumatoid arthritis (pooled OR 1.69, 95% CI 1.31–2.17, P<0.0001;
@@ -23,7 +22,6 @@ Systematic review + meta-analysis (13 case-control studies;
 I²=89%), with high heterogeneity explained partly by RA disease type, duration, and region.
 
 ## 세줄요약
-
 
 치주염 환자가 대조군보다 류마티스 관절염(RA) 위험이 69% 높다는 13개 증례-대조 연구·치주염 70만6611명 vs 대조군 34만9983명 SR+MA로, 통합 OR 1.69(95% CI 1.31–2.17, P<0.0001;
 

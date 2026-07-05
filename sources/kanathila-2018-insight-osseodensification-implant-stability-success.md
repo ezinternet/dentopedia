@@ -14,7 +14,20 @@ source_collection: external
 Narrative-review primer on the osseodensification (OD) concept — supplies the mechanistic explanation (counterclockwise Densah bur compaction, bone-debris autografting, insertion-torque gains in low-density bone) that frames the clinical-trial evidence in [[overviews/osseodensification-clinical-applications]]. Extends the foundational bench work of [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] into a clinician-facing overview.
 
 ## Three-line Summary
-Narrative review (JCDR 2018) of the osseodensification (OD) concept — explaining how Huwais's tapered multi-fluted Densah burs run counterclockwise to compact rather than excavate bone, the mechanistic rationale (autografting of bone debris into walls), and reported insertion-torque gains (≈49 Ncm in low-density bone vs ≈25 Ncm for conventional drilling).
+
+Narrative review (JCDR 2018) of the osseodensification (OD) concept — explaining how Huwais's tapered multi-fluted Densah
+
+burs run counterclockwise to compact rather than excavate bone, the mechanistic rationale (autografting of bone debris
+
+into walls), and reported insertion-torque gains (≈49 Ncm in low-density bone vs ≈25 Ncm for conventional drilling).
+
+## 세줄요약
+
+골밀도화(OD) 개념 내러티브 리뷰 (JCDR 2018): Huwais의 테이퍼 다중 플루트 Densah 버가 시계 반대 방향으로 골을 골화하는 방식 설명
+
+골편 자가이식·골벽 긴밀화의 기전적 근거, 저밀도골에서 삽입 토크 증가 (약 49 Ncm vs 일반 시추 25 Ncm)
+
+초기 및 2차 안정성 향상 주장, OD와 기타 저밀도 전략(언더프레퍼레이션·Summers 골응결) 비교.
 
 ## 1. Document Information
 - **Type**: Narrative review article

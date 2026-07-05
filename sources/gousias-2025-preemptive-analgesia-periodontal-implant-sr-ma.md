@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-JCP 2025 SR+MA (18 RCT, 1,995 titles screened): 치주 (periodontal) + 임플란트 (implant) 수술 — preemptive 진통제 vs 위약 술후 1·3·6·8·24·72시간 통증 (SMD) 평가; preemptive analgesia 일부 timepoint에서 유의한 통증 감소 — 치주·임플란트 수술 환경에서 preemptive analgesia 효과 confirmed.
+
+JCP 2025 SR+MA (18 RCT, 1,995 titles screened): 치주 (periodontal) + 임플란트 (implant) 수술
+
+preemptive 진통제 vs 위약 술후 1·3·6·8·24·72시간 통증 (SMD) 평가; preemptive analgesia 일부 timepoint에서 유의한 통증 감소
+
+치주·임플란트 수술 환경에서 preemptive analgesia 효과 confirmed.
+
+## 세줄요약
+
+JCP 2025 SR+MA (18 RCT, 1,995 titles screened): 치주 (periodontal) + 임플란트 (implant) 수술
+
+preemptive 진통제 vs 위약 술후 1·3·6·8·24·72시간 통증 (SMD) 평가; preemptive analgesia 일부 timepoint에서 유의한 통증 감소
+
+치주·임플란트 수술 환경에서 preemptive analgesia 효과 confirmed.
 
 ## 1. Document Information
 - Authors: Gousias C et al. (Marquette / Ohio State / Manchester)

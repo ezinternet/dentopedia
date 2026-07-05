@@ -14,8 +14,20 @@ source_collection: external
 The foundational general-medical SR+MA establishing motivational interviewing's modest-but-robust effect (incl. brief consultations) — the cross-disciplinary anchor underpinning the MI rationale in [[overviews/behavioral-dentistry-overview]] and [[overviews/behavioral-dentistry-decision-ladder]].
 
 ## Three-line Summary
-SR+MA of 48 RCTs (n=9,618) — MI in medical care settings shows modest but robust advantage (OR 1.55, 95% CI 1.40–1.71), effective even in brief consultations; promising areas include HIV viral load, dental outcomes, weight, alcohol/tobacco, sedentary behavior. Reference paper for MI's general medical evidence.
 
+SR+MA of 48 RCTs (n=9,618) — MI in medical care settings shows modest but robust
+
+advantage (OR 1.55, 95% CI 1.40–1.71), effective even in brief consultations; promising areas include HIV
+
+viral load, dental outcomes, weight, alcohol/tobacco, sedentary behavior. Reference paper for MI's general medical evidence.
+
+## 세줄요약
+
+SR+MA of 48 RCTs (n=9,618) — MI in medical care settings shows modest but robust
+
+advantage (OR 1.55, 95% CI 1.40–1.71), effective even in brief consultations; promising areas include HIV
+
+viral load, dental outcomes, weight, alcohol/tobacco, sedentary behavior. Reference paper for MI's general medical evidence.
 
 ## 1. Document Information
 - Journal: Patient Education and Counseling, 93(2):157–168, Nov 2013

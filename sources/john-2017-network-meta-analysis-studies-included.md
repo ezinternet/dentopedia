@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain;
 
 all adjuncts add ~0.3-0.35 mm CAL over 6-12 months vs SRP alone, with publication bias inflating effects by ~20%.
@@ -23,7 +22,6 @@ all adjuncts add ~0.3-0.35 mm CAL over 6-12 months vs SRP alone, with publicatio
 (incomplete)
 
 ## 세줄요약
-
 
 별형 네트워크 메타분석(RCT 61편, 74개 비교, 보조요법 9종): SRP 단독 대비 어떤 보조요법도 임상부착수준(CAL) 이득에서 다른 보조요법보다 통계적으로 우월하지 않았고, 모든 보조요법은 6-12개월간 약 0.3-0.35 mm의 CAL 이득만 추가했으며 출판편향이 효과를 약 20% 부풀렸다.
 

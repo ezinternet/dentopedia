@@ -19,7 +19,6 @@ text_filename: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative
 
 ## Three-line Summary
 
-
 Narrative review (119 articles) concluding that in low-density (D3–D4) bone, implant material (Ti remains gold standard;
 
 zirconia/PEEK as alternatives), macro/microgeometry (conical, wider, longer, reverse-buttress self-tapping, small pitch, deep thread), and surgical technique (osseodensification/under-drilling) jointly determine primary stability and success.
@@ -27,7 +26,6 @@ zirconia/PEEK as alternatives), macro/microgeometry (conical, wider, longer, rev
 (incomplete)
 
 ## 세줄요약
-
 
 내러티브 리뷰 (119편)로, 저밀도골(D3–D4)에서는 임플란트 재료(티타늄이 여전히 표준, 지르코니아·PEEK는 대안), 매크로·마이크로 형태(원추형·넓은 직경·긴 길이·역버트레스 self-tapping·좁은 pitch·깊은 thread), 수술 술식(골밀도화·under-drilling)이 함께 초기 안정성과 성공률을 좌우한다고 결론.
 

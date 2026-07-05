@@ -19,7 +19,6 @@ text_filename: fouda-2025-accuracy-digital-workflow-implant-fullarch.txt
 
 ## Three-line Summary
 
-
 In-vitro micro-CT study (10 milled titanium full-arch frameworks from TRIOS 5 IOS scans on a 4-implant edentulous model): none acceptable by single-screw-test micro-CT, only 3/10 acceptable by final-fit-test micro-CT;
 
 subjective non-passivity rates 60% (SST) and 80% (SRT);
@@ -27,7 +26,6 @@ subjective non-passivity rates 60% (SST) and 80% (SRT);
 only 2/10 intraoral scans fell within the 150 µm acceptable deviation vs. lab-scanner control, indicating scanning error as the dominant misfit source.
 
 ## 세줄요약
-
 
 In-vitro micro-CT 연구 (4-임플란트 무치악 모델에서 TRIOS 5 IOS 스캔으로 제작한 티타늄 전악 프레임워크 10개): 단일나사검사 micro-CT 기준 전부 부적합, 최종 체결 micro-CT 기준 3/10만 적합;
 

@@ -19,7 +19,6 @@ Existing AI-in-dentistry pages are task-specific systematic reviews — [[artifi
 
 ## Three-line Summary
 
-
 Overview of systematic reviews (umbrella review;
 
 12 SRs, ROBIS-appraised) finding that recent AI models on dental panoramic radiographs reach high accuracy across caries (91.5%), osteoporosis (89.29%), maxillary sinusitis (87.5%), periodontal bone loss (93.09%), and teeth ID/numbering (93.67%), with periapical-lesion detection at 99.95% sensitivity / 92% specificity — but results must be read with caution given few, heterogeneous source studies.
@@ -27,7 +26,6 @@ Overview of systematic reviews (umbrella review;
 (incomplete)
 
 ## 세줄요약
-
 
 시스템 리뷰들을 종합한 상위(umbrella) 리뷰 — 12편 SR(ROBIS로 편향 평가).
 

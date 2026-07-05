@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft materials produced significantly less vertical and horizontal ridge reduction than allogenic in alveolar ridge preservation, though no material fully prevented dimensional loss.
 
 (incomplete)
@@ -23,7 +22,6 @@ SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft 
 (incomplete)
 
 ## 세줄요약
-
 
 CBCT 측정만 모은 SR+MA(정성 16편·정량 9편)로, 치조제보존술에서 xenograft가 allograft보다 수직·수평 골 흡수를 유의하게 덜 일으켰으나(P<0.05) 어떤 재료도 치조제 치수 손실을 완전히 막지는 못했다.
 

@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 In vitro (n=70 feldspathic porcelain disks, 7 groups, shear bond strength after thermocycling): Separate silane application after HF etching significantly increased repair bond strength for Single Bond Universal and All Bond Universal, but not for FuturaBond;
 
 FuturaBond with or without silane showed comparable strength.
@@ -23,7 +22,6 @@ FuturaBond with or without silane showed comparable strength.
 (incomplete)
 
 ## 세줄요약
-
 
 In vitro (n=70, 7그룹, SBS, 5,000 열순환): Single Bond와 All Bond 유니버설 접착제 사용 시 별도 실란 추가로 접착강도 유의하게 향상;
 

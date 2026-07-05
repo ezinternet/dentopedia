@@ -19,7 +19,6 @@ Periodontal 골내결손(intrabony defect) 재생에서 PRF(Platelet-Rich Fibrin
 
 ## Three-line Summary
 
-
 SR+MA of 55 RCTs on PRF for periodontal intrabony defects: adding PRF to OFD gives ~1.3 mm PPD reduction, ~1.2 mm CAL gain, ~1.6 mm radiographic bone fill vs OFD alone;
 
 PRF is equivalent to EMD/PRP/bone graft/barrier membrane;
@@ -27,7 +26,6 @@ PRF is equivalent to EMD/PRP/bone graft/barrier membrane;
 adding PRF to a bone graft (and adding metformin/bisphosphonates/statins to PRF) yields further significant gains.
 
 ## 세줄요약
-
 
 치주 골내결손에 대한 PRF 55개 RCT SR+MA: OFD 단독 대비 PRF 병용 시 탐침깊이 약 1.3mm 감소·임상부착수준 약 1.2mm 획득·방사선 골충전 약 1.6mm 개선;
 

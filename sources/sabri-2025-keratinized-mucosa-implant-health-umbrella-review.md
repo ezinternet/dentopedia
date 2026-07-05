@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Umbrella SR + meta-meta-analysis of 10 SRs (2012–2023) shows KM width < 2 mm is significantly associated with greater mucosal recession (eOR 4.05), higher plaque/gingival indices, and greater marginal bone loss (eOR 1.852), but not with bleeding on probing or pocket depth.
 
 (incomplete)
@@ -23,7 +22,6 @@ Umbrella SR + meta-meta-analysis of 10 SRs (2012–2023) shows KM width < 2 mm i
 (incomplete)
 
 ## 세줄요약
-
 
 10개 SR을 종합한 우산형 체계적 고찰 + 메타-메타분석: 각화점막 폭 < 2 mm는 치은퇴축(eOR 4.05)·치은지수·플라그지수·변연골소실(eOR 1.852) 악화와 유의한 관련이 있으나, 탐침 시 출혈·탐침 깊이와는 유의한 연관성이 없음.
 

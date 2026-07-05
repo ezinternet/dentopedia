@@ -15,7 +15,6 @@ Maxillary first molar (MFM) immediate implant placement (IIP) hinges on the resi
 
 ## Three-line Summary
 
-
 Retrospective CBCT cross-sectional study (95 patients, 150 healthy maxillary first molars): mean buccal/palatal plate 1.58/1.34 mm, sinus floor-to-furcation 6.51 mm, palatal root apex intrudes a mean −2.2 mm into the sinus (deeper than MB/DB roots);
 
 ~32% of MFMs judged contraindicated for immediate implant placement on residual-bone grounds.
@@ -23,7 +22,6 @@ Retrospective CBCT cross-sectional study (95 patients, 150 healthy maxillary fir
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 CBCT 단면연구 (환자 95명, 건강한 상악 제1대구치 150개): 평균 협측/구개측 골판 두께 1.58/1.34 mm, 상악동저-치근분지부 거리 6.51 mm, 구개측 치근단은 평균 −2.2 mm로 상악동 안으로 가장 깊이 함입(MB/DB 치근보다 깊음);
 

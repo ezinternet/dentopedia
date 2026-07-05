@@ -15,7 +15,6 @@ radiology 카테고리 파노라마 갑상선/수정체 선량의 최신 정량�
 
 ## Three-line Summary
 
-
 Phantom dosimetry across 4 panoramic units: thyroid equivalent dose 0.30–1.46 µSv, eye lens 0.88–4.24 µSv, with significant device differences (p<0.001).
 
 (incomplete)
@@ -23,7 +22,6 @@ Phantom dosimetry across 4 panoramic units: thyroid equivalent dose 0.30–1.46 
 (incomplete)
 
 ## 세줄요약
-
 
 파노라마 4기종 팬텀 선량: 갑상선 등가선량 0.30~1.46 µSv, 수정체 0.88~4.24 µSv.
 

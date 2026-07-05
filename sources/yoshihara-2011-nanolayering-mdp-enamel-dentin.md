@@ -18,7 +18,6 @@ This is the landmark in-vitro paper that establishes the chemical-bonding basis 
 
 ## Three-line Summary
 
-
 In-vitro XRD + TEM study (experimental 10-MDP primer vs Clearfil SE Bond primer) showing self-assembled MDP-Ca nanolayering occurs on enamel and dentin under a clinical protocol — significantly greater on dentin than enamel, proportional to 10-MDP concentration, and enhanced by active rubbing.
 
 (incomplete)
@@ -26,7 +25,6 @@ In-vitro XRD + TEM study (experimental 10-MDP primer vs Clearfil SE Bond primer)
 (incomplete)
 
 ## 세줄요약
-
 
 10-MDP 실험용 프라이머와 Clearfil SE Bond 프라이머를 XRD·TEM으로 비교한 in-vitro 연구로, 임상 프로토콜 하에서도 MDP-칼슘염 나노레이어링(nanolayering)이 법랑질·상아질 모두에 형성되며 — 상아질에서 더 강하고, 10-MDP 농도에 비례하며, 문지르기(rubbing)로 증대됨을 보여 마일드 셀프에치의 법랑질 접착이 약한 이유를 화학적으로 설명한다.
 

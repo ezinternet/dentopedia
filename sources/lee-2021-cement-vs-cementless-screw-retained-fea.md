@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 3D FEA study (n=2 models, mandibular premolar) found cement-retained zirconia implant crowns generated substantially higher von Mises stress in both the implant and surrounding bone than a novel cementless screw-retained design under 100 N vertical and 30° oblique loading.
 
 (incomplete)
@@ -23,7 +22,6 @@ source_collection: external
 (incomplete)
 
 ## 세줄요약
-
 
 3D 유한요소분석 연구에서 기존 시멘트 유지형 지르코니아 임플란트 크라운이 신형 시멘트-프리 나사유지형(베이스 어버트먼트+링크 스크류)보다 임플란트와 주변골에 유의하게 높은 응력을 발생시킴.
 

@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-미성숙 치수괴사치 revitalization vs apexification SR+MA: 치근 길이·상아질 벽 두께 모두 revitalization 군이 우위 — 치근 성숙 면에서 생물학적 이점.
 
+미성숙 치수괴사치 revitalization vs apexification SR+MA:
+
+치근 길이·상아질 벽 두께 모두 revitalization
+
+군이 우위 — 치근 성숙 면에서 생물학적 이점.
+
+## 세줄요약
+
+미성숙 치수괴사치 revitalization vs apexification SR+MA:
+
+치근 길이·상아질 벽 두께 모두 revitalization
+
+군이 우위 — 치근 성숙 면에서 생물학적 이점.
 
 ## 1. Document Information
 - **Title**: Evaluation of Outcomes in Immature Teeth After Revitalization or Apexification Procedures

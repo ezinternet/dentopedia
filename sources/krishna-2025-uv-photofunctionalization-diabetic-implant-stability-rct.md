@@ -18,7 +18,6 @@ This split-mouth RCT extends UV photofunctionalization (UVP) evidence into the *
 
 ## Three-line Summary
 
-
 Split-mouth RCT in controlled diabetic patients (J Oral Implantol 2025): 20-s pre-placement UV photofunctionalization gave significantly higher 3-month ISQ gain (4.40 vs 2.60, P<.029), higher osseointegration index (OSI 1.42 vs 0.84, P=.032), and less 9-month distal crestal bone loss (0.35 vs 0.64 mm, P=.003) than non-UV implants.
 
 (incomplete)
@@ -26,7 +25,6 @@ Split-mouth RCT in controlled diabetic patients (J Oral Implantol 2025): 20-s pr
 (incomplete)
 
 ## 세줄요약
-
 
 조절된 당뇨 환자 대상 split-mouth RCT (J Oral Implantol 2025): 식립 전 20초 자외선 광기능화 (UV Photofunctionalization, UVP) 시 비처리군 대비 3개월 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 상승폭(4.40 vs 2.60, P<.029)·골유착지수 (Osseointegration Index, OSI 1.42 vs 0.84, P=.032)가 유의하게 높고 9개월 치조정 골소실 (0.35 vs 0.64 mm, P=.003)이 유의하게 적었다.
 

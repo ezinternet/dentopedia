@@ -19,7 +19,6 @@ text_filename: wang-2022-unopposed-molar-overeruption-implant-cbct.txt
 
 ## Three-line Summary
 
-
 Retrospective CBCT cohort (59 patients, 68 unopposed molars): unopposed molars over-erupted a mean 0.43 mm (max 0.75 mm) and tipped 1.7° buccally within ~9 months between antagonist extraction and implant restoration — overeruption is fastest early and is a true 3D movement (vertical + tipping + rotation).
 
 (incomplete)
@@ -27,7 +26,6 @@ Retrospective CBCT cohort (59 patients, 68 unopposed molars): unopposed molars o
 (incomplete)
 
 ## 세줄요약
-
 
 후향적 CBCT 코호트(환자 59명·대합치 없는 대구치 68개): 대합치 발치부터 임플란트 보철까지 약 9개월 사이 대합치 없는 대구치가 평균 0.43 mm(최대 0.75 mm) 정출하고 협측으로 1.7° 경사 — 정출은 초기에 가장 빠르며 수직 이동·경사·회전이 섞인 3차원 움직임이다.
 

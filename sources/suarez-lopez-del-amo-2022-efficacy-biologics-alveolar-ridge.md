@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD, rhPDGF-BB, rhBMP-2) generally do not yield superior clinical/radiographic ARP/ARR/ARA/MSFA outcomes versus controls, but improve histomorphometric bone formation and wound healing.
 
 (incomplete)
@@ -23,7 +22,6 @@ AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, hete
 (incomplete)
 
 ## 세줄요약
-
 
 39편 RCT의 AAP Best Evidence Consensus SR(이질성으로 정량분석 불가)로, biologics(ABP·EMD·rhPDGF-BB·rhBMP-2)는 ARP/ARR/ARA/상악동거상 임상·방사선 결과에서 대조군 대비 우월하지 않았으나, 골조직형태계측상 신생골 형성과 창상치유는 개선했다.
 

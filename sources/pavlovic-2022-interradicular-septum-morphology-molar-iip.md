@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-CBCT cross-sectional analysis of maxillary molar inter-radicular septum (IRS) morphology, framed as objective criteria for IIP feasibility.
 
+CBCT cross-sectional analysis of maxillary
+
+molar inter-radicular septum (IRS) morphology,
+
+framed as objective criteria for IIP feasibility.
+
+## 세줄요약
+
+CBCT cross-sectional analysis of maxillary
+
+molar inter-radicular septum (IRS) morphology,
+
+framed as objective criteria for IIP feasibility.
 
 ## 1. Document Information
 - **Title:** Assessment of Maxillary Molars Interradicular Septum Morphological Characteristics as Criteria for Ideal Immediate Implant Placement—The Advantages of Cone Beam Computed Tomography Analysis

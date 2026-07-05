@@ -32,7 +32,6 @@ SR+MA (13개 증례-대조 연구, 치주염 70만6611명 vs 대조군 34만9983
 
 이질성 매우 높고(I²=89%) 교란변수 보정 불충분; 인과관계보다는 양방향 치주-RA 스크리닝의 근거로 해석.
 
-
 ## Summary
 
 This systematic review and meta-analysis — the first to pool case-control studies exclusively and include comprehensive subgroup analyses — assessed whether periodontitis is a risk factor for rheumatoid arthritis (RA). Thirteen studies from Asia (6), Europe (4), and North America (3), published between 2008 and 2019, were pooled. The total study population included 706,611 periodontitis patients and 349,983 controls (1,056,594 participants total), with 7,154 RA patients identified in the periodontitis group.

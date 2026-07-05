@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Systematic review and meta-analysis of 3 selected studies assessing laser therapy (LLLT) for dry socket treatment; laser proves effective vs. Alvogyl but correlation not highly significant, suggesting it as a viable minimally invasive alternative.
 
+Systematic review and meta-analysis of 3 selected studies assessing laser therapy
+
+(LLLT) for dry socket treatment; laser proves effective vs. Alvogyl but
+
+correlation not highly significant, suggesting it as a viable minimally invasive alternative.
+
+## 세줄요약
+
+체계적 고찰 (SR) and 메타분석 (MA) of 3 selected studies assessing laser therapy
+
+(LLLT) for dry socket treatment; laser proves effective vs. Alvogyl but
+
+correlation not highly 유의미한, suggesting it as a viable minimally invasive alternative.
 
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:700

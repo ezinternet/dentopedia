@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR (45 publications: 13 RCT + 21 prospective + 11 retrospective): site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
 
+SR (45 publications
+
+13 RCT + 21 prospective + 11 retrospective)
+
+site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
+
+## 세줄요약
+
+SR (45 publications
+
+13 RCT + 21 prospective + 11 후향적)
+
+site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
 
 ## 1. Document Information
 - **Title**: Placement and Loading Protocols for Single Implants in Different Locations: A Systematic Review

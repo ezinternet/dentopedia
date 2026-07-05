@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Clinical EEG study (n=21 complete denture wearers, duplicate dentures at −3 mm and +5 mm VDO): an immediate +5 mm increase in vertical dimension raised the EEG negative-mood indicator after gum chewing, and a −3 mm decrease reduced occlusal force — showing immediate VDO error perturbs both psychological state and bite force.
 
 (incomplete)
@@ -23,7 +22,6 @@ Clinical EEG study (n=21 complete denture wearers, duplicate dentures at −3 mm
 (incomplete)
 
 ## 세줄요약
-
 
 총의치 착용자 21명에서 수직고경(Vertical Dimension of Occlusion, VDO)을 −3 mm/+5 mm로 바꾼 복제 의치로 뇌파(Electroencephalogram, EEG)를 측정: +5 mm 증가 시 껌 저작 후 부정적 심리지표가 유의하게 상승하고, −3 mm 감소 시 교합력이 유의하게 감소 — 즉각적 VDO 오류가 심리 상태와 교합력을 모두 교란함.
 

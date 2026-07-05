@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Integrative review (17 studies, 2007–2022) demonstrating non-thermal atmospheric pressure plasma's antimicrobial efficacy against endodontic pathogens (especially E.
 
 faecalis), with optimal effects at ≥8 min direct exposure, enhanced when combined with conventional irrigants.
@@ -23,7 +22,6 @@ faecalis), with optimal effects at ≥8 min direct exposure, enhanced when combi
 (incomplete)
 
 ## 세줄요약
-
 
 2007–2022년 17편 통합 리뷰: 비열 대기압 플라즈마(NTPP)는 E.
 

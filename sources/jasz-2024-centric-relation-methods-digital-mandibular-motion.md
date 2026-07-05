@@ -19,7 +19,6 @@ Centric-relation registration sits at the core of jaw-relation determination for
 
 ## Three-line Summary
 
-
 Cross-sectional clinical comparison (n=34 dentate, stable MIP) using a KaVo Arcus Digma 2 ultrasound mandibular motion analyser: of 7 centric-relation determination methods, Dawson bimanual manipulation and tongue-tip at the hard/soft-palate border deviated least from MIP (no significant deviation on any axis), while active/passive chin retrusion drove the condyle posteriorly and the gothic-arch tracer captured it anteriorly — all deviations within ±1 mm.
 
 (incomplete)
@@ -27,7 +26,6 @@ Cross-sectional clinical comparison (n=34 dentate, stable MIP) using a KaVo Arcu
 (incomplete)
 
 ## 세줄요약
-
 
 단면 임상 비교(안정 MIP 가진 유치악 34명)에서 KaVo Arcus Digma 2 초음파 하악운동분석기로 중심위(CR) 결정법 7가지를 비교: Dawson 양수조작법과 혀끝을 경구개·연구개 경계에 두는 방법이 MIP에서 가장 적게 벗어났고(모든 축에서 유의차 없음), 능동·수동 턱 후퇴는 과두를 후방으로, 고딕아치 트레이서는 전방으로 이동시켰다 — 다만 모든 편차는 ±1 mm 이내.
 

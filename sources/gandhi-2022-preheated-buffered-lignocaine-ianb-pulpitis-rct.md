@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+Double-blind RCT (252 enrolled, 241 analyzed), IANB in teeth with symptomatic irreversible pulpitis: preheated (42°C) 2% lignocaine, buffered (8.4% NaHCO₃) 2% lignocaine, and conventional were compared for intraoperative pain and injection pain.
 
-Double-blind RCT (n=252 enrolled, 241 analyzed), IANB in mandibular SIP teeth: both preheated (42°C) and buffered (8.4% NaHCO3) 2% lignocaine reduced intraoperative VAS far more than conventional (post-op VAS 1.59 and 1.69 vs 3.54, p<0.001) and were statistically equivalent to each other (p=0.183);
+Preheated and buffered lignocaine both reduced intraoperative pain (post-operative VAS 1.59 and 1.69, respectively) compared to conventional (3.54, p<0.001) and were statistically equivalent to each other (p=0.183); preheated also caused the least injection pain (VAS 1.35 vs buffered 2.08 vs conventional 3.19, all pairwise p<0.001).
 
-preheated caused the least injection pain (VAS 1.35 vs buffered 2.08 vs conventional 3.19, all pairwise p<0.001).
-
-(incomplete)
+Both physical (preheating) and chemical (buffering) enhancements prove equally effective for difficult anesthesia in irreversible pulpitis, with preheating offering the additional benefit of reduced needle injection pain.
 
 ## 세줄요약
 
+이중맹검 RCT (등록 252명, 분석 241명), 진통성 불가역적 치수염(SIP) 치아 IANB: preheated(42°C) 2% 리그노카인, buffered(8.4% 중탄산나트륨) 2% 리그노카인, conventional 3군 비교.
 
-이중맹검 RCT (등록 252명, 분석 241명), 하악 SIP 치아 IANB: preheated(42°C)와 buffered(8.4% 중탄산나트륨) 2% 리그노카인 모두 conventional보다 술중 VAS를 크게 감소(술후 VAS 1.59·1.69 vs 3.54, p<0.001)시키며 서로 동등(p=0.183);
+Preheated·buffered 모두 술중 통증(술후 VAS 1.59·1.69)을 conventional(3.54, p<0.001)보다 크게 감소시킴; 두 처리군 간 차이 무(p=0.183); preheated는 주사 통증도 최소(VAS 1.35 vs 2.08 vs 3.19, 모든 쌍 p<0.001).
 
-주사 통증은 preheated가 최소(VAS 1.35 vs buffered 2.08 vs conventional 3.19, 모든 쌍 p<0.001).
-
-(incomplete)
+물리적(가열)·화학적(중탄산염) 강화법 모두 불가역적 치수염 마취에 동등하게 효과적이며, preheating은 주사 통증 경감 추가 이점 제공.
 
 ## 1. Document Information
 

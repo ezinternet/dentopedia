@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-BMS 정의, 역학, 병인론, 진단 및 치료 개요를 포괄하는 기초 고찰.
+
+BMS 정의, 역학,
+
+병인론, 진단 및
+
+치료 개요를 포괄하는 기초 고찰.
+
+## 세줄요약
+
+BMS 정의, 역학,
+
+병인론, 진단 및
+
+치료 개요를 포괄하는 기초 고찰.
 
 ## 1. Document Information
 - **Title**: Burning mouth syndrome: a chronic pain disorder

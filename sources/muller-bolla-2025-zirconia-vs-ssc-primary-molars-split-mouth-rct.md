@@ -18,7 +18,6 @@ literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립. 다기
 
 ## Three-line Summary
 
-
 Abstract-only multicentre split-mouth RCT (105 children, 210 teeth): zirconia crowns and stainless steel crowns had comparable 2-year success (RR 0.99, 95% CI 0.96–1.01;
 
 p=0.350) in primary molars, but zirconia retention was lower (RR 0.95, 95% CI 0.92–0.98;
@@ -26,7 +25,6 @@ p=0.350) in primary molars, but zirconia retention was lower (RR 0.95, 95% CI 0.
 p=0.001); ~2/3 of parents preferred zirconia.
 
 ## 세줄요약
-
 
 abstract-only 다기관 split-mouth RCT(105명, 210치): 유구치에서 지르코니아 크라운과 SSC의 2년 성공률 동등(RR 0.99, 95% CI 0.96–1.01;
 

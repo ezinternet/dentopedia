@@ -36,7 +36,6 @@ pSS군은 미각 기능 유의하게 저하(객관적 총점 4.11 vs 6.11, p<0.0
 
 침 유량은 화학감각 기능장애 심각도와 약한 상관만 있음(저침분비 단독이 아닌 인터페론 경로 염증 기전 병행 시사); 인공 타액 사용률은 4% vs 인공 눈물 81% — 구강 영역의 뚜렷한 저치료 격차.
 
-
 ## Summary
 
 According to PubMed ([DOI 10.1186/s12903-020-01169-5](https://doi.org/10.1186/s12903-020-01169-5)), this comparative cross-sectional study directly measured chemosensory function in 58 primary Sjögren's syndrome (pSS) patients versus 55 age/gender-matched healthy controls, using objective testing (Sniffin' Sticks odor identification, taste-strip gustometry for sweet/sour/salty/bitter) alongside patient-reported outcomes (dysgeusia, burning tongue sensation, halitosis, OHIP-14 quality-of-life score). pSS patients showed markedly worse gustatory function (objective taste-strip score 4.11 vs. 6.11, p<0.0001) and elevated anosmia risk (OR 5.2), plus much higher rates of dysgeusia (52.6% vs. 9.4%) and burning tongue sensation (45.6% vs. 0%) — but no significant difference in halitosis. All chemosensory impairments correlated with significantly worse oral-health-related quality of life across every OHIP-14 sub-domain. Notably, the discussion cites prior evidence that salivary flow rate correlates only weakly with chemosensory dysfunction severity, suggesting the taste/smell impairment in Sjögren's is not simply a passive downstream effect of hyposalivation, but may involve a separate inflammatory mechanism (proposed: interferon-pathway-mediated disruption of taste-bud transduction and turnover) acting in parallel with — not solely through — reduced salivary flow.

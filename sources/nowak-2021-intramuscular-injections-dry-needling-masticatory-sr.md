@@ -15,7 +15,6 @@ Part of a TMD physical-therapy ingest batch. The spray-and-stretch / manual-ther
 
 ## Three-line Summary
 
-
 PICOS/PRISMA systematic review of 28 clinical trials (≥evidence level 1–3) cataloguing intramuscular injection and dry-needling techniques in masticatory muscles for myofascial pain — masseter (65%) and temporalis (27%) dominate, BTX is the most-studied substance, palpation is the main navigation method, and pterygoid (lateral 8%, medial <1%) needling remains scarcely studied and unstandardized.
 
 (incomplete)
@@ -23,7 +22,6 @@ PICOS/PRISMA systematic review of 28 clinical trials (≥evidence level 1–3) c
 (incomplete)
 
 ## 세줄요약
-
 
 근막통증 치료를 위한 저작근 내 주사·드라이니들링 기법을 정리한 임상시험 28편의 체계적 문헌고찰(PICOS/PRISMA) — 교근(65%)·측두근(27%)에 집중, 보툴리눔 독소가 최다 연구 물질, 위치 확인은 촉진(palpation)이 주류이며, 익돌근(외측 8%, 내측 <1%) 니들링은 거의 연구되지 않고 표준화도 안 됨.
 

@@ -19,7 +19,6 @@ text_filename: nam-2014-fess-intraoral-implant-related-sinusitis.txt
 
 ## Three-line Summary
 
-
 Case report (n=1): combined FESS + intraoral (Caldwell-Luc) approach resolved implant-related maxillary sinusitis caused by a 5 mm sinus-intruding implant with ostium obstruction;
 
 10-month follow-up showed full sinus recovery.
@@ -27,7 +26,6 @@ Case report (n=1): combined FESS + intraoral (Caldwell-Luc) approach resolved im
 (incomplete)
 
 ## 세줄요약
-
 
 증례보고 (n=1): 골돌출형 임플란트(5 mm 돌출)로 유발된 상악동 자연공 폐쇄성 상악동염에서 기능적 내시경 부비동 수술(FESS) + 구내접근법 병용 시 10개월 추적에서 완전 회복.
 

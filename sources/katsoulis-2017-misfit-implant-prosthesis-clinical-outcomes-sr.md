@@ -16,7 +16,6 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/28944373/
 
 ## Three-line Summary
 
-
 SR (10 in vivo studies: 5 human + 5 animal): marginal misfit of screw-retained implant-supported fixed dentures is associated with screw-related complications;
 
 biological sequelae (bone loss) could not be confirmed;
@@ -24,7 +23,6 @@ biological sequelae (bone loss) could not be confirmed;
 tolerable misfit limit remains debated.
 
 ## 세줄요약
-
 
 체계적 문헌고찰 (생체내 10편): 나사 유지 임플란트 고정성 보철의 변연 미스피트는 나사 관련 합병증과 연관;
 

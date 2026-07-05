@@ -19,7 +19,6 @@ text_filename: ponzo-2024-presbygeusia-narrative-review.txt
 
 ## Three-line Summary
 
-
 Updated narrative review (15 observational studies of healthy elderly ≥65y vs.
 
 younger controls, ROBINS-I risk-of-bias assessed) concluding presbygeusia (age-related taste alteration without pathology) is a real, relatively frequent phenomenon — driven by reduced fungiform papillae density, taste bud homeostasis decline, altered saliva composition/mucin, central nervous system changes, and oral microbiome shifts — but its clinical impact on dietary choices in the elderly is likely modest, since cultural/psychological/social factors dominate food-preference determination.
@@ -27,7 +26,6 @@ younger controls, ROBINS-I risk-of-bias assessed) concluding presbygeusia (age-r
 (incomplete)
 
 ## 세줄요약
-
 
 최신 내러티브 리뷰(건강한 노인 ≥65세 vs 젊은층 대조군 15편 관찰연구, ROBINS-I 편향위험 평가) — 병리 없는 순수 노화성 미각저하(presbygeusia)는 실재하는 비교적 흔한 현상이며 버섯유두(fungiform papillae) 밀도 감소·미뢰 항상성 저하·침 성분 변화·중추신경계 변화·구강미생물총 변화가 원인이나, 노인 식이선택에 대한 임상적 영향은 문화·심리·사회적 요인이 더 크게 작용해 제한적임.
 

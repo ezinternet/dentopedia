@@ -11,8 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-USPSTF 2022 권고 갱신 (JAMA): 40-59세 ≥10% 10년 CVD 위험 성인 — 저용량 aspirin 1차예방 small net benefit (C grade, 개별 결정); ≥60세 — 신규 시작 권고 안 함 (출혈 위험 > 이득, D grade). 2016 권고에서 후퇴.
 
+USPSTF 2022 권고 갱신 (JAMA): 40-59세 ≥10% 10년 CVD 위험 성인
+
+저용량 aspirin 1차예방 small net benefit (C grade, 개별 결정); ≥60세
+
+신규 시작 권고 안 함 (출혈 위험 > 이득, D grade). 2016 권고에서 후퇴.
+
+## 세줄요약
+
+USPSTF 2022 권고 갱신 (JAMA): 40-59세 ≥10% 10년 CVD 위험 성인
+
+저용량 aspirin 1차예방 small net benefit (C grade, 개별 결정); ≥60세
+
+신규 시작 권고 안 함 (출혈 위험 > 이득, D grade). 2016 권고에서 후퇴.
 
 ## 1. Document Information
 - Authors: USPSTF (US Preventive Services Task Force)

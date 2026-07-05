@@ -18,7 +18,6 @@ Empirical measurement of patient safety culture in dental settings, quantifying 
 
 ## Three-line Summary
 
-
 Cross-sectional survey (modified MOSPSC, 4 US dental institutions, n=656, 40.6% response) finding medical institutions outperform dental on 9/10 safety-culture dimensions, with dental clinics strongest in organizational learning (85%) and teamwork (79%).
 
 (incomplete)
@@ -26,7 +25,6 @@ Cross-sectional survey (modified MOSPSC, 4 US dental institutions, n=656, 40.6% 
 (incomplete)
 
 ## 세줄요약
-
 
 미국 4개 치과기관 단면조사(수정 MOSPSC 설문, n=656, 응답률 40.6%): 의료기관이 10개 안전문화 영역 중 9개에서 치과를 앞섰고, 치과는 조직학습(85%)·팀워크(79%)에서 가장 강점을 보였다 (초록 전용 — 전문 미확보).
 

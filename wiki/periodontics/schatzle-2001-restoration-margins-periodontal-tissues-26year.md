@@ -32,7 +32,6 @@ The 26-year dataset is among the strongest prospective confirmations that subgin
 
 치은연하 변연의 치주적 해로움에 대한 가장 강력한 전향 증거 중 하나이나, 단일 인구집단(북유럽 남성, 구형 재료)·상당한 탈락자 한계 있음.
 
-
 ## Summary
 
 This is one of the longest prospective datasets on the perio-restorative interface. Drawing on the Norwegian natural-history-of-periodontitis cohort, the authors tracked mesial sites of premolars/molars in 160 well-maintained males across 7 examinations over 26 years (1969–1995). Sites that acquired a subgingival filling margin (>1 mm subgingival) between 1969 and 1971 (test, n=98) were compared with sites that stayed sound or kept margins >1 mm from the gingival margin throughout (control, n=615). Subgingival margins were associated with significantly higher plaque and gingival inflammation at nearly every survey and with greater loss of attachment. The damage was not immediate: it began slowly and became clinically detectable 1–3 years after the restoration was placed, then showed a "burn-out" (plateau) effect. The study confirms the long-held clinical principle that subgingival restoration margins are detrimental to periodontal tissues, primarily via plaque retention.

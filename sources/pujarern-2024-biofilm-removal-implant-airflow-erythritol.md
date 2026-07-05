@@ -15,7 +15,6 @@ Peri-implantitis 비수술/유지 단계의 핵심은 임플란트 표면 생물
 
 ## Three-line Summary
 
-
 In-vitro study (33 Dentium SuperLine II implants, 3 groups of n=11) showing both sodium bicarbonate (40 µm) and erythritol (14 µm) air-abrasion powders removed biofilm far better than untreated control (mean OD 0.130 and 0.129 vs 0.728;
 
 p<0.05) with no significant difference between the two powders (p>0.05) — supporting smaller-particle erythritol as the preferred choice for lower surface damage.
@@ -23,7 +22,6 @@ p<0.05) with no significant difference between the two powders (p>0.05) — supp
 (incomplete)
 
 ## 세줄요약
-
 
 체외(in-vitro) 연구(임플란트 33개, 3군 각 n=11): 탄산수소나트륨(Sodium Bicarbonate, SB, 40 µm)과 에리스리톨(Erythritol, ERY, 14 µm) 두 air-abrasion 파우더 모두 무처치 대조군 대비 생물막을 훨씬 잘 제거(평균 광학밀도 OD 0.130·0.129 vs 0.728;
 

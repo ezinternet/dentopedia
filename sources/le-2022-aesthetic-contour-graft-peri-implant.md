@@ -15,7 +15,6 @@ source_collection: external
 
 ## Three-line Summary
 
-
 Clinical article describing the "Aesthetic Contour Graft" concept — using GBR (particulate allograft + collagen membrane) to augment underlying labial/ridge bone contour and thereby enhance peri-implant soft tissue emergence profiles and pontic sites, sometimes obviating separate soft tissue grafts.
 
 (incomplete)
@@ -23,7 +22,6 @@ Clinical article describing the "Aesthetic Contour Graft" concept — using GBR 
 (incomplete)
 
 ## 세줄요약
-
 
 임상 논문: GBR로 순측 골 윤곽을 증대("Aesthetic Contour Graft")함으로써 임플란트 주위 연조직 출현 윤곽 및 폰틱 부위 심미성을 개선하며, 경우에 따라 별도의 연조직 이식 없이도 2-3 mm 연조직 두께 확보 가능.
 

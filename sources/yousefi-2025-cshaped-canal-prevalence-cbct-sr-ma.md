@@ -15,7 +15,6 @@ This 101-study SR+MA is the highest-evidence anchor for C-shaped canal prevalenc
 
 ## Three-line Summary
 
-
 Systematic review + meta-analysis of 101 CBCT studies (from 5548 screened): highest C-shaped canal prevalence in mandibular second molars (17.3%), lowest in maxillary first molars (0.8%);
 
 female predominance in mandibular second molars (23.6% vs 16.7%);
@@ -23,7 +22,6 @@ female predominance in mandibular second molars (23.6% vs 16.7%);
 highest in the Asian continent; right/left difference not significant (21.2% vs 23.1%).
 
 ## 세줄요약
-
 
 CBCT 연구 101편(5548편 스크리닝) 체계적 문헌고찰+메타분석: C-shaped 근관 유병률은 하악 제2대구치에서 최고(17.3%), 상악 제1대구치에서 최저(0.8%);
 

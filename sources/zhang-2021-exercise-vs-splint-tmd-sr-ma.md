@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-SR+MA comparing exercise therapy to occlusal splints for painful TMD; found exercise therapy equivalent or superior for pain relief and MMO improvement, suggesting it as a viable non-appliance alternative.
 
+SR+MA comparing exercise therapy to occlusal splints for painful
+
+TMD; found exercise therapy equivalent or superior for pain
+
+relief and MMO improvement, suggesting it as a viable non-appliance alternative.
+
+## 세줄요약
+
+SR+MA comparing exercise therapy to occlusal splints for painful
+
+TMD; found exercise therapy equivalent or superior for pain
+
+relief and MMO improvement, suggesting it as a viable non-appliance alternative.
 
 ## 1. Document Information
 - **Journal**: Annals of Palliative Medicine 2021;10(6):6122–6132

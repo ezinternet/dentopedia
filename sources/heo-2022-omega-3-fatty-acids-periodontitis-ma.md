@@ -18,7 +18,6 @@ The wiki's periodontics cluster covers mechanical (SRP/GBT) and antimicrobial ad
 
 ## Three-line Summary
 
-
 Meta-analysis of 13 RCTs: omega-3 fatty acid intake (supplement or diet) as an intervention in periodontitis gave statistically significant PPD reduction (−0.44 mm), CAL gain (−0.51 mm), and BOP reduction (−9.45%);
 
 low risk of bias, no publication bias.
@@ -26,7 +25,6 @@ low risk of bias, no publication bias.
 (incomplete)
 
 ## 세줄요약
-
 
 13편 RCT 메타분석 — 오메가-3 지방산(보충제·식이)이 치주염에서 통계적으로 유의한 치주낭 깊이 감소(−0.44 mm), 임상부착수준 획득(−0.51 mm), 탐침시 출혈 감소(−9.45%)를 보였고, 비뚤림 위험 낮고 출판 비뚤림 없음.
 

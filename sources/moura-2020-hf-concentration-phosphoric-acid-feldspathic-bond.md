@@ -15,7 +15,6 @@ HF 농도(5% vs 10%), 에칭 시간(60 vs 120초), 인산 처리+중화(소다�
 
 ## Three-line Summary
 
-
 In vitro study (n=80, 8 groups, 3-way ANOVA): only HF concentration was significant — 10% HF yielded higher shear bond strength than 5%;
 
 etching time (60 vs 120 s) and phosphoric acid + sodium bicarbonate neutralization did not influence bond strength.
@@ -23,7 +22,6 @@ etching time (60 vs 120 s) and phosphoric acid + sodium bicarbonate neutralizati
 (incomplete)
 
 ## 세줄요약
-
 
 인 비트로 연구 (n=80, 8그룹, 3요인 분산분석): HF 농도만 유의미한 변수 — 10% HF가 5% HF보다 높은 전단결합강도;
 

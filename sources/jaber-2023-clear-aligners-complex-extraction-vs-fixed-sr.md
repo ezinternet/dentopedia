@@ -19,7 +19,6 @@ text_filename: jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.txt
 
 ## Three-line Summary
 
-
 SR (6 trials, n=283, premolar-extraction/complex cases): clear aligners and fixed appliances reach equivalent ABO-OGS/PAR outcomes, but fixed appliances achieve better buccolingual inclination and occlusal contacts in shorter time, while aligners show notable predicted-vs-achieved discrepancies in extraction cases.
 
 (incomplete)
@@ -27,7 +26,6 @@ SR (6 trials, n=283, premolar-extraction/complex cases): clear aligners and fixe
 (incomplete)
 
 ## 세줄요약
-
 
 SR(6편, n=283, 소구치 발치/복잡): CA와 FA의 ABO-OGS/PAR 결과는 동등하나, FA가 buccolingual inclination·교합접촉이 더 좋고 기간이 짧음.
 

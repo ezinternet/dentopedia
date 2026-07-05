@@ -17,7 +17,6 @@ full_text: false
 
 ## Three-line Summary
 
-
 SR+MA (22 trials, n≥196): Ti mesh VRA = 3.36 mm vertical / 3.26 mm horizontal bone gain;
 
 pooled complication rate 10.8%, most common = mesh exposure;
@@ -25,7 +24,6 @@ pooled complication rate 10.8%, most common = mesh exposure;
 non-inferior to collagen membrane for horizontal gain.
 
 ## 세줄요약
-
 
 SR+MA (22편, n≥196): 티타늄 메쉬 골증대 = 수직 3.36 mm / 수평 3.26 mm;
 

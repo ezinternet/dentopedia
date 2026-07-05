@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Mini-review (in vivo 2021, 35:3011–3017) categorizing internal (drill properties, parameters) and external (cooling, irrigation, bone) factors influencing heat development during medical/dental drilling, plus a discussion of standardized ex vivo measurement methods to reduce animal experimentation.
+
+Mini-review (in vivo 2021, 35:3011–3017) categorizing internal (drill properties, parameters) and
+
+external (cooling, irrigation, bone) factors influencing heat development during medical/dental drilling,
+
+plus a discussion of standardized ex vivo measurement methods to reduce animal experimentation.
+
+## 세줄요약
+
+미니 리뷰 (in vivo 2021): 의료·치과 시추 시 열 발생에 영향을 미치는 내부(시추기 특성·매개변수) 및 외부(냉각·관수·골) 요인 분류
+
+표준화된 ex vivo 측정 방법을 통해 동물실험 감소 제안
+
+임계값 47°C, 드릴 직경·형태·재료가 주요 내부 요인, 교정된 측정 프로토콜 필요.
 
 ## 1. Document Information
 - Journal: in vivo, 2021;35:3011–3017

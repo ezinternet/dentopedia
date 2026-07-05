@@ -15,7 +15,6 @@ Documents a rare C-shaped variant in the mandibular FIRST molar (the wiki's prev
 
 ## Three-line Summary
 
-
 Case report (CBCT-confirmed) of bilateral C-shaped mandibular first molars — the first documented mandibular first molar with four separate canals (two mesial + two distal) inside a single fused C-shaped root.
 
 (incomplete)
@@ -23,7 +22,6 @@ Case report (CBCT-confirmed) of bilateral C-shaped mandibular first molars — t
 (incomplete)
 
 ## 세줄요약
-
 
 양측 하악 제1대구치 C-shaped 근관 증례(CBCT 확진) — 융합된 단일 C-shaped 근 내에 4개의 분리된 근관(근심 2 + 원심 2)을 가진 최초 보고 하악 제1대구치.
 

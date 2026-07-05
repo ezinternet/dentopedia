@@ -10,8 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-CBCT-based proposal of classification criteria for inter-radicular septum shape in maxillary molars, with explicit linkage to prosthetic-driven IIP planning.
 
+CBCT-based proposal of classification criteria for
+
+inter-radicular septum shape in maxillary molars,
+
+with explicit linkage to prosthetic-driven IIP planning.
+
+## 세줄요약
+
+CBCT-based proposal of classification criteria for
+
+inter-radicular septum shape in maxillary molars,
+
+with explicit linkage to prosthetic-driven IIP planning.
 
 ## 1. Document Information
 - **Title:** Criteria for the Classification of the Interradicular Septum Shape in Maxillary Molars with Clinical Importance for Prosthetic-Driven Immediate Implant Placement

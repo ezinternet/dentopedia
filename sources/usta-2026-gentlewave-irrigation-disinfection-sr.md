@@ -15,7 +15,6 @@ The GentleWave® (GW) multisonic system is promoted for conservative (small apic
 
 ## Three-line Summary
 
-
 Systematic review (12 in-vitro studies, QUIN tool, narrative synthesis) of GentleWave vs conventional/advanced irrigation: GW gave significantly higher LPS/LTA reduction than PUI and generally better biofilm/smear removal, but superiority was inconsistent across studies (some favored optimized PUI;
 
 Er:YAG comparable for debris), with cost/heterogeneity limiting clinical interpretation.
@@ -23,7 +22,6 @@ Er:YAG comparable for debris), with cost/heterogeneity limiting clinical interpr
 (incomplete)
 
 ## 세줄요약
-
 
 GentleWave를 기존·고급 세정법과 비교한 in vitro 12편 체계적 문헌고찰(QUIN 도구, 서술적 종합): GW는 PUI보다 LPS/LTA 감소가 유의하게 컸고 biofilm·smear 제거도 대체로 우수했지만, 우월성은 연구마다 일관되지 않았고(최적화된 PUI가 동등·우수한 경우, Er:YAG는 debris 제거 동등), 비용·이질성 때문에 임상적 결론은 제한적이다.
 

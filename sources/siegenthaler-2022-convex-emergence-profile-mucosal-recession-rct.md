@@ -19,7 +19,6 @@ The emergence-profile shape (convex vs concave) of an implant provisional/final 
 
 ## Three-line Summary
 
-
 3-arm RCT (n=47 implants, anterior;
 
 convex vs concave emergence vs healing-abutment control): at 12 months, mid-facial mucosal recession occurred in 64.3% of convex, 14.3% of concave, and 31.4% of control sites;
@@ -27,7 +26,6 @@ convex vs concave emergence vs healing-abutment control): at 12 months, mid-faci
 convex carried ~13× higher odds of recession vs concave (OR 12.69, 95% CI 1.89–88.48, p=.01).
 
 ## 세줄요약
-
 
 3군 RCT (임플란트 47개, 전치부;
 

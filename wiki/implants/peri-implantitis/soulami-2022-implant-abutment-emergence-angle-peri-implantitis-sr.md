@@ -32,8 +32,6 @@ Evidence supports a restorative bias toward smaller emergence angles and concave
 
 보철 설계 측면에서 골수준 임플란트는 작은 출현각과 오목/직선형 윤곽이 구강위생 접근성 개선 및 변연골소실 감소에 유리하나, 인과성은 미확립.
 
-
-
 ## Summary
 
 Prosthetic design is an increasingly recognised but under-quantified peri-implantitis risk axis. This ACTA systematic review isolated two restorative parameters — the implant-abutment emergence angle (EA) and the emergence profile (EP) — and asked whether they relate to peri-implant disease. From 1116 titles only 3 studies qualified, so no meta-analysis was possible. The convergent signal: in bone-level implants, an EA >30° carries significantly higher peri-implantitis prevalence than EA <30°, and a convex EP is associated with higher prevalence (especially when combined with EA >30°). Because the evidence is thin and observational, the review frames these as associations, not causes. Clinically it supports a restorative bias toward smaller emergence angles and concave/straight profiles, particularly for bone-level implants, to ease hygiene access and limit MBL.

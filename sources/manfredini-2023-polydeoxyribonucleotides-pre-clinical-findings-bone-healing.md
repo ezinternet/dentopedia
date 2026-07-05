@@ -15,8 +15,19 @@ PDRN의 골치유 효과에 대한 preclinical literature를 systematic하게 �
 
 ## Three-line Summary
 
-PDRN preclinical bone healing 문헌의 scoping review. In vitro에서 osteoblastic proliferation·differentiation 촉진이 비교적 일관, animal study에서 new bone formation·vascularization 향상이 보고됨. 다만 dose·vehicle·timing의 표준화 부재.
+PDRN preclinical bone healing 문헌의 scoping review.
 
+In vitro에서 osteoblastic proliferation·differentiation 촉진이 비교적 일관, animal study에서 new bone formation·vascularization 향상이 보고됨.
+
+다만 dose·vehicle·timing의 표준화 부재.
+
+## 세줄요약
+
+PDRN preclinical 골 (Bone) healing 문헌의 scoping review.
+
+In vitro에서 osteoblastic proliferation·differentiation 촉진이 비교적 일관, animal study에서 new 골 (Bone) formation·vascularization 향상이 보고됨.
+
+다만 dose·vehicle·timing의 표준화 부재.
 
 ## 1. Document Information
 
