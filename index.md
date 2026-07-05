@@ -1687,6 +1687,11 @@ tags: []
 - [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] — Hwanhee Song 2023 (대한치과의사협회지 특집) · narrative-review · TMJ OA 기전(과부하→저산소증/HIF-1→VEGF·MMP)·역학(여성·고령 우세하나 비일관)·진단(CT gold standard κ=0.71 vs MRI 0.46 vs 파노라마 0.16; DC/TMD 임상 민감도 0.55·특이도 0.61; 침식·연골하낭종이 단순 편평화보다 진단적)
 - [[tmj/macias-hernandez-2022-home-based-exercise-tmj-osteoarthritis]] — Macías-Hernández 2022 (대한구강악안면외과학회지 JKAOMS) · prospective(단일군 전후비교, n=15명·26관절, 임상+방사선 확진 TMJ OA) · 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동·강화운동) → 통증·Helkimo 기능지수 중증→경증 유의개선(p=0.001), NSAID 사용 미미, 초음파 관절원판 관찰률 증가
 - [[tmj/valesan-2021-tmd-prevalence-sr-ma]] — SR+MA: 악관절증(TMD) 유병률 ~31%, 통증성 TMD ~11–13%; 여성 1.5–2배, 20–45세 호발
+- [[tmj/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct]] — 근막통증증후군 4군 RCT (n=80): 초음파·SS VAS 1.1 vs 저작근 운동 VAS 4.7 (p=0.013), 5개월 시점 운동 범위 동등
+- [[tmj/sa-2024-conservative-invasive-tmd-disc-displacement-sr]] — 성인 TMD 디스크 변위 환자 대상 보존적·최소침습·수술 치료 비교 RCT 38편 SR; 7개 치료군 모두 통증↓·MMO↑ 효과, HILT 통증 48% 감소로 TENS 대비 우수, 단계적 보존치료 우선 원칙 지지
+- [[tmj/emshoff-2026-subchondral-bone-splint-tmd-arthralgia-cbct]] — CBCT SBA 중증도가 TMJ 관절통 스플린트 6개월 기능 결과 예측: 중증 SBA군 JFLS-M 개선 불량 (p=0.027), n=109
+- [[tmj/gu-2025-cad-cam-splint-manual-therapy-addwor-retrospective]] — ADDwoR 환자 65명 후향적 비교: CAD/CAM 스플린트+도수치료 병용군이 MMO·VAS·MFIQ 전 항목에서 스플린트 단독·건강교육군보다 3개월 시점 유의하게 우월 (p<0.05)
+- [[tmj/cimino-2025-counselling-vs-splint-tmd-neck-pain-rct]] — RCT n=51, 교합안정장치 추가 vs 상담 단독: 목통증 VAS(-7~8mm)·NDI(-3~4점) 양군 동등 개선, 군간 차이 없음(p>0.57)
 - [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] — RCT SR: 교합안정장치(Occlusal Splint)가 무처치 대비 통증 감소; 플라시보 장치 대비 우월성 근거 낮음 (Acta Odontol Scand 2020)
 - [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] — SR+MA: 운동치료가 교합안정장치와 동등한 통증 감소; MMO 개선 일부 우위 (Ann Palliat Med 2021)
 - [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] — Cochrane SR: 교합 중재 전반 근거 매우 낮음; 비가역적 교합처치 강력 반대 (Cochrane 2024)
