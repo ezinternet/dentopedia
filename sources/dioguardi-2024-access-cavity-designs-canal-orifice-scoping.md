@@ -27,6 +27,10 @@ PRISMA-ScR scoping review(3,697편 선별, 10편 포함) — 보존적 근관 �
 
 보존적 와동이 근관 누락·잔존 이물 위험을 높일 수 있다는 점은 복잡 근관계(예: MB2, C형 근관)에서 임상적으로 중요하나, 표준화된 결과지표로 한 전향적 비교 연구 부족.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/endodontic-access-cavity-decision-tree]]에서 확인되는 현재 역할을 백필.] [[overviews/endodontic-access-cavity-decision-tree]] Related Work에서 kapetanaki-2021(narrative)·ribeiro-2022(가이드 근관치료)와 함께 ConsAC vs TradAC 논쟁의 scoping-review 근거 — 보존적 접근의 debris 잔존 위험을 정량화해 MB2 탐지 전략([[overviews/mb2-detection-strategy]])과 맞물리는 근거 축.
+
 ## 1. Document Information
 University of Foggia group. PRISMA-ScR scoping review on access cavity design effect on canal orifice localization and debris presence.
 
