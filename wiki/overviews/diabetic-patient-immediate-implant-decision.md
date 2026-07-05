@@ -10,6 +10,8 @@ relations:
     target: andrade-2021-survival-rate-peri-implant-evaluation
   - type: reinforces
     target: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
+  - type: reinforces
+    target: li-2026-safety-feasibility-immediate-implant-diabetic
 ---
 
 > [!summary] 한국어 핵심요약
@@ -23,6 +25,7 @@ relations:
 > - **부위가 이 결정의 진짜 리스크 축**: 상악 구치부(#16·#26 등) IIP는 (a) 당뇨 실패 신호가 몰린 상악 + (b) 저골질·상악동 인접이라 이중으로 취약 → 가장 방어적 조합은 **혈당 최적화 → 즉시식립 + 지연부하 + 강화 SPT**.
 > - **하악 구치부**라면 당뇨 실패 신호가 비유의하므로 문턱이 낮아짐 — 8–9% gray-zone에서도 상대적으로 관대하게 진행 가능.
 > - **임상 프로토콜**: 술전 HbA1c 확인 → 8–9%면 아목시실린(Amoxicillin) 2g 술전 + 클로르헥시딘(Chlorhexidine, CHX) 0.12% 2주 + osseointegration 시간 연장 + 지연부하; 매 리콜 MBL 추적(장기적으로 gap 확대); 주위염 지표(BOP/PD) 집중 관리.
+> - **IIP 특화 확증**: 리(Li) 2026 SR+MA(10편, 임플란트 1,623개)는 즉시식립(IIP)만 놓고 봐도 생존율은 혈당조절 무관 동등(RR 1.00/0.96, 비유의)하나, 변연골소실(MBL)·탐침출혈(BOP)은 혈당조절이 나쁠수록 유의하게 증가(불량군 MBL +0.39mm, BOP +0.24)함을 확인 — Al-Ansari의 "생존은 유지, 골·염증 지표는 악화" 구도를 IIP 맥락에서 재확인.
 > - **면책**: 의사결정 지원용 — 최종 임상 판단·책임은 술자에게 있다.
 
 ## Three-line Summary
@@ -33,13 +36,15 @@ The two governing SR+MAs conflict: Andrade 2021 finds no survival penalty for im
 
 Immediate placement technique itself achieves ~97–98% molar-socket survival equal to delayed placement provided inter-radicular septum anchorage is achieved (Ragucci 2020), so the risk axes are the host (HbA1c) and site (maxilla vs mandible), not immediacy per se; in the 8–9% gray zone at a maxillary posterior site the safest combination is glycemic optimization → immediate placement + delayed loading + intensified SPT with MBL tracking.
 
+A fifth paper, Li 2026 (SR+MA, 10 studies, 1,623 implants), narrows the question specifically to IIP (rather than implants generally): survival is statistically equal regardless of glycemic control (RR 1.00 well-controlled / 0.96 poorly-controlled, both NS), but MBL and bleeding-on-probing rise significantly with poorer control (poorly-controlled MBL MD=0.39mm, BOP MD=0.24, both P<0.00001) — reconfirming, within the IIP-specific literature, the same "survival holds, peri-implant health degrades" pattern Al-Ansari established for implants broadly.
+
 ## 세줄요약
 
 당뇨 환자 즉시식립 가부를 여러 논문으로 종합한 페이지: DM은 절대 금기가 아니며, 결정은 **HbA1c 밴드(<8%/8–9%/≥9%)** 와 **부위(상악은 당뇨 실패 유의, 하악은 비유의)** 로 갈린다 — 두 SR+MA는 단기·하악 생존에선 일치하나 상악·장기 위험에선 충돌한다.
 
-(incomplete)
+즉시식립(IIP)에 특화한 리(Li) 2026 SR+MA는 혈당조절 수준과 무관하게 생존율이 동등함을 재확인했으나, 변연골소실·탐침출혈은 혈당조절이 나쁠수록 유의하게 악화됨을 보였다.
 
-(incomplete)
+임상적으로는 여전히 "생존은 보장되나 골·연조직 건강은 혈당관리에 달렸다"는 결론이 강화되며, HbA1c 관리·강화된 유지관리(SPT)의 중요성이 재확인된다.
 
 ## Summary
 
@@ -93,11 +98,12 @@ Diabetic patient, considering immediate implant
 | Overall DM failure risk & site | [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] | sr+ma | OR 1.777; maxilla only; MBL +0.776 mm |
 | Immediate *loading* in DM2 | [[drug/systemic-disease/andrade-2021-survival-rate-peri-implant-evaluation]] | sr+ma | RR 1.00 (uncontrolled 1.08); MBL MD −0.08 mm |
 | Immediate *placement* technique (molar) | [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] | sr+ma | survival ~97–98%; septum anchorage key |
+| IIP-specific DM outcomes, glycemic-control gradient | [[immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic]] | sr+ma | survival RR 1.00/0.96 (NS); MBL/BOP worsen with poor control |
 
 ## Gray Zone / Open Questions
 
 - **Andrade ↔ Al-Ansari** conflict is unresolved for the maxilla long-term: short follow-up (≤24 mo) in most immediate-loading data means the DM failure signal (which manifests late, via MBL) may be under-captured. Weight Al-Ansari for maxillary/long-term decisions.
-- No wiki paper isolates **immediate placement + immediate loading + uncontrolled DM + maxilla** as a single stratum — the recommendation composes across pages rather than resting on one head-to-head trial.
+- No wiki paper isolates **immediate placement + immediate loading + uncontrolled DM + maxilla** as a single stratum — the recommendation composes across pages rather than resting on one head-to-head trial. Li 2026 confirms the glycemic-control gradient holds within IIP specifically, but does not stratify by site (maxilla vs mandible), so it narrows the *technique* question without resolving the *site* question.
 - Whether tightening HbA1c *before* surgery changes hard outcomes (vs concurrent management) is not directly answered by these pages.
 
 ## Related Overviews
