@@ -27,11 +27,11 @@ Randomized controlled crossover trial (n=73 adults, each patient own control acr
 
 ## 세줄요약
 
-성인 임플란트 수술 RCT 교차설계(n=73, 환자 자신이 대조군) — 고해상도 헤드셋·자연영상 VR이 무(無)VR 대비 경험 통증(NRS −1.71)·상태불안(STAI-S −3.45)·치과불안(MDAS −4.55)을 유의하게 낮췄고 생리지표(EMG·심박·GSR)로 검증, 90.4%가 재사용 희망.
+성인 임플란트 수술 무작위 대조 시험 (Randomized Controlled Trial, RCT) 교차설계 (n=73, 환자가 자신의 대조군 — 양쪽 제1대구치 중 한쪽은 VR, 한쪽은 무VR).
 
-(incomplete)
+고해상도 가상현실 (Virtual Reality, VR) 헤드셋·자연영상 콘텐츠가 무VR 대비 경험 통증 (Numeric Rating Scale, NRS −1.71), 상태불안 (State-Trait Anxiety Inventory, STAI-S −3.45), 치과불안척도 (Modified Dental Anxiety Scale, MDAS −4.55)를 유의하게 감소.
 
-(incomplete)
+객관적 심리생리지표 (근전도 EMG, 심박수, 피부전도반응 GSR)로 검증되었으며, 환자 90.4%가 향후 VR 재사용 희망.
 
 ## 1. Document Information
 

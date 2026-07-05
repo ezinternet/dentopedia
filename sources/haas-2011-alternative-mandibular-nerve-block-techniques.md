@@ -26,11 +26,11 @@ Review: the Gow-Gates mandibular nerve block (open-mouth, anesthetic deposited n
 
 ## 세줄요약
 
-리뷰: Gow-Gates 하악신경차단(개구위, 정원공을 나온 삼차신경 부근·하악과두경 근처에 마취제 침착)과 Akinosi-Vazirani 폐구위 차단(익돌하악강을 마취제로 채움)은 표준 IANB의 신뢰할 만한 대안이며, 해부학적 변이·부가신경 지배로 IANB 실패 이력이 있는 환자에 특히 유용하다.
+서술적 리뷰 — 표준 하악신경차단 (Inferior Alveolar Nerve Block, IANB) 실패 환자에 대한 두 가지 대안 기법 비교.
 
-(incomplete)
+Gow-Gates 기법: 개구위, 하악과두경 경근처·정원공 근처 삼차신경 삼차신경에 근접하여 신경간간(더 근위에서 차단); Akinosi-Vazirani 폐구위 기법: 익돌하악강 (Pterygomandibular Space)을 마취제로 채워 신경을 차단.
 
-(incomplete)
+해부학적 변이·부가신경 지배로 표준 IANB 실패 이력이 있는 환자에 특히 유용한 신뢰할 만한 대안.
 
 ## 1. Document Information
 

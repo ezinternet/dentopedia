@@ -27,11 +27,11 @@ core material type had no effect — findings that closely replicate Izadi et al
 
 ## 세줄요약
 
-인비트로 파절저항 연구 (하악 소구치 90개, 9군×10): FRC post군 통합 파절하중이 ParaPost군보다 유의하게 높음 (380.1 vs 262.8 N, P<0.05);
+시험관내 (In-vitro) 파절저항 연구 (하악 소구치 90개, 9개군 × n=10/군) — 근관 치료 치아를 ParaPost 및 섬유강화복합수지 (Fiber-Reinforced Composite, FRC) post로 복원한 후 통합파절하중 비교.
 
-core 재료 종류는 무관 — Izadi 등 2020을 매우 근접하게 재현한 결과.
+FRC post군 평균 파절하중이 ParaPost군보다 유의하게 높음 (380.1 vs 262.8 N, P<0.05); core 재료 종류 (LuxaCore, Photo Core, Core Max II) 간에는 영향 무관.
 
-(incomplete)
+결론이 선행 연구 (Izadi et al. 2020)를 매우 근접하게 재현하여, FRC > metal post 파절저항 우위를 재확인.
 
 ## 1. Document Information
 

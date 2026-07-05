@@ -23,11 +23,11 @@ Narrative review (2014) tracing dental implant history from ancient civilization
 
 ## 세줄요약
 
-서사적 총론(2014): 고대 문명부터 현대 티타늄 골내 임플란트까지의 역사, 거시/미세 설계 파라미터, 표면처리 전략(하이드록시아파타이트 코팅, 샌드블라스팅, 산 에칭, 양극산화), 신흥 트렌드(약물전달, 성장인자, 생체모방 표면)를 종합 정리.
+서사적 총론 (Narrative Review, 2014) — 고대 문명부터 현대 티타늄 골내 임플란트 (Endosseous Implant)까지의 역사, Brånemark 골결합 발견 (1957)을 포함.
 
-(incomplete)
+거시설계 (Macro Design) 파라미터 (나선·몸체 모양), 미세설계 (Micro Design) 파라미터, 임플란트-지대주 연결 유형을 체계적으로 분류; 표면처리 전략 (하이드록시아파타이트 코팅, 샌드블라스팅, 산-에칭, 양극산화 (Anodization)) 종합.
 
-(incomplete)
+신흥 트렌드: 임플란트 표면으로부터의 약물전달 (Drug Delivery), 골형성단백질·혈관내피성장인자·RGD 펩타이드를 이용한 생체모방 코팅 (Biomimetic Coating) 및 표면 기능화.
 
 ## 1. Document Information
 

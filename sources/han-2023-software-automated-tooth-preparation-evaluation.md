@@ -23,11 +23,11 @@ SAE showed perfect intra-rater agreement (vs moderate-to-good for human digitall
 
 ## 세줄요약
 
-In-vitro 타당성 연구(대학원생이 형성한 하악 제1대구치 35개): computational geometric algorithm 기반 자동 평가(SAE)로 crown 형성치의 교합면 삭제량·축면 경사(TOC)를 평가했더니, 인간의 디지털 보조 평가(DAE)는 moderate~good 내적 일치였던 반면 SAE는 완벽한 내적 일치를 보였고 SAE–DAE 간 일치도도 거의 완벽했다.
+시험관내 타당성 연구 (대학원생이 형성한 하악 제1대구치 35개, 디지털 스캔) — computational geometric algorithm 기반 소프트웨어 자동 평가 (Software-based Automated Evaluation, SAE)의 신뢰성과 효율성을 검증.
 
-(incomplete)
+SAE 평가: crown 형성치의 교합면 삭제량 (Occlusal Reduction, OR)·전체 축면 수렴 (Total Occlusal Convergence, TOC)·변연 너비를 자동 계산; 인간 디지털 보조 평가 (Digitally Assisted Evaluation, DAE)는 moderate–good 내적 일치 (ICC), SAE는 완벽한 일치 (ICC 1.0), SAE–DAE 간 일치도 거의 완벽 (κ 0.95–1.0).
 
-(incomplete)
+형성치 평가의 일관성 문제 (rater 편차)를 computational algorithm으로 해결; 대학 치과 커리큘럼·형성 교육 질 관리에 적용 가능.
 
 ## 1. Document Information
 

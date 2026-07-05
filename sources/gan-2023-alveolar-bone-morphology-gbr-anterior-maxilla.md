@@ -23,11 +23,11 @@ Retrospective study (n=28) in anterior maxilla showing bone concavity depth ≥1
 
 ## 세줄요약
 
-전방 상악 지연 임플란트+GBR 28명 후향적 연구 — 골오목 깊이 ≥1.03 mm, 각도 <155.3°에서 이식재 흡수율이 유의하게 낮아 GBR 예후 예측 변수로 확인.
+전방 상악 동시 GBR+임플란트 28명 후향적 연구 — 술전 CBCT 기반 골형태학적 변수 (골오목 깊이·각도)를 추출하여 GBR 결과를 예측.
 
-(incomplete)
+골오목 깊이 (Bone Concavity Depth) ≥1.03 mm, 각도 (Bone Concavity Angle) <155.3° 환자에서 이식재 흡수율 (Resorption Rate of Grafted Bone, RRGB) 유의하게 저하 (6개월 평균 RRGB ~50%); 예후 예측 가능한 케이스 선택 변수 제시.
 
-(incomplete)
+성별, 연령, 이식재 종류, 임플란트 각도/브랜드와는 무관한 독립적 예측 인자 확인.
 
 ## 1. Document Information
 

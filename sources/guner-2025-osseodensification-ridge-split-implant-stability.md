@@ -27,11 +27,11 @@ bone gain was equivalent.
 
 ## 세줄요약
 
-후향적 연구(268개 임플란트, 65명): OD는 상악 및 하악 구치부에서 유의하게 높은 ISQ를 보였고 모든 OD 임플란트가 ISQ ≥65를 유지했으나, 골폭 획득은 기존 방법과 동등했다.
+후향적 임상 연구 (268개 임플란트, 65명 환자) — 치조골 분할술 (Alveolar Ridge Split) 동시 임플란트에서 골밀도화 (Osseodensification, OD) 대 표준 드릴링 비교.
 
-(incomplete)
+OD는 상악 및 하악 구치부에서 유의하게 높은 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)를 달성하였고, 모든 OD 임플란트가 조기 로딩 적정 기준 (ISQ ≥65) 상회 (최저값 68), 기존 군은 최저값 62.
 
-(incomplete)
+골폭 획득량 (Horizontal Bone Gain) 차이 없음 (NS); OD가 안정성 이점을 제공하면서도 증대 효율성 유지.
 
 ## 1. Document Information
 - **Title:** Comparing the Effect of Osseodensification Versus Conventional Drilling Technique on Implant Stability and Bone Width in the Alveolar Ridge Split Procedure: A Retrospective Study
