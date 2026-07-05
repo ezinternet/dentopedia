@@ -25,6 +25,10 @@ source_collection: external
 
 구치부 전관 5년 전향적 RCT.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/prosthetic-materials-decision-ladder]]에서 확인되는 현재 역할을 백필.] [[overviews/prosthetic-materials-decision-ladder]] 결정표에서 laumacher-2025(sr)·tajti-2023(sr+ma) 다음 단계인 RCT 등급 직접 비교 — hosseini-2022(소구치 5년 RCT)와 짝을 이뤄 "지르코니아 vs PFM 후방부 생존 동등·칩핑 없음"이라는 RCT 수준 결론을 뒷받침.
+
 ## 1. Document Information
 - **Title**: Clinical outcome of translucent zirconia and metal-ceramic posterior crowns in a digital workflow: A 5-year prospective randomized clinical trial
 - **Authors**: Mustafa Gseibat, et al.
