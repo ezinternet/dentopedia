@@ -2573,6 +2573,7 @@ tags: []
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — Lin 2025 · sr+ma · AO/AAP 93-study SR+MA: platform-switching·conical connection·abutment ≥2 mm·one-abutment-one-time all lower MBL (p<0.0001); screw vs cement neutral (p=0.51)
 - [[implants/kocak-oztug-2022-analysis-of-biomarkers-and]] — Kocak-Oztug 2022 · rct · Split-mouth RCT (94 implants/27 subjects, 12 mo): platform-switched MBL 0.51 vs 0.75 mm (p<0.001), lower RANKL/OPG·MCP-1
 - [[implants/tajti-2024-less-marginal-bone-loss]] — Tajti 2024 · sr+ma · 8-study SR+MA: long abutments (≥2 mm) lose ~0.26 mm less bone at 1 yr (MD 0.26, 95% CI −0.02–0.53), moderate GRADE
+- [[implants/munoz-2025-1mm-3mm-abutments-7year-rct]] — 7-year RCT: 3-mm abutments show less MBL than 1-mm at subcrestal implants (2025)
 
 ### Bone regeneration — ARP/socket preservation
 - [[bone-regeneration/ridge-preservation/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — Pickert 2022 · sr+ma · CBCT-only SR+MA (9 RCTs): xenograft loses less ridge than allograft (vertical midbuccal WMD −0.20 vs −0.90 mm)
@@ -3226,6 +3227,7 @@ tags: []
 - [[implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro]] — In vitro: Osstell Beacon+ (ISQ) vs Anycheck (IST) comparison across bone densities/implant lengths; equivalent trends, Anycheck operator-independent (Lee 2024)
 - [[implants/surface/czumbel-2019-sandblasting-implant-failure-rate-sr-ma]] — SR+MA (7 RCTs, n=722): sandblasted implants reduce failure rate 80% at 1yr / 74% at 5yr vs machined; no MBL difference (Czumbel 2019)
 - [[implants/versah-protocols/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] — Ex vivo (n=16 bovine rib): Densah/WF osseodensification kits significantly improve insertion/removal torque vs conventional in type IV bone; ISQ and temperature NS (de Lima 2026)
+- [[implants/seijas-naya-2025-concave-straight-abutment-bone-rct]] — 24-month RCT: concave abutments reduce MBL in surgical healing phase (−0.18 vs −0.54 mm, p=0.002); height mitigates bone loss in concave group but worsens it in straight group (interaction p<0.01) (2025)
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — FEA: one-piece zirconia vs Ti implant anterior maxilla (3 CBCT models); zirconia lower labial-cervical bone stress in healed/reduced-bone scenarios (Talmazov 2020)
 - [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — Prospective pilot (n=32, T-Scan III, 6mo): single posterior implant bite force doubles from 2wk to 3mo then stabilizes; 3-month occlusal follow-up critical (Zhou 2021)
 
