@@ -1,0 +1,52 @@
+Placement of immediate dental implants in extraction sockets exhibiting the apical pathosis. A meta-analysis.
+AlMugeiren OM, Assari AS, Alshehri KA, Alsharidah MA, Alotaibi AN, Alzaid AH
+Journal of Oral Biology and Craniofacial Research 2024;14(3):290-300
+DOI: 10.1016/j.jobcr.2024.03.008
+PMCID: PMC11005000
+PMID: 38601261
+
+INTRODUCTION
+The practice of immediately inserting implants after removal of teeth with persistent periapical disease has been a subject of attention in clinical practice. Multiple studies have documented positive changes in bone structure near implants placed in areas untouched by acute infectious illnesses. Immediate dental implant implantation in infected areas is strongly associated with a much higher likelihood of implant failure compared to non-infected sites in some studies, while other systematic reviews offer evidence suggesting similar rates of success and survival.
+
+MATERIALS AND METHODS
+Search strategy: PubMed/MEDLINE, Embase, Scopus, Cochrane, Web of Sciences. Time span 2000-2022.
+Search terms: "apical pathosis," "immediate implantation," "periodontally infected sites," "dental implantation," "systematic review," "meta-analysis."
+PICO: P = individuals with apical pathosis; I = immediate dental implantation in infected sites; C = delayed implantation; O = plaque index, bleeding index, implant survival rate.
+
+10 studies included, 849 dental implantation patients total.
+
+Statistical analysis: RevMan, Mantel-Haenszel method, random bivariate effects. Publication bias assessed by Begg's test (p = 0.45, not significant).
+
+Risk of bias: 5 studies low risk, 3 studies moderate risk, 2 studies high selection bias risk.
+
+RESULTS
+Plaque index:
+- Pooled RR = 0.59 (95% CI: 0.36-0.96); p < 0.05
+- Heterogeneity: Tau = 0.62; I² = 90%
+- RR < 1 → low plaque index in infected sites, favorable long-term outcomes
+
+Bleeding index:
+- Pooled RR = 0.77 (95% CI: 0.60 to 0.98); p < 0.05
+- Heterogeneity: I² = 89%
+- RR < 1 → low bleeding risk in immediate implants in infected sites
+
+Implant survival rate:
+- Pooled OR = 2.08 (95% CI: 1.56 to 1.79); p < 0.05
+- I² = 83%
+- OR > 1 → high probability of successful implantation in infected sites
+
+Individual RCTs summary:
+- Lindeboom: 92% survival IP vs 100% DP in chronic periapical lesions; no sig difference in ISQ, aesthetics, bone resorption
+- Siegenthaler: 100% survival rate at 12 months in periapical pathology sockets after immediate placement
+- Fabbro: 98.4% success+survival rate at 1 year with PRGF adjunct
+- Crespi: 98.9% (infected) vs 100% (non-infected) at 48 months; no sig differences in MBL, plaque, bleeding index
+- Truninger: 100% survival at 3 years, no statistical differences between test and control
+- Jung: 100% survival at 5 years, no significant differences between groups
+- Camara: 100 patients, 1-year follow-up; no IS-BIC differences (0.35±0.51 vs 0.15±0.87 mm); no retrograde peri-implantitis
+- Kakar: 95.45% survival (105/110) in infected sites using laser decontamination + alloplastic bone graft
+
+CONCLUSIONS
+In patients with periodontal disease or apical pathosis, immediate implant placement is a viable option for replacing missing teeth. Immediate dental implantation in infected sites leads to low plaque index, low bleeding risk, and high survival rate (OR 2.08). To accomplish optimal wound healing, good implantation settling, and positive functional effects, it is highly recommended to produce an astringent environment and use antiseptic therapies.
+
+LIMITATIONS
+English-only publications. Limited studies examining clinical classification of socket pathology. Difficulty applying analogous selection criteria across different RCTs due to varied patient risk factors.
