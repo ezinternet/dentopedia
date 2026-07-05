@@ -125,8 +125,8 @@ Four significant predictors of post-treatment CoS in extraction cases:
 
 ## Related Pages
 
-- [[orthodontics/clear-aligner/goh-2022-predictability-mandibular-curve-invisalign]] — Prior study establishing <40% accuracy of CoS leveling in non-extraction CAT; this study extends findings to extraction cases.
-- [[orthodontics/clear-aligner/qian-2024-roller-coaster-effect]] — Describes the posterior open bite and incisor extrusion ("roller coaster effect") in premolar extraction CAT; CoS leveling failure is part of this broader phenomenon.
+- Goh et al. 2022 (not in wiki) — Prior study establishing <40% accuracy of CoS leveling in non-extraction CAT; this study extends findings to extraction cases.
+- Qian et al. 2024 (not in wiki) — Describes the posterior open bite and incisor extrusion ("roller coaster effect") in premolar extraction CAT; CoS leveling failure is part of this broader phenomenon.
 - [[orthodontics/clear-aligner]] — Category page for clear aligner therapy studies.
 - [[orthodontics/myofunctional]] — Interceptive/myofunctional alternatives (e.g., EF Line, AMCOP appliances) for Class II and vertical control; may offer better CoS leveling than CAT in growing patients.
 
