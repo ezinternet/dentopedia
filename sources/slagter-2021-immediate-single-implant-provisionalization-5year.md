@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 5년 prospective 비교 연구 (Groningen): 상악 심미부 단일 즉시식립 + 즉시임시치관 vs 즉시식립 + 지연임시치관 — 5년 MBL, BBT, PES, 환자만족도; 즉시임시치관 군 약간의 BBT 보존 우위.
 
+
 ## 1. Document Information
 - **Title**: Immediate placement of single implants with or without immediate provisionalization in the maxillary aesthetic region: A 5-year comparative study
 - **Authors**: Slagter KW, Raghoebar GM, Hentenaar DFM, Vissink A, Meijer HJA

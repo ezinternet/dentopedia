@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Retrospective study of 248 burning mouth syndrome (BMS) patients at Seoul National University Department of Oral Medicine. Stepwise treatment protocol with parafunctional habit control, saliva substitutes, psychological counseling, then clonazepam and zinc supplements. NRS as outcome.
 
+
 ## 1. Document Information
 - **Title:** A retrospective study on the clinical characteristics and treatment outcomes of patients with burning mouth syndrome
 - **Authors:** Eunjin Lee, Hee-Kyung Park

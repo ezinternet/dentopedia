@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 1-year prospective case series of immediate implant placement performed in maxillary anterior sites with pre-existing buccal bone dehiscence, combined with simultaneous GBR.
 
+
 ## 1. Document Information
 - **Title:** Clinical, radiographic, and esthetic evaluation of immediate implant placement with buccal bone dehiscence in the anterior maxilla: A 1-year prospective case series
 - **Authors:** Shu-Jiao Qian, Yi-ping Pu, et al.

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Adv Prosthodont 2015;7:85-92: 7 cleaning methods for saliva-contaminated zirconia — Ivoclean + air abrasion highest SBS; water alone insufficient; methanol and phosphoric acid intermediate.
 
+
 ## 1. Document Information
 Journal: J Adv Prosthodont 2015;7:85-92
 DOI: 10.4047/jap.2015.7.2.85

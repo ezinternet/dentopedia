@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Network meta-analysis (17 studies, 1,076 patients, 1,751 implants) comparing short implants (4–8 mm) vs long implants (≥8 mm) with sinus floor elevation, and immediate vs delayed long implants in the posterior maxilla. Long implants had a non-significant trend to lower failure (OR 1.26, 95% CI 0.53–3.00); short implants showed significantly less marginal bone loss; complication rates not significantly different.
 
+
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:1574
 - **Type**: Network meta-analysis (PRISMA-NMA, PROSPERO CRD42023495027)

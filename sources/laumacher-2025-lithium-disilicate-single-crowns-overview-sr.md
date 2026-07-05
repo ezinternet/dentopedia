@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 리튬 디실리케이트 단일치 보철(치아·임플란트 지지) 임상 결과 SR들에 대한 개요 고찰(umbrella review).
 
+
 ## 1. Document Information
 - **Title**: Clinical outcomes and complications of tooth- and implant-supported lithium (di)silicate based single crowns: an overview of systematic reviews
 - **Authors**: Harald Laumacher, Konstantin J. Scholz, Helge Knüttel, Martin Rosentritt

@@ -11,7 +11,10 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Narrative review covering prosthodontic-specific modifications for 9 systemic disease groups: arthritis, CVD, endocrine, hematologic/oncologic, neurologic, bone disorders, pulmonary, liver, kidney disease.
+Narrative review of prosthodontic-specific management modifications across nine systemic disease categories: arthritis, cardiovascular disease, endocrine disorders, hematologic/oncologic conditions, neurologic disease, bone disorders (bisphosphonates/BRONJ), pulmonary disease, liver disease, and chronic kidney disease. Each disease group is addressed with evidence-based prosthodontic alterations to appointment scheduling, impression technique, prosthesis design selection, drug interactions, and surgical contraindications. Provides clinically actionable decision frameworks for medically complex prosthodontic patients requiring fixed or removable prosthetic rehabilitation.
+
+## 세줄요약
+관절염·심혈관질환·내분비질환·혈액암종양·신경계질환·골질환·폐질환·간질환·만성신질환 등 9개 전신질환 군에 대한 보철 특이적 관리 수정안을 제시하는 내러티브 리뷰. 각 질환별로 진료 일정 조정, 인상 기법 선택, 의치 설계·재료 결정, 약물 상호작용, 수술 금기사항을 포함한 근거기반 임상 지침을 제공한다. 전신질환 환자의 보철 재활에 즉시 적용할 수 있는 의사결정 도구를 제공한다.
 
 ## 1. Document Information
 - Journal: International Journal of Dentistry 2022, Article ID 7510578

@@ -18,6 +18,7 @@ OD 경치조골 상악동거상술의 막 천공률을 다기관 임상 연구�
 ## Three-line Summary
 Largest multicenter clinical study to date evaluating sinus membrane perforation rate during OD-mediated transcrestal sinus floor elevation. 621 patients across 6 international centers.
 
+
 ## 1. Document Information
 - **Title:** Maxillary sinus membrane perforation rate utilizing osseodensification-mediated transcrestal sinus floor elevation: A multicenter clinical study
 - **Authors:** Ziv Mazor, Joao Gaspar, Robert Silva, Snjezana Pohl, Yazad Gandhi, Salah Huwais, Edmara Tatiely Pedroso Bergamo, Estevam Augusto Bonfante, Rodrigo Neiva

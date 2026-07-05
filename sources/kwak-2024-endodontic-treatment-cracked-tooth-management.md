@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative practitioner-oriented review (Korean Dental Association) on the decision logic for endodontic treatment in cracked tooth management. Emphasizes a staged approach to avoid premature/unnecessary RCT.
 
+
 ## 1. Document Information
 - **Title:** Endodontic treatment in the management of cracked tooth
 - **Authors:** Kwak Youngjun

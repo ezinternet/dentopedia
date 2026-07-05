@@ -16,6 +16,7 @@ Tests how osseodensification (OD) interacts with implant surface treatment — s
 ## Three-line Summary
 Sheep ilium study (12 animals, 72 implants — 36 acid-etched, 36 machined) showing OD CCW/CW drilling raises insertion torque and BIC vs regular drilling (BIC P=0.024 CW, P=0.006 CCW), with CCW-OD eliminating the surface-treatment effect on BIC/BAFO.
 
+
 ## 1. Document Information
 - **Type**: Animal in vivo study (ovine ilium model)
 - **Journal**: Journal of Biomedical Materials Research Part B: Applied Biomaterials, 107(3):615-623, 2019 (online 06 Aug 2018)

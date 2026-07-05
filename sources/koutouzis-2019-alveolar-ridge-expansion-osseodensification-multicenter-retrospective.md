@@ -16,6 +16,7 @@ Clinical evidence for an osseodensification (OD) indication beyond primary stabi
 ## Three-line Summary
 Multicenter retrospective (21 patients / 28 implants) showing osseodensification produces measurable alveolar ridge expansion, with greater coronal expansion in narrower starting ridges (2.83 ± 0.66 mm in 3–4 mm ridges) and 92.8% implant survival.
 
+
 ## 1. Document Information
 - **Type**: Multicenter retrospective clinical study
 - **Journal**: Implant Dentistry 2019;28(4):349-355

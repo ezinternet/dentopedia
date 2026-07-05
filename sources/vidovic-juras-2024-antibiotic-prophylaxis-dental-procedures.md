@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review (2024): antibiotic prophylaxis indications significantly narrowed due to antibiotic resistance concerns; currently indicated for IE high-risk, immunocompromised, IV bisphosphonate/antiangiogenic, irradiated head/neck; prosthetic joints no longer routine.
 
+
 ## 1. Document Information
 - Journal: Dentistry Journal 12(11):364 (November 2024)
 - DOI: 10.3390/dj12110364

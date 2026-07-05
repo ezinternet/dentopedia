@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review covering UV photofunctionalization effects on osseointegration, soft tissue attachment, and bacterial biofilm inhibition on titanium implants; introduces VUV (1-minute) as clinical advancement.
 
+
 ## 1. Document Information
 J Prosthodont Res 2025;69(2):136-152. UCLA Weintraub Center. Received 2024-03-27, accepted 2024-05-21.
 

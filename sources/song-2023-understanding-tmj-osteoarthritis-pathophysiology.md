@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Korean special-feature narrative review on TMJ OA pathophysiology (overload → hypoxia/HIF-1 → VEGF/MMP → cartilage & bone destruction), epidemiology (female-predominant, age-related but inconsistent), and diagnosis (CT is gold standard; cortical-continuity changes outweigh shape changes).
 
+
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(5):364–369, 2023
 - Author: Hwanhee Song (송환희), Dept. of Oral Medicine, Armed Forces Capital Dental Hospital

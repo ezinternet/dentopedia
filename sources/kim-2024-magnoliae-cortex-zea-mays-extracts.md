@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Two-month canine RCT (n=10 beagles, 5 per arm) demonstrating that oral combined Magnoliae cortex 40 mg + Zea mays L. extract 20 mg in ligature-induced periodontitis improves GI, PPD, CAL, and BoP versus vehicle and significantly suppresses tissue TNF-α expression; in vivo confirmation of the in-vitro Magnoliae+Zea mays anti-inflammatory effect.
 
+
 ## 1. Document Information
 - Authors: Se Eun Kim¹², Sun Young Hwang¹, Yong Ho Park³, William C. Davis⁴ (Washington State Univ), Kun Taek Park⁵ (Inje Univ, corresponding ktpark@inje.ac.kr)
 - Affiliations include Inje University, Korea (lead) and Washington State University Veterinary Microbiology & Pathology

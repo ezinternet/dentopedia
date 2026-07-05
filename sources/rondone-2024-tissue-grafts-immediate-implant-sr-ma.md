@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 즉시식립(Immediate Implant, Type-1) 시 골·연조직 이식 병용 효과 SR+MA (J Clin Med 2024): 임플란트 안정성 지수(Implant Stability Quotient, ISQ), 골소실, 치은후퇴, 핑크 심미지수(Pink Esthetic Score, PES) 평가.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2024, 13, 821
 - **DOI**: 10.3390/jcm13030821

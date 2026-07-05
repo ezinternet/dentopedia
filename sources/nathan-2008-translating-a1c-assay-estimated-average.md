@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 International multicenter prospective study (n=507; 268 T1DM, 159 T2DM, 80 non-diabetic) establishing the linear regression equation eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84), enabling reporting of HbA1c as estimated Average Glucose (eAG).
 
+
 ## 1. Document Information
 - **Title**: Translating the A1C Assay Into Estimated Average Glucose Values
 - **Authors**: David M. Nathan, Judith Kuenen, Rikke Borg, Hui Zheng, David Schoenfeld, Robert J. Heine, for the A1c-Derived Average Glucose (ADAG) Study Group

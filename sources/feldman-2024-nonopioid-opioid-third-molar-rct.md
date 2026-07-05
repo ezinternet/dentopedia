@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Multisite RCT (n=1,815): ibuprofen 400mg+APAP 500mg outperforms hydrocodone 5mg+APAP 300mg for pain on days 1–2 post-3rd molar extraction and yields higher overall satisfaction; opioid never outperformed nonopioid at any timepoint.
+
+Large multisite double-blind randomized controlled trial comparing nonopioid versus opioid analgesia for acute pain management after impacted third-molar extraction, published in JADA (2025). Enrolled 1,815 adults undergoing mandibular third-molar extraction at ≥6 academic dental centers. Trial registered on ClinicalTrials.gov (NCT04452344) with federal funding support (NIDCR/NIH). Compared ibuprofen 400 mg + acetaminophen 500 mg PRN versus hydrocodone 5 mg + acetaminophen 300 mg PRN.
+
+Primary endpoint was pain superiority of nonopioid combination on days 1–2 post-extraction; ibuprofen+APAP produced significantly lower pain scores (mean difference −0.70, 95% CI −0.94 to −0.45, p<0.001). Nonopioid arm also demonstrated higher overall patient satisfaction (85.3% vs 78.9%, p=0.006). Opioid never outperformed nonopioid at any measured timepoint. Full postoperative period analysis confirmed noninferior pain control for nonopioid over the extended follow-up.
+
+Largest RCT to date directly comparing nonopioid combination versus opioid for acute surgical dental pain in real-world multisite setting. Findings strongly support American Dental Association recommendations for ibuprofen+acetaminophen as first-line postoperative analgesia, challenging routine opioid prescribing in dental surgery. Supports opioid-sparing postoperative pain management protocols and reduced opioid dependence risk.
+
+## 세줄요약
+
+대규모 다기관 이중맹검 RCT: 구강외과적 제3대구치 발치 후 급성 통증 관리에서 nonopioid vs opioid 비교 (JADA 2025). 1,815명, ≥6개 학술치과기관. NCT04452344. Ibuprofen 400mg+APAP 500mg vs Hydrocodone 5mg+APAP 300mg PRN.
+
+Nonopioid가 일수 1~2에서 유의미 우수(MD −0.70, p<0.001), 환자 만족도 높음(85.3% vs 78.9%, p=0.006). Opioid가 어떤 시점도 nonopioid 초과하지 않음. 술후 전체 기간 noninferior.
+
+구강외과 급성 통증 직접 비교 최대 RCT. ADA 권고 ibuprofen+APAP 1차선택 강력 지지, 치과 일상 opioid 처방 도전. Opioid-sparing 술후 통증관리·중독 위험 감소 지지.
 
 ## 1. Document Information
 - Journal: JADA 2025;156(2):110–123

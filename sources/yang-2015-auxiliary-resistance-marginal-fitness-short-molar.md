@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 West China J Stomatol 2015;33(5):474 (Shandong U., Chinese) — in vitro 70 Nissin resin teeth at 20° TOC + 2.5 mm height short molar with proximal grooves OR occlusal holes at 0°, 6°, 20° divergence; 0° groove, 0° hole, 6° hole significantly improve resistance vs control (P<0.05); BUT all auxiliary features (except 20° groove) significantly increase marginal float — retention-fit trade-off.
 
+
 ## 1. Document Information
 - Journal: West China Journal of Stomatology / 华西口腔医学杂志 2015;33(5):474
 - DOI: 10.7518/hxkq.2015.05.007

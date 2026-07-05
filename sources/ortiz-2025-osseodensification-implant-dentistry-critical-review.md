@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Critical narrative review (Dent J 2025) of osseodensification evidence: higher primary stability confirmed; ISQ advantage variable; benefits greatest in D3/D4 bone and sinus augmentation; long-term RCT data limited.
 
+
 ## 1. Document Information
 - **Journal**: Dentistry Journal 2025; 13:461
 - **Study type**: Narrative review (critical)

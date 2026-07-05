@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 JCP 2020 SR+MA (23 articles 분석): 흡연 양 (cigarettes/day) 증가 시 임플란트 실패 위험 dose-dependent 증가; non-smoker 대비 heavy smoker 위험 유의하게 높음.
 
+
 ## 2. Key Contributions
 - Quantifies smoking quantity-implant failure relationship (dose-response).
 - 23 articles selected; pooled relative risk by smoking level.

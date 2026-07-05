@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 구치부 부분 피개 수복물(인레이, 온레이, 엔도크라운) 생존율 범위 고찰: 재료별·디자인별 분석.
 
+
 ## 1. Document Information
 - **Title**: Survival of Partial Coverage Restorations on Posterior Teeth—A Scoping Review
 - **Authors**: L.S. Prott, P. Klein, F.A. Spitznagel, M.B. Blatz, S. Pieralli, P.C. Gierthmuehlen

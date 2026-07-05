@@ -16,6 +16,7 @@ First systematic review focused exclusively on osseodensification (OD) — a qua
 ## Three-line Summary
 Systematic review of 12 osseodensification (OD) studies through Nov 2018 — average increase in insertion torque, BIC and BAF vs conventional drilling, but evidence is predominantly animal/histologic.
 
+
 ## 1. Document Information
 - **Type**: Systematic review (qualitative analysis, no meta-analysis)
 - **Journal**: Journal of Oral Biology and Craniofacial Research, 10 (2020) 375–380

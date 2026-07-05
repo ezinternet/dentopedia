@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Review introducing the "3D Theory of Osseointegration" — three interdependent dimensions (material, topography, time/aging) — UV photofunctionalization resolves time-dependent biological aging of titanium to restore osteoconductivity.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry 2025; 11:49
 - **Study type**: Narrative review

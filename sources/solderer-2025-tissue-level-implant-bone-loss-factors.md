@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
 
+
 ## 1. Document Information
 - **Title**: Retrospective assessment of biological and host factors on radiographic bone loss following tissue-level implant placement
 - **Authors**: Solderer A et al.

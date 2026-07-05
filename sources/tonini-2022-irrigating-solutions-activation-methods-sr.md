@@ -14,6 +14,7 @@ source_collection: external
 ## Three-line Summary
 SR of 7 RCTs (PubMed/Scopus/Embase/Cochrane, search to Jan 2021): activation methods (PUI, XP-endo, EndoVac) significantly reduce biofilm vs conventional needle; NaOCl+chelating agent combinations not more effective antimicrobially.
 
+
 ## 1. Document Information
 University of Brescia + CEU University. Frontiers in Oral Health open-access SR. RCT-only inclusion. Cochrane RoB2 for quality assessment.
 

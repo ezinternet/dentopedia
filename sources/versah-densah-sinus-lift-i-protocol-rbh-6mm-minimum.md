@@ -18,6 +18,7 @@ Versah 공식 프로토콜 I — 잔존골고(RBH) 6mm 이상 조건의 경치�
 ## Three-line Summary
 Versah Densah® manufacturer-issued clinical protocol card (2-page, REV09) for crestal sinus floor elevation using osseodensification mode in residual bone height ≥6 mm.
 
+
 ## 1. Document Information
 - **Title:** Osseodensification-Facilitated Crestal Sinus Lift Protocol I (Densah® Lift I, REV09)
 - **Authors:** Versah LLC

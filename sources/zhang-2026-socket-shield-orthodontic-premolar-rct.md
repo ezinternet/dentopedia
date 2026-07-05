@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자): 교정 발치 (premolar) 환자에서 SST 적용 — paired allocation, 발치된 치아를 시험군 (SST) vs 대조군에 배정. Shield는 인접치가 근접하면 제거. 임상 골보존 효과 평가.
 
+
 ## 1. Document Information
 저자: Yuhang Zhang, Zhe Ji (공동 1저자), Jianxin Ji (corresp), Li Lin, Hui Ye. Guangzhou Medical University + Sun Yat-sen University + Meizhou People's Hospital.
 

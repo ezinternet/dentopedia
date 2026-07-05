@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 백색반점병소(WSL) 치료법(불소, CPP-ACP, 레진침투, 표백) NMA 비교 — 레진침투(resin infiltration)가 가장 높은 optical improvement 순위.
 
+
 ## 1. Document Information
 - **Title**: Comparison of therapies of white spot lesions: a systematic review and network meta-analysis
 - **Authors**: Xie Z, Yu L, Li S, Li J, Liu Y

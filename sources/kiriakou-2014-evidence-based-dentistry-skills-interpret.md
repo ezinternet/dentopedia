@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Open-access review (Progress in Orthodontics 2014;15:58) teaching dentists how to apply RCT and SR critical appraisal to clinical practice, anchored on the 5-step EBD framework.
 
+
 ## 1. Document Information
 - Journal: Progress in Orthodontics 2014, 15:58
 - DOI: 10.1186/s40510-014-0058-5

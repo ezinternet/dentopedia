@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Meta-analysis of 21 RCTs (up to 60-month follow-up) showing that silorane, ormocer, and bulk-fill composites have similar clinical performance to conventional methacrylate composites, except for marginally inferior marginal adaptation at 12 months for modified-monomer composites.
 
+
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analysis
 - **Published**: February 21, 2018 in PLOS ONE (open access, CC-BY)

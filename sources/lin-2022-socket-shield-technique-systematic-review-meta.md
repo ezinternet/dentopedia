@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA: socket shield technique (SST) — 즉시식립 시 협측 root membrane 일부 잔존 → 협측 골 흡수 방지 시도; 임상 case report·RCT 포함; 합병증 (membrane mobility/infection/exposure/migration, apical resorption) 보고; 장기 high-quality 근거 부족.
 
+
 ## 1. Document Information
 - **Title**: Socket shield technique: A systematic review and meta-analysis
 - **Authors**: Lin X, et al.

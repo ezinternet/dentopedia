@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Literature review (Cureus 2019) on orthopedic bone-drilling thermal osteonecrosis (50°C critical value): heat generation is multifactorial — drill parameters and drill characteristics matter — but **external irrigation is the most important single variable** for keeping bone temperature below the critical threshold.
 
+
 ## 1. Document Information
 - Journal: Cureus 11(7):e5226, July 2019
 - Affiliation: National University of Ireland, Galway; University Hospital Galway

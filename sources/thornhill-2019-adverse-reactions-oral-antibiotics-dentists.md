@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 NHS England prescription cost analysis (2010–2017) cross-referenced with Yellow Card MHRA adverse drug reaction (ADR) reports to quantify ADR rates per million prescriptions for the antibiotics dentists prescribe most: **amoxicillin safest (21.5/million overall, 0.1/million fatal)**, clindamycin most dangerous (highest fatal rate 2.9/million, mostly C. difficile), penicillin V highest anaphylaxis, macrolides associated with QT/cardiac death.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Dental Research 2019;98(10):1081–1087.
 - **Study type**: Retrospective national pharmacoepidemiologic analysis (NHS prescription data + national pharmacovigilance reports).

@@ -16,6 +16,7 @@ Human split-mouth histologic validation of a DBBM for ARP (87% of sockets >75% b
 ## Three-line Summary
 Human split-mouth study of techBiomat bone® DBBM for alveolar ridge preservation: 87% of treated sockets achieved >75% bone fill (vs 7% untreated); new bone 42% vs 25%; residual graft <9% at 6 months.
 
+
 ## 1. Document Information
 - **Journal**: Biomedicines 2025, 13, 1358 (received 29 Apr 2025; accepted 28 May; published 31 May).
 - **Study type**: Randomized split-mouth, human, histologic + radiographic (CBCT) outcomes at 6 months.

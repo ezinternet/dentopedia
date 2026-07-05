@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 In vitro study using steady-state plasma concentrations of nine NSAIDs; ibuprofen and mefenamic acid (but not the other seven) significantly reduce aspirin's antiplatelet effect when added before aspirin; naproxen and flurbiprofen have their own independent antiplatelet effects.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Clinical Pharmacy and Therapeutics 2013;38(1):12–15
 - **DOI**: 10.1111/j.1365-2710.2012.01373.x

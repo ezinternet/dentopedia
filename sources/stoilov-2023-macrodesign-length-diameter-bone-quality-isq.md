@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 In vitro PU foam study: diameter > length for primary stability; tapered (TE) macro-design outperforms parallel in all bone densities; drilling protocol must adapt to simulated bone quality for optimal IT and ISQ.
 
+
 ## 1. Document Information
 - Journal: Journal of Functional Biomaterials 14:469 (2023)
 - DOI: 10.3390/jfb14090469

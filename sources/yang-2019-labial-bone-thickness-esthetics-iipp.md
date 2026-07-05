@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Prospective cohort study quantifying the impact of labial bone thickness on PES/WES esthetic outcomes after immediate implant placement with immediate provisionalization in the esthetic zone.
 
+
 ## 1. Document Information
 - **Title:** The thickness of labial bone affects the esthetics of immediate implant placement and provisionalization in the esthetic zone: A prospective cohort study
 - **Authors:** Xingmei Yang, Tengfei Zhou, Nan Zhou, Yi Man

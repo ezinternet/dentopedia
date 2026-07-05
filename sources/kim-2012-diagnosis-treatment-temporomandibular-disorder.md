@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 KDA Journal 임상가 특집 narrative review on TMD diagnosis and treatment by an OMFS clinician — covers etiology framework (normal function + events > physiological tolerance), differential diagnosis (muscle vs joint disorder), clinical exam protocol (history, mandibular ROM end-feel, deviation/deflection pathway, palpation, loading test, diagnostic anesthetic blockade), and treatment hierarchy (occlusal stabilization splint → arthrocentesis and lavage → arthroscopic lysis → open surgery).
 
+
 ## 1. Document Information
 
 - **Author**: Kim Chul Hoon, DDS, PhD, Department of Oral and Maxillofacial Surgery, Dong-A University Medical Center, School of Dentistry

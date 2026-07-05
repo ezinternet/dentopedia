@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 Case series (서울대 치병원, J Craniofac Surg 2024): sinus pathology 3 type을 type 1 (PsC), type 2 (MRC <20mm), type 3 (MRC >20mm)로 분류하고 각각 spontaneous drainage·aspiration·enucleation을 시행. **Subtype별 결정 트리** 임상 예시.
 
+
 ## 1. Document Information
 서울대 치과병원 OMFS 그룹 (이원욱·한정준·권익재). J Craniofac Surg, IF 1.0 정도. 명확한 의사결정 트리 framework이 본 case series의 가치.
 

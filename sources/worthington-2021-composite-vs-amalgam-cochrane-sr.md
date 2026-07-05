@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 구치부 영구치 직접 복합레진 vs 아말감 수복 비교 코크란 리뷰: 생존율, 이차우식, 환자 선호.
 
+
 ## 1. Document Information
 - **Title**: Direct composite resin fillings versus amalgam fillings for permanent posterior teeth (Cochrane Review)
 - **Authors**: Worthington HV., Khangura S., Seal K., Mierzwinski-Urban M., Veitz-Keenan A.

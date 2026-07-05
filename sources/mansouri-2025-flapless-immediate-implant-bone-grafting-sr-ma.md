@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA: flapless 즉시식립 시 peri-implant gap에 골이식 추가 vs 비추가 — hard/soft tissue 변화를 평가; RCT 한정.
 
+
 ## 1. Document Information
 - **Title**: Flapless Immediate Implant Placement With and Without Bone Grafting: A Systematic Review and Meta-Analysis
 - **Authors**: Mansouri SS, Musaie F, Mirzaei A, Samadizadeh S, Salmasi SC, Bitaraf T

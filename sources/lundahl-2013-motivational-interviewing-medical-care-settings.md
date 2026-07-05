@@ -16,6 +16,7 @@ The foundational general-medical SR+MA establishing motivational interviewing's 
 ## Three-line Summary
 SR+MA of 48 RCTs (n=9,618) — MI in medical care settings shows modest but robust advantage (OR 1.55, 95% CI 1.40–1.71), effective even in brief consultations; promising areas include HIV viral load, dental outcomes, weight, alcohol/tobacco, sedentary behavior. Reference paper for MI's general medical evidence.
 
+
 ## 1. Document Information
 - Journal: Patient Education and Counseling, 93(2):157–168, Nov 2013
 - DOI: 10.1016/j.pec.2013.07.012

@@ -17,6 +17,7 @@ Kyung Hee 그룹의 PDRN+soft tissue 연구 시리즈의 첫 작품. [[pdrn/kim-
 
 Mongrel dog 5마리 box-type gingival defect 모델에서 SCTG vs XCM+PDRN(2.0 mg/mL) 비교. STL superimposition·histomorphometry 모두에서 양군 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
 
+
 ## 1. Document Information
 
 - **Type**: Animal experimental in vivo study (preclinical)

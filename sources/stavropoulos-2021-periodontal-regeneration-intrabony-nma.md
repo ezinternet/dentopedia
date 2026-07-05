@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 SR and NMA of 30 RCTs (3–20 years post-op) showing periodontal regenerative/reconstructive therapy in intrabony defects produces significantly better residual PD and CAL gain than open flap debridement, with combination approaches (GTR+grafting, EMD+grafting) appearing most efficacious.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology, 2021; 48(3):410–430
 - **DOI**: 10.1111/jcpe.13409

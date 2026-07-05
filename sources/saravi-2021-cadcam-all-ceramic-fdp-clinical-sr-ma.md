@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 CAD/CAM 전부도재 FPD 임상성적 SR+MA (Materials 2021): 단관 vs FPD 생존율 비교; 최신 세라믹 FPD 5년 생존율 높음; 파절이 주요 합병증.
 
+
 ## 1. Document Information
 - **Journal**: Materials 2021, 14, 2672
 - **DOI**: 10.3390/ma14102672

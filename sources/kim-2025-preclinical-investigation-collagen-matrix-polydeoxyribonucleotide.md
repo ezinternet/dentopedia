@@ -17,6 +17,7 @@ PDRN을 keratinized tissue(KT, 각화치은) regeneration adjunct로 검증한 i
 
 Buccally positioned implant + buccal dehiscence canine 모델에서 FGG, XCM alone, XCM+PDRN(2.0 mg/mL), XCM+PDRN(4.0 mg/mL) 비교. PDRN2 group이 FGG와 유사한 KT 형성을 보였으나, FGG가 여전히 clinical KT height에서 우위.
 
+
 ## 1. Document Information
 
 - **Type**: Preclinical animal study (canine)

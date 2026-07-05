@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 RCT (NCT06055127) comparing OD vs piezoelectric internal sinus elevation for delayed implant placement: OD gave more bone gain, higher density, shorter surgery and higher satisfaction; PISE gave better day-0 primary stability.
 
+
 ## 1. Document Information
 - BMC Oral Health 2024;24:1306. doi 10.1186/s12903-024-04964-6. Registered clinicaltrials.gov NCT06055127 (2023-09-26).
 

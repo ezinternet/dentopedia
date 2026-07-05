@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review from Sevilla covering the full range of botulinum toxin applications in orofacial clinical practice, including TMD, bruxism, facial pain, and cosmetic uses; summarizes injection protocols and dosing recommendations.
 
+
 ## 1. Document Information
 - **Journal**: Toxins 2020;12(2):112
 - **DOI**: 10.3390/toxins12020112

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 등가성 RCT 5년 추적(n=60명, 128 임플란트): PS 생존율 96.6%; PS MBL 0.23 mm 낮음(p=0.025); 두 군 비동등 선언 — PS가 골보존 면에서 우수
 
+
 ## 1. Document Information
 - **Title**: Peri-implant marginal bone loss reduction with platform-switching components: 5-Year post-loading results of an equivalence randomized clinical trial
 - **Authors**: Messias A, Rocha S, Wagner W, Wiltfang J, Moergel M, Behrens E, Nicolau P, Guerra F

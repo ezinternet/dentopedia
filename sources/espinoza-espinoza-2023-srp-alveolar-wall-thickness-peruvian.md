@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Retrospective CBCT study in a Peruvian population evaluating facial and palatal alveolar wall thickness in relation to Kan-class sagittal root position of maxillary anterior teeth.
+
+Single-center retrospective CBCT analysis of Peruvian population measuring alveolar wall thickness (AWT) at the maxillary anterior teeth in relation to Kan sagittal root position (SRP I–IV) classification. Study examined facial and palatal AWT at standard apicocoronal levels to evaluate bone anatomy relevant to immediate implant planning.
+
+Facial alveolar wall thickness trended thin across the population; Kan classification correlated with distinct patterns of buccal and palatal bone thickness. Population-specific distributions of Kan classes and AWT reference values provided; variation was clinically significant for treatment planning.
+
+Cross-sectional descriptive design with no clinical outcome correlation, implant survival data, or follow-up. Adds non-Caucasian population reference anatomy for immediate implant site assessment, filling a geographic gap in the international immediate-implant planning literature.
+
+## 세줄요약
+
+페루 인구 CBCT 후향적 분석: Kan sagittal root position (SRP I–IV) 분류와 상악 전치의 협측·구개측 치조제 골 두께(AWT) 관계를 표준 apicocoronal level에서 측정. 즉시식립 계획에 필요한 골 해부학 평가 목적.
+
+협측 AWT는 얇은 경향; Kan 분류는 협측·구개측 골 두께 패턴과 상관. 인구별 Kan 분포 및 AWT 기준값 제시, 임상 의사결정에 유의한 변이 보고.
+
+횡단면 기술적 연구로 임상 결과·이식 생존율·추적 자료 없음. 라틴아메리카 인구의 즉시식립 부위 해부학 참고 자료 추가, 국제 문헌의 비백인종 데이터 격차 보충.
 
 ## 1. Document Information
 - **Title:** Relationship Between Sagittal Root Position and Alveolar Wall Thickness of Maxillary Teeth in the Esthetic Area for Immediate Implant Treatment Planning in a Peruvian Population

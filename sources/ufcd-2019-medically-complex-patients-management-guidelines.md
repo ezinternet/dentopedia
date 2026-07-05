@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 148-page UF dental school clinical guideline covering 23 systemic conditions + ASA classification + vasoconstrictor use; comprehensive dental management protocols per disease with medical consultation indications.
 
+
 ## 1. Document Information
 - Source: University of Florida College of Dentistry, Clinical Guidelines
 - Revised: March 11, 2019 (adapted from UL School of Dentistry, Firriolo FJ)

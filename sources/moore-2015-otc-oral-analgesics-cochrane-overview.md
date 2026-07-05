@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Cochrane overview of OTC analgesic Cochrane reviews — 처방전 없는 진통제 (ibuprofen 200-400, APAP 500-1000, aspirin 600-1000) 효과 비교; OTC 한도 내에서 ibuprofen 400 가장 효과적 (NNT ~2.5).
 
+
 ## 1. Document Information
 - Authors: Moore RA et al., Oxford pain group
 - Type: Cochrane overview

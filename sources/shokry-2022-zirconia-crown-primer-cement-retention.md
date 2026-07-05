@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 BMC Oral Health 2022;22:187: 3 primer-cement systems for monolithic zirconia crowns after 50µm Al2O3 abrasion + 10,000 thermocycles — Panavia V5/Clearfil Ceramic Primer Plus > Multilink Speed/Monobond N > Duo-Link/Z-Prime Plus for retention strength.
 
+
 ## 1. Key Results
 - n=30 extracted molars; flat occlusal prep; 3mm axial height
 - Groups: Multilink Speed+Monobond N; Panavia V5+Clearfil Ceramic Primer Plus; Duo-Link+Z-Prime Plus

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 1차 쇼그렌증후군(pSS) 2016 ACR-EULAR 분류기준: 3개 국제 코호트 데이터 기반 최신 합의 기준.
 
+
 ## 1. Document Information
 - **Title**: 2016 ACR-EULAR Classification Criteria for Primary Sjögren Syndrome: A Consensus and Data-Driven Methodology Involving Three International Patient Cohorts
 - **Authors**: Caroline H. Shiboski, Stephen C. Shiboski, Raphaèle Seror, et al.

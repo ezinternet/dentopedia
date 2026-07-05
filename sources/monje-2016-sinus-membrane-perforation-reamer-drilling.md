@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Two-center retrospective case series evaluating the reamer-drilling lateral window approach for sinus augmentation: overall Schneiderian membrane perforation rate **12.5%**; thinner lateral walls (<1.25 mm) trended toward higher perforation; reamer drilling is concluded to be safe and effective when lateral wall thickness is ≥1.25 mm.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Periodontics & Restorative Dentistry 2016;36(4):548–556 (PubMed 27333013)
 - **Institutions**: University of Michigan (USA), University of Granada (Spain), Hospital Universitario Infanta Cristina Badajoz (Spain)

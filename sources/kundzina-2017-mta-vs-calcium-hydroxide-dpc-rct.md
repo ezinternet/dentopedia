@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 성인 구치 우식 치수 노출: MTA vs Ca(OH)₂ DPC 다기관 RCT(3년) — MTA 군 생존율 우위, 3년 추적.
 
+
 ## 1. Document Information
 - **Title**: Capping carious exposures in adults: a randomized controlled trial investigating mineral trioxide aggregate versus calcium hydroxide
 - **Authors**: Kundzina R, Stangvaltaite L, Eriksen HM, Kerosuo E

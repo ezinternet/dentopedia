@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Acta Odontol Scand 2013;71(1):102-112: chewing simulator 1.2M cycles — polished monolithic Zr (27.3μm enamel wear) = least; glazed ceramic (GZC 118μm) = most; 100% enamel cracks in polished Zr groups; material surface determines antagonist wear.
 
+
 ## 1. Key Results
 - 6 groups: VZ (veneered), GZC (glaze ceramic), GZS (glaze spray), MAZ (manual polish), MEZ (mechanical polish), MA (alloy control)
 - Chewing simulator: 49N, 1.7Hz, 5°C/50°C thermocycling; up to 1,200,000 cycles

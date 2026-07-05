@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Single-patient case report with serial biopsies at 8 months, 2 years, and 10 years after MSFA with Bio-Oss alone: bone tissue (incl. medullary spaces) increased from 29.8% → 69.7% → 86.7%, with corresponding progressive resorption of Bio-Oss particles — a textbook visualization of long-term remodeling.
 
+
 ## 1. Document Information
 - **Journal**: Clinical Oral Implants Research 2003;14(3):369–372 (published 20 May 2003).
 - **Study type**: Case report with serial histomorphometric biopsies.

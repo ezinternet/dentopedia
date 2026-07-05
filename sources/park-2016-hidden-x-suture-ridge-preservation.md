@@ -16,6 +16,7 @@ Open-healing 치조제 보존술(ARP) 봉합 술식 근거. 같은 그룹의 ope
 ## Three-line Summary
 RCT comparing conventional crossed mattress (X) suture vs novel hidden X suture for open-healing ARP: the hidden X suture significantly better preserves buccal keratinized tissue width and ridge dimensions.
 
+
 ## 1. Document Information
 - Journal: J Periodontal Implant Sci 2016 Dec;46(6):415
 - First author: Jung-Chul Park (corresponding)

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review of socket augmentation (SA) rationale and the bio-enhancement role of autologous platelet-rich fibrin (PRF) added to xenograft/allograft/alloplast scaffolds, with discussion of post-extraction bone remodeling, biological mechanisms of PRF growth factors, and two illustrative clinical cases.
 
+
 ## 1. Document Information
 - **Journal**: Dentistry Journal 2023, 11, 196 (MDPI)
 - **Published**: 14 August 2023

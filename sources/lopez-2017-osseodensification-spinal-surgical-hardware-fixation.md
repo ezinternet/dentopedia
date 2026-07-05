@@ -16,6 +16,7 @@ Cross-disciplinary validation of the osseodensification (OD) mechanism — the f
 ## Three-line Summary
 Orthopaedic/spinal sheep model (12 sheep, cervical vertebrae C2/C3/C4) — OD raised pullout strength (p<0.01), BIC (p<0.01) and BAFO (p=0.024) vs regular drilling over 0/3/6-week time points.
 
+
 ## 1. Document Information
 - **Type**: Animal experimental (in vivo, biomechanical + histomorphometric), orthopaedic/spinal context
 - **Journal**: Journal of the Mechanical Behavior of Biomedical Materials 2017;69:275–281

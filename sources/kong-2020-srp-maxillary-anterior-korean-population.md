@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Retrospective CBCT study of 120 Korean patients reporting prevalence of Kan-class SRP and sagittal angulation of maxillary anterior teeth.
 
+
 ## 1. Document Information
 - **Title:** A study on sagittal root position of maxillary anterior teeth in Korean
 - **Authors:** Hyun-Jun Kong

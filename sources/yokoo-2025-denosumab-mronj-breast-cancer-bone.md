@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Retrospective cohort (n=324, breast cancer+bone metastases, Xgeva® 120 mg q4w): MRONJ 31.2%; ROC-derived threshold ≥32 cumulative doses (AUC 0.83); tooth extraction history OR 4.40; each additional dose adds 4.7% to MRONJ odds.
 
+
 ## 1. Document Information
 - **Journal**: Cancers 2025, 17, 2242
 - **Institution**: Fukuyama City Hospital (Orthopedic + Breast Surgery + Dental/Oral Surgery), Japan

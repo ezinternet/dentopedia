@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 인도 Amrita Vishwa Vidyapeetham 비교연구: 단일/이중 항혈소판제 (SAPT/DAPT) 지속하 단순 발치 시 출혈 시간 — DAPT가 SAPT 대비 다소 길지만 모두 임상적 의미 있는 출혈 합병증 없이 국소 지혈로 통제; DAPT 발치 위해 중단 불필요.
 
+
 ## 1. Document Information
 - Authors: Krishnan Nitin Anand et al.
 - Affiliation: Amrita School of Dentistry, Amrita Vishwa Vidyapeetham, Kochi, Kerala, India

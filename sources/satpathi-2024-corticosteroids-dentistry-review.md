@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review: corticosteroids in dentistry — anti-inflammatory/immunosuppressive use across specialties (OLP, aphthous stomatitis, post-op edema); adrenal crisis risk from steroid-dependent patients; overcautious prescribing concerns.
 
+
 ## 1. Document Information
 - Journal: J Pharmacy Bioallied Sci 16(Suppl 4):S3034-S3036 (December 2024)
 - DOI: 10.4103/jpbs.jpbs_870_24

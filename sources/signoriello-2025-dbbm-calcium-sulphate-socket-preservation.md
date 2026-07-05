@@ -16,6 +16,7 @@ Adds a protocol-modification data point to [[overviews/dbbm-bone-substitute-over
 ## Three-line Summary
 Retrospective histomorphometric analysis (n=24, 4 mo) of post-extraction socket preservation with Bio-Oss + calcium sulphate vs Bio-Oss alone: combined group showed significantly more vital bone (62.5% vs 31.25%) and less acellular bone (5% vs 32.91%).
 
+
 ## 1. Document Information
 - **Journal**: Journal of Clinical Medicine 2025, 14, 3 (received Nov 2024, published 24 Dec 2024).
 - **Study type**: Retrospective evaluation (2023) of a 2008–2009 pilot prospective protocol — same surgeon, randomized assignment to test/control at time of original surgery, histomorphometry at 4 months.

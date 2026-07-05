@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 RCT (12 completers): in molar open-healing ARP, 5 N vs 30 N compressive force on particulate DBBM gave comparable new bone, ISQ, and peri-implant bone level — only residual graft particle size differed significantly.
 
+
 ## 1. Document Information
 - Journal: J Periodontal Implant Sci 2020 Jun;50(3):197
 - First author: Sung-Jo Lee (corresponding: Jung-Chul Park)

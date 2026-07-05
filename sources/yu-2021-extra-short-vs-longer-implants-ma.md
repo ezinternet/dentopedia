@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Meta-analysis of 21 RCTs comparing extra-short (≤6 mm) vs longer (≥8 mm) implants. AMSTAR-2 + GRADE quality appraisal. Outcomes: survival, MBL, biological/prosthetic complications.
 
+
 ## 1. Document Information
 - **Title:** A meta-analysis indicating extra-short implants (≤ 6 mm) as an alternative to longer implants (≥ 8 mm) with bone augmentation
 - **Authors:** Xiaoran Yu, Ruogu Xu, Zhengchuan Zhang, Yang Yang, Feilong Deng

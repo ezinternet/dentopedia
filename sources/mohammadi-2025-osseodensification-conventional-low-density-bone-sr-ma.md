@@ -18,6 +18,7 @@ source_collection: external
 ## Three-line Summary
 Systematic review and meta-analysis of 7 studies comparing osseodensification vs conventional drilling specifically in low-density bone, using ISQ-based stability outcomes plus periodontal indices.
 
+
 ## 1. Document Information
 - **Title:** Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis
 - **Authors:** Maryam Mohammadi, Marzie Mohamadi Moghadam, Morteza Arab-Zozani

@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 단일맹검 RCT (n=40, SNU 서울대): 상악 구치부 즉시식립 시 HA 나노코팅 SLA 임플란트 vs 무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
 
+
 ## 1. Document Information
 - **Title**: Implant stability, volumetric changes, and patient-reported outcomes of hydroxyapatite nano-coated sandblasted/acid-etched (SLA) implants compared to uncoated SLA implants in immediate placement: a randomized clinical trial
 - **Authors**: Ko Y, Lee J, Lee YM

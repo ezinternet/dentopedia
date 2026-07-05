@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 In vitro (n=240, 3 files × 4 groups × 20): PTG > PTN > PTU 순 cyclic fatigue resistance (group 1, p<0.05); autoclave 10회로 PTN·PTG NCF 유의 증가; pre-fatigue + autoclave 시 PTN·PTG 추가 강화.
 
+
 ## 1. Document Information
 - Restorative Dentistry & Endodontics 42(4):301-308, 2017
 - Ondokuz Mayıs University, Samsun, Türkiye

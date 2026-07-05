@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review (Quintessence Int 2026, 9 RCT 414 patients): PMPR이 PiM gold standard — chlorhexidine/local antibiotics/NaOCl/probiotics/bioactive agents 보조요법 모두 within-group 개선 but PMPR 단독 대비 추가 benefit 일관성 부족·통계 NS 다수.
 
+
 ## 1. Document Information
 - Quintessence International 57(5):390-401, 2026 May 21
 - DOI 10.3290/j.qi.b7011446

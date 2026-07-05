@@ -18,6 +18,7 @@ OD bur CW vs CCW 방향에 따른 골 온도 변화를 cadaver tibiae에서 측�
 ## Three-line Summary
 Four-way interaction analysis of bur usage count, rotation mode, bur diameter, and rotational speed on temperature rise during osseodensification in human cadaver tibiae.
 
+
 ## 1. Document Information
 - **Title:** Temperature Changes (ΔT) in Correlation with Number of Implant Osteotomy Preparations in Human Cadaver Tibiae, Comparing Osseodensification (OD) Burs in Clockwise (CW) versus Counterclockwise (CCW) Mode
 - **Authors:** Nikolaos Soldatos, Amanda Heydari, LeRoy Horton, Shayda Sarrami, Luke Nordlie, Dongseok Choi, Robin Weltman

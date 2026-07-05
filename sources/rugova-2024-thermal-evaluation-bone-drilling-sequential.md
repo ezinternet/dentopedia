@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 In vitro (Bioengineering 2024, custom drill press, IR thermography): sequential drilling does NOT eliminate the thermal damage zone — the first (pilot) drill peaks above 100°C, creates thermal trauma up to 10 mm from the osteotomy, and subsequent drills add to (rather than remove) the damage.
 
+
 ## 1. Document Information
 - Journal: Bioengineering 2024;11:928
 - Type: In vitro experimental study

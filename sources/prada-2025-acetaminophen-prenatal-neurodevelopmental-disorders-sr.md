@@ -17,6 +17,7 @@ Acetaminophen은 임신 중 치과 통증의 1차 진통제로 [[drug/zhou-2023-
 
 Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD), 27 reported positive associations, 9 null, 4 negative; higher-quality studies more often positive — authors conclude the evidence supports an association and advise limiting acetaminophen in pregnancy. (Association, not causation; qualitative synthesis.)
 
+
 ## 1. Document Information
 
 - **Journal**: Environmental Health 24:56 (2025)

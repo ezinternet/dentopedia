@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA of 21 RCTs: NSPT significantly reduces CRP, IL-6, and SBP (moderate certainty); no significant effect on LDL, HDL, TC, TG, or DBP.
 
+
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024; 24: 692
 - **Study type**: Systematic review with meta-analysis of RCTs

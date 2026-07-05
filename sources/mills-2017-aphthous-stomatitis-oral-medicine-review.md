@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 RAS 임상 양상, 병인론(면역·유전·영양·스트레스), 치료 옵션 고찰.
 
+
 ## 1. Document Information
 - **Title**: Recurrent aphthous stomatitis: a potentially disabling condition
 - **Authors**: Mills, et al.

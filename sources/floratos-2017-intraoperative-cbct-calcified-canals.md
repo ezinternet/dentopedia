@@ -12,7 +12,14 @@ source_collection: external
 ---
 
 ## Three-line Summary
-3-case series: intraoperative CBCT used to localize calcified/obliterated canals when clinical exploration fails — gutta-percha reference points placed, CBCT taken, distance to actual canal orifice measured in 3D.
+3-case series describing intraoperative CBCT technique to localize calcified or obliterated canal orifices when clinical exploration fails.
+Gutta-percha reference points placed at estimated orifice, intraoperative CBCT acquired, and precise 3D distance to actual canal orifice measured and used to guide targeted dentin removal.
+Clinical feasibility demonstrated in all three cases without perforation, though applicability limited by small n and radiation exposure burden.
+
+## 세줄요약
+임상적 탐색으로 찾지 못한 석회화·폐쇄 근관 입구를 술중 CBCT로 정위하는 기법을 3증례에서 기술한 보고서.
+검사개(gutta-percha) 기준점을 예상 위치에 배치 후 술중 CBCT 촬영, 3D상 실제 근관 입구까지의 정확한 거리 측정·계산해 표적화 상아질 제거로 유도.
+3증례 모두 천공 없이 임상적 실행 가능성을 입증했으나, 소규모 n과 방사선 피폭 부담으로 일반화 제한적.
 
 ## 1. Document Information
 University of Pennsylvania + University of Athens. Case report / clinical technique description.

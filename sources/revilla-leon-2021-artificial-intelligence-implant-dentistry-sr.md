@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Prosthet Dent 2023;129:293-300 (ePub 2021): SR (17 studies): AI for implant type recognition 93.8–98% accuracy; osseointegration success prediction 62.4–80.5%; implant design optimization; all models in development — additional clinical validation needed.
 
+
 ## 1. Key Results
 - SR of 17 studies (search to Feb 2021); 5 databases
 - Three AI application domains:

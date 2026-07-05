@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 In-vitro study: Ti biological aging continues progressively up to 6 months (not just 4 weeks); cell attachment/spread/ALP all decrease time-dependently; degradation driven by carbon contamination rather than hydrophilicity per se.
 
+
 ## 1. Document Information
 Materials 2016;9:102. doi:10.3390/ma9020102. UCLA LBIS + Hokkaido University. Published 2016-02-06.
 

@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT: 구치부 즉시식립 시 CAD-CAM socket sealing abutment (SSA) 사용으로 점막 emergence profile 형성 — 무피판 sealing 어려운 큰 발치와에 해부학적 healing abutment 적용; 연조직 conditioning 우위 평가.
+
+Cairo Univ RCT (BMC Oral Health 2025;25:83): 구치부 즉시식립(n=각 군 미상) CAD-CAM socket sealing abutment (SSA, CBCT+scan 기반 pre-milling) vs 표준 케어.
+
+해부학적으로 형성된 healing abutment는 큰 후방 발치와(무피판 밀폐 곤란)와 부적합 socket anatomy에서 emergence profile 형성·연조직 conditioning 동시 달성.
+
+대규모 설명/수치 부재(초록 기준); SSA 군에서 peri-implant soft tissue conditioning 및 emergence profile 우수 경향.
+
+## 세줄요약
+
+Cairo Univ RCT (n=미상, 구치부 즉시식립): CAD-CAM socket sealing abutment (SSA) vs 표준 관리.
+
+CBCT+scan 기반 pre-surgery 설계·chairside 밀링 SSA로 무피판 상황에서 emergence profile·연조직 conditioning 동시 달성.
+
+상세 수치 부족(초록 기준); 디지털 워크플로우 연계 immediate implant 신기술.
 
 ## 1. Document Information
 - **Title**: Peri-implant soft tissue conditioning of immediate posterior implants by CAD-CAM socket sealing abutments: a randomized clinical trial

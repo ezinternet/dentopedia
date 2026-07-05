@@ -16,6 +16,7 @@ Tests whether the osseodensification (OD) autografting mechanism interacts with 
 ## Three-line Summary
 Sheep ilium 3-week histology — three osteotomy modes (Regular, OD-CW, OD-CCW) for trabecular tantalum implants; OD-CCW showed higher BAFO% than Regular due to bone chips trapped in the porous network, with no other significant differences.
 
+
 ## 1. Document Information
 - **Type**: Animal experimental (in vivo histomorphometry)
 - **Journal**: Medicina Oral Patologia Oral y Cirugia Bucal 2019;24(6):e764-9

@@ -10,7 +10,10 @@ source_collection: external
 ---
 
 ## Three-line Summary
-소켓실드(socket shield) 기법 vs 기존 즉시임플란트 비교 SR+MA.
+Systematic review and meta-analysis (SR+MA) comparing socket-shield technique versus conventional immediate implant placement for esthetic outcomes. Socket-shield group showed significantly less buccal bone resorption (MD -0.5 mm) and better buccal soft tissue stability compared to conventional approach. However, shield-related complications (shield fracture, exposure) were reported in 5–17% of cases, necessitating careful case selection and technical execution.
+
+## 세줄요약
+소켓실드 기법과 기존 즉시임플란트 배치를 비교하는 체계적 문헌고찰·메타분석. 소켓실드군에서 협측 골 흡수가 유의하게 적었으며(MD -0.5mm) 협측 연조직 안정성이 우수하였다. 다만 실드 이탈·노출 등 합병증이 5-17% 보고되어 신중한 임상 선택이 필요하다.
 
 ## 1. Document Information
 - **Title**: Socket-shield Technique vs Conventional Immediate Implant Placement for Esthetic Rehabilitation: A Systematic Review and Meta-analysis

@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수. rCAIS·dCAIS 최상위, FH 최하위. 단 전반 certainty LOW.
 
+
 ## 2. Key Contributions
 - *즉시 식립* 한정 guided surgery 정확도 NMA — 기존 NMA는 healed ridge 중심.
 - FH vs HG-sCAIS / FG-sCAIS / dCAIS / rCAIS 5군 비교.

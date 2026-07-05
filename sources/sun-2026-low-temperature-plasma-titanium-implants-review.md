@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review (Biomaterials Advances 2026, Aug issue): LTP의 표면화학 변화 — bulk 미영향, 항균 + osteoblast 부착/증식/분화 향상; plasma aging·임상전이 장벽 비판적 검토.
 
+
 ## 1. Document Information
 - Biomaterials Advances 2026 (Aug issue), DOI 10.1016/j.bioadv.2026.214884
 - ScienceDirect article preview (full PDF에서 일부만 추출됨)

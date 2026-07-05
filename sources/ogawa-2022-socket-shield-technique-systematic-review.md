@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Prosthodont Res 2022;66(1):12-18: SR of 20 studies, 288 patients, socket shield technique with immediate implant — 9.5% complication rate; 90.5% survival without complications; follow-up 3-60 months; long-term evidence insufficient.
 
+
 ## 1. Key Results
 - PubMed, Google Scholar, ScienceDirect; January 2000–December 2018
 - 20 studies: 1 RCT, 2 cohort, 14 case reports, 3 retrospective case series

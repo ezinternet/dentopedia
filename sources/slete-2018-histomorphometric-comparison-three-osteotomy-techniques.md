@@ -16,6 +16,7 @@ Three-way bench comparison (standard drilling vs Summers osteotome vs osseodensi
 ## Three-line Summary
 Porcine tibia pilot histomorphometry (n = 18 osteotomies, 6 per group) — immediate BIC was 60.3% with osseodensification vs 40.7% with Summers osteotome and 16.3% with standard subtractive drilling, with most uniform trabecular condensation around OD.
 
+
 ## 1. Document Information
 - **Type**: Ex vivo bench histomorphometric pilot study (porcine tibia)
 - **Journal**: Implant Dentistry 2018;27(4):424-428

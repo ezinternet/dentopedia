@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 후향적 연구(n=200 NobelReplace Tapered, UCLA): 구강 내 위치가 ISQ에 가장 유의한 영향(하악>상악, T1·T2 모두); 임플란트 길이는 임상적으로 의미 있는 효과 경향(p=0.08/0.09); 직경은 유의하지 않음; 생존율 98%.
 
+
 ## 1. Document Information
 - Journal: Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology 2016;122(6):e193–e198
 - DOI: 10.1016/j.oooo.2016.06.016

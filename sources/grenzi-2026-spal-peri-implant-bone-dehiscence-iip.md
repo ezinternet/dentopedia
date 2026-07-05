@@ -10,7 +10,14 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Case study describing the SPAL (subperiosteal peri-implant augmented layer) technique applied at immediate implant placement to correct peri-implant bone dehiscence.
+Case study (n=2) of SPAL (subperiosteal peri-implant augmented layer) technique applied at immediate implant placement in compromised sockets with peri-implant bone dehiscence.
+SPAL procedure achieved successful buccal bone-volume restoration, primary soft-tissue closure, and acceptable peri-implant outcomes in both cases.
+Operator-skill demanding technique; case-level evidence only, but demonstrates feasibility of bone augmentation at IIP for dehiscence correction.
+
+## 세줄요약
+즉시식립(IIP) 시 협측 골결손(dehiscence)을 교정하기 위해 SPAL 기법을 적용한 증례 2개 보고.
+수술 후 협측 골량 회복·주 폐쇄·양호한 임플란트 예후 달성.
+술자 기술 요구도 높고 증례 수준의 근거이나 IIP에서 골재생 가능성 입증.
 
 ## 1. Document Information
 - **Title:** Subperiosteal peri-implant augmented layer to correct bone dehiscence at immediate implant placement

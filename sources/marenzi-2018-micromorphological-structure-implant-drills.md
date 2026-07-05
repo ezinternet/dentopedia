@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 In vitro study (BioMed Res Int 2018) characterizing implant drill surface roughness across five manufacturers via white-light interferometry; multivariate discriminant analysis shows manufacturer-specific microstructural signatures that predict differences in durability, heat generation, and wear.
 
+
 ## 1. Document Information
 - Journal: BioMed Research International, 2018, Article ID 8143962
 - Type: In vitro materials/surface characterization study

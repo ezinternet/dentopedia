@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Korean-language methodological introduction to systematic review and meta-analysis (Hanyang Med Rev 2015;35:9-17) covering search/selection/quality assessment, effect size pooling, heterogeneity (I², Cochran Q), fixed vs random effects, and publication bias (funnel plot, Egger's test).
 
+
 ## 1. Document Information
 - Journal: Hanyang Med Rev 2015;35(1):9-17
 - DOI: 10.7599/hmr.2015.35.1.9

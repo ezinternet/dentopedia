@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Dent 2014;42(12):1586-91: Zr vs LD × adjusted/polished/glazed — AP zirconia: least enamel wear (0.33mm³); veneering porcelain: most (2.15mm³); polishing after adjustment reduces enamel wear for both materials; Zr < LD in material wear.
 
+
 ## 1. Key Results
 - Materials: lithium disilicate (LD) and zirconia (Zr), each × A, AP, AG; + veneering porcelain, enamel control
 - 400,000 cycles; UAB chewing simulator

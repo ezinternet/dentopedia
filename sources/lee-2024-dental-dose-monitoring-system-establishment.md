@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 대한치과의사협회지 2024: 한국 치과 X-ray 장비 (intraoral·panoramic·CBCT)의 국가 단위 dose monitoring system 구축 — 통합 data collection 계획·pilot operation·전문가 의견 기반 향후 확장.
 
+
 ## 1. Document Information
 - 대한치과의사협회지 (Journal of Korean Dental Association) 62(2), 2024
 - Chena Lee, Department of Oral and Maxillofacial Radiology, College of Dentistry, Yonsei University

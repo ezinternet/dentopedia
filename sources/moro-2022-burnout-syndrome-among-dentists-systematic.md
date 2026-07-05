@@ -16,6 +16,7 @@ The gold-standard (MBI-only) SR+MA establishing baseline dentist burnout prevale
 ## Three-line Summary
 Pooled prevalence of burnout syndrome (Maslach Burnout Inventory) in dentists: overall **13%**, but the emotional exhaustion (EE) subscale runs **28%**, depersonalization (DP) 18%, reduced personal accomplishment (PA) 10% — the EE component is the dominant driver.
 
+
 ## 1. Document Information
 - Journal: Journal of Evidence-Based Dental Practice, 22(3), Sep 2022, 101724
 - DOI: 10.1016/j.jebdp.2022.101724

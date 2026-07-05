@@ -16,6 +16,7 @@ Cross-disciplinary validation of the osseodensification (OD) mechanism in orthop
 ## Three-line Summary
 Ovine ex-vivo split-spine study (8 sheep, 64 pedicle screws) showing OD pullout strength of 387 N at 6 wk and 312 N at 12 wk vs regular 292 N and 212 N — OD increases anchorage over time while conventional decreases.
 
+
 ## 1. Document Information
 - **Type**: Animal in vivo / ex-vivo biomechanical and histomorphometric study (ovine lumbar spine)
 - **Journal**: Journal of Orthopaedic Research, 39(7):1463-1469, July 2021 (online May 2020)

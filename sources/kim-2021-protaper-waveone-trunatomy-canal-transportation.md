@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 In vitro S-shaped resin block (n=60): TruNatomy < WaveOne GOLD < ProTaper GOLD 순으로 canal transportation 적음; TruNatomy shaping time 최단; ProTaper GOLD apical curve(2-3 mm) 위치 transportation 최대.
 
+
 ## 1. Document Information
 - BMC Oral Health 21:533 (2021)
 - Wonkwang University, Iksan, Korea

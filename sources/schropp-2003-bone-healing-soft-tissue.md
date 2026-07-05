@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Foundational 12-month prospective clinical and radiographic study (Schropp et al. 2003; n=46 patients, single premolar/molar extractions) using study casts, linear radiographic analysis, and subtraction radiography — established that **major dimensional changes of the extraction site occur within the first 12 months after extraction**, with most resorption (~two-thirds of horizontal ridge loss) happening in the first three months.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Periodontics & Restorative Dentistry, 2003;23(4):313–323
 - **PubMed ID (PMID)**: 12956475

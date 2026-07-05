@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 RCT n=31 환자/33 sinuses: 점액낭종 제거 후 측방창 거상술을 즉시 시행한 군과 3개월 지연 후 시행한 군 사이에 골 신생률·임플란트 생존율·연조직 합병증·VAS 통증 모두 유의차 없음. **One-stage 접근이 타당함**을 시사.
 
+
 ## 1. Document Information
 - Prospective RCT, single-center, Peking University School of Stomatology
 - Population: 상악동 점액낭종이 있고 후방 무치악 임플란트 식립이 필요한 환자

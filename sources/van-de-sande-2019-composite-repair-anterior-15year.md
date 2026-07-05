@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 전방부 복합레진 수복의 수리(repair) vs 교체(replacement) 후향적 15년 연구(634 수복): 수리가 생존율을 높이는 적합한 대안.
 
+
 ## 1. Document Information
 - **Title**: Is composite repair suitable for anterior restorations? A long-term practice-based clinical study
 - **Authors**: van de Sande FH, Moraes RR, Elias RV, Montagner AF, Rodolpho PA, Demarco FF, Cenci MS

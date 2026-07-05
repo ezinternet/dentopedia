@@ -16,6 +16,7 @@ Independent SR+MA that replicates Moro 2022's ~13% pooled dentist-burnout preval
 ## Three-line Summary
 Independent SR+MA (15 studies, n=6,038) — overall dentist burnout prevalence **13%**, matching Moro 2022; adds geographic gradient (Europe highest, Americas lowest), longitudinal > cross-sectional, and a downward temporal trend.
 
+
 ## 1. Document Information
 - Journal: Psychology, Health & Medicine, 28(7):1767–1782, Jul-Dec 2023
 - DOI: 10.1080/13548506.2023.2208364

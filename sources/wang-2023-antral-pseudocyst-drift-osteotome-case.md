@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 Case report + literature review (Sichuan University, JCM 2023): OSFE + 동시 implant 후 AP가 sinus 내에서 위치 이동 (drift) 관찰. 술후 cyst 동적 변화 + literature review로 transcrestal 접근에서의 AP 핸들링 정리.
 
+
 ## 1. Document Information
 West China School of Stomatology, Sichuan University. JCM (MDPI) — open access. Case report 포맷이지만 literature review로 transcrestal-AP literature 정리.
 

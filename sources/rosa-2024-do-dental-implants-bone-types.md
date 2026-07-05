@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Systematic review and meta-analysis of 49 studies (29,905 implants) confirms that implants in bone type IV fail significantly more than in types I, II, and III, with type I and II showing equivalent survival rates and both superior to type III.
 
+
 ## 1. Document Information
 - **Type**: Systematic review and meta-analysis (PRISMA / PROSPERO CRD42021229775)
 - **Institution**: UNESP – Univ Estadual Paulista, Araçatuba, Brazil

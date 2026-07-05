@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-RCT comparing three jumping-gap fillers (PRF vs xenograft vs alloplastic) at immediate implant placement. All three yielded comparable clinical outcomes; PRF emerges as a low-cost autologous alternative without donor-site morbidity.
+
+Egyptian RCT (n=미상, 3군 균등배정): 즉시식립 jumping gap management — PRF (자가 혈장), 이종 이식(xenograft), 합성골(alloplastic) 3-arm 비교.
+
+세 군 모두 임상 골 변화(primary endpoints) 유의 차이 없음; PRF군은 이식물 대비 동등 결과 but 공여자 부위 이환 없음·저비용.
+
+전치부 상악 특정 부위; 단기 추적; 표본 크기 명시 부족; jumping gap 관리 효과 평가 필요.
+
+## 세줄요약
+
+이집트 RCT (3군): 즉시식립 jumping gap — PRF vs 이종이식 vs 합성골.
+
+세 군 임상 결과 동등 (p=NS); PRF는 공여자 부위 이환 없고 저비용.
+
+전치부 상악 제한; 단기 평가; 표본 크기·long-term data 부족.
 
 ## 1. Document Information
 - **Title:** Comparison between platelet rich fibrin as space filling material versus xenograft and alloplastic bone grafting materials in immediate implant placement: a randomized clinical trial

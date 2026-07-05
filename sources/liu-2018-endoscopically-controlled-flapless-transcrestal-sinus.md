@@ -14,6 +14,7 @@ source_collection: external
 ## Three-line Summary
 Case report (26F, #16, RBH 3.5 mm): endoscopically-controlled flapless transcrestal sinus elevation + PRF + simultaneous 12 mm implant. ISQ 72.6 at surgery; crown delivered at 12 weeks; demonstrates extending transcrestal indication to RBH <4 mm.
 
+
 ## 1. Document Information
 Single case report in Medicine (Baltimore) plus brief literature review. Patient: 26-year-old female, healthy, missing #16, RBH 3.5 mm.
 

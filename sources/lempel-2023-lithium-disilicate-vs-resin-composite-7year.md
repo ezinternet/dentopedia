@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 후향적연구(n=91, 평균 7.8년): 리튬디실리케이트 생존율 96.8% vs 간접레진 84.9%; 연간실패율 LidiSi 0.2% vs RBC 1.0%; 15년째 RBC 60%로 급락
 
+
 ## 1. Document Information
 - **Title**: Clinical evaluation of lithium disilicate versus indirect resin composite partial posterior restorations – A 7.8-year retrospective study
 - **Authors**: Lempel E, Gyulai S, Lovász BV, Jeges S, Szalma J

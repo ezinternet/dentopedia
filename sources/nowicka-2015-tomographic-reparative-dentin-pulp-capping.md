@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 DPC 4재료(Ca(OH)₂, MTA, Biodentine, Single Bond Universal) CT 평가(44개 인간 치아): Biodentine·MTA가 완전한 수복상아질 교(dentin bridge) 형성 우위.
 
+
 ## 1. Document Information
 - **Title**: Tomographic Evaluation of Reparative Dentin Formation after Direct Pulp Capping with Ca(OH)₂, MTA, Biodentine, and Dentin Bonding System in Human Teeth
 - **Authors**: Nowicka A, Wilk G, Lipski M, Kołecki J, Buczkowska-Radlińska J

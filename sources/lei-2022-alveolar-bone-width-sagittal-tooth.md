@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Retrospective CBCT study of 120 patients comparing alveolar bone width and sagittal tooth angulation of maxillary central incisors stratified by Class I vs Class III canine relationship. Class III had significantly thinner labial bone and greater labial root inclination, complicating immediate implant placement planning.
 
+
 ## 1. Document Information
 - **Title:** Comparison of alveolar bone width and sagittal tooth angulation of maxillary central incisors in Class I and Class III canine relationships: a retrospective CBCT study
 - **Authors:** Chen Lei, Qun Yu, Di Wu, Kunzhan Cai, Paul Weigl, Chunbo Tang

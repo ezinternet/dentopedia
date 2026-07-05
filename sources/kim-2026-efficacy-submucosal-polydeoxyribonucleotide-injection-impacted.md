@@ -17,6 +17,7 @@ source_collection: external
 
 매복 하악 제3대구치 발치 후 submucosal PDRN injection (split-mouth RCT)에서 POD3·POD7의 통증이 control side 대비 유의하게 감소. 통증 지속기간·부종은 유의차 없거나 작음.
 
+
 ## 1. Document Information
 
 - **Type**: Randomized controlled trial (split-mouth design)

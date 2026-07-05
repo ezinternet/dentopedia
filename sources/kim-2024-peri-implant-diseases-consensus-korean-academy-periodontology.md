@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review backing the Korean Academy of Periodontology consensus report on peri-implant diseases. Covers definition/prevalence/classification, risk indicators, diagnostic criteria, and treatment protocols.
 
+
 ## 1. Document Information
 - **Title:** Current understanding of the etiology, diagnosis, treatment, and management of peri-implant diseases: a narrative review for the consensus report of the Korean Academy of Periodontology
 - **Authors:** Yun-Jeong Kim, Young Woo Song, Shin-Young Park, Jae-Kook Cha, Jun-Beom Park, Ki-Tae Koo

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Prosthet Dent 2011;106(5):305-309 — in vitro study of auxiliary resistance features on short molars (3.0 mm height, 22° TOC, chamfer); proximal grooves (Grv) and cervical TOC reduction (Rdc 22°→4° in cervical 1.5 mm) both restore resistance form vs Ctrl; proximal grooves achieve 156.75N mean dislodgement force.
 
+
 ## 1. Document Information
 - Journal: Journal of Prosthetic Dentistry 2011;106(5):305-309
 - Type: In vitro experimental, Ivorine tooth + standardized metal dies

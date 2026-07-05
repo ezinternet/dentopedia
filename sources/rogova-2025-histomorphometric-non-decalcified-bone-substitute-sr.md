@@ -16,6 +16,7 @@ Maps the histomorphometric methodology landscape (models, stains, parameters) be
 ## Three-line Summary
 Systematic review (118 studies, 2015–2024) of histomorphometric methodology in bone regeneration research using non-decalcified plastic-embedded specimens: rat most common animal model; toluidine blue most common stain; new bone formation, residual graft, MAR (mineral apposition rate) with calcein green dominate parameters.
 
+
 ## 1. Document Information
 - **Journal**: Materials 2025, 18, 119 (received Nov 2024, published 30 Dec 2024).
 - **Study type**: Systematic review (PCC framework — Population, Concept, Context); methodology-focused.

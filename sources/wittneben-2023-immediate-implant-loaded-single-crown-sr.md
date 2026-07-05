@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 즉시식립 및 즉시부하 단일치 임플란트 수복물의 임상 성능에 관한 체계적 고찰.
 
+
 ## 1. Document Information
 - **Title**: Clinical performance of immediately placed and immediately loaded single-tooth implant-supported restorations: A systematic review
 - **Authors**: Julia-Gabriela Wittneben, et al.

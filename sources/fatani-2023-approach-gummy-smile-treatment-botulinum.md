@@ -11,7 +11,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Narrative review of 28 studies (out of 62 screened) on BTX-A for gummy smile: reviews subtype classification, indications/contraindications, dose adjustment (2.0-5.0 IU per region, gender-adjusted), Yonsei point technique, complications, and duration (4-6 months); supports BTX-A as effective non-surgical alternative for muscular-etiology gummy smile.
+
+Narrative literature review of botulinum toxin type A (BTX-A) for treatment of gummy smile (excessive gingival display) published in Cureus (2023). Searched PubMed and Google Scholar without time restrictions for studies discussing BTX-A gummy smile treatment. Initial screening of 62 papers yielded 28 included studies meeting quality criteria. Compiled dosing protocols, anatomical injection sites (Yonsei point technique), patient selection criteria, and long-term outcome data.
+
+Gummy smile prevalence ranges 10.5–29% in general populations (14% females, 7% males), with definition as >2–3 mm gingival exposure during smiling. Mazzuco-Hexsel classification divides presentations into anterior (>3 mm between canines), posterior (distal to canines), asymmetric, and mixed subtypes. Standard BTX-A dosing 2.0–2.5 units per muscle region, with onset at 1–2 weeks and duration 4–6 months. Clinical trials documented mean gingival reduction of 4–5 mm with appropriate dosing; 4-point injection technique showed superior efficacy compared to 2-point injection.
+
+Narrative review design without systematic quality appraisal limits evidence synthesis. Publication bias likely given selective inclusion of positive clinical trials. BTX-A offers effective non-surgical management for muscular-etiology gummy smile but may require combination with orthodontic, periodontal, or restorative interventions in cases with skeletal or dental contributions. Reversibility and repeated dosing requirements should guide patient counseling and informed consent.
+
+## 세줄요약
+
+보툴리눔 독소 A형(BTX-A)의 위치미소(과도한 치은 노출) 치료 서술적 고찰 (Cureus 2023). PubMed·Google Scholar 시간제한 없이 검색, 62편 스크리닝→28편 포함. 용량·주사 해부학(Yonsei point)·환자 선택·장기 결과 취합.
+
+위치미소 유병률 10.5~29%(여성 14%, 남성 7%), 정의 >2~3 mm 치은 노출. Mazzuco-Hexsel 분류: 전방(>3 mm at canines)·후방(distal)·비대칭·혼합. 표준 용량 2.0~2.5 U/region, onset 1~2주, 지속 4~6개월. 임상시험 4~5 mm 평균 감소, 4-point 기법이 2-point 초과.
+
+Narrative 무체계화, 선택 편향(양성 시험 포함). BTX-A는 근육성 위치미소 비수술 효과적이나 골·치아 기여도 있으면 교정·치주·보철 병용 필요. 가역성·반복 용량 환자 설명 필수.
 
 ## 1. Document Information
 - Author: Bader Fatani, College of Dentistry, King Saud University, Riyadh, Saudi Arabia

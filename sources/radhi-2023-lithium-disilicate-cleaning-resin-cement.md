@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Cureus 2023;15(8):e44389: Ivoclean vs 30% sodium silicate for saliva-contaminated lithium disilicate — sodium silicate higher SBS than Ivoclean (p<0.05); LDS responds differently from zirconia to cleaning agents.
 
+
 ## 1. Key Results
 - n=30 lithium disilicate samples (not zirconia)
 - Group 1: Ivoclean (15% ZrO2); Group 2: 30% sodium silicate

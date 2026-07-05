@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 교정력에 대한 PDL 및 치조골 반응 요약 고찰: 세포·신경전달물질·사이토카인 역할.
 
+
 ## 1. Document Information
 - **Title**: Biological response to orthodontic forces: PDL and alveolar bone remodeling
 - **Authors**: Nanda, et al.

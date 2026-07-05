@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Indian J Dent Res 2017: saliva-contaminated zirconia, 4 cleaning protocols × 2 cements — Ivoclean + air abrasion highest SBS; conventional cement lower than self-adhesive MDP cement.
 
+
 ## 1. Document Information
 Journal: Indian Journal of Dental Research 2017
 DOI: 10.4103/ijdr.IJDR_274_16

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 BDJ 2024;236(10):773: narrative overview of occlusal checks for implant maintenance — hardware complications (fracture 0.5%), biological complications (MBL, peri-implantitis), 4-step annual occlusal assessment protocol.
 
+
 ## 1. Key Results
 - Implant fracture rate: ~0.5% (rare); occlusal overload risk is real but uncommon
 - Osseointegration biophysics differ from PDL: no shock absorption, reduced proprioception

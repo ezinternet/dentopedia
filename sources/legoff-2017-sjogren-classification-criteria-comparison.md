@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 pSS 의심 환자에서 2002 AECG vs 2016 ACR/EULAR 기준 비교 + 침샘 초음파(SGUS)의 부가가치 평가.
 
+
 ## 1. Document Information
 - **Title**: Comparison of 2002 AECG and 2016 ACR/EULAR classification criteria and added value of salivary gland ultrasonography in suspected primary Sjögren syndrome
 - **Authors**: Maëlle Le Goff, Divi Cornec, Sandrine Jousse-Joulin, et al.

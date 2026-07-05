@@ -18,6 +18,7 @@ Versah 공식 프로토콜 II — RBH 4~5mm 조건의 경치조골 상악동거�
 ## Three-line Summary
 Versah Densah® manufacturer-issued clinical protocol card (2-page, REV08) for crestal sinus floor elevation in residual bone height 4–5 mm — eliminates pilot drill step and adds allograft propulsion.
 
+
 ## 1. Document Information
 - **Title:** Osseodensification-Facilitated Crestal Sinus Lift Protocol II (Densah® LIFT II, REV08)
 - **Authors:** Versah LLC

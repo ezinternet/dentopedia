@@ -18,6 +18,7 @@ Astra TX/EV 임플란트 시스템에 OD를 적용했을 때의 ISQ·토크 결�
 ## Three-line Summary
 Conference e-poster abstract (Clinical Oral Implants Research Vol 29 Suppl S17) reporting sheep iliac-bone study comparing osseodensification (Densah CCW), Densah clockwise, and standard subtractive drilling on Astra TX and EV implant systems.
 
+
 ## 1. Document Information
 - **Title:** Effects of osseodensification on Astra TX and EV implant systems
 - **Authors:** Rodrigo Neiva, Bruna Tanello, Wagner Duarte, Paulo Coelho, Lukasz Witek, Fred Silva

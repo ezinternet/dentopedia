@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Cross-sectional CBCT study evaluating incisive canal dimensions and anterior maxillary bone thickness, with implications for immediate implant placement risk of canal perforation.
 
+
 ## 1. Document Information
 - **Title:** Cone beam computerized tomography evaluation of incisive canal and anterior maxillary bone thickness for placement of immediate implants
 - **Authors:** Mousumi Panda, Thatapudi Shankar, Anjana Raut, Shruti Dev, Aswini Kumar Kar, Sadanand Hota

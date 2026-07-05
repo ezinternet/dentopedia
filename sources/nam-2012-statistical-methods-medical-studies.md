@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Korean-language Continuing Education Column (J Korean Med Assoc 2012;55:573-581) by Yonsei biostatistics faculty walking through which statistical test fits which study design — t-test, ANOVA, non-parametric, chi-square, log-rank, multiple/logistic/Cox regression — through hypothetical examples.
 
+
 ## 1. Document Information
 - Journal: J Korean Med Assoc 2012 Jun; 55(6): 573-581
 - DOI: 10.5124/jkma.2012.55.6.573

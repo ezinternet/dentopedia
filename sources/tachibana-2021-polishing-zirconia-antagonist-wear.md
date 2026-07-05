@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Dent Mater J 2021;40(3):650-656: in vitro, Y-TZP 3 contact conditions × polished/ground — polished zirconia minimized antagonist wear regardless of contact type; grinding increased roughness and wear; intraoral polishing critical after occlusal adjustment.
 
+
 ## 1. Key Results
 - Kyushu University; 3 contact conditions: contact-slide, slide back-forth, repetitive contact
 - Polished Y-TZP: lowest roughness and antagonist enamel wear across all contact conditions

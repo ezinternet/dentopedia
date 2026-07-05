@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 Cohort n=15 환자/18 sinuses: pre-existing mucosal cyst에 needle aspiration 후 즉시 sinus elevation. 안전·효과적 프로토콜로 보고, 합병증·재발 추적 결과 제시.
 
+
 ## 1. Document Information
 Multi-author international cohort, ARDEC + 이탈리아 + 미시간 협력. Treatment strategies for max sinus cysts in implant cases가 controversial한 상황에서 safe·effective alternative 제시 목적.
 

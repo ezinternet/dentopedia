@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 Case report (Cureus 2025, USP Ribeirão Preto + ARDEC): MRC 환자에서 simultaneous drainage + lateral SFE → guided implant placement. 6년 후 clinical·CBCT·histology 모두 안정 확인.
 
+
 ## 1. Document Information
 University of São Paulo (Ribeirão Preto) + ARDEC Academy (Italy) 협력. Cureus open access. 단일 case지만 6년 추적·조직학 분석으로 longitudinal value 높음.
 

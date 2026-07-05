@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 3-patient case series proposing an OD-based crestal sinus window technique for very low RBH (0.4–1.5 mm), reporting 10.3–13.6 mm vertical bone gain comparable to lateral window with no membrane perforations.
 
+
 ## 1. Document Information
 - **Type**: Case report / case series (n = 3 patients)
 - **Journal**: Journal of Oral Implantology 2021;47(1):45

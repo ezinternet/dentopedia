@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 국제 Delphi 합의 (Univ Manchester/FDI/Melbourne/Lorraine): 치과 항생제 스튜어드십 core outcome set — 향후 연구·실무 개입 평가 표준 outcomes 합의. 환자·치과의사·학자 30+ 패널 참여.
 
+
 ## 1. Document Information
 - Authors: Thompson W (Manchester) et al.; international panel
 - Type: Delphi consensus / international consensus

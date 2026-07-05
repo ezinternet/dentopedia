@@ -17,6 +17,7 @@ source_collection: external
 
 JPD 98(3):166-174, Sep 2007 — Magne et al. (USC) in-vitro µTBS — 50 human molars, OptiBond FL (E&R) + SE Bond (SE), provisional 2/7/12주 후 µTBS 측정. IDS 모든 군 >45 MPa, control과 차이 없음. DDS는 SE Bond 1.81 MPa로 매우 낮음. 결론: provisional 12주까지 IDS bond 보존.
 
+
 ## 1. Document Information
 
 저자: Pascal Magne DMD PhD, Woong-Seup So DMD PhD, Domenico Cascione CDT (USC).

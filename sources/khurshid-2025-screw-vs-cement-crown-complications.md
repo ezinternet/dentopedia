@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Prospective study (100 patients, 12 months) comparing screw-retained vs cement-retained single implant crowns; screw loosening higher in screw-retained (18% vs 4%), marginal gap and cement washout higher in cement-retained.
 
+
 ## 1. Document Information
 - **Type**: Prospective clinical study
 - **Journal**: Journal of Pharmaceutical and Bioallied Sciences 17:S3316 (2025)

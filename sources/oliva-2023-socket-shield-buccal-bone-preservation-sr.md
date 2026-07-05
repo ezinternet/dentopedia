@@ -17,6 +17,7 @@ SST의 **buccal bone plate resorption (BBPR)** 핵심 outcome 집중 SR — JPIS
 ## Three-line Summary
 SR (D'Amario et al., JPIS 2023, PROSPERO CRD42020180637, 17 included studies, 656 implants): SST 협측 골판 흡수 (BBPR) 감소 효과 — 생존율 98.6%, 합병증 3.81%, MBL 0.39±0.28mm (SST) vs 1.00±0.55mm (conventional), PES 12.08±1.18 vs 10.77±0.74, BBPR 0.32±0.10 vs 1.05±0.18mm.
 
+
 ## 1. Document Information
 저자: Stefano Oliva (corresp), Maurizio D'Amario, et al. (Italy). JPIS = Journal of Periodontal & Implant Science (Korean Academy of Periodontology). PRISMA, PROSPERO 등록.
 

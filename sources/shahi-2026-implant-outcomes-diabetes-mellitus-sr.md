@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 SR (BMC Oral Health 2026, BMC unedited version 단계): DM 환자 dental implant outcome 종합 — 메타·중간 결과는 본문 직접 확인 (PDF 미수록 본문 본문 일부만 추출).
 
+
 ## 1. Document Information
 - BMC Oral Health 2026 (article in press, unedited version)
 - DOI 10.1186/s12903-026-07782-0

@@ -17,6 +17,7 @@ PDRN(폴리데옥시리보뉴클레오티드, Polydeoxyribonucleotide) 토픽 �
 
 PDRN은 salmon/trout sperm 유래 50–1500 kDa DNA fragment로, A2A receptor 활성화와 nucleotide salvage pathway를 통해 angiogenesis·osteogenesis 촉진. 치과에서 GBR, TMJ, peri-implantitis, MRONJ에 adjunct로 시도되나 RCT 근거는 부족.
 
+
 ## 1. Document Information
 
 - **Type**: Narrative review

@@ -10,7 +10,14 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Cochrane-style SR+MA of 6 RCTs evaluating local vs systemic antibiotic adjuncts to non-surgical peri-implantitis therapy. Reports differential efficacy between routes.
+Systematic review and meta-analysis of 6 RCTs comparing local antibiotics, systemic antibiotics, and no-antibiotic controls as adjuncts to non-surgical peri-implantitis treatment (debridement/scaling).
+Local antibiotics achieved greater PPD reduction (−0.6 mm) and success rates (RR 9.89) vs control; systemic antibiotics showed PPD reduction (−1.15 mm) but no significant success-rate improvement.
+Local antibiotics appear more effective than systemic or no-antibiotic adjuncts for non-surgical peri-implantitis, though overall resolution remains ~20–30% with adjunctive therapy alone.
+
+## 세줄요약
+6개 RCT의 Cochrane식 메타분석: 비수술적 주위염 치료(세정/계획적 치근면 활택)에 국소 vs 전신 항생제 병행 효과.
+국소 항생제: PPD −0.6 mm, 성공률 RR 9.89 (대조 대비); 전신 항생제: PPD −1.15 mm이나 성공률 미개선.
+국소 항생제가 전신보다 우월하나, 병행 요법만으로 질환 해결은 20~30% 수준.
 
 ## 1. Document Information
 - **Title:** Antibiotics as Adjunctive Therapy in the Non-Surgical Treatment of Peri-Implantitis: A Systematic Review and Meta-Analysis

@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 SR (40 clinical studies + 16 aggregated publications): poorly controlled DM → ↑ peri-implantitis + long-term implant loss; controlled DM = similar success to healthy controls; perioperative antibiotics + CHX improve outcomes; no contraindication for controlled DM.
 
+
 ## 1. Document Information
 - Journal: International Journal of Implant Dentistry 8:1 (2022)
 - DOI: 10.1186/s40729-021-00399-8

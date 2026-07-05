@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-KU Leuven µTBS study: 2-step SE Clearfil SE Bond 2 maintains bond strength to saliva-contaminated dentin without decontamination; 1-step SE Clearfil Universal Bond Quick requires either Katana Cleaner or CSE2 primer for full recovery.
+
+In vitro micro-tensile bond strength (µTBS) comparative study by the Van Meerbeek group (JAD 2025) evaluating two Kuraray adhesive systems: 2-step self-etch Clearfil SE Bond 2 (CSE2) versus 1-step universal adhesive Clearfil Universal Bond Quick (CUBQ) under saliva contamination and decontamination protocols. Tested immediate and aged (50,000 thermocycle) conditions.
+
+Clearfil SE Bond 2 demonstrated robust bond strength to saliva-contaminated dentin without additional decontamination, maintaining clinically acceptable values. Clearfil Universal Bond Quick required decontamination with either Katana Cleaner (10-MDP–containing agent) or CSE2 primer to recover bond strength; without decontamination, CUBQ performance significantly degraded.
+
+Limited to two Kuraray adhesives and bur-cut dentin only; clinical efficacy unconfirmed by RCT. Generalizability restricted by adhesive selection, single substrate preparation method, and absence of carious/sclerotic dentin evaluation, though findings support a practical intraoral decontamination protocol for universal adhesives.
+
+## 세줄요약
+
+KU Leuven의 Van Meerbeek 그룹(JAD 2025)이 수행한 in vitro 미세인장결합강도(µTBS) 비교 연구: Kuraray 2-step SE (CSE2) vs 1-step universal adhesive (CUBQ), 타액 오염 및 decontamination 프로토콜 평가. Immediate 및 aged (50,000 thermocycle) 조건 테스트.
+
+CSE2는 타액 오염 상아질에 대해 추가 decontamination 없이도 임상적으로 만족할 만한 결합강도 유지. CUBQ는 Katana Cleaner(10-MDP) 또는 CSE2 primer로 decontamination 시 결합강도 회복, 비처리 시 현저히 감소.
+
+2개 제품·bur-cut 상아질만; RCT로 임상 효과 미확인. Adhesive 선택·기질 단일성·우식성/경화상아질 미평가로 일반화 제한, 그러나 universal adhesive용 구강 내 decontamination 프로토콜 지지.
 
 ## 1. Document Information
 - **Journal**: The Journal of Adhesive Dentistry 2025;27:65–74

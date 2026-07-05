@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Human histological case series (27 biopsies across early, intermediate, and late phases of socket healing over 6 months): granulation tissue is replaced by provisional matrix and woven bone between weeks 2–6; vascularity and macrophage density decrease over time; osteoblast presence peaks at 6–8 weeks; mineralization of socket bone is highly variable between individuals.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Clinical Periodontology, 2008; 35(7): 630–639
 - **Affiliation**: Research Centre for the Study of Periodontal Diseases, University of Ferrara, Italy (and Sahlgrenska Academy, Gothenburg, Sweden)

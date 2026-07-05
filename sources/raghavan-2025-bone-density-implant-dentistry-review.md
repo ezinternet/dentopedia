@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review of bone density classification (Misch D1–D4, Lekholm-Zarb), measurement methods (CBCT HU), and clinical implications for implant treatment planning, surgical technique, and loading protocols.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Research in Medical Sciences 2025; 13(9):3904–3907
 - **Study type**: Narrative review

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA on TMD prevalence; pooled global prevalence approximately 31% for any TMD sign/symptom, with higher rates in women and younger adults; provides epidemiological foundation for TMD research and resource planning.
 
+
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations 2021;25:441–453
 - **DOI**: 10.1007/s00784-020-03710-w

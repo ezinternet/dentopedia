@@ -16,6 +16,7 @@ Foundational in vivo study of osseodensification (OD) in low-density bone — th
 ## Three-line Summary
 Sheep iliac-crest in vivo study (n=2 sheep, 20 implants, 2-month healing) — OD (Versah Densah) gave ~30% higher bone volume %, better removal torque, and less micromotion under lateral load vs conventional drilling.
 
+
 ## 1. Document Information
 - **Type**: Animal experimental (in vivo, biomechanical + histomorphometric)
 - **Journal**: Implant Dentistry 2016;25(1):24–31

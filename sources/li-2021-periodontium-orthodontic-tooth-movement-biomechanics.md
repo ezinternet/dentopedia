@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 교정적 치아이동(OTM) 치주조직 생역학·생물학적 반응 종합 리뷰 (IJOS 2021): 6,808편 검색 → 170편 선정; PDL세포·골세포 역할 새 가설; 4단계(세포외 기계생물학·세포변형·세포활성화·조직재형성) 순차 모델 제시.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Oral Science 2021, 13:20
 - **DOI**: 10.1038/s41368-021-00125-5

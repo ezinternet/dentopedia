@@ -17,6 +17,7 @@ The largest single-SR ARP RCT pool (40 RCTs) quantifying horizontal resorption p
 ## Three-line Summary
 SR (40 RCTs) calculating inverse-variance weighted means by graft material — horizontal ridge resorption was 1.52 mm (allograft), 1.47 mm (xenograft), 2.31 mm (alloplast); ARP reduces resorption vs extraction alone, but inter-material differences are minimal.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Oral & Maxillofacial Research 2019;10(3):e6
 - **Lead institutions**: University of Michigan (Majzoub, Ravida, Tattan), Aalborg University Hospital (Starch-Jensen), University of Oklahoma (Suárez-López del Amo)

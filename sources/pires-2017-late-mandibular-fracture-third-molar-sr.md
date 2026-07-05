@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Systematic review analyzing 124 cases of late mandibular fracture following third molar removal, identifying risk factors, timing, and management strategies.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Oral and Maxillofacial Surgery 2017;46(1):46-53
 - **DOI**: 10.1016/j.ijom.2016.09.018

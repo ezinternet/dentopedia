@@ -17,6 +17,7 @@ SST의 **failure rate·MBL·PES** 3 outcome 집중 SR+MA — esthetic zone impla
 ## Three-line Summary
 SR+MA (Universidad Alfonso X El Sabio 등 Spain, Biology 2021): SST esthetic zone 즉시 임플란트 — failure rate, marginal bone loss (MBL), pink esthetic score (PES) 3 outcome 정량 분석.
 
+
 ## 1. Document Information
 저자: Velasco Bohórquez et al. (Madrid Spain). Biology (MDPI) open access.
 

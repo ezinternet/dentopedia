@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 EAL 4세대별 근관 길이 측정 정확도 SR+MA(15개 연구): 4세대(multi-frequency) 전반적 우위, 세대 간 통계적 유의차 확인.
 
+
 ## 1. Document Information
 - **Title**: Accuracy of different generations of apex locators in determining working length; a systematic review and meta-analysis
 - **Authors**: Nasiri K, Wrbas KT (Danube Private University / University of Freiburg)

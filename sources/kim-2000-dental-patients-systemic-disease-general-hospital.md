@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 Retrospective chart review at 분당제생병원 (Pundang Jesaeng Hospital DMC) OMFS dept, Jan–Dec 1999: 3,506 dental outpatients reviewed, 427 (12.2%) had a systemic disease — hypertension most common, followed by diabetes, heart disease, and liver disease; periodontitis the most common dental diagnosis; 114 internal medicine consultations; 4 severe complications including 1 death (toxic hepatitis post-extraction in a liver-disease elderly patient under GA) and 1 prolonged gingival bleeding in a warfarinized patient after scaling/root planing without baseline coagulation workup.
 
+
 ## 1. Document Information
 
 - **Authors**: Kim Ji-Hong, DDS; Kim Young-Kyun, DDS, MSD, PhD

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Comparative pilot study evaluating esthetic outcomes of immediate implant placement with immediate provisionalization in maxillary anterior sites with vs without buccal dehiscence.
 
+
 ## 1. Document Information
 - **Title:** Esthetic Outcomes for Immediate Implant Placement with Immediate Provisionalization in the Anterior Maxilla with Buccal Dehiscence: Results of a Comparative Pilot Study
 - **Authors:** Veronika Pohl, Julia Cede, Georg Benedikt Mailath Pokorny, Robert Haas, Sebastian Pohl

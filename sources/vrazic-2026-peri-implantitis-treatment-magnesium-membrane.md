@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 MDPI Dentistry 2026;14(2):112 (Zagreb/Osijek): Narrative review of peri-implantitis treatments + 3 case reports using resorbable magnesium membrane for GBR in peri-implantitis defects — novel biodegradable membrane option; illustrative cases only.
 
+
 ## 1. Key Results
 - Narrative review of therapeutic interventions for peri-implantitis
 - Novel approach: magnesium membrane (biodegradable/resorbable) for GBR in peri-implantitis defects

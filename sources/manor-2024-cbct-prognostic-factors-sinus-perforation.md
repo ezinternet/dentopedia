@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Retrospective case-control CBCT analysis (50 scans reviewed, 39 met criteria) of patients undergoing lateral-window maxillary sinus augmentation, comparing those with intraoperative Schneiderian membrane (SM) perforation vs no perforation; identifies thin sinus floor, retention pseudocyst, presence of septae, concave sinus floor, and triangular sinus shape as risk factors for SM perforation, with MS floor width being the only variable reaching statistical significance.
 
+
 ## 1. Document Information
 - **Journal**: BMC Oral Health 2024;24:1463
 - **Pages**: 1–11 (open access)

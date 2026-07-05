@@ -16,6 +16,7 @@ Head-to-head animal histomorphometry showing "anorganic bovine xenografts" are N
 ## Three-line Summary
 Rabbit cranial-vault titanium-cylinder model (n=8, 8/12 wk) head-to-head comparing three anorganic bovine xenografts: Bone-Fill and Bio-Oss were comparable and both clearly superior to Gen-Ox and blood clot in new bone formation.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Maxillofacial and Oral Surgery 2014;13(4):464–470 (received Apr 2013, e-pub Aug 2013).
 - **Study type**: In-vivo experimental, animal (rabbit, n=8 New Zealand whites), 4-arm parallel within-animal design.

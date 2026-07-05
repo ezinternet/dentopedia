@@ -17,6 +17,7 @@ source_collection: external
 
 Beagle 4마리 lateral sinus floor elevation에서 collagenated synthetic bone graft에 PDRN 첨가 시, Schneiderian membrane 근접부(apical AOI)의 new bone 비율 + BIC apical 값이 유의하게 상승.
 
+
 ## 1. Document Information
 
 - **Type**: Animal experimental in vivo study (preclinical)

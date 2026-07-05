@@ -17,6 +17,7 @@ source_collection: external
 
 Beagle 6마리 dehiscence defect + 3D-printed implant 즉시식립에서 CBCP(collagenated biphasic calcium phosphate)에 PDRN 첨가 시, 2주·6주 시점 new bone area·proportion이 유의하게 증가. BIC·BAFO는 유의차 없음.
 
+
 ## 1. Document Information
 
 - **Type**: Animal experimental in vivo study (preclinical)

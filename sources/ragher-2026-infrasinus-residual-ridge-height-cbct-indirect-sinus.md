@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Prospective observational study (n=50, CAS kit): CBCT underestimated infra-sinus residual ridge height by ~1.86 mm vs intraoperative measurement (4.66 vs 6.50 mm, p<0.001), arguing for dual-modality verification in borderline cases.
 
+
 ## 1. Document Information
 - Journal of Indian Prosthodontic Society (JIPS) 2026. Prospective observational clinical study.
 

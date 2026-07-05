@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Chinese clinical case series (n=4 edentulous patients) on a 3D-printed digital stackable template (osteotomy + implant + provisional in one stack) — mean volume deviation 492.94 mm³ (21.21% of preset), mean displacement 0.0248 mm, mean angle deviation 6.03°.
 
+
 ## 1. Document Information
 - **Type**: Clinical case series (technique evaluation)
 - **Journal**: West China Journal of Stomatology, 2021;39(6):732 (Chinese journal, English abstract available)

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Systematic review of RCTs evaluating occlusal splint efficacy for TMD; found moderate evidence that stabilization splints reduce pain and improve function compared to no treatment, but evidence quality is limited.
 
+
 ## 1. Document Information
 - **Journal**: Acta Odontologica Scandinavica (2020)
 - **DOI**: 10.1080/00016357.2020.1759818

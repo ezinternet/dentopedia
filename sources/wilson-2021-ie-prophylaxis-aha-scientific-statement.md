@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 2021 AHA scientific statement updating 2007 IE prophylaxis guidelines: no change — recommend prophylaxis only for 4 highest-risk cardiac categories; no evidence that relaxing 2007 guidelines increased VGS-IE frequency or mortality.
 
+
 ## 1. Document Information
 - Journal: Circulation 143:e963–e978 (May 18, 2021)
 - DOI: 10.1161/CIR.0000000000000969

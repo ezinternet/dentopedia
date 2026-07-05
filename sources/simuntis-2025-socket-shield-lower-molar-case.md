@@ -17,6 +17,7 @@ SST literature는 대부분 **anterior maxilla (esthetic zone)** 중심 — 본 
 ## Three-line Summary
 Case report (Vilnius Univ + Lithuanian Univ of Health Sciences, Dent J 2025): 하악 대구치 부위 SST proof of principle — esthetic zone 중심 SST 적응증을 후방 대구치로 확장하는 임상 시도.
 
+
 ## 1. Document Information
 저자: Regimantas Simuntis (Palanga), Paulius Tušas (corresp, Vilnius Univ), Aušra Ražanauskienė, Vygandas Rutkūnas (Vilnius Univ), Marijus Leketas (Lithuanian Univ of Health Sciences Kaunas). Dentistry Journal (MDPI) open access.
 

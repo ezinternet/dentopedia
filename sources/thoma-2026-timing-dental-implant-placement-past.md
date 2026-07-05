@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Perspective article reviewing the evolution of implant placement timing (ITI Type 1–4), current evidence-based criteria for each protocol, and future directions toward AI-guided, biologically personalized timing decisions.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Periodontal Research 2026; 61:101–106
 - **Type**: Perspective article (part of the JPR 60th anniversary "Past/Present/Future" series)

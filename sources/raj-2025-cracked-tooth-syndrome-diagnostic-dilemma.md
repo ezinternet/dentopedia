@@ -17,6 +17,7 @@ CTS = 5 longitudinal fracture 중 하나, 진단 dilemma의 mini review. [[crack
 ## Three-line Summary
 Mini review (DAPMRV Dental College + Manipal CDS, FROH 2025): CTS = longitudinal fracture의 한 type, 진단 어려움 (diagnostic dilemma) 종합 mini review.
 
+
 ## 1. Document Information
 저자: Shreya Raj (DAPMRV Dental College, Bangalore) + Ankita Singh (Manipal CDS Mangalore). FROH = Frontiers in Oral Health.
 

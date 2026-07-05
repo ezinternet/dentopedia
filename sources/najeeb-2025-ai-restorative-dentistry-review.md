@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 BMC Oral Health 2025;25:592 — PRISMA-style literature review (63 studies, 2020–Jan 2025) of AI in restorative dentistry: caries detection (up to 95% accuracy), endodontics, dental restorations, tooth surface loss, shade determination, regenerative dentistry; flags data privacy, algorithmic bias, AI training programs in dental education.
 
+
 ## 1. Document Information
 - Journal: BMC Oral Health 2025;25:592
 - DOI: 10.1186/s12903-025-05989-1

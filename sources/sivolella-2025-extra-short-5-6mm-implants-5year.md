@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Five-year clinical and radiological follow-up of extra-short (5–6 mm) implants in posterior maxilla/mandible. Compares conventional vs immediate loading and assesses the role of intermediate abutments. 56 implants in 34 patients.
 
+
 ## 1. Document Information
 - **Title:** Extra-short (5–6 mm) implants under immediate loading: 5-year survival, MBL, and the impact of intermediate abutment use
 - **Authors:** Stefano Sivolella et al.

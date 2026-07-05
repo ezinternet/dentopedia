@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 OLP 진단 기준, 임상 유형 분류, 병리기전, 치료 옵션 전반을 다루는 실용적 임상 고찰.
 
+
 ## 1. Document Information
 - **Title**: Diagnosis and management of oral lichen planus — Review
 - **Authors**: N. Srivastava, et al.

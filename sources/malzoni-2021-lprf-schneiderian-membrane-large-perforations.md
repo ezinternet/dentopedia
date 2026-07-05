@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Case series of 9 large Schneiderian membrane (SM) perforations during lateral-window sinus floor augmentation (SFA) repaired with leukocyte- and platelet-rich fibrin (L-PRF) membranes plus deproteinized bovine bone (Bio-Oss) and collagen barrier; 8-month re-entry placed 13 implants with satisfactory primary stability; 3–5 year radiographic follow-up showed osseointegration of all 13 implants and no signs of sinus infection or mucus.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Oral Implantology 2021;47(1):31–35
 - **DOI**: 10.1563/aaid-joi-D-20-00044

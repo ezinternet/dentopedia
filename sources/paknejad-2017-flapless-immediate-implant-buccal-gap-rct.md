@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 피판 없는(flapless) 즉시식립 시 협측 틈새의 이종골 충전이 협측 골 수준에 미치는 영향 RCT.
 
+
 ## 1. Document Information
 - **Title**: Effect of Flapless Immediate Implantation and Filling the Buccal Gap with Xenograft on Buccal Bone Level: A Randomized Clinical Trial
 - **Authors**: Mojgan Paknejad, Solmaz Akbari, Hoori Aslroosta, Mehrdad Panjnoush, Samira Hajheidary

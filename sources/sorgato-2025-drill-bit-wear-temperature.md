@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 In vitro CNC-controlled study (PLOS ONE 2025): direct positive correlation between drill bit wear (assessed by SEM) and bone temperature increase across 150 holes per drill set — far beyond the manufacturer-recommended ~25–30 use limit; correlation with hole geometry is weaker.
 
+
 ## 1. Document Information
 - Journal: PLOS ONE 20(3):e0319492, 19 March 2025
 - Type: In vitro experimental study

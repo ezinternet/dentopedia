@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 즉시임플란트 협측 결손부 충전: 상악 결절(tuberosity) 자가골 vs 이종골 비교 1년 RCT.
 
+
 ## 1. Document Information
 - **Title**: Immediate implants with buccal defects filled with bone from the tuberosity or a xenograft: 1-year randomized trial
 - **Authors**: Gonzalo Stagnaro Borgia, Pablo Pebé, Roberto Barbot, Alex Nogueira Haas

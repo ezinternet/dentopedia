@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율 RET 97.8% / MAP 97.1%, 성공율 RET 91.3% / MAP 94.6% — 유의차 없음.
 
+
 ## 1. Document Information
 - **Title**: Regenerative Endodontic Treatment or Mineral Trioxide Aggregate Apical Plug in Teeth with Necrotic Pulps and Open Apices
 - **Authors**: Torabinejad M, Nosrat A, Verma P, Udochukwu O

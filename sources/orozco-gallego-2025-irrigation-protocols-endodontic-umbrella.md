@@ -14,6 +14,7 @@ source_collection: external
 ## Three-line Summary
 Umbrella review (4 SRs + 9 MAs): PUI most effective for microbial reduction (RD −0.15, p=0.03) and apical healing (RD −0.09, p=0.01); high heterogeneity and variability across irrigant protocols.
 
+
 ## 1. Document Information
 University of Antioquia, Colombia. Umbrella review following UR methodology. Synthesizes SRs and MAs on irrigation protocol effectiveness in endodontic therapy.
 

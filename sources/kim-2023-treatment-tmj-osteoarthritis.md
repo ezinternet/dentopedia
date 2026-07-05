@@ -16,6 +16,7 @@ User가 대한치과의사협회지 2023 vol 61 특집(턱관절 골관절염) �
 ## Three-line Summary
 Korean-language clinician special-feature narrative review summarizing the conservative-first treatment ladder for TMJ osteoarthritis: self-care, NSAIDs, occlusal splint, arthrocentesis (+HA/steroid), surgery as last resort.
 
+
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(5):358–363, 2023
 - Author: Ji Rak Kim (김지락), Dept. of Oral Medicine, Kyungpook National University

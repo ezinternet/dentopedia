@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 In vitro comparison showing Cention N (alkasite) releases fluoride continuously over 3 months and is antibacterial like glass ionomers, with the highest pH of the materials tested — but lower antibacterial activity than Fuji IX GP/Fuji II LC against S. mutans and lower fluoride release than Fuji IX GP.
 
+
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(8):504–, 2023 (11 pages)
 - Authors: Seung-Eun Lee, Ji-Myung Bae, Ji-Young Ra — Wonkwang University (Pediatric Dentistry / Dental Biomaterials)

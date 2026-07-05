@@ -14,7 +14,20 @@ source_collection: external
 Supplies a head-to-head clinical comparison of two named DBBM ARP protocols (Bartee vs Bio-Col) for [[overviews/socket-preservation-arp-overview]], showing equivalent dimensional preservation despite opposite socket-wall starting conditions — a primary-study data point reinforcing the DBBM evidence in [[overviews/dbbm-bone-substitute-overview]]. Provides 6-month CBCT and histomorphometric reference values.
 
 ## Three-line Summary
-Prospective longitudinal study (n=14, 6 mo) comparing two xenograft-based ARP protocols — Bartee (defective socket, with dPTFE membrane) vs Bio-Col (intact socket, collagen plug + xenograft) — both with InterOss® DBBM: comparable dimensional preservation (~11–13% vertical, 20–22% horizontal resorption); Bartee yielded more new bone (31.10% vs 13.24%).
+
+UPAEP (Puebla, Mexico) prospective longitudinal study (n=14, 6-month follow-up): Bartee (n=7, defective socket + dPTFE membrane) vs Bio-Col (n=7, intact 4-wall socket + collagen plug), both InterOss® DBBM xenograft + simultaneous implant placement.
+
+Vertical resorption 11.48% (Bartee) vs 13.24% (Bio-Col, p=0.482, NS); horizontal resorption 21.95% vs 20.55% (p=0.949, NS); histomorphometry new bone Bartee 31.10% vs Bio-Col 13.24% (p=0.744, NS).
+
+Both protocols achieved equivalent 6-month dimensional preservation despite opposite socket-wall starting conditions; Bartee trended toward more new bone but small sample (n=7/arm) limits power; non-randomized, single DBBM brand.
+
+## 세줄요약
+
+UPAEP (멕시코) 전향적 종단 연구 (n=14, 6개월): Bartee (n=7, 결손 socket + dPTFE) vs Bio-Col (n=7, 4벽 intact + collagen plug), 둘 다 InterOss® DBBM.
+
+수직 흡수 11.48% vs 13.24% (NS); 수평 흡수 21.95% vs 20.55% (NS); 신생골 조직형태학 31.10% vs 13.24% (NS, 소표본).
+
+대립되는 socket 상태에도 동등 6개월 차원 보존 달성; non-randomized, 단일 DBBM 브랜드, 소표본 제한.
 
 ## 1. Document Information
 - **Journal**: International Journal of Dentistry 2024, Article 3263011 (received Sep 2022, accepted Apr 2024, published 15 May 2024).

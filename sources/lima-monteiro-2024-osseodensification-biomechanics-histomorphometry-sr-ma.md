@@ -16,6 +16,7 @@ Combined human+animal SR+MA strengthening the osseodensification (OD) primary-st
 ## Three-line Summary
 SR+MA (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human ISQ by median 8.57 vs conventional drilling at baseline (no significant difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79; BIC MD 2.17; BAFO MD 2.11); certainty of evidence low to moderate.
 
+
 ## 1. Document Information
 - **Type**: Systematic review + meta-analysis (combined human + animal)
 - **Journal**: Quintessence International 2024;55(3):212–223

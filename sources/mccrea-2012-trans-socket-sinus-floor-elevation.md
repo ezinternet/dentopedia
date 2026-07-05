@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Case series (n=10) reporting a trans-socket osteotome approach: maxillary extraction socket — even with apical radiolucency or infection — used as the conduit to penetrate or fracture the sinus floor for immediate implant placement with bicortical fixation, without bone substitute, achieving high primary stability when residual bone depth >5 mm.
 
+
 ## 1. Document Information
 - **Journal**: Clinical Advances in Periodontics, Volume 2, Issue 2, pp. 80–87
 - **First published online**: 18 December 2017 (originally 2012)

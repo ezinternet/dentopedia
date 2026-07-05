@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Single-cohort prospective study (18–24 month follow-up) of immediate implant placement with immediate provisional restoration in maxillary anterior sockets using a novel macro-hybrid implant design.
 
+
 ## 1. Document Information
 - **Title:** Clinical Outcomes of Maxillary Anterior Postextraction Socket Implants with Immediate Provisional Restorations Using a Novel Macro-Hybrid Implant Design: An 18- to 24-Month Single-Cohort Prospective Study
 - **Authors:** Pär-Olov Östman, Stephen J. Chu, Carl Drago, Hanae Saito, Myron Nevins

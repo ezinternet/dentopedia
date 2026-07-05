@@ -18,6 +18,7 @@ AO/AAP 2025 peri-implant 질환·병태 예방·관리 합의문 요약 보고�
 ## Three-line Summary
 AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-implant disease prevention and management. Published in J Periodontol May 2025.
 
+
 ## 1. Document Information
 - **Title:** AO/AAP consensus on prevention and management of peri-implant diseases and conditions: Summary report
 - **Authors:** Hom-Lay Wang, Gustavo Avila-Ortiz, Alberto Monje, Purnima Kumar, Javier Calatrava, Tara Aghaloo, Shayan Barootchi, Joseph P. Fiorellini, Maria Elisa Galarraga-Vinueza, Joseph Kan, Guo-Hao Lin, Andrea Ravida, Muhammad H.A. Saleh, Lorenzo Tavelli, AO/AAP Consensus Participants, Paul S. Rosen

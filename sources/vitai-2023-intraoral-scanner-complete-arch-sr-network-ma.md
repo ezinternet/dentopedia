@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 구치열 전체 스캔에서 구강 내 스캐너(IOS) 정확도 비교 SR + network MA.
 
+
 ## 1. Document Information
 - **Title**: Evaluation of the accuracy of intraoral scanners for complete-arch scanning: A systematic review and network meta-analysis
 - **Authors**: Viktória Vitai, Anna Németh, Eleonóra Sólyom, et al.

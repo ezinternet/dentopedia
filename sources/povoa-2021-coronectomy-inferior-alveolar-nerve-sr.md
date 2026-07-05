@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 SR of 16 papers covering 2176 coronectomies: IAN injury 0.59%, lingual nerve injury 0.22%, infection 3.95%, root extraction 5.28% — coronectomy is a low-risk, feasible alternative to third molar extraction.
 
+
 ## 1. Document Information
 - **Journal**: Healthcare 2021, 9, 750
 - **DOI**: 10.3390/healthcare9060750

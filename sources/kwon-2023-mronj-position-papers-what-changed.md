@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Korean-language review of the AAOMS MRONJ position-paper evolution (2007 BRONJ → 2014 MRONJ → 2022 update), highlighting three clinically important 2022 changes: immune-modulator inclusion, operative therapy across all stages, and removal of pre-surgical drug holiday support.
 
+
 ## 1. Document Information
 - Journal: 대한치과의사협회지 (J Korean Dent Assoc) 61(7):444–, 2023 (16 pages)
 - Author: Tae-Geon Kwon (권대근), Dept. of Oral & Maxillofacial Surgery, Kyungpook National University

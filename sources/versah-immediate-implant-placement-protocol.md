@@ -18,6 +18,7 @@ Versah 공식 즉시식립 프로토콜. 발치와에서 OD bur 순서·토크·
 ## Three-line Summary
 Versah manufacturer protocol (2-page) for immediate implant placement into extraction sockets using osseodensification, emphasizing apical anchorage and compaction allografting.
 
+
 ## 1. Document Information
 - **Title:** Osseodensification Immediate Implant Placement Protocol
 - **Authors:** Versah LLC

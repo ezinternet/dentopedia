@@ -17,6 +17,7 @@ Adds the post-COVID temporal arc and the management/modifiable-factor angle (wor
 ## Three-line Summary
 SR (no MA) — first post-pandemic dentist burnout review covering the full pre/during/post-COVID arc; confirms high EE/DP/reduced-PA across all phases, with pandemic-era stressors amplifying impact and workplace relationships/dynamics emerging as the leading modifiable factor.
 
+
 ## 1. Document Information
 - Journal: Healthcare (MDPI), 12:2366, Nov 26 2024
 - DOI: 10.3390/healthcare12232366

@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 Ex-vivo extracted teeth E. faecalis 모델: 3 glide path system 모두 apical bacterial extrusion 측정 가능 — manual K vs One G vs WaveOne Gold Glider 간 유의차 분석 (본문에서 자세 결과는 PDF 직접 확인).
 
+
 ## 1. Document Information
 - European Endodontic Journal 6:221-225 (2021)
 - International Medical University, Kuala Lumpur

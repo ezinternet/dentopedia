@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Systematic review and meta-analysis demonstrating that coronectomy significantly reduces inferior alveolar nerve (IAN) injury risk compared to complete extraction, with acceptable reoperation rates and favorable root migration outcomes.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Oral and Maxillofacial Surgery 2024;82(1):73-92
 - **DOI**: 10.1016/j.joms.2023.07.016

@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics"): narrative review of immediate placement and immediate loading in the anterior esthetic zone — when done correctly and in selected cases, immediate placement helps preserve buccal bone and gingival architecture, with provisional crown shaping the emergence profile; conditions, contraindications, and surgical/prosthetic protocols are detailed.
 
+
 ## 1. Document Information
 - **Type**: Book chapter (IntechOpen, "Human Teeth – From Function to Esthetics")
 - **DOI**: 10.5772/intechopen.109458

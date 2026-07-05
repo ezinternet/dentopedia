@@ -17,6 +17,7 @@ Supplies the molecular mechanism for residual ridge resorption central to [[over
 ## Three-line Summary
 Narrative review proposing that residual ridge resorption (RRR) is a **pathological**, not merely physiological, process driven by oral-barrier-tissue lymphocyte-mediated osteoclast activation on the external alveolar bone surface — Rag2-/- mouse data show that T/B lymphocyte deficiency abolishes external-surface osteoclastogenesis after extraction while intra-socket remodeling remains normal.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Prosthodontic Research 2023;67(1):12–22 (online Feb 2022)
 - **Lead institution**: Department of Molecular and Regenerative Prosthodontics, Tohoku University Graduate School of Dentistry (Sendai, Japan)

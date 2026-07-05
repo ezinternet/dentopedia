@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Periodontal Implant Sci 2026 (online Apr 2026): narrative review of preclinical bone regeneration models — rodent/rabbit/dog/minipig; species-specific healing patterns; translational limitations; standardization requirements.
 
+
 ## 1. Key Results
 - Rodents: cost-effective, genetically manipulable; limited cortical thickness, no Haversian remodeling, strong healing → limited translational value for large defects
 - Rabbits: medium defects, critical-size threshold defined, partial Haversian remodeling

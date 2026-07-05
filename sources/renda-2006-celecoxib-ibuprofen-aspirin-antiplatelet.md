@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Placebo-controlled RCT in 24 OA + stable IHD patients on aspirin 100 mg: ibuprofen 600 mg TID significantly raised serum TXB2 and platelet aggregation (aspirin effect abolished); celecoxib 200 mg BID had no effect on platelet COX-1 inhibition despite equivalent COX-2 suppression.
 
+
 ## 1. Document Information
 - **Journal**: Clinical Pharmacology & Therapeutics 2006;80:264–74
 - **DOI**: 10.1016/j.clpt.2006.05.004

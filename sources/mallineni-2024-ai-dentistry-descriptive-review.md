@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Bioengineering 2024;11:1267 — descriptive review of AI across all dental disciplines (oral medicine, operative, pediatric, periodontology, orthodontics, OMFS, prosthodontics, forensic odontology); core conclusion — radiograph/optical image-based diagnosis dominates current deployments; data availability/uniformity/compute are bottlenecks.
 
+
 ## 1. Document Information
 - Journal: Bioengineering 2024;11(12):1267
 - Published: 2024-12-13

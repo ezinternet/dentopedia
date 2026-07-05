@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 SR (9 studies/guidelines, 2000–2025): epinephrine 1:100,000–1:200,000 only safe vasoconstrictor in pregnancy; levonordefrin lacks safety data; felypressin contraindicated (oxytocic properties → uterine contractions).
 
+
 ## 1. Document Information
 - Journal: Journal of Clinical Medicine 14(13):4773 (July 6, 2025)
 - DOI: 10.3390/jcm14134773

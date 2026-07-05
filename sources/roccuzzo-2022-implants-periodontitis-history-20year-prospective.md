@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 치주염 병력 유무에 따른 임플란트 20년 전향적 연구: 생존율, MBL, 치주염 병력의 영향.
 
+
 ## 1. Document Information
 - **Title**: Clinical outcomes of dental implants in patients with and without history of periodontitis: A 20-year prospective study
 - **Authors**: Andrea Roccuzzo, Jean-Claude Imber, Crystal Marruganti, Giovanni E. Salvi, Guglielmo Ramieri, Mario Roccuzzo

@@ -16,6 +16,7 @@ Primary RCT evidence for osseodensification (OD) in low-quality (D3/D4) bone —
 ## Three-line Summary
 Double-blind RCT (16 patients, 55 implants) in D3/D4 bone — osseodensification produced higher insertion torque (39.0 ± 6.4 vs 32.0 ± 3.4 Ncm, p < 0.001) than standard undersized drilling but identical ISQ at placement and at 6 months, with equivalent survival.
 
+
 ## 1. Document Information
 - **Type**: Double-blind, randomized clinical trial (RCT)
 - **Journal**: Applied Sciences 2021;11:640 (MDPI, open access)

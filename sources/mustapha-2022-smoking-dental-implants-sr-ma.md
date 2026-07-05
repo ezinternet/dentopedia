@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA (Medicina 2022, Malmö Univ): 흡연 + 임플란트 — 실패율 + MBL (marginal bone loss) 모두 흡연자에서 유의하게 높음; 전반적 evidence 흡연 negative effect 확정.
 
+
 ## 2. Key Contributions
 - 광범위 SR+MA on smoking and dental implants.
 - Both failure rate and MBL outcomes addressed.

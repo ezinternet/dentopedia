@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 유치 광범위 우식의 치수 치료(간접치수복조, 직접치수복조, 치수절단, 치수발수) 비교 코크란 리뷰.
 
+
 ## 1. Document Information
 - **Title**: Pulp treatment for extensive decay in primary teeth (Cochrane Review)
 - **Authors**: Smaïl-Faugeron V., Glenny AM., Courson F., Durieux P., Muller-Bolla M., Fron Chabouis H.

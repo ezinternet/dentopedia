@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 First reported case (3-year follow-up) of **Modified Lateral Sinus Floor Elevation (MSFE) performed *before* extraction** of a periodontally hopeless maxillary molar (#16): residual bone height augmented from 1–2 mm to 12–14 mm; tooth retained 13 months pre-extraction; immediate implant placement at extraction; predominantly new bone histologically; <2 mm bone loss after 3 y of loading, no peri-implantitis.
 
+
 ## 1. Document Information
 - **Journal**: Case Reports in Dentistry 2022; Article ID 8143765 (18 pages).
 - **Type**: Case report with 3-year follow-up.

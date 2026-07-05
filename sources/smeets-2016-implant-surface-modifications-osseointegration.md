@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Comprehensive narrative review of dental implant surface modifications (SLA, acid-etching, hydrophilic SLActive, DCD, laser, protein coatings, growth factors) and their effects on osseointegration in healthy and compromised bone.
 
+
 ## 1. Document Information
 - **Journal**: BioMed Research International 2016; Article ID 6285620
 - **Study type**: Narrative review

@@ -17,6 +17,7 @@ source_collection: external
 ## Three-line Summary
 Clinical review (Nosaka Oral Surgery Clinic + Showa University, JCM 2024): 상악동 내 well-defined faintly radiopaque lesion이 있는 환자의 sinus floor elevation — 영상 진단·감별·술식 결정의 종합 review.
 
+
 ## 1. Document Information
 저자: 노사카 그룹 (일본). Showa University Department of Implant Dentistry. JCM open access. 임상 review로 광범위한 radiopaque lesion의 sinus lift 결정 다룸.
 

@@ -16,6 +16,7 @@ Supplies the intervention/management side of the dentist-wellbeing picture (work
 ## Three-line Summary
 Systematic review of workplace interventions for mental health & wellbeing in the dental sector — paucity of evidence, especially for primary prevention; secondary/tertiary (psychoeducational, mindfulness) dominate.
 
+
 ## 1. Document Information
 - Journal: Evidence-Based Dentistry / British Dental Journal (BDJ), 2022 Dec 7
 - DOI: 10.1038/s41432-022-0831-0

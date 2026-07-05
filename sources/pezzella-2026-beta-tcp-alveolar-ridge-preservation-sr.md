@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 J Funct Biomater 2026: SR (5 RCTs): β-TCP alone variable results (worse than xenograft in some); β-TCP in combination = comparable to DBBM; evidence limited and heterogeneous; role of β-TCP in ARP remains provisional.
 
+
 ## 1. Key Results
 - Electronic search up to April 2026; 5 RCTs met inclusion criteria
 - β-TCP alone: variable results — ranging from greater resorption vs xenograft to comparable to FDBA

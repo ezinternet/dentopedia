@@ -16,6 +16,7 @@ source_collection: external
 ## Three-line Summary
 10-year prospective clinical/radiographic follow-up of 108 turned-surface implants in MSFA sites grafted with 80% DPBB + 20% autogenous bone: cumulative survival 86%, mean MBL 1.6±1.0 mm; first 2 years are critical; thereafter excellent stability irrespective of smoking or grafted-vs-residual placement site.
 
+
 ## 1. Document Information
 - **Journal**: Clinical Implant Dentistry and Related Research 2014;16(3):435–446 (online 15 Oct 2012; print issue 2014).
 - **Study type**: Prospective long-term cohort (10-year follow-up of an earlier 3-year report — Hallman 2005).

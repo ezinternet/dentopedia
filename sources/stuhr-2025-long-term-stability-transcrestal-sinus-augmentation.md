@@ -14,6 +14,7 @@ source_collection: external
 ## Three-line Summary
 Narrative review (Periodontology 2000): synthesizes TSFE foundational principles, treatment planning, surgical execution, postoperative management, emerging technologies. Provides **standardized TSFE outcome-reporting checklist** for clinicians and researchers.
 
+
 ## 1. Document Information
 University of Michigan group (Stuhr, Saleh, Testori, Wang, Decker). Companion to Decker 2024 scoping review. Open-access.
 

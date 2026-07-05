@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Systematic review from Okayama University on sleep bruxism (수면이갈이) management in adults; occlusal splints and biofeedback devices show most evidence; pharmacological and BTX options supported by limited data.
 
+
 ## 1. Document Information
 - **Journal**: Japanese Dental Science Review 2022
 - **DOI**: 10.1016/j.jdsr.2021.12.001

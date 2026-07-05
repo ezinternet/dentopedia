@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 4종 버 팁 형상(torpedo, deep chamfer, sloped shoulder, shoulder)으로 형성된 지대치에서 CAD/CAM 지르코니아 코어 제작 → torpedo·deep chamfer가 변연 및 내면 적합성 유의하게 우수; shoulder 버는 full seating 실패율 90%로 임상 부적합.
 
+
 ## 1. Document Information
 - **Journal**: 대한치과재료학회지 2016;43(3):281-288
 - **Institution**: 전북대학교 치의학전문대학원 치과생체재료학교실

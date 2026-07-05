@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Contemp Clin Dent 2015;6(3):409 (Narayana Dental College, India) — in vitro study comparing 12° vs 20° total occlusal convergence (TOC) on retention of Ni-Cr single crowns and 3/6/9-unit FPDs across canine, premolar, molar dies; 12° retains better for canine (101.7N vs 59.7N) and molar (100.8N vs 81.2N), NS for premolar (P > 0.05); retention scales with unit number except 3 vs 6 units at 20°.
 
+
 ## 1. Document Information
 - Journal: Contemporary Clinical Dentistry 2015;6(3):409
 - Type: In vitro experimental

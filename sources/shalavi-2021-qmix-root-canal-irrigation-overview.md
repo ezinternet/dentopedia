@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Narrative overview of QMix root canal irrigant: CHX + EDTA + detergent combination used as single-step final rinse; simultaneous smear layer removal + antibacterial without separate chelating/disinfecting steps.
 
+
 ## 1. Document Information
 - **Journal**: Iranian Endodontic Journal 16(2):71–77, 2021
 - **DOI**: Not recoverable (image-based PDF; header-only text extraction)

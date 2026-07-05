@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 German S3 clinical guideline (DGI/DGZMK) on all-ceramic implant-supported restorations recommending lithium disilicate and all zirconia generations for single crowns (~96–97% 3-year survival), restricting FDPs and full-arch cases to 3Y-TZP zirconia, and cautioning against polymer-infiltrated ceramics and highly translucent zirconia in load-bearing indications.
 
+
 ## 1. Document Information
 - **Journal**: International Journal of Implant Dentistry (2025) 11:53
 - **DOI**: 10.1186/s40729-025-00641-7

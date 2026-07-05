@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 하악 제3대구치 발치 후 하치조신경 손상 문헌 고찰 (JOMR 2014): 14편 분석; 유병률 0.35–8.4%; 24세 초과, 수평매복, 레지던트 시술이 위험인자; 영구적 손상은 드묾.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Oral & Maxillofacial Research 2014, 5(4): e1
 - **DOI**: 10.5037/jomr.2014.5401

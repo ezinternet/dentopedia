@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Critical narrative review challenges 9 "biomimetic restorative dentistry" (BRD) protocols (caries dyes, alumina air abrasion, enamel beveling, CHX MMP inactivation, "elected" gold-standard adhesives, IDS, deep margin elevation, decoupling, fiber inserts) — finding most lack RCT/SR-level evidence of superiority over standard adhesive techniques.
 
+
 ## 1. Document Information
 - **Journal**: J Appl Oral Sci 2024;32:e20240271
 - **DOI**: 10.1590/1678-7757-2024-0271

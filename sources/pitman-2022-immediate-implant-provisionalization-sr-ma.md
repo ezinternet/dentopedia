@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 즉시식립 후 즉시임시치관 유무에 따른 임플란트 생존율, MBL, 연조직 결과 비교 SR+MA.
 
+
 ## 1. Document Information
 - **Title**: Immediate implant placement with or without immediate provisionalization: A systematic review and meta-analysis
 - **Authors**: Pitman L., et al.

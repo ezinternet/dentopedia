@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 상악동 거상술 3가지 주요 술식(측창 이식술, 경치조 이식술, 짧은 임플란트) 비교 리뷰: 모두 높은 임플란트 생존율 및 신생골 형성 보고; 막 천공이 주요 합병증; 술식별 적응 골높이 기준 제시.
 
+
 ## 1. Document Information
 - **Journal**: Journal of Oral & Maxillofacial Research 2017;8(3):e3
 - **Institution**: Aalborg University Hospital, Denmark

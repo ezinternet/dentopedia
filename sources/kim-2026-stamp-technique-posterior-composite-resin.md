@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 Case report (2 cases, mandibular second molars) demonstrating the stamp technique — fabricating a flowable composite index of the intact occlusal surface before cavity preparation and using it to imprint the final composite layer for anatomic accuracy.
 
+
 ## 1. Document Information
 - **Title:** Stamp technique for posterior teeth composite resin restoration: Report of 2 cases
 - **Authors:** Min-Hae Kim, Sung-Ae Son, Jeong-Kil Park

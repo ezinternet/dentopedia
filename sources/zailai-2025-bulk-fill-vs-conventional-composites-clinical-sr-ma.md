@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA of 9 RCTs (632 restorations) finding no significant difference in failure rates between bulk-fill and incremental resin composites in posterior permanent teeth (RR = 0.82; 95% CI: 0.33–2.01; p = 0.67).
 
+
 ## 1. Document Information
 - **Type**: Systematic Review and Meta-analysis
 - **Published**: December 21, 2025 in Cureus (open access, CC-BY 4.0)

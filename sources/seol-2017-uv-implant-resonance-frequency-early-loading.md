@@ -13,6 +13,7 @@ source_collection: external
 ## Three-line Summary
 밀폐형 UV 처리 임플란트 증례보고: UV 광기능화로 초친수성·양전하 표면 구현 → stability dip 없이 ISQ 조기 상승 → 식립 1주~4주 내 조기부하 성공.
 
+
 ## 1. Document Information
 - **Journal**: Implantology 2017;21(2):110-127 (대한구강악안면임플란트학회지)
 - **Institution**: 중앙대병원 치과보철과, 프라임치과, 굿윌치과병원, 에스플란트치과병원, 미유치과

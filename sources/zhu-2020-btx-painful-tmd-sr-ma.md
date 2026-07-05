@@ -12,6 +12,7 @@ source_collection: external
 ## Three-line Summary
 SR+MA on botulinum toxin type A for painful TMD; found BTX-A superior to placebo for myofascial pain reduction but no significant difference in maximum mouth opening; 20 RCTs included qualitatively, 6 meta-analyzed.
 
+
 ## 1. Document Information
 - **Study type**: Systematic review and meta-analysis
 - **Year**: 2020
