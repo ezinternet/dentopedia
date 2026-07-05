@@ -67,6 +67,7 @@ AUDITS = [
     ("link-integrity.py",            [],       False),
     ("interactive-staleness.py",     [],       False),
     ("find-contradiction-candidates.py", [],   False),
+    ("deviation-audit.py",               [],   False),
 ]
 
 
