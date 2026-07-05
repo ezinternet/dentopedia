@@ -1,0 +1,1443 @@
+1
+
+Introduction
+
+One of the main challenges in implant therapy is to minimise physiological marginal bone loss during the first year after implant restoration. This loss can be triggered by the establishment of peri‐implant biological width, although other factors such as foreign body reactions also play a contributing role (Heitz‐Mayfield et al.). Early marginal bone loss is a key predictor of progressive bone loss and peri‐implantitis. Galindo‐Moreno et al. () found that an initial bone loss of > 0.44 mm correlated with peri‐implant bone loss progression at 18 months. Similarly, a recent 10‐year cohort study showed that implants with early bone loss of ≥ 0.5 mm were 5 times more likely to present peri‐implantitis, especially in the presence of additional risk factors such as smoking and periodontal disease (Windael et al.).
+
+The occurrence of progressive or late peri‐implant bone loss after physiological bone remodelling is more related to an inflammatory response to a microbiological challenge (Monje, Insua, and Wang; Monje, Chappuis, et al.). Patient‐related factors most linked to peri‐implantitis include a history of periodontitis, non‐compliance with peri‐implant maintenance therapy (PIMT), poor plaque and blood glucose control and smoking. On the other hand, the most significant local factors contributing to peri‐implantitis are improper implant positioning, excess cement, insufficient width of the keratinised mucosa (KM), thickness of the buccal bone or a prosthetic design that compromises both implant hygiene and the distribution of load and pressure on the soft and hard tissues (de Tapia et al.; Heitz‐Mayfield et al.).
+
+Abutment height has been studied in short‐ and medium‐term randomised trials (Galindo‐Moreno et al.; Blanco et al.; Windael et al.; Galindo‐Moreno et al.). A meta‐analysis showed that long abutments (≥ 2 mm) reduced bone level changes by 0.27–0.33 mm (Muñoz et al.). However, the long‐term effects upon bone stability and peri‐implant disease remain unclear.
+
+The primary goal of the present study was to assess bone level changes around subcrestal implants with 1‐ or 3‐mm abutments and their relationship to peri‐implant health and compliance with supportive therapy.
+
+2
+
+Materials and Methods
+
+2.1
+
+Study Design
+
+The present 7‐year randomised controlled trial builds on data from a previous study (Muñoz et al.). It was approved by the Ethics Committee of the Universitat International de Catalunya (UIC, Barcelona, Spain) (Ref. PER‐ECL‐2015 05) and followed the guidelines of the Declaration of Helsinki (2013 revision). It was duly registered (), and is reported per the CONSORT 2010 guidelines.
+
+2.2
+
+Study Population and Selection Criteria
+
+The study population and inclusion criteria were previously detailed in the aforementioned 1‐year follow‐up publication (Muñoz et al.). All participants were informed about the study and the long‐term follow‐up involved.
+
+2.2.1
+
+Inclusion Criteria
+
+Patients enrolled in the original study and re‐examined at 1‐year follow‐up;
+
+Ability to understand and sign the informed consent for non‐interventional follow‐up.
+
+2.2.2
+
+Exclusion Criteria
+
+Refusal to participate in the long‐term follow‐up study;
+
+New systemic conditions affecting implant status (e.g., diabetes mellitus);
+
+Surgical procedures at the implant site (e.g., mucogingival surgery, guided bone regeneration).
+
+2.3
+
+Surgical and Prosthetic Interventions
+
+The surgical and prosthetic treatment protocol was thoroughly detailed in a previous publication (Muñoz et al.). In summary, all implants were placed 1.5 mm subcrestally and randomly received a definitive abutment height of either 1 mm (control group) or 3 mm (test group) (Figure). After 16 weeks, definitive screw‐retained restorations were connected to the definitive abutment (Figure).
+
+FIGURE 1
+
+Definitive 1‐mm‐ and 3‐mm‐high abutments used (Permanent, Klockner Implant System, Barcelona, Spain).
+
+FIGURE 2
+
+Radiographic sequence: (A) surgery; (B) prosthetic phase; (C) 1‐year abutment at surgery; and (D) 7‐year follow‐up. In this patient, only one of the implants was introduced in the study.
+
+2.4
+
+Peri‐Implant Maintenance Therapy
+
+All patients were instructed to follow a PIMT schedule based on their initial risk factors at the time their implant restorations were made. The proposed PIMT intervals ranged from 3 to 6 months. PIMT included updating the medical history, periodontal and radiographic examinations, evaluation of the oral mucosa, reinforcement of oral hygiene habits and supragingival instrumentation using ultrasonic devices and air polishers (Air Flow, EMS, Switzerland). If the prosthesis did not allow proper cleaning, it was removed and modified.
+
+2.5
+
+Data Collection
+
+2.5.1
+
+Sociodemographic and Clinical Data
+
+The following sociodemographic information was collected for comparison with the initial data: age and smoking (categorised as no; yes, < 10 cigarettes/day; yes, > 10 cigarettes/day). Additionally, one trained and calibrated examiner (G.P.) collected the following clinical parameters:
+
+2.5.2
+
+Radiographic Evaluation
+
+Radiographs were taken using the paralleling cone technique with individualised silicone bite registration keys. All measurements were done to the nearest 0.1 mm at baseline as well as at 1‐ and 7‐year follow‐ups by an independent, blinded, calibrated examiner.
+
+The following radiographic landmarks (Figure) were identified at both mesial and distal sites: the most coronal part of the bone crest (C), the implant shoulder (IS) and the first bone‐to‐implant contact (fBIC). When the most coronal part of the crest aligns with the implant shoulder, it is marked as (C). However, if the first bone contact occurs on the abutment rather than the implant shoulder, it is recorded as (fBAC).
+
+The following measurements were taken at baseline (day of surgery) and at 1‐ and 7‐year follow‐ups after surgery:
+
+FIGURE 3
+
+Radiographic landmarks. BAC, bone‐to‐abutment crest; BIC, bone‐to‐implant contact; C, bone crest; IS, implant shoulder.
+
+2.6
+
+Outcomes
+
+The primary outcome of the study was the MBL changes from the first to the seventh year between the 1‐mm‐ and 3‐mm‐high abutments. As secondary outcomes, the following were considered: peri‐implant status at 7 years, PPD changes, BoP changes and KM width changes from 1 to 7 years and crestal bone level changes from 1 to 7 years.
+
+2.7
+
+Calibration
+
+The radiographic measurements at 7‐year follow‐up were performed by an independent, trained, blinded and previously calibrated examiner (J.M.) (intra‐class correlation coefficient [ICC] = 0.99).
+
+Clinical parameters were assessed by an examiner (G.P.) who underwent an intra‐examiner calibration exercise. This involved taking measurements of BoP at six sites of three implants in three different patients, repeating the examinations with a 3‐day interval between each (Kappa = 0.82).
+
+2.8
+
+Statistical Analysis
+
+The statistical unit of the study was the patient. Qualitative variables were presented as absolute and relative frequencies, while quantitative variables were expressed as mean and standard deviation (SD) and 95% confidence interval (CI).
+
+Categorical variables were compared using Pearson's‐test (or Fisher's exact test if the conditions for application were not met). The normality of quantitative variables was explored using the Shapiro–Wilk test and through visual analysis of the P–P plot. When normality was assumed, parametric tests (Student's‐test or analysis of variance [ANOVA]) were used. Non‐parametric tests (Mann–Whitney‐test or Kruskal–Wallis test) were used when normality was not assumed. The Bonferroni correction was applied for multiple comparisons.
+
+Regression analysis was not performed because of the relatively small sample size involved, which could result in insufficient statistical power and unstable regression estimates. Additionally, preliminary analysis revealed multicollinearity among several independent variables, further limiting the reliability of such models.
+
+All analyses were performed using the IBM SPSS version 28.0.1.1 statistical package (IBM Corporation, Armonk, NY, USA). The significance level was set at 5%.
+
+3
+
+Results
+
+3.1
+
+Study Population
+
+The study flowchart is shown in Figure. Initially, 65 patients with 99 implants were analysed at 1 year. After 7 years, 37 patients with 63 implants were still being followed up. The main reasons for dropouts were as follows: 14 patients were not willing to continue the study; 6 patients had died; 7 patients could not be contacted; 3 patients moved abroad; and 5 patients had discontinued their treatment at the university dental clinic. At the 7‐year follow‐up, 37 patients remained in the study: 17 from the control group and 20 from the test group, with 63 implants in total (32 in the control group and 31 in the test group). One implant was lost in the control group from the first to the seventh year.
+
+Tablesummarises the main demographic variables. At baseline, the average age of the participants was 56.48 ± 12.65 years in the control group and 53.78 ± 9.37 years in the test group. By the 7‐year follow‐up, the mean age was 62.12 ± 9.68 years and 62.15 ± 10.24 years for the 1‐mm and 3‐mm‐high abutment groups, respectively.
+
+Most of the patients remained non‐smokers at 7 years (83.8%). The primary reason for tooth loss among the participants was not known (40%), followed by caries (33.8%) and periodontitis (20%). At the last follow‐up, the majority of the patients were non‐compliant to PIMT (45.9%), while only 16.2% were compliant. Most of the patients reported using interdental cleaning devices (70.2%), with interproximal brushes being the most common device (59.5%). No significant differences were observed between the groups.
+
+TABLE 1
+
+Characteristics of the study participants in the original sample and at 7 years.
+
+Variables
+
+Original sample (1 mm) (= 29)
+
+Original sample (3 mm) (= 36)
+
+p
+
+7‐year sample 1 mm (= 17)
+
+7‐year sample 3 mm (= 20)
+
+p
+
+Age (years)
+
+56.48 ± 12.65
+
+53.78 ± 9.37
+
+0.174
+
+62.12 ± 9.68
+
+62.15 ± 10.24
+
+0.992
+
+Smoking habit
+
+Yes
+
+5 (17.2%)
+
+3 (8.3%)
+
+0.277
+
+1 (5.9%)
+
+5 (22.7%)
+
+0.385
+
+No
+
+24 (82.8%)
+
+33 (91.7%)
+
+16 (94.1%)
+
+15 (77.3%)
+
+PIMT compliance
+
+Non‐compliant
+
+—
+
+—
+
+—
+
+6 (35.3%)
+
+11 (55%)
+
+0.385
+
+Erratically compliant
+
+—
+
+—
+
+7 (41.2%)
+
+7 (35%)
+
+Compliant
+
+—
+
+—
+
+4 (23.5%)
+
+2 (10%)
+
+Interproximal hygiene
+
+None
+
+—
+
+—
+
+—
+
+7 (41.2%)
+
+4 (20%)
+
+0.448
+
+Interproximal brushes
+
+—
+
+—
+
+9 (52.9%)
+
+13 (65%)
+
+SuperFloss
+
+—
+
+—
+
+0 (0.0%)
+
+1 (5%)
+
+Floss
+
+—
+
+—
+
+1 (5.9%)
+
+2 (10%)
+
+3.2
+
+Effect of Abutment Height on Radiographic Bone Level Changes After 7 Years
+
+Tablepresents the mean changes in radiographic IS–C and IS–fBIC measurements over various timepoints. From baseline to 7 years, the 3‐mm‐high abutment group demonstrated significantly lower MBL (IS–fBIC) changes compared to the 1‐mm‐high abutment group, both at mesial (−0.27 ± 1.32 mm vs. −0.42 ± 0.50 mm, respectively) and distal sites (−0.33 ± 1.39 mm vs. −0.35 ± 0.38 mm), with statistically significant differences in both cases (< 0.001).
+
+On evaluating the changes between the 1‐ and 7‐year follow‐up, a similar trend was observed. The 3‐mm high abutment group showed MBL changes of −0.24 ± 1.34 mm mesially and −0.33 ± 1.38 mm distally, while the 1‐mm high abutment group exhibited changes of −0.22 ± 0.48 mm and −0.10 ± 0.45 mm at the mesial and distal sites, respectively. Although the mesial difference remained statistically significant (= 0.049), the distal comparison did not reach significance (= 0.749).
+
+These findings indicate that from implant placement to the seventh year, the 3‐mm‐high abutments maintained a more coronal position of the marginal bone, with significantly smaller MBL changes both mesially and distally (< 0.001). Additionally, from year 1 to year 7, the mesial MBL changes remained significantly lower in the 3‐mm group (= 0.049). However, since no statistically significant difference was found at the distal site between the two abutment heights in this same period (= 0.749), no definitive conclusion can be drawn regarding the impact of abutment height on distal bone stability beyond the first year.
+
+TABLE 2
+
+Radiographic changes in crestal (IS–C) and marginal (IS–fBIC) bone levels of the 1‐mm‐ and 3‐mm‐high abutments across various timepoints.
+
+Radiographic changes
+
+1 mm
+
+3 mm
+
+p
+
+n
+
+Mean ± SD
+
+n
+
+Mean ± SD
+
+IS–C
+
+Surgery
+
+48
+
+1.42 ± 0.99
+
+51
+
+1.87 ± 1.00
+
+1 year
+
+48
+
+0.47 ± 0.85
+
+51
+
+1.26 ± 0.94
+
+7 years
+
+32
+
+−0.23 ± 0.79
+
+31
+
+0.87 ± 1.82
+
+Surgery
+
+48
+
+0.97 ± 0.58
+
+51
+
+1.23 ± 1.20
+
+1 year
+
+48
+
+0.21 ± 0.72
+
+51
+
+0.21 ± 0.72
+
+7 years
+
+32
+
+−0.18 ± 0.64
+
+31
+
+0.51 ± 1.78
+
+Surgery–1 year
+
+48
+
+0.71 ± 0.89
+
+51
+
+0.49 ± 0.89
+
+0.241
+
+Surgery–7 years
+
+32
+
+1.65 ± 0.95
+
+31
+
+1.00 ± 2.13
+
+0.002*
+
+1 year–7 years
+
+32
+
+0.69 ± 0.68
+
+31
+
+0.40 ± 1.80
+
+0.016*
+
+Surgery–1 year
+
+48
+
+0.61 ± 0.84
+
+51
+
+0.31 ± 0.84
+
+0.480
+
+Surgery–7 years
+
+32
+
+1.14 ± 0.68
+
+31
+
+0.72 ± 1.80
+
+0.002*
+
+1 year–7 years
+
+32
+
+0.38 ± 0.80
+
+31
+
+0.50 ± 1.43
+
+0.880
+
+IS–fBIC
+
+Surgery
+
+48
+
+—
+
+51
+
+—
+
+1 year
+
+48
+
+−0.21 ± 0.34
+
+51
+
+−0.06 ± 0.19
+
+7 years
+
+32
+
+−0.43 ± 0.51
+
+31
+
+−0.30 ± 1.32
+
+Surgery
+
+48
+
+—
+
+51
+
+—
+
+1 year
+
+48
+
+−0.25 ± 0.35
+
+51
+
+−0.02 ± 0.08
+
+7 years
+
+32
+
+−0.35 ± 0.38
+
+31
+
+−0.35 ± 1.38
+
+Surgery–1 year
+
+48
+
+−0.17 ± 0.16
+
+51
+
+−0.03 ± 0.16
+
+0.001*
+
+Surgery–7 years
+
+32
+
+−0.42 ± 0.50
+
+31
+
+−0.27 ± 1.32
+
+< 0.001***
+
+1 year–7 years
+
+32
+
+−0.22 ± 0.48
+
+31
+
+−0.24 ± 1.34
+
+0.049*
+
+Surgery–1 year
+
+48
+
+−0.21 ± 0.15
+
+51
+
+−0.03 ± 0.16
+
+< 0.001***
+
+Surgery–7 years
+
+32
+
+−0.35 ± 0.38
+
+31
+
+−0.33 ± 1.39
+
+< 0.001***
+
+1 year–7 years
+
+32
+
+−0.10 ± 0.45
+
+31
+
+−0.33 ± 1.38
+
+0.749
+
+: Subscripts indicate measurement site: d = distal; m = mesial. *< 0.05, **< 0.001.
+
+3.3
+
+Effect of Abutment Height on Peri‐Implant Clinical Parameters After 7 Years
+
+Tableprovides a summary of implant‐related clinical variables at 1 and 7 years. There was a mean increase in PPD of 0.68 ± 1.01 mm in the control group versus 0.44 ± 0.86 mm in the test group. There were no significant differences between the 1‐mm and 3‐mm groups in terms of PPD and KM width changes. However, the 1‐mm‐high abutments presented a significant increase in the percentage of BoP from 1 to 7 years at the mesio‐buccal (= 0.020) and buccal sites (= 0.038) compared to the 3‐mm‐high abutments, while the test group showed a significant increase in BoP at the disto‐lingual sites (= 0.013).
+
+TABLE 3
+
+Peri‐implant‐related clinical variables of the 1‐mm‐ and 3‐mm‐high abutments at 1 and 7 years.
+
+Implant‐related data
+
+1 year
+
+7 years
+
+1–7 years
+
+1 mm (= 48)
+
+3 mm (= 51)
+
+p
+
+1 mm (= 32)
+
+3 mm (= 31)
+
+p
+
+1 mm (= 32)
+
+3 mm (= 31)
+
+p
+
+PPD (mm) (mean ± SD)
+
+PPD mB
+
+3.19 ± 1.45
+
+2.75 ± 0.91
+
+0.071
+
+3.00 ± 1.46
+
+2.71 ± 0.97
+
+0.621
+
+0.66 ± 1.75
+
+1.10 ± 1.33
+
+0.266
+
+PPD B
+
+2.56 ± 1.07
+
+2.55 ± 0.86
+
+0.945
+
+2.45 ± 1.03
+
+2.55 ± 0.85
+
+0.616
+
+0.84 ± 1.39
+
+0.48 ± 1.00
+
+0.244
+
+PPD dB
+
+2.98 ± 1.18
+
+3.18 ± 1.23
+
+0.417
+
+2.97 ± 1.16
+
+3.19 ± 1.38
+
+0.770
+
+0.75 ± 1.34
+
+0.45 ± 1.09
+
+0.338
+
+PPD mL
+
+3.15 ± 1.13
+
+3.02 ± 1.10
+
+0.575
+
+3.06 ± 1.06
+
+3.19 ± 1.22
+
+0.838
+
+0.59 ± 1.43
+
+0.39 ± 1.36
+
+0.559
+
+PPD L
+
+2.75 ± 0.81
+
+2.69 ± 1.07
+
+0.740
+
+2.76 ± 0.83
+
+2.77 ± 1.15
+
+0.611
+
+0.53 ± 1.24
+
+0.10 ± 1.01
+
+0.132
+
+PPD dL
+
+3.00 ± 1.20
+
+3.22 ± 1.40
+
+0.415
+
+2.97 ± 1.19
+
+3.32 ± 1.49
+
+0.396
+
+0.75 ± 1.50
+
+0.16 ± 1.73
+
+0.154
+
+PPD total
+
+2.87 ± 0.84
+
+2.96 ± 0.86
+
+0.679
+
+3.59 ± 0.62
+
+3.40 ± 0.66
+
+0.241
+
+0.68 ± 1.01
+
+0.44 ± 0.86
+
+0.313
+
+BoP+ (%)
+
+BoP+ mB
+
+25.0%
+
+20.0%
+
+0.053
+
+75.0%
+
+58.1%
+
+0.154
+
+62.5%
+
+22.6%
+
+0.020*
+
+BoP+ B
+
+12.0%
+
+9.8%
+
+0.670
+
+65.6%
+
+41.9%
+
+0.059
+
+56.2%
+
+25%
+
+0.038*
+
+BoP+ dB
+
+20.0%
+
+19.6%
+
+0.879
+
+65.6%
+
+58.1%
+
+0.537
+
+56.2%
+
+32.2%
+
+0.123
+
+BoP+ mL
+
+18.8%
+
+27.5%
+
+0.306
+
+59.4%
+
+64.5%
+
+0.674
+
+34.4%
+
+38.7%
+
+0.768
+
+BoP + L
+
+14.6%
+
+17.6%
+
+0.679
+
+43.8%
+
+45.2%
+
+0.910
+
+34.4%
+
+16.1%
+
+0.247
+
+BoP+ dL
+
+25.0%
+
+15.7%
+
+0.249
+
+53.1%
+
+64.5%
+
+0.359
+
+21.9%
+
+61.2%
+
+0.013*
+
+BoP total
+
+16.7%
+
+22.6%
+
+0.110
+
+60.4%
+
+55.4%
+
+0.595
+
+44.3%
+
+32.8%
+
+0.245
+
+KM width (mm) (mean ± SD)
+
+KM mB
+
+2.25 ± 1.04
+
+2.50 ± 1.17
+
+0.478
+
+2.78 ± 1.79
+
+2.68 ± 1.47
+
+0.966
+
+0.19 ± 1.69
+
+−0.13 ± 1.57
+
+0.444
+
+KM B
+
+2.00 ± 1.31
+
+2.17 ± 1.19
+
+0.537
+
+2.69 ± 1.69
+
+2.42 ± 1.48
+
+0.653
+
+−0.06 ± 1.50
+
+−0.23 ± 1.52
+
+0.670
+
+KM dB
+
+2.00 ± 1.07
+
+2.25 ± 1.21
+
+0.460
+
+2.75 ± 1.88
+
+2.52 ± 1.50
+
+0.843
+
+−0.06 ± 1.50
+
+−0.19 ± 1.49
+
+0.730
+
+KM mL
+
+3.63 ± 1.84
+
+3.50 ± 2.15
+
+0.792
+
+2.94 ± 1.43
+
+2.95 ± 1.54
+
+0.950
+
+0.24 ± 1.35
+
+1 ± 2.19
+
+0.222
+
+KM L
+
+3.00 ± 1.77
+
+3.08 ± 1.56
+
+0.815
+
+2.83 ± 1.67
+
+2.84 ± 1.57
+
+0.975
+
+−0.06 ± 1.68
+
+0.68 ± 2.03
+
+0.243
+
+KM dL
+
+3.38 ± 1.92
+
+3.25 ± 1.71
+
+0.910
+
+2.76 ± 1.56
+
+2.89 ± 1.59
+
+0.900
+
+0.29 ± 1.49
+
+0.74 ± 2.08
+
+0.472
+
+KT total
+
+3.02 ± 1.28
+
+2.78 ± 1.31
+
+0.470
+
+3.09 ± 1.57
+
+2.87 ± 1.29
+
+0.550
+
+−0.14 ± 1.35
+
+−0.09 ± 1.61
+
+0.907
+
+: Subscripts indicate measurement site: mB = mesiobuccal; B = mid‐buccal; dB = distobuccal; mL = mesio‐lingual; L = mid‐lingual; dL = disto‐lingual.
+
+3.4
+
+Effect of Abutment Height on Peri‐Implant Status After 7 Years
+
+The peri‐implant health status of the implants with 1‐mm‐ and 3‐mm‐high abutments after 7 years of follow‐up is reported in Figure. In the control group, 8 implants (24.2%) were healthy, 18 implants (54.6%) presented peri‐implant mucositis and 6 implants (18.2%) had peri‐implantitis, with 1 implant failing over the 7 years. In the test group, 7 implants (22.6%) were healthy, 23 implants (74.2%) presented peri‐implant mucositis and 1 implant (3.2%) had peri‐implantitis. There were no significant differences in peri‐implant diagnosis based on abutment height (= 0.158). After applying the Bonferroni correction, the 1‐mm‐high abutments exhibited a greater proportion of peri‐implantitis, while the 3‐mm‐high abutments had a greater proportion of peri‐implant mucositis; however, the differences were not statistically significant (= 0.102).
+
+3.5
+
+Effect of Other Patient‐ and Implant‐Related Factors on Peri‐Implant Status Based on Abutment Height
+
+Tablepresents the influence of patient‐ and implant‐related factors on peri‐implant status at 7 years by abutment height. Smoking, PIMT compliance and interproximal hygiene were not significantly associated with peri‐implant disease in either group. However, for the 1‐mm‐high abutments, implant location had a significant effect: implants in the posterior maxilla were 7 times more likely to remain healthy than those in the posterior mandible (= 0.039). Mucosal thickness was also associated with disease (= 0.004), with peri‐implant mucositis being more frequent when the thickness exceeded 2 mm in the 3‐mm group. Additionally, the KM width differed significantly among peri‐implant conditions (= 0.043). In the 1‐mm‐high abutments, peri‐implant mucositis cases had 1.05 mm less KM than healthy implants (= 0.010), while in the 3‐mm‐high abutments the difference was 1.27 mm (< 0.001).
+
+TABLE 4
+
+Influence of patient‐/implant‐related factors on peri‐implant diseases at 7 years according to abutment height.
+
+Patient‐/implant‐related factors
+
+Healthy
+
+Peri‐implant mucositis
+
+Peri‐implantitis
+
+p
+
+Abutment height
+
+Smoking habit 7 years
+
+n
+
+(%)
+
+1 mm
+
+Non‐smoker
+
+28
+
+7 (87.5%)
+
+15 (83.3%)
+
+6 (100%)
+
+0.080
+
+Smoker
+
+4
+
+1 (12.5%)
+
+3 (16.7%)
+
+0 (0%)
+
+3 mm
+
+Non‐smoker
+
+23
+
+6 (85.7%)
+
+16 (69.6%)
+
+1 (100%)
+
+0.580
+
+Smoker
+
+8
+
+1 (14.3%)
+
+7 (30.4%)
+
+0 (0%)
+
+Abutment height
+
+Compliance PIMT
+
+n
+
+(%)
+
+1 mm
+
+Zero
+
+12
+
+2 (25%)
+
+5 (27.8%)
+
+5 (83.3%)
+
+0.161
+
+Once/year
+
+10
+
+3 (37.5%)
+
+7 (38.9%)
+
+0 (0%)
+
+≥ 2 times/year
+
+10
+
+3 (37.5%)
+
+6 (33.3%)
+
+1 (16.7%)
+
+3 mm
+
+Zero
+
+17
+
+5 (71.4%)
+
+11 (47.8%)
+
+1 (100%)
+
+0.643
+
+Once/year
+
+11
+
+2 (28.6%)
+
+9 (39.1%)
+
+0 (0%)
+
+≥ 2 times/year
+
+3
+
+0 (0%)
+
+3 (13.1%)
+
+0 (100%)
+
+Abutment height
+
+Interproximal hygiene
+
+n
+
+(%)
+
+1 mm
+
+Lacking
+
+15
+
+3 (37.5%)
+
+8 (44.4%)
+
+4 (66.7%)
+
+0.790
+
+Interproximal toothbrush
+
+16
+
+5 (62.5%)
+
+9 (50.0%)
+
+2 (33.3%)
+
+Floss
+
+1
+
+0 (0%)
+
+1 (5.6%)
+
+0 (60%)
+
+3 mm
+
+Lacking
+
+5
+
+1 (14.3%)
+
+4 (17.4%)
+
+0 (0%)
+
+0.451
+
+Interproximal toothbrush
+
+20
+
+5 (71.4%)
+
+15 (65.2%)
+
+0 (0%)
+
+Floss
+
+6
+
+1 (14.3%)
+
+4 (17.4%)
+
+1 (100%)
+
+Abutment height
+
+Implant position
+
+n
+
+(%)
+
+1 mm
+
+Posterior maxilla
+
+16
+
+7 (87.5%)
+
+8 (44.4%)
+
+1 (16.7%)
+
+0.039*
+
+Posterior mandible
+
+16
+
+1 (12.5%)
+
+10 (55.6%)
+
+5 (83.3%)
+
+3 mm
+
+Posterior maxilla
+
+2
+
+3 (42.9%)
+
+9 (39.1%)
+
+0 (0%)
+
+0.710
+
+Posterior mandible
+
+19
+
+4 (57.1%)
+
+14 (60.9%)
+
+1 (100%)
+
+Abutment height
+
+Mucosal thickness
+
+n
+
+(%)
+
+1 mm
+
+≤ 2 mm
+
+5
+
+3 (37.5%)
+
+1 (5.6%)
+
+1 (14.3%)
+
+0.205
+
+> 2 mm
+
+27
+
+5 (62.5%)
+
+17 (94.4%)
+
+5 (85.7%)
+
+3 mm
+
+≤ 2 mm
+
+5
+
+3 (42.9%)
+
+1 (4.3%)
+
+1 (100%)
+
+0.004*
+
+> 2 mm
+
+26
+
+4 (57.1%)
+
+22 (95.7%)
+
+0 (0%)
+
+Abutment height
+
+KM width (mm)
+
+Mean (SD)
+
+1 mm
+
+4.08 (2.89, 5.27)
+
+3.03 (1.95, 4.10)
+
+2.67 (2.03, 3.30)
+
+0.043*
+
+3 mm
+
+2.91 (2.05, 3.76)
+
+1.67 (1.67, 1.67)
+
+2.91 (2.37, 3.46)
+
+4
+
+Discussion
+
+The primary aim of this 7‐year follow‐up study was to evaluate the long‐term MBL changes around implants with 1‐mm‐ or 3‐mm‐high abutments. Key findings include the following: (i) 3‐mm‐high abutments showed significantly lower MBL changes over time (< 0.001) and a trend towards fewer peri‐implantitis cases, although statistical significance was not reached; (ii) the occurrence of peri‐implant disease was not influenced by smoking, adherence of PIMT or interproximal hygiene devices; (iii) implants with 1‐mm‐high abutments in the mandible had a higher risk of peri‐implant disease; (iv) a thicker mucosa was linked to a higher risk of peri‐implant mucositis with 3‐mm‐high abutments; and (v) a narrower KM significantly increased the risk of peri‐implant mucositis, regardless of the abutment height.
+
+Recent meta‐analyses (Chen et al.; Muñoz et al.; Tajti et al.; Del Amo et al.) have shown that long abutments protect against marginal bone loss, but most trials have focused on early (i.e., 6 months) to medium‐term (i.e., 3 years) follow‐up periods. This study provides new insights into the long‐term role of abutment height in MBL stability. In our prior 1‐year follow‐up study (Muñoz et al.), we found 1‐mm‐high abutments had about 0.20 mm more bone loss than 3‐mm‐high abutments. Over 7 years, these differences were minimised, suggesting that abutment height influences early but not long‐term bone remodelling. The stability of MBL could be attributed to the small physiological bone loss occurring within the first year. At 1 year, it is notable that the change in MBL did not exceed 0.5 mm—a critical threshold for predicting progressive bone loss over time (Galindo‐Moreno et al.; Windael et al.).
+
+One of the strengths of this study is the long‐term evaluation of peri‐implant diseases in relation to 1‐mm‐ and 3‐mm‐high abutments. Although statistically significant differences in disease occurrence were not found, descriptive data suggest a preventive effect of 3‐mm‐high abutments, with a peri‐implantitis prevalence of just 3.2% compared to 18.2% in the 1‐mm group reported in other studies (Rodrigo et al.; Vilarrasa et al.; Rakic et al.; Diaz et al.). This supports the idea that peri‐implantitis is more likely when the restorative margin is ≤ 1.5 mm from the bone crest (Derks et al.). However, the higher prevalence of peri‐implant mucositis in both groups was considerably greater than reported in the literature (Rodrigo et al.; Rakic et al.). This discrepancy may reflect the use of BoP as a diagnostic tool, which can lead to overdiagnosis (Monje et al.; Dukka et al.).
+
+Oral hygiene (OH) can influence bone stability and peri‐implant disease risk. As previously reported (Muñoz et al.), full‐mouth plaque score (FMPS) remained ≤ 20% throughout the study, with no significant variation. PIMT non‐compliance is a key risk factor for peri‐implantitis (Berglundh et al.; Monje et al.; Frisch et al.) and may confound the link between abutment height and disease. In this study, 83.8% of patients were non‐compliant or irregularly compliant, likely due to the academic setting, limited resident training (Amerio et al.) and COVID‐19 disruptions (Dill et al.; Paolantoni et al.). Notably, only 3 patients in the 3‐mm group and 10 in the control group were fully compliant, suggesting 3‐mm‐high abutments may offer protection even with poor PIMT adherence.
+
+Implants in the mandible are generally more susceptible to marginal bone loss (Trombelli et al.) and peri‐implantitis (Derks et al.; Rodrigo et al.). In this study, 1‐mm abutments in the posterior mandible showed higher peri‐implantitis rates than those in the maxilla, possibly due to several factors. Denser mandibular bone may increase cortical compression and inflammation during insertion. Additionally, the short distance from the restorative margin to the bone crest (Derks et al.), combined with thinner mucosa (Monje, Insua, and Wang; Monje, Chappuis, et al.), may heighten inflammation and bone loss. Higher occlusal forces in the mandible could also contribute to peri‐implant breakdown (Rodrigo et al.; Rakic et al.).
+
+Vertical mucosal thickness is a key factor in the development of peri‐implant disease (Monje et al.). In this study, > 80% of sites had thick tissue (> 2 mm), with peri‐implant mucositis present in 94.4% (1‐mm abutments) and 95.7% (3‐mm abutments) of the cases. While thicker tissues may improve sealing and protect against early bone loss (Suárez‐López Del Amo et al.; Linkevicius et al.; Vervaeke et al.; Pico et al.; Spinato et al.; Jung et al.), they can also lead to deeper probing depths, especially in implants placed 1.5 mm subcrestally, thus potentially increasing inflammation, particularly with low PIMT compliance.
+
+The width of KM is crucial for preventing peri‐implant diseases. A narrow KM (< 2 mm) is linked with higher risks of peri‐implantitis, plaque accumulation and bone loss (Ramanauskaite et al.; Herrera et al.). In this study, implants with peri‐implant mucositis had 1 mm less KM compared to healthy implants in both groups, highlighting the importance of KM in disease prevention, particularly in patients with poor adherence to PIMT (Monje and Blasi; Sanz et al.).
+
+The main limitation of this study was the high dropout rate, conditioning the study's statistical power and potentially introducing attrition bias. Factors such as the COVID‐19 pandemic, clinic closures and insufficient patient guidance from residents likely affected compliance (Amerio et al.). A second limitation was the use of the paralleling cone technique with a patient‐specific holder and calibrated examiner (ICC = 0.99); thus perfect standardisation was not achieved. Despite statistically significant differences in bone changes, results should be interpreted with caution.
+
+5
+
+Conclusion
+
+Subcrestally placed two‐piece implants with 3‐mm‐high abutments show less marginal bone loss over the long term compared to 1‐mm‐high abutments. Although there appears to be a trend towards a higher incidence of peri‐implantitis in the 1‐mm‐high abutment group, the difference was not statistically significant.
+
+Author Contributions
+
+conceptualisation, data collection, writing – original draft.data collection, writing – original draft.formal analysis, data interpretation, writing – original draft, review and editing.data collection.conceptualisation, writing – review and editing.conceptualisation, writing – review and editing.
+
+Conflicts of Interest
+
+Dr José Nart is a member of the Klockner Implant System scientific committee. The other authors declare no conflicts of interest.
+
+Supporting information
+
+Flowchart.
+
+Prevalence of peri‐implant diseases at the 7‐year mark among 1‐mm and 3‐mm high abutments.
