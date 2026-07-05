@@ -25,6 +25,10 @@ Observational (cohort) 만, PM interval 표준화 없음, 우식/치주질환 �
 
 관찰 연구, 표준화 없음, 위험도별 미규정, 응답 제한.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/periodontics-treatment-ladder]]에서 확인되는 현재 역할을 백필.] [[overviews/periodontics-treatment-ladder]] SPT(치주유지치료) 주기 표에서 manresa-2018(Cochrane)·jung-2019(sr, CAL 안정성)와 나란히, "재내원 주기가 짧을수록 치아 보존에 유리하나 일률적 권고 근거는 부족하다"는 recall-interval 특화 증거를 제공.
+
 ## 1. Document Information
 - **Journal**: Journal of Evidence-Based Dental Practice 2015
 - **DOI**: 10.1016/j.jebdp.2015.10.001
