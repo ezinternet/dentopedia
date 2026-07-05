@@ -14,19 +14,19 @@ source_collection: external
 
 ## Three-line Summary
 
-Umbrella review (5 systematic/meta-analytic reviews from 43 eligible;
+Umbrella review of 5 systematic reviews and meta-analyses (drawn from 43 eligible studies, 3 judged low risk of bias) examining proximal contact loss (PCL) between implant-supported prostheses and adjacent natural teeth.
 
-3 low-risk): proximal contact loss between implant prostheses and adjacent teeth is predominantly open-type and more frequent at mesial contacts, especially in the mandibular arch, with no sex or anterior/posterior difference.
+Proximal contact loss is predominantly open-contact type and significantly more frequent at mesial sites compared to distal sites, particularly in the mandibular arch, with pooled evidence confirming this pattern across included SR/MA.
 
-(incomplete)
+No statistically significant differences found for sex, anterior versus posterior tooth location, or contact type by patient demographics—findings support a mechanical/anatomic basis for mesial predominance independent of demographic factors.
 
 ## 세줄요약
 
-엄브렐러 리뷰(SR/MA 5편, 저위험 3편): 임플란트 보철과 인접치 사이 proximal contact loss는 주로 open contact 형태이고 mesial(특히 하악)에서 더 흔하며, 성별·전후방 부위에 따른 차이는 없다.
+체계적 리뷰·메타분석 5편의 엄브렐러 리뷰(43편 중 선별, 저위험 편향 3편)로서 임플란트 보철과 인접 자연치 사이의 근접접촉상실(PCL) 현황을 종합.
 
-(incomplete)
+근접접촉상실은 주로 개방접촉 형태이고 원심보다 근심 부위에서 유의하게 더 흔하며, 특히 하악궁에서 두드러진 패턴을 종합 수준에서 재확인.
 
-(incomplete)
+성별, 전치/구치 부위, 환자 특성에 따른 유의차 없음—메시얼 우위가 구조적·해부학적 기전에 근거하며 인구통계학적 요인과 무관함을 시사.
 
 ## 1. Document Information
 - European Journal of Dentistry, published online June 10, 2022. DOI 10.1055/s-0042-1745771. ISSN 1305-7456.

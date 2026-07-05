@@ -19,21 +19,19 @@ text_filename: fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation.txt
 
 ## Three-line Summary
 
+Prospective single-arm clinical trial (n=26 implants, 26 anterior maxilla patients) tested the Safe Angle Concept virtual plan combined with a novel plateau-drill 2-guide protocol to reduce labial deviation in immediate implant placement.
 
-Prospective single-arm clinical trial (n=26 implants/26 patients, anterior maxilla IIP) using the "Safe Angle Concept" virtual plan + a novel plateau-drill 2-guide protocol: planned-vs-actual deviation was 4.56 ± 3.14° angular, 0.91 ± 0.61 mm platform, 1.47 ± 0.88 mm apex;
+Planned-versus-actual deviation measured 4.56 ± 3.14° angular, 0.91 ± 0.61 mm at platform, and 1.47 ± 0.88 mm at apex; all 26 implants remained within the safe angle, none required angled abutments, and Pink Esthetic Score was 11.89 ± 1.75 at 9 months.
 
-all implants stayed within the safe angle, none needed angled abutments, PES 11.89 ± 1.75.
-
-(incomplete)
+Single-surgeon, no-control study design limits direct evidence that the plateau protocol outperforms standard guided IIP; higher deviation predictors included lateral/canine sites and female gender, but author notes an internal inconsistency regarding implant survival outcomes.
 
 ## 세줄요약
 
+전상악 즉시식립 26증례 전향연구: "Safe Angle Concept" 가상계획 + plateau-drill(평탄화 드릴) 2-guide 프로토콜로 협측 편향을 줄이는 연구 설계.
 
-전상악 즉시식립 26증례 전향연구: "Safe Angle Concept" 가상계획 + plateau-drill 2-guide로 계획-실제 편차 각도 4.56°, platform 0.91 mm, apex 1.47 mm — 전 증례 safe angle 내, 각도형 지대주 불필요, PES 11.89.
+계획-실제 편차는 각도 4.56 ± 3.14°, platform 0.91 ± 0.61 mm, apex 1.47 ± 0.88 mm이며, 전 26증례가 safe angle 범위 내, 각도형 지대주 불필요, 9개월 PES 11.89 ± 1.75.
 
-(incomplete)
-
-(incomplete)
+단일 시술자·대조군 없는 설계로 plateau 프로토콜이 표준 유도식입보다 우월한지 직접 증명 부족; 여성과 측절·견치 부위에서 platform 편차 더 크며, 논문 내 임플란트 생존율 보고 불일치 있음.
 
 ## 1. Document Information
 

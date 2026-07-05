@@ -15,21 +15,19 @@ Provides 5-year retrospective clinical data on full-mouth adhesive rehabilitatio
 
 ## Three-line Summary
 
+5-year retrospective case series (8 patients, 212 restorations) reporting full-mouth adhesive rehabilitation in severe tooth wear (TWES grade 2–4) with semi-additive protocol integrating DSD, VDO elevation, and posterior-first occlusal restoration sequencing.
 
-5-year retrospective case series (8 patients, 212 restorations) reporting 90.1% overall survival for adhesive full-mouth rehabilitation in severe tooth wear, with occlusal veneers showing lower survival (79.1%) than vestibular (94.1%) or palatal (100%) veneers.
+90.1% overall survival at 60 months (mean 57.6 months); occlusal veneers 79.1%, vestibular veneers 94.1%, palatal veneers 100%; composite resin 86.3%, ceramic 93.1% (p=0.107 NS); 18 of 21 complications resolved with direct composite repair (chipping, debonding).
 
-(incomplete)
-
-(incomplete)
+Posterior veneer location is a significant failure risk (HR 0.143, p=0.008); minimally invasive adhesive approach demonstrates reparability advantage, though single operator/retrospective design and small sample (n=8) limit generalizability to high-complexity full-mouth severe wear cases.
 
 ## 세줄요약
 
+5년 후향적 증례군 연구 (8명, 212개 수복물): 중증 치아마모(TWES 등급 2–4) 환자의 접착성 전악 수복(Total Rehabilitation)에서 DSD·수직교합고경(VDO) 증대·후방 교합면 우선 시술 반영사항을 담은 반가산적 프로토콜 적용.
 
-후향적 증례군 연구 (8명, 212개 수복물, 60개월): 중증 치아마모(Tooth Wear) 환자에서 접착성 전악 수복(Total Rehabilitation) 생존율 90.1%, 교합면 비니어(Occlusal Veneer) 79.1% vs 순측 비니어(Vestibular Veneer) 94.1% vs 구개측 비니어(Palatal Veneer) 100%.
+60개월 전체 생존율 90.1% (평균 57.6개월): 교합면 비니어 79.1%, 순측 비니어 94.1%, 구개측 비니어 100%; 복합레진 86.3%, 세라믹 93.1% (p=0.107, 비통계적); 21개 합병증 중 18개를 직접 복합레진 수복으로 해결 (치핑·접착상실).
 
-(incomplete)
-
-(incomplete)
+후방 비니어 위치는 통계적으로 유의한 실패 위험인자 (HR 0.143, p=0.008); 최소침습 접착성 기법의 수복 용이성 우점이 입증되나, 단일 술자·후향설계·소표본(n=8)은 고복잡도 전악 중증마모 증례의 일반화 가능성을 제한.
 
 ## 1. Document Information
 

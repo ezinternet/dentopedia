@@ -19,21 +19,21 @@ text_filename: feng-2025-expert-consensus-digital-complete-denture.txt
 
 ## Three-line Summary
 
+Expert consensus statement from a Chinese multi-institutional prosthodontics panel (27 specialists) standardizing the complete digital denture workflow from case selection through long-term follow-up.
 
-Expert consensus statement (Chinese multi-institutional prosthodontics panel) standardizing the digital complete denture workflow — case selection, intraoral/facial scanning, custom tray/jaw-relation digital design, CAD tooth arrangement, additive (SLA/DLP/material jetting/powder bed fusion) and subtractive (CNC milling) manufacturing, and evaluation/outcome metrics — with a synthesis of the current comparative evidence vs conventional dentures.
+Workflow spans intraoral/facial scanning, custom tray digital design, jaw-relation recording, CAD tooth arrangement, additive (SLA/DLP/material jetting/powder bed fusion) and subtractive (CNC milling) manufacturing, with validated accuracy metrics (intraoral scans <0.2 mm vs impressions, retention 13–20 N, occlusal force 130–225 N) and time savings of 58–233 minutes per case.
 
-(incomplete)
-
-(incomplete)
+Digital complete dentures achieve comparable patient satisfaction and mechanical performance to conventional dentures with significant time efficiency gains, though high initial equipment/training costs and lack of standardized denture stability metrics remain practical limitations.
 
 ## 세줄요약
 
+중국 27명 다기관 보철과 전문가 패널의 합의문으로, 적응증 선정부터 장기 추적 평가까지 디지털 총의치 치료의 표준화된 임상 프로토콜을 최초로 제시.
 
-중국 다기관 보철과 전문가 합의문: 디지털 총의치의 적응증 선정, 구강 내/안모 스캔, 커스텀 트레이·악간관계 디지털 디자인, 인공치 배열, 적층(SLA/DLP/재료분사/분말적층) 및 절삭(CNC 밀링) 제작, 평가지표까지 표준화된 임상 워크플로우를 제시하고 기존 방식과의 비교 근거를 종합함.
+구강 내/안모 스캔, 커스텀 트레이·악간관계 디지털 설계, CAD 인공치 배열, 적층(SLA/DLP/재료분사/분말적층) 및 절삭(CNC 밀링) 제조 방식을 포함하며, 검증된 정확도(구강스캔 <0.2mm, 유지력 13–20N, 교합력 130–225N)와 임상 시간 단축(사례당 58–233분)을 제시.
 
-(incomplete)
+디지털 총의치는 기존 방식과 비교해 환자만족도 및 역학적 성능이 동등하고 시간 효율성이 우수하나, 초기 장비·교육 투자 비용이 높고 총의치 안정성(수평 운동 저항성)에 대한 표준화된 평가 기준이 부족함.
 
-(incomplete)
+
 
 ## 1. Document Information
 

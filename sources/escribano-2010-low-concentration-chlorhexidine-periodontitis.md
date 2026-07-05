@@ -16,21 +16,21 @@ pdf_filename: escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
 
 ## Three-line Summary
 
+Double-blind RCT (n=47, 3 months) — 0.05% CHX + 0.05% CPC mouth rinse in supportive periodontal care (SPC) non-compliant patients with moderate-to-severe chronic periodontitis.
 
-RCT (n=47, 3 months) — 0.05% CHX + 0.05% CPC mouth rinse in SPC non-compliant patients reduces plaque and salivary bacterial load significantly vs placebo;
+Plaque index significantly decreased in test group and increased in placebo group (p<0.001); F. nucleatum and P. intermedia counts in saliva and crevicular fluid also decreased; BoP significantly reduced.
 
-modest microbiological benefit.
-
-(incomplete)
+Clinical implications: low-concentration CHX formulation effective for patients with poor oral hygiene compliance; however, no significant differences in PPD or CAL attained, limiting clinical attachment improvement.
 
 ## 세줄요약
 
+이중맹검 RCT (n=47, 3개월) — 중등~중증 만성 치주염의 SPC 불순응 환자에서 0.05% CHX + 0.05% CPC 가글의 유효성 검증.
 
-RCT (47명, 3개월) — SPC 불순응 치주염 환자에서 0.05% CHX + 0.05% CPC 가글은 위약 대비 플라크·타액 세균 유의하게 감소;
+위약군과 비교하여 시험군의 플라크 지수 유의하게 감소, 위약군 증가 (p<0.001); 타액 및 치은열구 F. nucleatum, P. intermedia 균수 감소; BoP 유의하게 감소.
 
-미생물학적 개선 효과.
+임상적 의의: 저농도 CHX 제형이 구강위생 불순응 환자에 효과적이나, PPD·CAL 개선 없어 임상적 부착 회복의 한계.
 
-(incomplete)
+
 
 ## 1. Document Information
 

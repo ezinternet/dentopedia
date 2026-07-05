@@ -18,21 +18,19 @@ text_filename: enislidis-2006-staged-ridge-splitting-implant-mandible.txt
 
 ## Three-line Summary
 
+Prospective technical note (n=5 patients, 6 sites, 17 implants): two-stage mandibular ridge-split using staged buccal corticotomy (stage 1) followed by controlled splitting at 40 days (stage 2) to predetermine the greenstick-fracture line.
 
-Prospective technical note (n=5 patients, 6 sites, 17 implants): a two-stage mandibular ridge-split that predetermines the greenstick-fracture line via a prior buccal corticotomy, keeping the buccal segment periosteally pedicled — all segments fractured as planned and all implants were stable and loaded at 6 months.
+All 6 sites fractured exactly as planned; all 17 implants achieved stability and bone contact by 6 months; fixed partial denture loading was successful in all cases.
 
-(incomplete)
-
-(incomplete)
+Two-stage approach overcomes single-stage ridge-split limitations in the mandible by converting an uncontrollable fracture line into a predetermined one via prior corticotomy—allowing safer augmentation in narrow mandibular ridges.
 
 ## 세줄요약
 
+Prospective 기술노트(환자 5명·부위 6곳·임플란트 17개): 1단계 협측 corticotomy 후 40일 치유, 2단계에서 분할—녹색골절 위치를 미리 결정하는 2단계 하악 치조제 분할 술식.
 
-2단계 하악 치조제 분할(prospective 기술노트, 환자 5명·17 임플란트): 먼저 협측 corticotomy로 녹색골절 위치를 미리 정해 두고 40일 치유 후 분할 → 협측 분절을 골막 유경피판으로 유지, 전 분절이 계획대로 골절되고 6개월에 전 임플란트가 안정·부하 성공.
+전체 6부위가 계획대로 골절되었으며, 17개 모든 임플란트가 6개월에 안정성과 골접촉 달성; 모든 환자에서 고정식 부분의치 부하 성공.
 
-(incomplete)
-
-(incomplete)
+하악에서 단일-단계 ridge split의 제어 불가능한 골절 위치 문제를 사전 corticotomy를 통한 예정된 골절선으로 해결—좁은 하악 치조제에서 보다 안전한 수평 증대를 가능하게 함.
 
 ## 1. Document Information
 

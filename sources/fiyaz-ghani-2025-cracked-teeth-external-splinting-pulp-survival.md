@@ -18,21 +18,19 @@ literature-surveillance `cracked-tooth` sweep(2026-06-19)에서 적립된 고가
 
 ## Three-line Summary
 
+Systematic review + meta-analysis of 10 studies covering 711 cracked teeth with normal pulp or reversible pulpitis, comparing external splinting strategies over ≥12-month follow-up with Newcastle-Ottawa bias assessment and GRADE certainty evaluation.
 
-Abstract-only SR+MA (10 studies, 711 cracked teeth, normal pulp/reversible pulpitis): external splinting yields 85% pooled 12-month pulp survival (95% CI 79–91%), higher without interim orthodontic banding (89% vs 79%) and with a direct vs stepwise approach (89% vs 81%);
+External splinting achieves 85% pooled 12-month pulp survival (95% CI 79–91%); protocols without interim orthodontic banding show superior outcomes (89% vs 79%), as do direct versus stepwise approaches (89% vs 81%).
 
-very low GRADE certainty.
-
-(incomplete)
+Conclusions drawn from abstract-level data only (full text not retrieved, very low GRADE certainty); forest plots and individual study details unavailable for verification.
 
 ## 세줄요약
 
+10편 SR+MA, 정상치수·가역성치수염 균열치 711개 수집, ≥12개월 추적관찰, Newcastle-Ottawa 비뚤림 평가·GRADE 확실성 수준 적용.
 
-abstract-only SR+MA(10편, 균열치 711개, 정상치수/가역성치수염): external splinting의 12개월 치수생존 85%(95% CI 79–91%) — 임시 교정밴드 미사용 시 89% vs 사용 79%, direct 89% vs stepwise 81%;
+External splinting 12개월 치수생존율 85%(95% CI 79–91%); 임시 교정밴드 미사용(89% vs 79%)·직접 치료법(89% vs 81%)에서 우월한 결과.
 
-GRADE 확실성 매우 낮음.
-
-(incomplete)
+초록 수준만 근거(전문 미확보, GRADE 확실성 매우 낮음); 숲그림·개별 연구 세부 사항 검증 불가.
 
 ## 1. Document Information
 

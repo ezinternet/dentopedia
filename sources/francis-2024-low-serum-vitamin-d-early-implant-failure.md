@@ -20,21 +20,19 @@ Note: abstract-only — full text not retrieved.
 
 ## Three-line Summary
 
+Prospective cohort study of 174 implants in 109 patients, with serum vitamin D measured on the day of placement and followed to restoration (~3–6 months) with failure defined as ≥50% bone loss or implant mobility.
 
-Prospective cohort (174 implants / 109 patients) found no statistically significant correlation between low serum vitamin D and early dental implant failure;
+Early failures (n=8) had a counterintuitive higher mean serum vitamin D (42.54 ng/mL) compared to successful patients (31.92 ng/mL); no statistically significant correlation between low serum vitamin D and early implant failure was found.
 
-the 8 failed cases even had a higher mean serum vitamin D (42.54 ng/mL) than successful patients (31.92 ng/mL).
-
-(incomplete)
+The negative result and inverse vitamin D difference suggest the vitamin D–osseointegration link is not as straightforward as the broader literature suggests; however, small failure count (n=8) and abstract-only availability limit statistical power and generalizability.
 
 ## 세줄요약
 
+임플란트 174개·환자 109명 전향적 코호트 연구로, 식립일 혈청 비타민 D 측정 후 보철 시점(~3-6개월)까지 추적하고 실패를 골소실 50% 이상 또는 임플란트 동요로 정의.
 
-전향적 코호트(임플란트 174개 / 환자 109명)에서 낮은 혈청 비타민 D와 조기 임플란트 실패 사이에 통계적으로 유의한 상관관계가 없었으며, 실패한 8건은 오히려 성공군(31.92 ng/mL)보다 높은 평균 비타민 D(42.54 ng/mL)를 보인 음성 결과 연구.
+실패한 8건은 역설적으로 성공군(31.92 ng/mL)보다 평균 비타민 D가 높았으며(42.54 ng/mL), 낮은 혈청 비타민 D와 조기 임플란트 실패 사이에 통계적으로 유의한 상관관계가 없었음.
 
-(incomplete)
-
-(incomplete)
+음성 결과와 역방향 비타민 D 차이는 광범위한 문헌의 비타민 D-골융합 연관성이 단순하지 않음을 시사하나, 실패 건수 적음(n=8)과 초록만 이용 가능으로 통계력과 일반화 가능성 제한.
 
 ## 1. Document Information
 

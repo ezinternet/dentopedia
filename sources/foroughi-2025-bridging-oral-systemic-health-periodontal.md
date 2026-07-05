@@ -19,21 +19,19 @@ text_filename: foroughi-2025-bridging-oral-systemic-health-periodontal.txt
 
 ## Three-line Summary
 
+Narrative review of periodontal–systemic health linkages across seven organ systems (CVD, diabetes, adverse pregnancy, Alzheimer's, cancer, RA, respiratory) and their shared inflammatory pathways, synthesizing saliva/blood/GCF biomarker panels (IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, microbial DNA) as diagnostic targets.
 
-Narrative review synthesizing periodontal–systemic links (CVD, diabetes, adverse pregnancy, Alzheimer's, cancer, RA, respiratory) and the saliva/blood/GCF biomarker panel (IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, microbial DNA), arguing for AI-integrated multiplex point-of-care diagnostic platforms (lateral flow, biosensors, microfluidics/lab-on-a-chip) for earlier detection and personalized systemic risk stratification.
+Severe periodontitis (~1.1B cases globally; 47% US adults ≥30y) associated with 12% higher CHD risk (meta-analysis, n=86k), 3× diabetes/respiratory infection risk, and elevated cancer risk (esophageal +39%, gastric +13%, colorectal +21%, pancreatic +35%); GCF RANKL:OPG ratio and salivary IL-1β/TNF-α emerging as early detection biomarkers.
 
-(incomplete)
-
-(incomplete)
+AI-integrated multiplex point-of-care platforms (lateral flow, microfluidics, biosensors) proposed to enable rapid chairside multiplex detection and personalized systemic risk stratification, but translation blocked by biomarker variability, lack of standardized cut-offs, and need for large multicenter validation studies across populations.
 
 ## 세줄요약
 
+내러티브 리뷰로 7개 장기계 치주–전신 연관성(심혈관·당뇨·임신 부작용·알츠하이머·암·류마티스관절염·호흡기)과 공유 염증경로를 종합하고, 타액/혈액/치은열구액(GCF) 바이오마커 패널(IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, 미생물 DNA)을 진단 표적으로 제시.
 
-내러티브 리뷰 — 치주–전신 연관성(심혈관·당뇨·임신 부작용·알츠하이머·암·류마티스관절염·호흡기)과 타액/혈액/치은열구액(GCF) 바이오마커 패널(IL-1β, TNF-α, CRP/IL-6, MMP-8/-9, RANKL-OPG, 미생물 DNA)을 종합하고, 조기 검출·개인 맞춤 전신위험 층화를 위해 AI 통합 멀티플렉스 현장검사(POC) 플랫폼(측방유동검사, 바이오센서, 미세유체/lab-on-a-chip)을 제안.
+중증 치주염(~11억 명 유병률; 미국 성인 ≥30세 47%) — 관상동맥질환 위험 12% 증가(메타분석, n=86k), 당뇨병/호흡기감염 3배 위험, 암 위험도 상승(식도 +39%, 위 +13%, 대장 +21%, 췌장 +35%); GCF RANKL:OPG 비율과 타액 IL-1β/TNF-α가 조기 검출 바이오마커로 부상.
 
-(incomplete)
-
-(incomplete)
+AI 통합 멀티플렉스 현장검사(POC) 플랫폼(측방유동검사, 미세유체, 바이오센서)이 치과의원에서 신속 다중 검출과 맞춤형 전신위험 층화를 가능케 할 것으로 제안되나, 바이오마커 개인차·표준 임계값 부재·대규모 다기관 인구 검증 연구 필요에 의해 임상 번역 저해됨.
 
 ## 1. Document Information
 

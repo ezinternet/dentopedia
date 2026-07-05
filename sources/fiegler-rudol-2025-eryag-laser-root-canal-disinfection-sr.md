@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+Systematic review (15 studies, 2015–2025) of Er:YAG laser-activated irrigation (PIPS/SWEEPS) applied to root canal disinfection, comparing laser activation against conventional and ultrasonic methods.
 
-Systematic review (15 studies, 2015–2025) finding Er:YAG laser-activated irrigation (PIPS/SWEEPS) consistently improved root canal disinfection, biofilm disruption, and smear-layer removal over conventional and ultrasonic methods, and enabled lower NaOCl concentrations — though heterogeneous protocols limit pooling and clinical generalization.
+All 15 included studies reported that Er:YAG laser activation (PIPS/SWEEPS) significantly improved bacterial reduction, biofilm disruption, and smear-layer removal, especially in apical regions and within dentinal tubules, and enabled clinically attractive **lower NaOCl concentrations** without sacrificing efficacy.
 
-(incomplete)
-
-(incomplete)
+Heterogeneous laser parameters (energy, frequency, pulse duration), irrigants, and outcome measures prevented meta-analysis and limit direct clinical generalization; standardized protocols and long-term RCTs are needed before firm guidelines.
 
 ## 세줄요약
 
+2015–2025년간 발표된 15편의 연구를 수집한 체계적 문헌고찰(SR)으로, Er:YAG 레이저 활성화 관류(PIPS/SWEEPS)를 종래 및 초음파 활성화 방법과 비교하여 근관 소독 효과를 평가했다.
 
-15편(2015–2025)을 모은 체계적 문헌고찰: Er:YAG 레이저 활성화 세정(PIPS/SWEEPS)은 기존·초음파 방법보다 근관 소독·biofilm 파괴·smear layer 제거를 일관되게 향상시켰고 NaOCl 농도를 낮춰도 효과를 유지했으나, 프로토콜 이질성이 커 통합·임상 일반화에는 한계가 있다.
+포함된 15개 연구 모두에서 Er:YAG 레이저 활성화는 기존·초음파 방법 대비 세균 감소, 생물막 파괴, smear layer 제거를 유의하게 개선시켰으며, 특히 근첨부(apical)와 상아세관 내 효과가 우수했고, **더 낮은 NaOCl 농도로도 효율을 유지**하는 임상적 이점을 보였다.
 
-(incomplete)
-
-(incomplete)
+레이저 설정(에너지, 주파수, 펄스폭), 관류액, 결과 측정 방법이 이질적이어서 메타분석이 불가능했으며, 이는 임상 일반화를 제한하므로 표준화된 프로토콜과 장기 RCT가 필요하다.
 
 ## 1. Document Information
 

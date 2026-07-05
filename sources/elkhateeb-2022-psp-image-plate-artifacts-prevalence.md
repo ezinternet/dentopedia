@@ -19,21 +19,19 @@ text_filename: elkhateeb-2022-psp-image-plate-artifacts-prevalence.txt
 
 ## Three-line Summary
 
+Retrospective audit (World J Clin Cases 2022, n=50,000 intraoral PSP radiographs, Riyadh): 7.1% required retakes for image artifacts, of which periapical images were 80.8%.
 
-Retrospective audit (World J Clin Cases 2022, n=50,000 intraoral PSP radiographs, Riyadh): 7.1% required retakes for image artifacts, of which periapical images were 80.8%;
+Operator errors dominated (70.4% of retakes; cone cut the single most common at 39.5%), followed by plate errors (bite marks 40.3%) and scanning errors (delayed scanning 39.9%).
 
-operator errors dominated (70.4% of retakes;
-
-cone cut the single most common at 39.5%), followed by plate errors (bite marks 40.3%) and scanning errors (delayed scanning 39.9%), with near-perfect reader agreement (kappa 0.99).
+Near-perfect reader agreement (kappa 0.99); suggests artifact classification is standardizable and supports dose-reduction quality-assurance efforts.
 
 ## 세줄요약
 
-
 후향적 감사(World J Clin Cases 2022, 구내 PSP 영상 5만 장, 리야드): 7.1%가 artifact로 재촬영, 그중 치근단(Periapical, PA) 영상이 80.8%.
 
-술자오류가 재촬영의 70.4%(단일 최다는 cone cut 39.5%), 이어 판(plate) 오류(교흔 bite mark 40.3%)·스캐닝 오류(지연 스캐닝 39.9%);
+술자오류가 재촬영의 70.4%(단일 최다는 cone cut 39.5%), 이어 판(plate) 오류(교흔 bite mark 40.3%)·스캐닝 오류(지연 스캐닝 39.9%).
 
-판독자 일치도 kappa 0.99.
+판독자 일치도 kappa 0.99; artifact 분류가 표준화 가능함을 시사하며, 선량 감소 품질관리를 뒷받침한다.
 
 ## 1. Document Information
 

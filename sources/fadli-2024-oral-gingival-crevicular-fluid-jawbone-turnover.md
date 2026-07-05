@@ -19,12 +19,11 @@ text_filename: fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.txt
 
 ## Three-line Summary
 
+Scoping review (PRISMA-ScR, 37 observational studies) of oral-fluid bone-turnover biomarkers across three jawbone diseases: periodontitis, MRONJ, and osteoporosis.
 
-Scoping review (PRISMA-ScR, 37 observational studies) of oral-fluid bone-turnover biomarkers across three jawbone diseases: GCF markers IL-1β, sclerostin, OPG, and IL-34 dominate (mainly periodontitis and osteoporosis), while saliva markers OC, IL-1β, TNF-α, IL-6, OPG, and MMP-9 span periodontitis, MRONJ, and osteoporosis — many overlap, positioning GCF/saliva as non-invasive bone-turnover diagnostics.
+GCF markers IL-1β, sclerostin, OPG, and IL-34 dominate the literature (mainly periodontitis and osteoporosis), while saliva markers OC, IL-1β, TNF-α, IL-6, OPG, and MMP-9 span all three diseases — extensive overlap enables saliva as a convenient non-invasive sampling medium for bone-turnover assessment.
 
-(incomplete)
-
-(incomplete)
+Clinical implication: oral fluids offer accessible multi-biomarker diagnostics for jawbone diseases, though no single marker is oral-cavity-exclusive — systemic contribution complicates specificity, and multi-marker panels are required for clinical translation.
 
 ## 세줄요약
 

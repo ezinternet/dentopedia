@@ -18,21 +18,19 @@ Anchor systematic review for the healing-abutment (HA) reuse controversy batch. 
 
 ## Three-line Summary
 
+Systematic review of healing-abutment (HA) resterilization protocols: 812 articles screened across 5 databases (MEDLINE, Embase, Cochrane CENTRAL, Web of Science, Google Scholar), yielding 8 included studies comparing sterilization methods for HA reuse.
 
-Systematic review (5 databases, 812→8 studies) of healing-abutment resterilization protocols for reuse: steam autoclave was the most widely used method, but no protocol achieved a 100% virgin surface;
+Steam autoclave was the most widely used resterilization modality across studies, but no protocol — regardless of type — achieved a 100% virgin (contaminant-free) surface.
 
-thorough decontamination + resterilization is recommended before reuse.
-
-(incomplete)
+Because residual microbial/protein contamination persists after any resterilization protocol, reuse requires mandatory thorough decontamination followed by resterilization, balanced against cost-effectiveness and patient preference; no single protocol can be endorsed as "safe."
 
 ## 세줄요약
 
+치유 지대주(HA) 재멸균 프로토콜 체계적 문헌고찰: 5개 DB(MEDLINE, Embase, Cochrane CENTRAL, Web of Science, Google Scholar)에서 812개 논문 선별 → 8개 포함, 재사용을 위한 멸균 방법들 비교.
 
-체계적 문헌고찰(5개 DB, 812→8편): 치유 지대주(healing abutment, HA) 재사용을 위한 재멸균 프로토콜 중 증기 오토클레이브가 가장 널리 쓰였으나 어떤 프로토콜도 표면을 100% 초기(virgin) 상태로 되돌리지 못했다 — 재사용 전 철저한 표면 제염 후 재멸균 권고.
+증기 오토클레이브가 포함 연구 중 가장 널리 쓰인 재멸균 방식이었으나, 어떤 프로토콜도 표면을 100% 초기(virgin, 오염 제거) 상태로 되돌리지 못함.
 
-(incomplete)
-
-(incomplete)
+모든 재멸균 프로토콜 후에도 미생물/단백질 오염이 남아있으므로, 재사용 전 필수적으로 철저한 표면 제염 후 재멸균 필요하며, 비용 효율성과 환자 선호도를 균형있게 고려하되 '안전한' 단일 프로토콜은 없음.
 
 ## 1. Document Information
 

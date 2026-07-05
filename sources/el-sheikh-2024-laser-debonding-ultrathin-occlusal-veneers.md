@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+In vitro study (n=24 extracted molars, 3 ceramic groups) comparing Er;Cr:YSGG laser debonding of 0.5 mm ultrathin CAD/CAM occlusal veneers fabricated from lithium disilicate (Emax CAD), highly condensed lithium disilicate (GC Initial LiSi), and translucent zirconia (Katana STML).
 
-In vitro study (n=24 extracted molars, 3 ceramic groups) comparing Er;Cr:YSGG laser debonding of 0.5 mm ultrathin CAD/CAM occlusal veneers: debonding time was equivalent across lithium disilicate, highly condensed lithium disilicate (LiSi), and translucent zirconia (~87 s, p=0.995), but 60% of LiSi samples were damaged (fractured or cracked) vs.
+Debonding time was equivalent across all three materials (mean ~87 s, p=0.995), but material-specific damage differed dramatically: 60% of LiSi samples suffered fracture (40%) or cracks (20%), while Emax CAD and Katana STML remained 100% intact (8/8 each).
 
-0% damage in Emax or zirconia.
-
-(incomplete)
+Er;Cr:YSGG laser debonding appears safe for retrieving and reusing Emax and zirconia ultrathin occlusal veneers, but the high damage rate in LiSi (HDM crystal architecture) warrants further investigation before clinical laser debonding can be recommended for that material.
 
 ## 세줄요약
 
+In vitro 연구(n=24개 상악 대구치, 3개 세라믹 그룹)로 0.5 mm 초박형 CAD/CAM 교합면 비니어의 Er;Cr:YSGG 레이저 탈접(Laser Debonding)을 비교: 리튬 디실리케이트(Emax CAD), 초고밀도 리튬 디실리케이트(GC Initial LiSi), 반투명 지르코니아(Katana STML)의 3가지 재료 평가.
 
-초박형 교합면 비니어(Occlusal Veneer) in vitro 연구(n=24): Er;Cr:YSGG 레이저 탈접(Laser Debonding) 시간은 리튬 디실리케이트(Lithium Disilicate, LD), 초고밀도 리튬 디실리케이트(LiSi), 반투명 지르코니아(Translucent Zirconia, STML) 간 유의한 차이 없음(~87초, p=0.995), 그러나 LiSi 표본의 60%가 균열 또는 파절 손상을 보여 임상적 재사용 적합성에 의문 제기.
+탈접 시간은 전 재료군에서 동등함(평균 ~87초, p=0.995), 그러나 재료별 손상 패턴은 뚜렷함: LiSi 표본의 60%가 파절(40%) 또는 균열(20%)을 보인 반면 Emax CAD와 Katana STML은 100% 무손상(각 8/8).
 
-(incomplete)
-
-(incomplete)
+Er;Cr:YSGG 레이저는 Emax 및 지르코니아 초박형 교합면 비니어의 회수 및 재사용에는 안전하나, LiSi의 높은 손상률(HDM 미세 결정 구조)은 해당 재료의 임상적 레이저 탈접 추천 전 추가 연구 필요를 시사함.
 
 ## 1. Document Information
 

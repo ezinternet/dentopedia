@@ -19,21 +19,19 @@ PubMed 감시 인제스트(transcrestal sinus lift)로 발굴한 신규 RCT 재�
 
 ## Three-line Summary
 
+RCT re-analysis (ITT 29 tSFE vs 28 lSFE) stratified by residual bone height (<4 mm vs ≥4 mm), comparing transcrestal and lateral sinus floor elevation on effectiveness, morbidity, and cost.
 
-Re-analysis of a parallel-arm RCT (ITT 29 tSFE vs 28 lSFE) stratified by residual bone height: both techniques reach median 100% implant-surface bone contact, but at RBH ≥4 mm tSFE wins on chair time, cost, and morbidity, whereas at RBH <4 mm tSFE causes more early pain while lSFE causes more bruising and higher cost.
+Both techniques achieved median 100% implant-surface bone contact (totCON%) regardless of RBH stratum, so the decision pivots on morbidity and cost trade-offs.
 
-(incomplete)
-
-(incomplete)
+At RBH ≥4 mm, tSFE is superior on chair time, cost, and morbidity; at RBH <4 mm, tSFE causes more early pain (days 0–1) while lSFE causes more bruising and incurs higher cost — a genuine trade-off requiring site-specific pre-planning.
 
 ## 세줄요약
 
+경치조골식 vs 측방식 상악동거상술(transcrestal vs lateral sinus floor elevation, tSFE vs lSFE)을 잔존골높이(RBH) <4 mm vs ≥4 mm로 층화해 비교한 RCT 재분석(ITT 29 vs 28명).
 
-평행-군 RCT 재분석(ITT tSFE 29 vs lSFE 28), 잔존골(RBH) 층화 — 양 술식 모두 임플란트면 골접촉 중앙값 100%, RBH≥4 mm에선 tSFE가 시술시간·비용·이환율 우월, RBH<4 mm에선 tSFE 초기 통증↑·lSFE 멍/비용↑로 trade-off.
+양 술식 모두 임플란트 표면 골접촉(totCON%) 중앙값 100% 달성으로 유효성(effectiveness)은 동등하며, 술식 선택은 이환율·비용 trade-off로 결정된다.
 
-(incomplete)
-
-(incomplete)
+RBH≥4 mm에서는 tSFE가 시술 시간·비용·이환율 모두 우월하지만, RBH<4 mm에서는 tSFE의 초기 통증(0–1일) 증가 vs lSFE의 멍·비용 증가 trade-off가 발생해 술식 선택 전 환자별 진통 관리 계획이 필수다.
 
 ## 1. Document Information
 

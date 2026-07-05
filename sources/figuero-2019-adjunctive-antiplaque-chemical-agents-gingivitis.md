@@ -16,21 +16,19 @@ CHX 단독이 아닌 항균 가글 전체 비교 NMA. "CHX 0.10% 이상 vs 에�
 
 ## Three-line Summary
 
+SR + network MA (53 RCTs, n=8,457) comparing essential oils, CHX, CPC, and other antimicrobial agents in adjunctive mouthrinses and toothpastes for gingivitis control.
 
-SR + network MA (53 RCTs, n=8,457) — essential oils and CHX ≥0.10% show greatest gingivitis reduction;
+Essential oils demonstrated the greatest gingivitis-index reduction, followed by CHX ≥0.10% and CPC >0.05%, with rank-order differences quantified via network meta-analysis.
 
-among mouthrinses, essential oils rank highest on GI;
-
-CHX ≥0.10% and CPC >0.05% are effective but inferior to essential oils.
+CHX efficacy is concentration-dependent: ≥0.10% shows significant effect, while <0.10% lacks sufficient evidence; essential oils offer superior plaque control vs chemical agents.
 
 ## 세줄요약
 
+SR + 네트워크 메타분석 (53 RCT, 8,457명) — 에센셜오일·CHX·CPC 등 항균성 가글과 치약의 치은염 감소 효능 비교.
 
-SR + 네트워크 MA (53 RCT, 8,457명) — 치은염 감소에 에센셜오일 > CHX ≥0.10% = CPC >0.05%;
+에센셜오일이 치은지수(GI) 감소에 가장 효과적이고, CHX ≥0.10%와 CPC >0.05%가 그 뒤를 따르며, 활성제 간 순위는 네트워크 메타분석으로 정량화됨.
 
-CHX는 0.10% 이상 농도에서 유효, 미만 농도는 효과 불명확.
-
-(incomplete)
+CHX의 효능은 농도 의존적 — ≥0.10%에서 유의한 효과, <0.10%는 근거 부족; 에센셜오일이 화학제제보다 우수한 플라크 조절 효과를 나타냄.
 
 ## 1. Document Information
 

@@ -15,15 +15,13 @@ source_collection: external
 
 ## Three-line Summary
 
+Co-produced primer by the International Society for Shared Decision Making (25 collaborators from 13 countries) targeting clinician understanding of shared decision-making (SDM) fundamentals.
 
-Co-produced primer (25 collaborators, 13 countries;
+Describes what SDM is, explicitly addresses common clinician concerns and barriers to implementation, and provides practical guidance on integrating patient decision aids into routine clinical workflow.
 
-International Society for Shared Decision Making) describing shared decision-making from the clinician's perspective — clarifies what SDM is, addresses common clinician concerns/barriers, and positions decision support (incl.
-
-patient decision aids) for routine practice.
+Positions SDM and decision support tools as feasible and beneficial for everyday practice; applicable to healthcare general and specifically relevant to dental decisions involving multiple treatment options.
 
 ## 세줄요약
-
 
 공동제작 primer(13개국 25인, 국제SDM학회) — 임상의 관점에서 공유의사결정(SDM)을 정의·해설.
 

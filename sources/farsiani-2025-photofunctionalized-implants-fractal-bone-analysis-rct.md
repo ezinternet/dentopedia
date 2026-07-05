@@ -19,19 +19,19 @@ This split-mouth RCT adds patient-level radiomorphometric (fractal dimension, FD
 
 ## Three-line Summary
 
+Split-mouth double-blind RCT (BMC Oral Health 2025; 21 patients, 42 implants in bilateral posterior mandible).
 
-Split-mouth double-blind RCT (BMC Oral Health 2025;
+UV-photofunctionalized (test) implants showed a statistically significant pre-to-post-placement rise in peri-implant trabecular fractal dimension (FD 1.075 → 1.103, p=0.044), whereas non-PF controls did not (1.113 → 1.118, p=0.794).
 
-21 patients, 42 implants in bilateral posterior mandible): UV-photofunctionalized (test) implants showed a statistically significant pre-to-post-placement rise in peri-implant trabecular fractal dimension (FD 1.075 → 1.103, p=0.044), whereas non-PF controls did not (1.113 → 1.118, p=0.794);
-
-early survival 100% in both arms, no ISQ collected.
+Early survival 100% in both arms; no ISQ collected (key limitation for clinical outcome correlation).
 
 ## 세줄요약
 
+분할입(split-mouth) 이중맹검 RCT (BMC Oral Health 2025; 환자 21명·임플란트 42개, 양측 하악 구치부).
 
-분할입(split-mouth) 이중맹검 RCT (BMC Oral Health 2025, 환자 21명·임플란트 42개, 양측 하악 구치부): UV 광기능화 (Photofunctionalization, PF) 처리군은 식립 전→후 임플란트 주위 해면골 프랙탈 차원 (Fractal Dimension, FD)이 유의하게 상승(1.075→1.103, p=0.044)했으나 비처리 대조군은 무변화(1.113→1.118, p=0.794);
+UV 광기능화 (Photofunctionalization, PF) 처리군은 식립 전→후 임플란트 주위 해면골 프랙탈 차원 (Fractal Dimension, FD)이 유의하게 상승(1.075→1.103, p=0.044)했으나 비처리 대조군은 무변화(1.113→1.118, p=0.794).
 
-양군 모두 조기 생존율 100%, 임플란트 안정성 지수 (ISQ)는 측정 안 함.
+양군 모두 조기 생존율 100%; 임플란트 안정성 지수 (ISQ)는 측정 안 함(임상 결과 연관성 평가의 주요 한계).
 
 (incomplete)
 

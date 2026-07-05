@@ -34,15 +34,6 @@ PubMed 서술적 리뷰 (1980–2014년 3월): 730편 → 41편 → 9편의 비�
 
 이 5개 차원 분류는 치과기관이 진료 질과 환자 치료 협력도를 개선하기 위해 측정해야 할 일반적 분류 체계로 제시됨.
 
-## 세줄요약
-
-
-서술적 리뷰 (1980–2014.3, PubMed;
-
-730편 → 비판적 평가 후 9편): 치과대학 부속병원 진료의 환자 만족도를 구성하는 5개 차원(질·상호작용·접근성·환경·비용)을 도출.
-
-(incomplete)
-
 ## 1. Document Information
 
 - **Title**: Patient satisfaction surveys in dental school clinics: a review and comparison.

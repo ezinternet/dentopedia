@@ -15,21 +15,19 @@ Directly answers the core monomer-selection question that recurs across the resi
 
 ## Three-line Summary
 
+In vitro SR+MA (206 studies, 64 SE adhesive systems): 10-MDP-based self-etch adhesives gave significantly higher bond strength than most other acidic-monomer adhesives.
 
-In vitro SR+MA (206 studies, 64 SE adhesive systems): 10-MDP-based self-etch adhesives gave significantly higher bond strength than most other acidic-monomer adhesives at both dentin (effect 6.98;
+10-MDP showed significantly higher effect at dentin (6.98 MPa; 95% CI 5.61–8.36) and enamel (2.79 MPa; 95% CI 1.62–3.96), p<0.00001; only GPDM-based adhesives exceeded 10-MDP.
 
-95% CI 5.61–8.36) and enamel (2.79;
-
-95% CI 1.62–3.96), p<0.00001, though the benefit was conditional on test method, substrate, comonomer, and application category.
+The bonding advantage was conditional on test method, substrate, comonomer, and application category (2-step 10-MDP superior for dentin; 2-step regardless of 10-MDP for enamel).
 
 ## 세줄요약
 
+In vitro 체계적 문헌고찰+메타분석 (논문 206편, 자가산부식 접착제 64종): 10-MDP 함유 접착제가 대부분의 다른 산성 단량체 접착제보다 유의하게 높은 결합강도를 보임.
 
-In vitro 체계적 문헌고찰+메타분석 (논문 206편, 자가산부식 접착제 64종): 10-MDP 함유 접착제가 대부분의 다른 산성 단량체 접착제보다 상아질(효과크기 6.98;
+10-MDP는 상아질(효과크기 6.98 MPa; 95% CI 5.61–8.36)·법랑질(2.79 MPa; 95% CI 1.62–3.96) 모두에서 유의하게 높은 효과(p<0.00001); GPDM 기반 접착제만이 10-MDP를 상회.
 
-95% CI 5.61–8.36)·법랑질(2.79;
-
-95% CI 1.62–3.96) 모두에서 유의하게 높은 결합강도를 보였으나(p<0.00001), 그 이점은 시험법·기질·공단량체·적용 방식에 따라 달라졌다.
+결합강도 이점은 시험법·기질·공단량체·적용 방식(상아질은 2-step 10-MDP 우월, 법랑질은 10-MDP 유무 관계없이 2-step 우월)에 따라 조건부적이었음.
 
 ## 1. Document Information
 

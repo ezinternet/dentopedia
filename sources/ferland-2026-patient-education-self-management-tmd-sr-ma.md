@@ -19,21 +19,19 @@ text_filename: ferland-2026-patient-education-self-management-tmd-sr-ma.txt
 
 ## Three-line Summary
 
+Systematic review + meta-analysis (47 RCTs, n=3238) comparing patient education and self-management (ED/SM) to other non-surgical treatments for adult temporomandibular disorders, spanning short-term (1–6 weeks) to long-term (27–52 weeks) outcomes.
 
-First SR+MA (47 RCTs, n=3238) comparing patient education + self-management (ED/SM) to other non-surgical treatments for adult TMD: other interventions may beat ED/SM-alone on short-term pain (SMD 0.67) and HRQoL (SMD 0.61), but no consistent superiority/inferiority overall — all very low to low certainty (no RCT at low risk of bias).
+Other non-surgical interventions (splints, manual therapy, exercise, multimodal) showed short-term superiority in pain (SMD 0.67) and health-related quality of life (SMD 0.61) versus ED/SM alone, but no consistent difference overall; adding ED/SM to other treatment improved short-term quality of life (SMD 0.50) but not pain.
 
-(incomplete)
-
-(incomplete)
+Evidence quality is uniformly very low to low across all outcomes (0 of 47 RCTs at low risk of bias) and most ED/SM interventions were generic, non-individualized control conditions — findings likely underestimate ED/SM benefit relative to theory-informed, patient-centered education.
 
 ## 세줄요약
 
+성인 측두하악장애 (Temporomandibular Disorders, TMD)에서 환자교육·자기관리 (ED/SM)를 다른 비수술 치료(보조기, 수기치료, 운동, 복합)와 직접 비교한 첫 SR+MA (47 RCT, n=3238, 여성 76.8%, 평균 34.4세).
 
-성인 측두하악장애 (Temporomandibular Disorders, TMD)에서 환자교육·자기관리 (ED/SM)를 다른 비수술 치료와 직접 비교한 첫 SR+MA (47 RCT, n=3238).
+단기 통증(1–6주)과 건강관련삶의질(HRQoL)에서 다른 치료가 ED/SM 단독보다 우월(SMD 0.67, 0.61), 하지만 전반적으로 우열 일관성 없으며, ED/SM을 다른 치료에 추가하면 단기 HRQoL만 개선(SMD 0.50).
 
-단기 통증·삶의질은 다른 치료가 ED/SM 단독보다 나을 수 있으나(SMD 0.67·0.61) 전반적으로 우열은 일관되지 않으며 모든 근거가 very low~low (저위험 RCT 0편).
-
-(incomplete)
+모든 결과의 근거수준이 very low~low이고(저위험 RCT 0편) 대부분 ED/SM 중재가 일반적·비개인화 대조군이었으므로, 이론 기반·환자중심 교육의 실제 효과는 본 메타분석보다 클 가능성.
 
 ## 1. Document Information
 

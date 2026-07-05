@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+2-year double-blind RCT, n=30 (26 completed), comparing indirect CAD/CAM nano-hybrid composite inlay (no cuspal reduction) vs overlay (with cuspal reduction) for endodontically treated molars with MOD cavities.
 
-2-year double-blind RCT (30 participants, MOD ETT molars): CAD/CAM nano-hybrid composite overlay (with cuspal reduction) showed better marginal adaptation, less discoloration/fracture, and less caries than the inlay (no cuspal reduction) design at 24 months.
+At 24 months, overlay showed significantly better marginal adaptation, less discoloration/fracture risk, and lower incidence of secondary caries compared to inlay design.
 
-(incomplete)
-
-(incomplete)
+Cuspal reduction (overlay) strategy is more clinically reliable for ETT molars, favoring cuspal coverage over cusp preservation in indirect composite restorations.
 
 ## 세줄요약
 
+2년 이중맹검 RCT, n=30(26명 완료), 근관치료 대구치의 MOD 와동에 대해 교두삭제 없는 인레이 vs 교두삭제 오버레이를 비교한 간접 CAD/CAM 나노하이브리드 복합레진 연구.
 
-2년 이중맹검 RCT(30명, MOD 근관치료 대구치): CAD/CAM 나노하이브리드 복합레진 오버레이(교두삭제)가 인레이(교두보존) 대비 24개월 시점 변연적합 우수·변색/파절 적음·우식 적음.
+24개월 시점에 오버레이가 인레이 대비 변연적합 우수, 변색/파절 위험 감소, 이차 우식 발생률 저하를 보임.
 
-(incomplete)
-
-(incomplete)
+근관치료 대구치의 간접 복합레진 수복에서 교두삭제(오버레이) 전략이 교두보존(인레이)보다 임상적으로 신뢰성 높음.
 
 ## 1. Document Information
 

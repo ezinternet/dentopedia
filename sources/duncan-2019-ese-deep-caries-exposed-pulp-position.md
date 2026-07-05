@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-ESE 공식 입장문: 심부 우식 및 치수 노출 관리 — 치수 보존 우선, 최소 침습 생물학적 접근법, VPT 적응증 및 재료 권고.
+
+ESE (유럽근관치료학회) 공식 입장문(consensus) — 심부 우식 및 노출 치수 관리, 치수 보존 우선 원칙(IPC, DPC, partial pulpotomy, full pulpotomy) 제시.
+
+MTA/Biodentine을 1차 재료로 권고; Ca(OH)₂은 기초 불충분 → 대체 권고; 진단에 기반한 적응증(가역성 vs 비가역성 치수염 구별).
+
+전문가 합의 기반 입장문(consensus) — 신규 임상 RCT로 주기적 업데이트 필요; 최소 침습 생물학적 원칙은 리드 방향.
+
+## 세줄요약
+
+ESE 공식 입장문(consensus): 심부 우식 및 치수 노출 관리 — 최소 침습 생물학적 접근, 치수 보존 우선 (IPC, DPC, partial/full pulpotomy 분류).
+
+MTA/Biodentine 1차선 재료(생체친화, 밀봉성); Ca(OH)₂ 기초 약함 → 대체권고; 진단 기반 의사결정(가역/비가역 치수염 구별).
+
+합의 기반 입장문 — RCT로 검증·갱신 필요; 생물학적 치수 보존이 장기 성공의 핵심.
 
 ## 1. Document Information
 - **Title**: European Society of Endodontology position statement: Management of deep caries and the exposed pulp

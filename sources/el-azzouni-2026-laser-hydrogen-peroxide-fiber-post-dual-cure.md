@@ -19,21 +19,19 @@ text_filename: el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure.txt
 
 ## Three-line Summary
 
+In vitro push-out study: 75 glass fiber posts from 60 decoronated premolars randomized to 3×2 factorial design crossing surface conditioning (none / 24% H₂O₂-silane / Nd:YVO₄ laser-silane) with cement type (self-adhesive dual-cure vs conventional dual-cure), with push-out bond strength (PBS) measured at cervical, middle, and apical thirds after 1-week storage + 10,000 thermocycles.
 
-In vitro push-out study (75 glass fiber posts from 60 decoronated premolars, 3×2 factorial: conditioning [none / 24% H2O2-silane / Nd:YVO4 laser-silane] × cement [self-adhesive dual-cure vs conventional dual-cure]) — Nd:YVO4 laser produced the highest surface roughness (Ra 1.32±0.22 µm) and bond strength comparable to hydrogen peroxide conditioning at all canal thirds;
+Nd:YVO₄ laser conditioning produced the highest surface roughness (Ra 1.32±0.22 µm, not significantly different from H₂O₂ group 1.28±0.18 µm, p>0.05) and bond strengths comparable to hydrogen peroxide (laser+conventional cement cervical 11.26 MPa vs H₂O₂+conventional 11.47 MPa, p>0.05), with maximum PBS >11 MPa well exceeding the ~5 MPa clinical threshold.
 
-conventional dual-cure cement bond strength declined cervical→apical while self-adhesive cement bond strength increased cervical→apical.
-
-(incomplete)
+Opposite canal-third trends by cement class: conventional dual-cure cement PBS declined cervical→apical (11.26→7.32 MPa with laser), while self-adhesive cement PBS increased cervical→apical (9.56→11.23 MPa with laser), suggesting cement chemistry drives axial stress distribution despite identical post conditioning.
 
 ## 세줄요약
 
+In vitro push-out 연구: 소구치 60개에서 얻은 글래스 파이버 포스트 75개를 3×2 요인설계(표면처리: 무처리/24% 과산화수소-실란/Nd:YVO₄ 레이저-실란 × 시멘트: 자가접착형 이중경화 vs 전통형 이중경화)로 무작위배치, 1주 저장 후 10,000회 열주기 후 치경·중간·치근단부에서 push-out 결합강도 측정.
 
-In vitro push-out 연구 (소구치 60개에서 얻은 글래스 파이버 포스트 75개, 표면처리[무처리/24% 과산화수소-실란/Nd:YVO4 레이저-실란] × 시멘트[자가접착형 이중경화 레진시멘트(SADCRC) vs 전통형 이중경화 레진시멘트(CDCRC)] 3×2 설계) — Nd:YVO4 레이저군이 가장 높은 표면조도(Ra 1.32±0.22 µm)를 보였고 결합강도는 모든 치근부에서 과산화수소군과 유사(p>0.05);
+Nd:YVO₄ 레이저군이 최고 표면조도(Ra 1.32±0.22 µm, H₂O₂군 1.28±0.18 µm와 유의차 없음, p>0.05)를 나타냈고, 결합강도는 과산화수소군과 유사(레이저+전통시멘트 치경부 11.26 MPa vs H₂O₂+전통 11.47 MPa, p>0.05); 최대 결합강도 >11 MPa는 임상 기준 ~5 MPa를 크게 초과.
 
-CDCRC는 치경부→치근단 갈수록 결합강도 감소, SADCRC는 반대로 치경부→치근단 갈수록 증가.
-
-(incomplete)
+전통형 시멘트(CDCRC)는 치경부→치근단 결합강도 감소(레이저 11.26→7.32 MPa), 자가접착형 시멘트(SADCRC)는 반대로 치경부→치근단 증가(9.56→11.23 MPa)로 보였으므로, 포스트 표면처리가 동일해도 시멘트 성질이 축방향 응력 분포를 결정함을 시사.
 
 ## 1. Document Information
 

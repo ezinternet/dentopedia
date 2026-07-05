@@ -18,21 +18,19 @@ First SR+MA pooling periodontal (PD, BOP) and restorative (marginal adaptation) 
 
 ## Three-line Summary
 
+PRISMA systematic review + meta-analysis (abstract-only, multiple databases) pooling periodontal and restorative outcomes of cervical margin relocation (CMR) / deep margin elevation (DME) for subgingival proximal margins in healthy or periodontally stabilized patients.
 
-PRISMA SR+MA (abstract-only) finds cervical margin relocation does not harm periodontal health in healthy/stabilized patients — pooled PD reduction MD -0.96 mm (I2=0%) and BOP MD -0.52 (I2=27%→0% after one outlier removed);
+Cervical margin relocation reduced probing depth by mean difference -0.96 mm (95% CI -1.50 to -0.42, I2=0%) and bleeding on probing by -0.52 (95% CI -0.77 to -0.27, I2=0% after outlier exclusion); marginal adaptation superior with adhesively bonded glass-ceramic restorations.
 
-marginal adaptation depends on bonding strategy and material, with adhesively bonded glass-ceramics best.
-
-(incomplete)
+CMR is periodontally compatible with appropriate materials and techniques, but evidence limited to short/medium-term follow-up and healthy or stabilized periodontium; long-term durability and active periodontitis outcomes remain unclear.
 
 ## 세줄요약
 
+PRISMA 체계적 문헌고찰+메타분석(초록 기반, 다중 데이터베이스) — 건강한 또는 치주 안정화된 환자에서 치경부 변연 재위치(Cervical Margin Relocation, CMR) / 깊은 변연 거상(Deep Margin Elevation, DME)의 치주 및 수복 결과를 통합.
 
-PRISMA 체계적 문헌고찰+메타분석(초록만)에서 치경부 변연 재위치(Cervical Margin Relocation, CMR)는 치주 건강을 해치지 않으며(통합 탐침깊이 -0.96 mm, 탐침 시 출혈 -0.52 감소), 변연 적합도는 접착 전략과 수복 재료에 좌우되어 접착성 글라스세라믹이 가장 우수했다.
+치경부 변연 재위치는 탐침깊이를 평균 -0.96 mm 감소(95% CI -1.50~-0.42, I2=0%)시키고, 탐침 시 출혈을 -0.52 감소(95% CI -0.77~-0.27, I2=0%, 이상치 제외 후)시켰으며, 변연 적합도는 접착성 글라스세라믹 수복에서 우수.
 
-(incomplete)
-
-(incomplete)
+CMR은 적절한 재료·기법 사용 시 치주 호환성이 입증되었으나, 증거는 단기~중기 추적만 포함되며 건강/안정화된 치주에만 제한되고, 장기 내구성과 활동성 치주염 결과는 불명확.
 
 ## 1. Document Information
 

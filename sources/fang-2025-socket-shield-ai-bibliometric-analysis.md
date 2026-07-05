@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+AI-assisted bibliometric analysis of 157 socket-shield-technique articles (Scopus, 2010–2024) mapping research trends over 15 years.
 
-AI-assisted bibliometric analysis of 157 socket-shield-technique articles (Scopus, 2010–2024) mapping a steadily rising output (especially post-2015), with the USA leading total and international collaborative publications, China most single-country publications, and Germany the highest total and average citations.
+Steady output rise especially post-2015; USA leads both total and international collaborative publications; China highest in single-country publications; Germany highest in total and average citations per paper.
 
-(incomplete)
-
-(incomplete)
+Bibliometric evidence maps the research landscape and identifies influential work (e.g., Hürzeler 2010 original SST), but does not directly demonstrate clinical validity—outcomes still depend on dedicated clinical-trial SRs and critical reviews.
 
 ## 세줄요약
 
+Scopus 2010–2024년 소켓 쉴드 관련 논문 157편을 AI 보조 계량서지학으로 분석한 최초의 전용 계량서지학 연구.
 
-소켓 쉴드 논문 157편(Scopus, 2010–2024)을 AI 보조 계량서지학으로 분석 — 2015년 이후 출판이 꾸준히 증가, 미국이 총·국제공동 출판 1위, 중국이 단일국가 출판 최다, 독일이 총·평균 피인용 최고.
+2015년 이후 출판이 꾸준히 증가 추세; 미국이 총 출판 및 국제공동출판 1위; 중국이 단일국가 출판 최다; 독일이 총 피인용 및 평균 피인용 최고.
 
-(incomplete)
-
-(incomplete)
+계량서지학은 연구 지형과 영향력 있는 초기 개념 논문(예: Hürzeler 2010)을 파악하나, 임상 유효성을 직접 입증하지는 않으며—최종 임상 근거는 전용 임상시험 SR 및 비판적 검토에 의존.
 
 ## 1. Document Information
 

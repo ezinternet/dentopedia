@@ -19,21 +19,19 @@ The clear-aligner subcategory holds many efficacy and oral-health pages but no p
 
 ## Three-line Summary
 
+Systematic review (PRISMA-guided, 7 in-vitro/in-vivo studies, quality-assessed with QUIN Tool) of clear-aligner material safety and chemical leaching, searching PubMed/Scopus/Cochrane (2014–2024; 413 records screened, 7 included).
 
-Systematic review (7 in-vitro/in-vivo studies, PRISMA/QUIN) concluding clear aligners are generally safe but with residual concern over thermoplastic chemical leaching (BPA below toxic limits), thermoforming-increased cytotoxicity, and moderate cytotoxicity in some materials (notably Biolon, 64.6% viability).
+Of the 7 included studies, 5 concluded clear aligners are safe while 2 reported cytotoxicity; cell viability ranged from 64.6% (Biolon, most toxic) to 84.6% (Duran, safest); thermoforming significantly amplified cytotoxicity, and BPA was detected but generally within regulatory safety limits.
 
-(incomplete)
-
-(incomplete)
+Clinical bottom line: aligners are generally safe, but residual concerns remain regarding long-term thermoplastic chemical leaching (BPA/BPS/BPF), bacterial accumulation from reduced saliva flow, and mild inflammatory responses; standardized toxicity-testing protocols and patient-specific factors (oral pH, saliva composition, hygiene, age/pregnancy) need clarification.
 
 ## 세줄요약
 
+투명교정장치 소재 안전성 및 화학물질 용출을 다룬 체계적 문헌고찰(PRISMA 지침, in-vitro/in-vivo 7편, QUIN 도구로 품질 평가); PubMed/Scopus/Cochrane 검색(2014–2024) → 413개 논문 스크리닝 → 7편 최종 포함.
 
-체계적 문헌고찰(7편 in-vitro/in-vivo)로, 투명교정장치는 대체로 안전하나 열가소성 소재의 화학물질 용출(BPA는 독성 기준 이하), 열성형 시 세포독성 증가, 일부 소재(특히 Biolon 64.6% 생존율)의 중등도 세포독성이라는 잔존 우려가 있다고 결론.
+7편 중 5편은 투명교정장치 안전성 결론, 2편은 세포독성 보고; 세포 생존율은 64.6%(Biolon, 가장 독성) ~ 84.6%(Duran, 가장 안전); 열성형 공정이 세포독성을 현저히 증가, BPA 검출되나 규제 한계 이내.
 
-(incomplete)
-
-(incomplete)
+임상적 의미: 투명교정장치는 대체로 안전하나, 열가소성 소재의 장기 화학물질 용출(BPA/BPS/BPF), 타액 감소로 인한 세균 축적, 경미한 염증 반응 등에 대한 우려 존재; 표준화된 독성 검사 프로토콜과 환자별 요인(구강 pH, 타액 성분, 구강위생, 연령/임신)의 명확화 필요.
 
 ## 1. Document Information
 

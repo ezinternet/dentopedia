@@ -19,21 +19,19 @@ text_filename: ferracane-2024-historical-perspective-dental-composite-restorativ
 
 ## Three-line Summary
 
+Single-author narrative historical-perspective review (Ferracane JL, J Funct Biomater 2024); traces resin-based composite (RBC) development across four evolutionary axes (initiators, monomers, fillers, delivery) from 1950s PMMA acrylics through 2020s bioactive composites.
 
-Single-author historical-perspective review (Ferracane, J Funct Biomater 2024) tracing dental resin-based composite (RBC) evolution — from 1950s silicate/PMMA acrylics through Bowen's 1962 Bis-GMA and Buonocore's acid-etch, to the transitions chemical→UV→visible/CQ→LED light-curing, low-shrinkage monomer and nano/hybrid filler refinements, bulk-fill (4–5 mm) composites, and the emerging "bioactive"/self-healing frontier — with amalgam framed as the posterior material composites gradually displaced.
+Major milestones: Bowen's Bis-GMA (1962) + Buonocore acid-etch bonding; light-curing progression (chemical → UV → CQ visible → LED); low-shrinkage monomers (silorane, TCD-urethane, ormocer); bulk-fill formulations (2010s); emerging bioactivity (ion-release, antimicrobial, remineralization).
 
-(incomplete)
-
-(incomplete)
+Narrative synthesis without systematic review; author notes bioactive/self-adhesive/low-shrinkage claims largely lack proven clinical superiority—limitations acknowledged as requiring future long-term RCT evidence.
 
 ## 세줄요약
 
+단독저자 서술적 역사 리뷰(Ferracane JL, J Funct Biomater 2024); 1950년대 PMMA부터 2020년대 bioactive 복합레진까지 resin-based composite(RBC) 진화를 중합개시제·단량체·필러·전달체계 4축으로 추적.
 
-Ferracane 단독저자 발달사 리뷰(J Funct Biomater 2024): 복합레진(Resin-Based Composite, RBC)의 진화를 1950년대 실리케이트·PMMA → Bowen의 Bis-GMA(1962)·Buonocore 산부식 → 화학중합→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill(4–5 mm) → bioactive·self-healing 미래로 연대기화.
+핵심 이정표: Bowen의 Bis-GMA(1962)+Buonocore 산부식 결합; 광중합 진화(화학→UV→가시광 CQ→LED); 저수축 단량체(silorane, TCD-urethane, ormocer); bulk-fill(2010년대); 이온 방출·항균·재광화(bioactivity) 신흥 동향.
 
-아말감은 복합레진이 점차 대체해 온 구치부 재료로 위치.
-
-(incomplete)
+서술적 문헌 종합 미만(체계적 검토 아님); bioactive·자가접착·저수축 주장들 임상적 우월성 미입증—향후 장기 RCT 근거 필요로 저자 인정.
 
 ## 1. Document Information
 

@@ -15,21 +15,19 @@ This GRADE systematic review is the evidence backbone for the overview's "risk-s
 
 ## Three-line Summary
 
+GRADE systematic review with 7 included studies examining posterior bounded edentulous spaces in adults, comparing restorative treatment vs non-treatment outcomes.
 
-GRADE systematic review (7 included studies of posterior bounded edentulous spaces in adults) finding that mesio-distal migration and overeruption after tooth loss are mostly limited (on average up to ~2 mm), on VERY LOW quality evidence — so prosthetic replacement should not be considered the default mainstay of therapy.
+Occlusal changes (overeruption and mesio-distal narrowing) were limited; for most cases the average change was up to ~2 mm, which is of questionable clinical relevance, based on VERY LOW quality evidence.
 
-(incomplete)
-
-(incomplete)
+Tooth replacement should not necessarily be regarded as the default mainstay of therapy for posterior bounded edentulous spaces; more robust prospective/controlled studies are needed on long-term effects of non-treatment.
 
 ## 세줄요약
 
+성인 후방 경계성 무치악 공간(BES)을 대상으로 한 7편의 포함 연구를 GRADE 방식으로 평가한 체계적 문헌고찰 — 보철 수복 vs 비치료 결과 비교.
 
-성인 후방 경계성 무치악 공간(BES) 7편을 GRADE로 평가한 체계적 문헌고찰 — 치아 상실 후 근원심 이동·정출은 대개 제한적(평균 ~2 mm 이하)이고 근거의 질은 "매우 낮음"이라, 보철 수복을 자동적인 1차 치료로 볼 수 없다고 결론.
+정출 및 근원심 좁혀짐 등 교합 변화는 제한적이었으며, 대부분의 경우 평균 ~2 mm 이하의 변화로 임상적 관련성이 의문스러웠고, 근거 수준은 "매우 낮음"(GRADE).
 
-(incomplete)
-
-(incomplete)
+후방 경계성 무치악 공간의 치아 상실에 따른 보철 수복은 자동적인 표준 치료법으로 간주할 필요가 없으며, 비치료의 장기 영향에 대한 더욱 탄탄한 전향적/대조군 연구가 필요하다.
 
 ## 1. Document Information
 

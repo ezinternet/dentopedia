@@ -21,21 +21,19 @@ text_filename: farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
 
 ## Three-line Summary
 
+EFP 21st Workshop systematic review + meta-analysis (n = 11 studies; mostly RCTs) evaluating professional mechanical plaque removal (PMPR) modalities and adjuncts specifically for naturally occurring dental biofilm-induced gingivitis in adults.
 
-EFP 21st Workshop systematic review + meta-analysis (11 studies;
+For established gingivitis, oral hygiene instruction (OHI) is first-line and PMPR adds benefit only as an adjunct to OHI (low certainty); modality comparison shows air polishing + ultrasonics equivalent to ultrasonic + rubber-cup polishing in efficacy but significantly shorter treatment time.
 
-mostly RCTs) showing that, for dental biofilm-induced gingivitis, OHI is first-line and professional mechanical plaque removal (PMPR) adds benefit only as an adjunct to OHI (low certainty), with air polishing + ultrasonics as effective as but faster than ultrasonic + rubber-cup polishing (very low certainty) and diode laser offering no adjunctive benefit.
-
-(incomplete)
+Diode laser and topical adjuncts show no robust clinical benefit; evidence quality is low to very low overall due to few studies per question and heterogeneity, calling for well-powered RCTs to confirm findings.
 
 ## 세줄요약
 
+EFP 21st Workshop의 체계적 리뷰와 메타분석(n = 11편; 대부분 RCT)으로서 치태-유발 치은염에 대한 전문가 기계적 치태제거(PMPR) 중재법과 보조재(adjuncts)를 평가한 연구.
 
-치태-유발 치은염에서 구강위생교육(OHI)이 1차 치료이고 전문가 기계적 치태제거(PMPR)는 OHI에 더해질 때만 이득(low certainty)을 주며, 에어폴리싱+초음파가 초음파+러버컵 폴리싱과 동등하면서 더 빠르고, 다이오드 레이저는 부가 이득이 없다는 EFP SR+MA(11편).
+확립된 치은염에서 구강위생교육(OHI)이 1차 치료이고 PMPR은 OHI의 부가재로만 이득(low certainty)을 주며, 중재법 비교에서 에어폴리싱+초음파가 초음파+러버컵 폴리싱과 동등한 효능이지만 치료시간이 유의하게 단축된다.
 
-(incomplete)
-
-(incomplete)
+다이오드 레이저와 국소 부가재들은 임상적 이득이 명확하지 않으며, 전체 근거 수준은 낮음에서 매우 낮음이므로 결론 확증을 위한 고급 RCT가 필요하다.
 
 ## 1. Document Information
 

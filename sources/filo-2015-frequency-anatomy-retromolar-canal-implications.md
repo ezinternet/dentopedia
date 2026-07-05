@@ -18,21 +18,19 @@ text_filename: filo-2015-frequency-anatomy-retromolar-canal-implications.txt
 
 ## Three-line Summary
 
+Retrospective CBCT study (680 scans, 1,340 mandibular sides): retromolar canal (RMC) found in 16.12% of sides, carrying accessory nerve fibers alongside blood vessels.
 
-Retrospective CBCT study (680 scans, 1,340 mandibular sides): retromolar canal (RMC) found in 16.12% of sides, carrying accessory nerve fibers alongside blood vessels — a documented anatomical cause of mandibular block anesthesia failure and a structure to spare or additionally anesthetize during retromolar surgery.
+Type A1 (vertical) was most common at 39.82%, Type C (horizontal) least common at 6.02%; mean RMC diameter 1.03 mm (SD 0.27), height 10.19 mm (SD 2.64), distance to second molar 15.10 mm (SD 2.83).
 
-(incomplete)
-
-(incomplete)
+Clinical implication: spare or protect the RMC during retromolar surgery, and consider supplemental retromolar anesthesia when an RMC is present, as it contributes to mandibular block anesthesia failure.
 
 ## 세줄요약
 
+후향적 CBCT 연구(680건, 하악 1,340측): 후구치관(RMC)이 16.12%에서 관찰되었고 혈관과 함께 부가신경섬유를 포함.
 
-후향적 CBCT 연구(680건, 하악 1,340측): 후구치관(retromolar canal, RMC)이 16.12%에서 관찰되었고 혈관과 함께 부가신경섬유를 포함 — 하악블록마취 실패의 문서화된 해부학적 원인이며, 후구치부 수술 시 보존하거나 추가 국소마취를 고려해야 할 구조.
+유형 A1(수직)이 가장 흔했고 39.82%, 유형 C(수평)가 가장 드물게 6.02%; RMC 평균 직경 1.03 mm (SD 0.27), 높이 10.19 mm (SD 2.64), 제2대구치까지의 거리 15.10 mm (SD 2.83).
 
-(incomplete)
-
-(incomplete)
+임상적 의미: 후구치부 수술 시 RMC를 보존하거나 보호하고, RMC가 확인되었을 때 보조 후구치 국소마취를 시행하여 하악블록마취 실패를 예방할 수 있음.
 
 ## 1. Document Information
 

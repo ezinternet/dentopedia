@@ -14,19 +14,19 @@ The education capstone of the pipeline: CODE turns the expectation/response evid
 
 ## Three-line Summary
 
-Program description of CODE (Compassion, Operational Support, De-escalation, Empowerment): a dual-track curriculum pairing procedural/operational training with interpersonal communication training for complaint staff.
+Program description of CODE (Compassion, Operational Support, De-escalation, Empowerment): a dual-track curriculum pairing procedural/operational training with interpersonal communication training for patient-experience complaint staff at a US academic medical center.
 
-(incomplete)
+Dual-track structure: Track 1 trains staff on operational systems and resources for addressing complainant needs; Track 2 develops interpersonal communication skills for empathy and human connection, addressing both efficiency and compassion failure modes.
 
-(incomplete)
+Single-institution descriptive (non-controlled) program framework with no formal outcome data yet; effectiveness vs standard training untested, but transferable as a structured complaint-handling curriculum for healthcare organizations.
 
 ## 세줄요약
 
-CODE(Compassion·Operational Support·De-escalation·Empowerment) 모델 소개 — 운영·절차 트랙과 대인 커뮤니케이션 트랙을 결합한 민원담당자 이중구조 교육과정.
+미국 의과대학 부속병원의 환자경험 민원담당자를 위한 CODE(Compassion·Operational Support·De-escalation·Empowerment) 모델 프로그램 설명: 절차·운영 교육과 대인관계 커뮤니케이션 교육을 결합한 이중구조 교육과정.
 
-(incomplete)
+Track 1 — 민원인의 문제 해결을 위한 운영 시스템·자원 교육; Track 2 — 공감과 인간관계 형성을 위한 대인 커뮤니케이션 기술 개발으로 효율성과 공감 부재라는 두 가지 실패 원인을 동시 해결.
 
-(incomplete)
+단일 기관 기술 프로그램(대조군 없음)으로 형식적 성과 데이터 없지만, 의료 기관의 민원 처리 교육 패러다임으로 이전 가능한 체계적 프레임워크 제시; 표준 교육 대비 효과 검증 필요.
 
 ## 1. Document Information
 - Journal of Patient Experience 2025;12. Program/innovation description.

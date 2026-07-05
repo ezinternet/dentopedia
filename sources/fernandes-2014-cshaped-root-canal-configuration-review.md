@@ -15,21 +15,19 @@ Provides the narrative-review backbone — etiology, classification systems (Mel
 
 ## Three-line Summary
 
+Narrative review (PubMed 1979–2012) synthesizing etiology, incidence, anatomy, classification (Melton/Fan), diagnosis, and management of C-shaped root canals, predominantly in mandibular second molars (2.7–45.5% prevalence, highest in East Asian populations at 31.3–45.5% in Korean and 0.6–41.27% in Chinese).
 
-Narrative review (PubMed 1979–2012) synthesizing etiology, incidence, anatomy, classification (Melton/Fan), diagnosis, and management of C-shaped root canals, predominantly in mandibular second molars.
+Hertwig's epithelial root sheath fusion failure produces longitudinal C-shaped grooves; Melton classification (C1 continuous C, C2 semicolon, C3 separate) and Fan cross-sectional system (C1–C5) dominate; minimum canal-wall thickness measured as low as 0.26 mm buccally, creating strip/perforation risk.
 
-(incomplete)
-
-(incomplete)
+Management requires access modification, multi-file insertion per orifice morphology (continuous C → 3 files; oval → 2; round → 1), small-file exploration (#8/10/15), and modified obturation; diagnostic yield combined clinical+radiographic 41.27%, though pre-2012 search predates modern CBCT prevalence literature.
 
 ## 세줄요약
 
+C-shaped 근관(주로 하악 제2대구치)의 병인·발생률·해부·분류(Melton/Fan)·진단·치료를 종합한 서술적 문헌고찰(PubMed 1979–2012); 발생률 2.7–45.5%, 한국인 31.3–45.5%, 중국인 0.6–41.27%로 동아시아 인종에 높은 유병률.
 
-C-shaped 근관(주로 하악 제2대구치)의 병인·발생률·해부·분류(Melton/Fan)·진단·치료를 종합한 서술적 문헌고찰(PubMed 1979–2012).
+Hertwig 상피근초 융합 실패가 C-shaped groove 생성; Melton 분류(C1 연속C, C2 세미콜론, C3 분리관)와 Fan 횡단면 분류(C1–C5) 주요 사용; 최소 근관벽 두께 0.26 mm로 측정되어 천공/strip 위험.
 
-(incomplete)
-
-(incomplete)
+치료는 근관구멍 모양별 다중 file 삽입(연속C → 3개, 타원 → 2개, 원형 → 1개), 초음파 보조 세정, 변형된 충전 필수; 임상+방사선 진단 정확도 41.27%, 다만 2012년 이전 자료로 현대 CBCT 문헌 미포함.
 
 ## 1. Document Information
 

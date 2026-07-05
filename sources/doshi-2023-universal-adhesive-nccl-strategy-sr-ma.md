@@ -10,7 +10,20 @@ source_collection: external
 ---
 
 ## Three-line Summary
-Updated systematic review and meta-analysis of 17 clinical studies showing no statistically significant difference between total-etch and self-etch strategies for universal adhesives in NCCLs across any of five clinical outcome measures.
+
+Updated SR+MA (17 clinical studies, 13 in MA, NCCL with universal adhesives) comparing total-etch vs self-etch strategies across 18-36 month follow-up using USPHS and FDI criteria.
+
+No significant difference between total-etch and self-etch for any of five clinical outcome measures (retention, marginal adaptation, marginal discoloration, secondary caries, postoperative sensitivity); p>0.05, I²=0%.
+
+Evidence sufficient to conclude universal adhesives perform acceptably in NCCL regardless of etching strategy; publication bias suspected in 18-month FDI retention domain.
+
+## 세줄요약
+
+비우식성 치경부 병소(NCCL)의 범용 접착제에서 total-etch vs self-etch 전략 비교 SR+MA (17 임상 연구, 13개 메타분석 포함, 18-36개월 추적, USPHS·FDI 평가).
+
+전체 다섯 가지 임상 결과(유지, 변연 적응, 변연 변색, 이차 우식, 술후 민감도)에서 유의 차이 없음(p>0.05, I²=0%).
+
+범용 접착제는 NCCL에서 etching 전략과 무관하게 임상적으로 수용 가능; 18개월 FDI 유지 영역에서 출판 편향 의심.
 
 ## 1. Document Information
 - **Journal**: BDJ Open (npj Oral Health), 2023; 9:6

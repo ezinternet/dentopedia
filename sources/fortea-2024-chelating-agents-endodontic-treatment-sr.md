@@ -15,19 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
-SR (56 of 538 articles) comparing chelating agents — 17% EDTA most effective for smear-layer removal and growth-factor release, but 9–18% HEDP advantageous for NaOCl compatibility and avoiding smear-layer formation.
+Systematic review of 56 studies (from 538 screened articles) comparing chelating agents (17% EDTA, 9–18% HEDP, citric acid, PAA, maleic acid) in endodontic treatment.
 
-(incomplete)
+17% EDTA was most effective for smear-layer removal and growth-factor release, while 9–18% HEDP offered superior NaOCl compatibility and prevented smear-layer formation; EDTA showed greater cytotoxicity and inflammatory response.
 
-(incomplete)
+Choice of chelator should align with clinical goals: EDTA for regenerative procedures, HEDP when combined irrigant use is needed; moderate-low evidence due to heterogeneous protocols.
 
 ## 세줄요약
 
-SR(538편 중 56편): 킬레이트제 비교 — smear layer 제거·성장인자 방출은 17% EDTA 우수, NaOCl 양립성·smear layer 예방은 9–18% HEDP(에티드론산)가 유리.
+538편 중 56개 연구의 체계적 고찰: 근관치료에 사용되는 킬레이트제(17% EDTA, 9–18% HEDP, 구연산, PAA, 말산 등) 비교 검토.
 
-(incomplete)
+17% EDTA는 smear layer 제거 및 성장인자 방출에 가장 우수했으나, 9–18% HEDP는 NaOCl 양립성이 우수하고 smear layer 형성을 방지; EDTA는 더 높은 세포독성과 염증반응 나타냄.
 
-(incomplete)
+킬레이트제 선택은 임상 목표에 따라 결정: 재생근관치료는 EDTA, 복합 세정제 사용이 필요할 때는 HEDP; 프로토콜 이질성으로 근거 수준은 중등도-낮음.
 
 ## 1. Document Information
 - J Clin Exp Dent 2024;16(4):e516–538. Universitat de Barcelona; search to Jan 2023.

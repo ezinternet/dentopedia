@@ -19,21 +19,19 @@ PubMed 감시(one-cone technique) — 단일콘+bioceramic의 **임상·방사�
 
 ## Three-line Summary
 
+SR+MA of 3 RCTs (n=259) comparing single-cone bioceramic obturation vs conventional techniques on clinical and radiographic periapical healing at 6–18 months.
 
-SR+MA of 3 RCTs (n=259) — single-cone bioceramic obturation showed numerically higher periapical success than conventional techniques at 6/12/18 mo (88.7/87.1/92.0% vs 76.4/76.4/90.7%) but no statistically significant difference (OR 1.12–2.09, all p>0.05);
+Single-cone bioceramic showed numerically higher periapical success at all time points (6 mo: 88.7% vs 76.4%; 12 mo: 87.1% vs 76.4%; 18 mo: 92.0% vs 90.7%) but no statistically significant differences (OR 1.12–2.09, all p>0.05).
 
-GRADE certainty low.
-
-(incomplete)
+GRADE certainty is low due to only 3 RCTs, risk of bias, and imprecision; gap narrows by 18 months, suggesting potential equivalence with longer follow-up.
 
 ## 세줄요약
 
+RCT 3편(259명) SR+MA — 단일콘 bioceramic 충전법과 전통 충전법의 6–18개월 임상·방사선학적 치근단 치유를 비교.
 
-RCT 3편(259명) SR+MA — 단일콘 bioceramic 충전은 6/12/18개월 치근단 성공률이 전통기법보다 수치상 높았으나(88.7/87.1/92.0% vs 76.4/76.4/90.7%) 통계적 유의차 없음(OR 1.12–2.09, 모두 p>0.05);
+단일콘 bioceramic은 모든 추적 시점에서 수치상 높은 치근단 성공률을 보였으나(6개월: 88.7% vs 76.4%; 12개월: 87.1% vs 76.4%; 18개월: 92.0% vs 90.7%) 통계적으로 유의한 차이 없음(OR 1.12–2.09, 모두 p>0.05).
 
-GRADE 근거수준 낮음.
-
-(incomplete)
+GRADE 근거수준은 낮음(RCT 3편만, 비뚤림 위험, 비정밀성); 18개월에 격차 축소로 장기 추적 시 동등성 시사 가능성 있음.
 
 ## 1. Document Information
 

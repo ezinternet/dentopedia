@@ -19,21 +19,19 @@ USER EMPHASIS — renal/dialysis dental management. Opens the CKD/hemodialysis/r
 
 ## Three-line Summary
 
+Narrative review synthesizing 12 peer-reviewed studies of oral manifestations and dental management in pediatric chronic kidney disease (CKD), hemodialysis, and renal transplantation populations.
 
-Narrative review (12 included studies) of oral manifestations and dental management in pediatric CKD, hemodialysis, and renal transplantation — paradoxically LOW caries (high salivary urea/buffering) but HIGH enamel defects (31-83%), gingival/periodontal disease, calculus, xerostomia, and drug-induced gingival overgrowth;
+Paradoxically LOW caries despite high-carbohydrate diets (caries-free 40% vs 8.5% controls, driven by elevated salivary urea/buffering), but HIGH enamel defects (31-83%), gingival/periodontal disease (bleeding 95.8%), calculus, xerostomia, and transplant drug-induced gingival overgrowth.
 
-key management levers are dialysis-day-after timing, bleeding-risk control, fluoride contraindication, and the 6-month post-transplant elective-care moratorium.
-
-(incomplete)
+Critical dental-management rules: treat on day after dialysis (to avoid heparin effect), use hemostasis layers (topical thrombin, tranexamic acid), avoid elective care in first 6 months post-transplant (immunosuppression window), and screen for drug-induced gingival overgrowth (cyclosporine A, nifedipine) with potential cyclosporine→tacrolimus substitution.
 
 ## 세줄요약
 
+소아 만성콩팥병(CKD) · 혈액투석 · 신장이식 환자의 구강 발현과 치과적 관리를 합성한 narrative review (포함 연구 12편).
 
-소아 만성콩팥병(CKD)·혈액투석·신장이식 환자의 구강 발현과 치과적 관리를 다룬 narrative review(포함 연구 12편) — 타액 요소·완충능이 높아 우식은 역설적으로 적지만 법랑질 형성저하(31-83%), 치은·치주질환, 치석, 구강건조증, 약물성 치은비대가 흔하며, 핵심 관리 원칙은 투석 다음날 시술·출혈위험 관리·불소 금기·이식 후 6개월 선택적 치료 보류이다.
+타액 요소 · 완충능이 높아 우식은 역설적으로 적지만 (무우식 40% vs 대조군 8.5%), 법랑질 형성저하 (31-83%) · 치은출혈 (95.8%) · 치주질환 · 치석 · 구강건조증 · 이식 후 약물성 치은비대가 흔함.
 
-(incomplete)
-
-(incomplete)
+핵심 관리 규칙: 투석 다음날 시술 (헤파린 효과 회피) · 국소지혈 다층 (토피컬 트롬빈, 트라넥삼산) · 이식 후 6개월 선택적 치료 회피 (면역억제 윈도우) · 약물성 치은비대 모니터링 (사이클로스포린 A, 니페디핀) 및 사이클로스포린→타크롤리무스 치환 고려.
 
 ## 1. Document Information
 

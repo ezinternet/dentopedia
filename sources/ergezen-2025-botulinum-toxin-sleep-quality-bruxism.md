@@ -17,21 +17,21 @@ category: [botulinum-toxin]
 
 ## Three-line Summary
 
+Prospective observational study (n=40 women with concurrent awake and sleep bruxism) evaluating standardized BTX-A injection protocol (30U bilateral masseter + 20U bilateral temporalis).
 
-Prospective observational study (n=40 women with awake + sleep bruxism) of standardized BTX-A injection (30U masseter + 20U temporalis) showed good sleep quality (PSQI ≤5) rising from 17.5% to 60% post-treatment, with significant improvements in all PSQI subscales.
+Good sleep quality (PSQI ≤5) increased from 17.5% (7/40) pre-treatment to 60% (24/40) post-treatment (p<0.001), with significant improvements across all PSQI subscales including latency, efficiency, duration, disturbance, and daytime function.
 
-Abstract-only.
-
-(incomplete)
+Abstract-only; timing of post-treatment assessment unclear; no control group limits causal inference and prevents quantification of placebo effect.
 
 ## 세줄요약
 
+각성 브럭시즘 및 수면 브럭시즘을 동시에 진단받은 여성 40명을 대상으로 한 전향 관찰 연구로, 표준화된 BTX-A 주사(양측 교근 30U + 양측 측두근 20U) 효과 평가.
 
-각성 및 수면 브럭시즘을 동시 진단받은 여성 40명을 대상으로 표준화 BTX-A 주사(교근 30U + 측두근 20U) 후 PSQI 기준 수면의 질 양호 비율이 17.5%→60%로 증가하고 모든 수면 하위척도가 유의하게 개선된 전향 관찰 연구.
+PSQI 기준 수면의 질 양호(≤5) 비율이 치료 전 17.5% (7/40)에서 치료 후 60% (24/40)로 증가했고(p<0.001), 수면 잠재기·효율성·지속시간·방해·낮 시간 기능 등 모든 하위척도에서 유의한 개선.
 
-초록만 수집.
+초록만 수집되어 치료 후 평가 시점 불명확하며, 대조군 부재로 인과관계 추론 제한적이고 위약 효과 기여도 정량화 불가.
 
-(incomplete)
+
 
 ## 1. Document Information
 

@@ -15,19 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
-SR+MA (34 studies included, 11 in meta-analysis) finding laser therapy (high- or low-power) significantly reduces DH pain vs baseline at 3 months, with no significant superiority of high- over low-power and no defined protocol.
+Systematic review and meta-analysis of 34 studies (11 included in quantitative synthesis) evaluating laser therapy—both high-power (Nd:YAG, Er,Cr:YSGG, diode at ablative settings) and low-power (photobiomodulation)—for dentin hypersensitivity treatment.
 
-(incomplete)
+Both high-power and low-power laser therapies significantly reduced pain relative to baseline at the 3-month endpoint; indirect comparison showed a trend favoring high-power but without statistical significance.
 
-(incomplete)
+Heterogeneous assessment methods across trials preclude derivation of a standardized laser protocol; 55% of included studies had follow-up of ≤6 months, limiting evidence for long-term efficacy.
 
 ## 세줄요약
 
-SR+MA(34편 포함·11편 정량): 레이저 치료(고출력/저출력)가 3개월 시점 DH 통증을 유의하게 감소시키나, 고출력의 저출력 대비 우월성은 없고 표준 프로토콜 미확립.
+34개 연구의 체계적 문헌고찰·메타분석 (정량 분석 11편 포함): 고출력 레이저(Nd:YAG, Er,Cr:YSGG, 제거적 설정의 다이오드)와 저출력 레이저(광생물조절)를 포함한 상아질 과민증(DH) 치료의 효과 평가.
 
-(incomplete)
+3개월 시점에서 고출력 및 저출력 레이저 치료 모두 기저선 대비 통증을 유의하게 감소시켰으며, 간접 비교에서 고출력이 저출력보다 우월한 경향을 보였으나 통계적으로 유의하지 않음.
 
-(incomplete)
+시험마다 평가 방법이 이질적이어서 표준화된 프로토콜 도출 불가; 포함된 연구의 55%가 6개월 이하의 추적 기간을 가져 장기 효과 증거가 제한적.
 
 ## 1. Document Information
 - Dental and Medical Problems 2023;60(1):153–166. Cite: Pion LA, Matos LLMd, Gimenez T, Palma-Dibb RG, Faraoni JJ.

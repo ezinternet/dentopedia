@@ -18,21 +18,19 @@ CoQ10 ("잇몸 영양제") is one of the most heavily marketed periodontal suppl
 
 ## Three-line Summary
 
+Systematic review of 10 RCTs comparing scaling and root planing (SRP) with or without adjunctive coenzyme Q10 (local gel, intra-pocket, or oral supplementation) in adults with periodontitis.
 
-Systematic review of 10 RCTs (SRP ± CoQ10): locally delivered CoQ10 gel had no significant effect on PD/CAL, but oral supplementation (120 mg/day) gave small significant gains (PD −0.41 mm, CAL −0.52 mm) at 12 weeks — very low certainty of evidence.
+Locally delivered CoQ10 gel (topical or intra-pocket, 4 RCTs) showed no significant effect on probing depth or clinical attachment level; oral supplementation (120 mg/day, 6 RCTs) achieved small but significant gains (PD −0.41 mm, CAL −0.52 mm at 12 weeks).
 
-(incomplete)
-
-(incomplete)
+Overall certainty of evidence is very low (GRADE), limiting the strength of any clinical recommendation; the lack of effect for marketed gel formulations contradicts prior pooled analyses.
 
 ## 세줄요약
 
+성인 치주염 환자에서 치근활택술(SRP)에 국소·경구 코엔자임 Q10(CoQ10)을 보조적으로 사용한 10편 RCT를 체계적으로 고찰한 메타분석.
 
-10편 RCT 체계적 고찰(SRP ± CoQ10) — 국소 CoQ10 겔은 치주낭·부착수준에 유의한 효과 없음, 경구 보충(120 mg/일)은 12주에 작은 유의 개선(PD −0.41 mm, CAL −0.52 mm).
+국소 겔형 CoQ10(국소/치주낭내, 4편)은 치주낭 깊이와 부착수준에 유의한 효과 없었으나, 경구 보충(120 mg/일, 6편)은 12주에서 작은 유의 개선(PD −0.41 mm, CAL −0.52 mm)을 나타냄.
 
-근거 확실성은 very low.
-
-(incomplete)
+전체 근거 확실성은 매우 낮음(GRADE)이므로 임상 권장의 강도가 제한되며, 시판되는 겔 제제의 무효성은 기존 풀링 분석과 상충됨.
 
 ## 1. Document Information
 

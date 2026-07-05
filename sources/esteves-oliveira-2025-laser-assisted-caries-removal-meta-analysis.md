@@ -15,21 +15,19 @@ source_collection: external
 
 ## Three-line Summary
 
+SR+MA of 20 in-vivo RCTs (≥2263 teeth, >1090 patients; age 3–72y, mostly Er:YAG laser, 17 split-mouth designs) comparing laser-assisted caries excavation versus conventional bur excavation across 5 clinical outcomes.
 
-SR+MA of 20 in-vivo RCTs (≥2263 teeth, >1090 patients) finding laser caries excavation gives restoration survival and pulp vitality equivalent to burs, significantly reduces need for anesthesia and pain, but takes significantly longer — all at low/very-low evidence level.
+Laser excavation achieved non-inferior restoration survival (RR 1.51, 95% CI 0.87–2.64, NS) and pulp vitality (RR 1.46, 95% CI 0.33–6.46, NS), with significantly reduced anesthesia need (RR 0.29) and pain (RR 0.35), but required 2.23 min longer per tooth (all outcomes low/very-low GRADE certainty).
 
-(incomplete)
-
-(incomplete)
+Clinical trade-off: laser offers superior comfort and conservation but slower excavation; choice depends on chairside time tolerance and patient pain sensitivity — evidence quality insufficient to strongly recommend one method over the other.
 
 ## 세줄요약
 
+생체 RCT 20편(치아 ≥2263개, 환자 1090+명; 연령 3~72세, 대부분 Er:YAG 레이저, split-mouth design 17편) SR+MA — 레이저 우식 제거 vs 일반 bur 와동 형성을 5가지 임상결과로 비교.
 
-생체 RCT 20편(치아 ≥2263개, 환자 1090+명) SR+MA — 레이저 우식 제거는 수복물 생존·치수생활력이 bur와 동등하고 마취 필요·통증을 유의하게 줄이지만 시간이 유의하게 더 걸린다(근거수준 낮음~매우낮음).
+레이저 와동형성은 수복물 생존(RR 1.51, 95% CI 0.87–2.64, NS)과 치수생활력(RR 1.46, 95% CI 0.33–6.46, NS)에서 비열등, 마취 필요도 현저히 낮음(RR 0.29)·통증도 현저히 적음(RR 0.35)이나 치아당 2.23분 더 소요(모든 결과 근거수준 낮음~매우낮음).
 
-(incomplete)
-
-(incomplete)
+임상적 절충: 레이저는 환자편의성·보존성 우수하나 시간 더 소요 — 진료시간 여유도와 환자 통증민감도에 따라 선택, 근거수준이 낮아 한 가지 방법을 강력히 권장하기 어려움.
 
 ## 1. Document Information
 
