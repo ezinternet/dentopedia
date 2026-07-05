@@ -27,6 +27,10 @@ PRISMA-ScR 스코핑 리뷰 (633건 → 37편 포함, 추적 최소 12개월) �
 
 1차 연구들의 결과 보고 이질성이 높고 통계적 통합이 없어 시술법 간 직접 비교는 제한적이며, 향후 TSFE 메타분석을 위한 표준화된 보고 기준이 필요하다.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/sinus-lift-technique-selection]]에서 확인되는 현재 역할을 백필.] [[overviews/sinus-lift-technique-selection]] 기법선택 표에서 25년치 TSFE 4개 술식을 통째로 분류한 스코핑 리뷰(37편) — sirinirund-2025(sr, ≥5mm 기준)·shalash-2023(prospective)·toledano-2022(sr+ma)와 함께 경치조골 접근법 비교의 폭넓은 배경지도를 제공.
+
 ## 1. Document Information
 University of Michigan group (Decker, Stuhr, Testori, Wang). Decker and Stuhr share first authorship. Published in CID, open-access.
 
