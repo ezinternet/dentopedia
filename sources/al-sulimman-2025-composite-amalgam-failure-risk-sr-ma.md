@@ -25,6 +25,10 @@ SR+MA (임상·관찰 연구 13편; 영구 구치부, 추적 ≥12개월) — �
 
 현존 근거는 어느 재료도 우월하다고 선언하기에 불충분; 우식 위험도·치아 위치·치면 수·술자 숙련도를 통제한 추가 체계적 문헌고찰이 필요.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/direct-restorative-materials-history-overview]]에서 확인되는 현재 역할을 백필.] [[overviews/direct-restorative-materials-history-overview]]의 "후방부-내구성 라인(아말감)" 4편 중 하나 — worthington-2021(Cochrane, 5년 유사)·tobias-2024(실사용 65만+명, HR 1.29)·bhagwat-2025(SR, 아말감 16년 vs 레진 11년) 사이에서 RR 0.96(NS)이라는 "유의차 없음" 결과를 제공, 재료 우월성 논쟁이 아직 미해결임을 보강.
+
 ## 1. Document Information
 - **Journal**: International Dental Journal (Elsevier/FDI), 2025
 - **DOI**: 10.1016/j.identj.2025.100871
