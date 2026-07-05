@@ -25,6 +25,10 @@ SR+MA(32편, 2015–2020년 연구만 대상; PubMed/Embase/Cochrane, GRADE): �
 
 레이저·수술 절제 후에도 전환 가능성이 잔존 — 장기 추적 필수; 비흡연자의 고위험 소견이 주요 임상적 시사점.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/oral-medicine-decision-ladder]]에서 확인되는 현재 역할을 백필.] [[overviews/oral-medicine-decision-ladder]]에서 OPMD 악성전환율의 spine paper 3편 중 하나(pooled 3.5%) — pimenta-barros-2025(6.64%, 대규모)·sapkota-2024(재발률 22%)와 함께 OPMD 위험도 판단의 기준선을 형성.
+
 ## 1. Document Information
 - **Title**: Malignant transformation of oral leukoplakia: Systematic review and meta-analysis of the last 5 years
 - **Authors**: José Manuel Aguirre-Urizar, Pablo Ramos-García, Miguel Ángel González-Moles
