@@ -16,6 +16,22 @@ interactive: interactives/2026-06-14_apf-fgg-ctg-mucogingival-selection.html
 tags: [mucogingival-surgery, periodontal-plastic-surgery, keratinized-tissue, gingival-recession, root-coverage, connective-tissue-graft, free-gingival-graft, apically-positioned-flap]
 ---
 
+## Three-line Summary
+
+Synthesis of three distinct mucogingival surgery techniques: apically positioned flap (APF, pocket reduction without graft), free gingival graft (FGG, keratinized tissue augmentation with epithelium), and connective tissue graft (CTG, root coverage with subepithelial graft).
+
+APF indicated when adequate keratinized tissue already present; FGG for KT width augmentation (Shakiliyeva 2025 RCT: gingival unit technique superior in reducing shrinkage); CTG gold standard for root coverage and esthetic zones (Cairo RT1–RT2, Miller I–II).
+
+Clinical decision tree hinges on three branching points: baseline keratinized tissue adequacy, primary goal (pocket reduction vs. KT augmentation vs. root coverage), and esthetic zone involvement; CTG preferred for esthetics despite donor site morbidity.
+
+## 세줄요약
+
+3가지 치주성형 술식의 임상 선택 기준 정리: 치은판막근단변위술(APF, 이식편 없이 낭감소), 유리치은이식술(FGG, 상피포함 전층이식으로 각화치은 폭증), 결합조직이식술(CTG, 상피하 결합조직이식으로 피개·심미).
+
+APF는 기존 각화치은 충분할 때; FGG는 KT 폭증(Shakiliyeva 2025 RCT: 치은단위이식 기법이 수축 감소 우수); CTG는 치근피개·심미부위 황금표준(Cairo RT1~RT2, Miller I~II).
+
+임상 의사결정은 3갈래 분기점 기준: 기존 각화치은 충분 여부, 1차 목적(낭감소 vs 폭증 vs 피개), 심미부위 여부; 공여부 부담에도 불구 심미에선 CTG 우선.
+
 ## 개요
 
 각화치은·치근피개·치주낭을 다루는 세 치주성형 술식의 분기 기준 정리. **APF(치은판막 근단변위술)**는 이식편 없이 판막을 근단 이동, **FGG(유리치은이식술)**는 상피포함 전층 이식으로 각화치은 폭 증대, **CTG(결합조직이식술)**는 상피하 결합조직 이식으로 치근피개·심미를 담당한다. [합의수준] 선택축은 "각화치은이 이미 있느냐 / 폭을 늘려야 하느냐 / 노출 치근을 덮느냐" 세 갈래. [claude해석]
