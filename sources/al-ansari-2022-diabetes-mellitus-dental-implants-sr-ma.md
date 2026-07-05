@@ -26,6 +26,10 @@ SR+MA (89편; 당뇨 임플란트 5,510개 vs 비당뇨 62,780개) — 당뇨환
 
 당뇨는 임플란트 실패 위험을 유의하게 높이며 특히 상악과 제1형 당뇨에서 현저; MBL이 시간에 따라 지속 악화되므로 임플란트 유지 관리 전 기간에 걸친 혈당 조절 모니터링이 필수.
 
+## Why Ingested
+
+[역소급 작성 2026-07-05 — 원 인제스트(2026-05-18) 당시 동기 기록 없음. [[overviews/diabetic-patient-immediate-implant-decision]]에서 확인되는 현재 역할을 백필.] [[overviews/diabetic-patient-immediate-implant-decision]] 결정표에서 "DM 전체 실패위험·부위"를 답하는 유일한 근거(OR 1.777, 상악 한정) — wagner-2022(HbA1c 구간)·andrade-2021(즉시 부하)·li-2026(즉시 식립) 각 하위질문과 나란히 배치돼 당뇨 임플란트 결정 사다리의 한 칸을 구성.
+
 ## 1. Document Information
 - Journal: Materials 15(9):3227 (April 2022)
 - DOI: 10.3390/ma15093227
