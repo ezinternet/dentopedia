@@ -1,3 +1,20 @@
+---
+title: "IIP (Immediate Implant Placement) PubMed sweep ingest queue"
+type: agenda
+date: 2026-06-28
+status: in-progress
+tags: []
+output_wiki:
+  - wiki/immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa.md
+  - wiki/immediate-implant/pannuti-2026-loading-timing-edentulous-maxilla-pro.md
+  - wiki/immediate-implant/askinekinci-2026-bic-surface-immediate-implant-stability.md
+  - wiki/immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc.md
+  - wiki/immediate-implant/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct.md
+  - wiki/immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct.md
+  - wiki/implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct.md
+  - wiki/digital-workflow/nava-2026-guided-surgery-immediate-implant-accuracy-nma.md
+---
+
 # IIP (Immediate Implant Placement) — PubMed sweep ingest queue
 
 - **Date**: 2026-06-28
