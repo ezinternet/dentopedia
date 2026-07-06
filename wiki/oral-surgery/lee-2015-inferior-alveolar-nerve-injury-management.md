@@ -65,4 +65,4 @@ Neurotmesis → 외과적 재건 필요
 ```
 
 ## Related Papers
-- (향후 추가 예정: IAN 관련 연구)
+- [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — 287례 정악교정수술 코호트에서 LLLT·스테로이드·비타민B를 비교, 본 증례의 "표준 프로토콜 부재" 결론을 대규모로 재확인
