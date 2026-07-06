@@ -18,6 +18,8 @@ tags: [morsicatio-buccarum, cheek-biting, frictional-keratosis, tobacco-pouch-ke
 relations:
   - type: extends
     target: gupta-2023-prevalence-distribution-oral-mucosal-nepal
+  - type: reinforces
+    target: oral-mucosal-normal-variants-prevalence-diagnosis-overview
 ---
 
 ## Three-line Summary
