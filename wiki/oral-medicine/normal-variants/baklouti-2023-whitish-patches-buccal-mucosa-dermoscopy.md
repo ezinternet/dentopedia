@@ -18,6 +18,8 @@ tags: [morsicatio-labiorum, cheek-biting, dermoscopy, oral-lichen-planus, differ
 relations:
   - type: applies-to
     target: nautiyal-2024-prevalence-keratosis-oral-cavity
+  - type: reinforces
+    target: oral-mucosal-normal-variants-prevalence-diagnosis-overview
 ---
 
 ## Three-line Summary
