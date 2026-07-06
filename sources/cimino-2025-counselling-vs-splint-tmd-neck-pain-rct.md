@@ -15,7 +15,7 @@ text_filename: cimino-2025-counselling-vs-splint-tmd-neck-pain-rct.txt
 
 ## Why Ingested
 
-기존 [[tmj/overview-tmd-treatment-conservative]] 관련 맥락에서 교합안정장치 (Occlusal Splint, OS)가 경추통증 (neck pain)에 추가 효과를 주는지 논란이 있었음. 이 RCT는 상담 단독 vs 상담+교합안정장치를 직접 비교해, 목통증 및 경부기능장애 (Neck Disability Index, NDI)에 두 군의 차이가 없음을 보여 conservative self-management 우선 원칙을 뒷받침함. [[tmj/overview-tmd-conservative-management]]의 치료 근거를 보강함.
+기존 [[overviews/tmd-management-evidence-ladder]] 관련 맥락에서 교합안정장치 (Occlusal Splint, OS)가 경추통증 (neck pain)에 추가 효과를 주는지 논란이 있었음. 이 RCT는 상담 단독 vs 상담+교합안정장치를 직접 비교해, 목통증 및 경부기능장애 (Neck Disability Index, NDI)에 두 군의 차이가 없음을 보여 conservative self-management 우선 원칙을 뒷받침함. [[overviews/occlusal-splint-tmd-value-adjunct-prediction-overview]] 축 2(스플린트 부가가치)의 근거를 보강함.
 
 ## Three-line Summary
 
