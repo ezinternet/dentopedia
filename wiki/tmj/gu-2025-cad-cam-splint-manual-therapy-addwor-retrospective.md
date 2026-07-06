@@ -73,4 +73,6 @@ All groups received baseline health education covering dietary habits, behaviora
 
 ## Related Papers
 
-- [[tmj/overview-tmj-management-conservative]] — TMJ 보존치료 전반 합성 페이지; 본 연구는 CAD/CAM+도수치료 병용 근거를 추가
+- [[overviews/occlusal-splint-tmd-value-adjunct-prediction-overview]] — splint-focused synthesis; this study anchors axis 3 (splint + manual therapy > splint alone > education for ADDwoR)
+- [[overviews/tmd-management-evidence-ladder]] — master TMD 보존치료 ladder; 본 연구는 CAD/CAM 스플린트 + 도수치료 병용 근거를 추가
+- [[tmj/sa-2024-conservative-invasive-tmd-disc-displacement-sr]] — disc-displacement treatment-tier SR that contextualises this ADDwoR combination result
