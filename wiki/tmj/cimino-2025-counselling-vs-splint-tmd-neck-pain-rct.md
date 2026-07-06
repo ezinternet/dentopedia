@@ -76,5 +76,7 @@ The key clinical message is that counselling — a low-cost, risk-free self-mana
 
 ## Related Papers
 
-- [[tmj/overview-tmd-conservative-management]] — counselling/self-management evidence base this RCT extends
-- [[tmj/overview-tmd-treatment-conservative]] — broader conservative TMD treatment overview
+- [[overviews/occlusal-splint-tmd-value-adjunct-prediction-overview]] — splint-focused synthesis; this RCT anchors axis 2 (no added cervical value of a splint over counselling alone)
+- [[overviews/tmd-management-evidence-ladder]] — master TMD ladder; counselling/self-management first-line evidence base this RCT extends
+- [[tmj/ferland-2026-patient-education-self-management-tmd-sr-ma]] — education/self-management SR+MA that this RCT qualifies (counselling is sufficient for the cervical comorbidity)
+- [[tmj/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct]] — companion splint RCT (splint ≈ other active modalities, not uniquely superior)
