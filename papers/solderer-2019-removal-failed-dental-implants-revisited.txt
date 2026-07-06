@@ -1,0 +1,130 @@
+Removal of failed dental implants revisited: Questions and answers
+Solderer A, Al-Jazrawi A, Sahrmann P, Jung R, Attin T, Schmidlin PR
+Clinical and Experimental Dental Research 2019;5(6):712-724
+DOI: 10.1002/cre2.234  PMID: 31890309  PMCID: PMC6934347
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+Objectives: This narrative review is aiming on showing reasons for implant failure, removal
+techniques, and respective clinical considerations; further, the survival rate of implants in
+previous failed sites is examined.
+Materials and methods: Questions have been formulated, answered, and discussed through a
+literature search including studies assessing implant failure and removal up to 2018.
+Results: Studies describing reasons for implant failure, implant removal techniques, and the
+reinsertion of implants in a previous failed site were included. To date, peri-implantitis is the
+main reason for late implant failure (81.9%). Trephine burs seem to be the best-known method for
+implant removal. Nevertheless, the counter-torque-ratchet-technique, because of the low
+invasiveness, should be the first choice for the clinician. Regarding zirconia implant removal, only
+scarce data are available. Implantation in previously failed sites irrespective of an early or late
+failure results in 71% to 100% survival over 5 years.
+Conclusion: If removal is required, interventions should be based on considerations regarding
+minimally invasive access and management as well as predictable healing. (Post)Operative
+considerations should primarily depend on the defect type and the consecutive implantation plans.
+
+=== INTRODUCTION ===
+Dental implants report high success rates of 97% over 10 years (Buser) and 75% over 20 years
+(Chappuis). Biological complications may lead to complete implant failure and removal. Failures
+are early (before functional loading; inadequate healing/osseointegration — overheating,
+overpreparation, lack of primary stability, overload, parafunction; implants clinically mobile,
+easy to remove) or late (after loading; mainly biological — peri-implantitis, implant fractures).
+Rarely a healthy osseointegrated implant is a "failure" due to extreme malpositioning. Most
+late-failing implants are NOT mobile and remain at least partially osseointegrated apically, so
+explantation can be challenging and invasive, potentially harming neighbouring teeth/structures.
+Removal methods described: counter-torque ratchet, piezo surgery, high-speed burs, elevators,
+forceps, trephine burs, laser surgery. This is the first review to also address ailing/failing
+zirconia implants.
+
+=== METHODS / SCREENING ===
+Narrative review; databases PubMed, MEDLINE, Embase, Cochrane. Two authors screened by
+title/abstract; Cohen's kappa 0.65. Out of 3,997 screened articles, 34 studies were included.
+Inclusion: RCTs, case series, retrospective, case reports, systematic reviews, narrative reviews.
+Exclusion: not osseointegrated implants, no screw-shaped implants, orthodontic implants, animal
+studies.
+
+=== Q1: WHEN AND WHY DO IMPLANTS NEED REMOVAL? ===
+Chrcanovic analyzed 10,096 implants; 642 failures (6.36%); 49% of failures/removals in the first
+year. Etiology categorized as biological, mechanical, iatrogenic, functional.
+- Biological: Peri-implantitis = major biological complication; main reason for late failure.
+  Derks meta-analysis: 22% of implants develop peri-implantitis. Anitua: of 158 non-mobile implants
+  scheduled for explantation, main reason peri-implantitis 82.9%, malpositioning 13.9%. Implants do
+  not become mobile until osseointegration is nearly completely lost. Failure thresholds debated:
+  >50% bone loss (Misch) vs >=75% bone loss / <3 mm remaining bone contact.
+- Mechanical: Implant fractures — causes bruxism, large occlusal forces, trauma, reduced diameter,
+  material fatigue, advanced bone loss. Prevalence ~1% (Goodacre); Lee: 70/19,087 implants (0.4%)
+  fractured. Higher risk in molar region. Zirconia fracture rate ~1.95% overall (0.2% for
+  market-available), similar to titanium.
+- Surgical malpositioning: ~10% of implants prosthetically inadequate position. Sendyk
+  meta-analysis: experienced surgeons (>50 implants/yr) 2.4% failure vs inexperienced 12.2%
+  (OR 2.18, 95% CI 1.40-3.39).
+
+=== Q2: HOW SHOULD IMPLANTS BE REMOVED? ===
+Selected technique should be fast, minimally traumatic, cost-effective. Only case reports/series
+available.
+- Tooth extraction set: for mobile implants or little residual BIC — levers, elevators, forceps.
+- Trephine burs: cylindrical blades, standard/common. Choose diameter only slightly larger than
+  implant to conserve bone. 1,200-1,500 rpm with maximal water cooling to avoid thermal necrosis.
+  Use only if no less invasive alternative. Complications reported: mandible fracture, osteomyelitis
+  — assess local anatomy incl. CBCT. Deeb: CAD/CAM surgical guides for 3D-guided, less invasive.
+- Piezo surgery: less traumatic than trephine; 24,000-29,500 Hz, precise/selective cutting spares
+  vessels/nerves. Circumferential osteotomy with diamond insert, intermittent mode + saline
+  cooling. Improved postoperative bone healing vs trephine. Caution with pacemakers.
+- Laser surgery: Er,Cr:YSGG — circumferential destruction of bone-implant interface via
+  hydrokinetic effect; clean cuts, no thermal damage, good hemostasis. In vitro vs trephine: laser
+  removed ~half the bone (0.302 vs 0.519 cm) but was >2x slower (44.1 vs 17.2 s); well-defined bone
+  edges without thermal alteration vs microcracks with trephine. Less invasive but more time
+  consuming; more research needed.
+- Counter-torque ratchet technique (CTRT): LEAST TRAUMATIC; keeps surrounding bone ~undamaged.
+  Two modalities:
+  (1) Intact-connection: fitting abutment/engaging tool, counterclockwise torque. Internal
+      connection easier than external (leverage). Thread shape matters — square threads highest BIC,
+      hardest to remove; tapered bodies easier than parallel; apical antirotational design hampers.
+  (2) Reverse screw technique (RST): for fractured/damaged implants — screw driven counterclockwise
+      to grip, then counter-torque removes unit; cool with saline (friction heat).
+  Simon & Caputo: 31 orthodontic mini-implants — 26 removed intact at 11-23 Ncm; remainder
+  fractured at bone level at 27-35 Ncm. Anitua (BTI kit): 42 patients/91 implants — 78 removed by
+  CTRT alone, 13 needed trephine+BTI. Anitua 81 patients/158 non-mobile implants — 139 removed at
+  146 Ncm without burs; 19 needed trephine + higher torque 161 Ncm. Indication for trephine:
+  removal torque >200 Ncm, fractured implants/prosthetic components. Removal torque lowest in
+  plasma-sprayed, highest in acid-etched+sandblasted surfaces. **4 mm remaining osseointegration =
+  critical threshold for CTRT-alone**; more osseointegration -> combine CTRT + bone-cutting
+  (trephine/piezo). Beware fractures in narrow implants.
+- Electrosurgery (thermo-explantation): monopolar unit induces thermo-necrosis / osseodisintegration
+  at bone-implant interface, then low counterclockwise torque removes implant. Cunliffe & Barclay:
+  15 s application; implant removed 1 week later with CTRT at 30 N. Concern: mucosal/extended
+  osteonecrosis. Bone thermal-necrosis thresholds: 44-47 C for >1 min (Eriksson & Albrektsson);
+  47 C critical; 56-70 C harmful. More research needed.
+
+=== Q3: HOW DOES IMPLANT MATERIAL INFLUENCE REMOVAL? ===
+Zirconia: osseointegration similar to titanium; BIC 25-88% (Zr) vs 24-85% (Ti); removal torque
+9-78 N (Zr) vs 7-74 N (Ti). Bone-resection methods (extraction set, trephine, piezo, laser) apply
+comparably. But CTRT more risky for zirconia due to lower fracture toughness (Zr 4-18 MPa/m vs Ti
+77 MPa/m) — likely to fracture; CTRT only feasible with extensive surrounding bone resorption. No
+data on electrosurgical removal of zirconia; zirconia acts as a thermal insulator at elevated
+temperatures, suggesting thermal method may not be appropriate.
+
+=== Q4: FATE OF SURROUNDING BONE / SOCKET PREPARATION ===
+Implants lack bundle bone, so post-explantation defect behaves differently from post-extraction
+socket (no accentuated bundle-bone resorption). No literature quantifying bone remodeling after
+removal of osseointegrated failing implants. Schwarz peri-implantitis defect classification:
+Class I intrabony (circumferential Class Ie 55.3% most common — behaves like self-containing
+three-wall defect, best for GBR) and Class II horizontal. Expected defect morphology should guide
+removal method choice. Immediate/early re-placement often requires bone augmentation. Extra care
+for bisphosphonate/bone-metabolism-drug patients.
+
+=== Q5: CONSIDERATIONS WHEN REINSERTING IMPLANTS ===
+Gomes meta-analysis (11 articles) + 2 more: 704 replaced implants in 579 patients. Survival 88.7%
+in previously failed sites; 85% in twice-failed sites. Second implantation survival 71-100% (7-180
+months); third attempt 50-100%; success 90-100% (few reported). Wang: replacement after early
+failure — survival 94.6%, success 90.6% at avg 69.4 months (no significant difference vs late
+failure). "Cluster effect" — multiple simultaneous failures suggest systemic/genetic factors to
+control before re-surgery. Replacement implants should be LARGER diameter and/or rough-surfaced for
+primary stability; shorter/similar-diameter -> lower survival. Sinus-grafted sites: second surgery
+100% (grafted) / 92% (nongrafted) survival — grafting no obstacle. No statistical difference between
+immediate vs delayed reimplantation given sufficient bone quality/quantity and absence of infection;
+extended defects need buccal plate correction with GBR first.
+
+=== CONCLUSIONS ===
+Limited data (mainly case reports / small series). CTRT is least invasive and should be first
+choice; trephine burs most common but remove bone; choose technique by defect type to preserve bone
+for reimplantation; zirconia removal data scarce; reinsertion in failed sites is predictable
+(71-100% survival). More research (RCTs, standardized outcomes) needed.
