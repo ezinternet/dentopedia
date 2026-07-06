@@ -657,6 +657,9 @@ tags: []
 - [[endodontics/eal/shacham-2020-eal-wide-apical-foramen-ex-vivo]] — Ex vivo 10개 치아(근첨공 0.6–0.8mm): 파일 직경이 근첨공 직경에 근접할수록 EAL 정확도·안정성 모두 향상; SAF도 유효; 광근첨공 시 파일 매칭이 핵심
 - [[endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy]] — In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% 정확도(±0.5mm); 유의차 없음(p=0.61); 임상적 동등
 
+## 근관치료 — 충전 길이·예후 (Endodontics: Obturation Length / Outcome)
+- [[overviews/obturation-length-outcome-overview]] — Synthesis 2026-07-05 (5편): 근관충전 종지점은 AC(RA 0–2mm short)·dense·no-extrusion; "얼마나 short"는 진단 종속 — 생활치수는 다소 물러남(Chugal 성공례 WL 1.23mm), 괴사+AP는 AC 근접(WL 1mm 손실당 실패 +14%); 과충전은 일관되게 예후↓ (Schaeffer +28.8% short>past-apex, Ng RA 2mm 이내, Ricucci excess↓, Sjogren filling level 유의)
+
 ## 근관치료 — 세정·활성화 (Endodontics: Irrigation)
 - [[endodontics/irrigation/hatipoglu-2025-irrigation-activation-postoperative-pain-network-meta]] — Hatipoğlu 2025 · sr+ma · 세정 활성화 7기법 NMA: 레이저활성화세정(LAI) 술후1일 통증 최저(SUCRA 85%), 수동역동(MDI) 최하위
 - [[endodontics/irrigation/zarei-2026-final-irrigation-postoperative-pain-necrotic-molar-rct]] — Zarei 2026 · rct · 괴사 하악대구치 단일내원: 측방배출침·수동초음파세정 모두 일반침세정보다 통증·부종↓, 둘 사이 차이 없음(n=45)
