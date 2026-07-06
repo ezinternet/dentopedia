@@ -15,6 +15,9 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10599919/
 text_path: /Users/oracleneo/llm-wiki/papers/gupta-2023-prevalence-distribution-oral-mucosal-nepal.txt
 text_filename: gupta-2023-prevalence-distribution-oral-mucosal-nepal.txt
 tags: [fordyce-granules, linea-alba, normal-variant, oral-mucosal-lesions, epidemiology]
+relations:
+  - type: reinforces
+    target: oral-mucosal-normal-variants-prevalence-diagnosis-overview
 ---
 
 ## Three-line Summary
