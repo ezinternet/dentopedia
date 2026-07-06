@@ -1406,6 +1406,7 @@ tags: []
 - [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]] — 구강상악동루(OAF) 국소 피판 폐쇄술 서술 고찰: 크기 기반 알고리즘(<3mm 자연치유·<5mm 단순봉합·≥5mm 피판) + 협측전진피판·협측지방패드·구개회전피판(>10mm) 비교 (DOI 10.5125/jkaoms.2020.46.1.58)
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]] — 서사 리뷰(1999): OAF 폐쇄 피판 술식 전반(협측·구개·설·측두근·동종이식) + 결손 크기별 4단계 프로토콜; 급성 1차 성공률 ~95% vs 만성 2차 최저 67% (DOI 10.1016/S1043-1810(99)80037-2)
 - [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — Shandilya 2025 · 전향적(n=132, 구강 SCC 절제+경부청소술): 수술 후 창상 오염률 55% → 생리식염수 세정 후 7.6%로 유의 감소(p<0.001); 신경주위침윤(PNI)만 오염 예측인자(p=0.037); 기계적 세정만으로 이식전이 위험 실질적 감소
+- [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — 후향적(n=287, 정악교정수술, Tel-Aviv): 삼차신경 감각이상 5.9%(17건, 88.2% 하악); LLLT 호전율 75% vs 무치료 33%, 스테로이드·비타민B 병용에도 완전회복 드묾 — 표준 프로토콜 부재 재확인
 
 ## 레진 (Resin)
 - [[resin/ferracane-2024-historical-perspective-dental-composite-restorative]] — Ferracane 발달사 리뷰(J Funct Biomater 2024, PMC): 복합레진 진화 연대기 — 실리케이트·PMMA → Bowen Bis-GMA(1962)·Buonocore 산부식 → 화학→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill → bioactive·self-healing; 아말감을 복합레진이 대체해온 구치부 재료로 위치
