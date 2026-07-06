@@ -1,0 +1,86 @@
+Treatment of dental implant displacement into the maxillary sinus
+An JH, Park SH, Han JJ, Jung S, Kook MS, Park HJ, Oh HK
+Maxillofacial Plastic and Reconstructive Surgery 2017;39(1):35
+DOI: 10.1186/s40902-017-0133-1  PMID: 29204419  PMCID: PMC5701899
+Chonnam National University, School of Dentistry, Gwangju, Korea
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+Background: Displacement of dental implants into the maxillary sinus is rare, but it primarily
+occurs in patients with severe pneumatization of the maxillary sinus and/or deficiency of the
+alveolar process. Complications such as infection of the paranasal sinuses and oroantral fistula can
+follow. The displaced implant has to be removed immediately with surgical intervention and another
+rehabilitation plan considered.
+Main body: The conventional procedure for removal of a displaced implant from the maxillary sinus
+involves sinus bone grafting and new implant placement performed in two or more steps with a
+significant time gap. Simplification of these surgical procedures can decrease treatment duration and
+patient discomfort.
+Conclusions: This review discusses the anatomical characteristics of the maxillary sinus and the
+complications associated with implant displacement into the sinus.
+
+=== INTRODUCTION / ETIOLOGY ===
+Severe maxillary sinus pneumatization + thin residual alveolar bone can cause displacement of
+implants into the sinus during placement or after prosthetic restoration. Biting forces can also
+displace. Risk higher with simultaneous implant + bone graft after sinus elevation, and with
+residual bone height <4 mm plus simultaneous grafting. Galindo: air-pressure differences between
+sinus and nasal cavity + autoimmune reaction (peri-implantitis bone resorption) also contribute.
+Other factors: lack of primary stability, surgeon inexperience, temporary denture without relief,
+overdrilling, inappropriate force during removal of non-integrated implants.
+Immediate removal of displaced implants is recommended. When delayed, control sinus infection with
+antibiotics + nasal decongestants before removal via Caldwell-Luc approach or endoscopic technique.
+After removal, staged implant placement + bone grafting can follow, but the conventional staged
+approach is long and delays rehabilitation.
+
+=== ANATOMY OF THE MAXILLARY SINUS ===
+Pyramid-shaped cavity lined with ciliated mucoperiosteum (Schneiderian membrane ~1.0 mm thick).
+Connected to nasal cavity via the maxillary ostium (relatively far from the sinus floor). Posterior
+superior alveolar nerve/vessels pass through; average nerve-to-crestal-ridge distance 16.9 mm.
+Adult sinus: 25-35 mm wide, 36-45 mm high, 38-45 mm long. After tooth loss the sinus pneumatizes
+(osteoclastic basal bone loss) → membrane perforation risk. Septa incidence 31.7% in premolar region
+is another perforation contributor.
+
+=== COMPLICATIONS OF DISPLACEMENT ===
+May be intra- or postoperative. Displaced implant disturbs sinus anatomy, inhibits mucociliary
+clearance; mucosal thickening + scattered graft can obstruct the ostium → maxillary sinusitis and
+congestion. Ostium blockage → oroantral fistula. Implants can migrate further (paranasal sinuses,
+orbital floor, cranial fossa) via mucociliary clearance, air-pressure change, foreign-body reaction,
+local tissue necrosis. Some report displaced implants may NOT cause sinusitis (Galindo-Moreno: 2
+antral migration cases, one left in situ on patient request, no complications at 4 yr). Others
+(Regev, Raghoebar) argue displaced implants cause chronic sinusitis via foreign-body reaction and
+must be removed even if asymptomatic.
+
+=== TREATMENT MODALITIES ===
+Basic principle: immediate removal. When delayed, control infection first: amoxicillin-clavulanate +
+NSAID + pseudoephedrine hydrochloride for 1 week before surgery.
+- Historically: Caldwell-Luc procedure; conservative observation if asymptomatic.
+- Now preferred: minimally invasive — functional endoscopic sinus surgery (FESS); conservative
+  intraoral surgery with a bony window in the lateral maxillary wall.
+- Tsodoulos: general anesthesia, small rectangular lateral bony window under direct vision; after
+  removal the bony window repositioned and stabilized with absorbable sutures.
+- Nogami: local anesthesia, four holes + piezoelectric osteotomy; displaced implant identified with
+  rigid endoscope, removed by dental suction; bony fragment repositioned, absorbable sutures.
+- Subsequently, shorter/wider implants (by 1-2 mm) can be placed with/without sinus grafting after
+  CBCT confirmation of residual bone height/width 4-6 months later.
+Most reported studies split removal, grafting, and new placement into 2-3 procedures. Delayed
+placement indicated when primary stability unattainable, extensive membrane perforation, or severe
+infection — but staging delays rehabilitation.
+
+=== SIMPLIFIED SURGICAL STRATEGY (extended bony window, simultaneous) — case ===
+63-year-old man, left-cheek pain, referred for removal of an implant displaced 3 years earlier.
+Panoramic + CBCT: implant in left maxillary sinus with mucosal thickening (sinusitis). Under local
+anesthesia: full-thickness mucoperiosteal flap; lateral wall exposed; bony window ditched with round
+bur, made VERTICALLY WIDER than a usual sinus-elevation window — UPPER portion for implant removal,
+LOWER portion for sinus membrane lifting. After exposing the membrane and removing the bony window, a
+horizontal incision at the upper portion; implant removed via dental suction through this opening.
+The membrane is then lifted from the lower edge; perforated membrane covered with absorbable collagen
+membrane; a new implant placed simultaneously with sinus bone grafting (maxillary tuberosity autograft
++ allograft mixture). Postop: avoid nose-blowing 2 weeks, sneeze mouth-open, routine meds 1 week. CBCT
+at 4 months: no haziness. Second-stage surgery at 6 months; prosthetic restoration 2 months later; no
+complications through 14-month follow-up.
+
+=== CONCLUSIONS ===
+Displaced implants should be removed immediately. When immediate removal is not possible (patient
+condition or clinician inexperience), control sinusitis first (antibiotics + decongestants), then
+perform implant removal + simultaneous new implant placement with sinus bone grafting through an
+extended bony window. This single-stage approach reduces effort, time, and patient discomfort and
+accelerates rehabilitation.
