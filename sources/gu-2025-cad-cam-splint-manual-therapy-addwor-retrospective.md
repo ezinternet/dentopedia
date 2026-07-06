@@ -15,7 +15,7 @@ text_filename: gu-2025-cad-cam-splint-manual-therapy-addwor-retrospective.txt
 
 ## Why Ingested
 
-ADDwoR(환원 없는 전방 관절원판 변위, Anterior Disc Displacement without Reduction)에 대한 보존적 병용치료의 근거가 부족한 상황에서, CAD/CAM 스플린트+도수치료 병용이 스플린트 단독 및 건강교육 대조군보다 MMO·VAS·MFIQ에서 유의하게 우월함을 후향적으로 보고한 중국 임상연구. 기존 [[tmj/overview-tmj-management-conservative]] 등 TMJ 보존치료 신호 페이지를 보강하며, 병용요법 프로토콜의 임상 참고 자료로 활용.
+ADDwoR(환원 없는 전방 관절원판 변위, Anterior Disc Displacement without Reduction)에 대한 보존적 병용치료의 근거가 부족한 상황에서, CAD/CAM 스플린트+도수치료 병용이 스플린트 단독 및 건강교육 대조군보다 MMO·VAS·MFIQ에서 유의하게 우월함을 후향적으로 보고한 중국 임상연구. 기존 [[overviews/occlusal-splint-tmd-value-adjunct-prediction-overview]] 축 3(스플린트+도수치료 병용) 및 [[overviews/tmd-management-evidence-ladder]]를 보강하며, 병용요법 프로토콜의 임상 참고 자료로 활용.
 
 ## Three-line Summary
 
