@@ -9,6 +9,13 @@ category: [overviews]
 confidence: synthesis
 source_collection: internal
 tags: [oral-medicine, normal-variants, fordyce, linea-alba, morsicatio, frictional-keratosis, dermoscopy]
+relations:
+  - type: reinforces
+    target: baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy
+  - type: reinforces
+    target: gupta-2023-prevalence-distribution-oral-mucosal-nepal
+  - type: reinforces
+    target: nautiyal-2024-prevalence-keratosis-oral-cavity
 ---
 
 > [!summary] 한국어 핵심요약
