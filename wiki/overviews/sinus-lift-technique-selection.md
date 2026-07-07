@@ -275,3 +275,9 @@ CBCT에서 반드시 확인할 6항목:
 - [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — SR+MA (22 studies, 864 implants): graft-free SFE with simultaneous placement → ISR 97.9%, VBG 3.8mm; PILi explains 83.9% of VBG variance. Foundational graftless evidence. (sr+ma, 2017)
 - [[sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr]] — SR (13 studies, transcrestal+lateral): CGF appears to enhance new bone formation, reduce sequelae, support survival, but heterogeneous and RCT-poor. (sr, 2024)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — SR+MA (14 studies, 2,119 graftless transcrestal sites): pooled membrane perforation 1% (95% CI 0–6%), early implant failure 1%, no postop sinusitis; technique explains 66.9% of perforation heterogeneity — motor-driven OD 34% vs conventional OSFE 0%. (sr+ma, 2026)
+
+## Evidence Update — EMD as Biologic Adjunct for Transcrestal Sinus Elevation
+
+Ozbay 2024 (RCT, 24 patients, 40 implants, CBCT-based; EMD+TSFE vs TSFE alone) tested whether enamel matrix derivative (EMD, Emdogain®) as a biologic adjunct to transcrestal sinus floor elevation accelerates or augments bone formation. EMD significantly increased endo-sinus bone gain (ESBG) at 3 months (3.72 vs 3.10 mm, p<0.05) — an early biological acceleration. However, by 12 months the advantage disappeared (no significant inter-group difference), and ISQ was not significantly different at either timepoint. Interpretation: EMD may accelerate early osseous fill without meaningfully changing final bone volume or implant stability at 1 year. As a costly biologic additive, its benefit-cost ratio for routine transcrestal sinus augmentation is unclear from this single small RCT.
+
+- [[sinus-lift/transcrestal/ozbay-2024-enamel-matrix-derivative-transcrestal-sinus-rct]] — RCT: EMD accelerates 3-month endo-sinus bone gain but advantage disappears by 12 months; ISQ unaffected.
