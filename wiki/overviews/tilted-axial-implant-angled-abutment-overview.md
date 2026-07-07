@@ -2,7 +2,7 @@
 title: "Tilted vs Axial Implants & Angled Abutments — Marginal Bone, Survival & Biomechanics (경사식립·각도지대주 종합)"
 authors: Synthesis
 year: 2026
-date: 2026-06-27
+date: 2026-07-07
 source: overview
 category: [overviews]
 confidence: synthesis
@@ -78,6 +78,23 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 
 **Synthesis of the abutment papers**: angle and load direction are *coupled* — the "best" abutment angle is the one aligned with the dominant force vector. For an inclined tooth, place the implant perpendicular to the occlusal plane (axial loading principle) and correct crown direction with the **minimum angle** abutment, preferring a multiunit/screw-retained design; reserve caution for parafunctional patients and resorbed bone.
 
+## Thesis 4 — Clinical full-arch data confirm the pattern, with two nuances (new 2020–2026 papers)
+
+**Szabo 2022** (retrospective, 36 pts, 288 All-on-Four implants, 42-month follow-up) performed individual implant-level OPT analysis — something most SRs pool over. Key finding: **tilted posterior implants had significantly higher MBL than axial anterior implants at every time point**, providing the clearest clinical confirmation of the modest tilt MBL premium. Absolute values remained clinically acceptable (0.713–0.770 mm at 3.5 yr), but the disto-approximal surface of maxillary tilted implants (14DA, 24DA) was the highest-risk location. Smoking and comorbidities amplified site-specific bone loss.
+
+**Eskan 2020** (retrospective, 42 pts, 171 Straumann BLT SLA Roxolid, 32–55 months) reported 0.15 mm 2-year MBL — among the lowest published for full-arch immediate loading. No significant difference between tilted and axial MBL. The BLT's apically tapered body with aggressive threads allows under-preparation osteotomy to generate compressive apex engagement, achieving IT ≥30 Ncm even in Type III–IV bone and fresh extraction sockets. All provisional fractures occurred in undetected bruxers not using night guards, reinforcing that **occlusal compliance is the most modifiable risk factor** post-restoration.
+
+**Coskunses 2021** (prospective, 28 pts, 179 BLT implants including 67 NDI 3.3 mm Ti-Zr, 2 yr) adds two distinct findings:
+- **NDI (3.3 mm) viability**: CSR 99.4% (NDI 98.5%), confirming narrow-diameter Ti-Zr implants as a bone-graft alternative in atrophic ridges — but 2-yr MBL was significantly higher for NDI than standard diameter (1.02 vs 0.44 mm, P=.035), warranting closer monitoring.
+- **6-implant biomechanical advantage**: 6-implant-supported prostheses had significantly lower MBL than 4-implant at 1 year (0.35 vs 0.63 mm, P=.006), supporting the view that adding implants is a better investment than relying on optimal angulation alone.
+
+**Cabbarova 2026** (FEA, 12 mandible models, All-on-4 vs All-on-6 × 6 framework materials) addresses the design question from the in-vitro side:
+- All-on-6 produced 80–87% lower framework stress than All-on-4 across all tested materials — eliminating the distal cantilever is a larger stress modifier than any material choice.
+- **Framework material paradox**: low elastic-modulus materials (PEEK E=4,200 MPa, PEKK E=5,100 MPa) appear shock-absorbing but actually deform more, transferring higher stress to implants, screws, and bone. High-modulus Ti (110,000 MPa) and Zr (210,000 MPa) distribute load through the framework rather than concentrating it at bone interfaces.
+- PEEK/PEKK are contraindicated for full-arch frameworks; FRC composites (Trilor/Trinia) are acceptable alternatives if aesthetics or weight constraints exist; all values stayed below bone-resorption thresholds.
+
+> **Updated synthesis**: the clinical tilt MBL penalty is real but small, now confirmed in individual-implant-level data (Szabo 2022). Adding implants (6 > 4) and choosing rigid framework materials (Ti/Zr) are the two highest-yield design levers for reducing bone-level risk in full-arch rehabilitation.
+
 ## Comparison Table
 
 | Paper | Type / confidence | Design | Variable studied | Core finding | Direction of effect |
@@ -89,6 +106,10 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 | Bilgi-Ozyetim 2025 | FEA (in-vitro) | All-on-4 mandible, bendable 1-piece | 17/30/45° × screw/cement | Stress ↑ with angle but all <550 MPa; screw 3.5× framework stress | stress ↑ but sub-critical |
 | Erdogdu 2024 | FEA (in-vitro) | Maxillary 3-unit bridge | Abutment 0/15/25–30° × multiunit/cement × bone quality | angle ↑ → stress ↑, fatigue ↓; multiunit > cemented; resorbed bone amplifies | abutment angle penalty |
 | Chi 2024 | FEA + strain gauge (in-vitro) | Anterior-maxilla immediate | Customized 20–33° vs standard 15° abutment | Higher angle ↑ stress axial / ↓ stress oblique; load direction decides | load-direction dependent |
+| **Szabo 2022** | retrospective | 36 pts, 288 All-on-4 implants, 3.5 yr | Position-specific MBL: tilted vs axial | Tilted > axial MBL at ALL time points (P significant); maxilla 0.770 / mandible 0.713 mm at 3.5 yr; highest at 14DA/24DA | confirms long-term tilt MBL penalty (clinical) |
+| **Eskan 2020** | retrospective | 42 pts, 171 BLT SLA implants, up to 55 mo | Full-arch immediate loading with tilted ≤30° | Survival 97.7%; MBL 0.15 mm at 24 mo (lowest in lit.); tilted = axial MBL; NDI (3.3 mm) 0 fractures | BLT tapered + aggressive threads → low MBL even with tilt |
+| **Coskunses 2021** | prospective | 28 pts, 179 BLT implants (67 NDI 3.3 mm), 2 yr | NDI vs standard diameter in full-arch, 4 vs 6 implants | CSR 99.4%; NDI 2-yr MBL 1.02 mm > 4.1 mm (0.44 mm, P=.035); 6-implant MBL < 4-implant (P=.006) | NDI viable but higher MBL; 6 > 4 implants for bone preservation |
+| **Cabbarova 2026** | FEA (in-vitro) | 12 mandible models, All-on-4 vs All-on-6, 6 framework materials | Implant number × framework material | All-on-6 > All-on-4 across all materials (80–87% less framework stress); PEEK/PEKK transmit highest implant/bone stress; Ti/Zr optimal | eliminating cantilever (All-on-6) outweighs material choice |
 
 ## Clinical Decision Framework
 
@@ -125,3 +146,7 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 - [[implants/chi-2024-customized-angled-abutment-tooth-inclination-fea]] — FEA+strain gauge: angled-abutment effect is load-direction dependent (axial vs oblique).
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — peri-implant loading biomechanics context (occlusal control underlies the tilt/load story here).
 - [[overviews/abutment-screw-preload-joint-stability-overview]] — screw-joint/preload mechanics underlying multiunit vs cemented abutment choice on tilted implants.
+- [[implants/szabo-2022-all-on-four-tilted-distal-implants-mbl]] — retrospective: tilted > axial MBL at all time points in All-on-Four; position-specific risk (14DA/24DA).
+- [[implants/eskan-2020-tapered-implants-full-arch-immediate-function]] — BLT full-arch 55 mo: MBL 0.15 mm; lowest in literature; tilted = axial MBL; NDI 0 fractures.
+- [[implants/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI Ti-Zr 2 yr: CSR 99.4%; NDI MBL higher than standard; 6-implant < 4-implant MBL.
+- [[implants/cabbarova-2026-all-on-four-six-framework-fea]] — FEA: All-on-6 vs All-on-4 × 6 materials; eliminating cantilever > material choice; PEEK/PEKK contraindicated.
