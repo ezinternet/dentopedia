@@ -137,3 +137,9 @@ For a dental practice translating this evidence into operating procedure:
 - [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — adjacent: dentist–patient communication quality.
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — adjacent: Korean dental legal/regulatory context.
 - [[overviews/patient-safety-culture-dentistry-overview]] — upstream: "fix the system, not the sentence" — safety culture, teamwork, and non-punitive reporting are the structural preconditions that keep complaints from recurring.
+
+## Evidence Update — Written Informed Consent and Litigation Outcomes in Cosmetic Procedures (Grillo 2023)
+
+Grillo 2023 (retrospective 10-year litigation analysis, Brazil 2012–2022; 992 facial cosmetic surgery cases, 122 meeting inclusion criteria) provides litigation-level data on the protective value of written informed consent (WIC). Appropriate WIC was associated with **favorable defendant outcomes**, significantly reducing both litigation losses and financial damage. Mean financial damage was $59,536 (range $75–$500,000). Female patients were significantly more prone to initiating litigation, and the number of legal disputes increased over the decade — consistent with rising patient aesthetic expectations and awareness. For dental cosmetic procedures (whitening, veneers, implant aesthetics), this forensic data reinforces the complaint management framework in this overview: rigorous WIC documentation is not just an ethical obligation but a quantifiable litigation-risk reduction tool.
+
+- [[complaint-management/grillo-2023-written-informed-consent-facial-cosmetic]] — 10-yr litigation study: WIC → fewer losses + lower financial damage ($59K mean); female patients more litigious; cosmetic procedures need rigorous consent documentation.
