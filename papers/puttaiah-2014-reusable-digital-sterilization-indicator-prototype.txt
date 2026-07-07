@@ -1,0 +1,20 @@
+Title: A preliminary evaluation of a reusable digital sterilization indicator prototype
+Authors: R Puttaiah, J Griggs, M D'Onofrio
+Journal: The Journal of Contemporary Dental Practice, 2014, Vol 15, Issue 5, pp. 626-35
+DOI: 10.5005/jp-journals-10024-1591
+PMID: 25707838
+PMCID: none (not in PMC)
+Source: PubMed abstract only — no PMC full text available
+
+Abstract:
+Sterilization of critical and semicritical instruments used in patient care must undergo a terminal process of sterilization. Use of chemical and physical indicators are important in providing information on the sterilizer's performance during each cycle. Regular and periodic monitoring of sterilizers using biological indicators is necessary in periodically validating performance of sterilizers. Data loggers or independent digital parametric indicators are innovative devices that provide more information than various classes of chemical indicators. In this study the authors evaluated a prototype of an independent digital parametric indicator's use in autoclaves.
+
+Purpose: evaluate the performance of an independent digital indicator/data logger prototype (DS1922F) usable for multiple cycles within an autoclave.
+
+Materials and methods: Three batches of the DS1922F (150 samples each) were tested sequentially. Batch 1 was challenged with 300 sterilization cycles within an autoclave; failures were studied and the prototype design improved. Batch 2 (150 samples, redesigned) was challenged again with 300 cycles. Batch 3 (final, 150 samples) was challenged with 600 cycles to test longevity. Kaplan-Meier survival analysis was conducted (α = 0.05) on all three batches, with qualitative study of failed samples to understand failure variables.
+
+Results: Each batch provided information on device failure modes, improving the prototype iteratively. Mean lifetime survival of the final batch (Batch 3) was 498 (95% CI 480–516) sterilization cycles within an autoclave.
+
+Conclusion: The final DS1922F prototype was robust against 600 autoclave cycles, with mean lifetime >450 cycles — several times more than the number of cycles typically prescribed before device replacement/re-verification. Instrument reprocessing is a key infection-control step; while stringent reprocessing procedures are followed within clinics, regular use of sterilization process indicators and periodic biological validation of sterilizer performance is necessary. Chemical indicators show whether specific cycle parameters (time/temperature) were achieved but not at what precise point failure occurred; biological indicators take days to a week for confirmatory results. Digital data loggers (as tested) provide continuous time/temperature information immediately, which is more pragmatic in settings lacking sterilization-monitoring-service infrastructure.
+
+Note: This paper is abstract-only in this wiki (no PMC full text retrievable; full_text: false). It is directly relevant to the "validated parameter range" dimension of autoclave sterilization scope — reusable digital data loggers extend real-time cycle-parameter verification (temperature/time trajectory throughout the cycle) beyond what single-point chemical indicators or delayed biological indicators can confirm, addressing a monitoring gap in confirming that each individual autoclave cycle actually achieved its validated sterilization parameters.
