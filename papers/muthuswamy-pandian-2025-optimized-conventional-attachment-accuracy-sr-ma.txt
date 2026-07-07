@@ -1,0 +1,223 @@
+1
+
+Introduction
+
+Clear Aligners have traditionally been used to treat minor irregularities in tooth position but in recent years, with the advent of multiple technological tools and rise in digital aids, they have positioned themselves as viable options in treating complex malocclusions.Clear Aligners provide multiple and varied advantages to patients such as their virtual invisibility, comfort in wearing, and removal during eating and brushing compared to traditional fixed appliances.Progress in computer-aided design and manufacturing (CAD/CAM) has driven the growing demand for plastic systems in dentistry.Invisalign is one such thermoplastic clear aligner, introduced and marketed by Align Technology in 1997 and 1999 respectively.It is the most widely recognized clear aligner system for orthodontists today.
+
+The initial generation Invisalign worked on a ‘displacement-driven system’, which depends on its shape to achieve the desired tooth movement.No auxiliary elements were incorporated into it. Djeu et al., in 2005, reported a limited efficacy of first-generation Invisalign.The second-generation Invisalign incorporated auxiliary components, such as composite buttons and inter-maxillary elastics, to enhance orthodontic tooth movement.The third generation advanced this approach by introducing optimized attachments, automatically placed via the manufacturer's software, which improve tooth movement control by adapting to individual tooth morphology.They improve the control of tooth movement by adapting their shape to the individual tooth morphology. This Invisalign system with attachments changed the method of use of the aligner over 14 days for 0.25–0.33 mm tooth movement to a weekly aligner swap, reducing the length of treatment by 50 %.
+
+Scientific evidence claims that the predictability is highest for minor horizontal movements such as mesiodistal tipping and labiolingual translation, especially in the upper incisors. In contrast, vertical movements, especially anterior extrusion, and rotation movements of rounded teeth like canines and premolars remain less predictable. While aligners are effective for anterior intrusion and can achieve satisfactory alignment in mild-to-moderate malocclusions, its limitations become apparent in achieving complex bodily movements, torque control, and establishing ideal occlusal contacts. The use of auxiliaries such as attachments, interarch elastics, and optimized aligner geometries is often necessary to improve outcomes.
+
+Earlier, conventional attachments were either rectangular or ellipsoidal, with the latter being the least effective due to its smaller size and limited active surface.However, conventional rectangular attachments are still widely used. These attachments can be modified in the ClinCheck Pro software based on the clinician's preference in teeth size, prominence, beveling, and position. Smart-Force featured optimized attachments introduced by Align Technology have potentially increased the predictability of tooth movements by improving the accuracy of the biomechanics delivered to the teeth.ClinCheck program has widely been used to evaluate the accuracy of tooth movement. Though recent systematic reviews have reported the accuracy of various clear aligner attachments, the present review aims to compare the accuracy and efficacy of optimized versus conventional attachments in the Invisalign system.
+
+2
+
+Materials and methods
+
+2.1
+
+Protocol
+
+The protocol of the present systematic review and meta-analysis was registered in the PROSPERO database with the registered number CRD42024546354. It was designed using the ‘Preferred Reporting Items for Systematic Review and Meta-analysis’ (PRISMA) 2020 guidelines.
+
+2.2
+
+Research question
+
+Are optimized attachments more efficient and accurate than conventional attachments of clear aligners for orthodontic tooth movements?
+
+2.3
+
+Studies selection criteria
+
+Studies were selected for this systematic review based on the PICO criteria.
+
+2.4
+
+PICO criteria
+
+Adult patients treated with Invisalign aligner system.
+
+Invisalign with optimized attachments.
+
+Invisalign with conventional attachments.
+
+Mean efficacy (predicted – achieved) and mean percentage of accuracy.
+
+2.5
+
+Literature search
+
+The databases used to identify studies for the present review include Cochrane Library, Pub Med, Web of Science, SCOPUS, Google Scholar, and trial registries. The search terms and MeSH terms used for search following the PICO principle are presented in.
+
+A manual search, assisted by a librarian, was carried out across journals related to orthodontics, dentofacial orthopedics, and dental materials, as well as relevant conference proceedings and trial registries to identify ongoing studies. Specific language filters were not applied, and trials published up to January 2025 were considered. The search included randomized controlled trials, prospective clinical studies, and retrospective studies based on predefined eligibility criteria. Case reports, systematic reviews, and other reviews were excluded.
+
+2.6
+
+Literature screening
+
+Duplicate studies were removed using RAYYAN software, an artificial intelligence (AI) driven tool designed specifically for systematic reviews. Two independent primary reviewers (SM and AS) screened titles and abstracts in RAYYAN. Any discrepancies were addressed by a senior reviewer (NV). The full texts of the selected studies were then assessed by primary reviewers (SM and AS), with disagreements resolved by the third reviewer (NV). The agreement between the reviewers screening for the articles was κ = 0.89.
+
+2.7
+
+Data extraction
+
+Two reviewers independently (SM and AS) extracted data using a pre-piloted, customized template. The forms were refined based on a pilot test using two studies. Any discrepancies in the data extraction process were resolved through discussion with a third reviewer (NV). There was an agreement between the reviewers with the κ value of 0.88. Missing data were sought from corresponding authors; data were excluded if unavailable after this attempt. The following trial characteristics were noted:
+
+2.8
+
+Assessment of risk of bias
+
+The quality of the included studies was assessed as a part of the data extraction process. The revised Cochrane Risk of Bias Tool for Randomized Trials (RoB-2)was employed to analyze the randomized study. RoB-2 tool assessed the bias arising from the following:
+
+Each of the five domains contained two to three subdomains, with signaling questions to be addressed. Responses to these questions determined the following bias risk classifications:
+
+Joanna Briggs Institute adopted for cohort studies tool was used to assess the quality of retrospective studies.Criteria such as recruitment, assigning to intervention, valid and reliable measurement tools, identifying confounding factors, strategies to deal with confounders, loss to follow-up, strategies to deal with loss to follow-up, and the statistical test were used. The study was graded as high risk, unclear risk, and low risk based on the total scores.The agreement between the reviewers in assessing the risk of bias for the included articles was κ = 0.86.
+
+2.9
+
+Data synthesis
+
+To compare the effects of conventional and optimized attachments, the mean percentage accuracy was synthesized and expressed as mean differences with standard deviations. A meta-analysis was conducted, incorporating studies reporting similar tooth movements. The pooled effect estimate was calculated as the weighted mean difference using a random-effects model (DerSimonian-Laird method) to generate conservative confidence intervals. The Istatistics was used for heterogeneity assessment.Funnel plot analysis was used for identification of possible publication related bias.
+
+2.10
+
+Quality of evidence assessment
+
+To determine the certainty of evidence The ‘Grading of Recommendations, Assessment, Development, and Evaluation’ (GRADE) approach was applied. The GRADEpro GDT software was utilized, categorizing the evidence quality as very low, low, moderate, or high.
+
+3
+
+Results
+
+3.1
+
+Study search and selection
+
+A comprehensive literature search was conducted across multiple databases and resources, including PubMed, Cochrane Library, SCOPUS, Web of Science, Google Scholar, hand searching, and trial registries, yielding 185 initial records. After the exclusion of 141 duplicates, the abstracts and titles of the remaining 44 studies were subjected to screening. Thirty-one studies were excluded at this stage due to ineligibility. Full-text review was then performed on the 13 remaining studies to determine final inclusion (). Studies on Inter Proximal Reduction,those with no comparison,in vitro studies,and three systematic reviews,,were excluded, with reasons provided in. Ultimately, 7 studies were included for qualitative synthesis,,,,,,and 4 for quantitative synthesis,,
+
+3.2
+
+Characteristics of the included studies
+
+he characteristics of the seven studies included in this review are summarized asOverall 526 patients, aged between 11 and 67 years, were assessed for various orthodontic tooth movements using both optimized and conventional attachments. About 177 males and 349 females were involved. Three studies used conventional and optimized attachments for anterior teeth extrusion,three studies compared conventional and optimized attachments for rotational movement,one study for incisor intrusion,one study for root angulation.
+
+3.3
+
+Methodological quality assessment of included studies
+
+The quality assessment of the RCTs, conducted using the Revised Cochrane Risk of Bias (RoB-2) tool, is illustrated in the risk of bias graph in. The RoB-2 evaluation of one trial identified concerns regarding deviations from the planned interventions and the potential for bias due to missing outcome data.
+
+The quality assessment for retrospective cohort studies using Joanna Briggs Institute adopted for cohort studies tool is tabulated as. The 6 involved studies showed low over all risk of bias.,,,
+
+3.4
+
+Meta-analysis
+
+Two studies that compared conventional and optimized attachments for canine rotation were included for meta-analysis.Studies that assessed the mean percentage of accuracy using ClinCheck program software and Kravitz formula: 100 − [(|predicted-achieved|)/|predicted|] × 100 were used. Similarly, three studies that assessed the mean percentage accuracy for anterior teeth extrusion were included for the meta-analysis.The Forest plot for canine de-rotation showed no significant mean difference between conventional and optimized attachment (SMD: −0.31; p-value: 0.06) () with no heterogeneity (= 0 %). Forest plot for anterior teeth extrusion also showed no significant mean difference in the accuracy (SMD: 0.14; p-value: 0.60) () with high heterogeneity (= 76 %). Sensitivity analysis of anterior teeth extrusion Forest plot showed no difference in overall effect size and heterogeneity.
+
+3.5
+
+Publication bias
+
+The Funnel plot showing analysis of mean percentage accuracy of canine rotation using optimized and conventional attachments suggests there is no significant publication bias, indicated by a low standard error observed between the sample estimates and true population values (). However, for the anterior teeth extrusion, there is a significant publication bias indicated by a high standard error observed between the sample estimates and true population values in Groody et al.().
+
+3.6
+
+Certainty of evidence
+
+The assessment for certainty of evidence indicated low certainty for canine de-rotation and high certainty for anterior teeth extrusion (,).
+
+4
+
+Discussion
+
+In 2005, fixed appliances were found to be superior to Invisalign in achieving excellent sagittal discrepancies and occlusal relationships.While clear aligners demonstrate similar effectiveness to fixed appliances in treating mild to moderate malocclusions, fixed appliances may offer a more favorable approach for treating severe malocclusions.Several systematic reviews have been published on evaluation of clear aligner efficacy against traditional fixed appliances for complex orthodontic tooth movements.Several have also focused on the effectiveness of clear aligners with attachments for complex tooth movements.The present study is the first to compare and evaluate the efficacy and accuracy of optimized attachments versus conventional attachments in clear aligner treatment.
+
+Predominant studies (6) of this systematic review are retrospective cohort studies, where the data was obtained from the database of private orthodontic practices.,,,One randomized controlled study recruited the study participants from a university hospital and two private practice offices.The group of movements assessed in this review are canine, and premolar rotational, upper/lower anterior extrusion, upper/lower incisor intrusion, mesio/distal translation, rotation, root angulation, and vestibular/lingual inclination, and translation. All studies used the ClinCheck program to evaluate the efficacy and accuracy. Six included retrospective cohort studies had good methodological quality with low risk of bias.,,,However, the randomized trial had some concerns about deviations from intended interventions and missing outcomes.The meta-analysis that compared the mean percentage accuracy of conventional and optimized attachments for canine de rotation and anterior teeth extrusion reported no significant mean difference (p > 0.05). The certainty of evidence reported high levels of evidence for anterior extrusion and low levels for canine de rotation.
+
+4.1
+
+Anterior teeth extrusion
+
+Three studies that evaluated the efficacy of attachments for anterior extrusionfound no significant differences between optimized and conventional attachments. About 54.6 %–76 % of efficacy can be expected with Invisalign to incisor extrusion irrespective of attachment type.The present review also found that 57.5 % and 62.4 % of efficacy for upper and lower anterior extrusion, in conventional and optimized attachments. Some studies suggest that increasing the size of the attachment will increase the efficacy.Earlier Kravitz et al., in their clinical study, found that extrusion is the least accurate (29.6 %) tooth movement with Invisalign.Of three studies, one study,reported increased efficacy of lateral incisor extrusion in conventional attachments (76 %) with increased size and sharper edges compared to optimized attachments (62 %). Neither conventional nor optimized attachments achieved the predicted amount of extrusion in all the studies. However, compared to conventional attachments, optimized anterior extrusion attachments may shorten the time for treatment.
+
+4.2
+
+Rotational movement
+
+Of three included studiesthat evaluated the efficacy of rotational movement using conventional and optimized attachments of Invisalign, two studiesreported a lack of significant difference for the accuracy of canine and premolar derotation. However, one study,reported a greater accuracy in optimized attachments for upper lateral incisor derotation. This outcome can be attributed to the use of Align Technology's movement table, which provides a range of movements rather than representing precise movements.For the canine, the overall accuracy of canine derotation ranged from 55 % to 88.8 % with Invisalign, irrespective of the type of attachment. Similarly, Kravitz et al., 2008 reported 35.8 % canine derotation accuracy.Also, a previous review reported 29.1 %–49.7 % accuracy for premolar and canine derotation using Invisalign.This systematic review found 61.2 % and 71.5 % accuracy for conventional and optimized attachments for canine derotation with non significant differences (p > 0.05). The predicted amount of derotation was not achieved with conventional and optimized attachments. However, optimized attachments provided root control using 3D controls for position and amount of bevel.Additionally, optimized attachments feature a specific surface where the aligner applies pressure, while the non-active surface is relieved to prevent interference.
+
+4.3
+
+Anterior teeth intrusion
+
+One study which assessed the efficacy of optimized and conventional attachments for incisor intrusion showed no significant difference.G5 deep-bite optimized attachments have no advantage over conventional attachments for overbite reduction. Only 33–40 % of accuracy can be elucidated for incisor intrusion using Invisalign.Few other studies that compared Invisalign and fixed appliance therapy also reinforced the inefficacy of Invisalign for overbite reduction.,,Haouili et al. observed that the intrusion of incisors remained a challenge, even with the G5 features, including bite ramps and pressure areas.
+
+4.4
+
+Mesio-distal angulation and vestibulo-lingual inclination
+
+A study by Hassanaly et al. comparing the efficacy of optimized and conventional attachments for mesiodistal angulation and vestibulo-lingual inclination on upper lateral incisor reported, that conventional vertical attachment increases mesiodistal angulation and conventional horizontal attachments increase vestibulo-lingual inclination.These results can be explained using Align Technology's movement table, which offers a range of possible movements rather than exact movement specifications.
+
+4.5
+
+Root angulation
+
+One study, examining the accuracy of Invisalign treatment in maxillary premolar extraction cases, found no significant difference (p > 0.05) between conventional and optimized attachments regarding predicted and actual root angulation changes in adjacent canines, premolars, and molars. Regression analysis, adjusting for wear protocol, age, sex, aligner numbers, and presence of attachments on adjacent canines, premolars, and molars, also revealed no significant discrepancy (p > 0.05) between achieved and predicted initial angulation changes in the upper first and second premolar extraction sites.The observed lack of influence of the wear protocol on the predictability of root angulation changes may be attributable to the fact that, within a two-week wear protocol, most of the tooth movement occurs during the first week.
+
+4.6
+
+Strengths and limitations
+
+This is the first systematic review to compare the efficiency and accuracy of optimized and conventional attachments of clear aligners for orthodontic tooth movements. The present systematic review followed the PRISMA 2020 guidelines for transparent reporting of systematic review and meta-analysis.Considering the specific search strategy, this review design is reproducible. The limitation is that most of the included studies were retrospective cohort studies which reflects a decreased grade of evidence compared to randomized controlled trials.
+
+4.7
+
+Clinical significance and future research implications
+
+This systematic review of orthodontic patients undergoing Invisalign therapy with optimized and conventional attachments showed no significant difference in mean percentage accuracy. However, optimized attachments shorten the treatment time and provide root control compared to conventional attachments. Further parallel arm randomized prospective trials following CONSORT guidelines are needed to determine whether optimized attachments perform better than conventional attachments. Confounding variables of size and shape of conventional attachments, age, gender, wear protocol, number of attachments and race are to be considered while designing the trials.
+
+5
+
+Conclusion
+
+1.
+
+No significant differences in accuracy between optimized and conventional attachments for most orthodontic movements was observed with both failing to achieve 100 % of predicted movements.
+
+2.
+
+Optimized attachments showed better control in upper lateral incisor rotation, while conventional attachments may enhance anterior extrusion due to larger size and sharper edges.
+
+3.
+
+Root angulation changes, mesio-distal angulation, and vestibulo-lingual inclination varied slightly between attachment types, but differences were not clinically significant.
+
+4.
+
+While optimized attachments are biomechanically designed for better force application, their superiority remains inconclusive, highlighting the need for further high-quality randomized controlled trials.
+
+Author contributions
+
+S.M., A.S andplanned and designed the study, S.M being the P.I performed the experiment with A.S, and drafted the manuscript. Additionally,. conducted the editing and final proofreading of the entire document and reviewed the article and contributed to the interpretation. However, all authors critically revised drafts and approved the final work.
+
+Data availability statement
+
+All the data associated with the systematic review and meta-analysis is presented in the manuscript.
+
+Human ethics and consent to participate declarations
+
+Not applicable.
+
+Clinical trial number
+
+Not applicable.
+
+Funding
+
+This research received no funding.
+
+Declaration of competing interest
+
+The authors declare that they do not have any conflict of interest.
