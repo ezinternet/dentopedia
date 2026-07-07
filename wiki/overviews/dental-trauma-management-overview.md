@@ -75,3 +75,9 @@ Traumatic dental injury (TDI) is not one decision but a sequence, and at each li
 - [[regenerative-endodontics-rep-overview]] — REP technique for immature necrotic teeth
 - [[vital-pulp-therapy-decision-ladder]] — preserving pulp vitality after injury
 - [[occlusal-trauma-periodontitis-overview]] — splinting in the occlusal/periodontal context
+
+## Evidence Update — Avulsion Storage Media PDL Viability: DNS and ORS Equivalent to HBSS (Jain 2025)
+
+Jain 2025 (in vitro, n=62 premolars, 30-min dry period + 45-min storage in 7 media, trypan blue PDL-cell viability count) directly compared accessible emergency storage media. Dental Normal Saline (DNS, 316.2 cells) and Oral Rehydration Salts (ORS, 320.0 cells) were statistically equivalent to HBSS (341.8 cells; both P>0.05), supporting their use as practical field alternatives when HBSS is unavailable. Energy drink (Monster) was inferior to HBSS but comparable to DNS/ORS — better than leaving the tooth dry. Fruit juice (Frooti) was the worst performer among tested media due to low pH and high osmolality causing PDL damage. In field triage, DNS or ORS (available at pharmacies globally) are valid HBSS substitutes; the key clinical message remains immediate hydration of the root surface.
+
+- [[dental-trauma/jain-2025-avulsed-tooth-storage-media-pdl-viability]] — in vitro: DNS and ORS equivalent to HBSS for PDL viability (P>0.05); practical field alternatives confirmed.
