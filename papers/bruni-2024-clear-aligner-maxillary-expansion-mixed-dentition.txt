@@ -1,0 +1,125 @@
+Predictability of maxillary dentoalveolar expansion with clear aligners in patients with mixed dentition
+
+Bruni A, Gallo V, Parrini S, Litsas G, Cugliari G, Castroflorio T, Deregibus AP.
+Korean Journal of Orthodontics. 2024;55(2):85-94.
+DOI: 10.4041/kjod24.082 | PMID: 40104852 | PMCID: PMC11922637
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+
+Objective: This prospective study evaluated the effectiveness of clear aligner treatment (CAT) in achieving dentoalveolar upper arch expansion in patients with mixed dentition and transverse maxillary deficiency.
+
+Methods: Forty patients with mixed dentition and a transverse discrepancy of ≤ 5 mm were treated using clear aligners. Pre- and post-treatment digital dental models were measured using specific landmarks and compared with the programmed expansion in the virtual treatment plan. Statistical analyses included the inter-class correlation coefficient to evaluate inter-rater reliability. A paired t test was employed to compare pre- and post-treatment values and to examine the significance of the changes. Multiple regression analysis was conducted to estimate the relationship between the prescribed and observed measurements, stratified by inter-dental measurements (deciduous canines, first deciduous molars, and permanent molars, at cusp and gingival levels).
+
+Results: Excellent measurement reproducibility was observed. The accuracy of dentoalveolar maxillary arch expansion varied among different tooth regions. The inter-canine accuracy was 87.7% at the cusp level and 82.7% at the gingival level. The inter-first deciduous molars exhibited accuracies of 84.9% (cusp level) and 80.5% (gingival level). The inter-first molars showed accuracies of 77.8% (cusp level) and 67.9% (gingival level). Significant differences were observed between the planned and obtained measurements for specific tooth regions.
+
+Conclusions: CAT demonstrated reliable predictability in achieving dentoalveolar expansion of the maxillary arch in patients with mixed dentition. A higher accuracy was observed in the anterior region than in the posterior region. These findings suggest that CAT could be an effective option for treating transverse maxillary deficiencies in patients with mixed dentition with moderate inter-arch transverse discrepancies, considering tooth-specific predictability differences.
+
+=== FULL TEXT ===
+
+INTRODUCTION
+
+Maxillary transverse constriction (MTC) is a condition in which the upper jawbones are reduced in dimension, resulting in malocclusion or deficient projection of the lower midface along the base of the nose. Transverse plane discrepancies are commonly diagnosed as isolated or complex dentofacial deformities. Posterior crossbite, a common consequence of a reduced transverse dimension of the maxilla, is reported to have variable prevalence depending on the type of dentition and geographic region. However, posterior crossbite is just the tip of the iceberg of a series of clinical features (crowding, dark buccal corridors, pronounced compensating curves, and vertical and sagittal implications) that can appear independently. However, in most cases, they occur together, in what might be termed as maxillary deficiency syndrome.
+
+MTC has a multifactorial etiology due to genetic and environmental factors, such as malformation of the head and neck, syndromic conditions, non-nutritive sucking behaviors, adaptive swallowing patterns, open mouth posture associated with mouth breathing, excessive use of pacifiers and baby bottles, and low tongue position. The MTC appears to show a secular trend due to the reduced duration and intensity of mastication in post-industrial urban populations, resulting in inadequate chewing stress and insufficient strain for maxillary growth.
+
+Treatment of transverse maxillary deficiencies includes several strategies depending on the diagnosis and clinical features, age and expected compliance of the patients, the clinician's background, and the stage of mid-palatal suture maturation.
+
+Rapid maxillary expansion (RME) and slow maxillary expansion (SME) are commonly used treatment approaches. With RME, clinicians aim to achieve predominantly orthopedic effects by using appliances that transfer high mechanical load across the mid-palatal sutures, promoting disjunction of the upper jawbones when interdigitation and bony bridging are still incomplete, and modulating bone remodeling and formation. In contrast, for SME, the magnitude of force required to foster tooth movement by inducing remodeling and adaptive changes in the paradental tissues is small, and the effects are almost entirely dentoalveolar. Many researchers support the use of appliances that promote slow expansion with fewer undesired effects and greater long-term post-expansion stability.
+
+However, in clinical situations where molars are tilted buccally to compensate for the narrow palate, it will tilt more if a RME or SME is applied. Furthermore, the amount of anterior expansion required to correct incisor crowding could be insufficient if scissor bite is to be avoided.
+
+Clear aligner treatment (CAT), which is becoming increasingly popular for growing patients, provides the opportunity to control each tooth simultaneously by limiting arch development to the anterior area to create enough space for the permanent upper lateral incisors to spontaneously align prior to full eruption and to control the undesired effect of arch widening on the posterior area. Furthermore, according to recent literature it seems possible to obtain a certain amount of permanent molar expansion, when desired and planned, in patients with mixed dentition using clear aligners.
+
+Therefore, this study aimed to assess the efficacy of clear aligners for achieving maxillary arch expansion in terms of transverse dimensions in mixed dentition patients. Efficacy was evaluated by comparing the clinical expansion obtained with the virtual treatment plan. The null hypothesis was that there are no differences between the expected and achieved maxillary arch expansion using CAT in patients with mixed dentition.
+
+MATERIALS AND METHODS
+
+In this prospective interventional cohort study, patients were consecutively recruited from among those referred for an initial consultation at the Orthodontic Unit, Dental School, University of Turin, Turin, Italy, from September 2020 to March 2022. A total of 61 patients were recruited, with 40 participants selected according to the eligibility criteria.
+
+All the participants provided written informed consent and were free to withdraw from the study at any time. The participants were treated by two expert operators (TC and SP) with more than 10 years of experience in aligner treatment. This study was approved by the local ethics committee (#573/2020 Comitato Etico Interaziendale, Città della Salute, Torino, Italy).
+
+All the study participants were treated with Invisalign First Phase I (Align Technology Inc., San José, CA, USA), with no other auxiliaries other than aligners and attachments. No enamel inter-proximal reduction or extraction strategies were planned during the treatment.
+
+With a precise 3D manufacturing process, the Invisalign First aligners are made of multilayer aromatic thermoplastic polyurethane/co-polyester polymers. The average aligner thickness has been reported to be 0.582–0.639 mm in the incisor region, 0.569–0.644 mm in the canine region, and 0.566–0.634 mm in the molar region.
+
+The ClinCheck (Align Technology) software was used to create a standardized sequence for dentoalveolar expansion of the upper arch, focusing on controlled buccal movement of the crowns. Prior to treatment planning, virtual models were oriented to align with the patient's natural occlusal plane based on lateral and frontal radiographic images and facial photographs. Once the occlusal plane was set, a sequential dentoalveolar expansion was planned, moving the permanent molars buccally first and using the rest of the arch as anchorage. When they reach their final position, the deciduous molars and canines are moved buccally using the permanent molars and incisors as anchorage units. As deciduous teeth have short clinical crowns, unique attachment forms have been used to improve aligner retention and limit tipping movements. Dentoalveolar expansion was achieved when the palatal cusps of the maxillary posterior teeth were in contact with the buccal cusp tips of the mandibular posterior teeth. Depending on the severity of the maxillary arch constriction and buccopalatal inclination of the crowns, the amount of expansion was established individually for each patient. The expansion was planned with a 0.15 mm extrusion and an additional 2° of buccal root torque for each stage. To achieve transverse synchronization between the upper and lower arch forms and to minimize dental compensation associated with maxillary constriction, sequential expansion in the lower arch was also recommended. The expansion protocol for the lower arch was the same, except without the additional buccal root torque. Expansion in the lower arch was achieved only through vestibular tipping movement of the crowns.
+
+All participants were instructed to wear their aligners at all times, except while eating and cleaning their teeth, following a weekly aligner change protocol. The fit of the aligners and the status of the attachments were checked every four weeks. Patients were informed that they were participating in a research project and were asked to complete an aligner wear chart to assess their reported compliance. The stereolithographic (STL) files obtained from the scanner were imported into the Geomagic Control X reverse modeling software package (3D Systems Inc., Rock Hill, SC, USA). Each scan was manually preprocessed to remove any unwanted data before analysis.
+
+Measurements were performed using three STL files: a T0 STL file corresponding to the initial intraoral scan, a T1/2 STL file corresponding to the final stage of the simulation extracted from the virtual treatment plan software, and a T1 STL file corresponding to the final intraoral scan. Linear inter-arch measurements were obtained at both the cusp and gingival levels.
+
+The deciduous canine was selected to represent the anterior area of the upper arch, the first deciduous molar was chosen to represent the middle area of the arch, and the molar was selected for the posterior area. This approach aimed to divide the arch into distinct regions to streamline the analysis and avoid redundancy.
+
+Inter-dental distances were measured at the cusp and gingival levels as these parameters are most frequently used in the literature for assessing maxillary expansion. Gingival level measurements were performed considering the zenith of the gingival contour as the reference point.
+
+- CC: inter-deciduous canine distance measured at cusp level.
+- CG: inter-deciduous canine distance measured at the gingival level.
+- PC: inter-first deciduous molar distance measured at cusp level.
+- PG: inter-first deciduous molar distance measured at the gingival level.
+- MC: inter-first molar distance measured at cusp level.
+- MG: inter-first molar distance measured at the gingival level.
+
+Statistical analysis
+
+All measurements were grouped as T0, T1/2, and T1. Each group of measurements was performed by a specific operator (VG and AB). After completing the first set of measurements, the operators were assigned to a different group to perform a new set of measurements. Therefore, each group of measurements was performed twice by two different operators, and the average of the two measurements for each group was used for statistical analysis. The inter-class correlation coefficient (ICC) was used to evaluate measurement reproducibility. Statistical significance was set at an ICC > 0.9.
+
+The Student's t test was performed to estimate the mean difference between the observed and programmed values, stratified by tooth type. A 95% confidence interval (CI) was used to explain the estimated variability. The level of significance was set at < 0.05. Statistical analyses were conducted using the R statistical package (version 4.2.3).
+
+The following formula was used to quantify percent accuracy of each tooth movement, as previously described by Kravitz et al. Data are presented as descriptive statistics using medians and interquartile ranges.
+
+Sample size and reliability of the measurements
+
+Statistical power was calculated based on the results of a previous study on the efficiency of maxillary molar expansion in patients with mixed dentition using CAT. Therefore, a minimum sample size of 22 patients was sufficient to estimate the maxillary molar expansion with a 95% CI and power of 80%.
+
+RESULTS
+
+The ICC results were between 0.9 and 0.95, indicating excellent reproducibility of the measurements. The differences between the predicted and final values were considered as the percentage of predictability of the obtained measurements. Forty patients (18 males, 22 females) were included in the analysis. The mean age of the patients was 8.72 ± 1.17 years. The mean treatment duration was 9 ± 1 months, with an average of 6 ± 2 appointments per patient.
+
+For each tooth group, specific targets were set for both the expansion and buccal root torque based on the initial transverse discrepancy and buccopalatal inclination of the crowns. The canine cusp level was targeted to achieve an average expansion of 5.55 ± 1.79 mm with 44.48° ± 14.31° of buccal root torque; the canine gingival level aimed for 4.69 ± 2.59 mm with 37.52° ± 20.76°; the first deciduous molar cusp level aimed for 6.23 ± 3.09 mm with 49.87° ± 24.69°; and the first deciduous molar gingival level was planned for 6.02 ± 1.54 mm with 48.19° ± 12.36° of buccal root torque. Similarly, the molar cusp level was programmed to achieve 5.43 ± 1.13 mm with 43.46° ± 9.02°, and the molar gingival level aimed for 4.45 ± 1.21 mm with 35.60° ± 9.65° of buccal root torque.
+
+The equation accounted for directionality and ensured that the percentage accuracy never exceeded 100% for teeth that achieved movements beyond their predicted values. For the inter-canine measurements, the measured accuracies were 87.7% at the cusp level and 82.7% at the gingival level. The accuracy of the inter-first deciduous molars was 84.9% at the cusp level and 80.5% at the gingival level. The inter-first molar accuracy was 77.8% at the cusp level and 67.9% at the gingival level.
+
+Furthermore, we analyzed the amount of planned expansion at different maxillary tooth regions, categorizing them into 2 mm step expansion ranges. As a result, the most prescribed expansion in the canine region was in the ranges of 2–4 mm and 4–6 mm at both cusp and gingival levels. In the deciduous molar region, the most planned expansion was in the 4–6 mm and 6–8 mm ranges at the gingival level, while it was in the 2–4 mm and 4–6 mm ranges at the cusp level. Similar results were observed for the first permanent molar, with planned expansion in the 2–4 mm range at the gingival level and 4–6 mm at the cusp level.
+
+According to the t test, significant differences were detected between the planned and obtained inter-canine distances at the gingival level (< 0.05), as well as for inter-deciduous molar distance measurements at both the cusp and at the gingival reference points (< 0.05). For the permanent molars, while the planned and obtained expansions differed significantly at the gingival level (< 0.05), the obtained cusp expansion showed no significant differences from the planned expansion.
+
+Multiple regression analysis was then performed to estimate the relationship between the prescribed and observed measurements, stratified by tooth. Estimated values were obtained for each tooth, indicating the differences between the expected and observed values. For both CC and CG, the estimate was 0.65 mm, meaning that for each planned millimeter of transverse increase in virtual plan, we should expect a 0.65 mm increase in the actual clinical setting. Regarding the deciduous molar, the estimated transverse increase is 0.72 mm at the cusp level and 0.58 mm at the gingival level. The permanent molar showed a better estimate at the gingival level (0.66 mm) compared to the cusp level (0.61 mm).
+
+DISCUSSION
+
+The present prospective study highlighted the predictability of CAT for dentoalveolar expansion of the maxillary arch in patients with mixed dentition, showing an accuracy above 80% in the canine and deciduous first molar regions and approximately 70% in the permanent first molar region. Our results are consistent with those reported in a recent study that assessed the predictability of expansion obtained with CAT in patients with mixed dentition patients showing 77–83% accuracy.
+
+Similar to what Lione et al. recently reported, the measured accuracy has a decreasing trend from the anterior to posterior teeth due to anatomical reasons and aligners' physical properties. Indeed, a progressive anteroposterior increase in skeletal resistance and an increase in soft-tissue pressure contribute to the resistance to expansion, thereby influencing its long-term effects. In addition, occlusal forces influence the orthodontic movement, especially in the molar region.
+
+In addition, the greater flexibility and thickness inhomogeneity observed in the distal portions of the aligners could explain their reduced efficiency in controlling molars movement. Similar behavior has been reported for fixed appliances in relation to the decreasing amount of force released by the terminal ends of the wire as the inter-bracket distance and flexibility of the wire increase.
+
+Although the virtual treatment plan included an overcorrection strategy with 2° extra buccal root torque at each stage, the observed lower predictability of expansion at the gingival level compared to the cusp level, particularly in the molar region, suggests that the expansion achieved with aligners was likely due to dentoalveolar displacement, specifically buccal crown tipping, rather than true bodily movement. This is consistent with the findings of other studies, in which similar patterns of movement have been reported.
+
+Consequently, while the buccal movement of deciduous canines and molars was similar to bodily movement, the permanent molars tipped during the treatment. As previously reported, the ClinCheck software shows translation and tipping movements with an arbitrary center of rotation. This means that movements can be clinically different from those planned, with greater tipping than translation. In patients with mixed dentition, this had a greater effect on teeth with longer roots than on the permanent molars.
+
+However, even if the planned expansion was not fully achieved, the overall average dentoalveolar expansion of the maxillary arch was 80.2% of the planned target. Because we considered a sample with a maximum inter-arch posterior discrepancy of 5 mm, the measured accuracy produced 3.5 mm clinical correction at the permanent molar level and more than 4 mm at the first deciduous molar with a single set of aligners. These results are in line with previous studies about this aligner system application in growing children, reporting an average expansion of 3.7 mm at the first primary molar cusp region and 3.2 mm at the first permanent molar mesial cusp. Discretion is required when overcorrecting to compensate for expansion inaccuracy, that is, for every 1 mm of further transverse width increase in the ClinCheck, only 0.6 mm, on average, will be clinically expressed.
+
+The reported data show that the predictability of expansion movements in young patients is higher than that in adult patients. Previous studies investigating the accuracy of expansion movement in adult patients have highlighted an overall percentage of approximately 70%. The better results obtained in the present study may be due to the continuous improvement of the aligners. Robertson et al. stated that differences in aligner production techniques and material qualities can affect force levels, and hence, the predictability of tooth movements.
+
+Another reason supporting the better results obtained in the present study compared to previous studies is the age-related response to orthodontic forces; younger patients are more responsive to orthodontic forces than older patients despite their lower levels of cytokines and osteoclasts activity.
+
+Considering the results of the present study as well as those of previous ones, the amount of maxillary arch development is effective in growing children who require moderate maxillary arch development to obtain 5 mm clinical expansion at the first permanent molar region; our data suggest planning approximately 7 mm clinical expansion. Furthermore, the frequency of aligner changes and specific attachments can influence outcomes. Previous studies have demonstrated that a 7-day protocol is generally sufficient for most movements; however, molar control could benefit from 14 days of aligner change.
+
+Furthermore, applying buccal attachments to deciduous canines and deciduous first molars, on which an extrusive force can be exerted during buccal movement, seems to create the counter-moment required to reduce buccal tipping.
+
+In addition, the arch width data across pairs of teeth were analyzed in isolation, without considering the movement of adjacent teeth or other types of tooth movement (e.g., rotation, torque, and vertical movements). Poor aligner tracking of adjacent teeth and/or other concurrently planned movements would affect the fit of the aligner and, therefore, the ability to achieve planned expansion.
+
+Proper patient selection is mandatory; while clear aligners have demonstrated satisfactory dentoalveolar expansion, it is worth noting that the level of force exerted on the transverse plane is significantly lower than that of the RME. If an orthopedic effect is expected, the choice should be for another type of appliance, since no mid-palatal suture effects can be demonstrated.
+
+In conclusion, dentoalveolar expansion with CAT showed high accuracy, with patient selection being a crucial factor. It is an appliance that requires very high compliance; however, despite the questionnaires, patients' actual compliance has not been assessed. Both high patient compliance and the clinician's ability to maintain compliance are essential for achieving the desired results. Noncompliant patients can be identified early through remote monitoring. In addition, proper programming of the tooth movement is necessary.
+
+CONCLUSIONS
+
+This study aimed to assess the accuracy of CAT for expansion movement in patients with mixed dentition. The results obtained from this prospective clinical trial suggest the following:
+
+- The difference between programmed and achieved expansion is not statistically significant.
+- Expansion is more accurate in the anterior teeth and decreases in the posterior teeth owing to anatomical reasons and aligner properties.
+- The greater predictability at the cusp level than at the gingival level suggests that the expansion achieved, particularly in the molar region, was due to crown tipping rather than true bodily movement.
+- Overcorrection to compensate for expansion inaccuracy could be considered, especially for permanent molars.
+- Clinicians must not forget that virtual treatment planning software should visually represent the force system rather than a realistic simulation of treatment outcomes.
