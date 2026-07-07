@@ -1,0 +1,20 @@
+Title: A comparison of decontamination methods used for dental burs
+Authors: C L Whitworth, M V Martin, M Gallagher, H V Worthington
+Journal: British Dental Journal, 2004, Vol 197, Issue 10, pp. 635-40 (discussion 623)
+DOI: 10.1038/sj.bdj.4811832
+PMID: 15611751
+PMCID: none (not in PMC)
+Source: PubMed abstract only — no PMC full text available
+
+Abstract:
+This study investigated the bacterial and fungal contamination of used dental burs. A novel assay system for comparison of efficacy of pre-sterilisation cleaning techniques for dental burs was used to evaluate manual scrubbing, enzymic agents and washer-disinfectors.
+
+Thirty dental burs contaminated during cavity preparation were analysed for microbiological total viable counts and species of bacteria and fungi present. To simulate clinically contaminated burs, a culture of Streptococcus sanguis NCTC 7863 was used to inoculate unused dental burs, alone and combined with blood, saliva, or a mixture of blood and saliva. Contaminated burs were subjected to six pre-sterilisation cleaning techniques and the log reduction in contamination achieved by each method was assessed.
+
+The microbial count from used dental burs ranged from 0 to 6.92 x 10^4 CFU/mL. Many potentially pathogenic species were identified. The decontamination assay demonstrated that autoclaving alone was not sufficient to sterilise dental burs. Manual scrubbing in air was less efficacious than manual scrubbing under water (p<0.001). The most effective method of pre-sterilisation cleaning for dental burs was a washer-disinfector.
+
+Enzymic agents are suitable for soaking contaminated dental burs immediately after use. Washer-disinfectors are recommended as the method of choice for pre-sterilisation cleaning of contaminated dental burs.
+
+MeSH terms: Air, Blood, Colony Count Microbial, Dental Cavity Preparation, Dental Disinfectants, Detergents, Disinfection, Enzyme Therapy, Equipment Contamination, Humans, Saliva, Staphylococcus, Sterilization, Streptococcus, Streptococcus sanguis, Water, Yeasts.
+
+Note: This paper is abstract-only in this wiki (no PMC full text available for retrieval; full_text: false). Key finding directly relevant to autoclave scope: "autoclaving alone was not sufficient to sterilise dental burs" — establishing that pre-sterilization cleaning (ideally washer-disinfector) is a mandatory prerequisite for autoclave sterilization efficacy on complex-geometry instruments, i.e., the autoclave's sterilization scope does not extend to organic debris removal — that is a separate, necessary upstream step.
