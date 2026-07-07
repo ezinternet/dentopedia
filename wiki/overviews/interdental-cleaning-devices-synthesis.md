@@ -144,3 +144,9 @@ The dominant finding across the evidence is that **no single device is universal
 - [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — toothbrushing baseline: oscillating-rotating electric ranks first for plaque/gingivitis (the brushing tier interdental cleaning supplements)
 - [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered>manual toothbrush in ortho (GRADE-low) — brushing-tier context
 - [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] — the toothpick *brushing* method axis
+
+## Evidence Update — Flossing vs Mouthrinse: Microbiota Evidence (Min 2024)
+
+Min 2024 (12-week parallel RCT, n=288 gingivitis subjects, 5 arms; first-ever quantitative absolute-abundance shotgun metagenomics via spiked-DNA CMU) directly tested the additive microbial effect of flossing vs essential-oil mouthrinse on top of brushing. Key findings: brushing+flossing produced **no significant difference** vs brushing alone in supragingival plaque diversity, richness, or total bacteria (all NS) — a genomics-level confirmation that isolated flossing has minimal additional microbial impact. By contrast, all essential-oil mouthrinse arms significantly reduced these metrics; the alcohol-containing formulation reduced gingivitis-associated species by 91–94%. The only regimen with significant **subgingival** synergy was flossing+rinsing combined, which additionally reduced P. gingivalis and F. nucleatum. This adds microbiome-level evidence to the clinical inter-proximal plaque data already synthesized in this overview.
+
+- [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]] — RCT n=288: flossing alone NS vs brushing on microbiota; essential-oil rinse reduces gingivitis-associated species 91–94%; flossing+rinse = only subgingival synergy.
