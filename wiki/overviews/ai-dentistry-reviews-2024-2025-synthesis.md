@@ -211,3 +211,9 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 - [[artificial-intelligence/demir-2024-artificial-intelligence-dental-lesion-detection]] — cluster 7 병소검출 지도형 SR (29편; 5병소·3양식·14아키텍처, U-Net 27.6%; 한 모델 치근단 병변 49% 놓침 경고) (sr, 2024)
 - [[artificial-intelligence/pornprasertsuk-2025-deep-learning-multistage-caries-panoramic]] — cluster 7 파노라마 다단계 우식 1차연구 (YOLOv5+Attention U-Net; 구치부 F1 0.85·acc 0.93·recall 0.96·κ 0.907–0.981; FP>FN → 결정보조) (retrospective, 2025)
 - [[artificial-intelligence/turosz-2023-artificial-intelligence-panoramic-radiographs-overview]] — cluster 7 파노라마 AI umbrella (12편 SR·ROBIS; 우식 91.5%·치주 93.09%·치아식별 93.67%·치근단 sens 99.95%; abstract-only, AI SR 빠른 노후화 경고) (sr, 2023)
+
+## Evidence Update — Deep Learning for Maxillary Sinus Ostium Patency (Talo 2026)
+
+Talo 2026 (retrospective CBCT, n=704: 477 patent / 227 obstructed; ConvNeXt-Tiny + DeiT gated-MLP hybrid) addressed a specific pre-sinus-lift diagnostic challenge: human inter-observer reliability for ostium patency on CBCT is poor (κ as low as 0.399). The proposed hybrid classifier achieved 95.03% test accuracy, F1 94.18%, MCC 89.67% — substantially better than single-backbone baselines (89.36%), with only 7/141 test images misclassified. The architectural insight: gated fusion of CNN spatial features (ConvNeXt) and ViT global attention (DeiT) was the critical improvement, not backbone depth. This adds a pre-surgical planning AI application to the diagnostic support tools in this overview: clinicians planning transcrestal sinus lifts can use this architecture to standardize pre-surgical ostium assessment and reduce the inter-observer variability that currently complicates surgical planning.
+
+- [[artificial-intelligence/talo-2026-maxillary-sinus-ostium-patency-deep-learning]] — CBCT AI: 95% accuracy for sinus ostium patency; gated CNN+ViT fusion; addresses κ=0.40 inter-observer unreliability.
