@@ -164,3 +164,9 @@ Alternatives and trade-offs:
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement-timing decision (immediate/early/delayed); SST is an immediate-placement variant.
 - All 17 SST pages — see Evidence Map above.
+
+## Evidence Update — Socket Shield vs Conventional IIP: 27-Study SR+MA (Lu 2025)
+
+Lu 2025 (SR+MA, 27 studies including 13 Chinese-language RCTs previously omitted by Western meta-analyses, n=1307 implants) provides the largest SST evidence pool to date. SST significantly outperformed conventional immediate implant placement on buccal bone preservation: horizontal bone loss MD −0.50 mm, vertical bone loss MD −0.56 mm, PES improvement +1.25, and ISQ +5.83. Implant success was equivalent (RR 1.00, I²=0%). Advantages persisted across shield-height, shield-thickness, and grafting subgroups. The inclusion of Chinese-language literature meaningfully expanded the evidence base and strengthened precision. This is the highest-quality meta-analytic support for the SST to date, consistent with earlier findings in this overview but with substantially improved statistical precision.
+
+- [[immediate-implant/socket-shield/lu-2025-socket-shield-conventional-aesthetic-meta]] — 27-study SR+MA: SST bone preservation MD −0.50 mm horizontal, −0.56 mm vertical; PES +1.25; ISQ +5.83; success RR 1.00.
