@@ -398,3 +398,9 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 - 말레산·HEDP 임상 결과 RCT (현재는 in-vitro·scoping 중심)
 - 세정제 미세경도 감소 ↔ 치근 파절률 임상 연관 연구
 - 위생사 세정 작업 범위 한국 법령·실태
+
+## Evidence Update — Coronal Dentin Composition After Irrigation: Raman Characterization
+
+Marques 2025 (in vitro Raman mapping + ATR-FTIR + EDS + SEM, 25 human third molars, 5 irrigation protocol groups) provides the first Raman-imaging characterization of how clinical endodontic irrigation alters **coronal** dentin composition. Key findings: (1) 3% NaOCl alone depletes collagen to near-zero (amide II: 20.39 → 1.67), producing a hypermineralized "ghost mineral" surface — effective disinfection at the cost of organic matrix; (2) EDTA-containing sequences re-expose collagen and open dentinal tubules but shift the Ca/P ratio from native 1.87 to 1.99, a mineralization disturbance; (3) NaOCl/HEDP continuous chelation preserves native Ca/P (1.87) but yields the roughest surface texture. These ultrastructural changes are clinically relevant for the bonding success of root-canal sealers and post cements — a dimension missing from clinical activation-method comparisons (which focus on microbial reduction, not substrate change).
+
+- [[endodontics/irrigation/marques-2025-irrigation-protocols-coronal-dentin-composition]] — characterizes how NaOCl, EDTA, and HEDP alter coronal dentin chemistry; relevant to post-cementation and sealer adhesion.
