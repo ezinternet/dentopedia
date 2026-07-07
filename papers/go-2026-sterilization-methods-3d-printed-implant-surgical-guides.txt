@@ -1,0 +1,77 @@
+Title: Clinical Implications of Sterilization Methods Applied to 3D-Printed Implant Surgical Guides: An In Vitro Study
+Authors: Hye-Bin Go, Gi-Tae Kim, Jae-Hun Yu, Youngjae Yoon, Jae-Sung Kwon
+Journal: International Dental Journal, 2026, Vol 76, Issue 2, 109444
+DOI: 10.1016/j.identj.2026.109444
+PMID: 41747369
+PMCID: PMC12955157
+Affiliations: Department and Research Institute of Dental Biomaterials and Bioengineering, Yonsei University College of Dentistry, Seoul, Republic of Korea; Department of Orthodontics, Institute of Craniofacial Deformity, Yonsei University College of Dentistry; Department of Oral and Maxillofacial Surgery, College of Dentistry, Kyung Hee University, Seoul.
+Source: PubMed Central (PMC), open access, full text
+
+Abstract:
+Introduction and aims: This in vitro study evaluated how 3 sterilization methods—autoclaving, ethylene oxide (EO) gas, and hydrogen peroxide gas plasma—affect the mechanical, physical, and dimensional properties of 3-dimensional (3D) printed implant surgical guides. These techniques are widely used in dental practice but differ in mechanism and limitations.
+
+Methods: Twenty specimens were fabricated using a digital light processing printer and divided into 4 groups (n = 5): non-sterilized control, autoclaving (121°C, 15 minutes), EO gas (55°C, 60 minutes), and hydrogen peroxide gas plasma (<57°C, 18 minutes). Mechanical tests evaluated flexural strength, modulus, and Shore D hardness while translucency and dimensional stability were also assessed. Shape deviation and implant positioning accuracy were compared before and after sterilization. Data were analyzed with one-way analysis of variance and Tukey's post hoc test.
+
+Results: All sterilized groups maintained internal fit deviations within clinically acceptable tolerance (±120 µm), showing no significant differences in overall dimensional accuracy. Implant placement precision was preserved, with implant-tooth distances ≥2 mm. EO sterilization significantly increased the flexural strength (122.49 ± 10.10 MPa) and modulus (3477 ± 161 MPa) compared with controls whereas autoclaving showed the lowest strength (92.40 ± 15.06 MPa). Shore D hardness exceeded 90 HS in all groups, with autoclaving producing the highest values. Only EO treatment significantly reduced translucency.
+
+Conclusion: Sterilization method influenced the mechanical and optical properties of 3D-printed surgical guides without compromising dimensional accuracy.
+
+Clinical relevance: The findings provide evidence-based guidance for clinicians to select sterilization protocols that preserve the functionality of 3D-printed surgical guides and ensure precision in implant placement.
+
+Full Text:
+
+Introduction
+
+Dental implants are widely accepted as a reliable treatment for replacing missing teeth, and the clinical use of implant surgical guides has become increasingly common to enhance procedural accuracy and patient outcomes. Advancements in 3D printing technology have simplified fabrication and expanded the use of 3D-printed implant surgical guides.
+
+Although implant surgical guides are not inserted into tissue, they are placed intraorally during surgery and directly contact the patient's oral tissues (mucosa, teeth, and sometimes exposed bone), thus classified as semicritical medical devices under Spaulding classification. They are exposed to biological contaminants (saliva, blood, surgical wounds) and contamination may occur during fabrication, postprocessing, storage, and transportation. Therefore they must undergo disinfection and sterilization before clinical use.
+
+Common sterilization methods in dental practice: steam autoclaving (AC), ethylene oxide (EO) gas sterilization, and hydrogen peroxide (H2O2) gas plasma sterilization (LP). Steam AC remains widely preferred for effectiveness, accessibility, and cost-efficiency; however, its high temperature and pressure can compromise dimensional stability and mechanical properties of thermosensitive resin-based 3D-printing materials. Low-temperature methods (EO, LP) are increasingly applied to thermolabile materials but have distinct limitations: EO requires lengthy processing and thorough postprocessing aeration to remove residual toxic gases; LP is faster but involves expensive equipment/consumables. The appropriate sterilization method should be selected based on the surgical guide's material properties to preserve clinical performance.
+
+This study evaluates the effects of 3 sterilization methods (AC, EO, LP) on accuracy, clinical applicability, mechanical properties (flexural strength, elastic modulus, Shore hardness), and physical properties (translucency) of 3D-printed implant surgical guides. Null hypothesis: no significant differences among sterilization methods.
+
+Materials and methods
+
+Material: NextDent SG UV-curable acrylate-based resin (3D Systems) — ethoxylated bisphenol A (>60% w/w), methacrylate oligomer (15-25% w/w), phosphine oxide UV initiators (<2.5% w/w).
+
+3D printing: DLP printer (ND 5100, 3D Systems), 405 nm wavelength, 50 µm layer thickness. Post-treatment: IPA ultrasonic cleaning (3 min + 2 min after support removal), UV light-curing 350-500 nm for 10 min. Ambient lab conditions 23±2°C, 50±10% RH.
+
+Sterilization groups (n specified per test): non-sterilized control; autoclaving (AC) 121°C/15 min; EO gas 55°C/60 min; hydrogen peroxide gas plasma (LP) <57°C/18 min.
+
+Tests: (1) internal fit — silicone replica method + 3D deviation analysis, tolerance ±0.12 mm, range ±0.5 mm; (2) shape deformation — part-comparison superimposition analysis; (3) virtual implant placement accuracy — implant fixture (5.0×10.0mm) placement simulation, distance to adjacent teeth measured; (4) flexural strength/modulus — ISO 20795-2, 3-point flexure, n=44, universal testing machine, 5 mm/min crosshead speed; (5) Shore D hardness — durometer, 5 specimens/group, 10 measurements/specimen; (6) translucency — CIELAB spectrophotometry, translucency parameter (TP), 10 specimens/group.
+
+Statistics: one-way ANOVA + Tukey's post hoc, α=0.05.
+
+Results
+
+Internal fit: Mean deviations — EO (−9.44 ± 20.21 µm), AC (7.44 ± 17.21 µm), LP (18.33 ± 37.94 µm). AC smallest deviation, LP largest, but ALL within clinical tolerance ±120 µm. No significant differences among groups (p>.05) — sterilization did not affect fit accuracy.
+
+Shape deformation: Sterilized guide shapes nearly identical to initial design; guide hole positions consistent after sterilization — no apparent discrepancies.
+
+Virtual implant placement accuracy: All groups met minimum 2 mm horizontal clearance from adjacent teeth. Minimum measured distance 4.53 mm (LP group), exceeding recommended minimums (2 mm from natural tooth, 3 mm from adjacent implant).
+
+Flexural strength: Highest in EO group (122.49 ± 10.10 MPa, significantly different from all others, p<.05); lowest in AC group (92.40 ± 15.06 MPa, significantly lower than control [106.71 ± 4.91 MPa] and EO groups, p<.05). Control and LP (105.84 ± 10.78 MPa) not significantly different (p>.05).
+
+Elastic modulus: Control 3281±158, AC 3447±163, EO 3477±161, LP 3476±116 MPa. EO significantly higher than control (p<.05); AC and LP intermediate, not significantly different from EO or control.
+
+Shore D hardness: >90 HS in all sterilized groups vs control 89.24±0.63 HS. AC highest (91.24±0.60 HS, significantly higher than control p<.05), not significantly different from EO (90.70±1.07) or LP (90.76±1.03).
+
+Translucency: Highest in control (37.13±5.45%), comparable AC (34.10±5.57%) and LP (34.94±4.07%) — no significant difference from control. EO significantly lower (30.42±2.44%, p<.05 vs control).
+
+Discussion
+
+All 3 sterilization methods kept dimensional deviations within clinically acceptable limits (±120 µm) but produced distinct effects on mechanical strength, surface hardness, and translucency — a genuine trade-off, not a uniformly superior method.
+
+AC: smallest internal-fit deviation (best dimensional stability) and highest Shore D hardness, BUT significantly reduced flexural strength (lowest of all groups) — attributed to polymer degradation under high heat/pressure. This is the key "scope limitation" finding: high-temperature steam autoclaving is not mechanically optimal for thermosensitive 3D-printed resin devices, even though it remains excellent for dimensional/hardness properties.
+
+EO: significantly increased flexural strength and elastic modulus (unexpected — attributed to additional polymer cross-linking triggered by gas exposure) but significantly reduced translucency, which may hinder visual verification of guide seating during surgery. Longest processing time and requires aeration to remove residual toxic gas.
+
+LP (H2O2 gas plasma): fastest low-temperature method, intermediate mechanical properties, largest (but still clinically acceptable) fit deviation; translucency comparable to control.
+
+Recommendation: EO sterilization recommended when mechanical strength is prioritized, provided that guide design incorporates inspection windows to compensate for reduced translucency. AC remains reasonable when dimensional accuracy/hardness is prioritized over flexural strength margin. Choice should be individualized by anatomical site, visibility needs, and surgical complexity.
+
+Limitations: single resin type, single sterilization cycle (no repeated-cycle data), in vitro only (no in vivo/clinical validation), virtual (not clinical) implant-placement assessment.
+
+Conclusion
+
+Sterilization method (autoclaving vs EO gas vs H2O2 gas plasma) significantly affects mechanical, physical, and dimensional properties of 3D-printed implant surgical guides, without compromising overall dimensional/positional accuracy for clinical use. EO sterilization is recommended for superior mechanical properties and minimal placement-accuracy deviation, with the caveat of reduced translucency (addressable via inspection windows in guide design). Future work: repeated sterilization cycles, long-term clinical validation, standardized protocols.
