@@ -1,0 +1,129 @@
+INTRODUCTION
+
+In a 2022 survey of Australian Orthodontic Society members, 93.13% of orthodontists reported utilizing clear aligners (CAs) in their treatment.Despite widespread clinical use, research on the biomechanics and treatment effects of CA remains limited. Some studies have shown limited improvement in tooth rotation, alignment, and overjet correction, low effectiveness on tooth movement ranging from 46% to 56% depending on the type of tooth movement, and poor predictability of treatment with CA compared to fixed orthodontic appliances.Extrusion of a tooth requires force to be applied in the direction of the device being peeled off, but there is no pronounced undercut in the crown, which makes it difficult for the CA to engage the tooth during treatment; therefore, the planned orthodontic forces are not fully expressed. Understanding how the CA deforms, displaces, and transmits forces/moments to teeth is a prerequisite for efficient tooth extrusion.
+
+For CAs to move their teeth as planned, they must be fully engaged with the tooth while it is being fitted, and the desired force must be applied to the proper area of the tooth. However, if the material ages in the oral cavity or if insufficient force is applied to the appropriate tooth area owing to limitations in the material’s properties, the efficiency of tooth movement is not as good as expected. Therefore, research was performed to improve tooth movement by modifying the device design, such as a “power ridge,”or by varying the device thickness at specified locations to allow additional application of force.
+
+Grant et al.introduced a system to measure the forces and moments exerted by CA on teeth to understand the mechanics of CA treatment.
+
+Despite the introduction and use of systems that can directly measure the forces and moments acting on teeth, comprehensively understanding the biomechanics of CA or how displacement and deformation of CA occur when various designs are applied remains challenging. Three-dimensional (3D) finite element analysis (FEA) has been widely used to analyze the biomechanics of CA treatment. However, limitations persist in interpreting simulation results that reflect actual biomechanical conditions.Therefore, the displacements and deformations occurring on each surface during CA treatment, made of viscoelastic materials, can be intuitively analyzed and measured using the digital image correlation (DIC) method. DIC is an analytical technique that measures the displacement and deformation of materials under external load by analyzing non-contact optical images before and after a load is applied to an object. Therefore, using a DIC method with a force/moment measurement system can accurately measure the forces and moments exerted by an aligner on the teeth and evaluate the CA displacements and strains that drive tooth movement, providing a better understanding of biomechanics.
+
+This study aimed to investigate the effect of 3D printed CA with different designs on the extrusion of mandibular premolars using a force/moment measurement system and the DIC method. The specific aims were as follows: during mandibular first premolar extrusion with various designs of 3D printed CAs in the absence and presence of attachments and with a modified margin of 3D printed CA: 1) the forces/moments applied to the mandibular canine, first premolars, and second premolars were measured and compared, and 2) the displacement and strain of 3D printed CA before and after planned tooth extrusion using the DIC method were measured and compared.
+
+MATERIALS AND METHODS
+
+Fabrication of 3D printed clear aligner with different designs
+
+The mandibular model was 3D scanned using a Nissin dental model (NISSIN B3-305; Nissin Dental Product, Kyoto, Japan) and 3D modeled using a CAD program (Spaceclaim; Ansys Inc., Canonsburg, PA, USA) to obtain a CA design. CA for mandibular first premolar extrusions was categorized into two groups based on the presence or absence of attachments and then further classified into four subgroups, each focusing on design variations at the margin. The attachment design for the mandibular first premolar was dome-shaped, with a height of 3 mm, width of 2 mm, and prominence of 1 mm ().
+
+The four types of margin design for CA are shown in–.
+
+By observing the lower part of the CA from the bottom, the differences in thickness and final displacement at the gingival margin can be seen when comparing Groups 3 and 4 with Group 1 (). The CA was 3D printed directly using TC-85 (Graphy, Seoul, Korea) with a thickness of 0.5 mm.
+
+Group 1. Equi-margin gingival scalloped margin.
+
+Group 2. Extended margin: 1 mm subgingival scalloped margin.
+
+Group 3. Equi-margin with 1-mm thickness and height: gingival margin thickened to 1 mm and 1 mm height.
+
+Group 4. Equi-margin with 1-mm reduced buccolingual width: 1 mm high at the margin of the first premolar, with a final reduction of 0.5 mm buccally and 0.5 mm lingually for a 1 mm total reduction.
+
+Forces/moments measurement device for experimental clear aligner groups
+
+The device introduced by Grant et al.was modified to measure the forces and moments applied to the mandibular canine and first and second premolars (#33, #34, #35). As shown inand, the device was constructed by connecting multi-axis force/moment transducers (AFT20-D15; Aidin Robotics, Anyang, Korea) to measure the forces and moments applied to the teeth (). The directions of the force and moment on the x-, y-, and z-axes obtained from each tooth were separated by +/− signs and matched.
+
+The present study analyzed the forces and moments on the mandibular canine and the first and second premolars when a 0.5 mm extrusion force was applied, assuming the mandibular first premolar was intruded by 1 mm with normal mandibular dentition. Eight groups were evaluated based on the combination of first premolar attachment and margin design (four types). Experiments were conducted to reproduce the intraoral environment using a forced convection incubator (C-INDF; Chang Shin Co., Seoul, Korea) maintained at 37°C, and the forces and moments applied to the teeth were analyzed 1 hour after the CA was mounted in the experimental device ().
+
+Digital image correlation method to measure experimental clear aligner’s displacement and strain
+
+Eight CA groups were sprayed with a speckle pattern coating on the mandibular canine and first and second premolars using a Harder and Steenbeck infinity airbrush (HARDER & STEENBECK, Norderstedt, Germany) for the DIC method. Subsequently, DIC was performed using two high-resolution, ultra-high-speed cameras (VIC-3D; Correlated Solutions, Irmo, SC, USA) (). The images were analyzed for displacement and strain changes in each part of the CA when extrusive forces were applied to the mandibular first premolars.
+
+Statistical analysis
+
+Data were obtained for all forces (Fx, Fy, and Fz) and moments (Mx, My, and Mz) of each tooth in all experimental groups, with 15 experiments in each group. As the data did not follow a normal distribution, we compared the force and moment values for each tooth in each group using the median and interquartile ranges.
+
+The Kruskal–Wallis test was used as the nonparametric comparison test, and Bonferroni correction was used as the post-hoc test. Statistical significance was set at< 0.05. All data were analyzed using SPSS software (version 29.0; IBM Corp., Armonk, NY, USA).
+
+RESULTS
+
+Forces generated by different clear aligner designs with first premolar attachment
+
+presents the forces generated by different CA designs with attachments on the mandibular first premolar. With attachments on the mandibular first premolars, forces occurred in the distal direction (-Fx) in the canines in all groups, with no significant differences between the groups. Buccal forces in the buccolingual direction (Fy) occurred only in Group 4. In addition, Group 4 generated an intrusion force (Fz) with a median of 0.05 N, whereas the other groups generated an intrusion force with a median of −0.68 N to −0.12 N, which was significantly different.
+
+Mesiodistal force (Fx) in the first premolar was not significantly different between the groups. The greatest lingual force was observed in Group 2. The extrusion force (Fz) was significantly lower in Group 3 than in the other groups, with the highest extrusion forces observed in Groups 2, 4, 1, and 3.
+
+Forces were generated on the second premolars in the mesial direction (Fx) in all groups. Only Group 4 showed significant lingual and extrusion forces, whereas the other groups showed weak intrusion forces.
+
+Forces generated by different clear aligner designs without attachment on the first premolar
+
+presents the forces generated by different CA designs without the mandibular first premolar attachment. Without the first premolar attachment, the canine produced a force in the distal direction (-Fx) in all groups except Group 4. Lingual forces in the Fy direction were greater in Group 1 than in the other groups. Additionally, intrusion forces occurred in all the groups.
+
+Group 1 showed a relatively greater distal force in the first premolars than the other groups. Contrary to the experimental plan, all groups produced an intrusive force, with Groups 3 and 4 showing weaker intrusive forces than Group 1.
+
+The force on the second premolars was distalized (Fx) in all groups except Group 4, with all the groups generating an intrusive force.
+
+Moments generated by different clear aligner designs with first premolar attachment
+
+presents the moments generated by different CA designs with attachments on the mandibular first premolar. With attachment to the first premolars, the canine showed a buccal inclination in Groups 2 and 4 (x-axis) and a relatively greater mesial angulation in Group 4 than in the other groups (y-axis). Group 4 showed moments of distal rotation, whereas mesial rotation was evident in Group 1 (z-axis).
+
+The first premolars showed a buccal inclination in all groups, with only Group 4 showing distal angulation. The rotation moments were relatively large in the distal direction in Groups 2 and 4.
+
+In the second premolars, Groups 2, 3, and 4 showed weak buccal inclination, whereas Groups 1 and 2 showed significant distal angulation. Additionally, Groups 1 and 2 showed weak mesial rotation.
+
+Moments generated by different designs of clear aligner without attachment on the first premolar
+
+presents the moments generated by different CA designs without attachment on the mandibular first premolar. In canines without attachment to the first premolars, Group 2 showed a lingual inclination, whereas the other groups showed a buccal inclination. At the moment of angulation, only Group 1 showed mesial angulation. In addition, Groups 2 and 3 showed distal rotation.
+
+The moments at the first premolars showed a buccal inclination in all groups except Group 4, with mesial rotation observed in all the groups.
+
+No significant differences in moment values were observed between the groups in the second premolars.
+
+Displacement field in buccal surface of clear aligner
+
+shows the displacement field measured on the surface of the aligner in each of the four groups for the first premolars with attachment andfor those without attachment. In the groups with attachments, displacement was significantly more concentrated around the attachment than elsewhere. In Groups 1 and 4, the displacement around the attachment was particularly prominent ().
+
+In the group without attachment, displacement was not concentrated in the first premolar; however, overall displacement was observed in the canines and the first and second premolars, with slightly different patterns depending on the design. In particular, in Group 4, unlike the other groups, the displacement of the first premolar was significantly higher in the proximal area ().
+
+Major principal strain
+
+andshow the principal strains in the four groups with and without attachments, respectively.
+
+With attachment, all groups exhibited strain at the bottom margin ().
+
+In the absence of attachment, no consistent trend among groups was observed. However, in Group 4, distinct deformation in the proximal and marginal areas of the aligner was noted, whereas a recurring pattern of expansion and contraction was observed in the other groups ().
+
+DISCUSSION
+
+When fabricating CA from thermoplastic materials, various shrinkages and expansions can occur depending on the thermoforming material or during the thermoforming process itself, resulting in uneven thicknesses and changes in properties,with thickness variations ranging from 57.5% to 92.6% during the fabrication process.The thickness unevenness of the CA substantially affects the magnitude of the force transmitted to the teeth.
+
+Direct 3D printing has recently been developed to increase the precision of the manufacturing process of CA.3D printed CA has advantages in terms of thickness uniformity and fit, and its flexibility and viscoelastic properties allow for the continuous application of light forces during orthodontic treatment. In addition, 3D printing enables the thickness or shape of certain parts of aligners to be changed, making it easier to implement the desired aligner design.
+
+We first analyzed how the presence of attachment affected the extrusion of the first premolar. The results showed that attachment is a key factor in the extrusion of the mandibular first premolar. Savignano et al.also concluded through FEA that using rectangular attachments could improve the efficiency of the CA during the extrusion of maxillary incisors by increasing the contact area and that movement could not be achieved without attachments.
+
+Previous studies on the efficacy of CA treatment in relation to orthodontic extrusion have reported more variability and less predictability than other orthodontic treatments.Similarly, the need for attachments was also confirmed in this study; however, the shape of the attachment in this study was dome-shaped, which was different from the horizontal attachment suggested by Rossini et al.to be most effective for extrusion. A recent retrospective study found no significant difference in effectiveness between conventional and optimized attachments in achieving the extrusion for mild discrepancy with a required extrusion of 0.3–2.5 mm.Therefore, that the results of this study might be similar to other types of attachment designs. However, Kim et al.suggested that cylindrical lingual attachments were the most suitable for extrusion; therefore, further research is needed to determine whether the attachment is positioned lingually.
+
+Another result of this study was that design modifications such as extending the margin length or reducing the buccolingual margin width of the CA may be effective in improving extrusion. However, among the various designs, increasing the thickness of the margin did not significantly improve extrusion, and it is considered that the design of the CA should be changed to a structure that can efficiently apply force to the cervical region. Yao et al.performed a finite element methods (FEM) analysis of a CA with an internal embossment to apply pressure to the cervical area and promote torque control. The results showed that the embossment inside the CA improved movement efficiency but resulted in uncontrolled torque and tilting movement,which was caused by insufficient support of the aligners on the opposite side of the crown.This was also confirmed in this study, as the value of Mx of the first premolar showed minimal moment in Group 4. Therefore, Group 4 had a 1 mm reduction in the buccolingual margin width of the CA, which was interpreted as increased support of the CA on the lingual side.
+
+However, when the outer surface of the CA was thickened instead of the inner surface, as in Group 3, the extrusion force was significantly lower, even with attachment. The efficiency of CA treatment is affected by factors other than attachment, such as margin thickening. The thickness of the CA is an important variable in relation to the magnitude and duration of the orthodontic forces applied to the teeth.This is because thicker aligners increased the minimum and maximum von Mises stresses, which increased the forces transmitted to the teeth.However, this study did not show significantly more efficient tooth movement in Group 3 with thicker margins, indicating the need for further studies with different designs and more efficient areas of thickness.
+
+In contrast, intrusive forces were generated in all the groups, particularly in the first premolars. These results were consistent with those of previous studies on maxillary incisor extrusion, which showed relatively large intrusive forces without attachments or power ridges.These results indicate that the force system generated by the CA in the absence of attachments is difficult to predict and cannot be simplified to the force system generated by conventional wires and brackets owing to the interaction of various factors, such as the viscoelasticity of the aligner materials, contact surface, and force between the CA and teeth.
+
+The results of this study showed that Groups 2 and 4 delivered adequate extrusion forces at attachment, with a median of 0.96 N and 0.46 N, respectively, whereas the other groups did not. Extrusion movement requires a force system with only one force; therefore, the most effective design should provide a maximum contact surface in the xy plane through the CA to transfer the force to Fz only, with the contact surface located as close as possible to the center of resistance in each axis to avoid undesirable results.Therefore, the design that increased the buccal contact surface by extending the margin by 1 mm (Group 2) and reducing the buccolingual width of the margin (Group 4) was more likely to transmit the static force close to the center of resistance.
+
+The difference between the planned movement, the measured forces and moments, and the lack of extrusion force during premolar extrusion can be interpreted by analyzing CA deformation. In this study, the DIC method was used to determine the location of displacement and strain of the CA by group. The displacement was concentrated around the attachment in the group with attachment. Strains also occurred at the inferior part of the attachment in most groups. These results were consistent with those of a previous FEM study of open bite, which showed that the greatest strain occurred in the lateral incisors, especially at the gingival margin.However, most groups showed variations in strain not only below the attachment but also above the occlusal and proximal surfaces. Therefore, the variations in displacement and strain in this study can be understood as a result of the complexity of the DIC method, owing to the viscoelastic properties of the aligner material, the contact area between the tooth and CA, and the forces applied at the contact surface. In the future, more studies on various tooth movements should be conducted to comprehensively understand the results of the DIC method in conjunction with the force/moment values applied to the teeth.
+
+Although DIC is based on a 3D method, it can show only one side of a CA. Since a CA consists of a single viscoelastic material, changes in one part can affect the entire aligner. While the DIC method can be used to analyze these changes, it is challenging. Applying the DIC method to various tooth movements can yield more accurate and diverse interpretations if an effective experimental environment is established and data are accumulated.
+
+In this study, we quantitatively measured the forces and moments generated when applying an extrusion force using CA and examined the morphological changes resulting from the material properties of CA using the DIC method. Nonetheless, it is important to note that the force and moment measurement system may not perfectly replicate the real oral environment because it is challenging to incorporate all biomechanical factors, such as periodontal ligaments and tooth roots, into the mechanical components. As this aspect of the system is established, the gradual inclusion of biological elements into the mechanism is expected to enhance its accuracy.
+
+Furthermore, it would be helpful to design a similar study comparing CAs fabricated by direct 3D printing with those made by traditional vacuum-forming techniques to understand the material-dependent properties of CA.
+
+Limitations
+
+In this study, we used high-precision sensors whose specifications, including limits and resolutions for forces/moments, were provided and guaranteed by the manufacturer. Based on the established use and validation of these sensors in similar studiesand often focusing on the precision and calibration standards provided by sensor manufacturers, we initially determined that no additional reliability assessment was necessary for the scope of our experimental analysis.
+
+However, conducting measurement reliability assessments through intraclass correlation coefficient calculations could further strengthen our study by quantifying the consistency of sensor outputs under similar conditions across multiple experiments.
+
+CONCLUSIONS
+
+This study used a system capable of quantitatively measuring the force and moment generated by CA to apply an orthodontic force to the intruded mandibular first premolars, and this study also verified the morphological changes caused by the material properties of the aligners using the DIC method. Both the force and moment measurement system and the DIC method revealed that attachment plays an important role in the extrusion of the first premolar and that morphological changes, such as margin extension and margin reduction of the buccolingual width of the first premolar, could improve the efficiency of tooth movement.
