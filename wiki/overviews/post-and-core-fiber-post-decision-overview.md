@@ -91,3 +91,9 @@ Restoring an endodontically treated tooth is repeatedly mis-framed as "which pos
 ## Related Overviews
 - [[cracked-tooth-syndrome-overview]] — fracture in structurally compromised teeth
 - [[lithium-disilicate-inlay-onlay-evidence]] — partial-coverage / ceramic restoration of compromised teeth
+
+## Evidence Update — Parapost Microleakage: Sealer Choice vs Time-Dependent Interface Degradation
+
+Alkahtani 2010 (in vitro fluid-filtration, n=70 single-rooted teeth; 2×2 factorial: eugenol vs AH26 sealer × immediate vs delayed post cementation) found that **neither sealer type nor cementation timing** significantly affected ParaPost microleakage. Instead, leakage increased significantly over time (24 h → 2 months → 3 months) in all groups, with persistent voids at the resin–dentin interface. The clinical implication: for resin-cemented posts, the ferrule and long-term resin–dentin bond durability outweigh sealer selection. This extends the overview's "ferrule first, post second" principle by adding a temporal dimension — even optimally designed restorations degrade at the interface over months.
+
+- [[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]] — evidence that sealer choice and post-timing are not the key microleakage determinants; time-dependent interface degradation is.
