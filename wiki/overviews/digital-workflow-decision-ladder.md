@@ -175,4 +175,10 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 - 축 1 IOS = [근거강함] (다수 SR + NMA).
 - 축 2 CAIS = [근거강함] (Schiavon 2025 NMA).
 - 축 3 AI 진단 정확도 = [합의수준] (대부분 retrospective + narrative).
+
+## Evidence Update — Full-Arch IOS Accuracy for Implant Frameworks (Fouda 2025)
+
+Fouda 2025 (in vitro micro-CT, 10 full-arch titanium frameworks from TRIOS 5 IOS scans, 4-implant edentulous model; Scanco µ100 as reference at 36.8 µm voxel) provides a sobering precision benchmark for implant-supported full-arch workflows. Only 3/10 frameworks passed micro-CT passivity criteria; 0/10 met the single-screw-test; and only 2/10 intraoral scans fell within 150 µm RMS deviation. The authors identified IOS scanning error — not milling or design — as the dominant source of misfit. For full-arch implant cases, this data argues for: (1) laboratory scan verification of IOS accuracy before milling, (2) clinical passive-fit verification protocols at try-in, and (3) accepting that even modern IOS systems may have difficulty with long-span full-arch implant cases at the precision required for passive fit.
+
+- [[digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch]] — micro-CT: 70% of full-arch IOS-to-framework cases fail passivity; scanning error dominates; laboratory verification essential.
 - 축 4 LLM = [합의수준] (단일 SR+MA + umbrella).
