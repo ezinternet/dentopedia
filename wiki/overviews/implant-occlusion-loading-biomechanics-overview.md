@@ -151,3 +151,9 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 - [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] — rat 경골: 1일 주기하중 세션 2배 → BIC↓ (하중 빈도 dose-response) (animal, 2018)
 - [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — 인체 retrieval(plateau form, 120일–18년): 기능하중 시간↑ → BIC·BAFO 점진 증가 (retrospective, 2015)
 - [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] — 인체 retrieval 나노압입(n=30, 0.3–24년): 주위 피질골 탄성계수·경도 첫 ~5년 상승 후 안정 (retrospective, 2012)
+
+## Evidence Update — Bite Force Temporal Evolution After Posterior Implant Crown Delivery
+
+Zhou 2021 (prospective pilot, T-Scan III, n=32 restorations, 5 timepoints over 6 months) tracked real-time occlusal force evolution after single posterior implant crown placement. Implant bite force approximately doubled from 2 weeks (3.39% of total occlusal force) to 3 months (6.90%, p=0.008), then plateaued through 6 months (7.31%, p=0.900). Implant load remained consistently lower than adjacent natural teeth throughout. Clinical implication: the 2-week occlusal adjustment window captures a transitional state — bone and soft tissue remodeling drive an additional 3-month loading increase before stabilization. Occlusal adjustments made at delivery should anticipate this shift, and follow-up occlusal evaluation at ~3 months is advisable.
+
+- [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan: implant bite force doubles by 3 months post-delivery then stabilizes; suggests 3-month occlusal re-check protocol.
