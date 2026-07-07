@@ -2615,6 +2615,15 @@ tags: []
 - [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — Thereza-Bussolaro 2026 · sr+ma · CBCT 11개 코호트: 전체 IAN 손상률 9.52%; 고위험군 14.76%; 피질골 소실 15.65% vs 존재 0.39% (40배 차이) (JOMS)
 - [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — Al-Aroomi 2025 · sr · 11개 RCT: 사랑니 발치 후 CGF(농축성장인자) 적용 시 통증 75%·진통제 100% 개선; 방사선 골충전 80%·치주 지표 100% 향상; 부기·치조골염 효과 불명확
 - [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — 서사적 문헌 고찰(2010): 하악 구치부 임플란트 식립 후 감각이상(Altered Sensation) 이환율 0–55%로 이질적; 하치조신경·이신경 주로 손상, 일시적 증례는 6개월 이내 회복, NSAIDs·미세신경문합술로 치료
+- [[oral-surgery/misch-2010-mandibular-nerve-neurosensory-implant-management]] — Misch & Resnik 2010 · narrative-review · 임플란트 식립 후 IAN 신경감각손상 관리·프로토콜: 손상 분류(neuropraxia→neurotmesis), 발생률 0–44%, 즉각적 처치 알고리듬
+- [[oral-surgery/khawaja-2009-ian-implant-removal-nerve-injury-cases]] — Khawaja & Renton 2009 · case-report · 임플란트 조기 제거(18h–4d)로 IAN 손상 회복 4증례: 18h·36h 제거 → 거의 완전 회복, 2d·4d → 영구 감각장애 (BDJ)
+- [[oral-surgery/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — Kämmerer et al. 2024 · narrative-review · IAN·설신경 손상 스코핑 리뷰: 발생률(지혜치 0.4–5.5% 영구, 임플란트 >30% 일시적), Seddon 분류, 신경감각검사, 보존·수술 치료 결정 (Clin Oral Invest)
+- [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — Keykha et al. 2024 · sr · 의인성 만성 하악신경 감각이상 치료 SR(7 RCT): PBM·비타민B12·prednisolone 각각 회복 가속; 근거 수준 낮음 (Max Plast Reconstr Surg)
+- [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — Réus et al. 2024 · sr · 임플란트 관련 IAN 신경병성 손상 유병률(0–40%)·관리 SR: 신경측방이동술 후 90%→42% 부담 vs 비이동술 12%→5%; 근거 매우 부족 (J Oral Facial Pain Headache)
+- [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — Juodzbalys et al. 2011 · narrative-review · 임플란트 식립 중 IAN 손상 문헌 고찰: 원인·기전·진단·치료지침; 30–36h 임플란트 제거 기준, 3개월 미세신경수술 결정점
+- [[oral-surgery/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct]] — Ma et al. 2026 · rct · 레이저 침술 vs 직접 PBM vs 가짜치료(n=60): TPD −3.2 vs −2.6 vs −0.8 mm, SWME 85% vs 80% vs 25% 개선, VAS −60% vs −48% vs −12% (808nm, 9J/site×15회)
+- [[oral-surgery/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — Lin 2007 · animal · 은행잎추출물(EGb) 용량반응 rat 좌골신경 절단모델(n=120): 200>100>50 mg/kg/d 순 MNCV·CMAP·축삭지수 향상; SFI는 용량간 차이 없음 (Microsurgery)
+- [[oral-surgery/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — Zhang 2020 · animal · 메코발라민 함유 PLCL 신경도관: 15% MeCbl 최적, 21일 서방형 방출, rat 10mm 좌골신경 결손 모델에서 축삭직경·수초두께 최대
 
 ### Orthodontics — miniscrew/TAD
 - [[orthodontics/katyal-2024-success-rate-factors-affecting-stability]] — Katyal 2024 · sr+ma · SR+MA (14 studies, 1683 IZC screws): pooled success 92%, no age effect
@@ -2657,6 +2666,8 @@ tags: []
 - [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
 - [[drug/analgesics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
+- [[drug/analgesics/buesing-2019-vitamin-b12-pain-nerve-regeneration-review]] — Buesing 2019 · narrative-review · 비타민B12(메코발라민·시아노코발라민·히드록소코발라민) 신경통·신경재생 기전 및 임상: 동물실험 복수 메커니즘, 요통 IM 1000µg/d×2주 → 통증 −87%; 최적 용량 미확립 (Pain Physician)
+- [[drug/analgesics/han-2010-dexamethasone-trigeminal-neuropathic-pain-animal]] — Han et al. 2010 · animal · 악교정 임플란트 rat IAN 손상 모델: 조기 dexamethasone(25·50 mg/kg i.p.) → 기계적 이질통 예방; 이미 확립된 통증에는 무효 → 조기 투여 시기가 결정적 (J Dent Res)
 
 ### sinus-lift/transcrestal (added 2026-06-06)
 - [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Bashar Shahood 2024 · prospective · n=126 implants, 3-arm (no-graft vs Bio-Oss vs Bio-Oss Collagen+CGF), RBH ≤5mm: ISR 96%, CGF 조합이 통증↓·골이득↑
