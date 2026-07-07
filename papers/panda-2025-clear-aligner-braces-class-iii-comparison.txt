@@ -1,0 +1,69 @@
+Comparison of Aligners and Braces in Angle's Class III Malocclusion Cases: A Clinical Study
+
+Introduction
+
+Angle's Class III malocclusion presents both functional and esthetic challenges and is often characterized by a negative overjet, mandibular prognathism, and dental compensations. Traditionally, treatment for Class III malocclusion has relied on fixed appliances, including multibracket systems and orthopedic appliances such as facemasks and functional appliances. However, with advances in clear aligner therapy, clinicians are increasingly exploring its feasibility for treating moderate Class III cases. While aligners offer esthetic benefits and enhanced patient comfort, their efficacy in achieving skeletal corrections remains a concern. Additionally, factors such as compliance, treatment duration, and long-term stability must be carefully evaluated when choosing between aligners and fixed braces for Class III cases. This study aims to compare these two treatment modalities in terms of clinical efficiency, patient adherence, and post-treatment stability.
+
+Materials and Methods
+
+A retrospective study was conducted on 50 patients diagnosed with Angle's Class III malocclusion, divided into two groups:
+
+Group 1 (n = 25): Treated with clear aligners.
+Group 2 (n = 25): Treated with fixed braces.
+
+Inclusion criteria
+- Patients with mild to moderate skeletal discrepancies (ANB angle between -4° and 0°).
+- No previous orthodontic treatment.
+- Good periodontal health and no craniofacial syndromes.
+
+Exclusion criteria
+- Severe skeletal Class III requiring orthognathic surgery.
+- Patients with active periodontal disease or missing permanent teeth.
+
+Treatment assessment
+- Lateral cephalograms and dental models were analyzed before and after treatment.
+- Overjet and overbite changes were recorded.
+- Patient compliance was evaluated using self-reported wear-time records (for aligners).
+- Post-treatment stability was assessed over 12 months.
+
+Statistical Analysis: t-tests were used to compare outcomes between groups.
+
+Results
+
+The study compared the clinical effectiveness of clear aligners and fixed braces in treating Angle's Class III malocclusion. The treatment duration and patient compliance were significantly better in the aligner group. Patients treated with aligners completed their treatment in an average of 18 ± 3 months, whereas those treated with braces required 22 ± 4 months (p < 0.05). Additionally, compliance was notably higher in the aligner group (92%) compared to the braces group (75%), indicating greater patient satisfaction and adherence to treatment.
+
+Regarding skeletal and dental changes, braces were superior in correcting skeletal discrepancies, as evidenced by the greater improvement in ANB angle (1.5° vs 0.8°, p < 0.05). Overjet correction was comparable between the groups (3.2 mm for aligners vs 3.8 mm for braces, p > 0.05). Post-treatment stability was slightly better in the braces group, with 5% of patients requiring adjustments, compared to 10% in the aligner group requiring refinement aligners.
+
+Table 1. Treatment duration and compliance in Aligners vs Braces
+Parameter | Aligners (n=25) | Braces (n=25) | P
+Average Treatment Duration (months) | 18±3 | 22±4 | <0.05
+Compliance Rate (%) | 92% | 75% | <0.05
+
+Table 2. Skeletal and dental changes in Aligners vs Braces
+Parameter | Aligners (Mean±SD) | Braces (Mean±SD) | P
+Overjet Change (mm) | 3.2±0.5 | 3.8±0.4 | >0.05
+ANB Angle Correction (°) | 0.8±0.3 | 1.5±0.5 | <0.05
+Need for Refinements (%) | 10% | 5% | >0.05
+
+Discussion
+
+The findings of this study suggest that clear aligners and fixed braces offer comparable outcomes for dental alignment in mild to moderate Class III malocclusion cases. However, fixed braces remain superior in achieving skeletal corrections, making them the preferred choice for cases with significant mandibular prognathism or skeletal discrepancies.
+
+Treatment efficiency and compliance
+One of the key advantages of aligners observed in this study was a significantly shorter treatment duration. Aligners completed treatment in 18 ± 3 months, whereas braces took 22 ± 4 months (p < 0.05). The ability of aligners to digitally preplan tooth movement and apply forces in a controlled manner contributes to this efficiency. Additionally, compliance was significantly higher in aligner patients (92%) compared to braces (75%). This aligns with previous studies that have shown that patients prefer removable and esthetic appliances, leading to higher adherence to treatment protocols.
+
+Skeletal vs dental changes
+Despite the benefits of aligners in shortening treatment duration and improving compliance, braces demonstrated greater skeletal modification. The ANB angle improved by 1.5° in braces patients compared to 0.8° in aligner patients (p < 0.05). This can be attributed to the continuous forces exerted by braces, which facilitate skeletal adaptation better than the intermittent forces of aligners. Studies have indicated that Class III patients often require maxillary protraction and mandibular restriction, which are better achieved with traditional orthopedic or fixed appliance approaches.
+
+Post-treatment stability
+Another key aspect analyzed in this study was post-treatment stability. Aligners showed a slightly higher relapse tendency, with 10% of patients requiring refinement aligners, compared to 5% of braces patients needing minor adjustments. This could be due to the intermittent force application in aligners, which may not provide the same level of stability as fixed braces. However, post-treatment retention strategies, such as bonded retainers or long-term night-time aligner wear, can mitigate this risk.
+
+Clinical implications
+These findings indicate that clear aligners can be an effective alternative for treating mild to moderate Class III malocclusion cases, particularly for patients prioritizing esthetics and comfort. However, for patients with severe skeletal discrepancies, fixed braces should remain the first choice due to their ability to achieve better skeletal corrections and long-term stability.
+
+Conclusion
+
+This study compared the clinical outcomes of clear aligners and fixed braces in Class III malocclusion treatment. Aligners demonstrated shorter treatment duration, higher patient compliance, and comparable dental corrections, making them a viable option for mild to moderate cases. However, braces provided significantly better skeletal modifications, emphasizing their superiority in managing skeletal discrepancies. Post-treatment stability was slightly better with braces, although aligners showed higher patient satisfaction. While aligners are effective for dental alignment, braces remain the gold standard for severe Class III cases requiring skeletal correction. Future longitudinal studies are needed to assess long-term stability in both modalities.
+
+Conflicts of interest
+There are no conflicts of interest.
