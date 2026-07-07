@@ -3220,6 +3220,11 @@ tags: []
 - [[infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr]] — SR (63 studies): electrolyzed water effective broad-spectrum disinfectant for dental surfaces/materials/equipment incl. SARS-CoV-2; BMC Oral Health 2022
 - [[infection-control/samaranayake-2024-dental-unit-waterlines-disinfection]] — Narrative review: DUWL biofilm contamination origins, decontamination methods (physical/chemical/automated), regulatory compliance; Int Dent J 2024
 
+### Three-way (air/water) syringe water & aerosol contamination — batch 2026-07-07
+- [[infection-control/dang-2022-assessment-microbiota-diversity-dental-unit]] — Cross-sectional (60 DCUs, 350 culture + 16S of air/water syringe water): median 166 CFU/mL (0–3.8M), only 42.6% <100 CFU/mL; Proteobacteria >85%, 7 pathogens (Pseudomonas 31%, Acinetobacter 7.6%); flushing NS before/after (suck-back reseeds); PeerJ 2022
+- [[infection-control/ji-2018-three-key-factors-influencing-bacterial]] — Cross-sectional 6-yr survey (318 DCUs, 64 hospitals, handpiece+air/water syringe output): only 56.14% compliant, 78.93% no disinfection, peak 1.8×10⁵ CFU/mL; 3 key factors = disinfection frequency · feed-water source · valid anti-retraction valve; Int Dent J 2019 (abstract-only)
+- [[infection-control/dudding-2022-clinical-observational-analysis-aerosol-emissions]] — Prospective clinical (41 pts, APS 0.5–20 μm + phantom controls): 3-in-1 air+water syringe aerosolises 75.3% of use time (air 24.8%, water-only 0%) but aerosol is instrument/waterline-derived (non-salivary) — only high/slow drilling gave salivary aerosol (P<0.002); PLoS One 2022
+
 ### Healing abutment reuse controversy (single-use vs reuse) — batch 2026-07-03
 - [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] — SR (6 observational studies, >300 used HAs): routine methods may not fully remove contaminants, but NO reported adverse clinical consequences; avoid *indiscriminate* reuse until more evidence; J Prosthodont (2019)
 - [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]] — SR (8 studies): steam autoclave most common; NO protocol achieved 100% virgin surface; thorough decontamination + resterilization recommended before reuse; JDR CTR (2021)
