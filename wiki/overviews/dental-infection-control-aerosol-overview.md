@@ -2,7 +2,7 @@
 title: "치과 감염관리 — 멸균·수관·에어로졸 종합 (Dental Infection Control: Sterilization / Waterlines / Aerosols)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-01
+date: 2026-07-07
 doi: N/A
 source: N/A
 category: overviews
@@ -16,7 +16,8 @@ tags: [infection-control, sterilization, disinfection, dental-unit-waterlines, d
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - **논지**: 치과 감염관리는 서로 다른 물리·생물학을 가진 **세 전선(front)** 으로 나뉜다 — ①기기·표면 멸균/소독 (Spaulding 분류 기반), ②치과 유니트 수관 (Dental Unit Waterline, DUWL) 바이오필름 오염, ③에어로졸 발생 술식 (Aerosol-Generating Procedure, AGP) 의 생물학적 에어로졸(bioaerosol) 확산. 위키 보유 5편(멸균 리뷰 1, 전해수 SR 1, DUWL 리뷰 1, bioaerosol 리뷰 1, AGP 합의문 1)으로 이 세 축을 종합한다.
+> - **논지**: 치과 감염관리는 서로 다른 물리·생물학을 가진 **세 전선(front)** 으로 나뉜다 — ①기기·표면 멸균/소독 (Spaulding 분류 기반), ②치과 유니트 수관 (Dental Unit Waterline, DUWL) 바이오필름 오염, ③에어로졸 발생 술식 (Aerosol-Generating Procedure, AGP) 의 생물학적 에어로졸(bioaerosol) 확산. 위키 보유 8편(멸균 리뷰 1, 전해수 SR 1, DUWL 리뷰 1+실측 연구 3, bioaerosol 리뷰 1, AGP 합의문 1)으로 이 세 축을 종합한다.
+> - **DUWL 신규 실측 근거(3편)**: ①Ji 2018 (6년 318개 DCU): 규정 준수율 56.14%, 3대 관리 인자 = 소독 주기·급수원·역류방지밸브. ②Dang 2022 (60개 DCU, 16S 시퀀싱): 중앙값 166 CFU/mL, 42.6%만 기준 만족, 쓰리웨이 시린지 출수에 슈도모나스(Pseudomonas)·아시네토박터(Acinetobacter) 등 병원체 검출, 역흡입(suck-back)이 세정 효과를 상쇄. ③Dudding 2022 (41명, 15시술): 쓰리웨이 시린지가 사용시간 75.3%에서 에어로졸 발생하나 **크기분포가 비타액성 기구 발생원과 일치** — 시린지 에어로졸은 DUWL 수질이 감염 위험을 결정하며 타액 에어로졸과는 별개.
 > - **전선 1 — 멸균/소독**: 세척이 항상 멸균·소독에 선행해야 하며(유기물이 미생물을 차폐), 자동 세척소독기는 >7-log₁₀ 감소로 수기보다 재현성 우월. Spaulding: 비critical=저수준, semicritical=고수준(글루타르알데히드 2%·OPA·과산화수소·과초산), critical=멸균 (Patiño-Marín 2025, narrative-review).
 > - **멸균 검증**: 생물학적 지시계 (Biological Indicator, BI) 가 WHO·ADA·CDC가 인정하는 유일한 방법 — 오토클레이브는 *Geobacillus stearothermophilus*, 건열은 *Bacillus atrophaeus*, UVC/감마는 *B. pumilus*. 검사 빈도 ADA/CDC 주간. **멸균 실패의 1차 원인은 인적 오류**(교육·유지보수 부족) → 직원 교육이 최고 수율 개입 (Patiño-Marín 2025).
 > - **전선 2 — DUWL 바이오필름**: 급수 <100 CFU/mL여도 핸드피스 출수는 바이오필름 탈락으로 **100,000–1,000,000 CFU/mL** 까지 상승. 좁은 관경(높은 표면적/부피)·정체(야간·주말)·PVC/폴리우레탄 재질이 증폭 (Samaranayake 2024, narrative-review).
@@ -77,6 +78,9 @@ Clinical bottom line: (3) AGP aerosol — air turbine disperses ~1000× the bact
 | Instrument & surface sterilization/disinfection | [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] | narrative-review | Cleaning-first; Spaulding levels; BI is the only accepted verification (method-specific spores); human error is the dominant failure mode → training is highest-yield |
 | Emerging chemical disinfectant (surfaces/DUWL/materials) | [[infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr]] | sr | 63 studies: EW broad-spectrum antibacterial/antifungal/antiviral; DUWL kill up to 98.1% ≈ glutaraldehyde; high risk of bias (NPQIP 35.18%) |
 | Dental unit waterline biofilm & management | [[infection-control/samaranayake-2024-dental-unit-waterlines-disinfection]] | narrative-review | Feed <100 → output up to 10⁶ CFU/mL; CDC ≤500 CFU/mL; *Legionella* 12% / *Pseudomonas* 8%; multi-modal (engineering + procedural + chemical + automated) control required |
+| DUWL 6-year survey — 3 key control factors | [[infection-control/ji-2018-three-key-factors-influencing-bacterial]] | cross-sectional | 318 DCUs, 64 hospitals, 6yr; compliant 56.14%; 3 key factors: disinfection frequency, feed-water source, anti-retraction valve |
+| DUWL microbiota diversity & suck-back pathogen | [[infection-control/dang-2022-assessment-microbiota-diversity-dental-unit]] | cross-sectional | 60 DCUs, 16S rDNA; median 166 CFU/mL, only 42.6% ≤100; Proteobacteria >85%; Pseudomonas 31%, Acinetobacter 7.6%; suck-back reintroduces oral pathogens |
+| Air/water syringe aerosol source fingerprinting | [[infection-control/dudding-2022-clinical-observational-analysis-aerosol-emissions]] | prospective | n=41 patients, 15 procedures; three-way syringe aerosol 75.3% of use time but matches instrument (DUWL) source, not salivary — DUWL water quality governs infection risk |
 | Bioaerosol physics & airborne transmission | [[dental-handpiece/allison-2024-bioaerosols-airborne-transmission-dental-clinic]] | narrative-review | Air turbine ~1000× quiet-breathing CFU; <5 µm cut-off invalid (100 µm suspendable, >2 m); 3-tier control hierarchy + PPE with effect sizes |
 | AGP control/mitigation consensus | [[dental-handpiece/ghoneim-2024-aerosol-generating-procedures-control-mitigation]] | consensus | 78 studies: eyewear+mask+face-shield PPE, HVE/suction/rubber dam, ventilation+filtration; mouthrinses limited vs SARS-CoV-2 (abstract-only) |
 
@@ -98,6 +102,16 @@ A practical three-front infection-control checklist grounded in the held papers:
 - [ ] If using electrolyzed water or another emerging biocide, weigh its low-RoB evidence and confirm material compatibility; keep verifying output counts.
 - [ ] Log DCU service/maintenance vs manufacturer schedules; automated systems still need manual oversight.
 
+**Front 2b — Air/water (three-way) syringe: a distinct DUWL sub-risk**
+
+Three new papers specifically characterize the three-way (air+water) syringe:
+
+- **Ji 2018**: syringe output water contained the highest contamination among DCU waterlines in their 6-year survey; the three identified control levers — periodic disinfection, cleaner feed water, functioning anti-retraction valves — are the same as for the general DUWL, but syringe suck-back mechanism means anti-retraction valve function is especially critical.
+- **Dang 2022**: 16S sequencing of syringe output confirmed Pseudomonas (31%), Acinetobacter (7.6%), and 5 other potential human pathogens; median 166 CFU/mL with a long right tail (up to 3,816,000 CFU/mL); **flushing did not reliably lower counts** because suck-back reintroduced oral fluid-borne microorganisms between patients, depositing them into the line.
+- **Dudding 2022**: clinical observational fingerprinting (particle size distribution) showed the three-way syringe generates aerosol 75.3% of its use time (air component; water-only = zero aerosol); crucially, the size distribution matched a **non-salivary instrument source** — unlike high-speed drilling, which produced unexpected salivary aerosol. This means syringe aerosol risk is determined by **DUWL water quality, not patient saliva** — a fundamentally different infection-control priority.
+
+> **Clinical implication**: the three-way syringe is both an aerosol generator and a direct waterline-to-patient contact point. Anti-retraction valve function, verified chemical disinfection, and per-patient flushing are mandatory; treating syringe aerosol as equivalent to drill aerosol (i.e., applying rubber dam logic) misidentifies the source.
+
 **Front 3 — Aerosol-generating procedures**
 - [ ] Reduce production: prefer an electric micromotor over the air turbine where clinically acceptable, especially if rubber dam is impossible.
 - [ ] Reduce load at source: apply rubber dam (↓ up to 99% at 1 m) whenever appropriate + a pre-procedural mouthrinse (↓ 33–94% bacterial; limited vs SARS-CoV-2).
@@ -110,6 +124,9 @@ A practical three-front infection-control checklist grounded in the held papers:
 - [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] — sterilization/disinfection framework, BI verification, sterile storage
 - [[infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr]] — electrolyzed water as broad-spectrum disinfectant (surfaces, DUWL, materials)
 - [[infection-control/samaranayake-2024-dental-unit-waterlines-disinfection]] — DUWL contamination origins, thresholds, tiered decontamination
+- [[infection-control/ji-2018-three-key-factors-influencing-bacterial]] — 6-year survey: 3 key DUWL control factors (disinfection, feed water, anti-retraction valve)
+- [[infection-control/dang-2022-assessment-microbiota-diversity-dental-unit]] — 60 DCU 16S sequencing: syringe microbiota diversity, suck-back mechanism, Pseudomonas/Acinetobacter
+- [[infection-control/dudding-2022-clinical-observational-analysis-aerosol-emissions]] — air/water syringe aerosol fingerprinting: DUWL-derived (not salivary), 75.3% of use time
 - [[dental-handpiece/allison-2024-bioaerosols-airborne-transmission-dental-clinic]] — bioaerosol physics, transmission, 3-tier control hierarchy + PPE
 - [[dental-handpiece/ghoneim-2024-aerosol-generating-procedures-control-mitigation]] — CDHA/ADHA AGP mitigation consensus (PPE, HVE, ventilation, mouthrinses)
 - [[overviews/dental-handpiece-bur-selection-overview]] — handpiece/bur selection overview covering air-turbine aerosol dominance and HVE mitigation
