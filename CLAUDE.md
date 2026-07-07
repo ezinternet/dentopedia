@@ -307,6 +307,8 @@ Required content of the section:
 - 1–2 sentences explaining *why* this paper was ingested now (gap, conflict, new evidence, requested by user, related to current clinical case, etc.)
 - At least one `[[wiki/category/stem]]` wikilink to an existing wiki page that this paper reinforces, contradicts, or extends.
 
+**Wikilink lookup MUST use `qmd query` (MCP tool) — never `grep`, `find`, or `ls` over wiki/.** With 2,600+ pages, filesystem scan is slow; qmd hybrid search returns relevant candidates in under 1 second.
+
 Example:
 ```
 ## Why Ingested
@@ -412,6 +414,8 @@ Design: `agenda/2026-05-31_supersession-decay-setup.md`.
 ### `relations:` — typed entity edges (optional field)
 
 `[[wikilinks]]` encode *that* two pages relate; they don't encode *how*. The `## Why Ingested` section already states the relationship in prose ("X를 보강", "Y로 확장", "Z와 대비"). Lifting that into a structured frontmatter block turns overview synthesis from a cold start (re-read every page to infer relationships) into a warm assembly (the typed graph is already there). `superseded_by` is intentionally NOT part of this — it has its own audited field and banner.
+
+To find `target` stems, use `qmd query` — do NOT scan wiki/ with grep/find. Example: `qmd query "PDRN bone regeneration"` returns the top candidate stems in under 1 second.
 
 Optional block on the **citing (newer) page**, pointing out to the pages it relates to:
 
