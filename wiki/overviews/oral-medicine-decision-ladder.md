@@ -226,3 +226,9 @@ OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 �
 - [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — 문헌고찰 (45 RCT, 2013–2023): 비약물치료(LLLT·오메가-3·천연 점막부착젤)가 스테로이드 못지않거나 우월, LLLT가 day-1 통증완화 최속. 축 5 RAS 비약물 옵션 확장. (narrative-review, 2025)
 - [[oral-medicine/jkda-2022-60-4-001]] — Observational study (KUMC Halitosis Clinic, n=246): 생리적 구취 진단 환자의 questionnaire·dietary·타액 검사 분석. 한국 환자 특성·진단·예방 protocol 기반. (cross-sectional, 2022)
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 시술 후 발생한 악골 골흡수가 cyst로 오인된 사례 — CBCT 진단 framework, 환자 history-taking 중요성. (case-report, 2025)
+
+## Evidence Update — Desquamative Gingivitis: Pharmacological Management SR (Bandara 2025)
+
+Bandara 2025 (PROSPERO-registered SR, 15 studies: 2 RCTs + 5 NRCTs + 8 observational, Jan 1990–Dec 2023; MMAT mean 5.57/7) systematically reviewed pharmacological treatment of desquamative gingivitis (DG), a clinical presentation associated with OLP (88–98%), mucous membrane pemphigoid (MMP), and pemphigus vulgaris (PV). **Confirmed first-line agents**: clobetasol propionate 0.05% (8/15 studies — significant pain and lesion-severity reduction) and tacrolimus 0.1% (4/15 studies). Topical agents are well tolerated (mild transient adverse effects). Systemic agents carry higher risk: sulphamethoxazole-pyrimethamine (SMXP) caused haemolysis; immunosuppressants caused anaemia/alopecia. **Adjuncts**: PRP and propolis/nano-vitamin E gel showed promising results with no reported AEs. For patients presenting with DG, confirming the underlying diagnosis (OLP vs MMP vs PV) via biopsy guides systemic escalation decisions.
+
+- [[oral-medicine/bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr]] — SR: clobetasol 0.05% and tacrolimus 0.1% confirmed first-line for DG; systemic agents carry meaningful AE risk; PRP/propolis as adjuncts.
