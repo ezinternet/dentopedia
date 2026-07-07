@@ -1,0 +1,16 @@
+Three key factors influencing the bacterial contamination of dental unit waterlines: a 6-year survey from 2012 to 2017
+Ji XY, Fei CN, Zhang Y, Liu J, Liu H, Song J. Int Dent J. 2019;69(3):192-199 (e-pub 2018-12-19).
+DOI: 10.1111/idj.12456 | PMID: 30565215 | PMCID: PMC9379084
+
+NOTE: PMC full text returned empty via get_full_text_article; page built from the structured abstract (abstract-only).
+
+ABSTRACT
+Background: Contaminated output water from dental unit waterlines (DUWLs) is a potential risk to both patients and dental personnel frequently exposed to this water or aerosols.
+Aim: To evaluate the contamination level and prevalence of bacteria in the output water of DUWLs, and to identify key factors to provide technical support for formulating relevant policies.
+Methods: A special sampling connector was developed for collecting dental handpiece output water and a measurement device to assess retraction of a dental chair unit (DCU). Output water from dental handpieces and air/water syringes were collected as representative of DUWLs. Water samples tested with reference to China's national standard.
+Results: From 2012 to 2017, 318 DCUs randomly selected from 64 hospitals in Tianjin, China. Of these DCUs, 78.93% had NO disinfection to prevent DUWL contamination. 343 (56.14%) samples complied with the guidelines on DUWL output water. The highest bacterial concentration was 1.8 × 10⁵ CFU/mL. The three key influencing factors were:
+  1. Daily or weekly disinfection of DUWLs.
+  2. Water supply source being hospital self-made purified water or purchased purified bottled water.
+  3. DCU with a valid anti-retraction valve.
+Potential infectious agents isolated included Bacillus cereus, Burkholderia cepacia and Pseudomonas aeruginosa.
+Conclusions: High rate of contamination in DUWLs, highlighting the need to develop national standards. Need to disinfect DUWLs periodically and use a cleaner source of water; more attention should be paid to the efficacy of DCU anti-retraction valves.
