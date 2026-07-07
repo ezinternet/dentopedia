@@ -148,3 +148,9 @@ The clinical implication is a staged approach: screen for past negative dental e
 
 - [[behavioral-dentistry/motivational-interviewing/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve]] — Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs … (sr, 2023)
 - [[behavioral-dentistry/motivational-interviewing/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes]] — SR+MA of 7 RCTs (n=474; 6 in meta-analysis) found NO significant difference between motivational interviewing and standard oral health instruction on … (sr+ma, 2024)
+
+## Evidence Update — CRO vs PRO Discordance in Periodontal/Implant Aesthetics (Tonetti 2025)
+
+Tonetti 2025 (EFP expert consensus, Florence January 2025; 40 experts from 12+ countries; 5 commissioned SRs) examined patient-reported outcome measures (PRO/PROM) in three clinical scenarios: gingival recession defects (GRD), peri-implant buccal soft-tissue dehiscences (PSTD), and implant placement with soft-tissue augmentation (STA). A systematic discordance emerged: **superior root coverage (CAF+CTG)** produces high clinician-rated aesthetic scores (CRO) but does **not** correspondingly improve patient-perceived aesthetics. The only scenario with concordant PRO+CRO improvement is PSTD treated with STA (CTG under CAF), where both clinician and patient aesthetics improve together. This consensus-level finding has direct implications for patient counseling before aesthetic periodontal surgery: root coverage outcomes should be framed as functionally and periodontally beneficial, not as automatically delivering the esthetic satisfaction patients anticipate.
+
+- [[behavioral-dentistry/patient-reported-outcomes/tonetti-2025-aesthetics-patient-reported-outcomes-consensus]] — EFP consensus: CAF+CTG improves CRO but not PRO; patient-perceived aesthetics and clinician scores diverge — counsel patients accordingly.
