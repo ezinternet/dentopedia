@@ -87,3 +87,9 @@ Bioactive modification with calcium-phosphate (Ca/P) nanofiller improves reminer
 - [[caries-detection-remineralization-overview]] — GIC 불소·Ca/P 재광화 연결
 - [[glass-ionomer/tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr]] — 생체활성 개질 축
 - [[overviews/dental-materials-decision-ladder]] — 상위 재료 선택 사다리
+
+## Evidence Update — Ion-Releasing Restoratives: Polymerization Stress and Hygroscopic Expansion Kinetics (Sokolowski 2018)
+
+Sokolowski 2018 (in vitro photoelastic + ISO 4049, 10 ion-releasing polymeric restoratives: RMGIC, compomers, giomers; 30 min to 84 days) tracked polymerization contraction stress and hygroscopic expansion over time. All 10 materials showed water sorption gradually relaxing initial polymerization contraction — consistent with the clinically valued stress-absorption property of GIC-family materials. Four materials showed complete stress reversal to net expansion, generating radial pressure against cavity walls (potentially beneficial marginal seal or a marginal stress concern depending on interpretation). Ionosit compomer had the highest water sorption (~3 wt%) and produced the highest sustained radial pressure at 56 days. The absolute stress range (6.2–21.4 MPa) across materials indicates clinically meaningful variation in marginal behavior. This bench data supports selecting lower-expansion materials when cuspal integrity is a concern.
+
+- [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — photoelastic study: water sorption relaxes polymerization stress in all ion-releasing materials; 4 materials reverse to net expansion; Ionosit highest water sorption + sustained radial pressure.
