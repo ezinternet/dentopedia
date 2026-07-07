@@ -222,3 +222,9 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 - 축 3 graft 비교 = [합의수준] (재료 간 큰 차이 없음이 metaphor적으로 robust).
 - 축 4 membrane/flap/seal = [근거강함] (SR+MA + 장기 prospective).
 - 한국 가용성·비용 = [미검증]+[claude해석].
+
+## Evidence Update — Minimally Invasive Implant Bone Regeneration: Three Emerging Techniques (Porczyk 2026)
+
+Porczyk 2026 (narrative review, JCM, PubMed 2000–2026) appraised three minimally invasive implant bone regeneration approaches organized by defect morphology and biologic priority. Evidence hierarchy: (1) **Bone Core Technique** — strongest dedicated evidence (prospective study, n=186, ≥5y follow-up); used for predictable localized horizontal defects with simultaneous implant placement; (2) **SPAL (Sub-Periosteal Peri-implant Augmented Layer)** — biologically plausible concept for dehiscence/fenestration correction but evidence limited to retrospective cases and one histologic report; (3) **IDR (Immediate Dentoalveolar Restoration)** — protocol relies on the broader immediate implant literature without protocol-specific validation. All three are minimally invasive alternatives to conventional open-flap GBR with shorter healing and lower morbidity, but evidence quality remains insufficient for routine recommendation of SPAL or IDR.
+
+- [[bone-regeneration/porczyk-2026-minimally-invasive-bone-regeneration-implant]] — narrative review: Bone Core Technique (strongest, n=186, ≥5y) > SPAL (retrospective only) > IDR (no dedicated RCTs).
