@@ -1,0 +1,46 @@
+Title: Management of Instrument Sterilization Workflow in Endodontics: A Systematic Review and Meta-Analysis
+Authors: Mario Dioguardi, Diego Sovereto, Gaetano Illuzzi, Enrica Laneve, Bruna Raddato, Claudia Arena, Vito Carlo Alberto Caponio, Giorgia Apollonia Caloro, Khrystyna Zhurakivska, Giuseppe Troiano, Lorenzo Lo Muzio
+Journal: International Journal of Dentistry, 2020, Article ID 5824369
+DOI: 10.1155/2020/5824369
+PMID: 32148504
+PMCID: PMC7035513
+Source: PubMed Central (PMC), open access
+
+Abstract:
+Endodontic treatment consists of different working procedures, such as the isolation of the operating field, pulp chamber access, and cleaning and shaping phases with at last the need of a three-dimensional filling of the canals. Each step requires a series of single-use or sterilizable instruments. We have performed a systematic review of different sterilization and disinfection procedures aiming at drawing up a disinfection and sterilization procedure to be used on endodontic instruments. A search on PubMed and Scopus was carried out using the following keywords: "endodontic sterilization," "endodontic autoclave," "decontamination dental bur," "sterilization dental burs," and "gutta-percha points sterilization." Eligible articles were included in the qualitative and quantitative analysis. Results of the meta-analysis showed that the most effective method in sterilization is autoclaving. The qualitative analysis showed that the use of single-use or first-use instruments requires presterilization or sterilization procedures, and for reusable tools, attention must be paid to the removal of debris deposited on the blades, not easy to remove manually.
+
+Full Text:
+
+1. Introduction
+
+Endodontics is a section of odontology that examines all the pathologies affecting the vital and necrotic dental pulp. Instruments can be either disposable or reusable through sterilization processes. Reusable instruments can be a source of infection for the professional, and if sterilization and disinfection procedures are not correct, patients may be exposed to an infectious risk too. The sterilization methods range from autoclaving at temperatures between 121° and 135°, the use of 2% glutaraldehyde, the use of sterilization glass bead, to dry heat sterilization.
+
+The question addressed: Which are the methods described in the literature that guarantee the maximum sterility compatibly with the clinical use of endodontic instrumentation? Through this review, the authors aim at determining which disinfection and sterilization procedures are the most effective and up-to-date in the endodontic field in order to determine the most efficient procedure to identify instruments no longer suitable to be reused or sterilized.
+
+2. Materials and Methods
+
+PRISMA-guided systematic review. Works taken into consideration: peer reviews, original researches, clinical studies (systematic), and reviews related to endodontic sterilization conducted over the last 40 years, published in English (search window: last 40 years, corresponding to the rise of high-performance autoclaves and NiTi alloys, plus recognition of AIDS/hepatitis C/prion disease).
+
+Search on PubMed and Scopus (22 Jan 2019 – 1 Feb 2019, update 4 Feb 2019): "endodontic sterilization" (PubMed 316, Scopus 236); "endodontic autoclave" (PubMed 37, Scopus 50); "decontamination dental burs" (PubMed 11, Scopus 6); "sterilization dental burs" (PubMed 60, Scopus 25); "gutta-percha cones sterilization" (PubMed 27, Scopus 24); "gutta-percha points sterilization" (PubMed 12, Scopus 14).
+
+Quantitative analysis compared: (1) autoclaving vs chemical sterilization (glutaraldehyde); (2) chemical sterilization (glutaraldehyde) vs glass-bead sterilizers. Screening by two independent reviewers (κ = 0.675), third/fourth reviewer arbitration. Newcastle-Ottawa scale for risk of bias. Review Manager 5.3 for meta-analysis.
+
+3. Results
+
+845 records identified (PubMed + Scopus) → 761 after year-of-publication restriction → 130 eligible after screening/dedup. First outcome (autoclave vs glutaraldehyde): Kumar et al., Raju et al., Venkatasubramanian et al., Hurtt and Rossman. Second outcome (glutaraldehyde vs glass-bead): Hurtt and Rossman, Raju et al., Venkatasubramanian et al.
+
+Meta-analysis: autoclave vs glutaraldehyde — low heterogeneity (I²=0%), fixed-effects model; result favors autoclaving. Glutaraldehyde vs glass-bead — heterogeneity I²=73%, random-effects model; result favors glutaraldehyde over glass-bead.
+
+4. Discussion
+
+Autoclaving is the best sterilization method for endodontic instruments based on both qualitative and quantitative synthesis. Key workflow phases identified: (1) cleansing/disinfection (presterilization) — ultrasonic bath, washer-disinfectors, manual scrubbing, plasma cleaning; ultrasonic tray outperforms manual removal and containerized instruments (≈5% higher cleanliness for non-containerized instruments in ultrasonic bath); (2) disinfection of root canal filling materials (gutta-percha/resin cones cannot be autoclaved — heat alters them) — sodium hypochlorite (2–5.25%, 5–10 min) and chlorhexidine (2%, 1–2 min) are primary methods, peracetic acid (1–2%, 2.5–5 min) is a valid alternative, glutaraldehyde requires 8–12 h and is highly toxic (not recommended for outpatient use); (3) sterilization proper — autoclaving at minimum 120°C for ≥30 min is the most efficient method for total destruction of bacteria/viruses/spores; UV light (240–280 nm) is ineffective for hollow/shadowed surfaces; glass-bead sterilization (45 s at 240°C) is ineffective; CO2 laser sterilization comparable to autoclave, superior to chemical sterilization, but rarely used clinically; (4) burs — nonsterile as supplied by manufacturers, autoclaving is the most effective sterilization system, ultrasonic/washer-disinfectors alone cannot remove all detritus between the blades.
+
+Prions: only partially inactivated by standard sterilization/disinfection. WHO-suggested prion inactivation (NaOCl 20,000 ppm for 1 h, or 1M NaOH heating for 1 h, or autoclaving under vacuum at 121°C for 30–90 min with NaOH) is impractical for routine dental clinic use due to corrosivity/mechanical damage and timing.
+
+Mechanical/physical effects of sterilization on endodontic files: conflicting evidence on cyclic fatigue and torsional resistance changes with repeated autoclaving; NiTi files may show improved fatigue resistance after autoclaving (thermal treatment effect) while steel files show reduced torsional resistance and cutting capacity after repeated cycles. Cutting capacity reduction: 20% of instruments after 7 autoclave cycles in one study; 1–12% reduction with 5–10 cycles in another. Recommend limiting NiTi instrument reuse to no more than 5 autoclave cycles.
+
+Proposed protocol: classify instruments as disposable/first-use vs reusable. New/disposable shaping instruments still need decontamination (ultrasonic tray or washer-disinfector with non-aggressive disinfectants, avoiding low-concentration hypochlorite due to micropitting) before first clinical use because manufacturing leaves metal/carbon residues and possible bacterial contamination. Reusable metal instruments: clean/decontaminate → rinse/dry → package → autoclave ≥120°C for ≥30 min; limit reuse to ≤5 cycles for NiTi. Non-autoclavable single-use materials (gutta-percha/resin cones): disinfect with NaOCl 2–5.25% (5–10 min) or chlorhexidine 2% (1–2 min) or peracetic acid 2% (5 min); rinse with distilled water or alcohol afterward to remove chlorine crystals. Glutaraldehyde discouraged for outpatient dental use (toxicity, 8–12 h exposure needed).
+
+5. Conclusions
+
+Autoclaving is confirmed as the most effective and clinically appropriate sterilization method for endodontic (and by extension general dental) reusable instruments. Chemical sterilants (glutaraldehyde) and glass-bead sterilization are inferior alternatives with significant practical limitations (toxicity, time, incomplete sterility). Single-use root filling materials require chemical disinfection rather than heat sterilization. A structured presterilization cleansing workflow (preferably ultrasonic/washer-disinfector, not manual) is essential regardless of final sterilization method.
