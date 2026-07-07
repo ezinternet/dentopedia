@@ -1,0 +1,18 @@
+Title: Decontamination Methods Used for Dental Burs – A Comparative Study
+Authors: Sangameshwar Sajjanshetty, Deepa Hugar, Santosh Hugar, Shashi Ranjan, Megha Kadani
+Journal: Journal of Clinical and Diagnostic Research (JCDR), 2014, Vol 8, Issue 6, ZC39-41
+DOI: 10.7860/JCDR/2014/9314.4488
+PMID: 25121062
+PMCID: PMC4129327
+Source: PubMed abstract (PMC full text not retrievable via API — abstract-only)
+
+Abstract:
+Infection control and modes of sterilizations are the key factors to avoid cross transmission of infection in the field of dentistry. Transmission of disease or infection is noted with improper sterilization of reused instruments. Dental burs are the most important tool in any endodontic or conservative procedures of teeth involving tooth contouring, restorative filling procedures and endodontic procedures. Hence, the present study is undertaken to assess the efficacy of different methods of sterilization or decontamination which are routinely used in dental clinics.
+
+For the present study 96 round diamond burs were selected and divided into 6 groups. These burs were used for the access cavity preparation to get contamination and subjected for bacteriological culture. After getting base line data, burs were subjected to manual scrubbing, hot air oven, glass bead sterilizer, ultrasonic cleaner and autoclave to get post decontamination data.
+
+The study revealed that mean colony forming units/ml of Streptococcus mutans decreased maximum for autoclave with 80% reduction, for Lactobacilli 76% reduction, and for Candida albicans maximum reduction seen for glass bead sterilizer with 74%.
+
+Findings of our study revealed that none of the methods used were found to be absolutely efficacious in the decontamination of dental burs. However, among the experimental groups used in the present study, autoclave was found to be the relatively best method.
+
+Note: Full text body was not retrievable via the PubMed Central API for this article (empty response) — this source page is built from the structured abstract only (full_text: false). Key extractable data points: 96 round diamond burs, 6 experimental groups (manual scrubbing, hot air oven, glass bead sterilizer, ultrasonic cleaner, autoclave, and presumably a control/baseline), organisms assessed: Streptococcus mutans, Lactobacilli, Candida albicans, measured as CFU/mL reduction. Autoclave achieved the highest reduction for S. mutans (80%) and Lactobacilli (76%); glass bead sterilizer was best for Candida albicans (74% reduction). No method achieved complete/absolute decontamination — i.e., autoclaving alone does not guarantee sterility of dental burs without adequate presterilization cleaning, reinforcing the scope limitation that decontamination effectiveness is organism-dependent and no single reprocessing method is universally sufficient for all microbial challenges on complex-geometry instruments like burs.
