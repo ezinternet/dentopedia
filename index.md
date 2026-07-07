@@ -3267,6 +3267,7 @@ tags: []
 - [[overviews/implant-surface-molecular-basis-overview]] — **NEW Overview** (2편, 2026-07-07): 임플란트 표면 분자 기전 기초 — koshy-2015(표면처리 3분류: 첨가/제거/재질개질, Sa 1–2µm 최적, HA 박리 위험)+ballo-2011(산화 표면→CXCR4 11배 상향→SDF-1α 경유 MSC 모집). 기존 implant-surface-comparison 임상 결과의 생물학적 '왜' 근거 제공.
 - [[overviews/implant-bite-force-stability-short-implant-mbl-overview]] — **NEW Overview** (2편, 2026-07-07): 임플란트 저작력·ISQ 및 단임플란트 변연골 — mohammed-2026(n=235, 18mo: BF↔ISQ 양적 상관, 구치>전치 ISQ, 남>여 BF+ISQ)+lee-2009(n=40, 단임플란트 <10mm: 변연골소실 표준임플란트와 NS, C:I비 효과 1년 내 NS). 임플란트 길이보다 ISQ 궤적이 하중 예측 인자.
 - [[overviews/rep-scaffold-barrier-immature-tooth-overview]] — **NEW Overview** (2편, 2026-07-07): REP 지지체·차단재 선택 — alqedairi-2026(PRP/PRF > 혈병 치근단 두께; 치수감각 25–70% 불규칙)+li-2026(SR+MA: WMTA 방사선 성공 0.99 but 변색 58.33% vs 바이오세라믹 7.69% P=.01). 전치부 미성숙치 REP → WMTA 회피, Biodentine/TotalFill 권장.
+- [[overviews/implant-primary-stability-arp-macrogeometry-low-density-overview]] — **NEW Overview** (2편, 2026-07-07): 임플란트 1차 안정성 — ARP 부위(ko-2024: 이식 경계 초과 시 IT 2배 but 10주 ISQ 수렴 NS; ARP 내 ISQ ≥70 가능)+저골밀도 매크로형태(ayub-2025: in vitro, 테이퍼형 D3/D4 유리, IT↔ISQ 지표 의존적 역전). 골밀도가 지배적 결정인자.
 
 - [[wiki/orthodontics/clear-aligner/tang-2025-evaluating-the-effectiveness-of-clear]] — Retrospective: CoS leveling in extraction vs. non-extraction CAT (extraction penalty: 1.64× undercorrection)
 - [[wiki/orthodontics/clear-aligner/luo-2025-factors-of-alveolar-bone-changes]] — Retrospective CBCT (n=94): maxillary central incisor alveolar bone changes by tooth-movement pattern in extraction CAT
