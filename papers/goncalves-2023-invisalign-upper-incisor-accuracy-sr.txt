@@ -1,0 +1,137 @@
+Main Points
+
+• The accuracy of the tooth movements for the upper incisors ranged from 0% (when the teeth moved the opposite direction of the predicted movement) to 155.7% (when the achieved movement overcame the predicted one).
+
+• For axial movements, the lateral incisors showed highly accurate (i.e., predictable) movements, especially in the labiolingual tip.
+
+• For vertical movements, low accuracy was observed for intrusion, whereas the extrusion movement was proved to be highly accurate in both the central and lateral incisors.
+
+• For horizontal movements, the central incisors presented highly accurate movements, especially in translation.
+
+• Overall, the aligner showed good efficiency in reaching the desired movements in the upper incisors. Aligner features such as attachments and Power Ridge may be a good alternative to improve movement accuracy.
+
+INTRODUCTION
+
+Invisalign® clear aligners (Align Technology Inc, CA, USA) are widely used in orthodontics nowadays, mostly in adult patients due to the improvement on aesthetics and comfort, as well as on hygiene and periodontal control.Since its introduction in 1997 by Align Technology®, significant improvements were developed on the algorithms that can determine the necessary force systems to allow more accurate tooth movements.
+
+Some studies have been conducted to evaluate the movement accuracy (i.e., the predictability of the movement; the difference between achieved and predicted tooth position) with Invisalign® clear aligners, although yet sparce evidence exists on the topic. The current knowledge is quite limited, and conflicting results are reported among the existing data. Thereby, despite the officially reported ranges for movement efficacy reported by Invisalign®, they remain far from being consensual among orthodontic professionals. To address this issue, three systematic reviews evaluating the accuracy of Invisalign® clear aligners were published in the last five years.However, their conclusions were drawn regarding the type of movement instead of a specific tooth or tooth group. Accordingly, it is still difficult to assess specific clinical concerns such as those associated with upper incisors.
+
+Having this in mind, the authors performed an electronic literature search to collect all the published evidence about the application of Invisalign® clear aligner to produce tooth movement in the upper incisors. Thus, this systematic review summarizes, compares and discusses the findings of different studies describing the tooth movement promoted by Invisalign® clear aligner in the upper incisors, aiming to identify the most affective parameters used so far by the clinicians. It also highlights and compare the accuracy and efficiency of the mechanisms triggered along the treatment.
+
+METHODS
+
+This systematic review followed the Preferred Reporting Items for Systematic reviews and Meta-Analyses checklist.The protocol was registered in the PROSPERO database (CRD42020190272).
+
+Identification of Relevant Studies
+
+Articles that compare the predicted and achieved incisor movements and/or that evaluate the accuracy/efficiency of the movement during an orthodontic treatment to the upper incisors using Invisalign® clear aligner were included. Importantly, only papers published after 2010 were included, since 2009 marked the introduction of Invisalign® Smart Technology, that brought optimized features to the orthodontics community, namely, the SmartTrack material, SmartForce features (including the Invisalign Power Ridge®), and the SmartStage technology.The review strategy was lined up according to the Population, Intervention, Comparison, Outcomes, and Study design tool, as presented in.
+
+Thus, the aim of this systematic review is to answer the question: “What is the current knowledge on the accuracy of various tooth movements performed on maxillary incisors with Invisalign® clear aligners?”
+
+Information Sources and Search Strategy
+
+The database search plan was discussed among all authors, who decided to use the following databases: PubMed, LILACS, Scopus, Cochrane Library, and Web of Science. Given the introduction of optimized aligner features by Invisalign® designed to improve tooth movement accuracy in 2009, only studies published in or after 2010 were included in this review. Also, only papers written in English, French, Spanish, or Portuguese were considered. In addition, a manual search was also conducted in orthodontic journals of interest to refine the survey.
+
+The following search terms were used: (humans* OR adult* OR malocclusion* OR male* OR female*) AND (Invisalign OR clear aligners OR aligners OR transparent aligners OR orthodontic appliances, removable*) AND (cephalometry* OR orthodontic treatment OR treatment outcome*) AND (incisor* OR incisors).
+
+Study Selection and Data Collection
+
+Three reviewers (AG, AC and FM) independently selected the articles for analysis. In the case of disagreement, other authors (DM and TP) intervened. The same methodology was used to process the articles through the previously set criteria for inclusion and exclusion, after the duplicates were removed. References of selected articles were searched in detail to find potentially relevant studies.
+
+Data collected from each article included the authors, year of publication, study design and population, a type of intervention, and main results associated with the accuracy of tooth movement produced by Invisalign® clear aligner on upper incisors (). When possible, accuracy metrics were uniformized in percentage using the ratio between predicted and achieved movements/positions.
+
+Methodological Quality Assessment
+
+After data collection, two independent reviewers (AG and AC) evaluated the included studies according to the Risk of Bias in Non-randomized Studies - of Interventions (ROBINS-I) tool.This approach is based on seven bias domains: confounding, participants selection, classification of interventions, deviations from intended interventions, missing data, measurement of outcomes, selection of the reported results, and overall bias. Bias assessments were tabulated with explanations when the studies were downgraded. Since assessments are inherently subjective and there are no strict and objective criteria to judge bias within the ROBINS-I tool, disagreements were resolved via a discussion between the two investigators. Bias was assessed per study rather than per outcome since there were no meaningful differences in bias across outcomes.
+
+RESULTS
+
+Study Selection
+
+The electronic search initially identified 291 relevant articles. After 53 duplicate removal, 238 papers remained. Among these, 167 were excluded after title and abstract analysis. From these, 12 articles were selected for full-text reading, from which four studies were considered eligible for inclusion in the final analysis. One extra study was included from the reviewed literature, resulting in a total of five studies to be included in the current systematic review. The selection process is depicted in.
+
+Study Profile
+
+Five relevant publications were identified: four retrospective non-randomized studies, and one prospective non-randomized study. There were variations in the total sample size (range 20-38 patients), totalizing 612 movements under study with upper incisors.summarizes the main characteristics of the reviewed studies in a chronological order, enabling an intuitive comparison between the experiments and results.
+
+The intervention among studies is similar, as all of them focus on the comparison of the final with the initial virtual models of the oral cavity, and the Invisalign® system only was used. We emphasize the classification of the intervention with the aligner features (i.e., auxiliary elements such as attachments and Power Ridge) used, compliance, and duration of treatment.
+
+Accuracy results were written either as a mean accuracy percentage (i.e., ratio between achieved and predicted movements/positions), or as the average difference (mean ± standard deviation) between predicted and achieved tooth positions.Accuracy values greater than 100% mean that the achieved exceeded the predicted movement.However, accuracy was deemed 0% when the achieved movement was in the opposite direction of the desired one.Besides, different software was used to produce virtual models (e.g., ToothMeasure, Slicer CMF) to compare the predicted vs achieved tooth movement analysis.
+
+Assessment of the Risk of Bias
+
+Among the included studies, one was classified as having a low risk of bias (RoB)three as moderate RoB,and one study was scored with a serious risk of bias.See the complete data on the quality assessment in. RoB due to missing data was considered critical, as three studies excluded individuals and reported drop-outs with missing information.Besides, three studies presented insufficient accuracy metrics, hampering result comparison.
+
+Effects of intervention on different types of movement
+
+Four of five papers reported accuracy metrics of torque movement on upper confidence interval (CI).Accuracy percentages of CI ranged from 49.1% to 51.5%,while no information on accuracy percentages were provided for the LI. However, other authors reported a mean difference between predicted and achieved tooth positions of 1.75° ± 2.86° for the CI, and 0.08° ± 2.93° for the LI,showing great accuracy for the lingual torque in the LI.
+
+Regarding the labiolingual tip, the accuracy of the lingual tip ranged from 57.4% to 155.7%in the CI, and from 54.4% to 57.4% in the LI, while the accuracy for labial tip varied from 52.8% to 54.2% in the CI, and from 61.4% to 69.9% in the LI.
+
+The accuracy of the mesiodistal tip ranged from 45.5% to 57.5% on upper CI, and from 38.5% to 51.5% on upper LI.Interestingly, Haouili et al.found that the mesial tip was more accurate on the CI, while the tip in the distal direction showed more accuracy on the LI.
+
+Regarding the intrusion and extrusion movements, the accuracy reported by Haouili et al.ranged from 33.4% to 33.9% for the CI, and 36.7% to 44.6% for the LI. However, Charalampakis et al.observed that the vertical movement of intrusions initially predicted both for CI and LI were not accomplished, and the teeth moved toward the opposite direction (i.e., extruded). In these cases, the accuracy was deemed 0%. However, two studies reported highly accurate extrusion movements on upper CI, greater than predicted and therefore with accuracy values greater than 100%.Moreover, mean differences between predicted and achieved extrusion movements ranged from -0.50 ± 1.17 mm (accuracy of 142.4%)to 0.30 ± 0.28 mmfor the CI, which reflect high movement accuracy, and from 0.03 ± 0.26 mmto 1.36 ± 0.63 mm for the LI.
+
+The accuracy of the rotation movement ranged from 48.7% to 61.1% on CIand 41.8%to 66.2%on LI. Mean differences between predicted and achieved movements varied from 0.33° ± 2.80°to 2.33° ± 1.21° (accuracy of 57.2%)for the CI, whereas the same metrics for the LI ranged from 0.70° ± 3.23° to 3.10° ± 1.48° (accuracy of 66.1%),which is almost negligible and suggest a high accuracy.
+
+The accuracy of labial translation was assessed in two of the included articles.Dai et al.obtained a mean differences between predicted and achieved movements of 2.12 ± 1.51 mm (accuracy of 67.6%) performing labial translation of upper CI. However, Grünheid et al.observed a labial translation of 0.45 ± 0.64 mm and an even more accurate lingual translation of the LI of 0.01 ± 0.66 mm.
+
+Only two studies evaluated the mesiodistal translation of incisors; regarding the CI, Grünheid et al.reported a mean difference between predicted and achieved mesial translation of 0.06 ± 0.40 mm, while Dai et al.observed a difference of 0.24 ± 0.90 mm between predicted and final positions. Concerning the LI, average differences of 0.14 ± 0.39 mmand 0.26 ± 0.03 mm (accuracy of 78.9%)were obtained.
+
+DISCUSSION
+
+Since the creation of Invisalign® clear aligner, issues associated with the movements of the upper incisors have been reported, as they fail to reach the programmed positioning.This review identifies the major limitations of the revised studies, which constitute the current literature on orthodontic treatment using aligner in upper incisors. Nevertheless, multiple movements were assessed, for which a range of mean accuracy values is presented.
+
+Although poorly discussed among the revised studies, the aligner-wearing time is critical for movement accuracy and effectiveness. The Invisalign® treatment protocol recommends a daily use of the aligner of 22 h. Here, three of five papers do not report the instruction given to the patients concerning the aligner wearing time.However, the other two state that Invisalign® recommendations were followed.Importantly, Kravitz et al.described an individual case in which a patient with poor compliance to the aligner treatments (daily use of about 8 h/day) compromised the accuracy of premolar derotation. Thus, the wearing time seems to be a determinant for treatment succes; and therefore, future clinical studies using aligner must clearly describe the daily time recommended for the aligner usage.
+
+Moreover, it is important to evaluate the accuracy of the orthodontic treatments considering the use or not of aligner features. Here, only one study did not use any type of auxiliary,while three used attachments,and one used Power Ridge. Dai et al.referred that attachments and Power Ridge were rarely used to increase torque control. However, this study presented some of the greatest accuracy values for incisor lingual tip (155.7%), labiolingual translation (67.6%), and vertical movements (142.4%). Interestingly, the sample is presenting the lowest accuracy of incisor torque (49.1% and 51.5%) used either attachments or Power Ridge.Nevertheless, the overall data suggests an increased accuracy of most of the incisor movements considered in the reviewed studies when aligner features, such as Power Ridge and attachments, are used.
+
+Axial movements: torque and tip
+
+Three studies evaluated the clinical torque, either lingualand labial. However, in the studies led by Simon et al.and Grünheid et al., the exact definition of the term “torque” is not totally clear. Statistically significant differences between the predicted and achieved tooth positions were found in both. Accuracies are only reported by Simon et al., who studied the lingual torque movement: 49.1% (with horizontal ellipsoid attachment) and 51.5% (with Power Ridge). Note that, as reported by Simon et al.and Grünheid et al., the reference point was determined using the virtual crown positions. Therefore, these findings may need to be interpreted with caution, as one of them considers biomechanical torque evaluation.
+
+To notice, Haouili et al.excluded the torque measurement due to the absence of radiographs evaluating the labiolingual tip, while others have been assuming the clinical torque as labiolingual tip action Items.These findings illustrate the frequently misuse of the term “torque.” Even though, Haouili et al.found the highest value for labiolingual tip accuracy on LI (69.9%), although its small clinical crown has been reported as the main factor for loss of retention and movement failure throughout the treatment.
+
+Considering the labiolingual tip, the highest accuracy values were found for the lingual tip, with that of Dai et al.reporting a mean difference between predicted and achieved movement of -5.16° ± 5.92°, corresponding to an accuracy of 155.7%, since the achieved movement overcame the initially predicted. It should be emphasized that the later study evaluated the accuracy of incisors’ movement on a bicuspid extraction protocol.This rises clinical issues that might compromise the evaluation of the torque movement since, although Power Ridge has been used, torque control is more difficult to achieve due to the premolar extraction.
+
+Haouili et al.also found that the labiolingual tip presented high accuracy metrics, both for CI and LI. Interestingly, the lingual tip was found to be more accurate in the CI, while the labial tip presented higher accuracy values for the LI.
+
+Moreover, Haouili et al.also measured the accuracy of mesiodistal tip in the CI and LI. The authors found that the mesial tip was more accurate in the CI, whereas the distal tip presented higher accuracy in the LI. Similarly, Grünheid et al.reported the mean differences between predicted and achieved distal tip movements, and the results show that this movement was more accurate in the LI compared with the CI.
+
+Vertical movements: extrusion and intrusion
+
+Vertical movements are usually difficult to achieve, and therefore are often associated with low accuracy values, mainly with clear aligner.However, among the reviewed studies, tooth extrusion was the most accurate movement, with two different papers reporting accuracy values greater than 100% (i.e., where the achieved movement was greater than the predicted.Similarly, another study reported a mean difference between the predicted and achieved movement of 0.30 ± 0.28 mm, also revealing a great accuracy of the extrusion movement. Besides, Haouili et al.reported accuracy values from 44.5 to 56.4% for CI, and 47.1 to 53.7% for LI, which reflects a good accuracy of the desired movement. Even though, in the referred study, a statistically significant difference between predicted and achieved tooth positioning was found for CI, but not for LI.
+
+In contrast, the accuracy of the intrusion movements among the included studies was typically low and, in some cases, null; specifically, Charalampakis et al.found that the CI and LI for which an intrusion movement was predicted actually moved toward the opposite side (i.e., extruded), and thus the accuracy of the movement was considered to be 0%. However, Haouili et al.observed that incisors intrusion ranged from 33.4 to 33.9% in the CI, and 36.7 to 44.6% in the LI. Among the movements studied in the work led by Haouili et al., intrusion presented the lowest accuracy values.
+
+Despite the development of optimized attachments to improve aligner grip for a more reliable intrusion, the attachment hierarchy might interfere with its placement and with the movement. Moreover, data from Charalampakis et al.reveal that an extrusion movement was achieved when the intrusion was programmed. The authors reported that, although tooth superimposition was based on unmovable teeth, the bite-block effect promoted some molar intrusion and it was responsible for the opposite movement observed.For the same reason, the extrusion movement achieved was over the expected,in line with what was reported by Dai et al.
+
+Horizontal movements: rotation, mesiodistal, and labiolingual translation
+
+Regarding horizontal movements, translations presented higher accuracy than rotations. The greatest accuracy was found for mesiodistal translation - 78.9% for the CI and 77.2% for the LI.Then, lingual translation also presented good accuracy values, with the only study reporting an accuracy percentage of such movement stating an accuracy of 67.6%.
+
+Additionally, mesial and distal rotation movements ranged from 48.7% to 61.1% for CI and 41.8% to 66.2% for LI.Overall, the accuracy of mesiodistal rotation is similar comparing LI and CI. However, a lower accuracy of LI rotation could be expected due to the small clinical crown, which consequently allows a small distance between the point of application of the forces that generates smaller moments.
+
+Overall, horizontal movements presented high accuracy metrics, with the efficiency of body movements (i.e., translation) being greater than the rotation. Specifically, the higher accuracy of rotation movement on the upper CI compared to the LI can be explained by their flat morphology. Despite the aligner material innovations, these findings are not surprising since labial and lingual tooths provide larger surfaces for the appliance to apply forces.
+
+Study Limitations
+
+Very few articles have met the objective of this systematic review. As a result, a rigorous methodology for researching the biases of each selected study has been implemented. Importantly, this literature review only covers articles describing studies using clear aligner on the upper incisors and published from 2010 till the present, since 2009 marked a great innovation regarding optimized features in Invisalign aligner - the introduction of Invisalign Smart Technology.Within this period, no randomized clinical trials exist on the topic. This means that no randomized experiments were ever performed on the accuracy and efficiency of tooth movements performed on maxillary incisors since the introduction of optimized aligner features. Future efforts in the field must have this into account.
+
+Among the included studies, few samples for each incisor movement were available. Additionally, inconsistent accuracy metrics were presented among the studies; only one study reported the complete data about the predicted and achieved tooth positions,another study reports mean accuracy percentages without the predicted and achieved raw data,others provide the average difference between predicted and achieved tooth positions,while some present the maximum and minimum accuracy values.This really hampers the comparison of the reported results, disabling a supported and constructive search for the best orthodontic parameters. To improve comparability, when possible, the achieved and predicted movement metrics were converted into an accuracy percentage.
+
+Overall, accuracy values of orthodontic movements of the upper incisors found in the literature are difficult to interpret and cross compare. Here, we uniformized the accuracy metrics reported and compiled the accuracy data (achieved vs predicted ration) into an easy-to-read and systematic table. We expect that future reports could present a complete descriptive analysis of the data, providing different accuracy metrics.
+
+CONCLUSION
+
+Within the limitations of this systematic review, the most important conclusions to be highlighted in the current systematic review are:
+
+The accuracy of the tooth movements for the upper incisors ranged from 0% (when the teeth moved the opposite direction of the predicted movement) to 155.7% (when the achieved movement overcame the predicted one).
+
+For axial movements, the lateral incisors showed highly accurate (i.e., predictable) movements, especially in the labiolingual tip;
+
+For vertical movements, low accuracy was observed for intrusion, whereas the extrusion movement was proved to be highly accurate in both the central and lateral incisors;
+
+For horizontal movements, the central incisors presented highly accurate movements, especially in translation;
+
+Overall, the aligner showed good efficiency in reaching the desired movements in the upper incisors. Aligner features such as attachments and Power Ridges may be a good alternative to improve the accuracy of movement.
