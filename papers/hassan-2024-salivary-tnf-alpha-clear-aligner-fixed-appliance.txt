@@ -1,0 +1,88 @@
+Assessment of salivary tumor necrosis factor-alpha level in the initial stages of treatment with fixed appliances and clear aligners
+
+Hassan S, Shetty M, Shetty S, Naik R.
+Journal of Orthodontic Science. 2024;13:15.
+DOI: 10.4103/jos.jos_81_23 | PMID: 38784076 | PMCID: PMC11114450
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+
+Objectives: To assess and compare the tumor necrosis factor-alpha (TNF-α) levels in saliva samples during the initial stages of orthodontic treatment with fixed orthodontic appliances (FAs) and clear aligners (CAs).
+
+Materials and Methods: This longitudinal study comprised 40 patients (22 males, 18 females, mean age 22 ± 7 years) who were categorized into two equal-sized groups. Group A comprised 20 patients treated with FA, and Group B comprised 20 patients treated with CA. Unstimulated saliva was collected before the initiation of treatment and then again after the placement of the FA/CA at 24 hrs, 7 days, and 21 days in both groups. TNF-α levels were determined through ELISA.
+
+Statistical Analysis: For intragroup comparison of TNF-α at different time points, the Wilcoxon matched-pairs signed-rank test was used, and for intergroup comparison of FAs and CAs at different time points, the Mann-Whitney U test was used.
+
+Results: TNF-α levels in the saliva increased significantly at 24 hours, followed by a decline on the 7th day and 21st day in both groups. Changes in TNF-α levels were significantly higher in the FA group than those in the CA group at different time points.
+
+Conclusion: This study showed that the salivary TNF-α levels increased significantly during the initial stages of FA and CA treatment at different time points. The mean salivary TNF-α level in both FA and CA groups increased significantly at 24 hours, followed by a decline on the 7th day and then on the 21st day. There was a significant difference between the FA and CA treatment, where the CAs showed a significantly low level of TNF-α in saliva at different intervals of time when compared to the FAs.
+
+=== FULL TEXT ===
+
+Introduction
+
+During orthodontic treatment, external stimuli are exerted on the teeth, causing an inflammatory response in the periodontal tissue. Biological processes associated with alveolar bone resorption and apposition are triggered by these inflammatory mediators.
+
+One such cytokine, tumor necrosis factor-alpha (TNF-α), is of particular importance in orthodontic tooth movement as it is an early modulator of bone resorption and is detectable in the gingival sulcus. TNF-α, also known as cachectin, is a polypeptide cytokine produced by macrophages and monocytes. TNF-α functions as a potent pyrogen and further acts as a multipotent modulator of immune response. Several studies have attempted to determine the levels of cytokines during orthodontic tooth movement. Lowney et al. reported elevation of TNF-α due to orthodontic force. This cytokine is produced primarily by macrophages and activated monocytes and also by osteoblasts and is an activator of osteoclastic bone resorption.
+
+The use of saliva is a simpler and non-invasive method than the assessment of serum and urine in the dental office. Studies have shown that saliva could be used as a fluid for the assay of human biomarkers of bone turnover.
+
+Nowadays, clear aligners (CAs) are in demand as a comfortable and aesthetic alternative to fixed orthodontic appliances (FAs). CAs work like any other orthodontic appliance — they apply pressure, which gradually moves the teeth and remodels the supporting bone. Studies assessing the treatment efficiency of CAs at the tissue and cellular level are limited. Thus, this study aimed to identify and compare the salivary TNF-α levels in the CAs and FAs during the initial stages of orthodontic treatment.
+
+Materials and Methods
+
+Subjects
+
+In this longitudinal study, 40 patients (22 males, 18 females, mean age 22 ± 7 years) requiring orthodontic treatment were consulted and selected. Patients having mild to moderate crowding (1–6 mm of crowding) according to Little's irregularity index were included. Patients were categorized into two groups: Group A (20 patients treated with FAs) and Group B (20 patients treated with CAs). Ethical clearance was obtained from the Institutional Review Board and Ethical Committee. Informed consent was obtained from patients and parents/guardians.
+
+Inclusion and exclusion criteria
+
+Included: mild to moderate crowding per Little's irregularity index; healthy periodontal tissue; probing depth ≤3 mm in the whole dentition; no history of oral-cavity surgery; no history of systemic diseases; no history of childhood debilitating diseases; no use of anti-inflammatory drugs, steroids, or antibiotics in the past 3 months. Excluded: poor periodontal status, systemic diseases, or other medications.
+
+Clinical procedure
+
+Unstimulated saliva was collected using the draining method — patients swallowed first, then tilted their head forward and expectorated all saliva into a plastic cup within 10 minutes. The first sample was collected before appliance placement (T0), and subsequent samples were collected after placement at 24 h (T1), 7 days (T2), and 21 days (T3).
+
+Preparation of collected salivary samples
+
+Saliva was centrifuged at 3000 rpm for 10 minutes to separate cells and large macromolecules. The supernatant was collected and used for biomarker analysis. Samples were stored at -20°C until analysis.
+
+TNF-α assay
+
+TNF-α levels in saliva samples were evaluated in both FA and CA groups (TNF-α as a salivary biomarker of bone turnover). Concentration was determined using ELISA (Weldon Biotech, India).
+
+Statistical analysis
+
+Data were analyzed using SPSS (version 20.0). For intragroup comparison of TNF-α at different time points, the Wilcoxon matched-pairs signed-rank test was used; for intergroup comparison of FAs and CAs at different time points, the Mann-Whitney U test was used. Significance was set at p ≤ 0.05.
+
+Results
+
+Mean values and SD of salivary TNF-α were calculated at T0, T1, T2, and T3 in the FA and CA groups. Following appliance placement, the mean salivary TNF-α level increased and peaked at T1, with values of 51.51 pg/mL (FA) and 43.29 pg/mL (CA), followed by a decline at T2 and T3. The Mann-Whitney U test indicated significant differences between the two groups at T1, T2, and T3 (p=0.0102, 0.0500, 0.0490 respectively), but not at T0 (p=0.6502).
+
+Table 1 — Mean salivary TNF-α (pg/mL) by group and time point:
+- T0: FA 43.32 ± 7.35; CA 41.93 ± 6.51 (p=0.6502, ns)
+- T1: FA 51.51 ± 7.38; CA 43.29 ± 6.07 (p=0.0102*)
+- T2: FA 49.79 ± 7.64; CA 42.97 ± 5.96 (p=0.0500*)
+- T3: FA 48.68 ± 7.66; CA 41.97 ± 6.03 (p=0.0490*)
+
+Intergroup Mann-Whitney comparisons of change (Table 2): differences between FA and CA groups were statistically significant for T0-T1, T0-T2, T0-T3, T1-T2, and T1-T3 (all p<0.01), but not for T2-T3 (p=0.7624).
+
+Intragroup Wilcoxon comparisons — FA group (Table 3): significant increases/differences between T0-T1, T0-T2, T0-T3, T1-T2, and T2-T3 (all p<0.01), except T1-T3 was borderline (p=0.0059, still reported significant in the abstract's summary table).
+
+Intragroup Wilcoxon comparisons — CA group (Table 4): significant differences between T0-T1, T0-T2, T1-T2, T1-T3, and T2-T3 (all p<0.05-0.01), except T0-T3 was not significant (p=0.9594).
+
+Discussion
+
+Orthodontic tooth movement occurs via remodeling of the alveolar bone as a result of force exerted on the periodontium. A cell-free hyalinized zone occurs on the pressure side of the periodontal ligament; necrosis in this zone is mediated by osteoclasts originating from neighboring tissues. On the tension side, osteoblasts participate in bone apposition. Demand for CAs has increased significantly in recent years due to greater comfort and aesthetics; however, literature examining bone metabolism with CA use is scarce.
+
+Proinflammatory cytokines such as TNF-α play an important role in bone and root resorption, recruiting inflammatory cells and mediating bone resorption by stimulating interleukin-1 and granulocyte-macrophage colony-stimulating factor (GM-CSF), inhibiting bone collagen synthesis, inducing collagenases, and stimulating osteoclast differentiation in the presence of GM-CSF.
+
+Lowney et al. reported TNF-α elevation attributed to orthodontic force. Saadi et al. studied salivary TNF-α changes during orthodontic tooth movement, finding an increase at 24 h followed by a decline at 1 and 2 weeks, with the highest statistically significant difference — consistent with the present study's T1 (24 h) increase. TNF-α is produced primarily by activated monocytes and macrophages, but also by osteoblasts, and is an activator of osteoclastic bone resorption.
+
+Basaran et al. explored TNF-α and IL-1β changes during leveling and distalization, finding baseline concentrations increased on days 7 and 21. The present study similarly found salivary TNF-α peaked at T1 (24 h after appliance placement) in both FA and CA groups, followed by decline at T2/T3 — plausibly reflecting early upregulation of chemotactic activity directly after continuous mechanical force application, consistent with prior work.
+
+Karacay et al. examined TNF-α changes during two canine distalization techniques (hybrid retractor vs rapid canine distalization), finding heavy force caused rapid TNF-α release with a prolonged tissue response. Similarly, in the present study, rapid and increased TNF-α production occurred because FAs cause more pain, pressure, and tension than CAs — the latter exerting intermittent force, allowing tissue reorganization before compressive forces are reapplied.
+
+Conclusion
+
+Tooth movement in humans is accompanied by an increase in TNF-α levels. Salivary TNF-α increased significantly during the initial stages of both FA and CA treatment at different time points, peaking at 24 h and declining by day 7 and day 21. There were significant differences between FA and CA treatment, with FAs producing significantly higher salivary TNF-α levels at different time points compared with CAs.
