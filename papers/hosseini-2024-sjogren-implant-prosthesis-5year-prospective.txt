@@ -1,0 +1,70 @@
+Prognosis of Single Implant‐Supported Prosthesis in Patients With Primary Sjögren's Syndrome: A Five‐Year Prospective Clinical Study
+
+Hosseini M, Jensen SS, Gotfredsen K, Hyldahl E, Pedersen AML
+Clinical Oral Implants Research 2024;36(1):51-63
+DOI: 10.1111/clr.14356
+PMID: 39235273 | PMCID: PMC11701955
+
+ABSTRACT
+
+Background: Primary Sjögren's syndrome (pSS) is a chronic systemic autoimmune disease characterized by hyposalivation. Currently, there is limited evidence for the prognosis of dental implant treatment in Sjögren's syndrome.
+
+Aim/Hypothesis: We hypothesized comparable clinical outcomes of implant‐supported restorations in pSS‐patients and control subjects, and improvement in oral health‐related quality of life 5 years after restoration.
+
+Material and Methods: Patients with pSS and matched (age, gender, and tooth region) control group were recruited between June 2016 and March 2020. The clinical and radiological examination were performed, and patient‐reported oral health impact profile (OHIP‐49) questionnaire was used 2 months (baseline), 1, 3, and 5 years after prosthetic treatment.
+
+Results: We included 23 patients with pSS and 24 matched control subjects (all women, mean age: 57.1 years). The overall DMFT (decayed‐missed‐filled‐tooth) was significantly higher (p = 0.008), symptoms of dry mouth were more severe (p = 0.001), and unstimulated and chewing‐stimulated saliva flow rates were significantly lower (p < 0.001) in pSS than in control group. All implants survived with no implant mobility. At implant sites, the plaque index and probing depths did not differ (p = 0.301 and 0.446, respectively), but the gingival index was significantly higher (p = 0.003) in pSS than control group. The mean marginal bone loss, prosthetic complications, and clinician‐reported aesthetic outcomes were similar in both groups after 5 years. The OHIP scores were significantly higher in the pSS than control group (p < 0.001) but reduced significantly in both groups (p = 0.026).
+
+Conclusion: Replacement of missing single teeth with dental implants was successful in patients with pSS 5 years after restoration.
+
+1. Introduction
+
+Sjögren's syndrome (SS) is a chronic systemic autoimmune disease of unknown etiology characterized by lymphocytic infiltration of exocrine glands leading to gradual glandular dysfunction, primarily of the salivary and lacrimal glands. Keratoconjunctivitis sicca and hyposalivation are prominent disease manifestations resulting in symptoms of dry mouth (xerostomia) and dry eyes. SS occurs in a primary (pSS) and secondary (sSS) form. In pSS, the autoimmune disease occurs alone, and in sSS, it is present in conjunction with another autoimmune rheumatic disease, for example, rheumatoid arthritis. It mainly affects women (90%) at an average age of 55 years. The estimated prevalence varies between 0.03% and 0.77%.
+
+Patients with pSS have an increased risk of developing dental caries and oral candidiasis due to persistent hyposalivation, despite good oral hygiene and frequent dental follow-up visits. pSS is not associated with an increased risk of developing periodontitis, and tooth loss mainly appears related to caries and its complications. Patients with pSS often complain of oral mucosal soreness, difficulties with chewing and swallowing, and impaired or altered taste perception, affecting nutrition intake. Patients wearing removable dentures often have difficulties retaining dentures and typically develop mucosal ulcerations and denture stomatitis. Hyposalivation therefore often has a significant negative impact on quality of life, general health status, and social activities.
+
+Based on the recognized difficulties in wearing removable dentures and the risk of caries in tooth-supported prosthetic restorations, implant-supported restorations have been considered an alternative to replace missing teeth in patients with SS. However, as SS is an autoimmune disease there may be concerns regarding sufficient healing and osseointegration and subsequently risk of implant failure. There are several systematic reviews, retrospective studies, and case reports on dental implant treatment in SS patients, but the number of prospective studies is very limited and there are no long-term follow-up studies including a matched control group. An early 2-year follow-up study of 8 patients with full-arch implant-supported prostheses found 7 implants in 4 patients not osseointegrated at abutment procedure, and 2 more implants lost osseointegration during the first year. A recent prospective multicenter trial of single-tooth implants in pSS and sSS reported promising clinical outcomes up to 18 months after superstructure placement.
+
+We hypothesized that biological outcomes (marginal bone loss, probing pocket depths) and technical/aesthetic outcomes of implant-supported restorations were comparable in pSS patients and control subjects up to 5 years after prosthetic rehabilitation, and that treatment increases whole saliva flow rates and improves oral comfort and oral health-related quality of life.
+
+2. Material and Methods
+
+Prospective clinical study with 5-year follow-up (research protocol ID: H-3-2014-032, approved by the Research Ethics Committee of the Capital Region of Denmark; STROBE-consistent). Participants recruited June 2016-March 2020, followed until October 2023, at the Department of Oral and Maxillofacial Surgery and Department of Odontology, Copenhagen University Hospital / University of Copenhagen. Of 293 pSS patients screened, 50 were eligible for initial examination; final cohort after exclusions: 23 pSS patients and 24 matched (age, gender, edentulism region) control subjects without SS.
+
+Inclusion required pSS patients to fulfill ≥2 of 3 2002 AECG criteria (anti-SSA/Ro and/or anti-SSB/La or rheumatoid factor + ANA titer ≥1:320; labial salivary gland biopsy focus score ≥1; keratoconjunctivitis sicca staining score ≥3); patients also retrospectively complied with 2016 ACR-EULAR criteria.
+
+Surgical procedure: bone-level implants (Straumann Bone Level Roxolid) placed by 2 maxillofacial surgeons under prophylactic antibiotics and local anesthesia; healing abutment for transmucosal healing; evaluated after 3 months. Prosthetic procedure: screw-retained (n=42) or cemented (n=5) single crowns on customized titanium abutments (Straumann Variobase), by 2 prosthodontists.
+
+Follow-up examinations at 2 months (baseline, T0), 1 year (T1), 3 years (T3), and 5 years (T5). Outcomes: interview/VAS for dry mouth and dry eye symptoms; unstimulated (UWS) and chewing-stimulated (SWS) whole saliva flow rates (draining method; hyposalivation defined as UWS ≤0.1 mL/min, SWS ≤0.7 mL/min; normal range UWS 0.3-0.4 mL/min, SWS 1.5-2.0 mL/min); biological outcomes (implant survival, marginal bone loss via periapical radiographs, modified plaque index, sulcus bleeding index, probing pocket depth (PPD), peri-implantitis/mucositis per Berglundh criteria, implant success per Albrektsson criteria: MBL <1.5 mm first year, <0.2 mm/year thereafter); technical complications (screw loosening, ceramic fracture, marginal fit); clinician-reported aesthetic outcome via Copenhagen Index Score (CIS, 1=best to 4=poorest); patient-reported outcomes via Danish OHIP-49.
+
+Statistics: nonparametric Brunner-Langer model for longitudinal main effects/interactions; Mann-Whitney with Bonferroni correction for pairwise comparisons; alpha = 0.05.
+
+3. Results
+
+All 47 participants were women, mean age 57.1 ± 12.6 years (range 23-74). Follow-up retention: T0 100% (23 pSS/24 control), T1 22/22, T3 18/22 (1 pSS patient died), T5 21/19.
+
+pSS patients had significantly more comorbidities (57% vs 16%, p=0.004), medication use (78% vs 33%, p=0.002), and allergies (57% vs 25%, p=0.028) than controls.
+
+DMFT was significantly higher in pSS than control throughout follow-up (p=0.008), unchanged over time (p=0.100). Available space facio-lingually was significantly lower in pSS (p=0.027), without effect on marginal bone loss (p=0.122).
+
+Dry mouth/eye symptoms (VAS) were more prevalent and severe in pSS (p=0.001): mean oral dryness VAS in pSS was 7.9±1.7 (T0), 8.2±1.5 (T3), 7.4±2.2 (T5) vs control 0.1±0.1 (T0), 0.6±1.4 (T3), 1.6±2.9 (T5).
+
+Unstimulated whole saliva flow rate in pSS: 0.05±0.07 (T0), 0.05±0.09 (T3), 0.04±0.06 mL/min (T5) vs control 0.40±0.30, 0.35±0.32, 0.22±0.15 mL/min. Chewing-stimulated flow rate in pSS: 0.49±0.54, 0.52±0.66, 0.71±0.78 mL/min vs control 1.50±0.77, 1.91±1.14, 2.02±0.79 mL/min. pSS patients had significantly lower UWS and SWS than controls at all timepoints (p<0.001); pSS values were consistently in the hyposalivation range while controls were within normal range.
+
+Biological outcomes: All implants survived, no mobility. Overall dental plaque index did not differ between groups (T5: 45.7±37% vs 39.5±35.8%, p=0.362); implant plaque index did not differ (p=0.301) but decreased over time (p=0.001). Overall gingival index was significantly higher in pSS (T5: 15.5±20.4% vs 3.4±7.6%, p<0.001); implant-site modified gingival index also significantly higher in pSS (p=0.003), stable over time (p=0.461). Mean PPD at implants did not differ significantly between groups at any timepoint (T0: 2.72±1.06 vs 2.31±0.76, p=0.540; T3: 3.19±0.87 vs 2.70±0.80, p=0.225; T5: 2.93±0.62 vs 2.62±0.49, p=0.446). Mean MBL from T0 to T5: -0.04±0.36 mm (pSS) vs -0.23±0.60 mm (control), p=0.685 between groups; decreased significantly over time overall (p=0.011). 5-year implant success rate (by Albrektsson MBL criteria) was 100% in both groups. One control-group implant developed peri-implantitis at T1 (attributed to localized herpes zoster), successfully treated with resolution by T3/T5. No other biological complications.
+
+Technical outcomes: At T3, 4 abutment loosenings (2 per group), 2 crown loosenings (control only). At T5, 3 ceramic fractures (1 pSS, 2 control). No significant between-group difference in technical complications (p=0.241). No difference in marginal adaptation of crowns (p=0.367); no cement remnants detected.
+
+Clinician-reported aesthetic outcomes (CIS): harmony/symmetry scores were higher (less optimal) in pSS than control (p<0.001), stable over time (p=0.584). Crown morphology, crown color match, mucosal discoloration did not differ (p=0.053, 0.659, 0.976 respectively). Mesial papilla index did not differ (p=0.071) but improved over time (p=0.004); distal papilla index was significantly higher in pSS (p=0.019), stable over time (p=0.304).
+
+Patient-reported outcomes (OHIP-49): Overall OHIP scores significantly higher (worse) in pSS than control throughout follow-up (p<0.001), but improved significantly over time in both groups (p=0.026). Overall OHIP correlated with dry-mouth VAS (r=0.63, p<0.001). Aesthetic-outcome and masticatory-function OHIP subscales also significantly worse in pSS and improved over time in both groups.
+
+4. Discussion
+
+Clinical and radiological results of implant-supported restorations were similar between pSS and control after 5 years; single-implant treatment had no significant effect on whole saliva flow rates. OHRQoL improved in both groups after treatment but remained significantly worse in pSS throughout. Findings indicate dental implants are a safe and valid option for replacing missing teeth in partially dentate pSS patients — biological outcomes (survival, success, complication rate, MBL, PPD) did not differ from matched controls. All implants survived; only one control-group implant (not pSS) developed peri-implantitis, successfully treated. This aligns with a prior 18-month prospective study reporting slightly higher implant survival in pSS/sSS than unmatched non-SS patients, and a retrospective study (82% pSS) reporting 97% survival at 46 months. Restricting inclusion to pSS only (excluding sSS, which is often treated with immunosuppressants/biologicals for the concomitant autoimmune disease) likely explains the more favorable biological outcomes versus prior studies pooling pSS and sSS.
+
+Periodontal/peri-implant inflammation (bleeding on probing) was more severe and PPD slightly (non-significantly) higher in pSS despite similar plaque scores — plausibly explained by hyposalivation-related impaired oral clearance and microbial dysbiosis. The higher DMFT and dentition disharmony (harmony/symmetry CIS scores) in pSS likely reflect more restorations and extractions driven by hyposalivation and altered oral microbiota over the patients' lifetime, rather than an implant-treatment effect. Patients with pSS reported markedly more difficulty (OHIP) than controls despite comparable clinician-assessed outcomes — suggesting pSS patients' quality-of-life burden is driven more by hyposalivation-related symptoms (taste change, discomfort) than by the implant treatment itself.
+
+5. Conclusion
+
+Replacement of missing single teeth with dental implants was successful in patients with pSS in a 5-year perspective. Although pSS patients had markedly lower whole saliva flow rates, more oral symptoms, more comorbidities, and higher medication intake than matched controls, biological outcomes at implants (PPD, MBL) and technical/clinician-reported aesthetic outcomes did not differ between groups. Treatment with dental implants was also associated with significant improvement in oral health-related quality of life, though pSS patients remained significantly more affected than controls throughout follow-up. Limitations: small sample size, single-tooth implants only, variation in implant regions — interpret with caution.
