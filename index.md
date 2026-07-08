@@ -1619,6 +1619,7 @@ tags: []
 - [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — Viscuso 2025 · cross-sectional · 이탈리아 치과의 634명 중 29%가 PTTN을 모르고 대부분 비가역 치료로 오대응, 의뢰는 3명 중 1명뿐 (DOI 10.22514/jofph.2025.009)
 - [[oral-medicine/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — Jian 2024 · sr+ma · 탈리도마이드 21 RCT(1668명): 완전반응·재발간격 개선하나 부작용↑, major/난치성 RAS에 25mg/d 한정
 - [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — D'Amario 2025 · narrative-review · RAS 치료 RCT 45편: 비약물(LLLT·오메가-3·천연젤)이 코르티코스테로이드급 효과, LLLT 통증완화 최속
+- [[oral-medicine/mumcu-2021-oral-health-aetiological-behcet]] — Mumcu 2021 · narrative-review · 베체트병(BD) 구강 병인론: 치주상태 불량·치태축적이 중증도 매개(남성↑), 1개월 치주치료 개입 후 6개월 시점 재발궤양↓(초기 외상성 악화 후) (DOI 10.3389/fmed.2021.613419)
 - [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — Andriakopoulou 2024 · sr+ma · 소아암 구강점막염 34 RCT: 국소 꿀이 입원기간 단축(MD −4.33일), LLLT는 무효 (abstract-only)
 - [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — Braguès 2024 · sr · 소아 항암 구강점막염: 발생률↓ 클로르헥시딘·기간↓ 꿀·통증↓ 올리브유, 전반 근거 불충분
 - [[oral-medicine/mucositis/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — Hassanein 2025 · rct · L-아르기닌·L-글루타민 모두 방사선 구강점막염 중증도·통증·체중감소 감소, 아르기닌은 글루타민에 비열등
