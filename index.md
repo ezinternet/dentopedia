@@ -105,6 +105,7 @@ tags: []
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
 - [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — SR+MA (Malmö Univ, Medicina 2022): 흡연 + 임플란트 — 실패율과 MBL 모두 흡연자에서 유의하게 높음; 흡연이 implant 결과에 부정적 영향 확정.
 - [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
+- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — SR+MA (Clin Oral Implants Res 2026, PROSPERO CRD42024628116, 45편/44연구): 흡연자 임플란트 생존율(implant OR 0.40, patient OR 0.43), CBL +0.64mm, peri-implantitis 발생률 증가 — 가장 크고 최신인 종합 정량 근거; smoke-free/전자담배는 근거 불충분.
 - [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
 - [[implants/solderer-2019-removal-failed-dental-implants-revisited]] — Narrative Q&A review (Clin Exp Dent Res 2019, 취리히대, 34편): 실패 임플란트 제거 의사결정 — CTRT(역토크 래칫)를 1차 선택(4mm 잔존 골유착 임계값, >200 Ncm면 trephine 병용), piezo·laser·electrosurgery 비교, zirconia CTRT 금기, 재식립 생존율 71–100%.
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — 리뷰+증례 (Maxillofac Plast Reconstr Surg 2017, 전남대): 상악동 변위 임플란트 제거(retrieval) — 원인(과기공·잔존골<4mm), Caldwell-Luc→FESS→측방 골창, 확장 골창으로 제거+골이식+재식립 1회 동시 술식, 무증상이어도 제거 권고.
@@ -870,6 +871,7 @@ tags: []
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
+- [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — SR+MA (BMC Oral Health 2026, Ye, 14편/비흡연 성인 115,925명): 간접흡연(ETS) 노출과 치주염 OR 1.47 (95% CI 1.22-1.76), 치아상실은 무관; 코티닌 기반 평가가 자가보고보다 강한 연관성 — 능동 흡연 넘어 간접노출로 위험모델 확장.
 - [[periodontics/jkda-2025-63-11-005]] — Special issue (중앙보훈병원 치주과 송영우, JKDA 2025): 치주치료 EBM 권장사항 + 전신질환(CVD·DM) 연관성 강조 — 한국 임상 적용 framework
 - [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — DB-RCT (J Clin Periodontol 2026, PMC OA): probiotics adjunct to NSPT/SRP — PPD, BOP, CAL outcomes
 - [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Milinkovic 2025, RCT (n=38), 국소 피페라실린+타조박탐이 전신 아목시실린+메트로니다졸과 동등한 6개월 NSPT 임상 효과 확인
@@ -2138,6 +2140,7 @@ tags: []
 - [[overviews/regenerative-endodontics-rep-overview]] — 재생근관치료(REP) 종합 (2026-06-06 신설, 6편): REP ≈ MAP 생존율 97%, 치근 길이·벽 두께 REP 유의 우위; LPRF 비권장(재치료 실패); 1.5% NaOCl + 17% EDTA 2회 세션 표준; F.nucleatum·T.denticola·E.faecalis 100% 검출.
 - [[overviews/cold-plasma-endodontic-disinfection-synthesis]] — 냉대기압 플라즈마(CAP)/비열 플라즈마 근관소독 종합 (2026-06-19 신설, 7편): 40°C 이하 ROS/RNS로 E. faecalis 바이오필름 사멸·내성 비유발; 직접 ≥8–12분 성숙 바이오필름 완전 제거(Li 2015 0 CFU, Armand 2019 ~5.2 log); 위계 NaOCl·TAP > CAP > Ca(OH)₂·PDT·propolis, NaOCl/CHX 병용 시너지; 상아질 미세경도 불변; 유일 사람 RCT 파일럿(Lyu 2025 UDP vs 6% NaOCl, n=28) 4개월 통증·PAI 동등·부작용 0이나 과소검정.
 - [[overviews/peri-implantitis-management-overview]] — 임플란트주위염 역학·예방·치료 종합 (2026-06-06 신설, 7편): 환자 단위 유병률 19.5%; 점막염 관리 = 1차 예방; PMPR 금본위; 단일 제염 프로토콜 우위 없음; Lin 2025 플랫폼스위칭·원추형 연결·어버트먼트 ≥2mm·one-abutment-one-time MBL↓.
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — 흡연·담배제품 치주·임플란트 위험 종합 (2026-07-08 신설, 9편): 기전(Apatzidou 2022)→생존/MBL 수렴근거(Mustapha·Fan·Calciolari 2026 OR 0.40/CBL+0.64mm)→용량반응(Naseri 2020)→금연효과(Caggiano 2022)→막천공(Wang 2023 OR 1.58)→간접흡연(Ye 2026 OR 1.47)·전자담배 미생물총(La Rosa 2026, GRADE 매우낮음)·전자담배·무연담배 임플란트 근거공백(Calciolari 2026).
 - [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — synthesis(2026-06-21, 4편): SPiT는 고정 연 1회가 아닌 위험도 기반 개별화 recall(3~12개월)이라야 효과 — 진단 측정(탐침 ≤0.15 N·%BoP·방사선)이 주기를 산출, 그 recall이 PD −1.0~1.5 mm·BoP −10~25%p·임플란트주위염 40~70%↓ (Mojaver 25편); full-arch는 6개월 OH+≥연 1회 보철 제거(Lanzetti 11편, 저비뚤림 0); 방향 일관하나 메타분석 불가
 - [[overviews/cbct-diagnostic-performance-overview]] — CBCT 진단 성능·적응증 종합 (2026-06-06 신설, 25편): 외흡수 민감도 78%·특이도 79%; 근관치료 계획 24-56% 변경; 결과 추적 CBCT 불필요 가능성; 임플란트 선량 파노라마 2-200배; FOV·복셀 적응증별 선택 지침.
 - [[overviews/korean-dental-practice-management-overview]] — 한국 치과 개원 환경 종합 (2026-06-06 신설, 2편): 치과의사 연 2.39% 증가·지역 격차(2012-2022); 헌법재판소 결정례 카탈로그.
@@ -2773,6 +2776,7 @@ tags: []
 
 
 ## 구강미생물학 (Oral Microbiology) — NEW category (added 2026-06-07, batch j)
+- [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — SR (J Clin Periodontol 2026, La Rosa, 인체 연구 12편): 전자담배(vaping) 사용자 구강 미생물총 — 베타 다양성은 비흡연자와 일관되게 차이, Veillonella·Leptotrichia·Fusobacterium 증가 경향; GRADE 근거 매우 낮음, 흡연·비흡연 중간적 프로파일.
 - [[oral-microbiology/inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review]] — Inostroza 2025 · narrative-review (초록만): **S. mutans 콜라겐결합단백(SpaP·WapA·Cnm·Cbm)**의 역학생물학 — 상아질/ECM 부착·응집·독성 매개, AFM 단분자(SMFS)·단세포(SCFS) 힘분광법으로 특성화, 항바이오필름 우식예방 표적 (DOI 10.1080/1040841X.2025.2584074)
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — Narrative review cataloguing the molecular composition and functional roles of the dental plaque EPS matrix (carbohydrates ~20% dry wt, proteins, eDNA, lipids) in caries and periodontal disease (2021)
 - [[oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]] — Narrative review of oral microbiome community assembly, multi-omics methods, and polymicrobial networks driving caries, periodontitis, and systemic dissemination (2021)
