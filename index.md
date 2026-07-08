@@ -1626,6 +1626,7 @@ tags: []
 - [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — Andriakopoulou 2024 · sr+ma · 소아암 구강점막염 34 RCT: 국소 꿀이 입원기간 단축(MD −4.33일), LLLT는 무효 (abstract-only)
 - [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — Braguès 2024 · sr · 소아 항암 구강점막염: 발생률↓ 클로르헥시딘·기간↓ 꿀·통증↓ 올리브유, 전반 근거 불충분
 - [[oral-medicine/mucositis/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — Hassanein 2025 · rct · L-아르기닌·L-글루타민 모두 방사선 구강점막염 중증도·통증·체중감소 감소, 아르기닌은 글루타민에 비열등
+- [[oral-medicine/mucositis/petropoulou-2026-telemedicine-oral-complications-oncology-rct]] — Petropoulou 2026 · rct · 텔레메디신 RCT(105명, 아테네, 유방/폐/대장암 항암화학요법): 표준진료 대비 구강점막병소·치은출혈·치은염·우식·치주염 유의 감소, 칫솔질 빈도↑ (DOI 10.3389/fonc.2026.1774001)
 - [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Warnakulasuriya 2025 · narrative-review · 구강편평태선 환자는 당뇨·갑상선·셀리악·간염·우울/불안 위험 유의 상승, 무증상 많아 선별·의뢰 필요
 - [[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — García-Ríos 2022 · sr · SLE 구강증상 SR(15편): 구강궤양 최다(11/14편)·경구개 호발·타액분비저하/Sjögren 동반 흔함 (DOI 10.3390/ijerph191911910)
 - [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
@@ -1680,6 +1681,8 @@ tags: []
 - [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — Nonaka & Wong 2023 · narrative-review (JADA, Wong/UCLA): 침 진단 3축(살리바오믹스·침 엑소좀학·침 액체생검) + EFIRM 전기화학 센서로 폐암 EGFR ctDNA·SARS-CoV-2 침 검출; 침 20~30%가 혈장 단백질체와 중첩 (DOI 10.1016/j.adaj.2023.05.006)
 - [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]] — Li 2024 · narrative-review (Theranostics): 침 바이오마커(단백질·핵산·EV·대사체·전해질)×검출시스템(바이오센서·마이크로플루이딕·웨어러블 구강기기)×표준화 과제 종합; 침 MMP-9 OSCC 수술 후 588→132 ng/mL, 전기화학 PSA 센서 40 fg/mL (DOI 10.7150/thno.100600)
 - [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — Kim YJ 2023 · narrative-review (IJMS, 서울대 치대): 침 분비 세포 기전 GPCR(M3 mAChR)→IP3R→SOCE→AQP5 Ca²⁺ 축; 구강건조 유병률 10~50%(여성 30%·고령 50%↑), AQP5-KO 60%↓, FDA 완치약 없음 — 구강건조 mechanism anchor (DOI 10.3390/ijms24065358)
+- [[oral-medicine/alhejoury-2021-artificial-saliva-xerostomia-narrative-review]] — Alhejoury 2021 · narrative-review · 인공타액·타액자극제 실무 카탈로그: pilocarpine/cevimeline/anetholetrithione·전기자극기·타액펌프 등 xerostomia/SGH 대증요법 옵션 정리 (DOI 10.4103/jpbs.jpbs_236_21)
+- [[oral-medicine/sardellitti-2023-xerostomia-pharmacological-traditional-medicine-overview]] — Sardellitti 2023 · narrative-review · 10년(2012–2021) xerostomia 전신치료 개관: amifostine/항산화제·부교감흥분제·Sjögren 생물학적제제 모두 근거 약함·부작용 큼, 전통의학도 임상시험 부족해 검증 불가 — "임상 공백" 결론 (DOI 10.3390/curroncol30050336)
 
 ### Oral Medicine · Normal Variants (구강내과·정상변이병소)
 
@@ -2235,6 +2238,7 @@ tags: []
 - [[geriatric-dentistry/chan-2022-professionally-applied-fluoride-older-adults]] — Chan 2022 (SR+MA, HKU, 7편): 노인 근관면 우식 — 38% SDF 예방+정지(24개월 42%), NaF varnish 64%·APF 32% 예방 (위생사 적용)
 - [[geriatric-dentistry/kumar-2025-nutritional-status-dry-mouth-older-adults]] — Kumar 2025 (SR+MA, 14편): 노인 구강건조-영양실조 강한 연관(xerostomia 38%·malnutrition 55%)
 - [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]] — Halasabalu Kalgeri 2026 · narrative-review · 노인 다약제복용(≥5제, 유병률 30–44%)이 약물군별 기전(항콜린제 M3차단·베타차단제 Na-K-2Cl억제 등)으로 침분비저하·미각이상 동시 유발; 탈처방(deprescribing) 우선, 전신 sialogogue 상용 지양 (DOI 10.3389/fdmed.2026.1758771)
+- [[geriatric-dentistry/silva-2026-oral-health-alzheimers-disease-life-course]] — Silva 2026 · narrative-review · 알츠하이머병 구강건강 생애주기 review: 치주질환·근관치료치아우식·타액분비저하·외상성점막병소·의치합병증 흔함, AD-구강질환은 인과보다 노화·만성염증 공유(syndemic); 단계별(초기→진행) 관리+간병인 행동전략 (DOI 10.1111/scd.70179)
 - [[geriatric-dentistry/ponzo-2024-presbygeusia-narrative-review]] — Ponzo 2024 · narrative-review · 병리 없는 순수 노화성 미각저하(presbygeusia) 15편 관찰연구 중 12편이 실재 지지, 신맛·쓴맛 위주 저하하나 노인 식이선택 영향은 문화·심리요인이 더 큼 (DOI 10.1007/s40520-024-02739-1)
 - [[geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] — 전향적 코호트 (PURE, n=139,691, 17개국): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (HR) 1.16, 수축기혈압보다 강한 사망 예측인자 — 구강노쇠·신체노쇠 연결 근거
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
