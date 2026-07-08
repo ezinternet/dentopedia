@@ -1,0 +1,32 @@
+Title: Late recovery from foreign body sinusitis after maxillary sinus floor augmentation
+Authors: Felisati G, Saibene AM, Lenzi R, Pipolo C
+Journal: BMJ Case Reports
+Year: 2012 (published 2012-12-12)
+Volume: 2012
+PMID: 23234824
+PMCID: PMC4544220
+DOI: 10.1136/bcr-2012-007434
+Article type: Case Reports
+
+NOTE: PMC full text body was returned empty by the PubMed MCP full-text retrieval
+tool for this article (known gap for some BMJ/Springer-hosted PMC records — see
+llm-wiki deviation log, 2026-07-09). Only the structured abstract below was
+retrievable. This is the abstract-only source text for sources/wiki page authoring
+(full_text: false in frontmatter).
+
+ABSTRACT:
+
+A 55-year-old male patient was referred to our clinic with signs and symptoms of
+recurring sinusitis after a right maxillary sinus floor augmentation for
+implantological purposes. Investigations showed an antibiotic-resistant
+ethmoidomaxillary sinusitis resulting from bone graft infection and displacement
+of previously inserted xenograft material into the maxillary sinus. The patient
+thus underwent a surgical procedure combining nasal endoscopy and oral surgery in
+order to remove the infected graft and restore sinusal drainage. The procedure
+was apparently successful but sinusitis relapsed after surgery and persisted
+despite 2 weeks of antibiotic therapy and local medications. A CT scan showed
+persistence of grafting fragments in the maxillary sinus. A new surgical
+procedure was scheduled while a more accurate endoscopic local medication was
+performed. Six hours after the treatment, the patient spontaneously expelled the
+fragments and promptly recovered. The patient successfully underwent another
+maxillary sinus floor augmentation procedure 6 months later.
