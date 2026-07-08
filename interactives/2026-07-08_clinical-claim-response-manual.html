@@ -1,0 +1,450 @@
+<!--
+---
+title: "임상 클레임 대응 매뉴얼 — A·F·E"
+type: interactive
+date: 2026-07-08
+status: review
+category: patient-ops
+agenda: agenda/2026-07-08_clinical-claim-response-manual.md
+source_wiki:
+  - wiki/overviews/complaint-management-pipeline-classification-expectation-response-education.md
+  - wiki/complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics.md
+  - wiki/complaint-management/park-2016-analysis-of-malpractice-claims-associated.md
+  - wiki/complaint-management/kwon-2017-analysis-of-the-legal-effect.md
+  - wiki/complaint-management/grillo-2023-written-informed-consent-facial-cosmetic.md
+  - wiki/complaint-management/friele-2006-patient-expectations-fair-complaint.md
+  - wiki/complaint-management/friele-2015-complaint-handling-healthcare-expectation.md
+  - wiki/complaint-management/reader-2014-patient-complaints-healthcare-taxonomy.md
+  - wiki/complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint.md
+  - wiki/complaint-management/gillespie-2025-complaint-handlers-bind-defensive.md
+  - wiki/complaint-management/skar-2018-patients-complaints-healthcare-communication.md
+  - wiki/behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder.md
+tags: [claim-coach, complaint-management, clinical, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>임상 클레임 대응 매뉴얼 — A·F·E</title>
+<style>
+  :root{
+    --ink:#1c2024;
+    --paper:#f6f4ef;
+    --line:#d9d4c8;
+    --up:#2f5d62;
+    --down:#9c6b3f;
+    --pivot:#c0392b;
+    --muted:#6b6b63;
+    --card:#fffdf9;
+    --a:#2f5d62;
+    --f:#8a5a9e;
+    --e:#c0392b;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;
+    color:var(--ink); background:var(--paper);
+    line-height:1.65; font-size:15px;
+    padding:32px 20px 80px;
+  }
+  .wrap{max-width:900px;margin:0 auto;}
+
+  header{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:8px;}
+  .eyebrow{font-size:12px;letter-spacing:.18em;color:var(--muted);text-transform:uppercase;font-weight:600;}
+  h1{font-size:28px;font-weight:800;letter-spacing:-.02em;margin:6px 0 4px;}
+  .sub{font-size:14px;color:var(--muted);}
+  .origin{font-size:12.5px;color:var(--muted);margin-top:10px;line-height:1.6;}
+
+  .gate{margin-top:22px;padding:14px 16px;background:#fbeae7;border-left:3px solid var(--pivot);border-radius:3px;font-size:13.5px;line-height:1.6;}
+  .gate b{color:var(--pivot);}
+
+  .filterbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:28px 0 22px;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-radius:4px;}
+  .filterbar input[type="search"]{
+    flex:1 1 220px;min-width:180px;
+    font-family:inherit;font-size:14px;
+    padding:8px 12px;border:1px solid var(--line);border-radius:3px;
+    background:#fff;color:var(--ink);
+  }
+  .chips{display:flex;gap:6px;flex-wrap:wrap;}
+  .chip{
+    font-size:12.5px;font-weight:700;letter-spacing:.02em;
+    padding:7px 13px;border:1px solid var(--line);border-radius:20px;
+    background:#fff;color:var(--muted);cursor:pointer;
+    transition:all .12s;white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--ink);color:var(--ink);}
+  .chip.active{background:var(--ink);color:var(--paper);border-color:var(--ink);}
+  .count{font-size:12px;color:var(--muted);margin-left:auto;white-space:nowrap;}
+
+  .cases{display:flex;flex-direction:column;gap:10px;}
+  .case{background:var(--card);border:1px solid var(--line);border-radius:4px;overflow:hidden;}
+  .case > summary{
+    list-style:none;cursor:pointer;
+    padding:14px 16px;display:flex;align-items:center;gap:10px;
+    font-size:14.5px;font-weight:700;
+  }
+  .case > summary::-webkit-details-marker{display:none;}
+  .case > summary::after{
+    content:"+";margin-left:auto;font-size:18px;font-weight:400;color:var(--muted);
+  }
+  .case[open] > summary::after{content:"–";}
+  .tag{
+    flex:0 0 auto;font-size:11px;font-weight:800;letter-spacing:.04em;
+    color:#fff;padding:3px 9px;border-radius:3px;
+  }
+  .tag-A{background:var(--a);}
+  .tag-F{background:var(--f);}
+  .tag-E{background:var(--e);}
+  .domain{font-size:11.5px;color:var(--muted);font-weight:600;margin-left:2px;}
+  .flag{font-size:12px;color:var(--pivot);font-weight:700;margin-left:4px;}
+
+  .case-body{padding:0 16px 18px;border-top:1px solid var(--line);}
+  .expect{font-size:13px;color:var(--muted);margin:14px 0 12px;padding:10px 12px;background:#f1efe8;border-radius:3px;}
+  .expect b{color:var(--ink);}
+
+  table.scripts{width:100%;border-collapse:collapse;font-size:13.5px;}
+  table.scripts th{
+    text-align:left;font-size:11.5px;letter-spacing:.05em;color:var(--muted);
+    padding:6px 10px 6px 0;width:92px;vertical-align:top;font-weight:700;
+  }
+  table.scripts td.scripttext{padding:10px 6px;border-top:1px dashed var(--line);vertical-align:top;}
+  table.scripts tr:first-child td.scripttext{border-top:none;}
+  table.scripts td.copycol{padding:10px 0 10px 6px;border-top:1px dashed var(--line);vertical-align:top;width:56px;text-align:right;}
+  table.scripts tr:first-child td.copycol{border-top:none;}
+  .copybtn{
+    font-size:11px;color:var(--muted);background:#fff;border:1px solid var(--line);
+    border-radius:3px;padding:4px 9px;cursor:pointer;white-space:nowrap;
+  }
+  .copybtn:hover{border-color:var(--ink);color:var(--ink);}
+  .copybtn.done{color:var(--up);border-color:var(--up);}
+
+  .guard{margin-top:12px;font-size:12.5px;color:var(--muted);padding:9px 11px;background:#fbeae7;border-radius:3px;line-height:1.55;}
+  .guard b{color:var(--pivot);}
+
+  .ref{margin-top:34px;background:var(--card);border:1px solid var(--line);border-radius:4px;padding:18px 20px;}
+  .ref h2{font-size:15px;font-weight:800;margin-bottom:10px;}
+  .ref ul{padding-left:18px;font-size:13px;color:var(--ink);line-height:1.8;}
+  .ref li b{color:var(--pivot);}
+
+  footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);font-size:11.5px;color:var(--muted);line-height:1.6;}
+
+  @media(max-width:640px){
+    h1{font-size:23px;}
+    table.scripts th{width:70px;font-size:11px;}
+    .filterbar{flex-direction:column;align-items:stretch;}
+    .count{margin-left:0;}
+  }
+  @media print{
+    body{background:#fff;padding:0;}
+    .filterbar,.copybtn{display:none;}
+    .case{break-inside:avoid;}
+    details{display:block!important;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">열린치과 · claim-coach 연계 · 내부 참조용</div>
+    <h1>임상 클레임 대응 매뉴얼 — A·F·E</h1>
+    <div class="sub">통증·기능(A) · 심미(F) · 협박·과도요구(E) — 상황별 3톤 스크립트, 체어사이드 즉시 검색·복사</div>
+    <p class="origin">근거: 민원 과학 21편(<code>wiki/complaint-management/</code>) + 통합 오버뷰. 분류·기대진단(Friele)·status theory·법적 가드는 <code>claim-coach</code> 스킬 규칙을 그대로 반영. 모든 스크립트는 초안이며 실제 사실관계·클리닉 톤에 맞춰 조정할 것 — 최종 책임은 작성자.</p>
+    <div class="gate">
+      <b>사용 전 공통 체크</b> — 신경손상·감염확산·의료사고 정황, 손해배상/고소/언론제보 언급, 비합리적 반복 금전요구가 보이면 이 매뉴얼의 표준 스크립트 대신 원장 직접 응대 + 기록 즉시 보전으로 전환. E(협박·과도요구) 카드는 이미 이 전제로 작성됨.
+    </div>
+  </header>
+
+  <div class="filterbar">
+    <input type="search" id="search" placeholder="검색 (예: 임플란트, 색상, 협박...)" aria-label="상황 검색">
+    <div class="chips" id="chips">
+      <button class="chip active" data-type="ALL">전체</button>
+      <button class="chip" data-type="A">A 통증·기능</button>
+      <button class="chip" data-type="F">F 심미</button>
+      <button class="chip" data-type="E">E 협박·과도요구</button>
+    </div>
+    <div class="count" id="count"></div>
+  </div>
+
+  <div class="cases" id="cases">
+
+    <!-- A-1 -->
+    <details class="case" data-type="A" data-search="임플란트 식립 지속 통증 골융합">
+      <summary><span class="tag tag-A">A</span> 임플란트 식립 후 지속 통증 <span class="domain">임상+관계</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 재발 방지·정직한 설명 &gt; 사과 — 이 통증이 정상 범위인지 문제인지 알고 싶어함.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">식립 후에도 계속 불편하시면 많이 걱정되실 것 같아요. 어떤 식으로 아프신지 여쭤보고, 원장님께 바로 확인해서 살펴보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">식립 초기에는 어느 정도 불편감이 있을 수 있지만, 계속되신다면 정확한 확인이 우선입니다. 원장님과 함께 상태를 점검하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">말씀 확인했습니다. 정확한 원인은 직접 진찰해야 판단 가능해, 원장님 진료로 점검 후 필요한 조치를 안내드리겠습니다. 예약 잡아드릴까요?</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — "골융합 실패" 등 원인 단정 금지, 어떤 톤에서도.</div>
+      </div>
+    </details>
+
+    <!-- A-2 -->
+    <details class="case" data-type="A" data-search="크라운 브릿지 저작 불편 교합">
+      <summary><span class="tag tag-A">A</span> 크라운·브릿지 저작 시 불편 (교합 이상) <span class="domain">임상</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 원인 설명 + 빠른 조정.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">씹을 때마다 불편하시면 일상이 힘드셨겠어요. 교합 상태를 바로 확인해서 조정해 드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">교합이 맞지 않으면 저작 시 불편할 수 있습니다. 지금 상태를 확인해서 조정 방향을 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">교합 확인이 필요한 상태로 보입니다. 진료 후 조정 여부와 범위를 말씀드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 조정 시행 자체를 "잘못 만들어서" 같은 과실 인정 문구로 번역하지 않는다.</div>
+      </div>
+    </details>
+
+    <!-- A-3 -->
+    <details class="case" data-type="A" data-search="신경치료 근관치료 통증 지속">
+      <summary><span class="tag tag-A">A</span> 신경치료(근관치료) 후 통증 지속 <span class="domain">임상+관계</span> <span class="flag">⚠️</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 재발 방지 우선 — 근관치료는 의료과실 청구 노출 최대 영역(Alrahabi 2019).</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">치료 후에도 계속 아프시면 걱정되고 속상하실 것 같아요. 어떤 식으로 아프신지 여쭤보고 원장님께 바로 확인하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">치료 후 회복 과정에서 일시적 통증이 남는 경우도 있지만, 정확한 상태 확인이 먼저입니다. 원장님과 함께 살펴보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">통증 원인은 여러 가지일 수 있어 직접 확인이 필요합니다. 진료로 상태 점검 후 추가 처치 여부를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 기구파절·누락 근관 등 원인 단정 금지. 기록·러버댐 사용 여부 사전 확인 권고(Alrahabi 2019).</div>
+      </div>
+    </details>
+
+    <!-- A-4 -->
+    <details class="case" data-type="A" data-search="보철물 탈락 파절 반복">
+      <summary><span class="tag tag-A">A</span> 보철물 반복 탈락·파절 <span class="domain">임상+관리</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 재발 방지(구조적 원인 확인).</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">또 빠지셨다니 번거로우셨겠어요. 원인을 확인해서 같은 일이 반복되지 않게 살펴보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">반복해서 빠지는 경우 원인 확인이 중요합니다. 교합이나 접착 상태를 점검하고 조치하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">반복 탈락은 원인 파악이 우선입니다. 확인 후 필요하면 접착 방식이나 구조를 조정하는 방향을 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 재제작·무상 처리는 "검토 후 안내"가 상한. 호의성 무상 재치료는 이후 배상액 산정에 영향 미칠 수 있어(Kwon 2017) 서면 합의의 영역이다.</div>
+      </div>
+    </details>
+
+    <!-- A-5 -->
+    <details class="case" data-type="A" data-search="발치 통증 부종 지속 감염">
+      <summary><span class="tag tag-A">A</span> 발치 후 통증·부종 지속 <span class="domain">임상</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 감염 여부 확인 안심 + 즉시 조치.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">발치 후에도 계속 붓고 아프시면 많이 불안하셨겠어요. 지금 바로 상태를 확인해 보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">발치 후 일정 기간 붓기·통증은 있을 수 있지만, 지속되면 확인이 필요합니다. 진료로 상태를 점검하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">지속되는 통증·부종은 감염 등 원인 확인이 필요합니다. 바로 진료 보시고 필요한 처치를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 감염 관련은 즉시 배양·치료·적시 의뢰·기록이 판례상 책임 분기점(Park 2016). 응대 문구보다 내원 유도가 우선.</div>
+      </div>
+    </details>
+
+    <!-- A-6 -->
+    <details class="case" data-type="A" data-search="미백 시린 증상 시림">
+      <summary><span class="tag tag-A">A</span> 미백 후 시린 증상 <span class="domain">임상</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 일시적 증상인지 확인 + 관리법 안내.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">미백 후 시린 느낌이 있으면 불편하셨겠어요. 어느 정도인지 여쭤보고 확인해 드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">미백 후 일시적으로 시릴 수 있는데, 어느 정도 지속되시는지 확인해서 관리법을 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">시림 정도·기간 확인이 필요합니다. 진료로 상태를 보고 필요하면 관리 방법을 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — "원래 그런 겁니다" 류 훈계 금지. 흔한 증상이어도 환자에게 그렇게 말하지 않는다.</div>
+      </div>
+    </details>
+
+    <!-- A-7 -->
+    <details class="case" data-type="A" data-search="틀니 압박통 궤양 총의치">
+      <summary><span class="tag tag-A">A</span> 틀니 압박통·궤양 <span class="domain">임상+관계</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 빠른 조정 + 정직한 설명 — 고령 환자 배려 우선.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">그 자리 계속 아프고 헐었으면 식사도 힘드셨겠어요. 바로 확인해서 조정해 드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">압박되는 부분이 있으면 궤양이 생길 수 있습니다. 확인해서 조정하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">압박 부위 확인이 필요합니다. 진료로 점검 후 조정하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 절차보다 안심 문구를 앞에 두는 것이 관계 domain 우선 원칙에 부합.</div>
+      </div>
+    </details>
+
+    <!-- F-1 -->
+    <details class="case" data-type="F" data-search="크라운 색상 불만족 보철 색">
+      <summary><span class="tag tag-F">F</span> 크라운·보철물 색상 불만족 <span class="domain">관계 우세</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 확인 후 조정 가능 범위 안내 — 환불·재제작 약속 아님.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">생각하신 색과 달라서 아쉬우셨겠어요. 직접 보여주시면 어느 부분이 다른지 정확히 확인해 보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">색감은 주관적으로 느껴지실 수 있어, 직접 비교해서 조정 가능한 범위를 확인해 보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">색상 차이는 확인이 필요합니다. 진료 시 직접 비교하고, 조정 가능 범위를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — "재제작해 드리겠습니다" 무상 약속 금지 — "조정 가능 범위는 확인 후 안내"까지만.</div>
+      </div>
+    </details>
+
+    <!-- F-2 -->
+    <details class="case" data-type="F" data-search="라미네이트 베니어 형태 두께 불만">
+      <summary><span class="tag tag-F">F</span> 라미네이트·베니어 형태/두께 불만 <span class="domain">관계+임상</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 확인 후 조정 가능 여부 안내.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">생각하신 모양과 달라 불편하셨겠어요. 어떤 부분이 어색하게 느껴지시는지 직접 보여주시면 확인하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">형태에 대한 느낌은 사람마다 다를 수 있어, 실제로 어떤 부분이 다른지 확인 후 조정 여부를 말씀드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">형태 확인이 필요합니다. 진료 시 직접 비교해 조정 가능한 범위를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 서면 동의서 존재 여부가 소송 결과를 가름(Grillo 2023) — 시술 전 동의서·기대치 합의 기록을 내부적으로 확인.</div>
+      </div>
+    </details>
+
+    <!-- F-3 -->
+    <details class="case" data-type="F" data-search="잇몸 라인 비대칭 불만">
+      <summary><span class="tag tag-F">F</span> 잇몸 라인·비대칭 불만 <span class="domain">관계</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 치유 경과 설명 + 확인.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">신경 쓰이셨겠어요. 어느 부분이 비대칭으로 느껴지시는지 직접 확인해 보겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">잇몸 라인은 치유 경과에 따라 달라질 수 있어, 현재 상태를 확인하고 필요한 조치를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">확인이 필요한 부분입니다. 진료로 상태를 점검하고 조정 가능 여부를 말씀드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 반복적·과도한 불만족이 지속되면 신체이형장애(BDD) 가능성 참고(Nabavizadeh 2023) — 임상 판단은 원장 몫, 환자에게 직접 언급하지 않는다.</div>
+      </div>
+    </details>
+
+    <!-- F-4 -->
+    <details class="case" data-type="F" data-search="검치 거미스마일 gummy smile 잇몸 교정 불만족">
+      <summary><span class="tag tag-F">F</span> 검치(gummy smile) 교정 후 불만족 <span class="domain">관계+임상</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 정직한 설명 + 재평가 경로.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">기대하신 것과 달라 아쉬우셨겠어요. 어느 부분이 다르게 느껴지시는지 직접 보여주시면 확인하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">심미적 변화는 사람마다 기대치가 다를 수 있어, 현재 상태를 확인하고 추가로 가능한 부분을 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">확인이 필요한 부분입니다. 원장님 진료로 점검 후 추가 조정 가능 여부를 말씀드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 심미 치료는 서면 동의서 유무가 소송 결과를 가름(Grillo 2023) — 시술 전 기대치 합의 기록 확인.</div>
+      </div>
+    </details>
+
+    <!-- F-5 -->
+    <details class="case" data-type="F" data-search="틀니 심미 입술 지지 앞니 배열 불만">
+      <summary><span class="tag tag-F">F</span> 틀니 심미(입술 지지·앞니 배열) 불만 <span class="domain">관계</span></summary>
+      <div class="case-body">
+        <div class="expect">[기대진단] 조정 가능 범위 설명.</div>
+        <table class="scripts">
+          <tr><th>공감우선</th><td class="scripttext">생각하신 모습과 달라 속상하셨겠어요. 어떤 부분이 어색하게 느껴지시는지 여쭤보고 확인하겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>균형</th><td class="scripttext">배열이나 지지감은 시착 단계에서 조정 가능한 경우가 많습니다. 확인 후 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>전문성</th><td class="scripttext">확인이 필요한 부분입니다. 진료로 점검 후 조정 가능 범위를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 무상 재제작 약속 금지 — "조정 가능 범위 확인 후 안내"가 상한.</div>
+      </div>
+    </details>
+
+    <!-- E-1 -->
+    <details class="case" data-type="E" data-search="임플란트 실패 전액환불 피해보상 신고 폭로 협박">
+      <summary><span class="tag tag-E">E</span> 임플란트 실패 + 전액환불·피해보상 요구 + 신고·폭로 협박 <span class="domain">임상+관리</span> <span class="flag">⚠️ 신중초안</span></summary>
+      <div class="case-body">
+        <div class="expect">[레드플래그] 단독 응대 종료 → 원장 보고, 가급적 2인 응대, 대화 내용 즉시 기록(녹취 가능 전제). 3톤 변주 대신 신중 초안.</div>
+        <table class="scripts">
+          <tr><th>대면(현장)</th><td class="scripttext">불편을 겪으신 점 말씀해 주셔서 감사합니다. 원인은 직접 확인해야 정확히 판단할 수 있어, 원장님 진료로 상태부터 살펴보겠습니다. 환불·보상 부분은 제가 이 자리에서 결정할 사안이 아니라 확인 후 정식으로 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>서면(후속)</th><td class="scripttext">말씀하신 내용 잘 접수했습니다. 상태는 내원해서 확인하는 것이 우선이며, 확인 후 절차에 따라 검토 결과를 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 협박 문구("신고하겠다" 등)는 인용·반박하지 않고 "확인 → 절차 → 정식 안내"로 전량 흡수. 금액·환불 가부 언급 제로.</div>
+      </div>
+    </details>
+
+    <!-- E-2 -->
+    <details class="case" data-type="E" data-search="근관치료 실패 손해배상 요구">
+      <summary><span class="tag tag-E">E</span> 근관치료 실패 + 손해배상 요구 <span class="domain">임상</span> <span class="flag">⚠️ 신중초안</span></summary>
+      <div class="case-body">
+        <div class="expect">[레드플래그] 근관치료는 판례상 책임 분기점이 기록·처치 적절성(Alrahabi 2019) — 임상 조치가 응대 문구보다 우선.</div>
+        <table class="scripts">
+          <tr><th>대면</th><td class="scripttext">많이 놀라고 속상하셨겠습니다. 정확한 상태는 원장님이 직접 확인해야 판단할 수 있어, 진료부터 진행하겠습니다. 배상 관련 부분은 확인 후 별도로 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>서면</th><td class="scripttext">말씀하신 내용 확인했습니다. 진료 기록 확인 후 관련 절차에 따라 안내드리겠습니다. 내원 가능하신 일정을 알려주시겠어요?</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 원인·과실 단정 금지. 배상 논의는 확인 후 정식 절차로만.</div>
+      </div>
+    </details>
+
+    <!-- E-3 -->
+    <details class="case" data-type="E" data-search="발치 신경손상 의심 손해배상 협박">
+      <summary><span class="tag tag-E">E</span> 발치 후 신경손상 의심 + 손해배상 요구 + 협박 <span class="domain">임상</span> <span class="flag">⚠️ 신중초안</span></summary>
+      <div class="case-body">
+        <div class="expect">[레드플래그] 신경손상 정황은 원장 직접 대응 + 진료기록 즉시 보전 필수.</div>
+        <table class="scripts">
+          <tr><th>대면</th><td class="scripttext">많이 걱정되고 불안하셨겠습니다. 신경 관련 증상은 정확한 진단이 필요해, 원장님이 직접 확인 후 필요하면 큰 병원 의뢰까지 안내드리겠습니다. 배상 부분은 이 자리에서 결정할 사안이 아니라 확인 후 정식으로 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+          <tr><th>서면</th><td class="scripttext">말씀하신 증상 확인했습니다. 신경 손상 여부는 정확한 검사가 필요해 내원을 권해드리며, 확인 후 절차에 따라 안내드리겠습니다.</td><td class="copycol"><button class="copybtn">복사</button></td></tr>
+        </table>
+        <div class="guard"><b>가드</b> — 의학적 확정("신경이 손상됐습니다") 금지 — "정확한 상태는 확인 후"로만.</div>
+      </div>
+    </details>
+
+  </div>
+
+  <div class="ref">
+    <h2>공통 금지 표현 (모든 카드에 적용)</h2>
+    <ul>
+      <li><b>과실 인정 금지</b> — "저희 실수입니다", "처치가 잘못됐네요"</li>
+      <li><b>원인 단정 금지</b> — "~때문에 그렇습니다" → "확인이 필요합니다"</li>
+      <li><b>배상·금액 약속 금지</b> — "환불해 드리겠습니다" → "검토 후 안내드리겠습니다"</li>
+      <li><b>의학적 확정 금지</b> — "신경이 손상됐습니다" 단정 → "정확한 상태는 확인 후"</li>
+      <li><b>사이비 사과(fauxpology) 금지</b> — "불편하셨다면 죄송합니다" → "이런 경험을 하시게 해서 죄송합니다"</li>
+      <li><b>환자 비하·훈계 금지</b> — "원래 그런 겁니다", "관리를 안 하셔서"</li>
+    </ul>
+  </div>
+
+  <footer>
+    근거: wiki/complaint-management/ (21편) + 통합 오버뷰. 분류·기대진단·법적 가드는 claim-coach 스킬 규칙(2026-07-08 버전) 반영. 환자 비공개, 위생사·실장·원장 참조용. 모든 스크립트는 초안 — 사실관계 대조 후 사용, 최종 책임은 작성자. · 열린치과
+  </footer>
+
+</div>
+
+<script>
+  const chips = document.querySelectorAll('.chip');
+  const search = document.getElementById('search');
+  const cases = document.querySelectorAll('.case');
+  const countEl = document.getElementById('count');
+  let activeType = 'ALL';
+
+  function applyFilter(){
+    const q = search.value.trim().toLowerCase();
+    let visible = 0;
+    cases.forEach(card => {
+      const matchesType = activeType === 'ALL' || card.dataset.type === activeType;
+      const matchesQuery = !q || card.dataset.search.toLowerCase().includes(q) || card.textContent.toLowerCase().includes(q);
+      const show = matchesType && matchesQuery;
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+    countEl.textContent = visible + '개 상황';
+  }
+
+  chips.forEach(c => {
+    c.addEventListener('click', () => {
+      chips.forEach(x => x.classList.remove('active'));
+      c.classList.add('active');
+      activeType = c.dataset.type;
+      applyFilter();
+    });
+  });
+  search.addEventListener('input', applyFilter);
+
+  document.getElementById('cases').addEventListener('click', e => {
+    const btn = e.target.closest('.copybtn');
+    if (!btn) return;
+    const row = btn.closest('tr');
+    const text = row.querySelector('.scripttext').textContent.trim();
+    navigator.clipboard.writeText(text).then(() => {
+      const original = btn.textContent;
+      btn.textContent = '복사됨';
+      btn.classList.add('done');
+      setTimeout(() => { btn.textContent = original; btn.classList.remove('done'); }, 1200);
+    }).catch(() => {
+      btn.textContent = '복사 실패';
+      setTimeout(() => { btn.textContent = '복사'; }, 1200);
+    });
+  });
+
+  applyFilter();
+</script>
+</body>
+</html>
