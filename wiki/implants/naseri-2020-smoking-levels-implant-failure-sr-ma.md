@@ -55,3 +55,5 @@ This builds beyond binary smoker/non-smoker analyses (which obscure dose-respons
 - [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — Mustapha SR+MA.
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation effect.
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanism review.
+- [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] — 2026 SR+MA (45 studies) pooling survival/CBL/peri-implantitis; broader outcome set than this dose-response-focused SR.
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.
