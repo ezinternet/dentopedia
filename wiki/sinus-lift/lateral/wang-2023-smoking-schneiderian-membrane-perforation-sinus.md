@@ -103,3 +103,4 @@ Smoking impairs the mucociliary function and vascular supply of the sinus mucosa
 - [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] — CBCT-based anatomical predictors of SMP; smoking is a complementary non-anatomical predictor
 - [[sinus-lift/lateral/malzoni-2021-lprf-schneiderian-membrane-large-perforations]] — PRF repair of large perforations; relevant when smokers sustain perforations
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — synthesis overview of SMP risk, repair, and technique; smoking risk axis not yet covered
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.
