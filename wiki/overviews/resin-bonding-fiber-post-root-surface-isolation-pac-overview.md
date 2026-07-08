@@ -92,6 +92,8 @@ Source: [[resin-bonding/kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries]]
 
 **Clinical question**: Which filler class best supports 4-META/MMA-TBB (Super-Bond) chemistry as a restorative material for root caries in moisture-compromised older patients?
 
+**Broader evidence context**: At the network-meta-analysis level, Schmidt et al. (2024) pooled 9 RCTs (1,263 root caries lesions, 473 patients) comparing adhesive-class × restorative-material strategies and found no statistically robust restorative hierarchy for root caries — 24-month point estimates favored 2–3-step etch-and-rinse composite (OR 2.65) and RMGIC (OR 2.05) over GIC, but CINeMA confidence was low and the differences were not significant after adjustment. This NMA is the broader restorative/adhesive evidence base for root caries generally, into which Kikuta (2025)'s filler-class finding fits as material-science depth for the specific 4-META/MMA-TBB (Super-Bond) arm.
+
 **Answer**: Organic composite filler (OC) at 3 wt%. Bioactive glass (BG) and aluminosilicate glass (AS) are detrimental at this load.
 
 ### Filler comparison at 3 wt%
@@ -117,6 +119,8 @@ BSP = Bondfill SB Plus (Sun Medical); TC = thermocycling; SBS = shear bond stren
 Source: [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival.md]]
 
 **Clinical question**: Does isolation method (rubber dam vs cotton roll/retraction cord) affect retention, gingival damage, patient preference, or chairside time for adhesive NCCL restorations?
+
+**Broader decision context**: Peumans et al. (2020)'s narrative review frames NCCL management as a broader when/why/how decision — an etiologic checklist to decide whether to monitor or intervene, adhesive restoration positioned as the last-resort intervention, and annual maintenance (margin repolishing) to prolong restoration life. Within that framework, Loguercio (2015)'s isolation-equivalence finding answers one specific "how" question: which isolation method to use once an adhesive restoration has already been indicated.
 
 **Answer**: No. The two methods are equivalent across all outcomes at 18 months.
 
@@ -162,6 +166,8 @@ Source: [[resin-bonding/neves-2026-ab-type-proanthocyanidin-primers-nano-dma]]
 **Mechanism summary**: PAC cross-links free amine/hydroxyl groups on collagen fibrils (both demineralized matrix and mineralized dentin), reducing enzymatic degradation access points and displacing unbound water from the interfibrillar space — dual effect of E* increase and permeability decrease. Damping capacity (tan δ) is preserved within the native dentin range (0.02–0.3), indicating the collagen remains viscoelastic rather than brittled.
 
 **Positioning relative to CHX**: CHX inhibits MMP activity (covered in [[overviews/resin-dentin-bond-durability-degradation-overview]]); PAC cross-links the collagen substrate directly. The two mechanisms are complementary and target different failure pathways. PAC primers currently lack clinical RCT evidence; the 1-year in-vitro data are mechanistically compelling but cannot be translated to a clinical recommendation without bridging RCT data.
+
+**Where this sits in the broader crosslinker/MMP-inhibitor literature**: At the systematic-review level, Zhou et al. (2025) pooled 14 in vitro studies (11/14 low risk of bias) and found that collagen crosslinkers as a class — not only PAC but also EDTA, phytic acid, rosmarinic acid, and sodium ascorbate — broadly restore resin-dentin bond strength on NaOCl-treated dentin, with the magnitude of benefit modulated by NaOCl concentration and exposure time; Neves (2026)'s nano-DMA data supply the layer-specific hybrid-layer/underlying-dentin mechanism (E* gain, permeability drop) that plausibly underlies this bulk-strength signal for one specific crosslinker family (AB-type PAC). On the complementary MMP-inhibition side, Kiuru et al. (2021) pooled a 21-article chlorhexidine (CHX) subset from a 43-study SR+MA and found no effect on immediate bond strength (p=0.308) but significant preservation at 6, 12, and 24 months (all p<0.001) — the SR+MA-level evidence for the CHX pathway that this axis contrasts against PAC's direct collagen cross-linking mechanism.
 
 **PAC application protocol in this study**: glycolic acid etch (35%, rinse) → 6.5% PAC w/v in HEPES buffer (pH ~7, 1 min) → rinse out → model methacrylate adhesive. The neutral pH (not acidic like most current conditioners) is intentional to protect collagen from low-pH damage during the cross-linking step.
 
