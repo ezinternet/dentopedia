@@ -582,6 +582,7 @@ tags: []
 - [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] — Ohyama 2022 · case-report · 중증 치성상악동염(OMS): 자연공 재폐쇄·재발의 병태생리를 근거로 Caldwell-Luc 접근 비상악동창(nasoantral window)+비후점막 보존 관리로 전두동 파급례까지 완치 (DOI 10.1155/2022/1614739, PMC9348962)
 - [[sinus-lift/lateral/kashi-2023-accessory-maxillary-ostium-sinusitis-cbct]] — Kashi 2023 · cross-sectional · CBCT 244례: 부개구부(AMO) 존재는 상악동염과 무관(p=0.104)이나 일차개구부(PMO) 폐쇄는 상악동염군서 유의 증가(p<0.001); AMO 빈도는 성별 의존 (DOI 10.1007/s12070-023-04376-y, PMC10982170)
 - [[sinus-lift/lateral/kato-2021-sinus-mucosa-ostium-involvement-septa]] — Kato 2021 · retrospective · 측방창 SFE 30동(격벽15/대조15): 1주 점막부종 최고(높이 +5.7/+7.1mm)로 누두 3/5동 일시폐쇄, 9개월에 전례 회복; 격벽은 개구부 폐쇄 악화 안 시키나 천공 위험(격벽군 26.7%) (DOI 10.3390/dj9080082, PMC8391700)
+- [[sinus-lift/lateral/vaddi-2021-available-height-location-patency-ostium]] — Vaddi 2021 · retrospective · CBCT 200 부비동(112명): 동저-자연공 높이 유치악 31.40mm·무치악 29.50mm에서 점막비후 높이를 뺀 안전 거상 높이 계산(유치악 ~27.05mm·무치악 ~23.40mm); 자연공 47%가 제1대구치 부위 (DOI 10.5624/isd.20200218, PMC8479432)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
