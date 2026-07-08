@@ -65,16 +65,45 @@ def parse_comment_fm(text: str):
     return category, sources
 
 
-def git_date(relpath: str):
-    """파일의 마지막 커밋 날짜(YYYY-MM-DD). 추적 안 됨/git 실패 시 None."""
+# 근거 페이지에 대한 "임상적으로 무의미한(cosmetic)" 커밋 — git mtime만 밀 뿐 도구가
+# 인코딩한 임상 수치는 바꾸지 않는다. 요약 섹션 재포맷·cross-link·relations 배선·카테고리
+# 정리가 여기 해당. overview-thesis-staleness.py의 wikilink-only vs thesis 구분과 같은 철학이나,
+# 요약 재작성 편집은 diff 라인 모양이 산문(thesis와 구분 불가)이라 커밋 subject로 식별한다.
+# 예: 2026-07-05 "Expand Three-line Summary…" 대량 포맷팅 커밋(4,887 파일)이 이 필터로 걸러진다.
+COSMETIC_SUBJECT_RE = re.compile(
+    r"(Expand Three-line Summary"
+    r"|One-line Summary|Three-line Summary"
+    r"|한국어 핵심요약|한줄요약|세줄요약"
+    r"|cross-link"
+    r"|\bwire\b.*(reinforces|contradicts|refines|extends|applies-to|relation)"
+    r"|recategorize|\bdedup\b|\breorg\b)",
+    re.IGNORECASE,
+)
+
+
+def git_date(relpath: str, skip_cosmetic: bool = False):
+    """파일의 마지막 커밋 날짜(YYYY-MM-DD). 추적 안 됨/git 실패 시 None.
+
+    skip_cosmetic=True면 cosmetic 커밋(요약 재포맷·cross-link·relations 배선 등)을 건너뛰고
+    마지막 '실질' 변경일을 돌려준다 — 대량 포맷팅 커밋이 근거를 도구보다 새것으로
+    보이게 하는 오탐지를 막기 위함. 근거(source_wiki) 날짜 계산에만 적용한다.
+    """
     try:
         out = subprocess.run(
-            ["git", "log", "-1", "--format=%cd", "--date=short", "--", relpath],
+            ["git", "log", "--format=%cd%x00%s", "--date=short", "--", relpath],
             cwd=ROOT, capture_output=True, text=True, timeout=30, check=True,
         ).stdout.strip()
-        return out or None
     except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError):
         return None
+    entries = [line.split("\x00", 1) for line in out.splitlines() if "\x00" in line]
+    if not entries:
+        return None
+    if not skip_cosmetic:
+        return entries[0][0] or None
+    for d, subject in entries:  # newest → oldest
+        if not COSMETIC_SUBJECT_RE.search(subject):
+            return d or None
+    return entries[-1][0] or None  # 전부 cosmetic이면 생성(가장 오래된) 커밋일 사용
 
 
 def main():
@@ -100,7 +129,7 @@ def main():
             if not sp.exists():
                 broken.append(s)
                 continue
-            sd = git_date(s)
+            sd = git_date(s, skip_cosmetic=True)
             if tool_date and sd and sd > tool_date:
                 newer.append({"src": s, "src_date": sd})
 
