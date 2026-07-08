@@ -22,6 +22,7 @@ tags: []
 - [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
 - [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
 - [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
+- [[implants/hosseini-2024-sjogren-implant-prosthesis-5year-prospective]] — Hosseini 2024 · prospective · 원발성 Sjögren 증후군(pSS) 단일임플란트 5년 전향적 매칭대조군 연구(23 vs 24명): 생존율 100%(양군)·MBL/PPD/보철합병증 차이 없음, 단 DMFT·타액분비량·OHIP QoL은 pSS서 유의하게 나쁨 (DOI 10.1111/clr.14356)
 - [[implants/mosaddad-2023-dental-implants-systemic-sclerosis-sr]] — Mosaddad 2023 · sr · 전신경화증(scleroderma) 임플란트 SR(37명/153임플란트): 생존 89–100%, SSc 자체 영향 없음, 소구증(microstomia) 관리 핵심 (DOI 10.1002/iid3.812)
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — Ruhstorfer 2024 · sr · **맞춤형 치유지대주(customized healing abutment)** SR(5편/190임플란트, 생존 100%): 통상형 대비 치주조직·심미 개선 경향·통증↓·단점 없음 (DOI 10.1186/s40729-024-00581-8)
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — Ríos-Santos 2020 · rct · 다기관 RCT(147명/231임플란트): one-abutment-one-time(최종지대주 수술 시 장착, 반복 분리 안 함) vs 반복분리 — MBL/ISQ 차이 없음; 지대주 높이 2mm>1mm (DOI 10.3390/ijerph17249453)
