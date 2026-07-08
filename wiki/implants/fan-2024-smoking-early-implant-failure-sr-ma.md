@@ -60,3 +60,4 @@ For Korean implantology informed consent: smokers should be informed that early 
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation SR.
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanism review.
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — classic Moy 2005 risk factor cohort.
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.
