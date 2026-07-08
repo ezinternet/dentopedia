@@ -1,0 +1,112 @@
+Evaluation of available height, location, and patency of the ostium for sinus augmentation from an implant treatment planning perspective
+
+Vaddi A, Villagran S, Muttanahally KS, Tadinada A
+Imaging Science in Dentistry, 2021;51(3):243-250
+DOI: 10.5624/isd.20200218
+PMID: 34621651 / PMCID: PMC8479432
+Retrieved via PubMed Central (PMC) full-text API.
+
+--- ABSTRACT ---
+
+Purpose
+
+The objective of this study was to evaluate the amount of height available for a maxillary sinus augmentation procedure without blocking the ostium and jeopardizing the drainage of the ostiomeatal complex using cone-beam computed tomography (CBCT) imaging.
+
+Materials and Methods
+
+A total of 200 sinonasal complexes comprising 100 dentate and 100 edentulous scans were retrospectively assessed using CBCT. Invivo 5.0, a CBCT reconstruction program, was used for image evaluation. The coronal section demonstrating the ostiomeatal complex was selected as a reference view to perform measurements of the sinus. The measurements were done by 2 evaluators in separate sessions. Comparative analyses of measurements were performed between dentate and edentulous patients and between male and female patients.
+
+Results
+
+The safe height to which the sinus can be elevated without compromising the integrity of the ostiomeatal complex was calculated for each sinus. In the presence of significant mucosal thickening, the height available for augmentation was calculated by subtracting the height of mucosal thickening from the sinus floor to the location of the ostium. In this study, the available height was approximately 27.05 mm for dentate and 23.40 mm for edentulous patients. The inter-operator reliability was excellent for all the parameters evaluated.
+
+Conclusion
+
+This retrospective study with a limited number of patients from a single university-based site shows that CBCT is valuable in evaluating the location and patency of the ostium for planning sinus augmentation procedures for dental implant placement.
+
+--- FULL TEXT ---
+
+Introduction
+
+Dental implants have emerged as a reliable choice for the treatment of partially and completely edentulous spaces. The quality and quantity of bone at the edentulous site are key to the success of implant therapy. After tooth loss, the vertical height of the alveolar ridge typically decreases. In the posterior maxilla, a phenomenon known as pneumatization of the sinus occurs, which further reduces the dimensions of the residual ridge.
+
+Pneumatization refers to the extension of the sinus into the surrounding bone. Sinus pneumatization is a physiological phenomenon that shows increased activity during the growth period and continues into adult life. The maxillary sinus is the first paranasal sinus to develop during embryogenesis. The maxillary sinus gradually grows until the age of 7 years. The alveolar process of the maxilla forms the floor of the sinus. The eruption of the permanent teeth leaves room for expansion of the sinus into the alveolar recesses previously occupied by tooth germs. Sinus pneumatization peaks at the age of 12-14 years and continues throughout life. After tooth extraction, interestingly, the sinus extends into the edentulous ridge. A few investigators have speculated that pneumatization of the maxillary sinus results from a lack of functional forces to the bone after tooth extraction.
+
+Various socket preservation techniques, such as immediate placement of bone grafts and membranes, have been reported in the literature to reduce post-extraction bone loss. Evidence shows that socket preservation helps to reduce bone loss, but it cannot completely prevent resorption. The process of resorption of grafted sockets is variable and depends on the socket preservation material used. A randomized trial by Perelman-Karmon et al. reported that deproteinized bovine bone mineral with a collagen membrane enabled retention of the socket bone volume. Kotsakis et al. used xenografts for socket preservation. The results of the study showed a reduction in bone loss, but the results were not statistically significant. Regardless of the type of graft material used, it is clear that there will be some amount of bone resorption. The results of a recent systematic review that evaluated different biomaterials for socket preservation showed that none of the materials could completely stop crestal bone resorption.
+
+Due to the variability of socket preservation procedures and the amount of residual native bone at the site, sinus lift/sinus augmentation is usually performed to gain adequate bone volume at the implant site. The total height that needs to be augmented depends on the residual ridge height. Anatomical factors to be considered during sinus augmentation procedures are the residual ridge height and width, the quality of the bone at the potential implant site, the presence of maxillary sinus pathology (e.g., mucosal thickening, patency of ostium, or the presence of bony septa in the sinus). The risks associated with sinus augmentation are typically those associated with any surgical procedure. Specific to sinus augmentation is the risk of Schneiderian membrane (sinus membrane) perforation and the concomitant risk of hemorrhage. These consequences can lead to blockage of the ostium.
+
+The Schneiderian membrane, which is lined by ciliated columnar epithelium, plays a pivotal role in mucociliary clearance through the ostium. The ostium, which is an anatomical conduit that opens into the middle meatus, has an average diameter of 2.4 mm. It is located at the highest part of the medial wall of the sinus. Blockage of the ostium results in confinement of mucus within the sinus, leading to rhinosinusitis.
+
+Mucosal injury during augmentation surgery might cause swelling of the mucosa, which can affect the function of the ostiomeatal complex. An increased rate of sinus mucosal perforation was reported in subjects with radiographically evident sinus mucosal thickening. However, a study by Timmenga et al. concluded that sinus augmentation did not lead to significant clinical consequences in patients without signs of pre-existing maxillary sinusitis.
+
+Furthermore, if graft material enters the sinus due to membrane perforation and there is proper drainage, the graft material has a high chance of draining through the ostium and into the middle meatus of the nose. If the ostium is blocked due to a pre-existing anatomical variation or pathology, the graft material is entrapped within the sinus and might become secondarily infected.
+
+In the presence of mucosal thickening, determining the safe height to elevate the sinus membrane without blocking the ostium is a significant dilemma. Scientific evidence regarding such measurements is scarce, necessitating further research on the topic. Clinicians should be cautious while planning sinus augmentation procedures in patients with radiographic evidence of sinus conditions such as mucosal thickening and retention cysts to avoid blockage of the ostium.
+
+Cone-beam computed tomography (CBCT) has been routinely employed for preoperative implant planning and assessing the requirement for sinus augmentation. With its high-resolution capabilities, CBCT is well suited to study the fine details of the sinonasal complex and has been extensively used in both ear, nose, and throat applications and dental applications involving the study of pathology and implant treatment planning. There is currently no standardized protocol to perform morphometric measurements of the sinus to determine the safe height of sinus elevation for augmentation.
+
+The objective of this study was to evaluate the amount of height available for the sinus to be elevated without jeopardizing the drainage of the ostiomeatal complex while performing a sinus augmentation procedure for implant therapy.
+
+Materials and Methods
+
+CBCT scans from the archives of the Section of Oral and Maxillofacial Radiology, University of Connecticut School of Dental Medicine were retrospectively studied. A total of 200 sinonasal complexes from 112 patients were evaluated. To study variation in pneumatization patterns, the scans were divided into dentate and edentulous groups. Each group comprised 100 sinonasal complexes. Anatomical and developmental differences might exist in the maxillary sinus on both sides. Hence, in the present study, each sinus was considered individually to obtain an understanding of the individual sinonasal complex, the patency of the ostium, and drainage pattern for better preparedness before sinus augmentation.
+
+Inclusion criteria: Only full-volume CBCT scans (140x100 mm, 170x120 mm) were included in the study. The inclusion criteria for the dentate group were scans having all the teeth (excluding third molars). For the edentulous group, scans with missing posterior teeth (premolars and molars) were included in the study.
+
+Exclusion criteria: Scans with pathology involving the maxillary sinus other than mucosal thickening were excluded. In addition, the scans of patients younger than 15 years, patients with developmental variations, patients who underwent surgery of the sinonasal complex, bone grafting, or sinus augmentation were excluded from the study.
+
+CBCT acquisition and morphometric image analysis
+
+The CBCT scans were performed with a 3D Accuitomo CBCT scanner (J Morita Corp., Kyoto, Japan). The images were acquired using a 140x100 mm or 170x120 mm field of view at 90 kVp and 7 mA with a voxel size of 250 um. The scans included in this study were scans referred to the University of Connecticut School of Dental Medicine from 2017 to 2018. The study sites were evaluated in all 3 orthogonal planes (axial, coronal, and sagittal). Since the coronal plane is usually the preferred plane for sinus evaluation, all measurements were performed in the coronal plane using Invivo 5.0 (Anatomage Inc., San Jose, CA, USA), a CBCT reconstruction program.
+
+The coronal section demonstrating the ostiomeatal complex is selected as a reference view and morphometric measurements were made in that section. The measurement protocol was developed by modifying the parameters and methodology from previous studies. The following measurements were made:
+1) The top width of the sinus was defined as the width of the sinus on the superior aspect of the sinus, corresponding to a horizontal measurement beginning at the inferior aspect of the ostium, near the uncinate process until the lateral wall of the sinus.
+2) The middle width of the sinus was defined as the width of the sinus at the midpoint. With the total height of the sinus defined as the height of the sinus from the floor to the roof of the sinus, the middle width was measured at the center of the total height of the sinus.
+3) The height of the maxillary sinus from the ostium to the floor of the sinus was a vertical measurement commencing at the level of the ostium and extending to the sinus floor.
+4) The height of the alveolar ridge/residual ridge was defined as the height from the crest of the ridge to the floor of the sinus; the height of the alveolar ridge was measured in the dentate group and the height of the residual ridge was measured in the edentulous group.
+5) The height of mucosal thickening was measured in sinuses with mucosal thickening, from the floor of the sinus to the highest point of mucosal thickening.
+
+The measurements were performed by 2 oral radiology residents during 2 separate sessions and were reviewed by an experienced board-certified radiologist. Before the beginning of the study, the principal investigator (AT) conducted a calibration session with the evaluators and discussed the specific reference points and the measurement protocol.
+
+Statistical analysis
+
+Descriptive statistics were calculated for all the study variables. The statistical analysis was performed using GraphPad (Prism version, 8.1.1, La Jolla, CA, USA). The data evaluation included calculating the mean and the standard deviation of morphometric measurements of the maxillary sinus in both groups. Comparative analyses of measurements were performed between dentate and edentulous patients and between male and female patients using the unpaired t-test. A p-value < 0.05 was considered to indicate statistical significance. The presence of mucosal thickening was calculated as a percentage. The inter-rater reliability was performed using the Krippendorff alpha.
+
+Results
+
+The CBCT scans of 112 patients (56 males, 56 females) comprising 200 sinonasal complexes were assessed. The age range of patients included in this study was 16-85 years in the dentate group and 36-91 years in the edentulous group.
+
+In the dentate group, the mean top width was 8.88+/-4.90 mm and the middle width was 22.20+/-4.22 mm. The mean height of the sinus from the floor to the ostium was 31.40+/-5.04 mm. The height of the alveolar ridge was 7.17+/-3.74 mm.
+
+In the edentulous group, the mean top width was 8.35+/-4.32 mm and the middle width was 21.20+/-3.67 mm. The mean height of the sinus from the floor to the ostium was 29.50+/-4.41 mm. The height of the alveolar ridge was 7.59+/-4.10 mm.
+
+Dentate patients presented slightly higher measurements than edentulous patients. The middle width of the sinus and the height of the alveolar ridge were significantly higher in dentate patients (p<0.05).
+
+Mucosal thickening was present in 64% of dentate and 52% of edentulous sinuses. The magnitude of mucosal thickening was higher in edentulous patients (p<0.05).
+
+No significant difference in sinus dimensions was found between male and female patients, except for alveolar ridge height and height from the sinus floor to the ostium. Ridge height was found to be higher in females than in males (p<0.05), whereas the height from the sinus floor to the ostium was significantly higher in males than in females (p<0.05).
+
+The results of inter-rater reliability testing using the Krippendorff alpha demonstrated no significant difference between the 2 observers. The inter-rater reliability for maxillary sinus measurements, the height of mucosal thickening, and alveolar ridge were 0.98, 0.89, and 0.95, respectively. The values (ranging from 0.80 to 1) signified excellent reliability.
+
+Discussion
+
+It is important to evaluate the location of the maxillary sinus ostium and its patency before implant planning and sinus augmentation surgery. Peleg et al. conducted a CT assessment of post-sinus augmentation patients and found that patients who had preoperative obstructions of the ostium were more prone to complications after sinus lift surgery. That study was done approximately 20 years ago using higher-dose multi-slice medical CT. Currently, CBCT is the preferred modality for implant planning and evaluation of the sinus, as a lower dose 3-dimensional imaging modality that helps in the preoperative evaluation of sinus augmentation for better treatment planning.
+
+The sinus ostium was found to be located near the first molar region in 47% of sinuses. The mean top width was similar in both groups (8.88+/-4.90 mm and 8.35+/-4.32 mm in the dentate and edentulous groups, respectively). El-Anwar et al. reported that the mean top width was 5.70+/-2.40 mm and 5.40+/-2.50 mm on the right and left sides, respectively, but did not mention the status of dentition.
+
+The mean middle width was found to be 22.20+/-4.22 mm in males and 21.20+/-3.67 mm in females. Sahlstrand-Johnson et al. reported that the middle width on the right side of the sinus was 25+/-4 mm in males and 23.40+/-4.00 mm in females. A study by Souza et al. reported that the middle width on the right side of the sinus was 27.0+/-0.48 mm in males and 24.90+/-0.48 mm in females. The discrepancy might be due to variation in the location of measurement. Those authors measured the transverse diameter across the sinus, whereas in the present study, measurements were made exactly at the center point from the total height of the sinus. The studies were also performed in different geographic areas, and ethnic variations influence the size of the maxillary sinus.
+
+The mean height of the sinus from the floor to the ostium was higher in the dentate group (31.40+/-5.04 mm) than in the edentulous group (29.50+/-4.41 mm). El-Anwar et al. reported the mean height of the sinus from the floor to the ostium was 28.60+/-6.70 mm. Besides, this vertical dimension was significantly larger in males (p<0.05). A similar pattern was noted in the present study, but the finding was not statistically significant. Butaric et al. reported that the mean height from the sinus floor to the ostium was 33.97+/-4.17 mm, but those measurements were made on coronal sections of magnetic resonance imaging.
+
+There was no significant difference in either the top or middle width of the maxillary sinus between males and females. This finding disagrees with previous studies by Uthman et al. and Teke et al. In those studies, the width of the sinus in males was slightly higher than in females. In the present study, the height of the sinus from the floor to the ostium was significantly higher in males compared to females, in agreement with previous studies. However, a majority of studies measured the total height of the sinus. Regarding alveolar ridge height, a slightly higher value was found in females than in males.
+
+The sinus mucosa is usually not evident on radiographs in healthy patients, and visualization of the sinus mucosa is a sign of pathology. Thickening greater than 5 mm is associated with a greater risk of obstruction to the ostium. The mean height of mucosal thickening was found to be 4.05+/-3.19 mm and 6.40+/-6.18 mm in the dentate and edentulous groups, respectively. Maska et al. reported that the average height of mucosal thickening in edentulous patients was 8.34+/-5.70 mm. Shanbhag et al. reported that the mucosal thickening was 2 to 5 mm in edentulous patients, while Janner et al. reported mean mucosal thickening values of 2 to 3 mm in partially edentulous patients. Guo et al. evaluated changes in sinus mucosa thickness pre- and post-sinus lifting through CBCT. The mean mucosal thickening before surgery was 1.93+/-2.00 mm (n=53 patients), while the amount of thickening 7.5 months after surgery was 4.07+/-4.08 mm (n=49 patients). Although the change in mucosal thickness was not significant, it is noteworthy that mucosal thickening increased to some extent after surgery.
+
+Maska et al. stated that physiological mucosal thickening did not contribute to implant failure. Tadinada et al. proposed a classification based on the radiographic height of mucosal thickening and recommended that if mucosal thickening is greater than 9 mm, sinus augmentation should be avoided/or postponed until the pathology is addressed. Carmeli et al. found that the presence of irregular mucosal thickening>5 mm, circumferential mucosal thickening, or complete opacification of the sinus was associated with an increased risk of obstruction of the ostium. Similar results were reported by Shanbhag et al. Sinuses with mucosal thickening>10 mm were associated with a higher rate of ostium obstruction (35.3%) than sinuses with mucosal thickening of 5-10 mm (24%) and 2-5 mm (6.7%) (p<0.05). The findings of the aforementioned studies underscore the need for a preoperative radiographic evaluation of the sinonasal complex before sinus lifting. The amount of thickening and the required amount of bone to be gained must be evaluated on a case-by-case basis. Consultation with an otolaryngologist is recommended before sinus lifting or implant placement in patients with severe mucosal thickening.
+
+Regarding the safe height available for sinus augmentation, there are currently no standardized guidelines or classification. The key pointer may be appropriate case selection to determine if the sinus is safe for augmentation. The safe height for elevation should be calculated for each sinus based on the amount of bone required for implant placement. In the presence of significant mucosal thickening, the height available for augmentation should be calculated by subtracting the height of mucosal thickening from the sinus floor to the ostium height. In the present study, it was found to be approximately 27.05 mm in the dentate group and 23.40 mm in the edentulous group. This value is the difference between the mean height from the sinus floor to the ostium and mean mucosal thickening. The difference in the values between both groups might be due to variation in the rate of ridge resorption and sinus pneumatization.
+
+Preoperative 3-dimensional image analysis of the sinus might reduce the complications associated with sinus lift surgery. CBCT scans can delineate the exact anatomical location of the ostium and helps in detecting morphological/pathological variations that challenge its patency. CBCT also helps to detect occult pathology in the sinus in asymptomatic patients. A good direction forward to further evaluate this concept would be to conduct a larger study with pre- and post-sinus augmentation radiographs, which may further validate our results and help to better understand the complications associated with sinus augmentation in the presence of mucosal pathology.
+
+This study provides insights into the average location of the ostium and the available height for elevating the sinus based on mucosal thickening in the sinus. In conclusion, this retrospective study with a limited number of patients from a single university-based site shows that it is valuable to know the location and patency of the ostium for sinus augmentation and that CBCT can be helpful in the treatment planning process.
