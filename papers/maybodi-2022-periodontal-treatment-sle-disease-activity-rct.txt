@@ -1,0 +1,59 @@
+TITLE: Effect of periodontal treatment on serum inflammatory parameters and disease activity in patients with systemic lupus erythematosus: A randomized controlled trial
+
+AUTHORS: Maybodi FR, Bashiri H, Sezavar K, Owlia F
+JOURNAL: Journal of Indian Society of Periodontology, 2022;26(6):564-569
+DOI: 10.4103/jisp.jisp_607_21
+PMID: 36582961
+PMCID: PMC9793920
+
+ABSTRACT:
+Background: Several descriptive studies have shown an association between periodontitis and systemic lupus erythematosus (SLE), but clinical trials evaluating the effect of periodontal treatment on serological inflammatory parameters or disease activity in SLE patients are very limited. The aim of this study was to see how periodontal treatment affects the status of SLE patients.
+Materials and Methods: Ninety patients with active SLE and periodontitis were randomly assigned to one of two groups: case (oral hygiene instructions + scaling and root planning) or control (oral hygiene instructions only). Periodontal parameters, erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) and SLE Disease Activity Index (SLEDAI) levels were monitored at baseline and 3 months later.
+Results: Periodontal parameters in the case group were significantly reduced both statistically and clinically after 3 months. However, in the control group, these indices decreased statistically (P < 0.05) but not clinically. The score of SLEDAI in both the groups showed a significant downward trend (P < 0.05) from the start of the study, but the differences in this index between the two groups were not statistically significant (P = 0.894). Although there was a significant decrease in CRP and ESR (P = 0.001) after 3 months in the case group, indicating a positive effect of periodontal treatment on inflammation reduction, there was no significant decrease in CRP and ESR in the control group.
+Conclusion: According to our findings, it appears to be no statistically significant association between periodontal treatment and SLEDAI level. However, this treatment seems to be effective in reducing acute phase biomarkers such as CRP and ESR.
+
+FULL TEXT (Introduction, Methods, Results, Discussion, Conclusion):
+
+INTRODUCTION
+Systemic lupus erythematosus (SLE) is an autoimmune disease that affects several organs. Clinical examination, clinical history, and identification of serological inflammatory markers are used to diagnose SLE. The SLE patient monitoring technique relies on laboratory testing for acute phase biomarkers and autoimmune serology. The erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) are acute phase indicators that can help identify lupus inflammation from infection. The etiology of SLE is multifactorial, with genetic, hormonal, and environmental factors all playing a role. Among environmental factors, bacterial infections, in particular, have been hypothesized to promote SLE in genetically predisposed patients by increasing inflammatory responses and autoantibody production.
+
+Periodontitis is one of the most prevalent human infectious-inflammatory diseases, characterized by persistent inflammation induced by dental plaque bacteria. Periodontitis causes tooth loss while also increasing the risk of some systemic disorders such as cardiovascular disease, diabetes, gastrointestinal cancer, rheumatoid arthritis (RA), and SLE.
+
+There are some similarities in the immune pathological aspects and the possible mechanisms connecting the development and progression of both SLE and periodontal diseases. Immune dysregulation, including neutrophils and phagocytic cells, as well as increased serum levels of beta 2-glycoprotein I-dependent anticardiolipin, the IgG Fc receptor, and pro-inflammatory cytokines, all contribute to tissue damage in both diseases.
+
+A systematic review in 2017 and some other descriptive studies found a statistically significant increased prevalence of periodontitis in patients with SLE compared to controls. Furthermore, the numerous researches studied concluded inconsistent results. Some of them have reported a similar periodontal status, and some others have shown a lower incidence of periodontal disease in SLE patients. In addition, a clinical trial (Fabbri et al.) indicated that nonsurgical periodontal treatment significantly improved SLE Disease Activity Index (SLEDAI) in SLE patients. Management of periodontitis as a modifiable factor may be a simple and cost-effective strategy to somehow prevent SLE development in conjunction with specific medicinal therapy. Therefore, due to the scarcity of interventional studies in SLE patients and with a perspective on the reported positive effect of periodontal treatment in improving the clinical parameters in some other common autoimmune diseases such as RA, this study was aimed to assess the effect of nonsurgical periodontal therapy on serum inflammatory parameters and disease activity level in SLE patients.
+
+MATERIALS AND METHODS
+This double-blinded randomized clinical trial was registered in the Iranian Registry of Clinical Trials. All study procedures were in accordance with the Declaration of Helsinki and was approved by the Ethics Committee. Written informed consent was obtained from patients admitted to the Clinic of Rheumatology, from January 2019 to February 2020. Ninety patients with active SLE and periodontitis were recruited (significance level 5%, 10% drop in each group) and randomly divided into the case (received oral hygiene instructions + scaling and root planning) or control (received oral hygiene instructions only) groups.
+
+Inclusion criteria: confirmed SLE diagnosis by a rheumatologist per American College of Rheumatology criteria (1982/1997), SLEDAI >2, corticosteroid dose <20 mg or equivalent, recent complete blood count with ANC >1000, coagulation factor test if thrombocytopenia observed.
+
+Exclusion criteria: overlapping systemic diseases (primary Sjogren's syndrome, antiphospholipid syndrome, diabetes, leukemia, kidney or liver failure, AIDS), smoking, pregnancy, history of radiotherapy/chemotherapy, failure to visit within 3 months, periodontitis treatment within last 6 months, use of aspirin/anticoagulants/cytotoxic drugs (e.g., cyclophosphamide) in the last month, antibiotics within last 3 months, need for antibiotic prophylaxis for dental procedures, long-term drugs affecting periodontium (anticonvulsants, calcium channel blockers), medication dosage changes during the study.
+
+SLEDAI ranges 0-105; SLEDAI >2 indicates active SLE. Standard CRP/ESR testing performed. Both groups received the same SLE treatment plan during the study; SLEDAI assessor was blinded to group assignment.
+
+Periodontal examination by a postgraduate periodontics student. Patients with >=20 teeth and periodontitis stages 2-4, grade B-C (2017 World Workshop classification) were included. Periodontal status: probing depth (PD), clinical attachment loss (CAL), bleeding index (BI), O'Leary plaque index (PI). Oral hygiene instructions (brushing/flossing) given to all patients. Scaling and root planing performed with an ultrasonic instrument (Woodpecker, China) in the case group only; teeth polished.
+
+Re-evaluation at 3 months: PD, CAL, BI, PI remeasured by a periodontist blinded to group assignment. SLEDAI, CRP, ESR examined by the rheumatologist and compared between groups. Control-group patients could withdraw at any time and receive immediate periodontal therapy. Statistics: SPSS23, Chi-square, independent t-test, Mann-Whitney, Wilcoxon signed-rank; significance P<0.05.
+
+RESULTS
+Case group: 45 patients (5 male, 40 female), mean age 36.13 +/- 11.86 years. Control group: 45 patients (6 male, 39 female), mean age 35.57 +/- 11.75 years. No significant baseline difference in age (P=0.826) or sex (P=0.5). At baseline, SLEDAI, CRP, ESR, PD, CAL, BI, PI were similar between groups.
+
+After 3 months, within-group: both groups showed significant decreases in SLEDAI, CRP, and ESR levels (case: P=0.001 for all three). Control group: SLEDAI significantly decreased (P=0.004), but CRP (P=0.588) and ESR (P=0.109) did not decrease significantly. Periodontal parameters (PD, CAL, BI, PI) decreased significantly and CLINICALLY in the case group (change ~1mm and above); decreased significantly STATISTICALLY but not clinically in the control group.
+
+Between-group at 3 months: significant difference in CRP (P=0.032), but NOT in SLEDAI (P=0.499) or ESR (P=0.180). Periodontal parameters PD, CAL, BI, PI showed significant differences between groups at 3 months (all P=0.001 range).
+
+Key numeric table (Case n=45 vs Control n=45, entry -> 3-month, mean values):
+- SLEDAI: Case 3.31->2.37 (diff 0.93); Control 3.22->2.46 (diff 0.75); between-group P=0.499 at 3mo, P=0.894 for the difference-in-difference
+- CRP: Case 2.87->1.64 (diff 1.23, within-group P=0.001); Control 4.23->3.66 (diff 0.56, within-group P=0.588); between-group P=0.032 at 3mo (significant)
+- ESR: Case 20.64->14.77 (diff 5.86, within-group P=0.001); Control 20.82->18.6 (diff 2.22, within-group P=0.109); between-group P=0.180 at 3mo (not significant)
+- PD (probing depth, mm): Case 4.28->2.17 (diff 2.10); Control 4.15->4.08 (diff 0.06); between-group P=0.001
+- CAL (mm): Case 3.74->1.71 (diff 2.02); Control 3.97->3.8 (diff 0.07); between-group P=0.001
+- BI (bleeding index): Case 42.02->14.11 (diff 27.91); Control 41.95->40.55 (diff 1.4); between-group P=0.001
+- PI (plaque index): Case 63.33->17.44 (diff 45.88); Control 63.68->62.04 (diff 1.64); between-group P=0.001
+
+DISCUSSION highlights: SLE cohort was 87% female (matches epidemiology). Sample (n=90) larger than the only prior comparable trial (Fabbri et al., n=32 case/17 control). Periodontal parameters improved in both groups but only clinically-meaningfully in the case (SRP) group - the calculus removal effect; control-group improvement attributed to a "Hawthorne effect" from oral hygiene instruction + being observed. Contradicts Fabbri (which found significant CRP/ESR change did NOT differ between groups) - this study found periodontal treatment DID significantly reduce CRP/ESR versus control. Zhang et al. (Chinese SLE cohort) found periodontal disease associated with higher SLEDAI and plaque index. Several other studies (Sales, Souza, Calderaro) found NO significant association between periodontal status and SLEDAI/CRP/ESR - consistent with this study's SLEDAI finding of no significant between-group difference, but this study DID find a CRP/ESR benefit unlike those. Elevated CRP in an SLE patient is more likely to indicate infection (e.g., periodontal) than SLE activity itself - supports periodontal infection as a driver of the acute-phase-reactant signal rather than SLEDAI directly.
+
+CONCLUSION: No statistically significant association between periodontal therapy and SLEDAI. However, periodontal treatment (SRP) is effective in reducing acute-phase inflammatory biomarkers CRP and ESR, and may be suggested as an adjunctive item within SLE treatment protocols. Limitation: only 3-month follow-up; only nonsurgical treatment was feasible given patients' systemic condition - longer follow-up and surgical options suggested for future studies.
+
+Financial support: Faculty of Dentistry, Shahid Sadoughi University of Medical Sciences, Yazd, Iran. No conflicts of interest.
