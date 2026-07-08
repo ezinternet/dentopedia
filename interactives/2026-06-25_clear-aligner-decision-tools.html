@@ -2,17 +2,21 @@
 ---
 title: "투명교정(Clear Aligner) 적응증 결정 게이트 + 상악확장 over-correction 계산기"
 type: interactive
-date: 2026-06-25
+date: 2026-07-08
 status: done
 category: ortho
 agenda: agenda/2026-06-25_clear-aligner-decision-interactive.md
 source_wiki:
   - wiki/overviews/clear-aligner-indications-limitations.md
   - wiki/orthodontics/clear-aligner/de-la-rosa-gay-2025-expansion-predictability-clear-aligner.md
+  - wiki/orthodontics/clear-aligner/bruni-2024-clear-aligner-maxillary-expansion-mixed-dentition.md
   - wiki/orthodontics/clear-aligner/marinelli-2025-temporary-anchorage-devices-clear-aligner-sr.md
   - wiki/orthodontics/clear-aligner/cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr.md
+  - wiki/orthodontics/clear-aligner/kuguoglu-2024-clear-aligner-attachment-third-molar-distalization-fea.md
+  - wiki/orthodontics/clear-aligner/shi-2026-pre-treatment-associated-factors.md
   - wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.md
   - wiki/orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.md
+updated: 2026-07-08  # clear-aligner-indications-limitations 46편/11축 갱신 반영 (Bruni 2024 혼합치열 확장·Kuguoglu 2024 제3대구치·Shi 2026 black-triangle)
 ---
 -->
 <!DOCTYPE html>
@@ -94,10 +98,10 @@ source_wiki:
 <div class="wrap">
 
   <h1>투명교정(Clear Aligner) 의사결정 도구</h1>
-  <div class="sub">LLM-Wiki · 투명교정 적응증·한계 종합(26편/10축) 기반 · 2026-06-25 · 개인 임상 참고용</div>
+  <div class="sub">LLM-Wiki · 투명교정 적응증·한계 종합(46편/11축) 기반 · 2026-06-25 (2026-07-08 갱신) · 개인 임상 참고용</div>
 
   <div class="assume">
-    <b>전제:</b> 위키 보유 26편의 종합(<i>clear-aligner-indications-limitations</i>) 결론인 <b>"적응증 gradient"</b>를 chairside 참조용으로 변환한 것. 환자별 진단·세팔로 분석을 대체하지 않으며, 어떤 출력도 절대 적응/금기를 단정하지 않는다. 정량 앵커(확장 0.92&nbsp;mm 오차 등)는 원논문 값이고, 가중치·수정계수는 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이다.
+    <b>전제:</b> 위키 보유 46편의 종합(<i>clear-aligner-indications-limitations</i>) 결론인 <b>"적응증 gradient"</b>를 chairside 참조용으로 변환한 것. 환자별 진단·세팔로 분석을 대체하지 않으며, 어떤 출력도 절대 적응/금기를 단정하지 않는다. 정량 앵커(성인 확장 0.92&nbsp;mm 오차·혼합치열 계획 1&nbsp;mm당 임상 0.58–0.72&nbsp;mm 등)는 원논문 값이고, 가중치·수정계수는 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이다.
   </div>
 
   <div class="tabs">
@@ -133,8 +137,10 @@ source_wiki:
       <li><span class="tag t-strong">합의수준</span> 효율 동등성은 경중등도 비발치에 한함; 중증·torque·rotation·extrusion엔 열등 — <b>Baneshi 2024</b>(RCT 21편) · <b>Yassir 2022</b>(18 SR 우산)</li>
       <li>발치/복잡 증례: 결과는 동등하나 CA는 예측-실제 괴리 큼, FA가 협설경사·교합접촉 우수 — <b>Jaber 2023</b>(6 trials)</li>
       <li>상악 대구치 원심이동 ~2&nbsp;mm 가능하나 전치 anchorage loss → TAD+IPR 병용 권장 — <b>Inchingolo 2023</b> · <b>Marinelli 2025</b>(TAD SR, 근거 low)</li>
+      <li>원심이동 계획 시 <b>제3대구치 스크리닝</b>: 완전맹출 제3대구치는 제2대구치 원심이동을 <b>10–22% 저해</b>(치관점)·17%(최대변위)하고 원심구개 회전 증가 — 발치 여부·느린 타임라인 사전 고려 — <b>Kuguoglu 2024</b>(단일모델 3D FEA, 경향성)</li>
+      <li>순차 상악 대구치 원심이동(측당 2–4&nbsp;mm) 후 상악 중절치 <b>개방형 치은유두(black-triangle, OGE) 17.3%</b>(13/75); 술전 예측인자 = 나이·전후방중첩·ANB·U1-NA (AUC 0.839) — 사전 상담·papilla 위험 고지 — <b>Shi 2026</b>(후향 n=75, 예비적)</li>
       <li>auxiliaries(attachment·power ridge·divot·elastics)가 치관-치근 불균등 응력을 재분배해 tipping→translation 전환 — <b>Cao 2025</b>(FEA 29편) · <b>Nucera 2022</b>(attachment SR)</li>
-      <li>횡적 골격 결손·성장기 골격확장은 conventional expander 우위(CA 확장은 주로 치조성) — <b>Fonseca-Planells 2026</b></li>
+      <li>횡적 골격 결손·성장기 골격확장은 conventional expander 우위(CA 확장은 주로 치조성) — <b>Fonseca-Planells 2026</b> · 혼합치열 확장 정량치는 탭 ② 참조 — <b>Bruni 2024</b></li>
     </ul>
   </div>
   </div>
@@ -189,11 +195,12 @@ source_wiki:
   <div class="card src">
     <h2><span class="n">근</span>근거 &amp; 모델</h2>
     <ul>
-      <li><b>정량 앵커(원논문):</b> 성인 Invisalign 확장 <b>평균 오차 0.92&nbsp;mm·부위 72.2%가 과소확장</b>; 상악·구치부·crossbite·큰 계획 확장일수록 예측성 악화 — <b>de la Rosa-Gay 2025</b>(후향코호트 n=98, multilevel GLMM)</li>
-      <li><b>성장기:</b> CA 확장 가능하나 conventional expander 대비 유의 적고 주로 <b>치조성(dentoalveolar)</b> — 골격 결손엔 conventional 우위 — <b>Fonseca-Planells 2026</b>(15편/7 pooled)</li>
-      <li><span class="tag t-est">추정</span> 기본 부족분 0.9&nbsp;mm는 원논문 평균오차. 부위·crossbite·확장량에 따른 추가 마진(+0.3&nbsp;mm/요인)과 효율 환산은 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이며 환자별 회귀계수가 아님.</li>
+      <li><b>정량 앵커 — 성인:</b> Invisalign 확장 <b>평균 오차 0.92&nbsp;mm·부위 72.2%가 과소확장</b>; 상악·구치부·crossbite·큰 계획 확장일수록 예측성 악화 — <b>de la Rosa-Gay 2025</b>(후향코호트 n=98, multilevel GLMM)</li>
+      <li><b>정량 앵커 — 혼합치열(성장기):</b> 계획-대비-임상 발현 <b>전체 80.2%</b>, 부위별 <b>견치간 87.7%→영구대구치 67.9%</b>, 계획 1&nbsp;mm당 임상 <b>0.58–0.72&nbsp;mm</b>; 대구치 5&nbsp;mm 임상확장에 ClinCheck ≈<b>7&nbsp;mm</b> 필요, 확장은 주로 <b>협측 치관경사</b>(치조성) — <b>Bruni 2024</b>(전향 n=40, 평균 8.7세, Invisalign First)</li>
+      <li><b>성장기 골격:</b> 골격성 횡적 결손엔 CA 확장이 conventional expander 대비 유의 적음(주로 치조성) — 봉합/정형 확장 필요 시 RME 우선 — <b>Fonseca-Planells 2026</b>(15편/7 pooled)</li>
+      <li><span class="tag t-est">추정</span> 성인 기본 부족분 0.9&nbsp;mm는 원논문 평균오차, 성장기 부위 효율(72/85%)은 Bruni 원논문 값. crossbite·큰 확장에 따른 상단 마진(+0.6/+0.4&nbsp;mm)과 위험 pill은 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이며 환자별 회귀계수가 아님.</li>
     </ul>
-    <div class="muted">⚠ 이 계산기는 <b>성인 상악</b> 데이터 기반. 하악·성장기 골격확장에는 외삽하지 말 것.</div>
+    <div class="muted">⚠ 성인=de la Rosa-Gay, 성장기=Bruni 혼합치열 <b>치조성 확장</b> 데이터. <b>하악·진정한 골격성 횡적 확장(RME 영역)에는 외삽하지 말 것.</b></div>
   </div>
   </div>
 
@@ -211,7 +218,7 @@ const HARD = [
 const SOFT = [
   ["torque","전치 토크 조절 필요","attachment·power ridge로 보조 (Cao 2025·Nucera 2022)"],
   ["rot","견치/소구치 심한 회전(>30°)","원형 단면 회전엔 attachment 필수 (Nucera 2022)"],
-  ["dist","상악 대구치 원심이동(Class II)","TAD+IPR 병용 시 예측성↑ (Inchingolo 2023·Marinelli 2025)"],
+  ["dist","상악 대구치 원심이동(Class II)","TAD+IPR 병용 시 예측성↑. 완전맹출 제3대구치는 원심이동 10–22%↓ (Kuguoglu 2024 FEA) — 사전 스크리닝. 순차 원심이동 후 상악 중절치 black-triangle(OGE) 17.3% (Shi 2026)"],
   ["deep","깊은 교합 — 전치 압하(intrusion)","근거 약하나 attachment로 일부 가능 (Nucera 2022)"],
   ["exp","경도 상악 확장 필요","치조성 확장 가능, over-correction 필요 (탭 ② 참조)"]
 ];
@@ -279,16 +286,33 @@ function seg(k,v){
 function calc(){
   const plan=parseFloat(document.getElementById("plan").value);
   document.getElementById("planV").textContent=plan.toFixed(1)+" mm";
-  // 기본 부족분 0.9mm = de la Rosa-Gay 평균오차(원논문). 효율 환산은 claude해석.
-  const base=0.9;
-  let achieved=Math.max(plan-base, plan*0.40);
-  let eff=Math.round(achieved/plan*100);
-  // 위험요인 → over-correction 상단 마진 (+0.3mm/요인, claude해석)
+  const growing = (S.age==="grow");
+  // 예측성 ↓ 위험요인(불확실성 pill·상단 마진 공용)
   let risk=0, why=[];
   if(S.pos==="post"){risk++; why.push("구치부");}
   if(S.cb==="yes"){risk++; why.push("crossbite");}
   if(plan>4){risk++; why.push("큰 계획확장(>4mm)");}
-  const overLo=base, overHi=base+0.3*risk;
+
+  let achieved, eff, overLo, overHi, modelNote;
+  if(growing){
+    // Bruni 2024 혼합치열(n=40, 평균 8.7세): 부위별 계획-대비-임상 발현율(원논문)
+    //   영구대구치(후방) 교두 77.8%/치은 67.9% → ≈72% · 유견치(전방) 87.7/82.7 → ≈85% · 전체 80.2%
+    //   계획 1mm당 임상 0.58–0.72mm; 대구치 5mm 임상확장에 ClinCheck ≈7mm(=71.4%)
+    eff = (S.pos==="post") ? 72 : 85;   // 원논문 부위 효율
+    achieved = plan*eff/100;
+    const need = plan*100/eff;          // 목표 plan mm 임상 확보에 필요한 ClinCheck 입력
+    overLo = need-plan;
+    overHi = overLo + (S.cb==="yes"?0.6:0) + (plan>4?0.4:0);  // 불확실성 상단(claude해석)
+    modelNote = `혼합치열 Bruni 2024 · ${S.pos==="post"?"영구대구치":"전치/견치"} 부위 효율`;
+  }else{
+    // de la Rosa-Gay 2025 성인(n=98): 평균오차 0.9mm, 부위 72.2% 과소확장 (기존 모델)
+    const base=0.9;
+    achieved=Math.max(plan-base, plan*0.40);
+    eff=Math.round(achieved/plan*100);
+    overLo=base; overHi=base+0.3*risk;  // +0.3mm/요인 = claude해석
+    modelNote = "성인 de la Rosa-Gay 2025";
+  }
+  eff=Math.round(eff);
   document.getElementById("oPlan").textContent=plan.toFixed(1);
   document.getElementById("oAchieved").textContent=achieved.toFixed(1);
   document.getElementById("oEff").textContent=eff;
@@ -301,12 +325,12 @@ function calc(){
   else if(risk===1){lvl="중간";clr="var(--warn)";}
   else{lvl="낮음";clr="var(--low)";}
   rl.textContent=lvl; rl.style.background=clr;
-  rw.textContent=why.length?` — ${why.join(" · ")} (예측성 ↓ 요인)`:" — 위험요인 없음";
+  rw.textContent=(why.length?` — ${why.join(" · ")} (예측성 ↓ 요인)`:" — 위험요인 없음")+` · 모델: ${modelNote}`;
   const cav=document.getElementById("oCaveat");
-  if(S.age==="grow"){
-    cav.innerHTML="⚠ <b>성장기</b>: 이 계산기는 성인 데이터 기반. 성장기는 CA 확장이 conventional expander보다 유의 적고 주로 치조성(치아경사) — <b>골격성 횡적 결손이면 RPE 등 conventional expander 우선 고려</b> (Fonseca-Planells 2026).";
+  if(growing){
+    cav.innerHTML="🧒 <b>성장기/혼합치열</b>: Bruni 2024(n=40) 기준 CA 확장은 <b>치조성(dentoalveolar)</b>이며 정확도가 전방(견치 87.7%)→후방(영구대구치 67.9%)으로 감소, 대구치 확장은 대부분 <b>협측 치관경사</b>다. 위 효율은 부위별 원논문 값. <b>진정한 봉합/정형 확장(true skeletal transverse deficit)이 필요하면 RME 등 conventional expander 우선</b> (Fonseca-Planells 2026).";
   }else{
-    cav.innerHTML="원논문 기준 부위 <b>72.2%가 과소확장</b>되었으므로 over-correction을 기본으로 두고, posterior·crossbite 증례는 상단 마진을 적용. 큰 확장은 단계적 재스캔(refinement)을 전제로 계획.";
+    cav.innerHTML="원논문(de la Rosa-Gay 2025) 기준 부위 <b>72.2%가 과소확장</b>되었으므로 over-correction을 기본으로 두고, posterior·crossbite 증례는 상단 마진을 적용. 큰 확장은 단계적 재스캔(refinement)을 전제로 계획.";
   }
 }
 calc();
