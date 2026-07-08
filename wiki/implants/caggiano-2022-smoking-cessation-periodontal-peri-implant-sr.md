@@ -58,3 +58,4 @@ For Korean implantology counseling: cessation before and around implant placemen
 - [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — dose-response.
 - [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — failure + MBL.
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanism.
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.
