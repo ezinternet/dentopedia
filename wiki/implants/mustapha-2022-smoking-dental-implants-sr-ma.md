@@ -53,3 +53,4 @@ PRISMA SR+MA; pooled effect sizes for smoker vs non-smoker.
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — cessation effect.
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — mechanism.
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — classic Moy cohort.
+- [[overviews/smoking-tobacco-periodontal-implant-overview]] — synthesis of the full smoking/tobacco-periodontal-implant evidence cluster.
