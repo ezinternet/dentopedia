@@ -9,6 +9,8 @@ category: [implants]
 confidence: retrospective
 pmcid: PMC7680819
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/eskan-2020-tapered-implants-full-arch-immediate-function.txt
+text_filename: eskan-2020-tapered-implants-full-arch-immediate-function.txt
 tags: [tapered-implants, full-arch, immediate-loading, BLT, NDI, Ti-Zr, marginal-bone-loss]
 ---
 
