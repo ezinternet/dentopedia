@@ -19,15 +19,15 @@ AO/AAP SR+MA of 93 studies: nonsplinted (8 articles, p=0.04), platform-switched 
 
 screw- vs cement-retention (p=0.51) and crown-to-implant ratio (p=0.32) showed no significant MBL difference.
 
-(incomplete)
+Emergence angle <30° and concave/straight emergence profile were linked to lower peri-implantitis risk (2 articles each, p=0.05/0.03), but most WMDs are small (<0.3 mm) with high heterogeneity, so clinical (not just statistical) significance remains uncertain for several factors.
 
 ## 세줄요약
 
-93편 AO/AAP SR+MA: 비연결(nonsplinted, p=0.04), 플랫폼스위칭(p<0.0001), 원추형 내부연결(p<0.0001), 어버트먼트 높이 ≥2 mm(p<0.0001), one-abutment-one-time(p<0.0001)은 임플란트주위 변연골소실(MBL)을 줄였고, 나사 vs 시멘트 유지(p=0.51)·치관-임플란트 비(p=0.32)는 차이 없음.
+93편(메타분석 85편)을 포함한 AO/AAP 공동 SR+MA — 비연결(nonsplinted, 8편, p=0.04)·플랫폼스위칭(20편, p<0.0001)·원추형 내부연결(20편, p<0.0001)·지대치 높이 ≥2mm(12편, p<0.0001)·one-abutment-one-time(10편, p<0.0001)은 임플란트주위 변연골소실(MBL)을 줄임.
 
-(incomplete)
+나사 vs 시멘트 유지(p=0.51)·치관-임플란트 비(Crown-to-Implant Ratio, p=0.32)는 MBL에 유의한 차이 없음.
 
-(incomplete)
+출현각도(Emergence Angle) <30°·오목/직선 출현 형태는 임플란트주위염 위험 감소와 연관(각 2편, p=0.05/0.03)되나, 대부분의 WMD 차이는 작고(<0.3mm) 이질성이 높아 임상적 유의성은 제한적.
 
 ## 1. Document Information
 
