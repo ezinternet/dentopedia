@@ -1,0 +1,212 @@
+Title: A Randomised Controlled Trial Evaluating 3-Year Survival Rates and Technical Complications of Screw-Retained Hybrid Abutment Crowns on Two-Piece Zirconia and Titanium Implants
+Authors: Sterzenbach G, Richter K, Alpen K, Khoshreza H, Beuer F, Thiele T
+Journal: Clinical Oral Implants Research
+Year: 2025
+DOI: 10.1111/clr.14443
+PMID: 40297919
+PMCID: PMC12319353
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+=== ABSTRACT ===
+
+Objectives
+This study compares the cumulative survival and technical complications of screw-retained implant-supported lithium disilicate crowns (SICs) on polyether ketone ketone (PEKK) base abutments and zirconia implants with those of titanium base abutments and titanium implants.
+
+Materials and Methods
+Sixty participants were randomly and evenly assigned to receive zirconia or titanium implants. Survival and technical complications were assessed at 6 weeks after crown placement (baseline) up to 36 months. The cumulative survival of the SICs was analysed as a non-inferiority design, assuming that the difference between the titanium group and the zirconia group is not more than 10%. Technical complications were assessed based on modified USPHS criteria and Pink Aesthetic Score (PES).
+
+Results
+In the zirconia group, three early implant failures occurred; all of them were successfully revised. After baseline, three implants in the zirconia group were lost due to insufficient osseointegration, and therefore the SICs have to be categorised as failures even though none of the SICs failed. The non-inferiority of the zirconia group could not be confirmed, as the cumulative survival was 10.7% lower compared to the titanium group (100%). The technical complication rate was low, with no statistically significant difference between the groups. The PESs improved significantly compared to baseline, with no significant difference between the groups at 12 months.
+
+Conclusion
+Hybrid abutment SICs with PEKK base abutments on two-piece zirconia implants could be an alternative to hybrid abutments SICs with titanium base on titanium implants. However, the lower osseointegration rate of the zirconia implants has to be considered.
+
+This study was registered in the German Clinical Trial Register (Deutsches Register Klinischer Studien) (number: DRKS00014866)
+
+=== FULL TEXT ===
+
+1 Introduction
+
+Recently, two-piece ceramic implant systems have been introduced in clinics as alternatives to corresponding titanium or one-piece ceramic implant systems (Cionca et al.; Koller et al.). These two-piece systems offer higher prosthetic flexibility to accommodate various clinical situations and facilitate guided bone regeneration, and withstand clinically relevant masticatory forces (Spies et al.; Bethke et al.). In contrast, one-piece systems lack abutment angulation and have limitations in vertical positioning (Gamper et al.; Kohal et al.; Roehling et al.).
+
+Ceramic zirconium dioxide (ZrO2 or zirconia) is currently the most commonly used material for ceramic dental implants, abutments, and prosthetic reconstructions. Zirconia is a valid alternative to titanium due to its material properties and tooth-like colour, particularly for single implant-supported crowns (Soler et al.; Biguetti et al.).
+
+With an increasing number of patients seeking metal-free implant alternatives, zirconia is a valid alternative, providing fracture load behaviour to withstand masticatory forces and comparable soft-tissue- and osseointegration behaviour to titanium (Comisso et al.). In addition to its aesthetic advantages, zirconia shows less bacterial adhesion and plaque formation (Roehling et al.; Sivaraman et al.), potentially mitigating marginal bone loss due to peri-implantitis. The reported survival rates of one-piece and two-piece zirconia systems are acceptable (Hashim et al.; Padhye et al.; Brunello et al.; Sala et al.).
+
+In two-piece systems with screw-retained abutments, zirconia implants are combined with zirconia abutments or, in hybrid forms, with composite or polymer abutments such as polyether ether ketone (PEEK) or polyether ketone ketone (PEKK). These abutments are generally combined with adhesively bonded monolithic all-ceramic crowns, such as those made of lithium disilicate (LS). While sometimes cement-retained, they are mostly screw-retained (Joos et al.), enabling damage-free removal or restoration replacement as needed. Screw-retained SICs minimise biological complications such as peri-implant inflammation caused by cementation residues, which are responsible for issues seen with cemented abutments (Linkevicius and Vaitelis; Cantarella et al.; Kraus et al.). Despite the benefits, screw retention can be challenging to realise and, depending on the design, handling, and clinical situation, may cause problems such as fractures or early loosening (Haro Adánez et al.). In vitro studies on two-piece screw-retained ceramic implants have shown higher fracture rates at the abutment screw than two-piece titanium implants (Preis et al.; Osman and Swain). To compensate for this, hybrid abutments made of thermoplastic polymers (PEEK or PEKK) have been designed to help mitigate stress shielding, as their elasticity modulus closely mirrors that of bone (Mishra and Chowdhary; Perez-Martin et al.).
+
+To date, no studies or randomised controlled trials have compared the cumulative survival and technical complications of all-ceramic crowns on two-piece screw-retained zirconia-based implant systems with their respective two-piece titanium systems. In general, evidence directly comparing different materials in two-piece systems is sparse (Neugebauer et al.).
+
+Recently adapted clinical guidelines, such as the EAO position paper or German S3 guidelines on the use of dental implants, have refrained from reaching a conclusion or recommending the use of two-piece ceramic implants in clinical practice due to insufficient clinical evidence (Thiem et al.).
+
+This study closes this gap by providing robust clinical evidence for the aforementioned missing data.
+
+2 Materials and Methods
+
+2.1 Study Design and Population
+
+A total of 60 participants (34 women) with a mean age of 44 years (range: 21-67 years) were included in this prospective randomised controlled study between January 2018 and September 2019.
+
+Written informed consent was obtained from all the participants.
+
+The study was approved by the ethical committee of the Charité-Universitätsmedizin Berlin (EA4/041/18) and performed in accordance with the Declaration of Helsinki, German Medical Device Law, ISO14155 Clinical Investigation of Medical Devices, and Good Clinical Practice. It was registered in the German Clinical Trial Register (DRKS00014866) and followed CONSORT guidelines.
+
+2.1.1 Inclusion/Exclusion Criteria
+
+Eligible participants were required to be older than 20 years, have a minimum premolar or molar single-tooth gap of 7.5 mm, and have a functional antagonist in the posterior region for the replacement unit. Implant placement requires acceptable bone volume and a residual bone height of no less than 10 mm to ensure implant placement without needing vertical or lateral bone augmentation. A waiting period between extraction and implantation of at least 4 months was required to achieve sufficient bone healing. Any implant adjacent to the planned implantation site had to be placed for at least 1 year.
+
+Participants who were heavy smokers (>10 cigarettes per day) or had a history of alcohol or drug abuse with the need for medical care were excluded from the study. Participants with systemic diseases, such as unmanaged or poorly managed diabetes, endocrine disorders, and cardiovascular disorders, and those taking medications known to affect bone metabolism, including bisphosphonates, corticosteroids, monoclonal antibodies, tyrosine kinase inhibitors, and methotrexate, were not considered. Other exclusion criteria included a history of head and neck irradiation, coagulopathy, or ongoing anticoagulation therapy, as well as substandard oral hygiene, active and untreated periodontal disease, parafunction such as bruxism with distinctive tooth wear, and known allergies or sensitivities to materials used in the study. Finally, this study did not include pregnant or lactating women.
+
+Recruitment, treatment, and follow-up of all participants took place at Dentalzentrum Pankow, Berlin, Germany.
+
+2.1.2 Randomisation
+
+The participants were evenly randomised into two groups - the test group (zirconia group): zirconia implant, restored with a screw-retained PEKK abutment with a bonded LS2 crown (Implant: CERALOG Hexalob 8 mm, 4.0, CAMLOG Biotechnologies GmbH, Basel, Switzerland; crown: IPS e.max CAD, Ivoclar, Lichtenstein) - and the control group (titanium group): titanium implant restored with a screw-retained titanium adhesive base with a bonded LS2 crown (Implant: CAMLOG screw-line 9 mm, 4.3, CAMLOG Biotechnologies, crown: IPS e.max CAD, Ivoclar). The allocation concealment was maintained by TT. The patients were allocated to one of the two study groups immediately before implantation by an individual not involved in the study through the random selection of one out of 60 lottery tickets from a sealed box (urn randomisation). The study was unblinded for the surgeons (TT and GS) due to the clear visual distinction between the two implant systems, while the clinicians who performed the clinical inspection at follow-up assessment were blinded (KR, KA, HK).
+
+2.2 Outcome Measures
+
+2.2.1 Primary Outcome
+
+The cumulative survival and success of hybrid abutment SICs on two-piece zirconia or titanium implants were assessed over a follow-up period of up to 3 years. Survival was defined as partial or complete crown loss requiring a new SIC irrespective of the cause of failure.
+
+2.2.2 Secondary Outcome
+
+The occurrence of technical complications of the SICs was evaluated using the modified USPHS criteria (Table 1) and aesthetic parameters, including the Pink Aesthetic Score (PES) and White Aesthetic Score (WES).
+
+TABLE 1 — Modified USPHS criteria for two-piece screwed-retained hybrid abutment ceramic crowns (A = best, D = worst)
+- Ceramic fracture: A No chipping / B Minor chipping / C Major chipping / D Large-area fracture
+- Surface texture: A Smooth / B Slight roughness / C Distinct roughness / D Replacement
+- Anatomic form: A Fits into dental arch / B Slightly over-/under-contoured / C Clearly over-/under-contoured / D Clinically unacceptable
+- Aesthetic/colour: A Good aesthetics / B Slight colour difference / C Strong colour difference / D Clinically unacceptable
+- Occlusal closure colour: A Good colour design / B Colour difference / C Discoloration / D Fracture
+- Occlusal marginal gap: A No gap / B Gap detectable / C Gap clearly visible / D Fracture
+- Connection/retention: A Firm / B Loosening (screw, crown), clinically restorable / C Loosening, restorable by replacing an element (screw, crown) / D Replacement
+
+2.3 Statistical Methods
+
+The sample size was calculated based on an assumed cumulative survival rate of 95% for titanium SICs after 5 years. The non-inferiority limit (d) is set at 10%. Alpha = 0.05, power (1-beta) = 0.8. To test the zirconia group's non-inferiority, 30 cases per group were required (Sealed Envelope Ltd. 2012 power calculator for binary outcome non-inferiority trials). Cumulative survival rates were determined using the Log-Rank test. Means and standard deviations were computed for descriptive analyses. Fisher's exact test, exact Mann-Whitney U test, exact Wilcoxon test, and Log-Rank test were used (significance p<0.05). The primary endpoint analysis examined the cumulative survival rate of the final SIC, adhering to the intention-to-treat analysis (Kaplan-Meier calculation). For secondary endpoints (USPHS criteria, PES and WES differences vs baseline), Mann-Whitney and Wilcoxon tests were used. SPSS software (version 29) was used for all analyses.
+
+2.4 Surgical Procedures Supported by Digital Workflow
+
+Implant positioning planning, drilling-template fabrication, and hybrid abutment crown fabrication followed a digital workflow.
+
+2.4.1 Implant Surgery
+
+Semi-navigated template-guided implant placement was performed using backwards planning. A full-arch scan using CEREC Omnicam was processed with InLab SW to determine ideal crown shape and position by superimposing STL and DICOM datasets in Galileos Implant planning software. Drilling templates were 3D printed (V-Print SG resin, SolFlex 170 SMP; VOCO). Implants were inserted at bone level under local anaesthesia (Ultracain 1:200000) per manufacturer recommendations, with crestal incision and mucoperiosteal flap. Intraoperative intraoral scans of implant position used CEREC scan bodies with CEREC Omnicam in the titanium group; since no scan body exists for the ceramic implants, zirconia implant position was recorded using an intraorally fabricated light-curing resin splint prior to soft tissue closure, fixed to a printed model with a model implant screwed in, then scanned for crown fabrication. Titanium implants received cover screws; zirconia implants were sealed with sterile bone wax. Wounds were closed with nonabsorbable suture (Seralon 5/0) removed 7-10 days post-surgery.
+
+2.4.2 Crown Manufacturing
+
+Based on intraoral (titanium group) or model scans (zirconia group), lithium disilicate SICs were fabricated (IPS e.max CAD, Ivoclar) via CAD/CAM, followed by staining and glazing. The bonding interface was acid-etched with 5% hydrofluoric acid (VITA Ceramic etch) for 20 s, primed with Monobond Plus (Ivoclar). Abutments (PEKK-base or titanium-base) were sandblasted (Al2O3 50 μm, 4 bar). Crowns were bonded by hand with luting composite (control group: Multilink, Ivoclar; test group: Unicem 2, 3M).
+
+2.4.3 Restoration
+
+Final restoration occurred 4 months after zirconia implant placement and 3 months after titanium implant placement. Under local anaesthesia, the implant shoulder was exposed and soft tissue shaped via gap flap formation. Hybrid crowns were checked for occlusal static contact (no dynamic contact) and aesthetics before screw insertion — titanium screw for titanium implants, gold screw for zirconia group — using a torque ratchet (25 Ncm titanium, 15 Ncm zirconia) per manufacturer recommendation. After a repeat torque check at 10 min, the screw channel was sealed with composite (Amaris, VOCO) light-cured. Occlusion was re-evaluated and adjusted with ceramic and silicone polishers.
+
+2.5 Follow-Up Procedure
+
+SICs were evaluated by modified USPHS criteria first at 6 weeks after crown placement (baseline, to allow complete soft tissue healing) and then at 6, 12, 24, and 36 months after baseline. PES and WES were evaluated at baseline and 12 months.
+
+2.6 Modified USPHS Criteria
+
+Technical complications were assessed using USPHS criteria (Cvar and Ryge) as modified by Spies et al. for cemented all-ceramic implant crowns, further re-modified here for screw-retained SICs. Scale A (no problems) to D (significant issues) covering ceramic fracture, surface texture, anatomic form, aesthetics/colour, occlusal closure colour, occlusal marginal gap, and connection/retention. Assessment performed at each recall by trained practitioners (KR, HK, KA).
+
+2.7 Pink Aesthetic Score / White Aesthetic Score
+
+PES and WES calculated as sum of individual parameter scores (0-10 each, 10 = highest quality) per Fürhauser et al. and Belser et al. Scores ≥6 considered clinically acceptable. Mean scores assessed at baseline and 12 months by three trained staff (KR, GS, HK); consensus of ≥2 evaluators required.
+
+2.8 Patient-Reported Outcome Measures
+
+An unvalidated questionnaire developed by the authors assessed treatment from the participant's perspective (general satisfaction question with 5-point scale from very satisfied to very dissatisfied). PROMs covering comfort, appearance, chewing function, taste perception, fit, and overall satisfaction were voluntarily administered at 36 months by post.
+
+3 Results
+
+3.1 Study Population
+
+No significant differences in age, sex, or time between implantation and SIC placement between groups. Mandibular molars were the most frequently replaced teeth.
+
+TABLE 2 — Baseline characteristics
+- Number: Titanium 30, Zirconia 30
+- Age (years) mean, range: Titanium 43.8 (21-72.4); Zirconia 44.1 (26.1-67.1) — n.s.
+- Age bands (up to 35 / 36-45 / 46-55 / 56+): Titanium 8/9/9/4; Zirconia 7/11/7/5
+- Gender (M/F): Titanium 12/18; Zirconia 12/18
+- Baseline after restoration (days): Titanium 51.9; Zirconia 53
+- Time after implantation (days): Titanium 194.9; Zirconia 196.4
+- Implant region — Lower jaw: Titanium 20, Zirconia 24; Upper jaw: Titanium 10, Zirconia 6
+- Side — Left: Titanium 15, Zirconia 12; Right: Titanium 15, Zirconia 18
+- Tooth type — Premolar: Titanium 8, Zirconia 6; Molar: Titanium 22, Zirconia 24
+- Exclusions: Screening n=9 (detailed in flow chart); Lost to follow-up n=2 (all efforts to locate failed); Implant failure n=3 (failure through incomplete osseointegration)
+
+3.2 Cumulative Survival of Ceramic SICs up to 3 Years
+
+Three zirconia implants failed early, before any SIC could be performed; all were revised and healed without further complications, and final treatment proceeded as scheduled. After baseline (final SIC placement), two further failures occurred in the zirconia group during the first year and a third after 30 months. In all three post-baseline cases, it was not the SIC that failed — the cause of loss was a biological complication at the implant level. Aseptic connective tissue encapsulation of the implants was observed in all three cases, indicating incomplete osseointegration. Additionally, two participants in the zirconia group discontinued the study or failed to attend follow-up visits. All SICs in the titanium group survived. The cumulative survival rate of the zirconia group was 10.7% lower than the titanium group (100%).
+
+Estimated cumulative survival rate (Clopper-Pearson 90% CI, two-sided) after 3 years: Titanium group (n=30) = 100% (0.926/1.0); Zirconia group (n=28) = 89.3% (0.746/0.97). This represents a survival probability exceeding 74.6% with 95% confidence, one-sided. In the worst case, the cumulative survival rate for the titanium group is 92.6% (lower limit of the one-sided 95% CI). Per the null hypothesis, with the 10% non-inferiority margin, the zirconia group's cumulative survival should be above 82.6% — but the lower limit for the test group is 74.6%, which is lower than this. Non-inferiority was therefore NOT confirmed.
+
+In contrast, comparison of cumulative survival rates via Log-Rank test showed no significant difference between groups (p=0.068).
+
+3.3 Evaluation of Technical Parameters Using Modified USPHS Criteria
+
+For all modified USPHS criteria, group differences after 36 months were tested with exact Mann-Whitney U test — no significant differences found in any parameter.
+
+No events were observed in category D (clinically unacceptable / requiring new SIC fabrication) in either group — i.e., no technical failure in either group, though technical complications occurred. Category C (repair needed): mainly chipping (2 events, zirconia group, no impact on clinical functionality) and loss of retention to the adhesive base (2 events, zirconia group, successfully re-cemented). Category B findings (titanium/zirconia): anatomic form 23%/20%; aesthetic/colour 37%/40%; occlusal closure colour 43%/48%; occlusal marginal gap 27%/32% — mainly aesthetic deviations with no functional influence. Crown loosening due to screw loosening: once in titanium group, twice in zirconia group — all three resolved by changing screws. No significant between-group difference in category B event rate — technical complication rate not statistically different between groups.
+
+In summary: 2 technical complications observed in the titanium group and 6 in the zirconia group.
+
+TABLE 3 — Modified USPHS parameters between groups after 36 months (A/B/C, N and %, p-value Mann-Whitney U)
+- Ceramic fracture: Titanium A29(96.7%) B1(3.3%) C0; Zirconia A23(92.0%) B0 C2(8%); p=0.202
+- Surface texture: Titanium A25(83.3%) B5(16.7%) C0; Zirconia A20(80.0%) B5(20.0%) C0; p=1.000
+- Anatomic form: Titanium A23(76.7%) B7(23.3%) C0; Zirconia A19(76.0%) B5(20.0%) C1(4.0%); p=0.643
+- Aesthetic/colour: Titanium A19(63.3%) B11(36.7%) C0; Zirconia A14(56.0%) B10(40.0%) C1(4.0%); p=0.501
+- Occlusal closure colour: Titanium A16(53.3%) B13(43.3%) C1(3.3%); Zirconia A13(52.0%) B12(48.0%) C0; p=0.803
+- Occlusal marginal gap: Titanium A19(63.3%) B8(26.7%) C3(10.0%); Zirconia A16(64.0%) B8(32.0%) C1(4.0%); p=0.856
+- Connection/retention: Titanium A28(93.3%) B1(3.3%) C0; Zirconia A23(92.0%) B2(8.0%) C2(8.0%); p=0.151
+
+3.4 Evaluation of Aesthetic Parameters
+
+3.4.1 Pink Aesthetic Score
+
+At baseline, zirconia group (mean 6.13, SD 2.074) had a lower level than titanium group (mean 7, SD 2.226); this was significant for clinical acceptability at baseline (p=0.009, Fisher's exact; Ti −12.5% clinically unacceptable vs Zi 47.8% clinically unacceptable). After 12 months, no significant difference between groups (p=0.085, Fisher's exact). Both groups improved significantly at 12 months (titanium mean 8.38, SD 1.555, p<0.001; zirconia mean 7.43, SD 1.950, p<0.001).
+
+3.4.2 White Aesthetic Score
+
+Proportions of clinically acceptable values were identical at baseline. At 12 months: zirconia group mean 7.65 (percentiles 25/75: 7/9 approx, text shows 725/10 formatting artifact); titanium group mean 8.33 (7/9) — no significant difference (p=0.096, exact Mann-Whitney U).
+
+3.5 Patient-Reported Outcome Measures
+
+Only 24 patients responded (titanium group 50% response, zirconia group 30% response). Participation rates were higher among younger individuals. Titanium group: 83.3% very satisfied, 16.7% satisfied (overall satisfaction). Zirconia group: 77.8% very satisfied, 20.4% satisfied, 1.9%(reported, likely rounding) dissatisfied (overall satisfaction). Due to low response rate, no further statistical evaluation performed.
+
+TABLE 4 — PROMs at 3 years (categories: comfort, appearance, chewing function, taste perception, fit, overall satisfaction), % very satisfied / satisfied / medium / dissatisfied / very dissatisfied
+- Comfort: Titanium 73.3/26.7/0/0/0; Zirconia 66.6/33.3/0/0/0
+- Appearance: Titanium 86.7/13.3/0/0/0; Zirconia 77.8/22.2/0/0/0
+- Chewing function: Titanium 93.3/6.7/0/0/0; Zirconia 88.9/11.1/0/0/0
+- Taste perception: Titanium 86.7/13.3/0/0/0; Zirconia 88.9/11.1/0/0/0
+- Fit: Titanium 80/20/0/0/0; Zirconia 66.7/22.2/0/11.1/0
+- Overall satisfaction: Titanium 80/20/0/0/0; Zirconia 77.8/22.2/0/0/0
+
+4 Discussion
+
+This is the first RCT to directly compare zirconia- and titanium-implant-based all-ceramic screw-retained SICs up to 3 years in a valid clinical setting, providing robust clinical data for SICs on two-piece implant systems of comparable dimensions.
+
+The primary non-inferiority objective was to show cumulative survival of titanium does not exceed zirconia by more than 10%. The one-sided 95% CI for the empirical difference (titanium minus zirconia) needed an upper limit <10% to prove non-inferiority. Since the empirically estimated difference already exceeded 10%, the upper limit cannot be <10% — there is no confidence that hybrid abutment SICs on zirconia implants perform as well as SICs on titanium implants, and caution should be exercised when considering this treatment option. Failure to prove H1 does not prove the null hypothesis; the Log-Rank test for equality of survival curves was not significantly rejected (p=0.068).
+
+Crowns were fabricated from intraoperative scans (titanium group) or splint registration (zirconia group) during implant placement; final SIC placed immediately after second-stage surgery (one abutment, one time). Lithium disilicate was chosen for flexural strength, aesthetics, and reliable adhesive bonding to abutment luting bases (Naumann et al.; Edelhoff et al.). Initial data on occlusal screw-retained hybrid abutment crowns of lithium disilicate on titanium implants show similar survival and technical complication rates to this study's data (Mohseni et al.; Naumann et al.).
+
+Three zirconia implants failed due to incomplete osseointegration early on (connective tissue cuff without bone contact) but completely healed after revision and were successfully restored. Implant loss within 24 months attributed to osseointegration problems with zirconia implants has been previously reported (Jank and Hochgatterer; Koller et al.; Brunello et al.; Hossain et al.; Padhye et al.). No further failure mode such as implant fracture was observed, aligning with Zhang et al. While 3-month healing for titanium implants is clinical standard, evidence for ceramic implants is limited; manufacturer recommends 3-6 months. The 4 months used here is within manufacturer recommendation and comparable to other clinical studies (Kohal et al.; Koller et al.; Balmer et al.).
+
+Two zirconia-group patients were lost to follow-up despite extensive location efforts, adversely affecting cumulative survival results; with only 60 patients total, each dropout makes reliable conclusions more challenging.
+
+USPHS criteria (modified from Spies et al., who reported cemented crowns on one-piece zirconia implants) showed similar functionality for both groups with no significant difference between or within groups after 3 years. Since survival mainly depends on the implant, the modified USPHS criteria reflect technical complications of the entire SIC complex including the abutment.
+
+One screw loosening occurred in the titanium group and two in the zirconia group; an additional two ceramic crowns showed loss of retention from the PEKK base abutment. All SICs were placed at second-stage surgery (one abutment-one time concept), which may have caused screw loosening if tissue debris was trapped between abutment and implant shoulder during screwing, reducing torque after resorption. Loss of retention between the lithium disilicate crown and PEKK base abutment shows micromechanical retention is a weak point for this abutment even though the particle air-abrasion protocol used exhibited the highest bond strength values in prior work (Cantarella et al.). Successful repair was possible in all five cases. This underlines the need for macro-retentive design, as adhesive bonding to PEKK remains a major challenge (Chopra et al.; Arvai et al.).
+
+PES (Fürhauser et al.) was used for aesthetic evaluation; although designed for the anterior region, it allowed comprehensive posterior assessment. PES improved for both systems within 12 months; although more clinically unacceptable values were initially observed in the zirconia group, outcomes were comparable by 12 months. Zirconia implants did not offer significant soft-tissue aesthetic benefit over titanium implants at 12 months. PROM interpretation is limited by absent baseline data and low 3-year response rate, though most respondents were satisfied.
+
+Limitations: sample of 60 patients is relatively small, limiting generalizability. Unequal dropout rates between groups raise bias concerns. Results are strictly limited to the specific materials/components used, particularly for the zirconia group. PES/WES aesthetic assessment was only performed at 1 year, limiting longitudinal insight. Absence of baseline PROMs and limited 3-year response rate limit assessment comprehensiveness.
+
+The difference in cumulative survival is not attributable to the prosthetic component — no technical complications resulted in crown failure. In all three implant-loss cases, aseptic connective tissue septation indicated incomplete osseointegration.
+
+The study's primary objective was to compare survival/technical complications of the SICs rather than the implants themselves, but clinical significance must still be interpreted: although the p-value showed no significant difference in cumulative survival rates (no statistical dependence on implant system), a clinically relevant difference is evident — implant loss occurred in the zirconia group but not in the titanium group. This shows p-value analysis alone can miss clinically important differences such as the inferior survival rate of zirconia implants seen in the non-inferiority analysis. The prosthetic component performed comparably in both groups, while a clinically significant difference in osseointegration rate was observed at the implant level (6 total cases: 3 pre-crown, 3 post-baseline).
+
+Conclusion: Hybrid abutment SICs with PEKK base abutments on two-piece zirconia implants could be an alternative to hybrid abutment SICs with titanium base on titanium implants. However, the lower osseointegration rate of the zirconia implants must be considered.
+
+Ethics: Approved by Ethical Committee of Charité-Universitätsmedizin Berlin (EA4/041/18); conducted per Declaration of Helsinki and GCP guidelines. Written informed consent obtained from all participants. Authors declare no conflicts of interest. Registered in German Clinical Trial Register (DRKS00014866).
