@@ -9,6 +9,8 @@ category: [implants]
 confidence: prospective
 pmcid: PMC8050379
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/coskunses-2021-narrow-diameter-implants-full-arch-fixed.txt
+text_filename: coskunses-2021-narrow-diameter-implants-full-arch-fixed.txt
 tags: [narrow-diameter-implants, full-arch, immediate-loading, Ti-Zr, NDI, marginal-bone-loss]
 ---
 
