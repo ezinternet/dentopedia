@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: true
 pmid: "41317686"
 pmcid: "PMC12702336"
+text_path: /Users/oracleneo/llm-wiki/papers/wang-2025-clear-aligner-premolar-extraction-3d-tooth-movement.txt
+text_filename: wang-2025-clear-aligner-premolar-extraction-3d-tooth-movement.txt
 tags: [orthodontics, clear-aligner, extraction, premolar-extraction, tooth-movement, tridimensional-analysis, root-control, anchorage-loss, cbct]
 relations:
   - type: extends
