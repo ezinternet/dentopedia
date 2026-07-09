@@ -9,6 +9,8 @@ category: [implants]
 confidence: in-vitro
 pmcid: PMC12834504
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/cabbarova-2026-all-on-four-six-framework-fea.txt
+text_filename: cabbarova-2026-all-on-four-six-framework-fea.txt
 tags: [all-on-four, all-on-six, framework-material, FEA, PEEK, zirconia, titanium, full-arch, biomechanics]
 ---
 
