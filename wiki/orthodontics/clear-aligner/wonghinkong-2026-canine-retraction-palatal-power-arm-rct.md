@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: true
 pmid: "42334533"
 pmcid: "PMC13291275"
+text_path: /Users/oracleneo/llm-wiki/papers/wonghinkong-2026-canine-retraction-palatal-power-arm-rct.txt
+text_filename: wonghinkong-2026-canine-retraction-palatal-power-arm-rct.txt
 tags: [orthodontics, clear-aligner, extraction, canine-retraction, power-arm, biomechanics, rct]
 ---
 
