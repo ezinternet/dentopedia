@@ -124,6 +124,7 @@ tags: []
 - [[implants/bosshardt-2017-osseointegration-titanium-zirconia-review]] — Ti/TiZr/지르코니아 임플란트 골유착 생물학 서사 리뷰: TiZr = cpTi, Ti6Al4V < cpTi, SLActive > SLA 초기 BIC (2017)
 - [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — Periodontology 2000 (2017) 서술 리뷰: 브로네마르크·슈뢰더 골유착(OI) 기원부터 SLA 표면·GBR·디지털 임플란트까지 50년 총정리 및 주위염·지르코니아 임플란트 미래 과제
 - [[implants/gaviria-2014-current-trends-dental-implants-review]] — 서사적 총론(JKAOMS 2014): 고대 마야 임플란트부터 Brånemark 골유착 발견까지 역사, 설계 파라미터(나사산·직경·어버트먼트 연결), SLA·HA코팅·성장인자 표면처리 및 신흥 생체모방 기능화 트렌드 종합 정리
+- [[implants/peri-implantitis/kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis]] — Kotsakis 2025 · narrative-review (JDR Critical Review): 티타늄 입자(implant-derived Ti particles, i-TiPs)를 임플란트주위염의 abiotic exposome으로 규정, host–microbiome–biomaterial 삼각 dysbiosis 기전 종설 (DOI 10.1177/00220345241307939)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
