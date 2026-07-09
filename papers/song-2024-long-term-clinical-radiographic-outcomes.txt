@@ -1,0 +1,102 @@
+Title: Long-term clinical and radiographic outcomes of a bone-level, 2-piece, internal connection implant system with coronal microthreads over 10 years of follow-up: a retrospective clinical study
+
+Authors: Young Woo Song, Seung Ha Yoo, Jin-Young Park, Jae-Kook Cha, Jeong-Won Paik, Jung-Seok Lee, Daniel S. Thoma, Ui-Won Jung
+
+Journal: Journal of Periodontal & Implant Science (JPIS) 2024;55(2):153-166 (published online 2024-11-13/2025 print — see PMC record)
+PMID: 40312941 / PMCID: PMC12056244
+DOI: 10.5051/jpis.2401100055
+Source: PubMed Central (retrieved via PubMed MCP get_full_text_article)
+
+ABSTRACT
+
+Purpose
+
+This study retrospectively investigated the long-term clinical and radiographic outcomes of a bone-level type, 2-piece, internal connection dental implant system characterized by coronal microthreads.
+
+Methods
+
+A total of 872 implants placed in 284 patients were selected from 1,845 implants placed in 691 patients by experienced periodontists at Yonsei University Dental Hospital. These selected implants had been followed up for over 10 years and were included in the present study. A statistical evaluation of implant survival and treatment success, based on changes in marginal bone levels, was conducted using electronic records and consecutively taken radiographs.
+
+Results
+
+Over a follow-up period of 12.3±2.0 years, 830 of the 872 implants remained intact, yielding a cumulative survival rate of 95.2% at the implant level and 88.4% at the patient level. The cumulative treatment success rates, characterized by marginal bone loss of less than 2 mm, stood at 87.0% for implants and 76.1% for patients. Among the 830 surviving implants, 113 fixtures were classified as ailing, with an average marginal bone loss of 4.09±1.44 mm. Cox regression analysis revealed that implants 8 mm in length or shorter were significantly more likely to fail or experience pathologic marginal bone resorption, with hazard ratios of 3.71 and 2.00, respectively (P<0.05).
+
+Conclusions
+
+The survival and treatment success of the investigated microthreaded, bone-level, 2-piece, internal connection implants were acceptable over a follow-up period exceeding 10 years. However, shorter dental implants exhibited a higher propensity for failure and excessive marginal bone loss.
+
+FULL TEXT (INTRODUCTION, MATERIALS AND METHODS, RESULTS, DISCUSSION)
+
+INTRODUCTION
+
+Dental implants have become one of the most widely performed procedures in daily practice due to their predictability, as shown by long-term survival rates exceeding 90% at 10 years. Initially, clinicians were primarily concerned with achieving osseointegration on machined implant surfaces due to their low hydrophilicity. However, recent advancements in surface treatment technologies have significantly increased hydrophilicity, facilitating the attachment of living bone cells to implants with rough surfaces, such as those that are sandblasted, large-grit, acid-etched (SLA), or have modified-SLA surfaces.
+
+Clinicians and researchers have focused on changes in marginal bone levels as a key metric for assessing the success of implant therapy. It is generally accepted that successful implant therapy should not result in marginal bone loss exceeding 0.2 mm annually after the first year of loading. Since the stress distribution at the crestal bone has a critical influence on peri-implant marginal bone loss, numerous attempts have been made to optimize the fixture design with the aim of achieving a balanced stress distribution at the crestal bone. In this regard, the introduction of microthreads at the coronal portion of the implant fixture has been significant. Previous preclinical and clinical studies have shown that microthreads are effective in minimizing marginal bone loss.
+
+Based on the aforementioned efforts, a rough-surfaced, bone-level, 2-piece, internal connection implant featuring microthreads at the coronal portion was recently introduced to the market (Implantium; Dentium, Suwon, Korea). This system is distinguished by its tapered, SLA-surfaced design, which includes a conical hex internal connection and microthreads below the fixture platform. Since its launch in 2004, the implant system has become popular among clinicians, largely due to its safety and clinical stability, which have been well-documented in previous studies, with cumulative survival rates of over 97% at 5 years and 94% at 10 years. As life expectancy increases, more patients are maintaining their implants for over a decade, underscoring the need for clinical studies with longer follow-up periods; however, such studies remain rare.
+
+Therefore, the present clinical study retrospectively investigated the clinical and radiographic outcomes of a bone-level, 2-piece, internal connection dental implant system with coronal microthreads during an observation period of over 10 years.
+
+MATERIALS AND METHODS
+
+Study design and population
+
+Retrospective clinical study of patients who underwent implant therapy with Implantium (Dentium, Suwon, Korea) from January 2004 to July 2013, treated by a faculty member or resident at the Department of Periodontology, Yonsei University Dental Hospital, Seoul, South Korea. Implant length/diameter selection was based on presurgical hard-tissue dimensions; adjunctive GBR or maxillary sinus graft performed as necessary. Inclusion: followed ≥10 years post-placement, clinical/radiological data available immediately after implantation and >10 years post-implantation. Exclusion: physiological disorders, uncontrolled diabetes, immune suppression, prior head/neck radiotherapy, bisphosphonate history, heavy smoking (>10 cig/day), parafunctional habits (bruxism/clenching). IRB approval: Yonsei University Dental Hospital (No. 2-2023-0032). STROBE checklist followed.
+
+Data collection
+
+Single examiner (S.H.Y.) reviewed electronic records for: patient factors (age, sex, general health), implant-related details (diameter, length, site, insertion torque, GBR/sinus graft, splinting), complication-related factors (marginal bone loss, implant removal).
+
+Outcome measurements
+
+Survival = implant remaining in oral cavity without indication for removal at most recent follow-up (incl. radiograph); failure = absence of implant for any reason. Early failure = removal before loading; late failure = removal after loading. Healthy implant = MBL <2mm; ailing implant = MBL ≥2mm. Periapical radiographs obtained immediately after placement and ≥10 years later, using extension cone paralleling technique (Rinn positioning device) and image-processing software (ZeTTA PACS). MBL measured from reference line at top of fixture platform to first bone-to-implant contact, mesial and distal, averaged. Treatment success = healthy state (MBL <2mm).
+
+Statistical analysis: SPSS v26; Kaplan-Meier for cumulative survival/success curves; Log-rank test for preliminary factor screening; significant factors entered into Cox regression with shared frailty (R v3.3.2). Significance threshold P<0.05.
+
+RESULTS
+
+Patient demographics
+
+Of 1,835 implants placed, 872 implants in 284 patients were included (963 excluded for lack of periodic follow-up). Male: 439 fixtures/145 patients; Female: 433 implants/139 patients. Mean age at surgery 54.5±10.4 years; 31.7% >60 years. Most implants posterior (757/872: 446 maxilla, 311 mandible); anterior 115 (68 maxilla, 47 mandible). >70% of fixtures had diameters 4.3mm or 4.8mm and lengths 8-12mm. GBR performed with 273 implants; sinus augmentation (lateral or crestal) with 148 implants. Mean insertion torque 35.5±10.7 Ncm (5 implants <20 Ncm). Splinted prostheses: 615; single: 257.
+
+Implant survival and failure analysis
+
+Of 872 implants monitored >10 years, 42 removed (12 male, 17 female patients). Cumulative survival rates: 95.2% implant-level, 88.4% patient-level. 5 early failures (within first year, before final prosthesis; all due to failed osseointegration, 4/5 with GBR or sinus grafts). 37 late failures (survived mean 9.43±2.77 years before explantation): 29 due to peri-implantitis, 8 due to mechanical complications (7 fixture fractures, 1 unretrievable fractured abutment). Among late failures, 9 implants associated with GBR/sinus grafts.
+
+Preliminary log-rank test: implant length was the sole factor influencing survival (P=0.012). Failed implants: 4.1% (28/690) were >8mm; 7.7% (14/182) were ≤8mm (7 or 8mm).
+
+Lifetime table (implant level): cumulative survival 99.31% at year 0, declining to 95.18% at >10 years (846 implants entering interval, 16 failures). Patient level: 98.94% at year 0 to 88.38% at >10 years.
+
+Peri-implant health analysis
+
+Mean MBL across 872 implants: 0.76±1.64mm. 113 fixtures deemed unsuccessful (MBL >2mm); mean MBL in these ailing implants 4.09±1.44mm (peri-implantitis-affected). Healthy implants: mean MBL 0.21±0.51mm. Of 113 ailing fixtures, 34 ultimately removed; 75 maxilla, 38 mandible; 12 anterior, 101 posterior. 12.2% of implants >8mm (84/690) had pathologic MBL vs 16.0% of implants ≤8mm (29/182). 46/113 ailing implants involved GBR (27) or sinus augmentation (19).
+
+Kaplan-Meier treatment success rate
+
+Cumulative treatment success: 87.0% implant-level, 76.1% patient-level. Implants ≤8mm had significantly lower success rate (P=0.029). Sinus augmentation associated with significantly lower success (P=0.007).
+
+Multiple Cox regression analysis (shared frailty)
+
+Two factors entered: fixture length, presence of maxillary sinus graft. Sinus graft not significant. Implant length significantly associated with both survival and success (P=0.005 and P=0.036 respectively). Implants ≤8mm: HR 3.71 for failure (95% CI 1.494-9.186) vs >8mm (reference). Implants ≤8mm: HR 2.00 for pathologic bone loss ≥2mm (95% CI 1.045-3.833) vs >8mm (reference). Sinus graft: HR 1.17 (P=0.757, not significant).
+
+DISCUSSION
+
+This retrospective study assessed 2-piece, bone-level, internal connection implants with coronal microthreads over >10 years. Implant-level cumulative survival exceeded 95%; treatment success slightly below 90% due to 113 ailing implants. Mean MBL across all implants <1mm (0.76mm), but ailing implants exceeded 4mm (4.09mm). Most failures occurred ≥1 year post-placement, primarily peri-implantitis; fewer failures from early osseointegration failure or mechanical complications.
+
+Compared to prior studies reporting >97% survival at 10 years for this fixture type, the present 95.2% appears slightly lower, but this study had a much larger sample (872 vs <200 fixtures in prior studies) and specifically examined periods beyond 10 years (37 late failures survived a mean of >9 years before explantation, suggesting some implants studied only to 10 years in prior work might fail later). Also, >half of implants placed (963/1835) were excluded for lack of follow-up, which could have inflated survival if included.
+
+Treatment success definition (MBL <2mm over >10 years) aligns with prior criteria for ailing implants. 87% implant-level success aligns with earlier studies. Coronal microthreads are generally accepted to optimize loading stress distribution and minimize MBL, supporting predictable success in most implants; however, 113/872 implants developed peri-implantitis with mean MBL >4mm, believed due to lack of thorough periodic maintenance (poor recall adherence).
+
+Contrary to concern that microthread spacing might hinder plaque control once exposed by bone resorption, prior SEM, preclinical, and clinical studies have shown mechanical decontamination is actually more effective on microthreaded surfaces than larger thread-pitch surfaces — underscoring the importance of regular maintenance rather than surface geometry as the driver of the ailing implants seen here.
+
+Short implant defined as ≤8mm (consistent with prior literature). Both log-rank and Cox regression showed shorter implants significantly worse for survival and success — contradicting some studies favoring short implants, but consistent with studies indicating inferiority of shorter fixtures. With mean MBL in ailing implants >4mm, remaining osseointegrated surface for ≤8mm implants dropped below 50% of implant length, unlike longer implants (≥10mm) which retained >50% bone support even when ailing — likely explaining more frequent explantation decisions for short ailing implants and the relatively lower cumulative survival for implants <10mm. Nonetheless, most short implants studied still showed clinically acceptable survival/success, exceeding some other 10-year studies, supporting short implants as a viable, less invasive option in appropriate cases with close monitoring.
+
+78.4% (29/37) of late failures attributed to peri-implantitis. Implant fracture incidence ~0.8% (7/872), comparable to prior studies of microthreaded internal-connection implants from other manufacturers; microthreads may distribute loading stress away from the coronal screw-hole region (a weaker area), contributing to fracture resistance.
+
+Early osseointegration failure rate low (0.6%, 5/872), contrasting some prior studies showing more early- than late-stage failures — attributed to the hydrophilic rough surface and tapered self-tapping macro-design. The 5 early failures involved only 3 patients (2 each getting 2 implants, 1 getting 1), suggesting host factors played a role.
+
+5 fixtures showed spinning/rotation at insertion (torque <20 Ncm) due to low bone density; none failed osseointegration; 4/5 remained successful throughout follow-up (1 explanted at 11.7 years for peri-implantitis) — consistent with prior histologic/clinical evidence that rough-surfaced implants can achieve long-term successful osseointegration despite lacking primary stability.
+
+Limitations: no data on pre-implant periodontal status/severity or supportive periodontal therapy regularity; implants placed by multiple surgeons and prosthetics by various prosthodontists, limiting treatment-quality control; retrospective design.
+
+Conclusion: Bone-level, internal connection implants with coronal microthreads demonstrated acceptable implant survival and treatment success over >10 years. To prevent pathologic MBL/peri-implantitis, especially with shorter implants, more thorough and cautious maintenance is required.
