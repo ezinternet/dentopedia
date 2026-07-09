@@ -789,6 +789,9 @@ tags: []
 - [[endodontics/diagnosis/ricucci-2010-biofilms-apical-periodontitis-prevalence]] — Ricucci 2010 · cross-sectional · Histobacteriologic study (106 roots): intraradicular biofilms in 77% of canals (untreated 80%, treated 74%), rising with lesion size; assoc. with epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%; p<0.001) (DOI 10.1016/j.joen.2010.04.007)
 - [[endodontics/diagnosis/godoi-2025-lps-lta-clinical-features-secondary-endodontic]] — Godoi 2025 · cross-sectional · 재치료 40치: 전 근관서 LPS(5.1 EU/mL)·LTA(537.5 pg/mL) 검출; LPS↑가 큰 치근단 투과상·임상증상·결함 수복과 상관 (DOI 10.1111/aej.12963)
 - [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] — Alkhani 2026 · sr (scoping) · OCT로 치아균열·수직치근파절(VRF) 검출 — 민감도 83–98%/특이도 63–100%, 비방사선·실시간 장점이나 침투깊이 1–3mm 한계로 아직 실험실 단계 (DOI 10.1002/cre2.70323)
+- [[endodontics/diagnosis/rios-osorio-2023-paradigm-inflammatory-radicular-cyst-biological]] — Rios Osorio 2023 · narrative-review · 육아종→치근낭 이행 분자기전(ERM 증식·IL-1/6/TNF-α·MMP·RANKL/VEGF) 및 CBCT/초음파/MRI 진단정확도(31~100%, 편차 큼) 리뷰; 조직병리가 여전히 gold standard (DOI 10.14744/eej.2022.26918)
+- [[endodontics/diagnosis/abubakr-2025-histological-immunohistochemical-analysis-periapical-lesions]] — AbuBakr 2025 · cross-sectional · 치근단육아종(PG) vs 치근낭종(RC) 사례-대조 IHC 연구(n=50): PG가 RC보다 TGF-β1·CD68 발현 모두 유의하게 높음(p<0.001) (DOI 10.1186/s12903-025-05845-2)
+- [[endodontics/diagnosis/pimenta-carvalho-2021-differential-diagnosis-nonodontogenic-endodontic-radiolucent]] — Pimenta Carvalho 2021 · narrative-review · 비치성 병소 30종 문헌고찰: 83.3%가 만성 근단치주염을, 16.7%가 치조골 농양을 모방; 악성종양 43.3%, 치수생활력검사(PVT) 음성 68.4% — 통증·부종은 감별력 없고 PVT 양성이 최선의 (불완전한) 단서 (DOI 10.22037/iej.v16i3.32572)
 
 ## 치간 청소 (Interdental Cleaning)
 - [[overviews/interdental-cleaning-devices-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편+토스픽 overview): 치간 청소도구 종합 — 치실 vs 치간칫솔(IDB) vs 구강세정기/워터픽(WF) vs 토스픽법 비교·적응증 결정 트리. 핵심: 어느 도구도 *보편적* 우월 없음(순응도가 효능보다 중요), 치간칫솔이 들어가는 공간이면 1순위(IDB>floss 근거 다수), 치실은 좁은 접촉/순응 환자, 워터픽은 교정·임플란트·손재주 제약·치주염 보조에 강점; 나무 이쑤시개는 치간유두 위해라 권장 안 함
@@ -1400,6 +1403,7 @@ tags: []
 - [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (2,994편→8편): 급성 치성감염 경험적 항생제 요법 거의 모두 임상 성공, 1개 연구는 무항생제=광범위 동일 결과 → 광범위 1차 처방 불필요·좁은 스펙트럼 동등; 성공의 1차 요인은 배농·감염원 제거(치과 치료).
 - [[drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — Vavro 2024 (10년 후향, n=744, Clin Oral Investig): 구강안면감염 경험적 항생제 — amox-clav 내성 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 1차 amox-clav 권고, 단 외과적 배농이 우선 (2024)
 - [[drug/antibiotics/chunduri-2012-bacterial-spectrum-orofacial-infections]] — Chunduri 2012 (감수성 연구, n=68, 인도): 구강안면감염 amox-clav 감수성 95–100%(혐기성 100%)·clindamycin 양호, erythromycin 효용 의문 (2012)
+- [[drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic]] — Kwon 2023 · retrospective · 한국 3차병원 10년 배양 데이터(n=192, 균주 302주): viridans streptococcus 51.7%(증가추세), penicillin류 감수성 하락 vs 3세대 세팔로스포린 ~94% 유지 — 급성 치조농양(치성 근막간극 농양) 경험적 항생제 선택 근거 (DOI 10.5125/jkaoms.2023.49.4.198)
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
 
 ## 구강외과 (Oral Surgery)
