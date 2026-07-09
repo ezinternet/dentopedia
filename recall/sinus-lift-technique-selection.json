@@ -1,0 +1,49 @@
+{
+  "overview": "sinus-lift-technique-selection",
+  "date": "2026-07-08",
+  "title": "상악동거상술 술식 선택 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/sinus-lift-technique-selection.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "잔존골높이(RBH)별 1순위 술식과 골밀도화(OD) 도입 시 변화는?",
+      "opts": [
+        "RBH ≥5mm 측방창, <5mm 경치조골",
+        "RBH ≥5mm 경치조골(TSFE), <5mm 측방창(LSA) — OD 도입 시 4mm까지 TSFE 확장",
+        "RBH와 무관하게 항상 측방창",
+        "RBH ≥3mm면 모두 동시식립"
+      ],
+      "ans": 1,
+      "rat": "5mm가 critical threshold. ≥5mm=TSFE, <5mm=LSA(Sirinirund 2025 SR n=2,732). OD 적용 시 4mm까지 TSFE 영역 확장(Shalash 2023).",
+      "cite": "overviews/sinus-lift-technique-selection"
+    },
+    {
+      "id": "q2",
+      "q": "슈나이더막 천공이 임플란트 결과에 미치는 영향의 핵심 원리는?",
+      "opts": [
+        "천공하면 생존율이 유의하게 떨어진다",
+        "천공 자체가 아니라 봉합 가능 여부가 결과를 정한다 — 적절 봉합 시 97.68% vs 무손상 98.88%로 유의차 없음",
+        "천공은 항상 2단계 전환이 필요하다",
+        "천공률은 술식과 무관하게 일정하다"
+      ],
+      "ans": 1,
+      "rat": "Diaz-Olivares 2021 SR+MA: 천공률 30.6%, 봉합 후 생존 97.68% vs 무손상 98.88% 유의차 없음. 대천공(≥10mm)만 2단계 권장(Lim 2026 animal).",
+      "cite": "overviews/sinus-lift-technique-selection"
+    },
+    {
+      "id": "q3",
+      "q": "이식재 없는(graftless) 경치조골 거상에서 천공을 좌우하는 지배적 인자는?",
+      "opts": [
+        "graftless라는 사실 자체",
+        "잔존골 높이",
+        "어떤 경치조골 술식인가 — 전통 오스테오톰(OSFE) 0% vs 모터구동 골밀도화(OD) 34%",
+        "이식재 종류"
+      ],
+      "ans": 2,
+      "rat": "Huang 2026 SR+MA(14편/2,119부위): 통합 천공 1%지만 이질성의 66.9%를 술식이 설명. OSFE 0% vs 모터구동 OD 34% — RBH가 아니라 술식이 천공의 지배 인자.",
+      "cite": "overviews/sinus-lift-technique-selection"
+    }
+  ]
+}
