@@ -127,6 +127,11 @@ tags: []
 - [[implants/peri-implantitis/kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis]] — Kotsakis 2025 · narrative-review (JDR Critical Review): 티타늄 입자(implant-derived Ti particles, i-TiPs)를 임플란트주위염의 abiotic exposome으로 규정, host–microbiome–biomaterial 삼각 dysbiosis 기전 종설 (DOI 10.1177/00220345241307939)
 - [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] — Monje 2025 · sr (AO/AAP, 34편·환자 3944·임플란트 11663): 임플란트 오식립이 임플란트주위염 최강 위험인자(OR 최대 48.2), 보철변연–치조정골 거리 <1.5mm도 위험(OR 2.29), 임플란트 디자인/시스템은 일관된 우위 없음 (DOI 10.1002/JPER.24-0083)
 - [[implants/peri-implantitis/bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] — Bai 2024 · sr+ma (33편 RCT 네트워크 메타분석): 기계적 제거(MD) 병용 7가지 비외과 요법 — 임플란트주위염은 PBMT+MD가 PPD 1위(SUCRA 75.3%)·전신항생제(SA)+MD가 CAL/MBL 1위, 점막염은 프로바이오틱스+MD가 PPD/PLI 1위·SA+MD가 BoP 1위 (DOI 10.1371/journal.pone.0305342)
+- [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — Scocca 2026 · sr+ma · 두경부암 상악 재건 관골임플란트(ZI) 17편(294명/679 ZI): 통합 생존 97%(95%CI 94–99), 1차 절제 동시 식립 실패 2% vs 2차 9%(p=0.41, NS), 방사선치료 OR 3.42(p=0.055, NS), UW-QOL/EORTC 기능 양호 — 위키 첫 ZI 결과-수준 근거 (DOI 10.1016/j.jdent.2026.106709)
+- [[implants/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma]] — Pachiou 2026 · sr+ma · 고정성 보철 좁은직경(NDI ≤3.5mm) 즉시 vs 조기/지연 하중(9편 정성/7편 정량): 임플란트 실패 차이 없음(단기 RR 1.41, 장기 RR 1.10, I²=0%), MBL·보철합병증 동등; 장기 생물학적 합병증이 즉시하중군에 많다는 very-low 신호만 (DOI 10.1016/j.jdent.2026.106795)
+- [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — Kindaro 2026 · sr · 골다공증 동물모델 12편 전임상 SR: 간헐적 PTH(테리파라타이드, 골형성촉진제)가 BIC·BV/TV·제거토크 일관 개선, 병용(비타민D·랄록시펜·국소 스캐폴드)이 단독보다 우수 — 그러나 인체 연구 0편·7/12편 눈가림 고위험 → 실험적 보조요법 (DOI 10.1016/j.job.2026.100778)
+- [[implants/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — Cosola 2026 · sr+ma(초록전용) · 맞춤형 CAD/CAM 3D프린팅 티타늄 골막하 임플란트 11편(268명/369개): ≤3년 생존 97.8%지만 전체 92.4%·6년 54.1%로 붕괴, 후기 실패의 주원인은 골유착이 아니라 연조직 노출·열개 — 선별된 환자의 무이식 salvage 옵션 (JOMS 2026;84:1084)
+- [[implants/yildirim-2026-short-implants-bibliometric-research-trends]] — Yildirim 2026 · narrative-review(bibliometric) · WoS 숏임플란트 626편(1994–2024) 과학지도: 연 12.69% 성장·2019 정점 후 감소, 주요 저널 COIR·IJOMI, 주요 저자 Esposito·Felice, 4개 주제군(생존, 위축 후방악 재건, 보철·생역학, vs 표준/골증대) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.11607/jomi.11411)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -942,6 +947,7 @@ tags: []
 - [[prosthetic-materials/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] — Coelho 2024, GapSeal vs PTFE 나사 코팅; PTFE 프리로드 유의하게 감소(p=0.004), GapSeal은 프리로드 유지+RTV 증가 → GapSeal 권장·PTFE 금기 (in vitro)
 - [[prosthetic-materials/coelho-2025-screw-coating-ptfe-gapseal-cyclic-load]] — Coelho 2025, 사이클릭 로드(300,000회, 37°C) 추가 시 PTFE RTV 역전(15.30→31.50 Ncm 최고); GapSeal은 무사이클 환경에서 최고 성능; Micro-CT 마이크로갭 없음 (in vitro)
 - [[prosthetic-materials/marenzi-2026-torque-limiting-devices-accuracy-manufacturers]] — Marenzi 2026, 3사 기계식 토크 제한 렌치 정확도; 모든 렌치가 설정값보다 낮은 토크 전달(오차 11–29.3%); 25 Ncm 시 마이크로갭 없음 (in vitro)
+- [[prosthetic-materials/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — Zhang 2026 · narrative-review(bibliometric) · 임플란트 지대주 연구 2051편(WoS 2005–2024) 계량서지 지도: 미국·상파울루·취리히 주도, 핵심 저자 Canullo·Sailer, 주제 이동 티타늄(2005–10) → 플랫폼스위칭·FEA(2011–19) → 지르코니아·미생물누출·연결부 안정성(2020–24) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.1016/j.prosdent.2026.03.003)
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] — Fayad 2025 · narrative-review · 보철 수직고경(Occlusal Vertical Dimension, OVD) 결정법 종합 리뷰(안면계측·발음·연하·안정위+자유공극·두부계측 → 디지털 3D·CBCT·AI); 단일 우수법 없음, 과다/과소 VD 임상 징후(이근 긴장·이순구 심화) 포함 (DOI 10.7759/cureus.93987)
@@ -976,6 +982,7 @@ tags: []
 - [[complete-denture/zhou-2023-digital-intraoral-gothic-arch-device-centric-relation]] — Zhou 2023 · prospective (n=10, abstract-only) · 디지털 제작 간이 구내 고딕아치 장치로 총의치 중심위 결정: 전통법과 정중관계 일치(편차 <0.5mm) + 의자시간 57.5→41.9분 단축
 - [[complete-denture/muehlemann-2025-cost-efficiency-digital-conventional-denture]] — Muehlemann 2025 · sr+ma (J Prosthodont, 5편 n=184): 디지털 vs 전통 총의치 워크플로우 비용효율 — 기공·임상·총비용·내원횟수 모두 유의차 없음; 시술자 숙련도가 임상비용·내원횟수에 유의 영향
 - [[complete-denture/feng-2025-expert-consensus-digital-complete-denture]] — Feng 2025 · consensus (Int J Oral Sci): 디지털 총의치 제작 전문가 합의문 — 구강내·안면 스캔, CAD 설계, 절삭/적층 가공 표준 워크플로우, 적응증·평가지표 권고
+- [[complete-denture/ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma]] — Ng 2026 · sr+ma · 무치악 상악 전악 보철 20편(913명, 고정성 542·가철성 371, 중앙 5년): 파국적 실패는 드물지만(보철 소실 4.6%, 임플란트 소실 ~5.5%, MBL 양쪽 <0.8mm) 무합병증 보철 생존 61.9%·환자수준 임플란트 생존 46.5% → 유지관리 부담이 진짜 비용; 주 기술합병증이 유형별로 다름(고정성 아크릴 비니어 파절 ~41% vs 오버덴쳐 의치상·인공치 수리/리라인 ~91%) (DOI 10.1111/clr.70116)
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
@@ -1112,6 +1119,7 @@ tags: []
 - [[digital-workflow/lu-2021-digital-stackable-osteotomy-template-precision]] — 증례보고(West China J Stomatol 2021, 중국어, n=4 무치악): 절골+식립+임시수복 일체형 3D 프린팅 디지털 스택형 가이드 절골층 정확도 — 평균 체적 편차 492.94 mm³(예정의 21.21%), 변위 ±0.5 mm 부호 상쇄, 각도 1.39–10.52°. n=4·1건 outlier 왜곡
 - [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown — offset parameter별 marginal·internal fit 비교, 임상 acceptable range 결정
 - [[digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch]] — Fouda 2025 · in-vitro micro-CT (J Prosthodont 2025;35(5):721): 완전 디지털 워크플로우 전악 임플란트 티타늄 프레임워크 10개 중 SST 기준 통과 0개, non-passivity 60–80% — 스캐닝 오차가 주요 원인
+- [[digital-workflow/shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma]] — Shirani 2026 · sr+ma(초록전용) · 컴퓨터보조(CAIS) vs 자유수식(FHIP) RCT 9편(395명/1,242 임플란트): MBL·생존율 전체 차이 없음(양쪽 >98%), CAIS는 신선발치와 MBL(P=.04)·환자만족(P=.03)·PES(P=.009) 우위, FHIP는 생물학적 합병증 적고(P=.04) 점막지지형 가이드보다 MBL 양호(P=.03) — 정확도 우위가 임상결과 우위로 이어지지 않음 (DOI 10.11607/jomi.11349)
 
 ## 교정치료 (Orthodontics)
 
@@ -1579,6 +1587,7 @@ tags: []
 - [[bone-biology/liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats]] — Rat micro-CT(n=48): 교합저하(anterior bite-raising appliance)가 하악 치조골 trabecular 미세구조 악화(↓BV/TV·Tb.Th·Tb.N, ↑Tb.Sp), 교합 회복 시 가역적 (animal)
 - [[bone-biology/kondo-2022-current-perspectives-residual-ridge]] — Narrative review + 마우스 데이터(J Prosthodont Res 2023): 잔존 치조제 흡수(RRR)를 림프구 매개 외측면 osteoclast 활성화 병리로 재정의 — Rag2-/-(T/B 결핍) 마우스에서 socket 내 osteoclast 정상, 외측면 osteoclast만 부재; hCD3+ T 세포 주입으로 복원. 향후 외측면-선택적 osteoclast 차단 치료의 mechanism 근거.
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — In vivo 마우스 + scRNA-seq(JBMR 2025, MGH/Harvard Wein lab): SIK2/SIK3(PTH/PTHrP 하류 kinase) 조건 결손 — 치조골 osteoblast 성숙·BV/TV·발치와 치유 모두 저하; 치조골 osteoblast가 long bone osteoblast와 다른 cluster임을 scRNA-seq로 입증. SIK 억제제·intermittent PTH가 ARP 약리 보조 후보가 될 preclinical rationale.
+- [[bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues]] — Issa 2026 · narrative-review(Perio 2000) · 노화의 특징(hallmarks of aging)을 치조골에 적용: AGE 가교(20→80세 강도 ~80% 손실), 염증노화(IL-6/TNF-α), 세포노화·SASP(노화세포 3배, p16^Ink4a), 면역노화, 골전구세포 고갈(골형성→지방형성 전환, RUNX2↓/PPAR-γ↑), RANKL↑/OPG↓ — 치주염 감수성·치유 지연·고령 임플란트주위골을 하나의 노화 축으로 연결 (DOI 10.1111/prd.70035)
 
 ## 종합 (Overviews)
 - [[overviews/veneer-preparation-design-minimally-invasive-overview]] — Synthesis 2026-06-30 (6편): 라미네이트 비니어 삭제 디자인 종합 — "설계에 의한 최소삭제(prep by design)" 패러다임. 목업/APT를 *관통하여* 삭제(삭제량은 최종 보철 형태 기준), 삭제량은 기질-목표색 차이로 정량화(Coachman P=LT−EV, 중앙·절단 1/3 0mm 가능); 3세대(depth-guide→silicone-index→목업/APT) + 아날로그(Gürel 2007)→색수식(Coachman 2014)→디지털 3D-DSP(Cattoni 2016) 진화; 생존검증(Ali 2023 MPV≥CV·Reis 2025 12년·Chandode 2026 무삭제 적응증·Albanesi 2016 절단연피개 무관); 비협상 전제=법랑질 한정 변연(상아질 노출 ~10× 실패)
