@@ -2,7 +2,7 @@
 title: "Bone Quality → Implant Risk & Modification Overview (골질·골밀도별 임플란트 위험·수정전략)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-09
+date: 2026-07-10
 doi: N/A
 source: synthesis
 category: [overviews]
@@ -10,8 +10,10 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [bone-quality, bone-density, lekholm-zarb, misch-d1-d4, type-iv-bone, primary-stability, osteoporosis, osteosclerosis, low-density-bone, overview]
+tags: [bone-quality, bone-density, lekholm-zarb, misch-d1-d4, type-iv-bone, primary-stability, osteoporosis, osteosclerosis, low-density-bone, overview, aging, inflammaging, osteoanabolic, teriparatide]
 source_papers:
+  - wiki/implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.md
+  - wiki/bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.md
   - wiki/implants/rosa-2024-do-dental-implants-bone-types.md
   - wiki/implants/raghavan-2025-bone-density-implant-dentistry-review.md
   - wiki/implants/di-stefano-2021-stability-dental-implants-cortical-bone.md
@@ -24,6 +26,10 @@ source_papers:
   - wiki/implants/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
 relations:
+  - type: extends
+    target: kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr
+  - type: extends
+    target: issa-2026-bone-biology-aging-periodontal-peri-implant-tissues
   - type: extends
     target: rosa-2024-do-dental-implants-bone-types
   - type: reinforces
@@ -47,6 +53,10 @@ relations:
 > - 전신·병적 골은 같은 축의 시간·생물학적 확장: 골다공증(Osteoporosis)은 단기 생존은 건강군과 유사하나 장기 82.6~94.1%(5~10년)로 감소; 골경화성 병변은 과열·병변내 실패 위험 추가(Kim 2026).
 > - 주의 충돌: FEA(응력)는 D3/D4에서 실린더형을 선호하나 임상(초기 안정성)은 테이퍼형 선호 — 미해결 쟁점.
 > - 임상 정리: 골다공증 = 높은 임플란트 실패라는 통념은 틀림; 위험은 장기·골질 기반이며 약물(MRONJ) 위험과 분리해서 봐야 함.
+> - **약리적 레버는 아직 전임상 (Kindaro 2026 SR, 동물 12편)**: 골형성촉진제(Osteoanabolic) 부갑상선호르몬(Parathyroid Hormone, PTH/테리파라타이드)의 간헐 투여가 골다공증 동물에서 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)·BV/TV·제거토크를 일관되게 개선했고, 병용(비타민 D·랄록시펜·저강도 고빈도 하중)이 단독보다 우수, 국소 PTH-바이오글라스는 건강군 수준까지 회복. **그러나 인체 연구 0편**, 12편 중 7편이 눈가림 고위험, 동일 연구그룹 저자 중복 → **환자 프로토콜로 번역 금지**.
+> - 개념적 의미: 이 위키의 골 약물 축은 지금까지 **항흡수제(Antiresorptive) = 위험(MRONJ)** 한 방향뿐이었다. PTH는 정반대 기전(골형성 촉진)으로 "골질 위험을 약으로 되돌릴 수 있는가"라는 반대 방향 가설을 연다 — 현재는 가설생성 단계.
+> - **노화 축 (Issa 2026, Perio 2000 narrative review)**: 골질을 국소 밀도(D1~D4)로만 보면 놓치는 시간 축. 최종당화산물(AGE) 가교 최대 10배·20→80세 골강도 약 80% 손실, 염증노화(inflammaging)·세포노화/SASP(노화 마우스 노화세포 3배), 면역노화, 골전구세포 고갈과 골형성→지방형성 전환(RANKL↑/OPG↓)이 함께 작동.
+> - 노화 축의 임상 결론은 보수적: **나이 자체는 임플란트·골재생의 금기가 아니다.** 다만 골다공증이 임플란트주위골에 미치는 영향은 미해결이고, 노화가 치조골 치유·골유착에 미치는 영향은 사실상 미연구 상태다. 회춘 표적(세놀리틱·메트포르민·라파마이신·PTH·멜라토닌)은 모두 전임상.
 
 ## Three-line Summary
 
@@ -126,6 +136,12 @@ ISQ bands from Rosa 2024; the two systems are not a perfect 1:1 map (Misch is de
 **Systemic / pathologic bone (extends the axis)**
 - *Osteoporosis* (systemic low turnover/density): short-term survival healthy-comparable but long-term decline to 82.6–94.1% (5–10y) with greater MBL → long-term follow-up is the lever; oral bisphosphonates not a contraindication, drug holiday only high-risk (see [[overviews/drug-mronj-antiresorptive-overview]]). [합의수준]
 - *Osteosclerotic lesions* (focal high density): overheating + intralesional-placement failure; florid COD 66.7% vs localized 100%; condensing osteitis / idiopathic osteosclerosis OK when stable; cementoblastoma needs resection first; hypercementosis fails on residual tissue (Kim 2026). Two-stage placement + careful drilling. [합의수준]
+- *Aging* (the time axis the D1–D4 grid cannot see): Issa 2026 assembles the mechanism — AGE crosslinks up to 10× higher with roughly 80% loss of bone strength between age 20 and 80, inflammaging plus cellular senescence (3× more senescent cells in aged mice; SA-β-gal⁺ periodontal ligament cells drive horizontal bone loss), immunosenescence (blunted neutrophil phagocytosis/NETs, M1-shifted macrophages, Th1/Th17 expansion), osteocyte TGF-β dysregulation, and osteoprogenitor exhaustion with an osteogenesis→adipogenesis shift (RANKL↑, OPG↓). Parabiosis and chimera experiments show the aged *immune milieu itself* impairs bone repair. The clinical translation is deliberately modest: **chronological age alone is not a contraindication** to implants or regeneration — but the effect of aging on alveolar-bone healing and osseointegration specifically is largely unstudied, and osteoporosis' effect on peri-implant bone remains unresolved. Treat age as a reason to widen the healing margin and lengthen follow-up, not as a reason to decline. [narrative-review; 기전 근거강함, 임상 번역 미검증]
+
+**Pharmacologic modification of bone quality — the lever that does not exist yet**
+The four levers above (drilling, macro-design, surface, loading) all modify the *implant–site interaction*. A fifth lever would modify the *bone itself*. **Kindaro 2026** (systematic review, 12 preclinical studies, osteoporotic rat/rabbit models) is the wiki's first page on that possibility: intermittent parathyroid hormone (PTH 1–34 / teriparatide), an osteoanabolic agent, consistently raised bone-to-implant contact, BV/TV, and removal torque versus osteoporotic controls, with thicker trabeculae and lower porosity. Pre-operative dosing outperformed a short 1-week post-operative course; local delivery (PTH-functionalised bioglass) restored BIC and biomechanical stability to healthy-animal levels; and combinations — PTH + vitamin D, PTH + raloxifene (anabolic plus antiresorptive), PTH + low-magnitude high-frequency loading — consistently beat monotherapy.
+
+The reason this is *not* a clinical recommendation must be stated as plainly as the result: **there are zero human studies**, 7 of 12 studies carried high risk of bias on investigator blinding, allocation concealment was unclear in all 12, and there is heavy author overlap across the positive studies. One study (Park) found trabecular thickening without significant BIC/BV-TV gain. Systemic PTH additionally risks transient hypercalcaemia and dose-dependent cortical porosity. Its value here is conceptual: the wiki's bone-drug axis has until now been unidirectional — antiresorptives as an MRONJ *hazard* (see [[overviews/drug-mronj-antiresorptive-overview]]) — and PTH opens the opposite-signed question of whether pharmacology can push bone quality *up* before implant placement. Hypothesis-generating, not practice-changing. [미검증 — 동물 전용]
 
 ## Misconception patterns
 
@@ -133,6 +149,8 @@ ISQ bands from Rosa 2024; the two systems are not a perfect 1:1 map (Misch is de
 - "Longer implant fixes soft bone." — Diameter beats length for ISQ in soft bone (Stoilov 2023). [claude해석]
 - "Osseodensification guarantees better outcomes in D4." — It raises insertion torque, but ISQ (more correlated with osseointegration) was equal to conventional; survival equal at 6 mo on a 16-patient RCT (Mello-Machado 2021). Treat as a stability-preservation option, not a survival upgrade. [근거강함(소표본)]
 - "Osteoporosis = high implant failure." — Short-term comparable to healthy; the risk is long-term and bone-quality-driven, separate from drug/MRONJ risk (Kim 2026). [합의수준]
+- "Old age is itself a contraindication / a bone-quality diagnosis." — No. Issa 2026 concludes increased age alone does not contraindicate implants or regeneration; the aging effect on osseointegration specifically has barely been studied. Age raises biological plausibility of impaired healing, not a measured risk figure. [합의수준]
+- "Teriparatide/PTH can be used to improve osseointegration in osteoporotic patients." — Not supported. Every study in Kindaro 2026 is an animal model; no human data exist. The consistent preclinical BIC/removal-torque gains are a hypothesis, and prescribing on them would invert the evidence hierarchy this wiki runs on. [미검증]
 
 ## Gaps & Future Research
 
@@ -140,6 +158,8 @@ ISQ bands from Rosa 2024; the two systems are not a perfect 1:1 map (Misch is de
 - FEA (stress) vs clinical (primary stability) give divergent macro-design recommendations in D3/D4 — unresolved.
 - No prospective data on implant outcomes *within* osteosclerotic lesions (case reports only).
 - HU→ISQ→loading-timing thresholds are not standardized across density systems (Misch vs Lekholm-Zarb vs CBCT HU).
+- **No human evidence for osteoanabolic pre-treatment.** Kindaro 2026 shows a consistent preclinical signal (intermittent PTH, pre-operative timing, local delivery, combination with vitamin D or raloxifene) but zero human studies. The missing study is a trial of pre-operative teriparatide in osteoporotic implant candidates with BIC/ISQ and long-term survival endpoints — currently unethical to assume, and unfunded to test.
+- **Aging is a mechanism without a dental outcome dataset.** Issa 2026 documents matrix, immune, osteocyte, and progenitor aging in detail, yet notes that the aging effect on *alveolar* bone healing and osseointegration specifically is largely unstudied, and osteoporosis' effect on peri-implant bone is unresolved. Age-stratified implant cohorts reporting MBL and osseointegration timelines would convert this mechanism page into a risk table.
 
 ## Related overviews
 
@@ -158,6 +178,11 @@ Supporting papers added 2026-06-10 (determinant evidence across the four modific
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — SR: thicker cortical bone → higher IT/ISQ (primary + secondary stability); confirms cortical-thickness-dominance thesis.
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — cadaver: primary stability correlates with CT bone mineral density + histomorphometry (mechanistic anchor).
 - [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — narrative review: macro-design (diameter/taper/thread/surface) as the design lever.
+
+Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
+
+- [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — SR of 12 preclinical studies: intermittent PTH/teriparatide raises BIC, BV/TV, and removal torque in osteoporotic animals; combination > monotherapy; **animal-only, no human data**, 7/12 high risk of blinding bias. The osteoanabolic counterpoint to the antiresorptive-hazard axis.
+- [[bone-biology/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues]] — Perio 2000 review: AGE crosslinks, inflammaging, senescence/SASP, immunosenescence, osteoprogenitor exhaustion (RANKL↑/OPG↓) as the mechanism of age-related alveolar bone fragility; age alone is not a contraindication, but its effect on osseointegration is largely unstudied.
 - [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — bench: torque-depth integral quantifies undersizing → primary stability (the drilling lever).
 - [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR: undersized/osteotome/Piezo/OD all raise primary stability but long-term superiority weak (caution on the drilling lever).
 - [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
