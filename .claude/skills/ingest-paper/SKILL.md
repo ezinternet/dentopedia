@@ -1,6 +1,6 @@
 ---
 name: ingest-paper
-description: Add a new dental research PDF to the LLM Wiki. Handles the full 4-step pipeline: copy PDF → write sources/*.md → write wiki/{category}/*.md → update index.md. Invoke when the user says "논문 추가", "ingest", or provides a PDF path. Always run lint after completing.
+description: Add dental research PDF(s) to the LLM Wiki. Full pipeline: copy PDF → write sources/*.md → write wiki/{category}/*.md → update index.md → qmd re-index. One paper runs serially; 2+ papers take a parallel fan-out (one subagent per paper, then serial finalize) so wall-clock ≈ the single slowest paper. Invoke when the user says "논문 추가", "ingest", "인제스트", or provides PDF path(s). Always run lint after completing.
 argument-hint: [/path/to/paper.pdf]
 allowed-tools: Bash, Read, Write, Edit
 ---
@@ -19,9 +19,68 @@ Before starting, ask the user **once** (use the AskUserQuestion tool) and wait f
 
 How to honor the answer:
 - If the user picks **Sonnet 최고등급**, tell them to run `/model sonnet` (and raise effort to high/max) before continuing, OR — if invoked as a subagent — set the agent's `model: sonnet` + `effort: high`. The skill itself cannot switch the main-session model mid-run, so surface this clearly rather than silently ignoring it.
-- If multiple PDFs are being ingested in one go, this is a **batch** — note the count; it changes Step 10 (embed once at the very end, not per paper).
+- If multiple PDFs are being ingested in one go, this is a **batch** — note the count. A batch of **2+ papers takes the parallel path (§ Batch mode)**, which changes both execution shape (fan-out) and Step 10 (embed once at the very end, not per paper).
 
 Skip Step 0 only if the user already specified the model in their request.
+
+---
+
+## Execution mode — pick ONE before starting
+
+| Papers | Mode | Why |
+|---|---|---|
+| **1** | **Serial** (Steps 1–11 below, inline) | No fan-out overhead; one page's authoring can't be parallelized against itself. |
+| **2+** | **Batch / parallel** (§ Batch mode — parallel fan-out) | The bottleneck is PDF-read + page-authoring, which is **per-paper independent**. Fan out one subagent per paper (Phase 1), then finalize serially (Phase 2). Wall-clock ≈ the single slowest paper, not the sum. |
+
+The two modes run the **same 11 steps with the same content quality** — batch mode only changes *who* runs Steps 1–9 (a per-paper subagent instead of the main loop) and *when* the git/index/embed work happens (batched into a serial Phase 2). Nothing is dropped or shortened.
+
+---
+
+## Batch mode — parallel fan-out (2+ papers)
+
+The rule from CLAUDE.md § *Parallel-subagent protocol*: **content in parallel, finalize in serial.** Each paper's `sources/*.md` + `wiki/*.md` writes go to distinct paths → conflict-free in parallel. But `index.md` edits and `git add/commit/push` share mutable state → must stay serial in the parent. Running them concurrently races and corrupts the index/git tree.
+
+### Enumerate the batch
+
+```bash
+cd /Users/oracleneo/llm-wiki
+python3 -c "import json; q=json.load(open('.ingest-queue')); print('\n'.join(q.get('pending', [])))" 2>/dev/null
+# or, for user-supplied PDF paths, just use the list the user gave.
+```
+
+### PHASE 1 — fan out (parallel): one subagent per paper
+
+Dispatch **all papers at once** — one `Agent` call per paper, in a **single message** so they run concurrently. Each subagent is told to run **Steps 1–6 for its ONE paper only**:
+
+- Step 2 (extract + stem), Step 3 (copy PDF), Step 3.5 (dedup + related/supersession lookup — if it returns a same-DOI cross-stem duplicate, the subagent **STOPs and returns `skip:<reason>`**), Step 4 (category), Step 5 (`sources/{stem}.md`), Step 6 (`wiki/{category}/{stem}.md`).
+- The subagent does **NOT** touch `index.md`, does **NOT** git-commit/push, does **NOT** run qmd. Those are Phase 2, parent-only.
+- The subagent does **NOT** use `isolation: worktree` — it must write into the main working tree the parent then commits.
+- The subagent **logs deviations** immediately when it handles a non-standard case (empty PMC text, DOI conflict, category boundary, skipped step): `python3 scripts/log-deviation.py <stem> <type> "<desc>"` (non-blocking, <1s).
+- The subagent **RETURNS** a compact record: `{stem, category, confidence, index_line, status: ok|skip:<reason>}`.
+
+Model routing per subagent (from Step 0 table): default `model: sonnet` + `effort: high`. If the dispatcher already knows a given paper is a **category-boundary** or **supersession** candidate, set *that paper's* agent to `model: opus`. Overviews are never authored inside a fan-out.
+
+### PHASE 2 — finalize (serial, parent only)
+
+For each returned **ok** paper, one at a time, in order:
+
+```bash
+cd /Users/oracleneo/llm-wiki
+python3 scripts/ingest-one.py --finish <stem>
+#   → per-file git commit (sources, wiki, index) + push + qmd update + qmd embed (incremental) + mark processed
+```
+
+- Before `--finish`, the parent adds the paper's `index_line` to `index.md` (Step 7) if the subagent didn't — keep this serial to avoid index races.
+- Then run Step 8 (lint) + Step 9 (orphan check) on that page.
+- For each returned **skip** paper: delete the duplicate PDF, mark the queue entry processed, write no page.
+
+`qmd embed` inside `--finish` is **incremental** (only changed docs, seconds), so per-paper finalize is cheap. **Never** force a full re-embed (`-f`).
+
+> **Why this split is the whole speedup.** PHASE 1 parallelizes the real bottleneck (PDF read + authoring). PHASE 2 keeps the shared-state work (index, git) serial so it can't race. A 6-paper batch that took ~6× one paper serially now takes ≈1× (slowest paper) + a short serial finalize tail.
+
+If invoked in a context where you cannot spawn subagents (already inside one), fall back to the serial loop: `ingest-one.py --next` → author → `--finish`, repeated. Correct, just not parallel.
+
+---
 
 ### Model routing — "추출이면 Sonnet, 종합·판단이면 Opus"
 
@@ -55,55 +114,36 @@ If the file does not exist, stop and tell the user.
 
 ---
 
-### Step 2 — Extract text and determine canonical stem
+### Step 2 — Extract text + MD5 dedup (single call)
 
-Extract up to 12,000 characters from the first 15 pages:
+Do the text extraction **and** the byte-identical dedup check in **one** bash round-trip — they both only need to read the source PDF, so there's no reason to pay two round-trips:
 
 ```bash
 python3 -c "
-import pypdf, sys
-reader = pypdf.PdfReader(sys.argv[1])
-text = ''
+import pypdf, sys, os, hashlib
+src = sys.argv[1]
+# (a) MD5 dedup vs everything already in papers/
+new = hashlib.md5(open(src,'rb').read()).hexdigest()
+dup = next((f for f in os.listdir('papers') if f.endswith('.pdf')
+            and hashlib.md5(open(f'papers/{f}','rb').read()).hexdigest()==new), None)
+print('DUPLICATE:' , dup) if dup else print('DEDUP OK: no byte-identical copy')
+# (b) extract up to 12k chars from first 15 pages
+reader = pypdf.PdfReader(src); text=''
 for page in reader.pages[:15]:
     t = page.extract_text()
     if t: text += t + '\n'
     if len(text) > 12000: break
-print(text[:12000])
+print('----- TEXT -----'); print(text[:12000])
 " "/path/to/paper.pdf"
 ```
 
-From the extracted text, identify:
+If the output starts with `DUPLICATE:` → stop, inform the user which stem it matched, delete the new file if it's in a temp location. Otherwise read the `----- TEXT -----` block and identify:
 - **First author last name** (lowercase)
 - **Publication year** (4 digits)
 - **First 5 meaningful title words** (lowercase, spaces → hyphens, strip special chars)
 
-Build the **canonical stem**:
-```
-{first-author-lastname}-{year}-{first-5-title-words}
-```
-
-Examples:
-- `wu-2025-mb2-prevalence-maxillary-molar-han`
-- `kaur-2024-eal-vs-radiograph-working-length`
-
-Check for duplicates before proceeding:
-
-```bash
-python3 -c "
-import os, hashlib
-new = hashlib.md5(open('/path/to/paper.pdf','rb').read()).hexdigest()
-for f in os.listdir('papers'):
-    if f.endswith('.pdf'):
-        existing = hashlib.md5(open(f'papers/{f}','rb').read()).hexdigest()
-        if existing == new:
-            print(f'DUPLICATE: {f}')
-            break
-else:
-    print('OK: no duplicate')
-"
-```
-
-If duplicate found → stop, inform user, delete the new file if it's in a temp location.
+Build the **canonical stem**: `{first-author-lastname}-{year}-{first-5-title-words}`
+Examples: `wu-2025-mb2-prevalence-maxillary-molar-han`, `kaur-2024-eal-vs-radiograph-working-length`.
 
 ---
 
@@ -221,51 +261,39 @@ Find the correct section by matching the category to the section header. Use Edi
 
 ---
 
-### Step 8 — Run lint
+### Step 8+9 — Lint + orphan check (single call)
+
+Frontmatter lint and the PDF↔sources 1:1 orphan check are independent read-only scans — run both in **one** bash round-trip:
 
 ```bash
 python3 -c "
 import os, re
-WIKI_DIR = 'wiki'
-REQUIRED_FIELDS = ['title','authors','year','doi','source','category','confidence','pdf_path','pdf_filename']
-SKIP_DIRS = {'_lint', 'overviews'}
-errors = []
-ok = 0
-for root, dirs, files in os.walk(WIKI_DIR):
-    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+# --- (8) frontmatter lint ---
+REQ = ['title','authors','year','doi','source','category','confidence','pdf_path','pdf_filename']
+SKIP = {'_lint','overviews'}
+errors=[]; ok=0
+for root,dirs,files in os.walk('wiki'):
+    dirs[:] = [d for d in dirs if d not in SKIP]
     for fn in files:
         if not fn.endswith('.md'): continue
-        path = os.path.join(root, fn)
-        with open(path) as f: content = f.read()
-        m = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
-        if not m: errors.append(f'NO FRONTMATTER: {path}'); continue
-        fm = m.group(1)
-        missing = [field for field in REQUIRED_FIELDS if not re.search(rf'^{field}\s*:', fm, re.MULTILINE)]
-        if missing: errors.append(f'MISSING {missing}: {path}')
-        else: ok += 1
-print(f'OK: {ok}  ERRORS: {len(errors)}')
-for e in errors: print(e)
+        p=os.path.join(root,fn); c=open(p).read()
+        m=re.match(r'^---\n(.*?)\n---', c, re.DOTALL)
+        if not m: errors.append(f'NO FRONTMATTER: {p}'); continue
+        miss=[f for f in REQ if not re.search(rf'^{f}\s*:', m.group(1), re.MULTILINE)]
+        errors.append(f'MISSING {miss}: {p}') if miss else (ok:=ok+1)
+print(f'LINT — OK: {ok}  ERRORS: {len(errors)}')
+for e in errors: print(' ', e)
+# --- (9) orphan check ---
+papers={f[:-4] for f in os.listdir('papers') if f.endswith('.pdf')}
+srcs  ={f[:-3] for f in os.listdir('sources') if f.endswith('.md')}
+op, osr = papers-srcs, srcs-papers
+if op:  print('ORPHAN PDFs (delete):', op)
+if osr: print('ORPHAN sources (missing PDF):', osr)
+if not op and not osr: print('ORPHAN — OK: 1:1 match')
 "
 ```
 
-If errors → fix them before reporting completion.
-
----
-
-### Step 9 — Orphan check
-
-```bash
-python3 -c "
-import os
-papers = {f[:-4] for f in os.listdir('papers') if f.endswith('.pdf')}
-srcs   = {f[:-3] for f in os.listdir('sources') if f.endswith('.md')}
-orphan_pdfs = papers - srcs
-orphan_srcs = srcs - papers
-if orphan_pdfs: print('ORPHAN PDFs (delete):', orphan_pdfs)
-if orphan_srcs: print('ORPHAN sources (missing PDF):', orphan_srcs)
-if not orphan_pdfs and not orphan_srcs: print('OK: 1:1 match')
-"
-```
+If lint reports errors → fix them before reporting completion. (In **batch mode**, `ingest-one.py --finish` handles commit/push/embed per paper; run this lint+orphan block once per paper in Phase 2, or once at the end over the whole batch.)
 
 ---
 
