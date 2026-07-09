@@ -1,0 +1,763 @@
+HIGHLIGHTS
+
+Inflammatory radicular cysts are chronic nature lesions that occur after the development of periapical granulomas and are the result of multiple inflammatory reactions.
+
+Not all periapical granulomas turn into inflammatory radicular cysts, even though both are stages of the same inflammatory phenomenon and receive the same antigenic stimulus.
+
+The knowledge of the different histologic presentations of apical periodontitis could provide relevant information for clinical decision-making, timely treatment planning, prognosis, and the development of new diagnostic tools.
+
+INTRODUCTION
+
+Inflammatory radicular cysts (IRCs) are chronic lesions that occur after the development of periapical granulomas (PGs). PGs and IRCs are considered to follow pulpal infections as an inflammatory process at the periapical level (–). Although both conditions, PG and IRC, are clinically diagnosed as apical periodontitis (AP), they differ significantly from a histopathologic perspective.
+
+AP is the result of multiple inflammatory reactions. However, the exact pathogenesis of its different histologic variants is not entirely understood (,).
+
+Radiographically, PGs and IRCs present as periapical radiolucencies. The formation and sustenance of such chronic periapical lesions depend on the continual presence of an antigenic factor, which includes toxins and bacterial by-products stemming from necrotic pulp tissue (). The dynamic interaction between bacterial by-products emerging from the root canals and the immune system suggests that such chronic inflammatory lesions have an immune-pathological basis (). Therefore, AP can be considered an extension of the pulpal inflammatory process.
+
+Yamasaki et al. (1994) () histologically and histometrically described the evolution of the pulpal and periapical pathology after pulpal exposure in an animal model (). The results of this study demonstrated that pulpal necrosis gradually spreads in a corono-apical direction. Inflammatory cell infiltration was present in the periapical tissues before pulpal necrosis, and as the AP advanced, periapical bone and radicular cementum resorption were also observed. The osteolytic lesion first extended in a mesiodistal direction, followed by a vertical expansion ().
+
+The study of the IRC is particularly relevant due to its high prevalence. Alotaibi et al. (2020) () evaluated biopsies of 317 apical lesions and reported that 54% of the samples were diagnosed as IRCs, mainly distributed in the maxilla, with a higher prevalence in the anterior teeth (22%) and in the molar teeth (21.7%), particularly associated with the central incisor and the first molars. In addition, it has been reported that between 46.6% and 68% of all cystic lesions of the maxilla are diagnosed as IRCs (,,,,).
+
+It has been traditionally suggested that a preoperative differential diagnosis of an IRC can be made based on the following radiographic criteria: (i) well-defined periapical radiolucency, (ii) sclerotic borders, and (iii) diameter greater than 1.6 cm (). Recently, White and Pharoah (2014) proposed six specific cone-beam computed tomography (CBCT) diagnostic criteria for IRC: (i) location: apex of the involved tooth, (ii) well-defined corticated limits, (iii) shape of lesion: curved or circular, (iv) internal structure: radiolucent, (v) effect on surrounding structures: displacement and resorption of the roots of adjacent teeth and (vi) cortical plate perforation (). However, when compared with histopathological findings, clinical diagnosis based on radiographic techniques (periapical radiography and CBCT) and adhering to the criteria mentioned above have proven to have limited accuracy (between 54.29% and 71.43%) in assessing the histopathological nature of the AP before intervention (). Currently, histopathologic examinations are regarded as the gold standard for diagnosing IRCs (,).
+
+The IRC features a pathological cavity coated with a stratified squamous epithelium with pro-inflammatory cell infiltration (). The presence of epithelial cells with high proliferation capacity in the PGs is one of the multiple requirements to stimulate the process of IRC formation (,). Although multiple studies have demonstrated the presence of epithelial cells in most PGs (–), it is still not fully understood why not all PGs turn into IRCs even though both are stages of the same inflammatory phenomenon and receive the same antigenic stimulus. This literature review provides updated biological insights into the complex and controversial molecular mechanisms of formation and histopathological features of the IRC.
+
+ETIOPATHOGENESIS OF THE INFLAMMATORY RADICULAR CYST
+
+IRCs are stemmed from epithelial cell rests of Malassez (ERM) that remain in the periodontal ligament after the radicular formation with a dormant proliferation capacity (,,,). The IRC can be considered a defensive, hyperplastic, and reactive lesion stimulated by bacterial antigens spreading from necrotic pulp tissue (,,). Even though approximately 45% of all PGs contain epithelial cells, not all turn into IRCs. It has been reported that approximately 20% of all chronic periapical lesions containing epithelial cells develop into IRCs (,,).
+
+Notably, although pulpal necrosis has traditionally been considered the primary aetiological factor for AP, scientific evidence supports that teeth diagnosed with irreversible pulpitis can be accompanied by AP (). Cone-beam computed tomography studies have reported the presence of preoperative hypodense lesions compatible with AP in 13.7% of teeth diagnosed with symptomatic irreversible pulpitis (). Therefore, the detection of radiographic AP must not necessarily be correlated with pulp necrosis but also with pulpal inflammation (–).
+
+IRCs are thought of as a direct sequel of PGs (,), where in addition to the characteristic inflammatory infiltrate associated with PGs, the presence of stratified squamous epithelium outbreaks (originating from ERM), forming a network in the dental root surroundings can also be evidenced (). The ERM are linked with multiple functions that vary from the prevention of root resorption to the maintenance of the thickness of the periodontal ligament (). In physiological conditions, the ERM remains dormant without developing mitotic activity. However, during a chronic inflammatory course, bacterial or endogenous factors may activate epithelial proliferation (). It is known that the proliferative stimulus for ERM is the chronic inflammation of the quoted PG. Nevertheless, the reason why not all PGs turn into IRCs despite the presence of epithelial cells in most of the reactive granulomatous lesions is still unknown (–).
+
+Under the influence of different active biological factors, epithelial cells associated with PGs may experience degeneration and proliferation, thus turning into IRCs. This process can be divided into three stages: (i) Proliferation of the ERM, stimulated by the influence of specific pro-inflammatory cytokines and growth factors. (ii) Afterwards, the epithelium surrounding the pathological cavity emerges (it has been accepted that the lining epithelium acquires antigenicity properties). (iii) Finally, the cyst grows and expands (,).
+
+Epithelial Proliferation Stage
+
+Several pro-inflammatory cytokines and growth factors released during the periapical inflammatory phenomenon play an important role in the complex molecular formation and development of the IRC () (,,–). Interactions between epithelial cells and their stroma directly control their growth and differentiation mechanisms in normal and pathological conditions (,). Cystic lesions have been associated with the increase of floating inflammatory cytokines in the periapical tissues, and it is considered that bacterial endotoxins are precursors of the proliferation stage of the IRC due to their strong mitogenic action on epithelial cells and the activation capacity of cytokine-producing cells, thus facilitating epithelial proliferation (,,).
+
+The epithelial proliferation stage is elicited by pro-inflammatory cytokines and potentially osteolytic factors such as interleukin (IL)-1 and IL-6 released by macrophages, fibroblasts, endothelial, and epithelial cells (,). IL-1 may also participate in the production of matrix metalloproteinase 9 (MMP-9), thus contributing to the enzymatic degradation of the osteoid extracellular matrix and furthering cyst growth (). Furthermore, transcriptional factors such as nuclear factor-kB (NF-kB) regulate the expression of IL-1, IL-6, the tumour necrosis factor-alpha (TNF-α), and matrix metalloproteinases (MMP), thus playing an important role in the osteolytic process of the surrounding bone tissue and promoting epithelial proliferation (,,). Likewise, the keratinocyte growth factor (KGF), a cytokine with mitogenic activity on epithelial cells and released during the adaptative immune response that takes place in the PG, also promotes the proliferation of epithelial cells (,). KGF is spurred by the actions of IL-1, IL-6, IL-8, TNF-α, and the platelet-derived growth factor (,). In line, active IL-6 synthesis affects the activity of Th-1 lymphocytes, which are widely distributed in IRCs with proliferative epithelium (,).
+
+Pringle et al. (1992) () confirmed the presence of Langerhans cells (potent initiators of primary T-cell dependent immunologic responses) in cyst epithelium close to T-lymphocytes, which start immunological reactions linked to cystic development. The presence of lymphocytes attached to Langerhans cells suggests that T-lymphocytes work as triggering cells in the pathologic process of IRCs since activation of T-lymphocytes provokes the release of a great variety of pro-inflammatory interleukins, thus leading to immune responses that favour mitogenic actions associated with the proliferation of the IRC epithelium (). Likewise, Lin et al. (2007) () reported that ERM are provided with surface receptors for the epidermal growth factor (EGF), which provides a strong mitogenic action on epithelial cells, fibroblasts, and endothelial cells. EGF's mitogenic activity is enhanced by the indirect action of prostaglandin E2 (PGE2) . Notably, the balance between cell proliferation and apoptosis is implied in the setting up, growing, and sustenance of the IRC (,,). Caspase activity is required for apoptosis. In addition, caspases are responsible for regulating cell renewal mechanisms (,). It has been reported that caspase 3 plays an important role in both apoptosis and proliferation of epithelial cells, which also contributes to the maintenance of the epithelial thickness of the IRC (,).
+
+TABLE 1
+
+Growth factors participating in the IRC etiopathogenesis
+
+Growth factor
+
+Target
+
+Biological effects
+
+Epidermal growth factor (EGF)
+
+Epithelial cells ().
+
+Mitogenic action on epithelial cells (,,).
+
+Endothelial cells (,).
+
+Tyrosine-specific protein kinase activity (,).
+
+Fibroblasts ().
+
+Production and regulation of mitogenic signals in fibroblast cells ().
+
+Inflammatory cells within the
+
+Production and regulation of mitogenic signals in endothelial cells ().
+
+cyst capsule ().
+
+Cell survival (,).
+
+Platelet-derived growth factor (PDGF)
+
+Monocytes (,).
+
+Chemotaxis and monocyte proliferation ().
+
+Osteoclasts ().
+
+Chemotaxis and fibroblastic proliferation ().
+
+Mesenchymal cells (,).
+
+Proliferation, differentiation and cell development (,,).
+
+Chemoattractant and mitogen for mesenchymal cells ().
+
+Cell proliferation (,).
+
+Regulates the expression of pro-inflammatory cytokines ().
+
+Mitogenic action on osteoclasts (,).
+
+Osteogenic effects ().
+
+Angiogenic effects ().
+
+Transforming growth factor-alpha (TGFα)
+
+Epithelial cells ().
+
+Neovascularisation ().
+
+Endothelial cells (,).
+
+Endothelial proliferation (,).
+
+Fibroblasts (,).
+
+Fibroblastic proliferation ().
+
+Inflammatory cells within the cyst capsule ().
+
+Collagen production ().Favours periapical healing ().
+
+Transforming growth factor β (TGFβ)
+
+Fibroblasts (,).
+
+Mitogenic action in cells provided with EGF receptors (,).
+
+Endothelial cells ().Inflammatory cells within the cyst capsule (,).Mastocytes ().
+
+Chemoattractant for monocytes, fibroblasts, and lymphocytes (,,).Suppressive effects on T and B lymphocyte proliferation and differentiation ().Regulatory effect on epithelial cell differentiation ().
+
+Regulates epithelium-mesenchyme interactions (,).Inhibition of mast cell activity through autocrine and paracrine pathways (,).
+
+Inhibits the production and antagonizes the biological function of IL-1, IL2, TNF-α, and IFN-y (,).
+
+Macrophages inactivation (,).
+
+Fibroblast proliferation (,).
+
+Fibroblastic differentiation induction of periodontal ligament stem cells ().
+
+Inflammation stabilization and healing of damaged tissues ().
+
+Fibronectin and collagen production, thus, increasing the incorporation of these proteins into the bone matrix (,,,).
+
+Neovascularisation (,).
+
+Biofunctional growth regulation ().
+
+Inhibits bone resorption and promotes bone tissue remodelling and repair (,–).
+
+Chemotactic effect on osteoblasts ().
+
+Osteoblast differentiation during lesion regression (,,,).
+
+Inflammation regulation through immunosuppressant effects (,,).
+
+Growth and differentiation control on inflammatory cells (,).
+
+Influences CD14 cell activities ().
+
+Proliferation and differentiation of mesenchymal stem cells (,).
+
+Reconstruction of the extracellular matrix (,).
+
+Keratinocyte growth factor (KGF)
+
+Epithelial cell rests oft Malassez ().Sub-epithelial fibroblasts ().Keratinocytes ().
+
+Mitogenic action on epithelial cells (,).Paracrine mediator of epithelial cell growth and differentiation (,).
+
+Mitogenic action on keratinocytes ().
+
+Proliferation, activation, and maintenance of epithelial rests of Malassez ().
+
+Vascular endothelial growth factor (VEGF)
+
+Keratinocytes ().
+
+Increases vascular permeability (–).
+
+Epithelial cells ().
+
+Facilitates inflammatory cell migration (,).
+
+Osteoclast ().
+
+Promotes granulation tissue development (,).
+
+Increases cyst liquid accrual (,,,).
+
+Mitogenic action on endothelial cells (,–).
+
+Angiogenic effects in the cystic capsule (,).
+
+Promotes osteoclasts recruitment ().
+
+Promotes chemotaxis and migration of osteoclastic cells (,).
+
+Promotes survival of mature osteoclasts ().
+
+Up-regulates expression of RANK and increases angiogenic responses of endothelial cells to RANKL ().
+
+RANKL: The activator of the nuclear-kB receptor factor ligand
+
+TABLE 2
+
+Interleukins participating in the IRC etiopathogenesis
+
+Interleukin
+
+Features
+
+Expressed by
+
+Biological effects
+
+IL-1
+
+Pro-inflammatory
+
+Macrophages, monocytes, fibroblasts, epithelial cells (,).
+
+Fibroblasts proliferation (,,).
+
+Keratinocytes proliferation (,).
+
+Bone resorption (,,,).
+
+Bone remodelling (,).
+
+Prostaglandins production (,).
+
+Epithelial cell proliferation (,).
+
+Strengthen leukocyte adhesion ().
+
+IL-1α
+
+Pro-inflammatory
+
+Macrophages, fibroblasts, osteoblasts, neutrophils (,).
+
+Stimulates expression of pro-inflammatory cytokines (,). NF-kB activation ().
+
+Promotes bone resorption (,).
+
+Prostaglandins and collagenase production (,,).
+
+IL-1β
+
+Pro-inflammatory
+
+Macrophages ().
+
+Promotes IL-6 / IL-8 / TNF-A synthesis (,).
+
+E2 Prostaglandin synthesis ().
+
+Promotes bone resorption (,).
+
+IL-2
+
+Pro-inflammatory
+
+Th-1 cells ().
+
+Immunity cell activator ().
+
+IL-3
+
+Pro-inflammatory
+
+T- lymphocytes ().
+
+Elicit expression of Macrophage Colony-Stimulating Factor human ().
+
+Promotes osteoclast differentiation ().
+
+Promotes bone resorption due to synergistic interaction with GM-CSF (Granulocyte-Macrophage Colony-Stimulating Factor) ().
+
+Synergistic interaction with IL-1 ().
+
+IL-4
+
+Anti-inflammatory
+
+Th-2 cells ().
+
+Reduces osteoclastic function ().
+
+Stimulates bone matrix synthesis and mineralisation ().
+
+Modulates bone renewal processes (,).
+
+Inhibits IFN-γ ().
+
+IL-5
+
+Pro-inflammatory
+
+Th-2 cells ().
+
+Stimulates humoral immunity response ().
+
+IL-6
+
+Pro-inflammatory
+
+Macrophages, fibroblasts, endothelial cells,
+
+Promotes osteoclastic differentiation and activation (,,).
+
+Th-2 cells, epithelial cells (,,).
+
+Bone resorption (,,,,,).
+
+Synergistic interaction with IL-1 (,).
+
+Stimulates epithelial cells proliferation (,,,).
+
+Magnifies the inflammatory response (,,,).
+
+Take part in the differentiation of B cells from plasmatic cells ().
+
+IL-8
+
+Pro-inflammatory
+
+T-cells, fibroblasts, macrophages ().
+
+Neutrophils transmigration ().
+
+Chemoattracting functions ().
+
+IL-10
+
+Anti-inflammatory
+
+Macrophages, Th-2 cells, dendritic cells, B cells (,).
+
+Inhibits IL-1 / IL-12 (). Inhibits IFN-γ and TNF-α (,).
+
+Potentialises inhibitors on NF-kB ().
+
+Modulates T-cells (,,).
+
+Modulates inflammatory responses (,).
+
+Stimulates production of interleukin-1 receptor antagonist ().
+
+IL-11
+
+Pro-inflammatory
+
+Osteoblasts ().
+
+Promotes osteoclastogenesis and is associated with osteolysis by mediating
+
+Bone marrow stromal cells (,).
+
+the osteoclastogenic effects of PTH, IL-1β, and TNF-α ().
+
+IL-12
+
+Pro-inflammatory
+
+Macrophages, monocytes, dendritic cells,
+
+Regulates immune responses through the differentiation of T and B cells for the production
+
+Anti-inflammatory
+
+B - lymphocytes. (,). Th-1 cells ().
+
+of IFN- γ and TNF– α (,,). Inhibits IL-4 and 10 ().
+
+Participates actively during the acute inflammatory phase ().
+
+Regulates the expression in T-CD4 lymphocytes of the osteoblasts inhibiting gene (OIP-1) (,).
+
+Participates in RANKL expression in periodontal ligament cells by regulating the mRNA and the expression of MMP-1, 3, 13 ().
+
+Regulates the production of IL-1a by macrophages ().
+
+IL-13
+
+Anti-inflammatory
+
+Th-2 cells (,).
+
+Modulates chronic lesions' immune response (,).
+
+Inhibit bone resorption through the reduction of Th-1 cytokines production (,).
+
+IL-15
+
+Pro-inflammatory
+
+Leucocytes ().
+
+Stimulates the expression of RANKL and MMP-9 ().
+
+IL-17
+
+Pro-inflammatory
+
+Th17 cells, neutrophils, macrophages (–).
+
+Regulates the production of matrix metalloproteinases by stimulating the expression of IL-8, IL-6, IL-1 (,,), and PGE2 ().
+
+Regulates the granulocyte-macrophage colony-stimulating factor expression ().
+
+Favors the expression of RANKL by osteoblast (,,).
+
+IL-17α
+
+Pro-inflammatory
+
+CD4 and CD8 ().
+
+Participates in the proliferation, migration, and maturity of neutrophils (,,).
+
+Participates in osteoclast differentiation and proliferation ().
+
+IL–18
+
+Anti-inflammatory
+
+Th-1 cells ().
+
+Reduces osteoclastic differentiation and bone resorption in conjunction with IL-12 (,).
+
+Modulates IL-1α production, released by macrophages ().
+
+IL-21
+
+Pro-inflammatory
+
+Th-17 cells ().
+
+Positive regulation of osteoclast differentiation ().
+
+T-CD4 ().
+
+Stimulates RANKL expression and bone resorption promotion (,).
+
+IL-22
+
+Anti-inflammatory
+
+Activated T-cells, natural killer cells ().
+
+Leads to acute phase immune responses (,).
+
+Promotes the release of chemokines ().
+
+Promotes osteoclastogenesis ().
+
+IL-23
+
+Pro-inflammatory
+
+Periodontal ligament cells ().
+
+Promotes osteoclastogenesis ().
+
+Osteoclasts activation and proliferation ().
+
+Affects T memory cells and inflammatory macrophages. When expressed, IL-23 binds to its specific receptor (IL-23R), eliciting phosphorylation and activation of STAT3 (signal transducer and activator of transcription), thus evoking cell activation (,,).
+
+IL-27
+
+Anti-inflammatory
+
+Mononuclear phagocytes, dendritic cells ().
+
+Leads to immunomodulation in apical lesions ().
+
+Inhibits Th-1,Th-2,Th-17 ().
+
+Regulates the expression of IFN-γ, IL-5, and IL-1b in asymptomatic lesions ().
+
+Promotes monocyte actions ().
+
+IL-33
+
+Pro-inflammatory
+
+Fibroblasts, endothelial and epithelial cells. (,).
+
+Leads to periapical inflammation and tissue fibrosis (). Immunology alerts system ().
+
+Inflammatory cells ().
+
+Promotes osteoclastogenesis (,).
+
+Promotes periapical lesion growing (,).
+
+Formation Stage – the Epithelial Lining of the Cyst
+
+Even though the above mechanisms may explain the proliferation of ERM, this process by itself does not bring about the formation of the IRC. Several theories have tried to explain the mechanism of lining the cavity of the IRC () (,,).
+
+Figure 1
+
+Formation Stage – Epithelial lining of the Inflammatory radicular Cyst. (a) Theory of nutrient deficiency; (b) Theory of abscess cavity; (c) Merging of epithelial strands theory
+
+Nutritional deficiency theory
+
+This theory proposes that epithelial cells proliferate, creating a three-dimensional mass (). In this mass, the epithelial cells from the ERM that are pulled away from their nutritional source undergo necrosis to later attract granulocytes to the necrotic area, where microcavities are formed and joined to create a cyst cavity coated by epithelium (,,). However, Huang (2010) and Nakauchi et al. (2019) stated that it is unlikely that proliferating epithelial cells may form an epithelium mass where internal cells cannot obtain a source of nutrition since epithelial cells in the external layer rely on the diffusion of nutrients from the basal membrane, and as ERM from the periodontal ligament starts proliferating in an environment full of nutrients in all directions, these cells likely move towards the nutritional source while continuing to proliferate instead of remaining in the core of the cell mass (,).
+
+Abscess theory
+
+When an abscess cavity is formed within a connecting tissue, epithelial cells proliferate, thus surrounding the cavity, since connaturally epithelial cells tend to protect tissue-exposed surfaces (,). Nevertheless, in their abscess theory study, Nair et al. (2008) () found that although 50% of the studied periapical lesions were covered with epithelium, only 20% were diagnosed as cysts, according to histopathological findings. Therefore, even though an abscess might represent an eliciting factor for cyst formation, there is insufficient evidence that epithelial cells proliferating in the inflamed periapical tissues always form a cyst (,,).
+
+Merging of epithelial strands theory
+
+This theory suggests that proliferating ERM continue to grow to form a circumferential mass by fusion, where the connecting tissue trapped inside gradually degenerates due to the decreased vascular supply, thus generating a cyst cavity (). However, this theory has also been refuted by some authors who propose that there is no reduction in vascular contribution at epithelium levels in IRCs since this area is usually invaginated by connective tissue (,).
+
+Yet, no matter the influence on the formation of the cyst cavity, it is believed that the proliferation of epithelial cells in the AP works as a defence mechanism in response to bacterial by-products emerging from the root canal system (,,), thus preventing the spread of the infection to surrounding tissues.
+
+Cyst Growing and Expansion Mechanisms
+
+Among the multiple immune reactions and suggested mechanisms for the growth and expansion of the IRC, it has been proposed that the osteolytic activity proper of bone resorption (), the degradation of the extracellular matrix (), the accumulation of intra-cyst fluids (), and the presence of viral microorganisms can extend the active stage of the inflammatory process and cyst growth (,). Likewise, Lin et al. (2007) () reported that IRC growth and proliferation of epithelial cell rests may be stimulated by the intracellular rise of cyclic adenosine monophosphate elicited by PGE2 during the inflammatory process. It has also been observed that the proliferative epithelium promotes the migration of polymorphonuclear leukocytes (PMN) from the connective tissue capillaries towards the surface of the cyst, which may promote its enlargement (,,). Moreover, the synthesis of adhesion molecules, such as intracellular adhesion molecules (ICAMs) and the endothelial leukocyte adhesion molecule-1 (ELAM-1), occurs at the blood vessel walls contained in the IRC, which, when stimulated by IL-1, TNF, and bacterial lipopolysaccharides, allows the creation of a continuous leukocyte concentration gradient, thus favouring cyst growth (). On the other hand, galectins (SiaLac-Lectin), a class of proteins secreted by immune response cells that bind specifically to β-galactoside sugars and support homeostasis during the inflammatory response by regulating survival, signalling, chemotaxis, and cell growth, have been linked to modulation of cytokine secretion, epithelial proliferation, and IRC growth (). Galectin-7 is usually found in the non-keratinised squamous epithelium of IRCs and plays an important role in apoptosis, cell renewal, wound repair, and growth of the epithelial surface. High immune-expression levels of galectin-7 in the hyperplastic epithelium have been highly associated with cell adhesion and proliferation of the epithelial lining. Conversely, galectin-1 expressed by macrophages, antigen-stimulated T cells, and activated B cells in the surrounding connective tissue of IRCs seems to act as a negative regulator of the inflammatory response by eliminating effector T-cells to maintain the integrity and function of tissues ().
+
+One of the most well-described mechanisms linked to the expansion of the IRCs is the degradation of the extracellular matrix (ECM). MMPs are a family of proteolytic enzymes responsible for degrading ECM macromolecules such as fibronectin, proteoglycans, and collagen (,,). Degradation of the ECM favours bone resorption through migration and recruitment of pro-inflammatory cells and pre-osteoclasts (,,). MMPs are divided into families depending on their internal structure and substrate. In periapical lesions, it is common to find the subfamily of collagenases (MMP-1, 8, 13) (–) and gelatinases (MMP-2, 9) (,,), which, in combination with pro-inflammatory cytokines such as IL-1α, are involved in bone resorption during IRC growth (,). Special attention has been paid to MMP-13, which seems to have a greater implication in IRC expansion (,,). Leonardi et al. (2005) (), in a comparative study of MMP-13 in periapical lesions with and without the presence of epithelial cells, concluded that MMP-13, due to its high capacity to trigger proliferation and migration of epithelial cells and bone resorption, may have a high influence on the transformation of PG into IRC.
+
+Concerning the role of bone resorption in IRC expansion, some molecules directly linked to bone metabolism, such as the receptor of the parathyroid hormone 1 (PTHR1), the activator of the nuclear-kB receptor factor (RANK), the RANK-ligand (RANKL), the osteoprotegerin (OPG), and the expression of the Runx2 gene play key roles in increasing the osteolytic activity at the periapical tissues during the evolution of chronic periapical lesions, and may promote the cyst expansion into the surrounding bone tissue (,,). The presence of PTHR1 in the epithelial lining of the IRC may induce the expression of RANKL at epithelial cell levels and in the surrounding osteoblasts, thus triggering osteoclastic activity by activating the RANKL/RANK complex (,). PTHR1 and the RANK-RANKL complex are involved in the osteoclastic activation process. RANKL may be inhibited by OPG, thus preventing bone resorption (). de Moraes et al. (2011) () reported that the lining epithelium of IRCs contains a greater number of positive OPG cells in comparison with positive RANKL cells. Those findings could be explained by a theory in which inflammatory cells within the granulomatous tissue release RANKL and the surrounding epithelial cells release OPG to restrict cystic expansion (). Protein Runx2 is a transcriptional molecule expressed in osteoprogenitor cells. It is suggested that Runx2 is an important factor in bone formation since it can lead to the differentiation of mesenchymal stem cells into an osteoblastic lineage (,). Notably, it is believed that the expression of Runx2 by the cyst's outermost cells (fusiform cells) may play an essential role in forming fibrous bone tissue in the periphery, favouring cyst expansion ().
+
+It has also been suggested that the accumulation of intra-cyst fluids is facilitated by the action of the vascular endothelial growth factor (VEGF), a powerful pro-angiogenic cytokine expressed by multiple cells such as keratinocytes, macrophages, fibroblasts, epithelial cells, and lymphocytes (,). VEGF regulates the angiogenesis process inside the IRC through differentiation, proliferation, and migration of endothelial cells (,). VEGF also leads to increased vascular permeability, allowing a magnification in cellular chemotaxis and extravasation of plasma proteins, which results in increased intra-cyst fluids and hydrostatic pressure, thus contributing to the IRC expansion (,,). Likewise, a high osmotic gradient is created inside the IRC due to the accumulation of metabolic by-products. An increase in the osmotic gradient promotes fluid passages from the surrounding tissues into the cystic cavity, increasing the internal hydrostatic pressure and promoting cyst wall expansion ().
+
+Finally, the presence of some kinds of herpes viruses in IRC epithelial cells, such as cytomegalovirus and Epstein-Barr type 1 (confirmed by immunofluorescence and immunochemistry tests), could facilitate the activation of the inflammatory phenomena that precede cyst formation and promote the exacerbation and widening of the lesion size (). Viruses may infect periodontal macrophages and T-cells, leading to the release of some pro-inflammatory cytokines such as IL-1β and TNF-α, which are highly related to local apical bone resorption (). Furthermore, infected gingival fibroblasts down-regulate collagen production, thus releasing a higher proportion of matrix metalloproteinases, consequently enabling the enlargement of cyst cavities () () (,,,,,–,).
+
+Figure 2
+
+Etiopathogenesis of the Inflammatory Radicular Cyst. (a) Initial inflammatory response provoked by bacterial endotoxins triggers the arrival of immune cells and the release of pro-inflammatory cytokines such as TNF-α, IL-1, IL-6, and growth factors such as EGF, KGF, TGF-α, and TGF-β thus facilitating the proliferation of ERM (,,,). (b) Production of multiple pro-inflammatory cytokines such as IL-6, IL-8, IL-12, and IL-17 may favour lymphocytes and PMN chemotaxis, causing a dynamic encounter between immune cells and bacterial by-products, resulting in the formation of a pathologic cavity (,,). (c) Cyst enlargement and growth are controlled by several mechanisms, such as the complex RANKL/RANK, the expression of MMPs, the endothelial leukocyte adhesion molecule-1 (ELAM-1), and intracellular adhesion molecules (ICAMs) and Galectins among others (,,)
+
+EGF: Epidermal growth factor, KGF: Keratinocyte growth factor, TGF-α: Transforming growth factor-alpha, TGF-β: Transforming growth factor β, PGE2: Prostaglandin E2, GAL-7: Galectin-7, MMP-13: Matrix metalloproteinases-13, ERM: Epithelial cell rests of Malassez, PMN: Phonuclear leukocytes, RANKL: The activator of the nuclear-kB receptor factor ligand
+
+CLASSIFICATION OF THE IRCS
+
+Simon (1980) classified the IRC into two types of epithelial-lined cavities, true cysts and bay cysts, according to the existing connection between the apical foramen and the radicular root canal () ().
+
+Figure 3
+
+Classification of Inflammatory radicular Cysts. (a) True cyst. (b) Bay cyst
+
+True Cysts
+
+The true cyst consists of an encapsulated lesion with a central lumen without communication or connection to the apical foramen. Therefore, true cysts are considered self-sufficient entities (,). However, it is believed that the lumen may be joined to the root apex through an epithelial chord (). Furthermore, Ricucci et al. (2020) () suggested that this kind of cyst, regardless of not having a direct connection with the root apex, cannot be considered a separate entity since the aetiologic factor that causes its emergence is the same as the one causing the occurrence of the bay cyst.
+
+Bay Cyst
+
+Bay cysts are epithelium-coated inflammatory lesions in which the central lumen surface is directly connected with the apical foramen that sources the main pro-inflammatory agents (). The formation of this kind of cyst starts as a bubble shape, followed by the formation of a capsule collar around the root (,).
+
+This classification may help to explain why, in contrast to true cysts, bay cysts may heal after non-surgical endodontic therapy because of their tight connection to the apical foramen (,). It has been suggested that true cystic lesions can only be effectively treated with surgical intervention (,,). In a histopathological study of 256 extracted teeth with periapical pathologies, Ramachandran Nair et al. (1996) () reported that 35% were periapical abscesses, 50% were PGs, and 15% of the lesions were IRCs, 9% were true cysts, and the remaining 6% were bay cysts.
+
+HISTOLOGICAL CHARACTERISTICS OF THE IRC
+
+Diagnosis of the IRC is a relevant topic since the histopathological nature of the AP may directly affect the outcome of the endodontic therapy (,,,). Therefore, an accurate preoperative diagnosis could enable correct therapeutic decisions towards executing surgical procedures. Multiple studies have evaluated the accuracy of non-invasive or minimally invasive methods such as CBCT, ultrasound, magnetic resonance imaging (MRI) and fluid aspiration, compared with histological examinations, in assessing the histopathological nature of the AP before intervention (,,–). Although promising, these studies' results are still controversial (). In clinical terms, the growth rate of the IRC is slow but invasive to the surrounding tissues (). Symptoms associated with this process are usually not perceived, except when exacerbation processes involving pain, inflammation and tooth mobility are present (). Sensibility tests on teeth associated with IRCs deliver negative results (,).
+
+Histological examination of biopsy tissue is currently the reference for differential histopathological diagnosis of periapical lesions. (–). However, the histological differential diagnosis between IRC and PG is not always accurate (). Therefore, to avoid misdiagnosis, serial sectioning of excisional biopsies should be the preferred approach over randomised sectioning of incisional biopsies, from intralesional excisions or curettage, to predictably identify IRCs (,,). PGs can exhibit areas of epithelial lining with proliferating epithelial cells similar to the IRCs (). Thus, the appearance of epithelial-lined cavities that may not exist can be seen in some specimens when evaluating a random or small number of serial sections from an incisional biopsy or fragmented lesions (). Therefore, a definitive histopathological diagnosis of the IRC can be achieved only by using serial or step-serial sectioning of the entire lesion with a root end attached to it, aiming to obtain the three-dimensional information necessary for making a differential diagnosis between IRC and PG (,). Furthermore, some have suggested that maxillofacial pathologists should ideally perform the histopathology to prevent diagnostic errors and misinterpretation (). Mullin et al. (2015) (), in a retrospective study of diagnostic comparison, reported that IRCs were misdiagnosed as ameloblastoma, inflamed odontogenic keratocyst and odontogenic cyst.
+
+Usually, specimens are stained with hematoxylin and eosin (H&E stain) before a histopathological examination, which allows morphological identification under microscopy (). H&E stain is based on the affinity of the dyes for different cellular structures. Hematoxylin is a basic dye with a deep blue-purple colour that reacts with acidic structures, such as chromatin in the nucleus. Eosin is a pink acid dye that non-specifically stains basic structures, such as connective tissue fibres and proteins. Therefore, nuclei are stained blue in an IRC biopsy, whereas the cytoplasm and extracellular matrix display varying degrees of pink staining (,). However, additional stains are frequently used. For example, Masson's trichrome stain identifies the collagen content of the lesion, and the Brown-Brenn stain modified by Taylor allows the identification of the presence of bacteria (). Moreover, staining the IRC samples enables the identification of their different histological layers ().
+
+IRC cavity encloses a liquid, semi-liquid, or gaseous content with cholesterol crystals derived from the disintegration of erythrocytes, lymphocytes, plasmatic cells, and macrophages (). Histological characteristics of an IRC confirm the presence of a cyst cavity, partially or completely covered by a non-keratinised squamous stratified cystic epithelium of variable thickness, where papillomatosis, acanthosis, spongiosis, and even the presence of fragmented atrophic eroded areas can be observed concomitant to the inflammatory process () (,,,,).
+
+The basement membrane that provides structural support to the cystic epithelium is a variable-thickness extracellular matrix layer, which, in addition to its biomechanical function, acts as a regulator of the cell signal of growth, differentiation, polarity, and gene expression (). At the basal layer level, the presence of the Ki-67 nuclear antigen and Bcl-2 antiapoptotic protein has been reported. Ki-67 is a cell proliferation biomarker observed in active cell cycle phases (G1, S, G2, and M), associated with the hyperplastic epithelium of the cyst capsule, and its expression is higher when intense inflammatory infiltrate is present. Bcl-2 is a cell death suppressor, significantly associated with atrophic epithelium, and its expression is lower or absent in the presence of intense inflammatory infiltrate (,,). Furthermore, as mentioned earlier, the rate of epithelial cell proliferation in the IRC is balanced by apoptosis to maintain the thickness of the epithelial lining ().
+
+The cystic epithelium is supported by an underlying irregular dense collagenous connective tissue containing different degrees of acute and chronic inflammatory infiltrate, composed primarily of macrophages, foam cells, plasma cells, lymphocytes, Rushton hyaline bodies, Langerhans cells, and cholesterol crystals, which can also be observed in the cyst wall (–,). Numerous fibroblasts and fibrocytes surrounded by mature collagen fibres are also seen near blood vessels () (,). This connective tissue provides structural support and plays a functional role (,) by releasing cytokines and growth factors, resulting in fibroblast proliferation, increased extracellular matrix production and eliciting inflammatory cell aggregation (). Furthermore, the lining epithelial cells form channels between them, by which the migration of polymorphonuclear cells from the connective tissue to the luminal surface of the cyst occurs (). Therefore, molecular interactions between the epithelium and the connective tissue maintain homeostasis and expansion of the IRC ().
+
+PGs are characterised by the presence of a chronic inflammatory infiltrate of T- and B-lymphocytes, plasmatic cells, histiocytes, and multinucleated giant cells surrounded by a capsule of granulomatous tissue defined by a high content of disorganised collagen fibres (irregular dense connective tissue) in which fibroblasts are present as well as vascular elements and foreign bodies () (,,–). In both PG and IRC, foreign bodies are defined as granules and fragments compatible with extruded remains of amalgam and endodontic sealant, gutta-percha, cellulose fibres from paper points, and basophilic fragments (calcium salts) derived from calcium hydroxide, among others, that could promote the initiation and persistence of periapical lesions ().
+
+Differentiating the histopathologic diagnosis of PG versus IRC can be difficult since PGs can exhibit areas of epithelial lining with proliferating epithelial cells similar to the IRCs (). Moreover, the PG and IRC comprise two stages of the same inflammatory process. Therefore, it can be difficult to identify differences in the types of cells that belong to each stage (,). The main difference between these two entities is that PGs may contain epithelialised areas organised as islands or buds existing randomly throughout the lesion (). In contrast, IRCs expose a complete cavity lined by non-keratinised stratified squamous epithelium where epithelial cells are connected by desmosomes. The epithelial wall is highly infiltrated by PMN, unlike PGs, whereas the epithelial strands are infrequently infiltrated by PMN (,,).
+
+Other differential diagnoses to be considered when IRC is suspected, in addition to PG, are some entities such as the periapical scar, cysts or tumours of odontogenic origin (such as odontogenic keratocyst and lateral periodontal cyst), non-odontogenic lesions, such as the solitary bone cysts, and nasopalatine duct cyst and periapical cemento-osseous dysplasia, which can be confused with periapical inflammatory cyst-like lesions and PG during the osteolytic stage due to its radiographic characteristics ().
+
+TABLE 3
+
+Accuracy of non-invasive and minimally invasive methods vs. histological examinations
+
+Author (Year)
+
+Diagnostic tools evaluated
+
+Main results (Accuracy)
+
+Conclusion
+
+Simon et al. (2006) ()
+
+CBCT vs. histopathology report
+
+The CBCT-scan data and the biopsy report identified 13 of the 17 analysed lesions (76.4% accuracy) as having the same diagnosis (PG/IRC).
+
+CBCT scan may be clinically more accurate and more useful than a biopsy, providing a diagnosis without surgical intervention.
+
+Rosenberg et al. (2010) ()
+
+CBCT vs. histopathology report
+
+14 of the 45 (31.1% accuracy) lesions resulted in a coincident diagnosis (PG/IRC). Notably, there was a high inconsistency between radiologists' reports, evidenced by statistical analyses.
+
+CBCT imaging is not a reliable diagnostic tool for the differential diagnosis of IRC and PG. The histopathological report should be considered the standard procedure.
+
+Guo et al. (2013) ()
+
+CBCT vs. histopathology report
+
+36 CBCT scans of periapical lesions were compared with the .histopathologic reports for the differential diagnosis of IRC/PG. Diagnostic accuracy ranged between 72% and 83% (AUC: 0.69 to 0.76)
+
+CBCT imaging can provide a moderately accurate differential diagnosis between IRC and PG.
+
+Chanani and Adhikari (2017) ()
+
+CBCT vs. histopathology report
+
+45 periapical lesions were analysed using CBCT scans and compared with histopathological diagnoses. Results from this study showed moderate accuracy (AUC: 0.62 to 0.66)
+
+CBCT diagnosis is moderately accurate for differential diagnosis of IRC and PG.
+
+Pitcher et al. (2017) ()
+
+CBCT vs. histopathology report
+
+118 presurgical CBCT scans of periapical lesions from cases that underwent apical surgery and had a histopathological diagnosis of IRC/PG were analysed in terms of lesion volume, density, and specific radiologic characteristics. Diagnostic accuracy ranged between 76.4% and 80%. Notably, when cyst volume was >247 mm3, there was 80% probability of a IRC.
+
+CBCT may be a useful preoperative cyst screening tool, but not a substitute for the histopathological report.
+
+AlMadi et al. (2021) ()
+
+CBCT (adjusted grey density values) vs. histopathology report
+
+57 periapical lesions were analysed by CBCT images and biopsy. The AUC was 0.44 (P=0.45). The adjusted grey density value with the highest accuracy for identifying IRC/PG had an accuracy, sensitivity and specificity of 0.54, 1.00 and 0.075, respectively
+
+CBCT (adjusted grey density values) could not distinguish between IRC and PG.
+
+Etöz et al. (2021) ()
+
+CBCT (GSV) vs. histopathology report
+
+21 periapical lesions were retrospectively analysed by CBCT and compared with the histopathologic reports. There was no statistically significant relationship between the histopathological diagnosis and the CBCT (GSV) of the lesions: minimum GSV (P=0.972), maximum GSV (P=0.547).
+
+CBCT (GSV) is not useful for the differential diagnosis of IRC and PG. A well-defined cortical border and a circular shape are distinctive criteria for differential diagnosis of IRC and PG.
+
+Gundappa et al. (2006) ()
+
+Ultrasound vs. histopathology report
+
+15 periapical lesions were analysed. All the ultrasound diagnoses agreed with the histopathological reports (100% accuracy).
+
+Ultrasound provides accurate information on the pathological nature of the AP (IRC/PG). However, the size of the lesions is understated.
+
+Raghav et al. (2010) ()
+
+Ultrasound vs. histopathology report
+
+The ultrasound examination and the biopsy report identified 20 of the 21 lesions (95.2% accuracy) as having the same diagnosis (PG/IRC).
+
+Ultrasonography offers precise information on the pathologic nature of the AP (IRC/PG), which is crucial for forecasting the course of treatment.
+
+Goel et al. (2011) ()
+
+Ultrasound with colour doppler and power doppler applications vs. histopathology report
+
+Ultrasound diagnosed IRC with a sensitivity of 100% and specificity of 90.91% and PG with a sensitivity of 90.91% and specificity of 100%
+
+Ultrasound has great potential to identify the histopathological nature (IRC/PG) of AP.
+
+Prince et al. (2012) ()
+
+Ultrasound with colour doppler vs. histopathology report
+
+The differential diagnosis between PG and IRC, based on the ultrasound examination and confirmed by histopathologic analysis, resulted in a coincident diagnosis in 13 (86.7% accuracy) of 15 cases.
+
+Ultrasound imaging is a useful technique to make a differential diagnosis between IRC and PG by identifying the histopathological nature of the AP.
+
+Parvathy et al. (2014) ()
+
+Ultrasound with colour doppler vs. histopathology report
+
+20 periapical lesions were examined. Ultrasonography identified the IRCs in all 11 cases and the PGs in all 9 cases (100% accuracy).
+
+Ultrasound imaging had the potential to be used for the differential diagnosis of IRC and PG. However, its diagnostic validity may be diminished in areas where thick overlying bone is present.
+
+Tikku et al. (2016) ()
+
+Ultrasound with colour doppler vs. histopathology report
+
+Out of 27 cases of PGs that were histopathologically confirmed, ultrasound accurately identified 20 (74.1%), whereas it accurately identified all 3 of the IRC cases (100%). Consequently, the technique's sensitivity and specificity were 74.1% and 100%, respectively.
+
+Ultrasound can be used routinely as a complementary method for the differential diagnosis of AP (IRC/PG). However, its ability to detect periapical lesions in areas with dense overlaying cortical bone is limited.
+
+Sönmez et al. (2019) ()
+
+Ultrasound with colour doppler vs. histopathology report
+
+20 periapical lesions were evaluated. Histopathological diagnosis confirmed 12 IRCs and 8 PGs. Ultrasound examination identified all the IRCs and 5/8 of the PGs. Showing a sensitivity and specificity of 62.5% and 100%, respectively. There was no statistically significant difference between ultrasound and histological diagnosis of periapical lesions (P=0.25), and a κ coefficient (0.667; P=0.002) suggested strong agreement between ultrasound and histopathological reports.
+
+Ultrasound provided accurate information for the differential diagnosis and assessment of IRC and PG.
+
+Das et al. (2021) ()
+
+Ultrasound with colour doppler vs. CBCT vs. histopathology report
+
+CBCT diagnosed IRCs with 68.57% accuracy and PGs with 71.43% accuracy. Ultrasound diagnosed IRCs with 82.85% accuracy and PGs with 88.57 accuracy. Ultrasound examination showed good concordance with histopathological reports (contingency coefficient: 0.664)
+
+Ultrasound is a useful tool for identifying the histopathological nature of the underlying AP (IRC/PG) with good accuracy.
+
+Lizio et al. (2018) ()
+
+MRI vs. histopathology report
+
+A total of 24 of the 34 (70.5% accuracy) evaluated cases showed consistent diagnosis.
+
+MRI is an accurate and non-invasive diagnostic tool for differential diagnosis between IRC and PG. The accuracy of MRI is comparable to histopathological reports.
+
+Juerchott et al. (2018) ()
+
+MRI vs. histopathology report
+
+Before apicoectomy, 11 patients with AP underwent dental MRI. In accordance with histopathological reports, a total of six MRI lesion characteristics allowed for an accurate diagnosis between IRCs and PGs in all cases (100% accuracy).
+
+MRI is a radiation-free diagnostic method that enables an accurate differentiation between IRCs and PGs. Thus, MRI may help to avoid unnecessary periapical surgeries.
+
+Muglali et al. (2008) ()
+
+Cytokine and chemokine levels in IRC fluids vs. histopathology report
+
+Cyst fluids were aspirated from 11 patients. Following aspiration, the pathological periapical tissues were enucleated and submitted for histopathologic examination. IRC fluids contained IL-1 α, TNF- α, monocyte chemotactic protein-1, and RANTES in high concentrations. The concentration of IL-1 α was the highest.
+
+Fluid aspiration may be an alternative diagnostic method to identify inflammatory cytokines involved in the IRC expansion.
+
+AUC: area under the curve, GSV: grey-scale values, MRI: magnetic resonance imaging
+
+Figure 4
+
+Histological layers of the Inflammatory radicular Cyst. (a) Non-keratinised stratified squamous epithelium (b) Basement membrane (c) Cyst cavity encloses a liquid, semi-liquid or gaseous content (d) Connective tissue containing multiple degrees of chronic inflammatory infiltrate, composed mainly of macrophages, lymphocytes, cholesterol crystals, Langerhans cells surrounded by multiple collagen fibres and blood vessels
+
+Figure 5
+
+Histology of the IRC. (a) Cystic cavity (b) Cavity covered by a hyperplastic stratified squamous non-keratinised cystic epithelium of variable thickness (c) Irregular dense connective tissue (H&E stain, ×10)
+
+IRC: Inflammatory radicular cyst, H&E: Hematoxylin and eosin
+
+Figure 6
+
+Histology of the IRC. (a) Blood vessels (b) Non-keratinised stratified squamous epithelium (c) Collagenous connective tissue containing a large number of inflammatory cells (H&E stain, ×40)
+
+Figure 7
+
+Clefts after the dissolution of cholesterol crystals in the IRC wall (H&E stain, ×10)
+
+Figure 8
+
+Histology of the PG. (a) Irregular dense connective tissue (b) Angiogenesis (c) The mixed inflammatory infiltrate (H&E stain, ×40)
+
+PG: Periapical granuloma
+
+CONCLUSION
+
+AP can be associated with different pulpal conditions, from pulpal inflammation to pulp necrosis. AP results from multiple inflammatory reactions, which can lead to different histologic variants, such as PG and IRC, which are usually not correlated with the clinical diagnosis. Consequently, the clinical diagnosis of AP does not reflect the histological nature of the affected tissues. Notably, the histopathological nature of the AP may directly affect the outcome of the endodontic therapy.
+
+The development of IRCs stems from a chronic inflammatory process that provokes the proliferation of epithelial cells present in the PG. Although different theories have tried to explain this phenomenon, there are still many questions regarding the molecular biology of the IRC. Recent research in the area has demystified different paradigms traditionally expressed in the scientific literature and has improved our knowledge regarding the IRC's formation, evolution, and clinical implications. However, based on the current state of the accumulated knowledge, it can be concluded that the phenomena associated with the molecular biology of the IRC are still unclear, and further investigation is needed. Efforts should be focused on elucidating the key biological factors involved in the epithelial proliferation that turns a PG into an IRC.
+
+Furthermore, histopathological differential diagnosis of the IRC is a fairly sensitive technique. Even though from a histological perspective, IRCs consist of an inner epithelial lining, a fibrous wall, and a cyst cavity, IRC diagnosis must be based on a biopsy sample with specific and ideal characteristics, which are not always easy to obtain in the clinical setting. Moreover, the PG and the IRC comprise two stages belonging to the same inflammatory process. Therefore, finding the difference regarding the type of cells that belong to each stage tends to be challenging. Consequently, the need to develop non-or minimally invasive diagnostic methods with predictable outcomes that allow the identification of the different histological presentations of AP is highlighted.
