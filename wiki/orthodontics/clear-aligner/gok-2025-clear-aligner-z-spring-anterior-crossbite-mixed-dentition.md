@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: false
 pmid: "41015409"
 pmcid: "PMC12746677"
+text_path: /Users/oracleneo/llm-wiki/papers/gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition.txt
+text_filename: gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition.txt
 tags: [orthodontics, clear-aligner, class-iii, anterior-crossbite, mixed-dentition, z-spring, rct, ohrqol]
 relations:
   - type: extends
