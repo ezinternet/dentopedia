@@ -3,7 +3,7 @@ title: "In vivo models for evaluating antibacterial activity and osseointegratio
 authors: Yuqing Zhang, Jiang Chen, Jing Zhang, James Kit-Hon Tsoi
 year: 2025
 date: 2025-01-01
-doi: null
+doi: 10.1016/j.jdsr.2026.02.002
 source: zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr.md
 category: [implants/surface]
 confidence: sr
