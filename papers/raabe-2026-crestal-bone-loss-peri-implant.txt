@@ -1,0 +1,136 @@
+Title: Crestal Bone Loss and Peri‐Implant Conditions at Tissue‐Level Implants: Influence of Prosthesis Type After 25 Years
+Authors: Clemens Raabe, Manrique Fonseca, Andrea Roccuzzo, Martin Schimmel, Giovanni E. Salvi, Vivianne Chappuis, Emilio Couso-Queiruga
+Journal: Clinical Implant Dentistry and Related Research, 2026;28(3):e70158
+PMID: 42132365
+PMCID: PMC13174906
+DOI: 10.1111/cid.70158
+Source: PubMed Central (get_full_text_article)
+
+ABSTRACT
+
+Objective
+To evaluate long‐term crestal bone level changes (ΔCBL) and prevalence of peri‐implant conditions according to the type of implant‐supported fixed dental prosthesis (IFDP), and to identify implant‐, prosthetic‐, and patient‐related factors associated with ΔCBL.
+
+Materials and Methods
+This single‐center observational study evaluated patients rehabilitated with single crowns (SCs), splinted crowns (SPs), or bridges (BRs) on tissue‐level implants after 10 and 25 years of function. Standardized clinical and radiographic evaluations were performed, and peri‐implant conditions were diagnosed according to established consensus definitions.
+
+Results
+A total of 147 patients with 233 implants were included. The prevalence of peri‐implantitis (PI) increased from 10 to 25 years, from 2.3% to 7.8% for SC, from 1.6% to 6.3% for SP, and from 0% to 4.9% for BR, with no significant differences between IFDP types at either time point (p ≥ 0.95). SP tended to have higher peri‐implant mucositis (PM) rates at 25 years (87.3%), compared to SC (74.4%) and BR (80.5%). Mean ΔCBL was −0.37 ± 0.91 mm for SC, −0.25 ± 0.85 mm for SP, and −0.70 ± 1.0 mm for BR, with no significant differences between IFDP types (p = 0.37). Multivariate analyses demonstrated that greater ΔCBL was significantly associated with incisor region location (−0.74 mm), increased probing depth (−0.16 mm per mm), and suppuration on probing (−0.97 mm), all p ≤ 0.05. In contrast, prosthetic retention, marginal misfit, and prosthetic emergence geometry were not significantly associated with ΔCBL.
+
+Conclusions
+Over 25 years, the type of IFDP did not significantly affect ΔCBL or the prevalence of PM and PI around tissue‐level implants. Long‐term bone stability was primarily influenced by implant location in the incisor region, increased probing depths, and the presence of suppuration.
+
+FULL TEXT
+
+1 Introduction
+
+Dental implants have evolved into a predictable and widely accepted treatment modality for the rehabilitation of partially and completely edentulous patients across all age groups. Long‐term success of implant therapy depends on multiple interrelated factors, including appropriate patient selection, comprehensive treatment planning, precise surgical execution, suitable implant and prosthetic design, and consistent supportive care aimed at preserving peri‐implant tissue health over time. A key indicator of peri‐implant health (PH) is the stability of the crestal bone levels (CBL) following the initial phase of physiological remodeling that generally occurs after implant placement and functional loading of the implant‐supported fixed dental prosthesis (IFDP). In contrast, progressive bone loss compromises the structural and biological integrity of the implant and increases the risk of implant failure through both infectious and mechanical pathways.
+
+Dental implants may support removable dental prostheses, or IFDPs, such as single crowns (SC), splinted crowns (SP), or bridges (BR). Evidence indicates that IFDP type and prosthetic characteristics could have an influence on PH and CBL. Greater bone loss and a higher prevalence of peri‐implantitis (PI) have been reported for splinted compared with nonsplinted IFDPs, in the presence of marginal misfit or interproximal contact loss. In contrast, the type of prosthetic retention, such as screw‐retained or cement‐retained, does not appear to substantially influence PI prevalence or CBL. However, residual excess cement remains a critical local factor that may predispose the onset and progression of peri‐implantitis.
+
+Recent evidence further highlights the influence of implant design and prosthetic emergence geometry parameters on peri‐implant tissue stability. Emergence angles exceeding 30° and convex emergence profiles have been consistently associated with greater CBL and an increased risk of PI, particularly in bone‐level implants. Moreover, wider implant diameters have been significantly correlated to a higher prevalence of peri‐implantitis, whereas taller prosthetic platform height has been associated with reduced CBL. Nevertheless, the long‐term effect of IFDP type and associated transmucosal emergence geometry in tissue‐level implants on peri‐implant diseases and changes in CBL over time (ΔCBL) remains largely underexplored.
+
+The primary objective of the present study was to assess the long‐term ΔCBL according to IFDP type at tissue‐level implants. Secondary objectives were to (1) evaluate the prevalence of peri‐implant conditions, (2) determine the influence of transmucosal emergence geometry, as well as implant‐, prosthetic‐, and patient‐related factors on ΔCBL, and (3) characterize peri‐implant bone‐related radiographic findings.
+
+2 Materials and Methods
+
+2.1 Study Design, Setting, and Ethical Approval
+Single‐center observational study, STROBE guidelines, Declaration of Helsinki. Ethical approval: Cantonal Ethics Committee of Bern, Switzerland (KEK‐BE‐No. 2023‐02279). Data collected at Department of Oral Surgery and Stomatology, School of Dental Medicine, University of Bern, Switzerland, during two periods: January 2010–January 2011 (10-year follow-up) and September 2024–May 2025 (25-year follow-up).
+
+2.2 Eligibility Criteria and Recruitment
+Health records of adult patients rehabilitated with IFDPs between May 1997 and January 2001 were reviewed. Inclusion: age ≥18, partial/complete edentulism, ≥1 tissue-level titanium SLA implant, cement- or screw-retained IFDP. Exclusion: insufficient documentation, refusal of further exams, impaired informed-consent capacity. Patients required both clinical AND radiographic follow-up for inclusion.
+
+2.3 Variables of Interest
+Primary outcome: impact of IFDP type on ΔCBL.
+Secondary outcomes: (1) prevalence of PM/PI per World Workshop and EFP S3-level guideline definitions, (2) influence of transmucosal emergence geometry and patient/prosthesis factors on ΔCBL, (3) other radiographic findings.
+
+2.4 Clinical Data Collection
+25-year exams by two calibrated periodontists (A.R., E.C.-Q.), UNC-15 probe. Measured: keratinized mucosa width (KMW), facial mucosal thickness (FMT, 3mm apical to zenith), probing depth (PD), bleeding on probing (BOP), suppuration on probing (SOP) — 6 sites/implant. IFDP type: (1) SC, (2) SP ± cantilever, (3) BR ± cantilever; non-IFDP = tooth-implant bridges or removable dentures. Retention type recorded (screw vs cement).
+
+2.5 Radiographic Data Collection
+Identical methods at 10- and 25-year follow-ups. Periapical radiographs (Xios XG Supreme; Dentsply Sirona) with parallel technique + XCP holders; panoramic radiographs (Veraview X800). Two calibrated examiners (C.R., E.C.-Q.) used ImageJ. CBL and emergence geometry assessed on panoramic radiographs using horizontal reference line at implant platform. Crown emergence angle = angle between implant long axis and tangent to restoration at platform level; emergence profile classified per established methodology. IFDP misfit and peri-implant bone-related radiographic findings assessed dichotomously on periapical radiographs.
+
+2.6 Statistical Analysis
+R v4.4.2. Robust linear mixed regression models + multinomial-Poisson GLMM (patient ID as random effect). ICCs for inter-rater agreement. Univariate screening (p≤0.10, no correlation) → multivariate model for ΔCBL; location (mesial/distal) as nuisance random effect. Observations-to-estimator ratio ≥23.6. Significance p≤0.05.
+
+3 Results
+
+3.1 Study Cohort
+150 patients (82 women, 68 men; mean age 72.8±13.1y) with 237 implants evaluated; 15 lost (9 loss of osseointegration, 6 peri-implantitis) and excluded. Evaluated at mean 10.6±0.7y and 25.1±0.9y post-placement. Age differed significantly by group: SC 69±13y, SP 76±12y, BR 79±10y (p<0.001). 31 patients had periodontal disease history; 8 light smokers, 6 heavy smokers.
+
+IFDP breakdown: SC n=129 reconstructions/129 implants; SP n=20/40; SP+cantilever n=13/23; BR n=16/34; BR+cantilever n=4/7; tooth-implant bridges n=1/1; removable on single attachments n=3/3. Screw-retention n=46 implants, cement-retention n=191. Small groups (tooth-implant bridges, removable) excluded from further analysis.
+
+Final sample: 147 patients, 233 implants (maxilla n=95, mandible n=138). BR significantly more frequent in maxilla vs SC/SP (p=0.005). No significant differences among IFDP types for implant position (p=0.14), implant length (p=0.89), implant platform (p=0.06), augmentation procedures (p=0.12) or timing (p=0.51), IFDP retention type (p=0.25), or marginal fit (p=0.75). 4.1mm diameter/2.8mm platform height implants most used for SP/BR; 4.8mm/1.8mm more frequent for SC (p≤0.03).
+
+Peri-implant health prevalences:
+- 10-year: PH (healthy) 15.5% SC / 17.5% SP / 22.0% BR; PM 82.2%/81.0%/78.0%; PI 2.3%/1.6%/0%.
+- 25-year: PH 17.8% SC / 6.3% SP / 14.6% BR; PM 74.4%/87.3%/80.5%; PI 7.8%/6.3%/4.9%.
+No significant difference between groups at either timepoint (p≥0.95). ICCs for CBL and emergence angle: 0.91–0.96 (95% CI 0.89–0.97) — high inter-rater reliability.
+
+3.2 CBL/ΔCBL According to IFDP Type, and Factors Associated With ΔCBL
+Mean CBL 10y vs 25y: SC 0.23±0.83 vs −0.14±1.29mm; SP 0.06±0.85 vs −0.31±0.98mm; BR 0.13±0.68 vs −0.58±1.16mm. Mean ΔCBL: SC −0.37±0.91mm, SP −0.25±0.85mm, BR −0.70±1.0mm. No significant differences among IFDP types for CBL at 10y, 25y, or ΔCBL (p≥0.26).
+
+Mean transmucosal emergence angle: SC 23.0°±11.3°, SP 20.4°±10.1°, BR 22.4°±13.3°. SP had significantly narrower mesial emergence angles vs SC/BR (p=0.04).
+
+Emergence profiles (concave/convex/straight): SC 11.0%/53.7%/35.3%; SP 27.0%/29.4%/43.7%; BR 36.6%/24.4%/39.0%. Straight profiles more frequent in SP/BR; SC had higher convex frequency (p≤0.007).
+
+Multivariate analysis — factors significantly associated with greater ΔCBL:
+- Incisor region location (vs canines −0.74mm net vs incisors' worse value... reported as: incisors worse than canines by 0.74mm, premolars by 0.78mm, molars by 0.86mm; p<0.001)
+- Increased probing depth: −0.16 mm per additional mm PD (p<0.001)
+- Suppuration on probing (SOP): −0.97 mm (p<0.001)
+
+NOT significantly associated with ΔCBL: IFDP type (p=0.17), platform height (p=0.17), transmucosal emergence geometry, KMW, FMT.
+
+Multivariate table (Effect / p):
+- IFPD: p=0.17 (SC baseline; SP +0.124; BR +0.198)
+- Platform height: p=0.17 (2.8mm baseline; 1.8mm +0.150)
+- Position: p<0.001 (Incisors baseline; Canines −0.739; Premolars −0.784; Molars −0.855)
+- Augmentation: p=0.10
+- Probing depth: +0.157 per mm, p<0.001
+- Bleeding on probing: p=0.26 (0 sites baseline; 1-2 sites +0.127; 3+ sites +0.038)
+- Suppuration on probing: p<0.001 (No baseline; Yes +0.968)
+- Keratinized mucosa width: +0.013, p=0.61
+- Facial mucosal thickness: +0.026, p=0.67
+
+3.3 Additional Radiographic Findings
+Residual bone grafting material: 8.5% SC, 9.5% SP, 0% BR.
+Peri-implant sheathing / corticalization: SC 10.1%/20.9%; SP 12.7%/12.7%; BR 9.8%/19.5%.
+When present, peri-implant sheathing predominantly associated with CBL <3mm (80%); remainder CBL ≥3mm (20%).
+Prosthetic misfit: 10.9% SC, 23.8% SP, 14.6% BR — NOT significantly associated with peri-implant health in this tissue-level cohort.
+No radiographic signs of residual cement, retrograde PI, or implant fracture.
+
+4 Discussion
+
+4.1 Main Findings
+IFDP type was NOT significantly associated with ΔCBL or PM/PI rates. Implant- and site-related factors (incisor location, increased PD, SOP) were significantly associated with greater ΔCBL.
+
+4.2 Agreements and Disagreements With Existing Evidence
+10- and 25-year PM/PI prevalences did not significantly differ among IFDP types, though SP trended toward higher PM at 25y. This CONTRADICTS a long-term retrospective study (17–23y follow-up) reporting higher PM/PI for fixed partial dentures vs SC. PM has also been linked to short-span IFDPs; higher PI reported for SP vs SC/BR in other studies, and for BR vs SC — attributed to reduced hygiene accessibility in multi-unit reconstructions. Conversely, a recent meta-analysis found no effect of splinting on biological complication rates in posterior adjacent implants. The authors note comparisons are hampered by heterogeneous IFDP definitions/groupings and differing follow-up durations. Suggests IFDP type may play a LIMITED role in long-term peri-implant stability vs patient/site factors, for well-designed prostheses on tissue-level implants over extended periods.
+
+CBL remained largely stable over 25y, with only slightly greater ΔCBL for BR vs SP/SC — but not significant. This CONTRASTS with a recent systematic review + meta-analysis identifying splinting as a risk factor for crestal bone loss. Other systematic reviews found no significant difference between splinted/nonsplinted adjacent implants, suggesting the splinting effect may be modest and context-dependent if prosthesis design is appropriate/cleansable.
+
+Emergence geometry (angle/profile) NOT associated with increased ΔCBL — aligns with two prior studies finding no association at tissue-level (TL) implant design. Contrasts with a recent study identifying 48° emergence angle as a critical threshold for PM/PI in TL-implant-supported prostheses. Authors interpret: TL implants with machined surface in supracrestal area may compensate for prosthetic emergence compromises re: CBL/PM/PI; but excessively steep profiles may still be a local risk factor especially with poor plaque control.
+
+Prosthetic misfit NOT associated with ΔCBL — consistent with a recent systematic review that failed to identify a clinical misfit threshold. Authors attribute this partly to TL implant design (most implants 2.8mm platform height), which displaces the implant-abutment microgap away from the crestal bone, potentially limiting apical extension of inflammatory infiltrate and reducing microbial/load-induced crestal stress even with marginal misfit present.
+
+Implant location: anterior (incisor) placement strongly associated with greater ΔCBL — consistent with a prior retrospective study reporting 3.7-fold higher bone loss probability for anterior vs posterior sites, and meta-analyses showing increased PI risk in anterior regions (pooled RR 1.34–1.76 vs posterior). Attributed to thinner hard/soft tissue phenotypes anteriorly and greater nonaxial loading from incisor inclination.
+
+Clinical inflammatory parameters: SOP associated with −0.97mm ΔCBL; each additional mm PD associated with −0.16mm ΔCBL. BOP NOT significantly associated. SOP linked in recent evidence to a distinct, more pathogenic peri-implant microbiome, reflecting advanced inflammatory breakdown. BOP has low specificity for bone-loss prediction (1-2 BOP sites). Probing accuracy around implants can be affected by prosthetic design — prosthesis removal improves accuracy; peri-implantitis, concave restorative profiles, anterior position increase probing discrepancies.
+
+Peri-implant sheathing/corticalization (radiographic finding without clinical inflammation) may reflect aseptic disruption of osseointegration at bone-implant interface (mechanism unclear) — proposed: aseptic immune-mediated response to titanium particles, or postloading bone densification/functional adaptation/occlusal trauma compromising local blood supply. Observed in 10.1–14.6% of implants, NOT influenced by IFDP type. No consensus yet on etiology/management.
+
+4.3 Limitations
+1. Observational, single-center academic setting — limits generalizability, no causal inference.
+2. Only patients with both 10y AND 25y follow-up included — positive selection bias possible, may underestimate CBL change/PM/PI prevalence.
+3. Heterogeneity within predefined IFDP categories (splinted vs nonsplinted, cantilevers, retention type) may dilute associations.
+4. CBL/emergence geometry assessed on panoramic radiographs (chosen to minimize angulation effects) — subject to distortion/lower spatial resolution vs intraoral radiographs; 2D assessment misses buccal/lingual bone changes.
+5. Systemic risk factors reported reflect 25-year status only, may not represent baseline/earlier timepoints.
+
+Future direction: prospective cohorts and RCTs needed to confirm limited IFDP-type influence across settings/systems/populations; multicenter designs for external validity.
+
+5 Conclusions
+Within limitations of this 25-year tissue-level implant analysis: IFDP type (SC/SP/BR) did NOT significantly affect ΔCBL or PM/PI prevalence. Long-term bone stability was primarily influenced by implant location (incisor region), increased probing depths, and suppuration on probing — not by prosthetic design factors (retention type, marginal misfit, emergence geometry).
+
+Funding: International Team for Implantology (ITI) Grant No. 1574-2021.
+Ethics: Standing Ethics Committee for Clinical Studies of the State of Bern, Switzerland (KEK-BE No. 2023-02279).
+Conflicts of Interest: None declared.
