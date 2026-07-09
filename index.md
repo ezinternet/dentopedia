@@ -126,6 +126,7 @@ tags: []
 - [[implants/gaviria-2014-current-trends-dental-implants-review]] — 서사적 총론(JKAOMS 2014): 고대 마야 임플란트부터 Brånemark 골유착 발견까지 역사, 설계 파라미터(나사산·직경·어버트먼트 연결), SLA·HA코팅·성장인자 표면처리 및 신흥 생체모방 기능화 트렌드 종합 정리
 - [[implants/peri-implantitis/kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis]] — Kotsakis 2025 · narrative-review (JDR Critical Review): 티타늄 입자(implant-derived Ti particles, i-TiPs)를 임플란트주위염의 abiotic exposome으로 규정, host–microbiome–biomaterial 삼각 dysbiosis 기전 종설 (DOI 10.1177/00220345241307939)
 - [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] — Monje 2025 · sr (AO/AAP, 34편·환자 3944·임플란트 11663): 임플란트 오식립이 임플란트주위염 최강 위험인자(OR 최대 48.2), 보철변연–치조정골 거리 <1.5mm도 위험(OR 2.29), 임플란트 디자인/시스템은 일관된 우위 없음 (DOI 10.1002/JPER.24-0083)
+- [[implants/peri-implantitis/bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] — Bai 2024 · sr+ma (33편 RCT 네트워크 메타분석): 기계적 제거(MD) 병용 7가지 비외과 요법 — 임플란트주위염은 PBMT+MD가 PPD 1위(SUCRA 75.3%)·전신항생제(SA)+MD가 CAL/MBL 1위, 점막염은 프로바이오틱스+MD가 PPD/PLI 1위·SA+MD가 BoP 1위 (DOI 10.1371/journal.pone.0305342)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
