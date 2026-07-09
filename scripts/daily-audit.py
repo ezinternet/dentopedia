@@ -61,6 +61,8 @@ AUDITS = [
     ("category-overflow.py",      [],          False),
     ("overview-thesis-staleness.py", [],       False),
     ("overview-coverage-lint.py",    [],       False),
+    ("output-coverage-lint.py",      [],       False),
+    ("recall-coverage-lint.py",      [],       False),
     ("doi-duplicate-check.py",       [],       False),
     ("supersession-audit.py",        [],       False),
     ("relations-audit.py",           [],       False),
@@ -107,7 +109,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
