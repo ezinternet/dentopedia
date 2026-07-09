@@ -9,6 +9,8 @@ full_text: false
 pmid: "41015409"
 pmcid: "PMC12746677"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12746677/
+text_path: /Users/oracleneo/llm-wiki/papers/gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition.txt
+text_filename: gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition.txt
 ---
 
 ## Why Ingested
