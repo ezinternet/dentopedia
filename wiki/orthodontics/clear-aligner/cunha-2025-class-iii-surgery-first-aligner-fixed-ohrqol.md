@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: true
 pmid: "41200809"
 pmcid: "PMC12779194"
+text_path: /Users/oracleneo/llm-wiki/papers/cunha-2025-class-iii-surgery-first-aligner-fixed-ohrqol.txt
+text_filename: cunha-2025-class-iii-surgery-first-aligner-fixed-ohrqol.txt
 tags: [orthodontics, clear-aligner, class-iii, orthognathic-surgery, surgery-first, ohrqol, fixed-appliance-comparison]
 relations:
   - type: extends
