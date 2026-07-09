@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: true
 pmid: "41846819"
 pmcid: "PMC12991458"
+text_path: /Users/oracleneo/llm-wiki/papers/panda-2025-clear-aligner-braces-class-iii-comparison.txt
+text_filename: panda-2025-clear-aligner-braces-class-iii-comparison.txt
 tags: [orthodontics, clear-aligner, class-iii, fixed-appliance-comparison, malocclusion]
 ---
 
