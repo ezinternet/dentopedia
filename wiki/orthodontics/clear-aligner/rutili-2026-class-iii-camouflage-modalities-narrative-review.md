@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: true
 pmid: "42194641"
 pmcid: "PMC13207261"
+text_path: /Users/oracleneo/llm-wiki/papers/rutili-2026-class-iii-camouflage-modalities-narrative-review.txt
+text_filename: rutili-2026-class-iii-camouflage-modalities-narrative-review.txt
 tags: [orthodontics, clear-aligner, class-iii, camouflage, skeletal-malocclusion, adult, narrative-review]
 relations:
   - type: applies-to
