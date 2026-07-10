@@ -1,0 +1,513 @@
+Background
+
+Trigeminal neuropathic pain (TNP), characterized by paroxysmal facial pain, is a debilitating neuropathic disorder with incompletely understood molecular mechanisms []. While peripheral demyelination, vascular compression, and ion channel dysfunction are traditionally implicated in aberrant nociceptive signaling [–]the etiology of primary TNP remains cryptogenic in many patients []suggesting the involvement of complex gene regulatory networks within nociceptive neurons of the trigeminal ganglion (TG). Although genetic mutations provide partial mechanistic insights, epigenetic regulation offers a dynamic framework for understanding pain-related gene expression through bidirectional interactions between environmental stimuli and transcriptional plasticity [].
+
+Cerebellins, a family of glycoproteins that assemble into homo- or heterotrimer complexes []were initially identified in cerebellar Purkinje cells []. Encoded by four evolutionarily conserved genes (), these synaptic organizers exhibit complete amino acid sequence conservation between rodents and humans []indicating strong evolutionary selective pressure and underscoring their critical neurobiological roles. Cerebellins exhibit differential expression patterns and specialized functions across brain regions. CBLN1 is predominantly expressed in cerebellar granule cells, where it regulates parallel fiber-Purkinje cell synaptogenesis through binding to the orphan glutamate receptor δ2 (GluD2) []. CBLN2, enriched in the hippocampus and prefrontal cortex, modulates synaptic plasticity and cognitive functions by fine-tuning NMDA receptor activity []. CBLN3 shows restricted cerebellar expression requiring heteromeric complex formation with CBLN1 for functional secretion []. CBLN4 participates in midbrain dopaminergic synapse development, with its deficiency causing motor coordination deficits and cognitive impairments []. Notably, genetic redundancy exists among family members, as evidenced by CBLN1/2/4 triple knockout mice exhibiting widespread synaptic loss and severe motor abnormalities []. Pathologically, the trans-synaptic GluD1-CBLN1 complex undergoes dysregulation under chronic pain states, with systemic CBLN1 administration rescuing synaptic GluD1 clustering and alleviating mechanical hypersensitivity [,]. Strikingly, unilateral CeA microinjection of CBLN1 reverses inflammatory pain-induced mechanical allodynia, whereas CBLN2 fails to substitute due to its lower GluD1-binding affinity []. Mass spectrometry analyses confirm the presence of CBLN1/2/4 peptides in mouse spinal cord []with CBLN1neurons identified in lamina II/III excitatory interneurons. Intrathecal delivery of synthetic CBLN1 or CBLN2 peptides induces mechanical hypersensitivity, whereas CBLN4 remains functionally inert in this paradigm []. However, the expression profiles and pathophysiological relevance of cerebellins in peripheral sensory ganglia remain unexplored.
+
+Pain-related genes undergo epigenetic reprogramming, which alters their expression levels, promotes inflammatory microenvironments, and accelerates the pathogenesis of pain [,]. The spatiotemporal regulation of chromatin accessibility through DNA methylation and demethylation modulates key pain-related genes (e.g.,,,) during chronic pain progression [–]. This regulation is orchestrated by distinct classes enzymes: writers (e.g., DNA methyltransferases, DNMTs), erasers (e.g., ten-eleven translocation, TET enzymes), and readers (e.g., methyl-CpG-binding domain, MBD proteins). TET-mediated DNA hydroxymethylation has been shown to activate pro-nociceptive pathways in neuropathic pain models [–]. However, the potential interaction between TET and cerebellins methylation in TNP remains unknown.
+
+Aberrant activation of the ERK pathway exacerbates neuropathic pain by increasing neuronal excitability and promoting pro-inflammatory cytokine production []. In TNP models, neuroinflammatory cascades within the TG, marked by elevated cytokines such as interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-α), sustain ERK signaling to perpetuate nociceptive hypersensitivity [–]. Whether cerebellin activates ERK to enhance neuronal excitability remains uninvestigated.
+
+This study aims to elucidate the epigenetic regulation of CBLN2 in the TNP and its downstream ERK-mediated signaling pathways, addressing a critical gap in our understanding of cerebellin-driven mechanisms in peripheral neuropathic pain. Through integrative molecular profiling and behavioral analyses, we reveal novel insights into TNP pathophysiology and identify potential therapeutic targets.
+
+Materials and methods
+
+Animals and surgery
+
+ICR mice (male, 6–8 weeks old) were purchased from the Experimental Animal Center of Nantong University (Jiangsu, China). Animals were housed under standard conditions (22 ± 1 °C; 12 h light/dark cycle) with ad libitum access free to food and water. All experimental protocols were approved by the Animal Ethics Committee of Nantong University and conducted following the guidelines of the International Association for the Study of Pain (IASP).
+
+pIONT was performed as previously described []. Briefly, mice were anesthetized via intraperitoneal injection of tribromoethanol (250 mg/kg, Macklin, T903147, Shanghai, China). Following anesthesia, mice were positioned supine on a heating pad (37 °C) to maintain body temperature. The left infraorbital nerve (ION) was exposed through a 2-mm incision in the buccal mucosa adjacent to the first maxillary molar. Approximately 50% of the ION was ligated with 6 − 0 silk suture (Ethicon, USA) and transected distal to the ligation site. Sham-operated mice underwent identical procedures without nerve ligation or transection.
+
+Drugs and administration
+
+-targeting siRNA,-targeting siRNA, and scrambled siRNA (NC siRNA) (Table) were synthesized by GenePharma (Suzhou, China). Recombinant CBLN2 protein (7044-CB-050) and MEK inhibitor PD98059 (513000) were purchased from R&D Systems (Minneapolis, MN, USA) and Merck Millipore (Darmstadt, Germany), respectively. PD98059 was dissolved in 1% DMSO (Sigma, D5879, St. Louis, MO, USA).
+
+Table 1
+
+The sequences of siRNAs and primers
+
+Target
+
+Sequence
+
+Cbln2
+
+siRNA-1
+
+5'-GCA ACC GTA CCA TGA CCA T-3'
+
+siRNA-2
+
+5'-GAC CTT GCC TCC AGT ATA T-3'
+
+siRNA-3
+
+5'-GCT TCC ACG TGG TCA AAG T-3'
+
+Tet3
+
+siRNA-1
+
+5'-GGA TTG AGA AGG TCA TCT A-3'
+
+siRNA-2
+
+5'-GCG ATT GTG TCG AAC AAA T-3'
+
+siRNA-3
+
+5'-GGC TCT ATG AAA CCT TCA A-3'
+
+Scramble
+
+siRNA
+
+5'-TTC TCC GAA CGT GTC ACG T-3'
+
+Cbln2
+
+Forward
+
+5'-CAT TTC TGT GCG CTC AGG CAG T-3'
+
+Reverse
+
+5'-ACT GGA GGC AAG GTC AAA GTG G-3'
+
+Tet3
+
+Forward
+
+5'-ACA TTG AGA GGT TGG GCC TG-3'
+
+Reverse
+
+5'-ACG GCT AAC GGC TTC TGA AA-3'
+
+Cxcl1
+
+Forward
+
+5'-TCC AGA GCT TGA AGG TGT TGC C-3'
+
+Reverse
+
+5'-AAC CAA GGG AGC TTC AGG GTC A-3'
+
+Cxcr2
+
+Forward
+
+5'-CTC TAT TCT GCC AGA TGC TGT CC-3'
+
+Reverse
+
+5'-ACA AGG CTC AGC AGA GTC ACC A-3'
+
+Cxcl9
+
+Forward
+
+5'-CCT AGT GAT AAG GAA TGC ACG ATG-3'
+
+Reverse
+
+5'-CTA GGC AGG TTT GAT CTC CGT TC-3'
+
+Cxcl10
+
+Forward
+
+5'-ATC ATC CCT GCG AGC CTA TCC T-3'
+
+Reverse
+
+5'-GAC CTT TTT TGG CTA AAC GCT TTC-3'
+
+Il-6
+
+Forward
+
+5'-TAC CAC TTC ACA AGT CGG AGG C-3'
+
+Reverse
+
+5'-CTG CAA GTG CAT CAT CGT TGT TC-3'
+
+Gapdh
+
+Forward
+
+5'-AAA TGG TGA AGG TCG GTG TGA AC-3'
+
+Reverse
+
+5'-CAA CAA TCT CCA CTT TGC CAC TG-3'
+
+MSP (methylated)
+
+Forward
+
+5'-GCG GGT AGT AAG TAG GTT TTA GGT AC-3'
+
+Reverse
+
+5'-AAT AAA ACA AAC GAA AAC TAA CGA A-3'
+
+MSP (unmethylated)
+
+Forward
+
+5'-TGG GTA GTA AGT AGG TTT TAG GTA TGG-3'
+
+Reverse
+
+5'-AAT AAA ACA AAC AAA AAC TAA CAA A-3'
+
+BSP
+
+Forward
+
+5'-TGT ATT GAT TGG GGA ATT ATT T-3'
+
+Reverse
+
+5'-TAC CTA AAA CCT ACT TAC TAC CC-3'
+
+Intra-TG administration was performed as described previously []. In brief, mice were anesthetized with 2% isoflurane (RWD Life Science, R510-22, China) and placed in a stereotaxic frame. A 30-gauge microsyringe (Hamilton, Reno, USA) was inserted through the infraorbital foramen at a 10° angle relative to the midline, traversing the infraorbital canal and foramen rotundum to reach the TG.
+
+Nociceptive behavioral assessment
+
+Mechanical allodynia was evaluated using von Frey filaments (Stoelting, Wood Dale, USA) in a blinded manner. Mice were acclimated to the testing chambers (20 × 15 × 15 cm metal mesh cages) for 30 min/day over three consecutive days prior to baseline measurements. As previously described [] filaments (0.02 g and 0.16 g bending force) were applied perpendicularly to the ipsilateral vibrissal pad for 5 s. Responses were scored as follows: (0) no obvious limb response; (1) brief head shake or facial twitch; (2) sustained face withdrawal with forepaw elevation; (3) vigorous avoidance and attempts to scratch the face; (4) vigorous escape attempts (< 3 facial wipes); (5) persistent face rubbing (≥ 3 wipes).
+
+Bioinformatics analysis
+
+Cell subtype-specific expression profiling of cerebellins in both mouse and human TG and comparative analysis in two headache models (inflammatory soup or cortical spreading depression) were performed in the Trigeminal Ganglion Cell Atlas () []. Gene expression within 108,375 mouse and 38,028 human TG nuclei can be retrieved using a web tool developed by the Renthal lab. Expression profiling of CBLN2 in the TG neuronal atlas of male and female mice were searched in the harmonized DRG and TG reference atlas () []. Cell-type predictions for cerebellins generated from the website were displayed on UMAP dimensionality reduction plots or heatmaps grouped by subtype.
+
+RNA isolation and qRT-PCR
+
+Total RNA was extracted using TRIzol reagent (Invitrogen, 15596018, USA) and 1 µg RNA per sample was reverse transcribed using PrimeScript™ RT reagent Kit with gDNA Eraser (Takara, RR047A, Japan) according to the manufacturer’s instructions. qRT-PCR analysis was performed using TB GreenPremix Ex Taq™ II (Takara, RR820A, Japan) on a StepOnePlus Real-Time PCR System (Applied Biosystems, 4376600, USA). Primers are listed in Table. PCR amplification was carried out at 95 °C for 30 s followed by 40 cycles of cycling at 95 °C for 10 s and 60 °C for 30 s. Data were normalized toand analyzed via the -ΔΔCt method (2).
+
+Western blot
+
+Animals were transcardially perfused with 0.01 M PBS (pH 7.4), and TG tissues were dissected and homogenized in RIPA buffer (Solarbio, R0010, China) containing phosphatase and protease inhibitors (Sigma-Aldrich, MS-SAFE, USA). Protein concentrations were determined using the Pierce™ BCA Protein Assay Kit (Thermo Fisher Scientific, 23225, USA). Samples (30 µg/lane) were separated on 10% SDS-PAGE gels and transferred to PVDF membranes (Millipore, IPVH00010, USA) as previously described []. Membranes were blocked with 5% non-fat milk (1xTBST solubilization) and probed overnight at 4 °C with primary antibodies: anti-CBLN2 (rabbit, 1:800, Invitrogen, PA5-101514, USA), anti-ERK (rabbit, 1:1000, CST 4695 S, USA), and pERK (rabbit, 1:1000, CST 9101 S, USA). For loading control, the membranes were incubated with GAPDH antibody (mouse, 1:20000, Millipore, MAB374, USA). Secondary IRDye 800CW antibodies (1:10000, Li-COR Bioscience, 926–32213/32210, USA) were applied for 2 h at room temperature. Signals were quantified using ImageJ (NIH, Bethesda, MD, USA) with Odyssey CLx Imaging System (Li-COR Bioscience, USA).
+
+Enzyme-linked immunosorbent assay (ELISA)
+
+Mouse CBLN2 ELISA kit was purchased from LunChangShuo Biotech (WED-24058, China). Animals were transcardially perfused with PBS at 10 d after pIONT or at 48 h after intra-TG injection ofsiRNA. TG tissues were homogenized in RIPA buffer (Solarbio, R0010, China) containing phosphatase and protease inhibitors (Sigma-Aldrich, MS-SAFE, USA). Protein concentrations were determined using the Pierce™ BCA Protein Assay Kit (Thermo Fisher Scientific, 23225, USA). For each reaction in a 96-well plate, 100 µg of proteins were used, and ELISA was performed according to the protocol of the manufacturer. A standard curve relating the OD values to the concentration of CBLN2 (pg/mL) in the standard solutions was plotted and an equation of the curve was obtained.
+
+Immunohistochemistry
+
+After anesthesia, mice were perfused through the ascending aorta with 0.01 M PBS, followed by 4% paraformaldehyde (dissolved in 0.01 M PBS). TG tissues were post-fixed for 6 h, cryosectioned at 14 μm, and blocked with 1% BSA. Sections were incubated overnight at 4 °C with the following antibodies: CBLN2 (rabbit, 1:500, Invitrogen, PA5-101514, USA), NF200 (200 kDa neurofilament protein, mouse, 1:1000, Millipore, MAB5266, USA), CGRP (calcitonin/calcitonin-related polypeptide, alpha, goat, 1:3000, BIO-RAD, 1720–9007, USA), IB4-FITC conjugate (isolectin b4, rabbit, 1:50, Sigma, L2140, USA), GS (glutamine synthase, mouse, 1:500, Millipore, MAB302, USA), IBA-1 (ionized calcium-binding adaptor molecule-1, goat, 1:500, Abcam, ab5076, UK), followed by Alexa Fluor-conjugated secondary antibodies (1:500, Invitrogen, USA). For double immunofluorescence, sections were incubated with a mixture of secondary antibodies conjugated to Alexa 488 or Cy3. Fluorescent images were acquired using a Leica SP8 confocal microscope (Leica Microsystems, Germany). Three mice per group, three slices of TG for each mouse were taken for staining, photographing and counting positive neurons.
+
+Cell culture and transfection
+
+ND7/23 and Neuro-2a cells were purchased from the Cell Bank of the Chinese Academy of Sciences (SCSP-5026 and TCM29, Shanghai, China) and cultured in Dulbecco’s Modification of Eagle’s Medium (DMEM, Corning, 10–013-CV, USA) supplemented with 4.5 g/L glucose, L-glutamine, and sodium pyruvate, along with 10% fetal bovine serum (FBS, Gibco, 10099141 C, USA) and 1% penicillin/streptomycin (Gibco, 15140122, USA). Cells were incubated at 37 °C in a humidified atmosphere containing 5% CO. For transfection, Lipofectamine 3000 (Invitrogen, L3000015, USA) was used according to the manufacturer’s instructions.
+
+DNA methylation analysis
+
+The genomic DNA was extracted using the TIANamp Genomic DNA Kit (TianGen, DP304, China) according to the manufacturer’s protocol. Sodium bisulfite conversion was performed using EZ DNA Methylation-Gold™ Kit (Zymo, D5005, USA). MSP and BSP were performed with primers listed in Tableusing ZymoTaq™ PreMix (Zymo, E2003, USA). PCR products were analyzed by electrophoresis. The PCR products of BSP were purified with the Universal DNA Purification and Recovery Kit (TianGen, DP214-02, China) and then cloned into pMD™19-T Vector Cloning Kit (Takara, 6013, Japan) for sequencing (Sanger method, GENCEFE Biotech, Wuxi, China). Twenty colonies for each mouse were randomly chosen for sequencing.
+
+Whole cell patch-clamp
+
+TG neurons preparation and electrophysiological recordings were performed as previously described []. Briefly, mice were decapitated after being anesthetized with isoflurane, and the TGs were quickly removed and soaked in pre-oxygenated artificial cerebrospinal fluid. After peeling off the connective tissue of TG and digestion for 30 min at 37 °C with shaking in an enzyme solution containing collagenase type I (3.54 mg/mL, Gibco, 17100017, USA) and Dispase II (1.65 mg/mL, Roche, 4942078001, Switzerland). Cells were plated on glass cover slips coated with 0.5 mg/mL poly-D-lysine (Gbico, A3890401, USA) and cultured in a Neurobasal medium (Gibco, 10888022, USA) in regular 95% air and 5% COat 37 °C.
+
+Patch-clamp recording experiments were performed at 22–24 °C after culturing for 16 to 24 h as previously described []. Neurons were visualized and selected under an infrared differential interference contrast microscope (Olympus, BX51WI, Japan). Small-diameter (< 25 μm) TG neurons were chosen for recording. Patch pipettes were drawn using a P-97 flaming micropipette puller (Sutter Instruments, USA) and had initial resistance of 4 MΩ–8 MΩ when filled with the internal pipette solution. Signals were filtered at 2 kHz and digitized at 10 kHz using a data acquisition interface, and analyzed by the pClamp10 software (Axon Instruments, USA). To study neuronal excitability, action potentials (APs) evoked by a series of ramp current stimulations (current intensity: 100, 200, and 300 pA; duration: 1000 ms) and a series of square current stimulation (1000 ms in duration and 20 pA increments) were recorded.
+
+Quantification and statistics
+
+Statistical analyses were conducted using GraphPad Prism v8.0 (GraphPadSoftware, USA). Data were presented as mean ± SEM. Behavioral time courses were analyzed by two-way repeated measures (RM) ANOVA with Bonferroni post-hoc tests. One-way ANOVA followed by the Bonferroni test was applied for qPCR analysis. Student’s t-test (2-tailed) was used when only two sets of data were processed. Significance thresholds: *< 0.05, **< 0.01, and ***< 0.001. All sample sizes and experimental design were based on previously published data from our lab and similar experiments in the field.
+
+Results
+
+andare expressed in the TG and upregulated in the inflammatory soup (IS) model of headache
+
+To delineate the expression profiles of cerebellins in the TG and their association with pathological states, we performed integrated cross-species analysis of TG cell atlases using snRNA-seq datasets encompassing human and murine samples []. This approach resolved 15 transcriptionally distinct cell clusters (Fig.A-B), with the mechanosensitive Aδ-neurons predominantly classified within the NF3 cluster, the Aβ-neurons classified within the NF1 and NF2 clusters, and the c-fiber low threshold mechanoreceptor (LTMR) classified within the cLTMR cluster []. Crucially, CBLN2 emerged as a cell-type-predominant marker gene for NF3 population []exhibiting evolutionarily conserved expression patterns in the top three cell types most expressed (human NF3_pctExpress: 56.34%, NF2_pctExpress: 10.93%, cLTMR_pctExpress: 1.14%; mouse NF3_pctExpress: 66.62%, NF2_pctExpress: 48.04%, cLTMR_pctExpress: 39.09%; Fig.A-B). Moreover, we searched expression patterns of CBLN2 in male and female mice respectively, in the mouse TG cell atlas which integrated eight comprehensive data sets (Fig.C-D) []. The Ntrk3+ Ntrk2 cluster corresponding to the Aδ-LTMR [] was identified as the most expressed neuronal type of CBLN2, with no sex dimorphism (male mouse Aδ-LTMRs_pctExpress: 69.5%; female mouse Aδ-LTMRs_pctExpress: 72.9%; Fig.C-D). Based on these findings, we speculate that CBLN2 in the TG may play a role in sensory processing.
+
+Fig. 1
+
+andare upregulated in TG neurons from IS model of headache.Phylogenetically conserved expression patterns ofpredominantly in Aδ-fiber neurons based on human and mouse TG cell atlases. Human NF3_pctExpress: 56.34%, mouse NF3_pctExpress: 66.62%. NF3 = neurofilament + LTMR enriched for Aδ; NF2 = neurofilament + A-LTMR enriched for Aβ; cLTMR = c-fiber LTMR.No significant sex difference was observed in the expression profile ofin TG of mice. Male mouse Aδ-LTMRs_pctExpress: 69.47%, female mouse Aδ-LTMRs_pctExpress: 72.92%. Ntrk3+ Ntrk2 = Aδ-LTMRs, Ntrk3+ Ntrk2 = Aβ-LTMRs, Th = cLTMRs.Expression profiling of cerebellins in two established migraine models, inflammatory soup (IS) and cortical spreading depression (CSD). Bothandwere robustly detected in TG neurons across models. IS model exhibited significant upregulation of,andcompared to naïve (E-F, H-I). CSD model showed no significant alterations in/expression (G, J)
+
+To investigate cerebellins’ functional relevance in the pathophysiology of chronic pain, we conducted comparative analyses of snRNA-seq datasets derived from two established migraine models: inflammatory soup (IS) and cortical spreading depression (CSD; Fig.E-G). Bothandtranscripts were robustly detected in TG neurons across models. IS model exhibited significant upregulation of(cLTMR_dif_pctExpress = 27.74%),(cLTMR_dif_pctExpress = 26.68%; NF1_ dif_pctExpress = 32.55%; NF2_ dif_pctExpress = 62.33%; NF3_ dif_pctExpress = 22.93%) and(NF2_ dif_pctExpress = 40.90%) compared to naïve controls (Fig.H-I). In contrast to IS-induced changes, the CSD model showed no obvious alterations in cerebellins expression (Fig.J).andmaintained a low transcription level in the experimental paradigm.
+
+pIONT increases expression of CBLN2 in the TG
+
+We further compared cerebellins expression across TG cell types using snRNA-seq datasets derived from murine TG [] (Fig.A).demonstrated low expression levels without significant cell-type preference;showed dominant expression in NF3, NF2 and cLTMRs neuronal subtypes; andandexhibited negligible expression across all neuronal and non-neuronal subclusters. Reanalysis of bulk RNA-seq data from TG [] revealedexhibited sustained upregulation at both day 3 (log2FC = 0.54,< 0.05) and day 10 (log2FC = 1.89,< 0.001) post-pIONT, whereasexpression remained unchanged (|log2FC| < 0.5,> 0.1; Fig.B). qRT-PCR validation in the TG of male and female mice 3 days after pIONT confirmed equivalentupregulation (female_sham vs. male_sham:= 0.76, female_pIONT vs. male_pIONT:= 0.42; one-way ANOVA; .C).
+
+Fig. 2
+
+pIONT model of trigeminal neuralgia increases CBLN2 expression in TG.Expression data of four cerebellin members in a transcriptional cell atlas of mouse TG.was prominent in TG neurons, particularly in NF3 cluster.RNA sequencing of TG revealed upregulation ofat day 3 and day 10 post-pIONT, whileremained unchanged.qRT-PCR analysis ofin TG of male and female mice 3 days post-pIONT or sham.was upregulated in both sexes after pIONT with no sex difference. ***< 0.001, one-way ANOVA with Bonferroni’s test,= 6 mice/group.mRNA expression in TG of naïve, sham-, and pIONT-operated mice. ***< 0.001 vs. corresponding sham group, two-way ANOVA followed by Bonferroni’s test,= 8 mice/group.Western blot analysis showed increased CBLN2 protein in TG at 10 days post-pIONT. **< 0.01 vs. sham, Student’s t-test,= 4 mice/group.ELISA analysis showed CBLN2 protein upregulation at day 10 post-pIONT. *< 0.05 vs. sham, Student’s t-test,= 6 mice/group.Representative immunofluorescence images of CBLN2 in TG. Staining intensity increased significantly at 1, 3, 10, 21 d post-pIONT. **< 0.01, ***< 0.001, one-way ANOVA followed by Bonferroni’s test,= 3 mice/group
+
+Consistent with the facial sustained mechanical allodynia induced by pIONT (> 21 days) []qRT-PCR analysis demonstrated rapidmRNA upregulation, peaking at day 3-day 10 (day 1: 2.6 ± 0.37-fold, day 3: 3.4 ± 0.79-fold, day 10: 3.6 ± 1.14-fold vs. sham,< 0.001) and persisting through day 21 (2.0 ± 0.44-fold,< 0.001; two-way ANOVA; Fig.D). Sham controls showed no significant alterations inmRNA across timepoints (> 0.1; one-way ANOVA). Western blot quantification (normalized to GAPDH) confirmed CBLN2 protein elevation at day 10 (1.9 ± 0.68-fold vs. sham,< 0.01; unpaired t-test; Fig.E-F). ELISA confirmed CBLN2 protein upregulation at day 10 (1.3 ± 0.25-fold vs. sham,< 0.05; unpaired t-test; Fig.G). Immunofluorescence staining revealed that CBLN2 was predominantly expressed in neurons, with baseline expression observed in the TG (naïve vs. sham:> 0.99), while its expression level was remarkably elevated at day 1, day 3, day 10 and day 21 post-pIONT (< 0.01 vs. sham; one-way ANOVA; Fig.H-N).
+
+To further clarify the neuronal subtypes expressing CBLN2, we performed immunofluorescence double-labeling using myelinated neuronal marker NF200, peptidergic nociceptor marker CGRP, and nonpeptidergic nociceptor marker IB4 (Fig.A-C). The results revealed that 45.8% of CBLN2neurons were NF200, 28.6% were CGRP, and 26.4% were IB4(Fig.D). Additional immunofluorescence double-labeling using markers for satellite glial cells (GS) and macrophages (IBA-1) demonstrated minimal co-localization of CBLN2 with these cell types (Fig.E-F). Collectively, these data suggest a possible role of CBLN2 in pIONT-induced trigeminal neuropathic pain.
+
+Fig. 3
+
+CBLN2 is localized to neurons with myelinated axons, peptidergic and nonpeptidergic nociceptors.Immunofluorescence double-staining of CBLN2/NF200 (A), CBLN2/CGRP (B), and CBLN2/IB4 (C) in the TG 10 days after pIONT. NF200, myelinated neuronal marker; CGRP, peptidergic nociceptor marker; IB4, nonpeptidergic nociceptor marker.Quantification of CBLN2 co-localization with NF200, CGRP, and IB4 at 10 d post-pIONT.Minimal co-localization of CBLN2 (red) with the satellite glial cell marker GS or the macrophage marker IBA-1
+
+CBLN2 contributes to pIONT-induced mechanical allodynia
+
+Based on the dynamic changes of CBLN2 expression following pIONT, we hypothesized its potential involvement in TNP pathogenesis. To screen for optimal knockdown efficiency, we treated ND7/23 neuronal cells with 100 ng/mL lipopolysaccharides (LPS) []. qRT-PCR revealed significant upregulation ofmRNA at 3 h post-LPS incubation (2.5-fold increase vs. controls,< 0.05; one-way ANOVA; Fig.A). Following siRNA transfection, both siRNA-1 and siRNA-3 significantly reducedexpression, with siRNA-1 exhibiting superior knockdown efficacy (Fig.B).
+
+Fig. 4
+
+CBLN2 contributes to pIONT-induced mechanical allodynia.mRNA was upregulated in ND7/23 cells 3 h after incubation with 100 ng/mL LPS. *< 0.05 vs. CON group, one-way ANOVA followed by Bonferroni’s test,= 4 wells/group.Validation of-targeting siRNA knockdown efficiency in LPS-treated ND7/23 cells. Both siRNA-1 (si-1) and siRNA-3 (si-3) significantly reducedexpression compared to the negative control (NC, scrambled siRNA). *< 0.05 vs. NC, one-way ANOVA followed by Bonferroni’s test,= 4 wells/group.siRNA-1 reducedexpression at the same day or 7 d post-pIONT. **< 0.01, Student’s t-test,= 6 mice/group.Intra-TG injection ofsiRNA-1 concomitantly with pIONT alleviated mechanical allodynia at 24–48 h post-injection, assessed using 0.02 g von Frey filaments (E) and 0.60 g von Frey filaments (F). *< 0.05, **< 0.01, two-way RM ANOVA followed by Bonferroni’s test,= 8 mice/group.ELISA analysis showed the decreased protein level of CBLN2. *< 0.05, Student’s t-test,= 3 mice/group.Intra-TG injection ofsiRNA-1 at 7 days post-pIONT significantly attenuated mechanical allodynia at 48 h after injection, tested with 0.02 g von Frey filaments (H) and 0.60 g von Frey filaments (I). **< 0.01, two-way RM ANOVA followed by Bonferroni’s test,= 7 mice/group.ELISA analysis showed the suppressed protein level of CBLN2 in TG. **< 0.01, Student’s t-test,= 3 mice/group
+
+Then, we injectedsiRNA into TG of mice at the same day or 7 d post-pIONT, and detectedexpression at 48 h after injection. qRT-PCR showed that siRNA-1 reducedexpression to 55.5% and 59.7% of NC control levels at 48 h post-surgery, respectively (Fig.C-D). Intra-TG injection of siRNA-1 concurrently with pIONT significantly alleviated facial mechanical allodynia at both 24 and 48 h postoperatively (Figure E-F). ELISA showed that the protein level of CBLN2 was effectively reduced (0.84 ± 0.11-fold vs. sham,< 0.05; unpaired t-test; Fig.G). Intra-TG injection of siRNA-1 at 7 days post-pIONT similarly attenuated facial mechanical allodynia at 48 h post-injection (Fig.H-I), with protein level of CBLN2 reduced to 67% of NC levels (< 0.01; unpaired t-test; Fig.J). These findings collectively demonstrate that CBLN2 plays critical roles in both initiation and maintenance phases of neuropathic pain.
+
+Promoter demethylation partially underlies CBLN2 upregulation
+
+DNA methylation is a key epigenetic mechanism regulating gene expression. MSP and BSP assays analyzed methylation status of the promoter region. Bioinformatic analysis identified a CpG island (−905 to −465) within a 2000-bp fragment (−1243 to + 757) upstream of the transcriptional start site (Fig.A). MSP assay targeting an 11-CpG-site-containing region revealed reduced methylation in pIONT mice versus sham controls (< 0.05; Student’s t-test; Fig.B-C). Bisulfite sequencing confirmed decreased DNA methylation at CpG dinucleotides in pIONT mice (< 0.01; two-way ANOVA; Fig.D-F).
+
+Fig. 5
+
+Differential expression of CBLN2 is partly mediated by promoter methylation.Prediction of the CpG island upstream oftranscriptional start site.MSP assay revealed significantly reduced methylation in the CBLN2 promoter region of pIONT mice compared to sham-operated controls. *< 0.05, Student’s t-test,= 3 mice/group.BSP sequencing targeted a 117-bp fragment containing 11 CpG sites.pIONT mice exhibited decreased CpG methylation at the CBLN2 promoter compared to sham controls. **< 0.01, two-way ANOVA followed by Bonferroni’s test,= 3 mice/group.mRNA expression in TG of naïve, sham-, and pIONT-operated mice. ***< 0.001 vs. corresponding sham group, two-way ANOVA followed by Bonferroni’s test,= 8 mice/group.Screening of-targeting siRNA in Neuro-2a cells. **< 0.01, ***< 0.001, Student’s t-test,= 6 wells/group.Intra-TG injection ofsiRNA at 10 days post-pIONT relieved mechanical allodynia at 24 h post-injection, evaluated with 0.02 g von Frey filaments (I) and 0.60 g von Frey filaments (J). ***< 0.001, two-way RM ANOVA followed by Bonferroni’s test,= 6 mice/group.siRNA suppressedandmRNA in TG. **< 0.01, Student’s t-test,= 6 mice/group
+
+TET enzymes, including TET1, TET2, and TET3, play pivotal roles in the direct regulation of DNA methylation [,]. qRT-PCR revealed parallel increases inandmRNA levels post-pIONT (Fig.G), prompting the hypothesis thatupregulation may drivepromoter demethylation under neuropathic pain conditions, while the expression ofanddid not change significantly (Supplementary Fig. 1A-B). Initial screening in Neuro-2a cells identified the most potent-targeting siRNA (< 0.001; Student’s t-test; Fig.H).knockdown via intra-TG siRNA injection at 10 days post-pIONT attenuated mechanical allodynia (< 0.001; two-way ANOVA; Fig.I-J) and reduced both(< 0.01; Student’s t-test; Fig.K) andmRNA (< 0.01; Student’s t-test; Fig.L). These data establish TET3-mediated epigenetic remodeling as a mechanism driving CBLN2 upregulation in neuropathic pain.
+
+CBLN2 increases TG neuron excitability
+
+To determine the pronociceptive effects of exogenous CBLN2, recombinant CBLN2 (rCBLN2) was administered via intra-TG injection to naïve mice at graded doses (1, 10, and 100 ng). Dose-response analysis revealed significant increases in nociceptive behavioral scores at 3 and 6 h post-injection in the 10 ng and 100 ng groups (< 0.01; two-way ANOVA; Fig.A-B).
+
+Fig. 6
+
+CBLN2 enhances excitability of TG neurons.Intra-TG injection of rCBLN2 induced facial mechanical allodynia, measured by 0.02 g von Frey filaments (A) and 0.60 g von Frey filaments (B). *< 0.05, **< 0.01, ***< 0.001, two-way RM ANOVA followed by Bonferroni’s test,= 7 mice/group.Representative traces of AP evoked by rheobase current in vehicle- and CBLN2-treated (10 ng/mL, 100 ng/mL) TG neurons.CBLN2 decreased the rheobase current required for AP generation. **< 0.01 vs. vehicle, one-way ANOVA followed by the Bonferroni’s test,= 10–12 neurons/group from 3–4 mice.CBLN2 increased AP firing frequency. **< 0.01, ***< 0.001, two-way RM ANOVA followed by Bonferroni’s test,= 10–12 neurons/group from 3–4 mice.Representative traces of AP evoked by depolarizing current steps in vehicle and CBLN2-treated (10 ng/mL, 100 ng/mL) TG neurons.CBLN2 (10 ng/mL, 100 ng/mL) increased the number of APs in response to 160 pA, 1000 ms current injection. *< 0.05, ***< 0.001 vs. vehicle, two-way RM ANOVA followed by Bonferroni’s test,= 10–12 neurons/group from 3–4 mice
+
+Extensive evidence indicates that neuronal excitability is closely associated with neuropathic pain [,,]. Electrophysiological characterization of nociceptive small-diameter TG neurons (< 25 μm) was performed to assess neuronal hyperexcitability. Whole-cell patch-clamp recordings demonstrated that acute rCBLN2 exposure (10–100 ng/mL, 30 min) significantly reduced rheobase currents compared to the PBS group (< 0.01; unpaired t-test; Fig.C-D). Current-clamp analysis revealed enhanced AP firing frequency under stepwise current stimulation (100, 200, and 300 pA), with 100 ng/mL rCBLN2 increasing AP numbers (< 0.001; mixed-effects analysis; Fig.E-F). Sustained depolarization (160 pA, 1000 ms) similarly elicited elevated AP generation in rCBLN2-treated neurons (< 0.05; Fig.G).
+
+Systematic evaluation of intrinsic membrane properties through analysis of the first AP elicited by step depolarizing protocols showed that 100 ng/mL rCBLN2 treatment significantly depolarized the resting membrane potential depolarized significantly following 100 ng/mL rCBLN2 treatment (resting membrane potential, RMP: −46.1 ± 1.95 mV vs. vehicle − 48.7 ± 1.67 mV,< 0.05; unpaired t-test) and lowered AP threshold (−14.2 ± 1.92 mV vs. vehicle − 10.9 ± 2.60 mV,< 0.05; unpaired t-test). Passive membrane properties including membrane capacitance (CM), APs amplitude, half width, APs maximum rise slope (S-Rise), maximum decay slope (S-Decay), fast AHP and medium AHP remained unaltered (Table). These findings demonstrate that rCBLN2 selectively enhances neuronal excitability by modifying voltage-sensitive active properties while preserving passive membrane characteristics.
+
+Table 2
+
+Electrophysiological parameters in TG neurons of WT mice incubated with PBS or CBLN2
+
+PBS
+
+CBLN2 10 ng/ml
+
+CBLN2 100 ng/ml
+
+RMP (mV)
+
+−48.73 ± 1.67
+
+−48.64 ± 3.01
+
+−46.09 ± 1.95
+
+Threshold (mV)
+
+−10.93 ± 2.60
+
+−13.82 ± 3.02
+
+−14.15 ± 1.92
+
+CM (pF)
+
+17.05 ± 2.47
+
+17.17 ± 0.85
+
+16.78 ± 1.48
+
+Ampulitude (pA)
+
+99.90 ± 6.10
+
+101.91 ± 10.18
+
+98.81 ± 5.66
+
+Half-width (ms)
+
+4.12 ± 0.59
+
+5.01 ± 1.31
+
+3.87 ± 0.52
+
+S_Rise (mV/ms)
+
+70.98 ± 18.97
+
+85.73 ± 33.07
+
+87.33 ± 23.82
+
+S_Decay (mV/ms)
+
+−26.00 ± 5.14
+
+−23.29 ± 6.65
+
+−26.98 ± 4.34
+
+Fast AHP (mV)
+
+−40.55 ± 2.57
+
+−38.92 ± 2.61
+
+−39.06 ± 2.26
+
+Medium AHP (mV)
+
+−6.60 ± 2.34
+
+−4.84 ± 2.19
+
+−6.64 ± 1.96
+
+The values are presented as mean ± SD
+
+means significant difference when compared to “PBS” (< 0.05)
+
+CBLN2 activates ERK phosphorylation
+
+Previous studies have established that ERK activation mediates neuropathic pain [,,]. To investigate ERK pathway involvement in CBLN2-mediated effects, we quantified ERK phosphorylation in ND7/23 cells following rCBLN2 incubation. Dose-response analysis demonstrated significant pERK upregulation at 100 ng/mL rCBLN2 (< 0.05; one-way ANOVA; Fig.A-B). Time-course experiments revealed sustained ERK activation, with 1.7-fold pERK elevation at 15 min post-stimulation (< 0.01) and persistent activation (1.8–2.1-fold) through 30–60 min (< 0.01; two-way ANOVA; Fig.C-D).
+
+Fig. 7
+
+CBLN2 activates pERK.pERK expression in ND7/23 cells incubated with 10, 100, and 500 ng/mL rCBLN2 for 30 min. *< 0.05 vs. NC, one-way RM ANOVA followed by Bonferroni’s test,= 3 wells/group.pERK expression in ND7/23 cells incubated with 100 ng/mL rCBLN2 for 15, 30, and 60 min. **< 0.01, ***< 0.001, vs. NC, one-way RM ANOVA followed by Bonferroni’s test,= 3 wells/group.Intra-TG injection of CBLN2 (10 ng) increased pERK in TG. *< 0.05, Student’s t-test,= 4 mice/group.CBLN2 induced ERK activation in TG. ***< 0.001, Student’s t-test,= 3 mice/group
+
+Intra-TG administration of rCBLN2 (100 ng) induced 1.2-fold pERK elevation at 3 h post-injection (< 0.05; unpaired t-test; Fig.E-F). Immunofluorescence quantification showed a 1.9-fold increase in pERK⁺ neuron proportion (23.7 ± 1.3% vs. vehicle 8.0 ± 1.8%,< 0.001; Fig.G-I). We also observed similar activation of pERK by intra-TG injection of rCBLN2 in female mice (Supplementary Fig. 2A-D). These results establish CBLN2-driven ERK activation as a molecular mechanism linking CBLN2 upregulation to neuropathic pain hypersensitivity.
+
+MEK inhibitor attenuates CBLN2-induced hypersensitivity
+
+To investigate ERK-dependency of CBLN2-induced neuropathic pain, mice received intra-TG injections of PD98059 (a non-ATP competitive MEK inhibitor) [] or vehicle 30 min prior to rCBLN2 administration. Pharmacological ERK inhibition significantly attenuated nocifensive behaviors at 3 and 6 h post-injection (< 0.01; two-way ANOVA; Fig.A-B). In female mice, we also achieved similar behavioral effects (Supplementary Fig. 2E-F).
+
+Fig. 8
+
+MEK inhibitor reduces CBLN2-induced neuronal hypersensitivity.Intra-TG injection of PD98059 attenuated CBLN2-induced mechanical allodynia measured using 0.02 g von Frey filaments (A) and 0.60 g von Frey filaments (B). **< 0.01, ***< 0.001, two-way RM ANOVA followed by Bonferroni’s test,= 7 mice/group.The representative traces of APs evoked by a rheobase current from CBLN2-, CBLN2 + PD98059-treated TG neurons.PD98059 increased the rheobase current required to evoke an AP compared with vehicle group. **< 0.01 vs. vehicle, Student’s t-test,= 12 neurons/group from 3–4 mice.PD98059 reduced AP frequency. ***< 0.001, two-way RM ANOVA followed by Bonferroni’s test,= 12 neurons/group from 3–4 mice.The representative traces of APs evoked by depolarizing current steps recorded from CBLN2-, CBLN2 + PD98059-treated TG neurons.PD98059 decreased the number of APs in response to 160 pA, 1000 ms current injection. ***< 0.001, two-way RM ANOVA followed by Bonferroni’s test,= 12 neurons/group from 3–4 mice
+
+Whole-cell current-clamp recordings from acutely isolated TG neurons demonstrated that PD98059 pretreatment (20 µM) increased rheobase (< 0.01; unpaired t-test; Fig.C-D) and reduced AP firing frequency under identical current stimulation (< 0.001; unpaired t-test; Fig.E-G). Compared with the control group, PD98059 selectively decreased S-Decay time (−41.6 ± 16.52 vs. vehicle − 29.3 ± 9.49,< 0.05; unpaired t-test; Table) without altering RMP, CM, AP threshold, AP amplitude, half width, S-Rise, fast AHP and medium AHP remained unaffected (all> 0.05; unpaired t-test; Table). This selective modulation indicates ERK signaling enhances neuronal excitability primarily through regulation of membrane repolarization dynamics.
+
+Table 3
+
+Electrophysiological parameters in TG neurons of WT mice treated with “CBLN2 + vehicle” or “CBLN2 + PD98059”
+
+CBLN2 + vehicle
+
+CBLN2 + PD98059
+
+RMP (mV)
+
+−46.45 ± 5.28
+
+−50.81 ± 7.69
+
+CM (pF)
+
+15.49 ± 1.87
+
+15.44 ± 2.20
+
+Threshold (mV)
+
+−13.63 ± 9.40
+
+−20.76 ± 11.22
+
+Ampulitude (pA)
+
+93.01 ± 12.37
+
+88.87 ± 17.82
+
+Half-width (ms)
+
+4.11 ± 1.50
+
+3.21 ± 1.17
+
+S_Rise (mV/ms)
+
+70.49 ± 34.89
+
+68.02 ± 27.31
+
+S_Decay (mV/ms)
+
+−29.25 ± 9.49
+
+−41.55 ± 16.52
+
+Fast AHP (mV)
+
+−44.11 ± 8.61
+
+−41.49 ± 13.76
+
+Medium AHP (mV)
+
+−5.01 ± 3.41
+
+−4.44 ± 2.17
+
+The values are presented as mean ± SD
+
+means significant difference when compared to “CBLN2 + vehicle” (< 0.05)
+
+MEK inhibition reduces CBLN2-induced neuroinflammation
+
+Inflammatory mediators such as pro-inflammatory cytokines and chemokine-mediated neuroinflammation play a crucial role in the development of neuropathic pain [–].,,,, andhave been reported to be involved in the regulation of TNP in TG [,,,]. To delineate CBLN2-driven neuroinflammatory cascades, transcriptional profiling of these key trigeminal pain-associated mediators was performed in ND7/23 cells following rCBLN2 exposure (100 ng/mL). qRT-PCR revealed 2.4- to 37.9-fold upregulation of,,,, andmRNA levels compared to untreated controls (< 0.01; unpaired t-test; Fig.A). Consistent with the cellular results, in vivo experiments demonstrated that intra-TG administration of rCBLN2 (10 ng) induced 3.2- to 358.2-fold increases in pro-inflammatory gene expression at 6 h post-injection (< 0.01; unpaired t-test; Fig.B). PD98059 (20 µM, 30 min pretreatment) decreased cytokine induction by 21–42% (< 0.05 vs. rCBLN2 alone; unpaired t-test; Fig.C). These data suggest that ERK signaling is involved in upregulation of CBLN2-induced neuroinflammatory mediators in trigeminal nociceptive circuits.
+
+Fig. 9
+
+MEK inhibitor attenuates CBLN2-induced proinflammatory cytokines upregulation.,,,, andexpression in ND7/23 cells treated with 100 ng/mL rCBLN2. **< 0.01, ***< 0.001, Student’s t-test,= 6 wells/group.Intra-TG injection of 10 ng rCBLN2 upregulated proinflammatory genes at 6 h. **< 0.01, ***< 0.001, Student’s t-test,= 6 mice/group.PD98059 pretreatment suppressed cytokine induction. *< 0.05, Student’s t-test,= 6 mice/group
+
+Discussion
+
+Emerging evidence has established CBLN2 as a pivotal regulator of glutamatergic synaptogenesis within the CNS, where it stabilizes tripartite synapses to modulate synaptic plasticity and neuronal hyperexcitability [,–]. Notably, prior investigations have predominantly focused on its developmental roles in cerebellar circuitry and spinal dorsal horn function, leaving its pathophysiological significance in peripheral nociception largely unexplored. The present study delineates the expression dynamics, epigenetic regulation, and functional mechanisms of cerebellins in the TNP, revealing three main findings: (1) CBLN2 is dynamically upregulated in TG neurons across the preclinical pain model; (2) TET3-mediated DNA demethylation drives CBLN2 overexpression in both initiation and maintenance phases of neuropathic pain; (3) CBLN2 coordinates neuronal hyperexcitability and neuroinflammation through ERK-dependent signaling cascades. These findings redefine CBLN2’s functional landscape beyond its canonical synaptic roles while highlighting its therapeutic potential in the TNP management.
+
+Spatiotemporal expression dynamics of CBLN2 in trigeminal sensory processing
+
+Our comparative analysis reveals significant interspecies divergence in CBLN2 expression across LTMR subtypes between human and mouse trigeminal ganglia. Human CBLN2 shows predominant restriction to NF3 (Aδ-LTMR) clusters (56.3%), suggesting specialized Aδ-fiber mechanotransduction functions, while murinedisplays broader distribution in NF2 (Aβ-LTMR, 48.0%) and cLTMR (39.1%) populations, indicating potential pleiotropic regulatory roles []. This dichotomy likely stems from three mechanisms: evolutionary adaptations in trigeminal sensory circuitry, species-specific promoter/enhancer architectures governing transcription, and technical variations in single-cell clustering methodologies. The findings necessitate cautious interpretation of murineknockout phenotypes for human neuropathic pain applications, as therapeutic targeting should prioritize Aδ-LTMR modulation given its predominant human expression. While murine models suggest broader Aβ-LTMR/cLTMR pathway involvement, this may represent species-specific regulatory expansion rather than conserved biology. To resolve these disparities, future studies must compare cross-species promoter activities and conduct subtype-selective functional validations. These results underscore the critical need for evolutionary-aware translational models and subtype-specific molecular profiling in pain research, particularly when bridging rodent-based mechanosensory mechanisms to human therapeutic development. Establishing such frameworks will clarify whether observed differences reflect true adaptive divergence or methodological artifacts, ultimately refining preclinical strategies for CBLN2-targeted analgesics in trigeminal neuropathies.
+
+Notably, the IS model induces upregulation oftranscripts in c-, Aβ- and Aδ- neurons, contrasting sharply with unaltered expression in CSD model. This dichotomy implies that cerebellin induction is mechanistically coupled to peripheral inflammatory signaling cascades (e.g., CGRP release) rather than central cortical hyperexcitability [,]. The selective upregulation of(in C-neurons) in IS model warrants cautious interpretation, given its pan-neuronal low-level expression across TG subpopulations. The transcriptional silence ofacross models aligns with its restricted cerebellar expression pattern reported previously []. The obvious upregulation ofin IS model suggests that Aβ-neurons play an important role in inflammatory reaction, although its overall expression level is low. These observations extend previous characterizations of cerebellins in synaptic organization [–] to the realm of peripheral nociception.
+
+CBLN2’s dominant expression in the Aδ, Aβ and c-fiber LTMRs is consistent with its localization in myelinated NF200neurons and classical nociceptor markers (CGRP/IB4 positive small-diameter neurons) post-pIONT, suggesting its role in trigeminal sensory processing [–].
+
+CBLN2 as a phylogenetically conserved pain modulator in TNP
+
+Cerebellins are secretory glycoproteins whose C-terminal C1q domain facilitates trimerization [,]while the N-terminal cysteine motif assembles higher-order complexes []. Evolutionary analysis reveals 96–100% C1q domain conservation in CBLN1/2/4 between mice and human [,]with recombinant murine CBLN2 (100% human ortholog identity) retaining full bioactivity. Furthermore, CBLN2 displays remarkable evolutionary conservation across vertebrates, including humans, mice, frogs, fish, and chickens [,,]. Additionally, CBLN2 expression in vertebrates is predominantly localized to synaptically connected neuronal populations []. Our cross-species transcriptomic analyses identify CBLN2 as an evolutionarily conserved marker especially in the mechanosensitive Aδ-fibers of murine and human TG, mirroring brush-responsive C5 neuron signatures [].
+
+The pIONT model reveals sustained CBLN2 upregulation spanning acute (day 3) to chronic (day 21) pain phases. Exogenous CBLN2 administration induces facial hyperalgesia, consistent with intrathecal CBLN2 peptide effects []. Early knockdown during pIONT induction attenuates acute hypersensitivity, and delayed siRNA administration at chronic phase (day 7 post-pIONT) reverses established allodynia, suggesting CBLN2’s role in both pain initiation and maintenance.
+
+TET3-mediated epigenetic priming in pain-related gene regulation
+
+Epigenetics orchestrate gene expression plasticity through DNA methylation, histone modifications, and non-coding RNAs []. This multilayered regulatory system enables precise adaptation to environmental stressors, functioning as a molecular interface between genetic predisposition and pathological states [,]. The distinct up-regulation expression pattern ofin the TG post-pIONT has attracted our attention. The discovery of TET3 as the principal DNA demethylase driving CBLN2 overexpression expands understanding of epigenetic pain regulation. Physiologically, CBLN2’s hypomethylated promoter maintains basal transcription for the evolutionarily conserved and functionally critical roles in nervous system. Pathologically, TET3-mediated active demethylation amplifies expression during neuropathic states.
+
+The temporal coupling betweeninduction (peak at day 10) and maximalexpression suggests a feedforward loop common in trigeminal sensory processing. siRNA-mediatedknockdown downregulatestranscription and relieves mechanical hypersensitivity, establishing a causal TET3-CBLN2 epigenetic cascade as a previously unrecognized modulator of trigeminal nociception. Further work would be used to study the binding of TET3 to CpG island of CBLN2 promoter region.
+
+TET enzymes oxidize 5mC to 5-hydroxymethylcytosine, creating permissive chromatin states that facilitate gene activation []. This mechanism aligns with TET3’s role in spinal astrocytic activation viaGATA1 synergy []but diverges in its neuron-specific targeting. Unlike the co-upregulation of CBLN1/2 observed in acute inflammation pain (our snRNA-seq analysis in IS model), pIONT’s sustained demethylation suggests that TET3 stabilizes transcriptional memory, and participate in the maintenance of chronic pain. However, unresolved questions persist regarding upstream triggers and interacting transcription factors.
+
+ERK-dependent neuronal hyperexcitability mediated by CBLN2
+
+Hyperalgesia induced by nerve injury or pathological conditions is commonly accompanied by hyperexcitability of peripheral sensory neurons within DRG or TG [,]. Exogenous rCBLN2 administration induces neuronal hyperexcitability in TG neurons, characterized by RMP depolarization and reduced AP thresholds. These selective modifications to voltage-gated properties, without altering passive membrane characteristics, implicate CBLN2 in regulating sodium channel kinetics or auxiliary subunit interactions. Voltage-gated Na⁺ channels (VGSCs, such as Nav1.7), which modulate AP generation and propagation, thus serve as pivotal determinants of primary sensory neuronal excitability [,]. It has been demonstrated that ERK signaling modulates Nav1.7 activity via phosphorylation of specific residues within its intracellular loop, thereby facilitates enhanced AP firing frequency and reduced first-AP latency [,].
+
+Our mechanistic studies reveal ERK phosphorylation as the nodal point of CBLN2 signaling. rCBLN2 administration induces sustained rapid (15 min) and sustained (60 min) pERK elevation. MAPKs, including ERK, p38, and JNK, are activated in the TG following peripheral nerve injury and mediate mechanical allodynia [,,,]. The therapeutic potential of MEK inhibition in reversing CBLN2-driven hypersensitivity by prolonging repolarization kinetics manifestations highlights ERK’s pivotal position downstream of CBLN2. This pathway converges with established pain mechanisms, nerve growth factor/tropomyosin receptor kinase A signaling similarly engages ERK to regulate ion channel trafficking []. Interestingly, we have reached a similar conclusion in female mice. This shows that CBLN2/ERK pathway is involved in the regulation of pain, and there is no obvious sex difference.
+
+CBLN2 also activates NF-κB/HIF-1α/Twist1 pathway to promote endothelial-mesenchymal transition in the pulmonary hypertension model []. Its homologous gene, CBLN1-derived poly-peptides up-regulateandand down-regulatein rat adrenocortical cells []which also deserves attention. Also, it is worthy to study the downstream genes of CBLN2 regulating pain by high-throughput sequencing and other techniques in the future.
+
+Neuroinflammatory amplification via the CBLN2-ERK axis
+
+Accumulating evidence has highlighted the pivotal role of neuroinflammatory responses in the pathogenesis of neuropathic pain [,]. Targeted suppression of inflammatory mediators (e.g., TNF-α and IL-1β) through pharmacological interventions could attenuate neuronal hyperexcitability, suggesting a potential mechanism-driven approach for pain management [,,]. Transcriptomic profiling revealed CBLN2’s capacity to upregulate pro-inflammatory mediators, including,,,, andin TG neurons, which have been reported to play important roles in TNP [,,,]. This cytokine storm is partially ERK-dependent, as PD98059 pretreatment attenuated induction by 21–42%. The observed feedforward loop-wherein CBLN2 enhances neuronal excitability to drive cytokine release, which in turn sensitizes nociceptors.
+
+Mechanistically, ERK integrates multiple upstream signals (e.g., GPCRs, cytokine receptors, ion channels) to regulate neuroimmune crosstalk through: (i) Transcriptional regulation. Phosphorylated ERK translocates to nuclei, increasing transcription of pro-inflammatory cytokines (e.g., CCL7 and CXCL10) and ion channels (e.g., Nav1.7 and GluK2) [,,]; (ii) Post translational modulation. Direct phosphorylation of VGSCs and the transient receptor potential ion channels enhances neuronal firing [,]; (iii) Glial crosstalk. Neuron-derived ERK-activated cytokines (e.g., CCL7) recruit microglia and astrocytes, which release additional inflammatory mediators (e.g., IL-6 and ROS) to further sensitize neurons [,,]. CBLN2’s rapid ERK activation (< 15 min) suggests non-genomic signaling, possibly via recognizing receptors on neurons. This aligns with CBLN2’s known role in potentiating GluD1-dependent signaling [].
+
+Therapeutic implications and limitations
+
+Our demonstration that CBLN2 knockdown alleviates both initiation and maintenance phases of allodynia nominates it as a potential target for refractory TNP. However, translational challenges persist: (i) The human relevance of murine methylation patterns requires validation in TNP patients; (ii) CBLN2’s interaction partners in TG neurons remain unidentified; (iii) Systemic ERK inhibition risks off-target effects, necessitating localized delivery strategies.
+
+Conclusions
+
+In summary, we provided the initial evidence thatin the TG is involved in pIONT-induced facial mechanical allodynia. Our results demonstrated that upregulated expression of CBLN2 in the TG is partly due to promoter demethylation mediated by TET3, acting on the activation of ERK signaling in TG neurons and increasing the expression of pro-inflammatory cytokines, which further induces neuronal hypersensitivity, thereby promoting neuropathic pain. Thus, targeting the TET3-CBLN2-ERK axis in TG neurons may offer a novel therapeutic strategy for the treatment of TNP.
+
+Supplementary Information
+
+Supplementary Material 1: Supplementary Fig.1.andmRNA expression in TG of naïve, sham-, and pIONT-operated mice. two-way ANOVA followed by Bonferroni’s test, n = 8 mice/group.
+
+Supplementary Material 2: Supplementary Fig.2. CBLN2 activates pERK in female mice. (A-B) Intra-TG injection of CBLN2 (10 ng) in female mice increased pERK in TG. ***p < 0.001, Student’s t-test, n = 4 mice/group. (C-D) Representative immunofluorescence images of pERK activated by CBLN2 in TG of female mice. (E-F) Intra-TG injection of PD98059 attenuated CBLN2-induced mechanical allodynia in female mice measured using 0.02 g von Frey filaments (E) and 0.60 g von Frey filaments (F). *p < 0.05, **p < 0.01, two-way RM ANOVA followed by Bonferroni’s test, n = 7 mice/group.
