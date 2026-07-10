@@ -2,7 +2,7 @@
 title: "삼차신경통·외상후 삼차신경병증 종합 (Trigeminal Neuralgia & Post-traumatic Trigeminal Neuropathy)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-01
+date: 2026-07-10
 doi: N/A
 source: N/A
 category: overviews
@@ -47,13 +47,13 @@ PTTN은 비전형 치통으로 오진되어 재근관·발치 같은 비가역 �
 
 This is the **clinical** trigeminal-pain page; for the molecular substrate (chloride disinhibition, small-fiber neuropathy, neurosteroid/T-type axis) see [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]]. Here the unifying clinical thesis is a **differential-diagnosis safety net**: two distinct trigeminal pain entities — paroxysmal neuralgia and continuous post-traumatic neuropathy — are repeatedly mistaken for tooth pain, driving irreversible dental treatment of sound teeth.
 
-1. **Trigeminal neuralgia is paroxysmal, trigger-evoked, electric-shock pain** in the trigeminal distribution, provoked by light touch to the face/lips/oral mucosa or by chewing, talking, or tooth-brushing; classified (ICHD-style) as classical (neurovascular compression at the root entry zone — most common), secondary (posterior-fossa tumor/MS), or idiopathic (Khan 2023, SR). Because trigger zones sit intraorally and ordinary function provokes the pain, TN is frequently mistaken for odontogenic pain (Khan 2023).
+1. **Trigeminal neuralgia is paroxysmal, trigger-evoked, electric-shock pain** in the trigeminal distribution, provoked by light touch to the face/lips/oral mucosa or by chewing, talking, or tooth-brushing; classified (ICHD-style) as classical (neurovascular compression at the root entry zone — most common), secondary (posterior-fossa tumor/MS), or idiopathic (Khan 2023, SR). Because trigger zones sit intraorally and ordinary function provokes the pain, TN is frequently mistaken for odontogenic pain (Khan 2023). *Mechanistic nuance, not a diagnostic exception*: some classical-TN patients also have a **continuous background burning/throbbing component between paroxysms** ("TN with concomitant continuous pain"), attributed to central sensitization in the spinal trigeminal nucleus caudalis (Sp5C) (Kim 2024 — see [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] §6). This does not change the decision rule below — the presence of *any* electric-shock trigger-evoked paroxysm still points to TN, not PTTN.
 
 2. **TN pharmacotherapy is a ladder anchored on carbamazepine/oxcarbazepine.** First-line: carbamazepine 0.4–1.2 g/day, oxcarbazepine 0.9–1.8 g/day (oxcarbazepine has fewer adverse effects). Second-line: lamotrigine, baclofen; gabapentin/pregabalin fill refractory niches. Refractory/acute: IV lidocaine (acute exacerbation), botulinum toxin A (25–75 U, ~70–100% response) (Khan 2023, SR). Caveat: except carbamazepine, most drugs are inadequately studied (low certainty).
 
 3. **Microvascular decompression (MVD) is first-line surgery for classical (vascular-compression) TN** (Khan 2023). For a dentist, recognizing the paroxysmal trigger-evoked character plus the absence of a dental source on exam/imaging should prompt a carbamazepine/oxcarbazepine trial and neurology referral rather than endodontics or extraction (Khan 2023).
 
-4. **Post-traumatic trigeminal neuropathy (PTTN/PTN) is continuous, not paroxysmal** — unilateral aching/burning/throbbing pain >3–4 months with allodynia/hyper- or hypoalgesia (96% of painful PTTN cases), following nerve trauma (Alkhutari 2023, SR). It is the iatrogenic injury most directly attributable to the operative dentist.
+4. **Post-traumatic trigeminal neuropathy (PTTN/PTN) is continuous, not paroxysmal** — unilateral aching/burning/throbbing pain >3–4 months with allodynia/hyper- or hypoalgesia (96% of painful PTTN cases), following nerve trauma (Alkhutari 2023, SR). It is the iatrogenic injury most directly attributable to the operative dentist. Only a minority of nerve injuries actually progress to painful PTTN (~3% in the largest peripheral-mechanism series), and the underlying peripheral cascade — chemokine signaling, ion-channel change, satellite-glial-cell activation — is mapped in [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] §7 (Korczeniewska 2022); central mechanisms remain unmapped by that source.
 
 5. **Endodontic therapy accounts for 6–8% of trigeminal nerve injuries** — behind third molars (48%), implants (13%), non-third-molar extraction (13%), and local anesthesia (12%) in the largest series (Van der Cruyssen 2020, n=1,331), but a non-trivial and under-recognized share (Alkhutari 2023). Onset is 3–48 months after root canal treatment; the demographic signature is a female (65–85% of PDAP) in her mid-40s; the pain is overwhelmingly non-odontogenic yet mislabeled atypical odontalgia (AO) or persistent dentoalveolar pain (PDAP) (Alkhutari 2023).
 
@@ -71,7 +71,7 @@ This is the **clinical** trigeminal-pain page; for the molecular substrate (chlo
 | Neuropathy — iatrogenic (endodontic) | [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] | sr | Endodontics = 6–8% of trigeminal nerve injuries; onset 3–48 mo post-RCT; female mid-40s; non-odontogenic pain misdiagnosed as AO/PDAP; mandibular apices near IAN canal/mental foramen |
 | Nerve injury — implant/surgery | [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] | narrative-review | Altered sensation 0–55% after posterior-mandibular implant (design-dependent); IAN/mental nerve; mostly transient (≤6 mo); safety zone ≥2 mm panoramic/≥1 mm CT; microneuroanastomosis indications; medicolegal cases |
 | Dentist awareness — the gap | [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] | cross-sectional | 634 dentists: 28.7% unaware PTTN exists, >80% untaught, 71.7% encountered a case; default irreversible treatment (retreatment/apicectomy/extraction), only ~1 in 3 referred; unawareness propagates (p<0.05) |
-| Mechanism (cross-reference) | [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] | synthesis | Molecular substrate of trigeminal neuropathic pain — chloride disinhibition (NKCC1/KCC2), small-fiber neuropathy, neurosteroid/T-type Ca²⁺ axis (why the neuropathic branch behaves as it does) |
+| Mechanism (cross-reference) | [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] | synthesis | Molecular substrate of trigeminal neuropathic pain — chloride disinhibition (NKCC1/KCC2), small-fiber neuropathy, neurosteroid/T-type Ca²⁺ axis, **plus (2026-07-10 update)** the Sp5C central-sensitization circuit (Kim 2024, explains TN's continuous-pain phase) and the peripheral PTNP cascade (Korczeniewska 2022, chemokines→ion channels→satellite glial cells; ~3% of nerve injuries progress to PTNP) |
 
 ## Clinical Decision Points
 
@@ -93,7 +93,7 @@ This is the **clinical** trigeminal-pain page; for the molecular substrate (chlo
 - [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — endodontic PTTN quantified (spine: iatrogenic neuropathy axis)
 - [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — dentist-awareness/referral gap (spine: recognition axis)
 - [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — altered sensation after mandibular implant surgery; safety zone & microneurosurgery (spine: nerve-injury/prevention axis)
-- [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — mechanistic backbone of trigeminal neuropathic pain (why the neuropathic branch behaves as it does; this clinical page is its bedside counterpart)
+- [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — mechanistic backbone of trigeminal neuropathic pain (why the neuropathic branch behaves as it does; this clinical page is its bedside counterpart). As of 2026-07-10 also covers the Sp5C circuit anatomy behind TN's continuous-pain phase and the peripheral PTNP injury cascade (Kim 2024, Korczeniewska 2022)
 - [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — sibling trigeminal neuropathic-pain entity (BMS) in the same orofacial-pain differential
 
 ## Bottom Line (한 줄 결론)
