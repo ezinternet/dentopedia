@@ -10,10 +10,15 @@ Rules:
   - Orphan sources (no PDF) are a warning — PDF may have been lost
 
 CI behaviour:
-  papers/*.pdf is gitignored, so a CI checkout has 0 PDFs while sources/
-  has all .md files. The 1:1 check is therefore impossible in CI and
-  used to fail every Wiki Lint run. When $CI is set we short-circuit
-  with an informational message and exit 0. The local invariant still
+  papers/*.pdf is gitignored, so a CI checkout never has the full set of
+  PDFs that sources/ was ingested against. Only the pubmed-text `.txt`
+  artifacts are committed, so papers/ is no longer reliably *empty* in
+  CI (it used to be, before any pubmed-text papers existed) — checking
+  "CI and not pdfs" stopped short-circuiting once the first `.txt` was
+  committed, and the 1:1 check silently started failing every Wiki Lint
+  run again. The 1:1 check is fundamentally impossible in CI regardless
+  of how many `.txt` files happen to be present, so we short-circuit
+  unconditionally whenever $CI is set. The local invariant still
   matters — run `python3 scripts/orphan-check.py` on the host before
   pushing.
 
@@ -51,12 +56,15 @@ def main():
         if f.endswith(".md")
     }
 
-    # CI short-circuit: PDFs are gitignored, so papers/ is empty in CI
-    # checkouts. Refuse to flag every source file as orphaned in that case.
-    if os.getenv("CI") and not pdfs:
+    # CI short-circuit: PDFs are gitignored, so a CI checkout never has the
+    # full papers/ set sources/ was ingested against. This holds regardless
+    # of how many pubmed-text .txt artifacts happen to be committed, so we
+    # skip unconditionally in CI rather than gating on "papers/ is empty".
+    if os.getenv("CI"):
         print(
-            f"ℹ️   CI environment detected — papers/ is empty (gitignored). "
-            f"Skipping 1:1 check. ({len(srcs)} sources present.) "
+            f"ℹ️   CI environment detected — papers/*.pdf is gitignored, so "
+            f"the 1:1 check is not meaningful here. Skipping. "
+            f"({len(srcs)} sources, {len(pdfs)} papers/ artifacts present.) "
             f"Run locally to verify papers↔sources match."
         )
         return

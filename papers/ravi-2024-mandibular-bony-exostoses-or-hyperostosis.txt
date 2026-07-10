@@ -1,0 +1,56 @@
+Title: Mandibular Bony Exostoses or Hyperostosis: A Case Report
+Authors: Akshaya Ravi, Ramachandra Reddy Gowda Venkatesha, Karthik Rajaram Mohan
+Journal: Cureus, 2024;16(11):e72941
+DOI: 10.7759/cureus.72941
+PMID: 39634962
+PMCID: PMC11614749
+Source: PubMed Central full text (get_full_text_article)
+
+Abstract
+
+Mandibular bony exostoses or hyperostoses are benign, non-neoplastic, localized bony outgrowths that are broad-based, slow-growing, and surface masses on the buccal or lingual surface of the mandible alveolar bone. Such exostoses grow over several years. Exostoses are more common in the maxilla posterior region along the maxillary tuberosity, called palatal exostoses. Torus palatinus occurs in the mid-line of the hard palate; mandibular torus or torus mandibularis occurs along the mandibular canine, premolar regions. We report a rare case of such bony exostoses on the lingual surface of the mandible in a 70-year-old edentulous male.
+
+Introduction
+
+Mandibular bony exostoses are non-neoplastic, benign, painless, surface bony protuberant masses that increase patient concern about esthetics and compromise periodontal health by causing food lodgment. Etiology still needs to be well established. This bony lump or mass is attributed to an abnormal increase in masticatory forces on the teeth. They slowly increase in size in patients, increasing with age and time. Nery et al. stated that 276 of 681 dry skulls had palatal exostoses. The European, Asian, Mexican-Peruvian, and African dried skull samples had 45.54%, 47.25%, 27.27%, and 25%, respectively. The prevalence rate of mandibular bony exostoses is 14.4% for oral exostoses and is observed in patients with bruxism and attrition. Of 618 patients (264 women and 354 men) aged 10-82 years at the University of Jordan Hospital, Amman, Jordan, only 2.4% had palatal exostoses. The occurrence of exostoses occurs with increasing age. Auškalnis et al. reported a prevalence of 1.8% among 162 twins (81 twin pairs).
+
+Case presentation
+
+A 70-year-old male presented to our department for a routine dental check-up. His past medical history revealed no comorbidities such as uncontrolled diabetes or hypertension. His family history was non-contributory, with no harmful oral habits like chewing or smoking tobacco and no alcohol consumption. The past surgical history revealed that he underwent an uneventful dental extraction of his left mandibular posterior teeth three months ago. The past dental history revealed he had been a denture wearer for the past month but did not wear his denture regularly. The extraoral examination did not reveal similar masses on any part of his body. The intraoral soft tissue clinical examination revealed a whitish area on the edentulous alveolar ridge. On inspection, it was non-scrapable, non-tender, and suggestive of ridge keratosis due to a removable prosthesis. The hard tissue examination on inspection revealed a brownish-yellow-colored bony protuberance measuring about 1 x 1.5 cm on the lingual or palatal aspect of the posterior left mandibular alveolar bone concerning the mandibular second molar region above the mylohyoid ridge.
+
+The mass was bony-hard on palpation in consistency, sessile, and non-tender. Orthopantomography revealed a radiopaque mass in relation to the left mandibular second molar region. The contrast or density of the radiopaque mass blends with the adjacent cortical mandibular alveolar bone.
+
+Based on the above clinical findings, a provisional diagnosis of bony exostoses was made. The differential diagnosis includes bone spurs, osteoma, osteosarcoma, and osteoradionecrosis. The osteonecrosis and osteoradionecrosis were ruled out based on the absence of a history of bisphosphonates or radiotherapy in our patient.
+
+Limitations
+
+Conventional radiographs such as mandibular occlusal radiographs and specialized radiographic techniques such as multislice computed tomography (CT) and cone beam CT (CBCT) were not performed on this patient. In this case, the final diagnosis was based only on history and clinical findings. The patient did not consent to biopsy or surgical excision, as he was completely asymptomatic.
+
+Table 1 — Differential diagnosis of bony exostoses
+
+- Hyperostoses or bony exostoses: benign proliferation of cancellous bone, buccal or palatal aspect of the mandible, density blends with adjacent bone.
+- Dense bone island: intraosseous counterpart of idiopathic osteosclerosis, internal bony growth of cancellous bone inside mandibular cortical bone.
+- Bone spur: localized area of hyperactivity in bone, firm asymptomatic bony mass along the line of insertion of muscle fibers.
+- Chronic osteomyelitis: low-density bone, sequestrum, onion-peel periosteal reaction, history of traumatic/difficult extraction, swelling with extraoral sinus, tenderness, pathological fracture if untreated.
+- Osteoma/osteochondroma: attached to outer cortical plate, dense outer cortical border.
+- Osteosarcoma: sunburst appearance from rapid periosteal peeling, poor prognosis.
+- Osteonecrosis: history of bisphosphonate therapy for osteoporosis.
+- Osteoradionecrosis: history of radiotherapy for oral cancer.
+
+Discussion
+
+Exostoses are more common as a person grows older. During the 10th to 13th week of gestation, endochondral ossification occurs around the protruded medial lamina of the mandible reaching Meckel's cartilage immediately before mylohyoid muscle attachment, resulting in bony prominence.
+
+Exostosis development is a complicated process that can be triggered by any factor that causes gingival tissue injury and inflammation. In genetically predisposed people, however, significant occlusal stress, which is frequently seen in TMJ dysfunction, is the key environmental component contributing to exostosis development. Exostoses are bony overgrowths that can occur due to unusually high masticatory stresses on the teeth. They can grow to around 2-3 cm in diameter. They contribute to food lodgment, impairing periodontium. Exostoses can occur as unilateral, painless masses, causing facial asymmetry.
+
+Exostoses are reported along the mandibular angle. The authors pointed out the rarity of buccal exostosis on the mandibular angle as an anatomic location. Exostoses may form as a result of functional factors. In certain older adults, there is a growing association between severe exostoses and considerable tooth attrition.
+
+According to the theory of subpontic hyperostosis, excessive occlusal stress causes the crystal alveolar bone to form beneath the pontic region, opposing the occlusion pressures of mastication. Exostoses are lumps of calcified bones that result in facial deformity and are surgically removed following an intraoral approach. Exostoses can be surgically removed with a mallet and chisel, and such exostoses are used as autografts to treat shallow bone crater defects. Exostoses can occur in the condyle, resulting in clicking and pain in the temporomandibular joint. Siegel et al. reported cases of exostoses following a skin vestibuloplasty procedure.
+
+Clinical significance
+
+The clinical significance of this case report is the presence of an exposed bone mimicking the clinical features of osteonecrosis or osteoradionecrosis and providing a diagnostic challenge to oral physicians. Hence, careful history-taking and clinical examination are essential to avoid unwanted fear and apprehension in the patient.
+
+Conclusions
+
+A comprehensive, detailed history-taking and knowledge of clinical and radiographic features of exostoses are essential to rule out other differential diagnoses such as torus, bone spur, chronic osteomyelitis, osteonecrosis, and osteosarcomas that may warrant unnecessary biopsy or surgical procedures and alleviate unwanted apprehension and anxiety in the patient. No treatment is indicated for such exostoses unless it interferes with a function such as denture insertion or periodontal regeneration procedures requiring gingivectomy.

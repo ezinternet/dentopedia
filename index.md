@@ -1715,6 +1715,8 @@ tags: []
 - [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — 내러티브 리뷰: 구강 아프타 병태생리·세 형태(소·대·포진형)·감별진단; 국소 스테로이드 1차·진행 시 전신제 치료 단계 (Arch Razi Inst 2021)
 - [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — 내러티브 리뷰: PFAPA(소아 최다 주기열) 병인 — 유전 감수성 좌위가 베체트병/재발성 아프타와 연결, 기준 미충족 환자도 편도절제술 효과 (Curr Opin Rheumatol 2023)
 - [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — SR (5편, 364명, 평균 7.6세): 1차 헤르페스 치은구내염(PHGS) — 조기 아시클로버의 약한 근거만, 합의 치료법 부재; ~72h 진단지연이 효능 저해 (Clin Oral Investig 2023)
+- [[oral-medicine/ravi-2024-mandibular-bony-exostoses-or-hyperostosis]] — Case report (Cureus 2024): 무치악 70세 남성 하악 설측 골성 외골증(exostosis) — MRONJ·방사선골괴사 감별이 핵심, 항흡수제/방사선치료 병력 부재로 배제, 치료 불필요 (DOI 10.7759/cureus.72941)
+- [[oral-medicine/disha-2024-oral-tori-adult-albanian-population]] — Cross-sectional pilot(n=122, 알바니아 티라나): 구강 torus 전체 유병률 48.4%(TM 39%·ABE 16%·TP 14%), 18–29세 최다, 성별·이갈이 무관 (DOI 10.3390/dj12080242)
 - [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — SR (PRISMA, 2005–2025): 구강 HSV — 국소제는 조기 적용 시 병변기간 단축하나 재발 미감소; 전신 항바이러스제(아시클로버·발라시클로버·팜시클로버)는 해소·재발 예방 (IJMS 2025)
 - [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — 약리 리뷰: 항-HSV-1 약물 60년 업데이트 — 뉴클레오시드 유사체·헬리카제-프라이메이스 억제제·면역조절제; 내성 문제와 부재한 백신 (Front Pharmacol 2025)
 - [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
