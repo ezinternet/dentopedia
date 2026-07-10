@@ -10,8 +10,13 @@ confidence: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/juodzbalys-2011-ian-injury-implant-etiology-treatment-review.pdf
 pdf_filename: juodzbalys-2011-ian-injury-implant-etiology-treatment-review.pdf
 source_collection: external
+superseded_by: pena-cardelles-2025-ian-damage-implant-placement-sr-ma
+superseded_scope: partial
 tags: [ian-injury, implant, etiology, diagnosis, treatment, classification, literature-review]
 ---
+
+> [!note] Partially superseded → [[pena-cardelles-2025-ian-damage-implant-placement-sr-ma]]
+> The unstratified 0–40% incidence figure on this page is replaced by distance-stratified pooled estimates from a 14-study SR+MA (0% at ≥1 mm apex-to-canal separation; a large jump at 0–1 mm; 53% on canal intrusion). What this page still uniquely offers is not superseded: the aetiology taxonomy (intraoperative mechanical/thermal/chemical vs postoperative), Seddon/Sunderland grading applied to implant injury, and the diagnostic/treatment algorithm. (set 2026-07-10)
 
 ## Three-line Summary
 
