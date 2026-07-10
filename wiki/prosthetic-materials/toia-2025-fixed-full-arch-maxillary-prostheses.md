@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/toia-2025-fixed-full-arch-maxillary-p
 pdf_filename: toia-2025-fixed-full-arch-maxillary-prostheses.pdf
 source_collection: external
 tags: [full-arch, fixed-complete-denture, maxilla, implant-number, four-implants, six-implants, marginal-bone-level, RCT, non-inferiority]
+relations:
+  - type: extends
+    target: toia-2021-fixed-full-arch-maxillary-prostheses
 ---
 
 ## Three-line Summary
