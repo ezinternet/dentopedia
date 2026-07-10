@@ -1,0 +1,87 @@
+Title: Comparative clinical evaluation of demineralized freeze-dried bone allograft (DFDBA) alone versus DFDBA with platelet-rich fibrin membrane in the management of intrabony defects: A step toward enhanced periodontal regeneration
+Authors: Parihar S, Pandey A, Ahlawat S, Rajak KK, Patel A, Parihar AV
+Journal: National Journal of Maxillofacial Surgery (Banaras Hindu University, India)
+PMID: 42422776
+PMCID: PMC13342730
+DOI: 10.4103/njms.njms_55_25
+Source: PubMed Central full text via PubMed MCP (get_full_text_article), retrieved 2026-07-10
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13342730/
+
+ABSTRACT
+
+Background:
+Periodontal regeneration in intrabony defects remains a critical goal in periodontics. Demineralized freeze-dried bone allograft (DFDBA) and platelet-rich fibrin (PRF) have shown potential in enhancing clinical outcomes. This study compared the clinical efficacy of DFDBA alone versus DFDBA combined with PRF in the treatment of intrabony periodontal defects.
+
+Material and Method:
+A randomized, double-blinded, split-mouth clinical trial was conducted on patients diagnosed with Stage III or IV, Grade B or C periodontitis, each presenting with paired infrabony defects. A total of 15 defect sites were treated with DFDBA alone (control group), and 15 sites with DFDBA and PRF (test group). Clinical parameters, including probing depth (PD), clinical attachment level (CAL), plaque index (PI), and gingival index (GI), were recorded at baseline, 3 months, and 6 months postoperatively. Statistical analysis was performed using SPSS version 25, with significance set at p < 0.05.
+
+Results:
+Both groups showed significant intragroup improvements in all parameters (p < 0.001). The DFDBA + PRF group demonstrated significantly greater probing pocket depth (PPD) reduction (p = 0.01) and CAL gain (p = 0.04) compared to DFDBA alone at 6 months, while PI and GI showed no significant intergroup differences.
+
+Conclusion:
+Both DFDBA alone and DFDBA combined with PRF significantly improved periodontal parameters. However, the adjunctive use of PRF yielded greater reductions in PPD and superior clinical attachment gains, indicating potential clinical advantages in terms of graft stabilization and soft-tissue healing. Further studies with extended follow-up and histologic evaluation are recommended to substantiate these findings.
+
+INTRODUCTION
+
+A primary challenge in periodontal treatment is the restoration of lost periodontal tissues. Various strategies have been suggested to enhance periodontal healing, including barrier membranes, bone graft materials, biological mediators, and enamel matrix proteins. One such material, demineralized freeze dried bone allograft (DFDBA), is a well established grafting material known for its osteoinductive potential, promoting new bone formation by stimulating progenitor cell differentiation into osteoblasts. Numerous growth/differentiation factors, such as bone morphogenetic proteins (BMPs), in particular BMP 2, 4, and 7, are present in DFDBA, responsible for periodontal repair and regeneration. Histologic analyses demonstrate that DFDBA promotes true periodontal regeneration in infrabony defects, characterized by the regeneration of functional periodontal structures, including newly formed cementum, organized periodontal ligament fibers, and alveolar bone architecture, whereas open flap debridement (OFD) predominantly yields reparative healing marked by the long junctional epithelium without significant regeneration of the attachment apparatus.
+
+First described by Choukroun et al. in 2001, platelet-rich fibrin (PRF) is a second-generation autologous platelet concentrate comprising a three-dimensional fibrin scaffold embedded with a concentrated population of platelets and leukocytes, facilitating sustained release of growth factors and promoting tissue regeneration. When combined with bone graft materials, PRF confers multiple clinical benefits, such as enhancing osteogenesis and soft tissue healing, accelerating bone maturation, providing graft stabilization and hemostasis, promoting wound closure, and optimizing the biomechanical handling characteristics of grafting materials. Dohan Ehrenfest et al. provided compelling evidence that PRF exerts a pronounced and sustained mitogenic effect on various human primary cell cultures. Their research demonstrated that PRF significantly enhances the proliferation and biological activity of gingival fibroblasts, pre-keratinocytes, and osteoblasts derived from maxillofacial region. Contemporary clinical studies evaluating the treatment strategies for management of periodontal intrabony defects have reported that incorporating PRF as an adjunct to conventional OFD results in significantly improved clinical parameters and regenerative outcomes compared to OFD alone.
+
+This clinical study aimed to assess and contrast the effectiveness of DFDBA alone versus its combination with PRF in enhancing periodontal tissue regeneration in infrabony defects.
+
+MATERIAL AND METHODS
+
+15 systemically healthy individuals (8 males and 7 females; mean age: 40 ± 2.2 years) diagnosed with Stage III or IV, Grade B or C periodontitis, as classified by the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions, were recruited for the study. Each participant exhibited at least one pair of contralateral infrabony periodontal defects suitable for comparative analysis. The clinical trial was conducted between April 2024 and January 2025 in the outpatient unit of the institution. This investigation followed a randomized, double-blind, controlled design and employed a split-mouth, parallel approach to compare the therapeutic efficacy of DFDBA alone versus DFDBA combined with PRF in the surgical management of intrabony periodontal defects. The study protocol conformed to the ethical guidelines of the Declaration of Helsinki, with comprehensive written informed consent obtained from each subject.
+
+Approval for the study was granted by the Institutional Ethics Committee prior to its commencement with ethical clearance no. Dean/2023/EC/6084 and was registered in Clinical Trials Registry - India with CTRI No. CTRI/2024/03/063595.
+
+Inclusion criteria: interproximal infrabony periodontal defects located in asymptomatic posterior teeth, probing depth (PD) ≥ 5 mm measured 4 weeks after Phase I periodontal therapy, radiographically confirmed vertical bone defect depth ≥ 4 mm, plaque and gingival index (GI) scores ≤ 1 at re-evaluation.
+
+Exclusion criteria: systemic conditions affecting periodontal healing, medications interfering with bone metabolism or wound healing, pregnancy or lactation, tobacco use in any form, prior periodontal surgery at the site of interest, single-bony-wall defects, furcation involvement.
+
+Primary outcome variables: clinical attachment level (CAL) gain and probing pocket depth (PPD) reduction. Secondary outcomes: changes in plaque index (PI) and GI. Sample size was calculated from Agarwal (2016) data using G*Power 3.1.9.7 (α = 5%, power = 95%), giving 15 defect sites per group.
+
+Randomization: lottery method with sealed envelopes opened only after enrollment, by an independent researcher not involved in the trial. Groups:
+Group A - DFDBA alone (control)
+Group B - DFDBA with PRF (test)
+
+Two blinded examiners performed all clinical and radiographic assessments (unaware of treatment allocation) at baseline, 3 months, and 6 months postoperatively; the operating surgeon did not record outcomes. PPD = distance from gingival margin to base of pocket; CAL = measured from cementoenamel junction (CEJ) to base of pocket, using a UNC-15 periodontal probe (Hu-Friedy).
+
+Interventions: All surgeries performed by a single calibrated clinician. Local anesthesia (2% lignocaine with 1:80,000 adrenaline); intrasulcular incisions, full-thickness mucoperiosteal flap elevation, debridement with manual curettes under saline irrigation. PRF was prepared autologously from 10 mL of venous blood drawn without anticoagulant, centrifuged at 3000 rpm for 10 minutes (Velab VE-4000, fixed-angle rotor, 45°, radius 10.6 cm) using the low-speed centrifugation concept; PRF gel compressed in a PRF box to obtain a membrane. DFDBA was placed within the defect in both groups; the test group additionally received a PRF membrane placed over the graft. Flaps repositioned and closed with 3-0 resorbable vicryl sutures, interrupted technique.
+
+Postoperative care: amoxicillin 500 mg + clavulanic acid 125 mg BID x 7 days, ibuprofen 400 mg TID x 3 days, 0.12% chlorhexidine gluconate rinse BID, no brushing/flossing at surgical site for 2 weeks, sutures removed at 2 weeks. Follow-up weekly for first month, then 3 and 6 months.
+
+Statistical analysis: Mann-Whitney U test for between-group comparisons, Friedman test for within-group analyses, Bonferroni-corrected significance.
+
+RESULTS
+
+Both the control group (DFDBA alone; Group A) and the test group (DFDBA + PRF; Group B) demonstrated statistically significant intergroup and intragroup improvements in all clinical parameters - PPD, CAL, GI, and PI - from baseline to 6 months (p < 0.001). At baseline, mean PPD and CAL were comparable between groups (p > 0.05).
+
+By 6 months:
+- PPD: Group B (DFDBA+PRF) reduced to 3.47 ± 0.61 mm vs Group A (DFDBA alone) 3.91 ± 0.75 mm; p = 0.01. Effect size moderate (Cohen's d = 0.64; 95% CI: -0.09 to 1.38).
+- CAL: Group B gained to 3.24 ± 0.73 mm (final) vs Group A 4.20 ± 0.76 mm (final); p = 0.04. Effect size large (Cohen's d = 1.29; 95% CI: 0.50 to 2.07).
+  [Note: lower final CAL value denotes greater attachment gain from baseline; Group B shows the larger reduction/gain.]
+- GI and PI: both groups improved significantly within-group (p<0.001) but no significant intergroup differences at any timepoint (p > 0.05).
+
+Table 1 - Intergroup and intragroup comparison of clinical parameters at different timelines (Baseline / 3 months / 6 months / intragroup p):
+PPD (mm): Group A 6.29±1.059 / 4.38±0.853 / 3.91±0.75 / p=0.00; Group B 6.52±1.05 / 3.97±0.83 / 3.47±0.61 / p=0.00. Intergroup p: 0.36 / 0.068 / 0.01.
+CAL (mm): Group A 6.55±0.99 / 4.64±0.98 / 4.20±0.76 / p=0.00; Group B 6.82±0.96 / 4.44±0.89 / 3.24±0.73 / p=0.00. Intergroup p: 0.291 / 0.465 / 0.04.
+GI: Group A 2.17±0.71 / 1.58±0.55 / 1.38±0.60 / p=0.00; Group B 2.38±0.65 / 1.73±0.61 / 1.47±0.60 / p=0.00. Intergroup p: 0.232 / 0.34 / 0.322.
+PI: Group A 2.50±0.56 / 1.79±0.53 / 1.61±0.55 / p=0.00; Group B 2.11±0.76 / 1.70±0.46 / 1.58±0.49 / p=0.00. Intergroup p: 0.37 / 0.532 / 0.887.
+
+DISCUSSION
+
+The continued presence of intrabony periodontal defects following nonsurgical therapy signifies ongoing disease progression and attachment loss. Ideal periodontal bone graft materials should possess osteoinductive potential, favorable handling, and mechanical integrity for space maintenance. DFDBA has demonstrated considerable promise, with histologic studies reporting complete periodontal regeneration in up to 80% of treated sites, attributed to demineralization exposing embedded BMPs.
+
+PRF, used alone or with bone graft materials, has been shown to significantly improve PPD reduction and CAL gain via its three-dimensional fibrin matrix that facilitates cellular migration, adhesion, and differentiation, and its enrichment with platelets/leukocytes releasing growth factors. Advancements such as the low-speed centrifugation concept have improved PRF cellular content and homogeneity.
+
+The present study found statistically and clinically significant improvements in PPD and CAL at 6 months in both groups, with significant intergroup differences favoring DFDBA+PRF (p<0.05). Even a 1 mm CAL gain may reduce disease recurrence and improve tooth survival. Effect size analysis showed a moderate effect for PPD and a large effect for CAL, underscoring PRF's clinical impact as an adjunct. Findings are consistent with prior investigations reporting significant PPD/CAL benefit from PRF. PRF may be particularly advantageous for defects with greater baseline depth, morphologically unfavorable intrabony lesions where graft stabilization is critical, and where enhanced soft-tissue healing is desirable. The absence of intergroup PI/GI differences may reflect strict plaque control/oral hygiene monitoring in both groups, masking any anti-inflammatory advantage of PRF.
+
+Limitations: short 6-month follow-up (chosen as the early-healing window where most PD/CAL improvement occurs, minimizing attrition) may not capture long-term stability; longer follow-up (≥12 months) recommended. Three patients were excluded prior to randomization (none during follow-up). Small sample size limits external validity. No histologic evaluation or advanced imaging - clinical measurements alone cannot differentiate repair from true regeneration. Future multicenter studies with larger cohorts, longer follow-up, histology, and advanced imaging recommended.
+
+CONCLUSION
+
+Considering the limitations of this randomized clinical trial, both DFDBA alone and its combination with PRF resulted in notable improvements in PD reduction and clinical attachment gain after 6 months. Although overall regenerative outcomes were favorable in both groups, the adjunctive use of PRF demonstrated superior improvements in PPD and CAL. The combination offers a biocompatible, autologous option that may support periodontal regeneration by promoting sustained growth factor release and enhancing tissue healing. Nonetheless, larger-scale studies with longer follow-up periods and advanced imaging are warranted to confirm these outcomes.
+
+Ethical clearance: Declaration of Helsinki; Institutional Ethics Committee approval no. Dean/2023/EC/6084; CTRI No. CTRI/2024/03/063595.
+Conflicts of interest: None declared.
