@@ -10,6 +10,10 @@ pdf_filename: ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Extends the smoking–periodontal harm axis of [[overviews/smoking-tobacco-periodontal-implant-overview]] from active smokers to secondhand exposure, a population the wiki held no evidence on. Where [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] explains the mechanism in smokers, this SR+MA quantifies periodontitis risk (OR 1.47) in people who never smoked — and its cotinine-vs-self-report contrast makes exposure misclassification the methodological lever to watch.
+
 ## Three-line Summary
 
 Systematic review + meta-analysis (14 studies, 115,925 non-smoking adults, search to June 2025) testing whether environmental tobacco smoke (ETS/secondhand smoke) exposure is associated with periodontitis and tooth loss in people who have never smoked themselves.
