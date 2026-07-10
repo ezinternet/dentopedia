@@ -260,6 +260,8 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 - Santana-Mora 2021 n=24 소규모; Ma 2022·2025 단면연구(인과 불명); De Carli 2023 동물 실험(인체 외삽 제한); Zheng 2025 FEA 초록 기반·소규모 하위군(편위 n=9). 모두 [합의수준] 이하.
 - 이명 기제(auriculotemporal nerve 압박, petrotympanic fissure 경유 염증, 신경혈관 변화)는 가설적 — 인과 확인 없음.
 
+**TMD-이명 자체를 깊이 다루는 전용 overview**: [[overviews/tmd-tinnitus-somatosensory-association-overview]] — 이 축의 이명 관련 부분(Ma 2025 편측저작-이명 상관)을 6편(narrative 3·sr 1·sr+ma 2: Ralli 2017·Bousema 2018·Dipalma 2025·Saczuk 2024·Michiels 2023·Dapuzzo 2024)으로 기전·연관성·진단·치료 4축 해상도로 심화. 핵심: Bousema의 정량 메타분석은 전체 근거를 GRADE 낮음으로 판정(narrative-review의 OR 7.3·8배 유병률 수치는 상한선으로 해석 필요), Dapuzzo의 RCT-only 메타분석(OR 0.26)이 가장 견고한 치료 근거.
+
 ## Decision threads
 
 ### Thread A — 보존 치료 단계 (모든 TMD)
