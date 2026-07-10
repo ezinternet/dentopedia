@@ -1,6 +1,6 @@
 ---
 title: "Therapeutic Approach for Trigeminal Neuralgia: A Systematic Review"
-authors: Maaz Asad Khan, Sbinu Jose, Salem Almeslet, Sara Ayid Alghamdi, Sami Aldhuwayhi, et al.
+authors: Muhammad Haseeb Rana, Abdul Ahad Ghaffar Khan, Imran Khalid, Muhammad Ishfaq, Mukhatar Ahmed Javali, Fawaz Abdul Hamid Baig, Mohammad Zahir Kota, Mohasin Abdul Khader, Mohammad Shahul Hameed, Sharaz Shaik, Gotam Das
 year: 2023
 doi: 10.3390/biomedicines11102606
 category: oral-medicine
