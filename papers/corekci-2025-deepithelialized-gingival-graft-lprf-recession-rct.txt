@@ -1,0 +1,132 @@
+Title: Root coverage and patient-reported outcomes of de-epithelialized gingival graft with and without leukocyte platelet-rich fibrin in multiple recession defects: a split-mouth randomized trial
+Authors: Corekci AU, Gursoy C, Cetiner DO, Ayyildiz BG, Cula S
+Journal: Journal of Periodontal & Implant Science, 2025-05-19
+PMID: 40501079
+PMCID: PMC12962815
+DOI: 10.5051/jpis.2404300215
+Source: PubMed Central (retrieved via PubMed MCP get_full_text_article)
+
+ABSTRACT
+
+Purpose
+This study was conducted to compare the clinical efficacy and patient-reported outcomes of de-epithelialized gingival graft (DGG) alone versus DGG combined with leukocyte platelet-rich fibrin (L-PRF) for the treatment of multiple adjacent gingival recessions using a coronally advanced flap technique.
+
+Methods
+In this split-mouth randomized controlled trial, 15 patients with multiple gingival recessions affecting at least 3 adjacent teeth were treated on one side with DGG only (termed the DGG group) and on the contralateral side with DGG and L-PRF (the DGG+PRF group). Clinical parameters—recession depth, recession width, probing depth, clinical attachment level, keratinized tissue width, gingival thickness, and percentage of root coverage (RC%)—were recorded at 1 month, 3 months, and 6 months postoperatively. Patient-reported outcome measures, including Oral Health Impact Profile-14 scores, postoperative pain, bleeding, discomfort, and analgesic consumption, were also assessed.
+
+Results
+At T6, the mean RC% was 93.30%±6.97% in the DGG group and 95.28%±4.99% in the DGG+PRF group, with no statistically significant difference observed. Patients receiving DGG+PRF reported significantly lower discomfort on days 2, 3, and 5 and reduced pain on days 6 and 7 relative to the DGG group.
+
+Conclusions
+Combining L-PRF with DGG achieves root coverage outcomes comparable to DGG alone, while significantly reducing early postoperative discomfort and morbidity.
+
+Trial Registration: ClinicalTrials.gov Identifier NCT06509867 (registered retrospectively)
+
+FULL TEXT
+
+INTRODUCTION
+
+Multiple gingival recessions (GRs) present a significant clinical challenge for achieving complete root coverage and aesthetic success. This difficulty arises from several factors, including the size of the surgical field, reduced keratinized gingiva, shallow vestibular depth, difficulty identifying the cemento-enamel junction (CEJ), and the presence of cervical abrasions and morphological defects, among others. Furthermore, research indicates that when treating multiple GRs, clinicians should consider both the number of surgical procedures and the graft size needed to satisfy patients' aesthetic expectations.
+
+Although the coronally advanced flap (CAF) method is highly effective in the treatment of both localized and multiple GRs, various adjunctive techniques and materials have been employed to increase the percentage of complete root coverage. In particular, CAF combined with subepithelial connective tissue graft (SCTG) remains the gold-standard treatment for isolated GR. A recent network meta-analysis indicated that CAF supplemented with materials such as leukocyte platelet-rich fibrin (L-PRF), enamel matrix derivative, xenogeneic collagen matrix (XCM), acellular dermal matrix, or SCTG achieves higher root coverage percentages than CAF alone. Numerous studies have demonstrated that CAF with SCTG not only yields high root coverage rates but also increases keratinized tissue width (KTW) and thickness, with long-term stability. One study found that although CAF+PRF and CAF+SCTG achieved similar root coverage, SCTG-treated cases required more analgesics and exhibited higher visual analog scale (VAS) scores. Moreover, a meta-analysis reported that L-PRF yielded significantly superior patient-reported outcome (PROs) measures (PROMs), such as pain perception and discomfort, compared with SCTG when used in single and multiple CAF procedures. Consequently, PRF products have emerged as an alternative to SCTG, especially in multiple recession treatment. While PRF application has yielded clinical outcomes comparable to those of the vestibular incision subperiosteal tunneling approach (VISTA), it is also associated with a substantial reduction in VAS scores.
+
+Platelets are rich in cytokines and growth factors—including platelet-derived growth factor-AB, transforming growth factor-β1, and vascular endothelial growth factor—that drive bone regeneration and soft tissue maturation by stimulating cell proliferation, matrix remodeling, and angiogenesis. Consequently, L-PRF has become a common adjunct in periodontal plastic surgery. However, its application for multiple recessions remains a topic of debate, since although L-PRF yields root coverage percentages comparable to those achieved with CAF+SCTG, its impact on KTW is fairly limited.
+
+PROMs are defined as instruments that capture a patient's health status directly from the patient. Multiple studies have assessed postoperative discomfort and morbidity following periodontal plastic surgery using a VAS. The Oral Health Impact Profile-14 (OHIP-14) measures the negative impact of oral health conditions—affecting teeth, the mouth, or prostheses—on physical, psychological, and social well-being. However, very few studies have applied the OHIP-14 to evaluate PROs after periodontal plastic surgery.
+
+The null hypothesis of this study is that, in the CAF-based treatment of multiple GRs, no difference in clinical outcomes or PROs is present between de-epithelialized gingival graft (DGG) with L-PRF and DGG alone. The objectives of this study are 1) to compare the clinical efficacy of CAF combined with DGG versus CAF combined with DGG and L-PRF in multiple recession defects, and 2) to evaluate PROs following these treatments.
+
+MATERIALS AND METHODS
+
+Study design
+This investigation was a single-blinded, split-mouth, randomized controlled trial conducted in accordance with the CONSORT statement. The Clinical Research Ethics Committee of Gazi University Faculty of Dentistry approved the protocol (20/12/2018; Protocol No. E.4712136290600/110), and the Ministry of Health Stem Cell Transplants Scientific Board granted approval (Number: 56733164/203; 04/07/2019). All procedures fully complied with the Declaration of Helsinki of 1975, as revised in 2013, and each participant received a full explanation before providing informed consent. Between May 2019 and April 2021, a total of 15 patients presenting with GR and sensitivity, referred to the Department of Periodontology at Gazi University Faculty of Dentistry, were enrolled. The study was registered at ClinicalTrials.gov retrospectively.
+
+Eligibility criteria
+Inclusion (participant): age >18 years; systemically healthy and non-smoker; full-mouth plaque index (PI) and gingival index (GI) scores <20%; no previous mucogingival surgery in the operative area; no active periodontal disease; no history of orthodontic treatment.
+Exclusion: pregnancy or lactation; bruxism or occlusal trauma; medical contraindications for periodontal plastic surgery (e.g. mental disorders); current medication use.
+Inclusion (surgical site): presence of at least 3 single-rooted anterior or premolar teeth (RT1 class) with buccal GR defects ≥2 mm in depth; KTW <3 mm; adequate oral hygiene (BOP <10%, PD <3 mm); no restorations/fillings in the recession area; absence of non-carious cervical lesions or of a clearly identifiable CEJ at defect sites.
+
+Study groups, randomization, and allocation
+The 15 patients each received 2 surgical interventions: CAF with DGG (DGG group; n=15) and CAF with DGG and L-PRF (DGG+PRF group; n=15). Within each patient, one side of the mouth was randomly assigned to one of the two treatments using a computer program. Opaque, sealed envelopes labeled "DGG" or "DGG+PRF" were prepared in advance. In this split-mouth design, the surgical treatment assignment was recorded by an assistant. After recipient site preparation, the envelope was immediately opened, and the treatment was conveyed to the operator (A.U.C.). Six weeks after the first procedure, the contralateral site received the alternate treatment. All clinical measurements were taken and recorded by a blinded researcher (C.G.), unaware of treatment assignments. Intra-examiner calibration (5 additional GR patients, examined twice 1 week apart) yielded a reliability coefficient of 0.91.
+
+Sample size
+With DGG and DGG+PRF analyzed as dependent samples and variables assumed normally distributed, for an effect size of 0.455, 15 patients per group were required to achieve 80% power at α=0.05.
+
+Clinical measurements
+Prior to surgery, all patients underwent phase I periodontal therapy (scaling and root planing, oral hygiene instruction). Four weeks after this treatment, full-mouth PI, GI, PD, CAL, and BOP were recorded. Acrylic stents (notched at mesiobuccal, midbuccal, distobuccal points) standardized measurements, taken with a Williams periodontal probe. Periodontal parameters were assessed at baseline (T0) and 1 month (T1), 3 months (T3), 6 months (T6) postoperatively:
+- CAL: mean distobuccal/midbuccal/mesiobuccal distance CEJ to base of sulcus.
+- Recession depth (RD): midbuccal vertical distance CEJ to gingival margin.
+- Recession width (RW): baseline horizontal distance between gingival margins at CEJ level.
+- Gingival thickness (GT): midbuccal, 3 mm apical to gingival margin, #20 endodontic spreader with silicone stopper + digital caliper.
+- KTW: free gingival margin to mucogingival junction, midbuccal.
+- RC% = [(Preoperative RD − Postoperative RD) / Preoperative RD] × 100.
+
+PROMs
+Turkish OHIP-14 administered preoperatively and at 14 days (T14), 3 months (T3), 6 months (T6). Patients recorded analgesic tablets consumed. Pain, bleeding, discomfort assessed daily for the first postoperative week and again on day 14 via VAS. Palatal periodontal dressing placed in both groups to minimize donor-site pain; patients informed the recipient area would be emphasized in PRO evaluation.
+
+Primary/secondary outcomes
+Primary: RC%. Secondary: mean RD, RW, CAL, KTW, GT at 6 months; postoperative PROMs.
+
+Surgical procedures
+Phase I therapy prior to surgery. Local anesthesia: articaine (Ultracain DS Forte) with 1:100,000 epinephrine at recession site and palatal donor area. 6-week healing interval between contralateral sites.
+
+Recipient site preparation: CAF technique per Zucchelli et al. Envelope-style flaps without vertical incisions. Intrasulcular incision (#15c blade) on buccal aspect; curved oblique incisions through interproximal papillae connecting to intrasulcular incisions, extending from CEJ of central tooth to deepest recession point of adjacent teeth. Full-thickness flap elevated to expose ≥3 mm marginal bone apical to dehiscence.
+
+L-PRF preparation: 24-gauge butterfly needle, two 9-mL venous blood collection tubes (Vacuette), no anticoagulant, centrifuged 2700 rpm × 12 min. Clot retrieved with specialized press, separated from red-blood-cell-rich portion; compressed 2 min into PRF membranes ("PRF BOX", Process, Nice, France). Membranes placed over the DGG before flap closure and suturing.
+
+DGG placement: palatal donor incision 2 mm apical to CEJ, extending distally to mesial border of first molar; thick free gingival graft (including epithelium) harvested with #15c blade, placed in saline; donor-site hemostasis via saline gauze pressure. Epithelial layer excised on a saline-moistened gauze pad with a fresh #15c blade to complete de-epithelialization. Palatal donor area covered with periodontal dressing. DGG secured coronal to CEJ with simple 5-0 resorbable sutures (Pegalak); flap advanced coronally and closed with vertical double-crossed suture technique.
+
+DGG+PRF: PRF membranes stacked in a 3-layer configuration above and below the DGG (facing the graft bed and the half-thickness flap surface), positioned in the recession area without extraoral suturing; combined graft secured at coronal CEJ level with simple 5-0 resorbable sutures; flap coronally advanced to cover the membrane, closed with vertical double-crossed suture technique.
+
+Postoperative care: verbal + written instructions; protect surgical site from trauma; soft diet especially first week; avoid brushing surgical site until suture removal; 0.12% chlorhexidine gluconate rinse 3×/day after meals; up to three 400 mg ibuprofen tablets/day for pain, tablet count recorded.
+
+Statistical analysis: SPSS v20.0. Continuous variables (PD, CAL, RD, KTW, GT) as mean±SD; categorical as counts/percentages. Kruskal-Wallis for between-group comparisons at each time point; Wilcoxon signed-rank for within-group comparisons over time. p<0.05 significant.
+
+RESULTS
+
+Fifteen patients (4 women, 11 men) enrolled. DGG group: 47 teeth; DGG+PRF group: 48 teeth. All patients had uneventful postoperative recoveries; none excluded.
+
+Surgical area outcomes
+DGG group mean RC%: 98.79%±2.12% (T1), 94.72%±5.98% (T3), 93.30%±6.97% (T6).
+DGG+PRF group mean RC%: 98.99%±1.62% (T1), 97.80%±3.07% (T3), 95.28%±4.99% (T6).
+RC% improved significantly from baseline in both groups; NO statistically significant difference in RC% between groups at any time point (p>0.05).
+GT and KTW: significant intra-group increases from T0 to all postoperative time points in both groups; no significant between-group differences in GT, KTW, RD, RW, or RC% at any time point (p>0.05).
+RD and RW decreased significantly from baseline to T1, T3, T6 within each group (p<0.05).
+
+Table 1 (Recession clinical parameters, within/between groups):
+RC%: DGG T1 98.79±2.12, T3 94.72±5.98, T6 93.30±6.97 (T0-T6 p=0.000); DGG+PRF T1 98.99±1.62, T3 97.80±3.07, T6 95.28±4.99 (T0-T6 p=0.000); between-group p: T1 0.774, T3 0.087, T6 0.382 (all NS).
+RD (mm): DGG T0 3.10±0.39 → T6 0.58±0.40; DGG+PRF T0 3.07±0.48 → T6 0.47±0.31; between-group p all NS (T6 p=0.401).
+RW (mm): DGG T0 2.35±0.27 → T6 0.65±0.39; DGG+PRF T0 2.38±0.37 → T6 0.48±0.38; between-group p all NS (T6 p=0.236).
+GT (mm): DGG T0 2.02±0.51 → T6 3.68±0.31; DGG+PRF T0 1.95±0.49 → T6 3.56±0.36; between-group p all NS.
+KTW (mm): DGG T0 2.69±0.25 → T6 4.18±0.39; DGG+PRF T0 2.61±0.21 → T6 4.22±0.33; between-group p all NS.
+
+Clinical outcomes (Table 2)
+No significant between-group differences in PI, GI, BOP, PD, or CAL at baseline or any postoperative time point (p>0.05).
+Intra-group: PI decreased significantly by 3 and 6 months (not 1 month) in both groups. GI fell significantly by 1 month in both groups; at 3 months reduction remained significant only in DGG; at T0-T6 significant only in DGG+PRF. BOP increased significantly at 1 month in both groups, then declined significantly at 3 and 6 months. PD: DGG significant reductions at 1 and 6 months; DGG+PRF at 1 and 3 months; overall T0-T6 change not significant in either group. CAL decreased significantly at every postoperative time point through 6 months in both groups (p<0.05).
+
+PROMs
+OHIP-14: at baseline, functional limitations and physical pain subscales differed significantly between groups; no significant between-group differences at T0 in psychological discomfort, physical disability, social disability, psychological disability, or handicap subscales. No significant OHIP-14 subscale differences were found overall between groups across follow-up.
+
+VAS pain/bleeding/discomfort/analgesic use: Both groups showed progressive pain reduction from day 1 to day 14. DGG+PRF group reported SIGNIFICANTLY LESS PAIN than DGG group on days 6 and 7 (p<0.05). Bleeding scores did not differ significantly between groups. DISCOMFORT significantly greater in DGG group than DGG+PRF group on days 2, 3, and 5 (p<0.05); no significant intergroup differences on days 1, 4, 6, 7, 14. Analgesic consumption decreased through day 6 then rose on day 7; no significant differences in analgesic use between groups at any time point.
+
+DISCUSSION
+
+This study compared CAF+DGG with or without PRF in patients with multiple GRs. The null hypothesis was accepted: no differences in the primary outcome (RC%) or in clinical outcomes and PROs between DGG alone and DGG+PRF.
+
+DGG is a viable option for treating multiple GRs at sites with insufficient palatal fibromucosal thickness. Compared to SCTG, DGG has a thicker, denser, more stable architecture due to higher fibrous connective tissue content. When RC% is the primary outcome, DGG, PRF, XCM, or T-PRF applications achieve results comparable to SCTG; however DGG, XCM, and PRF also produce significantly better GT and KTW results in some studies. Some research suggests superior root coverage with DGG versus SCTG but no significant KTW/GT differences between PRF and DGG. In this study, although DGG+PRF displayed higher mean values for RC%, RW, and RD, these differences did not reach statistical significance, nor did KTW/GT.
+
+A systematic review demonstrated CAF+SCTG significantly enhances clinical attachment gain at 6 months. In a study comparing DGG and SCTG via tunnel technique, no significant PD/CAL/PI/GI differences at 12 months. With T-PRF, PD/GI/PI did not differ between groups, though SCTG showed significantly greater CAL gain at 6 months. In this study, both groups showed intra-group improvements in PI, GI, PD, BOP, CAL, but no significant intergroup differences — the absence of a significant CAL difference versus some prior findings may reflect the variety of adjunctive biomaterials/techniques across the literature.
+
+Morbidity/QoL literature: female sex, flap extension, periodontal dressing use significantly influenced OHIP-14 scores; >25% of patients experienced postoperative bleeding, edema, dysphagia, discomfort speaking. PROMs did not differ significantly between CAF alone and CAF+XCM in one report. In multiple-GR treatment, XCM yielded lower VAS scores, shorter surgical time, faster recovery vs SCTG. Periodontal dressings reduce pain and improve postoperative comfort. A meta-analysis comparing SCTG and PRF for GR reported significantly lower pain perception and discomfort in the PRF group. Injectable PRF (i-PRF) with SCTG and CAF reduced VAS pain scores.
+
+In the present study, the palatal donor area healed secondarily under a periodontal dressing to avoid confounding PRO measurements. No significant OHIP-14 subscale differences were found. However VAS pain scores were significantly higher in DGG on days 6-7, and VAS discomfort significantly greater on days 2, 3, 5, versus DGG+PRF. Analgesic consumption did not differ significantly at any time point. These findings indicate adjunctive L-PRF reduces early postoperative discomfort/morbidity at the recipient site. The absence of OHIP-14 differences may reflect its administration schedule (preoperative, day 14, months 1/3/6) potentially missing early postoperative changes. Overall, L-PRF with DGG in multiple recession treatment appears to confer an advantage in discomfort and pain, not root coverage.
+
+Mechanistic discussion: PRF fibrin disintegration during healing releases embedded cytokines; PRF inhibits epithelial cells and induces proliferation of periodontal ligament cells, gingival fibroblasts, osteoblasts. By suppressing epithelial proliferation, PRF may prevent junctional epithelium extension toward root surfaces, facilitating new attachment formation after root coverage. Histological evaluation of CAF+PRF in GR treatment has shown favorable epithelial integration with recipient tissues. Two PRF+SCTG placement strategies reported (covering entire SCTG, vs placing PRF near periosteum surface of SCTG). Multilayer PRF configurations have shown promise (additional layers improving root surface closure; 3-layer tunnel-technique approach; 2-layer graft including PRF+SCTG). This study used a 3-layer PRF configuration (beneath and above DGG) to fully envelop the graft and approximate the periosteum. Although clinical outcomes did not differ significantly between groups, this 3-layer approach conferred significant PRO benefits.
+
+Other platelet-concentrate literature: SCTG+PRF significantly increased gingival tissue thickness though root coverage was comparable to SCTG alone. A meta-analysis comparing concentrated growth factor (CGF) and PRF found CGF produced greater PD/CAL/KTW/RW improvements while PRF was superior for RD, GT, and complete/mean RC. CAF+SCTG+i-PRF vs CAF+SCTG: i-PRF group had significantly greater keratinized tissue height and reduced RD, similar RC. L-PRF vs advanced-PRF with CAF: higher KTW for L-PRF at 3 months but no significant differences at 6 months. Despite absence of significant RC difference relative to SCTG across the literature, thrombocyte concentrates can significantly improve KTW/GT and reduce postoperative discomfort in various studies; in this study, though no clinically significant differences were observed with adjunctive L-PRF+DGG for multiple GR, the approach showed promise for early postoperative pain/discomfort.
+
+Limitations: graft dimensions and palatal mucosal thickness not recorded (GR defects were highly similar); PRF membrane thickness affects total graft thickness, tissue nutrition, flap perfusion; status of terminal teeth adjacent to surgical site (known to affect wound healing) not recorded/assessed; OHIP-14 quality-of-life measures not collected in the early postoperative period.
+
+CONCLUSION
+
+Within the limitations of this study, no clinically significant differences were observed between DGG alone and DGG combined with L-PRF in the management of multiple GRs. However, adjunctive L-PRF was associated with reduced early postoperative discomfort and morbidity at the recipient site. Future studies should further examine the recovery process to clarify long-term stability.
