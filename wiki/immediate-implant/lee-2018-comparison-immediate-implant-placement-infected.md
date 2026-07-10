@@ -14,7 +14,7 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-comparison-immediate-implant
 pdf_filename: lee-2018-comparison-immediate-implant-placement-infected.pdf
 text_path: /Users/oracleneo/llm-wiki/papers/lee-2018-comparison-immediate-implant-placement-infected.txt
 text_filename: lee-2018-comparison-immediate-implant-placement-infected.txt
-superseded_by: saijeva-2020-immediate-implant-placement-non-infected-sockets
+superseded_by: pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma
 superseded_scope: partial
 tags: [infected-socket, immediate-implant, WKG, keratinized-gingiva, Seoul-National-University, Korea]
 relations:
@@ -22,8 +22,8 @@ relations:
     target: saijeva-2020-immediate-implant-placement-non-infected-sockets
 ---
 
-> [!note] Partially superseded → [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]]
-> Saijeva 2020 SR+MA (9 studies, n=2281, time-stratified analysis) extends this foundation with broader scope. Lee 2018 retains value as the first Korean-authored SR+MA and for its explicit WKG clinical emphasis. (set 2026-07-05)
+> [!note] Partially superseded → [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
+> Chain: Lee 2018 → [[immediate-implant/saijeva-2020-immediate-implant-placement-non-infected-sockets]] (9 studies, n=2281, time-stratified) → Pranckevičienė 2024 SR+MA, the current chain tail. The pointer now names the tail rather than the intermediate page. Lee 2018 retains value as the first Korean-authored SR+MA on this question and for its explicit WKG clinical emphasis. (set 2026-07-05; pointer retargeted to chain tail 2026-07-10)
 
 ## Three-line Summary
 
