@@ -1449,6 +1449,8 @@ tags: []
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]] — 서사 리뷰(1999): OAF 폐쇄 피판 술식 전반(협측·구개·설·측두근·동종이식) + 결손 크기별 4단계 프로토콜; 급성 1차 성공률 ~95% vs 만성 2차 최저 67% (DOI 10.1016/S1043-1810(99)80037-2)
 - [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — Shandilya 2025 · 전향적(n=132, 구강 SCC 절제+경부청소술): 수술 후 창상 오염률 55% → 생리식염수 세정 후 7.6%로 유의 감소(p<0.001); 신경주위침윤(PNI)만 오염 예측인자(p=0.037); 기계적 세정만으로 이식전이 위험 실질적 감소
 - [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — 후향적(n=287, 정악교정수술, Tel-Aviv): 삼차신경 감각이상 5.9%(17건, 88.2% 하악); LLLT 호전율 75% vs 무치료 33%, 스테로이드·비타민B 병용에도 완전회복 드묾 — 표준 프로토콜 부재 재확인
+- [[oral-surgery/rink-notzon-2022-trigeminal-sensory-supply-essential-motor]] — Rink-Notzon 2022 · animal (Wistar rat 안면신경 절단·재건 모델): 삼차신경 (Trigeminal Nerve, CN V) 감각입력 강화(진동모 자극·수기 whisker-pad 자극)가 안면신경 (Facial Nerve, CN VII) 운동회복의 표적 재신경지배 특이도와 휘스킹 기능을 개선 — 회복 불량의 3원인(축삭 항행 오류·과잉 측부분지, 축삭 간 crosstalk, 축삭절단 운동신경세포로의 시냅스 입력 부족)에 대해 도관·약물이 아닌 **감각자극** 레버를 제시. 랫트 한정 — 인체 안면마비 임상근거 아님 (DOI 10.3390/ijms232315101)
+- [[oral-surgery/zheng-2025-dental-pulp-stem-cells-alleviate]] — Zheng 2025 · animal (게잡이원숭이 신경도관 + 랫드 FNI 모델 + in vitro): 치수줄기세포 (Dental Pulp Stem Cells, DPSC)가 터널링 나노튜브 (Tunneling Nanotube, TNT)로 미토콘드리아를 슈반세포에 전달해 파이롭토시스·미토콘드리아 활성산소종 (Reactive Oxygen Species, ROS)을 억제 → 안면신경 재생·수초 회복 촉진; 세포간 접합 또는 미토콘드리아 기능 차단 시 효과 소실, TNFα 전처리 DPSC는 효능 증대. 전임상 단계 — 임상 적용 아님 (DOI 10.1016/j.bioactmat.2025.01.031)
 
 ## 레진 (Resin)
 - [[resin/ferracane-2024-historical-perspective-dental-composite-restorative]] — Ferracane 발달사 리뷰(J Funct Biomater 2024, PMC): 복합레진 진화 연대기 — 실리케이트·PMMA → Bowen Bis-GMA(1962)·Buonocore 산부식 → 화학→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill → bioactive·self-healing; 아말감을 복합레진이 대체해온 구치부 재료로 위치
@@ -1707,6 +1709,7 @@ tags: []
 - [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — Kim YJ 2023 · narrative-review (IJMS, 서울대 치대): 침 분비 세포 기전 GPCR(M3 mAChR)→IP3R→SOCE→AQP5 Ca²⁺ 축; 구강건조 유병률 10~50%(여성 30%·고령 50%↑), AQP5-KO 60%↓, FDA 완치약 없음 — 구강건조 mechanism anchor (DOI 10.3390/ijms24065358)
 - [[oral-medicine/alhejoury-2021-artificial-saliva-xerostomia-narrative-review]] — Alhejoury 2021 · narrative-review · 인공타액·타액자극제 실무 카탈로그: pilocarpine/cevimeline/anetholetrithione·전기자극기·타액펌프 등 xerostomia/SGH 대증요법 옵션 정리 (DOI 10.4103/jpbs.jpbs_236_21)
 - [[oral-medicine/sardellitti-2023-xerostomia-pharmacological-traditional-medicine-overview]] — Sardellitti 2023 · narrative-review · 10년(2012–2021) xerostomia 전신치료 개관: amifostine/항산화제·부교감흥분제·Sjögren 생물학적제제 모두 근거 약함·부작용 큼, 전통의학도 임상시험 부족해 검증 불가 — "임상 공백" 결론 (DOI 10.3390/curroncol30050336)
+- [[oral-medicine/villegas-diaz-2024-trigeminal-neuralgia-therapeutic-strategies-restore]] — Villegas Díaz 2024 · narrative-review (J Oral Facial Pain Headache): 삼차신경통 (Trigeminal Neuralgia, TN) 치료전략 개관 — 1차 약물 카르바마제핀 (Carbamazepine) 100–1200 mg/day, 미세혈관감압술 (Microvascular Decompression, MVD) 성공률 92.7%·재발 ~2%/년 vs 고주파 근절제술 5년 재발 42%. 100% 유효한 치료는 없음. [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]]의 SR 기반 1차약 사다리를 서사적으로 보강하며, 치과의사의 치성통증 감별 역할을 강조 (DOI 10.22514/jofph.2024.024)
 
 ### Oral Medicine · Normal Variants (구강내과·정상변이병소)
 
@@ -1718,6 +1721,8 @@ tags: []
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — Narrative review: NKCC1/KCC2 음이온 수송체가 GABA-A·glycine 억제를 좌우; 탈억제(disinhibition)성 통각과민·이질통 기전 — topical clonazepam 근거 (2009)
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — Narrative review: 말초 DRG nociceptor의 높은 세포내 Cl⁻ → Cl⁻ 통로 활성화가 흥분성으로 작용; anoctamin-1 등 통로 repertoire (2020)
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — Animal(rat) in vivo+in vitro: 5α-환원 신경스테로이드 말초진통은 주로 T-type Ca²⁺ 차단; GABA-A는 증폭 역할 — 폐경 BMS 신경스테로이드 가설 접점 (2005)
+- [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — Kim 2024 · narrative-review (Int J Mol Sci): 삼차신경 감각계(삼차신경절 TG·중뇌핵 Me5·주감각핵 Pr5·척수핵 Sp5·부삼차핵 Pa5) 해부·시냅스전달 통합 리뷰 + 4대 구강안면통증(신경병증성통증·삼차신경통·두통·구강작열감증후군 BMS)의 공통 중추감작 기전(Sp5C→Sp5O NMDA/mGluR 의존 LTP, wind-up) — 위키의 개별 이온통로 페이지들을 계통 수준으로 묶는 앵커 (DOI 10.3390/ijms252011306)
+- [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — Korczeniewska 2022 · narrative-review (Biomolecules): 외상후 삼차신경병증성 통증 (Post-Traumatic Trigeminal Neuropathic Pain, PTNP)의 **말초** 병태생리 — 케모카인·이온통로·위성신경교세포 (Satellite Glial Cell)·옥시토신·microRNA. 중추 기전은 복잡성을 이유로 저자가 명시적으로 범위에서 제외(핵심 한계). [[overviews/trigeminal-neuralgia-neuropathy-overview]]가 임상적으로만 다루던 PTTN에 기전 층을 공급 (DOI 10.3390/biom12121753)
 
 ## 악관절·구강안면통증 (TMJ)
 - [[tmj/valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma]] — Valenzuela-Fuenzalida 2026 · sr+ma · 32 RCT(1247명): 관절천자가 다른 치료 대비 통증·MMO·MIO 우월성 없음(VAS p=0.55), 근거 매우 낮음
@@ -2542,6 +2547,7 @@ tags: []
 - [[local-anesthesia/filo-2015-frequency-anatomy-retromolar-canal-implications]] — Filo 2015 (Swiss Dent J 125:278) · retrospective · CBCT 680건(하악 1,340측): 후구치관(RMC) 16.12%에서 관찰, 부가신경섬유 포함 — IANB 실패·수술손상 위험 구조. (abstract-only)
 - [[local-anesthesia/malamed-2011-mandibular-nerve-block-passe]] — Malamed 2011 (JADA 142 Suppl3:3S) · narrative-review · JADA supplement 서론: IANB 실패 다인성(피질골 두께·연조직 두께/바늘편향·신경위치난이도·부가신경), 측절치 실패율 81% 인용. (abstract-only)
 - [[local-anesthesia/haas-2011-alternative-mandibular-nerve-block-techniques]] — Haas 2011 (JADA 142 Suppl3:8S) · narrative-review · Gow-Gates·Akinosi-Vazirani 대안기법 리뷰: 해부학적 변이·부가신경 지배로 IANB 실패 이력 환자에 특히 유용. (abstract-only)
+- [[local-anesthesia/ghafoor-2023-neurological-complications-local-anesthesia-dentistry]] — Ghafoor 2023 · narrative-review (Cureus, 체계적 검색 없음): 치과 국소마취의 신경학적 합병증을 신경별로 정리 — 안신경(복시 Diplopia·안검하수·안구마비·실명), 상악신경, 하악신경(감각이상 Paresthesia·개구장애 Trismus), 안면신경 (Facial Nerve, CN VII) 마비. 위키에 없던 CN VII·안구 합병증 경로를 채움. 발생률 추정치가 아닌 **기전·인식 자료**로만 사용할 것(근거등급 낮음) (DOI 10.7759/cureus.50790)
 
 ### drug (added 2026-06-03, batch h — metronidazole·알코올 disulfiram)
 
