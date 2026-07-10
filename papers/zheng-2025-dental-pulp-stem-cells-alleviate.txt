@@ -1,0 +1,116 @@
+Title: Dental pulp stem cells alleviate Schwann cell pyroptosis via mitochondrial transfer to enhance facial nerve regeneration
+
+Authors: Xiaoyu Zheng, Juan Wang, Heng Zhou, Ying Chai, Ziwei Li, Minjie Chen, Zihan Yang, Chun Xu, Chang Lei, Yan He, Duohong Zou, Qingsong Ye
+Journal: Bioactive Materials, 2025;47:313-326
+DOI: 10.1016/j.bioactmat.2025.01.031
+PMID: 40026822
+PMCID: PMC11869962
+Source: PubMed Central full text (get_full_text_article)
+
+## Abstract
+
+Dental pulp stem cells (DPSCs) have demonstrated remarkable potential in enhancing peripheral nerve regeneration, though the precise mechanisms remain largely unknown. This study investigates how DPSCs alleviate Schwann cell pyroptosis and restore mitochondrial homeostasis through intercellular mitochondrial transfer. In a crab-eating macaque model, we first observed that DPSC-loaded nerve conduits significantly promoted long-term nerve regeneration, facilitating tissue proliferation and myelin recovery. We further established a rat facial nerve injury (FNI) model and found that DPSC treatment reduced pyroptosis and mitochondrial ROS production in Schwann cells. A pivotal mitochondrial protective mechanism, resembling the effects of a ROS-targeted inhibitor, involved the transfer of mitochondria from DPSCs to pyroptosis-induced Schwann cells via tunneling nanotubes, while blocking intercellular junctions or mitochondrial function diminished the therapeutic effects. TNFα secreted by pyroptosis-induced Schwann cells activated the NF-κB pathway in DPSCs, enhancing mitochondrial transfer and adaptive stress responses, thereby promoting mitochondrial protection against pyroptosis in Schwann cells, as reflected in the improved therapeutic efficacy of TNFα-preconditioned DPSCs in the FNI model. These findings unveil a mechanism through which DPSCs foster nerve regeneration via mitochondrial transfer, presenting a promising strategy for enhancing stem cell-based therapies for nerve injuries.
+
+Highlights:
+- Dental pulp stem cells (DPSCs) alleviate Schwann cell pyroptosis through mitochondrial transfer.
+- Mitochondrial transfer restores mitochondrial homeostasis and reduces oxidative stress.
+- TNFα signaling enhances DPSC-mediated mitochondrial biogenesis and transfer via the NF-κB pathway.
+- TNFα-preconditioned DPSCs improve facial nerve regeneration in animal models.
+
+## 1. Introduction
+
+Peripheral nerve injuries (PNIs), unlike central nervous system lesions, exhibit a remarkable capacity for repair, a process that is primarily supported by the activity of Schwann cells. Schwann cells, integral to the peripheral nervous system, not only form the myelin sheath around axons but also guide the regrowth of damaged axons by establishing regeneration pathways after injury. In addition, Schwann cells rapidly clear debris from the injury site, such as degenerated myelin, and create a pro-regenerative environment by secreting neurotrophic factors. This regenerative capacity, particularly evident in smaller nerve injuries, highlights the indispensable role of Schwann cells in the regenerative process. The survival and functional restoration of Schwann cells are, therefore, critical to successful nerve regeneration following PNIs. However, despite this inherent regenerative potential, peripheral nerve damage remains a significant clinical challenge due to its high incidence, especially in cases where large-scale Schwann cell loss occurs, resulting in severe functional impairments.
+
+Recent advancements in neural regenerative medicine have highlighted the therapeutic potential of stem cell-based approaches, with DPSCs offering notable advantages such as ease of accessibility, multipotent differentiation capacity, low immunogenicity, pro-angiogenic properties, and strong anti-inflammatory and antioxidant effects. In particular, DPSCs show great promise in nerve repair, possibly due to their neural crest origin, a shared developmental lineage with both the central and peripheral nervous systems, which may contribute to their unique regenerative efficacy. While compelling evidence supports the therapeutic potential of DPSCs in promoting peripheral nerve recovery, our research group further corroborated these findings through validation in a crab-eating macaque model. Given our observation that DPSCs do not persist long-term at the injury site, it is likely that their contribution to nerve repair is not primarily through direct differentiation into Schwann cells, but rather through protective effects on resident cells via certain paracrine mechanisms. Despite these promising results, the specific intracellular targets responsible for the regenerative effects of DPSC therapy remain unclear, warranting further mechanistic studies to fully elucidate their role in nerve regeneration.
+
+Studies have shown that Schwann cells, as we have emphasized their critical role, are vulnerable to pyroptosis, an inflammatory form of programmed cell death, that has been identified in previous studies as a significant mode of Schwann cell death following peripheral nerve injury. Characterized by the activation of Caspase-1 and the NLRP3 inflammasome, pyroptosis triggers the release of pro-inflammatory cytokines such as IL1β, which amplifies local inflammation and exacerbates nerve damage. Pyroptosis is detrimental to nerve regeneration as it depletes Schwann cells, disrupts the clearance of myelin debris, and impairs the secretion of neurotrophic factors necessary for axonal regrowth. While the inter-sprout distance is a critical factor in nerve regeneration, the inflammatory milieu exacerbated by pyroptosis presents a significant impediment, as it disrupts the regenerative microenvironment essential for recovery. Mitochondrial dysfunction has been identified as a key contributor to the onset of pyroptosis. The accumulation of mitochondrial reactive oxygen species (ROS) and the disruption of mitochondrial membrane potential are closely associated with NLRP3 inflammasome activation, driving pyroptosis. Although stem cell therapy exerts its effects by modulating the microenvironment through paracrine signaling, this mechanism alone may be insufficient to adequately address mitochondrial dysfunction.
+
+Mitochondrial transfer has recently emerged as a therapeutic approach, demonstrating the ability to rapidly restore bioenergetic homeostasis in damaged cells. This process has shown significant potential in treating a variety of diseases, including cardiovascular disorders, acute lung injury, and neurodegenerative conditions such as Parkinson's disease. Stem cells, in particular, have the unique capacity to transfer functional mitochondria to injured cells through tunneling nanotubes (TNTs). This intercellular transfer has been shown to rescue mitochondrial function, restore aerobic metabolism, and mitigate cell death. Inflammatory signals present at the injury site can further promote mitochondrial biogenesis and TNT formation in stem cells, enhancing their therapeutic efficacy in mitochondrial transfer. Despite these promising findings, it remains unclear whether mitochondrial transfer occurs specifically between DPSCs and Schwann cells, and whether this transfer can mitigate mitochondrial dysfunction and pyroptosis in Schwann cells following peripheral nerve injury.
+
+In this study, we aim to explore the mechanisms by which DPSCs promote Schwann cell survival and facilitate myelin regeneration in both a crab-eating macaque model of facial nerve transection and a rat model of FNI. Our results demonstrated that DPSCs provide mitochondrial protection to pyroptosis-induced Schwann cells, reducing mitochondrial ROS, restoring mitochondrial membrane potential, and enhancing mitochondrial biogenesis and function. Specifically, we investigated the mechanisms underlying mitochondrial transfer from DPSCs to pyroptosis-induced Schwann cells, while also examining the role of TNFα signaling in facilitating this transfer and enhancing mitochondrial adaptive stress responses in DPSCs. Our findings are expected to provide novel insights into the therapeutic potential of DPSCs for peripheral nerve regeneration via intercellular mitochondrial transfer, offering a promising strategy to optimize stem cell-based therapies for nerve injuries.
+
+## 2. Materials and methods
+
+### 2.1 Establishment of a facial nerve transection model in crab-eating macaques
+
+The commercial Neurolac® nerve guides and hDPSCs were obtained from Polyganics B.V., Groningen, The Netherlands, and Youtooth, Shanghai, China, respectively. The main component of Neurolac® nerve guides is poly (DL-lactide-co-caprolactone), manufactured by ring-opening polymerization of ε-caprolactone and lactide. All experiments related to the crab-eating macaque model were approved by the Ethics Research Committee of the Shanghai Ninth People's Hospital (Approval Nos. 2021-A030-01 and PL21-0613). Twelve adult macaques were randomly divided into three groups: Neurolac®, autologous nerve transplantation (Autograft), and DPSCs@Neurolac®. Facial nerves were surgically excised, creating a 5 mm defect, followed by implantation of either a nerve conduit or autologous graft. DPSCs were cultured and injected into the proximal part of the nerve conduit at a density of 7.5 × 10⁷ cells/mL. After 12 months, animals were sacrificed and facial nerve tissues harvested for H&E staining, immunohistochemistry (IHC), and TEM to assess myelination and axonal regeneration. Myoelectrical activity was recorded using an electrophysiological system (RM6240, China). A 10 mV electrical stimulus was applied to the gastrocnemius muscle proximal to the injured nerve, and compound muscle action potentials (CMAPs) were recorded and analyzed.
+
+### 2.2 Establishment of a rat FNI model
+
+All rat experiments were conducted in accordance with the guidelines approved by the Institutional Animal Care and Use Committee (IACUC) of Wuhan Beisai Model Biotechnology (Approval Nos. 2024-04-12D and 2024-09-04A). Sixteen male Sprague-Dawley (SD) rats, weighing 200–250 g, were randomly allocated into two groups: the FNI group and the DPSC-treated group. Randomization was performed using a random number table. In the FNI group, a sham operation was performed on the right side, while the left side underwent facial nerve injury. In the DPSC-treated group, bilateral facial nerve injury was induced, with the right side treated with human DPSCs and the left side receiving TNFα-preconditioned DPSCs (20 ng/mL for 12 h). Both sides of each rat were observed and evaluated independently.
+
+The FNI model was established under general anesthesia using isoflurane. The facial nerve was exposed via a postauricular incision under sterile conditions, and uniform pressure was applied to the facial nerve trunk using hemostatic forceps for 45 s. Immediately following the injury, a 10 μL suspension of DPSCs (5 × 10⁵ cells) was injected at the injury site in the DPSC-treated group.
+
+### 2.3 Facial nerve functional assessment
+
+Facial nerve function was evaluated on postoperative days 3, 7, 14, 21, and 42 using three key indicators: blink reflex, whisker movement, and facial symmetry. Scoring was performed by three independent evaluators (double-blind design).
+
+### 2.4 Isolation and culture of DPSCs
+
+Third molars were obtained as discarded biological samples from Renmin Hospital of Wuhan University, with institutional ethics approval. DPSCs were isolated from dental pulp tissues and digested with collagenase type I and dispase. Cells from passages 3–6 were used for experiments; multilineage differentiation (osteogenic, adipogenic, chondrogenic) was confirmed.
+
+### 2.5 Transmission electron microscopy (TEM)
+
+Fourteen days after facial nerve injury, tissues were harvested, fixed, and processed for TEM. Myelin thickness and G-ratio (axon diameter/total fiber diameter) were analyzed using MyelTracer software.
+
+### 2.6 Histological staining experiment
+
+H&E, immunofluorescence (Ki67, GSDMD, S100, MPZ), and IHC staining were performed. Mitochondrial ROS was assessed with MitoSox staining of fresh facial nerve tissue.
+
+### 2.7 Cell culture and co-culture systems
+
+RSC96 Schwann cells were treated with LPS (1 μg/mL, 24 h) then ATP (2 mM, 24 h) to induce pyroptosis (LA-RSC96 cells). Mito-TEMPO (mitochondrial ROS scavenger), Cytochalasin B (TNT-formation blocker), and Bay 11-7082 (NF-κB inhibitor) were used as pharmacologic tools. Direct-contact and transwell co-culture systems were established between DPSCs and RSC96/LA-RSC96 cells. ρ⁰-DPSCs (mitochondrial DNA-deficient) were generated using ethidium bromide. TNFα or Metformin preconditioning of DPSCs was performed. Mitochondrial transfer was visualized via Mito-mCherry-labeled DPSCs and CFSE-labeled RSC96 cells under confocal microscopy, and quantified via MitoBright LT Deep Red / CFSE flow cytometry.
+
+### 2.8-2.12
+
+qPCR, RNA-seq (GO/KEGG pathway analysis), Western blot (pyroptosis markers Caspase-1/GSDMD/NLRP3/IL1β; mitochondrial markers COX4/TFAM/COX2/ND1/TOM20; NF-κB pathway p-IKKα/β, IKBα, p65; biogenesis PGC-1α; antioxidant CAT/SOD1; mitophagy Parkin/PINK1), flow cytometry (stem cell markers CD146/CD44/CD90/CD34/CD45/CD105; MitoSox; TMRM), ELISA (TNFα), ATP and caspase-1 activity assays. Statistics: two-tailed Student's t-test (2 groups) or one-way ANOVA (multiple groups); p<0.05 significant.
+
+## 3. Results
+
+### 3.1 DPSCs promote facial nerve regeneration in non-human primates
+
+A crab-eating macaque facial nerve transection model (5 mm defect) compared Neurolac® conduit alone, autologous nerve graft, and Neurolac® conduit + DPSC injection (DPSCs@Neurolac®). H&E showed increased cell number and Ki67 IHC showed significantly enhanced proliferative activity in DPSCs@Neurolac® vs both Neurolac® and autograft. TEM showed increased myelin sheath and axon thickness with reduced G-ratio in DPSCs@Neurolac® vs both comparators. At 12 months, electrophysiology showed no CMAP detected on the injured side in the Neurolac®-alone group, while DPSCs@Neurolac® showed significantly higher CMAP amplitude and conduction velocity than Neurolac® alone (though still lower than autograft). DPSC transplantation significantly outperformed the bare Neurolac® conduit and achieved outcomes approaching autologous nerve graft.
+
+### 3.2 DPSCs alleviate Schwann cell pyroptosis in a rat FNI model
+
+DPSC treatment significantly accelerated facial nerve functional recovery vs injury-only. TEM at 2 weeks showed increased myelin sheath thickness in DPSC-treated animals. At 4 days post-injury, immunofluorescence showed increased pyroptosis marker GSDMD and reduced Schwann-cell markers S100/MPZ after injury; DPSC treatment mitigated these changes. Mitochondrial ROS (MitoSox) was significantly reduced with DPSC treatment. Western blot confirmed downregulation of GSDMD, cleaved-Caspase1, and IL1β with DPSC treatment. mRNA markers of pyroptosis, ferroptosis, and necroptosis were all upregulated after FNI, with pyroptosis markers showing the most pronounced fold-changes; DPSC treatment most strongly attenuated pyroptosis-related genes. TEM showed classic pyroptotic morphology in Schwann cells (cell swelling, membrane integrity loss, cytoplasmic leakage, bubble-like structures).
+
+### 3.3 DPSCs alleviate mitochondrial damage in pyroptosis-induced Schwann cells
+
+In vitro, LPS+ATP-induced pyroptosis (LA-RSC96) was used. MitoTEMPO (mitochondrial ROS scavenger) alleviated pyroptosis and restored mitochondrial homeostasis, implicating mitochondrial oxidative stress as causal. Co-culturing DPSCs with LA-RSC96 cells (direct contact and transwell) reduced mitochondrial ROS, membrane potential loss, and pyroptosis marker expression — the effect required direct cell-cell contact (transwell alone was less effective/ineffective), pointing to a contact-dependent mechanism. DPSC co-culture effects on caspase-1 activity began at 8 h with significant suppression at 16 h. Mitochondrial biogenesis/function markers were restored in Schwann cells after co-culture.
+
+### 3.4 Mitochondrial transfer from DPSCs to pyroptosis-induced Schwann cells
+
+Mito-mCherry-labeled DPSCs co-cultured with CFSE-labeled RSC96 cells showed mitochondrial transfer by confocal microscopy and flow cytometry in the direct-contact model; no transfer occurred in the transwell (non-contact) system. F-actin staining indicated the transfer route was via tunneling nanotubes (TNTs). Transfer rate increased over time and was significantly higher into pyroptosis-induced (LA-RSC96) cells than into non-pyroptotic cells. Transfer rate rose sharply after 8 h, coinciding with caspase-1 suppression. ATP alone (without LPS pretreatment) did not induce mitochondrial transfer.
+
+### 3.5 Mitochondrial transfer from DPSCs alleviates mitochondrial damage in pyroptosis-induced Schwann cells
+
+Mitochondrial-DNA-deficient ρ⁰-DPSCs retained intact mitochondrial transfer rates but FAILED to rescue mitochondrial dysfunction or pyroptosis in Schwann cells (increased caspase-1 activity and pyroptosis markers persisted) — showing the protective effect depends on the functional integrity of the transferred mitochondria, not merely transfer occurring. Cytochalasin B (CB), which disrupts actin filaments and blocks TNT formation, impaired mitochondrial transfer and abolished DPSC protective effects (increased mitochondrial ROS, membrane potential loss, pyroptosis markers returned).
+
+### 3.6 TNFα signaling activates NF-κB in DPSCs to promote mitochondrial transfer
+
+RNA-seq/GO analysis comparing LA-RSC96 vs RSC96 cells showed enrichment in cytokine-production processes; KEGG highlighted TNFα signaling as a key activated pathway in pyroptosis-induced Schwann cells. ELISA/WB/qPCR confirmed elevated TNFα secretion by pyroptotic RSC96 cells. TNFα-neutralizing antibody blocked NF-κB activation in DPSCs (reduced p-P65, p-IKKα/β) and inhibited TNT formation. NF-κB inhibitor Bay 11-7082 impaired DPSCs' ability to alleviate pyroptosis markers in LA-RSC96 cells and reduced mitochondrial transfer. Exogenous TNFα treatment of DPSCs enhanced mitochondrial transfer and NF-κB activation — establishing a paracrine TNFα→NF-κB→mitochondrial-transfer axis.
+
+### 3.7 TNFα enhances mitochondrial adaptive stress response in DPSCs
+
+TNFα treatment of DPSCs increased mitochondrial ROS and ATP production while lowering membrane potential (an adaptive stress response), and increased mitochondrial biogenesis markers (PGC1α, NRF1, TFAM) and function markers (COX4, TOM20, mt-Co2). TNFα-treated DPSCs showed enhanced antioxidant capacity (CAT, SOD1) and upregulated mitophagy markers (Parkin, PINK1). Metformin served as a positive control for mitochondrial-stress-alleviation. TNFα-preconditioned DPSCs showed improved protective effects on LA-RSC96 cells: better mitochondrial function, reduced pyroptosis, increased antioxidant activity in both donor DPSCs and recipient Schwann cells.
+
+### 3.8 TNFα preconditioning improves therapeutic efficacy of DPSCs in repairing facial nerve injury
+
+In the rat FNI model, TNFα-preconditioned DPSCs significantly accelerated functional recovery vs untreated DPSCs. TEM showed thicker myelin sheaths in the preconditioned group. WB/IF confirmed reduced pyroptosis markers and improved Schwann cell survival with preconditioning.
+
+## 4. Discussion
+
+The study establishes long-term (1-year) regenerative benefit of DPSCs in a non-human primate FNI model, and mechanistically shows DPSCs promote nerve regeneration by alleviating Schwann-cell pyroptosis and restoring mitochondrial homeostasis, chiefly via TNT-mediated intercellular mitochondrial transfer. DPSCs reduced pyroptosis markers (GSDMD, IL1β) in vivo and in vitro. Mitochondrial ROS accumulation and membrane-potential loss are central to pyroptosis activation; DPSC mitochondrial transfer (via TNTs) restores homeostasis. ρ⁰-DPSC and Cytochalasin-B experiments establish that functional mitochondria transferred through TNTs — not merely paracrine/soluble signaling — are necessary for the protective effect. Schwann-cell-secreted TNFα activates NF-κB in DPSCs, driving mitochondrial biogenesis/TNT formation and priming DPSCs' adaptive stress response, which is consistent with prior reports that TNFα preconditioning enhances MSC therapeutic efficacy (proangiogenic phenotype, immunomodulation, extracellular-vesicle secretion). DPSCs' neural-crest origin, low immunogenicity, non-invasive collection, and (in this study) absence of tumorigenicity/adverse effects over a 1-year primate follow-up support clinical translatability, though the authors note further studies (species-matched models, in vivo verification of mitochondrial transfer via fluorescent labeling/EM/isotope tracing/genetic markers) are needed. Combining DPSCs with nerve guide conduits is highlighted as a scaffold strategy to enhance cell retention and directional axon growth.
+
+## 5. Conclusions
+
+DPSCs transfer functional mitochondria to pyroptosis-induced Schwann cells via tunneling nanotubes, which is a crucial mechanism supporting facial nerve regeneration. TNFα secreted by pyroptotic Schwann cells enhances this mitochondrial transfer through NF-κB activation in DPSCs, and TNFα-preconditioned DPSCs show improved therapeutic efficacy in an FNI model, paving the way for more effective stem-cell-based therapies for peripheral nerve damage.
+
+## Ethics
+
+All experiments related to the crab-eating macaque model were approved by the Ethics Research Committee of the Shanghai Ninth People's Hospital (Approval Nos. 2021-A030-01 and PL21-0613). Rat experiments approved by IACUC of Wuhan Beisai Model Biotechnology (Approval Nos. 2024-04-12D and 2024-09-04A). Third molars for DPSC isolation obtained as discarded biological samples from Renmin Hospital of Wuhan University with institutional ethics approval.
+
+## Declaration of competing interest
+
+Qingsong Ye is an editorial board member for Bioactive Materials and was not involved in the editorial review or decision to publish this article. The authors declare no other competing interests.
