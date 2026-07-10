@@ -368,6 +368,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — Animal(개 5, split-mouth, 6mo): 판막 거상 vs flapless 발치 후 ridge resorption 차이 없음; "flapless = ridge 보존" 가설 반박; 본 PDF는 PubMed abstract only.
 - [[bone-regeneration/ridge-preservation/muller-2025-arp-vs-sh-early-implant-3year-rct]] — DBBM-C/CM·DBBM-C·자발적 치유 (SH) 세 군 비교 조기 식립 3년 RCT: 모든 군 외형 감소 통계적 유의 (−0.23/−0.21/−0.33 mm), 군 간 MBL·임상 지표 차이 없음
 - [[bone-regeneration/lee-2025-soft-bbs-gbr-peri-implant-dehiscence]] — 개 동물실험: L형 느슨 vs 압축 적용 연조질 블록형 골대체재(Soft BBS) GBR 비교 — 골폭 차이 없음, 막 고정 없이 치관부 골유지 실패, micro-CT와 조직계측 강한 상관(r=0.971)
+- [[bone-regeneration/giannotti-2023-autologous-platelet-concentrates-clinical-applications]] — Giannotti 2023 · narrative-review · PRP/PRF/CGF 3세대 비교(Genes, PMC full text) — 혈소판농축배율·성장인자(TGF-β/BMP/VEGF/PDGF) 방출기간 세대별 증가(1시간→7-10일→28일), CGF가 CD34+/CD45+/CD105+ 세포 함유하며 가장 우수한 APC로 제시
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
