@@ -80,3 +80,4 @@ Subgroup findings:
 - [[bone-regeneration/idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr]] — earlier all-PRF SR (7 RCTs, no meta-analysis) found no significant sinus-lift benefit; Zhang's larger pooled MA (like Almutairi's) finds significant benefit, again attributable to meta-analytic pooling and enhancer-type stratification.
 - [[sinus-lift/lateral/motimath-2026-xenograft-prf-sinus-histomorphometric]] — individual split-mouth RCT (A-PRF+DBBM): +11.6% new bone, −13.2% residual graft — consistent direction with Zhang's PRF subgroup finding.
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — synthesis overview for lateral sinus lift evidence.
+- [[overviews/dbbm-bone-substitute-overview]] — DBBM synthesis overview incorporates this paper into Axis 4 (platelet adjuncts), broadening the L-PRF-only evidence to PRP/PRF/PRGF and adding the refinement that PRP does not replicate the PRF/PRGF residual-graft reduction.
