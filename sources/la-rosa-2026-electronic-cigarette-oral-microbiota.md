@@ -10,6 +10,10 @@ pdf_filename: la-rosa-2026-electronic-cigarette-oral-microbiota.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Fills the e-cigarette gap that [[implants/calciolari-2026-tobacco-smoking-smoke-free-products]] explicitly left open (vaping evidence judged insufficient for pooling) by approaching the same exposure from the microbial side, giving [[overviews/smoking-tobacco-periodontal-implant-overview]] a mechanistic candidate for why vaping might sit between smoking and never-smoking. Read against the dysbiosis framework of [[overviews/oral-microbiome-biofilm-dysbiosis-synthesis]], though at GRADE very-low certainty.
+
 ## Three-line Summary
 
 Systematic review (12 studies, human molecular-method comparisons of saliva/subgingival plaque/mucosal-swab microbiota) examining whether e-cigarette users' oral microbiota differs from never-smokers and current (combustible) smokers.
