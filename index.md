@@ -132,6 +132,8 @@ tags: []
 - [[implants/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr]] — Kindaro 2026 · sr · 골다공증 동물모델 12편 전임상 SR: 간헐적 PTH(테리파라타이드, 골형성촉진제)가 BIC·BV/TV·제거토크 일관 개선, 병용(비타민D·랄록시펜·국소 스캐폴드)이 단독보다 우수 — 그러나 인체 연구 0편·7/12편 눈가림 고위험 → 실험적 보조요법 (DOI 10.1016/j.job.2026.100778)
 - [[implants/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma]] — Cosola 2026 · sr+ma(초록전용) · 맞춤형 CAD/CAM 3D프린팅 티타늄 골막하 임플란트 11편(268명/369개): ≤3년 생존 97.8%지만 전체 92.4%·6년 54.1%로 붕괴, 후기 실패의 주원인은 골유착이 아니라 연조직 노출·열개 — 선별된 환자의 무이식 salvage 옵션 (JOMS 2026;84:1084)
 - [[implants/yildirim-2026-short-implants-bibliometric-research-trends]] — Yildirim 2026 · narrative-review(bibliometric) · WoS 숏임플란트 626편(1994–2024) 과학지도: 연 12.69% 성장·2019 정점 후 감소, 주요 저널 COIR·IJOMI, 주요 저자 Esposito·Felice, 4개 주제군(생존, 위축 후방악 재건, 보철·생역학, vs 표준/골증대) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.11607/jomi.11411)
+- [[implants/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective 10-year cohort (n=28, 164 implants): all-on-4 vs all-on-6 implant survival (89.7% vs 99.0%), MBL, and complications (2022)
+- [[implants/pandey-2023-comparison-all-on-four-all-on-six]] — 3D FEA comparing All-on-Four vs All-on-Six edentulous mandible rehabilitation: All-on-6 shows markedly lower cortical bone/implant stress but slightly higher trabecular bone stress (2023)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
