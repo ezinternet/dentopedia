@@ -318,6 +318,8 @@ tags: []
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — SR+MA (RCTs, J Dent Res 2014): ARP vs extraction alone — BL width +1.89mm, midbuccal height +2.07mm (p<.001); flap elevation + membrane + xenograft/allograft = optimal
 - [[bone-regeneration/ridge-preservation/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] — SR+MA+TSA (6 RCTs, 135 sockets, esthetic zone): FGG without bone fill best height; CM vs FGG no clinical difference; TSA: insufficient data for superiority claims
 - [[bone-regeneration/ridge-preservation/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] — SR+MA (12 studies, Bioengineering 2024): bone mineral graft + collagen membrane — trend for preservation but p>0.05 (NS); I²>75%; more RCTs needed
+- [[bone-regeneration/inchingolo-2025-bovine-xenograft-longterm-histological-clinical]] — Inchingolo 2025 · sr (PRISMA/PROSPERO, 11편 of 217 screened) · GRADE moderate(생존/통합) but low(장기 합병증); ROBINS-I 대부분 moderate risk (Mordenfeld 2017만 low); 우골이종골 장기 비흡수·이물반응 위험 vs 자가골 gold standard [JFB]
+- [[bone-regeneration/abushama-2025-xenograft-allograft-bone-graft-implant]] — Abushama 2025 · sr · PROSPERO SR(12편, 395명, 즉시/지연식립·ARP·상악동거상): 이종골(Bio-Oss) vs 동종골(FFB/DFDBA) 임상·방사선·조직학 지표 유의차 없음 — narrative synthesis, MA 불가
 - [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — RCT 4군 (n=22/군, UNICAMP 2025), 후방부: TM+XG·MFGG+XG 수직 우수; 전 군 수평 소실; USH → 67% 상악동거상·71% 단임플란트; MFGG 통증↑
 - [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — Prospective (n=104, 135치, 5년): 판막 없는 개방치유(DBBM+콜라겐막 노출) — 생존율 98.5%, 성공률 94.8%; 최소침습 프로토콜
 - [[bone-regeneration/ridge-preservation/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] — in-vivo(J Periodontal Implant Sci 2017, n=7): DBBM+돼지유래 콜라겐막 소켓보존 6개월 조직학 — 폭 1.21mm·높이 0.46mm 흡수; 신생골 16%·잔류이종골 32%; 이벤트 없는 치유
@@ -595,6 +597,8 @@ tags: []
 - [[sinus-lift/lateral/kashi-2023-accessory-maxillary-ostium-sinusitis-cbct]] — Kashi 2023 · cross-sectional · CBCT 244례: 부개구부(AMO) 존재는 상악동염과 무관(p=0.104)이나 일차개구부(PMO) 폐쇄는 상악동염군서 유의 증가(p<0.001); AMO 빈도는 성별 의존 (DOI 10.1007/s12070-023-04376-y, PMC10982170)
 - [[sinus-lift/lateral/kato-2021-sinus-mucosa-ostium-involvement-septa]] — Kato 2021 · retrospective · 측방창 SFE 30동(격벽15/대조15): 1주 점막부종 최고(높이 +5.7/+7.1mm)로 누두 3/5동 일시폐쇄, 9개월에 전례 회복; 격벽은 개구부 폐쇄 악화 안 시키나 천공 위험(격벽군 26.7%) (DOI 10.3390/dj9080082, PMC8391700)
 - [[sinus-lift/lateral/vaddi-2021-available-height-location-patency-ostium]] — Vaddi 2021 · retrospective · CBCT 200 부비동(112명): 동저-자연공 높이 유치악 31.40mm·무치악 29.50mm에서 점막비후 높이를 뺀 안전 거상 높이 계산(유치악 ~27.05mm·무치악 ~23.40mm); 자연공 47%가 제1대구치 부위 (DOI 10.5624/isd.20200218, PMC8479432)
+- [[sinus-lift/lateral/zhang-2025-platelet-bone-enhancers-dbbm-sinus]] — Zhang 2025 · sr+ma (16편, n=372) · PRP/PRF/PRGF + DBBM vs DBBM 단독 (2단계 상악동거상): 신생골 +5.92%(p=0.002), 잔류이식재 −1.93(p<0.001, PRF/PRGF만 유의·PRP 제외); ISQ·임플란트 생존은 NS (DOI 10.1186/s12903-025-06484-3)
+- [[sinus-lift/lateral/li-2023-dbbm-particle-size-sinus-floor-elevation]] — Li 2023 · sr+ma (4-RCT, n=94) · DBBM 대입자(1-2mm) vs 소입자(0.25-1mm) 조직형태계측 — 결합조직·신생골·잔류이식재 비율 모두 유의차 없음 (DOI 10.1186/s40729-023-00502-1)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
