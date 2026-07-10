@@ -1,9 +1,14 @@
 ---
 title: "Overview: Implant-Supported Fixed Prosthesis — Retention Type, Abutment Design, and Material Selection for Survival & Complication Outcomes"
 type: synthesis
-category: overviews
+authors: Synthesis
+year: 2026
 date: 2026-07-10
+doi: ""
+source: ""
+category: [overviews]
 confidence: synthesis
+source_collection: internal
 source_papers:
   - wiki/prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr.md
   - wiki/prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.md
