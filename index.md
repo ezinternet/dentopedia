@@ -954,6 +954,8 @@ tags: []
 - [[prosthetic-materials/coelho-2025-screw-coating-ptfe-gapseal-cyclic-load]] — Coelho 2025, 사이클릭 로드(300,000회, 37°C) 추가 시 PTFE RTV 역전(15.30→31.50 Ncm 최고); GapSeal은 무사이클 환경에서 최고 성능; Micro-CT 마이크로갭 없음 (in vitro)
 - [[prosthetic-materials/marenzi-2026-torque-limiting-devices-accuracy-manufacturers]] — Marenzi 2026, 3사 기계식 토크 제한 렌치 정확도; 모든 렌치가 설정값보다 낮은 토크 전달(오차 11–29.3%); 25 Ncm 시 마이크로갭 없음 (in vitro)
 - [[prosthetic-materials/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — Zhang 2026 · narrative-review(bibliometric) · 임플란트 지대주 연구 2051편(WoS 2005–2024) 계량서지 지도: 미국·상파울루·취리히 주도, 핵심 저자 Canullo·Sailer, 주제 이동 티타늄(2005–10) → 플랫폼스위칭·FEA(2011–19) → 지르코니아·미생물누출·연결부 안정성(2020–24) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.1016/j.prosdent.2026.03.003)
+- [[prosthetic-materials/toia-2021-fixed-full-arch-maxillary-prostheses]] — 3-year multicentre RCT, 4 vs 6 implants for titanium CAD/CAM-milled maxillary full-arch fixed prostheses: no significant MBL difference, high prosthetic (tooth chipping/fracture) complication rate 47.2% (2021)
+- [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-year multicenter RCT: 4 vs 6 implants for maxillary fixed complete dentures, non-inferior MBL, 4-I higher technical complications but lower cost (2025)
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] — Fayad 2025 · narrative-review · 보철 수직고경(Occlusal Vertical Dimension, OVD) 결정법 종합 리뷰(안면계측·발음·연하·안정위+자유공극·두부계측 → 디지털 3D·CBCT·AI); 단일 우수법 없음, 과다/과소 VD 임상 징후(이근 긴장·이순구 심화) 포함 (DOI 10.7759/cureus.93987)
@@ -990,6 +992,7 @@ tags: []
 - [[complete-denture/feng-2025-expert-consensus-digital-complete-denture]] — Feng 2025 · consensus (Int J Oral Sci): 디지털 총의치 제작 전문가 합의문 — 구강내·안면 스캔, CAD 설계, 절삭/적층 가공 표준 워크플로우, 적응증·평가지표 권고
 - [[complete-denture/ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma]] — Ng 2026 · sr+ma · 무치악 상악 전악 보철 20편(913명, 고정성 542·가철성 371, 중앙 5년): 파국적 실패는 드물지만(보철 소실 4.6%, 임플란트 소실 ~5.5%, MBL 양쪽 <0.8mm) 무합병증 보철 생존 61.9%·환자수준 임플란트 생존 46.5% → 유지관리 부담이 진짜 비용; 주 기술합병증이 유형별로 다름(고정성 아크릴 비니어 파절 ~41% vs 오버덴쳐 의치상·인공치 수리/리라인 ~91%) (DOI 10.1111/clr.70116)
 - [[complete-denture/yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri]] — Yeung 2023 · sr · 의치·임플란트 재활 후 뇌 기능적 신경가소성 fMRI 연구 9편 체계적 고찰: 이악물기 시 감각운동피질(중심전회 PreCG·중심후회 PostCG) 활성은 고정성 임플란트 > 임플란트 오버덴쳐 > 총의치 순; 신규 총의치는 ~1주 활성 정점 후 약 3개월에 기저선 복귀(습관화). **껌 저작 과제에서는 방향이 역전**(안정적인 오버덴쳐가 전전두엽 활성 더 낮음). 교합 회복이 피질 활성을 재배선하나 **인지기능 개선은 미입증** — BOLD 변화 ≠ 인지 향상, 표본 4–20명으로 매우 작음 (DOI 10.3390/nu15071577)
+- [[complete-denture/carames-2025-four-vs-six-implant]] — Retrospective cohort (943 pts, 5989 implants, ≤17y f/u): 4 vs 6 implant IFCD survival comparable (98.4% vs 98.7% 5-yr CSR); jaw type and age, not implant number, predict loss (2025)
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
