@@ -41,6 +41,7 @@ relations:
 > - **감각이상 ≠ 통증.** 위 세 숫자를 혼동하면 안 된다. Peña-Cardelles의 68%는 *모든* 신경감각변화이고, Korczeniewska의 3%는 *통증성* 신경병증이다. 대부분의 손상은 무통성 감각저하로 끝나거나 회복한다 — 환자 설명 시 이 구분이 핵심.
 > - **일단 만성화하면 예후가 나쁘다**: 장기추적에서 유의한 호전 10–20%, 약간 호전 30%, **50%는 악화되거나 그대로** (Korczeniewska 2022). 그래서 이 캐스케이드에서 압도적으로 유리한 개입 지점은 ①예방(거리·CBCT)과 ②조기 항염이지, 만성기 약물이 아니다.
 > - **조기 개입 창(window)의 생물학적 근거**: SGC 증식이 손상 후 **약 4일**에 정점을 찍는다. 신경절 감작이 자리잡기 전이 개입 창이라는 뜻 — 발치 후 하치조신경 (Inferior Alveolar Nerve, IAN) 신경실행증에 조기 스테로이드로 완전 회복한 [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] 증례의 기전적 설명이 된다.
+> - **손상 후 개입의 유일한 임상 근거는 광생체조절 (Low-Level Laser Therapy, LLLT)이고, 그마저 해리를 보인다**: 지치 발치 후 IAN/설신경 손상 27명에서 LLLT가 위약·경피전기신경자극 (TENS)보다 증상(무감각·통증·작열감·발음곤란)을 유의하게 개선했으나, **전기생리 지표(피부무음기 CSP)의 회복은 대체로 유의하지 않아 임상 호전과 해리**됐다 (Zeytinoğlu 2026, n=27 비무작위). 증상이 좋아진 것이 곧 신경이 재생된 것은 아니다.
 > - **이온통로 중 인과성이 실제로 입증된 것은 TRPC4 하나뿐**이다 (Ke 2025). 녹다운(shRNA)·길항제(ML204)가 통증을 줄이고, 작용제(Englerin A)가 정상 마우스에서 통증을 만든다 — 양방향 인과. 다만 **마우스이고**, ML204/Englerin A는 TRPC5도 건드리는 비선택적 도구다. Cl⁻(NKCC1/KCC2)·T-type Ca²⁺ 축은 아직 상관·기전 수준.
 > - **염증 프라이밍 = 위험인자 가설**: 세균 지질다당류 (Lipopolysaccharide, LPS)의 TLR4 신호가 혈액-신경장벽을 무너뜨려 이질통을 악화시킨다. 시술 전 치주염·감염 조절이 신경 예후에도 관여할 수 있다는 뜻. **단, 과신 금지** — 같은 리뷰가 국소 *P. gingivalis* 노출이 IL-10 매개로 오히려 항통각적이었던 쥐 실험도 함께 보고한다(비선형 예외).
 > - **치료 접점은 아직 얇다**: 삼차신경통 1차약은 카르바마제핀·옥스카르바제핀 (Khan 2023, SR). 침술 (Acupuncture)이 카르바마제핀 단독을 능가한다는 Pan 2025의 주장은 **narrative review가 NMA 1편을 인용한 수준**이라 근거등급이 비대칭이다 — 이 페이지는 그 충돌을 해소하지 않고 표시만 한다.
@@ -49,7 +50,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 10 wiki pages assembling a single mechanistic cascade from iatrogenic trigeminal nerve injury to chronic neuropathic pain, joining two literatures that are split at the peripheral/central boundary: Korczeniewska 2022 explicitly excludes central mechanisms, and Kim 2024 supplies exactly the excluded half (Sp5C NMDA/mGluR-dependent LTP and central sensitization).
+Synthesis of 11 wiki pages assembling a single mechanistic cascade from iatrogenic trigeminal nerve injury to chronic neuropathic pain, joining two literatures that are split at the peripheral/central boundary: Korczeniewska 2022 explicitly excludes central mechanisms, and Kim 2024 supplies exactly the excluded half (Sp5C NMDA/mGluR-dependent LTP and central sensitization).
 
 Three quantitative gates govern the cascade — injury occurrence (0% neurosensory alteration at ≥1 mm implant-apex-to-canal separation vs 68% at 0–1 mm; Peña-Cardelles 2025 SR+MA), injury resolution (12% neuropathy at 1 week → 5% at ≥3 months without nerve lateralization; Réus 2024 SR), and painful conversion (~3% of all trigeminal nerve injuries become painful neuropathy; <8% after implant therapy; Korczeniewska 2022) — while only one ion channel in the cluster has bidirectional causal evidence (TRPC4: shRNA/ML204 relieve, Englerin A induces; Ke 2025, mice).
 
@@ -57,7 +58,7 @@ Clinically the asymmetry is decisive: injury is common, chronic pain is rare, an
 
 ## 세줄요약
 
-위키 10편을 엮어 치과 유래 삼차신경 손상이 만성 신경병증통증이 되는 단일 캐스케이드를 조립한 종합 페이지 — 말초/중추 경계에서 갈라진 두 문헌을 접합한다: Korczeniewska 2022는 중추 기전을 명시적으로 제외했고, Kim 2024가 정확히 그 빠진 절반(Sp5C의 NMDA/mGluR 의존 장기강화 LTP·중추감작)을 공급한다.
+위키 11편을 엮어 치과 유래 삼차신경 손상이 만성 신경병증통증이 되는 단일 캐스케이드를 조립한 종합 페이지 — 말초/중추 경계에서 갈라진 두 문헌을 접합한다: Korczeniewska 2022는 중추 기전을 명시적으로 제외했고, Kim 2024가 정확히 그 빠진 절반(Sp5C의 NMDA/mGluR 의존 장기강화 LTP·중추감작)을 공급한다.
 
 캐스케이드는 세 개의 정량적 게이트로 통제된다 — 손상 발생(임플란트 첨부–하악관 이격 ≥1mm에서 신경감각변화 0% vs 0–1mm 68%; Peña-Cardelles 2025 SR+MA), 손상 소실(신경측방화 없이 1주 12% → 3개월 이상 5%; Réus 2024 SR), 통증 전환(전체 삼차신경 손상의 약 3%만 통증성 신경병증; 임플란트 후 <8%; Korczeniewska 2022) — 그리고 이 클러스터에서 양방향 인과가 입증된 이온통로는 TRPC4 하나뿐이다(녹다운·ML204는 완화, Englerin A는 유발; Ke 2025, 마우스).
 
@@ -87,6 +88,8 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 | 3 | 이온통로 재편 | TRPC4↑(인과 입증), Nav1.8/1.9, K⁺↓, T-type Ca²⁺, Cl⁻ 항상성 | [[ke-2025-trpc4-trigeminal-neuropathic-pain-mice]] (animal) · [[wilke-2020-chloride-underrated-ion-nociceptors]] · [[pathirathna-2005-t-type-calcium-gaba-neurosteroids]] | 전임상 (선택적 TRPC4 조절제 부재) |
 | 4 | 신경절 감작 | 위성신경교세포(SGC) 증식(**~4일 정점**)·GFAP↑ → 세포간 감작; Aβ 표현형 전환 → 이질통 | [[korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] | **조기 개입 창의 생물학적 근거** |
 | 5 | 중추감작 | Sp5C→Sp5O/Sp5I의 NMDA·mGluR1/5 의존 LTP, wind-up → 자가지속 | [[kim-2024-trigeminal-sensory-system-orofacial-pain]] (narrative) | 만성기 약물 (근거 약함) |
+
+**손상이 이미 일어난 뒤 — 유일한 임상 근거.** 위 표의 개입 칸에서 "조기 항염"만이 사람 데이터를 갖는데, 그 사람 데이터 자체가 하나뿐이고 해리를 보인다. [[zeytinoglu-2026-comparative-effects-low-level-laser]] (n=27, 지치 발치 후 IAN 18·설신경 9, 비무작위·비맹검)는 광생체조절(LLLT)이 위약과 TENS보다 무감각·통증·작열감·발음곤란 등 광범위한 증상을 유의하게 개선함을 보였다. 그러나 섬유형별 전기생리 지표인 피부무음기(Cutaneous Silent Period, CSP — 통증자극은 Aδ·C섬유, 무통자극은 Aβ섬유를 반영)의 회복은 대체로 유의하지 않았다. **증상 호전과 전기생리 회복이 해리된다**는 뜻이며, 두 가지 해석이 모두 가능하다: (i) LLLT가 신경 재생이 아니라 통증 처리(감작)를 조절한다, 혹은 (ii) CSP가 회복을 잡아내기에 둔감하다. 이 연구는 어느 쪽인지 구분하지 못한다. 설신경 손상군이 IAN군보다 LLLT 후 잔존 증상이 더 심했다는 점도 함께 기록해 둔다.
 
 ## The three gates — 손상은 흔하고, 통증은 드물다
 
@@ -123,6 +126,7 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 | [[pena-cardelles-2025-ian-damage-implant-placement-sr-ma]] | sr+ma | 게이트 ① — 손상 발생의 거리 의존성 |
 | [[reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] | sr | 게이트 ② — 시간에 따른 소실 |
 | [[khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] | sr | 치료 접점 — 1차약 사다리 |
+| [[zeytinoglu-2026-comparative-effects-low-level-laser]] | prospective | 손상 후 개입 — LLLT의 **유일한 사람 데이터**, 증상↔전기생리 해리 |
 | [[korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] | narrative-review | 말초 캐스케이드 (1–4단계) + 게이트 ③·예후 |
 | [[kim-2024-trigeminal-sensory-system-orofacial-pain]] | narrative-review | 중추 절반 (5단계) + 계통 해부 앵커 |
 | [[pan-2025-acupuncture-neuropathic-orofacial-pain-review]] | narrative-review | 치료 접점 (논쟁 엣지) |
@@ -139,6 +143,7 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 - 두 축 리뷰(Korczeniewska, Kim) 모두 PRISMA 없는 non-systematic narrative review다. 인용 편향을 배제할 수 없다.
 - 게이트 ①의 신뢰구간은 원 논문 단계에서 이미 해석 불가능하다(본문 참조). 게이트 ③의 유병률 추정치도 저자들이 진단 용어·기준의 비일관성 때문에 신뢰할 수 없다고 명시한다.
 - **조기 항염 창은 가설이다.** SGC 증식 4일 정점(설치류) + 증례 1건(Lee 2015)이 근거의 전부다. RCT는 없다.
+- **손상 후 개입의 임상 근거도 얇다.** LLLT를 지지하는 유일한 사람 연구(Zeytinoğlu 2026)는 n=27·비무작위·비맹검이며 5명이 TENS→LLLT로 교차했다. 게다가 증상 호전이 전기생리(CSP) 회복과 해리되어, 신경이 회복된 것인지 통증 처리만 조절된 것인지 이 데이터로는 알 수 없다. 그리고 LLLT는 항염 개입이 아니므로, 위의 "4일 SGC 창" 가설을 검증하지도 반증하지도 않는다.
 - 저작–뇌 축(치아 상실 → 피질 재편, [[complete-denture/yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri]])은 같은 삼차신경 구심로를 공유하지만 **통증이 아닌 감각운동 입력**의 문제라 이 페이지의 범위 밖이다. 별도 종합이 필요하다.
 
 ## Related Papers
@@ -148,5 +153,6 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — 겹치지만 구분된다: BMS 전용 분자기전(소섬유신경병증·탈억제·신경스테로이드). 본 페이지는 *외상성* 손상 캐스케이드
 - [[overviews/ian-nerve-injury-management-overview]] — 손상이 이미 일어난 뒤의 처치(광생체조절 PBM·비타민 B12·스테로이드)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 조기 스테로이드로 완전 회복한 IAN 신경실행증 증례; 본 페이지의 4일 SGC 창 가설과 맞물린다
+- [[oral-surgery/zeytinoglu-2026-comparative-effects-low-level-laser]] — 손상 후 LLLT vs TENS vs 위약(n=27, prospective): 증상은 개선되나 CSP 전기생리 회복과 해리 — 캐스케이드의 "손상 후" 칸을 채우는 유일한 사람 데이터
 - [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — 근관치료 유래 PTTN의 임상 SR; 게이트 ③의 근관치료 수치(3–13%)와 대조
 - [[complete-denture/yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri]] — 같은 삼차신경 입력의 *비통증성* 상행 축 (저작 → 피질). 범위 밖이나 인접
