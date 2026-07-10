@@ -11,6 +11,8 @@ source_collection: pubmed-text
 full_text: true
 pmid: "41682731"
 pmcid: "PMC12897590"
+text_path: /Users/oracleneo/llm-wiki/papers/zeytinoglu-2026-comparative-effects-low-level-laser.txt
+text_filename: zeytinoglu-2026-comparative-effects-low-level-laser.txt
 tags: [inferior-alveolar-nerve, lingual-nerve, nerve-injury, low-level-laser-therapy, photobiomodulation, TENS, cutaneous-silent-period, A-beta, A-delta, C-fiber, third-molar, neurosensory-recovery]
 relations:
   - type: extends
