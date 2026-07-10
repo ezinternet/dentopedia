@@ -10,6 +10,10 @@ pdf_filename: calciolari-2026-tobacco-smoking-smoke-free-products.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+The wiki's smoking–implant evidence rested on single-outcome SR+MAs — [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] (dose-response failure) and [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] (early failure) — with no pooled estimate carrying survival, crestal bone loss, and peri-implantitis together. This 45-article SR+MA supplies that combined anchor for [[overviews/smoking-tobacco-periodontal-implant-overview]], and is the first to scope smoke-free tobacco and e-cigarettes as separate implant exposures (finding that evidence still insufficient).
+
 ## Three-line Summary
 
 Systematic review + meta-analysis (PROSPERO CRD42024628116, 45 articles / 44 studies, ≥1 year post-loading follow-up) quantifying implant survival, crestal bone loss (CBL) and peri-implantitis incidence in tobacco smokers versus non-smokers, and separately scoping evidence on smoke-free (smokeless) tobacco and e-cigarette users.
