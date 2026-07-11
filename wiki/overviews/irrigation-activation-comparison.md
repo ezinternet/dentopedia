@@ -41,6 +41,8 @@ source_papers:
   - endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr
   - endodontics/irrigation/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr
   - endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas
+  - endodontics/gomez-gonzalez-2026-calcium-silicate-sealer-dentinal-tubule-irrigation-sr
+  - endodontics/kamath-2025-hedp-triton-dislodgement-ahplus-ceraseal
 confidence: synthesis
 source: synthesis
 ---
@@ -58,6 +60,8 @@ source: synthesis
 > - 모든 세정제가 상아질을 연화·화학변성시킴(Agarwal 2024 SR+MA 44편) → 농도·접촉시간 절제, gel보다 액상 선호.
 > - 내원간(between-visit) 약제는 별개 축이자 선택적 도구(농양·대형병소·재치료): 수산화칼슘(CH)이 1차 표준(~99.5% 미생물 감소·항염), 항생제 페이스트(TAP)는 E. faecalis 표적·통증용(Ardila 2026, Shunmugavelu 2025).
 > - 결과 수준: 단회 vs 다회 내원 치유율 동등~단회 우위(Wong 2015 RCT, Rossi-Fedele 2023); 최종 보철(coronal restoration) 적합도가 최대 예후 인자(Llena 2020); 어떤 활성화·신규 세정제도 outcome-level 임상 이득은 아직 미입증(Gupta 2025, Boutsioukis 2022).
+> - **최종세정 × 실러 침투 (2026-07 신규)**: Gómez-González 2026 (SR, PRISMA/OSF 등록, in-vitro 21편) — 칼슘실리케이트 실러(CSS)의 상아세관 침투에 대한 최종세정 프로토콜 영향을 종합. NaOCl·17% EDTA가 가장 많이 연구되었고 침투 개선과 대체로 연관되나, **연구간 이질성이 커 특정 세정제·활성화법의 우위를 확정할 수 없음** — §2.2의 EDTA/HEDP 분업 원칙을 실러 침투라는 새 종점으로 확인하되 outcome-level 결론은 아님(침투는 임상 성공의 대리지표일 뿐, 상관성 미검증).
+> - **HEDP 제품의 실러 결합강도 정량화 (2026-07 신규)**: Kamath 2025 (ex-vivo, 60개 치아, POBS+FTIR) — all-in-one 지속적 킬레이션 제품 Dual Rinse HEDP가 Triton·식염수 대비 AH Plus·CeraSeal 모두에서 밀어내기 결합강도(push-out bond strength) 최고(p<0.001); FTIR상 유·무기질 보존도 최고 — §2.2 "HEDP는 NaOCl 양립·smear 예방"(Fortea 2024) 소견에 **실러 접착력이라는 임상 밀접 종점의 수치**를 처음 더함.
 
 ## Three-line Summary
 
@@ -395,12 +399,21 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 - 레이저 활성화 (Er:YAG PIPS/SWEEPS) outcome-level RCT (Doğan 2024 외)
 - 내원간 약제 (TAP vs CH vs 나노) E. faecalis head-to-head RCT + 항생제 내성·스튜어드십 데이터
 - 신규 세정제(나노입자·herbal·광활성)의 12개월 치유·통증 RCT
-- 말레산·HEDP 임상 결과 RCT (현재는 in-vitro·scoping 중심)
+- 말레산·HEDP 임상 결과 RCT (현재는 in-vitro·scoping 중심; Kamath 2025가 ex-vivo 결합강도 데이터를 추가했으나 여전히 임상 outcome 아님)
 - 세정제 미세경도 감소 ↔ 치근 파절률 임상 연관 연구
 - 위생사 세정 작업 범위 한국 법령·실태
 
 ## Evidence Update — Coronal Dentin Composition After Irrigation: Raman Characterization
 
 Marques 2025 (in vitro Raman mapping + ATR-FTIR + EDS + SEM, 25 human third molars, 5 irrigation protocol groups) provides the first Raman-imaging characterization of how clinical endodontic irrigation alters **coronal** dentin composition. Key findings: (1) 3% NaOCl alone depletes collagen to near-zero (amide II: 20.39 → 1.67), producing a hypermineralized "ghost mineral" surface — effective disinfection at the cost of organic matrix; (2) EDTA-containing sequences re-expose collagen and open dentinal tubules but shift the Ca/P ratio from native 1.87 to 1.99, a mineralization disturbance; (3) NaOCl/HEDP continuous chelation preserves native Ca/P (1.87) but yields the roughest surface texture. These ultrastructural changes are clinically relevant for the bonding success of root-canal sealers and post cements — a dimension missing from clinical activation-method comparisons (which focus on microbial reduction, not substrate change).
+
+## Evidence Update — Final Irrigation Effects on Calcium-Silicate Sealer Penetration & Bond Strength (2026-07)
+
+Two new papers extend §2.2's irrigant-chemistry section from "smear-layer removal" to the sealer-facing endpoints of dentinal tubule penetration and bond strength — the mechanistic link between the irrigation choices this overview already covers and the obturation outcomes discussed in the Ceraseal/bioceramic-sealer overview ([[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]]).
+
+- **[[endodontics/gomez-gonzalez-2026-calcium-silicate-sealer-dentinal-tubule-irrigation-sr]]** (SR, PRISMA 2020 + OSF-registered, 21 in-vitro studies) systematically reviews how final-irrigation protocol and activation method affect calcium-silicate sealer (CSS) dentinal tubular penetration. NaOCl and 17% EDTA are the most-investigated irrigants and generally associated with improved penetration, but substantial methodological heterogeneity (tooth type, irrigation sequence, activation method, sealer formulation, dye, microscopy method) means **no single irrigant, chelating agent, or activation technique can currently be considered superior**. This confirms this overview's §2.2 division-of-labor principle (NaOCl = organic, EDTA/HEDP = inorganic) at a new endpoint (sealer penetration) but does not resolve which specific protocol is "best" — and explicitly flags that penetration is a laboratory surrogate not yet shown to correlate with clinical sealability or success.
+- **[[endodontics/kamath-2025-hedp-triton-dislodgement-ahplus-ceraseal]]** (ex-vivo push-out bond strength + FTIR, 60 extracted teeth) directly compares two all-in-one continuous-chelation irrigants — Dual Rinse HEDP vs Triton — as root conditioning before AH Plus and CeraSeal placement. Dual Rinse HEDP gave the highest bond strength for **both** sealers (AH Plus 8.98 MPa, CeraSeal 11.36 MPa) vs Triton (7.20/5.85 MPa) and saline (3.56/2.39 MPa, lowest), p<0.001; FTIR showed HEDP best preserves dentin's organic and inorganic content. This is the first product-level (not just chemistry-class) bond-strength quantification of HEDP's benefit already noted qualitatively in §2.2 (Fortea 2024) and in the irrigation-protocol technique evidence of the Ceraseal overview (Surana-Bhandari 2026).
+
+Neither paper changes this page's outcome-level caveat (§2.3/§4: no activation method or irrigant has yet demonstrated a clinical healing benefit) — both are in-vitro/ex-vivo laboratory endpoints, not treatment outcomes.
 
 - [[endodontics/irrigation/marques-2025-irrigation-protocols-coronal-dentin-composition]] — characterizes how NaOCl, EDTA, and HEDP alter coronal dentin chemistry; relevant to post-cementation and sealer adhesion.

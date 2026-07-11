@@ -126,6 +126,7 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[endodontics/irrigation/singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial]] | narrative-review | 나노로봇 — 자기유도 바이오필름 파괴, 광열 항균, 조직재생 (preliminary) |
+| [[endodontics/sarilaksmi-2026-intact-mta-sealer-gutta-percha-surface-modification]] | in-vitro | 첨가제 없는 순수 MTA를 근관 실러로 사용 — 거타퍼차 표면을 플라즈마+CPC로 친수화(접촉각 113°→22°)해 계면 적합. 첨가제 유래 세포독성(축 1의 시판 MTA 실러 우려)을 원천 회피하는 재료공학적 대안 (preliminary) |
 
 **임상 함의** — 미래 가능성. 현 단계 임상 적용 없음. [추정]
 
