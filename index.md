@@ -3453,3 +3453,6 @@ tags: []
 - [[immediate-implant/bose-2023-root-analogue-implants-orthodontic-extrusion]] — Böse 2023 · retrospective(n=40) · root-analogue implant vs 강제교정정출(forced orthodontic extrusion) 비교 — 생존율 100%로 동등하나 골·연조직 보존은 정출군이 우위
 - [[immediate-implant/debeus-2025-metal-free-custom-zirconia-implants]] — de Beus 2025 · prospective(n=30, 5년) · 커스텀 투피스 지르코니아(ZV3) 임플란트 — 생존율 75.8%, 성공률 71.0%, 기계적 파절이 주요 실패원인
 - [[immediate-implant/azarias-2025-survival-rate-immediate-loaded-implants]] — Azarias 2025 · narrative-review(15편) · Branemark 프로토콜(전악·스크류유지) 즉시부하 임플란트 생존율 — 1–10년 추적 93% 이상
+
+### New batch — 2026-07-12 ingest (reference-mining — 골이식재 narrative review 인용문헌, PMC 풀텍스트)
+- [[bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal]] — Meza-Mauricio 2022 · sr+ma(4 RCT, n=109) · 골이식재+자가골 병용 vs 골이식재 단독 — 수평골증대에 유의한 추가 이득 없음
