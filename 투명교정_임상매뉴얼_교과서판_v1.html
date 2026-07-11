@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>투명교정 임상매뉴얼 · 교과서판 (초보자 참고)</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --paper:#ffffff; --ink:#1f2430; --muted:#5b6472;
+    --line:#e3e7ee; --accent:#2f6fb0; --accent-soft:#eaf2fb;
+    --evi:#0d7a5f; --evi-soft:#e7f5f0; --evi-line:#bfe3d7;
+    --warn:#b4520a; --warn-soft:#fdf1e7; --warn-line:#f2d3b6;
+    --beg:#6b46c1; --beg-soft:#f1ecfb; --beg-line:#ddd0f4;
+    --tbl-head:#eef2f7;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",system-ui,-apple-system,sans-serif;
+    font-size:16px; line-height:1.72; -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--accent); text-decoration:none;}
+  a:hover{text-decoration:underline;}
+
+  /* ---- layout ---- */
+  .wrap{display:grid; grid-template-columns:290px 1fr; max-width:1240px; margin:0 auto; gap:0;}
+  nav.toc{
+    position:sticky; top:0; align-self:start; height:100vh; overflow-y:auto;
+    background:var(--paper); border-right:1px solid var(--line); padding:22px 18px 60px;
+  }
+  main{padding:34px 44px 120px; min-width:0;}
+
+  /* ---- toc ---- */
+  .brand{font-weight:800; font-size:1.02rem; letter-spacing:.02em; color:var(--ink); margin-bottom:2px;}
+  .brand small{display:block; font-weight:500; color:var(--muted); font-size:.72rem; letter-spacing:.06em; margin-top:3px;}
+  .search-box{margin:16px 0 14px;}
+  .search-box input{
+    width:100%; padding:9px 12px; border:1px solid var(--line); border-radius:8px;
+    font-size:.9rem; background:#fbfcfe;
+  }
+  .search-box input:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
+  .search-hint{font-size:.72rem; color:var(--muted); margin-top:5px;}
+  nav.toc ol{list-style:none; margin:0; padding:0; counter-reset:ch;}
+  nav.toc > ol > li > a{
+    display:block; padding:7px 10px; border-radius:7px; color:var(--ink);
+    font-weight:600; font-size:.92rem;
+  }
+  nav.toc > ol > li > a:hover{background:var(--accent-soft); text-decoration:none;}
+  nav.toc a.active{background:var(--accent); color:#fff;}
+  nav.toc .sub{padding:2px 0 8px 14px;}
+  nav.toc .sub a{display:block; padding:3px 8px; font-size:.82rem; color:var(--muted); border-radius:6px;}
+  nav.toc .sub a:hover{background:var(--accent-soft); color:var(--ink); text-decoration:none;}
+
+  /* ---- header ---- */
+  header.doc{
+    background:linear-gradient(135deg,#2f6fb0,#274b78); color:#fff; border-radius:14px;
+    padding:30px 34px; margin-bottom:26px;
+  }
+  header.doc .kicker{font-size:.74rem; letter-spacing:.22em; text-transform:uppercase; opacity:.82;}
+  header.doc h1{margin:8px 0 4px; font-size:1.85rem; line-height:1.25;}
+  header.doc .en{opacity:.86; font-size:1rem; font-weight:500;}
+  header.doc .meta{margin-top:14px; font-size:.82rem; opacity:.9; border-top:1px solid rgba(255,255,255,.25); padding-top:12px;}
+
+  /* ---- sections ---- */
+  section.chapter{
+    background:var(--paper); border:1px solid var(--line); border-radius:var(--radius);
+    padding:8px 30px 26px; margin-bottom:22px; scroll-margin-top:14px;
+  }
+  .ch-head{
+    display:flex; align-items:baseline; gap:12px; cursor:pointer; padding:16px 0 8px;
+    border-bottom:2px solid var(--accent-soft); margin-bottom:6px;
+  }
+  .ch-num{
+    flex:0 0 auto; background:var(--accent); color:#fff; font-weight:800; font-size:.8rem;
+    padding:4px 9px; border-radius:6px; letter-spacing:.04em;
+  }
+  .ch-head h2{margin:0; font-size:1.32rem;}
+  .ch-head h2 .en{display:block; font-size:.8rem; color:var(--muted); font-weight:500; margin-top:2px;}
+  .ch-head .toggle{margin-left:auto; color:var(--muted); font-size:.8rem; user-select:none;}
+  .chapter.collapsed .ch-body{display:none;}
+  .chapter.collapsed .toggle::after{content:"펼치기 ▾";}
+  .toggle::after{content:"접기 ▴";}
+
+  h3{font-size:1.06rem; margin:24px 0 8px; color:#243044;}
+  h3 .sec-id{color:var(--accent); font-weight:800; margin-right:6px;}
+  h4{font-size:.96rem; margin:16px 0 6px; color:#33405a;}
+  p{margin:8px 0;}
+  ul,ol.list{margin:8px 0 12px; padding-left:22px;}
+  li{margin:4px 0;}
+
+  /* ---- checklists ---- */
+  .checklist{list-style:none; padding:0; margin:10px 0 14px;}
+  .checklist li{
+    position:relative; padding:6px 6px 6px 30px; border-bottom:1px dashed var(--line); margin:0;
+  }
+  .checklist li:last-child{border-bottom:none;}
+  .checklist li::before{
+    content:"☐"; position:absolute; left:4px; top:5px; color:var(--accent); font-size:1.05rem;
+  }
+  .checklist.numbered{counter-reset:step;}
+  .checklist.numbered li::before{
+    content:counter(step); counter-increment:step; background:var(--accent-soft); color:var(--accent);
+    width:20px; height:20px; border-radius:50%; font-size:.75rem; font-weight:700;
+    display:flex; align-items:center; justify-content:center; top:7px; left:2px;
+  }
+
+  /* ---- tables ---- */
+  table{width:100%; border-collapse:collapse; margin:12px 0 16px; font-size:.9rem;}
+  th,td{border:1px solid var(--line); padding:8px 11px; text-align:left; vertical-align:top;}
+  thead th{background:var(--tbl-head); font-weight:700; color:#2b3548;}
+  tbody tr:nth-child(even){background:#fafbfd;}
+
+  /* ---- callout boxes ---- */
+  .box{border-radius:10px; padding:14px 18px 12px; margin:16px 0; border:1px solid;}
+  .box .box-tag{font-size:.72rem; font-weight:800; letter-spacing:.08em; text-transform:uppercase; display:block; margin-bottom:6px;}
+  .box p:first-of-type{margin-top:2px;}
+  .box p:last-child{margin-bottom:2px;}
+
+  .evidence{background:var(--evi-soft); border-color:var(--evi-line);}
+  .evidence .box-tag{color:var(--evi);}
+  .evidence .cite{font-size:.82rem; color:#2b6b58; display:block; margin-top:8px; border-top:1px dashed var(--evi-line); padding-top:7px;}
+  .num{font-weight:700; color:var(--evi);}
+
+  .beginner{background:var(--beg-soft); border-color:var(--beg-line);}
+  .beginner .box-tag{color:var(--beg);}
+
+  .warn{background:var(--warn-soft); border-color:var(--warn-line);}
+  .warn .box-tag{color:var(--warn);}
+
+  .pearl{background:var(--accent-soft); border-color:#c7ddf3;}
+  .pearl .box-tag{color:var(--accent);}
+
+  /* evidence strength pills */
+  .lvl{display:inline-block; font-size:.68rem; font-weight:700; padding:1px 7px; border-radius:20px; margin-left:6px; vertical-align:middle;}
+  .lvl.high{background:#e3f3ec; color:#0d7a5f;}
+  .lvl.mid{background:#fdf3e0; color:#b4820a;}
+  .lvl.low{background:#fbe8e6; color:#b4520a;}
+
+  /* difficulty ladder */
+  .ladder{display:flex; gap:6px; flex-wrap:wrap; margin:12px 0 16px;}
+  .ladder .step{flex:1; min-width:90px; text-align:center; padding:10px 6px; border-radius:8px; font-size:.82rem; font-weight:600; color:#fff;}
+  .ladder .s1{background:#3f9d6c;} .ladder .s2{background:#6aa84f;}
+  .ladder .s3{background:#c9a227;} .ladder .s4{background:#d97a2b;} .ladder .s5{background:#c0392b;}
+  .ladder .step small{display:block; font-weight:400; opacity:.9; font-size:.7rem; margin-top:2px;}
+
+  mark{background:#fff3a3; padding:0 2px; border-radius:3px;}
+  .no-match{display:none !important;}
+
+  footer.doc{color:var(--muted); font-size:.8rem; text-align:center; padding:24px 0; border-top:1px solid var(--line); margin-top:20px;}
+
+  @media (max-width:900px){
+    .wrap{grid-template-columns:1fr;}
+    nav.toc{position:static; height:auto; border-right:none; border-bottom:1px solid var(--line);}
+    main{padding:22px 18px 80px;}
+  }
+  @media print{
+    nav.toc{display:none;} .wrap{display:block;} main{padding:0;}
+    .chapter.collapsed .ch-body{display:block !important;}
+    .box,section.chapter{break-inside:avoid;}
+    body{background:#fff; font-size:12px;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<!-- ===================== TOC ===================== -->
+<nav class="toc">
+  <div class="brand">투명교정 임상매뉴얼
+    <small>CLEAR ALIGNER · 교과서판 · 초보자 참고</small>
+  </div>
+  <div class="search-box">
+    <input id="q" type="search" placeholder="🔎 매뉴얼 내 검색 (예: IPR, 회전, 근거)" autocomplete="off">
+    <div class="search-hint" id="hint">전체 표시 중</div>
+  </div>
+  <ol>
+    <li><a href="#c0">시작하기 — 초보자 로드맵</a></li>
+    <li><a href="#c1">01 · 개요 — 원리와 적응증</a></li>
+    <li><a href="#c2">02 · 진단 및 치료계획</a></li>
+    <li><a href="#c3">03 · 어태치먼트 설계</a></li>
+    <li><a href="#c4">04 · 발치 공간 관리와 역학</a></li>
+    <li><a href="#c5">05 · IPR 프로토콜</a></li>
+    <li><a href="#c6">06 · 트러블슈팅</a></li>
+    <li><a href="#c7">07 · 리테이너와 유지관리</a></li>
+    <li><a href="#c8">08 · 안전성·재료·주변효과</a></li>
+    <li><a href="#cA">부록 A · 마스터 체크리스트</a></li>
+    <li><a href="#cB">부록 B · 근거 요약 지도</a></li>
+  </ol>
+  <div style="margin-top:18px;">
+    <button id="toggleAll" style="width:100%;padding:8px;border:1px solid var(--line);background:#fbfcfe;border-radius:8px;cursor:pointer;font-size:.82rem;">전체 접기 / 펼치기</button>
+  </div>
+</nav>
+
+<!-- ===================== MAIN ===================== -->
+<main>
+<header class="doc">
+  <div class="kicker">Clear Aligner Therapy · Clinical Working Manual</div>
+  <h1>투명교정 임상매뉴얼 <span style="font-weight:400;font-size:1rem;">— 교과서판</span></h1>
+  <div class="en">Diagnosis to Retention — a beginner-oriented, evidence-anchored working manual</div>
+  <div class="meta">
+    REV. 2026.07 · 개인 임상 지식베이스(LLM-Wiki) 통합판 · 초보 투명교정 술자 기준<br>
+    실전 프로토콜(업로드 매뉴얼) + 위키 근거 종합(투명교정 논문 56편) 결합. 각 단계에 <b>근거박스</b>로 "왜 그렇게 하는가"를 붙였습니다.
+  </div>
+</header>
+
+<div class="box beginner">
+  <span class="box-tag">이 매뉴얼을 읽는 법</span>
+  <p>본문은 진료 흐름(진단 → 계획 → 부착 → 이동 → 마무리 → 유지)을 그대로 따라갑니다. 각 절에는 세 종류의 박스가 붙습니다.</p>
+  <p>🟩 <b>근거박스</b> — 이 프로토콜을 뒷받침하는 논문과 수치(위키 종합). &nbsp; 🟪 <b>초보 팁</b> — 처음 하는 술자가 실수하는 지점. &nbsp; 🟧 <b>주의</b> — 넘어가면 위험한 안전 수칙.</p>
+  <p style="margin-top:8px;font-size:.85rem;color:var(--muted);">근거 강도 표기: <span class="lvl high">강</span> 체계적고찰+메타분석/RCT · <span class="lvl mid">중</span> 코호트/우산고찰 · <span class="lvl low">약</span> 증례/생체외/근거불충분</p>
+</div>
+
+<!-- ============ C0 : ROADMAP ============ -->
+<section class="chapter" id="c0">
+  <div class="ch-head"><span class="ch-num">START</span><h2>시작하기 — 초보자 로드맵<span class="en">How to build up as a beginner</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+    <p>투명교정의 성패는 "장치의 원리"보다 <b>증례 선택</b>과 <b>계획의 보수성</b>에서 갈립니다. 처음 10~15케이스는 반드시 아래 "쉬운 케이스" 조건을 지키고, 난이도를 단계적으로 올리세요.</p>
+    <div class="ladder">
+      <div class="step s1">경사이동<small>Tipping · 가장 예측 쉬움</small></div>
+      <div class="step s2">치체이동<small>Translation</small></div>
+      <div class="step s3">회전<small>Rotation · 원형치아 특히 난해</small></div>
+      <div class="step s4">압출<small>Extrusion</small></div>
+      <div class="step s5">압하<small>Intrusion · 가장 어려움</small></div>
+    </div>
+    <p style="font-size:.86rem;color:var(--muted);">난이도는 좌→우로 증가. 경사이동은 트레이 단독으로도 비교적 정확하나, 압하·회전·치체이동은 어태치먼트와 스테이징 설계 없이는 트래킹 실패 위험이 큽니다.</p>
+
+    <h4>첫 케이스 안전 기준</h4>
+    <ul class="checklist">
+      <li>경도 총생 (Crowding) 4mm 이내, 회전 20° 미만</li>
+      <li>압하(intrusion)가 필요 없는 케이스</li>
+      <li>비발치 · 골격성 부조화 없음</li>
+      <li>편측(한쪽 악궁) 성인, 심미 개선 중심</li>
+      <li>착용시간을 지킬 협조도 높은 환자</li>
+    </ul>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 왜 쉬운 케이스부터인가 <span class="lvl high">강</span></span>
+      <p>경도~중등도 <b>비발치</b> 부정교합에서 투명교정(Clear Aligner Therapy, CAT)은 고정성장치(Fixed Appliance, FA)와 <span class="num">교합결과가 동등</span>합니다 — RCT 21편 메타분석(n=970)에서 ABO-OGS·PAR·치열 불규칙지수 모두 유의차 없음. 그러나 같은 문헌들이 <b>중증·특정 이동(토크·회전·압출)에서는 열등</b>하다고 일관되게 지적합니다.</p>
+      <p>실제 이동 발현율(계획 대비 실현)은 평균 <span class="num">약 50%</span>에 불과하며, 원심이동 58~75%에서 <b>수직이동은 13~52.9%</b>까지 떨어집니다. 즉 어려운 이동일수록 "계획대로 안 되는" 구간입니다.</p>
+      <span class="cite">Baneshi 2024 (RCT 21편 메타) · Yassir 2022 (우산고찰 18 SR) · Lei 2026 (내러티브 리뷰, 발현율 종합)</span>
+    </div>
+
+    <div class="box beginner">
+      <span class="box-tag">초보 팁</span>
+      <p>"이 케이스 될까?"가 애매하면 <b>안 되는 쪽에 걸어라</b>. 초반 실패 한 건이 신뢰와 자신감을 크게 깎습니다. 애매한 회전·압하·발치 케이스는 경험이 쌓인 뒤로 미루세요.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C1 : OVERVIEW ============ -->
+<section class="chapter" id="c1">
+  <div class="ch-head"><span class="ch-num">01</span><h2>개요 — 원리와 적응증<span class="en">Mechanism, indications, contraindications</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">1.1</span>생체역학적 원리</h3>
+    <p>투명교정 장치는 각 단계(스테이지)마다 목표 치아 위치를 <b>0.2~0.33mm</b>씩 어긋나게 설계한 얇은 열가소성 트레이를 순차 장착하여, 트레이와 치아 사이 형태 차이에서 발생하는 <b>지속적이고 가벼운 힘</b>으로 치아를 이동시킵니다. 브라켓-와이어와 달리 힘이 초기에 집중되고, 트레이 재질의 <b>응력완화(stress relaxation)</b>에 따라 시간에 걸쳐 감소하는 것이 특징입니다.</p>
+    <p>치아 이동은 트레이의 탄성력뿐 아니라 어태치먼트(3장)·파워리지·버튼 등 보조요소와의 조합으로 조절됩니다. 회전·압하·치체이동처럼 트레이 단독으로 예측이 어려운 이동일수록 보조요소 설계가 성공률을 좌우합니다.</p>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 이동 유형별 정확도 <span class="lvl mid">중</span></span>
+      <p>상악 전치 612건 이동을 분석한 체계적고찰에서 <b>토크가 가장 부정확</b>(정확도 <span class="num">49.1~51.5%</span>)했고, 압하는 종종 <b>정출로 방향이 역전</b>되었습니다. 반면 압출(최대 142%)·수평이동(67.6~78.9%)은 상대적으로 신뢰할 만했습니다. 어태치먼트·파워리지가 개선은 하나 토크·압하의 약점을 완전히 해결하진 못합니다.</p>
+      <span class="cite">Gonçalves 2023 (Invisalign 상악전치 정확도 SR, 5편·612 이동, SmartTrack 시대)</span>
+    </div>
+
+    <h3><span class="sec-id">1.2</span>적응증 · 금기증 체크리스트</h3>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;">
+      <div>
+        <h4 style="color:var(--evi);">양호한 적응증</h4>
+        <ul class="checklist">
+          <li>경도~중등도 총생 (4~6mm 이내)</li>
+          <li>경도 개방교합 / 과개교합</li>
+          <li>협착 치궁의 완만한 확장</li>
+          <li>재발 케이스의 재치료</li>
+          <li>보철 전 최소 이동 (공간 재분배)</li>
+          <li>성인 환자의 심미 우선 요구</li>
+        </ul>
+      </div>
+      <div>
+        <h4 style="color:var(--warn);">주의 / 상대적 금기</h4>
+        <ul class="checklist">
+          <li>심한 골격성 부정교합 (악교정 필요)</li>
+          <li>심도 회전 필요 (원형 치아, &gt;40°)</li>
+          <li>다수 치아 압하 필요</li>
+          <li>심각한 치주 지지 상실</li>
+          <li>협조도 낮은 환자 (착용시간 미준수)</li>
+          <li>다수 임플란트 보철물 (앵커리지 제한)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 적응증 경계(indication gradient) <span class="lvl mid">중</span></span>
+      <p>18개 체계적고찰을 종합한 우산고찰의 결론: CAT는 <b>경도~중등도에 효과적</b>이나 <b>중증 및 특정 이동(토크·정출·회전)에는 열등</b>하고 재발이 더 많다. 이 "경계"가 적응증 판단의 핵심 축입니다 — 부정교합 스펙트럼의 단순한 쪽은 FA와 동등, 복잡·골격 쪽으로 갈수록 열화.</p>
+      <span class="cite">Yassir 2022 (CAT vs FAT 우산고찰)</span>
+    </div>
+
+    <div class="box warn">
+      <span class="box-tag">주의 · 환자 기대 관리부터가 치료의 시작</span>
+      <p>성인 인비절라인 환자 82명 설문에서 예측성 기대 <span class="num">8.6/10</span>, "고정장치와 동등한 결과" 기대 <span class="num">9.5/10</span>로 <b>천장에 가까운 기대</b>를 보였고, 결과 품질을 시간·비용·보조장치와 바꾸려는 의향은 거의 없었습니다(≤2.6/10). 선행문헌의 치료 후 불만족률이 54.8%에 달하는 만큼, <b>초진 동의 단계에서 이동별·중증도별 한계를 명확히 보정</b>하는 것이 분쟁 예방의 출발점입니다.</p>
+      <span class="cite">Nemec 2026 (환자 기대·동의 전향 코호트, n=82)</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C2 : DIAGNOSIS ============ -->
+<section class="chapter" id="c2">
+  <div class="ch-head"><span class="ch-num">02</span><h2>진단 및 치료계획 수립<span class="en">Diagnosis & treatment planning workflow</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">2.1</span>초진 기록 체크리스트</h3>
+    <ol class="checklist numbered">
+      <li>구강 내/외 사진 (정면·측면·구강내 5~7매 규격 촬영)</li>
+      <li>파노라마 방사선 — 치근 형태, 매복치, 치주골 수준 확인</li>
+      <li>측모 두부규격방사선(Ceph) — 골격성 부정교합 의심 시 필수</li>
+      <li>디지털 인상 또는 알지네이트 모형 — 상하악 및 교합 채득</li>
+      <li>필요 시 콘빔CT(CBCT) — 치근흡수 병력, 매복치, 협측골 두께 평가</li>
+      <li>턱관절(TMJ) 촉진 및 개구량·편위 기록</li>
+      <li>치주 검사 — 치은퇴축, 동요도, 부착소실 유무</li>
+    </ol>
+
+    <h3><span class="sec-id">2.2</span>공간 분석</h3>
+    <table>
+      <thead><tr><th>분석 항목</th><th>목적</th><th>비고</th></tr></thead>
+      <tbody>
+        <tr><td>치아 크기 부조화 (Bolton)</td><td>상하악 치아 크기 비율 확인</td><td>전치부/전체 비율 별도 산출</td></tr>
+        <tr><td>치궁 길이 부조화 (ALD)</td><td>필요 공간 vs 가용 공간</td><td>IPR·확장·발치 결정 근거</td></tr>
+        <tr><td>스피 만곡 (Curve of Spee)</td><td>평탄화에 필요한 공간 산정</td><td>1mm 평탄화 ≈ 편측 0.5mm</td></tr>
+        <tr><td>전치부 토크/각도</td><td>치근 위치·골성 한계 확인</td><td>Ceph 분석과 교차 확인</td></tr>
+      </tbody>
+    </table>
+
+    <h3><span class="sec-id">2.3</span>치료 목표 설정 프로토콜</h3>
+    <ol class="checklist numbered">
+      <li>주소(chief complaint)와 심미/기능 우선순위 확인</li>
+      <li>발치 vs 비발치 방침 결정 (4장 참조)</li>
+      <li>앵커리지 요구도 분류 — 최소 / 중등도 / 최대</li>
+      <li>전치부 토크·수직 관계 목표 설정 (과개·개방교합 보정량)</li>
+      <li>교합 목표 — Class I 견치·구치 관계 도달 여부 및 타협안</li>
+      <li>예상 총 치료기간 및 스테이지 수 추정</li>
+    </ol>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 발치 케이스는 "이중 페널티"를 각오하라 <span class="lvl mid">중</span></span>
+      <p>발치 공간폐쇄 CAT는 두 가지 특유의 생체역학 페널티가 겹칩니다. ① <b>스피 만곡 평탄화 실패</b> — 발치군은 소프트웨어 예측보다 <span class="num">1.64배</span> 더 미달(예측 -1.38 vs 실제 -0.84mm). ② <b>치근 이동의 구조적 과소달성</b> — 상악 4소구치 발치 CBCT 중첩에서 치근이 치관보다 항상 덜 움직였고, 상악 중절치 치근 최대 오차 <span class="num">5.49mm</span>, 전치는 계획된 압하 대신 오히려 정출. → ClinCheck 설계 시 <b>치근·토크를 계획값 이상으로 과보정</b>해야 합니다(치관 목표만 맞추면 실패).</p>
+      <span class="cite">Tang 2025 (스피만곡, n=60) · Wang 2025 (발치 3D 치아이동 CBCT, 47명·542치아)</span>
+    </div>
+
+    <h3><span class="sec-id">2.4</span>디지털 셋업(ClinCheck 등) 검토 체크리스트</h3>
+    <ul class="checklist">
+      <li>치아별 이동량이 단계당 허용 범위(0.2~0.33mm, 회전 2° 이내) 내인가</li>
+      <li>어태치먼트 위치·형태가 이동 유형과 일치하는가 (3장)</li>
+      <li>과도교정(overcorrection)이 회전·압하·<b>치근토크</b> 부위에 반영되었는가</li>
+      <li>구치부 교합 접촉이 최종 단계에서 적절히 형성되는가</li>
+      <li>IPR 계획량과 시행 시점이 명시되어 있는가 (5장)</li>
+      <li>전치부 토크 변화가 치근흡수 위험 범위를 넘지 않는가</li>
+    </ul>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 확장은 반드시 과교정으로 설계 <span class="lvl mid">중</span></span>
+      <p>확장은 계획대로 발현되지 않습니다. 성인 인비절라인 확장 후향코호트(98명)에서 평균 오차 <span class="num">0.92mm</span>, 부위의 <span class="num">72.2%</span>가 과소확장 — 상악·구치·교차교합·대량 계획일수록 악화. 혼합치열 소아(40명)에서는 계획 1mm당 임상 <span class="num">0.6mm</span>만 발현(전체 80.2%), 대구치는 대부분 협측 치관경사. → <b>5mm를 얻으려면 ClinCheck에서 약 7mm를 계획</b>하고, 진성 골격 확장이 필요하면 급속확장(RME) 등 전통 장치를 쓰세요.</p>
+      <span class="cite">de la Rosa-Gay 2025 (성인 확장 예측성) · Bruni 2024 (혼합치열 Invisalign First) · Fonseca-Planells 2026 (성장기 확장 SR+MA)</span>
+    </div>
+
+    <div class="box beginner">
+      <span class="box-tag">초보 팁</span>
+      <p>초보 단계에서 골격성 여부가 애매하면 <b>Ceph를 반드시 찍어</b> 판단하세요. 골격성을 치성으로 오판해 CAT로 밀어붙이면 트래킹은 되는데 얼굴은 안 바뀌는(=환자 불만) 결과가 나옵니다.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C3 : ATTACHMENTS ============ -->
+<section class="chapter" id="c3">
+  <div class="ch-head"><span class="ch-num">03</span><h2>어태치먼트 설계 원칙<span class="en">Attachment design principles</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">3.1</span>형태별 분류</h3>
+    <table>
+      <thead><tr><th>형태</th><th>주 용도</th></tr></thead>
+      <tbody>
+        <tr><td>직사각형 (Rectangular)</td><td>치체이동, 그립 강화</td></tr>
+        <tr><td>경사형 (Beveled)</td><td>압하 / 압출 보조</td></tr>
+        <tr><td>최적화형 (Optimized)</td><td>원형 치아 회전 보조</td></tr>
+      </tbody>
+    </table>
+
+    <h3><span class="sec-id">3.2</span>이동 유형별 매칭 가이드</h3>
+    <table>
+      <thead><tr><th>이동 유형</th><th>권장 어태치먼트</th><th>부착 위치</th></tr></thead>
+      <tbody>
+        <tr><td>치체이동 (원심/근심)</td><td>직사각형·최적화 어태치먼트</td><td>치관 중앙, 치축 평행</td></tr>
+        <tr><td>압하 (Intrusion)</td><td>경사형 (반대측 경사)</td><td>순면/협면 중앙</td></tr>
+        <tr><td>압출 (Extrusion)</td><td>경사형 + 파워리지 병용 고려</td><td>치은연 인접부</td></tr>
+        <tr><td>회전 (견치·소구치, 원형치관)</td><td>타원형 2개 (근심/원심)</td><td>치관 근원심 1/3</td></tr>
+        <tr><td>치근 토크 조절</td><td>직사각형, 수직 배치</td><td>치관 중앙 종축</td></tr>
+      </tbody>
+    </table>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 어태치먼트가 "성패의 게이트" <span class="lvl mid">중</span></span>
+      <p>복합레진 어태치먼트는 전치 토크·회전·근원심이동·후방 앵커리지를 대체로 개선합니다(압하는 근거 약함, 압출은 근거 부재). 유한요소분석(FEA) 29편 종합은 CAT 부작용이 <b>치관-치근 불균등 응력</b>에서 기인하며, 어태치먼트·파워리지·디봇·막두께가 응력을 재분배해 <b>경사이동을 치체이동으로 전환</b>한다고 설명합니다.</p>
+      <p>결정적 증거: 압출 벤치 실측에서 <b>어태치먼트가 없으면 8개 마진 디자인 전부가 계획과 반대인 압하력</b>을 발생시켰습니다. 즉 "형태 최적화"보다 <b>어태치먼트의 존재 자체</b>가 선행 조건입니다.</p>
+      <span class="cite">Nucera 2022 (어태치먼트 SR) · Cao 2025 (FEA 29편 SR) · Baik 2024 (압출 force/moment 벤치 실측)</span>
+    </div>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 형태·크기·재료의 미세조정 <span class="lvl low">약(생체외)</span></span>
+      <p>FEA에서 <b>같은 형태면 작을수록 이동량 증가</b>(역비례). 사각-베벨은 회전에, 삼각-베벨은 경사에, 최소 파워리지(0.5×0.5×5mm)는 토크에 가장 유리 → 형태와 크기가 독립적인 두 조절 레버입니다. 재료는 나노하이브리드/고점도 레진이 기계·마모저항 우수(후방 고하중), 유동성 레진은 취급성 우수하나 표면조도·착색(커피·레드와인)에 취약(전방 심미부).</p>
+      <p><b>단, 정확도로는 차이 없음:</b> '최적화(3D 베벨)' vs '재래식' 어태치먼트 직접비교 메타(7편·n=526)에서 견치 재회전·전치 정출 모두 유의차 없었고 둘 다 ClinCheck 목표에 미달. → <b>어태치먼트를 정확도만으로 선택하지 마세요.</b></p>
+      <span class="cite">Pede 2024 (형상·크기 FEA) · Frias 2026 (재료과학 SR) · Muthuswamy Pandian 2025 (최적화 vs 재래식 SR+MA)</span>
+    </div>
+
+    <h3><span class="sec-id">3.3</span>부착 시행 체크리스트</h3>
+    <ul class="checklist">
+      <li>부착 전 치면 세마 및 격리(러버댐/코튼롤) 확보</li>
+      <li>템플릿(부착물 트레이) 적합 상태 확인 — 변형·들뜸 없는지</li>
+      <li>에칭 → 프라이머 → 플로우/페이스트 레진 순서 준수</li>
+      <li>템플릿 내 과잉 레진은 광중합 전 정리</li>
+      <li>광중합 후 템플릿 제거 — 잔여 레진 및 예리한 경계 다듬기</li>
+      <li>최초 트레이 시적 — 이장 및 압통 여부 확인</li>
+    </ul>
+    <div class="box beginner">
+      <span class="box-tag">초보 팁</span>
+      <p>어태치먼트 위치가 0.5mm만 어긋나도 트레이가 뜨고 그 치아 이동이 통째로 실패합니다. 광중합 전 <b>템플릿 완전 안착</b>과 <b>과잉 레진 정리</b>에 시간을 아끼지 마세요. 마진 트림라인(직선/연장형)이 힘 전달과 유지력을 좌우하므로, 시스템 기본 트림 설정을 함부로 바꾸지 마세요(Nakornnoi 2024).</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C4 : SPACE / BIOMECHANICS ============ -->
+<section class="chapter" id="c4">
+  <div class="ch-head"><span class="ch-num">04</span><h2>발치 공간 관리와 치아이동 역학<span class="en">Space closure & biomechanics</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">4.1</span>공간 폐쇄 방식 비교</h3>
+    <table>
+      <thead><tr><th>방식</th><th>특징</th><th>적용</th></tr></thead>
+      <tbody>
+        <tr><td>그룹 이동 (Group movement)</td><td>인접 치아 동시 근심/원심 이동으로 발치공간 분할 폐쇄. 앵커리지 부담 분산.</td><td>최소~중등도 앵커리지, 다수 치아 이동</td></tr>
+        <tr><td>개별 이동 (Sequential)</td><td>한 치아씩 순차 폐쇄. 예측성 높으나 치료기간 길어질 수 있음.</td><td>최대 앵커리지, 견치 원심이동 우선</td></tr>
+      </tbody>
+    </table>
+
+    <h3><span class="sec-id">4.2</span>앵커리지 관리 체크리스트</h3>
+    <ul class="checklist">
+      <li>앵커리지 등급 분류(최소/중등도/최대) 및 근거 기록</li>
+      <li>후방 치아 그룹 어태치먼트로 저항중심 이동 최소화</li>
+      <li>필요 시 임시고정장치(Temporary Anchorage Device, TAD) 병용 여부 검토</li>
+      <li>고무링(elastics) 사용 계획 — Class II/III 견인 방향 명시</li>
+      <li>매 내원 시 후방 치아 위치 변화(원치 않는 근심이동) 모니터링</li>
+    </ul>
+
+    <h3><span class="sec-id">4.3</span>치아이동 역학 — 저항중심과 힘의 방향</h3>
+    <p>힘의 작용선이 <b>저항중심(치근 중앙 부근)</b>에서 벗어날수록 모멘트가 발생해 원치 않는 경사이동이 생깁니다. 어태치먼트는 힘의 작용점을 치관 쪽으로 옮겨 <b>모멘트/힘 비율</b>을 조절하는 도구로 이해하세요 — 치체이동을 원하면 저항중심을 지나는 힘 벡터를 만들어야 하며, 이때 어태치먼트 위치·형태가 결정적입니다.</p>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 발치 특유의 3대 현상과 "Roller Coaster Effect" <span class="lvl low">약~중</span></span>
+      <p>Lei 2026은 CAT 특유의 생체역학 현상 3가지를 명명합니다 — <b>Watermelon Seed</b>(비대칭 치관 피개로 인한 불균등 힘), <b>Pendulum</b>(후방 견인 반작용으로 전치 설측경사·정출), <b>Roller Coaster</b>(공간폐쇄 중 조기접촉으로 인한 <b>구치부 개방교합</b>).</p>
+      <p>발치 65명 후향연구에서 제1대구치 기능교두거리가 가장 크게 증가(근심협측 <span class="num">+1.64mm</span>), <b>경도 총생군이 오히려 더 위험</b>(직관과 반대)했고, 작은 ANB·큰 상악전치 순측경사가 독립 위험인자였습니다.</p>
+      <span class="cite">Lei 2026 (생체역학 내러티브 리뷰) · Zhuo 2026 (Roller Coaster 후향, 발치 65명)</span>
+    </div>
+
+    <h3><span class="sec-id">4.4</span>Class II 원심이동(distalization) 전략</h3>
+    <p>상악 대구치 원심이동은 가능하나(~2mm) <b>전치 앵커리지 소실 위험이 높습니다</b>. TAD + IPR 병용 시 예측성·안정성이 향상됩니다.</p>
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 원심이동 계획 전 확인할 것 <span class="lvl mid">중</span></span>
+      <p>원심이동량은 대략 <span class="num">2mm</span>(달성/예측 36~78%)이며 <b>전치 앵커리지 소실이 매우 흔함</b>. TAD·IPR 병용이 도움되나 대조비교가 없어 근거는 낮음. 원심이동 후 상악 중절치 <b>블랙 트라이앵글(Open Gingival Embrasure, OGE) 발생률 17.3%</b> — 나이·ANB·U1-NA로 술전 예측 가능(AUC 0.839). 또한 <b>완전맹출 제3대구치</b>는 제2대구치 원심이동 효율을 10~22% 저해하므로 스테이징 전 확인하세요.</p>
+      <span class="cite">Bhate 2025 (원심이동 SR) · Inchingolo 2023 · Marinelli 2025 (TAD SR) · Shi 2026 (OGE 예측) · Kuguoglu 2024 (3대구치 FEA)</span>
+    </div>
+
+    <div class="box warn">
+      <span class="box-tag">주의 · 발치 공간폐쇄는 초보자 최대 난관</span>
+      <p>발치 공간폐쇄는 초보자에게 트래킹 실패가 가장 흔한 구간입니다. 단계당 이동량을 보수적으로(<b>0.15~0.2mm</b>) 설정하고, <b>중간 재스캔(midcourse correction)</b>을 계획에 미리 포함시키세요. 치근이 안 따라오는 것(2.3절 근거박스)을 전제로 토크 과보정을 넣어야 합니다.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C5 : IPR ============ -->
+<section class="chapter" id="c5">
+  <div class="ch-head"><span class="ch-num">05</span><h2>IPR(치간삭제) 프로토콜<span class="en">Interproximal reduction protocol</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">5.1</span>적응증 판단 기준</h3>
+    <ul class="checklist">
+      <li>치아 크기 부조화(Bolton) 보정이 필요한 경우</li>
+      <li>경도 총생(≤4mm) 해소를 위한 비발치 공간 확보</li>
+      <li>치아 형태를 이상적인 접촉점 형태로 개선하고자 할 때</li>
+      <li>블랙 트라이앵글 예방을 위한 접촉점 위치 조정</li>
+    </ul>
+
+    <h3><span class="sec-id">5.2</span>부위별 삭제량 가이드</h3>
+    <table>
+      <thead><tr><th>부위</th><th>치아면당 최대 삭제량</th><th>비고</th></tr></thead>
+      <tbody>
+        <tr><td>하악 전치부</td><td>0.2~0.3 mm</td><td>법랑질이 얇아 보수적 접근</td></tr>
+        <tr><td>상악 전치부</td><td>0.3~0.4 mm</td><td>근원심면 대칭 삭제 권장</td></tr>
+        <tr><td>소구치부</td><td>0.3~0.5 mm</td><td>치아당 총 삭제량 누적 확인</td></tr>
+        <tr><td>대구치부</td><td>0.4~0.5 mm</td><td>교합 접촉 재형성 고려</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:.86rem;color:var(--muted);">한 접촉점당 총 삭제량은 <b>0.5mm를 넘지 않도록</b> 하며, 편측 총 IPR 누적량이 치료계획 예정량을 초과하지 않는지 매 방문 확인.</p>
+
+    <h3><span class="sec-id">5.3</span>시행 순서 체크리스트</h3>
+    <ol class="checklist numbered">
+      <li>디지털 셋업의 IPR 계획표 확인 (부위·삭제량·시행 스테이지)</li>
+      <li>스트립 선택 — 조출용(coarse) → 마무리용(fine) 순서</li>
+      <li>치간 격리 및 인접치 보호(메탈 스트립 가드 권장)</li>
+      <li>삭제 후 게이지로 실제 삭제량 확인</li>
+      <li>연마 및 불소 도포로 표면 매끄럽게 마무리</li>
+      <li>치료 기록지에 시행 부위와 삭제량 기록</li>
+    </ol>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · IPR과 블랙 트라이앵글 예방 <span class="lvl mid">중</span></span>
+      <p>발치 프로토콜별 CBCT 코호트(n=281)에서 하악 <b>단일 절치 발치(OLIE)</b>는 접촉점-치조정 거리가 가장 커 OGE 위험 역치(≥6mm → 44% OGE)를 넘었고, 2소구치 발치(TPE)는 설측 골열개·토크 소실 특징을 보였습니다. IPR로 <b>접촉점을 치은 쪽으로 넓고 낮게</b> 재형성하면 블랙 트라이앵글을 줄일 수 있습니다. 원심이동 케이스의 OGE 17.3%(4.4절)와 함께, IPR은 심미 합병증 예방 도구이기도 합니다.</p>
+      <span class="cite">Zhang 2025 (발치 프로토콜별 치조골 CBCT, n=281) · Shi 2026 (OGE 예측)</span>
+    </div>
+
+    <div class="box warn">
+      <span class="box-tag">주의 · 안전 수칙</span>
+      <p>IPR은 계획된 스테이지에서 <b>트레이 장착 전에</b> 시행합니다. 삭제가 지연되면 인접 트레이가 맞지 않아 트래킹 오차가 누적됩니다. 삭제량이 불확실하면 <b>적게 삭제하고 다음 방문에서 추가</b>하는 편이 안전합니다.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C6 : TROUBLESHOOTING ============ -->
+<section class="chapter" id="c6">
+  <div class="ch-head"><span class="ch-num">06</span><h2>트러블슈팅 — 재발과 미달성 이동<span class="en">Troubleshooting: tracking failure & relapse</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">6.1</span>트래킹 불량 진단 체크리스트</h3>
+    <ul class="checklist">
+      <li>트레이와 치아 사이 들뜸(gap) 위치와 정도 확인</li>
+      <li>착용시간 문진 — 하루 20~22시간 기준 미달 여부</li>
+      <li>어태치먼트 탈락 또는 마모 여부 육안 확인</li>
+      <li>계획된 IPR이 시행 시점에 맞게 이루어졌는지 확인</li>
+      <li>특정 이동 유형(회전/압하)에 반복 발생하는지 패턴 확인</li>
+      <li>교합 간섭이 이동을 방해하고 있는지 확인</li>
+    </ul>
+
+    <h3><span class="sec-id">6.2</span>원인별 대응</h3>
+    <table>
+      <thead><tr><th>원인</th><th>대응</th></tr></thead>
+      <tbody>
+        <tr><td>착용시간 부족</td><td>동일 단계 트레이 재착용 지시 후 재평가, 협조도 상담</td></tr>
+        <tr><td>어태치먼트 탈락</td><td>즉시 재부착, 형태 동일하게 재현</td></tr>
+        <tr><td>과도한 단계당 이동량</td><td>리파인먼트에서 단계 수 늘려 이동량 축소</td></tr>
+        <tr><td>회전 저항 (원형 치아)</td><td>스트리핑으로 치관 형태 개선 + 이중 어태치먼트</td></tr>
+        <tr><td>누적 IPR 지연</td><td>해당 스테이지 재작업 전 IPR 우선 시행</td></tr>
+      </tbody>
+    </table>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 착용 프로토콜(교체 주기)이 정확도를 바꾼다 <span class="lvl low">약</span></span>
+      <p>단축 착용(7일/10일)은 전치부 이동은 14일과 차이 없으나, 단일 저편향 RCT에서 <b>후방 압하·원심경사·협측토크는 14일 교체가 유의하게 정확</b>했습니다(통증은 착용기간 무관). → 획일적 단축보다 <b>단순 이동=단축, 복잡 이동=14일</b>의 하이브리드가 권장됩니다. 트래킹이 반복 실패하는 복잡 이동 구간에서는 교체 주기부터 늘리세요.</p>
+      <p>참고로 물리적 가속장치(진동·저출력레이저)는 트래킹·정렬을 <b>일관되게 개선하지 못했습니다</b>(RCT 7편, GRADE 낮음) — 비용 대비 근거 없음.</p>
+      <span class="cite">Monisha 2024 (착용 프로토콜 SR) · Sirri 2026 (가속 보조중재 RCT SR)</span>
+    </div>
+
+    <h3><span class="sec-id">6.3</span>리파인먼트 판단 기준</h3>
+    <ul class="checklist">
+      <li>마지막 트레이 장착 후 1~2주 경과, 트레이가 완전히 안착되는가</li>
+      <li>목표 교합 관계(견치·구치 관계, 전치부 피개교합) 도달 여부</li>
+      <li>잔여 회전/공간이 다음 리파인먼트 1~2회로 해결 가능한 범위인가</li>
+      <li>재스캔/재인상 전 IPR 및 부착물 상태 최종 점검</li>
+    </ul>
+
+    <div class="box beginner">
+      <span class="box-tag">초보 팁</span>
+      <p>트래킹 불량이 <b>2단계 이상 연속</b>되면 무리하게 진행하지 말고 그 시점에서 재평가하세요. 억지로 다음 트레이로 넘어가면 오차가 누적되어 리파인먼트 횟수만 늘어납니다. "발현율 평균 50%"(개요 근거박스)를 떠올리면, 미달성은 실패가 아니라 <b>예상된 정상 범위</b>입니다 — 리파인먼트를 계획의 일부로 여기세요.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C7 : RETENTION ============ -->
+<section class="chapter" id="c7">
+  <div class="ch-head"><span class="ch-num">07</span><h2>리테이너와 유지관리<span class="en">Retention & maintenance</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+
+    <h3><span class="sec-id">7.1</span>리테이너 종류별 선택 기준</h3>
+    <table>
+      <thead><tr><th>종류</th><th>장점</th><th>고려사항</th></tr></thead>
+      <tbody>
+        <tr><td>투명 리테이너 (가철식)</td><td>심미적, 착탈 용이, 교합 간섭 적음</td><td>협조도 의존, 주기적 교체 필요</td></tr>
+        <tr><td>고정식 리테이너 (와이어 본딩)</td><td>협조도 무관, 전치부 안정성 우수</td><td>구강위생 관리 난이도, 탈락 모니터링</td></tr>
+        <tr><td>병용 (가철식+고정식)</td><td>이중 안전장치, 회전 재발 방지 유리</td><td>비용 및 관리 부담 증가</td></tr>
+      </tbody>
+    </table>
+
+    <h3><span class="sec-id">7.2</span>유지관리 스케줄</h3>
+    <ul class="checklist">
+      <li>치료 종료 직후: 착용 지침 안내 (첫 3~6개월 야간 + 가능한 주간 병행)</li>
+      <li>1개월: 적합도 및 착용 순응도 확인</li>
+      <li>3개월: 고정식 리테이너 탈락 여부, 가철식 변형 확인</li>
+      <li>6개월: 재발 징후(공간 재발생, 회전 재발) 촬영 비교</li>
+      <li>이후 매년: 정기 검진, 리테이너 마모 시 재제작</li>
+    </ul>
+
+    <div class="box evidence">
+      <span class="box-tag">근거박스 · 재발은 규칙이지 예외가 아니다 <span class="lvl low">약~중</span></span>
+      <p>우산고찰(Yassir 2022)은 CAT의 재발이 FA보다 많을 수 있다고 지적하며, Class III camouflage 맥락에서 전체 재발률은 <span class="num">약 30%</span>(비발치 &gt; 발치 재발)로 보고됩니다. 특히 회전이 컸던 치아, 원형 치관(견치·소구치)은 재발 경향이 강합니다. → <b>유지는 치료의 연장</b>이며, 회전·하악 전치는 <b>장기(사실상 평생) 유지</b>를 전제로 초진부터 설명하세요.</p>
+      <span class="cite">Yassir 2022 (우산고찰) · Rutili 2026 (Class III camouflage 재발률)</span>
+    </div>
+
+    <div class="box beginner">
+      <span class="box-tag">초보 팁</span>
+      <p>유지관리가 "종료가 아니라 연장"이라는 점을 <b>초진 상담 단계에서 명시</b>하세요. 치료 막판에 리테이너 평생 착용을 처음 꺼내면 환자는 배신감을 느낍니다. 동의서에 미리 넣어두는 것이 분쟁 예방에 유효합니다.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ C8 : SAFETY / MATERIAL / SIDE ============ -->
+<section class="chapter" id="c8">
+  <div class="ch-head"><span class="ch-num">08</span><h2>안전성 · 재료 · 주변 효과<span class="en">Safety, materials & ancillary effects</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+    <p>초진 상담과 동의에서 자주 받는 질문(치근흡수, 턱관절, 재료 안전성, 잇몸)에 대한 근거 요약입니다. 대체로 <b>안심시켜도 되나</b> 근거 강도는 항목마다 다릅니다.</p>
+
+    <h3><span class="sec-id">8.1</span>치근흡수 · 치조골</h3>
+    <div class="box evidence">
+      <span class="box-tag">근거박스 <span class="lvl mid">중</span></span>
+      <p>CBCT 메타(9편): CAT 후 외흡수는 <b>최소</b>(절치 치근길이 평균 <span class="num">-0.56mm</span>), 상악 중절치가 가장 취약 — FA보다 흡수 위험 낮음. 단 발치 CAT CBCT(94명)에서 상악 중절치 <b>구개측 골결손</b>이 유의(순측골은 유지)했고, 이동 벡터(후방이동·압하·치근원심이동·설측경사)별로 위험 부위가 달랐습니다. → <b>순수 후방이동량이 아니라 이동 벡터 전체</b>로 골위험을 계획하세요.</p>
+      <span class="cite">Butsabul 2024 (치근흡수 CBCT SR+MA) · Luo 2025 (발치 CAT 치조골 CBCT)</span>
+    </div>
+
+    <h3><span class="sec-id">8.2</span>치주 · 구강위생</h3>
+    <div class="box evidence">
+      <span class="box-tag">근거박스 <span class="lvl low">약</span></span>
+      <p>CAT의 치주 이점은 <b>일관되게 신호되나 확증되진 않았습니다</b> — 치태·PPD 일부만 유의(I²=99%, 근거 매우 낮음~낮음), <b>협조도 의존</b>. 기전 측면에서 타액 TNF-α가 전 시점(24h·7d·21d)에서 FA가 CA보다 유의하게 높아(간헐적 힘 vs 지속적 힘) 편의·치주 우위를 뒷받침합니다. 구강미생물총은 착용 초기 일시적 이상변화 후 안정화. → "잇몸에 더 좋다"는 <b>조건부(협조도 좋을 때)</b>로 설명하세요.</p>
+      <span class="cite">Crego-Ruiz 2023 · Alhuwaizi 2026 (GRADE SR) · Hassan 2024 (타액 TNF-α) · Tabone 2026 (미생물총 SR)</span>
+    </div>
+
+    <h3><span class="sec-id">8.3</span>턱관절 · 저작근 · 이갈이</h3>
+    <div class="box evidence">
+      <span class="box-tag">근거박스 <span class="lvl low">약</span></span>
+      <p>대체로 <b>중립</b>: 저작근 활성/불편은 착용 초기 일시 변화 후 정상화, 표면근전도(sEMG) 통합차이 무의, 성인 Class I/II 비발치에서 TMJ 형태변화 미미. 이갈이(bruxism) 첫 SR도 보호적이지도 유해하지도 않다고 결론(단정 불가). → 근거는 약하나 <b>금기 사유는 아님</b>.</p>
+      <span class="cite">Almalki 2024 · Lekavičiūtė 2024 (sEMG) · Montasser 2026 (TMJ) · Porporatti 2026 (bruxism SR)</span>
+    </div>
+
+    <h3><span class="sec-id">8.4</span>재료 · 화학적 안전성</h3>
+    <div class="box evidence">
+      <span class="box-tag">근거박스 <span class="lvl low">약(생체외/혼합)</span></span>
+      <p>열가소성수지(PETG·hTPU·다층·블렌드)와 신소재(형상기억폴리머·3D프린트 레진)의 광학·기계·열·생체적합성이 재료선택을 좌우합니다. 화학물질 용출 SR(7편): CAT는 <b>대체로 안전</b>(BPA 등 용출은 독성한계 미만)하나 열성형(thermoforming) 후 세포독성이 증가하고 한 재료(Biolon)가 가장 세포독성 높음. → 독성 근거로 CAT를 금기할 이유는 없으나, <b>재료 선택은 성능·생체적합성 모두에 영향</b>.</p>
+      <span class="cite">Delgado 2025 (열가소성수지 리뷰) · Ferreira 2025 (화학물질 용출 SR)</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ APPENDIX A : MASTER CHECKLIST ============ -->
+<section class="chapter" id="cA">
+  <div class="ch-head"><span class="ch-num">부록 A</span><h2>마스터 체크리스트<span class="en">Master checklist — end to end</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">
+      <div>
+        <h4>01–02 · 진단 / 계획</h4>
+        <ul class="checklist">
+          <li>초진 기록 완료</li><li>공간분석 완료</li><li>치료목표 확정</li><li>디지털 셋업 검토·승인</li>
+        </ul>
+        <h4>03 · 어태치먼트</h4>
+        <ul class="checklist">
+          <li>이동유형별 어태치먼트 확인</li><li>부착 시행 및 시적 확인</li>
+        </ul>
+        <h4>04 · 공간 / 역학</h4>
+        <ul class="checklist">
+          <li>앵커리지 등급 및 계획 기록</li><li>매 내원 후방치아 위치 확인</li><li>발치 시 토크·치근 과보정 반영</li>
+        </ul>
+      </div>
+      <div>
+        <h4>05 · IPR</h4>
+        <ul class="checklist">
+          <li>스테이지별 IPR 시점 준수</li><li>삭제량 게이지 확인 및 기록</li>
+        </ul>
+        <h4>06 · 트러블슈팅</h4>
+        <ul class="checklist">
+          <li>매 내원 트래킹 상태 점검</li><li>2단계 연속 미달 시 재평가</li><li>필요 시 리파인먼트 기준 검토</li>
+        </ul>
+        <h4>07 · 유지관리</h4>
+        <ul class="checklist">
+          <li>리테이너 종류 결정 및 제작</li><li>유지관리 스케줄 환자 안내</li><li>장기 유지 필요성 초진 고지</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ APPENDIX B : EVIDENCE MAP ============ -->
+<section class="chapter" id="cB">
+  <div class="ch-head"><span class="ch-num">부록 B</span><h2>근거 요약 지도<span class="en">Evidence map — 위키 56편 종합</span></h2><span class="toggle"></span></div>
+  <div class="ch-body">
+    <p style="font-size:.88rem;color:var(--muted);">본 매뉴얼의 근거박스는 아래 위키 종합(투명교정 논문 56편, <code>orthodontics/clear-aligner</code>)에서 인용했습니다. 원문 페이지는 LLM-Wiki의 각 stem 문서를 참조하세요.</p>
+    <table>
+      <thead><tr><th>축(주제)</th><th>핵심 논문</th><th>규모</th><th>결론</th><th>근거</th></tr></thead>
+      <tbody>
+        <tr><td>교합 효율</td><td>Baneshi 2024 · Yassir 2022</td><td>21 RCT / 18 SR</td><td>경중등도 CAT=FA, 중증 열등</td><td><span class="lvl high">강</span></td></tr>
+        <tr><td>이동 특이 한계</td><td>Ubuzima 2025 · Jaber 2023</td><td>12 / 6</td><td>FA가 토크·회전 우수, 예측-실제 괴리</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>상악전치 정확도</td><td>Gonçalves 2023</td><td>612 이동</td><td>토크 최저(49~52%), 압출·수평 신뢰</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>착용 프로토콜</td><td>Monisha 2024</td><td>6편·n=449</td><td>복잡이동은 14일&gt;단축, 통증 무관</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>발치 Roller Coaster</td><td>Zhuo 2026 · Lei 2026</td><td>65 / 내러티브</td><td>구치 개방교합, 경도총생 더 위험</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>발치 스피만곡</td><td>Tang 2025</td><td>60</td><td>예측보다 1.64배 미달</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>발치 3D 치근이동</td><td>Wang 2025</td><td>47·542치아</td><td>치근 과소달성, U1 root 5.49mm 오차</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>Class II 원심이동</td><td>Bhate 2025 · Shi 2026</td><td>11 / 75</td><td>~2mm, 앵커리지 소실, OGE 17.3%</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>Class II 하악전방유도</td><td>Yu 2023 · Huang 2026</td><td>283 / 465</td><td>골격효과=기능성장치, 치성 우위</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>어태치먼트 생체역학</td><td>Nucera 2022 · Cao 2025 · Baik 2024</td><td>5 / 29 FEA / 벤치</td><td>어태치먼트가 게이트, 응력 재분배</td><td><span class="lvl low">약~중</span></td></tr>
+        <tr><td>어태치먼트 정확도</td><td>Muthuswamy Pandian 2025</td><td>7편·n=526</td><td>최적화 vs 재래식 정확도 차이 없음</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>상악 확장</td><td>Fonseca-Planells 2026 · de la Rosa-Gay 2025 · Bruni 2024</td><td>15 / 98 / 40</td><td>치조성, 과소확장 72%, 과교정 필요</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>치근흡수·치조골</td><td>Butsabul 2024 · Luo 2025</td><td>9 / 94</td><td>흡수 최소, 골결손은 이동벡터 의존</td><td><span class="lvl mid">중</span></td></tr>
+        <tr><td>발치 프로토콜·골</td><td>Zhang 2025</td><td>281</td><td>OLIE→OGE, TPE→설측열개</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>치주·위생</td><td>Crego-Ruiz 2023 · Alhuwaizi 2026 · Hassan 2024</td><td>12 / 6 / 40</td><td>이점은 실재하나 협조도 의존</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>저작·TMJ·이갈이</td><td>Almalki · Lekavičiūtė · Montasser · Porporatti</td><td>6 / 6 / 4 / 11</td><td>대체로 중립, 근거 약</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>가속 보조</td><td>Sirri 2026</td><td>7 RCT</td><td>일관된 이점 없음</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>재료·화학안전</td><td>Delgado 2025 · Ferreira 2025</td><td>리뷰 / 7</td><td>독성한계 미만, 재료선택 중요</td><td><span class="lvl low">약</span></td></tr>
+        <tr><td>환자 기대·동의</td><td>Nemec 2026</td><td>82</td><td>천장 기대·낮은 타협의향</td><td><span class="lvl low">약</span></td></tr>
+      </tbody>
+    </table>
+    <div class="box pearl">
+      <span class="box-tag">한 문장 결론</span>
+      <p>경도~중등도·비발치·경사/정렬 위주·협조도 좋은 성인에게 자신 있게 선택하되, <b>토크·회전·압출·발치·체이동·중증·횡적 골격</b> 케이스는 어태치먼트·TAD·IPR로 보강하거나 고정장치로 전환하라. 치근흡수·턱관절은 근거상 억제 사유가 아니고, 치주 이점은 실재하되 협조도 의존이며, 가속장치는 비용 대비 근거가 없다.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="doc">
+  LLM-Wiki · 개인 임상 지식베이스 · 투명교정 임상매뉴얼 교과서판 REV. 2026.07<br>
+  실전 프로토콜은 업로드 매뉴얼, 근거는 위키 <code>orthodontics/clear-aligner</code> 56편 종합(<code>clear-aligner-indications-limitations</code>)에서 통합. 임상·법률 최종 판단은 술자 책임입니다.
+</footer>
+</main>
+</div>
+
+<script>
+(function(){
+  // ---- collapse toggle ----
+  document.querySelectorAll('.ch-head').forEach(function(h){
+    h.addEventListener('click',function(e){
+      if(e.target.tagName==='A') return;
+      h.parentElement.classList.toggle('collapsed');
+    });
+  });
+  var allCollapsed=false;
+  document.getElementById('toggleAll').addEventListener('click',function(){
+    allCollapsed=!allCollapsed;
+    document.querySelectorAll('section.chapter').forEach(function(s){
+      s.classList.toggle('collapsed',allCollapsed);
+    });
+  });
+
+  // ---- active TOC on scroll ----
+  var links=[].slice.call(document.querySelectorAll('nav.toc > ol > li > a'));
+  var secs=links.map(function(a){return document.querySelector(a.getAttribute('href'));});
+  function onScroll(){
+    var y=window.scrollY+120, idx=0;
+    secs.forEach(function(s,i){ if(s && s.offsetTop<=y) idx=i; });
+    links.forEach(function(a,i){ a.classList.toggle('active',i===idx); });
+  }
+  window.addEventListener('scroll',onScroll); onScroll();
+
+  // ---- search: filter + highlight ----
+  var q=document.getElementById('q'), hint=document.getElementById('hint');
+  function clearMarks(root){
+    root.querySelectorAll('mark').forEach(function(m){
+      var t=document.createTextNode(m.textContent); m.parentNode.replaceChild(t,m);
+      t.parentNode.normalize();
+    });
+  }
+  function highlight(node,re){
+    if(node.nodeType===3){
+      var txt=node.nodeValue, m=re.exec(txt);
+      if(m){
+        var span=document.createElement('span');
+        var last=0, frag=document.createDocumentFragment(); re.lastIndex=0; var mm;
+        while((mm=re.exec(txt))){
+          frag.appendChild(document.createTextNode(txt.slice(last,mm.index)));
+          var mk=document.createElement('mark'); mk.textContent=mm[0]; frag.appendChild(mk);
+          last=mm.index+mm[0].length;
+          if(mm.index===re.lastIndex) re.lastIndex++;
+        }
+        frag.appendChild(document.createTextNode(txt.slice(last)));
+        node.parentNode.replaceChild(frag,node);
+      }
+    } else if(node.nodeType===1 && node.childNodes && !/^(SCRIPT|STYLE|MARK)$/.test(node.tagName)){
+      [].slice.call(node.childNodes).forEach(function(c){highlight(c,re);});
+    }
+  }
+  var timer;
+  q.addEventListener('input',function(){
+    clearTimeout(timer);
+    timer=setTimeout(function(){
+      var term=q.value.trim();
+      var secsAll=document.querySelectorAll('main section.chapter');
+      secsAll.forEach(function(s){ clearMarks(s); s.classList.remove('collapsed'); });
+      if(!term){ secsAll.forEach(function(s){s.classList.remove('no-match');}); hint.textContent='전체 표시 중'; return; }
+      var re=new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi');
+      var shown=0;
+      secsAll.forEach(function(s){
+        var has=re.test(s.textContent); re.lastIndex=0;
+        if(has){ s.classList.remove('no-match'); highlight(s,re); shown++; }
+        else{ s.classList.add('no-match'); }
+      });
+      hint.textContent = shown? ('"'+term+'" — '+shown+'개 장에서 발견'):('"'+term+'" — 결과 없음');
+    },180);
+  });
+})();
+</script>
+</body>
+</html>
