@@ -3439,3 +3439,6 @@ tags: []
 - [[implants/peri-implantitis/shetty-2023-platelet-concentrates-peri-implantitis-treatment-sr]] — SR(JISP 2023, PROSPERO CRD42020202363): 혈소판농축제제(PRF/CGF/L-PRF)의 임플란트 주위염 치료 효과 — 12편 중 OFD 직접비교는 1편(Hamzacebi 2015)뿐, 나머지 3편은 PC+골이식재 vs 다양한 대조군; 이질성 커 메타분석 불가; 저자 결론 "promising하나 결정적이지 않음" [sr]
 - [[bone-regeneration/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — Cho 2026 · narrative-review (PMC full text) · PRF 골재생 기전 종합 — 섬유소 매트릭스·성장인자 방출동역학(10일간 9,000ng/mL↑)·골면역학(대식세포 M1→M2 전환, 파골세포형성 억제)을 GBR/ARP/상악동거상술/MRONJ-ORN/TMD 임상 적용과 연결; 정식 검색 프로토콜 미기술로 sr 아닌 narrative-review로 분류; J Korean Assoc Oral Maxillofac Surg
 - [[bone-regeneration/assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat]] — Assiri 2026 animal (goat, n=18, 72 critical-size metacarpal defects): β-TCP+i-PRF > β-TCP+PRF ≈ β-TCP alone for new bone volume/density and trabecular architecture at 8 weeks (micro-CT); Saudi Dent J [animal]
+
+### New batch — 2026-07-12 ingest (6편 확인 → 4편 신규, 2편 중복 스킵)
+- [[interdental-cleaning/wen-2026-dental-floss-sequence-plaque-removal]] — Wen 2026 · rct (single-blind, n=54) · 치실 사용 순서(브러싱 전/중/후)가 플라크 제거·치주건강에 미치는 영향 — mid-brushing flossing(BFB)이 초기(7일) RMNPI 최대 감소(p=0.039) + 지속적(7·21일) BI 개선(p=0.028/0.015), PD는 군간차 없음
