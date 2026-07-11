@@ -3452,3 +3452,4 @@ tags: []
 - [[immediate-implant/figliuzzi-2022-10-year-evaluation-first-root]] — Figliuzzi 2022 · case-report(10년 추적) · 세계 최초 DMLS 제작 root-analogue implant — 10년 시점 치조정골소실 0mm
 - [[immediate-implant/bose-2023-root-analogue-implants-orthodontic-extrusion]] — Böse 2023 · retrospective(n=40) · root-analogue implant vs 강제교정정출(forced orthodontic extrusion) 비교 — 생존율 100%로 동등하나 골·연조직 보존은 정출군이 우위
 - [[immediate-implant/debeus-2025-metal-free-custom-zirconia-implants]] — de Beus 2025 · prospective(n=30, 5년) · 커스텀 투피스 지르코니아(ZV3) 임플란트 — 생존율 75.8%, 성공률 71.0%, 기계적 파절이 주요 실패원인
+- [[immediate-implant/azarias-2025-survival-rate-immediate-loaded-implants]] — Azarias 2025 · narrative-review(15편) · Branemark 프로토콜(전악·스크류유지) 즉시부하 임플란트 생존율 — 1–10년 추적 93% 이상
