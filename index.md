@@ -3458,3 +3458,4 @@ tags: []
 - [[bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal]] — Meza-Mauricio 2022 · sr+ma(4 RCT, n=109) · 골이식재+자가골 병용 vs 골이식재 단독 — 수평골증대에 유의한 추가 이득 없음
 - [[bone-regeneration/nakajima-2026-tooth-root-graft-alveolar-preservation]] — Nakajima 2026 · animal(개 6마리) · 치아뿌리유래 이식재 vs 이종골 치조제보존 비교 — 치아뿌리유래재가 잔존입자 거의 없이 생활골로 거의 완전 치환(65.6% vs 57.8%, 잔존입자 0.5% vs 19.7%)
 - [[bone-regeneration/domic-2023-hyaluronic-acid-tooth-extraction-sr-ma]] — Domic 2023 · sr+ma(전임상 5편+임상 22편, n=1,062) · 발치와 히알루론산(HyA) 보조 사용 — 하악 제3대구치 발치 후 7일 통증 유의 감소, 종창·개구제한·조기통증엔 효과 없음, 골형성 이득은 메타분석서 미확인
+- [[bone-regeneration/minetti-2020-alveolar-socket-preservation-autologous-graft]] — Minetti 2020 · prospective(다기관, n=28명/34 발치와) · 발치와 보존술에서 자가 탈회 상아질/법랑질 이식재 — 온전한 치아 vs 근관치료된 치아 유래 이식재 간 생활골 형성 동등
