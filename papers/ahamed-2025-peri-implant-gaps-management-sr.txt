@@ -1,0 +1,153 @@
+Title: Insights into the Current Management Techniques for Peri-Implant Gaps: A Systematic Review
+
+Authors: Ahamed SK, Menchini-Fabris GB, Alqarni A, et al.
+Journal: Journal of Clinical Medicine, 2025
+PMID: 40429347
+PMCID: PMC12111870
+DOI: 10.3390/jcm14103351
+PROSPERO registration: CRD42024508852
+
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article.
+
+===== ABSTRACT =====
+
+A peri-implant gap or a "jumping gap" between an implant surface and the buccal bone can often complicate the successful integration of dental implants, impairing osseointegration and long-term implant stability. Although various techniques and materials are available for managing this gap, there is no consensus on the most effective approach. The current literature lacks standardized, evidence-based guidelines for selecting the optimal technique or material for managing peri-implant gaps, especially following immediate implant placement. This systematic review aims to evaluate the efficacy of various techniques and materials to manage the peri-implant gap to improve the implant stability, bone preservation, and esthetic outcomes using the PROSPERO registration number CRD42024508852.
+
+A comprehensive search of the MEDLINE, Embase, and Cochrane databases was conducted, and various studies were selected, including 11 randomized clinical trials that investigated different grafting materials and techniques for managing the gap between the implant and the buccal plate. The selected studies were assessed for the risk of bias, and the data were extracted based on primary outcomes such as implant stability, bone density, and esthetic parameters.
+
+The findings indicate that xenografts and alloplastic grafts were superior in preserving bone volume compared to platelet-rich fibrin. Techniques like the socket shield and immediate provisional prothesis methods showed promise in maintaining soft tissue and bone integrity. However, heterogeneity across the studies limits definitive conclusions.
+
+Further high-quality research is needed to establish standardized guidelines for peri-implant gap management. The selection of techniques and materials should be tailored to individual patient needs.
+
+===== FULL TEXT =====
+
+1. Introduction
+
+The successful integration of dental implants hinges on effectively managing the "jumping gap" or "jumping distance", also known as the "peri-implant gap", between the implant surface and the buccal bone plate following immediate implant placement. This critical space between the implant surface and the surrounding bone tissue presents a significant challenge in modern implant dentistry. This gap can challenge osseointegration and compromise long-term implant stability if not properly managed. This can lead to complications such as bone loss, peri-implantitis, and, ultimately, implant failure. Successful dental implant placement relies on achieving osseointegration. The peri-implant gap presents a challenge for osseointegration and compromises long-term implant stability. A more significant gap can compromise bone formation, leading to fibrous tissue encapsulation, bony defect formation, and compromised implant stability. The effective management of this gap is essential to prevent complications like bone loss, peri-implantitis, and implant failure.
+
+Managing the peri-implant gap effectively is fraught with challenges. One major challenge is the biological process of bone healing and regeneration, which can be unpredictable. Bone healing after immediate implant placement is a complex biological process influenced by factors like the patient's bone quality, infection, the size of the alveolar socket, buccal bone plate thickness, the procedure used, and implant stability. The gap size plays a role, with more significant gaps requiring more sophisticated techniques for successful bone bridging.
+
+Recent advancements have led to diverse techniques for managing the peri-implant gap. These techniques can be broadly categorized into surgical approaches, biomaterials, and innovative technological solutions. Surgical techniques enhance implant stability and promote bone regeneration within the jumping gap. One such technique is guided bone regeneration, which has been shown to prevent soft tissue infiltration and promote osseointegration in managing more significant jumping gaps. Another surgical approach is the ridge augmentation technique, which aims to increase the bone volume and density for implant placement and stability. This is achieved using preferred autogenous bone grafts of bones harvested from the patients and grafted into the implant site or using allografts or xenografts.
+
+As an advancement, the development and the use of biomaterials have revolutionized gap management. Bone graft materials like hydroxyapatite and tricalcium phosphate are commonly applied to fill the jumping gaps and promote bone regeneration. They provide scaffolds for new bone growth and are replaced by the patient's bone by being resorbed over time. In addition to those materials, bioactive implant surface coatings, such as bioactive glass or calcium phosphate, have been developed. These enhance osseointegration by enhancing the biological interaction between the implant and the nearby bone, thus improving the stability and longevity of the implant.
+
+Technological advancements also contribute significantly to jumping gap management. The notable innovation of 3D printing allows for customized scaffolds and implants that precisely match the peri-implant gap, promoting targeted bone regeneration. This technology also allows the incorporation of growth factors and other bioactive agents to enhance bone healing further. Another technological advancement using growth factors, like bone morphogenetic proteins and stem cells, can be applied to the implant site to stimulate new bone formation, enhance osteogenesis, and improve implant integration, thus promoting bone regeneration.
+
+Immediate provisionalization, another technique in which a temporary restoration is placed on a dental implant concurrently with its insertion, has garnered increasing interest due to its potential advantages in peri-implant gap management. This approach may positively influence the healing process by creating a stable environment, promoting soft tissue healing, and enhancing esthetic outcomes. Additionally, immediate provisionalization can shape peri-implant soft tissues, potentially improving esthetics and achieving greater patient satisfaction.
+
+This review aims to address the clinical question regarding the most effective technique for managing the dental jumping gap (peri-implant gap) between the implant and the buccal cortical bone following immediate implant placement to preserve the buccal bone level, gingival contour, and esthetics.
+
+2. Methods
+
+2.1. Ethics
+
+This systematic review adheres to the PRISMA-P 2015 statement. The protocol has been registered with PROSPERO under registration number CRD42024508852.
+
+2.2. Source
+
+Databases searched: MEDLINE (via PubMed), Embase, and Cochrane Central Register of Controlled Trials. Publications from January 2013 to present. Google Scholar used for grey literature; reference lists manually screened. English-language publications only.
+
+2.3. Search Strategy
+
+MeSH terms, free-text terms, and Boolean operators across the databases; key concepts included "immediate implant placement", "implant jumping gap", "jumping distance", "peri-implant gap", "gap management", "bone grafting", "guided bone regeneration", "connective tissue graft", "provisionalization", "soft tissue contour", "buccal bone level", "implant stability", and "esthetics". After 7 search steps, 30 results were analyzed (from that step of the funnel).
+
+2.4. Eligibility Criteria (PICOS)
+
+- Participants: human participants of any age requiring immediate implant placement with a jumping distance / peri-implant gap.
+- Interventions: any technique for managing the jumping distance / peri-implant gap (bone grafting, guided bone regeneration, soft tissue augmentation, immediate provisionalization, etc.).
+- Comparators: different interventions compared to each other or to a control (no intervention, delayed implant placement).
+- Outcomes: primary — soft tissue contour, buccal bone levels, esthetic outcomes; secondary — implant stability, implant survival rates.
+- Study design: RCTs, cohort studies, case-control studies.
+- Language: English only.
+- Study location: no geographical exclusion.
+- Publication year: 2013-2024.
+- Exclusions: case reports, case series <10 patients, reviews, editorials, commentaries, studies focused solely on immediate implant placement without addressing gap management, studies not reporting pre-specified outcomes.
+
+2.5. Study Selection
+
+Rayyan software used for citation management/deduplication. Two independent reviewers screened titles/abstracts and full texts; disagreements resolved by discussion or a third reviewer.
+
+2.6. Data Extraction and Management
+
+Standardized extraction form. Extracted: study characteristics (author, year, design, sample size, demographics, intervention details), outcome data (means/SD or medians/IQR for continuous outcomes; frequencies/proportions for categorical outcomes) at baseline and follow-up.
+
+Risk-of-bias assessment: RoB 2 for randomized trials, ROBINS-I for non-randomized studies.
+
+3. Results
+
+PRISMA flow: initial yield 102 records -> 49 after deduplication and eligibility criteria -> 10 excluded because "peri-implant gap"/"jumping gap" not in title/abstract -> 39 full-text articles sought, 1 inaccessible -> 27 excluded for irrelevance/inappropriate design -> 11 studies included in final review. All 11 included studies were RCTs evaluating various grafting materials and their impact on peri-implant outcomes.
+
+Study-by-study findings:
+
+- El Ebiary et al. (2023): grafting the gap with a combination of xenograft + autogenous bone resulted in significantly higher esthetic outcomes at 6 months vs conventional implant placement without grafting (p = 0.048).
+
+- Samy et al. (2024): mineralized plasmatic matrix (MPM) reduced marginal bone loss and improved bone density compared to beta-tricalcium phosphate (beta-TCP); differences in implant stability were not significant.
+
+- Elsheikh et al. (2023): xenografts and alloplastic materials better preserved buccal bone compared to platelet-rich fibrin (PRF) (p < 0.001); implant stability and peri-implant pocket depths showed no significant differences.
+
+- Amer et al. (2022): filling materials containing hyaluronic acid and melatonin significantly improved gingival indices and reduced probing depth after 6 months (p < 0.05 and p = 0.001, respectively).
+
+- Elbrashy et al. (2022): bovine cancellous xenografts significantly maintained crestal bone levels compared to PRF (p = 0.002).
+
+- Hammad et al. (2021): minimal marginal bone loss with both mixed allograft-xenograft and xenograft alone, no significant differences in esthetic scores.
+
+- Shaaban Metwally et al. (2021): PRF significantly enhanced bone density around implants over 9 months (p = 0.039).
+
+- Atef et al. (2021): socket shield technique better preserved midfacial mucosal tissues compared to bovine xenografts (p = 0.017), without compromising esthetic outcomes.
+
+- Adam et al. (2020): NanoBone grafts maintained higher marginal bone levels than autogenous chin bone grafts, despite similar implant stability.
+
+- Naji et al. (2019): "flap with graft" and "flapless without graft" techniques provided similar horizontal bone healing in premolar sites.
+
+- Sanz et al. (2016): deproteinized bovine bone mineral with collagen (DBBM-C) significantly reduced horizontal crest resorption compared to no grafting (p = 0.018-0.029).
+
+3.1. Risk-of-Bias Analysis
+
+All 11 included studies were RCTs; RoB 2 was used. Most studies showed low risk of bias overall, but specific concerns were identified regarding randomization and deviations from intended interventions in some studies. Shaaban Metwally AA et al. (2021) lacked explicit details on randomization procedures, allocation concealment, and blinding, and did not address potential deviations from intended intervention. Adam SAN et al. (2020) showed significant baseline differences between groups suggesting potential heterogeneity.
+
+3.2. Characteristics and Outcomes of Included Studies
+
+All studies were RCT/RCT design. Follow-up periods ranged from 6 to 18 months. Participants were male and female patients with non-restorable teeth requiring immediate implant placement, primarily in the maxillary arch (anterior maxilla esthetic zone in some studies, premolar region in others). Considerable heterogeneity in populations, outcome measures, and methodology; comparisons involved various bone grafting materials (xenografts, allografts, autogenous bone, PRF) vs control (no grafting). Primary outcomes: implant stability, bone density, marginal bone loss, esthetic outcomes, soft tissue changes.
+
+4. Discussion
+
+Findings varied significantly by material and outcome assessed. Esthetic outcomes: El Ebiary et al. showed xenograft + autogenous bone combination improved pink esthetic scores (PES) vs no grafting; Atef et al. showed the socket shield technique preserved midfacial mucosal architecture without compromising esthetics.
+
+Marginal bone preservation: Samy et al. found MPM more effective than beta-TCP in reducing marginal bone loss; Elbrashy et al. found bovine cancellous xenografts reduced crestal bone loss and buccopalatal dimensional change more than PRF.
+
+Implant stability: most studies (Samy, Elsheikh, Hammad, Adam et al.) found no significant difference between grafting materials, suggesting primary implant stability is driven more by surgical technique and implant design than graft material choice.
+
+Bone density: Shaaban Metwally et al. found PRF enhanced bone density over time vs non-PRF sites; Samy et al. found better preoperative bone density with MPM vs beta-TCP.
+
+Soft tissue health: Amer et al. found hyaluronic acid + melatonin gel filling improved gingival indices and reduced probing depth vs no filling material.
+
+Sanz et al.: DBBM-C grafting materials minimized horizontal crest resorption, particularly with thin buccal bone walls.
+
+Some studies (Hammad et al. for marginal bone loss/PES; Adam et al. for implant stability) showed no significant differences between materials, suggesting grafting material benefit may be limited by patient-related factors or surgical protocol.
+
+Overall: xenograft and alloplastic bone grafts demonstrated superior outcomes vs PRF and autogenous bone in preserving buccal bone thickness, minimizing bone loss, and relatively better implant stability quotient (ISQ) scores. A comparative analysis of PRF vs cancellous bovine bone in immediate implant placement also showed reduced bone loss and improved implant stability with xenograft. However, another study found PRF increased bone density around newly placed implants, suggesting PRF may stimulate bone growth in some contexts.
+
+Pink esthetic scores (PES) in the anterior maxilla: enhanced with 50% xenograft + 50% autogenous graft filling of the jumping gap vs no grafting (higher mean PES at 6 months). A study comparing immediate provisionalization with allograft+xenograft mixture vs xenograft alone found comparable effectiveness in preserving marginal bone and soft-tissue esthetics.
+
+Other materials used in included studies: deproteinized bovine bone (DBBM), mineralized plasmatic matrix (MPM), beta-tricalcium phosphate (beta-TCP), 1.2% topical hyaluronic acid gel, melatonin gel. DBBM with 10% collagen filling significantly reduced mean horizontal bone resorption when used with immediate implants. Melatonin gel + hyaluronic acid application improved soft tissue health and minimized mean buccal bone resorption. In the mandibular molar region, MPM outperformed beta-TCP for implant stability, bone density, and marginal bone preservation. NanoBone synthetic graft (nanostructured hydroxyapatite in a silica gel matrix) compared to autogenous graft resulted in similarly stable implants but less morbidity/harm than autogenous grafting.
+
+Socket shield technique vs xenograft: socket shield technique showed superior bone preservation, attributed to preservation of the root-periodontal connective tissue integrity and vascular supply, reducing mechanical contraction of the buccal bone and preventing anticipated post-extraction bone resorption.
+
+Comparing three implant placement methods (with/without alloplastic nanocrystalline calcium sulphate bone graft, with/without mucoperiosteal flap) found similar bone preservation across methods, suggesting flap presence/absence may not significantly affect bone healing in certain scenarios.
+
+Allogenic bone grafts were not extensively studied — only Hammad et al. assessed a mixture of allograft and xenograft, finding minimal difference from xenograft alone in marginal bone loss and esthetic outcomes. The specific impact of allogenic grafts alone remains unclear and warrants further study.
+
+Heterogeneity and risk of bias significantly limited the ability to draw definitive conclusions. Variation in patient populations and outcome measures hindered data pooling; a GRADE framework was deemed inappropriate given the high heterogeneity, as it could mislead.
+
+Conventional extraction surgery (elevators, forceps) can damage the coronal buccal/palatal cortical bone of the alveolar crest, influencing the jumping gap. Non-included clinical retrospective studies and animal studies suggest bone volume is influenced by soft tissue management around teeth/implants; apoptosis/non-activation of myofibroblasts during initial healing plays a role in bone contraction.
+
+This review identified two main considerations for managing the jumping gap and reducing early bone resorption after post-extractive implant placement: (1) grafting material choice, and (2) immediate provisional prosthesis / Prosthetic Socket Preservation (PSP) techniques — surgical techniques using varied technologies (magnetic mallet, bone condensation, piezo-surgery) combined with immediate implant placement and immediate provisional prosthesis to maintain esthetics, gingival parabola shape/thickness, and reduce bone volume loss.
+
+Standardized outcome measures and larger, high-quality RCTs, plus long-term follow-up, are needed to strengthen the evidence base.
+
+5. Conclusions
+
+Grafting materials and techniques play a pivotal role in managing peri-implant gaps / jumping gap distance after immediate implant placement. Xenografts and alloplastic bone grafts demonstrated superior performance in preserving bone and enhancing implant stability; PRF efficacy in specific contexts warrants further investigation. Combined therapies (PRF + bone grafts) merit exploration. Immediate provisional prosthesis or customized abutment approaches to manage the peri-implant gap may benefit bone volume and esthetic outcomes by promoting soft tissue healing. Selection of grafting materials/techniques should be individualized based on patient-specific factors and clinical judgment.
+
+===== Source of this text =====
+Retrieved via PubMed MCP tool get_full_text_article (PMCID PMC12111870). According to PubMed; DOI: https://doi.org/10.3390/jcm14103351
