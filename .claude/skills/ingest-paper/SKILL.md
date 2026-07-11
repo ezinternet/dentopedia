@@ -9,6 +9,8 @@ allowed-tools: Bash, Read, Write, Edit
 
 Full pipeline to add a dental research PDF into the LLM Wiki knowledge base.
 
+**Default pipeline is unchanged and 100% Claude.** An optional Gemini-draft assist exists (§ Step 2.5) but only activates when the user's request explicitly contains a trigger phrase — never by default, never inferred.
+
 ## Step 0 — Model & batch check (ask first, before any work)
 
 Before starting, ask the user **once** (use the AskUserQuestion tool) and wait for the answer:
@@ -144,6 +146,49 @@ If the output starts with `DUPLICATE:` → stop, inform the user which stem it m
 
 Build the **canonical stem**: `{first-author-lastname}-{year}-{first-5-title-words}`
 Examples: `wu-2025-mb2-prevalence-maxillary-molar-han`, `kaur-2024-eal-vs-radiograph-working-length`.
+
+---
+
+### Step 2.5 — (Optional, trigger-gated) Gemini draft assist
+
+**Trigger check — do this FIRST, every time.** This step runs **only if** the user's request for this ingest contains one of: `"제미나이 초안"`, `"제미나이 인제스트"`, `"제미나이로"`, `"gemini draft"`. If none of these phrases are present, **skip this step entirely** and proceed straight to Step 3 as normal — do not offer or default into Gemini mode, and do not ask the user if they want it.
+
+**Why this is trigger-only, not default.** Token savings are worth it only when the user opts in per-paper; the fidelity guard below (Claude re-verifies every number) costs Claude tokens too, so silently defaulting to it would save nothing while adding risk. Opt-in keeps the normal path's quality guarantee untouched.
+
+**What it does.** Gemini drafts the *raw prose* for the summary sections (not frontmatter, not category, not wikilinks, not the supersession/relations judgment — those stay Claude-only regardless of trigger). Claude then verifies and finalizes.
+
+```bash
+cd /Users/oracleneo/llm-wiki
+cat > /tmp/gemini-draft-{stem}.txt << 'EOF'
+You are drafting RAW MARKDOWN BODY TEXT for a dental research knowledge-base page.
+Use ONLY the paper text below — do not invent numbers, authors, or claims not present in it.
+Output exactly these sections, in this order, nothing else:
+
+## Document Information
+## Key Contributions
+## Methodology
+## Key Results
+## Limitations
+## Glossary
+## Three-line Summary
+(3 lines, blank line between each: study type/n/context — primary result with numbers — clinical implication or key limitation)
+## 세줄요약
+(한국어 3줄, 위와 동일 구조, 기술 용어는 반드시 "한국어 (English, 약어)" 표기)
+
+PAPER TEXT:
+<PASTE the extracted text from Step 2 here>
+EOF
+gemini -p "$(cat /tmp/gemini-draft-{stem}.txt)" -o text > /tmp/gemini-draft-out-{stem}.md
+cat /tmp/gemini-draft-out-{stem}.md
+```
+
+**Fidelity guard — mandatory, not optional, whenever this step ran.** Before using any of this draft in Steps 5–6:
+1. Spot-check every number, p-value, and n in the draft against the Step 2 extracted PDF text. If a figure can't be found in the source text, discard or fix that line — do not paste it through.
+2. Claude still performs Step 3.5 (dedup/supersession/contradiction lookup), Step 4 (category), the `## Why Ingested` wikilink, `relations:`/`superseded_by` judgment, and all frontmatter — none of that is delegated, ever.
+3. Rewrite anything that doesn't match this repo's tone/format conventions (the draft is raw material for Steps 5–6, not a copy-paste source).
+4. Note in the Step 11 completion report that this paper used Gemini-draft assist, so it's visible in history.
+
+If `gemini` CLI is not on PATH or the call fails, tell the user and fall back to the normal Claude-only path for this paper — do not block the ingest on it.
 
 ---
 
