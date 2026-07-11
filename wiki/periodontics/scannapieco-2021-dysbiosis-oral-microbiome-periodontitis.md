@@ -8,6 +8,12 @@ source: scannapieco-2021-dysbiosis-oral-microbiome-periodontitis.md
 category: [periodontics]
 confidence: narrative-review
 source_collection: pubmed-text
+full_text: true
+pmid: "33902163"
+pmcid: "PMC8380683"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8380683/
+text_path: /Users/oracleneo/llm-wiki/papers/scannapieco-2021-dysbiosis-oral-microbiome-periodontitis.txt
+text_filename: scannapieco-2021-dysbiosis-oral-microbiome-periodontitis.txt
 tags: [dysbiosis, oral-microbiome, periodontitis, gingivitis, keystone-pathogen, red-complex, microbial-diversity]
 relations:
   - type: contradicts
