@@ -48,7 +48,7 @@ source_papers:
 
 ## Three-line Summary
 
-Synthesis of 4 clinical (2 prospective cohorts, 2 RCTs) + 10 bench studies on Ceraseal (premixed calcium-silicate bioceramic sealer): at 24–36 months it matches AH Plus epoxy-resin on healing (~91–92%) and survival (~93–98%); Elmsmari 2025 SR+MA (3 RCTs, n=259) found no statistically significant difference at 6/12/18 months (OR 1.12–2.09, all p>0.05), though GRADE evidence is low.
+Synthesis of 4 clinical (2 prospective cohorts, 2 RCTs) + 12 bench studies on Ceraseal (premixed calcium-silicate bioceramic sealer): at 24–36 months it matches AH Plus epoxy-resin on healing (~91–92%) and survival (~93–98%); Elmsmari 2025 SR+MA (3 RCTs, n=259) found no statistically significant difference at 6/12/18 months (OR 1.12–2.09, all p>0.05), though GRADE evidence is low.
 
 Key advantages over AH Plus: less post-obturation pain (Abada 2025 RCT, p<0.001); equal or lower apical extrusion with single-cone (Zamparini 2026 retrospective: carrier-based has significantly more extrusion, 75% vs 48.2%); full retreatability (92.5% removal with WaveOne Gold + XPF; Shim 2025 in vitro, higher than standard AH Plus); biocompatible set state (Kumar 2022: day-7 viability 97.2%); and superior apatite deposition (Maharti 2024).
 
@@ -56,7 +56,7 @@ Clinical takeaway: Ceraseal users need not change protocols, but fresh unset Cer
 
 ## 세줄요약
 
-세라실(Ceraseal, 프리믹스 칼슘실리케이트 생체세라믹 실러) 임상 4편(전향 코호트 2 + RCT 2) + 벤치 10편 종합: 24–36개월 치유 ~91–92%·생존 ~93–98%이 AH Plus gold standard와 동등; Elmsmari 2025 SR+MA(RCT 3편, n=259)에서 6/12/18개월 모두 통계적 유의차 없음(OR 1.12–2.09, p>0.05) — 단 GRADE 근거 낮음.
+세라실(Ceraseal, 프리믹스 칼슘실리케이트 생체세라믹 실러) 임상 4편(전향 코호트 2 + RCT 2) + 벤치 12편 종합: 24–36개월 치유 ~91–92%·생존 ~93–98%이 AH Plus gold standard와 동등; Elmsmari 2025 SR+MA(RCT 3편, n=259)에서 6/12/18개월 모두 통계적 유의차 없음(OR 1.12–2.09, p>0.05) — 단 GRADE 근거 낮음.
 
 AH Plus 대비 이점: 술후통증 ↓(Abada 2025 RCT, p<0.001); 단일콘에서 압출 ↓(Zamparini 2026: carrier-based는 유의하게 더 많음, 75% vs 48.2%); 재근관치료 제거성 우수(92.5%; Shim 2025 in vitro); 경화 후 생체적합·생체활성(아파타이트 침착 > AH Plus Bioceramic; Maharti 2024).
 
@@ -64,7 +64,7 @@ AH Plus 대비 이점: 술후통증 ↓(Abada 2025 RCT, p<0.001); 단일콘에�
 
 ## Summary
 
-For a clinician who already uses **Ceraseal** (Meta Biomed; premixed calcium-silicate / bioceramic sealer, CSBS — tricalcium + dicalcium silicate with ZrO₂ radiopacifier), this page answers the practical question: *is the evidence behind it sound, and what should change in my technique?* The honest answer across 10 papers is that **Ceraseal performs as well as the AH Plus epoxy-resin gold standard in the clinic, and its differences from AH Plus are mostly in your favour** — but the supporting evidence is still early (short follow-up, much of it in-vitro), and the one place technique genuinely matters is avoiding gross overextension of unset sealer.
+For a clinician who already uses **Ceraseal** (Meta Biomed; premixed calcium-silicate / bioceramic sealer, CSBS — tricalcium + dicalcium silicate with ZrO₂ radiopacifier), this page answers the practical question: *is the evidence behind it sound, and what should change in my technique?* The honest answer across 16 papers is that **Ceraseal performs as well as the AH Plus epoxy-resin gold standard in the clinic, and its differences from AH Plus are mostly in your favour** — but the supporting evidence is still early (short follow-up, much of it in-vitro), and the one place technique genuinely matters is avoiding gross overextension of unset sealer.
 
 **Clinical equivalence is the load-bearing finding.** Two prospective cohorts and two RCTs converge: Spinelli 2024 reports 92.7% survival and 92.1% per-protocol healing at 36 months with Ceraseal + single-cone (and 100% healing in pulpitis/necrosis cases); Zamparini 2023 shows Ceraseal + warm carrier-based obturation matching AH Plus at 24 months (91.1% vs 88.6%, NS) with 97.8% survival; Song 2022 finds no significant difference between calcium-silicate and epoxy-resin sealers in voids, extrusion, or 3-month pain across a 4-arm RCT; and Abada 2025 confirms low pain overall while showing AH Plus produces *more* post-obturation pain than Ceraseal. In every clinical study the outcome was driven by case factors (preoperative PAI, primary vs secondary treatment, canal anatomy) rather than by the sealer.
 
@@ -98,7 +98,7 @@ Synthesis: Ceraseal is clinically **non-inferior to AH Plus** at 2–3 years acr
 
 Synthesis: the *set* material is biocompatible and bioactive (apatite-forming, alkalinizing, retrievable); the *unset* material is a transient irritant. This is the mechanistic basis for the clinical pattern — Ceraseal is forgiving once set, but fresh overextension is the thing to avoid.
 
-## Technique & protocol evidence (single-cone delivery) (2)
+## Technique & protocol evidence (single-cone delivery) (4)
 
 Single-cone (one-cone) is the delivery method Ceraseal is designed for: one master cone matched to the apical preparation plus a sealer-dominant fill, relying on sealer hydraulics rather than compaction. Its acknowledged weakness is reduced compaction → voids/porosity, and the sealing/bioactivity it achieves is contact-dependent on how the canal was prepared and irrigated. Two recent lab syntheses address each lever — and both apply to Ceraseal as a premixed hydraulic CaSi sealer even though neither tests Ceraseal by name.
 

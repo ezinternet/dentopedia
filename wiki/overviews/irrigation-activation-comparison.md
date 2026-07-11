@@ -1,5 +1,5 @@
 ---
-title: "근관세정 (Root Canal Irrigation) 활성화법·세정액·임상결과 종합 — 34편 매트릭스"
+title: "근관세정 (Root Canal Irrigation) 활성화법·세정액·임상결과 종합 — 36편 매트릭스"
 authors: synthesis (llm-wiki)
 year: 2026
 date: 2026-06-16
@@ -50,7 +50,7 @@ source: synthesis
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 근관세정·소독 34편 종합. 출발점: 기구는 근관벽의 10–80%를 못 건드리고 형성 후 30–60%가 세균 양성(Siqueira 2018) — 이것이 활성화·화학 소독이 필요한 근본 이유.
+> - 근관세정·소독 36편 종합. 출발점: 기구는 근관벽의 10–80%를 못 건드리고 형성 후 30–60%가 세균 양성(Siqueira 2018) — 이것이 활성화·화학 소독이 필요한 근본 이유.
 > - 모든 활성화 기법(수동초음파세정 PUI·음파·근첨음압 ANP·XP-endo·레이저·멀티소닉)이 일반 주사기 세정(CNI)보다 우수 — CNI 단독은 비권장.
 > - 임상 근거는 PUI가 최강(Orozco-Gallego 2025 umbrella: 미생물 RD −0.15, 치유 RD −0.09); 근첨 도달은 ANP(EndoVac)가 최선(Kumar 2023 SR+MA) — 단 도달 1위 ≠ 치유 1위.
 > - 고가 멀티소닉(GentleWave)은 PUI 대비 일관된 우위 없음(Varadan 2025·Usta 2026) — 내독소(LPS/LTA) 감소만 유의하게 앞섬, 비용 정당화 약함.
@@ -65,7 +65,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 34 root canal irrigation/disinfection papers: instruments leave 10–80% of canal walls untouched after shaping (Siqueira 2018), making chemical activation necessary; every activation method (PUI, sonic, ANP/EndoVac, XP-endo Finisher, Er:YAG laser, GentleWave multisonic) beats conventional needle irrigation (CNI), with PUI carrying the strongest clinical evidence (Orozco-Gallego 2025 umbrella: microbial RD −0.15, healing RD −0.09) and ANP providing the best working-length irrigant reach (Kumar 2023 SR+MA); GentleWave is not consistently superior to PUI (Varadan 2025, Usta 2026), while Er:YAG laser activation consistently improves disinfection and permits lower NaOCl concentrations across all 15 identified studies (Fiegler-Rudol 2025 SR).
+Synthesis of 36 root canal irrigation/disinfection papers: instruments leave 10–80% of canal walls untouched after shaping (Siqueira 2018), making chemical activation necessary; every activation method (PUI, sonic, ANP/EndoVac, XP-endo Finisher, Er:YAG laser, GentleWave multisonic) beats conventional needle irrigation (CNI), with PUI carrying the strongest clinical evidence (Orozco-Gallego 2025 umbrella: microbial RD −0.15, healing RD −0.09) and ANP providing the best working-length irrigant reach (Kumar 2023 SR+MA); GentleWave is not consistently superior to PUI (Varadan 2025, Usta 2026), while Er:YAG laser activation consistently improves disinfection and permits lower NaOCl concentrations across all 15 identified studies (Fiegler-Rudol 2025 SR).
 
 Irrigant chemistry follows a division-of-labor principle: NaOCl dissolves organics (cannot remove mineral smear), chelating agents remove inorganics (EDTA 17% standard; HEDP for NaOCl-compatibility; 7% maleic acid 1–3 min for apical smear layer); an intermediate distilled-water flush is mandatory between NaOCl and EDTA/CHX/QMix to prevent para-chloroaniline (PCA) precipitate; all irrigants measurably soften and chemically alter dentin (Agarwal 2024 SR+MA, 44 studies) — concentration and contact time must be minimized.
 
@@ -73,7 +73,7 @@ Between-visit medicaments are a distinct axis: CH gives ~99.5% microbial reducti
 
 ## 세줄요약
 
-세정·소독 34편 종합: 기구는 근관벽의 10–80%를 건드리지 못해(Siqueira 2018) **애초에 활성화가 필요한 근본 이유**가 됨; 모든 활성화 기법(PUI·Sonic·ANP·XP-endo·레이저·멀티소닉)이 일반 주사기 세정(CNI)보다 우수하며 **임상 근거는 PUI가 최강**(Orozco-Gallego 2025 umbrella), **근첨 도달은 ANP(EndoVac)가 최선**(Kumar 2023); 고가 GentleWave 멀티소닉은 PUI 대비 **일관된 우위 없음**(Varadan 2025·Usta 2026), Er:YAG 레이저만이 소독을 **일관되게 향상**시키고 NaOCl 농도를 낮춰줌(Fiegler-Rudol 2025); 세정액은 NaOCl(유기질 용해) + 킬레이트제(표준 EDTA 17%, NaOCl 양립 HEDP, 근첨 도말층 7% 말레산) 병용에 중간세정 필수, 단 **모든 세정제가 상아질을 연화·화학변성**시킴; 별개의 내원간 약제 축에서는 항생제 페이스트/TAP가 E. faecalis에 최강·CH는 변동적(Ardila 2026)이고 CH 미생물 ~99.5% 감소·통증은 TAPC/나노가 우수(Shunmugavelu 2025); 치료 결과 수준에서는 어떤 활성화·신규 세정제도 **임상 치유 이득을 아직 입증 못함**(Gupta 2025), **단회·다회 내원 치유율은 동등**하며 최종 보철(coronal restoration) 적합도가 최대 예후 인자.
+세정·소독 36편 종합: 기구는 근관벽의 10–80%를 건드리지 못해(Siqueira 2018) **애초에 활성화가 필요한 근본 이유**가 됨; 모든 활성화 기법(PUI·Sonic·ANP·XP-endo·레이저·멀티소닉)이 일반 주사기 세정(CNI)보다 우수하며 **임상 근거는 PUI가 최강**(Orozco-Gallego 2025 umbrella), **근첨 도달은 ANP(EndoVac)가 최선**(Kumar 2023); 고가 GentleWave 멀티소닉은 PUI 대비 **일관된 우위 없음**(Varadan 2025·Usta 2026), Er:YAG 레이저만이 소독을 **일관되게 향상**시키고 NaOCl 농도를 낮춰줌(Fiegler-Rudol 2025); 세정액은 NaOCl(유기질 용해) + 킬레이트제(표준 EDTA 17%, NaOCl 양립 HEDP, 근첨 도말층 7% 말레산) 병용에 중간세정 필수, 단 **모든 세정제가 상아질을 연화·화학변성**시킴; 별개의 내원간 약제 축에서는 항생제 페이스트/TAP가 E. faecalis에 최강·CH는 변동적(Ardila 2026)이고 CH 미생물 ~99.5% 감소·통증은 TAPC/나노가 우수(Shunmugavelu 2025); 치료 결과 수준에서는 어떤 활성화·신규 세정제도 **임상 치유 이득을 아직 입증 못함**(Gupta 2025), **단회·다회 내원 치유율은 동등**하며 최종 보철(coronal restoration) 적합도가 최대 예후 인자.
 
 ---
 
@@ -81,9 +81,9 @@ Between-visit medicaments are a distinct axis: CH gives ~99.5% microbial reducti
 
 ## Summary
 
-LLM-Wiki 세정·소독 **34편 합성** (2026-06-16 refresh — 27편 버전에 7편 추가: GentleWave/멀티소닉 SR 2편[Varadan 2025·Usta 2026], Er:YAG 레이저 SR[Fiegler-Rudol 2025], 신규 세정제·활성화 SR[Gupta 2025], 내원간 약제 SR 2편[Ardila 2026·Shunmugavelu 2025], 그리고 "왜 활성화가 필요한가"의 개념적 근거[Siqueira 2018, `endodontics/shaping/`]. 신설 §1.7 내원간 약제 축). 위생사 1차 작업 직결 영역이므로 실무 적용성 우선.
+LLM-Wiki 세정·소독 **36편 합성** (2026-07-11 refresh — 34편 버전에 2편 추가: 최종세정×칼슘실리케이트 실러 침투 SR[Gómez-González 2026], HEDP/Triton 실러 결합강도 ex-vivo[Kamath 2025]. 2026-06-16 버전은 27편에 7편 추가한 것: GentleWave/멀티소닉 SR 2편[Varadan 2025·Usta 2026], Er:YAG 레이저 SR[Fiegler-Rudol 2025], 신규 세정제·활성화 SR[Gupta 2025], 내원간 약제 SR 2편[Ardila 2026·Shunmugavelu 2025], 그리고 "왜 활성화가 필요한가"의 개념적 근거[Siqueira 2018, `endodontics/shaping/`]). 위생사 1차 작업 직결 영역이므로 실무 적용성 우선.
 
-근거 등급 분포: **SR+MA 7편 · SR 10편 (scoping 포함) · RCT 1편 · 후향 2편 · 증례 1편 · in-vivo 1편 · in-vitro 3편 · narrative-review 9편**.
+근거 등급 분포: **SR+MA 7편 · SR 11편 (scoping 포함) · RCT 1편 · 후향 2편 · 증례 1편 · in-vivo 1편 · in-vitro 4편 · narrative-review 9편**.
 
 6대 질문:
 0. 애초에 왜 활성화·보조 소독이 필요한가? (§0)
@@ -393,7 +393,7 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 
 ## Wiki Coverage Caveat
 
-세정·소독 34편 반영 완료 (2026-06-16 — `endodontics/irrigation/` 33편 + 개념 근거 `endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas` 1편). 추가 PDF 사냥 권장:
+세정·소독 36편 반영 완료 (2026-07-11 — `endodontics/irrigation/` 33편 + 개념 근거 `endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas` 1편 + 실러 침투/결합강도 신규 2편[`endodontics/gomez-gonzalez-2026-...`, `endodontics/kamath-2025-...`]). 추가 PDF 사냥 권장:
 - PUI vs ANP 임상 치유 head-to-head RCT
 - 멀티소닉(GentleWave) 임상 outcome·비용효과 RCT
 - 레이저 활성화 (Er:YAG PIPS/SWEEPS) outcome-level RCT (Doğan 2024 외)
