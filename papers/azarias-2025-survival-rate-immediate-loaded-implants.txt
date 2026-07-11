@@ -1,0 +1,66 @@
+What Is the Survival Rate of Implants Loaded Immediately with a Branemark Protocol Prosthesis? A Review
+
+Azarias JS, et al. (2025). Eur J Dent.
+PMID: 39013449 | PMCID: PMC11750347 | DOI: 10.1055/s-0044-1787818
+
+ABSTRACT
+
+The aim of this review was to determine the survival rate of implants loaded immediately with a Branemark protocol prosthesis. An electronic search was performed in the PubMed/MEDLINE database from 2006 to February 2024, using a combination of Medical Subject Headings descriptors: "completely edentulous" and "immediate loading." Human clinical articles in English that evaluated the survival rate of implants loaded immediately with a Branemark protocol prosthesis after placement in the bone were included. A total of 546 articles were identified, of which 15 were included in this study. The 15 articles included in the literature showed a high implant survival rate (more than 93%) after immediate loading.
+
+INTRODUCTION
+
+The loss of all permanent teeth (edentulism) impairs the individual's chewing function, nutrition, speech, esthetics, and quality of life. The types of treatment that can rehabilitate individuals with this oral condition can be treated with conventional full dentures and implant-supported prostheses (overdentures [removable] and Branemark protocol prostheses [screw-retained]).
+
+Treatment with implants and implant-supported prostheses is considered the gold standard in dentistry. After implants are placed in edentulous patients, a period of several months is required for osseointegration (4 months for the mandible and 6 months for the maxilla), which is defined as the neoformation of bone around the implant. As a result, the individual's oral function temporarily worsens, causing dissatisfaction. In this context, in order to achieve "immediate" function, it is possible to consider the immediate loading of implants with a Branemark protocol prosthesis. Currently, the term "immediate implant loading" refers to a procedure that requires the implant to be loaded immediately or within 48 hours of its placement. This type of treatment allows for immediate prosthesis usability, improved appearance, and high patient satisfaction. However, the immediate loading of implants with a Branemark protocol prosthesis depends on their number and the level of primary stability achieved.
+
+Normally, for the maxilla and mandible, a minimum of six and five implants, respectively, are needed to install a Branemark protocol prosthesis. However, with the "All-on-four" concept, only four implants can be used to support this type of prosthesis. The placement of four implants, two posterior implants tilted distally (which allows longer implants to be placed) and two vertical implants in the anterior region ("All-on-four" concept), allows bone grafting procedures to be avoided and reduces the number of implants, which leads to lower treatment costs.
+
+Achieving adequate primary stability is a prerequisite for osseointegration. Primary stability is represented by intimate initial contact between the bone and the implant immediately after its placement in the bone. The level of initial contact between bone and implant can determine the possibilities for loading the implant (immediate, early, or late). Also, this level of initial contact must stop the implant from moving very slightly above 150 μm, whether it is loaded or not right away, so that the implant does not get wrapped up in fibrous tissue and fail to fuse with the bone. For immediate loading of a single implant, the recommended insertion torque is 45 N·cm (high primary stability), but for Branemark protocol prostheses, the implant insertion torque can be moderate (30–44 N·cm).
+
+The aim of this literature review was to determine the survival rate of implants loaded immediately with a Branemark protocol prosthesis.
+
+METHODS
+
+An electronic search was carried out in the PubMed/MEDLINE database from 2006 to February 2024, using a combination of descriptors from the Medical Subject Headings: "completely edentulous" and "immediate loading." Human clinical articles were included, in English, that evaluated the survival rate of implants loaded immediately with a Branemark protocol prosthesis after their placement in the bone. When information on marginal bone loss around the implants was available in the article, it was collected.
+
+RESULTS
+
+The search identified a total of 546 articles in PubMed/MEDLINE. This study included 15 articles that met the inclusion criteria out of the total. The implant survival rate was high in all the included articles (above 93%).
+
+Table 1 — Studies included in the literature review (author/year, study type, n patients, n implants, implant bed, implants per arch, waiting period, follow-up, implant survival rate, immediate loading viable?):
+
+- Maló et al (2003): Retrospective, 44 pts, 176 implants, edentulous mandibles, All-on-four, same-day loading, 3y follow-up, >96% survival, Yes
+- Testori et al (2008): Prospective, 41 pts, 164 implants, edentulous maxillae, six implants, 48h, 5y, >97%, Yes
+- Bergkvist et al (2009): Prospective, 28 pts, 168 implants, edentulous maxillae, six implants, 24h, 3y, 98.2%, Yes
+- Li et al (2009): Retrospective, 111 pts, 690 implants, edentulous maxillae and mandibles, avg 6.65 (maxilla)/4.36 (mandible), same-day, 5.9y, 98.7%, Yes
+- Covani et al (2012): Prospective, 19 pts, 164 implants, edentulous maxillae and mandibles, six (mandible) and/or eight (maxilla), 48h, 4y, 95.1%, Yes
+- Maló et al (2015): Retrospective, 43 pts, 172 implants, edentulous maxillae, All-on-four, same-day, 3y, >95%, Yes
+- Shigehara et al (2015): Prospective, 27 pts, 189 implants, edentulous maxillae and mandibles, avg 7 (maxilla)/5.6 (mandible), same-day, 5y, 100%, Yes
+- Gherlone et al (2018): Prospective, 29 pts, 128 implants, edentulous maxillae and mandibles, All-on-four, same-day, 5y, >98%, Yes
+- Kim et al (2018): Retrospective, 26 pts, 370 implants, edentulous maxillae and mandibles, avg 8.11 (maxilla)/6.12 (mandible), same-day, 7y, 96%, Yes
+- Windael et al (2018): Prospective, 25 pts, 125 implants, edentulous mandibles, five implants, 24h, 10y, 100%, Yes
+- Kaneda et al (2019): Retrospective, 52 pts, 220 implants, edentulous mandibles, 4-6 implants (All-on-four concept), same-day, 10y, 93.9%, Yes
+- Eskan et al (2020): Retrospective, 42 pts, 171 implants, edentulous maxillae and mandibles, four implants per arch, same-day, 4.5y, 97.7%, Yes
+- Werbelow et al (2020): Retrospective, 23 pts, 170 implants, edentulous maxillae and mandibles, 4-6 implants per arch, same-day, 9y, 100%, Yes
+- Carosi et al (2021): Retrospective, 37 pts, 160 implants, edentulous maxillae and/or mandibles, four implants per arch, same-day, 4y, 96.9%, Yes
+- Mohamed et al (2022): Prospective, 20 pts, 80 implants, edentulous mandibles, four implants, same-day, 1y, 100%, Yes
+
+DISCUSSION
+
+All the articles included in this review showed that immediate loading of implants (up to 48 hours) with a Branemark protocol prosthesis (screw-retained) is a viable treatment due to the high implant survival rate (more than 93%). This high success rate was observed for both mandibular and maxillary rehabilitations in follow-ups ranging from 1 to 10 years.
+
+In all the articles included, all screw-retained provisional prostheses were made of acrylic resin with or without reinforcement. Therefore, even when fractures in these prostheses were reported, it was possible to repair them. It is worth mentioning that, in general, the survival rate of provisional and definitive prostheses was 100%.
+
+The literature reports that the posterior cantilever should have a maximum length of 1.5 times the distance between the most posterior point of the most posterior implant and the center of the most anterior implant in the arch (clinically acceptable). Eight articles reported that provisional prostheses had small or absent cantilevers. When the provisional prostheses had cantilevers, the calculation to define what the length of the posterior cantilevers should be was not informed. Regarding definitive prostheses, six articles clearly reported that they had cantilevers. Among these six studies, only the study by Mohamed et al (2022) reported that when cantilevers were present, they had clinically acceptable lengths according to the previously reported rule.
+
+Marginal bone loss in height of up to 2 mm around the implant after the first year of its placement (osseointegration and loading) is considered clinically normal. Based on this information, all the articles that evaluated marginal bone loss around the implant showed clinically acceptable values (< 2 mm) after 1 year of follow-up.
+
+Insertion torque interpretation: (1) < 30 N·cm = low implant stability; (2) 30-44 N·cm = moderate implant stability; (3) ≥45 N·cm = high implant stability. Moderate primary stability values are reported to be sufficient for immediate loading of implants with a Branemark protocol prosthesis. Eleven of the included articles presented an insertion torque ≥30 N·cm. Windael et al (2018) did not report insertion torque values; Li et al (2009) installed implants with torque ranging 20-50 N·cm (low and high primary stability implants were loaded).
+
+ISQ interpretation: (1) <60 = low primary stability; (2) 60-64 = medium-low; (3) 65-69 = medium-high; (4) ≥70 = high primary stability. Immediate loading with a Branemark protocol prosthesis can be carried out when ISQ ≥60. Bergkvist et al (2009) loaded implants with an insufficient mean ISQ (50.6); survival rate at 3 years was still high (98.2%). Mohamed et al (2022) loaded implants with adequate mean ISQ (65); survival rate at 1 year was 100%.
+
+Based on the articles included, most of the time, the primary stability values (torque and ISQ) obtained ranged from moderate to high, which is clinically safer for long-term implant survival.
+
+CONCLUSION
+
+The 15 articles in the literature included in this study showed a high implant survival rate (more than 93%) after their immediate loading with Branemark protocol prostheses.
