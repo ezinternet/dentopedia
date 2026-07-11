@@ -3451,3 +3451,4 @@ tags: []
 - [[immediate-implant/bose-2020-root-analogue-implants-single-crowns-fpd]] — Böse 2020 · retrospective(n=107, REPLICATE 시스템) · 최대 규모 단일기관 root-analogue implant 코호트 — 생존율 94.4%, 복합성공률 64.5%, MBL 1.20±0.73mm
 - [[immediate-implant/figliuzzi-2022-10-year-evaluation-first-root]] — Figliuzzi 2022 · case-report(10년 추적) · 세계 최초 DMLS 제작 root-analogue implant — 10년 시점 치조정골소실 0mm
 - [[immediate-implant/bose-2023-root-analogue-implants-orthodontic-extrusion]] — Böse 2023 · retrospective(n=40) · root-analogue implant vs 강제교정정출(forced orthodontic extrusion) 비교 — 생존율 100%로 동등하나 골·연조직 보존은 정출군이 우위
+- [[immediate-implant/debeus-2025-metal-free-custom-zirconia-implants]] — de Beus 2025 · prospective(n=30, 5년) · 커스텀 투피스 지르코니아(ZV3) 임플란트 — 생존율 75.8%, 성공률 71.0%, 기계적 파절이 주요 실패원인
