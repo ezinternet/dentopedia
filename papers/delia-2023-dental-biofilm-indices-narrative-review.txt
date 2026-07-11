@@ -1,0 +1,128 @@
+Methods for Evaluating the Effectiveness of Home Oral Hygiene Measures—A Narrative Review of Dental Biofilm Indices
+
+D'Elia G, Floris W, Marini L, Corridore D, Rojas MA, Ottolenghi L, Pilloni A
+Section of Periodontics, Department of Oral and Maxillofacial Sciences, Sapienza University of Rome, Italy
+Dent J (Basel). 2023;11(7). doi: 10.3390/dj11070172
+PMID: 37504238 | PMCID: PMC10378657
+
+ABSTRACT
+
+Dental plaque is a biofilm structured in an extracellular matrix of polymers of host and microbial origin; the microorganisms can coexist in harmony with the host, thus guarantying oral health. Environmental modifications can lead to dysbiosis and onset of oral diseases; in fact, plaque is the etiological agent both of periodontal disease and dental decay. The use of an effective oral hygiene index should be considered as a relevant goal for the clinicians and the researchers, and consequently, numerous plaque indices have been proposed during the years. The present literature review aims primarily to obtain a complete summary of these scores to assess plaque deposits. It is useful because the clinician/researcher will select the right scoring method for the specific situation only if he knows the available options and if he is aware of both their strengths and weaknesses. This review applies a basic classification of plaque indices that distinguishes the ones that use non-quantitative methods from the ones that use quantitative methods. Non-quantitative methods are more subjective because they are based on the ability of the clinician to point out the presence or the entity of deposits, while quantitative methods introduce objectifiable means to measure plaque deposits.
+
+Keywords: biofilms; classification; dental caries; dental plaque; index; oral hygiene; periodontal diseases; periodontal index; preventive dentistry
+
+1. Introduction
+
+Dental plaque has been defined as a spatially organized and metabolically integrated community of microorganisms, i.e., as a biofilm structured in an extracellular matrix of polymers of host and microbial origin.
+
+Plaque development is an articulated process, and it consists of phases of formation and maturation that occur over a period of weeks. The first event of the process is adhesion of bacteria to the salivary pellicle formed on teeth, thus allowing microorganisms to remain on surfaces despite the mechanical forces that tend to remove them. Due to the composition of this pellicle, streptococci are the pioneer species that can be found in the newly formed plaque; afterwards, later colonizers encounter and can bind other bacteria or molecules such as salivary mucins, agglutinin glycoproteins, glucans, and bacterial products. This mechanism is defined as "coadhesion", and it allows plaque to welcome additional species with a greater proportion of Gram-negative bacteria, often potential periodontal pathogens.
+
+Because of its behavior as a biofilm, dental plaque is composed by consortia of interacting microorganism that show greater capabilities than individual species. These amplified proprieties are represented by the possibility to create a heterogeneous environment suitable for the growth and the co-existence of different microbes, a very efficient metabolism, an enhanced resistance to stress and antimicrobial agents, and a stronger virulence (expressed, for example, in the pathogenesis of periodontitis).
+
+Under certain conditions, a relationship of harmony exists between the host and the microorganisms that form the microbiome, and a status of oral health can be observed. However, a great number of environmental modifications can occur, leading to dysbiosis and the onset of oral diseases. In fact, it is well known that dental plaque is the etiological agent both of periodontal diseases and dental decay.
+
+As for dental decay, pathogenesis is linked to the presence of microorganisms that can produce acids following exposition to dietary carbohydrates. A series of phenomena of demineralization and remineralization occurs due to the oscillation of the pH of the oral cavity above and below the critical value of 5.0-5.5; when the balance between demineralization and remineralization is lost, caries formation is observed.
+
+As for periodontal diseases, microorganisms present in the dental plaque play an etiological role in the pathogenesis of both gingivitis and periodontitis. An incipient dysbiosis causes a proportionate response by the immunological system of the host. This response is totally reversible, and it is represented by a series of non-specific inflammatory changes in the tissues that are defined as "plaque-induced gingivitis". When dysbiosis became frank, and the biofilm is pathogenic, the immune system of the susceptible host implements an exaggerated but ineffective response. This hyperinflammatory reaction leads to periodontitis and to its irreversible changes in the tissue, with loss of attachment, bone resorption, and pockets formation. However, it must be remembered that the presence of specific microorganisms in the dental biofilm is indispensable for initiating the characteristic events of periodontitis, but it alone is not sufficient for the onset of the disease.
+
+Plaque and calculus removal is therefore one of the principal goals of the therapy because it allows to prevent and to treat dental and periodontal diseases. However, to effectively reach this goal, a fundamental aspect is the tailoring of the maneuvers for biofilm control. During the years, great attention has been given by researchers to find new instruments capable of ideal characteristics, such as effectiveness, safety, reduced invasiveness, and maximum comfort. The techniques for biofilm removal can be classified in professional and home approaches: the first ones are targeted at the elimination of both plaque and calculus from supragingival and subgingival environments, while the second ones are dedicated to removing plaque from the supragingival area. Examples of professional instruments are represented by powered devices (ultrasonic, sonic, and piezoelectric), hand instruments (as curettes and scalers), air-polishing, and rubber cup polishing. The most common home oral hygiene devices are represented by toothbrushes (both powered and manual) and interproximal instruments (such as dental floss and interdental brushes). Along with these mechanical instruments, there are also agents such as toothpaste and mouthwashes that can provide chemical plaque control.
+
+The above-mentioned cause-effect connection between biofilm presence and dental and periodontal diseases explains the relevance of evaluating the oral hygiene status of patients through the introduction of plaque indices. Therefore, obtaining an effective oral hygiene index should be considered as a relevant goal for the clinician. For this purpose, many indices have been proposed and modified during the past years.
+
+The present literature review aims primarily to obtain a complete summary of these non-quantitative and quantitative methods to assess oral/dental biofilm.
+
+2. Assessment of the Oral and Dental Biofilm
+
+2.1. Classification/Features of Plaque Indices
+
+Indices can be classified based on different features, and this is of help for interpreting the data they report. A useful classification based on the objectivity of plaque assessment distinguishes between two separate categories: non-quantitative and quantitative methods. Non-quantitative indices rely completely on the skill of the clinician or the researcher to point out the presence and/or the entity of deposits; conversely, quantitative ones exploit objectifiable means to measure plaque deposits.
+
+Additionally, indices can also be classified as "full mouth" or "simplified" depending on whether they measure the variable of interest in all sites or only in selected ones. Moreover, indices can measure a disease or other aspects of it as symptoms, treatment, or, as in the case of plaque indices, etiological factors. Finally, indices can be distinguished for their most suitable field of application: epidemiologic surveys, clinical trials, and evaluation of the progress of the patient and his/her motivation.
+
+Plaque indices generally use the extent of the tooth area covered by plaque as the criterion for scoring. This extent can be evaluated in a subjective way by the clinician or, alternatively, by using photographs of teeth placed on grids with squares. Furthermore, some indices use the thickness of plaque deposits or their weight for the classification. For greatest success, an index should have minimal intra- and inter-examiner variation; to obtain this goal, the criteria should be well defined and the examiners well trained. Moreover, in order to maximize the reliability, in recent years, great attention has been given to the introduction of more objective and reproducible ways for assessing plaque.
+
+Plaque indices that require the scoring of all surfaces of all teeth should be preferred in every situation they can be applied. Alternatively, partial plaque indices are available; among them, the most adequate are based on the examination of six selected teeth (called Ramfjord teeth) that are quite representative of the full-mouth status.
+
+2.2. Disclosing Agents
+
+The first requirement to assess the oral hygiene status of a patient is detecting plaque, and a preliminary distinction among plaque indices can be performed according to the method used for this aim. In fact, some indices are based on observation with the naked eye of teeth surfaces, while other ones need the adoption of auxiliary means; passing an explorer or a probe over teeth is the simplest way to help the clinician to point out the presence of dental plaque, while applying disclosing agents is a more widespread method.
+
+The mechanism of action of disclosing agents is due to the polarity differences between their molecules and the components of dental plaque, and consequently, they can interact and bind with each other, leading to a change of color in the biofilm, thus increasing the contrast with dental surfaces and allowing for easier identification of the deposits.
+
+Thanks to the embedded property of such substances, dental plaque can be defined as a "stainable material". Iodine, Bismarck brown, erythrosine, methylene blue, basic fuchsin, and two-tone solutions are only some examples of the great variety of substances that have been studied and used since the early 20th century to make plaque evident.
+
+The application of disclosing agents has two essential benefits: first of all, it facilitates the evaluation of plaque indices; secondly, it improves plaque removal both in clinical and home settings, helping to motivate the patient, to provide personalized instructions, and to raise awareness of the need for applying them.
+
+2.3. Non-Quantitative Methods
+
+Non-quantitative methods assess the presence of plaque without measuring it in an objective way. The result is a graduated scale delimited by a minimum and a maximum numerical value. The use of non-quantitative methods makes plaque indices easy to use both in clinical practice and in the research field. Moreover, they are advantageous because they do not require particular instruments to evaluate and measure plaque.
+
+2.3.1. Area Measurements — Numerical Indices
+
+The Plaque Component of the Periodontal Disease Index was proposed by Ramfjord in 1959. This index is not time-consuming, as it requires the evaluation of only six teeth. Despite being limited to a part of the dentition, it evaluates both the posterior and anterior teeth. Therefore, an overall assessment of the entire mouth can be generalized. Subsequently it was modified by Shick and Ash, who further reduced the evaluation to the buccal and lingual surfaces and to the gingival half of each tooth. The latter aspect was justified by the greater importance of this area in periodontal diseases. Due to the characteristics described, the Plaque Component of the Periodontal Disease Index and its modification can be considered for use in clinical studies aimed at evaluating the efficacy of agents or procedures that modify the development of plaque and its relationship with gingival pathologies.
+
+In 1960, Green and Vermillion introduced the Oral Hygiene Index (OHI). This index is given by the sum of the Debris Index (DI) and Calculus Index (CI). The calculation needed to obtain the final score and the score of each sextant represented only by the tooth with the highest value were the major limits of this index. To overcome the complexity of this index, the Simplified Oral Hygiene Index (OHI-S) and the Simplified Debris Index (DI-S) were proposed, which evaluate a smaller number of teeth and surfaces that are considered the most representative of the status of the patients. A further modification was proposed by Glass in 1965, which allowed quantitation of differences within the gingival third area. The DI, the DI-S, and the Glass Index evaluate soft foreign matter loosely attached to the teeth, consisting of a mixture of bacterial plaque, food debris, and materia alba. For this reason, these indices could be indicated for epidemiological studies where subjects are not allowed to vigorously rinse to eliminate this loosely attached material before evaluation. Conversely, their application in clinical trials is more limited.
+
+In 1962, the Quigley and Hein Plaque Index (QHPI) was presented. This weighted score takes into account the subtle differences in plaque accumulation in the gingival third of the tooth. This feature makes this index highly valued, as it reflects the actual plaque-gingival inflammatory relationship. However, the evaluation of only the buccal surfaces of the anterior teeth is its major limitation. In fact, it can underestimate the real state of oral hygiene of the patient. For this reason, in 1970, it was modified by Turesky, who extended the evaluation to both the buccal and oral aspects of all teeth except the third molars. It has since become one of the most used indices, and it is recommended for clinical trials (Turesky-modified Quigley-Hein Plaque Index, TQHPI). Otherwise, its application in daily clinical practice is considered impractical.
+
+The Navy Plaque Index (NPI), proposed in 1973, scores the presence of plaque on six teeth, and each of them is divided into four areas. Despite its complexity and its limited clinical application, the present index was modified, and two new indices were introduced. The Navy Plaque Index modified by Elliott (MNPI) and Rustogi Modified Navy Plaque Index (RMNPI) require the further partition of dental surfaces; consequently, each of them is divided into nine areas. The areas of the tooth adjacent to the gingival margin are the smallest ones, thus emphasizing the presence of deposits in contact with the soft tissues because it plays an important role in the development of inflammation.
+
+2.3.2. Gingival Plaque Thickness
+
+The main index that uses the thickness of the deposits as a criterion for evaluation is the Plaque Index (PlI). In its original formulation, PlI requires the observation of only six selected teeth; subsequently, its use as a full-mouth index was introduced.
+
+The PlI is useful in the clinical field because it records the thickness of plaque deposits along the gingival margin, i.e., where they are more influent on the developing of inflammation. The main disadvantages of this index are the difficulty in detecting thin deposits with the naked eye and the time required because of the need of drying the surfaces to perform an accurate assessment. Moreover, the evaluation is quite subjective, as indicated by the terms such as "film", "moderate", and "abundance" used to describe the deposits; consequently, to reduce the variability, a single trained examiner should score the PlI when it is used for clinical trials, and it could be used in conjunction with other indices.
+
+2.3.3. Dichotomous Indices
+
+After the introduction of the Plaque Control Record by O'Leary in 1972, different dichotomous indices have been developed. The success of these indices is due to the fact that the principle of presence/absence is an easy and fast way to score plaque; moreover, this kind of evaluation is very useful for patient motivation both at baseline and during follow-up visits. The Plaque Control Record and other similar dichotomous indices can also be used to calculate a Full-Mouth Plaque Score (FMPS), which is given by the percentage of sites with plaque on the total number of sites evaluated and expresses the oral hygiene status of the patient through a single value.
+
+The above-mentioned aspect of education and motivation of the patient plays a central role for therapeutic success. It is well known that the goal of periodontal therapy is the control of disease as evaluable through clinical indices such as Probing Depth (PD), Bleeding on Probing (BoP), and Clinical Attachment Level (CAL). The improvement of the clinical status of the patient is more easily achieved and more predictably maintained when only a limited quantity of plaque is present. A FMPS of 20-25% has been indicated as an acceptable threshold value because it is associated with the possibility of maintaining periodontal health and good surgical results both in the short and long term. However, tighter plaque control is required to successfully perform regenerative periodontal surgery because lower levels of biofilm deposits are associated with greater amounts of clinical attachment gain. In this clinical situation, the maximum FMPS threshold value that is considered acceptable is 15%, and plaque should not be present at the surgical site.
+
+2.4. Quantitative Methods
+
+Despite the adjunctive strategies used to identify dental plaque, the non-quantitative methods share a fundamental limitation: they are based on the clinician's capability to observe and assess the data, and therefore, they are subjective. In order to overcome this problem and to increase objectivity and reproducibility, quantitative indices were developed.
+
+2.4.1. Dental Plaque Weight
+
+Weight was probably the first feature that was considered for developing a quantitative plaque index. The measurement of wet plaque weight was initially proposed but did not prove to be a reliable method because of the evaporation of water, so this parameter was replaced by dry weight without obtaining additional advantages over non-quantitative indices.
+
+2.4.2. Planimetric Indices
+
+Planimetric indices are based on the analysis of dental images taken with different techniques and tools. The aim of these methods is the calculation of the extension of dental surfaces covered by plaque. The first-introduced method used grids and diagrams and required human intervention to identify plaque, which was extremely time-consuming. The most recent methods utilize photographs that undergo digital analysis processes, requiring complex systems to obtain repeatable images with the use of specially designed devices.
+
+2.4.3. Quantitative Light-Induced Fluorescence for Plaque Detection
+
+Quantitative light-induced fluorescence (QLF) is a method used for the observation and assessment of dental surfaces that is based on the natural fluorescence of the teeth under certain conditions of light. Some studies demonstrated a red/orange fluorescence of plaque deposits due to the porphyrins produced by microorganisms, and this feature is further enhanced using disclosing agents. Thanks to this finding, a new category of quantitative plaque indices was proposed, and a series of trials was conducted to prove their reliability.
+
+2.4.4. Automated Methods
+
+Automated methods refer to a group of plaque indices that uses algorithms and software to identify the presence of plaque on digital photographs showing dental surfaces. Different features of plaque can be highlighted by the above-mentioned software, and some examples are listed below: its fluorescence when it is disclosed with fluorescein and illuminated by UV light; the values of RGB (red, green, and blue) and HSI (hue, saturation, and intensity) of each pixel that makes up the photograph; and the prevalence of "yellow" or "not yellow" in each pixel.
+
+2.4.5. Three-Dimensional Coordinates for Plaque Quantification
+
+The last sub-group is represented by plaque quantification using 3D coordinates; this method was proposed by Yeganeh and co-workers, and it is based on the digitalization and comparison through a coordinate-measuring machine (CMM) of two impressions, with one taken before and the other after plaque removal is performed.
+
+2.4.6. Application of Quantitative Indices in Clinical Setting
+
+Indices based on plaque weight and CMM also have a limited application in the research field due to their complexity and, for the first ones, their scarce accuracy. Consequently, considering adopting them in clinical setting is not so presumable. On the other hand, planimetric (those that do not require human intervention) and automated methods and biofilm detection using QLF could more realistically represent a future option for scoring plaque also during daily clinical activity.
+
+The introduction of these new methods is obviously linked to the availability of modern instruments that allow to objectify the presence of biofilm deposits. The feasibility of adopting these new indices is consequently tied in a tight way to the possibility to dispose of the above-mentioned modern instruments.
+
+Automated and planimetric indices exploit digital software capable of analyzing pictures taken in compliance with specific criteria in order to be reproducible and to emphasize the identified features by the software to highlight the presence of plaque. The limitation of the use of such indices is that making this kind of picture can be time-consuming, and often, dedicated equipment is needed; moreover, the clinician should be skilled at using the software.
+
+In addition, QLF requires digital software for the analysis of pictures taken with specific devices, so it shares the same practical limitation of automated and planimetric indices. However, it must be considered that, beyond plaque scoring, QLF has the ability to detect demineralization of the tooth, allowing early caries diagnosis. Therefore, the clinician who wants to adopt modern methods in his/her practice could opt for QLF to improve with a single economic investment and learning curve both the ability of scoring plaque and diagnosing caries.
+
+3. Conclusions
+
+The most common uses of plaque indices are the following: (i) the evaluation of the cleansing efficacy of a device or a product and (ii) the assessment of the relationship between deposits and periodontal health and/or dental caries.
+
+The availability of a great number of plaque indices allows to choose the most suitable index for each purpose and situation. For example, indices that measure severity are extremely useful for epidemiologic surveys and clinical trials; on the other hand, dichotomous indices are particularly appropriate for clinical practice.
+
+According to this wide choice, it is important to underline that when different plaque indices are used, only general findings can be compared. Finally, indices alterations should be avoided because they also require a change in the interpretation of data.
+
+The researcher or clinician should be aware of both strengths and weaknesses of different methods for scoring plaque, and he/she should be able to optimize their features with the specific field of application. Selecting the right plaque index is a goal that can be obtained only through the knowledge of the various options; however, all indices should satisfy some ideal aspects independently in the specific field of application. These ideal aspects are listed below: (a) the index should be simple to use; (b) it should require minimal time and minimal instruments to perform the scoring; (c) the score criteria should be clearly explained to ensure maximum reproducibility and standardization; (d) the index should allow performing statistical analysis; and (e) the index should be equally sensitive throughout the scale.
+
+Due to their great number and to the specific needs of both the clinical and research context, it is not easy to draw conclusions about the popularity of plaque indices. Generally, it can be stated that the most-used indices are the ones that assess the presence of plaque dichotomously and the ones that emphasize the presence of biofilm along the gingival margin. On the other hand, use of plaque indices that require complex processes for the assessment or specific devices is more limited.
+
+[According to PubMed, this full text was retrieved via PMC (PMCID: PMC10378657). DOI: https://doi.org/10.3390/dj11070172]
