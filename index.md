@@ -3450,3 +3450,4 @@ tags: []
 - [[immediate-implant/aldebes-2022-restoration-material-marginal-bone-resorption]] — Aldebes 2022 · rct(n=18) · root-analogue 지르코니아 임플란트 PFM vs 복합레진 크라운 — 18개월 변연골소실 유의차 없음(0.61–0.77mm), 생존율 90%
 - [[immediate-implant/bose-2020-root-analogue-implants-single-crowns-fpd]] — Böse 2020 · retrospective(n=107, REPLICATE 시스템) · 최대 규모 단일기관 root-analogue implant 코호트 — 생존율 94.4%, 복합성공률 64.5%, MBL 1.20±0.73mm
 - [[immediate-implant/figliuzzi-2022-10-year-evaluation-first-root]] — Figliuzzi 2022 · case-report(10년 추적) · 세계 최초 DMLS 제작 root-analogue implant — 10년 시점 치조정골소실 0mm
+- [[immediate-implant/bose-2023-root-analogue-implants-orthodontic-extrusion]] — Böse 2023 · retrospective(n=40) · root-analogue implant vs 강제교정정출(forced orthodontic extrusion) 비교 — 생존율 100%로 동등하나 골·연조직 보존은 정출군이 우위
