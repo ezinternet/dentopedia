@@ -3460,3 +3460,4 @@ tags: []
 - [[bone-regeneration/domic-2023-hyaluronic-acid-tooth-extraction-sr-ma]] — Domic 2023 · sr+ma(전임상 5편+임상 22편, n=1,062) · 발치와 히알루론산(HyA) 보조 사용 — 하악 제3대구치 발치 후 7일 통증 유의 감소, 종창·개구제한·조기통증엔 효과 없음, 골형성 이득은 메타분석서 미확인
 - [[bone-regeneration/minetti-2020-alveolar-socket-preservation-autologous-graft]] — Minetti 2020 · prospective(다기관, n=28명/34 발치와) · 발치와 보존술에서 자가 탈회 상아질/법랑질 이식재 — 온전한 치아 vs 근관치료된 치아 유래 이식재 간 생활골 형성 동등
 - [[bone-regeneration/rokn-2011-bone-formation-two-grafting-materials]] — Rokn 2011 · animal(토끼 두개골) · Straumann Bone Ceramic vs Bio-Oss vs 대조군 조직형태계측 비교 — 골충전 유의차 없음, 대입자 세라믹이 더 큰 염증반응
+- [[bone-regeneration/ahamed-2025-peri-implant-gaps-management-sr]] — Ahamed 2025 · sr(RCT 11편) · 임플란트 주위 갭("jumping gap") 관리 — 이종골/합성골이 PRF/자가골보다 골보존 우위, ISQ는 대체로 재료 무관
