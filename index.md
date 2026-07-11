@@ -1473,6 +1473,8 @@ tags: []
 - [[oral-surgery/rink-notzon-2022-trigeminal-sensory-supply-essential-motor]] — Rink-Notzon 2022 · animal (Wistar rat 안면신경 절단·재건 모델): 삼차신경 (Trigeminal Nerve, CN V) 감각입력 강화(진동모 자극·수기 whisker-pad 자극)가 안면신경 (Facial Nerve, CN VII) 운동회복의 표적 재신경지배 특이도와 휘스킹 기능을 개선 — 회복 불량의 3원인(축삭 항행 오류·과잉 측부분지, 축삭 간 crosstalk, 축삭절단 운동신경세포로의 시냅스 입력 부족)에 대해 도관·약물이 아닌 **감각자극** 레버를 제시. 랫트 한정 — 인체 안면마비 임상근거 아님 (DOI 10.3390/ijms232315101)
 - [[oral-surgery/zheng-2025-dental-pulp-stem-cells-alleviate]] — Zheng 2025 · animal (게잡이원숭이 신경도관 + 랫드 FNI 모델 + in vitro): 치수줄기세포 (Dental Pulp Stem Cells, DPSC)가 터널링 나노튜브 (Tunneling Nanotube, TNT)로 미토콘드리아를 슈반세포에 전달해 파이롭토시스·미토콘드리아 활성산소종 (Reactive Oxygen Species, ROS)을 억제 → 안면신경 재생·수초 회복 촉진; 세포간 접합 또는 미토콘드리아 기능 차단 시 효과 소실, TNFα 전처리 DPSC는 효능 증대. 전임상 단계 — 임상 적용 아님 (DOI 10.1016/j.bioactmat.2025.01.031)
 - [[oral-surgery/chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery]] — 이비인후과 관점 리뷰+증례(abstract-only): 치과·구강악안면외과 수술 후 의인성 BPPV — sinus lift에 국한되지 않은 일반화된 기전(수술적 외상 유래) 근거
+- [[oral-surgery/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Daware 2021 · prospective (n=163) · 매복 하악 제3대구치 (Mandibular Third Molar, M3) 발치 후 합병증 평가 — 설신경 손상 (Lingual Nerve Injury, LNI) 발생률 2.45%(4건), 12주 내 전원 완전 회복; 하치조신경 감각이상 (Inferior Alveolar Nerve Paresthesia, IANP) 및 건성 발치와 (Alveolar Osteitis / Dry Socket, AO) 발생률 0%
+
 
 ## 레진 (Resin)
 - [[resin/ferracane-2024-historical-perspective-dental-composite-restorative]] — Ferracane 발달사 리뷰(J Funct Biomater 2024, PMC): 복합레진 진화 연대기 — 실리케이트·PMMA → Bowen Bis-GMA(1962)·Buonocore 산부식 → 화학→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill → bioactive·self-healing; 아말감을 복합레진이 대체해온 구치부 재료로 위치
