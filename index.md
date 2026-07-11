@@ -3445,3 +3445,6 @@ tags: []
 - [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — Esposito 2013 · Cochrane SR+MA (CD004152.pub4, 6 RCT, n=1162) · 술전 amoxicillin 2–3g 단회 투여 → 임플란트 실패 유의 감소(RR 0.33, NNT 25); 술후 항생제·비교 용량 근거 없음 (partially superseded by momand-2024)
 - [[immediate-implant/alqutaibi-2026-root-analog-dental-implants]] — Alqutaibi 2026 · sr (28 studies, 432 implants) · 치근형상 커스텀 임플란트(root-analog, CAD-CAM/3D프린팅): 생존율 71–100%, 티타늄/하이브리드가 가장 예측 가능, 지르코니아는 변이가 가장 큼(33.3–100%)
 - [[bone-regeneration/bubalo-2026-bone-substitutes-alveolar-ridge-augmentation]] — Bubalo 2026 · narrative-review · 치조제 증대용 골이식재 7종(자가골/동종골/이종골/합성골/탈회치아기질/PRF-PRP/3D프린팅 스캐폴드) 비교 + 결손 유형별 선택 알고리즘
+
+### New batch — 2026-07-12 ingest (reference-mining — root-analog implant SR 인용문헌, PMC 풀텍스트)
+- [[immediate-implant/aldebes-2022-restoration-material-marginal-bone-resorption]] — Aldebes 2022 · rct(n=18) · root-analogue 지르코니아 임플란트 PFM vs 복합레진 크라운 — 18개월 변연골소실 유의차 없음(0.61–0.77mm), 생존율 90%
