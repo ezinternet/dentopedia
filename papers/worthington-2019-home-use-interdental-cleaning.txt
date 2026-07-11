@@ -1,0 +1,109 @@
+Home use of interdental cleaning devices, in addition to toothbrushing, for preventing and controlling periodontal diseases and dental caries
+
+Worthington HV, MacDonald L, Poklepovic Pericic T, Sambunjak D, Johnson TM, Imai P, Clarkson JE
+
+Cochrane Database Syst Rev. 2019 Apr 10;4(4):CD012018.
+DOI: 10.1002/14651858.CD012018.pub2
+PMID: 30968949 | PMCID: PMC6953268
+
+NOTE: PMC full text body was returned empty by the PubMed MCP (get_full_text_article) for
+this article at time of ingest (2026-07-11) — known issue for some Cochrane/Wiley PMC records.
+The abstract below (structured abstract + plain language summary, retrieved via
+get_article_metadata / get_full_text_article) is the complete text available. This is an
+abstract-only ingest (full_text: false).
+
+=== ABSTRACT ===
+
+Background
+Dental caries (tooth decay) and periodontal diseases (gingivitis and periodontitis) affect the
+majority of people worldwide, and treatment costs place a significant burden on health services.
+Decay and gum disease can cause pain, eating and speaking difficulties, low self-esteem, and even
+tooth loss and the need for surgery. As dental plaque is the primary cause, self-administered
+daily mechanical disruption and removal of plaque is important for oral health. Toothbrushing can
+remove supragingival plaque on the facial and lingual/palatal surfaces, but special devices (such
+as floss, brushes, sticks, and irrigators) are often recommended to reach into the interdental area.
+
+Objectives
+To evaluate the effectiveness of interdental cleaning devices used at home, in addition to
+toothbrushing, compared with toothbrushing alone, for preventing and controlling periodontal
+diseases, caries, and plaque. A secondary objective was to compare different interdental cleaning
+devices with each other.
+
+Search methods
+Cochrane Oral Health's Information Specialist searched: Cochrane Oral Health's Trials Register (to
+16 January 2019), CENTRAL (the Cochrane Library, 2018, Issue 12), MEDLINE Ovid (1946 to 16 January
+2019), Embase Ovid (1980 to 16 January 2019) and CINAHL EBSCO (1937 to 16 January 2019).
+ClinicalTrials.gov and WHO ICTRP were searched for ongoing trials. No restrictions were placed on
+language or date of publication.
+
+Selection criteria
+Randomised controlled trials (RCTs) that compared toothbrushing and a home-use interdental
+cleaning device versus toothbrushing alone or with another device (minimum duration four weeks).
+
+Data collection and analysis
+At least two review authors independently screened searches, selected studies, extracted data,
+assessed studies' risk of bias, and assessed evidence certainty as high, moderate, low or very low,
+according to GRADE. Indices measured on interproximal surfaces were extracted where possible.
+Random-effects meta-analyses used mean differences (MDs) or standardised mean differences (SMDs).
+
+Main results
+35 RCTs (3929 randomised adult participants) were included. Studies were at high risk of
+performance bias (blinding of participants not possible). Only two studies were otherwise at low
+risk of bias. Many participants had a low level of baseline gingival inflammation.
+
+Devices evaluated plus toothbrushing versus toothbrushing alone: floss (15 trials), interdental
+brushes (2 trials), wooden cleaning sticks (2 trials), rubber/elastomeric cleaning sticks (2
+trials), oral irrigators (5 trials). Devices compared with floss: interdental brushes (9 trials),
+wooden cleaning sticks (3 trials), rubber/elastomeric cleaning sticks (9 trials), oral irrigators
+(2 trials). Rubber/elastomeric cleaning sticks were also compared with interdental brushes (3
+trials).
+
+No trials assessed interproximal caries, and most did not assess periodontitis. Gingivitis was
+measured by indices (most commonly Löe-Silness, 0-3 scale) and by proportion of bleeding sites.
+Plaque was measured by indices, most often Quigley-Hein (0-5).
+
+Primary objective — comparisons against toothbrushing alone:
+- Low-certainty evidence: flossing + toothbrushing may reduce gingivitis (GI) at 1 month (SMD
+  -0.58, 95% CI -1.12 to -0.04; 8 trials, 585 participants), 3 or 6 months. Bleeding sites and
+  plaque results were inconsistent (very low-certainty).
+- Very low-certainty evidence: interdental brush + toothbrushing may reduce gingivitis (GI) at 1
+  month (MD -0.53, 95% CI -0.83 to -0.23; 1 trial, 62 participants); no clear difference in
+  bleeding sites (MD -0.05, 95% CI -0.13 to 0.03; 1 trial, 31 participants). Low-certainty evidence:
+  interdental brushes may reduce plaque more than toothbrushing alone (SMD -1.07, 95% CI -1.51 to
+  -0.63; 2 trials, 93 participants).
+- Very low-certainty evidence: wooden cleaning sticks + toothbrushing may reduce bleeding sites at 3
+  months (MD -0.25, 95% CI -0.37 to -0.13; 1 trial, 24 participants), but not plaque (MD -0.03, 95%
+  CI -0.13 to 0.07).
+- Very low-certainty evidence: rubber/elastomeric sticks + toothbrushing may reduce plaque at 1
+  month (MD -0.22, 95% CI -0.41 to -0.03), not gingivitis (GI MD -0.01, 95% CI -0.19 to 0.21; 1
+  trial, 12 participants; bleeding MD 0.07, 95% CI -0.15 to 0.01; 1 trial, 30 participants).
+- Very low-certainty evidence: oral irrigators may reduce gingivitis (GI) at 1 month (SMD -0.48,
+  95% CI -0.89 to -0.06; 4 trials, 380 participants), not at 3 or 6 months. Low-certainty evidence:
+  oral irrigators did not reduce bleeding sites at 1 month (MD -0.00, 95% CI -0.07 to 0.06; 2
+  trials, 126 participants) or 3 months, or plaque at 1, 3 or 6 months (SMD -0.16, 95% CI -0.41 to
+  0.10; 3 trials, 235 participants at 1 month).
+
+Secondary objective — comparisons between devices:
+- Low-certainty evidence: interdental brushes may reduce gingivitis more than floss at 1 and 3
+  months, no difference for periodontitis (probing pocket depth). Plaque evidence inconsistent.
+- Low- to very low-certainty evidence: oral irrigation may reduce gingivitis at 1 month compared to
+  flossing; very low-certainty — no difference between devices for plaque.
+- Very low-certainty evidence: interdental brushes or flossing vs interdental cleaning sticks did
+  not demonstrate superiority of either.
+
+Adverse events
+No severe events caused by devices; no evidence of differences between groups in minor effects
+such as gingival irritation.
+
+Authors' conclusions
+Using floss or interdental brushes in addition to toothbrushing may reduce gingivitis or plaque, or
+both, more than toothbrushing alone. Interdental brushes may be more effective than floss.
+Available evidence for tooth cleaning sticks and oral irrigators is limited and inconsistent.
+Outcomes were mostly measured in the short term and participants in most studies had a low level of
+baseline gingival inflammation. Overall, the evidence was low to very low-certainty, and the effect
+sizes observed may not be clinically important. Future trials should report participant periodontal
+status according to the new periodontal diseases classification, and last long enough to measure
+interproximal caries and periodontitis.
+
+MeSH terms: Dental Caries; Dental Devices, Home Care; Dental Plaque; Gingivitis; Humans; Oral
+Health; Periodontal Diseases; Randomized Controlled Trials as Topic.
