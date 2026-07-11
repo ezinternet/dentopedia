@@ -1,0 +1,75 @@
+Title: Alveolar Socket Preservation with Different Autologous Graft Materials: Preliminary Results of a Multicenter Pilot Study in Human
+Authors: Minetti E, Giacometti E, Gambardella U, et al.
+Journal: Materials, 2020
+DOI: 10.3390/ma13051153 | PMID: 32150927 | PMCID: PMC7084996
+
+Abstract:
+Background: The histological and histomorphometrical results were evaluated between vital whole and non-vital endodontically treated teeth used as autologous grafts in post-extractive socket preservation procedures. Methods: Twenty-eight patients (average age 51.79 ± 5.97 years) with post-extractive defects were enrolled in five dentistry centers. All patients were divided into two groups: with whole teeth (Group 1) and teeth with endodontical root canal therapy (Group 2). The extracted teeth were processed with the Tooth Transformer device to obtain a demineralized and granulated graft material used with a resorbable collagen membrane for socket preservation. After four months, 32 bone biopsies were obtained for histological, histomorphometric, and statistical analysis. Results: During the bone healing period, no infection signs were observed. Nineteen biopsies in group 1 and 13 biopsies in group 2 were detected. The histological analysis showed neither inflammatory nor infective reaction in both groups. Autologous grafts surrounded by new bone were observed in all samples and, at high magnification, partially resorbed dentin and enamel structures were detected. No gutta-percha or cement was identified. Small non-statistically significant differences between the groups, in total bone volume (BV), autologous graft residual, and vital bone percentage were detected. Conclusions: The study showed that the TT Transformer grafts were capable of producing new vital bone in socket preservation procedures. The histomorphometric results showed no statistical differences comparing whole and endodontically treated teeth in bone regeneration. Further studies will be carried out in order to understand the advantages of the autologous graft materials obtained from the tooth compared with the current biomaterials in bone regeneration treatments.
+
+1. Introduction
+
+After tooth loss, natural bone remodeling is carried out, with volumetric alveolar bone reduction (vertical 1.67–2.03 mm and horizontal 3.87 mm) and hard and soft tissue remodeling found to be higher during the first year. To prevent volumetric bone loss, various surgical techniques were suggested with or without the use of graft materials and resorbable or non-resorbable membranes.
+
+Fresh or demineralized freeze-dried human, animal (xenograft), and artificial (allograft) materials, used alone or combined, were studied in the literature in order to reduce the volumetric contraction of hard tissues (average bone loss of 0.36 mm horizontally and 0.58 mm vertically).
+
+For a long time, autogenous bone was considered the "gold standard" for its osteogenic, osteoconductive and osteoinductive properties; however it may have some problems, such as donor site morbidity and surgery, limited availability, and, in some cases, a high resorption rate. For these reasons, in the last 10 years, great effort was applied to developing a large number of biomaterials, with rapid or slow reabsorption, used as scaffolds that show osteoconductive properties.
+
+Many studies confirmed a similar composition of hydroxyapatite in the inorganic component and type 1 collagen, as well as other proteins in the organic component of bones, dentin, and enamel, although with different percentages. In 1967, Bang et al. showed the osteoinduction potential features of demineralized dentin matrix and, in 1991, Bessho et al., in an animal model, detected the presence of bone morphogenetic proteins (BMPs) in a human dentin matrix after a demineralization process. In 2017, Rijal theorized how the dentin demineralization process of autologous extracted teeth allows better bone augmentation for the increased availability of BMPs. Kim (2017) and Minamizato (2018) showed the efficacy of a chairside-prepared autologous partially demineralized dentin matrix for clinical bone regeneration procedures in human.
+
+The aim of the present study was to evaluate the histological behavior of two different autologous graft materials from healthy whole vs. endodontically treated teeth, used in human as a demineralized graft material produced by the innovative TT Transformer medical device for a clinical alveolar socket preservation procedure.
+
+2. Materials and Methods
+
+Between February 2018 and October 2018, 28 patients (average age 51.79 ± 5.97 years) with 34 post-extractive defects and in good health condition were enrolled in five dental centers in Italy. All patients signed a written informed consent form before being included in the study, and they were assigned into two different groups: Group 1 (G1) with healthy whole teeth and Group 2 (G2) with teeth extracted for endodontic root canal treatment. After tooth extraction, all teeth were cleaned, separated, and automatically demineralized with the TT Transformer medical device.
+
+All patients received the same alveolar socket preservation procedure using the autologous tooth as grafting material covered with a resorbable collagen membrane porcine pericardium (Bego oss®).
+
+2.1. Inclusion Criteria
+The study included patients over 18 years of age who needed a tooth extraction treatment, in good health condition (ASA-1 and ASA-2), and who were able to undergo dental surgical and restorative procedures. Tooth extractions were needed for trauma, caries, or periodontal diseases. The alveolar socket preservation procedures were requested in order to maintain the bone volume for dental implant rehabilitation after tooth extraction.
+
+2.2. Exclusion Criteria
+Pregnant subjects, patients with a history of allergies, tobacco use (within the last six months), diabetes, cancer, human immunodeficiency virus (HIV), bone or metabolic diseases, immunosuppressive agents, or use of systemic corticosteroids or intramuscular/intravenous bisphosphonates, and patients in radio or chemotherapy were excluded.
+
+2.3. Preoperative Work-Up
+Clinical and radiographic analysis with cone-beam computed tomography (CBCT, Planmeca ProMax 3DS Helsinki, Finland), periapical X-rays, or panoramic X-rays was performed. Two weeks before the oral surgery treatment, all patients received a professional oral hygiene session, and chlorhexidine 0.2% mouth rinses, twice a day for two weeks, were prescribed.
+
+2.4. Surgical Procedures and Follow-Up
+Antibiotic administration (2 g of amoxicillin/clavulanic acid in one solution 2 h before the extractions) was performed. The dimensions and the post-extractive socket morphology were recorded through direct measures. All extracted teeth were firstly cleaned using a diamond drill with abundant irrigation. Afterward, the G1 teeth (healthy whole) were cut into 5-mm-long samples.
+
+In the G2 teeth (endodontic treatment) the filling materials (gutta-percha, composite, etc.) were firstly carefully removed and then cut in the same dimensions. All materials were inserted in the TT grinder device (TT Tooth Transformer srl. Milan, Italy) for automatic single-use demineralization procedures for 25 min.
+
+Next, the bone defects were filled with a particulate demineralized dentin and enamel graft covered with absorbable membranes (Bego oss® Bremen, Germany). A second surgical stage was requested for the implant fixture placement at four months. Before the implant insertion, a bone biopsy was performed using trephine cylindrical drills graduated to indicate the depth (from 5 to 18 mm) with abundant irrigation using sterile saline.
+
+2.5. Collection and Statistical Analysis of Data
+Histological and morphometrical data were detected in accordance with the protocol recorded at the University of Chieti (ethical committee approval: request ID richhtnc4, protocol N°1869 12/12/2018, approved 17 verb 21.03.19 St.638 PI Perfetti). Data statistical analysis was carried out to obtain average values and to compare the behavior of the G1/G2 groups. Outcome measures of the exploratory study were analyzed with a-test for paired samples for pre–post differences with time as the factor using Statistical Package for Social Sciences (SPSS for Windows, Version 11.5, Chicago, IL, USA) software, to detect significant differences between pre-test and post-test scores.
+
+2.6. Histological Technique
+The sample was dehydrated with a series of alcohol solutions of increasing concentration, and then fixed into methacrylic resin. After that, the sample was processed to obtain non-decalcified sections using a disc abrasion system (LS2 Remet, Bologna, Italy) and a diamond disc cutting system (Micromet Remet, Bologna, Italy) with a high speed in order to obtain a 200-μm-thick slide sample. With low abrasive paper, the sample was then abraded to progressively reduce the sample thickness to about 40–50 μm. Then, the samples were colored with basic fuchsin/blue toluidine and observed using light/polarized light microscopy. For histomorphometric measurements, the histological images obtained using the transmitted light microscope were digitized through a digital camera and analyzed by means of image analysis software IAS 2000; for each sample, the percentage of vital bone (VB%), the percentage of the remaining graft (Graft%), and the percentage of residual bone volume (BV%) were detected.
+
+3. Results
+
+Twenty-eight subjects (10 men and 18 women) of 51.79 years (±5.97) average age were enrolled for the research. Thirty-four teeth were extracted and used for alveolar socket preservation treatment. Twenty teeth in G1 and 14 teeth in the G2 group were included.
+
+After all surgery treatments, no complications were shown, and 32 biopsies (19 in G1 and 13 in G2 group) were performed in second-stage surgery after four months of healing time. The histological analysis of the samples showed that dentin and enamel graft materials, partially resorbed, were surrounded and included in various new bone layers.
+
+No inflammation signs were detected in all specimens. No endodontic filling materials (gutta-percha, composite, cement, etc.) were detected in G2 samples. Histomorphometric analysis of the G1 biopsies showed a mean of 36.68% (±8.90%) for BV, 19.70% (±13.75%) for RG, and 20.78% (±13.29%) for VB. In the G2 group, the histomorphometric analysis showed a mean of 39.16% (±11.51%) for BV, 17.39% (±7.09%) for RG, and 22.89% (±9.72%) for VB. No statistical significance value was detected between the two groups.
+
+4. Discussion
+
+The knowledge of the physio-pathological processes following tooth extraction suggest constant three-dimensional bone reabsorption in height and thickness, which is higher in buccal vs. lingual–palatal regions.
+
+In the last 15 years, several surgical procedures, involving intra- or extra-oral autologous bone or heterologous biomaterials, were proposed to limit these processes. However, no studies showed only predictable benefits and responses.
+
+As of today, the best results were shown in the use of autologous bone for its osseoconduction and osseoinduction characteristics. However, all procedures required a second surgical site for bone harvesting or a double surgery treatment with increased discomfort of the patient. To limit the discomfort, several biomaterials with slow or rapid reabsorption were suggested; however, all materials showed only osteoconductive capabilities.
+
+From these scientific considerations, and from several studies of dental tissue embryology, the first aim of research should be to verify if the extracted tooth, currently considered waste material, could be used as graft material in alveolar socket preservation procedures. Furthermore, the behavior of the endodontically treated tooth in bone regeneration procedures should be determined, as well as if the tooth, properly cleaned after endodontic treatment, could be used in these surgical procedures.
+
+The results of the study confirmed the high biocompatibility of demineralized dental tissue used in socket preservation procedures. No inflammation signs or clinical failure were seen in all surgical procedures. No surgical sites showed difficulty in healing, and no resorbable membranes were discovered. No clinical or histological signs of inflammation or necrosis were detected in all sites or samples analyzed. All histological specimens showed no gutta-percha, composite, or cement filling materials. All histological results of demineralized autologous tooth materials showed a high value of vital bone around the grafts, capable of preventing volumetric bone loss in post-extracted alveolar sockets.
+
+After alveolar socket preservation treatment using an autologous demineralized dentin/enamel graft material, the histomorphometric analysis showed total bone volume and vital bone percentages higher in Group 2 vs. Group 1, while a higher residual graft value was detected in Group 1 vs. Group 2. However, no statistically significant differences between the two groups were detected.
+
+Furthermore, the extracted tooth was totally autogenous, with a dentin structure and composition very similar to bone. Dentin and enamel after TT Transformer treatment showed similar features to heterologous or synthetic bone substitutes on the market, whereas no expensive costs and no additional surgical procedures are required; it was also well accepted without further discomfort for the patient.
+
+5. Conclusions
+
+Several studies will be needed to know the real impact of this innovative technology on dental and maxillo-facial hard tissue regeneration therapy; however, the very promising results of our study show a high percentage of new vital bone around the residual graft material, suggesting that the autogenous demineralized tooth graft obtained by the TT Transformer medical device can be considered a feasible alternative to biomaterials currently used in human alveolar socket preservation procedures to promote bone healing in intraoral defects.
