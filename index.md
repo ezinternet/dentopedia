@@ -3456,3 +3456,4 @@ tags: []
 
 ### New batch — 2026-07-12 ingest (reference-mining — 골이식재 narrative review 인용문헌, PMC 풀텍스트)
 - [[bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal]] — Meza-Mauricio 2022 · sr+ma(4 RCT, n=109) · 골이식재+자가골 병용 vs 골이식재 단독 — 수평골증대에 유의한 추가 이득 없음
+- [[bone-regeneration/nakajima-2026-tooth-root-graft-alveolar-preservation]] — Nakajima 2026 · animal(개 6마리) · 치아뿌리유래 이식재 vs 이종골 치조제보존 비교 — 치아뿌리유래재가 잔존입자 거의 없이 생활골로 거의 완전 치환(65.6% vs 57.8%, 잔존입자 0.5% vs 19.7%)
