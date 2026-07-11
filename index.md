@@ -2025,6 +2025,7 @@ tags: []
 - [[practice-management/yansane-2020-patient-safety-culture-dentistry-assessment]] — Yansane 2020 · cross-sectional(미국 4개 치대, n=656) · MOSPSC 측정 — 의료가 치과를 10개 중 9개 안전문화 차원에서 앞섬; 치과 강점은 조직학습(85%)·팀워크(79%) (초록기반)
 - [[practice-management/ono-2022-cost-sharing-childhood-dental-utilization-japan]] — Ono 2022 · retrospective(DiD, 일본 청구자료 n=1,108) · 소아 치과보조금 중단(만10세)이 단기 이용·비용·중증치아상태에 유의 변화 없음 — 보편의료 맥락 cost-sharing (초록기반)
 - [[practice-management/listl-2019-what-is-health-economics-oral-health]] — Listl 2019 · narrative-review · 치과 보건경제학 입문: 수요·비대칭정보·시장실패(효율·형평)·경제성평가·공급자유발수요·인력기획 (초록기반)
+- [[practice-management/team-feedback-system-johari]] — 내부 SOP (synthesis, 2026-07-11 신설) · 조하리의 창 기반 팀 피드백 시스템 운영 매뉴얼: 상향 익명 → 실장 1:1 실명 → 파트 수평 3단계, 리더 자기개방 선행·루프 클로징 원칙, 위생사 ~20명 팀 대상. 도입 결정 [[note-meeting/2026-07-11_wiki-team-feedback-system]]
 
 ### resin (added 2026-05-24, batch c)
 
