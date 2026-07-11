@@ -7,9 +7,13 @@ doi: 10.1186/s12903-023-03518-6
 source: axe-2023-impact-manual-toothbrush-design.md
 category: [periodontics]
 confidence: in-vitro
-pdf_path: /Users/oracleneo/llm-wiki/papers/axe-2023-impact-manual-toothbrush-design.txt
-pdf_filename: axe-2023-impact-manual-toothbrush-design.txt
 source_collection: pubmed-text
+full_text: true
+pmid: "37880662"
+pmcid: "PMC10601269"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10601269/
+text_path: /Users/oracleneo/llm-wiki/papers/axe-2023-impact-manual-toothbrush-design.txt
+text_filename: axe-2023-impact-manual-toothbrush-design.txt
 tags: [manual-toothbrush, toothbrush-design, bristle-configuration, filament-diameter, plaque-removal, robot-brushing, plaque-planimetry, interdental-cut]
 relations:
   - type: extends
