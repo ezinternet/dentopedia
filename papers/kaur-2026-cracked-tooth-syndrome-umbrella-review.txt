@@ -1,0 +1,789 @@
+INTRODUCTION
+
+Cracked tooth syndrome (CTS) is classically defined as an incomplete fracture of a vital posterior tooth that produces pain on function, release of pressure, or thermal stimulation, without evidence of pulpal necrosis or periodontal involvement.[] Heavy occlusal forces, age-related dentin changes, bruxism, and extensive restorations are the main causes of structural fatigue and stress accumulation in teeth.[] These factors may eventually result in partial fractures that jeopardize the tooth’s structural integrity. Epidemiological research suggests that the third most frequent cause of tooth loss in permanent dentition is cracked teeth, which follows caries and periodontal disease by a large margin, with mandibular molars being the most affected.[]
+
+Because of the wide range of crack severity and tooth involvement, managing CTS is clinically complex. The degree and direction of the crack, pulpal health, the existence of periodontal involvement, and the amount of remaining tooth structure influence the choice of treatment.[] If the pulp is affected, treatment options may include root canal therapy, extraction in non-restorable cases, full-coverage crowns to distribute occlusal forces, or bonded restorations for minor cracks.[] The choice and timing of the intervention, however, are still debatable. For example, although full crowns after root canal therapy are frequently recommended for severely cracked teeth, concerns about their long-term effectiveness, the necessity of prompt RCT, and the prognosis of conservatively managed teeth still exist.[]
+
+Although several systematic reviews have been conducted on CTS, the study design, outcomes, and follow-up periods vary, resulting in overlapping of primary data, making it difficult to offer consistent clinical recommendations.[] Furthermore, the overlapping of primary studies constantly restricts the reliability and generalizability of the available evidence further.
+
+Umbrella reviews, sometimes called systematic reviews of systematic reviews, are a methodology that offers an organized method of creating evidence synthesis on a review-by-review basis, which enables the testing of consistency, certainty, and gaps in the knowledge base.[] Despite the existence of a number of systematic reviews studying the therapeutic interventions of CTS,[] they differ in both scope and methodology rigor and reported outcomes, which contradict each other and do not allow drawing uniform clinical recommendations. Considering the clinical relevance of identifying the right management approaches to use when treating cracked teeth, the purpose of this umbrella review was to critically review and synthesize the available evidence on the subject at the review level.[]
+
+METHODS
+
+Protocol and registration
+
+In order to be transparent and have methodological consistency, this umbrella review was carried out based on a pre-defined protocol in line with the PRISMA-P 2015 guidelines.[] The protocol was registered in PROSPERO[] (CRD420250648720). The review was conducted according to PRISMA 2020[] [] and the PRIOR checklist[] [], both specific to umbrella reviews. Cochrane Handbook[] and Joanna Briggs Institute[] were also adhered to. The deviations in the protocols were reported and justified.
+
+Research question
+
+The research question was as follows: What are the clinical results and complication rates of various therapeutic modalities, in patients with CTS, on the basis of systematic reviews and meta-analyses?
+
+PICO framework
+
+Population (P): CTS patients regardless of the location of teeth, the depth of the crack, or the pulpal status.
+
+Intervention (I): The following types of treatment will be used, such as full-coverage crowns, partial coverage restorations (onlays/overlays), direct or indirect adhesive restoration, root canal treatment, occlusal adjustment, and extraction.
+
+Comparator (C): Alternative treatments such as observation, placebo, or no treatment.
+
+Outcomes (O):
+
+Primary: Survival of the tooth, success of treatment, reduction of pain/sensitivity, progression of cracks, restoration failure, and re-treatment/extraction
+
+Secondary: Secondary events, complications, cost of treatment, and patient satisfaction.
+
+Eligibility criteria
+
+This umbrella review incorporated systematic reviews and meta-analyses of the treatment effects of CTS in humans. Reported eligible reviews used clear methodology, database search methodology, included/excluded reports, extraction of data, and estimation of the risk-of-bias.[] The inclusion criteria included systematic reviews that examined RCTs, nonrandomized studies, and cohort or case–control studies. The reviews were excluded based on a lack of clear methodology, the synthesis of the results, and only diagnosis without focusing on treatment.[]
+
+Sources of information and search strategy
+
+PubMed (MEDLINE), Cochrane Library, Scopus, EMBASE, and Web of Science were searched by using free-text and MeSH terms associated with CTS treatment.[] All the publications dated till June 15, 2025 were searched. The English-language publications were the only ones that were taken into consideration, and language bias was recognized.displays the complete database strategies. Screening of reference lists of qualified reviews was also done. Cross-checking of primary studies in the included systematic reviews was done to avoid redundancy. Only peer-reviewed systematic reviews and meta-analyses were included. Gray literature sources were excluded to maintain methodological rigor, reproducibility, and homogeneity of evidence. Only systematic reviews published in peer-reviewed and indexed journals were considered eligible, as such publications are more likely to adhere to validated quality frameworks (e.g. PRISMA, A Measurement Tool to Assess Systematic Reviews 2 [AMSTAR-2]) and to provide the level of transparency, methodological detail, and data accessibility required for synthesis in an umbrella review.
+
+Table 1
+
+Search strategy
+
+Database
+
+Strategy
+
+Number of studies
+
+PubMed
+
+(“cracked tooth syndrome”[MeSH Terms] OR (“cracked”[All Fields] AND “tooth”[All Fields] AND “syndrome”[All Fields]) OR “cracked tooth syndrome”[All Fields] OR (“cracked”[All Fields] AND “tooth”[All Fields] AND “syndromes”[All Fields]) OR (“cracked tooth syndrome”[MeSH Terms] OR (“cracked”[All Fields] AND “tooth”[All Fields] AND “syndrome”[All Fields]) OR “cracked tooth syndrome”[All Fields] OR (“syndrome”[All Fields] AND “cracked”[All Fields] AND “tooth”[All Fields])) OR (“cracked tooth syndrome”[MeSH Terms] OR (“cracked”[All Fields] AND “tooth”[All Fields] AND “syndrome”[All Fields]) OR “cracked tooth syndrome”[All Fields] OR (“syndromes”[All Fields] AND “cracked”[All Fields] AND “tooth”[All Fields]))) AND (“Systematic Review”[All Fields] OR “Meta-analysis”[All Fields] OR “Review”[All Fields])
+
+59
+
+Scopus
+
+( TITLE-ABS-KEY ( “cracked tooth syndrome” OR “cracked tooth” OR “tooth fracture” OR “cuspal fracture” ) ) AND ( TITLE-ABS-KEY ( “systematic review” OR “meta-analysis” ) )
+
+156
+
+Embase
+
+(“cracked tooth syndrome”/exp OR “cracked tooth syndrome” OR “cracked tooth” OR “tooth fracture”/exp OR “tooth fracture” OR “cuspal fracture”) AND (“systematic review”/exp OR “systematic review” OR “meta-analysis”/exp OR “meta-analysis”)
+
+141
+
+Cochrane
+
+(“cracked tooth” OR “cracked tooth syndrome” OR “tooth fracture” OR “incomplete tooth fracture” OR “vertical tooth fracture” OR “cracked molar” OR “split tooth”) AND (“systematic review” OR “meta-analysis” OR “review”) AND (“therapy” OR “treatment” OR “management” OR “intervention” OR “restoration” OR “endodontics” OR “crown” OR “bonded restoration” OR “occlusal adjustment” OR “extraction”)
+
+0
+
+Web of science
+
+(TS=(“cracked tooth syndrome” OR “cracked tooth” OR “fractured tooth” OR “incomplete tooth fracture”)) AND (TS=(“treatment” OR “therapy” OR “management”)) AND (TS=(“systematic review” OR “meta-analysis”))
+
+77
+
+Data management
+
+To eliminate redundant search results, the results were imported into EndNote X20 (Clarivate Analytics)[] and then exported to Rayyan (Rayyan Systems Inc., Qatar)[] for independent screening. Titles and abstracts were screened against eligibility criteria by two reviewers, and potentially eligible studies were reviewed in full text. The disagreements were solved by consensus or consultation with a third reviewer. The PRISMA 2020 flow diagram[] [and] shows the selection procedure.
+
+Figure 1
+
+PRISMA 2020 flow diagram
+
+Table 2
+
+Study selection summary (Preferred Reporting Items for Systematic Review and Meta-Analysis protocols flow numbers)
+
+Stage
+
+Number of records
+
+Records identified through database searching
+
+433
+
+Total records after duplicates removed
+
+159
+
+Records screened (title/abstract)
+
+159
+
+Records excluded (title/abstract)
+
+149
+
+Full-text articles assessed for eligibility
+
+10
+
+Full-text articles excluded (with reasons)
+
+6 2: Full text not available in English 3: Did not assess therapeutic interventions for cracked tooth syndrome 1: Integrative review
+
+Systematic reviews included in the umbrella review
+
+4
+
+Data collection process
+
+Two independent reviewers used a piloted extraction form.[] The data items were author, year, type of primary studies, sample characteristics, interventions, comparators, outcomes, and effect estimates (risk ratios, odds ratios, hazard ratios, mean differences, standardized mean differences, and 95% confidence intervals). Methodological characteristics of each review (registration of the PROSPERO, PRISMA compliance, presence or absence of meta-analysis, etc.) were also noted.
+
+Evaluation of methodological quality
+
+The methodological quality of the included systematic reviews was assessed using the AMSTAR 2 instrument,[] which evaluates 16 methodological domains. Among these, seven are identified as critical domains that collectively determine the overall confidence in the results and the reliability of evidence synthesis. Assessment by two reviewers was performed, and differences were resolved through a third reviewer. The Corrected Covered Area (CCA) technique[] was used in quantifying overlap of the primary studies across reviews, thus enhancing transparency and eliminating duplication bias.
+
+Summary of measures
+
+In nonmeta-analytic reviews, the results of efficacy were taken out of the narrative syntheses. In case of reviews that involve meta-analysis, pooled results were obtained (odds ratios, relative risks, hazard ratios, mean differences, and standardized mean differences) with 95% confidence intervals. Thestatistic was used to measure heterogeneity, and, in case possible, prediction intervals were also recorded. This also made it possible to combine both the quantitative and qualitative results.[]
+
+Evidence synthesis
+
+Synthesis of data was done on an outcome-by-outcome basis but categorized by the type of intervention and outcome measure. This plan was necessary to guarantee the independence of findings and minimize bias for overlap of the primary study.[] The synthesis framework has helped to bring to the fore working interventions, relative risks, and the existing gap in the evidence about the various classes of CTS interventions.
+
+RESULTS
+
+Search results and study selection
+
+A predefined peer-reviewed search strategy was used in the literature search and involved five electronic databases,[] including PubMed, Cochrane Library, Scopus, EMBASE, and Web of Science []. A total of 433 records were obtained in this process. All the references were entered into EndNote X20 (Clarivate Analytics),[] where automated and manual de-duplication steps were performed, and 274 duplicates were removed, and 159 distinct records were left to undergo screening. These 159 articles were exported to Rayyan (Rayyan Systems Inc., Qatar)[] to screen the titles and abstracts by two independent reviewers, where disagreements were settled by discussing them with a third reviewer.
+
+After this step, 149 articles were discarded mainly due to an insufficient systematic approach of the study, being etiological or diagnostic in nature, without mentioning interventions, or not reporting the outcome of treatment. Ten articles were then evaluated in full text. Among them, six were filtered: Two due to the availability of the full texts in other non-English languages, three due to a lack of evaluation of therapeutic interventions, and one due to it being an integrative review. Thus, four systematic reviews were identified, which were included in this umbrella review and met all the inclusion requirements.(PRISMA 2020)[] is the flow chart of this selection process, andcontains the numerical information.
+
+Characteristics of included systematic reviews
+
+Four systematic reviews,[] which were constituents of this umbrella review and have been published since 2020, incorporated 30 distinct primary studies. All discussed therapeutic interventions of cracked teeth, but their scope and emphasis were different.
+
+A systematic review and meta-analysis by Zhang.[] included both vital and endodontically treated cracked teeth in their review. Direct and indirect restorations, cuspal coverage, and root canal treatment or root canal treatment supplemented by definitive restoration were some of the interventions. Cuspal coverage was always noted to be related to better survival and a lack of crowns to increase the risks of extraction and pulpal complications.
+
+In their systematic review and meta-analysis, Olivieri.[] conducted seven studies that involved posterior cracked teeth that received some root canal treatment. The overall survival rate (88%) was good, yet the cases with periodontal pockets significantly deteriorated the outcome.
+
+The endodontic studies are summarized in another paper by Leong.[] included four retrospective cohort studies on the subject of endodontically treated cracked teeth. The 5-year survival rate was approximately 84%, with the tendency toward deteriorating survival rates in teeth with multiple or radicular cracks, deeper probing depth, and terminal abutment status.
+
+Mathew.[] summarized six observational studies about endodontic treatment of cracked teeth. A narrative presentation showed that the placement of a crown following root canal therapy increased tooth survival. On the other hand, probing depths larger than 6 mm, bruxism, and pulpal floor cracks were related to an undesirable prognosis.
+
+Combined, the reviews accepted both the prognostic influence of cuspal coverage and timely successful restoration as paramount in optimally surviving cracked teeth, and periodontal status and the morphology of the crack as major determinants. These reviews have been organized into a table summary in, and the detailed elaborative version can be found in the.
+
+Table 3
+
+Characteristics of included systematic reviews
+
+Author (year)
+
+Included SRs ()
+
+Total sample ()
+
+Population/teeth type
+
+Intervention (s)
+
+Comparator (s)
+
+Reported outcomes
+
+Summary of key findings
+
+Zhang. (2024)
+
+27
+
+5279
+
+Vital posterior teeth with cracks (CTS–RVDP)
+
+Monitoring, direct/indirect restorations, RCT
+
+Direct versus full-coverage crowns
+
+Pulp and tooth survival, symptoms
+
+Crown placement improves survival; monitoring safe in asymptomatic teeth
+
+Mathew. (2024)
+
+6
+
+566
+
+Endodontically treated cracked teeth
+
+RCT
+
+Full crowns versus other restorations
+
+Tooth survival
+
+Full crowns improve survival over alternative restorations
+
+Oliveri. (2020)
+
+7
+
+674
+
+Cracked posterior teeth post-RCT
+
+RCT
+
+Preoperative factors (e.g., pain, probing depth)
+
+1-year survival, predictors of failure
+
+1-year survival 88%; deep probing and pain linked to poorer prognosis
+
+Leong. (2020)
+
+4
+
+585
+
+Adults ≥18 years needing RCT for cracked teeth
+
+RCT with ≥1 year follow-up
+
+Gender, diagnosis, crack depth
+
+5-year survival and risk factors
+
+5-year survival ~85%; deeper cracks and symptoms reduce longevity
+
+RCT: Root canal treatment, CTS: Cracked Tooth Syndrome, SR: Systematic review, RVDP: Reversible pulpitis with dentinal pain
+
+Quality assessment of included reviews
+
+The four included systematic reviews were evaluated using AMSTAR-2.[] This tool was used to assess the methodology of the systematic reviews. The domain-level ratings are also presented in. In general, the methodological strength of the sampled reviews was inconsistent.
+
+In Zhang.,[] the rating was critically low based on the fact that there was no list of excluded full-text studies or any evaluation of the presence of publication bias, both of which are considered critical AMSTAR-2 domains.
+
+Critically low confidence was also calculated as the Mathew.[] Despite the registration of a protocol and the reporting of duplicate processes, the review lacked an exclusion list; it did not assess the publication bias but used only narrative synthesis without proper reasons as to why the meta-analysis was not carried out.
+
+Conversely, Olivieri.[] met all AMSTAR-2 domains of critical satisfaction, and their rating was high confidence. The deficit was that the lack of information on the sources of funding of the included primary studies was not critical.
+
+The quality of the methodology of Leong.[] was rated as low. The review has not registered any protocol but lacked a list of excluded studies, used single-extractor data collection with further verification as opposed to independent duplicate extraction, although the authors have conducted an extensive literature search and used the appropriate statistical tests.
+
+Although some reviews were registered, they displayed a significant amount of methodological rigor; the overall evidence base is diminished by significant methodological weaknesses, especially with respect to transparency of the study exclusions, and bias related to the study publication.
+
+Table 4
+
+Quality assessment of included reviews - A Measurement Tool to Assess Systematic Reviews 2
+
+Author, year
+
+1. PICO components (yes/partial yes/no)
+
+2. Protocol registered before review (yes/partial yes/no)
+
+3. Explanation for selection (yes/partial yes/no)
+
+4. Comprehensive literature search (yes/partial yes/no)
+
+5. Study selection in duplicate (yes/partial yes/no)
+
+6. Data extraction in duplicate (yes/partial yes/no)
+
+7. List of excluded studies with reasons (yes/partial yes/no)
+
+8. Characteristics of included studies described (yes/partial yes/no)
+
+9. Risk of bias assessed appropriately (yes/partial yes/no)
+
+Zhang., 2024
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Mathew., 2024
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Oliveri., 2020
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Leong., 2020
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Partial yes
+
+No
+
+Yes
+
+Yes
+
+Author, year
+
+10. Sources of funding reported for included studies (yes/partial yes/no)
+
+11. Appropriate meta-analysis methods used (if done) (yes/partial yes/no/NA)
+
+12. Risk of bias accounted for in interpretation (yes/partial yes/no)
+
+13. Risk of bias accounted for in meta-analysis (yes/partial yes/no/NA)
+
+14. Explanation of heterogeneity (yes/partial yes/no/NA)
+
+15. Investigation of publication bias (yes/partial yes/no/NA)
+
+16. Conflict of interest reported (yes/partial yes/no)
+
+Confidence in review quality (high/moderate/low/critically low)
+
+Zhang., 2024
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Partial yes
+
+No
+
+Yes
+
+Critically low
+
+Mathew., 2024
+
+No
+
+NA
+
+Yes
+
+NA
+
+Yes
+
+No
+
+Yes
+
+Critically low
+
+Oliveri., 2020
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+High
+
+Leong., 2020
+
+No
+
+Yes
+
+Yes
+
+Partial yes
+
+Yes
+
+No
+
+Yes
+
+Low
+
+NA: Not available
+
+Overlap analysis
+
+A citation matrix [] was built to determine the overlap of primary studies used in both of the four systematic reviews and calculate the CCA using the formula suggested by Pieper.[]
+
+Here,is the sum of all study occurrences across all reviews,is the number of unique primary studies, andis the number of systematic reviews. This analysis included 30 distinct primary studies (= 30), defined 45 occurrences in total (= 45), throughout the four included systematic reviews (= 4), resulting in a 0.17 (17%) CCA. Since values above 15% reflect extremely high overlap, it shows that the reviewed articles were largely based on the same literature body, and that there is a likelihood of an overlap and consequent risk of duplication and possible multiple counts, which can be viewed as an issue when interpreting the synthesized findings.
+
+Table 5
+
+Citation matrix
+
+Primary studies (author, year)
+
+SR1: S. Zhang., 2024
+
+SR2: Mathew., 2024
+
+SR 3: Oliveri., 2020
+
+SR 4: Leong., 2019
+
+Chen., 2000
+
+R
+
+R
+
+De Toubes., 2021
+
+R
+
+R
+
+Krell., 2007
+
+R
+
+R
+
+Davis., 2000
+
+R
+
+R
+
+Gu., 2004
+
+R
+
+Gutheri., 1991
+
+R
+
+Kanamaru., 2017
+
+R
+
+Lee., 2021
+
+R
+
+Liu., 2014
+
+R
+
+Lu., 2007
+
+R
+
+Luo., 2016
+
+R
+
+Opdam., 2008
+
+R
+
+Signore., 2007
+
+R
+
+Wu., 2019
+
+R
+
+Zhao., 2016
+
+R
+
+Chen., 2021
+
+R
+
+Davis., 2019
+
+R
+
+Dow., 2016
+
+R
+
+R
+
+Kang., 2016
+
+R
+
+R
+
+R
+
+R
+
+Kim., 2013
+
+R
+
+Krell., 2018
+
+R
+
+R
+
+R
+
+Liao., 2021
+
+R
+
+Nguyen Thi., 2021
+
+R
+
+R
+
+Sim., 2016
+
+R
+
+R
+
+R
+
+Tan., 2006
+
+R
+
+R
+
+R
+
+Wang., 2013
+
+R
+
+Ferracane., 2021
+
+R
+
+Yap., 1995
+
+R
+
+Lu., 2021
+
+R
+
+Malentacca., 2021
+
+R
+
+SR: Systematic review
+
+Summary of findings
+
+provides a thorough summary of findings, including details on the interventions evaluated, their relative effectiveness, and their clinical significance. The most commonly reported outcome across all included systematic reviews was tooth survival. While Olivieri.[] and Leong.[] reported slightly lower survival rates of 88% and 84.1% at 60 months, respectively, Zhang.[] and Mathew.[] showed survival rates of 92.8%–97.8% for vital teeth and 90.5%–91.1% for cracked teeth treated with RCT when managed with full-coverage crowns. In each review, shorter lifespans were associated with adhesive restorations without cuspal coverage and with careful monitoring practices.
+
+According to three reviews,[] treatment success – which is commonly characterized as the absence of symptoms, radiographic healing, and no retreatment – ranged from 82% to 84% when complete cuspal coverage was applied, with results similar to those of teeth that had not had endodontic treatment. On the other hand, success was consistently decreased when cuspal protection was absent. Zhang.[] examined the preservation of pulp vitality and found that, although there is still little long-term data, 85.6%–90.4% of minimally symptomatic cracked teeth retained vitality 1 to 3 years after receiving early conservative adhesive restorations. According to the same review, cuspal coverage offered more long-lasting comfort than direct composites, and restorative stabilization significantly reduced bite sensitivity and thermal discomfort within 1 to 2 weeks.
+
+Zhang.[] found that teeth restored without cuspal coverage had a threefold increased risk of progressing to endodontic therapy. While bonded amalgam and crowns provided better longevity, restoration failure was also higher in direct composites without cuspal coverage. Similar to direct composites or unrestored teeth, cuspal coverage improved fracture resistance; however, the majority of the supporting data came from observational andresearch.
+
+According to Olivieri.,[] the probability of extraction after RCT was 11.3 times greater in the absence of cuspal coverage. Mathew.[] underlined the significance of immediate full-coverage intervention while underscoring the risk of crack expansion in untreated or partially restored teeth. Last but not least, Olivieri.[] and Leong.[] emphasized the significance of periodontal status by discovering that probing depths greater than 4 mm were significantly associated with decreased survival and increased failure, often indicating vertical crack extension beneath the gingival margin.
+
+Table 6
+
+Summary of findings table
+
+Outcome
+
+Findings
+
+Effect estimates/statistics
+
+Review(s) reporting
+
+Clinical significance
+
+Tooth survival
+
+Cracked teeth treated with RCT and full-coverage crowns demonstrated the highest survival, while adhesive restorations without cuspal coverage and conservative monitoring approaches showed lower longevity
+
+Zhang (2024): 92.8%–97.8% (vital), 90.5%–91.1% (RCT); Mathew (2024): 75.8%–100%; Olivieri (2020): 88%; Leong (2019): 84.1% at 60 m
+
+Zhang, 2024; Mathew, 2024; Olivieri, 2020; Leong, 2019
+
+Strong and consistent evidence supports cuspal coverage after RCT as the most reliable strategy for long-term tooth preservation
+
+Treatment success rate
+
+Success rates were consistently high in cracked teeth restored with full crowns after RCT, comparable to outcomes in noncracked endodontically treated teeth. Absence of cuspal protection reduced success
+
+Mathew (2024): 75.8%–100%; Olivieri (2020): 83.7%; Leong (2019): ~82%–84%
+
+Mathew, 2024; Olivieri, 2020; Leong, 2019
+
+Full cuspal coverage enhances clinical success and should be considered essential in treatment planning
+
+Pulp vitality preservation
+
+Early conservative adhesive restorations preserved pulp vitality in the short term, especially in minimally symptomatic cracked teeth
+
+Zhang (2024): 85.6%–90.4% vitality retention at 1–3 years
+
+Zhang, 2024
+
+Conservative adhesive management may be appropriate for selected cases with limited crack propagation, but long-term outcomes remain uncertain
+
+Pain relief
+
+Significant reductions in bite pain and thermal sensitivity were observed after restorative stabilization, particularly with cuspal coverage
+
+Zhang (2024): Rapid relief within 1–2 weeks, sustained longer with crowns than with direct composites
+
+Zhang, 2024
+
+Restorations that stabilize cracks provide immediate symptom relief; crowns remain superior for durable comfort
+
+Progression to RCT
+
+Cracked teeth without cuspal protection showed markedly higher risk of progression to RCT
+
+Zhang (2024): 3× higher risk of requiring RCT in teeth without cuspal coverage
+
+Zhang, 2024
+
+Timely provision of cuspal coverage is protective against pulpal deterioration and need for RCT
+
+Restoration failure
+
+Direct composite restorations without cuspal protection showed higher failure rates; bonded amalgam and crowns demonstrated superior longevity
+
+Zhang (2024): Higher reintervention and persistent symptoms with direct composite
+
+Zhang, 2024
+
+Cuspal protection and appropriate restorative material selection are key to long-term success
+
+Fracture resistance
+
+Cuspal coverage restorations (crowns, onlays) significantly improved structural integrity compared with unrestored teeth or direct composites
+
+Zhang (2024): Cuspal coverage > direct composites (observational and in vitro data)
+
+Zhang, 2024
+
+Cuspal coverage provides biomechanical reinforcement and should be prioritized in managing cracked teeth
+
+Extraction risk
+
+Absence of crown coverage after RCT markedly increased the risk of extraction; periodontal status further influenced outcomes
+
+Olivieri (2020): 11.3× higher extraction risk without crown; Leong (2019): similar trends
+
+Olivieri, 2020; Leong, 2019
+
+Full cuspal coverage is essential to minimize extraction risk, especially in posterior teeth
+
+Crack progression
+
+Crack propagation was more likely when treatment was delayed or when cuspal coverage was not provided
+
+Mathew (2024): Higher progression risk in untreated or partially restored teeth
+
+Mathew, 2024
+
+Early intervention with full-coverage restorations reduces crack extension and preserves prognosis
+
+Influence of periodontal status
+
+Deep periodontal pockets (>4 mm) were associated with reduced survival and higher failure rates, often reflecting vertical crack extension
+
+Olivieri (2020); Leong (2019): Periodontal probing depth strongly predictive of poor outcomes
+
+Olivieri, 2020; Leong, 2019
+
+Periodontal assessment is critical in the prognostic evaluation and treatment planning of cracked teeth
+
+RCT: Root canal treatment
+
+DISCUSSION
+
+This umbrella review, which combines four systematic reviews, determined that endodontic therapy followed by cuspal coverage restorations was the most reliable approach to manage cracked teeth. Clinical evidence supports these results: Lee. found long-term prognosis with crowns,[] Nguyen and Jansson found a better survival of 97% and 95%, respectively, at 5 and 10 years of follow-up in crowned teeth than in composites,[] and a recent case report reported successful preservation of a crown-root fracture with biomimetic reinforcement using MTA and fiber-reinforced composite after 2 years of follow-up.[] Collectively, findings from systematic reviews, clinical research, and individual case reports highlighted the pivotal role of cuspal coverage in achieving successful outcomes in cracked teeth.
+
+Unrestored cusps are biomechanically weak, and adhesive restorations with no coverage have poor durability. Biomechanical evidence also backs this up, as Anantula. demonstrated negative concentration of stress in fractured roots[] and Demirel.[] reported that onlay restorations exhibited higher crack propagation, whereas overlay restorations showed improved fatigue performance and stress distribution. The results of this study demonstrate that cuspal protection diminishes the stress concentration and cusp deflection to avoid disastrous fracture.
+
+Even though the sealing of cracks can minimize the aspects of bacterial intrusion and pulpal irritation, the long-term effectiveness of vitality-preserving adhesive strategies is doubtful. The relief of the symptoms usually occurs in 1–2 weeks in case of restorative stabilization, particularly, cuspal coverage. Intraorifice barriers, including reinforcement strategies, can facilitate the resistance, and resin-modified glass ionomer and bulk-fill composites showed positive results.[] The systematic review and meta-analysis established that intraorifice barriers can significantly prevent microleakage and enhance long-term predictability, and bioceramic barriers have the most excellent performance.[] Such adjunctive interventions, used along with cuspal coverage, fortify the prognosis in weakened teeth.
+
+It was found that delayed or insufficient intervention was always linked to unfavorable results. Systematic reviews showed that the absence of cuspal coverage elevated the chances of extraction to a point of 11-fold and probability of having to undergo root canal treatment by three fold. Early intervention is thus urgently needed, because untreated teeth or partially stabilized teeth exhibit increased crack propagation. These results are in line with experimental results: Composite onlays were linked to the greatest amount of stress, and zirconia and pressable ceramics exhibited more desirable stress distribution and resilience.[] These findings highlight the significance of providing cuspal coverage during early childhood using restorative materials that are durable to avoid the occurrence of catastrophic fracture and loss of teeth.
+
+Prognosis was also affected by the periodontal condition. Depending on depths of more than 4 mm, there were always lower chances of survival and increased chances of crack propagation. Toubes. clinically documented a 100% survival of cracked teeth with root extension during 1–3 years as of biodentine placement as an intraorifice barrier prior to full coverage.[] This premise was further supported by finite element modeling that revealed that increased periodontal pocket depth contributed to an increase in the concentration of stress and increased undesirable patterns of crack propagation.[] These results highlight why it is important to pay attention to the fact that restorative reinforcement and periodontal health should be taken into account to predict long-term results.
+
+Limitations
+
+A number of methodological factors limit the strength of evidence of this umbrella review. The synthesized findings were not as independent as they should be because there was a substantial overlap of primary studies (CCA = 0.17).[] The quality of the methodology of reviewed articles, evaluated with AMSTAR 2, was low to critically low, primarily because of the absence of protocol registration, not all exclusion lists, and using one extractor in the analysis of the data. The inconsistency in duration of follow-up, inconsistent definition of outcomes, and the use of retrospective observational studies also limited comparability and causal inference. Although gray literature was avoided to ensure consistency in the methods and attention to peer-reviewed systematic reviews, this could also have resulted in a publication bias.
+
+Recommendations
+
+According to the combined evidence, the clinical gold standard in the treatment of cracked teeth should be considered to be full cuspal coverage after endodontic therapy, as it shows the highest correlation with long-term survival, low failure rates, and biomarker stability.[] Conservative adhesive restoration can be used only in case of insignificant symptoms and narrowly spreading cracks, as they have a questionable future prognosis. This requires early and complete stabilization since late or incomplete coverage can pose a high risk of pulpal involvement, propagation of cracks, and loss of teeth.[] Periodontal assessment must also be part of clinical decision-making, as probing depths more than 4 mm are linked with lower survival and more crack propagation.[]
+
+Prospective studies on the subject should use carefully planned prospective cohort studies and randomized controlled trials that include standardized definitions of outcome, a consistent interval of follow-up, and patient-reported outcomes of the quality of life regarding oral health.[] The discrepancies in indirect adhesive onlay longevity and performance, as well as high-strength ceramics and bioactive biomimetic materials, require comparative tests in order to address the inconsistency problems.[] More exploration on the biological predictors of pulpal vitality, the effects of bioceramic sealers on postoperative effects, and the reinforcing capacity of intraorifice barriers will enhance the translational component of the existing results.[]
+
+New imaging technologies and artificial intelligence-enabled diagnostic technologies have shown to be useful in early detection and characterization of cracks, allowing more effective treatment planning and prediction of diagnostic variability across practitioners.[]
+
+CONCLUSION
+
+Due to the constraints of the known evidence, endodontic treatment with subsequent total cuspal coverage is the most foreseeable and scientifically proven method of dealing with fractured teeth. Techniques of adjunctive reinforcement and preservation of periodontal stability have a substantial impact on long-term prognosis, and they must be introduced into the treatment planning. The enhancement of the evidence base by the high-quality, standardized, and technology-based research will play an essential role in the progress of biomimetic care and personalized care. These changes will reduce variation in treatment, maximize clinical decision–making, and restorative longevity and life quality in patients with CTS.
+
+Conflicts of interest
+
+There are no conflicts of interest.
