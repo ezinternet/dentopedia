@@ -1,0 +1,111 @@
+Title: Relationships between orofacial pain and sleep: Analysis of UK biobank and genome-wide association studies data
+Authors: Jiang Yang, Gong Xu, Yu Min, Gao Xuemei
+Journal: Journal of Dental Sciences (Taiwan)
+PMID: 39873079
+PMCID: PMC11762203
+DOI: 10.1016/j.jds.2024.04.027
+Source: PubMed Central full text (get_full_text_article)
+
+Abstract
+
+Background/purpose
+
+Orofacial pain is common in dental practices. This study aimed to explore relationships between orofacial pain and sleep using the UK Biobank dataset and, based on epidemiological associations, to investigate the causal association using genome-wide association studies data.
+
+Materials and methods
+
+First, a cross-sectional study was conducted with 196,490 participants from UK Biobank. Information on pain conditions and sleep traits was collected. Multivariable models were used to explore the relationships with odds ratio (OR). Second, Mendelian randomization analyses were conducted using data for orofacial pain, including temporomandibular joint disorders-related pain (n = 377,277) and atypical facial pain (n = 331,749), and sleep traits, including sleep duration (n = 446,118), short sleep (n = 411,934), long sleep (n = 339,926), snoring (n = 359,916), ease of getting up (n = 385,949), insomnia (n = 453,379), daytime dozing (n = 452,071), daytime napping (n = 452,633), and chronotype (n = 403,195).
+
+Results
+
+The cross-sectional study confirmed the bidirectionality between pain and sleep. Participants experiencing pain all over the body showed a significant association with an unhealthy sleep pattern (OR = 1.18, p<0.001) and other sleep traits (p<0.05). Risks of chronic orofacial pain were associated with sleep duration in a non-linear relationship (p=0.032). The Mendelian randomization analyses indicated that long sleep was causally associated with temporomandibular joint disorders-related pain (OR = 6.77, p=0.006).
+
+Conclusion
+
+The relationship between pain and sleep is bidirectional. Long sleep is found to be causally associated with chronic orofacial pain.
+
+Full Text
+
+Introduction
+
+Sleep serves as a fundamental life activity and is associated with immune functions, energy metabolism, and cognitive functions. Sleep disturbances are a global health issue, negatively impacting quality of life and socioeconomic well-being. Sleep disturbances often coexist with other chronic disorders, such as cardiovascular diseases, endocrine diseases, and pain disorders. A bidirectional relationship between sleep patterns and pain disorders has been suggested, with possible mechanisms including neurobiological factors, inflammatory processes, and other biological pathways.
+
+Orofacial pain is defined as "pain originating primarily from the regions of the face and mouth", with a prevalence of 10% to 15%, especially prevalent in dental clinical practices, including temporomandibular joint pain, among others. Based on pain duration, orofacial pain can be classified as acute (lasting less than three months) or chronic (lasting more than three months). Orofacial pain has a multifactorial etiology, including functional disorders, structural abnormalities, and psychosocial behaviors, with sleep serving as an important indicator. Studies have shown a high comorbidity between sleep disturbances and pain disorders, but the directionality of whether poor sleep precipitates pain or pain contributes to sleep disturbances is still unclear. Some researchers have observed that poor sleep quality can lower pain thresholds and increase sensitivity to painful stimuli, while others have pointed out that pain can lead to fragmented sleep patterns and disrupt the normal sleep cycle. However, the sample size in these studies was relatively small, and causal-association studies on pain and sleep were still lacking.
+
+Although the association between pain and sleep has been widely explored, research on the relationship between orofacial pain and sleep, as well as its causal associations and directionality, is limited. Therefore, based on previous clinical observations of an association between sleep and temporomandibular joint pain, this study intends to (1) use the UK Biobank (UKB) dataset, a large-scale biomedical database, to explore the cross-sectional relationship among sleep traits, scores and orofacial pain; and (2) based on epidemiological associations, use Mendelian randomization (MR), a statistical method comparable to randomized controlled trials, to explore the causal effect of sleep traits with orofacial pain, using single nucleotide polymorphisms (SNPs) from genome-wide association studies as unconfounded proxies.
+
+Materials and methods
+
+The flow chart of the study consists of an epidemiological study and Mendelian randomization analyses. Epidemiological and causal associations were applied to explore the relationships between orofacial pain and sleep.
+
+Data source
+
+The UK Biobank recruited over 500,000 participants aged 40-69 years between 2006 and 2010 from 22 assessment centers throughout the UK. Informed consent was obtained from all participants, which was approved by the North West Multi-Center Research Ethics Committee (21/NW/0157). Data in this study were obtained under application #93749.
+
+The genome-wide association study (GWAS) data for temporomandibular joint disorders (TMD)-related pain (n = 377,277) and atypical facial pain (n = 331,749) were obtained from the FinnGen project. The GWAS data for nine sleep traits were obtained from UKB participants, including sleep duration (n = 446,118), short sleep (n = 411,934), long sleep (n = 339,926), snoring (n = 359,916), ease of getting up (n = 385,949), insomnia (n = 453,379), daytime dozing (n = 452,071), daytime napping (n = 452,633), and morningness chronotype (n = 403,195). Summary statistics for the genetic associations with body mass index (n = 681,275) were extracted from a meta-analysis, and type 2 diabetes (n = 659,316) from a GWAS study. Ethical approval and participants' written informed consent could be obtained in the original studies.
+
+Participants
+
+We excluded UKB participants with psychological, neurological, or sleep disorders diagnosed using the International Classification of Diseases, 10th Revision (ICD-10), as well as those with severe vascular issues, heart problems, or physician-diagnosed diabetes. Then we excluded participants with missing data on sleep traits, pain conditions, or covariates. Additionally, individuals reporting two or more discrete pain sites were excluded. This resulted in a total of 196,490 participants being included in the epidemiological study. The participants were assigned into four groups on their pain conditions: orofacial pain group, other sites pain group, pain all over the body group, and pain-free group.
+
+Pain conditions
+
+Pain conditions were assessed using the question: "In the last month have you experienced any of the following that interfered with your usual activities? (You can select more than one answer)". The response options included headache, facial pain, neck or shoulder pain, back pain, stomach or abdominal pain, hip pain, knee pain, pain all over the body, and none of the above. For each pain type, participants were asked if they had experienced it for more than 3 months. Participants who selected "facial pain" were included in the orofacial pain group, those who selected only one of the following sites ("headache", "neck or shoulder pain", "back pain", "stomach or abdominal pain", "hip pain", and "knee pain") were included in the other sites pain group, those who chose "pain all over the body" were included in the pain all over the body group, and those who chose "none of the above" were included in the pain-free group. The orofacial pain group was further divided into acute orofacial pain group (those who reported having facial pain but indicated that it had not been present for more than 3 months) and chronic orofacial pain group (those who reported having facial pain and indicated that it had been present for more than 3 months).
+
+In the MR analysis, TMD-related pain and atypical facial pain were selected as indicators of orofacial pain. TMD-related pain was identified using specific ICD-10 codes, including K07.60 and K07.63, and atypical facial pain was identified using the ICD-10 code (G50.1) and ICD-9 code (3502).
+
+Sleep traits and sleep scores
+
+Sleep traits, including sleep duration, snoring, ease of getting up, insomnia, daytime dozing, daytime napping, and chronotype, were assessed through a questionnaire.
+
+Based on previous studies, sleep scores involving five sleep traits (sleep duration, snoring, insomnia, daytime dozing, and chronotype) were used to provide a comprehensive description of sleep patterns, with higher scores corresponding to a healthier sleep pattern. A low risk for each sleep trait was coded as 1 and others as 0. A sleep score ranging from 0 to 5 was generated by summing up the codes. Low-risk sleep traits were defined as 7-8 h/day of sleep duration, no reported snoring, reported never/rarely or sometimes having insomnia symptoms, reported never/rarely having daytime dozing, and reported 'Definitely a morning person' or 'More a morning than evening person' for chronotype.
+
+Mendelian randomization analysis
+
+Bidirectional MR and multivariable MR analyses were conducted to assess the causal associations of orofacial pain with sleep traits. Initially, instrumental variables (IVs) of SNPs were screened using sleep traits as exposures and orofacial pain indicators as outcomes. Following this, a reverse MR analysis was conducted, using orofacial pain indicators as exposures and sleep traits as outcomes. Finally, a multivariable MR analysis was employed to determine the direct effect of sleep traits on orofacial pain accounting for body mass index (BMI) and type 2 diabetes (T2D). Heterogeneity and pleiotropy tests were also performed.
+
+Genetic IVs were selected based on (1) genome-wide significance (p < 5x10^-8) in the exposure GWAS study with a more relaxed significance level (5x10^-6) applied for extracting sufficient IVs; (2) a linkage disequilibrium r2 < 0.001 within a 10,000 kb clumping window; (3) F statistics >10 corresponding to each SNP; (4) harmonization of palindromic and incompatible SNPs.
+
+Statistical analysis
+
+All statistical analyses were conducted using R 4.3.0, with a 2-sided p<0.05 considered statistically significant. The Kolmogorov-Smirnov test showed that all continuous data had a skewed distribution; therefore, they were summarized as medians (lower quartiles, upper quartiles). Categorical data were presented as frequencies (percentages). Nonparametric analyses (Kruskal-Wallis and Mann-Whitney U post-hoc test) were used to compare continuous variables between groups. The chi-square test was employed to compare categorical variables. Poisson regression analyses were conducted to identify associations between sleep scores and pain conditions. Multinomial logistic regression analyses were used to identify associations between pain groups and sleep traits. Restricted cubic spline models on regression were employed to identify associations between orofacial pain groups and sleep duration. Covariates involved in the regression models included demographic characteristics (age, sex, and BMI), psychosocial factors (Townsend index, anxious status, and stress events), and health factors (smoking status and alcohol status).
+
+The inverse variance weighted (IVW) MR approach was set as the main method in the MR analysis. False discovery rate (FDR) adjusted p-values were used to address multiple correction tests. Associations with p<0.05 and FDR <0.05 supported strong evidence of a causal relationship. Associations with p<0.05 but FDR >0.05 were regarded as suggestive evidence of association. Multivariable MR analysis was further conducted to estimate the causality of sleep traits on orofacial pain, adjusting for BMI and T2D. Weighted linear regressions based on IVW approach was applied to infer causal effects in the multivariable MR analysis.
+
+Results
+
+Participants in pain conditions group
+
+Among the 196,490 involved participants, 558 individuals reported orofacial pain, 76,317 individuals reported pain in only one site (other sites pain), 2,444 individuals reported pain all over the body, and 117,171 individuals reported no pain.
+
+The pain all over the body group had the lowest sleep scores, as evidenced by the shortest sleep duration, the highest proportion of snoring, hard getting up, insomnia, daytime dozing, daytime napping, and eveningness chronotype. It is notable that the orofacial pain group showed insignificant differences in sleep traits and scores compared to the other sites pain group and the pain-free group.
+
+Association between pain and sleep
+
+Poisson regression analysis of sleep patterns (represented by sleep scores, higher = healthier) and different pain conditions: after adjusting for demographic characteristics, psychosocial factors, and health factors, participants with pain all over the body had the highest odds ratio (OR) for an unhealthy sleep pattern (OR = 1.18, 95% CI = 1.16 to 1.21, p<0.001), while the association between orofacial pain and sleep scores did not reach statistical significance. The 95% CI for orofacial pain was broader than for other sites pain, indicating the presence of heterogeneity between different orofacial pain types.
+
+Multinomial logistic regression analysis of pain condition groups and sleep traits: after adjustment, different sleep traits had significant associations (p<0.05) with other sites pain and pain all over the body, while the association between sleep traits and orofacial pain did not reach statistical significance. Similarly, the 95% CI for orofacial pain was broader, indicating heterogeneity between different orofacial pain types.
+
+Association among acute, chronic orofacial pain and sleep traits
+
+Since heterogeneity was present between different orofacial pain types, orofacial pain was divided into acute and chronic pain types based on pain duration. In both unadjusted and adjusted models, a significant association (p<0.05) remains between sleep duration and the risks of chronic orofacial pain. The results of the restricted cubic spline model indicated a non-linear relationship between sleep duration and chronic orofacial pain (p=0.032), which was not observed between sleep duration and acute orofacial pain.
+
+Causal association among orofacial pain and sleep traits
+
+Bidirectional MR analyses of orofacial pain's causal associations with sleep traits: there was strong evidence of a causal relationship of short sleep on TMD-related pain, and suggestive evidence of an association of sleep duration, long sleep, and insomnia on TMD-related pain. However, there was no causal association found between atypical facial pain and sleep traits.
+
+Multivariable MR analyses of significant sleep traits on TMD-related pain, with adjustment for BMI and T2D: Long sleep consistently showed a causal relationship (OR = 6.77, 95% CI = 1.73 to 26.55, p=0.006, FDR = 0.024) with TMD-related pain. However, the causal association between short sleep, sleep duration, and insomnia disappeared.
+
+Discussion
+
+This study combined an epidemiological survey and MR analyses to explore the relationship between orofacial pain and sleep. The epidemiological study revealed bidirectionality between pain and sleep, with participants of pain all over the body having the highest OR for an unhealthy sleep pattern. Conversely, different sleep traits showed significant associations with pain all over the body. Moreover, the study indicated a non-linear relationship between sleep duration and chronic orofacial pain. Specifically, the risk of chronic orofacial pain was higher with >=9 h of sleep; while there was no significant correlation with the risk of acute orofacial pain. To further investigate this association, the study conducted MR analyses and confirmed a causality of long sleep (exposure) on TMD-related pain (outcome), as typical chronic orofacial pain.
+
+Combining the results of the epidemiological survey and MR analyses, this study reveals obvious heterogeneity in the relationship between acute and chronic orofacial pain with sleep. This heterogeneity might explain the insignificant results of general orofacial pain (in epidemiological survey) and atypical orofacial pain (in MR analyses) with sleep traits for not differentiating between acute and chronic pain. Acute pain and chronic pain are considered as different pain types in terms of pathogenesis, prognosis, and regression. Physiological factors such as increased peripheral and central sensitivities and psychosocial factors all contribute to the transition process from acute to chronic pain. Sleep, as an indicator of physiological and psychological activities, is thought to proceed this transition process, by increasing the production of inflammatory mediators and affecting the hypothalamus-pituitary-adrenal axis and dopaminergic signaling. This may account for the insignificant results of acute orofacial pain with sleep. Graham et al. observed that pain severity was uniquely associated with sleep quality among chronic pain sufferers, whereas only perceived health and depressed mood could predict sleep for participants with non-chronic pain, which is consistent with the findings in this study.
+
+By examining epidemiological and causal associations, this study found long sleep to be related to elevated risks of orofacial pain. In an experimental study by Simonelli et al., sleep extension was found to increase pain tolerance in healthy individuals who normally sleep the recommended amount, suggesting the beneficial impact of long sleep. However, in the Korea National Health and Nutrition Examination Survey, Park et al. observed that long sleep duration was positively associated with osteoarthritis in middle-aged and older women. The underlying mechanism may lie in inflammatory processes elevated in the elderly. Grandner et al. reported that elevated C-reactive protein was associated with long sleep duration in National Health and Nutrition Examination Survey. Promoted inflammatory processes were proven to induce orofacial pain. Moreover, long sleep duration could contribute to metabolic dysfunctions, which may in turn promote pain status.
+
+There are several strengths to this study. It conducted an epidemiological survey with a relatively large sample size and indicated the relationship between sleep and orofacial pain. Additionally, this study employed MR analyses to reduce potential bias and confirmed this association. However, there are several limitations to the study. First, due to the relatively low prevalence of orofacial pain in the UKB population, the number of participants in the orofacial pain group is smaller than in the other three groups, which may lead to underestimated correlations. Second, the results of this study are based on the European elder population, which has specific socioeconomic characteristics, limiting the generalizability of the findings to other populations. Future studies are still needed with a prospective design and a more representative population.
+
+Declaration of competing interest
+
+The authors have no conflicts of interest relevant to this article.
