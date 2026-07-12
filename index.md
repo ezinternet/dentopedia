@@ -3462,3 +3462,4 @@ tags: []
 - [[bone-regeneration/rokn-2011-bone-formation-two-grafting-materials]] — Rokn 2011 · animal(토끼 두개골) · Straumann Bone Ceramic vs Bio-Oss vs 대조군 조직형태계측 비교 — 골충전 유의차 없음, 대입자 세라믹이 더 큰 염증반응
 - [[bone-regeneration/ahamed-2025-peri-implant-gaps-management-sr]] — Ahamed 2025 · sr(RCT 11편) · 임플란트 주위 갭("jumping gap") 관리 — 이종골/합성골이 PRF/자가골보다 골보존 우위, ISQ는 대체로 재료 무관
 - [[bone-regeneration/elrefaei-2025-3d-printed-scaffolds-ridge-augmentation]] — Elrefaei 2025 · sr(scoping, 23편) · 치조제증대용 커스텀 3D프린팅 스캐폴드 워크플로우 — 티타늄(DMLS/SLM)·PEEK·3D프린팅 골이식재 CAD/CAM 제작 기술 종합
+- [[bone-regeneration/raabe-2025-defect-morphology-membrane-fixation-graft]] — Raabe 2025 · in-vitro(돼지 하악골 ex vivo) · 수평골증대 1차봉합 시 결손형태·막고정 방식이 3D 이식재 변위에 미치는 영향 — 4핀 막고정이 결손형태보다 변위 감소에 유의하게 효과적
