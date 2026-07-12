@@ -66,5 +66,6 @@ This umbrella review (Barboza et al, LECOM SDM / National Institute of Dental Sc
 | Heterogeneity across included SRs | Substantial (noted by authors) |
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 - [[implants/song-2021-implant-complications-bruxism-patients]] — narrative Editor's Opinion arguing bruxism drives late (occlusal-overload) implant complications, not early osseointegration failure; this umbrella review upgrades that claim to SR+MA-level evidence (OR 4.68).
 - [[overviews/bruxism-muscle-overload-axis]] — cross-category synthesis positioning bruxism as a shared upstream driver across TMD, tooth/restoration, and implant-hardware downstream pathways; this paper strengthens the "downstream ③ implant" evidence branch from narrative/editorial-level to SR+MA-level.

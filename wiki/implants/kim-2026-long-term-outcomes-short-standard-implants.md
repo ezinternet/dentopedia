@@ -66,6 +66,7 @@ Retrospective cohort, STROBE-guided, single-center/single-operator (>30 years' e
 Linear mixed model: insertion depth β = 0.1929, SE = 0.0543, p = 0.017 (only significant predictor of MBL after adjusting for implant group and splinting pattern).
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 - [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — reinforces; this long-term (6.5y) cohort supplies real-world primary data supporting the umbrella review's "survival equivalent, MBL comparable-or-better for short implants" thesis.
 - [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — refines; both use the strict ≤6 mm short-implant definition, but this paper adds that insertion depth — not length — is the key driver of residual MBL, qualifying the "short implants are equivalent" conclusion with a mechanistic nuance.
 - [[overviews/implant-length-selection-why-not-always-short]] — related; contributes long-term MBL/CIR data relevant to length-selection decision-making.

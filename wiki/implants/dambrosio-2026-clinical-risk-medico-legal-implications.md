@@ -64,6 +64,7 @@ Umbrella review of systematic reviews (with/without meta-analysis), PRISMA 2020-
 **Clinical bottom line**: ZI placement (OST or ZAGA) for severely atrophic edentulous maxillae achieves consistently high implant survival, but complications — sinusitis chief among them — are common and may be under-reported; ZAGA appears associated with lower sinusitis risk and far higher immediate-loading use than OST. Given the invasiveness and potential severity of rare complications (orbital penetration), ZI candidacy should be limited to cases without viable alternatives, with rigorous informed consent and an experienced surgical team.
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
 - [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — extends: Scocca 2026 quantifies ZI survival (97% pooled) and radiotherapy-modified failure risk specifically in head-and-neck oncology patients; this umbrella review broadens the complication picture (sinusitis, soft-tissue infection, paresthesia, ocular injury) across OST/ZAGA techniques in the general severely-atrophic-maxilla population and adds the medico-legal/informed-consent dimension.
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — reinforces: Rocha's pooled sinusitis rate for ZI (3.76%) sits within the range this umbrella review reports across its 11 source SRs (~2.4–27.2%, technique-dependent).

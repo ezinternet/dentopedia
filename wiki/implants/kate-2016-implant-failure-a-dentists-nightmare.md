@@ -65,6 +65,7 @@ Narrative/concise review article with no PRISMA flow, no stated systematic searc
 | Abutment screw loosening | 7% complication rate; overall failure rate 4.6% (Simon 2003) |
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 - [[implants/giok-2026-factors-implant-failure-umbrella-review]] — 25-meta-analysis umbrella review supplying GRADE/credibility-graded pooled quantification of many of the same risk factors (smoking, bone quality, immediate loading) this paper cites only via single secondary studies; partially supersedes the quantitative claims here (see banner above).
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — single-center retrospective cohort identifying multivariate early-failure predictors (smoking, bone quality IV, immediate provisionalization) directionally consistent with this paper's "early failure" etiology bucket.
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — dedicated SR+MA (32 observational studies, implant-level OR 2.59) quantifying the smoking association this paper cites via older single studies.

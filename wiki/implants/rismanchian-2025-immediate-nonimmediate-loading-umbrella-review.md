@@ -61,6 +61,7 @@ Umbrella review (PRISMA-guided) of SRs/MAs from PubMed, Scopus, Web of Science, 
 | Illustrative primary RCT (Gjelvold et al., cited) | IL 100% vs NIL 95.8% survival at 5 years, no significant MBL/esthetic difference |
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
 - [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — earlier SR+MA (11 RCTs, single-implant crowns) establishing IL≈NIL equivalence under adequate primary stability; this umbrella review reinforces that conclusion with broader, more recent evidence.
 - [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5-year RCT directly cited in this review as a key long-term comparative trial (IL 100% vs NIL 95.8% survival).

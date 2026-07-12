@@ -63,6 +63,7 @@ Umbrella review (PROSPERO CRD42025634487) of 25 meta-analyses / 35 associations 
 | Associations graded "convincing" | 0 |
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 - [[implants/barboza-2026-bruxism-implant-failure-umbrella-review]] — narrower-scope umbrella review of systematic reviews focused solely on bruxism as an implant-supported-prosthesis-failure risk factor (OR 4.68 in one included MA); complementary broad-vs-narrow relationship, not a duplicate — this paper's reference list includes bruxism-implant-failure meta-analyses among its screened literature, but the abstract does not headline bruxism as a top-tier finding (unlike smoking).
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — primary SR+MA (32 observational studies, implant-level OR 2.59) quantifying smoking's effect on early implant failure; independently corroborated here as the observational literature's single "highly suggestive"-grade risk factor.
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — single-center retrospective cohort identifying multivariate early-failure predictors (smoking, bone quality IV, immediate provisionalization); directionally consistent with this umbrella review's high/moderate-certainty findings.

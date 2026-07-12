@@ -58,6 +58,7 @@ Umbrella review per PRISMA 2020 (PROSPERO CRD42023406059). Search: PubMed, Cochr
 | AMSTAR 2 rating of included SRs (n=11) | All critically low overall confidence |
 
 ## Related Papers
+- [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — single-cohort study (RR 2.73 for head-and-neck radiation) independently confirmed and scaled up by this umbrella review's 11-SR, 73,674-implant synthesis.
 - [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — narrower SR+MA on zygomatic implants specifically in HNC patients; complementary implant-type scope within the same irradiated-patient population.
