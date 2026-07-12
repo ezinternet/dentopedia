@@ -61,5 +61,6 @@ Umbrella review per PRISMA 2020 (PROSPERO CRD42023406059). Search: PubMed, Cochr
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — single-cohort study (RR 2.73 for head-and-neck radiation) independently confirmed and scaled up by this umbrella review's 11-SR, 73,674-implant synthesis.
+- [[implants/zarzar-2023-implants-radiotherapy-head-neck]] — earlier (2023), smaller, non-PROSPERO-registered umbrella review on the identical clinical question (15 SRs, 24,996 implants, search through 2022); this paper independently reinforces and substantially scales up its direction of effect (86.2%/95.2% success → 81.52%/94.64% survival) with a larger, more consistently AMSTAR-2-appraised evidence base. Marked `superseded_by` this page (`superseded_scope: partial`) on the older page.
 - [[implants/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] — narrower SR+MA on zygomatic implants specifically in HNC patients; complementary implant-type scope within the same irradiated-patient population.
 - [[implants/hockova-2025-short-implants-microvascular-free-flaps]] — prospective outcomes for short implants in free-flap-reconstructed HNC patients, a specific rehabilitation pathway within this population.
