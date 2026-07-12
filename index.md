@@ -1841,6 +1841,14 @@ tags: []
 - [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — 임상 업데이트: 근육형 TMD (45% of all TMD) — DC/TMD 근통 분류; 트리거포인트 진단; BTX·건침 포함 다학제 치료 (Diagnostics 2022)
 - [[tmj/yao-2023-chronic-tmd-pain-sr-nma-bmj]] — SR+NMA (233 RCT, 8,713명, 59 개입): CBT+바이오피드백·하악 가동화·수기 트리거포인트 TOP 3; 약물 낮은 근거 (BMJ 2023)
 - [[tmj/pigozzi-2021-quality-of-life-tmd-sr-ma]] — SR+MA (24편, n=3,829): 모든 TMD 그룹 QoL 저하; 근육형·관절통형이 디스크변위형보다 삶의 질 더 낮음 (Health Qual Life Outcomes 2021)
+- [[tmj/aggarwal-2026-third-molar-extraction-tmj-pain]] — Aggarwal 2026 (JKAOMS) · sr+ma · 발치(주로 제3대구치)와 TMJ 통증 SR — 6편 메타분석, 발치군 TMJ 통증 유의 감소(pooled RR/OR=0.49, 95%CI 0.31-0.66, I²=34%), 근거수준 low-to-moderate
+- [[tmj/park-2024-dextrose-prolotherapy-tmd]] — Park 2024 (JKAOMS, SNUBH) · retrospective(n=19) · 난치성 TMD에 고장성 덱스트로스 증식치료(prolotherapy) — NRS 5.7→1.7, 최대개구량 34.5→38.8mm, 중대 합병증 없음
+- [[tmj/guzman-2025-tmj-replacement-customized-prostheses]] — Guzmán 2025 (JKAOMS) · case-report(n=6) · 맞춤형 보철물을 이용한 전악관절 전치환술(total TMJ replacement) — 통증 VAS 7→2, 저작기능·식이 개선, 1례 나사변위 재수술
+- [[tmj/jeon-2024-chewing-difficulty-tmd-tooth-loss]] — Jeon 2024 (J Dent Sci) · cross-sectional(n=392, ≥50세) · TMD군 vs 치아상실군 저작곤란 비교 — TMD군 스트레스반응(SRI)·불면증(ISI) 유의 高, 치아상실군 저작불편감·연령 高
+- [[tmj/jiang-2024-orofacial-pain-sleep-biobank]] — Jiang 2024 (J Dent Sci) · cross-sectional+MR(UK Biobank n=196,490 + GWAS) · 구강안면통증-수면 양방향 연관 확인, 멘델무작위화로 장기수면→TMD관련통증 인과관계(OR=6.77, p=0.006)
+- [[tmj/albadi-2026-sleep-disorders-tmj-pain-dysfunction]] — Albadi 2026 (J Pharm Bioallied Sci) · sr(7편) · 수면장애(불면·수면무호흡·이갈이)와 TMD 통증기능장애증후군 연관 — 수면의 질 저하·통증민감도 증가 일관 보고
+- [[tmj/nemani-2024-tmj-pain-treatment-modalities-cervical]] — Nemani 2024 (J Indian Prosthodont Soc) · rct(n=48, 12개월) · TENS·저출력레이저(LLL)·연성스플린트 비교 — TENS·LLL이 스플린트보다 TMJ 통증 감소 우월(동등), TMJ-경부통 상관없음
+- [[tmj/desai-2021-low-level-laser-therapy-tmj-pain]] — Desai 2021 (J Maxillofac Oral Surg) · rct(이중맹검, 위약대조, n=60) · 저출력레이저치료(LLLT) 20회/8주 — 위약군보다 통증·개구량·클리킹·편위 개선 우수
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
