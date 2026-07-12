@@ -3483,6 +3483,7 @@ tags: []
 - [[bone-regeneration/depace-2025-bone-regeneration-treatment-strategies-review]] — De Pace 2025 · narrative-review · 정형외과/종양학 포함 골이식재 전략(자가/동종/이종/합성/복합) 종합, 상업 제품 카탈로그 수록
 - [[bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms]] — Elgali 2017 · narrative-review · GBR 차폐막 재료·기전 — 막을 수동적 장벽이 아닌 능동적 생물학적 구획으로 재조명
 - [[bone-regeneration/sun-2025-3d-printed-scaffold-bone-defect-repair]] — Sun 2025 · narrative-review · 3D프린팅 스캐폴드 재료(금속/고분자/생체세라믹)·기공-역학 트레이드오프·바이오프린팅 기법 — 치과 특이적이 아닌 골결손 전반
+- [[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]] — Tale 2026 · sr(5편: 인체 임상 3 + 동물 2, 메타분석 불가) · GBR/임플란트 재생술식 보조제로서 국소 심바스타틴 — 치조정골소실 감소(P<0.0001)·골폭/골밀도 증가·BIC 상승, ISQ 개선은 비일관 [PMC full text]
 
 ## Batch ingest (added 2026-07-12) — implant umbrella reviews surveillance (26편)
 
