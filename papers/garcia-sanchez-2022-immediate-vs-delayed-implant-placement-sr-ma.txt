@@ -1,0 +1,18 @@
+Title: Comparison of clinical outcomes of immediate versus delayed placement of dental implants: A systematic review and meta-analysis
+Authors: Garcia-Sanchez R, Dopico J, Kalemaj Z, Buti J, Pardo Zamora G, Mardas N
+Journal: Clinical Oral Implants Research (Clin Oral Implants Res), Vol 33, Issue 3, Pages 231-277
+Date: 2022-01-28
+DOI: 10.1111/clr.13892
+PMID: 35044012
+Keywords: Imaging, bone implant interaction, patient-centred outcomes, Radiology, soft tissue-implant interactions, surgical techniques, wound healing
+Article type: Systematic Review, Meta-Analysis
+
+Abstract:
+
+Two focused questions were addressed: Focused question (Q1) 1) Are there any differences between immediate and delayed placement in terms of (i) survival rate, (ii) success rate, (iii) radiographic marginal bone levels, (iv) height/(v) thickness of buccal wall, (vi) peri-implant mucosal margin position, (vii) aesthetics outcomes and (viii) patient reported outcomes? Focused question 2 (Q2) What is the estimated effect size of immediate implant placement for all parameters included in Q1?
+
+An electronic search (MEDLINE, EMBASE, The Cochrane Central Register of Controlled Trials and OpenGray) and hand search were conducted up to November 2019. Randomised controlled trials (RCT) with delayed implant placement as controls were eligible in the analysis for Q1. Immediate dental implant arms RCTs, controlled clinical trials (CCTs) and prospective case series of immediate implant placement were eligible in the analysis for Q2.
+
+Six papers (RCTs) were included in the analysis for Q1 and 53 papers (22 RCTs, 11 CCTs and 20 case series) for Q2. Q1: Meta-analyses did not show any significant difference in implant survival, but it did for bone levels and PES scores at 1 year post-loading, favouring the immediate group. Q2: Meta-analyses showed that immediate implants had a high survival rate (97%) and presented high PES scores (range 10.36 to 11.25). Information regarding marginal bone loss and gingival/papillary recession varied among all included studies.
+
+Similar survival rate was found between immediate and delayed implants. Immediate implants presented threefold early complications and twofold delayed complications. Success criteria should be reported more consistently, and the incidence/type of complications associated with immediate implants should be further explored.
