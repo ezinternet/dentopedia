@@ -1,0 +1,24 @@
+Title: Do Implant Coatings Affect Healing of Placed Implants? An Umbrella Review.
+
+Authors: Beckwith R, Devlin H.
+
+Journal: The International Journal of Oral & Maxillofacial Implants. 2024 Apr 24;39(2):206-223.
+
+PMID: 38657215
+DOI: 10.11607/jomi.10492
+
+Keywords: dental implant; functionalization; osseointegration; overview of systematic review; surface coating; umbrella review
+
+MeSH terms: Humans; Calcium Phosphates; Coated Materials, Biocompatible; Dental Implantation, Endosseous; Dental Implants; Durapatite; Osseointegration; Wound Healing
+
+Abstract:
+
+Purpose: To analyze the available evidence and assess the effect of different implant coatings on healing outcomes.
+
+Materials and Methods: Using the PICOS strategy, a structured question was formed. A protocol was agreed upon and registered with PROSPERO (no. CRD42022321926). The MEDLINE, Embase, Cochrane Database of Systematic Reviews, Scopus, Web of Science, Pubmed, and ScienceDirect databases were searched using a structured strategy. Study selection was independently carried out in duplicate, first by title and abstract, then by full-text assessment. Quality and risk of bias were independently assessed in duplicate using AMSTAR 2 and ROBIS. Data extraction was independently undertaken in duplicate using a predefined extraction form.
+
+Results: The search yielded 11 systematic reviews for inclusion. The most commonly assessed coatings were based on calcium phosphate-including hydroxyapatite (HA), brushite, and bioabsorbable nano-HA-followed by bisphosphonate, then bioactive glass coatings. Included reviews most frequently assessed marginal bone loss (MBL), bone-to-implant contact (BIC), and survival/success rates. There was considerable heterogeneity and small sample sizes. The quality assessment suggested low confidence in the reviews and high risk of bias.
+
+Conclusion: The included reviews provide weak evidence that implant coatings improve osseointegration and reduce MBL following implant placement. There was weak evidence for progressive complications for calcium phosphate coatings. Further research and long-term multicenter controlled clinical trials with improved standardization and control of bias are required to better understand the effects of coating implants.
+
+[abstract-only — full text not retrieved. No PMC ID available (JOMI journal, typically not OA on PMC). Source: PubMed via MCP get_article_metadata, https://pubmed.ncbi.nlm.nih.gov/38657215/]
