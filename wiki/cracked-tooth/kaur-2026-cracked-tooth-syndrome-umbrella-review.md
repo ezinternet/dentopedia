@@ -16,6 +16,13 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12880780/
 text_path: /Users/oracleneo/llm-wiki/papers/kaur-2026-cracked-tooth-syndrome-umbrella-review.txt
 text_filename: kaur-2026-cracked-tooth-syndrome-umbrella-review.txt
 tags: [cracked-tooth-syndrome, CTS, umbrella-review, endodontic-therapy, cuspal-coverage, AMSTAR-2, PROSPERO, manipal]
+relations:
+  - type: reinforces
+    target: jkda-2024-62-1-003
+  - type: reinforces
+    target: ferracane-2023-cracked-tooth-registry-3year-network
+  - type: contradicts
+    target: kwak-2024-endodontic-treatment-cracked-tooth-management
 ---
 
 ## Three-line Summary
