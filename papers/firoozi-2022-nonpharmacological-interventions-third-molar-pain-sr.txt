@@ -1,0 +1,108 @@
+Title: Nonpharmacological Complementary Interventions for the Management of Pain after Third Molar Surgery: An Umbrella Review of Current Meta-Analyses
+Authors: Parsa Firoozi, Saulo Gabriel Moreira Falci, Seong-Gon Kim, Leon A Assael
+Journal: Pain Research & Management, 2022;2022:1816748
+PMID: 36339067
+PMCID: PMC9629945
+DOI: 10.1155/2022/1816748
+Source: PubMed Central (get_full_text_article)
+
+ABSTRACT
+
+Objectives
+To provide a nonbiased, complete assessment of what the evidence from meta-analyses informs us about complementary and nonpharmacological treatment options for the management of pain after third molar surgery, as well as highlight any discordancy, gaps, or lack of evidence among meta-analyses.
+
+Methods
+The quality of the included systematic reviews was assessed using the ROBIS tool. Corrected covered area (CCA) was calculated for pairs of similar meta-analyses to identify the amount of overlap. Reviews that were the most recent, comprehensive, and had adequate quality were considered for analyses when reviews showed a high overlap. In cases with a low amount of overlap among meta-analyses, all eligible studies were included. Also, citation matrices were constructed to address overlap. A network meta-analytical approach was adopted to rank different interventions.
+
+Results
+Ten meta-analyses were included for quantitative synthesis. The quantitative analysis revealed that platelet-rich fibrin and its derivatives as well as ozone therapy reduce early and late pain better than the other complementary interventions compared to control (no complementary intervention).
+
+Conclusions
+Despite the shortcomings of included meta-analyses, consolidated evidence suggests that platelet-rich-fibrin and its derivatives as well as ozone therapy outperform the other nonpharmacological complementary interventions in reducing early and late postsurgical pain following third molar extraction. However, the results should be interpreted with caution due to an unclear risk of bias and lack of firm evidence in the included meta-analyses. Moreover, there is a need for a standard protocol for the application of nonpharmacological complementary interventions.
+
+FULL TEXT
+
+1. Introduction
+
+The most frequently impacted tooth in the mandible is the third molar. Hence, third molar surgery is a common procedure for oral surgeons, and it is frequently linked with problems such as pain, edema, and trismus.
+
+These sequelae are caused by postoperative inflammatory reactions, which may impede patients' everyday functions and compromise their quality of life throughout the recovery period. To control postoperative inflammatory reactions, traditional allopathic analgesics are widely used.
+
+On the other hand, nonpharmacological complementary interventions are proposed to enhance pain relief, and reduce analgesic use, mitigating the unwanted effects and contraindications of allopathic medications. This goal is especially important in reducing or eliminating the use of opioid analgesics. Furthermore, nonpharmacologic methods may improve the outcomes of typical anti-inflammatory medications used after third molar surgery.
+
+Several nonpharmacological complementary methods have been reported in evidence-based systematic reviews with or without meta-analyses for controlling postoperative morbidities related to third molar removal. They include the application of low-level laser therapy (LLLT), cryotherapy, application of platelet-rich fibrin (PRF), application of hyaluronic acid, ozone therapy, application of drainage, and kinesio taping (sports tapes).
+
+Therefore, this umbrella review (overview of reviews) is intended to provide a nonbiased, complete assessment of what the evidence from systematic reviews with meta-analyses informs us about nonpharmacological complementary treatment options for the management of pain after third molar surgery.
+
+2. Materials and Methods
+
+Registered in PROSPERO (CRD42022326584). PRISMA 2020 guideline followed.
+
+2.1. Eligibility Criteria
+Population: patients who underwent third molar surgery.
+Intervention: all available nonpharmacological complementary interventions for the management of pain after third molar surgery.
+Comparator: no complementary intervention (or placebo).
+Outcome: reduction of pain.
+Study type: systematic reviews of RCTs with quantitative meta-analyses.
+Exclusion: qualitative systematic reviews without meta-analyses; RCTs; observational studies; case reports; conference papers; narrative and scoping reviews; letters to the editors; animal studies. No language or date restrictions.
+
+2.2. Search Strategy
+MEDLINE, Scopus, Web of Science, Embase searched up to 20 June 2022; first 100 hits of Google Scholar as grey literature; hand search of relevant journals/textbooks.
+
+2.3-2.4. Selection/Data Items
+Two independent reviewers (PF, SGK) screened; disagreements resolved by a third reviewer (LAA). Modified JBI data extraction form.
+
+2.5. Risk of Bias
+ROBIS tool: 3 phases (relevance, concerns with review process across 4 domains, judge risk of bias). 3-4 negative points = high risk; 1 negative point = low risk; 2 = "some concerns."
+
+2.6. Overlap Assessment
+Corrected covered area (CCA): 0-5% slight, 6-10% moderate, 11-15% high, >15% very high overlap. When CCA very high, highest-ROBIS-quality review used for main analysis; most recent/most RCTs used as tiebreaker. Low-overlap reviews with new information included in sensitivity analysis. Jadad's algorithm used to resolve discordance.
+
+2.7. Data Synthesis
+Effect sizes (ES) with 95% CI extracted and converted to standardized mean difference (SMD) and standard error. Early pain = 48h+72h pooled; late pain = 5-7 day pooled. Frequentist network meta-analysis, fixed-effect model, "netmeta" package in R, used to rank interventions. Cohen's SMD interpretation: 0.2 mild, 0.5 moderate, 0.8 substantial.
+
+3. Results
+
+3.1. Identification
+659 papers retrieved from 4 databases + Google Scholar. 22 eligible meta-analyses after title/abstract screening; 3 excluded after full-text review (lacked quantitative pain synthesis); 19 eligible meta-analyses retained, covering 7 intervention types: PRF application, LLLT, Kinesio taping, cryotherapy, surgical drainage, ozone therapy, hyaluronic acid application.
+
+3.2. Quality Assessment
+Of 19 meta-analyses: 12 high risk of bias re: eligibility criteria; 6 high risk re: study selection process; 7 high risk re: data collection; 9 high risk re: synthesis (unaddressed heterogeneity/no sensitivity analysis).
+
+3.3. Overlap Assessment
+Overall CCA: Kinesio taping 80%, PRF application 27.1%, LLLT 24% — all very high overlap. Two PRF meta-analyses and one LLLT meta-analysis showed low overlap and were retained for sensitivity analysis.
+
+3.4. Study Selection Process
+PRF: Canellas et al. (lowest ROBIS risk, very high overlap) selected as primary; Bao et al. and Xiang et al. excluded (high risk of bias); Ramos et al. (most recent/comprehensive) used for sensitivity analysis; Vitenson et al. (new centrifugation protocols, lowest overlap) added.
+LLLT: Dawdy et al. selected for main analysis (lower risk of bias than Brignardello-Petersen et al., more updated search); Domah et al. and de Oliveira et al. excluded (high risk of bias); de Barros et al. used for sensitivity analysis.
+Kinesio taping: most recent of two equal-quality, high-overlap reviews selected; no sensitivity analysis possible.
+Surgical drainage, ozone therapy, cryotherapy, hyaluronic acid: only one meta-analysis each, all included directly.
+
+3.6. Characteristics
+10 meta-analyses selected for quantitative synthesis (published 2018-2022). All searched MEDLINE and CENTRAL. Aggregate sample sizes 132-1060 patients. Only 2 reviews used Cochrane RoB-2 (rest used RoB-1). Included RCTs per review ranged 4-21. Only 2 evaluated publication bias.
+
+3.7. Quantitative Outcomes (primary synthesis, high-quality studies only)
+Early pain: ozone therapy most effective (SMD = -0.84; 95% CI -1.09 to -0.59, large effect); LLLT least effective (SMD = -0.32; 95% CI -0.49 to -0.15, minimal effect). Kinesio taping, surgical drainage, PRF = moderate effect.
+Late pain: PRF application most effective (SMD = -1.03; 95% CI -1.56 to -0.50, large effect); surgical drainage least effective (SMD = -0.13; 95% CI -0.38 to 0.12, small/non-significant effect). Ozone therapy = upper-moderate effect (SMD = -0.72; 95% CI -0.99 to -0.45).
+
+3.8. Sensitivity Analysis
+Most recent, lowest-overlap meta-analyses: PRF derivatives (new protocols) and ozone therapy showed largest clinical effect for both early and late pain; LLLT showed least effect for early pain. Kinesio taping and surgical drainage = moderate effect on early pain only.
+
+4. Discussion
+
+4.1. Early Pain
+Ozone therapy outperformed other options — proposed mechanism: activation of antioxidant pathways (Nrf2, HIF-1a, NFAT, AT-1), high hydrosolubility, reaction with polyunsaturated fatty acids carried by albumin, blocking of oxidizing algogenic receptors and activation of the antinociceptive system. Evidence limited by small RCT numbers and high heterogeneity — requires standardized protocol and further high-quality RCTs before routine clinical adoption.
+After sensitivity analysis, new PRF preparation protocols (L-PRF, A-PRF) outperformed conventional PRF; A-PRF > L-PRF for early pain due to higher monocyte content driving faster vascularization/cytokine release. PRF preparation protocol (centrifuging speed/time) materially affects fibrin structure, cytokine/growth factor concentration, and cellular content.
+
+4.1.1. Late Pain
+PRF superior for late pain due to progressive dissolution shielding the extraction socket from the external environment and reducing bacterial load. After sensitivity analysis, L-PRF outperformed A-PRF for late pain — attributed to L-PRF's denser, slower-dissolving structure. Kinesio taping, surgical drainage, and cryotherapy were significant only for early pain, consistent with peak inflammation occurring in the first 3 days.
+
+4.2. Strengths and Limitations
+Strength: rigorous network meta-analysis methodology ranking interventions head-to-head (first study to do so for this indication). Limitation: did not re-screen for newly published RCTs beyond what included meta-analyses already covered.
+
+5-6. Recommendations
+Future RCTs: standardize comparisons across complementary interventions; investigate combined/aggregated effects; address split-mouth design bias (patients may have difficulty distinguishing pain sides — recommend ≥7 day washout between surgical sides); control for patient age (≥25 years affects healing/pain); standardize peri-operative analgesic/antibiotic protocols to isolate the complementary intervention's true effect.
+Future systematic reviews/meta-analyses: apply subgroup analysis for parallel vs. split-mouth designs; perform sensitivity analysis when outlier studies are included; use validated quality-assessment tools.
+
+7. Conclusions
+Based on limited evidence, PRF and its derivatives, along with ozone therapy, are the best-performing nonpharmacological complementary therapies for reducing early and late postsurgical pain after third molar extraction, superior to LLLT, Kinesio taping, cryotherapy, surgical drainage, and hyaluronic acid application. Results should be interpreted cautiously given unclear risk of bias and limited evidence quality across the included reviews. A standardized protocol for applying these complementary therapies, alongside optimized surgical technique, is needed.
