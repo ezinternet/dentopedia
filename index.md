@@ -1573,6 +1573,7 @@ tags: []
 ## 근관치료 — 근관외과·기타 (Endodontics: Periapical Surgery / Protocols)
 - [[endodontics/visit-protocol/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (J Endod 2026): hemostatic agents (epinephrine/ferric sulfate/AlCl₃/bone wax/TXA) in periapical surgery — bleeding control, healing
+- [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — Zamparini 2026 · sr+ma(umbrella, 25 SR+MA: 세정9·기구조작8·충전8, PMC 풀텍스트) · 저농도 NaOCl·세정활성화·근관냉동요법→단기 POP↓; rotary가 reciprocating/manual보다 대체로(비일관) POP↓; 실러 유형간 POP 차이 없음 — 충전영역 CCA 17.6%(매우 높은 중복) (DOI 10.3390/jcm15124775)
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
 - [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
@@ -1601,6 +1602,7 @@ tags: []
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — DPC 4재료 micro-CT 비교(44개 인간 치아, 6주): Biodentine > MTA > Ca(OH)₂ 수복상아질 교형성; Single Bond Universal는 독성.
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — 성인(11–51세) 영구 구치 우식 노출 MTA full pulpotomy(52개): 단기 성공률 ~80%, 성숙치에서 VPT 가능성 제시.
 - [[endodontics/vpt/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치 VPT — Ca(OH)2 한계를 MTA·Biodentine·BioRoot(HCSC)로 극복하는 contemporary framework + AAPD 한국 적용
+- [[endodontics/vpt/mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella]] — Mtalsi 2026 · sr(umbrella, SR 11편, PMC 풀텍스트) · 성숙 영구치 증상성 비가역치수염 pulpotomy 성공률 최대 100%(단기 80–95%); Ca(OH)₂ 최저(37%) vs 칼슘실리케이트(Biodentine/MTA/CEM 80–100%) 최고; 장기(36→60mo) 성공률 감소 가능하며 기저 SR 대부분 AMSTAR2 critically low~low (DOI 10.7759/cureus.104814)
 
 ## 근거 평가·통계방법론 (Evidence Appraisal / Biostatistics Methodology)
 - [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Singh 2026 · narrative-review(editorial) · 통계적 유의 ≠ 임상적 유의; 표본·검정력 부족이 실제 효과 은폐; effect size·CI·임상관련성으로 해석 (DOI 10.4103/JCDE.JCDE_504_26)
@@ -2309,6 +2311,7 @@ tags: []
 - [[local-anesthesia/grassi-2017-effectiveness-computer-assisted-anesthetic-implant]] — Grassi 2017 (Oral Implantol (Rome) 10:381) · prospective · 임플란트 수술 STA 컴퓨터제어마취 코호트(n=45): 통증 STA 1.6 vs 기존 CA 7.9/10(p<0.0001), 마취량 절반, 재주사 3례뿐 (abstract-only)
 - [[local-anesthesia/garret-bernardin-2017-pain-experience-behavior-management-pediatric]] — Garret-Bernardin 2017 (Pain Res Manag, prospective crossover split-mouth, n=67 소아 7-15세): Wand STA 컴퓨터 제어 마취기가 전통 syringe 대비 통증 VAS↓(P=0.0003), 심박수 증가폭↓(P=0.028), 이완행동↑(P=0.019), 만족도↑(P=0.0003)
 - [[local-anesthesia/al-obaida-2019-comparison-perceived-pain-patients-satisfaction]] — Al-Obaida 2019 (World J Clin Cases 7:2986) · rct · STA vs 전통침윤 수복치료(n=80): 주사통·수축기혈압 NS(p=0.59/0.09), 수복치료 중 STA 통증↓(p<0.001)·만족도·향후선호↑(p=0.04), STA 심박수 전구간↑
+- [[local-anesthesia/khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella]] — Khademi 2023 · sr(umbrella, SR 4편 종합, PMC 풀텍스트) · 비가역 치수염에서 IANB 전 이부프로펜 >400mg 전처치가 마취 성공률 유의 개선(de Geus: 위약 대비 +79%p); 4편 SR 결론 모두 일치해 추가 메타분석 없이 질적 종합 (PMID 37483905, DOI 미등재)
 
 ## 노년치의학 (Geriatric Dentistry)
 - [[overviews/oral-frailty-geriatric-synthesis]] — Synthesis 2026-06-03 (5편): 구강노쇠=측정·가역 증후군; 지표(잔존치아 수)→유병률 24-32%(도구 의존)→결과(영양실조 OR 2.27)→개입(38% SDF 우식정지). 4단 사슬
@@ -3292,6 +3295,7 @@ tags: []
 - [[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]] — Al Kahtani 2010 · in-vitro(fluid filtration, 70치) · resin cement ParaPost 미세누출은 sealer·타이밍과 무관하게 3개월간 유의 증가; AH26 즉시합착 최소 (DOI 10.1016/j.sdentj.2010.02.003)
 - [[post-and-core/izadi-2020-core-materials-fracture-resistance-parapost]] — Izadi 2020 · in-vitro(108치, 9군) · FRC post군 파절하중이 ParaPost군보다 유의 우위(397.6 vs 265.6 N, P<0.001); core 재료(Photo Core/LuxaCore/Core Max II) 간 차이 없음 (PMC7688039)
 - [[post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost]] — Goutam 2022 · in-vitro(90치, 9군) · FRC > ParaPost 파절하중(380.1 vs 262.8 N, P<0.05), core 재료 무관 — Izadi 2020 근접 재현 (DOI 10.4103/jpbs.jpbs_789_21)
+- [[post-and-core/fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella]] — Fathi 2022 · sr+ma(umbrella, 14 SR/MA·원저 118편·표본 10,971+, PMC 풀텍스트) · 근관치료치 보철수복 성공/생존: 단일크라운·엔도크라운 최우수(엔도크라운 5yr 성공 ~94%, 크라운 5yr 생존 ~98.3%); 저위험편향 리뷰에서 파이버포스트가 금속포스트보다 성공률↑(치근파절률은 유사) — 저위험편향 SR은 14편 중 9편뿐(41.5%) (DOI 10.1155/2022/4748291)
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
