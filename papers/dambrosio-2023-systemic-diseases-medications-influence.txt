@@ -1,0 +1,143 @@
+Title: Do Systemic Diseases and Medications Influence Dental Implant Osseointegration and Dental Implant Health? An Umbrella Review
+
+Authors: D'Ambrosio F, Caggiano A, et al. (D'Ambrosio F, Amato A, Lo Giudice A, et al. — see PMC record for full author list)
+Journal: Dentistry Journal (Dent J), 2023
+DOI: 10.3390/dj11060146
+PMID: 37366669
+PMCID: PMC10296829
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+---
+
+Abstract
+
+The aim of this umbrella review is to evaluate what are the most common medications and systemic diseases that can affect bone–implant integration, the success rate and survival rate of dental implants, peri-implant tissue health, and implant loss. Systematic reviews, with meta-analysis or not, about how systemic diseases and medications influence dental implant osseointegration, survival rate, success rate, and peri-implant diseases, published only in the English language, are electronically searched across the most important scientific databases. The present umbrella review includes eight systematic reviews, and osteoporosis and diabetes are the most investigated pathologies. Systemic diseases, such as neurologic disorders, HIV, hypothyroidism, cardiovascular diseases, and drugs, such as beta blockers, anti-hypertensives, or diuretics do not show a decreased rate of implant osseointegration. It seems that drugs, such as proton-pump inhibitors (PPIs) or serotonin reuptake inhibitors (SSRIs), negatively affect implant osseointegration. Few studies compare the effects of drugs and systemic diseases on the parameters considered in this overview. It is important to underline how the results of this review need to be validated with subsequent and more reviews.
+
+---
+
+1. Introduction
+
+Implantology is one of the most widespread and predictable treatments to rehabilitate patients with partial or complete edentulism in dentistry. Implant surgery is a real surgical procedure of the jaw bones, which concerns both hard and soft tissues and consists of inserting a fixture in the maxillary or mandibular bone in order to integrate the implant with the bone.
+
+The clinical success of dental implants depends on osseointegration, which is a biological process consisting of the strict contact of living bone with an endosseous implant and lasts about 3 or 4 months in the mandibular arches and 4 or 6 months in the maxillary arches.
+
+However, several factors can influence implant placement and the osseointegration process, such as a worsening of bone quantity and quality and problems associated with systemic medical conditions, respectively.
+
+Some international studies have pointed out that the average success rate of implant insertion and osteointegration is over 98%, considering over 1,200,000 implants inserted; this success, however, drops to 85% in smokers.
+
+It is very important to underline how the systemic health of a patient and any pharmacological or radiotherapy therapies may influence the implant treatment.
+
+To obtain correct osseointegration of the implants, it is important that there is no interference with the physiological function of the biological activities that must take place during bone healing, where new bone is introduced by osteoblasts and current bone is reabsorbed by the osteoclasts.
+
+Anything that can interfere with or alter bone repair and bone healing can cause problems in osseointegration, which can determine peri-implant complications or premature implant loss.
+
+Many people have chronic diseases and take systemic drugs, which can influence the success of implant therapy.
+
+Among the various drugs that interfere with bone metabolism, the most studied ones are certainly antiresorptive medications, among which are bisphosphonates. These drugs, which have a very long half-life, inhibit the remodeling of the bone and are administered for the treatment of oncological or metabolic bone diseases.
+
+Bisphosphonates are calcium-binding drugs that decrease the incidence of fractures and increase bone density. Bisphosphonates have often been associated with bone lesions in the jaw, with signs and symptoms even very serious and disabling.
+
+However, there are also other systemic conditions and drugs, which interfere with osseointegration and influence implant success and survival rate, implant loss, and peri-implant tissues, that have been described, such as endocrine–metabolic disorders (diabetes and hypothyroidism), neurological diseases, cardiovascular diseases, non-steroidal anti-inflammatory drugs (NSAIDs), glucocorticoids, and many others.
+
+Although data in the literature are scarce and controversial, the aim of this umbrella review is to investigate what are the most commonly used medications that can affect bone–implant integration, success rates, and survival rates of dental implants, peri-implant tissue health, and implant loss.
+
+2. Materials and Methods
+
+2.1. Study Protocol
+
+This umbrella review was conducted according to the PRISMA statement and was registered in PROSPERO (code ID: CRD42023397955). PEO (Population–Exposure–Outcome) questions were used (a modified PICO model).
+
+2.2. Search Strategy
+
+All kinds of systematic reviews, with and without meta-analysis, about how systemic diseases and medications influence dental implant osseointegration, survival rate, success rate, and peri-implant diseases were electronically searched until 1 February 2023, in PROSPERO, MEDLINE/PubMed, BioMed Central, Scopus, and the Cochrane Library, by two authors, using Boolean operator keyword strategies. Only English-language reviews were included. Filters "Review" (Scopus) and "Systematic Review"/"Meta-analysis" (MEDLINE/PubMed) were applied; no filters on BioMed Central, Cochrane, or PROSPERO.
+
+2.3. Study Selection and Eligibility Criteria
+
+Only articles from the last 10 years were considered, to capture only newer medications. Duplicates were removed with Zotero. Two authors independently screened titles/abstracts and read full texts; a third reviewer resolved disagreements. Reference lists of included reviews were also screened.
+
+2.4. Data Extraction and Collection
+
+Two authors extracted data (a third resolved disagreements). Outcomes examined: implant osseointegration, implant success rate, implant survival, implant loss, and peri-implantitis.
+
+2.5. Data Synthesis
+
+Main features of included reviews (author, year, reference, journal, review type, study quality, number/design of included studies, drug/disease evaluated, outcomes, main results, conclusions) were tabulated and narratively synthesized using Microsoft Excel 2019. No quantitative pooling / meta-analysis was performed across the included systematic reviews — the synthesis was narrative.
+
+2.6. Assessment of Quality and Risk of Bias
+
+Included systematic reviews were appraised using AMSTAR 2 (Assessing the Methodological Quality of Systematic Reviews).
+
+3. Results
+
+3.1. Study Selection
+
+5488 records were identified (137 BioMed Central, 2538 MEDLINE/PubMed, 2713 Scopus, 21 Cochrane, 79 PROSPERO). 1250 duplicates and 40 non-English titles were excluded, leaving 4198 titles. Of these, 18 abstracts were selected for full-text review; 10 were excluded (3 not relevant, 7 not meeting inclusion criteria). Final total: 8 systematic reviews included.
+
+3.2. Studies' Characteristics and Qualitative Synthesis
+
+All 8 studies were published in English between March 2017 and July 2022.
+
+3.3. The Influence of Systemic Drug Intake or General Diseases Evaluated
+
+Many included reviews evaluated bone-resorption (antiresorptive) drugs on osseointegration, success, survival, and implant loss. Overall, antiresorptive drugs did not significantly influence implant osseointegration, success, survival, or loss compared to non-users.
+
+Stavropoulos et al. found that hormone replacement therapy (HRT) users had higher implant loss rates than controls.
+
+Aghaloo found no difference in osseointegration between diabetic and non-diabetic patients; Monje found hyperglycemic subjects (smokers or non-smokers) had higher peri-implantitis risk (but not peri-implant mucositis risk).
+
+Aghaloo et al. reported that neurologic disorders, HIV, cardiovascular disease, anti-hypertensives, diuretics, beta blockers, and hypothyroidism did not show decreased osseointegration rates, but SSRIs and PPIs showed a negative effect on implant osseointegration.
+
+3.4. Quality and Risk of Bias
+
+Most of the 8 included reviews were rated low or moderate quality by AMSTAR 2; one was critically low quality.
+
+4. Discussion
+
+4.1. Main Outcomes (Osseointegration, Success Rate, Survival, Peri-implantitis, Implant Loss)
+
+4.1.1. Osseointegration — defined as strict contact of bone with an endosseous implant; process takes 3–5 months. Anabolic drugs (PTH peptides, vitamin D, simvastatin, prostaglandin EP4 antagonist, strontium ranelate) and anti-catabolic drugs (calcitonin, RANK/RANKL/OPG modulators, bisphosphonates, SERMs) could affect this process.
+
+4.1.2. Implant success/survival/loss/peri-implantitis — mobility and pain are primary outcomes for implant health; marginal bone loss (MIBL), suppuration, probing depth are other criteria; survival rate (implant still in place vs. removed) is the most frequently reported outcome. Peri-implantitis = plaque-induced progressive inflammation with bone loss around implants, a leading cause of implant failure.
+
+4.2. Influence of Key Systemic Diseases/Drugs
+
+4.2.1. Metabolic Bone Disease (osteoporosis) — affects >200 million people, mainly postmenopausal women; grade-4 bone density carries greater implant-failure risk, though not all authors agree osteoporosis compromises implant rehabilitation. Antiresorptive drugs (calcitonin, RANK/RANKL/OPG modulators, bisphosphonates, SERMs) down-regulate osteoclast activity. Main side effect: osteonecrosis of the jaw (ONJ/MRONJ), especially with jaw infection or surgical trauma in bisphosphonate users.
+ - Most included reviews found no statistically significant osseointegration differences between antiresorptive-drug users and non-users (Aghaloo, Chadha, Javed).
+ - Najeeb et al.: bisphosphonate surface coatings can positively affect osseointegration.
+ - Aghaloo's review: 98% implant survival, comparable to non-osteoporotic patients. de Medeiros et al. (meta-analysis, 10 studies, 702 implants in osteoporotic patients): 4.70% failure rate vs. 3.57% in 4114 implants in healthy subjects — no significant difference.
+ - Papadakis et al.: inconclusive due to conflicting underlying studies (Zahid, Kasai: oral bisphosphonates reduce osseointegration/increase failure; others: no significant difference).
+ - Stavropoulos et al. meta-analysis: no significant difference in implant loss between bisphosphonate users/non-users; success rate 85.7–100% (test) vs. 84.6–100% (control).
+ - Conflicting implant-loss results: Yip et al. (2012) OR 2.7 for bisphosphonate users vs. controls; Al-Sabbagh & Robinson (2015) OR 9.2 for controls (i.e., controls had higher loss risk).
+ - Overall conclusion: low-dose oral bisphosphonates for osteoporosis are not a contraindication to implant therapy.
+ - Teriparatide (1–34 PTH) may increase osseointegration in patients unresponsive/intolerant to other osteoporosis drugs; Tao et al. (2015): 1–34 PTH + simvastatin has greater positive effect on osseointegration than either alone; Javed et al.: intermittent PTH therapy promotes new bone formation around implants.
+
+4.2.2. Endocrine–Metabolic Disorder (diabetes, hypothyroidism)
+ - Diabetes: ~350 million people affected worldwide by 2008 (up from ~150 million in the 1980s). Well-documented links to periodontal disease, tooth loss, delayed wound healing, reduced infection response.
+ - 2017 World Workshop (Schwarz et al.): literature controversial on diabetes as a peri-implantitis risk factor. Ferreira et al.: OR 1.9. Tawil et al.: HbA1c ≤7% → no peri-implantitis; HbA1c 7–9% → 6/141 implants showed peri-implant disease. Costa et al. and others found no difference between diabetic and healthy patients.
+ - Osseointegration: Aghaloo, Javed, Naujokat — no difference between healthy and diabetic subjects (short-term, at time of definitive loading ≥3 months post-op). Aghaloo notes chronic hyperglycemia increases pro-inflammatory cytokines, reducing osteoblast-osteoclast coupling, and long-term studies show increased MIBL and peri-implantitis in diabetics.
+ - Hypothyroidism: thyroid hormone maintains bone mass via IGF-1-stimulated osteoblast formation; hypothyroidism associated with increased fracture risk and delayed bone regeneration, but no statistically significant difference in implant failure rate vs. controls (Aghaloo).
+
+4.2.3. NSAIDs — anti-inflammatory/analgesic, act via COX-2 inhibition blocking prostaglandin production, which can impair osteoblast differentiation. Chikazu et al. (2007, mice): COX-2-deficient mice had poorer peri-implant bone formation. A human RCT: ibuprofen 600 mg qid for 7 days caused no bone loss at 3–6 months. A 2014 retrospective study found more osseointegration failures in NSAID users post-surgery; more peri-implant bone loss/failure also reported elsewhere. Overall: insufficient evidence to conclude NSAIDs affect osseointegration; short- vs. long-term use and dose variability confound comparisons; human/animal metabolic differences are a limitation.
+
+4.2.4. Glucocorticoids — used for autoimmune disease, asthma, IBD, RA; prolonged high-dose use reduces bone formation via osteoblast apoptosis and promotes adipocyte differentiation from bone marrow cells, negatively affecting osseointegration. Prolonged glucocorticoid use is considered one of the main absolute contraindications to implant placement, though high-quality long-term human studies are lacking.
+
+4.2.5. SSRIs (antidepressants) — low serotonin implicated in depression; osteoblasts/osteoclasts express 5-HT receptors. Chappuis et al.: 7.5% higher failure rate in SSRI users. Aghaloo et al.: survival 89.4–94.4% (SSRI) vs. 95.4–98.15% (non-SSRI). Cheng et al.: confirmed 7.5% difference. A meta-analysis found SSRI use associated with significantly increased fracture risk. Wu et al. retrospective cohort (916 implants, 490 patients): SSRI use associated with increased implant failure risk.
+
+4.2.6. Proton-Pump Inhibitors (PPIs) — reduce gastric acid; linked to increased fracture risk possibly via impaired calcium/B12/magnesium/iron absorption. Chappuis et al.: 4.5% higher failure rate in PPI users. Aghaloo et al.: failure rate 12–6.8% (PPI) vs. 4.5–3.2% (non-PPI). Cheng et al.: confirmed 4.5% difference. Vinnakota et al. and Chawla et al.: signal between PPI use and implant failure.
+
+4.2.7. Cardiovascular Disease — affects bone healing/osseointegration via oxygen supply, immune cell activity, fibroblast activity. Aghaloo et al.: cardiac disease/hypertension did not adversely affect early implant failure. Antihypertensives (beta blockers, ACE inhibitors) may even positively influence failure rate (Chappuis, Aghaloo). Wu: 0.6% failure rate in antihypertensive users vs. 4.1% in non-users.
+
+4.2.8. Neurological Disorders — elderly patients with poor oral hygiene, bruxism, unhealthy habits; no direct evidence of reduced osseointegration in the included reviews, though evidence is limited.
+
+4.2.9. HIV — impaired bone metabolism via impaired calcium/vitamin D absorption, lower testosterone, HAART effects. Oliveira: no major difference in implant success/survival for HIV+/HAART patients vs. others. Ata-Ali et al. (SR): implant failure comparable between HIV+ and healthy patients.
+
+4.3. Limitations
+
+Heterogeneity across included reviews (different diseases/drugs) precludes pooled statistics. Most reviews rated low/moderate quality (AMSTAR 2); one critically low. Only antiresorptive drugs were analyzed by as many as 4 different review authors; other topics have sparse coverage. Smoking/alcohol as unaddressed confounders in underlying studies is noted as a bias risk (per 2017 World Workshop classification of smoking as a periodontal/peri-implant risk factor). Other conditions/drugs not covered here (chemotherapeutics, immunosuppressants like cyclosporine A, or protective agents like statins) may also matter.
+
+5. Conclusions
+
+Eight systematic reviews were included. No direct evidence that antiresorptive drugs affect osseointegration, though ONJ/MRONJ remains a relevant side-effect risk requiring patient counseling. Diabetes results are conflicting — most included data are short-term/well-controlled-disease studies; long-term/poorly-controlled diabetes shows worse outcomes (consistent with 2017 World Workshop classifying diabetes as a periodontal/peri-implant risk factor). Prolonged glucocorticoid use remains a main absolute contraindication to implant placement. SSRIs and PPIs show preliminary negative signals for osseointegration and fracture risk and warrant particular attention. Cardiovascular disease, neurological disorders, hypothyroidism, HIV, and NSAIDs show no clear/consistent evidence. Systemic patient assessment before every implant surgery, and staying current with drug guidelines, remain essential. Further long-term studies and molecular/genetic research are needed.
+
+---
+(Note: figures, tables, and reference-list numerals were not preserved in this plain-text extraction from the PMC full-text API; narrative content above is complete per the retrieved article body.)
