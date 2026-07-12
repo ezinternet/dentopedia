@@ -24,6 +24,7 @@ tags: [evidence-appraisal, ebm, ebd, biostatistics, sr-ma-methodology, critical-
 > - 임상 체크리스트: confidence tag → I² → PRISMA/a priori protocol → 효과측정치가 맥락에 맞나 → CI를 점추정치와 함께 → subgroup이 pre-specified인가 → adjusted model에 매개변수가 들어가 있지 않은가 순.
 > - 카테고리 신설 근거: 9편 모두 EBM·biostatistics 방법론 paper로 기존 23 카테고리(method/procedure 기반)에 안 맞아, 비판적 평가 자체를 method로 보고 evidence-appraisal 신설.
 > - Caveat: 외부 9편 중 7편이 narrative-review/tutorial이라 individual confidence는 낮으나 다루는 원리는 Cochrane Handbook·BMJ Best Practice 표준에 합치 — 실전 사례로 Insadol 한국 임상시험 통계 타당성 비판(Choi 2015)이 "표준 처방 ≠ 근거 충분"을 시연한다.
+> - **(2026-07-12 추가) Study-type별 읽기 순서**: 기존 5축은 개념 축이었으나, 실전에선 "논문을 열자마자 어디부터 보는가"가 study-type(RCT/관찰연구/SR+MA)마다 다르다 — RCT는 무작위배정·배정은닉·ITT·CONSORT, 관찰연구는 교란보정·군집처리·immortal time bias, SR+MA는 forest plot을 abstract보다 먼저 본다. 상세는 본문 새 절 참조.
 
 ## Three-line Summary
 
@@ -110,6 +111,20 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 5. **Confounder vs mediator 혼동** — 흡연-임플란트 연구에서 "plaque level로 보정"하면 흡연의 진참 효과가 약하게 추정됨 (over-adjustment).
 6. **변수 조기 dichotomization** — ISQ 70 cutoff처럼 연속 변수를 binary로 자르면 information 손실.
 7. **Immortal time bias** — "조기 부하군 vs 지연 부하군" retrospective 비교에서 조기 부하 전에 실패한 환자가 잘못 분류됨.
+
+## Study-type별 읽기 순서 — 급소 우선순위 (2026-07-12 추가)
+
+축 1~5는 *어떤 개념을 알아야 하는가*를 다루지만, 실전에서는 논문을 열자마자 "이 study-type이면 Methods 어디부터 봐야 하나"가 먼저 필요하다. 아래는 study-type 3종(RCT·관찰연구·SR+MA)별 "먼저 볼 곳"과 "핵심 함정"을 이 toolkit의 기존 축 위에 재배열한 표다.
+
+| Study type | 먼저 볼 곳 (Methods) | 핵심 함정 | wiki 근거 |
+|---|---|---|---|
+| RCT | randomization 방법·allocation concealment·blinding·ITT 분석 여부 | CONSORT 미준수 논문의 과장된 효과크기; 선언된 추적기간 vs 실제 연구기간 불일치 | [[evidence-appraisal/kiriakou-2014-evidence-based-dentistry-skills-interpret]] (RCT 체크리스트: 무작위배정·배정은닉·맹검·ITT·추적완전성); [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] (CONSORT 감사 + timeline-consistency test: 실제기간 X vs 선언된 추적기간 Y, X=Y면 비현실적); [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] (실패 사례: 무작위배정 실패 1/4, 부적절 통계검정 3/4) |
+| 관찰연구 (Cohort/Case-control) | 교란변수 보정 목록·군집(clustering) 처리 여부·(cohort) 추적탈락률 | Immortal time bias; confounder-mediator 혼동(over/under-adjustment); 연속변수 조기 이분화; events-per-variable 부족 시 방법이 좋아도 CI가 두 자릿수로 넓어짐 | [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] (immortal time bias, confounder vs mediator, 조기 dichotomization); [[evidence-appraisal/isq-survival-andersson-vs-roccuzzo-clustering-appraisal]] (군집 무시·비보정 OR vs 다수준 로지스틱 대조 — 잘한 예도 사건수 부족하면 CI 무의미해지는 실증 사례) |
+| SR+MA | forest plot을 먼저, abstract 결론은 나중에 | I²>75%에서 pooling 강행; funnel plot 비대칭 방치(출판편향); subgroup이 사전등록 아닌 사후 hunting | 축 1(SR/MA 방법론) 전체 + 축 5; 세부 7단계 체크리스트는 바로 아래 절 참조 |
+
+**공통 읽기 습관** [claude해석]: Abstract의 결론을 먼저 믿지 말고 → Methods에서 위 표의 급소부터 확인 → Figure(forest plot / Kaplan-Meier 곡선)를 직접 본 뒤 → 마지막에 Discussion을 읽는다. Kiriakou 2014의 5단계 EBD 워크플로우(질문 → 근거 합성 → 타당도·적용성 평가 → 적용 → 감사)와 같은 원칙을 study-type별 급소 표로 구체화한 것.
+
+**평가도구 관련 caveat**: RoB 2(RCT)·ROBINS-I(관찰연구)·AMSTAR-2(SR+MA)는 wiki의 다른 다수 SR 페이지(예: `orthodontics/clear-aligner/`, `digital-workflow/`)에서 이미 광범위하게 인용되지만, 이 toolkit 자체의 소스 9편 중에는 이 도구들을 본격 설명하는 논문이 없다 — 기존 Caveats 절의 "PRISMA 2020·GRADE·AMSTAR 2·RoB 2·ROBINS-I는 항목으로만 등장" 한계가 이 절에도 동일하게 적용된다.
 
 ## 임상 적용 — wiki 다른 페이지를 읽을 때 체크리스트
 
