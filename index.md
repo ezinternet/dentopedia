@@ -3575,3 +3575,13 @@ tags: []
 
 ### complete-denture
 - [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella SR(JBI, 8편: SR 6/SR+MA 1/MA 1, SIGN 1+~1-): 임플란트유지 오버덴처(IROD)가 통상총의치(CCD) 대비 OHRQoL·만족도 우위 [sr, abstract-only]
+
+## Batch ingest (added 2026-07-12) — 즉시식립(IIP) 타이밍 개별 SR/MA 4편 (umbrella review 부재 확인 후 개별 SR/MA로 선회, PMC 풀텍스트 없어 PubMed 초록 기반)
+
+### immediate-implant
+- [[immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma]] — SR+MA (30 studies, 3,049 implants/1,435명, PROSPERO CRD42016043309): 즉시식립 vs 지연식립 생존율 비교 — 지연 98.38% vs 즉시 95.21% 유의차(p=.001), MBL·ISQ·PPD는 유의차 없음 [sr+ma, abstract-only]
+- [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]] — SR+MA (Clin Oral Implants Res 2022; Q1: 6 RCTs, Q2: 53 studies/22 RCT+11 CCT+20 case series, search to Nov 2019): Q1 no survival difference immediate vs delayed, but immediate favored for 1-year MBL and PES; Q2 immediate implants 97% survival, PES 10.36–11.25; immediate carries 3x early/2x delayed complications despite equal survival [sr+ma, abstract-only]
+- [[immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma]] — SR+MA (COIR 2021 Suppl 21, 7 controlled trials + 29 pooled studies/965 implants): 상악 심미부위 단일치아 임플란트 ≥3년 장기결과 — 식립 타이밍(IP/EP/DP)×부하 타이밍(IL/EL/DL) 교차비교에서 모든 조합 유의차 없음(IPIL vs IPDL p=.306 등), 조합 매트릭스 전체 메타분석엔 근거 부족 [sr+ma, abstract-only]
+
+### immediate-implant/esthetic-soft-tissue
+- [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (RCT only, Evid Based Dent 2023;24(2):93, 6 RCTs): 심미부위 즉시식립(IIP) vs 조기식립(EIP) 직접비교 — 수직 골레벨·치은열구탐침깊이 동등(둘 다 P>0.05), 핑크심미점수(PES)는 EIP 유의 우위(P<0.05); 압축형 근거요약 포맷(6 RCT)이라 결론은 지시적 수준 [sr+ma, abstract-only]
