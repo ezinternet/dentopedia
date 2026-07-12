@@ -1,0 +1,28 @@
+Title: Oral health-related quality of life and satisfaction of edentulous patients using conventional complete dentures and implant-retained overdentures: An umbrella systematic review.
+
+Authors: Rayan Sharka, Hassan Abed, Mark Hector
+
+Journal: Gerodontology. 2019 Mar 15;36(3):195-204.
+
+PMID: 30875108
+DOI: 10.1111/ger.12399
+
+[Abstract only — retrieved via PubMed MCP get_article_metadata. No PMC full text available (Wiley, non-OA). full_text: false]
+
+Background/Objective:
+Loss of teeth has a negative influence on essential oral functions. It is important to understand edentulous patients' perceptions about the impacts of treatment options on their oral health-related quality of life (OHRQoL) and satisfaction. To appraise the systematic reviews (with/without meta-analysis) that investigate the impacts of complete conventional dentures (CCDs) and/or implant-retained overdentures (IRODs) on the oral health-related quality of life (OHRQoL) and satisfaction among edentulous patients.
+
+Methods:
+The Joanna Briggs Institute (JBI) methodology for conduct of an umbrella systematic review was followed. Three database systems were used: Medline, Google Scholar and Cochrane Library. PROSPERO was searched for ongoing or recently completed systematic reviews. The reviews must report OHRQoL and patients' satisfaction as outcomes.
+
+Results:
+A total of eight reviews were included in data synthesis (six were systematic reviews without meta-analysis, one was systematic review with meta-analysis, and one was meta-analysis). The level of evidence of all included reviews based on the Scottish Intercollegiate Guidelines Network ranged between 1+ and 1-.
+
+Conclusion:
+The results of this umbrella systematic review demonstrate the superiority of using IRODs compared with CCDs on the OHRQoL and patients' satisfaction outcomes. However, this positive impact is more accentuated when patients demand implant treatment or cannot adapt to CCDs treatment. Financial factors and adaptive capability indeed affect patient tolerance to both treatment modalities.
+
+Keywords: OHIP, adaptive capability, financial issue, geriatric dentistry, impairments, missing teeth, older adults, quality of life, satisfaction
+
+MeSH terms: Humans; Dental Prosthesis, Implant-Supported; Denture, Complete; Denture, Overlay; Jaw, Edentulous; Meta-Analysis as Topic; Oral Health; Patient Satisfaction; Personal Satisfaction; Quality of Life; Systematic Reviews as Topic
+
+Article types: Journal Article; Systematic Review
