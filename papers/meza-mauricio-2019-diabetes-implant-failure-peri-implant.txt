@@ -1,0 +1,15 @@
+Title: An umbrella review on the effects of diabetes on implant failure and peri-implant diseases.
+
+Authors: Meza Maurício J, Miranda TS, Almeida ML, Silva HD, Figueiredo LC, Duarte PM.
+Affiliation: Universidade de Guarulhos - UNG, Dental Research Division, Department of Periodontology, Guarulhos, SP, Brazil.
+
+Journal: Brazilian Oral Research (Braz Oral Res). 2019;33(suppl 1):e070. Published 2019-09-30.
+PMID: 31576954
+DOI: 10.1590/1807-3107bor-2019.vol33.0070
+Article types: Journal Article; Systematic Review
+MeSH terms: Dental Implants; Dental Restoration Failure; Diabetes Complications; Humans; Peri-Implantitis; Prosthesis Failure; Risk Factors; Treatment Failure
+
+Abstract:
+The aim of this review is to summarize the evidence on associations between diabetes mellitus (DM) and complications around dental implants. Electronic database searches of MEDLINE, EMBASE, JBI Database of Systematic Reviews and Implementation Reports, Cochrane Database of Systematic Reviews and the PROSPERO register were performed from 1990 up to and including May 2018, using MeSH terms and other keywords. Systematic reviews and meta-analyses investigating the associations of DM and implant complications (failure, survival, bone loss, peri-implant diseases, and post-surgery infection) were eligible. The quality of the included reviews was determined using the Assessment of Multiple Systematic Reviews Tool 2 (AMSTAR 2). Twelve systematic reviews were included. Implant survival rates ranged from 83.5% to 100%, while implant failure rates varied from 0% to 14.3% for subjects with DM. The three meta-analyses performed for event "implant failure" reported no statistically significant differences between diabetic and non-diabetic subjects. An apparently increased risk of peri-implantitis is reported in patients with DM. According to the AMSTAR 2 classification, 50% of the reviews were classified as being of "critically low", 25% as of "low" and 25% as of "moderate" quality. Evidence indicates high levels of survival and low levels of failure of implants inserted in patients with DM. However, DM was assessed as a whole in the majority of studies and, the actual influence of hyperglycemia on implant survival/failure is still uncertain. DM/hyperglycemia seems to be associated with a high risk of peri-implantitis. However, this conclusion is based on a limited number of systematic reviews.
+
+[Retrieved via PubMed MCP get_article_metadata — abstract only; no PMC full text available for this article as of ingest date 2026-07-12. This SciELO/Braz Oral Res article is open-access on the publisher site but full body text was not retrieved through PubMed/PMC tooling.]
