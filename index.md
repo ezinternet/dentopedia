@@ -3461,3 +3461,4 @@ tags: []
 - [[bone-regeneration/minetti-2020-alveolar-socket-preservation-autologous-graft]] — Minetti 2020 · prospective(다기관, n=28명/34 발치와) · 발치와 보존술에서 자가 탈회 상아질/법랑질 이식재 — 온전한 치아 vs 근관치료된 치아 유래 이식재 간 생활골 형성 동등
 - [[bone-regeneration/rokn-2011-bone-formation-two-grafting-materials]] — Rokn 2011 · animal(토끼 두개골) · Straumann Bone Ceramic vs Bio-Oss vs 대조군 조직형태계측 비교 — 골충전 유의차 없음, 대입자 세라믹이 더 큰 염증반응
 - [[bone-regeneration/ahamed-2025-peri-implant-gaps-management-sr]] — Ahamed 2025 · sr(RCT 11편) · 임플란트 주위 갭("jumping gap") 관리 — 이종골/합성골이 PRF/자가골보다 골보존 우위, ISQ는 대체로 재료 무관
+- [[bone-regeneration/elrefaei-2025-3d-printed-scaffolds-ridge-augmentation]] — Elrefaei 2025 · sr(scoping, 23편) · 치조제증대용 커스텀 3D프린팅 스캐폴드 워크플로우 — 티타늄(DMLS/SLM)·PEEK·3D프린팅 골이식재 CAD/CAM 제작 기술 종합
