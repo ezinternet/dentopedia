@@ -1,0 +1,97 @@
+Title: Impact of instrumentation kinematics on post endodontic pain-an umbrella review with stratification of evidence and sensitivity analysis
+
+Authors: Dax Abraham, Aakansha Puri, Alpa Gupta, Karina Singal, Adinath Walmik Talekar, Praharsha Anabathula
+Affiliation: Department of Conservative Dentistry and Endodontics, Manav Rachna Dental College, Manav Rachna International Institute of Research and Studies, Faridabad, Haryana, India.
+Journal: Journal of Oral Biology and Craniofacial Research, 2025, Volume 15, Issue 4, Pages 888-898
+PMID: 40586107
+PMCID: PMC12206036
+DOI: 10.1016/j.jobcr.2025.06.008
+Publication date: 2025-06-14
+
+ABSTRACT
+
+Background
+Our umbrella review examines the impact of instrumentation kinematics on postoperative pain in endodontic treatment by synthesizing current evidence from systematic reviews and meta-analyses.
+
+Methods
+We performed an extensive search across six major electronic databases up to March 2025, focusing on English-language literature comparing rotary and reciprocating instrumentation systems. Quality assessment was rigorously conducted using the AMSTAR 2 tool, and a comprehensive risk of bias evaluation was carried out using the ROBIS tool.
+
+Results
+Our analysis incorporated eight systematic reviews, seven of which provided meta-analytic data, thus ensuring a robust consolidation of findings. The results reveal that rotary instrumentation generally produces lower overall post-operative pain levels compared to reciprocating systems. However, the influence of instrumentation type appears to be time-dependent, with evidence suggesting that reciprocating systems may offer advantages in the immediate post-operative phase by reducing mild pain within 24 h. The review underscores the multifactorial nature of post-operative pain, where clinical outcomes are influenced not only by instrumentation kinematics but also by patient-specific factors, operator experience, and procedural variables.
+
+Conclusion
+The insights provided by our review contribute to the current understanding of endodontic pain management and encourage further research utilizing standardized methodologies and extended follow-up periods to elucidate long-term outcomes. These findings have significant implications for clinical practice and the development of patient-centered treatment protocols in endodontics.
+
+Keywords: Endodontics; Postoperative pain; Reciprocating instrumentation; Root canal therapy; Rotary instrumentation; Systematic review
+
+FULL TEXT
+
+1 Introduction
+
+Post-endodontic pain (PEP) affects patient quality of life significantly and remains a clinical challenge. PEP is determined as the degree of pain caused after root canal treatment, with an occurrence rate of 3%-58%. Inadequate root canal debridement, hyper-occlusion, periapical illness, and extrusion of infected debris into the periapical tissue are some of the etiologic variables linked to this postoperative pain. The latter has been identified as the primary source of pain, which affects the patient's quality of life.
+
+There are three main classifications of instruments for root canal preparation: manually operated instruments, engine-driven rotary instruments, and engine-driven reciprocating instruments. The advent of the first rotary nickel-titanium (NiTi) instruments in the mid-1990s led to a paradigm shift in endodontics. The engine-driven rotary instruments operated in continuous rotary motion, while more recently they have been operated in reciprocating motion (initial counter-clockwise rotation followed by clockwise). Del Fabbri et al. (2018) demonstrated that rotary NiTi files extrude less debris than stainless-steel hand files; single-file reciprocating systems (WaveOne, Reciproc) and continuous-rotating systems (ProTaper, M Two) reduced endotoxins/cultivable bacteria with comparable efficacy. Hou XM et al. (2017) SR/MA concluded rotary instruments were linked to lower incidence of postoperative pain overall, whereas reciprocating instruments were linked to lower incidence of mild postoperative pain. Patel et al. (2023) RCT found multiple rotary instrument systems increased likelihood of pain versus single-file. No definitive consensus exists.
+
+Aim: to evaluate SR/MA studies on instrumentation kinematics and post-operative pain via umbrella review, resolving inconsistency and providing clinicians comprehensive data on which technique may be least detrimental.
+
+2 Methods
+
+Protocol registered PROSPERO (CRD42024582245); PRISMA guidelines; PRIRES checklist (Preferred Reporting Items for Resistance Exercise Studies, adapted for umbrella review of SRs) uploaded as supplementary file.
+
+2.1 Review question: Does root canal instrumentation kinematics influence post-operative pain?
+
+2.2 Inclusion/exclusion: SRs with/without meta-analysis, English language, evaluating POP after root canal treatment using rotary or reciprocating motions; RCTs evaluating/comparing POP after reciprocating vs rotary kinematics, pain level (mild/moderate/severe).
+
+2.3 Literature search: six electronic databases (PubMed, Scopus, EBSCOhost, LILACS, Epistemonikos, Google Scholar), 2000-2025 (to March 2025). MeSH/keyword string combining rotary/reciprocating instrumentation AND postoperative pain, filtered to meta-analysis/systematic review. Additional hand-search of reference lists. Two independent reviewers (AG, AP) screened titles/abstracts then full texts; third reviewer (DA) resolved disagreements. Authors of included reviews contacted for missing/ambiguous data.
+
+2.4 Data extraction: author/year/title, journal, databases searched, country of first author, search period, language, meta-analysis performed (Y/N), number/design of studies included, quality-assessment instrument, outcomes assessed.
+
+2.5 Primary outcome: POP following non-surgical RCT, comparing rotary vs reciprocating instrumentation. Included-SR pain assessment intervals varied: Cunha TC 2020 (6-72h after first session); da Silveira MT 2021 and one study in Antony DP 2022 (Oliveira 2019) (first 24h); Nobar BR 2021 (12/24/48h); Krithikadatta 2016 (2/4/6/12/24/36/48h); Martins CM 2019 (12/24/48h); Sun C 2018 and Hou XM 2017 gave no explicit timeframe.
+
+2.6 Secondary outcomes: effectiveness of cleaning/shaping; amount of debris generated; need for additional medications; post-treatment clinical complications; radiographic healing.
+
+2.7 Methodological quality (AMSTAR 2): 16-item checklist; three reviewers (KS, PA, AWT) independently scored Yes/No/Partial Yes; fourth reviewer (DA) resolved disagreement; studies classified high/moderate/low/critically-low quality.
+
+2.8 Risk of bias (ROBIS): three phases — Phase 1 assessing relevance; Phase 2 identifying concerns with review process (domain 1 study eligibility criteria, domain 2 identification/selection of studies, domain 3 data collection/study appraisal, domain 4 synthesis and findings); Phase 3 judging risk of bias.
+
+2.9 Stratification of evidence and sensitivity analysis: evidence classified per an established umbrella-review framework (statistical significance, heterogeneity, study quality per prior meta-analyses); sensitivity analyses including subgroup analyses and random-effects meta-regression incorporated where applicable.
+
+3 Results
+
+3.1 Search results: 400,255 records identified across the six databases; 400,003 duplicates removed; 50 records marked ineligible by automation tools; 100 removed for other reasons; 102 reviews remained for full-text evaluation. [Note: the paper's own next sentence states "50 records were assessed for eligibility" — an internal inconsistency in the reported PRISMA flow numbers, reproduced here verbatim rather than corrected.] Of those assessed, 15 excluded (not English), 15 excluded (narrative rather than systematic reviews), 12 excluded (did not satisfy inclusion criteria). Final included: 8 systematic reviews (PRISMA flow diagram in original figure).
+
+3.2 Characteristics of included reviews: published 2018-2022; journals — BMC Oral Health (n=2), Iranian Endodontic Journal (n=2), European Endodontic Journal (n=1), Oral Diseases (n=1), Journal of International Oral Health (n=1), Journal of Conservative Dentistry and Endodontics (n=1). Search periods spanned 2000-2024. Of the 8 reviews, 7 conducted meta-analysis.
+
+3.3 Summary of meta-analysis: tabulated in original Table (not reproduced here); see Discussion below for per-study numeric findings.
+
+3.4 Methodological quality: AMSTAR 2 scores ranged 12.5-15 of maximum 16 → all included SRs categorized "high quality."
+
+3.5 Risk of bias / confounding: ROBIS applied to all included SRs (heat-matrix visualization of bias/confounder domains in original figures).
+
+3.6 Stratification of evidence and sensitivity analysis: evidence stratified by statistical significance, heterogeneity, and study quality. Sensitivity testing included exclusion of studies with pre-operative pain, subgroup analysis by pain level/nature and time interval, and meta-regression for heterogeneity sources.
+
+4 Discussion
+
+Pak JG et al. (2011) reported 40% prevalence of POP within 24h, dropping to <10% by day 7 after a sharp decline in the first 48h. Flare-ups/POP attributed to incomplete debridement, extrusion of infectious debris, preoperative discomfort, periapical inflammation; instrumentation is a significant contributor via debris ejection. Multiple studies show rotary/reciprocating systems extrude less debris than hand instrumentation, but disagreement persists on relative debris extrusion between rotary and reciprocating.
+
+Per-study numeric findings synthesized in this umbrella review:
+- Cunha TC et al.: CR-GP (continuous-rotation glide path) superior to M-GP/WGP (manual-glide-path/reciprocating glide path) for intra-/postoperative pain reduction; CR-GP ≈ R-GP (reciprocating glide path) in efficacy.
+- da Silveira MT et al. (2021): 21 studies reviewed, 17 quantitatively analyzed; rotary systems produced significant pain-intensity reduction (SMD 0.27-0.37, P≤0.001) versus reciprocating.
+- Neto JCL et al.: 14 studies quantitatively analyzed; reciprocating systems reduced 48h pain (RR=1.04) but increased 24h discomfort (SMD=0.25, P=0.01); no definitive kinematics-pain correlation established.
+- Nobar BR et al. (2021): no significant POP differences between reciprocating/rotary at 12-48h intervals.
+- Sun C et al. (2018): rotary systems showed superior pain reduction versus manual (RR=0.32, P=0.0005) and versus reciprocating (RR=0.73, P<0.0001).
+- Antony DP et al. (2022): no significant pain differences between continuous/reciprocating (MD 0.13, P=0.48; I²=26%).
+- Martins CM et al. (2019): equivalent pain profiles between rotary/reciprocating (MD 0.13, P=0.48).
+- Hou XM et al. (2017): rotary systems showed superior moderate/severe pain reduction (OR 2.24-11.71), attributed to decreased apical debris extrusion; reciprocating instruments generate more debris than rotary; ibuprofen used for pain management.
+
+Aggregate discussion-level statistics (as stated in the paper): "Reciprocating systems demonstrated elevated 24-h pain indices versus rotary systems (SMD = 0.25; 95% CI: 0.06-0.44). At 48-h intervals, reciprocating systems exhibited therapeutic advantage (RR = 1.04; 95% CI: 1.01-1.06)." [Note: this 24h-favors-rotary / 48h-favors-reciprocating framing in the Discussion appears to sit awkwardly against the Abstract's claim that "reciprocating systems may offer advantages in the immediate post-operative phase by reducing mild pain within 24 h" — reproduced verbatim as an apparent internal inconsistency in the source paper rather than resolved by us.]
+
+Confounder analysis (four domains: patient-related, procedure-related, operator-related, methodological): patient factors (demographics, nociceptive thresholds, anxiety, systemic pathophysiology) were generally controlled via inclusion criteria and pre-treatment quantification. Procedure-related confounders (canal morphology, curvature, instrumentation sequence, irrigation protocol) showed substantial outcome influence; only 2 studies implemented procedural standardization/equipment calibration, with heterogeneity persisting. Operator-related confounders (expertise, technical proficiency, procedural consistency) were systematically underreported; only 3 studies attempted control; none of the 8 studies reported operator blinding, magnification use, fatigue factors, or manufacturer torque/speed adherence. Antony DP et al. achieved the most complete confounder control across domains (standardized assessment instruments, defined protocols, operator calibration, multiple regression adjustment); Cunha TC et al., Sun C et al., and Nobar BR et al. showed moderate control but no operator control; Neto JCL et al. achieved optimal procedural/operator/design control but only moderate patient control; Hou XM et al. showed robust patient/operator control but weaker procedural control.
+
+Limitations (stated by the authors): significant methodological heterogeneity precluding robust meta-analytical synthesis; primary studies with moderate-to-high bias risk; inconsistent (subjective VAS-based) pain-assessment modalities and variable temporal protocols; assessment windows inadequate beyond 72h (excludes longer-term recovery kinetics); pervasive operator confounders; insufficient conflict-of-interest disclosure (possible publication bias). Authors call for standardized methodological frameworks, homogeneous outcome measures, and extended longitudinal follow-up.
+
+5 Conclusion
+
+Postoperative endodontic pain results from multifactorial interactions beyond instrumentation type alone. Rotary systems demonstrate advantages in reducing moderate-to-severe pain and minimizing apical debris extrusion. Reciprocating systems show efficacy at later time intervals in specific clinical contexts. Both systems exhibit comparable long-term POP outcomes. Outcome variation stems from heterogeneous study designs, patient demographics, procedural approaches, and pain-assessment methodologies; individual patient response, operator variability, and biological tissue response contribute to inconsistent findings. No single instrumentation system demonstrates universal superiority across all parameters; clinical selection should integrate patient-specific factors, case complexity, and practitioner expertise rather than relying solely on system type.
+
+Administrative: PROSPERO CRD42024582245; no patient consent required (umbrella review); no ethical approval required; no AI tools used in manuscript preparation; no financial support; no conflicts of interest declared.
