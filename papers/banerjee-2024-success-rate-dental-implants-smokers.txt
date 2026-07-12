@@ -1,0 +1,117 @@
+Title: Evidence-Based Critical Assessment of the Success Rate of Dental Implants in Smokers: An Umbrella Systematic Review
+Authors: Banerjee U (UB), Rao S (SR), Jose N (NJ), et al. (PD as fourth/consensus reviewer)
+Journal: Cureus, 2024
+DOI: 10.7759/cureus.70067
+PMID: 39449874
+PMCID: PMC11499893
+Source: PubMed Central (full text, JATS via get_full_text_article)
+
+Abstract:
+The aim of this umbrella systematic review is to evaluate the success rate and osseointegration of dental implants in patients with a smoking habit. Electronic database searches of PubMed/Medline, Google Scholar, ScienceDirect, Cochrane Library, and EBSCOhost were done from 2006 until August 2024, using medical subject headings (MeSH) terms. Systematic reviews and meta-analyses (SRMAs) investigating the association between smoking and the rate of success of dental implants based on dental implant failure, marginal bone loss, survival, and peri-implant parameters were deemed eligible. The Assessment of Multiple Systematic Reviews Tool 2 (AMSTAR 2) was used to assess the quality of the included SRMAs. Seventeen systematic reviews have been included. In the reviews, 10 studies included meta-analyses (MAs) that evaluated implant failure rate and marginal bone loss. According to the AMSTAR 2 checklist, one review was scored "high," seven reviews were scored "moderate," seven reviews were scored "low," and two reviews were scored "critically low" quality. The strength of evidence suggests a low level of success and high rate of failure of osseointegration of dental implants in smokers. However, the influence of smoking on the rate of dental implant failure seems to be associated with various factors such as peri-implant inflammatory markers, post-operative infections, etc. Inherently, the conclusion of this review is based on a limited number of systematic reviews.
+
+Introduction and background
+
+Smoking has been long known to cause and aggravate many serious illnesses over time. It has been shown in a previous study that smoking is the leading cause of lung-related diseases, lung cancers, myocardial events, and chronic heart diseases. The use of tobacco, in any form, has been associated with a higher chance of developing severe periodontal diseases. For such a deleterious habit, dental and overall oral health is the first of many that are affected. Hence, dental implant treatment has become a fairly popular procedure to restore the function of the oral health of such affected patients.
+
+Recent SRMAs have reported a higher risk of failure of implants in the included randomized controlled trials (RCTs) and case series. These failures can be mostly attributed to the clinical as well as surgical markers that have been observed to be compromised in smokers, such as gingival and peri-implant parameters. It has also been demonstrated in a few recent research that post-surgical healing and healing after periodontal (non-surgical) procedures is less than satisfactory amongst smokers. The patients' group including smokers respond differently and inadequately to the peri-implant disease therapy. Recent SRMAs have collected their data from the existing RCTs, case series, and other types of research published over the years. These studies were synthesized and analyzed to provide authors with relevant information and evidence. However, with time, a towering amount of research has been produced on this specific connection between smokers and the effect of the habit on the success of dental implants. Researchers are now faced with an insurmountable task of sourcing, collecting, and analyzing the evidence under one platform.
+
+Here, the methodological approach of an umbrella review (UR) brings this overwhelming quantity of evidence together. This helps authors gain a better perspective of the published systematic reviews and meta-analyses (SRMAs). URs also known as a "synthesis of reviews" help researchers collate, analyze, and produce reliable and robust results on previously professionally researched topics. To provide researchers with succinct and laconic reports of the eligible secondary evidence on the matter, in a short timeframe, URs are an efficient approach. To provide significant results for this UR, the use of an appropriate assessment tool is paramount. The evidence reviewed by the tool will determine the level of strength of evidence of the included studies. For the qualitative analysis of systematic reviews (SRs), we have employed an assessment tool with 16 items that are described in the Assessment of Multiple Systematic Reviews Tool 2 (AMSTAR 2).
+
+Review
+
+Methodology
+
+The protocol for this UR was registered in PROSPERO (CRD42024575748) and developed following the recommendations of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines. The following UR was performed in three stages.
+
+Search strategy
+
+Databases, namely, PubMed/Medline, Google Scholar, ScienceDirect, Cochrane Library, and EBSCOhost, were comprehensively searched for literature on existing SRMAs from Jan 2006 till August 2024. In the first stage of the review, two independent reviewers (UB and SR) searched the databases independently and examined the titles and abstracts. After the removal of duplicates and critical screening by applying inclusion and exclusion criteria, full-text reviews were screened by three reviewers (UB, SR, and NJ). All selected SRMAs were evaluated by three authors (UB, SR, and NJ) and denoted as acceptable, or not, for the UR. Any disagreements that arose were resolved by consensus and resolved after discussion with the fourth reviewer (PD). The third stage involved qualitative analysis of included SRMAs with the help of an appropriate tool (AMSTAR 2).
+
+Search terms
+
+MeSH terms: "dental implants" OR "dental implant" OR "implantology" OR "oral implant" OR "smoking" AND "tobacco" OR "nicotine" OR "smoker" OR "non-smoker" AND "systematic review" OR "review" OR "implant failure" OR "implant failure rate" OR "implant success" OR "dental implant failure" OR "implant success rate" OR "success rate" AND "marginal bone loss" OR "post operative bone loss" OR "bone loss" OR "implant survival" OR "osseointegration" OR "osseo-integration" OR "bone healing" AND "cigarette smoking" OR "cigarette smoke".
+
+Inclusion criteria and exclusion criteria
+
+SRs alone and SRs with meta-analyses (MAs) presented within the time frame of 2006 to August 2024, written and published in English, were included in the present UR. Reviews that include success rate and osseointegration in their outcomes. Reviews that included qualitative and quantitative analysis of studies were included while literature reviews, scoping reviews, cohort studies, case reports, and case series were excluded. Any reviews presented before the year 2006 were excluded. Reviews with no definite outcomes and analysis were excluded. Reviews written and published in languages other than English were also excluded.
+
+Research question
+
+What is the strength of evidence in SRs regarding the success rate and successful osseointegration of dental implants in smokers?
+
+PICOS: P - Patients who have received dental implants for missing tooth/teeth; I - Patients who have a chronic smoking habit; C - Patients who do not smoke; O - Success rate and osseointegration of dental implants; S - SRs with/without MAs.
+
+Data collection
+
+The characteristics of included reviews were extracted by one author (UB) and entered in tables, which were checked for accuracy and trueness by another author (PD) independently. The chart included the authors' name, year of publication, country, number of studies included, total number of implants studied, design of studies included, meta-analysis performed or not, p-value of included studies, outcomes evaluated, quality assessment tool used, and conclusions.
+
+Qualitative assessment
+
+The AMSTAR 2 criteria are a 16-item checklist used as an evaluation tool for SRMAs. The included reviews were appraised by three reviewers (UB, SR, and NJ) independently. Each review received a score based on whether the answer was "yes," "no" or "partial yes." The SRs were scored as "critically low quality," "low quality," "moderate quality," and "high quality." Disagreements were solved by discussion with the fourth reviewer (PD).
+
+Results
+
+Included Studies
+
+The comprehensive literature search identified 2,563 SRMAs in the initial search. After screening, 364 reviews remained after title/abstract reading and removing duplicates. According to eligibility, 24 SRMAs met all the criteria; full-text data were unavailable for seven reviews. Therefore, 17 reviews and 10 MAs were included in this umbrella review. A PRISMA flowchart documents the selection of articles.
+
+The included SRs were presented between 2006 and 2024, ranging from four to 292 primary studies each. Study designs of the primary studies evaluated ranged from retrospective, prospective, to case-control, and randomized controlled trials. MAs were performed in 10 of the 17 SRs included.
+
+Quality (AMSTAR 2): one review scored "high quality," seven scored "moderate quality," seven scored "low quality," and two scored "critically low" quality (out of 16 total points; 1-4 critically low, 5-8 low, 9-12 moderate, 13-16 high). The level of strength of evidence overall was inferred as "high" in one, "mediocre" (moderate) in seven, and "low" in nine of the included studies.
+
+Discussion
+
+URs are structured, schematic, and systematic assessments of various SRMAs performed on a specific scientific topic. Since the early 1980s, dental implants have become accessible to the general population, and primary and secondary sources of evidence have recorded data about the risk of placement of implants in smokers.
+
+Among the 17 included reviews, 15 SRMAs reported statistically significant results, and two reviews did not report relevant p-values. Quality assessment tools used were not reported in two studies. The events evaluated across studies comprised peri-implant health, marginal bone loss, post-operative infection, lack of/low level of osseointegration, rate of failure, and frequency of smoking.
+
+Farronato et al. investigated crestal bone loss (CBL), bleeding on probing (BoP), probing depth (PD), plaque index (PI), and peri-implant sulcular fluid parameters relative to smoking; smokers and nonsmokers had statistically significant and different outcomes for surgical and non-surgical treatments. For nonsmokers, the success rate with bone loss greater than 5 mm was about 50%, while for smokers it was less than 20%. Ex-smokers vs current non-smokers comparisons of clinical/radiographic/gingival crevicular parameters were inadequate and not statistically significant.
+
+Mechanistically: crevicular proinflammatory biomarkers (TNF-alpha, IL-1b) are released by macrophages responding to bacterial lipopolysaccharides, triggering osteoclastogenesis and bone resorption; these were significantly higher in current smokers (especially traditional cigarette smokers vs e-cigarette users) than ex-smokers/non-smokers. Nicotine suppresses gene expression of enzymes involved in osteoblast proliferation/differentiation/apoptosis, affecting bone formation and remodeling. Smokers show higher oxidative stress markers and free radicals, which may activate bone pro-resorption pathways via osteoclast activity, and smoking may affect the RANKL-RANK-OPG pathway, interfering with bone healing.
+
+Mustapha et al. concluded implants placed in smokers had higher rates of failure and marginal bone loss, likely due to smoking toxins' effects on bone metabolism, osteogenesis, and angiogenesis; smoking suppresses angiogenesis-related physiological/biochemical processes, reducing blood supply and impairing tissue healing/remodeling; there was a statistically significant difference in failure rate by implant location (mandible/maxilla) between groups.
+
+Naseri et al. (meta-analysis) found a statistically significant risk of implant failure (p=0.001) among smokers consuming ≥10 cigarettes/day vs nonsmokers, but no significant difference between 15 vs 20 cigarettes/day subgroups. Hinode et al., Ismail et al., Turri et al., Chambrone et al., Al-Qamshaa et al., and Caggiano et al. also found significant relationships between smoking and osseointegrated implant failure / peri-implant marginal bone loss.
+
+Moraschini et al. found implant failure rate higher among smokers than nonsmokers, though the MA found the rate of implant failure did not increase with longer follow-up time (p=0.26); marginal bone loss difference between smokers/nonsmokers was statistically significant, favoring nonsmokers. Strietzel et al. reported weighted mean values/SD of female/male distribution by observation period. Akel recommends a period of smoking abstinence covering pre-surgical evaluation, initial therapy, definitive implant treatment, and immediate post-op phases for active smokers.
+
+The review concludes the success of dental implants and rate of osseointegration is compromised due to changes in periodontal, peri-implant, and bone markers from nicotine/smoking, but notes a lack of high-strength evidence in existing SRMAs — only one high-quality SRMA was found among the 17 included, with seven of moderate strength.
+
+Table 1 — Characteristics of included reviews (author/year, country, n studies, n implants, study designs, MA yes/no, p-value, outcomes, QA tool, conclusion) — selected rows:
+
+- Moraschini et al. (2015), Brazil, 15 studies, 25,130 implants, retrospective-10/prospective-5, MA yes, p<0.00001, marginal bone loss & implant failure rates, NOS tool. Conclusion: statistically significant difference in MBL favoring non-smoking group.
+- Alfadda (2018), Canada, 10 studies, 3,304 implants, prospective cohort-6/prospective-1/RCT-3, MA yes, p<0.001, implant failure rate & MBL, MOOSE/STROBE. Conclusion: smoking associated with significantly increased implant failure and MBL, attributed to tobacco chemicals reducing peri-implant tissue vascularity.
+- Mustapha et al. (2022), Malmo Sweden, 292 studies, 35,511 implants, retrospective, MA yes, p<0.001, implant failure & MBL, NIH QA tool. Conclusion: implants in smokers present 140.2% higher risk of failure than non-smokers; significant differences by maxilla/mandible location and MBL; no clear influence of follow-up time.
+- Chrcanovic et al. (2015), Malmo Sweden, 107 studies, 19,836 implants, RCT-4/case-control-16/prospective-16/retrospective-71, MA yes, p<0.00001, implant failure, postoperative infection, MBL, NOS. Conclusion: results interpreted with caution due to uncontrolled confounders; implant insertion in smokers affects failure rates, postoperative infection incidence, and MBL.
+- Naseri et al. (2020), Isfahan Iran, 23 studies, retrospective-16/clinical trial-1/prospective-6, MA yes, p<0.001, implant failure by cigarettes/day (<10, >10, <20, >20), NOS. Conclusion: risk of implant failure elevated with increasing cigarettes/day.
+- Farronato et al. (2022), Varese Italy, 7 studies, 284 implants, prospective-7, MA no, peri-implantitis/peri-implant mucositis, NOS. Conclusion: implants in smokers present 140.2% higher failure risk than non-smokers.
+- Akram et al. (2018), Perth Australia, 4 studies, 256 implants, retrospective, MA yes, p=0.001, peri-implant bone loss/PD/plaque index/BoP, NOS. Conclusion: water pipe smoking detrimental to peri-implant health.
+- Telleman et al. (2011), Groningen Netherlands, 29 studies, 2,611 implants, RCT-1/prospective cohort-28, MA no, p>0.05, implant failure rate, Dutch Cochrane Centre tools. Conclusion: failure rate 0.008 in studies including smokers vs 0.004 excluding smokers; short implants (<10mm) can be placed successfully with better prognosis in mandible of non-smokers.
+- Hinode et al. (2006), Japan, 19 studies, 1,122 implants, cohort-7/case-control-12, MA yes, p<0.05, osseointegrated implant failure. Conclusion: failure elevated with increasing cigarettes/day.
+- Strietzel et al. (2007), Germany, 35 studies, 16,508 implants, RCT-1/prospective-11/retrospective-21, MA yes, p 0.03-0.05, implant failure in smokers. Conclusion: significantly enhanced risks of biological complications among smokers; five studies showed no significant impact on prognosis with particle-blasted/acid-etched/anodic-oxidized surfaces.
+- Ismail et al. (2021), Cairo Egypt, 9 studies, 3,251 implants, prospective cohort-6/RCT-3, MA no, p=0.002, implant failure, ROB2/ROBINS-I/Cochrane tools. Conclusion: implant placement in smokers possible with periodontal therapy/oral hygiene; quality of evidence deficient, results cautious.
+- Turri et al. (2016), Gothenburg Sweden, 6 studies, 1,399 implants, retrospective cross-sectional-2/case-control cross-sectional-2/cross-sectional-2, MA no, p<0.001, probing pocket depth/BoP/MBL, NOS. Conclusion: smoking and diabetes are biologic factors associated with peri-implantitis.
+- Chambrone et al. (2015), Brazil, 8 studies, 1,011 implants, retrospective case series-5/prospective case series-2/RCT-1, MA no, p=0.0001, implant loss/radiographic evaluation, NOS + Cochrane. Conclusion: smoking associated with implant failure in most individual studies and overall MA, but not confirmed when only prospective data assessed.
+- Akel (2019), Pennsylvania USA, 23 studies, 23,529 implants, retrospective-12/RCT-3/prospective-7, MA yes, p<0.05, number of failed implants/peri-implant MBL, Cochrane RoB + NOS. Conclusion: recommends period of abstinence covering pre-surgical evaluation, initial therapy, definitive implant treatment, and immediate post-op phases for active smokers.
+- Ghanem et al. (2017), Pakistan, 8 studies, 80 implants, case-control, MA yes, p=0.014, bone-to-implant contact (BIC)/osseointegration, CASP checklist. Conclusion: detrimental effects of tobacco smoking on osseointegration cannot be disregarded.
+- Al-Qamshaa et al. (2022), Riyadh, 123 studies, RCT-16/prospective-10/prospective controlled-10/retrospective observational-87, MA no, implant failure & MBL, NIH QA tool. Conclusion: implants in smokers present higher failure risk than non-smokers.
+- Caggiano et al. (2022), Italy, 7 studies, case control-2/cross-sectional-2/cohort-1/prospective-2, MA no, p<0.05, effect of smoking cessation on clinical/radiographic/crevicular periodontal parameters around natural teeth, ROBINS-I tool. Conclusion: findings on clinical/crevicular periodontal parameters contrasting when comparing ex-smokers to current/non-smokers, favoring nonsmokers.
+
+Table 2 — Summary of meta-analyses (selected):
+- Moraschini 2015: MBL between maxilla/mandible & implant failure rate, p<0.00001, RR 2.53, 95% CI 0.24-0.55 (as reported), I²=23.6%.
+- Alfadda 2018: implant failure rate & MBL, p<0.001, RR 2.92, 95% CI 1.76-4.83, I²=65.8%.
+- Mustapha 2022: implant failure & MBL, p<0.001, RR 2.91, 95% CI 2.055-3.997, I²=37.351%.
+- Chrcanovic 2015: implant failure/postop infection/MBL, p<0.00001, RR 2.23, 95% CI 1.96-2.93, I²=51%.
+- Naseri 2020: >20/>10/>15 cigarettes/day vs non-smokers, p<0.001, RR 2.45, 95% CI 1.42-4.22, I²=71.0%.
+- Akram 2018: peri-implant bone loss/PD (waterpipe vs non-smokers), p=0.001, RR 2.49, 95% CI 1.01-3.97, I²=94.16%.
+- Hinode 2006: osseointegrated implant failure, p<0.05, RR 2.17, 95% CI 1.67-2.83, OR=2.17.
+- Strietzel 2007: implant failure in smokers, p=0.013, RR 2.38, 95% CI 1.93-2.93, OR=2.25.
+- Chambrone 2015: implant loss/radiographic evaluation, p=0.0001, RR 1.87, 95% CI 1.35-2.58, Chi²=2.32.
+- Akel 2019: implant failure rate/peri-implant MBL, p<0.00001, RR 2.24, 95% CI 1.9-2.64, I²=97%.
+
+Table 3 — AMSTAR 2 total scores and strength-of-evidence category:
+Alfadda 8 (Low), Mustapha 11 (Moderate), Chrcanovic 7.5 (Low), Naseri 7.5 (Low), Farronato 9 (Moderate), Akram 7 (Low), Telleman 7 (Low), Hinode 4 (Critically low), Strietzel 12 (Moderate), Ismail 12 (Moderate), Turri 4.5 (Critically low), Moraschini 16 (High), Chambrone 12 (Moderate), Akel 12 (Moderate), Ghanem 11.5 (Moderate), Al-Qamshaa 5 (Low), Caggiano 8 (Low).
+
+Conclusions
+
+Although smoking is known to be harmful to implant health, TNF-alpha and crevicular IL-1b were found to be significantly higher in patients with present smoking habits. Patients who smoke had a noticeably higher rate of implant failure. Nicotine affects bone formation and remodeling by suppressing gene expression of numerous enzymes. Smokers have higher levels of oxidative stress markers and free radicals, affecting osteoclast development/activity and triggering bone pro-resorption pathways. There was strong evidence that smokers had increased marginal bone loss, peri-implant inflammation, loss of osseointegration, and postoperative infection risk. There was an exponentially higher risk of implant loss amongst smokers who consume ≥10 cigarettes/day than nonsmokers. Smoking is not an absolute contraindication for implant treatment, but clinicians should educate patients on smoking cessation and awareness when dental implant treatment is necessary.
