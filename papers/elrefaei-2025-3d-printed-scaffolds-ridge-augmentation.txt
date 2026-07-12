@@ -1,0 +1,158 @@
+Title: Customized 3D-Printed Scaffolds for Alveolar Ridge Augmentation: A Scoping Review of Workflows, Technology, and Materials
+Authors: Elrefaei SA, Parma-Benfenati L, Dabaja R, et al.
+Journal: Medicina, 2025
+PMID: 40731898
+PMCID: PMC12298361
+DOI: 10.3390/medicina61071269
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+=== ABSTRACT ===
+
+Bone regeneration (BR) is a cornerstone technique in reconstructive dental surgery, traditionally using either barrier membranes, titanium meshes, or perforated non-resorbable membranes to facilitate bone regeneration. Recent advancements in 3D technology, including CAD/CAM and additive manufacturing, have enabled the development of customized scaffolds tailored to patient needs, potentially overcoming the limitations of conventional methods. A scoping review was conducted according to the PRISMA guidelines. Electronic searches were performed in MEDLINE (PubMed), the Cochrane Library, Scopus, and Web of Science up to January 2025 to identify studies on digital technologies applied to bone augmentation. Eligible studies encompassed randomized controlled trials, cohort studies, case series, and case reports, all published in English. Data regarding digital workflows, software, materials, printing techniques, and sterilization methods were extracted from 23 studies published between 2015 and 2024. The review highlights a diverse range of digital workflows, beginning with CBCT-based DICOM to STL conversion using software such as Mimics and Btk-3D. Customized titanium meshes and other meshes like Poly Ether-Ether Ketone (PEEK) meshes were produced via techniques including direct metal laser sintering (DMLS), selective laser melting (SLM), and five-axis milling. Although titanium remained the predominant material, studies reported variations in mesh design, thickness, and sterilization protocols. The findings underscore that digital customization enhances surgical precision and efficiency in BR, with several studies demonstrating improved bone gain and reduced operative time compared to conventional approaches. This scoping review confirms that 3D techniques represent a promising advancement in BR. Customized digital workflows provide superior accuracy and support for BR procedures, yet variability in protocols and limited high-quality trials underscore the need for further clinical research to standardize techniques and validate long-term outcomes.
+
+=== FULL TEXT ===
+
+1. Introduction
+
+Bone regeneration (BR) is a common surgical approach for bone reconstruction and augmentation. Guided bone regeneration (GBR) is based on using bone-grafting materials combined with barrier membranes, which allow tissue exclusion during the healing phase to promote bone regeneration and enable the placement of dental implants in anatomical areas with vertical, horizontal, or combined bone defects.
+
+Wang and Boyapati described, in 2006, the four major biologic principles (the PASS principle) necessary for predictable bone regeneration and, between them, the importance of space maintenance/creation to facilitate adequate space for bone ingrowth, and none of them exclusively involved using barrier membranes. The barrier function is one of the key elements in GBR since it protects against the penetration and colonization of soft tissues. Since expanded polytetrafluoroethylene (e-PTFE) was first introduced in 1969, and was later sintered with pores between 5 and 20 mm to provide some periosteal blood infusion, several other barriers were introduced, including high-density polytetrafluoroethylene (D-PTFE) and resorbable collagen and polymeric membranes. However, all showed mechanical hindrance due to the lack of space maintenance/creation function, as the membrane collapses into the underlying soft tissue defect, leading to subsequent shrinkage of the underlying graft. This was later mitigated by using a titanium framework to provide space maintenance and prevent the dPTFE membrane collapse.
+
+In their classic forms, commercially available titanium meshes were advocated as a gold standard for vertical and horizontal alveolar ridge augmentation (ARA) for their malleability and mechanical integrity, which maintains an unaltered graft space. However, these membranes pose challenges during surgery, including difficulties in modeling and fixing, which renders the process time-consuming. The perforated structure of the mesh does not impede the periosteal blood supply; however, it does not restrain fibrous tissue invasion, is difficult to remove surgically, and contributes to soft tissue dehiscence. Van Steenberghe et al., in 2003, utilized occlusive titanium barriers to completely conceal the underlying graft and safeguard the blood clot while simultaneously utilizing the high endosteal perfusion of the maxillary and calvarial bones to guide bone regeneration.
+
+The rapid advancement of 3D digital technology has seen the introduction of a customized 3D computer-aided design and manufacturing (CAD-CAM) workflow, resulting in the development of a CAD/CAM titanium mesh for protected bone augmentation. Customized titanium meshes have gained popularity due to their ease of use, efficiency, and adaptability to the patient's specific anatomy. These meshes are durable and rigid and provide excellent structural support for bone grafts, reducing the risk of graft displacement.
+
+Fabricating customized titanium meshes using conventional subtractive manufacturing methods is highly challenging. In this context, the layer-by-layer technique of additive manufacturing (AM) has emerged as a key technology for producing complex, patient-specific scaffolds and components for biomedical applications. Several AM techniques are employed for titanium printing, including powder bed fusion (PBF), direct energy deposition (DED), and binder jetting.
+
+The PBF techniques selective laser melting (SLM) and electron beam melting (EBM) are widely used for metal 3D printing. More specifically, SLM uses a high-powered laser to selectively fuse metal powder according to a target design. SLM has the capability to fabricate intricate, high-resolution porous architectures with excellent mechanical properties, making it a suitable choice for patient-specific applications. SLM is especially advantageous for fabricating porous titanium components because of its superior resolution, precision, and mechanical performance. However, a limitation of the SLM process is the partially melted residual powders on the surface, requiring post-processing treatments such as chemical or electrochemical etching, followed by autoclave sterilization to ensure the component is free of biological contaminants.
+
+Another advantage of SLM is the elimination of internal support structures, which reduces design constraints and allows for the production of high-resolution components with micro-scale features. These advantages make SLM an optimal technique for creating scaffolds and meshes tailored to individual patient needs.
+
+The design and analysis process using 3D scans of defective sites is a promising means to advance operative procedures as well as in fabricating implants, especially in severely defective sites. According to a narrative review, the process for the 3D printing of patient-specific implants (including dental and grafting applications) consists of three main phases: image acquisition, post-processing, and 3D printing. The image acquisition step involves obtaining patient data, typically through computed tomography scans. In the post-processing phase, the site is reconstructed according to the scan, and using computer-aided design (CAD), the implant or graft is designed. The resulting file from the CAD is then 3D-printed.
+
+Kim et al. conducted a randomized study with a customized 3D-printed ceramic bone graft, where they used CAD software to design a patient-specific bone graft based on radiographic and computed tomography scans. Similarly, Tallarico et al. conducted a case study of a customized 3D-printed titanium mesh for an alveolar ridge; the process followed a three-step process: CT scan, STL derivation from DICOM data, and CAD/CAM design of the customized titanium mesh, 3D-printed by New Ancorvis Srl. Ivanovski et al. used a similar framework to design and verify a scaffold over a contour of missing bone for staged alveolar bone augmentation before implant placement, fabricated using bioprinting.
+
+Overall, the framework for fabricating patient-specific scaffolds consists of image-acquisition techniques to characterize the defective area, a CAD-based design process, and fabrication of the resulting STL file using appropriate 3D printing methods.
+
+In this scoping review, the 3D planning and printing literature was systematically mapped, focusing on current advancements and emerging trends, including software, materials, printing techniques, and sterilization methods.
+
+2. Materials and Methods
+
+This scoping review adhered to PRISMA-ScR guidelines. Ethical approval was not required.
+
+2.1. PICO Question
+
+In adult patients undergoing bone regeneration (BR) procedures, what is the impact of using customized digital workflows for 3D planning and printing on clinical and radiographic outcomes compared to conventional methods?
+
+Search strategy: (cad cam[Title/Abstract]) OR (customized[Title/Abstract]) OR (computer aided[Title/Abstract]) OR (digital[Title/Abstract]) OR (digitally[Title/Abstract]) OR (digital workflow[Title/Abstract]) OR (digital planning[Title/Abstract]) AND (bone reconstruction[Title/Abstract]) OR (bone regeneration[Title/Abstract]) OR (bone grafting[Title/Abstract]) OR (alveolar ridge augmentation[Title/Abstract]).
+
+P (Population): Adult patients requiring BR for alveolar ridge augmentation.
+I (Intervention): Additive (printing) and subtractive (milling) manufacturing of scaffolds.
+C (Comparison): Conventional BR techniques using preformed or manually shaped barrier membranes and grafts.
+O (Outcomes): Clinical outcomes (implant success, complications, operative time) and radiographic outcomes (residual bone height, bone gain).
+
+2.2. Article Eligibility Criteria
+
+Included: peer-reviewed studies (RCTs, non-randomized trials, cohort studies, case series, retrospective studies) evaluating digital workflows for BR, reporting at least one clinical or radiographic outcome, published in English between 1 January 2015 and 1 January 2025.
+Excluded: in vitro studies, animal studies, commentaries, narrative reviews, unpublished data, expert opinions, isolated case reports.
+
+2.3. Information Sources and Search Protocol
+
+Electronic search in MEDLINE (PubMed), Cochrane Library, Scopus, and Web of Science. Final search executed 27 February 2025. PRISMA flow diagram included.
+
+2.4. Article Selection
+
+Two independent reviewers (SE and LPB) screened titles/abstracts using Covidence. Full-text articles assessed against inclusion/exclusion criteria. Discrepancies resolved by discussion, third reviewer (MHAS) as arbiter.
+
+2.5. Data Extraction
+
+Data independently extracted by two reviewers and verified. Extracted: study characteristics (year, design, sample size, follow-up), digital workflow details (planning software, file conversion, design protocols), materials, printing/sterilization techniques, clinical/radiographic outcomes. Multiple measurements per site averaged.
+
+3. Results
+
+23 studies included, published 2015-2024: nine RCTs, one prospective study, two pilot studies, five case series, five retrospective case studies, one clinical trial.
+
+3.1. Workflow
+
+Common workflow across all scaffold types:
+1. Analyze patient bone condition using CBCT → DICOM file.
+2. Transfer DICOM to STL-extension file, analyzed using 3D software (e.g., Dragonfly).
+3. Surgeon augments defective areas in 3D software for treatment plan visualization.
+4. Membrane designed to correspond to augmented areas — thickness, design (perforated vs non-perforated), number/location of fixation screws, implant location opening.
+5. Preprinting parameters predetermined.
+6. 3D printer used to print the customized mesh.
+
+A secondary software application converts STL files into printer-readable format; software varies by printer manufacturer. In some studies printer manufacturer/software not specified.
+
+3.2. Digital Planning Software
+
+Six of nineteen studies used Mimics software (Materialise, Leuven, Belgium, different versions). Five studies used Biotec software Btk-3D (Biotec Srl, Dueville, Vicenza, Italy), four with the same principal investigator. Felice et al. (2024) used 3D Slicer (Boston, MA, USA). Sagheb et al. and Chiapasco et al. used Yxoss CBR by ReOss. Li S. et al. used TRIOS 3 (3Shape, Copenhagen, Denmark). Mekcha et al. (2023) used Dent-Plan (NECTEC, Thailand). Four case series did not specify software.
+
+3.3. Materials Utilized
+
+Sixteen studies reported titanium alloy: three specified grade IV titanium (Mohamed et al. noted supplied as a block), four used Ti64 (pre-alloyed TiAlV fine powder), three did not specify titanium type. Cucchi et al. studies used grade V titanium in micro-powder form.
+
+PEEK (Poly Ether-Ether Ketone) mesh also used: El Morsy et al. RCT described mesh made from a PEEK block; another study compared custom PEEK mesh test group vs 3D-printed titanium mesh control group.
+
+Three studies developed 3D-printed bone graft materials: Kim et al. printed synthetic alloplastic bone graft using 60:40 hydroxyapatite/β-tricalcium phosphate mixture. Mekcha et al. used 3D-printed nanohydroxyapatite in a case series. Wang et al. milled pre-cut cortico-cancellous freeze-dried allogenic bone blocks.
+
+3.4. Material Thickness
+
+Mesh thickness varied to meet clinician needs and exert external force pressure, ranging from 0.1 mm (initially calibrated at 0.3 mm, reduced through metal lamination after printing) to 2 mm. Average thickness across studies was 0.5 mm; seven studies did not specify.
+
+3.5. Type of Mesh
+
+Categorized as perforated, semi-occlusive, or occlusive/not perforated. Three studies used occlusive titanium mesh, one used occlusive PEEK mesh. Felice et al. RCT compared occlusive mesh vs semi-occlusive mesh with pores 0.3 mm diameter. Sixteen studies used perforated titanium mesh. Mounir et al. RCT contrasted perforated titanium mesh (control) vs perforated custom PEEK mesh (test). Only two studies specified pore size, calibrated at 1 mm diameter.
+
+3.6. Printing Method
+
+Three distinct printing methods: direct metal laser sintering (DMLS) — nine studies; five-axis milling — five studies; selective laser melting (SLM) — seven studies. Li S. et al. retrospective study did not specify printing method/printer.
+
+Milling is subtractive (removes material via cutting); sintering is additive (fuses powder particles via heat/pressure below melting point).
+
+Ciocca et al. used DMLS with titanium alloy fine powder. Cucchi et al. studies used SLM for titanium alloy grade V micro-powder.
+
+SLM process: powder bed, build plate, recoater, laser source. 3D bone scan/CAD model imported into preprocessing software defining print parameters, part orientation, quantities. Printing occurs in inert atmosphere to prevent oxidation. Fresh powder layer recoated onto build plate, selectively fused by high-energy laser per CAD pattern; build plate lowered incrementally after each layer; iterative until part fabricated.
+
+3.7. Sterilization Method
+
+Three articles: titanium meshes autoclaved at 135°C for 15-20 min. Three studies: meshes sterilized using 2.4% glutaraldehyde solution for 12 h. Li et al. retrospective study reports high-temperature/high-pressure sterilization without specifying autoclave. Remaining studies received meshes pre-sterilized from manufacturer or did not specify. For 3D bone materials, one study sterilized via soaking in disodium hydrogen phosphate solution for 24 h to convert to hydroxyapatite structure, then dried and sterilized with ethylene oxide gas.
+
+3.8. Fitting/Fixation
+
+Clinical trials during surgical phase used 2-3 fixation screws, primarily buccal side. Titanium pins secured freeze-dried allogenic bone. In two studies with 3D bone graft material, no fixation screws required — materials fit perfectly into defects without movement.
+
+4. Discussion
+
+Biomaterial engineering and CAD-CAM technology have created new alternatives to autograft materials, including customized meshes tailored to clinician needs. This review investigated workflow, techniques, and materials for 3D-printed scaffolds used in BR techniques.
+
+Studies included were published within the last ten years, reflecting topic novelty. Two other recent reviews agree that partially or fully digital workflows can be successfully used in BR and regenerative surgeries: Shi et al. limited analysis to customized barrier membranes (workflow, materials, advantages/disadvantages); Tommasato et al. explored digital technologies for bone augmentation, proposing a decision tree evaluating hard/soft tissue defects and surgical techniques.
+
+The innovation of this paper is explaining to clinicians the several steps of the digital workflow, including software, materials, and 3D printer cited in the literature.
+
+Initial step: converting DICOM to STL files. Most commonly used software: Mimics, followed by Btk-3D. Second step: design software for mesh/bone per clinician/surgery necessity — can be avoided when CAD software is directly linked to the CAM 3D printer provided by the company (STL files sent directly to company for design/print/sometimes sterilization, under clinician's final approval). Wang et al. did not report design software; STL files sent to company that milled, cleaned, packaged freeze-dried allogenic bone from the iliac crest.
+
+Superimposition technique (e.g., Yang et al., using 3-Matic Materialise) used to compare planned vs created bone augmentation. Other studies used pre-/post-surgery STL files with follow-ups for measurement/evaluation.
+
+Materials discussion: majority used titanium mesh; PEEK also investigated. El Morsy et al. — case series of 14 patients with severely atrophied anterior maxillary alveolar ridges, custom-made CAD/CAM PEEK sheets as containment for particulate autogenous/xenogeneic bone graft mix; radiographic assessment concluded successful ridge restoration, but lacked comparative control group. Mounir et al. RCT (16 patients, vertically/horizontally deficient maxillary ridges) — control group: particulate autogenous/xenogenic bone grafts in prebent titanium mesh; study group: patient-specific PEEK meshes. 3D bone gain % compared along with linear vertical/horizontal dimension changes — both techniques successful, no statistically significant difference between them. Shi et al. review: PEEK barrier has excellent mechanical properties (elastic modulus similar to bone), great biocompatibility; PEEK meshes can reduce operative duration vs manually bent Ti meshes but are more costly and associated with increased complications (e.g., infection).
+
+Three studies on 3D-printed bone: Kim et al. RCT — 60 patients requiring GBR for implant installation post-extraction, randomized to 3D-printed patient-customized bone graft material vs conventional block bone graft material. After 5 months, histological/radiological assessment showed significantly higher percent bone volume and smaller tissue surface area in 3D-printed group vs control; no other significant differences. Suggests 3D-printed material as an alternative to conventional options. Supported by Mekcha et al. case series — specific block graft successful in 10/12 patients without graft adjustments.
+
+Clinicians must weigh cost-effectiveness; from these two studies, advantages appear limited to reduced patient discomfort and shorter fixation/adaptation time rather than dramatic bone-gain differences.
+
+Wang et al. compared customized allogeneic bone blocks vs autogenous bone blocks (n=24) — customized group showed greater horizontal bone gain and less horizontal bone resorption (measured 1 mm below alveolar ridge crest) at 6 months post-surgery vs autogenous bone block group; customized approach also reduced operative time. Findings align with existing literature on satisfactory results using CAD/CAM-customized titanium meshes for bone augmentation.
+
+Most articles did not specify sterilization techniques; titanium mesh compatible with hot and cold sterilization, PEEK meshes only cold sterilization. For bone graft materials, only one study reported sterilization (3D-printed nanohydroxyapatite soaked in disodium hydrogen phosphate solution 24 h, dried, sterilized with ethylene oxide gas); no info for other two studies.
+
+This review focused on the 3D printing workflow process; no comparative bone-graft-material analysis was performed — suggested avenue for future systematic review/meta-analysis.
+
+Growing interest in bioprinting — layer-by-layer manufacturing using organic materials to fabricate human tissue for bone regeneration, using synthetic or natural biomaterials (resorbable or non-resorbable). Natural biomaterials (bioinks, polymer hydrogels, collagen) are biodegradable, mimic soft tissue characteristics, but lack sufficient mechanical strength alone — hybrid natural-material-on-synthetic-scaffold combinations are promising to combine biological cues/cell viability with mechanical integrity.
+
+5. Conclusions
+
+Technological progress parallels innovation in surgical techniques across diagnosis, treatment planning, and surgery, aiding patient-clinician communication, implant position planning, and follow-up bone-gain evaluation. However, the number of studies (particularly RCTs) on digital workflow use remains limited. More studies/clinical trials comparing 3D-customized bone and BR techniques, their advantages and complications, are required.
+
+The use of a titanium/SLM membrane was dominant, with better outcomes compared to other types of customized mesh fabrication.
+
+=== ATTRIBUTION ===
+According to PubMed, this full text was retrieved from PubMed Central. DOI: https://doi.org/10.3390/medicina61071269
