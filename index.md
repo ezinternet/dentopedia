@@ -3539,3 +3539,31 @@ tags: []
 - [[implants/kim-2026-long-term-outcomes-short-standard-implants]] — 후향적 코호트(임플란트 84개, 평균 추적 6.52년) short(6mm) vs standard(8.5mm) 임플란트 MBL 동등(0.05 vs 0.12mm, NS); 삽입 깊이가 MBL과 유의상관(r=0.372) [retrospective]
 - [[implants/lin-2026-ten-year-outcomes-short-dental]] — Short implant(≤6mm) 8편 10년 SR+MA: 생존율 91.2%(PL)/93.7%(IL), long implant 대비 유의하게 낮으나 합병증·MBL(0.277mm)은 차이 없음 [sr+ma]
 - [[implants/ting-2017-surgical-patient-factors-affecting-marginal]] — AMSTAR 종합 SR 41편(2015년까지): 치주염·흡연·남성이 MBL 유의 증가, socket preservation은 MBL 감소, tilted/flapless는 MBL 무영향 [sr]
+
+## Batch ingest (added 2026-07-12) — PubMed "dental implant umbrella review" search 신규 14편 (검색 49건 중 23건 기존중복·12건 무관 제외)
+
+### implants
+- [[implants/dambrosio-2023-systemic-diseases-medications-influence]] — D'Ambrosio 2023 · sr · 우산리뷰(SR 8편, 2017–2022): 항흡수제는 골유착 영향 없음(ONJ 주의), SSRI·PPI는 실패율 부정적 신호(각 ~7.5%, ~4.5%), 당뇨는 단기연구 상충 (DOI 10.3390/dj11060146)
+- [[implants/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — Umbrella SR(J Prosthet Dent 2018, ROBIS 적용 6편 SR+MA): 흡연자 임플란트 관련 메타분석 중 1/6만 낮은 비뚤림 위험, 5/6은 불확실/높은 위험 [sr, abstract-only]
+- [[implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — 당뇨(DM)-임플란트 우산리뷰(SR 12편, AMSTAR2): 실패율 메타분석 3편 모두 DM 대 비DM 유의차 없음, 임플란트주위염 위험은 증가 경향 [sr, abstract-only]
+- [[implants/banerjee-2024-success-rate-dental-implants-smokers]] — Umbrella review(Cureus 2024, PROSPERO, SR 17편/MA 10편): AMSTAR2 high quality 1/17뿐이나 15/17이 흡연→실패/MBL 유의 연관 보고, 용량-반응 확인(≥10개비/일) [sr+ma]
+- [[implants/barros-2021-sjogrens-syndrome-dental-implants]] — Sjögren 임플란트 우산리뷰(SR 4편/722 implants/189명): 성공률 95.22%이나 AMSTAR-2 3편 critically-low·1편 low quality [sr+ma, abstract-only]
+- [[implants/heiderich-2020-methodological-quality-loading-time-implants]] — 다중 임플란트 로딩시기 SR 21편 방법론적 질·비뚤림위험 umbrella review(AMSTAR/ROBIS): 8편 high risk of bias, low-risk 12편만 봐도 로딩시기 간 유의차 없음 [sr]
+- [[implants/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
+- [[implants/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — 우산리뷰(SR 12편, RCT 기반, ROBIS 저위험 8/12): 짧은 임플란트(≤8mm)는 골증대 동반 긴 임플란트 대비 합병증 뚜렷이 감소 [sr, abstract-only]
+
+### implants/surface
+- [[implants/surface/beckwith-2024-implant-coatings-affect-healing]] — Do Implant Coatings Affect Healing of Placed Implants? An Umbrella Review (Beckwith & Devlin, 2024) — 우산리뷰(SR 11편): 코팅이 골유착 개선/MBL 감소시킨다는 근거는 약함 [sr, abstract-only]
+
+### implants/peri-implantitis
+- [[implants/peri-implantitis/chuachamsai-2022-adjunctive-measures-peri-implant-mucositis]] — Umbrella review(SR 12편, 원저 17편): 항생제·프로바이오틱·air-polishing·레이저/PDT 등 보조요법이 비외과기계적세정(NSMD) 단독 대비 유의한 추가이득 없음, AMSTAR2 critically low-low [sr]
+- [[implants/peri-implantitis/giok-2024-risk-factors-peri-implantitis-umbrella]] — Umbrella review(메타분석 41편/원저 12편): 치주염력(OR 3.84)·흡연(RR 2.07)만 highly suggestive, 8개 인자 suggestive, convincing 등급 0개 [sr+ma, abstract-only]
+
+### artificial-intelligence
+- [[artificial-intelligence/mathur-2026-artificial-intelligence-dental-implant]] — AI 임플란트 식별·계획·성공예측 우산리뷰(SR 10편/261건 중 선정): CNN 정확도 >90%, 골유착예측 5/10편만 보고, 딥러닝>전통ML [sr, abstract-only]
+
+### drug/mronj
+- [[drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants]] — Umbrella review(SR 10편, 2014-2024, PROSPERO): 실패 임플란트 524개 중 MRONJ 2-17%; IV 비스포스포네이트 ≥45-60개월 최고위험; AMSTAR2 high 0% [sr+ma]
+
+### complete-denture
+- [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella SR(JBI, 8편: SR 6/SR+MA 1/MA 1, SIGN 1+~1-): 임플란트유지 오버덴처(IROD)가 통상총의치(CCD) 대비 OHRQoL·만족도 우위 [sr, abstract-only]
