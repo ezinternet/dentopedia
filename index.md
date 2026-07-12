@@ -760,6 +760,7 @@ tags: []
 - [[halitosis/huang-2022-efficacy-of-probiotics-in]] — SR+MA of 7 RCTs showing probiotics reduce OLP scores and VSC levels short-term (≤4 weeks); only OLP improvement sustained long-term
 
 ## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)
+- [[endodontics/anatomy/puri-2024-guided-endodontics-treatment-success-umbrella]] — Puri 2024 · sr+ma(umbrella, SR 6편, PMC 풀텍스트) · 정적/동적 가이드 엔도(SN/DN): 근단위치측정 정확도 96.8%, 접근와동 성공률 98.1% — 통상 프리핸드 대비 정밀도·정확도 우위 (DOI 10.7759/cureus.68853)
 - [[endodontics/anatomy/aung-2022-three-rooted-mandibular-first-molars-prevalence-ma]] — Aung 2022 · sr+ma · 하악 제1대구치 3근(원심설측근) 전세계 유병률 치아 8.85%·환자 10.3%, 동아시아>유럽 인종 그라디언트 (DOI 10.1155/2022/9411076)
 - [[endodontics/anatomy/al-rammahi-2023-mandibular-first-molar-microct-anatomy-sr]] — Al-Rammahi 2023 · sr+ma · micro-CT 30편 하악 제1대구치: 근심근 Vertucci Type IV·원심근 Type I 우세, MMC 최대 46%, isthmus 10–100% (DOI 10.1186/s12903-023-03036-5)
 - [[endodontics/anatomy/wolf-2024-maxillary-canines-root-canal-configuration-sr-ma]] — Wolf 2024 · sr+ma · 상악 견치 근관형태 22편: Vertucci I(단일 근관) 75.4–100% 우세, 최대 ~25% 변이 (DOI 10.1186/s12903-024-04682-z)
@@ -1243,6 +1244,9 @@ tags: []
 - [[endodontics/regenerative/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 - [[endodontics/regenerative/li-2026-white-mta-regenerative-apexification-immature]] — SR+MA (Int Dent J 2026, PMC 풀텍스트, 15편): 미성숙 영구치 WMTA 방사선학적 성공 pooled 0.99(6편) — GRADE 매우낮음; PC vs BC 스캐폴드 OR 3.56(NS); WMTA vs 대체 bioceramic 변색률 58.33% vs 7.69%(p=.01)
 - [[endodontics/regenerative/alqedairi-2026-regenerative-endodontic-procedures-immature]] — narrative-review (Cureus 2026, PMC 풀텍스트): REP 생물학적 기전(SCAP·스캐폴드·성장인자)·임상 프로토콜·예후인자 개괄 — 치근단 치유 85–94%, 치근발달 74–81%, 감각회복 25–70%(불확실), 형성조직은 진성 치수 아님
+- [[endodontics/regenerative/asgary-2024-immature-teeth-pulp-necrosis-management-umbrella]] — Asgary 2024 · sr(umbrella, 31 SR/MA, PMC 풀텍스트) · 미성숙 치수괴사치 관리: MTA apexification이 Ca(OH)₂보다 근단폐쇄 신속(전체 성공률은 유사), 재생근관치료(RET)가 치근성숙·근단치유에서 apexification 대비 우세 경향 — 표준화 프로토콜 부재로 근거 낮음 (DOI 10.22037/iej.v19i4.46292)
+- [[endodontics/regenerative/lopes-2021-regenerative-endodontic-procedures-umbrella]] — Lopes 2021 · sr(umbrella, SR 29편, PMC 풀텍스트) · 재생근관치료(REP) 방법론 질 평가 — 10편 critically low·3편 low·14편 moderate·2편 high; 근거 질 낮아 표준화 RCT 필요 (DOI 10.3390/ijerph18020754)
+- [[endodontics/regenerative/rojas-gutierrez-2022-regenerative-endodontics-success-factors-umbrella]] — Rojas-Gutiérrez 2022 · sr+ma(umbrella, 13 SR+7 MA, PMC 풀텍스트) · 재생근관치료(RET) 전체 성공률 50–98%, 생존율 94–100% — 증상소실·치유·치근장 증가·상아질비후·감각회복이 성공 지표 (DOI 10.22037/iej.v17i3.32703)
 
 ## 레진접착 (Resin Bonding)
 - [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] — Delgado 2025 · narrative-review · 4-META는 카르복실산계 단량체로 수용액서 4-MET로 가수분해(pKa 2.9), 10-MDP·GPDM보다 결합·가수분해안정성 열세 (DOI 10.3290/j.jad.c_2297)
@@ -1563,6 +1567,7 @@ tags: []
 - [[endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]] — Kumar 2022 · in-vitro · CeraSeal/Bio-C drop from severe to noncytotoxic (>90%) by 24h; AH Plus stays severely cytotoxic
 - [[endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]] — de Almeida-Junior 2024 · in-vitro · CeraSeal/BioRoot/AH Plus all non-cytotoxic to MC3T3 osteoblasts at 48h; differential Tnf/Ptgs2/Dmp1 induction
 - [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Gaafar 2025 · in-vitro · CeraSeal > NeoSEALER Flo for HGF biocompatibility; both bioceramics dose-dependently cytotoxic/pro-inflammatory, AH Plus highest cytokines
+- [[endodontics/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella]] — Dahikar 2026 · sr+ma(umbrella, SR 7편·RCT 63편, de novo 재메타분석, PMC 풀텍스트) · 바이오세라믹 실러가 에폭시레진 실러 대비 통계적으로 유의하나 임상적으로 미미한 통증 감소(24h SMD −0.15, 48h SMD −0.29), 그 이후 차이 없음 (DOI 10.3389/fdmed.2025.1749298)
 
 ## 근관치료 — GP 콘 소독·교차오염 (Endodontics: GP Cone Decontamination / Cross-infection)
 - [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — NaOCl vs CHX for gutta-percha cone decontamination (SR, 7 in vitro studies)
@@ -1574,8 +1579,11 @@ tags: []
 - [[endodontics/visit-protocol/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (J Endod 2026): hemostatic agents (epinephrine/ferric sulfate/AlCl₃/bone wax/TXA) in periapical surgery — bleeding control, healing
 - [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — Zamparini 2026 · sr+ma(umbrella, 25 SR+MA: 세정9·기구조작8·충전8, PMC 풀텍스트) · 저농도 NaOCl·세정활성화·근관냉동요법→단기 POP↓; rotary가 reciprocating/manual보다 대체로(비일관) POP↓; 실러 유형간 POP 차이 없음 — 충전영역 CCA 17.6%(매우 높은 중복) (DOI 10.3390/jcm15124775)
+- [[endodontics/gowda-2025-guided-tissue-regeneration-surgical-endodontic-outcome-umbrella]] — Gowda 2025 · sr+ma(umbrella+NMA, 14 SR·48 원저, PMC 풀텍스트) · e-PTFE+HA 조합이 외과적 근관치료 치유에 최우수(SUCRA 84.4%, OR 0.13 vs 대조군, NNT≈5); 병용요법 > 단독요법 — 단 27개 추정치 중 Class III 신뢰도는 5개뿐(Class I/II 없음) (DOI 10.4103/JCDE.JCDE_691_25)
+- [[endodontics/pinto-2023-apical-periodontitis-chronic-disease-association-umbrella]] — Pinto 2023 · sr(umbrella, SR 9편, PMC 풀텍스트) · 근단주위염(AP)-전신질환 연관성: 당뇨병·심혈관질환·혈액질환·만성간질환·골다공증·자가면역질환과 양성 연관(중등도 근거), HIV는 무연관 — 근거 이질성으로 정량적 통합 없음 (DOI 10.22037/iej.v18i3.42560)
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
+- [[endodontics/vpt/lopes-2021-vital-nonvital-pulp-therapy-primary-dentition-umbrella]] — Lopes 2021 · sr(umbrella, SR 33편, PMC 풀텍스트) · 유치 생활/실활 치수치료 방법론 질 평가 — 3편 critically low·9편 low·17편 moderate·6편 high; 근거 질 중등도, 표준화 임상 프로토콜 위한 고품질 SR 추가 필요 (DOI 10.3390/jcm11010085)
 - [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — Chawla 2026 · sr+ma (abstract-only) · 유치 비가역성 치수염 펄포토미 vs 펄펙토미: 방사선(RR 1.35, 0.67–2.73; I²=96%)·임상(RR 1.06, 0.95–1.18) 성공 차이 無(12mo) — 단 2편·확실성 매우 낮음, 펄포토미가 minimally invasive 대안 가능성 (DOI 10.1016/j.jdent.2026.106329)
 - [[endodontics/vpt/philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action]] — Philip 2026 · narrative-review (abstract-only) · 유치 비가역성 치수염 펄포토미 7 임상+2 메타: 임상성공 95–100%·방사선 90–100%(6–12mo) → 펄펙토미 대안, 국제 가이드라인 개정 촉구 (DOI 10.1007/s40368-026-01199-7)
@@ -2488,6 +2496,8 @@ tags: []
 - [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] — Rahaf A. Almohareb 2023 · in-vitro · Cyclic fatigue (n=60) — EdgeTaper Platinum > PTG ≈ TruNatomy; only ETP strengthened by 1/10 autoclave cycles
 - [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] — Taha Özyürek 2017 · in-vitro · ProTaper Universal/Next/Gold cyclic fatigue (n=240) — PTG > PTU+PTN baseline; 10× pre-autoclave raises NCF for PTN and PTG
 - [[endodontics/shaping/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue]] — Wafaa A. Khalil 2019 · in-vitro · EdgeEvolve vs PTG — EdgeEvolve superior fatigue/flexibility/surface smoothness in single and double curvature; equivalent Ni/Ti content
+- [[endodontics/shaping/swaminathan-2025-rotary-instrumentation-primary-teeth-cleaning-pain-umbrella]] — Swaminathan 2025 · sr(umbrella, 2 SR/MA, PMC 풀텍스트) · 유치 발수(pulpectomy) rotary vs manual 기구조작: 세정효과 GRADE Low, 술후통증 GRADE Moderate — 근거 이질성으로 우산리뷰 차원 추가 메타분석 없이 서술적 종합 (DOI 10.7759/cureus.87369)
+- [[endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] — Abraham 2025 · sr+ma(umbrella, 8 SR·7 MA, PMC 풀텍스트) · 회전(rotary) vs 왕복(reciprocating) 기구조작 운동학과 근관치료 후 통증 — 근거 상충(일부 rotary 우위, 일부 무차이); 원문 PRISMA 흐름도·초록-본문 불일치 존재(주의) (DOI 10.1016/j.jobcr.2025.06.008)
 - [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]] — Siqueira 2018 · narrative-review · Instruments leave ~10–50% of round/small canals and up to 80% of oval/flattened canals unprepared (worse apically), sheltering biofilm that drives post-treatment AP; rationale for supplementary disinfection (DOI 10.1590/1807-3107bor-2018.vol32.0065)
 - [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] — Lee 2026 · retrospective (case-control, 44 vs 92) · 근관치료 대구치 수직치근파절(VRF) — 치경부 아닌 치근단부 잔존 상아질 과소실이 최강 위험인자; 통합모델 AUC 0.940 (DOI 10.1002/cre2.70293)
 - [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] — Rathke 2024 · in-vitro · Ex vivo 상악중절치(n=18/군) — 최소침습 근관성형(#40/.04)이 관행확대(#80) 대비 VRF·균열 유의하게 줄이지 못함; +MIE/시멘트실러 오히려 무처치보다 저항성↓ (DOI 10.1038/s41598-024-63396-y)
