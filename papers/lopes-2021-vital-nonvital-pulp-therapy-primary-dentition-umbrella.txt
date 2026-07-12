@@ -1,0 +1,124 @@
+Title: Vital and Nonvital Pulp Therapy in Primary Dentition: An Umbrella Review
+Authors: Luísa Bandeira Lopes, Catarina Calvão, Filipa Salema Vieira, João Albernaz Neves, José João Mendes, Vanessa Machado, João Botelho
+Journal: Journal of Clinical Medicine (J Clin Med), 2021, 11(1):85
+PMID: 35011827
+PMCID: PMC8745069
+DOI: 10.3390/jcm11010085
+Published: 2021-12-24
+
+Abstract:
+Dental caries is the most common non-communicable disease in children with significant aesthetic, functional, and quality of life deterioration. Depending on the depth, two approaches may be considered in primary dentition: vital pulp therapy (VPT) or non-vital therapy (NPT). This umbrella review aimed to critically assess the available systematic reviews (SRs) on VPT and NPT. An electronic database search was conducted (PubMed, Embase, Scopus, Cochrane, Web of Science, and LILACS) until June 2021. The Risk of Bias (RoB) of SRs was analyzed using the Measurement Tool to Assess SRs criteria 2 (AMSTAR2). From 272 entries, 33 SRs were included. Regarding the methodological quality, three studies were critically low, nine low, seventeen moderate, and six were rated as high quality. The quality of evidence produced by the available SRs was moderate. Future high standard SRs and well-designed clinical trials are warranted to better elucidate the clinical protocols and outcomes of VPT and NPT.
+
+Full Text:
+
+1. Introduction
+
+Dental caries is the most common non-communicable disease in children with significant aesthetic, functional and quality of life deterioration []. Caries lesions can jeopardize the teeth vitality, as its progression cause infection, pain, and even early tooth loss [,]. Thus, a timely intervention is key to avoid unpleasant consequences for the child. Depending on the depth of caries (which may have pulp involvement), two approaches may be considered in the primary dentition: vital pulp therapy (VPT) or non-vital therapy (NPT) [,].
+
+When the pulp is still recuperable, VPT may be an option and three options are available: indirect pulp treatment (IPT), direct pulp cap (DPC), and pulpotomy [,,,,]. When the caries lesion progresses to the point where pulp necrotizes, then an NPT is performed, such as pulpectomy [].
+
+The efficacy of VPT and NPT has been widely researched [,,,]. However, the variability of designs, techniques, and material contributes to high heterogeneity regarding the evidence produced. IPT is a technique that leaves at the bottom of the cavity some deep caries to avoid pulp exposure, being covered with a biocompatible material to produce a biological seal [,,]. DPC is a procedure in which there is a pulp exposure, being covered with a biocompatible material. There is a controversy about this method since it has shown limited success [,,,]. Pulpotomy is an approach applied when there is a carious pulp exposure and where the entire coronal pulp is removed, hemostasis of the radicular pulp is accomplished, and the remaining radicular pulp is treated with a medicament [,]. In contrast, pulpectomy is a nonvital treatment (NVT), being a root canal treatment with irreversibly inflamed or necrotic pulp resulting from caries or trauma [,,,]. Due to the clinical interest of these procedures in endodontics, several systematic reviews (SRs) have been published. Thus, appraising all the available evidence-based information would be of great interest.
+
+Therefore, this umbrella review aimed to appraise the existing evidence on VPT and NVT in primary teeth. Our main focus was to ascertain the overall clinical efficacy of each procedure and its quality of evidence.
+
+2. Materials and Methods
+
+We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guideline updated in 2020 and the guide for systematic reviews of systematic review. The review protocol was approved a priori by all authors.
+
+The Review question was: "How effective are VPT and NPT for treating deep carious lesion on primary dentition?".
+
+The following PECO statements were set: Population (P)—Patients with deep caries on primary dentition; Exposure (E)—Clinical management; Comparison (C)—VPT (IPT, DPC and pulpotomy) and NPT (pulpectomy); Outcome (O)—Diagnosis and a variety of dental treatment types.
+
+2.1. Eligibility Criteria
+
+The inclusion criteria were as follows: (1) systematic review (with or without meta-analysis); (2) retrieving data from human studies; (3) addressing VPT and NPT on primary teeth. No restrictions to publication year or language were applied. Grey literature was searched through three appropriate databases (accessed in June 2021).
+
+2.2. Information Sources Search
+
+Electronic data search was performed in seven electronic databases: PubMed (via Medline), Scopus, Cochrane Database of Systematic Reviews, Scielo (Scientific Electronic Library Online), EMBASE (The Excerpta Medica Database), LILACS (Latin-American scientific literature in health sciences), and TRIP (Turning Research Into Practise) up to June 2021. Keywords: "(Primary teeth [MeSH] OR Pulp therapy [MeSH] OR Tooth [MeSH]) AND (Pulpotomy OR Pulpectomy OR Vital pulp therapy OR Deciduous teeth) AND (Systematic Review OR Meta-analysis)".
+
+2.3. Study Selection
+
+Two researchers (FV and CC) independently screened titles and abstracts. The agreement between the reviewers was assessed by Kappa statistics. Any paper classified as potentially eligible by either reviewer was ordered as a full-text and independently screened by the reviewers. All disagreements were resolved through discussion with a third reviewer (LBL).
+
+2.4. Data Extraction Process and Data Items
+
+Two researchers (FV and CC) independently extracted: authors and year of publication, objective/focused question, databases searched, number of studies included, type of studies included, main results and main conclusions. All disagreements were resolved through discussion with a third reviewer (LBL).
+
+2.5. Risk of Bias Assessment
+
+Two researchers (FV and CC) employed the MeaSurement Tool to Assess Systematic Reviews (AMSTAR 2) to determine the methodological quality of the included reviews. AMSTAR 2 is a comprehensive 16-item tool that rates the overall confidence of the results of the review. According to the AMSTAR guidelines, the quality of the systematic reviews was considered as follows: High means 'Zero or one non-critical weakness'; Moderate means 'More than one non-critical weakness'; Low means 'One critical flaw with or without non-critical weaknesses'; and Critically low means 'More than one critical flaw with or without non-critical weaknesses'. The estimation of the AMSTAR quality rate for each study was calculated through the AMSTAR 2 online tool.
+
+3. Results
+
+3.1. Study Selection
+
+Electronic searches retrieved a total of 272 titles through the database search. After manual assessment of title/abstract and removal of duplicates, 60 potentially eligible full-texts were screened. Full-text screening excluded thirteen studies with reasons, resulting in thirty-five systematic reviews that fulfilled the inclusion criteria. Inter-examiner reliability at the full-text screening was recorded as high (kappa score = 1.00).
+
+3.2. Study Characteristics
+
+In total, 33 systematic reviews were included in the present umbrella review. All SRs covered a defined timeframe; however, one did not mention such information. Three systematics reviews failed to report a language restriction, seventeen restricted their search to studies in English, one restricted to English and Persian, and the remaining had no language restrictions.
+
+3.3. Methodological Quality
+
+Regarding the methodological quality of SRs, three studies were assessed as of critically low quality, nine as of low quality, seventeen studies as of moderate quality, and six as of high quality. None of the included SR fully complied with the AMSTAR2 checklist. Overall, SRs mostly failed on: reporting on the sources of funding for the studies included in the review (93.9%, n=31); providing a satisfactory explanation for, and discussion of, any heterogeneity observed in the results (27.3%, n=9); reporting any potential sources of conflict of interest, including funding sources (27.3%, n=9); explaining their selection literature search strategy (20.0%, n=7).
+
+3.4. Synthesis of Results
+
+3.4.1. Vital Pulp Therapy
+
+Indirect Pulp Treatment (IPT)
+
+In an IPT approach, the caries lesion is not fully removed during instrumentation to avoid pulp exposure, and the remaining affected dentin is then covered with a biocompatible material as a biological seal.
+
+Dentin coverage with a liner provides no benefit to the IPT clinical success either using calcium hydroxide (CH) or inert materials (adhesive system or glass-ionomer cement [GIC]), and with a certain level of confidence as they are based on SRs of high and moderate methodological quality.
+
+Also, IPT demonstrates higher clinical success rate than pulpotomy, with low confidence. The Hall technique (an adapted IPT approach) showed 78% success versus a 76% success of pulpectomy, with moderate confidence.
+
+Direct Pulp Capping (DPC)
+
+In the DPC approach, the pulp is exposed during caries removal and covered with a biocompatible material.
+
+A high-quality SR concluded that DPC presents an 88.8% success rate regardless of the applied material (CH, dentin bonding agents, MTA and FC) (Coll 2017). These results are corroborated by a moderate quality SR and a high quality Cochrane SR. MTA or enamel matrix proteins do not present uppermost efficacy than CH, and bonding agent directly upon the exposed pulp without previous etching had no significantly different efficacy when compared to CH, MTA or calcium-enriched cement.
+
+Also, DPC was shown to present lower clinical success than pulpotomy with moderate confidence.
+
+Pulpotomy
+
+A pulpotomy is delivered to exposed pulps during deep caries lesions removal with previously confirmed pulp vitality. Clinically, this approach comprises: total coronal pulp removal; successful hemostasis; and coverage of the remaining radicular pulp with a biocompatible material.
+
+A systematic review and meta-analyses with low quality stated no statistically significant difference in the clinical success rate between pulpotomy and pulpectomies in primary incisors.
+
+Regarding the materials required in pulpotomy, the studies were diverse. One systematic review from Cochrane library with high quality stated that the evidence suggests MTA may be the most efficacious medicament to heal the root pulp after pulpotomy. Considering MTA and Biodentine, no significant difference was found in clinical and radiographic success with a moderate quality review and a high-quality review. In turn, MTA showed superior long-term treatment outcome than ferric sulfate (FS) with moderate quality review, and in three meta-analyses with moderate quality, better rates of clinical and radiographic success than formocresol (FC) were also mentioned, as well as CH, also with moderate quality review, with good quality of the RCT and homogeneity among the studies. Another meta-analyses with moderate quality that addressed FC and FS demonstrated no significant difference in terms of clinical and radiographic outcomes. Two studies with low quality that compared MTA, Biodentine, FC, and SF agreed that there was no significant difference between those materials, but MTA was considered a better option, the quality of evidence on the included studies being in one a systematic review regarding the comparisons of Biodentine and formocresol, as well as Biodentine and ferric sulfate, low and very low, respectively. On the other hand, a systematic review with low quality referred MTA as the material of choice, and CH with the worst clinical performance. Another systematic review with low quality compared the previously stated materials with herbal medicines (allium sativum, ankaferd blood stopper, elaeagnus angustifolia, propolis), which found similar clinical and radiographic success rates when compared to the usual pulpotomy materials, the overall quality of research in the clinical success of herbal medicine as a pulpotomy medicament not being adequate. One other systematic review with low quality assessed the effectiveness of FS, which reported a high success rate, but the studies included in the review were with limited evidence of high-quality studies. A meta-analysis with moderate quality presented by Lin et al. (2014) showed MTA had the best performance, followed by FC and CH, and CH had more failures than FC and FS.
+
+Seven systematic reviews also investigated the effect of lasers as well as the materials mentioned above. Several types of lasers were considered, such as diode, Er:YAG, Nd:YAG, He-Ne, CO2, and low level laser. One meta-analysis with low methodological quality showed no statistically significant difference in clinical and radiographic outcomes between laser pulpotomy and conventional pulpotomy. Another meta-analysis with critically low quality revealed that laser had superior clinical results at a 36-month follow-up period. On the contrary, two studies reported that laser had inferior success than conventional pulpotomy techniques, one being of critically low quality, and the other with moderate quality. Finally, another systematic review with low quality showed no significant differences in clinical and radiographic pulpotomy outcomes with laser compared with other techniques. One other meta-analysis with high quality compared different materials, referring that MTA and FC success rates were the highest of all pulpotomy types, including laser, were not significantly different. A recent systematic review from the Cochrane Library with high quality stated that the evidence shows MTA may be the best material for pulpotomy of primary teeth. However, other materials should be considered as alternatives like Biodentine, enamel matrix derivative, laser treatment or Ankaferd Blood Stopper. When these materials are not available, application of sodium hypochlorite is the safest option.
+
+Note that several studies with different quality, but most with moderate quality mentioned that FC, because of its constitution that presents formaldehyde, presents a concern due its potential carcinogenicity, mutagenicity, and cytotoxicity effect.
+
+3.4.2. Non-Vital Pulp Therapy (NPT)
+
+Among the NVT techniques, pulpectomy of primary teeth is indicated when irreversible pulpitis or necrotic pulp occurs.
+
+As far as obturation concerns, resorbable materials are mandatory. Zinc oxide eugenol (ZOE) pulpectomies yielded similar outcome than Vitapex and Sealapex, with moderate methodological confidence. A systematic review from Cochrane with high quality mentioned no conclusive evidence that one medicament or technique is superior to another. Therefore, the choice of medicament remains at the clinician's discretion, since comparison between Metapex and (ZOE) paste was inconclusive, as well as Endoflas and ZOE, and finally suggested ZOE paste may be better than Vitapex. In pulpectomy on primary teeth nearing exfoliation, Ca(OH)2/iodoform was the best filling material to be used, being moderate risk. One other study considered zinc oxide eugenol/iodoform/calcium hydroxide or ZOE fillers perform better than iodoform filler, where the risk of bias was high despite heterogeneity between the studies. Regarding lesion sterilization and tissue repair (LSTR) technique and pulpectomy, two meta-analyses showed a nonsignificant difference, one being with moderate quality, and another one with high quality.
+
+Concerning smear layer, there is no consensus, with one study considering studies at a moderate risk of bias, despite one systematic review only having taken into account two studies. The root canal irrigation has several products despite the controversy on their performance, as the study exhibited moderate risk of bias.
+
+Regarding rotary instrumentation, there are similar clinical and radiographic success rate, but with a better-quality treatment in less time, despite the evidence showing low quality and high quality, although there was heterogeneity among the studies. On the contrary, another study referred there were not enough studies to assess whether rotary versus manual instrumentation affects clinical and radiological success, with a publication bias low.
+
+4. Discussion
+
+This umbrella review clearly summarizes the evidence sourced in VPT and NPT in primary teeth. The methodological quality of the included SRs ranged from very low to high quality, and therefore current evidence is of moderate confidence.
+
+A correct diagnosis of the pulp status is crucial for correct treatment options and therefore for prognosis. In this regard and attending that the preservation of pulp vitality is fundamental, VPT treatment approaches must be considered. IPT allows selective tissue removal when compared to DPC and pulpotomy. IPT does not expose or damage the pulp and allows it to recover and heal by itself; this way selective caries removal is recommended. However, the Hall technique should be considered since it showed a superior success rate compared to non-selective and selective caries removal. On the contrary, DPC is controversial, since there is not sufficient support to recommend it, due to its great occurrence of complications like mobility, percussion sensitivity, swelling, parulis, or presence of fistulous tract. It is considered that DPC can succeed in case of vital pulp or reversible pulpitis without evidence of radicular pathology and appropriate sealing of the cavity. Already, although considering the pulpotomy is an acceptable and common procedure in case of deep caries, its success depends on several factors such as removing caries prior pulp exposure to avoid pulp contamination, rubber dam isolation application of different medicaments, and experience of the professional.
+
+Regarding medicaments, the studies sometimes compare only two or several medicaments, MTA, Biodentine, FC, SF, and sodium hypochlorite being considered suitable despite the heterogeneity of the studies; however, there is an agreement that CH is considered to have a less success rate. In this sense, more well-designed studies with longer follow-up periods and superior methodology are required in order to obtain high evidence. One systematic review highlighted the clinical and radiographic success rates of herbal medicine being suitable replacements to standard pulpotomy medicaments, but due to the heterogeneity of the studies and commercial availability, more studies are necessary to achieve alternatives to the standard medication. Another option has been considered—the laser pulpotomy—which has been described as controversial in its results. Several factors must be determined such as pulp diagnosis, longer observation times, control group, and evaluation of different types of lasers. It is also necessary to take into account that there is a learning curve for laser application, and there are some advantages of the laser on children like less chair time, painless treatment, and no high-speed rotors; thus, more well-designed randomized clinical trials are required.
+
+The lifecycle of primary teeth is fundamental to a normal growth and development of arch length and occlusal balance. Therefore, sometimes, pulpectomy is necessary to keep the tooth in the arch. However, this procedure is a challenge because of the characteristics of the root canal system like side channels and accessories at the apex and furcation regions, as well as the root anatomy itself and the proximity of the apex to the germs of the permanent tooth. Thus, it is of the utmost importance to consider several aspects of the clinical procedure, such as initial pulp condition, type of teeth, manual versus mechanical instrumentation, irrigants used, number of visits, root canal filling material, and type of restoration. Therefore, further studies are important with a bigger sample, higher methodological quality, and particularly with longer follow-up, given the controversy between the studies.
+
+Strengths and Limitations
+
+The present umbrella review benefits from its comprehensive review of the available SRs using a transparent methodology. However, one limitation does need to be accounted for when interpreting the results. In each SR, the individual studies included were not explored. Thus, the conclusions of this review are based on the interpretation of the authors.
+
+5. Conclusions
+
+Both VPT and NPT present high clinical efficacy in primary teeth. The results should be interpreted with caution, as the quality of SRs included is overall moderate. Well-designed clinical trials and high standard systematic reviews are necessary to verify the efficacy of treatment options, clinical outcome efficacy, and material suitability.
