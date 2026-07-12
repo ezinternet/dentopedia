@@ -309,6 +309,8 @@ Required content of the section:
 
 **Wikilink lookup MUST use `qmd query` (MCP tool) — never `grep`, `find`, or `ls` over wiki/.** With 2,600+ pages, filesystem scan is slow; qmd hybrid search returns relevant candidates in under 1 second.
 
+**Soft reminder (non-blocking, not lint-enforced):** before writing `## Why Ingested`, skim the paper's Methods against [[overviews/evidence-appraisal-toolkit]]'s study-type reading-order table (RCT: randomization/allocation concealment/ITT/CONSORT; observational: confounder adjustment/clustering/immortal-time bias; SR+MA: I²/funnel plot/pre-specified subgroups). This is a habit prompt, not a required field — it exists to catch inflated effect sizes or unchecked assumptions before they get cited elsewhere in the wiki.
+
 Example:
 ```
 ## Why Ingested
@@ -549,8 +551,6 @@ The most valuable pages are `wiki/overviews/` pages that synthesize across paper
 > *"Save this as an overview page in wiki/overviews/"*
 
 Each session should produce 5–15 new or updated wiki pages.
-
-After writing a new overview page, run `/clinical-quiz-gate [stem]` before committing to verify the synthesis is clinically sound. 2/3 correct = pass; 0–1/3 = revise first.
 
 ### Overviews domain map (auto-generated — do NOT hand-edit)
 
