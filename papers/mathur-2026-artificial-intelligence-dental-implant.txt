@@ -1,0 +1,23 @@
+Title: Artificial intelligence in dental implant identifications, planning accuracies, and success predictions: An umbrella review.
+
+Authors: Mathur A, Mehta V, Bhadania M, Patil PG
+
+Journal: The Journal of Prosthetic Dentistry (J Prosthet Dent)
+Publication date: 2026-06-09
+PMID: 42264969
+DOI: 10.1016/j.prosdent.2026.05.004
+PII: S0022-3913(26)00349-5
+
+Abstract (from PubMed, get_article_metadata):
+
+Artificial intelligence (AI) applications and related secondary data in implant dentistry have been expanding. However, reviews of these applications differ in their focus, quality, and conclusions.
+
+This umbrella review aimed to consolidate evidence from systematic reviews and meta-analyses evaluating the effectiveness of AI models in implant dentistry.
+
+A comprehensive search was conducted in Science Direct, PubMed-MEDLINE, Scopus, and Embase databases from their inception until April 2025. The review included systematic reviews, with or without meta-analyses, that examined periapical, cone beam computed tomography (CBCT) or panoramic radiographs of patients eligible for dental implants. These reviews assessed the accuracy of the AI model in determining appropriate implant types, predicting implant osseointegration, and forecasting treatment success. An overlap analysis of the primary studies was also performed. The characteristics of AI interventions were analyzed separately to evaluate their influence on implant treatment planning. The quality of the included reviews was appraised using the AMSTAR 2 tool.
+
+From 261 identified records, only 10 studies met the inclusion criteria. Collectively, these studies showed that the AI models, particularly convolutional neural networks (CNN), showed better accuracy of over 90% for treating dental implants and predicting their success, outperforming other AI models. Only 5 reviews reported on AI-driven predictions of osseointegration, underscoring its emerging potential in enhancing clinical decision-making. Deep learning models consistently performed better than traditional machine learning models. Quality assessment using AMSTAR 2 indicated a moderate to high level of confidence.
+
+AI technologies, especially deep learning models, show the potential to enhance implant identifications, planning accuracies, and success predictions in implant dentistry. Nevertheless, challenges such as limited data sets, lack of analyses involving multiple implants, and issues related to standardization remain key barriers to broader clinical adoption.
+
+Note: abstract-only — full text not retrieved (no PMC ID available; Elsevier, not OA). No PDF exists for this stem; this .txt is the source artifact per CLAUDE.md Step 1-T.
