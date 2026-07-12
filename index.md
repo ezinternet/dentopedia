@@ -3467,3 +3467,4 @@ tags: []
 - [[bone-regeneration/zhao-2021-bone-grafts-substitutes-dentistry-review]] — Zhao 2021 · narrative-review(치의학 전반) · 골이식재·대체재 종합(자연/합성/복합/성장인자/세포이식) — 자가골만이 4가지 생물학적 특성(골형성·골유도·골전도·골고정) 모두 충족
 - [[bone-regeneration/janjua-2022-autogenous-tooth-bone-grafts-narrative]] — Janjua 2022 · narrative-review · 자가치아유래골이식재(AUTO-BG)의 생물학·제작·임상적용·합병증 종합
 - [[bone-regeneration/depace-2025-bone-regeneration-treatment-strategies-review]] — De Pace 2025 · narrative-review · 정형외과/종양학 포함 골이식재 전략(자가/동종/이종/합성/복합) 종합, 상업 제품 카탈로그 수록
+- [[bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms]] — Elgali 2017 · narrative-review · GBR 차폐막 재료·기전 — 막을 수동적 장벽이 아닌 능동적 생물학적 구획으로 재조명
