@@ -3469,3 +3469,57 @@ tags: []
 - [[bone-regeneration/depace-2025-bone-regeneration-treatment-strategies-review]] — De Pace 2025 · narrative-review · 정형외과/종양학 포함 골이식재 전략(자가/동종/이종/합성/복합) 종합, 상업 제품 카탈로그 수록
 - [[bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms]] — Elgali 2017 · narrative-review · GBR 차폐막 재료·기전 — 막을 수동적 장벽이 아닌 능동적 생물학적 구획으로 재조명
 - [[bone-regeneration/sun-2025-3d-printed-scaffold-bone-defect-repair]] — Sun 2025 · narrative-review · 3D프린팅 스캐폴드 재료(금속/고분자/생체세라믹)·기공-역학 트레이드오프·바이오프린팅 기법 — 치과 특이적이 아닌 골결손 전반
+
+## Batch ingest (added 2026-07-12) — implant umbrella reviews surveillance (26편)
+
+### immediate-implant
+- [[immediate-implant/lang-2012-immediate-implant-survival-success-sr]] — 즉시임플란트 전향적 연구 46편 SR: 연간 실패율 0.82%, 2년 생존율 98.4%, 수술 후 항생제만 생존율에 유의한 영향 [sr+ma, abstract-only]
+
+### digital-workflow
+- [[digital-workflow/mehta-2025-accuracy-assessment-robot-assisted-dental]] — 로봇보조 임플란트 수술 정확도 우산리뷰 (SR 8편, 임플란트 5130개): 첨단부·각도 편차 우수, 관상부 편차 SMD −0.97 (95% CI −2.27~−0.32, P<.01) [sr+ma]
+- [[digital-workflow/tomar-2025-comparing-clinical-outcomes-guided-freehand]] — 우산리뷰(SR 13편): 가이드 수술이 프리핸드보다 정확(관상부 편차 SMD −0.97)하나 MBL·생존율은 유의차 없음(RR 1.02, P=.28); mehta-2025와 통계치 중복 품질우려 플래그 [sr+ma]
+
+### complete-denture
+- [[complete-denture/milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review]] — Umbrella review of 7 SRs (SIMO vs TIMO): 결과 방향 상반(한 SR은 SIMO 우수, 다른 SR은 TIMO에서 실패·합병증↑), high 등급 없음 [sr+ma, abstract-only]
+
+### implants/vertical-ridge-augmentation
+- [[implants/vertical-ridge-augmentation/ng-2025-clinical-outcomes-titanium-mesh]] — 티타늄 메시 골증대 우산 리뷰(SR 8편, 51편 색인 연구): 가중평균 수직 4.05mm/수평 3.96mm 골증대, 메시 노출률 24.7% [sr+ma]
+
+### dental-materials/zirconia
+- [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]] — 우산 리뷰(SR 8편, 원저 233편): APA+10-MDP가 가장 검증된 지르코니아 접착 프로토콜, NAC/SIE/펨토초레이저는 유망하나 미성숙 [sr]
+- [[dental-materials/zirconia/davoudi-2025-zirconia-abutments-biological-mechanical-esthetic]] — 우산리뷰(14편 SR/MA, n=6,456명): 지르코니아 지대주는 티타늄 대비 생물학적·심미적으로 동등 이상, 생존율도 통계적 동등(Zr 98.6~98.8% vs Ti 98.62~99.4%) [sr+ma]
+
+### artificial-intelligence
+- [[artificial-intelligence/alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry]] — 보철·임플란트 AI 엄브렐러 리뷰 (11편 SR, 임플란트 식별 ~95.6%, 예후예측 62.4–80.5%, AMSTAR-2 55% critically low) [sr]
+
+### implants/versah-protocols
+- [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — 골밀도화(OD) vs 통상드릴링 umbrella review (SR 9편): 저밀도골에서 1차 안정성(IT/ISQ) 향상, MBL·생존율(>95%)은 유사 [sr+ma, abstract-only]
+
+### prosthetic-materials
+- [[prosthetic-materials/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
+
+### implants/peri-implantitis
+- [[implants/peri-implantitis/quirynen-2025-peri-implantitis-risk-assessment-pira]] — 후향연구(460명·임플란트 1,432개), 임플란트 주위염 술전 예측모델(PiRA), 부분무치악군 민감도 90.2%/특이도 55.0%, 무료 온라인 도구 배포 [retrospective]
+- [[implants/peri-implantitis/tarce-2025-peri-implantitis-risk-assessment-pira-part1]] — 우산리뷰(SR 49편), peri-implantitis 환자 관련 위험인자 10개 확정(치주염력·흡연·임플란트 위치 등), PiRA 예측모델(Part 2)의 근거 기반 [sr+ma]
+- [[implants/peri-implantitis/fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review]] — 우산리뷰(SR 5편) — 전자담배는 전통담배 대비 임상 염증증상을 감소/무변화시키나 니코틴으로 인해 여전히 치주·임플란트 건강에 해로움 [sr+ma]
+
+### periodontics
+- [[periodontics/mendonca-2024-effects-probiotic-therapy-periodontal]] — 프로바이오틱스 보조요법 umbrella review(SR 30편): 단기 PPD·CAL·BOP 개선 근거 있으나 6개월 이득 미지속, 임플란트주위 근거 약함, 근거 상충으로 확정적 결론 불가 [sr+ma]
+
+### oral-microbiology
+- [[oral-microbiology/panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review]] — 전자담배 관련 SR/MA 10편 우산형고찰: 비흡연자 대비 치태지수 증가·우식원성균/치주병원균/Candida 증가로 우식·치주염·임플란트주위염·구강칸디다증 위험 상승 시사 [sr+ma]
+
+### bone-regeneration/ridge-preservation
+- [[bone-regeneration/ridge-preservation/fok-2024-alveolar-socket-healing-evolving-knowledge]] — 발치 후 치조와 치유 종합 리뷰 + overview-of-SR(11편, 전부 AMSTAR-2 critically low); 수평 감소 29-63% vs 수직 11-22%, ARP는 완화하되 완전차단은 못함 [sr]
+
+### implants (일반)
+- [[implants/barboza-2026-bruxism-implant-failure-umbrella-review]] — 우산리뷰(8 SR, 5 MA): 이갈이는 임플란트 지지 보철 실패의 중요 위험 인자, 한 메타분석 OR 4.68 [sr+ma, abstract-only]
+- [[implants/giok-2026-factors-implant-failure-umbrella-review]] — 우산리뷰(메타분석 25편/35개 연관성): 흡연이 관찰연구 근거 중 유일하게 highly suggestive 등급 [sr+ma, abstract-only]
+- [[implants/malak-2024-implant-failure-marginal-bone-loss]] — 우산리뷰(8편 SR+MA): 경사 임플란트 MBL이 3년(MD=0.08mm)·장기(MD=0.18mm) 유의하게 더 큼(단기는 NS), 실패위험 차이 없음(RR=1.02) [sr+ma, abstract-only]
+- [[implants/dambrosio-2026-clinical-risk-medico-legal-implications]] — 관골 임플란트(ZI) 합병증 umbrella review(SR 11편, 2016–2024): 생존율 90–100%로 높으나 부비동염(2.4–27.2%)이 최다 합병증; 의료법적 사전동의 강조 [sr]
+- [[implants/kate-2016-implant-failure-a-dentists-nightmare]] — 임플란트 실패 조기/후기 분류 종합(narrative review, 6개 기존 분류체계 통합); giok-2026 umbrella review로 정량 근거 partial superseded [narrative-review]
+- [[implants/pacheco-2025-dental-implant-survival-irradiated]] — Umbrella review(SR 11편, 임플란트 73,674개): 조사골 생존율 81.52% vs 비조사골 94.64%, 전체 SR AMSTAR2 critically low [sr+ma]
+- [[implants/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — 즉시로딩 vs 비즉시로딩 단일임플란트 umbrella review (24 SR, n=8,063명/18,373임플란트): 생존율 유의차 없음, MBL도 유의차 없음 [sr+ma]
+- [[implants/kim-2026-long-term-outcomes-short-standard-implants]] — 후향적 코호트(임플란트 84개, 평균 추적 6.52년) short(6mm) vs standard(8.5mm) 임플란트 MBL 동등(0.05 vs 0.12mm, NS); 삽입 깊이가 MBL과 유의상관(r=0.372) [retrospective]
+- [[implants/lin-2026-ten-year-outcomes-short-dental]] — Short implant(≤6mm) 8편 10년 SR+MA: 생존율 91.2%(PL)/93.7%(IL), long implant 대비 유의하게 낮으나 합병증·MBL(0.277mm)은 차이 없음 [sr+ma]
+- [[implants/ting-2017-surgical-patient-factors-affecting-marginal]] — AMSTAR 종합 SR 41편(2015년까지): 치주염·흡연·남성이 MBL 유의 증가, socket preservation은 MBL 감소, tilted/flapless는 MBL 무영향 [sr]
