@@ -1,0 +1,112 @@
+Autogenous Tooth Bone Grafts for Repair and Regeneration of Maxillofacial Defects: A Narrative Review
+
+Janjua OS, Qureshi SM, Shaikh MS, et al. 2022. Int J Environ Res Public Health. PMID: 35329377. PMCID: PMC8955500. DOI: 10.3390/ijerph19063690.
+
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article.
+
+ABSTRACT
+
+Autogenous tooth graft is an innovative and ingenious technique that employs a stepwise approach and utilizes human teeth as an autogenous source of bone graft. The structure of teeth closely resembles bone, both physically and biochemically, and can be efficiently used for the process as it depicts properties of osteoinduction and osteoconduction. Autogenous tooth bone has characteristics similar to bone grafts in terms of healing potential, physical properties, and clinical outcome. Autogenous tooth graft has shown reasonable promise as a graft material for the regeneration of maxillary and mandibular defects. Autogenous tooth bone graft finds its principal application in sinus and ridge augmentations and for socket preservation before implant placement. Additionally, it can be used successfully for alveolar cleft patients and patients with limited periodontal defects. The overall complication rates reported for autogenous tooth grafts are comparable to other graft sources. However, although long-term results are still underway, it is still recommended as a grafting option for limited defects in the cranio-facial region.
+
+1. Introduction
+
+Bone loss in the craniofacial region occurs following traumatic tooth extraction, trauma, pathologies, or due to periodontal diseases. Replacement and regeneration of the lost bone require grafting. For maxillofacial applications, there is a wide range of sources and bone grafting materials categorized as autogenous, allogenic, xenogenic, alloplastic, and engineered personalized grafts. Autogenous bone is derived from some other donor site of the same individual and renders the properties of osteogenesis (the formation of new bone by the graft cells), osteoinduction (the recruitment and stimulation of undifferentiated pluripotent cells into bone-forming cells), and osteoconduction (the provision of a scaffold which allows new bone formation over it). However, these beneficial properties are not without demerits, the biggest being the need for a donor site morbidity. Allogenic bone is acquired from another individual of the same species and includes freeze-dried bone allograft (FDBA), demineralized freeze-dried bone allograft (DFDBA), lyophilized bone, etc. The advantage is that there is no need for donor site surgery; however, the property of osteogenesis is lost when the bone is prepared for clinical use. The property of osteoinduction is retained to some extent but requires a carrier to meet the clinical requirements. Xenogenic bone is acquired from other species, the most common ones being bovine or porcine sources. It also shares the same advantages and disadvantages as mentioned for the allogenic bone. Lastly, the alloplastic bone refers to commercially prepared bone (usually in the form of calcium phosphate/tri-calcium phosphate). Again, alloplastic bone, like allogenic and xenogenic bone, allows only osteoconduction to occur at the grafting site. Engineered bone grafts that utilize mesenchymal stem cells, scaffolds, and biologically active factors or molecules to regenerate bone, can overcome these problems in the future; however, the technique is still in infancy and their chairside/commercial preparation is still not widespread.
+
+All the literature and evidence so far suggest that the autogenous bone source is the best; hence, the quest continues for the acquisition of autogenous bone with minimum donor site morbidity. Autogenous tooth bone graft is a type of autogenous grafting technique that utilizes the extracted tooth/teeth of the same individual for the preparation of the graft material. Extracted teeth of the same individual provide such a valuable source without causing any harm since teeth have already been extracted, hence the need for a donor site surgery is eliminated. Although the use of autogenous tooth bone graft (AUTO-BG) was first described in 2003, it still remains a less commonly used technique in clinical practice. Therefore, the aim of this review paper is to discuss the AUTO-BG, its method of preparation, utilities, and applications in the jaw region and associated limitations.
+
+Search strategy: PubMed, MEDLINE, EMBASE, Scopus, Web of Science, and Google Scholar were extensively searched using search strategies such as 'Autogenous tooth', 'Tooth graft', 'Tooth bone graft', 'bone graft', and 'autogenous bone graft'. Full-text articles, review articles, case series, case reports, and abstracts were selected which matched the search criteria.
+
+Table 1 — Different sources of graft with their individual properties (summarized):
+- Autogenous (extra-oral: iliac crest, tibia, parietal bone, ribs, sternum; intra-oral: mandibular symphysis, ramus, maxillary tuberosity, zygomatic buttress, extraction socket, coronoid process, autogenous tooth): osteogenesis+osteoinduction+osteoconduction+osteopromotion, no allergenic/immune reaction, low cost; but donor-site surgery/morbidity, increased surgical time (may need GA), limited quantity.
+- Allogenic (FDBA, DFDBA, DBM): osteoconductive scaffold, no donor-site surgery, combinable with BMP/GF/PRF; but processing required to remove allergenic components, possible host rejection.
+- Xenogenic (porcine, bovine, coral, algae): osteoconductive scaffold, no donor-site surgery, combinable with adjuncts, low cost, large quantities available; but processing required, possible rejection/disease transmission risk.
+- Alloplastic (β-TCP, bioactive glass, bioceramics, hydroxyapatite): osteoconductive scaffold, no donor-site surgery, combinable with adjuncts, no allergenic potential; but can be costly, can act as foreign body.
+- Engineered personalized bone grafts (bioactive acellular scaffolds, cell-seeded scaffolds, customized autologous bone grafts): autologous stem cells with decreased rejection risk, moldable via 3D modeling, bioactive-molecule inclusion; but still in infancy, requires stem-cell harvesting/culture facilities, ethical issues.
+
+2. Composition and Biochemical Properties of AUTO-BG
+
+Dentin is the main component of teeth. Human dentin is composed of inorganic (55%) and organic (45%) material and shares almost the same chemical and physical properties as bone. Both mineralized tissues share collagenous (18%), non-collagenous proteins (2%), and mineralized content as various calcium phosphates (70% by weight). Demineralized dentin and bone matrices primarily comprise type I collagen (95%), while non-collagenous proteins include dentin sialophosphoprotein (DSPP), dentin matrix protein-1, bone sialoprotein, osteopontin, and osteonectin. Demineralized matrices also contain bone morphogenetic proteins (BMPs) and fibroblast growth factors.
+
+Dentin demineralized matrix (DDM) is an acid-resistant, absorbable collagen with a micro-tubular structure and blood-coagulation property. Presence of collagen I/III, DSPPs, BMPs, and TGF-β imparts osteogenic and osteoinductive influence to AUTO-BG. The inorganic component contains five calcium phosphate types (hydroxyapatite, tri-calcium phosphate, amorphous calcium phosphate, dicalcium phosphate dihydrate, octacalcium phosphate) plus trace elements (zinc, chloride, iron), providing the scaffold (osteoconductive) property. Enamel crystallinity exceeds that of dentin, giving greater apatite content and dissolution stability.
+
+3. General Characteristics of AUTO-BG
+
+AUTO-BG can be prepared as block type or powder type. Block type is sub-categorized as root-form (used for extraction-socket preservation, shape resembles tooth root) or root-on type (used for ridge augmentation — horizontal/vertical — shape resembles a cortical block graft). Kim et al. showed the crown portion of AUTO-BG has a higher calcium:phosphate ratio and high-crystalline calcium phosphate (mainly hydroxyapatite), while the root portion has low-crystalline calcium phosphates and a generally lower calcium:phosphate ratio, reflecting the crystallinity difference between enamel and dentin.
+
+Powder-type graft material ("tooth ash," per Zhang et al.) can be crown type (AUTO-BG enamel — mostly inorganic, osteoconductive, maintains bone volume) or root type (AUTO-BG dentine — mostly organic dentine/cementum, osteoinductive+osteoconductive, generally used in ridge augmentations).
+
+3.1. Biocompatibility of AUTO-BG
+Both powder-type and block-type AUTO-BG show excellent biocompatibility and regeneration potential. Kim et al.: AUTO-BG resorbs slowly and is gradually replaced by new bone; histologically, recipient bone and AUTO-BG form a direct union upon healing. Schwarz et al.: clinically, grafted bone shows similar bleeding characteristics to normal surrounding bone at implant placement. Osteoinductive potential of these odontogenic graft materials is similar to Bio-Oss and can be further enhanced by simultaneous application of platelet-rich plasma and human recombinant BMPs.
+
+3.2. Bioactivity
+The dentin matrix contains BMPs, osteopontin, osteonectin, osteocalcin, dentin sialoproteins, bone connexins, and alkaline phosphatase — all with defined roles in bone formation/calcification. Bessho et al. extracted BMPs from human dentine-derived matrix showing osteoconductive/osteoinductive potential in humans and xenogenic models via BMP receptors and Smad 1/5/8 signaling. Wang et al. showed human dentin contains LIM-1 protein with osteogenic potential. Non-collagenous proteins have signaling roles: DSPP potentiates apatite crystal formation, osteocalcin regulates mineralization via osteoblast activation, bone connexin binds minerals/collagen, osteopontin remodels bone via osteoblast/osteoclast induction, alkaline phosphatase has a developmental biomineralization role. Dentin also contains growth factors PDGF, VEGF, IGF, EGF, TGF-β mediating effects via mesenchymal stem cell induction. Zhang et al.: DDM induces bone formation in 4 weeks vs. partial DDM (~30% mineral content) taking 8–12 weeks — explained by demineralization exposing matrix BMPs. VEGF promotes angiogenesis, EGF stimulates PGE2 (influences bone formation), IGF directly affects osteoblast collagen production.
+
+3.3. Physical Properties
+Kim et al. compared AUTO-BG surface characteristics via SEM vs. autogenous cortical bone (mandibular buccal cortical bone) and found similar physical surface characteristics. Under high magnification, the root portion showed a rough pattern; the crown portion was relatively smooth. Cortical bone graft compactness was wave-like (cortical nature); allogenic bone was fairly smooth (cancellous); xenogenic graft showed smaller compactness. XRD analysis showed AUTO-BG crystalline structure similar to autogenous cortical bone. Ca/P ion dissolution test values were similar to autogenous cortical bone — an indicator of biodegradability related to apatite reprecipitation on the bone surface.
+
+3.4. Clinical Outcome
+Long-term studies by Lee and Kim et al. revealed excellent biocompatibility of AUTO-BG — resistant to infection, heals satisfactorily even with mild wound dehiscence. Kim et al.: AUTO-BG undergoes gradual resorption, ultimately replaced by good-quality bone via osteoinduction+osteoconduction; histological samples at 4 months show direct fusion with recipient bone and excellent vascularity; graft completely replaced by normal bone in 12–15 months. Jun et al.: mean bone density 981 HU (D2 type) in healed AUTO-BG vs. 968 HU for Bio-Oss, and ~60% proportion of new bone volume to total bone volume with AUTO-BG. These studies show AUTO-BG outcomes in the maxillofacial region are comparable to other bone-grafting sources.
+
+4. Method of Preparation of AUTO-BG
+
+Sound teeth requiring removal are extracted minimally-traumatically (protects buccal/lingual cortical plates for better graft adaptation).
+
+Powder-type preparation: extracted teeth are cleaned of debris/tissue remnants; crown separated from root; root portion placed in a Smart Dentine Grinder (Kometa Bio, Fort Lee, NJ, USA) and ground ~30 s to produce 300–1200 micron dentine powder. This powder is placed in a dentine cleanser (high-pH sodium hydroxide in 20% ethanol) for 7–10 min to eliminate bacteria/organic material; excess cleanser removed with sterile gauze. Then a dentine wash (phosphate-buffered saline via the Smart Dentin Grinder) is applied for 3 min; excess liquid removed/absorbed with gauze. The AUTO-BG is then ready for transfer to the recipient site.
+
+Block-type preparation: tooth is not ground; rest of process is essentially the same. Small holes may be drilled into the block to improve vascular ingrowth from the recipient site. Placed in extraction socket for socket preservation; root-on type resembles cortical plates, used for vertical/horizontal augmentation.
+
+Powdered "tooth ash" (alternative): high-temperature sintering process — tooth soaked in hydrogen peroxide (removes soft-tissue debris), disinfected in ethanol, then heated 1 hour at 1200°C to remove impurities/infected material. May be mixed with gypsum or platelet-rich plasma to improve handling/placement.
+
+5. Clinical Applications of AUTO-BG
+
+5.1. Bone Augmentation
+Dental implants are placed in increasing numbers (~1 million/year) with growing surgeon confidence to place implants in inadequate bone, requiring grafting. Powder-type AUTO-BG is reported successful where osteogenic/osteoinductive/osteoconductive properties are warranted. Ramanauskaite et al.: mean gain in alveolar ridge width ~5 mm with annual resorption ~0.1 mm; implants placed in all grafted cases within 26 weeks with adequate primary stability.
+
+5.2. Sinus Augmentation
+Bone resorption/sinus pneumatization in posterior maxilla often precludes implant placement without sinus lift (crestal or lateral-window approach). AUTO-BG is a possible alternative to autogenous bone for sinus augmentation without donor-site morbidity, increasing bone quantity/quality and minimizing sinus re-pneumatization. Kim et al.: average bone-height increase ~5 mm after sinus floor augmentation with AUTO-BG, average 0.76 mm/year bone loss after implant loading, overall implant survival ~96% in AUTO-BG sinus augmentations (Shavit et al.).
+
+5.3. Periodontal Defects
+Autogenous material is the gold standard for periodontal regeneration due to high osteogenic/osteoinductive/osteoconductive potential. AUTO-BG-derived DDM and demineralized bone matrix (DBM) can provide the same benefits minus donor-site surgery, promoting bone formation in intraosseous periodontal defects. Upadhyay et al.: AUTO-BG for class II furcation defects, 1-year follow-up — horizontal probing depth decreased 1–2 mm, ~3–4 mm bone gained linearly. Indurkur et al. (2018): AUTO-BG + chorion membrane showed statistically insignificant differences vs. DFDBA + chorion membrane in intrabony defects across all clinical outcomes — suggesting AUTO-BG is a useful DFDBA alternative for periodontal regenerative therapy. A case series also found AUTO-BG's osteoinductive/osteoconductive capacity useful for intrabony defect treatment.
+
+5.4. Guided Bone Regeneration
+GBR guides new bone formation with a resorbable/non-resorbable membrane, usually with or before implant placement. Powder-type AUTO-BG can be placed alongside an implant when the osseous defect exceeds 2 mm vertically/horizontally around the implant; membrane use is at surgeon discretion; can be combined with allogenic material or PRF to boost bone-forming potential. Lee et al.: AUTO-BG for GBR with vs. without membrane — net bone gain ~87% with no statistically significant difference by membrane use.
+
+5.5. Alveolar Bone Grafting
+Alveolar bone grafting (ABG) is important in complete cleft lip/palate patients. AUTO-BG (powder- and block-type) has been reported, combinable with other grafts/PRF to enhance bone quality; combined with distraction osteogenesis in alveolar cleft patients with satisfactory results. In cleft patients, AUTO-BG source teeth can be non-functional third molars, supernumerary teeth (common in cleft patients), or teeth extracted per orthodontic plan.
+
+Pilot study: 10 patients, 20 lower third-molar extraction sockets, split-mouth design — experimental sites filled with AUTO-BG from the extracted lower third molars vs. control sites filled with blood clot alone; flaps closed for wound stability. Healing was unaffected by AUTO-BG-related complications in all cases. Probing pocket depth distal to the second lower molar decreased at both sites at 6 months, with greater decrease at experimental sites; radiographs showed more bone gain at transplanted sites than controls — suggesting AUTO-BG may reduce periodontal-defect development distal to the second molar after third-molar extraction.
+
+5.6. Ridge Augmentation
+When ridge resorption precludes implant placement, augmentation (horizontal, vertical, or both) is needed. Block-type AUTO-BG (especially root-on type) has been used successfully for defects ≥3 mm, increasing bone mass with successful subsequent implant placement reported. Kim et al. (long-term follow-up): marginal bone resorption ~2.5 mm over 5 years post ridge augmentation; implants in AUTO-BG-augmented ridges could typically be functionally loaded within 5–7 months.
+
+5.7. Socket Preservation and Reconstruction
+Post-extraction healing (secondary intention) leads to bone loss proportional to extraction trauma. Socket preservation techniques (grafting ± membrane) minimize this loss. AUTO-BG can be used as powder-type graft (± membrane) or root-type block resembling a tooth root (± membrane). Radoczy-Drajko et al.: AUTO-BG for socket preservation → mean 15% horizontal bone loss (max coronal, min apical), negligible vertical loss — supporting successful functional restoration with implants later.
+
+5.8. Restorative and Miscellaneous Applications
+Autogenous DDM reported as potential apexification material and, by some authors, as a permanent root canal filling material. Powder-type AUTO-BG can also serve in endodontic surgery to fill bony defects from periapical pathology resorption. AUTO-BG may be a potential graft for small oral pathological defects (e.g., odontogenic cyst enucleation, traumatic injuries requiring limited grafts), combinable with other graft sources/distraction osteogenesis for resected tumors or pathological fractures. Kizildag et al. (animal study): AUTO-BG + PRF successfully treated calvarial bone defects.
+
+6. Complications Associated with AUTO-BG
+
+6.1. Wound Dehiscence — most common complication. Lee et al. (2013): 2/9 patients (both underwent horizontal ridge augmentation, anterior mandible). Kim et al. (2014): 1/12 patients. Both managed conservatively (chlorhexidine antiseptic dressings) with acceptable outcomes and no significant graft loss — dehiscence does not necessarily mean graft failure.
+
+6.2. Infection — Jeong et al.: case series of 51 patients, 5 with infection (managed initially with antibiotics; 2 of 5 required graft removal) → 9.1% postoperative infection incidence, the highest reported among case series (others report negligible incidence).
+
+6.3. Hematoma Formation — overall reported incidence 3.64%. Kim et al. and Lee et al.: one case each in their series, managed with pressure dressings/conservative treatment, no surgical exploration needed.
+
+6.4. Exposure of Fixation Screws during Healing — Schwarz: 2 patients with exposed screw heads (used to secure the graft), managed conservatively without significant morbidity.
+
+6.5. Resorption of Graft (Crestal/Marginal Bone Loss) — Radoczy-Drajko et al.: 15% horizontal bone loss with AUTO-BG for socket preservation. Kim et al.: ~2.5 mm marginal bone loss over 5 years with reasonable implant-placement success. Cenicante et al. (review): AUTO-BT grafts radiologically evaluated at 4–6 months post-grafting showed 0.28 ± 0.13 mm vertical bone loss and 0.15 ± 0.08 mm horizontal bone loss (higher if wound dehiscence occurs); overall resorption still lower than reported for xenogenic/alloplastic sources.
+
+6.6. Inability to Achieve Primary Stability while Placing Implants — Gharpure et al. (systematic review): three animal-based studies with 13.04%, 4.76%, and 15.38% loss-of-primary-stability rates (overall 11.6%); not reported in human studies. Most authors report excellent ISQ values at implant placement (mean ISQ 67.3) improving over time (mean ISQ at second stage 75.5).
+
+6.7. Failure to Achieve Osseointegration — Jeong et al.: 3.9% implant failure rate; Kim et al.: 3.4%; Lee et al.: 4.0%. Combined: 165 implants in 72 patients using AUTO-BT graft, ~6 failed. Some case series report 100% success; mean failure rate ~2.3% (highly acceptable). Park et al.: osseointegration failure in 2 cases at second-stage surgery, but new implants placed immediately after removal of failed ones.
+
+6.8. Fracture of the Block Graft while Drilling at Fixation — Ramanauskaite (systematic review): one patient's block graft fractured at screw fixation and had to be discarded.
+
+Overall: complication rates associated with auto-tooth grafts show no statistically significant difference from other commonly used grafting sources in clinical dentistry, supporting it as an equally effective grafting modality.
+
+7. Conclusions and Further Recommendations
+
+AUTO-BG is a relatively new, innovative bone-graft material carrying the advantages of autogenous bone due to close compositional similarity to bone, useful across a range of clinical situations. It can address patient hesitation toward allograft/xenograft while providing good biocompatibility without immune response or foreign-body reaction. Properties of osteoinduction, osteoconduction, and creeping substitution have been successfully demonstrated, and the material can be manufactured in various sizes/shapes, making it promising for smaller-sized maxillofacial defects. However, the tedious graft-acquisition process, need for a specialized dentin grinder, limited quantity obtainable, and lack of long-term success data currently limit its routine clinical use.
+
+Among available bone-graft materials, selection remains challenging and should be dictated by defect extent and procedural context; AUTO-BG may be considered given its autogenous origin and favorable clinical/histological outcomes whenever tooth extraction is required.
