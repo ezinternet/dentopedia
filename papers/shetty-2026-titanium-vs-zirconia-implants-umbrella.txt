@@ -1,0 +1,62 @@
+Comparative Evaluation of Titanium Versus Zirconia Implants for Their Clinical Outcomes: An Overview of Reviews
+
+Shetty U, Sharma A, Mhatre S, Srichand R, Joshi M, Trivedi M.
+Cureus. 2026 May 04;18(5):e108219.
+PMID: 42245850. PMCID: PMC13232352. DOI: 10.7759/cureus.108219
+
+ABSTRACT
+The use of dental implants has revolutionized dentistry, with titanium and zirconia being the most commonly utilized materials. This article presents a comparative evaluation of titanium and zirconia implants, focusing on their mechanical, biological, and clinical properties. Although the success of dental implant procedures depends on multiple variables, there is still insufficient literature documenting a comprehensive comparative evaluation of titanium and zirconia implants across their different properties. Therefore, this umbrella review aims to compare and evaluate various properties of titanium and zirconia implants.
+
+The intent of this article was to conduct an overview of systematic reviews (SRs) to provide a present review of different properties of titanium and zirconium implants; to analyze survival rate (SR), marginal bone loss (MBL), and/or probing depth (PD), bleeding on probing (BoP), pink esthetic score, and plaque index (PI); and to identify which has better clinical results among the titanium and zirconia implants.
+
+PubMed, Google Scholar, and Embase were used as literature databases. SRs, with or without meta-analysis, were included. A comprehensive search, both manual and electronic, was performed to identify SRs published between 2014 and March 2023 that aligned with the aims of this overview. The methodological quality of the selected reviews was evaluated using the A Measurement Tool to Assess Systematic Reviews (AMSTAR-2) tool. Data were primarily presented descriptively and supported by detailed tables summarizing characteristics and findings at both the review and trial levels.
+
+The findings indicate that titanium implants demonstrate higher SRs (92.6%-100%) compared to zirconia implants (87.5%-91.25%), with zirconia associated with a greater risk of failure and lower overall success rates. MBL was comparable between the two groups (Ti: -1.17 to -0.125 mm; Zr: -1.38 to -0.25 mm), as were PDs (Ti: 1.6-3.05 mm; Zr: 2.21-2.6 mm), PI, and BoP (Zr: 16.43%; Ti: 10%-20%). Zirconia implants exhibited superior esthetic outcomes and greater early bone apposition at two weeks, whereas titanium implants showed a more favorable bone response at four weeks. Overall, titanium implants remain the gold standard for long-term predictability, while zirconia implants serve as a viable alternative in esthetically demanding cases.
+
+INTRODUCTION AND BACKGROUND
+Dental implants can restore chewing, speech, and esthetic functions effectively; this has established them as a reliable method for restoring lost dentition. Titanium (Ti) implants have demonstrated consistent effectiveness across multiple decades. Clinical evaluations of implants have frequently examined survival, failure, success rates, esthetics, peri-implant soft-tissue alterations, marginal bone level changes, and biological/mechanical complications. Ti shows superior biocompatibility and promising long-term survival, but the grayish hue can cause peri-implant mucosal discoloration in thin gingival phenotypes; bone loss/stress shielding may occur from mechanical/elastic modulus mismatch with bone; corrosion may cause hypersensitivity, plaque accumulation, and peri-implantitis. Zirconium (Zr) dioxide implants were introduced with tooth-like color, light transmissivity, exceptional biocompatibility, favorable esthetics, corrosion resistance, mechanical strength, and no documented hypersensitivity, though Zr implants may show slower osseointegration onset than Ti.
+
+Objective: This overview of reviews aimed to compare Ti vs Zr implant properties. Primary outcomes: survival rate, bleeding on probing (BoP), marginal bone loss (MBL), pocket depth (PD), osseointegration. Secondary outcomes: plaque index (PI), pink esthetic score (PES), reason for failure.
+
+METHODS
+PRISMA-guided overview. PICOS: Participants = adults with ≥2 dental implants (titanium, Zr/titanium hybrid, or Zr); Intervention = veneered or monolithic Zr dental implants; Comparison = traditional titanium dental implants; Outcomes = primary (survival, BoP, MBL, PPD, osseointegration), secondary (PI, PES, failure factors); Study period = 2014 to March 2023.
+
+Databases: PubMed/MEDLINE, Embase, Cochrane Library, Google Scholar (gray literature). Inclusion: systematic reviews with/without meta-analysis evaluating Zr and Ti implant outcomes, ≥6 months follow-up. Exclusion: SRs of in vitro/animal studies; RCTs, lab studies, case reports, uncontrolled trials, duplicate reviews, editorials excluded as primary study types.
+
+Search yielded 3,364 articles; 1,231 duplicates removed (EndNote X9); 54 excluded by automation tools; 4 removed for other reasons. 1,795 excluded at title/abstract screening. 16 of 280 assessed for full-text eligibility (numbers as reported). Two reviewers (US, AJ) independently screened; disagreements resolved by a third (SM). Six systematic reviews were included in the final overview.
+
+Methodological quality (AMSTAR-2): 4 reviews high quality, 1 moderate, 1 low. Older reviews (e.g., Elnayef 2017, Sivaraman 2018) lacked protocol registration and duplicate study selection; newer reviews (Duan 2023, Fernandes 2022, Padhye 2023, Sales 2023) showed stronger methodology.
+
+INCLUDED REVIEWS (6 SRs, 2014-2023, follow-up 6-12 months per review, individual primary studies followed up to 40-80 months)
+1. Duan et al. 2023 (China) — 4 RCTs, 248 implants, up to 5-year follow-up. Outcomes: survival, success, MBL, PPD, PI, BoP, PES.
+2. Fernandes et al. 2022 (USA) — 7 studies, 646 implants (169 Zr, 194 Ti-Zr hybrid, 283 Ti), follow-up 12-80 months. Outcomes: survival, MBL, PPD, PI, BoP, PES.
+3. Elnayef et al. 2017 (USA) — 21 articles, 1,948 implants, up to 40-month follow-up. Outcomes: survival, success, MBL.
+4. Padhye et al. 2023 (UK) — 4 studies, 100 Zr / 99 Ti implants, 12-month follow-up. Outcomes: success, survival, PES.
+5. Sales et al. 2023 — 3 studies, 71 patients, 192 implants (87 Ti, 105 Zr), 12-80 months follow-up. Outcomes: survival, MBL, BoP, PPD.
+6. Sivaraman et al. 2018 (USA) — 47 studies. Outcomes: survival, success, MBL, osseointegration.
+
+RESULTS BY OUTCOME
+Survival rate: 6 SRs compared survival. In 5/6, Ti showed higher survival than Zr (Zr range 87.5%-93.3%; Ti range 92.6%-100%). 1/6 (Fernandes) found survival equal in one comparison. Duan 2023 meta-analysis: Zr lower survival, RR 0.91 (95% CI 0.82-1.02, p=0.10, I²=0%); survival 92.77%, 98.58%, 86.38% at 1-, 2-, 5-year follow-up respectively. Elnayef 2017: Zr implants had ~89% higher failure risk than Ti.
+
+Success rate: 4 SRs compared success. Duan 2023 and Padhye 2023 found Ti > Zr; Elnayef 2017 and Sivaraman 2018 found success rates equal. Zr success range 57.5%-93.3%; Ti range 57.1%-100%. Duan 2023 meta-analysis: Zr significantly lower success, RR 0.87 (95% CI 0.78-0.98, p=0.03, I²=0%); success 84.89%, 80.78%, 66.38% at 1-, 2-, 5-year follow-up.
+
+Marginal bone loss (MBL): 4 SRs compared MBL. Duan 2023 and Elnayef 2017 found MBL greater with Zr (attributed to lower surface roughness, one-piece design limitations, biomechanical rigidity, technique sensitivity). Fernandes 2022 and Sivaraman 2018 found MBL equal between materials (Ti: -1.17 to -0.125 mm; Ti-Zr hybrid: -0.6 to -0.32 mm; Zr: -1.38 to -0.25 mm). Reference threshold: ≤1.5 mm MBL in year 1 and ≤0.2 mm/year thereafter considered acceptable.
+
+Probing pocket depth (PPD): 2 SRs. Duan 2023: PPD greater with Ti. Fernandes 2022: PPD similar (Ti: 1.6-3.05 mm; Ti-Zr: 3.12 mm; Zr: 2.21-2.6 mm).
+
+Plaque index (PI): 2 SRs. Duan 2023: PI greater with Ti (favors Zr). Fernandes 2022: no significant difference.
+
+Bleeding on probing (BoP): Duan 2023: higher BoP with Ti. Fernandes 2022: no significant difference (Zr 16.43%; Ti 10%-20%).
+
+Pink esthetic score (PES): 2 SRs. Duan 2023: higher PES with Zr. Padhye 2023: higher PES with Ti.
+
+Osseointegration: 1 SR (Sivaraman 2018, 6 in vitro studies within the review) — comparable overall; at 2 weeks Zr showed higher bone-to-implant contact (54-55% vs 42-52% Ti); at 4 weeks Ti was higher (68-91% vs 62-80% Zr).
+
+DISCUSSION
+Ti's clinical success is attributed to spontaneous TiO₂ surface layer formation, acting as a corrosion barrier and facilitating osseointegration; hypersensitivity is rare (typically Type IV delayed reaction) due to the inert oxide layer. Yttria-stabilized zirconia (YSZ) is biocompatible, smooth-surfaced (reduced bacterial adhesion), does not release ions, and is preferred esthetically in the anterior region. Ti shows superior tensile strength and fatigue resistance (long-term mechanical stability); Zr shows the highest elastic modulus (resistance to deformation) and superior hardness (wear/indentation resistance). Overall synthesis favors Ti for survival, success, PES (per Padhye), and osseointegration reliability; Zr offers esthetic advantages, especially anteriorly, and comparable MBL/PPD/PI/BoP in several reviews with mixed directionality.
+
+LIMITATIONS
+Qualitative narrative synthesis without quantitative pooling across the overview itself; small number of included SRs (six) due to availability constraints; overlap of primary studies across the six SRs not formally quantified (no corrected covered area reported); heterogeneity in methodologies/outcome definitions; variable review quality (AMSTAR-2 low-to-high). Follow-up in the included SRs is short-to-medium term (6-12 months per review-level summary, up to 40-80 months for pooled primary studies) — long-term (≥10-year) comparative data remain sparse.
+
+CONCLUSIONS
+Both Ti and Zr implants have advantages and limitations depending on clinical context. Ti remains the gold standard given its established history, mechanical properties, and clinical success/survival rates, particularly for load-bearing applications. Zr implants offer significant esthetic benefit for anterior applications due to tooth-like appearance, but mechanical properties and long-term performance require further research to match Ti in some outcome domains. Material choice should be individualized based on patient needs, implant location, esthetic priorities, and cost.
