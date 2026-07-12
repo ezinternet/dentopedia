@@ -3468,3 +3468,4 @@ tags: []
 - [[bone-regeneration/janjua-2022-autogenous-tooth-bone-grafts-narrative]] — Janjua 2022 · narrative-review · 자가치아유래골이식재(AUTO-BG)의 생물학·제작·임상적용·합병증 종합
 - [[bone-regeneration/depace-2025-bone-regeneration-treatment-strategies-review]] — De Pace 2025 · narrative-review · 정형외과/종양학 포함 골이식재 전략(자가/동종/이종/합성/복합) 종합, 상업 제품 카탈로그 수록
 - [[bone-regeneration/elgali-2017-guided-bone-regeneration-materials-mechanisms]] — Elgali 2017 · narrative-review · GBR 차폐막 재료·기전 — 막을 수동적 장벽이 아닌 능동적 생물학적 구획으로 재조명
+- [[bone-regeneration/sun-2025-3d-printed-scaffold-bone-defect-repair]] — Sun 2025 · narrative-review · 3D프린팅 스캐폴드 재료(금속/고분자/생체세라믹)·기공-역학 트레이드오프·바이오프린팅 기법 — 치과 특이적이 아닌 골결손 전반
