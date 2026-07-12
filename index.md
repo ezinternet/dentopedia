@@ -1473,6 +1473,7 @@ tags: []
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — SR (3 studies): 단순 발치 후 합병증(trismus·alveolitis·retained root 가장 흔); 술자 경험·수술 시간·조직 손상이 주요 위험인자
 - [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR: 하악 사랑니 발치 수술기법(피판·설신경 보호·골삭제법) 비교; 건조치조염·감염·신경손상·통증·부종·개구제한 결과 평가; 대부분 낮은 수준의 증거
 - [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — SR (6 studies): 하악 제3대구치 발치 후 PRF vs PRP 비교; 4/6 연구에서 PRF가 연조직 치유·골밀도 개선에 유리; PRF는 준비 용이·완전 자가 유래 장점
+- [[oral-surgery/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — 엄브렐라 리뷰(Pain Res Manag 2022;19 SR/10 MA): 제3대구치 발치 후 비약물적 보조요법 network meta-analysis; 초기통증 오존치료 최우수(SMD −0.84)·후기통증 PRF/유도체 최우수(SMD −1.03); LLLT는 초기통증 효과 최약(SMD −0.32)
 - [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — SR+NMA (16 RCTs, 2158명): 항생제 예방투여가 건조치조염(NNT=25)·SSI(NNT=18) 통계적 감소; 높은 NNT → 건강 환자 일상 처방 비권장
 - [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — SR+MA (3 studies): LLLT는 건조치조염 치료 시 Alvogyl 대비 유효(유의성 낮음); 단일 세션·최소침습·통증 감소; 기존 소독드레싱의 대안
 - [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] — 코크란 SR+MA (RCT 49편, n=6,771): CHX 가글(OR 0.38)·0.2% 발치와 내 젤(OR 0.44)이 건성 발치와 감소(중등도 확실성); 효과는 기저 위험 비례 — 고위험 사랑니 NNT≈7, 일반 발치 NNT 160대; Alvogyl(구)>ZOE 7일째 통증(매우 낮음)
