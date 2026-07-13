@@ -2199,6 +2199,7 @@ tags: []
 - [[overviews/dental-materials-decision-ladder]] — 재료 4축 (지르코니아 접착·CAD/CAM vs PFM·아말감 vs 레진·시멘트). 본 세션 zirconia 인터랙티브의 학술 backbone.
 - [[overviews/zirconia-types-clinical-selection]] — 지르코니아 grade 5축 (결정학·grade × 적응증·두께·대합치 마모·접착 차이) (synthesis, 2026-05-26): Ban 2023 spine — 3Y-TZP 1200 MPa→UHTZ 300-500 MPa 강도-투명도 trade-off; Comba 2021 5Y-PSZ MDP 결합 유지; Ali 2023 두께 <1mm 파절 위험; Aljomard 2022/Shah 2024 polish > glaze; dental-materials-decision-ladder 축 2 Phase-2 stub 첫 실현
 - [[overviews/bone-regeneration-protocol-ladder]] — ARP 4축 (자연치유 baseline·graft 효과·material 비교·flap/seal). EFP/AO consensus + Cochrane spine.
+- [[overviews/bone-graft-material-selection-matrix-overview]] — **NEW Overview** (17편, 2026-07-13): 골이식재 클래스 선택 매트릭스 — 4대 생물학적 특성(골형성+골유도+골전도+골유착)서 자가골만 완전, 시판 대체재는 골전도성만(Zhao2021·DePace2025·Bubalo2026); 결손유형별 알고리즘(수평→이종/동종+막, 수직→자가+합성, 복잡→3D스캐폴드); head-to-head가 차이 붕괴(동종골+자가골 첨가 무이득 Meza-Mauricio2022 GRADE very low, 이상성세라믹≈Bio-Oss Rokn2011); 치아유래 자가이식재가 공여부 없는 대안(생활골 65.6% vs 이종골 57.8%·잔존 0.5 vs 19.7% Nakajima2026, 건전치=근관치료치 Minetti2020); 온레이 블록 12개월 43.7% 흡수 상악>하악(Stricker2021); 약물·생물학 보조제(심바스타틴·HyA·APC)는 modest·ISQ 무효(Tale2026·Domic2023·Giannotti2023); 재료무관 봉합 시 15~40% 붕괴 4-핀 막고정이 반감(Raabe2025); 막은 능동 골전구세포 모집층(Elgali2017); 3D CAD/CAM 유망하나 예비적(Elrefaei2025·Sun2025); 즉시식립 gap은 이종/합성>PRF/자가(Ahamed2025)
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — GBR 차폐막 12편 종합 (synthesis, 2026-06-04): 막노출 중심 4축 — ①재료·가교(Wessing2018 가교막 노출+30%, Lee2015 DHT가교 안전, Wang2025 합성막 비열등) ②막 구성(Choi2017 단층=이층) ③판막·절개 설계(Park2007 노출은 판막설계 문제, Lee2018 판막거상 KG −3.21mm) ④티타늄메쉬(Ragucci2025 CTM 수평 우수·수직 동등, Tay2022 노출이 골증대량 감소). 핵심: 노출은 막 종류보다 연조직·판막 관리가 좌우
 - [[overviews/vertical-ridge-augmentation-overview]] — 수직골증대(VRA) **20편** 종합 (synthesis, 2026-06-07 신설·**2026-06-29 Ti-mesh 12편 확장**): 5축 — ①술식별 장기 PBL(Cucchi2024 SR+MA: SBB 0.66<GBR 1.06<Onlay 1.31<Inlay 1.72<distraction 1.81mm) ②차폐재 CAD/CAM Ti-mesh ≈ d-PTFE(다수 RCT: Cucchi2017/2024/2025 합병증·PROMs·비용 비열등, 단 Ti 술전계획 3배; Sabri2024 SR+MA pooled 3.36mm 수직) ③collagen membrane 효용 논쟁(Yousefi-Koma2025 SR "불필요" vs Urban2025·Cucchi2021 수치상 이점) ④**★mesh 노출이 지배적 실패모드, 노출률 0~78%**(Keller2026 미세천공+자가골 0% vs Soares2025 일반3D프린트 78%; 조기노출→재생실패) ⑤열개 예방=연조직(Kaner2017·Wang2025 동물). 5년데이터(Wurtz2026)·PEEK대안(Alshikh2026)·상악동 동시 VRA 지연식립(Kang2019)
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — Socket 치유 생물학 + ARP 비판 5축 (자연치유 biology·overtreatment 논쟁·실패 예측인자·보조 재료·beyond ARP) (synthesis, 2026-05-26): Araujo 2005 2단계 흡수 + Schropp 2003 인간 50% width 손실 baseline + Mardas 2023 overtreatment 비판 + Kang 2025 PBE <1.1mm HR 2.50 + Adams 2022 late xenograft failure; do-ARP counterpart, 미합성 20편 흡수
@@ -2350,6 +2351,15 @@ tags: []
 - [[radiology/brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment]] — Brochado Martins 2025 (SR+MA, 19편, ACTA): CBCT 치유율 loose 87%/strict 36% — 루틴 CBCT 결과추적 불필요 가능성(비판적)
 - [[radiology/baena-2022-cbct-diagnostic-performance-root-resorption]] — Baena 2022 (SR+MA, 17편): CBCT 외흡수 진단 민감도 78.1%·특이도 79.3%; 유효선량 34-1073µSv(정확도-피폭 trade-off)
 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]] — Khafaji 2023 (SR, 5편 phantom): 치과 CBCT 안구 산란선량 0.103-8.3mSv, FOV 의존 — 선량기준치 필요
+
+<!-- BATCH INGEST 2026-07-13: nutrient canal alveolar/mandibular PMC 풀텍스트 5편 -->
+### radiology (added 2026-07-13, batch h — nutrient canal anatomy)
+
+- [[radiology/kumar-2014-incidence-nutrient-canals-hypertensive]] — Kumar 2014 · cross-sectional(J Nat Sci Biol Med) · 하악전치부 IOPAR nutrient canal 발생률 고혈압군 55.2% vs 대조군 36.2%(유의); 골소실↑·무치악에서 증가, 이환기간 10년 초과 시 급감 (PMC full text)
+- [[radiology/hasan-2022-prevalence-nutrient-canals-mandibular]] — Hasan 2022 · cross-sectional(n=200, India) · 하악전치부 IOPAR nutrient canal 유병률 DM 84%·HTN 66%·치주염 52% vs 대조군 20%(모두 유의); 이환기간과 상관(DM p=0.047, HTN p=0.012) (PMC full text)
+- [[radiology/abdar-esfahani-2013-mandibular-anterior-nutrient-canals]] — Abdar-Esfahani 2013 · case-control(n=64, Isfahan) · 하악전치부 nutrient canal 발생률 고혈압군 37.5% vs 정상혈압군 53.1% — 유의차 없음(P=0.209); NC-고혈압 연관 반박(contradicts Kumar 2014) (PMC full text)
+- [[radiology/kaur-2019-evaluation-mandibular-anterior-nutrient]] — Kaur 2019 · cross-sectional(n=600, HTN/DM/대조군) · 하악전치부 nutrient canal 유병률 DM 93.5% > HTN 88.5% > 대조군 44.5%; 이환기간·성별 무관 (PMC full text)
+- [[radiology/wamasing-2018-imaging-bifid-mandibular-canal]] — Wamasing 2018 · retrospective(DMFR, 초록기반) · 3D-VIBE MRI로 하악관 이분(BMC) 발생률 6.4%, 파노라마/CT로는 거의 검출 불가; nutrient canal 발생률 58.4–97.6%(MRI 기반)
 
 <!-- BATCH INGEST 2026-06-05: dentomaxillofacial radiology 19편 (CBCT/파노라마 선량 최적화·영상 기하·허상·저자장 MRI) -->
 ### radiology (added 2026-06-05, batch g — imaging dose & geometry)
