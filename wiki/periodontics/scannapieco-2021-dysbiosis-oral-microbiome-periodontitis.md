@@ -18,6 +18,8 @@ tags: [dysbiosis, oral-microbiome, periodontitis, gingivitis, keystone-pathogen,
 relations:
   - type: contradicts
     target: hajishengallis-2012-psd-model-periodontal-disease
+  - type: contradicts
+    target: lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory
 ---
 
 ## Three-line Summary
