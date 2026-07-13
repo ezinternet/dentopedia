@@ -15,6 +15,9 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6737859/
 text_path: /Users/oracleneo/llm-wiki/papers/rodriguez-2019-long-term-risks-complications-bovine.txt
 text_filename: rodriguez-2019-long-term-risks-complications-bovine.txt
 tags: []
+relations:
+  - type: reinforces
+    target: sartori-2003-msfa-bio-oss-10year-case-report
 ---
 
 ## Three-line Summary
