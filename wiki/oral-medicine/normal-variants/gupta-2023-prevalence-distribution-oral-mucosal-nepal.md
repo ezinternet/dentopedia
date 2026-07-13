@@ -18,6 +18,8 @@ tags: [fordyce-granules, linea-alba, normal-variant, oral-mucosal-lesions, epide
 relations:
   - type: reinforces
     target: oral-mucosal-normal-variants-prevalence-diagnosis-overview
+  - type: extends
+    target: baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy
 ---
 
 ## Three-line Summary
