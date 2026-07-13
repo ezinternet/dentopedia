@@ -11,6 +11,19 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [orthodontics, clear-aligner, invisalign, indications, limitations, fixed-appliance, class-ii, class-iii, root-resorption, alveolar-bone, periodontal, tmj, wear-protocol, roller-coaster-effect, attachment-material, incisor-accuracy, root-movement, attachment-shape, power-arm, overview]
+relations:
+  - type: extends
+    target: gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition
+  - type: contradicts
+    target: kim-2026-efficacy-and-stability-of
+  - type: reinforces
+    target: de-la-rosa-gay-2025-expansion-predictability-clear-aligner
+  - type: refines
+    target: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma
+  - type: reinforces
+    target: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr
+  - type: extends
+    target: tabone-2026-clear-aligner-oral-microbiome-sr
 ---
 
 ## 한국어 핵심요약
