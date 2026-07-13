@@ -1,0 +1,13 @@
+.git/
+.venv-img/
+.claude/worktrees/
+.claude/agents/
+quartz/node_modules/
+quartz/public/
+quartz/.quartz-cache/
+.obsidian/plugins/
+.obsidian/themes/
+papers/
+*.pdf
+*.html
+*.pdf
