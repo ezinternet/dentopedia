@@ -11,6 +11,13 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [platelet-rich-fibrin, prf, prp, cgf, autologous-platelet-concentrate, apc, periodontal-regeneration, furcation-defects, intrabony-defects, root-coverage, gingival-recession, meta-analysis, network-meta-analysis, overview]
+relations:
+  - type: refines
+    target: sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis
+  - type: refines
+    target: assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat
+  - type: refines
+    target: park-2022-prf-gbr-damaged-socket-yonsei
 ---
 
 ## 한국어 핵심요약
