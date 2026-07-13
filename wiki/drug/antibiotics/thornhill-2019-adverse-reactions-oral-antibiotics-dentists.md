@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/thornhill-2019-adverse-reactions-oral
 pdf_filename: thornhill-2019-adverse-reactions-oral-antibiotics-dentists.pdf
 source_collection: external
 tags: [antibiotics, adverse-drug-reaction, dental-prescribing, amoxicillin, clindamycin, metronidazole, macrolides, c-difficile, anaphylaxis, qt-prolongation, pharmacoepidemiology]
+relations:
+  - type: reinforces
+    target: drug-antibiotic-stewardship-overview
 ---
 
 ## Three-line Summary
