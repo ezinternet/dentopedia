@@ -11,6 +11,11 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/alqutaibi-2026-root-analog-dental-imp
 pdf_filename: alqutaibi-2026-root-analog-dental-implants.pdf
 source_collection: external
 tags: [root-analog-implant, RAI, custom-implant, CAD-CAM, immediate-implant, DLMS, zirconia, titanium, PROSPERO]
+relations:
+  - type: extends
+    target: lee-2021-immediate-implant-placement-in-fresh
+  - type: reinforces
+    target: ahamed-2022-partial-extraction-therapy-implant-placement
 ---
 
 ## Three-line Summary
