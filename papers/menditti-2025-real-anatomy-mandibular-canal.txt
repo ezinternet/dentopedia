@@ -1,0 +1,109 @@
+Introduction
+
+Anthropological and paleontological studies report that mammals are the only vertebrates with a single bone forming the mandible, the so-called "dental bone", which during evolution, has developed complex connections and has been subjected to restructuring due to its increase in size (,).
+
+The human anatomy books describe the presence of a canal within the mandibular bone that starts from the Spina of Spix and runs through the entire body of the mandible, with two terminal branches: the mental branch and the incisal branch; this structure is the Mandibular Canal (,-).
+
+Human embryological studies report that the formation of the mandibular canal is preceded by the formation of nerve bundles that innervate three groups of mandibular teeth (molars, premolars, and incisors) (-). The ossification begins at the level of the mental foramen (MF), proceeding in a centripetal direction, giving rise to the mandibular canal and connecting the three embryonic fascicles into a single one (,).
+
+Chavez () showed that three separate canals were always present in each developing hemimandible, emerging as distinct pathways at different stages of development. The incisal canal forms first, followed by the canal for the deciduous molars, while the canal in the region of the permanent molars appears later. These canals gradually coalesce over time.
+
+MC is divided into a posterior segment, a middle segment, and an anterior segment (,-). The posterior segment can be further divided into the angular tract, the so-called retromolar triangle (RMT), starting from the mandibular lingula to the third/second molar and the horizontal middle segment (the body), known as the posterior mandibula (,). The middle tract extends from the second molar to the second premolar and contains the MF (). The anterior tract extends from the second premolar to the frontal zone and contains the incisal canal and joins the contralateral one in the interforaminal zone (located between the MF), giving continuity to the bilateral segments of the mandible (,,).
+
+The MC runs in the bone with a cranio-caudal direction, with a caudal convexity, and becomes superficial at MF; in buccal-lingual direction, it assumes a horizontal S-shaped configuration, moving close to the lingual cortical in the RMT and then running inferiorly and buccally towards the anterior teeth. The MC has usually an elliptical shape, with an average length of about 65-70 mm and a variable diameter that gradually decreases from the third molar to the premolar (from 2.5 mm to about 2 mm) (-).
+
+The MC has a nutritive function, it is bilateral and symmetrical, and its bony walls are identifiable in radiographic images, although not always well-defined (,). It contains the inferior alveolar nerve (IAN): a large nerve bundle that runs through the MC and sends branches to the mandibular teeth, forming the dental nerve plexus (). It is associated with blood vessels or lymphatic vessels, forming what is known as a neurovascular bundle, the so called inferior alveolar neurovascular bundle (IANVB) (,). It includes the IAN, the inferior alveolar artery (IAA), located superior and lateral to the nerve and the inferior alveolar vein (IAV) medial or lateral to the artery (,,,,,) but sometimes these structures can run separate canals (-).
+
+MC variants refer to anatomical variations of the typical course or structure of the mandibular canal (,,). These are usually additional canals that originate from the main MC. They can be located laterally, anteriorly, lingually, or buccally. These duplications may run independently or may merge with the main canal, with or without terminal foramina (,). When the MC presents a duplication, it's called Bifid Mandibular Canal (BMC). The most described variants are the subdentary branches (,). They are located beneath the apices of the molar teeth and may be single or in small plexuses. Dissecting anatomical studies have shown MC with dental canals beneath the molars, and in approximately 60% of cases (,-), only a single canal could be identified. Therefore, these branches are sometimes considered a normal anatomical variation (,,). Another variant of the MC is the retromolar canal (RMC). It is an osteo-canal that is sometimes found in the area of RMT (,,,,,). This variant may include a terminal foramen (retromolar foramen, RMF) and small myelinated nerves, small arteries and venules (,,).
+
+Patients and Methods
+
+A literature search was performed to identify articles regarding Mandibular Canal, Bifid and Trifid Mandibular Canal. This search used the PUBMED and WoS computer databases in the years from 1931 to 2023. The keywords used for the search were: "mandibular canal; retromolar canal; anatomic mandibular canal variations; bifid and trifid mandibular canal; accessory bucco-lingual branches". The preliminary evaluation of the articles was performed by evaluating their relevance through the abstracts. Then, studies that did not fall within the scope of the search were excluded, such as those in which the abstract provided insufficient information for the preliminary evaluation. In addition, some articles [17] not selected by the database search, including those on etiopathogenesis were manually entered. For all studies considered eligible [50], the full texts of the articles were searched and downloaded. Then, the articles useful for final inclusion were selected based on the evaluation of the full texts.
+
+The anatomical variants (,,,,-) can be considered as a constant finding of changes in the types, structure, and number of an anatomical organ rather than "unnatural" errors (anomalies) (,-). Carter (), studying dry mandibles, reported several variants of the MC: type 1, with a single bundle; type 2, with a single peri-principal bundle and some bundles directed toward the upper and posterior mandibular segment; type 3, with distinct bundles, one principal and one bundle as an RMC. Nortjè () investigated MC variations in orthopantomography (OPG) (), reporting an incidence of bifid mandibular canals of 0.9%. The complex aspects of the MC can be appreciated better in the tomographic radiological study of the mandible, particularly in the transverse sections of Cone Beam Computed Tomography (CBCT) (-). Zhang () and Elnadoury (), through 3D radiological studies using CBCT, in addition to the previously described branches of the MC, report some branches with a nutritive function starting from the lower wall of the MC (). In OPG () the presence of MC is detectable, although to a lesser extent, given the characteristics of this examination, with a value ranging from 0.08% to 1.2% (), while in other studies it reaches 38%, with a range of 10% to 44%; with more sophisticated radiological exams, like CBCT, it exceeds 65% (-). Rx OPG, two-dimensional radiological image, is the screening radiological exam for Oral Surgeons/Dentists, very useful for the study of teeth, maxillofacial bone diseases, and models of the maxillomandibular skeleton. It can present the so-called "ghost images" in the opposite position of the object and horizontal and vertical distortion/enlargement (,). For these reasons it can be indicative for the study of mandible anatomy, and it is the first-choice exam for clinical investigation, although it often requires a CBCT study (,). Digital OPGs, which provide more reliable images (,,,) are more useful for adequate standardization in radiological measurement.
+
+Diagnosis and therapeutic planning should be performed using more sensitive images like those of CBCT, which produces 3D images, especially transverse sections, which are better than those produced by traditional CT (). Based on clinical indications, even a single digital dental radiograph () can provide a better imaging with minimal radiation dose, but it can be rather complex and ergonomically challenging to perform a series of periapical radiographs to confirm and investigate bifid or trifid mandibular canals, even when supplemented by an occlusal radiographic technique.
+
+Therefore, the use of CBCT, rather than CT, is crucial for studying the mandible and investigating accessories, double, or even trifid anatomical canals (,,,,,,). Some cases also describe a double mandibular foramen, which is another variant () ().
+
+Identifying BMC and related intramandibular canals (,,) is essential, especially in implant procedures (implant placement or removal) and surgical practice (such as complex extractions of impacted teeth, cystic or tumor pathologies, fracture reduction, mandibular osteotomy, bone grafting from the mandibular ramus, or endodontic procedures such as root canal treatment) to avoid serious complications during oral specialty operations (,), to prevent failures in mandibular local anesthesia obtained from the inferior alveolar nerve block (IANB) (), and to prevent surgical complications (such as hemorrhages, anesthesia/paresthesia in the area innervated by the IAN) ().
+
+The diameter of the MC/BMC can be equal to the accessory canal, lower than, or half the diameter of the main canal (): thus, the larger diameter canal can be considered the MC, and the smaller one as the bifid accessory canal, which can be cranial or caudal (much rarer). No significant geographic, gender, or age-based differences are reported in literature (,,,,).
+
+On CBCT, bone ducts are found in cross-sections while in the two-dimensional OPG are not visible or not clearly interceptable (-). Already Langlais () had evaluated the possible presence of other canals and foramina not detectable radiographically (,). In the endoscopic study of Iwanaga (), MC consists of the main canal and collateral branches that give rise to a network of intramandibular vascular and nervous nutritive canals (NC) (,).
+
+Another variant found in the MC is the so named bucco-lingual canals of the Naitoh's classification (,-): they are branches that emerge from the buccal or lingual side of the main mandibular trunk (), which run parallel to it, and with their own role in oral surgery practice.
+
+Other accessory vertical and/or horizontal/transverse canals (), viewable on cross sections of CBCT, can be considered as NC of the mandible (,,,). The first NC that can be identified is just the MC (), which carries AIN and a terminal type of circulation (with IAA and IAV) ().
+
+The branches that start from MC can be variously directed (,,-). Some NCs of the MC with particularly vertical courses are found in the incisal part of the mandible in the form of interdental branches, visible above all in the intraoral dental radiograph (,). They run anteriorly, appear well in transverse sections of CT and especially of CBCT; they are reported in the Naitoh's classification () as BMC Type 4, and are very infrequent (approximately 2%) (,). They run more or less with a lingual/buccal direction, sometimes ending in the bony spaces, others penetrating the relative cortex and passing through a foramen (,,).
+
+The studies of Aps () and Muley () show that other lingual/buccal canals can be found mainly on the lingual side, in particular on the incisal segment, less on the mandibular body, and scarcely on the buccal side of the mandible: so, there are numerous foramina, which allow the entry of these vessels and nerves like additional NC. Muley () has even produced a classification. Therefore, it is necessary to consider the possibility of encountering, in an accurate pre-operative radiological study, many foramina and their related transverse canals (,).
+
+The Aps study () shows a 95% of prevalence and reports that there is no patient with no foramina and accessory canals, indeed a high percentage has two or more NCs; there is no significant difference between males and females in the number and diameter of these canals (,,,).
+
+Thus, we can have two series of so-called horizontal accessory buccal / lingual canals (,) with variable diameters that acquire clinical importance based on the diameter. They can be considered accessory canals: those, very frequent, with extramandibular origin towards the mandible and others, infrequent, with intramandibular origin from the MC (bifid, type 4 of Naitoh's classification). The common denomination of buccal /lingual canals, as anticipated above, can lead to misunderstandings among those interested in this research (,,).
+
+The term “Bucco-lingual branches" is also used in literature for the extramandibular branches () that are independent from the IAN (,). The nerve running in the extramandibular canals can be branches of the Buccinator nerve, Lingual nerve, Mylohyoid nerve, a small branch of inferior alveolar nerve, facial nerve, first cervical nerve, and auriculo-temporal nerve. All these nerve branches could be responsible for the sensitivity of the mandibular teeth despite a correct anesthesia, with anesthetic failures and persistent dental pain during dental operations. The knowledge of these anatomic peculiarities allows the dentist to perform other anesthetic techniques that alleviate the intraoperative symptoms of dental pain, giving a possible explanation of some anesthetic failures and dental complications (,).
+
+Therefore, if the presence of a canal with a horizontal/transverse course is noted on CBCT imaging, it is necessary to verify its origin by looking for a possible contact with the MC and/or the presence of a corresponding foramina on the lingual or buccal side of the mandibular cortex.
+
+The knowledge of the presence of anatomical variations of the IANVB and its relative MC in the mandible has led to many attempts to classify them (,). The most followed one is Naitoh's classification published in 2009 (). It is based on CBCT imaging, and it divides variations in type 1 for the RMC (), type 2 for the subdental plexuses (), type 3 for the forward canals in the body of mandible () and type 4 for the buccolingual canals. The most interesting and rational classification is that of Langlais (), but it is based on two-dimensional imaging. It provides four types of variations, with type A and B for unilateral and bilateral cases. It should be remembered that the frequency of BMC appears to be between 1.2% in OPG and only in few studies up to 60% in CBCT imaging.
+
+The various classifications from the simplest obtained from the dissections of Oliver () to the more complex ones elaborated on the basis of the observations obtained on OPG, such as that of Langlais (), or on more advanced images, such as those obtained from studies on CT and especially on CBCT (), have taken into consideration the "anomalies" that may be encountered, considering also the branches in the buccal-lingual position, as cited above.
+
+In addition to the increasing number of reported anomalies/variations, the terminology used by the various authors (,,,) over time contributed to creating confusion in dentists and oral surgeons.
+
+Therefore, association of RMC with the BMC, just as a variant of it and more precisely as a duplication, results in an overestimation of the percentage of the frequency of BMC (,). Furthermore, this high percentage of bifidity of type I identified with the RMC (from 40.4% up to 70%) (,,,) suggests that it is a normal anatomic variation of the IAN rather than an anomaly. In fact, many studies on BMC follow the classification of Naitoh () and therefore include the frequency of the RMC (Type I) in the overall statistical data. For example, in the study by Okumus () the RMC (type I) is almost a quarter of the total value.
+
+Based on all considerations made, the attempt to follow one or the other of the existing classifications turns out to be at the same time complex and too scholastic. In fact, some classifications have only a statistical and historical value, when current sophisticated radiological investigations of high quality and clarity can be conducted (-,,,,) reducing preoperative complication in mandibular surgery (,).
+
+Figure 1
+
+OrthoPantomoGraphy with possible detectable duplication of mandibular canal (red arrows).
+
+Figure 2
+
+Cone beam computed tomography is used to show duplication of mental foramen; red arrow indicates the upper mental foramen, while yellow arrow indicates the lower mental foramen.
+
+Figure 3
+
+Intramandibular canal (red arrow) linking with the main canal as depicted with cone beam computed tomography.
+
+Figure 4
+
+Extramandibular canal (red arrow) as shown with cone beam computed tomography.
+
+Figure 5
+
+Retromolar canal (red arrow) in a cone beam computed tomography panorex.
+
+Figure 6
+
+Dental canals above 3.6 (red arrow) depicted by cone beam computed tomography.
+
+Figure 7
+
+Duplication of mandibula canal: A) bifid mandibular canal, B) trifid mandibular canal; main canal (yellow arrows) and forward canal (red arrows).
+
+Discussion
+
+OPG is an initial screening tool, it can be useful in the search for anatomical variants of the MC, and it is the first step for the correct planning of surgical interventions in this anatomical region. CBCT, on the other hand, is the appropriate second-level radiological exam for accurate preoperative evaluation in the mandibular region, allowing for the detection of Bifid/Trifid Mandibular Canal (B/TMC) and transverse canals, as well as accessory canals, always considering the possibility of false images. The use of magnetic resonance imaging (MRI) can be a contribution to the evaluation of these canals although, even at high resolution, it may not be able to establish the content of small bony canals. Although the anatomy of the MC is well understood, several aspects of its variations and anomalies remain unclear. The evaluation of the frequency of RMC in RMT should be done in conjunction with the mental and incisive branches, considering the RMC as an inconsistent distal terminal branch. Therefore, it is necessary to search for statistical data regarding each of the three individual segments of the mandible. Thus, the MC will have three terminal anatomical branches, two constant mesial branches and one inconsistent distal branch (RMC).
+
+The variants of the MC should be classified as bifid MC, trifid MC, intramandibular accessory canals and dental canals. Extramandibular buccal and lingual canals require, in our opinion, focused research, because they are very frequent, numerous, and they have nutrient functions. These canals do not have connections with the MC, have different clinical implications compared to intramandibular ones and, therefore, they should be carefully distinguished. Since duplication of MC causes perioperative complications, its understanding and radiological identification are essential for any surgical/implant procedure in this mandibular region.
+
+Conclusion
+
+The discussion in this article highlights the complexity of the anatomy of the mandibular bone and the canals contained within it. According to the literature findings, a new and clearer classification of the variations of the MC is necessary. This purpose can be achieved after new clinical research based on the study of numerous mandibles with modern dedicated CT, such as CBCT, which have proven to be much more accurate than OPG and CT. It is important to increase the data regarding the frequency of these variations, in particular RMC, and their real clinical and surgical implications.
+
+Conflicts of Interest
+
+The Authors declare no conflicts of interest, nor any financial interest associated with the current study.
+
+Authors' Contributions
+
+D.M and A.B. have made substantial contributions to the conception and the design of the manuscript, V.M, G.C. and M.M. to acquisition of data. D.M., A.B. and M.A. revisited it critically.
+
+Artificial Intelligence (AI) Disclosure
+
+No artificial intelligence (AI) tools, including large language models or machine learning software, were used in the preparation, analysis, or presentation of this manuscript.
