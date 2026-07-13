@@ -9,6 +9,9 @@ tags: [suture, wound-closure, primary-closure, secondary-closure, sutureless, th
 source_papers:
 confidence: synthesis
 source: synthesis
+relations:
+  - type: reinforces
+    target: kumar-2022-suture-versus-sutureless-third-molar-impactions
 ---
 
 ## 한국어 핵심요약
