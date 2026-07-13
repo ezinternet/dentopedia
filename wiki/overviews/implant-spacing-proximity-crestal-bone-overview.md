@@ -8,6 +8,9 @@ category: [overviews]
 confidence: synthesis
 source_collection: synthesis
 tags: [implants, inter-implant-distance, implant-tooth-proximity, crestal-bone]
+relations:
+  - type: refines
+    target: morales-schwarz-2025-1mm-interimplant-distance-10year-case
 ---
 
 > [!summary] 한국어 핵심요약
