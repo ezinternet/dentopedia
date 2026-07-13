@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2023-resin-composite-laminate-ven
 pdf_filename: lim-2023-resin-composite-laminate-veneer-survival-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma
 ---
 
 ## Three-line Summary
