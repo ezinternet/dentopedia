@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/van-dael-2022-national-policies-compl
 pdf_filename: van-dael-2022-national-policies-complaint-handling.pdf
 source_collection: external
 tags: [response, policy, system, quality-improvement]
+relations:
+  - type: reinforces
+    target: gillespie-2025-complaint-handlers-bind-defensive
 ---
 
 ## Three-line Summary
