@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/mccreaddie-2021-qualitative-study-nhs
 pdf_filename: mccreaddie-2021-qualitative-study-nhs-complaint.pdf
 source_collection: external
 tags: [response, discourse-analysis, what-not-to-do]
+relations:
+  - type: extends
+    target: friele-2006-patient-expectations-fair-complaint
 ---
 
 ## Three-line Summary
