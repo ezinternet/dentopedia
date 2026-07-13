@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd, unilateral-chewing, condyle-morphology, tinnitus, fea, chewing-side-preference, tmj-osteoarthritis, home-exercise, myofascial-pain, network-meta-analysis, lidocaine-injection]
+relations:
+  - type: refines
+    target: valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma
 ---
 
 ## 한국어 핵심요약
