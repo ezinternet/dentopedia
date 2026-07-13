@@ -20,6 +20,8 @@ relations:
     target: mordenfeld-2010-msfa-dpbb-biopsies-11year
   - type: extends
     target: rodriguez-2019-long-term-risks-complications-bovine
+  - type: contradicts
+    target: sartori-2003-msfa-bio-oss-10year-case-report
 ---
 
 ## Three-line Summary
