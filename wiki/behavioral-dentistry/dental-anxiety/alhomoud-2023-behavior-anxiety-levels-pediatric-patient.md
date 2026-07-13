@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/alhomoud-2023-behavior-anxiety-levels
 pdf_filename: alhomoud-2023-behavior-anxiety-levels-pediatric-patient.pdf
 source_collection: external
 tags: [dental-anxiety, pediatric, frankl, venham, behavior-rating, cross-sectional]
+relations:
+  - type: reinforces
+    target: pediatric-2026-dental-anxiety-contemporary-assessment-management
 ---
 
 ## Three-line Summary
