@@ -19,6 +19,8 @@ relations:
     target: bowen-2011-streptococcus-mutans-glucosyltransferases
   - type: reinforces
     target: koo-2013-exopolysaccharides-matrix-biofilm-virulence
+  - type: extends
+    target: klein-2012-mutans-protein-synthesis-mixed-species-biofilm
 ---
 
 ## Three-line Summary
