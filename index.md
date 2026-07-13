@@ -1331,6 +1331,7 @@ tags: []
 - [[resin-bonding/el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure]] — In-vitro push-out(Pak J Med Sci 2026, PMC full text): Nd:YVO4 레이저가 과산화수소 대체 가능한 파이버포스트 표면처리; self-adhesive 듀얼큐어 시멘트는 근관 3분획 전반 안정적 결합, conventional 듀얼큐어는 치근단부로 갈수록 저하
 - [[resin-bonding/emami-arjomand-2024-chx-ipa-fiber-post-bond]] — Emami Arjomand 2024 in-vitro(Frontiers in Dentistry, PMC full text): TheraCem 합착 전 상아질 전처리로 70% 이소프로필알코올(IA)이 2% 클로르헥시딘(CHX)·무처리 대조군보다 즉시·열순환 후 fiber post PBS 모두 유의하게 높음(P<0.001)
 - [[resin-bonding/parra-2026-pushout-bond-strength-fiberglass-posts]] — Parra 2026 in-vitro(Cureus, PMC full text): TheraCem 합착 fiberglass post의 NaOCl 활성화 방식(초음파 vs 기계식) 비교 — 초음파가 수치상 높으나(13.60 vs 11.62 MPa) 통계적 유의성 없음(p=0.1745); 양군 모두 치근단부 결합강도 최고
+- [[resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella]] — El Alaoui 2026 umbrella review(Int Dent J, PMC full text, PROSPERO CRD42024588804): 9편 SR(7편 MA) 종합 dentin biomodifier 20종 taxonomy(천연/물리/화학) — NTAP 장기 결합강도 향상 최다 근거(SMD 최대 3.28), GSE·chitosan 장기 개선, NaOCl·HOCl은 유의 저하; CCA=1.52%(overall slight) but NTAP 두 SR 간 57.9%(very high) 중복 (DOI 10.1016/j.identj.2026.109446)
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
