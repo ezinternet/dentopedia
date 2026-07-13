@@ -838,6 +838,7 @@ tags: []
 - [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — AlMoharib 2024 · rct (단일맹검 병렬, 고정성 교정장치 환자 n=30, 사우디) — 워터젯 플로싱(water jet, n=18) vs 치실(interdental flossing, n=12) 2주 비교: 두 군 모두 치태·출혈지수 유의 감소하나 군간 유의차 없음(PI p=0.279, BI p=0.172) — 교정환자 보조도구로 동등 (DOI 10.1186/s12903-024-04166-0)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/he-2023-demystifying-connection-between-periodontal]] — He 2023 · sr (18편 SR 엄브렐라 리뷰, JBI+PRISMA 2020, PROSPERO) · 만성콩팥병(CKD)-치주질환 양방향 관계; 치주치료가 CKD 예후 개선 가능성, 근거 이질성 큼; 초록기반(PMC 풀텍스트 없음) (DOI 10.1111/jre.13161)
 - [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Liang 2025 · consensus (Int J Oral Sci 전문가 합의) · 시멘트질 열개(cemental tear) 진단·감별(VRF/근관/치주)·위치기반 치료 결정트리; torn fragment 완전제거 원칙, CBCT 1차·조직병리 확진, 완전제거 후 1년 94% 잔존 (DOI 10.1038/s41368-025-00381-9)
 - [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] — Lee 2025 · cross-sectional (홍콩 근관치료 클리닉, 치아 445개) · 시멘트질 열개 유병률 5.6%(PR+고해상도 CBCT 병용, PR단독 40% 누락), 다변량 독립위험인자 4개: 전치부·동요도·심한 치조골소실·적절한 근관충전(OR 8.38) (DOI 10.1111/iej.70042)
 - [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — James 2017 · sr+ma (Cochrane, 51 RCT, 5,345명) · CHX 가글 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소; 농도별(0.05%/0.12%/0.2%) 효능 차이 없음; 착색 부작용 일관 (DOI 10.1002/14651858.CD008676.pub2)
