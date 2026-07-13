@@ -14,6 +14,8 @@ relations:
     target: feng-2025-expert-consensus-digital-complete-denture
   - type: reinforces
     target: muehlemann-2025-cost-efficiency-digital-conventional-denture
+  - type: contradicts
+    target: jafarpour-2024-cadcam-versus-traditional-complete-dentures
 ---
 
 > [!summary] 한국어 핵심요약
