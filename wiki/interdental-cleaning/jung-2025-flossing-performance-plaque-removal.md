@@ -18,6 +18,8 @@ tags: [dental-floss, flossing-technique, plaque-removal, interdental-cleaning, F
 relations:
   - type: reinforces
     target: min-2024-brushing-flossing-mouthrinsing-plaque-microbiota
+  - type: extends
+    target: interdental-cleaning-devices-synthesis
 ---
 
 ## Three-line Summary
