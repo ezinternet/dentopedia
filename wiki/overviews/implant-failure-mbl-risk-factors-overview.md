@@ -16,6 +16,11 @@ source_papers:
   - wiki/implants/lin-2026-ten-year-outcomes-short-dental.md
   - wiki/implants/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.md
 tags: [implant-failure, marginal-bone-loss, risk-factors, smoking, bruxism, tilted-implant, short-implant, radiotherapy, zygomatic-implant, immediate-loading, umbrella-review]
+relations:
+  - type: extends
+    target: rismanchian-2025-immediate-nonimmediate-loading-umbrella-review
+  - type: extends
+    target: dambrosio-2026-clinical-risk-medico-legal-implications
 ---
 
 > [!summary] 한국어 핵심요약
