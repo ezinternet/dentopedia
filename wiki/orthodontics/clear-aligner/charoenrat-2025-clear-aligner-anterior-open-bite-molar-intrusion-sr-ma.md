@@ -17,6 +17,8 @@ tags: [clear-aligner, open-bite, molar-intrusion, incisor-extrusion, TAD, overbi
 relations:
   - type: applies-to
     target: marinelli-2025-temporary-anchorage-devices-clear-aligner-sr
+  - type: extends
+    target: yassir-2022-cat-vs-fat-overview-systematic-reviews
 ---
 
 ## Three-line Summary
