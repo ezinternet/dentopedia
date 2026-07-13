@@ -21,6 +21,8 @@ tags: [local-anesthesia, cclad, the-wand, sta, needle-free, computerized-anesthe
 relations:
   - type: extends
     target: kucukkurt-2026-comparison-five-anesthetic-delivery
+  - type: refines
+    target: garret-bernardin-2017-pain-experience-behavior-management-pediatric
 ---
 
 ## 한국어 핵심요약
