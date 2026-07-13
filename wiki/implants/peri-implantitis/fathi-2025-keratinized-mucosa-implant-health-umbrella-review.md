@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/fathi-2025-keratinized-mucosa-implant
 pdf_filename: fathi-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible
 ---
 
 ## Three-line Summary
