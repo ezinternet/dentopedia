@@ -20,6 +20,12 @@ relations:
     target: ayoub-2018-ridge-splitting-horizontal-augmentation-case
   - type: reinforces
     target: chen-2022-reverse-drilling-technique-alveolar-ridge-expansion
+  - type: extends
+    target: simion-1992-jawbone-enlargement-split-crest-gtr
+  - type: extends
+    target: enislidis-2006-staged-ridge-splitting-implant-mandible
+  - type: extends
+    target: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective
 ---
 
 ## Three-line Summary
