@@ -28,6 +28,7 @@ source_papers:
   - drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr
   - drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
   - drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
+  - drug/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma
 confidence: synthesis
 source: synthesis
 relations:
@@ -270,7 +271,21 @@ NRS (Numeric Rating Scale)를 outcome으로.
 
 ---
 
-## 10. 임상 적용 — 체크리스트
+## 10. 심혈관질환 약물(RAAS 억제제·스타틴)과 치주 상태
+
+[중간] **Khalilurrahman 2026** (SR+MA, PROSPERO CRD42024583905) — 심혈관질환 위험군(고혈압·고콜레스테롤혈증)이 복용하는 심장 관련 약물이 치주 상태에 미치는 직접 영향:
+
+- **RAAS 억제제 (ACEI/ARB)**: 정성분석 2편뿐 → 비일관적 (한 연구는 ACEI군 전 치주지표 유의 악화하나 임상적 유의성 의문; 다른 연구는 유의차 없음). 외부 근거(본 리뷰 정성분석 외 인용)는 ACEI/ARB 사용 시 치주염 위험 1.6~4.8배↑ 보고 — 기전은 kinin 경로 염증 활성화(ACEI) 및 타액분비 저하(ARB, [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] 참조).
+- **스타틴**: 정량분석 4편 → 전신 스타틴이 고콜레스테롤혈증 환자의 출혈지수(BOP) -13.4%(p=0.007), 치주낭깊이(PD) -0.38mm(p<0.00001) 유의 개선. 단 PD 효과는 확립된 최소임상중요차이(MCID) 부재로 임상적 유의성 불확실; 임상부착소실(CAL)은 무변화(p=0.17).
+
+→ **치과 임상 적용**:
+- ACEI/ARB 복용 고혈압 환자를 "치주적으로 중립"이라 가정하지 말 것 — 치주염 위험 증가 가능성을 문진·치주평가에 반영.
+- ARB 복용자는 구강건조 동반 여부 확인 ([[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] + 항고혈압제 구강건조 SR 연동).
+- 스타틴 복용 고콜레스테롤혈증 환자는 치주 이득 가능성이 있으나, 이를 근거로 치주 관리를 소홀히 해서는 안 됨(효과 크기 작고 비RCT 근거).
+
+---
+
+## 11. 임상 적용 — 체크리스트
 
 ```
 □ Medical history 수집 (질환·약물·알레르기·이식·임신)
@@ -288,7 +303,7 @@ NRS (Numeric Rating Scale)를 outcome으로.
 
 ---
 
-## 11. 근거 수준 요약
+## 12. 근거 수준 요약
 
 | 주장 | 수준 | 출처 |
 |---|---|---|
@@ -305,10 +320,16 @@ NRS (Numeric Rating Scale)를 outcome으로.
 | DM implant 근거 갱신 (post-2022) | 낮음 (SR in-press, 수치 미확정) | Shahi 2026 |
 | 2022 한국 진정 가이드 15 PICO, moderate sedation·비마취과 포함 | 합의 (consensus 해설) | Karm 2023 |
 | 한국 치과 국소마취 표준 가이드 부재 (제정 필요) | 낮음 (narrative position) | Hwang 2023 |
+| ACEI/ARB 치주상태 영향 비일관적(정성 2편뿐, 판정불가) | 낮음 (non-RCT 2편) | Khalilurrahman 2026 |
+| 전신 스타틴 → BOP -13.4%, PD -0.38mm 유의개선(임상적 유의성 불확실) | 중간 (MA 4편, non-RCT) | Khalilurrahman 2026 |
 
 ---
 
 ## Related Papers
+
+### 신규 추가 (2026-07)
+
+- [[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] — 심혈관질환 위험군 RAAS억제제·스타틴 치주상태 영향 SR+MA (sr+ma, 2026)
 
 ### 신규 추가 (2026-06)
 
