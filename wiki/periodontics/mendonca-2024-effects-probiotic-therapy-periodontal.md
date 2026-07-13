@@ -14,6 +14,8 @@ tags: [probiotics, periodontics, peri-implant, umbrella-review, NSPT, adjunctive
 relations:
   - type: reinforces
     target: overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview
+  - type: reinforces
+    target: periodontal-adjunctive-therapy-probiotics-pdt-overview
 ---
 
 ## Three-line Summary
