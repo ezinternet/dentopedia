@@ -8,7 +8,7 @@ source: ""
 category: [overviews]
 confidence: synthesis
 source_collection: internal
-tags: [ian-injury, lingual-nerve, nerve-injury, paresthesia, hypoesthesia, photobiomodulation, pbm, dexamethasone, vitamin-b12, methylcobalamin, ginkgo-biloba, implant, third-molar, oral-surgery, nerve-regeneration, overview]
+tags: [ian-injury, lingual-nerve, nerve-injury, paresthesia, hypoesthesia, photobiomodulation, pbm, dexamethasone, vitamin-b12, methylcobalamin, ginkgo-biloba, dental-pulp-stem-cells, dpsc, sensory-stimulation, implant, third-molar, oral-surgery, nerve-regeneration, overview]
 relations:
   - type: reinforces
     target: reus-2024-neuropathic-injury-dental-implant-prevalence-sr
@@ -16,6 +16,8 @@ relations:
     target: keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr
   - type: reinforces
     target: misch-2010-mandibular-nerve-neurosensory-implant-management
+  - type: extends
+    target: zheng-2025-dental-pulp-stem-cells-alleviate
 ---
 
 ## 한국어 핵심요약
@@ -28,13 +30,14 @@ relations:
 > - **황금 창(36-hour window)**: 임플란트 식립 후 IAN 접촉/침범 의심 시 **36시간 이내 제거**가 임상 회복의 분기점 — 18 h·36 h 제거: 거의 완전 회복 vs 2일·4일 제거: 영구 완전 마취(Khawaja 2009, 4례).
 > - **약물 관리(Pharmacology)**: ① 덱사메타손(Dexamethasone): 수술 중·수술 직후 국소/전신 투여가 뉴로파직 통증·염증 억제 — **조기 투여만 유효**, 확립된 신경병증에는 효과 없음(Han 2010, 동물). ② 비타민 B12/메틸코발라민(Methylcobalamin): COX 억제·BDNF 증가·수초재생 → 신경병증 통증 감소 및 회복 촉진, keykha SR에서 paresthesia RCT 효과 확인(Buesing 2019, review; Zhang 2020, animal). ③ 은행잎(Ginkgo biloba, EGb): 용량 의존적 말초신경재생 촉진(쥐 모델; 200 > 100 > 50 mg/kg/d), 감각 재생 거리·전도 속도·근육량 모두 개선(Lin 2007, animal) — 인간 임상 검증 필요.
 > - **광생물조절(PBM, Photobiomodulation)**: 808 nm, 9 J/site, 격일 15회 + 메코발라민 병용 → 30일째 이점식별(TPD) −2.6–3.2 mm 개선 vs 위약 −0.8 mm; SWME 1등급 이상 개선 80–85% vs 25%(Ma 2026, RCT, n=60). SR 분석(Keykha 2024, 7 RCT): PBM·비타민 B12·코르티코스테로이드 모두 회복 촉진 — 표준은 없으나 PBM이 가장 일관적.
+> - **전임상 재생 프런티어(Axis 4D, 아직 임상 아님)**: ① 치수줄기세포(Dental Pulp Stem Cell, DPSC) 세포치료 — DPSC 탑재 도관이 원숭이 12개월 모델에서 수초·CMAP 회복을 자가이식에 근접하게 개선; 기전은 터널링 나노튜브(TNT)를 통한 **기능성 미토콘드리아 전달**로 슈반세포 파이롭토시스 구제(mtDNA 결핍 DPSC는 전달해도 구제 실패 → 미토콘드리아가 기능적이어야 함), TNFα 전처리로 효과 증강. 세포원은 **발치한 사랑니**(자가·저면역원성)(Zheng 2025). ② 감각자극 재활 — 삼차신경 감각 입력이 안면 운동회복에 필수이며, 단순 도수 감각자극이 병적 다중신경지배를 절반(53%→22%)으로 줄임(Rink-Notzon 2022, 랫드·안면신경). 둘 다 **동물 근거뿐** — 연구 방향이지 프로토콜 아님.
 > - **시간 기반 프로토콜(Misch 2010)**: ① 수술 중: 국소 덱사메타손 4 mg/mL ± 임플란트 제거(신경 절단 확인 시 즉시 의뢰). ② 1주 이내: 경구 덱사메타손 테이퍼 + 이부프로펜 600–800 mg TID×3주 + 조기 PBM·B12 개시. ③ 12주 이내 개선 없음: 전문의 의뢰 ± 수술적 감압/재건.
 > - **한계**: 치료 관련 RCT가 단 1편(Reus 2024 SR) — 모든 권고는 소규모 RCT·증례·동물 연구 수준; 표준 프로토콜 미확립; 동물→인간 용량 외삽 미검증.
 > - **임상 결론**: 예방(≥2 mm 안전거리·CBCT) → 조기 발견(술 중·술 후 감각 검사) → 36시간 내 임플란트 제거(직접 손상 의심 시) → 덱사메타손 조기 투여 → PBM + 메틸코발라민 × 4–8주 → 12주 무반응 시 신경외과 의뢰. 이 **시간 축 원칙**이 현존하는 가장 강력한 임상 레버다.
 
 ## Three-line Summary
 
-Synthesis of 11 papers (2 SR, 1 RCT, 3 narrative reviews, 1 case-series, 3 animal studies) on iatrogenic IAN/LN injury from dental implants, third-molar extraction, and orthognathic surgery — covering epidemiology, Seddon/Sunderland classification, time-critical management (the 36-hour window), and pharmacological/physical treatments (dexamethasone, vitamin B12/methylcobalamin, PBM, ginkgo biloba).
+Synthesis of 13 papers (2 SR, 1 RCT, 3 narrative reviews, 1 case-series, 5 animal/preclinical studies) on iatrogenic IAN/LN injury from dental implants, third-molar extraction, and orthognathic surgery — covering epidemiology, Seddon/Sunderland classification, time-critical management (the 36-hour window), pharmacological/physical treatments (dexamethasone, vitamin B12/methylcobalamin, PBM, ginkgo biloba), and the preclinical regeneration frontier (DPSC mitochondrial-transfer cell therapy, sensory-stimulation-driven recovery).
 
 Implant-related neuropathy occurs in 12% at 1 week resolving to 5% at 3 months (SR, n=503–662); implant removal within 36 hours is the single most critical intervention for direct IAN contact; PBM and vitamin B12 each independently accelerate sensory recovery in the established-injury phase (SR: 7 RCTs; RCT: n=60, TPD −2.6 mm vs −0.8 mm sham); dexamethasone is effective only when administered early.
 
@@ -42,7 +45,7 @@ No universal treatment guideline exists; all therapies rest on small RCTs with h
 
 ## 세줄요약
 
-11편 종합(SR 2, RCT 1, 서술 리뷰 3, 증례 1, 동물 3): 임플란트·사랑니·악교정 수술 후 하치조신경(IAN)/설신경(LN) 손상의 역학·Seddon/Sunderland 분류·시간 기반 관리(36시간 창)·약물(덱사메타손·비타민 B12·메틸코발라민·은행잎)·광생물조절(PBM) 종합.
+13편 종합(SR 2, RCT 1, 서술 리뷰 3, 증례 1, 동물/전임상 5): 임플란트·사랑니·악교정 수술 후 하치조신경(IAN)/설신경(LN) 손상의 역학·Seddon/Sunderland 분류·시간 기반 관리(36시간 창)·약물(덱사메타손·비타민 B12·메틸코발라민·은행잎)·광생물조절(PBM)·전임상 재생 프런티어(치수줄기세포 미토콘드리아 전달 세포치료·감각자극 유도 회복) 종합.
 
 임플란트 후 신경병증: 1주 12% → 3개월 5% (SR, n=503–662); 직접 IAN 접촉 시 36시간 이내 임플란트 제거가 단일 최대 회복 레버; PBM·비타민 B12 모두 독립적으로 감각 회복 촉진(SR: 7 RCT; RCT: n=60, TPD −2.6 mm vs 위약 −0.8 mm); 덱사메타손은 조기 투여 시만 유효.
 
@@ -173,6 +176,16 @@ No universal treatment guideline exists; all therapies rest on small RCTs with h
 
 > **Clinical note**: dose extrapolation to humans is not validated. EGb 120–240 mg/day is the standard human dose for neuroprotection, but no dental-specific RCT exists. Consider as adjunct only when standard therapies insufficient.
 
+### 4D. Experimental regeneration — cell therapy & sensory-stimulation rationale (전임상)
+
+Two preclinical papers extend the conduit/Schwann-cell theme of Zhang 2020 beyond drug-loaded scaffolds — into cell therapy and into the sensory-input side of functional recovery. Both are **animal-only**; neither is a clinical option today. They belong here as the mechanistic frontier of the regeneration axis, not as treatment recommendations.
+
+**Zheng 2025** (preclinical: 12-month macaque facial-nerve-transection n=12 + rat FNI crush n=16 + in-vitro Schwann-cell pyroptosis): dental pulp stem cells (DPSCs) loaded into a nerve conduit improved long-term myelin/axon regeneration and CMAP recovery versus bare conduit in primates, approaching (not equaling) autograft. The **mechanism** is the contribution: DPSCs do not merely differentiate or act paracrine — they physically transfer functional mitochondria into pyroptosis-stressed Schwann cells through tunneling nanotubes (TNTs), rescuing mitochondrial-ROS overload; mtDNA-depleted (ρ⁰) DPSCs still transfer but fail to rescue, proving the *mitochondria themselves* must be functional. A feed-forward loop (pyroptotic-Schwann-cell TNFα → NF-κB in DPSCs → more biogenesis/TNTs) means TNFα-preconditioning DPSCs before transplant improves repair. **Dental relevance is the cell source**: DPSCs come from routinely-extracted third molars — an autologous, low-immunogenicity, chairside-accessible reservoir for future peripheral-nerve (facial, and by extension IAN/LN) regenerative strategies.
+
+**Rink-Notzon 2022** (narrative review of the authors' Wistar-rat facial-nerve-transection program) — an *adjacent* finding that reframes what "rehabilitation" of an injured nerve means. Axotomized facial motoneurons are left "hyperexcitable but unable to discharge" when deprived of adequate trigeminal sensory input; excising the infraorbital (V2) sensory nerve worsened whisking recovery and *abolished* the benefit of manual stimulation, whereas simple manual/vibrissal sensory stimulation of intact trigeminal afferents restored perisomatic synaptic density and halved pathological polyinnervation (53%→22%). The proposed translational hypothesis: **massage-based sensory stimulation of trigeminal-innervated skin/mucosa could substitute for elaborate physiotherapy** after combined nerve injury. Caveats are large — this is facial-nerve *motor* recovery in rats (not IAN/LN sensory recovery), and human application is an explicit hypothesis, not evidence. It is included as the sensory-input rationale behind the wider "stimulate the recovering nerve" theme (of which PBM in Axis 5 is the one modality with human data).
+
+> **Bottom line for 4D**: cell therapy (DPSC) and sensory-stimulation rehab are mechanistically promising and share the wiki's conduit/Schwann-cell lineage, but both rest entirely on animal models — they set research direction, not current protocol.
+
 ---
 
 ## Axis 5 — Photobiomodulation (PBM)
@@ -272,3 +285,5 @@ WEEKS 1–12 (established paresthesia)
 - [[drug/analgesics/buesing-2019-vitamin-b12-pain-nerve-regeneration-review]] — B12 mechanisms/clinical
 - [[oral-surgery/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — methylcobalamin conduit animal
 - [[oral-surgery/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — ginkgo dose-response animal
+- [[oral-surgery/zheng-2025-dental-pulp-stem-cells-alleviate]] — DPSC-loaded conduit rescues Schwann-cell pyroptosis by mitochondrial transfer via tunneling nanotubes (macaque 12-mo + rat + in-vitro); autologous third-molar-derived cell source (Axis 4D, preclinical)
+- [[oral-surgery/rink-notzon-2022-trigeminal-sensory-supply-essential-motor]] — trigeminal sensory input is necessary for facial motor recovery; manual sensory stimulation halves pathological polyinnervation (rat) — the rationale behind sensory-stimulation rehab (Axis 4D, adjacent/rat)
