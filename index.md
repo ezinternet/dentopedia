@@ -2361,6 +2361,11 @@ tags: []
 - [[radiology/abdar-esfahani-2013-mandibular-anterior-nutrient-canals]] — Abdar-Esfahani 2013 · case-control(n=64, Isfahan) · 하악전치부 nutrient canal 발생률 고혈압군 37.5% vs 정상혈압군 53.1% — 유의차 없음(P=0.209); NC-고혈압 연관 반박(contradicts Kumar 2014) (PMC full text)
 - [[radiology/kaur-2019-evaluation-mandibular-anterior-nutrient]] — Kaur 2019 · cross-sectional(n=600, HTN/DM/대조군) · 하악전치부 nutrient canal 유병률 DM 93.5% > HTN 88.5% > 대조군 44.5%; 이환기간·성별 무관 (PMC full text)
 - [[radiology/wamasing-2018-imaging-bifid-mandibular-canal]] — Wamasing 2018 · retrospective(DMFR, 초록기반) · 3D-VIBE MRI로 하악관 이분(BMC) 발생률 6.4%, 파노라마/CT로는 거의 검출 불가; nutrient canal 발생률 58.4–97.6%(MRI 기반)
+- [[radiology/eshak-2014-cone-beam-ct-evaluation-presence]] — Eshak 2014 · retrospective(CBCT, n=4051, 초록기반) · 상하악 부관(AC) 유병률 42.9%(하악 29.8% > 상악 13.1%); 술전 리스크 평가용 대규모 기준값
+- [[radiology/aung-2023-bifid-mandibular-canal-proportional]] — Aung 2023 (SR+MA, 40편, 17,714명/31,973 반측하악골) · BMC 유병률 환자수준 20.7%·반측하악골수준 14.3%; 남성·우측 유의↑, 이질성 매우 높음(I²≈99%)
+- [[radiology/cuozzo-2024-prevalence-anatomical-characteristics-bifid]] — Cuozzo 2024 · retrospective(CT/CBCT, n=123) · BMC/TMC 병합 유병률 53.6%; 후구치관(retromolar canal) 세부 아형·계측 제시(폭 1.44±0.65mm)
+- [[radiology/kuribayashi-2010-bifid-mandibular-canals-cone]] — Kuribayashi 2010 · retrospective(CBCT, n=301측, 초록기반) · BMC 발생률 15.6%(Nortjé 분류), 파노라마 대비 훨씬 높은 검출률 — 최초의 단면영상 기반 BMC 체계 연구
+- [[radiology/menditti-2025-real-anatomy-mandibular-canal]] — Menditti 2025 (narrative review, In Vivo) · 하악관 변이를 BMC/TMC/하악골내 부속관/치성관 4범주+영양관(별도 비연결 범주)로 재분류 제안; 저널 임팩트 낮음(공식 질평가 없음)
 
 <!-- BATCH INGEST 2026-06-05: dentomaxillofacial radiology 19편 (CBCT/파노라마 선량 최적화·영상 기하·허상·저자장 MRI) -->
 ### radiology (added 2026-06-05, batch g — imaging dose & geometry)
