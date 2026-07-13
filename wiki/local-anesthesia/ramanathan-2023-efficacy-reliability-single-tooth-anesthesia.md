@@ -15,6 +15,11 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10831014/
 text_path: /Users/oracleneo/llm-wiki/papers/ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.txt
 text_filename: ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.txt
 tags: []
+relations:
+  - type: applies-to
+    target: malamed-2011-mandibular-nerve-block-passe
+  - type: extends
+    target: haas-2011-alternative-mandibular-nerve-block-techniques
 ---
 
 ## Three-line Summary
