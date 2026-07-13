@@ -34,6 +34,9 @@ source_papers:
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
+relations:
+  - type: extends
+    target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
 ---
 
 ## 한국어 핵심요약
