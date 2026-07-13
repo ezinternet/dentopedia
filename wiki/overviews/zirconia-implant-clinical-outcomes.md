@@ -10,6 +10,11 @@ source_papers:
   - wiki/behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant.md
   - wiki/implants/shetty-2026-titanium-vs-zirconia-implants-umbrella.md
 tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
+relations:
+  - type: reinforces
+    target: mohseni-2024-clinical-outcomes-zirconia-implants
+  - type: contradicts
+    target: shetty-2026-titanium-vs-zirconia-implants-umbrella
 ---
 
 ## 한국어 핵심요약
