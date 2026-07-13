@@ -17,6 +17,8 @@ text_filename: khanum-2024-one-stage-vs-two-stage-ridge-splitting-sr-ma.txt
 relations:
   - type: refines
     target: enislidis-2006-staged-ridge-splitting-implant-mandible
+  - type: reinforces
+    target: simion-1992-jawbone-enlargement-split-crest-gtr
 tags: []
 ---
 
