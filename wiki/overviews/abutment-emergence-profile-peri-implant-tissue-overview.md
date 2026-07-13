@@ -43,6 +43,8 @@ relations:
     target: munoz-2025-1mm-3mm-abutments-7year-rct
   - type: extends
     target: seijas-naya-2025-concave-straight-abutment-bone-rct
+  - type: reinforces
+    target: canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma
 ---
 
 ## 한국어 핵심요약
