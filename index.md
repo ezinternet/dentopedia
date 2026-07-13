@@ -838,6 +838,7 @@ tags: []
 - [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — AlMoharib 2024 · rct (단일맹검 병렬, 고정성 교정장치 환자 n=30, 사우디) — 워터젯 플로싱(water jet, n=18) vs 치실(interdental flossing, n=12) 2주 비교: 두 군 모두 치태·출혈지수 유의 감소하나 군간 유의차 없음(PI p=0.279, BI p=0.172) — 교정환자 보조도구로 동등 (DOI 10.1186/s12903-024-04166-0)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/he-2023-demystifying-connection-between-periodontal]] — He 2023 · sr (18편 SR 엄브렐라 리뷰, JBI+PRISMA 2020, PROSPERO) · 만성콩팥병(CKD)-치주질환 양방향 관계; 치주치료가 CKD 예후 개선 가능성, 근거 이질성 큼; 초록기반(PMC 풀텍스트 없음) (DOI 10.1111/jre.13161)
 - [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Liang 2025 · consensus (Int J Oral Sci 전문가 합의) · 시멘트질 열개(cemental tear) 진단·감별(VRF/근관/치주)·위치기반 치료 결정트리; torn fragment 완전제거 원칙, CBCT 1차·조직병리 확진, 완전제거 후 1년 94% 잔존 (DOI 10.1038/s41368-025-00381-9)
 - [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] — Lee 2025 · cross-sectional (홍콩 근관치료 클리닉, 치아 445개) · 시멘트질 열개 유병률 5.6%(PR+고해상도 CBCT 병용, PR단독 40% 누락), 다변량 독립위험인자 4개: 전치부·동요도·심한 치조골소실·적절한 근관충전(OR 8.38) (DOI 10.1111/iej.70042)
 - [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — James 2017 · sr+ma (Cochrane, 51 RCT, 5,345명) · CHX 가글 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소; 농도별(0.05%/0.12%/0.2%) 효능 차이 없음; 착색 부작용 일관 (DOI 10.1002/14651858.CD008676.pub2)
@@ -1363,6 +1364,7 @@ tags: []
 - [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — 서술적 고찰: 관절염·CVD·당뇨·비스포스포네이트·방사선골괴사·CKD·간경화 등 보철과 특화 수정 지침
 - [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR(25편): VKA·DOAC·항혈소판제 복용 환자 치과 처치 시 중단 불필요; 트라넥사민산 양치액 1차 지혈제
 - [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR (7 studies): continuous vs discontinuous anticoagulant and vs bridging — no significant bleeding difference; HAS-BLED/CHA₂DS₂-VASc risk scores guide decisions
+- [[drug/anticoagulants/yong-2022-dapt-dental-extraction-umbrella-review]] — Yong 2022 · sr+ma(umbrella review, 초록기반) · 기존 SR 4편 종합: DAPT는 발치 후 출혈 위험↑이나 국소지혈로 충분히 조절 가능 — 중단 불필요, 중단 시 혈전색전 합병증이 더 치명적일 수 있음
 - [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — 서술적 고찰: NSAIDs WHO 1차 진통제; 전 치과분야 적용; COX 외 NF-kB·iNOS 기전; 국소 NSAIDs 금기·대체약 정리
 - [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]] — Magesty 2026 · sr+ma · 사랑니 발치 단회 경구진통제 NMA: NSAID 단독 이상반응 최다(SUCRA 86.5%), 3제 병용 최저(15.5%), 노세보 주도
 - [[drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring]] — Breidung 2025 · retrospective(n=68) · 17년 화상센터 SJS/TEN: **피린계 진통제 메타미졸이 단일 최다 원인약물(8건>알로푸리놀 7건)**, 사망률 51%, 분류트리 AUC 0.88 > SCORTEN 계열
