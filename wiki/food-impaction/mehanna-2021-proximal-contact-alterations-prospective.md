@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/mehanna-2021-proximal-contact-alterat
 pdf_filename: mehanna-2021-proximal-contact-alterations-prospective.pdf
 source_collection: external
 tags: [proximal-contact-loss, food-impaction, implant-prosthesis, prospective]
+relations:
+  - type: extends
+    target: pang-2017-prevalence-proximal-contact-loss-prospective
 ---
 
 ## Three-line Summary
