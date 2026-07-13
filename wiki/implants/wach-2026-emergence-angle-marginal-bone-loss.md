@@ -15,6 +15,13 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13207012/
 text_path: /Users/oracleneo/llm-wiki/papers/wach-2026-emergence-angle-marginal-bone-loss.txt
 text_filename: wach-2026-emergence-angle-marginal-bone-loss.txt
 tags: [emergence-angle, marginal-bone-loss, corticalization-index, single-crown, splinted-crown, bridge]
+relations:
+  - type: extends
+    target: implant-prosthesis-misfit-connection-mbl-overview
+  - type: refines
+    target: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants
+  - type: refines
+    target: strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium
 ---
 
 ## Three-line Summary
