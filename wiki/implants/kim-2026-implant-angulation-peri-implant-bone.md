@@ -16,6 +16,8 @@ relations:
     target: di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis
   - type: reinforces
     target: stilwell-2024-occlusal-considerations-implant-maintenance
+  - type: extends
+    target: implant-occlusion-loading-biomechanics-overview
 ---
 
 ## Three-line Summary
