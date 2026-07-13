@@ -3060,6 +3060,7 @@ tags: []
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — Nkenke 2003 · in-vitro(인체 cadaver, 48impl): 일차안정성-CT 골밀도·histomorphometry 상관 (고전 anchor, webpage capture)
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — Al-Juboori 2024 · sr: 두꺼운 cortical bone이 일차·이차 안정성 모두 향상(IT·ISQ 상승)
 - [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — Leblebicioğlu Kurtuluş 2022 · in-vitro(FEA): D4 저밀도골·cortical 두께 감소가 임플란트 주위 응력 증가, 나사 설계·지대주 각도가 응력분포 좌우 (webpage capture)
+- [[implants/singh-2024-influence-implant-design-length-stress]] — Singh 2024 · in-vitro(2D FEA): 픽스쳐 길이 6 vs 10 mm 분리 비교, 10 mm가 계면 von Mises 응력 일관 낮음(step 수직 188→35.44 MPa), 사면>수직, D4·즉시하중 (pubmed-text)
 - [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]] — Hussein 2019 · in-vitro(FEA): 경부 crestal cortical bone에 최대 응력, tapered body가 cylinder보다 peak von Mises 응력 높음 (macrogeometry trade-off)
 - [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — Chang 2024 · in-vitro(FEA 최적화): D3·D4에서 thread depth 증가가 crestal 응력 ~40%·변위 ≥9% 감소(D2는 효과 미미) — 골질별 설계 최적화
 
