@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/worawongvasu-2021-nccl-sem-characteri
 pdf_filename: worawongvasu-2021-nccl-sem-characterization.pdf
 source_collection: external
 tags: [nccl, sem, abfraction, ultrastructure, microfracture]
+relations:
+  - type: contradicts
+    target: nascimento-2016-abfraction-etiology-diagnosis-treatment
 ---
 
 ## Three-line Summary
