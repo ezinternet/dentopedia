@@ -8,6 +8,9 @@ confidence: synthesis
 source_collection: internal
 tags: [overview, cracked-tooth-syndrome, CTS, longitudinal-fracture, diagnosis, endodontic-decision, cuspal-coverage, korean-clinical-application]
 source: synthesis
+relations:
+  - type: refines
+    target: rathke-2024-ex-vivo-minimally-invasive-endodontic
 ---
 
 ## 한국어 핵심요약
