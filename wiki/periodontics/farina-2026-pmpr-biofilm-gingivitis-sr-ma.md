@@ -21,6 +21,8 @@ relations:
     target: lamont-2018-routine-scale-and-polish-periodontal-health
   - type: reinforces
     target: cyris-2024-guided-biofilm-therapy-versus-conventional
+  - type: extends
+    target: professional-biofilm-management-gbt-air-polishing-overview
 ---
 
 ## Three-line Summary
