@@ -13,6 +13,8 @@ relations:
     target: morita-1998-toothpick-method-bass-supragingival-plaque-rct
   - type: extends
     target: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr
+  - type: refines
+    target: el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional
 ---
 
 ## 한국어 핵심요약
