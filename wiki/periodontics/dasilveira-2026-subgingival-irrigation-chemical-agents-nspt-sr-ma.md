@@ -20,6 +20,8 @@ tags: [periodontitis, NSPT, subgingival-irrigation, chemical-agents, povidone-io
 relations:
   - type: refines
     target: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing
+  - type: refines
+    target: khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment
 ---
 
 ## Three-line Summary
