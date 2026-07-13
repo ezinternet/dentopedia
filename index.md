@@ -917,6 +917,7 @@ tags: []
 - [[periodontics/scannapieco-2021-dysbiosis-oral-microbiome-periodontitis]] — Scannapieco 2021 · narrative-review (critical assessment, J Periodontol) · 치주염 dysbiosis 개념 재검토: 흔한 치주염은 다양성 증가(장/피부 dysbiosis와 반대 방향)로 keystone pathogen 과증식보다 다양 공생균 총생물량 증가(personalized pathology)가 병인; 진짜 다양성감소형 dysbiosis는 유전적 감수성 숙주(백혈구부착결핍 등)에 국한 (DOI 10.1002/JPER.21-0120)
 - [[periodontics/murugaiyan-2024-porphyromonas-gingivalis-strains-periodontal]] — Murugaiyan 2024 · cross-sectional (Sci Rep, OsteoPerio 코호트) — P. gingivalis ISR(intergenic sequence region) 균주형별(W83/W50 등)이 치주염 중증도와 연관됨을 규명 (DOI 10.1038/s41598-024-56849-x)
 - [[periodontics/botelho-2022-umbrella-review-oral-systemic]] — Botelho 2022 · sr+ma (엄브렐라 리뷰, Nat Commun, 293 SR/MA·855 비교, PROSPERO CRD42022300740) · 구강질환-전신 NCD 28종 강한 연관성 등급화(암5·당뇨·심혈관·RA·IBD·PCOS·비만·천식); AMSTAR2 high/moderate 10.3%뿐이나 fail-safe number상 97.5%는 향후 연구로도 안 뒤집힘; 개입 근거는 치주치료→전신염증·근관치료→CVD만 강한 근거 (DOI 10.1038/s41467-022-35337-8)
+- [[periodontics/arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella]] — Arbildo-Vega 2024 · sr+ma (엄브렐라, 18 SR·원저 296편, AMSTAR-2, PMC 전문) · 치주질환↔당뇨병(1형·2형·임신성) 연관: RR 1.26–1.86·OR 1.69–2.59, 당뇨 환자서 치태·치은지수·CAL·탐침깊이·BOP 모두 악화; 13/18편만 high-confidence·중복 17.26%가 확실성 제한, 고혈압 미포함 (DOI 10.3390/healthcare12222311)
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"
