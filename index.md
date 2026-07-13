@@ -1459,6 +1459,8 @@ tags: []
 - [[drug/antibiotics/chunduri-2012-bacterial-spectrum-orofacial-infections]] — Chunduri 2012 (감수성 연구, n=68, 인도): 구강안면감염 amox-clav 감수성 95–100%(혐기성 100%)·clindamycin 양호, erythromycin 효용 의문 (2012)
 - [[drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic]] — Kwon 2023 · retrospective · 한국 3차병원 10년 배양 데이터(n=192, 균주 302주): viridans streptococcus 51.7%(증가추세), penicillin류 감수성 하락 vs 3세대 세팔로스포린 ~94% 유지 — 급성 치조농양(치성 근막간극 농양) 경험적 항생제 선택 근거 (DOI 10.5125/jkaoms.2023.49.4.198)
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
+- [[drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review]] — Bwire 2025 (Syst Rev) · sr+ma · 우산리뷰 28편(원저 457편+): WHO 2018 권고 이후 절개봉합 후 24시간 초과 항생제 예방투여(PAP) 지속이 즉시중단 대비 유의한 이득 없음(RR 1.07, 9개 메타분석 통합 n=80,483); AMSTAR-2 전반 critically low~low, 탈이행 5개 전략 제시
+- [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Liu 2024 (Int J Surg) · sr+ma · 우산리뷰(75 SR·725 RCT·119개 결과지표·163,832명, 78개 임상시나리오): 항생제 예방투여(AP) 56.3% 유의 이득이나 70%가 low~very-low 확실성; 창상 청결도와 효능은 대체로 무관, 방광경·화학요법후 무열성 호중구감소증은 내성/부작용 유의 증가 → 루틴 적용보다 케이스별 판단 필요
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez 2017 · sr+ma (23 RCT, 2,824 발치) · CHX (제형·농도 무관) 사랑니 발치 후 건성발치와 위험 47% 감소 (RR=0.53, NNT=8); 겔 > 가글 (RR 0.47 vs 0.58) (DOI 10.1016/j.joms.2017.01.002)
