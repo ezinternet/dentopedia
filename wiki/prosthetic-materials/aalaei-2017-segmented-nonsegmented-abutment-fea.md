@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/aalaei-2017-segmented-nonsegmented-ab
 pdf_filename: aalaei-2017-segmented-nonsegmented-abutment-fea.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: velez-2020-implant-connection-abutment-design-screw
 ---
 
 ## Three-line Summary
