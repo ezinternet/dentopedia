@@ -1,0 +1,32 @@
+Bifid mandibular canals: cone beam computed tomography evaluation.
+
+Kuribayashi A, Watanabe H, Imaizumi A, Tantanapornkul W, Katakami K, Kurabayashi T.
+Dentomaxillofacial Radiology, 2010;39(4):235-9.
+DOI: 10.1259/dmfr/66254780
+PMID: 20395465
+PMCID: PMC3520225
+
+NOTE: PMC returned an empty full-text body for this DMFR article (known quirk for
+this journal in PMC's API). The text below is the published abstract only —
+no full-text Methods/Results/Discussion sections were retrievable.
+
+ABSTRACT
+
+For surgical procedures involving the posterior mandible, it is important to be
+familiar with the details of the bifid mandibular canal. To our knowledge, there
+have been no systematic studies evaluating the bifid mandibular canal using
+sectional imaging. The purpose of this study is to evaluate the incidence and
+configuration of the bifid mandibular canal using cone beam CT. 252 patients (301
+mandible sides) underwent cone beam CT between October 2004 and September 2005 and
+were included in this study. The cone beam CT images were evaluated for the
+presence and configuration of the bifid mandibular canal. The patterns of
+bifurcation were classified into four types according to the classification of
+Nortje et al. The diameter of the accessory canal was classified into two
+categories: 50% or more and less than 50% of the diameter of the main mandibular
+canal. Of the 301 subjects, 47 (15.6%) demonstrated a bifid mandibular canal. They
+were Type I in 2, Type II in 40, Type III in 0, and Type IV in 5 cases. The
+diameter of the accessory canal was greater than or equal to 50% of the main canal
+in 23, and less than 50% in 24 cases. On the basis of the cone beam CT, a bifid
+mandibular canal was found in 15.6% of cases, a markedly higher proportion than
+found in previous reports using panoramic images. Cone beam CT is considered a
+suitable modality for detailed evaluation of bifid mandibular canals.
