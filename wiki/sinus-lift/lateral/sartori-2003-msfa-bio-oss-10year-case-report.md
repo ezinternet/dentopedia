@@ -14,6 +14,8 @@ tags: []
 relations:
   - type: contradicts
     target: mordenfeld-2010-msfa-dpbb-biopsies-11year
+  - type: extends
+    target: sinus-lift-lateral-2026-synthesis
 ---
 
 ## Three-line Summary
