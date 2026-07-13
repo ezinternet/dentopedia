@@ -7,6 +7,10 @@ owner: 원장
 priority: P1
 deadline: 2026-10-31
 tags: [team-feedback, johari-window, hr, rollout]
+source_wiki:
+  - wiki/practice-management/team-feedback-system-johari.md
+  - wiki/practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.md
+  - wiki/practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma.md
 ---
 
 # Goal
