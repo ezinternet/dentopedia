@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/achmadi-2025-intraoral-scanner-edentu
 pdf_filename: achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping.pdf
 source_collection: external
 tags: [ios, intraoral-scanner, edentulous, laboratory-scanner, accuracy, denture, impression, scoping-review]
+relations:
+  - type: reinforces
+    target: digital-workflow-decision-ladder
 ---
 
 ## Three-line Summary
