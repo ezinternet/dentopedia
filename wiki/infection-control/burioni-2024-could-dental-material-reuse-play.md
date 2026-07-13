@@ -18,6 +18,8 @@ tags: [healing-abutment, reuse, residual-protein, sterilization, titanium]
 relations:
   - type: reinforces
     target: bidra-2019-should-healing-abutments-cover-screws
+  - type: refines
+    target: kyaw-2023-effect-chemical-electrochemical-decontamination-protocols
 ---
 
 ## Three-line Summary
