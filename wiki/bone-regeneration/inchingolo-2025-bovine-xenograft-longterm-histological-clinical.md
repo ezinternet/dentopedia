@@ -20,6 +20,8 @@ relations:
     target: rodriguez-2019-long-term-risks-complications-bovine
   - type: reinforces
     target: nowzari-2022-migration-bovine-derived-xenograft-particles
+  - type: refines
+    target: sartori-2003-msfa-bio-oss-10year-case-report
 ---
 
 ## Three-line Summary
