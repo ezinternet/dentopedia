@@ -1345,6 +1345,7 @@ tags: []
 - [[drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] — Kim 2024 · retrospective · 발치 시 DOAC 유지군 vs 중단군 출혈 차이 없음(4.9% vs 0%, n=293), INR 무관·국소지혈 핵심
 - [[drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant]] — Al-Suliman 2025 · prospective · 항응고 환자 발치 분악시험(40명/80소켓): Surgicel이 Gelfoam보다 지혈·지연출혈·치유·통증 모두 우수
 - [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — Hamadé 2024 · sr+ma · 24편·임플란트 21,066개: 고혈압은 임플란트 실패 위험 증가 없음(OR 1.10, p=0.671)
+- [[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] — Khalilurrahman 2026 · sr+ma(정성 6편·정량 4편) · 심혈관질환 위험군 약물 — RAAS억제제(ACEI/ARB)는 치주상태 비일관적(2편뿐, 판정불가); 스타틴은 BOP -13.4%(p=0.007)·PD -0.38mm(p<0.00001) 유의개선(임상적 유의성은 불확실), CAL 무변화 (PMC full text)
 - [[drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol]] — Perozo 2026 · retrospective · 고혈압 구강수술 기저혈압이 혈역학 변동 최대인자·출혈 7배↑; 3단계 Perozo 프로토콜 제안(미검증)
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — Yang 2025 · retrospective · 고혈압 발치 2,059건: 8.0% 혈압강하제 필요(술전 SBP≥159 AUC0.91), 37.2% 일과성 부정맥(전부 비치명적)
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — Kumari 2025 · prospective(n=50) · 리도카인+아드레날린 발치 중 SBP/DBP/HR 상승; 코호트는 정상혈압이라 고혈압 권고는 외삽(주의) (PMC full text)
