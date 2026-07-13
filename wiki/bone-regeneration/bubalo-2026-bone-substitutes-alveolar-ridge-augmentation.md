@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/bubalo-2026-bone-substitutes-alveolar
 pdf_filename: bubalo-2026-bone-substitutes-alveolar-ridge-augmentation.pdf
 source_collection: external
 tags: []
+relations:
+  - type: extends
+    target: buser-2023-gbr-implant-35years-basic-principle-review
 ---
 
 ## Three-line Summary
