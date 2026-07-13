@@ -8,6 +8,9 @@ confidence: synthesis
 source_collection: internal
 tags: [overview, sinus-lift, lateral-window, schneiderian-membrane, perforation, prf, cbct, septa, sinusitis, smoking, psaa, osteomeatal-complex, rrh, mucosal-thickness, sinusitis-prevention, graft-material, dbbm, bcp, l-prf, a-prf, histomorphometry]
 source: synthesis
+relations:
+  - type: extends
+    target: akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height
 ---
 
 ## 한국어 핵심요약
