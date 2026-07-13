@@ -16,6 +16,8 @@ relations:
     target: bruxism-muscle-overload-axis
   - type: reinforces
     target: stilwell-2024-occlusal-considerations-implant-maintenance
+  - type: extends
+    target: mojaver-2025-occlusal-overload-peri-implant-health-sr
 ---
 
 ## 한국어 핵심요약
