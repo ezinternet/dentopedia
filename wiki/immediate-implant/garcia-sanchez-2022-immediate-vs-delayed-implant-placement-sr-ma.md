@@ -14,6 +14,11 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/35044012/
 text_path: /Users/oracleneo/llm-wiki/papers/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma.txt
 text_filename: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma.txt
 tags: []
+relations:
+  - type: contradicts
+    target: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma
+  - type: applies-to
+    target: evidence-appraisal-toolkit
 ---
 
 ## Three-line Summary
