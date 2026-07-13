@@ -14,6 +14,13 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/28478869/
 text_path: /Users/oracleneo/llm-wiki/papers/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma.txt
 text_filename: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma.txt
 tags: []
+relations:
+  - type: contradicts
+    target: lang-2012-immediate-implant-survival-success-sr
+  - type: contradicts
+    target: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
+  - type: contradicts
+    target: esposito-2010-fresh-extraction-sockets-immediate-cochrane
 ---
 
 ## Three-line Summary
