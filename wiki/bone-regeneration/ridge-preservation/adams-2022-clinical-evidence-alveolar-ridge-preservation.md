@@ -14,6 +14,10 @@ tags: [narrative-review, ARP, xenograft, late-graft-failure, case-report, skepti
 relations:
   - type: contradicts
     target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
+  - type: reinforces
+    target: bone-regeneration-socket-biology-and-arp-critique
+  - type: refines
+    target: socket-preservation-arp-overview
 ---
 
 ## Three-line Summary
