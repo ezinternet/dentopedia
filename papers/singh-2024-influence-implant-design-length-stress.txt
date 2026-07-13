@@ -1,0 +1,73 @@
+Influence of implant design and length on stress distribution in immediately loaded implants in posterior maxilla – A two-dimensional finite element analysis
+
+Authors: Rika Singh, Shrikar R Desai, R G Shiva Manjunath
+Journal: Journal of Indian Society of Periodontology, 2024;27(6):600-606
+DOI: 10.4103/jisp.jisp_531_22
+PMID: 38434497
+PMCID: PMC10906790
+Source: PubMed Central full text (JATS)
+
+== ABSTRACT ==
+
+Aim: The aim of this two dimensional (2D) finite element analysis study was to evaluate the influence of implant design (step and tapered) and length on stress distribution at bone implant interface, when placed in maxillary posterior bone under immediate loading protocol.
+
+Materials and Methods: 2D finite element models were developed to simulate the two types of implant designs, i.e., Tapered and step implants of 3.75-mm – Diameter and 6 and 10 mm lengths, respectively. Maxillary posterior bone quality (D4 bone) was simulated with a very thin cortical bone (0.5 mm) for the placement of implants. The respective material properties were assigned. The implant designs incorporated microthreads at the crestal part and rest of the implant body incorporated Acme threads. Forces of 100 Newtons were applied vertically and in oblique direction (at an angle of 45°) to long axis of the implants. Total deformation (micromovements), stresses and strains were evaluated at the bone implant interface.
+
+Results: The results of micromovements, stresses and strains were found to be lower for long implants as compared to short implants. Also, all the values were found to be higher for oblique loads as compared to vertical loads. The von mises stress values were highest for 6 mm step implants and lowest for 10 mm step implants.
+
+Conclusion: In the presence of low bone density with optimal bone height, standard diameter long step implants can be used. Incorporation of microthreads at the crestal portion and acme threads for body portion of the implant presents a good option to be used under immediate loading protocol.
+
+== INTRODUCTION (key points) ==
+
+The tooth implant fixture bears masticatory loads and transfers them to the surrounding peri-implant bone. Excessive micromovements at the bone-implant interface during healing can form fibrous tissue instead of osseointegration, ultimately leading to implant failure. Immediate functional loading shortens the time between surgery and prosthetic rehabilitation; successful osseointegration under immediate loading is possible if micromovement is kept minimal.
+
+Bone quality/quantity governs implant selection, primary stability and loading time. Lekholm and Zarb divide bone into four quality groups. Poor-quality bone leads to higher failure; Jaffin and Berman reported 55% of all failures occurred in D4 bone (overall 35% failure).
+
+Bone quality affects the choice of implant length. For good-density bone, diameter and length are not such significant factors; but with poor bone quality, optimal choice of implant length and geometry becomes important. Inadequate bone volume or anatomical limitations lead to short/narrow implants. The literature is controversial on implant length: some studies report short implants increase failure, others find length does not significantly affect survival. In poor bone quality, avoiding short implants and using wide-diameter implants is recommended.
+
+Microthreads maintain strain at the "steady state zone" around implants and counteract marginal bone resorption. Stepped cylindrical design distributes load more uniformly (Holmgren); tapered design enhances primary stability in low-density bone and directs stress away from the crestal bone portion.
+
+== MATERIALS AND METHODS ==
+
+Software: ANSYS classic version 11. 2D FE models of the maxillary posterior region, cancellous core (D4) surrounded by a 0.5 mm cortical layer.
+
+Implant design: length 6 mm and 10 mm, standard diameter 3.75 mm; tapered and step designs. Step 10 mm: three steps of 3.33 mm each; step 6 mm: three steps of 2 mm each. Step widths: step 1 = 3.75 mm, step 2 = 3.25 mm, step 3 = 2.75 mm (both lengths). Microthreads at crestal part: 0.2 mm screw pitch, 29° thread angle. Body: acme threads, 0.8 mm screw pitch, 29° thread angle.
+
+Material properties (homogeneous, linearly elastic):
+- Trabecular bone (D4): Young's modulus 1.10 GPa, Poisson ratio 0.3
+- Cortical bone: 13.7 GPa, 0.3
+- Titanium: 110,000 MPa, 0.33
+
+Interface: frictional coefficient 0.6 at bone-implant interface (immediately loaded implant).
+
+Mesh: tapered 6 mm = 4195 nodes / 4087 elements; step 6 mm = 3046 nodes / 2958 elements; tapered 10 mm = 5856 nodes / 5732 elements; step 10 mm = 3770 nodes / 3678 elements. Bone block 10×20 mm (6 mm implants) or 15×20 mm (10 mm implants).
+
+Loading: 100 N in vertical direction (along long axis) and oblique direction (45°). Parameters: total deformation (micromovement), von Mises stress, von Mises strain.
+
+== RESULTS (quantified) ==
+
+Total deformation (vertical): stepped short 0.16 mm vs stepped long 0.0085 mm; tapered short 0.12 mm vs tapered long 0.08 mm. Oblique: stepped 6 mm 0.13 mm, tapered 6 mm 0.11 mm; stepped 10 mm 0.017 mm, tapered 10 mm 0.083 mm. Minimum for step long implant, maximum for step short implant (vertical loads).
+
+Tapered von Mises stress: vertical 94.2 MPa (6 mm) vs 47.2 MPa (10 mm); oblique 306.6 MPa (6 mm) vs 204.4 MPa (10 mm). Tapered strain: vertical 0.018 (6 mm) / 0.014 (10 mm); oblique 0.034 (6 mm) / 0.020 (10 mm).
+
+Stepped von Mises stress: vertical 188 MPa (6 mm) vs 35.44 MPa (10 mm); oblique 319.2 MPa (6 mm) vs 96.9 MPa (10 mm). Stepped strain: vertical 0.016 (6 mm) / 0.0039 (10 mm); oblique 0.025 (6 mm) / 0.017 (10 mm).
+
+When lengths were compared, stress and strain were lower for long implants. Stress was highest for step 6 mm implant and lowest for step 10 mm implant among all four models, for both vertical and oblique loads. Total deformation was 36.43% (vertical) and 26.9% (oblique) lower for 10 mm vs 6 mm implants.
+
+== DISCUSSION / CONCLUSIONS ==
+
+Oblique loads (more realistic masticatory movement) cause the highest stress in cortical bone and produced higher stress/strain than vertical loads in all models. Frost's differentiation hypothesis: micromovements within limits promote osteoblast proliferation; excessive microstrain leads to immature bone mineral and fibroblastic pattern.
+
+Conclusions (within 2D FEA limits):
+- Step implants show lesser stress/strain than tapered implants at the bone-implant interface.
+- In low-density bone with optimal bone height, standard-diameter long step implants are a good option under immediate loading.
+- Loading direction (occlusal adjustment) is important during early healing, especially in low-density bone.
+- Microthreads at the crestal portion concentrate stresses in the cortical part of D4 bone where trabecular bone is sparse.
+- Acme threads control micromovement and increase load-bearing capacity (especially for standard-diameter short implants).
+- In low-density bone with less bone height, wide-diameter short implants with different thread designs need evaluation.
+
+Standard-diameter short implants did NOT show favorable stress/strain distribution in low-density bone; short-implant survival may be made comparable to long implants either by increasing diameter or by other thread forms.
+
+Limitations: loading conditions (axial/oblique) approximate; structures assumed homogeneous, isotropic, linearly elastic (unlike living tissue); no cement thickness; 2D (not 3D) model. Animal and clinical validation required.
+
+Conflicts of interest: none. Financial support: nil.
