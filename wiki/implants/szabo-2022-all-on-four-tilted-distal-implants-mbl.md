@@ -12,6 +12,9 @@ source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/szabo-2022-all-on-four-tilted-distal-implants-mbl.txt
 text_filename: szabo-2022-all-on-four-tilted-distal-implants-mbl.txt
 tags: [all-on-four, tilted-implants, marginal-bone-loss, full-arch, retrospective]
+relations:
+  - type: contradicts
+    target: mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma
 ---
 
 ## Three-line Summary
