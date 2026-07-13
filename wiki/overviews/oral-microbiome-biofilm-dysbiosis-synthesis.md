@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dysbiosis, psd-model, keystone-pathogen, p-gingivalis, f-nucleatum, s-mutans, c-albicans, caries, periodontitis, oscc, overview]
+relations:
+  - type: contradicts
+    target: scannapieco-2021-dysbiosis-oral-microbiome-periodontitis
 ---
 
 ## 한국어 핵심요약
