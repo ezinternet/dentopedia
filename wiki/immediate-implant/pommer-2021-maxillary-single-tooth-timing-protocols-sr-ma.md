@@ -14,6 +14,17 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/34642986/
 text_path: /Users/oracleneo/llm-wiki/papers/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma.txt
 text_filename: pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma.txt
 tags: []
+relations:
+  - type: extends
+    target: buser-2017-implant-placement-timing-post-extraction-esthetic
+  - type: extends
+    target: lang-2012-immediate-implant-survival-success-sr
+  - type: extends
+    target: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma
+  - type: extends
+    target: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
+  - type: extends
+    target: asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma
 ---
 
 ## Three-line Summary
