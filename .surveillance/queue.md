@@ -136,3 +136,97 @@
       "Influence of resin cement shade on esthetic outcomes in ceramic veneers: a systematic review" — Front Dent Med
 - [x] PMID 42319482 | RCT | OA:none | fluoride-topical | edat 2026/06/20 — INGESTED 2026-06-20 → wiki/caries/bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct
       "A randomized controlled trial comparing the effect of salivary substitute and fluoride varnish on radiation caries in irradiated head and neck cancer patients" — Support Care Cancer
+- [ ] PMID 42437817 | RCT | OA:none | periodontics/soft-tissue | edat 2026/07/13
+      "De-epithelialized gingival unit graft for phenotype modification & root coverage RCT" — Clin Oral Investig
+- [ ] PMID 42436455 | SR | OA:none | resin-bonding | edat 2026/07/11
+      "Adhesive bonding to dentin in aging & diabetes: scoping review" — BMC Oral Health
+- [ ] PMID 42435072 | RCT | OA:none | periodontics | edat 2026/07/11
+      "Intrabony defects: bone graft+collagen membrane, apically incised CAF vs papilla preservation RCT" — Clin Oral Investig
+- [ ] PMID 42429331 | RCT | OA:none | bone-regeneration/ridge-preservation | edat 2025/11/25
+      "ARP using controlled-release erythropoietin RCT" — J Craniofac Surg
+- [ ] PMID 42427341 | SR | OA:none | geriatric-dentistry | edat 2026/01/01
+      "Xylitol gum/candies oral health in older/disabled SR" — Spec Care Dentist
+- [ ] PMID 42426686 | SR+MA | OA:none | periodontics | edat 2026/07/09
+      "L-PRF adjunct to OFD in periodontal intrabony defects SR+MA" — BMC Oral Health
+- [ ] PMID 42421793 | SR+MA | OA:none | periodontics | edat 2026/06/24
+      "Biodegradable vs conventional toothbrushes biofilm control SR+MA" — Front Oral Health
+- [ ] PMID 42420971 | SR | OA:none | endodontics/irrigation | edat 2026/07/09
+      "Root canal disinfectants on E. faecalis biofilms SR" — BMC Oral Health
+- [ ] PMID 42420969 | SR | OA:none | orthodontics | edat 2026/07/08
+      "Anterior intrusion mechanics for adult deep bite SR" — BMC Oral Health
+- [ ] PMID 42418809 | SR | OA:none | caries | edat 2026/08/01
+      "Remineralizing white-spot lesions in primary teeth with varnishes SR" — Clin Exp Dent Res
+- [ ] PMID 42402583 | SR+MA | OA:none | endodontics/vpt | edat 2026/07/06
+      "Chitosan pulpotomy medicaments vs conventional in primary teeth SR+MA" — BMC Oral Health
+- [ ] PMID 42399926 | SR | OA:none | caries | edat 2026/07/03
+      "How dietary interventions impact oral conditions SR" — BMC Oral Health
+- [ ] PMID 42395591 | SR+MA | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/07/02
+      "AI/digital tech interventions for dental anxiety SR+MA" — Depress Anxiety
+- [ ] PMID 42393673 | RCT | OA:none | implants/isq | edat 2026/07/03
+      "Implant stability using three osteotomy techniques RCT" — BMC Oral Health
+- [ ] PMID 42393662 | SR+MA | OA:none | periodontics | edat 2026/07/03
+      "Periodontitis as independent CVD risk factor SR+MA" — BMC Oral Health
+- [ ] PMID 42391459 | SR | OA:none | endodontics | edat 2026/06/08
+      "Biomarker-based classification of periapical tissue healing SR" — Eur Endod J
+- [ ] PMID 42390492 | RCT | OA:none | sinus-lift/transcrestal | edat 2026/07/01
+      "Biomaterials & intra-sinus bone change, indirect sinus augmentation RCT" — J Indian Prosthodont Soc
+- [ ] PMID 42384081 | SR | OA:PMC PMC13323817 | periodontics | edat 2026/07/01
+      "Resveratrol on periodontal disease control SR" — Oral Health Prev Dent
+- [ ] PMID 42381124 | RCT | OA:none | implants | edat 2026/08/01
+      "Peri-implant tissue stability: GBR bioceramic vs xenograft 1yr cohort" — Clin Implant Dent Relat Res
+- [ ] PMID 42380842 | SR | OA:none | dental-materials/zirconia | edat 2026/07/01
+      "FEA stress distribution in posterior zirconia implants SR" — BMC Oral Health
+- [ ] PMID 42377571 | retrospective | OA:none | endodontics/anatomy | edat 2026/06/30
+      "C-shaped canal (MSM) & radix entomolaris (MFM) CBCT association" — Clin Oral Investig
+- [ ] PMID 42377201 | RCT | OA:none | post-and-core | edat 2026/06/29
+      "3D-printed resin endocrowns/FCC vs SSC primary molars RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377200 | RCT | OA:none | caries | edat 2026/06/29
+      "Hybrid resin/nanohybrid/SSC primary second molars RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377199 | RCT | OA:none | caries | edat 2026/06/29
+      "Saliva absorbers vs rubber dam vs cotton rolls isolation children RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377198 | RCT | OA:none | caries | edat 2026/06/29
+      "Biotic-based toothpastes in children with special needs RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377197 | RCT | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/29
+      "Music therapy during pediatric exodontia RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42377196 | RCT | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/29
+      "Tell-Show-Do variants for dental anxiety in children RCT" — J Indian Soc Pedod Prev Dent
+- [ ] PMID 42376854 | in-vitro | OA:none | orthodontics/myofunctional | edat 2026/06/30
+      "Cytotoxicity of pre-orthodontic trainer appliances on gingival fibroblasts" — Turk J Orthod
+- [ ] PMID 42374383 | RCT | OA:none | immediate-implant | edat 2026/06/29
+      "Extended PRF vs allograft in immediate implant placement RCT" — BMC Oral Health
+- [ ] PMID 42374130 | RCT | OA:none | local-anesthesia | edat 2026/06/29
+      "IV etomidate vs propofol sedation for uncooperative children RCT" — Sci Rep
+- [ ] PMID 42360612 | SR | OA:none | artificial-intelligence | edat 2026/06/26
+      "AI-assisted histopath grading of oral epithelial dysplasia SR" — Head Neck Pathol
+- [ ] PMID 42358973 | SR+MA | OA:none | periodontics | edat 2026/06/10
+      "Biomarkers differentiating diabetic vs chronic periodontitis SR+MA" — Front Immunol
+- [ ] PMID 42356145 | SR | OA:none | oral-microbiology | edat 2026/06/10
+      "Oral-gut microbiome connection in periodontitis SR" — Medicina (Kaunas)
+- [ ] PMID 42356103 | SR+MA | OA:none | orthodontics/clear-aligner | edat 2026/06/04
+      "Clear aligners vs fixed appliances OHRQoL SR+MA" — Medicina (Kaunas)
+- [ ] PMID 42355439 | in-vivo | OA:none | orthodontics/myofunctional | edat 2026/05/28
+      "Airway changes after prefab myofunctional appliance, Class II div 1" — Life (Basel)
+- [ ] PMID 42352289 | SR | OA:none | orthodontics/clear-aligner | edat 2026/06/02
+      "Composite resins for orthodontic attachments in clear aligner therapy SR" — Biomolecules
+- [ ] PMID 42348534 | SR+MA | OA:none | implants/peri-implantitis | edat 2026/06/25
+      "Adjunctive antibiotics vs non-antibiotic after debridement for peri-implantitis SR+MA" — PLoS One
+- [ ] PMID 42345256 | SR | OA:none | periodontics | edat 2026/06/25
+      "Association between ankylosing spondylitis & periodontitis SR" — Oral Health Prev Dent
+- [ ] PMID 42339863 | RCT | OA:none | bone-regeneration | edat 2026/06/22
+      "Implants in atrophic ridges: collagenated xenogeneic vs autogenous 4yr RCT" — Braz Oral Res
+- [ ] PMID 42337524 | RCT | OA:none | implants/soft-tissue | edat 2026/06/23
+      "Fascia lata allograft vs SCTG for peri-implant mucosal augmentation RCT" — BMC Oral Health
+- [ ] PMID 42335349 | RCT | OA:PMC PMC13290012 | interdental-cleaning | edat 2026/06/01
+      "3D-printed cleaning splints for approximal biofilm removal (IDB) RCT" — Clin Exp Dent Res
+- [ ] PMID 42334533 | RCT | OA:PMC PMC13291275 | orthodontics/clear-aligner | edat 2026/06/23
+      "Canine retraction with/without palatal power arm, in-house clear aligners RCT" — Prog Orthod
+- [ ] PMID 42332742 | SR | OA:none | oral-medicine | edat 2026/06/22
+      "Food allergies & oral manifestations SR" — BMC Oral Health
+- [ ] PMID 42332660 | RCT | OA:PMC PMC13289338 | complete-denture | edat 2026/06/22
+      "Occlusion/disocclusion time: splinted vs non-splinted 2-implant overdentures RCT" — BMC Oral Health
+- [ ] PMID 42330087 | narrative-review | OA:none | orthodontics | edat 2026/06/02
+      "Malocclusion management in mixed dentition: evidence review" — J Vis Exp
+- [ ] PMID 42330054 | SR+MA | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/02
+      "Non-pharm behavior guidance for dental anxiety in autistic children SR+MA" — J Vis Exp
+- [ ] PMID 42322443 | RCT | OA:PMC PMC13283190 | dentin-hypersensitivity | edat 2026/06/20
+      "8% arginine + low-level laser for dentin hypersensitivity RCT" — Lasers Med Sci

@@ -1,0 +1,11 @@
+- PMID 42428944 | bone-regeneration | edat 2026/06/25 | screened 2026/07/14 | preclinical-only eggshell biomaterial SR, low clinical relevance
+- PMID 42397633 | oral-medicine | edat 2026/07/03 | screened 2026/07/14 | niche rare-disease (Langerhans cell histiocytosis) oral pathology
+- PMID 42390707 | drug/antibiotics | edat 2026/07/02 | screened 2026/07/14 | descending necrotizing mediastinitis review+case, out of core dental scope
+- PMID 42383590 | pediatric | edat 2026/07/01 | screened 2026/07/14 | very niche interceptive hemisection histopath, low reuse
+- PMID 42382925 | digital-workflow | edat 2026/06/16 | screened 2026/07/14 | orthognathic (Le Fort I) surgery accuracy, out of wiki scope
+- PMID 42346871 | artificial-intelligence | edat 2026/06/19 | screened 2026/07/14 | MRI radiomics oral-tongue SCC oncology imaging, out of core scope
+- PMID 42346828 | evidence-appraisal | edat 2026/06/04 | screened 2026/07/14 | broad non-dental-specific ozone umbrella review
+- PMID 42353214 | periodontics | edat 2026/06/18 | screened 2026/07/14 | preclinical murine diabetic-periodontitis dysbiosis only
+- PMID 42339612 | periodontics | edat 2026/06/24 | screened 2026/07/14 | crevicular-fluid proteomics methodology niche, low actionability
+- PMID 42335388 | endodontics | edat 2026/06/01 | screened 2026/07/14 | off-topic infectious-disease prison epidemiology, query noise
+- PMID 42330716 | oral-medicine | edat 2026/06/22 | screened 2026/07/14 | preclinical MSC Sjogren animal SR, not clinically actionable
