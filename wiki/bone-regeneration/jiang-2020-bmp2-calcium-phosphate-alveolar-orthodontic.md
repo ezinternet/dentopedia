@@ -4,7 +4,7 @@ authors: Jiang S, Liu T, Wu G, Li W, Feng X, Pathak JL, Shi J
 year: 2020
 date: 2020-05-29
 doi: 10.3389/fbioe.2020.00517
-source: jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic.pdf
+source: jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic.md
 category: [bone-regeneration]
 confidence: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic.pdf
