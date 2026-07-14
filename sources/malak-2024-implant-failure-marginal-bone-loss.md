@@ -21,6 +21,14 @@ MBL was non-significant short-term (MD=0.00mm; 95% CI −0.01–0.02; P=.75) but
 
 This is an abstract-only ingest — the source PDF is a Quintessence Publishing paywall landing page ("Please login to purchase the article"); full methodology (search strategy, AMSTAR/GRADE appraisal, included-study list) could not be extracted, only the structured abstract's numeric results.
 
+## 세줄요약
+
+우산형 리뷰+메타분석(SR+MA 8편 통합, 언어 제한 없는 전자 문헌검색) — full-arch/고정성 부분의치를 지지하는 경사(tilted) vs 수직(axial) 임플란트의 변연골소실(MBL)·임플란트 실패를 비교.
+
+MBL은 단기엔 무의미했으나(MD=0.00mm; 95% CI −0.01–0.02; P=.75) 3년(MD=0.08mm; 95% CI 0.05–0.11; P<.00001)·장기 추적(MD=0.18mm; 95% CI 0.15–0.20; P<.00001)에서 경사 임플란트가 유의하게 큼; 임플란트 실패 위험은 차이 없음(RR=1.02; 95% CI 0.85–1.23; P=.81).
+
+초록 전용 인제스트 — 원문 PDF가 Quintessence 페이월 랜딩페이지("Please login to purchase")라 검색전략·AMSTAR/GRADE 평가·포함연구 목록 등 전체 방법론은 추출 불가하고 구조화 초록의 수치 결과만 확보.
+
 ## 1. Document Information
 
 - **Journal**: The International Journal of Oral & Maxillofacial Implants, 2024;39(6):875–883
