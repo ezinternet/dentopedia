@@ -14,13 +14,21 @@ source_url: https://doi.org/10.1111/jre.13161
 
 만성콩팥병(Chronic Kidney Disease, CKD) 환자의 치과 관리는 [[drug/systemic-disease/elhusseiny-2024-oral-health-children-chronic]](소아 CKD 구강 소견)와 [[overviews/systemic-disease-ckd-ssc-diabetes-osteoporosis-dental-overview]](Axis 1 소아 CKD)에서 이미 다뤄졌으나, 성인 치주질환(periodontitis)과 CKD의 양방향 관계 및 치주치료가 CKD 예후에 미치는 영향을 종합한 엄브렐라 리뷰는 없었다. 본 논문(He 2023)은 18편의 systematic review를 AMSTAR-2 방식으로 평가해 이 공백을 메우며, 기존 overview의 Axis 1(소아·발달 중심)을 성인·치주-신장 축으로 확장한다. PMC 풀텍스트가 없어 PubMed 초록 기반으로 인제스트(`full_text: false`).
 
-## One-line Summary
+## Three-line Summary
 
-Umbrella review (18 systematic reviews/meta-analyses, JBI + PRISMA 2020, PROSPERO CRD42022335209) of the relationship between chronic kidney disease (CKD) and periodontal disease/treatment, synthesized into clinical management recommendations.
+Umbrella review (18 systematic reviews/meta-analyses; JBI + PRISMA 2020, PROSPERO CRD42022335209; searched to April 2022, 371 → 18) of the relationship between chronic kidney disease (CKD) and periodontal disease/treatment.
 
-## 한줄요약
+Findings indicate a bidirectional CKD–periodontal disease relationship, and periodontal treatment showed potential to improve CKD outcomes, but no pooled effect size is available (abstract-only source; the umbrella review qualitatively synthesizes heterogeneous SRs rather than re-pooling).
 
-만성콩팥병(CKD)과 치주질환·치주치료의 관계를 다룬 18편 체계적 고찰의 엄브렐라 리뷰(JBI+PRISMA 2020, PROSPERO 등록)로, 임상 관리 권고안을 도출.
+Clinically actionable recommendations were generated separately for medical, dental, and aged-care professionals managing CKD patients; the authors note high heterogeneity in the quality of the 18 included SRs, limiting the strength of any single conclusion.
+
+## 세줄요약
+
+만성콩팥병(CKD)과 치주질환·치주치료의 관계를 다룬 엄브렐라 리뷰(체계적 고찰 18편; JBI+PRISMA 2020, PROSPERO 등록; 2022년 4월까지 검색, 371→18편).
+
+CKD와 치주질환은 양방향 관계로 나타났고 치주치료가 CKD 예후를 개선할 잠재력을 보였으나, 통합 효과크기는 제시되지 않음(초록 전용 자료 — 이질적 SR을 정성 종합할 뿐 재-pooling은 하지 않음).
+
+CKD 환자 관리를 위한 임상 권고를 의료진·치과의료진·노인돌봄 종사자별로 도출; 저자들은 포함된 18편 SR의 질적 이질성이 커 단일 결론의 근거 강도가 제한됨을 명시.
 
 ## 1. Document Information
 
