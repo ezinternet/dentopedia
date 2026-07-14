@@ -167,6 +167,11 @@ tags: []
 - [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] — 동물실험(쥐, IJN 2012): 나노다형성 결정질 수산화인회석 (Hydroxyapatite, HA) 코팅(Ca/P=1.66, 55% 결정화도) → 골-임플란트 접촉률 (BIC) 및 강도 조기·후기 모두 향상, 연조직 침투 감소; 효과는 임플란트 표면 50 µm 이내로 한정.
 
 ## 임플란트 — ISQ·안정성 (Implant Stability / ISQ)
+- [[implants/isq/gomez-polo-2016-length-diameter-bone-quality-stability]] — 전향적(n=88 self-tapping): 직경·골질이 IT/1차 ISQ 좌우(직경별 26.5 vs 33.8 N/cm), 길이는 무영향, IT-2차 ISQ 무상관(r=0.14)
+- [[implants/isq/barikani-2013-implant-length-diameter-primary-stability]] — in-vitro(D1 vs D3 골): 저밀도골에서만 임플란트 길이 효과 유의(p=0.005), 협폭(NP) 임플란트는 전 골밀도에서 ISQ 유의 저하(p≤0.007)
+- [[implants/isq/de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants]] — RCT split-mouth(60개): 평행형이 IT 더 높음(P<.05), ISQ는 군간 차이 없음, Osstell·Penguin RFA 값 유의하게 다름(P<.001)
+- [[implants/isq/huang-2016-influencing-factors-implant-stability-quotient]] — 후향적(단일술자 SICace 329개): 다변량회귀로 T1 ISQ 유의요인 7개·T2 3개 규명(직경·토크만 양쪽 공통)
+- [[implants/isq/quesada-garcia-2012-implant-diameter-localization-prgf-stability]] — 전향적(235개, 12주 ISQ): 좁은 직경·상악 위치는 낮은 ISQ(P<.001/.006), PRGF 사용은 최고 ISQ(P=.011)
 - [[implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular]] — 전향적(344 Brånemark, 90d): ISQ dip(70.4→66.4 at 30d)→회복(68.8); 연조직·구치부·여성 위험; 생존율 98.5%
 - [[implants/isq/kim-2013-implant-stability-retrospective-rfa-isq]] — 후향적(90 Osstem, 72명): ø5mm·하악이 ISQ ~5 유의하게 높음; 길이(10–13mm) 효과 비유의; 모든 군 ISQ 65 초과
 - [[implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability]] — in-vitro(Osstell SmartPeg): 400회 반복측정·6가지 소독법 후 ISQ 변화 없음; 자기손실 임계 150°C — 임상 autoclave(132°C) 안전
