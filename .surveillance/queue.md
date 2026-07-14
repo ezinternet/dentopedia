@@ -170,7 +170,7 @@
       "Biomarker-based classification of periapical tissue healing SR" — Eur Endod J
 - [ ] PMID 42390492 | RCT | OA:none | sinus-lift/transcrestal | edat 2026/07/01
       "Biomaterials & intra-sinus bone change, indirect sinus augmentation RCT" — J Indian Prosthodont Soc
-- [ ] PMID 42384081 | SR | OA:PMC PMC13323817 | periodontics | edat 2026/07/01
+- [x] PMID 42384081 | SR | OA:PMC PMC13323817 | periodontics | edat 2026/07/01
       "Resveratrol on periodontal disease control SR" — Oral Health Prev Dent
 - [ ] PMID 42381124 | RCT | OA:none | implants | edat 2026/08/01
       "Peri-implant tissue stability: GBR bioceramic vs xenograft 1yr cohort" — Clin Implant Dent Relat Res
@@ -216,17 +216,17 @@
       "Implants in atrophic ridges: collagenated xenogeneic vs autogenous 4yr RCT" — Braz Oral Res
 - [ ] PMID 42337524 | RCT | OA:none | implants/soft-tissue | edat 2026/06/23
       "Fascia lata allograft vs SCTG for peri-implant mucosal augmentation RCT" — BMC Oral Health
-- [ ] PMID 42335349 | RCT | OA:PMC PMC13290012 | interdental-cleaning | edat 2026/06/01
+- [x] PMID 42335349 | RCT | OA:PMC PMC13290012 | interdental-cleaning | edat 2026/06/01
       "3D-printed cleaning splints for approximal biofilm removal (IDB) RCT" — Clin Exp Dent Res
-- [ ] PMID 42334533 | RCT | OA:PMC PMC13291275 | orthodontics/clear-aligner | edat 2026/06/23
+- [x] PMID 42334533 | RCT | OA:PMC PMC13291275 | orthodontics/clear-aligner | edat 2026/06/23
       "Canine retraction with/without palatal power arm, in-house clear aligners RCT" — Prog Orthod
 - [ ] PMID 42332742 | SR | OA:none | oral-medicine | edat 2026/06/22
       "Food allergies & oral manifestations SR" — BMC Oral Health
-- [ ] PMID 42332660 | RCT | OA:PMC PMC13289338 | complete-denture | edat 2026/06/22
+- [x] PMID 42332660 | RCT | OA:PMC PMC13289338 | complete-denture | edat 2026/06/22
       "Occlusion/disocclusion time: splinted vs non-splinted 2-implant overdentures RCT" — BMC Oral Health
 - [ ] PMID 42330087 | narrative-review | OA:none | orthodontics | edat 2026/06/02
       "Malocclusion management in mixed dentition: evidence review" — J Vis Exp
 - [ ] PMID 42330054 | SR+MA | OA:none | behavioral-dentistry/dental-anxiety | edat 2026/06/02
       "Non-pharm behavior guidance for dental anxiety in autistic children SR+MA" — J Vis Exp
-- [ ] PMID 42322443 | RCT | OA:PMC PMC13283190 | dentin-hypersensitivity | edat 2026/06/20
+- [x] PMID 42322443 | RCT | OA:PMC PMC13283190 | dentin-hypersensitivity | edat 2026/06/20
       "8% arginine + low-level laser for dentin hypersensitivity RCT" — Lasers Med Sci
