@@ -36,6 +36,14 @@ source: synthesis
 - The optimal working length is diagnosis-dependent, not a fixed value: vital/no-lesion cases tolerate (and prefer) a WL farther from the apex, whereas necrosis + apical periodontitis requires a WL close to the apex to debride the infected apical portion.
 - Preoperative pulpal/periapical status is the dominant prognostic factor across every study; filling length is a modifiable but secondary lever.
 
+## 세줄요약
+
+5편의 대표 예후 연구가 수렴 — 근관충전은 근단협착부(방사선 근첨에서 0–2mm short)까지 void 없이 조밀하게, 근단 조직으로의 extrusion 없이; 과충전은 일관되게 성공률을 낮춤.
+
+최적 작업장(WL)은 고정값이 아니라 진단 종속 — 생활치/무병소는 근첨에서 다소 먼 WL을 선호(허용), 괴사+근단치주염은 감염된 근단부를 소독하기 위해 근첨에 가까운 WL이 필요.
+
+술전 치수/근단 상태가 모든 연구에서 지배적 예후 인자이며, 충전 길이는 그 위에 얹히는 조절 가능하지만 이차적 변수.
+
 ## Thesis
 
 This overview answers a single clinical question: **at what apical level should a root canal be prepared and obturated to maximize long-term healing?** The historical framing ("how far short of the apex?") produces an apparent contradiction — Schaeffer's meta-analysis favors staying short of the apex, while Chugal shows that infected cases fail when the WL falls short. The resolution is that the target is not a fixed millimetric offset but the **apical extent of infection at the apical constriction**: clean and fill to that terminus, and never extrude. In vital/uninfected canals the apical infection burden is low, so a slightly shorter terminus avoids periapical trauma; in necrotic canals with apical periodontitis, the terminus must reach the constriction to remove the apical microbial reservoir. Overfilling is penalized in every dataset (foreign-body reaction, unhealed apical infection). Preoperative status dominates outcome; obturation length is the operator-controllable variable layered on top.
