@@ -17,6 +17,8 @@ source_wiki:
   - wiki/dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review.md
   - wiki/implants/surface/hasegawa-2020-meso-micro-nano-rough-titanium-surface.md
   - wiki/drug/systemic-disease/chen-2022-interpretation-hba1c-analytical-methodology-hematology.md
+  - wiki/suture-wound-closure/marsidi-2020-measuring-forces-suture-techniques-wound-closure.md
+  - wiki/local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations.md
 ---
 
 ## 한국어 핵심요약
@@ -30,6 +32,7 @@ source_wiki:
 > - **재료강도 — MPa**: 메가파스칼 (MPa) = N/mm². 굴곡강도 (Flexural strength) 지르코니아 ~1000–1200MPa vs 리튬디실리케이트 (lithium disilicate) ~400MPa, 접착강도 (Bond strength) 통상 20–40MPa. 탄성계수 (Elastic modulus)만 기가파스칼 (GPa) = MPa×1000.
 > - **방사선량 — Sievert**: 유효선량(피폭)은 마이크로·밀리시버트 (µSv/mSv), 1mSv=1000µSv. 치근단 ~5µSv < 파노라마 ~10–20µSv < 콘빔CT (Cone-Beam CT, CBCT) ~20–200µSv. 흡수선량은 그레이 (Gray, Gy)로 별개.
 > - **무차원 지수**: 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 1–100 스케일, 부하 임계 통상 ≥70. 백분율(생존율·골-임플란트 접촉률 BIC), pH(법랑질 탈회 임계 5.5), 당화혈색소 (HbA1c) 조절기준 <7%, 불소 농도 ppm(치약 1000–1450ppm).
+> - **술기·기기 단위(정의·스펙)**: 봉합사 USP 게이지는 **0이 많을수록 얇음**(4-0>6-0), 구강 판막봉합 4-0~5-0·미세수술 7-0/8-0. 마취제 농도 %는 w/v라 **2% = 20mg/mL**(리도카인 2%·아티카인 4%·부피바카인 0.5%). 초음파 스케일러 주파수는 자왜형 ~18–45kHz·압전형 ~25–50kHz.
 > - **환산 규칙 3개만 외우면 됨**: mm↔µm(×1000), MPa↔GPa(×1000), mSv↔µSv(×1000) — 모두 1000배 관계. MPa=N/mm²만 별도.
 > - **임상 takeaway**: 논문을 읽을 때 단위를 보면 반사적으로 "이 단위의 정상/성공 임계값이 뭐였지?"를 떠올릴 것. 단위는 저장고, 임계값은 열쇠.
 
@@ -109,7 +112,15 @@ Mnemonic: Ncm is the "turning" force, N is the "pushing" force.
 - **HbA1c (glycated hemoglobin, %)** — glycemic control; dental threshold of concern typically <7% for elective implant surgery ([[chen-2022-interpretation-hba1c-analytical-methodology-hematology]], [[weykamp-2013-hba1c-review-analytical-clinical-aspects]]).
 - **ppm (parts per million)** — fluoride concentration: toothpaste 1000–1450 ppm, high-concentration 5000 ppm ([[kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]]).
 
-## 6. The only conversions worth memorizing
+## 6. Device / procedure units — suture gauge, anesthetic concentration, scaler frequency
+
+These are less frequent in outcome tables but constant at the chairside; each is a **spec/definition**, not a research-derived cut-off.
+
+- **USP suture gauge** — the United States Pharmacopeia caliber scale, written with zeros: **more zeros = thinner thread** (4-0 = "four-oh" is thicker than 6-0). Wiki suture pages span 3-0 to 8-0. Typical use: intraoral flap closure 4-0 to 5-0, delicate/esthetic 6-0, microsurgery 7-0/8-0 ([[marsidi-2020-measuring-forces-suture-techniques-wound-closure]], [[look-2022-novel-superficial-suture-pattern-tensile-strength]]). Thinner thread = lower tensile strength but less tissue trauma — the gauge is a strength-vs-trauma trade-off.
+- **Local anesthetic concentration (% w/v)** — percent here is grams per 100 mL, so **2% = 20 mg/mL**. Canonical dental concentrations: lidocaine 2%, mepivacaine 2% (with vasoconstrictor) or 3% (plain), articaine 4%, prilocaine 4%, bupivacaine 0.5% ([[becker-2012-local-anesthetics-pharmacological-considerations]], [[alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis]]). Higher % ≠ automatically stronger block — it interacts with max dose (mg/kg) and vasoconstrictor.
+- **Ultrasonic scaler frequency (kHz)** — operating oscillation of the tip: magnetostrictive ~18–45 kHz, piezoelectric ~25–50 kHz (device-class spec; wiki holds an ultrasonic-tip instance at 28 ± 3 kHz — [[parra-2026-pushout-bond-strength-fiberglass-posts]] — and periodontal ultrasonic/GBT debridement context in [[cyris-2024-guided-biofilm-therapy-versus-conventional]]). The wiki has no paper dedicated to scaler frequency itself; the kHz ranges are the standard hardware spec, included here as a reference anchor.
+
+## 7. The only conversions worth memorizing
 
 Three unit pairs are all ×1000 relationships; a fourth is a definition:
 
@@ -139,3 +150,9 @@ Clinical takeaway: when a unit appears in a paper, let it trigger the reflex *"w
 - [[weykamp-2013-hba1c-review-analytical-clinical-aspects]] — HbA1c analytical aspects
 - [[kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]] — fluoride (ppm) prevention
 - [[benchimol-2018-collimation-panoramic-effective-dose-reduction]] — collimation / dose (kVp·mA·µSv)
+- [[marsidi-2020-measuring-forces-suture-techniques-wound-closure]] — suture gauge (USP) and closure forces
+- [[look-2022-novel-superficial-suture-pattern-tensile-strength]] — suture tensile strength by pattern/gauge
+- [[becker-2012-local-anesthetics-pharmacological-considerations]] — anesthetic concentration (% w/v) and pharmacology
+- [[alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis]] — 4% articaine vs 2% mepivacaine
+- [[parra-2026-pushout-bond-strength-fiberglass-posts]] — ultrasonic activation frequency (kHz) instance
+- [[cyris-2024-guided-biofilm-therapy-versus-conventional]] — ultrasonic/GBT debridement context
