@@ -76,6 +76,7 @@ COSMETIC_SUBJECT_RE = re.compile(
     r"|한국어 핵심요약|한줄요약|세줄요약"
     r"|cross-link"
     r"|\bwire\b.*(reinforces|contradicts|refines|extends|applies-to|relation)"
+    r"|add relations edge"
     r"|recategorize|\bdedup\b|\breorg\b)",
     re.IGNORECASE,
 )
