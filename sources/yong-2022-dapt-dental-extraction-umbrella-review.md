@@ -8,6 +8,8 @@ source_collection: pubmed-text
 full_text: false
 pmid: "35691560"
 source_url: https://pubmed.ncbi.nlm.nih.gov/35691560/
+text_path: /Users/oracleneo/llm-wiki/papers/yong-2022-dapt-dental-extraction-umbrella-review.txt
+text_filename: yong-2022-dapt-dental-extraction-umbrella-review.txt
 ---
 
 ## Why Ingested
