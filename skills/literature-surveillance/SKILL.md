@@ -52,18 +52,31 @@ python3 scripts/sweep_state.py init
 각 토픽마다 `search_articles` 호출:
 - `query`: 토픽 쿼리식 + ptyp 필터.
   예: `osseointegration AND (Randomized Controlled Trial[Publication Type] OR Systematic Review[Publication Type] OR Meta-Analysis[Publication Type])`
-- `date_from`: 해당 토픽의 `last_run_edat` (없으면 합리적 시작일, 예: 직전 3개월).
-- `datetype`: **`edat`** (게재일 pdat 아님 — 신규 등재 누락 방지).
+- `date_from`: 해당 토픽의 `last_run_edat` (없으면 합리적 시작일, 예: 직전 3개월). **주의: 현재 MCP가 이 파라미터를 무시한다 → Step 3의 water-mark로 신규 판별한다.**
+- `datetype`: **`edat`** 지정은 하되 실제로는 무시됨(위 결함). 신규 컷은 water-mark가 담당.
 - `sort`: `pub_date`, `max_results`: 50 권장.
 
 ptyp 필터는 토픽별로 조정 가능(가이드라인·코호트 포함 여부 등). 카탈로그는 저장소 루트의 `references/topic-queries.md` 참조 (이 스킬 폴더 내 동명 파일이 아님 — 과거 두 파일로 갈라졌다가 2026-07-05 병합됨).
 
-### 3. 중복 제거 (스크립트)
-검색으로 모은 PMID를 토픽별로 넘긴다:
+### 3. 중복 제거 + water-mark (스크립트)
+
+> [!warning] 알려진 결함 — edat 날짜 필터가 죽어 있음 (2026-07-14 확인)
+> PubMed MCP `search_articles`는 `date_from`/`datetype=edat`를 **완전히 무시**한다(날짜 유무와 무관하게 `total_count`·top PMID 동일). 그래서 Step 2의 edat 증분 필터는 **no-op**이고, `dedup`이 seen만 빼면 "top-N 최신순 중 아직 위키에 없는 옛 논문"까지 대량 유입된다.
+> **대체책 = water-mark.** PMID는 등재순으로 단조증가하므로 `max(seen)`를 edat 프록시로 삼아 그 초과분만 진짜 신규로 본다. `dedup --watermark`(또는 스냅샷 `--watermark-value`)로 적용한다.
+
+**권장 절차** — sweep 시작 시 water-mark를 한 번 스냅샷하고 모든 토픽 dedup에 같은 값을 넘긴다(중간 enqueue로 seen이 커져도 기준이 안 흔들림):
+
 ```bash
-python3 scripts/sweep_state.py dedup --topic "implant" --pmids 38123456,38234567,...
+# 0) sweep 시작 — water-mark 스냅샷
+WM=$(python3 scripts/sweep_state.py load | python3 -c "import json,sys;print(json.load(sys.stdin)['watermark'])")
+
+# 1) 토픽별 dedup (스냅샷 고정)
+python3 scripts/sweep_state.py dedup --topic "implant" --pmids 42500000,42000000,... --watermark-value "$WM"
 ```
-출력: seen-pmids·기존 큐에 없는 **신규 PMID만** (JSON).
+
+출력: seen·screened·큐에 없고 **PMID > water-mark 인 신규만** (JSON) + `watermark`, `excluded_below_watermark`. water-mark 없이 seen만으로 거르려면 플래그 생략(옛 동작).
+
+**한계**: 정렬이 `pub_date`뿐이라(edat 정렬 옵션 없음) 게재일은 옛날인데 최근 등재된 논문은 top-N 밖으로 밀려 놓칠 수 있다 — 넓은 토픽은 `max_results`를 키우거나 심층 모드로 보완.
 
 ### 4. OA 사전 판정 (Claude / MCP)
 신규 PMID에 대해 `get_copyright_status` (배치) 또는 `find_related_articles(link_type='pubmed_pmc')`로 PMC 풀텍스트·라이선스 확인. 각 후보를 다음 형태로 구성:
