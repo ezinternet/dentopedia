@@ -229,6 +229,7 @@ tags: []
 - [[implants/isq/ko-2024-arp-implant-vertical-positioning-isq]] — 후향적 증례연구(30부위, 28명): ARP 경계 초과군 삽입 토크 높음(33.33 대 17.08 Ncm), 10주 ISQ는 양 군 동등(80.66 대 76.44); 삽입 토크-ISQ 중등도 상관(r=0.415)
 
 ## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
+- [[overviews/dense-bone-osteotomy-heat-reimplantation-overview]] — **NEW Overview** (9편, 2026-07-14): 골경화성(D1) 하악구치부 반복실패부위 재식립 종합 — D1 치밀골 실패기전은 1차안정성 부족이 아니라 드릴링 **발열/열괴사**(47°C/1분 임계값); 냉각관주·간헐drilling·drill교체가 기법선택보다 우선(Kosior: protocol-mediated); 피에조는 통증↓이나 발열↑ trade-off(Jain); 재식립 생존율은 시도 횟수에 하락(2차 71–100%→3차 50–100%, Solderer), cluster effect는 전신/유전 요인 시사.
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
 - [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — 인비트로(BioMed Res Int 2018, 5개 제조사 Ø2.0mm): 백색광 간섭계로 측정한 미세표면 거칠기가 제조사별 유의차 — 발열·마모·내구성 예측 가능
 - [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — 미니피그 in vivo(COIR 2021, n=36): 신형 drill+축약 시퀀스 → 골내 최고온도 35.4 vs 46.5°C(p=.0021), BIC 2주 44.9 vs 31.3%(p<.0001) — drill 발열 감소 → 골유착 향상 직접 증거
