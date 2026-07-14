@@ -1,0 +1,100 @@
+Efficacy of 3D-Printed Cleaning Splints for Approximal Dental Biofilm Removal—A Randomized Clinical Crossover Pilot Study
+
+Spindler M, Becker T, Rues S, Richter K, Rammelsberg P, Zenthöfer A, Wolff D, Bartha V
+Clinical and Experimental Dental Research. 2026; 12(3):e70392
+PMID: 42335349  PMCID: PMC13290012  DOI: 10.1002/cre2.70392
+
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13290012/)
+
+====================================================================
+ABSTRACT
+
+Objectives
+This study investigated the effectiveness of biofilm removal using individually customized cleaning splints (CS) as an aid for interdental brushes (IDBs).
+
+Materials and Methods
+In a randomized clinical crossover study, the effect of IDBs in combination with CS on plaque reduction and periodontal parameters was examined. Periodontitis patients received an intraoral scan to produce a 3D-printed CS. Following a 2-week interdental hygiene pause, they were divided into two groups: Group A: CS+IDBs, Group B: IDBs. Participants performed daily interdental cleaning at home for 2 weeks following standardized professional instruction. After another 2-week interdental hygiene pause, the groups switched methods. Additionally, motor skills, stress levels, and nutritional quality were assessed.
+
+Results
+Thirty participants (age range 21–82 years) completed the study. CS+IDBs led to a significantly greater plaque reduction (change in Quigley–Hein plaque index, ∆QHI) compared to IDBs alone (ΔQHI = −1.38 vs. −0.23, p<0.001). The impact on reducing gingival inflammation (GI) was limited to younger participants with no effect on bleeding on probing (BOP). Random effects ANCOVA confirmed the significant effect of CS on ∆QHI (p<0.001). An interaction between perceived stress and CS use on BOP indicated that stress may influence the effectiveness of CS supported plaque removal.
+
+Conclusions
+Cleaning splints are a promising approach to enhance the effectiveness of IDBs in reducing interdental biofilm.
+
+Summary — Background: Interdental brushes (IDBs) remain the gold standard for mechanical interdental plaque control. However, many patients face difficulties with their use and handling. Added Value: In this randomized clinical crossover trial, customized 3-D printed cleaning splints (CS) were tested as an adjunct to IDBs in periodontitis patients. The combination of CS and IDBs significantly improved interdental plaque removal compared with IDBs alone, highlighting their potential to facilitate patient handling and enhance daily biofilm control. Clinical implications: Cleaning splints offer a patient-specific adjunct for optimizing interdental hygiene in periodontitis patients and could also be a valuable tool for patients in nursing homes or other vulnerable groups.
+
+====================================================================
+1. INTRODUCTION
+
+Periodontal disease and dental caries are among the most prevalent and most costly oral health conditions. In Germany, the prevalence of periodontitis is high among younger adults and younger seniors, with severe forms (stages III and IV) affecting 17.5% and 52.7% of these age groups, respectively. Both periodontal disease and caries are associated with dysbiotic changes within dental biofilms.
+
+Mechanical disruption of oral biofilm remains essential for prevention and treatment. Toothbrushing alone cannot effectively reach the interdental areas, where plaque accumulates more rapidly. For interdental hygiene, interdental brushes (IDBs) are preferred due to their superior efficacy compared to other aids, with the greatest effect in reducing gingivitis. However, IDB handling presents challenges for many patients: finding the correct insertion position, brush bending, distortion and clotting increase the risk of incorrect insertion and trauma to the gingival soft tissues. Especially where guide surfaces are absent (partially edentulous jaws, dentures, missing adjacent teeth, large interdental spaces), adequate cleaning of approximal surfaces is difficult and IDBs may not reliably reach the critical approximal cervical areas without guidance.
+
+A cleaning splint (CS) can enhance the effectiveness of approximal oral hygiene by facilitating IDB insertion and guidance, especially in cervical areas — particularly beneficial for patients with dentures, implants, teeth with missing guide surfaces, and manual limitations. However, no clinical data on cleaning efficacy existed. A recent in vitro study (Rues et al.) demonstrated significantly improved approximal cleaning efficacy for a partially edentulous typodont model with the CS versus without. This study aimed to assess the impact of customized cleaning splints on IDB biofilm-removal efficacy in a clinical setting. Plaque reduction was the primary outcome; periodontal bleeding parameters were secondary. Null hypothesis: a customized CS in combination with IDBs would not result in greater plaque reduction or improvements in periodontal parameters compared to IDBs alone.
+
+====================================================================
+2. MATERIALS AND METHODS
+
+Randomized controlled clinical study, parallel crossover design. Ethical approval: Ethics Committee, Medical Faculty, Heidelberg University (No. S-387/2023). Reported per CONSORT 2025. Registered: German Clinical Trials Register (DRKS00034674).
+
+Study Population: Adults diagnosed with periodontitis recruited at the Department of Conservative Dentistry, Heidelberg University, Oct 2023–Aug 2024. Inclusion: informed consent, ≥ 2 teeth within one jaw. Participants grouped by age: ≤ 40 and ≥ 65 years. Exclusion: antibiotic use within past 3 months, medications and severe systemic conditions (high endocarditis risk, immunosuppression, infectious diseases like HIV). Collected: age, gender, smoking status. Manual dexterity via Goldenberg Apraxia Test. Dietary habits via Mediterranean Diet Adherence Screener (MEDAS); stress via Perceived Stress Scale (PSS-10). One participant did not complete; an additional participant was recruited to maintain sample size.
+
+Study Design: Participants randomly assigned to groups A and B, each serving as both experimental and control at different time points. Blinding not feasible; unblinded block randomization stratified by age using sealed envelopes.
+
+Baseline & Preparation: Standardized oral hygiene instructions; participants practiced using the splint. Cylindrical interdental brushes (Curaprox, Curaden AG) individually selected by clinically assessed passage hole diameter (PHD) of each interdental space; max three brush sizes per participant. Straight in-and-out insertion motion, demonstrated and practiced under supervision. MEDAS, PSS-10, Goldenberg Apraxia Test completed. Intraoral scans (Primescan, Dentsply Sirona); 3D-printed cleaning splints fabricated (Freeprint Splint 2.0, Detax). During a 2-week washout, oral hygiene standardized (Elmex toothpaste; no additional aids). Usual toothbrushing habits maintained.
+
+Intervention & Clinical Assessments: One single examiner. At Baseline (T0, after first washout): probing pocket depth (PPD), clinical attachment level (CAL), bleeding on probing (BOP), Quigley-Hein plaque index (QHI, Turesky modification), Gingival Index (GI, Löe & Silness) at 4 sites per tooth mesial and distal.
+- Group A (CS first): received customized CS (checked for fit/comfort, IDB sizes re-evaluated), used splints 2 weeks → reassessment (T1) → 2-week washout (no interdental hygiene) → (T2) → resumed IDBs without CS for 2 weeks → (T3).
+- Group B (CS second): CS used between T2 and T3; between T0 and T1 cleaned without CS. Examinations and washouts equal between groups.
+Primary endpoint: QHI. Secondary: PPD, BOP, CAL, GI. No adverse events observed.
+
+Cleaning Splint Manufacturing: Customized CS fabricated from digital scans via 3D printing. Small funnel-shaped guide openings incorporated at interdental spaces to facilitate IDB insertion. IDB insertion axes given by the highest points of the papillae on vestibular and oral sides. At the narrowest part of each opening (triangular cross-section), the incircle radius was 0.5 mm larger than the respective passage hole diameter. Guide surfaces integrated along terminal teeth or surfaces lacking adjacent teeth to ensure a consistent IDB trajectory along the approximal curvature. In terminal teeth, smaller IDBs selected. Distance between guide area and tooth surface set at 1.0 mm or 2.0 mm. To facilitate IDB insertion for the distal surface of terminal teeth, the opening was manually rotated mesially.
+
+Statistical Analysis: Conducted as an exploratory pilot study; sample size based on feasibility, not a priori power estimation → all p-values interpreted descriptively. Approximal space defined as the primary statistical unit. Two-step aggregation (per interdental space, then patient level). Carry-over effects evaluated (none observed at patient/approximal-space level) → pooled data of both groups analyzed. Wilcoxon signed-rank tests (intra-group), Mann–Whitney tests (inter-group). ANCOVA with a random effects model (Patient ID as random effect); fixed effects: intervention type, baseline values, apraxia score, MEDAS, PSS; interaction terms for tooth gaps and anterior vs posterior regions. SAS JMP v18.2.1, significance level 0.05.
+
+====================================================================
+3. RESULTS
+
+Out of 31 participants, 30 (11 females) completed; mean age 52.5 ± 21.7 years (median 53, IQR 31.8–73, range 21–82). One dropout (cardiovascular event). AG1 (≤ 40 y): 6 F, 9 M, mean age 31.7 ± 6.1. AG2 (≥ 65 y): 5 F, 10 M, mean age 73.3 ± 4.1. Six smokers. MEDAS 5.6 ± 1.6/14 (no age-group difference). PSS 14.0 ± 4.5 (trend higher in AG1, p=0.055). Apraxia score lower in AG2 (53.6 ± 1.9) vs AG1 (55.0 ± 0.0, p=0.001). Mean teeth 23.8 ± 5.3 (higher in AG1, p<0.001); interdental surfaces greater in AG1 (p<0.001); edentulous spaces more frequent in AG2 (p=0.002). Higher periodontitis stages in AG2 (p<0.001). CAL higher in AG2 (p<0.001). 86.7% had undergone active periodontal therapy. No harms.
+
+Carry-over: Combined QHI/GI/BOP values showed no significant differences between Groups A and B (no carry-over). ∆QHI: Group A −0.73 [−1.34; −0.19]; Group B −0.5 [−1.49; −0.16]; p=0.964. CS effect assessed by comparing test (CS) vs control (no CS) across both groups.
+
+QHI with/without CS: QHI decreased significantly during each cleaning period — test (CS): median ∆QHI = −1.38, p<0.001; control (no CS): median ∆QHI = −0.23, p=0.002. Within AG1, significant QHI reduction only when CS used (median −1.23, p<0.001). In AG2, both test and control led to significant reductions. Comparison of 2-week values: statistically significantly lower QHI for the test intervention in the overall cohort and both age groups.
+
+Table 2 (median [Q1–Q3]):
+ALL — QHI: CS+ 3.15→1.48 (p<0.001); CS− 3.07→2.87 (p=0.002); 2W intergroup p<0.001.
+ALL — GI: CS+ 0.26→0.13 (p<0.001); CS− 0.31→0.24 (p=0.089); 2W intergroup p=0.002.
+ALL — BOP%: CS+ 12.77→6.27 (p<0.001); CS− 11.25→9.83 (p=0.078); 2W intergroup p=0.034.
+AG1 — QHI: CS+ 2.80→1.46 (p<0.001); CS− 2.97→2.74 (p=0.168); 2W p=0.006.
+AG1 — GI: CS+ 0.27→0.13 (p=0.010); CS− 0.27→0.25 (p=0.434); 2W p=0.011.
+AG1 — BOP%: CS+ 16.67→6.67 (p=0.008); CS− 19.17→12.50 (p=0.251); 2W p=0.020.
+AG2 — QHI: CS+ 3.42→1.59 (p<0.001); CS− 3.37→2.89 (p=0.005); 2W p<0.001.
+AG2 — GI: CS+ 0.25→0.13 (p=0.002); CS− 0.44→0.19 (p=0.003); 2W p=0.080.
+AG2 — BOP%: CS+ 10.71→4.35 (p=0.002); CS− 6.25→5.21 (p=0.193); 2W p=0.213.
+
+GI and BOP: CS use significantly reduced GI (median −0.13) and BOP (median −4.3%) during the cleaning period (p<0.001); no significant change for control. In overall cohort CS reduced GI (p=0.002) and BOP (p=0.034), but this was only observed for GI within AG1 and did not reach significance for any inflammatory parameter within AG2.
+
+Effects on reduction (∆): Pairwise comparison of baseline vs 2W showed significantly higher ∆QHI with CS than without, in both AG1 and AG2. No significant difference in ∆GI/∆BOP except greater GI reduction with CS in AG1. Random effect model: significant QHI reduction with CS vs conventional brushing; apraxia scores no influence and no interaction with CS (p=0.572); higher baseline QHI → greater reduction. GI reduction significantly influenced by CS with baseline inflammation; diet quality (MEDAS) significantly associated with reduced gingival inflammation; PSS no significant association. BOP reduction slightly affected by CS, mainly by baseline BOP; PSS×CS interaction associated with reduced BOP (though less effectively than CS without stress).
+
+Regression (Table 3):
+(a) ∆QHI — Cleaning splint estimate −0.620 (−0.731, −0.510), p<0.001; QHI baseline −0.434, p<0.001; Apraxia p=0.854; Apraxia×CS p=0.164.
+(b) ∆GI — CS −0.084 (−0.156, −0.012), p=0.023; GI baseline −0.442, p<0.001; MEDAS −0.052, p=0.033; PSS p=0.733; PSS×CS p=0.629.
+(c) ∆BOP — CS −0.019 (−0.028, −0.009), p<0.001; BOP baseline −0.620, p<0.001; PSS×CS −0.003, p=0.001.
+
+Missing adjacent teeth & tooth region (Table 4, ∆QHI):
+(a) CS −0.767, p<0.001; Gap present +0.107, p=0.002; Gap×CS −0.126, p<0.001; QHI baseline −0.627, p<0.001. → Plaque reduction lower in spaces with gaps, but a significant CS×gap interaction indicates enhanced CS effectiveness in such areas.
+(b) CS −0.718, p<0.001; Front teeth −0.070, p=0.008; Front×CS p=0.462. → Front teeth showed slightly greater reduction regardless of treatment; no significant CS×tooth-area interaction (splint neutralized potential tooth-area effect).
+
+====================================================================
+4. DISCUSSION
+
+The adjunctive CS resulted in significantly greater QHI reduction than IDB use alone → null hypothesis rejected for plaque reduction. Significant reductions also in GI and BOP over the study period, but effects on inflammatory parameters were less consistent; GI/BOP significance mostly in the younger group. CS effective regardless of motor coordination impairment (apraxia no influence). Diet quality (MEDAS) significantly associated with reduced gingival inflammation. Perceived stress had no direct effect on gingival inflammation, but PSS×CS interaction for BOP suggests stress may modulate plaque-control effectiveness when the splint is used. At interdental-space level, gaps were associated with reduced plaque reduction, with CS significantly mitigating this. Findings align with Passia and Kern (cleaning splints improved access to proximal surfaces in double crown prostheses and implants); this CS design is adaptable to all dental conditions with triangular funnel-shaped openings.
+
+Limitations: (1) Each intervention period only 2 weeks (no long-term adherence conclusions; short familiarization). (2) Exploratory pilot; sample size by feasibility, not a priori power → hypothesis-generating. (3) Unblinded examiner (observer bias) and aware participants (performance bias). (4) University-based periodontitis population (limited generalizability). (5) No microbiological analyses. (6) Toothbrush type not standardized. Additional: fabrication cost ~360 € per device; long-term durability not systematically evaluated; maintenance (clean with water/mild detergent, store in splint box) may affect adherence. Strengths: randomized crossover design (each participant own control), standardized instructions/washouts, predefined age stratification, objective indices (QHI, GI, BOP) plus validated modifier instruments (diet, stress, motor skills). CS could be valuable for patients in nursing homes and vulnerable groups.
+
+Conflicts of interest: Andreas Zenthöfer and Stefan Rues own a European patent (non-commercial) on the investigated cleaning splints. Other authors declare none. Funding: none reported.
+
+====================================================================
+5. CONCLUSION
+
+Customized 3D-printed cleaning splints may enhance IDB efficacy — adjunctive use resulted in significantly greater plaque reduction with beneficial effects across age groups. GI and BOP also reduced, particularly in younger participants. Potential benefits in anatomically challenging interdental situations, including areas with missing adjacent teeth. Long-term clinical trials warranted to confirm periodontal-health impact and evaluate patient adherence.
