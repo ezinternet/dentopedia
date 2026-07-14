@@ -174,7 +174,7 @@ All groups declined significantly after 5,000 thermal cycles, but rank order was
 
 ---
 
-## Clinical Protocol Summary [claude 해석]
+## Clinical Protocol Summary [미검증 — Claude 해석]
 
 *This step-by-step protocol is a working clinical hypothesis derived from synthesis of the 9 papers. It does not replace individual manufacturer instructions. All evidence is in vitro.*
 
