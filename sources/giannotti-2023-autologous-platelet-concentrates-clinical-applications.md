@@ -25,6 +25,14 @@ Platelet/growth-factor concentration rises across generations (PRP 3–8× whole
 
 CGF is framed as the most effective current-generation APC (highest growth-factor content, simplest preparation, sustained delivery kinetics) with the widest clinical evidence in oral surgery/dental implantology, bone-defect regeneration, and facial rejuvenation — but the review is narrative (no PRISMA/systematic search protocol), and conflicting CGF-implant-stability findings (Palermo 2023 positive vs Özveri Koyuncu null) are attributed to technique differences (implant-surface permeation vs socket placement) rather than resolved by pooled evidence.
 
+## 세줄요약
+
+서술형 리뷰(Salento대/CNR, Genes 2023) — 자가 혈소판농축물(APC) 3세대(PRP·PRF·CGF)를 제조 프로토콜·성장인자 구성(TGF-β·BMP·VEGF·PDGF)·임상적용 측면에서 나란히 비교.
+
+세대가 올라갈수록 혈소판/성장인자 농축배율이 상승하고(PRP 3–8배 → A-PRF 17.8배 → CGF 15.5배) 방출기간이 연장됨(PRP 1시간 내 대부분 방출 → PRF 7–10일 → A-PRF 14일 → CGF 28일); CGF는 골·내피로 분화 가능한 CD34+/CD45+/CD105+ 전구세포도 보유.
+
+CGF를 성장인자 함량·제조 단순성·지속 전달 동역학 면에서 현세대 최적 APC로 제시하나, 본 리뷰는 서술형(PRISMA 미적용)이며 CGF–임플란트 안정성의 상충 결과(Palermo 2023 양성 vs Özveri Koyuncu 무효)는 pooled 근거가 아니라 술식 차이(임플란트 표면 침투 vs 발치와 삽입)로 설명됨.
+
 ## 1. Document Information
 
 - **Journal**: Genes (Basel), MDPI
