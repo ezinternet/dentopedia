@@ -65,7 +65,7 @@ ISQ는 단독 결정 지표 불가 — ISQ–IT 상관 r=0.44, I²>90%(Tisci 202
 
 ## 1. Foundation Thresholds — 어디서 왔는가
 
-ISQ 부하 임계값의 원형은 Sennerby & Meredith (2008, narrative-review) 가 제시한 다음 구조에서 출발한다 [합의수준]:
+ISQ 부하 임계값의 원형은 Sennerby & Meredith (2008, narrative-review) 가 제시한 다음 구조에서 출발한다 [확인]:
 
 | ISQ | 권고 | 근거 시점 |
 |---|---|---|
@@ -73,7 +73,7 @@ ISQ 부하 임계값의 원형은 Sennerby & Meredith (2008, narrative-review) �
 | 60–65 | 신중한 조기 부하 + 모니터링 | 2008 narrative |
 | > 65–70 | 즉시/조기 부하 고려 가능 | 2008 narrative |
 
-Oh & Chang (2008, in-vivo, 한국 임상 가이드) 가 동일 구조를 다음과 같이 단순화 [claude해석 — 근거 등급 in-vivo로 약함, 그러나 한국 임상 실무 표준]:
+Oh & Chang (2008, in-vivo, 한국 임상 가이드) 가 동일 구조를 다음과 같이 단순화 [미검증 — 근거 등급 in-vivo로 약함, 그러나 한국 임상 실무 표준]:
 
 - **ISQ < 60**: 지연 부하 (4–6개월)
 - **ISQ 60–70**: 조기 부하 + 8–12주 모니터링
@@ -102,7 +102,7 @@ Oh & Chang (2008, in-vivo, 한국 임상 가이드) 가 동일 구조를 다음�
 | **cross-sectional** | [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] | 85 implants | Osstell ICC=0.97, 단회 측정 충분 | 측정 신뢰성 확보 |
 | **narrative** | [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] | — | 17 영향인자 중 6개 임상적 예측력, 2개(골질·거시디자인)만 근거 충분 | ISQ 단독 해석 금지 |
 
-**합성 결론** [근거강함]: **ISQ ≥70 at placement = 표준 부하 안전선, ISQ <70 = 위험 신호로 지연·재평가**. 단, 이 임계값은 골질이 D1–D2일 때의 기준이며, D3–D4에서는 다른 보정이 필요.
+**합성 결론** [확인]: **ISQ ≥70 at placement = 표준 부하 안전선, ISQ <70 = 위험 신호로 지연·재평가**. 단, 이 임계값은 골질이 D1–D2일 때의 기준이며, D3–D4에서는 다른 보정이 필요.
 
 ### 2.2 즉시/조기부하 결정 시 ISQ vs 삽입토크 (Insertion Torque, IT)
 
@@ -119,9 +119,9 @@ Oh & Chang (2008, in-vivo, 한국 임상 가이드) 가 동일 구조를 다음�
 | **retrospective(n=41)** | [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] | **신선 발치와에서 ISQ 단독 부족; ITV ≥35 Ncm 우선** | 발치와 ISQ 57.6 vs 치유골 72.9 |
 | **prospective** | [[implants/isq/lee-2011-isq-loading-protocol-prediction]] | ISQ ≥65 at placement → 조기/즉시부하 예측 가능 | 5개월, IT–ISQ 상관 확인 |
 
-**합성 결론** [근거강함]: **즉시부하는 ISQ ≥70 + IT ≥35 Ncm 양조건 충족 시 안전.** ISQ ≥65 만으로도 조기부하 후보지만 IT 보조 필수. 신선 발치와에서는 ISQ가 인공적으로 낮게 나오므로 ITV를 1차 기준으로.
+**합성 결론** [확인]: **즉시부하는 ISQ ≥70 + IT ≥35 Ncm 양조건 충족 시 안전.** ISQ ≥65 만으로도 조기부하 후보지만 IT 보조 필수. 신선 발치와에서는 ISQ가 인공적으로 낮게 나오므로 ITV를 1차 기준으로.
 
-**macro-design 보강** [근거강함 — 2026 RCT 3편]: **테이퍼·깊은 thread 같은 거시디자인은 IT를 올리지만 ISQ를 올린다는 보장은 없다.** BLX(테이퍼)는 IT 우세에도 6주 ISQ는 BL(원통형)보다 낮았고(Monje/Charoenniwassakul 2025), thread depth를 깊게 해도 종단 ISQ·MBL은 동등하며 위치 정확도만 악화됐다(Kwon 2026). 이는 ISQ–IT가 r=0.44로 비교 불가하다는 Tisci 2026 SR+MA를 임상 RCT 수준에서 재확인 — **고-IT를 ISQ 대용으로 쓰지 말 것**. 단 테이퍼는 즉시부하 3년 추적에서 복합 실패가 더 적어(Song 2026), 1차 안정성 확보·즉시부하 시나리오에서는 여전히 유리.
+**macro-design 보강** [확인 — 2026 RCT 3편]: **테이퍼·깊은 thread 같은 거시디자인은 IT를 올리지만 ISQ를 올린다는 보장은 없다.** BLX(테이퍼)는 IT 우세에도 6주 ISQ는 BL(원통형)보다 낮았고(Monje/Charoenniwassakul 2025), thread depth를 깊게 해도 종단 ISQ·MBL은 동등하며 위치 정확도만 악화됐다(Kwon 2026). 이는 ISQ–IT가 r=0.44로 비교 불가하다는 Tisci 2026 SR+MA를 임상 RCT 수준에서 재확인 — **고-IT를 ISQ 대용으로 쓰지 말 것**. 단 테이퍼는 즉시부하 3년 추적에서 복합 실패가 더 적어(Song 2026), 1차 안정성 확보·즉시부하 시나리오에서는 여전히 유리.
 
 ### 2.3 골질별 ISQ 기준값 (Bone Quality-Specific)
 
@@ -134,7 +134,7 @@ Lekholm-Zarb 분류 기반. [[implants/rosa-2024-do-dental-implants-bone-types]]
 | **Type III** (dense spongy + thin cortical) | 상악 전치부 | 70–75 | 표준 임계값 적용, 경계선 주의 |
 | **Type IV** (low-density + thin cortical) | **상악 구치부** | **58–65** | **표준 임계값 부적용**; ISQ ≥65로 하향 + 표면처리·바이오디자인·지연 부하 고려 |
 
-**Type IV에서의 보정** [근거강함]:
+**Type IV에서의 보정** [확인]:
 - 실패 위험 type I 대비 1.92배 (Rosa 2024)
 - 식립 시 ISQ 58–65이 정상 분포 — 70 미달이라고 자동 지연 결정 아님
 - 친수성/생체활성 표면이 ISQ stability dip 제거 (Canullo 2024 prospective)
@@ -155,7 +155,7 @@ Lekholm-Zarb 분류 기반. [[implants/rosa-2024-do-dental-implants-bone-types]]
 | **prospective(7yr)** | UV 광기능화 (Photofunctionalization) | 복잡증례 ISQ +21.9 (식립→2차 수술); 위축골 100% 성공 | [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] |
 | **sr+ma** | UV 광기능화 (임상 SR+MA) | 골유착 속도지수(OSI) **MD=+2.13 (p=0.007)**·2개월 ISQ MD=+3.48 (p=0.04) 유의; 다른 시점·MBL 비유의(I²≤99%, high RoB) — "안정성 도달 속도"는 빨라지나 절대 ISQ pooled 효과는 제한적 | [[implants/surface/lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma]] |
 
-**합성 결론** [claude해석]:
+**합성 결론** [미검증]:
 - **OD는 상악동 거상 (Sinus Lift) 동시식립에서 ISQ 상승이 가장 확실** (sr+ma 근거)
 - 일반 식립에서 OD의 ISQ 우위는 **일시적 (mid-healing 한정)**, 3개월에 소멸 (RCT n=100)
 - **생체활성·친수성·UV 광기능화 표면은 D3/D4에서 ISQ stability dip을 제거** → 조기부하 가능성 확대
@@ -163,7 +163,7 @@ Lekholm-Zarb 분류 기반. [[implants/rosa-2024-do-dental-implants-bone-types]]
 
 ### 2.5 Stability Dip — 부하 시점 결정의 함정
 
-[합의수준 — Sennerby 2008 narrative 원형, Lee 2011 prospective 확인, Canullo 2024 prospective로 표면 의존성 확인]
+[확인 — Sennerby 2008 narrative 원형, Lee 2011 prospective 확인, Canullo 2024 prospective로 표면 의존성 확인]
 
 ```
 ISQ
@@ -184,7 +184,7 @@ ISQ
 | 친수성 테이퍼, 상악 구치부 | Dip 미보고, 6주 부하 가능 | Kim 2016 RCT |
 | UV-PF 위축골 | Dip 없음, 6주에 +21.9 상승 | Hirota 2020 prospective |
 
-**임상 시사** [claude해석]: "ISQ 트라젝토리는 표면처리가 결정한다." 식립시 ISQ가 같아도 표면에 따라 30–45일 ISQ는 5–10 차이 발생 가능. 부하 결정은 **식립시 단일값보다 2–4주 follow-up RFA가 더 신뢰성 높음** (Sennerby 2008 narrative).
+**임상 시사** [미검증]: "ISQ 트라젝토리는 표면처리가 결정한다." 식립시 ISQ가 같아도 표면에 따라 30–45일 ISQ는 5–10 차이 발생 가능. 부하 결정은 **식립시 단일값보다 2–4주 follow-up RFA가 더 신뢰성 높음** (Sennerby 2008 narrative).
 
 ---
 
@@ -255,7 +255,7 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 
 ## 4. ISQ 단독 해석의 한계 — 보완 지표
 
-[근거강함 — Tisci 2026 SR+MA · Huang 2020 narrative · Chatvaratthana 2017 prospective × 2 · Huang 2017 retrospective]
+[확인 — Tisci 2026 SR+MA · Huang 2020 narrative · Chatvaratthana 2017 prospective × 2 · Huang 2017 retrospective]
 
 | 한계 | 보완 지표 |
 |---|---|
@@ -266,7 +266,7 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 | 표면처리에 따라 dip 양상 다름 | 임플란트 시스템별 baseline 데이터 보유 |
 | 신선 발치와에서 ISQ 인위적 저하 | ITV를 1차 기준으로 |
 
-**핵심 원칙** [근거강함]: ISQ는 **하나의 보조 지표이지 단독 결정 지표가 아니다**. 임상 결정은 ISQ + IT + 골질 + 표면처리 + 시점 5요소 종합.
+**핵심 원칙** [확인]: ISQ는 **하나의 보조 지표이지 단독 결정 지표가 아니다**. 임상 결정은 ISQ + IT + 골질 + 표면처리 + 시점 5요소 종합.
 
 ---
 
@@ -287,7 +287,7 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 
 ## 6. 미해결 쟁점 및 향후 근거 필요 영역
 
-[claude해석]
+[미검증]
 
 1. **70이라는 컷오프의 절대성 검증 부족** — Andersson 2019 retrospective n=745가 가장 강한 근거이나 단일 시스템(Neoss). 다중 시스템 prospective RCT 부재.
 2. **D4 골에서의 최적 임계값** — 58–65 정상범위와 70 표준 컷오프 사이 결정 가이드라인 없음. 표면처리·OD 조합 RCT 필요.
@@ -298,7 +298,7 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 
 ## 7. 결론 — 임상 적용 한 페이지 요약
 
-**ISQ 부하 결정의 6대 원칙** [합의수준]:
+**ISQ 부하 결정의 6대 원칙** [확인]:
 
 1. **ISQ ≥70 at placement** = 표준 부하 안전선 (Andersson 2019 retrospective n=745)
 2. **즉시부하**: ISQ ≥70 + IT ≥35 Ncm 양조건 충족 (Wittneben 2023 SR)

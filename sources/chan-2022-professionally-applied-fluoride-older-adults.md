@@ -39,7 +39,7 @@ Journal of Dentistry 2022;125:104273 · Alice Kit Ying Chan, Manisha Tamrakar, C
 5개 DB(~2021.12), 비교군 있는 임상시험 7편. Cochrane RoB.
 
 ## 4. Key Results and Benchmarks
-38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [근거강함~합의수준].
+38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [확인].
 
 ## 5. Limitations and Future Work
 포함 7편, 추적·농도·빈도 이질.

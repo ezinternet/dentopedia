@@ -38,7 +38,7 @@ J Indian Prosthodont Soc 2024;24:391 · Ambili Ravindran P, Rohit Raghavan, Kira
 3D finite element analysis, 부기능 하중 시뮬레이션.
 
 ## 4. Key Results and Benchmarks
-지지방식별 응력분포 차이; tooth-implant/임플란트 주위 응력 집중 양상 [claude해석/미검증(수치)]. FEA 한계 명시.
+지지방식별 응력분포 차이; tooth-implant/임플란트 주위 응력 집중 양상 [미검증]. FEA 한계 명시.
 
 ## 5. Limitations and Future Work
 FEA 모델 가정(재료·계면 이상화), 임상 외삽 주의.

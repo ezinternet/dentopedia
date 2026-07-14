@@ -33,7 +33,7 @@ IDS µTBS(58.25 MPa)는 직접 접착 대조군(55.06 MPa)과 동등(P>.05)하�
 
 저자: Pascal Magne DMD PhD, Tae Hyung Kim DDS, Domenico Cascione CDT, Terence E. Donovan DDS (USC, Herman Ostrow School of Dentistry).
 저널: The Journal of Prosthetic Dentistry, Volume 94, Issue 6, P511-519, December 2005.
-Article ID: S0022-3913(05)00557-3. DOI: 10.1016/j.prosdent.2005.10.010 [미검증 — article ID로부터 추정].
+Article ID: S0022-3913(05)00557-3. DOI: 10.1016/j.prosdent.2005.10.010 [미검증, article ID로부터 추정한 값].
 유형: In-vitro µTBS study.
 
 ## 2. Key Contributions

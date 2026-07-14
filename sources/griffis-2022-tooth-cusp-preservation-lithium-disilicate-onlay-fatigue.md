@@ -40,7 +40,7 @@ J Esthet Restor Dent 2022 · Griffis et al. · 2022 · DOI: 10.1111/jerd.12666. 
 In-vitro fatigue resistance testing, 교두 보존 vs 삭제 온레이.
 
 ## 4. Key Results and Benchmarks
-교두 보존 온레이가 양호한 피로저항 [합의수준/미검증(수치)]. 보존적 형성 권고.
+교두 보존 온레이가 양호한 피로저항 [확인, 다만 구체적 수치는 미검증]. 보존적 형성 권고.
 
 ## 5. Limitations and Future Work
 in-vitro 피로, 임상 외삽 주의.

@@ -40,7 +40,7 @@ International Endodontic Journal 2025;58:1681-1710 · Thanatpong Rujirawan, Sitt
 5개 DB(~2024.10). RCT. pairwise+network MA random-effects, SUCRA, CINeMA certainty.
 
 ## 4. Key Results and Benchmarks
-SUPP RR 2.02(95%CI 1.55-2.30, SUCRA 85.1%), COMB RR 1.86(1.50-2.30, SUCRA 64.9%) vs IANB-alone; SUPP≈COMB [근거강함~합의수준, certainty low-high].
+SUPP RR 2.02(95%CI 1.55-2.30, SUCRA 85.1%), COMB RR 1.86(1.50-2.30, SUCRA 64.9%) vs IANB-alone; SUPP≈COMB [확인, GRADE certainty는 비교별로 low~high로 상이].
 
 ## 5. Limitations and Future Work
 개입 정의 다양, 일부 비교 저certainty.

@@ -20,16 +20,16 @@ source_wiki:
 
 > [!summary] 한국어 핵심요약
 > - 임플란트 일반 임상 의사결정을 6축 — 환자 위험인자 · 디자인 · 드릴 열손상 (drill thermal) · 연조직 · 임플란트주위염 (peri-implantitis) · 보철 형식 — ladder로 통합한 페이지로, ISQ·표면처리·골밀도화 (OD) 깊이는 별도 overview로 위임한다.
-> - 위험 stratification: 임플란트주위 점막염 43–46% / 임플란트주위염 21–22% 유병률, 치주염력과 흡연이 두 질환 모두의 강한 위험인자 (Galarraga-Vinueza 2025 SR-MA, n=13,030). [근거강함]
-> - 흡연은 조기 실패 교차비 (OR) 2.59로 용량 의존적이고, Type IV 골 (특히 상악 구치부) 은 실패율 1.5–1.9배 (Rosa 2024 SR-MA). [근거강함]
+> - 위험 stratification: 임플란트주위 점막염 43–46% / 임플란트주위염 21–22% 유병률, 치주염력과 흡연이 두 질환 모두의 강한 위험인자 (Galarraga-Vinueza 2025 SR-MA, n=13,030). [확인]
+> - 흡연은 조기 실패 교차비 (OR) 2.59로 용량 의존적이고, Type IV 골 (특히 상악 구치부) 은 실패율 1.5–1.9배 (Rosa 2024 SR-MA). [확인]
 > - 위험 tier: Low (비흡연·당화혈색소 HbA1c<7·협측골두께 BBT≥1mm·Type I–III) = 표준, Moderate = 강화 유지치료 (SPT) + 적응 case 술전 amox 2g, High (흡연+치주염+불량 위생) = 연기 권고.
-> - 디자인 — 짧은 임플란트 (short, ≤6mm) 는 5–8년 장기 RCT (Sivolella 2025, Barausse 2024) 에서 골증대+긴 임플란트 대비 비열등~우세하며 합병증 68% 적음 → 골증대 회피 가능하면 우선. [근거강함]
-> - 플랫폼 스위칭 (platform switching) 은 변연골소실 (MBL) 을 0.255–0.49mm 유의하게 줄이고 5년 RCT에서도 유지 (Messias 2019). [근거강함]
-> - 신규 축 — 드릴 열응력: 표준 sequence + 관주 (irrigation) 미준수 시 임계값 47°C/1분 초과 가능, 누적 드릴 사용·guided sleeve가 열 분산 방해. OD는 저속 드릴링+관주 보존으로 결과적으로 thermal-friendly. [근거강함 기전 / 합의수준 임상]
-> - 조직수준 (Tissue-Level) vs 골수준 (Bone-Level): TL이 임플란트주위염에 보호적 경향 (RR 0.59, NS) 이나 MBL은 연결부 종류·biotype에 더 좌우 — 단일 변수로 결정 어려움 (Atieh 2025). [합의수준]
-> - 연조직: 각화점막 (Keratinized Tissue, KT) ≥ 2mm 유지가 임플란트주위 건강의 임계값, <2mm 시 유리치은이식 (FGG)/결합조직이식 (CTG) 추가 (Thoma 2018). [근거강함]
+> - 디자인 — 짧은 임플란트 (short, ≤6mm) 는 5–8년 장기 RCT (Sivolella 2025, Barausse 2024) 에서 골증대+긴 임플란트 대비 비열등~우세하며 합병증 68% 적음 → 골증대 회피 가능하면 우선. [확인]
+> - 플랫폼 스위칭 (platform switching) 은 변연골소실 (MBL) 을 0.255–0.49mm 유의하게 줄이고 5년 RCT에서도 유지 (Messias 2019). [확인]
+> - 신규 축 — 드릴 열응력: 표준 sequence + 관주 (irrigation) 미준수 시 임계값 47°C/1분 초과 가능, 누적 드릴 사용·guided sleeve가 열 분산 방해. OD는 저속 드릴링+관주 보존으로 결과적으로 thermal-friendly. [확인 기전 / 미검증 임상]
+> - 조직수준 (Tissue-Level) vs 골수준 (Bone-Level): TL이 임플란트주위염에 보호적 경향 (RR 0.59, NS) 이나 MBL은 연결부 종류·biotype에 더 좌우 — 단일 변수로 결정 어려움 (Atieh 2025). [확인]
+> - 연조직: 각화점막 (Keratinized Tissue, KT) ≥ 2mm 유지가 임플란트주위 건강의 임계값, <2mm 시 유리치은이식 (FGG)/결합조직이식 (CTG) 추가 (Thoma 2018). [확인]
 > - 임플란트주위염 치료 ladder: 점막염 (BoP+, 골소실 없음) → 비외과 (기계적 debridement + CHX) → 재평가, 임플란트주위염 (BoP+, 골소실 ≥2mm) → 비외과 1차 (adjunct 항생제로 PPD 0.6–1.15mm 추가) → 미해소 시 외과 (절제형 또는 재생형).
-> - 연결부 선택: 내부 연결 (Internal Connection, IC) 특히 모스 테이퍼 (Morse taper) 가 외부 육각형 (External Hexagon, EH) 대비 마이크로갭 (microgap) 이 치조정 골에서 멀어져 세균 오염 감소 + 나사 안정성 우수 — 플랫폼 스위칭과 조합 시 변연골소실 (MBL) 최소화 (Seong 2016 대한치과의사협회지 서술리뷰). [합의수준]
+> - 연결부 선택: 내부 연결 (Internal Connection, IC) 특히 모스 테이퍼 (Morse taper) 가 외부 육각형 (External Hexagon, EH) 대비 마이크로갭 (microgap) 이 치조정 골에서 멀어져 세균 오염 감소 + 나사 안정성 우수 — 플랫폼 스위칭과 조합 시 변연골소실 (MBL) 최소화 (Seong 2016 대한치과의사협회지 서술리뷰). [확인]
 > - 임상 메모: 단일 임플란트 10년 추적에서 인접접촉상실 (Proximal Contact Loss, PCL) 이 흔하므로 "5–10년 사이 보철 조정이 필요할 수 있다"를 환자 설명에 포함한다.
 
 ## Three-line Summary
@@ -53,14 +53,14 @@ Peri-implantitis management follows a stepwise ladder: mucositis (BoP+, no bone 
 본 페이지는 wiki/implants/ 92 top-level paper + implants/surface 19 + implants/isq 23 paper의 통합 spine. ISQ 깊이는 [[overviews/implants-isq-stability-ladder]], 표면처리 깊이는 [[overviews/implant-surface-comparison]], OD 술식 깊이는 [[overviews/osseodensification-clinical-applications]]로 위임. 본 ladder는 임상 의사결정 흐름을 다룸.
 
 핵심 명제 8개 (이전 6개 + 2개 갱신):
-1. **Peri-implant mucositis 43–46% / peri-implantitis 21–22% prevalence — 치주염력과 흡연이 두 질환 모두의 강한 위험인자** — Galarraga-Vinueza 2025 SR-MA (102편 n=13,030), Derks 2015 SR-MA, Carra 2023 EFP/AAP. [근거강함]
-2. **Type IV 골에서 실패율 1.5–1.9배. 상악 구치부 최고 위험** — Rosa 2024 SR-MA (49편, 29,905 implants). [근거강함]
-3. **흡연은 임플란트 조기 실패 OR 2.59. dose-dependent** — Fan 2024 SR-MA (32편, 59,246 implants), Naseri 2020 SR-MA. [근거강함]
-4. **Short implants (≤6mm) — 5–8y 장기 RCT에서 augmentation+long과 비열등 또는 우세. 합병증 68% 적음.** — Yu 2021 SR-MA (21 RCT), Saenz-Ravello 2023 umbrella, **Sivolella 2025 5y RCT (n=비열등)**, **Barausse 2024 8y RCT**. [근거강함]
-5. **Platform switching이 변연골소실 0.255–0.49mm 유의하게 감소. 5y RCT에서도 유지.** — Strietzel 2015 SR-MA (22편), **Messias 2019 5y RCT**. [근거강함]
-6. **각화 점막 ≥ 2mm 유지가 peri-implant 건강의 임계값.** — Thoma 2018 SR-MA. [근거강함]
-7. **(신규) Drill thermal stress가 osseointegration 실패의 underappreciated 변수 — 표준 drill sequence + irrigation 미준수 시 47°C 초과 노출 가능. Osseodensification은 thermal 부담을 일부 낮춤.** — **Sorgato 2025, Saxena 2024, Bento 2023 SR-MA, Marzorati 2026 SR-MA**. [근거강함]
-8. **(신규) Tissue-level vs Bone-level 비교 — peri-implantitis 발생률 trend는 TL 보호적 (RR 0.59, NS) 이나 MBL은 connection type·biotype에 더 좌우. 단일 변수 결정 어려움.** — **Atieh 2025 SR-MA (5편 n=501), Solderer 2025 cohort, Mortazavi 2021 narrative**. [합의수준]
+1. **Peri-implant mucositis 43–46% / peri-implantitis 21–22% prevalence — 치주염력과 흡연이 두 질환 모두의 강한 위험인자** — Galarraga-Vinueza 2025 SR-MA (102편 n=13,030), Derks 2015 SR-MA, Carra 2023 EFP/AAP. [확인]
+2. **Type IV 골에서 실패율 1.5–1.9배. 상악 구치부 최고 위험** — Rosa 2024 SR-MA (49편, 29,905 implants). [확인]
+3. **흡연은 임플란트 조기 실패 OR 2.59. dose-dependent** — Fan 2024 SR-MA (32편, 59,246 implants), Naseri 2020 SR-MA. [확인]
+4. **Short implants (≤6mm) — 5–8y 장기 RCT에서 augmentation+long과 비열등 또는 우세. 합병증 68% 적음.** — Yu 2021 SR-MA (21 RCT), Saenz-Ravello 2023 umbrella, **Sivolella 2025 5y RCT (n=비열등)**, **Barausse 2024 8y RCT**. [확인]
+5. **Platform switching이 변연골소실 0.255–0.49mm 유의하게 감소. 5y RCT에서도 유지.** — Strietzel 2015 SR-MA (22편), **Messias 2019 5y RCT**. [확인]
+6. **각화 점막 ≥ 2mm 유지가 peri-implant 건강의 임계값.** — Thoma 2018 SR-MA. [확인]
+7. **(신규) Drill thermal stress가 osseointegration 실패의 underappreciated 변수 — 표준 drill sequence + irrigation 미준수 시 47°C 초과 노출 가능. Osseodensification은 thermal 부담을 일부 낮춤.** — **Sorgato 2025, Saxena 2024, Bento 2023 SR-MA, Marzorati 2026 SR-MA**. [확인]
+8. **(신규) Tissue-level vs Bone-level 비교 — peri-implantitis 발생률 trend는 TL 보호적 (RR 0.59, NS) 이나 MBL은 connection type·biotype에 더 좌우. 단일 변수 결정 어려움.** — **Atieh 2025 SR-MA (5편 n=501), Solderer 2025 cohort, Mortazavi 2021 narrative**. [확인]
 
 ---
 
@@ -92,9 +92,9 @@ DM 위험은 [[drug-systemic-disease-dental-management-overview]] 2절(Al-Ansari
 
 ### 1-C. 환자 부위·인구통계학 (Korea-specific)
 
-[합의수준] [[implants/park-2024-dental-implant-utilization-nhis-korea]] — 한국 NHIS 임플란트 활용 분석. 인구·세대별 분포·실패 양상 baseline 데이터. 한국 환자 컨설팅 시 reference.
+[확인] [[implants/park-2024-dental-implant-utilization-nhis-korea]] — 한국 NHIS 임플란트 활용 분석. 인구·세대별 분포·실패 양상 baseline 데이터. 한국 환자 컨설팅 시 reference.
 
-[합의수준] [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 실패 임플란트 제거 기술 scoping review. 위험 stratification에서 실패 시 reversibility를 환자 설명에 포함.
+[확인] [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 실패 임플란트 제거 기술 scoping review. 위험 stratification에서 실패 시 reversibility를 환자 설명에 포함.
 
 ### 임상 ladder (위험 stratification 통합)
 
@@ -132,7 +132,7 @@ Risk Tier 결정
 | [[implants/anitua-2022-short-vs-longer-implants-single-crown]] | retrospective | 단일 crown short도 안전 |
 | [[implants/hockova-2025-short-implants-microvascular-free-flaps]] | case-series | Microvascular free flap 재건부 short implant — atrophic·complex 적응 확장 |
 
-[근거강함] **이전 ladder가 5y longer 약간 우세를 강조했으나, Sivolella 2025·Barausse 2024 장기 RCT로 위축부 short implant는 합병증·비용·환자 morbidity 측면에서 일관되게 우세**. Augmentation 회피가 가능하면 우선.
+[확인] **이전 ladder가 5y longer 약간 우세를 강조했으나, Sivolella 2025·Barausse 2024 장기 RCT로 위축부 short implant는 합병증·비용·환자 morbidity 측면에서 일관되게 우세**. Augmentation 회피가 가능하면 우선.
 
 ### 2-B. Platform switching — 5y RCT 확인
 
@@ -154,7 +154,7 @@ Risk Tier 결정
 | [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL implant bone loss 위험인자 분석 |
 | [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] | narrative | TL vs BL 골소실 종합 |
 
-[합의수준] TL 보호 trend 있으나 절대 우위 결론 안 됨. **abutment connection type·BBT·biotype**의 효과가 TL/BL 자체보다 큼.
+[확인] TL 보호 trend 있으나 절대 우위 결론 안 됨. **abutment connection type·BBT·biotype**의 효과가 TL/BL 자체보다 큼.
 
 ### 2-D. Abutment·Connection·다중 임플란트
 
@@ -162,7 +162,7 @@ Risk Tier 결정
 |---|---|---|
 | [[implants/seong-2016-external-internal-implant-connection-system]] | narrative-review (KDA 2016) | EH vs IC 전면 비교 — Morse taper IC가 cold-weld 효과로 microgap을 임플란트 내부로 이동시켜 치조정 오염↓, 나사 안정성↑; platform switching 조합 시 MBL 보호 |
 
-[합의수준] **연결부 결정 원칙**: 내부 연결(특히 Morse taper) 우선; 단, 여러 유닛 인상 채득은 EH(transfer type)이 기술적으로 단순한 경우가 있어 case-by-case. 스크류 유지형(screw-retained)이 시멘트 잔류 위험 없이 유지관리에 유리.
+[확인] **연결부 결정 원칙**: 내부 연결(특히 Morse taper) 우선; 단, 여러 유닛 인상 채득은 EH(transfer type)이 기술적으로 단순한 경우가 있어 case-by-case. 스크류 유지형(screw-retained)이 시멘트 잔류 위험 없이 유지관리에 유리.
 
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — one-piece bending guide
 - [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]] — All-on-4 vs trefoil FEA stress
@@ -199,7 +199,7 @@ Risk Tier 결정
 
 ## 축 3 — Drill Thermal · Preparation Protocol (신설)
 
-[근거강함] 신규 축. Drill thermal stress가 osseointegration 실패의 underappreciated 변수. 표준 sequence + irrigation 미준수 시 critical threshold 47°C/1min 초과 가능. Type IV 골·hard cortical bone에서 더 위험.
+[확인] 신규 축. Drill thermal stress가 osseointegration 실패의 underappreciated 변수. 표준 sequence + irrigation 미준수 시 critical threshold 47°C/1min 초과 가능. Type IV 골·hard cortical bone에서 더 위험.
 
 ### 3-A. Drill heat — 기전·임계
 
@@ -243,7 +243,7 @@ Risk Tier 결정
 | [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] | retrospective | ridge expansion OD |
 | [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] | clinical | osteotome ridge expansion |
 
-[claude해석] OD는 thermal stress 낮춤이 주 effect는 아니지만, slow drilling + irrigation 보존 + autograft 효과로 결과적으로 thermal-friendly. **별도 깊이는 [[osseodensification-clinical-applications]] 참조**.
+[미검증] OD는 thermal stress 낮춤이 주 effect는 아니지만, slow drilling + irrigation 보존 + autograft 효과로 결과적으로 thermal-friendly. **별도 깊이는 [[osseodensification-clinical-applications]] 참조**.
 
 ### 임상 ladder (drilling thermal)
 
@@ -498,10 +498,10 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 ---
 
 확신도 등급:
-- 축 1 위험 stratification = [근거강함] (다수 SR-MA).
-- 축 2 디자인 (short·PS) = [근거강함] (5–8y RCT confirm). TL vs BL = [합의수준].
-- 축 3 drill thermal = [근거강함] 기전·in vitro, [합의수준] 임상 outcome 직접 연결.
-- 축 4 연조직 = [근거강함] (Thoma 2018, Tavelli 2025).
-- 축 5 peri-implantitis = [근거강함] epidemiology·prevention, [합의수준] treatment (개별화·신지견 진행 중).
+- 축 1 위험 stratification = [확인] (다수 SR-MA).
+- 축 2 디자인 (short·PS) = [확인] (5–8y RCT confirm). TL vs BL = [확인].
+- 축 3 drill thermal = [확인] 기전·in vitro, [확인] 임상 outcome 직접 연결.
+- 축 4 연조직 = [확인] (Thoma 2018, Tavelli 2025).
+- 축 5 peri-implantitis = [확인] epidemiology·prevention, [확인] treatment (개별화·신지견 진행 중).
 
 본 페이지의 본문 갱신 의도·진단은 [[agenda/2026-05-27_drug-overview-split]] 후속 작업으로, B안(implants ladder thesis 갱신)에 따라 cov% 16→ target 70%+로 끌어올림.

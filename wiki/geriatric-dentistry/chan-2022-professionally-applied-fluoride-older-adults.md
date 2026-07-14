@@ -42,7 +42,7 @@ SR+MA(임상시험 7편, 5개 데이터베이스 2021년 12월까지, Cochrane R
 5개 DB(~2021.12), 비교군 있는 임상시험 7편. Cochrane RoB.
 
 ## Results
-38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [근거강함~합의수준].
+38% SDF 근관면 우식 예방분율 25-71%, 24개월 정지율 42%(95%CI 33-49); NaF varnish 64%·APF 32% 예방 [확인].
 
 ## Related Papers
 - [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] — 근관면 우식 개입 위계

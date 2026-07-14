@@ -40,7 +40,7 @@ J Evid Based Dent Pract 2022;23(1):101803 · Teresa Baena-de la Iglesia, Rosa Ma
 DTA 프로토콜 SR+MA, PRISMA, QUADAS-2. 7841→17편(in vivo 6편 low RoB).
 
 ## 4. Key Results and Benchmarks
-민감도 78.12%·특이도 79.25%(범위 42-98%/49.3-96.3%); 유효선량 34-1073 µSv [근거강함~합의수준].
+민감도 78.12%·특이도 79.25%(범위 42-98%/49.3-96.3%); 유효선량 34-1073 µSv [확인].
 
 ## 5. Limitations and Future Work
 in vitro 다수, 측정·classification 이질.

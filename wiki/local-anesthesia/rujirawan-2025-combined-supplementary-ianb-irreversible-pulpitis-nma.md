@@ -43,7 +43,7 @@ SUPP(RR 2.02, 95% CI 1.55–2.30, SUCRA 85.1%)와 COMB(RR 1.86, 95% CI 1.50–2.
 5개 DB(~2024.10). RCT. pairwise+network MA random-effects, SUCRA, CINeMA certainty.
 
 ## Results
-SUPP RR 2.02(95%CI 1.55-2.30, SUCRA 85.1%), COMB RR 1.86(1.50-2.30, SUCRA 64.9%) vs IANB-alone; SUPP≈COMB [근거강함~합의수준, certainty low-high].
+SUPP RR 2.02(95%CI 1.55-2.30, SUCRA 85.1%), COMB RR 1.86(1.50-2.30, SUCRA 64.9%) vs IANB-alone; SUPP≈COMB [확인, GRADE certainty는 비교별로 low~high로 상이].
 
 ## Related Papers
 - [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]] — 1차 BI 대안

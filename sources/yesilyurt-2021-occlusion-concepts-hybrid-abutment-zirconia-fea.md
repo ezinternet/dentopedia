@@ -40,7 +40,7 @@ J Adv Prosthodont 2021;13(4):216 · Nilgun Gulbahce Yesilyurt, Ali Riza Tuncdemi
 3D finite element analysis, 교합개념별 하중.
 
 ## 4. Key Results and Benchmarks
-교합개념이 임플란트 보철·abutment 응력분포에 영향 [claude해석/미검증(수치)].
+교합개념이 임플란트 보철·abutment 응력분포에 영향 [미검증].
 
 ## 5. Limitations and Future Work
 FEA 가정, 임상 외삽 주의.

@@ -64,15 +64,15 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 
 이 클러스터에서 (LLM 도메인의) 풀링 효과 추정치를 제시하는 논문은 **Zhang 2025만 하나**였다. 나머지는 정성 또는 단일 연구 인용. **단 2026-06-22 surveillance 추가로 영상 진단 과제별 풀링 정확도(우식·치근단·치주·두부계측)가 cluster 6에 확보되어, 이제 정량 anchor는 LLM(Zhang)뿐 아니라 영상 진단 4과제로 확장되었다** — 아래 cluster 6 참조.
 
-**Zhang 2025 (sr+ma, J Prosthodont 2025 Early View, 25편)** — 치과 환자 응답에서 대형 언어 모델 (Large Language Model, LLM)의 풀링 정확도 81.87% (95% 신뢰구간 (Confidence Interval, CI) 77.24–86.51%), 임상 수용 가능 응답 69.9% (95% CI 57.3–82.6%). ChatGPT-3.5는 Microsoft Bing보다 유의하게 높았고, GPT-4.0/Google Bard와는 차이 없음. [근거강함]
+**Zhang 2025 (sr+ma, J Prosthodont 2025 Early View, 25편)** — 치과 환자 응답에서 대형 언어 모델 (Large Language Model, LLM)의 풀링 정확도 81.87% (95% 신뢰구간 (Confidence Interval, CI) 77.24–86.51%), 임상 수용 가능 응답 69.9% (95% CI 57.3–82.6%). ChatGPT-3.5는 Microsoft Bing보다 유의하게 높았고, GPT-4.0/Google Bard와는 차이 없음. [확인]
 
 여기서 두 가지 신호가 임상적으로 중요하다.
 - **정확도 vs 임상 수용 가능성의 12%p 갭** — 정답률이 높아도 임상 컨텍스트(언어 톤·완결성·안전 권고 누락)에서 실패하는 응답이 따로 존재한다. LLM 출력을 환자에게 그대로 전달하면 안 된다는 직접 근거.
-- **GPT-3.5 ≈ GPT-4.0 무차이** — 직관과 어긋난다. 모델 능력보다 태스크 천장(saturation)이 빨리 도달했거나, 평가 루브릭이 거친 가능성. [claude해석]
+- **GPT-3.5 ≈ GPT-4.0 무차이** — 직관과 어긋난다. 모델 능력보다 태스크 천장(saturation)이 빨리 도달했거나, 평가 루브릭이 거친 가능성. [미검증]
 
-**Najeeb 2025 (sr, PRISMA, 63편)** — 우식 검출 정확도 "up to 95%" 인용. 단 풀링 추정치가 아니라 최고 성능 단일 연구 인용이므로 정량 강도가 Zhang의 81.87% 풀링치보다 약하다. International Caries Detection and Assessment System (ICDAS) 기준 ground truth가 어디까지인지(D3+ 수준인지, 법랑질만인지) 명시 부족. [합의수준]
+**Najeeb 2025 (sr, PRISMA, 63편)** — 우식 검출 정확도 "up to 95%" 인용. 단 풀링 추정치가 아니라 최고 성능 단일 연구 인용이므로 정량 강도가 Zhang의 81.87% 풀링치보다 약하다. International Caries Detection and Assessment System (ICDAS) 기준 ground truth가 어디까지인지(D3+ 수준인지, 법랑질만인지) 명시 부족. [확인]
 
-**Faiyazuddin 2025** — 의료 AI 출판물이 Web of Science에서 2014년 158편(3.54%) → 2024년 731편(16.33%)로 약 4.5배 증가. 채택률이 아니라 출판량 지표라는 한계. [근거강함 for the metric itself, claude해석 for impact]
+**Faiyazuddin 2025** — 의료 AI 출판물이 Web of Science에서 2014년 158편(3.54%) → 2024년 731편(16.33%)로 약 4.5배 증가. 채택률이 아니라 출판량 지표라는 한계. [확인 (출판량 수치), 실제 임상 임팩트로의 해석은 미검증]
 
 ## Cluster 2 — Cross-discipline AI mapping in dentistry
 
@@ -88,7 +88,7 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 - **Gao 2025의 6대 전공 체인** — 근관·치주·임플란트·교정·보철·구강악안면외과 (Oral and Maxillofacial Surgery, OMFS). 의료 과실·개인정보 법적 위험을 명시적으로 다룬 점이 차별적.
 - **Mallineni 2024의 최광역 커버리지** — 위 6대 + 소아치과·법의치과학까지 포함. 다만 narrative descriptive로 깊이는 얕다.
 
-**Synthesis [claude해석]** — 세 편 모두 정확한 단일 진단·결정 지원 사례는 풍부하나 워크플로우 통합 수준의 임상 결과를 제시하지 못한다. 즉 "AI가 무엇을 할 수 있는가"는 잘 정리되어 있지만 "AI를 도입했을 때 임상 결과·환자 안전·진료 효율이 통계적으로 개선되는가"는 아직 답하지 못한다.
+**Synthesis [미검증]** — 세 편 모두 정확한 단일 진단·결정 지원 사례는 풍부하나 워크플로우 통합 수준의 임상 결과를 제시하지 못한다. 즉 "AI가 무엇을 할 수 있는가"는 잘 정리되어 있지만 "AI를 도입했을 때 임상 결과·환자 안전·진료 효율이 통계적으로 개선되는가"는 아직 답하지 못한다.
 
 **영상 기반 성숙 영역의 구체 근거 (본 wiki 보유 implant-AI 논문)** — "영상 라벨링 작업이 가장 성숙"이라는 공통 결론은 우리가 따로 보유한 임플란트 영역 deep-learning 논문들에서 그대로 확인된다: Park 2023은 파노라마에서 임플란트 종류 분류 deep learning을, Oh 2023은 방사선 기반 골유착 예측 DL을, Chi 2026은 치근단 방사선 촬영 품질 자동 평가를 보고한다. 술식 측면에서는 Sakai 2023이 CBCT 기반 드릴링 프로토콜 AI를 다룬다. 이들은 모두 "영상 입력 → 라벨/수치 출력"으로 cluster 2의 성숙 영역 정의에 정확히 들어맞으며, 반대로 워크플로우 통합·임상 결과 RCT는 여전히 비어 있다.
 
@@ -96,54 +96,54 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 
 **Aminoshariae 2024 (scoping, J Endod 50(5):562, 251→35편)** — 근관치료 교육에서 AI 활용 10영역 매핑: (1) 방사선 해석, (2) 감별진단, (3) 치료계획·의사결정, (4) 사례 난이도 평가, (5) 술기 전 실습, (6) 시뮬레이션·사례 기반 훈련, (7) 실시간 임상 가이드, (8) 자율 시스템·로봇, (9) 진도 평가·개인화 교육, (10) 캘리브레이션·표준화.
 
-교육 영역에서는 한국 치과의사 양성 현장에서 (4) 사례 난이도 평가와 (10) 캘리브레이션이 가장 즉시 가치가 있다 — 인스트럭터 간 변동성을 줄일 수 있다. (7) 실시간 임상 가이드는 학생-AI-감독자 책임 분담 문제로 한국 의료법상 미정리 영역. [claude해석]
+교육 영역에서는 한국 치과의사 양성 현장에서 (4) 사례 난이도 평가와 (10) 캘리브레이션이 가장 즉시 가치가 있다 — 인스트럭터 간 변동성을 줄일 수 있다. (7) 실시간 임상 가이드는 학생-AI-감독자 책임 분담 문제로 한국 의료법상 미정리 영역. [미검증]
 
 **Najeeb 2025 (sr, BMC Oral Health 25:592, 63편, 2020–2025.1)** — 수복치의학 도메인 한정. 우식 검출, 근관, 수복, 치아 표면 손실, 색조 측정, 재생 치의학. 3D 프린팅과 AI 통합을 향후 핵심 방향으로 지목.
 
-**Synthesis [claude해석]** — 두 편은 교육과 임상 실무의 양극단을 각각 다루며, AI 도입 전략을 "교육 → 술식 보조 → 임상 결정 지원" 순서로 단계화하면 자연스럽다.
+**Synthesis [미검증]** — 두 편은 교육과 임상 실무의 양극단을 각각 다루며, AI 도입 전략을 "교육 → 술식 보조 → 임상 결정 지원" 순서로 단계화하면 자연스럽다.
 
 ## Cluster 4 — General healthcare AI context
 
 치과 특화가 아닌 의료 AI 리뷰 3편(Faiyazuddin 2025, Iqbal 2025, Mizna 2025)은 치과 임상에 직접 적용은 어렵지만 두 가지 기능이 있다.
 
-**기능 1 — 메타-증거 품질 audit (Iqbal 2025).** ChatGPT 의료 활용 umbrella review (17편, SR 15 + MA 2). AMSTAR-2 평가 결과 중간 5편 / 낮음 12편. 즉 현재 출간된 ChatGPT-in-healthcare SR 대다수의 방법론적 품질이 낮다. 결함은 연구 설계 정당화·연구비 출처 보고. [근거강함 for AMSTAR-2 results]
+**기능 1 — 메타-증거 품질 audit (Iqbal 2025).** ChatGPT 의료 활용 umbrella review (17편, SR 15 + MA 2). AMSTAR-2 평가 결과 중간 5편 / 낮음 12편. 즉 현재 출간된 ChatGPT-in-healthcare SR 대다수의 방법론적 품질이 낮다. 결함은 연구 설계 정당화·연구비 출처 보고. [확인 for AMSTAR-2 results]
 
 **임상 함의** — ChatGPT/LLM 관련 단일 SR을 인용할 때 방법론 검증 없이 무비판적으로 옮기면 안 된다. Zhang 2025처럼 PRISMA + QUADAS-2를 명시한 sr+ma가 현재 가장 신뢰할 만한 정량 근거.
 
-**기능 2 — 인접 통합 기술 매핑 (Mizna 2025, Faiyazuddin 2025).** 로봇 보조 수술·재활·증강현실 (Augmented Reality, AR)·가상현실 (Virtual Reality, VR)·사물인터넷 (Internet of Things, IoT)·웨어러블 분석. 치과 직접 적용은 제한적이나, 만성질환 환자(당뇨·심혈관)의 웨어러블 데이터가 치과 사전 처치 위험도 평가로 흘러오는 시나리오는 5–10년 시야에서 현실적. [추정]
+**기능 2 — 인접 통합 기술 매핑 (Mizna 2025, Faiyazuddin 2025).** 로봇 보조 수술·재활·증강현실 (Augmented Reality, AR)·가상현실 (Virtual Reality, VR)·사물인터넷 (Internet of Things, IoT)·웨어러블 분석. 치과 직접 적용은 제한적이나, 만성질환 환자(당뇨·심혈관)의 웨어러블 데이터가 치과 사전 처치 위험도 평가로 흘러오는 시나리오는 5–10년 시야에서 현실적. [미검증]
 
 ## Cluster 5 — Pediatric-dentistry AI (2026 extension)
 
 본 종합은 2026-05-21 9편으로 시작했으나, 2026년에 신설된 `artificial-intelligence/` 카테고리의 소아치과 AI 2편이 cluster 1(정량 anchor)·cluster 4(메타-품질 audit)의 핵심 명제를 **독립적으로 재확인**한다.
 
-**Garg 2026 (umbrella review, 7 SR / 1차 109편)** — 소아치과 인공지능 (Artificial Intelligence, AI), 특히 영상용 합성곱 신경망 (Convolutional Neural Network, CNN)이 통합 민감도/특이도 80–83%·곡선하면적 (Area Under the Curve, AUC) 0.87–0.91을 달성. 그러나 포함 SR 대부분이 A MeaSurement Tool to Assess systematic Reviews v2 (AMSTAR-2) 기준 낮음/매우 낮음 질, 중복은 보정중복면적 (Corrected Covered Area, CCA) 8.27%로 중등도. **Iqbal 2025와 동일한 메타-품질 경고 — 강한 영상 진단 metric이 약한 1차 근거 위에 서 있다.** [근거강함 for the metric, 근거약함 for underlying SR quality]
+**Garg 2026 (umbrella review, 7 SR / 1차 109편)** — 소아치과 인공지능 (Artificial Intelligence, AI), 특히 영상용 합성곱 신경망 (Convolutional Neural Network, CNN)이 통합 민감도/특이도 80–83%·곡선하면적 (Area Under the Curve, AUC) 0.87–0.91을 달성. 그러나 포함 SR 대부분이 A MeaSurement Tool to Assess systematic Reviews v2 (AMSTAR-2) 기준 낮음/매우 낮음 질, 중복은 보정중복면적 (Corrected Covered Area, CCA) 8.27%로 중등도. **Iqbal 2025와 동일한 메타-품질 경고 — 강한 영상 진단 metric이 약한 1차 근거 위에 서 있다.** [확인]
 
-**Gómez-Ríos 2025 (sr, PRISMA·QUADAS-2; 1945→20편)** — 소아치과 머신러닝 (Machine Learning, ML)은 우식 예측(20편 중 14편, 사회인구·행동·생물학적 예측인자)에 집중; ML 비용분석은 실란트+불소가 비용 절감에 유리. ML 전용 보고지침·질 평가 척도 부재를 명시. [합의수준]
+**Gómez-Ríos 2025 (sr, PRISMA·QUADAS-2; 1945→20편)** — 소아치과 머신러닝 (Machine Learning, ML)은 우식 예측(20편 중 14편, 사회인구·행동·생물학적 예측인자)에 집중; ML 비용분석은 실란트+불소가 비용 절감에 유리. ML 전용 보고지침·질 평가 척도 부재를 명시. [확인]
 
-**Synthesis [claude해석]** — 두 편은 cluster 2의 "영상 라벨링 작업이 가장 성숙"이라는 공통 결론을 소아 인구에서 재현하면서(영상 CNN > 비영상 ML), 동시에 cluster 4의 "방법론 품질이 낮아 무비판 인용 금지"를 강화한다. 즉 AI 성숙도 지형(영상 진단 우위)과 근거 품질 경고(낮은 SR 질)는 성인·소아를 가로질러 일관된다.
+**Synthesis [미검증]** — 두 편은 cluster 2의 "영상 라벨링 작업이 가장 성숙"이라는 공통 결론을 소아 인구에서 재현하면서(영상 CNN > 비영상 ML), 동시에 cluster 4의 "방법론 품질이 낮아 무비판 인용 금지"를 강화한다. 즉 AI 성숙도 지형(영상 진단 우위)과 근거 품질 경고(낮은 SR 질)는 성인·소아를 가로질러 일관된다.
 
 ## Cluster 6 — Per-task image-diagnosis accuracy anchors (2026-06-22 surveillance addition)
 
 이전까지 본 종합의 정량 무게중심은 Zhang 2025(LLM)뿐이었다. 2026-06-22 surveillance 인제스트로 **영상 진단 4대 과제별 풀링 진단정확도 SR+MA**가 확보되어, cluster 2가 정성적으로 주장한 "영상 라벨링 = 가장 성숙"이 이제 **과제별 풀링 수치로 뒷받침**된다.
 
-- **Abbott 2024 (sr+ma)** — 우식 검출 AI 21개 플랫폼: 통합 민감도 76%·특이도 91%·곡선하면적 (Area Under the Curve, AUC) 92%(45편 중 7편만 풀링, 이질성 높음); 임상사진 입력이 교익(bitewing)보다 우수. [근거강함 for the pooled metric, 합의수준 for heterogeneity]
-- **Sadr 2023 (sr+ma)** — 치근단(periapical) 방사선투과병소 deep learning: 민감도 0.925·특이도 0.852·진단오즈비 (diagnostic Odds Ratio, dOR) 71.7, **클러스터 전체에서 유일한 GRADE high**. 영상 진단 과제 중 근거 강도가 가장 단단한 사례. [근거강함]
-- **Khubrani 2025 (sr+ma)** — 2D 방사선 치주골소실/치주염 ML·DL(APPRAISE-AI 적용): 민감도 87%·특이도 76%·정확도 84%; 30편 중 "매우우수" 0편. 성능은 임상 유용하나 방법론 품질은 여전히 낮음. [근거강함 for metric, 근거약함 for study quality]
-- **Hendrickx 2024 (sr+ma)** — AI 측모두부계측(cephalometric) 자동화: 2D 평균방사오차 1.39 mm(<2 mm 임상허용 기준)·1분 미만, 3D는 1.0–5.8 mm로 편차 큼; 비뚤림위험(Risk of Bias, RoB) 높음. 2D는 임상 사용 가능 수준에 도달. [근거강함 for 2D]
-- **de Menezes Torres 2025 (sr)** — LLM 도메인 확장: 구강악안면외과 (Oral and Maxillofacial Surgery, OMFS)에서 ChatGPT(10편) — GPT-4 객관식 (Multiple-Choice Question, MCQ) 76.8%, 동의서 작성·환자 소통은 강점이나 복잡한 임상 의사결정은 취약. Zhang 2025의 LLM anchor를 OMFS 맥락으로 보강. [합의수준]
+- **Abbott 2024 (sr+ma)** — 우식 검출 AI 21개 플랫폼: 통합 민감도 76%·특이도 91%·곡선하면적 (Area Under the Curve, AUC) 92%(45편 중 7편만 풀링, 이질성 높음); 임상사진 입력이 교익(bitewing)보다 우수. [확인]
+- **Sadr 2023 (sr+ma)** — 치근단(periapical) 방사선투과병소 deep learning: 민감도 0.925·특이도 0.852·진단오즈비 (diagnostic Odds Ratio, dOR) 71.7, **클러스터 전체에서 유일한 GRADE high**. 영상 진단 과제 중 근거 강도가 가장 단단한 사례. [확인]
+- **Khubrani 2025 (sr+ma)** — 2D 방사선 치주골소실/치주염 ML·DL(APPRAISE-AI 적용): 민감도 87%·특이도 76%·정확도 84%; 30편 중 "매우우수" 0편. 성능은 임상 유용하나 방법론 품질은 여전히 낮음. [확인]
+- **Hendrickx 2024 (sr+ma)** — AI 측모두부계측(cephalometric) 자동화: 2D 평균방사오차 1.39 mm(<2 mm 임상허용 기준)·1분 미만, 3D는 1.0–5.8 mm로 편차 큼; 비뚤림위험(Risk of Bias, RoB) 높음. 2D는 임상 사용 가능 수준에 도달. [확인 for 2D]
+- **de Menezes Torres 2025 (sr)** — LLM 도메인 확장: 구강악안면외과 (Oral and Maxillofacial Surgery, OMFS)에서 ChatGPT(10편) — GPT-4 객관식 (Multiple-Choice Question, MCQ) 76.8%, 동의서 작성·환자 소통은 강점이나 복잡한 임상 의사결정은 취약. Zhang 2025의 LLM anchor를 OMFS 맥락으로 보강. [확인]
 
-**Synthesis [claude해석]** — 네 영상 과제(우식·치근단·치주·두부계측)의 풀링 수치가 모두 임상 유용 범위(민감도 76–93%·특이도 76–91%, 2D 계측오차 <2 mm)에 들어오면서, "영상 진단 우위"는 더 이상 정성 주장이 아니라 **수치로 확인된 성숙 영역**이다. 그러나 (1) 풀링 비율이 낮고 이질성·RoB가 높으며(Abbott 7/45편, Khubrani "매우우수" 0편), (2) GRADE high는 Sadr 치근단 1과제에 불과하고, (3) 여전히 임상 결과(환자-아웃컴) RCT는 전무하다. 즉 **진단 metric은 성숙·근거 품질은 미성숙**이라는 본 종합의 핵심 이중 명제가 과제별 데이터로 재확인된다. 정량 인용 시 무게중심은 Sadr 2023(GRADE high)과 Zhang 2025(LLM 풀링)에 둔다.
+**Synthesis [미검증]** — 네 영상 과제(우식·치근단·치주·두부계측)의 풀링 수치가 모두 임상 유용 범위(민감도 76–93%·특이도 76–91%, 2D 계측오차 <2 mm)에 들어오면서, "영상 진단 우위"는 더 이상 정성 주장이 아니라 **수치로 확인된 성숙 영역**이다. 그러나 (1) 풀링 비율이 낮고 이질성·RoB가 높으며(Abbott 7/45편, Khubrani "매우우수" 0편), (2) GRADE high는 Sadr 치근단 1과제에 불과하고, (3) 여전히 임상 결과(환자-아웃컴) RCT는 전무하다. 즉 **진단 metric은 성숙·근거 품질은 미성숙**이라는 본 종합의 핵심 이중 명제가 과제별 데이터로 재확인된다. 정량 인용 시 무게중심은 Sadr 2023(GRADE high)과 Zhang 2025(LLM 풀링)에 둔다.
 
 ## Cluster 7 — Image-diagnosis SRs & primary studies (2026-07-01 ingest)
 
 2026-07-01 surveillance 인제스트로 영상 진단 SR·overview 3편과 파노라마 우식 1차연구 1편이 추가되어, cluster 2의 "영상 라벨링 = 가장 성숙"과 cluster 6의 "진단 metric 성숙·근거 품질 미성숙" 이중 명제를 **독립 재확인**한다. 세 편 모두 정성 주장을 과제별·아키텍처별 수치로 뒷받침하되 데이터·일반화 병목을 명시한다.
 
-- **Albano 2024 (sr, PRISMA/QUADAS-2, 20편·영상 6346장)** — 방사선 우식 검출 AI: 민감도 0.44–0.86·특이도 0.85–0.98·정확도 0.73–0.98·곡선하면적 (Area Under the Curve, AUC) 0.84–0.98·F1 0.64–0.92, 합성곱 신경망 (Convolutional Neural Network, CNN)이 약 70%. 대부분 낮은 비뚤림 위험(QUADAS-2)이었으나 데이터셋이 작고(최소 15장) 이질적이라 **메타분석 불가**. bitewing이 인접면 우식에 최적 modality, AI는 저경력 검사자에게 특히 유용. cluster 6 Abbott 2024(풀링 SR+MA)의 저변 데이터를 modality·아키텍처로 분해(refines). [근거강함 for per-metric ranges, 합의수준 for no-pooling]
-- **Demir 2024 (sr, PRISMA/Kitchenham, 29편, 2019–2024)** — 딥러닝 병소검출 지도형 리뷰: 5개 병소유형(치근단 62%·apical 34%·낭종·우식·악골)×3개 영상양식(파노라마·치근단·CBCT)×14개 아키텍처(U-Net 최다 27.6%). 정확도 pooling 없음. **경고 신호**: 한 U-Net 모델(2902 파노라마)이 sens 92%·spec 84%에도 치근단 방사선투과 병소의 **49%를 놓침** — headline accuracy 과독 위험. Sadr 2022(치근단 풀링 SR+MA)를 5병소·3양식으로 확장(extends). [근거강함 for the field map, 근거약함 for generalizability]
+- **Albano 2024 (sr, PRISMA/QUADAS-2, 20편·영상 6346장)** — 방사선 우식 검출 AI: 민감도 0.44–0.86·특이도 0.85–0.98·정확도 0.73–0.98·곡선하면적 (Area Under the Curve, AUC) 0.84–0.98·F1 0.64–0.92, 합성곱 신경망 (Convolutional Neural Network, CNN)이 약 70%. 대부분 낮은 비뚤림 위험(QUADAS-2)이었으나 데이터셋이 작고(최소 15장) 이질적이라 **메타분석 불가**. bitewing이 인접면 우식에 최적 modality, AI는 저경력 검사자에게 특히 유용. cluster 6 Abbott 2024(풀링 SR+MA)의 저변 데이터를 modality·아키텍처로 분해(refines). [확인]
+- **Demir 2024 (sr, PRISMA/Kitchenham, 29편, 2019–2024)** — 딥러닝 병소검출 지도형 리뷰: 5개 병소유형(치근단 62%·apical 34%·낭종·우식·악골)×3개 영상양식(파노라마·치근단·CBCT)×14개 아키텍처(U-Net 최다 27.6%). 정확도 pooling 없음. **경고 신호**: 한 U-Net 모델(2902 파노라마)이 sens 92%·spec 84%에도 치근단 방사선투과 병소의 **49%를 놓침** — headline accuracy 과독 위험. Sadr 2022(치근단 풀링 SR+MA)를 5병소·3양식으로 확장(extends). [확인]
 - **Pornprasertsuk 2025 (retrospective, 파노라마 500장·치아 14,997개·우식 1,792개)** — 당일 bitewing을 gold standard로 삼아 파노라마에서 우식을 법랑질/상아질/치수 단계별 분할하는 2단계 파이프라인(YOLOv5s 치아검출 + Attention U-Net 우식분할): 구치부 F1 0.85·정확도 0.93·재현율 0.96, 방사선과 전문의와 가중 κ 0.907–0.981(거의 완벽). 단 위양성 519 > 위음성 67로 healthy tooth 과예측 → 단독 진단 아닌 결정보조. Albano 2024 SR이 집계하는 우식 AI trend의 구체 1차연구 인스턴스(applies-to). [retrospective, single-center, 외부검증 필요]
-- **Turosz 2023 (sr, umbrella/overview of SRs, 12편 SR·ROBIS)** — 파노라마 AI 상위 리뷰: 과제별 최신 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별·번호매김 93.67%, 치근단 병소 민감도 99.95%·특이도 92%. 단 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. cluster 6 과제별 anchor(치주 Khubrani, 우식 Abbott)와 수렴하는 cross-task 정확도 landscape. **abstract-only(전문 미확보)이라 per-review ROBIS·과제별 review 수는 미포착.** [합의수준]
+- **Turosz 2023 (sr, umbrella/overview of SRs, 12편 SR·ROBIS)** — 파노라마 AI 상위 리뷰: 과제별 최신 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별·번호매김 93.67%, 치근단 병소 민감도 99.95%·특이도 92%. 단 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. cluster 6 과제별 anchor(치주 Khubrani, 우식 Abbott)와 수렴하는 cross-task 정확도 landscape. **abstract-only(전문 미확보)이라 per-review ROBIS·과제별 review 수는 미포착.** [확인]
 
-**Synthesis [claude해석]** — 네 편은 cluster 2·6의 이중 명제를 다시 확증한다: (1) 영상 진단 metric은 과제·아키텍처를 가로질러 임상 유용 범위(파노라마 우식 91.5%, 치근단 sens 99.95%, F1 0.85)에 반복 도달하고, (2) 그러나 데이터셋이 작고 이질적이라 메타분석이 반복적으로 좌절되며(Albano 풀링 불가), 한 모델이 병변 49%를 놓치고(Demir), 위양성이 위음성을 초과하며(Pornprasertsuk), umbrella 수준에서도 원천 SR이 적고 빨리 노후화된다(Turosz). 즉 **"진단 정확도는 성숙, 근거 품질·일반화는 미성숙"**이 SR·overview·1차연구 세 층위 모두에서 일관된다. 임상 인용 시 정량 무게중심은 여전히 Sadr 2023(GRADE high)과 Zhang 2025(LLM)에 두고, 본 4편은 영상 진단 성숙도 지형의 폭·깊이를 채운다.
+**Synthesis [미검증]** — 네 편은 cluster 2·6의 이중 명제를 다시 확증한다: (1) 영상 진단 metric은 과제·아키텍처를 가로질러 임상 유용 범위(파노라마 우식 91.5%, 치근단 sens 99.95%, F1 0.85)에 반복 도달하고, (2) 그러나 데이터셋이 작고 이질적이라 메타분석이 반복적으로 좌절되며(Albano 풀링 불가), 한 모델이 병변 49%를 놓치고(Demir), 위양성이 위음성을 초과하며(Pornprasertsuk), umbrella 수준에서도 원천 SR이 적고 빨리 노후화된다(Turosz). 즉 **"진단 정확도는 성숙, 근거 품질·일반화는 미성숙"**이 SR·overview·1차연구 세 층위 모두에서 일관된다. 임상 인용 시 정량 무게중심은 여전히 Sadr 2023(GRADE high)과 Zhang 2025(LLM)에 두고, 본 4편은 영상 진단 성숙도 지형의 폭·깊이를 채운다.
 
 ## Evidence quality audit (cluster-wide)
 
@@ -159,19 +159,19 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 
 **문제점** — narrative review 비중이 9편 중 5편으로 높다. AI 분야 특성상 빠른 출판 압력 때문이라 짐작되지만, 임상 적용 결정에 narrative review를 단독 인용하는 것은 위험. **Zhang 2025와 Iqbal 2025를 정량/메타-품질 anchor**로 두고, 나머지는 컨텍스트로 활용하는 것이 안전.
 
-## Decision threads for our clinic [claude해석]
+## Decision threads for our clinic [미검증]
 
 작업 가설이며 프로토콜이 아님.
 
 1. **즉시 도입 검토 가능** — 영상 기반 보조 진단(파노라마·치근단·CBCT 자동 라벨링). Gao/Lee/Mallineni 합의가 가장 강한 영역. 단, 한국 식품의약품안전처 (Ministry of Food and Drug Safety, MFDS) 인허가 등급(소프트웨어 의료기기 (Software as a Medical Device, SaMD))과 보험 청구 가능성을 별도 확인. [미검증 for current MFDS lineup]
 
-2. **신중 활용** — LLM 환자 응답. Zhang 2025의 풀링 정확도 81.87%·임상 수용 69.9%는 chairside 직접 출력이 아닌 **front-desk staff 1차 초안 + 임상의 검수**의 워크플로우를 시사. 한국어 LLM 성능은 본 sr+ma에서 직접 측정되지 않았으므로 추가 자체 검증 필요. [근거강함 for the English numbers, 추정 for Korean]
+2. **신중 활용** — LLM 환자 응답. Zhang 2025의 풀링 정확도 81.87%·임상 수용 69.9%는 chairside 직접 출력이 아닌 **front-desk staff 1차 초안 + 임상의 검수**의 워크플로우를 시사. 한국어 LLM 성능은 본 sr+ma에서 직접 측정되지 않았으므로 추가 자체 검증 필요. [확인 (영어권 수치), 한국어 적용 가능성은 미검증]
 
-3. **위생사 교육 보조** — Aminoshariae 2024의 (5) 술기 전 실습, (9) 진도 평가에서 AI 보조 가능. 위생사 캘리브레이션(스케일링 평가, 방사선 촬영 품질 평가)에서 inter-rater variability를 줄이는 도구로 검토 가치. [claude해석]
+3. **위생사 교육 보조** — Aminoshariae 2024의 (5) 술기 전 실습, (9) 진도 평가에서 AI 보조 가능. 위생사 캘리브레이션(스케일링 평가, 방사선 촬영 품질 평가)에서 inter-rater variability를 줄이는 도구로 검토 가치. [미검증]
 
-4. **개인정보·법적 책임** — 한국 개인정보보호법 (Personal Information Protection Act, PIPA) 추론 정보 처리 조항이 AI 진단 결과를 진료기록부에 포함할 의무·삭제 요청 처리 절차에 적용. 의료법상 진단·치료 책임이 의사에게 귀속되는 원칙은 AI가 보조해도 변하지 않음. AI 출력을 임상 결정의 1차 근거로 인용하지 말 것(=확진 도구가 아니라 screening 도구로 자리매김). [합의수준]
+4. **개인정보·법적 책임** — 한국 개인정보보호법 (Personal Information Protection Act, PIPA) 추론 정보 처리 조항이 AI 진단 결과를 진료기록부에 포함할 의무·삭제 요청 처리 절차에 적용. 의료법상 진단·치료 책임이 의사에게 귀속되는 원칙은 AI가 보조해도 변하지 않음. AI 출력을 임상 결정의 1차 근거로 인용하지 말 것(=확진 도구가 아니라 screening 도구로 자리매김). [확인]
 
-5. **미성숙 영역 회피** — 자율 술식 시스템(robotics for direct dental procedures), end-to-end 워크플로우 자동화. Mallineni 2024·Gao 2025 모두 "연구 단계"로 명시. 도입 ROI 부정적. [합의수준]
+5. **미성숙 영역 회피** — 자율 술식 시스템(robotics for direct dental procedures), end-to-end 워크플로우 자동화. Mallineni 2024·Gao 2025 모두 "연구 단계"로 명시. 도입 ROI 부정적. [확인]
 
 ## Cluster-wide gaps
 

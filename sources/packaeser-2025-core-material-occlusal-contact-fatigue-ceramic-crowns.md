@@ -40,7 +40,7 @@ J Mech Behav Biomed Mater 2025;106891 · Maria Gabriela Packaeser, Renan Vaz Mac
 In-vitro fatigue testing, monolithic ceramic crowns, 교합접촉 패턴·코어 변수.
 
 ## 4. Key Results and Benchmarks
-코어 재료·교합접촉 양상이 피로수명에 유의 영향 [합의수준/미검증(수치)]. 접촉 분포 최적화가 파절 저감.
+코어 재료·교합접촉 양상이 피로수명에 유의 영향 [확인, 다만 구체적 수치는 미검증]. 접촉 분포 최적화가 파절 저감.
 
 ## 5. Limitations and Future Work
 in-vitro 피로, 구강 환경 단순화.

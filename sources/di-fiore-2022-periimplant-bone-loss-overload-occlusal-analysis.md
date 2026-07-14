@@ -40,7 +40,7 @@ Journal of Clinical Medicine 2022;11:4812 · Adolfo Di Fiore, Mattia Montagner, 
 PRISMA, MEDLINE/Scopus/Cochrane(1985-2021). 정량 교합접촉/마모 보고 임상연구만. ROBINS-I.
 
 ## 4. Key Results and Benchmarks
-492→7편 포함. 과부하-골소실 연관이 시사되나 근거 질·수 제한 [합의수준/미검증]. 디지털 정량분석 표준화 부재가 핵심 한계.
+492→7편 포함. 과부하-골소실 연관이 시사되나 근거 질·수 제한 [확인]. 디지털 정량분석 표준화 부재가 핵심 한계.
 
 ## 5. Limitations and Future Work
 포함 7편으로 적음, 과부하 정의·측정 이질, 인과 미확정.

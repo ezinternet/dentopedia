@@ -56,7 +56,7 @@ Cross-sectional clinical practice survey (Journal of Clinical and Experimental D
   - Tiu 2015 SR realistic 10-22° range
 - BL > MD direction pattern consistent with literature
 
-## Clinical Implications [근거강함 for the numbers; claude해석 for application]
+## Clinical Implications [확인 for the numbers; 미검증 for application/interpretation]
 - The 6° taper is essentially a fiction in clinical practice. Updating patient/staff communication and grading rubrics to reflect 20-30° empirical reality
 - All-ceramic bonded crowns can tolerate higher TOC than cement-retained (adhesive retention compensates) — possibly why these clinicians don't crown-failure-feedback themselves into tighter taper
 - Korean private practice TOC values not directly measured here — extrapolation suggests similar gap (data needed for Korean validation)

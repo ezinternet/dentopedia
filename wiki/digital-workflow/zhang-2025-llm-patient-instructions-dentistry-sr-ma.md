@@ -50,7 +50,7 @@ PRISMA-compliant systematic review with meta-analysis (Journal of Prosthodontics
 | ChatGPT-3.5 vs Bing | Significantly higher | — |
 | ChatGPT-3.5 vs GPT-4.0 / Bard | NS | — |
 
-## Clinical Implications [근거강함 for pooled numbers; claude해석 for clinic applicability]
+## Clinical Implications [확인 (pooled 수치), 임상 적용 가능성은 미검증]
 - For basic patient FAQs (post-extraction care, recall scheduling, brushing instruction), LLM accuracy ~82% is reasonable but the 18% error rate is non-trivial — front-desk staff oversight needed
 - The 30% clinical-acceptability gap suggests verbatim LLM output is not safe to hand to patients in current form
 - Complex clinical scenarios (medication interactions, postoperative complications) still need clinician intervention — counterintuitive that GPT-4.0 isn't superior; likely reflects task-specific saturation

@@ -70,15 +70,15 @@ The entire framework above descends from two late-1990s landmark papers that thi
 Together these two define the page's intellectual coordinate system: Socransky supplies the **community axis** (who is together, who drives) that the dysbiosis/PSD strand refines, and Costerton supplies the **biofilm axis** (matrix-encased, tolerance-conferring) that the matrixome strand refines.
 
 핵심 명제 7개:
-1. **EPS 매트릭스(주로 glucan)는 caries 바이오필름의 1차 virulence 결정인자** — 부착·3D 구조·확산장벽·국소 산성 미세환경 형성. 이는 Costerton(1999)이 명명한 'self-produced polymeric matrix'를 구강 맥락에서 분자 수준으로 해부한 것이다. [근거강함] (Costerton 1999 → Koo 2013, Bowen 2011)
-2. **'matrixome' — 매트릭스는 다당·단백·eDNA·지질의 복합체이며 종마다 조성이 다르다** — 항바이오필름 표적으로 재정의. [합의수준] (Karygianni 2020, Jakubovics 2021)
-3. **S. mutans Gtf(B/C/D)는 pellicle·세균 표면에 차등 흡착되어 in situ glucan 합성** — 표면 흡착 시 활성 3–4배. [근거강함] (Bowen 2011, Klein 2012)
-4. **혼합종 환경이 S. mutans의 glucan 합성·내산성 단백 발현을 증폭** — 단일종 배양과 다른 표현형. [근거강함, in-vitro] (Klein 2012)
-5. **치주염 = PSD 모델: keystone pathogen P. gingivalis가 저존재비(<0.01%)로 군집을 dysbiotic하게 재편** — complement(C5aR–TLR2 crosstalk)·gingipain 매개 면역교란. PSD 모델은 Socransky(1998)가 red complex로 정의한 바로 그 종들을 '독립 원인'이 아닌 '저존재비 군집 재편자'로 재해석한 것이다. [합의수준] (Socransky 1998 → Hajishengallis 2012/2014, Lamont 2014)
-6. **구강 생태: ~1,000종, site당 ~50종, 개인당 ~200종; 건강=generalist, 질환=specialist(virulence 유전자 발현↑)** — 종 목록보다 기능 유전자가 더 나은 판별자. [합의수준] (Lamont 2018, Sedghi 2021, Bloch 2024)
-7. **구강 미생물–전신: F. nucleatum–OSCC, P. gingivalis PPAD–류마티스, 미생물군–심혈관/조산 연관** — 단 Fn 양성이 OSCC에서 역설적 양호 예후. [claude해석/합의수준] (McIlvanna 2021, Lamont 2018)
-8. **[비판적 재평가] 흔한(systemically healthy) 치주염은 진짜 다양성-감소형 dysbiosis가 아니라 다양한 공생균의 총생물량 증가("personalized pathology")로 더 잘 설명된다** — keystone pathogen 저존재비 개념(명제 5)과 상호보완적이되, 이를 모든 치주염에 일반화하는 것에는 제동을 건다. 진짜 다양성-감소형 dysbiosis는 백혈구부착결핍증 등 유전적 감수성 숙주에 국한. 같은 맥락에서 P. gingivalis도 균주 특이적이다 — 18개 균주 중 W83/W50만 중등도/중증 치주염에 유의 농축되고 무독성 ATCC33277/381이 질환단계 무관 최우세 균주였다(존재비만으로는 예측력 부족). [비판적 재평가/근거강함] (Scannapieco 2021 → Murugaiyan 2024)
-9. **구강 미생물총 다양성·biogeography·전신질환 연관의 최신 종합** — CLASI-FISH 기반 종수준 공간구조(부위특이적 정착, S. mutans "rotund" 구조의 국소 탈회)가 caries·치주질환·구강암과 직결되며(Baker 2024, Nat Rev Microbiol), 구강-전신 연관 목록이 COPD·COVID-19·알츠하이머·당뇨·췌장/대장암까지 네트워크 수준으로 확장됨(Kozak 2023) — 단, 대부분 동물모델/서술적 리뷰 수준 근거로 인과 단정 금물(명제 4와 동일 원칙). [합의수준] (Baker 2024, Kozak 2023)
+1. **EPS 매트릭스(주로 glucan)는 caries 바이오필름의 1차 virulence 결정인자** — 부착·3D 구조·확산장벽·국소 산성 미세환경 형성. 이는 Costerton(1999)이 명명한 'self-produced polymeric matrix'를 구강 맥락에서 분자 수준으로 해부한 것이다. [확인] (Costerton 1999 → Koo 2013, Bowen 2011)
+2. **'matrixome' — 매트릭스는 다당·단백·eDNA·지질의 복합체이며 종마다 조성이 다르다** — 항바이오필름 표적으로 재정의. [확인] (Karygianni 2020, Jakubovics 2021)
+3. **S. mutans Gtf(B/C/D)는 pellicle·세균 표면에 차등 흡착되어 in situ glucan 합성** — 표면 흡착 시 활성 3–4배. [확인] (Bowen 2011, Klein 2012)
+4. **혼합종 환경이 S. mutans의 glucan 합성·내산성 단백 발현을 증폭** — 단일종 배양과 다른 표현형. [확인, in-vitro] (Klein 2012)
+5. **치주염 = PSD 모델: keystone pathogen P. gingivalis가 저존재비(<0.01%)로 군집을 dysbiotic하게 재편** — complement(C5aR–TLR2 crosstalk)·gingipain 매개 면역교란. PSD 모델은 Socransky(1998)가 red complex로 정의한 바로 그 종들을 '독립 원인'이 아닌 '저존재비 군집 재편자'로 재해석한 것이다. [확인] (Socransky 1998 → Hajishengallis 2012/2014, Lamont 2014)
+6. **구강 생태: ~1,000종, site당 ~50종, 개인당 ~200종; 건강=generalist, 질환=specialist(virulence 유전자 발현↑)** — 종 목록보다 기능 유전자가 더 나은 판별자. [확인] (Lamont 2018, Sedghi 2021, Bloch 2024)
+7. **구강 미생물–전신: F. nucleatum–OSCC, P. gingivalis PPAD–류마티스, 미생물군–심혈관/조산 연관** — 단 Fn 양성이 OSCC에서 역설적 양호 예후. [확인] (McIlvanna 2021, Lamont 2018)
+8. **[비판적 재평가] 흔한(systemically healthy) 치주염은 진짜 다양성-감소형 dysbiosis가 아니라 다양한 공생균의 총생물량 증가("personalized pathology")로 더 잘 설명된다** — keystone pathogen 저존재비 개념(명제 5)과 상호보완적이되, 이를 모든 치주염에 일반화하는 것에는 제동을 건다. 진짜 다양성-감소형 dysbiosis는 백혈구부착결핍증 등 유전적 감수성 숙주에 국한. 같은 맥락에서 P. gingivalis도 균주 특이적이다 — 18개 균주 중 W83/W50만 중등도/중증 치주염에 유의 농축되고 무독성 ATCC33277/381이 질환단계 무관 최우세 균주였다(존재비만으로는 예측력 부족). [비판적 재평가/확인] (Scannapieco 2021 → Murugaiyan 2024)
+9. **구강 미생물총 다양성·biogeography·전신질환 연관의 최신 종합** — CLASI-FISH 기반 종수준 공간구조(부위특이적 정착, S. mutans "rotund" 구조의 국소 탈회)가 caries·치주질환·구강암과 직결되며(Baker 2024, Nat Rev Microbiol), 구강-전신 연관 목록이 COPD·COVID-19·알츠하이머·당뇨·췌장/대장암까지 네트워크 수준으로 확장됨(Kozak 2023) — 단, 대부분 동물모델/서술적 리뷰 수준 근거로 인과 단정 금물(명제 4와 동일 원칙). [확인] (Baker 2024, Kozak 2023)
 
 ## Evidence Map
 
@@ -117,7 +117,7 @@ Together these two define the page's intellectual coordinate system: Socransky s
 1. **우식 위험 환자 — 식이당(sucrose) 차단이 1순위.** 매트릭스(glucan)의 기질이 sucrose이므로, 항균제보다 sucrose 노출 빈도 감소가 생태학적으로 합리적. EPS 매트릭스가 형성되면 불소·중화제의 확산이 제한된다(국소 산성 보존). → caries overview 및 [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]]와 연결.
 2. **기계적 plaque 제거의 근거.** 매트릭스는 확산장벽이라 항생제 단독으로 성숙 바이오필름을 무력화하기 어렵다 — 물리적 disruption(brushing·SRP·관개 활성화)이 핵심. 항생제는 보조. 이 원칙의 1차 근거가 [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]]: biofilm의 항생제 recalcitrance는 inherent phenotypic tolerance여서, 항생제는 shed planktonic cell만 죽이고 군집은 살아남아 재발 cycle을 만든다.
 3. **치주염은 '특정 세균 박멸'이 아니라 'dysbiosis 역전'.** keystone/accessory/pathobiont 구도상 단일 종 표적의 한계 — 숙주 염증 조절(host modulation)·생태 회복이 표적. SRP가 여전히 1차. **단, "dysbiosis"라는 단어를 문자 그대로 '다양성 감소'로 오해하지 말 것** — Scannapieco 2021에 따르면 흔한 치주염은 오히려 다양성이 늘어난 상태이며, 표적은 특정 종의 박멸이 아니라 과증식한 군집 전체의 생물량/염증 반응 조절이다.
-4. **구강-전신 연관은 인과 단정 금물.** Fn–OSCC, P. gingivalis–RA/CAD 연관은 기전적으로 그럴듯하나 대부분 연관·전임상 수준 [claude해석]. 환자 상담 시 '연관성 있음', '인과 확정 아님'으로 구분. Kozak 2023이 정리한 COPD·COVID-19·알츠하이머·당뇨·췌장/대장암 연관도 같은 원칙 적용 — 서술적 리뷰 수준 근거이지 확정된 인과관계가 아니다.
+4. **구강-전신 연관은 인과 단정 금물.** Fn–OSCC, P. gingivalis–RA/CAD 연관은 기전적으로 그럴듯하나 대부분 연관·전임상 수준 [미검증]. 환자 상담 시 '연관성 있음', '인과 확정 아님'으로 구분. Kozak 2023이 정리한 COPD·COVID-19·알츠하이머·당뇨·췌장/대장암 연관도 같은 원칙 적용 — 서술적 리뷰 수준 근거이지 확정된 인과관계가 아니다.
 7. **P. gingivalis 관련 상담·연구 설계 시 균주 수준을 고려하라.** "P. gingivalis 양성/음성"이라는 이분법은 부정확할 수 있다 — Murugaiyan 2024는 18개 균주 중 W83/W50만 중등도/중증 치주염과 유의 연관되고, 무독성 ATCC33277/381이 질환단계와 무관하게 가장 흔함을 보였다. 향후 진단·연구는 존재비보다 균주 식별(ISR 시퀀싱 등)을 고려할 가치가 있다.
 5. **NSPT의 미생물학적 효과는 정량적으로 확립되어 있다 — SRP가 dysbiosis를 실제로 되돌린다는 근거.** Krajewski 2025 SR+MA(115편)는 임상결정점 3의 "dysbiosis 역전" 원칙을 수치로 뒷받침: Pg·Td·Tf·Aa 등이 NSPT 후 3–6개월에 유의 감소하고, SPC(지지치료)를 병행하면 Pg·Td가 추가 감소한다. 다만 16S rRNA 다양성(alpha/beta) 회복은 연구 간 이질적이라 "완전한 생태계 정상화"까지 단정할 근거는 아니다.
 6. **미생물총 기반 치료(probiotics 등)는 항생제의 보조/대체 옵션으로 부상하나 표준 진료 편입은 아직 이르다.** S. salivarius K12/M18은 chlorhexidine과 유사한 치은염 개선 효과를 보였고(probiotic mouthwash), postbiotics(사균체)는 생균 대비 안전성·안정성 이점이 있다. 그러나 Bdellovibrio(포식세균)·박테리오파지·OMT(구강 미생물 이식)는 in-vitro/동물 단계가 대부분이며 인체 치주 RCT 부재 — 환자에게 권고하기보다 "연구 중인 대안"으로 소개.

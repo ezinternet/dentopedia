@@ -50,7 +50,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 
 ## Summary
 
-이 overview는 `wiki/suture-wound-closure/`의 15편을 횡단 합성한다. 근거 등급은 **RCT 7편**(aghdashi 2020, kumar 2022, pachipulusu 2018, sen 2024, takadoum 2022, attia 2023, shakiliyeva 2025) · **SR 1편**(plonka 2017) · **prospective 2편**(moslemi 2016, shakibaie 2023) · **case-series 1편**(wang 2024) · **in-vitro 4편**(knoell 2011, look 2022, marsidi 2020, pabst 2024)으로 구성된다. 이 카테고리에는 SR+MA가 아직 없다 — 따라서 최강 결론도 "일관된 다수 RCT" 수준에 머문다. [근거강함 — 등급 분포는 리포지토리 계측]
+이 overview는 `wiki/suture-wound-closure/`의 15편을 횡단 합성한다. 근거 등급은 **RCT 7편**(aghdashi 2020, kumar 2022, pachipulusu 2018, sen 2024, takadoum 2022, attia 2023, shakiliyeva 2025) · **SR 1편**(plonka 2017) · **prospective 2편**(moslemi 2016, shakibaie 2023) · **case-series 1편**(wang 2024) · **in-vitro 4편**(knoell 2011, look 2022, marsidi 2020, pabst 2024)으로 구성된다. 이 카테고리에는 SR+MA가 아직 없다 — 따라서 최강 결론도 "일관된 다수 RCT" 수준에 머문다. [확인 — 등급 분포는 리포지토리 계측]
 
 핵심 thesis: **봉합 술식 선택은 단일 스펙트럼이 아니라, 정반대 최적화 목표를 가진 두 임상 맥락으로 분기한다.**
 
@@ -73,7 +73,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | **rct** | [[suture-wound-closure/kumar-2022-suture-versus-sutureless-third-molar-impactions]] | 50 | Sutureless(소형 Szmyd flap)가 24h·48h·5일 통증·부종·trismus 유의 감소; 치주·건성치조와 차이 없음 | p<0.001 |
 | **rct** | [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]] | 101 | 통증·부종·설신경 동등; sutureless가 trismus·지연치유 유의 적음 | — |
 
-**합성 결론** [근거강함]: 단순 발치와에서 **sutureless는 안전하며 초기 morbidity에서 동등 이상**이다. 단, 효과크기는 작고 multicentric RCT(takadoum)는 완전 동등을 보고하므로, "sutureless가 우월"이 아니라 "**봉합 생략이 손해를 끼치지 않는다**"가 정확한 해석이다. [claude해석 — 2 RCT 우월 vs 1 multicentric 동등의 절충]. 흡연자에서는 폐쇄 방식과 무관하게 합병증 risk가 본질적으로 높다(takadoum 3.65×).
+**합성 결론** [확인]: 단순 발치와에서 **sutureless는 안전하며 초기 morbidity에서 동등 이상**이다. 단, 효과크기는 작고 multicentric RCT(takadoum)는 완전 동등을 보고하므로, "sutureless가 우월"이 아니라 "**봉합 생략이 손해를 끼치지 않는다**"가 정확한 해석이다. [미검증 — 2 RCT 우월 vs 1 multicentric 동등의 절충]. 흡연자에서는 폐쇄 방식과 무관하게 합병증 risk가 본질적으로 높다(takadoum 3.65×).
 
 ### 1.2 Primary vs Secondary Closure & Suture Geometry
 
@@ -82,7 +82,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | **rct** | [[suture-wound-closure/pachipulusu-2018-primary-secondary-closure-third-molar]] | 60 | **이차폐쇄(배농창 개방)가 통증·부종 적고 개구량 우수**; 6개월 치주치유 차이 없음 | p<0.05 |
 | **rct** | [[suture-wound-closure/aghdashi-2020-sling-single-interrupted-sutures-third-molar]] | 25 | 봉합하더라도 **sling이 single interrupted보다 인접 제2대구치 치주(PPD·CAL) 우수** | PPD p=0.041, CAL p=0.016; dehiscence 차이 없음(p=0.852) |
 
-**합성 결론** [합의수준]: 부종·통증 최소화가 목표면 이차폐쇄(배농 여지) 고려. **봉합을 한다면 패턴 선택(sling 등)이 봉합 유무보다 인접치 치주 결과에 더 영향**을 준다(aghdashi). 즉 이 맥락의 의사결정 무게는 "봉합 vs 비봉합"이 아니라 "어떤 기하학으로 봉합하는가"로 이동한다.
+**합성 결론** [확인]: 부종·통증 최소화가 목표면 이차폐쇄(배농 여지) 고려. **봉합을 한다면 패턴 선택(sling 등)이 봉합 유무보다 인접치 치주 결과에 더 영향**을 준다(aghdashi). 즉 이 맥락의 의사결정 무게는 "봉합 vs 비봉합"이 아니라 "어떤 기하학으로 봉합하는가"로 이동한다.
 
 ---
 
@@ -96,7 +96,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 |---|---|---|---|---|
 | **sr** | [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] | — (SR) | 막 노출률 6.95–13.1%; **비노출 부위가 노출 부위보다 골증대 약 6배** | 노출 시 bone gain ↓~6× |
 
-전진량 정량 분해(plonka SR) [합의수준]: 1차 수직절개 +1.1 mm, 2차 +1.9 mm, **골막이완절개(periosteal releasing incision) +5.5 mm** — 즉 대량 전진의 지배 인자는 골막이완절개. 전진 strata: <3 mm(minor) · 3–6 mm(moderate) · ≥7 mm(major).
+전진량 정량 분해(plonka SR) [확인]: 1차 수직절개 +1.1 mm, 2차 +1.9 mm, **골막이완절개(periosteal releasing incision) +5.5 mm** — 즉 대량 전진의 지배 인자는 골막이완절개. 전진 strata: <3 mm(minor) · 3–6 mm(moderate) · ≥7 mm(major).
 
 ### 2.2 무장력 폐쇄 달성 술식 비교
 
@@ -107,13 +107,13 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | **case-report** | [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] | 23 sites/5명 | 변형 Poncho(다층 이중봉합) | 무사치유 95.7%(1/23 부분열개); Landry 치유지수 3→4.69 | 30일 추적 |
 | **prospective** | [[suture-wound-closure/shakibaie-2023-roll-in-envelope-flap-holding-suture]] | 10 | Roll-in envelope vs holding suture | RIE가 임플란트 주위 점막 두께 약 3배 | — |
 
-**합성 결론** [합의수준 — RCT 1편 + 보조 case series]: 고장력 부위에서 **무장력 폐쇄 ≠ 옵션, 곧 재생 성패**. 설측은 CALF(attia, 유일 RCT, n작음), 협측·일반 GBR은 골막이완절개(plonka 정량·moslemi 술식)가 1차 전진 수단. mesh 위 안정성은 다층봉합(wang Poncho)으로 보강. 단 attia n=14, wang은 case-series이므로 효과크기는 강하나 근거 등급은 중간.
+**합성 결론** [확인 — RCT 1편 + 보조 case series]: 고장력 부위에서 **무장력 폐쇄 ≠ 옵션, 곧 재생 성패**. 설측은 CALF(attia, 유일 RCT, n작음), 협측·일반 GBR은 골막이완절개(plonka 정량·moslemi 술식)가 1차 전진 수단. mesh 위 안정성은 다층봉합(wang Poncho)으로 보강. 단 attia n=14, wang은 case-series이므로 효과크기는 강하나 근거 등급은 중간.
 
 ---
 
 ## 3. Bridge — Suture-Pattern Biomechanics (in-vitro)
 
-봉합패턴이 장력을 *어떻게* 다루는가를 정량화한 4편. 임상 등급은 in-vitro라 약하나, "어떤 패턴을 고장력에 쓸까"의 기전 근거를 제공한다. [근거강함 — bench 수치 자체는 정밀 / claude해석 — 임상 외삽은 약함]
+봉합패턴이 장력을 *어떻게* 다루는가를 정량화한 4편. 임상 등급은 in-vitro라 약하나, "어떤 패턴을 고장력에 쓸까"의 기전 근거를 제공한다. [확인 — bench 수치 자체는 정밀, 임상 외삽은 미검증]
 
 | 지표 | 출처 | 최우수 패턴 | 핵심 수치 |
 |---|---|---|---|
@@ -122,7 +122,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | 파단하중 | [[suture-wound-closure/look-2022-novel-superficial-suture-pattern-tensile-strength]] | Lindeque locking | 열개력 **198.60 N**, 파단 211.13 N (vs horizontal mattress 104.81/120.79 N, p<0.001); 단 simple stitch 대비 우월성 없음 |
 | 면접착(봉합 대체/보조) | [[suture-wound-closure/pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap]] | Cyanoacrylate + 봉합 | 접착제 단독 5.20 N vs 봉합 단독 0.88 N; **병용 8.50 N**(최고, p<0.001) |
 
-해석: 고장력 폐쇄에서 **pulley(견인 효율) → lattice(장력 분산) → 필요 시 cyanoacrylate 면접착 보조**가 기전적으로 합리적. horizontal mattress는 견인력·파단 모두 열위라 고장력 1차 선택으로 부적합. [claude해석]
+해석: 고장력 폐쇄에서 **pulley(견인 효율) → lattice(장력 분산) → 필요 시 cyanoacrylate 면접착 보조**가 기전적으로 합리적. horizontal mattress는 견인력·파단 모두 열위라 고장력 1차 선택으로 부적합. [미검증]
 
 ---
 
@@ -132,7 +132,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 |---|---|---|---|
 | **rct** | [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]] | 52 | **변형 sling 봉합은 이식편 수축 이득 없음**; gingival unit transfer(GUT)가 봉합법과 무관하게 수축 적음(p<0.05); GUT+일반봉합이 각화조직폭 증가 최대 |
 
-**합성 결론** [합의수준]: 유리치은이식에서 결과를 가르는 건 봉합 기교가 아니라 **이식편 채취·디자인(GUT)**. 1.2의 aghdashi(sling 우월)와 묶으면 일관된 메타-교훈이 도출된다 — **봉합 패턴은 "안정화 도구"일 뿐, 결과의 1차 결정자는 그 위/아래의 조직·창상 조건**이다.
+**합성 결론** [확인]: 유리치은이식에서 결과를 가르는 건 봉합 기교가 아니라 **이식편 채취·디자인(GUT)**. 1.2의 aghdashi(sling 우월)와 묶으면 일관된 메타-교훈이 도출된다 — **봉합 패턴은 "안정화 도구"일 뿐, 결과의 1차 결정자는 그 위/아래의 조직·창상 조건**이다.
 
 ---
 
@@ -155,7 +155,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
     └─ 목표: exposure 0 — 노출 1건이 골증대량 ~6배 손실 (plonka)
 ```
 
-한국 임상 메모: ① 단순 발치 봉합 강박을 줄여도 근거상 안전하나, 환자 안심·출혈 관리 목적의 봉합은 별개 판단. ② GBR에서 "막 위 봉합을 촘촘히"보다 **골막이완절개로 장력 자체를 0으로 만드는 것**이 우선순위. ③ cyanoacrylate(예: 구강용 Histoacryl 계열)는 국내 적응증·허가범위 확인 후 보조 사용 — 1차 폐쇄 대체가 아님. [claude해석]
+한국 임상 메모: ① 단순 발치 봉합 강박을 줄여도 근거상 안전하나, 환자 안심·출혈 관리 목적의 봉합은 별개 판단. ② GBR에서 "막 위 봉합을 촘촘히"보다 **골막이완절개로 장력 자체를 0으로 만드는 것**이 우선순위. ③ cyanoacrylate(예: 구강용 Histoacryl 계열)는 국내 적응증·허가범위 확인 후 보조 사용 — 1차 폐쇄 대체가 아님. [미검증]
 
 ---
 
