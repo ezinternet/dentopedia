@@ -333,7 +333,7 @@ A registered RCT in this space — Zhang et al. 2022, a protocol for ARP at seve
 
 ---
 
-## Clinical Decision Threads [Claude interpretation]
+## Clinical Decision Threads [미검증 — Claude 해석]
 
 **Thread 1 — Single-rooted tooth in esthetic zone, thin buccal plate (ST1B)**
 
