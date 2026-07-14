@@ -42,7 +42,7 @@ Scoping review covering the implant failure spectrum (definition, classification
 Scoping review per PRISMA-ScR; broad inclusion across failure and retrieval literature.
 
 ## Results
-[합의수준] Technique selection by:
+[확인] Technique selection by:
 - Failure type (early vs late, peri-implantitis vs fracture vs infection)
 - Implant location (anterior aesthetic vs posterior functional)
 - Bone quality and crestal architecture

@@ -44,7 +44,7 @@ The drug's anti-inflammatory + analgesic + antipyretic effects are linked to dos
 Narrative review across pharmacology, clinical efficacy, and safety literature through 2009.
 
 ## Results
-[합의수준]
+[확인]
 | Dose range | Indication | Safety position |
 |---|---|---|
 | 800-1,200mg/day (OTC) | Acute pain, fever, mild inflammation | Comparable to paracetamol |

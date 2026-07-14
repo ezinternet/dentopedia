@@ -66,7 +66,7 @@ Goodacre, Campagni, and Aquilino review ~250 years of complete-coverage tooth pr
 | Finish line location | Supragingival more acceptable |
 | Surface | Reasonable smoothness |
 
-## Clinical Implications [근거강함]
+## Clinical Implications [확인]
 
 - The "6° taper" remains a teaching ideal; **10-20° TOC** is the achievable, defensible clinical band — consistent with Tiu 2015's documented historic drift.
 - When a molar is short (<4 mm axial) or the O-C:F-L ratio falls below 0.4, do not rely on reducing taper (impractical intraorally); instead add **proximal grooves/boxes** to restore resistance.

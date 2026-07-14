@@ -47,8 +47,8 @@ Implant alone이나 bone substitute + immediate implant가 완전한 미용 결�
 
 ## Strengths and Caveats
 [narrative-review] Single-institution
-[합의수준] SST critical evaluation 분야 cluster의 한 축
-[claude해석] "An esthetic success?" 의문 형식은 review의 비판적 tone 강조
+[미검증] SST critical evaluation 분야 cluster의 한 축
+[미검증] "An esthetic success?" 의문 형식은 review의 비판적 tone 강조
 
 ## Related Papers
 - [[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]] — 같은 cautious cluster

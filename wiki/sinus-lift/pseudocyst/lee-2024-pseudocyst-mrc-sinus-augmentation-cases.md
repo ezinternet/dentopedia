@@ -53,8 +53,8 @@ This framework offers a practical classification algorithm for pre-augmentation 
 
 ## Strengths and Caveats
 [case-report] n=3 — 통계 결론 불가
-[합의수준] Subtype별 차등 처치는 임상 직관에 부합
-[claude해석] 20mm cut-off는 본 case 이후 cohort/RCT로 validate 필요
+[미검증] Subtype별 차등 처치가 임상 직관에 부합한다는 평가는 본 3-case 시리즈만으로는 일반화된 근거가 아님
+[미검증] 20mm cut-off는 본 case 이후 cohort/RCT로 validate 필요
 [미검증] Type 1에 spontaneous drainage 적용 가능성 — case 의존적, 어떤 PsC가 자연 배출되는지 예측 어려움
 
 ## Related Papers

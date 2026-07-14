@@ -60,9 +60,9 @@ HKU 그룹의 narrative review. CBCT가 sinus pathology 진단의 1차 도구로
 
 ## Strengths and Caveats
 [narrative-review] Primary data 부재
-[합의수준] CBCT-based sinus 평가는 분야 표준
-[근거강함] HKU 그룹의 종합·교육적 review
-[claude해석] CBCT가 모든 진단 대체 못함 — soft tissue·neoplasm은 MRI·조직검사 필요
+[확인] CBCT-based sinus 평가는 분야 표준
+[미검증] HKU 그룹의 종합·교육적 review — review 성격에 대한 서술적 평가, 정량적 근거 강도 주장 아님
+[미검증] CBCT가 모든 진단 대체 못함 — soft tissue·neoplasm은 MRI·조직검사 필요
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/nosaka-2024-sinus-elevation-radiopaque-lesions-review]] — radiopaque lesion 결정 framework

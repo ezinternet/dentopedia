@@ -50,7 +50,7 @@ The reference clinical narrative for piezo in implant dentistry. Its claims of "
 
 ## Clinical Implications
 - piezo는 delicate anatomical structure(IAN, schneiderian membrane, BAB) 보존이 critical한 indication에서 가장 가치 — implant osteotomy 자체의 발열·시간 페널티는 별개.
-- "thermal damage 회피" 주장은 [근거강함] aquilanti 2023, jain 2024 SR 결과로 부분적으로 반박됨 — 정확한 piezo protocol(권장 load, quarter-turn 회전, 차가운 saline) 준수가 전제.
+- "thermal damage 회피" 주장은 [미검증] aquilanti 2023, jain 2024 SR 결과로 부분적으로 반박됨 — 정확한 piezo protocol(권장 load, quarter-turn 회전, 차가운 saline) 준수가 전제.
 - 학습곡선·시술시간·비용 trade-off는 indication별로 평가.
 
 ## Related Papers

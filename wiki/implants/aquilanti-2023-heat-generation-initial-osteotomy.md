@@ -57,7 +57,7 @@ Direct quantification of the thermal penalty of piezo-surgical initial osteotomy
 - 회전 drill은 35회까지 wear 신호 미미 — Bernabeu-Mira·Sorgato와 다른 결과(다른 drill·조건); 일반화 주의.
 - Irrigation은 **부피보다 온도**가 효과 — 약 10°C saline 권장.
 - 초기 osteotomy(pilot drill)이 가장 발열 큰 단계 — Bernabeu-Mira와 일치.
-- [근거강함] piezo가 부적절한 protocol에선 열손상 위험 / [claude해석] manufacturer 권장 protocol 적용 시 차이 축소될 가능성.
+- [확인] piezo가 부적절한 protocol에선 열손상 위험 / [미검증] manufacturer 권장 protocol 적용 시 차이 축소될 가능성.
 
 ## Related Papers
 - [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — initial/pilot drill heat > progressive/final, design-effect

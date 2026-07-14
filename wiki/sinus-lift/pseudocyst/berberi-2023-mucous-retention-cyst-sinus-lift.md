@@ -49,8 +49,8 @@ Lebanese University 그룹의 단일 case로, MRC 처치와 측방창 거상술�
 
 ## Strengths and Caveats
 [case-report] 일반화 불가, n=1
-[claude해석] 1년은 implant 초기 안정성만 평가 — 장기 outcome 미평가
-[합의수준] 술식 순서 자체는 표준에 부합
+[미검증] 1년은 implant 초기 안정성만 평가 — 장기 outcome 미평가
+[미검증] 술식 순서 자체는 표준에 부합하는 것으로 보임 (단일 case 기반 판단, 일반화 불가)
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — overall risk SR

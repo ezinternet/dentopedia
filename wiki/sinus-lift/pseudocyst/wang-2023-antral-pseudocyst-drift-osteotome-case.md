@@ -50,8 +50,8 @@ Lateral 접근 중심의 sinus pseudocyst literature에서 드문 transcrestal (
 
 ## Strengths and Caveats
 [case-report] n=1
-[claude해석] Drift 메커니즘은 추정 — sinus 내 정압 변화·점막 신전
-[근거강함] 문헌 검토로 transcrestal-AP 문헌 부족 자체를 입증
+[미검증] Drift 메커니즘은 추정 — sinus 내 정압 변화·점막 신전
+[확인] 문헌 검토로 transcrestal-AP 문헌 부족 자체를 입증
 
 ## Related Papers
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — lateral 중심 SR

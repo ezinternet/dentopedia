@@ -69,8 +69,8 @@ OptiBond FL (3-step E&R, Kerr). µTBS: 11 beams (0.9×0.9×11 mm) per tooth, 24h
 - [[resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure]] — universal adhesive replication.
 - [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — SR+MA pooling.
 
-## 임상 적용 [claude해석]
+## 임상 적용 [미검증]
 
-- [근거강함, in-vitro 한정] IDS는 indirect restoration의 dentin substrate를 direct bonding 수준으로 보존.
-- [합의수준] OptiBond FL (3-step E&R filled adhesive)이 IDS의 reference adhesive — universal adhesive 일반화는 [[resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure]] 등으로 보강 필요.
-- [claude해석] 5x bond strength 차이는 dramatic이나 clinical retention 차이로 직결되지는 않을 수 있음 — 11.58 MPa도 보철 retention threshold 이상.
+- [확인, in-vitro 한정] IDS는 indirect restoration의 dentin substrate를 direct bonding 수준으로 보존.
+- [미검증] OptiBond FL (3-step E&R filled adhesive)이 이 연구의 reference adhesive로 쓰였을 뿐, IDS 전체 문헌의 표준으로 일반화하기는 이름 — universal adhesive 일반화는 [[resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure]] 등으로 보강 필요.
+- [미검증] 5x bond strength 차이는 dramatic이나 clinical retention 차이로 직결되지는 않을 수 있음 — 11.58 MPa도 보철 retention threshold 이상.

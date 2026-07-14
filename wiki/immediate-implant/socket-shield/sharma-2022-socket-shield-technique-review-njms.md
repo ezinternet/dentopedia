@@ -46,8 +46,8 @@ SST 분야 narrative review. SR+MA보다는 lower evidence level이지만 SST vs
 
 ## Strengths and Caveats
 [narrative-review] Lower evidence level than SR+MA
-[합의수준] SR cluster와 일관된 신호 (미용·골보존 SST 우월)
-[claude해석] 단일 review로 의사결정 어렵 — SR (Lin 2022·Ogawa 2022·Velasco 2021)과 종합 필요
+[미검증] SR cluster와 일관된 신호로 보임 (미용·골보존 SST 우월) — 본 review 자체가 아닌 타 SR과의 교차비교이므로 Claude 종합
+[미검증] 단일 review로 의사결정 어렵 — SR (Lin 2022·Ogawa 2022·Velasco 2021)과 종합 필요
 
 ## Related Papers
 - [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — SR+MA SST vs conventional

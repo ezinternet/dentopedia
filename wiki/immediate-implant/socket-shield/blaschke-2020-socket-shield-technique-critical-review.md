@@ -56,8 +56,8 @@ SST 분야의 비판적 review. Hürzeler 2010 proof-of-concept 이후 다수 ca
 
 ## Strengths and Caveats
 [narrative-review] Primary data 없음, reviewer 주관 의존
-[합의수준] "Long-term data 부족"은 분야 합의
-[claude해석] 2020 시점 — 이후 추가 SR/RCT가 일부 보강했지만 critical concerns는 여전 유효
+[확인] "Long-term data 부족"은 분야 합의
+[미검증] 2020 시점 — 이후 추가 SR/RCT가 일부 보강했지만 critical concerns는 여전 유효
 
 ## Related Papers
 - [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] — SR 90.5% 생존

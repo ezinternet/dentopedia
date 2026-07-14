@@ -42,7 +42,7 @@ International Delphi consensus developing a core outcome set (COS) for dental an
 Delphi consensus; outcomes sourced via literature review; ≥30 international participants; ≥70% "critical for inclusion" threshold for COS inclusion.
 
 ## Results
-[합의수준] Core outcome set defined; specific items in paper.
+[확인] Core outcome set defined; specific items in paper.
 
 ## Limitations
 - Process-focused, not direct prescribing data

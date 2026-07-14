@@ -52,8 +52,8 @@ SST 문헌은 대부분 anterior maxilla (esthetic zone) 중심. 본 case는 후
 
 ## Strengths and Caveats
 [case-report] n=1, 일반화 불가
-[합의수준] SST 가능성 자체는 다수 SR 입증, 후방 적용은 본 case 외 datapoint 부족
-[claude해석] 후방 대구치에서 SST 비용-이익 trade-off — 미용 이득 적으면서 술식 복잡도·합병증 risk는 동일
+[미검증] SST 가능성 자체는 다수 SR에서 시사된 바 있으나(본 case 자체가 입증한 것은 아님), 후방 적용은 본 case 외 datapoint 부족
+[미검증] 후방 대구치에서 SST 비용-이익 trade-off — 미용 이득 적으면서 술식 복잡도·합병증 risk는 동일
 
 ## Related Papers
 - [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] — esthetic zone NMA (대조)

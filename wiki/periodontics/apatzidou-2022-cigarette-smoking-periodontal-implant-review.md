@@ -42,7 +42,7 @@ Periodontology 2000 narrative review providing the mechanism-focused complement 
 Narrative review structured around mechanisms; supplementary epidemiologic context.
 
 ## Results
-[합의수준] Mechanism summary:
+[확인] Mechanism summary:
 - Neutrophil function impaired
 - MMPs (especially MMP-8) elevated
 - Subgingival microbial community shifts

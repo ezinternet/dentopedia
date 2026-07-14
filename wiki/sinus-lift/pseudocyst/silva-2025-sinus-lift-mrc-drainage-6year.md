@@ -54,8 +54,8 @@ USP Ribeirão Preto + ARDEC 협력 case. Single case지만 6년 longitudinal·hi
 
 ## Strengths and Caveats
 [case-report] n=1 — 일반화 한계
-[근거강함] 6년 추적 + 조직학 — 매우 드문 datapoint
-[claude해석] Cureus는 lower-tier journal이지만 case report로서 longitudinal data 가치
+[미검증] 6년 추적 + 조직학 — 드문 datapoint이지만 n=1 case report라 근거 강도로 볼 수 없음
+[미검증] Cureus는 lower-tier journal이지만 case report로서 longitudinal data 가치
 [미검증] 다수 case에서 같은 결과 재현 여부
 
 ## Related Papers

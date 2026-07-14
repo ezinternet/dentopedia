@@ -42,7 +42,7 @@ Multidisciplinary narrative review (infectious disease + dentistry + microbiolog
 Narrative review combining ID and dental stewardship literature with implementation science.
 
 ## Results
-[합의수준] Implementation best practices: indication required; default to narrow spectrum; minimum effective duration; integration with electronic prescribing; audit + feedback cycles.
+[확인] Implementation best practices: indication required; default to narrow spectrum; minimum effective duration; integration with electronic prescribing; audit + feedback cycles.
 
 ## Limitations
 - Narrative not systematic

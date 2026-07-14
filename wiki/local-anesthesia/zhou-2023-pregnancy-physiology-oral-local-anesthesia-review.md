@@ -37,9 +37,9 @@ Elective dental care is best timed at weeks 14–20 with semi-supine/left-tilt p
 
 ## Summary
 
-[합의수준] A physiology-grounded narrative review explaining *why* pregnancy alters local-anesthesia practice and *which* agent/technique choices follow. Pregnancy reshapes every relevant system: cardiac output rises ~50%, heart rate ~20–30%; hypotension and supine hypotension syndrome (~10%) threaten uteroplacental perfusion; hyperventilation and a ~20% drop in residual lung volume raise hypoxemia risk; hepatic albumin/AAG fall (raising the free, placenta-crossing drug fraction); renal GFR rises (speeding lidocaine clearance); gestational diabetes (~45%) and hypoglycemic syncope complicate epinephrine use; and nerve fibers become more sensitive (faster block onset, but heightened pain/anxiety).
+[확인] A physiology-grounded narrative review explaining *why* pregnancy alters local-anesthesia practice and *which* agent/technique choices follow. Pregnancy reshapes every relevant system: cardiac output rises ~50%, heart rate ~20–30%; hypotension and supine hypotension syndrome (~10%) threaten uteroplacental perfusion; hyperventilation and a ~20% drop in residual lung volume raise hypoxemia risk; hepatic albumin/AAG fall (raising the free, placenta-crossing drug fraction); renal GFR rises (speeding lidocaine clearance); gestational diabetes (~45%) and hypoglycemic syncope complicate epinephrine use; and nerve fibers become more sensitive (faster block onset, but heightened pain/anxiety).
 
-[합의수준] **Bottom line: 2% lidocaine with 1:200,000 epinephrine is the recommended agent** — it best balances maternal/fetal safety with efficacy. Lidocaine and prilocaine are the only FDA category-B (safe) dental LAs; lidocaine is preferred over prilocaine because prilocaine's 4% concentration delivers more drug per injection. Articaine, mepivacaine, bupivacaine, benzocaine are category C (use with caution). Elective dental care is best scheduled at weeks 14–20, but urgent infection/pain must be treated at any trimester. [claude해석] The FDA letter-category framework cited here was officially retired in 2015 (Pregnancy and Lactation Labeling Rule), so treat A–X categories as heuristic rather than current regulatory labeling — the underlying clinical recommendation (lidocaine + low-dose epinephrine, lowest effective dose) remains sound.
+[확인] **Bottom line: 2% lidocaine with 1:200,000 epinephrine is the recommended agent** — it best balances maternal/fetal safety with efficacy. Lidocaine and prilocaine are the only FDA category-B (safe) dental LAs; lidocaine is preferred over prilocaine because prilocaine's 4% concentration delivers more drug per injection. Articaine, mepivacaine, bupivacaine, benzocaine are category C (use with caution). Elective dental care is best scheduled at weeks 14–20, but urgent infection/pain must be treated at any trimester. [미검증] The FDA letter-category framework cited here was officially retired in 2015 (Pregnancy and Lactation Labeling Rule), so treat A–X categories as heuristic rather than current regulatory labeling — the underlying clinical recommendation (lidocaine + low-dose epinephrine, lowest effective dose) remains sound.
 
 ## Key Contributions
 
@@ -56,7 +56,7 @@ Elective dental care is best timed at weeks 14–20 with semi-supine/left-tilt p
 
 ## Results
 
-[합의수준] FDA pregnancy categories for dental local anesthetics:
+[확인] FDA pregnancy categories for dental local anesthetics:
 
 | Agent | FDA category | Use in pregnancy |
 |---|---|---|
@@ -68,9 +68,9 @@ Elective dental care is best timed at weeks 14–20 with semi-supine/left-tilt p
 | Benzocaine | C | Caution |
 | Epinephrine | C | Use only if benefit > risk; 1:200,000 favored |
 
-[합의수준] Max doses: lidocaine plain ≤4.5 mg/kg (300 mg); lidocaine+epi ≤7 mg/kg (500 mg); epinephrine ≤0.2 mg healthy / ≤0.04 mg cardiac. Optimal elective timing weeks 14–20. Semi-supine/left-tilt positioning + BP monitoring for high-risk mothers.
+[확인] Max doses: lidocaine plain ≤4.5 mg/kg (300 mg); lidocaine+epi ≤7 mg/kg (500 mg); epinephrine ≤0.2 mg healthy / ≤0.04 mg cardiac. Optimal elective timing weeks 14–20. Semi-supine/left-tilt positioning + BP monitoring for high-risk mothers.
 
-[claude해석] Clonidine is floated as an epinephrine alternative (improves IANB success in irreversible pulpitis, lower CV risk) but the evidence is limited and off-label — not a routine recommendation. Sodium-bicarbonate buffering and warming reduce injection sting via pH/pKa effects on the nonionized base fraction, but trial results are mixed and bicarbonate is not FDA-approved as an alkalizer.
+[미검증] Clonidine is floated as an epinephrine alternative (improves IANB success in irreversible pulpitis, lower CV risk) but the evidence is limited and off-label — not a routine recommendation. Sodium-bicarbonate buffering and warming reduce injection sting via pH/pKa effects on the nonionized base fraction, but trial results are mixed and bicarbonate is not FDA-approved as an alkalizer.
 
 ## Related Papers
 

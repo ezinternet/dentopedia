@@ -43,7 +43,7 @@ Testori 그룹의 full-arch 임플란트 보철 교합·생역학 위험 narrati
 Narrative review (위험요인 기술·권고).
 
 ## Results
-캔틸레버 길이·교합양식·부기능·재료가 생역학 위험 좌우; 위험 저감 설계 권고 [합의수준]. 정량 통합 아님.
+캔틸레버 길이·교합양식·부기능·재료가 생역학 위험 좌우; 위험 저감 설계 권고 [확인]. 정량 통합 아님.
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 과부하 축

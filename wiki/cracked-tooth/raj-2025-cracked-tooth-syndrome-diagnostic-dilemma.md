@@ -50,8 +50,8 @@ CTS 진단 어려움 mini review. Longitudinal fracture 5 type 분류 context �
 
 ## Strengths and Caveats
 [narrative-review] Mini review — depth 제한
-[합의수준] Longitudinal fracture 5-type classification은 분야 표준
-[claude해석] CTS와 split tooth의 경계는 임상에서 시간 경과로 결정 — early intervention 강조
+[미검증] Longitudinal fracture 5-type classification은 여러 문헌에서 통용되는 분류로 보이나, 본 mini review 단독으로 "분야 표준"임을 확정하기는 어려움
+[미검증] CTS와 split tooth의 경계는 임상에서 시간 경과로 결정 — early intervention 강조
 
 ## Related Papers
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — 치료 umbrella

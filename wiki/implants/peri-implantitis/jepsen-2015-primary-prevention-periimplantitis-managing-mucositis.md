@@ -44,7 +44,7 @@ The central clinical message is that managing peri-implant mucositis constitutes
 4개 SR 기반 그룹 합의(역학·위험·환자/전문가 관리). consensus report.
 
 ## Results
-점막염 유병률 43%(CI 32-54), 주위염 22%(CI 14-30) [근거강함]. 정기 지지치주치료 결여가 점막염→주위염 진행 위험 [합의수준]. BoP 핵심 진단지표.
+점막염 유병률 43%(CI 32-54), 주위염 22%(CI 14-30) [확인]. 정기 지지치주치료 결여가 점막염→주위염 진행 위험 [확인]. BoP 핵심 진단지표.
 
 ## Related Papers
 - [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 질환 정의·분류
