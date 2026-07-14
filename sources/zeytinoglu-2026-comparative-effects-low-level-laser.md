@@ -17,13 +17,21 @@ text_filename: zeytinoglu-2026-comparative-effects-low-level-laser.txt
 
 Aβ(A-beta)·Aδ(A-delta)·C 섬유와 하치조신경(Inferior Alveolar Nerve, IAN) 관련 논문 요청에 따라 PubMed에서 탐색. 본 논문은 IAN/설신경(Lingual Nerve, LN) 손상 후 전기생리학적 평가(피부 무반응기, Cutaneous Silent Period, CSP)에서 통증성 자극이 Aδ·C 섬유를, 무통성 자극이 Aβ 섬유를 각각 활성화한다는 섬유 유형별 자극 프로토콜을 명시적으로 채택·보고한 임상연구로, 기존 [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] (스테로이드 증례)와 [[overviews/trigeminal-injury-neuropathic-pain-cascade-overview]] (말초-중추 캐스케이드 종합)에 신경손상 후 비침습적 치료(LLLT/TENS) 옵션과 섬유 특이적 전기생리 평가라는 새 축을 추가한다.
 
-## One-line Summary
+## Three-line Summary
 
-Exploratory non-randomized clinical study (n=27; 18 IAN, 9 lingual nerve injuries after mandibular third molar surgery) comparing low-level laser therapy (LLLT), TENS, and placebo, using VAS symptom scores and fiber-type-specific electromyographic cutaneous silent period (CSP) testing (Aδ/C-fiber-activating painful stimuli vs Aβ-fiber-activating painless stimuli); LLLT produced significantly greater clinical improvement (pain, burning, speech, biting, taste) than TENS or placebo, while CSP electrophysiological recovery remained statistically non-significant.
+Exploratory non-randomized clinical study (n=27; 18 inferior alveolar, 9 lingual nerve injuries after mandibular third-molar surgery) comparing low-level laser therapy (LLLT), TENS, and placebo, using VAS symptom scores and fiber-type-specific cutaneous silent period (CSP) electromyography (painful stimuli → Aδ/C fibers; painless → Aβ fibers).
 
-## 한줄요약
+LLLT produced significantly greater clinical improvement (pain, burning, speech, biting, taste) than TENS or placebo, while CSP electrophysiological recovery remained statistically non-significant across groups.
 
-하악 제3대구치 발치 후 하치조신경(IAN)·설신경(LN) 손상 환자 27명(IAN 18·LN 9)을 대상으로 한 비무작위 탐색 임상연구로, 통증성 자극(Aδ·C 섬유 활성화)과 무통성 자극(Aβ 섬유 활성화)을 구분한 피부 무반응기(CSP) 검사를 이용해 저출력 레이저치료(LLLT)가 경피신경전기자극(TENS)·위약보다 유의하게 우수한 임상적 감각회복(통증·화끈거림·발음·물림·미각)을 보였으나 전기생리학적(CSP) 회복은 통계적으로 유의하지 않았음을 보고한다.
+LLLT is a promising non-invasive option for neurosensory recovery after trigeminal nerve injury, but the design is exploratory and non-randomized with a small cohort, and the clinical–electrophysiological dissociation limits mechanistic conclusions.
+
+## 세줄요약
+
+비무작위 탐색 임상연구(n=27; 하악 제3대구치 발치 후 하치조신경 18·설신경 9 손상) — 저출력 레이저치료(LLLT)·경피신경전기자극(TENS)·위약을 VAS 증상점수와 섬유 유형별 피부 무반응기(CSP) 근전도(통증성 자극 → Aδ·C 섬유, 무통성 → Aβ 섬유)로 비교.
+
+LLLT가 TENS·위약보다 유의하게 우수한 임상적 회복(통증·화끈거림·발음·물림·미각)을 보였으나, CSP 전기생리학적 회복은 군 간 통계적으로 유의하지 않았음.
+
+LLLT는 삼차신경 손상 후 감각회복의 유망한 비침습 옵션이나, 설계가 소규모·비무작위 탐색적이고 임상–전기생리 해리가 있어 기전적 결론은 제한됨.
 
 ## 1. Document Information
 
