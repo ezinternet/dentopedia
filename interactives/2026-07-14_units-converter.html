@@ -14,6 +14,7 @@ notes: |
   ① 변환기: mm↔µm, MPa↔GPa, mSv↔µSv (모두 ×1000), MPa=N/mm².
   ② 임계값 조회: 단위 클릭 → 임상 맥락별 정상/성공 임계값 카드.
   모든 임계값·수치 출처: dental-research-units-reference-overview.md (단일 오버뷰).
+  2026-07-14 추가: USP 봉합사 게이지, 마취제 농도 %(w/v), 스케일러 주파수 kHz (오버뷰 §6 근거).
 ---
 -->
 <!DOCTYPE html>
@@ -236,6 +237,25 @@ const DATA=[
    rows:[
      ['치약 (일반)','1000–1450ppm'],
      ['고농도 치약','5000ppm'],
+   ]},
+  {u:'USP', fam:'봉합사 게이지 · suture', key:'0이 많을수록 얇음 (4-0 > 6-0). 얇을수록 인장강도↓·조직손상↓',
+   rows:[
+     ['구강 판막 봉합','4-0 ~ 5-0'],
+     ['섬세·심미 부위','6-0'],
+     ['미세수술 (microsurgery)','7-0 / 8-0'],
+   ]},
+  {u:'% (마취제)', fam:'마취제 농도 · LA conc.', key:'% = w/v (g/100mL). 2% = 20mg/mL. 높은 %가 곧 강한 마취는 아님',
+   rows:[
+     ['리도카인 (lidocaine)','2%'],
+     ['메피바카인 (mepivacaine)','2%(+VC) / 3%(plain)'],
+     ['아티카인 (articaine)','4%'],
+     ['프릴로카인 (prilocaine)','4%'],
+     ['부피바카인 (bupivacaine)','0.5%'],
+   ]},
+  {u:'kHz (스케일러)', fam:'스케일러 주파수 · frequency', key:'초음파 tip 진동 주파수 (기기 스펙)',
+   rows:[
+     ['자왜형 (magnetostrictive)','~18–45kHz'],
+     ['압전형 (piezoelectric)','~25–50kHz'],
    ]},
 ];
 
