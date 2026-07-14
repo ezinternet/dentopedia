@@ -44,7 +44,7 @@ This is the current best single-paper quantitative anchor for the smoking → im
 Multi-database search through June 2024; observational studies of smoking + early implant failure; cohort studies pooled.
 
 ## Results
-[근거강함] OR 2.59 (95% CI 2.08-3.23) implant-level for early failure in smokers vs non-smokers; patient-level significant.
+[확인] OR 2.59 (95% CI 2.08-3.23) implant-level for early failure in smokers vs non-smokers; patient-level significant.
 
 ## Limitations
 - All-observational evidence base

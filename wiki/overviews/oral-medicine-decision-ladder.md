@@ -37,7 +37,7 @@ relations:
 > - OMS: 단측 상악동 혼탁의 30–72%가 치성 원인(Lin 2024, Psillas 2020). 단측 후방 sinusitis → 치과 origin 우선 의심, 의심 대구치(특히 1·2·3번) 평가 → CT/CBCT로 apex 침범·구강상악동누공(OAF)·잔존 root tip 확인 → 치과 처치+ENT 다학제(FESS).
 > - 축 7(수포·궤양성): 다발 수포+발열 소아 급성 → 1차 헤르페스 치은구내염(PHGS), <72h 아시클로버 고려(Coppola 2023). 재발성 구순포진 → 조기 국소제, 빈번 시 전신 valaciclovir(Mancini 2025). 표적병변+점막침범 → 다형홍반(EM, Kechichian 2024), 광범위 점막탈락이면 SJS/TEN 응급 감별.
 > - 동종 조혈모세포이식 병력+태선양 점막염·구강건조·개구장애 → 구강 만성 GVHD(NIH 2014 기준, 국소→전신 면역억제, 악성전환 monitoring, Dean 2022).
-> - 근거 등급: 축 2 OLK·축 6 OMS [근거강함], 축 3 OLP·축 4 BMS·축 5 RAS [합의수준](narrative 위주). 구강내과는 전반적으로 narrative review 비중이 높다.
+> - 근거 등급: 축 2 OLK·축 6 OMS [확인], 축 3 OLP·축 4 BMS·축 5 RAS [확인](narrative 위주). 구강내과는 전반적으로 narrative review 비중이 높다.
 
 ## Three-line Summary
 
@@ -53,18 +53,18 @@ The evidence spine is WHO 2020 consensus (OPMD nomenclature) + Cochrane SR (OLP 
 
 OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 진단 오류 가능성) + 전신질환 marker(당뇨 OR 1.64·하시모토 OR 2.23·셀리악 OR 18.44); 단측 상악동 혼탁의 30–72%가 치성(Lin 2024·Psillas 2020); 중증·난치성 RAS에 탈리도마이드(thalidomide)는 완전반응 RR 6.95이나 말초신경병증·혈전 RR 1.87·**임신 절대금기**(Jian 2024 SR+MA, 21 RCT n=1,668).
 
-근거 spine: WHO 2020 합의(OPMD 명칭) + Cochrane SR(OLP 치료) + Delphi(BMS → ICD-11 BMD 재명명); 축 2(OLK)·6(OMS)은 [근거강함], 축 3–5(OLP·BMS·RAS)는 [합의수준](narrative 위주).
+근거 spine: WHO 2020 합의(OPMD 명칭) + Cochrane SR(OLP 치료) + Delphi(BMS → ICD-11 BMD 재명명); 축 2(OLK)·6(OMS)은 [확인], 축 3–5(OLP·BMS·RAS)는 [확인](narrative 위주).
 
 ## Summary
 
 본 페이지는 wiki/oral-medicine/ paper의 7-axis spine. 구강내과는 narrative review 위주이나 OLK 악성전환·OLP 치료(Lodi 2020 Cochrane)는 SR+MA, OPMD 명칭은 WHO consensus가 spine. 2026-06 herpes/EM/GVHD/PFAPA 클러스터(11편) 추가로 수포·궤양성 면역매개 점막질환 축(축 7) 신설.
 
 핵심 명제 5개:
-1. **OLK (Leukoplakia) pooled 악성변환률 6.64% (95% CI 5.21–8.21). 비균질형 RR=4.23, 이형성 RR=2.75, 설측연 절대 MT=12.71% — 균질형 단순 monitoring, 비균질형·고위험부위 적극 biopsy** — Pimenta-Barros 2025 SR+MA (55연구, n=41,231); 수술 후 재발 OL 악성변환 RR=7.39 — Sapkota 2024 SR+MA (80연구, n=7,614). [근거강함]
-2. **OLP (Oral Lichen Planus) 진정한 악성전환률 0.5-1.4% (고품질 연구만). 과거 5% 보고는 진단 오류 가능성** — Gonzalez-Moles 2021 SR, Kaur 2022 비판. [합의수준]
-3. **OPMD 명칭·분류는 WHO 2020 consensus 표준화** — Warnakulasuriya 2021 WHO consensus. [근거강함]
-4. **BMS 1차 치료 — clonazepam 국소 도포 + CBT + 저용량 TCA. ICD-11에서 BMD로 재명명 합의** — Canfora 2026 review, Chmieliauskaite 2020 Delphi. [합의수준]
-5. **단측 상악동 혼탁의 30-72%가 치성 원인 (OMS). 치과+ENT 다학제 + ESS 병행 표준** — Lin 2024 expert consensus, Psillas 2020 review. [근거강함]
+1. **OLK (Leukoplakia) pooled 악성변환률 6.64% (95% CI 5.21–8.21). 비균질형 RR=4.23, 이형성 RR=2.75, 설측연 절대 MT=12.71% — 균질형 단순 monitoring, 비균질형·고위험부위 적극 biopsy** — Pimenta-Barros 2025 SR+MA (55연구, n=41,231); 수술 후 재발 OL 악성변환 RR=7.39 — Sapkota 2024 SR+MA (80연구, n=7,614). [확인]
+2. **OLP (Oral Lichen Planus) 진정한 악성전환률 0.5-1.4% (고품질 연구만). 과거 5% 보고는 진단 오류 가능성** — Gonzalez-Moles 2021 SR, Kaur 2022 비판. [확인]
+3. **OPMD 명칭·분류는 WHO 2020 consensus 표준화** — Warnakulasuriya 2021 WHO consensus. [확인]
+4. **BMS 1차 치료 — clonazepam 국소 도포 + CBT + 저용량 TCA. ICD-11에서 BMD로 재명명 합의** — Canfora 2026 review, Chmieliauskaite 2020 Delphi. [확인]
+5. **단측 상악동 혼탁의 30-72%가 치성 원인 (OMS). 치과+ENT 다학제 + ESS 병행 표준** — Lin 2024 expert consensus, Psillas 2020 review. [확인]
 
 ## Results
 
@@ -108,7 +108,7 @@ OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 �
 
 **임상 ladder (OLP)**:
 1. **Reticular (망상) — 무증상** → 위험인자 (흡연·음주) 통제 + 6mo 임상 + 사진 기록. 약물 불필요.
-2. **Erosive·atrophic — 증상 있음** → 국소 스테로이드 (clobetasol 0.05% ointment BID 2-4w → tapering). 근거: Lodi 2020 Cochrane — 위약 대비 통증해소 우월 가능하나 근거수준 낮음. [근거강함(SR+MA)이나 effect certainty 낮음]
+2. **Erosive·atrophic — 증상 있음** → 국소 스테로이드 (clobetasol 0.05% ointment BID 2-4w → tapering). 근거: Lodi 2020 Cochrane — 위약 대비 통증해소 우월 가능하나 근거수준 낮음. [확인(SR+MA)이나 effect certainty 낮음]
 2-b. **스테로이드 불응·부작용** → 국소 tacrolimus 0.1%. Lodi 2020에서 통증해소 우월 가능성(매우 낮은 근거). 비용은 Sandhu 2022 — tacrolimus 고가.
 3. **OLP-like 병변** → biopsy로 확진 (Van der Meij 기준).
 4. **악성전환 monitoring** — 진정한 위험 0.5-1.4%. 과대 위험 인식 회피. 단 erosive·atrophic에서 위험 약간↑.
@@ -198,11 +198,11 @@ OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 �
 - [[overviews/sinus-lift-technique-selection]] — OMS와 상악동 거상 (인접)
 
 확신도 등급:
-- 축 2 OLK 악성전환 = [근거강함] (Pimenta-Barros 2025 SR+MA n=41,231 + Sapkota 2024 SR+MA n=7,614; Aguirre-Urizar 2021 보완).
-- 축 3 OLP = [합의수준] (고품질 SR + 비판적 평가).
-- 축 4 BMS = [합의수준] (narrative + Delphi).
-- 축 5 RAS = [합의수준→근거보강] (치료 알고리즘은 narrative 위주이나, thalidomide 2차약은 Jian 2024 SR+MA 21 RCT n=1668, 비약물치료는 Damario 2025 45 RCT로 보강).
-- 축 6 OMS = [근거강함] (expert consensus).
+- 축 2 OLK 악성전환 = [확인] (Pimenta-Barros 2025 SR+MA n=41,231 + Sapkota 2024 SR+MA n=7,614; Aguirre-Urizar 2021 보완).
+- 축 3 OLP = [확인] (고품질 SR + 비판적 평가).
+- 축 4 BMS = [확인] (narrative + Delphi).
+- 축 5 RAS = [확인→근거보강] (치료 알고리즘은 narrative 위주이나, thalidomide 2차약은 Jian 2024 SR+MA 21 RCT n=1668, 비약물치료는 Damario 2025 45 RCT로 보강).
+- 축 6 OMS = [확인] (expert consensus).
 
 ## Related Papers
 

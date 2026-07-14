@@ -42,7 +42,7 @@ Questionnaire survey of Italian dentists examining antibiotic prescribing habits
 Questionnaire to Italian dentists; categorical analysis of indications, drug choice, duration, route.
 
 ## Results
-[합의수준] Overprescription common; indications frequently not guideline-supported; AMR awareness high but not translated to restraint.
+[확인] Overprescription common; indications frequently not guideline-supported; AMR awareness high but not translated to restraint.
 
 ## Limitations
 - Self-report bias

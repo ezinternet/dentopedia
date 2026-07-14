@@ -41,7 +41,7 @@ This is the first SR+MA to isolate ETS exposure's association with periodontitis
 PubMed, EMBASE, Web of Science, Cochrane Library searched for English-language publications to June 9, 2025. 14 studies / 115,925 adults (18+) meta-analyzed for OR of periodontitis and tooth loss vs ETS exposure. Subgroup analyses: region, age, sex, exposure-assessment method (self-report vs cotinine), adjustment for diabetes/oral hygiene, study recency.
 
 ## Results
-[근거강함, 관찰연구 기반] Periodontitis: OR 1.47 (95% CI 1.22-1.76), significant. Tooth loss: OR 1.03 (95% CI 0.80-1.31), null. Cotinine-based assessment showed stronger association than self-report. Men: significant; women: null. Studies from 2015 onward showed somewhat weaker effects than earlier studies (possibly better confounder control or publication-bias artifact in earlier literature). Age-stratified subgroup analysis not feasible due to inconsistent reporting.
+[확인, 관찰연구 기반] Periodontitis: OR 1.47 (95% CI 1.22-1.76), significant. Tooth loss: OR 1.03 (95% CI 0.80-1.31), null. Cotinine-based assessment showed stronger association than self-report. Men: significant; women: null. Studies from 2015 onward showed somewhat weaker effects than earlier studies (possibly better confounder control or publication-bias artifact in earlier literature). Age-stratified subgroup analysis not feasible due to inconsistent reporting.
 
 ## Limitations
 - Predominantly cross-sectional — causality/temporal sequence unresolved (reverse causation considered but judged unlikely).

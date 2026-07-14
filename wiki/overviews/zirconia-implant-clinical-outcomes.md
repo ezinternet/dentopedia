@@ -23,11 +23,11 @@ relations:
 > - 핵심 명제: 지르코니아 임플란트는 중장기 생존이 티타늄에 근접하며, 잔여 실패 신호는 세라믹 자체가 아니라 설계·시공 문제에 집중된다. mohseni 2024·pieralli 2017·arefnia 2025 3편 통합.
 > - 생존율: Pieralli 2017이 12개월 95.6%, Mohseni 2024가 25편 (임플란트 4017개)에서 10년 누적생존율 (CSR) 95.1%로 확장. 변연골소실 (Marginal Bone Loss, MBL)은 완만 (~0.005 mm/월).
 > - 잔여 실패가 집중되는 4개 modifiable 레버: ① 2-piece 설계 (1-piece보다 나쁨, p=0.017), ② 협폭경 (narrow-diameter, 파절 집중), ③ 의자측 (chairside) 드릴 가공된 관상부 (drill-prep, p<0.001), ④ 단종/초기세대 제품.
-> - 임상 결정 — 설계: 수복적으로 가능하면 1-piece를 2-piece보다 선호. [근거강함, SR+MA]
-> - 임상 결정 — 직경: 고하중 부위에서 협폭경 지르코니아 회피 (파절 위험 집중). [합의수준]
-> - 임상 결정 — 가공: 관상부를 의자측에서 드릴 가공하지 말 것 (drill-prep 임플란트 생존 더 나쁨, p<0.001). [근거강함]
-> - 임상 결정 — 제품: 상용 최신·문헌화 잘 된 시스템 사용, 단종 제품은 생존율 낮음. [근거강함]
-> - 임상 결정 — 악궁: 상악 vs 하악 생존 유의차 없음 (p=0.637) — 부위는 제한인자가 아니다. [근거강함]
+> - 임상 결정 — 설계: 수복적으로 가능하면 1-piece를 2-piece보다 선호. [확인, SR+MA]
+> - 임상 결정 — 직경: 고하중 부위에서 협폭경 지르코니아 회피 (파절 위험 집중). [확인]
+> - 임상 결정 — 가공: 관상부를 의자측에서 드릴 가공하지 말 것 (drill-prep 임플란트 생존 더 나쁨, p<0.001). [확인]
+> - 임상 결정 — 제품: 상용 최신·문헌화 잘 된 시스템 사용, 단종 제품은 생존율 낮음. [확인]
+> - 임상 결정 — 악궁: 상악 vs 하악 생존 유의차 없음 (p=0.637) — 부위는 제한인자가 아니다. [확인]
 > - 환자보고결과 (Patient-Reported Outcome Measure, PROM): 심미·편안함·저작에서 유의한 향상, 높은 만족도 (Arefnia 2025). 단 PROM 문헌이 너무 이질적이라 메타분석 불가.
 > - 근거 한계: 60개월 초과 연구가 드물고 장기 파절/지대주나사 데이터 부족, 표준화 지르코니아 PROM 도구 부재, 경성종말점 (hard endpoint) 사용 지르코니아 vs 티타늄 직접비교 RCT 제한적. 임상 입장: 지르코니아는 적절 적응증에서 티타늄의 근거 기반 대안 (수정 가능한 위험 레버를 피한다는 전제).
 > - **미생물 축 신규 (Kniha 2026, 분할구 RCT, n=20, 12개월, 16S rRNA)**: 12개월 시점 지르코니아 > 티타늄 알파다양성(p<0.05); 지르코니아에서 Fusobacteria·Proteobacteria·Actinobacteria 감소, 레드 컴플렉스 경향 낮음. 단, 베타다양성(beta diversity) 차이 없음(PERMANOVA NS) → 전체 군집 조성은 동등. 치은연상 샘플링·임상 결과 없음 → 탐색적 데이터, 임상적 우위 단정 불가.
@@ -61,12 +61,12 @@ Across a decade of evidence, zirconia implant survival converged on titanium-lik
 | Arefnia 2025 | SR | 12 controlled studies | High satisfaction, ↑ aesthetics/comfort/chewing; PROM heterogeneity | sr |
 
 ## Clinical Decision Points
-- **Design**: prefer one-piece over two-piece where restoratively feasible — two-piece survived worse (Mohseni p=0.017). [근거강함, SR+MA]
-- **Diameter**: avoid narrow-diameter zirconia in high-load sites — fracture concentrates here. [합의수준]
-- **Chairside modification**: do NOT drill-prepare the coronal part — drill-prepared implants survived worse (p<0.001). [근거강함]
-- **Product selection**: use commercially current, well-documented systems; discontinued products carried lower survival. [근거강함]
-- **Arch**: maxilla vs mandible survival not significantly different (p=0.637) — site is not the limiting factor. [근거강함]
-- **Patient counseling**: expect high satisfaction/aesthetics; frame as titanium alternative, noting fracture risk in narrow designs. [합의수준]
+- **Design**: prefer one-piece over two-piece where restoratively feasible — two-piece survived worse (Mohseni p=0.017). [확인, SR+MA]
+- **Diameter**: avoid narrow-diameter zirconia in high-load sites — fracture concentrates here. [확인]
+- **Chairside modification**: do NOT drill-prepare the coronal part — drill-prepared implants survived worse (p<0.001). [확인]
+- **Product selection**: use commercially current, well-documented systems; discontinued products carried lower survival. [확인]
+- **Arch**: maxilla vs mandible survival not significantly different (p=0.637) — site is not the limiting factor. [확인]
+- **Patient counseling**: expect high satisfaction/aesthetics; frame as titanium alternative, noting fracture risk in narrow designs. [확인]
 
 ## Microbial Axis: Zirconia vs Titanium Peri-implant Microbiome
 

@@ -45,7 +45,7 @@ mean follow-up 2.8 y): 상악 심미부위 single tooth 즉시식립 + 즉시부
 - Type 1A definition (per Gallucci et al. 2018 ITI consensus): immediate implant placement on same day as extraction + immediate restoration/loading on same day or within 1 week.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 | Factor | Effect on survival | p-value |
 |---|---|---|
 | Studies before vs since 2012 | Pre-2012 lower by 1.9 PP (95% CI -0.3, -4.0) | 0.02 |

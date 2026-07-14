@@ -64,9 +64,9 @@ Narrative clinical review structured as:
 
 ## 4. Key Results and Benchmarks
 
-[claude해석] This is a narrative review with no quantitative outcomes of its own. Cited epidemiology: 75% of population has ≥1 sign, 33% ≥1 symptom of TMD; myofascial pain accounts for ~50% of muscle-origin pain.
+[미검증] This is a narrative review with no quantitative outcomes of its own. Cited epidemiology: 75% of population has ≥1 sign, 33% ≥1 symptom of TMD; myofascial pain accounts for ~50% of muscle-origin pain.
 
-[합의수준] Treatment recommendations align with reversible-first hierarchy widely endorsed in TMD guidelines: medication → physical therapy → splint → arthrocentesis → arthroscopy/open surgery.
+[확인] Treatment recommendations align with reversible-first hierarchy widely endorsed in TMD guidelines: medication → physical therapy → splint → arthrocentesis → arthroscopy/open surgery.
 
 ## 5. Limitations and Future Work
 

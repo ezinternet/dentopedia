@@ -34,7 +34,7 @@ PRISMA 체계적 문헌고찰(Dent J 2022): 흡연 중단(Smoking Cessation)이 
 PRISMA SR of smoking cessation studies in periodontal/peri-implant health context.
 
 ## 4. Key Results
-[합의수준] Cessation improves periodontal indices and peri-implant outcomes vs continued smoking; degree of recovery time-dependent.
+[확인] Cessation improves periodontal indices and peri-implant outcomes vs continued smoking; degree of recovery time-dependent.
 
 ## 5. Limitations
 - Heterogeneous cessation interventions

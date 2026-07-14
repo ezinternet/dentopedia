@@ -40,7 +40,7 @@ Univ Genoa 체계적 문헌고찰(Dentistry Journal 2025): 제3대구치(Third M
 SR of antibiotic prophylaxis studies in third molar extraction.
 
 ## 4. Key Results
-[합의수준] Antibiotic prophylaxis reduces dry socket / SSI marginally in complex (impacted) extractions; not justified for routine simple extractions.
+[확인] Antibiotic prophylaxis reduces dry socket / SSI marginally in complex (impacted) extractions; not justified for routine simple extractions.
 
 ## 5. Limitations
 - SR, no NMA

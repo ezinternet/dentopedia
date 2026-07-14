@@ -39,11 +39,11 @@ SR1: 부피바카인이 리도카인+에피네프린(Epinephrine) 대비 진통�
 
 This JADA article reports **two systematic reviews** that fed the upcoming ADA / ADA-SRI / FDA evidence-based clinical practice guideline on acute dental pain in adolescents and adults. SR1 asks *which injectable anesthetic* (long-acting bupivacaine vs short-acting lidocaine+epinephrine / articaine / mepivacaine) best controls post-extraction pain; SR2 asks whether *topical benzocaine* helps temporize symptomatic irreversible pulpitis.
 
-[근거강함] **SR1 bottom line**: bupivacaine probably reduces the *amount* of analgesic consumed vs lidocaine+epinephrine (MD −1.91 doses, 95% CI −3.35 to −0.46, moderate certainty) and vs mepivacaine (MD −1.58 doses, −2.21 to −0.95, moderate); it increases *time-to-analgesic* vs lidocaine+epinephrine (MD +2.56 h, high certainty) and mepivacaine (MD +3.56 h, moderate). Bupivacaine may also reduce rescue-analgesia use (RR 0.48, 0.20–1.13, low) with no extra adverse effects (RD 0.0%, moderate).
+[확인] **SR1 bottom line**: bupivacaine probably reduces the *amount* of analgesic consumed vs lidocaine+epinephrine (MD −1.91 doses, 95% CI −3.35 to −0.46, moderate certainty) and vs mepivacaine (MD −1.58 doses, −2.21 to −0.95, moderate); it increases *time-to-analgesic* vs lidocaine+epinephrine (MD +2.56 h, high certainty) and mepivacaine (MD +3.56 h, moderate). Bupivacaine may also reduce rescue-analgesia use (RR 0.48, 0.20–1.13, low) with no extra adverse effects (RD 0.0%, moderate).
 
-[근거강함] **SR2 bottom line**: 20% benzocaine increases pain-reduction responders vs placebo at 20–30 min (RR 1.47, 1.03–2.10, low certainty); 10% benzocaine vs placebo RR 1.38 (0.74–2.56, low); 20% over 10% benzocaine confers only a trivial difference (RR 0.93, 0.86–1.00, moderate).
+[확인] **SR2 bottom line**: 20% benzocaine increases pain-reduction responders vs placebo at 20–30 min (RR 1.47, 1.03–2.10, low certainty); 10% benzocaine vs placebo RR 1.38 (0.74–2.56, low); 20% over 10% benzocaine confers only a trivial difference (RR 0.93, 0.86–1.00, moderate).
 
-[claude해석] Clinically: for procedures where postoperative pain is anticipated (e.g., surgical/impacted third molars), substituting or supplementing with bupivacaine extends comfort and cuts rescue analgesic doses — complementing the *intra-operative* epinephrine-concentration choice settled in [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]]. Benzocaine is a short (20–30 min) temporizing measure for pulpitis pain, not definitive treatment.
+[미검증] Clinically: for procedures where postoperative pain is anticipated (e.g., surgical/impacted third molars), substituting or supplementing with bupivacaine extends comfort and cuts rescue analgesic doses — complementing the *intra-operative* epinephrine-concentration choice settled in [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]]. Benzocaine is a short (20–30 min) temporizing measure for pulpitis pain, not definitive treatment.
 
 ## Key Contributions
 
@@ -60,7 +60,7 @@ This JADA article reports **two systematic reviews** that fed the upcoming ADA /
 
 ## Results
 
-[근거강함] SR1 — bupivacaine vs short-acting:
+[확인] SR1 — bupivacaine vs short-acting:
 
 | Outcome | RCTs | Effect (95% CI) | Certainty |
 |---|---|---|---|
@@ -72,7 +72,7 @@ This JADA article reports **two systematic reviews** that fed the upcoming ADA /
 | Amount of analgesic vs mepivacaine | — | −1.58 doses (−2.21 to −0.95) | moderate |
 | Amount of analgesic vs articaine | 2 | +0.22 doses (−0.13 to 0.57) | low |
 
-[근거강함] SR2 — benzocaine (irreversible pulpitis):
+[확인] SR2 — benzocaine (irreversible pulpitis):
 
 | Outcome | RCTs | Effect (95% CI) | Certainty |
 |---|---|---|---|

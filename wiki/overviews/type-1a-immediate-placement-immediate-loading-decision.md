@@ -26,7 +26,7 @@ relations:
 > - 협측 결손 ≥5mm는 골유도재생술 (Guided Bone Regeneration, GBR) 동반 시 즉시식립 가능(Meijer 2024 10년 RCT) — "intact buccal wall이 절대 전제"라는 dogma를 약화(단 단일 센터 n=40).
 > - 구치부는 무외상 flapless+가이드 수술 시 6주 조기부하 가능(Botros 2025 RCT, 생존 100%, 단 n=30 소표본).
 > - 의사결정 알고리즘: CBCT 평가 → BBT<1mm/얇은 생체형이면 Type 1B(즉시+지연부하) 또는 Type 2A로 downgrade → 1차 안정성 <25 Ncm이면 Type 2A 또는 중단 → 한 조건이라도 빠지면 downgrade.
-> - 한계 [claude해석]: 구치부 Type 1A evidence 얇음, ≥10년 RCT 부족, PES 측정자 간 변동 큼, selection criteria 교호작용 미평가, 아시아(한국·일본) cohort 적어 생체형·골질 차이로 일반화 불확실.
+> - 한계 [미검증]: 구치부 Type 1A evidence 얇음, ≥10년 RCT 부족, PES 측정자 간 변동 큼, selection criteria 교호작용 미평가, 아시아(한국·일본) cohort 적어 생체형·골질 차이로 일반화 불확실.
 
 ## Three-line Summary
 
@@ -66,7 +66,7 @@ Hamilton 2023 SR+MA 정량 효과: facial gap ≥2 mm +3.1 pp(p=0.04), 근관 �
 
 ## Cluster 1 — 정량 anchors
 
-ITI 2023 consensus (Hamilton SR+MA)가 Type 1A selection criteria를 처음으로 정량화했다. 이전 ITI 4th/5th consensus는 정성적 권고만 제시. [근거강함]
+ITI 2023 consensus (Hamilton SR+MA)가 Type 1A selection criteria를 처음으로 정량화했다. 이전 ITI 4th/5th consensus는 정성적 권고만 제시. [확인]
 
 **Hamilton 2023 — Type 1A selection criteria 정량 효과 (n=3118 screened / 68 included, mean 37.2 implants/study, mean follow-up 2.8 y)**
 
@@ -81,7 +81,7 @@ ITI 2023 consensus (Hamilton SR+MA)가 Type 1A selection criteria를 처음으�
 - 1년 MBL −0.32 mm
 - 전치부 PES 평균 7.2/10
 
-이 두 편이 Type 1A의 양적 anchor. 단 Hamilton은 selection criteria의 *조정 효과*만 보고하므로 어느 한 criterion만 충족할 때의 절대 생존율은 제공하지 않는다. 따라서 "Type 1A가 안전한가"는 selection bundle 전체를 충족했을 때만 결론낼 수 있다. [claude해석]
+이 두 편이 Type 1A의 양적 anchor. 단 Hamilton은 selection criteria의 *조정 효과*만 보고하므로 어느 한 criterion만 충족할 때의 절대 생존율은 제공하지 않는다. 따라서 "Type 1A가 안전한가"는 selection bundle 전체를 충족했을 때만 결론낼 수 있다. [미검증]
 
 **Zhou 2021 (sr) — site-specific 가중 생존율**
 
@@ -92,21 +92,21 @@ ITI 2023 consensus (Hamilton SR+MA)가 Type 1A selection criteria를 처음으�
 | 상악 구치부 | — | — | (delayed loading 우세) |
 | 하악 구치부 | — | — | — |
 
-Type 1A는 *주로 상악 전치부 single tooth*에서 데이터가 누적되었다. 구치부·하악 전치부 Type 1A는 evidence base가 얇음을 명시. [근거강함]
+Type 1A는 *주로 상악 전치부 single tooth*에서 데이터가 누적되었다. 구치부·하악 전치부 Type 1A는 evidence base가 얇음을 명시. [확인]
 
-**Qian 2024 NMA** — 상악 전치부 placement (type 1–4) × loading (immediate/early/conventional) 모든 조합 직접·간접 비교. 결론: type 2 + conventional 또는 type 3 + early가 가장 안전한 baseline; type 1A는 *조건부* 권고. [근거강함]
+**Qian 2024 NMA** — 상악 전치부 placement (type 1–4) × loading (immediate/early/conventional) 모든 조합 직접·간접 비교. 결론: type 2 + conventional 또는 type 3 + early가 가장 안전한 baseline; type 1A는 *조건부* 권고. [확인]
 
-**Botros 2025 (RCT, n=27/30)** — 구치부 즉시식립 atraumatic flapless + 가이드 수술 시 6주 부하 vs 3개월 부하 양군 생존 100%. *구치부에서도 적절한 1차 안정성 확보 시 6주 조기 부하 가능*하다는 직접 RCT 근거. 단, 표본 작고 short follow-up. [합의수준]
+**Botros 2025 (RCT, n=27/30)** — 구치부 즉시식립 atraumatic flapless + 가이드 수술 시 6주 부하 vs 3개월 부하 양군 생존 100%. *구치부에서도 적절한 1차 안정성 확보 시 6주 조기 부하 가능*하다는 직접 RCT 근거. 단, 표본 작고 short follow-up. [확인]
 
 ---
 
 ## Cluster 2 — 장기 prospective·RCT
 
-**Slagter 2021 (5년 prospective, Groningen)** — 단일 상악 심미부 즉시식립 + 즉시임시치관 (test) vs 지연임시치관 (control). 5년 시점 BBT·midfacial mucosa 보존 test 약간 우위; 생존율 양 군 높음. *5년에서도 IP 효과 지속 확인*. [근거강함]
+**Slagter 2021 (5년 prospective, Groningen)** — 단일 상악 심미부 즉시식립 + 즉시임시치관 (test) vs 지연임시치관 (control). 5년 시점 BBT·midfacial mucosa 보존 test 약간 우위; 생존율 양 군 높음. *5년에서도 IP 효과 지속 확인*. [확인]
 
-**Meijer 2024 (10년 RCT, n=40)** — 협측 결손 ≥5 mm 심미부에서 즉시식립 (GBR 동반) vs ARP 후 지연식립. 10년 양 군 acceptable. *"intact buccal wall이 immediate placement 절대 전제"라는 dogma를 약화*. [근거강함] 단 단일 그룹 단일 센터, n=40으로 일반화 주의.
+**Meijer 2024 (10년 RCT, n=40)** — 협측 결손 ≥5 mm 심미부에서 즉시식립 (GBR 동반) vs ARP 후 지연식립. 10년 양 군 acceptable. *"intact buccal wall이 immediate placement 절대 전제"라는 dogma를 약화*. [확인] 단 단일 그룹 단일 센터, n=40으로 일반화 주의.
 
-두 RCT가 ITI 2023 consensus 발표 이후의 핵심 update. Meijer 2024는 Hamilton 2023의 facial gap ≥2 mm criterion을 보완하는 데이터로 작용 — 결손이 있어도 적절한 GBR로 보완 가능. [claude해석]
+두 RCT가 ITI 2023 consensus 발표 이후의 핵심 update. Meijer 2024는 Hamilton 2023의 facial gap ≥2 mm criterion을 보완하는 데이터로 작용 — 결손이 있어도 적절한 GBR로 보완 가능. [미검증]
 
 **Parvini 2023 (animal — minipig, n=56 TLX implants, 2×2 factorial, 4 and 12 weeks)** — In a controlled split-mouth minipig experiment, neither immediate loading (healing abutment, no occlusal contact) nor peri-implant gap grafting with bovine bone mineral significantly affected BIC (74.5–83.8% at 4 wk; 75.5–79.9% at 12 wk across all four groups), while soft-tissue dimensions (JE, CTC, BW) were likewise unaffected, providing histomorphometric support that both loading and gap-grafting decisions do not compromise osseointegration at tissue-level progressive-thread implants with hydrophilic SLActive® surfaces. [Animal evidence — minipig; occlusal loading not simulated; does not replace clinical RCT data] [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]]
 
@@ -120,28 +120,28 @@ Hamilton selection criteria의 *근거 근간*이 되는 페이지들이다.
 - Thin-wall (≤1 mm) median vertical bone loss **7.5 mm**
 - Thick-wall (>1 mm) median vertical bone loss **1.1 mm**
 - 차이 ≈ 7배. 중앙 부위(상악 중절치)에서 최고 위험.
-- *Buccal wall thickness만이 유의한 예측인자*. [근거강함]
+- *Buccal wall thickness만이 유의한 예측인자*. [확인]
 
 **Buser 2017 (narrative review, Periodontol 2000)**
 - ITI Type I–IV timing 프레임워크 정의: Type I = immediate, Type II = early (4–8wk), Type III = early (12–16wk), Type IV = delayed (>6mo).
 - Type I 무조건 시행 시 midfacial recession 20–30%.
 - 엄격한 selection (intact wall + thick biotype) 시 risk 대폭 감소.
-- 모든 timing에서 generic 생존율 >95% 가능. [합의수준]
+- 모든 timing에서 generic 생존율 >95% 가능. [확인]
 
 **Chen 2014 (sr, 50편)**
 - Type 1 (immediate) 1–3년 midfacial recession ≥1 mm 발생률 **9–41% (median 26%)**.
 - CBCT에서 협측 골판 frequent loss.
-- 3가지 위험 인자: thin biotype, facial malposition, thin/damaged buccal wall. [근거강함]
+- 3가지 위험 인자: thin biotype, facial malposition, thin/damaged buccal wall. [확인]
 
 **Evans 2008 (retrospective, n=42, 18.9 mo)**
 - Buccal shoulder 위치 임플란트가 lingual shoulder 대비 recession **3배** (1.8 vs 0.6 mm, p<0.001).
-- *임플란트 axial position이 결손의 dominant 결정 인자.* [근거강함]
+- *임플란트 axial position이 결손의 dominant 결정 인자.* [확인]
 
-**Martins 2024 (sr, 12편)** — 신규 ingest. 얇은 facial plate일수록 alveolus 흡수·recession 위험 증가. Bone graft + soft tissue augmentation 병행이 위험을 *완화*하지만 *제거하지는 못함*. [근거강함]
+**Martins 2024 (sr, 12편)** — 신규 ingest. 얇은 facial plate일수록 alveolus 흡수·recession 위험 증가. Bone graft + soft tissue augmentation 병행이 위험을 *완화*하지만 *제거하지는 못함*. [확인]
 
 ---
 
-## 임상 의사결정 알고리즘 [claude해석 — Hamilton 2023 + 위 페이지들의 통합]
+## 임상 의사결정 알고리즘 [미검증 — Hamilton 2023 + 위 페이지들의 통합]
 
 ```
 [Step 1] 발치 적응증 확정 (failing tooth)
@@ -187,7 +187,7 @@ Hamilton selection criteria의 *근거 근간*이 되는 페이지들이다.
 
 ---
 
-## Knowledge Gaps & 한계 [claude해석]
+## Knowledge Gaps & 한계 [미검증]
 
 1. **구치부 Type 1A evidence 얇음** — Botros 2025 단일 RCT, n=30. ITI consensus도 구치부 Type 1A를 *조건부* 권고.
 2. **장기 (≥10년) RCT 부족** — Meijer 2024 단일 그룹 외 없음. Hamilton SR mean follow-up 2.8년.
@@ -196,7 +196,7 @@ Hamilton selection criteria의 *근거 근간*이 되는 페이지들이다.
 5. **하악 즉시식립 evidence sparse** — Zhou 2021도 명시.
 6. **Asian (특히 한국·일본) cohort 적음** — biotype·골질 차이로 generalizability 불확실.
 
-## 임상 권고 요약 [claude해석]
+## 임상 권고 요약 [미검증]
 
 - Type 1A는 *strict selection* 하에서만 적용. Hamilton 2023의 facial gap ≥2 mm + 근관 감염 부재 + thick biotype + BBT ≥1 mm + ISQ ≥70 + atraumatic 발치 6개 조건 *모두* 충족 시.
 - 한 조건이라도 빠지면 Type 1B (즉시식립 + 지연부하) 또는 Type 2A (4–8주 조기)로 downgrade.

@@ -55,8 +55,8 @@ The technique provides a reproducible surgical framework for the large-MRC branc
 - 2-stage (제거 후 3개월 대기 → augmentation): Yu 2023 RCT에서 양 timing 동등
 
 ## Strengths and Caveats
-[합의수준] 술식 명명·표준화는 임상 교육적 가치
-[claude해석] "Croco Eye" 명칭은 마케팅적 — 본질은 시야 확보 후 systematic enucleation
+[확인] 술식 명명·표준화는 임상 교육적 가치
+[미검증] "Croco Eye" 명칭은 마케팅적 — 본질은 시야 확보 후 systematic enucleation
 [미검증] Outcome 비교군 (다른 enucleation 방식) 없어 술식 우월성 입증 안 됨
 
 ## Related Papers

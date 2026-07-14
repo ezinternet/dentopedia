@@ -108,8 +108,8 @@ Periapical radiolucencies and their sequelae are not always endodontic in origin
 **Integrated clinical rule.** Both pitfalls converge on the same principle: *when the clinical picture does not fit the common endodontic script — skin opening distant from a tooth, no dental symptoms, or vital pulp response with apparent periapical pathology — do not proceed to root canal treatment without ruling out a non-endodontic or malignant etiology.* CBCT, biopsy, and interdisciplinary communication are the escalation tools.
 
 ## Gaps & Future Research
-- **Reference-standard problem is structural** — until a validated clinical gold standard exists, all accuracy estimates inherit a ceiling [claude해석].
-- **Pulse-oximetry quality base is thin** — Patro's top-ranked test rests on low/moderate-quality studies; the 628.5 DOR is directional, not precise [추정].
+- **Reference-standard problem is structural** — until a validated clinical gold standard exists, all accuracy estimates inherit a ceiling [미검증].
+- **Pulse-oximetry quality base is thin** — Patro's top-ranked test rests on low/moderate-quality studies; the 628.5 DOR is directional, not precise [미검증].
 - **Equipment gap** — vitality tests need probes/devices not universal in general practice; sensibility tests persist for access reasons, not accuracy.
 - **Molecular/biomarker diagnostics** flagged by ESE but not yet clinic-ready.
 

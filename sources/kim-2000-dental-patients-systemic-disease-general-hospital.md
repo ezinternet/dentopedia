@@ -33,7 +33,7 @@ periodontitis the most common dental diagnosis
 - **Type**: Original article, retrospective chart review + questionnaire study
 - **Study period**: January 1999 – December 1999
 - **n**: 3,506 dental outpatients screened; 427 with documented systemic disease (12.2%)
-- **Year of publication**: [추정] ~2000 based on data collection period; exact year/issue not visible in the OCR'd images.
+- **Year of publication**: [미검증] ~2000 based on data collection period; exact year/issue not visible in the OCR'd images.
 
 ## 2. Key Contributions
 
@@ -58,7 +58,7 @@ The paper then frames recommendations for routine pre-treatment history taking, 
 
 ## 4. Key Results and Benchmarks
 
-[근거강함] (from the retrospective data tabulated in the paper):
+[확인] (from the retrospective data tabulated in the paper):
 
 | Item | Value |
 |---|---|

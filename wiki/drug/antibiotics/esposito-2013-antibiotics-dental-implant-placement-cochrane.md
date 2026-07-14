@@ -55,7 +55,7 @@ Cochrane SR+MA; searches of Cochrane Oral Health Trials Register, CENTRAL, MEDLI
 
 ## Results
 
-[근거강함] Implant failure: RR 0.33 (95% CI 0.16–0.67), 6 RCTs/1162 participants, I²=0%, NNTB=25 (95% CI 14–100) at a 6% no-antibiotic baseline failure rate.
+[확인] Implant failure: RR 0.33 (95% CI 0.16–0.67), 6 RCTs/1162 participants, I²=0%, NNTB=25 (95% CI 14–100) at a 6% no-antibiotic baseline failure rate.
 
 [근거중간] Prosthesis failure: RR 0.44 (95% CI 0.19–1.00), 5 RCTs/1107 participants — borderline significant (P=0.05).
 

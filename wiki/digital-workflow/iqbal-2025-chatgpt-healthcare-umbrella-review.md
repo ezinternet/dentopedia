@@ -58,7 +58,7 @@ PRISMA-compliant umbrella review (Journal of Biomedical Science 2025) synthesisi
 
 **Specialty coverage**: radiology, neurosurgery, gastroenterology, **public health dentistry**, ophthalmology
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - The 12/17 low-quality AMSTAR-2 rating is a strong caution against citing single ChatGPT-in-healthcare SRs without inspecting methodology
 - For dental practice: public health dentistry coverage exists but is thin — direct chairside LLM evidence is patient-question-focused (see [[digital-workflow/zhang-2025-llm-patient-instructions-dentistry-sr-ma]])
 - Ethical/legal/accuracy concerns frequently raised but rarely operationalised in included SRs — policy gap

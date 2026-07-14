@@ -38,7 +38,7 @@ OTC-dose analgesic comparison companion to single-dose overview (CD008659).
 Overview of single-dose Cochrane SRs restricted to OTC doses.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Ibuprofen 400mg NNT ~2.5
 - APAP 1000mg NNT ~3.5-4
 - Aspirin 1000mg NNT ~4

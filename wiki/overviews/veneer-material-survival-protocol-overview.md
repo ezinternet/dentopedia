@@ -61,15 +61,15 @@ The evidence converges on a counterintuitive but practically important finding: 
 
 **핵심 명제 (Evidence Propositions)**
 
-1. **Ceramic laminate veneers demonstrate clinically acceptable long-term survival across all four material types.** Klein et al. (2025), the largest and most comprehensive SR+MA (29 studies, 7,753 veneers, 1.0–20.7 years), found pooled survival of feldspathic 96.13%, LRGC 93.70%, LDS 96.81%, and zirconia 100% (at 2.6 years), with no statistically significant difference between feldspathic, LRGC, and LDS. [근거강함]
+1. **Ceramic laminate veneers demonstrate clinically acceptable long-term survival across all four material types.** Klein et al. (2025), the largest and most comprehensive SR+MA (29 studies, 7,753 veneers, 1.0–20.7 years), found pooled survival of feldspathic 96.13%, LRGC 93.70%, LDS 96.81%, and zirconia 100% (at 2.6 years), with no statistically significant difference between feldspathic, LRGC, and LDS. [확인]
 
-2. **LDS offers a decisive complication advantage over feldspathic and LRGC at 10 years.** At approximately 10.4 years observation, technical complication rates were: feldspathic 41.48%, LRGC 29.87%, and LDS 6.1%; biological complications followed the same gradient (feldspathic 6.51%, LRGC 4.4%, LDS 0.45%) (Klein et al. 2025). The complication gap, not survival, is the primary argument for LDS in long-term treatment planning. [근거강함]
+2. **LDS offers a decisive complication advantage over feldspathic and LRGC at 10 years.** At approximately 10.4 years observation, technical complication rates were: feldspathic 41.48%, LRGC 29.87%, and LDS 6.1%; biological complications followed the same gradient (feldspathic 6.51%, LRGC 4.4%, LDS 0.45%) (Klein et al. 2025). The complication gap, not survival, is the primary argument for LDS in long-term treatment planning. [확인]
 
-3. **Incisal coverage does not significantly alter veneer survival.** Albanesi et al. (2016), in the only SR+MA focused exclusively on this question (8 studies, 1,145 screened), found survival of 88% with vs 91% without incisal coverage, with an OR of 1.25 (95% CI crosses 1.0; not significant). Morimoto et al. (2016) independently reported the same OR in their broader SR+MA. Clinicians may therefore choose incisal extension based on esthetic and occlusal rationale, not survival prognosis. [근거강함]
+3. **Incisal coverage does not significantly alter veneer survival.** Albanesi et al. (2016), in the only SR+MA focused exclusively on this question (8 studies, 1,145 screened), found survival of 88% with vs 91% without incisal coverage, with an OR of 1.25 (95% CI crosses 1.0; not significant). Morimoto et al. (2016) independently reported the same OR in their broader SR+MA. Clinicians may therefore choose incisal extension based on esthetic and occlusal rationale, not survival prognosis. [확인]
 
-4. **Minimally invasive veneers (0.2–0.5 mm) demonstrate equal or superior survival to conventional preparations (0.3–1.0 mm).** Ali (2023), a SR of 4 comparative studies, found MPVs showed higher survival rates and longer mean success periods than CVs, refuting the prior assumption of conventional preparation superiority. Ultra-thin contact-lens feldspathic veneers (0.2–0.3 mm) additionally eliminate anesthesia and temporization steps. [합의수준 — 4편 연구, 비교 RCT 없음]
+4. **Minimally invasive veneers (0.2–0.5 mm) demonstrate equal or superior survival to conventional preparations (0.3–1.0 mm).** Ali (2023), a SR of 4 comparative studies, found MPVs showed higher survival rates and longer mean success periods than CVs, refuting the prior assumption of conventional preparation superiority. Ultra-thin contact-lens feldspathic veneers (0.2–0.3 mm) additionally eliminate anesthesia and temporization steps. [확인 — 4편 연구, 비교 RCT 없음]
 
-5. **Dentin margin exposure is the single most powerful clinical failure predictor, conferring 10× higher failure rate than enamel-confined margins.** El-Mowafy et al. (2018) synthesized this finding from Gurel et al. (580 veneers, 12 years). This penalty applies regardless of material, reaffirming enamel preservation as the cornerstone of preparation philosophy. [합의수준 — narrative review level]
+5. **Dentin margin exposure is the single most powerful clinical failure predictor, conferring 10× higher failure rate than enamel-confined margins.** El-Mowafy et al. (2018) synthesized this finding from Gurel et al. (580 veneers, 12 years). This penalty applies regardless of material, reaffirming enamel preservation as the cornerstone of preparation philosophy. [확인 — narrative review level]
 
 6. **Platinum foil fabrication produces the best marginal fit but requires longer HF etching (120 s vs 90 s) to achieve optimal intaglio microroughness.** Sorensen et al. (1992) established platinum foil superiority for vertical marginal fidelity over refractory die in a controlled in-vitro study (though at the cost of more overcontouring). Sim and Ibbetson (1993) confirmed this in a four-way ranking (platinum foil best > refractory die > cast ceramic 0.5 mm > cast ceramic 1.0 mm; p < .001). Gonzalez-Martin et al. (2024) then showed by SEM that the structurally distinct intaglio surfaces produced by these two techniques demand technique-specific etching protocols: 120 s for platinum foil vs 90 s for refractory die (both with 9.6% HF), with 150 s conferring no additional benefit. [in-vitro 한정]
 
@@ -77,9 +77,9 @@ The evidence converges on a counterintuitive but practically important finding: 
 
 8. **Enamel substrate yields approximately twice the bond strength of a composite core under light-cured resin cement.** Hajeer et al. (2026) found enamel substrate 21.1 MPa vs composite core 11.3 MPa. This quantitative substrate penalty aligns with the clinical observation (El-Mowafy 2018) that dentin and composite cores elevate failure risk, and provides an in-vitro mechanism. [in-vitro 한정]
 
-9. **Resin composite laminate veneers show 88% pooled survival but require active maintenance; direct (91%) outperforms indirect (84%).** Lim et al. (2023), in the only SR+MA dedicated to composite veneers (7 studies, 24–97 months), identified surface roughness, color mismatch, and marginal discoloration as the dominant complications — all clinically manageable without replacement but demanding monitoring. [근거강함]
+9. **Resin composite laminate veneers show 88% pooled survival but require active maintenance; direct (91%) outperforms indirect (84%).** Lim et al. (2023), in the only SR+MA dedicated to composite veneers (7 studies, 24–97 months), identified surface roughness, color mismatch, and marginal discoloration as the dominant complications — all clinically manageable without replacement but demanding monitoring. [확인]
 
-10. **Zirconia laminate veneers show 100% survival and 0% complication at 2.6 years but have no long-term (≥5 year) clinical data.** Klein et al. (2025) included zirconia in the SR+MA but noted that the available evidence is short-term only, precluding long-term planning decisions. Hajeer et al. (2026) adds an in-vitro bonding caveat (12.1 MPa vs LDS 25.4 MPa). Zirconia remains a promising but unvalidated long-term option as of 2026. [합의수준]
+10. **Zirconia laminate veneers show 100% survival and 0% complication at 2.6 years but have no long-term (≥5 year) clinical data.** Klein et al. (2025) included zirconia in the SR+MA but noted that the available evidence is short-term only, precluding long-term planning decisions. Hajeer et al. (2026) adds an in-vitro bonding caveat (12.1 MPa vs LDS 25.4 MPa). Zirconia remains a promising but unvalidated long-term option as of 2026. [확인]
 
 ---
 
@@ -230,7 +230,7 @@ The substrate penalty is equally important: composite core yields only 53% of th
 
 ---
 
-## Clinical Decision Threads [claude해석]
+## Clinical Decision Threads [미검증]
 
 *These represent synthesis-level interpretation and working hypotheses, not established protocol. Clinical decisions should incorporate individual case factors.*
 

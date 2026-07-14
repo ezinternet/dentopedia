@@ -193,7 +193,7 @@ This axis adds two SRs that reframe DBBM against two references the earlier axes
 
 The important nuance, and the reason this is a distinct axis rather than a footnote to survival data: **a successful, surviving implant on a dimensionally stable ridge does not certify that the underlying xenograft has resorbed or biologically integrated without late foreign-body reaction.** These are different endpoints measured at different times — exactly the endpoint-disaggregation lens Axis 7 applies to residual-graft vs vital-bone (dimensional/contour stability can mask internal remodeling differences). Here the disaggregation runs on the time axis: DBBM's defining slow resorption (Axis 1), an asset for volume stability, is simultaneously the mechanistic root of its multi-year non-resorption/foreign-body/migration risk. Autogenous bone remains the gold standard where feasible; porcine xenografts and PRF derivatives are flagged as promising better-resorbing alternatives pending long-term RCTs. Because complication incidence is likely underreported (the review names the "Proteus Phenomenon" of selective positive publication) and rests on GRADE-low evidence, this is a calibrated caution — not a contraindication — that warrants transparent risk communication and informed consent, and that can tip material choice toward faster-turnover options in patients for whom indefinite xenograft persistence is a specific concern.
 
-## Clinical Decision Threads [claude해석]
+## Clinical Decision Threads [미검증]
 
 **Thread 1 — Routine extraction socket ARP: choosing between DBBM and C-DBBM**
 

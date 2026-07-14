@@ -28,7 +28,7 @@ Bio-Oss vs 자가골 직접 비교: 차이 ~0.04 mm, 통계적 비유의(95% CI 
 공여부 이환율 회피를 위해 Bio-Oss를 골내 결손의 1차 임상 선택으로 권고하나, 넓은 신뢰구간은 동등성 입증이 아닌 데이터 부족을 반영하며 이후 고질적 근거로 재평가 필요.
 
 ## Summary
-Akbarzadeh Baghban 등(2009)은 1998–2009년 인체 골내 결손(intrabony defect) 연구를 다섯 가지 비교(Bio-Oss vs 자가골, autogenous+GTR vs GTR, Bio-Oss+GTR vs GTR, autogenous vs OFD, Bio-Oss vs OFD)로 분류해 베이지안 메타분석을 수행했다. 자가골 vs Bio-Oss 직접 비교는 차이 약 0.04 mm로 유의성 없음 — 채취 부위 합병증을 피한다는 점에서 Bio-Oss를 알베올라/골내 결손의 실용적 1차 선택으로 결론지었다. 다만 포함 연구 수가 적어 신뢰구간이 매우 넓다(동등성 입증이 아니라 정보 부족에 가깝다 — [claude해석]).
+Akbarzadeh Baghban 등(2009)은 1998–2009년 인체 골내 결손(intrabony defect) 연구를 다섯 가지 비교(Bio-Oss vs 자가골, autogenous+GTR vs GTR, Bio-Oss+GTR vs GTR, autogenous vs OFD, Bio-Oss vs OFD)로 분류해 베이지안 메타분석을 수행했다. 자가골 vs Bio-Oss 직접 비교는 차이 약 0.04 mm로 유의성 없음 — 채취 부위 합병증을 피한다는 점에서 Bio-Oss를 알베올라/골내 결손의 실용적 1차 선택으로 결론지었다. 다만 포함 연구 수가 적어 신뢰구간이 매우 넓다(동등성 입증이 아니라 정보 부족에 가깝다 — [미검증]).
 
 ## Key Contributions
 - Bio-Oss를 5개 임상 맥락에서 분류 비교한 초기 SR — 단일 "DBBM이 자가골만큼 좋은가?"가 아니라 context-dependent 평가틀 제공.

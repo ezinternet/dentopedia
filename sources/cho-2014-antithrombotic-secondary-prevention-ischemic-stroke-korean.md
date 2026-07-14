@@ -41,7 +41,7 @@ This is a 2014 review — DOAC evidence has expanded substantially since; clinic
 Narrative review of stroke secondary prevention RCTs and guidelines available through 2014.
 
 ## 4. Key Results
-[합의수준] Stroke pharmacology framework:
+[확인] Stroke pharmacology framework:
 - **Non-cardioembolic stroke**: antiplatelet (aspirin, clopidogrel, aspirin+dipyridamole)
 - **Cardioembolic stroke (atrial fibrillation, prosthetic valve)**: anticoagulation (warfarin, DOAC)
 - DAPT typically not first-line for long-term stroke prevention (vs cardiology context)

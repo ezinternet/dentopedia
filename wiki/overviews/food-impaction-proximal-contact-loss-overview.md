@@ -86,15 +86,15 @@ Open contacts raise peri-implant mucositis risk (RR 1.74; Atieh 2026 SR+MA) and 
 | Atieh 2026 (CEDR) | SR + MA | 5 studies / 4882 implants | OPC → peri-implant mucositis RR 1.74 (1.06–2.86, p=0.03); MBL(MD 0.07)·PPD(MD 0.11)·peri-implantitis(RR 1.63) 모두 NS; food impaction OPC에서 2.2× | sr+ma |
 
 ## Clinical Decision Points
-1. **언제 감시하나 — 조기부터.** Mehanna는 3개월 내, Kim 2025는 절반이 19.2개월 내 PCL 발생을 보였다. 장착 후 첫 1–2년 유지관리에서 floss·strip으로 mesial 접촉을 우선 점검한다. [합의수준]
-2. **어느 면을 의심하나 — mesial 우선.** 모든 근거가 mesial > distal(약 1.6–2배). 단일 임플란트 크라운에서도 근심 접촉 개방을 먼저 확인한다. [근거강함]
-3. **고위험군 식별 — 국소 생체역학·해부가 지배.** 기능기간 길수록, 인접치 골지지/치주상태 나쁠수록, 환자에게 기존 interproximal gap·generalized arch gap·plunger cusp이 있을수록 위험↑. Liu 2025(Cox)는 다변량에서 **식편압입(HR 2.75)·잔존치조제 높이 차이(HR 2.51)·인접치 중증 골소실 >3/8 root(HR 5.83)**만 독립적으로 살아남고 성별·연령·흡연·이갈이·당뇨·보철형식·악궁은 모두 무의미함을 보였다 — 위험층화는 환자 인구특성이 아니라 국소 해부로 한다. 또한 **mesial/distal은 위험인자가 다르다**(Cui 2025): mesial은 식편압입(OR 4.99)·기능기간·이갈이가, distal은 mechanical complication(OR 7.04)·peri-implantitis(OR 2.39)가 주도 — distal 개방은 보철 합병증/주위염을 함께 의심한다. 이들에서 감시 간격을 좁힌다. [근거강함]
-4. **예방 — proactive 교합조정(MM-DD) 분기.** 종전 근거는 reactive 일변도였으나, MM-DD 교합조정(crown 장착 시 근심인접치의 근심교합면 + 원심인접치의 원심교합면을 선택 삭제해 인접 자연치를 임플란트 쪽으로 drift시켜 접촉을 유지)이 단일 술자·후향(124 임플란트, 최장 21.5년)에서 open contact를 46.7%→2.7%(p<0.001), 접촉 생존율 5/10/15년 99.1/97.5/96.2%로 격감시켰다(Liu 2025). Essix 리테이너도 PCL ~15–50% 감소 보고(Alsaloum 2026). 단 두 근거 모두 RCT가 아니며 MM-DD는 단일 술자 결과 — 적용 시 일반화 한계를 고지한다. [claude해석·근거제한]
+1. **언제 감시하나 — 조기부터.** Mehanna는 3개월 내, Kim 2025는 절반이 19.2개월 내 PCL 발생을 보였다. 장착 후 첫 1–2년 유지관리에서 floss·strip으로 mesial 접촉을 우선 점검한다. [확인]
+2. **어느 면을 의심하나 — mesial 우선.** 모든 근거가 mesial > distal(약 1.6–2배). 단일 임플란트 크라운에서도 근심 접촉 개방을 먼저 확인한다. [확인]
+3. **고위험군 식별 — 국소 생체역학·해부가 지배.** 기능기간 길수록, 인접치 골지지/치주상태 나쁠수록, 환자에게 기존 interproximal gap·generalized arch gap·plunger cusp이 있을수록 위험↑. Liu 2025(Cox)는 다변량에서 **식편압입(HR 2.75)·잔존치조제 높이 차이(HR 2.51)·인접치 중증 골소실 >3/8 root(HR 5.83)**만 독립적으로 살아남고 성별·연령·흡연·이갈이·당뇨·보철형식·악궁은 모두 무의미함을 보였다 — 위험층화는 환자 인구특성이 아니라 국소 해부로 한다. 또한 **mesial/distal은 위험인자가 다르다**(Cui 2025): mesial은 식편압입(OR 4.99)·기능기간·이갈이가, distal은 mechanical complication(OR 7.04)·peri-implantitis(OR 2.39)가 주도 — distal 개방은 보철 합병증/주위염을 함께 의심한다. 이들에서 감시 간격을 좁힌다. [확인]
+4. **예방 — proactive 교합조정(MM-DD) 분기.** 종전 근거는 reactive 일변도였으나, MM-DD 교합조정(crown 장착 시 근심인접치의 근심교합면 + 원심인접치의 원심교합면을 선택 삭제해 인접 자연치를 임플란트 쪽으로 drift시켜 접촉을 유지)이 단일 술자·후향(124 임플란트, 최장 21.5년)에서 open contact를 46.7%→2.7%(p<0.001), 접촉 생존율 5/10/15년 99.1/97.5/96.2%로 격감시켰다(Liu 2025). Essix 리테이너도 PCL ~15–50% 감소 보고(Alsaloum 2026). 단 두 근거 모두 RCT가 아니며 MM-DD는 단일 술자 결과 — 적용 시 일반화 한계를 고지한다. [미검증·근거제한]
 5. **개입 옵션과 trade-off (이미 개방된 경우).**
-   - (a) 보철 재형성/접촉 추가(composite add-on, 컨택 재설정): 가역적·저침습이나 재발 가능 → 재내원 필요. [claude해석]
-   - (b) 크라운 재제작: 확실하나 비용·시간↑, 임플란트 보철에선 screw-retained가 retrievability 유리. [claude해석]
+   - (a) 보철 재형성/접촉 추가(composite add-on, 컨택 재설정): 가역적·저침습이나 재발 가능 → 재내원 필요. [미검증]
+   - (b) 크라운 재제작: 확실하나 비용·시간↑, 임플란트 보철에선 screw-retained가 retrievability 유리. [미검증]
    - (c) 무개입 관찰 + 위생 교육(치간칫솔): Liang에서 치간칫솔 빈용이 오히려 mesial PCL과 연관 — 위생 자체보다 PCL의 결과(이미 벌어져 칫솔 사용)일 가능성, 인과 해석 주의. [미검증]
-6. **왜 막아야 하나 — downstream 결과.** 개방접촉은 식편압입을 부르고(OPC site에서 2.2×; Atieh 2026), 임플란트주위점막염 위험지표(RR 1.74; Atieh 2026 SR+MA)이며, 인접 자연치 인접면 우식의 직접 위험인자(Alsaloum 2026)다. 단 동일 SR+MA에서 MBL·PPD·주위염은 비유의 — 좋은 위생 코호트에서는 **가역적 연조직 염증·우식 위험**이 주 결과이고 골소실까지 진행하는지는 불확실. 따라서 개입 동기는 "골 파괴 예방"보다 "식편압입·점막염·인접치 우식 예방"으로 환자에게 설명한다. [근거강함·범위한정]
+6. **왜 막아야 하나 — downstream 결과.** 개방접촉은 식편압입을 부르고(OPC site에서 2.2×; Atieh 2026), 임플란트주위점막염 위험지표(RR 1.74; Atieh 2026 SR+MA)이며, 인접 자연치 인접면 우식의 직접 위험인자(Alsaloum 2026)다. 단 동일 SR+MA에서 MBL·PPD·주위염은 비유의 — 좋은 위생 코호트에서는 **가역적 연조직 염증·우식 위험**이 주 결과이고 골소실까지 진행하는지는 불확실. 따라서 개입 동기는 "골 파괴 예방"보다 "식편압입·점막염·인접치 우식 예방"으로 환자에게 설명한다. [확인·범위한정]
 
 ## Gaps & Future Research
 - **Prosthesis design 효과 미해결**: splinting, screw vs cement, 접촉 형태/재료가 PCL을 줄이는지 RCT 부재(Abduo·Fathi 공통 지적).

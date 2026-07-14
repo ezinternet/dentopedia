@@ -48,7 +48,7 @@ relations:
 > - 임상적으로 BMS는 말초형(말초 lidocaine 차단·국소 clonazepam 반응)과 중추형(국소치료 무반응, 우울·불안 동반, 선조체 도파민 결핍)으로 나뉘며 개인 내 중첩한다 (jaaskelainen-2018) — 아형이 치료 분기를 결정한다.
 > - 말초형의 객관적 근거: 혀 생검에서 신경섬유밀도 (Intraepithelial Nerve Fiber Density, IENFD) 30~60% 감소 + TRPV1·P2X3·NGF 발현 변화 + Nav1.7 과발현 + 정량감각검사 (Quantitative Sensory Testing, QST) 냉각 역치 이상 (kouri-2024, PRISMA SR).
 > - 기전→치료 다리: 국소 clonazepam(GABA-A 작용제)의 말초형 반응성은 "탈억제 회복" 논리(price-2009)와 직접 연결되고, T-type/neurosteroid 축은 BMS의 새 표적 후보를 시사한다 — 단 말초 Cl⁻·T-type 표적 진통제는 아직 전임상 단계.
-> - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [claude해석]으로 임상 외삽은 가설 수준. BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
+> - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [미검증]으로 임상 외삽은 가설 수준. BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
 
 ## Three-line Summary
 
@@ -117,7 +117,7 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 ## 8. Evidence grading & gaps
 
 - **Clinical substrate** (peripheral SFN in BMS): relatively firm — 1 PRISMA SR (kouri-2024) + an authoritative NeuPSIG review (jaaskelainen-2018). Still observational/cross-sectional; no causal proof, no meta-analytic pooling.
-- **Molecular mechanism** (Sections 1–3): two narrative reviews (price-2009, wilke-2020) + one animal study (pathirathna-2005). Extrapolating these to human BMS therapy is **[claude해석]** — a plausible mechanistic scaffold, not clinical evidence.
+- **Molecular mechanism** (Sections 1–3): two narrative reviews (price-2009, wilke-2020) + one animal study (pathirathna-2005). Extrapolating these to human BMS therapy is **[미검증]** — a plausible mechanistic scaffold, not clinical evidence.
 - **Circuit anatomy & PTNP cascade** (Sections 6–7): two narrative reviews (kim-2024, korczeniewska-2022), no primary data in kim-2024, and korczeniewska-2022 is largely extrapolated from non-trigeminal (spinal/DRG) injury models by the authors' own admission. Treat both as a plausible mechanistic scaffold connecting Sections 1–3 to a concrete circuit and a post-traumatic clinical entity, not as direct clinical evidence.
 - **Translational gap**: subtype assignment needs neurophysiologic testing unavailable in most dental settings; peripheral Cl⁻/T-type analgesics are not clinically available.
 - **For decisions**, defer to [[oral-medicine-decision-ladder]] (BMS) or [[overviews/trigeminal-neuralgia-neuropathy-overview]] (TN/PTTN); this page exists to explain *why* those clinical branches behave as they do.

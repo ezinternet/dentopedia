@@ -52,7 +52,7 @@ Descriptive review (Bioengineering MDPI, December 2024) by 13-author multination
 
 **Practice applications already deployed**: imaging/diagnosis, treatment planning, robotics/automation, AR/VR, data analytics, administrative support
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - For Korean general practice: imaging-based caries/periapical detection AI is closest to drop-in deployment; integration with PMS still immature
 - "Skill-equaliser" framing is contestable — depends on whether AI confidence outputs are well-calibrated; overconfident AI in novice hands is worse than no AI
 - Evidence-based dentistry vs ML-trained-model dichotomy: ML models inherit literature bias (most are trained on labelled imaging without RCT-grade outcome linkage)

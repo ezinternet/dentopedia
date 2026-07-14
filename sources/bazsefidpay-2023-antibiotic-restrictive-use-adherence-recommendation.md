@@ -40,7 +40,7 @@ Journal: BMC Oral Health 2023;23:818
 Adherence audit + safety outcomes in restrictive prescribing setting.
 
 ## 4. Key Results
-[합의수준] Restrictive prescribing safe; adherence variable; targeted interventions improve adherence.
+[확인] Restrictive prescribing safe; adherence variable; targeted interventions improve adherence.
 
 ## 5. Limitations
 - Single-country (Sweden)

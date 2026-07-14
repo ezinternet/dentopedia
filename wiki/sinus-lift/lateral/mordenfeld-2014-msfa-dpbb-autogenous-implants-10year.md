@@ -35,7 +35,7 @@ Mordenfeld 등(2014)은 심한 후방 상악 위축 환자 20명을 대상으로
 ## Key Contributions
 - MSFA + 80:20 DPBB/자가골 mix의 가장 긴 임상 follow-up (10년).
 - "First 2 years critical" 메시지 — 임플란트가 이 시기를 통과하면 장기 결과 우수.
-- 흡연·증대골 여부가 10년 MBL/ISQ/pocket depth에 유의차 없음 — graft가 적절히 성숙하면 흡연·증대 자체는 결정적 risk가 아님 [claude해석: 단, n이 작아 흡연 subgroup 검정력 낮음].
+- 흡연·증대골 여부가 10년 MBL/ISQ/pocket depth에 유의차 없음 — graft가 적절히 성숙하면 흡연·증대 자체는 결정적 risk가 아님 [미검증: 단, n이 작아 흡연 subgroup 검정력 낮음].
 - Graft height의 흡수 시간 곡선(3개월–2년에 집중, 이후 안정) → 술 후 영상 추적의 임상 timeline 근거.
 
 ## Methodology

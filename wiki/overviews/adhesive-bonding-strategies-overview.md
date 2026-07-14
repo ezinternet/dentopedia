@@ -53,8 +53,8 @@ Evidence is strong but in-vitro–limited across all quantitative axes; the stam
 핵심 명제 5개:
 1. **Clearfil SE Bond — thermal/mechanical cycling으로 µTBS 유의 저하; mechanical 단독 100K cycle부터** — Daneshkazemi 2013. [in-vitro 한정]
 2. **실란 처리 timing + 타액 오염 — 결합력 영향; 적절 timing이 핵심** — Unknown 2009. [in-vitro 한정]
-3. **타액 오염 dentin — 2-step SE (Clearfil SE Bond 2) 강도 유지; 1-step universal (Clearfil Universal Bond Quick)은 Katana Cleaner 등 decontamination 필요** — Etiennot 2025. [근거강함 in-vitro]
-4. **3D-printed crown 결합력 — airborne particle abrasion(알루미나)으로 전처리 시 밀링 재료 동등** — Kagaoan 2024 SR (6 in-vitro). [근거강함 in-vitro]
+3. **타액 오염 dentin — 2-step SE (Clearfil SE Bond 2) 강도 유지; 1-step universal (Clearfil Universal Bond Quick)은 Katana Cleaner 등 decontamination 필요** — Etiennot 2025. [확인 in-vitro]
+4. **3D-printed crown 결합력 — airborne particle abrasion(알루미나)으로 전처리 시 밀링 재료 동등** — Kagaoan 2024 SR (6 in-vitro). [확인 in-vitro]
 5. **Stamp technique — 인택트 교합면을 flowable resin index로 복제 후 와동 형성 → 형태 재현성 ↑** — Kim 2026 case report. [미검증 임상]
 
 ## Results
@@ -65,7 +65,7 @@ Evidence is strong but in-vitro–limited across all quantitative axes; the stam
 |---|---|---|
 | [[resin-bonding/daneshkazemi-2013-clearfil-se-bond-mechanical-thermal]] | in-vitro (42 molars) | Thermal/mechanical cycling — µTBS 유의 저하; mechanical 단독 100K부터 |
 
-**임상 함의**: 결합력 in-vitro 결과는 단기 측정만으로는 위험. 임상 5년+ 보는 long-term 관점 필수. [합의수준]
+**임상 함의**: 결합력 in-vitro 결과는 단기 측정만으로는 위험. 임상 5년+ 보는 long-term 관점 필수. [확인]
 
 The fatigue/aging picture is sharper once universal adhesives are compared head-to-head under the same aging stress. Brkanovic (2023) showed that both thermocycling and the choice of universal-adhesive system significantly affect dentin shear bond strength (p=0.018 and p=0.001 respectively), with bonds still at a comparable level after one year of storage — i.e. system choice is a real lever, not noise. Hurtado (2023) extended aging to 6-month water storage and found the 10-MDP systems Clearfil SE Bond and Scotchbond Universal retained higher µTBS and lower nanoleakage than Xeno Select, again pinning durability to MDP chemistry rather than to the number of steps. Demir (2024) complements these by linking the upstream cause to the readout: dentin surface treatment and bonding type (E&R vs SE) alter the surface elemental composition, and those compositional shifts track with the resulting bond strength — a mechanistic bridge between pretreatment and the fatigue behavior the other studies measure.
 
@@ -75,7 +75,7 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 |---|---|---|
 | [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]] | in-vitro | 세라믹-레진시멘트 결합 — 실란 적용 timing·타액 오염 영향 |
 
-**임상 함의**: 실란 → 건조 → 본딩 sequence와 시술 중 타액 차단(rubber dam) 의의 명확. [합의수준]
+**임상 함의**: 실란 → 건조 → 본딩 sequence와 시술 중 타액 차단(rubber dam) 의의 명확. [확인]
 
 ### 축 3 — Saliva Contamination (MDP & Decontamination)
 
@@ -87,7 +87,7 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 1. **Rubber dam 우선** — 오염 방지가 최선.
 2. **부득이한 타액 오염 + 2-step SE 사용 중** — Clearfil SE Bond 2 등은 강도 유지 (Etiennot 2025).
 3. **1-step universal 사용 중** — Katana Cleaner 또는 phosphoric acid 재처리로 decontamination 후 재본딩.
-4. **혈액 오염** — 어떤 시스템이든 decontamination 필수. [근거강함]
+4. **혈액 오염** — 어떤 시스템이든 decontamination 필수. [확인]
 
 **격리(isolation)의 임상 근거 — rubber dam이 1순위인 이유**: The "isolation-first" thesis now has a clinical anchor beyond the in-vitro contamination work. Miao (2021), a Cochrane SR+MA of 6 RCTs (1342 participants, all high risk of bias), found rubber-dam isolation may increase survival of direct composite NCCL restorations at 6 months (OR 2.29, 95% CI 1.05–4.99; low certainty), with the evidence becoming very uncertain at later time points — modest, bias-limited, but the best clinical signal we hold that moisture control translates into restoration survival.
 
@@ -99,7 +99,7 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 |---|---|---|
 | [[resin-bonding/kagaoan-2024-additively-manufactured-crown-bond-sr]] | sr (6 in-vitro) | Airborne particle abrasion(알루미나)으로 전처리 시 밀링 동등 결합력 |
 
-**임상 함의**: 3D-printed crown 임상 적용 시 전처리(airborne abrasion)는 표준; HF·실란 추가 시 더 강한 결합 가능. [근거강함 in-vitro]
+**임상 함의**: 3D-printed crown 임상 적용 시 전처리(airborne abrasion)는 표준; HF·실란 추가 시 더 강한 결합 가능. [확인 in-vitro]
 
 **지르코니아 합착·자가접착 시멘트(self-adhesive resin cement)**: For zirconia and other indirect restorations luted with self-adhesive resin cements, both the cement chemistry and the dentin-side pretreatment matter. The 10-MDP/calcium-silicate cement TheraCem ([[resin/theracem-bisco-product-reference]]) anchors this branch: Mahrous (2020) found it out-bonded a non-MDP cement on enamel, dentin and zirconia, and Muller (2022) reported TheraCem among the strongest cements in dry and several aged (thermocycled) conditions, while also showing that build-up technique (incremental vs bulk) and mould use independently influence the bond. On the dentin side, Cotert (2024) tested desensitizers applied before luting zirconia with a self-adhesive cement (80 molars, thermocycled) and found resin/glutaraldehyde-type agents (Admira, Smart Protect, Gluma) *increased* shear bond strength while oxalate/fluoride agents performed worst — so desensitizer selection is part of the indirect-bonding decision, not a contraindication to it. Material choice also carries a biocompatibility trade-off: Deniz (2025), an L929/MTT study, found all three dual-cure self-adhesive cements reduced cell viability, with light-curing markedly less cytotoxic than autopolymerization (light-cured SpeedCem Plus least toxic, TheraCem Ca next) — favoring photopolymerization when access permits.
 
@@ -122,7 +122,7 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 - **Strong single-step SE 역설**: 깊은 탈회로 E&R 유사하나 이온화 매체(수분)가 중합 방해 → 더 깊은 혼성층에도 불구하고 결합력 열등
 - **E&R 나노누출 기전**: 인산 에칭 상아질에서 수지농도 gradient → 혼성층 저부가 수분 풍부·수지 부족 → 투과성 최고
 
-**임상 함의**: 접착제 평가 시 혼성층 깊이만 보는 것은 불충분 — SEM 나노누출이 결합강도의 더 강한 예측인자. 2-step SE를 오염 내성뿐 아니라 hybridization 품질 면에서도 선호해야 하는 근거. [근거강함 in-vitro]
+**임상 함의**: 접착제 평가 시 혼성층 깊이만 보는 것은 불충분 — SEM 나노누출이 결합강도의 더 강한 예측인자. 2-step SE를 오염 내성뿐 아니라 hybridization 품질 면에서도 선호해야 하는 근거. [확인 in-vitro]
 
 The 2-step SE arm that wins on hybridization quality, fatigue and contamination tolerance across these axes is the same de facto gold-standard control product detailed in [[resin-bonding/clearfil-se-bond-product-reference]] (Clearfil SE Bond / SE Bond 2, the 10-MDP self-etch reference against which the universal and HEMA-free systems above are benchmarked).
 
@@ -134,7 +134,7 @@ The 2-step SE arm that wins on hybridization quality, fatigue and contamination 
 
 The functional-monomer rationale underlying steps 2–3 is now spelled out at the chemistry level. Delgado (2025), a narrative review from the Van Meerbeek group (PubMed/Scopus/LILACS 2005–2025), maps the physico-chemical properties (MW, Log P, pKa, HAp-salt solubility, collagen interaction) of the acidic functional monomers and ranks them: **10-MDP dominates (~50% of marketed adhesives)** because its long 10-carbon spacer + phosphate group self-assembles into ~1.9-nm nano-layered 10-MDP_Ca salts, stably complexes collagen, and resists hydrolysis — out-bonding 4-META, 4-MET, 6-MHP, PENTA and Pyro-EMA (P<0.01, 64-adhesive pool). **4-META** is the weaker carboxylic alternative (two -COOH groups, hydrolyzes to 4-MET, pKa ≈ 2.9 vs 10-MDP 2.2; forms a more soluble Ca salt and does NOT stably complex collagen) yet persists in many formulations and, at 40 wt%, maintains 1-year bond stability — the canonical composition reference for the Super-Bond / 4-META-MMA-TBB resin family. This independently reinforces the in-vitro 10-MDP superiority quantified by Fehrenbach (2021), giving a mechanistic "why" for preferring MDP-containing systems throughout this page.
 
-**Substrate exception — primary (deciduous) enamel.** The MDP/SE preferences above are derived from permanent teeth; primary enamel is thinner, less mineralized, and carries a ~30 μm aprismatic surface layer that resists acid etching, so the evidence does not transfer directly. Oliveira (2025), the first Bayesian network meta-analysis on deciduous enamel (14 in-vitro studies, 35 systems, all low RoB), ranked **3-step etch-and-rinse top (highest SUCRA)**, but found a **two-bottle universal adhesive used WITH phosphoric-acid etching statistically equivalent** to it, and — crucially — **self-etch ≈ etch-and-rinse within the same step-count**, with 1-step SE without phosphoric etch ranked worst. Adding phosphoric etch to universal adhesives did not significantly raise enamel bond strength. Clinical implication for pediatric restorative/sealant work: step-count can likely be reduced (less chair time, better child compliance) on deciduous enamel — though only immediate 24 h bond strength entered the pool (no aging), so the authors explicitly call this not yet a clinical recommendation. [근거강함 (sr+ma) but in-vitro/immediate-only]
+**Substrate exception — primary (deciduous) enamel.** The MDP/SE preferences above are derived from permanent teeth; primary enamel is thinner, less mineralized, and carries a ~30 μm aprismatic surface layer that resists acid etching, so the evidence does not transfer directly. Oliveira (2025), the first Bayesian network meta-analysis on deciduous enamel (14 in-vitro studies, 35 systems, all low RoB), ranked **3-step etch-and-rinse top (highest SUCRA)**, but found a **two-bottle universal adhesive used WITH phosphoric-acid etching statistically equivalent** to it, and — crucially — **self-etch ≈ etch-and-rinse within the same step-count**, with 1-step SE without phosphoric etch ranked worst. Adding phosphoric etch to universal adhesives did not significantly raise enamel bond strength. Clinical implication for pediatric restorative/sealant work: step-count can likely be reduced (less chair time, better child compliance) on deciduous enamel — though only immediate 24 h bond strength entered the pool (no aging), so the authors explicitly call this not yet a clinical recommendation. [확인 (sr+ma) but in-vitro/immediate-only]
 4. **오염 시 대응** — system별 차별; 2-step SE는 maintain, 1-step universal은 decontamination.
 5. **임시 — Stamp** — 인택트 교합면 case에서만 활용.
 
@@ -152,7 +152,7 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 - [[overviews/zirconia-types-clinical-selection]] — 지르코니아 본딩
 
 확신도 등급:
-- 축 1·2·3·4·6 = [근거강함 in-vitro]
+- 축 1·2·3·4·6 = [확인 in-vitro]
 - 축 5 stamp = [미검증] (case report)
 
 
@@ -162,22 +162,22 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 
 접착제:
 - [[resin-bonding/clearfil-se-bond-product-reference]] — Clearfil SE Bond/SE Bond 2 제품 reference(SE gold-standard 대조군)
-- [[resin-bonding/tang-2024-hema-bpa-free-universal-adhesives-dentin]] — HEMA/BPA-free universal ≈ CSE2 > Scotchbond Universal(50k thermocycle). [근거강함 in-vitro]
-- [[resin-bonding/tsujimoto-2022-two-step-hema-free-universal-adhesive-durability]] — 2-step HEMA-free G2-Bond 법랑질 피로결합강도 최고. [근거강함 in-vitro]
-- [[resin-bonding/brkanovic-2023-universal-adhesive-systems-dentin-bond]] — thermocycling·adhesive 종류 모두 상아질 SBS 유의 영향. [근거강함 in-vitro]
-- [[resin-bonding/hurtado-2023-universal-adhesives-long-term-dentin]] — 6개월 노화 후 CSE·Scotchbond > Xeno Select. [근거강함 in-vitro]
-- [[resin-bonding/demir-2024-surface-treatments-bonding-dentin-elemental]] — 상아질 표면처리·본딩 방식이 원소조성·결합강도에 영향. [근거강함 in-vitro]
-- [[resin-bonding/sirirangsee-2025-papain-deproteinization-eroded-dentin]] — papain 탈단백이 침식상아질 self-etch µTBS 향상·안정화(UBQ 유의). [근거강함 in-vitro]
+- [[resin-bonding/tang-2024-hema-bpa-free-universal-adhesives-dentin]] — HEMA/BPA-free universal ≈ CSE2 > Scotchbond Universal(50k thermocycle). [확인 in-vitro]
+- [[resin-bonding/tsujimoto-2022-two-step-hema-free-universal-adhesive-durability]] — 2-step HEMA-free G2-Bond 법랑질 피로결합강도 최고. [확인 in-vitro]
+- [[resin-bonding/brkanovic-2023-universal-adhesive-systems-dentin-bond]] — thermocycling·adhesive 종류 모두 상아질 SBS 유의 영향. [확인 in-vitro]
+- [[resin-bonding/hurtado-2023-universal-adhesives-long-term-dentin]] — 6개월 노화 후 CSE·Scotchbond > Xeno Select. [확인 in-vitro]
+- [[resin-bonding/demir-2024-surface-treatments-bonding-dentin-elemental]] — 상아질 표면처리·본딩 방식이 원소조성·결합강도에 영향. [확인 in-vitro]
+- [[resin-bonding/sirirangsee-2025-papain-deproteinization-eroded-dentin]] — papain 탈단백이 침식상아질 self-etch µTBS 향상·안정화(UBQ 유의). [확인 in-vitro]
 
 자가접착 레진시멘트(지르코니아·간접수복 합착):
 - [[resin/theracem-bisco-product-reference]] — TheraCem(BISCO) 제품 reference
-- [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — MDP/CaF 시멘트가 비-MDP보다 결합 우위. [근거강함 in-vitro]
-- [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — 지르코니아 합착 적층기법·mould·노화 영향. [근거강함 in-vitro]
-- [[resin/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity]] — dual-cure 시멘트 세포독성: 광중합<자가중합. [근거강함 in-vitro]
+- [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — MDP/CaF 시멘트가 비-MDP보다 결합 우위. [확인 in-vitro]
+- [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — 지르코니아 합착 적층기법·mould·노화 영향. [확인 in-vitro]
+- [[resin/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity]] — dual-cure 시멘트 세포독성: 광중합<자가중합. [확인 in-vitro]
 
 **자가접착 레진시멘트 임상 생존율 (Alvarenga 2024 SR+MA, 9 RCTs)**: In-vitro 결합강도가 아닌 임상 실패율(hazard ratio)로 비교. 9편 중 8편에서 **자가접착 ≈ 기존 시멘트(nonsignificant)**; 1편에서 단일치 세라믹 크라운에서 자가접착 더 높은 실패(이상 신호). 풀링 결과 유의차 없음 → **임상 생존율 면에서도 자가접착 레진시멘트 권장 가능**. 다만 저강도/심미 세라믹 크라운에서는 기존 접착 프로토콜 고려.
 
-→ 이 근거는 in-vitro 우위(Borouziniat 2024, 지르코니아 SBS)가 **임상 생존율에서도 non-inferiority로 이어짐을 확인**하는 임상적 근거점(clinical anchor). [근거강함; abstract-only, HR 정밀값 미회수]
+→ 이 근거는 in-vitro 우위(Borouziniat 2024, 지르코니아 SBS)가 **임상 생존율에서도 non-inferiority로 이어짐을 확인**하는 임상적 근거점(clinical anchor). [확인; abstract-only, HR 정밀값 미회수]
 
 ## Related Papers
 

@@ -47,7 +47,7 @@ Narrative review (Health Science Reports Jan 2025) of AI impact across healthcar
 - AI imaging diagnostics frequently surpass human clinician accuracy in cited domains
 - Adoption obstacles: data security, budget, regulatory, ethical compliance
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - Useful as a non-dental reference for benchmarking AI maturity across medicine — dental AI lags general medical imaging AI by ~5 years
 - IBM Watson Health's well-known commercial setbacks are not addressed here; reader should weight successful-case narratives accordingly [미검증]
 - Citation-growth metric is descriptive, not impact-graded — high publication count does not equal clinical adoption

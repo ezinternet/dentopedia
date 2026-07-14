@@ -43,7 +43,7 @@ Frank Schwarz 그룹의 NMA. 주위염 골내결손 재건(GBR) 모달리티의 
 Network meta-analysis. 재건/비재건/병용 비교. (구체 SUCRA·effect는 본문 보강 필요)
 
 ## Results
-재건적 치료는 contained intrabony defect에서 결손충전·골수준에 유리하게 보고 [합의수준]. 정량 순위는 full-text 추출 필요 [미검증].
+재건적 치료는 contained intrabony defect에서 결손충전·골수준에 유리하게 보고 [확인]. 정량 순위는 full-text 추출 필요 [미검증].
 
 ## Related Papers
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — 외과 재건 단계

@@ -76,7 +76,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 ## 1. 표면처리 기전의 3차원 이론 (D1·D2·D3)
 
-[합의수준 — Ogawa 2025 narrative-review의 3D 이론 채택]
+[확인 — Ogawa 2025 narrative-review의 3D 이론 채택]
 
 | 차원 | 의미 | 임상 의미 |
 |---|---|---|
@@ -84,7 +84,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **D2: 표면 형상 (Topography)** | 마이크로·나노·계층 | 마이크로 단독 → 마이크로+나노 진화 |
 | **D3: 시간·노화 (Time/Aging)** | 탄화수소 오염 → 생물학적 노화 | **UV-PF로 역전** 가능 |
 
-**핵심 발견** [근거강함]: 표면처리 효능의 진짜 driver는 친수성(접촉각)이 아니라 **탄화수소 제거 → 양전하 (Electropositivity) 회복**.
+**핵심 발견** [확인]: 표면처리 효능의 진짜 driver는 친수성(접촉각)이 아니라 **탄화수소 제거 → 양전하 (Electropositivity) 회복**.
 
 | Confidence | 출처 | 결론 |
 |---|---|---|
@@ -92,7 +92,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **in-vitro** | [[implants/surface/minamikawa-2016-long-term-degradation-titanium-biological]] | **티타늄 생물학적 노화는 4주가 아닌 6개월까지 지속**; 친수성보다 탄화수소 오염이 주된 노화 구동자 |
 | **in-vitro** | [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] | TiO2 나노결절 (300 nm) + 마이크로피트 → UV-PF 후 7일까지 생체활성 유지; **기전은 친수성이 아닌 양전하 지속** |
 
-[claude해석] 임상 의미: **포장 후 6개월 이상 보관된 임플란트는 노화로 골유착 손실 가능**. UV-PF는 이를 역전.
+[미검증] 임상 의미: **포장 후 6개월 이상 보관된 임플란트는 노화로 골유착 손실 가능**. UV-PF는 이를 역전.
 
 ---
 
@@ -133,18 +133,18 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **animal** | [[implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]] | PSHA vs ACP (플라즈마 스프레이) | 결정성(71% HA vs <1%) 및 거칠기(Sa 3.22 vs 5.18 µm) 차이에도 불구하고 BIC·BAFO 6주·12주 동등 (P>0.86 / P>0.75) — 임플란트 매크로 형태(plateau root form)가 CaP 코팅 유형보다 골전도에 우선할 수 있음 | 비글 6마리, 36개, 6+12주 |
 | **animal** | [[implants/surface/witek-2020-boronized-surface-osseointegration]] | Boronized (BM·BAA) vs acid-etched control | BIC·BAFO 보론화군에서 시간이 지날수록 감소 (BAA BIC: 21.73%→5.93%, p<0.01; BAFO 3→6주 significant decline p<0.03), 대조군은 증가 — TiB/TiB₂ 표면에서 골 탈회(osteoid foci) 관찰, 기계적 특성 우수에도 골유착 저해 | 양 5마리, 40개, 3+6주 |
 
-**합성 결론** [근거강함]:
+**합성 결론** [확인]:
 
-- **샌드블라스팅 = 거칠기의 최소 기준** [근거강함]: Czumbel 2019 SR+MA(7 RCT, I²=0%)가 RCT 한정 근거로 확정 — 샌드블라스팅 표면은 머신드 표면 대비 임플란트 실패율을 1년 80%·5년 74% 감소시킨다. 단 MBL은 비유의 — 표면 거칠기는 **osseointegration 성공(실패율)**과 **crestal bone maintenance(MBL)**를 독립적으로 작동시킴을 시사. [claude해석]
+- **샌드블라스팅 = 거칠기의 최소 기준** [확인]: Czumbel 2019 SR+MA(7 RCT, I²=0%)가 RCT 한정 근거로 확정 — 샌드블라스팅 표면은 머신드 표면 대비 임플란트 실패율을 1년 80%·5년 74% 감소시킨다. 단 MBL은 비유의 — 표면 거칠기는 **osseointegration 성공(실패율)**과 **crestal bone maintenance(MBL)**를 독립적으로 작동시킴을 시사. [미검증]
 - **SLA/SA = 임상 표준** — 8년 94.8% 생존 (Kim 2020 retrospective); 그 표준의 출발점인 **SLA 단축 치유(~6주 부하)**의 최초 다기관 임상 근거는 Cochran 2002 (n=110/326 prospective, abutment 35 Ncm 성공 99.3%, 1·2년 성공 99.1%)로, 친수성·UV-PF 가속 부하 프로토콜이 비교되는 역사적 baseline
 - **CA (초친수성) = 더 안정적** — 5.2년 97.3% 생존, MBL 거의 무 (Kim 2022 retrospective)
 - **UV-PF = 가장 강한 7년 임상 근거** — 복잡증례에서 ISQ +21.9 (Hirota 2020 prospective); **임상 SR+MA(Lang 2022)도 등장** — OSI(골유착 속도) MD=+2.13으로 "안정성 도달 속도" 가속은 확증, 단 절대 안정성·MBL pooled 효과는 비유의(high heterogeneity·RoB)
-- **SLA vs SLActive 직접 비교 RCT 등장** — Vílchez 2025(split-mouth, n=68): 변형 SLActive와 기존 SLA가 ISQ 궤적·12개월 MBL **동등** → 친수성의 임상 우위는 "절대값"이 아니라 D3/D4·가속 부하 같은 **특정 시나리오에 한정**된다는 본 overview의 thesis를 직접 보강 [claude해석]
-- **여전히 부재** — SLA·SLActive·CA 3자 동시 비교·다기관 RCT [claude해석]
+- **SLA vs SLActive 직접 비교 RCT 등장** — Vílchez 2025(split-mouth, n=68): 변형 SLActive와 기존 SLA가 ISQ 궤적·12개월 MBL **동등** → 친수성의 임상 우위는 "절대값"이 아니라 D3/D4·가속 부하 같은 **특정 시나리오에 한정**된다는 본 overview의 thesis를 직접 보강 [미검증]
+- **여전히 부재** — SLA·SLActive·CA 3자 동시 비교·다기관 RCT [미검증]
 
 ### 2.3 친수성 표면이 무엇을 바꾸나 — Stability Dip
 
-[근거강함 — Canullo 2024 prospective, D3/D4 골]
+[확인 — Canullo 2024 prospective, D3/D4 골]
 
 | 시점 | 친수성 나노 표면 ISQ | 전통 SLA ISQ |
 |---|---|---|
@@ -160,7 +160,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 ### 3.1 기전과 효과
 
-[근거강함 — Park 2025 narrative, Ogawa 2025 narrative, Hirota 2020 prospective]
+[확인 — Park 2025 narrative, Ogawa 2025 narrative, Hirota 2020 prospective]
 
 | 효과 | 결과 | 출처 |
 |---|---|---|
@@ -171,14 +171,14 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | 세균 부착 | 생물막 형성 감소 (살균 효과는 없음) | Dorigatti 2015 in-vitro |
 | 연조직 | 부착·치유 향상 | Park 2025 |
 
-### 3.2 적응증 [합의수준]
+### 3.2 적응증 [확인]
 
 - **위축골·복잡증례** — Hirota 2020에서 100% 7년 생존
 - **D3/D4 골** — 친수성 표면군과 유사한 dip 제거
 - **재근관치료 후 임플란트** — 치유 잠재력 보조
 - **노화 임플란트 (보관 6개월 이상)** — 노화 역전
 
-### 3.3 한계 [근거강함]
+### 3.3 한계 [확인]
 
 - **암절제 (Cancer Resection) 환자: 7년 22.2%** — UV-PF는 해부학적 손상만 보상, 병태생리적 손상 (방사선·항암) 불가
 - VUV(진공자외선, 1분) 차세대 방법 등장 — 임상 근거 미성숙 (Park 2025)
@@ -194,20 +194,20 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **in-vitro** | [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] | TiO2 나노 + 마이크로 → 생체활성 7일 유지 (마이크로 단독 30–50% 감소 방지) |
 | **animal** | [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] | 나노 HA → BIC·강도 향상, 효과 표면 50 µm 이내 |
 
-[합의수준] **계층형 (메조+마이크로+나노) 표면이 이론적 최적**. 임상 product (CA·SLActive·UltraGrip 등) 다수가 이 방향.
+[확인] **계층형 (메조+마이크로+나노) 표면이 이론적 최적**. 임상 product (CA·SLActive·UltraGrip 등) 다수가 이 방향.
 
 ---
 
 ## 5. 골밀도화 (Osseodensification, OD) — 표면 아닌 술기
 
-[근거강함]
+[확인]
 
 | Confidence | 출처 | 결론 |
 |---|---|---|
 | **sr** | [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] | OD: IT 일관 상승, ISQ 가변 우위, **D3/D4 골에서 효과 최대** |
 | **sr+ma (TSFE)** | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] | TSFE에서 OD ISQ 식립시·지대주연결시 유의 우위 |
 
-**구분 주의** [claude해석]: OD는 **표면 처리가 아니라 osteotomy 기법**. Densah burs로 시상 절삭 없이 골을 측방 압축. 표면처리와 보완 관계. 상세는 [[overviews/sinus-lift-technique-selection]] 참조.
+**구분 주의** [미검증]: OD는 **표면 처리가 아니라 osteotomy 기법**. Densah burs로 시상 절삭 없이 골을 측방 압축. 표면처리와 보완 관계. 상세는 [[overviews/sinus-lift-technique-selection]] 참조.
 
 ---
 
@@ -244,13 +244,13 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
     └─ UV-PF로 노화 역전 후 사용
 ```
 
-[claude해석] 한국 임상에서 Osstem CA는 5.2년 97.3% 근거 (n=258)로 가장 검증된 초친수성 옵션. UV-PF는 별도 장비 (Therabyte 등) 필요 — 비용·workflow 검토.
+[미검증] 한국 임상에서 Osstem CA는 5.2년 97.3% 근거 (n=258)로 가장 검증된 초친수성 옵션. UV-PF는 별도 장비 (Therabyte 등) 필요 — 비용·workflow 검토.
 
 ---
 
 ## 8. 임상 적용 한 페이지 요약
 
-**표면처리 7대 원칙** [합의수준]:
+**표면처리 7대 원칙** [확인]:
 
 1. **SLA/SA가 기본 표준** — 8년 94% 생존 (Kim 2020)
 2. **D3/D4 골은 친수성 표면** — Stability dip 제거 (Canullo 2024)
@@ -289,7 +289,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 - [[implants/surface/jadhav-2026-dental-implant-surface-review]] — Narrative review of surface-modification methods (physical/chemical/mechanical), bio-functionalized surfaces, and emerging responsive coatings / 'omics / AI-guided directions (narrative-review, 2026)
 - [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Narrative review: metal/metal-oxide, polymer, and bioceramic nanoparticle coatings enhance osseointegration + add antibacterial/anti-peri-implantitis action across in vitro/in vivo (narrative-review, 2025)
 
-**갱신 메모 (2026-06-07)**: jadhav-2026·rehner-2025 두 narrative review는 본 overview의 표면처리 진화 축(SLA→SLActive→CA→UV-PF)에 **차세대 지평(나노입자 항균 코팅·responsive coating·AI 설계)**을 덧붙인다. 단 둘 다 narrative-review·전임상 중심이라 현 임상 권장(SLA 표준, 친수성 D3/D4, UV-PF 위축골)을 바꾸지 않음. [claude해석] 나노입자 항균 코팅은 peri-implantitis 예방 맥락에서 추적 가치 있으나 임상 RCT 부재.
+**갱신 메모 (2026-06-07)**: jadhav-2026·rehner-2025 두 narrative review는 본 overview의 표면처리 진화 축(SLA→SLActive→CA→UV-PF)에 **차세대 지평(나노입자 항균 코팅·responsive coating·AI 설계)**을 덧붙인다. 단 둘 다 narrative-review·전임상 중심이라 현 임상 권장(SLA 표준, 친수성 D3/D4, UV-PF 위축골)을 바꾸지 않음. [미검증] 나노입자 항균 코팅은 peri-implantitis 예방 맥락에서 추적 가치 있으나 임상 RCT 부재.
 
 ### 신규 추가 (2026-06-26) — 임상 근거 갭 충전
 

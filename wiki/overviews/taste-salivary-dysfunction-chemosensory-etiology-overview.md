@@ -112,4 +112,4 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 - 항고혈압제 비확증 = [SR — 저질 근거의 정직한 부정]
 - 쇼그렌 chemosensory 부담 = [횡단]
 - COVID 지속·공통기전 = [내러티브, 정량 pooled 아님]
-- 아연이 관통하는 공통 실 = [claude해석 — 세 논문의 아연 언급을 연결]
+- 아연이 관통하는 공통 실 = [미검증 — 세 논문의 아연 언급을 연결]

@@ -34,7 +34,7 @@ dose-dependent 증가; non-smoker 대비 heavy smoker 위험 유의하게 높음
 PubMed/Embase/Web of Science/Scopus to Jan 2019; required smoking quantity reporting; fixed/random effects MA; outcome RR with 95% CI.
 
 ## 4. Key Results
-[근거강함] Smoking → implant failure RR increases with cigarette count per day. Heavy smokers (specific threshold in paper) significantly higher failure risk than non-smokers.
+[확인] Smoking → implant failure RR increases with cigarette count per day. Heavy smokers (specific threshold in paper) significantly higher failure risk than non-smokers.
 
 ## 5. Limitations
 - Observational

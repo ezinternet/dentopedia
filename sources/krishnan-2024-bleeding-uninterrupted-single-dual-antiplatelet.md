@@ -41,7 +41,7 @@ source_collection: external
 Comparative study comparing bleeding time after extraction in SAPT vs DAPT patients, with uninterrupted antiplatelet therapy.
 
 ## 4. Key Results
-[근거강함] Both SAPT and DAPT groups bleeding controllable with local hemostasis; DAPT longer bleeding time but no clinically significant bleeding complications.
+[확인] Both SAPT and DAPT groups bleeding controllable with local hemostasis; DAPT longer bleeding time but no clinically significant bleeding complications.
 
 ## 5. Limitations
 - Single center, comparative observational

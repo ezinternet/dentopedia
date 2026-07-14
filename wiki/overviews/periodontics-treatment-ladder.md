@@ -54,24 +54,24 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 본 페이지는 wiki/periodontics/ 27+ paper의 6-axis spine. 2017 World Workshop classification → step-wise treatment → SPT 의 표준 흐름을 따르며, 급성 병소·치수치주복합병변·전신질환 발현·치주성형·재생생물학 기초 축이 추가되었다.
 
 핵심 명제 12개:
-1. **2017 새 분류 — Staging I-IV (중증도) + Grading A-C (진행속도/반응성). 모든 진단의 출발점** — Papapanou 2018 consensus. [근거강함]
-2. **EFP S3 guideline — 행동변화 → SRP ± 보조 → 외과 → SPT의 step-wise 표준** — Sanz 2020 (stage I-III), Herrera 2022 (stage IV). [합의수준]
-3. **SRP가 비수술 치료 강한 권고. 전신 doxycycline 추가 PPD 0.2-0.4 mm 감소 (효과 작음)** — Smiley 2015 가이드라인. [근거강함]
-4. **골내 결손 재생술 (GTR + 이식재, EMD + 이식재)이 OFD보다 PPD·CAL 유의 우위. 병용이 단독 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [근거강함]
-5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [합의수준]
-6. **급성 치주농양 — 배농·debridement 1차, 항생제는 전신증상·확산 시 보조; 괴사성 치주질환 — 숙주 면역상태로 분류; 치수치주복합병변 — 파절·천공 여부 + 치주염 동반 여부로 분류 (예후·치료 결정인자)** — Herrera 2018 (2017 World Workshop). [합의수준]
-7. **복합 치수치주병변의 외과 처치 — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판으로 1차 폐쇄 달성이 핵심** — Sharma 2014 narrative review. [합의수준]
-8. **전신질환의 치주 발현(혈액질환·약물·유전·당뇨·심혈관 등)은 2017 World Workshop workgroup-3 분류에서 독립축으로 인정; 치은점막 상태·외상성 교합력·보철/치아 관련 인자도 포함** — Jepsen 2018. [합의수준]
+1. **2017 새 분류 — Staging I-IV (중증도) + Grading A-C (진행속도/반응성). 모든 진단의 출발점** — Papapanou 2018 consensus. [확인]
+2. **EFP S3 guideline — 행동변화 → SRP ± 보조 → 외과 → SPT의 step-wise 표준** — Sanz 2020 (stage I-III), Herrera 2022 (stage IV). [확인]
+3. **SRP가 비수술 치료 강한 권고. 전신 doxycycline 추가 PPD 0.2-0.4 mm 감소 (효과 작음)** — Smiley 2015 가이드라인. [확인]
+4. **골내 결손 재생술 (GTR + 이식재, EMD + 이식재)이 OFD보다 PPD·CAL 유의 우위. 병용이 단독 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [확인]
+5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [확인]
+6. **급성 치주농양 — 배농·debridement 1차, 항생제는 전신증상·확산 시 보조; 괴사성 치주질환 — 숙주 면역상태로 분류; 치수치주복합병변 — 파절·천공 여부 + 치주염 동반 여부로 분류 (예후·치료 결정인자)** — Herrera 2018 (2017 World Workshop). [확인]
+7. **복합 치수치주병변의 외과 처치 — 근관 미세수술 + 동시 골이식·차폐막·유두보존 피판으로 1차 폐쇄 달성이 핵심** — Sharma 2014 narrative review. [확인]
+8. **전신질환의 치주 발현(혈액질환·약물·유전·당뇨·심혈관 등)은 2017 World Workshop workgroup-3 분류에서 독립축으로 인정; 치은점막 상태·외상성 교합력·보철/치아 관련 인자도 포함** — Jepsen 2018. [확인]
 9. **오존 겔 + SRP (조절된 T2DM + stage III grade B periodontitis, n=24 RCT): 양 군 모두 CAL·PPD·HbA1c 유의 개선, 군간 차이는 없음. 오존군에서만 방사선학적 골결손 내 유의한 개선 (RLDD 3.44→2.66 mm, p=0.008) 및 3개월 PPD 감소 (p=0.045)와 술후 통증 감소 (VAS p=0.017) 추가 이점** — Barahim 2024 RCT. [근거약함 — n=12/group]
 10. **오옥시스테롤 조합(22(S)+20(S)-hydroxycholesterol)이 LXR↔Hedgehog 신호를 통해 PDLSC 골분화 유도 + rat 발치와 골재생을 rhBMP-2와 동등 수준으로 촉진 (μCT 군간 차이는 NS) — 자연 유래 BMP-2 대안 후보** — Lee 2017 in-vitro+animal. [전임상 단계]
-11. **치주성형술 선택 3갈래: APF(각화치은 충분+치주낭/치관 문제) → FGG(각화치은 부족+퇴축 차단) → CTG(노출치근+심미)** — 합의 기반 synthesis. [합의수준]
+11. **치주성형술 선택 3갈래: APF(각화치은 충분+치주낭/치관 문제) → FGG(각화치은 부족+퇴축 차단) → CTG(노출치근+심미)** — 합의 기반 synthesis. [확인]
 12. **타액유래 다종 바이오필름 + 재구성 인간 치은 3D 모델 — 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유발, 항균제 스크리닝 플랫폼** — Buskermolen 2018 in-vitro. [기초과학]
 
 신규 테마 (2026-06 추가, 기존 5축 외):
-- **급성 치주 농양 — 배농·debridement가 1차, 항생제는 전신증상·확산 시 보조.** Herrera 2014 종설 + Dommisch 2026 SR (치주-치수 복합병소 포함 7 PICOS) + Alharbi 2019 (비치성 농양 감별 증례). [합의수준]
-- **비외과 SRP 보조 — GBT(erythritol air-polishing)가 통상 기구세정과 임상결과 동등(편의·통증 우위), 전신 항균제·국소 antiseptic·ozone은 효과크기 작거나 불확실.** Cyris 2024·Stahli 2024 RCT, Khattri 2020 Cochrane(very-low certainty), John 2017 NMA(보조제 간 우열 없음), Ramanauskaite 2020, Deepthi 2020. [근거강함]
-- **치주치료의 전신 효과 — SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Cochrane Simpson 2022·Baeza 2020), 동반 전신질환군에서 의의.** [근거강함]
-- **분류·peri-implant — Caton/Papapanou 2018(2017 분류 도입)에 더해 Wang 2025 AO/AAP 2024 peri-implant consensus 반영.** [합의수준]
+- **급성 치주 농양 — 배농·debridement가 1차, 항생제는 전신증상·확산 시 보조.** Herrera 2014 종설 + Dommisch 2026 SR (치주-치수 복합병소 포함 7 PICOS) + Alharbi 2019 (비치성 농양 감별 증례). [확인]
+- **비외과 SRP 보조 — GBT(erythritol air-polishing)가 통상 기구세정과 임상결과 동등(편의·통증 우위), 전신 항균제·국소 antiseptic·ozone은 효과크기 작거나 불확실.** Cyris 2024·Stahli 2024 RCT, Khattri 2020 Cochrane(very-low certainty), John 2017 NMA(보조제 간 우열 없음), Ramanauskaite 2020, Deepthi 2020. [확인]
+- **치주치료의 전신 효과 — SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Cochrane Simpson 2022·Baeza 2020), 동반 전신질환군에서 의의.** [확인]
+- **분류·peri-implant — Caton/Papapanou 2018(2017 분류 도입)에 더해 Wang 2025 AO/AAP 2024 peri-implant consensus 반영.** [확인]
 
 ## Results
 
@@ -103,8 +103,8 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 **임상 ladder (비외과)**:
 1. **Stage I-II** — Full-mouth SRP 1-2회 + plaque control 교육 → 4-6w 재평가 → SPT.
 2. **Stage III** — Full-mouth SRP (one-stage 또는 quadrant) + chlorhexidine 0.12% rinse 2w → 4-6w 재평가 → 잔존 pocket → 외과.
-3. **Stage III + Grade C 또는 aggressive feature** — SRP + amoxicillin 500 mg TID + metronidazole 400 mg TID 7d adjunct 고려. [합의수준]
-4. **전신질환 동반** — SRP가 CRP·IL-6·SBP 감소 — 심혈관 위험 환자에게 추가 인센티브. [근거강함]
+3. **Stage III + Grade C 또는 aggressive feature** — SRP + amoxicillin 500 mg TID + metronidazole 400 mg TID 7d adjunct 고려. [확인]
+4. **전신질환 동반** — SRP가 CRP·IL-6·SBP 감소 — 심혈관 위험 환자에게 추가 인센티브. [확인]
 5. **당뇨 동반 (T2DM, stage III grade B)** — SRP 단독으로 CAL·PPD·HbA1c 유의 개선 확인 (Barahim 2024). 오존 겔 부가 시 이르 PPD 감소·통증 감소·방사선학적 골결손 추가 이점 가능하나 소규모(n=12)로 결정적이지 않음. [근거약함]
 
 **SRP 보조제 한계 요약** (Deepthi 2020 MA, Ramanauskaite 2020, Barahim 2024):
@@ -112,7 +112,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - 방사선학적 골결손 내 이점은 Barahim 2024 오존 겔(오일 기반, 접촉시간 ≥30분)에서만 within-group 유의.
 - 기전 substrate: Buskermolen 2018 인간 치은 3D 모델 — 병원성 바이오필름이 공생 바이오필름과 다른 숙주 염증반응 유발 → 항균제 스크리닝 플랫폼 (기초 기전 참고).
 
-**오판 패턴**: "심한 치주염은 바로 외과로" — Sanz 2020 step-wise가 비외과 first. 외과는 재평가 후 잔존 pocket에만. [근거강함]
+**오판 패턴**: "심한 치주염은 바로 외과로" — Sanz 2020 step-wise가 비외과 first. 외과는 재평가 후 잔존 pocket에만. [확인]
 
 > **기구·술식 선택 (the *how* of SRP)**: GBT/에어폴리싱 vs 전통 SRP는 임상지표(PPD/CAL/BoP)에서 동등하며 GBT는 시술시간·치질 보존에서만 우위 — 분말 선택(에리스리톨)·치질 마모·치은연하 안전까지 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] 참조 (Yein 2026 SR; Cyris 2024 RCT). [근거중간]
 
@@ -368,7 +368,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 
 다음 paper들은 drug/ 카테고리에 있으나 임상 적용은 치주염 보조치료. 본 ladder의 spine 근거는 아니며, 환자별 SRP 보조 옵션 참고용. 본문 갱신 시 axis 2 (비외과 SRP ± 보조) 확장 후보.
 
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 한국 다기관 RCT (BMC Oral Health 2019, n=100): Vitamin C/E + lysozyme + carbazochrome (IGATAN F) 8주 SRP 보조 — GI 유의 감소, PD·CAL·PI 무변화. [근거강함] 단일 RCT, SRP 1차에 보조 옵션.
+- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 한국 다기관 RCT (BMC Oral Health 2019, n=100): Vitamin C/E + lysozyme + carbazochrome (IGATAN F) 8주 SRP 보조 — GI 유의 감소, PD·CAL·PI 무변화. [확인] 단일 RCT, SRP 1차에 보조 옵션.
 - [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro: Magnoliae cortex + Zea mays 추출물이 P. gingivalis 유발 inflammatory cascade 조절. [in-vitro]
 - [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 개 모델 in vivo: 동일 추출물 혼합제 항염 효과. [animal]
 
@@ -380,18 +380,18 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — 전문가 치면세균막관리 (GBT·에어폴리싱·debridement) — 축 2 SRP·축 5 SPT의 *기구·술식* 상세
 
 확신도 등급:
-- 축 1 classification = [근거강함] (2017 World Workshop consensus).
-- 축 2 비외과 = [근거강함] (EFP S3 + Cochrane).
-- 축 3 외과·재생 = [근거강함] (Stavropoulos 2021 NMA).
-- 축 3b 치수치주복합병변 = [합의수준] (Herrera 2018 WW consensus + Sharma 2014 narrative).
-- 축 4 급성 병소 = [합의수준] (Herrera 2014·2018, Dommisch 2026).
-- 축 5 SPT cadence = [합의수준] (Cochrane RCT 부족, 코호트 위주).
-- 축 6 치주성형 = [합의수준] (합의 기반, 개별 RCT 제한적).
-- 축 7 peri-implantitis = [근거강함] epidemiology, [합의수준] 치료.
+- 축 1 classification = [확인] (2017 World Workshop consensus).
+- 축 2 비외과 = [확인] (EFP S3 + Cochrane).
+- 축 3 외과·재생 = [확인] (Stavropoulos 2021 NMA).
+- 축 3b 치수치주복합병변 = [확인] (Herrera 2018 WW consensus + Sharma 2014 narrative).
+- 축 4 급성 병소 = [확인] (Herrera 2014·2018, Dommisch 2026).
+- 축 5 SPT cadence = [확인] (Cochrane RCT 부족, 코호트 위주).
+- 축 6 치주성형 = [확인] (합의 기반, 개별 RCT 제한적).
+- 축 7 peri-implantitis = [확인] epidemiology, [확인] 치료.
 - 오옥시스테롤 재생생물학 = [전임상 단계] (Lee 2017 animal).
 - 골소실 분자기전 = [기초 기전] (de Molon 2026 narrative review).
 - 조직공학 재생 (bone-PDL-cementum) = [전임상~초기임상] (Liu 2019 SR).
 - RA↔치주염 치료 link = [근거중간] (Dolcezza 2024 SR+MA, 소규모 RCT 6편).
 - 오존 겔 보조 = [근거약함] (Barahim 2024 n=12/group).
 - 축 6b STA/생물학적 폭경 = [근거중간] (Abdulkarim 2024 retrospective n=19, Huang 2021 narrative-review).
-- 축 6c 시멘트질 열개 = [합의수준] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).
+- 축 6c 시멘트질 열개 = [확인] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).

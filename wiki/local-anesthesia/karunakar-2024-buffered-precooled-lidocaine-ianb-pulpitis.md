@@ -65,7 +65,7 @@ A caution for citation: the paper is internally inconsistent. The abstract/concl
 
 ## Results
 
-[근거강함] Table 1 (mean ± SD; Kruskal–Wallis all p<0.001):
+[확인] Table 1 (mean ± SD; Kruskal–Wallis all p<0.001):
 
 | Group (n=15) | Injection pain (VAS) | Onset (s) | Efficacy score | Duration (min) |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ A caution for citation: the paper is internally inconsistent. The abstract/concl
 | Buffered | 1.84 ± 0.7 | 61.1 ± 8.7 | 1.6 ± 0.6 | 313.8 ± 36.4 |
 | Precooled | 2.41 ± 0.6 | 79.6 ± 19 | 2.5 ± 0.9 | 278 ± 39.3 |
 
-[근거강함] Buffered vs Precooled pairwise: onset p=0.034 (significant); pain p=0.359, efficacy p=0.092, duration p=0.250 (all NS). Both experimental arms vs conventional: all p<0.001.
+[확인] Buffered vs Precooled pairwise: onset p=0.034 (significant); pain p=0.359, efficacy p=0.092, duration p=0.250 (all NS). Both experimental arms vs conventional: all p<0.001.
 
-[근거강함] Anesthetic success (Table 2, Chi-square=1.462, p=0.03):
+[확인] Anesthetic success (Table 2, Chi-square=1.462, p=0.03):
 
 | Group | Success |
 |---|---|
@@ -83,15 +83,15 @@ A caution for citation: the paper is internally inconsistent. The abstract/concl
 | Buffered | 12/15 (84.2%) |
 | Precooled | 10/15 (72.0%) |
 
-[추정] The abstract reports 38.9% / 86.2% / 78.9% — inconsistent with Table 2 counts. Treat the Table 2 values (36.8/84.2/72.0%) as primary; the abstract figures appear to be a transcription error.
+[미검증] The abstract reports 38.9% / 86.2% / 78.9% — inconsistent with Table 2 counts. Treat the Table 2 values (36.8/84.2/72.0%) as primary; the abstract figures appear to be a transcription error.
 
 ## Clinical Implications for Korean Practice
 
-[합의수준] For 하악 대구치 SIP (hot tooth) where conventional IANB frequently fails, **buffering the 2% lidocaine cartridge is the highest-yield, lowest-cost upgrade** — roughly doubling success while also speeding onset and prolonging duration.
+[확인] For 하악 대구치 SIP (hot tooth) where conventional IANB frequently fails, **buffering the 2% lidocaine cartridge is the highest-yield, lowest-cost upgrade** — roughly doubling success while also speeding onset and prolonging duration.
 
-[claude해석] Precooling (ice stick + refrigerated cartridge) is a reasonable alternative when chair-side buffering supplies aren't on hand; it outperforms conventional and is statistically close to buffered except onset. The two are not mutually exclusive.
+[미검증] Precooling (ice stick + refrigerated cartridge) is a reasonable alternative when chair-side buffering supplies aren't on hand; it outperforms conventional and is statistically close to buffered except onset. The two are not mutually exclusive.
 
-[claude해석] Korean cartridges are typically 1:80,000 or 1:100,000 epinephrine 2% lidocaine; the 1:10 NaHCO3 buffering protocol applies directly. Prepare fresh — buffered solution precipitates if held too long.
+[미검증] Korean cartridges are typically 1:80,000 or 1:100,000 epinephrine 2% lidocaine; the 1:10 NaHCO3 buffering protocol applies directly. Prepare fresh — buffered solution precipitates if held too long.
 
 [wiki-living-document] Single-center n=45 with a borderline success Chi-square (p=0.03) and an internal data inconsistency. Apply the "buffering ~doubles SIP success" message as directionally strong but quantitatively soft; the larger sibling [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] (n=252) corroborates buffering's intraoperative-pain benefit in the same SIP model.
 

@@ -65,7 +65,7 @@ In vitro factorial study (Materials MDPI 2021) on zirconia crown retention with 
   - Panavia SA Cement: mixed (cohesive + adhesive)
   - GC LinkForce: adhesive (interface failure dominant)
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - **Hot acid handling caution**: 48% HF + 69% HNO₃ requires fume hood, full PPE, NaF treatment plan for skin contact, and disposal protocol — significant occupational risk for in-clinic use
 - For practical clinics: air-abrasion + MDP-containing primer + Panavia SA Cement (or equivalent) is the achievable baseline; hot acid is lab-only realistically
 - Mixed-mode failure of Panavia SA indicates true adhesion to zirconia surface; pure adhesive failure of LinkForce suggests interface dominance

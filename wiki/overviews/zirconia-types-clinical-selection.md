@@ -49,11 +49,11 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 [[dental-materials-decision-ladder]] 축 2 는 "CAD/CAM 단관·FPD vs PFM" 에서 단관은 grade 무관 PFM 대등하다고 결론. 본 페이지는 그 안 의 grade 선택 (3Y · 4Y · 5Y · 6Y/UHTZ) 을 5축으로 분해 — 결정학적 phase 와 yttria 함량이 강도·투명도·접착 거동을 결정하는 chain. Ban 2023 이 spine, Comba 2021 (5Y-PSZ 접착), Aljomard 2022 + Shah 2024 (대합치 마모), Ali 2023 (두께 파절) supporting.
 
 핵심 명제 5개:
-1. **Yttria 함량 ↑ → 투명도 ↑, 강도 ↓ — trade-off 는 결정상 비율 (tetragonal vs cubic) 로 설명** — Ban 2023 narrative-review. [근거강함]
-2. **3Y-TZP 굴곡강도 ~1200 MPa, 5Y-PSZ ~600-800 MPa, 6Y/UHTZ ~300-500 MPa** — Ban 2023 정량. 후방부 FPD 는 3Y, 전치부 단관 monolithic 은 5Y/UHTZ. [근거강함]
-3. **5Y-PSZ (cubic phase 우세) 도 MDP 화학결합 유지 — 접착 약점 아님. CoJet + 실란 + MDP primer 가 6mo 안정성 최고** — Comba 2021 in-vitro. [근거강함]
-4. **단일체 지르코니아 대합치 enamel 마모는 임상 허용 수준. 연마 < 유약 처리 (역설). Zr < 금속도재·장석도재·LDS** — Aljomard 2022 SR+MA + Shah 2024 umbrella. [근거강함]
-5. **두께 < 1 mm 시 파절 위험 급증. 모든 grade 공통, 최소 occlusal 1.5 mm 확보 필수** — Ali 2023 SR+MA. UHTZ 일수록 두께 sensitivity↑. [근거강함]
+1. **Yttria 함량 ↑ → 투명도 ↑, 강도 ↓ — trade-off 는 결정상 비율 (tetragonal vs cubic) 로 설명** — Ban 2023 narrative-review. [확인]
+2. **3Y-TZP 굴곡강도 ~1200 MPa, 5Y-PSZ ~600-800 MPa, 6Y/UHTZ ~300-500 MPa** — Ban 2023 정량. 후방부 FPD 는 3Y, 전치부 단관 monolithic 은 5Y/UHTZ. [확인]
+3. **5Y-PSZ (cubic phase 우세) 도 MDP 화학결합 유지 — 접착 약점 아님. CoJet + 실란 + MDP primer 가 6mo 안정성 최고** — Comba 2021 in-vitro. [확인]
+4. **단일체 지르코니아 대합치 enamel 마모는 임상 허용 수준. 연마 < 유약 처리 (역설). Zr < 금속도재·장석도재·LDS** — Aljomard 2022 SR+MA + Shah 2024 umbrella. [확인]
+5. **두께 < 1 mm 시 파절 위험 급증. 모든 grade 공통, 최소 occlusal 1.5 mm 확보 필수** — Ali 2023 SR+MA. UHTZ 일수록 두께 sensitivity↑. [확인]
 
 ## Key Contributions
 
@@ -69,7 +69,7 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 
 ### 축 1 — Crystallography & the Strength-Translucency Trade-off
 
-**핵심 원리**: Yttria (Y₂O₃) 가 tetragonal phase 를 안정화. 함량 ↑ → cubic phase 비율 ↑ → light scattering ↓ (투명도 ↑) but phase transformation toughening 약화 (강도 ↓). [근거강함]
+**핵심 원리**: Yttria (Y₂O₃) 가 tetragonal phase 를 안정화. 함량 ↑ → cubic phase 비율 ↑ → light scattering ↓ (투명도 ↑) but phase transformation toughening 약화 (강도 ↓). [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -86,7 +86,7 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 | 6Y / UHTZ | 6 mol%+ | mostly cub | 300-500 | ~2.5 | very high | 전치부 심미 전용 |
 | M3Y/M5Y multilayer | gradient | gradient | 변동 | 변동 | gradient | 전체 단관 (gradient 색조) |
 
-**임상 함의**: "지르코니아 = 단일 재료" 사고 회피. Grade 가 다르면 적응증·두께·접착 다 다름. [근거강함]
+**임상 함의**: "지르코니아 = 단일 재료" 사고 회피. Grade 가 다르면 적응증·두께·접착 다 다름. [확인]
 
 ### 축 2 — Grade × Indication Matrix
 
@@ -103,12 +103,12 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 | Endocrown (post-endo) | **3Y-TZP** 또는 4Y-PSZ | LDS | thickness 충분 시 long-term 우수 |
 
 **오판 패턴**:
-- "투명도 좋아 보이는 UHTZ 를 전체 부위에 사용" — UHTZ 굴곡강도 300-500 MPa. 후방부 stress 에서 파절 위험. [근거강함]
+- "투명도 좋아 보이는 UHTZ 를 전체 부위에 사용" — UHTZ 굴곡강도 300-500 MPa. 후방부 stress 에서 파절 위험. [확인]
 - "지르코니아 = 강하니까 grade 무관" — Ban 2023 의 grade 별 강도 spectrum. 적응증과 grade 매칭이 필수.
 
 ### 축 3 — Thickness-Failure Threshold
 
-**1차 권고**: 모든 grade 공통 **최소 occlusal 1.5 mm 확보**. < 1 mm 시 파절 risk 급증. UHTZ 일수록 두께 sensitivity↑. [근거강함]
+**1차 권고**: 모든 grade 공통 **최소 occlusal 1.5 mm 확보**. < 1 mm 시 파절 risk 급증. UHTZ 일수록 두께 sensitivity↑. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -125,13 +125,13 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 4. **FPD connector**: 후방부 4 mm², 전치부 9 mm² (3Y-TZP 기준). connector 단면 부족 시 파절.
 5. **Endocrown**: 두께 prerequisite + axial wall ferrule. 두께 1 mm 미만 시 LDS 또는 Zr 모두 실패율 ↑.
 
-**Lolos 2025 의 함의**: 5y 실데이터에서 FPD 베니어 칩핑이 최다 합병증. Monolithic 으로 가면 회피 가능. [근거강함]
+**Lolos 2025 의 함의**: 5y 실데이터에서 FPD 베니어 칩핑이 최다 합병증. Monolithic 으로 가면 회피 가능. [확인]
 
-**오판 패턴**: "Zr 는 강하니 minimal preparation 도 OK" — Ali 2023 SR+MA 가 두께 < 1mm 파절 risk 증가 직접 보고. [근거강함]
+**오판 패턴**: "Zr 는 강하니 minimal preparation 도 OK" — Ali 2023 SR+MA 가 두께 < 1mm 파절 risk 증가 직접 보고. [확인]
 
 ### 축 4 — Antagonist Enamel Wear
 
-**1차 권고**: 단일체 Zr 의 대합치 마모는 임상 허용. **연마 (polishing) 가 유약 (glazing) 보다 우수** (역설). Zr < 금속도재·장석도재·리튬디실리케이트 의 마모량. [근거강함]
+**1차 권고**: 단일체 Zr 의 대합치 마모는 임상 허용. **연마 (polishing) 가 유약 (glazing) 보다 우수** (역설). Zr < 금속도재·장석도재·리튬디실리케이트 의 마모량. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -146,13 +146,13 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 3. 대합치가 자연치 (특히 노인 환자 enamel 얇음) → 연마 더 엄격. Aljomard 2022 의 연마 protocol.
 4. 대합치가 도재·LDS → wear couple 동등. Zr 의 wear 이점 작음.
 
-**Aljomard 2022 의 함의**: Grade 간 차이는 마모량에서 작음. Polishing protocol 이 dominant. [근거강함]
+**Aljomard 2022 의 함의**: Grade 간 차이는 마모량에서 작음. Polishing protocol 이 dominant. [확인]
 
-**오판 패턴**: "유약이 매끄러워서 마모 적다" — Shah 2024 + Steiner 2024 직접 반박. 유약이 첫 layer 마모 후 거친 표면 노출. [근거강함]
+**오판 패턴**: "유약이 매끄러워서 마모 적다" — Shah 2024 + Steiner 2024 직접 반박. 유약이 첫 layer 마모 후 거친 표면 노출. [확인]
 
 ### 축 5 — Adhesion · Surface Treatment (grade 별 차이)
 
-**1차 권고**: 모든 grade — **Air-abrasion (50 µm Al₂O₃, 1-2 bar) + MDP-함유 primer + adhesive 또는 self-adhesive resin cement**. 5Y-PSZ 도 MDP 화학결합 유지. APC concept 모든 grade 공통. [근거강함]
+**1차 권고**: 모든 grade — **Air-abrasion (50 µm Al₂O₃, 1-2 bar) + MDP-함유 primer + adhesive 또는 self-adhesive resin cement**. 5Y-PSZ 도 MDP 화학결합 유지. APC concept 모든 grade 공통. [확인]
 
 상세 SOP 는 [[dental-materials-decision-ladder]] 축 1 (APC protocol) 위임. 본 페이지는 grade 별 차이만 기술.
 
@@ -167,7 +167,7 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 3. **UHTZ (6Y+)**: 동일 protocol. 단 두께 부족 시 air-abrasion 후 잔여 두께 < 1 mm 우려 — 검토 필요.
 4. **Multilayer (M3Y/M5Y)**: 도재 측 sandblasting 회피 — gradient 부위 균질 처리.
 
-**오판 패턴**: "5Y-PSZ 는 cubic 이라 MDP 약하다" — Comba 2021 반박. Cubic 도 hydroxyl group 노출되어 MDP 반응. [근거강함]
+**오판 패턴**: "5Y-PSZ 는 cubic 이라 MDP 약하다" — Comba 2021 반박. Cubic 도 hydroxyl group 노출되어 MDP 반응. [확인]
 
 ## Phase 2 확장 후보 (Stub)
 
@@ -218,9 +218,9 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 - [ ] 환자 안내 — "Zr 단관 = grade 에 따라 강도·심미 다름" 평어 설명서.
 
 확신도 등급 글로벌:
-- 축 1 결정학·강도 = [근거강함] (재료과학 narrative + 정량).
-- 축 2 grade × 적응증 = [근거강함] (SR+MA + 5y retrospective).
-- 축 3 두께 = [근거강함] (SR+MA + 5y).
-- 축 4 대합치 마모 = [근거강함] (SR+MA + umbrella + in vitro).
-- 축 5 접착 차이 = [합의수준] (in vitro 중심, 임상 RCT 부족).
-- 한국 가용성 = [미검증]+[claude해석].
+- 축 1 결정학·강도 = [확인] (재료과학 narrative + 정량).
+- 축 2 grade × 적응증 = [확인] (SR+MA + 5y retrospective).
+- 축 3 두께 = [확인] (SR+MA + 5y).
+- 축 4 대합치 마모 = [확인] (SR+MA + umbrella + in vitro).
+- 축 5 접착 차이 = [확인] (in vitro 중심, 임상 RCT 부족).
+- 한국 가용성 = [미검증]+[미검증].

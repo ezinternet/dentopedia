@@ -41,7 +41,7 @@ SR+MA from Malmö University on smoking effect across implant outcomes (survival
 PRISMA SR+MA; pooled effect sizes for smoker vs non-smoker.
 
 ## Results
-[근거강함] Smokers: higher implant failure and greater MBL vs non-smokers.
+[확인] Smokers: higher implant failure and greater MBL vs non-smokers.
 
 ## Limitations
 - Observational data, no RCT possible

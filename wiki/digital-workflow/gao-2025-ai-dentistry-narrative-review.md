@@ -46,7 +46,7 @@ Narrative review (Med Sci Monit 2025) synthesising AI applications across six de
 - Imaging-driven applications (radiographs, intraoral photography) most mature
 - Limitations: inaccurate annotation, limited fine-grained feature extraction, lack of universally applicable models, algorithmic bias, legal/privacy exposure
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - Practical near-term deployment is image-driven (caries detection, periapical lesion detection, cephalometric analysis); workflow-level AI lags
 - Single-institution model performance not necessarily transferable — verify on local data before clinical adoption
 - Medical-malpractice attribution under AI-assisted decision making remains an open Korean legal question — pending Medical Devices Act/AI-related guidance

@@ -22,7 +22,7 @@ source: synthesis
 > - 부하 결정: 발치와에서 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 인공적으로 낮으므로 (발치와 57.6 vs 치유골 72.9), 삽입토크 (Insertion Torque, IT) ≥35 Ncm을 1차 기준으로. 즉시부하는 IT ≥35 Ncm + ISQ ≥70 양조건 (Wittneben 2023).
 > - 타이밍 비교: 생존은 Type 1~4 모두 95% 이상, 차이는 심미. Type 1은 치료기간 단축 이득 vs 심미 위험 (20–30% 점막 퇴축, Buser 2017)의 trade-off.
 > - 장기 결과: 1년 단일치 즉시부하 생존 95.1–98.9% (MBL −0.30mm), 5년 97.1% (MBL −0.32mm, PES 7.2/14). 점막 퇴축은 1–6개월에 가장 큼.
-> - 소켓실드 (Socket Shield): 협측골 −0.5mm 우위이나 실드 노출 합병증 5–17% — 증례보고 위주로 장기 예측성 불명확. 표준 프로토콜 (gap 충전+임시치관+연조직 이식)이 더 안전. [claude해석]
+> - 소켓실드 (Socket Shield): 협측골 −0.5mm 우위이나 실드 노출 합병증 5–17% — 증례보고 위주로 장기 예측성 불명확. 표준 프로토콜 (gap 충전+임시치관+연조직 이식)이 더 안전. [미검증]
 > - 7대 임상원칙: CBCT 5항목 평가 → 3대 위험인자 확인 → gap ≥2mm 충전 → 즉시 임시치관 적극 → IT ≥35 Ncm 1차 기준 (ISQ 단독 금지) → 소켓실드 보류 → 환자에게 20–30% 퇴축 위험 사전 동의.
 
 ## Three-line Summary
@@ -58,7 +58,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 ## 1. 생리적 기초 — 발치 후 무엇이 일어나는가
 
-### 1.1 협측골 흡수는 불가피하다 [근거강함]
+### 1.1 협측골 흡수는 불가피하다 [확인]
 
 | Confidence | 출처 | 결론 | 수치 |
 |---|---|---|---|
@@ -68,9 +68,9 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **prospective(n=50)** | [[immediate-implant/covani-2010-alveolar-ridge-remodelling-single-tooth]] | 협측 중간부 흡수 39.1% (근원심의 2배); 치조정 56–65% 설측 이동 | ≥6mo |
 | **narrative-review** | [[immediate-implant/esthetic-soft-tissue/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] | **전방 상악 90%에서 협측골 <1mm**; 2/3가 3개월 내 흡수 | — |
 
-**핵심** [근거강함]: bundle bone 완전 소실은 즉시식립 자체가 막을 수 없다. **얇은 협측벽 (≤1mm)이 가장 강력한 위험인자**.
+**핵심** [확인]: bundle bone 완전 소실은 즉시식립 자체가 막을 수 없다. **얇은 협측벽 (≤1mm)이 가장 강력한 위험인자**.
 
-### 1.2 발치 전 CBCT 평가 5항목 [합의수준]
+### 1.2 발치 전 CBCT 평가 5항목 [확인]
 
 1. **협측벽 두께** (전치부 90%가 <1mm — Chappuis 2017)
 2. **협측벽 완전성** — 결손 여부
@@ -84,7 +84,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 ### 2.1 적응증 (3개 조건 모두 충족)
 
-[근거강함 — Chen 2009 ITI consensus + Buser 2017 + Wittneben 2023 SR]
+[확인 — Chen 2009 ITI consensus + Buser 2017 + Wittneben 2023 SR]
 
 | 조건 | 기준 |
 |---|---|
@@ -97,7 +97,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 ### 2.2 상대적 금기 — 위험 누적
 
-[근거강함 — Chen 2009 ITI consensus 3대 위험인자]
+[확인 — Chen 2009 ITI consensus 3대 위험인자]
 
 | 위험인자 | 결과 |
 |---|---|
@@ -110,7 +110,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | 활동성 화농성 삼출·봉와직염 | 절대 금기 |
 | 환자 흡연·당뇨 미조절 | 위험 증가 |
 
-### 2.3 절대 금기 [claude해석]
+### 2.3 절대 금기 [미검증]
 
 - 협측벽 완전 소실 + 얇은 점막
 - 광범위 골 감염 (잔존 골 부족)
@@ -124,7 +124,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **narrative-review (ITI 2017)** | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | Type 1: **20–30% 점막 퇴축 위험**; 선택기준 충족 시 감소; Type 2/3 더 예측 가능 | Type 1 위험 최대 |
 | **narrative-review** | [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] | 즉시 93.8–100%; **단일 최우수 타이밍 없음**; 환자 선택이 결정 | — |
 
-[근거강함] **생존은 어느 타이밍이든 95% 이상, 차이는 심미.** Type 1은 치료기간 단축의 이득 vs 심미 위험의 trade-off.
+[확인] **생존은 어느 타이밍이든 95% 이상, 차이는 심미.** Type 1은 치료기간 단축의 이득 vs 심미 위험의 trade-off.
 
 ---
 
@@ -139,7 +139,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **rct** | [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] | 결절 자가골 vs 이종골 — 동등 (협측 0.61 vs 0.58mm) |
 | **sr+ma** | [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | 경조직+연조직 복합 이식 = 최고 심미 결과 (PES) |
 
-[근거강함] **Gap ≥2mm = 이종골/자가골 충전 표준.** 자가골 vs 이종골은 동등.
+[확인] **Gap ≥2mm = 이종골/자가골 충전 표준.** 자가골 vs 이종골은 동등.
 
 ### 3.2 즉시 임시치관 (Immediate Provisionalization)
 
@@ -150,7 +150,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **sr** | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | 5년 생존 97.1%, MBL −0.32mm, PES 7.2 |
 | **sr+ma** | [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] | 심미부 즉시식립+즉시부하: 생존 95.1–98.9%, 1년 MBL −0.30mm |
 
-[근거강함] **즉시 임시치관은 심미부에서 적극 권장.** 단, 비기능부하 (no occlusal contact) 원칙.
+[확인] **즉시 임시치관은 심미부에서 적극 권장.** 단, 비기능부하 (no occlusal contact) 원칙.
 
 ### 3.3 연조직 관리 (Soft Tissue Management)
 
@@ -158,7 +158,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 |---|---|---|
 | **sr+ma** | [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | **경조직 + 연조직 복합 이식이 PES 최고**; CTG·콜라겐 매트릭스 차이 미확정 |
 
-[합의수준] 협측 점막 두께 부족 시 결합조직이식 (Connective Tissue Graft, CTG) 병용. 무피판 vs 피판 거상 결정은 협측벽 평가에 의존.
+[확인] 협측 점막 두께 부족 시 결합조직이식 (Connective Tissue Graft, CTG) 병용. 무피판 vs 피판 거상 결정은 협측벽 평가에 의존.
 
 ### 3.4 소켓 실드 (Socket Shield Technique) — 보류
 
@@ -168,7 +168,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **rct** | [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] | 소켓실드 −0.28mm vs 이종골 −0.94mm (협측 흡수) |
 | **sr** | [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] | **합병증 9.5%, 무합병증 생존 90.5%; 증례보고 위주 — 장기 예측성 불명확** |
 
-[claude해석] **소켓 실드는 보류 영역.** 협측 골 보존 효과는 있지만 합병증 비율이 무시 못할 수준. 표준 protocol (gap 충전 + 임시치관 + 연조직 이식)이 더 안전한 선택.
+[미검증] **소켓 실드는 보류 영역.** 협측 골 보존 효과는 있지만 합병증 비율이 무시 못할 수준. 표준 protocol (gap 충전 + 임시치관 + 연조직 이식)이 더 안전한 선택.
 
 ---
 
@@ -181,7 +181,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **retrospective** | [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] | **발치와 ISQ 57.6 vs 치유골 72.9** (p<0.001); 4개월에 수렴; ITV ≥35 Ncm가 1차 기준 |
 | **sr** | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | 즉시부하: **ISQ ≥70 + IT ≥35 Ncm 동시 충족** 권장 |
 
-[근거강함] **즉시식립 부하 결정: IT 우선, ISQ 보조.** ISQ <70이라도 IT ≥35 Ncm면 즉시부하 후보.
+[확인] **즉시식립 부하 결정: IT 우선, ISQ 보조.** ISQ <70이라도 IT ≥35 Ncm면 즉시부하 후보.
 
 상세는 [[overviews/isq-loading-threshold]] 참조.
 
@@ -191,7 +191,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 |---|---|---|
 | **case-report** | [[immediate-implant/kim-2016-immediately-placed-implant-without-primary]] | 1차 안정성 없이도 생물학적 요소 (골밀도·피질골·치유잠재력) 보상 가능; **6개월 이상 지연부하 + 변형 수술 protocol 필요** |
 
-[claude해석] 예외적 케이스에 한정. 표준은 IT ≥25 Ncm 미달이면 type-2로 전환.
+[미검증] 예외적 케이스에 한정. 표준은 IT ≥25 Ncm 미달이면 type-2로 전환.
 
 ---
 
@@ -206,7 +206,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | 5년 (즉시부하 단일치) | 97.1% | −0.32mm | Wittneben 2023 SR |
 | 1–5년 (전악 즉시) | >97% | 0.29–1.48mm | Heimes 2025 narrative |
 
-[근거강함] **생존율은 모든 시기에서 95% 이상**. 핵심은 MBL과 심미.
+[확인] **생존율은 모든 시기에서 95% 이상**. 핵심은 MBL과 심미.
 
 ### 5.2 심미 — Pink Esthetic Score (PES)
 
@@ -215,7 +215,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | Wittneben 2023 SR | 7.2 ± 1.8 / 14 | 전치부 단일치 |
 | Rondone 2024 SR+MA | 복합 이식 > 단일 이식 | 경+연조직 |
 
-[합의수준] PES 7–10/14 = 임상적으로 수용 가능. 점막 퇴축은 1–6개월에 가장 큼.
+[확인] PES 7–10/14 = 임상적으로 수용 가능. 점막 퇴축은 1–6개월에 가장 큼.
 
 ### 5.3 전악 즉시식립 (Full-Arch Immediate)
 
@@ -223,7 +223,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 |---|---|---|
 | **narrative-review** | [[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]] | 임플란트 생존 >97%, 성공 >95%, MBL 0.29–1.48mm, 보철 생존 >98%, QoL 유의 향상 |
 
-[합의수준] All-on-4/6 등 전악 즉시 protocol은 매우 안정적. 단 기계적 합병증 상존.
+[확인] All-on-4/6 등 전악 즉시 protocol은 매우 안정적. 단 기계적 합병증 상존.
 
 ---
 
@@ -244,7 +244,7 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 
 ## 7. 임상 적용 한 페이지 요약
 
-**즉시식립 7대 원칙** [합의수준]:
+**즉시식립 7대 원칙** [확인]:
 
 1. **사전 CBCT 5항목 평가** — 협측 두께·완전성·잔존골·인접골·생체형
 2. **3대 위험인자 확인** — 협측 ≤1mm, 임플란트 협측 위치, 얇은 생체형 → 누적 시 type-2로 전환

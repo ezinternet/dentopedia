@@ -44,7 +44,7 @@ Provides outcome data informing whether chronic periapical pathology must always
 Retrospective; n=69 patients / 124 implants; 3-arm; t-test/ANOVA/chi-square as appropriate.
 
 ## Results
-[합의수준] Survival rates per group reported in source. Immediate placement in chronic periapical lesion sockets feasible with appropriate debridement + augmentation strategy (specifics in paper).
+[확인] Survival rates per group reported in source. Immediate placement in chronic periapical lesion sockets feasible with appropriate debridement + augmentation strategy (specifics in paper).
 
 ## Limitations
 - Single-center retrospective

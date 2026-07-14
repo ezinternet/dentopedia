@@ -42,7 +42,7 @@ EFCD/ORCA workshop의 근관면 우식 개입 SR+MA. 비침습(고농도 불소�
 치료전략별 개별 SR(+가능 시 MA), PRISMA.
 
 ## Results
-비침습: 5000ppm F·CHX varnish·SDF가 일반 불소·placebo보다 우식 정지 우수(소수 RCT 기반) [합의수준]. 수복: composite 우위이나 모든 재료 연간 실패율 높음.
+비침습: 5000ppm F·CHX varnish·SDF가 일반 불소·placebo보다 우식 정지 우수(소수 RCT 기반) [확인]. 수복: composite 우위이나 모든 재료 연간 실패율 높음.
 
 ## Related Papers
 - [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — 수복 재료 NMA

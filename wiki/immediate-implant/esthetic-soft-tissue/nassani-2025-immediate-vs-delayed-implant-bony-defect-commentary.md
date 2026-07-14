@@ -48,7 +48,7 @@ Ten-year CBCT and clinical outcomes were acceptable in both groups. The commenta
 UMCG single-center; 10-year follow-up; n=40 patients with failing tooth + buccal bony defect ≥5 mm; randomized; CBCT outcome assessment.
 
 ## Results (Original RCT)
-[근거강함] 10-year outcomes acceptable in both groups; immediate + GBR + delayed provisionalization viable for ≥5 mm buccal defects.
+[확인] 10-year outcomes acceptable in both groups; immediate + GBR + delayed provisionalization viable for ≥5 mm buccal defects.
 
 ## Limitations
 - Original RCT single-center

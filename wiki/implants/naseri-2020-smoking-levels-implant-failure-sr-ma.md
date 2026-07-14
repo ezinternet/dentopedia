@@ -43,7 +43,7 @@ This builds beyond binary smoker/non-smoker analyses (which obscure dose-respons
 4 databases (PubMed, Embase, WoS, Scopus) through Jan 2019; required cigarettes/day reporting; fixed/random effects MA.
 
 ## Results
-[근거강함] Implant failure RR rises with cigarettes/day. Heavy smokers significantly higher risk vs non-smokers.
+[확인] Implant failure RR rises with cigarettes/day. Heavy smokers significantly higher risk vs non-smokers.
 
 ## Limitations
 - Observational base

@@ -80,7 +80,7 @@ Evidence anchor: [[immediate-implant/pranckeviciene-2024-immediate-implant-peria
 
 **Definition**: Periapical pathology without active pus, no sinus tract, no cellulitis. Includes endodontically failed teeth with periapical granuloma or cyst, and chronic low-grade abscess.
 
-**Verdict: IIP is viable** [합의수준]
+**Verdict: IIP is viable** [확인]
 
 - Pranckeviciene 2024 SR+MA: survival equivalent to non-infected sites when debridement + antibiotics applied
 - Saijeva 2020 SR+MA (n=2,281): RR=0.99 for survival; MBL, PD, mBI, MGL all NS
@@ -88,7 +88,7 @@ Evidence anchor: [[immediate-implant/pranckeviciene-2024-immediate-implant-peria
 - Amato 2025 (n=143, 7-yr mean): chronic infection group 95% survival vs non-infected 97.8% (p=0.8 NS)
 - Blus 2015 (n=168, 1-yr): chronic 100% vs non-infected 98.8%
 
-**Required protocol elements** [합의수준]:
+**Required protocol elements** [확인]:
 1. Atraumatic extraction (piezo or periotome preferred)
 2. Complete soft-tissue curettage of all granulation tissue
 3. Socket irrigation: saline ± CHX 0.12%
@@ -104,7 +104,7 @@ Evidence anchor: [[immediate-implant/pranckeviciene-2024-immediate-implant-peria
 
 **Definition**: Active pus, fluctuant swelling, or sinus tract with purulent exudate. Prati 2017 protocol criterion: "acute periapical abscess" requiring drainage.
 
-**Verdict: Early placement (8–12 weeks) preferred over immediate** [합의수준]
+**Verdict: Early placement (8–12 weeks) preferred over immediate** [확인]
 
 The key data point is Prati 2017 (n=131 flapless transmucosal implants, prospective):
 
@@ -116,7 +116,7 @@ The key data point is Prati 2017 (n=131 flapless transmucosal implants, prospect
 
 Prati's MBL hierarchy (Early < Immediate < Delayed) is counterintuitive but consistent: abscess sites, once cleared, provide a biologically active socket that osseointegrates favorably. Early placement captures this window. Pranckeviciene 2024 also cites acute infection with purulent exudate as a contraindication to immediate placement.
 
-**Practical path** [claude해석]:
+**Practical path** [미검증]:
 1. Drain abscess / extract tooth (or RCT if salvageable)
 2. 8–12 week healing interval
 3. If socket heals cleanly → implant placement (now a healed/healing site, not "infected")
@@ -130,7 +130,7 @@ Note: Muñoz-Cámara 2020 achieved 100% survival in "acute periapical infection"
 
 **Definition**: Acute infection developing days after implant placement — distinct from pre-existing socket pathology.
 
-**Verdict: High-risk event — 70.6% implant failure** [합의수준]
+**Verdict: High-risk event — 70.6% implant failure** [확인]
 
 Tabrizi 2020 (n=980; 34 developed post-op infection, 3.46% incidence):
 
@@ -165,15 +165,15 @@ Consensus from Pranckeviciene 2024 + Chrcanovic 2015 + clinical principle:
 
 **Apparent contradiction**: Muñoz-Cámara 2020 shows 100% survival placing implants immediately in "acute periapical infection" sites. Prati 2017 recommends 8–12 weeks for acute abscess.
 
-**Resolution** [claude해석]:
+**Resolution** [미검증]:
 
 The two studies classify "acute" differently:
 - **Muñoz-Cámara 2020**: "Acute periapical infection" = teeth with symptomatic periapical pathology, confirmed radiographically. Antibiotics given 7 days pre-op. No mention of purulent exudate at extraction — likely chronic/sub-acute presentation managed medically before surgery.
 - **Prati 2017**: "Acute periapical abscess" = clinical abscess requiring drainage, with intraoral/extraoral swelling. This is the true acute purulent state.
 
 **Clinical implication**: The "acute periapical infection" umbrella in the literature conflates sub-acute/chronic presentations with true purulent abscess. The clinical decision hinge is **whether purulent exudate is present at the time of extraction**:
-- No active pus at time of extraction (even if diagnosed as "acute infection" and pre-treated with antibiotics) → IIP viable [합의수준]
-- Active pus/fluctuant abscess at extraction → Early placement 8–12 weeks [합의수준]
+- No active pus at time of extraction (even if diagnosed as "acute infection" and pre-treated with antibiotics) → IIP viable [확인]
+- Active pus/fluctuant abscess at extraction → Early placement 8–12 weeks [확인]
 
 ---
 

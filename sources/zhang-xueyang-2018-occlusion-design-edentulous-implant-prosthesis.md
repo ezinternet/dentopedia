@@ -40,7 +40,7 @@ West China Journal of Stomatology 2018;36(1) · Zhang Xueyang et al. (Southern M
 Narrative review(중국어). 무치악 임플란트 교합 설계 문헌 종합.
 
 ## 4. Key Results and Benchmarks
-교합 설계가 임플란트주위 응력·치조골·합병증과 연관; 견치유도·과두 수평관계 고려 권고 [합의수준]. 정량 통합 아님(narrative). 본문 중국어 — OCR 기반.
+교합 설계가 임플란트주위 응력·치조골·합병증과 연관; 견치유도·과두 수평관계 고려 권고 [확인]. 정량 통합 아님(narrative). 본문 중국어 — OCR 기반.
 
 ## 5. Limitations and Future Work
 Narrative review(중국어), 정량 근거 없음; OCR 추출이라 세부 수치 제한.

@@ -43,7 +43,7 @@ A two-arm RCT in 40 children (6-10 y) compared two topical anesthetic gels appli
 RCT, 2 parallel groups, n=40 children (6-10 y, 20 per group, sex-balanced). Group I: 2% lignocaine jelly; Group II: 20% benzocaine gel. Applied 0.5 mL to dried mucosa, circular rubbing 1-2 min, then 2% lignocaine injection (1 mL/min). Outcome: 4-point pain scale (Topçuoglu). Independent-samples t-test, P<0.05.
 
 ## Results
-Lignocaine 2.1 ± 0.5 vs benzocaine 1.2 ± 0.6 on 4-point scale, P<0.05 — benzocaine superior. No baseline group differences. [합의수준]
+Lignocaine 2.1 ± 0.5 vs benzocaine 1.2 ± 0.6 on 4-point scale, P<0.05 — benzocaine superior. No baseline group differences. [확인]
 
 Note: directionally contrasts with Karkoutly 2024 (triple-blind RCT, n=45), which found 8% lidocaine gel NOT superior to 20% benzocaine or 5% EMLA during IANB — i.e. agent choice among topicals may matter less under stricter blinding.
 

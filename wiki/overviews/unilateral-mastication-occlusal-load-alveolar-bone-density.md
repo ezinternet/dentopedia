@@ -78,11 +78,11 @@ The alveolar-bone response is load-positive; the same unilateral chewing causes 
 5. **치조골과 과두를 섞지 말 것.** "편측저작 → 작업측 치조골 경화(↑)"와 "편측저작 → 작업측 과두 축소·변위(TMD 위험)"은 별개 축이다(Zheng 2023). 진단·설명 시 조직을 구분한다.
 
 ## Gaps & Future Research
-- **직접 인체 근거가 1편(Lee 2018, n=25)뿐**이다. CBCT HU의 절대값은 기기·FOV 의존적이라 외삽 한계가 있고, 더 큰 표본·다기기 검증이 없다 [claude해석].
+- **직접 인체 근거가 1편(Lee 2018, n=25)뿐**이다. CBCT HU의 절대값은 기기·FOV 의존적이라 외삽 한계가 있고, 더 큰 표본·다기기 검증이 없다 [미검증].
 - **기전 근거는 전부 설치류/마우스**(Chen, Xu, Liu, Hayashi)다 — 인체 치조골에서 type H 혈관·sclerostin 축의 직접 검증은 공백.
 - Chen 2023·일부는 abstract-only로 인제스트되어 **figure-level 정량값 미확보** — 필요 시 full text 재추출 대상.
 - 편측저작의 **인과 방향**(편측저작이 밀도 비대칭을 만드는가, 아니면 한쪽 불편/병소가 편측저작을 유발하는가)은 단면연구 설계상 미해결.
-- **임플란트 주위골에는 PDL이 없다** — PDL 중심의 type H/SLIT3 기전을 임플란트 부위로 직접 외삽하는 것은 불확실(Chen 2023 한계) [claude해석].
+- **임플란트 주위골에는 PDL이 없다** — PDL 중심의 type H/SLIT3 기전을 임플란트 부위로 직접 외삽하는 것은 불확실(Chen 2023 한계) [미검증].
 
 ## Related Papers
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] — anchor: 작업측 vs 비작업측 치조골 밀도(HU) 인체 CBCT 직접 비교

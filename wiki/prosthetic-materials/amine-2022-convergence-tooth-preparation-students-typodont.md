@@ -57,7 +57,7 @@ Preclinical evaluation (International Journal of Dentistry 2022) of third-year d
 - BL > MD consistent with anatomy + access constraints
 - Majority of preps fall within 6-16° recommended range
 
-## Clinical/Educational Implications [claude해석]
+## Clinical/Educational Implications [미검증]
 - Preclinical TOC values match Marghalani (King Abdulaziz) and Tiu et al. (Otago) findings — generalizable across institutions
 - Typodont vs simulator results are essentially equivalent — no compelling reason to prefer one over the other for TOC training
 - The textbook 6° ideal is unattainable even in controlled preclinical setting — curricular grading should reflect this

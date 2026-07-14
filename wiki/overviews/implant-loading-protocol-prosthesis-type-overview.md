@@ -26,17 +26,17 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 1차 안정성이 충분하면 로딩 타이밍(즉시/조기/통상) 자체는 변연골소실(Marginal Bone Loss, MBL)·중기 생존율의 결정 인자가 아니다 — 결정 변수는 로딩 타이밍이 아니라 보철 구성과 1차 안정성.
-> - 단관(Benic 2014, SR+MA 11 RCT): 즉시=통상 1년 생존(OR 0.75, 0.32–1.76)·5년 MBL(SMD −0.05) — 단 삽입토크 ≥20–45 Ncm 또는 임플란트 안정성 지수(Implant Stability Quotient, ISQ) ≥60–65 + 동시 골증대술 없을 때만 유효. [근거강함]
+> - 단관(Benic 2014, SR+MA 11 RCT): 즉시=통상 1년 생존(OR 0.75, 0.32–1.76)·5년 MBL(SMD −0.05) — 단 삽입토크 ≥20–45 Ncm 또는 임플란트 안정성 지수(Implant Stability Quotient, ISQ) ≥60–65 + 동시 골증대술 없을 때만 유효. [확인]
 > - 다수 임플란트 하악 오버덴처(Liu 2021, SR+MA): MBL 차이 없음(WMD 0.04mm)이나 즉시부하 실패율이 수치상 높음(5.03% vs 1.00%) → 안정성 확인 후 시행.
 > - 상악 full-arch 고정성(Abdunabi 2019, SR): 즉시 vs 조기/통상 동등하나 약한 근거뿐. cross-arch splinting 전제.
 > - 위축 상악 tilted vs axial 즉시부하(Mehta 2021, SR+MA): 3년 생존(RR 1.00)·MBL(MD −0.02) 동등 → 골증대 회피용 경사식립+즉시부하 조합 타당.
-> - 취약 구성 1 — 단일 정중 하악 임플란트 오버덴처(Kern 2018 RCT): 즉시부하 비열등성 입증 실패, 조기실패 9건 전부 3개월 내 집중 → 즉시부하 금기에 가까움, 지연부하 권장. [근거강함]
+> - 취약 구성 1 — 단일 정중 하악 임플란트 오버덴처(Kern 2018 RCT): 즉시부하 비열등성 입증 실패, 조기실패 9건 전부 3개월 내 집중 → 즉시부하 금기에 가까움, 지연부하 권장. [확인]
 > - 취약 구성 2 — 신선 발치와 즉시식립+즉시 임시보철(Donker 2025, prospective n=30): 1년 생존 90%(조기실패 3), 심미 양호(PES+WES 15.4/20)이나 1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수, 일반화 금지.
 > - 임상 결정: 단관은 안정성 충족+동시 GBR 없으면 즉시부하, 미달이면 통상부하 회귀.
 > - 다수 임플란트 지지 고정성 국소의치(Multiple-unit Fixed Dental Prosthesis, FDP)(Aiquel 2021, SR+MA 14편): 지연식립-즉시부하(Delayed Placement Immediate Loading, DPIL) 97.2% vs 지연식립-지연부하(Delayed Placement Delayed Loading, DPDL) 98.1% — 동등(p=.227); 즉시식립-즉시부하(Immediate Placement Immediate Loading, IPIL)만 90% 미만 유일 해당; GRADE 근거 매우 낮음. 복수 임플란트 연결(cross-arch splinting)이 즉시부하 비열등성을 뒷받침하는 기전으로 추정.
 > - **Cochrane cross-prosthesis 종합(Esposito 2013, SR+MA, 26 RCT, n=1217환자/2120임플란트)**: 즉시·조기 vs 통상 부하 — 보철 실패(RR 1.90) 및 임플란트 실패(RR 1.50) 모두 유의차 없음; MBL 차이 −0.10 mm(통계적 유의·임상적 무의미); 전제조건: 삽입토크 ≥35 Ncm. GRADE 근거 매우 낮음(이질성 높고 비교당 RCT 희소). → 본 overview의 상위 명제(안정성 충족 시 부하 타이밍 비결정 인자)를 가장 포괄적인 Cochrane 수준에서 뒷받침.
 > - 공백: 단일 임플란트 오버덴처 즉시부하 RCT 희소, full-arch 장기(>5년) 비교 부재, 로딩 타이밍×골질(D1–D4) 교호작용 미검증.
-> - 확신도: 단관 즉시부하·단일 오버덴처 금기 = [근거강함], full-arch·tilted·다수 오버덴처 = [합의수준], 즉시식립+즉시부하 선별 = [claude해석].
+> - 확신도: 단관 즉시부하·단일 오버덴처 금기 = [확인], full-arch·tilted·다수 오버덴처 = [확인], 즉시식립+즉시부하 선별 = [미검증].
 
 ## Three-line Summary
 
@@ -78,17 +78,17 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 
 ## Clinical Decision Points
 
-1. **단일 임플란트 단관 (single crown)** — 1차 안정성 충분(삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65)하고 동시 골증대術이 없으면 **즉시부하 = 통상부하** (생존·MBL 동등, Benic 2014). 안정성 미달·동시 GBR이면 통상부하로 회귀. 장기 심미 데이터도 일치 — Gjelvold 2021 RCT(n=50, healed 상악 심미부, ≥30 Ncm)는 5년 시점에 IL vs DL 생존(100% vs 95.8%)·MBL(−0.50 vs −0.54 mm)·papilla index·PES/WES가 모두 통계적 차이 없음을 보였고, 1년차에 보였던 DL의 papilla 우위는 5년에 소실(연조직 성숙). 골소실의 유일한 구동 인자는 로딩 타이밍이 아니라 흡연(−1.90 vs −0.40 mm, p=0.021)이었다. [근거강함]
+1. **단일 임플란트 단관 (single crown)** — 1차 안정성 충분(삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65)하고 동시 골증대術이 없으면 **즉시부하 = 통상부하** (생존·MBL 동등, Benic 2014). 안정성 미달·동시 GBR이면 통상부하로 회귀. 장기 심미 데이터도 일치 — Gjelvold 2021 RCT(n=50, healed 상악 심미부, ≥30 Ncm)는 5년 시점에 IL vs DL 생존(100% vs 95.8%)·MBL(−0.50 vs −0.54 mm)·papilla index·PES/WES가 모두 통계적 차이 없음을 보였고, 1년차에 보였던 DL의 papilla 우위는 5년에 소실(연조직 성숙). 골소실의 유일한 구동 인자는 로딩 타이밍이 아니라 흡연(−1.90 vs −0.40 mm, p=0.021)이었다. [확인]
 
-2. **상악 무치악 full-arch 고정성** — 즉시부하가 조기/통상부하와 동등(약한 근거, Abdunabi 2019). 위축 상악에서 **tilted 임플란트도 axial과 동등**하므로(Mehta 2021) 골증대 회피 목적의 경사 식립 + 즉시부하 조합이 타당. 단 full-arch는 다수 임플란트 연결(cross-arch splinting)이 전제. [합의수준]
+2. **상악 무치악 full-arch 고정성** — 즉시부하가 조기/통상부하와 동등(약한 근거, Abdunabi 2019). 위축 상악에서 **tilted 임플란트도 axial과 동등**하므로(Mehta 2021) 골증대 회피 목적의 경사 식립 + 즉시부하 조합이 타당. 단 full-arch는 다수 임플란트 연결(cross-arch splinting)이 전제. [확인]
 
 3. **하악 오버덴처 — 임플란트 수가 갈림길**
-   - **다수(2개 이상) 임플란트**: 즉시 ≈ 지연부하 MBL 동등하나 즉시부하 실패율이 수치상 높음 → 안정성 확인 후 시행 (Liu 2021). [합의수준]
-   - **단일 정중 임플란트**: **즉시부하 금기에 가까움** — 비열등성 입증 실패, 조기실패가 3개월 내 집중(Kern 2018). 하중분산 부재가 원인으로 추정. 단일 임플란트 오버덴처는 지연부하 권장. [근거강함]
+   - **다수(2개 이상) 임플란트**: 즉시 ≈ 지연부하 MBL 동등하나 즉시부하 실패율이 수치상 높음 → 안정성 확인 후 시행 (Liu 2021). [확인]
+   - **단일 정중 임플란트**: **즉시부하 금기에 가까움** — 비열등성 입증 실패, 조기실패가 3개월 내 집중(Kern 2018). 하중분산 부재가 원인으로 추정. 단일 임플란트 오버덴처는 지연부하 권장. [확인]
 
-4. **다수 임플란트 지지 고정성 국소의치 (multiple-unit FDP, ≥2 implants)** — The only SR+MA restricted to splinted multi-unit FDPs ([[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]], 14 studies, 21 cohort groups) found DPIL (97.2%) and DPDL (98.1%) survival statistically equivalent (3-RCT MA p=.227), and IPIL was the sole protocol below 90% survival (90%, n=20); however GRADE certainty is VERY LOW and EP-based protocols (EPIL/EPEL/EPDL) have no adequate representation in the multiple-unit FDP literature. Cross-arch splinting is likely the mechanism for the DPIL non-inferiority result relative to the unsplinted single-overdenture failure mode (Kern 2018 above). [합의수준 — GRADE very low]
+4. **다수 임플란트 지지 고정성 국소의치 (multiple-unit FDP, ≥2 implants)** — The only SR+MA restricted to splinted multi-unit FDPs ([[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]], 14 studies, 21 cohort groups) found DPIL (97.2%) and DPDL (98.1%) survival statistically equivalent (3-RCT MA p=.227), and IPIL was the sole protocol below 90% survival (90%, n=20); however GRADE certainty is VERY LOW and EP-based protocols (EPIL/EPEL/EPDL) have no adequate representation in the multiple-unit FDP literature. Cross-arch splinting is likely the mechanism for the DPIL non-inferiority result relative to the unsplinted single-overdenture failure mode (Kern 2018 above). [확인 — GRADE very low]
 
-5. **신선 발치와 즉시식립 + 즉시 임시보철 (심미부)** — 디지털 워크플로(IOS+CBCT, static CAIS, 기성 임시치아)로 1년 생존 90%, 심미 양호(Donker 2025). 단 조기실패 3/30이 발생하므로 **1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수**, 모든 즉시식립에 일반화 금지. [claude해석] → [[overviews/immediate-implant-decision-ladder]]·[[overviews/type-1a-immediate-placement-immediate-loading-decision]] 연계.
+5. **신선 발치와 즉시식립 + 즉시 임시보철 (심미부)** — 디지털 워크플로(IOS+CBCT, static CAIS, 기성 임시치아)로 1년 생존 90%, 심미 양호(Donker 2025). 단 조기실패 3/30이 발생하므로 **1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수**, 모든 즉시식립에 일반화 금지. [미검증] → [[overviews/immediate-implant-decision-ladder]]·[[overviews/type-1a-immediate-placement-immediate-loading-decision]] 연계.
 
 ## Gaps & Future Research
 
@@ -118,8 +118,8 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 즉시식립+즉시부하
 
 확신도 등급:
-- 단관 즉시부하(안정성 충족) = [근거강함] (Benic SR+MA)
-- full-arch·tilted = [합의수준] (Abdunabi SR 약근거, Mehta SR+MA)
-- 다수 오버덴처 = [합의수준] / 단일 오버덴처 금기 = [근거강함] (Kern RCT)
-- 다수 임플란트 지지 FDP 즉시부하 = [합의수준 — GRADE very low] (Aiquel SR+MA)
-- 즉시식립+즉시부하 선별 = [claude해석] (Donker prospective, 단일군)
+- 단관 즉시부하(안정성 충족) = [확인] (Benic SR+MA)
+- full-arch·tilted = [확인] (Abdunabi SR 약근거, Mehta SR+MA)
+- 다수 오버덴처 = [확인] / 단일 오버덴처 금기 = [확인] (Kern RCT)
+- 다수 임플란트 지지 FDP 즉시부하 = [확인 — GRADE very low] (Aiquel SR+MA)
+- 즉시식립+즉시부하 선별 = [미검증] (Donker prospective, 단일군)

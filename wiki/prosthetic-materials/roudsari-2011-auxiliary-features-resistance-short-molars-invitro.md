@@ -53,7 +53,7 @@ In vitro study (Journal of Prosthetic Dentistry November 2011) testing two pract
 - Cervical TOC reduction (Rdc): also significantly > Ctrl
 - Both auxiliary strategies restore resistance form
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - For short molar preps where TOC inevitably exceeds 22°, **proximal grooves** are the simpler clinical add-on — drill MD or DM proximal groove with cylindrical bur
 - **Cervical-only TOC reduction** requires more precise instrumentation but preserves occlusal aspect for retention while improving cervical fit
 - Both options should be in routine clinical toolkit for short molar / overprepared cases

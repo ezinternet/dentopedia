@@ -65,9 +65,9 @@ CTS 분야 가장 큰 real-world cohort. SR/umbrella가 다루지 못한 actual 
 
 ## Strengths and Caveats
 [prospective] 가장 큰 real-world cohort — 분야 가치 높음
-[합의수준] Cuspal coverage 권고는 Kaur 2026 umbrella와 부합
-[claude해석] Observational — RCT level 아님. PBRN 참여 임상은 motivated → selection bias 가능
-[근거강함] 3년 추적 + 다기관 — 실제 임상 representativeness 높음
+[확인] Cuspal coverage 권고는 Kaur 2026 umbrella와 부합
+[미검증] Observational — RCT level 아님. PBRN 참여 임상은 motivated → selection bias 가능
+[확인] 3년 추적 + 다기관 — 실제 임상 representativeness 높음
 
 ## Related Papers
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — 치료 umbrella (일관)

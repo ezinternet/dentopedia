@@ -64,7 +64,7 @@ In vitro factorial study (Saudi Dental Journal 2024) on aged provisional molar c
 - 3D printed ≈ 2-3× milled across configurations
 - Best for extended periods: 3D printed + 20° TOC + shoulder
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - **Provisional protocol shift**: 3D-printed provisionals retain better than milled even with high TOC, useful for long-span temporaries or staged ortho-resto cases
 - The 20° TOC + 3D printed result is striking — usually higher TOC reduces retention. Likely the printed resin's surface texture and slight expansion create micromechanical lock; counterintuitive but reproducible across both finish lines
 - For Korean clinics with milling-only workflows, transitioning to 3D-printed provisionals (for extended use cases like 6-month TMD splint or staged implant healing) gives meaningful retention margin

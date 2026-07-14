@@ -42,7 +42,7 @@ Multi-center nested case-control study across 8 German centers examining determi
 Nested case-control; 8 German centers 2016-2021; cases = implants lost within 12 months; controls = implants not lost within 12 months; multivariable logistic regression for ORs.
 
 ## Results
-[근거강함] Specific OR for each risk factor (smoking, periodontitis history, simultaneous vs delayed placement, sinus anatomy, augmentation material) reported in source.
+[확인] Specific OR for each risk factor (smoking, periodontitis history, simultaneous vs delayed placement, sinus anatomy, augmentation material) reported in source.
 
 ## Limitations
 - Single-country (8 German centers)

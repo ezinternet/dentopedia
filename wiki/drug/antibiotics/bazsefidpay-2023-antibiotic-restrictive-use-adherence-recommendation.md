@@ -42,7 +42,7 @@ Swedish Karolinska Institutet observational study assessing adherence to restric
 Adherence audit + complication monitoring within Swedish restrictive prescribing context.
 
 ## Results
-[합의수준] Restrictive prescribing safe; adherence variable across dentists/practices.
+[확인] Restrictive prescribing safe; adherence variable across dentists/practices.
 
 ## Limitations
 - Single country; Sweden has long-established restrictive prescribing culture

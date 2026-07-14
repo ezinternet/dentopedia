@@ -39,7 +39,7 @@ Within-person, single-blind randomized study comparing **chitosan-based local he
 Single-blind, within-person randomized; DAPT patients undergoing dental extractions; primary outcome bleeding time, secondary outcome healing.
 
 ## Results
-[근거강함] Chitosan superior to cellulose oxidized gauze in:
+[확인] Chitosan superior to cellulose oxidized gauze in:
 - Bleeding time (significantly shorter)
 - Healing quality
 

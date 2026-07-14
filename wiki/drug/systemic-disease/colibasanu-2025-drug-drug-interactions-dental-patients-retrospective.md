@@ -30,7 +30,7 @@ Dental clinicians should routinely screen for polypharmacy DDIs — particularly
 치과의사는 중년 심혈관 질환자에서 다약제 복용(polypharmacy) DDI — 특히 에피네프린·항고혈압제 상호작용 — 을 습관적으로 선별해야 한다; 약물쌍의 40.7%에 어떤 형태의 DDI가 존재한다.
 
 ## Summary
-Colibăsanu 등(2025, Victor Babeș 대학)은 루마니아 Timișoara 사설 치과의 연속 105명 환자 의무기록을 DrugBank Drug Interaction Checker(open-source, API-accessible, versioned)로 분석했다. 1,332 약물쌍 중 542개 DDI 발견: 주요(major) 2.3% / 중등도 25.0% / 경미 13.4% / 없음 59.3%. 환자의 45.7%가 기저질환을 보유했고 심혈관 질환이 19.0%로 최다. 주요 DDI는 31–60세 그룹(61.3%)과 ≥61세(38.7%)에 집중되었고 0–30세는 0건. 핵심 임상 예시는 epinephrine(국소마취 vasoconstrictor) + β-blocker로 인한 역설적 고혈압 위험. 31–60세에서 주요 DDI가 더 많은 이유는 [claude해석] 약물 recall과 정확한 보고 능력이 더 높기 때문일 가능성이 크다(저자도 elderly 그룹의 under-reporting을 caveat으로 언급).
+Colibăsanu 등(2025, Victor Babeș 대학)은 루마니아 Timișoara 사설 치과의 연속 105명 환자 의무기록을 DrugBank Drug Interaction Checker(open-source, API-accessible, versioned)로 분석했다. 1,332 약물쌍 중 542개 DDI 발견: 주요(major) 2.3% / 중등도 25.0% / 경미 13.4% / 없음 59.3%. 환자의 45.7%가 기저질환을 보유했고 심혈관 질환이 19.0%로 최다. 주요 DDI는 31–60세 그룹(61.3%)과 ≥61세(38.7%)에 집중되었고 0–30세는 0건. 핵심 임상 예시는 epinephrine(국소마취 vasoconstrictor) + β-blocker로 인한 역설적 고혈압 위험. 31–60세에서 주요 DDI가 더 많은 이유는 [미검증] 약물 recall과 정확한 보고 능력이 더 높기 때문일 가능성이 크다(저자도 elderly 그룹의 under-reporting을 caveat으로 언급).
 
 ## Key Contributions
 - 루마니아 치과 실세계 DDI 정량의 첫 보고 — 약물쌍 단위 542/1,332 = 40.7% 어떤 형태의 DDI.

@@ -42,7 +42,7 @@ Prospective randomized double-blind RCT in 71 emergency endodontic patients with
 Prospective double-blind RCT; n=71; ibuprofen 600mg q6h vs ibuprofen 600mg + APAP 1000mg q6h post emergency debridement.
 
 ## Results
-[근거강함] Combination → significantly less pain + less rescue medication use.
+[확인] Combination → significantly less pain + less rescue medication use.
 
 ## Limitations
 - Small (n=71), single-center

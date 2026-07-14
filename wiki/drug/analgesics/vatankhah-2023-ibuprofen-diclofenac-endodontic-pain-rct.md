@@ -45,7 +45,7 @@ Conclusion: diclofenac potassium is a viable better-tolerated alternative for es
 RCT in irreversible pulpitis patients undergoing first molar endodontic treatment; primary outcome PEP; VAS pain at multiple timepoints; pain-free rate.
 
 ## Results
-[근거강함]
+[확인]
 - Pain-free rate: diclofenac K > ibuprofen (significant)
 - Mean VAS: diclofenac K < ibuprofen (significant at multiple timepoints)
 

@@ -40,7 +40,7 @@ Frontiers in Public Health 2024;12:1501793 · Sheng-Rui Zhu, Liu-Ying Wei, Kui J
 6개 DB(~2024.3), 28편. random-effects, 하위군·메타회귀.
 
 ## 4. Key Results and Benchmarks
-OF 유병률 32%(95%CI 24-41); 신체쇠약 OR 1.67, 영양실조 OR 2.27, 식이다양성↓ OR 1.98, 사회위축 OR 1.42 [근거강함]. 설정·도구별 이질.
+OF 유병률 32%(95%CI 24-41); 신체쇠약 OR 1.67, 영양실조 OR 2.27, 식이다양성↓ OR 1.98, 사회위축 OR 1.42 [확인]. 설정·도구별 이질.
 
 ## 5. Limitations and Future Work
 평가도구 이질(OFI-6/8 등), 횡단 다수로 인과 제한.

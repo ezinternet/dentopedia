@@ -36,7 +36,7 @@ USPSTF 2022 권고문(JAMA 327:1577): ASPREE·ARRIVE·ASCEND 기반 저용량 �
 
 Driven by new evidence (ASPREE, ARRIVE, ASCEND trials, 2018) showing bleeding harms (GI, intracranial) increase with age and now outweigh the small CVD risk reduction at and above 60. The prior CRC chemoprevention argument is downgraded based on more recent data.
 
-[claude해석] Dental implications: any new aspirin started after 2022 in adults ≥60 should be questioned (likely already in current practice if discontinuation indicated). However, patients already established on aspirin for secondary prevention (post-MI, post-stroke, post-stent) are *not* affected by this — the recommendation only addresses *primary* prevention initiation. For dental management of patients on long-standing aspirin, continue to follow non-interruption protocol (see related papers).
+[미검증] Dental implications: any new aspirin started after 2022 in adults ≥60 should be questioned (likely already in current practice if discontinuation indicated). However, patients already established on aspirin for secondary prevention (post-MI, post-stroke, post-stent) are *not* affected by this — the recommendation only addresses *primary* prevention initiation. For dental management of patients on long-standing aspirin, continue to follow non-interruption protocol (see related papers).
 
 ## Key Contributions
 - Major reversal of the 2016 USPSTF aspirin recommendation.

@@ -18,16 +18,16 @@ source: synthesis
 
 > [!summary] 한국어 핵심요약
 > - 상악동거상술 (Sinus Lift) 22편 (측방창 12 + 경치조골 10) 을 횡단 합성해 잔존골 높이별 술식 선택을 4개 결정 축으로 매트릭스화한 페이지다.
-> - 핵심 임계값: 잔존골높이 (Residual Bone Height, RBH) ≥5mm = 경치조골 거상 (Transcrestal/TSFE) 1순위, <5mm = 측방창 (Lateral/LSA) 1순위 — 5mm가 critical threshold이며, 골밀도화 (Osseodensification, OD) 도입 시 4mm까지 TSFE 영역 확장. [근거강함]
+> - 핵심 임계값: 잔존골높이 (Residual Bone Height, RBH) ≥5mm = 경치조골 거상 (Transcrestal/TSFE) 1순위, <5mm = 측방창 (Lateral/LSA) 1순위 — 5mm가 critical threshold이며, 골밀도화 (Osseodensification, OD) 도입 시 4mm까지 TSFE 영역 확장. [확인]
 > - 모든 술식의 임플란트 생존율은 97–99%로 동등하다.
-> - 경치조골 내부 술기: OD가 오스테오톰 (osteotome) 대비 식립·지대주 연결 시 ISQ 유의하게 높고 (66.17 vs 54.83), 수술시간·합병증·진통제 모두 감소 — 단 SR+MA GRADE는 낮음 (Starch-Jensen 2025). [근거강함]
-> - 천공의 결정 원리: 천공 자체가 결과를 좌우하지 않고 봉합 가능 여부가 결정 — 적절히 봉합된 천공 생존율 97.68% vs 무손상 98.88% (유의차 없음, Diaz-Olivares 2021). [근거강함]
+> - 경치조골 내부 술기: OD가 오스테오톰 (osteotome) 대비 식립·지대주 연결 시 ISQ 유의하게 높고 (66.17 vs 54.83), 수술시간·합병증·진통제 모두 감소 — 단 SR+MA GRADE는 낮음 (Starch-Jensen 2025). [확인]
+> - 천공의 결정 원리: 천공 자체가 결과를 좌우하지 않고 봉합 가능 여부가 결정 — 적절히 봉합된 천공 생존율 97.68% vs 무손상 98.88% (유의차 없음, Diaz-Olivares 2021). [확인]
 > - 천공 위험 신호: 격벽 (septa) 존재 (OR >2), 측벽 두께 >2mm, 그리고 협구개 상악동 폭 (sinus width) >12mm (넓은 동, 천공 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측, Stacchi 2022).
-> - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 신생골 50% 감소 → 2단계로 전환 권장. [claude해석]
-> - 이식재 (graft) 종류는 생존율·최종 ISQ에 영향 없음 (DBBM·자가골·합성 HA/β-TCP 동등); 결정화도 (crystallinity) 가 높으면 ISQ 회복이 빠르고, 선택은 흡수 프로파일·비용 기준 (Del Fabbro 2025). [근거강함]
-> - 비이식 (graft-free) TSFE: 잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요 — 혈병/PRF만으로 생존율 97.9%, 수직 골증대 (VBG) 3.8mm (Duan 2017 SR+MA). [근거강함]
+> - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 신생골 50% 감소 → 2단계로 전환 권장. [미검증]
+> - 이식재 (graft) 종류는 생존율·최종 ISQ에 영향 없음 (DBBM·자가골·합성 HA/β-TCP 동등); 결정화도 (crystallinity) 가 높으면 ISQ 회복이 빠르고, 선택은 흡수 프로파일·비용 기준 (Del Fabbro 2025). [확인]
+> - 비이식 (graft-free) TSFE: 잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요 — 혈병/PRF만으로 생존율 97.9%, 수직 골증대 (VBG) 3.8mm (Duan 2017 SR+MA). [확인]
 > - 비이식 경치조골 거상의 천공 안전성은 **술식 의존적** — 통합 슈나이더막 천공률 1% (95% CI 0–6%)로 낮으나(Huang 2026 SR+MA, 14편/2,119부위), 천공 이질성의 66.9%를 잔존골 높이가 아닌 술식이 설명: 전통 오스테오톰 (OSFE) 0% vs 모터구동 골밀도화 (motor-driven Osseodensification, OD) 34% — graftless 자체보다 *어떤* 경치조골 술식인지가 천공을 좌우 (GRADE 매우 낮음). [근거중간]
-> - 차폐막 (barrier membrane) 루틴 사용은 근거 부족 — 생존·골형성·합병증 모두 유의차 없어 천공 봉합·연조직 차단 시에만 선택적 사용 (Starch-Jensen 2019). [근거강함]
+> - 차폐막 (barrier membrane) 루틴 사용은 근거 부족 — 생존·골형성·합병증 모두 유의차 없어 천공 봉합·연조직 차단 시에만 선택적 사용 (Starch-Jensen 2019). [확인]
 > - 술전 콘빔CT (CBCT) 체크리스트 6항목: RBH·격벽·측벽 두께·협구개 폭·막 상태(부종/낭종)·상악동 저형성 (Hypoplasia, MSH); 합병증은 TSFE가 수술 당일만 불리하고 이후 2주는 LSA가 불리 (Farina 2018) — 환자 설명 시 분리 안내.
 > - 단임플란트 대안: RBH 5–7mm에서 짧은 (≤6mm) 임플란트가 표준+거상과 동등하고 MBL이 더 적어 거상 회피 옵션이 된다 (Toledano 2022).
 
@@ -88,7 +88,7 @@ CBCT RBH 측정
 | **case-report** | [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]] | RBH 3.5mm에서도 내시경 보조 TSFE 가능 (특수기법) | 식립 ISQ 72.6 |
 | **sr+ma (n=14 RCTs)** | [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] | 단임플란트(≤6mm) = 표준+거상 동등; MBL 더 적음 | 901 implants |
 
-[근거강함] **5mm가 critical threshold**. 단, OD 도입 시 4mm까지 TSFE 가능 영역 확장.
+[확인] **5mm가 critical threshold**. 단, OD 도입 시 4mm까지 TSFE 가능 영역 확장.
 
 ---
 
@@ -103,7 +103,7 @@ CBCT RBH 측정
 | **prospective(n=16)** | [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] | OD로 경사 동저 RBH 4–7mm에서도 1년 100% | 천공 1/16 (6.25%) |
 | **narrative-review** | [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] | OD 기전: 골을 측방으로 압축 → 자가골 효과·천공 위험↓ | — |
 
-**결론** [근거강함]: TSFE에서 OD가 ISQ·합병증·수술시간 양면 우위. 다만 SR+MA GRADE = low.
+**결론** [확인]: TSFE에서 OD가 ISQ·합병증·수술시간 양면 우위. 다만 SR+MA GRADE = low.
 
 ### 2.2 비이식 TSFE (No Graft)
 
@@ -113,7 +113,7 @@ CBCT RBH 측정
 | **sr+ma (22 studies, 864 implants)** [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] | 무이식 거상(측방창+경치조골) 동시식립 **생존율 97.9%, 수직 골증대 3.8mm**; VBG 최대 결정인자 = 즉시 돌출 임플란트 길이(PILi, R² 83.9%) |
 | **sr+ma (14 studies, 2,119 sites)** [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] | **무이식 경치조골 거상 슈나이더막 천공 1% (95% CI 0–6%)**·12개월 조기실패 1%·술후 부비동염/비출혈 0건; 천공 이질성의 66.9%를 **술식**이 설명(잔존골 높이 무관) — 모터구동 OD 34% vs 전통 OSFE 0% (GRADE 매우 낮음) |
 
-[근거강함] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생. **천공 안전성은 술식 의존적**: graftless TSFE의 통합 천공률은 1%로 낮으나(Huang 2026 SR+MA, 14편/2,119부위) 이 안전성은 전통 osteotome(OSFE 천공 0%)에 한정되며, **모터구동 골밀도화(motor-driven OD)는 34% 천공**으로 술식이 잔존골 높이보다 천공의 지배적 결정인자(이질성의 66.9% 설명)다 — graftless라는 사실보다 *어떤* 경치조골 술식인지가 천공 위험을 좌우한다. [claude해석]
+[확인] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생. **천공 안전성은 술식 의존적**: graftless TSFE의 통합 천공률은 1%로 낮으나(Huang 2026 SR+MA, 14편/2,119부위) 이 안전성은 전통 osteotome(OSFE 천공 0%)에 한정되며, **모터구동 골밀도화(motor-driven OD)는 34% 천공**으로 술식이 잔존골 높이보다 천공의 지배적 결정인자(이질성의 66.9% 설명)다 — graftless라는 사실보다 *어떤* 경치조골 술식인지가 천공 위험을 좌우한다. [미검증]
 
 ### 2.3 동반 합병증 — tSFE vs LSA
 
@@ -122,7 +122,7 @@ CBCT RBH 측정
 | **rct(n=57)** | [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] | 수술 당일 통증 | 높음 | 낮음 |
 | | | 1–14일 부종·타박·비출혈 | **낮음 (유의)** | 높음 |
 
-[근거강함] **수술 당일 1일만 tSFE가 불리, 이후 2주는 LSA가 불리.** 환자 설명 시 명시.
+[확인] **수술 당일 1일만 tSFE가 불리, 이후 2주는 LSA가 불리.** 환자 설명 시 명시.
 
 ---
 
@@ -138,14 +138,14 @@ CBCT RBH 측정
 | **retrospective(n=430)** | [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]] | **협구개 상악동 폭 >12mm가 천공·조기실패 양쪽의 독립 위험인자** (천공 좁은 동 1.1% vs 넓은 동 16.1%, OR 15.5; 조기실패 OR 8.5) |
 | **narrative-review** | [[sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review]] | 상악동 저형성 (MSH) 3가지 변형 — CBCT 3D 진단 필수 |
 
-**결론** [근거강함]:
+**결론** [확인]:
 - 천공 자체는 결과를 결정하지 않는다. **봉합 가능 여부**가 결정.
 - 격벽·측벽 두께 >2mm는 사전 CBCT로 식별 필요한 핵심 위험 신호.
-- **협구개 상악동 폭 >12mm (넓은 동)**도 핵심 위험 신호 — TSFE RBH≤5mm에서 천공률 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측 (Stacchi 2022 retrospective n=430). 넓은 동은 골벽-임플란트 거리 증가로 골형성 잠재력 자체가 낮음. [합의수준]
-- 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 골형성 50% 감소 — **2단계로 전환 권장** [claude해석].
+- **협구개 상악동 폭 >12mm (넓은 동)**도 핵심 위험 신호 — TSFE RBH≤5mm에서 천공률 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측 (Stacchi 2022 retrospective n=430). 넓은 동은 골벽-임플란트 거리 증가로 골형성 잠재력 자체가 낮음. [확인]
+- 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 골형성 50% 감소 — **2단계로 전환 권장** [미검증].
 - MSH 의심 시 CBCT 3D 재구성 필수.
 
-### 3.2 사전 CBCT 체크리스트 [합의수준]
+### 3.2 사전 CBCT 체크리스트 [확인]
 
 CBCT에서 반드시 확인할 6항목:
 
@@ -168,9 +168,9 @@ CBCT에서 반드시 확인할 6항목:
 | **prospective(n=170)** | [[sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift]] | β-TCP vs HA+β-TCP — 4mo ISQ 동등 (p=0.789); 자연골과도 동등 |
 | **prospective(n=60, split-mouth)** | [[sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus]] | BBM(우골) vs PBM(돈골) — 6mo ISQ 동등 (74.65 vs 72.9); 결정화도↑ → 3mo ISQ 더 빠름 |
 
-[근거강함] **이식재 종류는 생존율·최종 ISQ에 영향 없음.** 결정화도 (Crystallinity) 가 높으면 ISQ 회복이 빨라짐. 임상 선택은 흡수 프로파일과 비용 기준.
+[확인] **이식재 종류는 생존율·최종 ISQ에 영향 없음.** 결정화도 (Crystallinity) 가 높으면 ISQ 회복이 빨라짐. 임상 선택은 흡수 프로파일과 비용 기준.
 
-**신규 근거 (2026-06) — 경치조골(TSFE/OSFE) "graft 무용론" 강화**: Sansupakorn 2024 RCT(OSFE, BCP graft vs no-graft)와 Volpe 2022(혈병·collagen sponge)·Zhao 2018 RCT는 경치조골 거상에서 **이식재 없이 혈병/공간유지만으로도 임플란트 생존·골형성이 동등**함을 시사. RBH가 충분한 TSFE에서 routine grafting의 부가가치는 제한적. [합의수준] (단, 측방창·저 RBH에는 외삽 주의) **상위 근거 보강**: Duan 2017 SR+MA(22편/864 임플란트, 측방창+경치조골 포괄)가 무이식 거상 동시식립 생존율 97.9%·VBG 3.8mm를 정량화 — graft-free 근거를 sr+ma 수준으로 격상. [근거강함] 한편 생물학적 보조재(CGF) 측면에서 Al-Aroomi 2024 SR(13편)은 CGF가 신생골·술후 후유증을 개선하는 경향을 보고하나 이질성·RCT 부족으로 확정 불가 — 이식재 무용론과 보조재 효용은 별개 축으로 해석. [claude해석]
+**신규 근거 (2026-06) — 경치조골(TSFE/OSFE) "graft 무용론" 강화**: Sansupakorn 2024 RCT(OSFE, BCP graft vs no-graft)와 Volpe 2022(혈병·collagen sponge)·Zhao 2018 RCT는 경치조골 거상에서 **이식재 없이 혈병/공간유지만으로도 임플란트 생존·골형성이 동등**함을 시사. RBH가 충분한 TSFE에서 routine grafting의 부가가치는 제한적. [확인] (단, 측방창·저 RBH에는 외삽 주의) **상위 근거 보강**: Duan 2017 SR+MA(22편/864 임플란트, 측방창+경치조골 포괄)가 무이식 거상 동시식립 생존율 97.9%·VBG 3.8mm를 정량화 — graft-free 근거를 sr+ma 수준으로 격상. [확인] 한편 생물학적 보조재(CGF) 측면에서 Al-Aroomi 2024 SR(13편)은 CGF가 신생골·술후 후유증을 개선하는 경향을 보고하나 이질성·RCT 부족으로 확정 불가 — 이식재 무용론과 보조재 효용은 별개 축으로 해석. [미검증]
 
 ### 4.2 차폐막 사용
 
@@ -178,7 +178,7 @@ CBCT에서 반드시 확인할 6항목:
 |---|---|---|
 | **sr+ma (6 RCTs)** | [[sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window]] | **차폐막 사용 vs 미사용 — 생존·골형성·합병증 모두 유의차 없음** |
 
-[근거강함] **루틴 차폐막 사용은 근거 부족.** 천공 봉합용·연조직 차단용으로 선택적 사용.
+[확인] **루틴 차폐막 사용은 근거 부족.** 천공 봉합용·연조직 차단용으로 선택적 사용.
 
 ---
 
@@ -213,7 +213,7 @@ CBCT에서 반드시 확인할 6항목:
 
 ## 7. 임상 적용 한 페이지 요약
 
-**상악동거상술 7대 원칙** [합의수준]:
+**상악동거상술 7대 원칙** [확인]:
 
 1. **CBCT 사전 평가 5항목** — RBH, 격벽, 측벽 두께, 막 상태, 저형성 변형
 2. **RBH ≥5mm**: TSFE+OD 1순위 (ISQ·합병증 양면 우위)

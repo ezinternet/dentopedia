@@ -41,7 +41,7 @@ JAMA Cardiology 2024 대규모 SR+MA (n=1,152,345 IE cases): 침습적 치과시
 SR+MA across dental procedure populations stratified by IE risk (high vs moderate vs low/unknown).
 
 ## 4. Key Results
-[근거강함]
+[확인]
 | IE risk group | Antibiotic prophylaxis effect |
 |---|---|
 | High risk | Significant reduction in IE incidence |

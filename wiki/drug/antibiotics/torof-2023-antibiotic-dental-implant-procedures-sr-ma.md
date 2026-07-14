@@ -41,7 +41,7 @@ SR+MA of RCT-level evidence on antibiotic use for dental implant placement (DIP)
 PRISMA-P-compliant SR+MA; PROSPERO registered; RCTs of antibiotic use in dental implant placement.
 
 ## Results
-[근거강함] Preoperative single-dose amoxicillin 2g → reduced early implant failure. Postoperative continuation NS for incremental benefit. Penicillin allergy alternative: clindamycin 600mg single dose.
+[확인] Preoperative single-dose amoxicillin 2g → reduced early implant failure. Postoperative continuation NS for incremental benefit. Penicillin allergy alternative: clindamycin 600mg single dose.
 
 ## Limitations
 - RCT heterogeneity (dose, duration, class)

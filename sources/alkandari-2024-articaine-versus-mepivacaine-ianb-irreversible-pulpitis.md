@@ -40,7 +40,7 @@ Cureus 2024;16(11):e73360 · Meshari Alkandari, Mohammad Alshammari, Amnah Ghale
 PubMed/Scopus/WOS/Cochrane(~2024.9). RCT. random-effects, OR/MD.
 
 ## 4. Key Results and Benchmarks
-5 RCT/568명. 성공률 OR 0.92(0.69-1.21, NS); 통증강도 articaine 우위 MD 0.59(0.31-0.86, p<0.001); 중증통증 NS [근거강함].
+5 RCT/568명. 성공률 OR 0.92(0.69-1.21, NS); 통증강도 articaine 우위 MD 0.59(0.31-0.86, p<0.001); 중증통증 NS [확인].
 
 ## 5. Limitations and Future Work
 포함 5편, 장기 비교 부족.

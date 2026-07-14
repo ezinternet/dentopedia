@@ -35,7 +35,7 @@ The key finding for clinicians: continuing aspirin perioperatively increases maj
 
 For comparing short vs long APT interruption windows specifically, the evidence was low certainty with no significant differences detected — meaning the optimal interruption duration in patients where interruption *is* chosen remains unclear.
 
-[claude해석] Dental extraction-specific extrapolation: the Shah SR is dominated by non-cardiac, non-dental surgical literature. For dental extraction in particular, the cohort and RCT data (Lu 2018, Krishnan 2024, Guardieiro 2023) consistently support non-interruption with local hemostasis — the dental bleeding setting is recoverable in ways that abdominal or neurosurgical bleeding is not.
+[미검증] Dental extraction-specific extrapolation: the Shah SR is dominated by non-cardiac, non-dental surgical literature. For dental extraction in particular, the cohort and RCT data (Lu 2018, Krishnan 2024, Guardieiro 2023) consistently support non-interruption with local hemostasis — the dental bleeding setting is recoverable in ways that abdominal or neurosurgical bleeding is not.
 
 ## Key Contributions
 - Provides the GRADE-rated quantitative basis for the modern "continue if you can, control locally" position.

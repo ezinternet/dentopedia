@@ -55,8 +55,8 @@ Single-center prospective RCT, Peking University. 33 sinus augmentation procedur
 - 측방창 접근 한정 — 경치조골 접근에는 별도 검증 필요
 
 ## Strengths and Caveats
-[근거강함] RCT 디자인, primary outcome으로 조직형태계측 사용
-[claude해석] 33개 sinus는 통계적 power 제한 — 두 군 간 효과 크기가 작아도 통계 유의차 못 잡을 가능성
+[확인] RCT 디자인, primary outcome으로 조직형태계측 사용
+[미검증] 33개 sinus는 통계적 power 제한 — 두 군 간 효과 크기가 작아도 통계 유의차 못 잡을 가능성
 [미검증] 12개월 이상 장기 추적 데이터 부재
 
 ## Related Papers

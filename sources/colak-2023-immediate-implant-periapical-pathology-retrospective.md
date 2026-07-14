@@ -34,7 +34,7 @@ Immediate implant placement in chronically infected sockets remains feasible but
 Retrospective; n=69 patients / 124 implants; 3 groups by augmentation strategy; statistical analysis (t-test, ANOVA, chi-square).
 
 ## 4. Key Results
-[합의수준] Specific survival rates per group reported in source. Chronic periapical pathology + immediate placement remains a debated indication; this study contributes outcome data.
+[확인] Specific survival rates per group reported in source. Chronic periapical pathology + immediate placement remains a debated indication; this study contributes outcome data.
 
 ## 5. Limitations
 - Single-center, retrospective

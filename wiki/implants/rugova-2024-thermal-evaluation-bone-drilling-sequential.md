@@ -59,7 +59,7 @@ Directly refutes the implicit clinical belief that "sequential drilling protects
   - **후속 enlarging drill**(2.0→2.8→3.5→4.2mm)이 osteotomy 직경을 키우면서 벽면 측방 ~2mm thermal-damaged 영역을 절제 — 정상 조건에선 thermal injury 범위가 이 안에 들어옴
 - 즉 사용자 직관("후속 drill이 손상 골 절제")은 정상 임상에서 성립. rugova의 "후속 drill이 trauma 추가" claim은 in vitro 극단치 → vital bone·irrigation 가정 시 약화.
 - 실용 take-away: pilot drill 단계는 thermal 위험 잠재 — irrigation 집중·sharp drill·간헐(peck) drilling으로 마진 확보. 그러나 정상 protocol에선 catastrophic failure 시나리오 아님.
-- [claude해석] rugova의 진짜 가치는 "**irrigation·drill sharpness 관리가 무너졌을 때 sequential drilling이 자동 안전장치가 아니다**"라는 경고 — 기본을 못 갖춘 상태의 위험 폭로.
+- [미검증] rugova의 진짜 가치는 "**irrigation·drill sharpness 관리가 무너졌을 때 sequential drilling이 자동 안전장치가 아니다**"라는 경고 — 기본을 못 갖춘 상태의 위험 폭로.
 - bernabeu-mira-2020("initial/pilot > progressive/final")과 발열 분포 신호는 일치.
 
 ## Related Papers

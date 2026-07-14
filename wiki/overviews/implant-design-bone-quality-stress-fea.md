@@ -49,9 +49,9 @@ Finite element analysis answers a question clinical trials cannot resolve cleanl
 
 The invariants: (1) **stress concentrates at the crestal cortical bone around the implant neck** — universally, regardless of design or density (Premnath 2012, Hussein 2019, Leblebicioğlu 2022); (2) **lower bone density raises peri-implant stress and implant displacement** — D4 bears the highest stress, and falling cancellous modulus increases both stress and micromotion (Leblebicioğlu 2022, Chang 2024); (3) **macro-design redistributes but never abolishes crestal concentration**.
 
-The lever: **thread geometry and body shape are the optimizable handles, and their payoff is bone-quality-dependent.** Deeper threads cut crestal stress ~40% and displacement ≥9% in D3/D4 but barely move D2 (Chang 2024). Threaded designs load the crest more than cylindrical, which distribute relatively better in D3/D4 (Premnath 2012); tapered bodies show higher peak von Mises stress than cylindrical across all densities (Hussein 2019). This makes taper a **trade-off** — it aids primary stability (Heimes 2023, macrogeometry review) yet raises functional crestal stress, so the soft-bone design choice is not a pure win. [claude해석]
+The lever: **thread geometry and body shape are the optimizable handles, and their payoff is bone-quality-dependent.** Deeper threads cut crestal stress ~40% and displacement ≥9% in D3/D4 but barely move D2 (Chang 2024). Threaded designs load the crest more than cylindrical, which distribute relatively better in D3/D4 (Premnath 2012); tapered bodies show higher peak von Mises stress than cylindrical across all densities (Hussein 2019). This makes taper a **trade-off** — it aids primary stability (Heimes 2023, macrogeometry review) yet raises functional crestal stress, so the soft-bone design choice is not a pure win. [미검증]
 
-Caveat: every input here is in silico (homogeneous/isotropic bone, static single-load, idealized osseointegration). FEA ranks and localizes stress; it does not predict survival. Treat these as mechanistic priors that explain *why* low-density bone fails more (per [[overviews/bone-quality-implant-risk-modification-overview]]), not as outcome evidence. [합의수준]
+Caveat: every input here is in silico (homogeneous/isotropic bone, static single-load, idealized osseointegration). FEA ranks and localizes stress; it does not predict survival. Treat these as mechanistic priors that explain *why* low-density bone fails more (per [[overviews/bone-quality-implant-risk-modification-overview]]), not as outcome evidence. [확인]
 
 ## Evidence Map
 
@@ -64,10 +64,10 @@ Caveat: every input here is in silico (homogeneous/isotropic bone, static single
 | Öztürk 2026 | 3D FEA, anterior | bone availability × load angle × restoration | scenario-dependent stress for single anterior implant | in-vitro |
 
 ## Clinical Decision Points
-1. **Expect crestal cortical stress concentration regardless of design** — protect the crest (avoid overload, control C/I ratio, occlusal scheme per [[overviews/implant-occlusion-loading-biomechanics-overview]]). [합의수준]
-2. **In D3/D4 bone, thread design is the highest-yield design lever.** Deeper-threaded designs reduce crestal stress and micromotion where it matters; in D2 the choice is nearly stress-neutral. [claude해석]
-3. **Taper is a trade-off, not a free win.** It boosts primary stability but raises peak crestal stress — weigh against immediate-loading intent and bone density. [claude해석]
-4. **Use FEA to rank options, not to predict survival.** Pair these priors with clinical/SR evidence on osseodensification, undersizing, and loading timing. [합의수준]
+1. **Expect crestal cortical stress concentration regardless of design** — protect the crest (avoid overload, control C/I ratio, occlusal scheme per [[overviews/implant-occlusion-loading-biomechanics-overview]]). [확인]
+2. **In D3/D4 bone, thread design is the highest-yield design lever.** Deeper-threaded designs reduce crestal stress and micromotion where it matters; in D2 the choice is nearly stress-neutral. [미검증]
+3. **Taper is a trade-off, not a free win.** It boosts primary stability but raises peak crestal stress — weigh against immediate-loading intent and bone density. [미검증]
+4. **Use FEA to rank options, not to predict survival.** Pair these priors with clinical/SR evidence on osseodensification, undersizing, and loading timing. [확인]
 
 ## Gaps & Future Research
 - Static single-load models; cyclic/fatigue loading and dynamic micromotion under-modeled.

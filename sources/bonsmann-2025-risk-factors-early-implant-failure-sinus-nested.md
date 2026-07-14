@@ -35,7 +35,7 @@ This first sinus-augmentation-specific multicenter nested case-control design qu
 Nested case-control across 8 German centers (2016-2021); cases n=129 (early implant failure within 12 months); controls n=273; multivariable logistic regression.
 
 ## 4. Key Results
-[근거강함] Specific OR for risk factors (smoking, periodontitis history, simultaneous vs delayed placement, sinus floor anatomy) reported in paper.
+[확인] Specific OR for risk factors (smoking, periodontitis history, simultaneous vs delayed placement, sinus floor anatomy) reported in paper.
 
 ## 5. Limitations
 - Single-country (Germany) 8 centers

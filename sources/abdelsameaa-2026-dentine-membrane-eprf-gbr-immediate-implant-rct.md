@@ -39,7 +39,7 @@ Both autologous biological membranes (DDBM and e-PRF) are equivalent for mandibu
 RCT; n=40 (각 군 20, 단일 임플란트), 비복원성 하악 대구치 → 즉시 식립(IS II Active, Neobiotech), 최소 35Ncm; lottery 무작위배정, sealed envelope; 평가자·통계자 blinding; ISQ(Osstell, 0/3/6/12mo), PPD, MBL·골밀도(CBCT 0/3/12/24mo); Mann-Whitney U / Friedman, effect size r.
 
 ## 4. Key Results
-[근거강함]
+[확인]
 - Implant survival 100% (24mo)
 - ISQ: 두 군 시간경과 유의 증가(p<0.001), 군간 차이 없음(all p>0.05); 12mo dentine 78 vs e-PRF 79
 - PPD: 군간 차이 없음, 24mo 둘 다 ~3.25mm (건강 범위, <3.5mm)

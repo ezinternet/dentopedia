@@ -43,7 +43,7 @@ Articaine buccal infiltration is a viable alternative to IANB for mandibular mol
 5개 DB, 소아 RCT. PRISMA. OR/SMD random-effects.
 
 ## Results
-7 RCT. 성공률 OR 1.02(0.13-7.96, NS, I²=69%); 통증 SMD 0.62(-1.37-0.12, NS) [합의수준]. BI 성공률 높은 경향.
+7 RCT. 성공률 OR 1.02(0.13-7.96, NS, I²=69%); 통증 SMD 0.62(-1.37-0.12, NS) [확인]. BI 성공률 높은 경향.
 
 ## Related Papers
 - [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]] — 성인 BI vs IANB

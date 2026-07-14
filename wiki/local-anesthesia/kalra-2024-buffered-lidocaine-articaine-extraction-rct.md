@@ -65,7 +65,7 @@ The trial is small (7 per arm), so many pairwise post-hoc comparisons were non-s
 
 ## Results
 
-[근거강함] Mean onset (seconds):
+[확인] Mean onset (seconds):
 
 | Group | First symptom | Lip numbness | Subjective | Objective |
 |---|---|---|---|---|
@@ -74,19 +74,19 @@ The trial is small (7 per arm), so many pairwise post-hoc comparisons were non-s
 | Buffered lidocaine | 30.57 | 51.85 | 82.72 | 100.00 |
 | Buffered articaine | 16.85 | 38.57 | 67.42 | 84.14 |
 
-[근거강함] Omnibus p-values: first symptom p<0.001; lip numbness p=0.003; subjective p=0.014; objective p=0.009. Direction consistent: buffered < non-buffered (same drug); articaine < lidocaine (same buffering).
+[확인] Omnibus p-values: first symptom p<0.001; lip numbness p=0.003; subjective p=0.014; objective p=0.009. Direction consistent: buffered < non-buffered (same drug); articaine < lidocaine (same buffering).
 
-[근거강함] **VAS during extraction**: χ²=4.107, **p=0.250 — no difference across the four groups.**
+[확인] **VAS during extraction**: χ²=4.107, **p=0.250 — no difference across the four groups.**
 
-[claude해석] Most individual Tukey pairwise contrasts were NOT significant (only ~4 pairs per milestone reached p<0.05), consistent with n=7/arm underpowering. The reliable conclusion is the extreme contrast (buffered articaine vs non-buffered lidocaine), not every pairwise step.
+[미검증] Most individual Tukey pairwise contrasts were NOT significant (only ~4 pairs per milestone reached p<0.05), consistent with n=7/arm underpowering. The reliable conclusion is the extreme contrast (buffered articaine vs non-buffered lidocaine), not every pairwise step.
 
-[claude해석] Because 2% lidocaine and 4% articaine differ in both concentration and molecule, "articaine fastest" confounds drug and concentration; only the within-drug buffering effect is cleanly attributable.
+[미검증] Because 2% lidocaine and 4% articaine differ in both concentration and molecule, "articaine fastest" confounds drug and concentration; only the within-drug buffering effect is cleanly attributable.
 
 ## Clinical Implications for Korean Practice
 
-[claude해석] For routine 하악 발치 IANB, chair-side buffering of the Korean-standard 2% lidocaine/1:100,000 cartridge is a low-cost way to shorten time-to-block (objective onset ~100 s buffered vs ~181 s non-buffered). The benefit is "start sooner," not "less pain during surgery" — this trial found no extraction-VAS advantage.
+[미검증] For routine 하악 발치 IANB, chair-side buffering of the Korean-standard 2% lidocaine/1:100,000 cartridge is a low-cost way to shorten time-to-block (objective onset ~100 s buffered vs ~181 s non-buffered). The benefit is "start sooner," not "less pain during surgery" — this trial found no extraction-VAS advantage.
 
-[추정] If using 4% articaine, buffering further trims onset, but buffered solutions precipitate if held too long, so prepare immediately before use.
+[미검증] If using 4% articaine, buffering further trims onset, but buffered solutions precipitate if held too long, so prepare immediately before use.
 
 [wiki-living-document] Onset-only evidence; for the injection-pain and duration benefits of buffering, see the sibling pages [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] and [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]]. Apply this page's conclusion as "buffering speeds onset," qualified by the small sample.
 

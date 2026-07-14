@@ -56,7 +56,7 @@ aspirin/clopidogrel/DAPT 지속 시 발치 후 출혈은 모두 국소 지혈로
 | DAPT continued | — |
 | Control (no antithrombotic) | baseline |
 
-[합의수준] Authors conclude: extractions can be done without interrupting warfarin (INR<4.0) or single/dual antiplatelet therapy, with local hemostasis sufficient to control bleeding.
+[확인] Authors conclude: extractions can be done without interrupting warfarin (INR<4.0) or single/dual antiplatelet therapy, with local hemostasis sufficient to control bleeding.
 
 ## 5. Limitations
 - Single center, retrospective

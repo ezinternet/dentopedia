@@ -40,7 +40,7 @@ J Prosthet Dent 2022 · Ru Zhang, Xiaoyu Hao, Kaiyu Zhang · 2022 · DOI: 10.101
 12-month prospective clinical study, 교합분석(occlusal contact).
 
 ## 4. Key Results and Benchmarks
-약교합군 상대 교합력 4.91±3.52→10.34±4.35%, 정상군 10.45±4.32→18.15±4.80%; 약교합 접촉시간이 유의하게 늦음(P<.001); 비대칭지수 정상범위(10%) 유지; 약교합군 만족도 우위. 약교합으로 force·contact time을 낮추는 효과는 시간에 따라 불안정 [근거강함]. implant-protected occlusion 개념의 임상 검증.
+약교합군 상대 교합력 4.91±3.52→10.34±4.35%, 정상군 10.45±4.32→18.15±4.80%; 약교합 접촉시간이 유의하게 늦음(P<.001); 비대칭지수 정상범위(10%) 유지; 약교합군 만족도 우위. 약교합으로 force·contact time을 낮추는 효과는 시간에 따라 불안정 [확인]. implant-protected occlusion 개념의 임상 검증.
 
 ## 5. Limitations and Future Work
 단일기관 전향, 표본 한정.

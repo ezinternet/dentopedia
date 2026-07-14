@@ -44,7 +44,7 @@ This systematic review with meta-analysis evaluated pain control during scaling 
 SR+MA. 6 databases, RCTs only, comparing intrapocket vs injectable anesthetic during SRP. Primary outcome: risk/intensity of pain. Quality: Cochrane risk-of-bias tool; meta-analysis restricted to low/unclear-risk studies. 976 identified → 6 in qualitative synthesis.
 
 ## Results
-Pain intensity: injected < topical gel (P=.03). Rescue anesthetic: injected < topical (P<.0001). Patient preference: no difference (P=.09). Risk of developing pain: similar between injected and topical. [근거강함]
+Pain intensity: injected < topical gel (P=.03). Rescue anesthetic: injected < topical (P<.0001). Patient preference: no difference (P=.09). Risk of developing pain: similar between injected and topical. [확인]
 
 ## Related Papers
 - [[local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction]] — topical-anesthetic efficacy (formulation axis); extended here to periodontal SRP context

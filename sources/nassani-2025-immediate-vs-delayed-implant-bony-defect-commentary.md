@@ -35,7 +35,7 @@ UMCG): 협측골 결손 (≥5mm) 있는 심미부위에서 immediate vs delayed 
 UMCG single-center 10-year RCT; n=40 patients with failing tooth + buccal bony defect ≥5mm; randomized to Immediate Group (immediate placement + bone grafting + delayed provisionalization) vs Delayed Group (ridge preservation → delayed placement + provisionalization). CBCT outcome assessment.
 
 ## 4. Key Results
-[근거강함] 10-year outcomes acceptable in both groups; immediate group with grafting + delayed provisionalization viable for ≥5mm defects.
+[확인] 10-year outcomes acceptable in both groups; immediate group with grafting + delayed provisionalization viable for ≥5mm defects.
 
 ## 5. Limitations (Commentary)
 - Original RCT single-center

@@ -44,7 +44,7 @@ The headline: **MRONJ development rates were equivalent between the two groups**
 Retrospective multi-center (4 Japanese institutions) comparison; cohort comparison by year; all patients received tension-free primary closure; primary outcome MRONJ rate.
 
 ## Results
-[근거강함]
+[확인]
 | Cohort | AMPC regimen | MRONJ rate |
 |---|---|---|
 | 2019-2021 (n=80) | 500mg pre + 750mg/day × 2 days | (rate in paper) |

@@ -43,7 +43,7 @@ This is the cessation-side companion to the smoking-implant-failure SRs (Naseri 
 PRISMA SR of cessation-outcome studies in periodontal and peri-implant settings.
 
 ## Results
-[합의수준] Cessation → improved periodontal indices and peri-implant outcomes vs continued smoking.
+[확인] Cessation → improved periodontal indices and peri-implant outcomes vs continued smoking.
 
 ## Limitations
 - Heterogeneous cessation interventions

@@ -46,7 +46,7 @@ Both intervention layers reduce peri-implant mucositis and peri-implantitis inci
 PRISMA SR+MA through Aug 2022; observational + interventional studies; ≥6 mo follow-up; outcomes peri-implant mucositis and/or peri-implantitis; random-effect pooling.
 
 ## Results
-[근거강함] Risk factor control (smoking cessation, periodontal management before implant, OH reinforcement, glycemic control in diabetes) reduces peri-implant disease incidence.
+[확인] Risk factor control (smoking cessation, periodontal management before implant, OH reinforcement, glycemic control in diabetes) reduces peri-implant disease incidence.
 
 ## Limitations
 - Heterogeneity in intervention definitions

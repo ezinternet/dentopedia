@@ -77,7 +77,7 @@ Both papers converge on the same causal hypothesis: mucosal thickening reflects 
 - Küçükkurt 2025 formally tested this with logistic regression: periapical lesions and periodontal disease were **significantly and independently associated** with mucosal thickening.
 - Salari 2021 makes the same claim narratively ("mucosal thickening likely reflects odontogenic irritation — consistent with adjacent periapical/periodontal pathology") without a formal regression model.
 
-**Synthesis [claude해석]:** this reframes mild-to-moderate mucosal thickening found on a pre-implant CBCT as often a *treatable, dentist-manageable* finding (extract/endodontically treat the offending tooth, resolve periodontal disease) rather than an automatic red flag requiring ENT referral. It also implies that **mucosal thickening prevalence is not a fixed population constant** — it should trend down in a practice that aggressively treats periapical and periodontal disease before implant workup, and a persistently thickened membrane after odontogenic source control merits closer scrutiny.
+**Synthesis [미검증]:** this reframes mild-to-moderate mucosal thickening found on a pre-implant CBCT as often a *treatable, dentist-manageable* finding (extract/endodontically treat the offending tooth, resolve periodontal disease) rather than an automatic red flag requiring ENT referral. It also implies that **mucosal thickening prevalence is not a fixed population constant** — it should trend down in a practice that aggressively treats periapical and periodontal disease before implant workup, and a persistently thickened membrane after odontogenic source control merits closer scrutiny.
 
 ### Demographics — what did NOT predict pathology
 
@@ -86,7 +86,7 @@ Salari 2021 explicitly tested and found **no significant association** between s
 - Sex (male 65.5% vs female 63.5%)
 - Dentition status (partial edentulism trended highest at 90.9%, but p=0.061 — did not reach significance)
 
-Küçükkurt 2025 similarly reports no significant gender difference. **Synthesis [claude해석]:** clinicians should not use age or sex to pre-screen who "needs" a more careful sinus read on CBCT — the finding is common enough, and demographically non-selective enough, that every pre-implant/pre-sinus-lift CBCT in the posterior maxilla warrants the same systematic sinus evaluation regardless of patient profile.
+Küçükkurt 2025 similarly reports no significant gender difference. **Synthesis [미검증]:** clinicians should not use age or sex to pre-screen who "needs" a more careful sinus read on CBCT — the finding is common enough, and demographically non-selective enough, that every pre-implant/pre-sinus-lift CBCT in the posterior maxilla warrants the same systematic sinus evaluation regardless of patient profile.
 
 ## Antrolith: Deep-Dive on a Rare But Distinctive Entity
 
@@ -169,7 +169,7 @@ CBCT read of the maxillary sinus (pre-implant / pre-sinus-lift)
       → FESS sequencing → OAF closure workflow
 ```
 
-**Synthesis [claude해석]:** the two prevalence studies establish that finding *some* sinus pathology on a pre-implant CBCT is the statistical norm (roughly 2 in 3 patients), not the exception — so the clinical question is almost never "is there a finding," it is "does this specific finding change the surgical plan." Mucosal thickening under a few millimeters, especially with an identifiable odontogenic cause, is compatible with proceeding. Dome-shaped cystic lesions get routed to the dedicated pseudocyst/MRC decision tree. Antroliths, despite being rare, are the entity most likely to be misread as something more ominous (osteoma, tumour) on imaging alone — their asymptomatic small form is safe to leave alone, but any diagnostic uncertainty or symptom overlap (sinusitis, fistula) should trigger workup before it triggers surgery.
+**Synthesis [미검증]:** the two prevalence studies establish that finding *some* sinus pathology on a pre-implant CBCT is the statistical norm (roughly 2 in 3 patients), not the exception — so the clinical question is almost never "is there a finding," it is "does this specific finding change the surgical plan." Mucosal thickening under a few millimeters, especially with an identifiable odontogenic cause, is compatible with proceeding. Dome-shaped cystic lesions get routed to the dedicated pseudocyst/MRC decision tree. Antroliths, despite being rare, are the entity most likely to be misread as something more ominous (osteoma, tumour) on imaging alone — their asymptomatic small form is safe to leave alone, but any diagnostic uncertainty or symptom overlap (sinusitis, fistula) should trigger workup before it triggers surgery.
 
 ## Evidence Quality — Read the Numbers With Appropriate Caution
 
@@ -203,8 +203,8 @@ CBCT read of the maxillary sinus (pre-implant / pre-sinus-lift)
 
 ## Bottom Line (한 줄 결론)
 
-[근거강함] Roughly **2 in 3 implant candidates** show some maxillary sinus pathology on CBCT (63.5–68% across two studies), and mucosal thickening — usually of odontogenic origin — accounts for the large majority of it (31–47% depending on threshold). This is the statistical norm, not an alarm signal, and most mild-to-moderate thickening is compatible with proceeding once any dental source is addressed.
+[확인] Roughly **2 in 3 implant candidates** show some maxillary sinus pathology on CBCT (63.5–68% across two studies), and mucosal thickening — usually of odontogenic origin — accounts for the large majority of it (31–47% depending on threshold). This is the statistical norm, not an alarm signal, and most mild-to-moderate thickening is compatible with proceeding once any dental source is addressed.
 
-[합의수준] Dome-shaped cystic lesions (MRC/pseudocyst, ~17% prevalence) route to the dedicated subtype/size-based decision tree in [[overviews/sinus-lift-pseudocyst-mrc-overview]]. Discrete radiopaque lesions raise a broader differential (antrolith vs. root fragment vs. tumour); small asymptomatic antroliths (prevalence 0.15–3.2%) can be observed and do not block implant/sinus-lift surgery, while symptomatic or large antroliths need surgical removal (Caldwell-Luc ± ESS) before elective sinus surgery proceeds.
+[확인] Dome-shaped cystic lesions (MRC/pseudocyst, ~17% prevalence) route to the dedicated subtype/size-based decision tree in [[overviews/sinus-lift-pseudocyst-mrc-overview]]. Discrete radiopaque lesions raise a broader differential (antrolith vs. root fragment vs. tumour); small asymptomatic antroliths (prevalence 0.15–3.2%) can be observed and do not block implant/sinus-lift surgery, while symptomatic or large antroliths need surgical removal (Caldwell-Luc ± ESS) before elective sinus surgery proceeds.
 
-[claude해석] Evidence quality is markedly two-tiered here — the prevalence numbers rest on reasonably sized cross-sectional/retrospective studies, but the entire antrolith management framework rests on two case reports (n=1 each) plus their narrative literature reviews. Use the antrolith algorithm as a clinical heuristic, communicate it to patients as such, and treat any diagnostic ambiguity (invasive margins, malignancy history, atypical CT appearance) as a trigger for histological confirmation or ENT referral rather than assumption.
+[미검증] Evidence quality is markedly two-tiered here — the prevalence numbers rest on reasonably sized cross-sectional/retrospective studies, but the entire antrolith management framework rests on two case reports (n=1 each) plus their narrative literature reviews. Use the antrolith algorithm as a clinical heuristic, communicate it to patients as such, and treat any diagnostic ambiguity (invasive margins, malignancy history, atypical CT appearance) as a trigger for histological confirmation or ENT referral rather than assumption.

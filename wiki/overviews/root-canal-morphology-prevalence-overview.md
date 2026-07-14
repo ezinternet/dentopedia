@@ -17,11 +17,11 @@ tags: [endodontics, anatomy, canal-morphology, cbct, micro-ct, prevalence, radix
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 놓친 해부(missed anatomy)는 근관치료 실패의 주요 원인이므로, 각 변이의 인구별 사전확률(population prior)을 알아야 술전 콘빔CT(Cone-Beam Computed Tomography, CBCT) 처방과 접근와동(access cavity) 수정 시점을 결정할 수 있다. 이 페이지는 치아·변이별 유병률 근거를 묶는 허브(hub)이며, C형 근관(C-shaped Canal)과 제2근심협측 근관(second mesiobuccal canal, MB2)은 각각 별도 심화 페이지로 위임한다.
-> - 하악 제1대구치 3근(distolingual root = 원심설측근, Radix Entomolaris, RE): 전세계 치아 8.85%·환자 10.3%, 양측성 약 46% (Aung 2022 SR+MA, CBCT 72편·37,994치). [근거강함]
-> - RE 인종 구배: 동아시아 24% → 유럽 2% → 아프리카 0.9% — 약 25배 차이. 동아시아 환자에선 하악 제1대구치 4개 중 1개가 여분의 설측 치근·근관을 가진다고 가정해야 함(예외가 아니라 기본값). [근거강함]
-> - 치내치(Dens Invaginatus, DI): CBCT 통합 유병률 9.0% (Gonzalez-Mancilla 2022 SR+MA, CBCT 2,009건)로 2D 방사선 추정(0.25–7.7%)의 약 2배. 상악 측절치(maxillary lateral incisor) 최다 호발, Oehlers Type I(치관 국한) 최다. [근거강함이나 study 4편으로 근거폭 좁음]
-> - 상악 견치(maxillary canine, MxC): Vertucci Type I(단일 근관) 75.4–100% 압도적 우세이나 최대 약 25%에서 변이(제2근관·연결관·부근관); 남성에서 Vertucci III(OR 2.07)·V(OR 2.93) 유의하게 많음 (Wolf 2024 SR+MA, 22편). [근거강함]
-> - 하악 제1대구치 내부해부(micro-CT gold standard): 근심근(mesial root) Vertucci Type IV(분리된 2근관) 58.7% 우세, 원심근(distal root) Type I(단일) 83.0%; 중간근심관(middle mesial canal, MMC) 최대 46%, 근심근 isthmus 10–100% (Al-Rammahi 2023 SR+MA, micro-CT 30편). 단 이 리뷰는 3근(RE)·taurodont을 설계상 제외. [근거강함이나 이질성 I²=86–87%]
+> - 하악 제1대구치 3근(distolingual root = 원심설측근, Radix Entomolaris, RE): 전세계 치아 8.85%·환자 10.3%, 양측성 약 46% (Aung 2022 SR+MA, CBCT 72편·37,994치). [확인]
+> - RE 인종 구배: 동아시아 24% → 유럽 2% → 아프리카 0.9% — 약 25배 차이. 동아시아 환자에선 하악 제1대구치 4개 중 1개가 여분의 설측 치근·근관을 가진다고 가정해야 함(예외가 아니라 기본값). [확인]
+> - 치내치(Dens Invaginatus, DI): CBCT 통합 유병률 9.0% (Gonzalez-Mancilla 2022 SR+MA, CBCT 2,009건)로 2D 방사선 추정(0.25–7.7%)의 약 2배. 상악 측절치(maxillary lateral incisor) 최다 호발, Oehlers Type I(치관 국한) 최다. [확인이나 study 4편으로 근거폭 좁음]
+> - 상악 견치(maxillary canine, MxC): Vertucci Type I(단일 근관) 75.4–100% 압도적 우세이나 최대 약 25%에서 변이(제2근관·연결관·부근관); 남성에서 Vertucci III(OR 2.07)·V(OR 2.93) 유의하게 많음 (Wolf 2024 SR+MA, 22편). [확인]
+> - 하악 제1대구치 내부해부(micro-CT gold standard): 근심근(mesial root) Vertucci Type IV(분리된 2근관) 58.7% 우세, 원심근(distal root) Type I(단일) 83.0%; 중간근심관(middle mesial canal, MMC) 최대 46%, 근심근 isthmus 10–100% (Al-Rammahi 2023 SR+MA, micro-CT 30편). 단 이 리뷰는 3근(RE)·taurodont을 설계상 제외. [확인이나 이질성 I²=86–87%]
 > - 비비구개관(nasopalatine canal, NPC): 근관 유병률이 아닌 전상악 임플란트 랜드마크 — 평균 길이 9.64 mm, 남성에서 더 길고 구개개구 전후경 큼, 내외측경은 노화로 증가; 원통형(cylindrical) 25.5%·깔때기형(funnel) 23.5% 형태 우세 (Yadav 2024 CBCT 단면연구 n=102). [근거약함, 단일집단·cross-sectional]
 > - 근거 계층(evidence tiers): micro-CT(9.9–50 µm, ex-vivo gold standard) > CBCT(in-vivo 실용 표준, 2D 대비 변이 검출 약 2배) > 2D 방사선(변이 대량 과소평가). DI 9.0% vs 2D 0.25–7.7%, MB2 CBCT ~63% vs 방사선 15%가 이 계층을 정량적으로 보여줌.
 > - 공통 임상 규칙: ①동아시아 하악 제1대구치·상악 측절치 등 고사전확률(high-prior) 상황은 CBCT 처방 임계값을 낮추고, ②변이 발견 시 접근와동을 수정(RE는 원심설측 orifice, MMC는 근심 developmental groove 홈형성)하며, ③양측성이 흔하므로(RE 46%) 반대측(contralateral) 동명치를 함께 확인한다.

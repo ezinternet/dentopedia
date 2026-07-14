@@ -54,12 +54,12 @@ The clinical implication is a staged approach: screen for past negative dental e
 
 핵심 명제 6개:
 
-1. **MI는 의료 일반에서 견고한 효과(OR 1.55, 95% CI 1.40–1.71), 짧은 상담에서도 작동** — Lundahl 2013 SR+MA(48 RCT, n=9,618). 치과 한정 subset도 일관(Kay 2016 SR, 8편/5 RCT 전부 양성). [근거강함]
-2. **그러나 성인 구강 outcome으로 좁히면 효과는 약화** — Cartes-Velasquez 2024 SR+MA(성인 7 RCT, 전부 치주)에서 BoP −6.41pp만 유의, plaque·gingival index는 비유의. 반면 영유아 우식(ECC) 예방은 효과(Jahanshahi 2022 SR+MA, 6 RCT n=2,776), 단 세션 횟수보다 quality·≥3년 follow-up이 결정. [합의수준]
-3. **효과(efficacy)와 정착(implementation)은 별개** — Rogers 2022 단면조사: 위생사 95%가 MI 사용·98%가 효과 인식하나 "환자가 정말 바뀌나"에 회의. 계획행동이론 3요소(태도·규범·지각된 통제)가 사용을 예측 → 교육·환경 설계 lever. MI는 영양상담(Anderson 2025, NRACT 도구)·일반건강증진(Bonetti 2018 ENGAGE, <5분·signposting)으로 적응증 확장. [합의수준]
-4. **커뮤니케이션이 의사-환자 관계의 최대 결정요인** — Choi 2024 scoping(서울대, 1,727→16편)에서 "communication"(8회) > "trust"(6회), 결정요인 대부분이 clinical-process domain. Ho 2025가 그 communication을 중요성·장벽·전략·교육 4축으로 실무화(환자중심 전제 + jargon-free 언어 + 비언어 + 구조화 교육). Khalifah 2019 SR이 26 skill × 4 범주 taxonomy 제공. [합의수준]
-5. **선택지가 갈리는 결정엔 SDM과 기대관리가 필수** — Elwyn 2025 consensus primer(13개국 25인 ISDM)가 임상의 관점 SDM 실행틀을 제시, Dawood 2025가 임플란트·심미에서 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬(미정렬 시 cognitive dissonance·불만·술자 burnout). [claude해석]
-6. **환자보고결과(PRO)는 술식 성공과 다른 성공 척도이고, 불안이 그 모두를 gating** — Doğramacı 2023(endo)·Arunyanak 2024(perio/implant)가 PROM/PREM 틀을 정의(단, OHRQoL 측정도구 미검증 문제). 불안은 소아(Al Homoud 2023, n=150; 연령 효과 유의·성별 무의)·성인 생리지표(Pandey 2025, 국소마취·드릴링서 HR 유의 상승, 과거 부정경험이 불안↑ p=0.018)로 실측되며, tell-show-do·modeling·VR distraction 등 비약물 전략이 일관 효과(Cristea 2026; 성인 phobia는 jkda-2021 단계적 framework). [합의수준]
+1. **MI는 의료 일반에서 견고한 효과(OR 1.55, 95% CI 1.40–1.71), 짧은 상담에서도 작동** — Lundahl 2013 SR+MA(48 RCT, n=9,618). 치과 한정 subset도 일관(Kay 2016 SR, 8편/5 RCT 전부 양성). [확인]
+2. **그러나 성인 구강 outcome으로 좁히면 효과는 약화** — Cartes-Velasquez 2024 SR+MA(성인 7 RCT, 전부 치주)에서 BoP −6.41pp만 유의, plaque·gingival index는 비유의. 반면 영유아 우식(ECC) 예방은 효과(Jahanshahi 2022 SR+MA, 6 RCT n=2,776), 단 세션 횟수보다 quality·≥3년 follow-up이 결정. [확인]
+3. **효과(efficacy)와 정착(implementation)은 별개** — Rogers 2022 단면조사: 위생사 95%가 MI 사용·98%가 효과 인식하나 "환자가 정말 바뀌나"에 회의. 계획행동이론 3요소(태도·규범·지각된 통제)가 사용을 예측 → 교육·환경 설계 lever. MI는 영양상담(Anderson 2025, NRACT 도구)·일반건강증진(Bonetti 2018 ENGAGE, <5분·signposting)으로 적응증 확장. [확인]
+4. **커뮤니케이션이 의사-환자 관계의 최대 결정요인** — Choi 2024 scoping(서울대, 1,727→16편)에서 "communication"(8회) > "trust"(6회), 결정요인 대부분이 clinical-process domain. Ho 2025가 그 communication을 중요성·장벽·전략·교육 4축으로 실무화(환자중심 전제 + jargon-free 언어 + 비언어 + 구조화 교육). Khalifah 2019 SR이 26 skill × 4 범주 taxonomy 제공. [확인]
+5. **선택지가 갈리는 결정엔 SDM과 기대관리가 필수** — Elwyn 2025 consensus primer(13개국 25인 ISDM)가 임상의 관점 SDM 실행틀을 제시, Dawood 2025가 임플란트·심미에서 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬(미정렬 시 cognitive dissonance·불만·술자 burnout). [미검증]
+6. **환자보고결과(PRO)는 술식 성공과 다른 성공 척도이고, 불안이 그 모두를 gating** — Doğramacı 2023(endo)·Arunyanak 2024(perio/implant)가 PROM/PREM 틀을 정의(단, OHRQoL 측정도구 미검증 문제). 불안은 소아(Al Homoud 2023, n=150; 연령 효과 유의·성별 무의)·성인 생리지표(Pandey 2025, 국소마취·드릴링서 HR 유의 상승, 과거 부정경험이 불안↑ p=0.018)로 실측되며, tell-show-do·modeling·VR distraction 등 비약물 전략이 일관 효과(Cristea 2026; 성인 phobia는 jkda-2021 단계적 framework). [확인]
 
 ## Results
 
@@ -132,8 +132,8 @@ The clinical implication is a staged approach: screen for past negative dental e
 ## Open Questions / 추가 검증 필요
 
 - 성인 구강건강에서 MI의 진짜 효과 크기 — Cartes-Velasquez 2024가 BoP 외 비유의로 결론 보류. [미검증]
-- OHRQoL/PROM 측정도구의 치과 영역 validation 부족(Doğramacı 2023 명시). [근거강함]
-- VR/immersive distraction의 RCT 근거는 아직 emerging(Cristea 2026). [claude해석]
+- OHRQoL/PROM 측정도구의 치과 영역 validation 부족(Doğramacı 2023 명시). [확인]
+- VR/immersive distraction의 RCT 근거는 아직 emerging(Cristea 2026). [미검증]
 - Anderson 2025는 초록 기반 ingest — full text 확보 시 재검증 필요.
 
 ## Related Pages

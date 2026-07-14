@@ -40,7 +40,7 @@ SR+MA (Univ Sevilla): 근첨치주염 (apical periodontitis, AP) 치료에서
 SR+MA of dental prescribing studies focused on apical periodontitis indication.
 
 ## 4. Key Results
-[근거강함] Antibiotic prescription rate exceeds the indicated threshold (typically <5-10% should require antibiotics; observed rates much higher). Pooled estimates available in paper.
+[확인] Antibiotic prescription rate exceeds the indicated threshold (typically <5-10% should require antibiotics; observed rates much higher). Pooled estimates available in paper.
 
 ## 5. Limitations
 - Heterogeneity in study designs across countries

@@ -42,7 +42,7 @@ Lobbezoo·Panza 그룹의 oral frailty 지표 SR. oral frailty 개념을 11개 �
 6개 DB(~2022.9), 68편. NIH Quality Assessment(관찰·횡단). PROSPERO 등록.
 
 ## Results
-11개 지표 4영역 분류; 잔존치아 수=사망·쇠약·장애·QoL·입원·낙상 모두와 연관 [합의수준]. 저작/연하/타액·구강운동·구강통증도 일부 결과와 연관.
+11개 지표 4영역 분류; 잔존치아 수=사망·쇠약·장애·QoL·입원·낙상 모두와 연관 [확인]. 저작/연하/타액·구강운동·구강통증도 일부 결과와 연관.
 
 ## Related Papers
 - [[geriatric-dentistry/li-2024-prevalence-oral-frailty-older-adults]] — 유병률

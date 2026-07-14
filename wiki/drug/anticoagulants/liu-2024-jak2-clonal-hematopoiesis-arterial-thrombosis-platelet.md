@@ -31,7 +31,7 @@ JAK2V617F는 활성화 혈소판 표현형과 강화된 동맥혈전증을 유�
 ## Summary
 Translational research demonstrating that the JAK2V617F mutation — a hallmark driver of myeloproliferative neoplasms and a frequent finding in clonal hematopoiesis of indeterminate potential (CHIP) — increases arterial thrombosis risk through platelet activation and platelet-leukocyte cross talk. Combines mouse models with human CHIP cohort data.
 
-[claude해석] **Direct dental relevance is minimal.** This is included in the drug/ folder as part of the antithrombotic/thrombosis-mechanism knowledge base because CHIP is increasingly recognized as a shared risk factor for cardiovascular thrombosis in aging patients — exactly the dental cohort with elevated antiplatelet/anticoagulant use. The paper does not change current dental practice but explains why some patients with no traditional CV risk factors still present with thrombotic disease and end up on antithrombotic therapy.
+[미검증] **Direct dental relevance is minimal.** This is included in the drug/ folder as part of the antithrombotic/thrombosis-mechanism knowledge base because CHIP is increasingly recognized as a shared risk factor for cardiovascular thrombosis in aging patients — exactly the dental cohort with elevated antiplatelet/anticoagulant use. The paper does not change current dental practice but explains why some patients with no traditional CV risk factors still present with thrombotic disease and end up on antithrombotic therapy.
 
 [wiki-living-document] CHIP screening is not yet clinical. If/when CHIP screening enters routine cardiology workups, this paper provides the mechanistic underpinning that may inform individualized antithrombotic decisions — and indirectly, perioperative dental management.
 

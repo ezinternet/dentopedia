@@ -66,7 +66,7 @@ In vitro experimental study (West China Journal of Stomatology 2015) — bilingu
 - Net winner — Hole 0°: highest retention but worst marginal float
 - Author-recommended **default**: skip auxiliary features when baseline retention adequate
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - **The resistance-fit trade-off is real and clinically important** — adding aggressive auxiliary forms (0° groove/hole) increases dislodgement force ~50% but worsens marginal float 2-3×; long-term that translates to higher recurrent caries and cement washout risk
 - Roudsari 2011 reports proximal grooves favorably (156.75 N improvement) without measuring marginal seating — Yang 2015 fills that gap and changes the conclusion
 - **Practical rule**: only add auxiliary features when retention is demonstrably inadequate (paralleled meter, short prep, low TOC angle uncorrected); don't add prophylactically

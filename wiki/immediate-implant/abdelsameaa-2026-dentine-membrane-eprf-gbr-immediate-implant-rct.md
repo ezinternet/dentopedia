@@ -44,7 +44,7 @@ Over 24 months both groups reached 100% survival with no significant intergroup 
 RCT, n=40 (20/group, single implant each), non-restorable mandibular molar → immediate placement (IS II Active, Neobiotech, ≥35 Ncm); lottery randomization, sealed envelopes; assessor/statistician blinded; ISQ (Osstell, 0/3/6/12 mo), PPD, MBL and relative bone density (CBCT 0/3/12/24 mo); Mann-Whitney U / Friedman with effect size r.
 
 ## Results
-[근거강함]
+[확인]
 | Endpoint | DDBM | e-PRF | 군간 |
 |---|---|---|---|
 | Survival (24mo) | 100% | 100% | — |
@@ -62,7 +62,7 @@ RCT, n=40 (20/group, single implant each), non-restorable mandibular molar → i
 - 5-10년 장기 데이터 필요
 
 ## Clinical Implication
-하악 구치 즉시 식립 GBR에서 자가 DDBM과 e-PRF는 24개월 임상·방사선 결과가 동등하다 [claude해석]. 둘 다 자가·저비용·흡수성이라, 이종/합성 차폐막 회피를 원하는 케이스에서 선택지가 된다. 단 chairside 준비 시간(치아 가공 또는 원심분리+가열)이 추가되고, 차폐막 단독 효과를 분리한 비-graft 대조가 없어 "막 자체의 기여분"은 이 연구로 단정 못 한다. n=40·단일기관 근거.
+하악 구치 즉시 식립 GBR에서 자가 DDBM과 e-PRF는 24개월 임상·방사선 결과가 동등하다 [미검증]. 둘 다 자가·저비용·흡수성이라, 이종/합성 차폐막 회피를 원하는 케이스에서 선택지가 된다. 단 chairside 준비 시간(치아 가공 또는 원심분리+가열)이 추가되고, 차폐막 단독 효과를 분리한 비-graft 대조가 없어 "막 자체의 기여분"은 이 연구로 단정 못 한다. n=40·단일기관 근거.
 
 ## Related Papers
 - [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — PRF + immediate implant grafting.

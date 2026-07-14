@@ -49,10 +49,10 @@ SST의 새로운 적응증 — **교정 발치 (orthodontic extraction)**. 기�
 - **임상 활용**: 교정 + 임플란트 복합 케이스에서 ridge 보존 전략 추가
 
 ## Strengths and Caveats
-[근거강함] Paired RCT — 환자 내 비교로 individual variability 통제
-[claude해석] n=26은 power 제한, 단일 센터
+[확인] Paired RCT — 환자 내 비교로 individual variability 통제
+[미검증] n=26은 power 제한, 단일 센터
 [미검증] Shield removal timing의 정확 기준은 본 RCT에서도 가변적
-[합의수준] SST의 골보존 효과는 다수 SR (Lin 2022·Ogawa 2022)에서 일관 — 본 RCT는 적응증 확장 시도
+[확인] SST의 골보존 효과는 다수 SR (Lin 2022·Ogawa 2022)에서 일관 — 본 RCT는 적응증 확장 시도
 
 ## Related Papers
 - [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] — SR 90.5% 생존

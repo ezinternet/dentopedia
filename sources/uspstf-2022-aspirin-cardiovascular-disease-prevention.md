@@ -45,7 +45,7 @@ USPSTF commissioned systematic review of:
 - Harms (especially bleeding)
 
 ## 4. Key Results
-[근거강함]
+[확인]
 | Age | 2016 USPSTF | 2022 USPSTF |
 |---|---|---|
 | 50-59 y, ≥10% CVD risk | B grade (recommend) | merged into 40-59 C |

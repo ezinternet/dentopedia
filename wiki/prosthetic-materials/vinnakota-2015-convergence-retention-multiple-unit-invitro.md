@@ -55,7 +55,7 @@ In vitro study (Contemporary Clinical Dentistry 2015) on Ni-Cr alloy single crow
 - Retention scales with unit number across most configurations
 - Exception: 3 vs 6 units at 20° group (P > 0.05) — saturation effect at higher TOC
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - 견치 prep에서 TOC 통제가 가장 중요 — geometric단축이 retention과 직결
 - 소구치 단일 크라운은 TOC 약간 관대해도 retention 큰 차이 없음 — 임상적으로 access 어려운 경우 합리적 trade-off
 - FPD 유닛 증가가 retention 보완 기전이 됨 — 짧은 지대치 multi-unit에서는 unit 수가 partial compensation

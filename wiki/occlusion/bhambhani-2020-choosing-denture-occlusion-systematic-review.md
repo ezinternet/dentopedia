@@ -43,7 +43,7 @@ This SR provides the decision framework for denture occlusal scheme selection, b
 Systematic review of denture occlusal scheme studies.
 
 ## Results
-교합양식 간 보편적 우월성 없음; 치조제·신경근·심미 요인이 선택 좌우 [합의수준]. 정량 비교는 제한.
+교합양식 간 보편적 우월성 없음; 치조제·신경근·심미 요인이 선택 좌우 [확인]. 정량 비교는 제한.
 
 ## Related Papers
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — 자연치 교합분석

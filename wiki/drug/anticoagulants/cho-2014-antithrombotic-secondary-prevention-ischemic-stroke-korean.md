@@ -33,7 +33,7 @@ Clinical implication: this review explains the indication side of antiplatelet/a
 ## Summary
 Korean-language narrative review from Pusan National University Department of Neurology covering pharmacological secondary prevention of ischemic stroke. Key clinical principle: choice between antiplatelet vs anticoagulant depends on stroke etiology — antiplatelet for non-cardioembolic (large artery atherosclerosis, small vessel), anticoagulant for cardioembolic (atrial fibrillation, prosthetic valve).
 
-[claude해석] Dental relevance: a patient walks in with "I'm on aspirin/clopidogrel/warfarin because of my stroke." This review explains *why* — it's the indication side, not the dental management side. Cross-reference with Lim 2020 (Korean GI perioperative) and Lu 2018 / Inchingolo 2024 SR for the dental-procedural side. Particularly useful when consulting the patient's neurologist before elective dental surgery.
+[미검증] Dental relevance: a patient walks in with "I'm on aspirin/clopidogrel/warfarin because of my stroke." This review explains *why* — it's the indication side, not the dental management side. Cross-reference with Lim 2020 (Korean GI perioperative) and Lu 2018 / Inchingolo 2024 SR for the dental-procedural side. Particularly useful when consulting the patient's neurologist before elective dental surgery.
 
 ## Key Contributions
 - Korean-language stroke-secondary-prevention pharmacology reference.

@@ -38,7 +38,7 @@ The most common systemic disease was **hypertension**, followed by **diabetes**,
 
 The systems-of-care finding worth flagging: of 427 patients with systemic disease, only **114 received internal-medicine consultation** before treatment. The majority were managed with "counselling only" (n=232), medication (80), simple periodontal therapy (42), extraction (23), endodontic therapy (9), and I&D (4) *without* prior medical clearance.
 
-[claude해석] Read against current standards, this is exactly the gap the modern medically-compromised-patient guidelines were written to close — but the data also reflect the practical truth that most "systemic disease" patients with well-controlled stable disease can in fact be safely treated under standard dental protocols, and over-referral creates its own access-to-care problem. The 4 complications occurred specifically where screening was inadequate or surgery was elective in a high-risk patient.
+[미검증] Read against current standards, this is exactly the gap the modern medically-compromised-patient guidelines were written to close — but the data also reflect the practical truth that most "systemic disease" patients with well-controlled stable disease can in fact be safely treated under standard dental protocols, and over-referral creates its own access-to-care problem. The 4 complications occurred specifically where screening was inadequate or surgery was elective in a high-risk patient.
 
 ## Key Contributions
 
@@ -55,11 +55,11 @@ The systems-of-care finding worth flagging: of 427 patients with systemic diseas
 
 Retrospective chart review + structured questionnaire of all dental outpatients at one general-hospital OMFS clinic over a 12-month window (1999). Outcomes: prevalence of systemic disease, dental diagnoses, treatments delivered, internal-medicine consultations, and complications.
 
-[claude해석] The questionnaire-plus-chart design depends on patient self-report at intake for systemic disease that did not appear in the hospital's own EMR. This very likely **underestimates** true prevalence (asymptomatic well-controlled HTN/DM often unreported). The 12.2% should be read as a floor estimate.
+[미검증] The questionnaire-plus-chart design depends on patient self-report at intake for systemic disease that did not appear in the hospital's own EMR. This very likely **underestimates** true prevalence (asymptomatic well-controlled HTN/DM often unreported). The 12.2% should be read as a floor estimate.
 
 ## Results
 
-[근거강함] (single-center retrospective):
+[확인] (single-center retrospective):
 
 | Variable | Value |
 |---|---|
@@ -95,7 +95,7 @@ Retrospective chart review + structured questionnaire of all dental outpatients 
 
 ## Limitations (Critical Reading)
 
-[claude해석]
+[미검증]
 1. **Single-center, 12-month design, n=3,506** — captures one general-hospital OMFS clinic's mix in 1999; not generalizable to private clinic.
 2. **No control group / no relative risk** — cannot tell whether the 4 complications represent excess risk attributable to systemic disease vs background rate.
 3. **Systemic disease definition relies on chart documentation + self-report** — likely undercounts; the 12.2% is a floor.

@@ -40,7 +40,7 @@ Periodontology 2000 2023;93:236-253 · Ausra Ramanauskaite, Kathrin Becker, Emil
 Network meta-analysis. 재건/비재건/병용 비교. (구체 SUCRA·effect는 본문 보강 필요)
 
 ## 4. Key Results and Benchmarks
-재건적 치료는 contained intrabony defect에서 결손충전·골수준에 유리하게 보고 [합의수준]. 정량 순위는 full-text 추출 필요 [미검증].
+재건적 치료는 contained intrabony defect에서 결손충전·골수준에 유리하게 보고 [확인]. 정량 순위는 full-text 추출 필요 [미검증].
 
 ## 5. Limitations and Future Work
 결손 형태 이질성, 재-골유착 조직학적 확인 한계, 추적 단기.

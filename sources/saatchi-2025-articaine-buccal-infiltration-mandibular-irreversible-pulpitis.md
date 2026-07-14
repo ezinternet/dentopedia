@@ -40,7 +40,7 @@ Clinical Oral Investigations 2025;29:146 · Masoud Saatchi, Golshan Mohammadi, P
 5개 DB, RCT만(1 cartridge BI vs 1 cartridge IANB). RoB2, fixed-effects MA, GRADE.
 
 ## 4. Key Results and Benchmarks
-780→5 RCT. 성공률 RR 1.06(95%CI 0.93-1.20, I²=24.5%), 유의차 없음 [근거강함]. certainty moderate. 추가 RCT 필요.
+780→5 RCT. 성공률 RR 1.06(95%CI 0.93-1.20, I²=24.5%), 유의차 없음 [확인]. certainty moderate. 추가 RCT 필요.
 
 ## 5. Limitations and Future Work
 포함 5편 소수, 단일 cartridge 한정, 장기·재마취 미평가.

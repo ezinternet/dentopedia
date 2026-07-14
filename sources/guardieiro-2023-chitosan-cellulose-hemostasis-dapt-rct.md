@@ -44,7 +44,7 @@ chitosan이 출혈시간 단축 + 치유 개선; DAPT 환자 발치 시 chitosan
 - Interventions: chitosan-based hemostat vs cellulose oxidized gauze
 
 ## 4. Key Results
-[근거강함] Chitosan-based hemostat:
+[확인] Chitosan-based hemostat:
 - Reduced bleeding time vs cellulose oxidized gauze
 - Improved healing
 

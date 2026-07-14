@@ -44,7 +44,7 @@ ACCP 가이드라인 근거 SR+MA: 장기 항혈소판제 (APT) 복용 환자 �
 - Statistics: meta-analysis where possible
 
 ## 4. Key Results
-[근거강함]
+[확인]
 | Comparison | Outcome | Effect | COE |
 |---|---|---|---|
 | Shorter vs longer APT interruption | Major bleeding | NS | low |

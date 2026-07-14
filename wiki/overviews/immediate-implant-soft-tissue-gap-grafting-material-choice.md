@@ -83,17 +83,17 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 ## Clinical Decision Points
 
 **Axis 1 — Hard-tissue gap graft (the jumping gap):**
-1. Gap ≥ 2 mm → graft with a bone substitute. Reduces horizontal buccal resorption (MD −0.52 mm) and improves PES (+1.49) without affecting survival (Zaki 2021). [근거강함]
+1. Gap ≥ 2 mm → graft with a bone substitute. Reduces horizontal buccal resorption (MD −0.52 mm) and improves PES (+1.49) without affecting survival (Zaki 2021). [확인]
 2. Prefer a **collagen-containing** bone substitute — adds buccal-thickness and esthetic benefit over plain graft (Liu 2023). [근거중간]
 3. Weigh the **complication signal**: BSM use raised overall complications (RR 3.50, low certainty) — counsel and monitor (Zaki 2021). [근거약함→주의]
 
 **Axis 2 — Soft-tissue augmentation (facial mucosa):**
-1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). An independent SR+MA of 7 studies (n=272) focused on IIPP confirms: SCTG reduces mid-buccal mucosal recession by WMD 0.54 mm, increases FSTT by WMD 0.79 mm, and reduces marginal bone loss by WMD 0.13 mm at 12 months, all with low heterogeneity (I²=0–16%) — [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]. [근거강함]
+1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). An independent SR+MA of 7 studies (n=272) focused on IIPP confirms: SCTG reduces mid-buccal mucosal recession by WMD 0.54 mm, increases FSTT by WMD 0.79 mm, and reduces marginal bone loss by WMD 0.13 mm at 12 months, all with low heterogeneity (I²=0–16%) — [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]. [확인]
 2. To avoid a donor site → **xenogeneic collagen matrix** is a reasonable substitute (≈ SCTG for FSTT/level; De Angelis 2021), though autograft retains a consistent non-significant edge (Thoma 2021 EAO). [근거중간]
 3. CTG **maintains** the gingival level rather than increasing volume (Torra-Moneny 2024) — set expectations accordingly. [근거중간]
 4. A **customized healing abutment alone is insufficient** to hold midfacial contour in thin sites (Fettouh 2024: −1.54 mm recession vs −0.74 with CTG). [근거중간 RCT]
 
-**Timing:** Perform soft-tissue augmentation **simultaneously with immediate placement** in high-esthetic-priority cases; no preferable timepoint is established (Thoma 2021 EAO). [합의수준]
+**Timing:** Perform soft-tissue augmentation **simultaneously with immediate placement** in high-esthetic-priority cases; no preferable timepoint is established (Thoma 2021 EAO). [확인]
 
 ## Axis 3 — 차폐막 재료 선택 (biological membrane equivalence, 2026 신규)
 

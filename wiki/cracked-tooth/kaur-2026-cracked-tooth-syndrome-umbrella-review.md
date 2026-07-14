@@ -81,9 +81,9 @@ CTS 분야 첫 umbrella review. PRISMA-P 2015 protocol → PROSPERO 등록, PRIS
 | Vertical root fracture | Extraction |
 
 ## Strengths and Caveats
-[근거강함] Umbrella review = 분야 최고 evidence level; PROSPERO 사전등록 + PRISMA-P/PRISMA 2020/PRIOR checklist 준수
-[합의수준] "endo + crown" 권고는 [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] (Kwak 한국 review) 보수적 입장과 부분 차이 — Kwak은 endo 회피 가능 case 강조, Kaur는 endo 필요 case에서 full coverage 강조
-[claude해석] CTS 분야 primary RCT 부족 — umbrella review도 결국 동일 base에 의존; 4편 SR 중 AMSTAR-2 High confidence는 Olivieri 1편뿐이라 "gold standard" 결론의 무게중심이 이 1편에 쏠릴 위험
+[확인] Umbrella review = 분야 최고 evidence level; PROSPERO 사전등록 + PRISMA-P/PRISMA 2020/PRIOR checklist 준수
+[확인] "endo + crown" 권고는 [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] (Kwak 한국 review) 보수적 입장과 부분 차이 — Kwak은 endo 회피 가능 case 강조, Kaur는 endo 필요 case에서 full coverage 강조
+[미검증] CTS 분야 primary RCT 부족 — umbrella review도 결국 동일 base에 의존; 4편 SR 중 AMSTAR-2 High confidence는 Olivieri 1편뿐이라 "gold standard" 결론의 무게중심이 이 1편에 쏠릴 위험
 [미검증] CCA 17%(threshold 15% 초과)는 결과 신뢰성에 caveat; Leong의 연도 표기가 원문 내에서 2019/2020으로 불일치
 
 ## Related Papers

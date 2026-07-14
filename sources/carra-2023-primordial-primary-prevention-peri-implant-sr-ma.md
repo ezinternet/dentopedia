@@ -35,7 +35,7 @@ EFP/AAP 워크숍 SR+MA(J Clin Periodontol 2023; 검색 2022년 8월; 중재·�
 SR+MA up to Aug 2022; interventional + observational studies; ≥6 mo follow-up; outcomes peri-implant mucositis and/or peri-implantitis.
 
 ## 4. Key Results
-[근거강함] Risk factor control (smoking cessation, periodontal management before implant, oral hygiene reinforcement) reduces peri-implant mucositis and peri-implantitis incidence.
+[확인] Risk factor control (smoking cessation, periodontal management before implant, oral hygiene reinforcement) reduces peri-implant mucositis and peri-implantitis incidence.
 
 ## 5. Limitations
 - Mixed observational/interventional

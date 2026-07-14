@@ -41,7 +41,7 @@ Clinical Oral Implants Research 2022;33:1069-1086 · Giacomo Baima, Filippo Citt
 RCT만 포함, 2인 독립 스크리닝·추출·RoB. 가능 시 random-effects meta-analysis.
 
 ## 4. Key Results and Benchmarks
-22편/16 RCT 포함(기계·화학·물리 제염). 어느 프로토콜도 임상·방사선 지표에서 일관된 우월성 없음 [합의수준]. 구체적 pooled effect는 본문 추가 추출 필요 [미검증].
+22편/16 RCT 포함(기계·화학·물리 제염). 어느 프로토콜도 임상·방사선 지표에서 일관된 우월성 없음 [확인]. 구체적 pooled effect는 본문 추가 추출 필요 [미검증].
 
 ## 5. Limitations and Future Work
 RCT 수·이질성 제한, 제염법 정의 다양. 장기 재-골유착 결과 부족.

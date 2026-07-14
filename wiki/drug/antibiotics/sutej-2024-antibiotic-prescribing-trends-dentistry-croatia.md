@@ -42,7 +42,7 @@ Croatian national 10-year prescription dataset (2014-2023) analyzed for dental a
 National prescription claims data 2014-2023; class breakdown, prescriber demographic.
 
 ## Results
-[근거강함] Specific trend figures in paper; characterizes prescribing class shifts and volume change over the decade.
+[확인] Specific trend figures in paper; characterizes prescribing class shifts and volume change over the decade.
 
 ## Limitations
 - Single country, claims-data limitations

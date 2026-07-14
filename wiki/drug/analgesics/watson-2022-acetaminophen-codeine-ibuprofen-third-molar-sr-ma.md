@@ -44,7 +44,7 @@ This evidence directly contradicts the long-standing US prescribing pattern of o
 PubMed + ClinicalTrials.gov; RCT-only (randomized, blinded, placebo-controlled); third molar extraction; pooled MA.
 
 ## Results
-[근거강함] Ibuprofen 400mg ≥ APAP 600 + codeine 60 in third molar post-extraction pain. Codeine combination not superior.
+[확인] Ibuprofen 400mg ≥ APAP 600 + codeine 60 in third molar post-extraction pain. Codeine combination not superior.
 
 ## Limitations
 - Only two regimens compared (no ibuprofen+APAP arm)

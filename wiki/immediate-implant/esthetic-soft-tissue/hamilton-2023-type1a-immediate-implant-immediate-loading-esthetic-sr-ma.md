@@ -39,7 +39,7 @@ The headline: **Type 1A has high survival rates in studies with strict patient a
 2. **Absence of endodontic infection**: +2.6 PP (p=0.004). Active infection at the site is a meaningful negative.
 3. **Post-2012 vs pre-2012 studies**: +1.9 PP (p=0.02). Modern techniques (digital planning, contemporary implant designs, refined surgical protocols) confer measurable improvement.
 
-[claude해석] This SR provides the modern ITI-endorsed framework for Type 1A case selection in the aesthetic zone. The take-home is the cumulative effect of selection criteria — multiple favorable factors compound, while violation of any one (active infection, inadequate gap, thin biotype, no facial bone) raises the risk of failure or esthetic compromise. For Korean practice, Type 1A is defensible in carefully selected anterior maxillary cases meeting these criteria, but should not be applied indiscriminately to "immediate-everything" workflows that have proliferated in some practices.
+[미검증] This SR provides the modern ITI-endorsed framework for Type 1A case selection in the aesthetic zone. The take-home is the cumulative effect of selection criteria — multiple favorable factors compound, while violation of any one (active infection, inadequate gap, thin biotype, no facial bone) raises the risk of failure or esthetic compromise. For Korean practice, Type 1A is defensible in carefully selected anterior maxillary cases meeting these criteria, but should not be applied indiscriminately to "immediate-everything" workflows that have proliferated in some practices.
 
 ## Key Contributions
 - ITI Consensus-level reference for Type 1A selection criteria.
@@ -56,7 +56,7 @@ The headline: **Type 1A has high survival rates in studies with strict patient a
 - Type 1A operational definition (per Gallucci 2018): same-day extraction + implant placement + restoration/loading on same day or within 1 week
 
 ## Results
-[근거강함]
+[확인]
 | Factor | Survival effect | 95% CI | p |
 |---|---|---|---|
 | Studies before 2012 (vs since) | -1.9 PP | -0.3 to -4.0 | 0.02 |

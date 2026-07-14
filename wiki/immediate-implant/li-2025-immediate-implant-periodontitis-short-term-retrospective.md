@@ -39,7 +39,7 @@ Findings:
 - Soft tissue health (mSBI, mPLI) differed significantly between Stages but not Grades
 - PPD comparable across groups
 
-[claude해석] Important caveat against generalizing: this is short-term (1 year), retrospective, and explicitly notes the absence of systematic pre-implant periodontal treatment. The high overall survival likely reflects case selection by the operator; the modern primordial-prevention position (Carra 2023 SR+MA) is that periodontitis should be controlled *before* implant placement, not concurrently. The decision to skip systematic periodontal treatment was a feature of this clinical workflow, not an evidence-supported best practice.
+[미검증] Important caveat against generalizing: this is short-term (1 year), retrospective, and explicitly notes the absence of systematic pre-implant periodontal treatment. The high overall survival likely reflects case selection by the operator; the modern primordial-prevention position (Carra 2023 SR+MA) is that periodontitis should be controlled *before* implant placement, not concurrently. The decision to skip systematic periodontal treatment was a feature of this clinical workflow, not an evidence-supported best practice.
 
 ## Key Contributions
 - Uses the current standard 2018 AAP/EFP classification (Stage + Grade).
@@ -50,7 +50,7 @@ Findings:
 Retrospective; n=95 / 234 implants; Jinan Univ Stomatological Hospital 2017-2022; 2018 AAP/EFP classification; atraumatic extraction + Bio-Oss + Bio-Gide; 12-month follow-up; outcomes survival, mSBI, mPLI, MBL, PPD.
 
 ## Results
-[근거강함]
+[확인]
 | Outcome | Result |
 |---|---|
 | 1-yr survival overall | 97.86% |

@@ -25,7 +25,7 @@ tags: [cold-plasma, cap, ntpp, non-thermal-plasma, underwater-discharge-plasma, 
 > - 병용 시너지: CAP + NaOCl/CHX는 단독보다 우수하며, 시너지로 플라즈마 노출시간을 줄일 수 있어 임상적으로 매력적 (Muniz 2023). [근거: 리뷰 합의]
 > - 안전성: Li 2015 — 플라즈마 12분 후 상아질 미세경도(Vickers)·조도(Ra) 유의 변화 없음(기계적 안전). Muniz 2023 — 단시간은 치주·치근단 세포에 생체적합, >10–15분은 세포독성 우려(안전 노출창 미확정). [근거: in-vitro·리뷰]
 > - 소아 적용: 유치 근관에서 NTPP가 CHX·다이오드 레이저·프로폴리스를 제치고 최고 감소(4.06 log, 98.79%) — 유치는 개방 첨공으로 NaOCl이 후속 영구치배에 독성 위험이 있어 비열·비독성 플라즈마가 특히 매력적 (El Shishiny 2025).
-> - 최고 임상근거 & 한계: Lyu 2025 — 수중방전 플라즈마 (Underwater Discharge Plasma, UDP) vs 6% NaOCl 최초 사람 RCT 파일럿(n=28, 4개월). 통증(VAS)·치근단 치유(PAI) 동등, 부작용 0, 임피던스(>5000 Ω) 자동차단 안전장치 검증. 단 치유율 71.4% vs 92.9%(NS, 검정력 0.65로 과소검정)·기관-기기 이해상충·미생물 종결점 부재 — 임상 도입 전 대규모·장기 RCT 필수. [claude해석: 전체 근거는 in-vitro 편중, 임상은 단일 파일럿]
+> - 최고 임상근거 & 한계: Lyu 2025 — 수중방전 플라즈마 (Underwater Discharge Plasma, UDP) vs 6% NaOCl 최초 사람 RCT 파일럿(n=28, 4개월). 통증(VAS)·치근단 치유(PAI) 동등, 부작용 0, 임피던스(>5000 Ω) 자동차단 안전장치 검증. 단 치유율 71.4% vs 92.9%(NS, 검정력 0.65로 과소검정)·기관-기기 이해상충·미생물 종결점 부재 — 임상 도입 전 대규모·장기 RCT 필수. [미검증: 전체 근거는 in-vitro 편중, 임상은 단일 파일럿]
 
 ## Three-line Summary
 
@@ -112,7 +112,7 @@ Six of seven papers are bench studies; **Lyu 2025 is the only human trial and th
 | Success (PAI ≤2) | 71.4% | 92.9% | 0.326 (NS) |
 | Adverse effects | 0 | 0 | — |
 
-UDP was **non-inferior** to NaOCl on short-term pain and radiographic healing with zero adverse events (blinded PAI, κ=0.721). **But the caveats are decisive for interpretation**: (1) the numerically lower UDP success (71.4% vs 92.9%) most likely reflects **underpowering** (power=0.65, n=14/group) rather than true inferiority — yet it cannot be dismissed; (2) **no microbiological endpoint** (CFU/biofilm), so the trial measures clinical proxies, not the disinfection the in-vitro work documents; (3) follow-up only 4 months; (4) **institutional conflict of interest** — the study site is affiliated with the device developer (Dentory). [claude해석]
+UDP was **non-inferior** to NaOCl on short-term pain and radiographic healing with zero adverse events (blinded PAI, κ=0.721). **But the caveats are decisive for interpretation**: (1) the numerically lower UDP success (71.4% vs 92.9%) most likely reflects **underpowering** (power=0.65, n=14/group) rather than true inferiority — yet it cannot be dismissed; (2) **no microbiological endpoint** (CFU/biofilm), so the trial measures clinical proxies, not the disinfection the in-vitro work documents; (3) follow-up only 4 months; (4) **institutional conflict of interest** — the study site is affiliated with the device developer (Dentory). [미검증]
 
 **Bottom line for practice**: cold plasma is a mechanistically sound, resistance-free, dentin-safe disinfection modality with strong in-vitro eradication of mature E. faecalis biofilm, but it does **not yet displace NaOCl**. Its evidence-supported roles today are (a) **adjunct** to NaOCl/CHX for synergy, and (b) candidate **alternative** where NaOCl's chemical/thermal toxicity is the limiting factor (pediatric open apices, regenerative endodontics). Routine clinical adoption awaits larger, longer (≥1 year), microbiologically-endpointed, independently-funded RCTs — the Lyu 2025 pilot defines the frontier, not the verdict.
 

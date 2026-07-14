@@ -39,7 +39,7 @@ Intraosseous delivery technique — not the anesthetic molecule — drives the d
 
 A Korean retrospective comparison (SNU Bundang Hospital, conservative dentistry) of two non-block techniques for anesthetizing a single mandibular molar with advanced caries (ICDAS 5–6): **articaine buccal infiltration (ABI)** — one 1.8-mL cartridge of 4% articaine + 1:100,000 epinephrine — versus **lidocaine intraosseous (LIO)** — one 1.8-mL cartridge of 2% lidocaine + 1:100,000 epinephrine delivered by the computer-controlled QuickSleeper5 device into the interdental alveolar bone. 48 patients, 24 per arm; allocation was by device availability (QuickSleeper5 present → LIO), so this is **not randomized**.
 
-[합의수준] The clinical bottom line: for a single carious mandibular molar, computer-controlled intraosseous lidocaine outperformed articaine infiltration on every efficacy axis — higher primary success (100% vs 70.8% needing no supplemental injection), less pain during deposition, near-instant onset, and (a double-edged finding) much shorter duration. [claude해석] The shorter LIO duration (~2 h vs ~4 h subjective) is favorable for patient recovery but means LIO suits shorter restorative/endodontic sessions; for a long multi-quadrant or surgical case the longer articaine soft-tissue duration may be preferable, or LIO may need re-dosing.
+[확인] The clinical bottom line: for a single carious mandibular molar, computer-controlled intraosseous lidocaine outperformed articaine infiltration on every efficacy axis — higher primary success (100% vs 70.8% needing no supplemental injection), less pain during deposition, near-instant onset, and (a double-edged finding) much shorter duration. [미검증] The shorter LIO duration (~2 h vs ~4 h subjective) is favorable for patient recovery but means LIO suits shorter restorative/endodontic sessions; for a long multi-quadrant or surgical case the longer articaine soft-tissue duration may be preferable, or LIO may need re-dosing.
 
 ## Key Contributions
 
@@ -60,7 +60,7 @@ A Korean retrospective comparison (SNU Bundang Hospital, conservative dentistry)
 
 ## Results
 
-[합의수준]
+[확인]
 
 | Outcome | ABI (4% articaine) | LIO (2% lidocaine IO) | P |
 |---|---|---|---|
@@ -72,7 +72,7 @@ A Korean retrospective comparison (SNU Bundang Hospital, conservative dentistry)
 | Lower-lip numbness | 100% | 83.3% | 0.109 (NS) |
 | Subjective HR rise | 0% | 8.33% (transient) | — |
 
-[claude해석] The duration figure is subjective lip-numbness recall, not serial EPT, so it reflects soft-tissue not pulpal duration — interpret as a rough relative magnitude, not a precise pulpal-anesthesia window. Because allocation was non-randomized (by device availability), residual confounding cannot be excluded despite baseline homogeneity; this is the study's own stated limitation and the reason the authors call for an RCT.
+[미검증] The duration figure is subjective lip-numbness recall, not serial EPT, so it reflects soft-tissue not pulpal duration — interpret as a rough relative magnitude, not a precise pulpal-anesthesia window. Because allocation was non-randomized (by device availability), residual confounding cannot be excluded despite baseline homogeneity; this is the study's own stated limitation and the reason the authors call for an RCT.
 
 ## Related Papers
 

@@ -46,7 +46,7 @@ vs 3일 코스 비교; MRONJ 발생률 동등 → 단일 술전 dose로 충분, 
 - Outcome: MRONJ development rate
 
 ## 4. Key Results
-[근거강함] MRONJ rate equivalent between groups → single preop 500mg AMPC sufficient. 추가 detail in paper.
+[확인] MRONJ rate equivalent between groups → single preop 500mg AMPC sufficient. 추가 detail in paper.
 
 ## 5. Limitations
 - Retrospective; not randomized

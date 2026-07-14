@@ -51,7 +51,7 @@ Occlusal overload on inflamed tissue may accelerate breakdown via inflammatory/p
 
 ## Clinical Application
 - Confirms the management stance: address occlusion as a co-factor in an already-inflamed, susceptible periodontium — not as a primary cause to "fix" prophylactically.
-- aMMP-8 chairside testing is a plausible future adjunct to decide *which* patients benefit from occlusal intervention. [claude해석]
+- aMMP-8 chairside testing is a plausible future adjunct to decide *which* patients benefit from occlusal intervention. [미검증]
 
 ## Related Papers
 - [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]] — extends: adds 2026 mechanism/biomarker layer to the 2017 WW definitions.

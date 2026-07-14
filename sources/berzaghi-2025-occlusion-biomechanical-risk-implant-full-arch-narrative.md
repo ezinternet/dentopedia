@@ -40,7 +40,7 @@ J Pers Med 2025;15:65 · A. Berzaghi, T. Testori, R. Scaini, S. Bortolini · 202
 Narrative review (위험요인 기술·권고).
 
 ## 4. Key Results and Benchmarks
-캔틸레버 길이·교합양식·부기능·재료가 생역학 위험 좌우; 위험 저감 설계 권고 [합의수준]. 정량 통합 아님.
+캔틸레버 길이·교합양식·부기능·재료가 생역학 위험 좌우; 위험 저감 설계 권고 [확인]. 정량 통합 아님.
 
 ## 5. Limitations and Future Work
 narrative — 선택·비뚤림 위험.

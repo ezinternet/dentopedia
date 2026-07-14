@@ -13,7 +13,7 @@ source_collection: external
 
 플라즈마 배치(2026-05-31)의 large-animal(돼지) 골유착 근거. [[wiki/implants/surface/plasma/nevins-2023-gas-plasma-titanium-implant-osseointegration]](foxhound)·[[wiki/implants/surface/plasma/zheng-2020-non-thermal-atmospheric-plasma-titanium]](쥐)와 함께 종(species) 축을 채운다. **이 연구의 효과 크기는 "약간 높음" 수준**이라 배치 내에서 "in vivo 신호는 있으나 임상적 크기는 미확정"을 보여주는 균형추 역할.
 
-**자료 한계 [근거강함→제한]:** papers/ 파일은 실제 full-text PDF가 아닌 ScienceDirect 저장 웹페이지(초록+서론+토의+결론 확보). SLA 본문 세부(통계 p값 등)는 미확인.
+**자료 한계 [확인→제한]:** papers/ 파일은 실제 full-text PDF가 아닌 ScienceDirect 저장 웹페이지(초록+서론+토의+결론 확보). SLA 본문 세부(통계 p값 등)는 미확인.
 
 ## Three-line Summary
 

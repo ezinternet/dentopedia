@@ -27,8 +27,8 @@ source: synthesis
 > - Ng 2007 Part 2(SR+MA, 63편): 예후를 유의하게 높이는 4조건 — ①술전 근단투과상 없음 ②void 없는 충전 ③**RA 2mm 이내까지 충전** ④양호한 치관수복.
 > - Ricucci 2011(5년, 1,369근관): 전체 성공 88.6%/90.3%; **과충전(excess)은 성공률↓, optimal WL 확인됨**. 질환 중증도(괴사+AP 82.7%, 병소 ≥5mm 78.2%)가 예후를 지배.
 > - Sjogren 1990(8~10년): 전장 기구조작 가능 여부 + root filling level이 유의하게 작용; 술전 상태가 최상위 인자(병소 없음 96%+ vs 괴사+병소 86%).
-> - [claude해석] 겉보기 상충(Schaeffer "short가 낫다" vs Chugal "AP는 붙여라")은 진단으로 통합됨 — 통일 변수는 "**감염의 근단 확장 지점까지 도달·소독한 뒤 그 종지점까지 extrusion 없이 충전**"이지 절대 mm값이 아님.
-> - [claude해석] 치관수복 인자는 Ng(유의)와 Ricucci(무영향)가 엇갈림 — Ricucci는 단일 숙련술자·양호한 coronal seal이 baseline이라 효과가 가려졌을 가능성.
+> - [미검증] 겉보기 상충(Schaeffer "short가 낫다" vs Chugal "AP는 붙여라")은 진단으로 통합됨 — 통일 변수는 "**감염의 근단 확장 지점까지 도달·소독한 뒤 그 종지점까지 extrusion 없이 충전**"이지 절대 mm값이 아님.
+> - [미검증] 치관수복 인자는 Ng(유의)와 Ricucci(무영향)가 엇갈림 — Ricucci는 단일 숙련술자·양호한 coronal seal이 baseline이라 효과가 가려졌을 가능성.
 
 ## Three-line Summary
 
@@ -58,7 +58,7 @@ This overview answers a single clinical question: **at what apical level should 
 | 괴사 + apical periodontitis | AC까지 근접 (RA −0.5mm 부근), WL 손실 회피 | Chugal 2003 (1mm 손실당 실패 +14%); Ricucci 2011 |
 | 모든 경우 공통 | dense fill · void 없음 · **extrusion 없음** (과충전 성공률↓) | Ng 2007; Ricucci 2011; Schaeffer 2005 |
 
-> [!note] Interpretation [claude해석]
+> [!note] Interpretation [미검증]
 > 세 결정점을 하나로 묶는 변수는 절대 mm값이 아니라 "감염의 근단 확장 지점(AC)까지 도달·소독 → 그 종지점까지 extrusion 없이 충전". 진단이 이 종지점의 위치를 이동시킬 뿐, dense·no-extrusion 원칙은 불변.
 
 ## Gaps & Future Research

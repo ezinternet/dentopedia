@@ -41,7 +41,7 @@ Largest and most recent (2026) SR+MA on smoking and dental implants, registered 
 MEDLINE/OVID, EMBASE, Cochrane CENTRAL searched to May 2024 (updated March 2025). Studies with ≥1 year post-loading follow-up comparing implant outcomes in tobacco smokers or smoke-free product users vs non-smokers. Random-effects (DerSimonian-Laird) meta-analysis of survival OR, α = 0.01; CBL and biological complications extracted narratively/quantitatively where possible.
 
 ## Results
-[근거강함, GRADE low] Implant-level survival OR 0.40 (95% CI 0.27-0.61, p<0.001) in smokers vs non-smokers; patient-level OR 0.43 (95% CI 0.20-0.90, p=0.02); CBL +0.64 mm (95% CI 0.29-0.99, p<0.001). Majority of studies report higher peri-implantitis incidence in smokers. Smoke-free tobacco/e-cigarette data insufficient for pooling — evidence gap, not a null result.
+[확인, GRADE low] Implant-level survival OR 0.40 (95% CI 0.27-0.61, p<0.001) in smokers vs non-smokers; patient-level OR 0.43 (95% CI 0.20-0.90, p=0.02); CBL +0.64 mm (95% CI 0.29-0.99, p<0.001). Majority of studies report higher peri-implantitis incidence in smokers. Smoke-free tobacco/e-cigarette data insufficient for pooling — evidence gap, not a null result.
 
 ## Limitations
 - All observational, GRADE-low overall quality.

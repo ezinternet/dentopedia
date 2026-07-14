@@ -43,7 +43,7 @@ FOV 최소화·프로토콜 최적화·치과 CBCT 전용 안구 선량 기준�
 phantom 연구(OSL/TLD) SR, PRISMA, 2010-2022. 653→5편.
 
 ## Results
-안구 산란선량 0.103-8.3 mSv, 배경방사선보다 높고 변동 큼 [합의수준]. FOV 축소·선량기준치 필요.
+안구 산란선량 0.103-8.3 mSv, 배경방사선보다 높고 변동 큼 [확인]. FOV 축소·선량기준치 필요.
 
 ## Related Papers
 - [[radiology/kang-2024-national-dental-radiological-dose-management]] — 국가 선량관리

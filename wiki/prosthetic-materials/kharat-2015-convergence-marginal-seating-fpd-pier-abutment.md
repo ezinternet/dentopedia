@@ -48,7 +48,7 @@ In vitro experimental study (Journal of Clinical and Diagnostic Research July 20
 - Multi-unit FPDs with pier abutment require careful convergence management
 - Detailed numeric data in original paper
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - Pier abutment 케이스는 일반 단일 크라운보다 convergence management가 더 critical
 - 다유닛 FPD 설계 시 모든 지대치의 path of insertion이 일치해야 — 한 abutment의 high convergence가 전체 FPD seating을 망친다
 - 한국 임상: 중간 결손 + pier abutment FPD 케이스에서 abutment 평행성 확인을 위한 surveyor 또는 digital scanning 사전 검증 권장 (rare/older FPD design, but still encountered)

@@ -34,6 +34,13 @@ One contradiction-radar backfill signal (non-blocking):
                                relations: contradicts/refines edge (radar coverage gap).
                                Signal only — LLM judges each candidate, does not auto-write.
 
+One content-lint signal (non-blocking, deterministic):
+  - content-lint.py → body content rules lint.py can't see: (A) mandatory bilingual
+                               세줄요약 pair + overview 한국어 핵심요약 callout, (B) heading
+                               tag consistency (확인/미검증), (C) wiki↔source cross-tier
+                               integrity (source: → sources/ existence, pmid match).
+                               No LLM — the deterministic 80% of an ingest-verification gate.
+
 Exit code:
     0 if all classic audits + ingest-rationale pass.
     1 if any of those fail.
@@ -69,6 +76,7 @@ AUDITS = [
     ("link-integrity.py",            [],       False),
     ("interactive-staleness.py",     [],       False),
     ("find-contradiction-candidates.py", [],   False),
+    ("content-lint.py",                  [],          False),
     ("deviation-audit.py",               [],   False),
 ]
 
@@ -109,7 +117,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)

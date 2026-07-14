@@ -47,7 +47,7 @@ This is a negative RCT demonstrating that eliminating the dedicated adhesive/etc
 - Significant group difference also for color and translucency.
 
 ## 5. Limitations and Future Work
-- ABSTRACT-ONLY; short 6-month horizon; single SAFC product. Treat as [합의수준] product-specific negative result.
+- ABSTRACT-ONLY; short 6-month horizon; single SAFC product. Treat as [확인] product-specific negative result.
 
 ## 6. Related Work
 - Omoto 2025 (adhesion strategies), Peumans 2023 (universal adhesive), self-adhesive flowable bond-strength literature.

@@ -42,7 +42,7 @@ SR+MA documenting the systematic over-prescription of antibiotics by dentists fo
 SR+MA of cross-sectional/prescribing studies of dentists' antibiotic choice in AP indication.
 
 ## Results
-[근거강함] Antibiotic prescription rate for AP exceeds guideline-indicated threshold by a wide margin in pooled data.
+[확인] Antibiotic prescription rate for AP exceeds guideline-indicated threshold by a wide margin in pooled data.
 
 ## Limitations
 - Heterogeneity in study designs and prescribing definitions

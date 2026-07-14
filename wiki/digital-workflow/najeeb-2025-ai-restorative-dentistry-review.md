@@ -50,7 +50,7 @@ PRISMA-style literature review (BMC Oral Health 2025) of AI in restorative denti
 
 **Domains covered**: caries detection, pedodontics, dental restorations, endodontics, tooth surface loss, tooth shade determination, regenerative dentistry
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - 95% caries detection is sensor- and dataset-dependent; ICDAS-graded ground truth is rare in training sets — verify whether reported accuracy reflects D3+ lesions or also enamel-only
 - AI shade determination potentially more reproducible than visual matching for inexperienced clinicians, but spectrophotometer ground truth needs documentation
 - 3D printing + AI integration most advanced for surgical guides and removable prosthodontics; direct restoration printing is still experimental [미검증]

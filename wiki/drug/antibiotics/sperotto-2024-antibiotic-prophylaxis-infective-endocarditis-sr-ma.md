@@ -35,7 +35,7 @@ Largest SR+MA to date on dental antibiotic prophylaxis for infective endocarditi
 
 The headline: antibiotic prophylaxis significantly reduces IE incidence *only* in high-risk patients (prosthetic valves, history of IE, congenital heart disease, valvular disease post heart transplant). For moderate-risk and low-risk patients, no significant prophylactic effect was detected at population scale.
 
-[합의수준] This evidence supports the modern AHA 2007/2017 and NICE 2008 positions limiting prophylaxis to high-risk patients only and aligns with the long-running trend of reducing unnecessary antibiotic exposure in dentistry.
+[확인] This evidence supports the modern AHA 2007/2017 and NICE 2008 positions limiting prophylaxis to high-risk patients only and aligns with the long-running trend of reducing unnecessary antibiotic exposure in dentistry.
 
 ## Key Contributions
 - Definitive risk-stratified meta-analysis settling decades of debate over universal vs targeted prophylaxis.

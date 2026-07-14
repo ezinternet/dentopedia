@@ -52,8 +52,8 @@ n=15로 흡인이 낭종 제거와 미처치 사이의 임상적으로 타당한
 세 옵션 중 aspiration이 합리적인 default가 될 수 있다는 안전성 근거 보강.
 
 ## Strengths and Caveats
-[합의수준] Galeazzi·ARDEC·Michigan 그룹 합의 프로토콜 — 임상 신뢰도 높음
-[claude해석] n=15는 prospective 한계 — 흡인 재발률의 정확한 비율 추정 위해선 더 큰 cohort 필요
+[확인] Galeazzi·ARDEC·Michigan 그룹 합의 프로토콜 — 임상 신뢰도 높음
+[미검증] n=15는 prospective 한계 — 흡인 재발률의 정확한 비율 추정 위해선 더 큰 cohort 필요
 [미검증] 장기 추적 시 낭종 재팽창·sinus pathology 변화
 
 ## Related Papers

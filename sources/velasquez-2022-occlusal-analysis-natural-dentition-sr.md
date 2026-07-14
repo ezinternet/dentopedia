@@ -40,7 +40,7 @@ European Journal of Dentistry 2022 · Byron Velasquez et al. · 2022 · DOI: 10.
 SR, 189편→10편 포함(관찰·OR·case-control).
 
 ## 4. Key Results and Benchmarks
-디지털 교합분석이 교합지보다 객관적 [합의수준]. 비기능 교두 48%에 최대 접촉력. 교합지 단독은 주관적 한계.
+디지털 교합분석이 교합지보다 객관적 [확인]. 비기능 교두 48%에 최대 접촉력. 교합지 단독은 주관적 한계.
 
 ## 5. Limitations and Future Work
 포함 연구 설계 이질성, 정량 pooled 부재.

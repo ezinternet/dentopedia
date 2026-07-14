@@ -51,7 +51,7 @@ Retrospective chart review; outcomes: bleeding rate, INR levels, regimen continu
 | DAPT (16/24) | higher than monotherapy but controllable |
 | Control no antithrombotic (1,088/1,472) | baseline |
 
-[합의수준] Authors recommend continuation of warfarin (INR<4.0) and antiplatelet therapy through dental extractions.
+[확인] Authors recommend continuation of warfarin (INR<4.0) and antiplatelet therapy through dental extractions.
 
 ## Limitations
 - Single center, retrospective, no randomization

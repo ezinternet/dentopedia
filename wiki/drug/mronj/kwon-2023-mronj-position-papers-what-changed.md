@@ -41,7 +41,7 @@ Korean clinician review of how the AAOMS jaw-osteonecrosis position papers evolv
 - Narrative review comparing successive AAOMS position papers.
 
 ## Results
-- **Definition (2022)**: immune modulators (e.g., Romosozumab) added as potentially ONJ-related medications. [claude해석] Romosozumab is mechanistically a sclerostin inhibitor (anabolic), so its inclusion is about observed ONJ association, not antiresorptive class membership.
+- **Definition (2022)**: immune modulators (e.g., Romosozumab) added as potentially ONJ-related medications. [미검증] Romosozumab is mechanistically a sclerostin inhibitor (anabolic), so its inclusion is about observed ONJ association, not antiresorptive class membership.
 - **Treatment (2022)**: operative therapy now indicated across **all stages (1, 2, 3)** — a shift from reserving surgery for advanced disease.
 - **Drug holiday (2022)**: pre-surgical drug holiday to prevent MRONJ is **no longer supported/identified** in the 2022 paper.
 - Statements grounded in strict literature review; weakly-evidenced positions were revised.

@@ -65,7 +65,7 @@ The notable methodological strength is **measuring the pH** with a calibrated me
 
 ## Results
 
-[근거강함] Baseline comparable (age 35.2 vs 34.8 y; baseline pain VAS 6.5 vs 6.7, p=0.53).
+[확인] Baseline comparable (age 35.2 vs 34.8 y; baseline pain VAS 6.5 vs 6.7, p=0.53).
 
 | Parameter | Conventional (A) | Buffered (B) | p |
 |---|---|---|---|
@@ -74,17 +74,17 @@ The notable methodological strength is **measuring the pH** with a calibrated me
 | Duration (min) | 36.4 ± 8.2 | 45.8 ± 7.6 | < 0.01 |
 | Reinjection | 8% (4/50) | 4% (2/50) | 0.678 (NS) |
 
-[근거강함] Effect sizes: ~33% less injection pain, ~51% faster onset, ~26% longer duration with buffering.
+[확인] Effect sizes: ~33% less injection pain, ~51% faster onset, ~26% longer duration with buffering.
 
-[claude해석] The only success-adjacent endpoint (reinjection) was NS — efficacy is supported by faster onset and longer duration, not by a direct success-rate measure. Buffering here improves comfort and pharmacodynamics rather than rescuing failures (unlike the SIP setting, where the failure baseline is high).
+[미검증] The only success-adjacent endpoint (reinjection) was NS — efficacy is supported by faster onset and longer duration, not by a direct success-rate measure. Buffering here improves comfort and pharmacodynamics rather than rescuing failures (unlike the SIP setting, where the failure baseline is high).
 
 ## Clinical Implications for Korean Practice
 
-[합의수준] For 상악 구치 발치 (maxillary posterior extraction) by infiltration, buffering the standard 2% lidocaine/1:100,000 cartridge measurably reduces injection sting, speeds onset by ~2 min, and extends working time by ~9 min — directly relevant to single-tooth extraction comfort and chair efficiency.
+[확인] For 상악 구치 발치 (maxillary posterior extraction) by infiltration, buffering the standard 2% lidocaine/1:100,000 cartridge measurably reduces injection sting, speeds onset by ~2 min, and extends working time by ~9 min — directly relevant to single-tooth extraction comfort and chair efficiency.
 
-[claude해석] The mechanism is route-agnostic (pH normalization), so the maxillary-infiltration result reasonably generalizes to other infiltration sites; nerve-block confirmation comes from the sibling IANB trials.
+[미검증] The mechanism is route-agnostic (pH normalization), so the maxillary-infiltration result reasonably generalizes to other infiltration sites; nerve-block confirmation comes from the sibling IANB trials.
 
-[추정] Prepare buffered solution immediately before injection (precipitation risk on standing). No dose adjustment was made for weight/age in this ASA I/II adult cohort.
+[미검증] Prepare buffered solution immediately before injection (precipitation risk on standing). No dose adjustment was made for weight/age in this ASA I/II adult cohort.
 
 [wiki-living-document] Healthy adult, non-inflamed (chronic periapical, not acute SIP) population; reinjection was the only efficacy proxy and was NS. Apply as "buffering improves comfort/onset/duration in routine maxillary infiltration," not as evidence for rescuing failed anesthesia — for the high-failure SIP scenario see [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] and [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]].
 

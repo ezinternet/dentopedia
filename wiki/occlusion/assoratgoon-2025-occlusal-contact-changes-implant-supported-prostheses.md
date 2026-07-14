@@ -48,7 +48,7 @@ Tohoku 대학 SR. 임플란트 고정성 보철의 교합접촉이 식립 6개�
 PRISMA-P, PROSPERO 등록. 비영어·증례·동물·SR 제외. 1867→12편.
 
 ## Results
-식립 6개월 내 교합접촉 변화가 흔함 [합의수준]. 과부하 관리 술식 다양하나 표준화 부족.
+식립 6개월 내 교합접촉 변화가 흔함 [확인]. 과부하 관리 술식 다양하나 표준화 부족.
 
 ## Related Papers
 - [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]] — 단관 교합변화

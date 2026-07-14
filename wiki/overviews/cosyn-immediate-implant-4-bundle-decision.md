@@ -88,7 +88,7 @@ Cosyn 그룹 (Ghent Univ + Gent Univ Hospital, J Cosyn lead author)이 2021–20
 | Clinical inflammation | 차이 없음 | BoP·PD 동등 |
 | Patient-reported (pain) | flapless 우위 | atraumatic |
 
-요점: 협측 골판이 intact하고 keratinized tissue가 충분하면 flapless가 hard·soft tissue 보존에 약간 유리. 결손 case는 flap + GBR 필요. [근거강함]
+요점: 협측 골판이 intact하고 keratinized tissue가 충분하면 flapless가 hard·soft tissue 보존에 약간 유리. 결손 case는 flap + GBR 필요. [확인]
 
 ### (B) Immediate Provisionalization (IP) — Pitman 2022 SR+MA (JCP 2022;49:1012)
 
@@ -100,7 +100,7 @@ Cosyn 그룹 (Ghent Univ + Gent Univ Hospital, J Cosyn lead author)이 2021–20
 | Papilla recession | 차이 없음 | papilla 유지 |
 | MBL | 차이 없음 | hard tissue 동등 |
 
-요점: 즉시 임시치관 (IP)이 *연조직 emergence profile 형성*에 유효. 1차 안정성 ≥35 Ncm 충족 시 권장. [근거강함]
+요점: 즉시 임시치관 (IP)이 *연조직 emergence profile 형성*에 유효. 1차 안정성 ≥35 Ncm 충족 시 권장. [확인]
 
 ### (C) Connective Tissue Graft (CTG) — Seyssens 2021 SR+MA (JCP 2021;48:284)
 
@@ -108,7 +108,7 @@ Cosyn 그룹 (Ghent Univ + Gent Univ Hospital, J Cosyn lead author)이 2021–20
 - Vertical midfacial soft tissue change: CTG 군 유의하게 적음.
 - Pooled effect: midfacial level 보존 **~0.4–0.7 mm** (CTG 우위).
 
-요점: Thin biotype·협측 골 결손 risk case에서 CTG 동반이 midfacial recession을 약 0.5 mm 줄여줌. [근거강함]
+요점: Thin biotype·협측 골 결손 risk case에서 CTG 동반이 midfacial recession을 약 0.5 mm 줄여줌. [확인]
 
 ### (D) Socket Grafting (SG) — Seyssens 2022 SR+MA (CIDRR 2022;24:339)
 
@@ -117,33 +117,33 @@ Cosyn 그룹 (Ghent Univ + Gent Univ Hospital, J Cosyn lead author)이 2021–20
 - BBT (buccal bone thickness) 보존, vertical soft tissue 일부 우위.
 - Implant survival 동등.
 
-요점: Jump space ≥2 mm 시 xenograft (Bio-Oss 등) 충전이 *horizontal hard tissue 보존의 standard*. [근거강함]
+요점: Jump space ≥2 mm 시 xenograft (Bio-Oss 등) 충전이 *horizontal hard tissue 보존의 standard*. [확인]
 
 ---
 
 ## Cluster 2 — 4변수 통합 effect (조합별 시너지)
 
-Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동시 적용 시의 통합 효과는 SR+MA로 직접 비교되지 않았다. 그러나 주변 RCT 합성으로 추정 가능. [claude해석]
+Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동시 적용 시의 통합 효과는 SR+MA로 직접 비교되지 않았다. 그러나 주변 RCT 합성으로 추정 가능. [미검증]
 
 **Sanz 2017 (rct)** — 협측 틈새 ≥3 mm 이종골 충전 RCT. 충전군 협측 흡수 −0.46 mm vs 비충전 −0.84 mm. → SG의 effect size ≈ 0.4 mm 감소. Seyssens 2022 SR과 일치.
 
 **Paknejad 2017 (rct)** — Flapless + SG (이종골) 협측 틈새 충전. 6·12mo 흡수 유의 감소. → Flapless + SG 조합 가능 + 추가 우위.
 
-**Stagnaro-Borgia 2022 (rct)** — SG 자가골 (결절) vs 이종골 1년. 두 재료 동등 (협측 흡수 0.61 vs 0.58 mm). → SG의 *재료 선택*은 결과에 큰 차이 없음 — 술자 친숙도·환자 부담 기준으로 선택. [근거강함]
+**Stagnaro-Borgia 2022 (rct)** — SG 자가골 (결절) vs 이종골 1년. 두 재료 동등 (협측 흡수 0.61 vs 0.58 mm). → SG의 *재료 선택*은 결과에 큰 차이 없음 — 술자 친숙도·환자 부담 기준으로 선택. [확인]
 
-**Bajaj 2025 (rct, n=40, 12mo)** — SG (CGF-enriched bone graft) + IP. 시험군이 RW·VD·JS·RA·Testori 심미점수 모두 유의 우위. → SG + IP 조합 effect 강화. [합의수준]
+**Bajaj 2025 (rct, n=40, 12mo)** — SG (CGF-enriched bone graft) + IP. 시험군이 RW·VD·JS·RA·Testori 심미점수 모두 유의 우위. → SG + IP 조합 effect 강화. [확인]
 
-**Azadi 2025 (NMA, 21 RCT)** — 연조직 graft material 직접·간접 비교. CTG는 STT 증가에서만 유의; SUCRA 순위 CTG가 MIBL/KTW/STT/PH/MGML 1위. 단층 이종 콜라겐 매트릭스가 PES 1위. → *CTG의 우위가 통계적으로는 marginal*; thin biotype이 아니면 이종 collagen matrix로 대체 가능. [근거강함]
+**Azadi 2025 (NMA, 21 RCT)** — 연조직 graft material 직접·간접 비교. CTG는 STT 증가에서만 유의; SUCRA 순위 CTG가 MIBL/KTW/STT/PH/MGML 1위. 단층 이종 콜라겐 매트릭스가 PES 1위. → *CTG의 우위가 통계적으로는 marginal*; thin biotype이 아니면 이종 collagen matrix로 대체 가능. [확인]
 
 **Mansouri 2025 (sr+ma)** — Flapless + bone grafting 조합 SR+MA. RCT만 포함; 골이식 군 hard tissue 보존 경향.
 
-**Qin 2023 + Sutariya 2022** — IP의 midfacial mucosa·PES 우위 재확인. Pitman 2022와 일관된 3편 SR+MA 합의. [근거강함]
+**Qin 2023 + Sutariya 2022** — IP의 midfacial mucosa·PES 우위 재확인. Pitman 2022와 일관된 3편 SR+MA 합의. [확인]
 
 **Araújo 2026 (retrospective CBCT, n=28 상악 중절치)** — SG의 ≥2 mm gap 임계값을 *치조제 차원 보존*으로 정량화. DBBM으로 단단히 충전한 협측 gap **>2 mm는 치조제 단면적의 90% 이상 보존(흡수 8.5% ± 11%)**, 반면 **≤2 mm gap은 이식해도 비이식 소켓처럼 ~41% 흡수**(p<0.001) — 압축할 공간이 부족해 얇은(~0.7 mm) bundle bone 흡수 후 결손이 collapse. 회귀에서 **gap 폭이 유일한 유의 예측인자**(adjusted β=31.2, 95% CI 16.6–45.8); 기준 협측골 두께·CTG·임플란트 직경·기능기간은 모두 비유의. 광폭군의 치유된 2 mm 협측 벽은 *전부 gap 내 신생골* — 원래 얇은 벽은 치료와 무관하게 소실. → Seyssens 2022·Sanz 2017의 임계값에 *왜 ≤2 mm는 이식해도 소용없는가*의 차원적 기전을 보강. 단, 단일 숙련 술자·후향·중절치/intact wall 한정. [근거중간(retrospective)]
 
 **Wang 2026 (retrospective, n=120, 즉시 60 vs 지연 60 단일 상악 전치)** — IP의 *1차 안정성 floor*를 정량화. 즉시군은 식립 시 1차 안정성이 유의하게 낮지만(ITV 31.5 vs 36.3 N·cm; ISQ 63.1 vs 71.5, p<0.001), **ITV ≥20 N·cm·ISQ ≥50** floor를 충족한 선택 증례에서 12개월 성공률(98.3% vs 96.7%)·최종 ISQ(69.7 vs 70.6, p=0.589) 동등, **MBL 더 적고(0.48 vs 0.85 mm)·PES 더 높음(11.5 vs 10.1)**. ISQ gap은 12개월에 소멸(2차 안정성 catch-up). → IP의 권장 35 Ncm은 유지하되, 즉시식립 *자체* 가능 하한은 ITV ≥20·ISQ ≥50(논의에서 실용 목표 ITV ≥30)로 더 낮음을 명시. intact labial plate + thick biotype 한정. [근거중간(retrospective)]
 
-**Cosyn 2026 (narrative-review)** — Flap 변수를 *dehiscence socket*으로 확장. 협측 열개 소켓에서 **flapless가 필수**(flap이 협측골판 혈류 차단). 수직(Type II-a <4 / II-b 4–6 / II-c >6 mm)·측방(contained→partially-contained→non-contained→extended)·연조직지지로 **11개 morphotype**을 제안, 재생잠재력에 따라 3단계 전략으로 매핑: ① relatively high(II-a 전부, II-b contained) → *modified trimodal*(flapless·barrier 생략·gap 확대·CTG 약간 두껍게), ② moderate(II-b PC, II-c contained) → *four-pillar + non-supportive barrier*(native collagen 막), ③ low(II-b NC, II-c PC/NC) → *four-pillar + supportive barrier + composite bone graft*(tuberosity cortico-cancellous shell 또는 porcine supportive 막). **Type III(dehiscence + facial recession)·extended defect(인접치까지 골소실)는 절대 금기** → ARP + 지연식립. 미검증 개념틀이나, 기존 overview의 "협측 결손 → flap + GBR"을 morphotype별로 세분화. CBCT는 dehiscence 과대보고(very thin wall 비가시) → 수술 중 확인 필수. [합의수준→narrative]
+**Cosyn 2026 (narrative-review)** — Flap 변수를 *dehiscence socket*으로 확장. 협측 열개 소켓에서 **flapless가 필수**(flap이 협측골판 혈류 차단). 수직(Type II-a <4 / II-b 4–6 / II-c >6 mm)·측방(contained→partially-contained→non-contained→extended)·연조직지지로 **11개 morphotype**을 제안, 재생잠재력에 따라 3단계 전략으로 매핑: ① relatively high(II-a 전부, II-b contained) → *modified trimodal*(flapless·barrier 생략·gap 확대·CTG 약간 두껍게), ② moderate(II-b PC, II-c contained) → *four-pillar + non-supportive barrier*(native collagen 막), ③ low(II-b NC, II-c PC/NC) → *four-pillar + supportive barrier + composite bone graft*(tuberosity cortico-cancellous shell 또는 porcine supportive 막). **Type III(dehiscence + facial recession)·extended defect(인접치까지 골소실)는 절대 금기** → ARP + 지연식립. 미검증 개념틀이나, 기존 overview의 "협측 결손 → flap + GBR"을 morphotype별로 세분화. CBCT는 dehiscence 과대보고(very thin wall 비가시) → 수술 중 확인 필수. [확인→narrative]
 
 **Fettouh 2026 (prospective single-arm, n=26 전상악)** — *새 축: 가이드 식립 정확도*. 전상악 IIP는 drill이 구개 socket 경사를 따라 협측으로 밀려 shoulder가 facial로 가면 midfacial recession ~3배·각도형 지대주 필요. **Safe Angle Concept**(절치 root angle로 안전 shoulder 범위 정의) + **plateau-drill 2-guide**(평면 milling cutter로 구개 경사 제거 후 통상 osteotomy)로 편차 **각도 4.56°·platform 0.91 mm·apex 1.47 mm**, **전 26증례 safe angle 내·각도형 지대주 0건**, 9개월 PES 11.89·협측골 평균 2.13 mm. 가이드 SR+MA benchmark와 동등 수준. 대조군 없는 proof-of-concept(생존 100% vs 본문 "2개 실패"의 내부 불일치 존재). [근거중간(단일군)]
 
@@ -161,11 +161,11 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 | **Socket Grafting (SG, xenograft)** | Jump space ≥2 mm (≤2 mm은 이식해도 비이식 수준, Araújo 2026) | horizontal 협측 흡수 ~0.4 mm 감소; gap >2 mm → 치조제 단면적 90%+ 보존 (Araújo 2026) | 12mo–36mo |
 | **가이드 식립 정확도** (보조 축) | 전상악 IIP (drill 협측 slippage 위험) | Safe Angle + plateau-drill: 편차 각도 4.56°·apex 1.47 mm, 각도형 지대주 0건 (Fettouh 2026) | 9mo |
 
-4개 effect size를 *단순 가산하지 말 것* — Cosyn 4편이 각 변수의 *조정 효과*를 보고했으므로 일부 중첩 가능. [claude해석]
+4개 effect size를 *단순 가산하지 말 것* — Cosyn 4편이 각 변수의 *조정 효과*를 보고했으므로 일부 중첩 가능. [미검증]
 
 ---
 
-## 의사결정 알고리즘 [claude해석]
+## 의사결정 알고리즘 [미검증]
 
 ```
 [전제] Type 1A 또는 1B (즉시식립) 적응증 확정 (Type 1A overview 참고)
@@ -217,7 +217,7 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 
 ---
 
-## Knowledge Gaps & 한계 [claude해석]
+## Knowledge Gaps & 한계 [미검증]
 
 1. **4변수 조합의 통합 RCT 없음** — 각 변수는 SR+MA가 있지만 4변수를 factorial design으로 비교한 시험 없음. Effect size 가산 가능성은 추정.
 2. **CTG vs collagen matrix 우위 marginal** (Azadi 2025) — CTG의 환자 부담 (2차 수술부) 대비 임상적 이득이 미미한 case가 늘어남.
@@ -227,7 +227,7 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 6. **Dehiscence morphotype 전략 미검증** — Cosyn 2026의 11개 morphotype·3단계 전략은 개념틀로 임상·조직학적 outcome 검증 전. CBCT의 dehiscence 과대보고로 수술 중 확인이 필수.
 7. **가이드 식립 정확도 RCT 부재** — Fettouh 2026(Safe Angle+plateau-drill)·Nechita 2026(무회전방지 Morse taper IP)은 모두 단일군/후향이라 conventional 가이드 IIP 대비 우위 미입증.
 
-## 임상 권고 요약 [claude해석]
+## 임상 권고 요약 [미검증]
 
 - 4변수 *기본 default*: 전치부 single immediate placement → **Flapless + IP + Optional CTG + SG (jump space ≥2 mm)**.
 - Thin biotype은 CTG 추가가 가장 effect size 큼 (~0.5 mm midfacial 보존).

@@ -66,7 +66,7 @@ Clinical implication: for hemodynamically vulnerable patients — uncontrolled h
 
 ## Results
 
-[근거강함] Quantitative outcome table:
+[확인] Quantitative outcome table:
 
 | Outcome | L80 (1:80,000) | L200 (1:200,000) | p |
 |---|---|---|---|
@@ -83,24 +83,24 @@ Clinical implication: for hemodynamically vulnerable patients — uncontrolled h
 | ΔSBP after injection | larger | smaller | ≤0.01 |
 | ΔHR after injection | larger | smaller | ≤0.01 |
 
-[합의수준] **Conclusion**: efficacy equivalent across both formulations; hemodynamic safety (ΔSBP, ΔHR) significantly better with 1:200,000.
+[확인] **Conclusion**: efficacy equivalent across both formulations; hemodynamic safety (ΔSBP, ΔHR) significantly better with 1:200,000.
 
-[claude해석] The KDA article reports the directionality and significance threshold but does not republish the full numeric tables of the underlying English publication. The original quantitative effect sizes are in the corresponding J Dent Anesth Pain Med 2017 paper.
+[미검증] The KDA article reports the directionality and significance threshold but does not republish the full numeric tables of the underlying English publication. The original quantitative effect sizes are in the corresponding J Dent Anesth Pain Med 2017 paper.
 
 ## Clinical Implications for Korean Practice
 
-[합의수준] For 매복 하악 제3대구치 발치 (impacted mandibular third molar extraction):
+[확인] For 매복 하악 제3대구치 발치 (impacted mandibular third molar extraction):
 
 - **Healthy ASA I–II patients**: either L80 or L200 acceptable — no efficacy difference.
 - **Hypertension (controlled), prior cardiovascular event, arrhythmia, elderly**: **L200 preferred** based on the hemodynamic safety margin demonstrated.
 - **Uncontrolled hypertension, recent MI, unstable angina**: this trial excluded these patients; L200 is the safer extrapolation but procedural decision should follow Korean cardiology consult and the broader local anesthesia guidelines.
 - **Hemostatic concern only (anticoagulant/antiplatelet patients)**: this trial excluded them; intraoperative bleeding showed NS between L80 and L200, supporting that the vasoconstriction at 1:200,000 is clinically adequate for routine hemostasis.
 
-[claude해석] The Korean dental market historically defaulted to 2% lidocaine + 1:100,000 epinephrine (Yuhan / Huons preparations) and 1:80,000 (often in 2.2 mL Septanest-equivalent cartridges). The 1:200,000 formulation maps to the lower-vasoconstrictor option used in dental anesthesiology departments for cardiovascular-risk patients. This paper provides the RCT-level evidence base for that choice in third molar surgery.
+[미검증] The Korean dental market historically defaulted to 2% lidocaine + 1:100,000 epinephrine (Yuhan / Huons preparations) and 1:80,000 (often in 2.2 mL Septanest-equivalent cartridges). The 1:200,000 formulation maps to the lower-vasoconstrictor option used in dental anesthesiology departments for cardiovascular-risk patients. This paper provides the RCT-level evidence base for that choice in third molar surgery.
 
 ## Limitations (Critical Reading)
 
-[claude해석]
+[미검증]
 1. **Healthy population only** — ASA I–II enrollment is the standard for phase IV efficacy trials but means the patients who most need the lower-epinephrine formulation (CVD, uncontrolled HTN) were excluded by design. The authors acknowledge this and flag the ethical complexity of conducting the follow-up trial in cardiovascular patients.
 2. **Crossover period effect** — 1–4 wk washout assumes no residual effect on the second-side measurement. Acute surgical recovery (swelling, jaw guarding, central sensitization) could plausibly bias second-visit outcomes. The randomization of first-side assignment partially mitigates.
 3. **No long-term safety / post-op course comparison** — focus is on intra- and immediate post-op only.

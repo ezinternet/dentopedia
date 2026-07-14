@@ -42,7 +42,7 @@ The negative finding challenges routine preemptive NSAID prescribing for third-m
 - Low risk of bias (Cochrane criteria); high methodological heterogeneity
 
 ## 4. Key Results
-[근거강함] Preemptive NSAID vs placebo/no preemptive: NS (n=298, P=0.2227, OR not significant)
+[확인] Preemptive NSAID vs placebo/no preemptive: NS (n=298, P=0.2227, OR not significant)
 
 ## 5. Limitations
 - Small included study sample (4 for meta-analysis)

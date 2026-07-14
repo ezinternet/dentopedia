@@ -59,10 +59,10 @@ The intuition behind the question — *"7 mm short implants succeed, so why both
 But three things keep "always go short" from being correct either, and they are the reasons a clinician still reaches for a longer implant (often via augmentation):
 
 1. **Length is downstream of bone, not a free choice.** You can only place a short implant if there is enough residual bone height (RBH) to seat it. Below ~4–5 mm RBH even a short implant has no home, and augmentation + a standard-length implant becomes the dependable route.
-2. **The longer implant buys mechanical margin where the lever arm is hostile.** A short implant under a tall clinical crown (unfavorable crown-to-implant ratio), heavy bruxism, or a long edentulous span concentrates stress at the crest. Survival data do not yet penalize short implants here, but this is where the comfort zone narrows. [claude해석]
+2. **The longer implant buys mechanical margin where the lever arm is hostile.** A short implant under a tall clinical crown (unfavorable crown-to-implant ratio), heavy bruxism, or a long edentulous span concentrates stress at the crest. Survival data do not yet penalize short implants here, but this is where the comfort zone narrows. [미검증]
 3. **The long-term curve bends slightly toward length.** At 5 years Yu 2021 found longer implants *statistically* favored (RR 0.970, p<0.05) — though parity returned in the augmentation subgroup — and Mester 2023's ≥5 y pool trended toward standard+SFE (RR 0.97, p=0.07, NS). The ≥5 y evidence is thinner and lower-certainty, so the published *track record* still favors the longer/grafted route even when point estimates are equivalent.
 
-The synthesis: **choose length by the site, not by a blanket rule.** Where RBH and load permit, the short implant is the lower-morbidity default; where they don't, the longer implant + augmentation earns its place. [claude해석]
+The synthesis: **choose length by the site, not by a blanket rule.** Where RBH and load permit, the short implant is the lower-morbidity default; where they don't, the longer implant + augmentation earns its place. [미검증]
 
 ## Why Short Shows Less MBL — the mechanism behind the number
 
@@ -71,7 +71,7 @@ The MBL advantage is real in the pooled data but it is **easy to misread as a le
 1. **The comparator is usually a *grafted* long implant, not a bare one.** In the meta-analyses where short wins on MBL, the "long" arm is a long implant placed **with sinus floor elevation (SFE)** — so the difference partly reflects the surgical trauma and graft remodeling loaded onto the long arm, not the length. Alenezi 2025 (RCT-only SR+MA): short <8 mm vs long+SFE, MBL MD −0.26 mm (p<0.001). Zhang 2024 network MA: short beats **both** long+immediate-SFE and long+delayed-SFE on MBL. Strip the augmentation out and the gap narrows.
 2. **Head-to-head without grafting, MBL is equal — and length is not the determinant.** Kim 2026 (6 mm vs 8.5 mm, mean 6.5 y, no augmentation confound in the short arm) found MBL statistically **no different** (0.05 vs 0.12 mm, NS). Crucially, the higher crown-to-implant ratio of short implants (1.96 vs 1.41) was **not** associated with MBL (r=0.079, p=0.477) — refuting the "short = worse lever arm = more bone loss" intuition. The only parameter correlated with MBL was **insertion depth** (r=0.372, p<0.001), interpreted as physiological biologic-width remodeling after subcrestal placement, not pathological loss. Xu 2020 similarly found MBL MD 0.00 despite short's higher C/I.
 
-Biomechanical rationale for *why* length barely moves MBL: occlusal stress concentrates at the crestal cortical bone around the implant neck — the region where MBL actually occurs — and the apical length below contributes little to bearing that crestal load. So adding length does not meaningfully unload the crest, and MBL and length are only weakly linked to begin with. [claude해석 — no length-specific FEA in the wiki; the only crestal-stress FEA here is tapered-vs-cylindrical body geometry in [[overviews/implant-macrogeometry-clinical-outcomes-overview]], not length]
+Biomechanical rationale for *why* length barely moves MBL: occlusal stress concentrates at the crestal cortical bone around the implant neck — the region where MBL actually occurs — and the apical length below contributes little to bearing that crestal load. So adding length does not meaningfully unload the crest, and MBL and length are only weakly linked to begin with. [미검증 — no length-specific FEA in the wiki; the only crestal-stress FEA here is tapered-vs-cylindrical body geometry in [[overviews/implant-macrogeometry-clinical-outcomes-overview]], not length]
 
 **Takeaway:** short implants do not "protect" bone by being short. The pooled MBL edge is largely a **comparator artifact** (long arm carries augmentation) plus the fact that MBL's true drivers are insertion depth / biologic-width remodeling / surgical burden — not length or crown-to-implant ratio. Length-vs-length without grafting → MBL is equivalent.
 
@@ -106,10 +106,10 @@ flowchart TD
 ```
 
 Decision logic in prose:
-1. **RBH is the first gate.** ≥5–6 mm → a 6–8 mm short implant is placeable and is the lower-morbidity default. <4–5 mm → augmentation + standard length is the dependable route. [합의수준]
-2. **Crown-to-implant ratio / occlusal load is the second gate.** Favorable C/I and load → short. Unfavorable C/I, bruxism, long spans → either offset the lever arm (splint, wider diameter, occlusal management) or step up to a longer implant + augmentation. C/I thresholds are not quantified in the pooled evidence — this gate is inference. [claude해석]
-3. **Site and execution modify the short choice.** Maxilla carries higher short-implant failure (Barausse), and for extra-short (≤5–6 mm) the loading protocol and abutment choice directly move MBL (Sivolella) — so tighten maintenance and execution rather than abandoning short. [합의수준]
-4. **When equivalent, patient priorities and track record break the tie.** Short wins on morbidity, cost, time, MBL; the longer/grafted route wins on the longer published ≥5 y track record. [합의수준]
+1. **RBH is the first gate.** ≥5–6 mm → a 6–8 mm short implant is placeable and is the lower-morbidity default. <4–5 mm → augmentation + standard length is the dependable route. [확인]
+2. **Crown-to-implant ratio / occlusal load is the second gate.** Favorable C/I and load → short. Unfavorable C/I, bruxism, long spans → either offset the lever arm (splint, wider diameter, occlusal management) or step up to a longer implant + augmentation. C/I thresholds are not quantified in the pooled evidence — this gate is inference. [미검증]
+3. **Site and execution modify the short choice.** Maxilla carries higher short-implant failure (Barausse), and for extra-short (≤5–6 mm) the loading protocol and abutment choice directly move MBL (Sivolella) — so tighten maintenance and execution rather than abandoning short. [확인]
+4. **When equivalent, patient priorities and track record break the tie.** Short wins on morbidity, cost, time, MBL; the longer/grafted route wins on the longer published ≥5 y track record. [확인]
 
 ## Gaps & Future Research
 - **The ≥5 y evidence still leans, non-significantly, toward longer/grafted** (Yu 5 y RR 0.970 p<0.05; Mester RR 0.97 p=0.07). Adequately powered long-term RCTs are the missing piece.

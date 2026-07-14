@@ -54,7 +54,7 @@ Systematic review (J Prosthet Dent March 2015) of clinical tooth preparation geo
 - Mean clinically achievable TOC ~14-22° depending on study
 - 6° Shillingburg ideal essentially unattainable in mouth
 
-## Clinical Implications [근거강함]
+## Clinical Implications [확인]
 - The "6° taper" textbook number is a teaching ideal, not a clinical benchmark. Updating curricula and patient explanations to a 10-22° band reflects literature reality
 - In-mouth limitations (access, visibility, mirror use, tongue/cheek) systematically push TOC upward — preclinical/typodont values understate real-world preps
 - For Korean dental education, teaching to 6° while measuring student work against 10-22° creates cognitive dissonance — adjust grading bands accordingly

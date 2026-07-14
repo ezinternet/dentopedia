@@ -89,7 +89,7 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ## 1. 1차 처방 — Ibuprofen + Acetaminophen 병용
 
-[근거강함] **Miroshnychenko 2023 Network MA** (82 RCTs, n=9,095, dental extraction pain):
+[확인] **Miroshnychenko 2023 Network MA** (82 RCTs, n=9,095, dental extraction pain):
 
 | Intervention | NNT |
 |---|---|
@@ -100,9 +100,9 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 | Codeine 60mg | placebo와 동등 |
 | Tramadol 37.5mg + APAP | placebo와 동등 |
 
-[근거강함] **Moore 2015 Cochrane overview** — 단일 dose 진통제 NNT 비교에서 동일 결론: **Ibuprofen 400mg + APAP 1000mg NNT ~1.5**.
+[확인] **Moore 2015 Cochrane overview** — 단일 dose 진통제 NNT 비교에서 동일 결론: **Ibuprofen 400mg + APAP 1000mg NNT ~1.5**.
 
-[합의수준] **Altuhafy 2026 SR** (9 RCT, 정성 종합, I²=62–89%로 meta 불가) — oxicam 계열 **tenoxicam 20mg 1일 1회**는 위약 우월, ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 GI 부작용 더 많음). 1일 1회 투여 편의성·긴 반감기·GI 내약성이 장점. 1차 ibuprofen 불내성·복약 순응도 문제 환자의 대체 NSAID 옵션(근거 moderate, 표본 작고 지역 편중).
+[확인] **Altuhafy 2026 SR** (9 RCT, 정성 종합, I²=62–89%로 meta 불가) — oxicam 계열 **tenoxicam 20mg 1일 1회**는 위약 우월, ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 GI 부작용 더 많음). 1일 1회 투여 편의성·긴 반감기·GI 내약성이 장점. 1차 ibuprofen 불내성·복약 순응도 문제 환자의 대체 NSAID 옵션(근거 moderate, 표본 작고 지역 편중).
 
 → 임상 처방: **Ibuprofen 400mg + Acetaminophen 1000mg q6h, 술후 48–72h**.
 
@@ -110,7 +110,7 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ## 2. 투약 패턴 — Alternate > Concurrent
 
-[근거강함] **Gaballah 2025 RCT** (n=56, third molar 발치):
+[확인] **Gaballah 2025 RCT** (n=56, third molar 발치):
 
 | 투약 패턴 | Rescue medication 필요율 |
 |---|---|
@@ -131,7 +131,7 @@ p=0.002, 명확한 차이.
 
 ## 3. Opioid는 회피
 
-[근거강함] **Feldman 2024 RCT** (Multisite, n=1,815, third molar 발치):
+[확인] **Feldman 2024 RCT** (Multisite, n=1,815, third molar 발치):
 
 | Intervention | Day 1–2 통증 |
 |---|---|
@@ -140,28 +140,28 @@ p=0.002, 명확한 차이.
 
 전 timepoint에서 opioid가 비-opioid를 능가한 적 없음. 비-opioid 만족도 더 높음.
 
-[근거강함] **Watson 2022 SR-MA** — Acetaminophen 600 + Codeine 60 vs Ibuprofen 400 비교, Ibuprofen 단독이 동등 또는 우수. **ADA 2022 opioid-sparing 가이드라인 지지**.
+[확인] **Watson 2022 SR-MA** — Acetaminophen 600 + Codeine 60 vs Ibuprofen 400 비교, Ibuprofen 단독이 동등 또는 우수. **ADA 2022 opioid-sparing 가이드라인 지지**.
 
 → Opioid 처방은:
 - 비-opioid 실패 후 rescue medication에 한정
 - 단기 (≤3일)
 - 환자 history 확인 (substance use disorder, 동시 benzodiazepine·SSRI 등)
 
-[claude해석] 한국 치과는 미국 대비 opioid 처방 비율 낮음 (Tramadol 정도). 그래도 ADA opioid-sparing 원칙은 동일 적용. Tramadol도 Network MA에서 placebo 동등 — 처방 정당화 어려움.
+[미검증] 한국 치과는 미국 대비 opioid 처방 비율 낮음 (Tramadol 정도). 그래도 ADA opioid-sparing 원칙은 동일 적용. Tramadol도 Network MA에서 placebo 동등 — 처방 정당화 어려움.
 
 ---
 
 ## 4. Preemptive Analgesia — 시술별 효과 차이
 
-[근거강함] **Costa 2015 Meta** (third molar, 6 RCTs, n=420) — preemptive **NSAID** 효과 **유의하지 않음** (P=0.2227).
+[확인] **Costa 2015 Meta** (third molar, 6 RCTs, n=420) — preemptive **NSAID** 효과 **유의하지 않음** (P=0.2227).
 
 [근거중간] **Tamgadge 2025 RCT** (split-mouth single-blind, n=60, 양측 매복 하악 제3대구치) — preemptive **corticosteroid는 third molar에 명확히 유효**. 술전 dexamethasone 4mg 근육주사 1회가 위약 대비 day2·day7 통증(VAS day7 0.4 vs 1.6, p<0.001), 개구량(3.5 vs 2.7 cm, p<0.001), day7 부종(2.1 vs 2.8 cm, p=0.04) 모두 개선, 이상반응 없음. **NSAID-preemptive 무효(Costa)와의 핵심 차이** — 제3대구치 술전 약제는 NSAID가 아니라 corticosteroid가 정답. (Abusamak 2025 약동학 설명과 일치: dexamethasone 발현 3–4h이므로 술전 투여해야 술후 peak를 cover.)
 
-[근거강함] **Gousias 2025 SR-MA** (J Clin Periodontol, 18 RCT, n=1,995) — **치주·임플란트 수술**에서 preemptive analgesia 일부 시점(1·3·6·8·24·72h)에서 유의한 통증 감소.
+[확인] **Gousias 2025 SR-MA** (J Clin Periodontol, 18 RCT, n=1,995) — **치주·임플란트 수술**에서 preemptive analgesia 일부 시점(1·3·6·8·24·72h)에서 유의한 통증 감소.
 
-[합의수준] **Abusamak 2025 SR-MA** (6 RCT, n=262) — 치주수술 후 NSAIDs vs 코르티코스테로이드(SAIDs) 직접 비교: NSAIDs가 초기 통증(0–6h)에 우월, SAIDs가 48h 통증에 우월하며 부종·rescue 복용은 동등 (근거 중등도-낮음). 약동학적 설명: NSAIDs(ibuprofen 발현 30–60분)는 빠르고 SAIDs(dexamethasone 발현 3–4h)는 느려 술전 1일 전~1–2h 투여해야 perioperative coverage 확보. GBR·연조직증대 등 복합/성형 치주수술엔 무장력 치유 위해 SAIDs 선호.
+[확인] **Abusamak 2025 SR-MA** (6 RCT, n=262) — 치주수술 후 NSAIDs vs 코르티코스테로이드(SAIDs) 직접 비교: NSAIDs가 초기 통증(0–6h)에 우월, SAIDs가 48h 통증에 우월하며 부종·rescue 복용은 동등 (근거 중등도-낮음). 약동학적 설명: NSAIDs(ibuprofen 발현 30–60분)는 빠르고 SAIDs(dexamethasone 발현 3–4h)는 느려 술전 1일 전~1–2h 투여해야 perioperative coverage 확보. GBR·연조직증대 등 복합/성형 치주수술엔 무장력 치유 위해 SAIDs 선호.
 
-[claude해석] 시술별 차이의 가능성:
+[미검증] 시술별 차이의 가능성:
 - Third molar: 술중 통증 자체가 낮고, 술후 통증의 peak가 12–24h라 술전 dose가 그 시점까지 작용 못함.
 - 치주·임플란트: 술중 trauma가 술후 통증의 트리거. 술전 NSAID가 inflammatory cascade를 차단.
 
@@ -173,30 +173,30 @@ p=0.002, 명확한 차이.
 
 ## 5. Endodontic Pain — 특수 고려사항
 
-[합의수준] **Pak 2011 SR-MA** (72편) — 근관치료 통증 prevalence:
+[확인] **Pak 2011 SR-MA** (72편) — 근관치료 통증 prevalence:
 - **술전: 81%**
 - 24h 후: 40%
 - 1주 후: 11%
 
 근관치료는 술전 통증 prevalence가 매우 높음 → 술전 진통제 + 술후 진통제 모두 고려.
 
-[근거강함] **Smith 2017 SR-MA** — 술전 통증 동반 근관치료 환자에서 Ibuprofen 600mg이 위약 대비 6h 유효. Ibuprofen + Acetaminophen 병용도 위약보다 우수하나 ibuprofen 단독과 유의차 없음 (단일 dose 한정 결과).
+[확인] **Smith 2017 SR-MA** — 술전 통증 동반 근관치료 환자에서 Ibuprofen 600mg이 위약 대비 6h 유효. Ibuprofen + Acetaminophen 병용도 위약보다 우수하나 ibuprofen 단독과 유의차 없음 (단일 dose 한정 결과).
 
-[합의수준] **Samani 2025 Network MA** (16 RCT, n=2,021) — NSAIDs·corticosteroid가 비외과적 근관치료 후 8–72h 통증 유의 감소. 이질성 높아 최적 약제 결론 유보.
+[확인] **Samani 2025 Network MA** (16 RCT, n=2,021) — NSAIDs·corticosteroid가 비외과적 근관치료 후 8–72h 통증 유의 감소. 이질성 높아 최적 약제 결론 유보.
 
-[근거강함] **Wells 2011 RCT** (n=71, 응급 endodontic 치수괴사 환자) — Ibuprofen 600 vs Ibuprofen 600 + APAP 1000, **병용군이 통증·rescue 사용 감소 trend**.
+[확인] **Wells 2011 RCT** (n=71, 응급 endodontic 치수괴사 환자) — Ibuprofen 600 vs Ibuprofen 600 + APAP 1000, **병용군이 통증·rescue 사용 감소 trend**.
 
-[합의수준] **Vatankhah 2023 RCT** — 비가역적 치수염 1대구치 환자에서 **Diclofenac potassium 50mg이 Ibuprofen 400mg보다 우수**. Diclofenac이 옵션.
+[확인] **Vatankhah 2023 RCT** — 비가역적 치수염 1대구치 환자에서 **Diclofenac potassium 50mg이 Ibuprofen 400mg보다 우수**. Diclofenac이 옵션.
 
-[근거강함] **Kelidari 2026 Network MA** (10 RCT 정성·5 정량, n=347, **단회투여만** 한정) — 근관치료 후 단회 경구 진통제는 **시간대 의존**:
+[확인] **Kelidari 2026 Network MA** (10 RCT 정성·5 정량, n=347, **단회투여만** 한정) — 근관치료 후 단회 경구 진통제는 **시간대 의존**:
 - **즉각(6–8h)**: Diclofenac+Acetaminophen 최강(MD −6.28 vs placebo), 이어 Novafen(ibuprofen+APAP+caffeine), Ibuprofen+APAP.
 - **지속(12–24h)**: Novafen·Naproxen이 standout(24h MD 각 −2.89, −2.48); 24h 전구간 일관성은 이 둘이 최고.
 - **소실**: Diclofenac+APAP·Ibuprofen+APAP는 12h에 유의성 소실, Diclofenac+APAP는 24h엔 위약 수준(+0.50, p=0.93)으로 역전 → 장기 통증엔 재투여나 장시간형 필요.
 - Tramadol은 작동하나 opioid 부작용 동반; alprazolam은 진통이 아닌 항불안 효과뿐 → 보조 진통제로 권장 안 함.
 
-[근거강함] **Ping 2026 SR-MA** (7 RCT, 5 pooled) — endo 후 통증에서 **Ketorolac은 6h에 비교 진통제(dexamethasone·ibuprofen·tapentadol·etodolac·prednisolone) 대비 유의 우수**(SMD −0.82, p<0.00001)하고 **rescue medication 필요를 절반**으로(RR 0.50, I²=0%); 단 12·24h엔 차이 소실(ketorolac ~6h 반감기). 빠른 발현(IM/IV ~10분, oral 30–60분)이 6h 우위를, 짧은 반감기가 12h 수렴을 설명. **intranasal ketorolac(Sprix)**은 유일한 비강 NSAID 옵션(비침습).
+[확인] **Ping 2026 SR-MA** (7 RCT, 5 pooled) — endo 후 통증에서 **Ketorolac은 6h에 비교 진통제(dexamethasone·ibuprofen·tapentadol·etodolac·prednisolone) 대비 유의 우수**(SMD −0.82, p<0.00001)하고 **rescue medication 필요를 절반**으로(RR 0.50, I²=0%); 단 12·24h엔 차이 소실(ketorolac ~6h 반감기). 빠른 발현(IM/IV ~10분, oral 30–60분)이 6h 우위를, 짧은 반감기가 12h 수렴을 설명. **intranasal ketorolac(Sprix)**은 유일한 비강 NSAID 옵션(비침습).
 
-[합의수준] **Di Spirito 2022 Overview of SRs** — 근관 술후통증에서 NSAIDs 1차, **corticosteroid 보조 유효**, 술전투여 병용이 최적. 기구 조작 범위·세정·폐쇄도 통증에 영향.
+[확인] **Di Spirito 2022 Overview of SRs** — 근관 술후통증에서 NSAIDs 1차, **corticosteroid 보조 유효**, 술전투여 병용이 최적. 기구 조작 범위·세정·폐쇄도 통증에 영향.
 
 → 임상 처방 (근관치료):
 - 술전 통증 있으면 술전 Ibuprofen 600mg (Smith 2017 protocol)
@@ -212,27 +212,27 @@ p=0.002, 명확한 차이.
 ### 6-0. 단회투여 이상반응은 대부분 nocebo (만성 위해와 구분)
 [근거중간] **Magesty 2026 Network MA** (28 RCT, n=5,306, 하악 제3대구치, 단회 경구) — SUCRA 안전성 순위에서 **NSAID 단독이 가장 위험(86.5%)이나 위약이 2위(81.7%)**. 약리적으로 불활성인 위약이 진짜 약물 AE를 낼 수 없으므로, 저자는 이 패턴을 **노세보(nocebo) 효과**(동의서 위험고지로 증폭된 부정적 기대 + 수술성 prostaglandin 오심을 약물 탓으로 오인)로 해석. 유의한 pairwise는 NSAID 단독 > 타 비-opioid(RR 1.82)·opioid 단독(RR 0.61) 정도이며 확실성은 매우 낮음~낮음. **가장 안전한 조합은 NSAID+비-opioid+opioid 3제(SUCRA 15.5%)**이나 이는 효능 맥락 없는 AE-only ranking.
 
-→ 임상 적용 [claude해석]: 이 확률적 안전성 수치로 **NSAID를 1차에서 내리지 말 것**. 단회 NSAID AE는 경미·일시적 오심 수준이고 효능 우위(NNT 1.5–3)가 이를 압도. 본 절의 나머지(6-1~6-4)는 **만성·고위험 환자**의 진짜 장기 위해(신·심혈관·골유착)이며 단회 치과 처방에 직접 외삽하면 안 됨.
+→ 임상 적용 [미검증]: 이 확률적 안전성 수치로 **NSAID를 1차에서 내리지 말 것**. 단회 NSAID AE는 경미·일시적 오심 수준이고 효능 우위(NNT 1.5–3)가 이를 압도. 본 절의 나머지(6-1~6-4)는 **만성·고위험 환자**의 진짜 장기 위해(신·심혈관·골유착)이며 단회 치과 처방에 직접 외삽하면 안 됨.
 
 ### 6-1. 신기능
-[근거강함] **Gomes 2025** ICU 후향(n=1,157) — NSAID 사용이 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98). Stage 3 AKI는 2년 생존율 악화(aHR 1.42).
+[확인] **Gomes 2025** ICU 후향(n=1,157) — NSAID 사용이 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98). Stage 3 AKI는 2년 생존율 악화(aHR 1.42).
 
 → 임상 적용: eGFR <60 환자, 고령(>75), 탈수·이뇨제 동시 복용, NSAID 장기 복용 환자에서 **NSAID 회피**. Acetaminophen 단독 또는 Tramadol 단기 대안.
 
 ### 6-2. 심혈관·항혈소판
-[claude해석] NSAID는 일반 인구에서 CV 위험을 약간 증가시키지만, Aspirin 복용 심혈관 환자에서는 **Aspirin 항혈소판 효과 차단**이 더 큰 임상 이슈 → [[drug-anticoagulant-antiplatelet-perioperative-overview]] 4절 참조.
+[미검증] NSAID는 일반 인구에서 CV 위험을 약간 증가시키지만, Aspirin 복용 심혈관 환자에서는 **Aspirin 항혈소판 효과 차단**이 더 큰 임상 이슈 → [[drug-anticoagulant-antiplatelet-perioperative-overview]] 4절 참조.
 
-[합의수준] **Zingel 2025** narrative — 염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며 오히려 전신염증 억제로 심보호 가능성 시사. RA 환자 치과 처치 시 NSAID 처방 안전성 참고. **단, MRONJ 위험인자**이기도 함 → [[drug-mronj-antiresorptive-overview]].
+[확인] **Zingel 2025** narrative — 염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며 오히려 전신염증 억제로 심보호 가능성 시사. RA 환자 치과 처치 시 NSAID 처방 안전성 참고. **단, MRONJ 위험인자**이기도 함 → [[drug-mronj-antiresorptive-overview]].
 
 ### 6-3. 위장관
-[근거강함] **Rainsford 2009** — Ibuprofen OTC dose(800–1,200mg/day)는 처방 dose(1,800–2,400mg/day) 대비 위장관 부작용 낮음. 단기 사용 (≤7일)에서 위험 매우 낮음.
+[확인] **Rainsford 2009** — Ibuprofen OTC dose(800–1,200mg/day)는 처방 dose(1,800–2,400mg/day) 대비 위장관 부작용 낮음. 단기 사용 (≤7일)에서 위험 매우 낮음.
 
 → 임상 적용: 치과 술후 진통은 보통 ≤7일 → 위장관 위험은 일반 인구에서 무시 가능. **위궤양 history·warfarin·corticosteroid 동시 복용 환자**에서만 PPI 동반 또는 Acetaminophen으로 전환.
 
 ### 6-4. 임플란트·골유착 (COX-2)
-[합의수준] **Etikala 2019** narrative — 선택적 **COX-2 억제제(Celecoxib·etoricoxib)는 골형성 억제 → 임플란트 골유착 저해 가능성** 보고. 임상 근거 부족으로 결론 유보.
+[확인] **Etikala 2019** narrative — 선택적 **COX-2 억제제(Celecoxib·etoricoxib)는 골형성 억제 → 임플란트 골유착 저해 가능성** 보고. 임상 근거 부족으로 결론 유보.
 
-→ 임상 적용 [claude해석]: 임플란트 식립 환자에서 COX-2 selective 회피. 비선택적 Ibuprofen·Naproxen 단기 사용은 안전.
+→ 임상 적용 [미검증]: 임플란트 식립 환자에서 COX-2 selective 회피. 비선택적 Ibuprofen·Naproxen 단기 사용은 안전.
 
 ---
 

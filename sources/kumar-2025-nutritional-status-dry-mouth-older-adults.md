@@ -40,7 +40,7 @@ Journal of Dentistry 2025;162:106071 · Sanjana Santhosh Kumar, Raquel Cantillo,
 4개 DB(~2024.12), 14편(횡단11·환자대조2·코호트1). random-effects. PROSPERO.
 
 ## 4. Key Results and Benchmarks
-13/14 연구가 구강건조-영양실조 유의 연관; xerostomia 38%(22-57), malnutrition 55%(34-74), I² 높음 [합의수준]. 진단기준 표준화 필요.
+13/14 연구가 구강건조-영양실조 유의 연관; xerostomia 38%(22-57), malnutrition 55%(34-74), I² 높음 [확인]. 진단기준 표준화 필요.
 
 ## 5. Limitations and Future Work
 이질성 매우 높음(I²97%), 횡단 다수로 인과 제한.

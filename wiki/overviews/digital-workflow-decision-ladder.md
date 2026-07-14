@@ -17,15 +17,15 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 디지털 치의학을 4축(구강내스캐너(Intraoral Scanner, IOS) 정확도·컴퓨터지원 임플란트수술(Computer-Assisted Implant Surgery, CAIS)·AI 진단·LLM 환자응답)으로 묶은 28편 spine 결정 사다리.
-> - 축1 IOS: 단관·소악궁(3–4 unit)은 임상 표준(trueness 50–100µm), 전악 자연치는 기기 신중 선택(TRIOS 3·Primescan), 무치악 전악은 전통 인상 또는 기공실 스캐너 1차 — IOS는 보조. [근거강함]
+> - 축1 IOS: 단관·소악궁(3–4 unit)은 임상 표준(trueness 50–100µm), 전악 자연치는 기기 신중 선택(TRIOS 3·Primescan), 무치악 전악은 전통 인상 또는 기공실 스캐너 1차 — IOS는 보조. [확인]
 > - 전악 IOS는 후방 연장 시 오차 누적(trueness 50–200µm), 구치부 오차 증가가 일관된 한계.
-> - 축2 CAIS: 즉시식립·심미부·다중 임플란트는 full-static 또는 dynamic이 freehand 우위(Schiavon 2025 NMA, 7 RCT 338 임플란트). 단순 단일치는 freehand 가능, Free flap 재건은 가이드 거의 필수. [근거강함]
-> - 축3 AI: 우식 검출 정확도 약 95%, 임플란트 종류 인식 93.8–98%, 골유착 예측·치근단 품질평가(AUC 0.924–1.000) — 모두 진단·교육 보조 단계, 임상 검증 부족, 자율 치료 결정은 아직. [합의수준]
-> - 축4 LLM: 치과 환자 응답 정확도 약 82%·임상 수용 약 70%, 모델 차이 큼 → instruction 초안 작성 후 술자 검토 필수, 직접 환자 제공 금지, 진단·결정 부적합. [합의수준]
+> - 축2 CAIS: 즉시식립·심미부·다중 임플란트는 full-static 또는 dynamic이 freehand 우위(Schiavon 2025 NMA, 7 RCT 338 임플란트). 단순 단일치는 freehand 가능, Free flap 재건은 가이드 거의 필수. [확인]
+> - 축3 AI: 우식 검출 정확도 약 95%, 임플란트 종류 인식 93.8–98%, 골유착 예측·치근단 품질평가(AUC 0.924–1.000) — 모두 진단·교육 보조 단계, 임상 검증 부족, 자율 치료 결정은 아직. [확인]
+> - 축4 LLM: 치과 환자 응답 정확도 약 82%·임상 수용 약 70%, 모델 차이 큼 → instruction 초안 작성 후 술자 검토 필수, 직접 환자 제공 금지, 진단·결정 부적합. [확인]
 > - LLM·AI 공통 제약: 환자 식별정보 입력 절대 금지(개인정보보호법+HIPAA), 데이터 프라이버시·알고리즘 편향·블랙박스 인지 필수.
 > - 신규 spoke: 자율로봇 CAIS(Yu 2025·Wei 2025·Chen 2025·Wu 2024)는 dynamic navigation 대비 각도·플랫폼·첨부 편차를 개선하나 시술시간 증가 등 trade-off 존재.
 > - CBCT 기반 상악동 부피 자동측정(Luz 2018, SMOP)은 sinus lift 계획에 직접 활용 가능하나 측정 정확도 cross-validation 필요.
-> - 확신도 등급: IOS·CAIS = [근거강함](다수 SR+NMA), AI 진단 정확도·LLM = [합의수준](대부분 retrospective+narrative, 단일 SR+MA).
+> - 확신도 등급: IOS·CAIS = [확인](다수 SR+NMA), AI 진단 정확도·LLM = [확인](대부분 retrospective+narrative, 단일 SR+MA).
 
 ## Three-line Summary
 
@@ -56,11 +56,11 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 본 페이지는 wiki/digital-workflow/ 28 paper의 4-axis spine. IOS는 단관·인레이에 임상 표준, 전악·무치악은 여전히 정확도 한계. AI는 진단 보조 단계, LLM은 환자 instruction 보조로 신중 적용.
 
 핵심 명제 5개:
-1. **IOS 단관·소악궁 임상 표준. 전악·무치악은 trueness 50-200 μm + 후방 연장 시 오차 누적. 무치악은 기공실 스캐너 우위** — Vitai 2023 NMA, Vankos 2026 SR+MA (34 in-vitro), Singh 2025 umbrella (10 SR), Achmadi 2025 scoping. [근거강함]
-2. **즉시식립 CAIS (dynamic 또는 full-static) > freehand. NMA가 정확도 순위 정량화** — Schiavon 2025 SR+NMA (7 RCT 338 implant). [근거강함]
-3. **AI 우식 검출 95% 정확도. 임플란트 종류 인식 93.8-98%. 임상 검증 부족 단계** — Najeeb 2025 SR (63편), Revilla-Leon 2021 SR (17편), Park 2023 retrospective. [합의수준]
-4. **LLM 치과 환자 응답 정확도 82%, 임상 수용 가능 응답 70%. 모델 차이 큼, 사용자 검토 필수** — Zhang 2025 SR+MA (25편). [합의수준]
-5. **AI CBCT 임플란트 drilling protocol 예측 93.8% 정확도. 1차 안정성 보조** — Sakai 2023 retrospective. [합의수준]
+1. **IOS 단관·소악궁 임상 표준. 전악·무치악은 trueness 50-200 μm + 후방 연장 시 오차 누적. 무치악은 기공실 스캐너 우위** — Vitai 2023 NMA, Vankos 2026 SR+MA (34 in-vitro), Singh 2025 umbrella (10 SR), Achmadi 2025 scoping. [확인]
+2. **즉시식립 CAIS (dynamic 또는 full-static) > freehand. NMA가 정확도 순위 정량화** — Schiavon 2025 SR+NMA (7 RCT 338 implant). [확인]
+3. **AI 우식 검출 95% 정확도. 임플란트 종류 인식 93.8-98%. 임상 검증 부족 단계** — Najeeb 2025 SR (63편), Revilla-Leon 2021 SR (17편), Park 2023 retrospective. [확인]
+4. **LLM 치과 환자 응답 정확도 82%, 임상 수용 가능 응답 70%. 모델 차이 큼, 사용자 검토 필수** — Zhang 2025 SR+MA (25편). [확인]
+5. **AI CBCT 임플란트 drilling protocol 예측 93.8% 정확도. 1차 안정성 보조** — Sakai 2023 retrospective. [확인]
 
 ## Results
 
@@ -163,7 +163,7 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 |---|---|---|
 | [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] | retrospective (128 sinus, 64명) | SMOP 임플란트 계획 SW로 상악동 osseous + 점막(공기화) 부피 정량화 — 술전 계획 표준화 시도 |
 
-**임상 함의**: CBCT 기반 sinus 부피 자동 측정은 sinus lift 계획에 직접 활용. SMOP 같은 implant planning SW의 측정 정확도는 cross-validation 필요. [합의수준]
+**임상 함의**: CBCT 기반 sinus 부피 자동 측정은 sinus lift 계획에 직접 활용. SMOP 같은 implant planning SW의 측정 정확도는 cross-validation 필요. [확인]
 
 ## Related overviews
 
@@ -172,13 +172,13 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 - [[overviews/prosthetic-materials-decision-ladder]] — CAD/CAM 보철
 
 확신도 등급:
-- 축 1 IOS = [근거강함] (다수 SR + NMA).
-- 축 2 CAIS = [근거강함] (Schiavon 2025 NMA).
-- 축 3 AI 진단 정확도 = [합의수준] (대부분 retrospective + narrative).
+- 축 1 IOS = [확인] (다수 SR + NMA).
+- 축 2 CAIS = [확인] (Schiavon 2025 NMA).
+- 축 3 AI 진단 정확도 = [확인] (대부분 retrospective + narrative).
 
 ## Evidence Update — Full-Arch IOS Accuracy for Implant Frameworks (Fouda 2025)
 
 Fouda 2025 (in vitro micro-CT, 10 full-arch titanium frameworks from TRIOS 5 IOS scans, 4-implant edentulous model; Scanco µ100 as reference at 36.8 µm voxel) provides a sobering precision benchmark for implant-supported full-arch workflows. Only 3/10 frameworks passed micro-CT passivity criteria; 0/10 met the single-screw-test; and only 2/10 intraoral scans fell within 150 µm RMS deviation. The authors identified IOS scanning error — not milling or design — as the dominant source of misfit. For full-arch implant cases, this data argues for: (1) laboratory scan verification of IOS accuracy before milling, (2) clinical passive-fit verification protocols at try-in, and (3) accepting that even modern IOS systems may have difficulty with long-span full-arch implant cases at the precision required for passive fit.
 
 - [[digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch]] — micro-CT: 70% of full-arch IOS-to-framework cases fail passivity; scanning error dominates; laboratory verification essential.
-- 축 4 LLM = [합의수준] (단일 SR+MA + umbrella).
+- 축 4 LLM = [확인] (단일 SR+MA + umbrella).

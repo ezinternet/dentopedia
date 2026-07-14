@@ -41,7 +41,7 @@ potential (CHIP) — 골수 변이가 platelet activation·cross-talk을 통해 
 Translational research integrating mouse models, platelet functional assays, and human CHIP cohort data.
 
 ## 4. Key Results
-[근거강함] JAK2V617F CHIP → platelet activation → arterial thrombosis (mechanistically demonstrated)
+[확인] JAK2V617F CHIP → platelet activation → arterial thrombosis (mechanistically demonstrated)
 
 ## 5. Limitations
 - Basic/translational; clinical management implications still developing
@@ -49,7 +49,7 @@ Translational research integrating mouse models, platelet functional assays, and
 - No direct dental procedure implication
 
 ## 6. Related Work
-[claude해석] Dental connection is indirect: aging dental patients with unexplained thrombosis history may have CHIP; future CHIP-aware antithrombotic decisions could refine perioperative bleeding/thrombosis management. Currently background knowledge for the dental clinician seeing complex cardiovascular patients.
+[미검증] Dental connection is indirect: aging dental patients with unexplained thrombosis history may have CHIP; future CHIP-aware antithrombotic decisions could refine perioperative bleeding/thrombosis management. Currently background knowledge for the dental clinician seeing complex cardiovascular patients.
 
 - [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — perioperative APT general SR.
 - [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — primary prevention.

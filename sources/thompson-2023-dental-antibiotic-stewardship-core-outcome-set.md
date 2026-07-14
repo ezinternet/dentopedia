@@ -40,7 +40,7 @@ source_collection: external
 Delphi consensus methodology; candidate outcomes from literature review; >70% "critical for inclusion" threshold; international participants via professional bodies and patient organizations.
 
 ## 4. Key Results
-[합의수준] Core outcome set agreed; specific items in paper.
+[확인] Core outcome set agreed; specific items in paper.
 
 ## 5. Limitations
 - Outcome set, not effectiveness data

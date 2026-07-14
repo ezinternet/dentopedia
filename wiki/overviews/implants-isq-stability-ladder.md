@@ -33,7 +33,7 @@ relations:
 > [!summary] 한국어 핵심요약
 > - 이 페이지는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)/공명주파수분석(Resonance Frequency Analysis, RFA)의 의사결정 3축 — 측정 도구·임계값·영향 변수 — 을 정리한 `implants/isq/` 31편의 spine이다.
 > - **방법의 기원**: RFA는 Meredith 1996이 임플란트-조직 계면 안정성 정량화 기법으로 최초 도입했고(ISQ 척도의 개념적 뿌리), Nedir 2004가 식립 시 ISQ(≥49 지연/≥54 즉시부하)로 골유착 유지를 예측 가능함을 보였다 — 현 임계값 ladder의 역사적 토대.
-> - **임계값**: 식립 시 ISQ ≥ 70 또는 4–6주 healing 후 ISQ ≥ 65가 조기/즉시 부하(early/immediate loading)의 임계 (Andersson 2019 + Bavetta 2024). [근거강함]
+> - **임계값**: 식립 시 ISQ ≥ 70 또는 4–6주 healing 후 ISQ ≥ 65가 조기/즉시 부하(early/immediate loading)의 임계 (Andersson 2019 + Bavetta 2024). [확인]
 > - **측정 도구**: Osstell과 Periotest는 상관성이 우수해 임상 호환 가능하나, 수치가 직관적인 **Osstell(1–100)을 1차 추천**. SmartPeg는 토크 ≥ 10 Ncm로 표준화해야 정확 (Kastel 2019).
 > - **영향 변수**: 피질골(cortical bone) 두께와 macro-design(tapered·platform)이 ISQ의 주 결정인자이고, 임플란트 길이·직경의 영향은 상대적으로 약하다 (Stoilov 2023, Chatvaratthana 2017). 단, **직경**은 T2(2차 안정성) ISQ에서 시스템 독립적 일반 예측인자 (β=+3.4~+4.2, Huang 2017 n=557 다변량 회귀).
 > - **치조정 피질골의 지배**: 치조정에서 3mm 이내 피질골 두께만 ISQ와 강한 상관 (r=0.885); 6·9mm 깊이와 해면골은 무관 (Chatvaratthana 2017 전향적, n=19). CBCT 식립 전 평가로 ISQ 예측 가능.
@@ -44,7 +44,7 @@ relations:
 > - **임상 함의**: 식립 전 CBCT로 피질골 두께를 평가하면 ISQ를 예측 가능하며, 저밀도골에는 tapered design 우선 + 골밀도화(Osseodensification, OD) 보조 고려.
 > - 짧은 임플란트라도 적절한 macro-design + 피질골 고정(cortical anchorage) 확보 시 ISQ는 충분할 수 있다.
 > - **Ali 2026 추가 (분할구 RCT, n=7, 상악 전치부)**: Densah bur OD → ISQ 70.1 (즉시부하 임계 달성), Magnetic Mallet OD → ISQ 49.0 (미달) (p<0.001). 상악 전치부 얇은 치조제에서 Magnetic Mallet은 합병증(협측골판 파절, 구개측 균열) 2건 발생 — 학습곡선 급격함. Densah bur가 심미 구역 OD의 1차 선택. [rct, n=7 — 예비적]
-> - 도구 비교는 [합의수준], 임계값은 [근거강함], 영향 변수는 [근거강함]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
+> - 도구 비교는 [확인], 임계값은 [확인], 영향 변수는 [확인]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
 
 ## Three-line Summary
 
@@ -67,10 +67,10 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 본 페이지는 wiki/implants/isq/ 23 paper spine. 기존 ISQ 관련 작업 ([[overviews/isq-loading-threshold]] · [[overviews/sinus-lift-isq-loading-timing]]) 의 보완. ISQ는 chairside primary stability quantification의 표준 도구이나 측정 도구 간 차이·임계값 적용·macro-design 영향을 정리할 필요.
 
 핵심 명제 4개:
-1. **ISQ ≥70 (식립 시) 또는 ≥65 (4-6주 healing 후) — early/immediate loading 임계** — Andersson 2019 + Bavetta 2024 (본 sub-cat의 spine). [근거강함]
-2. **Osstell vs Periotest 상관성 우수, 임상에서 호환 가능. Osstell 1차 추천 (수치 직관적)** — Al-Jetaily 2010, Zix 2008. [합의수준]
-3. **Cortical bone 두께·macro-design (tapered·platform)이 ISQ의 주 결정인자. 길이·직경은 상대적으로 약함** — Chatvaratthana 2017, Stoilov 2023, Nandini 2022, Shiffler 2016. [근거강함]
-4. **SmartPeg torque (≥10 Ncm) 측정 정확도에 영향. 표준 torque 적용 필수** — Kastel 2019. [합의수준]
+1. **ISQ ≥70 (식립 시) 또는 ≥65 (4-6주 healing 후) — early/immediate loading 임계** — Andersson 2019 + Bavetta 2024 (본 sub-cat의 spine). [확인]
+2. **Osstell vs Periotest 상관성 우수, 임상에서 호환 가능. Osstell 1차 추천 (수치 직관적)** — Al-Jetaily 2010, Zix 2008. [확인]
+3. **Cortical bone 두께·macro-design (tapered·platform)이 ISQ의 주 결정인자. 길이·직경은 상대적으로 약함** — Chatvaratthana 2017, Stoilov 2023, Nandini 2022, Shiffler 2016. [확인]
+4. **SmartPeg torque (≥10 Ncm) 측정 정확도에 영향. 표준 torque 적용 필수** — Kastel 2019. [확인]
 
 ## Results
 
@@ -241,6 +241,6 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 - [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 궤적 → 부하결정)
 
 확신도 등급:
-- 축 1 도구 = [합의수준] (Osstell·Periotest 비교 in vitro·clinical).
-- 축 2 임계값 = [근거강함] (기존 wiki overview들의 합의).
-- 축 3 변수 = [근거강함] (다수 clinical study).
+- 축 1 도구 = [확인] (Osstell·Periotest 비교 in vitro·clinical).
+- 축 2 임계값 = [확인] (기존 wiki overview들의 합의).
+- 축 3 변수 = [확인] (다수 clinical study).

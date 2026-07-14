@@ -44,7 +44,7 @@ RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자, 치수괴사+근첨방
 - Outcomes: postoperative pain VAS, escape medication use
 
 ## 4. Key Results
-[근거강함] Ibuprofen + APAP combination → less pain + less escape medication usage vs ibuprofen alone.
+[확인] Ibuprofen + APAP combination → less pain + less escape medication usage vs ibuprofen alone.
 
 ## 5. Limitations
 - Small RCT (n=71)

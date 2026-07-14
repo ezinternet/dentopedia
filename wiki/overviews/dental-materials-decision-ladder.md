@@ -52,11 +52,11 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 치과 보철·수복의 재료 결정은 4축으로 분해된다 — (1) 지르코니아 접착 (시적 후 오염 처리·primer·시멘트), (2) CAD/CAM 단관·FPD vs PFM의 임상 비교, (3) 후방부 아말감 vs 복합레진 수명 비교, (4) 자가접착형 vs 전통 접착형 레진시멘트 선택. 각 축에 spine paper와 임상 임계값을 명시한다.
 
 핵심 명제 5개:
-1. **지르코니아 시적 후 타액 오염은 sandblasting + Ivoclean이 최우수 세정** — Silva 2022 SR+MA, Genc 2025 (SBS 9.3 MPa vs IPA 3.04 MPa). [근거강함]
-2. **5Y-PSZ도 MDP 반응성 유지 — 5Y-PSZ ≠ 접착 약점** — Comba 2021 in vitro. [합의수준]
-3. **CAD/CAM 전부도재 단관 임상성적 PFM 대등, 심미는 OR 16.88로 우위** — Aswal 2023 SR+MA (13편 1,598 수복물), Lolos 2025 5y retrospective. [근거강함]
-4. **아말감 vs 복합레진 후방부 수명 격차 좁혀짐 — big data 연간 실패 3.5% vs 4.5%, HR 1.32** — Tobias 2024 (n>650,000), Al-Sulimman 2025 SR+MA. [근거강함]
-5. **연마 단일체 지르코니아 대합치 enamel wear는 임상 허용 수준. 유약 처리는 오히려 wear 증가** — Aljomard 2022 SR+MA, Shah 2024 umbrella, Steiner 2024 in vitro. [근거강함]
+1. **지르코니아 시적 후 타액 오염은 sandblasting + Ivoclean이 최우수 세정** — Silva 2022 SR+MA, Genc 2025 (SBS 9.3 MPa vs IPA 3.04 MPa). [확인]
+2. **5Y-PSZ도 MDP 반응성 유지 — 5Y-PSZ ≠ 접착 약점** — Comba 2021 in vitro. [확인]
+3. **CAD/CAM 전부도재 단관 임상성적 PFM 대등, 심미는 OR 16.88로 우위** — Aswal 2023 SR+MA (13편 1,598 수복물), Lolos 2025 5y retrospective. [확인]
+4. **아말감 vs 복합레진 후방부 수명 격차 좁혀짐 — big data 연간 실패 3.5% vs 4.5%, HR 1.32** — Tobias 2024 (n>650,000), Al-Sulimman 2025 SR+MA. [확인]
+5. **연마 단일체 지르코니아 대합치 enamel wear는 임상 허용 수준. 유약 처리는 오히려 wear 증가** — Aljomard 2022 SR+MA, Shah 2024 umbrella, Steiner 2024 in vitro. [확인]
 
 ## Key Contributions
 
@@ -72,7 +72,7 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 
 ### 축 1 — 지르코니아 접착 APC 프로토콜 (Air-abrade · Prime · Cement)
 
-**1차 권고**: Air-abrasion (50 µm Al₂O₃, 1-2 bar) → Ivoclean 세정 (시적 후 오염 시) → MDP-함유 primer → MDP-함유 또는 자가접착 레진시멘트. [근거강함]
+**1차 권고**: Air-abrasion (50 µm Al₂O₃, 1-2 bar) → Ivoclean 세정 (시적 후 오염 시) → MDP-함유 primer → MDP-함유 또는 자가접착 레진시멘트. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -87,24 +87,24 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 
 **임상 ladder (chairside SOP)**:
 1. 시적 전: 인레이 내면 sandblasting 50µm Al₂O₃, 1-2 bar.
-2. 시적 후 타액 오염 시: 즉시 air-water spray → Ivoclean 20s → 세척 → 건조. 인산 부식·IPA 단독 금기. [근거강함]
+2. 시적 후 타액 오염 시: 즉시 air-water spray → Ivoclean 20s → 세척 → 건조. 인산 부식·IPA 단독 금기. [확인]
 3. Primer: Clearfil Ceramic Primer Plus 또는 Monobond Plus 1회 도포 20s. 추가 도포 무효.
 4. 시멘트:
    - 단관·인레이 → Panavia V5 (MDP 함유) + 본 brand primer.
    - 자가접착 옵션 → TheraCem (SARC, Kwon 2026 비교 최우수) 또는 RelyX U200.
 5. 광중합 + 마진 시멘트 제거 → 1회 폴리싱 → 환자 안내.
 
-**오판 패턴**: "지르코니아는 산 부식으로 표면 활성화" — 5Y-PSZ도 산 부식 무효. MDP 화학결합이 답. [근거강함]
+**오판 패턴**: "지르코니아는 산 부식으로 표면 활성화" — 5Y-PSZ도 산 부식 무효. MDP 화학결합이 답. [확인]
 
-**보강 근거 — 타액 오염 세정.** APC의 'P/C' 신뢰도는 시적 중 타액 오염을 어떻게 제거하느냐에 달려 있다. 타액 단백막이 MDP 결합을 차단하므로, 물·알코올 단독은 불충분하고 전용 세정제(Ivoclean) 또는 재-sandblasting이 필요하다는 결과가 in-vitro에서 반복된다([[dental-materials/zirconia/kim-2015-cleaning-saliva-zirconia-resin-bonding]], [[dental-materials/zirconia/negreiros-2017-cleaning-primer-zirconia-bond-water]], [[dental-materials/zirconia/sankar-2017-saliva-zirconia-sbs-resin-cements]], [[dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent]], [[dental-materials/zirconia/miyazaki-2015-saliva-zirconia-bond-contact-angle]], [[dental-materials/radhi-2023-lithium-disilicate-cleaning-resin-cement]], [[dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear]], [[dental-materials/zirconia/hajjaj-2022-cleaning-methods-zirconia-sbs]]). 이는 축 1 spine의 Silva 2022 SR+MA·Genc 2025와 같은 방향이다. [합의수준]
+**보강 근거 — 타액 오염 세정.** APC의 'P/C' 신뢰도는 시적 중 타액 오염을 어떻게 제거하느냐에 달려 있다. 타액 단백막이 MDP 결합을 차단하므로, 물·알코올 단독은 불충분하고 전용 세정제(Ivoclean) 또는 재-sandblasting이 필요하다는 결과가 in-vitro에서 반복된다([[dental-materials/zirconia/kim-2015-cleaning-saliva-zirconia-resin-bonding]], [[dental-materials/zirconia/negreiros-2017-cleaning-primer-zirconia-bond-water]], [[dental-materials/zirconia/sankar-2017-saliva-zirconia-sbs-resin-cements]], [[dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent]], [[dental-materials/zirconia/miyazaki-2015-saliva-zirconia-bond-contact-angle]], [[dental-materials/radhi-2023-lithium-disilicate-cleaning-resin-cement]], [[dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear]], [[dental-materials/zirconia/hajjaj-2022-cleaning-methods-zirconia-sbs]]). 이는 축 1 spine의 Silva 2022 SR+MA·Genc 2025와 같은 방향이다. [확인]
 
-**보강 근거 — primer 화학·air-abrasion/grinding.** MDP 함유 primer가 결합의 핵심이며([[dental-materials/zirconia/jo-2018-liners-primers-zirconia-tensile-bond]], [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]], [[dental-materials/zirconia/lee-2018-zirconia-primers-bracket-bonding]], [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]]), 표면 처리는 미세 air-abrasion이 결합을 높이되 과도한 그라인딩·열처리는 굴곡강도를 떨어뜨릴 수 있다는 강도 trade-off가 존재한다([[dental-materials/zirconia/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]], [[dental-materials/zirconia/ramos-2016-grinding-heat-treatment-zirconia-flexural]], [[dental-materials/zirconia/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]], [[dental-materials/zirconia/oh-2016-zirconia-core-fitness-four-bur-types]]). → **임상 함의**: 50 µm Al₂O₃ 저압 air-abrasion은 결합 목적상 충분하며, 적합도 조정용 그라인딩은 최소화하고 조정 후 재폴리싱한다. [claude해석]
+**보강 근거 — primer 화학·air-abrasion/grinding.** MDP 함유 primer가 결합의 핵심이며([[dental-materials/zirconia/jo-2018-liners-primers-zirconia-tensile-bond]], [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]], [[dental-materials/zirconia/lee-2018-zirconia-primers-bracket-bonding]], [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]]), 표면 처리는 미세 air-abrasion이 결합을 높이되 과도한 그라인딩·열처리는 굴곡강도를 떨어뜨릴 수 있다는 강도 trade-off가 존재한다([[dental-materials/zirconia/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]], [[dental-materials/zirconia/ramos-2016-grinding-heat-treatment-zirconia-flexural]], [[dental-materials/zirconia/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]], [[dental-materials/zirconia/oh-2016-zirconia-core-fitness-four-bur-types]]). → **임상 함의**: 50 µm Al₂O₃ 저압 air-abrasion은 결합 목적상 충분하며, 적합도 조정용 그라인딩은 최소화하고 조정 후 재폴리싱한다. [미검증]
 
 자세한 chairside 분기형 의사결정 트리: [[interactives/2026-05-25_zirconia-inlay-bonding]] (본 세션 작성).
 
 ### 축 2 — CAD/CAM 단관·FPD vs PFM
 
-**1차 권고**: 단관 — 지르코니아 (3Y-TZP 또는 monolithic 5Y-PSZ)·리튬 디실리케이트 모두 PFM 대등 생존율, 심미성 우위. 장경간 FPD는 지르코니아 우위. [근거강함]
+**1차 권고**: 단관 — 지르코니아 (3Y-TZP 또는 monolithic 5Y-PSZ)·리튬 디실리케이트 모두 PFM 대등 생존율, 심미성 우위. 장경간 FPD는 지르코니아 우위. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -123,13 +123,13 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 4. 장경간 FPD (4 unit 이상) → monolithic 3Y-TZP 또는 ZrO₂ 코어 + 압축형 베니어. PFM 대안.
 5. 두께 1mm 미만 → 파절 위험 급증. 최소 1.5mm 확보 또는 LDS로 변경.
 
-**오판 패턴**: "지르코니아는 강해서 두께 무관" — Ali 2023 SR+MA에서 두께 < 1mm가 파절 주 원인. [근거강함]
+**오판 패턴**: "지르코니아는 강해서 두께 무관" — Ali 2023 SR+MA에서 두께 < 1mm가 파절 주 원인. [확인]
 
-**보강 근거 — 대합치 법랑질 마모.** Monolithic 지르코니아 단관의 임상 trade-off 중 하나는 대합치 마모다. 핵심 결론은 일관된다 — **잘 폴리싱된 지르코니아가 글레이즈된 것보다 대합치 마모가 적고**, 장석질 도재보다도 유리하다([[dental-materials/zirconia/janyavula-2013-wear-polished-glazed-zirconia-enamel]], [[dental-materials/zirconia/lawson-2014-wear-enamel-zirconia-lithium-disilicate]], [[dental-materials/zirconia/park-2014-antagonist-wear-cad-cam-zirconia-enamel]], [[dental-materials/zirconia/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]], [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]], [[dental-materials/zirconia/tachibana-2021-polishing-zirconia-antagonist-wear]], [[dental-materials/zirconia/miyazaki-2013-current-status-zirconia-restoration-review]]). 인레이/엔도크라운 형태에서도 같은 폴리싱-우선 원칙이 적용된다([[dental-materials/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]], [[dental-materials/bomicke-2025-3ytzp-inlay-enamel-wear-5year]], [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]]). 신소재로 3D 프린팅 하이브리드 + 플라즈마 본딩이 등장하고 있다([[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]]). → **임상 함의**: 교합 조정 후 반드시 재폴리싱(글레이즈 재도포보다 우선). [근거강함]
+**보강 근거 — 대합치 법랑질 마모.** Monolithic 지르코니아 단관의 임상 trade-off 중 하나는 대합치 마모다. 핵심 결론은 일관된다 — **잘 폴리싱된 지르코니아가 글레이즈된 것보다 대합치 마모가 적고**, 장석질 도재보다도 유리하다([[dental-materials/zirconia/janyavula-2013-wear-polished-glazed-zirconia-enamel]], [[dental-materials/zirconia/lawson-2014-wear-enamel-zirconia-lithium-disilicate]], [[dental-materials/zirconia/park-2014-antagonist-wear-cad-cam-zirconia-enamel]], [[dental-materials/zirconia/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]], [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]], [[dental-materials/zirconia/tachibana-2021-polishing-zirconia-antagonist-wear]], [[dental-materials/zirconia/miyazaki-2013-current-status-zirconia-restoration-review]]). 인레이/엔도크라운 형태에서도 같은 폴리싱-우선 원칙이 적용된다([[dental-materials/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]], [[dental-materials/bomicke-2025-3ytzp-inlay-enamel-wear-5year]], [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]]). 신소재로 3D 프린팅 하이브리드 + 플라즈마 본딩이 등장하고 있다([[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]]). → **임상 함의**: 교합 조정 후 반드시 재폴리싱(글레이즈 재도포보다 우선). [확인]
 
 ### 축 3 — 아말감 vs 복합레진 후방부 수복
 
-**1차 권고**: 한국 환경 (수은 규제·심미 요구) 고려 시 복합레진이 1차. 격차는 좁혀졌으나 아말감이 수명에서 여전히 유리. 단 환경·정책·심미를 종합 시 복합레진 선택 합리적. [합의수준]
+**1차 권고**: 한국 환경 (수은 규제·심미 요구) 고려 시 복합레진이 1차. 격차는 좁혀졌으나 아말감이 수명에서 여전히 유리. 단 환경·정책·심미를 종합 시 복합레진 선택 합리적. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -143,13 +143,13 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 3. 후방부 broad MOD + 낮은 협조 + 격리 어려움 → 아말감 (한국에서는 정책상 제한) 또는 자가접착 GIC + 복합레진 sandwich.
 4. 환자 알러지·임신 후반 → 아말감 회피, 복합레진 + bulk fill.
 
-**오판 패턴**: "복합레진은 어려운 술식이라 아말감으로 가자" — Al-Sulimman 2025에서 차이 통계적 NS. 술자 기술·격리·접착 충실도가 재료 차이보다 크다. [근거강함]
+**오판 패턴**: "복합레진은 어려운 술식이라 아말감으로 가자" — Al-Sulimman 2025에서 차이 통계적 NS. 술자 기술·격리·접착 충실도가 재료 차이보다 크다. [확인]
 
-**Bioactive resin frontier — secondary caries prevention.** Secondary caries is the leading cause of composite failure (annual failure rate ~4.6%/y in high-caries-risk vs ~1.6%/y in low-risk patients over 10 y). Bioactive filler strategies — quaternary ammonium monomers (QAMs: DMAHDM 5% + NACP 20%) reduce total CFU and key periopathogens (P < 0.05 vs. control in plaque-derived microcosm biofilm models); metal-oxide nanostructures (ZnO, TiO₂) add remineralization but require high concentrations that compromise flexural strength; MDPB remains the only commercially available antimicrobial monomer (Clearfil Protect Bond). Formulation hurdles — agglomeration, color change, hydrolytic degradation — currently limit clinical translation: no head-to-head clinical RCTs yet. See [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] for the full agent taxonomy and translational barriers. [합의수준 — narrative review, bench data only]
+**Bioactive resin frontier — secondary caries prevention.** Secondary caries is the leading cause of composite failure (annual failure rate ~4.6%/y in high-caries-risk vs ~1.6%/y in low-risk patients over 10 y). Bioactive filler strategies — quaternary ammonium monomers (QAMs: DMAHDM 5% + NACP 20%) reduce total CFU and key periopathogens (P < 0.05 vs. control in plaque-derived microcosm biofilm models); metal-oxide nanostructures (ZnO, TiO₂) add remineralization but require high concentrations that compromise flexural strength; MDPB remains the only commercially available antimicrobial monomer (Clearfil Protect Bond). Formulation hurdles — agglomeration, color change, hydrolytic degradation — currently limit clinical translation: no head-to-head clinical RCTs yet. See [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] for the full agent taxonomy and translational barriers. [확인 — narrative review, bench data only]
 
 ### 축 4 — 시멘트 선택 (Self-adhesive vs Adhesive Resin)
 
-**1차 권고**: 단관·인레이는 adhesive resin cement (Panavia V5, RelyX Ultimate) + primer. 자가접착 (TheraCem·RelyX U200·Clearfil SA) 은 단순 단관·짧은 abutment에서 합리적. [합의수준]
+**1차 권고**: 단관·인레이는 adhesive resin cement (Panavia V5, RelyX Ultimate) + primer. 자가접착 (TheraCem·RelyX U200·Clearfil SA) 은 단순 단관·짧은 abutment에서 합리적. [확인]
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -164,7 +164,7 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 3. 인레이·온레이 → adhesive resin + IDS (즉시 상아질 봉쇄, Samartzi 2021) 필수.
 4. 임플란트 단관 → 자가접착 + 시멘트 마진 위치 epigingival. excess 제거 엄격.
 
-**오판 패턴**: "자가접착이 신기술이라 모든 경우에 우월" — 짧은 abutment·인레이에서는 adhesive resin이 여전히 우위. Soleimani 2026 r=0.95가 그 임계값 시각화. [근거강함]
+**오판 패턴**: "자가접착이 신기술이라 모든 경우에 우월" — 짧은 abutment·인레이에서는 adhesive resin이 여전히 우위. Soleimani 2026 r=0.95가 그 임계값 시각화. [확인]
 
 ## Phase 2 확장 후보 (Stub)
 
@@ -221,10 +221,10 @@ Clinical bottom line: operator skill, isolation, and adhesive protocol fidelity 
 - [ ] 한국 아말감 정책 변화 추적 — 한국 식약처·KDA 입장 ingest 필요.
 
 확신도 등급 글로벌:
-- 축 1 cleaning·bonding 임상 권고 = [근거강함] (SR+MA 다수).
-- 축 2 CAD/CAM 임상 = [근거강함] (SR+MA + 5y retrospective).
-- 축 3 아말감 vs 레진 격차 = [근거강함] (big data + SR+MA).
-- 축 4 시멘트 = [합의수준] (대부분 in vitro, 임상 RCT 부족).
+- 축 1 cleaning·bonding 임상 권고 = [확인] (SR+MA 다수).
+- 축 2 CAD/CAM 임상 = [확인] (SR+MA + 5y retrospective).
+- 축 3 아말감 vs 레진 격차 = [확인] (big data + SR+MA).
+- 축 4 시멘트 = [확인] (대부분 in vitro, 임상 RCT 부족).
 
 ## Additional Spokes (2026-05-26 추가, sub-bucket 분류)
 

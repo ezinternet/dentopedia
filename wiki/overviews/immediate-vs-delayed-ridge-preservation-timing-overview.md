@@ -85,10 +85,10 @@ The decision drivers, then, are anatomical and biological — **buccal-wall inte
 
 ### A. Choosing the timing tier (immediate / early / delayed)
 
-1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype, IT ≥35 Ncm achievable** → **immediate (Type 1)** is reasonable and time-efficient; pair with gap graft ± CTG (Thoma 2026 prerequisites; Tonetti 2017 cautionary anchor). [근거강함, selected cases]
-2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk (Bassir 2019; "Type 2 often safer than Type 1" — Thoma 2026). [근거강함]
-3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [합의수준]
-4. **Extensive bone loss / major augmentation needed / low esthetic demand** → **delayed (Type 4)** is the conservative default (Thoma 2026). But a large buccal defect (≥5 mm) is *not* an absolute bar to immediate when expertise + GBR + **deferred** provisionalization are available — 10-yr outcomes can equal delayed (Meijer 2024; Nassani 2025). Operator-dependent, not a default. [근거강함, conditional]
+1. **Esthetic-zone single tooth, intact buccal plate, no apical infection, thick phenotype, IT ≥35 Ncm achievable** → **immediate (Type 1)** is reasonable and time-efficient; pair with gap graft ± CTG (Thoma 2026 prerequisites; Tonetti 2017 cautionary anchor). [확인, selected cases]
+2. **Esthetic zone but thin/compromised plate, soft-tissue deficiency, or any apical lesion** → favor **early (Type 2/3)**: equivalent survival, less marginal bone loss than immediate, lower wound-failure risk (Bassir 2019; "Type 2 often safer than Type 1" — Thoma 2026). [확인]
+3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [확인]
+4. **Extensive bone loss / major augmentation needed / low esthetic demand** → **delayed (Type 4)** is the conservative default (Thoma 2026). But a large buccal defect (≥5 mm) is *not* an absolute bar to immediate when expertise + GBR + **deferred** provisionalization are available — 10-yr outcomes can equal delayed (Meijer 2024; Nassani 2025). Operator-dependent, not a default. [확인, conditional]
 
 ### B. IIP vs ARP-then-delayed (when both are technically possible)
 

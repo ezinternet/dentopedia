@@ -65,7 +65,7 @@ The trade-off is practical: preheating needs a cartridge warmer and thermometer,
 
 ## Results
 
-[근거강함] Pre- vs intra-operative VAS (Table 1, paired t-test all p<0.001):
+[확인] Pre- vs intra-operative VAS (Table 1, paired t-test all p<0.001):
 
 | Group | Pre-op VAS | Intra-op VAS | Reduction |
 |---|---|---|---|
@@ -73,19 +73,19 @@ The trade-off is practical: preheating needs a cartridge warmer and thermometer,
 | B — Buffered (n=77) | 6.88 ± 1.23 | 1.69 ± 1.07 | 5.18 |
 | C — Conventional (n=83) | 6.88 ± 1.24 | 3.54 ± 2.34 | 3.34 |
 
-[근거강함] Inter-group pain reduction (Tukey): Preheated vs Buffered mean diff 0.51, **p=0.183 (NS)**; Preheated vs Conventional 2.35, p<0.001; Buffered vs Conventional 1.84, p<0.001.
+[확인] Inter-group pain reduction (Tukey): Preheated vs Buffered mean diff 0.51, **p=0.183 (NS)**; Preheated vs Conventional 2.35, p<0.001; Buffered vs Conventional 1.84, p<0.001.
 
-[근거강함] Injection pain (VAS, all pairwise p<0.001): Preheated 1.35 ± 1.09 < Buffered 2.08 ± 1.27 < Conventional 3.19 ± 0.93.
+[확인] Injection pain (VAS, all pairwise p<0.001): Preheated 1.35 ± 1.09 < Buffered 2.08 ± 1.27 < Conventional 3.19 ± 0.93.
 
-[claude해석] Anesthesia failures (excluded, supplementary intraligamentary): A 3, B 3, C 5 — directionally fewer with the enhanced solutions but no formal success-% statistic reported.
+[미검증] Anesthesia failures (excluded, supplementary intraligamentary): A 3, B 3, C 5 — directionally fewer with the enhanced solutions but no formal success-% statistic reported.
 
 ## Clinical Implications for Korean Practice
 
-[합의수준] For 하악 SIP (hot tooth) IANB, **buffering and preheating are interchangeable** for improving pulpal anesthesia — choose by available equipment. Buffering needs only 8.4% NaHCO3 + syringe; preheating needs a cartridge warmer maintaining 42°C.
+[확인] For 하악 SIP (hot tooth) IANB, **buffering and preheating are interchangeable** for improving pulpal anesthesia — choose by available equipment. Buffering needs only 8.4% NaHCO3 + syringe; preheating needs a cartridge warmer maintaining 42°C.
 
-[claude해석] If injection comfort (sting) is the priority — anxious patient, needle phobia — preheated lignocaine had the lowest injection-pain VAS. Buffering still beats conventional on injection pain, just less than preheating.
+[미검증] If injection comfort (sting) is the priority — anxious patient, needle phobia — preheated lignocaine had the lowest injection-pain VAS. Buffering still beats conventional on injection pain, just less than preheating.
 
-[claude해석] Korean 2% lidocaine/1:80,000 cartridges fit both protocols directly. Buffered solution must be used fresh (precipitation); preheated requires verifying the solution reaches body temperature before injection.
+[미검증] Korean 2% lidocaine/1:80,000 cartridges fit both protocols directly. Buffered solution must be used fresh (precipitation); preheated requires verifying the solution reaches body temperature before injection.
 
 [wiki-living-document] Outcome is VAS reduction, not a hard success %; preheated-vs-buffered equivalence (p=0.183) means neither can be claimed superior for pulpal anesthesia. Apply as "either enhancement strongly outperforms conventional in SIP." The sibling [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] adds the success-rate dimension (buffering ~doubles SIP success).
 

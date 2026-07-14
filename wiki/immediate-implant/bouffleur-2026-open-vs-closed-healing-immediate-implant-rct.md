@@ -44,7 +44,7 @@ Primary endpoint Pink Esthetic Score (PES; 7 soft tissue parameters, max 14): op
 Prospective RCT; randomized 1:1; 3 assessment timepoints; primary PES; secondary implant survival + volumetric change; linear mixed-effects model.
 
 ## Results
-[근거강함]
+[확인]
 | Endpoint | Open vs Closed |
 |---|---|
 | PES at 12 mo | Open higher by MD 1.49 (p=0.0014) |

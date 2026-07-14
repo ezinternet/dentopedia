@@ -41,7 +41,7 @@ Digital occlusal analysis should be preferred over articulating paper alone for 
 SR, 189편→10편 포함(관찰·OR·case-control).
 
 ## Results
-디지털 교합분석이 교합지보다 객관적 [합의수준]. 비기능 교두 48%에 최대 접촉력. 교합지 단독은 주관적 한계.
+디지털 교합분석이 교합지보다 객관적 [확인]. 비기능 교두 48%에 최대 접촉력. 교합지 단독은 주관적 한계.
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 교합 진단 도구

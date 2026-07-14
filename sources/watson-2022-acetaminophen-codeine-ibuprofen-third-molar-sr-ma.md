@@ -41,7 +41,7 @@ opioid combination 사용 정당화 부족 → ADA 2022 가이드라인 (opioid-
 PubMed + ClinicalTrials.gov search; RCT-only (randomized, blinded, placebo-controlled); third molar extraction populations; pooled MA.
 
 ## 4. Key Results
-[근거강함] Ibuprofen 400mg = or > APAP 600 + codeine 60 for post-extraction pain. Codeine combination not superior, has opioid side effects.
+[확인] Ibuprofen 400mg = or > APAP 600 + codeine 60 for post-extraction pain. Codeine combination not superior, has opioid side effects.
 
 ## 5. Limitations
 - SR+MA constrained to two regimens (no combination ibuprofen+APAP arm)

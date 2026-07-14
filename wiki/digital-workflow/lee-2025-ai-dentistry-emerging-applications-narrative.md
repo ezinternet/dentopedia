@@ -57,7 +57,7 @@ Narrative review (Journal of Dentistry April 2025) organising AI applications ar
 - Workflow optimisation
 - Patient-administrative interface improvements
 
-## Clinical Implications [claude해석]
+## Clinical Implications [미검증]
 - The practice-management pillar is the most underleveraged in Korean clinics — most AI conversation focuses on diagnostic AI
 - VR/simulation deployment maturity hinges on hardware cost curves and integrated curriculum design
 - Data privacy under Korean PIPA (개인정보 보호법) requires explicit consent flows for AI training data — implementation gap

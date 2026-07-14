@@ -41,7 +41,7 @@ source_collection: external
 National-level prescription data 2014-2023 analyzed for antibiotic class, indication, duration, prescribing dentist demographic.
 
 ## 4. Key Results
-[근거강함] (specific trends in paper) Total prescription trends + class shifts documented; opportunity targets for stewardship.
+[확인] (specific trends in paper) Total prescription trends + class shifts documented; opportunity targets for stewardship.
 
 ## 5. Limitations
 - Single-country data

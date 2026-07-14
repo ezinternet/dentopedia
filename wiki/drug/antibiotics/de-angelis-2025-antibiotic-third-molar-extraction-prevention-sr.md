@@ -41,7 +41,7 @@ SR on antibiotic prophylaxis in third-molar extraction. Confirms that prophylaxi
 SR of antibiotic prophylaxis RCTs/cohorts in third molar extraction.
 
 ## Results
-[합의수준] Prophylaxis marginal in simple extractions; modest in surgical/impacted extractions; NNT remains high (25 for dry socket per Camps-Font NMA), arguing against routine prescription in healthy patients.
+[확인] Prophylaxis marginal in simple extractions; modest in surgical/impacted extractions; NNT remains high (25 for dry socket per Camps-Font NMA), arguing against routine prescription in healthy patients.
 
 ## Limitations
 - SR without NMA (Camps-Font 2024 provides the NMA)

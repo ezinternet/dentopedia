@@ -44,7 +44,7 @@ The result: preemptive analgesia significantly reduces post-operative pain at mu
 SR+MA per PRISMA; 18 RCTs included; outcomes pain SMD at 1, 3, 6, 8, 24, 72 h post-op; intervention preemptive analgesia (mostly NSAID, some COX-2, some APAP).
 
 ## Results
-[근거강함] Preemptive analgesia significantly reduces pain at several post-op timepoints in periodontal/implant surgery (effect sizes in paper).
+[확인] Preemptive analgesia significantly reduces pain at several post-op timepoints in periodontal/implant surgery (effect sizes in paper).
 
 ## Limitations
 - Heterogeneity in preemptive drug class, timing, and dose

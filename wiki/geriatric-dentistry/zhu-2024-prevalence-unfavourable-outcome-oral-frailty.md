@@ -41,7 +41,7 @@ oral frailty 유병률(32%)과 불량결과 위험(OR)을 정량화한 SR+MA. [[
 6개 DB(~2024.3), 28편. random-effects, 하위군·메타회귀.
 
 ## Results
-OF 유병률 32%(95%CI 24-41); 신체쇠약 OR 1.67, 영양실조 OR 2.27, 식이다양성↓ OR 1.98, 사회위축 OR 1.42 [근거강함]. 설정·도구별 이질.
+OF 유병률 32%(95%CI 24-41); 신체쇠약 OR 1.67, 영양실조 OR 2.27, 식이다양성↓ OR 1.98, 사회위축 OR 1.42 [확인]. 설정·도구별 이질.
 
 ## Related Papers
 - [[geriatric-dentistry/dibello-2022-oral-frailty-indicators-adverse-health-outcomes]] — 지표 정의

@@ -48,12 +48,12 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 본 페이지는 wiki/professional-wellbeing/ 7편을 4축으로 정리: ①유병률, ②결정인자/직군, ③개입(intervention), ④critique·retracted.
 
 핵심 명제 6개:
-1. **전체 번아웃 13%; EE 단독은 28%** — Moro 2022 SR+MA, Long 2023 SR+MA 일치. [근거강함]
-2. **유럽 최고 / 아메리카 최저 + longitudinal > cross-sectional 가능성** — Long 2023. [합의수준]
-3. **COVID 전후 일관 — 팬데믹은 amplifier이나 baseline burnout이 이미 높았음** — Negucioiu 2024 SR. [합의수준]
-4. **DCP(hygienist/therapist) 데이터 극히 부족 (UK SR 12편)** — Kaki 2022. [합의수준]
-5. **직장 개입 evidence 매우 빈약; 1차 예방 거의 없음; 2/3차 psychoeducational·mindfulness 위주** — Plessas 2022 SR. [근거강함]
-6. **Panagioti 2018 (physician burnout → patient harm)은 RETRACTED — 이 연관성은 본 overview에서 주장하지 않음** — Panagioti 2018 retracted. [근거강함 — retraction 사실 자체]
+1. **전체 번아웃 13%; EE 단독은 28%** — Moro 2022 SR+MA, Long 2023 SR+MA 일치. [확인]
+2. **유럽 최고 / 아메리카 최저 + longitudinal > cross-sectional 가능성** — Long 2023. [확인]
+3. **COVID 전후 일관 — 팬데믹은 amplifier이나 baseline burnout이 이미 높았음** — Negucioiu 2024 SR. [확인]
+4. **DCP(hygienist/therapist) 데이터 극히 부족 (UK SR 12편)** — Kaki 2022. [확인]
+5. **직장 개입 evidence 매우 빈약; 1차 예방 거의 없음; 2/3차 psychoeducational·mindfulness 위주** — Plessas 2022 SR. [확인]
+6. **Panagioti 2018 (physician burnout → patient harm)은 RETRACTED — 이 연관성은 본 overview에서 주장하지 않음** — Panagioti 2018 retracted. [확인 — retraction 사실 자체]
 
 ## Results
 
@@ -66,7 +66,7 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 | [[professional-wellbeing/afrashtehfar-2023-dental-profession-high-prevalence-burnout]] | commentary | Moro 2022 endorsement; JEBDP 비판적 검토 |
 | [[professional-wellbeing/negucioiu-2024-prevalence-management-burnout-dental-covid]] | sr | 첫 post-pandemic 통합 — pre/during/post COVID 일관 |
 
-**임상 함의**: 본인·동료의 EE 28%는 4명 중 1명 이상. 자가 인식 + 동료 인식 시스템 필요. [근거강함]
+**임상 함의**: 본인·동료의 EE 28%는 4명 중 1명 이상. 자가 인식 + 동료 인식 시스템 필요. [확인]
 
 ### 축 2 — 결정인자 & 직군 (Determinants)
 
@@ -74,7 +74,7 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 |---|---|---|
 | [[professional-wellbeing/kaki-2022-health-wellbeing-clinical-dental-professionals]] | sr (UK DCP 12편) | DCP 데이터 극히 부족; 결정인자는 치과의사와 동일 매핑 |
 
-**결정인자(공통)**: 업무량·시간 압박·환자 기대·재정 부담·의료법적 부담·완벽주의 성향·동료 갈등·임상 외 행정. [합의수준]
+**결정인자(공통)**: 업무량·시간 압박·환자 기대·재정 부담·의료법적 부담·완벽주의 성향·동료 갈등·임상 외 행정. [확인]
 
 ### 축 3 — 개입 (Interventions)
 
@@ -90,9 +90,9 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 5. **퇴직·전환 고려** — 만성 burnout + 회복 무 → 진료 강도 조정 또는 분야 전환.
 
 **오판 패턴**:
-- "치과의사 번아웃은 개인 멘탈 문제" — 시스템 인자 (시간·재정·법) 우세; 개인 개입만으로 한계. [합의수준]
-- "Mindfulness만 하면 해결" — Plessas 2022 evidence 빈약. 보조적 의미. [합의수준]
-- "Physician burnout이 patient harm 2배 증가" (Panagioti 2018) — RETRACTED. 인용 금지. [근거강함]
+- "치과의사 번아웃은 개인 멘탈 문제" — 시스템 인자 (시간·재정·법) 우세; 개인 개입만으로 한계. [확인]
+- "Mindfulness만 하면 해결" — Plessas 2022 evidence 빈약. 보조적 의미. [확인]
+- "Physician burnout이 patient harm 2배 증가" (Panagioti 2018) — RETRACTED. 인용 금지. [확인]
 
 ### 축 4 — Retraction & Critical Appraisal
 
@@ -114,7 +114,7 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 - [[overviews/evidence-appraisal-toolkit]] — Retraction·SR appraisal
 
 확신도 등급:
-- 축 1 prevalence = [근거강함] (두 독립 SR+MA 일치)
-- 축 2 직군 = [합의수준]
-- 축 3 개입 = [합의수준] for direction, [미검증] for specific intervention efficacy
-- 축 4 retraction = [근거강함] (retraction 자체)
+- 축 1 prevalence = [확인] (두 독립 SR+MA 일치)
+- 축 2 직군 = [확인]
+- 축 3 개입 = [확인] for direction, [미검증] for specific intervention efficacy
+- 축 4 retraction = [확인] (retraction 자체)

@@ -61,8 +61,8 @@ The relationship between occlusal forces and periodontitis has been a century-lo
 4. **PDL widening ≠ occlusal trauma by default.** Localized widening with bone destruction → malignancy workup; generalized symmetric widening → consider systemic disease (Mortazavi). Exclude before attributing to bite.
 
 ## Gaps & Future Research
-- **Causation unresolved by design** — human evidence is associative; the modifier-vs-initiator question can't be settled by the available study types [claude해석].
-- **Intervention evidence is thin and low-quality** — Dommisch found only 5 eligible studies; no long-term RCT of occlusal adjustment on tooth survival [추정].
+- **Causation unresolved by design** — human evidence is associative; the modifier-vs-initiator question can't be settled by the available study types [미검증].
+- **Intervention evidence is thin and low-quality** — Dommisch found only 5 eligible studies; no long-term RCT of occlusal adjustment on tooth survival [미검증].
 - **aMMP-8-guided occlusal management** is proposed (Leone) but untested in trials.
 - **No Korean-population data** on occlusal-trauma management in periodontitis.
 

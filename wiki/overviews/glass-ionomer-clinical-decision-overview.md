@@ -69,10 +69,10 @@ Bioactive modification with calcium-phosphate (Ca/P) nanofiller improves reminer
 | [[glass-ionomer/mummery-2022-gic-fissure-sealant-case-series]] | Case series | — | GIC-FS 유지율 ~77% | case-report |
 
 ## Clinical Decision Points
-1. 적응증 선택 — 직접수복·luting·fissure sealant는 근거 지지. liner/base는 근거 약함(대안: RMGIC liner 또는 calcium silicate). [합의수준]
-2. CGIC vs RMGIC, pulp 인접/VPT — 전통 GIC가 세포독성 낮음 → 치수 인접 시 CGIC 우선 고려. trade-off: RMGIC는 심미·강도·조작성 우수하나 생체적합성 열세. [합의수준]
-3. 하중부(Class I/II) — RCT상 허용 가능하나 GIC의 낮은 fracture toughness·wear resistance 고려. 고교합·대형 와동은 composite/amalgam 대안 병기. [합의수준]
-4. 소아 유치 — HVGIC와 composite 임상 유의차 없음 → moisture control·협조도·비-AGP 필요 상황에서 HVGIC 합리적. [합의수준]
+1. 적응증 선택 — 직접수복·luting·fissure sealant는 근거 지지. liner/base는 근거 약함(대안: RMGIC liner 또는 calcium silicate). [확인]
+2. CGIC vs RMGIC, pulp 인접/VPT — 전통 GIC가 세포독성 낮음 → 치수 인접 시 CGIC 우선 고려. trade-off: RMGIC는 심미·강도·조작성 우수하나 생체적합성 열세. [확인]
+3. 하중부(Class I/II) — RCT상 허용 가능하나 GIC의 낮은 fracture toughness·wear resistance 고려. 고교합·대형 와동은 composite/amalgam 대안 병기. [확인]
+4. 소아 유치 — HVGIC와 composite 임상 유의차 없음 → moisture control·협조도·비-AGP 필요 상황에서 HVGIC 합리적. [확인]
 
 ## Gaps & Future Research
 - longevity 근거의 underlying SR 품질이 낮음(a priori design 부재) — 고품질 SR + 장기 RCT 필요.

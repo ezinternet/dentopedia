@@ -33,7 +33,7 @@ SR+MA(Anesth Prog 2015; 6편 RCT 확인, 4편 정량분석 가능, n=298): 제3�
 ## Summary
 Meta-analysis testing the common clinical hypothesis that giving an oral NSAID *before* third molar surgery reduces postoperative pain via central sensitization blockade. Six RCTs identified (n=420 subjects), four with usable numeric data included in pooled analysis (n=298). Result: **no statistically significant difference** between preemptive NSAID and control (P=0.2227).
 
-[claude해석] This negative finding has been partially challenged by subsequent SRs (Gousias 2025 in periodontal/implant surgery; Lin et al. periodontal/oral surgery contexts). The current best interpretation: preemptive NSAID is unlikely to be transformative for third molar surgery specifically, but may have small benefit in certain other dental surgical contexts. The simpler practical position — give NSAID + APAP at the time of expected anesthetic wear-off (or pre-emptively for convenience) — remains defensible.
+[미검증] This negative finding has been partially challenged by subsequent SRs (Gousias 2025 in periodontal/implant surgery; Lin et al. periodontal/oral surgery contexts). The current best interpretation: preemptive NSAID is unlikely to be transformative for third molar surgery specifically, but may have small benefit in certain other dental surgical contexts. The simpler practical position — give NSAID + APAP at the time of expected anesthetic wear-off (or pre-emptively for convenience) — remains defensible.
 
 ## Key Contributions
 - Tests a widely held clinical assumption rigorously.
@@ -46,7 +46,7 @@ Meta-analysis testing the common clinical hypothesis that giving an oral NSAID *
 - Low risk of bias (Cochrane criteria); high methodological heterogeneity
 
 ## Results
-[근거강함] Preemptive NSAID vs comparator: pooled effect NS (P=0.2227).
+[확인] Preemptive NSAID vs comparator: pooled effect NS (P=0.2227).
 
 ## Limitations
 - Only 4 RCTs in pooled analysis — limited power

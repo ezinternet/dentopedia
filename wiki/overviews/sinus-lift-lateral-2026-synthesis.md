@@ -64,7 +64,7 @@ Within repair materials, the field has shifted toward platelet concentrates laye
 
 **Technique choice and SMP rate.** Lee 2023 (SR+NMA, 85 studies, 5,551 SFE procedures) provides the first Bayesian network ranking of instruments by SMP risk. Within LSFE, **rotary burs** carry the highest SMP risk (SUCRA 0.0745 — lowest in the ranking), while reamers in TSFE carry the lowest (SUCRA 0.9444). Critically, Lee 2023 quantified that each 10% increase in SMP rate reduces implant survival odds by 55% (OR 0.45, 95% CrI 0.21–0.71, p<0.001) — the first dose-response estimate linking technique-level perforation burden to implant outcome. The implication: instrument choice within lateral window planning is not merely a technical preference but a survival-relevant decision.
 
-**Synthesis [claude해석]:** for perforations ≤10 mm, PRF-based seals appear at least equivalent to collagen and may be biologically superior; for >10 mm, mechanical containment (tacks + collagen) is the more defensible default until PRF data extend to that size class. Technique-wise, switching from rotary bur to piezoelectric in lateral-window osteotomy is supported by the NMA evidence as an upstream prevention move.
+**Synthesis [미검증]:** for perforations ≤10 mm, PRF-based seals appear at least equivalent to collagen and may be biologically superior; for >10 mm, mechanical containment (tacks + collagen) is the more defensible default until PRF data extend to that size class. Technique-wise, switching from rotary bur to piezoelectric in lateral-window osteotomy is supported by the NMA evidence as an upstream prevention move.
 
 ## Cluster 2 — Predicting perforation before incision (anatomy, CBCT, and behavior)
 
@@ -108,7 +108,7 @@ CBCT-derived and behavioral risk factors converge on a growing list.
 - **Alalshaikh 2024 SR+MA — multi-factor ranking.** A predominantly-retrospective SR+MA that ranks the lateral-window perforation predictors together: the three most prominent are thin membrane (<1.5 mm), sinus septa (≈**3× risk**), and smoking (≈**1.6× risk — roughly one perforation in every seven smokers** treated). Lateral wall thickness and residual ridge height were significant on limited evidence (3 studies), while **window size and number of missing teeth did NOT affect perforation likelihood**, and piezosurgery vs rotary was only marginally protective (P=.05). This independently corroborates the septa/smoking/RRH signals above and supplies a "what does NOT matter" anchor (window size).
 - **Nemati 2023 prospective HR.** In the simultaneous multivariate model: smoking HR **25.00 (95% CI 7.58–82.51, p<0.001)** — the second-strongest risk factor after MRC, and the strongest modifiable one. The discrepancy between Wang 2023 OR (1.58) and Nemati 2023 HR (25) likely reflects study design and case-mix differences (Nemati cohort was exclusively RBH <5 mm, very high-risk population); the Wang pooled estimate is the more generalizable number.
 
-**Synthesis [claude해석]:** the single highest-yield preoperative read is "is there a septum and where," followed by lateral wall thickness if a reamer approach is planned, RRH for elevation-arc risk, MRC presence, and PSAA localization for window placement safety. OMC anatomy adds a finer-grained layer. Smoking is the primary modifiable risk; counseling and cessation support before SFE is evidence-backed. SMT >5 mm up to <10 mm is no longer a contraindication — it requires anticipating greater surgical difficulty but not deferral.
+**Synthesis [미검증]:** the single highest-yield preoperative read is "is there a septum and where," followed by lateral wall thickness if a reamer approach is planned, RRH for elevation-arc risk, MRC presence, and PSAA localization for window placement safety. OMC anatomy adds a finer-grained layer. Smoking is the primary modifiable risk; counseling and cessation support before SFE is evidence-backed. SMT >5 mm up to <10 mm is no longer a contraindication — it requires anticipating greater surgical difficulty but not deferral.
 
 ## Cluster 3 — Procedural variants and timing
 
@@ -148,7 +148,7 @@ Sakuma 2020 (detailed above in Cluster 2 anatomy) is equally relevant to the sin
 
 Rocha 2023 (detailed in Cluster 3) provides the key numbers: lateral-window SFE sinusitis 1.35%, transcrestal 0.00%, overall SFE 1.11%. These figures allow procedure-specific risk communication and informed consent quantification for the first time in a pooled framework.
 
-**Synthesis [claude해석]:** the sinusitis prevention chain has three links: (1) **screen** for preoperative chronic sinusitis — it is the dominant modifiable systemic risk, outranking even membrane perforation in Kozuma's model; (2) **stratify ENT anatomy** — OMC variations (Gulbey 2026), Haller cells, concha bullosa, and septal deviation require a structured ENT consultation pathway; (3) **counsel on technique** — lateral window carries 1.35% sinusitis risk, transcrestal effectively zero; technique choice should incorporate the patient's baseline sinus health and anatomy when both approaches are feasible.
+**Synthesis [미검증]:** the sinusitis prevention chain has three links: (1) **screen** for preoperative chronic sinusitis — it is the dominant modifiable systemic risk, outranking even membrane perforation in Kozuma's model; (2) **stratify ENT anatomy** — OMC variations (Gulbey 2026), Haller cells, concha bullosa, and septal deviation require a structured ENT consultation pathway; (3) **counsel on technique** — lateral window carries 1.35% sinusitis risk, transcrestal effectively zero; technique choice should incorporate the patient's baseline sinus health and anatomy when both approaches are feasible.
 
 ## Cluster 5 — Graft material selection and PRF adjunct (이식재 선택·PRF 보조)
 
@@ -169,7 +169,7 @@ The magnitude of new bone benefit is consistent across PRF generations (L-PRF MD
 
 The BCP advantage over DBBM in new bone formation is mechanistically explained by the TCP component's ion-release osteostimulatory effect vs DBBM's near-permanent osteoconductive scaffold. DBBM's near-permanence was historically valued for volume stability; BCP resorbs more completely (lower residual graft), creating space that new bone actively occupies.
 
-### Synthesis [claude해석]
+### Synthesis [미검증]
 
 PRF (both L-PRF and A-PRF) reliably improves histomorphometric new bone formation when added to DBBM, with consistent effect across SR+MA and split-mouth RCT levels of evidence. The benefit is biologically real but does not translate to ISQ advantage at the time of loading. BCP outperforms DBBM in new bone formation and resorbability, but the clinical bottom line on implant survival requires a separate evidence base. For clinicians choosing between graft materials: BCP is a credible synthetic alternative to DBBM when maximizing histomorphometric new bone is the goal; PRF adjunction is a low-cost enhancement that consistently boosts new bone formation regardless of which xenograft base is used.
 
@@ -188,7 +188,7 @@ PRF (both L-PRF and A-PRF) reliably improves histomorphometric new bone formatio
 11. **OMC anatomy is a systemic risk variable for postoperative sinusitis.** Gulbey 2026: UPSA types 3/4/6 and Haller cells correlate significantly with sinus mucosal thickening and ostium obstruction — extend CBCT reads to OMC before sinus lift.
 12. **Rotary bur carries the highest SMP risk within lateral-window procedures.** Lee 2023 NMA: SUCRA 0.0745; each 10% SMP increase reduces implant survival OR by 55%.
 
-## Decision threads for our clinic [claude해석]
+## Decision threads for our clinic [미검증]
 
 These are working hypotheses from the synthesis, not protocol.
 

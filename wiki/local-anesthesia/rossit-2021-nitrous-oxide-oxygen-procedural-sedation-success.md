@@ -43,7 +43,7 @@ N2O-O2 sedation is highly effective overall, but lower pediatric success rates a
 RCT(parallel+crossover) SR. RoB2. 1988-2019 출판 19편.
 
 ## Results
-19편/1293명. 성공률 94.9%(95%CI 88.8-98.9); 성인 99.9% vs 소아 91.9%(p=0.002) [근거강함]. 성공 기준 표준화 필요.
+19편/1293명. 성공률 94.9%(95%CI 88.8-98.9); 성인 99.9% vs 소아 91.9%(p=0.002) [확인]. 성공 기준 표준화 필요.
 
 ## Related Papers
 - [[overviews/drug-anesthesia-sedation-korean-guidelines-overview]] — 진정 가이드라인

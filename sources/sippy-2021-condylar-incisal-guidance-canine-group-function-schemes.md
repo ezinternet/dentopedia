@@ -40,7 +40,7 @@ J Indian Prosthodont Soc 2021;21:256 · Vinita Rajesh Sippy, Chethan Hegde, Gana
 과두유도·절치유도 측정, 견치유도/군기능 비교(articulator/clinical).
 
 ## 4. Key Results and Benchmarks
-과두·절치 유도 조합이 구치 이개량에 영향 [claude해석]. 구체 수치는 본문 보강.
+과두·절치 유도 조합이 구치 이개량에 영향 [미검증]. 구체 수치는 본문 보강.
 
 ## 5. Limitations and Future Work
 단일기관·표본 한정.

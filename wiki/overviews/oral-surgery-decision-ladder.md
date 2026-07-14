@@ -22,7 +22,7 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - 구강외과 22편을 5축으로 묶은 결정 ladder — 제3대구치, 발치 후 합병증 감소, 지혈, 심경부 감염, 골 drilling 열·재건.
-> - 축1 제3대구치·IAN: 절대 적응증은 반복 관주위염·낭종·인접치 흡수; IAN(하치조신경, Inferior Alveolar Nerve) 고위험(canal 설측·근접 ≤1mm) 시 관상절제술(coronectomy) — IAN 손상 0.59%로 완전 발치 대비 IAN·dry socket 유의 감소, 재수술 5–12% 수용 가능[근거강함].
+> - 축1 제3대구치·IAN: 절대 적응증은 반복 관주위염·낭종·인접치 흡수; IAN(하치조신경, Inferior Alveolar Nerve) 고위험(canal 설측·근접 ≤1mm) 시 관상절제술(coronectomy) — IAN 손상 0.59%로 완전 발치 대비 IAN·dry socket 유의 감소, 재수술 5–12% 수용 가능[확인].
 > - 제3대구치 ladder: 무증상 매복은 NICE 보존/AAOMS risk-management → 적응증 있으면 CBCT로 IAN 영상평가 → 저위험은 완전 발치, 고위험은 coronectomy → 지연 골절 위험군(깊은 매복·수평·얇은 설측판·40–60세 남성)은 6주 soft diet+monitoring.
 > - 축2 발치 후 합병증: 항생제 예방은 dry socket·SSI 위험 감소하나 NNT=25 → 매복·외과적 발치에 한정(amoxicillin 2g 단일 술전, Camps-Font 2024 NMA), 단순 발치엔 불요.
 > - PRF(혈소판풍부피브린): 발치와 초기 2–3개월 통증 66%↓·연조직 75%↑·골 충전 85%↑이나 6개월 이후 자연치유와 동등(Al-Maawi 2021); PRF > PRP.
@@ -30,7 +30,7 @@ relations:
 > - 축3 지혈 ladder: 표준은 봉합+거즈 압박 30분 → 산화셀룰로오스(Surgicel)/젤라틴 스폰지(Gelfoam) 85%↑ → 항응고제·다중 발치는 트라넥사민산 5% 양치액 → 고위험·실패 시 피브린 실란트 70–90%.
 > - 축4 심경부 감염: 치성 origin 42.66%, 루드비히 협심증(Ludwig's angina) 24.66% — 1차 amoxicillin-clavulanate + clindamycin(페니실린 알러지), 아미노글리코사이드는 연쇄구균 내성으로 부적합; 기도 폐쇄 위험 시 응급실·기관절개 준비, 원인 dental 처치 즉시.
 > - 축5 골 drilling 열: 임계 47°C/1min·50°C/30s → osteonecrosis(Bertollo 2011); 충분한 saline irrigation·sharp bur·intermittent drilling. 의인성 하악 골절은 0.0033–0.075%로 드물지만 발생 시 중대.
-> - 확신도: 축1·2·4 [근거강함](SR+MA·NMA·prospective), 축3 [합의수준](narrative), 축5 [근거강함](고전 임계값).
+> - 확신도: 축1·2·4 [확인](SR+MA·NMA·prospective), 축3 [확인](narrative), 축5 [확인](고전 임계값).
 
 ## Three-line Summary
 
@@ -53,12 +53,12 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 본 페이지는 wiki/oral-surgery/ 22 paper의 5-axis spine. 발치·코로네토미·합병증 관리·심경부 감염을 포함.
 
 핵심 명제 6개:
-1. **제3대구치 적응증 — 반복 관주위염, 낭종, 인접치 흡수 절대. IAN 고위험 시 coronectomy** — Damico 2025 narrative. [합의수준]
-2. **Coronectomy IAN 손상률 0.59%. 완전 발치 대비 IAN·dry socket 유의 감소. 재수술률 5-12% 수용 가능** — Cervera-Espert 2016 SR+MA, Peixoto 2024 SR+MA, Povoa 2021 SR (16편 2,176례). [근거강함]
-3. **제3대구치 발치 항생제 예방 — dry socket·SSI 위험 통계적 감소 but NNT=25 (de Angelis 2025 + Camps-Font 2024 NMA). 매복·외과적 발치에 한정** — Camps-Font 2024 NMA (16 RCT 2158명). [근거강함]
-4. **LLLT (Low-Level Laser Therapy) 발치 후 통증·부종·trismus 유의 감소. 중등도 효과 크기** — Gonzalez 2025 SR+MA. [근거강함]
-5. **PRF 발치와 — 초기 2-3개월 통증 66%↓, 연조직 75%↑, 골 충전 85%↑. 6개월 이후 자연치유와 차이 없음** — Al-Maawi 2021 SR (20편). [근거강함]
-6. **단측 상악 후방 sinusitis의 30-72%가 치성. 심경부 감염의 42.66%가 치성 — 발치·근관 처치가 1차 원인 통제** — [[overviews/oral-medicine-decision-ladder]] 축 6 + Gargava 2022 prospective. [근거강함]
+1. **제3대구치 적응증 — 반복 관주위염, 낭종, 인접치 흡수 절대. IAN 고위험 시 coronectomy** — Damico 2025 narrative. [확인]
+2. **Coronectomy IAN 손상률 0.59%. 완전 발치 대비 IAN·dry socket 유의 감소. 재수술률 5-12% 수용 가능** — Cervera-Espert 2016 SR+MA, Peixoto 2024 SR+MA, Povoa 2021 SR (16편 2,176례). [확인]
+3. **제3대구치 발치 항생제 예방 — dry socket·SSI 위험 통계적 감소 but NNT=25 (de Angelis 2025 + Camps-Font 2024 NMA). 매복·외과적 발치에 한정** — Camps-Font 2024 NMA (16 RCT 2158명). [확인]
+4. **LLLT (Low-Level Laser Therapy) 발치 후 통증·부종·trismus 유의 감소. 중등도 효과 크기** — Gonzalez 2025 SR+MA. [확인]
+5. **PRF 발치와 — 초기 2-3개월 통증 66%↓, 연조직 75%↑, 골 충전 85%↑. 6개월 이후 자연치유와 차이 없음** — Al-Maawi 2021 SR (20편). [확인]
+6. **단측 상악 후방 sinusitis의 30-72%가 치성. 심경부 감염의 42.66%가 치성 — 발치·근관 처치가 1차 원인 통제** — [[overviews/oral-medicine-decision-ladder]] 축 6 + Gargava 2022 prospective. [확인]
 
 ## Results
 
@@ -122,7 +122,7 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 4. **고위험·실패 시** → 피브린 실란트 (Tisseel 등). 70-90% 효과.
 5. **드물게 재출혈 후송** — 응급실 협진.
 
-**근관외과(periapical surgery) 골소와 지혈은 별도 맥락** — 발치와 지혈(위 ladder)과 달리, apicoectomy/retrograde fill 시 골소와 출혈 통제는 시야·역충전 질을 좌우한다. He(Genchi) 2026 SR+MA(10편 388치)는 제제 간 global 차이는 없으나 **NMA에서 에피네프린(racemic pellet)·알루미늄 클로라이드(AlCl₃)가 콜라겐보다 우월**함을 보였고(평균 효능 63±6.6%), 지혈 효능이 치유 예후와는 무관하며 흡연만 약한 부정적 경향(P=.074)임을 보고 — 즉 골소와 지혈제는 콜라겐보다 에피네프린/AlCl₃을 1차로, 단 어느 제제를 쓰든 예후 자체는 술식·증례가 결정. [근거강함, 단 small base]
+**근관외과(periapical surgery) 골소와 지혈은 별도 맥락** — 발치와 지혈(위 ladder)과 달리, apicoectomy/retrograde fill 시 골소와 출혈 통제는 시야·역충전 질을 좌우한다. He(Genchi) 2026 SR+MA(10편 388치)는 제제 간 global 차이는 없으나 **NMA에서 에피네프린(racemic pellet)·알루미늄 클로라이드(AlCl₃)가 콜라겐보다 우월**함을 보였고(평균 효능 63±6.6%), 지혈 효능이 치유 예후와는 무관하며 흡연만 약한 부정적 경향(P=.074)임을 보고 — 즉 골소와 지혈제는 콜라겐보다 에피네프린/AlCl₃을 1차로, 단 어느 제제를 쓰든 예후 자체는 술식·증례가 결정. [확인, 단 small base]
 
 ### 축 4 — 심경부 감염 (Deep Neck Infection / Ludwig's Angina)
 
@@ -149,7 +149,7 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 **임상 함의**:
 - 임플란트 osteotomy 시 열 control — 충분한 saline irrigation, sharp bur, intermittent drilling. Bertollo 2011 임계 47°C 인지.
 - Free flap 재건 환자 임플란트 — guided surgery 권장 (digital-workflow overview 참조).
-- 하악 제3대구치 발치 의인성 골절 — 매우 낮은 빈도(<0.1%)이나 발생 시 결과 중대. 깊은 매복·고령·atrophic mandible은 위험. 절골 분할·과도 force 회피, 술후 1주 soft diet 권장. [근거강함]
+- 하악 제3대구치 발치 의인성 골절 — 매우 낮은 빈도(<0.1%)이나 발생 시 결과 중대. 깊은 매복·고령·atrophic mandible은 위험. 절골 분할·과도 force 회피, 술후 1주 soft diet 권장. [확인]
 
 ## Phase 2 확장 후보 (Stub)
 
@@ -166,11 +166,11 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 - [[overviews/bone-regeneration-protocol-ladder]] — 발치 후 ARP
 
 확신도 등급:
-- 축 1 제3대구치·coronectomy = [근거강함] (다수 SR+MA).
-- 축 2 PRF·항생제·LLLT = [근거강함] (SR+MA + NMA).
-- 축 3 지혈 = [합의수준] (narrative 위주).
-- 축 4 심경부 감염 = [근거강함] (prospective + retrospective).
-- 축 5 drilling 열·재건 = [근거강함] (Bertollo 1995/2011 고전 임계값).
+- 축 1 제3대구치·coronectomy = [확인] (다수 SR+MA).
+- 축 2 PRF·항생제·LLLT = [확인] (SR+MA + NMA).
+- 축 3 지혈 = [확인] (narrative 위주).
+- 축 4 심경부 감염 = [확인] (prospective + retrospective).
+- 축 5 drilling 열·재건 = [확인] (Bertollo 1995/2011 고전 임계값).
 
 ## Related Papers
 

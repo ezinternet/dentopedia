@@ -54,9 +54,9 @@ SST esthetic zone 적용의 핵심 outcome 3종을 동시 정량한 SR+MA. 분�
 - **임상 활용**: 환자 설명 시 정량 outcome 제공 (failure %, MBL mm, PES 점수)
 
 ## Strengths and Caveats
-[근거강함] SR+MA — 분야 strong evidence
-[합의수준] SST 미용 우월 신호는 후속 SR과 일관
-[claude해석] Heterogeneity·publication bias 평가 필요 — 본문 sensitivity analysis 검토
+[확인] SR+MA — 분야 strong evidence
+[확인] SST 미용 우월 신호는 후속 SR과 일관
+[미검증] Heterogeneity·publication bias 평가 필요 — 본문 sensitivity analysis 검토
 [미검증] Long-term (≥5년) outcome은 본 SR에도 제한적
 
 ## Related Papers
