@@ -17,13 +17,21 @@ text_filename: khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-m
 
 심혈관질환(고혈압·고콜레스테롤혈증) 위험군 환자가 복용하는 심장 관련 약물(RAAS 억제제 ACEI/ARB, 스타틴)이 치주 상태에 미치는 영향을 다룬 SR+MA. 기존 [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]]가 항고혈압제의 타액분비/구강건조 부작용을 다뤘다면, 본 논문은 같은 약물군이 치주조직 염증·치주염 위험에 미치는 직접적 영향을 정량화하여 "심장약 복용 환자의 치과 고려사항" 지식을 보강한다.
 
-## One-line Summary
+## Three-line Summary
 
-SR+MA (PROSPERO CRD42024583905; PRISMA 2020; 6 studies qualitative, 4 studies meta-analyzed) found ACEI/ARB effects on periodontal status in hypertensive patients were inconsistent, while systemic statin therapy significantly reduced bleeding-on-probing (-13.4%, p=0.007) and probing depth (-0.38mm, p<0.00001) in hypercholesterolemic patients.
+SR+MA (PROSPERO CRD42024583905; PRISMA 2020; 6 studies qualitative, 4 meta-analyzed) evaluating how RAAS inhibitors (ACEI/ARB) and statins affect periodontal status in cardiovascular-risk patients (hypertension vs hypercholesterolemia).
 
-## 한줄요약
+ACEI/ARB effects on periodontal status in hypertensive patients were inconsistent, whereas systemic statin therapy significantly reduced bleeding-on-probing (−13.4%, p=0.007) and probing depth (−0.38mm, p<0.00001) in hypercholesterolemic patients.
 
-심혈관질환 위험군(고혈압·고콜레스테롤혈증)의 RAAS 억제제(ACEI/ARB)·스타틴 복용이 치주 상태에 미치는 영향을 분석한 SR+MA(6편 정성, 4편 메타분석) — RAAS 억제제는 비일관적 결과, 스타틴은 출혈지수·치주낭깊이를 유의하게 개선.
+The authors themselves judge the statistically significant PD reduction (−0.38mm) not clinically significant given the absence of a validated MCID; proposed RAAS-inhibitor harm mechanisms (ACEI kinin/Th1 polarization; ARB hyposalivation) remain at the level of isolated primary studies.
+
+## 세줄요약
+
+SR+MA(PROSPERO CRD42024583905; PRISMA 2020; 정성 6편·메타분석 4편) — 심혈관 위험군(고혈압 vs 고콜레스테롤혈증)에서 RAAS 억제제(ACEI/ARB)·스타틴이 치주 상태에 미치는 영향을 평가.
+
+고혈압 환자에서 ACEI/ARB의 치주 영향은 비일관적이었던 반면, 전신 스타틴 요법은 고콜레스테롤혈증 환자의 탐침시출혈(BOP −13.4%, p=0.007)과 치주낭깊이(PD −0.38mm, p<0.00001)를 유의하게 감소시킴.
+
+다만 검증된 최소임상중요차이(MCID)가 없어 저자들 스스로 통계적으로 유의한 PD −0.38mm를 임상적으로 유의하지 않다고 판단; RAAS 억제제 유해 기전(ACEI 키닌/Th1, ARB 타액저하)은 개별 일차연구 수준에 머묾.
 
 ## 1. Document Information
 
