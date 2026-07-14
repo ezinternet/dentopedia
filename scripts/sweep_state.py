@@ -7,7 +7,9 @@ PubMed MCP 호출은 Claude(MCP)가 담당하고, 이 스크립트는 상태 파
 서브커맨드:
   init             .surveillance/ 와 state.json / queue.md 초기화 (시드 토픽 포함)
   load             활성 토픽·last_run_edat·seen 개수 출력 (검색 파라미터 구성용)
-  dedup            --topic T --pmids a,b,c  →  seen·screened·큐에 없는 신규 PMID만 JSON
+  dedup            --topic T --pmids a,b,c [--watermark|--watermark-value N]
+                     seen·screened·큐에 없는 신규 PMID만 JSON. water-mark 옵션은
+                     max(seen) PMID 초과분만 신규로 컷(죽은 edat 필터 대체).
   enqueue          --json FILE   →  후보를 queue.md에 append, seen·last_run 갱신
   screen-out       --json FILE   →  Haiku가 탈락시킨 후보를 screened_out 버킷에 기록
   review-screened  [--older-than D] [--topic T]  →  재심 대상 screened_out 출력
@@ -83,6 +85,17 @@ def today() -> str:
     return dt.date.today().strftime("%Y/%m/%d")
 
 
+def water_mark(state: dict) -> int:
+    """max(seen_pmids) — PMID 등재순 단조증가를 edat 프록시로 쓰는 water-mark.
+
+    PubMed MCP search_articles가 date_from/datetype=edat를 무시하는 것이 확인돼
+    (2026-07-14 sweep), 이 water-mark 초과분만 '지난 sweep 이후 진짜 신규'로 본다.
+    seen이 비면 0 → 필터 무효(모두 신규). 자세한 배경은 SKILL.md '알려진 결함'.
+    """
+    pmids = [int(p) for p in state.get("seen_pmids", []) if str(p).isdigit()]
+    return max(pmids) if pmids else 0
+
+
 def queue_pmids(base: Path) -> set:
     """큐에 이미 들어간 PMID 집합 (안전장치용)."""
     p = queue_path(base)
@@ -121,6 +134,7 @@ def cmd_load(args):
     state = load_state(base)
     out = {
         "seen_count": len(state.get("seen_pmids", [])),
+        "watermark": water_mark(state),  # sweep 시작 시 이 값을 dedup --watermark-value 로 고정
         "topics": [],
     }
     for name, t in state["topics"].items():
@@ -143,22 +157,34 @@ def cmd_dedup(args):
     screened = set(state.get("screened_out", {}))
     seen = set(state.get("seen_pmids", [])) | queue_pmids(base)
     incoming = [p.strip() for p in args.pmids.split(",") if p.strip()]
+    # water-mark: date_from/edat 필터가 죽어 있으므로 max(seen) PMID 초과분만 진짜
+    # 신규로 본다. --watermark-value 로 스냅샷을 고정하면 sweep 중 enqueue 로 seen 이
+    # 커져도 토픽별 dedup 기준이 흔들리지 않는다(권장). --watermark 는 호출 시점 max(seen).
+    wm = None
+    if args.watermark_value is not None:
+        wm = args.watermark_value
+    elif args.watermark:
+        wm = water_mark(state)
+
+    def below_wm(p):
+        return wm is not None and p.isdigit() and int(p) <= wm
+
     # 루틴 sweep 은 screened_out 도 제외 — 탈락분이 매번 재부상해 재스크리닝 비용이
     # 반복되는 것을 막는다. 복구가 필요하면 restore-screened 로 명시적으로 되살린다.
-    new = [p for p in incoming if p not in seen and p not in screened]
-    print(
-        json.dumps(
-            {
-                "topic": args.topic,
-                "incoming": len(incoming),
-                "new": new,
-                "excluded_seen": len([p for p in incoming if p in seen]),
-                "excluded_screened": len([p for p in incoming if p in screened]),
-            },
-            ensure_ascii=False,
-            indent=2,
+    new = [p for p in incoming if p not in seen and p not in screened and not below_wm(p)]
+    out = {
+        "topic": args.topic,
+        "incoming": len(incoming),
+        "new": new,
+        "excluded_seen": len([p for p in incoming if p in seen]),
+        "excluded_screened": len([p for p in incoming if p in screened and p not in seen]),
+    }
+    if wm is not None:
+        out["watermark"] = wm
+        out["excluded_below_watermark"] = len(
+            [p for p in incoming if below_wm(p) and p not in seen and p not in screened]
         )
-    )
+    print(json.dumps(out, ensure_ascii=False, indent=2))
 
 
 def cmd_enqueue(args):
@@ -329,6 +355,7 @@ def cmd_status(args):
         json.dumps(
             {
                 "seen_total": len(state.get("seen_pmids", [])),
+                "watermark": water_mark(state),
                 "screened_total": len(screened),
                 "screened_by_topic": screened_by_topic,
                 "queue_pending": pending,
@@ -355,6 +382,10 @@ def main():
     d = sub.add_parser("dedup")
     d.add_argument("--topic", required=True)
     d.add_argument("--pmids", required=True, help="콤마 구분 PMID 목록")
+    d.add_argument("--watermark", action="store_true",
+                   help="max(seen) PMID 초과분만 신규로 (죽은 edat 필터 대체)")
+    d.add_argument("--watermark-value", type=int, default=None,
+                   help="water-mark 스냅샷 값 직접 지정 (sweep 시작 시 load/status 의 watermark 로 고정, 권장)")
 
     e = sub.add_parser("enqueue")
     e.add_argument("--json", required=True, help="후보 객체(배열) JSON 파일 경로")
