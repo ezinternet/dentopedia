@@ -62,7 +62,7 @@ Contrepois and colleagues systematically reviewed marginal-adaptation literature
 | Meta-analysis / ranking | Not possible (heterogeneity) |
 | Future-method recommendation | Micro-CT |
 
-## Clinical Implications [근거중간]
+## Clinical Implications [미검증 — 근거수준 중간]
 
 - Ceramic crown systems, in general, deliver clinically acceptable marginal fit — system choice should be driven by esthetics/strength rather than an assumed marginal-fit advantage (no system can be ranked superior on this evidence).
 - The **predefined cement space** (CAD die-spacer setting) and **cementation technique** are operator-controllable levers on the final marginal gap — worth optimizing in the digital workflow.
