@@ -816,6 +816,7 @@ tags: []
 
 ## 치간 청소 (Interdental Cleaning)
 - [[overviews/interdental-cleaning-devices-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편+토스픽 overview): 치간 청소도구 종합 — 치실 vs 치간칫솔(IDB) vs 구강세정기/워터픽(WF) vs 토스픽법 비교·적응증 결정 트리. 핵심: 어느 도구도 *보편적* 우월 없음(순응도가 효능보다 중요), 치간칫솔이 들어가는 공간이면 1순위(IDB>floss 근거 다수), 치실은 좁은 접촉/순응 환자, 워터픽은 교정·임플란트·손재주 제약·치주염 보조에 강점; 나무 이쑤시개는 치간유두 위해라 권장 안 함
+- [[interdental-cleaning/spindler-2026-3d-printed-cleaning-splints-interdental-brush]] — Spindler 2026 · rct (교차 파일럿, n=30 치주염) · 개인맞춤 **3D프린팅 청소 스플린트**를 치간칫솔(IDB) 보조로: CS+IDB가 IDB 단독보다 치태 유의 감소(ΔQHI −1.38 vs −0.23, p<0.001), 인접치 결손 공간서 특히 유효; BOP엔 무효·치은염 개선은 젊은층 한정 (DOI 10.1002/cre2.70392)
 - [[interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct]] — Carrouel 2026 · rct (다기관 2차분석, n=323 자간전증 고위험 초임부, 임신 12주 등록) — 매일 보정형 **치간칫솔(IDB)**+개별지도 vs 일상 산전관리: 8개월째 BOP 56%→12%(−79.9%, p<0.001, 대조군 무변화), 대부분 첫 주(−56.8%)에 발생, 중증군 −84.3%, 치간칫솔이 출혈소실 최강 독립예측인자(OR=3.14, 95% CI 2.01–4.90) (DOI 10.1111/jcpe.70085)
 - [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — Thomassen 2025 · rct (검사자맹검, n=82, 실험적 치은염→회복 모델) — 정유함유 에어플로스(AFeo) vs 왁스 **치실(DF)**, 둘 다 칫솔질 보조: 두 군 모두 BOMP·플라그(MPI)·치은마모(GAS) 감소했으나 **군간 유의차 없음**(p>0.05), 이상반응 0 — 동등·둘 다 안전, 기기선택은 효능 아닌 순응도·비용 문제 (DOI 10.1111/idh.70010)
 - [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — Yiamwattana 2025 · sr+ma (적격 4편·메타 3편, 고정성 교정환자) — **구강세정기(OI)** vs **치실(DF)**: 치태지수 SMD −0.88(95% CI −2.25~0.50, p=0.10, I²=98%)·출혈지수 SMD −0.90(p=0.35) 모두 NS → OI는 치실 대비 우월하지 않음(이질성 극심·근거 약함); 단 OI도 baseline 대비 PI·BI 감소 (abstract-only, DOI 10.1111/idh.70024)
@@ -839,6 +840,7 @@ tags: []
 - [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — AlMoharib 2024 · rct (단일맹검 병렬, 고정성 교정장치 환자 n=30, 사우디) — 워터젯 플로싱(water jet, n=18) vs 치실(interdental flossing, n=12) 2주 비교: 두 군 모두 치태·출혈지수 유의 감소하나 군간 유의차 없음(PI p=0.279, BI p=0.172) — 교정환자 보조도구로 동등 (DOI 10.1186/s12903-024-04166-0)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/bandiaky-2026-resveratrol-periodontal-disease-systematic-review]] — Bandiaky 2026 · sr (22편: 16 전임상+6 임상 RCT, PRISMA) · **레스베라트롤** 치주 보조요법; 동물서 치조골소실 7.09–60.60%↓·염증/산화지표 개선, 임상은 PPD·BOP·PI·CAL 가변적 개선(소표본·이질성·단기), 인간 방사선골소실 데이터 없음 → 비수술 치주치료 보조 후보(특히 급진성) (DOI 10.3290/j.ohpd.c_2752)
 - [[periodontics/he-2023-demystifying-connection-between-periodontal]] — He 2023 · sr (18편 SR 엄브렐라 리뷰, JBI+PRISMA 2020, PROSPERO) · 만성콩팥병(CKD)-치주질환 양방향 관계; 치주치료가 CKD 예후 개선 가능성, 근거 이질성 큼; 초록기반(PMC 풀텍스트 없음) (DOI 10.1111/jre.13161)
 - [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Liang 2025 · consensus (Int J Oral Sci 전문가 합의) · 시멘트질 열개(cemental tear) 진단·감별(VRF/근관/치주)·위치기반 치료 결정트리; torn fragment 완전제거 원칙, CBCT 1차·조직병리 확진, 완전제거 후 1년 94% 잔존 (DOI 10.1038/s41368-025-00381-9)
 - [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] — Lee 2025 · cross-sectional (홍콩 근관치료 클리닉, 치아 445개) · 시멘트질 열개 유병률 5.6%(PR+고해상도 CBCT 병용, PR단독 40% 누락), 다변량 독립위험인자 4개: 전치부·동요도·심한 치조골소실·적절한 근관충전(OR 8.38) (DOI 10.1111/iej.70042)
@@ -983,6 +985,7 @@ tags: []
 - [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-year multicenter RCT: 4 vs 6 implants for maxillary fixed complete dentures, non-inferior MBL, 4-I higher technical complications but lower cost (2025)
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
+- [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — Refai 2026 · rct (n=36, 3군×12, T-Scan) · 즉시부하 2-임플란트 하악 오버덴처 **연결(용접바 IW) vs 비연결(볼 IB) vs 총의치(CD)**: 두 임플란트군 모두 CD보다 교합/이개시간 짧음(OT CD 0.52 vs IB 0.35 vs IW 0.29s, p<0.001), 단 IB≈IW(무유의차) → 임플란트 2개 연결의 교합기능 이점 없음 (DOI 10.1186/s12903-026-08855-w)
 - [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] — Fayad 2025 · narrative-review · 보철 수직고경(Occlusal Vertical Dimension, OVD) 결정법 종합 리뷰(안면계측·발음·연하·안정위+자유공극·두부계측 → 디지털 3D·CBCT·AI); 단일 우수법 없음, 과다/과소 VD 임상 징후(이근 긴장·이순구 심화) 포함 (DOI 10.7759/cureus.93987)
 - [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] — Alhajj 2017 · narrative-review · 총의치 OVD 결정법을 발치 전(구내측정·측면윤곽·두부계측)/발치 후(안정위·심미·연하·안면계측·두부계측·발음)로 분류; 모두 경험적·단일 정확법 없음 → 병용 권고 (DOI 10.1111/joor.12522)
 - [[complete-denture/goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma]] — Goyal 2026 · sr+ma · 안면계측 11기법 SR+MA(13편/3275명): 엄지 길이 전체 최강(r≈0.63), 남성 외안각–구열(≈0.57)·여성 새끼손가락(≈0.46); I²≈99%·비뚤림 높아 보조 지표 (DOI J Prosthet Dent 2026;135(3):528-538)
@@ -2146,6 +2149,7 @@ tags: []
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
 
 ## 시린이 (Dentin Hypersensitivity)
+- [[dentin-hypersensitivity/barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct]] — Barbosa 2026 · rct (4군 이중맹검, n=54, 8주) · **8% 아르기닌 치약 vs 660nm 저출력레이저(PBM) vs 병용 vs 대조**: 전 군 8주간 Schiff·VAS 유의 개선(5.0→1.9)이나 **군간 차이 없음·병용 상가효과 없음** → 시린이 완화에 아르기닌·레이저 동등, 병용 이점 없음 (DOI 10.1007/s10103-026-04927-z)
 - [[dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma]] — Corrêa 2025 · sr+ma (22편/메타 15편, RCT·≥6개월 추적, 1991–2024): 지각과민 **치료법 장기효능 순위** — **글루타르알데히드(Gluma)·저출력레이저(LLLT)가 최대 효과크기**, 접착시스템·칼슘인산염계(CPP-ACP)는 장기 유의효과 없음 → 지속완화 목표시 Gluma·LLLT 우선 (DOI 10.1016/j.jdent.2025.106186)
 - [[dentin-hypersensitivity/ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-rct]] — Ayan 2025 · rct (n=164, 18–70세, 8주): 가정용 탈감작제 5종(**CPP-ACP·아르기닌·NovaMin·프로폴리스·질산칼륨**[NovaMin·질산칼륨=센소다인 핵심]) vs 표준 불소치약 — 전 시험군 4·8주 DHEQ-15/Schiff/VAS 유의 개선, 대조군은 8주 SSS+VAS만; **CPP-ACP 최대 감소** (DOI 10.1007/s00784-025-06155-1)
 - [[dentin-hypersensitivity/creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct]] — Creeth 2026 · rct (8주 examiner-blind, 215명 완료, Haleon=센소다인 제조사): 무수 **5% CSPS(NovaMin·Repair&Protect)+NaF 치약** vs 표준 NaF-실리카 — Schiff·Yeaple 촉각 두 지표 **Day 3부터 56일 전 시점** 유의 우월(between p<0.001), 완화 8주까지 점증; DHEQ-48 군간 NS (abstract-only, DOI 10.1016/j.jdent.2026.106710)
