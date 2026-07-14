@@ -1,17 +1,17 @@
 {
   "sinus-lift-technique-selection::q1": {
-    "box": 2,
-    "due": "2026-07-12",
-    "last": "2026-07-09"
+    "box": 3,
+    "due": "2026-07-21",
+    "last": "2026-07-14"
   },
   "sinus-lift-technique-selection::q2": {
-    "box": 2,
-    "due": "2026-07-12",
-    "last": "2026-07-09"
+    "box": 3,
+    "due": "2026-07-21",
+    "last": "2026-07-14"
   },
   "sinus-lift-technique-selection::q3": {
     "box": 1,
-    "due": "2026-07-10",
-    "last": "2026-07-09"
+    "due": "2026-07-15",
+    "last": "2026-07-14"
   }
 }
