@@ -6,7 +6,7 @@ date: 2025-03-06
 doi: "PMID:40047360"
 source: sabri-2025-keratinized-mucosa-implant-health-umbrella-review.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sabri-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 pdf_filename: sabri-2025-keratinized-mucosa-implant-health-umbrella-review.pdf
 source_collection: external

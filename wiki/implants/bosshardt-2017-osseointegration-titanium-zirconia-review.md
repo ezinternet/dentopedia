@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1111/prd.12169
 source: bosshardt-2017-osseointegration-titanium-zirconia-review.md
 category: implants
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bosshardt-2017-osseointegration-titanium-zirconia-review.pdf
 pdf_filename: bosshardt-2017-osseointegration-titanium-zirconia-review.pdf
 source_collection: external

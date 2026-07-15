@@ -6,7 +6,7 @@ date: 2026-05-21
 doi: 10.1186/s12903-026-08742-4
 source: lin-2026-ten-year-outcomes-short-dental.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2026-ten-year-outcomes-short-dental.pdf
 pdf_filename: lin-2026-ten-year-outcomes-short-dental.pdf
 source_collection: external

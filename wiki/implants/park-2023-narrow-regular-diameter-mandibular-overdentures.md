@@ -6,7 +6,7 @@ date: 2023-06-27
 doi: "10.1111/jopr.13726"
 source: park-2023-narrow-regular-diameter-mandibular-overdentures.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2023-narrow-regular-diameter-mandibular-overdentures.pdf
 pdf_filename: park-2023-narrow-regular-diameter-mandibular-overdentures.pdf
 source_collection: external

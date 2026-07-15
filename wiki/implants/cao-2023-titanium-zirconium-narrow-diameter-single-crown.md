@@ -6,7 +6,7 @@ date: 2023-05-16
 doi: "10.1016/j.bjoms.2023.05.005"
 source: cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cao-2023-titanium-zirconium-narrow-diameter-single-crown.pdf
 pdf_filename: cao-2023-titanium-zirconium-narrow-diameter-single-crown.pdf
 source_collection: external

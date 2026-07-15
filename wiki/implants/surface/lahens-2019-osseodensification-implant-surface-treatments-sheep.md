@@ -6,7 +6,7 @@ date: 2019-03-01
 doi: 10.1002/jbm.b.34154
 source: lahens-2019-osseodensification-implant-surface-treatments-sheep.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lahens-2019-osseodensification-implant-surface-treatments-sheep.pdf
 pdf_filename: lahens-2019-osseodensification-implant-surface-treatments-sheep.pdf
 source_collection: external

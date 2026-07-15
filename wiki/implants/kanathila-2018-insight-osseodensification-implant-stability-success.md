@@ -6,7 +6,7 @@ date: 2018-07-01
 doi: 10.7860/JCDR/2018/35626.11749
 source: kanathila-2018-insight-osseodensification-implant-stability-success.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kanathila-2018-insight-osseodensification-implant-stability-success.pdf
 pdf_filename: kanathila-2018-insight-osseodensification-implant-stability-success.pdf
 source_collection: external

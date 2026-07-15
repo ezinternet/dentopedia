@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1177/0022034513504953
 source: enkling-2013-platform-switching-bone-level-3year-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/enkling-2013-platform-switching-bone-level-3year-rct.pdf
 pdf_filename: enkling-2013-platform-switching-bone-level-3year-rct.pdf
 source_collection: external

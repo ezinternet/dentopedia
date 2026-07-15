@@ -6,7 +6,7 @@ date: 2012-09-23
 doi: 10.1016/j.joms.2012.08.006
 source: quesada-garcia-2012-implant-diameter-localization-prgf-stability.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/quesada-garcia-2012-implant-diameter-localization-prgf-stability.pdf
 pdf_filename: quesada-garcia-2012-implant-diameter-localization-prgf-stability.pdf
 source_collection: external

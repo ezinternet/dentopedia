@@ -6,7 +6,7 @@ date: 2024-09-25
 doi: 10.7759/cureus.70216
 source: saxena-2024-guided-implant-drilling-bone-temperature.md
 category: [implants, digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/saxena-2024-guided-implant-drilling-bone-temperature.pdf
 pdf_filename: saxena-2024-guided-implant-drilling-bone-temperature.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.4103/ijdr.IJDR_119_17
 source: chauhan-2018-biomechanical-factors-heat-generation-osteotomy.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chauhan-2018-biomechanical-factors-heat-generation-osteotomy.pdf
 pdf_filename: chauhan-2018-biomechanical-factors-heat-generation-osteotomy.pdf
 source_collection: external

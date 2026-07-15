@@ -8,7 +8,7 @@ pmid: "40684102"
 pmcid: "PMC12276677"
 source: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.txt
 text_filename: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.txt

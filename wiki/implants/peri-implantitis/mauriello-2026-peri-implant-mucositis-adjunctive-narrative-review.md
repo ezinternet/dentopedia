@@ -6,7 +6,7 @@ date: 2026-05-21
 doi: 10.3290/j.qi.b7011446
 source: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.pdf
 pdf_filename: mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.pdf
 source_collection: external

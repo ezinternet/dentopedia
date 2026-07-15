@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1038/s41415-026-9524-y
 source: barclay-2026-implant-maintenance-aftercare.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "41577778"

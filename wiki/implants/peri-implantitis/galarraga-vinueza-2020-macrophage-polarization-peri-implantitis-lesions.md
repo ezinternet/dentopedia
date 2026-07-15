@@ -6,7 +6,7 @@ date: 2020-09-04
 doi: 10.1007/s00784-020-03556-2
 source: galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions.md
 category: implants/peri-implantitis
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "32886246"

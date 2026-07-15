@@ -6,7 +6,7 @@ date: 2022-03-21
 doi: 10.3390/jcm11061743
 source: juan-montesinos-2022-platform-switching-conventional-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/juan-montesinos-2022-platform-switching-conventional-sr-ma.pdf
 pdf_filename: juan-montesinos-2022-platform-switching-conventional-sr-ma.pdf
 source_collection: external

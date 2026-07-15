@@ -6,7 +6,7 @@ date: 2025-01-27
 doi: ""
 source: arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.md
 category: [implants/isq]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.pdf
 pdf_filename: arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.pdf
 source_collection: external

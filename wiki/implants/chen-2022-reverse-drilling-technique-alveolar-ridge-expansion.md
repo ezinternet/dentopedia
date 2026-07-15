@@ -6,7 +6,7 @@ date: 2022-07-04
 doi: 10.1016/j.jds.2022.01.002
 source: chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "35784168"

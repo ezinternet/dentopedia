@@ -6,7 +6,7 @@ date: 2024-09-05
 doi: 10.1111/clr.14356
 source: hosseini-2024-sjogren-implant-prosthesis-5year-prospective.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39235273"

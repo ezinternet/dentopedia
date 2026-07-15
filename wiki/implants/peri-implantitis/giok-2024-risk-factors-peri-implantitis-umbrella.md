@@ -6,7 +6,7 @@ date: 2024-05-16
 doi: 10.1016/j.jdent.2024.105065
 source: giok-2024-risk-factors-peri-implantitis-umbrella.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "38762079"
 source_url: https://pubmed.ncbi.nlm.nih.gov/38762079/

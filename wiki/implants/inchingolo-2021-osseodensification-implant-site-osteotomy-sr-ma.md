@@ -6,7 +6,7 @@ date: 2021-02-28
 doi: 10.3390/ma14051147
 source: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.pdf
 pdf_filename: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.pdf
 source_collection: external

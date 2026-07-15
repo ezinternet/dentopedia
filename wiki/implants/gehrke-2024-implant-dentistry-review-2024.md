@@ -6,7 +6,7 @@ date: 2024-04-01
 doi: 10.1186/s40729-024-00543-0
 source: gehrke-2024-implant-dentistry-review-2024.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gehrke-2024-implant-dentistry-review-2024.pdf
 pdf_filename: gehrke-2024-implant-dentistry-review-2024.pdf
 source_collection: external

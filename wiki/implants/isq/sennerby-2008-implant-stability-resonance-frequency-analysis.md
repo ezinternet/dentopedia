@@ -6,7 +6,7 @@ date: 2008-01-01
 doi: 10.1111/j.1600-0757.2008.00242.x
 journal: Periodontology 2000 2008;47:51-66
 source: sennerby-2008-implant-stability-resonance-frequency-analysis.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sennerby-2008-implant-stability-resonance-frequency-analysis.pdf
 pdf_filename: sennerby-2008-implant-stability-resonance-frequency-analysis.pdf

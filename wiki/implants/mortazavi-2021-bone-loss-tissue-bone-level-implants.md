@@ -5,7 +5,7 @@ year: 2021
 date: 2021-01-01
 doi: 10.5125/jkaoms.2021.47.3.153
 source: mortazavi-2021-bone-loss-tissue-bone-level-implants.md
-confidence: sr
+evidence_level: sr
 category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mortazavi-2021-bone-loss-tissue-bone-level-implants.pdf
 pdf_filename: mortazavi-2021-bone-loss-tissue-bone-level-implants.pdf

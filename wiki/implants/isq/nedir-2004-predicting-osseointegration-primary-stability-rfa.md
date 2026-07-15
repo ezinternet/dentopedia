@@ -6,7 +6,7 @@ date: 2004-07-19
 doi: 10.1111/j.1600-0501.2004.01059.x
 source: nedir-2004-predicting-osseointegration-primary-stability-rfa.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nedir-2004-predicting-osseointegration-primary-stability-rfa.pdf
 pdf_filename: nedir-2004-predicting-osseointegration-primary-stability-rfa.pdf
 source_collection: external

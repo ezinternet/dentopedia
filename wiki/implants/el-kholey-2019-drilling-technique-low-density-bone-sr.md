@@ -6,7 +6,7 @@ date: 2019-10-01
 doi: "10.1097/ID.0000000000000917"
 source: el-kholey-2019-drilling-technique-low-density-bone-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-kholey-2019-drilling-technique-low-density-bone-sr.pdf
 pdf_filename: el-kholey-2019-drilling-technique-low-density-bone-sr.pdf
 source_collection: external

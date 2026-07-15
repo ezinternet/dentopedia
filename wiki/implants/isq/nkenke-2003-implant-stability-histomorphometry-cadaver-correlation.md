@@ -6,7 +6,7 @@ date: 2003-09-09
 doi: "10.1034/j.1600-0501.2003.00937.x"
 source: nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.pdf
 pdf_filename: nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.pdf
 source_collection: external

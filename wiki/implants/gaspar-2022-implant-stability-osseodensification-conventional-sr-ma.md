@@ -6,7 +6,7 @@ date: 2022-01-19
 doi: 10.11607/jomi.9132
 source: gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.pdf
 pdf_filename: gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.pdf
 source_collection: external

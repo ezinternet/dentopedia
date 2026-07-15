@@ -6,7 +6,7 @@ date: 2009-01-01
 doi: 10.4047/jap.2009.1.1.31
 source: kim-2009-implant-stability-various-implant-systems-clinical.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2009-implant-stability-various-implant-systems-clinical.pdf
 pdf_filename: kim-2009-implant-stability-various-implant-systems-clinical.pdf
 source_collection: external

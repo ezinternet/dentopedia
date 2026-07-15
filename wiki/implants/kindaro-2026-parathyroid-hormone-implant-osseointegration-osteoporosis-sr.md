@@ -6,7 +6,7 @@ date: 2026-03-31
 doi: 10.1016/j.job.2026.100778
 source: kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.pdf
 pdf_filename: kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr.pdf
 source_collection: external

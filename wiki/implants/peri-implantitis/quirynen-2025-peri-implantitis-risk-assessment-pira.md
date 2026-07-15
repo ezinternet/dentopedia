@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.11607/jomi.11211
 source: quirynen-2025-peri-implantitis-risk-assessment-pira.md
 category: [implants/peri-implantitis]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/quirynen-2025-peri-implantitis-risk-assessment-pira.pdf
 pdf_filename: quirynen-2025-peri-implantitis-risk-assessment-pira.pdf
 source_collection: external

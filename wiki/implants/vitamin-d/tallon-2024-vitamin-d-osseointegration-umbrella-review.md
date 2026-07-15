@@ -6,7 +6,7 @@ date: 2024-09-17
 doi: 10.3390/healthcare12181867
 source: tallon-2024-vitamin-d-osseointegration-umbrella-review.md
 category: [implants/vitamin-d]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39337208"

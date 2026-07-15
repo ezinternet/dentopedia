@@ -6,7 +6,7 @@ date: 2025-03-04
 doi: 10.1016/j.jebdp.2025.102132
 source: shilpi-2025-osseodensification-conventional-low-bone-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40335187"

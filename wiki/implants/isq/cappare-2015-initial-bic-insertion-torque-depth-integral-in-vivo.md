@@ -6,7 +6,7 @@ date: 2015-04-15
 doi: "10.1111/cid.12294"
 source: cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo.pdf
 pdf_filename: cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo.pdf
 source_collection: external

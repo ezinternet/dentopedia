@@ -6,7 +6,7 @@ date: 2023-03-02
 doi: 10.1016/j.jds.2023.02.018
 source: fu-2023-implant-stability-marginal-bone-level-pilot.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2023-implant-stability-marginal-bone-level-pilot.pdf
 pdf_filename: fu-2023-implant-stability-marginal-bone-level-pilot.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.4103/jispcd.JISPCD_265_21
 source: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.pdf
 pdf_filename: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite.pdf
 source_collection: external

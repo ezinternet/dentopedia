@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1556/IMAS.5.2013.4.3
 source: javed-2013-primary-stability-osseointegration-factors-influence.md
 category: [implants/isq]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/javed-2013-primary-stability-osseointegration-factors-influence.pdf
 pdf_filename: javed-2013-primary-stability-osseointegration-factors-influence.pdf
 source_collection: external

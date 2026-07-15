@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.1186/s40729-021-00299-x
 source: arghami-2021-immediate-early-loading-hydroxyapatite-coated.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/arghami-2021-immediate-early-loading-hydroxyapatite-coated.pdf
 pdf_filename: arghami-2021-immediate-early-loading-hydroxyapatite-coated.pdf
 source_collection: external

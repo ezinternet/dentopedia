@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/jcpe.70123
 source: hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41992493"

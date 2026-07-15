@@ -6,7 +6,7 @@ date: 2021-02-06
 doi: 10.1111/clr.13720
 source: chiapasco-2021-customized-cadcam-titanium-meshes-gbr.md
 category: [implants/vertical-ridge-augmentation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chiapasco-2021-customized-cadcam-titanium-meshes-gbr.pdf
 pdf_filename: chiapasco-2021-customized-cadcam-titanium-meshes-gbr.pdf
 source_collection: external

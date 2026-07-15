@@ -6,7 +6,7 @@ date: 2016-10-01
 doi: 10.4047/jap.2016.8.5.396
 journal: Journal of Advanced Prosthodontics 8(5):396-403
 source: kim-2016-hydrophilic-tapered-implant-6week-12week-loading.md
-confidence: rct
+evidence_level: rct
 category: [implants/surface]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2016-hydrophilic-tapered-implant-6week-12week-loading.pdf
 pdf_filename: kim-2016-hydrophilic-tapered-implant-6week-12week-loading.pdf

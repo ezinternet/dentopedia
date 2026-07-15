@@ -6,7 +6,7 @@ date: 2022-09-26
 doi: 10.1186/s40729-022-00438-y
 source: anitua-2022-short-vs-longer-implants-single-crown.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/anitua-2022-short-vs-longer-implants-single-crown.pdf
 pdf_filename: anitua-2022-short-vs-longer-implants-single-crown.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2017-11-25
 doi: 10.1186/s40902-017-0133-1
 source: an-2017-treatment-dental-implant-displacement-maxillary-sinus.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "29204419"

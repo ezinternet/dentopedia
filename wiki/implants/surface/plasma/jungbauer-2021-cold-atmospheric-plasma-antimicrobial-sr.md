@@ -6,7 +6,7 @@ date: 2021-02-19
 doi: 10.3390/antibiotics10020211
 source: jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr.md
 category: [implants/surface/plasma]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr.pdf
 pdf_filename: jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr.pdf
 source_collection: external

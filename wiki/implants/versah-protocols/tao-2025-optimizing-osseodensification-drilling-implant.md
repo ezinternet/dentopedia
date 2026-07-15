@@ -6,7 +6,7 @@ date: 2025-05-16
 doi: 10.1002/cre2.70155
 source: tao-2025-optimizing-osseodensification-drilling-implant.md
 category: [implants/versah-protocols]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/tao-2025-optimizing-osseodensification-drilling-implant.pdf
 pdf_filename: tao-2025-optimizing-osseodensification-drilling-implant.pdf
 source_collection: external

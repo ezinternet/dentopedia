@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1016/j.jobcr.2019.10.002
 source: padhye-2020-osseodensification-systematic-review-qualitative-analysis.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/padhye-2020-osseodensification-systematic-review-qualitative-analysis.pdf
 pdf_filename: padhye-2020-osseodensification-systematic-review-qualitative-analysis.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.2147/TCRM.S113764
 source: huang-2016-influencing-factors-implant-stability-quotient.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/huang-2016-influencing-factors-implant-stability-quotient.pdf
 pdf_filename: huang-2016-influencing-factors-implant-stability-quotient.pdf
 source_collection: external

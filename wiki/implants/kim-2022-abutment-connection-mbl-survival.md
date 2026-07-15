@@ -6,7 +6,7 @@ date: 2022-06-20
 doi: 10.5051/jpis.2200960048
 source: kim-2022-abutment-connection-mbl-survival.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pmid: "36468468"
 pmcid: "PMC9807847"
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 2021-04-16
 doi: 10.1007/s00784-021-03912-w
 source: elchaar-2021-tapered-self-cutting-tissue-level-minipig.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/elchaar-2021-tapered-self-cutting-tissue-level-minipig.pdf
 pdf_filename: elchaar-2021-tapered-self-cutting-tissue-level-minipig.pdf
 source_collection: external

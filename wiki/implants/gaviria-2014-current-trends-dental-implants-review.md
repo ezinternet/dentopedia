@@ -6,7 +6,7 @@ date: 2014-04-02
 doi: 10.5125/jkaoms.2014.40.2.50
 source: gaviria-2014-current-trends-dental-implants-review.md
 category: implants
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaviria-2014-current-trends-dental-implants-review.pdf
 pdf_filename: gaviria-2014-current-trends-dental-implants-review.pdf
 source_collection: external

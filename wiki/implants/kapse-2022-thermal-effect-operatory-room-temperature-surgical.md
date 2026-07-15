@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.4103/jisp.jisp_791_20
 source: kapse-2022-thermal-effect-operatory-room-temperature-surgical.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kapse-2022-thermal-effect-operatory-room-temperature-surgical.pdf
 pdf_filename: kapse-2022-thermal-effect-operatory-room-temperature-surgical.pdf
 source_collection: external

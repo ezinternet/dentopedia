@@ -6,7 +6,7 @@ date: 2020-04-19
 doi: 10.3390/ma13081921
 source: bernabeu-mira-2020-bone-heating-drilling-implant.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/bernabeu-mira-2020-bone-heating-drilling-implant.pdf
 pdf_filename: bernabeu-mira-2020-bone-heating-drilling-implant.pdf
 source_collection: external

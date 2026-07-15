@@ -6,7 +6,7 @@ date: 2024-01-24
 doi: 10.4103/jisp.jisp_531_22
 source: singh-2024-influence-implant-design-length-stress.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "38434497"

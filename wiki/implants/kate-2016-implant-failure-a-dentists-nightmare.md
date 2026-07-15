@@ -6,7 +6,7 @@ date: 2016-07-01
 doi: 10.4103/0974-6781.202154
 source: kate-2016-implant-failure-a-dentists-nightmare.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 superseded_by: giok-2026-factors-implant-failure-umbrella-review
 superseded_scope: partial
 pdf_path: /Users/oracleneo/llm-wiki/papers/kate-2016-implant-failure-a-dentists-nightmare.pdf

@@ -6,7 +6,7 @@ date: 2018-06-06
 doi: 10.1155/2018/8143962
 source: marenzi-2018-micromorphological-structure-implant-drills.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/marenzi-2018-micromorphological-structure-implant-drills.pdf
 pdf_filename: marenzi-2018-micromorphological-structure-implant-drills.pdf
 source_collection: external

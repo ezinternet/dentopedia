@@ -8,7 +8,7 @@ pmid: "28745035"
 pmcid: "PMC5655714"
 source: cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct.txt
 text_filename: cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct.txt
 source_collection: pubmed-text

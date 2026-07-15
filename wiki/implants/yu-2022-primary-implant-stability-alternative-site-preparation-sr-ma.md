@@ -6,7 +6,7 @@ date: 2022-08-11
 doi: 10.1111/cid.13127
 source: yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma.pdf
 pdf_filename: yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma.pdf
 source_collection: external

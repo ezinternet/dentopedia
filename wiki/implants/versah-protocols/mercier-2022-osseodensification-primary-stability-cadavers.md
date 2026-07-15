@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.11607/jomi.9144
 source: mercier-2022-osseodensification-primary-stability-cadavers.md
 category: [implants/versah-protocols]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "35727254"

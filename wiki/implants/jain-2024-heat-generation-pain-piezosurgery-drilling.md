@@ -6,7 +6,7 @@ date: 2024-10-13
 doi: 10.7759/cureus.71396
 source: jain-2024-heat-generation-pain-piezosurgery-drilling.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jain-2024-heat-generation-pain-piezosurgery-drilling.pdf
 pdf_filename: jain-2024-heat-generation-pain-piezosurgery-drilling.pdf
 source_collection: external

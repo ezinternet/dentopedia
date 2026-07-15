@@ -7,7 +7,7 @@ doi: 10.1016/j.jdent.2026.106761
 pmid: "42150728"
 source: lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.md
 category: implants/peri-implantitis
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct.txt

@@ -6,7 +6,7 @@ date: 2024-02-06
 doi: 10.4103/ams.ams_165_23
 source: mohsen-2024-vitamin-d-deficiency-osseointegration-prospective.md
 category: [implants/vitamin-d]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39184430"

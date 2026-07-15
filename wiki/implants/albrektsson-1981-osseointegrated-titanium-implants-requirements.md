@@ -6,7 +6,7 @@ date: 1981-01-01
 doi: 10.3109/17453678108991776
 source: albrektsson-1981-osseointegrated-titanium-implants-requirements.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/albrektsson-1981-osseointegrated-titanium-implants-requirements.pdf
 pdf_filename: albrektsson-1981-osseointegrated-titanium-implants-requirements.pdf
 source_collection: external

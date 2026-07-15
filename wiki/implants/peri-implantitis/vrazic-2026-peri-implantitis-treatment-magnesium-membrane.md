@@ -6,7 +6,7 @@ date: 2026-02-13
 doi: 10.3390/dj14020112
 source: vrazic-2026-peri-implantitis-treatment-magnesium-membrane.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/vrazic-2026-peri-implantitis-treatment-magnesium-membrane.pdf
 pdf_filename: vrazic-2026-peri-implantitis-treatment-magnesium-membrane.pdf
 source_collection: external

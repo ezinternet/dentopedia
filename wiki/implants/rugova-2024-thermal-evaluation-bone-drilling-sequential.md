@@ -6,7 +6,7 @@ date: 2024-09-16
 doi: 10.3390/bioengineering11090928
 source: rugova-2024-thermal-evaluation-bone-drilling-sequential.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/rugova-2024-thermal-evaluation-bone-drilling-sequential.pdf
 pdf_filename: rugova-2024-thermal-evaluation-bone-drilling-sequential.pdf
 source_collection: external

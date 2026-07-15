@@ -6,7 +6,7 @@ date: 2024-07-30
 doi: 10.1111/clr.14350
 source: cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct.pdf
 pdf_filename: cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct.pdf
 source_collection: external

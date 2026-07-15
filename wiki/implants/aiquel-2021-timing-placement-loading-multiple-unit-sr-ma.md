@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1111/clr.13860
 source: aiquel-2021-timing-placement-loading-multiple-unit-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma.pdf
 pdf_filename: aiquel-2021-timing-placement-loading-multiple-unit-sr-ma.pdf
 source_collection: external

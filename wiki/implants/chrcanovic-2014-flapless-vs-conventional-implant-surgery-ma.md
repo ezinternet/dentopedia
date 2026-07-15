@@ -6,7 +6,7 @@ date: 2014-06-20
 doi: 10.1371/journal.pone.0100624
 source: chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.pdf
 pdf_filename: chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma.pdf
 source_collection: external

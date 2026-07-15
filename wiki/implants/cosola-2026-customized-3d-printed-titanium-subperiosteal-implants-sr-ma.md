@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: S0278-2391(26)00183-7
 source: cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.pdf
 pdf_filename: cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma.pdf
 source_collection: external

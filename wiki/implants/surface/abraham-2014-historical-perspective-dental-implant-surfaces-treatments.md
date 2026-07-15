@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: 10.2174/1874210601408010050
 source: abraham-2014-historical-perspective-dental-implant-surfaces-treatments.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/abraham-2014-historical-perspective-dental-implant-surfaces-treatments.pdf
 pdf_filename: abraham-2014-historical-perspective-dental-implant-surfaces-treatments.pdf
 source_collection: external

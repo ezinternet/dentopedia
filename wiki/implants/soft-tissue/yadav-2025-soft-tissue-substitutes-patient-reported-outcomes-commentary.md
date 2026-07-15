@@ -6,7 +6,7 @@ date: 2025-02-14
 doi: 10.1038/s41432-025-01121-y
 source: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 pdf_filename: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 source_collection: external

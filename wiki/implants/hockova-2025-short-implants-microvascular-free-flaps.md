@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1038/s41598-025-01012-x
 source: hockova-2025-short-implants-microvascular-free-flaps.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/hockova-2025-short-implants-microvascular-free-flaps.pdf
 pdf_filename: hockova-2025-short-implants-microvascular-free-flaps.pdf
 source_collection: external

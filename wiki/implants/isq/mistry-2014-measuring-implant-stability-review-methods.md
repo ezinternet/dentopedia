@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: 10.4103/0974-6781.140891
 source: mistry-2014-measuring-implant-stability-review-methods.md
 category: [implants/isq]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mistry-2014-measuring-implant-stability-review-methods.pdf
 pdf_filename: mistry-2014-measuring-implant-stability-review-methods.pdf
 source_collection: external

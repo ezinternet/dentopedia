@@ -6,7 +6,7 @@ date: 2021-05-28
 doi: 10.1111/cid.13007
 source: bergamo-2021-osseodensification-effect-implants-primary-secondary.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bergamo-2021-osseodensification-effect-implants-primary-secondary.pdf
 pdf_filename: bergamo-2021-osseodensification-effect-implants-primary-secondary.pdf
 source_collection: external

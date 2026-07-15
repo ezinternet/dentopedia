@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1002/cre2.937
 source: dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39104130"

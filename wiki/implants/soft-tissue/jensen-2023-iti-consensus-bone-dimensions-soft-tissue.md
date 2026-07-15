@@ -6,7 +6,7 @@ date: 2023-07-20
 doi: 10.1111/clr.14154
 source: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 pdf_filename: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 source_collection: external

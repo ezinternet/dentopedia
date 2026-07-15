@@ -6,7 +6,7 @@ date: 2025-08-18
 doi: 10.1111/jcpe.70009
 source: munoz-2025-1mm-3mm-abutments-7year-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pmid: "40827015"
 pmcid: "PMC12531360"
 source_collection: pubmed-text

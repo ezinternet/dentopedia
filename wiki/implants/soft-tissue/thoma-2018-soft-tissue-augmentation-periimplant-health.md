@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1111/clr.13114
 journal: Clinical Oral Implants Research 2018;29(Suppl. 15):32-49
 source: thoma-2018-soft-tissue-augmentation-periimplant-health.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2018-soft-tissue-augmentation-periimplant-health.pdf
 pdf_filename: thoma-2018-soft-tissue-augmentation-periimplant-health.pdf

@@ -6,7 +6,7 @@ date: 2024-07-01
 doi: 10.1111/prd.12588
 source: ramseier-2024-diagnostic-measures-monitoring-follow-up.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramseier-2024-diagnostic-measures-monitoring-follow-up.pdf
 pdf_filename: ramseier-2024-diagnostic-measures-monitoring-follow-up.pdf
 source_collection: external

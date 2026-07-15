@@ -6,7 +6,7 @@ date: 2025-09-18
 doi: "10.3389/froh.2025.1670095"
 source: arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.pdf
 pdf_filename: arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.pdf
 source_collection: external

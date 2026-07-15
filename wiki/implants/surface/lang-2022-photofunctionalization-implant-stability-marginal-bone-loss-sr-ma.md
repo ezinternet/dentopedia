@@ -6,7 +6,7 @@ date: 2022-11-28
 doi: 10.3390/jcm11237042
 journal: Journal of Clinical Medicine
 source: lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [implants/surface]
 source_collection: pubmed-text
 full_text: true

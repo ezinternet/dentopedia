@@ -6,7 +6,7 @@ date: 2024-04-24
 doi: 10.11607/jomi.10492
 source: beckwith-2024-implant-coatings-affect-healing.md
 category: [implants/surface]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "38657215"

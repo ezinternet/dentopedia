@@ -6,7 +6,7 @@ date: 2019-09-30
 doi: 10.1590/1807-3107bor-2019.vol33.0070
 source: meza-mauricio-2019-diabetes-implant-failure-peri-implant.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pmid: "31576954"
 source_url: https://pubmed.ncbi.nlm.nih.gov/31576954/
 text_path: /Users/oracleneo/llm-wiki/papers/meza-mauricio-2019-diabetes-implant-failure-peri-implant.txt

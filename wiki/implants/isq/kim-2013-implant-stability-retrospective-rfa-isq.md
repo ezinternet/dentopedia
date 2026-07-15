@@ -6,7 +6,7 @@ date: 2013-10-01
 doi: 10.4047/jkap.2013.51.4.269
 source: kim-2013-implant-stability-retrospective-rfa-isq.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2013-implant-stability-retrospective-rfa-isq.pdf
 pdf_filename: kim-2013-implant-stability-retrospective-rfa-isq.pdf
 source_collection: external

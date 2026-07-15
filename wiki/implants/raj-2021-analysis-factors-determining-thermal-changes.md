@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4317/jced.57346
 source: raj-2021-analysis-factors-determining-thermal-changes.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/raj-2021-analysis-factors-determining-thermal-changes.pdf
 pdf_filename: raj-2021-analysis-factors-determining-thermal-changes.pdf
 source_collection: external

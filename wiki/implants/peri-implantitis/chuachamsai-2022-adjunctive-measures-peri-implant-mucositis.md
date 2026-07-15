@@ -6,7 +6,7 @@ date: 2022-06-08
 doi: 10.1186/s40729-022-00426-2
 source: chuachamsai-2022-adjunctive-measures-peri-implant-mucositis.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "35674882"

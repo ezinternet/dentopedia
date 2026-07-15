@@ -6,7 +6,7 @@ date: 2024-08-14
 doi: 10.1371/journal.pone.0305342
 source: bai-2024-seven-nonsurgical-methods-peri-implantitis-network.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bai-2024-seven-nonsurgical-methods-peri-implantitis-network.pdf
 pdf_filename: bai-2024-seven-nonsurgical-methods-peri-implantitis-network.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2015-10-01
 doi: 10.1016/j.biomaterials.2015.07.030
 source: dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm.md
 category: [implants/surface]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm.pdf
 pdf_filename: dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm.pdf
 source_collection: external

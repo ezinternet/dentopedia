@@ -6,7 +6,7 @@ date: 2022-01-19
 doi: 10.1111/cid.13057
 source: tay-2022-healing-complications-vertical-gbr-sr-ma.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tay-2022-healing-complications-vertical-gbr-sr-ma.pdf
 pdf_filename: tay-2022-healing-complications-vertical-gbr-sr-ma.pdf
 source_collection: external

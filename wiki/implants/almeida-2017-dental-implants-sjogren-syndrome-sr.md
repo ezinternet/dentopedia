@@ -6,7 +6,7 @@ date: 2017-12-14
 doi: 10.1371/journal.pone.0189507
 source: almeida-2017-dental-implants-sjogren-syndrome-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "29240793"

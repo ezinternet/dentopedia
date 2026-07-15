@@ -6,7 +6,7 @@ date: 2023-02-02
 doi: 10.3390/ma16031293
 source: spinelli-2023-tissue-level-laser-lok-flapless-4year.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/spinelli-2023-tissue-level-laser-lok-flapless-4year.pdf
 pdf_filename: spinelli-2023-tissue-level-laser-lok-flapless-4year.pdf
 source_collection: external

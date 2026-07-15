@@ -6,7 +6,7 @@ date: 2026-03-03
 doi: 10.1111/clr.70108
 source: calciolari-2026-tobacco-smoking-smoke-free-products.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/calciolari-2026-tobacco-smoking-smoke-free-products.pdf
 pdf_filename: calciolari-2026-tobacco-smoking-smoke-free-products.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-12-28
 doi: ""
 source: blaskovic-2021-peri-implant-soft-tissue-augmentation-review.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/blaskovic-2021-peri-implant-soft-tissue-augmentation-review.pdf
 pdf_filename: blaskovic-2021-peri-implant-soft-tissue-augmentation-review.pdf
 source_collection: external

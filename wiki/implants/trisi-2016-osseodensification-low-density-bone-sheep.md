@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1097/ID.0000000000000358
 source: trisi-2016-osseodensification-low-density-bone-sheep.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/trisi-2016-osseodensification-low-density-bone-sheep.pdf
 pdf_filename: trisi-2016-osseodensification-low-density-bone-sheep.pdf
 source_collection: external

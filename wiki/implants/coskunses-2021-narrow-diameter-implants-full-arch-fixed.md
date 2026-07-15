@@ -6,7 +6,7 @@ date: 2021-04-15
 doi: 10.1186/s40729-021-00312-3
 source: coskunses-2021-narrow-diameter-implants-full-arch-fixed.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pmcid: PMC8050379
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/coskunses-2021-narrow-diameter-implants-full-arch-fixed.txt

@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s12903-026-08720-w
 source: alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct.md
 category: implants/vertical-ridge-augmentation
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42298522"

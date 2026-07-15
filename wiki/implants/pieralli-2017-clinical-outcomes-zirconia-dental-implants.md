@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: "10.1177/0022034516664043"
 source: pieralli-2017-clinical-outcomes-zirconia-dental-implants.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pieralli-2017-clinical-outcomes-zirconia-dental-implants.pdf
 pdf_filename: pieralli-2017-clinical-outcomes-zirconia-dental-implants.pdf
 source_collection: external

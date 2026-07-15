@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.11607/jomi.11107
 source: tarce-2025-peri-implantitis-risk-assessment-pira-part1.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tarce-2025-peri-implantitis-risk-assessment-pira-part1.pdf
 pdf_filename: tarce-2025-peri-implantitis-risk-assessment-pira-part1.pdf
 source_collection: external

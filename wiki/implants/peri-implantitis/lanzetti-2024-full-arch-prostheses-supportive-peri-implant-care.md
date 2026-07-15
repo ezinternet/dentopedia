@@ -6,7 +6,7 @@ date: 2024-03-19
 doi: ""
 source: lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "38501398"

@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: "n/a (Dent Res J 2019;16(3):200-207)"
 source: hussein-2019-thread-depth-implant-shape-stress-mandible-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hussein-2019-thread-depth-implant-shape-stress-mandible-fea.pdf
 pdf_filename: hussein-2019-thread-depth-implant-shape-stress-mandible-fea.pdf
 source_collection: external

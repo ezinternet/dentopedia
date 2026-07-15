@@ -6,7 +6,7 @@ date: 2020-11-01
 doi: "n/a (J Prosthet Dent 2020;124(5):530-538; PII S0022-3913(19)30670-5)"
 source: xu-2020-short-standard-single-crown-posterior.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/xu-2020-short-standard-single-crown-posterior.pdf
 pdf_filename: xu-2020-short-standard-single-crown-posterior.pdf
 source_collection: external

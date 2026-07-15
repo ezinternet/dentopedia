@@ -6,7 +6,7 @@ date: 2023-10-11
 doi: 10.7759/cureus.49024
 source: althobaiti-2023-osseodensification-conventional-drilling-isq-sr.md
 category: [implants/isq]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/althobaiti-2023-osseodensification-conventional-drilling-isq-sr.pdf
 pdf_filename: althobaiti-2023-osseodensification-conventional-drilling-isq-sr.pdf
 source_collection: external

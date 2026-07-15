@@ -7,7 +7,7 @@ doi: 10.5125/jkaoms.2021.47.2.149
 journal: J Korean Assoc Oral Maxillofac Surg 2021;47(2):149-150
 source: song-2021-implant-complications-bruxism-patients.md
 category: implants
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/song-2021-implant-complications-bruxism-patients.pdf
 pdf_filename: song-2021-implant-complications-bruxism-patients.pdf
 source_collection: external

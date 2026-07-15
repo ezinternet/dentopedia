@@ -6,7 +6,7 @@ date: 2019-07-24
 doi: 10.7759/cureus.5226
 source: timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.md
 category: [implants, oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.pdf
 pdf_filename: timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.pdf
 source_collection: external

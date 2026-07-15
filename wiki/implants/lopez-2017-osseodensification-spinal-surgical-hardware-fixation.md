@@ -6,7 +6,7 @@ date: 2017-05-01
 doi: 10.1016/j.jmbbm.2016.12.020
 source: lopez-2017-osseodensification-spinal-surgical-hardware-fixation.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-2017-osseodensification-spinal-surgical-hardware-fixation.pdf
 pdf_filename: lopez-2017-osseodensification-spinal-surgical-hardware-fixation.pdf
 source_collection: external

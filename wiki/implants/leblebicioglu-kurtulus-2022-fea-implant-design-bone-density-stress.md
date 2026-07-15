@@ -6,7 +6,7 @@ date: 2022-05-23
 doi: "10.1111/jopr.13539"
 source: leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress.pdf
 pdf_filename: leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress.pdf
 source_collection: external

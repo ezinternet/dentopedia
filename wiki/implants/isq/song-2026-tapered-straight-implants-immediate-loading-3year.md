@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/cid.70147
 source: song-2026-tapered-straight-implants-immediate-loading-3year.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41981962"

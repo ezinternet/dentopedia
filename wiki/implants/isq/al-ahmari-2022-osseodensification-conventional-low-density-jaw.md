@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.3233/THC-220048
 source: al-ahmari-2022-osseodensification-conventional-low-density-jaw.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 pdf_filename: al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 source_collection: external

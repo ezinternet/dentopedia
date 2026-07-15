@@ -6,7 +6,7 @@ date: 2025-10-09
 doi: 10.3390/dj13100461
 source: ortiz-2025-osseodensification-implant-dentistry-critical-review.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ortiz-2025-osseodensification-implant-dentistry-critical-review.pdf
 pdf_filename: ortiz-2025-osseodensification-implant-dentistry-critical-review.pdf
 source_collection: external

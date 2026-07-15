@@ -8,7 +8,7 @@ pmid: "40419437"
 pmcid: "PMC12176461"
 source: cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 text_path: /Users/oracleneo/llm-wiki/papers/cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct.txt
 text_filename: cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct.txt
 source_collection: pubmed-text

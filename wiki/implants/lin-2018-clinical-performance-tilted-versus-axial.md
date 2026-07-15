@@ -7,7 +7,7 @@ doi: 10.1111/clr.13294
 pmid: "30328193"
 source: lin-2018-clinical-performance-tilted-versus-axial.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/lin-2018-clinical-performance-tilted-versus-axial.txt
 text_filename: lin-2018-clinical-performance-tilted-versus-axial.txt

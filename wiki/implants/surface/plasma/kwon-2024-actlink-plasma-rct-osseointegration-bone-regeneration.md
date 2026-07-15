@@ -6,7 +6,7 @@ date: 2024-09-29
 doi: 10.3390/bioengineering11100980
 source: kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration.md
 category: [implants/surface/plasma]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration.pdf
 pdf_filename: kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration.pdf
 source_collection: external

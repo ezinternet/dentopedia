@@ -6,7 +6,7 @@ date: 2024-12-06
 doi: 10.1111/clr.14389
 source: barwacz-2024-cadcam-abutment-morphology-implant-outcomes.md
 category: [implants/soft-tissue]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "39641983"

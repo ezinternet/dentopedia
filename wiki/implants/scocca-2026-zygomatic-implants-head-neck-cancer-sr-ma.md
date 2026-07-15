@@ -6,7 +6,7 @@ date: 2026-04-18
 doi: 10.1016/j.jdent.2026.106709
 source: scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.pdf
 pdf_filename: scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.pdf
 source_collection: external

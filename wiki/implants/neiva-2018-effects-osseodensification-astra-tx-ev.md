@@ -6,7 +6,7 @@ date: 2018-10-08
 doi: 10.1111/clr.329_13358
 source: neiva-2018-effects-osseodensification-astra-tx-ev.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/neiva-2018-effects-osseodensification-astra-tx-ev.pdf
 pdf_filename: neiva-2018-effects-osseodensification-astra-tx-ev.pdf
 source_collection: external

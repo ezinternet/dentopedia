@@ -6,7 +6,7 @@ doi: ""
 date: 2005-01-01
 journal: Int J Oral Maxillofac Implants 2005;20:569-577
 source: moy-2005-dental-implant-failure-rates-risk.md
-confidence: prospective
+evidence_level: prospective
 category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/moy-2005-dental-implant-failure-rates-risk.pdf
 pdf_filename: moy-2005-dental-implant-failure-rates-risk.pdf

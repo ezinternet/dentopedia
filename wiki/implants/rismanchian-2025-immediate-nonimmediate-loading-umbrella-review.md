@@ -6,7 +6,7 @@ date: 2025-10-27
 doi: 10.4103/drj.drj_574_24
 source: rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.pdf
 pdf_filename: rismanchian-2025-immediate-nonimmediate-loading-umbrella-review.pdf
 source_collection: external

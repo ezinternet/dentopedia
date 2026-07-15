@@ -6,7 +6,7 @@ date: 2025-06-26
 doi: 10.3390/jcm14134538
 source: kosior-2025-histological-histomorphometric-implant-bed-preparation.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kosior-2025-histological-histomorphometric-implant-bed-preparation.pdf
 pdf_filename: kosior-2025-histological-histomorphometric-implant-bed-preparation.pdf
 source_collection: external

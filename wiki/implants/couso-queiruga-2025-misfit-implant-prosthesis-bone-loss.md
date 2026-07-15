@@ -8,7 +8,7 @@ pmid: "41046331"
 pmcid: "PMC12767562"
 source: couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.txt
 text_filename: couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.txt

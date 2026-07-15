@@ -6,7 +6,7 @@ date: 2020-11-20
 doi: 10.1186/s40729-020-00271-1
 source: eskan-2020-tapered-implants-full-arch-immediate-function.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pmcid: PMC7680819
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/eskan-2020-tapered-implants-full-arch-immediate-function.txt

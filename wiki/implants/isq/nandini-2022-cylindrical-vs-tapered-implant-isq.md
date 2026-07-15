@@ -6,7 +6,7 @@ date: 2022-10-01
 doi: 10.7759/cureus.29675
 journal: Cureus 14(10):e29675
 source: nandini-2022-cylindrical-vs-tapered-implant-isq.md
-confidence: in-vivo
+evidence_level: in-vivo
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nandini-2022-cylindrical-vs-tapered-implant-isq.pdf
 pdf_filename: nandini-2022-cylindrical-vs-tapered-implant-isq.pdf

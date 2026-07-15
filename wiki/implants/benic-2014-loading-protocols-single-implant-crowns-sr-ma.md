@@ -6,7 +6,7 @@ date: 2014-03-20
 doi: "10.11607/jomi.2014suppl.g4.1"
 source: benic-2014-loading-protocols-single-implant-crowns-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/benic-2014-loading-protocols-single-implant-crowns-sr-ma.pdf
 pdf_filename: benic-2014-loading-protocols-single-implant-crowns-sr-ma.pdf
 source_collection: external

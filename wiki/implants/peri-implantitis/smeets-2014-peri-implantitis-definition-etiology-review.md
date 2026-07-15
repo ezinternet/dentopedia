@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: "10.1186/1746-160X-10-34"
 source: smeets-2014-peri-implantitis-definition-etiology-review.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/smeets-2014-peri-implantitis-definition-etiology-review.pdf
 pdf_filename: smeets-2014-peri-implantitis-definition-etiology-review.pdf
 source_collection: external

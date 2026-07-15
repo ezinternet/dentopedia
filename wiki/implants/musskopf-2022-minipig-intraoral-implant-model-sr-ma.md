@@ -6,7 +6,7 @@ date: 2022-02-28
 doi: 10.1371/journal.pone.0264475
 source: musskopf-2022-minipig-intraoral-implant-model-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/musskopf-2022-minipig-intraoral-implant-model-sr-ma.pdf
 pdf_filename: musskopf-2022-minipig-intraoral-implant-model-sr-ma.pdf
 source_collection: external

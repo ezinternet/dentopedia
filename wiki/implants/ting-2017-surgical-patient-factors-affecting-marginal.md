@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1097/ID.0000000000000565
 source: ting-2017-surgical-patient-factors-affecting-marginal.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ting-2017-surgical-patient-factors-affecting-marginal.pdf
 pdf_filename: ting-2017-surgical-patient-factors-affecting-marginal.pdf
 source_collection: external

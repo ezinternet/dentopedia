@@ -6,7 +6,7 @@ date: 2020-03-19
 doi: "10.1016/j.sdentj.2020.03.004"
 source: tabassum-2021-undersized-axial-compression-primary-stability.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/tabassum-2021-undersized-axial-compression-primary-stability.pdf
 pdf_filename: tabassum-2021-undersized-axial-compression-primary-stability.pdf
 source_collection: external

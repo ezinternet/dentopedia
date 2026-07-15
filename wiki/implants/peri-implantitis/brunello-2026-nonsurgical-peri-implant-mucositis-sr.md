@@ -6,7 +6,7 @@ date: 2026-04-24
 doi: 10.1111/prd.70047
 source: brunello-2026-nonsurgical-peri-implant-mucositis-sr.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42032437"

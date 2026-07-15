@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.4103/jips.jips_529_25
 source: ragher-2025-iprf-venous-blood-synthetic-graft-isq.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41918059"

@@ -6,7 +6,7 @@ date: 2025-10-30
 doi: 10.1111/prd.70017
 source: miron-2025-vitamin-d-deficiency-early-implant-failure.md
 category: [implants/vitamin-d]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41163589"

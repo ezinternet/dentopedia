@@ -6,7 +6,7 @@ date: 2019-08-01
 doi: null
 source: hu-2019-evaluation-fluid-distribution-implant-site.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hu-2019-evaluation-fluid-distribution-implant-site.pdf
 pdf_filename: hu-2019-evaluation-fluid-distribution-implant-site.pdf
 source_collection: external

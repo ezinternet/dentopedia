@@ -6,7 +6,7 @@ date: 2016-02-06
 doi: 10.3390/ma9020102
 source: minamikawa-2016-long-term-degradation-titanium-biological.md
 category: [implants/surface]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/minamikawa-2016-long-term-degradation-titanium-biological.pdf
 pdf_filename: minamikawa-2016-long-term-degradation-titanium-biological.pdf
 source_collection: external

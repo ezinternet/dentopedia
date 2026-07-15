@@ -6,7 +6,7 @@ date: 2026-04-08
 doi: "10.1186/s12903-026-08341-3"
 source: kim-2026-long-term-outcomes-short-standard-implants.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-long-term-outcomes-short-standard-implants.pdf
 pdf_filename: kim-2026-long-term-outcomes-short-standard-implants.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-02-10
 doi: 10.1111/cid.70125
 source: konuklu-2026-five-osteotomy-protocols-isq-rct.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/konuklu-2026-five-osteotomy-protocols-isq-rct.pdf
 pdf_filename: konuklu-2026-five-osteotomy-protocols-isq-rct.pdf
 source_collection: external

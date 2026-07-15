@@ -6,7 +6,7 @@ date: 2024-12-11
 doi: 10.1186/s40729-024-00581-8
 source: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39661263"

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1002/JPER.24-0154
 source: galarraga-vinueza-2025-peri-implant-disease-risk-factors.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
 pdf_filename: galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
 source_collection: external

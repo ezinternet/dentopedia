@@ -6,7 +6,7 @@ date: 2018-08-01
 doi: 10.1097/ID.0000000000000767
 source: slete-2018-histomorphometric-comparison-three-osteotomy-techniques.md
 category: [implants]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/slete-2018-histomorphometric-comparison-three-osteotomy-techniques.pdf
 pdf_filename: slete-2018-histomorphometric-comparison-three-osteotomy-techniques.pdf
 source_collection: external

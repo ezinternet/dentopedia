@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: 10.21873/invivo.12596
 source: jung-2021-heat-development-medical-drilling-influencing.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2021-heat-development-medical-drilling-influencing.pdf
 pdf_filename: jung-2021-heat-development-medical-drilling-influencing.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2016-04-04
 doi: 10.1007/s00784-016-1815-2
 source: bassetti-2016-soft-tissue-augmentation-second-stage-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 pdf_filename: bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2019-11-15
 doi: 10.1111/cid.12861
 source: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 pdf_filename: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.3390/dj10090162
 journal: Dent J 10:162
 source: caggiano-2022-smoking-cessation-periodontal-peri-implant-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr.pdf
 pdf_filename: caggiano-2022-smoking-cessation-periodontal-peri-implant-sr.pdf
 source_collection: external

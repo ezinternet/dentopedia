@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.prosdent.2020.07.004
 source: gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma.pdf
 pdf_filename: gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma.pdf
 source_collection: external

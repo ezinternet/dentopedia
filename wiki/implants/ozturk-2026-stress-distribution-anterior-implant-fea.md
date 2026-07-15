@@ -6,7 +6,7 @@ date: 2026-04-15
 doi: 10.1186/s12903-026-08405-4
 source: ozturk-2026-stress-distribution-anterior-implant-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ozturk-2026-stress-distribution-anterior-implant-fea.pdf
 pdf_filename: ozturk-2026-stress-distribution-anterior-implant-fea.pdf
 source_collection: external

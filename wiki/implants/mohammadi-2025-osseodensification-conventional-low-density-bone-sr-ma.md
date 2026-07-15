@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07201-w
 source: mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.pdf
 pdf_filename: mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.pdf
 source_collection: external

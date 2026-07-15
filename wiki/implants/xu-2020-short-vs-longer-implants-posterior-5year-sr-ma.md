@@ -6,7 +6,7 @@ date: 2020-09-01
 doi: "10.1016/j.jdent.2020.103386"
 source: xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.pdf
 pdf_filename: xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.pdf
 source_collection: external

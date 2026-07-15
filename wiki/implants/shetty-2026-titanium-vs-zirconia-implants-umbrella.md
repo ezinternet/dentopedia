@@ -6,7 +6,7 @@ date: 2026-05-04
 doi: 10.7759/cureus.108219
 source: shetty-2026-titanium-vs-zirconia-implants-umbrella.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42245850"

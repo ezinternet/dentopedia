@@ -6,7 +6,7 @@ date: 2013-03-28
 doi: 10.1002/14651858.CD003878.pub5
 source: esposito-2013-loading-times-dental-implants-cochrane.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2013-loading-times-dental-implants-cochrane.pdf
 pdf_filename: esposito-2013-loading-times-dental-implants-cochrane.pdf
 source_collection: external

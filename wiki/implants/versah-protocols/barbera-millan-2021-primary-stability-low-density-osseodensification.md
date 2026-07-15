@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.4317/medoral.24231
 source: barbera-millan-2021-primary-stability-low-density-osseodensification.md
 category: [implants/versah-protocols]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barbera-millan-2021-primary-stability-low-density-osseodensification.pdf
 pdf_filename: barbera-millan-2021-primary-stability-low-density-osseodensification.pdf
 source_collection: external

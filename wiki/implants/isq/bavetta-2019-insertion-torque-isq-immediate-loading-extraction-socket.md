@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.1155/2019/9720419
 journal: BioMed Research International 2019
 source: bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket.md
-confidence: retrospective
+evidence_level: retrospective
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket.pdf
 pdf_filename: bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket.pdf

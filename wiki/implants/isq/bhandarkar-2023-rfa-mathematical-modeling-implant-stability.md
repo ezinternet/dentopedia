@@ -6,7 +6,7 @@ date: 2023-10-10
 doi: 10.1016/j.prime.2023.100314
 source: bhandarkar-2023-rfa-mathematical-modeling-implant-stability.md
 category: implants/isq
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/bhandarkar-2023-rfa-mathematical-modeling-implant-stability.pdf
 pdf_filename: bhandarkar-2023-rfa-mathematical-modeling-implant-stability.pdf
 source_collection: external

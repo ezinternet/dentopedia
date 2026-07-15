@@ -7,7 +7,7 @@ doi: 10.1016/j.jdent.2024.105396
 journal: J Dent 151:105396
 source: fan-2024-smoking-early-implant-failure-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fan-2024-smoking-early-implant-failure-sr-ma.pdf
 pdf_filename: fan-2024-smoking-early-implant-failure-sr-ma.pdf
 source_collection: external

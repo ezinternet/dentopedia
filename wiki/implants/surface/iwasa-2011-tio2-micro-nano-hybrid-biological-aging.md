@@ -6,7 +6,7 @@ date: 2011-01-01
 doi: 10.2147/IJN.S22099
 source: iwasa-2011-tio2-micro-nano-hybrid-biological-aging.md
 category: [implants/surface]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/iwasa-2011-tio2-micro-nano-hybrid-biological-aging.pdf
 pdf_filename: iwasa-2011-tio2-micro-nano-hybrid-biological-aging.pdf
 source_collection: external

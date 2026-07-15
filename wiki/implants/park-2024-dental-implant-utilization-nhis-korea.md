@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.22974/jkda.2024.62.10.003
 source: park-2024-dental-implant-utilization-nhis-korea.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2024-dental-implant-utilization-nhis-korea.pdf
 pdf_filename: park-2024-dental-implant-utilization-nhis-korea.pdf
 source_collection: external

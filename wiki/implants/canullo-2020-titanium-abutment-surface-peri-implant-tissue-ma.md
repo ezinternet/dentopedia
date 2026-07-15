@@ -6,7 +6,7 @@ date: 2020-01-18
 doi: 10.1007/s00784-020-03210-x
 source: canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "31955269"

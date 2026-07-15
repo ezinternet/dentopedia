@@ -6,7 +6,7 @@ date: 2021-03-08
 doi: "10.1186/s12903-021-01486-3"
 source: liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma.pdf
 pdf_filename: liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma.pdf
 source_collection: external

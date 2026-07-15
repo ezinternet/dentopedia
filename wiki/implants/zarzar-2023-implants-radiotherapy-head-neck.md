@@ -6,7 +6,7 @@ date: 2023-02-28
 doi: 10.1111/scd.12840
 source: zarzar-2023-implants-radiotherapy-head-neck.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "36852979"

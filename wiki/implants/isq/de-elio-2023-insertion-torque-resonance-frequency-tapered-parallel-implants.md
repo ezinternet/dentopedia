@@ -6,7 +6,7 @@ date: 2023-09-14
 doi: 10.1563/aaid-joi-D-21-00305
 source: de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants.pdf
 pdf_filename: de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants.pdf
 source_collection: external

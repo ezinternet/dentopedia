@@ -6,7 +6,7 @@ date: 2009-01-01
 doi: ""
 source: lee-2009-marginal-bone-single-short-implant.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2009-marginal-bone-single-short-implant.pdf
 pdf_filename: lee-2009-marginal-bone-single-short-implant.pdf
 source_collection: external

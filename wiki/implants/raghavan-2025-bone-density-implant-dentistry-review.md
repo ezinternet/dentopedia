@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: ""
 source: raghavan-2025-bone-density-implant-dentistry-review.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/raghavan-2025-bone-density-implant-dentistry-review.pdf
 pdf_filename: raghavan-2025-bone-density-implant-dentistry-review.pdf
 source_collection: external

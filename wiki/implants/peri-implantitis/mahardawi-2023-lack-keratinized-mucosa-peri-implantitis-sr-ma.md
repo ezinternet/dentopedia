@@ -6,7 +6,7 @@ date: 2023-03-06
 doi: 10.1038/s41598-023-30890-8
 source: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma.pdf
 pdf_filename: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma.pdf
 source_collection: external

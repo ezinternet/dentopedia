@@ -6,7 +6,7 @@ date: 2025-10-29
 doi: 10.1002/cre2.70250
 source: ng-2025-clinical-outcomes-titanium-mesh.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ng-2025-clinical-outcomes-titanium-mesh.pdf
 pdf_filename: ng-2025-clinical-outcomes-titanium-mesh.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/clr.70035
 source: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.md
 category: [implants/soft-tissue]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.txt
 pdf_filename: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.txt
 source_collection: pubmed-text

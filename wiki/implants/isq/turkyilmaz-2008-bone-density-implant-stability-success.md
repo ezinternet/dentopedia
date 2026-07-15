@@ -6,7 +6,7 @@ date: 2008-11-24
 doi: 10.1186/1472-6831-8-32
 source: turkyilmaz-2008-bone-density-implant-stability-success.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/turkyilmaz-2008-bone-density-implant-stability-success.pdf
 pdf_filename: turkyilmaz-2008-bone-density-implant-stability-success.pdf
 source_collection: external

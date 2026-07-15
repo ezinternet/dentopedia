@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1002/cre2.70277
 source: cabbarova-2026-all-on-four-six-framework-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pmcid: PMC12834504
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/cabbarova-2026-all-on-four-six-framework-fea.txt

@@ -6,7 +6,7 @@ date: 2024-01-04
 doi: 10.5051/jpis.2303360168
 source: hong-2024-peri-implantitis-treatment-protocol-flowchart.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 pdf_filename: hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 source_collection: external

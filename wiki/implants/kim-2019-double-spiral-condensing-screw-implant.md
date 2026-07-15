@@ -6,7 +6,7 @@ date: 2019-07-30
 doi: "KR 10-2304707 B1 (등록 2021-09-15; 공개 10-2021-0014513; 출원 10-2019-0092685)"
 source: kim-2019-double-spiral-condensing-screw-implant.md
 category: [implants]
-confidence: patent
+evidence_level: patent
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-double-spiral-condensing-screw-implant.pdf
 pdf_filename: kim-2019-double-spiral-condensing-screw-implant.pdf
 source_collection: external

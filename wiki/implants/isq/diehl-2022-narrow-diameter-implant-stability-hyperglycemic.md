@@ -6,7 +6,7 @@ date: 2022-07-17
 doi: 10.1002/cre2.587
 source: diehl-2022-narrow-diameter-implant-stability-hyperglycemic.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/diehl-2022-narrow-diameter-implant-stability-hyperglycemic.pdf
 pdf_filename: diehl-2022-narrow-diameter-implant-stability-hyperglycemic.pdf
 source_collection: external

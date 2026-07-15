@@ -10,7 +10,7 @@ issue: 1
 pages: 42-52
 source: won-2008-smartpeg-sterilization-rfa-implant-stability.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/won-2008-smartpeg-sterilization-rfa-implant-stability.pdf
 pdf_filename: won-2008-smartpeg-sterilization-rfa-implant-stability.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2013-09-01
 doi: null
 source: barikani-2013-implant-length-diameter-primary-stability.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barikani-2013-implant-length-diameter-primary-stability.pdf
 pdf_filename: barikani-2013-implant-length-diameter-primary-stability.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2008-07-01
 doi: 10.11607/jomi.2008.4.525
 source: zix-2008-osstell-periotest-implant-stability-clinical.md
 category: implants/isq
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/zix-2008-osstell-periotest-implant-stability-clinical.pdf
 pdf_filename: zix-2008-osstell-periotest-implant-stability-clinical.pdf
 source_collection: external

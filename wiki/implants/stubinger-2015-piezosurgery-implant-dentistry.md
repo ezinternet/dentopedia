@@ -6,7 +6,7 @@ date: 2015-08-01
 doi: 10.2147/CCIDE.S63466
 source: stubinger-2015-piezosurgery-implant-dentistry.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/stubinger-2015-piezosurgery-implant-dentistry.pdf
 pdf_filename: stubinger-2015-piezosurgery-implant-dentistry.pdf
 source_collection: external

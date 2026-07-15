@@ -6,7 +6,7 @@ date: 2026-03-01
 doi: 10.1016/j.prosdent.2025.04.041
 source: giok-2026-factors-implant-failure-umbrella-review.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/giok-2026-factors-implant-failure-umbrella-review.pdf
 pdf_filename: giok-2026-factors-implant-failure-umbrella-review.pdf
 source_collection: external

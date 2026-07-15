@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.13790
 journal: J Clin Periodontol 50(S26):77-112
 source: carra-2023-primordial-primary-prevention-peri-implant-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/carra-2023-primordial-primary-prevention-peri-implant-sr-ma.pdf
 pdf_filename: carra-2023-primordial-primary-prevention-peri-implant-sr-ma.pdf
 source_collection: external

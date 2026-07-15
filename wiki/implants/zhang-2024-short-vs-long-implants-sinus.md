@@ -6,7 +6,7 @@ date: 2024-12-23
 doi: 10.1186/s12903-024-05377-1
 source: zhang-2024-short-vs-long-implants-sinus.md
 category: implants
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2024-short-vs-long-implants-sinus.pdf
 pdf_filename: zhang-2024-short-vs-long-implants-sinus.pdf
 source_collection: external

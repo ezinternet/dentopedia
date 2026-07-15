@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jre.70018
 source: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible.md
 category: [implants/peri-implantitis]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible.pdf
 pdf_filename: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible.pdf
 source_collection: external

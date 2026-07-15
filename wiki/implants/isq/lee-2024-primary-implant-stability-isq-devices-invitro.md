@@ -6,7 +6,7 @@ date: 2024-05-22
 doi: 10.1371/journal.pone.0290595
 source: lee-2024-primary-implant-stability-isq-devices-invitro.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-primary-implant-stability-isq-devices-invitro.pdf
 pdf_filename: lee-2024-primary-implant-stability-isq-devices-invitro.pdf
 source_collection: external

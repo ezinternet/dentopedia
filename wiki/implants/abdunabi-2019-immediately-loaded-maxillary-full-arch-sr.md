@@ -6,7 +6,7 @@ date: 2019-03-14
 doi: "10.1590/1678-7757-2018-0600"
 source: abdunabi-2019-immediately-loaded-maxillary-full-arch-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr.pdf
 pdf_filename: abdunabi-2019-immediately-loaded-maxillary-full-arch-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-11-12
 doi: 10.3389/fdmed.2025.1712749
 source: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md
 category: [implants/versah-protocols]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.pdf
 pdf_filename: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.pdf
 source_collection: external

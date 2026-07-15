@@ -6,7 +6,7 @@ date: 2025-03-19
 doi: 10.1371/journal.pone.0319492
 source: sorgato-2025-drill-bit-wear-temperature.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sorgato-2025-drill-bit-wear-temperature.pdf
 pdf_filename: sorgato-2025-drill-bit-wear-temperature.pdf
 source_collection: external

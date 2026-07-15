@@ -6,7 +6,7 @@ date: 2025-03-12
 doi: 10.1002/JPER.24-0144
 source: lin-2025-influence-of-prosthetic-designs.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2025-influence-of-prosthetic-designs.pdf
 pdf_filename: lin-2025-influence-of-prosthetic-designs.pdf
 source_collection: external

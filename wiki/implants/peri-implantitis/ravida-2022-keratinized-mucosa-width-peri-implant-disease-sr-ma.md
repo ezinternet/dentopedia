@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/cid.13080
 source: ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.pdf
 pdf_filename: ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma.pdf
 source_collection: external

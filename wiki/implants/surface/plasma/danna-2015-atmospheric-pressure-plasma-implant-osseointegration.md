@@ -6,7 +6,7 @@ date: 2015-02-01
 doi: 10.1155/2015/761718
 source: danna-2015-atmospheric-pressure-plasma-implant-osseointegration.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/danna-2015-atmospheric-pressure-plasma-implant-osseointegration.pdf
 pdf_filename: danna-2015-atmospheric-pressure-plasma-implant-osseointegration.pdf
 source_collection: external

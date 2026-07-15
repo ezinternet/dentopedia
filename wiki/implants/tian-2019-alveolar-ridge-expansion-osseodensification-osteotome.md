@@ -6,7 +6,7 @@ date: 2019-03-01
 doi: 10.1097/SCS.0000000000004956
 source: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome.pdf
 pdf_filename: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome.pdf
 source_collection: external

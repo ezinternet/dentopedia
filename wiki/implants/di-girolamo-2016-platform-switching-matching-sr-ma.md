@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: ""
 source: di-girolamo-2016-platform-switching-matching-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-girolamo-2016-platform-switching-matching-sr-ma.pdf
 pdf_filename: di-girolamo-2016-platform-switching-matching-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-03-31
 doi: 10.1111/jcpe.13823
 source: herrera-2023-prevention-treatment-peri-implant-efp.md
 category: [implants]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2023-prevention-treatment-peri-implant-efp.pdf
 pdf_filename: herrera-2023-prevention-treatment-peri-implant-efp.pdf
 source_collection: external

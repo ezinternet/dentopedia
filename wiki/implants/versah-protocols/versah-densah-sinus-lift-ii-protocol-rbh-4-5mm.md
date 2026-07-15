@@ -6,7 +6,7 @@ date: 2026-05-28
 doi: (manufacturer document)
 source: versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.md
 category: [implants/versah-protocols]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.pdf
 pdf_filename: versah-densah-sinus-lift-ii-protocol-rbh-4-5mm.pdf
 source_collection: external

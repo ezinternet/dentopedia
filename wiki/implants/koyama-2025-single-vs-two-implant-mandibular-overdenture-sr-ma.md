@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s40729-025-00647-1
 source: koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
 category: implants
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41003876"

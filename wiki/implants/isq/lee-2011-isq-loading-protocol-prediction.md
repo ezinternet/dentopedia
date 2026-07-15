@@ -6,7 +6,7 @@ date: 2011-04-27
 doi: 10.4047/jap.2011.3.2.76
 source: lee-2011-isq-loading-protocol-prediction.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2011-isq-loading-protocol-prediction.pdf
 pdf_filename: lee-2011-isq-loading-protocol-prediction.pdf
 source_collection: external

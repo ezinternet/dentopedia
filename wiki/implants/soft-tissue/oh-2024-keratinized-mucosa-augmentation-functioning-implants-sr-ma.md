@@ -6,7 +6,7 @@ date: 2024-05-22
 doi: 10.2186/jpr.JPR_D_24_00002
 source: oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma.pdf
 pdf_filename: oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma.pdf
 source_collection: external

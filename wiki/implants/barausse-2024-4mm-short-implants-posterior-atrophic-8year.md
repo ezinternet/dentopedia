@@ -6,7 +6,7 @@ date: 2024-07-30
 doi: 10.1111/clr.14349
 source: barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/barausse-2024-4mm-short-implants-posterior-atrophic-8year.pdf
 pdf_filename: barausse-2024-4mm-short-implants-posterior-atrophic-8year.pdf
 source_collection: external

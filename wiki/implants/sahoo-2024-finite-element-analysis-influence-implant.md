@@ -6,7 +6,7 @@ date: 2024-02-29
 doi: 10.4103/jpbs.jpbs_1103_23
 source: sahoo-2024-finite-element-analysis-influence-implant.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sahoo-2024-finite-element-analysis-influence-implant.pdf
 pdf_filename: sahoo-2024-finite-element-analysis-influence-implant.pdf
 source_collection: external

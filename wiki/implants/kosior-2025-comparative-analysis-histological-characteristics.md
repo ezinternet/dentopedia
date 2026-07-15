@@ -6,7 +6,7 @@ date: 2025-03-21
 doi: 10.3390/jcm14072161
 source: kosior-2025-comparative-analysis-histological-characteristics.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kosior-2025-comparative-analysis-histological-characteristics.pdf
 pdf_filename: kosior-2025-comparative-analysis-histological-characteristics.pdf
 source_collection: external

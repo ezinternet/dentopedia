@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: 10.1563/aaid-joi-D-23-00168
 source: francis-2024-low-serum-vitamin-d-early-implant-failure.md
 category: [implants/vitamin-d]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38530826"

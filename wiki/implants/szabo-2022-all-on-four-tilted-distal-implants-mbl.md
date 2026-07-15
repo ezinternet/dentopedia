@@ -6,7 +6,7 @@ date: 2022-05-17
 doi: 10.3390/dj10050082
 source: szabo-2022-all-on-four-tilted-distal-implants-mbl.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pmcid: PMC9140184
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/szabo-2022-all-on-four-tilted-distal-implants-mbl.txt

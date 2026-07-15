@@ -6,7 +6,7 @@ date: 2019-04-01
 doi: 10.1097/ID.0000000000000898
 source: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective.pdf
 pdf_filename: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective.pdf
 source_collection: external

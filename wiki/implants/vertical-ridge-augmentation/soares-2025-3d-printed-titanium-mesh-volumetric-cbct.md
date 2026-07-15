@@ -7,7 +7,7 @@ doi: 10.1002/cap.70015
 pmid: "41071184"
 source: soares-2025-3d-printed-titanium-mesh-volumetric-cbct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: retrospective
+evidence_level: retrospective
 text_path: /Users/oracleneo/llm-wiki/papers/soares-2025-3d-printed-titanium-mesh-volumetric-cbct.txt
 text_filename: soares-2025-3d-printed-titanium-mesh-volumetric-cbct.txt
 source_collection: pubmed-text

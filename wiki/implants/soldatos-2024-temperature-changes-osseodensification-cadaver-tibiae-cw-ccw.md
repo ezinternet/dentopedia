@@ -6,7 +6,7 @@ date: 2024-08-22
 doi: 10.3390/jfb15080237
 source: soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.pdf
 pdf_filename: soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.pdf
 source_collection: external

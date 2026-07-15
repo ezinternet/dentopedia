@@ -6,7 +6,7 @@ date: 2025-03-12
 doi: 10.1002/JPER.24-0083
 source: monje-2025-surgical-implant-factors-peri-implant-diseases.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/monje-2025-surgical-implant-factors-peri-implant-diseases.pdf
 pdf_filename: monje-2025-surgical-implant-factors-peri-implant-diseases.pdf
 source_collection: external

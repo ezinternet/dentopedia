@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: "n/a (Eur J Oral Implantol 2018;11(3):261-280; PMID 30246181)"
 source: merli-2018-implant-prosthetic-rehabilitation-bone-atrophy.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "30246181"

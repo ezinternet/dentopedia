@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.32542/implantology.20170009
 journal: Implantology 2017;21(2):110-127
 source: seol-2017-uv-implant-resonance-frequency-early-loading.md
-confidence: case-report
+evidence_level: case-report
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/seol-2017-uv-implant-resonance-frequency-early-loading.pdf
 pdf_filename: seol-2017-uv-implant-resonance-frequency-early-loading.pdf

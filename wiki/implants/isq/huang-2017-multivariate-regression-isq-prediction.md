@@ -6,7 +6,7 @@ date: 2017-10-30
 doi: 10.1371/journal.pone.0187010
 source: huang-2017-multivariate-regression-isq-prediction.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/huang-2017-multivariate-regression-isq-prediction.pdf
 pdf_filename: huang-2017-multivariate-regression-isq-prediction.pdf
 source_collection: external

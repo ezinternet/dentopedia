@@ -7,7 +7,7 @@ doi: 10.3390/medicina58010039
 journal: Medicina 58:39
 source: mustapha-2022-smoking-dental-implants-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mustapha-2022-smoking-dental-implants-sr-ma.pdf
 pdf_filename: mustapha-2022-smoking-dental-implants-sr-ma.pdf
 source_collection: external

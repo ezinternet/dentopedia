@@ -6,7 +6,7 @@ date: 2017-07-20
 doi: "WO 2017/124079 A1 (PCT/US2017/013697; priority US 62/278,579, 2016-01-14)"
 source: huwais-2017-autografting-tool-enhanced-flute-profile.md
 category: [implants]
-confidence: patent
+evidence_level: patent
 pdf_path: /Users/oracleneo/llm-wiki/papers/huwais-2017-autografting-tool-enhanced-flute-profile.pdf
 pdf_filename: huwais-2017-autografting-tool-enhanced-flute-profile.pdf
 source_collection: external

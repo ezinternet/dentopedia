@@ -6,7 +6,7 @@ date: 2022-04-07
 doi: 10.1111/cid.13088
 source: wang-2022-buccal-emergence-profile-peri-implant-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "35389559"

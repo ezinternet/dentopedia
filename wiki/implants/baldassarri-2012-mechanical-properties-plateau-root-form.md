@@ -6,7 +6,7 @@ date: 2012-08-04
 doi: 10.1002/jbm.b.32786
 source: baldassarri-2012-mechanical-properties-plateau-root-form.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/baldassarri-2012-mechanical-properties-plateau-root-form.pdf
 pdf_filename: baldassarri-2012-mechanical-properties-plateau-root-form.pdf
 source_collection: external

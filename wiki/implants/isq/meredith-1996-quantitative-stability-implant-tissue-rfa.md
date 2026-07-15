@@ -6,7 +6,7 @@ date: 1996-01-01
 doi: 10.1034/j.1600-0501.1996.070308.x
 source: meredith-1996-quantitative-stability-implant-tissue-rfa.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/meredith-1996-quantitative-stability-implant-tissue-rfa.pdf
 pdf_filename: meredith-1996-quantitative-stability-implant-tissue-rfa.pdf
 source_collection: external

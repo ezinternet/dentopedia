@@ -6,7 +6,7 @@ date: 2010-04-21
 doi: 10.1371/journal.pone.0010274
 source: popelut-2010-sponsorship-implant-failure-rate-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/popelut-2010-sponsorship-implant-failure-rate-sr.pdf
 pdf_filename: popelut-2010-sponsorship-implant-failure-rate-sr.pdf
 source_collection: external

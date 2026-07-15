@@ -6,7 +6,7 @@ date: 2023-11-01
 doi: 10.3390/jcm12216924
 source: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
 category: implants
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37959389"

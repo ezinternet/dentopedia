@@ -6,7 +6,7 @@ date: 2021-05-14
 doi: 10.3390/ijerph18105232
 source: agustin-panadero-2021-tissue-level-convergent-neck-peri-implant.md
 category: [implants]
-confidence: prospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/agustin-panadero-2021-tissue-level-convergent-neck-peri-implant.pdf
 pdf_filename: agustin-panadero-2021-tissue-level-convergent-neck-peri-implant.pdf
 source_collection: external

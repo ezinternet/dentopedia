@@ -6,7 +6,7 @@ date: 2023-09-26
 doi: 10.1111/clr.14150
 source: stefanini-2023-soft-tissue-augmentation-peri-implant-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/stefanini-2023-soft-tissue-augmentation-peri-implant-sr.pdf
 pdf_filename: stefanini-2023-soft-tissue-augmentation-peri-implant-sr.pdf
 source_collection: external

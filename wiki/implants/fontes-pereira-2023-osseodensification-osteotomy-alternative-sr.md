@@ -6,7 +6,7 @@ date: 2023-11-11
 doi: 10.3390/jcm12227046
 source: fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.pdf
 pdf_filename: fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.pdf
 source_collection: external

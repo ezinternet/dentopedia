@@ -6,7 +6,7 @@ date: 2024-06-14
 doi: 10.1007/s00784-024-05747-7
 source: canullo-2024-bioactive-surface-poor-bone-isq-stability.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/canullo-2024-bioactive-surface-poor-bone-isq-stability.pdf
 pdf_filename: canullo-2024-bioactive-surface-poor-bone-isq-stability.pdf
 source_collection: external

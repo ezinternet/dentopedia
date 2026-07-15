@@ -6,7 +6,7 @@ date: 2019-11-01
 doi: 10.4317/medoral.23108
 source: witek-2019-osseodensification-trabecular-tantalum-implants-sheep.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/witek-2019-osseodensification-trabecular-tantalum-implants-sheep.pdf
 pdf_filename: witek-2019-osseodensification-trabecular-tantalum-implants-sheep.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: 10.1186/s40729-024-00549-8
 source: ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.md
 category: [implants/surface]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.pdf
 pdf_filename: ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants.pdf
 source_collection: external

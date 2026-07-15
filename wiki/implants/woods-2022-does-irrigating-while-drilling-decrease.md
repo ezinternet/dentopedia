@@ -6,7 +6,7 @@ date: 2022-07-01
 doi: null
 source: woods-2022-does-irrigating-while-drilling-decrease.md
 category: [implants, oral-surgery]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/woods-2022-does-irrigating-while-drilling-decrease.pdf
 pdf_filename: woods-2022-does-irrigating-while-drilling-decrease.pdf
 source_collection: external

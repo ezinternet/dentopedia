@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.3390/dj11060146
 source: dambrosio-2023-systemic-diseases-medications-influence.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/dambrosio-2023-systemic-diseases-medications-influence.txt
 text_filename: dambrosio-2023-systemic-diseases-medications-influence.txt

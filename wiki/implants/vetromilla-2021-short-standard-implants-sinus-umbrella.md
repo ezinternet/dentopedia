@@ -6,7 +6,7 @@ date: 2021-10-01
 doi: "n/a (J Prosthet Dent 2021;126(4):503-511; PII S0022-3913(20)30429-7)"
 source: vetromilla-2021-short-standard-implants-sinus-umbrella.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/vetromilla-2021-short-standard-implants-sinus-umbrella.pdf
 pdf_filename: vetromilla-2021-short-standard-implants-sinus-umbrella.pdf
 source_collection: external

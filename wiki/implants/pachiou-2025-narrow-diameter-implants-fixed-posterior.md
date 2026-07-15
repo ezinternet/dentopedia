@@ -6,7 +6,7 @@ date: 2025-03-29
 doi: "10.1111/jopr.14057"
 source: pachiou-2025-narrow-diameter-implants-fixed-posterior.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pachiou-2025-narrow-diameter-implants-fixed-posterior.pdf
 pdf_filename: pachiou-2025-narrow-diameter-implants-fixed-posterior.pdf
 source_collection: external

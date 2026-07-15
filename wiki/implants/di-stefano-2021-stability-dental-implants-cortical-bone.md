@@ -5,7 +5,7 @@ year: 2021
 date: 2021-01-01
 doi: 10.3390/ma14237183
 source: di-stefano-2021-stability-dental-implants-cortical-bone.md
-confidence: sr
+evidence_level: sr
 category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-stefano-2021-stability-dental-implants-cortical-bone.pdf
 pdf_filename: di-stefano-2021-stability-dental-implants-cortical-bone.pdf

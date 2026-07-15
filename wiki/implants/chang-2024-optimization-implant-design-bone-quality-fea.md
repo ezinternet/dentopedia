@@ -6,7 +6,7 @@ date: 2024-09-17
 doi: "10.1016/j.jds.2024.09.017"
 source: chang-2024-optimization-implant-design-bone-quality-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/chang-2024-optimization-implant-design-bone-quality-fea.pdf
 pdf_filename: chang-2024-optimization-implant-design-bone-quality-fea.pdf
 source_collection: external

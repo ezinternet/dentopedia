@@ -6,7 +6,7 @@ date: 2025-07-04
 doi: 10.3390/jfb16070246
 source: yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr.md
 category: [implants/vertical-ridge-augmentation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr.pdf
 pdf_filename: yousefi-koma-2025-titanium-mesh-collagen-membrane-vertical-ridge-sr.pdf
 source_collection: external

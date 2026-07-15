@@ -6,7 +6,7 @@ date: 2026-06-04
 doi: 10.1016/j.prosdent.2026.05.002
 source: tomar-2026-osseodensification-conventional-drilling-umbrella.md
 category: [implants/versah-protocols]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2026-osseodensification-conventional-drilling-umbrella.pdf
 pdf_filename: tomar-2026-osseodensification-conventional-drilling-umbrella.pdf
 source_collection: external

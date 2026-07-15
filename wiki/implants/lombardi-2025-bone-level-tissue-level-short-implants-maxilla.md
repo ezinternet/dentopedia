@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/cid.13428
 source: lombardi-2025-bone-level-tissue-level-short-implants-maxilla.md
 category: [implants]
-confidence: retrospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lombardi-2025-bone-level-tissue-level-short-implants-maxilla.pdf
 pdf_filename: lombardi-2025-bone-level-tissue-level-short-implants-maxilla.pdf
 source_collection: external
@@ -73,7 +73,7 @@ The primary outcome was physiological bone remodeling (PBR) measured radiographi
 | T0–T1 (healing) | 0.11 ± 0.27 | 0.34 ± 0.35 | 0.004 |
 | T0–T2 (1 yr) | 0.30 ± 0.23 | 0.55 ± 0.42 | 0.003 |
 
-**Predictors of PBR (T0–T1) — both groups**: Thin vertical mucosa ≤2 mm (TL: B=−0.410, p<0.001; BL: B=−0.480, p<0.001). Age, sex, smoking, periodontitis history, IT, ISQ, bicortical engagement all non-significant.
+**Predictors of PBR (T0–T1) — both groups**: Thin vertical mucosa ≤2 mm was the only significant predictor — TL: B=−0.410, 95% CI [−0.578, −0.241], p<0.001 (Table 2); BL: B=−0.480, 95% CI [−0.685, −0.275], p<0.001 (Table 3). All other candidate variables were non-significant (p>0.05): age, sex, smoking, periodontitis history, insertion torque >50 N·cm, ISQ (T0) ≥60, and bicortical engagement.
 
 **Predictors of PBR (T1–T2)**:
 - Both groups: short abutment ≤2 mm (significant; negative coefficient = more bone loss with shorter abutment)

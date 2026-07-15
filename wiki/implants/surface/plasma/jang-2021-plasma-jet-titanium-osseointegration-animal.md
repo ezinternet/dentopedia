@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.3390/ma14081942
 source: jang-2021-plasma-jet-titanium-osseointegration-animal.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/jang-2021-plasma-jet-titanium-osseointegration-animal.pdf
 pdf_filename: jang-2021-plasma-jet-titanium-osseointegration-animal.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-08-26
 doi: 10.3390/medicina60091393
 source: bressan-2024-iao-consensus-peri-implant-soft-tissues.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
 pmid: "39336434"

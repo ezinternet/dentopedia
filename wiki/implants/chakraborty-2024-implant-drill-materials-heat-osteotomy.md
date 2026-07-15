@@ -6,7 +6,7 @@ date: 2023-06-19
 doi: 10.1055/s-0043-1768472
 source: chakraborty-2024-implant-drill-materials-heat-osteotomy.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chakraborty-2024-implant-drill-materials-heat-osteotomy.pdf
 pdf_filename: chakraborty-2024-implant-drill-materials-heat-osteotomy.pdf
 source_collection: external

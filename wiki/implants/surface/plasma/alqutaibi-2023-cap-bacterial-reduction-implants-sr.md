@@ -6,7 +6,7 @@ date: 2023-10-16
 doi: 10.3390/biom13101528
 source: alqutaibi-2023-cap-bacterial-reduction-implants-sr.md
 category: [implants/surface/plasma]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alqutaibi-2023-cap-bacterial-reduction-implants-sr.pdf
 pdf_filename: alqutaibi-2023-cap-bacterial-reduction-implants-sr.pdf
 source_collection: external

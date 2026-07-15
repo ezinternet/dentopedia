@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13920
 source: valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.pdf
 pdf_filename: valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.pdf
 source_collection: external

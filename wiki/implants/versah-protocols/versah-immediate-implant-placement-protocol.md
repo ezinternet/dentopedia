@@ -6,7 +6,7 @@ date: 2026-05-28
 doi: (manufacturer document)
 source: versah-immediate-implant-placement-protocol.md
 category: [implants/versah-protocols]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-immediate-implant-placement-protocol.pdf
 pdf_filename: versah-immediate-implant-placement-protocol.pdf
 source_collection: external

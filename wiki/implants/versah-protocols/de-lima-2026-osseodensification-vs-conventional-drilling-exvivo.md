@@ -6,7 +6,7 @@ date: 2026-01-05
 doi: 10.1371/journal.pone.0338078
 source: de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
 category: [implants/versah-protocols]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.pdf
 pdf_filename: de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.pdf
 source_collection: external

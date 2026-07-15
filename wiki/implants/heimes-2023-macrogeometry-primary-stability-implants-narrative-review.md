@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: "10.1186/s40729-023-00485-z"
 source: heimes-2023-macrogeometry-primary-stability-implants-narrative-review.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/heimes-2023-macrogeometry-primary-stability-implants-narrative-review.pdf
 pdf_filename: heimes-2023-macrogeometry-primary-stability-implants-narrative-review.pdf
 source_collection: external

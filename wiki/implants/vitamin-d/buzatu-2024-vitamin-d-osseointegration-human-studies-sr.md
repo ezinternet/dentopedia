@@ -6,7 +6,7 @@ date: 2024-01-09
 doi: 10.3390/nu16020209
 source: buzatu-2024-vitamin-d-osseointegration-human-studies-sr.md
 category: [implants/vitamin-d]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38257102"

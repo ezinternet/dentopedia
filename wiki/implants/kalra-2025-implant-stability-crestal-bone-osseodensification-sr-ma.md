@@ -6,7 +6,7 @@ date: 2025-06-01
 doi: 10.1016/j.prosdent.2024.07.011
 source: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.pdf
 pdf_filename: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.pdf
 source_collection: external

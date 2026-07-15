@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1038/s41368-025-00379-3
 source: zhang-2025-expert-consensus-km-augmentation-second-stage.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-expert-consensus-km-augmentation-second-stage.pdf
 pdf_filename: zhang-2025-expert-consensus-km-augmentation-second-stage.pdf
 source_collection: external

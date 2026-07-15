@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.13257
 journal: J Clin Periodontol 47(4):518-528
 source: naseri-2020-smoking-levels-implant-failure-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/naseri-2020-smoking-levels-implant-failure-sr-ma.pdf
 pdf_filename: naseri-2020-smoking-levels-implant-failure-sr-ma.pdf
 source_collection: external

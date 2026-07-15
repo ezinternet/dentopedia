@@ -7,7 +7,7 @@ doi: 10.11607/jomi.10877
 pmid: "38728145"
 source: chi-2024-customized-angled-abutment-tooth-inclination-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/chi-2024-customized-angled-abutment-tooth-inclination-fea.txt
 text_filename: chi-2024-customized-angled-abutment-tooth-inclination-fea.txt

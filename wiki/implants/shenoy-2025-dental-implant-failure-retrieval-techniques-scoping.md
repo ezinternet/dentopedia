@@ -7,7 +7,7 @@ doi: 10.3389/froh.2025.1667808
 journal: Front Oral Health 6:1667808
 source: shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.pdf
 pdf_filename: shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.pdf
 source_collection: external

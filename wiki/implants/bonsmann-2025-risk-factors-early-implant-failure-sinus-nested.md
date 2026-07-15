@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.14191
 journal: J Clin Periodontol 52(9):1306-1313
 source: bonsmann-2025-risk-factors-early-implant-failure-sinus-nested.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested.pdf
 pdf_filename: bonsmann-2025-risk-factors-early-implant-failure-sinus-nested.pdf
 source_collection: external

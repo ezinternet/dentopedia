@@ -6,7 +6,7 @@ date: 2012-07-04
 doi: 10.1155/2012/603826
 source: bonfante-2012-calcium-phosphate-coatings-plasma-spray.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/bonfante-2012-calcium-phosphate-coatings-plasma-spray.pdf
 pdf_filename: bonfante-2012-calcium-phosphate-coatings-plasma-spray.pdf
 source_collection: external

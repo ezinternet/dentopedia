@@ -6,7 +6,7 @@ date: 2024-12-26
 doi: 10.3390/biomimetics10010007
 source: jeon-2024-vortex-direct-plasma-titanium-surface.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/jeon-2024-vortex-direct-plasma-titanium-surface.pdf
 pdf_filename: jeon-2024-vortex-direct-plasma-titanium-surface.pdf
 source_collection: external

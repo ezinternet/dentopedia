@@ -6,7 +6,7 @@ date: 2025-08-08
 doi: 10.1563/aaid-joi-D-24-00160
 source: krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct.md
 category: [implants/surface]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40420652"

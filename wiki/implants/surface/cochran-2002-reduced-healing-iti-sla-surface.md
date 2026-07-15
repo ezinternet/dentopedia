@@ -6,7 +6,7 @@ date: 2002-04-21
 doi: 10.1034/j.1600-0501.2002.130204.x
 source: cochran-2002-reduced-healing-iti-sla-surface.md
 category: [implants/surface]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cochran-2002-reduced-healing-iti-sla-surface.pdf
 pdf_filename: cochran-2002-reduced-healing-iti-sla-surface.pdf
 source_collection: external

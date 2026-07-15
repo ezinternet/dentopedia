@@ -6,7 +6,7 @@ date: 2024-10-22
 doi: 10.1016/j.jds.2024.10.013
 source: lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40224111"

@@ -6,7 +6,7 @@ date: 2016-12-01
 doi: 10.1016/j.oooo.2016.06.016
 source: shiffler-2016-implant-length-diameter-location-isq.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shiffler-2016-implant-length-diameter-location-isq.pdf
 pdf_filename: shiffler-2016-implant-length-diameter-location-isq.pdf
 source_collection: external

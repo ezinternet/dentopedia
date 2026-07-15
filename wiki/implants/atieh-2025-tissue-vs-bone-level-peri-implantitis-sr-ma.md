@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1002/cre2.70242
 source: atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma.pdf
 pdf_filename: atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma.pdf
 source_collection: external

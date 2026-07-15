@@ -6,7 +6,7 @@ date: 2022-10-27
 doi: 10.1007/s12663-022-01800-8
 source: aquilanti-2023-heat-generation-initial-osteotomy.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aquilanti-2023-heat-generation-initial-osteotomy.pdf
 pdf_filename: aquilanti-2023-heat-generation-initial-osteotomy.pdf
 source_collection: external

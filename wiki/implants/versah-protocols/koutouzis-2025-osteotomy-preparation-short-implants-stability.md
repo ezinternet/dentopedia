@@ -6,7 +6,7 @@ date: 2025-02-07
 doi: 10.11607/jomi.10909
 source: koutouzis-2025-osteotomy-preparation-short-implants-stability.md
 category: [implants/versah-protocols]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: false
 pmid: "38941166"

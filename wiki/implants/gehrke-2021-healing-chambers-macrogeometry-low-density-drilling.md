@@ -6,7 +6,7 @@ date: 2021-07-30
 doi: "10.4103/jispcd.JISPCD_96_21"
 source: gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.pdf
 pdf_filename: gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.pdf
 source_collection: external

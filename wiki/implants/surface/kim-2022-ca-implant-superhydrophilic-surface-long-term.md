@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1186/s12903-022-02142-0
 journal: BMC Oral Health 22:97
 source: kim-2022-ca-implant-superhydrophilic-surface-long-term.md
-confidence: retrospective
+evidence_level: retrospective
 category: [implants/surface]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2022-ca-implant-superhydrophilic-surface-long-term.pdf
 pdf_filename: kim-2022-ca-implant-superhydrophilic-surface-long-term.pdf

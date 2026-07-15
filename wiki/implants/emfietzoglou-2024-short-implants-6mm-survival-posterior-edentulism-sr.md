@@ -6,7 +6,7 @@ date: 2024-06-17
 doi: "10.3390/dj12060185"
 source: emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.pdf
 pdf_filename: emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.pdf
 source_collection: external

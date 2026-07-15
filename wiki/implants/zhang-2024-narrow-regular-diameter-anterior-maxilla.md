@@ -6,7 +6,7 @@ date: 2024-03-06
 doi: "10.1007/s00784-024-05588-4"
 source: zhang-2024-narrow-regular-diameter-anterior-maxilla.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2024-narrow-regular-diameter-anterior-maxilla.pdf
 pdf_filename: zhang-2024-narrow-regular-diameter-anterior-maxilla.pdf
 source_collection: external

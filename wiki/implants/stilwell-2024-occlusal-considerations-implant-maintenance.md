@@ -6,7 +6,7 @@ date: 2024-05-24
 doi: 10.1038/s41415-024-7407-7
 source: stilwell-2024-occlusal-considerations-implant-maintenance.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/stilwell-2024-occlusal-considerations-implant-maintenance.pdf
 pdf_filename: stilwell-2024-occlusal-considerations-implant-maintenance.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-03-17
 doi: "10.3390/jcs9030140"
 source: rehner-2025-dental-implants-nanoparticle-coatings-review.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/rehner-2025-dental-implants-nanoparticle-coatings-review.pdf
 pdf_filename: rehner-2025-dental-implants-nanoparticle-coatings-review.pdf
 source_collection: external

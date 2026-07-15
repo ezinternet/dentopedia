@@ -6,7 +6,7 @@ date: 2018-08-31
 doi: 10.21742/AJMAHS.2018.08.21
 source: lee-2018-unilateral-mastication-bone-density-alveolus.md
 category: [implants]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-unilateral-mastication-bone-density-alveolus.pdf
 pdf_filename: lee-2018-unilateral-mastication-bone-density-alveolus.pdf
 source_collection: external

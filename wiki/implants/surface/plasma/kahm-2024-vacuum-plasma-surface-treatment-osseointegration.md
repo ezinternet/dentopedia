@@ -6,7 +6,7 @@ date: 2024-09-19
 doi: 10.3390/jfb15100278
 source: kahm-2024-vacuum-plasma-surface-treatment-osseointegration.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kahm-2024-vacuum-plasma-surface-treatment-osseointegration.pdf
 pdf_filename: kahm-2024-vacuum-plasma-surface-treatment-osseointegration.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-08-10
 doi: "10.4103/jips.jips_79_21"
 source: mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.pdf
 pdf_filename: mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma.pdf
 source_collection: external

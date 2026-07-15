@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1016/j.joms.2016.03.011
 source: gomez-polo-2016-length-diameter-bone-quality-stability.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/gomez-polo-2016-length-diameter-bone-quality-stability.pdf
 pdf_filename: gomez-polo-2016-length-diameter-bone-quality-stability.pdf
 source_collection: external

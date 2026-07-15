@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/cid.70157
 source: pirc-2026-one-piece-two-piece-implants-15year-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42126189"

@@ -6,7 +6,7 @@ date: 2020-10-12
 doi: "10.3390/jcm9103271"
 source: torres-alemany-2020-clinical-behavior-short-implants.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/torres-alemany-2020-clinical-behavior-short-implants.pdf
 pdf_filename: torres-alemany-2020-clinical-behavior-short-implants.pdf
 source_collection: external

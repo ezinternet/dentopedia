@@ -6,7 +6,7 @@ date: 2025-09-30
 doi: 10.3390/ma18194568
 source: kim-2025-plasma-surface-treatment-implant-stability-retrospective.md
 category: [implants/surface/plasma]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-plasma-surface-treatment-implant-stability-retrospective.pdf
 pdf_filename: kim-2025-plasma-surface-treatment-implant-stability-retrospective.pdf
 source_collection: external

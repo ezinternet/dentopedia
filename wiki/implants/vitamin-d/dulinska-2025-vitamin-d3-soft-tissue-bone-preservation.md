@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.17219/dmp/179004
 source: dulinska-2025-vitamin-d3-soft-tissue-bone-preservation.md
 category: [implants/vitamin-d]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "40644203"

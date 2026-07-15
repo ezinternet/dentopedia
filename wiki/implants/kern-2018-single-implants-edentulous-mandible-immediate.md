@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: "10.1177/0022034517736063"
 source: kern-2018-single-implants-edentulous-mandible-immediate.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kern-2018-single-implants-edentulous-mandible-immediate.pdf
 pdf_filename: kern-2018-single-implants-edentulous-mandible-immediate.pdf
 source_collection: external

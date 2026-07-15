@@ -6,7 +6,7 @@ date: 2025-10-21
 doi: 10.3390/jcm14207431
 source: guner-2025-osseodensification-ridge-split-implant-stability.md
 category: [implants/versah-protocols]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41156299"

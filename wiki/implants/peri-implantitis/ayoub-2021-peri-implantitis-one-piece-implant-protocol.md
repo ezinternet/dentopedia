@@ -6,7 +6,7 @@ date: 2021-11-30
 doi: ""
 source: ayoub-2021-peri-implantitis-one-piece-implant-protocol.md
 category: [implants/peri-implantitis]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/ayoub-2021-peri-implantitis-one-piece-implant-protocol.pdf
 pdf_filename: ayoub-2021-peri-implantitis-one-piece-implant-protocol.pdf
 source_collection: external

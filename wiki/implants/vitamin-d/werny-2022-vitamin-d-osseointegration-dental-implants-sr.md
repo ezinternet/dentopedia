@@ -6,7 +6,7 @@ date: 2022-04-11
 doi: 10.1186/s40729-022-00414-6
 source: werny-2022-vitamin-d-osseointegration-dental-implants-sr.md
 category: [implants/vitamin-d]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "35403929"

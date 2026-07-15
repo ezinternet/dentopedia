@@ -6,7 +6,7 @@ date: 2021-02-25
 doi: 10.1111/clr.13729
 source: heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.pdf
 pdf_filename: heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.pdf
 source_collection: external

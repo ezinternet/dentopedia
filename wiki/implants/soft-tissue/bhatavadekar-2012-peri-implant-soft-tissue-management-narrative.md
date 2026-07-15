@@ -6,7 +6,7 @@ date: 2012-10-01
 doi: 10.4103/0972-124X.106938
 source: bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.pdf
 pdf_filename: bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.pdf
 source_collection: external

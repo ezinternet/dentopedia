@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: ""
 source: seong-2016-external-internal-implant-connection-system.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/seong-2016-external-internal-implant-connection-system.pdf
 pdf_filename: seong-2016-external-internal-implant-connection-system.pdf
 source_collection: external

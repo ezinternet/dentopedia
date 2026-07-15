@@ -6,7 +6,7 @@ date: 2013-10-01
 doi: 10.4103/0972-124X.119282
 source: desai-2013-platform-switching-bone-loss-review.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/desai-2013-platform-switching-bone-loss-review.pdf
 pdf_filename: desai-2013-platform-switching-bone-loss-review.pdf
 source_collection: external

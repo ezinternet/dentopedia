@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.30476/dentjods.2023.95807.1898
 source: mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "38544771"

@@ -6,7 +6,7 @@ date: 2020-01-25
 doi: 10.3390/ijms21030783
 source: hasegawa-2020-meso-micro-nano-rough-titanium-surface.md
 category: [implants/surface]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/hasegawa-2020-meso-micro-nano-rough-titanium-surface.pdf
 pdf_filename: hasegawa-2020-meso-micro-nano-rough-titanium-surface.pdf
 source_collection: external

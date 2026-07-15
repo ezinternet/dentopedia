@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1002/JPER.19-0716
 source: tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.pdf
 pdf_filename: tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.pdf
 source_collection: external

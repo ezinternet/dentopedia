@@ -6,7 +6,7 @@ date: 2021-05-13
 doi: 10.1111/scd.12591
 source: barros-2021-sjogrens-syndrome-dental-implants.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "33987854"

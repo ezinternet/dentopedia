@@ -6,7 +6,7 @@ date: 2025-03-12
 doi: 10.1002/JPER.24-0119
 source: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 pdf_filename: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-12-23
 doi: "10.1007/s00784-023-05401-8"
 source: mohseni-2024-clinical-outcomes-zirconia-implants.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohseni-2024-clinical-outcomes-zirconia-implants.pdf
 pdf_filename: mohseni-2024-clinical-outcomes-zirconia-implants.pdf
 source_collection: external

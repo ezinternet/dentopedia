@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: 10.2147/IJN.S28082
 source: yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant.md
 category: [implants/surface]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant.pdf
 pdf_filename: yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant.pdf
 source_collection: external

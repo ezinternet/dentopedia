@@ -6,7 +6,7 @@ date: 2024-11-13
 doi: 10.5051/jpis.2401100055
 source: song-2024-long-term-clinical-radiographic-outcomes.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pmid: "40312941"
 pmcid: "PMC12056244"
 source_collection: pubmed-text

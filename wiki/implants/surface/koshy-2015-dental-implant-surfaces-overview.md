@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: "10.5005/jp-journals-10004-1028"
 source: koshy-2015-dental-implant-surfaces-overview.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/koshy-2015-dental-implant-surfaces-overview.pdf
 pdf_filename: koshy-2015-dental-implant-surfaces-overview.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.1186/s40902-019-0221-5
 source: kang-2019-sinus-bone-graft-simultaneous-vertical-ridge-augmentation.md
 category: [implants/vertical-ridge-augmentation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kang-2019-sinus-bone-graft-simultaneous-vertical-ridge-augmentation.pdf
 pdf_filename: kang-2019-sinus-bone-graft-simultaneous-vertical-ridge-augmentation.pdf
 source_collection: external

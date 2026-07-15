@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1111/prd.12510
 source: ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma.pdf
 pdf_filename: ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma.pdf
 source_collection: external

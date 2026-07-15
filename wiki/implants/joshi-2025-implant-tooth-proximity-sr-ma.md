@@ -8,7 +8,7 @@ pmid: "41531572"
 pmcid: "PMC12791176"
 source: joshi-2025-implant-tooth-proximity-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/joshi-2025-implant-tooth-proximity-sr-ma.txt
 text_filename: joshi-2025-implant-tooth-proximity-sr-ma.txt

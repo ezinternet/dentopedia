@@ -6,7 +6,7 @@ date: 2025-04-18
 doi: "10.7759/cureus.82547"
 source: tarpara-2025-flapless-flapped-clinical-outcomes-cohort.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40390720"

@@ -6,7 +6,7 @@ date: 2025-06-01
 doi: 10.5037/jomr.2025.16205
 source: stacchi-2025-vacuum-plasma-early-implant-stability-rct.md
 category: [implants/surface/plasma]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 pdf_filename: stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 source_collection: external

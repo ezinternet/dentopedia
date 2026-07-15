@@ -6,7 +6,7 @@ date: 2026-05-14
 doi: 10.3390/jcm15103764
 source: wach-2026-emergence-angle-marginal-bone-loss.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42194726"

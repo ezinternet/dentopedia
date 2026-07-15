@@ -6,7 +6,7 @@ date: 2021-01-11
 doi: 10.3390/app11020640
 source: mello-machado-2021-osseodensification-low-quality-bone-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/mello-machado-2021-osseodensification-low-quality-bone-rct.pdf
 pdf_filename: mello-machado-2021-osseodensification-low-quality-bone-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-10-14
 doi: 10.1016/j.jdsr.2020.09.004
 source: heiderich-2020-methodological-quality-loading-time-implants.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "33088366"

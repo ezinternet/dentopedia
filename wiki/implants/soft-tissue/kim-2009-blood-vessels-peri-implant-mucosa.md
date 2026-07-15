@@ -6,7 +6,7 @@ date: 2009-01-01
 doi: unknown
 source: kim-2009-blood-vessels-peri-implant-mucosa.md
 category: [implants/soft-tissue]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2009-blood-vessels-peri-implant-mucosa.pdf
 pdf_filename: kim-2009-blood-vessels-peri-implant-mucosa.pdf
 source_collection: external

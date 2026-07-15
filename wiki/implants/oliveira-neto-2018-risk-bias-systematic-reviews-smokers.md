@@ -6,7 +6,7 @@ date: 2018-04-30
 doi: 10.1016/j.prosdent.2017.12.026
 source: oliveira-neto-2018-risk-bias-systematic-reviews-smokers.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "29724548"

@@ -8,7 +8,7 @@ pmid: "39452546"
 pmcid: "PMC11508474"
 source: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
 text_filename: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt

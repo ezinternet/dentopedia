@@ -6,7 +6,7 @@ date: 2025-03-01
 doi: 10.11607/prd.7197
 source: zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.md
 category: [implants/soft-tissue]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.pdf
 pdf_filename: zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.pdf
 source_collection: external

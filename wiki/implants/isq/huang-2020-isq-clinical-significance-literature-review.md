@@ -6,7 +6,7 @@ date: 2020-08-14
 doi: 10.1016/j.jobcr.2020.07.004
 journal: Journal of Oral Biology and Craniofacial Research 10(4):629-638
 source: huang-2020-isq-clinical-significance-literature-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/huang-2020-isq-clinical-significance-literature-review.pdf
 pdf_filename: huang-2020-isq-clinical-significance-literature-review.pdf

@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.3390/jfb14090469
 journal: Journal of Functional Biomaterials 14:469
 source: stoilov-2023-macrodesign-length-diameter-bone-quality-isq.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [implants/isq]
 pdf_path: /Users/oracleneo/llm-wiki/papers/stoilov-2023-macrodesign-length-diameter-bone-quality-isq.pdf
 pdf_filename: stoilov-2023-macrodesign-length-diameter-bone-quality-isq.pdf

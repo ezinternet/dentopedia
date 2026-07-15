@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.34172/japid.025.3475
 source: moghaddas-2025-osseodensification-standard-drilling-isq-itv.md
 category: [implants/versah-protocols]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40673121"

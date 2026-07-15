@@ -6,7 +6,7 @@ date: 2026-02-16
 doi: 10.1016/j.ijom.2026.02.008
 source: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.pdf
 pdf_filename: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.pdf
 source_collection: external

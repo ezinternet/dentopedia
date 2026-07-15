@@ -6,7 +6,7 @@ date: 2023-03-04
 doi: 10.4103/jisp.jisp_622_21
 source: shetty-2023-platelet-concentrates-peri-implantitis-treatment-sr.md
 category: [implants/peri-implantitis]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 pmid: "37152466"
 pmcid: "PMC10159101"

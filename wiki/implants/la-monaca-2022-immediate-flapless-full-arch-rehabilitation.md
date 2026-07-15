@@ -6,7 +6,7 @@ date: 2022-09-13
 doi: 10.1111/cid.13134
 source: la-monaca-2022-immediate-flapless-full-arch-rehabilitation.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/la-monaca-2022-immediate-flapless-full-arch-rehabilitation.pdf
 pdf_filename: la-monaca-2022-immediate-flapless-full-arch-rehabilitation.pdf
 source_collection: external

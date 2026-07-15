@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13751
 source: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.md
 category: [implants/soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.pdf
 pdf_filename: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.pdf
 source_collection: external

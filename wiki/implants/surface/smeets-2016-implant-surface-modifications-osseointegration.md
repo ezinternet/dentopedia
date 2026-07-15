@@ -6,7 +6,7 @@ date: 2016-06-06
 doi: 10.1155/2016/6285620
 source: smeets-2016-implant-surface-modifications-osseointegration.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/smeets-2016-implant-surface-modifications-osseointegration.pdf
 pdf_filename: smeets-2016-implant-surface-modifications-osseointegration.pdf
 source_collection: external

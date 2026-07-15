@@ -6,7 +6,7 @@ date: 2023-03-04
 doi: 10.4103/jisp.jisp_278_22
 source: pandey-2023-comparison-all-on-four-all-on-six.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pandey-2023-comparison-all-on-four-all-on-six.pdf
 pdf_filename: pandey-2023-comparison-all-on-four-all-on-six.pdf
 source_collection: external

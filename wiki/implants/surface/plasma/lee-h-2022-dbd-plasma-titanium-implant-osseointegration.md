@@ -6,7 +6,7 @@ date: 2022-08-30
 doi: 10.1007/s13534-022-00245-9
 source: lee-h-2022-dbd-plasma-titanium-implant-osseointegration.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-h-2022-dbd-plasma-titanium-implant-osseointegration.pdf
 pdf_filename: lee-h-2022-dbd-plasma-titanium-implant-osseointegration.pdf
 source_collection: external

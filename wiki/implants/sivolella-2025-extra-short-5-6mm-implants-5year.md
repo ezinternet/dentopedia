@@ -6,7 +6,7 @@ date: 2025-01-15
 doi: 10.1186/s40729-025-00592-z
 source: sivolella-2025-extra-short-5-6mm-implants-5year.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sivolella-2025-extra-short-5-6mm-implants-5year.pdf
 pdf_filename: sivolella-2025-extra-short-5-6mm-implants-5year.pdf
 source_collection: external

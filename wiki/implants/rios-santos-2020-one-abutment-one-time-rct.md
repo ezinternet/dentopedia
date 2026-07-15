@@ -6,7 +6,7 @@ date: 2020-12-17
 doi: 10.3390/ijerph17249453
 source: rios-santos-2020-one-abutment-one-time-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "33348644"

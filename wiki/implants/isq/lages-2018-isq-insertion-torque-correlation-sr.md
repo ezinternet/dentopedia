@@ -6,7 +6,7 @@ date: 2017-12-01
 doi: 10.1111/cid.12565
 source: lages-2018-isq-insertion-torque-correlation-sr.md
 category: [implants/isq]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/lages-2018-isq-insertion-torque-correlation-sr.pdf
 pdf_filename: lages-2018-isq-insertion-torque-correlation-sr.pdf
 source_collection: external

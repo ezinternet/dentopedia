@@ -6,7 +6,7 @@ date: 2016-08-01
 doi: 10.2298/VSP141208041M
 source: markovic-2016-effect-surgical-drill-guide-irrigans.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/markovic-2016-effect-surgical-drill-guide-irrigans.pdf
 pdf_filename: markovic-2016-effect-surgical-drill-guide-irrigans.pdf
 source_collection: external

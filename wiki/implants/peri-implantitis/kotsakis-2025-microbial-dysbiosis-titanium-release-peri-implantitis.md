@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: 10.1177/00220345241307939
 source: kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis.md
 category: [implants/peri-implantitis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis.pdf
 pdf_filename: kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis.pdf
 source_collection: external

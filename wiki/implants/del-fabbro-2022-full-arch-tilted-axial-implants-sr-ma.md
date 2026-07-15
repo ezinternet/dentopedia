@@ -7,7 +7,7 @@ doi: 10.11607/jomi.9710
 pmid: "36170316"
 source: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.txt
 text_filename: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.txt

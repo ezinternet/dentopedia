@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.11607/jomi.19suppl.g3
 source: aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "31116832"

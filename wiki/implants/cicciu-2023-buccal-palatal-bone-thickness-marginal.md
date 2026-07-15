@@ -6,7 +6,7 @@ date: 2023-05-18
 doi: 10.1186/s12903-023-02991-3
 source: cicciu-2023-buccal-palatal-bone-thickness-marginal.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cicciu-2023-buccal-palatal-bone-thickness-marginal.pdf
 pdf_filename: cicciu-2023-buccal-palatal-bone-thickness-marginal.pdf
 source_collection: external

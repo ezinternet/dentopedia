@@ -8,7 +8,7 @@ pmid: "34551168"
 pmcid: "PMC9293224"
 source: cucchi-2021-cadcam-titanium-mesh-resorbable-membrane-rct.md
 category: [implants/vertical-ridge-augmentation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/cucchi-2021-cadcam-titanium-mesh-resorbable-membrane-rct.txt
 text_filename: cucchi-2021-cadcam-titanium-mesh-resorbable-membrane-rct.txt

@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1186/s12903-026-08802-9
 source: ali-2026-osseodensification-techniques-implant-stability-maxilla.md
 category: [implants/versah-protocols]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42249424"

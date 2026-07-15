@@ -6,7 +6,7 @@ date: 2021-02-04
 doi: 10.1371/journal.pone.0245800
 source: barbosa-2021-narrow-implants-one-two-piece-fea.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barbosa-2021-narrow-implants-one-two-piece-fea.pdf
 pdf_filename: barbosa-2021-narrow-implants-one-two-piece-fea.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-06-17
 doi: 10.1186/s40729-026-00695-1
 source: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr.md
 category: [implants/surface]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42310175"

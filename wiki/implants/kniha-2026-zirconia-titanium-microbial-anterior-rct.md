@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1038/s41598-026-54915-0
 source: kniha-2026-zirconia-titanium-microbial-anterior-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42230722"

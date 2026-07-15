@@ -6,7 +6,7 @@ date: 2025-10-20
 doi: 10.1186/s40729-025-00652-4
 source: bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma.md
 category: implants/peri-implantitis
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41114861"

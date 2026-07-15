@@ -6,7 +6,7 @@ date: 2021-04-15
 doi: 10.1038/s41598-021-87507-1
 source: yu-2021-extra-short-vs-longer-implants-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2021-extra-short-vs-longer-implants-ma.pdf
 pdf_filename: yu-2021-extra-short-vs-longer-implants-ma.pdf
 source_collection: external

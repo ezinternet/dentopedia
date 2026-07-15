@@ -6,7 +6,7 @@ date: 2025-02-05
 doi: 10.1038/s41432-025-01114-x
 source: da-silva-2025-gingival-phenotype-implant-survival-sr.md
 category: implants
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/da-silva-2025-gingival-phenotype-implant-survival-sr.pdf
 pdf_filename: da-silva-2025-gingival-phenotype-implant-survival-sr.pdf
 source_collection: external

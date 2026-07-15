@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.11607/jomi.11411
 source: yildirim-2026-short-implants-bibliometric-research-trends.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yildirim-2026-short-implants-bibliometric-research-trends.pdf
 pdf_filename: yildirim-2026-short-implants-bibliometric-research-trends.pdf
 source_collection: external

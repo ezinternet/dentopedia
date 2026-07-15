@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106141
 source: dai-2025-cold-atmospheric-plasma-prosthodontics.md
 category: [implants/surface/plasma]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dai-2025-cold-atmospheric-plasma-prosthodontics.pdf
 pdf_filename: dai-2025-cold-atmospheric-plasma-prosthodontics.pdf
 source_collection: external

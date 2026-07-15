@@ -6,7 +6,7 @@ date: 2023-12-23
 doi: "10.1016/j.jormas.2023.101749"
 source: yari-2023-risk-factors-early-implant-failure.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38145835"

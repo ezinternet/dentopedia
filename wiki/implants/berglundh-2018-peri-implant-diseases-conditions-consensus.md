@@ -6,7 +6,7 @@ date: 2018-03-01
 doi: 10.1111/jcpe.12957
 source: berglundh-2018-peri-implant-diseases-conditions-consensus.md
 category: [implants]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/berglundh-2018-peri-implant-diseases-conditions-consensus.pdf
 pdf_filename: berglundh-2018-peri-implant-diseases-conditions-consensus.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1111/clr.12848
 source: kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone.md
 category: [implants/vertical-ridge-augmentation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone.pdf
 pdf_filename: kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone.pdf
 source_collection: external

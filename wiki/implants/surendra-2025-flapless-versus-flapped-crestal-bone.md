@@ -6,7 +6,7 @@ date: 2025-11-19
 doi: "10.4103/jpbs.jpbs_1368_25"
 source: surendra-2025-flapless-versus-flapped-crestal-bone.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41523004"

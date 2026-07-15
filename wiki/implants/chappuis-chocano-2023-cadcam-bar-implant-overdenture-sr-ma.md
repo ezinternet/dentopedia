@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1590/1678-7757-2023-0054
 source: chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
 category: implants
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "37646715"

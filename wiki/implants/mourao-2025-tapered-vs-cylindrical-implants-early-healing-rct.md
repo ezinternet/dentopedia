@@ -6,7 +6,7 @@ date: 2025-12-27
 doi: 10.1038/s41432-025-01202-y
 source: mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct.md
 category: [implants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41455825"

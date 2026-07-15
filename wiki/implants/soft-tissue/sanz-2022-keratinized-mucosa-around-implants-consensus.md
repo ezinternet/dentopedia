@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/clr.13956
 source: sanz-2022-keratinized-mucosa-around-implants-consensus.md
 category: [implants/soft-tissue]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 pdf_filename: sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 source_collection: external

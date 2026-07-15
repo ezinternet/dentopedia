@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.1111/cid.70145
 source: kwon-2026-thread-depth-guided-immediate-implant-isq-rct.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41978331"

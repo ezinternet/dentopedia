@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.1111/cid.70158
 source: raabe-2026-crestal-bone-loss-peri-implant.md
 category: [implants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42132365"

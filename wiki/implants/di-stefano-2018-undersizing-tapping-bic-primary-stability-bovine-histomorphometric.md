@@ -6,7 +6,7 @@ date: 2018-09-01
 doi: "10.4047/jap.2018.10.3.227"
 source: di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.pdf
 pdf_filename: di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.pdf
 source_collection: external

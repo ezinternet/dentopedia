@@ -6,7 +6,7 @@ date: 2024-03-27
 doi: 10.3290/j.qi.b4656937
 source: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma.pdf
 pdf_filename: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma.pdf
 source_collection: external

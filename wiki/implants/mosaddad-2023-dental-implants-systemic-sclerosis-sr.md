@@ -6,7 +6,7 @@ date: 2023-03-01
 doi: 10.1002/iid3.812
 source: mosaddad-2023-dental-implants-systemic-sclerosis-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "36988245"

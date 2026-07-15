@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1563/aaid-joi-D-24-00157
 source: fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review.pdf
 pdf_filename: fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review.pdf
 source_collection: external

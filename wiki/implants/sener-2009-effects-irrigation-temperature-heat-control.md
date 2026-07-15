@@ -6,7 +6,7 @@ date: 2009-02-05
 doi: 10.1111/j.1600-0501.2008.01643.x
 source: sener-2009-effects-irrigation-temperature-heat-control.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sener-2009-effects-irrigation-temperature-heat-control.pdf
 pdf_filename: sener-2009-effects-irrigation-temperature-heat-control.pdf
 source_collection: external

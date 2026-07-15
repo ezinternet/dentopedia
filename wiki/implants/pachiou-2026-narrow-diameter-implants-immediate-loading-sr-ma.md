@@ -6,7 +6,7 @@ date: 2026-05-27
 doi: 10.1016/j.jdent.2026.106795
 source: pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.pdf
 pdf_filename: pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: ""
 source: kim-2026-dental-implant-osteoporosis-osteosclerosis.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-dental-implant-osteoporosis-osteosclerosis.pdf
 pdf_filename: kim-2026-dental-implant-osteoporosis-osteosclerosis.pdf
 source_collection: external

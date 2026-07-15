@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1186/s40902-020-00255-6
 journal: Maxillofacial Plastic and Reconstructive Surgery 42:10
 source: kim-2020-sa-implant-acid-etched-alumina-long-term.md
-confidence: retrospective
+evidence_level: retrospective
 category: [implants/surface]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2020-sa-implant-acid-etched-alumina-long-term.pdf
 pdf_filename: kim-2020-sa-implant-acid-etched-alumina-long-term.pdf

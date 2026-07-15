@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1111/jcpe.12334
 source: derks-2015-peri-implant-health-disease-epidemiology.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/derks-2015-peri-implant-health-disease-epidemiology.pdf
 pdf_filename: derks-2015-peri-implant-health-disease-epidemiology.pdf
 source_collection: external

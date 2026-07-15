@@ -6,7 +6,7 @@ date: 2025-07-31
 doi: "10.7759/cureus.89103"
 source: alenezi-2025-short-long-implants-sinus-floor-elevation.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alenezi-2025-short-long-implants-sinus-floor-elevation.pdf
 pdf_filename: alenezi-2025-short-long-implants-sinus-floor-elevation.pdf
 source_collection: external

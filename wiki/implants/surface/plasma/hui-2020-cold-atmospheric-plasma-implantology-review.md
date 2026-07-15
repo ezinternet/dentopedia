@@ -6,7 +6,7 @@ date: 2020-08-01
 doi: 10.3390/nano10081505
 source: hui-2020-cold-atmospheric-plasma-implantology-review.md
 category: [implants/surface/plasma]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hui-2020-cold-atmospheric-plasma-implantology-review.pdf
 pdf_filename: hui-2020-cold-atmospheric-plasma-implantology-review.pdf
 source_collection: external

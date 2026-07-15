@@ -6,7 +6,7 @@ date: 2017-01-26
 doi: 10.11607/jomi.4817
 source: huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.pdf
 pdf_filename: huwais-2017-novel-osseous-densification-osteotomy-primary-stability.pdf
 source_collection: external

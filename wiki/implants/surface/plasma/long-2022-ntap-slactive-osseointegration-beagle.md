@@ -6,7 +6,7 @@ date: 2022-10-26
 doi: 10.3389/fbioe.2022.965248
 source: long-2022-ntap-slactive-osseointegration-beagle.md
 category: [implants/surface/plasma]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/long-2022-ntap-slactive-osseointegration-beagle.pdf
 pdf_filename: long-2022-ntap-slactive-osseointegration-beagle.pdf
 source_collection: external

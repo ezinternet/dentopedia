@@ -6,7 +6,7 @@ date: 2026-05-28
 doi: (manufacturer document)
 source: versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.md
 category: [implants/versah-protocols]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.pdf
 pdf_filename: versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum.pdf
 source_collection: external

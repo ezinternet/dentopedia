@@ -6,7 +6,7 @@ date: 2022-01-13
 doi: 10.1016/j.jormas.2022.01.005
 source: esimekara-2022-dental-implants-autoimmune-diseases-sr.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/esimekara-2022-dental-implants-autoimmune-diseases-sr.pdf
 pdf_filename: esimekara-2022-dental-implants-autoimmune-diseases-sr.pdf
 source_collection: external

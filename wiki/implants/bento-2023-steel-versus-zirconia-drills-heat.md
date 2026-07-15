@@ -6,7 +6,7 @@ date: 2023-09-07
 doi: 10.1016/j.sdentj.2023.09.001
 source: bento-2023-steel-versus-zirconia-drills-heat.md
 category: [implants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bento-2023-steel-versus-zirconia-drills-heat.pdf
 pdf_filename: bento-2023-steel-versus-zirconia-drills-heat.pdf
 source_collection: external

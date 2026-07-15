@@ -6,7 +6,7 @@ date: 2019-08-21
 doi: 10.1002/cre2.234
 source: solderer-2019-removal-failed-dental-implants-revisited.md
 category: [implants]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "31890309"

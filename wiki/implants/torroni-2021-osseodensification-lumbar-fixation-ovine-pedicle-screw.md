@@ -6,7 +6,7 @@ date: 2021-07-01
 doi: 10.1002/jor.24707
 source: torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.pdf
 pdf_filename: torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.pdf
 source_collection: external

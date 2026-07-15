@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/jerd.12865
 source: le-2022-aesthetic-contour-graft-peri-implant.md
 category: [implants/soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/le-2022-aesthetic-contour-graft-peri-implant.pdf
 pdf_filename: le-2022-aesthetic-contour-graft-peri-implant.pdf
 source_collection: external

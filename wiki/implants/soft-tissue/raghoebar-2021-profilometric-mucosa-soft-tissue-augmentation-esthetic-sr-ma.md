@@ -6,7 +6,7 @@ date: 2021-10-12
 doi: 10.1111/clr.13759
 source: raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma.md
 category: [implants/soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma.pdf
 pdf_filename: raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma.pdf
 source_collection: external

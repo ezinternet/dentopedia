@@ -6,7 +6,7 @@ date: 2010-11-13
 doi: 10.1016/j.sdentj.2010.09.003
 source: al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.md
 category: [implants/isq]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.pdf
 pdf_filename: al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.pdf
 source_collection: external

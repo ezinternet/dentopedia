@@ -6,7 +6,7 @@ date: 2026-08-01
 doi: 10.1016/j.bioadv.2026.214884
 source: sun-2026-low-temperature-plasma-titanium-implants-review.md
 category: [implants/surface]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sun-2026-low-temperature-plasma-titanium-implants-review.pdf
 pdf_filename: sun-2026-low-temperature-plasma-titanium-implants-review.pdf
 source_collection: external

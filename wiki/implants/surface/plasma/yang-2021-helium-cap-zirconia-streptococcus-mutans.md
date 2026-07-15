@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1016/j.msec.2020.111633
 source: yang-2021-helium-cap-zirconia-streptococcus-mutans.md
 category: [implants/surface/plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2021-helium-cap-zirconia-streptococcus-mutans.pdf
 pdf_filename: yang-2021-helium-cap-zirconia-streptococcus-mutans.pdf
 source_collection: external

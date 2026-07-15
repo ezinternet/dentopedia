@@ -6,7 +6,7 @@ date: 2026-03-18
 doi: 10.3390/diagnostics16060901
 source: dambrosio-2026-clinical-risk-medico-legal-implications.md
 category: [implants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/dambrosio-2026-clinical-risk-medico-legal-implications.pdf
 pdf_filename: dambrosio-2026-clinical-risk-medico-legal-implications.pdf
 source_collection: external

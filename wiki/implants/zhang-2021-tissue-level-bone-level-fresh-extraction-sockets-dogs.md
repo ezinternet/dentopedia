@@ -6,7 +6,7 @@ date: 2021-02-01
 doi: 10.21037/atm-20-8074
 source: zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs.md
 category: [implants]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs.pdf
 pdf_filename: zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs.pdf
 source_collection: external
