@@ -6,7 +6,7 @@ date: 2016-04-01
 doi: "10.3290/j.qi.a35625"
 source: kanzow-2016-etiology-pathogenesis-dental-erosion.md
 category: [dental-erosion]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kanzow-2016-etiology-pathogenesis-dental-erosion.pdf
 pdf_filename: kanzow-2016-etiology-pathogenesis-dental-erosion.pdf
 source_collection: external

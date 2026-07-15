@@ -6,7 +6,7 @@ date: 2015-06-01
 doi: "10.1159/000433435"
 source: barac-2015-erosive-effect-soft-drinks-enamel-profilometry.md
 category: [dental-erosion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/barac-2015-erosive-effect-soft-drinks-enamel-profilometry.pdf
 pdf_filename: barac-2015-erosive-effect-soft-drinks-enamel-profilometry.pdf
 source_collection: external

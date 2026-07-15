@@ -6,7 +6,7 @@ date: 2026-03-03
 doi: 10.1016/j.jdent.2026.106608
 source: gomez-2026-anti-erosive-dentifrices-umbrella-review.md
 category: [dental-erosion]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41786236"
