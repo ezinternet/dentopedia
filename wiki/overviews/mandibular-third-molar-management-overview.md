@@ -97,6 +97,11 @@ The four papers sit at mixed evidence levels: Ye 2021 is a single-center **retro
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-surgery/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — Umbrella + network MA (19 SRs): ozone best early pain (SMD −0.84), PRF best late pain (SMD −1.03), LLLT weakest early (SMD −0.32) — PRF/ozone rank highest but unclear bias, need RCTs
+
 - [[oral-surgery/ye-2021-mandibular-third-molar-impaction-pathologies]] — Retrospective (432 M3Ms): quantifies the impaction pathology burden (pericoronitis 82.4%, M2M distal caries 18.8%, periodontal pathology 14.8%) and shows impaction morphology predicts which pathology occurs — the empirical basis for risk-stratified indication.
 - [[oral-surgery/sun-2026-third-molar-health-management-expert-consensus]] — Expert consensus: the 3-tier extraction-indication framework (definite pathologic / therapeutic / prophylactic) with shared decision-making and surveillance for low-risk asymptomatic teeth; also recommends CGF for sockets with distal bone deficiency.
 - [[oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Review + SR: pericoronitis management ladder (local irrigation/debridement first → operculectomy → extraction from 2nd episode), with antibiotics reserved for spread/systemic signs despite ~75% of dentists over-prescribing.
