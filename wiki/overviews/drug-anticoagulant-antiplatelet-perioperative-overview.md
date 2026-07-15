@@ -243,6 +243,11 @@ NSAID↔아스피린 상호작용: 이부프로펜(Ibuprofen)은 아스피린 �
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[drug/anticoagulants/yong-2022-dapt-dental-extraction-umbrella-review]] — Umbrella review (4 SRs, abstract-only): DAPT raises bleeding risk but local haemostatic measures controlled it adequately (no clinically significant difference) — do not interrupt DAPT for extractions
+
 ### 신규 추가 (2026-06)
 
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — SR+MA (29편, n=29,212): 비중단 DOAC vs VKA 출혈 RR 0.79, dabigatran 특이적(RR 0.40); 둘 다 비복용군 대비 ~3배. (sr+ma, 2025) — quantifies DOAC-vs-VKA effect size for §1·§2-2·§8.
