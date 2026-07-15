@@ -236,6 +236,8 @@ Before copying anything, run two checks. Skipping these is how the wiki accumula
    grep -rl "10.xxxx/the-doi" sources/    # 결과 있으면 중복 → 기존 페이지 갱신, 신규 ingest 금지
    ```
 
+   **No-DOI fallback.** Some papers print no DOI (older regional journals — e.g. *J Dent Tehran* 2013 — or PubMed records with no `doi` identifier). When there is no DOI, set the frontmatter `doi:` to `null` (or `n/a (Journal Year;Vol(Iss):pp; PMID xxxxx)` per the `vetromilla-2021`/`merli-2018` precedent) and run the Step-0 dedup by **title + first-author grep** over `sources/` instead of DOI grep. Log with `python3 scripts/log-deviation.py <stem> no-doi "..."`.
+
 2. **Retraction check.** Do NOT ingest a retracted article, retraction notice, erratum-only page, or a bare PubMed/publisher listing page as a knowledge page — it propagates discredited claims and violates the living-document/critical-appraisal principle. If a retracted paper must be recorded, make a single explicit "RETRACTED — do not cite" stub, never a normal wiki page. Delete retraction/erratum notice PDFs (they are not ingestable papers).
 
 ### Step 1 — Copy PDF to `papers/` and extract text
@@ -274,6 +276,16 @@ text_filename: {stem}.txt
 
 - `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. confidence는 study type 그대로.
 - dedup(Step 0)은 DOI/PMCID grep 그대로. 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
+
+### Step 1-A — Abstract-only PDF 분기 (페이월 랜딩/초록 저장본)
+
+가끔 받은 PDF가 전문이 아니라 **출판사 랜딩/초록 저장 페이지**(paywall, 흔히 1–2쪽, 본문 없음)다 — Step 1-T의 PMC-빈본문과 결과는 같지만 **아티팩트가 PDF**라 `source_collection: pubmed-text`를 쓸 수 없다. 이때:
+
+- `source_collection: external` 유지(아티팩트는 PDF), `pdf_path`/`pdf_filename` 정상 기재.
+- **frontmatter에 `full_text: false` 필드를 추가**하고, 본문 맨 위(Three-line Summary 위)에 `abstract-only — publisher landing/abstract page, full text not retrieved` 한 줄 명시. (초록만으로 Summary·Results 채움, confidence는 study type 그대로.)
+  - 과거엔 이걸 frontmatter flag 없이 본문 caveat로만 처리해 일관성이 없었다(de-elio-2023 vs quesada-garcia-2012). 앞으로는 **frontmatter `full_text: false` + 본문 한 줄** 둘 다 박는다.
+- DOI 없으면 위 Step 0 no-DOI fallback 병행.
+- 로그: `python3 scripts/log-deviation.py <stem> abstract-only "publisher landing page, built from abstract"` (PMC 빈본문은 `empty-pmc-text`로 구분).
 
 ### Step 2 — Write `sources/{stem}.md`
 
