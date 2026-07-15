@@ -292,6 +292,8 @@ tags: []
 - [[implants/sener-2009-effects-irrigation-temperature-heat-control]] — 소 하악골 in vitro(COIR 2009, 3/7/12mm 깊이): 10°C saline이 25°C보다 냉각 효과 우수, 얕은 부위(entrance)가 발열 최대
 - [[implants/kosior-2025-comparative-analysis-histological-characteristics]] — in vitro 조직학(J Clin Med 2025, 드릴 3사 비교, n=54): 4°C 식염수 냉각이 모든 시스템에서 최고 골와동 품질(Hiossen 1200rpm/4°C=15.3/16), 무냉각+고속 최악(5.5/16)
 - [[implants/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — 염소 하악골 열화상 연구(in vitro): 관주액 온도(5°C vs 25°C)만 골 발열에 유의(p=0.003), 진료실 실온·드릴직경·깊이는 무효과
+- [[implants/gehrke-2020-technique-drill-design-osteotomy]] — in vivo 토끼(n=48, Sci Rep 2020): 원통형 드릴에서만 간헐(peck) 동작이 발열 유의 감소(ΔT −2.6°C, p=0.001, −37%); 원추형은 기법 무관(p=0.977); peck 간격 0→3mm/5mm/8mm 명시
+- [[implants/di-fiore-2018-continuous-intermittent-drilling-temperature]] — in vitro 소 늑골(n=80, JOI 2018): 연속 vs 간헐 기법 간 온도 차 비유의(p=0.45); 냉각 관주(6°C)만 유의(p=0.0001) — 관주 온도가 기법 선택보다 우선
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
