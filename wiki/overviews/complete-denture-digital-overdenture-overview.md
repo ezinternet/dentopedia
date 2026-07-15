@@ -28,6 +28,9 @@ source_wiki:
   - wiki/complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic.md
   - wiki/complete-denture/tayari-2024-implant-supported-overdenture-failures-sr.md
   - wiki/complete-denture/taylor-2021-longevity-complete-dentures-sr-ma.md
+  - wiki/complete-denture/milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review.md
+  - wiki/complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted.md
+  - wiki/complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures.md
   - wiki/complete-denture/thu-2024-digital-complete-denture-clinical-laboratory.md
   - wiki/implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
   - wiki/implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
@@ -465,6 +468,14 @@ Patient priority:
 ---
 
 ## Related Papers
+
+### 신규 ingest cluster — 임플란트 피개의치 implant number·occlusal scheme·OHRQoL (2026-07-15, 3편)
+
+세 편은 "임플란트 추가 자체가 큰 도약, 그 이후 설계(임플란트 개수·splinting)는 하드 아웃컴 차이 작음" 원칙을 강화한다:
+
+- [[complete-denture/milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review]] — Umbrella (7 SR, AMSTAR-2 none high): 단일 임플란트 피개의치(SIMO)가 표준 2-임플란트(TIMO)와 comparable — 한 SR은 SIMO가 실패·MBL 모두 우세, 다른 SR은 TIMO가 1·5년 임플란트 실패·O-ring 교체 더 많음. 단일 임플란트는 더 단순한 viable 대안이나 근거질 low. (sr, 2025)
+- [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — 3-arm RCT (n=36, T-Scan): 두 임플란트군이 통상의치 대비 교합/이개 시간 유의 단축(OT CD 0.52 vs IB 0.35 vs IW 0.29s, group p<0.001, η²=0.79); **splinting(용접바 IW) vs 비splint(볼 IB)는 무차이**(OT p=0.06) → attachment는 단순성·유지관리·비용으로 결정. (rct, 2026)
+- [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella (8 SR, JBI): 임플란트 유지 피개의치(IROD)가 통상의치(CCD)보다 OHRQoL·만족도 우세, 특히 임플란트 원하거나 통상의치 적응 불가 환자서 뚜렷. (sr, 2019)
 
 - [[complete-denture/taylor-2021-longevity-complete-dentures-sr-ma]] — conventional complete denture longevity baseline (10.1 yr)
 - [[complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]] — comprehensive CAD/CAM SR+MA (73 studies); mechanical and clinical outcomes
