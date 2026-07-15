@@ -109,6 +109,11 @@ The drilling-heat literature is usually presented as a flat catalogue — drill 
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[implants/kosior-2025-comparative-analysis-histological-characteristics]] — In vitro histology (54 osteotomies, swine rib): 4°C saline highest bone-bed quality (15.3/16) vs no-cooling worst (5.5/16 at 1500rpm) — cool (4°C) irrigant is the dominant variable minimizing thermal bone damage
+
 - [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — five-technique histological comparison; drilling can match laser/piezo/OD when speed, cooling, and load are optimized (protocol > technique).
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill-material SR; material effect inconclusive, consistent with wear/design outranking material here.
 - [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — zirconia-vs-steel drill SR+MA; specific material-pair signal within the design/wear frame.
