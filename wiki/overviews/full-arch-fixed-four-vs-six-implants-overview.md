@@ -113,6 +113,11 @@ The axes are not contradictory once framed correctly: **equivalent clinical surv
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[implants/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective cohort (28 pts/164 implants, ~6.5y): all-on-6 survival 99.0% vs all-on-4 89.7%, fewer biological complications (1.0% vs 10.3%, p=0.014) — 6-implant configuration better tolerates loss
+
 **Clinical axis:**
 - [[prosthetic-materials/toia-2021-fixed-full-arch-maxillary-prostheses]] — 3-yr RCT; 4-I non-inferior MBL, prosthetic complications 47.2%
 - [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-yr RCT; 4-I non-inferior, more technical complications, lower cost
