@@ -195,6 +195,8 @@ tags: []
 - [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] — Narrative review: 17 ISQ-influencing factors; 6 clinically predictive; 2 well-documented (local bone quality, macro-design); ISQ must be interpreted with bone type context
 - [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] — SR(12편): ISQ-삽입토크 유의한 상관관계 없음(r=0.366, p=0.079); 두 지표는 독립적·비교 불가; 근거 낮음
 - [[implants/isq/faot-2019-insertion-torque-mandibular-overdenture]] — 전향적(세경 임플란트 62개, 4개 IT 구간): G4 ≥45 Ncm 생존율 95% 최고, G3 30–45 Ncm 64.3% 최저(G3 역설); MBL은 군간 차이 없음
+- [[implants/isq/lemos-2020-high-insertion-torque-dental-implants-sr-ma]] — SR+MA(6편, 651개): IT ≥50 Ncm vs <50 Ncm — 생존율(RR 0.51, P=.52)·MBL(MD 0.15mm, P=.30) 유의차 없음; 즉시하중 하위군에서 저토크 실패율 4.2% vs 고토크 1.1%
+- [[implants/isq/marconcini-2018-high-insertion-torque-bone-resorption-rct]] — RCT(116개, 3년): IT ≥50 Ncm → 유의한 MBL↑·협측 점막 퇴축↑, 하악에서 두드러짐; BBT ≥1 mm 보호 인자; CSR 91.3% vs 98.2%
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — SR+MA(48편): ISQ-IT 중등도 상관(r=0.44, p<0.001) but I²>90%; ISQ는 MBL·생존율 독립예측인자로 근거 불충분
 - [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]] — 후향적(n=200, UCLA): 구강 내 위치(하악>상악) ISQ 가장 유의; 길이 임상 유관 경향(p≈0.08); 직경 NS
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR(Cureus 2023): 골밀도화 드릴링이 다수 연구에서 ISQ·골밀도 높음; 단 RCT 비뚤림위험 높아 해석 주의
