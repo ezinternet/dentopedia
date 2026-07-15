@@ -6,7 +6,7 @@ date: 2024-01-29
 doi: 10.1007/s00784-024-05513-9
 source: pereira-2024-condylar-mandibular-movements-mad-osa-cbct.md
 category: [tmj]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/pereira-2024-condylar-mandibular-movements-mad-osa-cbct.pdf
 pdf_filename: pereira-2024-condylar-mandibular-movements-mad-osa-cbct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-09-10
 doi: 10.3390/ijerph18189552
 source: nowak-2021-intramuscular-injections-dry-needling-masticatory-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/nowak-2021-intramuscular-injections-dry-needling-masticatory-sr.pdf
 pdf_filename: nowak-2021-intramuscular-injections-dry-needling-masticatory-sr.pdf
 source_collection: external

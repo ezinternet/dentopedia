@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.1111/joor.13780
 source: zhu-2024-exercise-therapy-tmj-derangement-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhu-2024-exercise-therapy-tmj-derangement-sr.pdf
 pdf_filename: zhu-2024-exercise-therapy-tmj-derangement-sr.pdf
 source_collection: external

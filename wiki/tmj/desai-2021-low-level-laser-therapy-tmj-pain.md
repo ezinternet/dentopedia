@@ -6,7 +6,7 @@ date: 2021-05-25
 doi: 10.1007/s12663-021-01591-4
 source: desai-2021-low-level-laser-therapy-tmj-pain.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "36274894"

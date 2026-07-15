@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1007/s00784-020-03710-w
 source: valesan-2021-tmd-prevalence-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/valesan-2021-tmd-prevalence-sr-ma.pdf
 pdf_filename: valesan-2021-tmd-prevalence-sr-ma.pdf
 source_collection: external

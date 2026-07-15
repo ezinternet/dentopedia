@@ -6,7 +6,7 @@ date: 2024-06-04
 doi: 10.1080/10255842.2024.2361778
 source: zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea.md
 category: [tmj]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea.pdf
 pdf_filename: zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-06-26
 doi: 10.1016/j.aanat.2021.151793
 source: santana-mora-2021-asymmetry-chewing-chronic-tmd.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/santana-mora-2021-asymmetry-chewing-chronic-tmd.pdf
 pdf_filename: santana-mora-2021-asymmetry-chewing-chronic-tmd.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-11-23
 doi: 10.3390/diagnostics12122914
 source: chan-2022-myogenous-tmd-diagnosis-treatment-review.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chan-2022-myogenous-tmd-diagnosis-treatment-review.pdf
 pdf_filename: chan-2022-myogenous-tmd-diagnosis-treatment-review.pdf
 source_collection: external

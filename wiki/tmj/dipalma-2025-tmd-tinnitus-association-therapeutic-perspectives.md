@@ -6,7 +6,7 @@ date: 2025-01-29
 doi: 10.3390/jcm14030881
 source: dipalma-2025-tmd-tinnitus-association-therapeutic-perspectives.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39941552"

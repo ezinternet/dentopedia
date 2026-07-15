@@ -7,7 +7,7 @@ doi: ""
 journal: "대한치과의사협회지 (J Korean Dent Assoc) 50(5)"
 source: kim-2012-diagnosis-treatment-temporomandibular-disorder.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2012-diagnosis-treatment-temporomandibular-disorder.pdf
 pdf_filename: kim-2012-diagnosis-treatment-temporomandibular-disorder.pdf
 source_collection: external

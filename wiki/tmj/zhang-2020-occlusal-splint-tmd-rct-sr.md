@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1080/00016357.2020.1759818
 source: zhang-2020-occlusal-splint-tmd-rct-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2020-occlusal-splint-tmd-rct-sr.pdf
 pdf_filename: zhang-2020-occlusal-splint-tmd-rct-sr.pdf
 source_collection: external

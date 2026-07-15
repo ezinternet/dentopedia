@@ -8,7 +8,7 @@ pmid: ""
 pmcid: PMC13106724
 source: emshoff-2026-subchondral-bone-splint-tmd-arthralgia-cbct.md
 category: [tmj]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/emshoff-2026-subchondral-bone-splint-tmd-arthralgia-cbct.txt

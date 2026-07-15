@@ -11,7 +11,7 @@ source: nemani-2024-tmj-pain-treatment-modalities-cervical.md
 text_path: /Users/oracleneo/llm-wiki/papers/nemani-2024-tmj-pain-treatment-modalities-cervical.txt
 text_filename: nemani-2024-tmj-pain-treatment-modalities-cervical.txt
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 tags: []

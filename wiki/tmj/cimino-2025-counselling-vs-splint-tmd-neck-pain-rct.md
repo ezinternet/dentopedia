@@ -7,7 +7,7 @@ doi: 10.1111/joor.70040
 pmcid: PMC12624201
 source: cimino-2025-counselling-vs-splint-tmd-neck-pain-rct.md
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/cimino-2025-counselling-vs-splint-tmd-neck-pain-rct.txt

@@ -6,7 +6,7 @@ date: 2026-04-18
 doi: 10.1016/j.jdsr.2026.04.001
 source: valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42016156"

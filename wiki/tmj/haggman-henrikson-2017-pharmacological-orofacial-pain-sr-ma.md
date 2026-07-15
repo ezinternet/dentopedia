@@ -6,7 +6,7 @@ date: 2017-10-01
 doi: 10.1111/joor.12539
 source: haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma.pdf
 pdf_filename: haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma.pdf
 source_collection: external

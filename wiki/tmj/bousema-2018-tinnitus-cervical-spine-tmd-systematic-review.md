@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1177/2331216518800640
 source: bousema-2018-tinnitus-cervical-spine-tmd-systematic-review.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "30269683"

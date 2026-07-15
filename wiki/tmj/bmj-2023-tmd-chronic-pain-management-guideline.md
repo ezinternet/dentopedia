@@ -6,7 +6,7 @@ date: 2023-12-15
 doi: 10.1136/bmj-2023-076227
 source: bmj-2023-tmd-chronic-pain-management-guideline.md
 category: [tmj]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/bmj-2023-tmd-chronic-pain-management-guideline.pdf
 pdf_filename: bmj-2023-tmd-chronic-pain-management-guideline.pdf
 source_collection: external

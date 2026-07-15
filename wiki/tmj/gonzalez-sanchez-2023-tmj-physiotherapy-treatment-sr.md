@@ -6,7 +6,7 @@ date: 2023-06-20
 doi: 10.3390/jcm12124156
 source: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr.pdf
 pdf_filename: gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr.pdf
 source_collection: external

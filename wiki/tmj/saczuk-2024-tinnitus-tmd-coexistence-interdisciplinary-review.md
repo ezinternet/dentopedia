@@ -6,7 +6,7 @@ date: 2024-12-02
 doi: 10.3390/jcm13237346
 source: saczuk-2024-tinnitus-tmd-coexistence-interdisciplinary-review.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39685804"

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1111/ocr.12575
 source: decarli-2023-mandibular-condyle-unilateral-masticatory-function.md
 category: [tmj]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/decarli-2023-mandibular-condyle-unilateral-masticatory-function.pdf
 pdf_filename: decarli-2023-mandibular-condyle-unilateral-masticatory-function.pdf
 source_collection: external

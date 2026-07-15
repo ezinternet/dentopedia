@@ -11,7 +11,7 @@ source: salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct.md
 text_path: /Users/oracleneo/llm-wiki/papers/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct.txt
 text_filename: salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct.txt
 category: [tmj]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 tags: []

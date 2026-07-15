@@ -6,7 +6,7 @@ date: 2024-03-22
 doi: 10.7759/cureus.56713
 source: alowaimer-2024-noninvasive-therapies-tmj-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alowaimer-2024-noninvasive-therapies-tmj-sr.pdf
 pdf_filename: alowaimer-2024-noninvasive-therapies-tmj-sr.pdf
 source_collection: external

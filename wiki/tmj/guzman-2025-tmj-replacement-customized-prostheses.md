@@ -6,7 +6,7 @@ date: 2025-12-31
 doi: 10.5125/jkaoms.2025.51.6.397
 source: guzman-2025-tmj-replacement-customized-prostheses.md
 category: [tmj]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "41466547"

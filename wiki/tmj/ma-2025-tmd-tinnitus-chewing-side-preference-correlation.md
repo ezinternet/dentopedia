@@ -6,7 +6,7 @@ date: 2025-06-01
 doi: 10.7518/hxkq.2025.2024370
 source: ma-2025-tmd-tinnitus-chewing-side-preference-correlation.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ma-2025-tmd-tinnitus-chewing-side-preference-correlation.pdf
 pdf_filename: ma-2025-tmd-tinnitus-chewing-side-preference-correlation.pdf
 source_collection: external

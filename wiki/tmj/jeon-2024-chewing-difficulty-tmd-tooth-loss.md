@@ -6,7 +6,7 @@ date: 2024-07-06
 doi: 10.1016/j.jds.2024.07.001
 source: jeon-2024-chewing-difficulty-tmd-tooth-loss.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "39873035"

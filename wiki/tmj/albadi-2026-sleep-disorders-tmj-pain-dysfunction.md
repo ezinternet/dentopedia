@@ -6,7 +6,7 @@ date: 2026-01-22
 doi: 10.4103/jpbs.jpbs_1573_25
 source: albadi-2026-sleep-disorders-tmj-pain-dysfunction.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41852968"

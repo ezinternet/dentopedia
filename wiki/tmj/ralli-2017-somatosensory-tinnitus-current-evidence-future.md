@@ -6,7 +6,7 @@ date: 2017-05-28
 doi: 10.1177/0300060517707673
 source: ralli-2017-somatosensory-tinnitus-current-evidence-future.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "28553764"

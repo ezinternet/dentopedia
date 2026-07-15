@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1186/s12903-024-05187-5
 source: zhang-2024-tmj-morphology-ipilffdp-cbct.md
 category: [tmj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2024-tmj-morphology-ipilffdp-cbct.pdf
 pdf_filename: zhang-2024-tmj-morphology-ipilffdp-cbct.pdf
 source_collection: external

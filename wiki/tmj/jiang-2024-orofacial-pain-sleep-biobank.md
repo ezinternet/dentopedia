@@ -6,7 +6,7 @@ date: 2024-05-06
 doi: 10.1016/j.jds.2024.04.027
 source: jiang-2024-orofacial-pain-sleep-biobank.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "39873079"

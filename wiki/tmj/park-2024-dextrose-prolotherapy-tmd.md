@@ -6,7 +6,7 @@ date: 2024-10-31
 doi: 10.5125/jkaoms.2024.50.5.259
 source: park-2024-dextrose-prolotherapy-tmd.md
 category: [tmj]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39482101"

@@ -6,7 +6,7 @@ date: 2019-07-17
 doi: 10.1016/j.prosdent.2019.05.032
 source: koole-2019-spray-stretch-technique-mouth-opening.md
 category: [tmj]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "31326152"

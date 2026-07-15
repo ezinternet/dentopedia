@@ -6,7 +6,7 @@ date: 2021-06-01
 doi: 10.21037/apm-21-451
 source: zhang-2021-exercise-vs-splint-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2021-exercise-vs-splint-tmd-sr-ma.pdf
 pdf_filename: zhang-2021-exercise-vs-splint-tmd-sr-ma.pdf
 source_collection: external

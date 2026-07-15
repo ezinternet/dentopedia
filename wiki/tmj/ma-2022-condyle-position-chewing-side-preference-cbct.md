@@ -6,7 +6,7 @@ date: 2022-02-01
 doi: 10.1111/joor.13293
 source: ma-2022-condyle-position-chewing-side-preference-cbct.md
 category: [tmj]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ma-2022-condyle-position-chewing-side-preference-cbct.pdf
 pdf_filename: ma-2022-condyle-position-chewing-side-preference-cbct.pdf
 source_collection: external

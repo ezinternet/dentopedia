@@ -6,7 +6,7 @@ date: 2021-03-31
 doi: 10.1186/s12955-021-01727-7
 source: pigozzi-2021-quality-of-life-tmd-sr-ma.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pigozzi-2021-quality-of-life-tmd-sr-ma.pdf
 pdf_filename: pigozzi-2021-quality-of-life-tmd-sr-ma.pdf
 source_collection: external

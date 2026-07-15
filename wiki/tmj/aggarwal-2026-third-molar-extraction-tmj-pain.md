@@ -6,7 +6,7 @@ date: 2026-02-28
 doi: 10.5125/jkaoms.2026.52.1.3
 source: aggarwal-2026-third-molar-extraction-tmj-pain.md
 category: [tmj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41755378"

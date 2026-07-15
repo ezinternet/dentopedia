@@ -6,7 +6,7 @@ date: 2020-04-01
 doi: 10.11607/ofph.2530
 source: demelo-2020-manual-therapy-myofascial-pain-tmd-sr.md
 category: [tmj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/demelo-2020-manual-therapy-myofascial-pain-tmd-sr.pdf
 pdf_filename: demelo-2020-manual-therapy-myofascial-pain-tmd-sr.pdf
 source_collection: external

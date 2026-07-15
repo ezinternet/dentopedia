@@ -6,7 +6,7 @@ date: 2014-07-01
 doi: 10.4103/0975-5950.154810
 source: pal-2014-trends-management-myofascial-pain.md
 category: [tmj]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "25937719"
