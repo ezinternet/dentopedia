@@ -6,7 +6,7 @@ date: 2011-04-01
 doi: 10.14219/jada.archive.2011.0194
 source: nelson-2011-text-vs-voice-reminder-pediatric-dental-rct.md
 category: [practice-management]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "21454845"

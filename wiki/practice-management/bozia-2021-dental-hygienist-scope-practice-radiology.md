@@ -6,7 +6,7 @@ date: 2021-07-06
 doi: 10.1016/j.identj.2021.05.010
 source: bozia-2021-dental-hygienist-scope-practice-radiology.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "34243959"

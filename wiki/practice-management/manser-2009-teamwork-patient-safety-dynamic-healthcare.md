@@ -6,7 +6,7 @@ date: 2009-02-01
 doi: 10.1111/j.1399-6576.2008.01717.x
 source: manser-2009-teamwork-patient-safety-dynamic-healthcare.md
 category: [practice-management]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "19032571"

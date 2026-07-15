@@ -6,7 +6,7 @@ date: 2020-01-08
 doi: 10.1186/s12960-019-0411-3
 source: buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.md
 category: [practice-management]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "31915007"

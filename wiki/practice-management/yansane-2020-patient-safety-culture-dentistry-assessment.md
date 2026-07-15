@@ -6,7 +6,7 @@ date: 2020-01-10
 doi: 10.1177/2380084419897614
 source: yansane-2020-patient-safety-culture-dentistry-assessment.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 pmid: "31923373"

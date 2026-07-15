@@ -6,7 +6,7 @@ date: 2021-03-01
 doi: 10.1177/2050168420980990
 source: bailey-2021-patient-safety-culture-primary-dental-care.md
 category: [practice-management]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "33722142"

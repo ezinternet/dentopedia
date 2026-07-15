@@ -6,7 +6,7 @@ date: 2026-07-11
 doi: ""
 source: ""
 category: [practice-management]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [team-management, feedback, johari-window, hr, sop]
 ---

@@ -6,7 +6,7 @@ date: 2022-01-24
 doi: 10.1111/cdoe.12730
 source: ono-2022-cost-sharing-childhood-dental-utilization-japan.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "35072286"

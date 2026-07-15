@@ -8,7 +8,7 @@ pmid: "38661760"
 pmcid: "PMC12594213"
 source: garcia-2023-teledentistry-acceptability-latino-rural-virginia.md
 category: [practice-management]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12594213/

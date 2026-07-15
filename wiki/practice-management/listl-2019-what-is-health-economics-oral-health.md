@@ -6,7 +6,7 @@ date: 2019-11-28
 doi: "10.1922/CDH_4581Listl13"
 source: listl-2019-what-is-health-economics-oral-health.md
 category: [practice-management]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "31664797"

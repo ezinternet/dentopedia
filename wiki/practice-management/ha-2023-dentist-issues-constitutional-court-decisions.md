@@ -6,7 +6,7 @@ date: 2023-10-01
 doi: 10.22974/jkda.2023.61.10.001
 source: ha-2023-dentist-issues-constitutional-court-decisions.md
 category: [practice-management]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ha-2023-dentist-issues-constitutional-court-decisions.pdf
 pdf_filename: ha-2023-dentist-issues-constitutional-court-decisions.pdf
 source_collection: external

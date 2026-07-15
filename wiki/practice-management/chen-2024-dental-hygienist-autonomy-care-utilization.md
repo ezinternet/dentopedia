@@ -6,7 +6,7 @@ date: 2024-03-27
 doi: 10.1002/hec.4832
 source: chen-2024-dental-hygienist-autonomy-care-utilization.md
 category: [practice-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38536894"

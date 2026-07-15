@@ -6,7 +6,7 @@ date: 2024-04-19
 doi: 10.3390/ijerph21040407
 source: scheerman-2024-systematic-umbrella-review-effects-teledentistry.md
 category: [practice-management]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38673320"

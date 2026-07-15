@@ -6,7 +6,7 @@ date: 2012-02-01
 doi: 10.1111/j.1875-595X.2011.00081.x
 source: prasad-2012-sms-reminder-dental-attendance-rct.md
 category: [practice-management]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "22251033"

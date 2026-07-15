@@ -6,7 +6,7 @@ date: 2018-08-23
 doi: 10.1136/bmjopen-2018-022202
 source: muller-2018-sbar-handoff-communication-patient-safety-sr.md
 category: [practice-management]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "30139905"
