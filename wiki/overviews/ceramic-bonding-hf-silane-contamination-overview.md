@@ -239,6 +239,11 @@ All nine studies in this overview address **silica-based ceramics** (feldspathic
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]] — Umbrella review (8 SRs, 233 studies, 6/8 low ROBIS): airborne-particle abrasion (APA) + 10-MDP primer the most validated zirconia bonding protocol; NAC/laser immature — APA+10-MDP is the standard
+
 - [[resin-bonding/venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond]] — HF concentration (1–10%) and long-term bond durability to feldspathic ceramic; minimum 3% threshold
 - [[resin-bonding/leyva-del-rio-2021-heated-hf-feldspathic-lithium-disilicate-bond]] — heated HF (70°C) benefit selective to lithium disilicate only
 - [[resin-bonding/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength]] — NMR proof that most universal adhesives contain degraded silane; prehydrolyzed silane is chemically superior
