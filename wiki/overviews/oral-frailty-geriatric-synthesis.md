@@ -98,3 +98,10 @@ geriatric-dentistry 5편 종합: 구강노쇠는 11지표·4영역(구강상태�
 - 결과 OR = [확인]
 - 구강건조-영양 = [확인](I² 높음)
 - 불소 개입 = [확인]
+
+## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[geriatric-dentistry/silva-2026-oral-health-alzheimers-disease-life-course]] — Narrative review (27 studies): Alzheimer's patients show periodontitis, root-caries 'third peak', xerostomia, >2× denture stomatitis — 'syndemic' framing; stage-adapted care (conventional→ART→palliative SDF) + caregiver training
+
