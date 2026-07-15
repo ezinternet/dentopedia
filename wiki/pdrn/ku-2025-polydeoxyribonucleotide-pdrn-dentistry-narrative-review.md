@@ -6,7 +6,7 @@ date: 2026-01-17
 doi: 10.1007/s13770-025-00776-z
 source: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review.md
 category: [pdrn]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review.pdf
 pdf_filename: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review.pdf
 source_collection: external

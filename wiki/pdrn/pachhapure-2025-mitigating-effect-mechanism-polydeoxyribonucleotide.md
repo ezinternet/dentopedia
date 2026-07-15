@@ -6,7 +6,7 @@ date: 2025-11-24
 doi: 10.3390/ijms262311367
 source: pachhapure-2025-mitigating-effect-mechanism-polydeoxyribonucleotide.md
 category: [pdrn]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pachhapure-2025-mitigating-effect-mechanism-polydeoxyribonucleotide.pdf
 pdf_filename: pachhapure-2025-mitigating-effect-mechanism-polydeoxyribonucleotide.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-10-31
 doi: 10.5051/jpis.2400240012
 source: lee-2024-soft-tissue-augmentation-immediate-implant-pdrn.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-soft-tissue-augmentation-immediate-implant-pdrn.pdf
 pdf_filename: lee-2024-soft-tissue-augmentation-immediate-implant-pdrn.pdf
 source_collection: external

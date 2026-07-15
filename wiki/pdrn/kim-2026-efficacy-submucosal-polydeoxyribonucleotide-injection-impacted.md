@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.3349/ymj.2024.0549
 source: kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.md
 category: [pdrn]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.pdf
 pdf_filename: kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.pdf
 source_collection: external

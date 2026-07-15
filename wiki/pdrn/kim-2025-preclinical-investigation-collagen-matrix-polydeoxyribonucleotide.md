@@ -6,7 +6,7 @@ date: 2025-01-15
 doi: 10.1111/cid.13411
 source: kim-2025-preclinical-investigation-collagen-matrix-polydeoxyribonucleotide.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-preclinical-investigation-collagen-matrix-polydeoxyribonucleotide.pdf
 pdf_filename: kim-2025-preclinical-investigation-collagen-matrix-polydeoxyribonucleotide.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-12-31
 doi: 10.5051/jpis.2301920096
 source: lim-2023-xenogeneic-collagen-matrix-polydeoxyribonucleotide-gingival-phenotype.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2023-xenogeneic-collagen-matrix-polydeoxyribonucleotide-gingival-phenotype.pdf
 pdf_filename: lim-2023-xenogeneic-collagen-matrix-polydeoxyribonucleotide-gingival-phenotype.pdf
 source_collection: external

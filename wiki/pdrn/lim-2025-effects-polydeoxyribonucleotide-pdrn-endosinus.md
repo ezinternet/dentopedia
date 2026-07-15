@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: 10.1111/clr.14378
 source: lim-2025-effects-polydeoxyribonucleotide-pdrn-endosinus.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2025-effects-polydeoxyribonucleotide-pdrn-endosinus.pdf
 pdf_filename: lim-2025-effects-polydeoxyribonucleotide-pdrn-endosinus.pdf
 source_collection: external

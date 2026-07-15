@@ -6,7 +6,7 @@ date: 2023-04-30
 doi: 10.5051/jpis.2202760138
 source: lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.md
 category: [pdrn]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.pdf
 pdf_filename: lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.pdf
 source_collection: external

@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/jeon-2026-pdrn-osteoblast-differenti
 text_filename: jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis.txt
 source: jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis.md
 category: [pdrn]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 tags: []
