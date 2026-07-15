@@ -12,7 +12,7 @@ evidence_level: prospective
 pdf_path: ""
 pdf_filename: ""
 full_text: true
-source_collection: pubmed-pmc
+source_collection: pubmed-abstract
 tags: [insertion-torque, primary-stability, overdenture, narrow-implant, torque-threshold]
 relations:
   - type: extends
