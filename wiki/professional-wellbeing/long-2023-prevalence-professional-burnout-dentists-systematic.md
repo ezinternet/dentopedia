@@ -6,7 +6,7 @@ date: 2023-07-01
 doi: 10.1080/13548506.2023.2208364
 source: long-2023-prevalence-professional-burnout-dentists-systematic.md
 category: professional-wellbeing
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/long-2023-prevalence-professional-burnout-dentists-systematic.pdf
 pdf_filename: long-2023-prevalence-professional-burnout-dentists-systematic.pdf
 source_collection: external

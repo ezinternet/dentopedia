@@ -6,7 +6,7 @@ date: 2024-11-26
 doi: 10.3390/healthcare12232366
 source: negucioiu-2024-prevalence-management-burnout-dental-covid.md
 category: professional-wellbeing
-confidence: sr
+evidence_level: sr
 prospero_id: CRD42024586616
 pdf_path: /Users/oracleneo/llm-wiki/papers/negucioiu-2024-prevalence-management-burnout-dental-covid.pdf
 pdf_filename: negucioiu-2024-prevalence-management-burnout-dental-covid.pdf

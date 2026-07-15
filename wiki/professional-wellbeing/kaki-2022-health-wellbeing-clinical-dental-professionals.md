@@ -6,7 +6,7 @@ date: 2022-06-01
 doi: 10.1177/20501684221101663
 source: kaki-2022-health-wellbeing-clinical-dental-professionals.md
 category: professional-wellbeing
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaki-2022-health-wellbeing-clinical-dental-professionals.pdf
 pdf_filename: kaki-2022-health-wellbeing-clinical-dental-professionals.pdf
 source_collection: external

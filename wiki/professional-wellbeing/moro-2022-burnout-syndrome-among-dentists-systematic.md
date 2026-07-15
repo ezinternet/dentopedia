@@ -6,7 +6,7 @@ date: 2022-09-01
 doi: 10.1016/j.jebdp.2022.101724
 source: moro-2022-burnout-syndrome-among-dentists-systematic.md
 category: professional-wellbeing
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/moro-2022-burnout-syndrome-among-dentists-systematic.pdf
 pdf_filename: moro-2022-burnout-syndrome-among-dentists-systematic.pdf
 source_collection: external

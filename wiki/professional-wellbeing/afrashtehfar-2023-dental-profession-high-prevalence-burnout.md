@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.1016/j.jebdp.2023.101886
 source: afrashtehfar-2023-dental-profession-high-prevalence-burnout.md
 category: professional-wellbeing
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/afrashtehfar-2023-dental-profession-high-prevalence-burnout.pdf
 pdf_filename: afrashtehfar-2023-dental-profession-high-prevalence-burnout.pdf
 source_collection: external

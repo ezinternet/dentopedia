@@ -6,7 +6,7 @@ date: 2022-12-07
 doi: 10.1038/s41432-022-0831-0
 source: plessas-2022-mental-health-wellbeing-interventions-dental.md
 category: professional-wellbeing
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/plessas-2022-mental-health-wellbeing-interventions-dental.pdf
 pdf_filename: plessas-2022-mental-health-wellbeing-interventions-dental.pdf
 source_collection: external

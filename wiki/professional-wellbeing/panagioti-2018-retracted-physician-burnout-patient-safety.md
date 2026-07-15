@@ -6,7 +6,7 @@ date: 2018-09-04
 doi: 10.1001/jamainternmed.2018.3713
 source: panagioti-2018-retracted-physician-burnout-patient-safety.md
 category: professional-wellbeing
-confidence: sr+ma
+evidence_level: sr+ma
 retraction_status: RETRACTED
 pdf_path: /Users/oracleneo/llm-wiki/papers/panagioti-2018-retracted-physician-burnout-patient-safety.pdf
 pdf_filename: panagioti-2018-retracted-physician-burnout-patient-safety.pdf
