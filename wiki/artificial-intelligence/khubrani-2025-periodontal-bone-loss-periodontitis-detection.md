@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: 10.1093/dmfr/twae070
 source: khubrani-2025-periodontal-bone-loss-periodontitis-detection.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39656957"

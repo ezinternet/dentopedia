@@ -6,7 +6,7 @@ date: 2025-09-29
 doi: "10.1038/s41598-025-16591-4"
 source: pornprasertsuk-2025-deep-learning-multistage-caries-panoramic.md
 category: [artificial-intelligence]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41022932"

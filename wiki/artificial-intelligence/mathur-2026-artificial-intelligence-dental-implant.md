@@ -6,7 +6,7 @@ date: 2026-06-09
 doi: 10.1016/j.prosdent.2026.05.004
 source: mathur-2026-artificial-intelligence-dental-implant.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42264969"

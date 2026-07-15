@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/jopr.70091
 source: alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry.pdf
 pdf_filename: alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry.pdf
 source_collection: external

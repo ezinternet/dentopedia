@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: 10.23804/ejpd.2025.2288
 source: gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "40434067"

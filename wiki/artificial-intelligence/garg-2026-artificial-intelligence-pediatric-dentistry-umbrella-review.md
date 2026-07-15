@@ -6,7 +6,7 @@ date: 2026-04-08
 doi: 10.1111/ipd.70084
 source: garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41952278"

@@ -6,7 +6,7 @@ date: 2023-09-04
 doi: "10.1259/dmfr.20230284"
 source: turosz-2023-artificial-intelligence-panoramic-radiographs-overview.md
 category: [artificial-intelligence]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "37665008"

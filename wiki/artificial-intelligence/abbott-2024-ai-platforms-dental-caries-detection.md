@@ -6,7 +6,7 @@ date: 2024-12-12
 doi: 10.1016/j.jebdp.2024.102077
 source: abbott-2024-ai-platforms-dental-caries-detection.md
 category: [artificial-intelligence]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39947783"
