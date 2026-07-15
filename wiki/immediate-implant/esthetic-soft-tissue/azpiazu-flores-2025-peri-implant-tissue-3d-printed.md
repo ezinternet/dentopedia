@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jopr.14011
 source: azpiazu-flores-2025-peri-implant-tissue-3d-printed.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/azpiazu-flores-2025-peri-implant-tissue-3d-printed.pdf
 pdf_filename: azpiazu-flores-2025-peri-implant-tissue-3d-printed.pdf
 source_collection: external

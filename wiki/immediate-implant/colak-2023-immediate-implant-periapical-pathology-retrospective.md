@@ -7,7 +7,7 @@ doi: 10.1186/s12903-023-02986-0
 journal: BMC Oral Health 23:304
 source: colak-2023-immediate-implant-periapical-pathology-retrospective.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/colak-2023-immediate-implant-periapical-pathology-retrospective.pdf
 pdf_filename: colak-2023-immediate-implant-periapical-pathology-retrospective.pdf
 source_collection: external

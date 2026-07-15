@@ -6,7 +6,7 @@ date: 2026-06-29
 doi: 10.4317/medoral.28256
 source: espada-salgado-2026-immediate-implant-infected-socket-scoping-review.md
 category: [immediate-implant]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42367104"

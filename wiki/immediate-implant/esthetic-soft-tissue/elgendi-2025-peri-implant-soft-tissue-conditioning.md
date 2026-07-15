@@ -6,7 +6,7 @@ date: 2025-01-22
 doi: 10.1186/s12903-024-05417-w
 source: elgendi-2025-peri-implant-soft-tissue-conditioning.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/elgendi-2025-peri-implant-soft-tissue-conditioning.pdf
 pdf_filename: elgendi-2025-peri-implant-soft-tissue-conditioning.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-04-01
 doi: 10.5051/jpis.2104040202
 source: lim-2022-immediate-implant-gbr-sctg-dog.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "35505577"

@@ -6,7 +6,7 @@ date: 2023-06-05
 doi: 10.1038/s41432-023-00902-7
 source: asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "37277486"

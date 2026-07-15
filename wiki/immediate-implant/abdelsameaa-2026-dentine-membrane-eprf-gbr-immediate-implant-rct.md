@@ -7,7 +7,7 @@ doi: 10.1186/s12903-026-08582-2
 journal: "BMC Oral Health 26(1)"
 source: abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct.pdf
 pdf_filename: abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1111/prd.12170
 source: buser-2017-implant-placement-timing-post-extraction-esthetic.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/buser-2017-implant-placement-timing-post-extraction-esthetic.pdf
 pdf_filename: buser-2017-implant-placement-timing-post-extraction-esthetic.pdf
 source_collection: external

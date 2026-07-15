@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1590/1807-3107bor-2025.vol39.0084
 source: dutra-2025-customized-healing-abutments-immediate-implants.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/dutra-2025-customized-healing-abutments-immediate-implants.pdf
 pdf_filename: dutra-2025-customized-healing-abutments-immediate-implants.pdf
 source_collection: external

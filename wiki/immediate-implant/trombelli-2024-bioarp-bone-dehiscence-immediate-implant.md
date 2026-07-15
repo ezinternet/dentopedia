@@ -6,7 +6,7 @@ date: 2024-12-12
 doi: 10.1002/cap.10334
 source: trombelli-2024-bioarp-bone-dehiscence-immediate-implant.md
 category: [immediate-implant]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/trombelli-2024-bioarp-bone-dehiscence-immediate-implant.pdf
 pdf_filename: trombelli-2024-bioarp-bone-dehiscence-immediate-implant.pdf
 source_collection: external

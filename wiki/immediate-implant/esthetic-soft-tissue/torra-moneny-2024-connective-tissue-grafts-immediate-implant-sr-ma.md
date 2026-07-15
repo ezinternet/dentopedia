@@ -6,7 +6,7 @@ date: 2024-06-17
 doi: "10.3390/dj12060183"
 source: torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.pdf
 pdf_filename: torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.pdf
 source_collection: external

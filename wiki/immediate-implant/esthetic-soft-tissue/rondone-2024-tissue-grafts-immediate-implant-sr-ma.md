@@ -6,7 +6,7 @@ date: 2024-01-31
 doi: 10.3390/jcm13030821
 source: rondone-2024-tissue-grafts-immediate-implant-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rondone-2024-tissue-grafts-immediate-implant-sr-ma.pdf
 pdf_filename: rondone-2024-tissue-grafts-immediate-implant-sr-ma.pdf
 source_collection: external

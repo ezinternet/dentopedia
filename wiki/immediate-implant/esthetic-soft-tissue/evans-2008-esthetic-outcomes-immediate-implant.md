@@ -6,7 +6,7 @@ date: 2007-10-23
 doi: 10.1111/j.1600-0501.2007.01413.x
 source: evans-2008-esthetic-outcomes-immediate-implant.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/evans-2008-esthetic-outcomes-immediate-implant.pdf
 pdf_filename: evans-2008-esthetic-outcomes-immediate-implant.pdf
 source_collection: external

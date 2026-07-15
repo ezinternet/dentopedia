@@ -6,7 +6,7 @@ date: 2026-03-13
 doi: 
 source: staas-2026-fiipp-palatal-position-cbct-3year.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/staas-2026-fiipp-palatal-position-cbct-3year.pdf
 pdf_filename: staas-2026-fiipp-palatal-position-cbct-3year.pdf
 source_collection: external

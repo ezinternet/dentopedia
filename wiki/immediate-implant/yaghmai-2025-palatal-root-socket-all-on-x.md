@@ -6,7 +6,7 @@ date: 2025-11-10
 doi: 10.7759/cureus.96476
 source: yaghmai-2025-palatal-root-socket-all-on-x.md
 category: [immediate-implant]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/yaghmai-2025-palatal-root-socket-all-on-x.pdf
 pdf_filename: yaghmai-2025-palatal-root-socket-all-on-x.pdf
 source_collection: external

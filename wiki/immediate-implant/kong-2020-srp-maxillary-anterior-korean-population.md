@@ -6,7 +6,7 @@ date: 2020-06-30
 doi: 10.14368/jdras.2020.36.2.88
 source: kong-2020-srp-maxillary-anterior-korean-population.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/kong-2020-srp-maxillary-anterior-korean-population.pdf
 pdf_filename: kong-2020-srp-maxillary-anterior-korean-population.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.prosdent.2025.xx.xxx
 journal: Journal of Prosthetic Dentistry (online ahead of print)
 source: ji-2025-socket-shield-conventional-network-ma.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ji-2025-socket-shield-conventional-network-ma.pdf
 pdf_filename: ji-2025-socket-shield-conventional-network-ma.pdf

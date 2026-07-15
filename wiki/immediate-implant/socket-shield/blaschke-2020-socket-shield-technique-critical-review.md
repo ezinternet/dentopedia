@@ -6,7 +6,7 @@ date: 2020-09-01
 doi: 10.1186/s40729-020-00246-2
 journal: International Journal of Implant Dentistry 6:52
 source: blaschke-2020-socket-shield-technique-critical-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/blaschke-2020-socket-shield-technique-critical-review.pdf
 pdf_filename: blaschke-2020-socket-shield-technique-critical-review.pdf

@@ -6,7 +6,7 @@ date: 2021-01-05
 doi: "10.1155/2021/8822804"
 source: de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective.pdf
 pdf_filename: de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective.pdf
 source_collection: external

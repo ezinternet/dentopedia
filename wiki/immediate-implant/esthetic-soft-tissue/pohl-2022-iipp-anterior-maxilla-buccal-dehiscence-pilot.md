@@ -6,7 +6,7 @@ date: 2022-06-27
 doi: 10.11607/jomi.9198
 source: pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot.pdf
 pdf_filename: pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot.pdf
 source_collection: external

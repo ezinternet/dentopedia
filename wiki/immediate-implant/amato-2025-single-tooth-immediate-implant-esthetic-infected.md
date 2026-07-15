@@ -7,7 +7,7 @@ doi: 10.11607/jomi.11225
 pmid: "40080053"
 source: amato-2025-single-tooth-immediate-implant-esthetic-infected.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/amato-2025-single-tooth-immediate-implant-esthetic-infected.pdf
 pdf_filename: amato-2025-single-tooth-immediate-implant-esthetic-infected.pdf
 source_collection: external

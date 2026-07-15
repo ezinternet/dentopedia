@@ -6,7 +6,7 @@ date: 2026-06-24
 doi: 10.3892/br.2026.2173
 source: li-2026-safety-feasibility-immediate-implant-diabetic.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42388444"

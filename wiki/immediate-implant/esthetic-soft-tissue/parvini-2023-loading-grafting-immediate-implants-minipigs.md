@@ -6,7 +6,7 @@ date: 2022-10-04
 doi: 10.1111/jcpe.13734
 source: parvini-2023-loading-grafting-immediate-implants-minipigs.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/parvini-2023-loading-grafting-immediate-implants-minipigs.pdf
 pdf_filename: parvini-2023-loading-grafting-immediate-implants-minipigs.pdf
 source_collection: external

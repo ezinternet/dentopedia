@@ -6,7 +6,7 @@ date: 2022-04-16
 doi: 10.3390/diagnostics12041010
 source: pavlovic-2022-interradicular-septum-morphology-molar-iip.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/pavlovic-2022-interradicular-septum-morphology-molar-iip.pdf
 pdf_filename: pavlovic-2022-interradicular-septum-morphology-molar-iip.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1038/s41432-025-01152-5
 journal: Evid Based Dent 26:80-82
 source: nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf
 pdf_filename: nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf
 source_collection: external

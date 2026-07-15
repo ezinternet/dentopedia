@@ -6,7 +6,7 @@ date: 2024-12-01
 doi: 10.1016/j.prosdent.2024.07.001
 source: qian-2024-anterior-maxillary-implants-placement-loading-nma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf
 pdf_filename: qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf
 source_collection: external

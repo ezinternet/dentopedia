@@ -6,7 +6,7 @@ date: 2024-05-10
 doi: 10.1186/s40902-024-00428-7
 source: aung-2024-tapered-sla-immediate-implant-survival.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "38727979"

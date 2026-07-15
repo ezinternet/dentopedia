@@ -6,7 +6,7 @@ date: 2023-08-01
 doi: 10.1111/clr.14172
 source: wittneben-2023-immediate-implant-loaded-single-crown-sr.md
 category: [immediate-implant]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/wittneben-2023-immediate-implant-loaded-single-crown-sr.pdf
 pdf_filename: wittneben-2023-immediate-implant-loaded-single-crown-sr.pdf
 source_collection: external

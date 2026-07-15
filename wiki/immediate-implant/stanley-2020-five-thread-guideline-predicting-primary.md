@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1563/aaid-joi-D-19-00039
 source: stanley-2020-five-thread-guideline-predicting-primary.md
 category: [immediate-implant]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/stanley-2020-five-thread-guideline-predicting-primary.pdf
 pdf_filename: stanley-2020-five-thread-guideline-predicting-primary.pdf
 source_collection: external

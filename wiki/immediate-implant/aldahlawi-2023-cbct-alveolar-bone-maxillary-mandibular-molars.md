@@ -6,7 +6,7 @@ date: 2023-07-09
 doi: 10.7759/cureus.41608
 source: aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars.pdf
 pdf_filename: aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars.pdf
 source_collection: external

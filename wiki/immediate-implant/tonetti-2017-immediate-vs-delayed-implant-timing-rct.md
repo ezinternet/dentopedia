@@ -6,7 +6,7 @@ date: 2017-02-01
 doi: "10.1111/jcpe.12666"
 source: tonetti-2017-immediate-vs-delayed-implant-timing-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/tonetti-2017-immediate-vs-delayed-implant-timing-rct.pdf
 pdf_filename: tonetti-2017-immediate-vs-delayed-implant-timing-rct.pdf
 source_collection: external

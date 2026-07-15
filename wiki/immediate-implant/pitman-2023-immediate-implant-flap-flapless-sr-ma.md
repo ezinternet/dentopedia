@@ -6,7 +6,7 @@ date: 2023-02-26
 doi: 10.1111/jcpe.13795
 source: pitman-2023-immediate-implant-flap-flapless-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pitman-2023-immediate-implant-flap-flapless-sr-ma.pdf
 pdf_filename: pitman-2023-immediate-implant-flap-flapless-sr-ma.pdf
 source_collection: external

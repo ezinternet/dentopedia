@@ -6,7 +6,7 @@ date: 2020-10-25
 doi: 10.1111/jcpe.13398
 source: slagter-2021-immediate-single-implant-provisionalization-5year.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/slagter-2021-immediate-single-implant-provisionalization-5year.pdf
 pdf_filename: slagter-2021-immediate-single-implant-provisionalization-5year.pdf
 source_collection: external

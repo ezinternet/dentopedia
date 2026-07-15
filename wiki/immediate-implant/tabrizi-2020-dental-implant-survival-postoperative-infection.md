@@ -8,7 +8,7 @@ pmid: "36274880"
 pmcid: "PMC9474760"
 source: tabrizi-2020-dental-implant-survival-postoperative-infection.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/tabrizi-2020-dental-implant-survival-postoperative-infection.txt

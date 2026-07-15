@@ -6,7 +6,7 @@ date: 2016-01-24
 doi: 10.1155/2016/8424931
 source: vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded.pdf
 pdf_filename: vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded.pdf
 source_collection: external

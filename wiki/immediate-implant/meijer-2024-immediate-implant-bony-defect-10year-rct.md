@@ -6,7 +6,7 @@ date: 2024-12-01
 doi: 10.1002/JPER.24-0251
 source: meijer-2024-immediate-implant-bony-defect-10year-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/meijer-2024-immediate-implant-bony-defect-10year-rct.pdf
 pdf_filename: meijer-2024-immediate-implant-bony-defect-10year-rct.pdf
 source_collection: external

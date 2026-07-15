@@ -6,7 +6,7 @@ date: 2024-06-28
 doi: "10.5037/jomr.2024.15203"
 source: bineviciute-2024-attitudes-surgeons-immediate-implant-survey.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bineviciute-2024-attitudes-surgeons-immediate-implant-survey.pdf
 pdf_filename: bineviciute-2024-attitudes-surgeons-immediate-implant-survey.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-11-21
 doi: 10.34172/japid.2021.016
 source: deporter-2021-cbct-immediate-maxillary-molar-implant.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/deporter-2021-cbct-immediate-maxillary-molar-implant.pdf
 pdf_filename: deporter-2021-cbct-immediate-maxillary-molar-implant.pdf
 source_collection: external

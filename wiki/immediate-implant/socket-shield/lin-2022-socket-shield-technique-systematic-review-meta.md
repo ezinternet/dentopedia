@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.2186/jpr.JPR_D_20_00262
 source: lin-2022-socket-shield-technique-systematic-review-meta.md
 category: [immediate-implant/socket-shield]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2022-socket-shield-technique-systematic-review-meta.pdf
 pdf_filename: lin-2022-socket-shield-technique-systematic-review-meta.pdf
 source_collection: external

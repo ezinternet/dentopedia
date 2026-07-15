@@ -6,7 +6,7 @@ date: 2026-05-05
 doi: 10.1186/s12903-026-08408-1
 source: fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation.txt
 pdf_filename: fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation.txt
 source_collection: pubmed-text

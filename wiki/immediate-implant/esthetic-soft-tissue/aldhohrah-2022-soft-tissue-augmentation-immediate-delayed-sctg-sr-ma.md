@@ -6,7 +6,7 @@ date: 2022-02-10
 doi: "10.1371/journal.pone.0261513"
 source: aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma.pdf
 pdf_filename: aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma.pdf
 source_collection: external

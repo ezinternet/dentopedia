@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1097/ID.0000000000000430
 source: matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct.pdf
 pdf_filename: matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct.pdf
 source_collection: external

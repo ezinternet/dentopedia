@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: 10.5051/jpis.2203780189
 journal: Journal of Periodontal & Implant Science 53(2):99-?
 source: oliva-2023-socket-shield-buccal-bone-preservation-sr.md
-confidence: sr
+evidence_level: sr
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/oliva-2023-socket-shield-buccal-bone-preservation-sr.pdf
 pdf_filename: oliva-2023-socket-shield-buccal-bone-preservation-sr.pdf

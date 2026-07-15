@@ -6,7 +6,7 @@ date: 2018-10-01
 doi: 10.4103/jips.jips_103_18
 source: panda-2018-cbct-incisive-canal-anterior-maxillary.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/panda-2018-cbct-incisive-canal-anterior-maxillary.pdf
 pdf_filename: panda-2018-cbct-incisive-canal-anterior-maxillary.pdf
 source_collection: external

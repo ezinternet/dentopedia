@@ -6,7 +6,7 @@ date: 2023-06-19
 doi: 10.11607/jomi.10112
 source: qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.pdf
 pdf_filename: qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.pdf
 source_collection: external

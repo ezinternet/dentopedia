@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1055/s-0044-1787818"
 source: azarias-2025-survival-rate-immediate-loaded-implants.md
 category: [immediate-implant]
-confidence: narrative-review
+evidence_level: narrative-review
 text_path: /Users/oracleneo/llm-wiki/papers/azarias-2025-survival-rate-immediate-loaded-implants.txt
 text_filename: azarias-2025-survival-rate-immediate-loaded-implants.txt
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 2019-06-01
 doi: 10.5624/isd.2019.49.2.123
 source: petaibunlue-2019-anterior-arch-root-position-angulation.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/petaibunlue-2019-anterior-arch-root-position-angulation.pdf
 pdf_filename: petaibunlue-2019-anterior-arch-root-position-angulation.pdf
 source_collection: external

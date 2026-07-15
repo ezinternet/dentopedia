@@ -6,7 +6,7 @@ date: 2021-10-01
 doi: 10.1111/clr.13838
 source: pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "34642986"

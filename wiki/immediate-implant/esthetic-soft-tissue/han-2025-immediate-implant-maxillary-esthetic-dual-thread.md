@@ -6,7 +6,7 @@ date: 2025-03-04
 doi: 10.5051/jpis.2404240212
 source: han-2025-immediate-implant-maxillary-esthetic-dual-thread.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40350771"

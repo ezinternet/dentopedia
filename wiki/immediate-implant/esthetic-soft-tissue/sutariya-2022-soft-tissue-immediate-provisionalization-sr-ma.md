@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.4103/jips.jips_399_21
 source: sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.pdf
 pdf_filename: sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma.pdf
 source_collection: external

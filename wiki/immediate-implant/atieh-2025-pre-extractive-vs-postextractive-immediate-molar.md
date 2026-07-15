@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.identj.2025.109316
 source: atieh-2025-pre-extractive-vs-postextractive-immediate-molar.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41406906"

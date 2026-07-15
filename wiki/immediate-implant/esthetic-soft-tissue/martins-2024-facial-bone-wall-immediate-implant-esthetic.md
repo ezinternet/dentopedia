@@ -6,7 +6,7 @@ date: 2024-01-05
 doi: 10.17219/acem/173573
 source: martins-2024-facial-bone-wall-immediate-implant-esthetic.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 pdf_filename: martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 source_collection: external

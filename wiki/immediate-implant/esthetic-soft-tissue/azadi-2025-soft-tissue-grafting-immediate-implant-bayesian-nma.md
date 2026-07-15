@@ -6,7 +6,7 @@ date: 2025-02-12
 doi: 10.1186/s12903-025-05461-0
 source: azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf
 pdf_filename: azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf
 source_collection: external

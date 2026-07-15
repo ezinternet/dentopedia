@@ -6,7 +6,7 @@ date: 2021-11-25
 doi: 10.3390/jfb12040066
 source: bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant.pdf
 pdf_filename: bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant.pdf
 source_collection: external

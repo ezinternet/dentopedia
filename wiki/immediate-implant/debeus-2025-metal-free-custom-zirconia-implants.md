@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1111/cid.13404"
 source: debeus-2025-metal-free-custom-zirconia-implants.md
 category: [immediate-implant]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/debeus-2025-metal-free-custom-zirconia-implants.txt
 text_filename: debeus-2025-metal-free-custom-zirconia-implants.txt
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 2019-04-29
 doi: 10.1111/cid.12785
 source: yang-2019-labial-bone-thickness-esthetics-iipp.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2019-labial-bone-thickness-esthetics-iipp.pdf
 pdf_filename: yang-2019-labial-bone-thickness-esthetics-iipp.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2015-12-01
 doi: 
 source: esposito-2015-immediate-loading-vs-delayed-anterior-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2015-immediate-loading-vs-delayed-anterior-rct.pdf
 pdf_filename: esposito-2015-immediate-loading-vs-delayed-anterior-rct.pdf
 source_collection: external

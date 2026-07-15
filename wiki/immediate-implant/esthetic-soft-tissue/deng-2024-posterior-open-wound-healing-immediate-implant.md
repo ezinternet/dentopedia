@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.ijom.2023.11.009
 source: deng-2024-posterior-open-wound-healing-immediate-implant.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/deng-2024-posterior-open-wound-healing-immediate-implant.pdf
 pdf_filename: deng-2024-posterior-open-wound-healing-immediate-implant.pdf
 source_collection: external

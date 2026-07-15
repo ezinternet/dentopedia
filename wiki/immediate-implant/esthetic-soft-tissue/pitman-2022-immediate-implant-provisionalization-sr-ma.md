@@ -6,7 +6,7 @@ date: 2022-06-23
 doi: 10.1111/jcpe.13686
 source: pitman-2022-immediate-implant-provisionalization-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pitman-2022-immediate-implant-provisionalization-sr-ma.pdf
 pdf_filename: pitman-2022-immediate-implant-provisionalization-sr-ma.pdf
 source_collection: external

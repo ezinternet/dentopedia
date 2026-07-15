@@ -6,7 +6,7 @@ date: 2026-03-20
 doi: "10.1186/s12903-026-08105-z"
 source: zadikian-2026-open-healing-immediate-implant-mucosa.md
 category: immediate-implant/esthetic-soft-tissue
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41862887"

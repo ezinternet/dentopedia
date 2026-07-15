@@ -7,7 +7,7 @@ doi: 10.1016/j.identj.2024.10.010
 journal: "International Dental Journal 75(2):439-452"
 source: xing-2024-accuracy-immediate-implantation-digital-guided.md
 category: [immediate-implant]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39521681"

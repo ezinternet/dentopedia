@@ -7,7 +7,7 @@ doi: 10.1111/clr.14109
 journal: Clin Oral Implants Res 34(Suppl 26):304-348
 source: hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma.pdf
 pdf_filename: hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-10-30
 doi: 10.1111/jcpe.13397
 source: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 pdf_filename: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 source_collection: external

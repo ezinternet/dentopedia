@@ -6,7 +6,7 @@ date: 2025-12-22
 doi: "10.1186/s12903-025-06861-y"
 source: behfarnia-2025-anatomic-immediate-implant-mandibular-posterior.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41430227"

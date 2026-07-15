@@ -6,7 +6,7 @@ date: 2019-05-01
 doi: 10.1111/cid.12783
 source: liu-2019-immediate-implant-transalveolar-sinus-elevation.md
 category: immediate-implant
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2019-immediate-implant-transalveolar-sinus-elevation.pdf
 pdf_filename: liu-2019-immediate-implant-transalveolar-sinus-elevation.pdf
 source_collection: external

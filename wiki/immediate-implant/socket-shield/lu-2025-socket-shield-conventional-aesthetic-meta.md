@@ -6,7 +6,7 @@ date: 2025-12-19
 doi: 10.1186/s40729-025-00657-z
 source: lu-2025-socket-shield-conventional-aesthetic-meta.md
 category: [immediate-implant/socket-shield]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41417433"

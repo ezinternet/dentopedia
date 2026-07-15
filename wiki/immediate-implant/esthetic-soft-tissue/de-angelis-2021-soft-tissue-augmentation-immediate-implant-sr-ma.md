@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1186/s40729-021-00365-4
 source: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.pdf
 pdf_filename: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-06-18
 doi: 10.3390/biology10060549
 journal: Biology 10(6):549
 source: velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma.pdf
 pdf_filename: velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma.pdf

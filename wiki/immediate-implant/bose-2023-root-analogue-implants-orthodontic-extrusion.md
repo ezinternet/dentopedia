@@ -6,7 +6,7 @@ date: 2023-08-15
 doi: "10.1007/s00784-023-05198-6"
 source: bose-2023-root-analogue-implants-orthodontic-extrusion.md
 category: [immediate-implant]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "37581766"

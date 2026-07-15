@@ -6,7 +6,7 @@ date: 2025-12-26
 doi: 10.1097/MD.0000000000046832
 source: fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma.pdf
 pdf_filename: fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma.pdf
 source_collection: external

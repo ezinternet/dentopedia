@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s10006-025-01501-9
 journal: Oral and Maxillofacial Surgery 30:16
 source: zhang-2026-socket-shield-orthodontic-premolar-rct.md
-confidence: rct
+evidence_level: rct
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2026-socket-shield-orthodontic-premolar-rct.pdf
 pdf_filename: zhang-2026-socket-shield-orthodontic-premolar-rct.pdf

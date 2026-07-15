@@ -6,7 +6,7 @@ date: 2026-04-13
 doi: 10.1038/s41598-026-48697-8
 source: askinekinci-2026-bic-surface-immediate-implant-stability.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41974820"

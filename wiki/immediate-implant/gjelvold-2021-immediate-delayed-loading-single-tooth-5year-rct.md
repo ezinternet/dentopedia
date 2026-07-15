@@ -6,7 +6,7 @@ date: 2021-03-05
 doi: 10.3390/jcm10051077
 source: gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct.pdf
 pdf_filename: gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct.pdf
 source_collection: external

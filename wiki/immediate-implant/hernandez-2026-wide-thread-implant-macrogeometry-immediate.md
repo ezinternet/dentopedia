@@ -6,7 +6,7 @@ date: 2026-03-30
 doi: 10.4317/jced.63890
 source: hernandez-2026-wide-thread-implant-macrogeometry-immediate.md
 category: [immediate-implant]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42136699"

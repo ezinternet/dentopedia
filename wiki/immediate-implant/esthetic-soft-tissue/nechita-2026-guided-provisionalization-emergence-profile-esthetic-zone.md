@@ -6,7 +6,7 @@ date: 2026-05-20
 doi: 10.3390/jcm15103945
 source: nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42194906"

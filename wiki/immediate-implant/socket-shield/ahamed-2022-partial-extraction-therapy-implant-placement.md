@@ -6,7 +6,7 @@ date: 2022-11-12
 doi: "10.7759/cureus.31414"
 source: ahamed-2022-partial-extraction-therapy-implant-placement.md
 category: [immediate-implant/socket-shield]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahamed-2022-partial-extraction-therapy-implant-placement.pdf
 pdf_filename: ahamed-2022-partial-extraction-therapy-implant-placement.pdf
 source_collection: external

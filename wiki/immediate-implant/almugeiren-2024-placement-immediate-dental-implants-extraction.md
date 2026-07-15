@@ -8,7 +8,7 @@ pmid: "38601261"
 pmcid: "PMC11005000"
 source: almugeiren-2024-placement-immediate-dental-implants-extraction.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/almugeiren-2024-placement-immediate-dental-implants-extraction.txt
 text_filename: almugeiren-2024-placement-immediate-dental-implants-extraction.txt

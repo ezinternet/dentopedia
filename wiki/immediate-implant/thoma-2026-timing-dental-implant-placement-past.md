@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.1111/jre.70088
 source: thoma-2026-timing-dental-implant-placement-past.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [immediate-implant]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2026-timing-dental-implant-placement-past.pdf
 pdf_filename: thoma-2026-timing-dental-implant-placement-past.pdf

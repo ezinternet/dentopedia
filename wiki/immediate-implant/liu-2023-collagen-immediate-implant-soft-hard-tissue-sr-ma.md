@@ -6,7 +6,7 @@ date: 2023-01-13
 doi: "10.1016/j.jormas.2023.101385"
 source: liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma.pdf
 pdf_filename: liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma.pdf
 source_collection: external

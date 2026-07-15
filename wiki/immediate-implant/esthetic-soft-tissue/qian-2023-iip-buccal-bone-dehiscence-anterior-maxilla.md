@@ -6,7 +6,7 @@ date: 2022-11-14
 doi: 10.1111/cid.13154
 source: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 pdf_filename: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 source_collection: external

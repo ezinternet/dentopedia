@@ -6,7 +6,7 @@ date: 2026-03-24
 doi: 10.1186/s12903-026-08156-2
 source: wu-2026-immediate-provisionalization-natural-crown-frc.md
 category: immediate-implant/esthetic-soft-tissue
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41877071"

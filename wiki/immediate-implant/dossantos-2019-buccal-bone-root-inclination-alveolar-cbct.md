@@ -6,7 +6,7 @@ date: 2019-03-30
 doi: 10.5037/jomr.2019.10104
 source: dossantos-2019-buccal-bone-root-inclination-alveolar-cbct.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct.pdf
 pdf_filename: dossantos-2019-buccal-bone-root-inclination-alveolar-cbct.pdf
 source_collection: external

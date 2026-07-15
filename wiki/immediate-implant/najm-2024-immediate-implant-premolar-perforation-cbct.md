@@ -6,7 +6,7 @@ date: 2024-08-26
 doi: 10.5051/jpis.2303580179
 source: najm-2024-immediate-implant-premolar-perforation-cbct.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "39439105"

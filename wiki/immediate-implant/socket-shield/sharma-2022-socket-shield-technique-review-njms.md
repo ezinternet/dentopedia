@@ -6,7 +6,7 @@ date: 2022-05-05
 doi: 10.4103/njms.NJMS_xx_xx
 journal: National Journal of Maxillofacial Surgery 13(Suppl 1):S24-S31
 source: sharma-2022-socket-shield-technique-review-njms.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharma-2022-socket-shield-technique-review-njms.pdf
 pdf_filename: sharma-2022-socket-shield-technique-review-njms.pdf

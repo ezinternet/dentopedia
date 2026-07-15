@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1590/1807-3107bor-2022.vol36.0102
 source: stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct.pdf
 pdf_filename: stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-12-01
 doi: 10.7518/hxkq.2024.2024166
 source: zhang-2024-immediate-implant-chronic-apical-infected-posterior.md
 category: [immediate-implant]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "39610073"

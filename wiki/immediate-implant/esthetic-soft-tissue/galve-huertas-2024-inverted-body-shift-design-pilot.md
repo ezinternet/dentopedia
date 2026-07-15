@@ -6,7 +6,7 @@ date: 2024-05-08
 doi: 10.11607/prd.7109
 source: galve-huertas-2024-inverted-body-shift-design-pilot.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/galve-huertas-2024-inverted-body-shift-design-pilot.pdf
 pdf_filename: galve-huertas-2024-inverted-body-shift-design-pilot.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: 10.1111/j.1600-0501.2011.02372.x
 source: lang-2012-immediate-implant-survival-success-sr.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lang-2012-immediate-implant-survival-success-sr.pdf
 pdf_filename: lang-2012-immediate-implant-survival-success-sr.pdf
 source_collection: external

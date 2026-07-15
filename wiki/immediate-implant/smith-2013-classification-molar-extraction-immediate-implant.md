@@ -6,7 +6,7 @@ date: 2013-06-10
 doi: 10.11607/jomi.2627
 source: smith-2013-classification-molar-extraction-immediate-implant.md
 category: [immediate-implant]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/smith-2013-classification-molar-extraction-immediate-implant.pdf
 pdf_filename: smith-2013-classification-molar-extraction-immediate-implant.pdf
 source_collection: external

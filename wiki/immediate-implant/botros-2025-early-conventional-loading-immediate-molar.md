@@ -6,7 +6,7 @@ date: 2025-08-01
 doi: 10.1186/s40729-025-00624-8
 source: botros-2025-early-conventional-loading-immediate-molar.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/botros-2025-early-conventional-loading-immediate-molar.pdf
 pdf_filename: botros-2025-early-conventional-loading-immediate-molar.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.1111/clr.14451
 source: pannuti-2026-loading-timing-edentulous-maxilla-pro.md
 category: immediate-implant
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41732074"

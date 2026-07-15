@@ -6,7 +6,7 @@ date: 2006-09-07
 doi: 10.1111/j.1600-0501.2006.01317.x
 source: araujo-2006-tissue-modeling-implant-extraction-sockets.md
 category: immediate-implant
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2006-tissue-modeling-implant-extraction-sockets.pdf
 pdf_filename: araujo-2006-tissue-modeling-implant-extraction-sockets.pdf
 source_collection: external

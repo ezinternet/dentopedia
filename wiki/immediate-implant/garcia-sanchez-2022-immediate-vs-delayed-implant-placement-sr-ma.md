@@ -6,7 +6,7 @@ date: 2022-01-28
 doi: 10.1111/clr.13892
 source: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35044012"

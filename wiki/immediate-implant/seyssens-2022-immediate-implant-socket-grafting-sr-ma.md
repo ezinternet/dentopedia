@@ -6,7 +6,7 @@ date: 2022-03-21
 doi: 10.1111/cid.13079
 source: seyssens-2022-immediate-implant-socket-grafting-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/seyssens-2022-immediate-implant-socket-grafting-sr-ma.pdf
 pdf_filename: seyssens-2022-immediate-implant-socket-grafting-sr-ma.pdf
 source_collection: external

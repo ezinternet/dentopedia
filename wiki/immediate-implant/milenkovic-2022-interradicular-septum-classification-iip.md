@@ -6,7 +6,7 @@ date: 2022-06-10
 doi: 10.3390/diagnostics12061432
 source: milenkovic-2022-interradicular-septum-classification-iip.md
 category: [immediate-implant]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/milenkovic-2022-interradicular-septum-classification-iip.pdf
 pdf_filename: milenkovic-2022-interradicular-septum-classification-iip.pdf
 source_collection: external

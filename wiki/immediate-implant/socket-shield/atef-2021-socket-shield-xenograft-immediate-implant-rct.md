@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1111/cid.13008
 source: atef-2021-socket-shield-xenograft-immediate-implant-rct.md
 category: [immediate-implant/socket-shield]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/atef-2021-socket-shield-xenograft-immediate-implant-rct.pdf
 pdf_filename: atef-2021-socket-shield-xenograft-immediate-implant-rct.pdf
 source_collection: external

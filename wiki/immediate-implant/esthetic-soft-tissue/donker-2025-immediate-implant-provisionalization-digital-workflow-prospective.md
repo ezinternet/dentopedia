@@ -6,7 +6,7 @@ date: 2025-07-16
 doi: "10.1111/cid.70079"
 source: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 pdf_filename: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 source_collection: external

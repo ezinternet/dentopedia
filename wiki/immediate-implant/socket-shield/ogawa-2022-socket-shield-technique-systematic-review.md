@@ -6,7 +6,7 @@ date: 2021-03-09
 doi: 10.2186/jpr.JPR_D_20_00054
 source: ogawa-2022-socket-shield-technique-systematic-review.md
 category: [immediate-implant/socket-shield]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ogawa-2022-socket-shield-technique-systematic-review.pdf
 pdf_filename: ogawa-2022-socket-shield-technique-systematic-review.pdf
 source_collection: external

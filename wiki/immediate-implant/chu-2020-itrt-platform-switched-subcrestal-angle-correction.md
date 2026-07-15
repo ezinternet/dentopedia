@@ -6,7 +6,7 @@ date: 2020-06-30
 doi: 10.11607/prd.4440
 source: chu-2020-itrt-platform-switched-subcrestal-angle-correction.md
 category: [immediate-implant]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chu-2020-itrt-platform-switched-subcrestal-angle-correction.pdf
 pdf_filename: chu-2020-itrt-platform-switched-subcrestal-angle-correction.pdf
 source_collection: external

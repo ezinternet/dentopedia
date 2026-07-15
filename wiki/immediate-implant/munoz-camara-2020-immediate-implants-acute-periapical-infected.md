@@ -6,7 +6,7 @@ date: 2020-11-01
 doi: 10.4317/medoral.23708
 source: munoz-camara-2020-immediate-implants-acute-periapical-infected.md
 category: [immediate-implant]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/munoz-camara-2020-immediate-implants-acute-periapical-infected.pdf
 pdf_filename: munoz-camara-2020-immediate-implants-acute-periapical-infected.pdf
 source_collection: external

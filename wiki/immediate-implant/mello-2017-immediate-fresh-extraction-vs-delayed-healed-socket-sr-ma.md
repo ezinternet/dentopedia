@@ -6,7 +6,7 @@ date: 2017-05-03
 doi: 10.1016/j.ijom.2017.03.016
 source: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma.md
 category: [immediate-implant]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "28478869"

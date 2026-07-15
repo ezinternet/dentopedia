@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1177/0022034513506713
 journal: JDR Clinical Research Supplement 2013;92(12 Suppl):195S-201S
 source: chappuis-2013-ridge-alterations-post-extraction-esthetic.md
-confidence: prospective
+evidence_level: prospective
 category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chappuis-2013-ridge-alterations-post-extraction-esthetic.pdf
 pdf_filename: chappuis-2013-ridge-alterations-post-extraction-esthetic.pdf

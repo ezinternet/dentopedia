@@ -6,7 +6,7 @@ date: 2020-05-04
 doi: 10.4103/jisp.jisp_557_19
 journal: Journal of Indian Society of Periodontology 24(3):289-294
 source: durrani-2020-socket-shield-esthetic-success-jisp.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/durrani-2020-socket-shield-esthetic-success-jisp.pdf
 pdf_filename: durrani-2020-socket-shield-esthetic-success-jisp.pdf

@@ -6,7 +6,7 @@ date: 2025-02-21
 doi: 10.3390/jcm14051442
 source: peitsinis-2025-implant-placement-timing-loading-protocols.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/peitsinis-2025-implant-placement-timing-loading-protocols.pdf
 pdf_filename: peitsinis-2025-implant-placement-timing-loading-protocols.pdf
 source_collection: external

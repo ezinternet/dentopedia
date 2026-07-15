@@ -6,7 +6,7 @@ date: 2025-03-27
 doi: 10.3390/dj13040145
 journal: Dentistry Journal 13(4):145
 source: simuntis-2025-socket-shield-lower-molar-case.md
-confidence: case-report
+evidence_level: case-report
 category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/simuntis-2025-socket-shield-lower-molar-case.pdf
 pdf_filename: simuntis-2025-socket-shield-lower-molar-case.pdf

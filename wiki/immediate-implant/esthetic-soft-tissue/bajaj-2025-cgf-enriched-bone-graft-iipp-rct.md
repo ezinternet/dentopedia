@@ -6,7 +6,7 @@ date: 2025-06-30
 doi: 10.17219/dmp/170045
 source: bajaj-2025-cgf-enriched-bone-graft-iipp-rct.md
 category: [immediate-implant/esthetic-soft-tissue]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 pdf_filename: bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 source_collection: external

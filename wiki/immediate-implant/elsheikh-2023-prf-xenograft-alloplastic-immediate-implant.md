@@ -6,7 +6,7 @@ date: 2023-12-13
 doi: 10.1186/s12903-023-03678-5
 source: elsheikh-2023-prf-xenograft-alloplastic-immediate-implant.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant.pdf
 pdf_filename: elsheikh-2023-prf-xenograft-alloplastic-immediate-implant.pdf
 source_collection: external
