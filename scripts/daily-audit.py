@@ -53,6 +53,7 @@ Usage:
 import os
 import sys
 import subprocess
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 
 WIKI_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -101,9 +102,16 @@ def main() -> int:
     failures = 0
     summary: list[tuple[str, int, bool]] = []
 
-    for script, args, must_pass in AUDITS:
+    # Run all audits concurrently (they are read-only), then print in AUDITS order
+    # so output stays deterministic. Wall-clock converges to the single slowest
+    # script (e.g. ingest-rationale-lint) instead of the sum of all of them.
+    print(f"▸ running {len(AUDITS)} audits in parallel…\n")
+    max_workers = min(len(AUDITS), (os.cpu_count() or 4))
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        results = list(pool.map(lambda a: run_audit(a[0], a[1]), AUDITS))
+
+    for (script, args, must_pass), (code, out) in zip(AUDITS, results):
         print(f"▸ {script}")
-        code, out = run_audit(script, args)
         for line in out.splitlines():
             print(f"    {line}")
         passed = (code == 0)
