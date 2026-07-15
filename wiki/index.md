@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-08
 source: synthesis
 category: overviews
-confidence: narrative-review
+evidence_level: narrative-review
 ---
 
 <p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--darkgray);">Last update <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED --> &nbsp;·&nbsp; 총 논문자료: <!-- PAPER_COUNT -->2115<!-- /PAPER_COUNT -->편 &nbsp;·&nbsp; 분야별 한눈에 요약: <!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개</p>
