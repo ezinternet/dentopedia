@@ -9,7 +9,7 @@ category: implants/isq
 pdf_path: ""
 pdf_filename: ""
 full_text: true
-source_collection: pubmed-pmc
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
