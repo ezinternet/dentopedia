@@ -186,6 +186,11 @@ None of these four modifications replaces good adhesive technique. They are add-
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[resin-bonding/emami-arjomand-2024-chx-ipa-fiber-post-bond]] — In vitro (54 premolars): isopropyl-alcohol root-dentin conditioning gave highest fiber-post push-out bond (21.12 MPa immediate) vs CHX/water (7.48 MPa), IA > CHX > control (P<0.001) — IA conditioning improves bond durability
+
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — covers CHX, MMP/cathepsin inhibition, 10-MDP nanolayering, water-tree; the PAC mechanism (Neves 2026) is introduced there as a collagen cross-linking complement; this page provides the layer-specific mechanistic detail
 - [[overviews/adhesive-bonding-strategies-overview]] — covers universal vs SE vs E&R, silane timing, contamination management; this page extends into post conditioning and isolation equivalence for NCCL
 - [[resin-bonding/el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure]] — Axis 1 source: GFP laser vs H2O2 conditioning
