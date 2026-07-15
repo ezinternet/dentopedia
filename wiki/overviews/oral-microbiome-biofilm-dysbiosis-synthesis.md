@@ -134,6 +134,11 @@ Together these two define the page's intellectual coordinate system: Socransky s
 - P. gingivalis 균주-수준 typing(Murugaiyan 2024)은 단면 연구 1건뿐 — 종단적 균주 획득/전환이 치주염 진행을 예측하는지 미확인.
 
 ## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-microbiology/panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review]] — Umbrella review (10 SR/MA, 9/10 AMSTAR-2 moderate): e-cig users higher plaque index + dysbiosis (↑S. mutans, P. gingivalis, Candida) — vaping raises caries/perio/peri-implantitis risk, direction-consistent not dose-quantified
+
 - [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]] — complex/community paradigm; PSD/keystone 모델이 refine한 historical 토대 (foundation)
 - [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]] — biofilm/tolerance paradigm; matrixome work이 refine한 historical 토대 (foundation)
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — sucrose가 매트릭스 기질·우식 driver (applies-to)
