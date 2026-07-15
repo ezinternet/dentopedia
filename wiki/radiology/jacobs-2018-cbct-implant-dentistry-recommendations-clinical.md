@@ -6,7 +6,7 @@ date: 2018-08-01
 doi: 10.1186/s12903-018-0523-5
 source: jacobs-2018-cbct-implant-dentistry-recommendations-clinical.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jacobs-2018-cbct-implant-dentistry-recommendations-clinical.pdf
 pdf_filename: jacobs-2018-cbct-implant-dentistry-recommendations-clinical.pdf
 source_collection: external

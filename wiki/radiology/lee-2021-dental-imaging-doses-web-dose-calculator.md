@@ -6,7 +6,7 @@ date: 2021-12-10
 doi: 10.1155/2021/6924314
 source: lee-2021-dental-imaging-doses-web-dose-calculator.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-dental-imaging-doses-web-dose-calculator.pdf
 pdf_filename: lee-2021-dental-imaging-doses-web-dose-calculator.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-07-19
 doi: 10.3290/j.ohpd.b5573959
 source: cuozzo-2024-prevalence-anatomical-characteristics-bifid.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39028000"

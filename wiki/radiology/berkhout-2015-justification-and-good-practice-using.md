@@ -6,7 +6,7 @@ date: 2015-02-24
 doi: 10.1259/dmfr.20140343
 source: berkhout-2015-justification-and-good-practice-using.md
 category: [radiology]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: false
 pmid: "25710118"

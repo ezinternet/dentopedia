@@ -6,7 +6,7 @@ date: 2014-02-26
 doi: 10.1259/dmfr.20130259
 source: eshak-2014-cone-beam-ct-evaluation-presence.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "24670010"

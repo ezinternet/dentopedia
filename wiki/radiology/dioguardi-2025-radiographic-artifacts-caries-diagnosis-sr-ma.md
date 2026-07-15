@@ -6,7 +6,7 @@ date: 2025-12-02
 doi: 10.1007/s11282-025-00879-2
 source: dioguardi-2025-radiographic-artifacts-caries-diagnosis-sr-ma.md
 category: [radiology]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41331196"

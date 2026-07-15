@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.1016/j.adaj.2023.06.015
 source: benavides-2023-patient-shielding-dentomaxillofacial-radiography.md
 category: [radiology]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/benavides-2023-patient-shielding-dentomaxillofacial-radiography.pdf
 pdf_filename: benavides-2023-patient-shielding-dentomaxillofacial-radiography.pdf
 source_collection: external

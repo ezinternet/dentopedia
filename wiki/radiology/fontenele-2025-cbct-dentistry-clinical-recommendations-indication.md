@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.105781
 source: fontenele-2025-cbct-dentistry-clinical-recommendations-indication.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/fontenele-2025-cbct-dentistry-clinical-recommendations-indication.pdf
 pdf_filename: fontenele-2025-cbct-dentistry-clinical-recommendations-indication.pdf
 source_collection: external

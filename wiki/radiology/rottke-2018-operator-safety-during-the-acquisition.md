@@ -6,7 +6,7 @@ date: 2018-02-07
 doi: 10.1259/dmfr.20160410
 source: rottke-2018-operator-safety-during-the-acquisition.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "29319336"

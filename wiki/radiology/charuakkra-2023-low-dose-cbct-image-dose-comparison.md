@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1259/dmfr.20220176
 source: charuakkra-2023-low-dose-cbct-image-dose-comparison.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/charuakkra-2023-low-dose-cbct-image-dose-comparison.pdf
 pdf_filename: charuakkra-2023-low-dose-cbct-image-dose-comparison.pdf
 source_collection: external

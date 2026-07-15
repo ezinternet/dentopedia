@@ -6,7 +6,7 @@ date: 2021-07-17
 doi: 10.1016/j.ejmp.2021.07.007
 source: kaasalainen-2021-dental-cone-beam-ct-updated-review.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaasalainen-2021-dental-cone-beam-ct-updated-review.pdf
 pdf_filename: kaasalainen-2021-dental-cone-beam-ct-updated-review.pdf
 source_collection: external

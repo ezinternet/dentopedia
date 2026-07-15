@@ -6,7 +6,7 @@ date: 2024-04-01
 doi: null
 source: lee-2024-dental-dose-monitoring-system-establishment.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-dental-dose-monitoring-system-establishment.pdf
 pdf_filename: lee-2024-dental-dose-monitoring-system-establishment.pdf
 source_collection: external

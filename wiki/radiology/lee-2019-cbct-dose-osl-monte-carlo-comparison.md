@@ -6,7 +6,7 @@ date: 2019-07-05
 doi: 10.1371/journal.pone.0219103
 source: lee-2019-cbct-dose-osl-monte-carlo-comparison.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2019-cbct-dose-osl-monte-carlo-comparison.pdf
 pdf_filename: lee-2019-cbct-dose-osl-monte-carlo-comparison.pdf
 source_collection: external

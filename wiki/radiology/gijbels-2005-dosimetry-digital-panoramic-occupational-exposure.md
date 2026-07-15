@@ -7,7 +7,7 @@ doi: "10.1259/dmfr/65011036"
 pmid: "15897285"
 source: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 tags: [panoramic, occupational-dose, scatter, operator-protection]

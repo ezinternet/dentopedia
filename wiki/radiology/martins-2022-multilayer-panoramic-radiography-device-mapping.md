@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1259/dmfr.20210082
 source: martins-2022-multilayer-panoramic-radiography-device-mapping.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/martins-2022-multilayer-panoramic-radiography-device-mapping.pdf
 pdf_filename: martins-2022-multilayer-panoramic-radiography-device-mapping.pdf
 source_collection: external

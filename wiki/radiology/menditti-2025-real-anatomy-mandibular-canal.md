@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.21873/invivo.14088
 source: menditti-2025-real-anatomy-mandibular-canal.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "40877166"

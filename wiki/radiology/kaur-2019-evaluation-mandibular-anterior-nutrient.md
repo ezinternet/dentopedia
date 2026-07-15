@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.4103/tcmj.tcmj_43_18
 source: kaur-2019-evaluation-mandibular-anterior-nutrient.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "31007493"

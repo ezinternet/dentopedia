@@ -6,7 +6,7 @@ date: 2010-05-01
 doi: 10.1259/dmfr/66254780
 source: kuribayashi-2010-bifid-mandibular-canals-cone.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "20395465"

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jebdp.2022.101803
 source: baena-2022-cbct-diagnostic-performance-root-resorption.md
 category: [radiology]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/baena-2022-cbct-diagnostic-performance-root-resorption.pdf
 pdf_filename: baena-2022-cbct-diagnostic-performance-root-resorption.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2013-11-04
 doi: 10.5812/numonthly.15292
 source: abdar-esfahani-2013-mandibular-anterior-nutrient-canals.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "24719810"

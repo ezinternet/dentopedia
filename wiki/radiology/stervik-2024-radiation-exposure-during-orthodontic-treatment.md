@@ -6,7 +6,7 @@ date: 2024-05-15
 doi: 10.2340/aos.v83.40571
 source: stervik-2024-radiation-exposure-during-orthodontic-treatment.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "38745537"

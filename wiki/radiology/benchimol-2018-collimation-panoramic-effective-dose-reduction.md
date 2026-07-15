@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1259/dmfr.20180007
 source: benchimol-2018-collimation-panoramic-effective-dose-reduction.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/benchimol-2018-collimation-panoramic-effective-dose-reduction.pdf
 pdf_filename: benchimol-2018-collimation-panoramic-effective-dose-reduction.pdf
 source_collection: external

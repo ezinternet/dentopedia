@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.joen.2025.03.004
 source: brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment.md
 category: [radiology]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment.pdf
 pdf_filename: brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment.pdf
 source_collection: external

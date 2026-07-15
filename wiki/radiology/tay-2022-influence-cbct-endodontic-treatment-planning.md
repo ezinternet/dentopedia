@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jdent.2022.104353
 source: tay-2022-influence-cbct-endodontic-treatment-planning.md
 category: [radiology]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tay-2022-influence-cbct-endodontic-treatment-planning.pdf
 pdf_filename: tay-2022-influence-cbct-endodontic-treatment-planning.pdf
 source_collection: external

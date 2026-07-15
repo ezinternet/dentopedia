@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1259/dmfr.20150245
 source: makdissi-2016-effects-device-position-operators-radiation.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "26764582"

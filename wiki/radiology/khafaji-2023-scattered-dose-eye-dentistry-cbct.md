@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.7759/cureus.43113
 source: khafaji-2023-scattered-dose-eye-dentistry-cbct.md
 category: [radiology]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/khafaji-2023-scattered-dose-eye-dentistry-cbct.pdf
 pdf_filename: khafaji-2023-scattered-dose-eye-dentistry-cbct.pdf
 source_collection: external

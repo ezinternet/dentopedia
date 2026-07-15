@@ -6,7 +6,7 @@ date: 2024-04-01
 doi: null
 source: kang-2024-national-dental-radiological-dose-management.md
 category: [radiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kang-2024-national-dental-radiological-dose-management.pdf
 pdf_filename: kang-2024-national-dental-radiological-dose-management.pdf
 source_collection: external

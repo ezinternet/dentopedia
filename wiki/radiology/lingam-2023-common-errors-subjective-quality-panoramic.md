@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.4103/aam.aam_213_21
 source: lingam-2023-common-errors-subjective-quality-panoramic.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "36695222"

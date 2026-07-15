@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: 10.4103/0976-9668.127318
 source: kumar-2014-incidence-nutrient-canals-hypertensive.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "24678218"

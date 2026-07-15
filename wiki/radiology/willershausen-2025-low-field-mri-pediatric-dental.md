@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: 10.1097/RLI.0000000000001129
 source: willershausen-2025-low-field-mri-pediatric-dental.md
 category: [radiology]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/willershausen-2025-low-field-mri-pediatric-dental.pdf
 pdf_filename: willershausen-2025-low-field-mri-pediatric-dental.pdf
 source_collection: external

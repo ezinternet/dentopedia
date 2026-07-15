@@ -6,7 +6,7 @@ date: 2018-11-07
 doi: 10.1259/dmfr.20180305
 source: wamasing-2018-imaging-bifid-mandibular-canal.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "30346803"

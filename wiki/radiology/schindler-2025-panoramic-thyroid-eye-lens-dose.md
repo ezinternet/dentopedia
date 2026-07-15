@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1093/dmfr/twaf021
 source: schindler-2025-panoramic-thyroid-eye-lens-dose.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/schindler-2025-panoramic-thyroid-eye-lens-dose.pdf
 pdf_filename: schindler-2025-panoramic-thyroid-eye-lens-dose.pdf
 source_collection: external

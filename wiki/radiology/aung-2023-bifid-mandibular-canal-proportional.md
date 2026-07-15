@@ -6,7 +6,7 @@ date: 2023-03-06
 doi: 10.1155/2023/9939076
 source: aung-2023-bifid-mandibular-canal-proportional.md
 category: [radiology]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36923560"

@@ -7,7 +7,7 @@ doi: "10.1111/cdoe.12237"
 pmid: "27146959"
 source: kim-2016-occupational-radiation-procedures-doses-korean-dentists.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 tags: [occupational-dose, Korea, dentist, panoramic, lead-apron, dosimetry]

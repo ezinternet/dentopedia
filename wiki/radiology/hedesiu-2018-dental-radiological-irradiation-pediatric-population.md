@@ -7,7 +7,7 @@ doi: 10.1016/j.ejrad.2018.04.021
 pmid: "29803375"
 source: hedesiu-2018-dental-radiological-irradiation-pediatric-population.md
 category: [radiology]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/hedesiu-2018-dental-radiological-irradiation-pediatric-population.txt

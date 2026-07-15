@@ -6,7 +6,7 @@ date: 2022-05-01
 doi: 10.25122/jml-2022-0009
 source: hasan-2022-prevalence-nutrient-canals-mandibular.md
 category: [radiology]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "35815094"

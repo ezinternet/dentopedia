@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1590/0103-644020256319
 source: ruiz-2025-handheld-fixed-xray-image-quality-comparison.md
 category: [radiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41172496"
