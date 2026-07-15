@@ -6,7 +6,7 @@ date: 2024-12-30
 doi: 10.1038/s41598-024-83803-8
 source: son-2024-qlf-validity-diagnosing-cracked-teeth.md
 category: cracked-tooth
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/son-2024-qlf-validity-diagnosing-cracked-teeth.txt
 pdf_filename: son-2024-qlf-validity-diagnosing-cracked-teeth.txt
 source_collection: pubmed-text

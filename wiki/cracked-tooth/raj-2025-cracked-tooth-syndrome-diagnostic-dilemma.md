@@ -6,7 +6,7 @@ date: 2025-06-24
 doi: 10.3389/froh.2025.1572665
 journal: Frontiers in Oral Health 6:1572665
 source: raj-2025-cracked-tooth-syndrome-diagnostic-dilemma.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [cracked-tooth]
 pdf_path: /Users/oracleneo/llm-wiki/papers/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma.pdf
 pdf_filename: raj-2025-cracked-tooth-syndrome-diagnostic-dilemma.pdf

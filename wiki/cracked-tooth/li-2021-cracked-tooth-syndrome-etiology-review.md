@@ -6,7 +6,7 @@ date: 2021-12-15
 doi: 10.1155/2021/3788660
 journal: Pain Research and Management 2021:3788660
 source: li-2021-cracked-tooth-syndrome-etiology-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [cracked-tooth]
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2021-cracked-tooth-syndrome-etiology-review.pdf
 pdf_filename: li-2021-cracked-tooth-syndrome-etiology-review.pdf

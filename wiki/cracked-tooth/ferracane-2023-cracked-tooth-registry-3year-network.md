@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: PMC-NIHMS-1946110
 journal: National Dental PBRN publication (PMC archive NIHMS-1946110)
 source: ferracane-2023-cracked-tooth-registry-3year-network.md
-confidence: prospective
+evidence_level: prospective
 category: [cracked-tooth]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ferracane-2023-cracked-tooth-registry-3year-network.pdf
 pdf_filename: ferracane-2023-cracked-tooth-registry-3year-network.pdf

@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: N/A
 source: wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct.md
 category: [cracked-tooth]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40275667"

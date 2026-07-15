@@ -6,7 +6,7 @@ date: 2025-06-01
 doi: 10.1002/cre2.70138
 source: kindaro-2025-diagnostic-accuracy-detect-cracked-teeth.md
 category: cracked-tooth
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kindaro-2025-diagnostic-accuracy-detect-cracked-teeth.txt
 pdf_filename: kindaro-2025-diagnostic-accuracy-detect-cracked-teeth.txt
 source_collection: pubmed-text

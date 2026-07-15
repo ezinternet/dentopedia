@@ -6,7 +6,7 @@ date: 2025-07-11
 doi: 10.1016/j.joen.2025.07.005
 source: fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival.md
 category: [cracked-tooth]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40653156"

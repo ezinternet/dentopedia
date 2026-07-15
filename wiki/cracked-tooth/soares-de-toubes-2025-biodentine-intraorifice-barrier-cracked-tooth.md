@@ -6,7 +6,7 @@ date: 2025-07-07
 doi: 10.22037/iej.v20i1.48169
 source: soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth.md
 category: [cracked-tooth]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth.txt
 pdf_filename: soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth.txt
 source_collection: pubmed-text

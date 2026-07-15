@@ -6,7 +6,7 @@ date: 2024-01-24
 doi: 10.1016/j.jdent.2024.104843
 source: zhang-2024-cracked-teeth-treatment-outcomes-sr-ma.md
 category: [cracked-tooth]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38272437"

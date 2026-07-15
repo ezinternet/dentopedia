@@ -6,7 +6,7 @@ date: 2025-06-26
 doi: 10.1016/j.joen.2025.06.013
 source: gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp.md
 category: [cracked-tooth]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40581327"

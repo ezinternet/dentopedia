@@ -8,7 +8,7 @@ pmid: "41660023"
 pmcid: "PMC12880780"
 journal: Journal of Conservative Dentistry and Endodontics 29(1):11-19
 source: kaur-2026-cracked-tooth-syndrome-umbrella-review.md
-confidence: sr
+evidence_level: sr
 category: [cracked-tooth]
 source_collection: pubmed-text
 full_text: true

@@ -6,7 +6,7 @@ date: 2025-04-24
 doi: 10.1111/adj.13075
 source: renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.md
 category: cracked-tooth
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.txt
 pdf_filename: renner-2025-cracks-posterior-teeth-symptoms-cross-sectional.txt
 source_collection: pubmed-text

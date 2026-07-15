@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-024-05122-8
 source: liu-2025-restorative-design-materials-stress-cracked-teeth-fea.md
 category: [cracked-tooth]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2025-restorative-design-materials-stress-cracked-teeth-fea.pdf
 pdf_filename: liu-2025-restorative-design-materials-stress-cracked-teeth-fea.pdf
 source_collection: external

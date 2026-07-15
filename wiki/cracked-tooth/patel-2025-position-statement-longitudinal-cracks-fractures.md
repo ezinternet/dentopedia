@@ -6,7 +6,7 @@ date: 2025-01-22
 doi: 10.1111/iej.14186
 source: patel-2025-position-statement-longitudinal-cracks-fractures.md
 category: cracked-tooth
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2025-position-statement-longitudinal-cracks-fractures.txt
 pdf_filename: patel-2025-position-statement-longitudinal-cracks-fractures.txt
 source_collection: pubmed-text
