@@ -6,7 +6,7 @@ date: 2022-02-19
 doi: 10.1111/odi.14172
 source: memon-2022-aetiology-associations-halitosis-systematic.md
 category: [halitosis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/memon-2022-aetiology-associations-halitosis-systematic.pdf
 pdf_filename: memon-2022-aetiology-associations-halitosis-systematic.pdf
 source_collection: external

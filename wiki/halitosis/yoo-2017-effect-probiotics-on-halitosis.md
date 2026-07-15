@@ -6,7 +6,7 @@ date: 2017-11-22
 doi: 10.1007/s12602-017-9351-1
 source: yoo-2017-effect-probiotics-on-halitosis.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yoo-2017-effect-probiotics-on-halitosis.pdf
 pdf_filename: yoo-2017-effect-probiotics-on-halitosis.pdf
 source_collection: external

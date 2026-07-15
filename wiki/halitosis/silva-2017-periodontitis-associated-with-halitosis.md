@@ -6,7 +6,7 @@ date: 2017-07-27
 doi: 10.1111/jcpe.12786
 source: silva-2017-periodontitis-associated-with-halitosis.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2017-periodontitis-associated-with-halitosis.pdf
 pdf_filename: silva-2017-periodontitis-associated-with-halitosis.pdf
 source_collection: external

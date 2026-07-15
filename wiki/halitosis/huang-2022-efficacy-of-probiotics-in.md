@@ -6,7 +6,7 @@ date: 2022-12-20
 doi: 10.1136/bmjopen-2022-060753
 source: huang-2022-efficacy-of-probiotics-in.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/huang-2022-efficacy-of-probiotics-in-the.pdf
 pdf_filename: huang-2022-efficacy-of-probiotics-in-the.pdf
 source_collection: external

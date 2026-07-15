@@ -6,7 +6,7 @@ date: 2023-03-14
 doi: 10.3390/medicina59030564
 source: briceag-2023-emotional-social-impact-halitosis.md
 category: [halitosis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/briceag-2023-emotional-social-impact-halitosis.pdf
 pdf_filename: briceag-2023-emotional-social-impact-halitosis.pdf
 source_collection: external

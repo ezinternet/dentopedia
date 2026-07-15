@@ -6,7 +6,7 @@ date: 2021-03-04
 doi: 10.1111/odi.13823
 source: schertel-cassiano-2023-halitosis-chemosensory-disorders-sr.md
 category: [halitosis]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/schertel-cassiano-2023-halitosis-chemosensory-disorders-sr.pdf
 pdf_filename: schertel-cassiano-2023-halitosis-chemosensory-disorders-sr.pdf
 source_collection: external

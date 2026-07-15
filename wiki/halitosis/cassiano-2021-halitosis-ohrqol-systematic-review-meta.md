@@ -6,7 +6,7 @@ date: 2021-08-18
 doi: 10.1111/jcpe.13530
 source: cassiano-2021-halitosis-ohrqol-systematic-review-meta.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cassiano-2021-halitosis-ohrqol-systematic-review-meta.pdf
 pdf_filename: cassiano-2021-halitosis-ohrqol-systematic-review-meta.pdf
 source_collection: external

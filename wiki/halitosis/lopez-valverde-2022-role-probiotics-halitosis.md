@@ -6,7 +6,7 @@ date: 2022-01-21
 doi: 10.3389/fnut.2021.787908
 source: lopez-valverde-2022-role-probiotics-halitosis.md
 category: [halitosis]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-valverde-2022-role-probiotics-halitosis.pdf
 pdf_filename: lopez-valverde-2022-role-probiotics-halitosis.pdf
 source_collection: external
