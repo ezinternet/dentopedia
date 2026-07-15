@@ -103,7 +103,7 @@ The concrete list of `wiki/{category}/` folders is **not** duplicated here — i
 
 The full ingest pipeline moved to **`INGEST.md`**. In brief: *"Add this paper to the wiki: /path/to/paper.pdf"* or *"인제스트 해줘"* (parallel subagents, one per pending paper). The pipeline is Step 0 (dedup + retraction gate) → 1 (copy PDF + extract, with PubMed-text / abstract-only 분기) → 2 (`sources/{stem}.md`) → 3 (`wiki/{category}/{stem}.md`) → 4 (`index.md`) → 5 (qmd re-index). Field definitions (`evidence_level:`, `superseded_by:`, `relations:`) and the file-naming convention are all in `INGEST.md`.
 
-> **Field rename (2026-07-15):** the wiki page's study-type field is `evidence_level:` (was `confidence:`), to stop it colliding with userPreferences' 세션 확신도 2태그 ([확인]/[미검증]). Two different axes: `evidence_level:` = 논문 연구설계 강도; [확인]/[미검증] = 이번 세션 도구 검증 여부. Forward-only; existing pages' `confidence:` grandfathered. Definition + vocabulary in `INGEST.md`.
+> **Field rename (2026-07-15):** the wiki page's study-type field is `evidence_level:` (was `confidence:`), to stop it colliding with userPreferences' 세션 확신도 2태그 ([확인]/[미검증]). Two different axes: `evidence_level:` = 논문 연구설계 강도; [확인]/[미검증] = 이번 세션 도구 검증 여부. Forward-only; existing pages' `confidence:` grandfathered — all lint/audit/build scripts recognize both keys (`evidence_level` wins). Definition + vocabulary (the SSOT) in `INGEST.md`; the bulk `confidence:`→`evidence_level:` migration of existing pages remains a separate agenda.
 
 ---
 
