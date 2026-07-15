@@ -6,7 +6,7 @@ date: 2015-04-08
 doi: 10.1007/s00276-015-1473-0
 source: ananda-2015-anatomical-considerations-first-maxillary-molar.md
 category: sinus-lift/lateral
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ananda-2015-anatomical-considerations-first-maxillary-molar.pdf
 pdf_filename: ananda-2015-anatomical-considerations-first-maxillary-molar.pdf
 source_collection: external

@@ -8,7 +8,7 @@ pmid: "28101784"
 pmcid: "PMC5243237"
 source: maska-2017-implant-grafting-success-mucosal-thickening-sinus.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 tags: [mucosal-thickening, implant-survival, sinus-lift, periodontal-disease, CBCT, thickening-index]
 relations:

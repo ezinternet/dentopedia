@@ -6,7 +6,7 @@ date: 2024-06-03
 doi: 10.3390/jcm13113293
 journal: Journal of Clinical Medicine 13(11):3293
 source: jadach-2024-croco-eye-mrc-sinus-lift-cohort.md
-confidence: retrospective
+evidence_level: retrospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jadach-2024-croco-eye-mrc-sinus-lift-cohort.pdf
 pdf_filename: jadach-2024-croco-eye-mrc-sinus-lift-cohort.pdf

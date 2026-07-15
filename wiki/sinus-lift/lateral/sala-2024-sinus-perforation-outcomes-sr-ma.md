@@ -6,7 +6,7 @@ date: 2024-02-22
 doi: 10.3390/jcm13051253
 source: sala-2024-sinus-perforation-outcomes-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sala-2024-sinus-perforation-outcomes-sr-ma.pdf
 pdf_filename: sala-2024-sinus-perforation-outcomes-sr-ma.pdf
 source_collection: external

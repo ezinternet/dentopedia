@@ -7,7 +7,7 @@ doi: 10.11607/jomi.10506
 journal: International Journal of Oral & Maxillofacial Implants 39(4):615-624
 source: ozbay-2024-enamel-matrix-derivative-transcrestal-sinus-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "38788135"

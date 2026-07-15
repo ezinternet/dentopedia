@@ -6,7 +6,7 @@ date: 2023-09-14
 doi: 10.1155/2023/6968487
 journal: Case Reports in Dentistry 2023:6968487
 source: berberi-2023-mucous-retention-cyst-sinus-lift.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/berberi-2023-mucous-retention-cyst-sinus-lift.pdf
 pdf_filename: berberi-2023-mucous-retention-cyst-sinus-lift.pdf

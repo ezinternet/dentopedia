@@ -8,7 +8,7 @@ pmid: "37893468"
 pmcid: "PMC10608619"
 source: kim-2023-sinus-mucosal-thickness-change-otolaryngologists.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/kim-2023-sinus-mucosal-thickness-change-otolaryngologists.txt
 text_filename: kim-2023-sinus-mucosal-thickness-change-otolaryngologists.txt

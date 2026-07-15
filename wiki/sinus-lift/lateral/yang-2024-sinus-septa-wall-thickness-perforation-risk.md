@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1371/journal.pone.0308166
 journal: PLOS ONE 2024;19(8):e0308166
 source: yang-2024-sinus-septa-wall-thickness-perforation-risk.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2024-sinus-septa-wall-thickness-perforation-risk.pdf
 pdf_filename: yang-2024-sinus-septa-wall-thickness-perforation-risk.pdf

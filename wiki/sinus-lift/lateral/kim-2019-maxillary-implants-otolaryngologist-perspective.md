@@ -8,7 +8,7 @@ pmid: "31886027"
 pmcid: "PMC6920034"
 source: kim-2019-maxillary-implants-otolaryngologist-perspective.md
 category: [sinus-lift/lateral]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/kim-2019-maxillary-implants-otolaryngologist-perspective.txt
 text_filename: kim-2019-maxillary-implants-otolaryngologist-perspective.txt

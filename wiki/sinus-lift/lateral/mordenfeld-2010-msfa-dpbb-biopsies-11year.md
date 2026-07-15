@@ -6,7 +6,7 @@ date: 2010-08-03
 doi: 10.1111/j.1600-0501.2010.01939.x
 source: mordenfeld-2010-msfa-dpbb-biopsies-11year.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mordenfeld-2010-msfa-dpbb-biopsies-11year.pdf
 pdf_filename: mordenfeld-2010-msfa-dpbb-biopsies-11year.pdf
 source_collection: external

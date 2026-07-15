@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/cid.13403
 journal: Clinical Implant Dentistry and Related Research 2025;27:e13403
 source: sirinirund-2025-minimally-invasive-sinus-augmentation-review.md
-confidence: sr
+evidence_level: sr
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sirinirund-2025-minimally-invasive-sinus-augmentation-review.pdf
 pdf_filename: sirinirund-2025-minimally-invasive-sinus-augmentation-review.pdf

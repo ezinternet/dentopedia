@@ -6,7 +6,7 @@ date: 2018-11-13
 doi: 10.11607/jomi.6770
 source: huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter.md
 category: [sinus-lift/transcrestal]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter.pdf
 pdf_filename: huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter.pdf
 source_collection: external

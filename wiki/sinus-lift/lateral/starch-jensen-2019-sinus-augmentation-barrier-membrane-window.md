@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.5037/jomr.2019.10401
 journal: Journal of Oral & Maxillofacial Research 2019;10(4):e1
 source: starch-jensen-2019-sinus-augmentation-barrier-membrane-window.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/starch-jensen-2019-sinus-augmentation-barrier-membrane-window.pdf
 pdf_filename: starch-jensen-2019-sinus-augmentation-barrier-membrane-window.pdf

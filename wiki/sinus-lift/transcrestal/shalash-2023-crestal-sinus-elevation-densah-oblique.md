@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1186/s40729-023-00510-1
 source: shalash-2023-crestal-sinus-elevation-densah-oblique.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 pdf_filename: shalash-2023-crestal-sinus-elevation-densah-oblique.pdf
 source_collection: external

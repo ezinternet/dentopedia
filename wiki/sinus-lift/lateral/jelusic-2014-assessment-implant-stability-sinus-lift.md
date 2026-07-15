@@ -6,7 +6,7 @@ date: 2014-03-01
 doi: 10.15644/asc48/1/2
 journal: Acta Stomatologica Croatica 48(1):25-32
 source: jelusic-2014-assessment-implant-stability-sinus-lift.md
-confidence: prospective
+evidence_level: prospective
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jelusic-2014-assessment-implant-stability-sinus-lift.pdf
 pdf_filename: jelusic-2014-assessment-implant-stability-sinus-lift.pdf

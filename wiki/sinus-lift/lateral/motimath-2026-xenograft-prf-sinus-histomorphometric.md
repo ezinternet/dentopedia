@@ -6,7 +6,7 @@ date: 2026-02-28
 doi: 10.6026/973206300220912
 source: motimath-2026-xenograft-prf-sinus-histomorphometric.md
 category: [sinus-lift/lateral]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/motimath-2026-xenograft-prf-sinus-histomorphometric.pdf
 pdf_filename: motimath-2026-xenograft-prf-sinus-histomorphometric.pdf
 source_collection: external

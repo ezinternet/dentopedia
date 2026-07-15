@@ -6,7 +6,7 @@ date: 2017-06-01
 doi: "10.1902/jop.2017.160665"
 source: duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma.pdf
 pdf_filename: duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma.pdf
 source_collection: external

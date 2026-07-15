@@ -8,7 +8,7 @@ pmid: "35919918"
 pmcid: "PMC9327483"
 source: salari-2021-maxillary-sinus-pathologic-findings-cbct-implant.md
 category: [sinus-lift/pseudocyst]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 tags: [sinus-pathology, mucosal-thickening, CBCT, prevalence, implant-planning]
 relations:

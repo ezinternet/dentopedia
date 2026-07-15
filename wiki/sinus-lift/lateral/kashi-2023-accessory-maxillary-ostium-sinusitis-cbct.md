@@ -6,7 +6,7 @@ date: 2023-11-29
 doi: 10.1007/s12070-023-04376-y
 source: kashi-2023-accessory-maxillary-ostium-sinusitis-cbct.md
 category: [sinus-lift/lateral]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
 pmid: "38566626"

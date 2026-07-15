@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: ""
 source: el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.pdf
 pdf_filename: el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.pdf
 source_collection: external

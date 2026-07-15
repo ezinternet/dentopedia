@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07229-y
 journal: BMC Oral Health 25:1830
 source: fu-2025-antral-pseudocyst-management-lsfe.md
-confidence: retrospective
+evidence_level: retrospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2025-antral-pseudocyst-management-lsfe.pdf
 pdf_filename: fu-2025-antral-pseudocyst-management-lsfe.pdf

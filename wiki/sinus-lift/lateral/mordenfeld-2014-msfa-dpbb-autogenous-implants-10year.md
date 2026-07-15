@@ -6,7 +6,7 @@ date: 2012-10-15
 doi: 10.1111/cid.12008
 source: mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.pdf
 pdf_filename: mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.pdf
 source_collection: external

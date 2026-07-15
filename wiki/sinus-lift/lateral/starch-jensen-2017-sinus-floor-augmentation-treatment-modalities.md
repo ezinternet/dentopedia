@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.5037/jomr.2017.8303
 journal: Journal of Oral & Maxillofacial Research 2017;8(3):e3
 source: starch-jensen-2017-sinus-floor-augmentation-treatment-modalities.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities.pdf
 pdf_filename: starch-jensen-2017-sinus-floor-augmentation-treatment-modalities.pdf

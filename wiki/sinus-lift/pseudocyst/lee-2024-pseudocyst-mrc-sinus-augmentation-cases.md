@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.1097/SCS.0000000000010048
 journal: Journal of Craniofacial Surgery 35(2):e312-e316
 source: lee-2024-pseudocyst-mrc-sinus-augmentation-cases.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-pseudocyst-mrc-sinus-augmentation-cases.pdf
 pdf_filename: lee-2024-pseudocyst-mrc-sinus-augmentation-cases.pdf

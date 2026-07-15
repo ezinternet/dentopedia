@@ -6,7 +6,7 @@ date: 2023-10-02
 doi: 10.1186/s40729-023-00502-1
 source: li-2023-dbbm-particle-size-sinus-floor-elevation.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "37782429"

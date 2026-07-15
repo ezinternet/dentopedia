@@ -7,7 +7,7 @@ doi: 10.1016/j.bjoms.2024.05.006
 journal: British Journal of Oral & Maxillofacial Surgery 62(8):685-703
 source: kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39098575"

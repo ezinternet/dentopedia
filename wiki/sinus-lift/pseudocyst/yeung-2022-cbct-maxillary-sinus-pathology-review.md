@@ -6,7 +6,7 @@ date: 2022-11-16
 doi: 10.3390/diagnostics12112819
 journal: Diagnostics 12(11):2819
 source: yeung-2022-cbct-maxillary-sinus-pathology-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yeung-2022-cbct-maxillary-sinus-pathology-review.pdf
 pdf_filename: yeung-2022-cbct-maxillary-sinus-pathology-review.pdf

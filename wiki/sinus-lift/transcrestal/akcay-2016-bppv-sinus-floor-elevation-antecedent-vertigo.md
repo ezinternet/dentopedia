@@ -6,7 +6,7 @@ date: 2016-04-02
 doi: 10.1007/s12663-016-0891-9
 source: akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo.md
 category: [sinus-lift/transcrestal]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "27408469"

@@ -8,7 +8,7 @@ pmid: "23476856"
 pmcid: "PMC3580910"
 source: shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case.md
 category: [sinus-lift/pseudocyst]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 tags: [antrolith, sinus-stone, sinusitis, oroantral-fistula, Caldwell-Luc, ESS]
 relations:

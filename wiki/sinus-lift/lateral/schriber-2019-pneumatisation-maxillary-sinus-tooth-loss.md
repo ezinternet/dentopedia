@@ -6,7 +6,7 @@ date: 2018-07-17
 doi: 10.1007/s00784-018-2552-5
 source: schriber-2019-pneumatisation-maxillary-sinus-tooth-loss.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss.pdf
 pdf_filename: schriber-2019-pneumatisation-maxillary-sinus-tooth-loss.pdf
 source_collection: external

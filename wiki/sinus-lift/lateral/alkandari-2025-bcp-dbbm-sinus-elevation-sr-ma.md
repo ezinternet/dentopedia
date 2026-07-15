@@ -6,7 +6,7 @@ date: 2025-07-09
 doi: 10.7759/cureus.87573
 source: alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma.pdf
 pdf_filename: alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma.pdf
 source_collection: external

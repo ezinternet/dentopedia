@@ -6,7 +6,7 @@ date: 2016-06-15
 doi: 10.11607/prd.2525
 source: monje-2016-sinus-membrane-perforation-reamer-drilling.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/monje-2016-sinus-membrane-perforation-reamer-drilling.pdf
 pdf_filename: monje-2016-sinus-membrane-perforation-reamer-drilling.pdf
 source_collection: external

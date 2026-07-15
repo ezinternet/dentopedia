@@ -6,7 +6,7 @@ date: 2024-05-27
 doi: 10.1007/s00784-024-05736-w
 source: sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct.pdf
 pdf_filename: sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct.pdf
 source_collection: external

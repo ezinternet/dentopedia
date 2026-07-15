@@ -6,7 +6,7 @@ date: 2025-03-01
 doi: "n/a (P R Health Sci J 2025;44(1):54-62)"
 source: aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.pdf
 pdf_filename: aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma.pdf
 source_collection: external

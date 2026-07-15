@@ -6,7 +6,7 @@ date: 2019-05-26
 doi: 10.12998/wjcc.v7.i10.1234
 source: mudalal-2019-endoscopic-sinus-lifting-immediate-implant.md
 category: sinus-lift/transcrestal
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/mudalal-2019-endoscopic-sinus-lifting-immediate-implant.pdf
 pdf_filename: mudalal-2019-endoscopic-sinus-lifting-immediate-implant.pdf
 source_collection: external

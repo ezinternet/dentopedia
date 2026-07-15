@@ -8,7 +8,7 @@ pmid: "32937837"
 pmcid: "PMC7559255"
 source: lee-2020-msmt-mod-ratio-sinus-augmentation-risk.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/lee-2020-msmt-mod-ratio-sinus-augmentation-risk.txt
 text_filename: lee-2020-msmt-mod-ratio-sinus-augmentation-risk.txt

@@ -6,7 +6,7 @@ date: 2021-07-21
 doi: 10.3390/dj9080082
 source: kato-2021-sinus-mucosa-ostium-involvement-septa.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "34435994"

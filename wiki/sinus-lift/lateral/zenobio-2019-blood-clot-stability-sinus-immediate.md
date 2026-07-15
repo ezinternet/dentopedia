@@ -6,7 +6,7 @@ date: 2019-11-01
 doi: 10.1016/j.jcms.2018.10.004
 source: zenobio-2019-blood-clot-stability-sinus-immediate.md
 category: sinus-lift/lateral
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zenobio-2019-blood-clot-stability-sinus-immediate.pdf
 pdf_filename: zenobio-2019-blood-clot-stability-sinus-immediate.pdf
 source_collection: external

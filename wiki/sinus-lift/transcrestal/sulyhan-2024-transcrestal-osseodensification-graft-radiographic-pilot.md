@@ -6,7 +6,7 @@ date: 2024-05-04
 doi: "10.3390/biomimetics9050276"
 source: sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.pdf
 pdf_filename: sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.pdf
 source_collection: external

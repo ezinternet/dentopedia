@@ -6,7 +6,7 @@ date: 2022-05-02
 doi: "10.1111/clr.13959"
 source: stacchi-2022-transcrestal-sinus-complications-low-rbh.md
 category: [sinus-lift/transcrestal]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/stacchi-2022-transcrestal-sinus-complications-low-rbh.pdf
 pdf_filename: stacchi-2022-transcrestal-sinus-complications-low-rbh.pdf
 source_collection: external

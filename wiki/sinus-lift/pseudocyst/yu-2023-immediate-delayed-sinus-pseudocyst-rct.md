@@ -6,7 +6,7 @@ date: 2023-05-22
 doi: 10.1111/cid.13225
 journal: Clinical Implant Dentistry and Related Research 25(5):967-973
 source: yu-2023-immediate-delayed-sinus-pseudocyst-rct.md
-confidence: rct
+evidence_level: rct
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2023-immediate-delayed-sinus-pseudocyst-rct.pdf
 pdf_filename: yu-2023-immediate-delayed-sinus-pseudocyst-rct.pdf

@@ -6,7 +6,7 @@ date: 2017-03-22
 doi: 10.1007/s10006-017-0611-8
 source: kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.pdf
 pdf_filename: kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.pdf
 source_collection: external

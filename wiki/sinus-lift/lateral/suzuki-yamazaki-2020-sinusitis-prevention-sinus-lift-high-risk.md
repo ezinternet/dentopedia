@@ -6,7 +6,7 @@ date: 2020-08-07
 doi: 10.1155/2020/6869805
 source: suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk.pdf
 pdf_filename: suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk.pdf
 source_collection: external

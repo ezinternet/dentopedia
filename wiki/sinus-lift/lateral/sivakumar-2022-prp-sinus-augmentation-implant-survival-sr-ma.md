@@ -6,7 +6,7 @@ date: 2022-11-24
 doi: 10.1016/j.jobcr.2022.11.002
 source: sivakumar-2022-prp-sinus-augmentation-implant-survival-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "36465890"
 pmcid: "PMC9712696"

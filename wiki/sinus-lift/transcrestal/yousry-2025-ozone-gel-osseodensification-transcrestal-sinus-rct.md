@@ -6,7 +6,7 @@ date: 2025-04-14
 doi: "10.1007/s10006-025-01367-x"
 source: yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct.pdf
 pdf_filename: yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct.pdf
 source_collection: external

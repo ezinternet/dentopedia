@@ -6,7 +6,7 @@ date: 2012-12-18
 doi: 10.1902/cap.2012.110025
 source: mccrea-2012-trans-socket-sinus-floor-elevation.md
 category: sinus-lift/transcrestal
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/mccrea-2012-trans-socket-sinus-floor-elevation.pdf
 pdf_filename: mccrea-2012-trans-socket-sinus-floor-elevation.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: "10.4103/jips.jips_400_20"
 source: chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.pdf
 pdf_filename: chaware-2021-short-vs-long-implant-sinus-graft-sr-ma.pdf
 source_collection: external

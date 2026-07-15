@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: "10.1111/jcpe.13954"
 source: thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct.md
 category: [sinus-lift/lateral]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct.pdf
 pdf_filename: thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct.pdf
 source_collection: external

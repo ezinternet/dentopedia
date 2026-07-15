@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: ""
 source: ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.pdf
 pdf_filename: ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.pdf
 source_collection: external

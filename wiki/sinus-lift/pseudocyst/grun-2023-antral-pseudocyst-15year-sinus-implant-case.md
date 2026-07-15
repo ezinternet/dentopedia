@@ -6,7 +6,7 @@ date: 2023-08-09
 doi: 10.1016/j.ijscr.2023.108653
 journal: International Journal of Surgery Case Reports 110:108653
 source: grun-2023-antral-pseudocyst-15year-sinus-implant-case.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/grun-2023-antral-pseudocyst-15year-sinus-implant-case.pdf
 pdf_filename: grun-2023-antral-pseudocyst-15year-sinus-implant-case.pdf

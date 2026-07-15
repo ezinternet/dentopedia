@@ -6,7 +6,7 @@ date: 2022-03-01
 doi: 10.4103/jisp.jisp_494_20
 source: nowzari-2022-migration-bovine-derived-xenograft-particles.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "35321292"

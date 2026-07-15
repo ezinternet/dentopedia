@@ -6,7 +6,7 @@ date: 2025-09-03
 doi: 10.1186/s12903-025-06902-6
 source: ye-2025-rrh-sinus-membrane-perforation-sr-ma.md
 category: sinus-lift/lateral
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ye-2025-rrh-sinus-membrane-perforation-sr-ma.pdf
 pdf_filename: ye-2025-rrh-sinus-membrane-perforation-sr-ma.pdf
 source_collection: external

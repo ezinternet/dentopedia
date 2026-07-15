@@ -6,7 +6,7 @@ date: 2023-06-12
 doi: 10.3390/medicina59061132
 source: park-2023-bone-height-change-sinus-elevation.md
 category: sinus-lift/lateral
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2023-bone-height-change-sinus-elevation.pdf
 pdf_filename: park-2023-bone-height-change-sinus-elevation.pdf
 source_collection: external

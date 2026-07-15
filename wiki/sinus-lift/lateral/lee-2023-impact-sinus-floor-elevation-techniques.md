@@ -6,7 +6,7 @@ date: 2023-08-24
 doi: 10.11607/jomi.10048
 source: lee-2023-impact-sinus-floor-elevation-techniques.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-impact-sinus-floor-elevation-techniques.pdf
 pdf_filename: lee-2023-impact-sinus-floor-elevation-techniques.pdf
 source_collection: external

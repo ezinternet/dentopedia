@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-04964-6
 source: samir-2024-osseodensification-piezoelectric-internal-sinus-elevation.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation.pdf
 pdf_filename: samir-2024-osseodensification-piezoelectric-internal-sinus-elevation.pdf
 source_collection: external

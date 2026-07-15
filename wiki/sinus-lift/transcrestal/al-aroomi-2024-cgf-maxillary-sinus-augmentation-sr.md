@@ -6,7 +6,7 @@ date: 2024-10-22
 doi: "10.1186/s12903-024-04952-w"
 source: al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr.md
 category: [sinus-lift/transcrestal]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr.pdf
 pdf_filename: al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-08-26
 doi: 10.1111/cid.13368
 source: mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.md
 category: [sinus-lift/transcrestal]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.pdf
 pdf_filename: mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.pdf
 source_collection: external

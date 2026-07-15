@@ -6,7 +6,7 @@ date: 2025-12-19
 doi: 10.7759/cureus.99624
 journal: Cureus 17(12):e99624
 source: silva-2025-sinus-lift-mrc-drainage-6year.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2025-sinus-lift-mrc-drainage-6year.pdf
 pdf_filename: silva-2025-sinus-lift-mrc-drainage-6year.pdf

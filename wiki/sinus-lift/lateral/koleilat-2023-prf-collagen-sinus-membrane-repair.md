@@ -6,7 +6,7 @@ date: 2023-03-17
 doi: 10.3390/dj11030084
 source: koleilat-2023-prf-collagen-sinus-membrane-repair.md
 category: sinus-lift/lateral
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/koleilat-2023-prf-collagen-sinus-membrane-repair.pdf
 pdf_filename: koleilat-2023-prf-collagen-sinus-membrane-repair.pdf
 source_collection: external

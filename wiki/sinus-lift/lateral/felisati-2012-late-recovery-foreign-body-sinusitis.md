@@ -6,7 +6,7 @@ date: 2012-12-12
 doi: 10.1136/bcr-2012-007434
 source: felisati-2012-late-recovery-foreign-body-sinusitis.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "23234824"

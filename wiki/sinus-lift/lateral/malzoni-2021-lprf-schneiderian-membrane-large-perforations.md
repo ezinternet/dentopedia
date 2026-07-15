@@ -6,7 +6,7 @@ date: 2020-07-13
 doi: 10.1563/aaid-joi-D-20-00044
 source: malzoni-2021-lprf-schneiderian-membrane-large-perforations.md
 category: sinus-lift/lateral
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/malzoni-2021-lprf-schneiderian-membrane-large-perforations.pdf
 pdf_filename: malzoni-2021-lprf-schneiderian-membrane-large-perforations.pdf
 source_collection: external

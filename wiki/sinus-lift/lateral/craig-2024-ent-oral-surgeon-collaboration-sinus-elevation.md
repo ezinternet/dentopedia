@@ -8,7 +8,7 @@ pmid: "39187918"
 pmcid: "PMC11660528"
 source: craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.md
 category: [sinus-lift/lateral]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 tags: [ENT-collaboration, sinus-elevation, OMC, sinusitis, contraindication, mucosal-thickening, implant-planning]
 relations:

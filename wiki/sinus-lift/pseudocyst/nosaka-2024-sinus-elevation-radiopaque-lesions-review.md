@@ -6,7 +6,7 @@ date: 2024-01-06
 doi: 10.3390/jcm13020332
 journal: Journal of Clinical Medicine 13(2):332
 source: nosaka-2024-sinus-elevation-radiopaque-lesions-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nosaka-2024-sinus-elevation-radiopaque-lesions-review.pdf
 pdf_filename: nosaka-2024-sinus-elevation-radiopaque-lesions-review.pdf

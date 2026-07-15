@@ -6,7 +6,7 @@ date: 2023-01-18
 doi: "10.3390/jpm13020169"
 source: mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma.pdf
 pdf_filename: mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma.pdf
 source_collection: external

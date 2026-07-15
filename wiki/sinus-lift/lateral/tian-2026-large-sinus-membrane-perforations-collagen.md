@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.11607/prd.7395
 source: tian-2026-large-sinus-membrane-perforations-collagen.md
 category: sinus-lift/lateral
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/tian-2026-large-sinus-membrane-perforations-collagen.pdf
 pdf_filename: tian-2026-large-sinus-membrane-perforations-collagen.pdf
 source_collection: external

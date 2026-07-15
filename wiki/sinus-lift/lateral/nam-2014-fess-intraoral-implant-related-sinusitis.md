@@ -8,7 +8,7 @@ pmid: "24868506"
 pmcid: "PMC4028795"
 source: nam-2014-fess-intraoral-implant-related-sinusitis.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/nam-2014-fess-intraoral-implant-related-sinusitis.txt
 text_filename: nam-2014-fess-intraoral-implant-related-sinusitis.txt

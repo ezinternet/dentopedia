@@ -8,7 +8,7 @@ pmid: "40410799"
 pmcid: "PMC12103008"
 source: kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence.md
 category: [sinus-lift/pseudocyst]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 tags: [sinus-pathology, mucosal-thickening, CBCT, prevalence, odontogenic, implant-planning]
 relations:

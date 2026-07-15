@@ -6,7 +6,7 @@ date: 2025-03-14
 doi: 10.1186/s40729-025-00615-9
 source: cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.md
 category: [sinus-lift/transcrestal]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.pdf
 pdf_filename: cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.pdf
 source_collection: external

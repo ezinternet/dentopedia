@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/cid.13399
 source: gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.md
 category: [sinus-lift/transcrestal]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.pdf
 pdf_filename: gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.pdf
 source_collection: external

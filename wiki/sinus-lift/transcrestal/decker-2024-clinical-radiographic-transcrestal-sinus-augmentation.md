@@ -6,7 +6,7 @@ date: 2024-08-24
 doi: 10.1111/cid.13389
 journal: Clinical Implant Dentistry and Related Research 26(6):1338-1353
 source: decker-2024-clinical-radiographic-transcrestal-sinus-augmentation.md
-confidence: sr
+evidence_level: sr
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation.pdf
 pdf_filename: decker-2024-clinical-radiographic-transcrestal-sinus-augmentation.pdf

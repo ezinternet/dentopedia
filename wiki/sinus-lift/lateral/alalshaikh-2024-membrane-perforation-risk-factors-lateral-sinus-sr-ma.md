@@ -6,7 +6,7 @@ date: 2024-12-18
 doi: 10.1016/j.oooo.2024.12.008
 source: alalshaikh-2024-membrane-perforation-risk-factors-lateral-sinus-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39955221"

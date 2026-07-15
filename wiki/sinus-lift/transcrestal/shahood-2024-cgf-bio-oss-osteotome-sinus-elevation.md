@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-05320-4
 source: shahood-2024-cgf-bio-oss-osteotome-sinus-elevation.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation.pdf
 pdf_filename: shahood-2024-cgf-bio-oss-osteotome-sinus-elevation.pdf
 source_collection: external

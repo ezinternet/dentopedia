@@ -6,7 +6,7 @@ date: 2023-11-24
 doi: "10.1007/s12663-023-02007-1"
 source: damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "38312971"

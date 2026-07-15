@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1563/aaid-joi-D-19-00292
 source: salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral.md
 category: [sinus-lift/transcrestal]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral.pdf
 pdf_filename: salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral.pdf
 source_collection: external

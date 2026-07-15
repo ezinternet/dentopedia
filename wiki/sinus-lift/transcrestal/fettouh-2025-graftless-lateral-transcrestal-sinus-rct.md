@@ -7,7 +7,7 @@ doi: 10.1111/clr.70055
 journal: Clinical Oral Implants Research 37(1):87-97
 source: fettouh-2025-graftless-lateral-transcrestal-sinus-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41074385"

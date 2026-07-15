@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: 10.1097/ID.0000000000000731
 source: pinto-2018-leukocyte-platelet-rich-fibrin-sinus-membrane.md
 category: sinus-lift/lateral
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/pinto-2018-leukocyte-platelet-rich-fibrin-sinus-membrane.pdf
 pdf_filename: pinto-2018-leukocyte-platelet-rich-fibrin-sinus-membrane.pdf
 source_collection: external

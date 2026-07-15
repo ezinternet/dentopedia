@@ -8,7 +8,7 @@ pmid: "36458272"
 pmcid: "PMC9675629"
 source: akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 tags: [mucosal-thickening, ridge-height, CBCT, sinus-lift, bone-height, preoperative-assessment]
 relations:

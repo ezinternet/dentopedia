@@ -6,7 +6,7 @@ date: 2024-11-06
 doi: 10.7759/cureus.73130
 source: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.md
 category: [sinus-lift/transcrestal]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 pdf_filename: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 source_collection: external

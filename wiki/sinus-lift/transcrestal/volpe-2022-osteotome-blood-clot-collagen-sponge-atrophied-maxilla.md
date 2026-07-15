@@ -6,7 +6,7 @@ date: 2022-01-05
 doi: 10.1155/2022/6594279
 source: volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla.md
 category: [sinus-lift/transcrestal]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla.pdf
 pdf_filename: volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla.pdf
 source_collection: external

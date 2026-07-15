@@ -7,7 +7,7 @@ doi: 10.11607/jomi.10354
 journal: International Journal of Oral & Maxillofacial Implants 38(6):1123-1138
 source: farina-2023-effectiveness-morbidity-costs-transcrestal-lateral-rbh.md
 category: [sinus-lift/transcrestal]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "38085743"

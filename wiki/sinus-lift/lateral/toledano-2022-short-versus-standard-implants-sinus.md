@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.1007/s00784-022-04628-1
 source: toledano-2022-short-versus-standard-implants-sinus.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/toledano-2022-short-versus-standard-implants-sinus.pdf
 pdf_filename: toledano-2022-short-versus-standard-implants-sinus.pdf

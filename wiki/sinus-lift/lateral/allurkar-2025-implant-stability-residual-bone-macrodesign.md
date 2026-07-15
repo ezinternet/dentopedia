@@ -6,7 +6,7 @@ date: 2025-01-31
 doi: 10.6026/973206300210040
 journal: Bioinformation 21(1):40-43
 source: allurkar-2025-implant-stability-residual-bone-macrodesign.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [sinus-lift/lateral]
 pdf_path: /Users/oracleneo/llm-wiki/papers/allurkar-2025-implant-stability-residual-bone-macrodesign.pdf
 pdf_filename: allurkar-2025-implant-stability-residual-bone-macrodesign.pdf

@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.4317/medoral.24123
 journal: Med Oral Patol Oral Cir Bucal 26(3):e276-283
 source: anitua-2021-mucous-cysts-pseudocysts-implants-sr.md
-confidence: sr
+evidence_level: sr
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/anitua-2021-mucous-cysts-pseudocysts-implants-sr.pdf
 pdf_filename: anitua-2021-mucous-cysts-pseudocysts-implants-sr.pdf

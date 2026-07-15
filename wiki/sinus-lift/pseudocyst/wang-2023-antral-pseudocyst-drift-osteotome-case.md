@@ -6,7 +6,7 @@ date: 2023-01-24
 doi: 10.3390/jcm12030920
 journal: Journal of Clinical Medicine 12(3):920
 source: wang-2023-antral-pseudocyst-drift-osteotome-case.md
-confidence: case-report
+evidence_level: case-report
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2023-antral-pseudocyst-drift-osteotome-case.pdf
 pdf_filename: wang-2023-antral-pseudocyst-drift-osteotome-case.pdf

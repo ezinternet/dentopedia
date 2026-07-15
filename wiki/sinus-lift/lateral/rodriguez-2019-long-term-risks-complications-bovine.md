@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.4103/jisp.jisp_656_18
 source: rodriguez-2019-long-term-risks-complications-bovine.md
 category: [sinus-lift/lateral]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "31543624"

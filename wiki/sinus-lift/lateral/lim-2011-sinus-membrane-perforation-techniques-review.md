@@ -6,7 +6,7 @@ date: 2011-01-01
 doi: ""
 source: lim-2011-sinus-membrane-perforation-techniques-review.md
 category: [sinus-lift/lateral]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2011-sinus-membrane-perforation-techniques-review.pdf
 pdf_filename: lim-2011-sinus-membrane-perforation-techniques-review.pdf
 source_collection: external

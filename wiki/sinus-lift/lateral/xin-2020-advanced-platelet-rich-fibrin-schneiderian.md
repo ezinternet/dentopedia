@@ -6,7 +6,7 @@ date: 2020-11-26
 doi: 10.3389/fbioe.2020.600032
 source: xin-2020-advanced-platelet-rich-fibrin-schneiderian.md
 category: sinus-lift/lateral
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/xin-2020-advanced-platelet-rich-fibrin-schneiderian.pdf
 pdf_filename: xin-2020-advanced-platelet-rich-fibrin-schneiderian.pdf
 source_collection: external

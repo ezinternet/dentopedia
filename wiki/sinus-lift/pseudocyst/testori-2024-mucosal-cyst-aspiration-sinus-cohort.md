@@ -6,7 +6,7 @@ date: 2024-03-10
 doi: 10.1111/cid.13315
 journal: Clinical Implant Dentistry and Related Research 26(3):564-570
 source: testori-2024-mucosal-cyst-aspiration-sinus-cohort.md
-confidence: prospective
+evidence_level: prospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/testori-2024-mucosal-cyst-aspiration-sinus-cohort.pdf
 pdf_filename: testori-2024-mucosal-cyst-aspiration-sinus-cohort.pdf

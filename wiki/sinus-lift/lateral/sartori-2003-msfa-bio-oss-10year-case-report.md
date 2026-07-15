@@ -6,7 +6,7 @@ date: 2003-05-20
 doi: 10.1034/j.1600-0501.2003.140316.x
 source: sartori-2003-msfa-bio-oss-10year-case-report.md
 category: sinus-lift/lateral
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/sartori-2003-msfa-bio-oss-10year-case-report.pdf
 pdf_filename: sartori-2003-msfa-bio-oss-10year-case-report.pdf
 source_collection: external

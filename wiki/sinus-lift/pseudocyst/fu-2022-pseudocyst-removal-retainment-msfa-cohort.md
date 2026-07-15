@@ -6,7 +6,7 @@ date: 2022-09-05
 doi: 10.1111/clr.13993
 journal: Clinical Oral Implants Research 33(11):1098-1113
 source: fu-2022-pseudocyst-removal-retainment-msfa-cohort.md
-confidence: retrospective
+evidence_level: retrospective
 category: [sinus-lift/pseudocyst]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2022-pseudocyst-removal-retainment-msfa-cohort.pdf
 pdf_filename: fu-2022-pseudocyst-removal-retainment-msfa-cohort.pdf

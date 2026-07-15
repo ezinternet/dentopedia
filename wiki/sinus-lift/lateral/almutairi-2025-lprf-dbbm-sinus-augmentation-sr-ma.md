@@ -6,7 +6,7 @@ date: 2025-06-03
 doi: 10.7759/cureus.85306
 source: almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma.md
 category: [sinus-lift/lateral]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma.pdf
 pdf_filename: almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma.pdf
 source_collection: external

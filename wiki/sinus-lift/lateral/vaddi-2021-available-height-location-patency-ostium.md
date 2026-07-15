@@ -8,7 +8,7 @@ pmid: "34621651"
 pmcid: "PMC8479432"
 source: vaddi-2021-available-height-location-patency-ostium.md
 category: [sinus-lift/lateral]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8479432/
