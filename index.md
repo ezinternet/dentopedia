@@ -198,6 +198,7 @@ tags: []
 - [[implants/isq/lemos-2020-high-insertion-torque-dental-implants-sr-ma]] — SR+MA(6편, 651개): IT ≥50 Ncm vs <50 Ncm — 생존율(RR 0.51, P=.52)·MBL(MD 0.15mm, P=.30) 유의차 없음; 즉시하중 하위군에서 저토크 실패율 4.2% vs 고토크 1.1%
 - [[implants/isq/marconcini-2018-high-insertion-torque-bone-resorption-rct]] — RCT(116개, 3년): IT ≥50 Ncm → 유의한 MBL↑·협측 점막 퇴축↑, 하악에서 두드러짐; BBT ≥1 mm 보호 인자; CSR 91.3% vs 98.2%
 - [[implants/isq/trisi-2011-high-low-implant-torque-histology-sheep]] — 동물조직학(양 하악, 40개, 6주): HT 110 Ncm → 압박괴사 없음·골형성↑·제거토크↑; 7일째 1차 안정성 딥 관찰; RFA는 이 변화 감지 불가
+- [[implants/isq/aldahlawi-2018-implant-torque-crestal-bone-remodeling]] — 후향 코호트(NobelActive 113개, 66명): IT >55 Ncm(평균 67.35 Ncm) → MBL 유의하게 큼(0.95 vs 0.18 mm); 하악 2.12 mm vs 상악 0.25 mm; 실패 6개 전부 고토크군; 생존율 94.6%
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — SR+MA(48편): ISQ-IT 중등도 상관(r=0.44, p<0.001) but I²>90%; ISQ는 MBL·생존율 독립예측인자로 근거 불충분
 - [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]] — 후향적(n=200, UCLA): 구강 내 위치(하악>상악) ISQ 가장 유의; 길이 임상 유관 경향(p≈0.08); 직경 NS
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR(Cureus 2023): 골밀도화 드릴링이 다수 연구에서 ISQ·골밀도 높음; 단 RCT 비뚤림위험 높아 해석 주의
@@ -2510,6 +2511,7 @@ tags: []
 - [[implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant]] — Tao 2025 · in-vitro (PFB Type IV, 48블록) · OD/Densah가 CD 대비 삽입토크↑(11.73 vs 7.77 N·m)·벽결함↓·발열↓이나 ISQ 동등(47.1 vs 46.7, NS); 권장 1500rpm/0.04mm·z/관주
 - [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — Barberá-Millán 2021 · in-vitro (돼지경골 D4, n=55/군) · OD vs 통상 under-drilling: OD 삽입토크 21.72 vs 8.87 Ncm·ISQ 69.75 vs 65.16 모두 우월(p≤.001)
 - [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Rittipakorn 2025 · in-vitro · Human cadaveric tibia (40 implants, D3/D4): novel clockwise OD (800 rpm) vs standard drilling — higher but NS ISQ (67.5 vs 62.9) & IT (34 vs 29.5 Ncm), tighter IQR, significant IT–ISQ correlation only in OD (ρ=0.577)
+- [[implants/versah-protocols/lopez-valverde-2025-bone-expansion-compaction-densification-sr-ma]] — SR+MA(10편/2,464 스크리닝; PROSPERO): 좁은 치조골에서 골밀도화(OD)가 골확장(BE) 대비 BD(SMD −0.71)·CE(SMD −1.12)·ISQ(SMD −8.88) 모두 유의하게 우수(p≤0.005)
 
 ### periodontics (added 2026-05-28, batch e)
 
