@@ -6,7 +6,7 @@ date: 2020-01-27
 doi: 10.11607/jomi.6281
 source: podaropoulos-2020-progressive-static-load-overloading-dogs.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/podaropoulos-2020-progressive-static-load-overloading-dogs.pdf
 pdf_filename: podaropoulos-2020-progressive-static-load-overloading-dogs.pdf
 source_collection: external

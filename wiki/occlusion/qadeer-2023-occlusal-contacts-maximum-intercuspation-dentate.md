@@ -6,7 +6,7 @@ date: 2023-03-27
 doi: 10.1111/joor.13451
 source: qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "36943389"

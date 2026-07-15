@@ -6,7 +6,7 @@ date: 2021-11-03
 doi: "10.1155/2021/2177385"
 source: bozhkova-2021-occlusal-indicators-dental-practice-survey.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "34778449"

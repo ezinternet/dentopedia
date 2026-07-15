@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.prosdent.2022.11.026
 source: zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective.pdf
 pdf_filename: zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective.pdf
 source_collection: external

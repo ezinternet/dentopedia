@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1016/j.jdent.2024.105000
 source: mao-2024-occlusal-changes-implant-supported-single-crowns.md
 category: [occlusion]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mao-2024-occlusal-changes-implant-supported-single-crowns.pdf
 pdf_filename: mao-2024-occlusal-changes-implant-supported-single-crowns.pdf
 source_collection: external

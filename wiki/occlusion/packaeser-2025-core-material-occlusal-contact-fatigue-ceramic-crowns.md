@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jmbbm.2025.106891
 source: packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns.md
 category: [occlusion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns.pdf
 pdf_filename: packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns.pdf
 source_collection: external

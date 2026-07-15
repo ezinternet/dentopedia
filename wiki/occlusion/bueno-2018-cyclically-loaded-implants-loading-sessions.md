@@ -6,7 +6,7 @@ date: 2018-05-01
 doi: 10.1016/j.jmbbm.2018.05.044
 source: bueno-2018-cyclically-loaded-implants-loading-sessions.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/bueno-2018-cyclically-loaded-implants-loading-sessions.pdf
 pdf_filename: bueno-2018-cyclically-loaded-implants-loading-sessions.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2017-06-22
 doi: 10.1080/00016357.2017.1340667
 source: jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "28641068"

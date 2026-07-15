@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.4103/jips.jips_409_19
 source: bhambhani-2020-choosing-denture-occlusion-systematic-review.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bhambhani-2020-choosing-denture-occlusion-systematic-review.pdf
 pdf_filename: bhambhani-2020-choosing-denture-occlusion-systematic-review.pdf
 source_collection: external

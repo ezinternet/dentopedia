@@ -6,7 +6,7 @@ date: 2011-02-01
 doi: 10.1016/j.jdent.2010.11.002
 source: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/faggion-2011-evidence-restore-posterior-bounded-edentulous-grade.pdf
 pdf_filename: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade.pdf
 source_collection: external

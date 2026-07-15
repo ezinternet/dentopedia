@@ -6,7 +6,7 @@ date: 2026-02-13
 doi: "10.1155/ijod/9936924"
 source: leone-2026-occlusal-overload-and-periodontitis-integrating.md
 category: occlusion
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/leone-2026-occlusal-overload-and-periodontitis-integrating.pdf
 pdf_filename: leone-2026-occlusal-overload-and-periodontitis-integrating.pdf
 source_collection: external

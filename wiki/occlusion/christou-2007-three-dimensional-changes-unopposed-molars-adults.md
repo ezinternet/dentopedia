@@ -6,7 +6,7 @@ date: 2007-12-01
 doi: 10.1093/ejo/cjm036
 source: christou-2007-three-dimensional-changes-unopposed-molars-adults.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/christou-2007-three-dimensional-changes-unopposed-molars-adults.pdf
 pdf_filename: christou-2007-three-dimensional-changes-unopposed-molars-adults.pdf
 source_collection: external

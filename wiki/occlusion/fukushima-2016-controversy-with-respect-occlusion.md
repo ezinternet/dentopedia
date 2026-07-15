@@ -6,7 +6,7 @@ date: 2016-05-26
 doi: "10.1016/j.jdsr.2016.02.001"
 source: fukushima-2016-controversy-with-respect-occlusion.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "28408956"

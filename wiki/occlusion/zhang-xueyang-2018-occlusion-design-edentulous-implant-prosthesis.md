@@ -6,7 +6,7 @@ date: 2018-02-01
 doi: 10.7518/hxkq.2018.01.001
 source: zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis.pdf
 pdf_filename: zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/joor.70015
 source: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.pdf
 pdf_filename: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.pdf
 source_collection: external

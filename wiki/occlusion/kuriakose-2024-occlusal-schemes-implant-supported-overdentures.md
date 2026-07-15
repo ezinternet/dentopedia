@@ -6,7 +6,7 @@ date: 2024-09-05
 doi: 10.4103/jpbs.jpbs_795_24
 source: kuriakose-2024-occlusal-schemes-implant-supported-overdentures.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39926779"

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.1111/jcpe.13563"
 source: dommisch-2022-efficacy-of-tooth-splinting-occlusal.md
 category: occlusion
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/dommisch-2022-efficacy-of-tooth-splinting-occlusal.pdf
 pdf_filename: dommisch-2022-efficacy-of-tooth-splinting-occlusal.pdf
 source_collection: external

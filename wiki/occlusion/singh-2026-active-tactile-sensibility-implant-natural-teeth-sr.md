@@ -6,7 +6,7 @@ date: 2026-01-06
 doi: 10.1016/j.prosdent.2025.12.019
 source: singh-2026-active-tactile-sensibility-implant-natural-teeth-sr.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "41500885"

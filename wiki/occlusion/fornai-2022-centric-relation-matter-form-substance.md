@@ -6,7 +6,7 @@ date: 2022-04-20
 doi: 10.1111/joor.13329
 source: fornai-2022-centric-relation-matter-form-substance.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "35377510"

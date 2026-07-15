@@ -6,7 +6,7 @@ date: 2016-07-01
 doi: 10.1111/clr.12658
 source: podaropoulos-2016-bone-reactions-progressive-static-load-dogs.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/podaropoulos-2016-bone-reactions-progressive-static-load-dogs.pdf
 pdf_filename: podaropoulos-2016-bone-reactions-progressive-static-load-dogs.pdf
 source_collection: external

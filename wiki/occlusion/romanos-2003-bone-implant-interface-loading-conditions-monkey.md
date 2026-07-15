@@ -6,7 +6,7 @@ date: 2003-10-01
 doi: 10.1902/jop.2003.74.10.1483
 source: romanos-2003-bone-implant-interface-loading-conditions-monkey.md
 category: [occlusion]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/romanos-2003-bone-implant-interface-loading-conditions-monkey.pdf
 pdf_filename: romanos-2003-bone-implant-interface-loading-conditions-monkey.pdf
 source_collection: external

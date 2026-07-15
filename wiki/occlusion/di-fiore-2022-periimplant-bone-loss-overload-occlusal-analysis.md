@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.3390/jcm11164812
 source: di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.pdf
 pdf_filename: di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.pdf
 source_collection: external

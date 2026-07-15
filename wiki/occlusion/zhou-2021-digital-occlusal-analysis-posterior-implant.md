@@ -6,7 +6,7 @@ date: 2021-07-02
 doi: 10.1371/journal.pone.0252191
 source: zhou-2021-digital-occlusal-analysis-posterior-implant.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2021-digital-occlusal-analysis-posterior-implant.pdf
 pdf_filename: zhou-2021-digital-occlusal-analysis-posterior-implant.pdf
 source_collection: external

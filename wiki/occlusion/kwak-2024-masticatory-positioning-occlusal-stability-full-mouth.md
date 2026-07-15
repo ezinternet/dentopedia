@@ -6,7 +6,7 @@ date: 2025-03-31
 doi: 10.21851/obr.25.008
 source: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.md
 category: [occlusion]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.pdf
 pdf_filename: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.pdf
 source_collection: external

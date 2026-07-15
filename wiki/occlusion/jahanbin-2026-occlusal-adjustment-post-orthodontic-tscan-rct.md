@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.30476/dentjods.2025.105593.2604
 source: jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct.md
 category: [occlusion]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42253836"

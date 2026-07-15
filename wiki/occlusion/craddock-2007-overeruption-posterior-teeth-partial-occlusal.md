@@ -6,7 +6,7 @@ date: 2007-03-16
 doi: 10.1111/j.1365-2842.2007.01686.x
 source: craddock-2007-overeruption-posterior-teeth-partial-occlusal.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/craddock-2007-overeruption-posterior-teeth-partial-occlusal.pdf
 pdf_filename: craddock-2007-overeruption-posterior-teeth-partial-occlusal.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-05-10
 doi: "10.3390/diagnostics16101450"
 source: rovira-lastra-2026-articulating-paper-accuracy-occlusal-points.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42196816"

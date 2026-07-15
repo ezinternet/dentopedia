@@ -6,7 +6,7 @@ date: 2016-01-21
 doi: 10.1186/s40510-016-0119-z
 source: livas-2016-fixed-retention-unopposed-molar-overeruption.md
 category: [occlusion]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "26798065"

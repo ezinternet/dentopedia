@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3390/jpm15020065
 source: berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative.md
 category: [occlusion]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative.pdf
 pdf_filename: berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative.pdf
 source_collection: external

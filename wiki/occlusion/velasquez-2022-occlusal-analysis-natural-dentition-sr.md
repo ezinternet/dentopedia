@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1055/s-0042-1755626
 source: velasquez-2022-occlusal-analysis-natural-dentition-sr.md
 category: [occlusion]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/velasquez-2022-occlusal-analysis-natural-dentition-sr.pdf
 pdf_filename: velasquez-2022-occlusal-analysis-natural-dentition-sr.pdf
 source_collection: external

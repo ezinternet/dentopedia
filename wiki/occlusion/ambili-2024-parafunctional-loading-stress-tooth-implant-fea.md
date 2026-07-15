@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.4103/jips.jips_30_24
 source: ambili-2024-parafunctional-loading-stress-tooth-implant-fea.md
 category: [occlusion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ambili-2024-parafunctional-loading-stress-tooth-implant-fea.pdf
 pdf_filename: ambili-2024-parafunctional-loading-stress-tooth-implant-fea.pdf
 source_collection: external

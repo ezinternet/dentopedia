@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4047/jap.2021.13.4.216
 source: yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea.md
 category: [occlusion]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea.pdf
 pdf_filename: yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea.pdf
 source_collection: external

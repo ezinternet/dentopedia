@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: "10.1002/JPER.16-0581"
 source: fan-2018-occlusal-trauma-and-excessive-occlusal.md
 category: occlusion
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/fan-2018-occlusal-trauma-and-excessive-occlusal.pdf
 pdf_filename: fan-2018-occlusal-trauma-and-excessive-occlusal.pdf
 source_collection: external

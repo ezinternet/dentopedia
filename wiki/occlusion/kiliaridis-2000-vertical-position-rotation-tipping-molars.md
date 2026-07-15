@@ -7,7 +7,7 @@ doi: N/A
 pmid: "11203673"
 source: kiliaridis-2000-vertical-position-rotation-tipping-molars.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/kiliaridis-2000-vertical-position-rotation-tipping-molars.pdf
 pdf_filename: kiliaridis-2000-vertical-position-rotation-tipping-molars.pdf
 source_collection: external

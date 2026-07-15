@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4103/jips.jips_183_21
 source: sippy-2021-condylar-incisal-guidance-canine-group-function-schemes.md
 category: [occlusion]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes.pdf
 pdf_filename: sippy-2021-condylar-incisal-guidance-canine-group-function-schemes.pdf
 source_collection: external
