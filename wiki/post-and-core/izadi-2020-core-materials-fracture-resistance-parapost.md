@@ -6,7 +6,7 @@ date: 2020-08-14
 doi: ""
 source: izadi-2020-core-materials-fracture-resistance-parapost.md
 category: [post-and-core]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "33282149"

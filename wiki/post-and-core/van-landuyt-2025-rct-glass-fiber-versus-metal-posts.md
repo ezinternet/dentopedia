@@ -6,7 +6,7 @@ date: 2025-03-15
 doi: 10.1016/j.jdent.2025.105694
 source: van-landuyt-2025-rct-glass-fiber-versus-metal-posts.md
 category: [post-and-core]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "40096878"

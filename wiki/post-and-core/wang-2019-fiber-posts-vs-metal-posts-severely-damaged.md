@@ -7,7 +7,7 @@ doi: 10.3290/j.qi.a41499
 pmid: "30600326"
 source: wang-2019-fiber-posts-vs-metal-posts-severely-damaged.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 tags: [fiber-post, metal-post, endodontically-treated-teeth, severely-damaged, ferrule, survival, GRADE]

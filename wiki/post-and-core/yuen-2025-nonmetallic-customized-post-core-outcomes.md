@@ -7,7 +7,7 @@ doi: 10.1016/j.joen.2025.11.015
 pmid: "41276246"
 source: yuen-2025-nonmetallic-customized-post-core-outcomes.md
 category: [post-and-core]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 tags: [post-and-core, zirconia, PEEK, PEKK, fiber-post, CAD-CAM, customized-post, systematic-review]

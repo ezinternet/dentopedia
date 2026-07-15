@@ -6,7 +6,7 @@ date: 2024-09-04
 doi: 10.2334/josnusd.24-0098
 source: alenezi-2024-endodontically-treated-teeth-post-placement-survival.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39231718"

@@ -6,7 +6,7 @@ date: 2022-02-22
 doi: 10.1155/2022/4748291
 source: fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "35242190"

@@ -6,7 +6,7 @@ date: 2022-07-13
 doi: "10.4103/jpbs.jpbs_789_21"
 source: goutam-2022-luxacore-photocore-coremax-fracture-parapost.md
 category: [post-and-core]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "36110633"

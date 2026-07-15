@@ -6,7 +6,7 @@ date: 2022-04-13
 doi: 10.1016/j.prosdent.2022.01.003
 source: tsintsadze-2022-survival-rates-glass-fiber-metal-posts.md
 category: [post-and-core]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35430048"

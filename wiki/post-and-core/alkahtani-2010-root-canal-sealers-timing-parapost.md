@@ -6,7 +6,7 @@ date: 2010-01-01
 doi: "10.1016/j.sdentj.2010.02.003"
 source: alkahtani-2010-root-canal-sealers-timing-parapost.md
 category: [post-and-core]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "24109165"
