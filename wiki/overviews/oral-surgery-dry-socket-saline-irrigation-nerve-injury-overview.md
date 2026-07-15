@@ -228,6 +228,11 @@ All three interventions share the property of being **additive to standard care*
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-surgery/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Prospective cohort (n=163 impacted M3): transient lingual nerve injury 2.45% (all resolved by 12wk), 0% IAN paresthesia/dry socket/infection — surgical extraction low-morbidity but warrants neurosensory counseling
+
 - [[oral-surgery/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — SR+MA, CHX for AO prevention (Axis 1 primary source)
 - [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — prospective cohort, saline irrigation in oral cancer surgery (Axis 2 primary source)
 - [[oral-surgery/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — retrospective cohort, orthognathic nerve injury treatment (Axis 3 primary source)
