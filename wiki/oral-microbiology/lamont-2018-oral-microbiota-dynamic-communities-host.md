@@ -6,7 +6,7 @@ date: 2018-12-01
 doi: "10.1038/s41579-018-0089-x"
 source: lamont-2018-oral-microbiota-dynamic-communities-host.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lamont-2018-oral-microbiota-dynamic-communities-host.pdf
 pdf_filename: lamont-2018-oral-microbiota-dynamic-communities-host.pdf
 source_collection: external

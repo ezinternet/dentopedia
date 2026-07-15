@@ -6,7 +6,7 @@ date: 2025-06-10
 doi: 10.3390/pathogens14060578
 source: panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review.md
 category: [oral-microbiology]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review.pdf
 pdf_filename: panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review.pdf
 source_collection: external

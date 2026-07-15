@@ -6,7 +6,7 @@ date: 2021-08-01
 doi: "10.1111/prd.12393"
 source: sedghi-2021-oral-microbiome-key-organisms-networks.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sedghi-2021-oral-microbiome-key-organisms-networks.pdf
 pdf_filename: sedghi-2021-oral-microbiome-key-organisms-networks.pdf
 source_collection: external

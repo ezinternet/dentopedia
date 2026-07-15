@@ -6,7 +6,7 @@ date: 2023-03-09
 doi: 10.3390/ijms24065231
 source: kozak-2023-oral-microbiome-development-diseases.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36982305"

@@ -6,7 +6,7 @@ date: 2014-02-01
 doi: "10.1002/eji.201344202"
 source: hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.pdf
 pdf_filename: hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.pdf
 source_collection: external

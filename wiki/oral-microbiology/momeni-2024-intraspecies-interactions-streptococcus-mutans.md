@@ -6,7 +6,7 @@ date: 2024-07-11
 doi: "10.1128/msphere.00778-23"
 source: momeni-2024-intraspecies-interactions-streptococcus-mutans.md
 category: [oral-microbiology]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "38990043"

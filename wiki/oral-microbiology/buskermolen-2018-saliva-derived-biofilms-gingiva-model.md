@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: "10.1177/0022034517729998"
 source: buskermolen-2018-saliva-derived-biofilms-gingiva-model.md
 category: [oral-microbiology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/buskermolen-2018-saliva-derived-biofilms-gingiva-model.pdf
 pdf_filename: buskermolen-2018-saliva-derived-biofilms-gingiva-model.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-09-12
 source: baker-2024-oral-microbiome-diversity-biogeography-health.md
 doi: 10.1038/s41579-023-00963-6
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37700024"

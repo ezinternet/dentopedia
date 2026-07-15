@@ -6,7 +6,7 @@ date: 2026-03-19
 doi: 10.1111/jcpe.70111
 source: la-rosa-2026-electronic-cigarette-oral-microbiota.md
 category: [oral-microbiology]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/la-rosa-2026-electronic-cigarette-oral-microbiota.pdf
 pdf_filename: la-rosa-2026-electronic-cigarette-oral-microbiota.pdf
 source_collection: external

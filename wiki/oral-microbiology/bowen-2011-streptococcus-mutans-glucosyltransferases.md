@@ -6,7 +6,7 @@ date: 2011-03-01
 doi: "10.1159/000324598"
 source: bowen-2011-streptococcus-mutans-glucosyltransferases.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bowen-2011-streptococcus-mutans-glucosyltransferases.pdf
 pdf_filename: bowen-2011-streptococcus-mutans-glucosyltransferases.pdf
 source_collection: external

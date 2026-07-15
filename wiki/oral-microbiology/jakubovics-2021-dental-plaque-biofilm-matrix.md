@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: "10.1111/prd.12361"
 source: jakubovics-2021-dental-plaque-biofilm-matrix.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jakubovics-2021-dental-plaque-biofilm-matrix.pdf
 pdf_filename: jakubovics-2021-dental-plaque-biofilm-matrix.pdf
 source_collection: external

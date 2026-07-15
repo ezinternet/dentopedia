@@ -6,7 +6,7 @@ date: 2015-03-01
 doi: "10.1016/j.molmed.2014.11.004"
 source: lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory.pdf
 pdf_filename: lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory.pdf
 source_collection: external

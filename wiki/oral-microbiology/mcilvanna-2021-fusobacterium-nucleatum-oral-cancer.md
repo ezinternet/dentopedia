@@ -6,7 +6,7 @@ date: 2021-11-11
 doi: "10.1186/s12885-021-08903-4"
 source: mcilvanna-2021-fusobacterium-nucleatum-oral-cancer.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer.pdf
 pdf_filename: mcilvanna-2021-fusobacterium-nucleatum-oral-cancer.pdf
 source_collection: external

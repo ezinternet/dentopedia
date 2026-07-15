@@ -6,7 +6,7 @@ date: 2018-06-08
 doi: 10.2217/fmb-2018-0043
 source: zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens.txt
 text_filename: zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens.txt

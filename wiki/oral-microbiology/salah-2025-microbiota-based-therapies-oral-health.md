@@ -6,7 +6,7 @@ date: 2025-10-11
 doi: 10.1007/s12223-025-01324-x
 source: salah-2025-microbiota-based-therapies-oral-health.md
 category: [oral-microbiology]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/salah-2025-microbiota-based-therapies-oral-health.txt
 text_filename: salah-2025-microbiota-based-therapies-oral-health.txt
