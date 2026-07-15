@@ -139,6 +139,11 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (6 RCTs, esthetic zone): immediate vs early — no difference in bone level (MD 0.10) or PD (both P>0.05) but early had better Pink Esthetic Score (P<0.05) — bone equal, esthetics slightly favor early (indicative)
+
 - [[overviews/immediate-implant-decision-ladder]] — parent IIP decision ladder (timing/selection); this page is its esthetic/soft-tissue branch.
 - [[overviews/immediate-implant-conditions]] — socket/condition synthesis for immediate placement.
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — buccal-gap graft material selection (the hard-tissue lever detailed).
