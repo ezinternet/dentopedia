@@ -6,7 +6,7 @@ date: 2020-02-28
 doi: 10.1002/14651858.CD001168.pub3
 source: lodi-2020-oral-lichen-planus-corticosteroids-cochrane.md
 category: [oral-medicine]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lodi-2020-oral-lichen-planus-corticosteroids-cochrane.pdf
 pdf_filename: lodi-2020-oral-lichen-planus-corticosteroids-cochrane.pdf
 source_collection: external

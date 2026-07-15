@@ -6,7 +6,7 @@ date: 2025-09-12
 doi: 10.22514/jofph.2025.044
 source: pan-2025-acupuncture-neuropathic-orofacial-pain-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41070563"

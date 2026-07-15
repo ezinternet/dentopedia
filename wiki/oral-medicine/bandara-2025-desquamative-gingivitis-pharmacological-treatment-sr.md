@@ -6,7 +6,7 @@ date: 2025-07-02
 doi: 10.1186/s12903-025-06369-5
 source: bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr.md
 category: oral-medicine
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40604637"

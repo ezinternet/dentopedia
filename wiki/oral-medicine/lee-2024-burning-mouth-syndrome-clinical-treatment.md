@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.22974/jkda.2024.62.5.003
 source: lee-2024-burning-mouth-syndrome-clinical-treatment.md
 category: [oral-medicine]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-burning-mouth-syndrome-clinical-treatment.pdf
 pdf_filename: lee-2024-burning-mouth-syndrome-clinical-treatment.pdf
 source_collection: external

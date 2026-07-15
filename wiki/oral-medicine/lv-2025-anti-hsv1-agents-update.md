@@ -6,7 +6,7 @@ date: 2025-01-21
 doi: 10.3389/fphar.2024.1451083
 source: lv-2025-anti-hsv1-agents-update.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lv-2025-anti-hsv1-agents-update.pdf
 pdf_filename: lv-2025-anti-hsv1-agents-update.pdf
 source_collection: external

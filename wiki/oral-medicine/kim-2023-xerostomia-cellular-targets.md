@@ -6,7 +6,7 @@ date: 2023-03-10
 doi: 10.3390/ijms24065358
 source: kim-2023-xerostomia-cellular-targets.md
 category: oral-medicine
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36982432"

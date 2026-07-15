@@ -6,7 +6,7 @@ date: 2023-06-03
 doi: "10.1159/000531373"
 source: tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37271130"

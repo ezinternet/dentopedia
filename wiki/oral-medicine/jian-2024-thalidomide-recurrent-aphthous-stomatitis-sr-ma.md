@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s12903-024-04923-1
 source: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.md
 category: [oral-medicine]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.txt
 pdf_filename: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma.txt
 source_collection: pubmed-text

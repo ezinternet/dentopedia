@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: N/A
 source: manfredini-2021-recurrent-aphthous-stomatitis-treatment.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/manfredini-2021-recurrent-aphthous-stomatitis-treatment.pdf
 pdf_filename: manfredini-2021-recurrent-aphthous-stomatitis-treatment.pdf
 source_collection: external

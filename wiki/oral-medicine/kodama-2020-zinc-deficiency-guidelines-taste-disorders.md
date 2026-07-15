@@ -6,7 +6,7 @@ date: 2020-04-22
 doi: "10.3390/ijms21082941"
 source: kodama-2020-zinc-deficiency-guidelines-taste-disorders.md
 category: [oral-medicine]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
 pmid: "32331308"

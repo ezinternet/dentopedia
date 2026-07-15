@@ -6,7 +6,7 @@ date: 2023-08-29
 doi: "10.1007/s11547-023-01707-5"
 source: morelli-2023-radiation-dose-taste-alteration-hnscc.md
 category: [oral-medicine]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "37642816"

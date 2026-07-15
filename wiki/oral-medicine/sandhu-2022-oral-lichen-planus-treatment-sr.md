@@ -6,7 +6,7 @@ date: 2022-05-09
 doi: 10.1186/s12903-022-02168-4
 source: sandhu-2022-oral-lichen-planus-treatment-sr.md
 category: [oral-medicine]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/sandhu-2022-oral-lichen-planus-treatment-sr.pdf
 pdf_filename: sandhu-2022-oral-lichen-planus-treatment-sr.pdf
 source_collection: external

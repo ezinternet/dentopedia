@@ -6,7 +6,7 @@ date: 2023-10-18
 doi: "10.1155/2023/9375084"
 source: gupta-2023-prevalence-distribution-oral-mucosal-nepal.md
 category: [oral-medicine/normal-variants]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "37885902"

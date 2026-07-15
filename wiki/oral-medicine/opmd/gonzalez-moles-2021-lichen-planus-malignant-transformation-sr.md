@@ -6,7 +6,7 @@ date: 2020-12-03
 doi: 10.1111/odi.13741
 source: gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.md
 category: [oral-medicine/opmd]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 pdf_filename: gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 source_collection: external

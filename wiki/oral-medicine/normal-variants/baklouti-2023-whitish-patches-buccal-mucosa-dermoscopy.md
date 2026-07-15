@@ -6,7 +6,7 @@ date: 2023-02-21
 doi: "10.1002/ccr3.6946"
 source: baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy.md
 category: [oral-medicine/normal-variants]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "36846171"

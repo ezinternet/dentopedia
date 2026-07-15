@@ -6,7 +6,7 @@ date: 2020-07-03
 doi: "10.1186/s12903-020-01169-5"
 source: sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional.md
 category: [oral-medicine]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "32620111"

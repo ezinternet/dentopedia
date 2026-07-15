@@ -6,7 +6,7 @@ date: 2018-03-01
 doi: "10.1097/j.pain.0000000000001090"
 source: jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain.pdf
 pdf_filename: jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain.pdf
 source_collection: external

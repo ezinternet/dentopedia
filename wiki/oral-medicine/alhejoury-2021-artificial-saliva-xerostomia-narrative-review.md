@@ -6,7 +6,7 @@ date: 2021-11-10
 doi: 10.4103/jpbs.jpbs_236_21
 source: alhejoury-2021-artificial-saliva-xerostomia-narrative-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "35017895"

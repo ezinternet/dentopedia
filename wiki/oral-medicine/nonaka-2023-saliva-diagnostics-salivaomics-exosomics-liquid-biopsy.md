@@ -6,7 +6,7 @@ date: 2023-07-27
 doi: 10.1016/j.adaj.2023.05.006
 source: nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md
 category: oral-medicine
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37500232"

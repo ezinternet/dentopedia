@@ -6,7 +6,7 @@ date: 2025-11-18
 doi: 10.1177/00220345251385966
 source: warnakulasuriya-2025-oral-lichen-planus-systemic-diseases.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases.txt
 pdf_filename: warnakulasuriya-2025-oral-lichen-planus-systemic-diseases.txt
 source_collection: pubmed-text

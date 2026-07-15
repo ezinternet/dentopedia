@@ -6,7 +6,7 @@ date: 2026-01-12
 doi: 10.22514/jofph.2026.001
 source: canfora-2026-burning-mouth-syndrome-management-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/canfora-2026-burning-mouth-syndrome-management-review.pdf
 pdf_filename: canfora-2026-burning-mouth-syndrome-management-review.pdf
 source_collection: external

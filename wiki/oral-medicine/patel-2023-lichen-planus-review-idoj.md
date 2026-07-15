@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.4103/idoj.idoj_652_22
 source: patel-2023-lichen-planus-review-idoj.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2023-lichen-planus-review-idoj.pdf
 pdf_filename: patel-2023-lichen-planus-review-idoj.pdf
 source_collection: external

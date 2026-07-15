@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: null
 source: belenguer-guallar-2014-recurrent-aphthous-stomatitis-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review.pdf
 pdf_filename: belenguer-guallar-2014-recurrent-aphthous-stomatitis-review.pdf
 source_collection: external

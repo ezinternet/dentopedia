@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1111/odi.15140"
 source: pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma.md
 category: [oral-medicine/opmd]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma.pdf
 pdf_filename: pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma.pdf
 source_collection: external

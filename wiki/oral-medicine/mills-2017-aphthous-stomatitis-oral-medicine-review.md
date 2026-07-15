@@ -6,7 +6,7 @@ date: 2017-03-01
 doi: N/A
 source: mills-2017-aphthous-stomatitis-oral-medicine-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mills-2017-aphthous-stomatitis-oral-medicine-review.pdf
 pdf_filename: mills-2017-aphthous-stomatitis-oral-medicine-review.pdf
 source_collection: external

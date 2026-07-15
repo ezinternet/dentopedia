@@ -6,7 +6,7 @@ date: 2021-12-01
 doi: 10.22092/ari.2021.356055.1767
 source: gasmi-2021-oral-aphthous-pathophysiology-treatment.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gasmi-2021-oral-aphthous-pathophysiology-treatment.pdf
 pdf_filename: gasmi-2021-oral-aphthous-pathophysiology-treatment.pdf
 source_collection: external

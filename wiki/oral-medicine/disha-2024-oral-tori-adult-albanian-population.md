@@ -6,7 +6,7 @@ date: 2024-07-30
 doi: 10.3390/dj12080242
 source: disha-2024-oral-tori-adult-albanian-population.md
 category: [oral-medicine]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/disha-2024-oral-tori-adult-albanian-population.txt
 text_filename: disha-2024-oral-tori-adult-albanian-population.txt

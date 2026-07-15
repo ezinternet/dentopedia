@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1111/odi.13704
 source: warnakulasuriya-2021-opmd-consensus-nomenclature-who.md
 category: [oral-medicine/opmd]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 pdf_filename: warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 source_collection: external

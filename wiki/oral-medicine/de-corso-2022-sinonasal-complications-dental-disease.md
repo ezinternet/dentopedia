@@ -6,7 +6,7 @@ date: 2022-12-16
 doi: 10.3390/jpm12122078
 source: de-corso-2022-sinonasal-complications-dental-disease.md
 category: oral-medicine
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-corso-2022-sinonasal-complications-dental-disease.pdf
 pdf_filename: de-corso-2022-sinonasal-complications-dental-disease.pdf
 source_collection: external

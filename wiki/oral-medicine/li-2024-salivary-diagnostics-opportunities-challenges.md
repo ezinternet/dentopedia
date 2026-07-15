@@ -6,7 +6,7 @@ date: 2024-10-21
 doi: 10.7150/thno.100600
 source: li-2024-salivary-diagnostics-opportunities-challenges.md
 category: oral-medicine
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39629130"

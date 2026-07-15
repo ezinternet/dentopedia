@@ -6,7 +6,7 @@ date: 2026-02-02
 doi: 10.1186/s12903-026-07815-8
 source: poudel-2026-xerostomia-dental-treatment-outcomes-sr.md
 category: [oral-medicine]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41622146"

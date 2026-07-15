@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: 10.1016/j.oooo.2018.03.011
 source: warnakulasuriya-2018-opmd-clinical-features-review.md
 category: [oral-medicine/opmd]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2018-opmd-clinical-features-review.pdf
 pdf_filename: warnakulasuriya-2018-opmd-clinical-features-review.pdf
 source_collection: external

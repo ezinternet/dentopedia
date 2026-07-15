@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1007/s00432-025-06213-x
 source: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.md
 category: [oral-medicine/mucositis]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.txt
 pdf_filename: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.txt
 source_collection: pubmed-text

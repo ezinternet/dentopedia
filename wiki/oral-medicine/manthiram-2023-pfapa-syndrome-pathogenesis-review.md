@@ -6,7 +6,7 @@ date: 2023-11-01
 doi: 10.1097/BOR.0000000000000956
 source: manthiram-2023-pfapa-syndrome-pathogenesis-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/manthiram-2023-pfapa-syndrome-pathogenesis-review.pdf
 pdf_filename: manthiram-2023-pfapa-syndrome-pathogenesis-review.pdf
 source_collection: external

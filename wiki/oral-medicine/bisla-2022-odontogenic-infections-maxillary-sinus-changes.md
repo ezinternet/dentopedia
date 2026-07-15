@@ -6,7 +6,7 @@ date: 2022-08-11
 doi: 10.1016/j.jobcr.2022.08.001
 source: bisla-2022-odontogenic-infections-maxillary-sinus-changes.md
 category: [oral-medicine]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bisla-2022-odontogenic-infections-maxillary-sinus-changes.pdf
 pdf_filename: bisla-2022-odontogenic-infections-maxillary-sinus-changes.pdf
 source_collection: external

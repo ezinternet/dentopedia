@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.3390/ijms26178490
 source: mancini-2025-oral-herpes-treatment-sr.md
 category: [oral-medicine]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/mancini-2025-oral-herpes-treatment-sr.pdf
 pdf_filename: mancini-2025-oral-herpes-treatment-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.eclinm.2024.102909
 source: kechichian-2024-erythema-multiforme-review.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kechichian-2024-erythema-multiforme-review.pdf
 pdf_filename: kechichian-2024-erythema-multiforme-review.pdf
 source_collection: external

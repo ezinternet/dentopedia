@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1002/wjo2.9
 source: craig-2022-odontogenic-sinusitis-state-art.md
 category: oral-medicine
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/craig-2022-odontogenic-sinusitis-state-art.pdf
 pdf_filename: craig-2022-odontogenic-sinusitis-state-art.pdf
 source_collection: external

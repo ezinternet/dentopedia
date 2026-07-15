@@ -6,7 +6,7 @@ date: 2021-05-20
 doi: 10.3389/fmed.2021.613419
 source: mumcu-2021-oral-health-aetiological-behcet.md
 category: [oral-medicine]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "34095159"
