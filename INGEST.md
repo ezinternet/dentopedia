@@ -35,9 +35,14 @@ PHASE 2 — finalize (serial, parent only — avoids git/index races):
     • python3 scripts/ingest-one.py --finish <stem>
         ← per-file git commit + push + qmd update/embed (incremental) + mark processed
   for each returned skip-paper: delete the duplicate PDF, mark queue processed (no page)
+
+  AFTER the loop (large fan-out only, ≳5 papers): run once to guarantee the batch is
+  fully embedded — per-`--finish` incremental embeds can leave a backlog that exits 0
+  without finishing (daemon session expiry):
+    • bash scripts/embed-until-done.sh
 ```
 
-Why this split: file writes to distinct paths (`sources/*`, `wiki/*`, distinct PDFs) are conflict-free in parallel, so PHASE 1 parallelizes the real bottleneck (PDF read + page authoring — this is what was slow). But `index.md` edits and `git add/commit/push` share mutable state — running them concurrently races/corrupts the index and the git tree — so PHASE 2 keeps them strictly serial in the parent. Subagents do NOT use `isolation: worktree` (they must write into the main working tree the parent then commits). `qmd embed` is incremental (only changed docs, seconds), so running it inside each `--finish` is cheap; never force a full re-embed (`-f`).
+Why this split: file writes to distinct paths (`sources/*`, `wiki/*`, distinct PDFs) are conflict-free in parallel, so PHASE 1 parallelizes the real bottleneck (PDF read + page authoring — this is what was slow). But `index.md` edits and `git add/commit/push` share mutable state — running them concurrently races/corrupts the index and the git tree — so PHASE 2 keeps them strictly serial in the parent. Subagents do NOT use `isolation: worktree` (they must write into the main working tree the parent then commits). `qmd embed` is incremental (only changed docs, seconds), so running it inside each `--finish` is cheap; never force a full re-embed (`-f`). Caveat for large fan-outs: incremental embeds can accumulate a backlog the daemon leaves half-done (exit 0 ≠ complete), so PHASE 2 ends with a single `bash scripts/embed-until-done.sh` that loops `qmd update`/`embed` until the `"All content hashes already have embeddings"` marker appears.
 
 Helper: `python3 scripts/ingest-one.py --next` prints one stem+text for a single subagent; read `.ingest-queue` `pending[]` to enumerate all stems to fan out in PHASE 1. For a single paper, skip the fan-out and run Steps 0–4 + `--finish` inline (no subagent needed).
 
