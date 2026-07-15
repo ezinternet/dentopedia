@@ -6,7 +6,7 @@ date: 2016-10-27
 doi: 10.15171/jlms.2016.46
 source: moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.md
 category: [suture-wound-closure]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.pdf
 pdf_filename: moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.pdf
 source_collection: external

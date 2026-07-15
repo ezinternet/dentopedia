@@ -6,7 +6,7 @@ date: 2023-12-20
 doi: 10.1007/s00784-023-05390-8
 source: pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap.md
 category: [suture-wound-closure]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap.pdf
 pdf_filename: pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.11607/prd.6179
 source: attia-2023-coronally-advanced-lingual-flap-titanium-mesh.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/attia-2023-coronally-advanced-lingual-flap-titanium-mesh.pdf
 pdf_filename: attia-2023-coronally-advanced-lingual-flap-titanium-mesh.pdf
 source_collection: external

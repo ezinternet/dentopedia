@@ -6,7 +6,7 @@ date: 2024-09-27
 doi: 10.1097/MD.0000000000039806
 source: wang-2024-poncho-technique-titanium-mesh-bone-regeneration.md
 category: [suture-wound-closure]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2024-poncho-technique-titanium-mesh-bone-regeneration.pdf
 pdf_filename: wang-2024-poncho-technique-titanium-mesh-bone-regeneration.pdf
 source_collection: external

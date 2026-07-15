@@ -6,7 +6,7 @@ date: 2020-08-25
 doi: not reported
 source: aghdashi-2020-sling-single-interrupted-sutures-third-molar.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/aghdashi-2020-sling-single-interrupted-sutures-third-molar.pdf
 pdf_filename: aghdashi-2020-sling-single-interrupted-sutures-third-molar.pdf
 source_collection: external

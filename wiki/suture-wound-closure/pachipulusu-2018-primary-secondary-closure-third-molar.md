@@ -6,7 +6,7 @@ date: 2018-05-23
 doi: 10.1007/s10006-018-0696-8
 source: pachipulusu-2018-primary-secondary-closure-third-molar.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/pachipulusu-2018-primary-secondary-closure-third-molar.pdf
 pdf_filename: pachipulusu-2018-primary-secondary-closure-third-molar.pdf
 source_collection: external

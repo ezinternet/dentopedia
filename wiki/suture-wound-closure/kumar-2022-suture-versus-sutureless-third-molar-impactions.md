@@ -6,7 +6,7 @@ date: 2022-06-01
 doi: 10.1007/s12663-020-01459-z
 source: kumar-2022-suture-versus-sutureless-third-molar-impactions.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2022-suture-versus-sutureless-third-molar-impactions.pdf
 pdf_filename: kumar-2022-suture-versus-sutureless-third-molar-impactions.pdf
 source_collection: external

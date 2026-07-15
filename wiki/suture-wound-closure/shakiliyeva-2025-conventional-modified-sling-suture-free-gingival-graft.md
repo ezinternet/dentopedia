@@ -6,7 +6,7 @@ date: 2025-02-24
 doi: 10.1186/s12903-025-05456-x
 source: shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft.md
 category: [suture-wound-closure]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft.pdf
 pdf_filename: shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft.pdf
 source_collection: external

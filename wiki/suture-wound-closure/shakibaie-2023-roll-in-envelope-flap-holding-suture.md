@@ -6,7 +6,7 @@ date: 2023-02-28
 doi: 10.1111/jerd.13027
 source: shakibaie-2023-roll-in-envelope-flap-holding-suture.md
 category: [suture-wound-closure]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shakibaie-2023-roll-in-envelope-flap-holding-suture.pdf
 pdf_filename: shakibaie-2023-roll-in-envelope-flap-holding-suture.pdf
 source_collection: external

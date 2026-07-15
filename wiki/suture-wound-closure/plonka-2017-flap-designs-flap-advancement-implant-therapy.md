@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1097/ID.0000000000000510
 source: plonka-2017-flap-designs-flap-advancement-implant-therapy.md
 category: [suture-wound-closure]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/plonka-2017-flap-designs-flap-advancement-implant-therapy.pdf
 pdf_filename: plonka-2017-flap-designs-flap-advancement-implant-therapy.pdf
 source_collection: external
