@@ -27,6 +27,10 @@ source_papers:
   - drug/rajan-2025-doxycycline-safety-children-dental-sr
   - periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct
   - periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct
+  - drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review
+  - drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane
+  - drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic
+  - drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -317,6 +321,15 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 ---
 
 ## Related Papers
+
+### 신규 ingest cluster — prophylaxis 중단·임플란트·경험적 선택·안전성 (2026-07-15, 4편)
+
+이 4편은 stewardship 3대 원칙(① 단일 preop 용량만·연장 금지, ② 적응증 좁히기, ③ 경험적 선택은 지역 감수성 기반)을 각각 실증한다:
+
+- [[drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review]] — Umbrella + pooled MA (9 reviews, 80,483명): 절개봉합 시점 즉시 중단 vs 24h 이상 지속 = SSI 차이 없음 **RR 1.07 (0.97–1.17), p=0.22**. 술후 연장 예방은 무익 → de-implement 최우선 타깃. (일반외과 근거, AMSTAR-2 0/28 high — 근거질 약함) (sr+ma, 2025)
+- [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — Cochrane SR+MA (6 RCT, 1,162명): 단일 preop amoxicillin 2–3g가 조기 임플란트 실패 유의 감소 **RR 0.33 (0.16–0.67), NNTB 25**; 그러나 술후 연장은 이득 없음(Nolan 4-arm 무정보), 부작용 신호 없음. 엄격 재분석(momand-2024)은 RR 0.66·NNT 143·비유의로 근거 취약성 노출. Moderate GRADE, amoxicillin only. (sr+ma, 2013)
+- [[drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic]] — 10년 후향 단일센터 한국(n=192, 302 균주): 치성 근막공간 농양 배양 — viridans strep penicillin-G 감수성 **68.4%→52.0%로 하락**, 3세대 cephalosporin ~94–95% 유지, 심경부공간엔 내성 Gram음성(Klebsiella, ampicillin 100% 내성) 증가. Penicillin 단독 경험요법은 입원·중증에 부적절, 배양 필수. (retrospective, 2023)
+- [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Umbrella of RCTs (75 SR, 725 RCT, 163,832명, 78 시나리오): 예방효과는 "clean vs dirty" 직관과 무관하게 시나리오별 상이(119개 중 유의 56.3%, 확실은 34개뿐); **실제 harm 존재**(내성 RR 1.73, 부작용 RR up to 3.32) — routine 아닌 case-by-case. GRADE 70% low/very-low. (sr+ma, 2024)
 
 ### 신규 ingest cluster — 처방 실태 조사 (prescribing-practice surveys) (2026-07-01, 3편)
 
