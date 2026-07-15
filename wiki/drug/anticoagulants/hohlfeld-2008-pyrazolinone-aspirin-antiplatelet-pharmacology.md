@@ -6,7 +6,7 @@ date: 2008-01-01
 doi: 10.1111/j.1538-7836.2007.02786.x
 source: hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.md
 category: [drug/anticoagulants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.pdf
 pdf_filename: hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.pdf
 source_collection: external

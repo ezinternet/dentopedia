@@ -7,7 +7,7 @@ doi: 10.1002/14651858.CD010794.pub2
 journal: Cochrane Database Syst Rev
 source: moore-2015-otc-oral-analgesics-cochrane-overview.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 pdf_filename: moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 source_collection: external

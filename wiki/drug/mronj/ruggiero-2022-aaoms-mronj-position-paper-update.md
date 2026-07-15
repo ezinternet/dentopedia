@@ -6,7 +6,7 @@ date: 2022-02-15
 doi: 10.1016/j.joms.2022.02.008
 source: ruggiero-2022-aaoms-mronj-position-paper-update.md
 category: [drug/mronj]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 pdf_filename: ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1002/adhm.202504701
 source: guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41560325"

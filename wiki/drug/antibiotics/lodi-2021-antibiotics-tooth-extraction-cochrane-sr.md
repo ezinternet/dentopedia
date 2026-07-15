@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1002/14651858.CD003811.pub3
 source: lodi-2021-antibiotics-tooth-extraction-cochrane-sr.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lodi-2021-antibiotics-tooth-extraction-cochrane-sr.pdf
 pdf_filename: lodi-2021-antibiotics-tooth-extraction-cochrane-sr.pdf
 source_collection: external

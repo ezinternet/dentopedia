@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/scd.70112
 source: loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41269014"

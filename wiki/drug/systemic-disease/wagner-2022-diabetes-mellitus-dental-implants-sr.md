@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1186/s40729-021-00399-8
 journal: International Journal of Implant Dentistry 8:1
 source: wagner-2022-diabetes-mellitus-dental-implants-sr.md
-confidence: sr
+evidence_level: sr
 category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wagner-2022-diabetes-mellitus-dental-implants-sr.pdf
 pdf_filename: wagner-2022-diabetes-mellitus-dental-implants-sr.pdf

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3389/fphar.2025.1646638
 source: rajan-2025-doxycycline-safety-children-dental-sr.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41069592"

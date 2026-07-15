@@ -6,7 +6,7 @@ date: 2026-01-26
 doi: 10.1186/s12903-025-07458-1
 source: kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma.md
 category: drug/analgesics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41588508"

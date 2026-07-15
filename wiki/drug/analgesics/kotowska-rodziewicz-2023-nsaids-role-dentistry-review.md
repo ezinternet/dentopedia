@@ -6,7 +6,7 @@ date: 2023-06-25
 doi: 10.12659/MSM.940635
 journal: Medical Science Monitor 29:e940635
 source: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf
 pdf_filename: kotowska-rodziewicz-2023-nsaids-role-dentistry-review.pdf

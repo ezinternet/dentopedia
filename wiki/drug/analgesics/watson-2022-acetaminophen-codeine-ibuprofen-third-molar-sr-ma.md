@@ -7,7 +7,7 @@ doi: 10.1093/pm/pnab334
 journal: Pain Medicine
 source: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 pdf_filename: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 source_collection: external

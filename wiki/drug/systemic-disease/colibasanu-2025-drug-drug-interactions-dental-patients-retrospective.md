@@ -6,7 +6,7 @@ date: 2025-06-09
 doi: 10.3390/dj13060255
 source: colibasanu-2025-drug-drug-interactions-dental-patients-retrospective.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective.pdf
 pdf_filename: colibasanu-2025-drug-drug-interactions-dental-patients-retrospective.pdf
 source_collection: external

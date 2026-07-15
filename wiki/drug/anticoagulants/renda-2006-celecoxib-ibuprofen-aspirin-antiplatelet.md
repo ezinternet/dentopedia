@@ -6,7 +6,7 @@ date: 2006-09-02
 doi: 10.1016/j.clpt.2006.05.004
 source: renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet.md
 category: [drug/anticoagulants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet.pdf
 pdf_filename: renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-03
 doi: "10.3390/medicina61010066"
 source: breidung-2025-epidemiological-characteristics-prognostic-scoring.md
 category: [drug/analgesics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39859048"

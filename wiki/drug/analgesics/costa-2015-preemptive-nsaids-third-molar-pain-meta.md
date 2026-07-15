@@ -7,7 +7,7 @@ doi: 10.2344/0003-3006-62.2.57
 journal: Anesth Prog 62(2):57-63
 source: costa-2015-preemptive-nsaids-third-molar-pain-meta.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/costa-2015-preemptive-nsaids-third-molar-pain-meta.pdf
 pdf_filename: costa-2015-preemptive-nsaids-third-molar-pain-meta.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-09-29
 doi: 10.1007/s00784-021-04154-6
 source: andrade-2021-survival-rate-peri-implant-evaluation.md
 category: [drug/systemic-disease]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "34586502"

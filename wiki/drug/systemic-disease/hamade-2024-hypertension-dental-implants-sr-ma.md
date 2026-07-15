@@ -6,7 +6,7 @@ date: 2024-01-16
 doi: 10.3390/jcm13020499
 source: hamade-2024-hypertension-dental-implants-sr-ma.md
 category: [drug/systemic-disease]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38256633"

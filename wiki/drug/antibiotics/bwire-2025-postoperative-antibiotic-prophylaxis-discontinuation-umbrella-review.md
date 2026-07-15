@@ -6,7 +6,7 @@ date: 2025-01-08
 doi: 10.1186/s13643-024-02750-7
 source: bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39780234"

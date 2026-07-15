@@ -6,7 +6,7 @@ date: 2013-06-24
 doi: 10.1002/14651858.CD004152.pub4
 source: esposito-2013-antibiotics-dental-implant-placement-cochrane.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2013-antibiotics-dental-implant-placement-cochrane.pdf
 pdf_filename: esposito-2013-antibiotics-dental-implant-placement-cochrane.pdf
 source_collection: external

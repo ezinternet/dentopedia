@@ -7,7 +7,7 @@ doi: ""
 journal: Ann Maxillofac Surg 14(2):137
 source: krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.md
 category: [drug/anticoagulants]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 pdf_filename: krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 source_collection: external

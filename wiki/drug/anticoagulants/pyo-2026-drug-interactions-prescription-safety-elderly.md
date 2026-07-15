@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.22974/jkda.2026.64.4.004
 journal: "J Korean Dent Assoc 2026; 64(4): 138-142"
 source: pyo-2026-drug-interactions-prescription-safety-elderly.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pyo-2026-drug-interactions-prescription-safety-elderly.pdf
 pdf_filename: pyo-2026-drug-interactions-prescription-safety-elderly.pdf

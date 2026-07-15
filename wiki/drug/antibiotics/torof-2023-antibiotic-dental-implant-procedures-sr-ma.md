@@ -7,7 +7,7 @@ doi: 10.3390/medicina59040713
 journal: Medicina 59:713
 source: torof-2023-antibiotic-dental-implant-procedures-sr-ma.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/torof-2023-antibiotic-dental-implant-procedures-sr-ma.pdf
 pdf_filename: torof-2023-antibiotic-dental-implant-procedures-sr-ma.pdf
 source_collection: external

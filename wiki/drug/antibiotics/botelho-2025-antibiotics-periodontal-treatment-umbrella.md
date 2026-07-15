@@ -6,7 +6,7 @@ date: 2025-06-19
 doi: 10.3389/fcimb.2025.1601464
 source: botelho-2025-antibiotics-periodontal-treatment-umbrella.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40535546"

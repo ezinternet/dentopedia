@@ -6,7 +6,7 @@ date: 2021-05-18
 doi: 10.1161/CIR.0000000000000969
 journal: Circulation 143:e963-e978
 source: wilson-2021-ie-prophylaxis-aha-scientific-statement.md
-confidence: consensus
+evidence_level: consensus
 category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wilson-2021-ie-prophylaxis-aha-scientific-statement.pdf
 pdf_filename: wilson-2021-ie-prophylaxis-aha-scientific-statement.pdf

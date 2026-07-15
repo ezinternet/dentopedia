@@ -7,7 +7,7 @@ doi: 10.1007/s00774-025-01617-8
 journal: J Bone Miner Metab 43:525-534
 source: iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective.pdf
 pdf_filename: iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective.pdf
 source_collection: external

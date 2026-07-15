@@ -6,7 +6,7 @@ date: 2025-07-14
 doi: 10.4103/jpbs.jpbs_687_25
 source: kumari-2025-hemodynamic-fluctuations-during-tooth-extraction.md
 category: [drug/systemic-disease]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41164587"

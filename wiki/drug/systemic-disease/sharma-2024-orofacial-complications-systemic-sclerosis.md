@@ -6,7 +6,7 @@ date: 2024-05-22
 doi: 10.1177/00220345241249408
 source: sharma-2024-orofacial-complications-systemic-sclerosis.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "38779873"

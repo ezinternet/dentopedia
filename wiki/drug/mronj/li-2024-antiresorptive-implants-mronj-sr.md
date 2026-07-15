@@ -6,7 +6,7 @@ date: 2024-04-03
 doi: 10.3390/jcm13072091
 source: li-2024-antiresorptive-implants-mronj-sr.md
 category: [drug/mronj]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2024-antiresorptive-implants-mronj-sr.pdf
 pdf_filename: li-2024-antiresorptive-implants-mronj-sr.pdf
 source_collection: external

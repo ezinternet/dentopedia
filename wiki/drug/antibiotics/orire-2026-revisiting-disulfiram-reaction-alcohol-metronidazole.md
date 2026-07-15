@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.1097/OLQ.0000000000002276
 source: orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.pdf
 pdf_filename: orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.pdf
 source_collection: external

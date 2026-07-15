@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.17245/jdapm.2026.26.2.91
 source: altuhafy-2026-tenoxicam-postoperative-dental-pain-sr.md
 category: drug/analgesics
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41952911"

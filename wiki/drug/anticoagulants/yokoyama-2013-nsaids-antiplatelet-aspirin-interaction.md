@@ -6,7 +6,7 @@ date: 2013-01-01
 doi: 10.1111/j.1365-2710.2012.01373.x
 source: yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.md
 category: [drug/anticoagulants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.pdf
 pdf_filename: yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.pdf
 source_collection: external

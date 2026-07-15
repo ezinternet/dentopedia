@@ -6,7 +6,7 @@ date: 2025-12-01
 doi: 10.1016/j.jcrc.2025.155202
 source: gomes-2025-nsaids-kidney-toxicity-icu-retrospective.md
 category: [drug/analgesics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/gomes-2025-nsaids-kidney-toxicity-icu-retrospective.pdf
 pdf_filename: gomes-2025-nsaids-kidney-toxicity-icu-retrospective.pdf
 source_collection: external

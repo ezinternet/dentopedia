@@ -7,7 +7,7 @@ doi: 10.1016/j.joen.2011.08.011
 journal: J Endod 37(12):1608-1612
 source: wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 pdf_filename: wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 source_collection: external

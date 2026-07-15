@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07237-y
 source: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41286855"

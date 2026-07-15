@@ -6,7 +6,7 @@ date: 2026-05-01
 doi: 10.4317/medoral.27956
 source: magesty-2026-adverse-events-oral-analgesics-third-molar-nma.md
 category: drug/analgesics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41578906"

@@ -6,7 +6,7 @@ date: 2022-04-29
 doi: 10.3390/ma15093227
 journal: Materials 15(9):3227
 source: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.pdf
 pdf_filename: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.pdf

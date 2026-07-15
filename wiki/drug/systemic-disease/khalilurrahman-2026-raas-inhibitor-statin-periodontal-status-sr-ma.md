@@ -6,7 +6,7 @@ date: 2026-03-09
 doi: "10.1007/s44445-026-00135-1"
 source: khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma.md
 category: [drug/systemic-disease]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41801622"

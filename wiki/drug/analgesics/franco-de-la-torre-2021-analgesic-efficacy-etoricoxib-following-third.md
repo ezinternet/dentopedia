@@ -6,7 +6,7 @@ date: 2021-09-09
 doi: 10.1155/2021/9536054
 source: franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.pdf
 pdf_filename: franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.pdf
 source_collection: external

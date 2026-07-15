@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1002/cre2.70295
 source: ping-2026-ketorolac-root-canal-pain-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41704089"

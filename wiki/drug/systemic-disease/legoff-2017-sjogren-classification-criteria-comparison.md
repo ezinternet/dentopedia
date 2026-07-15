@@ -6,7 +6,7 @@ date: 2017-09-25
 doi: 10.1186/s13075-017-1475-x
 source: legoff-2017-sjogren-classification-criteria-comparison.md
 category: [drug/systemic-disease]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/legoff-2017-sjogren-classification-criteria-comparison.pdf
 pdf_filename: legoff-2017-sjogren-classification-criteria-comparison.pdf
 source_collection: external

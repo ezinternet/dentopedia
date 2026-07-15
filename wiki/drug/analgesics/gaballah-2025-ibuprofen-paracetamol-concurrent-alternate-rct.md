@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1038/s41598-025-89744-0
 source: gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 pdf_filename: gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 source_collection: external

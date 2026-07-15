@@ -6,7 +6,7 @@ date: 2024-06-06
 doi: 10.1093/eurheartj/ehae324
 source: patrono-2024-low-dose-aspirin-prevention-atherosclerotic.md
 category: [drug/anticoagulants]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/patrono-2024-low-dose-aspirin-prevention-atherosclerotic.pdf
 pdf_filename: patrono-2024-low-dose-aspirin-prevention-atherosclerotic.pdf
 source_collection: external

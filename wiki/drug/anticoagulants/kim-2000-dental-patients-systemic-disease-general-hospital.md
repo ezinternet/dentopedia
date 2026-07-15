@@ -7,7 +7,7 @@ doi: ""
 journal: "Korean OMFS journal (likely 대한구강악안면외과학회지)"
 source: kim-2000-dental-patients-systemic-disease-general-hospital.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 pdf_filename: kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 source_collection: external

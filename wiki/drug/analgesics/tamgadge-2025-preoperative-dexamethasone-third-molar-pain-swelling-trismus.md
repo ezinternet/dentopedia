@@ -6,7 +6,7 @@ date: 2025-10-13
 doi: 10.4103/jpbs.jpbs_466_25
 source: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus.md
 category: drug/analgesics
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42005489"

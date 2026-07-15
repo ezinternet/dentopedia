@@ -6,7 +6,7 @@ date: 2025-04-14
 doi: 10.1093/jac/dkaf118
 source: mendez-romero-2025-antibiotic-stewardship-dentistry-sr.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40243511"

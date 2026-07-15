@@ -7,7 +7,7 @@ doi: 10.14744/eej.2022.45238
 journal: Eur Endod J 8:133-9
 source: vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.pdf
 pdf_filename: vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.pdf
 source_collection: external

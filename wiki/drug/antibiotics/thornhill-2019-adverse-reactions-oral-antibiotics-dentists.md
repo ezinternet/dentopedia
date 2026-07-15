@@ -6,7 +6,7 @@ date: 2019-08-08
 doi: 10.1177/0022034519863645
 source: thornhill-2019-adverse-reactions-oral-antibiotics-dentists.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/thornhill-2019-adverse-reactions-oral-antibiotics-dentists.pdf
 pdf_filename: thornhill-2019-adverse-reactions-oral-antibiotics-dentists.pdf
 source_collection: external

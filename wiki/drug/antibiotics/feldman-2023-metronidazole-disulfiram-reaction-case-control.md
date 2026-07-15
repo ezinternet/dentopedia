@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: unknown
 source: feldman-2023-metronidazole-disulfiram-reaction-case-control.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/feldman-2023-metronidazole-disulfiram-reaction-case-control.pdf
 pdf_filename: feldman-2023-metronidazole-disulfiram-reaction-case-control.pdf
 source_collection: external

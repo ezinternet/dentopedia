@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.15386/mpr-2519
 source: moldovan-2023-anticoagulant-oral-surgery-bleeding-sr.md
 category: [drug/anticoagulants]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr.pdf
 pdf_filename: moldovan-2023-anticoagulant-oral-surgery-bleeding-sr.pdf
 source_collection: external

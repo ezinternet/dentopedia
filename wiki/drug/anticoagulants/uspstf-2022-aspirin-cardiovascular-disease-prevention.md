@@ -7,7 +7,7 @@ doi: 10.1001/jama.2022.4983
 journal: JAMA 327(16):1577-1584
 source: uspstf-2022-aspirin-cardiovascular-disease-prevention.md
 category: [drug/anticoagulants]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/uspstf-2022-aspirin-cardiovascular-disease-prevention.pdf
 pdf_filename: uspstf-2022-aspirin-cardiovascular-disease-prevention.pdf
 source_collection: external

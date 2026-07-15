@@ -6,7 +6,7 @@ date: 2001-12-20
 doi: 10.1056/NEJMoa003199
 source: catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm.md
 category: [drug/anticoagulants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm.pdf
 pdf_filename: catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm.pdf
 source_collection: external

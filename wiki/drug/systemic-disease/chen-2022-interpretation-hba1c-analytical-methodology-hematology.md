@@ -6,7 +6,7 @@ date: 2022-10-04
 doi: 10.3892/etm.2022.11643
 source: chen-2022-interpretation-hba1c-analytical-methodology-hematology.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2022-interpretation-hba1c-analytical-methodology-hematology.pdf
 pdf_filename: chen-2022-interpretation-hba1c-analytical-methodology-hematology.pdf
 source_collection: external

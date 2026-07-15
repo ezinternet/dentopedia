@@ -7,7 +7,7 @@ doi: ""
 journal: Blood (THROMBOSIS AND HEMOSTASIS)
 source: liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.md
 category: [drug/anticoagulants]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.pdf
 pdf_filename: liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.pdf
 source_collection: external

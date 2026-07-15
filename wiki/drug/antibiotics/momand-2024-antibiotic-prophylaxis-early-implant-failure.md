@@ -6,7 +6,7 @@ date: 2024-07-25
 doi: "10.1186/s12903-024-04611-0"
 source: momand-2024-antibiotic-prophylaxis-early-implant-failure.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39054434"

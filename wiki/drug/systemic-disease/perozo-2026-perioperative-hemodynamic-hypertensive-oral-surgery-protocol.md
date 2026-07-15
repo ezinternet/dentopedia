@@ -6,7 +6,7 @@ date: 2026-04-16
 doi: 10.7759/cureus.107163
 source: perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42147593"

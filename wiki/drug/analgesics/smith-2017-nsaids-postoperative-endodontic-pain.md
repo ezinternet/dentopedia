@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.1016/j.joen.2016.09.010
 source: smith-2017-nsaids-postoperative-endodontic-pain.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/smith-2017-nsaids-postoperative-endodontic-pain.pdf
 pdf_filename: smith-2017-nsaids-postoperative-endodontic-pain.pdf
 source_collection: external

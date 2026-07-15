@@ -6,7 +6,7 @@ date: 2024-08-31
 doi: 10.5125/jkaoms.2024.50.4.189
 source: kim-2024-post-extraction-bleeding-direct-oral-anticoagulants.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39211967"

@@ -6,7 +6,7 @@ date: 2026-06-02
 doi: 10.1016/j.identj.2026.109654
 source: low-2026-dental-antibiotic-prescribing-practices-singapore.md
 category: drug/antibiotics
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42229148"

@@ -7,7 +7,7 @@ doi: 10.3390/antibiotics13020189
 journal: Antibiotics 13:189
 source: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 pdf_filename: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 source_collection: external

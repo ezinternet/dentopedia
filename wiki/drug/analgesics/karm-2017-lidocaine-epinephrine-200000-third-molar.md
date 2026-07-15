@@ -7,7 +7,7 @@ doi: ""
 journal: "대한치과의사협회지 (J Korean Dent Assoc) 56(1)"
 source: karm-2017-lidocaine-epinephrine-200000-third-molar.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/karm-2017-lidocaine-epinephrine-200000-third-molar.pdf
 pdf_filename: karm-2017-lidocaine-epinephrine-200000-third-molar.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2019-03-11
 doi: unknown
 journal: Clinical Practice Guideline — UF College of Dentistry (Rev. 03/11/19)
 source: ufcd-2019-medically-complex-patients-management-guidelines.md
-confidence: consensus
+evidence_level: consensus
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ufcd-2019-medically-complex-patients-management-guidelines.pdf
 pdf_filename: ufcd-2019-medically-complex-patients-management-guidelines.pdf

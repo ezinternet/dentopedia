@@ -6,7 +6,7 @@ date: 2021-02-28
 doi: 10.3390/antibiotics10030240
 source: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 pdf_filename: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1016/j.jebdp.2023.101863
 journal: J Evid Based Dent Pract 23(3):101863
 source: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.md
 category: [drug/anticoagulants]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 pdf_filename: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 source_collection: external

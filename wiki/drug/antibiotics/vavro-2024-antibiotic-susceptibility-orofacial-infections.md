@@ -6,7 +6,7 @@ date: 2024-09-21
 doi: 10.1007/s00784-024-05937-3
 source: vavro-2024-antibiotic-susceptibility-orofacial-infections.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39304566"

@@ -6,7 +6,7 @@ date: 2023-10-24
 doi: 10.1259/dmfr.20230238
 source: moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 pdf_filename: moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-11-15
 doi: 10.3390/dj12110364
 journal: Dentistry Journal 12(11):364
 source: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf
 pdf_filename: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf

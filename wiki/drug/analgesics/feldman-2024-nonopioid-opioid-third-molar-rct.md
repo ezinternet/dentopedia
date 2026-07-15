@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: 10.1016/j.adaj.2024.10.014
 source: feldman-2024-nonopioid-opioid-third-molar-rct.md
 category: [drug/analgesics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/feldman-2024-nonopioid-opioid-third-molar-rct.pdf
 pdf_filename: feldman-2024-nonopioid-opioid-third-molar-rct.pdf
 source_collection: external

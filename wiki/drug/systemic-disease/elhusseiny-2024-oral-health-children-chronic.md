@@ -6,7 +6,7 @@ date: 2024-08-27
 doi: 10.1177/11795565241271689
 source: elhusseiny-2024-oral-health-children-chronic.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39206206"

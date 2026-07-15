@@ -6,7 +6,7 @@ date: 2022-07-20
 doi: 10.31083/j.rcm2308261
 journal: Reviews in Cardiovascular Medicine 23(8):261
 source: gupta-2022-dental-management-cardiovascular-disease.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/gupta-2022-dental-management-cardiovascular-disease.pdf
 pdf_filename: gupta-2022-dental-management-cardiovascular-disease.pdf

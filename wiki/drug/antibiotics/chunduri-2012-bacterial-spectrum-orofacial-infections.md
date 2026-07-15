@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: 10.4103/2231-0746.95318
 source: chunduri-2012-bacterial-spectrum-orofacial-infections.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/chunduri-2012-bacterial-spectrum-orofacial-infections.pdf
 pdf_filename: chunduri-2012-bacterial-spectrum-orofacial-infections.pdf
 source_collection: external

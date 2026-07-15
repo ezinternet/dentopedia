@@ -6,7 +6,7 @@ date: 2019-11-01
 doi: 10.1016/j.adaj.2019.08.020
 source: lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.md
 category: [drug/antibiotics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.pdf
 pdf_filename: lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.pdf
 source_collection: external

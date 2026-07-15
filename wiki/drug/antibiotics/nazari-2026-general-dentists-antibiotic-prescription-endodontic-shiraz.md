@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.30476/dentjods.2025.105820.2614
 source: nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42253831"

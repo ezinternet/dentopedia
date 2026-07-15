@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.semarthrit.2025.152550
 source: zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.md
 category: [drug/analgesics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 pdf_filename: zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 source_collection: external

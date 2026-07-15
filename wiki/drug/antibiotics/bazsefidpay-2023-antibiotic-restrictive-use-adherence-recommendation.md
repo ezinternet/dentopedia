@@ -7,7 +7,7 @@ doi: 10.1186/s12903-023-03534-6
 journal: BMC Oral Health 23:818
 source: bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.md
 category: [drug/antibiotics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.pdf
 pdf_filename: bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.pdf
 source_collection: external

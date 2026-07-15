@@ -7,7 +7,7 @@ doi: 10.1001/jamacardio.2024.0873
 journal: JAMA Cardiol 9(7):599-610
 source: sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma.pdf
 pdf_filename: sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma.pdf
 source_collection: external

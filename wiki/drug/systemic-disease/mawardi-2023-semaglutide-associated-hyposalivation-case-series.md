@@ -6,7 +6,7 @@ date: 2023-12-22
 doi: 10.1097/MD.0000000000036730
 source: mawardi-2023-semaglutide-associated-hyposalivation-case-series.md
 category: drug/systemic-disease
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "38206684"

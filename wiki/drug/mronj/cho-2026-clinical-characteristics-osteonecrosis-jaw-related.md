@@ -6,7 +6,7 @@ date: 2026-02-28
 doi: "10.5125/jkaoms.2026.52.1.18"
 source: cho-2026-clinical-characteristics-osteonecrosis-jaw-related.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/cho-2026-clinical-characteristics-osteonecrosis-jaw-related.pdf
 pdf_filename: cho-2026-clinical-characteristics-osteonecrosis-jaw-related.pdf
 source_collection: external

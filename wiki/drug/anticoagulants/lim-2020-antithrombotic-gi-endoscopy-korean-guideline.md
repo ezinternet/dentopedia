@@ -7,7 +7,7 @@ doi: 10.4166/kjg.2020.142
 journal: Korean J Gastroenterol 76(6):282-296
 source: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.md
 category: [drug/anticoagulants]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 pdf_filename: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 source_collection: external

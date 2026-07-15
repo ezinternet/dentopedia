@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-07465-2
 source: diaz-2025-antibiotics-sinus-lift-infection-umbrella.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41413511"

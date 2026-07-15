@@ -7,7 +7,7 @@ doi: 10.1016/j.adaj.2022.10.014
 journal: "J Am Dent Assoc 154(1)"
 source: miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr.pdf
 pdf_filename: miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr.pdf
 source_collection: external

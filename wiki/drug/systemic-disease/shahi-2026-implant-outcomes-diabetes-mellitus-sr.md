@@ -6,7 +6,7 @@ date: 2026-01-22
 doi: 10.1186/s12903-026-07782-0
 source: shahi-2026-implant-outcomes-diabetes-mellitus-sr.md
 category: [drug/systemic-disease]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/shahi-2026-implant-outcomes-diabetes-mellitus-sr.pdf
 pdf_filename: shahi-2026-implant-outcomes-diabetes-mellitus-sr.pdf
 source_collection: external

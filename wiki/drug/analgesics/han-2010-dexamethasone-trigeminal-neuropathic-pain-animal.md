@@ -7,7 +7,7 @@ doi: 10.1177/0022034510374056
 journal: Journal of Dental Research
 source: han-2010-dexamethasone-trigeminal-neuropathic-pain-animal.md
 category: [drug/analgesics]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/han-2010-dexamethasone-trigeminal-neuropathic-pain-animal.pdf
 pdf_filename: han-2010-dexamethasone-trigeminal-neuropathic-pain-animal.pdf
 source_collection: external

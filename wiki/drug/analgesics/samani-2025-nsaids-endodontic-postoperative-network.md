@@ -6,7 +6,7 @@ date: 2025-08-30
 doi: 10.62347/RHSD5636
 source: samani-2025-nsaids-endodontic-postoperative-network.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/samani-2025-nsaids-endodontic-postoperative-network.pdf
 pdf_filename: samani-2025-nsaids-endodontic-postoperative-network.pdf
 source_collection: external

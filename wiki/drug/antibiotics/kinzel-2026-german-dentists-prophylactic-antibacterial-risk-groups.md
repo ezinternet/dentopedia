@@ -6,7 +6,7 @@ date: 2026-06-19
 doi: 10.1155/ijod/8452465
 source: kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups.md
 category: drug/antibiotics
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "42325694"

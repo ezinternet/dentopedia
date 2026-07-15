@@ -6,7 +6,7 @@ date: 2022-06-09
 doi: 10.1016/j.jormas.2022.06.004
 source: yong-2022-dapt-dental-extraction-umbrella-review.md
 category: [drug/anticoagulants]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35691560"

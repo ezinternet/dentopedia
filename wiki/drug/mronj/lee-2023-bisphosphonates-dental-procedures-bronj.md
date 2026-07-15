@@ -6,7 +6,7 @@ date: 2023-11-10
 doi: 10.3390/cancers15225366
 journal: Cancers 15(22):5366
 source: lee-2023-bisphosphonates-dental-procedures-bronj.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-bisphosphonates-dental-procedures-bronj.pdf
 pdf_filename: lee-2023-bisphosphonates-dental-procedures-bronj.pdf

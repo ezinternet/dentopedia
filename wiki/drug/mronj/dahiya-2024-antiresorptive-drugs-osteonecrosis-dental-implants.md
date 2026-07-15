@@ -6,7 +6,7 @@ date: 2024-10-15
 doi: 10.7759/cureus.71506
 source: dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants.md
 category: [drug/mronj]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "39552988"
 pmcid: "PMC11563775"

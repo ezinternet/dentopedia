@@ -6,7 +6,7 @@ date: 2024-09-21
 doi: 10.4103/jpbs.jpbs_870_24
 journal: Journal of Pharmacy and Bioallied Sciences 16(Suppl 4):S3034-S3036
 source: satpathi-2024-corticosteroids-dentistry-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/satpathi-2024-corticosteroids-dentistry-review.pdf
 pdf_filename: satpathi-2024-corticosteroids-dentistry-review.pdf

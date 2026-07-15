@@ -7,7 +7,7 @@ doi: 10.1007/s10787-009-0016-x
 journal: Inflammopharmacology 17:275-342
 source: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.md
 category: [drug/analgesics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 pdf_filename: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.3390/antibiotics13090873
 journal: Antibiotics 13:873
 source: sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.md
 category: [drug/antibiotics]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.pdf
 pdf_filename: sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.pdf
 source_collection: external

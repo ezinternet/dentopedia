@@ -6,7 +6,7 @@ date: 2016-10-10
 doi: 10.1002/art.39859
 source: shiboski-2016-acr-eular-sjogren-classification-criteria.md
 category: [drug/systemic-disease]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 pdf_filename: shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 source_collection: external

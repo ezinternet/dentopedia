@@ -6,7 +6,7 @@ date: 2024-02-01
 doi: 10.1097/JS9.0000000000000923
 source: liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38016138"

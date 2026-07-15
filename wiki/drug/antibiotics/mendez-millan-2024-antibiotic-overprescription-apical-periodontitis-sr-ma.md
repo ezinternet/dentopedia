@@ -7,7 +7,7 @@ doi: 10.3390/antibiotics13040289
 journal: Antibiotics 13:289
 source: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.md
 category: [drug/antibiotics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.pdf
 pdf_filename: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.pdf
 source_collection: external

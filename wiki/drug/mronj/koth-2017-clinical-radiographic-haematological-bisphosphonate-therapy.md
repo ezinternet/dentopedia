@@ -6,7 +6,7 @@ date: 2017-02-17
 doi: 10.1259/dmfr.20160260
 source: koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy.pdf
 pdf_filename: koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy.pdf
 source_collection: external

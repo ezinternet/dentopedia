@@ -6,7 +6,7 @@ date: 2008-08-01
 doi: 10.2337/dc08-0545
 source: nathan-2008-translating-a1c-assay-estimated-average.md
 category: [drug/systemic-disease]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nathan-2008-translating-a1c-assay-estimated-average.pdf
 pdf_filename: nathan-2008-translating-a1c-assay-estimated-average.pdf
 source_collection: external

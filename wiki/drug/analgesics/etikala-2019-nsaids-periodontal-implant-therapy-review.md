@@ -6,7 +6,7 @@ date: 2019-02-01
 doi: 10.11607/prd.4457
 source: etikala-2019-nsaids-periodontal-implant-therapy-review.md
 category: [drug/analgesics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/etikala-2019-nsaids-periodontal-implant-therapy-review.pdf
 pdf_filename: etikala-2019-nsaids-periodontal-implant-therapy-review.pdf
 source_collection: external

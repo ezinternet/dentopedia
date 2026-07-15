@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1038/s41598-022-11615-9
 source: jung-2022-denosumab-mronj-osteoporosis-5year.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 pdf_filename: jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 source_collection: external

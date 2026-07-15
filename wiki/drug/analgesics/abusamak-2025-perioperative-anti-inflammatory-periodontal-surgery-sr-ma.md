@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.1177/23800844251365539
 source: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 pdf_filename: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 source_collection: external

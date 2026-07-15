@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1016/j.identj.2024.03.010
 source: enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review.pdf
 pdf_filename: enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review.pdf
 source_collection: external

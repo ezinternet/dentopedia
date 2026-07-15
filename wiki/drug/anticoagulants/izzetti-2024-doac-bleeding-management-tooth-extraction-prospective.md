@@ -6,7 +6,7 @@ date: 2024-08-30
 doi: 10.3390/dj12090279
 source: izzetti-2024-doac-bleeding-management-tooth-extraction-prospective.md
 category: [drug/anticoagulants]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39329845"

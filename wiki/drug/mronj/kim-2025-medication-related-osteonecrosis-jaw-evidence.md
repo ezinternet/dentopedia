@@ -7,7 +7,7 @@ doi: "10.5125/jkaoms.2025.51.6.333"
 pmid: "41466542"
 source: kim-2025-medication-related-osteonecrosis-jaw-evidence.md
 category: [drug/mronj]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: false
 source_url: https://www.jkaoms.org/journal/view.html?doi=10.5125%2Fjkaoms.2025.51.6.333

@@ -6,7 +6,7 @@ date: 2024-08-02
 doi: 10.3390/healthcare12151537
 journal: Healthcare 12(15):1537
 source: inchingolo-2024-anticoagulation-therapy-dental-practice-sr.md
-confidence: sr
+evidence_level: sr
 category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/inchingolo-2024-anticoagulation-therapy-dental-practice-sr.pdf
 pdf_filename: inchingolo-2024-anticoagulation-therapy-dental-practice-sr.pdf

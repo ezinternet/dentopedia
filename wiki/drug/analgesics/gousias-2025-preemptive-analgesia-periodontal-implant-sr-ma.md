@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.14157
 journal: J Clin Periodontol 52(8):1167-1195
 source: gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma.pdf
 pdf_filename: gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma.pdf
 source_collection: external

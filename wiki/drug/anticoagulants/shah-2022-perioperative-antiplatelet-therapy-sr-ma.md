@@ -7,7 +7,7 @@ doi: ""
 journal: Mayo Clinic Proceedings
 source: shah-2022-perioperative-antiplatelet-therapy-sr-ma.md
 category: [drug/anticoagulants]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 pdf_filename: shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 source_collection: external

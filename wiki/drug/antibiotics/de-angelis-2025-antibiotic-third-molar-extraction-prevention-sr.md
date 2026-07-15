@@ -7,7 +7,7 @@ doi: 10.3390/dj13030107
 journal: Dent J 13:107
 source: de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.md
 category: [drug/antibiotics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.pdf
 pdf_filename: de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.pdf
 source_collection: external

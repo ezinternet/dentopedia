@@ -6,7 +6,7 @@ date: 2023-06-01
 doi: 10.22974/jkda.2023.61.7.001
 source: kwon-2023-mronj-position-papers-what-changed.md
 category: [drug/mronj]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2023-mronj-position-papers-what-changed.pdf
 pdf_filename: kwon-2023-mronj-position-papers-what-changed.pdf
 source_collection: external

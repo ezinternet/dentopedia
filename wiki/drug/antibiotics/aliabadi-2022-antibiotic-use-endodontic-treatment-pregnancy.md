@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.4081/ejtm.2022.10813
 source: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 pdf_filename: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 source_collection: external

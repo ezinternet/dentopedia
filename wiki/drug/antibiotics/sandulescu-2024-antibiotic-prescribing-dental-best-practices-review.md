@@ -7,7 +7,7 @@ doi: 10.3390/tropicalmed9020031
 journal: Trop Med Infect Dis 9:31
 source: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.md
 category: [drug/antibiotics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.pdf
 pdf_filename: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2013-11-17
 doi: 10.3343/alm.2013.33.6.393
 source: weykamp-2013-hba1c-review-analytical-clinical-aspects.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 pdf_filename: weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 source_collection: external

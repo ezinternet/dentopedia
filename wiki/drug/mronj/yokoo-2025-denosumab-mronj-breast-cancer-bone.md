@@ -6,7 +6,7 @@ date: 2025-07-04
 doi: 10.3390/cancers17132242
 source: yokoo-2025-denosumab-mronj-breast-cancer-bone.md
 category: [drug/mronj]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yokoo-2025-denosumab-mronj-breast-cancer-bone.pdf
 pdf_filename: yokoo-2025-denosumab-mronj-breast-cancer-bone.pdf
 source_collection: external

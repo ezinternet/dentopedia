@@ -7,7 +7,7 @@ doi: ""
 journal: J Dent (international consensus)
 source: thompson-2023-dental-antibiotic-stewardship-core-outcome-set.md
 category: [drug/antibiotics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 pdf_filename: thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 source_collection: external

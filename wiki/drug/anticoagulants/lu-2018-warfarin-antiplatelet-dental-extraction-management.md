@@ -7,7 +7,7 @@ doi: 10.1016/j.jfma.2018.08.019
 journal: J Formos Med Assoc
 source: lu-2018-warfarin-antiplatelet-dental-extraction-management.md
 category: [drug/anticoagulants]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 pdf_filename: lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 source_collection: external

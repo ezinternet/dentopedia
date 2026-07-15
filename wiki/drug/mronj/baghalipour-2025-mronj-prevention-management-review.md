@@ -6,7 +6,7 @@ date: 2025-06-24
 doi: 10.3290/j.ohpd.c_2169
 journal: Oral Health and Preventive Dentistry 23:403-417
 source: baghalipour-2025-mronj-prevention-management-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/baghalipour-2025-mronj-prevention-management-review.pdf
 pdf_filename: baghalipour-2025-mronj-prevention-management-review.pdf

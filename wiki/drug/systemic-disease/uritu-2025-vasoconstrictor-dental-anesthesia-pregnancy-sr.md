@@ -6,7 +6,7 @@ date: 2025-07-06
 doi: 10.3390/jcm14134773
 journal: Journal of Clinical Medicine 14(13):4773
 source: uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr.md
-confidence: sr
+evidence_level: sr
 category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr.pdf
 pdf_filename: uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr.pdf

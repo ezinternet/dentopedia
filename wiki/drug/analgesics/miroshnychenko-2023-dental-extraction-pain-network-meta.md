@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: 10.1177/00220345221139230
 source: miroshnychenko-2023-dental-extraction-pain-network-meta.md
 category: [drug/analgesics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/miroshnychenko-2023-dental-extraction-pain-network-meta.pdf
 pdf_filename: miroshnychenko-2023-dental-extraction-pain-network-meta.pdf
 source_collection: external
