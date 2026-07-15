@@ -6,7 +6,7 @@ date: 2021-07-10
 doi: 10.1016/j.sdentj.2021.07.001
 journal: Saudi Dental Journal 2021;33(8):1004-1011
 source: ali-2021-botulinum-toxin-occlusal-splints-management.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/ali-2021-botulinum-toxin-occlusal-splints-management.pdf
 pdf_filename: ali-2021-botulinum-toxin-occlusal-splints-management.pdf

@@ -6,7 +6,7 @@ date: 2021-05-05
 doi: 10.34172/joddd.2021.021
 journal: J Dent Res Dent Clin Dent Prospects 2021;15(2):122-128
 source: mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.md
-confidence: prospective
+evidence_level: prospective
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.pdf
 pdf_filename: mate-2021-clinical-electromyographic-evaluation-botulinum-toxin.pdf

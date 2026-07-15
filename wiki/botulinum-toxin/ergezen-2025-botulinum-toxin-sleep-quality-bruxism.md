@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/ergezen-2025-botulinum-toxin-sleep-q
 text_filename: ergezen-2025-botulinum-toxin-sleep-quality-bruxism.txt
 source: ergezen-2025-botulinum-toxin-sleep-quality-bruxism.md
 category: [botulinum-toxin]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [sleep-bruxism, awake-bruxism, PSQI, sleep-quality]

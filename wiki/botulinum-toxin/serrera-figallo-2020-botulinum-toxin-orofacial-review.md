@@ -6,7 +6,7 @@ date: 2020-02-01
 doi: 10.3390/toxins12020112
 source: serrera-figallo-2020-botulinum-toxin-orofacial-review.md
 category: [botulinum-toxin]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 pdf_filename: serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-02-10
 doi: 10.3390/jcm12041433
 journal: J Clin Med 2023;12(4):1433
 source: rojo-sanchis-2023-non-surgical-management-gingival-smile.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/rojo-sanchis-2023-non-surgical-management-gingival-smile.pdf
 pdf_filename: rojo-sanchis-2023-non-surgical-management-gingival-smile.pdf

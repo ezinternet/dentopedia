@@ -6,7 +6,7 @@ date: 2023-08-15
 doi: 10.1097/GOX.0000000000005198
 journal: Plast Reconstr Surg Glob Open 2023;11(8):e5198
 source: adel-2023-longevity-efficacy-neurotoxin-injection-lip.md
-confidence: prospective
+evidence_level: prospective
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/adel-2023-longevity-efficacy-neurotoxin-injection-lip.pdf
 pdf_filename: adel-2023-longevity-efficacy-neurotoxin-injection-lip.pdf

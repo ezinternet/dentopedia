@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/aldosari-2026-occlusal-splints-vs-bo
 text_filename: aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.txt
 source: aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.md
 category: [botulinum-toxin]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 tags: [sleep-bruxism, occlusal-splint, tmj, sr-ma, comparative]

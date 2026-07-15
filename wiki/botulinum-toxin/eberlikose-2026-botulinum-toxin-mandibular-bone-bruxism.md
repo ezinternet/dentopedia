@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/eberlikose-2026-botulinum-toxin-mand
 text_filename: eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.txt
 source: eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.md
 category: [botulinum-toxin]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 tags: [bruxism, bone-remodeling, panoramic, mandible]

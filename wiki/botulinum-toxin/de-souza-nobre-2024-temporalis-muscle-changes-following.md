@@ -6,7 +6,7 @@ date: 2024-05-13
 doi: 10.1007/s00266-024-04064-4
 journal: Aesthetic Plastic Surgery 2024;48:3979-3987
 source: de-souza-nobre-2024-temporalis-muscle-changes-following.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-souza-nobre-2024-temporalis-muscle-changes-following.pdf
 pdf_filename: de-souza-nobre-2024-temporalis-muscle-changes-following.pdf

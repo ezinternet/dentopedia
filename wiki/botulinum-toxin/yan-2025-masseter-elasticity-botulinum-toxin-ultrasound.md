@@ -9,7 +9,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/yan-2025-masseter-elasticity-botulin
 text_filename: yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.txt
 source: yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.md
 category: [botulinum-toxin]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 tags: [masseter, elastography, USE, microstructure, injection-timing]

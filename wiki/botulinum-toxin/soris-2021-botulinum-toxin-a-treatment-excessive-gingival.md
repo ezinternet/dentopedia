@@ -6,7 +6,7 @@ date: 2021-03-15
 doi: 10.1007/s12663-021-01541-0
 journal: J Maxillofac Oral Surg 2022;21(1):51-57
 source: soris-2021-botulinum-toxin-a-treatment-excessive-gingival.md
-confidence: prospective
+evidence_level: prospective
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/soris-2021-botulinum-toxin-a-treatment-excessive-gingival.pdf
 pdf_filename: soris-2021-botulinum-toxin-a-treatment-excessive-gingival.pdf

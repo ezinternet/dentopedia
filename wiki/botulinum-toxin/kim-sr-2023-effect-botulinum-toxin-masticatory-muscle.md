@@ -6,7 +6,7 @@ date: 2023-10-04
 doi: 10.3390/toxins15100597
 journal: Toxins 2023;15(10):597
 source: kim-sr-2023-effect-botulinum-toxin-masticatory-muscle.md
-confidence: rct
+evidence_level: rct
 category: botulinum-toxin
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-sr-2023-effect-botulinum-toxin-masticatory-muscle.pdf
 pdf_filename: kim-sr-2023-effect-botulinum-toxin-masticatory-muscle.pdf
