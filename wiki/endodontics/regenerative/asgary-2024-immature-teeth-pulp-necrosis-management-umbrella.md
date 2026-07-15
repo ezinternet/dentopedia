@@ -10,8 +10,6 @@ confidence: sr
 text_path: /Users/oracleneo/llm-wiki/papers/asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.txt
 text_filename: asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.txt
 source_collection: pubmed-text
-text_path: /Users/oracleneo/llm-wiki/papers/asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.txt
-text_filename: asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.txt
 tags: [umbrella-review, RET, apexification, MTA, calcium-hydroxide, immature-permanent-tooth, pulp-necrosis, AMSTAR-2, root-development]
 ---
 
