@@ -290,3 +290,10 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 [확인] 외래 ladder는 **at-home (KNO3·NovaMin·arginine) 4-8주 → in-office sealing (varnish·oxalate·laser·resin) → restorative**. Conservative first가 default, escalate only if fails.
 
 [미검증] iatrogenic DH (Class II composite postop, NCCL restoration) 예방은 **adhesive technique + slow curing**이 핵심. NCCL adhesive 선택은 long-term (E&R 우위) vs postop sensitivity (SE 우위) trade-off — 환자 sensitivity 경향 시 SE 우선. Cracked tooth와 동반 case는 [[overviews/cracked-tooth-syndrome-overview]] framework 병행 필수.
+
+## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[dentin-hypersensitivity/barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct]] — Double-blind RCT (54/120 teeth, 4 arms): all arms cut sensitivity (Schiff 5.0→1.9, p<0.001) but NO between-group difference — neither 660nm PBM nor arginine beats fluoride/hygiene control (strong placebo effect)
+
