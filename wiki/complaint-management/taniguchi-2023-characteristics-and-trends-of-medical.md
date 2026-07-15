@@ -6,7 +6,7 @@ date: 2023-12-18
 doi: "10.1371/journal.pone.0296155"
 source: taniguchi-2023-characteristics-and-trends-of-medical.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/taniguchi-2023-characteristics-and-trends-of-medical.pdf
 pdf_filename: taniguchi-2023-characteristics-and-trends-of-medical.pdf
 source_collection: external

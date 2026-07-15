@@ -6,7 +6,7 @@ date: 2023-08-14
 doi: 10.1016/j.jcms.2023.08.007
 source: grillo-2023-written-informed-consent-facial-cosmetic.md
 category: [complaint-management]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 pmid: "37591743"

@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: "10.1055/s-0039-1700767"
 source: alrahabi-2019-clinical-malpractice-in-endodontics.md
 category: complaint-management
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alrahabi-2019-clinical-malpractice-in-endodontics.pdf
 pdf_filename: alrahabi-2019-clinical-malpractice-in-endodontics.pdf
 source_collection: external

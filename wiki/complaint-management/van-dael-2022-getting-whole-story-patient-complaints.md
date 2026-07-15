@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.1177/13558196211029323"
 source: van-dael-2022-getting-whole-story-patient-complaints.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-dael-2022-getting-whole-story-patient-complaints.pdf
 pdf_filename: van-dael-2022-getting-whole-story-patient-complaints.pdf
 source_collection: external

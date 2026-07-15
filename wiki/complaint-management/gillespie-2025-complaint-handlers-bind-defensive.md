@@ -6,7 +6,7 @@ date: 2025-06-02
 doi: "10.1371/journal.pone.0325185"
 source: gillespie-2025-complaint-handlers-bind-defensive.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/gillespie-2025-complaint-handlers-bind-defensive.pdf
 pdf_filename: gillespie-2025-complaint-handlers-bind-defensive.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: "10.1177/2374373520967797"
 source: washington-2020-addressing-service-recovery-radiation.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/washington-2020-addressing-service-recovery-radiation.pdf
 pdf_filename: washington-2020-addressing-service-recovery-radiation.pdf
 source_collection: external

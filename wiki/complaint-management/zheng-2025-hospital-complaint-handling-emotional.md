@@ -6,7 +6,7 @@ date: 2025-08-26
 doi: "10.3389/frhs.2025.1610004"
 source: zheng-2025-hospital-complaint-handling-emotional.md
 category: complaint-management
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/zheng-2025-hospital-complaint-handling-emotional.pdf
 pdf_filename: zheng-2025-hospital-complaint-handling-emotional.pdf
 source_collection: external

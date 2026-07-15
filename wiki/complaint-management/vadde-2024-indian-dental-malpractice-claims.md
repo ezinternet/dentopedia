@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: "10.4103/jispcd.jispcd_193_23"
 source: vadde-2024-indian-dental-malpractice-claims.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/vadde-2024-indian-dental-malpractice-claims.pdf
 pdf_filename: vadde-2024-indian-dental-malpractice-claims.pdf
 source_collection: external

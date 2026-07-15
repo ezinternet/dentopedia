@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: "10.1002/nop2.132"
 source: skar-2018-patients-complaints-healthcare-communication.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/skar-2018-patients-complaints-healthcare-communication.pdf
 pdf_filename: skar-2018-patients-complaints-healthcare-communication.pdf
 source_collection: external

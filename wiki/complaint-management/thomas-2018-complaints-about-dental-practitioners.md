@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: "10.1111/adj.12625"
 source: thomas-2018-complaints-about-dental-practitioners.md
 category: complaint-management
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/thomas-2018-complaints-about-dental-practitioners.pdf
 pdf_filename: thomas-2018-complaints-about-dental-practitioners.pdf
 source_collection: external

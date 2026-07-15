@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: "10.1186/s12913-021-06733-5"
 source: mccreaddie-2021-qualitative-study-nhs-complaint.md
 category: complaint-management
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/mccreaddie-2021-qualitative-study-nhs-complaint.pdf
 pdf_filename: mccreaddie-2021-qualitative-study-nhs-complaint.pdf
 source_collection: external

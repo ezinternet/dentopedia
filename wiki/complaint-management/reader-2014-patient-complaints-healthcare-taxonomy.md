@@ -6,7 +6,7 @@ date: 2014-05-29
 doi: "10.1136/bmjqs-2013-002437"
 source: reader-2014-patient-complaints-healthcare-taxonomy.md
 category: complaint-management
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/reader-2014-patient-complaints-healthcare-taxonomy.pdf
 pdf_filename: reader-2014-patient-complaints-healthcare-taxonomy.pdf
 source_collection: external
