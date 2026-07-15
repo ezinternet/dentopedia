@@ -6,7 +6,7 @@ date: 2019-09-16
 doi: "10.1111/jopr.13106"
 source: bidra-2019-should-healing-abutments-cover-screws.md
 category: [infection-control]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "31453645"

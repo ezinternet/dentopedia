@@ -6,7 +6,7 @@ date: 2022-10-01
 doi: "10.4317/jced.59831"
 source: paganotto-2022-reuse-healing-abutments-ethical-biological.md
 category: [infection-control]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "36320674"

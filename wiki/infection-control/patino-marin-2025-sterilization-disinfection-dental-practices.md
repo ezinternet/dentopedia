@@ -6,7 +6,7 @@ date: 2025-02-15
 doi: 10.7759/cureus.79041
 source: patino-marin-2025-sterilization-disinfection-dental-practices.md
 category: [infection-control]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "40099062"
 pmcid: "PMC11912515"

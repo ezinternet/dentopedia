@@ -6,7 +6,7 @@ date: 2021-10-07
 doi: "10.1177/23800844211045897"
 source: eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments.md
 category: [infection-control]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "34617805"

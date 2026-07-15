@@ -6,7 +6,7 @@ date: 2026-02-25
 doi: "10.1016/j.identj.2026.109444"
 source: go-2026-sterilization-methods-3d-printed-implant-surgical-guides.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/go-2026-sterilization-methods-3d-printed-implant-surgical-guides.txt
 text_filename: go-2026-sterilization-methods-3d-printed-implant-surgical-guides.txt
 source_collection: pubmed-text

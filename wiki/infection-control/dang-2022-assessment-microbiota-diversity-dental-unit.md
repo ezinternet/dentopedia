@@ -6,7 +6,7 @@ date: 2022-01-06
 doi: 10.7717/peerj.12723
 source: dang-2022-assessment-microbiota-diversity-dental-unit.md
 category: [infection-control]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 pmid: "35036099"
 pmcid: "PMC8743008"

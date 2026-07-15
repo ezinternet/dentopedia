@@ -6,7 +6,7 @@ date: 2024-08-29
 doi: "10.11607/jomi.10651"
 source: abreu-2024-assessment-detoxification-strategies-used-dental.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "37910839"

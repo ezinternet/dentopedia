@@ -6,7 +6,7 @@ date: 2024-04-16
 doi: "10.3390/bioengineering11040387"
 source: burioni-2024-could-dental-material-reuse-play.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "38671808"

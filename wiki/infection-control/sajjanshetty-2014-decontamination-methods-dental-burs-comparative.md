@@ -6,7 +6,7 @@ date: 2014-05-28
 doi: 10.7860/JCDR/2014/9314.4488
 source: sajjanshetty-2014-decontamination-methods-dental-burs-comparative.md
 category: [infection-control]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path:
 pdf_filename:
 source_collection: pubmed-text
