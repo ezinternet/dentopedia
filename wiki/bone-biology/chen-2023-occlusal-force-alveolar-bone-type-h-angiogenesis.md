@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1177/00220345231191745
 source: chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis.md
 category: [bone-biology]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis.pdf
 pdf_filename: chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1016/j.jss.2014.07.029
 source: liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.md
 category: [bone-biology]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.pdf
 pdf_filename: liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.pdf
 source_collection: external

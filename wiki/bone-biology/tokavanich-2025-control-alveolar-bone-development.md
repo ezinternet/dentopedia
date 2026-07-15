@@ -6,7 +6,7 @@ date: 2025-03-09
 doi: 10.1093/jbmr/zjaf038
 source: tokavanich-2025-control-alveolar-bone-development.md
 category: [bone-biology]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/tokavanich-2025-control-alveolar-bone-development.pdf
 pdf_filename: tokavanich-2025-control-alveolar-bone-development.pdf
 source_collection: external

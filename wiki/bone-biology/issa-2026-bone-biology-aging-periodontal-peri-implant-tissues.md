@@ -6,7 +6,7 @@ date: 2026-02-11
 doi: 10.1111/prd.70035
 source: issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.md
 category: [bone-biology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.pdf
 pdf_filename: issa-2026-bone-biology-aging-periodontal-peri-implant-tissues.pdf
 source_collection: external
