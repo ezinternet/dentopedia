@@ -181,6 +181,12 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 - **윤리·법적 운영 가이드 부재** — Iqbal 2025가 17편 ChatGPT SR 중 윤리·법적 우려를 다룬 비중을 명시하지만 *어떻게 운영할지*에 대한 구체적 가이드는 거의 없음.
 
 ## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[artificial-intelligence/alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry]] — Umbrella review (11 SRs): AI ~95.6% accuracy for implant-type ID but only 62.4–80.5% for multivariable prognosis; 55% of SRs AMSTAR-2 critically-low — image recognition mature, prognosis prediction needs prospective validation
+- [[artificial-intelligence/mathur-2026-artificial-intelligence-dental-implant]] — Umbrella review (10 SRs, abstract-only): CNN models >90% accuracy for implant treatment/success prediction, only 5/10 addressed osseointegration — deep learning promising but dataset/standardization gaps block adoption
+
 - [[digital-workflow/zhang-2025-llm-patient-instructions-dentistry-sr-ma]] — 클러스터 1 정량 anchor
 - [[digital-workflow/iqbal-2025-chatgpt-healthcare-umbrella-review]] — 메타-증거 품질 anchor
 - [[digital-workflow/najeeb-2025-ai-restorative-dentistry-review]] — 수복 도메인 합성
