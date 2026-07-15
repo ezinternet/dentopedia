@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: 10.1002/14651858.CD009858.pub3
 source: miao-2021-rubber-dam-isolation-restorative-treatment.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/miao-2021-rubber-dam-isolation-restorative-treatment.pdf
 pdf_filename: miao-2021-rubber-dam-isolation-restorative-treatment.pdf
 source_collection: external

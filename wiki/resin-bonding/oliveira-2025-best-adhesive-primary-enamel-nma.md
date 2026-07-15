@@ -6,7 +6,7 @@ date: 2025-11-01
 doi: 10.1016/j.jdsr.2025.11.005
 source: oliveira-2025-best-adhesive-primary-enamel-nma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41458471"

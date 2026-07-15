@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: 10.1016/j.prosdent.2024.04.027
 source: alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38797576"

@@ -6,7 +6,7 @@ date: 2022-06-10
 doi: 10.3290/j.jad.b3240675
 journal: Journal of Adhesive Dentistry 24:313-324
 source: oza-2022-universal-adhesive-nccl-rct-2year.md
-confidence: rct
+evidence_level: rct
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/oza-2022-universal-adhesive-nccl-rct-2year.pdf
 pdf_filename: oza-2022-universal-adhesive-nccl-rct-2year.pdf

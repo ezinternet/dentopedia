@@ -6,7 +6,7 @@ date: 2026-05-13
 doi: 10.4103/JCDE.JCDE_249_26
 source: dhawan-2026-bonding-total-self-etch-fiberpost.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/dhawan-2026-bonding-total-self-etch-fiberpost.pdf
 pdf_filename: dhawan-2026-bonding-total-self-etch-fiberpost.pdf
 source_collection: external

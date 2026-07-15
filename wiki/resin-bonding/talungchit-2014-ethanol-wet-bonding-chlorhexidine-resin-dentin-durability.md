@@ -12,7 +12,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/talungchit-2014-ethanol-wet-bonding-
 text_filename: talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability.txt
 date: 2014-10-01
 source: talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability.md
-confidence: in-vitro
+evidence_level: in-vitro
 tags: [ethanol-wet-bonding, chlorhexidine, resin-dentin-bond-durability, mmp-inhibitor, hybrid-layer, microtensile-bond-strength]
 relations:
   - type: reinforces

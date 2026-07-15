@@ -6,7 +6,7 @@ date: 2025-04-16
 doi: 10.1111/eos.70014
 source: sagen-2025-composite-porcelain-bond-strength-surface-treatment.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sagen-2025-composite-porcelain-bond-strength-surface-treatment.pdf
 pdf_filename: sagen-2025-composite-porcelain-bond-strength-surface-treatment.pdf
 source_collection: external

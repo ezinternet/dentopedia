@@ -6,7 +6,7 @@ date: 2025-07-08
 doi: 10.1155/crid/6104187
 source: li-2025-crown-root-fracture-super-bond-case-report.md
 category: resin-bonding
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: true
 pmid: "40666698"

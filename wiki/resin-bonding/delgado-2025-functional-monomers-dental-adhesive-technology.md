@@ -6,7 +6,7 @@ date: 2025-10-07
 doi: 10.3290/j.jad.c_2297
 source: delgado-2025-functional-monomers-dental-adhesive-technology.md
 category: resin-bonding
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41054813"

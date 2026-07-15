@@ -6,7 +6,7 @@ date: 2025-02-01
 doi: "10.1016/j.jdent.2024.105529"
 source: omoto-2025-nccl-adhesion-strategies-4year-rct.md
 category: resin-bonding
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/omoto-2025-nccl-adhesion-strategies-4year-rct.pdf
 pdf_filename: omoto-2025-nccl-adhesion-strategies-4year-rct.pdf
 source_collection: external

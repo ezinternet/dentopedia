@@ -6,7 +6,7 @@ date: 2019-05-09
 doi: 10.1016/j.dental.2019.05.002
 source: dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength.pdf
 pdf_filename: dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength.pdf
 source_collection: external

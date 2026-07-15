@@ -6,7 +6,7 @@ date: 2021-08-26
 doi: 10.1016/j.dental.2021.08.014
 source: fehrenbach-2021-10-mdp-bonding-performance-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fehrenbach-2021-10-mdp-bonding-performance-sr-ma.pdf
 pdf_filename: fehrenbach-2021-10-mdp-bonding-performance-sr-ma.pdf
 source_collection: external

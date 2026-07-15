@@ -6,7 +6,7 @@ date: 2026-02-27
 doi: 10.1016/j.jdent.2026.106594
 source: neves-2026-ab-type-proanthocyanidin-primers-nano-dma.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41765221"

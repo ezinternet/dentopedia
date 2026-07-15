@@ -5,7 +5,7 @@ year: 2009
 doi: ""
 date: 2009-01-01
 source: unknown-2009-effect-of-silane-treatment-timing.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: resin-bonding
 pdf_path: /Users/oracleneo/llm-wiki/papers/unknown-2009-effect-of-silane-treatment-timing.pdf
 pdf_filename: unknown-2009-effect-of-silane-treatment-timing.pdf

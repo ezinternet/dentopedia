@@ -6,7 +6,7 @@ date: 2005-01-01
 doi: 10.1111/j.1708-8240.2005.tb00103.x
 source: magne-2005-immediate-dentin-sealing-fundamental-procedure.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/magne-2005-immediate-dentin-sealing-fundamental-procedure.pdf
 pdf_filename: magne-2005-immediate-dentin-sealing-fundamental-procedure.pdf
 source_collection: external

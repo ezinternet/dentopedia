@@ -6,7 +6,7 @@ date: 2003-02-01
 doi: N/A
 source: tay-2003-water-treeing-degradation-dentin-adhesives.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "12744405"

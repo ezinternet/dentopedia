@@ -6,7 +6,7 @@ date: 2023-11-06
 doi: 10.3290/j.jad.b4874329
 source: del-bianco-2025-lithium-disilicate-cleaning-bond-strength.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/del-bianco-2025-lithium-disilicate-cleaning-bond-strength.pdf
 pdf_filename: del-bianco-2025-lithium-disilicate-cleaning-bond-strength.pdf
 source_collection: external

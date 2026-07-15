@@ -6,7 +6,7 @@ date: 2015-11-01
 doi: 10.2341/14-089-C
 source: loguercio-2015-isolation-method-operative-field-gingival.md
 category: [resin-bonding]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/loguercio-2015-isolation-method-operative-field-gingival.pdf
 pdf_filename: loguercio-2015-isolation-method-operative-field-gingival.pdf
 source_collection: external

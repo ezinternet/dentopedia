@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.12669/pjms.42.6.15983
 source: el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42369919"

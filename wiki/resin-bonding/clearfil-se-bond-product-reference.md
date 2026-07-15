@@ -7,7 +7,7 @@ source: clearfil-se-bond-product-reference.md
 type: product-reference
 category: resin-bonding
 date: 2026-06-06
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: /Users/oracleneo/llm-wiki/papers/clearfil-se-bond-product-reference.pdf
 pdf_filename: clearfil-se-bond-product-reference.pdf
 source_collection: internal-synthesis

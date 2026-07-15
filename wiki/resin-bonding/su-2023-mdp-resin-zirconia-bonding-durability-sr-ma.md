@@ -6,7 +6,7 @@ date: 2023-12-09
 doi: 10.3760/cma.j.cn112144-20230915-00158
 source: su-2023-mdp-resin-zirconia-bonding-durability-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "38061871"

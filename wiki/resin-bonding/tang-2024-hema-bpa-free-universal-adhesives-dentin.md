@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: "10.3290/j.jad.b4949669"
 source: tang-2024-hema-bpa-free-universal-adhesives-dentin.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/tang-2024-hema-bpa-free-universal-adhesives-dentin.pdf
 pdf_filename: tang-2024-hema-bpa-free-universal-adhesives-dentin.pdf
 source_collection: external

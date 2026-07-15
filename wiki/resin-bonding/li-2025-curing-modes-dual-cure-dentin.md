@@ -6,7 +6,7 @@ date: 2025-01-09
 doi: 10.3389/fbioe.2024.1511099
 source: li-2025-curing-modes-dual-cure-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2025-curing-modes-dual-cure-dentin.pdf
 pdf_filename: li-2025-curing-modes-dual-cure-dentin.pdf
 source_collection: external

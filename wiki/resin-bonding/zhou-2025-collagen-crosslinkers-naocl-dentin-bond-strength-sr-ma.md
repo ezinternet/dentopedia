@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.3389/fbioe.2025.1547158"
 source: zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma.pdf
 pdf_filename: zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-07-03
 doi: 10.2341/22-067-LIT
 source: assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.pdf
 pdf_filename: assis-2023-acid-etching-universal-adhesive-nccl-sr-ma.pdf
 source_collection: external

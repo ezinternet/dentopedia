@@ -6,7 +6,7 @@ date: 2011-04-30
 doi: 10.1016/j.actbio.2011.04.026
 source: yoshihara-2011-nanolayering-mdp-enamel-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "21575747"

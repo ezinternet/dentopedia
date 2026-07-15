@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1016/j.dental.2017.11.005
 source: breschi-2018-dentin-bonding-collagen-structure-bond-preservation-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/breschi-2018-dentin-bonding-collagen-structure-bond-preservation-review.pdf
 pdf_filename: breschi-2018-dentin-bonding-collagen-structure-bond-preservation-review.pdf
 source_collection: external

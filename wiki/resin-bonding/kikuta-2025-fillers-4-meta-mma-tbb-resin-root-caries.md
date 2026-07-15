@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3290/j.jad.c_2428
 source: kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41400633"

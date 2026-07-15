@@ -6,7 +6,7 @@ date: 2026-03-18
 doi: 10.7759/cureus.105466
 source: parra-2026-pushout-bond-strength-fiberglass-posts.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42005158"

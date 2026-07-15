@@ -6,7 +6,7 @@ date: 2024-04-24
 doi: 10.3390/jcm13092474
 source: comba-2024-effects-etching-time-ethanol-wet.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/comba-2024-effects-etching-time-ethanol-wet.pdf
 pdf_filename: comba-2024-effects-etching-time-ethanol-wet.pdf
 source_collection: external

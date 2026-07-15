@@ -6,7 +6,7 @@ date: 2026-02-18
 doi: "10.1016/j.identj.2026.109446"
 source: el-alaoui-2026-dentin-biomodification-resin-composite-umbrella.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41713123"

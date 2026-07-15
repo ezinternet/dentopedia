@@ -6,7 +6,7 @@ date: 2005-12-01
 doi: 10.1016/j.prosdent.2005.10.010
 source: magne-2005-ids-improves-bond-strength-indirect.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/magne-2005-ids-improves-bond-strength-indirect.pdf
 pdf_filename: magne-2005-ids-improves-bond-strength-indirect.pdf
 source_collection: external

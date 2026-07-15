@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.1016/j.jdent.2024.104908
 source: kagaoan-2024-additively-manufactured-crown-bond-sr.md
 category: [resin-bonding]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/kagaoan-2024-additively-manufactured-crown-bond-sr.pdf
 pdf_filename: kagaoan-2024-additively-manufactured-crown-bond-sr.pdf
 source_collection: external

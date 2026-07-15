@@ -6,7 +6,7 @@ date: 2025-10-01
 doi: 10.1016/j.prosdent.2024.04.014
 source: alghauli-2025-clinical-benefits-immediate-dentin-sealing.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 pdf_filename: alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 source_collection: external

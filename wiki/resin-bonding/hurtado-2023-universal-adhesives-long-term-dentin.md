@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: "10.3390/ma16093458"
 source: hurtado-2023-universal-adhesives-long-term-dentin.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hurtado-2023-universal-adhesives-long-term-dentin.pdf
 pdf_filename: hurtado-2023-universal-adhesives-long-term-dentin.pdf
 source_collection: external

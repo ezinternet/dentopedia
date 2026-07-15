@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1038/s41405-022-00124-6
 source: doshi-2023-universal-adhesive-nccl-strategy-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/doshi-2023-universal-adhesive-nccl-strategy-sr-ma.pdf
 pdf_filename: doshi-2023-universal-adhesive-nccl-strategy-sr-ma.pdf
 source_collection: external

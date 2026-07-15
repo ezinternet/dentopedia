@@ -6,7 +6,7 @@ date: 2007-09-01
 doi: 10.1016/S0022-3913(07)60052-3
 source: magne-2007-ids-supports-delayed-restoration-placement.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/magne-2007-ids-supports-delayed-restoration-placement.pdf
 pdf_filename: magne-2007-ids-supports-delayed-restoration-placement.pdf
 source_collection: external

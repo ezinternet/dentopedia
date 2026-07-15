@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: "10.3290/j.jad.b4186751"
 source: peumans-2023-universal-adhesive-nccl-3year-rct.md
 category: resin-bonding
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/peumans-2023-universal-adhesive-nccl-3year-rct.pdf
 pdf_filename: peumans-2023-universal-adhesive-nccl-3year-rct.pdf
 source_collection: external

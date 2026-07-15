@@ -6,7 +6,7 @@ date: 2025-07-08
 doi: 10.1111/jerd.13512
 source: musharbash-2025-cleaning-agents-contaminated-zirconia.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "40625229"

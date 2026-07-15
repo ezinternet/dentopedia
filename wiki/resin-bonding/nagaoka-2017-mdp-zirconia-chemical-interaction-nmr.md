@@ -6,7 +6,7 @@ date: 2017-03-30
 doi: 10.1038/srep45563
 source: nagaoka-2017-mdp-zirconia-chemical-interaction-nmr.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "28358121"

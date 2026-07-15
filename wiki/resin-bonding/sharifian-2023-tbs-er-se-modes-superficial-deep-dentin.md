@@ -6,7 +6,7 @@ date: 2023-04-30
 doi: unknown
 journal: Frontiers in Dentistry 20:09
 source: sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.pdf
 pdf_filename: sharifian-2023-tbs-er-se-modes-superficial-deep-dentin.pdf

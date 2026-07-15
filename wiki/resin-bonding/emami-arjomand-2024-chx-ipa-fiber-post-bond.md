@@ -6,7 +6,7 @@ date: 2024-04-20
 doi: 10.18502/fid.v21i13.15374
 source: emami-arjomand-2024-chx-ipa-fiber-post-bond.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "38919768"

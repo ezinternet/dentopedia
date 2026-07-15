@@ -6,7 +6,7 @@ date: 2022-03-11
 doi: 10.3390/gels8030175
 source: hardan-2022-immediate-dentin-sealing-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/hardan-2022-immediate-dentin-sealing-sr-ma.pdf
 pdf_filename: hardan-2022-immediate-dentin-sealing-sr-ma.pdf
 source_collection: external

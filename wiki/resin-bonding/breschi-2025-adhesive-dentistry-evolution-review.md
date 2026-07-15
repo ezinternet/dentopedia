@@ -6,7 +6,7 @@ date: 2024-12-04
 doi: 10.1016/j.dental.2024.11.011
 source: breschi-2025-adhesive-dentistry-evolution-review.md
 category: [resin-bonding]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/breschi-2025-adhesive-dentistry-evolution-review.pdf
 pdf_filename: breschi-2025-adhesive-dentistry-evolution-review.pdf
 source_collection: external

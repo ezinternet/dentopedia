@@ -6,7 +6,7 @@ date: 2022-11-16
 doi: 10.1055/s-0041-1735442
 source: abo-alazm-2022-ids-universal-adhesive-pulp-pressure.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/abo-alazm-2022-ids-universal-adhesive-pulp-pressure.pdf
 pdf_filename: abo-alazm-2022-ids-universal-adhesive-pulp-pressure.pdf
 source_collection: external

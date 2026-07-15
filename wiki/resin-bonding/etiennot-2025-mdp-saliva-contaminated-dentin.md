@@ -6,7 +6,7 @@ date: 2025-02-18
 doi: 10.3290/j.jad.c_1966
 source: etiennot-2025-mdp-saliva-contaminated-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/etiennot-2025-mdp-saliva-contaminated-dentin.pdf
 pdf_filename: etiennot-2025-mdp-saliva-contaminated-dentin.pdf
 source_collection: external

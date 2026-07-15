@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: unknown
 journal: Dental Research Journal 9(5):588
 source: mortazavi-2012-ethanol-wet-bonding-clinical-trial.md
-confidence: rct
+evidence_level: rct
 category: [resin-bonding]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mortazavi-2012-ethanol-wet-bonding-clinical-trial.pdf
 pdf_filename: mortazavi-2012-ethanol-wet-bonding-clinical-trial.pdf

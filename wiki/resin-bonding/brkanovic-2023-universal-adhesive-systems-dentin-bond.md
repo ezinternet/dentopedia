@@ -6,7 +6,7 @@ date: 2023-02-01
 doi: "10.3390/ma16041530"
 source: brkanovic-2023-universal-adhesive-systems-dentin-bond.md
 category: resin-bonding
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/brkanovic-2023-universal-adhesive-systems-dentin-bond.pdf
 pdf_filename: brkanovic-2023-universal-adhesive-systems-dentin-bond.pdf
 source_collection: external

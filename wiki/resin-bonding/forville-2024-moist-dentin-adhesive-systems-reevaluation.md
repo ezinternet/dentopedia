@@ -12,7 +12,7 @@ source_url: https://doi.org/10.1016/j.jdent.2024.105495
 text_path: /Users/oracleneo/llm-wiki/papers/forville-2024-moist-dentin-adhesive-systems-reevaluation.txt
 text_filename: forville-2024-moist-dentin-adhesive-systems-reevaluation.txt
 source: forville-2024-moist-dentin-adhesive-systems-reevaluation.md
-confidence: sr+ma
+evidence_level: sr+ma
 tags: [wet-bonding, moist-dentin, dry-bonding, etch-and-rinse, dentin-adhesive, bond-strength]
 relations:
   - type: reinforces

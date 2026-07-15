@@ -6,7 +6,7 @@ date: 2022-08-16
 doi: 10.1002/cre2.665
 source: tavangar-2022-calcium-silicate-cement-caries-dentin.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavangar-2022-calcium-silicate-cement-caries-dentin.pdf
 pdf_filename: tavangar-2022-calcium-silicate-cement-caries-dentin.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-31
 doi: 10.1111/aej.12923
 source: corbella-2025-surgical-techniques-vertical-root-fractures-sr.md
 category: resin-bonding
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39891472"

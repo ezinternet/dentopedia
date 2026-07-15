@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/jerd.12841
 source: josic-2022-ids-postoperative-sensitivity-sr-ma.md
 category: [resin-bonding]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/josic-2022-ids-postoperative-sensitivity-sr-ma.pdf
 pdf_filename: josic-2022-ids-postoperative-sensitivity-sr-ma.pdf
 source_collection: external

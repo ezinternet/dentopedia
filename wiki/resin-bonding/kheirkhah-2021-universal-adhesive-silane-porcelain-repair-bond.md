@@ -6,7 +6,7 @@ date: 2021-03-31
 doi: 10.17219/dmp/130101
 source: kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond.md
 category: [resin-bonding]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond.pdf
 pdf_filename: kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond.pdf
 source_collection: external
