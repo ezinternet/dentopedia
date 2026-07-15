@@ -6,7 +6,7 @@ date: 2025-11-28
 doi: 10.1016/j.identj.2025.109300
 source: wang-2025-clear-aligner-premolar-extraction-3d-tooth-movement.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41317686"

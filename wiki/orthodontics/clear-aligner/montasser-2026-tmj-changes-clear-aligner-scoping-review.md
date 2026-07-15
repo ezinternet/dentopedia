@@ -6,7 +6,7 @@ date: 2026-05-07
 doi: 10.1186/s12903-026-08414-3
 source: montasser-2026-tmj-changes-clear-aligner-scoping-review.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42098698"

@@ -6,7 +6,7 @@ date: 2026-04-08
 doi: 10.1371/journal.pone.0346566
 source: sirri-2026-physical-adjunctive-interventions-clear-aligner-rct-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41950291"

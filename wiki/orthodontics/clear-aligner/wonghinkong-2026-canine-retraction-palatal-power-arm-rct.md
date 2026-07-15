@@ -6,7 +6,7 @@ date: 2026-06-23
 doi: 10.1186/s40510-026-00630-5
 source: wonghinkong-2026-canine-retraction-palatal-power-arm-rct.md
 category: [orthodontics/clear-aligner]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42334533"

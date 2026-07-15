@@ -6,7 +6,7 @@ date: 2025-07-29
 doi: 10.1016/j.jobcr.2025.07.019
 source: muthuswamy-pandian-2025-optimized-conventional-attachment-accuracy-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40778386"

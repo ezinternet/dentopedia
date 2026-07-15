@@ -6,7 +6,7 @@ date: 2026-05-29
 doi: 10.1007/s00784-026-06903-x
 source: nemec-2026-clear-aligner-patient-needs-expectations.md
 category: [orthodontics/clear-aligner]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42209717"

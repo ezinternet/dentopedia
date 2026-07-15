@@ -6,7 +6,7 @@ date: 2025-05-15
 doi: "10.3390/bioengineering12050531"
 source: marinelli-2025-temporary-anchorage-devices-clear-aligner-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40428150"

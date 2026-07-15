@@ -6,7 +6,7 @@ date: 2023-06-22
 doi: 10.4274/TurkJOrthod.2022.2021.0254
 source: goncalves-2023-invisalign-upper-incisor-accuracy-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "37346374"

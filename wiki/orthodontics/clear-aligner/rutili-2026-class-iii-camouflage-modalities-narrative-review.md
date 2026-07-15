@@ -6,7 +6,7 @@ date: 2026-05-11
 doi: 10.3390/jcm15103680
 source: rutili-2026-class-iii-camouflage-modalities-narrative-review.md
 category: [orthodontics/clear-aligner]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42194641"

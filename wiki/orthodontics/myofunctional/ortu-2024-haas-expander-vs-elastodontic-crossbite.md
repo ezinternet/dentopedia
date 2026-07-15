@@ -6,7 +6,7 @@ date: 2024-05-21
 doi: 10.3390/reports7020041
 source: ortu-2024-haas-expander-vs-elastodontic-crossbite.md
 category: [orthodontics/myofunctional]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40729152"

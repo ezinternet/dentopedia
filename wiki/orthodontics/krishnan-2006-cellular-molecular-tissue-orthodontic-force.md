@@ -6,7 +6,7 @@ date: 2006-04-01
 doi: 10.1016/j.ajodo.2005.10.007
 source: krishnan-2006-cellular-molecular-tissue-orthodontic-force.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/krishnan-2006-cellular-molecular-tissue-orthodontic-force.pdf
 pdf_filename: krishnan-2006-cellular-molecular-tissue-orthodontic-force.pdf
 source_collection: external

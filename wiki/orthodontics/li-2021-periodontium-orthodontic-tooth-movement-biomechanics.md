@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1038/s41368-021-00125-5
 source: li-2021-periodontium-orthodontic-tooth-movement-biomechanics.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2021-periodontium-orthodontic-tooth-movement-biomechanics.pdf
 pdf_filename: li-2021-periodontium-orthodontic-tooth-movement-biomechanics.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-05-09
 doi: 10.1111/ocr.70136
 source: zhuo-2026-the-roller-coaster-effect.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhuo-2026-the-roller-coaster-effect.pdf
 pdf_filename: zhuo-2026-the-roller-coaster-effect.pdf
 source_collection: external

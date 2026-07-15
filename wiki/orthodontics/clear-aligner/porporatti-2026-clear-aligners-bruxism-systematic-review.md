@@ -6,7 +6,7 @@ date: 2026-03-17
 doi: "10.1111/joor.70189"
 source: porporatti-2026-clear-aligners-bruxism-systematic-review.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41841364"

@@ -6,7 +6,7 @@ date: 2021-05-17
 doi: 10.1186/s12903-021-01628-7
 source: ortu-2021-elastodontic-overjet-overbite-reduction.md
 category: [orthodontics/myofunctional]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "34001097"

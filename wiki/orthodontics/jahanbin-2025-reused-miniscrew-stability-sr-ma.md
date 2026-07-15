@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.1016/j.jwfo.2024.S2212-4438(24)00069-9
 source: jahanbin-2025-reused-miniscrew-stability-sr-ma.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jahanbin-2025-reused-miniscrew-stability-sr-ma.pdf
 pdf_filename: jahanbin-2025-reused-miniscrew-stability-sr-ma.pdf
 source_collection: external

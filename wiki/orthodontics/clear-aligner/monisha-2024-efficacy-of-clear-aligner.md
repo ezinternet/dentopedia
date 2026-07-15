@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: 10.1093/ejo/cjae020
 source: monisha-2024-efficacy-of-clear-aligner.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/monisha-2024-efficacy-of-clear-aligner.pdf
 pdf_filename: monisha-2024-efficacy-of-clear-aligner.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-12-04
 doi: 10.3390/medicina60122004
 source: bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39768884"

@@ -6,7 +6,7 @@ date: 2025-04-29
 doi: "10.4041/kjod25.003"
 source: cho-2025-clear-aligner-material-force-moment-six-axis-sensor.md
 category: [orthodontics/clear-aligner]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40708243"

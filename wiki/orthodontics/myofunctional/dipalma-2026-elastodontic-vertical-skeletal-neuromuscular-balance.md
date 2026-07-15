@@ -6,7 +6,7 @@ date: 2026-01-06
 doi: 10.3389/fdmed.2025.1741153
 source: dipalma-2026-elastodontic-vertical-skeletal-neuromuscular-balance.md
 category: [orthodontics/myofunctional]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41567272"

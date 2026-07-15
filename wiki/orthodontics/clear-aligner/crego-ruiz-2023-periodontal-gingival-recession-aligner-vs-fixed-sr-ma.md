@@ -6,7 +6,7 @@ date: 2023-07-01
 doi: 10.4317/medoral.25760
 source: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36641738"

@@ -6,7 +6,7 @@ date: 2023-12-04
 doi: 10.3390/bioengineering10121390
 source: inchingolo-2023-clear-aligner-distalization-predictability-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38135981"

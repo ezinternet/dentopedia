@@ -6,7 +6,7 @@ date: 2022-05-06
 doi: 10.3390/dj10050078
 source: jaramillo-bedoya-2022-scoping-review-characteristics-success-failure.md
 category: [orthodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jaramillo-bedoya-2022-scoping-review-characteristics-success-failure.pdf
 pdf_filename: jaramillo-bedoya-2022-scoping-review-characteristics-success-failure.pdf
 source_collection: external

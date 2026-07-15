@@ -6,7 +6,7 @@ date: 2018-01-05
 doi: 10.1093/ejo/cjx093
 source: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.md
 category: [orthodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.pdf
 pdf_filename: alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma.pdf
 source_collection: external

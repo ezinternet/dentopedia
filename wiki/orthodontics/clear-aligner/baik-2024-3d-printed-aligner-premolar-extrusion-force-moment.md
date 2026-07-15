@@ -6,7 +6,7 @@ date: 2024-06-28
 doi: 10.4041/kjod24.016
 source: baik-2024-3d-printed-aligner-premolar-extrusion-force-moment.md
 category: [orthodontics/clear-aligner]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "39582332"

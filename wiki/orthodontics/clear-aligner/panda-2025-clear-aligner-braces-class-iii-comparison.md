@@ -6,7 +6,7 @@ date: 2025-10-29
 doi: 10.4103/jpbs.jpbs_735_25
 source: panda-2025-clear-aligner-braces-class-iii-comparison.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41846819"

@@ -6,7 +6,7 @@ date: 2025-11-26
 doi: 10.4041/kjod25.064
 source: charoenrat-2025-clear-aligner-anterior-open-bite-molar-intrusion-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41572858"

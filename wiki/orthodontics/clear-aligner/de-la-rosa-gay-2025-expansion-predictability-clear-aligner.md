@@ -6,7 +6,7 @@ date: 2025-04-21
 doi: "10.1007/s00784-025-06328-y"
 source: de-la-rosa-gay-2025-expansion-predictability-clear-aligner.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40257582"

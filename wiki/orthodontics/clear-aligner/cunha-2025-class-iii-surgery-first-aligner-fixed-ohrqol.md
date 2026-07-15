@@ -6,7 +6,7 @@ date: 2025-11-07
 doi: 10.1111/ocr.70054
 source: cunha-2025-class-iii-surgery-first-aligner-fixed-ohrqol.md
 category: [orthodontics/clear-aligner]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41200809"

@@ -6,7 +6,7 @@ date: 2026-05-08
 doi: 10.1186/s12903-026-08532-y
 source: shi-2026-pre-treatment-associated-factors.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/shi-2026-pre-treatment-associated-factors.pdf
 pdf_filename: shi-2026-pre-treatment-associated-factors.pdf
 source_collection: external

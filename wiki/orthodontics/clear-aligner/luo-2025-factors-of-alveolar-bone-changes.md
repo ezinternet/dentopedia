@@ -6,7 +6,7 @@ date: 2025-10-23
 doi: 10.1111/ocr.70044
 source: luo-2025-factors-of-alveolar-bone-changes.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/luo-2025-factors-of-alveolar-bone-changes.pdf
 pdf_filename: luo-2025-factors-of-alveolar-bone-changes.pdf
 source_collection: external

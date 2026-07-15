@@ -6,7 +6,7 @@ date: 2024-12-20
 doi: 10.1186/s12903-024-05274-7
 source: nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39707339"

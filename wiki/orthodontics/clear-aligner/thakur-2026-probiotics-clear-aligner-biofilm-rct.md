@@ -6,7 +6,7 @@ date: 2026-01-17
 doi: 10.1016/j.ejwf.2025.12.001
 source: thakur-2026-probiotics-clear-aligner-biofilm-rct.md
 category: [orthodontics/clear-aligner]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41548998"

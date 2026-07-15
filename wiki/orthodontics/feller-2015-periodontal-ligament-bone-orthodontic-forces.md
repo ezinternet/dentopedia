@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1155/2015/876509
 source: feller-2015-periodontal-ligament-bone-orthodontic-forces.md
 category: [orthodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/feller-2015-periodontal-ligament-bone-orthodontic-forces.pdf
 pdf_filename: feller-2015-periodontal-ligament-bone-orthodontic-forces.pdf
 source_collection: external

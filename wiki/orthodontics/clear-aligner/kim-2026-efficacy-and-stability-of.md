@@ -6,7 +6,7 @@ date: 2026-06-15
 doi: 10.4041/kjod25.257
 source: kim-2026-efficacy-and-stability-of.md
 category: [orthodontics/clear-aligner]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2026-efficacy-and-stability-of.pdf
 pdf_filename: kim-2026-efficacy-and-stability-of.pdf
 source_collection: external

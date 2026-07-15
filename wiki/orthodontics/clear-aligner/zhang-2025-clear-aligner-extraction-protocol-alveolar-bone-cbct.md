@@ -6,7 +6,7 @@ date: 2025-09-18
 doi: 10.4041/kjod25.095
 source: zhang-2025-clear-aligner-extraction-protocol-alveolar-bone-cbct.md
 category: [orthodontics/clear-aligner]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "40962368"

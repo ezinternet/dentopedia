@@ -6,7 +6,7 @@ date: 2024-08-02
 doi: 10.3390/dj12080247
 source: ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review.md
 category: [orthodontics/myofunctional]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39195091"
