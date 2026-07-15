@@ -6,7 +6,7 @@ date: 2025-12-02
 doi: 10.1111/idh.70024
 source: yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma.md
 category: [interdental-cleaning]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41331619"

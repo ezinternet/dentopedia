@@ -6,7 +6,7 @@ date: 2026-04-13
 doi: 10.1186/s12903-026-08392-6
 source: wen-2026-dental-floss-sequence-plaque-removal.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wen-2026-dental-floss-sequence-plaque-removal.pdf
 pdf_filename: wen-2026-dental-floss-sequence-plaque-removal.pdf
 source_collection: external

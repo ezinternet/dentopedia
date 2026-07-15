@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.1002/cre2.70392
 source: spindler-2026-3d-printed-cleaning-splints-interdental-brush.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "42335349"
 pmcid: "PMC13290012"

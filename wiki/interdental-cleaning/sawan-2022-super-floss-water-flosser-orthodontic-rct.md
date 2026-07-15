@@ -6,7 +6,7 @@ date: 2022-08-31
 doi: 10.1155/2022/1344258
 source: sawan-2022-super-floss-water-flosser-orthodontic-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "36090126"

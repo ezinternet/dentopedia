@@ -6,7 +6,7 @@ date: 2023-05-19
 doi: 10.1177/14653125231173708
 source: tyler-2023-waterpik-manual-toothbrush-orthodontic-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "37203873"

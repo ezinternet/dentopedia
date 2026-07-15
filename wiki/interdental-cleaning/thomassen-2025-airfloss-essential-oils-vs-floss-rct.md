@@ -6,7 +6,7 @@ date: 2025-12-12
 doi: 10.1111/idh.70010
 source: thomassen-2025-airfloss-essential-oils-vs-floss-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41387303"

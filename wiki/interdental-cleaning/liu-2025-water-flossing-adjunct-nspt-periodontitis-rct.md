@@ -6,7 +6,7 @@ date: 2025-11-13
 doi: 10.1007/s00784-025-06639-0
 source: liu-2025-water-flossing-adjunct-nspt-periodontitis-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41225247"

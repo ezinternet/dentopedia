@@ -6,7 +6,7 @@ date: 2024-04-27
 doi: 10.1186/s12903-024-04166-0
 source: almoharib-2024-water-jet-interdental-flossing-orthodontic.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "38678246"

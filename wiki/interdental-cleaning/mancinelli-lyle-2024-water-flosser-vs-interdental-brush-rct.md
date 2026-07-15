@@ -6,7 +6,7 @@ date: 2024-07-12
 doi: 10.1111/idh.12817
 source: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct.md
 category: [interdental-cleaning]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "38997790"

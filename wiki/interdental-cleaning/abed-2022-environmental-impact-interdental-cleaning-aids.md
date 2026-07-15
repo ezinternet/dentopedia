@@ -6,7 +6,7 @@ date: 2022-10-06
 doi: 10.1111/jcpe.13727
 source: abed-2022-environmental-impact-interdental-cleaning-aids.md
 category: [interdental-cleaning]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "36122929"

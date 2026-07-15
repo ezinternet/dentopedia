@@ -6,7 +6,7 @@ date: 2019-04-10
 doi: 10.1002/14651858.CD012018.pub2
 source: worthington-2019-home-use-interdental-cleaning.md
 category: [interdental-cleaning]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "30968949"

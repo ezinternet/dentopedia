@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: 10.1002/cre2.912
 source: sarkisova-2024-oral-irrigation-devices-scoping-review.md
 category: [interdental-cleaning]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38881230"

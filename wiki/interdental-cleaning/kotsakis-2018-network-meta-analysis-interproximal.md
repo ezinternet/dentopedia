@@ -6,7 +6,7 @@ date: 2018-05-01
 doi: 10.1002/JPER.17-0368
 source: kotsakis-2018-network-meta-analysis-interproximal.md
 category: [interdental-cleaning]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "29520910"

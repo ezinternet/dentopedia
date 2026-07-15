@@ -6,7 +6,7 @@ date: 2024-01-24
 doi: 10.4103/jisp.jisp_597_22
 source: mohapatra-2024-water-flosser-vs-floss-plaque-sr.md
 category: [interdental-cleaning]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38434511"
