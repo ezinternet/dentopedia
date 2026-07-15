@@ -1,0 +1,87 @@
+Title: Effects of the technique and drill design used during the osteotomy on the thermal and histological stimulation
+Authors: Sergio Alexandre Gehrke, Tiago Luis Eliers Treichel, Jaime Aramburú Júnior, Piedad N de Aza, Juan Carlos Prados-Frutos
+Journal: Scientific Reports
+Year: 2020
+DOI: 10.1038/s41598-020-77762-z
+PMID: 33244090
+PMCID: PMC7691358
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7691358/
+
+ABSTRACT
+The research compared thermal alterations and bone healing responses using different drilling approaches for dental implant site preparation, examining how drill geometry and movement patterns influence outcomes. In vivo animal study using 12 female New Zealand rabbits with 48 total osteotomies (n=12 per group, 4 groups). Duration to evaluation: 30 days post-osteotomy.
+
+STUDY DESIGN & GROUPS
+Four experimental groups:
+G1: Cylindrical drill + Continuous movement
+G2: Cylindrical drill + Intermittent movement
+G3: Conical drill + Continuous movement
+G4: Conical drill + Intermittent movement
+
+Drill specifications:
+- Cylindrical sequence (G1, G2): 2.2 mm @ 800 rpm, 2.8 mm @ 600 rpm, 3.5 mm @ 500 rpm
+- Conical sequence (G3, G4): All drills at 1500 rpm
+- Final osteotomy length: 8 mm
+- Implants: Cylindrical (8×4.1 mm) vs Conical (8×4 mm)
+
+INTERMITTENT TECHNIQUE PROTOCOL
+Intermittent movement involved inserting the drill sequence in a staged approach:
+- Pass 1: 0→3 mm depth (drills marked at 3 mm)
+- Pass 2: 0→5 mm depth (drills marked at 5 mm)
+- Pass 3: 0→8 mm depth (full depth)
+Drills were marked at 3 mm and 5 mm positions prior to surgery to standardize stopping points.
+
+IRRIGATION
+External saline at room temperature (23 ± 1°C), continuous throughout drilling.
+
+TEMPERATURE MEASUREMENT
+Type K thermocouple sensors inserted 1 mm from final osteotomy margin, 3 mm intrabone depth. Recorded: maximum temperature and time to return to baseline (33.5 ± 0.5°C).
+
+TEMPERATURE RESULTS
+Maximum temperatures:
+G1 (cylindrical, continuous): 40.4 ± 1.38°C
+G2 (cylindrical, intermittent): 37.8 ± 1.62°C
+G3 (conical, continuous): 36.3 ± 0.90°C
+G4 (conical, intermittent): 36.3 ± 0.80°C
+
+Temperature variation (delta from baseline):
+G1: 6.91 ± 1.4°C
+G2: 4.30 ± 1.3°C
+G3: 2.78 ± 0.6°C
+G4: 2.77 ± 0.7°C
+
+Statistical comparisons (temperature variation):
+G1 vs G2: Δ2.608°C, p=0.0010, 95%CI [1.435–3.781]
+G1 vs G3: Δ4.133°C, p<0.0001
+G1 vs G4: Δ4.142°C, p<0.0001
+G2 vs G3: Δ1.525°C, p=0.0015
+G2 vs G4: Δ1.533°C, p=0.0283
+G3 vs G4: Δ−0.008°C, p=0.9769 (NS)
+
+Recovery time to baseline:
+G1 & G2: ~20 seconds
+G3 & G4: ~10 seconds
+
+HISTOLOGICAL RESULTS (New Bone Formation at 30 days)
+G1: 1.00 ± 0.3 mm²
+G2: 1.48 ± 0.3 mm²
+G3: 2.20 ± 0.4 mm²
+G4: 2.43 ± 0.4 mm²
+
+PMN cell counts:
+G1: 62.4 ± 5.9 cells
+G2: 50.7 ± 4.2 cells
+G3: 44.4 ± 3.7 cells
+G4: 42.4 ± 3.7 cells
+
+CONCLUSIONS
+1. Conical drills generate significantly less heat than cylindrical drills under both techniques.
+2. For cylindrical drills, intermittent movement significantly reduces temperature (−2.61°C, p=0.001, ~37% reduction).
+3. For conical drills, technique (continuous vs intermittent) shows no significant thermal difference (p=0.977).
+4. Intermittent technique improves new bone formation and reduces PMN count vs continuous, regardless of drill type.
+5. Clinical recommendation: Consider drill design when choosing technique; for cylindrical drills, intermittent movement is especially important.
+
+LIMITATIONS
+- Rabbit tibia: extreme cortical density alongside soft medullary bone, not representative of human jaw
+- Type K thermocouple sensitivity limitations
+- Variables not tested: drill speed variations, applied force, drilling duration specifics
+- 30-day observation only
