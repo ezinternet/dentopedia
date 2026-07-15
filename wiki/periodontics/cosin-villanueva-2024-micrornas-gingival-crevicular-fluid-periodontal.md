@@ -6,7 +6,7 @@ date: 2024-07-29
 doi: 10.3390/ijms25158274
 source: cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39125843"

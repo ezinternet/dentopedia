@@ -6,7 +6,7 @@ date: 2026-03-03
 doi: 10.1186/s12903-026-08025-y
 source: ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.pdf
 pdf_filename: ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers.pdf
 source_collection: external

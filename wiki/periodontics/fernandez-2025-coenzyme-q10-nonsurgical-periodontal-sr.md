@@ -6,7 +6,7 @@ date: 2025-02-07
 doi: 10.1111/eos.70002
 source: fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "39920883"

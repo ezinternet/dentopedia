@@ -6,7 +6,7 @@ date: 2018-12-27
 doi: "10.1002/14651858.CD004625.pub5"
 source: lamont-2018-routine-scale-and-polish-periodontal-health.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lamont-2018-routine-scale-and-polish-periodontal-health.txt
 pdf_filename: lamont-2018-routine-scale-and-polish-periodontal-health.txt
 source_collection: pubmed-text

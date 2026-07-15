@@ -6,7 +6,7 @@ date: 2025-05-26
 doi: 10.1007/s15010-025-02568-y
 source: foroughi-2025-bridging-oral-systemic-health-periodontal.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "40418274"

@@ -6,7 +6,7 @@ date: 2026-04-30
 doi: 10.3390/dj14050259
 source: lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42187637"

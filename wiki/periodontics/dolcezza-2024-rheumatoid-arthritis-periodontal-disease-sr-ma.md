@@ -6,7 +6,7 @@ date: 2024-12-25
 doi: 10.3390/jcm14010010
 source: dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39797091"

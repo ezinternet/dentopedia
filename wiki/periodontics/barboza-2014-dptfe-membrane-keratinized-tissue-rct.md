@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: 10.1097/ID.0000000000000060
 source: barboza-2014-dptfe-membrane-keratinized-tissue-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/barboza-2014-dptfe-membrane-keratinized-tissue-rct.pdf
 pdf_filename: barboza-2014-dptfe-membrane-keratinized-tissue-rct.pdf
 source_collection: external

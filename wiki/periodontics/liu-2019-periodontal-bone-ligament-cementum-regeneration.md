@@ -6,7 +6,7 @@ date: 2019-06-04
 doi: "10.3390/cells8060537"
 source: liu-2019-periodontal-bone-ligament-cementum-regeneration.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pmid: "31167434"
 pmcid: "PMC6628570"
 source_collection: pubmed-text

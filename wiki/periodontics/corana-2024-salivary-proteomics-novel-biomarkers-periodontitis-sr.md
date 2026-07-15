@@ -6,7 +6,7 @@ date: 2024-12-02
 doi: "10.1111/jre.13357"
 source: corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39620241"

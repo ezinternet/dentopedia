@@ -7,7 +7,7 @@ doi: 10.1007/s00784-018-2761-y
 pmid: "30535817"
 source: solderer-2019-chlorhexidine-rinses-periodontal-surgery.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt
 pdf_filename: solderer-2019-chlorhexidine-rinses-periodontal-surgery.txt

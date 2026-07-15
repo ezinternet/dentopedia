@@ -6,7 +6,7 @@ date: 2025-11-03
 doi: 10.1186/s12903-025-07096-7
 source: hu-2025-enzyme-protein-toothpaste-gingival-condition.md
 category: periodontics
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41184910"

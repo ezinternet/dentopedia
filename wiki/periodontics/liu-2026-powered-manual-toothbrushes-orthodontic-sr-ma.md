@@ -6,7 +6,7 @@ date: 2026-06-02
 doi: 10.1093/ejo/cjag026
 source: liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42276584"

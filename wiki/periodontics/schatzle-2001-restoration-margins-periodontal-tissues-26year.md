@@ -6,7 +6,7 @@ date: 2001-01-01
 doi: 10.1111/j.1600-051X.2001.280109.x
 source: schatzle-2001-restoration-margins-periodontal-tissues-26year.md
 category: [periodontics]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/schatzle-2001-restoration-margins-periodontal-tissues-26year.pdf
 pdf_filename: schatzle-2001-restoration-margins-periodontal-tissues-26year.pdf
 source_collection: external

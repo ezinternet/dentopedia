@@ -6,7 +6,7 @@ date: 2023-12-26
 doi: 10.1007/s00784-023-05392-6
 source: joseph-2024-systematic-review-meta-analysis-randomized.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/joseph-2024-systematic-review-meta-analysis-randomized.pdf
 pdf_filename: joseph-2024-systematic-review-meta-analysis-randomized.pdf
 source_collection: external

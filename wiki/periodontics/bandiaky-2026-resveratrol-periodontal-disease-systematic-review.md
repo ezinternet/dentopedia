@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: 10.3290/j.ohpd.c_2752
 source: bandiaky-2026-resveratrol-periodontal-disease-systematic-review.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42384081"

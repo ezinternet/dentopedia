@@ -6,7 +6,7 @@ date: 2017-09-18
 doi: 10.4103/jispcd.JISPCD_261_17
 source: hamasni-2017-biologic-width-restorative-dentistry.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamasni-2017-biologic-width-restorative-dentistry.pdf
 pdf_filename: hamasni-2017-biologic-width-restorative-dentistry.pdf
 source_collection: external

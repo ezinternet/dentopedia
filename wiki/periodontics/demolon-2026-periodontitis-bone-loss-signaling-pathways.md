@@ -6,7 +6,7 @@ date: 2026-01-03
 doi: "10.1038/s41413-025-00478-1"
 source: demolon-2026-periodontitis-bone-loss-signaling-pathways.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pmid: "41484074"
 pmcid: "PMC12764867"
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 1998-10-01
 doi: 10.1111/j.1600-051x.1998.tb02377.x
 source: morita-1998-toothpick-method-bass-supragingival-plaque-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "9797056"

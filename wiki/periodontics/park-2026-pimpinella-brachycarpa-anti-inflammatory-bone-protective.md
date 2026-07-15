@@ -6,7 +6,7 @@ date: 2026-01-10
 doi: 10.1007/s10735-025-10690-2
 source: park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective.md
 category: [periodontics]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "41514098"

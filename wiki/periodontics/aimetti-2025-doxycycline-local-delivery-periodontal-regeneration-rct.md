@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jre.13389
 source: aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "39868481"

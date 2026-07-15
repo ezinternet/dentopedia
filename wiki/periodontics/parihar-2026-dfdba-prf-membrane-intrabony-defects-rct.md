@@ -6,7 +6,7 @@ date: 2026-06-03
 doi: 10.4103/njms.njms_55_25
 source: parihar-2026-dfdba-prf-membrane-intrabony-defects-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "42422776"
 pmcid: "PMC13342730"

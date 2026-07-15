@@ -6,7 +6,7 @@ date: 2026-05-03
 doi: 10.1111/idh.70083
 source: hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case.md
 category: [periodontics]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "42071315"

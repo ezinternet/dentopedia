@@ -6,7 +6,7 @@ date: 2026-05-25
 doi: 10.3390/jcm15114071
 source: angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42278933"

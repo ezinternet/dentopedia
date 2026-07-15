@@ -6,7 +6,7 @@ date: 2026-06-17
 doi: 10.1186/s12903-026-08748-y
 source: donertas-2026-gbt-subgingival-debridement-gcf-biomarkers.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "42304353"

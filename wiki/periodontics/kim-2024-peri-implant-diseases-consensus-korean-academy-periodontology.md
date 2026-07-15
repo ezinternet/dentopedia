@@ -6,7 +6,7 @@ date: 2024-12-30
 doi: 10.5051/jpis.2404630231
 source: kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology.pdf
 pdf_filename: kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology.pdf
 source_collection: external

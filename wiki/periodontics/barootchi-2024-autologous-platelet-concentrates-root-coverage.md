@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1111/prd.12614
 source: barootchi-2024-autologous-platelet-concentrates-root-coverage.md
 category: periodontics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39403998"

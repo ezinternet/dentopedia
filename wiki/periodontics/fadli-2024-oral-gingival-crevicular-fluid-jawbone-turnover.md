@@ -6,7 +6,7 @@ date: 2024-09-30
 doi: 10.3390/diagnostics14192184
 source: fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "39410587"

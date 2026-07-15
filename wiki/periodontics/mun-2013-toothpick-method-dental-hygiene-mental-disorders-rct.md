@@ -6,7 +6,7 @@ date: 2013-09-03
 doi: 10.1111/idh.12053
 source: mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct.md
 category: periodontics
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "24034864"

@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1016/j.adaj.2015.01.026
 source: smiley-2015-nonsurgical-periodontitis-srp-guideline.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 superseded_by: sanz-2020-treatment-stage-i-iii-periodontitis-efp
 superseded_scope: partial
 pdf_path: /Users/oracleneo/llm-wiki/papers/smiley-2015-nonsurgical-periodontitis-srp-guideline.pdf

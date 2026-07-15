@@ -6,7 +6,7 @@ date: 2024-07-04
 doi: 10.23736/S2724-6329.24.04854-X
 source: oliveira-2024-periodontal-host-modulation-avocado-soybean.md
 category: [periodontics]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: false
 pmid: "38963288"

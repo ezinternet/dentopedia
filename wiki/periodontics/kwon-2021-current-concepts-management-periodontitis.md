@@ -6,7 +6,7 @@ date: 2021-02-19
 doi: "10.1111/idj.12630"
 source: kwon-2021-current-concepts-management-periodontitis.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2021-current-concepts-management-periodontitis.pdf
 pdf_filename: kwon-2021-current-concepts-management-periodontitis.pdf
 source_collection: external

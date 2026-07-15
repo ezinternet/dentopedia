@@ -6,7 +6,7 @@ date: 2020-10-02
 doi: 10.3290/j.ohpd.a45354
 source: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.pdf
 pdf_filename: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-04-03
 doi: 10.1111/jcpe.13290
 source: sanz-2020-treatment-stage-i-iii-periodontitis-efp.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2020-treatment-stage-i-iii-periodontitis-efp.pdf
 pdf_filename: sanz-2020-treatment-stage-i-iii-periodontitis-efp.pdf
 source_collection: external

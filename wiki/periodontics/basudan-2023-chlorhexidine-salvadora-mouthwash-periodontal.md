@@ -8,7 +8,7 @@ pmid: "37338011"
 pmcid: "PMC11619873"
 source: basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.txt
 text_filename: basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.txt

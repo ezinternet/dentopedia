@@ -6,7 +6,7 @@ date: 2016-07-21
 doi: 10.1371/journal.pone.0159843
 source: huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.md
 category: [periodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.pdf
 pdf_filename: huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.pdf
 source_collection: external

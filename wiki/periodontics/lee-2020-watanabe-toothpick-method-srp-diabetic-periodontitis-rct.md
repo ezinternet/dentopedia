@@ -6,7 +6,7 @@ date: 2020-04-23
 doi: 10.5051/jpis.2020.50.2.83
 source: lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct.md
 category: periodontics
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "32395387"

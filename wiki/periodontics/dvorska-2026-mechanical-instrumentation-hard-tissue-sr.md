@@ -6,7 +6,7 @@ date: 2026-06-04
 doi: 10.1111/idh.70107
 source: dvorska-2026-mechanical-instrumentation-hard-tissue-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "42244102"

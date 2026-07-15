@@ -6,7 +6,7 @@ date: 2025-05-19
 doi: 10.5051/jpis.2404300215
 source: corekci-2025-deepithelialized-gingival-graft-lprf-recession-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "40501079"
 pmcid: "PMC12962815"

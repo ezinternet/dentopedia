@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: 10.1002/JPER.25-0270
 source: wang-2025-ao-aap-consensus-peri-implant-diseases-conditions.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions.pdf
 pdf_filename: wang-2025-ao-aap-consensus-peri-implant-diseases-conditions.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.13127
 pmid: "31058336"
 source: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.txt
 pdf_filename: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.txt

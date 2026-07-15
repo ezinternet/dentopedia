@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.5051/jpis.2019.49.2.60
 source: jung-2019-periodontitis-spt-disease-progression-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2019-periodontitis-spt-disease-progression-sr.pdf
 pdf_filename: jung-2019-periodontitis-spt-disease-progression-sr.pdf
 source_collection: external

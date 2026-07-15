@@ -6,7 +6,7 @@ date: 2026-03-29
 doi: 10.1111/jcpe.70122
 source: tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41905896"

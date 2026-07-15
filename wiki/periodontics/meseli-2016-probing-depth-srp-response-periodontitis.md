@@ -6,7 +6,7 @@ date: 2016-09-22
 doi: 10.17096/jiufd.40993
 source: meseli-2016-probing-depth-srp-response-periodontitis.md
 category: [periodontics]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/meseli-2016-probing-depth-srp-response-periodontitis.pdf
 pdf_filename: meseli-2016-probing-depth-srp-response-periodontitis.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-07-21
 doi: 10.1111/jre.13161
 source: he-2023-demystifying-connection-between-periodontal.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "37477165"

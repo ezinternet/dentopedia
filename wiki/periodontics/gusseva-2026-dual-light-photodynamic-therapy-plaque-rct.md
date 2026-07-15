@@ -6,7 +6,7 @@ date: 2026-03-24
 doi: 10.1016/j.jdent.2026.106641
 source: gusseva-2026-dual-light-photodynamic-therapy-plaque-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct.pdf
 pdf_filename: gusseva-2026-dual-light-photodynamic-therapy-plaque-rct.pdf
 source_collection: external

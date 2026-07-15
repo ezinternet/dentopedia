@@ -7,7 +7,7 @@ doi: 10.1111/prd.12449
 journal: Periodontol 2000 90(1):45-61
 source: apatzidou-2022-cigarette-smoking-periodontal-implant-review.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/apatzidou-2022-cigarette-smoking-periodontal-implant-review.pdf
 pdf_filename: apatzidou-2022-cigarette-smoking-periodontal-implant-review.pdf
 source_collection: external

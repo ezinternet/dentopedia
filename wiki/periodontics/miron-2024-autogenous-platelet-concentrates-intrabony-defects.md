@@ -6,7 +6,7 @@ date: 2024-10-17
 doi: 10.1111/prd.12598
 source: miron-2024-autogenous-platelet-concentrates-intrabony-defects.md
 category: periodontics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39425513"

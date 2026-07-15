@@ -6,7 +6,7 @@ date: 2022-11-14
 doi: 10.4103/jisp.jisp_607_21
 source: maybodi-2022-periodontal-treatment-sle-disease-activity-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "36582961"

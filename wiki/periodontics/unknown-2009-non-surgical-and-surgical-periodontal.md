@@ -5,7 +5,7 @@ year: 2009
 doi: ""
 date: 2009-01-01
 source: unknown-2009-non-surgical-and-surgical-periodontal.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: periodontics
 pdf_path: /Users/oracleneo/llm-wiki/papers/unknown-2009-non-surgical-and-surgical-periodontal.pdf
 pdf_filename: unknown-2009-non-surgical-and-surgical-periodontal.pdf

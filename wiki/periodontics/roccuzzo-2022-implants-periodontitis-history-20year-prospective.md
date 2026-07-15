@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/jcpe.13716
 source: roccuzzo-2022-implants-periodontitis-history-20year-prospective.md
 category: [periodontics]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/roccuzzo-2022-implants-periodontitis-history-20year-prospective.pdf
 pdf_filename: roccuzzo-2022-implants-periodontitis-history-20year-prospective.pdf
 source_collection: external

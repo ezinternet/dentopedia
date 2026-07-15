@@ -6,7 +6,7 @@ date: 2025-11-01
 doi: 10.22974/jkda.2025.63.11.006
 source: kim-2025-management-peri-implantitis-perspectives.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-management-peri-implantitis-perspectives.pdf
 pdf_filename: kim-2025-management-peri-implantitis-perspectives.pdf
 source_collection: external

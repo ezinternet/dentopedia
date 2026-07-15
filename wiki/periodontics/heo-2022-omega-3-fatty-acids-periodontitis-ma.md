@@ -6,7 +6,7 @@ date: 2022-02-27
 doi: 10.1111/jcpe.13603
 source: heo-2022-omega-3-fatty-acids-periodontitis-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35141945"

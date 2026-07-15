@@ -6,7 +6,7 @@ date: 2026-04-28
 doi: 10.1111/ipd.70086
 source: zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.pdf
 pdf_filename: zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.pdf
 source_collection: external

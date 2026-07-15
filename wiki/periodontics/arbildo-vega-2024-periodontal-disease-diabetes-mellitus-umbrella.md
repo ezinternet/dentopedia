@@ -6,7 +6,7 @@ date: 2024-11-19
 doi: 10.3390/healthcare12222311
 source: arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39595508"

@@ -6,7 +6,7 @@ date: 2024-10-25
 doi: 10.1186/s12903-024-05084-x
 source: aykol-sahin-2024-toothbrush-types-orthodontic-gingivitis.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "39455996"

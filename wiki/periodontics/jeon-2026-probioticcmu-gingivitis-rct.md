@@ -6,7 +6,7 @@ date: 2026-03-12
 doi: 10.1177/1096620X261430298
 source: jeon-2026-probioticcmu-gingivitis-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41817287"

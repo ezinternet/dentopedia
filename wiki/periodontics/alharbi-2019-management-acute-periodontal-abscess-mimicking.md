@@ -6,7 +6,7 @@ date: 2019-09-08
 doi: 10.7759/cureus.5592
 source: alharbi-2019-management-acute-periodontal-abscess-mimicking.md
 category: [periodontics]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/alharbi-2019-management-acute-periodontal-abscess-mimicking.pdf
 pdf_filename: alharbi-2019-management-acute-periodontal-abscess-mimicking.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-02-15
 doi: 10.1371/journal.pone.0263722
 source: giese-kraft-2022-digital-imaging-plaque-monitoring.md
 category: [periodontics]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "35167618"

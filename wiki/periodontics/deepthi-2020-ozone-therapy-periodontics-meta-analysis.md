@@ -6,7 +6,7 @@ date: 2020-08-07
 doi: 10.4103/ccd.ccd_79_19
 source: deepthi-2020-ozone-therapy-periodontics-meta-analysis.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/deepthi-2020-ozone-therapy-periodontics-meta-analysis.pdf
 pdf_filename: deepthi-2020-ozone-therapy-periodontics-meta-analysis.pdf
 source_collection: external

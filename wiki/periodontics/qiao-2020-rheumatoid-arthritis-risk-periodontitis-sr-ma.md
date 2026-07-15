@@ -6,7 +6,7 @@ date: 2020-06-25
 doi: 10.1016/j.jbspin.2020.04.024
 source: qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma.pdf
 pdf_filename: qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma.pdf
 source_collection: external

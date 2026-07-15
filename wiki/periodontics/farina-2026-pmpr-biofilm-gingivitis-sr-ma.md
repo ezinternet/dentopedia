@@ -6,7 +6,7 @@ date: 2026-01-13
 doi: "10.1111/jcpe.70083"
 source: farina-2026-pmpr-biofilm-gingivitis-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
 pdf_filename: farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
 source_collection: pubmed-text

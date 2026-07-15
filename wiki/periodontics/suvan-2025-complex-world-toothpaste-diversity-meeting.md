@@ -6,7 +6,7 @@ date: 2025-01-29
 doi: 10.1111/idh.12904
 source: suvan-2025-complex-world-toothpaste-diversity-meeting.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "39887560"

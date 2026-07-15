@@ -6,7 +6,7 @@ date: 2026-06-04
 doi: 10.1186/s12903-026-08786-6
 source: sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42243816"

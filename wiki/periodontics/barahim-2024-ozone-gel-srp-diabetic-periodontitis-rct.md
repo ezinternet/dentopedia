@@ -6,7 +6,7 @@ date: 2024-11-25
 doi: 10.1186/s12903-024-05212-7
 source: barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct.pdf
 pdf_filename: barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-05-24
 doi: 10.1186/s12903-020-01127-1
 source: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing.pdf
 pdf_filename: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing.pdf
 source_collection: external

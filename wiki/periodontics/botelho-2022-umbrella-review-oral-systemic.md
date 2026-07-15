@@ -6,7 +6,7 @@ date: 2022-12-09
 doi: 10.1038/s41467-022-35337-8
 source: botelho-2022-umbrella-review-oral-systemic.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36494387"

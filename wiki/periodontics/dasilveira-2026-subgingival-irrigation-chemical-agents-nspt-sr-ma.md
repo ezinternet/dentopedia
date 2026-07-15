@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s00784-026-06909-5
 source: dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma.md
 category: periodontics
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42126682"

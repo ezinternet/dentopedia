@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: "10.1002/JPER.16-0642"
 source: herrera-2018-acute-periodontal-lesions-periodontal-abscesses.md
 category: periodontics
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2018-acute-periodontal-lesions-periodontal-abscesses.pdf
 pdf_filename: herrera-2018-acute-periodontal-lesions-periodontal-abscesses.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1371/journal.pone.0333342
 source: milinkovic-2025-local-systemic-antibiotics-periodontal-rct.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41021535"

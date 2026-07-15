@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/jcpe.70135
 source: dommisch-2026-management-periodontal-abscesses-endodontic-periodontal.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal.pdf
 pdf_filename: dommisch-2026-management-periodontal-abscesses-endodontic-periodontal.pdf
 source_collection: external

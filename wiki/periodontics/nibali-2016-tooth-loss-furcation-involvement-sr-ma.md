@@ -6,7 +6,7 @@ date: 2015-12-21
 doi: 10.1111/jcpe.12497
 source: nibali-2016-tooth-loss-furcation-involvement-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 pdf_filename: nibali-2016-tooth-loss-furcation-involvement-sr-ma.pdf
 source_collection: external

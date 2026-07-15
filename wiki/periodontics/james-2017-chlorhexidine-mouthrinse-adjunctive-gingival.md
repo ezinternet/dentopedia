@@ -8,7 +8,7 @@ pmid: "28362061"
 pmcid: "PMC6464488"
 source: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
 text_filename: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt

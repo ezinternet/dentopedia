@@ -6,7 +6,7 @@ date: 2024-03-14
 doi: 10.1038/s41598-024-56849-x
 source: murugaiyan-2024-porphyromonas-gingivalis-strains-periodontal.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "38485747"

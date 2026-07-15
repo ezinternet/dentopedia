@@ -6,7 +6,7 @@ date: 2021-05-18
 doi: 10.1002/JPER.21-0120
 source: scannapieco-2021-dysbiosis-oral-microbiome-periodontitis.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "33902163"

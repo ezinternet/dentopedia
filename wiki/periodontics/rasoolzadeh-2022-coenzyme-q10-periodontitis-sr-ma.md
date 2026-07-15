@@ -6,7 +6,7 @@ date: 2022-03-04
 doi: 10.1016/j.jebdp.2022.101710
 source: rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35718433"

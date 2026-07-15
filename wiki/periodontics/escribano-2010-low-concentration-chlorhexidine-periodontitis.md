@@ -7,7 +7,7 @@ doi: 10.1111/j.1600-051X.2009.01521.x
 pmid: "20088984"
 source: escribano-2010-low-concentration-chlorhexidine-periodontitis.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
 pdf_filename: escribano-2010-low-concentration-chlorhexidine-periodontitis.txt

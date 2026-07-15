@@ -5,7 +5,7 @@ year: 2014
 doi: ""
 date: 2014-01-01
 source: jo-2008-management-of-dental-biofilm-through.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: periodontics
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2008-management-of-dental-biofilm-through.pdf
 pdf_filename: jo-2008-management-of-dental-biofilm-through.pdf

@@ -6,7 +6,7 @@ date: 2026-05-30
 doi: 10.1186/s12903-026-08694-9
 source: jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct.md
 category: periodontics
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42218449"

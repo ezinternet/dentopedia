@@ -6,7 +6,7 @@ date: 2023-10-25
 doi: 10.1186/s12903-023-03518-6
 source: axe-2023-impact-manual-toothbrush-design.md
 category: [periodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "37880662"

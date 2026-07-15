@@ -6,7 +6,7 @@ date: 2022-11-07
 doi: 10.1016/j.sdentj.2022.11.001
 source: dasilva-2022-periodontal-status-salivary-leptin-sle.md
 category: [periodontics]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "36570575"

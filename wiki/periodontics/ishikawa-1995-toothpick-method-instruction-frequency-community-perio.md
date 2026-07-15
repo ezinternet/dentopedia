@@ -6,7 +6,7 @@ date: 1995-09-01
 doi: "n/a (PMID 8534877)"
 source: ishikawa-1995-toothpick-method-instruction-frequency-community-perio.md
 category: [periodontics]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "8534877"

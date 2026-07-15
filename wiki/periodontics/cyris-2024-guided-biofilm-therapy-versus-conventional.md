@@ -6,7 +6,7 @@ date: 2024-09-18
 doi: 10.1186/s12903-024-04898-z
 source: cyris-2024-guided-biofilm-therapy-versus-conventional.md
 category: [periodontics]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/cyris-2024-guided-biofilm-therapy-versus-conventional.pdf
 pdf_filename: cyris-2024-guided-biofilm-therapy-versus-conventional.pdf
 source_collection: external

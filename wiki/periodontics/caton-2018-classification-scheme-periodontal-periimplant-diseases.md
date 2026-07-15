@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1111/jcpe.12935
 source: caton-2018-classification-scheme-periodontal-periimplant-diseases.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/caton-2018-classification-scheme-periodontal-periimplant-diseases.pdf
 pdf_filename: caton-2018-classification-scheme-periodontal-periimplant-diseases.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-12-01
 doi: 10.1111/jcpe.13409
 source: stavropoulos-2021-periodontal-regeneration-intrabony-nma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/stavropoulos-2021-periodontal-regeneration-intrabony-nma.pdf
 pdf_filename: stavropoulos-2021-periodontal-regeneration-intrabony-nma.pdf
 source_collection: external

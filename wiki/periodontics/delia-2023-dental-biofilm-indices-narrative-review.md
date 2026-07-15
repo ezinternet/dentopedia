@@ -6,7 +6,7 @@ date: 2023-07-17
 doi: 10.3390/dj11070172
 source: delia-2023-dental-biofilm-indices-narrative-review.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37504238"

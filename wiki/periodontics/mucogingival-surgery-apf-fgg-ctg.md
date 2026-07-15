@@ -7,7 +7,7 @@ date: 2026-06-14
 doi: N/A
 source: N/A
 category: [periodontics]
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis

@@ -6,7 +6,7 @@ date: 2026-06-03
 doi: 10.1007/s00784-026-06955-z
 source: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42234020"

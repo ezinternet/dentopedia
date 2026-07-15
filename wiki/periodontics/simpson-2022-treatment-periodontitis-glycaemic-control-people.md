@@ -6,7 +6,7 @@ date: 2022-04-01
 doi: 10.1002/14651858.CD004714.pub4
 source: simpson-2022-treatment-periodontitis-glycaemic-control-people.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/simpson-2022-treatment-periodontitis-glycaemic-control-people.pdf
 pdf_filename: simpson-2022-treatment-periodontitis-glycaemic-control-people.pdf
 source_collection: external

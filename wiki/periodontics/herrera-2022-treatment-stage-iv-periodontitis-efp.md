@@ -6,7 +6,7 @@ date: 2022-04-22
 doi: 10.1111/jcpe.13639
 source: herrera-2022-treatment-stage-iv-periodontitis-efp.md
 category: [periodontics]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2022-treatment-stage-iv-periodontitis-efp.pdf
 pdf_filename: herrera-2022-treatment-stage-iv-periodontitis-efp.pdf
 source_collection: external

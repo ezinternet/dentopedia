@@ -6,7 +6,7 @@ date: 2014-04-17
 doi: 10.1111/prd.12022
 source: herrera-2014-acute-periodontal-lesions.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/herrera-2014-acute-periodontal-lesions.pdf
 pdf_filename: herrera-2014-acute-periodontal-lesions.pdf
 source_collection: external

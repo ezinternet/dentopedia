@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1177/23800844241240474
 source: mendonca-2024-effects-probiotic-therapy-periodontal.md
 category: [periodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mendonca-2024-effects-probiotic-therapy-periodontal.pdf
 pdf_filename: mendonca-2024-effects-probiotic-therapy-periodontal.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2015-10-01
 doi: 10.1016/j.jebdp.2015.10.001
 source: farooqi-2015-periodontal-maintenance-recall-interval-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/farooqi-2015-periodontal-maintenance-recall-interval-sr.pdf
 pdf_filename: farooqi-2015-periodontal-maintenance-recall-interval-sr.pdf
 source_collection: external

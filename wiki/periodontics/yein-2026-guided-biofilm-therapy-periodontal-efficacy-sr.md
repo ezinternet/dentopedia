@@ -6,7 +6,7 @@ date: 2026-04-24
 doi: 10.1186/s12903-026-08418-z
 source: yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr.md
 category: [periodontics]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42032569"
