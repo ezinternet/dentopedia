@@ -8,7 +8,7 @@ category: bone-regeneration/ridge-preservation
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/42059861/
-confidence: animal
+evidence_level: animal
 text_path: /Users/oracleneo/llm-wiki/papers/shin-2026-aging-socket-healing-rat-jeonbuk.txt
 text_filename: shin-2026-aging-socket-healing-rat-jeonbuk.txt
 ---

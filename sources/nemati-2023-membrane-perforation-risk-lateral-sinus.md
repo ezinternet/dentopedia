@@ -5,7 +5,7 @@ year: 2023
 doi: 10.1016/j.jcms.2023.06.010
 journal: Journal of Cranio-Maxillofacial Surgery 2023;51(7–8):427–432
 category: [sinus-lift/lateral]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/nemati-2023-membrane-perforation-risk-lateral-sinus.pdf
 pdf_filename: nemati-2023-membrane-perforation-risk-lateral-sinus.pdf
 source_collection: external
