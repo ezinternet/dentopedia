@@ -6,7 +6,7 @@ date: 2024-04-30
 doi: 10.1186/s12903-024-04314-6
 source: el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers.md
 category: veneers
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers.pdf
 pdf_filename: el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers.pdf
 source_collection: external

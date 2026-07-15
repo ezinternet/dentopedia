@@ -6,7 +6,7 @@ date: 2024-06-18
 doi: 10.17219/dmp/157347
 source: maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr.md
 category: veneers
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr.pdf
 pdf_filename: maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr.pdf
 source_collection: external

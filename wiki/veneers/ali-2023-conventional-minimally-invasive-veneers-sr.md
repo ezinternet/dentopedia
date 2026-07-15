@@ -6,7 +6,7 @@ date: 2023-09-04
 doi: 10.7759/cureus.44638
 source: ali-2023-conventional-minimally-invasive-veneers-sr.md
 category: [veneers]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ali-2023-conventional-minimally-invasive-veneers-sr.pdf
 pdf_filename: ali-2023-conventional-minimally-invasive-veneers-sr.pdf
 source_collection: external

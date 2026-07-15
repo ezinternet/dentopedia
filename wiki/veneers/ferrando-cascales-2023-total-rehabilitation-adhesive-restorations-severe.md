@@ -6,7 +6,7 @@ date: 2023-08-10
 doi: 10.3390/jcm12165222
 source: ferrando-cascales-2023-total-rehabilitation-adhesive-restorations-severe.md
 category: veneers
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ferrando-cascales-2023-total-rehabilitation-adhesive-restorations-severe.pdf
 pdf_filename: ferrando-cascales-2023-total-rehabilitation-adhesive-restorations-severe.pdf
 source_collection: external

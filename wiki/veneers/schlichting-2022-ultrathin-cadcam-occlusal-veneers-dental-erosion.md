@@ -6,7 +6,7 @@ date: 2022-08-01
 doi: 10.1016/j.prosdent.2022.01.015
 source: schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion.md
 category: veneers
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion.pdf
 pdf_filename: schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion.pdf
 source_collection: external

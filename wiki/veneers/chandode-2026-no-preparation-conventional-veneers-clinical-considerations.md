@@ -6,7 +6,7 @@ date: 2026-03-31
 doi: 10.6026/973206300221560
 source: chandode-2026-no-preparation-conventional-veneers-clinical-considerations.md
 category: [veneers]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42145353"

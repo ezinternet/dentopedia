@@ -6,7 +6,7 @@ date: 2024-05-16
 doi: 10.3390/jfb15050131
 source: alghazzawi-2024-clinical-survival-rate-laboratory-failure-veneers.md
 category: veneers
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alghazzawi-2024-clinical-survival-rate-laboratory-failure-veneers.pdf
 pdf_filename: alghazzawi-2024-clinical-survival-rate-laboratory-failure-veneers.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-04-27
 doi: 10.1186/s12903-023-02932-0
 source: essam-2023-thickness-surface-conditioning-fracture-occlusal.md
 category: veneers
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/essam-2023-thickness-surface-conditioning-fracture-occlusal.pdf
 pdf_filename: essam-2023-thickness-surface-conditioning-fracture-occlusal.pdf
 source_collection: external

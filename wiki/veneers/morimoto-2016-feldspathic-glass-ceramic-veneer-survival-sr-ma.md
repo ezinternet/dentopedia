@@ -6,7 +6,7 @@ date: 2016-01-12
 doi: 10.11607/ijp.4315
 source: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.md
 category: [veneers]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.pdf
 pdf_filename: morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma.pdf
 source_collection: external

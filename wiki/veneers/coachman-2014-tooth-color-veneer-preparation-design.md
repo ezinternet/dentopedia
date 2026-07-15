@@ -6,7 +6,7 @@ date: 2014-07-01
 doi: 10.11607/prd.1900
 source: coachman-2014-tooth-color-veneer-preparation-design.md
 category: [veneers]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/coachman-2014-tooth-color-veneer-preparation-design.pdf
 pdf_filename: coachman-2014-tooth-color-veneer-preparation-design.pdf
 source_collection: external

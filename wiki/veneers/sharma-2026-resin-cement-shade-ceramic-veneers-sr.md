@@ -6,7 +6,7 @@ date: 2026-06-03
 doi: 10.3389/fdmed.2026.1789416
 source: sharma-2026-resin-cement-shade-ceramic-veneers-sr.md
 category: [veneers]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42318568"

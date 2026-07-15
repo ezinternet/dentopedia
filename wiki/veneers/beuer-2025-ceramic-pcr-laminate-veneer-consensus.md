@@ -6,7 +6,7 @@ date: 2025-04-17
 doi: "10.1111/jerd.13418"
 source: beuer-2025-ceramic-pcr-laminate-veneer-consensus.md
 category: [veneers]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
 pmid: "40245384"

@@ -6,7 +6,7 @@ date: 2024-01-23
 doi: 10.11607/prd.6574
 source: gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching.md
 category: [veneers]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching.pdf
 pdf_filename: gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching.pdf
 source_collection: external

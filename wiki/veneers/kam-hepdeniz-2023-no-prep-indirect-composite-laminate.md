@@ -6,7 +6,7 @@ date: 2023-04-27
 doi: 10.1186/s12903-023-02949-5
 source: kam-hepdeniz-2023-no-prep-indirect-composite-laminate.md
 category: veneers
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kam-hepdeniz-2023-no-prep-indirect-composite-laminate.pdf
 pdf_filename: kam-hepdeniz-2023-no-prep-indirect-composite-laminate.pdf
 source_collection: external
