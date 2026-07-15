@@ -6,7 +6,7 @@ date: 2011-10-01
 doi: 10.4103/0970-1591.91446
 source: flechner-2011-pvalues-confidence-intervals-number-needed.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/flechner-2011-pvalues-confidence-intervals-number-needed.pdf
 pdf_filename: flechner-2011-pvalues-confidence-intervals-number-needed.pdf
 source_collection: external

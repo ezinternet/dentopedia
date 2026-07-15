@@ -6,7 +6,7 @@ date: 2021-05-25
 doi: 10.3390/ijerph18115669
 source: monaghan-2021-odds-ratios-relative-risk-absolute.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/monaghan-2021-odds-ratios-relative-risk-absolute.pdf
 pdf_filename: monaghan-2021-odds-ratios-relative-risk-absolute.pdf
 source_collection: external

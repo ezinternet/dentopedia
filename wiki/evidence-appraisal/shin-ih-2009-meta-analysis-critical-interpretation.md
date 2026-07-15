@@ -6,7 +6,7 @@ date: 2009-10-01
 doi: null
 source: shin-ih-2009-meta-analysis-critical-interpretation.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shin-ih-2009-meta-analysis-critical-interpretation.pdf
 pdf_filename: shin-ih-2009-meta-analysis-critical-interpretation.pdf
 source_collection: external

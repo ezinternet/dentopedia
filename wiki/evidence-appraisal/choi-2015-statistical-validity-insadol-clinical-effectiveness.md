@@ -7,7 +7,7 @@ doi: null
 journal: 대한치과의사협회지 (J Korean Dent Assoc) 2015;53(7)
 source: choi-2015-statistical-validity-insadol-clinical-effectiveness.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/choi-2015-statistical-validity-insadol-clinical-effectiveness.pdf
 pdf_filename: choi-2015-statistical-validity-insadol-clinical-effectiveness.pdf
 source_collection: external

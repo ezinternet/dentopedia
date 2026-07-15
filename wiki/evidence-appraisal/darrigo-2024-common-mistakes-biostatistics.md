@@ -6,7 +6,7 @@ date: 2024-06-26
 doi: 10.1093/ckj/sfae197
 source: darrigo-2024-common-mistakes-biostatistics.md
 category: evidence-appraisal
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/darrigo-2024-common-mistakes-biostatistics.pdf
 pdf_filename: darrigo-2024-common-mistakes-biostatistics.pdf
 source_collection: external
