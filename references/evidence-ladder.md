@@ -1,24 +1,20 @@
-# Evidence Ladder — 근거 등급 단일 참조표
+# Evidence Ladder — Supersession 판단 참조표
 
-이 파일이 유일한 정식 등급 정의다. `SOP.md`·`CLAUDE.md`·`supersession-audit.py`의 인라인 설명은 모두 이 표를 따른다.
+> **필드명 (2026-07-15):** 이 축의 frontmatter 필드는 `evidence_level:`이다 (구 `confidence:`, grandfather). 아래 설명의 "등급 값"은 모두 `evidence_level` 값을 가리킨다.
 
-## 근거 등급 (confidence 값 단일 partial-order)
+> **값 목록의 단일 출처는 `INGEST.md`의 "`evidence_level:` vocabulary" 표다.** 어떤 라벨이 유효한지(13개 study type + 4개 non-research 라벨)는 그곳에서 관리한다. 이 파일은 그 값들 사이의 **supersession 판단 규칙**(어느 등급이 어느 등급을 이기는가)과 보조 `rob:` 필드만 정의한다. `SOP.md`·`CLAUDE.md`·`supersession-audit.py`의 인라인 설명은 판단 규칙에 관해 이 파일을 따른다.
 
-| `confidence` 값 | 설명 | Supersession 판단 기준 |
-|---|---|---|
-| `sr+ma` | Systematic review + meta-analysis (umbrella review 포함) | 사다리 최상위 |
-| `sr` | Systematic review (MA 없음) | |
-| `rct` | Randomized controlled trial | |
-| `prospective` | Prospective cohort / prospective case series | |
-| `retrospective` | Retrospective cohort / chart review | |
-| `cross-sectional` | Cross-sectional study, survey | |
-| `case-report` | Case report / small case series (n < 10) | |
-| `in-vivo` | In vivo clinical/animal experimental (위 카테고리 미해당) | |
-| `animal` | Animal-only experimental | |
-| `in-vitro` | Bench / laboratory study | |
-| `narrative-review` | Narrative review, perspective, expert commentary | 사다리 최하위 (expert opinion) |
-| `consensus` | Consensus statement / position paper | narrative-review와 동등 취급 |
-| `synthesis` | Wiki overview (cross-paper synthesis) — 외부 연구 유형 아님 | supersession 미적용 |
+## 근거 사다리 (partial-order, 높은 근거 → 낮은 근거)
+
+```
+sr+ma  >  sr  >  rct  >  prospective  >  retrospective
+       >  cross-sectional  >  case-report  >  in-vivo / animal / in-vitro
+       >  narrative-review  ≈  consensus        (expert opinion 최하위)
+```
+
+- `synthesis` (wiki overview): 외부 연구 유형이 아니므로 supersession 미적용.
+- `regulation` / `official-qa` / `manual` / `patent`: non-research 문서 — 사다리에 올리지 않는다 (근거 무게 비교 대상 아님).
+- 각 값의 정확한 정의는 `INGEST.md` 표 참조.
 
 ## Supersession 적용 규칙
 
@@ -49,7 +45,7 @@
 
 ```yaml
 # 예시 (wiki frontmatter)
-confidence: rct
+evidence_level: rct
 rob: some-concerns
 ```
 
