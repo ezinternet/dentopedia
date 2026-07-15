@@ -272,6 +272,12 @@ tags: []
 - [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA(Materials 2021, n=16편 중 임상 11: 동물 8+인간 3): OD vs 표준 — IT·BIC 유의↑; CW(절삭) vs CCW(다짐) OD 간 BIC/토크 차이 있으나 BAFO는 차이 없음. MA가 동물 데이터에 한정
 - [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — 동물(양, n=2/임플란트 20, 2개월): 표준 드릴링 Ø3.8 좌측 vs OD Ø5.0 Versah 우측 — OD %BV ~30%↑·RT 우수·미세동요↓·치조정 폭경↑. 임플란트 직경 다름(3.8 vs 5.0)으로 OD 효과/직경 효과 교란
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 동물(양, n=12 양측 paired, 경추 C2·C3·C4, 0/3/6주): OD vs 표준 — pullout 강도 유의↑(p<0.01), BIC p<0.01·BAFO p=0.024 모두 우수. 척추 hardware 모델로 치과 외삽은 별도 추론
+- [[implants/markovic-2016-effect-surgical-drill-guide-irrigans]] — 소 늑골 in vitro(2×2 요인, n=48): 드릴가이드는 골식립부 입구(entrance)에서만 발열 유의(p<0.001, 최대 +7.48°C), 냉각 5°C saline은 전 깊이에서 발열 억제(p<0.001), 모두 괴사역치(47°C) 미달
+- [[implants/hu-2019-evaluation-fluid-distribution-implant-site]] — CFD 시뮬레이션(in vitro): 관류량 ≥60 mL/min에서 임플란트 식립와 유체 분포 plateau; drill speed는 저관류량에서만 영향, feed rate는 무영향 (abstract-only)
+- [[implants/raj-2021-analysis-factors-determining-thermal-changes]] — 우골 in vitro 요인설계(TCRM 2021): 시추속도·수압·세정액온도가 절제부 발열에 상호작용 — 2000rpm/1.2kgf/실온 최고, 2500rpm/2.4kgf/냉각saline 최저, 모두 47°C 미만
+- [[implants/sener-2009-effects-irrigation-temperature-heat-control]] — 소 하악골 in vitro(COIR 2009, 3/7/12mm 깊이): 10°C saline이 25°C보다 냉각 효과 우수, 얕은 부위(entrance)가 발열 최대
+- [[implants/kosior-2025-comparative-analysis-histological-characteristics]] — in vitro 조직학(J Clin Med 2025, 드릴 3사 비교, n=54): 4°C 식염수 냉각이 모든 시스템에서 최고 골와동 품질(Hiossen 1200rpm/4°C=15.3/16), 무냉각+고속 최악(5.5/16)
+- [[implants/kapse-2022-thermal-effect-operatory-room-temperature-surgical]] — 염소 하악골 열화상 연구(in vitro): 관주액 온도(5°C vs 25°C)만 골 발열에 유의(p=0.003), 진료실 실온·드릴직경·깊이는 무효과
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
