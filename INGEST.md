@@ -301,6 +301,15 @@ qmd update   # 파일시스템 재스캔 (신규/변경/삭제 반영)
 qmd embed    # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초). 전체 재임베딩(-f)은 ~2.5h이므로 금지
 ```
 
+**주의 — `qmd embed`는 백로그가 크면 미완료로 끝난다.** 대량 백로그(2,000편+)에서 daemon 세션이 중간에 만료되어 `qmd embed`가 남은 문서를 임베딩하지 않고 exit 0으로 끝난다 (exit-0 ≠ 완료). 유일하게 믿을 수 있는 완료 신호는 `"All content hashes already have embeddings"` 메시지다. 1~2편만 추가한 일반 ingest라면 위 단일 실행으로 충분하지만, **백로그가 쌓였거나 확실히 끝내야 할 때는 done 마커까지 반복 실행하는 헬퍼를 쓴다:**
+
+```bash
+bash scripts/embed-until-done.sh      # done 마커 나올 때까지 반복 (내부에서 qmd update도 실행)
+bash scripts/embed-until-done.sh &    # 백그라운드로 걸어두고 다음 작업 진행
+```
+
+`scripts/embed-until-done.sh`는 `qmd update` → `qmd embed`를 done 마커가 나올 때까지 반복하며, `MAX_PASSES=40` 안전 상한이 있다. (참고: 메모리 `qmd-embed-multipass`)
+
 The MCP daemon picks up new vectors automatically — no restart needed.
 
 ---
