@@ -6,7 +6,7 @@ date: 2024-12-13
 doi: 10.3390/bioengineering11121267
 source: mallineni-2024-ai-dentistry-descriptive-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mallineni-2024-ai-dentistry-descriptive-review.pdf
 pdf_filename: mallineni-2024-ai-dentistry-descriptive-review.pdf
 source_collection: external

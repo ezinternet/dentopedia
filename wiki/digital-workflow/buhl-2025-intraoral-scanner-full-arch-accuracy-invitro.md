@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.105984
 source: buhl-2025-intraoral-scanner-full-arch-accuracy-invitro.md
 category: [digital-workflow]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro.pdf
 pdf_filename: buhl-2025-intraoral-scanner-full-arch-accuracy-invitro.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-05989-1
 source: najeeb-2025-ai-restorative-dentistry-review.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/najeeb-2025-ai-restorative-dentistry-review.pdf
 pdf_filename: najeeb-2025-ai-restorative-dentistry-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s40001-025-02603-6
 source: mizna-2025-ai-healthcare-practice-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mizna-2025-ai-healthcare-practice-review.pdf
 pdf_filename: mizna-2025-ai-healthcare-practice-review.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-08-25
 doi: 10.2186/jpr.JPR_D_22_00053
 source: sakai-2023-ai-drilling-protocol-cbct-implants.md
 category: [digital-workflow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sakai-2023-ai-drilling-protocol-cbct-implants.pdf
 pdf_filename: sakai-2023-ai-drilling-protocol-cbct-implants.pdf
 source_collection: external

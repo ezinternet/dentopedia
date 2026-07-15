@@ -7,7 +7,7 @@ doi: 10.1111/clr.70100
 journal: "Clinical Oral Implants Research 37(5):525-542"
 source: nava-2026-guided-surgery-immediate-implant-accuracy-nma.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/nava-2026-guided-surgery-immediate-implant-accuracy-nma.pdf
 pdf_filename: nava-2026-guided-surgery-immediate-implant-accuracy-nma.pdf
 source_collection: external

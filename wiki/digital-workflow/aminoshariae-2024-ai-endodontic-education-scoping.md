@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.joen.2024.02.013
 source: aminoshariae-2024-ai-endodontic-education-scoping.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/aminoshariae-2024-ai-endodontic-education-scoping.pdf
 pdf_filename: aminoshariae-2024-ai-endodontic-education-scoping.pdf
 source_collection: external

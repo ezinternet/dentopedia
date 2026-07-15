@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1038/s41405-025-00300-4
 source: achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping.pdf
 pdf_filename: achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-10-30
 doi: 10.7759/cureus.47941
 source: altalhi-2023-artificial-intelligence-impact-dental-implantology.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/altalhi-2023-artificial-intelligence-impact-dental-implantology.pdf
 pdf_filename: altalhi-2023-artificial-intelligence-impact-dental-implantology.pdf
 source_collection: external

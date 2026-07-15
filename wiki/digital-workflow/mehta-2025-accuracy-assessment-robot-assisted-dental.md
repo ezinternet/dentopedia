@@ -6,7 +6,7 @@ date: 2025-08-12
 doi: 10.1016/j.prosdent.2025.06.032
 source: mehta-2025-accuracy-assessment-robot-assisted-dental.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/mehta-2025-accuracy-assessment-robot-assisted-dental.pdf
 pdf_filename: mehta-2025-accuracy-assessment-robot-assisted-dental.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-12-10
 doi: 10.1111/jopr.70068
 source: zhang-2025-llm-patient-instructions-dentistry-sr-ma.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-llm-patient-instructions-dentistry-sr-ma.pdf
 pdf_filename: zhang-2025-llm-patient-instructions-dentistry-sr-ma.pdf
 source_collection: external

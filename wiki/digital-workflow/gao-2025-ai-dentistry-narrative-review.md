@@ -6,7 +6,7 @@ date: 2025-04-08
 doi: 10.12659/MSM.946676
 source: gao-2025-ai-dentistry-narrative-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/gao-2025-ai-dentistry-narrative-review.pdf
 pdf_filename: gao-2025-ai-dentistry-narrative-review.pdf
 source_collection: external

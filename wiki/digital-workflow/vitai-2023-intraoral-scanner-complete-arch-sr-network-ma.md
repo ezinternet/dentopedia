@@ -6,7 +6,7 @@ date: 2023-07-27
 doi: 10.1016/j.jdent.2023.104636
 source: vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.pdf
 pdf_filename: vitai-2023-intraoral-scanner-complete-arch-sr-network-ma.pdf
 source_collection: external

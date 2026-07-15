@@ -6,7 +6,7 @@ date: 2025-04-25
 doi: 10.1111/jopr.14061
 source: fouda-2025-accuracy-digital-workflow-implant-fullarch.md
 category: [digital-workflow]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40285405"

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.7759/cureus.93202
 journal: Cureus 2025;17(9):e93202
 source: singh-2025-intraoral-scanners-accuracy-umbrella-review.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [digital-workflow]
 pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2025-intraoral-scanners-accuracy-umbrella-review.pdf
 pdf_filename: singh-2025-intraoral-scanners-accuracy-umbrella-review.pdf

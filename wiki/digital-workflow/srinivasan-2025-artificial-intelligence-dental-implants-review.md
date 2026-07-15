@@ -6,7 +6,7 @@ date: 2025-12-31
 doi: 10.37983/IJDM.2025.7403
 source: srinivasan-2025-artificial-intelligence-dental-implants-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/srinivasan-2025-artificial-intelligence-dental-implants-review.pdf
 pdf_filename: srinivasan-2025-artificial-intelligence-dental-implants-review.pdf
 source_collection: external

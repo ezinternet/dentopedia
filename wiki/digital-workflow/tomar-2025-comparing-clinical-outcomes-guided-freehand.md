@@ -6,7 +6,7 @@ date: 2025-11-07
 doi: 10.1016/j.prosdent.2025.10.039
 source: tomar-2025-comparing-clinical-outcomes-guided-freehand.md
 category: [digital-workflow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2025-comparing-clinical-outcomes-guided-freehand.pdf
 pdf_filename: tomar-2025-comparing-clinical-outcomes-guided-freehand.pdf
 source_collection: external

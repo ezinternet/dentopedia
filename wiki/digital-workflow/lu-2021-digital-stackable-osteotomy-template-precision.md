@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.7518/hxkq.2021.06.018
 source: lu-2021-digital-stackable-osteotomy-template-precision.md
 category: [digital-workflow]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/lu-2021-digital-stackable-osteotomy-template-precision.pdf
 pdf_filename: lu-2021-digital-stackable-osteotomy-template-precision.pdf
 source_collection: external

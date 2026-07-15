@@ -6,7 +6,7 @@ date: 2023-04-08
 doi: 10.1186/s12903-023-02921-3
 source: oh-2023-deep-learning-osseointegration-prediction-radiographs.md
 category: [digital-workflow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/oh-2023-deep-learning-osseointegration-prediction-radiographs.pdf
 pdf_filename: oh-2023-deep-learning-osseointegration-prediction-radiographs.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12929-025-01131-z
 source: iqbal-2025-chatgpt-healthcare-umbrella-review.md
 category: [digital-workflow]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/iqbal-2025-chatgpt-healthcare-umbrella-review.pdf
 pdf_filename: iqbal-2025-chatgpt-healthcare-umbrella-review.pdf
 source_collection: external

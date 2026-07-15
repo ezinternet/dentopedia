@@ -6,7 +6,7 @@ date: 2025-01-05
 doi: 10.1002/hsr2.70312
 source: faiyazuddin-2025-ai-healthcare-comprehensive-review.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/faiyazuddin-2025-ai-healthcare-comprehensive-review.pdf
 pdf_filename: faiyazuddin-2025-ai-healthcare-comprehensive-review.pdf
 source_collection: external

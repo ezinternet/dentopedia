@@ -6,7 +6,7 @@ date: 2023-10-24
 doi: 10.3390/diagnostics13213291
 source: alkadi-2023-intraoral-scanner-accuracy-factors.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alkadi-2023-intraoral-scanner-accuracy-factors.pdf
 pdf_filename: alkadi-2023-intraoral-scanner-accuracy-factors.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.1016/j.jdent.2025.105648
 source: lee-2025-ai-dentistry-emerging-applications-narrative.md
 category: [digital-workflow]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-ai-dentistry-emerging-applications-narrative.pdf
 pdf_filename: lee-2025-ai-dentistry-emerging-applications-narrative.pdf
 source_collection: external

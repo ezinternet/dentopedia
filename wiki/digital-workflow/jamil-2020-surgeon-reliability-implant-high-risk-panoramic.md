@@ -6,7 +6,7 @@ date: 2020-04-06
 doi: 10.1186/s12903-020-01093-8
 source: jamil-2020-surgeon-reliability-implant-high-risk-panoramic.md
 category: digital-workflow
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jamil-2020-surgeon-reliability-implant-high-risk-panoramic.pdf
 pdf_filename: jamil-2020-surgeon-reliability-implant-high-risk-panoramic.pdf
 source_collection: external
