@@ -6,7 +6,7 @@ date: 2024-06-28
 doi: 10.3390/bioengineering11070665
 source: van-orten-2024-species-specific-collagen-dbbm-arp.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-orten-2024-species-specific-collagen-dbbm-arp.pdf
 pdf_filename: van-orten-2024-species-specific-collagen-dbbm-arp.pdf
 source_collection: external

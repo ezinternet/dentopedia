@@ -6,7 +6,7 @@ date: 2026-03-22
 doi: 10.7759/cureus.105665
 source: tale-2026-simvastatin-guided-bone-regeneration-sr.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/tale-2026-simvastatin-guided-bone-regeneration-sr.txt
 text_filename: tale-2026-simvastatin-guided-bone-regeneration-sr.txt
 source_collection: pubmed-text

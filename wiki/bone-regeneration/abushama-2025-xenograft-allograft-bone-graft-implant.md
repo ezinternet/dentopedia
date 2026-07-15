@@ -6,7 +6,7 @@ date: 2025-07-22
 doi: 10.12688/f1000research.163924.1
 source: abushama-2025-xenograft-allograft-bone-graft-implant.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40951319"

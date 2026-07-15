@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.1186/s40824-015-0038-y
 source: park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit.pdf
 pdf_filename: park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit.pdf
 source_collection: external

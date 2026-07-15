@@ -6,7 +6,7 @@ date: 2006-01-01
 doi: ""
 source: enislidis-2006-staged-ridge-splitting-implant-mandible.md
 category: [bone-regeneration]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "16796289"

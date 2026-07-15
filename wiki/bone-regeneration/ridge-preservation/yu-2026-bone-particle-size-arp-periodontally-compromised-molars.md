@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1016/j.identj.2026.109515
 source: yu-2026-bone-particle-size-arp-periodontally-compromised-molars.md
 category: bone-regeneration/ridge-preservation
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41865493"

@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.11607/jomi.5461
 source: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.pdf
 pdf_filename: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma.pdf
 source_collection: external

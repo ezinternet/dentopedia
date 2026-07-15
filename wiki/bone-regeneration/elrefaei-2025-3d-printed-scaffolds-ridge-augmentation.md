@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.3390/medicina61071269"
 source: elrefaei-2025-3d-printed-scaffolds-ridge-augmentation.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40731898"

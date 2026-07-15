@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s00784-026-06959-9
 source: son-2026-plga-membrane-horizontal-ridge-gbr-prospective.md
 category: bone-regeneration
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42240865"

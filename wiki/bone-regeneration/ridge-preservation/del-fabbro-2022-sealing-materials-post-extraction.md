@@ -6,7 +6,7 @@ date: 2022-02-03
 doi: 10.1007/s00784-021-04262-3
 source: del-fabbro-2022-sealing-materials-post-extraction.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2022-sealing-materials-post-extraction.pdf
 pdf_filename: del-fabbro-2022-sealing-materials-post-extraction.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-01-14
 doi: 10.3390/biology11010142
 source: ionescu-2022-open-healing-flapless-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/ionescu-2022-open-healing-flapless-ridge-preservation.pdf
 pdf_filename: ionescu-2022-open-healing-flapless-ridge-preservation.pdf
 source_collection: external

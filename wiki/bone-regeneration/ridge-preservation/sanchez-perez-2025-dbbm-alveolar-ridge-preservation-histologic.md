@@ -6,7 +6,7 @@ date: 2025-05-31
 doi: 10.3390/biomedicines13061358
 source: sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic.pdf
 pdf_filename: sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic.pdf
 source_collection: external

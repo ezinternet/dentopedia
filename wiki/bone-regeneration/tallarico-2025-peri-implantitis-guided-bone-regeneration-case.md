@@ -6,7 +6,7 @@ date: 2025-07-22
 doi: 10.3390/reports8030118
 journal: Reports 8(3):118
 source: tallarico-2025-peri-implantitis-guided-bone-regeneration-case.md
-confidence: case-report
+evidence_level: case-report
 category: [bone-regeneration]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tallarico-2025-peri-implantitis-guided-bone-regeneration-case.pdf
 pdf_filename: tallarico-2025-peri-implantitis-guided-bone-regeneration-case.pdf

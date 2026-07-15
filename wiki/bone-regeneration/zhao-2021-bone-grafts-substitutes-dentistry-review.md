@@ -6,7 +6,7 @@ date: 2021-05-11
 doi: "10.3390/molecules26103007"
 source: zhao-2021-bone-grafts-substitutes-dentistry-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/zhao-2021-bone-grafts-substitutes-dentistry-review.txt
 text_filename: zhao-2021-bone-grafts-substitutes-dentistry-review.txt

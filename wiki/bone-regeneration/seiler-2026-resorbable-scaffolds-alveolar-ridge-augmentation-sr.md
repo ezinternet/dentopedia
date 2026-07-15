@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: 10.1186/s40729-026-00679-1
 source: seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr.md
 category: bone-regeneration
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42223759"

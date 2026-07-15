@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.3390/jfb17020077"
 source: nakajima-2026-tooth-root-graft-alveolar-preservation.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "41745539"

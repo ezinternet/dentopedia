@@ -6,7 +6,7 @@ date: 2014-05-27
 doi: 10.1155/2014/367265
 source: chakar-2014-dbbm-bcp-platelet-lysate-rabbit.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/chakar-2014-dbbm-bcp-platelet-lysate-rabbit.pdf
 pdf_filename: chakar-2014-dbbm-bcp-platelet-lysate-rabbit.pdf
 source_collection: external

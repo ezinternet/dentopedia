@@ -6,7 +6,7 @@ date: 2024-12-05
 doi: 10.4103/jpbs.jpbs_1036_24
 source: razi-2024-prf-fdba-peri-implant-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "39927017"
 pmcid: "PMC11805315"

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.3390/jcm14103351"
 source: ahamed-2025-peri-implant-gaps-management-sr.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/ahamed-2025-peri-implant-gaps-management-sr.txt
 text_filename: ahamed-2025-peri-implant-gaps-management-sr.txt
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: "10.3390/ma13051153"
 source: minetti-2020-alveolar-socket-preservation-autologous-graft.md
 category: [bone-regeneration]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/minetti-2020-alveolar-socket-preservation-autologous-graft.txt
 text_filename: minetti-2020-alveolar-socket-preservation-autologous-graft.txt
 source_collection: pubmed-text

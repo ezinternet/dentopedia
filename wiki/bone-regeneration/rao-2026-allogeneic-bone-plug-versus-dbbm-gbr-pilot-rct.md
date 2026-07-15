@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s00784-026-06914-8
 source: rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct.md
 category: bone-regeneration
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42126621"

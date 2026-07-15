@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: 10.3390/jfb16120466
 source: kim-2025-serine-collagen-scaffold-degradation.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-serine-collagen-scaffold-degradation.pdf
 pdf_filename: kim-2025-serine-collagen-scaffold-degradation.pdf
 source_collection: external

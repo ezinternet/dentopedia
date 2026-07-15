@@ -6,7 +6,7 @@ date: 2023-08-14
 doi: 10.3390/dj11080196
 source: ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin.md
 category: [bone-regeneration/ridge-preservation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin.pdf
 pdf_filename: ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin.pdf
 source_collection: external

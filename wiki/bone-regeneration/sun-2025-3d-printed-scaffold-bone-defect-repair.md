@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12938-025-01381-w
 source: sun-2025-3d-printed-scaffold-bone-defect-repair.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "40301861"

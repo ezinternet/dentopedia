@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.5051/jpis.2402100105
 source: jung-2025-arp-peri-implantitis-isq-preclinical.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2025-arp-peri-implantitis-isq-preclinical.pdf
 pdf_filename: jung-2025-arp-peri-implantitis-isq-preclinical.pdf
 source_collection: external

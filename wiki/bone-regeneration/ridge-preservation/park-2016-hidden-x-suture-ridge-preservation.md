@@ -6,7 +6,7 @@ date: 2016-12-01
 doi: 10.5051/jpis.2016.46.6.415
 source: park-2016-hidden-x-suture-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2016-hidden-x-suture-ridge-preservation.pdf
 pdf_filename: park-2016-hidden-x-suture-ridge-preservation.pdf
 source_collection: external

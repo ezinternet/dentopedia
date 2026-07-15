@@ -6,7 +6,7 @@ date: 1992-01-01
 doi: ""
 source: simion-1992-jawbone-enlargement-split-crest-gtr.md
 category: [bone-regeneration]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "1298734"

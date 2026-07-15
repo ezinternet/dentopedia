@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1111/clr.70072"
 source: raabe-2025-defect-morphology-membrane-fixation-graft.md
 category: [bone-regeneration]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41194314"

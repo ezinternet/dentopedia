@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.3390/ijerph19063690"
 source: janjua-2022-autogenous-tooth-bone-grafts-narrative.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/janjua-2022-autogenous-tooth-bone-grafts-narrative.txt

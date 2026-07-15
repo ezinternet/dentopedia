@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.3390/jfb17040176
 source: bubalo-2026-bone-substitutes-alveolar-ridge-augmentation.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bubalo-2026-bone-substitutes-alveolar-ridge-augmentation.pdf
 pdf_filename: bubalo-2026-bone-substitutes-alveolar-ridge-augmentation.pdf
 source_collection: external

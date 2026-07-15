@@ -6,7 +6,7 @@ date: 2009-06-01
 doi: 10.1111/j.1600-0501.2008.01703.x
 source: araujo-2009-ridge-alterations-flap-vs-flapless.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2009-ridge-alterations-flap-vs-flapless.pdf
 pdf_filename: araujo-2009-ridge-alterations-flap-vs-flapless.pdf
 source_collection: external

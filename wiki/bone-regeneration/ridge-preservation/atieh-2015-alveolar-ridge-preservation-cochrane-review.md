@@ -6,7 +6,7 @@ date: 2015-05-01
 doi: 10.1002/14651858.CD010176.pub2
 source: atieh-2015-alveolar-ridge-preservation-cochrane-review.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2015-alveolar-ridge-preservation-cochrane-review.pdf
 pdf_filename: atieh-2015-alveolar-ridge-preservation-cochrane-review.pdf
 source_collection: external

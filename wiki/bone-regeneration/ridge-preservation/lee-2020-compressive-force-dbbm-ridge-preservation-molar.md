@@ -6,7 +6,7 @@ date: 2020-06-01
 doi: 10.5051/jpis.2020.50.3.197
 source: lee-2020-compressive-force-dbbm-ridge-preservation-molar.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2020-compressive-force-dbbm-ridge-preservation-molar.pdf
 pdf_filename: lee-2020-compressive-force-dbbm-ridge-preservation-molar.pdf
 source_collection: external

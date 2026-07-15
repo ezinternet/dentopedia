@@ -6,7 +6,7 @@ date: 2019-01-09
 doi: 10.1111/jcpe.13057
 source: avila-ortiz-2019-alveolar-ridge-preservation-interventions.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 pdf_filename: avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 source_collection: external

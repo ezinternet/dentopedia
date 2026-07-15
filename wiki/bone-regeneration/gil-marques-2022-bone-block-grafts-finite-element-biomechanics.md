@@ -6,7 +6,7 @@ date: 2022-12-17
 doi: 10.3390/ma15249039
 source: gil-marques-2022-bone-block-grafts-finite-element-biomechanics.md
 category: [bone-regeneration]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/gil-marques-2022-bone-block-grafts-finite-element-biomechanics.pdf
 pdf_filename: gil-marques-2022-bone-block-grafts-finite-element-biomechanics.pdf
 source_collection: external

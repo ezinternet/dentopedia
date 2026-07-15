@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.3390/jfb16090321
 source: inchingolo-2025-bovine-xenograft-longterm-histological-clinical.md
 category: [bone-regeneration]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41003392"

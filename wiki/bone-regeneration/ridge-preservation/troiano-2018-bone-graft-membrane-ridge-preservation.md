@@ -6,7 +6,7 @@ date: 2018-01-13
 doi: 10.1902/jop.2017.170241
 source: troiano-2018-bone-graft-membrane-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/troiano-2018-bone-graft-membrane-ridge-preservation.pdf
 pdf_filename: troiano-2018-bone-graft-membrane-ridge-preservation.pdf
 source_collection: external

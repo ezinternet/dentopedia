@@ -6,7 +6,7 @@ date: 2024-05-05
 doi: 10.1007/s12663-024-02187-4
 source: nainoor-2024-enha-dfdba-prf-socket-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "41648709"
 pmcid: "PMC12868432"

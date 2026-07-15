@@ -6,7 +6,7 @@ date: 2026-05-04
 doi: 10.1016/j.bioactmat.2026.05.008
 source: liu-2026-barrier-membranes-gbr-design-applications.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2026-barrier-membranes-gbr-design-applications.pdf
 pdf_filename: liu-2026-barrier-membranes-gbr-design-applications.pdf
 source_collection: external

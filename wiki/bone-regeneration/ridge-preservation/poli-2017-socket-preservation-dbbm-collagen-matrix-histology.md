@@ -6,7 +6,7 @@ date: 2017-08-01
 doi: 10.5051/jpis.2017.47.4.194
 source: poli-2017-socket-preservation-dbbm-collagen-matrix-histology.md
 category: [bone-regeneration/ridge-preservation]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/poli-2017-socket-preservation-dbbm-collagen-matrix-histology.pdf
 pdf_filename: poli-2017-socket-preservation-dbbm-collagen-matrix-histology.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-12-01
 doi: 10.1186/s40729-021-00305-2
 source: lee-2021-alveolar-ridge-preservation-periodontally-compromised.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-alveolar-ridge-preservation-periodontally-compromised.pdf
 pdf_filename: lee-2021-alveolar-ridge-preservation-periodontally-compromised.pdf
 source_collection: external

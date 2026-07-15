@@ -6,7 +6,7 @@ date: 2026-05-05
 doi: 10.3390/medicina62050888
 source: hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42195141"

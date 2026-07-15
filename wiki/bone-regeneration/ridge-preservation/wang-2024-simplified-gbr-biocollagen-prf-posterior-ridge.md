@@ -8,7 +8,7 @@ pmid: "38943036"
 pmcid: "PMC11286611"
 source: wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge.md
 category: [bone-regeneration/ridge-preservation]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge.txt

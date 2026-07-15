@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.13742
 pmid: "36330669"
 source: park-2022-prf-gbr-damaged-socket-yonsei.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: false
 tags: [prf, sticky-bone, gbr, ridge-preservation, dpbm, beagle-dog, socket-healing]

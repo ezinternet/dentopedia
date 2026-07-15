@@ -7,7 +7,7 @@ doi: 10.1016/j.oooo.2024.07.003
 pmid: "39317600"
 source: alavi-2024-regenerative-grafts-socket-preservation-sr-ma.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 tags: [socket-preservation, ridge-preservation, L-PRF, rhBMP-2, blood-derived-growth-factors, biologics, bone-resorption, RCT, meta-analysis]

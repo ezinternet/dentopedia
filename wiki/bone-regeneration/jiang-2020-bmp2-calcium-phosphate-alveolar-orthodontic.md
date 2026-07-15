@@ -6,7 +6,7 @@ date: 2020-05-29
 doi: 10.3389/fbioe.2020.00517
 source: jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic.pdf
 pdf_filename: jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic.pdf
 source_collection: external

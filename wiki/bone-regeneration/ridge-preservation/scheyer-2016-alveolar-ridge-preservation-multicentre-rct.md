@@ -6,7 +6,7 @@ date: 2016-08-29
 doi: 10.1111/jcpe.12623
 source: scheyer-2016-alveolar-ridge-preservation-multicentre-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/scheyer-2016-alveolar-ridge-preservation-multicentre-rct.pdf
 pdf_filename: scheyer-2016-alveolar-ridge-preservation-multicentre-rct.pdf
 source_collection: external

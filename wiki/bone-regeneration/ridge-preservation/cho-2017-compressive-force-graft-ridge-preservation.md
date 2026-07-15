@@ -6,7 +6,7 @@ date: 2017-02-01
 doi: 10.5051/jpis.2017.47.1.51
 source: cho-2017-compressive-force-graft-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/cho-2017-compressive-force-graft-ridge-preservation.pdf
 pdf_filename: cho-2017-compressive-force-graft-ridge-preservation.pdf
 source_collection: external

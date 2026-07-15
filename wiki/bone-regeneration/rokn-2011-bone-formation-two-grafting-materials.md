@@ -6,7 +6,7 @@ date: 2011-01-01
 doi: "10.2174/1874210601105010096"
 source: rokn-2011-bone-formation-two-grafting-materials.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 text_path: /Users/oracleneo/llm-wiki/papers/rokn-2011-bone-formation-two-grafting-materials.txt
 text_filename: rokn-2011-bone-formation-two-grafting-materials.txt
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.3390/jcm14061838
 source: depace-2025-bone-regeneration-treatment-strategies-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/depace-2025-bone-regeneration-treatment-strategies-review.txt
 text_filename: depace-2025-bone-regeneration-treatment-strategies-review.txt

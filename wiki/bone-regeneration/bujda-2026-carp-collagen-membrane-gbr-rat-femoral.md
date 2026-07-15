@@ -6,7 +6,7 @@ date: 2026-05-09
 doi: 10.1016/j.bbiosy.2026.100139
 source: bujda-2026-carp-collagen-membrane-gbr-rat-femoral.md
 category: [bone-regeneration]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "42181027"

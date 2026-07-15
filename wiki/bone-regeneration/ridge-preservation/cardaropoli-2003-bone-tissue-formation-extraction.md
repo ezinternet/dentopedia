@@ -6,7 +6,7 @@ date: 2003-09-03
 doi: 10.1034/j.1600-051X.2003.00366.x
 source: cardaropoli-2003-bone-tissue-formation-extraction.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/cardaropoli-2003-bone-tissue-formation-extraction.pdf
 pdf_filename: cardaropoli-2003-bone-tissue-formation-extraction.pdf
 source_collection: external

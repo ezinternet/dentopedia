@@ -6,7 +6,7 @@ date: 2026-06-30
 doi: 10.5125/jkaoms.2026.52.3.112
 source: cho-2026-prf-bone-regeneration-mechanisms-scoping-review.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "42377075"
 pmcid: "PMC13329080"

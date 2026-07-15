@@ -6,7 +6,7 @@ date: 2007-01-01
 doi: 10.1902/jop.2007.060125
 source: park-2007-incision-location-guided-bone-regeneration-human.md
 category: [bone-regeneration]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2007-incision-location-guided-bone-regeneration-human.pdf
 pdf_filename: park-2007-incision-location-guided-bone-regeneration-human.pdf
 source_collection: external

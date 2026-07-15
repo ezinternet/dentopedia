@@ -6,7 +6,7 @@ date: 2024-12-30
 doi: 10.3390/ma18010119
 source: rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr.md
 category: bone-regeneration
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr.pdf
 pdf_filename: rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr.pdf
 source_collection: external

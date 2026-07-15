@@ -6,7 +6,7 @@ date: 2025-07-18
 doi: 10.1111/jcpe.70004
 source: arroteia-2025-alveolar-ridge-preservation-posterior-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/arroteia-2025-alveolar-ridge-preservation-posterior-rct.pdf
 pdf_filename: arroteia-2025-alveolar-ridge-preservation-posterior-rct.pdf
 source_collection: external

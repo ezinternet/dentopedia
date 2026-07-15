@@ -6,7 +6,7 @@ date: 2024-04-03
 doi: 10.1016/j.jdent.2024.104986
 source: fok-2024-alveolar-socket-healing-evolving-knowledge.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fok-2024-alveolar-socket-healing-evolving-knowledge.pdf
 pdf_filename: fok-2024-alveolar-socket-healing-evolving-knowledge.pdf
 source_collection: external

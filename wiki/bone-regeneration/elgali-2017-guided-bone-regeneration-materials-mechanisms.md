@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: "10.1111/eos.12364"
 source: elgali-2017-guided-bone-regeneration-materials-mechanisms.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "28833567"

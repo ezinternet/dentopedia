@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/prd.12609
 source: siawasch-2025-autologous-platelet-concentrates-alveolar-ridge.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge.pdf
 pdf_filename: siawasch-2025-autologous-platelet-concentrates-alveolar-ridge.pdf
 source_collection: external

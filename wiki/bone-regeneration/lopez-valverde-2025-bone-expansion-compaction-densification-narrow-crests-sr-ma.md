@@ -6,7 +6,7 @@ date: 2025-06-25
 doi: 10.3389/fbioe.2025.1630495
 source: lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40635692"

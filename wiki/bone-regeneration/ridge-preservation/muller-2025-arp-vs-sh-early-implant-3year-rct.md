@@ -6,7 +6,7 @@ date: 2025-06-04
 doi: 10.5051/jpis.2404280214
 source: muller-2025-arp-vs-sh-early-implant-3year-rct.md
 category: bone-regeneration/ridge-preservation
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/muller-2025-arp-vs-sh-early-implant-3year-rct.pdf
 pdf_filename: muller-2025-arp-vs-sh-early-implant-3year-rct.pdf
 source_collection: external

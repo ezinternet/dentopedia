@@ -6,7 +6,7 @@ date: 2022-07-22
 doi: 10.4103/njms.njms_423_21
 source: manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "38273919"

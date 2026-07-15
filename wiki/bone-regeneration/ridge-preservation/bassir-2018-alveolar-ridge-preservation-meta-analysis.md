@@ -6,7 +6,7 @@ date: 2018-10-04
 doi: 10.11607/jomi.6399
 source: bassir-2018-alveolar-ridge-preservation-meta-analysis.md
 category: [bone-regeneration/ridge-preservation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassir-2018-alveolar-ridge-preservation-meta-analysis.pdf
 pdf_filename: bassir-2018-alveolar-ridge-preservation-meta-analysis.pdf
 source_collection: external

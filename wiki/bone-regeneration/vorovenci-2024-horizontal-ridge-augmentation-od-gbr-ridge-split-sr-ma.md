@@ -6,7 +6,7 @@ date: 2024-07-31
 doi: 10.3892/br.2024.1827
 source: vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "39161939"

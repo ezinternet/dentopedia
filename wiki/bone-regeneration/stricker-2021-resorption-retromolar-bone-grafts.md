@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: "10.1186/s40729-020-00285-9"
 source: stricker-2021-resorption-retromolar-bone-grafts.md
 category: [bone-regeneration]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "33474648"

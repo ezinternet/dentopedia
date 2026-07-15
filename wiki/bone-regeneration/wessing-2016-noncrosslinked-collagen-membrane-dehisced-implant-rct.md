@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.1111/clr.12995
 source: wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct.md
 category: [bone-regeneration]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct.pdf
 pdf_filename: wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct.pdf
 source_collection: external

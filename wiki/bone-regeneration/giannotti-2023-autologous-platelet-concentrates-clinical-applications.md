@@ -6,7 +6,7 @@ date: 2023-08-23
 doi: 10.3390/genes14091669
 source: giannotti-2023-autologous-platelet-concentrates-clinical-applications.md
 category: [bone-regeneration]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 pmid: "37761809"
 pmcid: "PMC10530962"

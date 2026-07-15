@@ -6,7 +6,7 @@ date: 2009-09-09
 doi: null
 source: akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma.md
 category: bone-regeneration
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma.pdf
 pdf_filename: akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma.pdf
 source_collection: external

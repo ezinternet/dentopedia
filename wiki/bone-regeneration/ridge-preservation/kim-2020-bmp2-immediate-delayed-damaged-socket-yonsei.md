@@ -7,7 +7,7 @@ doi: 10.1007/s00784-020-03362-w
 pmid: "32451759"
 source: kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.md
 category: [bone-regeneration/ridge-preservation]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: false
 tags: [bmp-2, ridge-preservation, biologics, timing, damaged-socket, cbcp, beagle]

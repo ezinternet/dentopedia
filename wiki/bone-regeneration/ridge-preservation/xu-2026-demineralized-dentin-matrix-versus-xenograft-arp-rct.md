@@ -6,7 +6,7 @@ date: 2026-05-22
 doi: 10.1186/s40729-026-00682-6
 source: xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct.md
 category: [bone-regeneration/ridge-preservation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42174333"

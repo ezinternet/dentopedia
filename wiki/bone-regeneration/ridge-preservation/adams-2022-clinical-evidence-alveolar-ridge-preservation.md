@@ -6,7 +6,7 @@ date: 2022-09-23
 doi: 10.1038/s41415-022-4967-2
 source: adams-2022-clinical-evidence-alveolar-ridge-preservation.md
 category: [bone-regeneration/ridge-preservation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/adams-2022-clinical-evidence-alveolar-ridge-preservation.pdf
 pdf_filename: adams-2022-clinical-evidence-alveolar-ridge-preservation.pdf
 source_collection: external
