@@ -21,7 +21,7 @@ except ImportError:
     yaml = None  # YAML parse check skipped if PyYAML not installed
 
 WIKI_DIR = "wiki"
-SKIP_DIRS = {"_lint", "overviews", "evidence-appraisal"}
+SKIP_DIRS = {"_lint", "_meta", "overviews", "evidence-appraisal"}
 SKIP_FILES = {"index.md", "category-map.md"}  # Quartz homepage / nav-map, not paper pages
 
 REQUIRED_FIELDS = [
@@ -31,8 +31,10 @@ REQUIRED_FIELDS = [
     "doi",
     "source",
     "category",
-    "confidence",
 ]
+# 근거등급 필드: evidence_level(2026-07-15 rename) 또는 legacy confidence — 둘 중 하나 필수.
+# 둘 다 있으면 evidence_level 우선. 기존 페이지의 confidence:는 grandfather (INGEST.md 참조).
+EVIDENCE_LEVEL_KEYS = ("evidence_level", "confidence")
 # 아티팩트 필드: PDF 논문 vs PubMed-text 논문(PMC 전문을 .txt로 저장)
 PDF_FIELDS = ["pdf_path", "pdf_filename"]
 TEXT_FIELDS = ["text_path", "text_filename"]
@@ -118,8 +120,8 @@ def lint_file(path: str) -> list[str]:
             first_line = str(e).splitlines()[0]
             errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
 
-    # 논문 유형 판정
-    conf = fields.get("confidence", "").strip('"').strip("'")
+    # 논문 유형 판정 (evidence_level 우선, legacy confidence fallback)
+    conf = (fields.get("evidence_level") or fields.get("confidence", "")).strip('"').strip("'")
     is_synthesis = conf == "synthesis"
     src_coll = fields.get("source_collection", "").strip('"').strip("'")
     is_pubmed_text = src_coll == "pubmed-text"
@@ -134,12 +136,14 @@ def lint_file(path: str) -> list[str]:
 
     # Check required fields exist
     missing = [f for f in required if f not in fields]
+    if not any(k in fields for k in EVIDENCE_LEVEL_KEYS):
+        missing.append("evidence_level")
     if missing:
         errors.append(f"MISSING {missing}: {path}")
 
-    # Check confidence value is valid
+    # Check evidence_level/confidence value is valid
     if conf and conf not in VALID_CONFIDENCE:
-        errors.append(f"INVALID confidence '{conf}': {path}")
+        errors.append(f"INVALID evidence_level '{conf}': {path}")
 
     # 아티팩트 path/filename 쌍 검증 (synthesis 면제)
     if not is_synthesis:
