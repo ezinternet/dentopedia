@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.1007/s00784-021-03931-z
 source: bourouni-2021-resin-infiltration-white-spot-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bourouni-2021-resin-infiltration-white-spot-sr-ma.pdf
 pdf_filename: bourouni-2021-resin-infiltration-white-spot-sr-ma.pdf
 source_collection: external

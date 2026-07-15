@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1155/2022/8635254
 source: rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36263239"

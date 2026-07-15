@@ -6,7 +6,7 @@ date: 2025-11-04
 doi: 10.1007/s40368-025-01128-0
 source: mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "41186901"

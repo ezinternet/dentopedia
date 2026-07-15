@@ -6,7 +6,7 @@ date: 2021-07-19
 doi: 10.1002/14651858.CD013039.pub2
 source: schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma.md
 category: caries
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "34280957"

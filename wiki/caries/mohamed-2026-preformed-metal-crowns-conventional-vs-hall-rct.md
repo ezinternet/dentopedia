@@ -6,7 +6,7 @@ date: 2026-04-09
 doi: 10.1016/j.jdent.2026.106686
 source: mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct.pdf
 pdf_filename: mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct.pdf
 source_collection: external

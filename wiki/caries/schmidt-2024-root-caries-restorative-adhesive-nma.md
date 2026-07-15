@@ -6,7 +6,7 @@ date: 2024-03-01
 doi: 10.1016/j.jdent.2023.104776
 source: schmidt-2024-root-caries-restorative-adhesive-nma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/schmidt-2024-root-caries-restorative-adhesive-nma.pdf
 pdf_filename: schmidt-2024-root-caries-restorative-adhesive-nma.pdf
 source_collection: external

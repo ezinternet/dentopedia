@@ -6,7 +6,7 @@ date: 2026-04-15
 doi: 10.1016/j.jdent.2026.106703
 source: garcia-miralles-2026-sdf-cavitated-primary-molars-sr.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/garcia-miralles-2026-sdf-cavitated-primary-molars-sr.pdf
 pdf_filename: garcia-miralles-2026-sdf-cavitated-primary-molars-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-02-27
 doi: 10.4103/jisppd.jisppd_462_25
 source: chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma.pdf
 pdf_filename: chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma.pdf
 source_collection: external

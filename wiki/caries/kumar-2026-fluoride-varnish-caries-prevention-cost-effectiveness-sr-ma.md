@@ -6,7 +6,7 @@ date: 2026-02-06
 doi: 10.1016/j.jdent.2026.106562
 source: kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41655831"

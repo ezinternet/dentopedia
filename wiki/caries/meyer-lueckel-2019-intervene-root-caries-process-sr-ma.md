@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.1159/000501588
 source: meyer-lueckel-2019-intervene-root-caries-process-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/meyer-lueckel-2019-intervene-root-caries-process-sr-ma.pdf
 pdf_filename: meyer-lueckel-2019-intervene-root-caries-process-sr-ma.pdf
 source_collection: external

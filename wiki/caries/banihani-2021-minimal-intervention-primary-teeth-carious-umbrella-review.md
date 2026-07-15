@@ -6,7 +6,7 @@ date: 2021-11-16
 doi: 10.1007/s40368-021-00675-6
 source: banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review.md
 category: caries
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "34784027"

@@ -6,7 +6,7 @@ date: 2026-01-30
 doi: 10.1186/s12903-026-07759-z
 source: chen-2026-zirconia-strip-crowns-primary-anterior-teeth-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41612344"

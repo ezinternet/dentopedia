@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: "10.1177/0022034517702094"
 source: chestnutt-2017-fissure-seal-fluoride-varnish-trial.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/chestnutt-2017-fissure-seal-fluoride-varnish-trial.pdf
 pdf_filename: chestnutt-2017-fissure-seal-fluoride-varnish-trial.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2017-07-31
 doi: "10.1002/14651858.CD001830.pub5"
 source: ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth.pdf
 pdf_filename: ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth.pdf
 source_collection: external

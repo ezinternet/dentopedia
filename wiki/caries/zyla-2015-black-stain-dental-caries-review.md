@@ -8,7 +8,7 @@ pmid: "25802850"
 pmcid: "PMC4354720"
 source: zyla-2015-black-stain-dental-caries-review.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/zyla-2015-black-stain-dental-caries-review.txt
 text_filename: zyla-2015-black-stain-dental-caries-review.txt

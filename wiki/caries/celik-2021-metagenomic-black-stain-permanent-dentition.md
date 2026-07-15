@@ -7,7 +7,7 @@ doi: 10.1016/j.archoralbio.2021.105171
 pmid: "34058724"
 source: celik-2021-metagenomic-black-stain-permanent-dentition.md
 category: [caries]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: external
 full_text: false
 pdf_path: /Users/oracleneo/llm-wiki/papers/celik-2021-metagenomic-black-stain-permanent-dentition.txt

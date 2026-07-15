@@ -6,7 +6,7 @@ date: 2018-11-23
 doi: 10.3290/j.ohpd.a41404
 source: ancira-gonzalez-2018-white-spot-remineralisation-primary-sr.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ancira-gonzalez-2018-white-spot-remineralisation-primary-sr.pdf
 pdf_filename: ancira-gonzalez-2018-white-spot-remineralisation-primary-sr.pdf
 source_collection: external

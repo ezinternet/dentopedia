@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1186/s12903-023-03076-x
 source: xie-2023-white-spot-lesion-therapies-sr-nma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/xie-2023-white-spot-lesion-therapies-sr-nma.pdf
 pdf_filename: xie-2023-white-spot-lesion-therapies-sr-nma.pdf
 source_collection: external

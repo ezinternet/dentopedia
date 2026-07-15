@@ -6,7 +6,7 @@ date: 2021-06-15
 doi: 10.1159/000516084
 source: foros-2021-early-caries-detection-methods-sr-ma.md
 category: [caries]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/foros-2021-early-caries-detection-methods-sr-ma.pdf
 pdf_filename: foros-2021-early-caries-detection-methods-sr-ma.pdf
 source_collection: external

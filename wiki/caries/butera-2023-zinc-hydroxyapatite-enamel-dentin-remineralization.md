@@ -6,7 +6,7 @@ date: 2023-02-08
 doi: 10.3390/biomimetics8010071
 source: butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization.md
 category: [caries]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36810402"

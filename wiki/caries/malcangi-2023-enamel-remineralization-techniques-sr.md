@@ -6,7 +6,7 @@ date: 2023-04-12
 doi: 10.3390/bioengineering10040472
 source: malcangi-2023-enamel-remineralization-techniques-sr.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/malcangi-2023-enamel-remineralization-techniques-sr.pdf
 pdf_filename: malcangi-2023-enamel-remineralization-techniques-sr.pdf
 source_collection: external

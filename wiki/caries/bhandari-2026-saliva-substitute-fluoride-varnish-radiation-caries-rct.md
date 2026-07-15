@@ -6,7 +6,7 @@ date: 2026-06-19
 doi: 10.1007/s00520-026-10909-2
 source: bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "42319482"

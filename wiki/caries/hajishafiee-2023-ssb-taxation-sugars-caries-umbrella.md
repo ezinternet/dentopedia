@@ -6,7 +6,7 @@ date: 2023-05-25
 doi: "10.1186/s12889-023-15884-5"
 source: hajishafiee-2023-ssb-taxation-sugars-caries-umbrella.md
 category: [caries]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "37237341"

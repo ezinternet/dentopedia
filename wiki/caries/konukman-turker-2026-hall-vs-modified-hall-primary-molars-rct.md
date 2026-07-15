@@ -6,7 +6,7 @@ date: 2026-01-12
 doi: 10.1186/s12903-026-07667-2
 source: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct.md
 category: [caries]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41526924"
