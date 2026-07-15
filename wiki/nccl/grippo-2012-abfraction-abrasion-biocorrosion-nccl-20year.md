@@ -6,7 +6,7 @@ date: 2012-01-01
 doi: "10.1111/j.1708-8240.2011.00487.x"
 source: grippo-2012-abfraction-abrasion-biocorrosion-nccl-20year.md
 category: nccl
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/grippo-2012-abfraction-abrasion-biocorrosion-nccl-20year.pdf
 pdf_filename: grippo-2012-abfraction-abrasion-biocorrosion-nccl-20year.pdf
 source_collection: external

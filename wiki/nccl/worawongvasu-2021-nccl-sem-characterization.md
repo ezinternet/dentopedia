@@ -6,7 +6,7 @@ date: 2021-05-14
 doi: "10.4103/jomfp.JOMFP_232_20"
 source: worawongvasu-2021-nccl-sem-characterization.md
 category: nccl
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/worawongvasu-2021-nccl-sem-characterization.pdf
 pdf_filename: worawongvasu-2021-nccl-sem-characterization.pdf
 source_collection: external

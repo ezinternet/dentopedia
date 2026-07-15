@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.1111/jopr.13585"
 source: goodacre-2022-nccl-morphology-etiology-restoration-guidelines.md
 category: nccl
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/goodacre-2022-nccl-morphology-etiology-restoration-guidelines.pdf
 pdf_filename: goodacre-2022-nccl-morphology-etiology-restoration-guidelines.pdf
 source_collection: external

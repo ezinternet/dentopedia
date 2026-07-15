@@ -6,7 +6,7 @@ date: 2024-05-17
 doi: "10.1007/s40496-024-00378-z"
 source: dioguardi-2024-abfraction-theory-controversy-scoping-review.md
 category: nccl
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/dioguardi-2024-abfraction-theory-controversy-scoping-review.pdf
 pdf_filename: dioguardi-2024-abfraction-theory-controversy-scoping-review.pdf
 source_collection: external

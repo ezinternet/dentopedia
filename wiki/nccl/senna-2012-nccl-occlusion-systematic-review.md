@@ -6,7 +6,7 @@ date: 2012-03-21
 doi: "10.1111/j.1365-2842.2012.02290.x"
 source: senna-2012-nccl-occlusion-systematic-review.md
 category: nccl
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/senna-2012-nccl-occlusion-systematic-review.pdf
 pdf_filename: senna-2012-nccl-occlusion-systematic-review.pdf
 source_collection: external

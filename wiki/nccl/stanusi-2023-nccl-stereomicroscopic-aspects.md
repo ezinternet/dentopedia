@@ -6,7 +6,7 @@ date: 2023-08-03
 doi: "10.3390/diagnostics13152590"
 source: stanusi-2023-nccl-stereomicroscopic-aspects.md
 category: nccl
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/stanusi-2023-nccl-stereomicroscopic-aspects.pdf
 pdf_filename: stanusi-2023-nccl-stereomicroscopic-aspects.pdf
 source_collection: external

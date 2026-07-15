@@ -6,7 +6,7 @@ date: 2023-11-06
 doi: "10.1155/2023/8838314"
 source: dioguardi-2023-nccl-etiopathological-mechanisms-review.md
 category: nccl
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dioguardi-2023-nccl-etiopathological-mechanisms-review.pdf
 pdf_filename: dioguardi-2023-nccl-etiopathological-mechanisms-review.pdf
 source_collection: external
