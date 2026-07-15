@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.1016/j.prosdent.2021.11.009
 source: dekuijper-2023-clinical-performance-direct-composite-resin.md
 category: [inlay]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/dekuijper-2023-clinical-performance-direct-composite-resin.pdf
 pdf_filename: dekuijper-2023-clinical-performance-direct-composite-resin.pdf
 source_collection: external

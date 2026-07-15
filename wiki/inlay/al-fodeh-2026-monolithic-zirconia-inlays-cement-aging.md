@@ -6,7 +6,7 @@ date: 2026-02-10
 doi: 10.1016/j.jmbbm.2026.107369
 source: al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.pdf
 pdf_filename: al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1016/j.dental.2023.09.021
 source: lempel-2023-lithium-disilicate-vs-resin-composite-7year.md
 category: [inlay]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lempel-2023-lithium-disilicate-vs-resin-composite-7year.pdf
 pdf_filename: lempel-2023-lithium-disilicate-vs-resin-composite-7year.pdf
 source_collection: external

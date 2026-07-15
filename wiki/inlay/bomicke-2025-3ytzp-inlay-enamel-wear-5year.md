@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1007/s00784-024-06103-5
 source: bomicke-2025-3ytzp-inlay-enamel-wear-5year.md
 category: [inlay]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bomicke-2025-3ytzp-inlay-enamel-wear-5year.pdf
 pdf_filename: bomicke-2025-3ytzp-inlay-enamel-wear-5year.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06215-8
 source: wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea.pdf
 pdf_filename: wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.3390/ma14113102
 source: behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.md
 category: [inlay]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.pdf
 pdf_filename: behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1007/s00784-023-05050-x
 source: bresser-2023-intracoronal-restorations-longevity-sr-ma.md
 category: [inlay]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bresser-2023-intracoronal-restorations-longevity-sr-ma.pdf
 pdf_filename: bresser-2023-intracoronal-restorations-longevity-sr-ma.pdf
 source_collection: external

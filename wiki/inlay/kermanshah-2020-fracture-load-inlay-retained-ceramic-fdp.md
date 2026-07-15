@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1080/26415275.2020.1744443
 source: kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp.pdf
 pdf_filename: kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-09-01
 doi: 10.1186/s12903-024-04725-5
 source: fouda-2024-two-year-clinical-performance-indirect-resin.md
 category: [inlay]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/fouda-2024-two-year-clinical-performance-indirect-resin.pdf
 pdf_filename: fouda-2024-two-year-clinical-performance-indirect-resin.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1016/j.jmbbm.2023.106096
 source: hofsteenge-2023-preparation-design-fracture-strength-disilicate-inlay.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/hofsteenge-2023-preparation-design-fracture-strength-disilicate-inlay.pdf
 pdf_filename: hofsteenge-2023-preparation-design-fracture-strength-disilicate-inlay.pdf
 source_collection: external

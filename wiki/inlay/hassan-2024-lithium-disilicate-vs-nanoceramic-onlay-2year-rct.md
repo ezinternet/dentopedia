@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1007/s10266-023-00841-w
 source: hassan-2024-lithium-disilicate-vs-nanoceramic-onlay-2year-rct.md
 category: [inlay]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hassan-2024-lithium-disilicate-vs-nanoceramic-onlay-2year-rct.pdf
 pdf_filename: hassan-2024-lithium-disilicate-vs-nanoceramic-onlay-2year-rct.pdf
 source_collection: external

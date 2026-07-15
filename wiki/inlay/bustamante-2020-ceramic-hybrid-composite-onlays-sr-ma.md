@@ -6,7 +6,7 @@ date: 2020-10-19
 doi: 10.3390/ijerph17207582
 source: bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma.md
 category: [inlay]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma.pdf
 pdf_filename: bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma.pdf
 source_collection: external

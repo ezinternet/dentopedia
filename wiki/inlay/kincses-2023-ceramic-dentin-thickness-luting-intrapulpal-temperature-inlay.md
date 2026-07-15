@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.3390/ijms24065466
 source: kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay.pdf
 pdf_filename: kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay.pdf
 source_collection: external

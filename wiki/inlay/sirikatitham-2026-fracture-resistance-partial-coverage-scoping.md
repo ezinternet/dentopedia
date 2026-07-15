@@ -6,7 +6,7 @@ date: 2026-03-10
 doi: 10.1186/s12903-026-08053-8
 source: sirikatitham-2026-fracture-resistance-partial-coverage-scoping.md
 category: [inlay]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "41808108"

@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1186/s12903-021-01987-1
 source: abdulrahman-2021-lithium-disilicate-clinical-success-retrospective.md
 category: [inlay]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdulrahman-2021-lithium-disilicate-clinical-success-retrospective.pdf
 pdf_filename: abdulrahman-2021-lithium-disilicate-clinical-success-retrospective.pdf
 source_collection: external

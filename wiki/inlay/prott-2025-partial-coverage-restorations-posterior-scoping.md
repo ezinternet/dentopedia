@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/jerd.13387
 source: prott-2025-partial-coverage-restorations-posterior-scoping.md
 category: [inlay]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/prott-2025-partial-coverage-restorations-posterior-scoping.pdf
 pdf_filename: prott-2025-partial-coverage-restorations-posterior-scoping.pdf
 source_collection: external

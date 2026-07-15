@@ -6,7 +6,7 @@ date: 2025-12-03
 doi: 10.1111/jerd.70066
 source: spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41334980"

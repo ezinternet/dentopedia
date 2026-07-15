@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1007/s10266-020-00539-3
 source: souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.md
 category: [inlay]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.pdf
 pdf_filename: souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.pdf
 source_collection: external

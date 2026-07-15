@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1111/jerd.12666
 source: griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue.md
 category: [inlay]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue.pdf
 pdf_filename: griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue.pdf
 source_collection: external
