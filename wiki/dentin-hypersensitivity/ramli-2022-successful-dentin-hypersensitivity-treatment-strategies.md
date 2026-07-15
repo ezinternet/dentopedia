@@ -6,7 +6,7 @@ date: 2022-09-30
 doi: "10.17219/dmp/143354"
 source: ramli-2022-successful-dentin-hypersensitivity-treatment-strategies.md
 category: [dentin-hypersensitivity]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies.pdf
 pdf_filename: ramli-2022-successful-dentin-hypersensitivity-treatment-strategies.pdf
 source_collection: external

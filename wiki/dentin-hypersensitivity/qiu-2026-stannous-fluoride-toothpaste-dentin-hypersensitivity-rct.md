@@ -6,7 +6,7 @@ date: 2026-06-09
 doi: 10.1007/s00784-026-06942-4
 source: qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct.md
 category: [dentin-hypersensitivity]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42262610"

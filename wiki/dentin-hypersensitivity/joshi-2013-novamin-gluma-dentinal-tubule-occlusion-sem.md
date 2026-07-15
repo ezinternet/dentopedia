@@ -6,7 +6,7 @@ date: 2013-12-01
 doi: "10.5051/jpis.2013.43.6.269"
 source: joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem.md
 category: [dentin-hypersensitivity]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem.pdf
 pdf_filename: joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem.pdf
 source_collection: external

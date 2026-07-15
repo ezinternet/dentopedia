@@ -6,7 +6,7 @@ date: 2021-09-18
 doi: "10.1007/s00784-021-04183-1"
 source: shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.md
 category: [dentin-hypersensitivity]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.pdf
 pdf_filename: shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.pdf
 source_collection: external

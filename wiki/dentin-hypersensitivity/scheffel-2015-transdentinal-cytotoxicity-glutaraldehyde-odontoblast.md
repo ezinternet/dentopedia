@@ -6,7 +6,7 @@ date: 2015-05-04
 doi: "10.1016/j.jdent.2015.05.004"
 source: scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast.md
 category: [dentin-hypersensitivity]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast.pdf
 pdf_filename: scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast.pdf
 source_collection: external

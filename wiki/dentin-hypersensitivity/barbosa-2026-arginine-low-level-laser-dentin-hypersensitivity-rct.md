@@ -6,7 +6,7 @@ date: 2026-06-20
 doi: 10.1007/s10103-026-04927-z
 source: barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct.md
 category: [dentin-hypersensitivity]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "42322443"
 pmcid: "PMC13283190"

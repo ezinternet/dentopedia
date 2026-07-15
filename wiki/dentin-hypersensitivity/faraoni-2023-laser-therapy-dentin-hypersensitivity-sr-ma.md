@@ -6,7 +6,7 @@ date: 2023-03-31
 doi: "10.17219/dmp/151482"
 source: faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma.md
 category: [dentin-hypersensitivity]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma.pdf
 pdf_filename: faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma.pdf
 source_collection: external

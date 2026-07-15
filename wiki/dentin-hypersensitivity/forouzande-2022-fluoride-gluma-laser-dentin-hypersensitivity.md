@@ -6,7 +6,7 @@ date: 2022-05-24
 doi: "10.1007/s10103-022-03583-3"
 source: forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity.md
 category: [dentin-hypersensitivity]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity.pdf
 pdf_filename: forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity.pdf
 source_collection: external
