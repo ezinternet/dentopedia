@@ -73,6 +73,11 @@ Restoring an endodontically treated tooth is repeatedly mis-framed as "which pos
 | — | Why fiber/endocrown default | Repairable failure vs catastrophic root fracture; modulus matching (Van Landuyt; Lenz; susita FEA). Customized: zirconia ≈ cast, PEEK/PEKK debonds, FRC fails repairably (Yuen 2025) |
 
 ## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[post-and-core/fathi-2022-prosthetic-restoration-endodontically-treated-teeth-umbrella]] — Umbrella review (14 SR/MA, >10,971 samples): conventional crown 5-yr survival ~98.3% vs endocrown ~91.4%, fiber posts > metal in low-bias reviews — favor single crowns/endocrowns and fiber posts (moderate confidence)
+
 - [[post-and-core/alenezi-2024-endodontically-treated-teeth-post-placement-survival]] — post vs no-post survival
 - [[post-and-core/naumann-2017-ferrule-first-post-second-systematic-review]] — landmark: ferrule first, post second (7/8 studies no post benefit)
 - [[post-and-core/mously-2024-anterior-endocrowns-alternative-core-crown]] — endocrown as post-core-crown alternative
