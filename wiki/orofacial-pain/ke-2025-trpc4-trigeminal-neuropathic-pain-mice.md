@@ -6,7 +6,7 @@ date: 2025-04-01
 doi: 10.1111/cns.70368
 source: ke-2025-trpc4-trigeminal-neuropathic-pain-mice.md
 category: [orofacial-pain]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "40202077"

@@ -6,7 +6,7 @@ date: 2022-11-25
 doi: 10.3390/biom12121753
 source: korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36551181"

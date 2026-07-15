@@ -6,7 +6,7 @@ date: 2009-04-01
 doi: "10.1016/j.brainresrev.2008.12.015"
 source: price-2009-chloride-regulation-pain-pathway.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/price-2009-chloride-regulation-pain-pathway.pdf
 pdf_filename: price-2009-chloride-regulation-pain-pathway.pdf
 source_collection: external

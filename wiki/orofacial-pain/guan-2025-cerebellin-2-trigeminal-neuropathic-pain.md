@@ -6,7 +6,7 @@ date: 2025-07-15
 doi: 10.1186/s10194-025-02093-1
 source: guan-2025-cerebellin-2-trigeminal-neuropathic-pain.md
 category: [orofacial-pain]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/guan-2025-cerebellin-2-trigeminal-neuropathic-pain.txt
 text_filename: guan-2025-cerebellin-2-trigeminal-neuropathic-pain.txt

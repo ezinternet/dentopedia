@@ -6,7 +6,7 @@ date: 2024-10-21
 doi: 10.3390/ijms252011306
 source: kim-2024-trigeminal-sensory-system-orofacial-pain.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39457088"

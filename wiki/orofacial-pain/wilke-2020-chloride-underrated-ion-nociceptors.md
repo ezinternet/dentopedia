@@ -6,7 +6,7 @@ date: 2020-04-08
 doi: "10.3389/fnins.2020.00287"
 source: wilke-2020-chloride-underrated-ion-nociceptors.md
 category: [orofacial-pain]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/wilke-2020-chloride-underrated-ion-nociceptors.pdf
 pdf_filename: wilke-2020-chloride-underrated-ion-nociceptors.pdf
 source_collection: external

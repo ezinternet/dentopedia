@@ -6,7 +6,7 @@ date: 2005-04-01
 doi: "10.1016/j.pain.2005.01.009"
 source: pathirathna-2005-t-type-calcium-gaba-neurosteroids.md
 category: [orofacial-pain]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/pathirathna-2005-t-type-calcium-gaba-neurosteroids.pdf
 pdf_filename: pathirathna-2005-t-type-calcium-gaba-neurosteroids.pdf
 source_collection: external
