@@ -238,6 +238,11 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[dental-materials/cuzic-2025-clinicians-guide-material-selection-all-ceramics]] — Narrative review (58 articles): decision framework — silica-based ceramics (HF+silane, translucent anterior) vs oxide/zirconia (air-abrasion+MDP, high-strength posterior) — decision support, not new data
+
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — dental ceramic classification (composition × fabrication), strength hierarchy, clinical indication mapping
 - [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] — mechanical property deep-dive: transformation toughening, LTD mechanism, fatigue, surface modification
 - [[dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — CAD/CAM milling defects vs. intrinsic blank flaws as fracture origins; polishing paradox; Weibull analysis
