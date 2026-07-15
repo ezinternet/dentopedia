@@ -101,3 +101,11 @@ Saliva occupies two distinct but coupled clinical roles. As a **diagnostic mediu
 ## Related Overviews
 
 - [[autoimmune-disease-dental-treatment-overview]] — Sjögren's and other autoimmune contexts for salivary dysfunction.
+
+## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-medicine/alhejoury-2021-artificial-saliva-xerostomia-narrative-review]] — Narrative review: sialogogue/substitute catalogue (pilocarpine 5–10mg 3–4×/day, cevimeline 30mg/day, electrostimulation 3–4× flow) — practical options list, not graded evidence
+- [[oral-medicine/sardellitti-2023-xerostomia-pharmacological-traditional-medicine-overview]] — Narrative overview (2012–2021): no drug class or traditional medicine has robust xerostomia efficacy; ~30% incidence at ≥65y (61% with polypharmacy) — persistent guideline void
+
