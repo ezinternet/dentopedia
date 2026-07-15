@@ -105,6 +105,12 @@ White oral lesion observed
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-medicine/disha-2024-oral-tori-adult-albanian-population]] — Cross-sectional pilot (n=122): oral tori prevalence 48.4% (torus mandibularis 39%, palatinus 14%), peaks age 18–29, no bruxism link — wide population variability vs prior 2.1–38%
+- [[oral-medicine/ravi-2024-mandibular-bony-exostoses-or-hyperostosis]] — Case report (n=1): incidental lingual mandibular exostosis diagnosed clinically — careful drug/radiotherapy history distinguishes benign exostosis from MRONJ/osteoradionecrosis, needs no treatment
+
 - [[oral-medicine/normal-variants/baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy]] — morsicatio ↔ OLP dermoscopy case; anchors Axis 2
 - [[oral-medicine/normal-variants/gupta-2023-prevalence-distribution-oral-mucosal-nepal]] — Nepal prevalence baseline; anchors Axis 1 (Fordyce / overall 14%)
 - [[oral-medicine/normal-variants/nautiyal-2024-prevalence-keratosis-oral-cavity]] — large India keratosis series; anchors Axis 1 (frictional/tobacco/morsicatio distribution) and Axis 3 algorithm
