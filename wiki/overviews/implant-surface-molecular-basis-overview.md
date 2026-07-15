@@ -198,6 +198,11 @@ The molecular mechanism page has limits that the clinical overview must supply:
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[implants/surface/beckwith-2024-implant-coatings-affect-healing]] — Umbrella review (11 SRs, abstract-only): only weak evidence coatings (HA/calcium phosphate) improve osseointegration or reduce MBL, high heterogeneity/bias — too weak to guide coating selection
+
 - [[overviews/implant-surface-comparison]] — clinical decision matrix (15+ papers, SLA/CA/UV-PF/OD outcomes); this page is the mechanistic substrate for that matrix
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — additive/subtractive/material-modification taxonomy; Sa 1–2 µm optimum; HA delamination
 - [[implants/surface/ballo-2011-dental-implant-surfaces-physicochemical-biological]] — CXCR4 11× upregulation (anodized vs machined, 12 h); roughness 4-grade classification; chemistry–topography confounding
