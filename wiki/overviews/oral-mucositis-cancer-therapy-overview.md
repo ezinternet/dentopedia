@@ -99,6 +99,11 @@ Clinical implication: for adult HNC RIOM, an amino-acid oral suspension addresse
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-medicine/mucositis/petropoulou-2026-telemedicine-oral-complications-oncology-rct]] — RCT (105 oncology pts): teledentistry monitoring cut end-of-treatment mucosal lesions (OR 7.59), gingivitis (OR 38.83), caries (OR 26.11), all p<0.001 — structured teledentistry low-cost oral-complication prevention
+
 - [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — pediatric OM prevention/treatment SR+MA (34 RCTs, 5 pooled): honey shortens severe-OM hospital stay (MD −4.33 d), LLLT no pooled benefit (RR 0.99). Anchors Axis 1.
 - [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — pediatric OM management SR (39 studies): ranks agents by outcome (incidence→chlorhexidine, duration→honey, pain→olive oil; calcium phosphate no effect). Builds the Axis-1 outcome-matching table.
 - [[oral-medicine/mucositis/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — adult HNC RIOM triple-blind RCT (n=69): L-arginine non-inferior to L-glutamine, both ≫ maltodextrin on WHO severity/pain/weight/QoL. Anchors Axis 2.
