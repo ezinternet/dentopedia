@@ -3,7 +3,7 @@ title: "Overview: Dental Appointment No-Shows & Non-Attendance"
 type: synthesis
 category: overviews
 date: 2026-06-27
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/practice-management/alkhurayji-2024-factors-patient-failure-attend-dental.md

@@ -3,7 +3,7 @@ title: "Overview: Patient Complaint Management — Classification → Expectatio
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/complaint-management/reader-2014-patient-complaints-healthcare-taxonomy.md
   - wiki/complaint-management/gillespie-2016-healthcare-complaints-analysis-tool.md

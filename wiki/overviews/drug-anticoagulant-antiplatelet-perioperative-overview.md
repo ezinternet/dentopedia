@@ -27,7 +27,7 @@ source_papers:
   - drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants
   - drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant
   - drug/anticoagulants/yari-2023-bleeding-after-dental-extraction
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---

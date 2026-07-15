@@ -6,7 +6,7 @@ date: 2026-07-06
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [oral-medicine, normal-variants, fordyce, linea-alba, morsicatio, frictional-keratosis, dermoscopy]
 relations:

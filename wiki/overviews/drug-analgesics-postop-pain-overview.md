@@ -31,7 +31,7 @@ source_papers:
   - drug/analgesics/ping-2026-ketorolac-root-canal-pain-sr-ma
   - drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
   - drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 relations:

@@ -12,7 +12,7 @@ source_papers:
   - wiki/drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation.md
   - wiki/drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol.md
   - wiki/drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

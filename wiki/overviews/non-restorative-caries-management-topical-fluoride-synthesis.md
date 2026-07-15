@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 9 wiki entries, 2026-06-19; +Bh
 year: 2026
 date: 2026-06-19
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, caries, non-restorative, topical-fluoride, fluoride-varnish, silver-diamine-fluoride, sdf, arginine, root-caries, caries-arrest, claude-synthesis]
 source: synthesis

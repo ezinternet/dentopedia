@@ -3,7 +3,7 @@ title: "Overview: CR vs CO/MIP(ICP) — the Maxillomandibular Reference Position
 type: synthesis
 category: overviews
 date: 2026-06-26
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal.md
   - wiki/occlusion/zonnenberg-2021-centric-relation-critically-revisited-clinical.md

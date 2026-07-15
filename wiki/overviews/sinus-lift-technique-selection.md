@@ -10,7 +10,7 @@ source_papers:
   - wiki/sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh.md
   - wiki/sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma.md
   - wiki/sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

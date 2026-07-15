@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-27
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [implants, inter-implant-distance, implant-tooth-proximity, crestal-bone]
 relations:

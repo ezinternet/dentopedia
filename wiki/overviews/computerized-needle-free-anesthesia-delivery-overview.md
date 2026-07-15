@@ -5,7 +5,7 @@ authors: synthesis
 year: 2026
 date: 2026-07-01
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/local-anesthesia/kucukkurt-2026-comparison-five-anesthetic-delivery.md

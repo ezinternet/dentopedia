@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 21 device studies + the toothpi
 year: 2026
 date: 2026-07-11
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, interdental-cleaning, dental-floss, interdental-brush, water-flosser, oral-irrigator, waterpik, toothpick-method, gingivitis, peri-implant, claude-synthesis]
 source: synthesis

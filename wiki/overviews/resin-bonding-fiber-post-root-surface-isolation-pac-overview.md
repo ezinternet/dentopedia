@@ -6,7 +6,7 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [resin-bonding, fiber-post, root-caries, nccl, isolation, proanthocyanidin, 4-meta]
 relations:

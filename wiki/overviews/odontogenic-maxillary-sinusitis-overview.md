@@ -3,7 +3,7 @@ title: "Overview: Odontogenic Maxillary Sinusitis (OMS) — Diagnosis → Source
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/oral-medicine/kim-2019-definition-management-odontogenic-maxillary.md
   - wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.md

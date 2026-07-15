@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [immediate-implant, type-1, immediate-placement, immediate-loading, buccal-bone, gap-filling, socket-shield, biotype, esthetic, PES, bundle-bone]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

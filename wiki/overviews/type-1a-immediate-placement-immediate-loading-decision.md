@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 12 wiki entries, ingested throu
 year: 2026
 date: 2026-05-22
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, immediate-implant, type-1a, immediate-loading, ITI-consensus, esthetic-zone, claude-synthesis]
 source: synthesis

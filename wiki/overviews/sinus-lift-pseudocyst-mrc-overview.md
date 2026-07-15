@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 15 sinus-lift/pseudocyst entrie
 year: 2026
 date: 2026-05-27
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, sinus-lift, pseudocyst, mucous-retention-cyst, MRC, decision-tree, lateral-window, transcrestal, korean-clinical-application]
 source: synthesis

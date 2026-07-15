@@ -40,7 +40,7 @@ source_papers:
   - wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric.md
   - wiki/implants/versah-protocols/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
   - wiki/implants/shilpi-2025-osseodensification-conventional-low-bone-sr-ma.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 ---

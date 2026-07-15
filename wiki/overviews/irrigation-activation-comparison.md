@@ -41,7 +41,7 @@ source_papers:
   - endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr
   - endodontics/irrigation/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr
   - endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

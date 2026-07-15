@@ -3,7 +3,7 @@ title: "Overview: Early Implant Failure (before prosthetic loading) — Risk Fac
 type: synthesis
 category: overviews
 date: 2026-06-22
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/yari-2023-risk-factors-early-implant-failure.md
   - wiki/implants/uesugi-2024-risk-factors-early-failure-all-on-four.md

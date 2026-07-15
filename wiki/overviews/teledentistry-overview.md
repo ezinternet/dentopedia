@@ -3,7 +3,7 @@ title: "Overview: Teledentistry — Accuracy, Cost, and Patient Acceptability"
 type: synthesis
 category: overviews
 date: 2026-06-27
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/practice-management/gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systematic.md

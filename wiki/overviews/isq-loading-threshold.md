@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [ISQ, RFA, loading-threshold, primary-stability, secondary-stability, stability-dip, bone-quality, immediate-loading, early-loading]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 source_wiki:
   - wiki/implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular.md

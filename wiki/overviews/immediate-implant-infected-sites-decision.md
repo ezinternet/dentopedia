@@ -15,7 +15,7 @@ source_wiki:
   - wiki/immediate-implant/chrcanovic-2015-immediate-placement-implants-infected-sites.md
   - wiki/immediate-implant/tabrizi-2020-dental-implant-survival-postoperative-infection.md
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 tags: [immediate-implant, infected-socket, periapical-pathology, acute-abscess, debridement, antibiotic, timing, post-op-infection, clinical-decision]
 ---
 

@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 11 wiki entries, 2026-06-20)
 year: 2026
 date: 2026-06-20
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, pediatric, primary-molar, deep-caries, pulpotomy, pulpectomy, vital-pulp-therapy, hall-technique, stainless-steel-crown, zirconia-crown, glass-ionomer, decision-tree, claude-synthesis]
 source: synthesis

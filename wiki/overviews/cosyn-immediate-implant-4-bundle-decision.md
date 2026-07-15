@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 11 wiki entries, ingested throu
 year: 2026
 date: 2026-05-22
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, immediate-implant, cosyn-series, jump-space, flapless, immediate-provisionalization, connective-tissue-graft, socket-grafting, claude-synthesis]
 source: synthesis

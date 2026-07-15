@@ -6,7 +6,7 @@ category: [overviews]
 date: 2026-05-18
 tags: [access-cavity, TEC, MIA, guided-endodontics, PCO, static-navigation, dynamic-navigation, CBCT, overview]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

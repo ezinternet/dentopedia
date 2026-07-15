@@ -19,7 +19,7 @@ source_wiki:
   - wiki/post-and-core/izadi-2020-core-materials-fracture-resistance-parapost.md
   - wiki/post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost.md
 category: [post-and-core]
-confidence: synthesis
+evidence_level: synthesis
 tags: [post-and-core, fiber-post, ferrule, endocrown, endodontically-treated-teeth, glass-fiber, failure-mode, parapost]
 ---
 

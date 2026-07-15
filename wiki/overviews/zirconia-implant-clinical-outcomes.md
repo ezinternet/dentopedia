@@ -3,7 +3,7 @@ title: "Overview: Zirconia Dental Implants — Survival, Marginal Bone Loss, and
 type: synthesis
 category: overviews
 date: 2026-06-07
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/mohseni-2024-clinical-outcomes-zirconia-implants.md
   - wiki/implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants.md

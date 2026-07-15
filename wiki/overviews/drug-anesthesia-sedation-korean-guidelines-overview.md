@@ -8,7 +8,7 @@ tags: [local-anesthesia, sedation, moderate-sedation, clinical-practice-guidelin
 source_papers:
   - drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
   - drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

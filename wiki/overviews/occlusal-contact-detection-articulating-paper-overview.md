@@ -3,7 +3,7 @@ title: "Overview: Occlusal Contact Detection — Articulating Paper Accuracy & I
 type: synthesis
 category: overviews
 date: 2026-06-26
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/occlusion/rovira-lastra-2026-articulating-paper-accuracy-occlusal-points.md
   - wiki/occlusion/bozhkova-2021-occlusal-indicators-dental-practice-survey.md

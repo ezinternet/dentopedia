@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-23
 type: synthesis
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 tags: [ceraseal, bioceramic-sealer, calcium-silicate, single-cone, root-canal-sealer, post-obturation-pain, retreatment, biocompatibility, apatite, ah-plus, decision-synthesis]
 source_papers:
   - wiki/endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma.md

@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-27
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [prosthetic-materials, screw-retained, cement-retained, scrp, retention]
 ---

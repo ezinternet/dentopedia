@@ -25,7 +25,7 @@ source_papers:
   - wiki/prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem.md
   - wiki/prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload.md
   - wiki/prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

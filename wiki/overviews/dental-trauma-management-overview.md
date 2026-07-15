@@ -10,7 +10,7 @@ source_wiki:
   - wiki/dental-trauma/vitali-2025-preoperative-factors-prognosis-regenerative-endodontic.md
   - wiki/dental-trauma/agarwal-2025-impact-mouthguards-prevention-dentofacial-injuries.md
 category: [dental-trauma]
-confidence: synthesis
+evidence_level: synthesis
 tags: [dental-trauma, avulsion, replantation, luxation, splinting, mouthguard, pulp-necrosis, IADT]
 ---
 

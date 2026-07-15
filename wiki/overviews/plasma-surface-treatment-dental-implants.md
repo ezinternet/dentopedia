@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-31
 source: overview
 category: [overviews, implants/surface/plasma]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [plasma, cold-atmospheric-plasma, implant-surface, osseointegration, decontamination, peri-implantitis, chairside, human-rct, overview]
 ---

@@ -6,7 +6,7 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [caries, remineralization, hydroxyapatite, orthodontics, clear-aligner, zirconia-crown, pediatric]
 relations:

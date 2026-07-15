@@ -5,7 +5,7 @@ year: 2026
 date: 2026-07-03
 doi: n/a
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 tags: [degree-of-conversion, light-curing-unit, curing-distance, exposure-mode, soft-start, pulse-mode, cytotoxicity, dual-cure-resin-cement, hybrid-ceramic, radiopacity, solubility, ph, luting-cement]
 source_collection: synthesis
 ---

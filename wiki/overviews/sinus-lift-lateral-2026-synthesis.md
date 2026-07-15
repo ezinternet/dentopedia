@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 37 wiki entries ingested 2026-0
 year: 2026
 date: 2026-06-16
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, sinus-lift, lateral-window, schneiderian-membrane, perforation, prf, cbct, septa, sinusitis, smoking, psaa, osteomeatal-complex, rrh, mucosal-thickness, sinusitis-prevention, graft-material, dbbm, bcp, l-prf, a-prf, histomorphometry]
 source: synthesis

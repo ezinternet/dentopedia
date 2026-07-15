@@ -3,7 +3,7 @@ title: "Overview: Endodontic Pulp & Periapical Diagnosis"
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/endodontics/diagnosis/donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.md
   - wiki/endodontics/diagnosis/patro-2022-diagnostic-accuracy-of-pulp-vitality.md

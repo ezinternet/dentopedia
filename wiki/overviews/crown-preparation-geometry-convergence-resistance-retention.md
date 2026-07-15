@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 15 wiki entries; core 9 ingeste
 year: 2026
 date: 2026-05-21
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, crown-preparation, TOC, convergence-angle, resistance-form, retention-form, auxiliary-features, marginal-fit, provisional-crown, zirconia-bonding, prep-principles, finish-line, ios-accuracy, digital-prep, claude-synthesis]
 source: synthesis

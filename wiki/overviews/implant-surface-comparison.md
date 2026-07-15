@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapatite, hydrophilic, biological-aging, osseointegration, bone-to-implant-contact, BIC, surface-topography]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 relations:
   - type: reinforces

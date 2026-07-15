@@ -3,7 +3,7 @@ title: "Overview: Osteotomy Drilling Heat — Modifiable Determinants Ranked, an
 type: synthesis
 category: overviews
 date: 2026-07-15
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.md
   - wiki/implants/jung-2021-heat-development-medical-drilling-influencing.md

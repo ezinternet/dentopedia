@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [EAL, working-length, apex-locator, apical-constriction, RootZX, protocol]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

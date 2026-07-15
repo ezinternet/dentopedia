@@ -21,7 +21,7 @@ source_papers:
   - drug/karm-2017-lidocaine-epinephrine-200000-third-molar
   - drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr
   - drug/miroshnychenko-2023-dental-extraction-pain-network-meta
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

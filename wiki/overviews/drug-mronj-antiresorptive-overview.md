@@ -20,7 +20,7 @@ source_papers:
   - drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy
   - drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence
   - drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 relations:

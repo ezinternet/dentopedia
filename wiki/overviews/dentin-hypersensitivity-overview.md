@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from JKDA DH 특집 3편 + NCCL/adhe
 year: 2026
 date: 2026-05-27
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, dentin-hypersensitivity, DH, hydrodynamic-theory, NCCL, treatment-ladder, postop-sensitivity, korean-clinical-application]
 source: synthesis

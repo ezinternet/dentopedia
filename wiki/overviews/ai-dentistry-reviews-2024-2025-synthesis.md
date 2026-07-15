@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 9 wiki entries ingested 2026-05
 year: 2026
 date: 2026-05-21
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, ai-dentistry, machine-learning, deep-learning, llm, chatgpt, multi-specialty, dental-education, restorative-ai, evidence-quality, claude-synthesis]
 source: synthesis

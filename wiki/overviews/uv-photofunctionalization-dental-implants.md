@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-22
 source: overview
 category: [overviews, implants/surface]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [photofunctionalization, uv, ultraviolet, implant-surface, osseointegration, biological-aging, superhydrophilic, soft-tissue, biofilm, diabetes, chairside, human-rct, overview]
 ---

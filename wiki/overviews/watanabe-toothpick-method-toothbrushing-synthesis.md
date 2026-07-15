@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 7 wiki entries, ingested 2026-0
 year: 2026
 date: 2026-06-19
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, toothpick-method, watanabe-method, toothbrushing, plaque-control, gingivitis, peri-implant-mucositis, interdental-papilla, oral-hygiene, claude-synthesis]
 source: synthesis

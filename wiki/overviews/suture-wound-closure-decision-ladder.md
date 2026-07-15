@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [suture, wound-closure, primary-closure, secondary-closure, sutureless, third-molar, tension-free-closure, flap-advancement, periosteal-releasing-incision, GBR, titanium-mesh, cyanoacrylate, tissue-adhesive, suture-pattern, biomechanics, free-gingival-graft, sling-suture]
 source_papers:
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 relations:
   - type: reinforces

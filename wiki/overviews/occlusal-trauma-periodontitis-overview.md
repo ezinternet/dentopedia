@@ -3,7 +3,7 @@ title: "Overview: Occlusal Trauma & Periodontitis"
 type: synthesis
 category: overviews
 date: 2026-06-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal.md
   - wiki/occlusion/dommisch-2022-efficacy-of-tooth-splinting-occlusal.md

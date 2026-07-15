@@ -4,7 +4,7 @@ authors: Synthesis (llm-wiki)
 year: 2026
 date: 2026-06-24
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma

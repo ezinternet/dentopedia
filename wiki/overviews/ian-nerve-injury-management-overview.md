@@ -6,7 +6,7 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [ian-injury, lingual-nerve, nerve-injury, paresthesia, hypoesthesia, photobiomodulation, pbm, dexamethasone, vitamin-b12, methylcobalamin, ginkgo-biloba, dental-pulp-stem-cells, dpsc, sensory-stimulation, implant, third-molar, oral-surgery, nerve-regeneration, overview]
 relations:

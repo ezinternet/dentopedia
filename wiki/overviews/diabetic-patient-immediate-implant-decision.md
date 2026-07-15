@@ -2,7 +2,7 @@
 title: "Diabetic Patient + Immediate Implant: An HbA1c- and Site-Gated Decision Synthesis"
 date: 2026-07-01
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [diabetes, HbA1c, immediate-implant, immediate-loading, maxilla, peri-implantitis, decision]
 relations:

@@ -2,7 +2,7 @@
 title: "Endodontic Endotoxins (LPS) & LTA: Role in Infection and Removal by Treatment — 6-paper synthesis"
 type: synthesis
 date: 2026-06-17
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: []

@@ -7,7 +7,7 @@ date: 2026-07-10
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 source_papers:
   - wiki/prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr.md

@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-23
 doi: n/a
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 tags: [composite, adhesion, etch-and-rinse, self-etch, universal-adhesive, bulk-fill, incremental, polymerization-shrinkage, ids, repair, direct-restoration]
 source_collection: synthesis
 ---

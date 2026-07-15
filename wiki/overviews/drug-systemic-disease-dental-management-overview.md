@@ -29,7 +29,7 @@ source_papers:
   - drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
   - drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
   - drug/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 relations:
   - type: reinforces

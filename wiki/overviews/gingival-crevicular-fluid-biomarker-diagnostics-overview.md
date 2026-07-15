@@ -2,7 +2,7 @@
 title: "Gingival Crevicular Fluid as a Diagnostic Biomarker Medium — Overview"
 date: 2026-07-03
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 tags: [gingival-crevicular-fluid, gcf, biomarkers, periodontal-diagnostics, il-1beta, mmp-8, rankl-opg, sclerostin, mirna, orthodontic-tooth-movement, bone-turnover, point-of-care, biosensors, saliva-diagnostics]
 source_wiki:
   - wiki/periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers.md

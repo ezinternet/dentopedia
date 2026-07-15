@@ -6,7 +6,7 @@ category: [overviews]
 date: 2026-05-18
 tags: [third-molar, IAN, coronectomy, CBCT, OPG, oral-surgery, overview]
 source_papers: 
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

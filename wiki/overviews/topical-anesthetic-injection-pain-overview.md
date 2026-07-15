@@ -5,7 +5,7 @@ authors: synthesis
 year: 2026
 date: 2026-06-08
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 source_papers:
   - wiki/local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.md

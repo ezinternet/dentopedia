@@ -12,7 +12,7 @@ source_papers:
   - "Ng 2007 Part 2 — SR+MA — DOI 10.1111/j.1365-2591.2007.01323.x (external, no wiki page)"
   - "Ricucci 2011 — prospective cohort — DOI 10.1016/j.tripleo.2011.08.003 (external, no wiki page)"
   - "Sjogren 1990 — longitudinal cohort — DOI 10.1016/S0099-2399(07)80180-4 (external, no wiki page)"
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

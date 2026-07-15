@@ -3,7 +3,7 @@ title: "Complete Dentures & Implant-Supported Overdentures — Digital Fabricati
 category: [overviews]
 type: overview
 date: 2026-06-18
-confidence: synthesis
+evidence_level: synthesis
 source_wiki:
   - wiki/complete-denture/abou-ayash-2023-implant-supported-fixed-complete-dentures.md
   - wiki/complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review.md

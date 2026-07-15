@@ -17,7 +17,7 @@ source_papers:
   - wiki/bone-regeneration/vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
   - wiki/implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
   - wiki/implants/versah-protocols/guner-2025-osseodensification-ridge-split-implant-stability.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

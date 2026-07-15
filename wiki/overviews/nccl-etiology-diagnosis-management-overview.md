@@ -7,7 +7,7 @@ doi: N/A
 source: N/A
 type: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis

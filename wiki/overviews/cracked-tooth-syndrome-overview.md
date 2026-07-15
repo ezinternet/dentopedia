@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 8 wiki entries ingested 2026-05
 year: 2026
 date: 2026-05-27
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, cracked-tooth-syndrome, CTS, longitudinal-fracture, diagnosis, endodontic-decision, cuspal-coverage, korean-clinical-application]
 source: synthesis

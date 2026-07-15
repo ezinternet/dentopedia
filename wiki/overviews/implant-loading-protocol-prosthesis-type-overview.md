@@ -15,7 +15,7 @@ source_papers:
   - immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective
   - implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
   - implants/esposito-2013-loading-times-dental-implants-cochrane
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 relations:
   - type: extends

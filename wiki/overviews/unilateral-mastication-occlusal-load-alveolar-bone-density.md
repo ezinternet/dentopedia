@@ -3,7 +3,7 @@ title: "Overview: Unilateral Mastication & Occlusal Load → Alveolar Bone Densi
 type: synthesis
 category: overviews
 date: 2026-06-14
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/lee-2018-unilateral-mastication-bone-density-alveolus.md
   - wiki/bone-biology/chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis.md

@@ -2,7 +2,7 @@
 title: "Complete-Denture Occlusal Vertical Dimension (OVD): Determination, Validity & Consequences — 5-paper synthesis"
 type: synthesis
 date: 2026-06-16
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: [vertical-dimension, ovd, vdo, complete-denture, rest-position, freeway-space, anthropometric, cephalometric]

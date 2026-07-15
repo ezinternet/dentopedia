@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 5 studies mined from Wen 2026's
 year: 2026
 date: 2026-07-11
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, toothbrush-design, toothbrush-type, dentifrice, toothpaste, plaque-index, biofilm-index, digital-imaging, RMNPI, claude-synthesis]
 source: synthesis

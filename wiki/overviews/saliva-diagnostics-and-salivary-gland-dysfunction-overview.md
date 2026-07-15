@@ -2,7 +2,7 @@
 title: "Saliva & the Salivary Gland: Diagnostic Medium and Secretory Dysfunction — Overview"
 date: 2026-07-03
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 tags: [saliva, salivary-gland, salivary-diagnostics, salivaomics, liquid-biopsy, xerostomia, hyposalivation, AQP5, GPCR, semaglutide, GLP-1, Sjogren, biomarkers]
 source_wiki:
   - wiki/oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy.md

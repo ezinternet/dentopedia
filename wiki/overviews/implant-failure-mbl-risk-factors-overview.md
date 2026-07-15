@@ -3,7 +3,7 @@ title: "Overview: Late/Established Implant Failure & Marginal Bone Loss — Risk
 type: synthesis
 category: overviews
 date: 2026-07-12
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/giok-2026-factors-implant-failure-umbrella-review.md
   - wiki/implants/malak-2024-implant-failure-marginal-bone-loss.md

@@ -31,7 +31,7 @@ source_papers:
   - drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane
   - drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic
   - drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---

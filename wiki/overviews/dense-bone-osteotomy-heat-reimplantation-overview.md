@@ -3,7 +3,7 @@ title: "Overview: Dense/Sclerotic Bone (D1) Implant Osteotomy — Thermal Injury
 type: synthesis
 category: overviews
 date: 2026-07-14
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy.md
   - wiki/implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic.md

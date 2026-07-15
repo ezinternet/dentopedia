@@ -15,7 +15,7 @@ source_papers:
   - radiology/devlin-2013-object-position-magnification-panoramic-radiography
   - radiology/martins-2022-multilayer-panoramic-radiography-device-mapping
   - radiology/farman-2010-panoramic-ccd-storage-phosphor-film
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

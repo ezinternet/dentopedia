@@ -6,7 +6,7 @@ date: 2026-07-07
 doi: ""
 source: ""
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [sinus-lift, lateral-window, accessory-ostium, septa, membrane-perforation, odontogenic-sinusitis]
 relations:

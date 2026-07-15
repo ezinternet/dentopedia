@@ -19,7 +19,7 @@ source_wiki:
   - wiki/implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol.md
   - wiki/implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.md
 category: [periodontics]
-confidence: synthesis
+evidence_level: synthesis
 tags: [guided-biofilm-therapy, GBT, air-polishing, erythritol, glycine, mechanical-debridement, SRP, supportive-periodontal-care, peri-implant-mucositis, professional-biofilm-management]
 ---
 

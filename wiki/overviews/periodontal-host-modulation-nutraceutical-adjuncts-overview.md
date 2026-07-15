@@ -13,7 +13,7 @@ source_wiki:
   - wiki/periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
   - wiki/periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
 category: [periodontics]
-confidence: synthesis
+evidence_level: synthesis
 tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin, doxycycline, MMP, periodontal-adjunct, NSPT, type-2-diabetes]
 ---
 

@@ -6,7 +6,7 @@ date: 2024-08-22
 doi: 10.1590/1678-7757-2024-0271
 source: reis-2024-biomimetic-restorative-myths-narrative.md
 category: [overviews]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/reis-2024-biomimetic-restorative-myths-narrative.pdf
 pdf_filename: reis-2024-biomimetic-restorative-myths-narrative.pdf
 source_collection: external

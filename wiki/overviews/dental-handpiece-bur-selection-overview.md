@@ -3,7 +3,7 @@ title: "Overview: Dental Handpieces & Burs — Type Selection, Indications & Cut
 type: synthesis
 category: overviews
 date: 2026-06-25
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical.md
   - wiki/dental-handpiece/matys-2020-dental-aerosol-hazard-risk-dental.md

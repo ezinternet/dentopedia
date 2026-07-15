@@ -5,7 +5,7 @@ year: 2026
 date: 2026-07-09
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [implants, prosthesis-misfit, passive-fit, abutment-connection, marginal-bone-loss, emergence-angle, cement-margin]
 ---

@@ -4,7 +4,7 @@ authors: synthesis page (compiled by Claude from 4 sinus-lift/pseudocyst entries
 year: 2026
 date: 2026-07-03
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: internal
 tags: [overview, sinus-pathology, CBCT, prevalence, mucosal-thickening, antrolith, incidental-finding, implant-planning, triage, decision-tree]
 source: synthesis

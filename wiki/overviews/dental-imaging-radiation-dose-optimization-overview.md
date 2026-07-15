@@ -34,7 +34,7 @@ source_papers:
   - radiology/kim-2016-occupational-radiation-procedures-doses-korean-dentists
   - radiology/kabier-2025-xray-radiation-exposure-open-dental-clinics-tld
   - radiology/rottke-2018-operator-safety-during-the-acquisition
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 ---
 

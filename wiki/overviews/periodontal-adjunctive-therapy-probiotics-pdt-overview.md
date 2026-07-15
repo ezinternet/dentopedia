@@ -13,7 +13,7 @@ source_wiki:
   - wiki/periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma.md
   - wiki/periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct.md
 category: [periodontics]
-confidence: synthesis
+evidence_level: synthesis
 tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment, subgingival-irrigation, clean-and-seal, NaOCl, hyaluronic-acid]
 ---
 

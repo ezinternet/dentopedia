@@ -17,7 +17,7 @@ source_wiki:
   - wiki/tooth-whitening/chu-2025-low-concentration-at-home-bleaching.md
   - wiki/tooth-whitening/cordeiro-2025-in-office-bleaching-protocols.md
 category: [tooth-whitening]
-confidence: synthesis
+evidence_level: synthesis
 tags: [tooth-whitening, bleaching, hydrogen-peroxide, carbamide-peroxide, tooth-sensitivity, walking-bleach, OTC, enamel-safety, in-office, at-home]
 ---
 

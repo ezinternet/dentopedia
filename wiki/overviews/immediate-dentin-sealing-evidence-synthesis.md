@@ -15,7 +15,7 @@ source_papers:
   - wiki/resin-bonding/samartzi-2021-immediate-dentin-sealing-review.md
   - wiki/resin-bonding/josic-2022-ids-postoperative-sensitivity-sr-ma.md
   - wiki/resin-bonding/alghauli-2025-clinical-benefits-immediate-dentin-sealing.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 relations:
   - type: extends

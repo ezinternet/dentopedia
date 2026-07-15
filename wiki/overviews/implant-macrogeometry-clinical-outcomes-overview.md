@@ -12,7 +12,7 @@ source_wiki:
   - wiki/implants/chang-2024-optimization-implant-design-bone-quality-fea.md
   - wiki/immediate-implant/hernandez-2026-wide-thread-implant-macrogeometry-immediate.md
 category: [implants]
-confidence: synthesis
+evidence_level: synthesis
 tags: [macrogeometry, tapered, cylindrical, neck-design, primary-stability, ISQ, MBL, immediate-implant, wide-thread]
 ---
 

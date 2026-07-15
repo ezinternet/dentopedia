@@ -2,7 +2,7 @@
 title: "치경부 레진 격리 전략: dry field가 목적, 코드는 수단 — 격리·마진위치·열구액 종합"
 type: synthesis
 date: 2026-07-03
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: []

@@ -3,7 +3,7 @@ title: "Overview: Failed/Displaced Dental Implant Removal — Technique Selectio
 type: synthesis
 category: overviews
 date: 2026-07-06
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.md
   - wiki/implants/solderer-2019-removal-failed-dental-implants-revisited.md

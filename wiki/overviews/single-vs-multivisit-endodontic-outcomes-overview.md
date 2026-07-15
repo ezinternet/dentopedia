@@ -2,7 +2,7 @@
 title: "Single- vs Multiple-Visit Endodontics: Healing & Pain Outcomes — 5-paper synthesis"
 type: synthesis
 date: 2026-06-16
-confidence: synthesis
+evidence_level: synthesis
 category: [overviews]
 source_collection: synthesis
 tags: []

@@ -3,7 +3,7 @@ title: "Overview: Robotic vs Dynamic Navigation vs Static Guide — Implant Plac
 type: synthesis
 category: overviews
 date: 2026-06-07
-confidence: synthesis
+evidence_level: synthesis
 source_papers:
   - wiki/digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation.md
   - wiki/digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation.md

@@ -12,7 +12,7 @@ source_papers:
   - wiki/implants/versah-protocols/versah-combined-molar-septum-expansion-sinus-lift-protocol.md
   - wiki/implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol.md
   - wiki/implants/versah-protocols/versah-immediate-implant-placement-protocol.md
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-06-01_versah-protocol-selection-map.md
 relations:

@@ -5,7 +5,7 @@ year: 2026
 date: 2026-07-07
 source: overview
 category: [overviews]
-confidence: synthesis
+evidence_level: synthesis
 source_collection: synthesis
 tags: [implants, tilted-implant, angled-abutment, all-on-4, fea]
 ---

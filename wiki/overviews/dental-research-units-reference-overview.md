@@ -7,7 +7,7 @@ type: overview
 category: [overviews]
 tags: [units, mm, MPa, GPa, Ncm, ISQ, sievert, radiation-dose, ppm, HbA1c, surface-roughness, bond-strength, insertion-torque, marginal-bone-loss, reference]
 source_papers:
-confidence: synthesis
+evidence_level: synthesis
 source: synthesis
 source_wiki:
   - wiki/overviews/isq-loading-threshold.md

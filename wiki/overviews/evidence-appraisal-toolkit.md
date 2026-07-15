@@ -6,7 +6,7 @@ date: 2026-05-22
 doi: null
 source: synthesis
 category: overviews
-confidence: synthesis
+evidence_level: synthesis
 tags: [evidence-appraisal, ebm, ebd, biostatistics, sr-ma-methodology, critical-appraisal, overview]
 ---
 
