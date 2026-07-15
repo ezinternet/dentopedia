@@ -133,6 +133,12 @@ The dominant finding across the evidence is that **no single device is universal
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[interdental-cleaning/spindler-2026-3d-printed-cleaning-splints-interdental-brush]] — Crossover pilot RCT (30 periodontitis pts): 3D-printed cleaning splint + IDB vs IDB alone gave greater plaque reduction (median ΔQHI −1.38 vs −0.23, p<0.001) — promising IDB-handling adjunct but 2-week unblinded pilot, ~360€ cost
+- [[interdental-cleaning/wen-2026-dental-floss-sequence-plaque-removal]] — Single-blind RCT (54 students, 21 days): mid-brushing flossing gave largest day-7 plaque reduction (p=0.039) but advantage vanished by day 21 (p=0.933) — flossing sequence matters far less than flossing itself
+
 - [[interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct]] — IDB, pregnancy gingivitis (OR 3.14)
 - [[interdental-cleaning/jung-2025-flossing-performance-plaque-removal]] — better flossing technique did NOT improve plaque removal (n=37) — strengthens "floss efficacy is weak even when done correctly"
 - [[interdental-cleaning/yilmaz-2025-interdental-cleaning-tool-sustainability-rct]] — rubber interdental pick used far more consistently than floss (12.61 vs 4.96/24 wk) — direct adherence-over-efficacy evidence; adds the rubber-pick device class
