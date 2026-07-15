@@ -6,7 +6,7 @@ date: 2026-03-12
 doi: 10.3390/children13030397
 source: pediatric-2026-dental-anxiety-contemporary-assessment-management.md
 category: behavioral-dentistry/dental-anxiety
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/pediatric-2026-dental-anxiety-contemporary-assessment-management.pdf
 pdf_filename: pediatric-2026-dental-anxiety-contemporary-assessment-management.pdf
 source_collection: external

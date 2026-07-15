@@ -6,7 +6,7 @@ date: 2018-10-12
 doi: 10.1038/sj.bdj.2018.809
 source: bonetti-2018-general-health-promotion-dental-engage.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/bonetti-2018-general-health-promotion-dental-engage.pdf
 pdf_filename: bonetti-2018-general-health-promotion-dental-engage.pdf
 source_collection: external

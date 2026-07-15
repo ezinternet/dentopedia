@@ -6,7 +6,7 @@ date: 2018-06-27
 doi: 10.1016/j.msksp.2018.06.004
 source: wittink-2018-patient-education-health-literacy.md
 category: [behavioral-dentistry/communication-relationship]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "30017902"

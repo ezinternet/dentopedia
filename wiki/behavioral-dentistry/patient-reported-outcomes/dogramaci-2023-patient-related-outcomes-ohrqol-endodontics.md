@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1111/iej.13830
 source: dogramaci-2023-patient-related-outcomes-ohrqol-endodontics.md
 category: behavioral-dentistry/patient-reported-outcomes
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics.pdf
 pdf_filename: dogramaci-2023-patient-related-outcomes-ohrqol-endodontics.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2021-10-01
 doi: 10.1111/joor.13244
 source: currie-2021-promoting-regular-dental-attendance-problem.md
 category: behavioral-dentistry/communication-relationship
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/currie-2021-promoting-regular-dental-attendance-problem.pdf
 pdf_filename: currie-2021-promoting-regular-dental-attendance-problem.pdf
 source_collection: external

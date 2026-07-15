@@ -6,7 +6,7 @@ date: 2025-01-14
 doi: 10.3390/dj13010031
 source: ho-2025-overview-dentist-patient-communication-quality.md
 category: behavioral-dentistry/communication-relationship
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ho-2025-overview-dentist-patient-communication-quality.pdf
 pdf_filename: ho-2025-overview-dentist-patient-communication-quality.pdf
 source_collection: external

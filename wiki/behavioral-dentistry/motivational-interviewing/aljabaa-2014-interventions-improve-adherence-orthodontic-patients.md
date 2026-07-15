@@ -6,7 +6,7 @@ date: 2014-07-21
 doi: 10.2319/031214-184.1
 source: aljabaa-2014-interventions-improve-adherence-orthodontic-patients.md
 category: [behavioral-dentistry/motivational-interviewing]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "25045779"

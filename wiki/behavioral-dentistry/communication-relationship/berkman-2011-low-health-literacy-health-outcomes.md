@@ -6,7 +6,7 @@ date: 2011-07-19
 doi: 10.7326/0003-4819-155-2-201107190-00005
 source: berkman-2011-low-health-literacy-health-outcomes.md
 category: [behavioral-dentistry/communication-relationship]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "21768583"

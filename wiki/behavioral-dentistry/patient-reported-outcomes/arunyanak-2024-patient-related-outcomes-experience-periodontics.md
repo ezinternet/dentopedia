@@ -6,7 +6,7 @@ date: 2024-06-11
 doi: 10.1111/prd.12589
 source: arunyanak-2024-patient-related-outcomes-experience-periodontics.md
 category: behavioral-dentistry/patient-reported-outcomes
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/arunyanak-2024-patient-related-outcomes-experience-periodontics.pdf
 pdf_filename: arunyanak-2024-patient-related-outcomes-experience-periodontics.pdf
 source_collection: external

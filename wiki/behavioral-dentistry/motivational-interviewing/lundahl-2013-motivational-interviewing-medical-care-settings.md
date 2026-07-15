@@ -6,7 +6,7 @@ date: 2013-11-01
 doi: 10.1016/j.pec.2013.07.012
 source: lundahl-2013-motivational-interviewing-medical-care-settings.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lundahl-2013-motivational-interviewing-medical-care-settings.pdf
 pdf_filename: lundahl-2013-motivational-interviewing-medical-care-settings.pdf
 source_collection: external

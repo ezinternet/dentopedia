@@ -6,7 +6,7 @@ date: 2023-09-18
 doi: 10.1002/cre2.795
 source: alhomoud-2023-behavior-anxiety-levels-pediatric-patient.md
 category: behavioral-dentistry/dental-anxiety
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/alhomoud-2023-behavior-anxiety-levels-pediatric-patient.pdf
 pdf_filename: alhomoud-2023-behavior-anxiety-levels-pediatric-patient.pdf
 source_collection: external

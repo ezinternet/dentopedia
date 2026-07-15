@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1007/s11606-025-09707-z
 source: elwyn-2025-shared-decision-making-primer-clinicians.md
 category: behavioral-dentistry/communication-relationship
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/elwyn-2025-shared-decision-making-primer-clinicians.pdf
 pdf_filename: elwyn-2025-shared-decision-making-primer-clinicians.pdf
 source_collection: external

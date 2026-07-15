@@ -6,7 +6,7 @@ date: 2019-04-08
 doi: 10.1177/1465312519840035
 source: barber-2019-shared-decision-making-orthodontics.md
 category: [behavioral-dentistry/communication-relationship]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "31056038"

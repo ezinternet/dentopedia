@@ -6,7 +6,7 @@ date: 2025-06-01
 doi: ""
 source: anderson-2025-motivational-interviewing-nutritional-counseling-dentistry.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/anderson-2025-motivational-interviewing-nutritional-counseling-dentistry.pdf
 pdf_filename: anderson-2025-motivational-interviewing-nutritional-counseling-dentistry.pdf
 source_collection: external

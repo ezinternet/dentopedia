@@ -6,7 +6,7 @@ date: 2022-04-01
 doi: 10.1002/jdd.12919
 source: rogers-2022-dental-hygienists-motivational-interviewing-perceptions.md
 category: behavioral-dentistry/motivational-interviewing
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/rogers-2022-dental-hygienists-motivational-interviewing-perceptions.pdf
 pdf_filename: rogers-2022-dental-hygienists-motivational-interviewing-perceptions.pdf
 source_collection: external

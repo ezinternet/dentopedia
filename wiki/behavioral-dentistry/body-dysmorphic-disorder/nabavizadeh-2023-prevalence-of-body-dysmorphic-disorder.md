@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: "10.1002/hsr2.1495"
 source: nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder.md
 category: behavioral-dentistry/body-dysmorphic-disorder
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder.pdf
 pdf_filename: nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder.pdf
 source_collection: external

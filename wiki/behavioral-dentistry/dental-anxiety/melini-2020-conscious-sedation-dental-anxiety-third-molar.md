@@ -6,7 +6,7 @@ date: 2020-05-28
 doi: 10.1186/s12903-020-01136-0
 source: melini-2020-conscious-sedation-dental-anxiety-third-molar.md
 category: behavioral-dentistry/dental-anxiety
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "32466796"

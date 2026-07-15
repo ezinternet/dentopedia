@@ -6,7 +6,7 @@ date: 2022-04-22
 doi: 10.3390/brainsci12050521
 source: cernega-2022-efficacy-hypnosis-dental-anxiety-phobia.md
 category: [behavioral-dentistry/dental-anxiety]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "35624907"

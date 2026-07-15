@@ -6,7 +6,7 @@ date: 2019-03-28
 doi: 10.1111/jep.13129
 source: asaad-2019-shared-decision-making-sdm-dentistry.md
 category: [behavioral-dentistry/communication-relationship]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "30920092"

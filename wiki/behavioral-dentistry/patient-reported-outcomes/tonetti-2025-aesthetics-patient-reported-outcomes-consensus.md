@@ -6,7 +6,7 @@ date: 2025-05-03
 doi: 10.1111/jcpe.14182
 source: tonetti-2025-aesthetics-patient-reported-outcomes-consensus.md
 category: [behavioral-dentistry/patient-reported-outcomes]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/tonetti-2025-aesthetics-patient-reported-outcomes-consensus.pdf
 pdf_filename: tonetti-2025-aesthetics-patient-reported-outcomes-consensus.pdf
 source_collection: external

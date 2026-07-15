@@ -6,7 +6,7 @@ date: 2024-03-29
 doi: 10.1016/j.identj.2024.02.015
 source: choi-2024-determinants-dentist-patient-relationships.md
 category: behavioral-dentistry/communication-relationship
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/choi-2024-determinants-dentist-patient-relationships.pdf
 pdf_filename: choi-2024-determinants-dentist-patient-relationships.pdf
 source_collection: external

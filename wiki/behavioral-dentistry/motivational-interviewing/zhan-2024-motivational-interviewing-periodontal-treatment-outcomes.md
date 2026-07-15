@@ -6,7 +6,7 @@ date: 2024-02-01
 doi: 10.1016/j.identj.2024.01.003
 source: zhan-2024-motivational-interviewing-periodontal-treatment-outcomes.md
 category: [behavioral-dentistry/motivational-interviewing]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes.pdf
 pdf_filename: zhan-2024-motivational-interviewing-periodontal-treatment-outcomes.pdf
 source_collection: external

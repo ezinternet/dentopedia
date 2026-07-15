@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.21815/JDE.019.003
 source: khalifah-2019-teaching-assessment-dentist-patient-communication.md
 category: behavioral-dentistry/communication-relationship
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 pdf_filename: khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 source_collection: external

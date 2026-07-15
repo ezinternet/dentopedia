@@ -7,7 +7,7 @@ doi: ""
 pmid: "25838009"
 source: ebnahmady-2015-patient-satisfaction-surveys-dental-school.md
 category: [behavioral-dentistry/patient-reported-outcomes]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/25838009/

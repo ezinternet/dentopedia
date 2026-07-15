@@ -6,7 +6,7 @@ date: 2023-12-12
 doi: 10.1186/s12903-023-03595-7
 source: barros-padilha-2023-virtual-reality-and-behaviour-management.md
 category: [behavioral-dentistry/dental-anxiety]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38087294"

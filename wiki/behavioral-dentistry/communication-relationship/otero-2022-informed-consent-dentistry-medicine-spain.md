@@ -6,7 +6,7 @@ date: 2022-05-01
 doi: 10.4317/medoral.25265
 source: otero-2022-informed-consent-dentistry-medicine-spain.md
 category: [behavioral-dentistry/communication-relationship]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "35368004"

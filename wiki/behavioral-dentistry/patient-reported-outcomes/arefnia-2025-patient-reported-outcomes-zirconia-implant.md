@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.1186/s41687-025-00839-8"
 source: arefnia-2025-patient-reported-outcomes-zirconia-implant.md
 category: [behavioral-dentistry/patient-reported-outcomes]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/arefnia-2025-patient-reported-outcomes-zirconia-implant.pdf
 pdf_filename: arefnia-2025-patient-reported-outcomes-zirconia-implant.pdf
 source_collection: external
