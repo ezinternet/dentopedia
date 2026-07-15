@@ -125,13 +125,16 @@ def lint_file(path: str) -> list[str]:
     is_synthesis = conf == "synthesis"
     src_coll = fields.get("source_collection", "").strip('"').strip("'")
     is_pubmed_text = src_coll == "pubmed-text"
+    # pubmed-abstract = 초록만 있는 논문, 로컬 아티팩트(PDF/txt) 없음 → 아티팩트 필드 면제
+    is_abstract_only = src_coll == "pubmed-abstract"
 
     # 필수 아티팩트 필드는 유형별로 다름:
-    #   synthesis   → 없음 (내부 합성 페이지, source 아티팩트 없음)
-    #   pubmed-text → text_path / text_filename (PMC 전문을 .txt로 보관)
-    #   external    → pdf_path / pdf_filename
+    #   synthesis        → 없음 (내부 합성 페이지)
+    #   pubmed-abstract  → 없음 (초록 전용, 로컬 파일 없음)
+    #   pubmed-text      → text_path / text_filename
+    #   external         → pdf_path / pdf_filename
     required = list(REQUIRED_FIELDS)
-    if not is_synthesis:
+    if not is_synthesis and not is_abstract_only:
         required += TEXT_FIELDS if is_pubmed_text else PDF_FIELDS
 
     # Check required fields exist
@@ -145,8 +148,8 @@ def lint_file(path: str) -> list[str]:
     if conf and conf not in VALID_CONFIDENCE:
         errors.append(f"INVALID evidence_level '{conf}': {path}")
 
-    # 아티팩트 path/filename 쌍 검증 (synthesis 면제)
-    if not is_synthesis:
+    # 아티팩트 path/filename 쌍 검증 (synthesis·pubmed-abstract 면제)
+    if not is_synthesis and not is_abstract_only:
         path_field, name_field = (
             ("text_path", "text_filename") if is_pubmed_text else ("pdf_path", "pdf_filename")
         )
