@@ -141,3 +141,10 @@ Reading the 12 papers together gives a clean clinical hierarchy:
 - [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — vasoconstrictor concentration (1:80k vs 1:200k) hemodynamic safety; pairs with agent/epinephrine selection here.
 - [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] and [[drug-analgesics-postop-pain-overview]] — *post-op* pain (analgesics); this overview is *intra-op* anesthesia — the two halves of dental pain control.
 - [[drug-systemic-disease-dental-management-overview]] — systemic-disease constraints on vasoconstrictor/agent choice.
+
+## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[local-anesthesia/khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella]] — Umbrella review (4 SRs): ibuprofen >400mg premedication before IANB in irreversible pulpitis significantly raises success (de Geus +79 pp vs ~20% placebo), NSAIDs > acetaminophen — premedicate with ibuprofen >400mg
+
