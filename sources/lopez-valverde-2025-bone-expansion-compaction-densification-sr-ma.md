@@ -12,7 +12,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-위키의 `implants/versah-protocols` 카테고리에 골밀도화(Osteodensification, OD) 프로토콜의 최신 SR+MA가 없었음. López-Valverde 2025는 골확장(Bone Expansion, BE)·골압축(Bone Compaction, BC)·골밀도화(OD) 세 기법을 좁은 치조골(Narrow Alveolar Ridge, NAR)에서 직접 비교한 최초의 SR+MA로, ISQ·골밀도(Bone Density, BD)·치조제 확장(Crest Expansion, CE) 세 지표를 동시 메타분석함.
+위키의 [[wiki/overviews/osseodensification-clinical-applications]] 카테고리에 골밀도화(Osteodensification, OD) 프로토콜의 최신 SR+MA가 없었음. López-Valverde 2025는 골확장(Bone Expansion, BE)·골압축(Bone Compaction, BC)·골밀도화(OD) 세 기법을 좁은 치조골(Narrow Alveolar Ridge, NAR)에서 직접 비교한 최초의 SR+MA로, ISQ·골밀도(Bone Density, BD)·치조제 확장(Crest Expansion, CE) 세 지표를 동시 메타분석함.
 
 ## One-line Summary
 SR+MA (10 studies, 2025) comparing bone expansion, compaction, and osteodensification in narrow ridges: osteodensification significantly outperformed bone expansion on BD (SMD −0.71, p=0.002), CE (SMD −1.12, p=0.04), and ISQ (SMD −8.88, p=0.0005).
