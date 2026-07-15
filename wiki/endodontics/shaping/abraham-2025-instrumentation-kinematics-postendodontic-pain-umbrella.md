@@ -6,7 +6,7 @@ date: 2025-06-14
 doi: 10.1016/j.jobcr.2025.06.008
 source: abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella.md
 category: [endodontics/shaping]
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella.txt
 text_filename: abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella.txt
 source_collection: pubmed-text

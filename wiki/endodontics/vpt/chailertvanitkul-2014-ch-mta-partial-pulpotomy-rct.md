@@ -6,7 +6,7 @@ date: 2013-12-03
 doi: 10.1111/iej.12225
 source: chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct.md
 category: [endodontics/vpt]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct.pdf
 pdf_filename: chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct.pdf
 source_collection: external

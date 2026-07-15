@@ -6,7 +6,7 @@ date: 2025-01-08
 doi: 10.1186/s12903-024-05349-5
 source: el-shishiny-2025-ntpp-primary-root-canal-disinfection.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/el-shishiny-2025-ntpp-primary-root-canal-disinfection.pdf
 pdf_filename: el-shishiny-2025-ntpp-primary-root-canal-disinfection.pdf
 source_collection: external

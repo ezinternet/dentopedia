@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: null
 source: mohammadi-2019-smear-layer-irrigants-review.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-2019-smear-layer-irrigants-review.pdf
 pdf_filename: mohammadi-2019-smear-layer-irrigants-review.pdf
 source_collection: external

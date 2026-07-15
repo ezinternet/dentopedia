@@ -6,7 +6,7 @@ date: 2021-05-08
 doi: 10.1186/s12903-021-01596-y
 source: brea-2021-cbct-cshaped-mandibular-premolars.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/brea-2021-cbct-cshaped-mandibular-premolars.pdf
 pdf_filename: brea-2021-cbct-cshaped-mandibular-premolars.pdf
 source_collection: external

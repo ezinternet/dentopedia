@@ -6,7 +6,7 @@ date: 2025-07-06
 doi: 10.7759/cureus.87369
 source: swaminathan-2025-rotary-instrumentation-primary-teeth-cleaning-pain-umbrella.md
 category: [endodontics/shaping]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "40772175"

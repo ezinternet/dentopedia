@@ -6,7 +6,7 @@ date: 2021-08-19
 doi: "10.3390/medicina57080840"
 source: dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.md
 category: [endodontics/diagnosis]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.pdf
 pdf_filename: dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.pdf
 source_collection: external

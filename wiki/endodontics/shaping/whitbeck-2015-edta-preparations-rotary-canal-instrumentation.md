@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: ""
 source: whitbeck-2015-edta-preparations-rotary-canal-instrumentation.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/whitbeck-2015-edta-preparations-rotary-canal-instrumentation.pdf
 pdf_filename: whitbeck-2015-edta-preparations-rotary-canal-instrumentation.pdf
 source_collection: external

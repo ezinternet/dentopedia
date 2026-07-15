@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.22037/iej.v19i4.46292
 source: asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.md
 category: [endodontics/regenerative]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.txt
 text_filename: asgary-2024-immature-teeth-pulp-necrosis-management-umbrella.txt
 source_collection: pubmed-text

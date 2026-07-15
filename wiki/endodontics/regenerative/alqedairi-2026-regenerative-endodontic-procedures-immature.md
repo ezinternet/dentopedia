@@ -6,7 +6,7 @@ date: 2026-05-24
 doi: 10.7759/cureus.109575
 source: alqedairi-2026-regenerative-endodontic-procedures-immature.md
 category: [endodontics/regenerative]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42359182"

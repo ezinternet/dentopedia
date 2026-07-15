@@ -6,7 +6,7 @@ date: 2024-05-23
 doi: 10.22037/iej.v19i3.45605
 source: asgary-2024-apical-periodontitis-vital-nonvital.md
 category: endodontics/diagnosis
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/asgary-2024-apical-periodontitis-vital-nonvital.pdf
 pdf_filename: asgary-2024-apical-periodontitis-vital-nonvital.pdf
 source_collection: external

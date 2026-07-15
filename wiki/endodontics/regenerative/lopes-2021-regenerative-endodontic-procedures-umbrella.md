@@ -6,7 +6,7 @@ date: 2021-01-17
 doi: 10.3390/ijerph18020754
 source: lopes-2021-regenerative-endodontic-procedures-umbrella.md
 category: [endodontics/regenerative]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/lopes-2021-regenerative-endodontic-procedures-umbrella.txt
 text_filename: lopes-2021-regenerative-endodontic-procedures-umbrella.txt
 source_collection: pubmed-text

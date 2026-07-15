@@ -6,7 +6,7 @@ date: 2017-07-01
 doi: 10.1590/1678-7757-2016-0424
 source: yamamoto-silva-2017-chondroblastic-osteosarcoma-mimicking-periapical-abscess.md
 category: [endodontics/diagnosis]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/yamamoto-silva-2017-chondroblastic-osteosarcoma-mimicking-periapical-abscess.pdf
 pdf_filename: yamamoto-silva-2017-chondroblastic-osteosarcoma-mimicking-periapical-abscess.pdf
 source_collection: external

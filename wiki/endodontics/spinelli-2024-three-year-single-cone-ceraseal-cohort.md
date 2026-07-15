@@ -6,7 +6,7 @@ date: 2024-12-01
 doi: 10.14744/eej.2024.75537
 source: spinelli-2024-three-year-single-cone-ceraseal-cohort.md
 category: [endodontics]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "39704630"

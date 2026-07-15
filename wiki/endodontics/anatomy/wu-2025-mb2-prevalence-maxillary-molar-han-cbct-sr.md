@@ -6,7 +6,7 @@ date: 2025-09-22
 doi: 10.1016/j.jds.2025.09.008
 source: wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr.pdf
 pdf_filename: wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr.pdf
 source_collection: external

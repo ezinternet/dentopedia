@@ -6,7 +6,7 @@ date: 2026-06-19
 doi: 10.3390/jcm15124775
 source: zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella.md
 category: [endodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella.txt
 text_filename: zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella.txt
 source_collection: pubmed-text

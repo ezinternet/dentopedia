@@ -6,7 +6,7 @@ date: 2020-07-14
 doi: "10.14744/eej.2020.42714"
 source: karamifar-2020-endodontic-periapical-lesion-an-overview.md
 category: endodontics/diagnosis
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/karamifar-2020-endodontic-periapical-lesion-an-overview.pdf
 pdf_filename: karamifar-2020-endodontic-periapical-lesion-an-overview.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-02-08
 doi: 10.3389/fdmed.2021.767226
 source: zhou-2022-regenerative-endodontic-immature-teeth-trauma.md
 category: [endodontics/regenerative]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2022-regenerative-endodontic-immature-teeth-trauma.pdf
 pdf_filename: zhou-2022-regenerative-endodontic-immature-teeth-trauma.pdf
 source_collection: external

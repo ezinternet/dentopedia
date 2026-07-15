@@ -6,7 +6,7 @@ date: 2025-09-11
 doi: 10.1007/s00784-025-06487-y
 source: abada-2025-obturation-techniques-post-obturation-pain-rct.md
 category: [endodontics]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40931202"

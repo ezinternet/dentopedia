@@ -6,7 +6,7 @@ date: 2026-05-11
 doi: 10.1007/s00784-026-06900-0
 source: zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo.md
 category: [endodontics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42113044"

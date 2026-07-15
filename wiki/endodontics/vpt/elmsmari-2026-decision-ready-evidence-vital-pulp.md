@@ -6,7 +6,7 @@ date: 2026-04-20
 doi: 10.3389/fdmed.2026.1780755
 source: elmsmari-2026-decision-ready-evidence-vital-pulp.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/elmsmari-2026-decision-ready-evidence-vital-pulp.pdf
 pdf_filename: elmsmari-2026-decision-ready-evidence-vital-pulp.pdf
 source_collection: external

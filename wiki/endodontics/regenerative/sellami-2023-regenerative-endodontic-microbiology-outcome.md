@@ -6,7 +6,7 @@ date: 2023-11-14
 doi: 10.3389/fdmed.2023.1281337
 source: sellami-2023-regenerative-endodontic-microbiology-outcome.md
 category: [endodontics/regenerative]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sellami-2023-regenerative-endodontic-microbiology-outcome.pdf
 pdf_filename: sellami-2023-regenerative-endodontic-microbiology-outcome.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2018-04-01
 doi: 10.22037/iej.v13i2.16564
 source: bello-2018-mb2-detection-loupe-microscope-cbct.md
 category: [endodontics/anatomy]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/bello-2018-mb2-detection-loupe-microscope-cbct.pdf
 pdf_filename: bello-2018-mb2-detection-loupe-microscope-cbct.pdf
 source_collection: external

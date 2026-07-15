@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: N/A
 source: aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.md
 category: [endodontics/vpt]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.pdf
 pdf_filename: aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.pdf
 source_collection: external

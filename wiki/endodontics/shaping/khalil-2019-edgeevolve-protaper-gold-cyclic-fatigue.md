@@ -6,7 +6,7 @@ date: 2019-05-01
 doi: 10.5395/rde.2019.44.e19
 source: khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue.pdf
 pdf_filename: khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue.pdf
 source_collection: external

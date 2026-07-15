@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: unknown
 journal: Korean Journal of Conservative Dentistry (보존과학회지)
 source: ahn-2016-survey-working-length-determination.md
-confidence: cross-sectional
+evidence_level: cross-sectional
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahn-2016-survey-working-length-determination.pdf
 pdf_filename: ahn-2016-survey-working-length-determination.pdf

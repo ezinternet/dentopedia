@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.22037/iej.v18i3.42560
 source: pinto-2023-apical-periodontitis-chronic-disease-association-umbrella.md
 category: [endodontics]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/pinto-2023-apical-periodontitis-chronic-disease-association-umbrella.txt
 text_filename: pinto-2023-apical-periodontitis-chronic-disease-association-umbrella.txt
 source_collection: pubmed-text

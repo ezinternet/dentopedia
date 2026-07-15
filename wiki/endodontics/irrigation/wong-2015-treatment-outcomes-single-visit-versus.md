@@ -6,7 +6,7 @@ date: 2015-12-22
 doi: 10.1186/s12903-015-0148-x
 source: wong-2015-treatment-outcomes-single-visit-versus.md
 category: [endodontics/irrigation]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/wong-2015-treatment-outcomes-single-visit-versus.pdf
 pdf_filename: wong-2015-treatment-outcomes-single-visit-versus.pdf
 source_collection: external

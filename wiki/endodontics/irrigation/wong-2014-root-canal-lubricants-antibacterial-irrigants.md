@@ -6,7 +6,7 @@ date: 2014-09-16
 doi: "10.1111/aej.12075"
 source: wong-2014-root-canal-lubricants-antibacterial-irrigants.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/wong-2014-root-canal-lubricants-antibacterial-irrigants.pdf
 pdf_filename: wong-2014-root-canal-lubricants-antibacterial-irrigants.pdf
 source_collection: external

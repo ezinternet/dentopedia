@@ -6,7 +6,7 @@ date: 2024-07-26
 doi: "10.12998/wjcc.v12.i21.4460"
 source: khoury-2024-endodontic-irrigants-comprehensive-perspective-review.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/khoury-2024-endodontic-irrigants-comprehensive-perspective-review.pdf
 pdf_filename: khoury-2024-endodontic-irrigants-comprehensive-perspective-review.pdf
 source_collection: external

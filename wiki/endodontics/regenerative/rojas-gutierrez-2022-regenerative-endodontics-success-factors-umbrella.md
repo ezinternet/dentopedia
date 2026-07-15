@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.22037/iej.v17i3.32703
 source: rojas-gutierrez-2022-regenerative-endodontics-success-factors-umbrella.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/rojas-gutierrez-2022-regenerative-endodontics-success-factors-umbrella.txt
 text_filename: rojas-gutierrez-2022-regenerative-endodontics-success-factors-umbrella.txt
 source_collection: pubmed-text

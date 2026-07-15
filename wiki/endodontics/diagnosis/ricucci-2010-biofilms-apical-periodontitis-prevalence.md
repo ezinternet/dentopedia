@@ -6,7 +6,7 @@ date: 2010-08-01
 doi: 10.1016/j.joen.2010.04.007
 source: ricucci-2010-biofilms-apical-periodontitis-prevalence.md
 category: [endodontics/diagnosis]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/ricucci-2010-biofilms-apical-periodontitis-prevalence.pdf
 pdf_filename: ricucci-2010-biofilms-apical-periodontitis-prevalence.pdf
 source_collection: external

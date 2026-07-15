@@ -6,7 +6,7 @@ date: 2026-05-06
 doi: 10.1186/s12903-026-08519-9
 source: cao-2026-diode-laser-pulpotomy-sr-ma.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cao-2026-diode-laser-pulpotomy-sr-ma.pdf
 pdf_filename: cao-2026-diode-laser-pulpotomy-sr-ma.pdf
 source_collection: external

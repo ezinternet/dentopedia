@@ -6,7 +6,7 @@ date: 2014-07-01
 doi: 10.4103/0972-0707.136437
 source: fernandes-2014-cshaped-root-canal-configuration-review.md
 category: [endodontics/anatomy]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/fernandes-2014-cshaped-root-canal-configuration-review.pdf
 pdf_filename: fernandes-2014-cshaped-root-canal-configuration-review.pdf
 source_collection: external

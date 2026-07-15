@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: "10.1111/iej.13762"
 source: donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.md
 category: endodontics/diagnosis
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.pdf
 pdf_filename: donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a.pdf
 source_collection: external

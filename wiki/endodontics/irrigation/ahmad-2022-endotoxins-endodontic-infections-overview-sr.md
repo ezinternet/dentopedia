@@ -6,7 +6,7 @@ date: 2022-12-08
 doi: 10.1038/s41432-022-0826-x
 source: ahmad-2022-endotoxins-endodontic-infections-overview-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahmad-2022-endotoxins-endodontic-infections-overview-sr.pdf
 pdf_filename: ahmad-2022-endotoxins-endodontic-infections-overview-sr.pdf
 source_collection: external

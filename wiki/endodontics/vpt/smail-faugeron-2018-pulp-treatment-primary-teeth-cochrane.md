@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1002/14651858.CD003220.pub3
 source: smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane.pdf
 pdf_filename: smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane.pdf
 source_collection: external

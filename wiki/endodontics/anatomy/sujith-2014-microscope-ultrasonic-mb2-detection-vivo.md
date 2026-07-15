@@ -6,7 +6,7 @@ date: 2014-12-01
 doi: 10.4103/2231-0762.144593
 journal: Journal of International Society of Preventive and Community Dentistry 4(Suppl 3):S209-S213
 source: sujith-2014-microscope-ultrasonic-mb2-detection-vivo.md
-confidence: in-vivo
+evidence_level: in-vivo
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sujith-2014-microscope-ultrasonic-mb2-detection-vivo.pdf
 pdf_filename: sujith-2014-microscope-ultrasonic-mb2-detection-vivo.pdf

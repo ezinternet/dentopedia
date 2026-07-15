@@ -7,7 +7,7 @@ doi: 10.1016/j.jdent.2026.106637
 pmid: "41856391"
 source: vertucci-2026-single-vs-multiple-visit-endodontics-umbrella.md
 category: [endodontics/visit-protocol]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella.txt

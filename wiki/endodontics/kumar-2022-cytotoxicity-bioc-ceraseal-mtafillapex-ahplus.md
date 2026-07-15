@@ -6,7 +6,7 @@ date: 2022-12-08
 doi: 10.4103/jcd.jcd_320_22
 source: kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "36908731"

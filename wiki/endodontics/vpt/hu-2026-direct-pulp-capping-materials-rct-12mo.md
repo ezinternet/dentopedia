@@ -8,7 +8,7 @@ pmid: "42188992"
 pmcid: "PMC13239863"
 source: hu-2026-direct-pulp-capping-materials-rct-12mo.md
 category: endodontics/vpt
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/hu-2026-direct-pulp-capping-materials-rct-12mo.txt

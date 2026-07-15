@@ -6,7 +6,7 @@ date: 2020-09-01
 doi: null
 source: aflaki-2020-glide-path-pathfile-scoutrace-cbct.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aflaki-2020-glide-path-pathfile-scoutrace-cbct.pdf
 pdf_filename: aflaki-2020-glide-path-pathfile-scoutrace-cbct.pdf
 source_collection: external

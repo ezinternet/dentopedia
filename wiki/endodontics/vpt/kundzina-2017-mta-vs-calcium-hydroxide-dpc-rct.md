@@ -6,7 +6,7 @@ date: 2016-11-07
 doi: 10.1111/iej.12719
 source: kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.md
 category: [endodontics/vpt]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.pdf
 pdf_filename: kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct.pdf
 source_collection: external

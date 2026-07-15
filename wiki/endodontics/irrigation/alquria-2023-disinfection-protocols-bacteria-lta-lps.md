@@ -6,7 +6,7 @@ date: 2023-01-21
 doi: 10.1038/s41598-022-26855-y
 source: alquria-2023-disinfection-protocols-bacteria-lta-lps.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/alquria-2023-disinfection-protocols-bacteria-lta-lps.pdf
 pdf_filename: alquria-2023-disinfection-protocols-bacteria-lta-lps.pdf
 source_collection: external

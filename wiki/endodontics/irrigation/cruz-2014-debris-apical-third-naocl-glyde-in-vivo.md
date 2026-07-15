@@ -6,7 +6,7 @@ date: 2014-09-01
 doi: ""
 source: cruz-2014-debris-apical-third-naocl-glyde-in-vivo.md
 category: [endodontics/irrigation]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/cruz-2014-debris-apical-third-naocl-glyde-in-vivo.pdf
 pdf_filename: cruz-2014-debris-apical-third-naocl-glyde-in-vivo.pdf
 source_collection: external

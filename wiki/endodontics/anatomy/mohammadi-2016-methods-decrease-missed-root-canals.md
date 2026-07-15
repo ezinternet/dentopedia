@@ -6,7 +6,7 @@ date: 2016-05-24
 doi: 10.7508/iej.2016.03.012
 journal: Iranian Endodontic Journal 11(3):208-213
 source: mohammadi-2016-methods-decrease-missed-root-canals.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-2016-methods-decrease-missed-root-canals.pdf
 pdf_filename: mohammadi-2016-methods-decrease-missed-root-canals.pdf

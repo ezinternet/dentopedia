@@ -6,7 +6,7 @@ date: 2025-04-11
 doi: "10.1186/s12903-025-05845-2"
 source: abubakr-2025-histological-immunohistochemical-analysis-periapical-lesions.md
 category: [endodontics/diagnosis]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "40217194"

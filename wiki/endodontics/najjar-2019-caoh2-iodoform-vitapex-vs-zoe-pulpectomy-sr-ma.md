@@ -6,7 +6,7 @@ date: 2019-06-01
 doi: 10.1002/cre2.173
 source: najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma.md
 category: [endodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "31249711"

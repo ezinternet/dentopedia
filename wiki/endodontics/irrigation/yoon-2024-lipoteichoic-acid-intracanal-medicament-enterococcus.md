@@ -6,7 +6,7 @@ date: 2024-09-30
 doi: 10.1007/s12275-024-00165-6
 source: yoon-2024-lipoteichoic-acid-intracanal-medicament-enterococcus.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yoon-2024-lipoteichoic-acid-intracanal-medicament-enterococcus.pdf
 pdf_filename: yoon-2024-lipoteichoic-acid-intracanal-medicament-enterococcus.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-05-01
 doi: "10.1111/iej.13731"
 source: ordinola-zapata-2022-intracanal-medicaments-status-directions.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ordinola-zapata-2022-intracanal-medicaments-status-directions.pdf
 pdf_filename: ordinola-zapata-2022-intracanal-medicaments-status-directions.pdf
 source_collection: external

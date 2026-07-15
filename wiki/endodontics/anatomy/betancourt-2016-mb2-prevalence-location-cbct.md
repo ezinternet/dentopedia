@@ -6,7 +6,7 @@ date: 2016-04-19
 doi: 10.1186/s12903-016-0168-1
 source: betancourt-2016-mb2-prevalence-location-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/betancourt-2016-mb2-prevalence-location-cbct.pdf
 pdf_filename: betancourt-2016-mb2-prevalence-location-cbct.pdf
 source_collection: external

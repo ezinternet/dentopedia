@@ -6,7 +6,7 @@ date: 2021-08-17
 doi: 10.14744/eej.2021.30602
 source: pui-yii-2021-glide-path-apical-bacteria-extrusion.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/pui-yii-2021-glide-path-apical-bacteria-extrusion.pdf
 pdf_filename: pui-yii-2021-glide-path-apical-bacteria-extrusion.pdf
 source_collection: external

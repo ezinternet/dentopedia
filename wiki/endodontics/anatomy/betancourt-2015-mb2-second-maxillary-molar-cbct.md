@@ -6,7 +6,7 @@ date: 2015-06-30
 doi: null
 source: betancourt-2015-mb2-second-maxillary-molar-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/betancourt-2015-mb2-second-maxillary-molar-cbct.pdf
 pdf_filename: betancourt-2015-mb2-second-maxillary-molar-cbct.pdf
 source_collection: external

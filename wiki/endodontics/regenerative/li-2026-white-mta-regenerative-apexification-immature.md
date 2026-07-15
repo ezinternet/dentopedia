@@ -6,7 +6,7 @@ date: 2026-05-20
 doi: 10.1016/j.identj.2026.109611
 source: li-2026-white-mta-regenerative-apexification-immature.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "42160814"

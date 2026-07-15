@@ -6,7 +6,7 @@ date: 2025-03-23
 doi: "10.1111/jerd.13460"
 source: marques-2025-irrigation-protocols-coronal-dentin-composition.md
 category: [endodontics/irrigation]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40123171"

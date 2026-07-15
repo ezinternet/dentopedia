@@ -6,7 +6,7 @@ date: 2023-03-16
 doi: 10.1080/26415275.2023.2193214
 source: kumar-2023-cap-plasma-jet-root-canal-disinfection.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2023-cap-plasma-jet-root-canal-disinfection.pdf
 pdf_filename: kumar-2023-cap-plasma-jet-root-canal-disinfection.pdf
 source_collection: external

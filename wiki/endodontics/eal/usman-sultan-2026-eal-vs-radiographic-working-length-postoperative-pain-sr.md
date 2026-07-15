@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s44445-026-00158-8
 source: usman-sultan-2026-eal-vs-radiographic-working-length-postoperative-pain-sr.md
 category: [endodontics/eal]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42101759"

@@ -6,7 +6,7 @@ date: 2024-09-07
 doi: 10.7759/cureus.68853
 source: puri-2024-guided-endodontics-treatment-success-umbrella.md
 category: [endodontics/anatomy]
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/puri-2024-guided-endodontics-treatment-success-umbrella.txt
 text_filename: puri-2024-guided-endodontics-treatment-success-umbrella.txt
 source_collection: pubmed-text

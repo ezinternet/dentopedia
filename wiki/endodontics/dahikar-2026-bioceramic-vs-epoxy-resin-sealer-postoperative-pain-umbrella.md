@@ -6,7 +6,7 @@ date: 2026-01-16
 doi: 10.3389/fdmed.2025.1749298
 source: dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella.md
 category: [endodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 text_path: /Users/oracleneo/llm-wiki/papers/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella.txt
 text_filename: dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella.txt
 source_collection: pubmed-text

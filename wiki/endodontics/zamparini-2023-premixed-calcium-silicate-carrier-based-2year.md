@@ -6,7 +6,7 @@ date: 2023-03-18
 doi: 10.3390/jfb14030164
 source: zamparini-2023-premixed-calcium-silicate-carrier-based-2year.md
 category: [endodontics]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36976088"

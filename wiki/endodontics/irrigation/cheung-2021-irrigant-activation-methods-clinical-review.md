@@ -6,7 +6,7 @@ date: 2021-02-01
 doi: 10.5395/rde.2021.46.e10
 journal: Restorative Dentistry and Endodontics 46(1):e10
 source: cheung-2021-irrigant-activation-methods-clinical-review.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [endodontics/irrigation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/cheung-2021-irrigant-activation-methods-clinical-review.pdf
 pdf_filename: cheung-2021-irrigant-activation-methods-clinical-review.pdf

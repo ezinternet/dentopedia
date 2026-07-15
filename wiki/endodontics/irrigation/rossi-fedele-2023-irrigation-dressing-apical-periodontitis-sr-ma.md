@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1111/iej.13777
 source: rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma.pdf
 pdf_filename: rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma.pdf
 source_collection: external

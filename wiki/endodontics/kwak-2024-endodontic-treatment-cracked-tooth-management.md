@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.22974/jkda.2024.62.1.005
 source: kwak-2024-endodontic-treatment-cracked-tooth-management.md
 category: [endodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwak-2024-endodontic-treatment-cracked-tooth-management.pdf
 pdf_filename: kwak-2024-endodontic-treatment-cracked-tooth-management.pdf
 source_collection: external

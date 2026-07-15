@@ -6,7 +6,7 @@ date: 2025-04-07
 doi: 10.1007/s10266-025-01075-8
 source: feng-2025-ultrasonic-activation-single-cone-filling-sr-ma.md
 category: [endodontics]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40193004"

@@ -6,7 +6,7 @@ date: 2022-05-04
 doi: 10.4317/jced.58792
 journal: Journal of Clinical and Experimental Dentistry 14(6):e471-e478
 source: camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar.md
-confidence: in-vivo
+evidence_level: in-vivo
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar.pdf
 pdf_filename: camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar.pdf

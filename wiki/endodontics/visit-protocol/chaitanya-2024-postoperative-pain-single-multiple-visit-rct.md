@@ -6,7 +6,7 @@ date: 2024-06-07
 doi: 10.4103/jpbs.jpbs_281_24
 source: chaitanya-2024-postoperative-pain-single-multiple-visit-rct.md
 category: [endodontics/visit-protocol]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/chaitanya-2024-postoperative-pain-single-multiple-visit-rct.pdf
 pdf_filename: chaitanya-2024-postoperative-pain-single-multiple-visit-rct.pdf
 source_collection: external

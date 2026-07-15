@@ -6,7 +6,7 @@ date: 2024-10-18
 doi: 10.3390/medicina60101709
 journal: Medicina 60(10):1709
 source: pisano-2024-eal-accuracy-modern-endodontics-umbrella.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pisano-2024-eal-accuracy-modern-endodontics-umbrella.pdf
 pdf_filename: pisano-2024-eal-accuracy-modern-endodontics-umbrella.pdf

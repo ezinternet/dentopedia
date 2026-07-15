@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: N/A
 source: aapd-2024-vital-pulp-therapy-primary-teeth-guideline.md
 category: [endodontics/vpt]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/aapd-2024-vital-pulp-therapy-primary-teeth-guideline.pdf
 pdf_filename: aapd-2024-vital-pulp-therapy-primary-teeth-guideline.pdf
 source_collection: external

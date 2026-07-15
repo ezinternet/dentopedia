@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.4103/ejd.ejd_54_18
 journal: European Journal of Dentistry 12(2):237-241
 source: mousavi-2018-apical-constriction-position-incisor-molar.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mousavi-2018-apical-constriction-position-incisor-molar.pdf
 pdf_filename: mousavi-2018-apical-constriction-position-incisor-molar.pdf

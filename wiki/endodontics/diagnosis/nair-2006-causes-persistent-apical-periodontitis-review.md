@@ -6,7 +6,7 @@ date: 2006-04-01
 doi: 10.1111/j.1365-2591.2006.01099.x
 source: nair-2006-causes-persistent-apical-periodontitis-review.md
 category: [endodontics/diagnosis]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/nair-2006-causes-persistent-apical-periodontitis-review.pdf
 pdf_filename: nair-2006-causes-persistent-apical-periodontitis-review.pdf
 source_collection: external

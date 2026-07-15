@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.1016/j.joen.2024.07.005
 source: artaza-2024-outcome-nonsurgical-root-canal-treatment.md
 category: [endodontics/irrigation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/artaza-2024-outcome-nonsurgical-root-canal-treatment.pdf
 pdf_filename: artaza-2024-outcome-nonsurgical-root-canal-treatment.pdf
 source_collection: external

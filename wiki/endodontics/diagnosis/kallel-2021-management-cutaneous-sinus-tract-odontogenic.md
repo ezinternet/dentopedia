@@ -6,7 +6,7 @@ date: 2021-10-09
 doi: 10.4103/jcd.jcd_56_21
 source: kallel-2021-management-cutaneous-sinus-tract-odontogenic.md
 category: endodontics/diagnosis
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/kallel-2021-management-cutaneous-sinus-tract-odontogenic.pdf
 pdf_filename: kallel-2021-management-cutaneous-sinus-tract-odontogenic.pdf
 source_collection: external

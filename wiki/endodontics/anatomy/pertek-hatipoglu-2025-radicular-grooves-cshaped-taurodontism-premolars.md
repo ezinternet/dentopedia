@@ -6,7 +6,7 @@ date: 2025-05-23
 doi: 10.1038/s41598-025-02666-9
 source: pertek-hatipoglu-2025-radicular-grooves-cshaped-taurodontism-premolars.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: true
 pmid: "40410308"

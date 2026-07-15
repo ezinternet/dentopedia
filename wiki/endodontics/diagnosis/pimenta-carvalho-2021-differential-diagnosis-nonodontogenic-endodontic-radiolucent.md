@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.22037/iej.v16i3.32572
 source: pimenta-carvalho-2021-differential-diagnosis-nonodontogenic-endodontic-radiolucent.md
 category: [endodontics/diagnosis]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "36704403"

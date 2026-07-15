@@ -6,7 +6,7 @@ date: 2022-05-01
 doi: "10.1111/iej.13739"
 source: boutsioukis-2022-irrigants-irrigation-methods-status-directions.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/boutsioukis-2022-irrigants-irrigation-methods-status-directions.pdf
 pdf_filename: boutsioukis-2022-irrigants-irrigation-methods-status-directions.pdf
 source_collection: external

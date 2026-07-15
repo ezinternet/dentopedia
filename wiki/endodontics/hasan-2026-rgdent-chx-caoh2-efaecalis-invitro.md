@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.1186/s12903-026-08268-9
 source: hasan-2026-rgdent-chx-caoh2-efaecalis-invitro.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41917933"

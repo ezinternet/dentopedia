@@ -6,7 +6,7 @@ date: 2020-06-25
 doi: 10.3390/jcm9061994
 source: llena-2020-outcome-root-canal-treatments-provided.md
 category: [endodontics/irrigation]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/llena-2020-outcome-root-canal-treatments-provided.pdf
 pdf_filename: llena-2020-outcome-root-canal-treatments-provided.pdf
 source_collection: external

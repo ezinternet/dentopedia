@@ -6,7 +6,7 @@ date: 2024-08-06
 doi: 10.3390/ijms25168566
 source: teles-2024-gutta-percha-points-mrsa-mssa-contamination.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "39201252"

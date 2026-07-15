@@ -6,7 +6,7 @@ date: 2020-11-01
 doi: 10.1016/j.joen.2020.07.030
 source: bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma.md
 category: [endodontics/irrigation]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma.pdf
 pdf_filename: bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma.pdf
 source_collection: external

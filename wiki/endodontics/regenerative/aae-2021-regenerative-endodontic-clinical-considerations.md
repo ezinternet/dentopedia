@@ -6,7 +6,7 @@ date: 2021-06-18
 doi: N/A
 source: aae-2021-regenerative-endodontic-clinical-considerations.md
 category: [endodontics/regenerative]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/aae-2021-regenerative-endodontic-clinical-considerations.pdf
 pdf_filename: aae-2021-regenerative-endodontic-clinical-considerations.pdf
 source_collection: external

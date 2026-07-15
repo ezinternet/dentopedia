@@ -6,7 +6,7 @@ date: 2022-07-05
 doi: 10.3390/jcm11133909
 source: panda-2022-regenerative-apexification-immature-teeth-sr-ma.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/panda-2022-regenerative-apexification-immature-teeth-sr-ma.pdf
 pdf_filename: panda-2022-regenerative-apexification-immature-teeth-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1038/s41405-020-00052-3
 journal: BDJ Open 6:22
 source: shacham-2020-eal-wide-apical-foramen-ex-vivo.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [endodontics/eal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shacham-2020-eal-wide-apical-foramen-ex-vivo.pdf
 pdf_filename: shacham-2020-eal-wide-apical-foramen-ex-vivo.pdf

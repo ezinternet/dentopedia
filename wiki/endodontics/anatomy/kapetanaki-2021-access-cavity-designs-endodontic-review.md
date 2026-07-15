@@ -6,7 +6,7 @@ date: 2021-08-06
 doi: 10.5395/rde.2021.46.e46
 source: kapetanaki-2021-access-cavity-designs-endodontic-review.md
 category: [endodontics/anatomy]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kapetanaki-2021-access-cavity-designs-endodontic-review.pdf
 pdf_filename: kapetanaki-2021-access-cavity-designs-endodontic-review.pdf
 source_collection: external

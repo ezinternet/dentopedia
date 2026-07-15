@@ -6,7 +6,7 @@ date: 2022-03-16
 doi: 10.1155/2022/4886993
 source: abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct.pdf
 pdf_filename: abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct.pdf
 source_collection: external

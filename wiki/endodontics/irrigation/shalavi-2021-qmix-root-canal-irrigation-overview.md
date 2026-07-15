@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: null
 source: shalavi-2021-qmix-root-canal-irrigation-overview.md
 category: [endodontics/irrigation]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/shalavi-2021-qmix-root-canal-irrigation-overview.pdf
 pdf_filename: shalavi-2021-qmix-root-canal-irrigation-overview.pdf
 source_collection: external

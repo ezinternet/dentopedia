@@ -6,7 +6,7 @@ date: 2024-08-08
 doi: 10.1038/s41598-024-69367-7
 source: komora-2024-comparison-bioactive-material-failure-rates.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/komora-2024-comparison-bioactive-material-failure-rates.pdf
 pdf_filename: komora-2024-comparison-bioactive-material-failure-rates.pdf
 source_collection: external

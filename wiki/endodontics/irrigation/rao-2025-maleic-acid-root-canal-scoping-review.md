@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.1186/s12903-025-07361-9"
 source: rao-2025-maleic-acid-root-canal-scoping-review.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rao-2025-maleic-acid-root-canal-scoping-review.pdf
 pdf_filename: rao-2025-maleic-acid-root-canal-scoping-review.pdf
 source_collection: external

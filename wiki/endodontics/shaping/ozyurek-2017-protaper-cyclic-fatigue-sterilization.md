@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: 10.5395/rde.2017.42.4.301
 source: ozyurek-2017-protaper-cyclic-fatigue-sterilization.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ozyurek-2017-protaper-cyclic-fatigue-sterilization.pdf
 pdf_filename: ozyurek-2017-protaper-cyclic-fatigue-sterilization.pdf
 source_collection: external

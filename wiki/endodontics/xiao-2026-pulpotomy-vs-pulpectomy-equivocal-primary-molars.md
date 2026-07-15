@@ -6,7 +6,7 @@ date: 2026-01-10
 doi: 10.1186/s12903-025-07635-2
 source: xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars.md
 category: [endodontics]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41514405"

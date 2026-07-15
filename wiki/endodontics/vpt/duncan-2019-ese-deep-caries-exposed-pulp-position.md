@@ -6,7 +6,7 @@ date: 2019-01-21
 doi: 10.1111/iej.13080
 source: duncan-2019-ese-deep-caries-exposed-pulp-position.md
 category: [endodontics/vpt]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/duncan-2019-ese-deep-caries-exposed-pulp-position.pdf
 pdf_filename: duncan-2019-ese-deep-caries-exposed-pulp-position.pdf
 source_collection: external

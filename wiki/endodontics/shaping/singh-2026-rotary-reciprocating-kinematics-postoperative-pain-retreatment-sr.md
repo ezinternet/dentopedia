@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.17245/jdapm.2026.26.051
 source: singh-2026-rotary-reciprocating-kinematics-postoperative-pain-retreatment-sr.md
 category: [endodontics/shaping]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "42266423"

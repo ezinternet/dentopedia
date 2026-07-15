@@ -6,7 +6,7 @@ date: 2025-12-18
 doi: 10.1016/j.jdsr.2025.12.001
 source: hatipoglu-2025-irrigation-activation-postoperative-pain-network-meta.md
 category: endodontics/irrigation
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41510144"

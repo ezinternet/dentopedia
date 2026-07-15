@@ -6,7 +6,7 @@ date: 2026-01-02
 doi: 10.1016/j.jdent.2026.106329
 source: chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "41485532"

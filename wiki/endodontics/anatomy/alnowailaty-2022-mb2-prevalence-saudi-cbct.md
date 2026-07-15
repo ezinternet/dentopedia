@@ -6,7 +6,7 @@ date: 2022-05-11
 doi: 10.7759/cureus.24900
 source: alnowailaty-2022-mb2-prevalence-saudi-cbct.md
 category: [endodontics/anatomy]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/alnowailaty-2022-mb2-prevalence-saudi-cbct.pdf
 pdf_filename: alnowailaty-2022-mb2-prevalence-saudi-cbct.pdf
 source_collection: external

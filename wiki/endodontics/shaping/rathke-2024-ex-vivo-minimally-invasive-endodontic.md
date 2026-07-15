@@ -6,7 +6,7 @@ date: 2024-06-08
 doi: "10.1038/s41598-024-63396-y"
 source: rathke-2024-ex-vivo-minimally-invasive-endodontic.md
 category: [endodontics/shaping]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "38851745"

@@ -6,7 +6,7 @@ date: 2025-03-08
 doi: 10.3390/jcm14061826
 source: shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40142636"

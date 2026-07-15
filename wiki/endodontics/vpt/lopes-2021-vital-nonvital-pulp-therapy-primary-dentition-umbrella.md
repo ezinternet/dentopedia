@@ -6,7 +6,7 @@ date: 2021-12-24
 doi: 10.3390/jcm11010085
 source: lopes-2021-vital-nonvital-pulp-therapy-primary-dentition-umbrella.md
 category: [endodontics/vpt]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/lopes-2021-vital-nonvital-pulp-therapy-primary-dentition-umbrella.txt
 text_filename: lopes-2021-vital-nonvital-pulp-therapy-primary-dentition-umbrella.txt

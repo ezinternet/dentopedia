@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1007/s44445-026-00179-3
 source: zarei-2026-final-irrigation-postoperative-pain-necrotic-molar-rct.md
 category: [endodontics/irrigation]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42118228"

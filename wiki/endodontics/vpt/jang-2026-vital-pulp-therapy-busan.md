@@ -6,7 +6,7 @@ date: 2026-04-12
 doi: unknown
 source: jang-2026-vital-pulp-therapy-busan.md
 category: [endodontics/vpt]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jang-2026-vital-pulp-therapy-busan.pdf
 pdf_filename: jang-2026-vital-pulp-therapy-busan.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-09-14
 doi: 10.1002/cre2.767
 source: fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma.pdf
 pdf_filename: fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma.pdf
 source_collection: external

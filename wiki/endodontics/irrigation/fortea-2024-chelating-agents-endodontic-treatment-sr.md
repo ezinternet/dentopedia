@@ -6,7 +6,7 @@ date: 2024-02-12
 doi: "10.4317/jced.60989"
 source: fortea-2024-chelating-agents-endodontic-treatment-sr.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/fortea-2024-chelating-agents-endodontic-treatment-sr.pdf
 pdf_filename: fortea-2024-chelating-agents-endodontic-treatment-sr.pdf
 source_collection: external

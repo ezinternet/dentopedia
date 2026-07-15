@@ -6,7 +6,7 @@ date: 2025-03-03
 doi: 10.4103/JCDE.JCDE_804_24
 source: raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection.md
 category: [endodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40256692"

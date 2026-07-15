@@ -6,7 +6,7 @@ date: 2015-08-01
 doi: "10.1016/j.joen.2014.12.005"
 source: li-2015-cold-plasma-efaecalis-biofilm-safety.md
 category: [endodontics/cold-plasma]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2015-cold-plasma-efaecalis-biofilm-safety.pdf
 pdf_filename: li-2015-cold-plasma-efaecalis-biofilm-safety.pdf
 source_collection: external

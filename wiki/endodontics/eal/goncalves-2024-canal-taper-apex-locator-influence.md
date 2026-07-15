@@ -6,7 +6,7 @@ date: 2024-02-12
 doi: 10.4317/jced.16.e733
 source: goncalves-2024-canal-taper-apex-locator-influence.md
 category: [endodontics/eal]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/goncalves-2024-canal-taper-apex-locator-influence.pdf
 pdf_filename: goncalves-2024-canal-taper-apex-locator-influence.pdf
 source_collection: external

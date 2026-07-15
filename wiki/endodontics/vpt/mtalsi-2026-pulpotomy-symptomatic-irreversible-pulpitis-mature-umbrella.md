@@ -6,7 +6,7 @@ date: 2026-03-07
 doi: 10.7759/cureus.104814
 source: mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella.md
 category: [endodontics/vpt]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella.txt
 text_filename: mtalsi-2026-pulpotomy-symptomatic-irreversible-pulpitis-mature-umbrella.txt
 source_collection: pubmed-text

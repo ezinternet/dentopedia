@@ -6,7 +6,7 @@ date: 2021-09-25
 doi: 10.1016/j.jdent.2021.103793
 source: nasiri-2021-apex-locator-generations-accuracy-sr-ma.md
 category: [endodontics/eal]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/nasiri-2021-apex-locator-generations-accuracy-sr-ma.pdf
 pdf_filename: nasiri-2021-apex-locator-generations-accuracy-sr-ma.pdf
 source_collection: external

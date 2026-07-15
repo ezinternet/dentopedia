@@ -5,7 +5,7 @@ year: 2017
 doi: ""
 date: 2017-01-01
 source: jo-2017-fundamentals-and-clinical-applications.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: [endodontics/anatomy]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2017-fundamentals-and-clinical-applications.pdf
 pdf_filename: jo-2017-fundamentals-and-clinical-applications.pdf

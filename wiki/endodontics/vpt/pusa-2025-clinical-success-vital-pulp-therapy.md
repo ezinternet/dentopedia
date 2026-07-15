@@ -6,7 +6,7 @@ date: 2025-06-15
 doi: 10.2334/josnusd.24-0452
 source: pusa-2025-clinical-success-vital-pulp-therapy.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pusa-2025-clinical-success-vital-pulp-therapy.pdf
 pdf_filename: pusa-2025-clinical-success-vital-pulp-therapy.pdf
 source_collection: external

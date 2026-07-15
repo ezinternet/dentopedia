@@ -6,7 +6,7 @@ date: 2015-08-01
 doi: 10.1016/j.joen.2015.04.004
 source: nowicka-2015-tomographic-reparative-dentin-pulp-capping.md
 category: [endodontics/vpt]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/nowicka-2015-tomographic-reparative-dentin-pulp-capping.pdf
 pdf_filename: nowicka-2015-tomographic-reparative-dentin-pulp-capping.pdf
 source_collection: external
