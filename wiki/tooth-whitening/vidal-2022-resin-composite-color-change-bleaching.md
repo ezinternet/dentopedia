@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.2341/20-234-LIT
 source: vidal-2022-resin-composite-color-change-bleaching.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "35029690"

@@ -6,7 +6,7 @@ date: 2021-10-01
 doi: 10.1016/j.joen.2021.10.011
 source: frank-2021-internal-bleaching-agents-efficacy.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "34762968"

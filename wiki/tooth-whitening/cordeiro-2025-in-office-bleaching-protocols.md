@@ -8,7 +8,7 @@ pmid: "40557560"
 pmcid: "PMC12457872"
 source: cordeiro-2025-in-office-bleaching-protocols.md
 category: [tooth-whitening]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/cordeiro-2025-in-office-bleaching-protocols.txt
 text_filename: cordeiro-2025-in-office-bleaching-protocols.txt

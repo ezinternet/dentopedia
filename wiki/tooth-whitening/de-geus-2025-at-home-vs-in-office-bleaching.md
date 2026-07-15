@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.2341/24-078-LIT
 source: de-geus-2025-at-home-vs-in-office-bleaching.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "40485133"

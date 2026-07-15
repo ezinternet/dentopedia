@@ -8,7 +8,7 @@ pmid: "41439497"
 pmcid: "PMC13069360"
 source: campolina-2025-ozonized-oil-at-home-bleaching.md
 category: [tooth-whitening]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/campolina-2025-ozonized-oil-at-home-bleaching.txt
 text_filename: campolina-2025-ozonized-oil-at-home-bleaching.txt

@@ -8,7 +8,7 @@ pmid: "41194058"
 pmcid: "PMC12746643"
 source: chu-2025-low-concentration-at-home-bleaching.md
 category: [tooth-whitening]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/chu-2025-low-concentration-at-home-bleaching.txt
 text_filename: chu-2025-low-concentration-at-home-bleaching.txt

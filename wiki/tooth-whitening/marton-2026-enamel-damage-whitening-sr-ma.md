@@ -7,7 +7,7 @@ doi: 10.1016/j.jdent.2026.106786
 pmid: "42176771"
 source: marton-2026-enamel-damage-whitening-sr-ma.md
 category: [tooth-whitening]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/marton-2026-enamel-damage-whitening-sr-ma.txt
 text_filename: marton-2026-enamel-damage-whitening-sr-ma.txt
