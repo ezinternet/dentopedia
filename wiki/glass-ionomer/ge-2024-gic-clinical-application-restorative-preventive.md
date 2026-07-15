@@ -6,7 +6,7 @@ date: 2024-07-27
 doi: "10.1016/j.jds.2024.07.021"
 source: ge-2024-gic-clinical-application-restorative-preventive.md
 category: glass-ionomer
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ge-2024-gic-clinical-application-restorative-preventive.pdf
 pdf_filename: ge-2024-gic-clinical-application-restorative-preventive.pdf
 source_collection: external

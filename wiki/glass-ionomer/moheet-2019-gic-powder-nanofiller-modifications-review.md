@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: "10.1055/s-0039-1693524"
 source: moheet-2019-gic-powder-nanofiller-modifications-review.md
 category: glass-ionomer
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/moheet-2019-gic-powder-nanofiller-modifications-review.pdf
 pdf_filename: moheet-2019-gic-powder-nanofiller-modifications-review.pdf
 source_collection: external

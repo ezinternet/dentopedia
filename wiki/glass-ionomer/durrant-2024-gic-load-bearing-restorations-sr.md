@@ -6,7 +6,7 @@ date: 2024-02-14
 doi: "10.12659/MSM.943489"
 source: durrant-2024-gic-load-bearing-restorations-sr.md
 category: glass-ionomer
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/durrant-2024-gic-load-bearing-restorations-sr.pdf
 pdf_filename: durrant-2024-gic-load-bearing-restorations-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2026-05-18
 doi: 10.1186/s12903-026-08509-x
 source: ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct.md
 category: [glass-ionomer]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "42152031"

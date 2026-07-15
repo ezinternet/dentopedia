@@ -6,7 +6,7 @@ date: 2024-02-19
 doi: "10.3390/jfb15020048"
 source: panetta-2024-gic-longevity-umbrella-review.md
 category: glass-ionomer
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38391901"
