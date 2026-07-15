@@ -110,10 +110,16 @@ The drilling-heat literature is usually presented as a flat catalogue — drill 
 ## Related Papers
 
 
-### 신규 ingest cluster (2026-07-15)
+### 신규 ingest cluster (2026-07-15 / 2026-07-15 peck-drilling)
 
 - [[implants/kosior-2025-comparative-analysis-histological-characteristics]] — In vitro histology (54 osteotomies, swine rib): 4°C saline highest bone-bed quality (15.3/16) vs no-cooling worst (5.5/16 at 1500rpm) — cool (4°C) irrigant is the dominant variable minimizing thermal bone damage
 
 - [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — five-technique histological comparison; drilling can match laser/piezo/OD when speed, cooling, and load are optimized (protocol > technique).
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill-material SR; material effect inconclusive, consistent with wear/design outranking material here.
 - [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — zirconia-vs-steel drill SR+MA; specific material-pair signal within the design/wear frame.
+
+### Peck drilling — technique × geometry interaction (2026-07-15)
+
+- [[implants/gehrke-2020-technique-drill-design-osteotomy]] — In vivo rabbit (n=48, Scientific Reports): peck interval explicitly defined as 0→3 mm / 0→5 mm / 0→8 mm. Intermittent movement significantly reduced ΔT for cylindrical drills only (6.91→4.30°C, p=0.001, −37%); conical drills showed no technique effect (p=0.977). Refines the Tier-3 peck-drilling guidance: conical drill geometry controls heat sufficiently on its own; peck drilling adds value mainly for cylindrical drills.
+
+- [[implants/di-fiore-2018-continuous-intermittent-drilling-temperature]] — In vitro bovine rib (n=80, JOI 2018, 2×2 factorial): continuous vs intermittent drilling showed no significant temperature difference at the same irrigation temperature (p=0.45); chilled saline (6.0°C) was the decisive factor regardless of technique (p=0.0001). Reinforces Tier-1 (irrigation temperature) over Tier-3 (peck technique) in the determinant ranking.
