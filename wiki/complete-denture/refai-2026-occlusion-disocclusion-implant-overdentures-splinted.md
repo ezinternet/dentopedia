@@ -6,7 +6,7 @@ date: 2026-06-22
 doi: 10.1186/s12903-026-08855-w
 source: refai-2026-occlusion-disocclusion-implant-overdentures-splinted.md
 category: [complete-denture]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 pmid: "42332660"
 pmcid: "PMC13289338"

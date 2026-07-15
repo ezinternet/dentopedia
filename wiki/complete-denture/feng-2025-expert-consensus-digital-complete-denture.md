@@ -6,7 +6,7 @@ date: 2025-07-30
 doi: 10.1038/s41368-025-00388-2
 source: feng-2025-expert-consensus-digital-complete-denture.md
 category: [complete-denture]
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
 pmid: "40739137"

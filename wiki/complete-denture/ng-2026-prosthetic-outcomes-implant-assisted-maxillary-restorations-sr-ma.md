@@ -6,7 +6,7 @@ date: 2026-03-02
 doi: 10.1111/clr.70116
 source: ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma.pdf
 pdf_filename: ng-2026-prosthetic-outcomes-implant-assisted-maxillary-restorations-sr-ma.pdf
 source_collection: external

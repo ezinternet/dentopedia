@@ -6,7 +6,7 @@ date: 2023-03-24
 doi: 10.3390/nu15071577
 source: yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "37049418"

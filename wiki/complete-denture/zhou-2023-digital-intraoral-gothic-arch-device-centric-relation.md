@@ -6,7 +6,7 @@ date: 2023-02-18
 doi: 10.19723/j.issn.1671-167X.2023.01.015
 source: zhou-2023-digital-intraoral-gothic-arch-device-centric-relation.md
 category: [complete-denture]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "36718696"

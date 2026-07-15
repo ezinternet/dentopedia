@@ -6,7 +6,7 @@ date: 2017-05-18
 doi: 10.1111/joor.12522
 source: alhajj-2017-occlusal-vertical-dimension-complete-denture-review.md
 category: [complete-denture]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alhajj-2017-occlusal-vertical-dimension-complete-denture-review.pdf
 pdf_filename: alhajj-2017-occlusal-vertical-dimension-complete-denture-review.pdf
 source_collection: external

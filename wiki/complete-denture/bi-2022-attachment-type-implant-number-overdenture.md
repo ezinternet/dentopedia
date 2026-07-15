@@ -6,7 +6,7 @@ date: 2021-09-30
 doi: 10.2186/jpr.JPR_D_21_00073
 source: bi-2022-attachment-type-implant-number-overdenture.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bi-2022-attachment-type-implant-number-overdenture.pdf
 pdf_filename: bi-2022-attachment-type-implant-number-overdenture.pdf
 source_collection: external

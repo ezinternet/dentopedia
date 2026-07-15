@@ -6,7 +6,7 @@ date: 2024-12-12
 doi: 10.1016/j.identj.2024.11.007
 source: khorasani-2024-3d-printed-vs-milled-complete.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/khorasani-2024-3d-printed-vs-milled-complete.pdf
 pdf_filename: khorasani-2024-3d-printed-vs-milled-complete.pdf
 source_collection: external

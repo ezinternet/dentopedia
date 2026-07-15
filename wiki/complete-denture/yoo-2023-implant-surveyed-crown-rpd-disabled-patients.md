@@ -6,7 +6,7 @@ date: 2023-07-07
 doi: 10.22974/jkda.2023.61.8.003
 source: yoo-2023-implant-surveyed-crown-rpd-disabled-patients.md
 category: [complete-denture]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yoo-2023-implant-surveyed-crown-rpd-disabled-patients.pdf
 pdf_filename: yoo-2023-implant-surveyed-crown-rpd-disabled-patients.pdf
 source_collection: external

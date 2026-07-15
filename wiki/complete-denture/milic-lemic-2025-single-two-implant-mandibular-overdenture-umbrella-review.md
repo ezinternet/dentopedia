@@ -6,7 +6,7 @@ date: 2025-03-26
 doi: 10.1111/joor.13962
 source: milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review.pdf
 pdf_filename: milic-lemic-2025-single-two-implant-mandibular-overdenture-umbrella-review.pdf
 source_collection: external

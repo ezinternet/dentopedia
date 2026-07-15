@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.6026/973206300222521
 source: singh-2026-nick-notch-intraoral-gothic-arch-jaw-relation.md
 category: [complete-denture]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "42282410"

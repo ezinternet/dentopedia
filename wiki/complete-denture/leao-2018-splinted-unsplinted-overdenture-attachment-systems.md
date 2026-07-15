@@ -6,7 +6,7 @@ date: 2018-08-01
 doi: 10.1111/joor.12651
 source: leao-2018-splinted-unsplinted-overdenture-attachment-systems.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/leao-2018-splinted-unsplinted-overdenture-attachment-systems.pdf
 pdf_filename: leao-2018-splinted-unsplinted-overdenture-attachment-systems.pdf
 source_collection: external

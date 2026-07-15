@@ -6,7 +6,7 @@ date: 2026-03-01
 doi: J Prosthet Dent 2026;135(3):528-538
 source: goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.pdf
 pdf_filename: goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma.pdf
 source_collection: external

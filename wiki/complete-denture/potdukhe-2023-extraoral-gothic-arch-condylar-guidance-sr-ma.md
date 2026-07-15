@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: 10.4103/jips.jips_216_23
 source: potdukhe-2023-extraoral-gothic-arch-condylar-guidance-sr-ma.md
 category: complete-denture
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "37861609"

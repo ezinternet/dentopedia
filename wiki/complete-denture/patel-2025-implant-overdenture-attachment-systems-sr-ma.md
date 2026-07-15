@@ -6,7 +6,7 @@ date: 2025-05-10
 doi: 10.7759/cureus.83838
 source: patel-2025-implant-overdenture-attachment-systems-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2025-implant-overdenture-attachment-systems-sr-ma.pdf
 pdf_filename: patel-2025-implant-overdenture-attachment-systems-sr-ma.pdf
 source_collection: external

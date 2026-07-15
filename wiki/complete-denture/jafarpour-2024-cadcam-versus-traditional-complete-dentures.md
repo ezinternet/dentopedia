@@ -6,7 +6,7 @@ date: 2024-05-04
 doi: 10.1111/joor.13738
 source: jafarpour-2024-cadcam-versus-traditional-complete-dentures.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jafarpour-2024-cadcam-versus-traditional-complete-dentures.pdf
 pdf_filename: jafarpour-2024-cadcam-versus-traditional-complete-dentures.pdf
 source_collection: external

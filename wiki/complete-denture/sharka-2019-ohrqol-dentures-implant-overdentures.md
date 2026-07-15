@@ -6,7 +6,7 @@ date: 2019-03-15
 doi: 10.1111/ger.12399
 source: sharka-2019-ohrqol-dentures-implant-overdentures.md
 category: [complete-denture]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 pmid: "30875108"

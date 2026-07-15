@@ -6,7 +6,7 @@ date: 2025-10-06
 doi: 10.7759/cureus.93987
 source: fayad-2025-vertical-dimension-determination-prosthodontics-review.md
 category: [complete-denture]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/fayad-2025-vertical-dimension-determination-prosthodontics-review.pdf
 pdf_filename: fayad-2025-vertical-dimension-determination-prosthodontics-review.pdf
 source_collection: external

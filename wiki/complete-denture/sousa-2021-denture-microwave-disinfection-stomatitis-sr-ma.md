@@ -6,7 +6,7 @@ date: 2021-02-01
 doi: 10.1111/idh.12477
 source: sousa-2021-denture-microwave-disinfection-stomatitis-sr-ma.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sousa-2021-denture-microwave-disinfection-stomatitis-sr-ma.pdf
 pdf_filename: sousa-2021-denture-microwave-disinfection-stomatitis-sr-ma.pdf
 source_collection: external

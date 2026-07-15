@@ -6,7 +6,7 @@ date: 2024-10-01
 doi: 10.1016/j.prosdent.2024.01.033
 source: avelino-2024-clinical-performance-digitally-fabricated-complete.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/avelino-2024-clinical-performance-digitally-fabricated-complete.pdf
 pdf_filename: avelino-2024-clinical-performance-digitally-fabricated-complete.pdf
 source_collection: external

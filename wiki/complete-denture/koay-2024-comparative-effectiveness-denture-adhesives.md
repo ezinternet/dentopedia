@@ -6,7 +6,7 @@ date: 2024-01-06
 doi: 10.1007/s00784-023-05467-4
 source: koay-2024-comparative-effectiveness-denture-adhesives.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/koay-2024-comparative-effectiveness-denture-adhesives.pdf
 pdf_filename: koay-2024-comparative-effectiveness-denture-adhesives.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-08-01
 doi: 10.1016/j.prosdent.2022.07.013
 source: prasad-2024-attachment-systems-mandibular-implant.md
 category: [complete-denture]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/prasad-2024-attachment-systems-mandibular-implant.pdf
 pdf_filename: prasad-2024-attachment-systems-mandibular-implant.pdf
 source_collection: external
