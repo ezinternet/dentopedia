@@ -88,32 +88,63 @@ COSMETIC_SUBJECT_RE = re.compile(
 )
 
 
-def git_date(relpath: str, skip_cosmetic: bool = False):
-    """파일의 마지막 커밋 날짜(YYYY-MM-DD). 추적 안 됨/git 실패 시 None.
+def build_git_log_cache(path_glob: str) -> dict:
+    """git log 한 번으로 path_glob 하위 모든 파일의 커밋 이력을 수집.
 
-    skip_cosmetic=True면 cosmetic 커밋(요약 재포맷·cross-link·relations 배선 등)을 건너뛰고
-    마지막 '실질' 변경일을 돌려준다 — 대량 포맷팅 커밋이 근거를 도구보다 새것으로
-    보이게 하는 오탐지를 막기 위함. 근거(source_wiki) 날짜 계산에만 적용한다.
+    반환: {relpath: [(date_str, subject), ...]}  — newest-first 순서.
+    파일마다 git log를 개별 호출하면 파일 수 × timeout 만큼 걸리는 문제를 해결.
     """
     try:
         out = subprocess.run(
-            ["git", "log", "--format=%cd%x00%s", "--date=short", "--", relpath],
-            cwd=ROOT, capture_output=True, text=True, timeout=30, check=True,
-        ).stdout.strip()
-    except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError):
-        return None
-    entries = [line.split("\x00", 1) for line in out.splitlines() if "\x00" in line]
+            [
+                "git", "log",
+                "--format=%cd%x00%s%x00%x01",  # date \0 subject \0 \1 (레코드 구분자)
+                "--date=short",
+                "--name-only",
+                "--", path_glob,
+            ],
+            cwd=ROOT, capture_output=True, text=True, timeout=120,
+        ).stdout
+    except Exception:
+        return {}
+
+    cache: dict[str, list] = {}
+    current_date = None
+    current_subject = None
+    for line in out.splitlines():
+        if "\x00" in line:
+            # 헤더 라인: "date\0subject\0\1"
+            parts = line.split("\x00")
+            current_date = parts[0].strip()
+            current_subject = parts[1].strip() if len(parts) > 1 else ""
+        elif line.startswith("\x01") or not line.strip():
+            continue
+        elif current_date is not None:
+            # 파일 경로 라인
+            relpath = line.strip()
+            if relpath:
+                cache.setdefault(relpath, []).append((current_date, current_subject))
+    return cache
+
+
+def git_date_from_cache(cache: dict, relpath: str, skip_cosmetic: bool = False):
+    """캐시에서 파일의 마지막 커밋 날짜 반환. 없으면 None."""
+    entries = cache.get(relpath, [])
     if not entries:
         return None
     if not skip_cosmetic:
         return entries[0][0] or None
-    for d, subject in entries:  # newest → oldest
+    for d, subject in entries:
         if not COSMETIC_SUBJECT_RE.search(subject):
             return d or None
-    return entries[-1][0] or None  # 전부 cosmetic이면 생성(가장 오래된) 커밋일 사용
+    return entries[-1][0] or None
 
 
 def main():
+    # 두 번의 git log로 interactives/ 와 wiki/ 전체 이력을 한꺼번에 캐시
+    tool_cache = build_git_log_cache("interactives/*.html")
+    wiki_cache = build_git_log_cache("wiki/**/*.md")
+
     results = []
     for p in sorted(INTERACTIVES.glob("*.html")):
         if p.name in SKIP:
@@ -126,7 +157,7 @@ def main():
             results.append({"tool": p.name, "verdict": "NO_SOURCE", "detail": "source_wiki 비어있음"})
             continue
 
-        tool_date = git_date(f"interactives/{p.name}")
+        tool_date = git_date_from_cache(tool_cache, f"interactives/{p.name}")
         newer, broken = [], []
         for s in sources:
             s = s.strip()
@@ -136,7 +167,7 @@ def main():
             if not sp.exists():
                 broken.append(s)
                 continue
-            sd = git_date(s, skip_cosmetic=True)
+            sd = git_date_from_cache(wiki_cache, s, skip_cosmetic=True)
             if tool_date and sd and sd > tool_date:
                 newer.append({"src": s, "src_date": sd})
 
