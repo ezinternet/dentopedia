@@ -6,7 +6,7 @@ date: 2025-05-30
 doi: 10.4103/aam.aam_138_24
 source: jain-2025-avulsed-tooth-storage-media-pdl-viability.md
 category: [dental-trauma]
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/jain-2025-avulsed-tooth-storage-media-pdl-viability.txt
 text_filename: jain-2025-avulsed-tooth-storage-media-pdl-viability.txt
 source_collection: pubmed-text
