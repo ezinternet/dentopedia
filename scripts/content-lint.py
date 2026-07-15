@@ -124,7 +124,7 @@ def check_c(path: str, fields: dict, source_pmids: dict) -> list[str]:
     src = fields.get("source", "").strip()
     if not src or src.lower() in {"null"} | SOURCE_PLACEHOLDERS:
         return out  # synthesis/overview 등 source 없는 페이지는 면제
-    if fields.get("confidence", "").strip() == "synthesis":
+    if (fields.get("evidence_level") or fields.get("confidence", "")).strip() == "synthesis":
         return out  # 합성 페이지는 단일 source 없음
     src_path = os.path.join(SOURCES_DIR, src)
     if not os.path.isfile(src_path):
