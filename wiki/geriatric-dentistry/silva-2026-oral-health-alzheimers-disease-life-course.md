@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/scd.70179
 source: silva-2026-oral-health-alzheimers-disease-life-course.md
 category: [geriatric-dentistry]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "42093338"

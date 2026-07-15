@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106071
 source: kumar-2025-nutritional-status-dry-mouth-older-adults.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2025-nutritional-status-dry-mouth-older-adults.pdf
 pdf_filename: kumar-2025-nutritional-status-dry-mouth-older-adults.pdf
 source_collection: external

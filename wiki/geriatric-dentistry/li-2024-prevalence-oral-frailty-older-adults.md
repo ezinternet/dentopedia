@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1007/s41999-023-00930-7
 source: li-2024-prevalence-oral-frailty-older-adults.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2024-prevalence-oral-frailty-older-adults.pdf
 pdf_filename: li-2024-prevalence-oral-frailty-older-adults.pdf
 source_collection: external

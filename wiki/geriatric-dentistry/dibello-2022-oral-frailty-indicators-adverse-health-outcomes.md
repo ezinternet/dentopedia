@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1007/s11357-022-00663-8
 source: dibello-2022-oral-frailty-indicators-adverse-health-outcomes.md
 category: [geriatric-dentistry]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/dibello-2022-oral-frailty-indicators-adverse-health-outcomes.pdf
 pdf_filename: dibello-2022-oral-frailty-indicators-adverse-health-outcomes.pdf
 source_collection: external

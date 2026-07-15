@@ -6,7 +6,7 @@ date: 2018-05-08
 doi: 10.1136/bmj.k1651
 source: celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer.md
 category: [geriatric-dentistry]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer.pdf
 pdf_filename: celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.1016/j.jdent.2022.104273
 source: chan-2022-professionally-applied-fluoride-older-adults.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chan-2022-professionally-applied-fluoride-older-adults.pdf
 pdf_filename: chan-2022-professionally-applied-fluoride-older-adults.pdf
 source_collection: external

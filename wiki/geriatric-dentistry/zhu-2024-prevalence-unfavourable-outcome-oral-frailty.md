@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.3389/fpubh.2024.1501793
 source: zhu-2024-prevalence-unfavourable-outcome-oral-frailty.md
 category: [geriatric-dentistry]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhu-2024-prevalence-unfavourable-outcome-oral-frailty.pdf
 pdf_filename: zhu-2024-prevalence-unfavourable-outcome-oral-frailty.pdf
 source_collection: external
