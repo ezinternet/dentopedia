@@ -77,6 +77,12 @@ COSMETIC_SUBJECT_RE = re.compile(
     r"|cross-link"
     r"|\bwire\b.*(reinforces|contradicts|refines|extends|applies-to|relation)"
     r"|add relations edge"
+    # frontmatter-only 기계 작업 — tags:/confidence: 필드만 바꿈, 본문 임상 수치 무변화.
+    # (2026-07-14 repo-wide 태그 마이그레이션 커밋들이 도구 18개를 가짜 STALE로 밀어 추가)
+    r"|mechanical migration"
+    r"|\btag scheme\b|\btag brackets?\b|confidence-tag"
+    r"|de-inflate|(audit \+ )?de-inflate legacy confidence tags"
+    r"|legacy [\w/ +-]*\btags?\b"
     r"|recategorize|\bdedup\b|\breorg\b)",
     re.IGNORECASE,
 )
