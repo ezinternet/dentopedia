@@ -6,7 +6,7 @@ date: 2022-10-18
 doi: "10.1016/j.heliyon.2022.e11074"
 source: lahdentausta-2022-aerosol-concentrations-size-distributions-clinical.md
 category: [dental-handpiece]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "36303931"

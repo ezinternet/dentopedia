@@ -6,7 +6,7 @@ date: 2014-01-12
 doi: "10.7860/JCDR/2014/5916.3946"
 source: sharma-2014-selection-usage-disposal-dental-burs.md
 category: [dental-handpiece]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharma-2014-selection-usage-disposal-dental-burs.pdf
 pdf_filename: sharma-2014-selection-usage-disposal-dental-burs.pdf
 source_collection: external

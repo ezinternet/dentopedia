@@ -6,7 +6,7 @@ date: 2025-03-20
 doi: "10.1016/j.jdent.2025.105697"
 source: esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis.md
 category: [dental-handpiece]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis.pdf
 pdf_filename: esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis.pdf
 source_collection: external

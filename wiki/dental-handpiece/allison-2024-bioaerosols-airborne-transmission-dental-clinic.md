@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: "10.1016/j.identj.2024.09.026"
 source: allison-2024-bioaerosols-airborne-transmission-dental-clinic.md
 category: [dental-handpiece]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39515929"
