@@ -6,7 +6,7 @@ date: 2024-12-22
 doi: 10.1111/jerd.13388
 source: badawy-2025-enamel-wear-zirconia-endocrowns-2year.md
 category: [dental-materials/zirconia]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/badawy-2025-enamel-wear-zirconia-endocrowns-2year.pdf
 pdf_filename: badawy-2025-enamel-wear-zirconia-endocrowns-2year.pdf
 source_collection: external

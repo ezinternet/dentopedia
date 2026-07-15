@@ -6,7 +6,7 @@ date: 2021-07-01
 doi: 10.1016/j.dental.2021.03.008
 source: koenig-2021-ltd-monolithic-zirconia-prospective.md
 category: [dental-materials/zirconia]
-confidence: prospective
+evidence_level: prospective
 superseded_by: koenig-2024-ltd-monolithic-zirconia-5year-prospective
 superseded_scope: partial
 pdf_path: /Users/oracleneo/llm-wiki/papers/koenig-2021-ltd-monolithic-zirconia-prospective.pdf

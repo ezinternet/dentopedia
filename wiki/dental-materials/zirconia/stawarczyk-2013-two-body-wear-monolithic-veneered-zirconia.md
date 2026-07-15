@@ -6,7 +6,7 @@ date: 2012-02-27
 doi: 10.3109/00016357.2011.654248
 source: stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia.pdf
 pdf_filename: stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia.pdf
 source_collection: external

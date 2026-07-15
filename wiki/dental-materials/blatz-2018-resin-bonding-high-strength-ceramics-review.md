@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.1177/0022034517729134
 source: blatz-2018-resin-bonding-high-strength-ceramics-review.md
 category: [dental-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/blatz-2018-resin-bonding-high-strength-ceramics-review.pdf
 pdf_filename: blatz-2018-resin-bonding-high-strength-ceramics-review.pdf
 source_collection: external

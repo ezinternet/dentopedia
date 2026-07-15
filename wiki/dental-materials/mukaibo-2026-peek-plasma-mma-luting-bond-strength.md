@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.3390/bioengineering13050507
 source: mukaibo-2026-peek-plasma-mma-luting-bond-strength.md
 category: dental-materials
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "42194264"

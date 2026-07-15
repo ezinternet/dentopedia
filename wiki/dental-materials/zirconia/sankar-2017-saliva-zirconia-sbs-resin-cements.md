@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: 10.4103/ijdr.IJDR_274_16
 source: sankar-2017-saliva-zirconia-sbs-resin-cements.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sankar-2017-saliva-zirconia-sbs-resin-cements.pdf
 pdf_filename: sankar-2017-saliva-zirconia-sbs-resin-cements.pdf
 source_collection: external

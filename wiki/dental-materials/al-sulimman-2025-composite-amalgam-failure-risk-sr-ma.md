@@ -6,7 +6,7 @@ date: 2025-06-26
 doi: 10.1016/j.identj.2025.100871
 source: al-sulimman-2025-composite-amalgam-failure-risk-sr-ma.md
 category: [dental-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma.pdf
 pdf_filename: al-sulimman-2025-composite-amalgam-failure-risk-sr-ma.pdf
 source_collection: external

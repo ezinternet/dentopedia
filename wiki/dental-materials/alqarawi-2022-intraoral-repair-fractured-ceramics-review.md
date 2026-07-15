@@ -6,7 +6,7 @@ date: 2022-11-08
 doi: 10.12688/f1000research.126547.1
 source: alqarawi-2022-intraoral-repair-fractured-ceramics-review.md
 category: dental-materials
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/alqarawi-2022-intraoral-repair-fractured-ceramics-review.pdf
 pdf_filename: alqarawi-2022-intraoral-repair-fractured-ceramics-review.pdf
 source_collection: external

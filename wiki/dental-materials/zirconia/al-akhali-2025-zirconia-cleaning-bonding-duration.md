@@ -6,7 +6,7 @@ date: 2025-10-31
 doi: 10.2186/jpr.JPR_D_24_00273
 source: al-akhali-2025-zirconia-cleaning-bonding-duration.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-akhali-2025-zirconia-cleaning-bonding-duration.pdf
 pdf_filename: al-akhali-2025-zirconia-cleaning-bonding-duration.pdf
 source_collection: external

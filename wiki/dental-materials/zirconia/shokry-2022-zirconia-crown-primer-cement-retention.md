@@ -6,7 +6,7 @@ date: 2022-05-26
 doi: 10.1186/s12903-022-02223-0
 source: shokry-2022-zirconia-crown-primer-cement-retention.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/shokry-2022-zirconia-crown-primer-cement-retention.pdf
 pdf_filename: shokry-2022-zirconia-crown-primer-cement-retention.pdf
 source_collection: external

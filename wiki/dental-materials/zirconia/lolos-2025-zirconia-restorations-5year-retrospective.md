@@ -6,7 +6,7 @@ date: 2025-01-24
 doi: 10.3390/medicina61020210
 source: lolos-2025-zirconia-restorations-5year-retrospective.md
 category: [dental-materials/zirconia]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/lolos-2025-zirconia-restorations-5year-retrospective.pdf
 pdf_filename: lolos-2025-zirconia-restorations-5year-retrospective.pdf
 source_collection: external

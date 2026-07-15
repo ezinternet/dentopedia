@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.4012/dmj.2014-066
 source: miyazaki-2015-saliva-zirconia-bond-contact-angle.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/miyazaki-2015-saliva-zirconia-bond-contact-angle.pdf
 pdf_filename: miyazaki-2015-saliva-zirconia-bond-contact-angle.pdf
 source_collection: external

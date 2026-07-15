@@ -7,7 +7,7 @@ doi: 10.11607/ijp.8016
 pmid: "36484665"
 source: le-2023-three-types-all-ceramic-posterior-3year-rct.md
 category: [dental-materials/zirconia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 tags: [zirconia, high-translucency, lithium-disilicate, rct, posterior-crown, all-ceramic, 3year]
 relations:

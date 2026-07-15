@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.4012/dmj.2017-376
 source: takagaki-2018-saliva-zirconia-cleaning-agent.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/takagaki-2018-saliva-zirconia-cleaning-agent.pdf
 pdf_filename: takagaki-2018-saliva-zirconia-cleaning-agent.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-07-01
 doi: 10.7759/cureus.88836
 source: bhagwat-2025-amalgam-composite-posterior-longevity-sr.md
 category: [dental-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bhagwat-2025-amalgam-composite-posterior-longevity-sr.pdf
 pdf_filename: bhagwat-2025-amalgam-composite-posterior-longevity-sr.pdf
 source_collection: external

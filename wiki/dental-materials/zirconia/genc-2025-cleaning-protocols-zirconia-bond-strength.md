@@ -6,7 +6,7 @@ date: 2025-03-07
 doi: 10.3290/j.jad.c_2011
 source: genc-2025-cleaning-protocols-zirconia-bond-strength.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/genc-2025-cleaning-protocols-zirconia-bond-strength.pdf
 pdf_filename: genc-2025-cleaning-protocols-zirconia-bond-strength.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-04-04
 doi: 10.1111/jerd.13471
 source: alghauli-2025-clinical-complications-survival-rate-resin.md
 category: [dental-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alghauli-2025-clinical-complications-survival-rate-resin.pdf
 pdf_filename: alghauli-2025-clinical-complications-survival-rate-resin.pdf
 source_collection: external

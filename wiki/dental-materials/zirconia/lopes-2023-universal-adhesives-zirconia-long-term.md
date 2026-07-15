@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.4103/ccd.ccd_327_23
 source: lopes-2023-universal-adhesives-zirconia-long-term.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopes-2023-universal-adhesives-zirconia-long-term.pdf
 pdf_filename: lopes-2023-universal-adhesives-zirconia-long-term.pdf
 source_collection: external

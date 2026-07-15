@@ -6,7 +6,7 @@ date: 2019-01-01
 doi: 10.4047/jap.2019.11.3.162
 source: alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.pdf
 pdf_filename: alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.pdf
 source_collection: external

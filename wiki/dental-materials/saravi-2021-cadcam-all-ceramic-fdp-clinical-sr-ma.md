@@ -6,7 +6,7 @@ date: 2021-05-20
 doi: 10.3390/ma14102672
 source: saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma.md
 category: [dental-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma.pdf
 pdf_filename: saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma.pdf
 source_collection: external

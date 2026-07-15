@@ -6,7 +6,7 @@ date: 2025-05-12
 doi: 10.3390/ma18102235
 source: cuzic-2025-clinicians-guide-material-selection-all-ceramics.md
 category: [dental-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "40428971"

@@ -6,7 +6,7 @@ date: 2024-05-01
 doi: 10.1016/j.dental.2024.02.026
 source: cesar-2024-dental-zirconia-15years-material-processing.md
 category: [dental-materials/zirconia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/cesar-2024-dental-zirconia-15years-material-processing.pdf
 pdf_filename: cesar-2024-dental-zirconia-15years-material-processing.pdf
 source_collection: external

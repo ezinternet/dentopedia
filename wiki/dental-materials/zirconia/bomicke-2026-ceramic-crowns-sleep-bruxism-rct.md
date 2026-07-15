@@ -6,7 +6,7 @@ date: 2026-04-10
 doi: 10.1016/j.jdent.2026.106691
 source: bomicke-2026-ceramic-crowns-sleep-bruxism-rct.md
 category: [dental-materials/zirconia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/bomicke-2026-ceramic-crowns-sleep-bruxism-rct.pdf
 pdf_filename: bomicke-2026-ceramic-crowns-sleep-bruxism-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-01-28
 doi: 10.3390/ma15031023
 source: awad-2022-mdp-cleaner-contaminated-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/awad-2022-mdp-cleaner-contaminated-zirconia.pdf
 pdf_filename: awad-2022-mdp-cleaner-contaminated-zirconia.pdf
 source_collection: external

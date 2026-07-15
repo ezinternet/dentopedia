@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.4047/jap.2020.12.4.189
 source: turker-2020-surface-treatments-cad-cam-resin.md
 category: [dental-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/turker-2020-surface-treatments-cad-cam-resin.pdf
 pdf_filename: turker-2020-surface-treatments-cad-cam-resin.pdf
 source_collection: external

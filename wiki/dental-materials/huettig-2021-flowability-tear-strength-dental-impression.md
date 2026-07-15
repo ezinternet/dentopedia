@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.3390/ma14112994
 journal: Materials 2021;14:2994
 source: huettig-2021-flowability-tear-strength-dental-impression.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [dental-materials]
 pdf_path: /Users/oracleneo/llm-wiki/papers/huettig-2021-flowability-tear-strength-dental-impression.pdf
 pdf_filename: huettig-2021-flowability-tear-strength-dental-impression.pdf

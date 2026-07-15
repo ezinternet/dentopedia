@@ -6,7 +6,7 @@ date: 2024-06-10
 doi: 10.3390/bioengineering11060579
 source: tobias-2024-amalgam-composite-survival-big-data.md
 category: [dental-materials]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/tobias-2024-amalgam-composite-survival-big-data.pdf
 pdf_filename: tobias-2024-amalgam-composite-survival-big-data.pdf
 source_collection: external

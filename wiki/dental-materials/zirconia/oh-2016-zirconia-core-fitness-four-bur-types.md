@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.14815/kjdm.2016.43.3.281
 journal: 대한치과재료학회지 2016;43(3):281-288
 source: oh-2016-zirconia-core-fitness-four-bur-types.md
-confidence: in-vitro
+evidence_level: in-vitro
 category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/oh-2016-zirconia-core-fitness-four-bur-types.pdf
 pdf_filename: oh-2016-zirconia-core-fitness-four-bur-types.pdf

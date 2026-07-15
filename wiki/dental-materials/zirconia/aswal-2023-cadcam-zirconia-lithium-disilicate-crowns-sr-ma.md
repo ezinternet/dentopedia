@@ -6,7 +6,7 @@ date: 2023-04-14
 doi: 10.7759/cureus.37888
 source: aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 pdf_filename: aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 source_collection: external

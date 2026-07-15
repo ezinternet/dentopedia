@@ -6,7 +6,7 @@ date: 2013-11-05
 doi: 10.1016/j.prosdent.2013.06.002
 source: park-2014-antagonist-wear-cad-cam-zirconia-enamel.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2014-antagonist-wear-cad-cam-zirconia-enamel.pdf
 pdf_filename: park-2014-antagonist-wear-cad-cam-zirconia-enamel.pdf
 source_collection: external

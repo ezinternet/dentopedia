@@ -6,7 +6,7 @@ date: 2025-11-12
 doi: 10.5005/jp-journals-10024-3944
 source: nasri-2025-surface-conditioning-zirconia-bonding-umbrella.md
 category: [dental-materials/zirconia]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/nasri-2025-surface-conditioning-zirconia-bonding-umbrella.pdf
 pdf_filename: nasri-2025-surface-conditioning-zirconia-bonding-umbrella.pdf
 source_collection: external

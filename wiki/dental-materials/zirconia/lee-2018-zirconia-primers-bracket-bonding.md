@@ -6,7 +6,7 @@ date: 2018-02-01
 doi: 10.5395/rde.2018.43.e7
 source: lee-2018-zirconia-primers-bracket-bonding.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-zirconia-primers-bracket-bonding.pdf
 pdf_filename: lee-2018-zirconia-primers-bracket-bonding.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.2186/jpr.JPR_D_21_00081
 source: leitao-2022-monolithic-zirconia-single-crown-survival-sr.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/leitao-2022-monolithic-zirconia-single-crown-survival-sr.pdf
 pdf_filename: leitao-2022-monolithic-zirconia-single-crown-survival-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2025-11-25
 doi: 10.4103/drj.drj_136_25
 source: davoudi-2025-zirconia-abutments-biological-mechanical-esthetic.md
 category: [dental-materials/zirconia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/davoudi-2025-zirconia-abutments-biological-mechanical-esthetic.pdf
 pdf_filename: davoudi-2025-zirconia-abutments-biological-mechanical-esthetic.pdf
 source_collection: external

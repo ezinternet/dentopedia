@@ -6,7 +6,7 @@ date: 2023-10-25
 doi: 10.1016/j.dental.2023.10.007
 source: chopra-2024-mechanical-characteristics-zirconia-dentistry.md
 category: [dental-materials/zirconia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chopra-2024-mechanical-characteristics-zirconia-dentistry.pdf
 pdf_filename: chopra-2024-mechanical-characteristics-zirconia-dentistry.pdf
 source_collection: external

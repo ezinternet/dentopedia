@@ -6,7 +6,7 @@ date: 2023-06-26
 doi: 10.22974/jkda.2023.61.8.001
 source: lee-2023-alkasite-glass-ionomer-fluoride-antibacterial.md
 category: [dental-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial.pdf
 pdf_filename: lee-2023-alkasite-glass-ionomer-fluoride-antibacterial.pdf
 source_collection: external

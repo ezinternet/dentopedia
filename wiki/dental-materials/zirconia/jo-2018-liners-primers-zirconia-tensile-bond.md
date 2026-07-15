@@ -6,7 +6,7 @@ date: 2018-10-01
 doi: 10.4047/jap.2018.10.5.374
 source: jo-2018-liners-primers-zirconia-tensile-bond.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2018-liners-primers-zirconia-tensile-bond.pdf
 pdf_filename: jo-2018-liners-primers-zirconia-tensile-bond.pdf
 source_collection: external

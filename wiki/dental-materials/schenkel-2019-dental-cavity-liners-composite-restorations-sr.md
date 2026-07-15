@@ -6,7 +6,7 @@ date: 2019-03-05
 doi: 10.1002/14651858.CD010526.pub3
 source: schenkel-2019-dental-cavity-liners-composite-restorations-sr.md
 category: dental-materials
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
 pmid: "30834516"

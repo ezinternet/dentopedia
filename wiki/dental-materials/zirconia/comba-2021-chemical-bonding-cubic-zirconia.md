@@ -6,7 +6,7 @@ date: 2021-07-14
 doi: 10.3390/ma14143920
 source: comba-2021-chemical-bonding-cubic-zirconia.md
 category: [dental-materials/zirconia]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/comba-2021-chemical-bonding-cubic-zirconia.pdf
 pdf_filename: comba-2021-chemical-bonding-cubic-zirconia.pdf
 source_collection: external

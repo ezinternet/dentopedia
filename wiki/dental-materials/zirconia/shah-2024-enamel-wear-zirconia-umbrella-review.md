@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.4103/jips.jips_32_24
 source: shah-2024-enamel-wear-zirconia-umbrella-review.md
 category: [dental-materials/zirconia]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "38946503"
