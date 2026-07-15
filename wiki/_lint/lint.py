@@ -28,13 +28,14 @@ CONFIDENCE_VOCAB = {
 }
 REQUIRED_FIELDS_PAPER = [
     'title', 'authors', 'year', 'date', 'source', 'category',
-    'confidence'
 ]
+# 근거등급 필드: evidence_level(2026-07-15 rename) 또는 legacy confidence 중 하나 필수
+EVIDENCE_LEVEL_KEYS = ('evidence_level', 'confidence')
 # 아티팩트 필드: PDF 논문 vs PubMed-text 논문(PMC 전문을 .txt로 보관)
 PDF_FIELDS = ['pdf_path', 'pdf_filename']
 TEXT_FIELDS = ['text_path', 'text_filename']
 REQUIRED_FIELDS_OVERVIEW = [
-    'title', 'authors', 'year', 'date', 'category', 'confidence'
+    'title', 'authors', 'year', 'date', 'category'
 ]
 NULL_VALUES = {'', 'null', 'None', 'N/A', 'unknown', 'n/a', 'NA'}
 
@@ -143,6 +144,10 @@ def lint():
             req = REQUIRED_FIELDS_PAPER + (TEXT_FIELDS if is_pubmed_text else PDF_FIELDS)
 
         missing = [k for k in req if k not in fm or is_null(fm.get(k, ''))]
+        if not is_nav and not any(
+            k in fm and not is_null(fm.get(k, '')) for k in EVIDENCE_LEVEL_KEYS
+        ):
+            missing.append('evidence_level')
         if missing:
             C.append((wp_rel, missing))
 
@@ -150,8 +155,8 @@ def lint():
         if '## 세줄요약' not in text:
             D.append(wp_rel)
 
-        # confidence vocab
-        conf = fm.get('confidence', '').strip()
+        # evidence_level/confidence vocab (evidence_level 우선)
+        conf = (fm.get('evidence_level') or fm.get('confidence', '')).strip()
         if conf and not is_null(conf) and conf not in CONFIDENCE_VOCAB:
             K.append((wp_rel, conf))
 
@@ -270,7 +275,7 @@ def report(r):
         'H': 'orphan PDF',
         'I': 'orphan source',
         'J': 'pdf_path vs pdf_filename 불일치',
-        'K': 'confidence 어휘 위반',
+        'K': 'evidence_level 어휘 위반',
         'L': 'frontmatter 자체 없음',
         'M': '.bak 잔존',
         'N': '중복 title',
