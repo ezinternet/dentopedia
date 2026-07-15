@@ -371,6 +371,11 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[bone-regeneration/ridge-preservation/fok-2024-alveolar-socket-healing-evolving-knowledge]] — Narrative + 11 SRs (all AMSTAR-2 critically-low): horizontal ridge loss 29–63% exceeds vertical 11–22%; ARP attenuates but doesn't eliminate (Cochrane width MD 1.18mm) — ARP individualized/prosthetically-driven, not routine
+
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — foundational bundle bone biology (2-phase resorption mechanism); all ARP rationale derives from this framework
 - [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — ST1–ST3 classification and decision tree; primary anatomy-based ARP selection tool
 - [[bone-regeneration/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla]] — BCD/BCA CBCT predictors; threshold values for graft resorption prediction
