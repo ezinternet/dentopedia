@@ -274,6 +274,11 @@ WEEKS 1–12 (established paresthesia)
 
 ## Related Papers
 
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[oral-surgery/tojyo-2019-risk-of-lingual-nerve-injuries]] — Retrospective case-control (n=79 microsurgically-repaired): distoangular impaction (30.8%), female (72.1%, P=0.001), older age associated with lingual nerve injury — distoangular M3 in 30–50s women higher-risk
+
 - [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — foundational classification & etiology
 - [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — prevalence SR
 - [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — treatment SR (7 RCTs)
