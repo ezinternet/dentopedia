@@ -263,6 +263,11 @@ graph LR
 ---
 
 ## Related Papers
+
+### 신규 ingest cluster (2026-07-15)
+
+- [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — Umbrella review (9 SRs, abstract-only): osseodensification gives higher primary stability (IT/ISQ) in low-density bone; MBL and survival comparable (>95% both) — OD benefit limited to primary-stability gain, no long-term advantage
+
 - [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — spine SR
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
 - [[implants/huwais-2017-autografting-tool-enhanced-flute-profile]] — Versah/Densah 버 특허 (음의 레이크각·절삭/압밀 양면 날) — 기구 공학적 기반
