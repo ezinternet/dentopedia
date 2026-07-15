@@ -93,7 +93,7 @@ text_filename: {stem}.txt
 # pdf_path / pdf_filename 생략
 ```
 
-- `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. confidence는 study type 그대로.
+- `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. `evidence_level`은 study type 그대로.
 - dedup(Step 0)은 DOI/PMCID grep 그대로. 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
 
 ### Step 1-A — Abstract-only PDF 분기 (페이월 랜딩/초록 저장본)
@@ -101,7 +101,7 @@ text_filename: {stem}.txt
 가끔 받은 PDF가 전문이 아니라 **출판사 랜딩/초록 저장 페이지**(paywall, 흔히 1–2쪽, 본문 없음)다 — Step 1-T의 PMC-빈본문과 결과는 같지만 **아티팩트가 PDF**라 `source_collection: pubmed-text`를 쓸 수 없다. 이때:
 
 - `source_collection: external` 유지(아티팩트는 PDF), `pdf_path`/`pdf_filename` 정상 기재.
-- **frontmatter에 `full_text: false` 필드를 추가**하고, 본문 맨 위(Three-line Summary 위)에 `abstract-only — publisher landing/abstract page, full text not retrieved` 한 줄 명시. (초록만으로 Summary·Results 채움, confidence는 study type 그대로.)
+- **frontmatter에 `full_text: false` 필드를 추가**하고, 본문 맨 위(Three-line Summary 위)에 `abstract-only — publisher landing/abstract page, full text not retrieved` 한 줄 명시. (초록만으로 Summary·Results 채움, `evidence_level`은 study type 그대로.)
   - 과거엔 이걸 frontmatter flag 없이 본문 caveat로만 처리해 일관성이 없었다(de-elio-2023 vs quesada-garcia-2012). 앞으로는 **frontmatter `full_text: false` + 본문 한 줄** 둘 다 박는다.
 - DOI 없으면 위 Step 0 no-DOI fallback 병행.
 - 로그: `python3 scripts/log-deviation.py <stem> abstract-only "publisher landing page, built from abstract"` (PMC 빈본문은 `empty-pmc-text`로 구분).
@@ -189,7 +189,7 @@ tags: []
 
 ### `evidence_level:` vocabulary
 
-> **Rename note (2026-07-15):** 이 필드는 이전 `confidence:`였다. userPreferences v4의 세션 확신도 2태그([확인]/[미검증], = *검증 상태* 축)와 개념 충돌을 없애기 위해 study-type = *근거 수준* 축임을 명시하는 `evidence_level:`로 리네이밍. Forward-only — 기존 페이지의 `confidence:`는 grandfather(감사 스크립트가 두 키를 모두 인식하게 하거나, 일괄 치환 마이그레이션은 별도 agenda로). 두 축을 구분: `evidence_level:`은 논문의 연구설계 강도, 세션 [확인]/[미검증]은 이번 세션에서 도구로 출처를 확인했는지.
+> **Rename note (2026-07-15):** 이 필드는 이전 `confidence:`였다. userPreferences v4의 세션 확신도 2태그([확인]/[미검증], = *검증 상태* 축)와 개념 충돌을 없애기 위해 study-type = *근거 수준* 축임을 명시하는 `evidence_level:`로 리네이밍. Forward-only — 기존 페이지의 `confidence:`는 grandfather. 감사·빌드 스크립트(`scripts/lint.py`, `wiki/_lint/lint.py`, `supersession-audit.py`, `build-wiki-stats.py`, `build-weekly-digest.py`, `build-contradiction-radar.py`, `content-lint.py`)는 **두 키를 모두 인식**하며 `evidence_level`을 우선한다 (2026-07-15 패치 완료). 일괄 치환 마이그레이션(2885개 기존 페이지 `confidence:` → `evidence_level:`)은 별도 agenda로. 두 축을 구분: `evidence_level:`은 논문의 연구설계 강도, 세션 [확인]/[미검증]은 이번 세션에서 도구로 출처를 확인했는지.
 
 Pick the **single best label** for the study type. Ordered roughly from highest to lowest evidence weight:
 
@@ -208,6 +208,17 @@ Pick the **single best label** for the study type. Ordered roughly from highest 
 | `narrative-review` | Narrative review, perspective, expert commentary |
 | `consensus` | Consensus statement / position paper |
 | `synthesis` | Multi-paper synthesis page (wiki overviews); not external study type |
+
+**Non-research document labels** (not on the evidence ladder — administrative/legal/engineering primary sources the wiki also holds; these are why lint accepts values beyond the 13 study types above):
+
+| Value | Applies to |
+|---|---|
+| `regulation` | Korean health-insurance regulation — MOHW notice / decree / amendment (고시·훈령·개정) |
+| `official-qa` | Official Q&A from MOHW / HIRA (보건복지부·심평원 유권해석) |
+| `manual` | Practical guidebook / 실무편람 / 청구길라잡이 |
+| `patent` | Patent disclosure (공개/등록특허공보) — primary engineering document |
+
+**This table (study types + non-research labels) is the single source of truth for the `evidence_level:` vocabulary.** `references/evidence-ladder.md` holds the supersession *judgment* rules (which grade beats which) and the optional `rob:` field; it defers to this list for the value set. `scripts/lint.py` and `wiki/_lint/lint.py` `VALID_CONFIDENCE`/`CONFIDENCE_VOCAB` sets must match this table.
 
 ### `date:` field
 
