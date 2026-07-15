@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1007/s00784-025-06229-0
 source: saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis.pdf
 pdf_filename: saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis.pdf
 source_collection: external

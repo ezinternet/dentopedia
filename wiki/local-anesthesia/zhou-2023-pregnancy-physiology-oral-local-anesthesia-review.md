@@ -7,7 +7,7 @@ doi: 10.7717/peerj.15585
 journal: "PeerJ 11:e15585"
 source: zhou-2023-pregnancy-physiology-oral-local-anesthesia-review.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review.pdf
 pdf_filename: zhou-2023-pregnancy-physiology-oral-local-anesthesia-review.pdf
 source_collection: external

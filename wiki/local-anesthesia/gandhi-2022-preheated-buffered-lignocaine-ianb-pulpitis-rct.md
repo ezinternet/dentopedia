@@ -7,7 +7,7 @@ doi: 10.7717/peerj.14187
 journal: "PeerJ 10"
 source: gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct.pdf
 pdf_filename: gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct.pdf
 source_collection: external

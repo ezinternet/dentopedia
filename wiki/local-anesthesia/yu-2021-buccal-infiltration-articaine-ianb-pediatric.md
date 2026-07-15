@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.4317/medoral.24726
 source: yu-2021-buccal-infiltration-articaine-ianb-pediatric.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2021-buccal-infiltration-articaine-ianb-pediatric.pdf
 pdf_filename: yu-2021-buccal-infiltration-articaine-ianb-pediatric.pdf
 source_collection: external

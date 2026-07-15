@@ -7,7 +7,7 @@ doi: ""
 journal: "Anesth Prog 59(2)"
 source: becker-2012-local-anesthetics-pharmacological-considerations.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/becker-2012-local-anesthetics-pharmacological-considerations.pdf
 pdf_filename: becker-2012-local-anesthetics-pharmacological-considerations.pdf
 source_collection: external

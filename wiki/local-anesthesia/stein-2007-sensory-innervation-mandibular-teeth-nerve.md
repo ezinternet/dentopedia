@@ -6,7 +6,7 @@ date: 2007-08-01
 doi: 10.1002/ca.20479
 source: stein-2007-sensory-innervation-mandibular-teeth-nerve.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "17352413"

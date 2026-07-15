@@ -6,7 +6,7 @@ date: 2011-09-01
 doi: 10.14219/jada.archive.2011.0340
 source: malamed-2011-mandibular-nerve-block-passe.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "21881055"

@@ -6,7 +6,7 @@ date: 2023-06-27
 doi:
 source: khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella.md
 category: [local-anesthesia]
-confidence: sr
+evidence_level: sr
 text_path: /Users/oracleneo/llm-wiki/papers/khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella.txt
 text_filename: khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella.txt
 source_collection: pubmed-text

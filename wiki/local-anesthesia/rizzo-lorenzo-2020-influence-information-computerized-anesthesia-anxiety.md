@@ -6,7 +6,7 @@ date: 2020-03-01
 doi: 10.4317/medoral.23315
 source: rizzo-lorenzo-2020-influence-information-computerized-anesthesia-anxiety.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "32040470"

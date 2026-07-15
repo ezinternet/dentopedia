@@ -7,7 +7,7 @@ doi: 10.22514/jocpd.2023.078
 journal: "J Clin Pediatr Dent 47(6)"
 source: li-2023-articaine-lidocaine-adverse-effects-pediatric-ma.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma.pdf
 pdf_filename: li-2023-articaine-lidocaine-adverse-effects-pediatric-ma.pdf
 source_collection: external

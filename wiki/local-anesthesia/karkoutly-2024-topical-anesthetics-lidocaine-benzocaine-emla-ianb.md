@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1038/s41405-024-00275-8
 source: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.pdf
 pdf_filename: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.17245/jdapm.2024.24.5.319
 journal: "J Dent Anesth Pain Med 24(5)"
 source: park-2024-articaine-infiltration-lidocaine-intraosseous-molars.md
 category: [local-anesthesia]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2024-articaine-infiltration-lidocaine-intraosseous-molars.pdf
 pdf_filename: park-2024-articaine-infiltration-lidocaine-intraosseous-molars.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-11-07
 doi: 10.4103/jpbs.jpbs_711_23
 source: subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric.pdf
 pdf_filename: subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.4317/jced.63093
 journal: "J Clin Exp Dent 17(11)"
 source: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 pdf_filename: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 source_collection: external

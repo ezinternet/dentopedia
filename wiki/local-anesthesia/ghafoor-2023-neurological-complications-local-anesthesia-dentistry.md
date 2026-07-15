@@ -6,7 +6,7 @@ date: 2023-12-19
 doi: 10.7759/cureus.50790
 source: ghafoor-2023-neurological-complications-local-anesthesia-dentistry.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "38239523"

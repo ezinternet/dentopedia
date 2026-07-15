@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.17245/jdapm.2021.21.6.527
 source: rossit-2021-nitrous-oxide-oxygen-procedural-sedation-success.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rossit-2021-nitrous-oxide-oxygen-procedural-sedation-success.pdf
 pdf_filename: rossit-2021-nitrous-oxide-oxygen-procedural-sedation-success.pdf
 source_collection: external

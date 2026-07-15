@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: 10.22974/jkda.2023.61.4.005
 source: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.md
 category: [local-anesthesia]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.pdf
 pdf_filename: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.pdf
 source_collection: external

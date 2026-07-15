@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.7759/cureus.73360
 source: alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis.pdf
 pdf_filename: alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis.pdf
 source_collection: external

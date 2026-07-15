@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: 10.1016/j.adaj.2017.05.034
 source: wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp.pdf
 pdf_filename: wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp.pdf
 source_collection: external

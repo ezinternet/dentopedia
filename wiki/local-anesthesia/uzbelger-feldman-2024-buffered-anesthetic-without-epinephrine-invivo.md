@@ -7,7 +7,7 @@ doi: 10.3390/pharmaceutics16081058
 journal: "Pharmaceutics 16(8)"
 source: uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo.md
 category: [local-anesthesia]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo.pdf
 pdf_filename: uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo.pdf
 source_collection: external

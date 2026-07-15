@@ -6,7 +6,7 @@ date: 2023-04-01
 doi: 10.22974/jkda.2023.61.4.004
 source: karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation.md
 category: [local-anesthesia]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation.pdf
 pdf_filename: karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation.pdf
 source_collection: external

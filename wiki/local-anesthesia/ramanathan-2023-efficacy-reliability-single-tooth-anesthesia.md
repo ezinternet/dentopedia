@@ -6,7 +6,7 @@ date: 2023-10-14
 doi: 10.1007/s12663-023-02017-z
 source: ramanathan-2023-efficacy-reliability-single-tooth-anesthesia.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: false
 pmid: "38312977"

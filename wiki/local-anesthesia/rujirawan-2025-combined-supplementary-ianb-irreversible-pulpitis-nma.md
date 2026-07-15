@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1111/iej.70007
 source: rujirawan-2025-combined-supplementary-ianb-irreversible-pulpitis-nma.md
 category: [local-anesthesia]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/rujirawan-2025-combined-supplementary-ianb-irreversible-pulpitis-nma.pdf
 pdf_filename: rujirawan-2025-combined-supplementary-ianb-irreversible-pulpitis-nma.pdf
 source_collection: external

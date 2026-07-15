@@ -7,7 +7,7 @@ doi: 10.4103/JCDE.JCDE_625_24
 journal: "J Conserv Dent Endod 27(12)"
 source: karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis.pdf
 pdf_filename: karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis.pdf
 source_collection: external

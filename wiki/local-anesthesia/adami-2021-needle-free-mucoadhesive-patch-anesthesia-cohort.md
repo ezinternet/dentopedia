@@ -7,7 +7,7 @@ doi: 10.1590/1807-3107bor-2021.vol35.0131
 journal: "Braz Oral Res 35:e131"
 source: adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.md
 category: [local-anesthesia]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.pdf
 pdf_filename: adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.pdf
 source_collection: external

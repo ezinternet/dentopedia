@@ -6,7 +6,7 @@ date: 2026-03-01
 doi: 10.4317/medoral.27738
 source: kucukkurt-2026-comparison-five-anesthetic-delivery.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "41108768"

@@ -7,7 +7,7 @@ doi: 10.1007/s12663-023-01945-0
 journal: "J Maxillofac Oral Surg 23(6)"
 source: kalra-2024-buffered-lidocaine-articaine-extraction-rct.md
 category: [local-anesthesia]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/kalra-2024-buffered-lidocaine-articaine-extraction-rct.pdf
 pdf_filename: kalra-2024-buffered-lidocaine-articaine-extraction-rct.pdf
 source_collection: external

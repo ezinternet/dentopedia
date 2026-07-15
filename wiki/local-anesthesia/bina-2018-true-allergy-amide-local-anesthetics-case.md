@@ -7,7 +7,7 @@ doi: 10.2344/anpr-65-03-06
 journal: "Anesth Prog 65(2)"
 source: bina-2018-true-allergy-amide-local-anesthetics-case.md
 category: [local-anesthesia]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/bina-2018-true-allergy-amide-local-anesthetics-case.pdf
 pdf_filename: bina-2018-true-allergy-amide-local-anesthetics-case.pdf
 source_collection: external

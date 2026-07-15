@@ -6,7 +6,7 @@ date: 2017-01-21
 doi: 10.11138/orl/2017.10.4.381
 source: grassi-2017-effectiveness-computer-assisted-anesthetic-implant.md
 category: [local-anesthesia]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
 pmid: "29682255"

@@ -6,7 +6,7 @@ date: 2018-01-01
 doi: 10.5582/ddt.2018.01003
 source: khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.md
 category: [local-anesthesia]
-confidence: in-vivo
+evidence_level: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.pdf
 pdf_filename: khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction.pdf
 source_collection: external
