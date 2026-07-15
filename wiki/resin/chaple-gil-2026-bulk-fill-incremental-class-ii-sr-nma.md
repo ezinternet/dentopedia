@@ -6,7 +6,7 @@ date: 2025-11-25
 doi: 10.1111/jerd.70060
 source: chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.pdf
 pdf_filename: chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2016-01-01
 doi: 10.3290/j.jad.a36916
 source: magno-2016-silorane-composite-not-better-conventional-ma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/magno-2016-silorane-composite-not-better-conventional-ma.pdf
 pdf_filename: magno-2016-silorane-composite-not-better-conventional-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-06-25
 doi: 10.3390/jfb15070173
 source: ferracane-2024-historical-perspective-dental-composite-restorative.md
 category: [resin]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "39057295"

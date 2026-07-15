@@ -6,7 +6,7 @@ date: 2022-10-28
 doi: "10.1016/j.dental.2022.10.002"
 source: yang-2022-bulk-fill-shrinkage-kinetics-fracture-toughness.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "38709119"

@@ -6,7 +6,7 @@ date: 2023-10-10
 doi: 10.1016/j.dental.2023.10.009
 source: josic-2023-direct-indirect-resin-longevity-sr-ma.md
 category: ['resin']
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/josic-2023-direct-indirect-resin-longevity-sr-ma.pdf
 pdf_filename: josic-2023-direct-indirect-resin-longevity-sr-ma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.3290/j.jad.b5749192
 source: sekundo-2024-direct-composite-restorations-permanent-teeth.md
 category: [resin]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/sekundo-2024-direct-composite-restorations-permanent-teeth.pdf
 pdf_filename: sekundo-2024-direct-composite-restorations-permanent-teeth.pdf
 source_collection: external

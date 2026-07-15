@@ -6,7 +6,7 @@ date: 2026-05-13
 doi: 10.4103/JCDE.JCDE_102_26
 source: susita-2026-comparative-analysis-stress-distribution-teeth.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/susita-2026-comparative-analysis-stress-distribution-teeth.pdf
 pdf_filename: susita-2026-comparative-analysis-stress-distribution-teeth.pdf
 source_collection: external

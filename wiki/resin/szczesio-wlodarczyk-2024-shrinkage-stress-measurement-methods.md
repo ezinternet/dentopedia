@@ -6,7 +6,7 @@ date: 2024-01-31
 doi: "10.4012/dmj.2023-192"
 source: szczesio-wlodarczyk-2024-shrinkage-stress-measurement-methods.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "38296513"

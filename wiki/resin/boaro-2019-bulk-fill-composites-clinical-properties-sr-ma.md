@@ -6,7 +6,7 @@ date: 2019-10-01
 doi: 10.1016/j.dental.2019.07.007
 source: boaro-2019-bulk-fill-composites-clinical-properties-sr-ma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma.pdf
 pdf_filename: boaro-2019-bulk-fill-composites-clinical-properties-sr-ma.pdf
 source_collection: external

@@ -7,7 +7,7 @@ source: theracem-bisco-product-reference.md
 type: product-reference
 category: resin
 date: 2026-06-06
-confidence: synthesis
+evidence_level: synthesis
 pdf_path: /Users/oracleneo/llm-wiki/papers/theracem-bisco-product-reference.pdf
 pdf_filename: theracem-bisco-product-reference.pdf
 source_collection: internal-synthesis

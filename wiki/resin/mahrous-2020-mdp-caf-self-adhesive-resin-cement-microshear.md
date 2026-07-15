@@ -6,7 +6,7 @@ date: 2020-04-09
 doi: "10.11607/prd.3992"
 source: mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear.md
 category: resin
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear.pdf
 pdf_filename: mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear.pdf
 source_collection: external

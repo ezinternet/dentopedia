@@ -6,7 +6,7 @@ date: 2023-08-09
 doi: "10.1177/00220345231182357"
 source: melo-2023-bioactive-dental-resins-restorative-dentistry.md
 category: [resin]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/melo-2023-bioactive-dental-resins-restorative-dentistry.pdf
 pdf_filename: melo-2023-bioactive-dental-resins-restorative-dentistry.pdf
 source_collection: external

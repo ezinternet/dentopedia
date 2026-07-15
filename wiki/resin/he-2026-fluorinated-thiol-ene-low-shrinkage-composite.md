@@ -6,7 +6,7 @@ date: 2026-03-03
 doi: "10.1016/j.jdent.2026.106610"
 source: he-2026-fluorinated-thiol-ene-low-shrinkage-composite.md
 category: [resin]
-confidence: in-vivo
+evidence_level: in-vivo
 source_collection: pubmed-text
 full_text: false
 pmid: "41786237"

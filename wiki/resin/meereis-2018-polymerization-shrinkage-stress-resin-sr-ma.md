@@ -6,7 +6,7 @@ date: 2018-06-01
 doi: 10.1016/j.jmbbm.2018.03.019
 source: meereis-2018-polymerization-shrinkage-stress-resin-sr-ma.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma.pdf
 pdf_filename: meereis-2018-polymerization-shrinkage-stress-resin-sr-ma.pdf
 source_collection: external

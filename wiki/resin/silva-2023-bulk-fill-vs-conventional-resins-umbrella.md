@@ -6,7 +6,7 @@ date: 2023-06-08
 doi: 10.3390/polym15122613
 source: silva-2023-bulk-fill-vs-conventional-resins-umbrella.md
 category: [resin]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2023-bulk-fill-vs-conventional-resins-umbrella.pdf
 pdf_filename: silva-2023-bulk-fill-vs-conventional-resins-umbrella.pdf
 source_collection: external

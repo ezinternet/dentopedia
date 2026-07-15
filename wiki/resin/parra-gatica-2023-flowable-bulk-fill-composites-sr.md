@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1080/26415275.2023.2175685
 source: parra-gatica-2023-flowable-bulk-fill-composites-sr.md
 category: [resin]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/parra-gatica-2023-flowable-bulk-fill-composites-sr.pdf
 pdf_filename: parra-gatica-2023-flowable-bulk-fill-composites-sr.pdf
 source_collection: external

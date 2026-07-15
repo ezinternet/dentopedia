@@ -6,7 +6,7 @@ date: 2024-10-24
 doi: "10.1016/j.jdent.2024.105426"
 source: feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite.md
 category: [resin]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "39454988"
