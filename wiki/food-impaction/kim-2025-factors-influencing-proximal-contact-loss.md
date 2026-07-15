@@ -6,7 +6,7 @@ date: 2025-02-28
 doi: "10.5125/jkaoms.2025.51.1.26"
 source: kim-2025-factors-influencing-proximal-contact-loss.md
 category: [food-impaction]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2025-factors-influencing-proximal-contact-loss.pdf
 pdf_filename: kim-2025-factors-influencing-proximal-contact-loss.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: "10.34172/japid.2022.023"
 source: ghasemi-2022-prevalence-proximal-contact-loss-meta-analysis.md
 category: [food-impaction]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ghasemi-2022-prevalence-proximal-contact-loss-meta-analysis.pdf
 pdf_filename: ghasemi-2022-prevalence-proximal-contact-loss-meta-analysis.pdf
 source_collection: external

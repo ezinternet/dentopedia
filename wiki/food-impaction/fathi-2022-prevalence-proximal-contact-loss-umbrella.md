@@ -6,7 +6,7 @@ date: 2022-06-10
 doi: "10.1055/s-0042-1745771"
 source: fathi-2022-prevalence-proximal-contact-loss-umbrella.md
 category: [food-impaction]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/fathi-2022-prevalence-proximal-contact-loss-umbrella.pdf
 pdf_filename: fathi-2022-prevalence-proximal-contact-loss-umbrella.pdf
 source_collection: external

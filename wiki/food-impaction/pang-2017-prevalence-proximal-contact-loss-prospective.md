@@ -6,7 +6,7 @@ date: 2017-04-08
 doi: "10.1111/clr.13018"
 source: pang-2017-prevalence-proximal-contact-loss-prospective.md
 category: [food-impaction]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/pang-2017-prevalence-proximal-contact-loss-prospective.pdf
 pdf_filename: pang-2017-prevalence-proximal-contact-loss-prospective.pdf
 source_collection: external

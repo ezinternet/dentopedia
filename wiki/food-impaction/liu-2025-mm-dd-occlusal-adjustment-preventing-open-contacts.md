@@ -6,7 +6,7 @@ date: 2025-07-21
 doi: "10.1016/j.jds.2025.06.026"
 source: liu-2025-mm-dd-occlusal-adjustment-preventing-open-contacts.md
 category: [food-impaction]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41040578"

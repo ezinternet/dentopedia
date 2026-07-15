@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.1002/cre2.70278
 source: atieh-2026-open-proximal-contacts-peri-implant-diseases.md
 category: [food-impaction]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "41587408"

@@ -6,7 +6,7 @@ date: 2021-05-01
 doi: "10.4317/jced.57802"
 source: mehanna-2021-proximal-contact-alterations-prospective.md
 category: [food-impaction]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mehanna-2021-proximal-contact-alterations-prospective.pdf
 pdf_filename: mehanna-2021-proximal-contact-alterations-prospective.pdf
 source_collection: external

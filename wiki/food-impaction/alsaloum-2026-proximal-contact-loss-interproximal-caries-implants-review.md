@@ -6,7 +6,7 @@ date: 2026-03-30
 doi: 10.2147/CCIDE.S585610
 source: alsaloum-2026-proximal-contact-loss-interproximal-caries-implants-review.md
 category: [food-impaction]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "41939798"
