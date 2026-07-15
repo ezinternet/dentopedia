@@ -6,7 +6,7 @@ date: 2018-07-01
 doi: "10.4103/jips.jips_294_17"
 source: nithyapriya-2018-factors-loss-preload-dental-implants.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "30111906"

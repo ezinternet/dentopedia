@@ -6,7 +6,7 @@ date: 2020-02-04
 doi: "10.3390/ma13030699"
 source: kim-2020-axial-displacements-removal-torque-changes.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2020-axial-displacements-removal-torque-changes.pdf
 pdf_filename: kim-2020-axial-displacements-removal-torque-changes.pdf
 source_collection: external

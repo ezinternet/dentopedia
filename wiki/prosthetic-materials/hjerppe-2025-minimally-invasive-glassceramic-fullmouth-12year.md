@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.prosdent.2024.12.001
 source: hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year.md
 category: [prosthetic-materials]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year.pdf
 pdf_filename: hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year.pdf
 source_collection: external

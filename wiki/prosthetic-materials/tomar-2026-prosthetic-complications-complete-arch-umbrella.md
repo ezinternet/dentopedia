@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: 10.1016/j.prosdent.2026.03.013
 source: tomar-2026-prosthetic-complications-complete-arch-umbrella.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2026-prosthetic-complications-complete-arch-umbrella.pdf
 pdf_filename: tomar-2026-prosthetic-complications-complete-arch-umbrella.pdf
 source_collection: external

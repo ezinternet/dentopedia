@@ -6,7 +6,7 @@ date: 2026-07-01
 doi: 10.1016/j.prosdent.2026.03.003
 source: zhang-2026-bibliometric-implant-abutment-research-2005-2024.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2026-bibliometric-implant-abutment-research-2005-2024.pdf
 pdf_filename: zhang-2026-bibliometric-implant-abutment-research-2005-2024.pdf
 source_collection: external

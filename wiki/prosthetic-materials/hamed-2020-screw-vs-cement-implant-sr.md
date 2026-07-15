@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.2147/CCIDE.S231070
 journal: Clinical, Cosmetic and Investigational Dentistry 12:9-16
 source: hamed-2020-screw-vs-cement-implant-sr.md
-confidence: sr
+evidence_level: sr
 category: [prosthetic-materials]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamed-2020-screw-vs-cement-implant-sr.pdf
 pdf_filename: hamed-2020-screw-vs-cement-implant-sr.pdf

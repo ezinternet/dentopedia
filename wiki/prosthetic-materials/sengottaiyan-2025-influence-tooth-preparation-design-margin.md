@@ -6,7 +6,7 @@ date: 2025-09-01
 doi: 10.1016/j.prosdent.2025.04.030
 source: sengottaiyan-2025-influence-tooth-preparation-design-margin.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/sengottaiyan-2025-influence-tooth-preparation-design-margin.pdf
 pdf_filename: sengottaiyan-2025-influence-tooth-preparation-design-margin.pdf
 source_collection: external

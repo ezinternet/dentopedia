@@ -6,7 +6,7 @@ date: 2020-07-24
 doi: "10.3390/jcm9082365"
 source: velez-2020-implant-connection-abutment-design-screw.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "32722131"

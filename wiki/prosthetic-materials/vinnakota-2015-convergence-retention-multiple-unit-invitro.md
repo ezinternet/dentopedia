@@ -6,7 +6,7 @@ date: 2015-09-01
 doi: 10.4103/0976-237X.161914
 source: vinnakota-2015-convergence-retention-multiple-unit-invitro.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/vinnakota-2015-convergence-retention-multiple-unit-invitro.pdf
 pdf_filename: vinnakota-2015-convergence-retention-multiple-unit-invitro.pdf
 source_collection: external

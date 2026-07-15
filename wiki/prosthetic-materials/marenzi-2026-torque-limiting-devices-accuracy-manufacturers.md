@@ -6,7 +6,7 @@ date: 2026-02-05
 doi: 10.1186/s12903-026-07852-3
 source: marenzi-2026-torque-limiting-devices-accuracy-manufacturers.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/marenzi-2026-torque-limiting-devices-accuracy-manufacturers.txt
 text_filename: marenzi-2026-torque-limiting-devices-accuracy-manufacturers.txt

@@ -6,7 +6,7 @@ date: 2026-01-05
 doi: 10.11607/ijp.9633
 source: pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma.pdf
 pdf_filename: pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma.pdf
 source_collection: external

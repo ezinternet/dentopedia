@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.4103/jpbs.jpbs_1359_25
 journal: Journal of Pharmaceutical and Bioallied Sciences 17:S3316
 source: khurshid-2025-screw-vs-cement-crown-complications.md
-confidence: prospective
+evidence_level: prospective
 category: [prosthetic-materials]
 pdf_path: /Users/oracleneo/llm-wiki/papers/khurshid-2025-screw-vs-cement-crown-complications.pdf
 pdf_filename: khurshid-2025-screw-vs-cement-crown-complications.pdf

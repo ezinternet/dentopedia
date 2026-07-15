@@ -6,7 +6,7 @@ date: 2025-09-05
 doi: 10.1111/cid.70087
 source: selvi-2025-custom-stock-abutment-fatigue-sem.md
 category: prosthetic-materials
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/selvi-2025-custom-stock-abutment-fatigue-sem.pdf
 pdf_filename: selvi-2025-custom-stock-abutment-fatigue-sem.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2023-06-17
 doi: 10.1002/cre2.761
 source: ghodsi-2023-resin-cement-partial-coverage-sr.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ghodsi-2023-resin-cement-partial-coverage-sr.pdf
 pdf_filename: ghodsi-2023-resin-cement-partial-coverage-sr.pdf
 source_collection: external

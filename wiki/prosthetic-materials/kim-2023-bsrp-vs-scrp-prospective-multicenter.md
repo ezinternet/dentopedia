@@ -6,7 +6,7 @@ date: 2023-08-28
 doi: 10.4047/jap.2023.15.4.202
 source: kim-2023-bsrp-vs-scrp-prospective-multicenter.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 pmid: "37662852"
 pmcid: "PMC10471505"
 source_collection: pubmed-text

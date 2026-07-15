@@ -6,7 +6,7 @@ date: 2024-03-28
 doi: 10.1186/s12903-024-04156-2
 source: angermair-2024-microgap-abutment-displacement-implant-connection.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/angermair-2024-microgap-abutment-displacement-implant-connection.pdf
 pdf_filename: angermair-2024-microgap-abutment-displacement-implant-connection.pdf
 source_collection: external

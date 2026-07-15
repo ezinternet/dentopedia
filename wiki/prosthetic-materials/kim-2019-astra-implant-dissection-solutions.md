@@ -5,7 +5,7 @@ year: 2019
 doi: ""
 date: 2019-01-01
 source: kim-2019-astra-implant-dissection-solutions.md
-confidence: narrative-review
+evidence_level: narrative-review
 category: prosthetic-materials
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-astra-implant-dissection-solutions.pdf
 pdf_filename: kim-2019-astra-implant-dissection-solutions.pdf

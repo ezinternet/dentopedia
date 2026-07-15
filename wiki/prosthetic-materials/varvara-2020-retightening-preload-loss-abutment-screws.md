@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.1563/aaid-joi-D-18-00138
 source: varvara-2020-retightening-preload-loss-abutment-screws.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/varvara-2020-retightening-preload-loss-abutment-screws.pdf
 pdf_filename: varvara-2020-retightening-preload-loss-abutment-screws.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-05-02
 doi: 10.1177/22808000241250118
 source: habibzadeh-2024-full-ceramic-rbfdp-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/habibzadeh-2024-full-ceramic-rbfdp-sr.pdf
 pdf_filename: habibzadeh-2024-full-ceramic-rbfdp-sr.pdf
 source_collection: external

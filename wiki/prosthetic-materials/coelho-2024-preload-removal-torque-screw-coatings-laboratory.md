@@ -8,7 +8,7 @@ pmid: "38541567"
 pmcid: "PMC10972164"
 source: coelho-2024-preload-removal-torque-screw-coatings-laboratory.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/coelho-2024-preload-removal-torque-screw-coatings-laboratory.txt
 text_filename: coelho-2024-preload-removal-torque-screw-coatings-laboratory.txt

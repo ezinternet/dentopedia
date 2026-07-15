@@ -6,7 +6,7 @@ date: 2023-12-08
 doi: 10.3390/medicina59122135
 source: manziuc-2023-zls-ceramic-digital-dentistry-review.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/manziuc-2023-zls-ceramic-digital-dentistry-review.pdf
 pdf_filename: manziuc-2023-zls-ceramic-digital-dentistry-review.pdf
 source_collection: external

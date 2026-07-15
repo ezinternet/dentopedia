@@ -6,7 +6,7 @@ date: 2025-04-29
 doi: 10.1111/clr.14443
 source: sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40297919"

@@ -6,7 +6,7 @@ date: 2026-02-01
 doi: 10.1016/j.prosdent.2025.10.010
 source: dudley-2025-determinants-marginal-gap-crowns.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/dudley-2025-determinants-marginal-gap-crowns.pdf
 pdf_filename: dudley-2025-determinants-marginal-gap-crowns.pdf
 source_collection: external

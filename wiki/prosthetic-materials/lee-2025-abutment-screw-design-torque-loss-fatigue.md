@@ -6,7 +6,7 @@ date: 2025-10-21
 doi: "10.3390/bioengineering12101131"
 source: lee-2025-abutment-screw-design-torque-loss-fatigue.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "41155129"

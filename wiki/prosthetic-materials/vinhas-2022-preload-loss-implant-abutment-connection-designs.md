@@ -6,7 +6,7 @@ date: 2022-02-14
 doi: "10.3390/ma15041392"
 source: vinhas-2022-preload-loss-implant-abutment-connection-designs.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "35207933"

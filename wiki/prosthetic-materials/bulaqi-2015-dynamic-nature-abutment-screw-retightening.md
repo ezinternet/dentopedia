@@ -6,7 +6,7 @@ date: 2015-05-01
 doi: "10.1016/j.prosdent.2014.09.017"
 source: bulaqi-2015-dynamic-nature-abutment-screw-retightening.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "25749092"

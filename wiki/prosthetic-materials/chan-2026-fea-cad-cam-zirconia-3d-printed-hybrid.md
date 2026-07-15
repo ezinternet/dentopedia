@@ -6,7 +6,7 @@ date: 2026-04-01
 doi: 10.1186/s12903-026-07684-1
 source: chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid.pdf
 pdf_filename: chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid.pdf
 source_collection: external

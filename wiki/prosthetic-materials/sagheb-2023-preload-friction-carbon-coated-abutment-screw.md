@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1186/s40729-023-00473-3
 source: sagheb-2023-preload-friction-carbon-coated-abutment-screw.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sagheb-2023-preload-friction-carbon-coated-abutment-screw.pdf
 pdf_filename: sagheb-2023-preload-friction-carbon-coated-abutment-screw.pdf
 source_collection: external

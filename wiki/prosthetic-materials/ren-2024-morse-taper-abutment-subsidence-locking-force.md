@@ -6,7 +6,7 @@ date: 2024-06-01
 doi: "10.7518/hxkq.2024.2023387"
 source: ren-2024-morse-taper-abutment-subsidence-locking-force.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "39049659"

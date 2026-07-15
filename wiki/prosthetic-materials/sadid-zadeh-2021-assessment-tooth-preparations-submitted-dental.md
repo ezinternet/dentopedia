@@ -6,7 +6,7 @@ date: 2021-09-27
 doi: 10.3390/dj9100112
 source: sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental.md
 category: [prosthetic-materials]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental.pdf
 pdf_filename: sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental.pdf
 source_collection: external

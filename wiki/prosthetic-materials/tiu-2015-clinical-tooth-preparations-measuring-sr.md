@@ -6,7 +6,7 @@ date: 2015-03-01
 doi: 10.1016/j.prosdent.2014.09.018
 source: tiu-2015-clinical-tooth-preparations-measuring-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tiu-2015-clinical-tooth-preparations-measuring-sr.pdf
 pdf_filename: tiu-2015-clinical-tooth-preparations-measuring-sr.pdf
 source_collection: external

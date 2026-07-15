@@ -6,7 +6,7 @@ date: 2024-11-24
 doi: 10.1111/clr.14383
 source: toia-2025-fixed-full-arch-maxillary-prostheses.md
 category: [prosthetic-materials]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/toia-2025-fixed-full-arch-maxillary-prostheses.pdf
 pdf_filename: toia-2025-fixed-full-arch-maxillary-prostheses.pdf
 source_collection: external

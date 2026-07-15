@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.jdent.2025.106004
 source: laumacher-2025-lithium-disilicate-single-crowns-overview-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/laumacher-2025-lithium-disilicate-single-crowns-overview-sr.pdf
 pdf_filename: laumacher-2025-lithium-disilicate-single-crowns-overview-sr.pdf
 source_collection: external

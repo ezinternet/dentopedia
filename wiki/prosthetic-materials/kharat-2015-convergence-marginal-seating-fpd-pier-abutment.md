@@ -6,7 +6,7 @@ date: 2015-07-01
 doi: 10.7860/JCDR/2015/13155.6206
 source: kharat-2015-convergence-marginal-seating-fpd-pier-abutment.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kharat-2015-convergence-marginal-seating-fpd-pier-abutment.pdf
 pdf_filename: kharat-2015-convergence-marginal-seating-fpd-pier-abutment.pdf
 source_collection: external

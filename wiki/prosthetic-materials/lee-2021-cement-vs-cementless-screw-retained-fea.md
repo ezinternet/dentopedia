@@ -6,7 +6,7 @@ date: 2021-05-19
 doi: 10.3390/ma14102666
 source: lee-2021-cement-vs-cementless-screw-retained-fea.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-cement-vs-cementless-screw-retained-fea.pdf
 pdf_filename: lee-2021-cement-vs-cementless-screw-retained-fea.pdf
 source_collection: external

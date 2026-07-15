@@ -6,7 +6,7 @@ date: 2018-12-01
 doi: 10.4317/jced.55305
 source: abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.md
 category: [prosthetic-materials]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.pdf
 pdf_filename: abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.pdf
 source_collection: external

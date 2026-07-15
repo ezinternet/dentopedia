@@ -6,7 +6,7 @@ date: 2007-10-30
 doi: 10.1111/j.1532-849X.2007.00256.x
 source: givens-2007-marginal-adaptation-color-stability-provisional.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "17971123"

@@ -6,7 +6,7 @@ date: 2026-01-02
 doi: 10.1016/j.jdent.2026.106328
 source: molinero-mourelle-2026-intermediate-abutments-screw-retained.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/molinero-mourelle-2026-intermediate-abutments-screw-retained.pdf
 pdf_filename: molinero-mourelle-2026-intermediate-abutments-screw-retained.pdf
 source_collection: external

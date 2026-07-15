@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1111/jerd.70080
 source: dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia.pdf
 pdf_filename: dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia.pdf
 source_collection: external

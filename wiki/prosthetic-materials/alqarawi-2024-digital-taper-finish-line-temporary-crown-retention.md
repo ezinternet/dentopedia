@@ -6,7 +6,7 @@ date: 2024-09-07
 doi: 10.1016/j.sdentj.2024.09.008
 source: alqarawi-2024-digital-taper-finish-line-temporary-crown-retention.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention.pdf
 pdf_filename: alqarawi-2024-digital-taper-finish-line-temporary-crown-retention.pdf
 source_collection: external

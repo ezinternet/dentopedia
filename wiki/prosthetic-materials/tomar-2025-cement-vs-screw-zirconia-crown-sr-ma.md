@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.7759/cureus.83370
 journal: Cureus
 source: tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.md
-confidence: sr+ma
+evidence_level: sr+ma
 category: [prosthetic-materials]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.pdf
 pdf_filename: tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.pdf

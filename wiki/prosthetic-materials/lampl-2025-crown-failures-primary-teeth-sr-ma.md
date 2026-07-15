@@ -6,7 +6,7 @@ date: 2025-05-01
 doi: 10.2196/57958
 source: lampl-2025-crown-failures-primary-teeth-sr-ma.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40311116"

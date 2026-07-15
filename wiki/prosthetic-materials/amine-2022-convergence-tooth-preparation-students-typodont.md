@@ -6,7 +6,7 @@ date: 2022-05-10
 doi: 10.1155/2022/7615892
 source: amine-2022-convergence-tooth-preparation-students-typodont.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/amine-2022-convergence-tooth-preparation-students-typodont.pdf
 pdf_filename: amine-2022-convergence-tooth-preparation-students-typodont.pdf
 source_collection: external

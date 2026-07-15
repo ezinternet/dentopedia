@@ -6,7 +6,7 @@ date: 2017-11-01
 doi: "10.4317/jced.54374"
 source: pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "29302289"

@@ -8,7 +8,7 @@ pmid: "40573051"
 pmcid: "PMC12194849"
 source: coelho-2025-screw-coating-ptfe-gapseal-cyclic-load.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/coelho-2025-screw-coating-ptfe-gapseal-cyclic-load.txt
 text_filename: coelho-2025-screw-coating-ptfe-gapseal-cyclic-load.txt

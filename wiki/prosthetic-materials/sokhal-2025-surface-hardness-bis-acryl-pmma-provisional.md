@@ -6,7 +6,7 @@ date: 2025-04-30
 doi: 10.7759/cureus.83269
 source: sokhal-2025-surface-hardness-bis-acryl-pmma-provisional.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "40453262"

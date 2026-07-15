@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1155/bmri/5326872
 source: sheykhian-2026-survival-biological-complications-ceramic-veneered.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/sheykhian-2026-survival-biological-complications-ceramic-veneered.pdf
 pdf_filename: sheykhian-2026-survival-biological-complications-ceramic-veneered.pdf
 source_collection: external

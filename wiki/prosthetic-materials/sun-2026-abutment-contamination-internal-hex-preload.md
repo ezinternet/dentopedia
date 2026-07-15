@@ -6,7 +6,7 @@ date: 2026-02-24
 doi: 10.4047/jap.2026.18.2.145
 source: sun-2026-abutment-contamination-internal-hex-preload.md
 category: prosthetic-materials
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sun-2026-abutment-contamination-internal-hex-preload.pdf
 pdf_filename: sun-2026-abutment-contamination-internal-hex-preload.pdf
 source_collection: external

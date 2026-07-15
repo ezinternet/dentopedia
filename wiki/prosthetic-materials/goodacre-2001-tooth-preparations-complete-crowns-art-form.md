@@ -6,7 +6,7 @@ date: 2001-04-01
 doi: 10.1067/mpr.2001.114685
 source: goodacre-2001-tooth-preparations-complete-crowns-art-form.md
 category: [prosthetic-materials]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/goodacre-2001-tooth-preparations-complete-crowns-art-form.pdf
 pdf_filename: goodacre-2001-tooth-preparations-complete-crowns-art-form.pdf
 source_collection: external

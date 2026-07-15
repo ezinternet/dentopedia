@@ -6,7 +6,7 @@ date: 2025-01-22
 doi: 10.3390/jfb16020039
 source: lee-2025-screwless-hook-retained-implant-fea.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2025-screwless-hook-retained-implant-fea.pdf
 pdf_filename: lee-2025-screwless-hook-retained-implant-fea.pdf
 source_collection: external

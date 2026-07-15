@@ -6,7 +6,7 @@ date: 2011-11-01
 doi: 10.1016/S0022-3913(11)60135-2
 source: roudsari-2011-auxiliary-features-resistance-short-molars-invitro.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/roudsari-2011-auxiliary-features-resistance-short-molars-invitro.pdf
 pdf_filename: roudsari-2011-auxiliary-features-resistance-short-molars-invitro.pdf
 source_collection: external

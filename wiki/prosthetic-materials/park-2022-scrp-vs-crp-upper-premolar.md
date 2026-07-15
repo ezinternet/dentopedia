@@ -6,7 +6,7 @@ date: 2022-04-27
 doi: 10.1016/j.jds.2022.04.011
 source: park-2022-scrp-vs-crp-upper-premolar.md
 category: [prosthetic-materials]
-confidence: retrospective
+evidence_level: retrospective
 pmid: "36299302"
 pmcid: "PMC9588807"
 source_collection: pubmed-text

@@ -6,7 +6,7 @@ date: 2013-12-01
 doi: 10.1016/j.prosdent.2013.04.003
 source: contrepois-2013-marginal-adaptation-ceramic-crowns-sr.md
 category: [prosthetic-materials]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/contrepois-2013-marginal-adaptation-ceramic-crowns-sr.pdf
 pdf_filename: contrepois-2013-marginal-adaptation-ceramic-crowns-sr.pdf
 source_collection: external

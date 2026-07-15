@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s40729-025-00641-7
 source: waltenberger-2025-zirconia-implant-dentistry-guideline.md
 category: [prosthetic-materials]
-confidence: consensus
+evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/waltenberger-2025-zirconia-implant-dentistry-guideline.pdf
 pdf_filename: waltenberger-2025-zirconia-implant-dentistry-guideline.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2019-06-14
 doi: 10.1186/s12903-019-0809-2
 source: gehrke-2019-influence-margin-location-luting.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
 pmid: "31200680"

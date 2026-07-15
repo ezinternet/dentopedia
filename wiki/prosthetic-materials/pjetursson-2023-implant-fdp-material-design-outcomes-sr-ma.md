@@ -7,7 +7,7 @@ doi: 10.1111/clr.14103
 pmid: "37750526"
 source: pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.md
 category: [prosthetic-materials]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 tags: [zirconia, monolithic, veneered, pjm, implant, fdp, survival, chipping, sr+ma]
 relations:

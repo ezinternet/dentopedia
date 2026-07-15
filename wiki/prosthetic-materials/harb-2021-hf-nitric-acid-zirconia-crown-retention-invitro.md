@@ -6,7 +6,7 @@ date: 2021-02-18
 doi: 10.3390/ma14040960
 source: harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro.pdf
 pdf_filename: harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro.pdf
 source_collection: external

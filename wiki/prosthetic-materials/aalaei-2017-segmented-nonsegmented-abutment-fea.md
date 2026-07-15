@@ -6,7 +6,7 @@ date: 2017-07-04
 doi: 10.15171/joddd.2017.027
 source: aalaei-2017-segmented-nonsegmented-abutment-fea.md
 category: [prosthetic-materials]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aalaei-2017-segmented-nonsegmented-abutment-fea.pdf
 pdf_filename: aalaei-2017-segmented-nonsegmented-abutment-fea.pdf
 source_collection: external
