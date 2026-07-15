@@ -64,6 +64,30 @@ def parse_frontmatter(content: str) -> Optional[dict]:
     return fields
 
 
+def duplicate_top_level_keys(fm_text: str) -> list[str]:
+    """Return top-level frontmatter keys that appear more than once.
+
+    PyYAML's safe_load silently keeps the LAST value on a duplicate key, so it
+    does NOT flag this — but Quartz's js-yaml parser fails the entire build on it
+    ("duplicated mapping key" → exit 1 → GitHub Pages deploy blocked). We detect
+    it with plain string parsing so the check works even without PyYAML.
+    """
+    counts: dict[str, int] = {}
+    for line in fm_text.splitlines():
+        # top-level key = column-0 (no leading whitespace), not a comment,
+        # not a list item ("- ..."), of the form "key:".
+        if not line or line[0].isspace():
+            continue
+        if line.lstrip().startswith("#"):
+            continue
+        m = re.match(r"^([A-Za-z0-9_-]+)\s*:", line)
+        if not m:
+            continue
+        k = m.group(1)
+        counts[k] = counts.get(k, 0) + 1
+    return sorted(k for k, c in counts.items() if c > 1)
+
+
 def lint_file(path: str) -> list[str]:
     errors = []
     with open(path, encoding="utf-8") as f:
@@ -73,16 +97,26 @@ def lint_file(path: str) -> list[str]:
     if fields is None:
         return [f"NO FRONTMATTER: {path}"]
 
+    # Raw frontmatter text (shared by the duplicate-key + YAML parse checks)
+    m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+    fm_text = m.group(1) if m else ""
+
+    # Duplicate top-level key check — Quartz's js-yaml fails the whole build on a
+    # "duplicated mapping key" (exit 1 → deploy blocked), but PyYAML's safe_load
+    # silently keeps the last value, so the YAML check below misses it. Catch it
+    # explicitly so ingest never ships a build-breaking page.
+    dup_keys = duplicate_top_level_keys(fm_text)
+    if dup_keys:
+        errors.append(f"DUPLICATE frontmatter key {dup_keys}: {path}")
+
     # YAML parse check — catches issues that break Quartz build
     # (e.g., unquoted values with embedded ":" or other YAML specials)
-    if yaml is not None:
-        m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
-        if m:
-            try:
-                yaml.safe_load(m.group(1))
-            except yaml.YAMLError as e:
-                first_line = str(e).splitlines()[0]
-                errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
+    if yaml is not None and fm_text:
+        try:
+            yaml.safe_load(fm_text)
+        except yaml.YAMLError as e:
+            first_line = str(e).splitlines()[0]
+            errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
 
     # 논문 유형 판정
     conf = fields.get("confidence", "").strip('"').strip("'")
