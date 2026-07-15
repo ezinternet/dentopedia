@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1186/s40729-021-00393-0
 source: al-maawi-2021-prf-extraction-socket-healing-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-maawi-2021-prf-extraction-socket-healing-sr.pdf
 pdf_filename: al-maawi-2021-prf-extraction-socket-healing-sr.pdf
 source_collection: external

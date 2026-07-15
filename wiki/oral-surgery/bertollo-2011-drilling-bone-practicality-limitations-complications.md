@@ -6,7 +6,7 @@ date: 2011-09-09
 doi: 
 source: bertollo-2011-drilling-bone-practicality-limitations-complications.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/bertollo-2011-drilling-bone-practicality-limitations-complications.pdf
 pdf_filename: bertollo-2011-drilling-bone-practicality-limitations-complications.pdf
 source_collection: external

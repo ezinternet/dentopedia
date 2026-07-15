@@ -6,7 +6,7 @@ date: 2026-03-12
 doi: 10.22514/jofph.2026.023
 source: yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment.md
 category: [oral-surgery]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41914061"

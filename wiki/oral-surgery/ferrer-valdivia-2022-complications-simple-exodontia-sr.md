@@ -6,7 +6,7 @@ date: 2022-12-14
 doi: 10.17219/dmp/144596
 source: ferrer-valdivia-2022-complications-simple-exodontia-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ferrer-valdivia-2022-complications-simple-exodontia-sr.pdf
 pdf_filename: ferrer-valdivia-2022-complications-simple-exodontia-sr.pdf
 source_collection: external

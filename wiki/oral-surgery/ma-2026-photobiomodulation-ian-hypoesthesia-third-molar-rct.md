@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.1177/25785478261462397
 source: ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct.md
 category: [oral-surgery]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct.pdf
 pdf_filename: ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2012-02-13
 doi: 10.1111/j.1525-1470.2011.01682.x
 source: bodner-2012-cutaneous-sinus-tract-dental.md
 category: [oral-surgery]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/bodner-2012-cutaneous-sinus-tract-dental.pdf
 pdf_filename: bodner-2012-cutaneous-sinus-tract-dental.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-03-15
 doi: 10.1007/s00784-024-05615-4
 source: kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review.pdf
 pdf_filename: kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review.pdf
 source_collection: external

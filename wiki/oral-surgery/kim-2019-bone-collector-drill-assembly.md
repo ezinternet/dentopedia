@@ -6,7 +6,7 @@ date: 2019-10-30
 doi: "KR 10-2327565 B1 (출원 10-2019-0136020)"
 source: kim-2019-bone-collector-drill-assembly.md
 category: [oral-surgery]
-confidence: patent
+evidence_level: patent
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-bone-collector-drill-assembly.pdf
 pdf_filename: kim-2019-bone-collector-drill-assembly.pdf
 source_collection: external

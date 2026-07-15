@@ -6,7 +6,7 @@ date: 2025-07-01
 doi: 10.4317/medoral.27125
 source: pena-cardelles-2025-ian-damage-implant-placement-sr-ma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "40192114"

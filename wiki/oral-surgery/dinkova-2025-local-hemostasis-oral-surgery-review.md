@@ -6,7 +6,7 @@ date: 2025-05-21
 doi: 10.3390/jfb16050190
 source: dinkova-2025-local-hemostasis-oral-surgery-review.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/dinkova-2025-local-hemostasis-oral-surgery-review.pdf
 pdf_filename: dinkova-2025-local-hemostasis-oral-surgery-review.pdf
 source_collection: external

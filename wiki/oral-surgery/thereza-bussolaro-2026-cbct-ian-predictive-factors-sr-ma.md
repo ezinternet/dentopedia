@@ -7,7 +7,7 @@ doi: "10.1016/j.adaj.2025.12.016"
 pmid: "41770179"
 source: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
 text_filename: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt

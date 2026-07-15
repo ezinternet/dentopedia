@@ -6,7 +6,7 @@ date: 2019-09-05
 doi: 10.1186/s40902-019-0222-4
 source: tojyo-2019-risk-of-lingual-nerve-injuries.md
 category: [oral-surgery]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/tojyo-2019-risk-of-lingual-nerve-injuries.pdf
 pdf_filename: tojyo-2019-risk-of-lingual-nerve-injuries.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1016/j.joms.2023.07.016
 source: peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.pdf
 pdf_filename: peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.pdf
 source_collection: external

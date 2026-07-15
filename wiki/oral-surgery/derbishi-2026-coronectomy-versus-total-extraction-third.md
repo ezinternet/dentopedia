@@ -6,7 +6,7 @@ date: 2026-03-22
 doi: 10.7759/cureus.105646
 source: derbishi-2026-coronectomy-versus-total-extraction-third.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/derbishi-2026-coronectomy-versus-total-extraction-third.pdf
 pdf_filename: derbishi-2026-coronectomy-versus-total-extraction-third.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2020-02-14
 doi: 10.1002/mabi.201900382
 source: zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit.md
 category: [oral-surgery]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit.pdf
 pdf_filename: zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit.pdf
 source_collection: external

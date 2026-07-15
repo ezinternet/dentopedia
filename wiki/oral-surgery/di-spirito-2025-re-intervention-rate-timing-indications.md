@@ -6,7 +6,7 @@ date: 2025-05-30
 doi: 10.3390/jcm14113877
 source: di-spirito-2025-re-intervention-rate-timing-indications.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-spirito-2025-re-intervention-rate-timing-indications.pdf
 pdf_filename: di-spirito-2025-re-intervention-rate-timing-indications.pdf
 source_collection: external

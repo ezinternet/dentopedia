@@ -6,7 +6,7 @@ date: 2026-01-28
 doi: "10.3390/jcm15031049"
 source: zeytinoglu-2026-comparative-effects-low-level-laser.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
 pmid: "41682731"

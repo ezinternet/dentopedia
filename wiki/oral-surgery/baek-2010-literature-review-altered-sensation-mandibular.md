@@ -6,7 +6,7 @@ date: 2010-08-01
 doi: ""
 source: baek-2010-literature-review-altered-sensation-mandibular.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/baek-2010-literature-review-altered-sensation-mandibular.pdf
 pdf_filename: baek-2010-literature-review-altered-sensation-mandibular.pdf
 source_collection: external

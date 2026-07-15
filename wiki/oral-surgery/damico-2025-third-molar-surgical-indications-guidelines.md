@@ -6,7 +6,7 @@ date: 2025-06-11
 doi: 10.3390/engproc2025087077
 source: damico-2025-third-molar-surgical-indications-guidelines.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/damico-2025-third-molar-surgical-indications-guidelines.pdf
 pdf_filename: damico-2025-third-molar-surgical-indications-guidelines.pdf
 source_collection: external

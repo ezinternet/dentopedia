@@ -6,7 +6,7 @@ date: 2010-01-01
 doi: "10.1097/ID.0b013e3181effa92"
 source: misch-2010-mandibular-nerve-neurosensory-implant-management.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/misch-2010-mandibular-nerve-neurosensory-implant-management.pdf
 pdf_filename: misch-2010-mandibular-nerve-neurosensory-implant-management.pdf
 source_collection: external

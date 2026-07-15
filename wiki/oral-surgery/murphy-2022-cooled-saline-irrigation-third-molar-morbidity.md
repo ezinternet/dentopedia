@@ -6,7 +6,7 @@ date: 2022-12-16
 doi: 10.1038/s41432-022-0843-9
 source: murphy-2022-cooled-saline-irrigation-third-molar-morbidity.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/murphy-2022-cooled-saline-irrigation-third-molar-morbidity.pdf
 pdf_filename: murphy-2022-cooled-saline-irrigation-third-molar-morbidity.pdf
 source_collection: external

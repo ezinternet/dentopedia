@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: 10.5125/jkaoms.2020.46.1.58
 source: kwon-2020-closure-oroantral-fistula-local.md
 category: oral-surgery
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2020-closure-oroantral-fistula-local.pdf
 pdf_filename: kwon-2020-closure-oroantral-fistula-local.pdf
 source_collection: external

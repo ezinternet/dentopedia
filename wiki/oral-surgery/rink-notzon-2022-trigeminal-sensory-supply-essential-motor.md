@@ -6,7 +6,7 @@ date: 2022-12-01
 doi: 10.3390/ijms232315101
 source: rink-notzon-2022-trigeminal-sensory-supply-essential-motor.md
 category: oral-surgery
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "36499425"

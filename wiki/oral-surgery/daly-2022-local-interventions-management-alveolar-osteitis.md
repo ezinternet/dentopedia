@@ -6,7 +6,7 @@ date: 2022-09-01
 doi: 10.1002/14651858.CD006968.pub3
 source: daly-2022-local-interventions-management-alveolar-osteitis.md
 category: oral-surgery
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/daly-2022-local-interventions-management-alveolar-osteitis.pdf
 pdf_filename: daly-2022-local-interventions-management-alveolar-osteitis.pdf
 source_collection: external

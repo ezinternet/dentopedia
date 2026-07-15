@@ -6,7 +6,7 @@ date: 2016-07-01
 doi: 10.4317/medoral.21074
 source: cervera-espert-2016-coronectomy-mandibular-third-molar-sr.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cervera-espert-2016-coronectomy-mandibular-third-molar-sr.pdf
 pdf_filename: cervera-espert-2016-coronectomy-mandibular-third-molar-sr.pdf
 source_collection: external

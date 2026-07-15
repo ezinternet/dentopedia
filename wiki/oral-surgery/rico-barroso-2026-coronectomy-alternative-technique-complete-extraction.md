@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: 10.4317/medoral.27459
 source: rico-barroso-2026-coronectomy-alternative-technique-complete-extraction.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction.pdf
 pdf_filename: rico-barroso-2026-coronectomy-alternative-technique-complete-extraction.pdf
 source_collection: external

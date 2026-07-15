@@ -6,7 +6,7 @@ date: 2011-01-01
 doi: 10.5037/jomr.2011.2101
 source: juodzbalys-2011-ian-injury-implant-etiology-treatment-review.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/juodzbalys-2011-ian-injury-implant-etiology-treatment-review.pdf
 pdf_filename: juodzbalys-2011-ian-injury-implant-etiology-treatment-review.pdf
 source_collection: external

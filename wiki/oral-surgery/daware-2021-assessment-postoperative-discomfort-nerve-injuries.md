@@ -6,7 +6,7 @@ date: 2021-04-01
 doi: 10.4103/jfmpc.jfmpc_280_19
 source: daware-2021-assessment-postoperative-discomfort-nerve-injuries.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 text_path: /Users/oracleneo/llm-wiki/papers/daware-2021-assessment-postoperative-discomfort-nerve-injuries.txt
 text_filename: daware-2021-assessment-postoperative-discomfort-nerve-injuries.txt
 source_collection: pubmed-text

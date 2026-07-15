@@ -6,7 +6,7 @@ date: 2025-02-11
 doi: 10.1016/j.bioactmat.2025.01.031
 source: zheng-2025-dental-pulp-stem-cells-alleviate.md
 category: [oral-surgery]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-text
 full_text: true
 pmid: "40026822"

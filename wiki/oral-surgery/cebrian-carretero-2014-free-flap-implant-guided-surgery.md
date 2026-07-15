@@ -6,7 +6,7 @@ date: 2014-11-01
 doi: 10.4317/medoral.19873
 source: cebrian-carretero-2014-free-flap-implant-guided-surgery.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/cebrian-carretero-2014-free-flap-implant-guided-surgery.pdf
 pdf_filename: cebrian-carretero-2014-free-flap-implant-guided-surgery.pdf
 source_collection: external

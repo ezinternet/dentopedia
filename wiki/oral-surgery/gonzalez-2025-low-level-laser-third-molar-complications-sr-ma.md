@@ -6,7 +6,7 @@ date: 2025-03-01
 doi: 10.1016/j.adaj.2024.09.005
 source: gonzalez-2025-low-level-laser-third-molar-complications-sr-ma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma.pdf
 pdf_filename: gonzalez-2025-low-level-laser-third-molar-complications-sr-ma.pdf
 source_collection: external

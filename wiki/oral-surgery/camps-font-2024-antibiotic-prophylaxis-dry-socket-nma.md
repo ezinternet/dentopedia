@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1016/j.ijom.2023.08.001
 source: camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.pdf
 pdf_filename: camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.pdf
 source_collection: external

@@ -6,7 +6,7 @@ doi: ""
 date: 2015-01-01
 journal: J Korean Academy of Advanced General Dentistry 2015;4:33-37
 source: lee-2015-inferior-alveolar-nerve-injury-management.md
-confidence: case-report
+evidence_level: case-report
 category: [oral-surgery]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2015-inferior-alveolar-nerve-injury-management.pdf
 pdf_filename: lee-2015-inferior-alveolar-nerve-injury-management.pdf

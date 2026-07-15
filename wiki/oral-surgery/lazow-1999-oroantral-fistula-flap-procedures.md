@@ -6,7 +6,7 @@ date: 1999-06-01
 doi: 10.1016/S1043-1810(99)80037-2
 source: lazow-1999-oroantral-fistula-flap-procedures.md
 category: oral-surgery
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/lazow-1999-oroantral-fistula-flap-procedures.pdf
 pdf_filename: lazow-1999-oroantral-fistula-flap-procedures.pdf
 source_collection: external

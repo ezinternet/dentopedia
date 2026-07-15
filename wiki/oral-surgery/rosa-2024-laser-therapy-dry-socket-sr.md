@@ -6,7 +6,7 @@ date: 2024-06-15
 doi: 10.1186/s12903-024-04461-w
 source: rosa-2024-laser-therapy-dry-socket-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosa-2024-laser-therapy-dry-socket-sr.pdf
 pdf_filename: rosa-2024-laser-therapy-dry-socket-sr.pdf
 source_collection: external

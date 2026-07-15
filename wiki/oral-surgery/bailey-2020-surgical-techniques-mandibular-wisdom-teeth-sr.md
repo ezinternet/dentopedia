@@ -6,7 +6,7 @@ date: 2020-07-01
 doi: 10.1002/14651858.CD004345.pub3
 source: bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.pdf
 pdf_filename: bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.pdf
 source_collection: external

@@ -6,7 +6,7 @@ date: 2024-06-12
 doi: 10.22514/jofph.2024.012
 source: reus-2024-neuropathic-injury-dental-implant-prevalence-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/reus-2024-neuropathic-injury-dental-implant-prevalence-sr.pdf
 pdf_filename: reus-2024-neuropathic-injury-dental-implant-prevalence-sr.pdf
 source_collection: external

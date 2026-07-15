@@ -7,7 +7,7 @@ doi: "10.1016/j.joms.2025.11.008"
 pmid: "41344383"
 source: al-aroomi-2025-cgf-third-molar-postop-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/al-aroomi-2025-cgf-third-molar-postop-sr.txt
 text_filename: al-aroomi-2025-cgf-third-molar-postop-sr.txt

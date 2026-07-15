@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1186/s12903-025-06238-1
 source: hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.pdf
 pdf_filename: hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.pdf
 source_collection: external

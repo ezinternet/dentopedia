@@ -6,7 +6,7 @@ date: 2014-11-22
 doi: 10.5037/jomr.2014.5401
 source: sarikov-2014-ian-injury-third-molar-review.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sarikov-2014-ian-injury-third-molar-review.pdf
 pdf_filename: sarikov-2014-ian-injury-third-molar-review.pdf
 source_collection: external

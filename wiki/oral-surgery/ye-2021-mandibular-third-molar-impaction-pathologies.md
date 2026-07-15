@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1177/00368504211013247
 source: ye-2021-mandibular-third-molar-impaction-pathologies.md
 category: oral-surgery
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-text
 full_text: true
 pmid: "33913399"

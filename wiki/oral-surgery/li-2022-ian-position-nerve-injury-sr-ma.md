@@ -6,7 +6,7 @@ date: 2022-09-16
 doi: 10.3390/healthcare10091782
 source: li-2022-ian-position-nerve-injury-sr-ma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2022-ian-position-nerve-injury-sr-ma.pdf
 pdf_filename: li-2022-ian-position-nerve-injury-sr-ma.pdf
 source_collection: external

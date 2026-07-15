@@ -6,7 +6,7 @@ date: 2021-06-18
 doi: 10.3390/healthcare9060750
 source: povoa-2021-coronectomy-inferior-alveolar-nerve-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/povoa-2021-coronectomy-inferior-alveolar-nerve-sr.pdf
 pdf_filename: povoa-2021-coronectomy-inferior-alveolar-nerve-sr.pdf
 source_collection: external

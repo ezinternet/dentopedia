@@ -6,7 +6,7 @@ date: 2021-11-01
 doi: 10.4317/medoral.24256
 source: garola-2021-clinical-management-alveolar-osteitis-systematic.md
 category: oral-surgery
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/garola-2021-clinical-management-alveolar-osteitis-systematic.pdf
 pdf_filename: garola-2021-clinical-management-alveolar-osteitis-systematic.pdf
 source_collection: external

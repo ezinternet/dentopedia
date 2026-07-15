@@ -6,7 +6,7 @@ date: 2023-01-01
 doi: 10.1016/j.jormas.2023.101409
 source: van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.md
 category: [oral-surgery]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.pdf
 pdf_filename: van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases.pdf
 source_collection: external

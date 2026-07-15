@@ -7,7 +7,7 @@ doi: "10.1016/j.joms.2026.03.008"
 pmid: "41912025"
 source: thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.txt
 text_filename: thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.txt

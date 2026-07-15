@@ -6,7 +6,7 @@ date: 2022-01-01
 doi: 10.4317/jced.58390
 source: guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr.pdf
 pdf_filename: guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr.pdf
 source_collection: external

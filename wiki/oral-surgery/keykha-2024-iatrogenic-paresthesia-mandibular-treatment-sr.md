@@ -6,7 +6,7 @@ date: 2024-01-01
 doi: 10.1186/s40902-024-00438-5
 source: keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr.pdf
 pdf_filename: keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr.pdf
 source_collection: external

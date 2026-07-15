@@ -6,7 +6,7 @@ date: 2024-05-20
 doi: 10.3390/dj12050147
 source: oliva-2024-oroantral-communication-fistula-treatment-sr-ma.md
 category: oral-surgery
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/oliva-2024-oroantral-communication-fistula-treatment-sr-ma.pdf
 pdf_filename: oliva-2024-oroantral-communication-fistula-treatment-sr-ma.pdf
 source_collection: external

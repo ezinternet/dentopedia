@@ -6,7 +6,7 @@ date: 2022-10-26
 doi: 10.1155/2022/1816748
 source: firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 pmid: "36339067"

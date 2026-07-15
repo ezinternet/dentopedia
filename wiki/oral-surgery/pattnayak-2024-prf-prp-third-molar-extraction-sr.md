@@ -6,7 +6,7 @@ date: 2024-12-20
 doi: 10.5005/jp-journals-10024-3727
 source: pattnayak-2024-prf-prp-third-molar-extraction-sr.md
 category: [oral-surgery]
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pattnayak-2024-prf-prp-third-molar-extraction-sr.pdf
 pdf_filename: pattnayak-2024-prf-prp-third-molar-extraction-sr.pdf
 source_collection: external

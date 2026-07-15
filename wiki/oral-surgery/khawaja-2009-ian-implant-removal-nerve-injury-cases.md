@@ -6,7 +6,7 @@ date: 2009-04-11
 doi: 10.1038/sj.bdj.2009.258
 source: khawaja-2009-ian-implant-removal-nerve-injury-cases.md
 category: [oral-surgery]
-confidence: case-report
+evidence_level: case-report
 pdf_path: /Users/oracleneo/llm-wiki/papers/khawaja-2009-ian-implant-removal-nerve-injury-cases.pdf
 pdf_filename: khawaja-2009-ian-implant-removal-nerve-injury-cases.pdf
 source_collection: external

@@ -7,7 +7,7 @@ doi: 10.1002/micr.20430
 journal: Microsurgery
 source: lin-2007-ginkgo-biloba-nerve-regeneration-rat.md
 category: [oral-surgery]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2007-ginkgo-biloba-nerve-regeneration-rat.pdf
 pdf_filename: lin-2007-ginkgo-biloba-nerve-regeneration-rat.pdf
 source_collection: external

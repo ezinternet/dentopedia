@@ -7,7 +7,7 @@ doi: 10.1016/j.joms.2017.01.002
 pmid: "28189661"
 source: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.md
 category: [oral-surgery]
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
 pdf_filename: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt

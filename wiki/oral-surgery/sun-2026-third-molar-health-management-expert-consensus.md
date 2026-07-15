@@ -6,7 +6,7 @@ date: 2026-04-15
 doi: 10.1038/s41368-025-00413-4
 source: sun-2026-third-molar-health-management-expert-consensus.md
 category: oral-surgery
-confidence: consensus
+evidence_level: consensus
 source_collection: pubmed-text
 full_text: true
 pmid: "41980927"

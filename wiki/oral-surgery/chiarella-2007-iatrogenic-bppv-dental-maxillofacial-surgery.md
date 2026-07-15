@@ -6,7 +6,7 @@ date: 2007-06-01
 doi: unknown
 source: chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery.md
 category: [oral-surgery]
-confidence: case-report
+evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
 pmid: "17883189"

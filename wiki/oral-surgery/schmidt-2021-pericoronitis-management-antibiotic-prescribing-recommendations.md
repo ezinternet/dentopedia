@@ -6,7 +6,7 @@ date: 2021-06-24
 doi: 10.3390/ijerph18136796
 source: schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations.md
 category: oral-surgery
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-text
 full_text: true
 pmid: "34202699"
