@@ -26,13 +26,23 @@ cd "$(dirname "$0")/.."
 # Make sure the index is current before embedding.
 qmd update || true
 
+# Per-pass output goes to a temp file via `tee` so it STREAMS to stdout/the log live,
+# instead of being swallowed by `out="$(qmd embed ...)"` and dumped only after the pass
+# ends. That swallowing made `tail -f logs/embed-until-done.log` look frozen for ~30min
+# at a time, then vomit a whole pass at once — it read as a hang, and the only way to see
+# real progress was `qmd status`. We still need the full text to grep for the done marker,
+# hence tee (stream) + grep the file (detect), rather than a command substitution.
+tmp="$(mktemp -t embed-until-done)"
+trap 'rm -f "$tmp"' EXIT
+
 pass=0
 while (( pass < MAX_PASSES )); do
   pass=$((pass + 1))
   echo "── embed pass ${pass} ──"
-  out="$(qmd embed "$@" 2>&1 || true)"
-  echo "$out"
-  if grep -qF "$DONE_MARKER" <<<"$out"; then
+  # `|| true` on the pipeline: a failed pass must not kill the loop (set -e is on) —
+  # session expiry IS the normal per-pass ending and we simply retry.
+  qmd embed "$@" 2>&1 | tee "$tmp" || true
+  if grep -qF "$DONE_MARKER" "$tmp"; then
     echo "✅ embed complete after ${pass} pass(es)."
     exit 0
   fi
