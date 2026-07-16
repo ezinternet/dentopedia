@@ -1,0 +1,75 @@
+Source: PubMed Central full text. PMID 30298361 / PMC6175733. DOI 10.1186/s40729-018-0141-7
+
+Title: The effect of non-steroidal anti-inflammatory drugs on the osteogenic activity in
+osseointegration: a systematic review.
+Authors: Luo JD, Miller C, Jirjis T, Nasir M, Sharma D.
+Journal: International Journal of Implant Dentistry. 2018 Oct 9;4(1):30.
+
+STUDY TYPE AND PROTOCOL
+This is a systematic review conducted and reported according to PRISMA, with a protocol
+registered in PROSPERO (registration CRD42016051448). No meta-analysis was performed because
+of substantial heterogeneity across the included studies (differences in model type, NSAID
+agent, dose, duration, and outcome measures).
+
+SEARCH AND SELECTION
+The authors searched Ovid, PubMed, Scopus, and Web of Science, restricting the window to
+1999-2018 (1999 chosen because that is when selective COX-2 inhibitors were introduced, making
+it the relevant era for comparing conventional non-selective NSAIDs against selective COX-2
+agents). The search returned 875 titles. After screening, 79 full-text articles were assessed
+for eligibility, and 13 studies met the inclusion criteria. The 13 included studies comprised
+2 in vitro studies performed on titanium surfaces, 2 clinical trials plus 1 retrospective
+clinical study in humans, and 7 animal studies.
+
+CENTRAL FINDING
+The central conclusion is that osseointegration does not appear to be negatively affected by
+NSAIDs in the human clinical studies, which contrasts with the experimental in vitro and in
+vivo animal studies that do show impairment. The authors judged that there is insufficient
+evidence to conclude a definite relationship between NSAID use and early implant failure. The
+human clinical data and the experimental data point in opposite directions, and the human data
+are sparse and of limited quality.
+
+HUMAN CLINICAL DATA
+Two randomized controlled trials (Alissa et al.; Sakka et al.) administered ibuprofen 600 mg
+four times per day for 7 days and found NO significant difference in marginal bone level at 3
+and 6 months compared with controls. One retrospective study (Winnett et al.) compared a
+perioperative NSAID cohort (n=60) that experienced 119 failed implants against a non-NSAID
+cohort (n=44) that experienced 78 failures, and associated NSAID exposure with implant failure.
+Thus the two prospective RCTs found no effect on peri-implant marginal bone, while the single
+retrospective study suggested an association with failure.
+
+IN VITRO DATA (ON TITANIUM)
+Boyan et al. showed that NSAIDs reduced the PGE2 production of osteoblasts grown on rough
+titanium surfaces; PGE2 is favorable for osteoblast proliferation and differentiation, so a
+reduction is unfavorable to bone formation. Arpornmaeklong et al. showed that indomethacin and
+celecoxib inhibited rat calvarial osteoblast growth in a dose-dependent manner (celecoxib
+effect dose-dependent).
+
+ANIMAL DATA
+Long-term selective COX-2 inhibition impaired bone integration: meloxicam 3 mg/kg/day for 60
+days, and rofecoxib 12.5 mg/kg/day continuously for 6 weeks, significantly reduced bone
+ingrowth, bone-to-implant contact (BIC), and bone density, resulting in failed
+osseointegration. In contrast, SHORT-term (2 weeks) administration of rofecoxib or meloxicam
+did NOT impair osseointegration. COX-2-knockout mice (Chikazu et al.) showed minimal BIC.
+Diclofenac given for 5 days delayed peri-implant healing in one study (Pablos et al.) but did
+not in others (Cai et al.; Salduz et al.). The animal evidence is therefore inconsistent, and
+the effect appears to depend on DOSE, DURATION, and COX-2 SELECTIVITY rather than on NSAID use
+per se.
+
+CONTEXT: PRIOR SYSTEMATIC REVIEWS
+Two prior systematic reviews are cited. Gomes et al. concluded that osseointegration is impaired
+by conventional NSAIDs. Kalyvas et al. concluded that short-term post-operative NSAIDs do not
+negatively impact osseointegration. Both prior reviews agree that prolonged / long-term NSAID
+use impairs osseointegration.
+
+RISK OF BIAS AND GAPS
+Most of the included studies were at high risk of bias. A key gap is that no human clinical
+study has tested a selective COX-2 inhibitor on osseointegration; the strongest signal of harm
+comes from animal selective COX-2 experiments that have no human clinical counterpart, and
+animal pharmacokinetics differ from human. This mismatch limits translation.
+
+MECHANISM
+COX-2 is upregulated during early bone repair, and PGE2 is needed for osteoblast proliferation
+and differentiation. Inhibition of COX (and hence of prostaglandin synthesis) can shift the
+bone-remodeling balance toward resorption, providing the biological rationale for why sustained,
+selective COX-2 inhibition might impair osseointegration even though short-course perioperative
+NSAID use in humans has not been shown to do so.
