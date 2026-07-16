@@ -1429,6 +1429,11 @@ tags: []
 - [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — RCT(n=1,815, 다기관): 이부프로펜+APAP이 히드로코돈+APAP보다 1–2일 통증 유의 낮고 전체 기간 비열등; 오피오이드 어떤 시점도 우위 없음
 - [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT(n=56): 이부프로펜+파라세타몰 교대투여(4h) vs 동시투여(8h) — 교대투여군 구제약 필요 15% vs 53%(p=0.002)
 - [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — 서술적 고찰: NSAIDs 치주 치유 상충 결과; COX-2 억제제는 임플란트 골유착 저해 가능; 인체 근거 부족 (Compend 2019)
+- [[drug/analgesics/gomes-2015-nsaids-osseointegration-review]] — 리뷰(31편: 임상2·동물20·세포9): COX-1 억제제는 골유착 저해 안 함, COX-2 억제 능력 있는 약은 저해 가능(in vitro 최강 depressor). 술후 COX-2 선택제 주의 — 'COX-2가 범인' 명제의 근거.
+- [[drug/analgesics/luo-2018-nsaids-osteogenic-activity-osseointegration-sr]] — 체계적문헌고찰(PRISMA/PROSPERO, 13편): 핵심 반전 — 인체 임상(ibuprofen 7일 RCT 2편)은 골유착 영향 無, in vitro·동물만 저해. 효과는 용량·기간·COX-2 선택성 의존, 장기만 저해. 인체 COX-2 선택제 연구 부재(공백).
+- [[drug/analgesics/kumchai-2025-naproxen-implant-osseointegration-pilot-rct]] — 위약대조 파일럿 RCT(n=12, 상악): 나프록센 7일. ISQ 4주 +1% vs 위약 +41%, MBL 55%↑ — 모두 비유의(과소검정). 점추정은 골유착 저해 방향, MBL이 더 효율적 지표(7–10/군). 최초 인체 osseointegration RCT.
+- [[drug/analgesics/chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort]] — 후향코호트(12,943명·49,997 임플란트): NSAID군 조기실패 조정 OR — ibuprofen 2.29(implant)/2.87(patient), naproxen 2.65(implant); 교란(고령·당뇨·골다공증 보정)이나 association-only. 최대 인체근거.
+- [[drug/analgesics/lupepsa-2021-low-dose-aspirin-osseointegration-rats]] — 동물(rat tibia, n=32): 저용량 아스피린(6.75mg/kg≈인체 75–80mg) 7일째 BIC 유의 저하(62.8% vs 82.7%)이나 28일째 회복(91.9%≈89.9%). 초기 골침착만 일시 지연 — 심혈관용 저용량 아스피린의 골유착 영향을 정량, 임플란트 금기 아님.
 - [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — 후향적 ICU(n=1,157): NSAIDs → AKI OR 1.98; 중증 AKI → 2년 생존율 악화(aHR 1.42); 신기능 취약 환자 NSAID 주의
 - [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — 서술적 고찰: RA·AS 환자에서 NSAIDs CV 위험 증가 없음; 전신염증 억제로 심보호 효과 가능 (Semin Arthritis Rheum 2025)
 - [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — 후향적코호트(n=98, 골다공증+발치): MRONJ 4.1%; denosumab 단독 vs BP+Dmab 유의차 없음; 류마티스관절염 유일한 유의 위험인자(OR 35.4); 발치 없이도 치주염에서 MRONJ 발생
