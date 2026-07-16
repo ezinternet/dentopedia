@@ -1,0 +1,61 @@
+Source: PubMed Central full text. PMID 39757749 / PMC11702411. DOI 10.1002/cre2.70065
+
+Title: Randomized, Placebo-Controlled Pilot Study of Naproxen During Dental Implant Osseointegration.
+Authors: Kumchai H, Taub DI, Tomlinson RE.
+Journal: Clinical and Experimental Dental Research. 2025 Feb;11(1):e70065.
+
+BACKGROUND AND RATIONALE
+Non-steroidal anti-inflammatory drugs (NSAIDs) are widely used for post-operative dental
+pain, yet there is long-standing concern that they may impair bone healing. NSAIDs inhibit
+cyclooxygenase (COX), reducing prostaglandin E2 (PGE2) synthesis. PGE2 and the COX-2
+pathway are known to be critical for craniofacial bone repair; COX-2 knockout mice
+demonstrate calvarial non-union, underscoring the mechanistic plausibility that NSAIDs could
+compromise early osseointegration of dental implants. Despite this concern, no prior
+randomized trial had directly measured osseointegration outcomes in humans under NSAID
+exposure. This pilot study was designed to generate effect-size and sample-size estimates for
+a future definitive trial.
+
+METHODS
+Design: prospective, randomized, placebo-controlled pilot trial. Patients receiving maxillary
+dental implants were randomized to either naproxen 220 mg every 8 hours for 7 days (n=7) or
+matching placebo (n=5). Both groups additionally received acetaminophen 500 mg every 6 hours;
+rescue analgesia was acetaminophen with codeine. A total of 12 patients were analyzed; one
+naproxen-group subject was removed from analysis after the implant failed at 1 week.
+Exclusion criteria included smokers, patients with uncontrolled diabetes, and chronic NSAID
+users. Implant stability was assessed by the Implant Stability Quotient (ISQ) using resonance
+frequency analysis (Osstell device) at baseline and at 1, 4, and 16 weeks. Marginal bone loss
+(MBL) was measured on periapical radiographs.
+
+RESULTS
+Implant stability increased over time in both groups but the trajectories differed. At 4 weeks,
+ISQ had increased approximately +1% in the naproxen group versus +41% in the placebo group; at
+16 weeks the increases were +34% (naproxen) versus +67% (placebo). These between-group
+differences were not statistically significant, reflecting the small sample size. Marginal
+bone loss was greater in the naproxen group: approximately 55% more MBL at 4 weeks and 52% more
+at 16 weeks compared with placebo, again not statistically significant (p >= 0.05). All
+implants had ISQ greater than 40 by the end of the study. One implant failure occurred at 1
+week, in the naproxen group.
+
+Regarding analgesia, the placebo group required rescue medication far more often (80%) than the
+naproxen group (14.3%), confirming that naproxen effectively relieved post-operative pain.
+
+POWER / SAMPLE-SIZE ANALYSIS
+Using the observed effect sizes, the investigators estimated that a definitive trial powered on
+the ISQ endpoint would require at least 64 subjects per group at the 4-week time point, and up
+to hundreds of subjects to detect the effect definitively. In contrast, the MBL endpoint would
+require only about 7-10 subjects per group. The authors therefore recommend MBL as the more
+efficient primary endpoint for future trials.
+
+SUPPLEMENTARY QUESTIONNAIRE
+A separate questionnaire of 18 patients who had experienced early implant failure found that
+67.7% reported post-operative NSAID use, compared with roughly 26% NSAID use in the general
+population (NHANES reference); 32.3% of the failure patients did not use NSAIDs.
+
+CONCLUSION
+There was no statistically significant difference between naproxen and placebo in either ISQ or
+MBL, consistent with the study being an underpowered pilot. However, the point estimates were
+directionally consistent: naproxen was associated with slower stability gain and greater
+marginal bone loss, suggesting NSAIDs may impair early osseointegration. The study delivers
+effect sizes and sample-size estimates for a future adequately powered trial and identifies MBL
+as the more efficient endpoint. The findings do not establish a definitive clinical effect but
+support caution and further investigation.
