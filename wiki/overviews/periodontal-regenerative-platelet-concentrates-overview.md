@@ -18,6 +18,8 @@ relations:
     target: assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat
   - type: refines
     target: park-2022-prf-gbr-damaged-socket-yonsei
+  - type: refines
+    target: cho-2026-prf-bone-regeneration-mechanisms-scoping-review
 ---
 
 ## 한국어 핵심요약
