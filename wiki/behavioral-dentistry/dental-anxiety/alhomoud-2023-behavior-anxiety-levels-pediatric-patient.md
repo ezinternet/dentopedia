@@ -14,6 +14,8 @@ tags: [dental-anxiety, pediatric, frankl, venham, behavior-rating, cross-section
 relations:
   - type: reinforces
     target: pediatric-2026-dental-anxiety-contemporary-assessment-management
+  - type: extends
+    target: jkda-2021-60-1-003
 ---
 
 ## Three-line Summary
