@@ -36,13 +36,16 @@ PHASE 2 — finalize (serial, parent only — avoids git/index races):
         ← per-file git commit + push + qmd update/embed (incremental) + mark processed
   for each returned skip-paper: delete the duplicate PDF, mark queue processed (no page)
 
-  AFTER the loop (large fan-out only, ≳5 papers): run once to guarantee the batch is
-  fully embedded — per-`--finish` incremental embeds can leave a backlog that exits 0
-  without finishing (daemon session expiry):
-    • bash scripts/embed-until-done.sh
+  AFTER the loop (large fan-out only, ≳5 papers): per-`--finish` incremental embeds can
+  leave a backlog that exits 0 without finishing (daemon session expiry). Check the REAL
+  backlog, then drain — see Step 5 for the full rules:
+    • qmd status | grep Pending          ← 진짜 백로그 (update가 찍는 숫자는 거짓)
+    • 남아 있으면 무인 드레인 (세션 죽어도 계속):
+        launchctl kickstart gui/$(id -u)/com.llmwiki.embed-until-done
+      (소량이라 세션 내에서 끝낼 거면: bash scripts/embed-until-done.sh &)
 ```
 
-Why this split: file writes to distinct paths (`sources/*`, `wiki/*`, distinct PDFs) are conflict-free in parallel, so PHASE 1 parallelizes the real bottleneck (PDF read + page authoring — this is what was slow). But `index.md` edits and `git add/commit/push` share mutable state — running them concurrently races/corrupts the index and the git tree — so PHASE 2 keeps them strictly serial in the parent. Subagents do NOT use `isolation: worktree` (they must write into the main working tree the parent then commits). `qmd embed` is incremental (only changed docs, seconds), so running it inside each `--finish` is cheap; never force a full re-embed (`-f`). Caveat for large fan-outs: incremental embeds can accumulate a backlog the daemon leaves half-done (exit 0 ≠ complete), so PHASE 2 ends with a single `bash scripts/embed-until-done.sh` that loops `qmd update`/`embed` until the `"All content hashes already have embeddings"` marker appears.
+Why this split: file writes to distinct paths (`sources/*`, `wiki/*`, distinct PDFs) are conflict-free in parallel, so PHASE 1 parallelizes the real bottleneck (PDF read + page authoring — this is what was slow). But `index.md` edits and `git add/commit/push` share mutable state — running them concurrently races/corrupts the index and the git tree — so PHASE 2 keeps them strictly serial in the parent. Subagents do NOT use `isolation: worktree` (they must write into the main working tree the parent then commits). `qmd embed` is incremental (only changed docs, seconds), so running it inside each `--finish` is cheap; never force a full re-embed (`-f`). Caveat for large fan-outs: incremental embeds can accumulate a backlog the daemon leaves half-done (exit 0 ≠ complete), so PHASE 2 ends by checking `qmd status | grep Pending` and, if work remains, draining it until the `"All content hashes already have embeddings"` marker appears. Prefer the launchd job (`launchctl kickstart gui/$(id -u)/com.llmwiki.embed-until-done`) over a bare `bash scripts/embed-until-done.sh` for anything sizable — the bare script is session-bound and dies with the Claude Code session, while a big backlog takes ~10 passes / overnight. See Step 5.
 
 Helper: `python3 scripts/ingest-one.py --next` prints one stem+text for a single subagent; read `.ingest-queue` `pending[]` to enumerate all stems to fan out in PHASE 1. For a single paper, skip the fan-out and run Steps 0–4 + `--finish` inline (no subagent needed).
 
@@ -306,14 +309,56 @@ qmd update   # 파일시스템 재스캔 (신규/변경/삭제 반영)
 qmd embed    # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초). 전체 재임베딩(-f)은 ~2.5h이므로 금지
 ```
 
-**주의 — `qmd embed`는 백로그가 크면 미완료로 끝난다.** 대량 백로그(2,000편+)에서 daemon 세션이 중간에 만료되어 `qmd embed`가 남은 문서를 임베딩하지 않고 exit 0으로 끝난다 (exit-0 ≠ 완료). 유일하게 믿을 수 있는 완료 신호는 `"All content hashes already have embeddings"` 메시지다. 1~2편만 추가한 일반 ingest라면 위 단일 실행으로 충분하지만, **백로그가 쌓였거나 확실히 끝내야 할 때는 done 마커까지 반복 실행하는 헬퍼를 쓴다:**
+**주의 — `qmd embed`는 백로그가 크면 미완료로 끝난다.** 대량 백로그에서 daemon 세션이 중간에 만료되어 `qmd embed`가 남은 문서를 임베딩하지 않고 exit 0으로 끝난다 (exit-0 ≠ 완료). 유일하게 믿을 수 있는 완료 신호는 `"All content hashes already have embeddings"` 메시지다. 1~2편만 추가한 일반 ingest라면 위 단일 실행으로 충분하다.
+
+### 백로그 확인 — `qmd update`가 출력하는 숫자를 믿지 마라
+
+`qmd update` 끝에 나오는 `Run 'qmd embed' to update embeddings (N unique hashes need vectors)`의 **N은 남은 작업량이 아니라 전체 인덱스 파일 수다** (실측 2026-07-16: update는 "5660", 실제 백로그는 713). 진짜 백로그는 `qmd status`로 본다:
+
+```bash
+qmd status | grep Pending      # ← 이것만이 진짜 백로그
+```
+
+**단위 주의**: `Pending:`은 **문서** 수, `Vectors:`는 **청크** 수다. 실측 환산 ≈ 문서당 3.2청크, 패스당 ~250청크 → **필요 패스 ≈ (Pending × 3.2) ÷ 250**. (713문서 ≈ 2,300청크 ≈ 10패스 ≈ 하룻밤)
+
+### 드레인 — 규모에 따라 둘 중 하나
+
+**(A) 무인·대량 — launchd (권장).** 세션·터미널과 무관하게 돌고, 세션 만료마다 자동 재실행하다 done 마커에서 스스로 멈춘다:
+
+```bash
+launchctl kickstart gui/$(id -u)/com.llmwiki.embed-until-done
+tail -f logs/embed-until-done.log        # 관찰 (단 패스가 끝나야 한 번에 출력됨 — 아래 참고)
+```
+
+> ⚠️ **launchd는 다음번에 자동으로 돌지 않는다.** plist가 `KeepAlive={SuccessfulExit:false}`라, 드레인이 done 마커로 exit 0을 내는 순간 launchd는 재실행을 멈추고 잠든다. 다음 ingest로 생긴 백로그는 **자동으로 안 빠진다** — 위 `kickstart`로 매번 깨워야 한다. (재부팅·로그인 시에는 `RunAtLoad`로 한 번 자동 실행.) 미설치라면 `.claude/scripts/com.llmwiki.embed-until-done.plist`를 `~/Library/LaunchAgents/`로 복사 후 `launchctl load -w`.
+
+**(B) 소량·세션 내 — 스크립트 직접.** Claude Code / 터미널 세션이 끝나면 **같이 죽는다**:
 
 ```bash
 bash scripts/embed-until-done.sh      # done 마커 나올 때까지 반복 (내부에서 qmd update도 실행)
-bash scripts/embed-until-done.sh &    # 백그라운드로 걸어두고 다음 작업 진행
+bash scripts/embed-until-done.sh &    # 백그라운드
+bash scripts/embed-until-done.sh -c wiki   # 컬렉션 한정 (인자는 qmd embed로 통과)
 ```
 
-`scripts/embed-until-done.sh`는 `qmd update` → `qmd embed`를 done 마커가 나올 때까지 반복하며, `MAX_PASSES=40` 안전 상한이 있다. (참고: 메모리 `qmd-embed-multipass`)
+`scripts/embed-until-done.sh`는 `qmd update` → `qmd embed`를 done 마커까지 반복하며 `MAX_PASSES=40` 상한이 있다. 단 `qmd update`는 루프 **바깥**이라 맨 처음 1회만 실행된다.
+
+### 금지 · 진단
+
+| 금지 | 이유 |
+|---|---|
+| `qmd embed` **동시 2개** | 같은 인덱스에서 교착 → 진행 0. 시작 전 `pgrep -f "qmd.js embed"` 확인 |
+| `qmd embed -f` | 전체 재임베딩 ~2.5h |
+| `exit 0`을 완료로 간주 | done 마커만이 완료 신호 |
+| "session expired" 보고 daemon 재시작 | 그건 정상적인 패스별 타임아웃. daemon 누수는 *질의가 300초+* 라는 별도 signature가 있을 때만 |
+
+**살아있는지 확인**: `Pending`은 SQLite 체크포인트 때만 갱신돼 몇 분씩 멈춰 보인다. 진짜 생존 지표는 WAL 수정 시각과 워커 누적 CPU다:
+
+```bash
+ls -l ~/.cache/qmd/index.sqlite-wal                  # 시각이 최근이면 정상
+ps -o pid,etime,time,state -p $(pgrep -f "qmd.js embed" | head -1)   # TIME이 늘면 연산 중
+```
+
+**로그가 멈춰 보이는 이유**: 스크립트가 `out="$(qmd embed ...)"`로 출력을 변수에 담았다가 패스 종료 후 한 번에 찍는다. `tail -f`는 ~30분간 얼어붙은 듯 보이다 패스 전체를 쏟아낸다 — 고장이 아니다. 실시간 진행은 위 `qmd status` / WAL로 본다.
 
 The MCP daemon picks up new vectors automatically — no restart needed.
 
