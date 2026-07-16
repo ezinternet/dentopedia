@@ -16,12 +16,16 @@ relations:
     target: gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition
   - type: contradicts
     target: kim-2026-efficacy-and-stability-of
+  - type: extends
+    target: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing
   - type: reinforces
     target: de-la-rosa-gay-2025-expansion-predictability-clear-aligner
   - type: refines
     target: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma
   - type: reinforces
     target: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr
+  - type: refines
+    target: thakur-2026-probiotics-clear-aligner-biofilm-rct
   - type: extends
     target: tabone-2026-clear-aligner-oral-microbiome-sr
 ---
