@@ -3,13 +3,19 @@
 논쟁 레이더 백필 후보 finder (SIGNAL — 엣지를 자동으로 쓰지 않는다).
 
 위키 본문(및 매칭되는 sources/의 Why Ingested)에서 "명시적 충돌 표현"을 스캔해,
-아직 relations: contradicts/refines 엣지가 없는 논쟁 후보를 등급별로 뽑는다.
+아직 relations: 타입 엣지가 없는 논쟁 후보를 등급별로 뽑는다.
 사람/LLM이 이 목록을 읽고 판단해 실제 엣지를 단다 (Rule #1·품질 기준 준수 —
 기계가 충돌을 확정하지 않는다).
 
-Tier 1 (actionable): 충돌 표현 + 같은 문맥에 [[wikilink]]로 대상이 지목됨, 엣지 없음.
+Tier 1 (actionable): 충돌 표현 + 키워드에 가장 가까운 [[wikilink]]로 대상이 지목됨
+                      + 그 쌍에 **어떤 타입의 relations 엣지도 없음**.
                       → 두 페이지를 읽고 판단 후 relations 엣지를 달 수 있는 후보.
-Tier 2 (review):      충돌 표현은 있으나 대상 링크가 불명확. → 대상 식별 필요.
+Tier 2 (review):      충돌 표현은 있으나 대상이 불명확하거나(링크 없음 / 키워드에서
+                      너무 멂 / 동일 줄 비최근접) SOFT 신호. → 대상 식별 필요.
+
+**type_hint(충돌 유형)를 그대로 엣지로 옮기지 마라.** 표현 매칭 기반 근사치다.
+2026-07-17 전수 검토: contradicts 계열로 지목된 122건 중 실제 contradicts는 1건.
+흔한 실제 유형은 refines(신형 SR/MA가 구형 술식을 정량 순위)·extends(다른 인구집단).
 
 각 카드는 한국어로 (a) 충돌 유형 뜻, (b) 근거 문장, (c) 양쪽 페이지의 ## 세줄요약을
 함께 보여준다 — 페이지를 열지 않고도 두 논문이 각각 뭐라고 주장하는지 한글로 파악.
@@ -29,13 +35,21 @@ SOURCES = ROOT / "sources"
 OUT = ROOT / "logs" / f"{date.today().isoformat()}_contradiction-candidates.md"
 
 # 명시적 충돌 신호. HIGH = 오탐 적음(자동 write 후보), SOFT = 노이즈 많음(review only).
+#
+# 단어 경계 주의 (2026-07-17 수정):
+#   - 한글은 \b가 무용하다. 모든 한글 음절이 \w라 음절 사이에 경계가 생기지 않아
+#     '반론'이 '일반론'에, '상반'이 '상반신/상반기'에 부분 매칭됐다.
+#     → 앞 경계는 (?<![가-힣]) 로, 뒤 경계는 어미를 명시해 만든다.
+#   - '배치되'는 제거했다. 배치(背馳, 어긋남)와 배치(配置, 식립·배열)가 동음이의어라
+#     정규식으로 구분 불가능하고, 치과 위키에서는 후자가 압도적이다.
 HIGH = re.compile(
-    r"contradict|counterpoint|counter to|contrary to|in contrast to|at odds|"
-    r"conflicting (?:evidence|result|finding)|refut|overturn|"
-    r"반박|상충|상반|반론|대비되는|배치되|뒤집", re.IGNORECASE)
+    r"\bcontradict|\bcounterpoint|\bcounter to\b|\bcontrary to\b|\bin contrast to\b|"
+    r"\bat odds\b|\bconflicting (?:evidence|result|finding)|\brefut|\boverturn|"
+    r"(?<![가-힣])반박|(?<![가-힣])상충|(?<![가-힣])상반[되된적]|(?<![가-힣])반론|"
+    r"(?<![가-힣])대비되는|(?<![가-힣])뒤집", re.IGNORECASE)
 SOFT = re.compile(
-    r"\bunlike\b|\bwhereas\b|challenges the|disagree|inconsistent with|"
-    r"however,? (?:this|the|our)|대조적", re.IGNORECASE)
+    r"\bunlike\b|\bwhereas\b|\bchallenges the\b|\bdisagree|\binconsistent with\b|"
+    r"\bhowever,? (?:this|the|our)|(?<![가-힣])대조적", re.IGNORECASE)
 
 # 충돌 표현 → 한글 뜻 (카드 가독성용). 부분 문자열 매칭, 첫 일치 사용.
 KW_KO = [
@@ -43,7 +57,7 @@ KW_KO = [
     ("contrary to", "상반된 결과"), ("in contrast to", "대조"), ("at odds", "상충"),
     ("conflicting", "상충 결과"), ("refut", "반증"), ("overturn", "결론 뒤집음"),
     ("반박", "반박"), ("상충", "상충"), ("상반", "상반"), ("반론", "반론"),
-    ("대비되는", "대비"), ("배치되", "배치"), ("뒤집", "뒤집음"),
+    ("대비되는", "대비"), ("뒤집", "뒤집음"),
     ("unlike", "다름"), ("whereas", "반면(대조)"), ("challenges the", "도전"),
     ("disagree", "불일치"), ("inconsistent with", "불일치"),
     ("however", "그러나(단서)"), ("대조적", "대조"),
@@ -79,14 +93,24 @@ def parse(path):
     c = re.search(r"^category:\s*(.+)$", fm, re.MULTILINE)
     if c:
         cat = c.group(1).strip().strip("[]").split(",")[0].strip()
-    # 기존 contradicts/refines 엣지 target(stem) 집합
+    # 기존 typed 엣지 target(stem) 집합 — **타입 무관** (2026-07-17 수정).
+    #
+    # 과거엔 contradicts/refines 엣지만 "충족"으로 인정해, extends/reinforces/
+    # applies-to로 이미 연결된 쌍도 Tier 1으로 계속 방출했다. 2026-07-17 실측:
+    # Tier 1 122건 중 96건이 이 오탐이었고, 전수 검토 결과 96건 모두 기존 타입이
+    # 옳았다(=본문의 충돌 표현이 키워드 오탐이었다).
+    #
+    # 더 나쁜 건 이 신호를 **끌 수 없다**는 점이다. "아니오, extends가 맞다"는
+    # 판단을 기록할 수단이 없어 같은 쌍이 매일 영구 재방출된다 — 끌 수 없는 신호는
+    # 시간이 지나면 노이즈가 된다(AUDITS.md의 "signal, not gate"에 반한다).
+    # 어떤 타입이든 엣지가 있다면 저자가 이미 그 쌍을 보고 판단한 것으로 간주한다.
     edges = set()
     rel = re.search(r"^relations:\s*\n((?:[ \t]+.*\n?)+)", fm, re.MULTILINE)
     if rel:
         for item in re.split(r"\n(?=\s*-\s)", rel.group(1)):
             t = re.search(r"type:\s*(\S+)", item)
             g = re.search(r"target:\s*(\S+)", item)
-            if t and g and t.group(1) in ("contradicts", "refines"):
+            if t and g:
                 edges.add(g.group(1).strip().rstrip("/").split("/")[-1])
     return fm, body, cat, edges
 
@@ -109,8 +133,31 @@ def ko_line(stem, label):
         return f"  - ▸ {label}(`{stem}`) 세줄: {ol}"
     return f"  - ▸ {label}(`{stem}`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_"
 
+# 충돌 표현의 **대상 특정** (2026-07-17 추가).
+#
+# 과거엔 키워드가 있는 줄의 [[wikilink]]를 **전부** 대상으로 간주해, 링크 n개짜리
+# 줄이 Tier 1 후보 n건을 낳았다. 그중 진짜 대상은 많아야 1건이다. 실측 사례:
+# vorovenci-2024의 한 줄이 후보 7건을 만들었고, sinus-lift-lateral-2026-synthesis에
+# 붙은 "contradicts Maska null finding"은 실제로 akbari↔maska 쌍인데
+# synthesis↔akbari로 기록됐다.
+#
+# → 키워드와 **가장 가까운** 링크만 대상으로 삼고, 나머지는 대상이라는 근거가
+#   없으므로 Tier 2(대상 불명)로 강등한다. 버리지 않고 강등하는 이유는 놓친
+#   진짜 대상이 조용히 사라지면 안 되기 때문이다.
+MAX_DIST = 120   # 키워드↔링크 최대 문자 간극. 넘으면 같은 문장으로 보지 않는다.
+
+def gap(a, b, lo, hi):
+    """링크 span [a,b) 와 키워드 span [lo,hi) 사이 문자 간극 (겹치면 0)."""
+    if b <= lo:
+        return lo - b
+    if a >= hi:
+        return a - hi
+    return 0
+
 tier1 = []   # (page_stem, cat, target_stem, kw, snippet)
 tier2 = []   # (page_stem, cat, tier, kw, snippet)
+n_ambig = 0        # 동일 줄 비최근접 링크 — 대상 불명으로 강등된 수
+n_typed_skip = 0   # 이미 typed 엣지가 있어 제외된 (page,target) 쌍 수
 
 for md in WIKI.rglob("*.md"):
     if md.name.startswith("_") or md.stem in ("index",):
@@ -130,19 +177,43 @@ for md in WIKI.rglob("*.md"):
         so = None if hi else SOFT.search(line)
         if not hi and not so:
             continue
-        kw = (hi or so).group(0)
-        targets = [m.group(1).rstrip("/").split("/")[-1] for m in WIKILINK.finditer(line)]
-        targets = [t for t in targets if t in stems and t != md.stem and t not in edges]
+        m = hi or so
+        kw = m.group(0)
+        kw_lo, kw_hi = m.span()
         snip = re.sub(r"\s+", " ", line).strip()[:400]
-        if hi and targets:
-            for t in targets:
-                tier1.append((md.stem, cat, t, kw, snip))
+
+        links = []
+        for lm in WIKILINK.finditer(line):
+            s = lm.group(1).rstrip("/").split("/")[-1]
+            if s not in stems or s == md.stem:
+                continue
+            if s in edges:          # 이미 어떤 타입으로든 판단된 쌍
+                n_typed_skip += 1
+                continue
+            links.append((s, lm.start(), lm.end()))
+
+        if not links:
+            if hi:
+                tier2.append((md.stem, cat, "HIGH-no-target", kw, snip))
+            continue
+
+        # 키워드에 가장 가까운 링크 = 충돌 표현의 대상
+        links.sort(key=lambda t: gap(t[1], t[2], kw_lo, kw_hi))
+        nearest, na, nb = links[0]
+        nd = gap(na, nb, kw_lo, kw_hi)
+
+        if hi and nd <= MAX_DIST:
+            tier1.append((md.stem, cat, nearest, kw, snip))
         elif hi:
-            tier2.append((md.stem, cat, "HIGH-no-target", kw, snip))
-        # SOFT는 target 있을 때만 review 목록에
-        elif so and targets:
-            for t in targets:
-                tier2.append((md.stem, cat, f"SOFT→{t}", kw, snip))
+            # 키워드와 너무 멀다 — 같은 문장이라는 근거가 약하다
+            tier2.append((md.stem, cat, f"HIGH-far→{nearest}", kw, snip))
+        else:
+            tier2.append((md.stem, cat, f"SOFT→{nearest}", kw, snip))
+
+        # 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없다 → 강등
+        for s, a, b in links[1:]:
+            tier2.append((md.stem, cat, f"AMBIG→{s}", kw, snip))
+            n_ambig += 1
 
 # dedup tier1 by (page,target)
 seen = set(); t1 = []
@@ -156,7 +227,7 @@ t1.sort(key=lambda r: r[1])
 lines = [
     f"# 논쟁 레이더 백필 후보 — {date.today().isoformat()}",
     "",
-    "명시적 충돌 표현이 있으나 `relations: contradicts/refines` 엣지가 없는 후보. "
+    "명시적 충돌 표현이 있으나 그 쌍에 `relations:` 타입 엣지가 (어떤 타입이든) 없는 후보. "
     "**이 목록은 신호일 뿐 — 두 페이지를 읽고 판단해 엣지를 단다.**",
     "",
     "**카드 읽는 법**: 각 카드는 `출발페이지 —[충돌유형·한글뜻]→ 대상페이지` 형태다. "
@@ -164,10 +235,17 @@ lines = [
     "(2) **양쪽 페이지의 `## 세줄요약`**(한국어)을 붙여, 페이지를 열지 않고도 "
     "두 논문이 각각 무엇을 주장하는지·정말 충돌하는지 한글로 판단할 수 있게 했다. "
     "충돌 유형 한글뜻은 표현 매칭 기반 근사치이며, **최종 판단은 사람/LLM 몫**이다. "
-    "(reinforces가 맞는 경우도 있으니 키워드를 그대로 엣지로 옮기지 말 것.)",
+    "(reinforces가 맞는 경우도 있으니 키워드를 그대로 엣지로 옮기지 말 것 — "
+    "2026-07-17 전수 검토에서 contradicts 계열로 지목된 122건 중 실제 contradicts는 1건이었다.)",
+    "",
+    "**대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 "
+    "충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 "
+    "진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.",
     "",
     f"- Tier 1 (대상 지목됨, actionable): **{len(t1)}**",
     f"- Tier 2 (대상 불명/soft, review): **{len(tier2)}**",
+    f"- (억제됨) 이미 typed 엣지가 있어 제외: **{n_typed_skip}** · "
+    f"동일 줄 비최근접으로 Tier 2 강등: **{n_ambig}**",
     "",
     "## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)",
     "",
@@ -201,4 +279,5 @@ OUT.write_text("\n".join(lines), encoding="utf-8")
 print(f"✓ {OUT.relative_to(ROOT)}")
 print(f"  Tier 1 (actionable, page→target): {len(t1)}")
 print(f"  Tier 2 (review): {len(tier2)}")
+print(f"  억제: typed 엣지 기존재 {n_typed_skip} · 동일 줄 비최근접 강등 {n_ambig}")
 print(f"  세줄요약 인덱스: {sum(1 for v in oneliner.values() if v)}/{len(oneliner)} pages")
