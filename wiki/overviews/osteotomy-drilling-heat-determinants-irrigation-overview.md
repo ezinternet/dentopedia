@@ -22,6 +22,9 @@ source_papers:
   - wiki/implants/rugova-2024-thermal-evaluation-bone-drilling-sequential.md
   - wiki/implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
 tags: [osteotomy, drilling-heat, thermal-osteonecrosis, irrigation, chilled-saline, drill-wear, guided-surgery, drilling-sequence, osseointegration, bic, 47-degree-threshold]
+relations:
+  - type: refines
+    target: rugova-2024-thermal-evaluation-bone-drilling-sequential
 ---
 
 > [!summary] 한국어 핵심요약
