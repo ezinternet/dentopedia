@@ -318,7 +318,7 @@ qmd embed    # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초)
 `qmd update`/`qmd embed`는 고아 벡터를 **절대 치우지 않는다.** 페이지를 수정하면 해시가 바뀌어 새 벡터가 생기는데 옛 벡터는 그대로 남고, 이것이 검색을 조용히 망가뜨린다 (아래 *왜 무해하지 않은가*). 이 청소는 **주간 launchd 잡이 알아서 한다 — ingest 절차에 넣지 마라**:
 
 ```
-com.llmwiki.qmd-cleanup   매주 월 08:30   .claude/scripts/qmd-cleanup.sh
+com.llmwiki.qmd-cleanup   매주 월 10:00   .claude/scripts/qmd-cleanup.sh
 로그: .claude/scripts/qmd-cleanup.log
 ```
 
