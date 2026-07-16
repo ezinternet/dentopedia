@@ -12,6 +12,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2023-antral-pseudocyst-drift-ost
 pdf_filename: wang-2023-antral-pseudocyst-drift-osteotome-case.pdf
 source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, osteotome-sinus-elevation, transcrestal, drift, simultaneous-implant, literature-review]
+relations:
+  - type: extends
+    target: nosaka-2024-sinus-elevation-radiopaque-lesions-review
 ---
 
 ## Three-line Summary
