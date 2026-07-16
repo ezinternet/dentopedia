@@ -187,6 +187,8 @@ tags: []
 (줄2: 핵심 결과/수치)
 (줄3: 임상적 의미 또는 핵심 한계)
 
+> **Three-line Summary 규칙 (SSOT — moved here from `CLAUDE.md` 2026-07-17).** 모든 wiki 페이지 **및** source 페이지는 이 이중언어 세줄요약을 **두 개의 분리된 섹션**으로, 이 순서대로 싣는다: `## Three-line Summary`(영어) 바로 뒤에 `## 세줄요약`(한국어). wiki 페이지에서는 이 쌍이 `## Summary` 바로 위, source 페이지에서는 `## 1. Document Information` 바로 위에 온다. 신규 페이지는 두 언어 모두 필수. 각 섹션은 정확히 3줄(줄 사이 빈 줄) — 줄1: 연구유형·n·맥락 / 줄2: 수치를 포함한 1차 결과 / 줄3: 임상적 함의 또는 핵심 한계.
+
 ## Summary
 ## Key Contributions
 ## Methodology
