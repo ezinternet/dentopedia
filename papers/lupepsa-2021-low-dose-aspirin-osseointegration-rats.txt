@@ -1,0 +1,90 @@
+Source: PubMed Central full text. PMID 33438057 / PMC7803849. DOI 10.1186/s40729-020-00283-x
+
+Title: Effects of low-dose aspirin on the osseointegration process in rats.
+Authors: Lupepsa AC, Vargas-Sanchez P, Moro MG, Mecca LEA, Claudino M, Soares PBF,
+Fischborn AR, Andreis JD, Franco GCN.
+Journal: International Journal of Implant Dentistry. 2021 Jan 13;7(1):3.
+
+BACKGROUND
+Aspirin (acetylsalicylic acid) is one of the most widely consumed drugs worldwide.
+At low doses (roughly 75-100 mg/day in humans) it is prescribed chronically for
+cardiovascular prophylaxis because of its irreversible inhibition of platelet
+cyclooxygenase (COX). A growing number of dental-implant candidates are therefore
+long-term low-dose aspirin users. Because COX-derived prostaglandins participate in
+the bone-healing cascade, the authors asked whether chronic low-dose aspirin
+interferes with the biological process of osseointegration - the direct
+bone-to-implant apposition on which implant success depends. Earlier work had shown
+that higher, anti-inflammatory/analgesic aspirin doses can delay bone and fracture
+healing, but the specifically cardioprotective LOW dose had not been characterized
+around a titanium implant.
+
+AIM
+To evaluate, histomorphometrically, the influence of continuous low-dose aspirin on
+early and late osseointegration of machined-surface titanium implants placed in the
+rat tibia.
+
+METHODS
+The study followed the ARRIVE guidelines for animal research. Thirty-two male Wistar
+rats were randomized into four groups of eight. The dose of aspirin was 6.75 mg/kg,
+derived from the human cardioprotective dose of ~75-80 mg via the FDA body-surface-area
+animal-to-human conversion factor. Drug (or saline vehicle) was delivered by daily oral
+gavage. Critically, dosing began 42 days BEFORE implant surgery, so that a steady-state
+antiplatelet/COX-inhibited condition was established before the bone was challenged,
+and continued through the post-operative period.
+Groups:
+  - CG-7  : control (saline), euthanized 7 days after implant placement.
+  - AG-7  : aspirin 6.75 mg/kg, euthanized 7 days after implant placement.
+  - CG-28 : control (saline), euthanized 28 days after implant placement.
+  - AG-28 : aspirin 6.75 mg/kg, euthanized 28 days after implant placement.
+A machined (turned) commercially pure titanium implant, 1.5 mm diameter x 8.0 mm
+length, was installed in the tibia of each animal. After euthanasia the tibiae were
+processed for undecalcified histology and histomorphometric analysis. Two parameters
+were quantified around the implant: bone-to-implant contact (BIC, the percentage of
+the implant perimeter in direct contact with bone) and bone area between threads
+(BABT, the fraction of the inter-thread area occupied by bone). These index the
+quality and quantity of peri-implant bone formation respectively.
+
+RESULTS
+At the EARLY 7-day time point, aspirin significantly reduced bone apposition. BIC in
+AG-7 was 62.8% +/- 17.1 versus 82.7% +/- 15.2 in CG-7 (p < 0.05). The bone area
+between threads followed the same direction: AG-7 showed 70.9% +/- 15.2, trending lower
+than the saline controls, indicating less bone had formed between the threads in the
+first week.
+At the LATE 28-day time point the difference had disappeared. BIC in AG-28 was
+91.9% +/- 5.4 versus 89.9% +/- 9.7 in CG-28 - essentially identical and not
+statistically different. BABT in AG-28 reached 95.4% +/- 3.7, likewise recovered to
+control levels. Within every group, both BIC and BABT were higher at 28 days than at
+7 days, reflecting the normal maturation of peri-implant bone over time. Thus the
+inhibitory effect of low-dose aspirin was transient: present in the first week of
+healing and no longer detectable by four weeks.
+
+DISCUSSION / MECHANISM
+The authors attribute the early deficit to COX inhibition and the consequent drop in
+prostaglandin E2 (PGE2). PGE2 promotes the vasodilation and angiogenesis that a
+freshly placed implant site needs for early new-bone formation; suppressing it slows
+the initial deposition phase. Aspirin exposure has also been linked to reduced
+expression of osteogenic signaling molecules - bone morphogenetic protein-2 (BMP-2),
+the osteoblast master transcription factor CBFA-1/Runx2, and vascular endothelial
+growth factor (VEGF) - all of which support the early wave of bone formation. At the
+same time, aspirin suppresses osteoclast differentiation through the RANKL pathway,
+which reduces resorption; the net remodeling balance over four weeks allows the bone
+to catch up, explaining the full recovery by day 28. The magnitude of the low-dose
+effect was modest ("discrete") and self-limiting, in contrast to prior reports where
+higher aspirin doses (around a 325 mg human equivalent, in a rabbit model) more clearly
+delayed bone healing, and where the NSAID ketorolac delayed fracture healing though all
+fractures still united by day 35.
+
+CONCLUSION
+Chronic low-dose (cardioprotective) aspirin produced only a discrete, transient
+inhibitory effect confined to the EARLY (7-day) stage of peri-implant bone deposition,
+with no measurable effect at the late (28-day) stage. The finding does not
+contraindicate implant placement in low-dose aspirin users, but it suggests prudence
+about aggressive EARLY loading, since the very first week of osseointegration may be
+slightly slower in these patients.
+
+LIMITATIONS
+Only a machined (turned) implant surface was tested, so results may not transfer to
+modern moderately-rough surfaces that osseointegrate faster. Only two healing intervals
+were sampled, and the rat tibia model differs from human jaw bone in loading, density
+and remodeling rate. The study measured histomorphometry, not biomechanical
+removal-torque or molecular markers directly.
