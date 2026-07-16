@@ -1,0 +1,7 @@
+Source: PubMed structured abstract (abstract-only). PMID 25856049. DOI 10.1563/AAID-JOI-D-13-00125
+
+Effects of nonsteroidal anti-inflammatory drugs on osseointegration: a review.
+
+Gomes FIF, Aragão MGB, de Paulo Teixeira Pinto V, Gondim DV, Barroso FC, Silva AAR E, Bezerra MM, Chaves HV. J Oral Implantol. 2015 Apr;41(2):219-30.
+
+Purpose: review the effects of NSAIDs on osseointegration and whether they cause dental implant failures and whether chronic users can receive implants safely. Bibliographic electronic search (Cochrane Library, PubMed, Medline), articles Jan 1982–Dec 2012. Keywords: nonsteroidal anti-inflammatory drugs, dental implants, bone healing, osteoprogenitor cells. Inclusion: randomized double-blind placebo-controlled clinical studies, in vivo animal osseointegration studies, in vitro osteoprogenitor-cell studies. 360 references found; 31 met inclusion: 2 clinical trials, 20 animal studies, 9 osteoprogenitor cell studies. The clinical trials revealed COX-1 inhibitors did NOT impair osseointegration. Animal studies showed any drug capable of inhibiting COX-2 may impair the osseointegration process. In vitro studies showed COX-2 inhibitors are the most potent depressors of osseointegration at the cellular level. Caution must be taken when selecting COX-2 NSAIDs during the postoperative period.
