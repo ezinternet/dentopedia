@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# llm-wiki qmd 인덱스 고아 벡터 청소 (launchd 매주 월 08:30 구동).
+# llm-wiki qmd 인덱스 고아 벡터 청소 (launchd 매주 월 10:00 구동).
 # launchd plist: ~/Library/LaunchAgents/com.llmwiki.qmd-cleanup.plist
 #
 # 왜 필요한가: 파일을 수정하면 해시가 바뀌어 새 벡터가 생기는데, 옛 벡터는
