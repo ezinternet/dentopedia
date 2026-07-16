@@ -33,6 +33,7 @@ papers/**/*.pdf
 .ingest-queue
 .ingest-watcher.log
 .claude/scripts/weekly-digest.log
+.claude/scripts/qmd-cleanup.log
 
 # Quartz build artifacts
 quartz/node_modules/
