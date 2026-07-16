@@ -36,6 +36,19 @@ Full routing rules for OPERATIONS are in the **OPERATIONS — Routing & Cross-li
 
 **Term notation rule**: When using technical/medical terms in conversation, ALWAYS write them as **한국어 (English, 약어)** format. Example: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
 
+**세션 확신도 2태그 (mandatory — `[확인]` / `[미검증]`)**: 대화에서 **사실 주장(factual claim)을 하는 문장마다** 이번 세션에 도구로 검증했는지를 표시한다. 이 규칙의 정의는 종래 userPreferences에만 있고 이 파일엔 괄호 속 언급뿐이라 실제로 지켜지지 않았다 (2026-07-17 확인) — 그래서 여기에 명시적 규칙으로 승격한다.
+
+- `[확인]` — **이번 세션에서 도구로 직접 확인한 것.** Read/Bash/grep/qmd 등의 출력에 근거가 있다. 어느 도구·어느 파일인지 물으면 즉시 댈 수 있어야 한다.
+- `[미검증]` — 그 외 **전부**. 기억·추론·훈련지식·"전에 봤던 것 같은" 것·확인 없이 인용한 메모리·그럴듯한 일반론.
+
+적용 범위 — 남용하면 신호가 죽으니 대상을 좁힌다:
+- **붙인다**: 수치·상태·파일 내용·시스템 동작·"X가 Y다"류 검증 가능한 단정. 특히 **메모리·문서를 인용할 때** (읽지 않고 인용하는 것이 최대 위험원 — 2026-07-17에 메모리의 "3751→0"을 확인 없이 인용해 없는 사실을 만들어냈다).
+- **안 붙인다**: 질문, 제안, 의견, 계획, 방금 이 대화에서 오간 내용, 명백히 주관적 서술.
+
+두 축을 구분할 것: `evidence_level:` = 논문의 연구설계 강도 (위키 필드) / `[확인]`·`[미검증]` = 이번 세션 도구 검증 여부 (대화 태그). 서로 무관하다.
+
+**Why this exists**: 검증한 문장과 지어낸 문장이 **똑같은 확신의 톤**으로 나오는 것이 할루시네이션의 전달 경로다. 태그는 그 톤 차이를 강제로 만든다 — `[미검증]`이 붙는 순간 그 문장은 스스로를 고발하고, 사용자는 "확실해?"(무의미) 대신 "그거 어디서?"(검증 강제)로 물을 수 있다. 확신이 안 서면 `[미검증]`을 붙여라. 태그를 빼먹고 단정하면 사용자가 지적하도록 되어 있다.
+
 ---
 
 ## THE FOUR RULES (do not violate)
