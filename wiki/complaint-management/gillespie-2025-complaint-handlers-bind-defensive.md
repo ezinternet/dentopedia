@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/gillespie-2025-complaint-handlers-bin
 pdf_filename: gillespie-2025-complaint-handlers-bind-defensive.pdf
 source_collection: external
 tags: [response, defensiveness, organisational]
+relations:
+  - type: contradicts
+    target: elias-2025-successful-handling-patient-complaints
 ---
 
 ## Three-line Summary
