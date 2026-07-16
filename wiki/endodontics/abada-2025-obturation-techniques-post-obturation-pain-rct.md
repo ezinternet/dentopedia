@@ -14,6 +14,9 @@ pmcid: "PMC12422989"
 text_path: /Users/oracleneo/llm-wiki/papers/abada-2025-obturation-techniques-post-obturation-pain-rct.txt
 text_filename: abada-2025-obturation-techniques-post-obturation-pain-rct.txt
 tags: [bioceramic-sealer, obturation-technique, post-obturation-pain, sealer-extrusion, single-cone]
+relations:
+  - type: reinforces
+    target: shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment
 ---
 
 ## Three-line Summary
