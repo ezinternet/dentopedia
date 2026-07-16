@@ -31,7 +31,7 @@ One interactive-tool freshness signal (non-blocking):
 
 One contradiction-radar backfill signal (non-blocking):
   - find-contradiction-candidates.py → pages with explicit conflict language but no
-                               relations: contradicts/refines edge (radar coverage gap).
+                               relations: typed edge of ANY type on that pair (radar gap).
                                Signal only — LLM judges each candidate, does not auto-write.
 
 One content-lint signal (non-blocking, deterministic):
