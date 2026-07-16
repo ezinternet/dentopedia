@@ -100,3 +100,4 @@ For aspirin-dependent dental patients (especially secondary prevention, where as
 - [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — 9종 NSAID 인비트로 스크린; 이부프로펜(48.1%)·메페남산(22.7%)만 방해, 순서 규칙 확립
 - [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 디피론/메타미졸(피라졸리논) MAA 대사체가 Ser-530 수소결합으로 차단, 클래스 이펙트
 - [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — 저용량 아스피린 기전·주변수술기 관리 종설 (기전 토대)
+- [[overviews/nsaid-osseointegration-impairment-overview]] — 자매 오버뷰; **COX-2 딜레마**의 반대편 — 여기선 셀레콕시브가 항혈소판 보존에 안전하지만, 신선 임플란트 골형성엔 COX-2 선택제가 오히려 위험 방향
