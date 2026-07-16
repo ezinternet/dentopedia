@@ -313,6 +313,27 @@ qmd embed    # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초)
 
 **주의 — `qmd embed`는 백로그가 크면 미완료로 끝난다.** 대량 백로그에서 daemon 세션이 중간에 만료되어 `qmd embed`가 남은 문서를 임베딩하지 않고 exit 0으로 끝난다 (exit-0 ≠ 완료). 유일하게 믿을 수 있는 완료 신호는 `"All content hashes already have embeddings"` 메시지다. 1~2편만 추가한 일반 ingest라면 위 단일 실행으로 충분하다.
 
+### 고아 벡터 청소 — 자동화됨, ingest 때 손대지 마라
+
+`qmd update`/`qmd embed`는 고아 벡터를 **절대 치우지 않는다.** 페이지를 수정하면 해시가 바뀌어 새 벡터가 생기는데 옛 벡터는 그대로 남고, 이것이 검색을 조용히 망가뜨린다 (아래 *왜 무해하지 않은가*). 이 청소는 **주간 launchd 잡이 알아서 한다 — ingest 절차에 넣지 마라**:
+
+```
+com.llmwiki.qmd-cleanup   매주 월 08:30   .claude/scripts/qmd-cleanup.sh
+로그: .claude/scripts/qmd-cleanup.log
+```
+
+수동으로 지금 당장 돌려야 한다면 (대량 재작성 직후 등):
+
+```bash
+qmd cleanup    # 데몬 켠 채로 안전. 산 벡터는 안 건드림 → 재임베딩 불필요
+```
+
+**왜 무해하지 않은가.** qmd 벡터 검색은 두 단계다 (`dist/store.js` `searchVec` — sqlite-vec가 JOIN과 같이 쓰면 멈추는 버그 우회): ① 전체 벡터에서 후보 `limit × 3`개를 kNN으로 뽑고 ② 그 다음 `active = 1`로 죽은 걸 걸러낸다. 3배수 여유는 인덱스가 대부분 살아있다는 전제인데, 고아가 쌓이면 시체가 그 여유를 먹어 산 문서가 밀려난다. **에러가 안 나므로 감사로는 안 잡힌다** — 근거를 조용히 놓치는, 위키에서 가장 나쁜 실패 방식이다.
+
+2026-07-17 실측 (첫 청소 전, 인덱스 생성 이래 한 번도 안 돌았음): 고아 **66.5%** (40,513/60,960), 검색 후보의 **70%가 시체**, 20개 요청 쿼리의 **절반이 개수 미달**, 최악은 후보 60개 중 **생존 2개**. 청소 후 후보 죽음률 0%, 미달 쿼리 0/10.
+
+**하지 말 것**: `qmd cleanup`을 `--finish`나 ingest 루프에 넣지 마라. VACUUM이라 무겁고, 고아는 몇 달에 걸쳐 쌓이는 종류의 문제라 주간이면 충분하다. 그리고 전체 재임베딩(`qmd embed -f`)으로 "청소"하려 들지 마라 — ~2.5h이 걸리고 `qmd cleanup`이 수 초에 하는 일이다.
+
 ### 백로그 확인 — `qmd update`가 출력하는 숫자를 믿지 마라
 
 `qmd update` 끝에 나오는 `Run 'qmd embed' to update embeddings (N unique hashes need vectors)`의 **N은 남은 작업량이 아니라 전체 인덱스 파일 수다** (실측 2026-07-16: update는 "5660", 실제 백로그는 713). 진짜 백로그는 `qmd status`로 본다:
