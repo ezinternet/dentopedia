@@ -14,6 +14,8 @@ tags: [response, discourse-analysis, what-not-to-do]
 relations:
   - type: extends
     target: friele-2006-patient-expectations-fair-complaint
+  - type: reinforces
+    target: elias-2025-successful-handling-patient-complaints
 ---
 
 ## Three-line Summary
