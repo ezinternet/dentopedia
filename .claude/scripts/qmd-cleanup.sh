@@ -17,6 +17,10 @@
 # 재임베딩 불필요. 데몬(com.oracleneo.qmd-mcp)을 켠 채로 VACUUM 가능함을 실측 확인.
 # 부작용은 llm_cache 삭제(알아서 재생성)와, 파일을 옛 버전으로 되돌릴 때
 # 그 부분만 재임베딩(캐시가 식는 정도).
+#
+# 하는 일: qmd cleanup (고아 벡터 제거 + VACUUM) → wal_checkpoint(TRUNCATE).
+# 체크포인트가 붙어 있는 이유는 VACUUM 자신이 인덱스 크기만 한 WAL을 남기기
+# 때문이다 — 청소하러 와서 다른 데 342MB를 흘리고 가면 안 된다.
 
 set -euo pipefail
 export PATH="/opt/homebrew/bin:/Users/oracleneo/.local/bin:/usr/local/bin:/usr/bin:/bin"
@@ -41,6 +45,19 @@ live_count() {
   echo "  before: 고아 ${before_orphan} / 산 벡터 ${before_live}"
 
   qmd cleanup
+
+  # cleanup의 VACUUM은 WAL 모드에서 DB 전체를 WAL로 통과시킨다 → 매주 인덱스
+  # 크기만 한 WAL(실측 342MB)이 남는다. 재사용되긴 하나 high-water mark로
+  # 계속 붙들고 있으므로 본체로 접어넣고 파일을 잘라낸다. 데이터 손실 없음 —
+  # WAL→본체 방향은 sqlite가 정상 종료 때 하는 것과 같다.
+  # 데몬이 읽는 중이면 busy로 아무 일도 안 하고 넘어간다 (무해, 다음 주 재시도).
+  ckpt=$(sqlite3 "$DB" "PRAGMA wal_checkpoint(TRUNCATE);" 2>/dev/null || echo "?")
+  wal_mb=$(du -m "$DB-wal" 2>/dev/null | cut -f1 || echo 0)
+  echo "  wal_checkpoint(TRUNCATE): ${ckpt} (busy|log|checkpointed) → WAL ${wal_mb}MB"
+  case "$ckpt" in
+    0\|*) : ;;
+    *) echo "  ℹ️ 체크포인트 미실행 (데몬이 읽는 중일 수 있음) — 무해, 다음 주 재시도" ;;
+  esac
 
   after_orphan=$(orphan_count)
   after_live=$(live_count)
