@@ -8,8 +8,11 @@
 # See memory: qmd-embed-multipass.
 #
 # Usage:
-#   bash scripts/embed-until-done.sh          # foreground
+#   bash scripts/embed-until-done.sh          # foreground, all collections
 #   bash scripts/embed-until-done.sh &        # background, then carry on working
+#   bash scripts/embed-until-done.sh -c wiki  # scope to one collection (args pass through
+#                                             # to `qmd embed`) — e.g. embed searchable wiki
+#                                             # pages first, defer the long sources/ docs
 #
 set -euo pipefail
 
@@ -27,7 +30,7 @@ pass=0
 while (( pass < MAX_PASSES )); do
   pass=$((pass + 1))
   echo "── embed pass ${pass} ──"
-  out="$(qmd embed 2>&1 || true)"
+  out="$(qmd embed "$@" 2>&1 || true)"
   echo "$out"
   if grep -qF "$DONE_MARKER" <<<"$out"; then
     echo "✅ embed complete after ${pass} pass(es)."
