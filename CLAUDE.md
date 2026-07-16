@@ -93,6 +93,8 @@ Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `pa
 
 인제스트 후(또는 매일) 인덱스 갱신: `qmd update && qmd embed`. **`qmd embed`는 exit 0을 내고도 미완료일 수 있다** — 완료 신호는 `All content hashes already have embeddings`뿐이고, 진짜 백로그는 `qmd status`의 `Pending:`이다 (`qmd update`가 찍는 숫자는 전체 파일 수라 거짓). 큰 백로그 드레인 절차는 `INGEST.md` Step 5.
 
+**고아 벡터 청소는 주간 launchd 잡(`com.llmwiki.qmd-cleanup`, 월 08:30)이 한다 — ingest 절차에 넣지 마라.** `update`/`embed`는 고아 벡터를 안 치우고, 방치하면 검색이 **에러 없이** 산 문서를 놓친다 (감사로 안 잡히는 실패). 검색이 이상하면 재임베딩(`-f`, ~2.5h) 말고 `qmd cleanup`(수 초, 산 벡터 보존)부터 의심하라. 근거·실측은 `INGEST.md` Step 5.
+
 ---
 
 ## Daily Audit → see `AUDITS.md`
