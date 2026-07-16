@@ -15,8 +15,8 @@
   <key>StartCalendarInterval</key>
   <dict>
     <key>Weekday</key><integer>1</integer>
-    <key>Hour</key><integer>8</integer>
-    <key>Minute</key><integer>30</integer>
+    <key>Hour</key><integer>10</integer>
+    <key>Minute</key><integer>0</integer>
   </dict>
 
   <key>StandardOutPath</key>
