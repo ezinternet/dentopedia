@@ -2,7 +2,19 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 14 audits and writes their logs to logs/.
+One entry-point that runs all 19 audits and writes their logs to logs/.
+
+The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
+"14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
+output-coverage-lint, recall-coverage-lint, deviation-audit. AUDITS.md had drifted the
+same way. Bumping the count without listing the missing ones would have been worse:
+it would claim 19 while naming 14.)
+
+NOT here: the seven build-* scripts. They regenerate deployed artifacts and live in
+.github/workflows/deploy-pages.yml, which fires on push to wiki/**. The line is not
+read-only-vs-writes — it is what breaks when it doesn't run: a skipped audit leaves you
+ignorant, a skipped build leaves the published site lying. So builds belong at the
+moment the artifact reaches its consumer (deploy), not in a local daily report.
 
 Three classic audits (errors):
   - lint.py                  → wiki frontmatter sanity
@@ -17,11 +29,27 @@ Three synthesis-enforcement audits (signals, errors only on rationale lint):
 One thesis-staleness signal (git-diff based, non-blocking):
   - overview-thesis-staleness.py → overview thesis edit (non-wikilink) staleness
 
+Three coverage signals (non-blocking) — the input/output/retention axes:
+  - overview-coverage-lint.py → overview body cov%: of the papers a page links, how many
+                               are actually cited inline (author+year) outside Related
+                               Papers/source_papers. Low = paper linked but not reasoned with.
+  - output-coverage-lint.py  → the Express mirror of synthesis-backlog: is an overview
+                               pulled through into slides/ · interactives/ · lectures?
+  - recall-coverage-lint.py  → overviews with no recall/{stem}.json spec = 'memory backlog'
+                               (retention axis, paired with output-coverage). Forward-only.
+
+One cross-stem duplicate signal (non-blocking):
+  - doi-duplicate-check.py   → same DOI under different stems, plus a normalized-title
+                               fallback for papers whose DOI is missing/mismatched.
+                               orphan-check only enforces stem-level papers↔sources 1:1.
+
 One supersession + decay signal (non-blocking):
   - supersession-audit.py → dangling superseded_by, field↔banner sync, decay candidates
 
 Two graph/integrity signals (non-blocking):
-  - relations-audit.py    → typed relation targets, vocab, typed-edge JSON export
+  - relations-audit.py    → typed relation targets, vocab, typed-edge JSON export,
+                            plus CIRCULAR reinforces (derived doc claiming to
+                            independently confirm its own source) as a separate count
   - link-integrity.py     → broken body wikilinks, index.md two-way coverage
 
 One interactive-tool freshness signal (non-blocking):
@@ -34,13 +62,6 @@ One contradiction-radar backfill signal (non-blocking):
                                relations: typed edge of ANY type on that pair (radar gap).
                                Signal only — LLM judges each candidate, does not auto-write.
 
-One retraction signal (non-blocking):
-  - retraction-audit.py     → pages with retraction_status: RETRACTED must carry the warning
-                               in their SECTION HEADINGS (a top callout does not survive RAG
-                               chunking), the three required sections, and zero typed edges
-                               in either direction. Also flags pages that declare themselves
-                               retracted but lack the field.
-
 One content-lint signal (non-blocking, deterministic):
   - content-lint.py → body content rules lint.py can't see: (A) mandatory bilingual
                                세줄요약 pair + overview 한국어 핵심요약 callout, (B) heading
@@ -48,10 +69,22 @@ One content-lint signal (non-blocking, deterministic):
                                integrity (source: → sources/ existence, pmid match).
                                No LLM — the deterministic 80% of an ingest-verification gate.
 
+One retraction signal (non-blocking):
+  - retraction-audit.py     → pages with retraction_status: RETRACTED must carry the warning
+                               in their SECTION HEADINGS (a top callout does not survive RAG
+                               chunking), the three required sections, and zero typed edges
+                               in either direction. Also flags pages that declare themselves
+                               retracted but lack the field.
+
+One SOP-revision trigger (non-blocking):
+  - deviation-audit.py       → reads logs/ingest-deviations.md and counts per type;
+                               any type at ≥3 occurrences is flagged as an SOP revision
+                               candidate (Rule of Three).
+
 Exit code:
     0 if all classic audits + ingest-rationale pass.
     1 if any of those fail.
-    Synthesis-backlog / category-overflow never fail (they are signals).
+    The 15 signals never fail — they are informational (AUDITS.md: signal, not gate).
 
 Usage:
     python3 scripts/daily-audit.py
