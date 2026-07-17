@@ -34,6 +34,13 @@ One contradiction-radar backfill signal (non-blocking):
                                relations: typed edge of ANY type on that pair (radar gap).
                                Signal only — LLM judges each candidate, does not auto-write.
 
+One retraction signal (non-blocking):
+  - retraction-audit.py     → pages with retraction_status: RETRACTED must carry the warning
+                               in their SECTION HEADINGS (a top callout does not survive RAG
+                               chunking), the three required sections, and zero typed edges
+                               in either direction. Also flags pages that declare themselves
+                               retracted but lack the field.
+
 One content-lint signal (non-blocking, deterministic):
   - content-lint.py → body content rules lint.py can't see: (A) mandatory bilingual
                                세줄요약 pair + overview 한국어 핵심요약 callout, (B) heading
@@ -78,6 +85,7 @@ AUDITS = [
     ("interactive-staleness.py",     [],       False),
     ("find-contradiction-candidates.py", [],   False),
     ("content-lint.py",                  [],          False),
+    ("retraction-audit.py",              [],   False),
     ("deviation-audit.py",               [],   False),
 ]
 
@@ -125,7 +133,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
