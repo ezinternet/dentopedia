@@ -1,0 +1,36 @@
+Clinical decision of centric relation.
+
+Authors: Yu Haiyang, Yan Zhebin, Xie Chenyang, Wu Qin
+Institution: State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases & Dept. of Prosthodontics, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, China.
+Journal: Hua Xi Kou Qiang Yi Xue Za Zhi (West China Journal of Stomatology) 2024;42(5):558-565
+PMID 39304499 | DOI 10.7518/hxkq.2024.2024147 | PMCID PMC11493863
+Source: PubMed Central metadata (get_article_metadata) — English structured abstract
+
+NOTE: PMC11493863 exists and is a valid PMCID, but the PubMed MCP get_full_text_article
+tool returned an EMPTY full_text body for this article on two consecutive calls
+(2026-07-17). Chinese-language original title/abstract were returned instead by that
+same call ("正中关系的临床决策"). The body of the article (including the decision-tree
+figure/table itself) was NOT retrieved and is NOT present below. Content below is the
+official English structured abstract from PubMed (get_article_metadata), which is the
+only English-language content obtainable through the sanctioned PubMed MCP tools for
+this record. full_text: false — this is an abstract-only ingest despite the PMCID.
+
+ABSTRACT
+
+Centric relation (CR) was used in the complete dentures for edentulous jaws firstly.
+Then, CR was gradually applied in the clinical diagnosis and treatment of dentate jaws.
+Regarding the application of CR in dentate jaws, there are many doubts about its
+rationality. For instance, should CR be the core of diagnosis and treatment of
+temporomandibular disorders? Should CR be used as the jaw position of establishing
+occlusion in occlusal reconstruction? Should CR serve as the target jaw position in
+orthodontic treatment? Meanwhile, varieties of CR clinical applications are objective.
+According to the existing evidence, this paper summarizes the applicable conditions of
+several main clinical situations with little controversy. We preliminarily put forward
+the decision tree for the clinical application of CR, which can be used as a reference
+in clinical practice.
+
+KEYWORDS: centric relation; complete denture; condyle; maximal intercuspal position;
+occlusal reconstruction; orthodontic treatment; temporomandibular disorder
+
+MESH TERMS: Humans; Centric Relation; Temporomandibular Joint Disorders; Denture,
+Complete; Jaw, Edentulous
