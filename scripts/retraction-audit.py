@@ -43,15 +43,37 @@ from datetime import date
 
 ROOT = Path(__file__).resolve().parent.parent
 WIKI = ROOT / "wiki"
+SOURCES = ROOT / "sources"
 OUT = ROOT / "logs" / f"{date.today().isoformat()}_retraction.log"
+
+# 두 티어를 **모두** 스캔한다 (2026-07-17 추가).
+#
+# QMD는 wiki/ 와 sources/ 를 **별개 컬렉션으로** 색인한다. wiki/ 페이지만 고치고
+# sources/ 를 놔두면 검색이 sources/ 청크를 그대로 내놓는다 — 실측으로
+# `qmd search "HaeNaem"` 결과에 sources/ 페이지가 96% 점수로 잡혔다.
+#
+# 실제 사고: sources/changrani 는 상단에 철회 경고가 있으면서도 본문
+# "Correction note" 줄이 "The paper itself is valid… not a retraction"이라고
+# **정반대**를 말하고 있었다(철회 발견 전에 쓰인 줄이 플래그만 위에 달리고
+# 방치됨). 맨몸 Results 청크보다 나쁘다 — 능동적으로 틀린 주장이라서.
+#
+# 티어별로 스키마가 다르므로 검사 항목도 다르다:
+#   wiki/    : 전 항목 (title/tags/notice/3섹션/제목경고/엣지 격리)
+#   sources/ : title·notice·제목경고만 (tags·relations 필드 자체가 없다)
+TIERS = [("wiki", WIKI), ("sources", SOURCES)]
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
-# 데이터를 담는 섹션 = 청크로 잘려 나갔을 때 근거로 오독될 수 있는 섹션
+# 데이터를 담는 섹션 = 청크로 잘려 나갔을 때 근거로 오독될 수 있는 섹션.
+# sources/ 티어는 번호가 붙는다(`## 4. Key Results and Benchmarks`) — 선택적으로 처리.
+# `Original ` 접두는 이미 경고를 단 제목(`## 4. Original Key Results (...)`)을 계속
+# 검사 대상으로 잡기 위한 것이다(경고가 나중에 지워지면 다시 걸려야 하므로).
 DATA_SECTION = re.compile(
-    r"^##\s+(Summary|Results|Methodology|Key\s+\w+|Findings)\b", re.IGNORECASE)
-# 그 제목이 반드시 운반해야 하는 경고
-HEADING_WARN = re.compile(r"withdrawn|do not cite|retracted", re.IGNORECASE)
+    r"^##\s+(?:\d+\.\s*)?(?:Original\s+)?(Summary|Results|Methodology|Key\s+\w+|Findings)\b",
+    re.IGNORECASE)
+# 그 제목이 반드시 운반해야 하는 경고 ("NOT TO BE CITED" 변형 포함 — panagioti 관례)
+HEADING_WARN = re.compile(
+    r"withdrawn|do not cite|not to be cited|retracted", re.IGNORECASE)
 
 REQUIRED_SECTIONS = [
     ("Why This Page Exists", re.compile(r"^##\s+Why This Page Exists", re.I | re.M)),
@@ -129,37 +151,47 @@ def outgoing_edges(fm):
 
 
 # ── 스캔 ──────────────────────────────────────────────────────────────
-pages = {}          # stem -> (path, fm, body)
-for md in WIKI.rglob("*.md"):
-    if md.name.startswith("_") or md.stem == "index":
+pages = {}          # (tier, stem) -> (path, fm, body)
+wiki_pages = {}     # stem -> (path, fm, body)   — 엣지 검사용(wiki 티어만)
+for tier, root in TIERS:
+    if not root.exists():
         continue
-    fm, body, _ = parse(md)
-    pages[md.stem] = (md, fm, body)
+    for md in root.rglob("*.md"):
+        if md.name.startswith("_") or md.stem == "index":
+            continue
+        fm, body, _ = parse(md)
+        pages[(tier, md.stem)] = (md, fm, body)
+        if tier == "wiki":
+            wiki_pages[md.stem] = (md, fm, body)
 
-retracted = {s: v for s, v in pages.items()
+retracted = {k: v for k, v in pages.items()
              if (field(v[1], "retraction_status") or "").upper() == "RETRACTED"}
 
-# 들어오는 엣지 인덱스: target stem -> [(source stem, type)]
+# 들어오는 엣지 인덱스: target stem -> [(source stem, type)]  — wiki 티어에만 존재
 incoming = {}
-for stem, (path, fm, body) in pages.items():
+for stem, (path, fm, body) in wiki_pages.items():
     for typ, tgt in outgoing_edges(fm):
         incoming.setdefault(tgt, []).append((stem, typ))
 
-problems = []   # (stem, code, message)
-for stem, (path, fm, body) in sorted(retracted.items()):
+problems = []   # (relpath, code, message)
+for (tier, stem), (path, fm, body) in sorted(retracted.items()):
     rel = str(path.relative_to(ROOT))
     title = field(fm, "title") or ""
     tags = field(fm, "tags") or ""
 
     if not title.lstrip('"').startswith("[RETRACTED]"):
         problems.append((rel, "B", "title이 [RETRACTED]로 시작하지 않음"))
-    if "RETRACTED" not in tags:
-        problems.append((rel, "C", "tags에 RETRACTED 없음"))
     if not re.search(r"^##\s+.*RETRACTION NOTICE", body, re.I | re.M):
         problems.append((rel, "D", "## RETRACTION NOTICE 섹션 없음"))
-    for label, rx in REQUIRED_SECTIONS:
-        if not rx.search(body):
-            problems.append((rel, "E", f"필수 섹션 없음: {label}"))
+
+    # C/E/G/H 는 wiki 티어 전용 — sources/ 는 tags·relations 필드 자체가 없고
+    # 서사 3섹션은 wiki 페이지의 역할이다(sources 는 논문 요약 티어).
+    if tier == "wiki":
+        if "RETRACTED" not in tags:
+            problems.append((rel, "C", "tags에 RETRACTED 없음"))
+        for label, rx in REQUIRED_SECTIONS:
+            if not rx.search(body):
+                problems.append((rel, "E", f"필수 섹션 없음: {label}"))
 
     # F — RAG 누출 방어선: 데이터 섹션 제목이 경고를 운반하는가
     for line in body.split("\n"):
@@ -168,16 +200,17 @@ for stem, (path, fm, body) in sorted(retracted.items()):
                 rel, "F",
                 f"데이터 섹션 제목이 경고를 운반하지 않음 → RAG 청크 누출: 「{line.strip()}」"))
 
-    # G/H — typed 그래프 격리
-    for typ, tgt in outgoing_edges(fm):
-        problems.append((rel, "G", f"철회 페이지에 나가는 typed 엣지: {typ} → {tgt}"))
-    for src, typ in incoming.get(stem, []):
-        problems.append((rel, "H", f"다른 페이지가 철회 페이지를 가리킴: {src} —{typ}→ 여기"))
+    # G/H — typed 그래프 격리 (wiki 티어 전용; sources 에는 relations 가 없다)
+    if tier == "wiki":
+        for typ, tgt in outgoing_edges(fm):
+            problems.append((rel, "G", f"철회 페이지에 나가는 typed 엣지: {typ} → {tgt}"))
+        for src, typ in incoming.get(stem, []):
+            problems.append((rel, "H", f"다른 페이지가 철회 페이지를 가리킴: {src} —{typ}→ 여기"))
 
-# I — 필드 누락 의심 (본문은 철회를 말하는데 필드가 없음)
+# I — 필드 누락 의심 (본문은 철회를 말하는데 필드가 없음) — 두 티어 모두
 suspects = []
-for stem, (path, fm, body) in sorted(pages.items()):
-    if stem in retracted:
+for (tier, stem), (path, fm, body) in sorted(pages.items()):
+    if (tier, stem) in retracted:
         continue
     title = field(fm, "title") or ""
     hit = self_referential_hit(body)
@@ -194,8 +227,8 @@ lines.append(f"필드 누락 의심 (참고)    : {len(suspects)}")
 lines.append("")
 
 if retracted:
-    lines.append("=== retraction_status: RETRACTED 페이지 ===")
-    for stem, (path, fm, body) in sorted(retracted.items()):
+    lines.append("=== retraction_status: RETRACTED 페이지 (wiki/ + sources/ 두 티어) ===")
+    for (tier, stem), (path, fm, body) in sorted(retracted.items()):
         n = sum(1 for p in problems if p[0] == str(path.relative_to(ROOT)))
         mark = "✓ 구조 OK" if n == 0 else f"⚠ 문제 {n}건"
         lines.append(f"  {mark:<12} {path.relative_to(ROOT)}")
