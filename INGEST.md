@@ -65,7 +65,24 @@ Before copying anything, run two checks. Skipping these is how the wiki accumula
 
    **No-DOI fallback.** Some papers print no DOI (older regional journals — e.g. *J Dent Tehran* 2013 — or PubMed records with no `doi` identifier). When there is no DOI, set the frontmatter `doi:` to `null` (or `n/a (Journal Year;Vol(Iss):pp; PMID xxxxx)` per the `vetromilla-2021`/`merli-2018` precedent) and run the Step-0 dedup by **title + first-author grep** over `sources/` instead of DOI grep. Log with `python3 scripts/log-deviation.py <stem> no-doi "..."`.
 
-2. **Retraction check.** Do NOT ingest a retracted article, retraction notice, erratum-only page, or a bare PubMed/publisher listing page as a knowledge page — it propagates discredited claims and violates the living-document/critical-appraisal principle. If a retracted paper must be recorded, make a single explicit "RETRACTED — do not cite" stub, never a normal wiki page. Delete retraction/erratum notice PDFs (they are not ingestable papers).
+2. **Retraction check.** Verify via PubMed MCP (`get_article_metadata` → `article_types` contains `"Retracted Publication"`). This is sanctioned under Rule #1 — Rule #1 bans `WebSearch`/`WebFetch`, not PubMed MCP.
+
+   **Default: do NOT ingest.** A retracted article, retraction notice, erratum-only page, or bare PubMed/publisher listing page must not become a normal knowledge page — it propagates discredited claims and violates the living-document/critical-appraisal principle. Delete retraction/erratum notice PDFs (they are not ingestable papers).
+
+   **Exception — when the retraction *is* the knowledge.** If the retracted paper was the *only* evidence on a topic the wiki must be able to answer about, a full page may be kept. The point is inverted: you are not keeping evidence, you are recording an **evidence vacuum** — *"the only study on X was retracted, therefore no valid evidence exists"* — which is a stronger and more citable answer than silence, and is exactly what Rule #4 wants sayable. Two pages qualify today: [[wiki/professional-wellbeing/panagioti-2018-retracted-physician-burnout-patient-safety]] and [[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]].
+
+   **Required structure for a kept retracted page** (enforced by `scripts/retraction-audit.py`, a daily signal):
+
+   | Requirement | Why |
+   |---|---|
+   | `retraction_status: RETRACTED` in frontmatter | The only machine-readable hook. `grep -i retracted` is unusable — it hits 교정과 "canine retraction"(견인). |
+   | `title:` starts with `[RETRACTED]`, `tags:` include `RETRACTED` | Title and tags travel with every search hit. |
+   | `## ⚠️ RETRACTION NOTICE` section | What a human hits on opening the page. |
+   | **Data section headings carry the warning** — `## Results (Original — Now Withdrawn, Do Not Cite)`, `## Methodology (Original — Now Withdrawn)`, etc. | ★ **The load-bearing rule.** QMD retrieves *chunks*: a top-of-page callout does NOT travel with a `## Results` chunk, so a bare heading lets withdrawn numbers reach an answer as clean evidence. The heading is the only warning that survives chunking. |
+   | Three sections: `## Why This Page Exists (Despite Retraction)`, `## What We Can NOT Use From This Paper`, `## What This Paper Does Tell Us (Methodologically)` | Turns the vacuum into an explicit, citable conclusion. |
+   | **Zero `relations:` typed edges, in either direction** | The typed graph is what overview synthesis warm-assembles from (see `relations:` below). A retracted paper must not contribute a live relationship — and no page may point *at* it. Prose `## Related Papers` links stay, for human navigation. |
+
+   Keep `evidence_level:` as the paper's original study design — that axis is *what the study was*, and `retraction_status:` is the separate axis for *whether it still counts*. Same two-axis logic as `evidence_level:` vs the session `[확인]`/`[미검증]` tags.
 
 ## Step 1 — Copy PDF to `papers/` and extract text
 
