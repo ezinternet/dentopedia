@@ -6,9 +6,9 @@
 
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
-- Tier 1 (대상 지목됨, actionable): **4**
-- Tier 2 (대상 불명/soft, review): **568**
-- (억제됨) 이미 typed 엣지가 있어 제외: **239** · 동일 줄 비최근접으로 Tier 2 강등: **11**
+- Tier 1 (대상 지목됨, actionable): **5**
+- Tier 2 (대상 불명/soft, review): **577**
+- (억제됨) 이미 typed 엣지가 있어 제외: **244** · 동일 줄 비최근접으로 Tier 2 강등: **11**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -18,6 +18,14 @@
   - **근거 문장**: This is the key HEAD-TO-HEAD synthesis for choosing a horizontal ridge augmentation modality for the narrow ridge — GBR vs ridge-split (RS) vs osseodensification (OD) ridge expansion — ranking them by mean horizontal bone gain in one meta-analysis. It directly ties together the wiki's previously separate technique pages: the ridge-split case literature ([[wiki/bone-regeneration/simion-1992-jawbone
   - ▸ 출발(`vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma`) 세줄: SR+MA(PRISMA, 17편 메타분석 21군; 환자 336명·임플란트 665개; 2017–2022): 수평 치조제 증대 3종 — 가이드골재생(Guided Bone Regeneration, GBR)·치조제분할(Ridge Split, RS)·골밀도화(Osseodensification, OD) — 최초 풀링 직접비교. 평균 수평 골증대: GBR 4.036 mm > RS 3.661 mm > OD 2.151 mm (P=0.002); GBR vs RS 차이 NS(P=0.09), 둘 다 OD보다 유의하게 
   - ▸ 대상(`bone-regeneration-protocol-ladder`) 세줄: 치조제 보존술 (Alveolar Ridge Preservation, ARP) 4축 결정 ladder 종합 — 자연 치유 흡수(수평 −3.79mm, 수직 −1.24~1.67mm, 6개월; 수평 우세), ARP 효과(수평 1.86–2.19mm 감소), 이식재 비교, 차폐막·연조직봉쇄 조합. 이식재 간 임상 차이는 미미(Bio-Oss ≈ 자가골); 표준 조합 = DBBM + 콜라겐 차폐막, 심미부위 높이 보존 최우수 = 유리치은이식(Free Gingival Graft, FGG); dPTFE 차폐막은 노
+
+
+### implants
+
+- `coyac-2019-preclinical-model-links-osseo-densification-misfit`  —[refut · 반증]→  **`osseodensification-clinical-applications`**
+  - **근거 문장**: - [[overviews/osseodensification-clinical-applications]] — the OD benefit case; this paper is its ceiling, not its refutation
+  - ▸ 출발(`coyac-2019-preclinical-model-links-osseo-densification-misfit`) 세줄: 전임상 생체 내 동물실험 (쥐 상악 발치와; 대조군 = 임플란트–골삭제 간 최소 미스핏(misfit) vs 시험군 = 주위골을 골밀도화 (Osseodensification, OD)시키는 고도 미스핏) — 미스핏·삽입 토크 (Insertion Torque, IT)·임플란트 안정성이 주위골에 미치는 단기·장기 효과를 연결하는 설계이며, 보유 논문 중 Trisi 2011과 함께 노출을 **사후 분류가 아니라 실험적으로 배정한** 단 두 편 중 하나다. 고미스핏군에서 미세골절 + 광범위한 골세포 (Ost
+  - ▸ 대상(`osseodensification-clinical-applications`) 세줄: Fontes Pereira 2023 SR을 spine으로 33편을 4개 임상 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 허브-스포크로 통합. 일관된 이득은 삽입토크(Insertion Torque, IT) 상승 — 벤치·사체·동물·임상 전 계층에서 재현; in vitro 골-임플란트 접촉률(BIC) ~3배; 그러나 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 2025년 두 독립 인체 SR+MA(Mohammadi 2025 7편 NS·S
 
 
 ### oral-medicine
@@ -1702,6 +1710,26 @@
   - **근거 문장**: User requested a PubMed ingest on flapless implant placement. The wiki's flapless evidence is concentrated in the *immediate*-implant context ([[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]], [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]], [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]]); this RCT addresses t
   - ▸ 출발(`surendra-2025-flapless-versus-flapped-crestal-bone`) 세줄: 전향적 RCT (n=40, 하악 구치부 치유된 치조제 단일치 임플란트, 1:1 무작위 배정: 무피판 펀치 vs 전층 점막골막 피판; 4.0 × 10 mm 임플란트; 6개월 치조정 골소실 방사선 평가). 무피판군이 피판군 대비 치조정 골소실 유의하게 적음 — 3개월 (0.32 vs 0.56 mm) 및 6개월 (0.48 vs 0.82 mm, 모두 p<0.001); 양군 생존율 100%, 합병증 없음. 무피판 술식이 치유된 하악 구치부에서 조기 치조정 골소실 감소 이점 제공; 단, 6개월·2D·단일기관
 
+- `coyac-2019-preclinical-model-links-osseo-densification-misfit` [implants] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: **The paper's claim is about excess, not about densification.** It offers no threshold, no dose axis, and no intermediate arm; "excessive" is never operationalized. It therefore proves a ceiling exists without locating it, and nothing here licenses a clinical misfit or torque limit, or a retreat from OD as a technique. Read against the substantial held evidence of OD benefit, this is the boundary 
+  - ▸ 출발(`coyac-2019-preclinical-model-links-osseo-densification-misfit`) 세줄: 전임상 생체 내 동물실험 (쥐 상악 발치와; 대조군 = 임플란트–골삭제 간 최소 미스핏(misfit) vs 시험군 = 주위골을 골밀도화 (Osseodensification, OD)시키는 고도 미스핏) — 미스핏·삽입 토크 (Insertion Torque, IT)·임플란트 안정성이 주위골에 미치는 단기·장기 효과를 연결하는 설계이며, 보유 논문 중 Trisi 2011과 함께 노출을 **사후 분류가 아니라 실험적으로 배정한** 단 두 편 중 하나다. 고미스핏군에서 미세골절 + 광범위한 골세포 (Ost
+
+- `coyac-2019-preclinical-model-links-osseo-densification-misfit` [implants] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: The wiki records Trisi 2011 as *directly refuting* the osseocompression-necrosis hypothesis: at 110 Ncm in dense sheep mandibular cortex, **no osteocyte lacunar emptying, no avascular necrotic zones**. Coyac reports an **extensive zone of dying osteocytes** — the same cell, the same class of insult, the opposite result.
+  - ▸ 출발(`coyac-2019-preclinical-model-links-osseo-densification-misfit`) 세줄: 전임상 생체 내 동물실험 (쥐 상악 발치와; 대조군 = 임플란트–골삭제 간 최소 미스핏(misfit) vs 시험군 = 주위골을 골밀도화 (Osseodensification, OD)시키는 고도 미스핏) — 미스핏·삽입 토크 (Insertion Torque, IT)·임플란트 안정성이 주위골에 미치는 단기·장기 효과를 연결하는 설계이며, 보유 논문 중 Trisi 2011과 함께 노출을 **사후 분류가 아니라 실험적으로 배정한** 단 두 편 중 하나다. 고미스핏군에서 미세골절 + 광범위한 골세포 (Ost
+
+- `coyac-2019-preclinical-model-links-osseo-densification-misfit` [implants] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: These findings do not literally conflict; they are compatible in the strict sense, because the beds differ (see §4). What changes is the *scope* of Trisi's refutation. "Compression does not kill osteocytes" was doing universal work in the wiki; it is now bounded to beds that can absorb the strain, at magnitudes below some unlocated threshold. Trisi's result stands; its reach does not.
+  - ▸ 출발(`coyac-2019-preclinical-model-links-osseo-densification-misfit`) 세줄: 전임상 생체 내 동물실험 (쥐 상악 발치와; 대조군 = 임플란트–골삭제 간 최소 미스핏(misfit) vs 시험군 = 주위골을 골밀도화 (Osseodensification, OD)시키는 고도 미스핏) — 미스핏·삽입 토크 (Insertion Torque, IT)·임플란트 안정성이 주위골에 미치는 단기·장기 효과를 연결하는 설계이며, 보유 논문 중 Trisi 2011과 함께 노출을 **사후 분류가 아니라 실험적으로 배정한** 단 두 편 중 하나다. 고미스핏군에서 미세골절 + 광범위한 골세포 (Ost
+
+- `coyac-2019-preclinical-model-links-osseo-densification-misfit` [implants] (HIGH-no-target, 'overturn' · 결론 뒤집음)
+  - **근거 문장**: | Compression-benefit findings measured without healing may invert after healing | That OD is harmful, or that the wiki's OD-benefit evidence is overturned |
+  - ▸ 출발(`coyac-2019-preclinical-model-links-osseo-densification-misfit`) 세줄: 전임상 생체 내 동물실험 (쥐 상악 발치와; 대조군 = 임플란트–골삭제 간 최소 미스핏(misfit) vs 시험군 = 주위골을 골밀도화 (Osseodensification, OD)시키는 고도 미스핏) — 미스핏·삽입 토크 (Insertion Torque, IT)·임플란트 안정성이 주위골에 미치는 단기·장기 효과를 연결하는 설계이며, 보유 논문 중 Trisi 2011과 함께 노출을 **사후 분류가 아니라 실험적으로 배정한** 단 두 편 중 하나다. 고미스핏군에서 미세골절 + 광범위한 골세포 (Ost
+
+- `coyac-2019-preclinical-model-links-osseo-densification-misfit` [implants] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: - [[implants/isq/trisi-2011-high-low-implant-torque-histology-sheep]] — the wiki's "no necrosis at 110 Ncm" pillar and the only other paper that *assigned* the mechanical exposure; reports absent osteocyte lacunar emptying where this paper reports extensive osteocyte death. Different species, bed, and exposure metric, so the findings coexist — but Trisi's refutation of osseocompression is thereby 
+  - ▸ 출발(`coyac-2019-preclinical-model-links-osseo-densification-misfit`) 세줄: 전임상 생체 내 동물실험 (쥐 상악 발치와; 대조군 = 임플란트–골삭제 간 최소 미스핏(misfit) vs 시험군 = 주위골을 골밀도화 (Osseodensification, OD)시키는 고도 미스핏) — 미스핏·삽입 토크 (Insertion Torque, IT)·임플란트 안정성이 주위골에 미치는 단기·장기 효과를 연결하는 설계이며, 보유 논문 중 Trisi 2011과 함께 노출을 **사후 분류가 아니라 실험적으로 배정한** 단 두 편 중 하나다. 고미스핏군에서 미세골절 + 광범위한 골세포 (Ost
+
 - `bento-2023-steel-versus-zirconia-drills-heat` [implants] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: This material-pair signal qualifies (rather than contradicts) the broader chakraborty-2024 "drill material inconclusive" SR — both conclusions are compatible — but clinical translation requires zirconia drill fracture toughness and wear data before adoption.
   - ▸ 출발(`bento-2023-steel-versus-zirconia-drills-heat`) 세줄: SR+MA(Saudi Dent J 2024, PRISMA, 10편 in vitro): 지르코니아(Zr) drill vs 스테인리스스틸(SS) drill의 골내 온도 변화를 역분산(Inverse-variance) 풀링으로 비교. 지르코니아 drill이 SS drill보다 골내 온도 변화 유의하게 낮음(풀링 후 통계적 유의); 모든 근거는 in vitro. chakraborty-2024의 "drill 재질 결론 불가"와 양립 가능한 특정 material pair 신호 — 임상 적용 전 지르코니아 dr
@@ -2050,6 +2078,22 @@
 - `al-ahmari-2022-osseodensification-conventional-low-density-jaw` [implants/isq] (HIGH-no-target, 'counterpoint' · 반대 논점)
   - **근거 문장**: Provides a human controlled counterpoint to the OD-favorable pooled literature: when stability is measured directly in a split-mouth design, OD's advantage largely fails to reach significance (only density). Important for bounding OD claims.
   - ▸ 출발(`al-ahmari-2022-osseodensification-conventional-low-density-jaw`) 세줄: Split-mouth 전향적 임상 연구 (20명·임플란트 40개, 저밀도 악골) — 골밀도화 (Osseodensification, OD·Densah) vs 통상 드릴링을 환자 자기 대조 설계로 직접 비교. OD가 유의하게 우수한 결과는 수술 직후 CBCT 골밀도뿐; 1차/2차 안정성·치태지수 (PI)·출혈탐침 (BOP)·탐침깊이 (PD)·변연골소실 (MBL) 모두 유의차 없음. OD 우호적 풀링 문헌에 대한 인체 대조 반례; 저자의 결론("더 나은 1차 안정성")은 실제 null 안정성 결과보다 
+
+- `de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems` [implants/versah-protocols] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: For the wiki's HaeNaem vs Densah question specifically: this is the first held paper to measure cervical / body / apical separately, and it found no regional gradient for VERSAH. That is the correct measurement axis for the [[implants/kim-2019-double-spiral-condensing-screw-implant]] apical-deficit premise — but because the study detects no densification effect at all, and because S/V ratio is not
+  - ▸ 출발(`de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems`) 세줄: 신선 저밀도 소 늑골 in vitro 연구: SIN Strong SW CM 3.5 × 8.5 mm 임플란트용 골삭제 시스템 3종 — 기존 드릴링(SIN, 대조군), 골밀도화 (Osseodensification, OD; VERSAH/Densah bur), 골확장기 (Bone Expander; MAXIMUS) — 비교. 미세단층촬영 (micro-CT)으로 **경부·체부·근단부**를 나눠 골 표면적/부피비 측정(군당 n=5), 최대 식립 토크 (Insertion Torque, IT) 측정(군당 n=8)
+
+- `de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems` [implants/versah-protocols] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: - [[implants/versah-protocols/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] — **contradicts**. Closest comparable design held (ex vivo bovine rib, three osteotomy techniques, insertion torque) and reached the opposite conclusion: OD significantly beat conventional drilling (IT 77.6 vs 61.3 N·cm, p=0.007). Same substrate class, conflicting bottom line — but note de-lima was pair
+  - ▸ 출발(`de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems`) 세줄: 신선 저밀도 소 늑골 in vitro 연구: SIN Strong SW CM 3.5 × 8.5 mm 임플란트용 골삭제 시스템 3종 — 기존 드릴링(SIN, 대조군), 골밀도화 (Osseodensification, OD; VERSAH/Densah bur), 골확장기 (Bone Expander; MAXIMUS) — 비교. 미세단층촬영 (micro-CT)으로 **경부·체부·근단부**를 나눠 골 표면적/부피비 측정(군당 n=5), 최대 식립 토크 (Insertion Torque, IT) 측정(군당 n=8)
+
+- `de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems` [implants/versah-protocols] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: - [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — **contradicts**. Cited in this paper's own Discussion. Low-density porcine tibia (D4 analog, n=55/group): OD significantly superior to conventional **under-drilling** — the harder comparator — on torque (21.7 vs 8.9 N·cm, p<0.001) and ISQ (69.8 vs 65.2, p=0.001). Directly conflicting finding in t
+  - ▸ 출발(`de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems`) 세줄: 신선 저밀도 소 늑골 in vitro 연구: SIN Strong SW CM 3.5 × 8.5 mm 임플란트용 골삭제 시스템 3종 — 기존 드릴링(SIN, 대조군), 골밀도화 (Osseodensification, OD; VERSAH/Densah bur), 골확장기 (Bone Expander; MAXIMUS) — 비교. 미세단층촬영 (micro-CT)으로 **경부·체부·근단부**를 나눠 골 표면적/부피비 측정(군당 n=5), 최대 식립 토크 (Insertion Torque, IT) 측정(군당 n=8)
+
+- `de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems` [implants/versah-protocols] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: - [[implants/kim-2019-double-spiral-condensing-screw-implant]] — **refines**. The HaeNaem patent (KR 10-2304707 B1) asserts that prior OD burs densify the side wall far more than the floor (d2 ≪ d1), motivating the 하부압착돔 (lower compression dome). This paper supplies the wiki's first regional measurement and finds no cervical/apical gradient for VERSAH — qualifying the scenario in which that premis
+  - ▸ 출발(`de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems`) 세줄: 신선 저밀도 소 늑골 in vitro 연구: SIN Strong SW CM 3.5 × 8.5 mm 임플란트용 골삭제 시스템 3종 — 기존 드릴링(SIN, 대조군), 골밀도화 (Osseodensification, OD; VERSAH/Densah bur), 골확장기 (Bone Expander; MAXIMUS) — 비교. 미세단층촬영 (micro-CT)으로 **경부·체부·근단부**를 나눠 골 표면적/부피비 측정(군당 n=5), 최대 식립 토크 (Insertion Torque, IT) 측정(군당 n=8)
 
 - `oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma` [implants/soft-tissue] (SOFT→zhang-2025-expert-consensus-km-augmentation-second-stage, 'Unlike' · 다름)
   - **근거 문장**: It complements the risk-factor SRs ([[mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]], [[ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma]]) by quantifying the *upside of intervention*, and pairs with the consensus/technique guidance ([[sanz-2022-keratinized-mucosa-around-implants-consensus]], [[zhang-2025-expert-consensus-km-augmentation-second-stage]]). Unlike Sanz
