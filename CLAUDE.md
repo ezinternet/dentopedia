@@ -91,7 +91,11 @@ Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `pa
 
 검색 우선순위: **`query`**(하이브리드) = 개념·종합 질문 → **`search`**(BM25) = 저자명·기기명·특정 수치 등 정확 매치 → `grep` fallback.
 
-인제스트 후(또는 매일) 인덱스 갱신: `qmd update && qmd embed`. **`qmd embed`는 exit 0을 내고도 미완료일 수 있다** — 완료 신호는 `All content hashes already have embeddings`뿐이고, 진짜 백로그는 `qmd status`의 `Pending:`이다 (`qmd update`가 찍는 숫자는 전체 파일 수라 거짓). 큰 백로그 드레인 절차는 `INGEST.md` Step 5.
+**손으로 `wiki/`·`sources/`·`agenda/`·`note-meeting/`의 `.md`를 고쳤으면 그날 안에 `qmd update && qmd embed`를 돌린다.** 이 경로엔 자동화가 **없다** — `embed-until-done` launchd 잡은 큰 백로그를 한 번 드레인하고 멈추는 것이지 주기 잡이 아니고, `qmd update`는 어디서도 자동 실행되지 않는다. 인제스트는 예외로 파이프라인이 알아서 한다(`ingest-one.py --finish`). 재색인은 파일별이 아니라 리포 전체라 그날 한 번이면 그날 편집분이 다 쓸려 들어간다.
+
+*Why*: 고쳐도 색인이 옛것을 들고 있으면 **검색은 고치기 전 내용을 계속 내놓는다** — 페이지는 맞는데 답이 틀리는, 감사로 안 잡히는 실패다. 2026-07-17에 철회 논문 페이지를 고쳐놓고 이걸 빠뜨려 10시간 동안 철회 경고 없는 옛 청크가 검색됐다. 실측: 인덱스 대상을 고친 55일 중 23일(42%)이 그날 인제스트가 없어 이 창에 노출됐다.
+
+**`qmd embed`는 exit 0을 내고도 미완료일 수 있다** — 완료 신호는 `All content hashes already have embeddings`뿐이고, 진짜 백로그는 `qmd status`의 `Pending:`이다 (`qmd update`가 찍는 숫자는 전체 파일 수라 거짓). 큰 백로그 드레인 절차는 `INGEST.md` Step 5.
 
 **고아 벡터 청소는 주간 launchd 잡(`com.llmwiki.qmd-cleanup`, 월 10:00)이 한다 — ingest 절차에 넣지 마라.** `update`/`embed`는 고아 벡터를 안 치우고, 방치하면 검색이 **에러 없이** 산 문서를 놓친다 (감사로 안 잡히는 실패). 검색이 이상하면 재임베딩(`-f`, ~2.5h) 말고 `qmd cleanup`(수 초, 산 벡터 보존)부터 의심하라. 근거·실측은 `INGEST.md` Step 5.
 
