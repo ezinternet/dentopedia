@@ -7,8 +7,8 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **4**
-- Tier 2 (대상 불명/soft, review): **569**
-- (억제됨) 이미 typed 엣지가 있어 제외: **240** · 동일 줄 비최근접으로 Tier 2 강등: **11**
+- Tier 2 (대상 불명/soft, review): **568**
+- (억제됨) 이미 typed 엣지가 있어 제외: **239** · 동일 줄 비최근접으로 Tier 2 강등: **11**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -747,7 +747,7 @@
   - **근거 문장**: **Reading the OR direction**: Fan 2024 reports odds of *failure* (OR 2.59 = higher failure risk in smokers); Calciolari 2026 reports odds of *survival* (OR 0.40 = lower survival odds in smokers, i.e. roughly consistent ~2.5× relative failure risk when inverted). The two framings are complementary, not contradictory — early-window failure (Fan) and full-follow-up survival (Calciolari) both land in 
   - ▸ 출발(`smoking-tobacco-periodontal-implant-overview`) 세줄: 흡연·담배제품과 치주-임플란트 위험 9편 종합 — 기전(Apatzidou 2022) → 임플란트 생존/MBL 수렴 근거(Mustapha 2022·Fan 2024·**Calciolari 2026**) → 용량-반응(Naseri 2020) → 금연 효과(Caggiano 2022) → 수술 합병증(Wang 2023, 슈나이더막 천공) → 2026년 신규 노출경로(Ye 2026 비흡연자 간접흡연, La Rosa 2026 전자담배 미생물총, Calciolari 2026의 무연담배·전자담배 하위분석). 궐련
 
-- `osseodensification-clinical-applications` [overviews] (HIGH-far→changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift, '대비되는' · 대비)
+- `osseodensification-clinical-applications` [overviews] (HIGH-no-target, '대비되는' · 대비)
   - **근거 문장**: - [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(retracted/철회됨 — 인용 금지)** CW-OD 버(HaeNaem) 경치조 간접 거상 전향적 단일군 (n=12, RCBH 6–8mm, 무이식, 4mo CBCT 4방향 골고↑): Densah CCW 패러다임과 대비되는 유일한 CW OD 임상 데이터였으나 이후 철회됨 [근거 무효]
   - ▸ 출발(`osseodensification-clinical-applications`) 세줄: Fontes Pereira 2023 SR을 spine으로 33편을 4개 임상 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 허브-스포크로 통합. 일관된 이득은 삽입토크(Insertion Torque, IT) 상승 — 벤치·사체·동물·임상 전 계층에서 재현; in vitro 골-임플란트 접촉률(BIC) ~3배; 그러나 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 2025년 두 독립 인체 SR+MA(Mohammadi 2025 7편 NS·S
 
@@ -2104,10 +2104,6 @@
 - `sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct` [sinus-lift/transcrestal] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: - [[shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — contradicts: CGF+Bio-Oss Collagen superior to no-graft (graft type matters)
   - ▸ 출발(`sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct`) 세줄: RCT (30 임플란트, 1년, TCTR20210517008) — 상악 소구치/대구치 단일 결손부에서 OSFE+BCP 이식(HA30:TCP70, n=15) vs 무이식 OSFE(n=15) 비교, 3·6·9·12개월 CBCT 부피 측정·ISQ 평가. BCP 이식군이 1년 ISQ(78.72 vs 79.65, p=0.56)·생존율·골이득 모두 무이식군 대비 유의차 없음; 무이식군에서 6·9·12개월 변연골 변화(Marginal Bone Change)가 유의하게 적음(p<0.05). BCP 이식은 무이식
-
-- `changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift` [sinus-lift/transcrestal] (HIGH-no-target, 'in contrast to' · 대조)
-  - **근거 문장**: This prospective single-arm study from Bharati Vidyapeeth Dental College, Pune, India, evaluated the HaeNaem Zero Bone Loss Kit — a proprietary 골밀도화 (osseodensification, OD) bur system — for 경치조골 간접 상악동 거상 (indirect transcrestal sinus lift) in 12 patients with 잔존 치조골 높이 (residual crestal bone height, RCBH) of 6–8 mm. The study's primary contribution is clinical data on an alternative OD bur system
-  - ▸ 출발(`changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift`) 세줄: 잔존 치조골 높이(Residual Crestal Bone Height, RCBH) 6–8 mm에서 HaeNaem Zero Bone Loss 시계방향(Clockwise, CW) 골밀도화(Osseodensification, OD) 버를 이용한 무이식 경치조골 간접 거상·동시 식립을 평가한 전향적 단일군 연구(n=12). **철회(Retracted) — 임상 근거로 인용 금지.** 4개월 CBCT에서 근심·원심·협측·구개측 4개 방향 모두 유의한 골 높이 증가(p<0.01); 막 천공 없음; 전 임플란
 
 - `nowzari-2022-migration-bovine-derived-xenograft-particles` [sinus-lift/lateral] (HIGH-no-target, '반박' · 반박)
   - **근거 문장**: Nowzari, Teoh, Rodriguez (2022, J Indian Soc Periodontol)는 단일 개인 치과의원에서 7명의 건강한 성인(34–80세, 여5/남2)에게 우골유래 이종골이식재(Bio-Oss 또는 Bio-Oss Collagen)를 전치부 상악(6례) 또는 하악(1례) 임플란트 부위의 발치와 보존 또는 윤곽증대(contour augmentation)에 사용한 뒤 2–6년간 관찰한 증례 시리즈를 보고했다. 즉시식립+즉시부하 프로토콜(Case 3, 6, 7)과 지연/단계적 프로토콜(Case 1, 2, 4, 5)이 혼재하며, 대부분 콜라겐 막(Bio-Gide) 및/또는 결합조직 이식을 병용했다. 7례 전부에서 치유지대주 제거 시점부터 최장 6년 추적 시점까지, 유착된(intact) 이종골 입
