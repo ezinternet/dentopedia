@@ -36,7 +36,7 @@ The general plausibility of burnout–adverse care correlations is not disproven
 
 번아웃-환자 결과 상관관계의 일반적 타당성은 반증되지 않았으나, 수치 인용은 retraction 이후 비분쟁(non-disputed) 근거를 별도 확인 후 사용할 것.
 
-## Summary
+## Summary (Original Claims — Now Withdrawn, Do Not Cite)
 Panagioti et al. originally pooled 47 observational studies (42,473 physicians) and reported that physician burnout was associated with roughly 2-fold odds of unsafe care, unprofessional behavior, and lower patient satisfaction. Depersonalization was identified as the most consequential MBI subscale, and the burnout-unprofessionalism link was strongest in early-career physicians.
 
 **This meta-analysis has since been retracted.** The original PDF still shows up frequently in literature searches and downstream citations, so the wiki keeps it as a flagged entry rather than silently dropping it. Effect estimates from this paper should not appear in any of our derived clinical or operational documents.
