@@ -1,0 +1,292 @@
+[FULL TEXT — PubMed Central PMC11000910. PMID 38595573. DOI 10.4103/jpbs.jpbs_990_23]
+[Retrieved via PubMed MCP get_full_text_article. Note: PMC XML extraction returned section headings truncated to 1–2 letters (I / MM / R / D / SC) — preserved verbatim below as returned by the tool, not expanded or corrected. Tables 1 and 2 were returned as flattened text (row values in sequence, no grid formatting) — transcribed verbatim in that same row order, not reformatted into a grid.]
+
+TITLE: Assessment of the Capability to Accurately Capture the Vertical Relationship by the Various Bite Registration Materials
+AUTHORS: Rani P, Ranjan M, Sinha T, Singh A, Keshri M, Prakash J
+JOURNAL: Journal of Pharmacy and Bioallied Sciences. 2024 Feb;16(Suppl 1):S745-S747.
+DOI: 10.4103/jpbs.jpbs_990_23
+PMID: 38595573
+PMCID: PMC11000910
+
+ABSTRACT
+
+Background:
+
+This research study aimed to evaluate and compare the capability of four various bite registration materials to reproduce precise interocclusal relationships in the vertical dimension
+
+Materials and Methods:
+
+Ideal maxillary and mandibular casts were mounted on the semi-adjustable articulator in maximum intercuspation after mock tooth preparation on 46, 47, and 48. Models were scanned by the Medit T500 Dental Lab Scanner, and initial reading was noted at the predetermined points. Ten interocclusal bite registrations were made using four materials (CADbite, Jet Bite, Ramitec, and Aluwax). The mandibular model was demounted and again remounted using the interocclusal records, and the final reading was noted after scanning.
+
+Results:
+
+Ramitec showed superior results when compared to polyvinyl bite registration material and Aluwax, but the differences between Ramitec, CADbite, and Jet Bite were nonsignificant.
+
+Conclusions:
+
+Although all four materials are suitable for clinical use, elastomeric materials showed superior results. In that, polyether was found to be the best.
+
+FULL TEXT
+
+I
+
+Diagnosis and treatment of a patient for prosthetic rehabilitation require the clinician to fabricate diagnostic casts and master casts and articulate them on an articulator.[] The interocclusal recordings utilized for dentulous and edentulous patients should be dimensionally stable, possess good strength, be able to replicate the maxillomandibular relationship in the articulator, and not operate as an obstruction when complete closure of teeth is anticipated.[]
+
+In addition to dimension variation, compressive stress is frequently applied to the recording material during the articulation technique, which can lead to mistakes in related casts in centric and other excursive positions.[] Many studies have been conducted to assess the hardness, dimensional stability, compressive strength, and resistance to the closure of interocclusal recording material.[] The present analysis aimed to determine and compare the capability of four bite registration materials to accurately reproduce the vertical relationship.
+
+MM
+
+The research was conducted in the Department of Prosthodontics and Crown and Bridge, Hazaribag College of Dental Sciences and Hospital, Hazaribag, Jharkhand. The sample size was selected to be 10 per group. Four groups were formed based on the interocclusal registration material to be used. Therefore, a total of 40 samples were created.
+
+Group A: Ramitec (polyether), 3M ESPE.
+
+Group B: CADbite (polyvinyl siloxane), Ivoclar Vivadent.
+
+Group C: Jet Bite (polyvinyl siloxane), Coltene Whaledent.
+
+Group D: Aluwax, Dental Products Co., USA.
+
+Ideal maxillary and mandibular casts were mounted on the semi-adjustable articulator in maximum intercuspation after mock tooth preparation on 46, 47, and 48. Models were scanned by the Medit T500 Dental Lab Scanner, and initial reading was noted at the predetermined points. Ten interocclusal bite registrations were made using four materials (CADbite, Jet Bite, Ramitec, and Aluwax) each. The mandibular model was demounted and again remounted using the interocclusal records, and the final reading was noted after scanning.
+
+Recording the interocclusal relationship
+
+Maximum intercuspation bite registration was made using four different types of bite registration material, and a weight of 50 pounds was placed on the upper member to eliminate material consistency resistance and to receive uniform pressure.
+
+Scanning II (Final Reading)
+
+After making the interocclusal records, the demounting of the mandibular model was performed. The interocclusal record made was placed in the maxillary model, and the mandibular model was remounted into the articulator. The idea was to measure the discrepancy in vertical dimension if created by the interocclusal record material so that the accuracy of various bite registration materials can be found. This procedure was repeated ten times using ten interocclusal records that were made of each bite registration material. After remounting, the setup is once again attached to the scanner and scanned. The obtained value is considered a final reading.
+
+R
+
+The data values found were entered in Microsoft (MS) Excel 365. Analysis of variance (ANOVA) and then Turkey's honestly significant difference (HSD) test were used for statistical comparisons between groups at a significance level of 0.05 [and].
+
+Table 1
+
+Intergroup and intragroup analysis of the different bite registration materials using ANOVA
+
+Analysis of variance for all materials
+Sum of squares
+df
+Mean square
+F
+Sig.
+
+Within groups
+0.242
+45
+0.005
+
+Between groups
+5.627
+4
+1.407
+261.498
+0
+
+Total
+5.869
+49
+
+*The mean difference is significant at a 0.05 level
+
+Table 2
+
+analysis for accessing the mean difference between the groups
+
+analysis
+Independent variable
+Dependent variable
+Mean difference
+Std. error
+Sig.
+95% confidence interval
+Lower bound
+Upper bound
+
+Control
+Ramitec
+-0.13640*
+0.03280
+0.001
+-0.2296
+-0.0432
+
+Control
+CADbite
+-0.15180*
+0.03280
+0.000
+-0.2450
+-0.0586
+
+Control
+JET Bite
+-0.16510*
+0.03280
+0.000
+-0.2583
+-0.0719
+
+Control
+Aluwax
+-0.93880*
+0.03280
+0.000
+-1.0320
+-0.8456
+
+Ramitec
+Control
+0.13640*
+0.03280
+0.001
+0.0432
+0.2296
+
+Ramitec
+CADbite
+-0.01540
+0.03280
+0.990
+-0.1086
+0.0778
+
+Ramitec
+JET Bite
+-0.02870
+0.03280
+0.905
+-0.1219
+0.0645
+
+Ramitec
+Aluwax
+-0.80240*
+0.03280
+0.000
+-0.8956
+-0.7092
+
+CADbite
+Control
+0.15180*
+0.03280
+0.000
+0.0586
+0.2450
+
+CADbite
+Ramitec
+0.01540
+0.03280
+0.990
+-0.0778
+0.1086
+
+CADbite
+JET Bite
+-0.01330
+0.03280
+0.994
+-0.1065
+0.0799
+
+CADbite
+Aluwax
+-0.78700*
+0.03280
+0.000
+-0.8802
+-0.6938
+
+JET Bite
+Control
+0.16510*
+0.03280
+0.000
+0.0719
+0.2583
+
+JET Bite
+Ramitec
+0.02870
+0.03280
+0.905
+-0.0645
+0.1219
+
+JET Bite
+CADbite
+0.01330
+0.03280
+0.994
+-0.0799
+0.1065
+
+JET Bite
+Aluwax
+-0.77370*
+0.03280
+0.000
+-0.8669
+-0.6805
+
+Aluwax
+Control
+0.93880*
+0.03280
+0.000
+0.8456
+1.0320
+
+Aluwax
+Ramitec
+0.80240*
+0.03280
+0.000
+0.7092
+0.8956
+
+Aluwax
+CADbite
+0.78700*
+0.03280
+0.000
+0.6938
+0.8802
+
+Aluwax
+JET Bite
+0.77370*
+0.03280
+0.000
+0.6805
+0.8669
+
+*The mean difference is significant at a 0.05 level
+
+D
+
+Studies comparing numerous interocclusal record materials have revealed that the selection of recording material is crucial for the proper transfer of the maxilla–mandibular connection to the articulator.[] If the chosen material is dimensionally unstable, it would affect the articulator's ability to reproduce the correct maxillomandibular connection.[]
+
+The vertical deviations induced by polyether and polyvinyl siloxane were statistically significantly less than those caused by aluminum wax. This is consistent with previous research that found elastomeric materials to be more resistant to deformation than waxes.[] In this study, when group D (Aluwax) was compared with the control group, group A (Ramitec), group B (CADbite), and group C (JET Bite), it showed a significant difference (0.000). These results were based on previous studies that showed that wax was the least reliable and most variable of all interocclusal materials.[]
+
+In the present study, when the materials were compared within the group, the mean value was significant (0.005), but when the materials were compared between the groups, it showed an insignificant value (1.407). This shows that all four materials are suitable to use clinically, but comparatively, Ramitec is preferable to Aluwax. Polyvinyl siloxane was found to be inferior in accuracy when compared to polyether, but it was not statistically significant. Similarly, no significant difference was found between the two polyvinyl siloxane bite registration materials.
+
+SC
+
+Within the limit of this investigation, the following conclusions were depicted:
+
+Polyether bite registration material showed superior results when compared to polyvinyl bite registration material and Aluwax.
+
+Aluwax showed significantly less accuracy in reproducing accurate interocclusal relationships in vertical dimension when compared with polyether bite registration material (Ramitec) and polyvinyl siloxane addition silicone bite registration material (CADbite and JET Bite).
+
+All four materials are suitable to be used clinically, but comparatively elastomeric bite registration materials are preferable over Aluwax.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
