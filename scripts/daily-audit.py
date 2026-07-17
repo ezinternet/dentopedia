@@ -10,11 +10,23 @@ output-coverage-lint, recall-coverage-lint, deviation-audit. AUDITS.md had drift
 same way. Bumping the count without listing the missing ones would have been worse:
 it would claim 19 while naming 14.)
 
-NOT here: the seven build-* scripts. They regenerate deployed artifacts and live in
-.github/workflows/deploy-pages.yml, which fires on push to wiki/**. The line is not
-read-only-vs-writes — it is what breaks when it doesn't run: a skipped audit leaves you
-ignorant, a skipped build leaves the published site lying. So builds belong at the
-moment the artifact reaches its consumer (deploy), not in a local daily report.
+NOT here: the build-* scripts (9 of them; counted 2026-07-17, not eyeballed). They
+regenerate artifacts rather than report state, and they run on three different paths:
+
+  - 6 in .github/workflows/deploy-pages.yml, which fires on push to wiki/** —
+    build-category-map, build-overviews-map, build-contradiction-radar,
+    build-wiki-stats, build-interactives-index, build-lectures-index.
+    (That workflow also invokes interactive-staleness.py, but that is an AUDIT run
+    there with `|| true`, not a build. Counting `python3 scripts/...` lines in the
+    YAML gives 7 and is wrong — this exact miscount shipped here once already.)
+  - 1 on launchd (Mon 09:00) — build-weekly-digest, via .claude/scripts/weekly-digest.sh
+  - 2 manual — build-lecture-quiz (which calls build-quiz)
+
+Why they are not here: the line is not read-only-vs-writes — it is what breaks when it
+does not run. A skipped audit leaves you ignorant; a skipped build leaves the published
+site lying. So a build belongs at the moment its artifact reaches a consumer (deploy),
+not in a local daily report. Same principle already stated in interactive-staleness.py:
+meta/stats tools are exempt from staleness because deploy regenerates them wholesale.
 
 Three classic audits (errors):
   - lint.py                  → wiki frontmatter sanity
