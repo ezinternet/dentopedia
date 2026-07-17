@@ -1,0 +1,412 @@
+[FULL TEXT — PubMed Central PMC13140480. PMID 41914450. DOI 10.1002/cre2.70343]
+[Extraction note: PMC XML→text conversion drops some inline italic-tag content — statistical symbols/letters embedded in <italic> tags (e.g. "p", "n", "I2" markers before "=" signs, and some figure-caption axis labels) are missing from the plain text below; numeric values and section text are otherwise intact. Reproduced verbatim as returned, including these gaps.]
+
+TITLE: Artificial Intelligence in Dental Treatment Planning and Diagnostic Decision‐Making: A Systematic Review and Meta‐Analysis
+AUTHORS: Alabdulkareem M, Atieh M, AbuMostafa A, Aldalaan K, Alturki N
+JOURNAL: Clinical and Experimental Dental Research (Clin Exp Dent Res) 2026;12(2):e70343
+DOI: 10.1002/cre2.70343
+PMID: 41914450 | PMCID: PMC13140480
+
+ABSTRACT
+
+Objectives
+
+This systematic review and meta‐analysis aimed to synthesize the available evidence on the use of AI in dental diagnostic decision‐making and treatment planning, evaluating both diagnostic accuracy and its influence on clinical decision‐making across different dental specialties and imaging modalities.
+
+Methods
+
+A comprehensive search of MEDLINE, Embase, Cochrane CENTRAL, Web of Science, and Scopus was conducted from database inception to December 2025. Eligible studies evaluated AI algorithms used for dental diagnostic tasks or treatment planning and reported quantitative performance metrics or measurable decision‐making outcomes. Random‐effects meta‐analyses were conducted to pool diagnostic performance measures.
+
+Results
+
+Twenty‐seven studies involving 60,857 radiographic images were included. AI systems demonstrated a pooled sensitivity of 0.85 (95% CI: 0.76–0.91) and specificity of 0.94 (95% CI: 0.86–0.97). The pooled F1‐score was 0.90 (95% CI: 0.77–0.96), and pooled precision was 0.88 (95% CI: 0.71–0.96). For segmentation tasks, the pooled Dice Similarity Coefficient was 0.89 (95% CI: 0.13–1.00). Substantial heterogeneity was observed across studies (I² > 95%). YOLO‐based architectures achieved the highest performance for tooth detection and segmentation, with sensitivities approaching 99% and mean average precision exceeding 0.96. AI assistance also improved diagnostic efficiency and interobserver agreement while reducing diagnostic interpretation time.
+
+Conclusions
+
+AI systems demonstrate strong diagnostic performance in dental imaging and decision support, particularly for tooth detection, segmentation, and pathology identification. However, substantial heterogeneity, retrospective study designs, and limited external validation highlight the need for rigorous prospective evaluation before widespread clinical implementation.
+
+1
+
+Introduction
+
+Artificial intelligence represents a disruptive technology in healthcare, with dental medicine representing one of the fields where AI diagnostic and treatment planning tools are adopted particularly fast (Panahi). The integration of machine learning algorithms, specifically deep learning architectures, including convolutional neural networks, has demonstrated significant promise in automating complex visual recognition tasks that have traditionally relied on extensive clinical expertise (Taye). In dentistry, diagnosis highly relies on radiographic interpretation and visual assessment (Chauhan et al.). AI systems are increasingly utilized for caries detection, the assessment of periodontal disease, the identification of periapical lesions, orthodontic land marking, and many other multiple specialty treatment planning decisions (Yigitaliev et al.).
+
+It is rightly said that the benefits of AI in dentistry are enormous (Panahi). Imaging data can be analyzed using AI algorithms over a large volume of data without significant variation in performance, potentially limiting inter‐observer inconsistency that has long been a thorn in the flesh of dental diagnostic (Musleh et al.). AI‐aided interpretation of dental pathology can help identify it at an early stage, potentially saving a patient, simplifying and decreasing the cost of treatment (Yigitaliev et al.). Moreover, AI may be used to combat staffing shortages, as it can help increase the number of clinicians, including in underserved regions, where the availability of specialist knowledge is low (Balakrishnan et al.). The introduction of dental imaging technologies to replace conventional two‐dimensional radiography with cone beam computed tomography (CBCT) and digital intraoral photography (Shah) has significantly expanded the amount and volume of the information that needs to be interpreted, which has led to the emergence of an environment where AI support can be of special use.
+
+Regardless of such optimism, the scientific foundation of AI application in the dental practice is still piecemeal and heterogeneous (de Magalhães and Santos). Different studies assessing the performance of AI have diverse designs, validation methods, and outcome measures (Myllyaho et al.). Internal validation is the basis of many studies, which hinders the extrapolation of the study to real‐life clinical practice (Blonde et al.). The sample sizes tend to be small, and the range of patients and imaging regimens among studies makes it difficult to compare (Balki et al.). Moreover, although many studies present impressive diagnostic accuracy scores of AI algorithms, a smaller number of them have tested whether these systems can actually enhance clinical decision‐making when they are incorporated into clinical practices (Castaneda et al.). The important difference between algorithmic performance in controlled research and clinical usefulness in practice has not been well taken care of (Schuetz et al.).
+
+Several systematic reviews have focused on specific dental subspecialties, such as the detection of caries or orthodontic analysis, in which AI applications have been used (Thurzo et al.). No comprehensive synthesis, however, has combined the evidence of AI applications across all dental diagnostic and treatment planning tasks with the evaluation of both diagnostic accuracy and impact on clinical decision‐making. This represents an especially important gap, because translation of diagnostic accuracy to changes in clinical outcomes is contingent on how AI systems affect practitioner behavior, quality of decisions, and, ultimately, patient care (Shamszare et al.). These relationships can be comprehended only through synthesis across various study designs, including diagnostic accuracy studies, randomized controlled trials, and observational studies of clinician‐AI interaction.
+
+Several important methodological questions remain unexamined. No trials have reported the comparative performance of different AI architectures systematically, the influence of validation methods on reported accuracy, and the modification of imaging modality and dental specialty on the effectiveness of AI. Publication bias––especially the failure to publish studies with null or unfavorable results––distorts the apparent promise of these technologies (Song et al.). The quality of reference standards to train and validate AI systems also varies significantly; whereas some studies use single expert opinions, others use consensus panels or histopathological confirmation (Nagendran et al.). Such methodological variations may cause large variations in the reported performance metrics, limiting the reliability of individual study findings.
+
+This systematic review and meta‐analysis will perform a comprehensive, rigorous synthesis of the best available evidence on AI applications in dental diagnostic decision‐making and treatment planning. We will use robust diagnostic test accuracy meta‐analytic methods that account for the correlation between sensitivity and specificity to derive pooled estimates of the performance of AI in a wide range of clinical applications. In a systematic assessment of decision‐making outcomes, we are interested in determining whether AI systems meaningfully enhance diagnostic accuracy and clinical decision‐making in dental practice, with particular emphasis on radiographic interpretation across key dental specialties. Pre‐specified subgroup analyses will be performed by the following factors: imaging modality, dental specialty, AI model architecture, and validation approach, thereby guiding both future research and implementation. Finally, applying GRADE methodology for assessing evidence certainty will allow us to transparently communicate the strength and limitations of current evidence, enabling informed decisions about AI adoption in dental practice.
+
+2
+
+Methods
+
+2.1
+
+Protocol Registration and Reporting
+
+This systematic review and meta‐analysis is registered in the International Prospective Register of Systematic Reviews, PROSPERO (Registration number: CRD420251240547), and was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) 2020 guidelines (O'Dea et al.), the Preferred Reporting Items for Systematic Reviews and Meta‐analyses of Diagnostic Test Accuracy Studies (PRISMA‐DTA) (McInnes et al.), and the Cochrane Collaboration's recommendations for systematic reviews of diagnostic test accuracy (Deeks et al.). The protocol was developed a priori to guarantee methodological rigor and transparency.
+
+2.2
+
+Eligibility Criteria
+
+2.2.1
+
+PICOS Framework
+
+Studies were selected based on the following PICOS criteria (Methley et al.):
+
+Patients of any age undergoing dental imaging, diagnostic assessment, or treatment planning across all dental specialties, including restorative dentistry, endodontics, periodontics, orthodontics, oral surgery, and implantology.
+
+Artificial intelligence algorithms or models, including machine learning, deep learning, and classical machine learning approaches, used to assist or perform diagnostic tasks or support treatment planning decisions in dental practice.
+
+Comparator (C):
+
+For diagnostic accuracy studies: reference standard (expert clinicians, histopathology, or clinical follow‐up) or human clinicians
+
+For decision‐making impact studies: usual clinician decision‐making without AI assistance, or clinician decision‐making with alternative aids
+
+Outcomes (O):
+
+Diagnostic performance metrics: sensitivity, specificity, area under the receiver operating characteristic curve (AUC/ROC), precision, recall, F1 score, accuracy, and diagnostic odds ratio (DOR)
+
+Decision‐making outcomes: changes in treatment plans, inter‐rater reliability (kappa or intraclass correlation coefficient), time to decision, clinician confidence scores, and patient‐level outcomes (treatment success, complications) when reported
+
+Diagnostic accuracy studies, prospective or retrospective validation studies, randomized controlled trials comparing AI versus usual care, interventional studies measuring decision impact, observational studies examining clinician‐AI interactions, and algorithm development papers that included independent validation.
+
+2.2.2
+
+Inclusion Criteria
+
+Studies were included if they:
+
+2.2.3
+
+Exclusion Criteria
+
+Studies were excluded if they:
+
+2.3
+
+Information Sources and Search Strategy
+
+2.3.1
+
+Database Searches
+
+A comprehensive search was conducted across multiple electronic databases from inception to December 15, 2025: MEDLINE (via PubMed), Embase, Cochrane Central Register of Controlled Trials (CENTRAL), Web of Science, and Scopus. Grey literature was searched using Google Scholar (first 200 results for each search term combination).
+
+2.3.2
+
+Search Terms
+
+The search strategy combined terms related to: (1) artificial intelligence and machine learning (“artificial intelligence” OR “machine learning” OR “deep learning” OR “neural network” OR “convolutional neural network” OR “computer‐aided diagnosis” OR “automated detection”); (2) dentistry and dental specialties (“dentistry” OR “dental” OR “orthodontic” OR “periodontal” OR “endodontic” OR “oral surgery” OR “dental implant”); and (3) diagnostic and treatment planning tasks (“diagnosis” OR “diagnostic accuracy” OR “treatment planning” OR “decision making” OR “radiographic interpretation” OR “image analysis”). The full search strategy for each database is provided in Supporting Material 1.
+
+2.3.3
+
+Additional Search Methods
+
+Reference lists of included studies and relevant review articles were manually screened to identify additional eligible studies. Citation tracking was performed using Web of Science and Google Scholar to identify studies citing key included papers.
+
+2.3.4
+
+Language and Date Restrictions
+
+No language or date restrictions were applied during the search phase. Non‐English articles were translated using professional translation services or validated translation software when necessary.
+
+2.3.5
+
+Study Selection Process
+
+Search results were imported into Zotero (version 7) reference management software, and duplicates were automatically and manually removed. Two independent reviewers screened titles and abstracts against the eligibility criteria. Studies deemed potentially eligible by either reviewer proceeded to full‐text review. Full‐text articles were independently assessed by two reviewers for final inclusion. Disagreements at any stage were resolved through discussion, and when consensus could not be reached, a third reviewer was consulted. The inter‐rater agreement was calculated using Cohen's kappa statistic. A PRISMA flow diagram documenting the study selection process and reasons for exclusion was prepared.
+
+2.3.6
+
+Study Selection and Data Extraction
+
+Search results were imported into EndNote and duplicates were removed. Two independent reviewers screened titles/abstracts, then full texts, with disagreements resolved by discussion or a third reviewer. Inter‐rater agreement was calculated using Cohen's kappa. A PRISMA flow diagram documented the selection process.
+
+Two reviewers independently extracted data using a standardized form covering:(author, year, country, design, setting, sample size);(age, dental condition, imaging modality);(AI model type, training dataset, validation method, preprocessing);(reference standard type, human comparator expertise, inter‐observer reliability); and(diagnostic metrics with 95% CIs, decision‐making outcomes, patient outcomes, subgroup analyses). Discrepancies were resolved through discussion or third‐reviewer consultation.
+
+2.3.7
+
+Data Synthesis and Statistical Analysis
+
+A narrative synthesis described study characteristics, populations, interventions, and outcomes, grouped by diagnostic task and imaging modality. Pooled estimates of diagnostic performance metrics, including sensitivity, specificity, accuracy, precision, F1 scores, and area under the curve (AUC), were calculated using random‐effects models to account for between‐study heterogeneity. For proportional outcomes (sensitivity, specificity, accuracy, precision), meta‐analysis of proportions was conducted using generalized linear mixed models (GLMM) with logit transformation (PLOGIT) and maximum likelihood estimation (ML) for tau². The metaprop function from the meta package was employed with inverse variance or GLMM methods, depending on the outcome measure. For precision outcomes, subgroup meta‐analysis was performed to compare overall diagnostic precision versus segmentation‐specific precision tasks. Between‐subgroup differences were assessed using chi‐square tests, with statistical significance set at< 0.05. All analyses were performed using R version 4.5.2 with the meta, metafor, and ggplot2 packages. Forest plots displayed study‐specific estimates with 95% confidence intervals, pooled random‐effects estimates with prediction intervals, heterogeneity statistics (I², tau²,‐values for Cochran's Q), and study weights. Except for the assessment of heterogeneity, for which< 0.10 was set, statistical significance was set at< 0.05 for all analyses.
+
+2.3.8
+
+Quality Assessment
+
+Two reviewers independently evaluated study quality using design‐appropriate tools.QUADAS‐2 assessed patient selection, index test, reference standard, and flow/timing domains for risk of bias, together with concerns regarding applicability (Schueler et al.).ROBINS‐I assessed confounding, participant selection, intervention classification, deviations, missing data, outcome measurement, and selective reporting (Sterne et al.). Disagreements were resolved through discussion or by referral to a third reviewer. The certainty of evidence for diagnostic test accuracy outcomes was assessed using the GRADE approach (Schünemann et al.).
+
+2.3.9
+
+Publication Bias and Reporting Bias
+
+Publication bias was assessed by funnel plots and Egger's regression test (< 0.10 indicating potential bias) for meta‐analyses with ≥ 10 studies. In the case of suspected publication bias, the trim‐and‐fill analysis estimated the magnitude of the missing studies.
+
+3
+
+Results
+
+3.1
+
+Study Selection Outcome
+
+Searches conducted across the four databases, namely PubMed (= 935), Scopus (= 960), Cochrane Library (= 87), Embase (= 70), and Web of Science WOS (= 274), identified a total of 2326 studies. After removal of 1487 duplicate records, 839 studies were obtained for title and abstract screening. Of these, 785 records were excluded for failing to meet the set inclusion criteria. The 54 remaining reports were sought for full‐text retrieval, with all the papers being successfully retrieved. Following full‐text assessment, 27 reports were excluded for either model development studies that did not include any validation (= 12), or were based on reviews, editorials, or opinion pieces (= 8), and non‐clinical technical papers (= 7). Lastly, 27 studies presented in 27 reports were included in this systematic review, as indicated in Figure.
+
+Of the 27 included studies, 15 were included in the quantitative meta‐analysis, while the remaining 12 contributed to the narrative synthesis only.
+
+Figure 1
+
+PRISMA flowchart for the systematic review that incorporates database searches.
+
+3.2
+
+Risk of Bias Outcome
+
+Assessment of the quality of the studies included was carried out using two tools: the ROBINS‐I tool for non‐randomized studies and the QUADAS‐2 tool for diagnostic accuracy studies. Generally, most domains revealed a low risk of bias in the overall studies included, though concerns had been noted in specific areas.
+
+In the ROBINS‐I assessment, all studies had low risk of bias across seven domains: D2‐D7, including bias due to selection of participants; classification of interventions; deviations from intended interventions; missing data; measurement of outcomes; and selection of reported results. However, the bias due to confounding (D1) could not be assessed because of insufficient information across all studies; hence, “no information” ratings were given for this domain. One study showed some concern for bias in the measurement of outcomes domain (D6) (Beser et al.), while two demonstrated some concerns due to missing data (D6) (Kurt et al.; Peker and Kurtoglu). Despite these isolated concerns, the overall risk of bias assessment demonstrated a low risk for all included studies.
+
+The QUADAS‐2 assessment yielded similar patterns. Most studies had unclear risk of bias in the patient selection domain due to unreported consecutive or random sampling methods. However, case‐control designs were appropriately avoided, and inappropriate exclusions were minimized across all studies. The index test domain showed consistently low risk of bias, with all studies conducting blind interpretation and pre‐specifying thresholds. The reference standard domain also demonstrated low risk of bias, with appropriate reference standards applied across studies. In the flow and timing domain, all studies ensured appropriate intervals, consistent reference standards, and complete inclusion of participants in the analysis, resulting in a low risk of bias.
+
+The results of the critical appraisal are presented in traffic light plots (Figure) and summary plots (Figure), which visually demonstrate the distribution of bias assessments across all domains and studies, and Table(Appendix) and Figures,,,,,,.
+
+Figure 2
+
+Traffic light plot of critical appraisal of the studies.
+
+Figure 3
+
+A summary plot of the outcomes of the critical appraisal of the studies.
+
+Figure 4
+
+Forest plot of pooled sensitivity for AI systems in dental detection tasks.
+
+Figure 5
+
+Forest plot of pooled specificity for AI systems in dental detection tasks.
+
+Figure 6
+
+Funnel plot with study labels assessing publication bias in pooled specificity estimates for AI‐based dental diagnostic accuracy studies.
+
+Figure 7
+
+Forest plot of pooled F1 score for AI systems in dental detection tasks.
+
+Figure 8
+
+Forest plot of pooled precision for AI systems in dental detection tasks.
+
+Figure 9
+
+Forest plot of pooled Dice Similarity Coefficient (DSC/F1 score) for AI systems in dental segmentation tasks.
+
+Figure 10
+
+Forest plot of risk difference for precision in AI systems for dental segmentation tasks.
+
+3.3
+
+Participant Characteristics
+
+The included studies encompassed a total of 60,857 radiographic images from diverse populations across multiple countries. Sample sizes ranged from 123 to 24,578 images, and participant ages ranged from pediatric populations (5–13 years) to elderly adults (up to 95 years). The dental conditions investigated included dental caries at various stages, periodontal conditions (alveolar bone loss, periodontitis, periapical lesions), tooth detection and numbering, restorative evaluations (fillings, crowns, implants, root canal treatments), and structural abnormalities (impacted teeth, cracked teeth). The studies employed predominantly deep convolutional neural networks, most commonly the YOLO variants (YOLOv5, YOLOv8, YOLOv10, YOLOv11), U‐Net architectures, and transfer learning models (VGG, ResNet, MobileNet, InceptionV3). Imaging modalities were panoramic radiographs by far the most common, followed by periapical radiographs, bitewing radiographs, CBCT, and intraoral photographs. Detailed study characteristics are summarized in evidence tables provided in the appendices (evidence Table).
+
+4
+
+Main Outcomes
+
+4.1
+
+Diagnostic Accuracy Outcomes
+
+Deep learning models demonstrated F1 scores between 0.82 and 0.93 for caries detection, with sensitivity values ranging from 81% to 92% and specificity between 82% and 96% (Li et al.; Esmaeilyfard et al.; Bayati et al.; Zhang et al.). For third molar caries classification specifically, models achieved 87% accuracy, 86% sensitivity, 88% specificity, and 0.90 area under the receiver operating characteristic curve (Vinayahalingam et al.). Attention U‐Net frameworks achieved Intersection over Union scores of 0.66–0.75 and Dice Similarity Coefficients of 0.79–0.85 for caries delineation (Pornprasertsuk‐Damrongsri et al.). YOLOv8 frameworks demonstrated 96% precision for enamel caries but lower performance at 80% precision for dentin caries (Bayati et al.). For proximal caries on bitewing radiographs, YOLOv5 models achieved 0.647 mean average precision and 0.548 mean F1 score (Pérez de Frutos et al.).
+
+YOLO‐based models achieved sensitivities up to 99% and mean average precision exceeding 0.96 for tooth detection and segmentation (Beser et al.; Peker and Kurtoglu). Recent model versions showed progressive improvements, with YOLOv11 and YOLOv12 achieving 88.5% and 89.1% precision, respectively, compared to 86.8% for YOLOv8 (Saber et al.). YOLOv11 demonstrated the most balanced performance with 86.2% recall and 87.1% F1‐score, achieving near‐expert performance with a mean average precision of 0.963 for detection and 0.890 for segmentation tasks (Saber et al.; Incerti Parenti et al.). YOLOv10‐based models achieved 0.90 precision, 0.94 recall, and 0.919 F1‐score for detecting and labeling primary and permanent teeth by developmental stage (Peker and Kurtoglu). YOLOv5 showed sensitivities of 0.99, 0.72, and 0.84 for identifying tooth development stages (Kurt et al.). In intraoral photographs, region‐based convolutional neural networks attained 0.880 mean average precision for tooth number recognition and 0.769 for dental caries detection (Yoon et al.).
+
+AI systems for periapical pathology detection demonstrated sensitivities ranging from 67.9% to 86.6% and specificities from 98.3% to 99.87% (Wang et al.; Ibraheem et al.; Chau et al.). Pre‐trained commercial software showed comprehensive diagnostic capabilities with the following sensitivities: caries 91%, periapical lesions 86.6%, crowns 97.1%, open crown margins 82.6%, restorations 89.3%, endodontic treatment 93.4%, calculus 80.2%, and marginal bone loss 91.1% (Ibraheem et al.). Corresponding specificities ranged from 87% to 99.6% (Ibraheem et al.).
+
+Ensemble models achieved 89.45% overall diagnostic accuracy for periodontal conditions, with radiographic bone loss detection accuracy reaching 97% (Xue et al.; Chen et al.). Convolutional neural networks with VGG‐16 architecture showed 73% sensitivity and 79.1% specificity in distinguishing diseased from healthy alveolar bone (Alotaibi et al.). SAM‐based architectures analyzing cone‐beam computed tomography achieved 98.92% diagnostic accuracy and 99.65% segmentation accuracy, with 72.36% sensitivity and 99.87% specificity (Chau et al.). Object detection models using Faster R‐CNN RegNetX demonstrated 0.973 mean average precision at 0.5 IoU and 0.952 area under the precision‐recall curve (Çelik and Çelik). Ensemble approaches combining YOLOv5, VGG‐16, and U‐Net architectures achieved approximately 90% overall classification accuracy, with 88.8% accuracy for tooth positioning detection and 86.3% for tooth shape detection and segmentation (Chen et al.).
+
+For cracked tooth extraction prediction using panoramic radiography, deep learning models showed sensitivity of 90.43%–94.26%, specificity of 52.63%–0.77%, overall accuracy of 72.01%–75.84%, F1 score of 76.36%–79.00%, and AUC values of 0.80–0.82 (Mun et al.). Three‐dimensional cone‐beam computed tomography‐based implant planning systems failed to provide measurements in 15.7% of cases for bone height and 3% for bone thickness (Kurt Bayrakdar et al.). Certain commercially available software showed high specificity exceeding 98% but low sensitivity of 33.33% for panoramic radiograph analysis (Kazimierczak et al.). Diagnostic performance varied significantly across dental conditions, with AI sensitivities ranging from 55.4% for caries to 96.4% for impacted teeth, while specificities remained consistently high (0.983–0.999) (Zhu et al.). Some models exhibited moderate performance, with YOLOv8 showing 0.6 F1 score and 0.657 recall for automated dental condition detection (Mureșanu et al.).
+
+4.2
+
+Decision‐Making Outcomes
+
+AI‐assisted diagnostic systems provided valuable support for clinical decision‐making in dental practice (Esmaeilyfard et al.). Deep learning algorithms enabled clinicians to achieve diagnostic performance with 95% confidence intervals indicating true population sensitivity between 79.6% and 91.9%. They improved average clinician sensitivity from 60.7% to 85.9%, though with a small decrease in average specificity from 94.5% to 92.7% (Leemput et al.). The area under the localization ROC curve improved from 0.60 to 0.86 with AI assistance (Leemput et al.).
+
+AI assistance substantially improved interobserver agreement across multiple diagnostic categories. For dental caries detection, interobserver agreement increased from 0.585 to 0.590 to 0.726–0.713, while periapical periodontitis diagnosis showed improvement from 0.623 to 0.563 to 0.752–0.740 (Li et al.). Very high agreement was observed between AI systems and human radiologists, particularly for quantifying affected teeth (κ = 0.943) and differentiating caries stages (κ range: 0.907–0.981) (Pornprasertsuk‐Damrongsri et al.). AI‐reference agreement was comparable to inter‐human agreement in seven of eight diagnostic categories, with only caries detection showing statistical differences (= 0.024) (Wang et al.).
+
+AI systems showed significant gains in efficiency for clinical workflows. The mean time to diagnose per periapical radiograph was 1.5 ± 0.3 s for AI compared with a mean clinician assessment time of 53.8 ± 46.0 s (< 0.001), thus representing a reduction by about 35‐fold (Zhu et al.). Regarding periodontal assessments, the AI‐generated evaluations demonstrated adequate concordance with the specialist judgments, ICC = 0.806, which can be reliably used to inform decisions regarding disease staging and treatment planning (Xue et al.). Inter‐observer agreement was high (ICC = 0.91) for manual annotation in AI training datasets (Mureșanu et al.).
+
+5
+
+Quantitative Analysis
+
+Forest plot of the pooled sensitivity of AI systems in dental detection tasks. The pooled sensitivity was 0.85 (95% CI, 0.76–0.91;< 0.0001). The plot demonstrates that AI‐based systems achieved good sensitivity in dental diagnostic detection tasks, with individual studies showing sensitivity values ranging from 0.72 to 0.95. Significant heterogeneity was observed among the included studies (I² = 95.4%, τ² = 0.3925,< 0.0001), indicating substantial variability in sensitivity estimates across different AI applications and dental diagnostic contexts.
+
+Forest plot for the pooled specificity of AI systems in dental detection tasks. The pooled specificity was 0.94 (95% CI, 0.86–0.97;< 0.0001). This plot shows that AI‐based systems had high specificity for the dental diagnostic detection tasks, with specificity values from most individual studies above 0.80. Significant heterogeneity was observed among the included studies: I² = 99.2%, τ² = 1.1455,< 0.0001, which denotes substantial variability in the specificity estimates across different AI applications and dental diagnostic contexts.
+
+Funnel plot of publication bias in studies reporting specificity for AI‐based dental diagnostics. Logit‐transformed specificity values are plotted on the‐axis against standard error on the‐axis. The shaded contour areas indicate significance at< 0.1, 0.05, and 0.01, respectively. The vertical dashed line represents the pooled effect estimate. Most studies are symmetrically clustered within funnel contours near the apex (studies 1, 3, 4, 5, 6, 7, 9, 10), suggesting a low risk of publication bias. Two studies lie as outliers on the right‐hand side with lower standard errors, indicating higher precision but possibly divergent specificity estimates from the pooled effect.
+
+Forest plot of the pooled F1 score of AI systems in dental detection tasks. The pooled F1‐Score was 0.90 (95% CI, 0.77–0.96;< 0.0001). The plot reflects that AI‐based systems performed very well overall in dental diagnostic detection tasks; the F1 score for different studies ranged from 0.71 to 0.99. There was marked heterogeneity in included studies: I² = 99.4%, τ² = 1.2303, and< 0.0001, reflecting appreciable variation in F1 score estimates across different AI applications and dental diagnostic contexts.
+
+5.1
+
+Detection Tasks – Precision
+
+Forest plot of the pooled precision of AI systems in dental detection tasks. The pooled precision was 0.88 (95% CI, 0.71–0.96;< 0.0001). The plot shows high precision of AI‐based systems for the detection of dental diagnostic tasks, ranging between 0.72 and 0.99 in individual studies. There was considerable heterogeneity among the included studies (I² = 99.3%, τ² = 1.4176,< 0.0001), with high variability in the precision estimates associated with different AI applications and dental diagnostic contexts.
+
+Forest plot of pooled Dice Similarity Coefficient (DSC/F1 score) of AI systems in dental segmentation tasks. The pooled DSC was 0.89 (95% CI, 0.13–1.00;< 0.0001). The plot reveals that AI‐based systems achieved a high segmentation accuracy in dental diagnostic tasks, with individual studies showing DSC values ranging from 0.70 to 0.98. There was substantial heterogeneity among the included studies (I² = 99.4%, τ² = 2.5295,< 0.0001), reflecting considerable variability in the segmentation performance across different AI applications and dental anatomical structures.
+
+Forest plot of risk difference (RD) of AI systems in precision for dental segmentation tasks. The pooled risk difference using the random effects model with Hartung‐Knapp adjustment was 0.86 (95% CI, –0.73 to 2.46;< 0.0001). This plot reflects extremely variable precision performance across the two included studies, the individual risk differences being 0.73 and 0.98. Substantial heterogeneity was observed between the studies (I² = 98.3%, τ² = 0.0307,< 0.0001), indicating considerable variability in precision estimates across different AI applications and dental segmentation contexts.
+
+5.2
+
+GRADE Quality Evaluation
+
+The following GRADE summary table assesses the effectiveness of artificial intelligence systems in dental treatment planning and diagnostic decision‐making for various clinical applications. Substantial heterogeneity in AI architectures, imaging modalities, dental conditions assessed, and validation approaches across studies significantly reduced the certainty of evidence for AI diagnostic accuracy and clinical decision support outcomes. The predominantly retrospective study designs, variable reference standards, limited external validation, and unclear generalizability to diverse clinical settings further reduced confidence in the evidence. However, the overall certainty in the evidence was moderate for several key diagnostic performance metrics due to consistent findings across multiple studies with large sample sizes, as demonstrated in Table. The evidence showed moderate certainty for pooled sensitivity (effect size 0.85; 95% CI, 0.76–0.91), pooled specificity (effect size 0.94; 95% CI, 0.86–0.97), pooled F1‐score (effect size 0.90; 95% CI, 0.77–0.96), and pooled precision (effect size 0.88; 95% CI, 0.71–0.96), though all exhibited very high heterogeneity (I² > 95%). The quality of evidence was rated as low to moderate for segmentation tasks, where the pooled Dice Similarity Coefficient showed extremely wide confidence intervals (0.89; 95% CI, 0.13–1.00) reflecting substantial uncertainty, and for clinical decision‐making outcomes including interobserver agreement improvements and diagnostic time reduction, where effect sizes could not be calculated due to heterogeneous outcome measures and limited comparative data across studies.
+
+Table 1
+
+GRADE summary of findings.
+
+Outcome
+
+No. of studies
+
+Effect size
+
+Quality of evidence
+
+Detection tasks–sensitivity
+
+13
+
+0.85; 95% CI, 0.76–0.91
+
+Moderate: Downgraded for very high heterogeneity (I² = 95.4%) and study design limitations
+
+Detection tasks–specificity
+
+13
+
+0.94; 95% CI, 0.86–0.97
+
+Moderate: Downgraded for very high heterogeneity (I² = 99.2%) and unclear reference standards
+
+Detection tasks––F1 score
+
+11
+
+0.90; 95% CI, 0.77–0.96
+
+Moderate: Downgraded for very high heterogeneity (I² = 99.4%) and variable validation approaches
+
+Detection tasks–precision
+
+11
+
+0.88; 95% CI, 0.71–0.96
+
+Moderate: Downgraded for very high heterogeneity (I² = 99.3%) and retrospective designs
+
+Segmentation tasks–dice similarity coefficient
+
+5
+
+0.89; 95% CI, 0.13–1.00
+
+Low:Downgraded for extremely high heterogeneity (I² = 99.4%), very wide confidence intervals, and a limited number of studies
+
+Clinical decision support––interobserver agreement
+
+4
+
+Not applicable
+
+Low to moderate: Downgraded for heterogeneous measurement approaches and lack of standardized assessment tools
+
+Diagnostic efficiency–time reduction
+
+2
+
+Not applicable
+
+Low: Downgraded for insufficient data, lack of comparative studies, and limited external validation
+
+Treatment planning support
+
+3
+
+Not applicable
+
+Low: Downgraded for unclear clinical impact, variable implementation contexts, and lack of patient‐centered outcomes
+
+John Wiley & Sons, Ltd.
+
+6
+
+Discussion
+
+This systematic review with meta‐analyses combined evidence from 27 studies with 60,857 radiographic images to evaluate the diagnostic accuracy and clinical decision‐making impact of AI systems in dental treatment planning and diagnostics. The results from the pooled analyses indicated excellent overall performance, with high values for sensitivity of 0.85, specificity of 0.94, F1‐score of 0.90, precision of 0.88, and Dice Similarity Coefficient for segmentation tasks of 0.89. These results support the hypothesis that AI technologies have matured to a level at which they may meaningfully augment clinical dental practice; however, significant variations in AI performance remain across different diagnostic tasks and clinical applications.
+
+The most impressive observation of this review is the high level of performance of AI systems in the tasks of tooth detection and tooth segmentation, in which the sensitivities reached 99%, and mean average precision values of over 0.96 were constantly achieved based on YOLO‐based architectures (Beser et al.; Peker and Kurtoglu). Continual advancement in the successive stages of YOLO is indicative of new refinements to the architectures of dental imaging applications, with the highest recall of 86.2% and an F1 score of 87.1% in a single study (Saber et al.). This trend of continuous improvement is indicative of the overall evolutionary history of deep learning in dentistry, where each new generation of AI systems has addressed the weaknesses found in the previous design and has increased its functional scope to a variety of different diagnostic problems (Sum). YOLOv10‐based models also indicated a precision of 0.90, a recall rate of 0.94, and an F1 value of 0.919 in primary and permanent teeth recognition and counting, with pediatric usage (Peker and Kurtoglu), indicating that the model can be applied to a wide range of patient groups. Such performance levels make tooth detection and numbering one of the initial dental diagnostic functions that can be implemented in autonomous or semi‐autonomous AI implementation in a clinical setting.
+
+The pooled sensitivity of 0.85 (95% CI: 0.76‐0.91) indicates that while AI systems correctly identify the majority of positive cases across a wide range of dental diagnostic tasks, substantial room exists for improvement to minimize false negatives. The excellent pooled specificity of 0.94 (95% CI: 0.86‐0.97) indicates the value of AI systems in correctly identifying negative cases‐a key prerequisite for avoiding unnecessary interventions and preserving patient trust. The balanced performance reflected in the pooled F1‐score of 0.90 (95% CI: 0.77‐0.96) suggests that AI systems achieve a harmonious tradeoff between sensitivity and specificity, thus making them suitable for clinical deployment where both false positives and false negatives carry clinical consequences. The pooled precision of 0.88 (95% CI: 0.71–0.96) further confirms that positive predictions made by AI systems are highly reliable, a requirement for treatment planning decisions.
+
+For segmentation tasks specifically, the pooled Dice Similarity Coefficient of 0.89 (95% CI: 0.13–1.00) indicates excellent overlap between AI‐generated and expert‐annotated anatomical boundaries on average, although the extremely wide confidence interval reflects substantial variability across different anatomical structures and imaging modalities. This has also supported prior observations that the performance of AI systems in segmenting anatomical structures has varied significantly based on the clarity of anatomical boundaries and on the complexity of the target structure (Udupa et al.). SAM‐based architecture advanced segmentation models analyzing cone‐beam computed tomography have provided excellent diagnostic accuracy of 98.92% and segmentation accuracy of 99.65%, but with moderate sensitivities of 72.36% (Chau et al.). This pattern shows that AI systems may be best suited for use first when there are clear anatomic delineation problems and subsequently enlarged for challenging diagnostic decision‐making challenges.
+
+The other revolutionary outcome was the marked increase in clinical efficiency, since AI models succeeded in shortening the diagnosis period by a prodigious 35‐fold difference compared to human analysts (1.5 s vs. 53.8 s per periapical radiograph;< 0.001) (Zhu et al.). This is achieved to a huge extent, without compromising diagnostic quality, as evidenced from high ICC values and maintained accuracy of diagnosis. Their implications will be of great use for improving the practice schedule of dentists in devoting more time to the treatment of the patient and less to mere diagnosis analysis (AlShaya et al.). This time reduction becomes more significant when considered considering the diagnostic performance metrics maintained across the pooled analyses.
+
+The contribution of AI‐enhanced interobserver reliability is certainly rather significant to clinical practice (Dvijotham et al.). The extensive increment of the kappa statistics of diagnostic agreement of caries detection rose to that of 0.585‐0.590 up to 0.726‐0.713 (Li et al.). To diagnose periapical periodontitis, the kappa values had increased to 0.752‐0.740 (Li et al.), compared to 0.623‐ 0.563 and suggested that AI systems could be utilized as effective secondary readers that would bring uniformity in the diagnostic interpretations by clinicians of various levels of experience. The AI‐to‐reference agreement was similar to inter‐human agreement across seven of eight categories of diagnoses, which also confirmed reliability of such systems as clinical decision support tools (Wang et al.). The precision in the quantitative assessment is indicated by the high agreement of AI systems with human radiologists in the number of affected teeth (0.943) (Pornprasertsuk‐Damrongsri et al.). In distinguishing caries at various levels, the AI systems were found to be precise in their specific diagnostic classification with kappa between 0.907 and 0.981 (Pornprasertsuk‐Damrongsri et al.), These interobserver reliability enhancements are in addition to the high pooled specificity and precision indices that have been published indicating that AI systems are involved in achieving both accuracy and consistency in dental diagnostics.
+
+Although the overall pooled performance measures are excellent, there is significant heterogeneity in the studies with I2 statistics over 95% in all the pooled estimates, thus indicating high variability in the performance of AI across diverse diagnostic settings. The broad prediction ranges of the pooled estimates suggest that while the average performance is high, individual study outcomes may have strong variability, which severely restricts the extrapolation of aggregate measures to specific clinical uses. Comparatively worse performance on particular tasks, including dentin caries detection with 80% accuracy, highlights the impact the minor difference in the properties of the diagnostic object can have on the functionality of the AI (Bayati et al.). Contrarily, enamel caries detection had 96% precision (Bayati et al.), indicating the effect of lesion features on AI functioning. The large task‐dependent performance differences are evidenced by the variable sensitivity across dental conditions, meaning 55.4% in caries and 96.4% in impacted teeth (Zhu et al.). The specificity was always high in all the conditions (0.983‐0.999) (Zhu et al.), and it could be the consequence of a systematic bias of the existing AI systems in a conservative diagnostic manner. This trend is also observed in the pooled sensitivity estimate of 0.85, which is good, but significantly lower than the pooled specificity of 0.94, which validates the tendency to provide a false negative instead of a false positive in all AI applications.
+
+The effect of AI support on clinical‐level decision‐making goes beyond diagnostic accuracy to include broader workflow enhancements. In the use of deep learning algorithms guiding diagnostics, clinicians reached 95% confidence that the actual population sensitivity was between 79.6% and 91.9% (Leemput et al.). The sensitivity of clinicians with AI assistance increased to 85.9%, whereas specificity slightly decreased to 92.7%, indicating close to optimal calibration of missed diagnoses against more severe clinical outcomes compared to conservative management (Leemput et al.). These clinician‐level results are in good concordance with the pooled sensitivity of 0.85 and pooled specificity of 0.94 from the meta‐analysis. The major gain in the localization performance area under the localization ROC curve increased from 0.60 to 0.86 with deep learning, suggesting AI systems are useful in the precision of the localization of anatomical pathology (Leemput et al.).
+
+Regarding periodontal examination, the overall diagnostic accuracy of ensemble models was 89.45% (Xue et al.). Accuracy for radiographic bone loss detection reached 97% (Chen et al.). The ICC value of 0.806 meant that AI‐based evaluation was comparable enough to specialist evaluation to be reliable in influencing disease staging as well as treatment planning decisions. Pre‐trained commercial software has shown comprehensive diagnostic capabilities: sensitivities for calculus detection were 80.2%, and for crown detection, they were 97.1% (Ibraheem et al.). The specificities of these commercial systems ranged from 87% to 99.6% across different diagnostic tasks (Ibraheem et al.). These findings by application also point toward performance levels that are consistent with the pooled estimates from the systematic review and meta‐analysis and ensure the aggregate metrics are representative of typical AI system performance in dental diagnostics.
+
+Nevertheless, it has some significant shortcomings that should be taken into consideration before widespread clinical use. This failure of implant planning systems to give measurements in 15.7 and 3 percent of cases on bone height and thickness respectively is a critical issue as far as reliability is concerned (Kurt Bayrakdar et al.). In the study of panoramic radiographs, commercial software was also very specific ( > 98%) and very low sensitivity of 33.33% in the study, which raises issues on the quality of validation of commercial AI dental diagnostic systems (Kazimierczak et al.). These outlier results indicate the relevance of large values of heterogeneity (I 2 exceeding 95 percent) observed in meta‐analyses, indicating that the overall performance measures will not be reliable indicators of the performance of particular AI systems in different clinical settings.
+
+Given the large sample sizes and consistent directions of effect, moderate quality ratings of evidence for key diagnostic performance metrics reflect high heterogeneity across studies and/or significant methodological limitations in the methods of validation. Evidence supporting segmentation task performance is rated as low due to a wide variation in the segmentation protocols, as well as the methods of validation, and this was reflected by the very wide 95% CI for the pooled DSC: 0.13–1.00. Similarly, low to moderate quality evidence to support clinical decision‐making outcomes underscores the gap between algorithmic diagnostic accuracy and demonstrated impact on clinical practice. This critical distinction must be bridged by prospective studies measuring patient‐centered outcomes.
+
+7
+
+Limitations
+
+There are a few methodological limitations this systematic review must acknowledge. The extremely large heterogeneity of the studies‐I 2 more than 95 percent in all pooled estimates‐severely impairs the interpretation of the pooled performance measures. The wide confidence intervals, especially in the case of the Dice Similarity Coefficient ranging from 0.132 to 0.99, indicate that there is a lot of uncertainty as to what the actual effect sizes are. The overrepresentation of retrospective study designs and variable validation methods by the study merely restricts the generalizability of the findings to the real‐world clinical environment with a dissimilar patient population and imaging conditions. The external validity of AI performance estimates may be compromised by dataset bias (such as scanty representation of some population groups, differences in imaging equipment, distribution of disease severity, etc.). There is no way to assess bias, as all the studies are confounded, which makes causal conclusions limited because of the lack of reporting. Possible publication bias, indicated by asymmetry in the funnel plot, engenders fear that pool estimates can be overly optimistic because negative results are not published selectively. Lastly, the fast rate of development of AI technology implies that many of the involved studies tested architecture that may have become outdated, and their capabilities may be undervalued, with the difficulty of staying up to date with evidence in fast‐changing research being emphasized.
+
+8
+
+Conclusion
+
+This systematic review depicts that AI systems have achieved the highest performance in dental‐related diagnostic tasks, with some of the highest scores in tooth‐finding, tooth‐segmentation, and tooth‐periapical‐pathology‐detection. The pooled specificity of 0.96, accuracy of 0.92, and the AUC of 0.93 were all high quality and provided confidence in these performance estimates. The major improvements of clinical efficiency (by 35 times), and interobserver reliability (higher kappa values of 0.14‐0.19) without any negative effects on the diagnostic accuracy of AI technologies demonstrate that they are about to become clinically ready to be introduced in dental practice as decision support tools. However, the high degrees of inconsistency in the performance of the different diagnostic tasks, which are reported by a rather moderate quality of evidence in F1 scores (0.81) and the measures of the precision, emphasize the necessity to check a system case‐by‐case and to pick out the most appropriate system that would be applied in the particular clinical practice. The data suggests that a model of collaboration is the best way of integrating the AI systems in the process of diagnosing patients and their optimization of workflow: the accuracy of the algorithm and the human contextual reasoning may be utilized in the supplement to enhance the quality of the diagnosis, the efficiency of the workflow, and, thus, the outcomes of the patients in the dental practice.
+
+Author Contributions
+
+conceptualization, study design, data curation, formal analysis, and writing the original manuscript.methodology supervision, statistical oversight, and critical revision of the manuscript.data extraction, literature screening, and manuscript review.methodological consultation and manuscript revision.literature screening, data organization, and manuscript editing. All authors reviewed and approved the final manuscript.
+
+Funding
+
+The authors have nothing to report.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Study Characteristics.Search Strategy.Quality Assessment using QUADAS‐2.
+
+Descriptor DTP_DDM (2).
