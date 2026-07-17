@@ -19,8 +19,22 @@ plutil -lint .claude/scripts/*.plist
 |---|---|---|
 | `com.llmwiki.ingest-watcher` | [`ingest-watcher.sh`](ingest-watcher.sh) | fswatch on wiki root → auto-ingest each new PDF |
 | `com.llmwiki.weekly-digest` | [`weekly-digest.sh`](weekly-digest.sh) | 매주 월 09:00 주간 근거 다이제스트 생성 |
+| `com.llmwiki.qmd-cleanup` | *(none — `qmd cleanup` directly)* | 매주 월 10:00 고아 벡터 청소 — CLAUDE.md *Searching the Wiki* 참조 |
 | `com.llmwiki.embed-until-done` | [`../../scripts/embed-until-done-launchd.sh`](../../scripts/embed-until-done-launchd.sh) | qmd 임베딩 백로그를 다 소진할 때까지 재실행 |
 | `com.oracleneo.qmd-mcp` | *(none — see below)* | QMD 검색 데몬, HTTP MCP on port 8181 |
+
+이 표가 **가동 중인 전부**여야 한다. 세는 것이 확인이다 — 눈대중하지 말고:
+
+```bash
+ls ~/Library/LaunchAgents/com.llmwiki.*.plist ~/Library/LaunchAgents/com.oracleneo.*.plist \
+  | xargs -n1 basename | sort > /tmp/live
+ls *.plist | sort > /tmp/tracked
+diff /tmp/live /tmp/tracked   # 차이가 있으면 이 표도 낡았다
+```
+
+*(2026-07-17: 이 표는 처음 작성될 때 `qmd-cleanup`을 빠뜨린 채 4종으로 들어왔다 —
+그 잡은 브랜치가 갈라진 뒤에 main에 추가됐고, 표는 기억으로 쓰였기 때문이다. 라이브는
+줄곧 5종이었다. 표를 고칠 때마다 위 `diff`를 돌릴 것.)*
 
 Each wrapper's header comment carries its own install / stop / watch / is-it-loaded
 commands. Per-agent notes below cover only what a wrapper comment can't.
