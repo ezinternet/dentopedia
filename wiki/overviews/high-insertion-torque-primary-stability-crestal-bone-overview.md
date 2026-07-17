@@ -17,7 +17,10 @@ source_wiki:
   - wiki/implants/isq/trisi-2011-high-low-implant-torque-histology-sheep.md
   - wiki/implants/isq/aldahlawi-2018-implant-torque-crestal-bone-remodeling.md
   - wiki/implants/isq/faot-2019-insertion-torque-mandibular-overdenture.md
+  - wiki/implants/coyac-2019-preclinical-model-links-osseo-densification-misfit.md
 relations:
+  - type: refines
+    target: coyac-2019-preclinical-model-links-osseo-densification-misfit
   - type: refines
     target: lemos-2020-high-insertion-torque-dental-implants-sr-ma
   - type: refines
@@ -40,7 +43,9 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - **핵심 명제**: 삽입 토크 (Insertion Torque, IT)는 술자가 투여하는 *용량*이 아니라 **그것에 저항한 골을 읽은 값**이다. 같은 숫자가 부위에 따라 정반대의 예후 부호를 가진다 — 이것이 5편이 서로 어긋나 보이는 이유다. 5편을 평균내면 안 된다.
-> - **결정적 설계 사실**: 사람 연구 3편(Marconcini·Aldahlawi·Faot) **전부 토크를 사후(post-hoc) 분류**했다 — 아무도 토크를 무작위 배정하지 않았다. 따라서 임상에서의 "고토크 해악"은 "치밀 피질골 부위"와 분리 불가능하다. 토크를 실험적으로 배정한 유일한 연구는 양(sheep) 실험이며, 그 연구는 해악을 찾지 못했다.
+> - **결정적 설계 사실**: 사람 연구 3편(Marconcini·Aldahlawi·Faot) **전부 토크를 사후(post-hoc) 분류**했다 — 아무도 토크를 무작위 배정하지 않았다. 따라서 임상에서의 "고토크 해악"은 "치밀 피질골 부위"와 분리 불가능하다. **이 명제는 유효하다.**
+> - **다만 "배정 설계는 해악을 못 찾았다"는 더 이상 단일 증거가 아니다 (2026-07-17 갱신)**: 기계적 노출을 *설계로 배정한* 동물 연구는 이제 2편이고 **서로 반대 방향**이다. Trisi 2011(양 하악 피질, 토크 배정 110 vs 10 Ncm)은 골세포 사멸 없음. **Coyac 2019(쥐 상악 발치와, *미스핏* 배정)은 광범위한 골세포 사멸을 찾았다** — Trisi가 없다고 보고한 바로 그 지표에서. 둘 다 참일 수 있다: 서로 다른 골상(bed)·다른 크기다. 결과적으로 Trisi의 반증은 **보편**에서 **부위·크기 한정**으로 축소된다. (주의: Coyac은 토크가 아니라 미스핏을 배정했다 — 미스핏은 토크의 상류 원인이지 토크 자체가 아니다.)
+> - **[미검증] 기전 가교에 생물학적 후보가 생겼다**: 아래 §3의 "치조정엔 재형성할 관상측 공간이 없어 흡수기가 영구 손실로 발현될 수 있다"는 추론에, Coyac이 실제 경로(미세골절 → 골세포 사멸 → TRAP·cathepsin K 흡수 우세 → ALP·collagen I 음성 = 신생골 부재)를 제공한다. **여전히 가설이다** — Coyac은 쥐 발치와이고 치조정 구획을 따로 보고하지 않았다.
 > - **해악 쪽 (치밀 하악 치조정, 장기)**: Marconcini 2018 (무작위 대조 시험 (Randomized Controlled Trial, RCT), 116개, 3년) — 고토크(≥50 Ncm) 군에서 변연골 소실 (Marginal Bone Loss, MBL)·협측 점막 퇴축 유의, 누적 성공률 (Cumulative Success Rate, CSR) 91.3% vs 98.2%. Aldahlawi 2018 (후향, NobelActive 113개) — >55 Ncm(평균 67.35) MBL 0.95±1.60 vs 0.18±0.68 mm (P<0.05), 실패 6건 전부 고토크군.
 > - **해악은 부위 특이적 — 이것이 기전의 열쇠**: Aldahlawi에서 하악 2.12±1.99 mm vs 상악 0.25±0.65 mm (약 8배). Marconcini에서도 하악 최악. 해악은 "임플란트 전체"가 아니라 **치조정 피질골**에서 일어난다.
 > - **안전 쪽 (연질·위축골, 단기·전체 계면)**: Trisi 2011 (양 하악, 40개, 6주) — **110 Ncm에서도 골압박괴사 (Osseocompression Necrosis) 없음**, 오히려 전 시점 골형성·제거토크 우위. Faot 2019 (전향, 세경 ø2.9mm, 위축 무치악 하악, 62개) — G4 (≥45 Ncm) 생존율 95%로 최고, 12개월 MBL 무영향.
@@ -54,23 +59,23 @@ relations:
 
 ## Three-line Summary
 
-Five papers on high insertion torque (IT) that appear to disagree — Trisi 2011 (sheep split-mouth histology, 40 implants, 110 vs 10 Ncm), Marconcini 2018 (RCT, 116 healed-site single implants, 3 y), Aldahlawi 2018 (retrospective, 113 NobelActive), Faot 2019 (prospective, 62 narrow ø2.9 mm implants in atrophic edentulous mandibles, 1 y), and Lemos 2020 (SR+MA, 6 studies / 651 implants) — resolve once IT is read not as an applied dose but as a *readout of the bone that resisted it*.
+Five papers on high insertion torque (IT) that appear to disagree — Trisi 2011 (sheep split-mouth histology, 40 implants, 110 vs 10 Ncm), Marconcini 2018 (RCT, 116 healed-site single implants, 3 y), Aldahlawi 2018 (retrospective, 113 NobelActive), Faot 2019 (prospective, 62 narrow ø2.9 mm implants in atrophic edentulous mandibles, 1 y), and Lemos 2020 (SR+MA, 6 studies / 651 implants) — resolve once IT is read not as an applied dose but as a *readout of the bone that resisted it*; a sixth paper, Coyac 2019 (rat, assigned misfit), was added on 2026-07-17 and supplies the compression-harm pathway the original five lacked.
 
 Harm is real but compartment- and population-bound: it appears at the **crestal cortex of the healed mandible over a long horizon** (Marconcini CSR 91.3% vs 98.2% at 3 y; Aldahlawi MBL 0.95±1.60 vs 0.18±0.68 mm, P<0.05, with mandible 2.12±1.99 vs maxilla 0.25±0.65 mm), whereas benefit appears across the **whole interface in soft/atrophic bone over a short horizon** (Trisi: no necrosis at 110 Ncm plus greater bone apposition at every timepoint 1–6 wk; Faot: G4 ≥45 Ncm best survival at 95%) — and Faot's non-monotonic survival ladder (75 → 81.3 → **64.3** → 95%) refutes any dose-response reading outright.
 
-Lemos's pooled null is absence of evidence rather than evidence of absence — RR 0.51 (95% CI 0.06–4.06) and MBL MD 0.15 mm (95% CI −0.14–0.44) across only 6 studies, averaging populations whose effect sign is opposite; critically, **all three human studies classified IT post-hoc, so no held paper separates "high torque" from "dense cortical bone"**, and the only study that experimentally assigned torque is the animal one that found no harm.
+Lemos's pooled null is absence of evidence rather than evidence of absence — RR 0.51 (95% CI 0.06–4.06) and MBL MD 0.15 mm (95% CI −0.14–0.44) across only 6 studies, averaging populations whose effect sign is opposite; critically, **all three human studies classified IT post-hoc, so no held paper separates "high torque" from "dense cortical bone"**, and the two studies that assigned their mechanical exposure by design are both animal and point in opposite directions — Trisi (sheep, torque assigned) found no osteocyte death at 110 Ncm, while **Coyac 2019 (rat maxillary socket, misfit assigned) found extensive osteocyte death**, narrowing Trisi's refutation of the necrosis mechanism from universal to bed- and magnitude-bounded without disturbing the clinical argument, since Coyac assigned misfit rather than torque and reports no magnitude at all.
 
 ## 세줄요약
 
-고삽입토크(IT) 5편은 서로 어긋나 보이지만 — Trisi 2011(양 분할구강 조직학, 40개, 110 vs 10 Ncm), Marconcini 2018(RCT, 치유부위 단일 116개, 3년), Aldahlawi 2018(후향, NobelActive 113개), Faot 2019(전향, 위축 무치악 하악 세경 ø2.9mm 62개, 1년), Lemos 2020(SR+MA, 6편/651개) — IT를 *투여한 용량*이 아니라 *저항한 골을 읽은 값*으로 보면 정합적으로 풀린다.
+고삽입토크(IT) 5편은 서로 어긋나 보이지만 — Trisi 2011(양 분할구강 조직학, 40개, 110 vs 10 Ncm), Marconcini 2018(RCT, 치유부위 단일 116개, 3년), Aldahlawi 2018(후향, NobelActive 113개), Faot 2019(전향, 위축 무치악 하악 세경 ø2.9mm 62개, 1년), Lemos 2020(SR+MA, 6편/651개) — IT를 *투여한 용량*이 아니라 *저항한 골을 읽은 값*으로 보면 정합적으로 풀린다. 2026-07-17에 6번째로 Coyac 2019(쥐, 미스핏 배정)가 추가돼, 5편에 없던 **압축→해악의 생물학적 경로**를 공급한다.
 
 해악은 실재하나 구획·집단에 묶여 있다: **치유된 하악 치조정 피질골에서 장기간에** 나타나고(Marconcini 3년 CSR 91.3% vs 98.2%; Aldahlawi MBL 0.95±1.60 vs 0.18±0.68 mm, P<0.05, 하악 2.12±1.99 vs 상악 0.25±0.65 mm), 이익은 **연질·위축골에서 전체 계면에 걸쳐 단기간에** 나타난다(Trisi 110 Ncm 괴사 없음 + 1–6주 전 시점 골형성 우위; Faot G4 ≥45 Ncm 생존율 95% 최고) — 그리고 Faot의 비단조 생존 사다리(75 → 81.3 → **64.3** → 95%)가 용량-반응 해석을 정면으로 반박한다.
 
-Lemos의 pooled 무의는 "효과 없음"이 아니라 "정보 없음"이다 — 6편뿐이며 RR 0.51(95% CI 0.06–4.06)·MBL MD 0.15 mm(95% CI −0.14–0.44)에 부호가 반대인 집단들을 함께 평균했다; 결정적으로 **사람 연구 3편 모두 IT를 사후 분류했으므로 어떤 보유 논문도 "고토크"를 "치밀 피질골"과 분리하지 못하며**, 토크를 실험적으로 배정한 유일한 연구는 해악을 찾지 못한 동물 연구다.
+Lemos의 pooled 무의는 "효과 없음"이 아니라 "정보 없음"이다 — 6편뿐이며 RR 0.51(95% CI 0.06–4.06)·MBL MD 0.15 mm(95% CI −0.14–0.44)에 부호가 반대인 집단들을 함께 평균했다; 결정적으로 **사람 연구 3편 모두 IT를 사후 분류했으므로 어떤 보유 논문도 "고토크"를 "치밀 피질골"과 분리하지 못하며**, 기계적 노출을 설계로 배정한 두 동물 연구는 **서로 반대 방향**이다 — Trisi(양, 토크 배정)는 110 Ncm에서 골세포 사멸 없음, **Coyac 2019(쥐 상악 발치와, 미스핏 배정)는 광범위한 골세포 사멸 확인**. 이로써 Trisi의 괴사 기전 반증은 보편에서 **골상·크기 한정**으로 좁혀지나, Coyac은 토크가 아닌 미스핏을 배정했고 크기를 일절 보고하지 않으므로 임상 논증(토크 ↔ 부위 분리 불가)은 그대로다.
 
 ## Summary
 
-This page synthesizes the five unsynthesized papers in `implants/isq/` that address one chairside question: **does driving an implant to high insertion torque damage the crest?** Read at face value they contradict each other flatly — an animal histology study finds 110 Ncm harmless and even osteogenic, a 3-year RCT finds ≥50 Ncm damaging, a retrospective cohort corroborates the damage at >55 Ncm, a prospective trial finds ≥45 Ncm to be the *best-performing* band, and an SR+MA finds nothing at all. Averaging them produces a bland "probably fine, more research needed" that is worse than any single paper.
+This page synthesizes the five papers in `implants/isq/` that address one chairside question — **does driving an implant to high insertion torque damage the crest?** — plus one later addition (Coyac 2019, §3-bis) that bears on the mechanism rather than the clinical question. Read at face value they contradict each other flatly — an animal histology study finds 110 Ncm harmless and even osteogenic, a 3-year RCT finds ≥50 Ncm damaging, a retrospective cohort corroborates the damage at >55 Ncm, a prospective trial finds ≥45 Ncm to be the *best-performing* band, and an SR+MA finds nothing at all. Averaging them produces a bland "probably fine, more research needed" that is worse than any single paper.
 
 They stop contradicting each other under one reframing: **insertion torque is not an independent variable the operator sets — it is a measurement of the bone that resisted the drill.** Once that is granted, the disagreement becomes a predictable consequence of three design differences: *which compartment* was measured, *over what horizon*, and *in what bone*. The papers are not measuring the same thing and calling it torque.
 
@@ -112,7 +117,19 @@ This is the compartment argument, and it is the reason Trisi does not actually r
 
 Trisi refuted the **mechanism** Marconcini proposed (osseocompression → ischemia → necrosis → resorption): at 110 Ncm in dense sheep cortical bone there was no osteocyte lacunar emptying and no avascular necrotic zone. Marconcini's **outcome** (3-year crestal MBL and recession) is untouched by that. A finding of "no necrosis" does not license "no crestal bone loss," because necrosis was never the only path to crestal loss.
 
-**[미검증 — hypothesis, not supported by any held paper]** One reconciliation consistent with everything we hold: Trisi's own 7-day stability dip *is* the resorption phase — bone briefly resorbs, then reforms in greater quantity. Along the implant body there is surrounding bone to reform into, so the net at 6 weeks is a gain. At the crest there is nothing coronal to reform into, so the same resorptive phase may register as permanent loss. **No held paper tests this.** It is offered as a reasoning bridge, not a finding, and must not be cited as one.
+#### 3-bis. Coyac 2019 reopens the osteocyte-death mechanism — bounded, not restored (2026-07-17)
+
+Trisi's refutation was, until now, unopposed within this cluster: the one study that assigned its mechanical exposure by design looked for osteocyte death at 110 Ncm and did not find it. [[implants/coyac-2019-preclinical-model-links-osseo-densification-misfit|Coyac et al. 2019]] (rat maxillary extraction sockets, minimal-misfit control vs high-misfit test) is the **second study in this cluster to assign the exposure by design — and the first to find harm**, reporting exactly the marker Trisi reported absent: **an extensive zone of dying osteocytes**, together with micro-fractures, a pro-resorptive environment (TRAP activity, cathepsin K), absent new bone formation (no alkaline phosphatase activity, negative collagen I), and early failure presenting as a crater-like lesion of fibrous inflamed granulation tissue. The authors formalize it as **excessive osseo-densification → osseo-destruction**.
+
+Three qualifications keep this from being read as a reversal, and they matter more than the finding:
+
+1. **Coyac assigned *misfit*, not torque.** Misfit (undersized osteotomy relative to implant) is an upstream cause of both densification and torque, not torque itself. So the page's central design claim — *no human study assigned torque, and no held paper separates "high torque" from "dense cortical bone"* — **stands unchanged**. What changes is narrower: "the only assigned-exposure study found no harm" is no longer true.
+2. **Both results can be true simultaneously.** Trisi: sheep **mandibular cortical** bone, torque 110 vs 10 Ncm, 1–6 weeks. Coyac: rat **maxillary extraction socket**, misfit magnitude unstated, early. Different bed, different exposure, different magnitude. The consequence is that **Trisi's refutation of the necrosis mechanism narrows from universal to bed- and magnitude-bounded** — it no longer licenses "osseocompression cannot kill osteocytes," only "it did not at 110 Ncm in sheep mandibular cortex."
+3. **Coyac cannot supply a threshold.** The page for it is built from a structured abstract with **no n, no torque values, no misfit magnitudes, no BIC percentages, and no p-values**. It establishes that a ceiling exists; it does not locate it. Any number attributed to it would be invented.
+
+Net effect on this synthesis: the harm side gains a *candidate biological pathway* it previously lacked, while the *clinical* argument is unmoved — the human evidence still cannot separate torque from site. See [[overviews/osseodensification-clinical-applications]] §1 for the densification-side reading of the same paper, where its transfer limits (rat ≠ human jaw, socket ≠ healed ridge, misfit ≠ bur-mediated OD) are set out in full.
+
+**[미검증 — hypothesis, not established by any held paper]** One reconciliation consistent with everything we hold: Trisi's own 7-day stability dip *is* the resorption phase — bone briefly resorbs, then reforms in greater quantity. Along the implant body there is surrounding bone to reform into, so the net at 6 weeks is a gain. At the crest there is nothing coronal to reform into, so the same resorptive phase may register as permanent loss. **No held paper tests this.** Coyac now supplies a *plausible biological staging* for the resorptive half of that bridge (micro-fracture → osteocyte death → TRAP/cathepsin-K resorption → absent ALP/collagen I → no replacement bone), which is why the bridge is no longer purely speculative — but Coyac studied a rat extraction socket and **did not report a crest-specific compartment**, so the coronal-space half of the argument remains untested. It is offered as a reasoning bridge, not a finding, and must not be cited as one.
 
 ### 4. Lemos's null is absence of evidence, not evidence of absence
 
@@ -142,7 +159,7 @@ So the intuition "I pushed to 55 Ncm, so stability must be excellent" is wrong t
 
 ## Methodology
 
-Narrative conflict synthesis of 5 papers; no pooling (designs are not commensurable — one animal histology, one RCT with post-hoc exposure bins, one retrospective cohort, one prospective cohort, one SR+MA that already pools a subset of this literature). All numbers are quoted verbatim from the five wiki pages listed in `source_wiki`. Four of the five sources are abstract-only on their wiki pages (`full_text: false` for Lemos, Marconcini, Trisi; Faot and Aldahlawi carry full text), so several effect sizes — notably Marconcini's MBL magnitude and P values, and Trisi's per-timepoint statistics — are directional only and are reported as such rather than invented.
+Narrative conflict synthesis of 5 core papers + 1 later mechanistic addition; no pooling (designs are not commensurable — two animal studies, one RCT with post-hoc exposure bins, one retrospective cohort, one prospective cohort, one SR+MA that already pools a subset of this literature). All numbers are quoted verbatim from the wiki pages listed in `source_wiki`. Four of the five core sources are abstract-only on their wiki pages (`full_text: false` for Lemos, Marconcini, Trisi; Faot and Aldahlawi carry full text), so several effect sizes — notably Marconcini's MBL magnitude and P values, and Trisi's per-timepoint statistics — are directional only and are reported as such rather than invented. **Coyac 2019 is abstract-only and reports no quantities whatsoever** (no n, torque, misfit magnitude, BIC, or p-values), so it is used strictly for direction and pathway and contributes no number to this page.
 
 The synthesis proceeds by asking of each paper three questions the individual pages do not ask: **(a)** was torque assigned or observed? **(b)** which anatomic compartment was the outcome measured in? **(c)** over what horizon? The disagreement dissolves along those three axes.
 
@@ -155,8 +172,11 @@ The synthesis proceeds by asking of each paper three questions the individual pa
 | [[implants/isq/lemos-2020-high-insertion-torque-dental-implants-sr-ma]] | sr+ma, 6 studies / 651 implants / 389 pts | ≥50 vs <50 Ncm | **Null** — RR 0.51 (0.06–4.06); MD 0.15 mm (−0.14–0.44) | crest (MBL) + survival | pooled, mostly delayed | No (pools post-hoc studies) |
 | [[implants/isq/marconcini-2018-high-insertion-torque-bone-resorption-rct]] | rct (design-randomized), 116 implants, healed sites | ≥50 vs <50 Ncm | **Harmful** — MBL↑, recession↑; CSR 91.3% vs 98.2% | crest + facial soft tissue | 3 years | No (randomized to implant design) |
 | [[implants/isq/aldahlawi-2018-implant-torque-crestal-bone-remodeling]] | retrospective, 113 NobelActive / 66 pts | >55 (mean 67.35) vs ≤55 Ncm (mean 37.9) | **Harmful** — MBL 0.95 vs 0.18 mm; all 6 failures in high group | crest, split by arch | not stated on page | No (post-hoc split) |
+| [[implants/coyac-2019-preclinical-model-links-osseo-densification-misfit]] | animal, rat maxillary extraction sockets (n not reported) | high vs minimal **misfit** (magnitudes not reported) | **Harmful** — extensive osteocyte death, micro-fractures, TRAP/cathepsin K, absent ALP/collagen I, early crater-like failure | peri-implant bone (histology/IHC); **no crest-specific compartment** | early (not quantified in abstract) | **Yes — but misfit, not torque** |
 
 Read the table by column, not by row: the **Verdict** column looks like chaos until the **Compartment**, **Horizon**, and **Torque assigned?** columns are read alongside it — at which point the verdicts sort cleanly into "whole interface / short / assigned → safe" and "crest / long / observed in dense bone → harmful."
+
+The Coyac row is the one that does not sort — and that is its value. It is assigned-exposure *and* harmful, which no other row is. It escapes the pattern because its assigned variable is **misfit rather than torque** and its bed is a **rat extraction socket rather than dense cortex**, so it does not test the same contrast as Trisi despite reporting on the same marker. It is included here because it is the only held evidence that the compression→osteocyte-death pathway can run at all; it is *not* evidence about how many Ncm are safe in a human jaw.
 
 ## Results
 
@@ -190,8 +210,9 @@ IT ↔ primary ISQ is Kendall τ=0.252 (Faot), and RFA cannot see the day-7 remo
 
 The held evidence does not support answers to any of the following, and this page deliberately does not manufacture them:
 
-1. **No human study assigned torque.** All three human papers binned it post-hoc. Whether high torque *causes* crestal loss, or dense cortical crests simply both produce high torque and remodel more, is not separable in anything we hold.
-2. **No held paper establishes that sheep mandibular cortical bone remodels like human.** Trisi's "no necrosis at 110 Ncm" is the pillar of the safety argument and it rests on a species bridge no held paper validates.
+1. **No human study assigned torque.** All three human papers binned it post-hoc. Whether high torque *causes* crestal loss, or dense cortical crests simply both produce high torque and remodel more, is not separable in anything we hold. **Coyac 2019 does not close this** — it assigned misfit, in a rat.
+2. **No held paper establishes that sheep mandibular cortical bone remodels like human.** Trisi's "no necrosis at 110 Ncm" is a pillar of the safety argument and it rests on a species bridge no held paper validates. The same objection now cuts both ways: **Coyac's harm finding rests on a rat maxillary socket**, an equally unvalidated bridge — the two assigned-exposure studies disagree, and *neither* species bridge is established, so the disagreement cannot be adjudicated from held evidence.
+2-bis. **No held paper locates the ceiling.** Coyac establishes that excessive compression can destroy the bed, but reports no misfit magnitude, no torque value, and no n — so "excessive" is undefined in every unit a clinician could act on. Combined with gap 6 below, the held evidence supports *"there is an upper bound"* and refutes *any specific number offered as that bound*.
 3. **No held paper tests torque-relief technique.** Cortical tapping, countersinking, drill-diameter adjustment, or under-drill modulation as MBL-reducing maneuvers — untested in this cluster. Rule 1 says "set a ceiling" but no held paper tells you *how* to hit it without losing primary stability.
 4. **No held paper reports long-horizon crestal bone for immediately loaded high-IT implants.** The harm data (3 y) is delayed-loading; the benefit signal (Lemos subgroup) is immediate-loading and short. These do not meet.
 5. **Aldahlawi's follow-up duration is not recorded on its wiki page** — its MBL magnitude therefore cannot be placed on the same time axis as Marconcini's 3-year values. Re-reading `papers/aldahlawi-2018-implant-torque-crestal-bone-remodeling.pdf` (full text held) would close this.
@@ -204,6 +225,7 @@ The held evidence does not support answers to any of the following, and this pag
 - [[implants/isq/aldahlawi-2018-implant-torque-crestal-bone-remodeling]] — corroborates harm in a second implant system and supplies the mandible-vs-maxilla split (2.12 vs 0.25 mm) that carries the compartment argument
 - [[implants/isq/faot-2019-insertion-torque-mandibular-overdenture]] — the sign-flip population: ≥45 Ncm best survival (95%); the G3 paradox refutes dose-response
 - [[implants/isq/lemos-2020-high-insertion-torque-dental-implants-sr-ma]] — pooled null that is uninformative rather than reassuring (RR CI 0.06–4.06); its immediate-loading subgroup runs opposite to the harm axis
+- [[implants/coyac-2019-preclinical-model-links-osseo-densification-misfit]] — the second assigned-exposure study and the first to find harm: rat maxillary socket, high misfit → osseo-densification → micro-fracture, extensive osteocyte death, TRAP/cathepsin-K resorption, absent ALP/collagen I, early failure ("excessive osseo-densification → osseo-destruction"). Bounds Trisi's necrosis refutation to its bed and magnitude; assigns *misfit* not torque, and reports no magnitudes — establishes the ceiling exists without locating it
 - [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] — context: IT–ISQ correlation weak (r=0.366, NS); mechanistic support for §6
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — newer SR+MA on ISQ–IT–MBL–survival; the IT↔ISQ decoupling anchor (r=0.44, I²>90%)
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — the IT ≥35 Ncm *lower* bound for loading; this page supplies the missing upper-bound consideration
@@ -218,3 +240,4 @@ The held evidence does not support answers to any of the following, and this pag
 - [[overviews/bone-quality-implant-risk-modification-overview]] — bone quality as the upstream axis that generates both the torque reading and the remodeling outcome
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — where crestal MBL sits among the wider late-failure risk factors
 - [[overviews/dense-bone-osteotomy-heat-reimplantation-overview]] — the other dense-mandible hazard (drilling heat); torque and thermal necrosis are distinct mechanisms in the same anatomic setting
+- [[overviews/osseodensification-clinical-applications]] — the densification-side reading of Coyac 2019 (§1 "과잉의 천장") plus its transfer limits; the OD literature is where compression is deliberately maximized, so this page's ceiling is that page's boundary condition
