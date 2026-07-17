@@ -17,7 +17,7 @@ This article (Cureus 2024;16(11):e73130; DOI 10.7759/cureus.73130; PMID 39575356
 
 Full text retained **for completeness only** (sole prospective HaeNaem indirect-sinus-lift dataset) under a deliberate exception to the `INGEST.md` Step 0 retraction policy. **Do NOT cite any finding below as clinical evidence.**
 
-**What survives is not the data — it is the conclusion that the evidence base is empty.** For any clinical question about the HaeNaem CW-rotation kit, the correct answer from this wiki is: *no valid clinical evidence exists.* See the wiki page [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] for the full retraction handling.
+**What survives is not the data — it is the conclusion that the *clinical-outcome* evidence base is empty.** The mechanism is NOT a gap: the HaeNaem patent [[implants/kim-2019-double-spiral-condensing-screw-implant]] (KR 10-2304707 B1) is held and specifies the geometry. For a clinical question about the kit, the correct answer from this wiki is: *the design is known; no valid clinical-outcome evidence exists.* See the wiki page [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] for the full retraction handling and the CW/CCW mechanism note.
 
 (Flag set 2026-06-24; restructured and re-verified 2026-07-17.)
 
