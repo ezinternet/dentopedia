@@ -23,10 +23,33 @@ PHASE 1 — fan out (parallel):  one subagent per pending stem
     • Step 2–3  write sources/{stem}.md + wiki/{category}/{stem}.md
   Subagent does NOT touch index.md, does NOT git-commit/push, does NOT run qmd.
   Subagent RETURNS: {stem, category, index_line, status: ok|skip:<reason>}
-  Subagent LOGS deviations: whenever a non-standard situation is handled (empty PMC text,
-    DOI conflict, category change, step skipped), call immediately:
+  Subagent LOGS deviations: whenever a non-standard situation is handled, call immediately:
     python3 scripts/log-deviation.py <stem> <type> "<description>"
     This is non-blocking (<1s) and feeds the Rule-of-Three SOP evolution trigger.
+
+    <type> MUST come from the vocabulary in scripts/log-deviation.py — that docstring is
+    the SSOT and defines what each type means. Do not guess a type and do not reach for
+    `other`: an unknown string is silently downgraded to `other`, and `other` is invisible
+    to the rule-of-three trigger. Current types:
+
+      full text   empty-pmc-text · partial-pmc-text · abstract-only
+      duplicate   duplicate-skip · duplicate-distinct · doi-conflict · rename-collision
+      judgment    supersession-judgment · relation-judgment · category-judgment ·
+                  wrong-category · confidence-judgment
+      metadata    no-doi · date-fallback
+      source/tool source-data-issue · qmd-unavailable · batch-relation-pending
+      pipeline    why-ingested-skipped · step-skipped · other
+
+    Log the JUDGMENT, not just the accident — a supersession call, a contradicts edge, or a
+    category boundary you had to think about are all deviations worth a row, because three
+    of them in a row is how this SOP learns. Do NOT log non-deviations: "standard ingest,
+    no deviations" is not a row, it is silence.
+
+    *Why this list is here:* on 2026-07-17 a reclassification found 87 of 92 `other` rows
+    already had a home in this vocabulary. Agents were defaulting to `other` because this
+    instruction said only "<type>" and never showed the options, so deviation-audit.py
+    reported "92x other" — a rule-of-three trigger that could not fire. Keep the list
+    visible here; keep the definitions in log-deviation.py.
 
 PHASE 2 — finalize (serial, parent only — avoids git/index races):
   for each returned ok-paper (one at a time, in order):
