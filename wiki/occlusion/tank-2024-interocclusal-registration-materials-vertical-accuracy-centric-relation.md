@@ -28,17 +28,17 @@ relations:
 
 Clinical cross-sectional study (n=30 dentate subjects, 20–45 y) comparing four interocclusal registration materials — alu wax, hard wax, polyvinylsiloxane (PVS, Jetbite), and bis-acrylic resin (Luxabite) — for vertical accuracy in recording centric relation (CR), against a direct-closure maximum intercuspation (MIP) baseline, on a Hanau Wide Vue articulator with Lucia jig stabilization.
 
-On the recovered left-side data (Table 1), mean vertical readings were MIP 48.05±9.01, ALU 54.28±8.98, HARD 58.48±9.42, JET 50.24±8.95, LUX 50.11±8.94 (unit not stated in text, presumed mm); computed discrepancy from MIP was largest for hard wax (+10.43) and alu wax (+6.23), smallest for Jetbite (+2.19) and Luxabite (+2.06), all left-side intergroup differences p<0.05. Right-side numeric data were not recoverable from the extracted full text — only the qualitative statement survives (lowest MIP, highest hard wax).
+On the recovered left-side data (Table 1), mean vertical readings were MIP 48.05±9.01, ALU 54.28±8.98, HARD 58.48±9.42, JET 50.24±8.95, LUX 50.11±8.94 (unit not stated anywhere in the paper); the omnibus left-side intergroup comparison reached p<0.05, but **the only material that differed significantly from MIP pairwise was alu wax** — hard wax, Jetbite, and Luxabite did not, despite hard wax carrying the numerically largest computed discrepancy (+10.43). Right-side numeric data were not recoverable from the extracted full text — only the qualitative statement survives (lowest MIP, highest hard wax).
 
-Waxes distorted the vertical relationship most; PVS and bis-acrylic resin distorted least — the paper's framing is that closure onto any record material and its subsequent removal (bite release) inherently introduces vertical error, not just that materials differ in quality.
+The rank order (waxes worst, PVS and bis-acrylic resin best) is therefore a **numerical trend that the paper's own significance testing does not establish**: with n=30 and SD≈9 against differences of 2–10, the study is underpowered for the pairwise contrasts, and the largest mean difference failing significance while a smaller one reaches it is itself a sign the data are noisy. Read the direction, not the ranking — and note the magnitudes are clinically implausible on their face (a ~10-unit vertical difference from a bite record would be enormous if the unstated unit is mm), which is a further reason to treat this paper as directional only. Its more durable framing is conceptual: closing onto any record material and then releasing the bite introduces vertical error at all, not merely different amounts by material.
 
 ## 세줄요약
 
 임상 횡단연구(치열이 있는 20–45세 성인 30명) — alu wax, hard wax, 폴리비닐실록산(Polyvinylsiloxane, PVS, Jetbite), bis-acrylic 레진(Luxabite) 4종의 교합채득재를 중심위(Centric Relation, CR) 채득 수직 정확도 기준으로 비교. 기준은 재료 없이 직접 폐구한 최대교두감합위(Maximum Intercuspation, MIP), Hanau Wide Vue 교합기·Lucia jig 사용.
 
-복구된 왼쪽 데이터(Table 1)에서 평균값은 MIP 48.05±9.01, ALU 54.28±8.98, HARD 58.48±9.42, JET 50.24±8.95, LUX 50.11±8.94(단위 본문 미기재, 추정 mm); MIP 대비 산출 편차는 hard wax(+10.43)·alu wax(+6.23)에서 가장 크고 Jetbite(+2.19)·Luxabite(+2.06)에서 가장 작았다(왼쪽 군간 비교 모두 p<0.05). 오른쪽 수치표는 PMC 전문 추출에서 유실되어 복구 불가 — "MIP 최저, hard wax 최고"라는 정성적 서술만 남는다.
+복구된 왼쪽 데이터(Table 1)에서 평균값은 MIP 48.05±9.01, ALU 54.28±8.98, HARD 58.48±9.42, JET 50.24±8.95, LUX 50.11±8.94(**단위가 논문 어디에도 없음**). 군간 옴니버스 비교는 p<0.05였으나, **MIP와 쌍별로 유의차를 보인 재료는 alu wax 하나뿐**이고 hard wax·Jetbite·Luxabite는 유의차가 없었다 — 수치상 편차가 가장 큰 hard wax(+10.43)조차 그렇다. 오른쪽 수치표는 PMC 추출에서 유실.
 
-왁스류가 수직 방향 왜곡이 가장 컸고 PVS·bis-acrylic 레진이 가장 작았다 — 논문의 논지는 재료 자체의 우열뿐 아니라 채득재 위에서 폐구했다가 다시 제거(bite release)하는 행위 자체가 본질적으로 수직 오차를 만든다는 것.
+따라서 "왁스가 최악, PVS·bis-acrylic이 최선"이라는 **순위는 이 논문의 통계가 뒷받침하지 못하는 수치적 경향**일 뿐이다: n=30에 SD≈9가 2~10 크기의 차이를 압도해 쌍별 비교의 검정력이 없고, 최대 차이가 유의하지 않은데 더 작은 차이가 유의한 것 자체가 자료의 잡음을 시사한다. 게다가 단위가 mm라면 교합채득재로 수직이 ~10 열린다는 뜻이라 임상적으로 비현실적이다 — 방향만 읽고 순위는 믿지 말 것. 더 오래 갈 논지는 개념 쪽이다: 채득재 위에서 폐구했다가 제거(bite release)하는 **행위 자체**가 수직 오차를 만든다.
 
 ## Summary
 
