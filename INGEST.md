@@ -313,6 +313,16 @@ Relation vocabulary (5 types; pick the single best per edge):
 - `target` must be an existing wiki stem (validated by `scripts/relations-audit.py`).
 - Forward-only / grandfather: structure relations for **new** pages at ingest; old pages are not bulk-scanned. The audit reports a machine-readable typed-edge export (`logs/{date}_relations-graph.json`) for Quartz/custom rendering — Obsidian's graph view can't distinguish edge types, so the JSON export is where typed-edge value is harvested.
 
+**`reinforces` means *independently* confirms — so a derived document can never `reinforces` its own source material.** An overview built from paper X cannot independently confirm X; that is circular. Same for a consensus report and the review it commissioned, and for a paper pointing at an overview assembled *from* that paper (direction reversed as well). `scripts/relations-audit.py` reports these as a `CIRCULAR reinforces` signal, separate from its structural issue count.
+
+When the audit flags one, read both pages and pick:
+- the overview genuinely **narrows** a constituent's conclusion by reading it against the others → real `refines` (an overview does have a finding of its own: the cross-paper reading). Not every overview→constituent edge is circular — only `reinforces` is.
+- the overview merely **restates** the constituent → drop the edge. No membership is lost: measured 227/227 of such targets are already body `[[wikilinks]]`, and body wikilinks are what `synthesis-backlog.py` reads (99.7% of papers are overview-linked that way).
+
+**Do not read `reinforces` as the default for a strong target.** Measured 2026-07-17 on a 30-edge random sample judged by reading both pages: only 47% were correctly typed — 30% should have been `extends`/`applies-to`/`refines` (a reflex of typing `reinforces` whenever the target is an SR/MA), and 23% fit no type at all. Pick the type from what the two papers actually did, not from the target's evidence grade.
+
+**There is no 6th type, and this was tested — do not re-propose one without new evidence.** A ~13% minority of pairs are genuinely "orthogonal axes of the same decision" (e.g. arginine-dentifrice efficacy vs free-sugar intake threshold — same caries decision, non-overlapping measurement, neither extends the other). A `complements` type was evaluated 2026-07-17 and rejected on a natural experiment: of 20 randomly sampled pairs where an author had written "complementary" in prose, only **2 (10%)** were actually orthogonal — the rest were `reinforces`, `extends`, or nothing at all (one pair's only real link was "ingested in the same batch"). The relation is real but the label would be misapplied 9 times in 10. Leave those in prose `## Related Papers`.
+
 ## Step 4 — Update `index.md`
 
 Add a one-line entry under the correct category.
