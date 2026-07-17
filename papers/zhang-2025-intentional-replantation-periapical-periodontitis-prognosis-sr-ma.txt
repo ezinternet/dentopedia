@@ -1,0 +1,233 @@
+[FULL TEXT — PubMed Central PMC12297747. PMID 40713650. DOI 10.1186/s12903-025-06583-1]
+[Extraction note: in-text citation numbers and table/figure references were stripped by the source retrieval tool, appearing below as empty brackets "[]" or as bare "Fig."/"Table" mentions with no numeral — this is an artifact of extraction, not of the original article. Tables and figures themselves are not reproduced; only prose referencing them is present. Italic-markup characters were also stripped from statistics: p-values appear as bare "(= 0.048)" instead of "(p = 0.048)", and I² (I-squared) heterogeneity appears as "I= 71%" / "Istatistic" instead of "I²". Left as-is per papers/ verbatim policy.]
+
+TITLE: Prognosis of intentional replantation for periapical periodontitis teeth: a systematic review and meta-analysis
+AUTHORS: Zhang B, Cheng L, Deng X, Xiong Y, Liu W, Zeng W, Tang W, Liu C
+JOURNAL: BMC Oral Health. 2025 Jul 26; 25(1):1258.
+DOI: 10.1186/s12903-025-06583-1
+
+ABSTRACT
+
+Background: Intentional replantation (IR) includes extraction, subsequent treatment, and replantation of teeth. It is regarded as a final strategy to preserve teeth affected by periapical periodontitis. This review aims to evaluate the overall prognosis and key prognostic factors of IR for periapical periodontitis teeth.
+
+Methods: Ten databases (Ovid MEDLINE, Ovid Embase, etc.) and two registers were searched up to June 2024. Two independent review authors selected and identified prognostic studies (both prospective and retrospective studies) involving patients with periapical periodontitis teeth undergoing IR, reporting on success and survival rates, and factors influencing outcomes. Then, two independent review authors extracted the characteristics of the included studies and assessed the bias using the QUIPS tool. Meta-analyses were undertaken wherever appropriate.
+
+Results: A total of 39 studies (49 reports) with 2305 teeth were included in this review. 31 studies were judged as high risk of overall bias while the other eight at moderate risk. For overall prognosis, meta-analyses showed a pooled success rate of 0.78 (95% CI 0.70 to 0.84) and pooled survival rate of 0.89 (95% CI 0.85 to 0.93). For prognostic factors, survival rate ratio (SRR) of age was 0.73 (95% CI 0.53 to 0.99,= 0.048), and SRR of combined periodontal-endodontic lesions (CPEL) was 0.80 (95% CI 0.67 to 0.95,= 0.001).
+
+Discussion: Results indicated that age and CPEL were significant factors influencing the success rate of IR, thereby supporting its clinical applicability in managing periapical periodontitis. The 39 cohort studies included in this review provided robust evidence for identifying the overall prognosis and key prognostic factors, which were the primary objectives of this study. However, the absence of large-sample cohort studies (both prospective and retrospective) reduces the reliability of the conclusions drawn in this review. Moreover, the observed variability across studies emphasizes the need for standardized protocols and further research to enhance consistency and reliability.
+
+Graphical Abstract
+
+Supplementary Information: The online version contains supplementary material available at 10.1186/s12903-025-06583-1.
+
+---
+
+Introduction
+
+Periapical periodontitis, characterized by chronic inflammation at the dental root apex, often persists or recurs despite root canal therapy (RCT) []. Although RCT demonstrates high efficacy, persistent infections or unresolved symptoms can render it ineffective. When RCT fails to resolve periapical lesions, intentional replantation (IR) may be considered as an alternative treatment approach [], because IR can preserve the diseased teeth for patients, by focusing more on the survival of the teeth after surgery and reducing the obsession with the goal of complete healing of the periapical tissue [–]. Moreover, the European Association of Endodontics (ESE) provided a guideline for IR based on the best available evidence [].
+
+The IR procedure involves multiple steps: atraumatic tooth extraction, thorough assessment of the alveolar root surface, root canal therapy, and subsequent reinsertion of the tooth into its original socket [–]. This approach facilitates complete visualization and treatment of all tooth surfaces, including areas that are difficult to access, while minimizing damage to surrounding periodontal tissues []. IR is often regarded as a viable option for permanent teeth with periapical periodontitis, especially when nonsurgical endodontic treatments, retreatments, or apical surgery are either unsuccessful or contraindicated [–]. Beyond periapical periodontitis, IR is indicated for various conditions, such as root canal obstructions, odontiatrogenic or natural perforations, complex root canal anatomies, and the removal of periapical irritants, extruded materials, or cysts [,,]. Luo et al. reported a 1-year cumulative survival rate of 93%, involving 157 teeth, 100 of which were affected by periapical periodontitis []. Wu et al. followed up 215 teeth treated with IR for 120 months, and the four-year cumulative survival rate was 82.8% []. In addition, the study pointed out through multivariate analysis that age and the presence of sinus tracts or absence were prognostic factors for the outcome of IR []. For C-shaped root canals that were difficult to treat with RCT and apical microsurgery, the IR was a good choice, with a 4-year survival rate of 83.4% and an 11-year survival rate of 73.0% [].
+
+The effectiveness of IR for endodontically compromised teeth is often assessed using clinical and radiographic outcomes. Reported survival rates range from 70% to 100% [,–]. There was a lot of heterogeneity between the results of published studies, which was due to lack of standardization of patient selection, surgical plans, and inconsistent prognostic outcome measurement standards []. Established prognostic factors for IR include age, the presence of sinus tracts, root-end filling material, and extraoral time [,,–]. Younger patients tend to have fresher periodontal tissues and softer alveolar bones, which probably reduces surgical difficulty and promotes better recovery following replantation []. Additionally, the presence of sinus tracts has a significant impact on intraoperative procedures. Sinus tracts exacerbate root apex infection, complicating complete debridement and postoperative care [,]. Notably, the prognostic factors for IR are not comprehensively reported. This contrasts sharply with tooth replantation following avulsion, for which prognostic factors have been extensively documented []. Therefore, research on prognostic factors of IR has remained to be resolved. Many clinical studies, both prospective and retrospective, reported participant characteristics, surgical procedures, as well as success rate and survival rate. However, the lack of standardized operating procedures and inconsistent outcome measurement standards significantly compromised the credibility and certainty of the evidence [,,–].
+
+A systematic review on IR in periapical periodontitis did not include any studies due to the inclusion criteria of two-armed cohort studies []. And in this review, no prognostic factors were analysed. Another systematic review analysed the success rate of IR, focusing only on its efficacy in patients with apical periodontitis []. A systematic review by Wang et al. identified prognostic factors of IR but lacked appropriate statistical analysis, which reduced the reliability of the study results []. Therefore, previously published systematic reviews had limitations.
+
+This systematic review aimed to identify and synthesize the existing studies on IR in patients with periapical periodontitis, focusing on the overall prognosis and specific prognostic factors. This review is expected to impact international guidelines and clinical pathways, providing advanced support for clinical decision-making and effective supportive strategies for individual patients. In this review, we summarized the survival rates of IR and explored whether established prognostic factors might affect these outcomes. Furthermore, we explored sources of heterogeneity to assess the impact of differences in participant characteristics, surgical procedures, and study designs on the overall prognosis and variability in outcomes across studies.
+
+Methods
+
+A protocol for this review was registered online in the PROSPERO (ID: CRD42023460388), and the protocol and this systematic review followed the PRISMA 2020 statement []. Two independent reviewers carried out the literature selection process, the data extraction and the quality assessment. We resolved all disagreements by discussion with one of the other review authors in the team.
+
+Eligibility criteria
+
+We defined the inclusion criteria based on the PICOS framework, as follows:
+
+Population (P): patients with periapical periodontitis, including periapical abscess and periapical granuloma.
+
+Intervention (I): intentional replantation (IR) procedure.
+
+Comparator (C): any comparator or no comparator
+
+Outcomes (O): treatment healing (success and survival rate at different times after IR), factors influencing the treatment outcome and the complications after IR.
+
+Study design (S): (1) randomized controlled trials; (2) nonrandomized controlled trials, including prospective cohort studies, retrospective cohort studies, case control studies, and case series of more than ten cases.
+
+Exclusion criteria were 1) nonclinical studies, such as in vitro studies and animal studies; 2) descriptive case reports with less than ten teeth; 3) deciduous teeth; 4) IR performed on teeth with vertical root fracture or developmental groove; 5) follow up less than 6 months; 6) reports without eligible outcomes (i.e., abstracts or protocols published only); 7) ongoing studies.
+
+Search methods
+
+Comprehensive searches of both published and unpublished studies were conducted up to June 5, 2024, across nine databases: Ovid MEDLINE, Ovid Embase, Ovid EBM Reviews, Scopus, Web of Science Core Collection (WOSCC), Inspec, Korea Citation Index-Korean Journal Database (KCI-KJD), Scientific Electronic Library Online (SciELO), SinoMed-Chinese Biomedical Literature (CBM). Additionally, two register platforms were searched for registered clinical trials to June 5, 2024, as well: the International Clinical Trials Registry Platform (ICTRP), and ClinicalTrials.gov. No restrictions were applied about publication language or date. Citation tracking of eligible studies was also performed to retrieve additional relevant publications. Detailed search strategies are provided in Appendix A.
+
+Selection and data collection of studies
+
+Two reviewers (B.Z. and X.D.) screened the title and abstracts of each retrieved record independently and then obtained the full reports for all studies that appeared to meet the inclusion criteria. The two reviewers assessed all the full reports retrieved independently to verify whether to include or exclude them, and any disagreements were resolved either by discussion or by the involvement of another reviewer (C.L.) as an arbiter. Two reviewers (B.Z. and X.D.) extracted data from the included studies independently and resolved their disputes by discussion or the involvement of another reviewer (C.L.) as an arbiter.
+
+This methodological approach was adapted from a previously published study [] by our research group, with modifications made to suit the current study objectives.
+
+Data items
+
+The following data were extracted from included studies: methods (study design, period, number of centres, location, follow-up duration, settings, and funding source), participants (inclusion and exclusion criteria, number of participants, sex distribution, age distribution, and number of teeth), outcomes and other notes.
+
+Assessment of risk of bias in included studies
+
+Risk of bias was assessed independently by two reviewers (B.Z. and X.D.), with disagreements resolved via discussion or the involvement of another reviewer (C.L.) as an arbiter []. The risk of bias was assessed with the QUIPS tool (Quality In Prognosis Studies) []. For QUIPS, we assessed the risk of bias in the included studies according to the following six domains:,,,,and.
+
+Signalling questions of the QUIPS are available in Appendix B. We responded to the signalling questions in the QUIPS [] tool with response options (yes, partial, no, and unsure), and then judge each domain as 'low risk of bias', 'moderate risk of bias', or 'high risk of bias'. We summarized the risk of bias judgements across different studies for each of the domains listed for each outcome. The overall risk of bias was the least-favourable assessment across the domains of bias, including "Low risk of bias", "Moderate risk of bias", and "High risk of bias".
+
+Evaluation criteria and effect measures
+
+In this review, we defined the following four events [,,,]:
+
+Survival: 1) The affected tooth exhibits no symptoms or signs; AND 2) X-rays reveal that the periapical radiolucency has decreased in size, with the periodontal ligament appearing unclear or discontinuous.
+
+Success: 1) The affected tooth shows no symptoms or signs, such as pain, performs normal chewing function, no looseness, and maintains preoperative probing depths with no attachment loss; AND 2) X-rays reveal that the periapical radiolucency has disappeared, and clear and continuous periodontal ligament reveals periodontal healing.
+
+Ankylosis: 1) The periodontal ligament space is absent or discontinuous, with the root directly fused to the surrounding alveolar bone; AND 2) Radiographs indicate similar radiodensity between the root and the adjacent bone, with no clear demarcation; AND 3) Evidence of osseous healing, such as bone bridging across the root surface, is present.
+
+Failure: 1) The affected tooth continues to exhibit symptoms or signs, such as pain or inability to bite; AND 2) X-rays show that periapical radiolucency remains unchanged or increases in size; AND 3) The tooth is loosened beyond I° or develops uncontrollable deep periodontal pockets; AND 4) Inflammatory root resorption is observed. If any of these criteria are met, the replantation is considered a failure, and the tooth is extracted using conventional methods.
+
+This review included statistics on success rate, survival rate and incidence proportion of ankylosis [,]. For meta-analysis of each prognostic factor, the effect estimate was calculated as a survival rate ratio (SRR) with a 95% confidence interval (CI). Notably, in this review, we defined survival as the event of interest, rather than the customary definition of death as the event. The overall success rate, survival rate, and ankylosis rate were calculated with 95% CI.
+
+Data synthesis
+
+For overall prognosis, Stata18 (Stata Corp, College Station, TX, USA) was utilized for meta-analyses to pool success rate, survival rate and incidence proportion of ankylosis. Random-effects models were employed to combine effect sizes.
+
+For prognostic factors, we undertook meta-analysis by Review Manager 5.4 (RevMan 5.4) only when studies of similar comparisons reported the same outcomes. Our general approach to data synthesis was to use a random-effects model. With this approach, the CI for the pooled average intervention effects is wider than the value that would be obtained if a fixed-effect approach was used, leading to a more conservative interpretation.
+
+Subgroup analysis and sensitivity analysis
+
+We proposed subgroup analysis for different age groups, periodontal probing depths, extraoral times, root-end filling materials, or other characteristics of participants, such as procedure. We used the chi-square test to determine the subgroup differences at a significant level of 0.05. Forest plots were present as the results of data synthesis.
+
+We undertook sensitivity analyses wherever appropriate. If the results of the sensitivity analyses had differed from those of the main analyses, we would have reported both in the Results section and considered a possible interpretation.
+
+Assessment of heterogeneity
+
+For each meta-analysis, we assessed clinical heterogeneity by comparing the characteristics of studies in terms of participants, interventions, and outcomes. We used Cochrane's chi-square test to determine the presence of statistical heterogeneity at a significance level of 0.1 []. We used the Istatistic to quantify the degree of statistical heterogeneity [].
+
+Assessment of reporting bias
+
+If any meta-analysis had included ten or more trials, we would have constructed a funnel plot to assess whether results were biased by small-study effects. We would have used tests for funnel plot asymmetry, such as Egger's test [].
+
+Assessment of certainty
+
+Two review authors (B.Z. and X.D.) used the GRADE criteria to independently judge the certainty of the evidence for our comparisons, resolving any disagreements by discussion with another review author (C.L.) [,].
+
+Evidence from observational studies (cohort studies, registries, or database linkage studies) is regarded as high certainty to begin with, but can be downgraded (to moderate, low, or very low) for study limitations (risk of bias), indirectness of the evidence, inconsistency, imprecision of effect estimates, and publication bias [].
+
+Results
+
+Selection of studies
+
+As shown in Fig., a total of 1126 records were retrieved from ten databases and two registers, and 743 records were screened by two reviewers after removing 383 duplicates. After screening titles and abstracts, 82 full reports were retrieved and assessed for eligibility. Of these, 49 reports were included, while 33 were excluded for various reasons: 4 had no full text, 18 focused on unrelated clinical questions, 3 due to inappropriate study design, and 8 due to unsuitable participants. Details of search strategies, and lists of excluded studies with references and reasons for exclusion are available in Appendix A and Appendix C.
+
+Characteristics and risk-of-bias of included studies
+
+Design of included studies
+
+Among the 39 included studies (2215 patients and 2305 teeth), there were eight case series [,,,–], five one-armed prospective cohort studies [,,–], twenty-four one-armed retrospective cohort studies [,,–,,,,,,–] and two two-armed retrospective cohort study [,].
+
+Setting of included studies
+
+Of the 39 included studies (Tables,,and), thirteen were conducted in China [,,,,,–,,,,]; nine in Korea [,,,,,,,,]; four in Japan [,,,]; three each in the USA [,,], Turkey [,,]; one each in Denmark [], India [], Iran [], Iraq [], Netherlands [], Switzerland [], and the UK [].
+
+Characteristics of the included studies are summarized in Tables,,and, with further details available in Appendix D. Clinical and methodological heterogeneity was noted in terms of clinical indications, study designs, follow-up durations, prognostic factors, and outcome indicators, as characterized in Tables,,, and and Appendix D.
+
+Risk of bias in included studies
+
+The risk of bias graph and summary for all included studies are shown in Fig.. Regarding the 39 included studies, 31 studies were judged to have a high risk of overall bias, eight studies were judged as moderate risk, and none were judged as low risk of bias. Responses to signalling questions and descriptions of judgments using the QUIPS tool are available in Appendix D and Appendix Fig. 1.
+
+Effects of interventions
+
+For each meta-analysis, the characteristics and risk of bias among contributing studies were presented in Appendix E.
+
+Results of overall prognosis
+
+Overall prognosis included survival rate, success rate, and incidence proportion of ankylosis.
+
+Figure presents an annual summary and synthesis of the survival rate, illustrating a clear downward trend. Pooled survival rates were 0.98 at 3 months, 0.91 at 1 year, 0.63 at 8 years. Forest plots of survival rates are shown in Appendix Figs. 2–13. Variability in the reported survival rates stemmed from not all studies reporting annually and variations in the exact timing of measurements. This caused some survival rates at specific times to be lower than those at subsequent times, e.g., at 9 months versus 5 years.
+
+The forest plot of the other overall prognosis including success rate (0.78, 95% CI 0.70 to 0.84) and incidence proportion of ankylosis (0.38, 95% CI 0.09 to 0.72) were reported in Appendix Figs. 14–15.
+
+Results of prognostic factors
+
+Comparisons of prognostic factors in all included studies were:
+
+Baseline prognostic factors comparison: include age, combined periodontal-endodontic lesions (CPEL), sinus tract, jaw position, and probing pocket depth.
+
+Intraoperative prognostic factors comparison: include extraoral time, splint method, and root-end filling materials.
+
+Comparison 1: Age
+
+Summary and syntheses measured with survival rate ratio of prognostic factor (Age) are shown in Appendix Fig. 16. SRR of subgroup 1.1.1 was 0.73, 95% CI 0.53 to 0.99 (= 0.048). Compared with older patients, teeth replanted in patients younger than 25 years might have a higher survival rate. Other age subgroup analyses showed no statistically significant difference. There was no difference between the sensitivity analysis and main analysis results (Appendix Fig. 16S).
+
+Comparison 2: CPEL
+
+Summary with survival rate ratio of primary outcomes (CPEL) is shown in Appendix Fig. 17. Only two studies [,] were included in this meta-analysis, one of which was a cohort study []. The SRR was 0.80, 95% CI 0.67 to 0.95 (= 0.001). This result proved that CPEL might have a clear negative effect on the results of intended tooth replantation in patients with periapical periodontitis.
+
+Other prognostic factors
+
+The results of the other prognostic factors included sinus tract (presence versus absence, SRR 0.87, 95% CI 0.76 to 1.00,= 0.005, see Appendix Fig. 18), jaw (maxillary versus mandibular, SRR 0.97, 95% CI 0.90 to 1.04,= 0.35, see Appendix Fig. 19), probing pocket depth (deeper versus shallower, SRR 0.95, 95% CI 0.79 to 1.15,= 0.63, see Appendix Fig. 20), extraoral time (longer time versus shorter time, SRR 0.93, 95% CI 0.78 to 1.10,= 0.40, see Appendix Fig. 21), splint method (resin wire splint versus suture splint, SRR 1.08, 95% CI 0.66 to 1.78,= 0.75, see Appendix Fig. 22), and root-end filling materials (other materials versus MTA, SRR 1.03, 95% CI 0.81 to 1.31,= 0.81, see Appendix Fig. 23), showing no statistically significant difference. All results of prognostic factors were reported in Appendix Figures.
+
+Certainty of evidence
+
+All studies were graded as either low or very low due to very serious imprecision and very serious risk of bias. Summary of findings tables were available in Appendix E.
+
+Discussion
+
+Summary of the main results
+
+Age
+
+In this review, age was categorized into six cutoff values to analyse due to heterogeneity among studies. Appendix Fig. 16 shows that patients under 25 years had a higher survival rate for replanted teeth (SRR 0.73, 95% CI 0.53 to 0.99,= 0.048). The GRADE criteria indicated that the certainty of the evidence was very low (Appendix E). The results suggest that age may have little to no effect on IR, but the evidence is very uncertain. The better periodontal status in younger individuals theoretically contributes to more favourable intraoperative management and postoperative outcomes [,]. Given the limitations of the current evidence, clinicians cloud considers applying age in conjunction with individual patient characteristics during IR planning rather than relying solely on age.
+
+CPEL
+
+Periodontal involvement remains a primary factor contributing to IR failure. Meta-analysis of CPEL, as shown in Appendix Fig. 17, revealed a SRR of 0.80 (95% CI 0.67 to 0.95,= 0.001). In two studies [,] on preoperative CPEL as a prognostic factor, the IR success rate of teeth with simple periapical periodontitis was 1.23 times and 1.64 times that of teeth with CPEL, respectively. However, the GRADE criteria indicated that the certainty of the evidence was low (Appendix E). This suggestion is that CPEL may result in little to no difference in IR. Because all studies included in this meta-analysis were judged to have high risk of bias, a sensitivity analysis was infeasible. Consequently, it remains strongly probable that the observed effect size between CPEL and IR prognosis was overestimated or obscured by confounding factors present throughout the included studies.
+
+The negative effect of CPEL is especially evident in long-term follow-ups beyond five years []. Although the European Society of Endodontology [] maintains that periodontal involvement is not an absolute contraindication for IR, these findings suggest considering the value of thorough preoperative periodontal assessment. For teeth with periodontal involvement, intensive preoperative management, such as local scaling and systemic antibiotic therapy [,], may contribute to improved outcomes. Additionally, maintaining oral hygiene postoperatively may be useful to prevent recurrent periodontal disease, especially in teeth previously affected by periapical periodontitis.
+
+Root-end filling material
+
+Results suggest that root-end filling materials should be considered for inclusion in future prognostic and intervention studies. There was considerable heterogeneity in the meta-analysis of prognostic factors regarding root-end filling materials. A total of five included studies [–,,] analysed this prognostic factor, and although the control group used mineral trioxide aggregate (MTA) as the root-end filling material, the root-end filling materials used in the experimental groups were different, which greatly increased the heterogeneity of the included studies. The heterogeneity observed in studies analysing root-end filling materials reflects inconsistent methodologies, particularly in the choice of experimental materials. Future studies should adopt standardized protocols to better assess the prognostic significance of different root-end filling materials and enhance the reproducibility of results.
+
+Overall completeness and applicability of the evidence
+
+The evidence from this review primarily applies to patients with periapical periodontitis considering IR. This review included more than 1800 male and female participants, representing patients at all stages of planned IR for the treatment of periapical periodontitis (patients with suboptimal RCT outcomes, patients with refractory periapical periodontitis, patients with combined periodontal-endodontic lesions, etc.). Due to variations in study settings and the absence of standardized protocols, caution is necessary when interpreting these findings for diverse patient groups. This led to doubts about the applicability of the evidence to the entire target group.
+
+Funding of the primary studies
+
+Of the thirty-nine included studies, seventeen studies [,,,,,,,,,,,,,,,] reported the funding source, while the remaining studies did not report the funding source.
+
+Quality of the evidence
+
+Risk of bias was assessed using the QUIPS tool, with findings summarized across studies indicating predominantly moderate to high risk. Large differences were observed in success rates, survival rates, and postoperative ankylosis rates among the included studies, primarily due to differing measurement standards for outcome indicators. Not all studies provided detailed statistical analyses of participant characteristics and surgical procedures. Significant statistical heterogeneity prompted a reduction in the certainty of evidence to account for inconsistency.
+
+Most studies had insufficient event counts and sample sizes, with moderate to high risk of bias, leading to a one- to two-level downgrade in the quality of evidence for all outcomes. These findings required confirmation in larger trials. All evidence of quality outcomes were rated as either low or very low. The summary of findings table was in Appendix E.
+
+Potential biases in the review process
+
+A sensitive search strategy was employed in this review, and comprehensive electronic searches were conducted to identify all relevant studies. No studies were excluded based on language restrictions. Authors of studies on IR for teeth with periapical periodontitis were contacted to identify unpublished studies or obtain additional information.
+
+Data collection and analysis were independently conducted by two review authors, with disagreements resolved through discussion or the involvement of a third reviewer, minimizing bias in the review editing process. Future work would been needed to investigate the impact and potential strategies to mitigate publication and reporting bias, as well as programs to require the registration and publication of prognostic studies.
+
+Limitations
+
+Internal validity of included studies
+
+In this review, internal validity was degraded due to the moderate or high risk of bias within the included studies. Confounding factors which could have biased the causal inferences due to the causal relationship from confounding factors to outcomes should have been controlled by appropriate analyses in Non-randomized controlled trials []. However, none of the included original studies conducted a complete analysis and discussion of confounding factors. Only seven original studies, Asgary 2014 [], Chen 2022 [], Demiralp 2003 [], Hou 2016 [], Jang 2016 [], Lee 2014 [], and Zhang 2020 [], conducted a brief discussion. This resulted in all studies having moderate or high confounding bias. Detection bias is a common bias during the measurement process, consisting of outcome assessors' direct errors when aware of the intervention received, and inherent systematic error of measurement methods lacking sensitivity. Hence, the risk of detection bias will be lower if a blinding of the outcome assessment, a more sensitive and more specific measurement method and more professional personnel conducting diagnoses are applied []. Only two original studies [,] did not provide a clear definition of the assessment method.
+
+External validity of included studies
+
+We found considerable heterogeneity (I> 80%) between included studies in the success rate (Appendix Fig. 2), survival rate (Appendix Fig. 3), and incidence proportion of ankylosis (Appendix Fig. 15), because the outcomes were measured using different criteria. Not all studies provided detailed statistical analysis of the basic characteristics of the participants and the surgical procedures. Conducting multicentre trials that involve various types of clinical settings would help confirm the reproducibility of the results across different healthcare environments []. Developing and adhering to harmonized protocols for IR procedures is particularly important, would reduce variability in outcomes and enhance the comparability of studies.
+
+In a meta-analysis of prognostic factors, significant clinical heterogeneity was found in both patient age and root-end filling material. In the subgroup analysis of the prognostic effect of age (Appendix Fig. 16), we found that subgroup 1.1.3 Older (age > 35) versus younger (age ≤ 35) had extremely high heterogeneity (I= 71%) because the sample size difference between the studies was too large, that is, the age composition of the patients included in the two studies was different [,]. In Hu 2004 [], most of the patients were concentrated in the age range of 15–25 years old. When 35 years old was selected as the dividing line, there was a large difference between the control group and the experimental group of the study. However, the age of patients in Shon 2011 [] was evenly distributed around 35 years old. In addition, the included studies had different choices of root-end filling materials, so we chose to conduct subgroup analysis. However, in the meta-analysis of subgroup 2.3.1 Endocem/Super EBA versus MTA, there was significant heterogeneity (I= 77%). This phenomenon is caused by selection bias. In Jang 2016 [], teeth affected by periapical periodontitis were characterized by a C-shaped canal. As a result, the contact area between the root-end filling material and tissue fluid was significantly more extensive than that of the standard shape canal, which was not conducive to solidifying the filling material []. Therefore, the results of this study had low external validity.
+
+Conclusions
+
+This review showed that IR has a significant effect on therapy for patients with periapical periodontitis, which has a high overall success rate and overall survival rate. However, very low-certainty evidence shows that the IR survival rate of younger patients is higher than that of older patients, and low-certainty evidence shows that the IR survival rate of patients without CPEL is higher.
+
+The results of the other prognostic factors, such as sinus tract, jaw, and extraoral time, are not statistically significant. Therefore, there is insufficient evidence to determine whether the other prognostic factors impact the survival rate of IR. The findings of this review are imprecise and unreliable; large, well-designed studies are needed to give better estimates of the influence of prognostic factors. Dentists and stomatologists should exercise caution when interpreting the findings of this review and be prepared to adapt their treatment plans based on individual patient needs.
+
+Supplementary Information
+
+Additional file 1.
