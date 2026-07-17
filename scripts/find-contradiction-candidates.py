@@ -115,16 +115,29 @@ def parse(path):
     return fm, body, cat, edges
 
 # stem 인덱스 + stem→세줄요약(한국어) 인덱스
+#
+# 철회 페이지 제외 (2026-07-17): `retraction_status: RETRACTED` 페이지는 typed 그래프에서
+# 양방향 격리하는 것이 위키 관례다(INGEST.md Step 0, scripts/retraction-audit.py). 레이더가
+# 이를 모르면 "철회 논문과 엣지를 달아라"를 **영원히 거절해야 하는 제안**으로 계속 올리고,
+# 미래의 백필 세션이 그걸 보고 격리를 되돌린다. 출발·대상 양쪽에서 뺀다.
+RETRACTED_RE = re.compile(r"^retraction_status:\s*RETRACTED\s*$", re.MULTILINE | re.IGNORECASE)
+
 stems = set()
 oneliner = {}
+retracted_stems = set()
 for md in WIKI.rglob("*.md"):
     if md.name.startswith("_"):
         continue
-    stems.add(md.stem)
     try:
-        oneliner[md.stem] = oneliner_of(md.read_text(encoding="utf-8", errors="replace"))
+        txt = md.read_text(encoding="utf-8", errors="replace")
     except Exception:
-        oneliner[md.stem] = ""
+        txt = ""
+    fm_m = FM_RE.match(txt)
+    if fm_m and RETRACTED_RE.search(fm_m.group(1)):
+        retracted_stems.add(md.stem)
+        continue                      # 대상 후보에서 제외 (stems에 넣지 않는다)
+    stems.add(md.stem)
+    oneliner[md.stem] = oneliner_of(txt)
 
 def ko_line(stem, label):
     """stem의 세줄요약 첫 줄을 카드 서브라인으로. 없으면 안내."""
@@ -161,6 +174,8 @@ n_typed_skip = 0   # 이미 typed 엣지가 있어 제외된 (page,target) 쌍 �
 
 for md in WIKI.rglob("*.md"):
     if md.name.startswith("_") or md.stem in ("index",):
+        continue
+    if md.stem in retracted_stems:      # 철회 페이지는 출발점으로도 쓰지 않는다
         continue
     fm, body, cat, edges = parse(md)
     # 본문 + 매칭 sources의 Why Ingested 를 함께 스캔
