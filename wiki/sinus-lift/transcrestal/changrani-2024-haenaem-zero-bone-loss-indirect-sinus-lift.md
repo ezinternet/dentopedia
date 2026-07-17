@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of the Efficacy of the HaeNaem Zero Bone Loss Kit in Indirect Sinus Lift Using Osseodensification"
+title: "[RETRACTED] Evaluation of the Efficacy of the HaeNaem Zero Bone Loss Kit in Indirect Sinus Lift Using Osseodensification"
 authors: Rachel Changrani, Amod P. Patankar, Swapna A. Patankar, Pranjali Kulkarni, Amisha Sharma
 year: 2024
 date: 2024-11-06
@@ -7,49 +7,79 @@ doi: 10.7759/cureus.73130
 source: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.md
 category: [sinus-lift/transcrestal]
 evidence_level: prospective
+retraction_status: RETRACTED
 pdf_path: /Users/oracleneo/llm-wiki/papers/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 pdf_filename: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 source_collection: external
-tags: [HaeNaem, osseodensification, indirect-sinus-lift, zero-bone-loss, CW-bur, retracted]
-relations:
-  - type: applies-to
-    target: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
+pmid: "39575356"
+tags: [RETRACTED, HaeNaem, osseodensification, indirect-sinus-lift, zero-bone-loss, CW-bur]
 ---
 
-> [!warning] RETRACTED — do not cite
-> This article (Cureus 2024, DOI 10.7759/cureus.73130; PMID 39575356) was issued a **Correction** on 2024-11-21 (cureus.c200, one citation added to the conclusions) and was **subsequently retracted**. Retraction confirmed via PubMed, which lists the article type as **"Retracted Publication"** (the held PDF predates the retraction and shows only the correction). The full text below is retained **for completeness only** — as the sole prospective clinical dataset on the HaeNaem indirect-sinus-lift kit — under a deliberate exception to the CLAUDE.md retraction policy (which otherwise requires a stub). Do **NOT** cite these findings as clinical evidence; the "more favorable risk-to-benefit ratio vs Densah" claim was untested and the study has no comparator arm. (set 2026-06-24)
+## ⚠️ RETRACTION NOTICE
+
+This article (Cureus 2024;16(11):e73130; DOI 10.7759/cureus.73130; PMID 39575356) was issued a **Correction** on 2024-11-21 (cureus.c200, one citation added to the conclusions) and was **subsequently retracted**. Retraction re-confirmed via PubMed on 2026-07-17: the record lists `article_types: ["Journal Article", "Retracted Publication"]`. The held PDF predates the retraction and shows only the correction.
+
+**Do not cite any finding on this page as clinical evidence.** The page is retained — not stubbed — under a deliberate exception to the `INGEST.md` Step 0 retraction policy, because it is the **only** clinical dataset the wiki holds on the HaeNaem clockwise-rotation kit. See *Why This Page Exists* below.
+
+**What survives the retraction is not the data — it is the conclusion that the evidence base is empty.** For any clinical question about the HaeNaem 시계방향 (Clockwise, CW) 골밀도화 (Osseodensification, OD) system, the correct answer from this wiki is: *no valid clinical evidence exists.* That answer is stronger and more useful than this n=12 single-arm series would have been had it stood.
+
+(Flag set 2026-06-24; page restructured to the retraction template and re-verified 2026-07-17.)
 
 ## Three-line Summary
 
-Prospective single-arm case series (n=12, residual crestal bone height 6–8 mm) evaluating the HaeNaem Zero Bone Loss clockwise-rotation osseodensification kit for graft-free indirect transcrestal sinus lift with simultaneous implant placement. **RETRACTED — do not cite as clinical evidence.**
+**[RETRACTED — do not cite as clinical evidence.]** Originally a prospective single-arm case series (n=12, residual crestal bone height 6–8 mm) evaluating the HaeNaem Zero Bone Loss clockwise-rotation osseodensification kit for graft-free indirect transcrestal sinus lift with simultaneous implant placement; subsequently retracted (PubMed: "Retracted Publication").
 
-Statistically significant bone height gain at all four CBCT aspects (mesial, distal, buccal, palatal; p<0.01) at 4 months post-procedure; no membrane perforations; all 12 implants osseointegrated — but no control group and no ISQ values were reported.
+Withdrawn effect estimates (significant bone height gain at all four CBCT aspects, p<0.01; no membrane perforations; all 12 implants osseointegrated) must NOT be cited; the study had no comparator arm, no reported ISQ values, and only 4-month follow-up even before the retraction removed it from the evidence base.
 
-This is the only prospective clinical dataset on a CW-rotation OD bur system as an alternative to Densah (CCW); the claimed risk-to-benefit advantage over Densah is an unsupported assertion not tested within this study.
+The durable finding is an **evidence vacuum**: this was the only prospective clinical dataset on a CW-rotation OD bur system as an alternative to Densah (CCW), so its retraction leaves the HaeNaem kit with no valid clinical evidence at all — and the claimed risk-to-benefit advantage over Densah was an untested assertion regardless.
 
 ## 세줄요약
 
-잔존 치조골 높이(Residual Crestal Bone Height, RCBH) 6–8 mm에서 HaeNaem Zero Bone Loss 시계방향(Clockwise, CW) 골밀도화(Osseodensification, OD) 버를 이용한 무이식 경치조골 간접 거상·동시 식립을 평가한 전향적 단일군 연구(n=12). **철회(Retracted) — 임상 근거로 인용 금지.**
+**[철회(Retracted) — 임상 근거로 인용 금지.]** 원래 잔존 치조골 높이(Residual Crestal Bone Height, RCBH) 6–8 mm에서 HaeNaem Zero Bone Loss 시계방향(Clockwise, CW) 골밀도화(Osseodensification, OD) 버를 이용한 무이식 경치조골 간접 거상·동시 식립을 평가한 전향적 단일군 연구(n=12); 이후 철회됨(PubMed 등재 유형 "Retracted Publication").
 
-4개월 CBCT에서 근심·원심·협측·구개측 4개 방향 모두 유의한 골 높이 증가(p<0.01); 막 천공 없음; 전 임플란트 골유착 — 대조군 없음, ISQ 수치 미보고.
+철회된 효과 추정치(4개월 CBCT 4개 방향 모두 유의한 골 높이 증가 p<0.01, 막 천공 없음, 전 임플란트 골유착) 인용 금지 — 철회 이전에도 대조군 없음·ISQ 미보고·추적 4개월로 근거력이 약했다.
 
-반시계방향(CCW) Densah 버의 대안인 CW 회전 OD 버에 대한 유일한 전향적 임상 데이터; Densah 대비 위험-편익 우위 주장은 이 연구 내에서 검증되지 않은 주장.
+남는 결론은 **근거 공백**이다: 반시계방향(Counter-Clockwise, CCW) Densah 버의 대안인 CW 회전 OD 버에 대한 유일한 전향적 임상 데이터였으므로, 철회로 인해 HaeNaem 키트에는 **유효한 임상 근거가 하나도 없다** — Densah 대비 위험-편익 우위 주장은 애초에 이 연구가 검증한 바 없다.
 
-## Summary
+## Why This Page Exists (Despite Retraction)
 
-This prospective single-arm study from Bharati Vidyapeeth Dental College, Pune, India, evaluated the HaeNaem Zero Bone Loss Kit — a proprietary 골밀도화 (osseodensification, OD) bur system — for 경치조골 간접 상악동 거상 (indirect transcrestal sinus lift) in 12 patients with 잔존 치조골 높이 (residual crestal bone height, RCBH) of 6–8 mm. The study's primary contribution is clinical data on an alternative OD bur system that operates via clockwise (CW, forward) rotation, in contrast to the counter-clockwise (CCW, reverse) rotation of the dominant Densah bur (Versah) system. The "Zero Bone Loss" label refers to the bur's design principle: no bone material is excised during osteotomy preparation; instead, bone is laterally compacted and densified along the implant site walls.
+- The HaeNaem CW-rotation kit is in clinical use, and this was its **sole** prospective clinical dataset. Silently deleting the page would make the wiki unable to answer "what is the evidence for HaeNaem?" at all — the reader would find nothing and might assume the question was never asked.
+- A page that says *"the only study was retracted"* answers that question **better than silence and better than the study itself**. Under CLAUDE.md Rule #4, naming an evidence gap is the correct response; this page is what makes that response citable.
+- The paper is recent (2024) and indexed in PubMed with a full abstract; it will keep surfacing in searches. Flagging it here means any future RAG query or human reader hits the retraction notice rather than the withdrawn numbers.
+- Deliberate exception to `INGEST.md` Step 0 (which requires a stub for retracted papers), on the same grounds as [[professional-wellbeing/panagioti-2018-retracted-physician-burnout-patient-safety]] — the retraction itself is the knowledge worth keeping.
 
-The 골밀도화 (OD) mechanism in the HaeNaem kit relies on CW rotation with a specific bur geometry that pushes bone outward and apically rather than removing it. During transcrestal sinus elevation, this compaction force is transmitted to the sinus floor and elevates the Schneiderian membrane indirectly. No graft material was placed; bone height gain is attributed to the elevated membrane space being occupied by a blood clot that subsequently organizes and undergoes osteogenesis. This graft-free approach is consistent with evidence that organized blood clot alone can support new bone formation under an elevated sinus membrane when RCBH is sufficient (generally ≥6 mm is accepted as viable for graft-free transcrestal lift).
+## What We Can NOT Use From This Paper
 
-Pre-operative and 4-month post-operative 원추형 빔 전산화 단층촬영 (cone beam CT, CBCT) were taken and bone height measured at four aspects — mesial, distal, buccal, and palatal — for each implant site. Paired t-tests demonstrated statistically significant increases at all four measurement points (p<0.01). Implant stability was clinically confirmed. No sinus membrane perforations were reported. The study is limited by its small sample (n=12), lack of control group, short follow-up (4 months), and absence of quantified 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) values. The cited comparative advantage of HaeNaem over Densah burs in risk-to-benefit ratio (a claim added via the 2024-11-21 bibliographic correction that inserted one reference into the Conclusions) is not tested within this study itself, making it an assertion rather than an internally supported finding.
+- The p<0.01 bone height gain at all four CBCT aspects (mesial, distal, buccal, palatal)
+- "No sinus membrane perforation" as a safety signal
+- "All 12 implants osseointegrated" as a survival signal
+- The claimed risk-to-benefit advantage of HaeNaem over Densah — untested within the study even before retraction
+- Any specific numerical estimate, and any use of this page as evidence that CW-rotation OD works at the sinus floor
 
-## Key Contributions
+## What This Paper Does Tell Us (Methodologically)
 
-1. **First prospective clinical data on a CW-rotation OD bur for indirect transcrestal sinus lift**: The HaeNaem Zero Bone Loss kit uses clockwise (forward) rotation, distinct from the CCW (reverse/counterclockwise) rotation that defines the Densah/Versah OD mechanism. This represents an alternative engineering approach to OD-mediated bone compaction whose clinical validity at the sinus floor this paper initiates.
-2. **Graft-free indirect sinus lift with CBCT four-aspect bone height documentation**: All four spatial measurements (mesial, distal, buccal, palatal) showed significant gain — a more complete spatial characterization than single-point measurement commonly reported in earlier OD literature.
-3. **Evidence for OD-mediated sinus lift at RCBH 6–8 mm with simultaneous implant placement**: Adds to the body of literature supporting the 6–8 mm RCBH range as viable for graft-free transcrestal OD lift, now with a non-Densah bur system.
+- **The HaeNaem CW-OD evidence base is empty.** This is the load-bearing fact. Any recommendation for or against the kit currently rests on extrapolation from Densah (CCW) literature, not on direct evidence — and the two systems differ in the very mechanism (rotation direction) that would need validating.
+- Extrapolating from Densah/CCW OD evidence to a CW-rotation bur is **not** supported: the rotation direction is the defining engineering difference, so the CCW evidence base does not transfer by default. See [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] for the CCW mechanism this diverges from.
+- A single-arm series with no comparator could not have established the comparative claim it made, regardless of retraction — a reminder that "only study available" and "usable evidence" are different things.
+- For the graft-free transcrestal question itself, the wiki's valid evidence lives in the Densah-centric literature — see [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]].
 
-## Methodology
+## Summary (Original Claims — Now Withdrawn)
+
+**Withdrawn — retained for recognition only; do not cite.** This prospective single-arm study from Bharati Vidyapeeth Dental College, Pune, India, evaluated the HaeNaem Zero Bone Loss Kit — a proprietary 골밀도화 (osseodensification, OD) bur system — for 경치조골 간접 상악동 거상 (indirect transcrestal sinus lift) in 12 patients with 잔존 치조골 높이 (residual crestal bone height, RCBH) of 6–8 mm. Its claimed contribution was clinical data on an alternative OD bur system operating via clockwise (CW, forward) rotation, in contrast to the counter-clockwise (CCW, reverse) rotation of the dominant Densah bur (Versah) system. The "Zero Bone Loss" label refers to the bur's design principle: no bone material is excised during osteotomy preparation; instead, bone is laterally compacted and densified along the implant site walls.
+
+The claimed OD mechanism relies on CW rotation with a bur geometry that pushes bone outward and apically rather than removing it; during transcrestal elevation this compaction force is transmitted to the sinus floor, elevating the Schneiderian membrane indirectly. No graft material was placed; bone height gain was attributed to the elevated membrane space being occupied by a blood clot that subsequently organizes and undergoes osteogenesis.
+
+The study was limited — even on its own terms, before retraction — by its small sample (n=12), lack of control group, short follow-up (4 months), and absence of quantified 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) values. The comparative advantage of HaeNaem over Densah burs in risk-to-benefit ratio (a claim added via the 2024-11-21 bibliographic correction that inserted one reference into the Conclusions) was not tested within the study, making it an assertion rather than an internally supported finding.
+
+## Key Claims (Original — Now Withdrawn, Do Not Cite)
+
+**All three claims below are withdrawn. Listed so the paper is recognizable when encountered in others' reference lists.**
+
+1. ~~First prospective clinical data on a CW-rotation OD bur for indirect transcrestal sinus lift.~~ **Withdrawn.**
+2. ~~Graft-free indirect sinus lift with CBCT four-aspect bone height documentation (mesial, distal, buccal, palatal).~~ **Withdrawn.**
+3. ~~Evidence for OD-mediated sinus lift at RCBH 6–8 mm with simultaneous implant placement using a non-Densah bur system.~~ **Withdrawn.**
+
+## Methodology (Original — Now Withdrawn)
 
 - **Design**: Prospective single-arm case series, no control or comparator group
 - **n**: 12 patients, 12 implants (one per patient)
@@ -62,18 +92,28 @@ Pre-operative and 4-month post-operative 원추형 빔 전산화 단층촬영 (c
 - **Statistics**: Paired t-test, significance at p<0.05
 - **Setting**: Bharati Vidyapeeth Dental College, Pune, India (single center)
 
-## Results
+## Results (Original — Now Withdrawn, Do Not Cite)
 
-- Statistically significant increase in alveolar bone height at all four CBCT measurement aspects (mesial, distal, buccal, palatal): paired t-test p<0.01 for each
-- No sinus membrane perforation reported
-- Implant stability confirmed clinically at time of placement (quantified ISQ values not available from paper extraction)
-- All 12 implants reportedly osseointegrated at 4-month CBCT review (implied by "implant stability confirmed")
-- No major complications reported
+**⚠ Every number below is from a retracted paper. Do not cite as clinical evidence.**
+
+- ~~Statistically significant increase in alveolar bone height at all four CBCT measurement aspects (mesial, distal, buccal, palatal): paired t-test p<0.01 for each~~ — **withdrawn**
+- ~~No sinus membrane perforation reported~~ — **withdrawn**
+- ~~Implant stability confirmed clinically at time of placement~~ (quantified ISQ values were never available from the paper) — **withdrawn**
+- ~~All 12 implants reportedly osseointegrated at 4-month CBCT review~~ — **withdrawn**
+- ~~No major complications reported~~ — **withdrawn**
 
 ## Related Papers
 
-- [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — Meta-analysis of OD for transcrestal sinus lift (Densah-centric evidence base); this paper provides an alternative-bur data point
+> **Note**: this page carries **no `relations:` typed edges**, in either direction, by design — a retracted paper must not feed the typed graph that overview synthesis assembles from. The prose links below are for human navigation only. Same convention as [[professional-wellbeing/panagioti-2018-retracted-physician-burnout-patient-safety]].
+
+- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — the HaeNaem device's own Korean patent (KR 10-2304707 B1, applicant 주식회사 해냄). **Unaffected by this retraction** — it documents the engineering intent (double-spiral condensing screw, CW rotation) and is what remains of the wiki's HaeNaem knowledge. Note what the pair means: the wiki holds the device's *design*, and zero valid clinical evidence that the design works.
+- [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — Meta-analysis of OD for transcrestal sinus lift (Densah-centric). **This is where the valid evidence lives** for the graft-free transcrestal question; the HaeNaem paper is not a usable data point in it.
+- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Original OD concept (Densah CCW bur basis). The CW/CCW rotation difference is exactly why Densah evidence does not transfer to HaeNaem.
 - [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — OD techniques and implant stability in posterior maxilla (Versah/Densah context)
-- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Original OD concept (Densah CCW bur basis; HaeNaem CW bur represents a divergent engineering approach)
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] — RCT: OD (Densah) vs osteotome transcrestal lift — establishes OD class advantage over osteotome
-- [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — Prospective OD + graft pilot (CBCT): comparable study design for transcrestal OD with graft, 13 patients
+- [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — Prospective OD + graft pilot (CBCT); comparable design for transcrestal OD with graft, 13 patients
+
+## Open Questions
+
+- Is there any non-retracted clinical study of the HaeNaem kit, or of CW-rotation OD generally? (None held as of 2026-07-17 — if one appears, link from here and revisit the CW/CCW extrapolation question.)
+- Was the retraction for data integrity, authorship, or a publication-process issue? The reason is not recorded in the PubMed metadata we can read; it bears on whether the underlying observations retain any descriptive value.
