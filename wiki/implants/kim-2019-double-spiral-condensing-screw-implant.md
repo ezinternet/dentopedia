@@ -14,8 +14,10 @@ tags: [patent, HaeNaem, osseodensification, condensing-screw, double-spiral, sin
 relations:
   - type: contradicts
     target: huwais-2017-novel-osseous-densification-osteotomy-primary-stability
-  - type: extends
-    target: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift
+# NOTE: `extends → changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift` was removed
+# 2026-07-17. changrani-2024 is RETRACTED; retracted pages are isolated from the typed
+# graph in both directions so that overview synthesis cannot assemble a withdrawn paper
+# as a live relationship. The prose link remains under Related Papers.
 ---
 
 ## Three-line Summary
