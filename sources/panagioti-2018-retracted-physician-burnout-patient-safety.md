@@ -49,7 +49,7 @@ strongest link — but the 메타분석 (Meta-analysis, MA) was retracted, so ef
 - Depersonalization subscale identified as the strongest predictor
 - Association between unprofessionalism and burnout was particularly high in early-career physicians
 
-## 3. Methodology
+## 3. Methodology (Original — Now Withdrawn, Do Not Cite)
 - Databases: MEDLINE, EMBASE, PsycInfo, CINAHL through Oct 22, 2017
 - Quantitative observational studies
 - Random-effects models, I² heterogeneity tests, publication bias tests
