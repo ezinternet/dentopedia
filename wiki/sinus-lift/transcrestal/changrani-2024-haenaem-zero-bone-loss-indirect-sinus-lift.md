@@ -21,7 +21,7 @@ This article (Cureus 2024;16(11):e73130; DOI 10.7759/cureus.73130; PMID 39575356
 
 **Do not cite any finding on this page as clinical evidence.** The page is retained — not stubbed — under a deliberate exception to the `INGEST.md` Step 0 retraction policy, because it is the **only** clinical dataset the wiki holds on the HaeNaem clockwise-rotation kit. See *Why This Page Exists* below.
 
-**What survives the retraction is not the data — it is the conclusion that the evidence base is empty.** For any clinical question about the HaeNaem 시계방향 (Clockwise, CW) 골밀도화 (Osseodensification, OD) system, the correct answer from this wiki is: *no valid clinical evidence exists.* That answer is stronger and more useful than this n=12 single-arm series would have been had it stood.
+**What survives the retraction is not the data — it is the conclusion that the *clinical-outcome* evidence base is empty.** Be precise about which gap this is: the **mechanism is documented and held** — [[implants/kim-2019-double-spiral-condensing-screw-implant]] (KR 10-2304707 B1) specifies the geometry, and the Densah patent independently characterises HaeNaem as "a genuinely different engineering route to the same densification goal." What no held source supplies is any *measurement* of what that geometry achieves in bone. So for a clinical question about the HaeNaem 시계방향 (Clockwise, CW) 골밀도화 (Osseodensification, OD) system, the correct answer from this wiki is: *the design is known; no valid clinical-outcome evidence exists.* That is stronger and more useful than this n=12 single-arm series would have been had it stood.
 
 (Flag set 2026-06-24; page restructured to the retraction template and re-verified 2026-07-17.)
 
@@ -31,7 +31,7 @@ This article (Cureus 2024;16(11):e73130; DOI 10.7759/cureus.73130; PMID 39575356
 
 Withdrawn effect estimates (significant bone height gain at all four CBCT aspects, p<0.01; no membrane perforations; all 12 implants osseointegrated) must NOT be cited; the study had no comparator arm, no reported ISQ values, and only 4-month follow-up even before the retraction removed it from the evidence base.
 
-The durable finding is an **evidence vacuum**: this was the only prospective clinical dataset on a CW-rotation OD bur system as an alternative to Densah (CCW), so its retraction leaves the HaeNaem kit with no valid clinical evidence at all — and the claimed risk-to-benefit advantage over Densah was an untested assertion regardless.
+The durable finding is a **clinical-outcome vacuum, not a mechanism vacuum**: the HaeNaem design is documented by its own patent (KR 10-2304707 B1, held), and its thread-opposite-rotation principle is the same one Densah satisfies with the opposite rotation — but this was the only prospective clinical dataset on the kit, so its retraction leaves the device with no valid outcome evidence, and the untested claim that most needs testing is *apical* densification via the lower compression dome.
 
 ## 세줄요약
 
@@ -39,7 +39,7 @@ The durable finding is an **evidence vacuum**: this was the only prospective cli
 
 철회된 효과 추정치(4개월 CBCT 4개 방향 모두 유의한 골 높이 증가 p<0.01, 막 천공 없음, 전 임플란트 골유착) 인용 금지 — 철회 이전에도 대조군 없음·ISQ 미보고·추적 4개월로 근거력이 약했다.
 
-남는 결론은 **근거 공백**이다: 반시계방향(Counter-Clockwise, CCW) Densah 버의 대안인 CW 회전 OD 버에 대한 유일한 전향적 임상 데이터였으므로, 철회로 인해 HaeNaem 키트에는 **유효한 임상 근거가 하나도 없다** — Densah 대비 위험-편익 우위 주장은 애초에 이 연구가 검증한 바 없다.
+남는 결론은 **기전 공백이 아니라 임상결과 공백**이다: 해냄 설계는 자사 특허(KR 10-2304707 B1)로 위키에 있고, 골밀도화 원리는 "나사산이 회전 방향과 **반대**로 형성됨"이므로 Densah(반시계, CCW)와 해냄(시계, CW)은 **같은 원리를 반대 회전으로 충족**한다 — 회전 방향 자체는 차이의 근거가 아니다. 다만 이 논문이 키트의 유일한 전향적 임상 데이터였으므로 철회로 **유효 임상결과 근거는 0**이 되었고, 정작 검증이 가장 필요한 주장(하부압착돔을 통한 **근단부** 밀도화)은 계측치가 전무하다.
 
 ## Why This Page Exists (Despite Retraction)
 
@@ -58,9 +58,11 @@ The durable finding is an **evidence vacuum**: this was the only prospective cli
 
 ## What This Paper Does Tell Us (Methodologically)
 
-- **The HaeNaem CW-OD evidence base is empty.** This is the load-bearing fact. Any recommendation for or against the kit currently rests on extrapolation from Densah (CCW) literature, not on direct evidence — and the two systems differ in the very mechanism (rotation direction) that would need validating.
-- Extrapolating from Densah/CCW OD evidence to a CW-rotation bur is **not** supported: the rotation direction is the defining engineering difference, so the CCW evidence base does not transfer by default. See [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] for the CCW mechanism this diverges from.
+- **The gap is clinical outcome, not mechanism.** The mechanism is documented: [[implants/kim-2019-double-spiral-condensing-screw-implant]] (KR 10-2304707 B1) is held in this wiki and specifies the geometry. What no held source supplies is any *measurement* of what that geometry achieves in bone.
+- **Rotation direction is NOT the engineering difference — thread-vs-rotation orientation is, and both systems satisfy it.** The OD principle per the HaeNaem patent is that *the thread is formed opposite to the rotation direction*, so released bone powder cannot escape and is pressed into the osteotomy wall. Densah meets that condition by running a negative-rake dual-face flute **counter**-clockwise ([[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]: same bur, CW = cutting/extraction, CCW = densification). HaeNaem meets the same condition with a thread formed opposite to *its* working direction, which is clockwise. Two geometries, one physical principle — the Densah patent itself calls HaeNaem "a genuinely different engineering route to the same densification goal" ([[implants/huwais-2017-autografting-tool-enhanced-flute-profile]]). So "CW vs CCW" does not by itself void transfer; do not reason from rotation direction.
+- **What genuinely does not transfer is the apical claim.** Densah's evidence base concerns lateral densification. The HaeNaem patent's distinctive assertion is *apical* densification via a lower compression dome (하부압착돔) that channels bone powder to the osteotomy floor — explicitly framed as fixing prior OD burs' side-wall bias (d2 ≪ d1), and the basis for its transcrestal sinus-elevation claim. That specific claim has **zero** measurement anywhere in the wiki — the patent states it as an inventor assertion, and the only study that tried to test the kit was this retracted one.
 - A single-arm series with no comparator could not have established the comparative claim it made, regardless of retraction — a reminder that "only study available" and "usable evidence" are different things.
+- **Practitioner observation (2026-07-17, wiki owner):** both burs are in routine clinical use and perform similarly in hand. This is consistent with the held sources rather than in tension with them — the shared thread-opposite-rotation principle predicts similar lateral behaviour, and [[implants/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] found OD's measurable expansion advantage over standard forward drilling only at a narrow (6.75 mm) ridge, with no group difference at 7.25/7.75 mm. Recorded as clinical observation, not as evidence.
 - For the graft-free transcrestal question itself, the wiki's valid evidence lives in the Densah-centric literature — see [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]].
 
 ## Summary (Original Claims — Now Withdrawn)
