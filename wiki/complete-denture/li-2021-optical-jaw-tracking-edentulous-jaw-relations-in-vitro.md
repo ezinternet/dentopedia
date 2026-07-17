@@ -12,8 +12,6 @@ full_text: false
 pmid: "33651032"
 tags: [complete-denture, jaw-relation-record, optical-tracking, edentulous, in-vitro, eccentric-position, digital-workflow, articulator]
 relations:
-  - type: extends
-    target: li-2022-digital-edentulous-maxillomandibular-relationship-jaw-tracking
   - type: reinforces
     target: jasz-2024-centric-relation-methods-digital-mandibular-motion
 ---
