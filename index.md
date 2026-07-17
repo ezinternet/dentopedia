@@ -2526,7 +2526,6 @@ tags: []
 - [[implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant]] — Tao 2025 · in-vitro (PFB Type IV, 48블록) · OD/Densah가 CD 대비 삽입토크↑(11.73 vs 7.77 N·m)·벽결함↓·발열↓이나 ISQ 동등(47.1 vs 46.7, NS); 권장 1500rpm/0.04mm·z/관주
 - [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — Barberá-Millán 2021 · in-vitro (돼지경골 D4, n=55/군) · OD vs 통상 under-drilling: OD 삽입토크 21.72 vs 8.87 Ncm·ISQ 69.75 vs 65.16 모두 우월(p≤.001)
 - [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Rittipakorn 2025 · in-vitro · Human cadaveric tibia (40 implants, D3/D4): novel clockwise OD (800 rpm) vs standard drilling — higher but NS ISQ (67.5 vs 62.9) & IT (34 vs 29.5 Ncm), tighter IQR, significant IT–ISQ correlation only in OD (ρ=0.577)
-- [[implants/versah-protocols/lopez-valverde-2025-bone-expansion-compaction-densification-sr-ma]] — SR+MA(10편/2,464 스크리닝; PROSPERO): 좁은 치조골에서 골밀도화(OD)가 골확장(BE) 대비 BD(SMD −0.71)·CE(SMD −1.12)·ISQ(SMD −8.88) 모두 유의하게 우수(p≤0.005)
 
 ### periodontics (added 2026-05-28, batch e)
 
