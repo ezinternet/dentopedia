@@ -22,6 +22,7 @@ relations:
 > - 고장력 맥락(GBR·titanium mesh·치주성형): 질문은 "어떻게 무장력 일차폐쇄를 달성할 것인가". 답 — 피판 전진·폐쇄 공학이 곧 재생 성패.
 > - 저장력 — sutureless는 안전하며 초기 morbidity 동등 이상(Takadoum 2022 multicentric n=94는 완전 동등, Kumar·Sen은 trismus·부종 우월). 정확한 해석은 "sutureless 우월"이 아니라 "봉합 생략이 손해를 끼치지 않는다".
 > - 저장력 — 흡연자는 폐쇄 방식과 무관하게 합병증 위험 3.65배(Takadoum) → 금연 권고가 술식보다 중요. 부종·통증 최소화 목표면 이차폐쇄(배농 여지, Pachipulusu 2018).
+> - 저장력 적용 경계 — 무봉합 RCT들은 항응고·항혈소판·응고장애 환자를 **제외**하고 시행됐다(Takadoum·Sen 제외기준). 이 환자군에 "봉합 생략 무해"를 외삽하지 말 것 — 봉합이 지혈 술식으로서 별개 적응증을 가진다.
 > - 저장력 — 봉합한다면 패턴 선택이 봉합 유무보다 인접 제2대구치 치주(PPD·CAL)에 더 영향: sling이 single interrupted보다 우수(Aghdashi 2020, PPD p=0.041).
 > - 고장력 — 노출(exposure)이 재생량을 직접 깎는다: 비노출 부위가 노출 부위보다 골증대 약 6배(Plonka 2017 SR). 목표는 exposure 0.
 > - 고장력 — 전진량 지배 인자는 골막이완절개(periosteal releasing incision) +5.5 mm(1차 수직절개 +1.1mm, 2차 +1.9mm 대비). 설측 mesh 노출은 설측 관상전진피판(CALF)으로 83.3%→0%(Attia 2023 RCT n=14).
@@ -74,6 +75,8 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 | **rct** | [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]] | 101 | 통증·부종·설신경 동등; sutureless가 trismus·지연치유 유의 적음 | — |
 
 **합성 결론** [확인]: 단순 발치와에서 **sutureless는 안전하며 초기 morbidity에서 동등 이상**이다. 단, 효과크기는 작고 multicentric RCT(takadoum)는 완전 동등을 보고하므로, "sutureless가 우월"이 아니라 "**봉합 생략이 손해를 끼치지 않는다**"가 정확한 해석이다. [미검증 — 2 RCT 우월 vs 1 multicentric 동등의 절충]. 흡연자에서는 폐쇄 방식과 무관하게 합병증 risk가 본질적으로 높다(takadoum 3.65×).
+
+**적용 경계 — 출혈 위험 환자는 이 근거의 밖이다** [확인]: sutureless RCT들은 출혈 위험군을 **명시적으로 제외**하고 시행됐다 — takadoum은 항혈소판제·항응고제 복용, 응고장애, 면역억제 환자를 배제했고, sen은 출혈질환(bleeding disorders)·치유영향 약물·ASA II–IV를 배제했다. 따라서 "봉합 생략이 손해 없다"는 결론을 **항응고·항혈소판 복용자나 응고장애 환자에게 그대로 외삽할 수 없다.** 이 환자군에서 봉합은 창상폐쇄가 아니라 **지혈 술식**으로서 별개의 적응증을 가진다.
 
 ### 1.2 Primary vs Secondary Closure & Suture Geometry
 
@@ -144,6 +147,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 ├─ 저장력 (발치와·단순 구치부) ─────────────────────────
 │   ├─ 부종·통증 최소화 우선 → 이차폐쇄/배농 여지 (pachipulusu)
 │   ├─ 봉합 생략 가능 — 결과 손해 없음 (takadoum·kumar·sen)
+│   │   └─ ⛔ 예외: 항응고·항혈소판·응고장애 → 원 RCT 제외기준, 지혈 목적 봉합
 │   ├─ 봉합한다면 인접치 치주 위해 sling 선호 (aghdashi)
 │   └─ 흡연자: 폐쇄법 무관 합병증 ↑ → 금연 권고가 술식보다 중요 (takadoum 3.65×)
 │
@@ -155,7 +159,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
     └─ 목표: exposure 0 — 노출 1건이 골증대량 ~6배 손실 (plonka)
 ```
 
-한국 임상 메모: ① 단순 발치 봉합 강박을 줄여도 근거상 안전하나, 환자 안심·출혈 관리 목적의 봉합은 별개 판단. ② GBR에서 "막 위 봉합을 촘촘히"보다 **골막이완절개로 장력 자체를 0으로 만드는 것**이 우선순위. ③ cyanoacrylate(예: 구강용 Histoacryl 계열)는 국내 적응증·허가범위 확인 후 보조 사용 — 1차 폐쇄 대체가 아님. [미검증]
+한국 임상 메모: ① 단순 발치 봉합 강박을 줄여도 근거상 안전하다 — **단 항응고·항혈소판·응고장애 환자는 원 RCT의 제외기준이었으므로 이 근거의 적용 대상이 아니다**(§1.1 적용 경계). 환자 안심·지혈 목적의 봉합은 별개 판단. [확인] ② GBR에서 "막 위 봉합을 촘촘히"보다 **골막이완절개로 장력 자체를 0으로 만드는 것**이 우선순위. [확인] ③ cyanoacrylate(예: 구강용 Histoacryl 계열)는 국내 적응증·허가범위 확인 후 보조 사용 — 1차 폐쇄 대체가 아님. [미검증 — 국내 허가범위는 미확인]
 
 ---
 
@@ -164,6 +168,8 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 - **SR+MA 부재**: 이 카테고리 최강 근거는 SR 1편(plonka)+RCT 7편. sutureless 3 RCT가 방향 불일치(2 우월 vs 1 동등)인데 이를 정량 통합한 MA가 wiki에 없다 → ingest 우선순위 후보.
 - **고장력 술식 RCT 빈약**: CALF(attia) n=14 단일 RCT, Poncho·RIE는 case series. 효과크기는 크나 표본·설계 한계.
 - **in-vitro→임상 외삽 갭**: 봉합패턴 생역학 4편은 cadaver/모형 기반. 구강 점막·치유 환경에서의 임상 검증 부재.
+- **매복 사랑니 → 일반 발치 외삽 갭**: 저장력 근거 4편(takadoum·kumar·sen·pachipulusu)은 **전부 매복 하악 제3대구치** 기반이다. 판막거상·골삭제를 동반한 외과적 발치의 창상은 단순 발치와보다 오히려 크므로 "여기서 안전하면 단순발치는 더 안전하다"는 방향의 외삽은 합리적이나, 단순발치·다근치 발치를 직접 평가한 RCT는 위키에 없다. [미검증 — 방향은 보수적이나 직접 근거 부재]
+- **출혈 위험군 근거 공백**: 항응고·항혈소판 복용자에서 무봉합 가부를 평가한 연구가 위키에 없다(원 RCT들의 제외기준). 이 환자군의 발치 후 지혈 프로토콜은 ingest 우선순위 후보.
 - **장력 정량 도구 부재**: "무장력"이 술자 주관. marsidi가 견인력 측정법을 제시했으나 chairside 적용 도구는 미정립.
 
 ---
