@@ -102,7 +102,7 @@ Chen 2026 (SR+MA, 9 RCTs, n=1,746 primary anterior teeth, children 3–6y, PROSP
 | Plaque accumulation | 0.08 | <0.001 | PZC far superior |
 | Antagonist tooth wear | **7.58** | <0.001 | RCSC strongly favoured |
 
-The zirconia hardness mismatch is the decisive trade-off: PZC (경도 Zn-CHA 1000–1400 HV) vs natural enamel (300–400 HV). When PZC opposes a primary or permanent tooth, accelerated antagonist wear is a real risk.
+The zirconia hardness mismatch is the decisive trade-off: PZC (zirconia hardness 1000–1400 HV) vs natural enamel (300–400 HV). When PZC opposes a primary or permanent tooth, accelerated antagonist wear is a real risk.
 
 **Case-selection algorithm:**
 
