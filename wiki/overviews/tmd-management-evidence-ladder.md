@@ -217,6 +217,21 @@ TMD 34편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 
 **연결**: OA의 arthrocentesis는 축 3(IJOMS 2023 SR+MA)의 근거와 일치 — HA·스테로이드 부가가 근거 우위. OA는 그 적응증을 "퇴행성 골변화 확인 후"로 구체화.
 
+### 축 8-b — 염증성·자가면역 관절염 (JIA · RA · PsA — 별도 overview로 연결)
+
+축 8이 **퇴행성**(기계적 부하 → 연골하골 파괴)이라면 이 축은 **염증성·자가면역**이다 — 기전(활막/부착부염 주도)·진단(MRI·US)·치료(류마티스내과 전신치료 위의 국소 보조층)가 전부 다른 트랙이라 축 1–5의 기능성 TMD 사다리를 그대로 적용하면 안 된다.
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[tmj/pawlaczyk-kamienska-2026-facial-asymmetry-mandibular-hypomobility-jia-tmj]] | narrative-review | JIA의 TMJ 침범은 흔히 **무증상** — 안면비대칭(23–41%)·개구 편위(최대 62%)·MMO<40mm가 선별 신호. MMO 단독은 TMJ 관절염 유무를 구분 못 함 |
+| [[tmj/chana-2026-ultrasound-tmj-juvenile-idiopathic-arthritis-sr]] | sr (8편, GRADE) | 소아 US 민감도 21–85%, 급성 염증에서 **0% 두 건**(Weiss κ=0.00, Zwir 0%) → **음성 US는 배제 못 함**; MRI가 기준 |
+| [[tmj/tenorio-2026-ultrasonography-tmj-rheumatoid-arthritis-scoping-review]] | sr (5편/154명) | 성인 RA는 삼출에 강하고(단일연구 92.4%) 디스크·골에 약함(72%·53%) — **JIA와 최적 표적이 뒤집힘**; 술자 의존성이 최대 한계 |
+| [[tmj/aiello-2025-tmj-arthritis-rheumatic-diseases-rehabilitative-pain-relief-sr]] | sr (479→5편) | 국소 치료 근거 거의 없음(대조군 2/5, RCT 1편); 스테로이드 효과 **~6주에 소실**; 전신치료와의 상호작용 미분석 |
+| [[tmj/bernardi-2024-psoriatic-arthritis-tmj-pathogenesis-gender-differences]] | narrative-review | PsA는 부착부염·IL-17/22/23 주도로 **미란+증식성 골변화 공존**; 감별은 **미란 위치**(OA 중심부만 vs PsA 중심·변연); 항TNF의 **턱뼈 골괴사** 보고 |
+| [[tmj/ravelo-2025-tmj-replacement-degenerative-disease-sr]] | sr (16편/760명) | 전치환술 — 적응증에 JIA·RA 포함(퇴행성·염증성 579명); 개구 24.3→40.7mm이나 **GRADE 16편 전부 low·대조군 없음·수술 시점 근거 없음** |
+
+**임상 함의**: 증상·초음파·전신 활성도·치료반응이 서로 어긋나므로(네 고리가 각각 끊어짐) 기능성 TMD의 "증상 보고 → 보존 → 재평가" 사다리가 작동하지 않는다. JIA 아동은 **증상이 없어도** 얼굴 대칭·개구로를 보고, 음성 US로 안심시키지 말며, 건선·RA 환자의 새 TMJ 증상은 스플린트가 아니라 **협진 대화**다. 상세·근거 전문은 [[overviews/tmj-inflammatory-arthritis-overview]].
+
 ### 축 9 — 삶의 질 · MAD/VD 특수 주제
 
 | Spine paper | Evidence | Key finding |
