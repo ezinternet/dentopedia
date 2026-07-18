@@ -34,6 +34,8 @@ relations:
     target: rismanchian-2025-immediate-nonimmediate-loading-umbrella-review
   - type: extends
     target: dambrosio-2026-clinical-risk-medico-legal-implications
+  - type: refines
+    target: arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review
 ---
 
 > [!summary] 한국어 핵심요약
