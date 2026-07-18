@@ -2,7 +2,7 @@
 title: "Overview: CR vs CO/MIP(ICP) — the Maxillomandibular Reference Position Debate"
 type: synthesis
 category: overviews
-date: 2026-07-17
+date: 2026-07-18
 evidence_level: synthesis
 source_papers:
   - wiki/occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal.md
@@ -15,6 +15,7 @@ source_papers:
   - wiki/occlusion/fukushima-2016-controversy-with-respect-occlusion.md
   - wiki/tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr.md
   - wiki/occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth.md
+  - wiki/occlusion/utz-2026-neuromuscular-position-tmj-condyle-dentate.md
   - wiki/occlusion/tank-2024-interocclusal-registration-materials-vertical-accuracy-centric-relation.md
   - wiki/occlusion/rani-2024-bite-registration-materials-vertical-relationship-accuracy.md
   - wiki/occlusion/morsy-2024-intraoral-scanner-maximal-intercuspation-border-positions.md
@@ -33,6 +34,7 @@ tags: [centric-relation, centric-occlusion, maximum-intercuspation, intercuspal-
 > - **논쟁 B (CR 유지파)**: Goldstein(2022) — CR은 **재현 가능·근거 있는 기준위**(특히 전악재건); 문제는 개념이 아니라 정의·기록법의 비일관성; 다른 위치를 쓰려면 다른 이름을 붙이라.
 > - **논쟁 C (절충/모니터링파)**: Fornai(2022) — 용어 "CR"은 폐기하되 임상적으로는 **과두위를 능동 감시**해야(생물학적≠임상적 정상); 대체어로 **기준위(Reference Position, RP)** 제안.
 > - **논쟁 D (상황 한정파, 2026-07 추가)**: Yu(2024, 華西) — CR을 폐기하지도 옹호하지도 말고 **"논쟁이 적은 상황"에만 쓰라**며 예비 **결정트리**를 제시. CR의 유치악 적용을 세 질문으로 구조화: TMD 진단·치료의 핵심인가 / 교합재건의 기준 악위인가 / **교정의 목표 악위인가**. 세 번째 축(교정)은 이 오버뷰가 그동안 다루지 않던 영역이다. **단 실제 분기 조건은 중문 본문에만 있어 미확보** — 알고리즘 형식을 근거등급으로 오인 말 것(저자 스스로 "初步提出", kattadiyil의 BECS와 격이 다름).
+> - **⭐ 신경근(myocentric) 위치는 시험받고 기각됐다**: 유치악 81명·술자 4명 독립·2회 반복·전자계측 교합기 — 신경근위치는 MIP도 CR도 아닌 **제3의 위치**(MIP↔NM 0.88±0.30mm, CR↔NM 0.83±0.27mm)이고 저자 결론은 **보철 수복에 권장 불가**. 근거는 평균이 아니라 **산포**다: 재현성 0.04~2.53, MIP↔NM 0.12~**5.98**, CR↔NM 0.10~**7.89mm**로 Radej의 임상유의 기준 ≥2mm를 넘는 꼬리가 있다. 단 이 논문의 CR 자체가 고딕아치 정점 기준이고, 결론이 표본에 없던 무치악까지 확장된 점은 한계 (Utz 2026).
 > - **활주와 악관절장애(TMD)**: Jiménez-Silva(2017) SR — CR-ICP 불일치가 다수 연구서 근육통·관절잡음·디스크변위와 연관되나 **근거 질이 낮아(NOS 평균 3.36) 인과 확정 불가**. radej(2023)는 **과두발산형(hyperdivergent) 골격**이 CR→MIP 과두 후하방 변위의 최대 위험인자라고 정리.
 > - **MIP의 "정상"도 모호**: Qadeer & Türp(2023) — MIP 교합접촉 수가 **11~70개로 광범위**, 검출지시재(교합지·shimstock·디지털)에 좌우 → 단일 정상치 없음. 즉 "MIP를 받아들이라"는 주장도 측정 표준이 없으면 검증 곤란.
 > - **⚠️ 새 축 (2026-07) — 이 논쟁은 자기가 쓰는 자[尺]의 정밀도를 검증한 적이 없다**: 논쟁의 판별선은 **활주 2mm**(Pullinger/Fornai)와 Radej의 **≥2mm(수직·수평)·≥0.5mm(횡)**다. 그런데 그 선을 재는 도구들의 오차가 선과 같은 자릿수다 — 교합채득재는 왁스가 엘라스토머의 **약 6배** 편차(Rani 2024: Aluwax 0.94 vs 폴리에테르 0.136·PVS 0.152~0.165, **단위 원문 미표기**), 구강스캐너(IOS)는 MICP는 잘 잡지만 **측방위 민감도 28%**로 접촉 3/4를 놓치고(Morsy 2024), 검증 지표로 흔히 쓰는 **교합접촉 "개수"는 위치가 이동해도 안 변하는 둔감한 지표**다(Biren 2025). 즉 측정 표준화는 각주가 아니라 **논쟁의 하중을 받는 기둥**이다.
@@ -42,7 +44,7 @@ tags: [centric-relation, centric-occlusion, maximum-intercuspation, intercuspal-
 
 ## Three-line Summary
 
-Synthesis of 16 papers on maxillomandibular reference position for occlusal reconstruction: CO and MIP are non-coincident in most dentate patients (Kattadiyil 2021 Best Evidence Consensus), normal centric slide is <2 mm sagittal (Fornai 2022 citing Pullinger), and "centric relation" itself has a contested definition — Zonnenberg/Türp/Greene 2021 call for abandoning the term, Goldstein 2022 defends it as a reproducible restorative reference, Fornai 2022 keeps the concept under a renamed Reference Position, and Yu 2024 declines the whole either/or by restricting CR to situations of "little controversy" via a decision tree.
+Synthesis of 17 papers on maxillomandibular reference position for occlusal reconstruction: CO and MIP are non-coincident in most dentate patients (Kattadiyil 2021 Best Evidence Consensus), normal centric slide is <2 mm sagittal (Fornai 2022 citing Pullinger), and "centric relation" itself has a contested definition — Zonnenberg/Türp/Greene 2021 call for abandoning the term, Goldstein 2022 defends it as a reproducible restorative reference, Fornai 2022 keeps the concept under a renamed Reference Position, and Yu 2024 declines the whole either/or by restricting CR to situations of "little controversy" via a decision tree.
 
 Practical decision: full-mouth/large reconstruction → build to a reproducible CR/CO (Kattadiyil, Goldstein); deformed/unstable condyles or TMD signs → target a muscle-guided premature-contact-free ICP (Fukushima 2016); healthy dentate with slide <2 mm and no symptoms → accept existing MIP (Zonnenberg 2021); hyperdivergent skeletal pattern is the strongest risk factor for posteroinferior condylar displacement on the CR→MIP path (Radej 2023 scoping review).
 
@@ -50,7 +52,7 @@ The measurement problem is load-bearing, not a footnote: the debate discriminate
 
 ## 세줄요약
 
-16편 종합: CO와 MIP는 유치악 대다수에서 불일치(Kattadiyil 2021 BECS); 정상 중심활주(CR-MIP slide) <2mm(Fornai 2022); "중심위(CR)"는 용어 자체가 논쟁 중 — 폐기파(Zonnenberg 2021)·유지파(Goldstein 2022)·감시파(Fornai 2022)에 더해, Yu(2024)는 양자택일을 거부하고 "논쟁이 적은 상황"에만 CR을 쓰는 결정트리를 제시.
+17편 종합: CO와 MIP는 유치악 대다수에서 불일치(Kattadiyil 2021 BECS); 정상 중심활주(CR-MIP slide) <2mm(Fornai 2022); "중심위(CR)"는 용어 자체가 논쟁 중 — 폐기파(Zonnenberg 2021)·유지파(Goldstein 2022)·감시파(Fornai 2022)에 더해, Yu(2024)는 양자택일을 거부하고 "논쟁이 적은 상황"에만 CR을 쓰는 결정트리를 제시.
 
 임상 결정: 전악수복 → 재현 가능한 CR/CO로 구축(Kattadiyil, Goldstein); 과두 불안정·TMD 징후 → 근육 유도 ICP(Fukushima 2016); 건강한 유치악·활주<2mm·무증상 → 기존 MIP 수용(Zonnenberg 2021); 과두개산형(hyperdivergent) 골격이 CR→MIP 후하방 과두변위 최강 위험인자(Radej 2023).
 
@@ -65,6 +67,12 @@ The clinical question is not "which single position is universally correct" but 
 3. **Neither "normal" is well-measured** — the MIP contact count itself ranges 11–70 depending on the detection method (Qadeer & Türp 2023), and the CR–ICP↔TMD association rests on low-quality evidence (Jiménez-Silva 2017).
 
 The literature then splits on **what to do about condylar position**: abandon the concern in healthy dentate patients (Zonnenberg/Türp/Greene), defend CR as the reproducible restorative reference (Goldstein), or keep monitoring condylar position under a renamed "Reference Position" (Fornai). For unstable/deformed condyles the condyle cannot be trusted as a landmark at all, and a muscle-guided, premature-contact-free ICP is the safer target (Fukushima).
+
+**One candidate position has now been tested and rejected on its own terms.** A fifth option periodically offered as the way out of this debate is the *neuromuscular* or myocentric position — the idea that muscles, left to close freely, will find a physiologic position superior to both a condyle-defined CR and a tooth-defined MIP. [[occlusion/utz-2026-neuromuscular-position-tmj-condyle-dentate]] is the fifth and final part of a programmatic series on condylar positions and is unusually well controlled for this literature: **81 fully dentate subjects with healthy oral function, four independent operators, every registration repeated twice, measured on a custom-built electronic measuring articulator**. The result is that the neuromuscular position is **a third, distinct position** — neither MIP nor CR: MIP↔neuromuscular 0.88 ± 0.30 mm, CR↔neuromuscular 0.83 ± 0.27 mm. The authors' conclusion is categorical: registration of the neuromuscular adduction field **should not be recommended for prosthodontic restorations**.
+
+Read the dispersion rather than the means, because that is where the conclusion actually comes from. Reproducibility averaged 0.52 ± 0.16 mm but ranged **0.04 to 2.53 mm**; MIP↔neuromuscular ranged 0.12 to **5.98 mm**; CR↔neuromuscular ranged 0.10 to **7.89 mm**. The averages look clinically tolerable; the upper tails run well past the ≥2 mm that [[tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr]] treats as clinically significant condylar displacement. A method whose own repeat measurement can miss by 2.5 mm cannot define a reference position for a restoration, whatever its mean says.
+
+Two caveats keep this in proportion. The CR against which the neuromuscular position was judged was itself defined by a central-bearing-point registration **at the tip of the Gothic arch** — a substantive methodological choice, not a neutral fact, and a reader who rejects Gothic-arch CR would weigh the comparison differently. And the sample was **fully dentate with healthy oral function**, while the authors' recommendation extends to edentulous patients they did not enrol. Note also that this does not contradict Fukushima: his target is the patient's own chairside-verified habitual closing endpoint checked for premature contacts, not an operator-registered adduction point from rapid-closure recording — different constructs, so the two coexist.
 
 **A fourth stance declines the either/or.** Yu 2024 (West China) accepts that CR's migration from edentulous complete dentures into dentate jaws is genuinely doubted, but observes that its clinical uses exist regardless — so instead of adjudicating the concept, the paper restricts it: it asks three separate questions (should CR be the core of TMD diagnosis and treatment? should CR be the jaw position to build occlusal reconstruction on? should CR be the target position in orthodontics?) and proposes a preliminary **decision tree** covering only the situations of "little controversy." Two things follow. First, it is convergent with this overview's own structure — an independent group arrived at situation-by-situation triage rather than a universal answer, which is weak but real corroboration that the question is mis-posed as "which position wins." Second, it opens an axis this synthesis had not covered at all: **CR as an orthodontic target position**. That axis remains a hole here, because Yu's actual branch conditions live in the Chinese-language body, which PMC does not host — only the abstract is retrievable. Treat Yu as a signpost, not a source of rules; an algorithm's format confers authority its evidence grade does not (the authors themselves say "preliminarily put forward," and this is one group's narrative review, not a Best Evidence Consensus like Kattadiyil).
 
@@ -151,6 +159,7 @@ The debate's thresholds (2 mm slide; Radej's ≥2 mm / ≥0.5 mm) presuppose a m
 - [[occlusion/fukushima-2016-controversy-with-respect-occlusion]] — unstable condyle → muscle-guided ICP
 - [[tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr]] — hyperdivergent pattern = CR→MIP displacement risk
 - [[occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth]] — function-defined therapeutic position, 10-yr stability
+- [[occlusion/utz-2026-neuromuscular-position-tmj-condyle-dentate]] — the neuromuscular/myocentric candidate tested and rejected: a third position distinct from both MIP and CR (0.88 / 0.83 mm), with reproducibility ranging to 2.53 mm and separations to 5.98/7.89 mm; n=81, four operators
 - [[occlusion/yu-2024-clinical-decision-centric-relation-dentate]] — fourth stance: restrict CR to "little controversy" situations via a decision tree; opens the orthodontic axis (branches not retrievable)
 - [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — digital vs paper contact detection concordance
 
