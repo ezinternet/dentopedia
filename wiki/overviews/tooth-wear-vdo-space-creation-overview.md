@@ -27,6 +27,8 @@ relations:
     target: occlusal-veneer-tooth-wear-erosion-overview
   - type: applies-to
     target: cr-co-micp-reference-position-debate
+  - type: refines
+    target: wang-2024-tmj-ovd-elevation-occlusal-loss-rats
 ---
 
 ## 한국어 핵심요약
