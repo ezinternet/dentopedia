@@ -18,6 +18,8 @@ relations:
     target: goldstein-2022-centric-relation-needed-reference-position
   - type: refines
     target: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth
+  - type: extends
+    target: cr-co-micp-reference-position-debate
 ---
 
 abstract-only — full text not retrieved (International Journal of Prosthodontics, not open access)
