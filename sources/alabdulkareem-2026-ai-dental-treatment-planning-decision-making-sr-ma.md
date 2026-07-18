@@ -26,6 +26,12 @@ relations:
     target: abbott-2024-ai-platforms-dental-caries-detection
 ---
 
+## Why Ingested
+
+[[artificial-intelligence/ziaei-2025-ai-orthodontic-extraction-treatment-planning-sr-ma]] had shown AI's *decision* task (orthodontic extract/non-extract, sensitivity 0.70) performing distinctly worse than its *detection* task, but only within orthodontics — leaving open whether that gap is a domain quirk or a property of the field. This cross-specialty SR+MA was ingested to test exactly that, and it settles the question in the direction that matters clinically: pooled detection sensitivity 0.85 / specificity 0.94, yet **only 3 of its 27 studies assess a treatment-planning outcome at all** (GRADE: low), so a paper titled for treatment planning turns out to confirm the evidence gap rather than close it — the reading now carried by [[overviews/treatment-planning-decision-variability-overview]].
+
+It also refines the field-level picture in [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] by adding the first primary-study-level pooled diagnostic-accuracy estimate with GRADE certainty across specialties, where [[artificial-intelligence/alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry]] pooled at the review level and [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]] covered caries only.
+
 ## Three-line Summary
 
 Systematic review and meta-analysis (PROSPERO CRD420251240547; PRISMA 2020 + PRISMA-DTA; MEDLINE/Embase/Cochrane CENTRAL/Web of Science/Scopus to Dec 2025) of 27 studies (60,857 radiographic images; 15/27 poolable) evaluating artificial intelligence (AI) for dental diagnostic detection and, nominally, treatment-planning decision-making across specialties (caries, periodontal, periapical, tooth detection/numbering, restorative, structural anomalies).
