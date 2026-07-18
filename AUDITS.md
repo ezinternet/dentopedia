@@ -1,8 +1,8 @@
-# Daily Audit — 19 audits
+# Daily Audit — 20 audits
 
 > Split out of `CLAUDE.md` on 2026-07-17 to keep that file lean. `CLAUDE.md` keeps only the invariant (*signal, not gate*) and the entry-point command; the per-audit reference lives here. Open this file when adding/changing an audit or interpreting a log in `logs/`.
 
-A single entry-point runs all 19 audits and writes their logs to `logs/`:
+A single entry-point runs all 20 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
@@ -12,7 +12,7 @@ python3 scripts/daily-audit.py
 
 ---
 
-## The 19 audits — 3 classic + 1 rationale (errors block) + 15 signals
+## The 20 audits — 3 classic + 1 rationale (errors block) + 16 signals
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -30,6 +30,7 @@ python3 scripts/daily-audit.py
 | `supersession-audit.py` | signal | `superseded_by` 깨진 링크 + 필드↔본문 배너 sync + decay 후보(sr+ma/sr/rct 중 5년↑ 미대체, 카테고리·중심성 집계) — living-document 갱신을 신호화 |
 | `relations-audit.py` | signal | `relations:` typed edge target 실존·vocab 검증 + 타입 분포 + typed-edge JSON export(Quartz/custom 렌더용). **+ `CIRCULAR reinforces`**(별도 집계, issues에 미합산): 파생문서가 자기 원료를 "독립 확인"한다는 주장 — overview→구성논문(C1)·논문→자기를 재료로 쓴 overview(C2). `reinforces`의 정의가 *독립적* 확인이므로 순환이다. 2026-07-17 실측 152건(=전체 reinforces의 13.3%), 30건 표본의 독립 추정(~115건)과 수렴. 신호일 뿐 — overview가 교차 독해로 구성논문을 한정하면 진짜 `refines`이고, 단순 재서술이면 엣지를 빼도 멤버십은 안 사라진다(대상 227/227이 본문 wikilink로도 존재) |
 | `link-integrity.py` | signal | 본문 `[[wikilink]]` 깨짐 + index.md 양방향 커버리지 (Astro-Han lint 개념 차용) |
+| `overview-catalogue-lint.py` | signal | 위 항목의 **좁은 짝**: 각 overview가 index.md에 자기 `- [[overviews/x]]` **카탈로그 목록 항목**을 갖는가 = 목록을 훑는 독자에게 보이는가. link-integrity는 index.md 안 어디든 wikilink 한 번이면 커버리지로 세므로, **다른 항목 설명문에만 언급된 페이지는 통과시킨다** — 그 사각지대만 본다. 2026-07-18 실측 근거: `patient-consultation-communication-protocol`이 2026-06-03 생성 후 약 6주간 blockquote 언급만 있고 카탈로그 항목이 없었는데 link-integrity 로그 42개 어디에도 안 나타났다(설계상 정상). 동시점 관례는 242개 중 239개가 bullet 항목·blockquote-only는 그 1건뿐이라 규칙이 분명하다. dangling(항목→실존X)도 함께 검사 |
 | `interactive-staleness.py` | signal | 임상 interactive 도구의 `source_wiki` 근거가 도구보다 git상 최신이면 STALE(LLM 재작성 후보), 근거 경로 소실이면 BROKEN. meta/통계 도구는 제외(build-wiki-stats.py가 배포 때 재생성). 임상 수치 자동 재작성은 Rule #1 위배라 신호만 |
 | `find-contradiction-candidates.py` | signal | 본문에 명시적 충돌 표현(contradict/counterpoint/반박 등)이 있으나 그 쌍에 `relations:` 타입 엣지가 **(어떤 타입이든)** 없는 논쟁 레이더 백필 후보. Tier1(키워드에 가장 가까운 wikilink로 대상 지목)·Tier2(대상 불명/너무 멂/동일 줄 비최근접/soft). 기계가 충돌을 확정하지 않고 신호만 — LLM이 두 페이지 읽고 판단해 엣지를 단다. **type_hint를 그대로 엣지로 옮기지 말 것** — 2026-07-17 전수 검토에서 contradicts 계열 지목 122건 중 실제 contradicts는 1건이었다 |
 | `content-lint.py` | signal | frontmatter lint가 못 보는 **본문 내용 규칙**을 결정론으로 검사: (A) 이중언어 세줄요약 쌍 + overview 한국어 핵심요약 콜아웃, (B) heading 태그 일관성, (C) wiki↔source cross-tier 정합(`source:` 실존·pmid 일치) |
