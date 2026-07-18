@@ -24,6 +24,12 @@ relations:
     target: alqedairi-2026-regenerative-endodontic-procedures-immature
 ---
 
+## Why Ingested
+
+[[overviews/treatment-planning-decision-variability-overview]] turns on whether tooth-preserving alternatives actually perform well enough to make an extraction "unnecessary" — a claim that rested on intentional-replantation figures from [[endodontics/zhang-2025-intentional-replantation-periapical-periodontitis-prognosis-sr-ma]] with no autotransplantation counterpart in the wiki. This SR+MA supplies that missing pooled number (survival 95%, success 92%, 1,473 mature teeth) **and the caveat that keeps it honest**: it is a single-arm synthesis that never compares autotransplantation to implants, so it cannot rank the options it is being used to weigh.
+
+Its secondary finding refines the endodontic timing question in a way no held paper covered — RCT timing does not move survival or success, but postoperative prophylactic RCT shows the lowest root resorption (11% vs 40%/40%, P=0.09). Scope is closed-apex only, which is why it does not transfer to [[endodontics/regenerative/alqedairi-2026-regenerative-endodontic-procedures-immature]], and it extends the PDL-viability logic of [[dental-trauma/debrier-2020-storage-avulsed-tooth-prior]] from avulsion storage to elective transplantation.
+
 ## Three-line Summary
 
 PRISMA systematic review and meta-analysis (24 studies, 1967–2025, 11 countries, 1,473 autotransplanted teeth with complete root formation; no RCTs — 12 prospective and 12 retrospective cohorts) pooling survival, success, and root resorption rates overall and across three root canal treatment (RCT) timing strategies: postoperative prophylactic (15 studies, 879 teeth), intraoperative immediate (3 studies, 129 teeth), and clinical observation-based (7 studies, 434 teeth).
