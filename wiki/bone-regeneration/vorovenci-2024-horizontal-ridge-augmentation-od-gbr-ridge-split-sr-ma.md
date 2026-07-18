@@ -25,6 +25,8 @@ relations:
   - type: extends
     target: simion-1992-jawbone-enlargement-split-crest-gtr
   - type: extends
+    target: bone-regeneration-protocol-ladder
+  - type: extends
     target: enislidis-2006-staged-ridge-splitting-implant-mandible
   - type: extends
     target: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective
