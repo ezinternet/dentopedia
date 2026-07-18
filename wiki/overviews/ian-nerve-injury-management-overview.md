@@ -10,11 +10,9 @@ evidence_level: synthesis
 source_collection: internal
 tags: [ian-injury, lingual-nerve, nerve-injury, paresthesia, hypoesthesia, photobiomodulation, pbm, dexamethasone, vitamin-b12, methylcobalamin, ginkgo-biloba, dental-pulp-stem-cells, dpsc, sensory-stimulation, implant, third-molar, oral-surgery, nerve-regeneration, overview]
 relations:
-  - type: reinforces
-    target: reus-2024-neuropathic-injury-dental-implant-prevalence-sr
   - type: extends
     target: keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr
-  - type: reinforces
+  - type: extends
     target: misch-2010-mandibular-nerve-neurosensory-implant-management
   - type: extends
     target: zheng-2025-dental-pulp-stem-cells-alleviate

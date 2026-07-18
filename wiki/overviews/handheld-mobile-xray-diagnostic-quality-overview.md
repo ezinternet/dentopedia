@@ -10,9 +10,9 @@ evidence_level: synthesis
 source_collection: internal
 tags: [radiology, handheld-xray, mobile-radiology, nursing-home, image-quality, domiciliary-care]
 relations:
-  - type: reinforces
+  - type: refines
     target: geibel-2025-mobile-handheld-radiography-quality-nursing-home
-  - type: reinforces
+  - type: applies-to
     target: ruiz-2025-handheld-fixed-xray-image-quality-comparison
 ---
 

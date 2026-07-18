@@ -13,9 +13,6 @@ pmid: "19032571"
 source_url: https://pubmed.ncbi.nlm.nih.gov/19032571/
 text_path: /Users/oracleneo/llm-wiki/papers/manser-2009-teamwork-patient-safety-dynamic-healthcare.txt
 text_filename: manser-2009-teamwork-patient-safety-dynamic-healthcare.txt
-relations:
-  - type: reinforces
-    target: dental-workforce-delegation-skill-mix-overview
 tags: []
 ---
 

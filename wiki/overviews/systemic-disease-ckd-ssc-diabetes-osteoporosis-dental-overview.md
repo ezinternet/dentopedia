@@ -10,12 +10,8 @@ evidence_level: synthesis
 source_collection: internal
 tags: [systemic-disease, ckd, diabetes, osteoporosis, systemic-sclerosis, implants, oral-manifestations]
 relations:
-  - type: reinforces
-    target: elhusseiny-2024-oral-health-children-chronic
-  - type: reinforces
+  - type: applies-to
     target: guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review
-  - type: reinforces
-    target: sharma-2024-orofacial-complications-systemic-sclerosis
   - type: extends
     target: he-2023-demystifying-connection-between-periodontal
 ---

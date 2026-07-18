@@ -10,13 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [sinus-lift, lateral-window, accessory-ostium, septa, membrane-perforation, odontogenic-sinusitis]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: kashi-2023-accessory-maxillary-ostium-sinusitis-cbct
-  - type: reinforces
+  - type: refines
     target: kato-2021-sinus-mucosa-ostium-involvement-septa
-  - type: reinforces
-    target: lim-2011-sinus-membrane-perforation-techniques-review
-  - type: reinforces
+  - type: refines
     target: ohyama-2022-novel-management-severe-odontogenic-maxillary
 ---
 

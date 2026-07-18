@@ -11,7 +11,7 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
 relations:
-  - type: reinforces
+  - type: refines
     target: alqutaibi-2026-root-analog-dental-implants
   - type: contradicts
     target: bose-2023-root-analogue-implants-orthodontic-extrusion

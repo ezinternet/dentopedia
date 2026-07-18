@@ -12,9 +12,7 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-modes, prf, calcium-sulphate, ridge-split, peri-implantitis, overview]
 relations:
-  - type: reinforces
-    target: araujo-2009-ridge-alterations-flap-vs-flapless
-  - type: reinforces
+  - type: extends
     target: adams-2022-clinical-evidence-alveolar-ridge-preservation
 ---
 

@@ -16,7 +16,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/schmutz-2019-teamwork-performance-he
 text_filename: schmutz-2019-teamwork-performance-healthcare-sr-ma.txt
 tags: []
 relations:
-  - type: reinforces
+  - type: applies-to
     target: dental-workforce-delegation-skill-mix-overview
 ---
 

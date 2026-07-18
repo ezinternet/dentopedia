@@ -30,7 +30,7 @@ source_papers:
   - wiki/resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct.md
 tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective-enamel-etching, occlusion, overview]
 relations:
-  - type: reinforces
+  - type: refines
     target: dioguardi-2024-abfraction-theory-controversy-scoping-review
 ---
 

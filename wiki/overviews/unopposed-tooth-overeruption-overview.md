@@ -14,25 +14,23 @@ tags: [overeruption, supraeruption, unopposed-tooth, antagonist, occlusion, toot
 relations:
   - type: extends
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
-  - type: reinforces
+  - type: refines
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
-  - type: reinforces
+  - type: refines
     target: craddock-2004-incidence-overeruption-occlusal-interferences-unopposed
-  - type: reinforces
+  - type: applies-to
     target: kiliaridis-2000-vertical-position-rotation-tipping-molars
-  - type: reinforces
+  - type: refines
     target: christou-2007-three-dimensional-changes-unopposed-molars-adults
-  - type: reinforces
+  - type: refines
     target: lindskog-stokland-2012-changes-molar-position-missing-opposed
-  - type: reinforces
+  - type: refines
     target: craddock-2007-overeruption-posterior-teeth-partial-occlusal
-  - type: reinforces
-    target: craddock-2006-deviation-broadrick-occlusal-curve-posterior
-  - type: reinforces
+  - type: applies-to
     target: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade
-  - type: reinforces
+  - type: extends
     target: fujita-2009-supraposition-unopposed-molars-young-adult-rats
-  - type: reinforces
+  - type: extends
     target: fujita-2010-overeruption-periodontally-affected-unopposed-rats
 ---
 

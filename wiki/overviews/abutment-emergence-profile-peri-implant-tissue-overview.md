@@ -27,7 +27,7 @@ source_papers:
 relations:
   - type: extends
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
-  - type: reinforces
+  - type: refines
     target: siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct
   - type: contradicts
     target: rios-santos-2020-one-abutment-one-time-rct
@@ -43,7 +43,7 @@ relations:
     target: munoz-2025-1mm-3mm-abutments-7year-rct
   - type: extends
     target: seijas-naya-2025-concave-straight-abutment-bone-rct
-  - type: reinforces
+  - type: refines
     target: canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma
 ---
 

@@ -12,9 +12,9 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [implants, tissue-level, bone-level, marginal-bone-loss, peri-implantitis, soft-tissue, overview]
 relations:
-  - type: reinforces
+  - type: refines
     target: atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma
-  - type: reinforces
+  - type: refines
     target: cosola-2020-bone-tissue-level-radiological-sr
 ---
 

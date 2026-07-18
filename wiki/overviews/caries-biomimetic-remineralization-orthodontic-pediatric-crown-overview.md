@@ -10,13 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [caries, remineralization, hydroxyapatite, orthodontics, clear-aligner, zirconia-crown, pediatric]
 relations:
-  - type: reinforces
-    target: butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization
-  - type: reinforces
+  - type: refines
     target: hamdi-2024-orthodontic-adhesives-enamel-remineralization
-  - type: reinforces
+  - type: refines
     target: unal-2025-clear-aligner-attachment-remineralization-diagnodent
-  - type: reinforces
+  - type: applies-to
     target: chen-2026-zirconia-strip-crowns-primary-anterior-teeth-sr-ma
 ---
 

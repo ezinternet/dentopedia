@@ -25,7 +25,7 @@ relations:
     target: tmd-management-evidence-ladder
   - type: reinforces
     target: conservative-physical-therapy-myofascial-tmd-ladder
-  - type: reinforces
+  - type: refines
     target: jiang-2024-orofacial-pain-sleep-biobank
 ---
 

@@ -32,7 +32,7 @@ relations:
     target: issa-2026-bone-biology-aging-periodontal-peri-implant-tissues
   - type: extends
     target: rosa-2024-do-dental-implants-bone-types
-  - type: reinforces
+  - type: refines
     target: raghavan-2025-bone-density-implant-dentistry-review
   - type: reinforces
     target: khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review

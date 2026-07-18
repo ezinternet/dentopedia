@@ -12,7 +12,7 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [ceramic-bonding, hf-etching, silane, contamination, resin-cement, lithium-disilicate, feldspathic, overview]
 relations:
-  - type: reinforces
+  - type: refines
     target: alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr
 ---
 

@@ -11,7 +11,7 @@ source_papers:
   - wiki/implants/shetty-2026-titanium-vs-zirconia-implants-umbrella.md
 tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: mohseni-2024-clinical-outcomes-zirconia-implants
   - type: contradicts
     target: shetty-2026-titanium-vs-zirconia-implants-umbrella

@@ -15,9 +15,6 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9374977/
 text_path: /Users/oracleneo/llm-wiki/papers/prasad-2012-sms-reminder-dental-attendance-rct.txt
 text_filename: prasad-2012-sms-reminder-dental-attendance-rct.txt
 tags: [appointment-attendance, no-show, sms-reminder, practice-management]
-relations:
-  - type: reinforces
-    target: dental-appointment-no-show-overview
 ---
 
 ## Three-line Summary

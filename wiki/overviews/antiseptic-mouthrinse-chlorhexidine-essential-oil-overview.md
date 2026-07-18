@@ -14,7 +14,7 @@ tags: [chlorhexidine, essential-oil, listerine, mouthrinse, mouthwash, gingiviti
 relations:
   - type: extends
     target: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis
-  - type: reinforces
+  - type: refines
     target: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival
 ---
 

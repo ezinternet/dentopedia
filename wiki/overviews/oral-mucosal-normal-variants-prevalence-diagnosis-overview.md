@@ -10,11 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [oral-medicine, normal-variants, fordyce, linea-alba, morsicatio, frictional-keratosis, dermoscopy, torus, exostosis, mronj]
 relations:
-  - type: reinforces
+  - type: refines
     target: baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy
-  - type: reinforces
+  - type: refines
     target: gupta-2023-prevalence-distribution-oral-mucosal-nepal
-  - type: reinforces
+  - type: refines
     target: nautiyal-2024-prevalence-keratosis-oral-cavity
   - type: extends
     target: disha-2024-oral-tori-adult-albanian-population

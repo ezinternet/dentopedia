@@ -15,9 +15,6 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6950792/
 text_path: /Users/oracleneo/llm-wiki/papers/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.txt
 text_filename: buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.txt
 tags: []
-relations:
-  - type: reinforces
-    target: dental-workforce-delegation-skill-mix-overview
 ---
 
 ## Three-line Summary

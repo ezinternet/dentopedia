@@ -23,7 +23,7 @@ source_papers:
 relations:
   - type: extends
     target: tallon-2024-vitamin-d-osseointegration-umbrella-review
-  - type: reinforces
+  - type: refines
     target: miron-2025-vitamin-d-deficiency-early-implant-failure
   - type: contradicts
     target: francis-2024-low-serum-vitamin-d-early-implant-failure

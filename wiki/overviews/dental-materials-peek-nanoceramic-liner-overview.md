@@ -10,11 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [dental-materials, peek, nanoceramic, cad-cam, 3d-printing, cavity-liner, composite]
 relations:
-  - type: reinforces
+  - type: extends
     target: mukaibo-2026-peek-plasma-mma-luting-bond-strength
-  - type: reinforces
+  - type: refines
     target: omar-2026-marginal-gap-additive-subtractive-nanoceramic
-  - type: reinforces
+  - type: refines
     target: schenkel-2019-dental-cavity-liners-composite-restorations-sr
 ---
 

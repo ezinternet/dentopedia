@@ -22,7 +22,7 @@ relations:
     target: de-la-rosa-gay-2025-expansion-predictability-clear-aligner
   - type: refines
     target: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma
-  - type: reinforces
+  - type: refines
     target: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr
   - type: refines
     target: thakur-2026-probiotics-clear-aligner-biofilm-rct

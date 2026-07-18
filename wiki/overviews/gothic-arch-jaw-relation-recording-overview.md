@@ -12,8 +12,6 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [gothic-arch, arrow-point-tracing, centric-relation, jaw-relation, condylar-guidance, bimanual, chin-point, swallowing, deglutition, tongue-elevation, nick-and-notch, complete-denture, occlusion, digital-tracer, jaw-motion-tracking, overview]
 relations:
-  - type: reinforces
-    target: kwak-2024-masticatory-positioning-occlusal-stability-full-mouth
   - type: extends
     target: complete-denture-ovd-determination-overview
 ---

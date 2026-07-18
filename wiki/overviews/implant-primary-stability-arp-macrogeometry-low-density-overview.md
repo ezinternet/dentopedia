@@ -10,9 +10,9 @@ evidence_level: synthesis
 source_collection: internal
 tags: [implants, isq, primary-stability, arp, bone-density, macrogeometry, insertion-torque]
 relations:
-  - type: reinforces
+  - type: refines
     target: ko-2024-arp-implant-vertical-positioning-isq
-  - type: reinforces
+  - type: refines
     target: ayub-2025-implant-macro-geometry-primary-stability-low-density
 ---
 

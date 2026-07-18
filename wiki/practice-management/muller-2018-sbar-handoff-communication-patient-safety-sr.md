@@ -14,9 +14,6 @@ pmcid: "PMC6112409"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6112409/
 text_path: /Users/oracleneo/llm-wiki/papers/muller-2018-sbar-handoff-communication-patient-safety-sr.txt
 text_filename: muller-2018-sbar-handoff-communication-patient-safety-sr.txt
-relations:
-  - type: reinforces
-    target: dental-workforce-delegation-skill-mix-overview
 tags: []
 ---
 

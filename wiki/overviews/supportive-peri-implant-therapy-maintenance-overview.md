@@ -19,9 +19,9 @@ source_papers:
 relations:
   - type: extends
     target: mojaver-2025-supportive-peri-implant-therapy-efficacy-sr
-  - type: reinforces
+  - type: refines
     target: ramseier-2024-diagnostic-measures-monitoring-follow-up
-  - type: reinforces
+  - type: refines
     target: lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care
 ---
 

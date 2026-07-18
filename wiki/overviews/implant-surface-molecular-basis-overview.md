@@ -12,9 +12,9 @@ tags: [implants, surface-treatment, osseointegration, roughness, cxcr4, sdf1, mo
 relations:
   - type: extends
     target: implant-surface-comparison
-  - type: reinforces
+  - type: refines
     target: koshy-2015-dental-implant-surfaces-overview
-  - type: reinforces
+  - type: refines
     target: ballo-2011-dental-implant-surfaces-physicochemical-biological
 ---
 

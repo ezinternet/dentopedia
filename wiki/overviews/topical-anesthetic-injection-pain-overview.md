@@ -14,7 +14,7 @@ source_papers:
   - wiki/local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb.md
 tags: [local-anesthesia, topical-anesthetic, injection-pain, needle-pain, benzocaine, lidocaine, emla, pediatric, overview]
 relations:
-  - type: reinforces
+  - type: refines
     target: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb
 ---
 

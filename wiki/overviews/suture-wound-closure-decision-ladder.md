@@ -10,7 +10,7 @@ source_papers:
 evidence_level: synthesis
 source: synthesis
 relations:
-  - type: reinforces
+  - type: refines
     target: kumar-2022-suture-versus-sutureless-third-molar-impactions
 ---
 

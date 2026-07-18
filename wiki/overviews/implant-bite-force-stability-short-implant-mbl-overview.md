@@ -10,9 +10,7 @@ evidence_level: synthesis
 source_collection: internal
 tags: [implants, bite-force, isq, marginal-bone-loss, short-implant, crown-implant-ratio, loading]
 relations:
-  - type: reinforces
-    target: mohammed-2026-bite-force-implant-stability
-  - type: reinforces
+  - type: refines
     target: lee-2009-marginal-bone-single-short-implant
 ---
 

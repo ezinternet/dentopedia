@@ -16,11 +16,11 @@ relations:
     target: liu-2024-maxillary-immediate-molar-palatal-root-socket
   - type: extends
     target: yaghmai-2025-palatal-root-socket-all-on-x
-  - type: reinforces
+  - type: applies-to
     target: yuan-2018-biomechanics-immediate-postextraction-osseointegration
-  - type: reinforces
+  - type: refines
     target: matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct
-  - type: reinforces
+  - type: extends
     target: deporter-2021-cbct-immediate-maxillary-molar-implant
 ---
 

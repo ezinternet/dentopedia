@@ -6,9 +6,9 @@ evidence_level: synthesis
 source_collection: synthesis
 tags: [diabetes, HbA1c, immediate-implant, immediate-loading, maxilla, peri-implantitis, decision]
 relations:
-  - type: reinforces
+  - type: refines
     target: andrade-2021-survival-rate-peri-implant-evaluation
-  - type: reinforces
+  - type: applies-to
     target: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
   - type: reinforces
     target: li-2026-safety-feasibility-immediate-implant-diabetic

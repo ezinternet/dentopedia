@@ -15,9 +15,9 @@ source_wiki:
   - wiki/periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.md
   - wiki/implants/kim-2009-blood-vessels-peri-implant-mucosa.md
 relations:
-  - type: reinforces
+  - type: refines
     target: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma
-  - type: reinforces
+  - type: extends
     target: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible
 ---
 

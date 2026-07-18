@@ -14,7 +14,7 @@ tags: [black-stain, EBS, caries, actinomyces, iron-sulfide, microbiome, gut-micr
 relations:
   - type: extends
     target: zyla-2015-black-stain-dental-caries-review
-  - type: reinforces
+  - type: extends
     target: mousa-2022-black-stain-caries-children-sr-ma
 ---
 

@@ -14,7 +14,7 @@ tags: [occlusion, implant-occlusion, occlusal-overload, occlusal-scheme, finite-
 relations:
   - type: extends
     target: bruxism-muscle-overload-axis
-  - type: reinforces
+  - type: refines
     target: stilwell-2024-occlusal-considerations-implant-maintenance
   - type: extends
     target: mojaver-2025-occlusal-overload-peri-implant-health-sr

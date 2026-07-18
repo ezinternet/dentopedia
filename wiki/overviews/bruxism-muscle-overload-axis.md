@@ -16,7 +16,7 @@ relations:
     target: btx-orofacial-applications-overview
   - type: extends
     target: tmd-management-evidence-ladder
-  - type: reinforces
+  - type: refines
     target: song-2021-implant-complications-bruxism-patients
   - type: applies-to
     target: stilwell-2024-occlusal-considerations-implant-maintenance

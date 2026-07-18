@@ -23,7 +23,7 @@ relations:
     target: abutment-emergence-profile-peri-implant-tissue-overview
   - type: reinforces
     target: zirconia-implant-clinical-outcomes
-  - type: reinforces
+  - type: refines
     target: bressan-2024-iao-consensus-peri-implant-soft-tissues
 ---
 

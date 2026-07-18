@@ -13,7 +13,7 @@ source_collection: internal
 relations:
   - type: extends
     target: giok-2024-risk-factors-peri-implantitis-umbrella
-  - type: reinforces
+  - type: refines
     target: tarce-2025-peri-implantitis-risk-assessment-pira-part1
 tags: [peri-implantitis, risk-assessment, risk-factors, pira, umbrella-review, periodontitis, smoking, diabetes, electronic-cigarettes, keratinized-mucosa, predictive-model, prevention, peri-implant-mucositis, patient-selection, informed-consent]
 ---

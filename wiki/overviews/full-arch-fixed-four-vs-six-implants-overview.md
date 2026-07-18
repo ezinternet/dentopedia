@@ -11,7 +11,7 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
 relations:
-  - type: reinforces
+  - type: refines
     target: toia-2025-fixed-full-arch-maxillary-prostheses
   - type: extends
     target: cabbarova-2026-all-on-four-six-framework-fea

@@ -23,7 +23,7 @@ relations:
     target: sinus-lift-anatomy-ostium-septa-perforation-oms-overview
   - type: reinforces
     target: odontogenic-maxillary-sinusitis-overview
-  - type: reinforces
+  - type: refines
     target: rodriguez-2019-long-term-risks-complications-bovine
 ---
 

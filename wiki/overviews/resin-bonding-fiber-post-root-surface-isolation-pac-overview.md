@@ -10,13 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [resin-bonding, fiber-post, root-caries, nccl, isolation, proanthocyanidin, 4-meta]
 relations:
-  - type: reinforces
-    target: el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure
-  - type: reinforces
+  - type: refines
     target: kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries
-  - type: reinforces
+  - type: refines
     target: loguercio-2015-isolation-method-operative-field-gingival
-  - type: reinforces
+  - type: refines
     target: neves-2026-ab-type-proanthocyanidin-primers-nano-dma
 ---
 

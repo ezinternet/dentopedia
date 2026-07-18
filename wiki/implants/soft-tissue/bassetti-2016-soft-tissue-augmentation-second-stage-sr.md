@@ -14,8 +14,6 @@ tags: []
 relations:
   - type: reinforces
     target: zhang-2025-expert-consensus-km-augmentation-second-stage
-  - type: reinforces
-    target: keratinized-mucosa-peri-implant-health-overview
   - type: refines
     target: sanz-2022-keratinized-mucosa-around-implants-consensus
 ---

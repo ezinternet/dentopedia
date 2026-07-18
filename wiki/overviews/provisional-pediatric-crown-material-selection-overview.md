@@ -10,11 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [provisional-crown, bis-acryl, pmma, pediatric-crown, ssc, zirconia, primary-teeth]
 relations:
-  - type: reinforces
+  - type: refines
     target: givens-2007-marginal-adaptation-color-stability-provisional
-  - type: reinforces
+  - type: refines
     target: sokhal-2025-surface-hardness-bis-acryl-pmma-provisional
-  - type: reinforces
+  - type: refines
     target: lampl-2025-crown-failures-primary-teeth-sr-ma
 ---
 

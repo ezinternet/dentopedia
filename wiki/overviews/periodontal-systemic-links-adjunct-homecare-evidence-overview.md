@@ -22,7 +22,7 @@ relations:
     target: periodontal-host-modulation-nutraceutical-adjuncts-overview
   - type: reinforces
     target: periodontal-adjunctive-therapy-probiotics-pdt-overview
-  - type: reinforces
+  - type: applies-to
     target: botelho-2022-umbrella-review-oral-systemic
 ---
 

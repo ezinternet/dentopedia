@@ -11,9 +11,6 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/althobaiti-2023-osseodensification-co
 pdf_filename: althobaiti-2023-osseodensification-conventional-drilling-isq-sr.pdf
 source_collection: external
 tags: [osseodensification, ISQ, RFA, bone-density, primary-stability, osteotomy, SR]
-relations:
-  - type: reinforces
-    target: osseodensification-clinical-applications
 ---
 
 ## Three-line Summary

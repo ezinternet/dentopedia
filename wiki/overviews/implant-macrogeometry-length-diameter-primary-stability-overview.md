@@ -23,11 +23,11 @@ source_wiki:
 relations:
   - type: extends
     target: implants-isq-stability-ladder
-  - type: reinforces
+  - type: refines
     target: huang-2016-influencing-factors-implant-stability-quotient
-  - type: reinforces
+  - type: refines
     target: gomez-polo-2016-length-diameter-bone-quality-stability
-  - type: reinforces
+  - type: refines
     target: barikani-2013-implant-length-diameter-primary-stability
 ---
 

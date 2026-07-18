@@ -13,7 +13,7 @@ source_papers:
   - wiki/tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review.md
 tags: [overview, occlusion, alveolar-bone, bone-density, unilateral-mastication, chewing-side-preference, disuse-osteoporosis, hounsfield-unit]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication
 ---
 

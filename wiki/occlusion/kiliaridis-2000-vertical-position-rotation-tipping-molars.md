@@ -17,8 +17,6 @@ relations:
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
   - type: reinforces
     target: craddock-2007-overeruption-posterior-teeth-partial-occlusal
-  - type: reinforces
-    target: unopposed-tooth-overeruption-overview
 ---
 
 ## Three-line Summary

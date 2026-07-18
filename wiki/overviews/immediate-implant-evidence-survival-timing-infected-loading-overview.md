@@ -25,9 +25,9 @@ relations:
     target: implant-placement-timing-immediate-early-delayed
   - type: extends
     target: immediate-implant-infected-sites-decision
-  - type: reinforces
+  - type: refines
     target: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma
-  - type: reinforces
+  - type: refines
     target: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
 ---
 

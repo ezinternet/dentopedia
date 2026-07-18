@@ -12,9 +12,9 @@ tags: [endodontics, regenerative-endodontics, rep, scaffold, mta, bioceramic, im
 relations:
   - type: extends
     target: regenerative-endodontics-rep-overview
-  - type: reinforces
+  - type: refines
     target: alqedairi-2026-regenerative-endodontic-procedures-immature
-  - type: reinforces
+  - type: applies-to
     target: li-2026-white-mta-regenerative-apexification-immature
 ---
 

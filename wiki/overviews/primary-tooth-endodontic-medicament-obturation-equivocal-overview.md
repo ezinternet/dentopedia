@@ -10,11 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [endodontics, primary-teeth, pulpectomy, pulpotomy, calcium-hydroxide, zoe, intracanal-medicament]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: hasan-2026-rgdent-chx-caoh2-efaecalis-invitro
-  - type: reinforces
+  - type: refines
     target: najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma
-  - type: reinforces
+  - type: refines
     target: xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars
 ---
 

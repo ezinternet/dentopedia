@@ -10,11 +10,9 @@ evidence_level: synthesis
 source_collection: internal
 tags: [geriatric, grip-strength, frailty, presbygeusia, mortality, taste]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer
-  - type: reinforces
-    target: leong-2015-prognostic-value-grip-strength-pure
-  - type: reinforces
+  - type: applies-to
     target: ponzo-2024-presbygeusia-narrative-review
 ---
 

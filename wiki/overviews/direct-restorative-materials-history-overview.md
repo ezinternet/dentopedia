@@ -10,10 +10,8 @@ tags: [history, direct-restorative, amalgam, composite-resin, glass-ionomer, bis
 relations:
   - type: extends
     target: ferracane-2024-historical-perspective-dental-composite-restorative
-  - type: reinforces
+  - type: refines
     target: ge-2024-gic-clinical-application-restorative-preventive
-  - type: reinforces
-    target: breschi-2025-adhesive-dentistry-evolution-review
 ---
 
 > [!summary] 한국어 핵심요약

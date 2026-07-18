@@ -12,7 +12,7 @@ pdf_filename: N/A
 source_collection: internal
 tags: [mandibular-canal, bifid-mandibular-canal, trifid-mandibular-canal, nutrient-canal, retromolar-canal, accessory-canal, cbct, panoramic-radiograph, mri, inferior-alveolar-nerve, ianb, nerve-injury, hypertension, diabetes, imaging-modality, anatomical-variant, pre-surgical-planning]
 relations:
-  - type: reinforces
+  - type: refines
     target: abdar-esfahani-2013-mandibular-anterior-nutrient-canals
 ---
 

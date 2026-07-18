@@ -25,7 +25,7 @@ relations:
     target: cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma
   - type: extends
     target: scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma
-  - type: reinforces
+  - type: refines
     target: barausse-2024-4mm-short-implants-posterior-atrophic-8year
   - type: refines
     target: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma

@@ -16,8 +16,6 @@ text_path: /Users/oracleneo/llm-wiki/papers/gupta-2023-prevalence-distribution-o
 text_filename: gupta-2023-prevalence-distribution-oral-mucosal-nepal.txt
 tags: [fordyce-granules, linea-alba, normal-variant, oral-mucosal-lesions, epidemiology]
 relations:
-  - type: reinforces
-    target: oral-mucosal-normal-variants-prevalence-diagnosis-overview
   - type: extends
     target: baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy
 ---

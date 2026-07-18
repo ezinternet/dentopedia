@@ -10,11 +10,11 @@ evidence_level: synthesis
 source_collection: internal
 tags: [oral-surgery, dry-socket, alveolar-osteitis, chlorhexidine, saline-irrigation, nerve-injury, orthognathic, lllt]
 relations:
-  - type: reinforces
+  - type: applies-to
     target: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third
-  - type: reinforces
+  - type: applies-to
     target: shandilya-2025-saline-irrigation-oral-cancer-surgery
-  - type: reinforces
+  - type: refines
     target: yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment
 ---
 
