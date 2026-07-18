@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2021-universal-adhesive-etching-
 pdf_filename: hong-2021-universal-adhesive-etching-modes-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: doshi-2023-universal-adhesive-nccl-strategy-sr-ma
 ---
 
 ## Three-line Summary

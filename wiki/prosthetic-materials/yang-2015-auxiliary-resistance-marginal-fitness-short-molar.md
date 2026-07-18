@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2015-auxiliary-resistance-margin
 pdf_filename: yang-2015-auxiliary-resistance-marginal-fitness-short-molar.pdf
 source_collection: external
 tags: [auxiliary-resistance-form, groove, occlusal-hole, short-molar, marginal-float, resistance-fit-tradeoff, chinese-journal, shandong]
+relations:
+  - type: refines
+    target: roudsari-2011-auxiliary-features-resistance-short-molars-invitro
 ---
 
 ## Three-line Summary

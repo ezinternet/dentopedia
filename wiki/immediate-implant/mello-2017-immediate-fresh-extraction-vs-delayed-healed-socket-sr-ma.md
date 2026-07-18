@@ -21,6 +21,8 @@ relations:
     target: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
   - type: contradicts
     target: esposito-2010-fresh-extraction-sockets-immediate-cochrane
+  - type: contradicts
+    target: pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma
 ---
 
 ## Three-line Summary

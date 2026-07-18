@@ -17,6 +17,8 @@ tags: [cracked-tooth, full-crown, porcelain-inlay, post-endodontic-restoration, 
 relations:
   - type: reinforces
     target: zhang-2024-cracked-teeth-treatment-outcomes-sr-ma
+  - type: contradicts
+    target: ferracane-2023-cracked-tooth-registry-3year-network
 ---
 
 ## Three-line Summary

@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/sen-2024-sutureless-multiple-suture-t
 pdf_filename: sen-2024-sutureless-multiple-suture-third-molar-inflammation.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: takadoum-2022-sutureless-socket-technique-third-molars
 ---
 
 ## Three-line Summary

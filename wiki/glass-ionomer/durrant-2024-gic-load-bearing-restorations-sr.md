@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/durrant-2024-gic-load-bearing-restora
 pdf_filename: durrant-2024-gic-load-bearing-restorations-sr.pdf
 source_collection: external
 tags: [gic, load-bearing, class-i, class-ii, rct, systematic-review]
+relations:
+  - type: refines
+    target: gizani-2026-restorative-mih-primary-permanent-molars-sr
 ---
 
 ## Three-line Summary

@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/kumar-2022-suture-versus-sutureless-t
 pdf_filename: kumar-2022-suture-versus-sutureless-third-molar-impactions.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: takadoum-2022-sutureless-socket-technique-third-molars
 ---
 
 ## Three-line Summary

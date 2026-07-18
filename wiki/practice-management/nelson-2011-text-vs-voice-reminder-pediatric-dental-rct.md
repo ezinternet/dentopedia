@@ -17,6 +17,8 @@ tags: []
 relations:
   - type: refines
     target: dental-appointment-no-show-overview
+  - type: refines
+    target: prasad-2012-sms-reminder-dental-attendance-rct
 ---
 
 ## Three-line Summary

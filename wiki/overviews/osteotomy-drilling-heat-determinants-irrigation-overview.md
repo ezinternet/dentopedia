@@ -39,6 +39,8 @@ relations:
     target: rugova-2024-thermal-evaluation-bone-drilling-sequential
   - type: contradicts
     target: stubinger-2015-piezosurgery-implant-dentistry
+  - type: refines
+    target: chauhan-2018-biomechanical-factors-heat-generation-osteotomy
 ---
 
 > [!summary] 한국어 핵심요약

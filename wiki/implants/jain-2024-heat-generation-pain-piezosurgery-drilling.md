@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/jain-2024-heat-generation-pain-piezos
 pdf_filename: jain-2024-heat-generation-pain-piezosurgery-drilling.pdf
 source_collection: external
 tags: [piezosurgery, conventional-drilling, heat-generation, postoperative-pain, VAS, systematic-review]
+relations:
+  - type: contradicts
+    target: stubinger-2015-piezosurgery-implant-dentistry
 ---
 
 ## Three-line Summary

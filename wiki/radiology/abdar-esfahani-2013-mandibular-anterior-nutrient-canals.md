@@ -17,6 +17,10 @@ text_filename: abdar-esfahani-2013-mandibular-anterior-nutrient-canals.txt
 relations:
   - type: contradicts
     target: kumar-2014-incidence-nutrient-canals-hypertensive
+  - type: contradicts
+    target: kaur-2019-evaluation-mandibular-anterior-nutrient
+  - type: contradicts
+    target: hasan-2022-prevalence-nutrient-canals-mandibular
 tags: [nutrient-canal, periapical-radiograph, mandibular-anterior, hypertension, anatomical-landmark]
 ---
 

@@ -17,6 +17,8 @@ tags: [vitamin-d, early-implant-failure, negative-result, serum-25OHD, cohort]
 relations:
   - type: contradicts
     target: mohsen-2024-vitamin-d-deficiency-osseointegration-prospective
+  - type: refines
+    target: miron-2025-vitamin-d-deficiency-early-implant-failure
 ---
 
 ## Three-line Summary

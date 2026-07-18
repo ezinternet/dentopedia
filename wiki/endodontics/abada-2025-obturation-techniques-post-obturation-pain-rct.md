@@ -17,6 +17,8 @@ tags: [bioceramic-sealer, obturation-technique, post-obturation-pain, sealer-ext
 relations:
   - type: reinforces
     target: shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment
+  - type: refines
+    target: song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct
 ---
 
 ## Three-line Summary

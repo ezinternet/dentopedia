@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/aquilanti-2023-heat-generation-initia
 pdf_filename: aquilanti-2023-heat-generation-initial-osteotomy.pdf
 source_collection: external
 tags: [piezo-surgery, rotary-drill, initial-osteotomy, heat-generation, irrigation-temperature, in-vitro]
+relations:
+  - type: contradicts
+    target: stubinger-2015-piezosurgery-implant-dentistry
 ---
 
 ## Three-line Summary

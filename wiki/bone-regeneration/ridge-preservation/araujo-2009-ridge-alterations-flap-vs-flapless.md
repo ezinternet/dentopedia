@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2009-ridge-alterations-flap-vs
 pdf_filename: araujo-2009-ridge-alterations-flap-vs-flapless.pdf
 source_collection: external
 tags: [animal-study, dog, flapless-extraction, ridge-resorption, split-mouth]
+relations:
+  - type: reinforces
+    target: lee-2018-flap-management-alveolar-ridge-preservation
 ---
 
 ## Three-line Summary

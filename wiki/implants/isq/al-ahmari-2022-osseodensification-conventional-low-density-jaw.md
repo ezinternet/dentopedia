@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/al-ahmari-2022-osseodensification-con
 pdf_filename: al-ahmari-2022-osseodensification-conventional-low-density-jaw.pdf
 source_collection: external
 tags: [implants, isq, osseodensification, low-density-bone, split-mouth]
+relations:
+  - type: refines
+    target: althobaiti-2023-osseodensification-conventional-drilling-isq-sr
 ---
 
 ## Three-line Summary

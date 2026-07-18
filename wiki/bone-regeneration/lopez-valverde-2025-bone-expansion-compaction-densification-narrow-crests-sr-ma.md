@@ -22,6 +22,8 @@ relations:
     target: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
   - type: extends
     target: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome
+  - type: contradicts
+    target: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma
 ---
 
 ## Three-line Summary

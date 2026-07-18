@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/pachipulusu-2018-primary-secondary-cl
 pdf_filename: pachipulusu-2018-primary-secondary-closure-third-molar.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: takadoum-2022-sutureless-socket-technique-third-molars
 ---
 
 ## Three-line Summary

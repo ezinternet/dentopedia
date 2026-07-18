@@ -14,6 +14,8 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 relations:
   - type: extends
     target: adams-2022-clinical-evidence-alveolar-ridge-preservation
+  - type: refines
+    target: bone-regeneration-protocol-ladder
 ---
 
 ## 한국어 핵심요약

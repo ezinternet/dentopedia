@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/alghauli-2025-clinical-benefits-immed
 pdf_filename: alghauli-2025-clinical-benefits-immediate-dentin-sealing.pdf
 source_collection: external
 tags: [ids, indirect-restoration, clinical-outcome, survival, postoperative-sensitivity, sr-ma]
+relations:
+  - type: contradicts
+    target: josic-2022-ids-postoperative-sensitivity-sr-ma
 ---
 
 ## Three-line Summary

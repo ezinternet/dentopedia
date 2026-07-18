@@ -18,6 +18,8 @@ tags: []
 relations:
   - type: refines
     target: scheerman-2024-systematic-umbrella-review-effects-teledentistry
+  - type: refines
+    target: lee-2024-teledentistry-utilisation-australia-sr-ma
 ---
 
 > [!note] DOI not indexed in PubMed; cite PMID 38661760. J Health Care Poor Underserved 2023;34(4):1353–1365.
