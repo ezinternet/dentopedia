@@ -14,7 +14,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/seijas-naya-2025-concave-straight-ab
 text_filename: seijas-naya-2025-concave-straight-abutment-bone-rct.txt
 tags: [abutment-shape, abutment-height, concave-abutment, marginal-bone-loss, bone-remodeling, rct]
 relations:
-  - type: reinforces
+  - type: refines
     target: abutment-emergence-profile-peri-implant-tissue-overview
 ---
 

@@ -32,7 +32,7 @@ source_papers:
 evidence_level: synthesis
 source: synthesis
 relations:
-  - type: reinforces
+  - type: extends
     target: maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---

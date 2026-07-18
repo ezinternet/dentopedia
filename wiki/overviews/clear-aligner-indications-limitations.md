@@ -18,7 +18,7 @@ relations:
     target: kim-2026-efficacy-and-stability-of
   - type: extends
     target: fonseca-planells-2026-clear-aligner-maxillary-expansion-growing
-  - type: reinforces
+  - type: extends
     target: de-la-rosa-gay-2025-expansion-predictability-clear-aligner
   - type: refines
     target: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma

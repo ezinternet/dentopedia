@@ -14,13 +14,13 @@ tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, 
 relations:
   - type: reinforces
     target: pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma
-  - type: reinforces
+  - type: extends
     target: sapkota-2024-oral-leukoplakia-recurrence-malignant
   - type: extends
     target: warnakulasuriya-2025-oral-lichen-planus-systemic-diseases
   - type: reinforces
     target: jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma
-  - type: reinforces
+  - type: extends
     target: damario-2025-recurrent-aphthous-stomatitis-treatments-review
 ---
 

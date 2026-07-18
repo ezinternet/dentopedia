@@ -11,7 +11,7 @@ source: synthesis
 relations:
   - type: extends
     target: kaur-2026-dentin-hypersensitivity-enigma-revisited
-  - type: reinforces
+  - type: extends
     target: correa-2025-long-term-desensitizing-agents-efficacy-sr-ma
   - type: reinforces
     target: qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct

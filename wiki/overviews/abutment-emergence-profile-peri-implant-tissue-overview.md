@@ -37,7 +37,7 @@ relations:
     target: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants
   - type: extends
     target: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss
-  - type: reinforces
+  - type: refines
     target: prpic-2026-emergence-angle-profile-implant-restorations-scoping
   - type: reinforces
     target: munoz-2025-1mm-3mm-abutments-7year-rct

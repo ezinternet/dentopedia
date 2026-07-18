@@ -10,17 +10,17 @@ source_papers:
 evidence_level: synthesis
 source: synthesis
 relations:
-  - type: reinforces
+  - type: extends
     target: bonfante-2012-calcium-phosphate-coatings-plasma-spray
   - type: extends
     target: witek-2020-boronized-surface-osseointegration
-  - type: reinforces
+  - type: refines
     target: lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma
   - type: reinforces
     target: vilchez-2025-sla-slactive-split-mouth-rct
   - type: extends
     target: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr
-  - type: reinforces
+  - type: extends
     target: czumbel-2019-sandblasting-implant-failure-rate-sr-ma
 ---
 

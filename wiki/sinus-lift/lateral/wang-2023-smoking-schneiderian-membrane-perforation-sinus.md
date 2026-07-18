@@ -14,7 +14,7 @@ tags: [smoking, schneiderian-membrane, perforation, sinus-lift, risk-factor, odd
 relations:
   - type: extends
     target: diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
-  - type: reinforces
+  - type: extends
     target: sinus-lift-lateral-2026-synthesis
 ---
 

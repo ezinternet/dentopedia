@@ -14,7 +14,7 @@ tags: [sinus-membrane-thickness, lsfe, lateral-window, mucosal-thickness, rhinos
 relations:
   - type: extends
     target: munakata-2021-sinus-membrane-thickness-edentulous-cbct
-  - type: reinforces
+  - type: extends
     target: sinus-lift-lateral-2026-synthesis
 ---
 

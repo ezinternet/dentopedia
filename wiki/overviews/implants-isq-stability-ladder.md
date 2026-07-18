@@ -16,15 +16,15 @@ source_wiki:
   - wiki/implants/isq/kim-2013-implant-stability-retrospective-rfa-isq.md
   - wiki/implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability.md
 relations:
-  - type: reinforces
+  - type: extends
     target: rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite
-  - type: reinforces
+  - type: extends
     target: fu-2023-implant-stability-marginal-bone-level-pilot
-  - type: reinforces
+  - type: extends
     target: balshi-2005-rfa-immediately-loaded-maxillary-mandibular
-  - type: reinforces
+  - type: refines
     target: kim-2013-implant-stability-retrospective-rfa-isq
-  - type: reinforces
+  - type: extends
     target: won-2008-smartpeg-sterilization-rfa-implant-stability
 ---
 

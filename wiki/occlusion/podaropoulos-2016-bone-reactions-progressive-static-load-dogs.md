@@ -12,7 +12,7 @@ pdf_filename: podaropoulos-2016-bone-reactions-progressive-static-load-dogs.pdf
 source_collection: external
 tags: []
 relations:
-  - type: reinforces
+  - type: extends
     target: implant-occlusion-loading-biomechanics-overview
   - type: extends
     target: song-2021-implant-complications-bruxism-patients
