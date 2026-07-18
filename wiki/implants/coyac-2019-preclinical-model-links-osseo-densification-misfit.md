@@ -23,6 +23,8 @@ relations:
     target: huwais-2017-novel-osseous-densification-osteotomy-primary-stability
   - type: refines
     target: tabassum-2021-undersized-axial-compression-primary-stability
+  - type: refines
+    target: osseodensification-clinical-applications
 ---
 
 *abstract-only — no PMC copy exists; built from the PubMed structured abstract, full text not retrieved.*
