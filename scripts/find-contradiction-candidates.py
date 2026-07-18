@@ -25,6 +25,7 @@ Tier 2 (review):      충돌 표현은 있으나 대상이 불명확하거나(�
 """
 
 import re
+import sys
 from pathlib import Path
 from datetime import date
 from collections import defaultdict
@@ -71,6 +72,76 @@ def ko_gloss(kw):
     return kw
 
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
+
+# 부정문 억제 (2026-07-18): 충돌 키워드가 **부정 안에** 있으면 충돌이 아니라
+# 충돌의 부인이다. 30건 표본 판정에서 6건이 이 패턴이었다 —
+#   "reinforcing rather than **overturning** the existing technique pages"
+#   "this *qualifies* rather than **contradicts** Chakraborty"
+#   "(These are not **contradictory**: …)"  /  "**not a real contradiction**"
+#   "…이 아니라 **상충**하는 것으로 보이나 …"
+# **부정어는 키워드에 통사적으로 붙어 있어야 한다** — 단지 근처에 있는 것으로는
+# 부족하다. 초안은 앞 60자 창에서 맨 `not`/`no`를 찾았는데, 회귀 테스트에서
+# 진짜 충돌을 죽였다:
+#   "Song found **no** pain difference …, **whereas** this RCT detects a penalty"
+# 여기서 `no`는 *연구 결과*("no pain difference")의 일부이지 whereas의 부정이 아니다.
+# 연구 산문에서 "no significant difference"는 극도로 흔해, 맨 `no`를 넣으면
+# 진짜 신호를 대량으로 잃는다(거짓 음성 = 임상적으로 위험한 방향).
+#
+# 그래서 (a) 맨 `no`는 뺐고, (b) 창을 30자로 좁혔으며, (c) 뒤쪽 창은 한국어
+# 전용으로 뒀다 — 한국어는 부정이 키워드 **뒤**에 온다("뒤집는 것이 아니라").
+# 영어 `no`가 키워드 뒤에 오는 건 대개 괄호 안 결과 서술이라 부정이 아니다:
+#   "Shiffler **contradicts** this paper on diameter (**no** significant effect …)"
+NEG_LOOKBACK = 30
+NEG_LOOKAHEAD = 20
+NEG_BEFORE = re.compile(
+    r"\bnot\b|\bnever\b|\brather than\b|\binstead of\b|\bdoes not\b|\bdid not\b|"
+    r"\bcannot\b|\bfar from\b|\bwithout\b", re.IGNORECASE)
+NEG_AFTER = re.compile(r"아니라|아니다|아님|이 아닌|은 아닌")
+
+
+def negated(line: str, kw_lo: int, kw_hi: int) -> bool:
+    """충돌 키워드가 부정 문맥 안에 있는가 (통사적으로 붙은 부정만)."""
+    left = line[max(0, kw_lo - NEG_LOOKBACK):kw_lo]
+    right = line[kw_hi:kw_hi + NEG_LOOKAHEAD]
+    return bool(NEG_BEFORE.search(left) or NEG_AFTER.search(right))
+
+
+# 부정 필터 회귀 테스트 (2026-07-18) — `--selftest`로 실행.
+# 초안이 진짜 충돌("found **no** pain difference …, **whereas** …")을 죽인 사고가
+# 있었기에 남긴다. 필터를 손대면 반드시 이걸 먼저 돌릴 것.
+NEG_SELFTEST = [
+    # (문장, 억제되어야 하는가)
+    ("This is a genuine contradiction inside the wiki's own holdings", False),
+    ("Song found no pain difference between sealers, whereas this RCT detects a penalty", False),
+    ("Shiffler contradicts this paper on diameter (no significant effect vs P<.001)", False),
+    ("Garcia-Sanchez 2022와 정면으로 대비되는 결과", False),
+    ("Read at face value they contradict each other flatly", False),
+    ("reinforcing rather than overturning the existing technique pages", True),
+    ("This qualifies rather than contradicts Chakraborty", True),
+    ("the rates differ because of screening, not a real contradiction", True),
+    ("이는 결론을 뒤집는 것이 아니라 경계조건을 긋는다", True),
+    ("(These are not contradictory: both describe the same biology)", True),
+    ("extends the map without contradicting the spine", True),
+    ("this is not a resolved contradiction but an unbridged gap", True),
+]
+
+
+def run_selftest() -> int:
+    bad = []
+    for line, expect in NEG_SELFTEST:
+        m = HIGH.search(line) or SOFT.search(line)
+        if not m:
+            bad.append((line, "키워드 매칭 안 됨"))
+            continue
+        got = negated(line, *m.span())
+        if got != expect:
+            bad.append((line, f"기대 {expect} 실제 {got}"))
+    for line, why in bad:
+        print(f"  ✗ {why}: {line[:70]}")
+    print(f"부정 필터 self-test: {len(NEG_SELFTEST) - len(bad)}/{len(NEG_SELFTEST)} 통과")
+    return 1 if bad else 0
+
+
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 ONELINER_RE = re.compile(r"^##\s*세줄요약\s*\n+(.+?)(?=\n##\s|\Z)", re.DOTALL | re.MULTILINE)
 
@@ -113,6 +184,9 @@ def parse(path):
             if t and g:
                 edges.add(g.group(1).strip().rstrip("/").split("/")[-1])
     return fm, body, cat, edges
+
+if "--selftest" in sys.argv:
+    raise SystemExit(run_selftest())
 
 # stem 인덱스 + stem→세줄요약(한국어) 인덱스
 #
@@ -171,6 +245,7 @@ tier1 = []   # (page_stem, cat, target_stem, kw, snippet)
 tier2 = []   # (page_stem, cat, tier, kw, snippet)
 n_ambig = 0        # 동일 줄 비최근접 링크 — 대상 불명으로 강등된 수
 n_typed_skip = 0   # 이미 typed 엣지가 있어 제외된 (page,target) 쌍 수
+n_neg_skip = 0     # 충돌 키워드가 부정문 안이라 제외된 줄 수 (2026-07-18)
 
 for md in WIKI.rglob("*.md"):
     if md.name.startswith("_") or md.stem in ("index",):
@@ -197,17 +272,31 @@ for md in WIKI.rglob("*.md"):
         kw_lo, kw_hi = m.span()
         snip = re.sub(r"\s+", " ", line).strip()[:400]
 
+        # (1) 부정문 억제 — 키워드가 부정 안에 있으면 충돌의 *부인*이다
+        if negated(line, kw_lo, kw_hi):
+            n_neg_skip += 1
+            continue
+
         links = []
+        dropped_typed = False       # 이 줄의 링크가 '이미 엣지 있음'으로 걸러졌나
         for lm in WIKILINK.finditer(line):
             s = lm.group(1).rstrip("/").split("/")[-1]
             if s not in stems or s == md.stem:
                 continue
             if s in edges:          # 이미 어떤 타입으로든 판단된 쌍
                 n_typed_skip += 1
+                dropped_typed = True
                 continue
             links.append((s, lm.start(), lm.end()))
 
         if not links:
+            # (2) 억제 누수 버그 수정 (2026-07-18).
+            #     줄의 링크가 **전부** 기존 엣지로 걸러진 경우, 과거엔 links가 비어
+            #     아래 HIGH-no-target으로 재방출됐다 — 억제해야 할 것이 "대상 미지정"
+            #     으로 둔갑해 Tier 2를 오염시켰다. 30건 표본에서 대상없음 15건 중
+            #     7건(47%)이 실제로는 이미 엣지가 있는 쌍이었다.
+            if dropped_typed:
+                continue
             if hi:
                 tier2.append((md.stem, cat, "HIGH-no-target", kw, snip))
             continue
@@ -259,7 +348,7 @@ lines = [
     "",
     f"- Tier 1 (대상 지목됨, actionable): **{len(t1)}**",
     f"- Tier 2 (대상 불명/soft, review): **{len(tier2)}**",
-    f"- (억제됨) 이미 typed 엣지가 있어 제외: **{n_typed_skip}** · "
+    f"- (억제됨) 이미 typed 엣지가 있어 제외: **{n_typed_skip}** · 부정문 제외: **{n_neg_skip}** · "
     f"동일 줄 비최근접으로 Tier 2 강등: **{n_ambig}**",
     "",
     "## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)",
@@ -294,5 +383,5 @@ OUT.write_text("\n".join(lines), encoding="utf-8")
 print(f"✓ {OUT.relative_to(ROOT)}")
 print(f"  Tier 1 (actionable, page→target): {len(t1)}")
 print(f"  Tier 2 (review): {len(tier2)}")
-print(f"  억제: typed 엣지 기존재 {n_typed_skip} · 동일 줄 비최근접 강등 {n_ambig}")
+print(f"  억제: typed 엣지 기존재 {n_typed_skip} · 부정문 {n_neg_skip} · 동일 줄 비최근접 강등 {n_ambig}")
 print(f"  세줄요약 인덱스: {sum(1 for v in oneliner.values() if v)}/{len(oneliner)} pages")
