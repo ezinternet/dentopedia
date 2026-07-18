@@ -26,6 +26,7 @@ Tier 2 (review):      충돌 표현은 있으나 대상이 불명확하거나(�
 
 import re
 import sys
+import hashlib
 from pathlib import Path
 from datetime import date
 from collections import defaultdict
@@ -241,11 +242,42 @@ def gap(a, b, lo, hi):
         return a - hi
     return 0
 
+# "검토했고 엣지 불필요" 대장 (2026-07-18).
+#
+# 이 감사의 억제 조건은 "typed 엣지가 있으면 제외"뿐이었다. 그래서 검토 결과가
+# NONE(엣지 불필요)이면 엣지가 안 생겨 **다음날 같은 후보가 그대로 재방출**됐다 —
+# 판정 노동이 매일 증발하는 구조다. 위 parse() 주석이 경고한 "끌 수 없는 신호"의
+# 나머지 절반이 이것이다.
+#
+# logs/relation-negatives.md 에 (source, target, 문장해시)로 기록하면 억제한다.
+# 문장이 바뀌면 해시가 달라져 자동 재검토된다 — 페이지 개정으로 진짜 충돌이
+# 새로 생기는 경우를 놓치지 않기 위함. 기록은 scripts/log-relation-negative.py.
+def _snippet_hash(snippet: str) -> str:
+    return hashlib.sha1(re.sub(r"\s+", " ", snippet).strip().encode("utf-8")).hexdigest()[:12]
+
+
+def _load_negatives() -> set:
+    p = ROOT / "logs" / "relation-negatives.md"
+    out = set()
+    if not p.exists():
+        return out
+    for line in p.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("| 20"):
+            continue
+        cells = [c.strip() for c in line.strip("|").split("|")]
+        if len(cells) >= 4:
+            out.add((cells[1], cells[2], cells[3]))
+    return out
+
+
+NEGATIVES = _load_negatives()
+
 tier1 = []   # (page_stem, cat, target_stem, kw, snippet)
 tier2 = []   # (page_stem, cat, tier, kw, snippet)
 n_ambig = 0        # 동일 줄 비최근접 링크 — 대상 불명으로 강등된 수
 n_typed_skip = 0   # 이미 typed 엣지가 있어 제외된 (page,target) 쌍 수
 n_neg_skip = 0     # 충돌 키워드가 부정문 안이라 제외된 줄 수 (2026-07-18)
+n_ledger_skip = 0  # 대장에 "검토·불필요"로 기록돼 제외된 수 (2026-07-18)
 
 for md in WIKI.rglob("*.md"):
     if md.name.startswith("_") or md.stem in ("index",):
@@ -298,6 +330,9 @@ for md in WIKI.rglob("*.md"):
             if dropped_typed:
                 continue
             if hi:
+                if (md.stem, "NOTARGET", _snippet_hash(snip)) in NEGATIVES:
+                    n_ledger_skip += 1
+                    continue
                 tier2.append((md.stem, cat, "HIGH-no-target", kw, snip))
             continue
 
@@ -305,6 +340,10 @@ for md in WIKI.rglob("*.md"):
         links.sort(key=lambda t: gap(t[1], t[2], kw_lo, kw_hi))
         nearest, na, nb = links[0]
         nd = gap(na, nb, kw_lo, kw_hi)
+
+        if (md.stem, nearest, _snippet_hash(snip)) in NEGATIVES:
+            n_ledger_skip += 1
+            continue
 
         if hi and nd <= MAX_DIST:
             tier1.append((md.stem, cat, nearest, kw, snip))
@@ -348,7 +387,7 @@ lines = [
     "",
     f"- Tier 1 (대상 지목됨, actionable): **{len(t1)}**",
     f"- Tier 2 (대상 불명/soft, review): **{len(tier2)}**",
-    f"- (억제됨) 이미 typed 엣지가 있어 제외: **{n_typed_skip}** · 부정문 제외: **{n_neg_skip}** · "
+    f"- (억제됨) 이미 typed 엣지가 있어 제외: **{n_typed_skip}** · 부정문 제외: **{n_neg_skip}** · 검토·불필요 대장: **{n_ledger_skip}** · "
     f"동일 줄 비최근접으로 Tier 2 강등: **{n_ambig}**",
     "",
     "## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)",
@@ -383,5 +422,5 @@ OUT.write_text("\n".join(lines), encoding="utf-8")
 print(f"✓ {OUT.relative_to(ROOT)}")
 print(f"  Tier 1 (actionable, page→target): {len(t1)}")
 print(f"  Tier 2 (review): {len(tier2)}")
-print(f"  억제: typed 엣지 기존재 {n_typed_skip} · 부정문 {n_neg_skip} · 동일 줄 비최근접 강등 {n_ambig}")
+print(f"  억제: typed 엣지 기존재 {n_typed_skip} · 부정문 {n_neg_skip} · 검토·불필요 대장 {n_ledger_skip} · 동일 줄 비최근접 강등 {n_ambig}")
 print(f"  세줄요약 인덱스: {sum(1 for v in oneliner.values() if v)}/{len(oneliner)} pages")
