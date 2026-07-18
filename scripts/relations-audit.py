@@ -28,6 +28,17 @@ vocab: extends | reinforces | contradicts | refines | applies-to
         C2: 논문 → 그 논문을 본문에 인용한 overview (방향까지 뒤집힌 경우)
       2026-07-17 실측 152건(C1 131 / C2 21) = 전체 reinforces의 13.3%.
       30건 무작위 표본을 두 페이지 다 읽고 판정한 독립 추정치(~115건)와 수렴.
+
+      **POSTDATED 제외 (2026-07-18)**: 논문이 overview보다 **나중에** 리포에
+      들어왔으면 overview가 그것으로 만들어졌을 수 없어 순환이 아니다. 14건
+      표본 판정에서 정당(KEEP) 2건이 **둘 다** 이 서명이었다 — rosas-diaz(ladder
+      source_wiki 3편에 없음, 나중에 Related Papers로 추가), lu-2025(overview
+      2026-05-31 vs 논문 2026-06-23). 본문 wikilink만으로는 구성 재료와 나중에
+      덧붙인 관련 논문을 구분할 수 없어 생기던 오탐이다. 걸러진 건은 버리지 않고
+      POSTDATED 버킷으로 별도 보고한다 (무성 절삭 금지).
+      **남는 한계**: overview보다 먼저 인제스트됐지만 재료로 쓰이진 않고 나중에
+      Related Papers로만 링크된 논문은 여전히 순환으로 잡힌다 — 시간순으로는
+      구분 불가.
       **signal일 뿐 — 자동 수정하지 않는다.** extends/refines/applies-to로 바꿀지,
       엣지를 뺄지는 사람/LLM이 두 페이지를 읽고 판단한다 (overview가 교차 독해로
       구성 논문의 결론을 한정하는 것은 진짜 refines일 수 있다 — 순환인 건
@@ -112,6 +123,46 @@ def body_wikilinks(content: str) -> set[str]:
     return {norm_stem(w) for w in WIKILINK_RE.findall(body)}
 
 
+def file_add_dates() -> dict[str, str]:
+    """{stem: YYYY-MM-DD} — 그 페이지 파일이 리포에 **추가된** 날.
+
+    순환 판정의 필수 보조축이다. C1/C2는 "본문이 그 논문을 wikilink한다"로
+    파생을 추정하는데, 본문 wikilink는 **구성 재료**와 **나중에 덧붙인 관련
+    논문**을 구분하지 못한다. 논문이 overview보다 나중에 리포에 들어왔다면
+    overview가 그것으로 만들어졌을 수 없으므로 순환이 아니다 — 오히려 나중에
+    도착한 독립 근거의 확인이라 `reinforces`가 정당할 수 있다.
+
+    frontmatter `date:`로는 이 판정을 못 한다: 논문 페이지의 date는 *출판일*,
+    overview의 date는 *작성일*이라 축이 다르다 (2016년 논문을 2026년에
+    인제스트하면 date는 2016이지만 리포 추가는 overview보다 나중일 수 있다).
+
+    git 호출은 **전체 1회**다. per-file 호출은 f10ecfc가 캐시로 제거한 그
+    느림의 원인이므로 되살리지 않는다 (전 wiki 1회 traversal ≈ 4s 실측).
+    git이 없거나 리포가 아니면 빈 dict → 필터는 자동으로 비활성(기존 동작).
+    """
+    import subprocess
+    try:
+        out = subprocess.run(
+            ["git", "-C", str(WIKI_ROOT), "log", "--diff-filter=A",
+             "--format=C|%ad", "--date=short", "--name-only", "--", "wiki/"],
+            capture_output=True, text=True, timeout=120,
+        )
+        if out.returncode != 0:
+            return {}
+    except (OSError, subprocess.SubprocessError):
+        return {}
+
+    added: dict[str, str] = {}
+    cur = None
+    for ln in out.stdout.splitlines():
+        if ln.startswith("C|"):
+            cur = ln[2:].strip()
+        elif ln.endswith(".md") and cur:
+            # git log는 최신순 → 같은 경로를 나중에 덮어쓸수록 더 이른 추가일
+            added[Path(ln).stem] = cur
+    return added
+
+
 def parse_relations(fm_text: str) -> list[dict]:
     """relations: 블록을 yaml로 파싱. 실패 시 빈 리스트."""
     if yaml is None:
@@ -162,6 +213,8 @@ def main() -> int:
     bad_type = []         # (source, type, target)
     self_ref = []         # (source, target)
     circular = []         # (kind, source, target)  — 의미 신호, issues와 별도
+    postdated = []        # (kind, source, target, ov_date, paper_date) — 순환 아님(논문이 나중)
+    added_on = file_add_dates()
     type_count = defaultdict(int)
     nodes_with_rel = set()
 
@@ -179,11 +232,20 @@ def main() -> int:
             if tgt not in pages:
                 dangling.append((stem, t, tgt))
             elif t == "reinforces":
-                # (D) 순환: 파생문서는 자기 원료를 독립 확인할 수 없다
+                # (D) 순환: 파생문서는 자기 원료를 독립 확인할 수 없다.
+                #     단 논문이 overview보다 **나중에** 리포에 들어왔다면 overview가
+                #     그것으로 만들어졌을 수 없다 → 순환 아님(postdated 버킷).
+                kind = ov = paper = None
                 if is_ov[stem] and not is_ov[tgt] and tgt in wl_of[stem]:
-                    circular.append(("C1", stem, tgt))
+                    kind, ov, paper = "C1", stem, tgt
                 elif not is_ov[stem] and is_ov[tgt] and stem in wl_of[tgt]:
-                    circular.append(("C2", stem, tgt))
+                    kind, ov, paper = "C2", tgt, stem
+                if kind:
+                    d_ov, d_paper = added_on.get(ov), added_on.get(paper)
+                    if d_ov and d_paper and d_paper > d_ov:
+                        postdated.append((kind, stem, tgt, d_ov, d_paper))
+                    else:
+                        circular.append((kind, stem, tgt))
             edges.append({"source": stem, "type": t, "target": tgt})
             type_count[t] += 1
 
@@ -202,6 +264,7 @@ def main() -> int:
     L.append(f"  BAD type (off-vocab) : {len(bad_type)}")
     L.append(f"  SELF reference       : {len(self_ref)}")
     L.append(f"CIRCULAR reinforces    : {len(circular)}   (신호 — 위 issues와 별도)")
+    L.append(f"  postdated (순환 아님) : {len(postdated)}   (논문이 overview보다 나중 — 아래 별도 목록)")
     L.append("")
     L.append("=== type distribution ===")
     for t in sorted(type_count, key=lambda k: -type_count[k]):
@@ -245,13 +308,28 @@ def main() -> int:
             L.append(f"  {s}  --reinforces-->  {t}")
         L.append("")
 
+    if postdated:
+        L.append("=== POSTDATED — 순환 아님 (논문이 overview보다 나중에 리포 진입) ===")
+        L.append("")
+        L.append("overview가 이 논문으로 만들어졌을 수 없으므로 순환이 아니다. 나중에")
+        L.append("도착한 독립 근거가 기존 종합을 확인하는 형태라 `reinforces`가 정당할 수 있다.")
+        L.append("**여기 있다고 라벨이 옳다는 뜻은 아니다** — 순환 혐의만 벗은 것이고,")
+        L.append("실제로 확인이 아니라 범위 확장이면 `extends`가 맞다. 위 목록보다 우선순위 낮음.")
+        L.append("")
+        L.append("표기: (overview 추가일 → 논문 추가일)")
+        L.append("")
+        for k, s, t, d_ov, d_p in sorted(postdated, key=lambda x: (x[0], x[1])):
+            L.append(f"  [{k}] {s}  --reinforces-->  {t}   ({d_ov} → {d_p})")
+        L.append("")
+
     body = "\n".join(L) + "\n"
     log_path.write_text(body, encoding="utf-8")
 
     issues = len(dangling) + len(bad_type) + len(self_ref)
     flag = "⚠" if issues else "✓"
     print(f"🔗  Relations: {len(edges)} typed edges across {len(nodes_with_rel)} pages, {issues} issues {flag}")
-    print(f"      circular reinforces (signal): {len(circular)}")
+    print(f"      circular reinforces (signal): {len(circular)}"
+          + (f"  · postdated(순환 아님): {len(postdated)}" if postdated else ""))
     print(f"      log → logs/{log_path.name} · graph → logs/{graph_path.name}")
     if args.stdout:
         print()
