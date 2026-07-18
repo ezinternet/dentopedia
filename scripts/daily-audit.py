@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 19 audits and writes their logs to logs/.
+One entry-point that runs all 20 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -58,11 +58,18 @@ One cross-stem duplicate signal (non-blocking):
 One supersession + decay signal (non-blocking):
   - supersession-audit.py → dangling superseded_by, field↔banner sync, decay candidates
 
-Two graph/integrity signals (non-blocking):
+Three graph/integrity signals (non-blocking):
   - relations-audit.py    → typed relation targets, vocab, typed-edge JSON export,
                             plus CIRCULAR reinforces (derived doc claiming to
                             independently confirm its own source) as a separate count
   - link-integrity.py     → broken body wikilinks, index.md two-way coverage
+                            (counts a wikilink ANYWHERE in index.md as coverage)
+  - overview-catalogue-lint.py → narrower companion to the above: does each overview have
+                            its own '- [[overviews/x]]' catalogue bullet, i.e. is it
+                            findable by someone scanning the list rather than searching?
+                            A page mentioned only inside another entry's prose passes
+                            link-integrity and fails here (verified 2026-07-18 against the
+                            6-week patient-consultation-communication-protocol case).
 
 One interactive-tool freshness signal (non-blocking):
   - interactive-staleness.py → clinical interactive's source_wiki newer than tool
@@ -96,7 +103,7 @@ One SOP-revision trigger (non-blocking):
 Exit code:
     0 if all classic audits + ingest-rationale pass.
     1 if any of those fail.
-    The 15 signals never fail — they are informational (AUDITS.md: signal, not gate).
+    The 16 signals never fail — they are informational (AUDITS.md: signal, not gate).
 
 Usage:
     python3 scripts/daily-audit.py
@@ -127,6 +134,7 @@ AUDITS = [
     ("supersession-audit.py",        [],       False),
     ("relations-audit.py",           [],       False),
     ("link-integrity.py",            [],       False),
+    ("overview-catalogue-lint.py",   [],       False),
     ("interactive-staleness.py",     [],       False),
     ("find-contradiction-candidates.py", [],   False),
     ("content-lint.py",                  [],          False),
@@ -178,7 +186,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
