@@ -14,11 +14,21 @@ source_collection: pubmed-abstract
 ## Why Ingested
 [[implants/isq/faot-2019-insertion-torque-mandibular-overdenture]]에서 IT ≥45 Ncm(G4)이 최고 생존율을 보였지만, 단일 소규모 전향적 연구의 한계가 있음. 이 SR+MA는 "고삽입토크(삽입 토크, IT) ≥50 Ncm vs 일반·저토크 <50 Ncm"를 임플란트 생존율·변연골 소실(Marginal Bone Loss, MBL) 관점에서 최초로 메타분석한 연구로, 과토크 임상효과의 최고 수준 근거.
 
-## One-line Summary
-SR + meta-analysis (6 studies, n=651 implants) comparing high IT (≥50 Ncm) vs regular/low IT (<50 Ncm): no significant difference in survival rate (RR 0.51, 95% CI 0.06–4.06, P=.52) or MBL (MD 0.15, 95% CI −0.14–0.44, P=.30).
+## Three-line Summary
 
-## 한줄요약
-SR+MA(6편, 임플란트 651개): 고삽입토크(≥50 Ncm) vs 일반·저토크(<50 Ncm) — 생존율(RR 0.51, P=.52)·MBL(MD 0.15mm, P=.30) 모두 유의차 없음; 단 즉시하중 하위군에서 저토크 실패율 4.2% vs 고토크 1.1%.
+Systematic review and meta-analysis (6 studies, 389 patients, 651 implants) comparing dental implants placed with high insertion torque (삽입 토크, IT ≥50 Ncm) versus regular or low IT (<50 Ncm), with outcome measures of survival rate and marginal bone loss.
+
+Neither implant survival (RR 0.51, 95% CI 0.06–4.06, P=.52) nor MBL (MD 0.15mm, 95% CI −0.14 to 0.44, P=.30) differed significantly between groups; however, the high-IT group showed a numerically lower failure rate (1.1% vs 4.2%), most pronounced under immediate loading.
+
+Evidence base is sparse (only 6 eligible studies), preventing definitive conclusions — further RCTs with standardized IT reporting are needed to establish a safe upper torque limit.
+
+## 세줄요약
+
+체계적 문헌고찰+메타분석(6편, 389명, 임플란트 651개): 고삽입토크(삽입 토크, IT ≥50 Ncm) vs 일반·저토크(<50 Ncm)를 생존율·변연골 소실로 비교.
+
+생존율(RR 0.51, P=.52)·MBL(MD 0.15mm, P=.30) 모두 유의차 없음; 다만 고토크군 실패율이 수치상 더 낮음(1.1% vs 4.2%), 즉시하중 하위군에서 가장 두드러짐.
+
+근거 기반이 빈약(적격 연구 6편뿐)해 확정적 결론 불가 — 안전 상한 토크 확립을 위해 표준화된 IT 보고를 갖춘 추가 RCT 필요.
 
 ## 1. Document Information
 - **Journal:** The Journal of Prosthetic Dentistry, Vol. 126, Issue 4, pp. 490–496

@@ -15,11 +15,21 @@ source_collection: pubmed-abstract
 ## Why Ingested
 기존 [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] 리뷰가 IT-ISQ 상관관계를 분석했지만, 임상 결과(생존율·골흡수)별 IT 임계값 구간을 직접 비교한 전향적 데이터가 없었음. 이 논문은 G1 <10 / G2 10–30 / G3 30–45 / G4 ≥45 Ncm 4개 구간의 1년 임상 결과를 제공하며, G3 역설(과토크 임계 직하 구간에서 최악의 생존율)을 처음으로 임상 데이터로 기록한다.
 
-## One-line Summary
-Prospective 1-year clinical trial (n=31 patients, 62 narrow implants) showing G4 IT ≥45 Ncm achieved best survival (95%) while G3 IT 30–45 Ncm showed worst survival (64.3%), challenging linear torque-stability assumptions.
+## Three-line Summary
 
-## 한줄요약
-전향적 1년 임상시험(환자 31명, 세경 임플란트 62개): 삽입토크(삽입 토크, IT) ≥45 Ncm(G4) 군에서 생존율 95%로 최고, IT 30–45 Ncm(G3) 군에서 64.3%로 최저를 기록해 토크-안정성 선형 관계를 반박함.
+Prospective 1-year clinical trial of 62 narrow implants (ø2.9mm) in 31 atrophic edentulous mandibles, grouped by insertion torque into four ranges: <10, 10–30, 30–45, and ≥45 Ncm.
+
+G4 (IT ≥45 Ncm) achieved the highest survival rate (95%) and maintained the most stable ISQ; G3 (IT 30–45 Ncm) had the worst survival (64.3%), producing a paradox contradicting linear torque-stability assumptions.
+
+IT did not significantly influence marginal bone loss at 12 months; instead, bone remodeling and cytokine behavior were primarily driven by loading and patient factors, not torque magnitude alone.
+
+## 세줄요약
+
+전향적 1년 임상시험(세경 임플란트 62개, 위축 무치악 하악 31명): 삽입토크(삽입 토크, IT)를 <10, 10–30, 30–45, ≥45 Ncm 4구간으로 분류.
+
+G4(IT ≥45 Ncm) 생존율 95%로 최고, ISQ도 가장 안정적; G3(30–45 Ncm) 생존율 64.3%로 최저 — 선형 토크-안정성 가정에 반하는 역설.
+
+IT는 12개월 변연골 소실에 유의한 영향 없음; 골개조·사이토카인 반응은 토크 크기보다 하중·환자 요인이 주도.
 
 ## 1. Document Information
 - **Journal:** BioMed Research International, Vol. 2019, Article ID 8132520

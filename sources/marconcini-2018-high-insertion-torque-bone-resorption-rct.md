@@ -14,11 +14,21 @@ source_collection: pubmed-abstract
 ## Why Ingested
 [[implants/isq/faot-2019-insertion-torque-mandibular-overdenture]]에서 G4 ≥45 Ncm이 최고 생존율을 보인 반면, 이 RCT는 IT ≥50 Ncm에서 3년 추적 시 더 큰 골흡수와 점막퇴축을 보고하여 정반대 방향의 근거를 제공함 — 과토크 임계값 논쟁의 핵심 대립 축.
 
-## One-line Summary
-RCT (116 single implants, 3 years) comparing two implant designs split into high-IT (≥50 Ncm) vs regular-IT (<50 Ncm) groups: high IT led to significantly greater MBL and facial soft-tissue recession, especially in the mandible.
+## Three-line Summary
 
-## 한줄요약
-RCT(단일 임플란트 116개, 3년): 고삽입토크(≥50 Ncm) 군에서 일반 토크(<50 Ncm) 군 대비 변연골 소실·협측 점막 퇴축 유의하게 크고, 하악에서 효과 더 두드러짐 — 과토크 임계값의 임상적 위험 뒷받침.
+RCT of 116 single implants placed in healed sites, comparing high-IT (삽입 토크, IT ≥50 Ncm) vs regular-IT (<50 Ncm) groups using implants with the same macro-geometry but different cutting-groove designs, followed for 3 years.
+
+High-IT implants showed significantly greater marginal bone loss and facial soft-tissue recession at 3 years, with the harm most pronounced in mandibular sites; cumulative success rate was 91.3% (high IT) vs 98.2% (regular IT).
+
+Buccal bone thickness ≥1 mm attenuated mucosal recession even in the high-IT group, suggesting cortical bone quality and thickness modify the clinical risk of excessive insertion torque.
+
+## 세줄요약
+
+RCT(치유된 부위 단일 임플란트 116개): 동일 거시형태·다른 절삭홈 디자인 임플란트로 고삽입토크(삽입 토크, IT ≥50 Ncm) vs 일반토크(<50 Ncm) 군을 3년 추적.
+
+고토크군에서 변연골 소실·협측 연조직 퇴축 유의하게 큼, 하악에서 가장 두드러짐; 누적 성공률 91.3%(고토크) vs 98.2%(일반토크).
+
+협측 골판 두께 ≥1mm이면 고토크군에서도 점막 퇴축이 완화됨 — 피질골 질·두께가 과토크의 임상적 위험을 조절함을 시사.
 
 ## 1. Document Information
 - **Journal:** Clinical Implant Dentistry and Related Research, Vol. 20, Issue 3, pp. 322–332

@@ -14,11 +14,21 @@ source_collection: pubmed-abstract
 ## Why Ingested
 [[implants/isq/marconcini-2018-high-insertion-torque-bone-resorption-rct]]에서 ≥50 Ncm → 골흡수↑라는 임상 근거가 생겼으나, 이 현상이 **압박괴사(골압축 허혈괴사, Osseocompression Necrosis)** 때문인지 조직학적으로 검증한 연구가 위키에 없었음. Trisi 2011은 양 하악에서 HT(평균 110 Ncm) vs LT(10 Ncm)를 6주간 조직학·생체역학적으로 비교한 **유일한 동물조직학 연구**로, "과토크 = 압박괴사" 가설을 직접 검증해 반박함.
 
-## One-line Summary
-Animal histologic study (sheep mandible, n=40 implants, 5 sheep) comparing HT (mean 110 Ncm) vs LT (mean 10 Ncm) over 6 weeks: HT did not induce bone necrosis but produced significantly higher bone apposition and removal torque at all timepoints.
+## Three-line Summary
 
-## 한줄요약
-동물 조직학 연구(양 하악, 임플란트 40개, 6주): 과삽입토크(평균 110 Ncm) vs 저토크(10 Ncm) — 압박괴사 없음, 오히려 골형성↑·제거토크↑; 단 HT군에서 7일째 1차 안정성 유의한 감소 확인.
+Controlled animal histologic study (양 하악, 5마리, 임플란트 40개, 6주) comparing very high insertion torque (삽입 토크, HT = mean 110 Ncm) versus low torque (LT = mean 10 Ncm) using split-mouth design with sacrifice at 1–6 weeks.
+
+HT implants showed significantly greater bone apposition and removal torque than LT at every timepoint; critically, **no bone necrosis was observed** in the HT group despite 110 Ncm in dense cortical bone.
+
+RFA/ISQ was insensitive to these histologic and biomechanical differences, and HT produced a transient primary-stability dip at day 7 that self-corrected — evidence against the "overtorque → osseocompression necrosis" hypothesis.
+
+## 세줄요약
+
+대조군 동물 조직학 연구(양 하악, 5마리, 임플란트 40개, 6주): split-mouth 설계로 초고삽입토크(삽입 토크, HT = 평균 110 Ncm) vs 저토크(LT = 평균 10 Ncm)를 1~6주 희생 시점별 비교.
+
+HT군이 모든 시점에서 골형성·제거토크 유의하게 큼; 110 Ncm의 치밀 피질골에서도 **골괴사는 관찰되지 않음**.
+
+RFA/ISQ는 이 조직학적·생체역학적 차이를 감지하지 못했고, HT군은 7일째 일시적 1차 안정성 저하 후 자연 회복 — "과토크→골압축 괴사" 가설에 반하는 근거.
 
 ## 1. Document Information
 - **Journal:** The International Journal of Oral & Maxillofacial Implants, Vol. 26, Issue 4, pp. 837–849
