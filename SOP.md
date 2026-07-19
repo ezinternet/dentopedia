@@ -3,7 +3,7 @@
 
 논문 1편 추가부터 사이트 반영까지의 표준 작업 절차. 본인 참고용.
 
-작성: 2026-05-21 · v1 / 개정: 2026-06-23 · v2 / 2026-07-15 · v3 / 2026-07-19 · v3.1 (relations: 방향 규칙 추가, 같은 날 두 번 뒤집힘 — 최종: 발행연도 무관·내용 관계로 판단)
+작성: 2026-05-21 · v1 / 개정: 2026-06-23 · v2 / 2026-07-15 · v3 / 2026-07-19 · v3.1 (relations: 방향 규칙 추가, 같은 날 두 번 뒤집힘 — 최종: 발행연도 무관·내용 관계로 판단) / 2026-07-20 · v3.2 (daily-audit 15→20종 정정, superseded_by SSOT 이원화 명시 — 필드는 INGEST.md·판단사다리는 evidence-ladder.md, §1-ter/evidence-ladder.md 상호 참조 정정)
 
 ---
 
@@ -72,10 +72,10 @@ python3 scripts/supersession-audit.py --ci       # 깨진 링크·배너 desync 
 
 5개 모두 ✅이면 GitHub Actions도 통과 확신. `--ci`는 decay 후보는 무시하고 hard error(dangling / desync / transitivity chain)만 잡는다.
 
-전체 15종 audit(에러 4 + 신호 11)을 한 번에 돌리려면:
+전체 20종 audit(에러 4 + 신호 16)을 한 번에 돌리려면:
 
 ```bash
-python3 scripts/daily-audit.py                   # 15 audit 단일 진입점 → logs/ 기록
+python3 scripts/daily-audit.py                   # 20 audit 단일 진입점 → logs/ 기록
 ```
 
 ### Step 4 — git commit + push
@@ -137,7 +137,9 @@ PMC 없는 건(Elsevier·JOMI 등)은 Unpaywall·self-archive를 더 탐색 → 
 
 ## 1-ter. Supersession 판단 — ingest 시 결론 충돌 처리 (2026-06-23 추가)
 
-> **이 위키의 핵심 가치.** 논문은 누구나 쌓는다. "옛 결론과 새 결론이 충돌할 때 어느 쪽이 현재 정설인가"의 지도(`superseded_by`)만이 이 위키 고유의 자산이다. 이게 없으면 검색 시 2018년·2024년 논문이 동등한 무게로 튀어나와 모순 더미가 된다. CLAUDE.md `superseded_by:` 스펙(영어)을 임상 판단 순서로 풀어쓴 것.
+> **이 위키의 핵심 가치.** 논문은 누구나 쌓는다. "옛 결론과 새 결론이 충돌할 때 어느 쪽이 현재 정설인가"의 지도(`superseded_by`)만이 이 위키 고유의 자산이다. 이게 없으면 검색 시 2018년·2024년 논문이 동등한 무게로 튀어나와 모순 더미가 된다.
+
+> **SSOT 안내.** 이 섹션은 필드 스펙과 판단 사다리를 임상 판단 순서로 엮어 풀어쓴 human-facing 버전이다 — 프론트매터 필드 정의(`superseded_by:`/`superseded_scope:`, 배너 포맷)의 단일 출처는 **`INGEST.md`**, "어느 등급이 어느 등급을 이기나"의 판단 사다리는 **`references/evidence-ladder.md`**. 두 파일이 바뀌면 이 절차 설명도 같이 갱신한다.
 
 **새 논문 인제스트마다 한 번 묻는다: "이게 기존 어느 페이지의 결론을 흔드나?"** forward-only — 과거 전수조사는 안 함, 들어올 때 한 번만 판단.
 
@@ -462,7 +464,7 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 | `quartz/` | Quartz 정적 사이트 생성기 + config |
 | `.github/workflows/lint.yml` | frontmatter / 1:1 / no-wiki 검사 |
 | `.github/workflows/deploy-pages.yml` | Quartz 빌드 + GitHub Pages 게시 |
-| `scripts/daily-audit.py` | 15종 audit 단일 진입점 (에러 4 + 신호 11) → logs/ |
+| `scripts/daily-audit.py` | 20종 audit 단일 진입점 (에러 4 + 신호 16) → logs/ |
 | `scripts/lint.py` | frontmatter 필수 필드 검사 (wiki/) |
 | `scripts/orphan-check.py` | PDF ↔ sources 1:1 매칭 |
 | `scripts/find-no-wiki.py` | paper마다 wiki 페이지 존재 검사 |
@@ -493,7 +495,7 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 # wiki 폴더로 이동
 cd ~/llm-wiki
 
-# 전체 15종 audit 한 번에 (권장)
+# 전체 20종 audit 한 번에 (권장)
 python3 scripts/daily-audit.py
 
 # 또는 핵심 error lint 4종만
