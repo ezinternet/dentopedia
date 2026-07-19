@@ -8,7 +8,7 @@ A personal knowledge base of dental research papers, following [Karpathy's LLM W
 |---|---|
 | `INGEST.md` | 논문을 위키에 추가 (`인제스트`, `Add this paper`, PDF 경로). Step 0–5, 필드 정의(`evidence_level:`/`superseded_by:`/`relations:`), 페이지 템플릿·세줄요약 규칙, 파일명 규칙, qmd 임베딩 드레인 |
 | `OPERATIONS.md` | `agenda/`·`slides/`·`interactives/`·`peer-review/`·`note-meeting/`에 뭔가를 만들 때. 라우팅·파일명·frontmatter cross-link·agenda 워크플로·interactive 도구 freshness |
-| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 19개 감사 표·compounding 지표 |
+| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 20개 감사 표·compounding 지표 |
 | `wiki/_meta/categories.md` | 카테고리 선택. 60여 개 목록·서브카테고리 분기 (**여기 이 파일은 목록을 의도적으로 복제하지 않는다** — 두 벌은 반드시 drift한다) |
 | `SOP.md` | 사람이 읽는 운영 절차 |
 
@@ -70,14 +70,7 @@ OPERATIONS: agenda/ (작업 명세)  →  slides/ · interactives/ · peer-revie
             scripts/ (ingest watcher, lint, audits)
 ```
 
-`wiki/_meta/categories.md` = 카테고리 SSOT. `wiki/{category}/` 목록은 여기 복제하지 않는다 (2026-07-15 이전에 실제로 drift했다).
-
-**카테고리 라우팅 규칙**
-1. 신규 paper는 먼저 `qmd query`로 유사 페이지를 찾아 그 페이지의 `category`를 따른다.
-2. 유사 페이지가 없으면 `wiki/_meta/categories.md`에서 가장 가까운 folder 선택.
-3. 분류 기준은 **method/procedure** — disease·anatomy가 아니다.
-4. 서브카테고리 분기(예: `implants/surface/plasma`, `immediate-implant/socket-shield`)는 categories.md의 `Includes` 괄호 안 `→` 지시를 따른다.
-5. 어느 folder에도 안 맞으면 임의 신설하지 말고 `wiki/_meta/categories.md`에 항목을 추가하며 신설한다.
+`wiki/_meta/categories.md` = 카테고리 라우팅의 단일 출처 — 목록·서브카테고리 분기 규칙뿐 아니라 **라우팅 원칙 5단계 자체**도 그 파일 하나에서 관리한다 (여기 복제 안 함 — 2026-07-15엔 카테고리 목록이, 2026-07-20엔 라우팅 원칙 4단계 예시가 두 파일에서 각각 갈라져 있었다). 신규 paper 분류·카테고리 신설 전엔 그 파일의 "라우팅 원칙"을 연다.
 
 ---
 
@@ -104,10 +97,10 @@ Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `pa
 ## Daily Audit → see `AUDITS.md`
 
 ```bash
-python3 scripts/daily-audit.py     # 19 audits → logs/
+python3 scripts/daily-audit.py     # 20 audits → logs/
 ```
 
-3 classic + 1 rationale은 error(block), 나머지 15는 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
+3 classic + 1 rationale은 error(block), 나머지 16은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
 
 ## Knowledge Compounding
 
