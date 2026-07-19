@@ -116,6 +116,8 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 
 **임상 ladder (지혈)** — [[overviews/drug-clinical-decision-ladder]] 축 3 항응고제 환자 처치도 참조. 본 페이지는 모든 환자 일반 지혈 옵션.
 
+> **제제별 근거 심화는 [[overviews/local-hemostasis-agents-overview]]가 단일 출처다.** 아래 ladder는 "다음에 뭘 할까"의 빠른 결정용이고, 제제 간 head-to-head 비교(키토산 vs 산화셀룰로오스, Surgicel vs Gelfoam), TXA 제형 선택(양치액·분말·병용·거즈), 발치와와 근관외과 골소와의 제제군 차이, 아직 임상 근거가 아닌 재료의 격리는 그쪽에 있다.
+
 1. **표준 케이스** → 봉합 + 거즈 압박 30min.
 2. **출혈 지속** → 산화셀룰로오스 (Surgicel) 또는 젤라틴 스폰지 (Gelfoam) — 85% 이상 지혈.
 3. **항응고제 환자 또는 다중 발치** → 트라넥사민산 5% 양치액 (3 x daily 7d) + 봉합 + 압박.
