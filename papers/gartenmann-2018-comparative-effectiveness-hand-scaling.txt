@@ -1,0 +1,14 @@
+TITLE: Comparative effectiveness of hand scaling by undergraduate dental students following a two-week pre-clinical training course.
+AUTHORS: Gartenmann SJ, et al.
+YEAR: 2018
+DOI: 10.1111/eje.12361
+PMID: 29696742
+PMCID: N/A
+============================================================
+The Bologna reform resulted in a drastic restructuring of pre-clinical training courses at the University of Zurich. The aim of this study was to assess student pre-clinical scaling/root planning skills after just 8.5 hours of manual training.
+
+Three consecutive classes of dental students (n=41; n=34; n=48) were tasked with removing lacquer concrement from the maxillary left canine on a typodont using Gracey and universal (Deppeler M23A) curettes. At baseline (prior to instruction), a timed five-minute session of scaling/root planning was undertaken. The second scaling/root planning session was held immediately following training. Eight experienced dental hygienists and eight lay people served as positive and negative controls, using the same instruments and time limit, respectively. Instrumented teeth were collected, scanned and planimetrically analysed for the percentage of tooth surface cleaned.
+
+At baseline, the dental students' mean scaling scores of the cleaned surfaces were not significantly different than those of laypeople (29.8%, 31.0%, 42% vs 27.9%). However, after 8.5 hours of manual training, the students' ability to clean the maxillary tooth improved significantly and they achieved mean removal values of 61.7%, 79.5% and 76% compared to the 67.4% (P<.001) of the experienced dental hygienists. There were no statistically significant differences between the scores achieved by students after training and those achieved by experienced dental hygienists.
+
+A shortened pre-clinical training time was sufficient for students to acquire the basic scaling/root planning skills needed in preparation for clinical training.
