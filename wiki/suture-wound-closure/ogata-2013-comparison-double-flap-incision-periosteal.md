@@ -14,9 +14,6 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/23527365/
 text_path: /Users/oracleneo/llm-wiki/papers/ogata-2013-comparison-double-flap-incision-periosteal.txt
 text_filename: ogata-2013-comparison-double-flap-incision-periosteal.txt
 tags: [flap-advancement, periosteal-releasing-incision, double-flap-incision, vertical-ridge-augmentation, guided-bone-regeneration, seibert-class-iii, flap-tension]
-relations:
-  - type: extends
-    target: plonka-2017-flap-designs-flap-advancement-implant-therapy
 ---
 
 ## Three-line Summary
