@@ -408,6 +408,7 @@ tags: []
 - [[bone-regeneration/lee-2025-soft-bbs-gbr-peri-implant-dehiscence]] — 개 동물실험: L형 느슨 vs 압축 적용 연조질 블록형 골대체재(Soft BBS) GBR 비교 — 골폭 차이 없음, 막 고정 없이 치관부 골유지 실패, micro-CT와 조직계측 강한 상관(r=0.971)
 - [[bone-regeneration/giannotti-2023-autologous-platelet-concentrates-clinical-applications]] — Giannotti 2023 · narrative-review · PRP/PRF/CGF 3세대 비교(Genes, PMC full text) — 혈소판농축배율·성장인자(TGF-β/BMP/VEGF/PDGF) 방출기간 세대별 증가(1시간→7-10일→28일), CGF가 CD34+/CD45+/CD105+ 세포 함유하며 가장 우수한 APC로 제시
 - [[bone-regeneration/zhou-2025-flap-advancement-bone-graft-displacement]] — Zhou 2025 · animal · 돼지 반측하악골 ex vivo(n=60, PMC full text): 대량 피판전진(FA2, 9.2mm/0.02N)이 중등도 전진(FA1, 4.4mm/0.09N)보다 이식재 변위를 유의하게 줄임(ΔGMT −35.7% vs −44.99%, p<0.001); 2-핀 막 고정은 무효과(p≥0.19)
+- [[bone-regeneration/pohl-2023-bone-shell-technique-relocated-crestal]] — Pohl 2023 · case-report · 하악 전방부 수평 위축(n=5/20부위): 관상부 knife-edge 능선 분절을 자가 골쉘로 재위치 — 골막이완절개·판막전진 불필요, 수평골증대 3.4-3.6mm (abstract-only)
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
@@ -2788,6 +2789,13 @@ tags: []
 - [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] — Wang 2024 · case-report · Modified Poncho technique over customized Ti-mesh — 95.7% uneventful healing, Landry 3.0→4.69 over 30 d
 - [[overviews/suture-wound-closure-decision-ladder]] — Synthesis 2026-06-04 (15편 종합): 창상 장력으로 분기 — 저장력 발치와(sutureless 안전·치주 무관, 패턴>봉합유무)vs 고장력 GBR/mesh(무장력 폐쇄=재생 성패; 골막이완절개 +5.5mm, CALF 노출 83.3%→0%, 노출 1건=골증대 ~6배 손실); bridge=봉합패턴 생역학(pulley 견인·lattice 분산·cyanoacrylate 면접착); SR+MA 부재가 최대 공백
 - [[suture-wound-closure/raabe-2025-impact-two-flap-advancement-techniques]] — Raabe 2025 · animal · 돼지 반측하악골 68건 GBR ex vivo(PMC full text): 골막봉합(PS)이 이식재 변위를 유의 감소(ΔGMT −14.0% vs −33.2%, p<0.001)시키나 피판전진술식(MPRI vs MDT)·연조직 표현형은 무영향
+- [[suture-wound-closure/ogata-2013-comparison-double-flap-incision-periosteal]] — Ogata 2013 · rct · 이중피판절개(DFI) vs 골막이완절개(PRI) RCT(n=23): DFI가 전진량 큼(9.64mm vs 7.13mm, p<.001), 통증·부종·출혈 낮음 (abstract-only)
+- [[suture-wound-closure/hur-2025-modified-periosteal-releasing-incision-mpri]] — Hur 2025 · narrative-review · 변형 골막이완절개(MPRI) 기법 업데이트, 후방 하악골 이신경 시각화 강조 (abstract-only, 결과 데이터 없음)
+- [[suture-wound-closure/kim-2015-clinical-study-flap-advancement-without-vertical]] — Kim 2015 · retrospective · 수직절개 없이 광범위 골막이완절개만으로 40부위 전원 7mm 초과 전진·무장력 일차봉합 달성(n=34/40부위, abstract-only)
+- [[suture-wound-closure/shahnaz-2017-diode-laser-scalpel-periosteal-incision]] — Shahnaz 2017 · rct · 다이오드 레이저 vs 메스 골막이완절개 RCT(n=18): 레이저군 통증·NSAID·부종 유의하게 낮음, 임플란트 생존율 양군 100% (abstract-only)
+- [[suture-wound-closure/bahaa-2022-evaluation-bone-gain-horizontal-ridge]] — Bahaa 2022 · rct · 4군 RCT(n=40)로 PRI·DFI·MPRI·CALF 골증대 직접비교 — CALF 최고(4.12mm)·PRI 최저(2.60mm), P<0.001 (abstract-only)
+- [[suture-wound-closure/iwanaga-2019-releasing-incisions-buccal-periosteum-adjacent]] — Iwanaga 2019 · in-vitro · 사체연구(n=7): 하악 골막이완절개 시 안면동맥 분지가 제1·2대구치 부위에서 골막에 최근접(평균직경 2.72mm) — 골막 하방 침범 금지가 안전핵심 (abstract-only)
+- [[suture-wound-closure/stankovic-2018-use-acellular-collagen-matrix-closure]] — Stankovic 2018 · case-report · GBR 창상을 콜라겐매트릭스(Mucograft)로 덮어 골막이완절개 자체를 생략하는 기법 제안 (abstract-only, 정량결과 없음)
 
 ## 임플란트 — 수직 골증대술 (Implants: Vertical Ridge Augmentation)
 - [[implants/vertical-ridge-augmentation/alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct]] — Alshikh 2026 · rct · 수평골증대(14명/28부위) prebent Ti vs 맞춤 PEEK 메시: 선형증대 동등, PEEK 골량·흡수량↑(비율흡수 ~동일)
