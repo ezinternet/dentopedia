@@ -15,8 +15,6 @@ text_path: /Users/oracleneo/llm-wiki/papers/bahaa-2022-evaluation-bone-gain-hori
 text_filename: bahaa-2022-evaluation-bone-gain-horizontal-ridge.txt
 relations:
   - type: extends
-    target: attia-2023-coronally-advanced-lingual-flap-titanium-mesh
-  - type: extends
     target: plonka-2017-flap-designs-flap-advancement-implant-therapy
   - type: extends
     target: ogata-2013-comparison-double-flap-incision-periosteal
