@@ -961,6 +961,14 @@ tags: []
 - [[periodontics/botelho-2022-umbrella-review-oral-systemic]] — Botelho 2022 · sr+ma (엄브렐라 리뷰, Nat Commun, 293 SR/MA·855 비교, PROSPERO CRD42022300740) · 구강질환-전신 NCD 28종 강한 연관성 등급화(암5·당뇨·심혈관·RA·IBD·PCOS·비만·천식); AMSTAR2 high/moderate 10.3%뿐이나 fail-safe number상 97.5%는 향후 연구로도 안 뒤집힘; 개입 근거는 치주치료→전신염증·근관치료→CVD만 강한 근거 (DOI 10.1038/s41467-022-35337-8)
 - [[periodontics/arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella]] — Arbildo-Vega 2024 · sr+ma (엄브렐라, 18 SR·원저 296편, AMSTAR-2, PMC 전문) · 치주질환↔당뇨병(1형·2형·임신성) 연관: RR 1.26–1.86·OR 1.69–2.59, 당뇨 환자서 치태·치은지수·CAL·탐침깊이·BOP 모두 악화; 13/18편만 high-confidence·중복 17.26%가 확실성 제한, 고혈압 미포함 (DOI 10.3390/healthcare12222311)
 - [[periodontics/tomasi-2022-randomized-multi-centre-study-effectiveness]] — Tomasi 2022 · rct (다기관 현장, n=615) · 치위생사 시행 GPIC(단일회기) vs CNST(다회기 SRP) 6개월 치주낭폐쇄 무차이(~70%), GPIC가 치료시간 17%↓ (DOI 10.1111/jcpe.13703)
+- [[periodontics/lin-2023-novel-ergonomic-curette-design-reduces]] — Lin 2023 · in-vivo (교차설계, 치위생사 12명) · 치과위생사 12명 typodont 교차연구: 적응형 손잡이 큐렛이 관행 큐렛 대비 sEMG 근활동량·피로도 유의 감소, 집기력 유지(p<0.05) (DOI 10.3390/dj11120272)
+- [[periodontics/wink-2024-effect-novel-adaptive-handle-design]] — Wink 2024 · in-vivo (파일럿, n=10) · 적응형 손잡이 큐렛이 MSD 유무 무관 편안함·피로도 유의 개선(비-MSD군 근육작업량도 유의 감소), MSD군은 큐렛 무관 근육작업 약2배·편안함 68%↓·피로도 99%↓ (DOI 10.3390/dj12080253)
+- [[periodontics/dang-2024-effect-novel-ergonomic-sheath-dental]] — Dang 2024 · rct (교차설계 파일럿) · 인체공학 실리콘 슬리브가 초음파 스케일러·마이크로모터의 근육작업량(sEMG)·피로·불편감을 유의하게 감소시킴 (치위생사 p=0.0079/0.0028, 치과의사 p=0.0154/0.001); MSD군 편안함이 슬리브 사용 시 건강군에 근접 (DOI 10.3390/dj12090296)
+- [[periodontics/stutzer-2024-vitro-measurement-forces-during]] — Stutzer 2024 · in-vitro · 압전형 초음파 스케일러 데브리망 시 술자가 가하는 힘을 in-vitro 측정: 평균력 연질치석 0.34N(치위생사)/0.28N(치과의사), 경질치석 0.63N/0.57N, 권장 안전역치 0.5N을 14~56% 시간 초과 (DOI 10.3290/j.ohpd.b5458595)
+- [[periodontics/vadvadgi-2024-comparing-effectiveness-traditional-periodontal]] — Vadvadgi 2024 · rct (n=120) · 전통적 치주수술이 치주낭깊이(Δ-3.1mm)·부착수준(Δ-2.1mm) 감소는 더 크지만, 치위생사 시행 비외과적 SRP가 통증·불편감 낮고 만족도(8.4/10) 유사 — 단, 본문 수치 내적 불일치로 해석 주의 (DOI 10.4103/jpbs.jpbs_956_23)
+- [[periodontics/ou-2021-characterization-mitigation-aerosols-spatters]] — Ou 2021 · in-vitro (마네킹 벤치) · 초음파 스케일링 물방울 99%가 12–200μm·65%가 1m/s 미만, 구강외 국소흡인장치(ELE) 최대 96% 저감(HVE 88%, 타액흡입기 63%) (DOI 10.1016/j.adaj.2021.06.007)
+- [[periodontics/laleman-2022-instrumentation-during-second-stage]] — Laleman 2022 · cross-sectional (EFP 회원 2008명, abstract-only) · 치주치료 2단계 기구조작 시 94.4%가 손기구+초음파 병용(그레이시 큐렛+초음파 스케일러 선호), 기구 마모 점검은 46.1%(손기구)·41.3%(팁)에 그침 (DOI 10.1007/s00784-022-04442-9)
+- [[periodontics/gartenmann-2018-comparative-effectiveness-hand-scaling]] — Gartenmann 2018 · prospective (취리히대 치대생 n=123, abstract-only) · 8.5시간 수기 스케일링 교육 후 치면세정률 61.7-79.5%로 향상, 숙련 치위생사(67.4%)와 유의차 없음 (DOI 10.1111/eje.12361)
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"
@@ -1281,6 +1289,7 @@ tags: []
 - [[orthodontics/mohammed-2018-miniscrew-anatomical-site-failure-sr-ma]] — SR+MA (61편): 부위별 실패율 — 정중구개 1.3% (최저) ~ 광대뼈지지부 16.4% (최고); 치근 접촉 시 실패 위험비 8.7배.
 - [[orthodontics/jahanbin-2025-reused-miniscrew-stability-sr-ma]] — SR+MA (19편): 재사용 미니스크류 체외 토크 유의차 없음; 임상 실패율 유의하게 높음 (RR 0.46); 멸균·술기·해부 영향.
 - [[orthodontics/jkda-2023-61-6-003]] — Retrospective (가천대 길병원 교정과, JKDA 2023, n=438, 570 cases): 한국 매복치 환자 분포·상악 매복 견치 견인 성공률·치료기간 인자
+- [[orthodontics/scribante-2017-dental-hygiene-orthodontics-effect]] — Scribante 2017 · in-vitro (소 치아 200개) · 초음파 스케일링(UI)이 설측 교정 브라켓 4종 결합강도(SBS)·ARI에 미치는 영향 — 베이스 면적 작은 브라켓(TTR·Idea·2D)은 SBS 유의감소(일부 6-8MPa 미만), 큰 브라켓(Victory·STB)은 무영향 (DOI 10.1155/2017/3714651)
 
 ## 재생근관치료 (Endodontics: Regenerative)
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — Narrative review (Front Dent Med 2022): REP in traumatized IPT — apexification vs REP goal distinction; partial pulpotomy/revascularization approaches; heterogeneous evidence from case reports
@@ -1515,6 +1524,7 @@ tags: []
 - [[periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — 동물실험(쥐 결찰 치주염+실험적 관절염, n=60): 스케일링 후 보조 ASU(아보카도/대두 불검화물, 인사돌 옥수수 불검화물의 국제판 자매물) 0.6 mg/kg 위관투여가 치주 골소실을 줄이고 치유를 개선 — 불검화물 host-modulation 계열 보강
 - [[periodontics/park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective]] — 쥐 결찰-치주염 동물실험(6군, n=5–7): 참나물 추출물(PBE) 150–300 mg/kg가 치조골 소실·TRAP+ 파골세포·IL-1β/TNF-α를 용량 의존적으로 감소, 양성대조약 ISD(=인사돌플러스 처방, 옥수수+후박 추출물 250 mg/kg)와 효과 동등 — 인사돌을 기준 효능 벤치마크로 사용
 - [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — Narrative review (KDA 2026 64(4) Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7%; clindamycin ADR 15.7×↑(vs amoxicillin); β-blocker/TCA 환자 epinephrine ≤2 cartridges; GFR/LFT 기반 용량조절 표
+- [[drug/anticoagulants/pesce-2024-effect-different-anticoagulants-antiplatelets]] — Pesce 2024 · cross-sectional (n=93) · 스케일링 시술 중 항응고제·항혈소판제 6군 구강내 출혈시간 비교 — VKA 203초·DAPT 190초로 최장(대조군 50초 대비 p<0.001), 거즈압박만으로 전원 지혈 성공 (DOI 10.1186/s12903-024-04738-0)
 - [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 후향(2010–2017, 평균 23,624 치과의사) + Yellow Card MHRA ADR: amoxicillin 압도적 최저(전체 21.5·치명적 0.1/백만), clindamycin 치명적 최고(2.9/백만, 대부분 C. difficile); macrolide QT/torsades 사망; "amoxicillin 알레르기 → clindamycin" 반사 위험.
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 후향 단일기관(루마니아, n=105, 2024.11–12): DrugBank Checker로 1,332 약물쌍 분석 — 주요 DDI 2.3%·중등도 25.0%·경미 13.4%; 주요는 31–60세(61.3%)·CVD(epinephrine + β-blocker) 집중; 0–30세 0건.
 - [[drug/systemic-disease/mawardi-2023-semaglutide-associated-hyposalivation-case-series]] — Mawardi 2023 · case-report (Medicine, n=3 과체중 여성): 세마글루타이드(Semaglutide/Ozempic, GLP-1 작용제)-연관 hyposalivation 첫 보고 — 수정 Schirmer 평균 9 mL/3분, 쇼그렌 음성·비당뇨, 약물 중단 시 가역/pilocarpine 관리; GLP-1 복용력 문진 근거 (DOI 10.1097/MD.0000000000036730)
@@ -3517,6 +3527,8 @@ tags: []
 - [[dental-handpiece/sharma-2014-selection-usage-disposal-dental-burs]] — Sharma 2014 · cross-sectional(개원의 131명) · 다이아몬드 bur 선호 75% > 텅스텐카바이드 15%; 마모까지 재사용 85%, 효율저하 인지 33% — bur 종류별 선택 임상현실 (DOI 10.7860/JCDR/2014/5916.3946)
 - [[dental-handpiece/esteves-oliveira-2025-laser-assisted-caries-removal-meta-analysis]] — Esteves-Oliveira 2025 · sr+ma(생체 RCT 20편, 치아 ≥2263개) · 레이저 우식제거 = bur 수복생존(RR 1.51)·치수생활력(RR 1.46) 동등, 마취필요(RR 0.29)·통증(RR 0.35)↓, 시술시간↑(MD +2.23); 근거 낮음~매우낮음 (DOI 10.1016/j.jdent.2025.105697)
 - [[overviews/dental-handpiece-bur-selection-overview]] — **NEW Overview**: 용도별 핸드피스·bur 선택 종합 (4편→5편). 회전절삭 선택 3축(핸드피스 종류·bur 종류·레이저 대안)+흡입; 보유근거는 에어로졸/노출·레이저-vs-bur 동등성에 강하고 절삭효율·발열·엔진기전은 근거공백 명시 (2026-06-25)
+- [[dental-handpiece/piela-2022-aerosol-reduction-efficacy-different]] — Piela 2022 · in-vitro (마네킹 벤치) · 무흡인 시 하이스피드 핸드피스가 초음파 스케일러보다 입자 3.4배 발생, 능동추종형 고용량흡인(HVE/Purevac)만 배경수준까지 저감(고정형 DryShield/ReLeaf·저용량흡인은 간헐적 스파이크) (DOI 10.1186/s12903-022-02386-w)
+- [[dental-handpiece/senpuku-2021-effects-extraoral-suction-droplets]] — Senpuku 2021 · in-vivo (실진료실, 자원자 3명) · 구강외흡인 추가 시 체어 좌후방 위치 세균 CFU가 구강내흡인 단독보다 유의하게 추가 감소, 보호효과는 체어 좌측·후방(보조인력 위치)에 국한 (DOI 10.3390/dj9070080)
 
 ### New batch — 2026-06-28 ingest (implants·immediate-implant·ISQ·surface·occlusion·zirconia)
 - [[implants/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCTs, n=1217): no significant difference between immediate/early/conventional loading for implant survival; insertion torque ≥35 Ncm prerequisite; GRADE very low (Esposito 2013)
