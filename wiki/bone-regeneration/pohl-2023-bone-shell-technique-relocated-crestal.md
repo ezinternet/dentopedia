@@ -15,6 +15,8 @@ text_path: /Users/oracleneo/llm-wiki/papers/pohl-2023-bone-shell-technique-reloc
 text_filename: pohl-2023-bone-shell-technique-relocated-crestal.txt
 tags: [bone-shell-technique, horizontal-ridge-augmentation, mandibular-atrophy, autologous-graft, periosteal-releasing-incision, tension-free-closure, staged-implant-placement, abstract-only]
 relations:
+  - type: reinforces
+    target: wang-2025-mucoperiosteal-flap-healing-vertical-bone-titanium-mesh
   - type: extends
     target: stricker-2021-resorption-retromolar-bone-grafts
 ---
