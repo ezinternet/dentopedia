@@ -212,30 +212,16 @@ Beyond the interrupt-or-not question, three axes now carry practical weight: app
 
 **Socket dressing 선택 — oxidized cellulose 우선:** Al-Suliman 2025 split-mouth prospective trial (40 anticoagulated patients, 80 paired sockets) compared the two most common socket fillers head-to-head within the same patient: **Surgicel (oxidized cellulose) outperformed Gelfoam (gelatin sponge)** on hemostasis (VIBe), 24-h delayed bleeding (aspirin 5% vs 10%; warfarin 10% vs 15%), gingival healing, and pain (all p<0.05). Warfarin patients bled more, healed slower, and reported more pain than aspirin patients across both dressings. Practical default in anticoagulated extraction: oxidized cellulose over gelatin sponge. (Caveat: fixed side allocation, no suture-only control, no DOAC patients.) This sits alongside Guardieiro 2023 (chitosan vs cellulose in DAPT) as the dressing head-to-head evidence; Dou 2025 lists sutures, pressure, gelatin sponge, oxidized cellulose, chitosan, and TXA sponges all as effective adjuncts that make uninterrupted anticoagulation viable.
 
-### 3-1. TXA 제형 사다리 — 양치액이 전부가 아니다
+### 3-1. 제제 선택 심화 → 전용 오버뷰
 
-위 매트릭스는 TXA를 "양치액"과 "국소 도포" 두 줄로만 잡고 있었다. 제형별 근거가 최근 갈라졌다.
+TXA 제형(양치액·분말·병용·거즈), 제제 간 head-to-head 비교, 근관외과 골소와의 별도 제제군, 그리고 아직 임상 근거가 아닌 재료(이상성 황산칼슘·동물 키토산)는 **[[overviews/local-hemostasis-agents-overview]]**로 분리했다. 이 페이지는 *항응고제를 중단할지 말지*가 본업이고, 그 다음 단계인 *발치와에 무엇을 넣을지*의 근거 전체는 그쪽이 단일 출처다.
 
-| 제형 | 프로토콜 | 근거 | 쓰는 상황 |
-|---|---|---|---|
-| **4.8% 양치액** | 10 mL × 2분, 1일 4회, 7일 | SR (출혈 50–60%↓) — [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] | 기본 1차 |
-| **분쇄정제 분말/페이스트** | 정제 **250–500 mg** 분쇄 + 생리식염수로 페이스트 → 흡수성 스폰지에 적셔 발치와 충전 | scoping review 10편, 전부 항응고 **중단 없이** 지혈 성공 — [[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]] | 양치액 협조 어려운 환자, 즉시 지혈 필요, 양치액 미비 |
-| **젤라틴 스폰지 + TXA 병용** | 표준화된 방식 **없음** (동시/순차/불명) | scoping review 16편, 이질성 커 프로토콜 제시 불가 — [[drug/anticoagulants/swissdentj-2026-gelatin-sponge-tranexamic-acid-anticoagulated]] | 병용은 흔하나 근거는 "유망" 수준에 머묾 |
-| **즉시사용 TXA 거즈** | 2.5%(w/v)가 5%와 동등, 1분 내 87% 방출, 180일 안정 | **전임상만** (시험관, 건강 지원자 혈액) — [[drug/anticoagulants/sitthikornvanich-2026-tranexamic-acid-gauze-hemostatic-oral-surgery]] | 아직 임상 적용 근거 없음 |
+이 맥락에서 알아야 할 최소한만 남기면:
 
-- **분말이 실질적 추가다.** 양치액은 환자 순응도(1일 4회 × 7일)에 기대는 반면, 분말은 술자가 발치와에서 끝낸다. Bergo 2026의 10편 모두 항응고제를 유지한 채 지혈에 성공했다는 점이 §1 원칙과 정합적이다. 단 scoping review라 TXA 단독 효과는 정량화되지 않았다(대개 스폰지·봉합과 함께 쓰임).
-- **병용은 근거보다 관행이 앞서 있다.** Swiss Dent J 2026이 16편을 모아 내린 결론이 "표준 프로토콜을 제시할 수 없다"인 것 자체가 정보다 — 관찰연구 편중, VKA 쏠림, DOAC 과소대표.
-
-### 3-2. 아직 임상 근거가 아닌 재료 (참고만)
-
-아래는 이 오버뷰의 권고에 **넣지 않는다.** 검색에서 지혈재로 함께 잡히므로, 등급을 명시해 격리해 둔다.
-
-- [[drug/anticoagulants/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants]] — 이상성 황산칼슘 시멘트(3D Bond) 무출혈 95% vs 콜라겐 80%. **교란 설계**: 대조군은 항응고제를 *중단*했고 2005–2006년 과거 코호트이며 항생제·봉합사도 달라 5개 변수가 동시에 다르다. 게다가 차이 자체가 비유의(p=0.342). 재료 효과의 근거가 아니라 시행가능성 기록.
-- [[drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction]] — 4급암모늄화 키토산/폴리도파민 스폰지, **항응고 흰쥐 모델**. 젤라틴 스폰지 대비 출혈량 0.011 vs 0.019 g·지혈시간 59.7 vs 87.0초 — 절대차는 혈액 8 mg·27초 수준이고 사람 데이터 없음. 제목이 "in anticoagulated patients"라 임상 근거로 오인되기 쉬우니 주의.
-- 인체 근거가 있는 키토산은 [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]](DAPT 환자 RCT)이며, 위 동물 연구가 이를 보강하지는 않는다.
-
----
-
+- **TXA가 지렛대다** — 드레싱 선택보다 효과 크기가 크다(양치액 50–60%↓, 국소 도포 80%↓).
+- **양치액을 못 쓰는 상황엔 분말** — 정제 250–500 mg 분쇄 + 생리식염수 페이스트를 흡수성 스폰지에 적셔 발치와 충전. 순응도(1일 4회 × 7일)에 기대지 않고 술자가 그 자리에서 끝낸다. ([[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]])
+- **드레싱 실용 서열**: 키토산 ≥ 산화셀룰로오스 > 젤라틴 스폰지 (전부 소규모·간접 비교).
+- **국소 지혈을 생략하면** DOAC 환자 등급3 출혈이 8.1%까지 간다 — §1의 [[drug/anticoagulants/kaya-2025-postoperative-bleeding-pain-doac-extraction]] 참조.
 ## 4. NSAIDs ↔ Aspirin 약물상호작용 (치과의가 잘 놓치는 지점)
 
 [확인] Ibuprofen·기타 비선택적 NSAIDs는 Aspirin이 COX-1에 비가역 결합하는 자리를 가역적으로 점유해 **Aspirin의 항혈소판 효과를 무력화**시킬 수 있음. 임상 영향은 NSAID 종류·용법·시간 간격에 따라 다름.
@@ -443,6 +429,7 @@ Beyond the interrupt-or-not question, three axes now carry practical weight: app
 - [[drug/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — JAK2 클론성 조혈 환자 혈소판 hyperactivity·혈전 위험
 
 ### 인접 overview
+- [[overviews/local-hemostasis-agents-overview]] — **지혈제 선택의 단일 출처** (2026-07-19 본 페이지 §3에서 분리): 세 맥락별 제제군, head-to-head 비교, TXA 제형 사다리, 전임상 재료 격리
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — 국소 지혈제 종류별 효과 종합
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브
 - [[drug-analgesics-postop-pain-overview]] — 술후 진통제 NSAID-Aspirin 상호작용 상세
