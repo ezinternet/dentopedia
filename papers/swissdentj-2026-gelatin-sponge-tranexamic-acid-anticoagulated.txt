@@ -1,0 +1,20 @@
+TITLE: Combination of gelatin sponge and tranexamic acid for hemostasis after tooth extraction in anticoagulated patients: a scoping review
+
+JOURNAL: Swiss Dental Journal (Swiss Dent J) 2026;136(2):26-38
+PMID: 42366775
+DOI: 10.61872/sdj-2026-02-03
+PUBLICATION DATE: 2026-06-29
+LANGUAGE: eng
+ARTICLE TYPES: Journal Article; Scoping Review
+AUTHORS: not available (PubMed record contains no author metadata)
+PMCID: none (no PMC full text available)
+RETRIEVAL: PubMed metadata + abstract only, via PubMed MCP. Full text NOT retrieved.
+
+KEYWORDS: Anticoagulants; Gelatin Sponge; Hemostasis; Tooth Extraction; Tranexamic Acid
+
+MeSH TERMS: Humans; Tranexamic Acid; Tooth Extraction; Anticoagulants; Gelatin Sponge, Absorbable; Antifibrinolytic Agents; Hemostatics; Postoperative Hemorrhage; Hemostasis
+
+ABSTRACT:
+Post-extraction bleeding management in patients receiving anticoagulant therapy remains a clinical challenge requiring a balance between hemorrhagic and thromboembolic risks. Gelatin sponge and tranexamic acid (TXA) are widely used local hemostatic agents, but their combined use remains inconsistently reported and poorly standardized. This scoping review aimed to map existing evidence, characterize intervention variability, and identify research gaps regarding their combined use. This scoping review followed the Arksey and O'Malley framework and was reported according to PRISMA-ScR. PubMed, Scopus, and ScienceDirect were searched through April 2026. Sixteen studies involving anticoagulated patients undergoing tooth extraction with local hemostatic interventions were included and synthesized descriptively. Included studies were predominantly observational, with limited randomized trials. Vitamin K antagonists were the most commonly represented anticoagulants, whereas direct oral anticoagulants were underrepresented. TXA was applied in multiple formulations and combination approaches with gelatin sponge were classified as simultaneous, sequential, or unspecified. Reported outcomes mainly included bleeding incidence, severity, and need for additional intervention, with substantial heterogeneity in protocols and outcome definitions. Combined use of gelatin sponge and TXA appears promising for achieving hemostasis without interrupting anticoagulant therapy. However, variability in intervention protocols, outcome reporting, and limited higher-level evidence highlight important gaps, indicating the need for harmonized protocols and stronger comparative studies to support evidence-based clinical guidance.
+
+SOURCE: PubMed (https://pubmed.ncbi.nlm.nih.gov/42366775/), DOI https://doi.org/10.61872/sdj-2026-02-03
