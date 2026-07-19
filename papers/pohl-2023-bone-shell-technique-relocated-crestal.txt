@@ -1,0 +1,16 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMCID; paywalled)
+PMID: 37338921 | DOI: 10.11607/prd.6095
+Pohl S, Buljan M.
+"Bone Shell Technique with Relocated Crestal Ridge Segment for Anterior Horizontal Mandibular Ridge Atrophy: A Case Series."
+Int J Periodontics Restorative Dent. 2023;43(5):596-605.
+
+== ABSTRACT (full) ==
+Horizontal and vertical ridge augmentation via the bone shell technique provides predictable outcomes. The external oblique ridge is the most-used donor site for bone plate harvesting, followed by the mandibular symphysis. The lateral sinus wall and the palate have also been described as alternative donor sites. This preliminary case series reports a bone shell technique that used the coronal segment of the knife-edge ridge as a bone shell in five consecutive edentulous patients (20 sites) with severe mandibular horizontal ridge atrophy and adequate ridge height. The follow-up period was 1 to 4 years. The average horizontal bone gains at 1 mm and 5 mm below the newly formed ridge crest were 3.6 ± 0.76 mm and 3.4 ± 0.92 mm, respectively. Ridge volume was sufficiently restored in all patients to enable implant placement in a staged approach. In 2 of the 20 sites, additional hard tissue grafts were required at implant placement. The advantages of utilizing the relocated crestal ridge segment are as follows: The donor and recipient sites are the same, no major anatomical structures are compromised, periosteal releasing incisions and flap advancement are not required for primary wound closure, and the risk of wound dehiscence is minimized due to reduced muscle tension.
+
+== NOTES ==
+- Abstract-only ingest: no PMCID, no PMC full text available. No structured Methods/Results/Conclusions subheadings in the PubMed record — the abstract is a single block, reproduced verbatim above.
+- Article type: Journal Article (case series), per PubMed article_types. Not retracted (checked via PubMed MCP get_article_metadata).
+- Study type: case series, n=5 patients / 20 sites — below case-report/case-series n<10 threshold in wiki evidence_level vocabulary → evidence_level: case-report.
+- Core technique: coronal segment of a knife-edge (severely atrophic) mandibular ridge is horizontally sectioned, relocated/repositioned laterally as an autologous "bone shell" over particulate graft, at the SAME site it was harvested from (no second donor site).
+- Explicit claimed advantage over conventional bone-shell/block-graft techniques (which typically harvest from external oblique ridge, symphysis, sinus wall, or palate): donor site = recipient site, no compromise of major anatomical structures, and — the detail most relevant to the periosteal-releasing-incision (PRI) literature — PRI and flap advancement are NOT required for primary closure, reducing muscle tension and wound dehiscence risk.
+- No numeric complication rate beyond "2 of 20 sites required additional hard tissue graft at implant placement"; no adverse event / dehiscence rate reported in the abstract itself.
