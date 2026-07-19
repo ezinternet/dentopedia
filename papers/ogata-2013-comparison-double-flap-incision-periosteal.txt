@@ -1,0 +1,17 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMCID; paywalled)
+PMID: 23527365 | DOI: 10.11607/jomi.2714
+Ogata Y, Griffin TJ, Ko AC, Hur Y. Department of Periodontology, Tufts University School of Dental Medicine, Boston, MA 02111, USA.
+"Comparison of double-flap incision to periosteal releasing incision for flap advancement: a prospective clinical trial."
+Int J Oral Maxillofac Implants. 2013;28(2):597-604.
+
+== ABSTRACT (full) ==
+Purpose: The aim of this study was to evaluate the efficacy and morbidity of two periodontal releasing incision techniques in vertical ridge augmentation.
+
+Methods: Twenty-three vertical and horizontal defects (Seibert Class III) were selected to compare the double-flap incision (DFI) to the conventional periosteal releasing incision (PRI). An incision technique was randomly assigned for flap advancement. The amount of flap advancement, the incidence of postsurgical complications, and the level of patient discomfort were compared. Flap advancement was measured with a UNC-15 probe as the difference between the initial elevated flap and the final advanced flap. Postsurgical complications including premature membrane exposure, infection, paresthesia, and continuous discomfort were noted at follow-up visits. A visual analog scale (VAS) was used to quantify the amount of pain, swelling, and bleeding in the patients.
+
+Results: An average of 9.64 ± 0.92 mm flap advancement was accomplished for DFI, whereas PRI advancement averaged 7.13 ± 1.45 mm (P < .001). Premature membrane exposures occurred in two sites in the PRI group and one site in the DFI group. Paresthesia, infection, and continuous discomfort were noted in one site each in the PRI group. The difference between groups in the incidence of postoperative complications (PRI, 5; DFI, 1) was not significant (P < .082). The mean pain, swelling, and bleeding scores for DFI (1.55 ± 1.21, 1.91 ± 0.94, and 0.40 ± 0.12, respectively) were lower than those of the PRI group (3.75 ± 2.63, 3.25 ± 1.29, and 1.16 ± 0.34, respectively) (P = .019, P = .010, and P = .061, respectively).
+
+Conclusion: Flap advancement was facilitated and morbidity was decreased in the DFI group. The technique may have potential to serve as an alternative to PRI to overcome some of the latter's limitations.
+
+Study type: Randomized/prospective clinical trial (PubMed article_types: Journal Article, Randomized Controlled Trial). Head-to-head comparative RCT of two named flap-advancement techniques — rare in this collection (most PRI-adjacent papers here are single-arm case series or SR taxonomy, not comparative trial data).
+MeSH: Adult, Aged, Alveolar Ridge Augmentation, Female, Humans, Incidence, Male, Mandible, Microsurgery, Middle Aged, Pain Measurement, Periosteum, Postoperative Complications, Prospective Studies, Surgical Flaps.
