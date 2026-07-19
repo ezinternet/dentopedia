@@ -13,6 +13,9 @@ pmid: "39701124"
 source_url: https://pubmed.ncbi.nlm.nih.gov/39701124/
 text_path: /Users/oracleneo/llm-wiki/papers/hur-2025-modified-periosteal-releasing-incision-mpri.txt
 text_filename: hur-2025-modified-periosteal-releasing-incision-mpri.txt
+relations:
+  - type: extends
+    target: raabe-2025-impact-two-flap-advancement-techniques
 tags: [periosteal-releasing-incision, MPRI, flap-advancement, primary-closure, mental-nerve, mandible]
 ---
 
