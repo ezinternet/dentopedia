@@ -1,0 +1,237 @@
+Introduction
+
+Periodontitis, a chronic inflammatory oral condition, is a major global health concern, ranking as the second leading cause of tooth loss worldwide after dental caries []. Approximately 50% of the global population experiences periodontitis, making it the seventh most prevalent disease globally [,].
+
+While periodontitis is multifactorial, the presence of dysbiotic biofilm is crucial for its progression []. The primary treatment goal is to reduce harmful microorganisms and restore a healthy flora around teeth, and also to create a biologically compatible root surface for reattachment []. Professional mechanical plaque removal (PMPR) are widely accepted methods for achieving this, but their effectiveness can vary due to factors like deep probing depths and difficult-to-reach areas []. Probiotics and other adjuvants to subgingival instrumentation [] have been proposed to address these limitations. While the use of adjunctive antibiotics and other antimicrobials is established, the indications are specific. The primary concern associated with the use of antimicrobials is bacterial resistance []. Therefore, there is growing interest in understanding the mechanism of action of probiotics in modifying the microflora of periodontal patients. The mechanisms underlying the potential efficacy of probiotics in periodontal disease are related to biological mechanisms []. Probiotics compete with periodontal pathogens, modulating dysbiotic conditions []. They can reduce the immunogenicity of the microflora and modulate immunological and inflammatory pathways, resulting in the reduction of the destructive inflammation characteristic of periodontitis []. The ultimate outcome is immunological homeostasis, which could persist in the individual for an extended period. Indeed, probiotics can reduce periodontal disease pathogens by producing hydrogen peroxide [,]. Additionally, while plaque is a necessary but not sufficient condition for the development of periodontal disease, probiotics also demonstrate the ability to prevent plaque formation by reducing saliva pH through the production of antioxidants, thereby inhibiting the growth of bacteria [].
+
+Early systematic reviews (SRs) highlighted the short-term benefits of probiotics as an adjunct to subgingival instrumentation, but no specific regimen was deemed superior [,]. Given the complexity of clinical decisions and the necessity for evidence-based practices, a clear understanding of the relative risks and benefits of probiotic therapy is crucial. To provide a comprehensive understanding of probiotic therapy, a network meta-analysis (NMA) model was implemented. This model, unlike classical meta-analysis, accommodates all available probiotic regimens, allowing for indirect comparisons between interventions not directly assessed in individual trials. This approach enhances accuracy, offers a coherent overview, and enables the ranking of interventions based on their relative risks and benefits.
+
+Therefore, this systematic review and network meta-analysis aimed to answer the following focused question:,
+
+Methods
+
+Protocol registration and reporting format
+
+This SR and NMA adhered to PRISMA guidelines, including the updated version for network meta-analysis (Appendix). It is registered in PROSPERO under trial No. CRD42021250678.
+
+Eligibility criteria
+
+Tableshows the main inclusion criteria for the PICO question, including primary and secondary outcomes. Studies lacking essential data required for a meta-analysis; nonrandomized clinical studies, cohort studies, and case series; studies involving patients with systemic diseases (HIV/AIDS or diabetes) or intellectual disabilities; studies focused on forms of periodontal disease other than chronic periodontitis, patients in periodontal supportive therapy, or healthy volunteers; studies examining therapies other than probiotics; studies targeting children, adolescents, or the elderly population; studies failing to meet the transitivity assumption were excluded.
+
+Table 1
+
+Components of PICOS question
+
+PICOS question
+
+P
+
+Patients
+
+Adult (≥ 18 years), systemically healthy individuals, untreated patients diagnosed with periodontitis*
+
+I
+
+Intervention or exposure
+
+SRP plus single probiotic; SRP plus a combination of probiotics;.
+
+C
+
+Comparison
+
+Placebo; absence of probiotic treatment; SRP alone;
+
+O
+
+Outcomes
+
+: clinical parameters (PPD; CAL) (mean changes in these clinical parameters between baseline and follow-up visits).
+
+: clinical parameters (BOP; PI and CFU) (mean changes in these parameters between baseline and follow-up visits).
+
+S
+
+Study design and duration
+
+RCTs, excluding split-mouth studies, that reported the outcomes of interest; N (patients) ≥ 10; with a minimum follow up time of one month.
+
+BOP: bleeding on probing; CAL: clinical attachment level; CFU: colony forming units; PI: plaque index; PPD: probing pocket depth; RCTs: randomized controlled trials; SRP: scaling and root planing
+
+* According to the “new classification scheme for periodontal and peri-implant diseases and conditions”. For inclusion, studies must reference diagnostic criteria, with at least one site exhibiting a mean PPD ≥ 5 mm, CAL ≥ 1 mm, and the presence of BOP. Stage II periodontitis; localized or generalized; Grade B. (Caton, J. G. et al. A new classification scheme for periodontal and peri-implant diseases and conditions - Introduction and key changes from the 1999 classification. J Clin Periodontol 45 Suppl 20, S1-S8, doi:10.1111/jcpe.12935 (2018).)
+
+Information source and searches
+
+Three electronic databases and three grey literature platforms were searched up to November 2023: MEDLINE (via PubMed), LILACS, and Cochrane Central Registry of Controlled Trials (CENTRAL); and Google Scholar (with the first 300 references retrieved), ClinicalTrials.gov, and a database listing of unpublished studies (DANS EASY Archive, available at 10.17026/dans-xtf-47w5), respectively. Detailed search strategies (Appendix) were adopted, supplemented by screening of reference lists (using Research Rabbit,) and outreach to corresponding authors via email to inquire about additional research in the field or awareness of any ongoing projects.
+
+Study selection and data extraction
+
+Two reviewers rigorously and independently followed predetermined criteria for screening titles and abstracts for eligibility. Exclusion decisions were meticulously recorded (Table, Appendix). Full-text reports were obtained for included studies and those lacking sufficient information. Data extraction covered study features, participant details, and outcome measures. Contacting corresponding authors addressed any needed clarifications. Discrepancies were resolved through discussion, with a third reviewer consulted if necessary.
+
+Data items
+
+Tableshows the main variables sought in the included studies. Tablepresents data by group and outcomes (Appendix).
+
+Risk of bias within individual studies
+
+The methodological quality of the included studies was assessed using Cochrane Collaboration’s Tool Assessment Risk of Bias 5.1.0 []. Two independent reviewers assigned ‘low risk,’ ‘unclear risk,’ or ‘high risk’ of bias to each question. Discrepancies were resolved through discussion or consultation with a third reviewer if needed. Cohen’s kappa coefficient evaluated interrater agreement, with interpretations ranging from poor to almost perfect. Final scores were determined based on the percentage of ‘low risk of bias’ responses. Study bias was categorized as high (≤ 49%), moderate (50–69%), or low (≥ 70%).
+
+Data synthesis
+
+Summary treatment effect measures
+
+Clinical parameters for continuous primary and secondary outcomes were derived from included studies. Mean differences (MD) and standard errors were presented for all studies. Effect sizes within and between groups at baseline and last follow-up were calculated using MedCalcSoftware Ltd (available at) (Appendix, Tables,,,and).
+
+Planned methods of analysis
+
+Network meta-analyses, incorporating direct and indirect comparisons, were conducted using a frequentist weighted least-squares approach with the “netmeta package” in Rstudio (R. Rstudio, PBC, Boston, MA). Random-effects models were applied, categorizing results by follow-up periods: ≤3 months (short-term) and > 3 months (long-term). A single common approach was used to assess heterogeneity within studies.
+
+Assessment of inconsistency
+
+Both local (SIDE method) and global (incoherence models) approaches were employed to assess inconsistency. The netsplit function separated indirect from direct evidence, while incoherence models assessed inconsistency across the entire network. No inconsistency was considered for> 0.05.
+
+Confidence in the results of the network meta-analysis
+
+The CINeMA framework (Confidence in Network Meta-Analysis () assessed confidence in results and certainty of evidence, covering within-study bias, reporting bias, indirectness, imprecision, heterogeneity, and incoherence. Confidence was graded as high, moderate, low, or very low (Appendix, Tables,and).
+
+Additional analyses
+
+A sensitivity analysis was conducted, considering the duration of probiotic therapy, categorized as either ≤ 1 month or > 1 month.
+
+Assessment of transitivity across comparisons
+
+To evaluate transitivity, systematic information on patient and study characteristics was provided. This allowed the empirical assessment of potential effect modifiers’ distribution across trials, including periodontal disease severity, diagnostic criteria, smoking habits, and follow-up period.
+
+Network geometry
+
+Illustrated as spider web-like plots, network geometry portrays connections between studies employing diverse periodontal therapies. Plots, categorized by outcomes, interpret geometry based on parameters like patient count, study numbers, nodes, edges, strong edges percentage, common comparators percentage, density, and median thickness.
+
+Results
+
+Study selection
+
+A flow diagram in Appendixoutlines the article screening process. From 2,599 articles, 104 underwent full-text review, with 33 meeting the inclusion criteria for qualitative assessment. Quantitative analysis included 28 studies for PPD, 26 for CAL, and 18 for BOP; other outcomes (PI and CFU) lacked sufficient data for network meta-analysis.
+
+Study characteristics
+
+Appendix’s tablesummarizes details from the 33 RCTs, featuring patients diagnosed with moderate to severe chronic periodontitis []. All participants were untreated patients, and smoking habits varied, with one RCT exclusive to smokers and 22 involving non-smokers. Follow-up periods ranged from 1 month to 1 year, and probiotic therapy durations spanned from a single application to 6 months. The probiotics included,,,,, alone or in combination, administered through various routes like gel, lozenges, paste, gum, powder, tablets, capsules, drops, mouthwash, sachets, and yogurt.
+
+Summary of network geometry
+
+In analyzing periodontal outcomes, PPD reduction data were extracted from 28 studies (85%), encompassing 1,056 participants [–], revealing a network diagram with 25 nodes and 27 edges, 11.11% strong edges, 32% common comparators, and a median network connection with a density of 0.09 and a mean thickness of 1.04 (Fig.A). For CAL, 26 RCTs [17–26,28−33,35–40,42−45] (79%) with 906 patients showcased a network diagram (Fig.B) containing 26 nodes and 29 edges, 10.34% strong edges, 38.46% common comparators, a median network connection with a density of 0.09, and a mean thickness of 0.90. Additionally, BOP data from 18 RCTs (55%) [,,,,–,,,,,,–] with 682 patients exhibited a network diagram (Fig.C) featuring 16 nodes and 16 edges, 18.75% strong edges, 31.25% common comparators, a median network connection with a density of 0.13, and a mean thickness of 1.13.
+
+Fig. 1
+
+Network plot for primary outcomes [PPD (1 A), CAL (1B)] and secondary outcome [BOP (1 C)]. The nodes have the same size. Treatments with direct comparisons are linked with a line. These star networks emphasize two major comparators—SRP and SRP + placebo (Splac)—relying heavily on indirect evidence. Node color indicates risk of bias (RoB) of the intervention, while edge color signifies average RoB. Edge width corresponds to the number of studies comparing treatments. The PPD network includes 300 potential comparisons with 9% direct evidence, and the CAL network has 325 possible comparisons with 8.92% direct evidence. The BOP network comprises 120 potential comparisons, with 13% direct evidence
+
+Risk of bias within included studies
+
+Cohen’s kappa for the 33 studies assessed using the Cochrane Collaboration’s Tool was 0.96 (= 0.018), indicating almost perfect agreement. No study was excluded after overall appraisal, but 30% had a high risk of bias, primarily in selection, performance, and detection domains (Fig.) (Appendix).
+
+Fig. 2
+
+Risk of bias summary: review authors’ judgements about each risk of bias item for each included study
+
+Synthesis of results
+
+PPD (short-term studies)
+
+When combined with SRP, eight probiotic interventions resulted in significantly greater PPD reduction compared to Splac with a MD from 0.18 mm (95% confidence interval [CI]: 0.08–0.28,= 0.0004, 95% prediction intervals [PdI]: -0.4680; 0.8280) with SRP +to 1.48 mm (95% CI: 1.24–1.72,= 0.0001, 95% PdI: -0.0829; 3.0429) with SRP +(Fig.A).
+
+PPD (long-term studies)
+
+When combined with SRP,significantly reduced PPD with a MD of 0.80 (95% CI: 0.30–1.29,= 0.0016, 95% PdI: -5.4763; 7.0680) compared with Splac (Fig.B).
+
+Fig. 3
+
+Changes in PPD (3A; 3B). Effect sizes are presented as mean differences with a 9% confidence interval. MD = mean difference; CI = confidence interval
+
+CAL (short-term studies)
+
+Sixteen probiotic interventions combined with SRP caused significantly more CAL gain than Splac, with a MD from 0.16 mm (95% CI: 0.05–0.27,= 0.0050, 95% PdI: -0.5643; 0.8843) with SRP +to 1.05 mm (95% CI: 1.03–1.07,= 0.0001, 95% PdI: 0.9102; 1.1898) with SRP +,,(Fig.A).
+
+CAL (long-term studies)
+
+When combined with SRP, two probiotic interventions significantly cause more CAL gain than Splac with a MD from 0.32 mm (95% CI: 0.13–0.51,= 0.0011) with SRP +() to 0.43 mm (95% CI: 0.24–0.62,= 0.0001) with SRP +() (Fig.B).
+
+Fig. 4
+
+Changes in CAL (4A; 4B). Effect sizes are presented as mean differences with a 95% confidence interval. MD = mean difference; CI = confidence interval
+
+BOP (short-term studies)
+
+In four probiotic combinations with SRP, it is verified the significant reduction of BOP compared to Splac, with a MD from 13.26% (95% CI: 5.45–21.07,= 0.0009, 95% PdI: -48.8436; 75.3636 ) with SRP +to 33.00% (95% CI: 23,62–42.38,= 0.0001, 95% PdI: -37.6700; 103.6700 ) with SRP +(Fig.A).
+
+BOP (long-term studies)
+
+When combined with SRP, four probiotic interventions significantly cause more BOP reduction than Splac with a MD from 5.02% (95% CI: 3.64–6.40,= 0.0001) with SRP +,to 23.31% (95% CI: 18.50–28.12,= 0.0001,) with(Fig.B).
+
+Fig. 5
+
+Changes in BOP (5A; 5B). Effect sizes are presented as mean differences with a 95% confidence interval. MD = mean difference; CI = confidence interval
+
+Exploration for inconsistency
+
+SIDE analysis revealed no inconsistency (0%) for all the studied outcomes. Global inconsistency was not identified for any outcome as well: PPD (Q = 0, p = NA, for both short- and long-term studies), CAL (Q = 0, p = NA, for both short- and long-term studies), and BOP (Q = 0, p = NA, for both short- and long-term studies) (Appendix).
+
+Results of additional analyses
+
+To reduce heterogeneity (for PPD long-term studies and BOP short-term studies), we implemented the following strategies: removing studies with a high risk of bias and conducting a subgroup analysis based on the duration of antibiotic therapy (with 1 month as the reference). Since there were no differences in the final results when excluding studies with a high risk of bias, we decided to retain them to increase the sample size and enhance the robustness of the results. For the other outcomes, the heterogeneity was not significant (I²=0%).
+
+PPD (long-term studies)
+
+Therapy ≤ 1 m
+
+Considering the studies with a duration of therapy ≤ 1 month, the heterogeneity of the analysis decreases from considerable (I= 96.1%, 95% CI: 91.7 to 98.2) to not important (0%). SRP +maintains the clinical relevance (MD > 0.5 mm) (MD = 1.16, 95% CI: 1.06 to 1.25,= 0.0001).
+
+Therapy > 1 m
+
+The heterogeneity of this outcome remains considerable (> 70%), even with the sensitivity analysis, and no clinically relevant alterations were observed compared to the initial network estimations.
+
+BOP (short-term studies)
+
+The heterogeneity of this outcome remains considerable (> 70%), even with the sensitivity analysis, and no clinically relevant alterations were observed compared to the initial network estimations.
+
+Ranking of the interventions
+
+For all the outcomes measured, the best probiotic regimen in terms of PPD and BOP reduction and CAL gain is the, specifically the specie(PPD ≤ 3 m: P-score = 1; PPD > 3 m: P-score = 0.9363; CAL > 3 m: P-score = 0.9650; BOP ≤ 3 m: P-score = 0.9671; 0.9417; BOP > 3 m: P-score = 0.9863). This probiotic, when used as an adjuvant to SRP, appears to be the most effective for both short and long-term follow-up periods, whether the therapy lasts for less or more than one month. The combination ofwithseems to have better impact on CAL gain in studies with a follow up ≤ 3 m (P-score = 0.9922).
+
+Discussion
+
+This systematic review with network meta-analysis examined 33 RCTs to assess the efficacy of probiotics in enhancing clinical parameters (PPD, CAL, BOP). It represents the first comprehensive analysis of diverse probiotic proposals. Although most probiotics, in conjunction with SRP, showed improvements in PPD and CAL over Splac, certainty levels were very low at 92% and 71%, respectively (Appendix).
+
+Our sensitivity analysis substantially reduced the heterogeneity of the outcomes measured, specifically for PPD. It concludes that the duration of probiotic therapy regimens can directly impact the success of the supplementary intervention. Our findings did not show sustained benefits beyond one month of probiotic therapy, suggesting that there is no difference providing probiotic therapy for more than one mouth. Quantitative analysis for secondary outcomes, PI and CFU, faced constraints due to network disconnection and high clinical data heterogeneity, respectively. However, the qualitative evaluation of the included studies measuring the effect of probiotics as an adjuvant to subgingival instrumentation in terms of reducing CFU counts follows the biological plausibility of the mechanism of action of probiotics in oral microflora. Almost all the included studies show that groups with subgingival instrumentation adjuvated with probiotic therapy experienced more CFU reduction compared to control/placebo. This is valid for the total load of bacteria [,,,,,,] or specific periodontal bacteria ([,,,],[,,,,,],[,,,,],[,],[,], and[]) demonstrating the action of probiotics in replacing dysbiotic microflora with symbiotic microflora.
+
+Despite theoretically distinct systemic and local routes of probiotic administration, we refrained from conducting a subgroup analysis based on the type of administration. This decision was influenced by the local application of probiotics, such as dissolving tablets under the tongue, applying gels, sucking lozenges, and dissolving capsules in the mouth, where it’s challenging to ensure that the patient does not inadvertently swallow the content, making it difficult to control for a completely local application route.
+
+In our statistical analysis, we differentiated between two control arms (SRP; SRP + plac) based on the well-established placebo response, even in cases where outcomes are objectively measurable. While PPD and CAL measurements are objective, we acknowledge that improvement and response to periodontal therapy result from a collaborative effort between the dentist and the patient’s commitment to oral healthcare. In periodontal diseases, the placebo effect is explained as a psychological response to the therapeutic context or treatment received, possibly associated with the patient’s motivation to improve []. However, in our results, we only observed significant and clinically relevant differences between SRP and SRP + plac for the BOP outcome (-21.51, 95% CI: -30.35 to -12.67,= 0.001, 95% PdI: -89.1755; 46.1555), leading us to conclude that SRP alone is an inferior therapy compared to SRP + plac. Nevertheless, the measurement of this outcome is subjective compared to the objective measurements of PPD and CAL outcomes. For PPD, there were no differences between SRP and SRP + plac (-0.02, 95% CI: -0.21 to 0.17,= 0.8402, 95% PdI: -1.2799; 1.2399). For the CAL outcome, the differences were statistically significant between SRP and SRP + plac but not clinically relevant (0.27, 95% CI: 0.01 to 0.053,= 0.0430, 95% PdI: -1.4251; 1.9651). These differences were only proven for the short-term studies, as the network loses connection for the long-term studies (to apply the network algorithm, it was mandatory to remove the arms of SRP alone treatment).
+
+In 2020, Nikolaos Donos et al. published a systematic review evaluating the efficacy of host modulators combined with subgingival instrumentation in reducing probing pocket depth in patients with periodontitis. The study concluded that based on five RCTs, treatment with probiotics resulted in a non-statistically significant benefit in PPD reduction of 0.38 mm []. On the other hand, a study published by J Li and his team, supports the use of probiotics as adjuvant to non-surgical periodontal treatment for PPD (MD=-0.60, 95% CI: -0.9 to -0.3,< 0.001) and CAL (MD=-0.52, 95% CI: -0.75 to -0.28,< 0.001) outcomes []. This study suggest that the administration of probiotics together with scaling and root planing can somewhat improve chronic periodontitis patient clinical outcomes and reduce levels of periodontal pathogens []. Our results, in addition to incorporating a network analysis, have included an additional number of randomized controlled trials (33) and increased the overall study population from 193 [] and 647 [] patients to 1290, respectively. This expansion provides innovative evidence for this topic and enhances statistical robustness. With, the reduction in PPD was statistically significant (MD = 1.16, 95% CI: 1.06 to 1.25,= 0.001) and clinically relevant (difference > 0.5 mm), with the results being better than that reported by Donos et al. [] and consistent with the results of Li et al. []. The confidence interval and Istatistic (0%) in our results instilled confidence in this information. The purpose of conducting a network meta-analysis in this field is to compare all available probiotic therapy regimens head-to-head and understand which one is the most effective as an adjunct to periodontal therapy. Although our study supports the clinical benefits of probiotics, there are still studies that do not demonstrate these benefits, with some authors advocating against the use of probiotics in the treatment of periodontal diseases [,].
+
+To ensure a homogeneous sample and meet the transitivity assumption, we focused on untreated patients diagnosed with periodontitis. Additionally, we also adhered to the definition provided by Armitage (1999) to avoid excluding studies published before 2018 []. Given that chronic and aggressive periodontitis have different disease story, we included only studies on chronic periodontitis published before 2018. Individual diagnostic criteria for chronic periodontitis were analyzed for each included study. This led to the exclusion of three studies due to missing patient selection information or different criteria for diagnosing the disease. This situation highlights the importance of adhering to FAIR principles in biomedical research to ensure data is findable, accessible, interoperable (using standardized vocabularies), and reusable.
+
+Smoking is a well-known risk factor for experiencing periodontitis, and it appears to have more impact on the CAL outcome, increasing the risk of periodontal attachment loss compared to non-smokers. Analyzing the subgroup of smokers with a network model created two subnetworks, thus preventing comparison. The findings of this study align with existing literature since the interventions associated with significantly greater CAL gain are primarily from studies that excluded smokers.
+
+The included studies’ follow-up period ranged from 1 month to 1 year. For the presentation of results, we chose to divide the data by follow-up periods: ≤3 months (short-term) and > 3 months (long-term), since periodontal patients, contrary to the general population, require a more frequent recall system. The truth is that this follow-up period is not established for all periodontal patients, as it varies greatly depending on the case. However, the 3-month follow-up period seems to be the most acceptable time for periodontal patient recall in maintenance []. The most favorable results for the measured outcomes were observed at 1, 3, and 6 months, indicating probiotic therapies’ short- and long-term success. These results are novel, as the evidence of probiotics’ clinical efficacy at 6-month of follow-up was still to be proven, according to published papers [].
+
+Considerable heterogeneity was observed in clinical data, particularly for the PPD outcome. This variability can be attributed to differences in probiotic therapy duration (ranging from a single application to 1 year), various methods of administration, the use of single probiotic versus combinations, and variations in clinical data collection methods.
+
+The primary limitation in probiotic research stems from the fact that these agents were initially developed for treating gastrointestinal disorders. As a result, there are currently no approved probiotics for use in dental practice, necessitating extensive clinical research to comprehend the specificities of these agents in the oral environment. It is precisely the duration and route of administration of the probiotics that pose the greatest challenge, as it is necessary to understand how long and for how long probiotics need to be taken to prevent the pathogenic microflora from becoming dominant again []. In our statistical analysis, we combined data from different administration protocols and a wide range of microorganisms. While we acknowledge this approach as a significant limitation of the study, it reflects the available evidence on probiotics that we were able to work with. For this reason, the results of this study should be interpreted conscientiously and with caution. Nevertheless, it is apparent that incorporating probiotics as an adjunctive therapy in periodontal treatment is safe, as evidenced by the absence of reported adverse effects in patients [].
+
+Our results suggest that, particularly the specie, appear to be an effective adjuvant to subgingival instrumentation in improving clinical parameters, as they performed significantly and clinically better across all considered outcomes. This finding is consistent with the most recent published literature in this field [,,]. Although the results do not align with the recommendations outlined in the clinical guideline published by the EFP [], the authors believe that it could be due to the additional available evidence since guidelines publication in 2020. Since then, twenty-nine additional RCTs have been published, with a substantial increase in the overall study population from 193 patients to 1290 patients. Nevertheless, it is important to mention that the perceived effectiveness ofas the most effective probiotic may be influenced by its strong representation in RCTs, which is likely due to funding from pharmaceutical companies. This represents a limitation and underscores, once again, the need for caution when interpreting and extrapolating the results.
+
+The network diagrams for the three outcomes were categorized as ‘star networks’ due to numerous proposed protocols in the literature, resulting in a low percentage of direct evidence. This reliance on indirect evidence is a limitation, cautioning against definitive conclusions. Whileemerged as the most effective protocol for all outcomes in both short and long-term studies, the findings are based on low-quality indirect evidence. Thus, further clinical validation in oral healthcare settings is crucial. Additionally, a decline in probiotic effectiveness between 3 and 6 months underlines the need for extended-duration research to evaluate sustained efficacy and inform more robust clinical practices.
+
+The analyzed evidence suggests that combining SRP with probiotics regimens as adjuvants to subgingival instrumentation is effective in improving clinical parameters (PPD and CAL).seems to be the most comprehensive and effective of the studied probiotic. Although SRP +ranked higher than most other genera, these results must be cautiously interpreted due to the network’s weak connection for the considered outcomes.
+
+This systematic review underscores the need for future research, advocating for long-term RCTs (minimum one year) to evaluate sustained probiotic effects. Standardizing administration routes, comparing single vs. combined probiotic regimens, and enhancing clinical data collection methods in RCTs are crucial for improved comparability and reliability of results. Additionally, it would be interesting to combine all possible therapies used as adjuncts to non-surgical periodontal treatment, such as antibiotics [–], ozonized gels [], and hyaluronic acid [], to determine which interventions work best.
+
+Conclusions
+
+This systematic review with network meta-analysis highlights the potential role of probiotics, particularly, as an effective adjuvant to professional mechanical plaque removal in improving clinical parameters in periodontal therapy. The findings underscore the possibility of integrating probiotics into periodontal treatment protocols, especially in light of the growing issue of antimicrobial resistance, as probiotics do not seem to cause adverse effects. Furthermore, this review calls for further long-term RCTs to validate these results. Standardizing probiotic administration and addressing clinical data heterogeneity are essential for advancing the use of probiotics.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
