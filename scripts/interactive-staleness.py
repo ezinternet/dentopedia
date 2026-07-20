@@ -83,7 +83,15 @@ COSMETIC_SUBJECT_RE = re.compile(
     r"|\btag scheme\b|\btag brackets?\b|confidence-tag"
     r"|de-inflate|(audit \+ )?de-inflate legacy confidence tags"
     r"|legacy [\w/ +-]*\btags?\b"
-    r"|recategorize|\bdedup\b|\breorg\b)",
+    r"|recategorize|\bdedup\b|\breorg\b"
+    # confidence → evidence_level 필드 리네임 (2026-07-15, 위키 전역 43개 커밋 469~6 files)
+    # — frontmatter 필드명만 바뀜, 본문 임상 수치 무변화.
+    r"|confidence\s*→\s*evidence_level"
+    # (relations) 스코프 커밋 — 개별 엣지 추가/제거/재라벨링 전부 포함. 이 저장소 컨벤션상
+    # relations 스코프면 예외 없이 typed-edge(frontmatter relations: 리스트)만 건드리고
+    # 도구가 인용하는 본문 임상 수치는 안 바뀐다. docs(relations):/fix(relations):/
+    # feat(relations):/refactor(relations): 전부 해당 (2026-07-17/18 재라벨링 12건이 계기).
+    r"|^(docs|fix|feat|refactor)\(relations\):)",
     re.IGNORECASE,
 )
 
