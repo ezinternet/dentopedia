@@ -1,0 +1,104 @@
+Title: Burnout: A Review of Theory and Measurement
+Authors: Edú-Valsania S, Laguía A, Moriano JA
+Journal: Int J Environ Res Public Health. 2022 Feb 5;19(3):1780
+DOI: 10.3390/ijerph19031780
+PMID: 35162802
+PMCID: PMC8834764
+Institution: Universidad Nacional de Educación a Distancia (UNED), Spain
+
+ABSTRACT:
+A growing body of empirical evidence shows that occupational health is now more relevant than ever due to the COVID-19 pandemic. This review focuses on burnout, an occupational phenomenon that results from chronic stress in the workplace. After analyzing how burnout occurs and its different dimensions, the following aspects are discussed: (1) Description of the factors that can trigger burnout and the individual factors that have been proposed to modulate it, (2) identification of the effects that burnout generates at both individual and organizational levels, (3) presentation of the main actions that can be used to prevent and/or reduce burnout, and (4) recapitulation of the main tools that have been developed so far to measure burnout, both from a generic perspective or applied to specific occupations.
+
+FULL TEXT:
+1. Introduction
+
+Burnout has become one of the most important psychosocial occupational hazards in today's society. The WHO included this syndrome in ICD-11 as a phenomenon exclusive to the occupational context. Burnout prevalence estimates vary considerably: a national study of US general surgery residents found estimates varied from 3.2% to 91.4% depending on definition applied.
+
+2. Burnout: Definition and Development
+
+Burnout is an individual response to chronic work stress that develops progressively. Historically: Graham Greene first used the term; Freudenberger (1974) introduced it in psychology as state of exhaustion/fatigue/frustration. Maslach then introduced it into scientific literature as gradual process of fatigue, cynicism, and reduced commitment. Maslach and Jackson (1981/1986) defined burnout as a psychological syndrome characterized by:
+(1) Emotional exhaustion (EE)
+(2) Depersonalization/cynicism (DP)
+(3) Reduced sense of professional efficacy (PA/PE)
+
+Longitudinal studies show causal order: high EE → high DP. Exhaustion and depersonalization are the core dimensions; lack of professional fulfillment is considered antecedent or consequence.
+
+2.1 Subtypes of Burnout (Montero-Marín):
+- Frenetic: work overload, high involvement, high dedication → feel abandoned personally
+- Under-challenged: monotonous/unstimulating work, indifference/boredom, desire to change jobs → high cynicism, escapist coping
+- Worn-out: hopelessness, lack of control/recognition → neglect and abandonment → passive coping, incompetence feelings
+Progressive deterioration: frenetic → under-challenged → worn-out
+
+2.2 Etiological Theories:
+1. Social Cognitive Theory: self-efficacy doubts → efficacy crises → low PA → EE → DP
+2. Social Exchange Theory: lack of reciprocity (efforts vs. rewards) → EE → DP as coping
+3. Organizational Theory: Golembiewski model (DP first → low PA → EE) vs Cox model (EE first → DP as coping → low PA)
+4. Job Demands-Resources (JD-R) Theory: demands > resources → exhaustion → chronic exhaustion = burnout
+5. Structural Theory: coping failure → PA & EE → DP as new coping
+6. Emotional Contagion Theory: burnout spreads through workgroup social interaction
+
+3. Antecedents/Triggers
+
+Organizational factors:
+- Work overload (quantitative + qualitative)
+- Emotional labor (suppress negative emotions, display unfelt emotions)
+- Lack of autonomy/influence
+- Role ambiguity + role conflict
+- Inadequate supervision / perceived injustice
+- Lack of social support
+- Poor working hours (shift work, night work, long hours)
+
+Individual modulating factors:
+- Big Five: neuroticism↑ (risk), extraversion↑ (protective), agreeableness↑ (protective), conscientiousness↑ (protective), openness↑ (protective)
+- External locus of control → higher burnout risk
+- Type A behavior pattern → higher EE and DP
+- High expectations → higher EE and DP
+- Age: inverse relationship (older → lower burnout generally)
+- Gender: EE and low PA more common in women; DP more common in men
+- Marital status: singles (esp. men) more exposed
+- Coping: avoidance/emotion-focused → more burnout; problem-focused/active → less burnout
+
+4. Consequences
+
+Psychological: concentration/memory problems, decision difficulty, reduced coping, anxiety, depression, low self-esteem, insomnia, suicide risk
+Health: MSK pain, gastric problems, cardiovascular disorders, headaches, vulnerability to infections, cortisol elevation, type 2 diabetes risk factor
+Behavioral: job dissatisfaction, low organizational commitment, absenteeism, turnover intention, performance reduction, presenteeism, counterproductive behaviors
+Organizational: reduced quality of services, work interruptions, "contagion effect," economic losses
+
+5. Prevention
+
+Primary prevention: reduce/eliminate organizational risk factors (most consistent with occupational health principles)
+Secondary prevention: target workers with early symptoms; improve coping resources
+Tertiary prevention: treat fully burned-out workers (reactive, not prevention)
+
+Organizational interventions: reduce stressors, increase resources
+Individual interventions (org-promoted): increase personal resources
+Individual interventions (self-directed): physical exercise, mindfulness, self-assessment, psychotherapy
+Individual interventions (work-focused): improve own work environment
+
+6. Assessment and Measurement Instruments
+
+Generic instruments:
+- MBI-HSS (22 items, human services; Maslach & Jackson 1981): 3 dims — EE, DP, PA
+- MBI-GS (16 items, all occupations; Schaufeli et al.): 3 dims — exhaustion, cynicism, reduced efficacy
+- CESQT/SBI (20 items; 4 dims: enthusiasm, psychic burnout, indolence, guilt; Gil-Monte)
+- CBI (3 factors: personal burnout, work-related burnout, client-related burnout; Kristensen et al.)
+- Oldenburg Burnout Inventory (2 dims: exhaustion, disengagement from work)
+- BCSQ-36 / BCSQ-12 (3 subtypes: frenetic/overload, under-challenged/lack-of-development, worn-out/neglect)
+- BAT (33 items; 4 core: exhaustion, cognitive impairment, emotional impairment, mental distance; 2 secondary: psychological complaints, psychosomatic complaints)
+- SMBQ (22 items: EE, physical fatigue, cognitive weariness, tension, listlessness) / SMBM (14 items: physical fatigue, EE, cognitive weariness)
+
+Occupation-specific:
+- MBI-HSS(MP): medical personnel adaptation
+- PhBQ (17 items): physicians (burnout syndrome, antecedents, consequences, personal resources)
+- MBI-ES: educators
+- PBI / PBI-R: psychologists
+- Athlete Burnout Questionnaire (15 items)
+- School Burnout Inventory (9 items)
+- Parental Burnout Inventory
+
+KEY MEASUREMENT GAP: Most instruments lack clinically validated diagnostic threshold/cutoff values → diagnosis not standardized. This explains why prevalence estimates vary enormously across studies.
+
+8. Conclusions
+
+Burnout is primarily organizational, not individual. Organizations should regularly assess worker well-being quantitatively and qualitatively as key performance indicator. Most interventions incorrectly target individuals rather than organizations. Burned-out workers adopt "performance protection" strategies — masking the syndrome until critical points reached.
