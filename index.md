@@ -2186,6 +2186,7 @@ tags: []
 - [[professional-wellbeing/panagioti-2018-retracted-physician-burnout-patient-safety]] — Panagioti 2018 · sr+ma · **[RETRACTED]** physician burnout × patient safety/professionalism/satisfaction (JAMA Intern Med). 원래 OR ~2.0 보고했으나 retracted — effect 수치 인용 금지, retraction flag용으로만 보관
 - [[professional-wellbeing/zhang-2022-occupational-differences-psychological-distress]] — Zhang 2022 · cross-sectional (중국 11개 성, n=3,020: 치과의사 1,855+치과간호사 1,165) · 심리적 디스트레스 25.7% vs 20.8%, 번아웃 28.9% vs 23.6% — 치과의사가 더 높으나 간호사가 위험인자 더 다양(연령·근무시간·직무환경) (DOI 10.3389/fpsyg.2022.923626)
 - [[professional-wellbeing/jin-2014-burnout-related-factors-korean-dentists]] — Jin 2014 · cross-sectional (한국 치과의사 444명, KDA 표본) · MBI-HSS 고위험 EE 41.2%·DP 55.9%·저성취 41.4% — 위키 유일 한국 자체 번아웃 데이터, 젊은 연령·남성·occupational calling 부재가 위험인자 (DOI 10.1111/idj.12142)
+- [[professional-wellbeing/edu-valsania-2022-burnout-review-theory-measurement]] — Edú-Valsania 2022 · narrative-review · 번아웃 정의(마슬라흐 3차원)·6가지 원인이론·10종 이상 측정도구(MBI-GS·CESQT·BAT 등) 망라. ICD-11 직업적 현상 분류 확인; 진단 절단값 부재 → 유병률 추정 3.2%~91.4% 변동 원인 해설 (DOI 10.3390/ijerph19031780)
 
 ## 행동치의학·환자 커뮤니케이션 (Behavioral Dentistry — MI, Communication, PRO, Anxiety)
 
