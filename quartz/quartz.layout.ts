@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "🦷 Interactive Tools": "https://ezinternet.github.io/dentopedia/interactives/",
+      "🦷 Interactive Tools": "https://dentopedia.netlify.app/interactives/",
       "GitHub Repo": "https://github.com/ezinternet/dentopedia",
       "Quartz Engine": "https://quartz.jzhao.xyz/",
     },
