@@ -1,0 +1,24 @@
+ABSTRACT ONLY — full text not available via PMC.
+
+Title: Effect of an intensive antiplaque regimen on microbiome outcomes after nonsurgical periodontal therapy.
+Authors: Li L, Hayashi-Okada Y, Falkner KL, Shimizu Y, Zambon JJ, Kirkwood KL, Schifferle RE, Genco RJ, Diaz PI.
+Journal: Journal of Periodontology. 2025;96(3):241-254.
+DOI: 10.1002/JPER.24-0141
+PMID: 39925335
+
+BACKGROUND: Periodontal treatment is documented to decrease disease-associated subgingival species, but few studies investigate whether therapy restores a health-like subgingival community.
+
+METHODS: Secondary analysis evaluating microbiome outcomes of nonsurgical periodontal therapy alone or followed by an intensive antiplaque regimen. 86 subjects with periodontitis stages II/III evaluated at baseline and 6 months after:
+- SRP alone (n=41)
+- SRP + antiplaque regimen [0.12% chlorhexidine ×3 months + interdental cleaners ×6 months] (n=45)
+- 30 periodontally healthy subjects as reference
+
+Subgingival microbiome characterized by 16S rRNA gene sequencing. Longitudinal within-subject changes quantified with respect to a healthy plane (HPL) modeled from the reference group.
+
+RESULTS:
+- Only SRP+P+S group had statistically significant reduction in distance to HPL
+- Responses were variable in both groups — only a fraction of individuals changed toward health in either group
+- Random forest analysis: baseline microbiome composition was a GREATER predictor of microbiome response than type of treatment rendered
+- Adjunct antiplaque regimen resulted in greater approximation of microbiome to healthy state
+
+CONCLUSIONS: An adjunct antiplaque regimen resulted in greater microbiome approximation to the healthy state. However, responses varied greatly among subjects, highlighting the need for robust and personalized approaches to restore eubiosis. Baseline microbiome composition outperforms treatment type as predictor of microbiome recovery — supporting personalized periodontal treatment strategies.
