@@ -1,0 +1,1617 @@
+Clinical Relevance
+
+: The analysis of salivary and sérum cytokine samples offers a non‐invasive and systemic view, respectively, of the inflammatory process elicited by periodontitis. As such, their study may allow better understanding of periodontitis progression.
+
+: Progressing and stable patients had distinct cytokine signatures in their saliva. Non‐surgical periodontal therapy had a significant impact in salivary cytokine levels.
+
+: Assessment of a subset of salivary cytokines may assist in predicting progression and stability in clinical practice and better guide patient risk stratification and management.
+
+1
+
+INTRODUCTION
+
+Periodontitis affects more than 64 million U.S. adults (Eke et al.,), leading to tooth loss. Current mechanistic models of periodontitis propose that local inflammation is a major driver in disease progression and recurrence (Meyle & Chapple,), either directly via host‐driven pathways or indirectly through the assembly of an inflammophilic, dysbiotic microbiome (Hajishengallis,; Lamont & Hajishengallis,). Further, clinical studies also support the role of inflammation in periodontitis progression, as gingivitis is a predictor of periodontal breakdown of both bone and attachment structures (Schatzle et al.,), and the absence of bleeding on probing (BOP) indicates periodontal stability (Lang et al.,).
+
+Predicting periodontitis progression prior to the development of clinical attachment loss (CAL) remains a challenge (Kornman,). In that context, saliva is an ideal sample to pursue given its easy collection and ability to reflect the oral milieu and improve diagnostic capabilities, to establish relationships to disease extent/severity and to detect changes after therapy (Belibasakis & Bostanci,; Buduneli & Kinane,; Koidou et al.,; Stadler et al.,). Despite its collection being more invasive, serum could also be of value, especially in more extensive disease severity, as its testing could be incorporated in routine blood panels.
+
+While several investigations have measured inflammatory markers in saliva and serum, they often compare periodontally healthy and diseased individuals or patients with different types of periodontitis, or evaluate the effects of periodontal treatment (Afacan et al.,; Branco‐de‐Almeida et al.,; Cifcibasi et al.,; Del Peloso et al.,; Miller et al.,; Ramseier et al.,; Romano et al.,; Rosalem et al.,; Thunell et al.,; Zekeridou et al.,). However, these studies had either a cross‐sectional design or a small sample size, were confounded by the inclusion of smokers or diabetic patients and evaluated a relatively small set of analytes. Although valuable in identifying biomarkers in different disease states, these investigations have limited impact on identifying biomarkers of disease progression or periodontal stability. To date, only a few studies have evaluated saliva and/or serum biomarkers during periodontal disease progression (Kinney et al.,; Kornman,; Nagarajan et al.,).
+
+A significant gap in knowledge exists regarding how the systemic inflammatory process progresses over time, affecting the clinical signs of periodontitis or stability. This study aimed to test the hypothesis that the systemic inflammatory process in periodontitis is related to the progression of disease and to identify inflammatory biomarkers associated with periodontitis progression and response to periodontal treatment.
+
+2
+
+MATERIALS AND METHODS
+
+2.1
+
+Study design and study population
+
+The study design, participant recruitment and study procedures (Figure) were approved by the Institutional Review Board at The Forsyth Institute and cooperating centres. All procedures were performend in compliance with the Declaration of Helsinki. Subjects were recruited as part of a multi‐centre clinical investigation to determine biomarkers of periodontal disease progression (Biomarkers of Periodontal Disease ProgressionID). Subjects were monitored clinically every 2 months for up to 1 year to detect periodontal sites and subjects experiencing periodontal disease progression. In this study, the participants were stratified into periodontally healthy or Stage II and Stage III periodontitis, according to the 2018 classification (Papapanou et al.,). Here we present data generated from the same population (= 415 participants) for whom the clinical parameters were presented in Teles et al. (). Results from subsets of this population have also been published (A. Duran‐Pinedo et al.,; A. E. Duran‐Pinedo et al.,; Teles et al.,; Yost et al.,). Inclusion and exclusion criteria are presented in Supplemental. Details regarding patient recruitment, monitoring, and patterns of periodontitis progression have been published elsewhere (Teles et al.,,).
+
+2.2
+
+Clinical examination of subjects and sites
+
+Participants had the following periodontal parameters measured at up to 168 sites per subject: at six sites per tooth—mesio‐buccal, buccal, disto‐buccal, mesio‐lingual, lingual and disto‐lingual—for up to 28 teeth excluding third molars: probing depth (PD); distance from the cemento‐enamel junction (CEJ) to the free gingival margin (B measure; A. Duran‐Pinedo et al.,; A. E. Duran‐Pinedo et al.,) (in case of recession, a negative value was assigned); CAL (obtained by subtracting B from PD); and the presence or absence of plaque, gingival redness, BOP and suppuration. PD and the B were measured using calibrated North Carolina manual periodontal probes (PCPUNC 15 Hu‐Friedy Co, Chicago, IL) rounding down to the nearest millimetre. PD and the B were measured twice at premolars and the first and second molars. CAL was calculated for each pass by an electronic data capturing (EDC) system. If the difference between the two measurements was ≥2 mm, EDC prompted the examiner to obtain PD and B a third time. The median CAL among the two or three passes was used for analysis. All participants who completed the 12‐month monitoring phase attended at least six of seven monitoring visits. They were examined by the same examiner in all such visits and had their data analysed accordingly.
+
+2.3
+
+Periodontal treatment
+
+After the monitoring phase, periodontally healthy subjects received professional dental prophylaxis and exited the study, whereas participants with periodontal disease received non‐surgical mechanical periodontal therapy (non‐surgical periodontal therapy, NSPT) and were monitored at 3 and 6 months after NSPT. Additional information is provided in Supplemental Material.
+
+2.4
+
+Definition of progression of disease
+
+Disease progression was defined based on the evolution of CAL, as described in Teles et al. (). Linear mixed models (LMMs) were fitted to longitudinal CAL measurements for each tooth site, and the predicted CAL levels were used to categorize sites regarding progression (Teles et al.,). Participants were classified according to progression as follows: P0 = no sites progressed; P1 = 1–2 sites progressed; P2 = 3 or more sites progressed. Additional information is provided in Supplemental Material.
+
+2.5
+
+Saliva and serum sample collection
+
+During each visit, blood (10 mL) was collected in a BD Vacutainer® serum tube with a clot activator. After centrifuging, serum was aliquoted (250 μL per tube) and the aliquots were snap‐frozen using the CoolRack/CoolBox system and then transferred to a −80°C freezer until analysis.
+
+At each visit, saliva was also collected. Subjects abstained from brushing teeth, chewing gum, eating or drinking for at least 1½ h before the visit. Because of the diurnal variation of analytes in saliva, subjects had their visits scheduled approximately the same time of day (e.g., morning or afternoon). Subjects were instructed to allow saliva to accumulate in the floor of the mouth for 60 s without swallowing, and empty the entire accumulated saliva into the tube, which was kept on ice during the 10‐min collection process. Protease inhibitors (20 μL of 1 mg/mL Aprotinin and 10 μL of 200 mM phenylmethylsulfonyl fluoride [PMSF]) were added to 2 mL saliva. Samples were aliquoted and snap‐frozen using the CoolRack/CoolBox system and then transferred to a −80°C freezer.
+
+2.6
+
+Measurement of analytes in using bead‐based immunoassay (Luminex)
+
+For analysis of biomarkers from whole saliva and serum samples, we used Luminex multiplex assay kits (R&D Systems), which were analysed on a Bio‐Rad BioPlex 200 system (Bio‐Rad). For serum samples, assays were divided into three panels with the following dilutions needed based on the respective kit's standard curves: 1:10 for matrixmetalloproteinase (MMP)‐8; 1:20 for MMP‐9 and myeloperoxidase (MPO); 1:800 for C‐reactive protein (CRP) and amyloid A1. Whole saliva samples were assayed undiluted on three separate panels, after thawing and centrifuging to remove cellular debris. Luminex assays were performed according to manufacturer's instructions. Briefly, samples were selected using FreezerWorks software the day before assaying and allowed to thaw at 4°C overnight. The Bio‐Plex 200 was calibrated each morning while the assay kits were allowed to warm to room temperature. Standard curves and a negative control were prepared in duplicate per SOP. Plates were washed using a BioRad plate washer, which was also maintained on a daily basis per manufacturer's protocol. Data for each plate were saved in Excel format and stored on a secure server for subsequent analysis.
+
+2.7
+
+Statistical analysis
+
+Levels of all analytes were log‐transformed and averaged within the clinical groups examined, at each time point.
+
+We evaluated whether the differences in average biomarker levels between healthy and periodontitis (Stage II and Stage III combined) subjects were significant before treatment. Pretreatment biomarker level as a function of time was modelled with a linear mixed model, with disease classification (healthy/periodontitis) as the predictor. A random intercept was included with subject as the clustering variable. We also evaluated whether treatment of periodontitis subjects at 12 months significantly changed the proteins levels when compared to the healthy subjects, who were never given treatment. A similar linear mixed model was used for this purpose, except that we compared biomarker levels before treatment for the healthy subjects with levels after treatment for periodontitis subjects.
+
+We then investigated whether average biomarker levels across visits were significantly different between progression classes and whether treatment at 12 months significantly changed the protein levels. We performed statistical tests for significance separately within the Stage II class, Stage III class and within class of all periodontitis subjects. Those in progression classes P0 and P1 were combined into one group, whereas those in P2 were left as a separate group. Therefore progression was treated as a binary variable. Biomarker level as a function of time was again modelled with a linear mixed model, with progression class, visit time and indicator of post‐treatment visit (>12 months) at each time point as the predictors. A random intercept was included with subject as the clustering variable. Only participants who provided samples at all the monitoring visits were included in biomarkers analyses.
+
+Differences in clinical parameters were sought using Kruskal–Wallis, ANOVA and‐tests. The above analyses were carried out in theprogramming language; all analyses related to mixed models were performed with thepackage.
+
+3
+
+RESULTS
+
+3.1
+
+Clinical and demographic characteristics of the study population according to disease classification
+
+Tableshows the clinical and demographic characteristics of the study participants at baseline and 12 months, as well as at 3 and 6 months after therapy (15 and 18 M visits, respectively) for periodontitis patients, according to the baseline classification into periodontal health (H;= 113), Stage II (= 34) and Stage III (= 268) periodontitis.
+
+The baseline diagnosis of H, Stage II and Stage III is supported by the mean values (±) of PD, CAL and median (IQR) number of sites with PD > 4 mm. Further, healthy participants tended to displayed less plaque, redness and BOP than their periodontitis counterparts. Stage III patients had greater mean PD, CAL and median number of moderate and deep sites. The clinical effects of NSPT are evidenced by reduction in all these parameters at 15 and 18 months.
+
+TABLE 1
+
+Clinical and demographic characteristics of the study population over time according to periodontal disease classification.
+
+Healthy
+
+Stage II
+
+Stage III
+
+Number of Subjects
+
+113
+
+34
+
+268
+
+Baseline clinical groups (healthy/mild/severe)
+
+113/0/0
+
+0/21/13
+
+0/123/145
+
+Progression class (P0/P1/P2)
+
+88/21/4
+
+24/6/4
+
+119/100/49
+
+Number of male/female
+
+29/84
+
+5/29
+
+125/143
+
+AA/white/Oth/Unk
+
+22/65/24/2
+
+6/23/4/1
+
+78/156/20/14
+
+Age (years;±)
+
+37.5 ± 11.9
+
+50.9 ± 12.8
+
+51.1 ± 11.6
+
+Periodontal Parameters
+
+Baseline
+
+12M
+
+Baseline
+
+12M
+
+15M (= 33)
+
+18M (= 32)
+
+Baseline
+
+12M (= 262)
+
+15M (= 254)
+
+18M (= 254)
+
+# Missing teeth (±)
+
+0.7 ± 1.3
+
+0.7 ± 1.3
+
+1.1 ± 1.2
+
+1.1 ± 1.2
+
+1.2 ± 1.3
+
+1.2 ± 1.3
+
+1.6 ± 1.6
+
+1.6 ± 1.6
+
+1.6 ± 1.6
+
+1.6 ± 1.6
+
+PD (mm;±)
+
+1.7 ± 0.3
+
+1.8 ± 0.3
+
+2.2 ± 0.2
+
+2.3 ± 0.3
+
+2.1 ± 0.3
+
+2.1 ± 0.3
+
+2.6 ± 0.5
+
+2.6 ± 0.5
+
+2.3 ± 0.4
+
+2.3 ± 0.4
+
+CAL (mm;±)
+
+1.1 ± 0.5
+
+1.2 ± 0.5
+
+1.7 ± 0.3
+
+1.8 ± 0.4
+
+1.6 ± 0.5
+
+1.6 ± 0.4
+
+2.4 ± 0.7
+
+2.4 ± 0.7
+
+2.1 ± 0.6
+
+2.2 ± 0.6
+
+% Sites per subject with
+
+Plaque (±)
+
+50.6 ± 23.7
+
+51.0 ± 26.8
+
+66.7 ± 19.0
+
+71.0 ± 29.2
+
+62.1 ± 30.0
+
+63.0 ± 30.9
+
+68.6 ± 21.7
+
+67.4 ± 25.7
+
+59.0 ± 26.9
+
+55.7 ± 28.3
+
+Ginigival redness (μ ±)
+
+26.0 ± 21.6
+
+32.2 ± 22.3
+
+53.6 ± 29.1
+
+62.0 ± 31.2
+
+49.4 ± 29.8
+
+43.6 ± 27.9
+
+58.6 ± 24.7
+
+60.7 ± 26.1
+
+48.6 ± 26.3
+
+46.6 ± 26.5
+
+BOP (±)
+
+20.2 ± 19.7
+
+19.8 ± 20.1
+
+38.6 ± 23.1
+
+36.9 ± 22.1
+
+25.2 ± 16.4
+
+25.0 ± 15.8
+
+47.0 ± 23.6
+
+44.2 ± 24.1
+
+33.5 ± 21.6
+
+31.2 ± 20.5
+
+Suppuration (±)
+
+0.02 ± 0.14
+
+0.03 ± 0.14
+
+0.02 ± 0.12
+
+0.00 ± 0.00
+
+0.02 ± 0.10
+
+0.06 ± 0.23
+
+0.11 ± 0.46
+
+0.11 ± 0.40
+
+0.07 ± 0.28
+
+0.08 ± 0.36
+
+# Of sites/subject (median, IQR)
+
+PD <4 mm (median, IQR)
+
+168 (162–168)
+
+166 (159–168)
+
+147 (140–156)
+
+150.5 (143–158)
+
+155 (146–162)
+
+155 (147–162)
+
+133 (117–144)
+
+132 (115–146)
+
+144 (132–153)
+
+143 (132–154)
+
+PD 4–6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–2)
+
+12 (7–22)
+
+9.5 (5–18)
+
+4 (1–9)
+
+4.5 (1–9.5)
+
+24 (16–37)
+
+24 (14–39)
+
+13 (6–23)
+
+13 (7–22)
+
+PD >6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–3)
+
+0 (0–3)
+
+0 (0–1)
+
+0 (0–1)
+
+PD <5 mm (median, IQR)
+
+168 (162–168)
+
+168 (162–168)
+
+160 (154–166)
+
+159.5 (155–165)
+
+162 (156–164)
+
+162 (156–166.5)
+
+144.5 (133.5–154)
+
+146 (135–156)
+
+153 (143–161)
+
+155 (143–161)
+
+PD 5+ mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+2 (0–4)
+
+2 (0–4)
+
+0 (0–2)
+
+0 (0–1.5)
+
+12 (8–23)
+
+11 (5–21)
+
+4 (1–10)
+
+4 (1–10)
+
+CAL <4 mm (median, IQR)
+
+168 (162–168)
+
+168 (160–168)
+
+158 (152–162)
+
+157 (149–162)
+
+160 (150–162)
+
+161.5 (150–164)
+
+133.5 (119–147)
+
+134 (117–148)
+
+143 (128–155)
+
+142 (129–155)
+
+CAL 4–6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+4 (2–8)
+
+1.5 (0–9)
+
+1 (0–6)
+
+0 (0–5)
+
+22 (14–35)
+
+22 (11–35)
+
+13 (7–25)
+
+13 (6–23)
+
+CAL >6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+1 (0–4)
+
+0 (0–4)
+
+0 (0–2)
+
+0 (0–2)
+
+: Baseline clinical groups: based on criteria used in the original study by Teles et al. (2018); periodontally healthy (H), mild periodontitis (MP), severe periodontitis (SP). Race: AA, African American; Others (includes other races: American Indian/Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, More Than One Race); Unk: Unknown or not reported.
+
+3.2
+
+Levels of salivary analytes according to disease classification
+
+When salivary biomarkers were compared between H, Stage II and Stage III (Figure), it became clear that the profile of H is quite distinct from those of Stage II and Stage III. Levels in H were significantly lower (< .05) for all analytes in comparison to those observed in periodontitis patients (Stages II/III combined).
+
+FIGURE 1
+
+Line plots of mean log‐transformed analyte values over time, according to baseline diagnosis of health, Stage II or Stage III in (a) saliva and (b) serum.
+
+3.3
+
+Levels of serum analytes according to disease classification
+
+When the levels of serum markers were compared between H, Stage II and Stage III (Figure), it was noted that levels of CRP and human serum albumin (has) were significantly lower in H than in periodontitis patients (< .05). No clear pattern was observed for MPO, MMP‐8 and MMP‐9. Further, treatment appeared to have minimal impact on those markers, and after treatment CRP and HSA remained significantly higher in periodontitis patients than in healthy participants (< .05).
+
+3.4
+
+Clinical and demographic characteristics of the study population according to disease progression
+
+Study participants were stratified into progression categories as follows: P0 = participants with no sites progressing; P1 = participants with 1–2 sites progressing; P2 = participants with 3 or more sites progressing. Overall, progression occurred in 25/113 participants in the H group and 10/34 and 149/268 of those in the Stage II and III, respectively (Table).
+
+In the H group (Table), at baseline, patients in the P0, P1 and P2 had increasing mean (±) % of sites with BOP (17 ± 16; 29 ± 26; 44 ± 19,= .02) and plaque (48 ± 23; 59 ± 27; 65 ± 19,≥ .05), but not redness. Progression can be confirmed by the increase in mean PD and CAL in P1 and even more in P2, along with decreases in number of shallow sites (< .05). Over time, all groups had increase in %redness, with the greatest increase seen in P2, but not in the percentage of sites with plaque or BOP.
+
+In the periodontitis group (Table), at baseline, significant differences were observed only for %plaque (< .01). Progression over time can be confirmed by significant increases in mean PD, CAL and median number of deep (PD > 6 mm) and moderate sites (PD 4–6 mm) as well as reduction in median number of shallow (PD < 4 mm) sites (< .05). Interestingly, P0 experienced reduction in mean PD (< .01) and CAL (< .01), but increase in plaque (= .026) and redness (< .01) during the monitoring phase. Treatment led to reduction in mean PD, CAL, %plaque, BOP, redness and the number of moderate and deep pockets in all groups (< .01). Although the clinical improvements were clear, the levels of plaque, redness and BOP achieved in P were higher than those in H (Figure S).
+
+TABLE 2
+
+Clinical and demographic characteristics of the population over time based on disease progression.
+
+Healthy
+
+Periodontitis
+
+P0
+
+P1
+
+P2
+
+P0
+
+P1
+
+P2
+
+Number of subjects
+
+88
+
+21
+
+4
+
+143
+
+106
+
+53
+
+Baseline clinical groups (healthy/mild/severe)
+
+88/0/0
+
+21/0/0
+
+4/0/0
+
+0/69/74
+
+0/50/56
+
+0/25/28
+
+Stage (healthy/II/III)
+
+88/0/0
+
+21/0/0
+
+4/0/0
+
+0/24/119
+
+0/6/100
+
+0/4/49
+
+Number of male/female
+
+23/65
+
+4/17
+
+2/2
+
+62/81
+
+44/62
+
+24/29
+
+AA/white/Oth/Unk
+
+18/50/19/1
+
+3/13/4/1
+
+1/2/1/0
+
+34/97/8/4
+
+35/57/8/6
+
+15/25/8/5
+
+Age (years;±)
+
+36.6 ± 11.4
+
+41.4 ± 13.7
+
+37.0 ± 10.1
+
+51.7 ± 11.7
+
+51.3 ± 10.9
+
+49.2 ± 13.3
+
+Periodontal Parameters
+
+Baseline
+
+12M
+
+Baseline
+
+12M
+
+Baseline
+
+12M
+
+Baseline
+
+12M (= 142)
+
+15M (= 138)
+
+18M (= 136)
+
+Baseline
+
+12M (= 105)
+
+15M (= 101)
+
+18M (= 101)
+
+Baseline
+
+12M (= 49)
+
+15M (= 48)
+
+18M (= 49)
+
+# missing teeth (±)
+
+0.7 ± 1.4
+
+0.7 ± 1.4
+
+0.7 ± 1.0
+
+0.7 ± 1.0
+
+0.5 ± 1.0
+
+0.5 ± 1.0
+
+1.5 ± 1.4
+
+1.5 ± 1.5
+
+1.5 ± 1.5
+
+1.5 ± 1.5
+
+1.6 ± 1.7
+
+1.7 ± 1.8
+
+1.6 ± 1.7
+
+1.6 ± 1.7
+
+1.5 ± 1.4
+
+1.4 ± 1.4
+
+1.6 ± 1.5
+
+1.7 ± 1.5
+
+PD (mm;±)
+
+1.7 ± 0.3
+
+1.8 ± 0.3
+
+1.6 ± 0.4
+
+1.8 ± 0.4
+
+1.8 ± 0.2
+
+2.1 ± 0.5
+
+2.6 ± 0.5
+
+2.5 ± 0.4
+
+2.2 ± 0.4
+
+2.3 ± 0.3
+
+2.6 ± 0.4
+
+2.6 ± 0.4
+
+2.3 ± 0.3
+
+2.3 ± 0.4
+
+2.6 ± 0.5
+
+2.8 ± 0.5
+
+2.4 ± 0.5
+
+2.4 ± 0.4
+
+CAL (mm;±)
+
+1.2 ± 0.4
+
+1.2 ± 0.4
+
+1.0 ± 0.5
+
+1.3 ± 0.5
+
+1.0 ± 0.8
+
+1.6 ± 1.0
+
+2.3 ± 0.7
+
+2.1 ± 0.6
+
+1.9 ± 0.6
+
+1.9 ± 0.6
+
+2.3 ± 0.7
+
+2.4 ± 0.7
+
+2.2 ± 0.6
+
+2.2 ± 0.6
+
+2.4 ± 0.7
+
+2.7 ± 0.7
+
+2.4 ± 0.6
+
+2.4 ± 0.6
+
+% Sites per subject with
+
+Plaque (±)
+
+47.9 ± 22.5
+
+49.8 ± 26.4
+
+59.3 ± 27.0
+
+55.6 ± 29.5
+
+65.0 ± 19.0
+
+52.5 ± 21.1
+
+66.7 ± 21.3
+
+70.3 ± 27.4
+
+63.0 ± 28.0
+
+62.0 ± 29.1
+
+66.3 ± 23.0
+
+62.3 ± 25.3
+
+53.3 ± 26.3
+
+49.6 ± 27.8
+
+77.0 ± 15.9
+
+72.2 ± 22.2
+
+61.4 ± 25.1
+
+55.6 ± 26.1
+
+Ginigival redness (±)
+
+25.4 ± 21.6
+
+30.6 ± 22.7
+
+29.5 ± 23.7
+
+38.7 ± 21.9
+
+21.1 ± 5.7
+
+33.3 ± 10.7
+
+57.3 ± 25.3
+
+64.1 ± 28.4
+
+52.3 ± 27.8
+
+50.1 ± 27.6
+
+56.6 ± 25.7
+
+55.5 ± 24.2
+
+44.9 ± 24.6
+
+42.7 ± 24.9
+
+63.1 ± 23.8
+
+62.8 ± 25.2
+
+46.1 ± 26.7
+
+43.0 ± 26.2
+
+BOP (±)
+
+17.0 ± 16.4
+
+17.7 ± 17.9
+
+29.3 ± 26.4
+
+27.8 ± 26.2
+
+44.5 ± 18.8
+
+25.4 ± 23.3
+
+45.9 ± 24.0
+
+43.0 ± 25.3
+
+30.9 ± 20.7
+
+30.9 ± 20.8
+
+45.3 ± 22.1
+
+41.3 ± 20.9
+
+33.0 ± 21.3
+
+28.9 ± 19.7
+
+47.9 ± 25.9
+
+48.7 ± 25.5
+
+36.0 ± 22.3
+
+32.9 ± 19.0
+
+Suppuration (±)
+
+0.02 ± 0.15
+
+0.03 ± 0.13
+
+0.03 ± 0.13
+
+0.06 ± 0.18
+
+0.00 ± 0.00
+
+0.00 ± 0.00
+
+0.11 ± 0.52
+
+0.03 ± 0.19
+
+0.03 ± 0.21
+
+0.03 ± 0.15
+
+0.08 ± 0.27
+
+0.14 ± 0.39
+
+0.08 ± 0.28
+
+0.09 ± 0.33
+
+0.10 ± 0.45
+
+0.20 ± 0.62
+
+0.11 ± 0.36
+
+0.21 ± 0.63
+
+# Of sites/subject (median, IQR)
+
+PD <4 mm (median, IQR)
+
+168 (163–168)
+
+167 (162–168)
+
+167 (162–168)
+
+162 (155–167)
+
+165 (160–167)
+
+155 (154–162)
+
+135 (121–147)
+
+140 (124–151)
+
+149.5 (135–158)
+
+148 (138–157)
+
+133 (117–144)
+
+134 (115–144)
+
+143 (132–152)
+
+143 (133–153)
+
+134 (117–146)
+
+124 (105–136)
+
+140 (127.5–147)
+
+140 (127–151)
+
+PD 4–6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–1.5)
+
+0 (0–0)
+
+1 (0–3)
+
+1 (0–3)
+
+6.5 (0–14)
+
+22 (15–36)
+
+17 (9–34)
+
+10 (4–16)
+
+9 (4–20)
+
+24 (15–35)
+
+23 (14–36)
+
+15 (6–23)
+
+13 (6–22)
+
+21 (16–37)
+
+31 (21–48)
+
+17.5 (9.5–27)
+
+16 (10–23)
+
+PD >6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–1)
+
+0 (0–1)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–3)
+
+1 (0–3)
+
+0 (0–1)
+
+0 (0–2)
+
+1 (0–4)
+
+1 (0–5)
+
+0 (0–2.5)
+
+0 (0–2)
+
+PD <5 mm (median, IQR)
+
+168 (165–168)
+
+168 (162–168)
+
+168 (162–168)
+
+168 (162–168)
+
+168 (162–168)
+
+166 (160.5–167.5)
+
+149 (135–158)
+
+151.5 (142–162)
+
+156.5 (148–164)
+
+156 (147–164.5)
+
+146 (135–154)
+
+146 (137–155)
+
+153 (142–160)
+
+154 (143–160)
+
+143 (132–154)
+
+142 (128–151)
+
+151 (138–157)
+
+152 (143–159)
+
+PD 5+ mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0.5 (0–2)
+
+10 (5–20)
+
+6 (1–13)
+
+2 (0–6)
+
+2 (0–6.5)
+
+13 (8–22)
+
+12 (6–22)
+
+5 (2–10)
+
+5 (2–11)
+
+12 (8–24)
+
+16 (11–29)
+
+7.5 (3.5–12.5)
+
+6 (2–12)
+
+CAL <4 mm (median, IQR)
+
+168 (162.5–168)
+
+168 (162–168)
+
+168 (158–168)
+
+167 (157–168)
+
+166 (161–167)
+
+155.5 (154–162)
+
+141 (123–153)
+
+147 (131–158)
+
+150 (137–161)
+
+151 (137–161)
+
+136 (120–147)
+
+134 (118–146)
+
+144 (129–153)
+
+140 (129–154)
+
+129 (116–147)
+
+122 (107–136)
+
+133 (119.5–144)
+
+137 (123–146)
+
+CAL 4–6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–1)
+
+1 (0–2)
+
+6.5 (0–14)
+
+17 (9–32)
+
+12 (3–23)
+
+7 (1–15)
+
+6.5 (1–15)
+
+22 (12–34)
+
+23 (13–33)
+
+15 (7–23)
+
+14 (7–23)
+
+22 (16–39)
+
+33 (20–47)
+
+23.5 (15–35.5)
+
+20 (11–25)
+
+CAL >6 mm (median, IQR)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–0)
+
+0 (0–2)
+
+0 (0–1)
+
+0 (0–0)
+
+0 (0–1)
+
+1 (0–3)
+
+1 (0–4)
+
+0 (0–2)
+
+0 (0–2)
+
+1 (0–6)
+
+2 (0–6)
+
+1 (0–4)
+
+1 (0–4)
+
+: Baseline clinical sroups: based on criteria used in the original study by Teles et al. (2018): periodontally healthy (H), mild periodontitis (MP), severe periodontitis (SP). Race: AA: African American; Others (includes other races: American Indian/ Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, more than one race); Unk: Unknown or not reported. P0: 0 progressing sites; P1: 1 or 2 sites progressing; P2: ≥3 progressing sites. In each row,<.05 is indicated as follows: For Healthy group:Significant difference between P0/P1/P2 at baseline (Kruskal–Wallis test; KW).Significant difference between P0/P1/P2 for difference between month 12 and baseline (KW). For periodontitis group:Significant difference between P0/P1/P2 at baseline (ANOVA test).Significant difference between P0/P1/P2 for difference between month 12 and baseline (ANOVA).Significant difference pre‐treatment versus post‐treatment (paired‐test). This was conducted for each of P0, P1 and P2 separately, for 12 M versus15 M and for 12 M versus 18 M.
+
+3.5
+
+Levels of salivary analytes according to disease progression
+
+When comparing the progression classes among healthy participants, no clear distinction was observed among P0, P1 and P2 (Figure). For most of the analytes, P0 and P1 ovelapped, except for IFN‐γ and IL‐10, which were higher in P1. There was a tendency for higher levels of MCP‐1 and osteoprotegerin (OPG) in P2 and MMP‐9 in P0 and P1.
+
+The same comparison for periodontitis patients (i.e., Stage II and III participants combined) is shown in Figure. It can be observed that P2 patients had the highest levels of all cytokines, except for MMP‐9. No major differences were observed between P0 and P1, as their levels overlapped for all cytokines. NSPT led to reduction in all groups for IFNγ, IL‐1β, IL‐10, IL‐6 and MMP‐8. For P2, increase in MCP‐1 and OPG were noted post NSPT.
+
+As observed for H, Stage II and Stage III, the levels in P0 and P1 overlapped for several analytes as well as clinical parameters (Figuresand S). Thus, we proceed to analyse the data based on a binary classification, in which P0 and P1 are combined into a single group and P2 remains a separate group (Figure). It can then be seen that in healthy participants, progression is associated with higher levels of MCP‐1, IL‐8 and OPG (Figure). In periodontitis patients, all analytes were more elevated in progressing individuals (Figure). We investigated whether the average salivary protein levels across visits were significantly different between progression classes. Progression was significantly positively associated with IFNγ, IL‐6, VEGF, IL‐1β, MMP‐8, IL‐10 and OPG in Stage II participants. However, in Stage III, that was the case only for IFNγ and IL‐10. When the Stage II and Stage III groups were combined, significant positive associations were observed for IFNγ, IL‐6, IL‐10 and OPG (Table).
+
+FIGURE 2
+
+Line plots of mean log‐transformed analyte values over time, according to progression in saliva in (a) healthy and (b) periodontitis participants. Progression Class: 0 = participants with no sites progressing; 1 = with 1–2 sites progressing; 2 = with 3 or more sites progressing.
+
+FIGURE 3
+
+Line plots of mean log‐transformed analyte values over time, according to progression as a binary variable in saliva in (a) healthy participants and in (b) periodontitis participants.
+
+TABLE 3
+
+Estimates of the coefficients for progression class and treatment with associated‐values.
+
+Sample
+
+Protein
+
+Factor
+
+Stage II
+
+Stage III
+
+Stage II/III
+
+Log(OR) (‐value)
+
+Log(OR) (‐value)
+
+Log(OR) (‐value)
+
+Saliva
+
+MCP 1
+
+Progression
+
+0.417 (.251)
+
+0.170 (.111)
+
+0.195 (.056)
+
+Treatment
+
+−0.058 (.617)
+
+0.112 (.019)*
+
+0.093 (.036)*
+
+IFNγ
+
+Progression
+
+1.937 (.005)*
+
+0.458 (.036)*
+
+0.603 (.004)*
+
+Treatment
+
+−0.463 (.156)
+
+−0.344 (.003)*
+
+−0.358 (<.001)*
+
+IL‐6
+
+Progression
+
+0.916 (.047)*
+
+0.273 (.064)
+
+0.346 (.015)*
+
+Treatment
+
+−0.038 (.831)
+
+−0.187 (.008)*
+
+−0.172 (.009)*
+
+VEGF
+
+Progression
+
+0.901 (.004)*
+
+0.080 (.434)
+
+0.165 (.094)
+
+Treatment
+
+−0.074 (.460)
+
+0.083 (.056)
+
+0.065 (.105)
+
+IL‐8
+
+Progression
+
+0.416 (.117)
+
+0.114 (.259)
+
+0.148 (.119)
+
+Treatment
+
+−0.121 (.398)
+
+0.018 (.764)
+
+0.003 (.961)
+
+IL‐1β
+
+Progression
+
+1.417 (.003)*
+
+0.091 (.531)
+
+0.229 (.107)
+
+Treatment
+
+−0.250 (.124)
+
+−0.092 (.103)
+
+−0.111 (.039)*
+
+MMP‐8
+
+Progression
+
+1.057 (.008)*
+
+0.150 (.390)
+
+0.249 (.127)
+
+Treatment
+
+−0.196 (.284)
+
+−0.137 (.093)
+
+−0.143 (.057)
+
+IL‐10
+
+Progression
+
+1.407 (<.001)*
+
+0.291 (.004)*
+
+0.395 (<.001)*
+
+Treatment
+
+0.319 (.138)
+
+−0.160 (0.038)*
+
+−0.110 (.127)
+
+OPG
+
+Progression
+
+0.746 (.012)*
+
+0.146 (.156)
+
+0.208 (.033)*
+
+Treatment
+
+−0.039 (.760)
+
+0.101 (.045)*
+
+0.085 (.071)
+
+MMP‐9
+
+Progression
+
+0.491 (.311)
+
+0.035 (.803)
+
+0.092 (.503)
+
+Treatment
+
+0.075 (.682)
+
+−0.096 (.126)
+
+−0.076 (.201)
+
+Serum
+
+HSA
+
+Progression
+
+−0.280 (.371)
+
+0.035 (.801)
+
+−0.005 (.972)
+
+Treatment
+
+0.157 (.313)
+
+0.088 (.215)
+
+0.095 (.143)
+
+CRP
+
+Progression
+
+−0.078 (.880)
+
+0.134 (.475)
+
+0.105 (.555)
+
+Treatment
+
+−0.063 (.754)
+
+0.110 (.196)
+
+0.090 (.251)
+
+MMP‐8
+
+Progression
+
+0.283 (.367)
+
+−0.086 (.550)
+
+−0.054 (.683)
+
+Treatment
+
+0.136 (.286)
+
+−0.055 (.421)
+
+−0.033 (.593)
+
+MMP‐9
+
+Progression
+
+−0.275 (.206)
+
+0.065 (.505)
+
+0.030 (.738)
+
+Treatment
+
+0.094 (.301)
+
+0.065 (.116)
+
+0.069 (.071)
+
+MPO
+
+Progression
+
+0.065 (.778)
+
+−0.045 (.637)
+
+−0.037 (.674)
+
+Treatment
+
+0.038 (.680)
+
+0.072 (.061)
+
+0.068 (.055)
+
+: Asterisks indicate significance at the .05 level.
+
+3.6
+
+Levels of serum analytes according to disease progression
+
+We used the same approach described above for serum analytes. For healthy patients, there was a trend of higher levels of CRP and HSA in patients experiencing disease progression (Figure), while no clear patterns or associations were observed for serum analytes regarding progression in periodontitis patients (Figure, Table).
+
+FIGURE 4
+
+Line plots of mean log‐transformed analyte values over time, according to progression as a binary variable in serum in (a) healthy participants and (b) periodontitis participants.
+
+3.7
+
+Impact of treatment on salivary and serum cytokines
+
+We investigated whether treatment at 12 months significantly changed protein levels (Table). Treatment led to significant reductions in salivary IFNγ, IL‐6, IL‐1β and IL‐10 among Stage III (alone or in combination with Stage II) patients. In Stage III, periodontal treatment led to significant changes (< .05): increase of MCP‐1 and OPG, and reduction in levels of IFNg, IL‐6 and IL‐10. Despite these reductions, all levels remained higher in periodontitis patients than in healthy individuals (< .05).
+
+4
+
+DISCUSSION
+
+Here, we present the results of the analysis of levels of 10 salivary and 5 serum markers in a study of natural periodontal disease progression. Further, our study design of bi‐monthly examination and sampling in the absence of treatment and after NSPT allowed the assessment of clinical and immunological shifts that occur within the same individual and between different patient groups. We were able to discriminate and characterize disease progression, stability and treatment outcomes based on clinical and immunological parameters.
+
+Our results showed that periodontitis patients who progressed the most (P2) had the highest levels of %BOP and plaque, both in periodontal heath and in periodontitis (Table; Figure S). These findings are in line with those of clinical studies that support the role of periodontal inflammation in periodontitis progression, as plaque‐induced gingivitis is a predictor of periodontal breakdown (Schatzle et al.,) and the absence of BOP indicates periodontal stability (Lang et al.,).
+
+Healthy patients that progressed more revealed higher salivary levels of MCP‐1, IL‐8 and OPG, while periodontitis patients who progressed more had the highest salivary levels of all analytes measured, as early as baseline and they remained more elevated during the monitoring phase. Our findings are in accordance with the only two reports that examined the levels of salivary cytokines during periodontitis progression (Kinney et al.,; Nagarajan et al.,). Kinney et al. () observed that MMP‐9, MMP8, OPG and IL‐b were most informative regarding periodontitis progression and stability, with higher levels being associated with periodontal breakdown. In contrast to Kinney et al. (), we did not find MMP‐9 to be able to discriminate progression from stability. That may be explained by some of the differences between that study and ours, including the greater disease severity of their population and the inclusion of smokers. Nagarajan et al. () saw significantly higher levels of IL‐1β and MMP‐8 in progressing patients than in their stable counterparts, but they did not detect significant differences for IL‐6 or IFNγ. These inconsistencies may be due to differences in study design, as both investigations used the tolerance method to detect progression while we employed a more comprehensive technique that accounts for sources of variability which may otherwise have been interpreted as progression. Further, both studies included smokers, a factor that modifies periodontitis pathogenesis and may explain why their study population had substantially more disease severity than ours.
+
+In addition to those biomarkers, we explored proteins that have not yet been assessed in the context of progression but merit pursuit given their diagnostic capabilities, relationship to disease extent/severity and decreasing levels with successful therapy (Belibasakis & Bostanci,; Buduneli & Kinane,; Koidou et al.,; Stadler et al.,) as well as detectability in saliva (Bostanci et al.,; Ebersole et al.,,; Lee et al.,; Nagarajan et al.,). Our results showed that periodontitis patients who progressed the most (Figuresand), had the highest salivary levels of MCP‐1, IL‐8, IFNγ, IL‐10, IL‐6 and VEGF as early as baseline, and these levels remained more elevated than P0 and P1 during the monitoring phase. These findings are biologically plausible, as IFNγ, IL‐6 and IL‐8 are known to stimulate and chemoattract macrophages and neutrophils, promote Th1‐cell differentiation and increase osteoclast differentiation and activity (Stadler et al.,). While IL‐10 is anti‐inflammatory in nature, its elevated levels have been associated with increased inflammation in previous studies (Tang et al.,). This may be due to its up‐regulation in response to an increased inflammatory milieu which triggers a feedback mechanism to counteract further inflammation (Tang et al.,). MCP‐1 (monocyte chemoattractant protein‐1) is a potent chemoattractant for monocytes and stimulates lytic enzymes and enhances phagocytic activity and osteoclastogenesis (Bianconi et al.,; Gupta et al.,; Yilmaz et al.,). VEGF (vascular endothelial growth factor) is a critical regulator of angiogenesis and homeostasis, being crucial for bone development and repair. It contributes to the coupling of osteogenesis to angiogenesis and controls the differentiation and functioning of osteoblasts and osteoclasts (Hu & Olsen,).
+
+It is noteworthy that, overall, periodontitis patients in P0 and P1 groups had very similar trajectories for several cytokines, with P1 levels being much closer to those seen in P0 than in P2 (Figuresand S). That suggests that the limited amount of progression in P1 (1–2 sites progressing) may not be sufficiently reflected in saliva or serum or to clinically distinguish the groups.
+
+Only two studies have examined the levels of serum cytokines during periodontitis progression (Kinney et al.,; Nagarajan et al.,). They found that higher levels of MMP‐8 (Kinney et al.,) and MMP‐9 (Kinney et al.,; Nagarajan et al.,) were associated with progression, likely due to the observance of more severe disease in those studies. None of the analytes we measured was associated with progression. While there was a trend for higher levels of CRP, serum amyloid A and MPO in progressing healthy participants, no patterns were apparent among periodontitis patients.
+
+While several studies have assessed the impact of treatment on saliva and serum analytes in the context of periodontitis (Ebersole et al.,,; Yilmaz et al.,), no previous study had assessed them in the context of progression. In other words, does treatment affect local and systemic inflammatory markers in individuals with recent evidence of periodontitis progression and stable individuals differently? We observed that treatment significantly reduces salivary IFNγ, IL‐6, IL1‐b, MMP‐8 and MMP‐9 in progressing and stable individuals, but MCP‐1, IL‐8 and OPG appear to have increased in progressing patients and decreased in stable individuals, while the level of MMP‐9 decreased only in stable subjects. Serum levels of CRP and MMP‐8 increased in both groups, while HSA increased in progressing patients only.
+
+The present study has a number of strengths including the use of the most current classification of periodontal diseases, the use of a comprehensive periodontal examination protocol by trained and calibrated examiners, recruitment and retention of a robust patient population (415 participants completed the study), a monitoring phase without treatment, a post‐treatment phase and controlling for potential confounders (population is non‐smoker, non‐diabetic, not on anti‐inflammatory medications). In addition, the use of multiple timepoints of 2‐month intervals of a comprehensive panel of saliva and serum analytes allowed for an improved understanding of their fluctuations longitudinally. One limitation of the present study is the lack of paired salivary microbiome data to complement the host profiles to ultimately provide a better understanding of the dynamics of oral dysbiosis in the context of disease progression and stability. However, this data is currently under analysis.
+
+Given the clinical heterogeneity of gingivitis and periodontitis, their associated immune‐response (Behle et al.,; Nagarajan et al.,), and use of a current classification system that is based on preset values of clinical parameters (Papapanou et al.,), there is a need for the establishment of a biological component to disease classification schemes, such as levels of informative, predictive and discriminative markers. This information can be quite valuable to enhance periodontal grading to supplement diabetes and smoking. This evolution of staging and grading with biomarkers should improve prognostication of higher risk patients of disease progression. Such information will ultimately improve patient management, including better prevention strategies, monitoring programs and more cost‐effective treatments.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Supporting information.
+
+(a) Study design. (b) Flow chart of subject recruitment for the study. During the study, all sites present were monitored with comprehensive periodontal examinations; serum and saliva samples were obtained at each visit. (c) Salivary and serum levels of analytes were determined using bead‐based immunoassays.
+
+Clinical parameters of the study population according to progression levels. Line plots of mean percentage of sites presenting bleeding on probing (% BOP), mean clinical attachment level (CALM, mm), mean percentage of sites presenting gingival redness (%INFLAM), mean pocket depth (PDEPM, mm) and mean percentage of sites presenting plaque (% PLAQ) in (a) periodontally healthy participants and (b) periodontitis patients. Progression class: 0 = participants with no sites progressing; 1 = with 1–2 sites progressing; 2 = with 3 or more sites progressing.
+
+Line plots of mean log‐transformed analyte values over time, according to progression in saliva in (a) Stage II and (b) Stage III periodontitis. Progression class: 0 = participants with no sites progressing; 1 = with 1–2 sites progressing; 2 = with 3 or more sites progressing.
+
+Line plots of mean log‐transformed analyte values over time, according to progression in serum in (a) Stage II and (b) Stage III periodontitis. Progression class: 0 = participants with no sites progressing; 1 = with 1–2 sites progressing; 2 = with 3 or more sites progressing.
+
+Line plots of mean log‐transformed analyte values over time, according to progression in serum in (a) healthy participants and (b) Stage II/Stage III periodontitis patients. Progression class: 0 = participants with no sites progressing; 1 = with 1–2 sites progressing; 2 = with 3 or more sites progressing.
