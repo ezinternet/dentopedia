@@ -10,7 +10,7 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [burnout, mental-health, wellbeing, dentists, dcp, hygienists, mbi, professional-wellbeing, overview, korea, china, dental-nurse]
+tags: [burnout, mental-health, wellbeing, dentists, dcp, hygienists, mbi, professional-wellbeing, overview, korea, china, dental-nurse, icd-11, burnout-definition]
 ---
 
 ## 한국어 핵심요약
@@ -26,7 +26,11 @@ tags: [burnout, mental-health, wellbeing, dentists, dcp, hygienists, mbi, profes
 > - **개입(intervention)**: 근거 매우 빈약, 1차 예방 데이터 거의 없음; 2/3차 psychoeducational·mindfulness가 일부 효과 (Plessas 2022). Mindfulness만으로 해결은 오판 — 보조적 의미.
 > - **retraction**: Panagioti 2018("physician burnout → patient harm 2배")은 **철회(RETRACTED)** — 이 연관성은 본 overview에서 주장하지 않으며 인용 금지.
 > - **임상 ladder(개입)**: ①Maslach Burnout Inventory(MBI) 자가 평가(EE/DP/PA 3축) → ②개인 차원(mindfulness·CBT·운동·수면, 부작용 없음) → ③조직 차원(진료시간 통제·동료 분담·행정 자동화) → ④우울·불안 의심 시 정신건강의학과 의뢰 → ⑤만성+회복 무 시 진료 강도 조정/전환.
-> - **확신도**: 축 1 유병률 = 근거강함(headline 13%는 두 SR+MA 일치가 앵커; Jin 2014·Zhang 2022는 supplementary 1차 연구로 SR+MA 아님, 상이한 metric); 축 2·3 = 합의수준(개입 효능은 미검증); 축 4 retraction = 근거강함(retraction 사실 자체).
+> - **ICD-11 정의 [확인]**: WHO ICD-11은 번아웃을 "관리되지 않은 만성 직장 스트레스로 인한 증후군(occupational phenomenon)"으로 정의 — 의학적 질병이 아님. 마슬라흐(Maslach) 3차원 모델(정서적 소진(Emotional Exhaustion, EE) / 비인격화(Depersonalization, DP) / 직업효능 저하(Reduced Professional Accomplishment, PA))이 canonical 框架. (Edú-Valsania 2022, Maluleka 2026 두 독립 리뷰 확인)
+> - **MBI-HSS 임상 절단값 [확인]**: 고위험 번아웃 기준 EE ≥ 27 / DP ≥ 10 / PA ≤ 33 (Maluleka 2026). Jin 2014의 EE 41.2%는 이 EE 절단값 기준의 "고위험 정서적 소진" 해당. 그러나 Moro/Long의 pooled 13%는 3축 전체 full-syndrome 기준 — metric이 달라 직접 비교 여전히 불가.
+> - **유병률 추정 편차 원인 [확인]**: 번아웃 유병률이 연구마다 3.2%~91.4% 산포하는 이유는 도구(MBI-HSS vs CMBI vs CBI)·기준값(cutoff) 차이이며, 어떤 도구도 임상적으로 검증된 진단 절단값이 없음 (Edú-Valsania 2022). → 이것이 이 위키에서 도구별 수치를 직접 비교 불가로 처리하는 근거.
+> - **번아웃 ≠ 우울증 [확인]**: 피로·저에너지·기능장애 등 증상은 중복되나, 번아웃은 직업 특이적(work-specific)이고 우울증은 그렇지 않음. 공존 가능하나 screening·치료 목적상 구분 필요 (Maluleka 2026).
+> - **확신도**: 축 1 유병률 = 근거강함(headline 13%는 두 SR+MA 일치가 앵커; Jin 2014·Zhang 2022는 supplementary 1차 연구로 SR+MA 아님, 상이한 metric); 축 2·3 = 합의수준(개입 효능은 미검증); 축 4 retraction = 근거강함(retraction 사실 자체); **정의/ICD-11 = [확인]** (두 독립 리뷰 일치).
 
 ## Three-line Summary
 
@@ -55,8 +59,20 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 4. **DCP(hygienist/therapist) 데이터 극히 부족 (UK SR 12편)** — Kaki 2022. [확인]
 5. **직장 개입 evidence 매우 빈약; 1차 예방 거의 없음; 2/3차 psychoeducational·mindfulness 위주** — Plessas 2022 SR. [확인]
 6. **Panagioti 2018 (physician burnout → patient harm)은 RETRACTED — 이 연관성은 본 overview에서 주장하지 않음** — Panagioti 2018 retracted. [확인 — retraction 사실 자체]
+7. **번아웃 = WHO/ICD-11 직업적 현상; 의학적 질병 아님 — Maslach 3차원 모델(EE/DP/PA) canonical** — Edú-Valsania 2022, Maluleka 2026 (2026-07-20 추가). MBI-HSS 고위험 절단값 EE ≥27 / DP ≥10 / PA ≤33 확인; 번아웃 ≠ 우울증(번아웃은 직업 특이적). [확인]
 
 ## Results
+
+### 정의 기반 (Definitional Foundation) — 2026-07-20 추가
+
+| Paper | Evidence | Key contribution |
+|---|---|---|
+| [[professional-wellbeing/edu-valsania-2022-burnout-review-theory-measurement]] | narrative-review | 마슬라흐 3차원 모델·ICD-11·6가지 원인이론·측정도구 10종 이상 망라; 유병률 3.2%~91.4% 산포의 원인 = 도구·절단값 차이 + 검증된 진단 기준값 없음 |
+| [[professional-wellbeing/maluleka-2026-burnout-in-healthcare-professionals]] | narrative-review | ICD-11 정의 verbatim 확인; MBI-HSS 임상 절단값 EE ≥27 / DP ≥10 / PA ≤33 명시; 번아웃 ≠ 우울증(번아웃 = 직업 특이적); ABC 예방 모델 |
+
+**ICD-11 정의 (verbatim)**: "syndrome conceptualised as resulting from chronic workplace stress that has not been successfully managed" — WHO ICD-11. 의학적 질병·정신질환이 아니라 직업 맥락 한정 현상.
+
+**유병률 추정 편차 근거**: 어떤 측정도구도 임상적으로 검증된 진단 절단값(cutoff)이 없다 — 연구자가 임의로 정한 cutoff가 곧 "유병률"이 되기 때문에 3.2%~91.4% 산포가 발생한다. 본 위키가 도구 간 수치를 직접 비교 불가로 처리하는 이유.
 
 ### 축 1 — 유병률 (Prevalence)
 
@@ -66,7 +82,7 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 | [[professional-wellbeing/long-2023-prevalence-professional-burnout-dentists-systematic]] | sr+ma (15편, n=6,038) | 전체 13% (Moro 일치); 유럽 ↑·아메리카 ↓; longitudinal > cross |
 | [[professional-wellbeing/afrashtehfar-2023-dental-profession-high-prevalence-burnout]] | commentary | Moro 2022 endorsement; JEBDP 비판적 검토 |
 | [[professional-wellbeing/negucioiu-2024-prevalence-management-burnout-dental-covid]] | sr | 첫 post-pandemic 통합 — pre/during/post COVID 일관 |
-| [[professional-wellbeing/jin-2014-burnout-related-factors-korean-dentists]] | cross-sectional (한국, n=444) | Korea 유일 1차 자료(supplementary): MBI-HSS 하위척도 고위험 EE 41.2%/DP 55.9%/PA 41.4% — 하위척도 cutoff metric이라 pooled 13% full-syndrome와 직접 비교 불가 |
+| [[professional-wellbeing/jin-2014-burnout-related-factors-korean-dentists]] | cross-sectional (한국, n=444) | Korea 유일 1차 자료(supplementary): MBI-HSS 하위척도 고위험 EE 41.2%/DP 55.9%/PA 41.4% — EE ≥27 [확인 Maluleka 2026] 기준 고위험 비율이나, pooled 13% full-syndrome와는 직접 비교 불가 (서로 다른 metric) |
 
 **임상 함의**: 본인·동료의 EE 28%는 4명 중 1명 이상. 자가 인식 + 동료 인식 시스템 필요. [확인]
 
@@ -88,6 +104,7 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[professional-wellbeing/plessas-2022-mental-health-wellbeing-interventions-dental]] | sr | Evidence 빈약. 1차 예방 거의 없음. Psychoeducational·mindfulness가 2/3차로 일부 효과 |
+| [[professional-wellbeing/maluleka-2026-burnout-in-healthcare-professionals]] | narrative-review | 1·2·3차 예방 프레임워크 명시 + ABC 접근법(자기인식·균형·루틴) — Plessas의 '1차 예방 부재' 진단과 일치 |
 
 **임상 ladder (개입)**:
 1. **자가 인식** — MBI(Maslach Burnout Inventory) 자가 평가. EE/DP/PA 3 축.
@@ -121,6 +138,7 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 - [[overviews/evidence-appraisal-toolkit]] — Retraction·SR appraisal
 
 확신도 등급:
+- **정의/ICD-11** = [확인] (두 독립 리뷰 일치: Edú-Valsania 2022 + Maluleka 2026; MBI-HSS cutoffs EE ≥27/DP ≥10/PA ≤33 명시됨)
 - 축 1 prevalence = [확인] (headline 13%는 두 독립 SR+MA 일치가 앵커; Jin 2014은 supplementary 한국 1차 연구 — 하위척도 cutoff 유병률이라 pooled full-syndrome %와 직접 비교 불가, SR+MA-grade 아님)
 - 축 2 직군 = [확인] (Kaki 2022 UK DCP gap은 여전히 open; Zhang 2022는 supplementary 중국 1차 비교 데이터 — 직군 매핑 상이로 부분 충족)
 - 축 3 개입 = [확인] for direction, [미검증] for specific intervention efficacy
