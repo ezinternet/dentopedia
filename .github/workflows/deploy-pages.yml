@@ -143,6 +143,9 @@ jobs:
             cp -r lectures/. quartz/public/lectures/
           fi
 
+      - name: Copy robots.txt (opt out of search-engine indexing — URL-only access)
+        run: cp robots.txt quartz/public/robots.txt
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
