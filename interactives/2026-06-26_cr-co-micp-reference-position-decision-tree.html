@@ -2,7 +2,8 @@
 ---
 title: "CR vs CO/MIP 기준위 선택 결정 트리 — 교합 재건 기준위 판정"
 type: interactive
-date: 2026-06-26
+date: 2026-07-20
+verified: 2026-07-20
 status: done
 category: occlusion
 source_wiki:
@@ -13,6 +14,7 @@ source_wiki:
   - wiki/occlusion/fornai-2022-centric-relation-matter-form-substance.md
   - wiki/occlusion/fukushima-2016-controversy-with-respect-occlusion.md
   - wiki/tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr.md
+  - wiki/occlusion/utz-2026-neuromuscular-position-tmj-condyle-dentate.md
 agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
 ---
 -->
@@ -111,7 +113,7 @@ agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
   </header>
 
   <div class="glossary">
-    <b>CR</b> 중심위(Centric Relation, 과두가 관절와에 안정 안착) · <b>CO</b> 중심교합(CR 상태의 교합접촉위) · <b>MIP/MICP/ICP</b> 최대교두감합위(치아 최대 맞물림, 과두 무관) · <b>중심활주</b> CR↔MIP 미끄러짐(CR-ICP discrepancy)
+    <b>CR</b> 중심위(Centric Relation, 과두가 관절와에 안정 안착) · <b>CO</b> 중심교합(CR 상태의 교합접촉위) · <b>MIP/MICP/ICP</b> 최대교두감합위(치아 최대 맞물림, 과두 무관) · <b>NM</b> 신경근위(Neuromuscular/Myocentric position, 근전도 이완 기준 하악위) · <b>중심활주</b> CR↔MIP 미끄러짐(CR-ICP discrepancy)
   </div>
 
   <div class="progress" id="progress">
@@ -131,7 +133,7 @@ agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
   </div>
 
   <script>
-    const NOTE = '측정 표준화: MIP 교합접촉 수는 검출지시재에 따라 11–70개로 변동 — 한 가지 지시재(교합지·shimstock·디지털)를 정해 기록하고 재내원 시 재점검 (Qadeer & Türp 2023, J Oral Rehabil).';
+    const NOTE = '⚠️ 신경근위(NM/Myocentric): 시험받고 기각됐다 — MIP↔NM 0.88±0.30 mm, CR↔NM 0.83±0.27 mm로 세 위치 모두 서로 다른 독립 위치임이 확인됐고, 분산이 핵심(최대 5.98/7.89 mm). 보철 수복 기준위로 권장 불가 (Utz 2026, Clin Oral Investig). | 📏 측정 도구 주의: CR–MIP 활주 2 mm 판별선인데 측정 도구 오차가 같은 자릿수 — 왁스 기록 재현성 ≈ 디지털의 6배 편차 (Rani 2024), IOS 측방위 오차 28% (Morsy 2024), 교합지 contact count는 력 변화에 둔감 (Biren 2025). | 📊 교합접촉 수는 지시재 따라 11–70개 변동 — 한 가지 지시재로 고정해 추적 (Qadeer & Türp 2023, J Oral Rehabil).';
 
     const QUESTIONS = {
       q1: {
@@ -158,7 +160,7 @@ agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
         step: 3,
         num: '3단계 / 4',
         text: 'CR–MIP 중심활주가 작고(시상 < 2 mm) 무증상인가?',
-        hint: 'Pullinger 기준 무증상자에서 시상 활주 > 2 mm는 거의 없다 (Fornai 2022). 작은 활주는 정상.',
+        hint: 'Pullinger 기준 무증상자에서 시상 활주 > 2 mm는 거의 없다 (Fornai 2022). 작은 활주는 정상. ⚠️ 2 mm 판별선인데 왁스/IOS 측정 오차가 같은 자릿수 — 측정법 고정 후 재점검 권장.',
         opts: [
           { label: '예 — 활주 < 2 mm, 무증상', hint: '생물학적으로 수용 가능한 범위', go: 'rGreen' },
           { label: '아니오 — 활주 > 2 mm / hyperdivergent 골격 / 증상', hint: '경계 신호 — 추가 평가 필요', go: 'rAmber' },
