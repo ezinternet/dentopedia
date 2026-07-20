@@ -1,0 +1,233 @@
+1. Introduction
+
+Gingival recession (GR), defined as the exposure of the root surface due to the apical shift in the gingival margin from the cemento-enamel junction [,], is usually associated with impaired esthetics. If left untreated, it can lead to dental hypersensitivity, poor plaque control, root caries, and even loss of periodontal support [,]. These functional and esthetic issues are more frequently perceived in younger individuals, especially in the case of deeper GR and involved anterior areas, even in the presence of non-carious cervical lesions [].
+
+The development of GR is related to various etiological factors, mainly inflammatory, anatomical, or mechanical, such as plaque-induced periodontal disease [,,], viral infections [], traumatic tooth brushing [], aberrant frenum attachment [], thin gingival phenotype [], malocclusion and dental crowding [], subgingival restorative margin invading the biological width [,], orthodontic treatment [,], and lip/tongue piercings [].
+
+Multiple adjacent recessions are even more challenging defects, as the surgical field is larger and more anatomical variations may be present (prominent roots, shallow vestibules, defect size) []. Current effective management of these defects relies on root coverage periodontal plastic surgery (RCPPS). Several randomized clinical trials (RCTs) and systematic reviews (SRs) analyzed the efficacy of the most used RCPPS techniques, e.g., the Coronally Advanced Flap (CAF) with or without subepithelial connective tissue graft (sCTG), and the Coronally Advanced Tunnel technique (CAT) with or without sCTG [,,,,]. Successful treatment of GR aims to eliminate etiologic factors related to the onset and progression of the defect, characterizing the phenotype of the recession site and adjacent areas, and selecting the most suitable option []. In this context, the CAF is commonly considered the gold standard to treat GR [,], as it typically renders the best cost–benefit treatment outcomes in terms of complete root coverage (CRC), mean root coverage (MRC), keratinized tissue width (KTW) gain, and long-term stability of treatment outcomes.
+
+Nevertheless, vertical releasing incisions performed with the CAF may disrupt its vascularity or negatively influence the esthetic outcome due to keloid/scar formation []. To address these drawbacks, a Modified Coronally Advanced Flap (mCAF) was proposed, with the employment of an envelope design, characterized by a sub-marginal oblique incision in the papillary area, anticipating the rotational movement of the surgical papilla during coronal advancement [], without the need for vertical incisions. Further studies reported improved clinical and esthetic outcomes with the additional use of connective tissue graft (CTG) to this novel approach, compared to the conventional bilaminar technique [,].
+
+Recent literature focused on the association of different biomaterials as an adjunct to the flap alone: acellular dermal matrix (ADM) [], xenogenic acellular dermal matrix (mCAF + XADM) [,,,], Platelet-Rich Fibrin (mCAF + PRF) [], Collagen Matrix (mCAF + CM) [,], barrier membrane (mCAF + PRF membrane, mCAF + placental membrane) [,], hyaluronic acid (HA) [,,], other adjunctive techniques, e.g., the orthodontic button application (mCAF + OB) [,], or the use of a microsurgical approach [].
+
+Based on the hypothesis that these mCAF adjunctive techniques may provide efficacy not only in the short-, but also in the long-term treatment of multiple adjacent GR-type defects, a SR was conducted in 2025 to determine and compare their outcomes in terms of root coverage (RC), esthetic outcomes, and keratinized tissue (KT) augmentation. The novelty of this SR lies in its specific clinical focus on these latest mCAF adjunctive techniques, with the aim of enriching comparison between them and mCAF alone.
+
+2. Materials and Methods
+
+This study was conducted in 2025 in accordance with the PRISMA guidelines and checklist (2020) []. The review was conducted according to the population, intervention, comparison, outcome, and study design (PICOS) format []. Registration in PROSPERO (International prospective register of systematic reviews) was performed with ID CRD420251085823 on 4 July 2025.
+
+2.1. Search Strategy
+
+An electronic search was conducted using the following databases: PubMed, Scopus, Web of Science, and Cinahl Complete, considering studies published between 2013 and 2025.
+
+In MEDLINE (PubMed) the following search terms were used:
+
+In Scopus the following search terms were used:
+
+In Web of Science the following search terms were used:
+
+In Cinahl Complete the following search terms were used:
+
+Focused Question
+
+The focused question was defined as follows:
+
+“What is the efficacy of different mCAF adjunctive techniques for the treatment of multiple adjacent GR-type defects, in terms of root coverage (RC), esthetic outcomes, and keratinized tissue (KT) augmentation?”. Furthermore, the aim of the literature search was to evaluate the long-term results of these mCAF adjunctive techniques.
+
+2.2. Inclusion Criteria and Selection Process
+
+Study selection criteria based on the PICOS (Population, Intervention, Comparison, Outcomes, and Study design) framework were as follows.
+
+2.2.1. Types of Participants
+
+Based on the defined focused question, studies with patients with at least two gingival recession (GR) defects were included. Miller classification [] and recession-type (RT) classification based on the interdental clinical attachment level [] were considered.
+
+2.2.2. Types of Interventions
+
+The following root coverage surgical procedures for the treatment of multiple gingival recessions were considered:
+
+2.2.3. Types of Studies
+
+Randomized controlled trials with a minimum follow-up of 6 months with ≥5 patients were included. Retrospective studies, prospective studies, in vitro studies, animal studies, case reports, case series, narrative reviews, and systematic reviews were excluded.
+
+2.2.4. Types of Measures: Primary and Secondary Outcomes
+
+The variables sought in each study were defined as follows.
+
+Primary outcomes were as follows:
+
+Secondary outcomes were as follows:
+
+2.3. Data Collection, Extraction, and Management
+
+Titles of the studies assessed through the search previously described (using the predetermined inclusion and exclusion criteria) were screened by two independent examiners (M.G. and A.S.), to minimize the risk of reviewer bias. Duplicates were deleted. Data collection from the included reports was performed by the two reviewers, who independently worked with an Excel spreadsheet. In the case of disagreement regarding eligibility, the two reviewers analyzed the title jointly to reach a final decision concerning inclusion or exclusion. Articles identified as potentially useful through analysis of the title were then selected for a more in-depth investigation by reading the abstract. In the examination of the abstract, attention was paid to assess the compliance of the study with the inclusion criteria. The selected studies were then saved as a digital version and submitted for full-text reading. In this way, only articles that fulfilled all criteria of the selection process were finally included for data extraction.
+
+Data extraction and management were performed by filling in a table in the Excel spreadsheet with the following data: Titles, Authors, Year, Design, N° Patients, N° Sites, Surgery Test vs. Control, N° Patients in each group, N° Sites in each group, CRC (%), % RC, RDR, ΔKTw, ΔGT, Duration of the surgery (min), RES, Follow-up.
+
+2.3.1. Assessment of Risk of Bias of the Included Studies
+
+According to the Risk of Bias 2 (RoB 2) Tool [], the following parameters were adopted for the evaluation of risk of bias for RCTs: random sequence generation and allocation concealment (selection bias), blinding of participants and personnel (performance bias), blinding of outcome assessment (detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias). In the event of a disagreement between the same two reviewers (M.G. and A.S.), additional discussion was used to reach a consensus. All data were represented through a risk of bias graph and a risk of bias summary.
+
+All data were graphically represented through a traffic-light plot and a summary plot by uploading the data into the Robvis web application (visualization tool) [].
+
+2.3.2. Quantitative Data Synthesis Method
+
+A Meta-Analysis was carried out using RevMan5 software [].
+
+Primary and secondary outcomes were considered in performing the meta-analysis, examining both dichotomous variables (CRC) and continuous variables (MRC, GT gain, RDR, KTW gain, RES, duration of surgery).
+
+For the dichotomous CRC data, the inverse variance method was applied with the risk ratio (RR) as the main effect measure. The random effects model was adopted, which considers variation between studies in addition to random error, allowing for generalization of results to a broader population. Results were presented with a 95% confidence interval, providing a precise estimate of the effect with a suitable level of certainty.
+
+For continuous data (MRC, GT gain, RDR, KTW gain, and duration of surgery) the inverse variance method was also employed. However, in this case, the effect measure used was the standard mean difference (SMD). The magnitude of the SMD was interpreted as mild if SMD = 0.2, mean if SMD = 0.5 and high if SMD = 0.8.
+
+The heterogeneity between studies was assessed with the heterogeneity index of Higgins (I). Heterogeneity is considered low if Iis less than 40%, moderate if Iis between 40% and 70%, substantial if Iis between 70% and 90%, and considerable if Iis more than 90%. When the heterogeneity was low (I< 40%), a fixed effects model was applied; otherwise, a random effects model analysis was undertaken to account for variation between studies and obtain more robust estimates. Parallel-group and split-mouth studies were combined in the meta-analyses of treatment effects. The significance level was set at alpha = 0.05. Results were reported with a 95% confidence interval (CI) to indicate the precision of the estimates. All data were graphically represented using a forest plot.
+
+Subgroups analysis was conducted considering the threshold of-value as less than 0.1 []. Results were reported with the significance of subgroup differences at every level of heterogeneity: in case of moderate to high heterogeneity, meta-analysis was included, but the uncertainty in the evidence was acknowledged as inconsistency between individual trial results [], thus these results were retained but interpreted with caution.
+
+2.3.3. Certainty Assessment
+
+The certainty assessment was conducted using GRADEpro GDT [].
+
+The same two reviewers (M.G. and A.S.) evaluated the certainty of evidence based on the following factors: risk of bias, inconsistency, indirectness, imprecision, publication bias, large effect, plausible confounding, and dose–response gradient. In the event of disagreement between the two reviewers, additional discussion was used to reach a consensus.
+
+3. Results
+
+3.1. Results of the Study Search
+
+The electronic search through the PubMed database identified 74 publications, the search using the Scopus database identified 654 publications, the Web of Science database identified 142 publications and the Cinahl Complete database identified 32 publications. Following the removal of all duplicates, 633 articles were identified up to the date of search (1 July 2025). Among these, after reading all titles and abstracts, 50 publications were sought for retrieval (one study was not retrieved). The full text analysis led to the exclusion of 32 articles with specified reasons, so the electronic search finally identified 17 articles, whose data are reported in.
+
+3.2. Characteristics of the Included Studies
+
+All 17 studies included in the SR (see) were RCTs. Nine of these articles were performed with a split-mouth design, where each patient received both the test and control surgical interventions; in eight studies, a parallel-groups design was adopted, assigning patients to either the test or control surgery, respectively.
+
+The number of patients included in each study ranged from 7 to 50 and the number of treated sites (number of GRs) ranged from 14 to 269.
+
+The characteristics of the included studies are described in detail in.
+
+3.3. Risk of Bias
+
+Risk of bias (and) in the included RCTs was evaluated using the data extracted from each trial.
+
+All trials reported an adequate method of randomization and allocation concealment.
+
+Sixteen trials reported adequate blinding of participants and personnel. One trial [] was considered unclear as it did not mention the blinding of participants and personnel.
+
+Regarding the blinding of outcomes assessment, 12 trials were considered at low risk of bias, while in 5 trials the blinding of the examiners was not mentioned, thus it was considered as unclear.
+
+Most of the studies were at low risk of bias for incomplete outcomes data domain, except for one trial [] in which esthetic (VAS) and pain (VAS) values were reported on a graphic scale, without reporting the mean values.
+
+Selective reporting was considered at low risk of bias for 15 studies. The bias from selective outcomes reporting was considered high for 2 studies: respectively, in the first study [], esthetic (VAS) and pain (VAS) values were reported on a graphic scale, while in the second study [], the 3-month clinical measurements mentioned were not reported.
+
+Results of individual studies included in the SR are described in. CRC was reported in 14 studies [,,,,,,,,,,,,,]. MRC was reported in 13 studies [,,,,,,,,,,,,]. RDR was reported in 10 studies [,,,,,,,,,]. RES was reported by five studies [,,,,]. ∆GT was reported in five studies [,,,,]. ∆KTW was reported in 10 studies [,,,,,,,,,]. Duration of surgery was reported in five studies [,,,,].
+
+3.4. Synthesis of Results of Meta-Analysis
+
+Of the 17 included studies, 9 evaluating mCAF + sCTG vs. mCAF variation (CM, XADM, PRF, EMD, sCTG harvested double blade scalpel) were included in the following meta-analysis (Figures 4–10):
+
+The six parameters considered were CRC, MRC, RDR, KTW gain, GT gain, RES, duration of surgery. For each parameter, we created a forest plot to explore the efficacy of mCAF adjunctive techniques (test) compared to mCAF + sCTG (control).
+
+When outcomes were reported, comparisons were divided into subgroups:
+
+3.4.1. CRC
+
+Eight trials reported this outcome (see) [,,,,,,]. The Ivalue was 0%, indicating no observed heterogeneity among studies; therefore, a fixed-effect model was applied. The overall Odds Ratio (OR) was 1.70 [95% CI: 1.18 to 2.44], with a-value of 0.004, indicating a statistically significant difference in favor of mCAF + sCTG.
+
+In the subgroup mCAF + sCTG vs. mCAF + XADM, 192 sites were treated in each group. The Iwas 0%, so heterogeneity was considered low, and a fixed-effect model was used. The difference between groups was statistically significant (= 0.002) in favor of mCAF + sCTG. In the subgroups mCAF + sCTG vs. mCAF + CM, mCAF + sCTG (de-epithelialized) vs. mCAF + sCTG (DBS), and mCAF + sCTG vs. mCAF + EMD, the differences between groups were not statistically significant, thus the test for heterogeneity was not applicable in these cases.
+
+The test for subgroup differences showed no statistically significant interaction between the subgroups (Chi= 5.23, degrees of freedom (df) = 3,= 0.16), although a moderate degree of heterogeneity was observed (I= 42.6%), suggesting that the treatment effect was relatively consistent across the different types of substitutes evaluated.
+
+3.4.2. MRC
+
+Nine trials reported this outcome () [,,,,,,,,]. Ivalue was 58%, which indicates moderate heterogeneity: for this reason, the random effect model was used. The SMD was 0.48 (95% CI from 0.22 to 0.74) with a-value of 0.0002, indicating a statistically significant difference in favor of mCAF + sCTG.
+
+In the subgroup mCAF + sCTG (151 sites) vs. mCAF + XADM (133 sites), Ivalue was 64%, so the heterogeneity was considered moderate. The difference between groups was statistically significant in favor of sCTG (= 0.03). Even more evident was the analysis of the subgroup mCAF + sCTG vs. mCAF + PRF, which showed a-value of 0.01. In the subgroups mCAF + sCTG vs. mCAF + CM, mCAF + sCTG (de-epithelialized) vs. mCAF + sCTG (DBS), and mCAF + sCTG vs. mCAF + EMD, no significant difference was found, thus test for heterogeneity was not applicable in these cases.
+
+The test for subgroup differences yielded a Chivalue of 1.92, with 2 df (= 0.38), and I= 0%, indicating that no statistically significant difference in treatment effects across the subgroups was found. The low Ivalue suggests no heterogeneity between subgroups, implying that the treatment effect is consistent across these groups.
+
+3.4.3. RDR
+
+Five trials reported this outcome () [,,,,,]. Ivalue was 95%, which indicates considerable heterogeneity: for this reason, the random effect model was applied. The SMD was 0.80, with 95% CI from −0.05 to 1.64 and= 0.06 (not statistically significant).
+
+In the subgroup mCAF + sCTG vs. mCAF + XADM, 192 sites were treated with each technique. The difference between groups was not statistically significant, even if a higher value of RDR was recorded with the sCTG. In the subgroups mCAF + sCTG vs. mCAF + CM and mCAF + sCTG (de-epithelialized) vs. mCAF + sCTG (DBS), the differences between groups were not statistically significant, thus test for heterogeneity was not applicable in these cases.
+
+The test for subgroup differences yielded a Chivalue of 3.45 with 2 df (= 0.18) and I= 42%, indicating a not statistically significant difference in treatment effects across the subgroups analyzed. The moderate Ivalue suggests some variability between subgroups; however, this variation is not statistically significant and may be attributed to chance.
+
+3.4.4. ∆GT
+
+Three trials reported this outcome () [,,]. Ivalue was 99%, indicating considerable heterogeneity: the random effect model was thus applied. The difference between groups was not statistically significant (= 0.10; SMD = 2.17; 95% CI from −0.64 to 4.99).
+
+In the subgroups mCAF + sCTG (105 sites) vs. mCAF + XADM (103 sites) and mCAF + sCTG (de-epithelialized) (42 sites) vs. mCAF + sCTG (DBS) (42 sites), the differences were not statistically significant.
+
+The test for subgroup differences yielded a Chivalue of 2.78 with one df (= 0.10) and I= 64%, indicating that no statistically significant difference was found between subgroups, while the Ivalue reflects substantial heterogeneity.
+
+3.4.5. ∆KTW
+
+Seven trials reported this outcome () [,,,,,,]. Ivalue was 99%, so the heterogeneity was considerable, thus a random effect model was applied. The difference between sCTG and its substitutes was statistically significant, with a-value of 0.005 in favor of mCAF + sCTG.
+
+The test for overall effect of subgroup mCAF + sCTG vs. mCAF + XADM showed a significant difference between groups (= 0.0001) and the Ivalue was 0%, indicating no observed heterogeneity among the studies.
+
+A statistically significant difference was also observed in mCAF + sCTG vs. mCAF + CM comparison, but the test of heterogeneity was not applicable.
+
+The other comparisons did not show any significant difference between groups.
+
+The test for subgroup differences yielded a Chivalue of 9.68 with 2 df (= 0.008) and I= 79.3%. This indicates a statistically significant difference between subgroups, with substantial heterogeneity.
+
+3.4.6. RES
+
+Only two trials recorded this outcome () [,]: no statistically significant difference was registered between sCTG and adjunctive techniques.
+
+3.4.7. Duration of Surgery
+
+Only two trials recorded the time of surgery () [,]: duration of surgery was statistically significant in favor of mCAF adjunctive techniques groups (< 0.00001).
+
+3.5. Certainty Assessement
+
+The quality of evidence was assessed for RCTs comparing primary outcomes of mCAF + sCTG vs. mCAF adjunctive techniques (see).
+
+4. Discussion
+
+Coverage of multiple GRs is generally more challenging than treatment of single GRs due to the presence of a larger avascular recipient bed, variable root prominence and shallow vestibule, uneven recession depths, and limited residual keratinized tissue [].
+
+Compared to the traditional CAF approach, the use of additional grafting, flap technique modifications, or tunnel variation with CTG may improve clinical outcomes []. The surgical approach of Modified Coronally Advanced Flap (mCAF) combined with subepithelial connective tissue graft (sCTG) is considered the gold standard; however, assessing and comparing the predictability of alternative adjunctive techniques of mCAF for simultaneous root coverage is challenging due to procedural and material heterogeneity []. The use of mCAF + sCTG has shown long-term clinical improvement of recession depth, increasing KT and CAL, besides the morbidity of procedure and the issue concerning graft availability [].
+
+In this proposal, another meta-analysis already analyzed the additional use of CTG and CM to mCAF: Bathia et al. [] reported that combining mCAF with either CTG or Collagen Matrix (CM) significantly improved CRC and recession reduction compared to mCAF alone. A more recent systematic review [] directly compared CAF + CM vs. CAF + CTG and reported a statistically significant difference in favor of sCTG, with superior outcomes in terms of recession reduction (= 0.02) and KTW gain (= 0.03). However, palatal harvesting causes severe discomfort in the palatal area in patients undergoing harvesting []; after CTG, patients usually present a small percentage of postoperative complications, such as dentin hypersensitivity, bleeding, edema, pain, and delayed wound healing. Moreover, postoperative pain is a negative experience that causes difficulty in swallowing and negatively influences patient compliance and confidence in treatment [].
+
+To avoid those complications, it is essential to investigate and evaluate evidence for alternative approaches. Based on recent literature on the association of mCAF with promising biomaterials or other substitutes/approaches, such as EMD [], this review was conducted to compare the efficacy of different adjunctive techniques, focusing on the treatment of multiple adjacent GR-type defects in terms of root coverage (RC), esthetic outcomes, and keratinized tissue (KT) augmentation. The selection of specific outcomes for a subsequent metanalysis was necessary for a proper comparison, due to the presence of substitutes of different origins, different techniques, and heterogeneous follow-ups.
+
+Only RCTs with a minimum follow-up of 6 months were included, as this duration is considered sufficient for tissues healing after surgery. Studies with longer follow-ups, up to one year, were also considered to account for complete healing []. Several biomaterials investigated in this study were superimposable to others analyzed in different systematic reviews []: among the included studies, nine evaluating mCAF + sCTG vs. mCAF + other associations (CM, XADM, PRF, EMD, sCTG harvested double blade scalpel) were included in the meta-analysis, with mCAF + sCTG as control group.
+
+Regarding RC, most of the studies (14 out of 17) reported the evaluation of CRC, which was usually considered in other systematic reviews [,] as a primary outcome, in terms of both clinical stability and esthetics. CRC was described with early and long-term follow-ups (between 6 months and 5 years) as between 43% and 93% in the case of traditional approaches of mCAF (mCAF alone or with CTG) [,,,,,,,,,,,,,,]; between 50% and 82% in the case of use of substitutes [,,,,,,,,,,]. Nevertheless, results for techniques alternative to sCTG are not available with follow-ups longer than 1,5 years: this issue can be underlined as critical for a proper comparison between different approaches, as longer outcomes, even up to 5 years, are declared as stable only with traditional approaches (percentages of CRC around 90%) [].
+
+Another parameter frequently considered for RC [] was percentage of MRC, reported in almost all studies: only a few studies [,,], whose approach was the association to mCAF of OB application, XADM, and EMD, revealed percentage of MRC comparable to those of mCAF alone or mCAF + sCTG, but more evidence of these techniques is needed. Similarly to CRC, MRC values of alternative techniques were comparable to traditional approaches of mCAF only in short-term follow-ups, with outcomes up to 95,28% in case of use of sCTG between 6 and 18 months []. On the other hand, in long-term follow-ups, it is not possible to compare them with CTG, which remains stable at 91% after 5 years []. It can be thus assumed that CRC and MRC well point out the rate of reduction in the initial recession, showing that use of new biomaterials can lead to promising clinical outcomes, despite sCTG still remaining the gold standard in long-term assessment.
+
+Cairo et al. [] examined esthetic- and patient-related outcomes, finding that CTG procedures showed highest overall esthetic performance for root coverage, although graft integration might impair soft tissue color and appearance. Additionally, CTG-based techniques were also correlated with greater patient satisfaction and morbidity. In this SR, the esthetic performance was evaluated measuring the RES parameter, which provides an objective attempt both for patients and clinicians to categorize esthetic assessment [], finding a higher RES specifically in the case of using orthodontic buttons [,]. However, a high level of evidence showed no statistically significant difference in RES between sCTG and adjunctive techniques.
+
+The ∆GT parameter [,,,,], evaluated in only five studies, presented heterogeneous values for all techniques analyzed. Better indicative of a clear tendency, the evaluation of ∆KTW was reported in almost half of studies (10 out of 17) [,,,,,,,,,], with similar values in terms of CTG (between 0.62 and 1.8 mm) compared to other approaches (between 0.3 and 2.13 mm) considering earlier follow-ups, with no results at longer follow-up.
+
+Regarding comparison between mCAF + sCTG and mCAF + PRF, MRC was found in favor of the control group (= 0.01; SMD = −0.67, 95% CI [0.14, 1.20]). Outcomes regarding PRF still represent a controversial issue, as PRF influences the healing process of both soft and hard tissues, releasing, in time, platelets, growth factors, and cytokines []. Despite methods of its production not being standardized, PRF does not require anticoagulants, thrombin, or any other gelling agent, making it easily usable []. In this regard, PRF was initially employed in implant surgery to improve bone healing, alveolar ridge preservation, 1- and 2-stage sinus floor elevation, horizontal and vertical bone regeneration, periodontal defects regeneration, third molar extractions, and later used also in plastic periodontal surgery [,,,,]. The comparison between the use of PRF membranes added to mCAF versus mCAF alone showed no significant benefits [] in favor of PRF, except for increasing KT thickness.
+
+Regarding comparison between mCAF + sCTG and mCAF + CM, only one trial reported this comparison []: CRC did not demonstrate a statistically significant difference (= 0.05) between groups, while ∆KTW revealed a statistically significant difference (= 0.0006) in favor of the control group (SMD = 0.79, 95% CI [0.34, 1.24]). In the comparison between mCAF + sCTG and mCAF + XADM the parameter CRC was evaluated in four RCTs [,,,], and a statistically significant difference (= 0.002) was found in favor of the control group (OR = 2.08, 95% CI [1.30, 3.33]). Statistically significant differences again in favor of the control group were found also for MRC (three RCTs [,,],= 0.03) and ∆KTW (four RCTs [,,,] (= 0.0001). The potential proliferation of fibroblasts may be due to the presence of important growth factors: different collagen matrices were employed to treat gingival recessions associated with dental wear, as autogenous or xenogeneic substitutes, e.g., porcine acellular dermal matrix [], which consists of 3D sterilized pure collagen types I and III and elastin, a stable tissue matrix derived from porcine dermis without being posteriorly cross-linked artificially or put under any other chemical treatment []. In vitro and in vivo investigations showed an increase growth and proliferation of human gingival fibroblasts, osteoblasts, and endothelial cells, revealing a revascularization of the collagen structure during early healing. Furthermore, other authors suggested that it enhances migration, adhesion, and proliferation of periodontal ligament cells and human oral fibroblasts [,,].
+
+Finally, duration of surgery was significant shorter with mCAF adjunctive techniques (< 0.00001): as described by other SR [], it could represent a determining factor in reducing patient morbidity.
+
+In light of these considerations, to ensure appropriate decision-making, the clinicians should consider patients’ anxiety, discomfort, preference, and esthetics, and discuss with them all the advantages and drawbacks of CTG and its substitutes.
+
+Limitations of the Study
+
+Considerable variability across the included RCTs is acknowledged, as studies with a split-mouth design introduce a distortion: one intervention’s effect could contaminate the other side of the mouth, making it difficult to estimate the true effect of each treatment. Furthermore, there is an evident heterogeneity of follow-ups (from a minimum of 6 months to 5 years).
+
+Regarding the heterogeneity of interventions included in this SR, only one RCT [] showed stable long-term results of CTG in terms of RC, plus the association of sCTG to mCAF also reached better results in the long-term for KTW augmentation. On the other side, a lack of evidence in the long-term emerged regarding the alternative approaches of mCAF for RES, MRC, KTW gain, and GT gain. A low level of evidence suggested that mCAF + EMD and mCAF+ sCTG (DBS) may provide good results.
+
+As the meta-analysis revealed these heterogeneous outcomes, study limitations derive from discrepancy in follow-ups between comparisons, not homogeneous distribution of techniques analyzed, and different study design performed, with unclear blinding of participants or examiners in few cases.
+
+Furthermore, regarding studies on the association with PRF, the investigation by Culhaoglu et al. [] dealt with the PRF technique employed in two different modalities, two or four layers, respectively. In this case, by the union of the two groups, a single mean and standard deviation were considered to avoid potential bias for data duplication.
+
+Future perspectives in the study search could focus on targeted reviews based on comparable techniques in terms of follow-ups of at least 3 years and similar study design.
+
+5. Conclusions
+
+Based on the findings of this SR and meta-analysis, the combination of the mCAF with a sCTG remains the most effective and evidence-supported approach for the treatment of multiple adjacent gingival recessions, ensuring superior and stable long-term outcomes for RC, RES, and KT gain.
+
+The mCAF combined with biomaterials or adjunctive techniques (such as XADM, PRF, orthodontic button, or EMD) demonstrated promising short-term results in clinical outcomes; however, the lack of long-term data and the high heterogeneity among studies prevent drawing definitive conclusions on their clinical predictability. Despite this, some mCAF adjunctive techniques can be associated with a significant reduction in duration of surgical procedures, which may contribute to decrease patient morbidity and thus improve procedural efficiency. In terms of esthetic outcomes (RES), alternative mCAF approaches also showed favorable results, as no statistically significant differences were found when compared with the use of sCTG.
+
+Further RCTs with a parallel-groups design and a follow-up of more than 5 years are needed to reliably assess the clinical effectiveness and predictability of these alternatives compared to the established use of sCTG.
