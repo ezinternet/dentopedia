@@ -48,4 +48,6 @@ python3 scripts/build-lectures-index.py
 mkdir -p quartz/public/lectures
 cp -r lectures/. quartz/public/lectures/
 
+cp robots.txt quartz/public/robots.txt
+
 echo "Build complete: quartz/public"
