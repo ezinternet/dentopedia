@@ -160,6 +160,8 @@ tags: [keyword1, keyword2, keyword3]
 
 `date:` — publication date `YYYY-MM-DD`; `YYYY-01-01` if only the year is known; ingest date if neither is recoverable from the paper.
 
+**PubMed-text / abstract-only variants apply here too** — same artifact-field substitution as the Sources Template above (INGEST.md says sources/·wiki/ frontmatter get the same swap). Don't write `pdf_path`/`pdf_filename` for a paper that has no PDF.
+
 **Optional frontmatter — judgment calls, not mechanical fill-in, add only when they genuinely apply:**
 
 - `superseded_by: {newer-stem}` + `superseded_scope: full|partial` — set on the **older** page when a new page overturns its clinical bottom line, plus a `[!warning]`/`[!note]` banner at the top of the body. INGEST.md § `superseded_by:`.
