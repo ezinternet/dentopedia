@@ -19,7 +19,7 @@ Before starting, ask the user **once** (use the AskUserQuestion tool) and wait f
 
 How to honor the answer:
 - If the user picks **Sonnet 최고등급**, tell them to run `/model sonnet` (and raise effort to high/max) before continuing, OR — if invoked as a subagent — set the agent's `model: sonnet` + `effort: high`. The skill itself cannot switch the main-session model mid-run, so surface this clearly rather than silently ignoring it.
-- If multiple PDFs are being ingested in one go, this is a **batch** — note the count. A batch of **2+ papers takes the parallel path (§ Batch mode)**, which changes both execution shape (fan-out) and Step 10 (embed once at the very end, not per paper).
+- If multiple PDFs are being ingested in one go, this is a **batch** — note the count. A batch of **2+ papers takes the parallel path (§ Batch mode)**, which changes both execution shape (fan-out) and finalize (PHASE 2's `ingest-one.py --finish` per paper, not the manual Step 10 block — see Step 10's batch note).
 
 Skip Step 0 only if the user already specified the model in their request.
 
@@ -56,7 +56,7 @@ Dispatch **all papers at once** — one `Agent` call per paper, in a **single me
 - The subagent does **NOT** touch `index.md`, does **NOT** git-commit/push, does **NOT** run qmd. Those are Phase 2, parent-only.
 - The subagent does **NOT** use `isolation: worktree` — it must write into the main working tree the parent then commits.
 - The subagent **logs deviations** immediately when it handles a non-standard case (empty PMC text, DOI conflict, category boundary, skipped step): `python3 scripts/log-deviation.py <stem> <type> "<desc>"` (non-blocking, <1s).
-- The subagent **RETURNS** a compact record: `{stem, category, confidence, index_line, status: ok|skip:<reason>}`.
+- The subagent **RETURNS** a compact record: `{stem, category, evidence_level, index_line, status: ok|skip:<reason>}`.
 
 Model routing per subagent (from Step 0 table): default `model: sonnet` + `effort: high`. If the dispatcher already knows a given paper is a **category-boundary** or **supersession** candidate, set *that paper's* agent to `model: opus`. Overviews are never authored inside a fan-out.
 
@@ -111,6 +111,8 @@ ls -lh "/path/to/paper.pdf"
 ```
 
 If the file does not exist, stop and tell the user.
+
+**No-PDF variant.** If there's no local PDF at all — full text pulled via PubMed MCP, or nothing beyond an abstract — this isn't a Step 1 failure, it's a different entry point. Skip to INGEST.md Step 1-T (PubMed-text) or Step 1-A (abstract-only PDF) for the frontmatter field substitutions (`source_collection`, `full_text`, `pmid`/`pmcid`, `text_path`/`text_filename` in place of `pdf_path`/`pdf_filename`), then rejoin at Step 4 below.
 
 ---
 
@@ -191,7 +193,7 @@ If qmd is down, fall back to a BM25 search (`qmd search "<author/device/term>"`)
 
 ### Step 4 — Determine category
 
-See [reference.md](reference.md) for the full category list. Choose the **single best category** based on the paper's primary method or procedure — not by disease or anatomy.
+See [wiki/_meta/categories.md](../../../wiki/_meta/categories.md) for the full category list and subcategory routing (single source of truth — do not use a copy from elsewhere). Choose the **single best category** based on the paper's primary method or procedure — not by disease or anatomy.
 
 > **Model note (Step 0 routing).** If the paper sits on a **category boundary** — two or more sibling folders plausibly fit (e.g. `immediate-implant` vs `immediate-implant/esthetic-soft-tissue` vs `implants/soft-tissue`) — this is a high-judgment call: escalate this decision to **Opus** rather than guessing on Sonnet. Misclassification silently corrupts the wiki's structure.
 
@@ -211,14 +213,15 @@ Fill in all fields from the extracted text:
 - `pdf_filename`: `{stem}.pdf`
 
 Sections to write:
-1. **One-line Summary** — study type, n, key finding in one English sentence
-2. **Document Information** — journal, DOI, institution
-3. **Key Contributions** — bullet points of novel claims
-4. **Methodology** — design, databases, n, outcomes
-5. **Key Results** — numbers, tables, p-values
-6. **Limitations** — explicitly stated or inferred
-7. **Related Work** — wikilinks to relevant existing pages
-8. **Glossary** — 3–6 key terms with definitions
+1. **Why Ingested** — 1–2 sentences on why this paper, now (gap/conflict/new evidence/requested/current case); at least one `[[wiki/category/stem]]` wikilink to a page it reinforces/contradicts/extends, found via `qmd query` (never grep/find). **Mandatory** for papers ingested on/after 2026-05-27 (lint-enforced by `scripts/ingest-rationale-lint.py`).
+2. **Three-line Summary** (English) + **세줄요약** (Korean) — two separate sections, this order, each exactly 3 lines: study type/n/context, primary result with numbers, clinical implication or key limitation.
+3. **Document Information** — journal, DOI, institution
+4. **Key Contributions** — bullet points of novel claims
+5. **Methodology** — design, databases, n, outcomes
+6. **Key Results** — numbers, tables, p-values
+7. **Limitations** — explicitly stated or inferred
+8. **Related Work** — wikilinks to relevant existing pages
+9. **Glossary** — 3–6 key terms with definitions
 
 ---
 
@@ -228,22 +231,23 @@ Use the template in [reference.md](reference.md) → **Wiki Template** section.
 
 Required frontmatter fields (all 9 must be present — lint checks these):
 ```
-title, authors, year, doi, source, category, confidence, pdf_path, pdf_filename
+title, authors, year, doi, source, category, evidence_level, pdf_path, pdf_filename
 ```
+(`evidence_level` — renamed from `confidence` 2026-07-15; `scripts/lint.py` accepts either key but prefers `evidence_level` — always write the new name on new pages.)
 
 Additional required fields:
 - `date`: publication date `YYYY-MM-DD`; use `YYYY-01-01` if only year known; use ingest date if neither recoverable
 - `tags`: relevant keywords as YAML list
 
 Body sections (in order):
-1. `## 한줄요약` — Korean one-liner: study type, n, key finding in plain Korean. Use **한국어 (English, 약어)** notation for technical terms.
+1. `## Three-line Summary` (English) + `## 세줄요약` (Korean) — two separate sections, this order, each exactly 3 lines (same content/format as the Sources page — see Step 5). Use **한국어 (English, 약어)** notation for technical terms in the Korean section.
 2. `## Summary` — English paragraph, 3–5 sentences
 3. `## Key Contributions`
 4. `## Methodology`
 5. `## Results` — include tables where helpful
 6. `## Related Papers` — `[[category/stem]]` wikilinks with relationship description
 
-Confidence vocabulary — pick the single best label. See [reference.md](reference.md) → **Confidence Vocabulary**.
+Evidence level vocabulary (`evidence_level:`) — pick the single best label. See [reference.md](reference.md) → **Evidence Level Vocabulary**. Optional judgment-call fields (`superseded_by`/`superseded_scope`, `relations:`) are in the same reference section — don't guess their vocabulary from memory.
 
 > **Model note (Step 0 routing).** Two parts of this page are **cross-paper judgment, not transcription**, and want **Opus** even in a Sonnet ingest: (1) deciding whether this paper **supersedes an existing page** (`superseded_by` + banner — see CLAUDE.md § living-document supersession and memory [[supersession-judgment-at-ingest]]), and (2) writing the relationship prose / `relations:` edges that say *how* it relates to existing pages. Transcribing this paper's own results stays on Sonnet; judging it against the rest of the wiki escalates.
 
@@ -263,37 +267,13 @@ Find the correct section by matching the category to the section header. Use Edi
 
 ### Step 8+9 — Lint + orphan check (single call)
 
-Frontmatter lint and the PDF↔sources 1:1 orphan check are independent read-only scans — run both in **one** bash round-trip:
+Use the canonical scripts — **not** a hand-rolled inline check. (An earlier inline snippet duplicated this logic with a hardcoded field list that drifted to the pre-2026-07-15 `confidence` name and started false-flagging correctly-written `evidence_level` pages; don't reintroduce a second copy.)
 
 ```bash
-python3 -c "
-import os, re
-# --- (8) frontmatter lint ---
-REQ = ['title','authors','year','doi','source','category','confidence','pdf_path','pdf_filename']
-SKIP = {'_lint','overviews'}
-errors=[]; ok=0
-for root,dirs,files in os.walk('wiki'):
-    dirs[:] = [d for d in dirs if d not in SKIP]
-    for fn in files:
-        if not fn.endswith('.md'): continue
-        p=os.path.join(root,fn); c=open(p).read()
-        m=re.match(r'^---\n(.*?)\n---', c, re.DOTALL)
-        if not m: errors.append(f'NO FRONTMATTER: {p}'); continue
-        miss=[f for f in REQ if not re.search(rf'^{f}\s*:', m.group(1), re.MULTILINE)]
-        errors.append(f'MISSING {miss}: {p}') if miss else (ok:=ok+1)
-print(f'LINT — OK: {ok}  ERRORS: {len(errors)}')
-for e in errors: print(' ', e)
-# --- (9) orphan check ---
-papers={f[:-4] for f in os.listdir('papers') if f.endswith('.pdf')}
-srcs  ={f[:-3] for f in os.listdir('sources') if f.endswith('.md')}
-op, osr = papers-srcs, srcs-papers
-if op:  print('ORPHAN PDFs (delete):', op)
-if osr: print('ORPHAN sources (missing PDF):', osr)
-if not op and not osr: print('ORPHAN — OK: 1:1 match')
-"
+python3 scripts/lint.py && python3 scripts/orphan-check.py
 ```
 
-If lint reports errors → fix them before reporting completion. (In **batch mode**, `ingest-one.py --finish` handles commit/push/embed per paper; run this lint+orphan block once per paper in Phase 2, or once at the end over the whole batch.)
+Both are fast, read-only, whole-repo scans (`lint.py` checks frontmatter completeness — accepts either `confidence` or `evidence_level`, preferring the latter; `orphan-check.py` checks PDF↔sources 1:1). If lint reports errors → fix them before reporting completion. (In **batch mode**, `ingest-one.py --finish` handles commit/push/embed per paper; run this lint+orphan block once per paper in Phase 2, or once at the end over the whole batch.)
 
 ---
 
@@ -301,10 +281,9 @@ If lint reports errors → fix them before reporting completion. (In **batch mod
 
 A new wiki page is invisible to semantic search until qmd re-indexes and embeds it.
 
-**Batch rule (important).** `qmd embed` re-embeds *every* changed doc in the repo each run, so calling it once per paper during a multi-paper batch wastes huge amounts of time (the wiki is edited daily by lints/audits, so each run re-embeds hundreds of unrelated docs). Therefore:
+**This manual block is for the single-paper serial path** (Steps 1–11 run by hand — no PHASE 2 script involved). Run it once, after Steps 1–9.
 
-- **Single paper** → run the block below after Steps 1–9.
-- **Batch (2+ papers, see Step 0)** → do Steps 1–9 for *every* paper first, and run this index-refresh block **exactly once, after the last paper**. Do NOT run `qmd update`/`qmd embed` between papers.
+**Batch mode does not use this block.** In Batch mode (§ PHASE 2 above), `ingest-one.py --finish <stem>` runs `qmd update && qmd embed` itself, once per paper — do not also run this block between (or after) papers. `qmd embed` is incremental (only changed docs), so per-paper calls are cheap, not a full re-embed. If the daemon leaves a backlog half-done across a large batch (session-expiry mid-pass, exit 0 ≠ complete), that's handled by checking `qmd status | grep Pending` after the whole batch and draining — see INGEST.md Phase 2 / § Step 5, not this block.
 
 Run after the wiki/sources files are written and lint passes:
 
@@ -335,11 +314,11 @@ Notes:
 Tell the user:
 ```
 ✅ Ingest complete: {stem}
-   Category  : {category}
-   Confidence: {confidence}
-   Lint      : OK {n} files, 0 errors
-   Index     : added to {section heading}
-   Search    : qmd re-indexed + embedded (searchable now)
+   Category      : {category}
+   Evidence Level: {evidence_level}
+   Lint          : OK {n} files, 0 errors
+   Index         : added to {section heading}
+   Search        : qmd re-indexed + embedded (searchable now)
 ```
 
 ---
