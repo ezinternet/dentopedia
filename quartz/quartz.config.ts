@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "ko-KR",
-    baseUrl: "ezinternet.github.io/dentopedia",
+    baseUrl: "dentopedia.netlify.app",
     // Defense-in-depth: deploy workflow only copies wiki/ → content/, so
     // OPERATIONS folders are not normally seen here. These patterns prevent
     // accidental publication if someone moves an OPERATIONS file into wiki/.
