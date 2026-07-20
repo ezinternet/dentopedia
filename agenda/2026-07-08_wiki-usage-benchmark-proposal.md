@@ -88,7 +88,7 @@ overview 1편이 완성되면 자동으로 파생 후보를 띄운다: 위생사
 입력 신호가 포화됐으니 거울을 출력으로 돌린다. `synthesis-backlog`(source→overview 미연결)의 출력판: **overview 중 downstream 산출물(slide/interactive/patient-card)이 0인 페이지**를 신호로. 이러면 daily-audit가 다시 "이번 주 꺼내 쓸 것"을 알려준다.
 
 ### F. Public thinking — Quartz 사이트 활용
-`ezinternet.github.io/dentopedia` 가 이미 배포 중. overview를 블로그/스터디 공유용으로 노출하면 evergreen의 마지막 축(공개 사고)까지 닫힌다. 우선순위는 낮음(사생활·환자정보 마스킹 재확인 필요).
+`dentopedia.netlify.app` 가 이미 배포 중. overview를 블로그/스터디 공유용으로 노출하면 evergreen의 마지막 축(공개 사고)까지 닫힌다. 우선순위는 낮음(사생활·환자정보 마스킹 재확인 필요).
 
 ---
 
@@ -109,7 +109,7 @@ overview 1편이 완성되면 자동으로 파생 후보를 띄운다: 위생사
 - [ ] C: 신규 overview 3문항 quiz 자동생성 + 주간 리콜 세션 정례화
 - [ ] D: 케이스 컨퍼런스 재개 시 note-meeting→output_wiki 체인 1회 완주
 
-## F. 배포 사이트(ezinternet.github.io/dentopedia) 활용 — 확인·제안
+## F. 배포 사이트(dentopedia.netlify.app) 활용 — 확인·제안
 - 배포 범위 확인: `deploy-pages.yml`이 **wiki/ + interactives/ + lectures/만** 서빙. note-meeting/agenda/sources/dentweb은 배포 제외(+ quartz ignorePatterns 이중방어) → 환자정보 유출 경로 구조적으로 차단됨.
 - 1급 가치 = **맥 밖 인출 경로**. Obsidian·QMD는 맥 전용이라, 진료실 아이패드·폰·Boox에서 2,645편 + chairside 계산기에 접근하는 유일한 길. 상위 decision-ladder·계산기를 모바일 홈화면 북마크.
 - interactives는 이미 `/interactives/`로 verbatim 배포 → 환자 앞 화면공유(consent-guide·방사선 선량 비교)·QR 상담실 비치.
