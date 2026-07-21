@@ -4,7 +4,7 @@ authors: "Oliveira et al."
 year: 2026
 date: 2026-07-21
 doi: "10.1590/2177-6709.30.5.e252562.oar"
-source: "sources/oliveira-2026-daily-life-impact-aligners-vs-fixed.md"
+source: oliveira-2026-daily-life-impact-aligners-vs-fixed.md
 category: orthodontics/clear-aligner
 evidence_level: cross-sectional
 source_collection: pubmed-text
