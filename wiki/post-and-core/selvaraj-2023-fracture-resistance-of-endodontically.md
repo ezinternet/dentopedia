@@ -9,7 +9,6 @@ category: [post-and-core]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/selvaraj-2023-fracture-resistance-of-endodontically.pdf
 pdf_filename: selvaraj-2023-fracture-resistance-of-endodontically.pdf
-source_collection: pubmed-text
 pmid: "37502509"
 pmcid: "PMC10373819"
 tags: [fiber-reinforced-composite, fracture-resistance, endodontically-treated-teeth, systematic-review, EverX-Posterior, Ribbond, posterior-teeth, core-material, in-vitro]
