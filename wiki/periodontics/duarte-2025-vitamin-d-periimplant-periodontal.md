@@ -1,7 +1,7 @@
 ---
 title: "Vitamin D in Peri-Implant and Periodontal Tissue"
 stem: "duarte-2025-vitamin-d-periimplant-periodontal"
-source: "sources/duarte-2025-vitamin-d-periimplant-periodontal.md"
+source: duarte-2025-vitamin-d-periimplant-periodontal.md
 source_collection: pubmed-abstract
 category: periodontics
 year: 2025
