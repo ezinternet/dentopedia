@@ -78,7 +78,7 @@ Key conclusion: tissue-level implants with a convergent neck exhibit significant
 
 ## Related Papers
 
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — direct counterpart comparing tissue-level vs bone-level MBL from a different center; contextualizes whether TL advantage is consistent
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — direct counterpart comparing tissue-level vs bone-level MBL from a different center; contextualizes whether TL advantage is consistent
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA synthesizing TL vs BL peri-implantitis and bone loss evidence at the highest evidence level
-- [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — examines factors influencing bone loss specifically in tissue-level implants, extending findings from this paper
+- [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — examines factors influencing bone loss specifically in tissue-level implants, extending findings from this paper
 - [[implants/spinelli-2023-tissue-level-laser-lok-flapless-4year]] — 4-year tissue-level implant outcomes with flapless protocol; longer follow-up data for TL design performance
