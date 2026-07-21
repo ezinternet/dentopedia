@@ -5,7 +5,7 @@ year: 2025
 date: 2025-09-03
 doi: 10.1371/journal.pone.0324388
 source: pacheco-2025-dental-implant-survival-irradiated.md
-category: [implants]
+category: [implants/survival]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/pacheco-2025-dental-implant-survival-irradiated.pdf
 pdf_filename: pacheco-2025-dental-implant-survival-irradiated.pdf
