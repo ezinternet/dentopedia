@@ -23,6 +23,7 @@ tags: [endodontics, flare-up, postoperative-pain, antibiotics, corticosteroids, 
 > - **관통 원칙**: 통증 정점은 대개 **12시간**, 하악 통증 > 상악 통증 — 정점 전 진통 커버가 처치 설계의 핵심.
 > - **항생제 적응증**: 전신 감염 징후(발열·개구장애·연하곤란·확산성 봉와직염)가 있을 때만 항생제 고려 [미검증 — 일반 임상 원칙, 본 4편은 이 경계를 직접 검증하지 않음].
 > - **근거 강도 유의**: 위험인자 SR은 GRADE 확실성 **낮음(low)**, 약물 근거는 단일센터 RCT — 방향은 신뢰하되 수치는 확정적이지 않다.
+> - **항생제 무효 기전 구분**: 생활치수(SIP)는 혈류가 있어 항생제가 도달하지만 통증 원인이 염증 cascade이므로 **타깃 오류**; 괴사치수는 무혈관 공간으로 **도달 자체 불가** — 두 경우 결론은 같으나 이유가 다르다.
 > - **관류·kinematics 축**은 여기서 다루지 않음 — [[overviews/endodontic-postoperative-pain-overview]] 참조(중복 금지).
 
 ## Three-line Summary
@@ -148,6 +149,46 @@ Flare-up 발생
 - [[drug/analgesics/yavari-2019-submucosal-corticosteroids-postoperative-pain-rct]] — postoperative corticosteroid axis; time-dependent dexamethasone vs. betamethasone.
 - [[drug/analgesics/rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct]] — preemptive analgesia/anesthesia axis; the hot-tooth IANB-success evidence.
 - [[overviews/endodontic-postoperative-pain-overview]] — sibling overview covering irrigation and kinematics determinants of postoperative pain; complements this pharmacological/risk-factor axis without overlap.
+
+## Why Antibiotics Fail — Mechanism by Pulpal Status (항생제 무효 기전)
+
+항생제 비적응증이 "왜"인지를 치수 상태별로 구분한 기전 정리. 임상에서 흔히 혼동되는 두 경우를 분리한다.
+
+### 생활치수 + 증상성 비가역적 치수염 (Vital Pulp — SIP)
+
+혈류 **있음** → 항생제는 혈관을 타고 치수 내부까지 **도달한다.** 그러나 무효인 이유:
+
+```
+세균 침입
+→ 염증 cascade 점화
+→ 브라디키닌·프로스타글란딘·사이토카인 방출  ← 항생제는 여기를 건드리지 못함
+→ 치수강 내압 상승 (경조직 밀폐 공간 → 팽창 불가)
+→ 통증
+```
+
+- **타깃 오류**: SIP의 통증 원인은 세균 수(bacterial count)가 아니라 **이미 진행 중인 염증 cascade** 자체.
+- 항생제로 세균을 줄여도 방출된 염증 매개물질(inflammatory mediators)은 그대로 → 내압 해소 안 됨 → 통증 지속.
+- 경조직 밀폐 공간 특성상 염증 부종이 내압을 극도로 높여 미세혈관을 부분 압박 → 혈류는 있지만 감소된 상태.
+- **유일한 해결책**: 근관치료(DCDT)로 염증 조직 자체를 물리적 제거 → cascade 차단.
+
+### 괴사 치수 + 치근단 병소 (Necrotic Pulp — Periapical Lesion)
+
+혈류 **없음** → 항생제 자체가 도달하지 못함.
+
+- 괴사 치수강은 무혈관 공간 + 세균 바이오필름(biofilm)으로 채워진 상태.
+- 전신 투여 항생제는 혈류를 타야 하는데 혈관이 없으므로 치수강 내 치료적 농도 도달 불가.
+- 치근단 병소(Periapical Lesion) 역시 바이오필름이 보호막 역할 → 항생제 침투 극히 제한.
+- **해결책**: 근관 기계적 성형(mechanical debridement) + 관개(irrigation)로 바이오필름 물리적 파괴.
+
+### 요약 비교
+
+| 상황 | 혈류 | 항생제 무효 이유 | 올바른 처치 |
+|---|---|---|---|
+| 생활치수 + SIP | 있음 (감소) | **타깃 오류** — 통증이 세균이 아닌 염증 cascade | 근관치료 (조직 제거) |
+| 괴사치수 + 치근단 병소 | 없음 | **도달 불가** — 무혈관 공간, 바이오필름 | 기계적 성형 + 관개 |
+| 전신 감염 징후 있는 경우 | 주변 조직에 있음 | 적응증 **있음** | 항생제 + I&D |
+
+> **핵심 한 줄**: 두 경우 모두 항생제가 무효이지만 이유가 다르다 — SIP는 "도달하지만 타깃이 틀렸고", 괴사치수는 "도달조차 못한다."
 
 ## Bottom Line (한 줄 결론)
 
