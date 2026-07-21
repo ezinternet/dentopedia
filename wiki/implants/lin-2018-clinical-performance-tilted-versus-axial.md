@@ -76,5 +76,5 @@ Heterogeneity of included studies → descriptive analysis only (no meta-analysi
 ## Related Papers
 
 - [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — 2022 SR+MA updates this; finds axial < tilted in MBL
-- [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — 2014 SR+MA; MBL NS difference
+- [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — 2014 SR+MA; MBL NS difference
 - [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: stress comparison at 17°/30°/45°
