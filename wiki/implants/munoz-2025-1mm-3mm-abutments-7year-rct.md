@@ -89,5 +89,5 @@ Peri-implantitis prevalence was 18.2% in the 1-mm group vs 3.2% in the 3-mm grou
 ## Related Papers
 
 - [[overviews/abutment-emergence-profile-peri-implant-tissue-overview]] — overview synthesising abutment height and peri-implant tissue outcomes; this RCT extends it with 7-year data
-- [[implants/tajti-2024-less-marginal-bone-loss]] — SR+MA (8 studies): ≥2 mm abutments reduce MBL by ~0.26 mm at 1 year; consistent with this study's early-phase findings
+- [[implants/mbl/tajti-2024-less-marginal-bone-loss]] — SR+MA (8 studies): ≥2 mm abutments reduce MBL by ~0.26 mm at 1 year; consistent with this study's early-phase findings
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — SR+MA (93 studies): abutment height ≥2 mm one of four prosthetic factors reducing MBL; provides broader population context
