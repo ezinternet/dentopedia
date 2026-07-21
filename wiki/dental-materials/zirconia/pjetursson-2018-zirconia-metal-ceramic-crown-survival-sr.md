@@ -67,5 +67,5 @@ Note: Monolithic zirconia excluded — no studies with ≥3 year follow-up avail
 ## Related Papers
 
 - [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — SR+MA specifically on monolithic zirconia (extends beyond veneered ZC scope of this review)
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — broader narrative review of all-ceramic systems
-- [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral repair options for chipping/fracture complications documented here
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — broader narrative review of all-ceramic systems
+- [[dental-materials/ceramic/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral repair options for chipping/fracture complications documented here
