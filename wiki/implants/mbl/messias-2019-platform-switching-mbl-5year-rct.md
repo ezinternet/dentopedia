@@ -5,7 +5,7 @@ year: 2019
 date: 2019-01-01
 doi: 10.1111/jcpe.13119
 source: messias-2019-platform-switching-mbl-5year-rct.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/messias-2019-platform-switching-mbl-5year-rct.pdf
 pdf_filename: messias-2019-platform-switching-mbl-5year-rct.pdf
