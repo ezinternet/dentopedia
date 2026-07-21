@@ -1975,6 +1975,8 @@ tags: []
 - [[tmj/aiello-2025-tmj-arthritis-rheumatic-diseases-rehabilitative-pain-relief-sr]] — Aiello 2025 · sr (479→**5편**) · 류마티스 질환 TMJ 관절염의 보존적 통증치료 근거가 사실상 텅 빔 — 시도된 개입은 관절강내 스테로이드 주사(±마취제/세척)·덱스트로스 신경주위 주사·저출력레이저치료(LLLT). 저자 자평 "이질성과 저질 연구로 확정 결론 불가" → **스테로이드 주사나 LLLT의 지지 근거로 인용 금지**. 원논문 자체 오류: 초록은 5번째 연구를 systemic sclerodermia라 하나 본문·표는 SLE (DOI 10.1186/s12891-024-08196-1)
 - [[tmj/ravelo-2025-tmj-replacement-degenerative-disease-sr]] — Ravelo 2025 · sr (16편/579명, ROBINS-I·GRADE) · 퇴행성·염증성 질환의 TMJ 전치환술 — 개구 24.32±5.8 → 40.74±3.1mm, 통증 소실, 기계적 실패 4.07%. **단 전부 대조군 없는 전후비교이고 GRADE는 16편 모두 low**. 적응증에 골관절염·JIA·RA 포함. 가장 유용한 소견은 음성 — **수술 시점(진단 후 기간·보존치료 기간·기왕 수술 횟수 어느 것으로도)을 정할 근거가 없다** (DOI 10.3390/jcm14020580)
 - [[tmj/bernardi-2024-psoriatic-arthritis-tmj-pathogenesis-gender-differences]] — Bernardi 2024 · narrative-review · 건선관절염 (Psoriatic Arthritis, PsA)의 TMJ 침범 — **역학자료 자체가 희박**(저자 인정), 기전은 부착부염(enthesitis) 주도라 활막 주도인 RA와 다름. 성별 자료는 **TMJ 특이적인 게 없고** 전신 PsA·일반 TMD에서 외삽한 것(남성=말초형, 여성=축성형). 실무 결론: 건선 환자의 새 TMJ 증상은 스플린트가 아니라 **다학제 의뢰** 대화 (DOI 10.3390/dj12020031)
+- [[tmj/falletti-2026-update-trismus-etiology-diagnosis-treatment]] — 아관긴장증(Trismus) 원인(신경계/비신경계)·진단 알고리즘·치료 종합 리뷰; 신경계/비신경계×구조적/비구조적 4분류 체계 제시
+- [[tmj/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block]] — IANB 후 아관긴장증(Trismus) 증례: 50일 경과 완전회복, 단계별 관리 프로토콜(온찜질·운동치료·NSAIDs·스테로이드)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
