@@ -1,7 +1,7 @@
 ---
 title: "Clinical effects of probiotics on the treatment of gingivitis and periodontitis: a systematic review and meta-analysis"
 stem: "benavides-reyes-2025-probiotics-periodontitis-ma"
-source: "sources/benavides-reyes-2025-probiotics-periodontitis-ma.md"
+source: benavides-reyes-2025-probiotics-periodontitis-ma.md
 source_collection: pubmed-abstract
 category: periodontics
 year: 2025
