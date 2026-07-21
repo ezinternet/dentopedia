@@ -1,7 +1,7 @@
 ---
 title: "The salivary microbiome as a diagnostic biomarker of periodontitis: a 16S multi-batch study"
 stem: "regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic"
-source: "sources/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic.md"
+source: regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic.md
 source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2024
