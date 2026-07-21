@@ -5,7 +5,7 @@ year: 2023
 date: 2022-12-31
 doi: 10.3390/medicina59010095
 source: almashaan-2023-lithium-disilicate-survival-sr.md
-category: [dental-materials]
+category: [dental-materials/ceramic]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/almashaan-2023-lithium-disilicate-survival-sr.pdf
 pdf_filename: almashaan-2023-lithium-disilicate-survival-sr.pdf
