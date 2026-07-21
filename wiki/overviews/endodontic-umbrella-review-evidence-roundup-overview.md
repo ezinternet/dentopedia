@@ -12,7 +12,7 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [endodontics, umbrella-review, postoperative-pain, periapical-diagnosis, radicular-cyst, regenerative-endodontics, pulpotomy, vital-pulp-therapy, guided-endodontics, amstar-2, overview]
 source_wiki:
-  - wiki/endodontics/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella.md
+  - wiki/endodontics/obturation/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella.md
   - wiki/endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella.md
   - wiki/endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella.md
   - wiki/endodontics/diagnosis/abubakr-2025-histological-immunohistochemical-analysis-periapical-lesions.md
@@ -117,7 +117,7 @@ Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control h
 
 ## Related Papers
 
-- [[endodontics/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella]] — bioceramic sealer POP benefit statistically real, clinically negligible
+- [[endodontics/obturation/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella]] — bioceramic sealer POP benefit statistically real, clinically negligible
 - [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — apical-extrusion control the shared POP mechanism
 - [[endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] — rotary generally lower POP, no universally superior kinematic
 - [[endodontics/diagnosis/pimenta-carvalho-2021-differential-diagnosis-nonodontogenic-endodontic-radiolucent]] — 83.3% mimic AP, 43.3% malignant; positive pulp test the best red flag
