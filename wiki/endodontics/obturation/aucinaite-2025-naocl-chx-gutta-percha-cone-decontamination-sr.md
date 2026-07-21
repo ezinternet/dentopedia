@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-28
 doi: 10.3390/ma18071539
 source: aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
