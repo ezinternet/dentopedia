@@ -1,7 +1,7 @@
 ---
 title: "Modified Coronally Advanced Flaps: A Systematic Review and Meta-Analysis"
 stem: "gualtieri-2025-mcaf-gingival-recession-sr-ma"
-source: "sources/gualtieri-2025-mcaf-gingival-recession-sr-ma.md"
+source: gualtieri-2025-mcaf-gingival-recession-sr-ma.md
 source_collection: pubmed-abstract
 category: periodontics
 year: 2025
