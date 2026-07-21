@@ -69,5 +69,5 @@ Leitão et al. (2022) is the first SR+MA specifically focused on monolithic zirc
 ## Related Papers
 
 - [[dental-materials/zirconia/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — SR of veneered zirconia implant SCs (excluded MZ; context for this paper)
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative overview of all-ceramic options
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative overview of all-ceramic options
 - [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]] — LTD aging concern for monolithic 3Y-TZP
