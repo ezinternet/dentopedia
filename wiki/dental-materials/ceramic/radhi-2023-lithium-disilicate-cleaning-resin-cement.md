@@ -5,7 +5,7 @@ year: 2023
 date: 2023-08-30
 doi: 10.7759/cureus.44389
 source: radhi-2023-lithium-disilicate-cleaning-resin-cement.md
-category: [dental-materials]
+category: [dental-materials/ceramic]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/radhi-2023-lithium-disilicate-cleaning-resin-cement.pdf
 pdf_filename: radhi-2023-lithium-disilicate-cleaning-resin-cement.pdf
