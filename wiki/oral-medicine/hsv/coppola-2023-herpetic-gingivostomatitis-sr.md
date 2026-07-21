@@ -5,7 +5,7 @@ year: 2023
 date: 2023-09-21
 doi: 10.1007/s00784-023-05250-5
 source: coppola-2023-herpetic-gingivostomatitis-sr.md
-category: [oral-medicine]
+category: [oral-medicine/hsv]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/coppola-2023-herpetic-gingivostomatitis-sr.pdf
 pdf_filename: coppola-2023-herpetic-gingivostomatitis-sr.pdf
