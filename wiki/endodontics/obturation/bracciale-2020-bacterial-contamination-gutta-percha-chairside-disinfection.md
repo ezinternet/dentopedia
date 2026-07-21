@@ -5,7 +5,7 @@ year: 2020
 date: 2020-12-01
 doi: 10.14744/eej.2020.44265
 source: bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
