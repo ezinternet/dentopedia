@@ -49,4 +49,4 @@ In vitro study comparing four universal adhesives (Single Bond Universal, All Bo
 ## Related Papers
 - [[dental-materials/zirconia/negreiros-2017-cleaning-primer-zirconia-bond-water]] — 1-year 50% reduction finding
 - [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] — 150-day aging with cleaning protocols
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — bonding review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — bonding review
