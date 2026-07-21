@@ -80,6 +80,6 @@ This is the most comprehensive SR+MA (as of 2022) evaluating fixed full-arch pro
 
 ## Related Papers
 
-- [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — earlier SR+MA; MBL NS at 1yr (partially superseded by this paper for long-term data)
+- [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — earlier SR+MA; MBL NS at 1yr (partially superseded by this paper for long-term data)
 - [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — SR: no survival/MBL/PROM difference (different inclusion criteria)
 - [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA showing stress increase with angulation
