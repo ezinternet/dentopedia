@@ -5,7 +5,7 @@ year: 2016
 date: 2016-01-01
 doi: 10.1111/jcpe.12522
 source: rocha-2016-platform-switching-crestal-bone-3year-rct.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/rocha-2016-platform-switching-crestal-bone-3year-rct.pdf
 pdf_filename: rocha-2016-platform-switching-crestal-bone-3year-rct.pdf
