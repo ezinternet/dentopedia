@@ -26,6 +26,7 @@ tags: [endodontics, postoperative-pain, flare-up, irrigation-activation, niti-ki
 > - 관통 원리: 여러 축을 관통하는 실제 매개변수는 **근단 밖 압출(NaOCl·debris·세균)**이다. 압출을 줄이는 어떤 선택(측방배출침, 손파일 회피, MDI 회피)도 통증을 줄이는 방향으로 정렬됨. [미검증]
 > - 임상 권고: ① 증상성 치아를 술후 통증 고위험군으로 분류해 예방적/구조적 진통 계획 우선(술식 선택보다 영향 큼), ② 근단 밖 압출 최소화(측방배출침·MDI 회피·근단 patency 절제·정확한 WL), ③ 세정 활성화는 통증 목적이면 LAI 선호·MDI 회피(그러나 대부분 근거 low confidence), ④ EAL vs 방사선·rotary vs reciprocating는 통증만으로 결정하지 말고 정확도·해부·비용·피폭으로 결정.
 > - 근거 한계: SR 2편은 이질성으로 메타분석 불가(정성종합, GRADE 낮음~매우낮음), 네트워크 메타회귀는 CINeMA 신뢰도 대부분 낮음, RCT는 소표본·단일센터·비맹검 다수. 임상 외삽은 상당 부분 [미검증].
+> - **Flare-up 처치(약물·항생제·코르티코스테로이드·선제투약) → [[overviews/endodontic-flare-up-management-overview]] 참조** — 이 페이지는 시술 변수(세정·기구·근관장)만 다루고 약물 처치 축은 중복하지 않는다.
 
 ## Three-line Summary
 
@@ -72,7 +73,7 @@ The cross-cutting mechanistic thread — **apical extrusion** — explains why i
 
 ## Clinical Decision Points
 
-1. **Stratify by preoperative symptoms first, not by technique.** Symptomatic teeth carry substantially higher post-op pain regardless of the instrument/irrigation choice (Hatipoğlu 2025). Prioritize symptom-based analgesic planning (e.g., pre-emptive/structured NSAID regimen) over chasing a marginally "better" technique — the symptom effect dwarfs most technique contrasts.
+1. **Stratify by preoperative symptoms first, not by technique.** Symptomatic teeth carry substantially higher post-op pain regardless of the instrument/irrigation choice (Hatipoğlu 2025). Prioritize symptom-based analgesic planning over technique selection — see [[overviews/endodontic-flare-up-management-overview]] for the full pharmacological protocol (risk stratification, corticosteroids, preemptive dexamethasone, antibiotic non-indication).
 2. **Minimize apical extrusion as the common lever.** Prefer a side-vented needle to open-ended needle irrigation (Zarei 2026), avoid purely mechanical manual-dynamic irrigation (worst-ranked; plausibly raises apical pressure, Hatipoğlu 2025), avoid hand files where rotary/reciprocating is feasible (hand files more painful, Singh 2026), and keep the instrument/needle tip within the canal via accurate working length.
 3. **If the goal is minimizing early pain from irrigation, prefer laser-activated irrigation and avoid MDI** — but temper expectations: only LAI vs MDI cleared the clinical threshold and most contrasts are low-confidence (Hatipoğlu 2025). Ultrasonic activation and side-vented needle delivery are reasonable, comparably effective options in practice (Zarei 2026).
 4. **Do not choose EAL vs radiographic WL, or rotary vs reciprocating, on the basis of pain.** They are pain-equivalent (Usman Sultan 2026; Singh 2026). Drive those choices by accuracy, canal anatomy, filling-removal efficiency, cost, radiation avoidance (ALARA — pregnancy/pediatric), and operator familiarity instead.
@@ -89,6 +90,7 @@ The cross-cutting mechanistic thread — **apical extrusion** — explains why i
 - [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — single-visit framing relevant to the LLLT-as-single-visit-option and Zarei single-visit RCT
 - [[overviews/eal-working-length-protocol]] — working-length protocol context for the EAL vs radiographic pain-equivalence finding
 - [[overviews/endodontics-comprehensive-ladder]] — broader endodontic treatment ladder into which these pain findings slot
+- [[overviews/endodontic-flare-up-management-overview]] — sibling overview: pharmacological axis (risk stratification, corticosteroids, preemptive analgesia, antibiotic non-indication); this page covers the procedural axis only
 
 ## Bottom Line (한 줄 결론)
 
