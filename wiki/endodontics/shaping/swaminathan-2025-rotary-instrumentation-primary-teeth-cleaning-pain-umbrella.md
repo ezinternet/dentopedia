@@ -72,6 +72,6 @@ A recurring theme in the discussion is that obturation material — chiefly ZOE,
 
 ## Related Papers
 
-- [[endodontics/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — SR+MA on the same ZOE vs Ca(OH)2/iodoform obturation-material variable this umbrella review flags as unstratified confound in the cleaning-effectiveness/pain trials.
+- [[endodontics/obturation/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — SR+MA on the same ZOE vs Ca(OH)2/iodoform obturation-material variable this umbrella review flags as unstratified confound in the cleaning-effectiveness/pain trials.
 - [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — companion umbrella-review design on endodontic postoperative pain (permanent teeth), similarly finding rotary trending toward lower POP but "not consistently" — a useful cross-check against this paper's stronger primary-teeth pain signal.
 - [[endodontics/shaping/singh-2026-rotary-reciprocating-kinematics-postoperative-pain-retreatment-sr]] — SR of rotary vs reciprocating kinematics and postoperative pain in nonsurgical retreatment (permanent teeth); found no significant pain difference between kinematics, a useful contrast to this paper's rotary-vs-manual (not rotary-vs-reciprocating) primary-teeth comparison.
