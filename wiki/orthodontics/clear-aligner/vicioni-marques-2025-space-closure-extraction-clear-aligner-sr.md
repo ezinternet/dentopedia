@@ -4,7 +4,7 @@ authors: Vicioni-Marques F, Reis CLB, Almeida APV, Melo LPMP, Romano FL, Matsumo
 year: 2025
 date: 2025-09-02
 doi: 10.1007/s00784-025-06475-2
-source: "sources/vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.md"
+source: vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.md
 category: orthodontics/clear-aligner
 pdf_path: /Users/oracleneo/llm-wiki/papers/vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.pdf
 pdf_filename: vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.pdf
