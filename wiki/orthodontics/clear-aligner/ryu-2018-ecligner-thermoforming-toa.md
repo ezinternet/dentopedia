@@ -1,7 +1,7 @@
 ---
 title: "Effects of thermoforming on the physical and mechanical properties of thermoplastic materials for transparent orthodontic aligners"
 stem: "ryu-2018-ecligner-thermoforming-toa"
-source: "sources/ryu-2018-ecligner-thermoforming-toa.md"
+source: ryu-2018-ecligner-thermoforming-toa.md
 source_collection: pubmed-abstract
 category: orthodontics
 year: 2018
