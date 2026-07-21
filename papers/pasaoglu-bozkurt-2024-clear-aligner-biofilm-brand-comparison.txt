@@ -1,0 +1,15 @@
+ABSTRACT ONLY — PMC full text unavailable
+
+Pasaoglu Bozkurt A, Demirci M, Erdogan P, Kayalar E (2024).
+"Comparison of microbial adhesion and biofilm formation on different orthodontic aligners."
+Am J Orthod Dentofacial Orthop. 167(1):47-62.
+DOI: 10.1016/j.ajodo.2024.08.010
+PMID: 39412467
+
+This study aimed to compare and evaluate time-dependent biofilm formation and microbial adhesion on 6 different clear aligner systems: Invisalign (Align Technology, San Jose, Calif), Clarity (3M ESPE Maplewood, Minn), ClearCorrect (Institut Straumann AG, Basel, Switzerland), Smartee (Smartee Denti-Technology, Shanghai, China), Orthero (Orthero, Istanbul, Turkey) and Graphy (Graphy Inc, Seoul, South Korea).
+
+Streptococcus mutans (ATCC 25175) and Lactobacillus acidophilus (ATCC 4356) were used to evaluate the microbial adhesion and biofilm formation on orthodontic clear aligners at the 0, 24, 48, 72, 96, 120, 168, and 240 hours. Two-way repeated measures analysis of variance (Greenhouse-Geisser) test and post-hoc Bonferroni T2 tests were used for statistical evaluation. The statistical significance level was set at P<0.05.
+
+It was found that more bacterial formation occurred on ClearCorrect than on Smartee at 120, 168, and 240 hours (P<0.05). It was observed more biofilm formation at 168 hours on Graphy than on Smartee (P<0.05). It was found that S mutans + L acidophilus formed more biofilm at 120 and 168 hours on Graphy than on Invisalign (P<0.05).
+
+Elevated biofilm formation across all materials carries substantial clinical implications. Orthodontists and patients should remain aware of the increased risk of microbial colonization with extended aligner usage.
