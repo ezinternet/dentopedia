@@ -51,5 +51,5 @@ SR+MA; ≥5-year observation; short vs longer implants in posterior alveolar reg
 ## Related Papers
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — refines; adds arch dependency to the equivalence claim.
 - [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — related; 10-year maxillary-sinus RCT.
-- [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — related; ≤6 mm survival SR.
+- [[implants/survival/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — related; ≤6 mm survival SR.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — contributes the arch-dependent caveat.
