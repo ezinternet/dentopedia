@@ -57,4 +57,4 @@ Retrospective long-term study of Osstem SA (SLA) implants. **94.8% survival** ov
 
 ## Related Papers
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — same group, CA surface: 97.3% survival; better MBL (0.074mm)
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — MBL determinants across implant types
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — MBL determinants across implant types
