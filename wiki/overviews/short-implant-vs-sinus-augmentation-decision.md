@@ -16,7 +16,7 @@ source_papers:
   - wiki/behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma.md
   - wiki/sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct.md
   - wiki/implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma.md
-  - wiki/implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.md
+  - wiki/implants/survival/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr.md
   - wiki/implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review.md
   - wiki/implants/alenezi-2025-short-long-implants-sinus-floor-elevation.md
   - wiki/implants/vetromilla-2021-short-standard-implants-sinus-umbrella.md
@@ -124,5 +124,5 @@ Decision logic in prose:
 - [[implants/xu-2020-short-standard-single-crown-posterior]] — nonsplinted short single crowns: poorer long-term survival caveat.
 - [[implants/torres-alemany-2020-clinical-behavior-short-implants]] — C/I ratio, length, diameter have no significant effect on loss/MBL.
 - [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — ≥5y, arch-dependent caveat (maxilla may favor long).
-- [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — strict ≤6 mm survival SR.
+- [[implants/survival/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — strict ≤6 mm survival SR.
 - [[overviews/sinus-lift-technique-selection]] — companion overview on augmentation technique choice.
