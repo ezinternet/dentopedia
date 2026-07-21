@@ -5,7 +5,7 @@ year: 2024
 date: 2024-08-06
 doi: 10.3390/ijms25168566
 source: teles-2024-gutta-percha-points-mrsa-mssa-contamination.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
