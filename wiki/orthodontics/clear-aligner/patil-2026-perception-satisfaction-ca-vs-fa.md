@@ -4,7 +4,7 @@ authors: "Patil et al."
 year: 2026
 date: 2026-07-21
 doi: "10.6026/973206300220770"
-source: "sources/patil-2026-perception-satisfaction-ca-vs-fa.md"
+source: patil-2026-perception-satisfaction-ca-vs-fa.md
 category: orthodontics/clear-aligner
 evidence_level: prospective
 source_collection: pubmed-text
