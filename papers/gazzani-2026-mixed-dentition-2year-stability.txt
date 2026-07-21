@@ -1,0 +1,39 @@
+Title: Occlusal Relationships and Dental Changes in Mixed Dentition Patients Treated with Clear Aligners: A 2-Year Follow Up
+Authors: Gazzani F, Pavoni C, De Razza FC, Lugli L, Loberto S, Lachi A, Cozza P, Lione R
+Year: 2026
+Journal: Children (Basel) 13(2):298
+PMID: 41749653
+PMCID: PMC12939305
+DOI: 10.3390/children13020298
+
+ABSTRACT:
+This retrospective study assessed the long-term stability of dental arch changes achieved through clear aligner treatment in growing patients during the early mixed dentition stage. 20 patients (mean age 8.3±0.4 years) treated with Invisalign First System using standardized sequential expansion protocol. No additional auxiliaries, IPRs, or retentions used. Dental casts collected at T0 (baseline), T1 (end of treatment), T2 (2 years post-treatment without retention). Measurements: arch width, molar and incisor torque, Henry's angle, overjet, overbite, Little's index on digital models. Friedman ANOVA + Wilcoxon signed-rank tests. Results: Significant transversal expansion achieved (U6-6 mesial +2.1mm; L6-6 mesial +2.4mm). T1-T2: only minimal non-significant relapse (except lower left molar torque -1.1°). T2-T0: stable improvements. Clear aligners in mixed dentition achieved stable dental arch modifications over 2-year follow-up without retention appliances.
+
+METHODS:
+Retrospective study; approved by Ethical Committee of Saint Camillus International University (Protocol E00178-2025). Initial sample: 55 subjects treated January 2021 – December 2022; final n=20 (12F, 8M) after exclusion criteria. Inclusion: early mixed dentition, fully erupted first permanent molars, anterior dental crowding, transverse discrepancy ≤6mm, adequate compliance. Treatment: Invisalign First System, "molars move first" expansion protocol, 4-6mm planned expansion, 0.25mm/stage, 7-day change interval, 60 aligners/arch mean, full-time wear, 4-week follow-up visits. No retention planned post-treatment. Digital scans: iTero Orthodontic v5.2.1.290 scanner. Measurements: Viewbox 4.0 software. Method error: Kendall's W concordance >0.95. Timeline: T0-T1 interval: 17±1.8 months; T1-T2: 24±1.4 months. Statistics: Friedman ANOVA, Wilcoxon signed-rank, α=0.05.
+
+KEY RESULTS:
+T1-T0 (end of treatment):
+- Transversal expansion both arches (significant p<0.05): U6-6 mesial +2.1mm, U6-6 distal +1.8mm, L6-6 mesial +2.4mm, L6-6 distal +2.0mm
+- Torque changes: upper molars (UR-6 +2°, UL-6 +2.1°), maxillary incisors (U-1 -1.4°)
+- Henry's angle (molar derotation): both sides significant (1.6 -6.8°, 2.6 -5.5°)
+- Overjet reduction: -1.5mm (p<0.05)
+- Little's index: improved from 7.5±0.4mm to 0.4±0.1mm (p<0.001)
+
+T2-T1 (2-year post-treatment):
+- Upper arch transversal: slight non-significant reductions (U6-6 mesial -0.1mm)
+- Lower arch: non-significant reductions
+- Only SIGNIFICANT relapse: lower left molar torque -1.1°
+- Overjet, overbite, Henry's angle: no significant changes
+- Little's index: stable (T2: 0.4±0.2mm — p<0.001 for T2-T0)
+
+T2-T0 (net 2-year effect):
+- Stable: U6-6 mesial +2.0mm, L6-6 mesial +1.6mm (p significant)
+- Crown angulation: UR-6 +1.9°, UL-6 +1.6°, LR-6 +0.9°, LL-6 +1.2° (significant)
+- Henry's angle: 1.6 -8.4°, 2.6 -6.6° (significant)
+- Overjet: -1.9mm (significant); overbite: NS
+- Little's index: maintained stable alignment
+
+LIMITATIONS: Small sample (n=20), retrospective, no control group, physiological growth may have contributed, single practice setting.
+
+CONCLUSIONS: Clear aligner treatment in early mixed dentition (Invisalign First, molars-move-first protocol) achieved stable transversal expansion, molar derotation, torque modification, and overjet reduction over 2-year follow-up WITHOUT retention appliances. Most treatment effects maintained; only minimal relapse in lower left molar torque.
