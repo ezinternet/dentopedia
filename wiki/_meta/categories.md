@@ -19,7 +19,9 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `implants` | 임플란트 | Implant design, bone type, survival, failure risk, MBL, soft tissue |
+| `implants` | 임플란트 | Implant design, bone type, osseointegration, connection types, soft tissue. (MBL primary → `implants/mbl`; survival-rate primary → `implants/survival`) |
+| `implants/mbl` | 임플란트·변연골소실 | Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs |
+| `implants/survival` | 임플란트·생존율 | Implant survival/success rate — long-term cohorts, SR/MA of cumulative survival, disease-specific (smoker, irradiated, short implants) survival data |
 | `implants/isq` | 임플란트·ISQ | ISQ/RFA measurement, stability dip, loading decision thresholds |
 | `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface technology, osseointegration. (cold/atmospheric plasma surface activation → `implants/surface/plasma`) |
 | `implants/surface/plasma` | 임플란트·표면처리·플라즈마 | Cold/non-thermal atmospheric plasma (CAP/NTAP) titanium & zirconia surface treatment — osseointegration (animal/RCT), antimicrobial/decontamination, plasma-activated implant/abutment surfaces, vacuum-plasma chairside activation, biocompatibility. (root-canal CAP disinfection → `endodontics/cold-plasma`) |
@@ -57,7 +59,8 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `endodontics` | 근관치료 (general) | Root canal treatment topics not covered by a subcategory — obturation/sealers, endodontic outcomes/prognosis, retreatment, pain/flare-up, general endodontic reviews. (subtopics route to `endodontics/{anatomy,diagnosis,eal,irrigation,shaping,vpt,regenerative,cold-plasma,visit-protocol}`) |
+| `endodontics` | 근관치료 (general) | Root canal treatment topics not covered by a subcategory — endodontic outcomes/prognosis, retreatment, pain/flare-up, general reviews. (subtopics route to `endodontics/{anatomy,diagnosis,eal,irrigation,obturation,shaping,vpt,regenerative,cold-plasma,visit-protocol}`) |
+| `endodontics/obturation` | 근관치료·충전 | Root canal obturation — gutta-percha & GP cone handling (contamination/disinfection), sealers (bioceramic/CaSi: CeraSeal/NeoSealer/BioRoot; epoxy: AH Plus), single-cone vs carrier-based, sealer cytotoxicity/bioactivity/wettability, retreatment/sealer removal, pediatric pulpectomy materials (Vitapex/ZOE), post-obturation pain |
 | `endodontics/anatomy` | 근관치료·해부 | Canal morphology, access cavity, MB2, CBCT-guided access |
 | `endodontics/diagnosis` | 근관치료·진단 | Pulp & periapical diagnosis — pulp sensibility vs vitality test accuracy, pulpitis diagnosis effectiveness, pediatric pulp testing, periapical lesion etiology/diagnosis (granuloma vs cyst) |
 | `endodontics/eal` | 근관치료·근관장측정 | EAL accuracy, working length, apex locator devices |
@@ -81,7 +84,8 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `dental-materials` | 치과재료 (general) | Impression materials, ceramics (lithium disilicate/glass-ceramic), amalgam/composite longevity, CAD-CAM all-ceramic. (zirconia-specific → `dental-materials/zirconia`) |
+| `dental-materials` | 치과재료 (general) | Amalgam/composite longevity, impression materials (dimensional stability/flowability), PEEK, liners, mixed material-failure SRs. (ceramic-specific → `dental-materials/ceramic`; zirconia-specific → `dental-materials/zirconia`) |
+| `dental-materials/ceramic` | 치과재료·세라믹 | Non-zirconia dental ceramics — lithium disilicate (LDS/e.max), leucite-reinforced glass-ceramic, ZLS (Celtra), all-ceramic FDP/crown survival SRs, material selection guide, nanoceramic, CAD/CAM ceramic failure reasons, intraoral repair, resin bonding to high-strength ceramics |
 | `dental-materials/zirconia` | 치과재료·지르코니아 | Dental zirconia (Y-TZP/3Y/4Y/5Y, monolithic) — material types/processing, strength/defects, antagonist enamel wear, LTD/aging, survival/clinical, bonding & saliva-contamination cleaning (Ivoclean/primers/MDP), grinding/polishing/glazing |
 | `glass-ionomer` | 글래스아이오노머 | GIC / RMGIC / HVGIC: composition, restorative & preventive use, longevity, bioactivity/remineralization, biocompatibility, fissure sealant |
 | `resin` | 레진 | Composite resin, polymerization, shrinkage |
@@ -136,7 +140,8 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `oral-medicine` | 구강내과 | Oral mucosal diseases — oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS). (dedicated potentially-malignant-disorder epidemiology/malignant-transformation SR → `oral-medicine/opmd`; cancer-therapy mucositis → `oral-medicine/mucositis`) |
+| `oral-medicine` | 구강내과 | Oral mucosal diseases — oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), erythema multiforme. (HSV/herpes → `oral-medicine/hsv`; potentially-malignant disorders → `oral-medicine/opmd`; cancer-therapy mucositis → `oral-medicine/mucositis`) |
+| `oral-medicine/hsv` | 구강내과·헤르페스 | Oral herpes simplex virus (HSV) — primary herpetic gingivostomatitis (PHGS), recurrent/labial herpes, antiviral agents (aciclovir/docosanol, helicase-primase inhibitors), topical vs systemic therapy SRs, anti-HSV-1 pharmacology update |
 | `oral-medicine/opmd` | 구강내과·구강잠재악성질환 | Oral potentially malignant disorders (OPMD) — leukoplakia/erythroplakia/OSMF/proliferative verrucous leukoplakia, malignant transformation rate & risk factors, recurrence, SR/MA of transformation. (clinical management of a specific mucosal lesion → `oral-medicine`) |
 | `oral-medicine/mucositis` | 구강내과·구강점막염 | Cancer-therapy-induced oral mucositis (OM) — chemo/radiotherapy/HSCT toxicity, prevention & management (honey, LLLT/photobiomodulation, palifermin/KGF, chlorhexidine, glutamine/arginine, cryotherapy), pediatric OM & adult head-and-neck radiation-induced OM (RIOM), MASCC/ISOO supportive care. (immune-mediated/idiopathic mucosal disease → `oral-medicine`) |
 | `oral-medicine/normal-variants` | 구강내과·정상변이병소 | Benign normal-variant oral mucosal findings — Fordyce granules (포다이스 그래뉼), linea alba / morsicatio buccarum-labiorum (교흔, cheek/lip biting), frictional keratosis, tobacco pouch keratosis, leukoedema; prevalence/epidemiology, dermoscopic/mucoscopic differentiation from potentially malignant or immune-mediated mimics (e.g., OLP). (actual disease/OPMD → `oral-medicine`/`oral-medicine/opmd`) |
