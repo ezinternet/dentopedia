@@ -4,7 +4,7 @@ authors: "Gazzani et al."
 year: 2026
 date: 2026-07-21
 doi: "10.3390/children13020298"
-source: "sources/gazzani-2026-mixed-dentition-2year-stability.md"
+source: gazzani-2026-mixed-dentition-2year-stability.md
 category: orthodontics/clear-aligner
 evidence_level: prospective
 source_collection: pubmed-text
