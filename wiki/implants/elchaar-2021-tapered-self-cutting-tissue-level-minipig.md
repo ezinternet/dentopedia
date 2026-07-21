@@ -92,6 +92,6 @@ No fibrous encapsulation; no peri-implant inflammation at any site.
 ## Related Papers
 
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA demonstrating tissue-level implant advantage in crestal bone level preservation; this minipig study provides supporting pre-clinical mechanistic data for TLX within the tissue-level category
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — comparative bone loss analysis around tissue vs bone level implants; contextualizes the fBIC differences observed here
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — comparative bone loss analysis around tissue vs bone level implants; contextualizes the fBIC differences observed here
 - [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — radiological SR on bone/tissue-level crestal bone behavior; provides the radiographic clinical translation counterpart to this histomorphometric animal study
-- [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — factors modifying bone loss around tissue-level implants; relevant for understanding when TLX crestal bone advantages may be amplified or diminished clinically
+- [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] — factors modifying bone loss around tissue-level implants; relevant for understanding when TLX crestal bone advantages may be amplified or diminished clinically
