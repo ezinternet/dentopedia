@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-05
 doi: 10.4103/JCDE.JCDE_484_24
 source: kunam-2024-wettability-ahplus-ceraseal-guttaflow.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
