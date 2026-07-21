@@ -1,0 +1,40 @@
+Title: Post-surgical Orthodontic Management Using Clear Aligners: A Systematic Review of Stability, Efficiency, and Patient Outcomes
+Authors: AlGhafli ZM, Mahjoub DT, Alzhrani SA, Altheyab AA, Aljubab HMH, Alzahrani SA, Bakkar MO, Alotaibi NA, Albishry RN, Alturaif D, Bahkali AA, Alanaz L
+Year: 2026
+Journal: Cureus 18(1):e100967
+PMID: 41658753
+PMCID: PMC12877716
+DOI: 10.7759/cureus.100967
+
+ABSTRACT:
+This systematic review evaluated the effectiveness of clear aligners in post-surgical orthodontic management, focusing on skeletal and dental stability, treatment efficiency, and patient-centered outcomes. A comprehensive search of PubMed, ScienceDirect, Google Scholar, and the Cochrane Library identified 10 eligible studies involving 258 patients. Due to substantial heterogeneity, a meta-analysis was not feasible; findings were synthesized narratively. Skeletal and dental stability achieved with clear aligners was comparable to fixed appliances, with no significant differences in short-term relapse. Several studies reported improved treatment efficiency (reduced duration in surgery-first protocols, fewer appointments). Patient-centered outcomes consistently favored clear aligners (RCTs: better periodontal health, reduced discomfort, improved QoL vs fixed appliances). Perioperative outcomes were similar between groups. Evidence limited by heterogeneity and lack of long-term controlled studies.
+
+METHODS:
+Systematic review following PRISMA guidelines (not PROSPERO registered). Electronic search: PubMed, ScienceDirect, Google Scholar, Cochrane Library (inception to October 2025). Population: patients undergoing orthognathic/dentoalveolar surgery followed by aligner-based post-surgical orthodontic management. Outcomes: skeletal/dental stability, treatment efficiency, patient-reported outcomes (PROs), complications. Study designs: RCTs, controlled clinical trials, cohort, case-control, cross-sectional, case series (>5 patients). RoB assessment: Cochrane RoB 2.0 (RCTs), Newcastle-Ottawa Scale (non-RCTs), JBI checklist (case series). No meta-analysis due to heterogeneity.
+
+10 included studies: 2 RCTs, 6 retrospective comparative/case-control, 2 case series. Total 258 patients.
+
+KEY FINDINGS:
+
+Skeletal/Dental Stability:
+- Li et al. 2024 (RCT, n=74, Class III): no significant skeletal relapse at 6mo CA vs FA (SFA vs OFA groups); SFA+CA had significantly shorter treatment time (18.05 vs 22.83 months, p<0.05)
+- Moon et al. 2021 (n=15, retrospective): no significant difference in 6-month postoperative stability CA vs FA
+- Kwon et al. 2022 (n=15, retrospective): 87% PAR score improvement (pre 27.63 vs post 3.5, p=0.001)
+- Amodeo et al. 2020 (n=12, case series): stable Angle Class I occlusion at 1-year follow-up; no relapse; 10-month mean orthodontic treatment
+
+Treatment Efficiency:
+- Meazzini et al. 2024 (n=26 [13/13], retrospective): CA group — significantly fewer pre-surgical appointments (5.1 vs 10.2, p<0.05); similar treatment duration; fewer refinements (0.4 vs 1.8 impressions, NS)
+- Li et al. 2024: shorter overall treatment time in SFA+CA group
+
+Patient-Centered Outcomes:
+- De Leyva et al. 2023 (RCT, n=28 [14/14], SFA): CA group had significantly better: periodontal health (plaque index, BOP, probing depth — all p<0.05), OHIP-14 (p=0.004), OQLQ-22 (p=0.002); treatment duration similar (p=0.575)
+- Nguyen et al. 2021 (n=13, case series, SFA+Invisalign): high patient satisfaction, good esthetic outcomes
+
+Perioperative Outcomes:
+- Kankam et al. 2019 (n=33 [13/20]): no significant differences in OR time, hospital stay, diet, narcotic use, or postoperative edema (CA 37.36 cm³ vs FA 44.29 cm³, p=0.712)
+
+Compliance Context: 45-50% of aligner users adhere to ≥22h/day recommendation (from literature). Poor compliance in surgical cases could compromise occlusal refinement.
+
+LIMITATIONS: Predominantly small-scale retrospective studies; heterogeneous protocols (different aligner systems, auxiliary mechanics, surgical procedures, retention strategies); majority only 6-12 months follow-up; long-term stability data lacking; no formal inter-rater reliability calculated.
+
+CONCLUSIONS: CA is viable and effective for post-surgical orthodontic management offering comparable skeletal/dental stability to fixed appliances, with potential advantages in comfort, periodontal health, and efficiency (fewer appointments, shorter duration in SFA). Patient-centered outcomes favor CA in RCT evidence. High-quality long-term trials needed.
