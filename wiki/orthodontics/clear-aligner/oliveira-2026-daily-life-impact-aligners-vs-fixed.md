@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.1590/2177-6709.30.5.e252562.oar"
 source: "sources/oliveira-2026-daily-life-impact-aligners-vs-fixed.md"
 category: orthodontics/clear-aligner
-evidence_level: cohort
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: cross-sectional
+source_collection: pubmed-text
 full_text: true
 pmid: "41538529"
 pmcid: "PMC12788501"
-text_path: "papers/oliveira-2026-daily-life-impact-aligners-vs-fixed.txt"
-text_filename: "oliveira-2026-daily-life-impact-aligners-vs-fixed.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/oliveira-2026-daily-life-impact-aligners-vs-fixed.txt
+text_filename: oliveira-2026-daily-life-impact-aligners-vs-fixed.txt
 tags:
   - clear-aligner
   - fixed-appliance

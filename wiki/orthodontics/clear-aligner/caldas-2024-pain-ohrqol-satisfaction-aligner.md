@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.1186/s40510-024-00514-6"
 source: "sources/caldas-2024-pain-ohrqol-satisfaction-aligner.md"
 category: orthodontics/clear-aligner
-evidence_level: cohort
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: cross-sectional
+source_collection: pubmed-text
 full_text: true
 pmid: "38679672"
 pmcid: "PMC11056347"
-text_path: "papers/caldas-2024-pain-ohrqol-satisfaction-aligner.txt"
-text_filename: "caldas-2024-pain-ohrqol-satisfaction-aligner.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/caldas-2024-pain-ohrqol-satisfaction-aligner.txt
+text_filename: caldas-2024-pain-ohrqol-satisfaction-aligner.txt
 tags:
   - clear-aligner
   - OHRQoL

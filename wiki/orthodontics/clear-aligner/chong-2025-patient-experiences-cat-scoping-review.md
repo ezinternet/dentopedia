@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.1093/ejo/cjaf017"
 source: "sources/chong-2025-patient-experiences-cat-scoping-review.md"
 category: orthodontics/clear-aligner
-evidence_level: scoping-review
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: sr
+source_collection: pubmed-text
 full_text: true
 pmid: "40237388"
 pmcid: "PMC12001029"
-text_path: "papers/chong-2025-patient-experiences-cat-scoping-review.txt"
-text_filename: "chong-2025-patient-experiences-cat-scoping-review.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/chong-2025-patient-experiences-cat-scoping-review.txt
+text_filename: chong-2025-patient-experiences-cat-scoping-review.txt
 tags:
   - clear-aligner
   - patient-experience

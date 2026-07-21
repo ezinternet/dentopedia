@@ -1,13 +1,15 @@
 ---
 title: "A 3D comparison of planned versus achieved anterior tooth position in clear aligner treatment"
 stem: "saif-2026-clear-aligner-anterior-3d-accuracy"
+source: "sources/saif-2026-clear-aligner-anterior-3d-accuracy.md"
+source_collection: pubmed-abstract
 category: orthodontics
 year: 2026
 authors: "Saif BS, Rao C, Wanqing H, Li Y, Liu Q, Wang G, Al-Hadad SA, Alqurmoti SA, Chen X, Zhao Y"
 doi: "10.1038/s41598-026-40219-w"
 pmid: "41781476"
 pmcid: "PMC13068941"
-evidence_level: cohort
+evidence_level: retrospective
 tags: [orthodontics, clear-aligner, accuracy, predictability, anterior-teeth, invisalign, intrusion, rotation, tipping, 3d-comparison]
 relations:
   - type: related

@@ -1,13 +1,15 @@
 ---
 title: "A pilot study comparing virtual treatment setups among clear aligner companies"
 stem: "telles-2025-clear-aligner-brand-virtual-setup-comparison"
+source: "sources/telles-2025-clear-aligner-brand-virtual-setup-comparison.md"
+source_collection: pubmed-abstract
 category: orthodontics
 year: 2025
 authors: "Telles V, Mattos CT, Copello F, Doughan MB"
 doi: "10.1590/2177-6709.30.3.e2524243.oar"
 pmid: "41128735"
 pmcid: "PMC12536978"
-evidence_level: comparative-study
+evidence_level: cross-sectional
 tags: [orthodontics, clear-aligner, brand-comparison, invisalign, clearcorrect, clarity, spark, virtual-treatment-setup, attachments]
 relations:
   - type: extends

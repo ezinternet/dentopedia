@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.6026/973206300221429"
 source: "sources/hamid-2026-complex-cases-aligners-ohip14.md"
 category: orthodontics/clear-aligner
-evidence_level: cohort
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: prospective
+source_collection: pubmed-text
 full_text: true
 pmid: "42145383"
 pmcid: "PMC13177106"
-text_path: "papers/hamid-2026-complex-cases-aligners-ohip14.txt"
-text_filename: "hamid-2026-complex-cases-aligners-ohip14.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/hamid-2026-complex-cases-aligners-ohip14.txt
+text_filename: hamid-2026-complex-cases-aligners-ohip14.txt
 tags:
   - clear-aligner
   - fixed-appliance

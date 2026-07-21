@@ -1,6 +1,8 @@
 ---
 title: "Comparison of microbial adhesion and biofilm formation on different orthodontic aligners"
 stem: "pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison"
+source: "sources/pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.md"
+source_collection: pubmed-abstract
 category: orthodontics
 year: 2024
 authors: "Pasaoglu Bozkurt A, Demirci M, Erdogan P, Kayalar E"

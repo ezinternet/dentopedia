@@ -1,6 +1,8 @@
 ---
 title: "Color stability of clear aligners exposed to various beverages: an in vitro study"
 stem: "kobkiatkawin-2025-clear-aligner-color-stability-brand"
+source: "sources/kobkiatkawin-2025-clear-aligner-color-stability-brand.md"
+source_collection: pubmed-abstract
 category: orthodontics
 year: 2025
 authors: "Kobkiatkawin C, Panyayong W, Suphangul S, Thiradilok S"

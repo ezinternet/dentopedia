@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.3390/jcm15082973"
 source: "sources/chehab-2026-ohrqol-orthodontic-narrative-review.md"
 category: orthodontics/clear-aligner
-evidence_level: review
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: narrative-review
+source_collection: pubmed-text
 full_text: true
 pmid: "42074775"
 pmcid: "PMC13116468"
-text_path: "papers/chehab-2026-ohrqol-orthodontic-narrative-review.txt"
-text_filename: "chehab-2026-ohrqol-orthodontic-narrative-review.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/chehab-2026-ohrqol-orthodontic-narrative-review.txt
+text_filename: chehab-2026-ohrqol-orthodontic-narrative-review.txt
 tags:
   - clear-aligner
   - OHRQoL

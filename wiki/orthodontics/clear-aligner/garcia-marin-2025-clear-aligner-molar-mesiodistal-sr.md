@@ -1,6 +1,8 @@
 ---
 title: "Predictability of mesiodistal movement of upper and lower molars with clear aligners: a systematic review"
 stem: "garcia-marin-2025-clear-aligner-molar-mesiodistal-sr"
+source: "sources/garcia-marin-2025-clear-aligner-molar-mesiodistal-sr.md"
+source_collection: pubmed-abstract
 category: orthodontics
 year: 2025
 authors: "García-Marín C, Otero-Pregigueiro A, Iglesias-Linares A"

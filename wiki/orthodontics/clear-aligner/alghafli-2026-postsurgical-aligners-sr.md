@@ -7,12 +7,12 @@ doi: "10.7759/cureus.100967"
 source: "sources/alghafli-2026-postsurgical-aligners-sr.md"
 category: orthodontics/clear-aligner
 evidence_level: sr
-source_collection: clear-aligner-pro-surveillance-2026-07
+source_collection: pubmed-text
 full_text: true
 pmid: "41658753"
 pmcid: "PMC12877716"
-text_path: "papers/alghafli-2026-postsurgical-aligners-sr.txt"
-text_filename: "alghafli-2026-postsurgical-aligners-sr.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/alghafli-2026-postsurgical-aligners-sr.txt
+text_filename: alghafli-2026-postsurgical-aligners-sr.txt
 tags:
   - clear-aligner
   - orthognathic-surgery

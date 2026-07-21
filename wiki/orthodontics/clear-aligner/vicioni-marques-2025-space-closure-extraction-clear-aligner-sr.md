@@ -4,8 +4,10 @@ authors: Vicioni-Marques F, Reis CLB, Almeida APV, Melo LPMP, Romano FL, Matsumo
 year: 2025
 date: 2025-09-02
 doi: 10.1007/s00784-025-06475-2
-source: vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.md
-category: [orthodontics/clear-aligner]
+source: "sources/vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.md"
+category: orthodontics/clear-aligner
+pdf_path: /Users/oracleneo/llm-wiki/papers/vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.pdf
+pdf_filename: vicioni-marques-2025-space-closure-extraction-clear-aligner-sr.pdf
 evidence_level: sr
 source_collection: external
 tags: [clear-aligner, premolar-extraction, space-closure, predictability, anchorage, bodily-movement, lingual-tipping, extrusion, Invisalign]

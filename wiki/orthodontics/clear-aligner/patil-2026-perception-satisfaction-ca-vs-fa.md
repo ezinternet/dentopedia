@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.6026/973206300220770"
 source: "sources/patil-2026-perception-satisfaction-ca-vs-fa.md"
 category: orthodontics/clear-aligner
-evidence_level: cohort
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: prospective
+source_collection: pubmed-text
 full_text: true
 pmid: "42109316"
 pmcid: "PMC13150237"
-text_path: "papers/patil-2026-perception-satisfaction-ca-vs-fa.txt"
-text_filename: "patil-2026-perception-satisfaction-ca-vs-fa.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/patil-2026-perception-satisfaction-ca-vs-fa.txt
+text_filename: patil-2026-perception-satisfaction-ca-vs-fa.txt
 tags:
   - clear-aligner
   - fixed-appliance

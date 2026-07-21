@@ -6,13 +6,13 @@ date: 2026-07-21
 doi: "10.3390/children13020298"
 source: "sources/gazzani-2026-mixed-dentition-2year-stability.md"
 category: orthodontics/clear-aligner
-evidence_level: cohort
-source_collection: clear-aligner-pro-surveillance-2026-07
+evidence_level: prospective
+source_collection: pubmed-text
 full_text: true
 pmid: "41749653"
 pmcid: "PMC12939305"
-text_path: "papers/gazzani-2026-mixed-dentition-2year-stability.txt"
-text_filename: "gazzani-2026-mixed-dentition-2year-stability.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/gazzani-2026-mixed-dentition-2year-stability.txt
+text_filename: gazzani-2026-mixed-dentition-2year-stability.txt
 tags:
   - clear-aligner
   - stability
