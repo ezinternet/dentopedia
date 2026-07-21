@@ -183,7 +183,7 @@ The common thread is that **bench plausibility does not equal clinical durabilit
 ## Related Papers
 
 - [[dental-materials/mukaibo-2026-peek-plasma-mma-luting-bond-strength]] — primary source: PEEK AB+PT pre-treatment + MMA luting, initial and aged SBS
-- [[dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — primary source: milling vs 3D-printing marginal gap for hybrid nanoceramic implant crowns
+- [[dental-materials/ceramic/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — primary source: milling vs 3D-printing marginal gap for hybrid nanoceramic implant crowns
 - [[dental-materials/schenkel-2019-dental-cavity-liners-composite-restorations-sr]] — primary source: Cochrane SR on cavity liner under posterior composite
 - [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] — functional-monomer adhesive chemistry underlying MMA-based PEEK luting systems
 - [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]] — sibling paradigm: adhesive-monomer bonding to chemically inert substrates (titanium vs PEEK)
