@@ -174,44 +174,6 @@ def assemble_page(data: dict, pdf_filename: str) -> str:
     return "\n".join(fm_lines) + body + "\n"
 
 
-def call_gemini(pdf_path: Path, categories: list[str]) -> dict:
-    """Call Gemini CLI with the PDF and return parsed data dict."""
-    import subprocess, re
-
-    cat_list = "\n".join(f"- {c}" for c in categories)
-    prompt = (
-        SYSTEM_PROMPT
-        + f"\n\nAllowed `category` values (pick exactly one, verbatim):\n{cat_list}"
-        + "\n\nReturn your answer as a JSON object with these exact keys: "
-        "stem, title, authors, year, doi, category, body_markdown. "
-        "Wrap the JSON in a ```json ... ``` code fence so it can be parsed. "
-        "Do NOT include any text outside the code fence."
-        f"\n\n@{pdf_path.resolve()}"
-    )
-
-    print(f"→ reading {pdf_path.name} with Gemini CLI ...", file=sys.stderr)
-    result = subprocess.run(
-        ["gemini", "-p", prompt],
-        capture_output=True, text=True, timeout=300,
-    )
-    if result.returncode != 0:
-        raise RuntimeError(f"gemini CLI error:\n{result.stderr[:1000]}")
-
-    raw = result.stdout
-    # extract JSON from ```json ... ``` fence
-    m = re.search(r"```json\s*([\s\S]+?)\s*```", raw)
-    if not m:
-        # fallback: try bare JSON object
-        m = re.search(r"(\{[\s\S]+\})", raw)
-    if not m:
-        raise RuntimeError(f"Could not find JSON in Gemini output:\n{raw[:500]}")
-    # fix unescaped backslashes before JSON parse
-    json_str = m.group(1)
-    import re as _re
-    json_str = _re.sub(r'(?<!\\)\\(?!["\\/bfnrtu])', r'\\\\', json_str)
-    return json.loads(json_str)
-
-
 def main() -> int:
     ap = argparse.ArgumentParser(
         description="Generate a sources/{stem}.md draft from a research PDF.",
@@ -226,10 +188,6 @@ def main() -> int:
     ap.add_argument("--max-tokens", type=int, default=16000)
     ap.add_argument("--force", action="store_true",
                     help="Overwrite the output file if it already exists")
-    ap.add_argument("--gemini", action="store_true", default=True,
-                    help="Use Gemini CLI (default)")
-    ap.add_argument("--claude", action="store_true",
-                    help="Use Claude API instead of Gemini CLI")
     args = ap.parse_args()
 
     pdf_path = Path(args.pdf).expanduser()
@@ -250,37 +208,6 @@ def main() -> int:
         print(f"warning: '{args.category}' is not an existing wiki category",
               file=sys.stderr)
 
-    # ── Gemini path (default) ────────────────────────────────────────────────
-    if not args.claude:
-        try:
-            data = call_gemini(pdf_path, categories)
-        except Exception as e:
-            print(f"error: {e}", file=sys.stderr)
-            return 1
-        if args.category:
-            data["category"] = args.category
-        elif data.get("category") not in categories:
-            print(f"warning: model chose category '{data.get('category')}' which is not "
-                  "an existing wiki folder — confirm before ingesting.", file=sys.stderr)
-        stem = data["stem"]
-        pdf_filename = f"{stem}.pdf"
-        page = assemble_page(data, pdf_filename)
-        if args.stdout:
-            print(page)
-            _print_next_steps(stem, data["category"], pdf_path, to_stderr=True)
-            return 0
-        out = Path(args.out).expanduser() if args.out else SOURCES / f"{stem}.md"
-        if out.exists() and not args.force:
-            print(f"error: {out} already exists. Use --force to overwrite.",
-                  file=sys.stderr)
-            return 1
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(page, encoding="utf-8")
-        print(f"✓ wrote {out}", file=sys.stderr)
-        _print_next_steps(stem, data["category"], pdf_path, to_stderr=True)
-        return 0
-
-    # ── Claude path (explicit --claude only) ────────────────────────────────
     try:
         import anthropic
     except ImportError:
