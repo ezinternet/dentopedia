@@ -1897,6 +1897,8 @@ tags: []
 - [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — Korczeniewska 2022 · narrative-review (Biomolecules): 외상후 삼차신경병증성 통증 (Post-Traumatic Trigeminal Neuropathic Pain, PTNP)의 **말초** 병태생리 — 케모카인·이온통로·위성신경교세포 (Satellite Glial Cell)·옥시토신·microRNA. 중추 기전은 복잡성을 이유로 저자가 명시적으로 범위에서 제외(핵심 한계). [[overviews/trigeminal-neuralgia-neuropathy-overview]]가 임상적으로만 다루던 PTTN에 기전 층을 공급 (DOI 10.3390/biom12121753)
 - [[orofacial-pain/guan-2025-cerebellin-2-trigeminal-neuropathic-pain]] — Guan 2025 · animal (마우스 pIONT 모델, snRNA-seq 교차종 분석): 세레벨린 2 (Cerebellin 2, CBLN2)가 삼차신경절 Aδ-LTMR(사람 56.3%)·Aβ/cLTMR(마우스) 마커 유전자 — TET3 매개 프로모터 탈메틸화가 신경손상 후 CBLN2 지속 상승을 유도(3.6배, p<0.001), Cbln2·Tet3 넉다운 모두 기계적 이질통 완화; 외인성 CBLN2는 ERK/MAPK 경유 뉴런 과흥분·염증성 사이토카인 유도. Korczeniewska(2022) 말초 캐스케이드에 구체적 분자마커+후성유전 스위치 공급 (DOI 10.1186/s10194-025-02093-1)
 - [[orofacial-pain/melo-carrillo-2017-fremanezumab-adelta-c-meningeal-nociceptors]] — Melo-Carrillo 2017 · animal (마취 쥐 삼차신경절 단일유닛 기록): 항CGRP 단클론항체 fremanezumab이 대뇌피질확산성억압(CSD)으로 활성화되는 Aδ meningeal nociceptor만 선택적으로 억제, C-fiber는 무영향 — 말초 Aδ 선택적 항편두통 기전 최초 입증, 중추 고역치(HT) 뉴런 선택적 억제(기존 보고)의 말초 근거. **주의: PMC 본문 텍스트 미확보 — 초록만 기반(full_text: false)** (DOI 10.1523/JNEUROSCI.2211-17.2017)
+- [[orofacial-pain/caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic]] — 교정력에 의한 치수 신경원성 염증을 조절하는 내인성 오피오이드 시스템 PRISMA 문헌고찰: 중등도 교정력(56–180 g)은 β-엔도르핀·엔케팔린이 보상하나 과도한 힘(>180 g)은 항통증 용량을 초과해 무증상 비가역적 치수염·괴사 위험
+- [[orofacial-pain/ye-2021-glia-orofacial-pain-progress-directions]] — 슈반세포·위성신경절세포·미세아교세포·성상교세포가 두통·TMD·치수손상·두경부암 4가지 구강안면 통증에서 말초·중추 신경감작을 매개하는 기전 종설
 
 ## 악관절·구강안면통증 (TMJ)
 - [[tmj/valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma]] — Valenzuela-Fuenzalida 2026 · sr+ma · 32 RCT(1247명): 관절천자가 다른 치료 대비 통증·MMO·MIO 우월성 없음(VAS p=0.55), 근거 매우 낮음
@@ -2291,6 +2293,7 @@ tags: []
 - [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]] — Narrative review: DH 기전·진단·관리, 환자 동기+술자 지식이 장기 성공 좌우 (2022)
 - [[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]] — Review(J Adv Res): tubule-sealing 기준 물리·화학·시너지 전략 분류, 생체모방 광화 강조 (2026)
 - [[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] — 서사 리뷰(2026): 수역학설·신경가소성·TRP 채널 기전, 단계적 배제 진단, 가정~수술 치료 알고리즘, 자기조립 펩타이드·CalBots 바이오미메틱 최신 동향; Triple-C 유지 체계 (DOI 10.4103/JCDE.JCDE_41_26)
+- [[dentin-hypersensitivity/le-fur-bonnabesse-2017-dental-pain-thermal-allodynia]] — 환경 온도차(cold→warm)로 유발되는 치과 열성 통각과민(thermal allodynia) 기전 가설: TRPV1 말초 감작·C섬유 신경가소성·중추 감작 4단계 cascade와 임상 3증례
 
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
 - [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] — Wang 2025 · rct · 전향 RCT(n=106, 근관치료 후 균열치): 포세린 인레이가 전부피개관보다 성공률·통증·치은지표·저작효율 우수 (abstract-only, 중국어, PMID 40275667·DOI 없음)
@@ -2811,6 +2814,7 @@ tags: []
 - [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Díaz 2025, sr+ma, 상악동거상술 후 항생제(7개 SR/MA umbrella): 감염률 0.3–11.6%, 예방 투여는 고위험군(막 천공·측방 접근·전신질환)에서만 근거 있고 단순 SFE에서는 루틴 불필요(GRADE 낮은 확실성)
 - [[drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Mohammadpour 2025, sr, 구강악안면외과 전 술식 125편 스코핑 리뷰: 술후 24시간 초과 AP 연장 투여 불필요, 아목시실린 단회 투여가 표준, 클린다마이신은 페니실린 알레르기 시에만
 - [[drug/antibiotics/rajan-2025-doxycycline-safety-children-dental-sr]] — Rajan 2025, SR+MA (5개 연구, n=162), 8세 미만 소아 단기 독시사이클린(doxycycline) 치아 착색 위험 0.62%로 극히 낮아 AAP/CDC 개정 지침 지지
+- [[drug/antibiotics/tampi-2019-antibiotics-pulpitis-apical-abscess-sr]] — ADA 2019 SR+MA: SIP·PN-SAP·PN-LAAA 대상 항생제 효과 없음(VAS MD≈0, 매우 낮은 확실성), 인구집단 수준 해악 대규모 — Lockhart 2019 CPG 근거 논문
 
 
 <!-- BATCH INGEST 2026-06-04: 봉합·창상폐쇄 + 수직 골증대술 + 잔여. NEW category: suture-wound-closure. NEW subcategory: implants/vertical-ridge-augmentation -->
@@ -2904,6 +2908,7 @@ tags: []
 - [[endodontics/vpt/pusa-2025-clinical-success-vital-pulp-therapy]] — Pusa 2025 · sr+ma · SR+MA (21 RCTs, 1,948 teeth): MTA beats Ca(OH)₂ in direct pulp capping (RR 1.21, P=0.03); MTA ≈ Biodentine
 - [[endodontics/vpt/elmsmari-2026-decision-ready-evidence-vital-pulp]] — Elmsmari 2026 · sr+ma · Bayesian network MA (35 RCTs, 2,906 teeth): VPT success >93%; calcium-silicate beats Ca(OH)₂
 - [[endodontics/vpt/hu-2026-direct-pulp-capping-materials-rct-12mo]] — RCT 12mo (Clin Exp Dent Res 2026, PMC OA): iRoot BP Plus vs MTA vs Ca(OH)₂ direct pulp capping — 3-way RCT, bioceramic vs calcium-silicate vs traditional
+- [[endodontics/vpt/liu-2025-carnosol-pulpitis-rage-nfkb]] — 카르노솔이 RAGE/NF-κB 경로 억제를 통해 치수염의 IL-1β·IL-6·TNF-α를 농도의존적으로 감소시킨 최초의 연구 (in vitro hDPCs + SD 쥐 모델)
 
 ### Oral surgery — coronectomy
 - [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Di Spirito 2025 · sr · Umbrella review (6 SRs, 5896 subjects): coronectomy re-intervention 4.45%, mean 10.4 mo, IAN injury 0.76%
@@ -3133,8 +3138,11 @@ tags: []
 
 **endodontics**
 - [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
+- [[endodontics/irrigation/zan-2022-irrigation-activation-medicament-penetration]] — 초음파 활성화+TAP 조합이 상아세관 침투 최대: CLSM으로 5가지 활성화 방식×3가지 약제 비교
 - [[endodontics/babeer-2024-microrobotics-endodontics-perspective]] — Perspective on three magnetically controlled microrobot platforms (IONP microswarms, helicoids, silica nanorobots) for biofilm disruption and targeted disinfection of canal intricacies (2024)
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — Neelakantan 2018 · narrative-review · Editorial: 치수/근단 감염을 biofilm 매개로 규정 — biofilm 구조·다종균 동태가 항균저항 유발, 표적 소독을 치료 목표로 제시 (DOI 10.3390/dj6020014)
+- [[endodontics/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] — Caviedes-Bucheli 2008 · narrative-review (JOE): 치수 신경펩타이드(SP·CGRP·NKA·NPY·VIP) 생리·병리·신경성 염증·치수괴사·근단병소 기전과 수용체 약리학 기초 종설 — 동저자 2025·2026 IEJ 시리즈의 foundational 논문 (DOI 10.1016/S0099-2399(08)00257-4)
+- [[endodontics/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]] — NPY가 교감신경 Y1/Y2 수용체를 통해 SP/CGRP 유발 신경성 염증을 억제하고, 우식 진행 단계에 따라 보호→붕괴하는 치수 항상성 조절자임을 92편 PRISMA 합성으로 정리
 
 **resin**
 - [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — Critical review of bioactive resin strategies (metallic nanoparticles, QAMs, NACP) to prevent secondary caries, with failure-rate benchmarks and formulation vulnerability analysis (2023)
