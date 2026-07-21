@@ -205,7 +205,11 @@ def call_gemini(pdf_path: Path, categories: list[str]) -> dict:
         m = re.search(r"(\{[\s\S]+\})", raw)
     if not m:
         raise RuntimeError(f"Could not find JSON in Gemini output:\n{raw[:500]}")
-    return json.loads(m.group(1))
+    # fix unescaped backslashes before JSON parse
+    json_str = m.group(1)
+    import re as _re
+    json_str = _re.sub(r'(?<!\\)\\(?!["\\/bfnrtu])', r'\\\\', json_str)
+    return json.loads(json_str)
 
 
 def main() -> int:
@@ -222,8 +226,10 @@ def main() -> int:
     ap.add_argument("--max-tokens", type=int, default=16000)
     ap.add_argument("--force", action="store_true",
                     help="Overwrite the output file if it already exists")
-    ap.add_argument("--gemini", action="store_true",
-                    help="Use Gemini CLI instead of Claude API (saves Anthropic tokens)")
+    ap.add_argument("--gemini", action="store_true", default=True,
+                    help="Use Gemini CLI (default)")
+    ap.add_argument("--claude", action="store_true",
+                    help="Use Claude API instead of Gemini CLI")
     args = ap.parse_args()
 
     pdf_path = Path(args.pdf).expanduser()
@@ -244,8 +250,8 @@ def main() -> int:
         print(f"warning: '{args.category}' is not an existing wiki category",
               file=sys.stderr)
 
-    # ── Gemini path ──────────────────────────────────────────────────────────
-    if args.gemini:
+    # ── Gemini path (default) ────────────────────────────────────────────────
+    if not args.claude:
         try:
             data = call_gemini(pdf_path, categories)
         except Exception as e:
@@ -274,7 +280,7 @@ def main() -> int:
         _print_next_steps(stem, data["category"], pdf_path, to_stderr=True)
         return 0
 
-    # ── Claude path (original) ───────────────────────────────────────────────
+    # ── Claude path (explicit --claude only) ────────────────────────────────
     try:
         import anthropic
     except ImportError:
