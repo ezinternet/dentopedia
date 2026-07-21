@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-16
 doi: 10.1016/j.dental.2026.02.011
 source: surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
