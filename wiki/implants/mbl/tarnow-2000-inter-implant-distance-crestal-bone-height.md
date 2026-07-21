@@ -6,7 +6,7 @@ date: 2000-04-01
 doi: 10.1902/jop.2000.71.4.546
 pmid: "10807116"
 source: tarnow-2000-inter-implant-distance-crestal-bone-height.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: retrospective
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/tarnow-2000-inter-implant-distance-crestal-bone-height.txt
