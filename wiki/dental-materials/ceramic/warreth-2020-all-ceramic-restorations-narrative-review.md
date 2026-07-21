@@ -5,7 +5,7 @@ year: 2020
 date: 2020-05-29
 doi: 10.1016/j.sdentj.2020.05.004
 source: warreth-2020-all-ceramic-restorations-narrative-review.md
-category: [dental-materials]
+category: [dental-materials/ceramic]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/warreth-2020-all-ceramic-restorations-narrative-review.pdf
 pdf_filename: warreth-2020-all-ceramic-restorations-narrative-review.pdf
