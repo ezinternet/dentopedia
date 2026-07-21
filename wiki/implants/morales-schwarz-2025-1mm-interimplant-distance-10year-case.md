@@ -71,5 +71,5 @@ Tarnow 2000의 3 mm IID 권고는 외부 헥스, 비-플랫폼 스위칭 골수�
 ≥3 mm IID still recommended. Revision requires prospective data on more cases.
 
 ## Related Papers
-- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — foundational 3 mm rule (this case challenges its universality)
+- [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]] — foundational 3 mm rule (this case challenges its universality)
 - [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] — tooth side: ≥1.5 mm guideline
