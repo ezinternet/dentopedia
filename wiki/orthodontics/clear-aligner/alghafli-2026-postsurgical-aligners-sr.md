@@ -4,7 +4,7 @@ authors: "AlGhafli et al."
 year: 2026
 date: 2026-07-21
 doi: "10.7759/cureus.100967"
-source: "sources/alghafli-2026-postsurgical-aligners-sr.md"
+source: alghafli-2026-postsurgical-aligners-sr.md
 category: orthodontics/clear-aligner
 evidence_level: sr
 source_collection: pubmed-text
