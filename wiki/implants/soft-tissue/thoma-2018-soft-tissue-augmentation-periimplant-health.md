@@ -51,5 +51,5 @@ SR+MA: 임플란트 주위 연조직 이식술(FGG/CTG)이 각화조직 폭 **3-
 - FGG: 폭 확보 목적 / CTG: 부피·심미 목적
 
 ## Related Papers
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 MBL에 영향하는 인자
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 MBL에 영향하는 인자
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — ITI 식립 타이밍 및 연조직 관리
