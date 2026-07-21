@@ -115,8 +115,8 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 | [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] | sr+ma | CAD/CAM 실패 — 파절 55%, 탈락 20%. **두께 < 1mm 시 파절 위험 유의 증가**. 두께 ≥ 1.5 mm occlusal + 엄격 접착 protocol 이 risk 감소 |
 | [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] | retrospective (5y, 루마니아) | Zr 단관·FPD 모두 5y >90% 생존. **FPD 의 베니어 칩핑 > 단관** (stress distribution 차이) |
 | [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] | sr+ma (13편 1,598 수복물) | 심미 합병증 OR 16.88 (Zr+LDS > PFM). 생존율 대등. 두께 prerequisite 강조 |
-| [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] | sr+ma | Zr FDP 프레임 파절 드묾. **베니어 칩핑이 주 합병증** — monolithic 으로 회피 가능 |
-| [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] | sr | LDS 단관 PFM 대등. 장경간 FPD 는 LDS 한계 — Zr 가 필요 |
+| [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] | sr+ma | Zr FDP 프레임 파절 드묾. **베니어 칩핑이 주 합병증** — monolithic 으로 회피 가능 |
+| [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] | sr | LDS 단관 PFM 대등. 장경간 FPD 는 LDS 한계 — Zr 가 필요 |
 
 **임상 ladder — preparation 단계**:
 1. **3Y-TZP monolithic 후방부 단관**: occlusal 1.0-1.5 mm, axial 0.8 mm 충분.
@@ -159,7 +159,7 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | **5Y-PSZ MDP 반응성 유지**. CoJet + silane + MDP primer 6mo 가장 안정. Cubic phase 가 약점 아님 |
-| [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] | narrative-review | APC concept 원전 — Air-abrade · Prime · Cement. Grade 무관 적용 |
+| [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] | narrative-review | APC concept 원전 — Air-abrade · Prime · Cement. Grade 무관 적용 |
 
 **임상 ladder — grade 별 접착 차이**:
 1. **3Y-TZP**: Air-abrasion (50 µm, 1-2 bar) — 충분. Phase transformation 우려 있으나 1-2 bar 에서는 net 이득. 두꺼운 코어 권장 시 sandblasting 시간 단축.
@@ -194,13 +194,13 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — 두께-파절 SR+MA
 - [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — 5y retrospective
 - [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs PFM SR+MA
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic FDP SR+MA
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic FDP SR+MA
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — 대합치 마모 SR+MA
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 마모 umbrella
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — 유약 wear 역설
 - [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — Endocrown wear 2y
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — APC concept
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — APC concept
 
 ### Related overviews / interactives
 
