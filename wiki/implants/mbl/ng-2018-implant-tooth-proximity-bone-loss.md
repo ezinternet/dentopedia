@@ -6,7 +6,7 @@ date: 2018-09-25
 doi: 10.1111/adj.12650
 pmid: "30182386"
 source: ng-2018-implant-tooth-proximity-bone-loss.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: retrospective
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/ng-2018-implant-tooth-proximity-bone-loss.txt
