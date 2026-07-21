@@ -53,6 +53,6 @@ Biological complications (OR 1.17, 95% CI 0.64–2.17) and technical complicatio
 | **Esthetic complications** | **16.88** | **7.59–37.56** | **p<0.00001** |
 
 ## Related Papers
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
 - [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — ZrO₂ 5-year retrospective
