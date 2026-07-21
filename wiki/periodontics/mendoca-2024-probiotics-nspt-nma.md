@@ -1,7 +1,7 @@
 ---
 title: "Probiotics in the non-surgical treatment of periodontitis: a systematic review and network meta-analysis"
 stem: "mendoca-2024-probiotics-nspt-nma"
-source: "sources/mendoca-2024-probiotics-nspt-nma.md"
+source: mendoca-2024-probiotics-nspt-nma.md
 source_collection: pubmed-abstract
 category: periodontics
 year: 2024
