@@ -15,7 +15,7 @@ source_papers:
   - wiki/implants/zhang-2024-short-vs-long-implants-sinus.md
   - wiki/sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma.md
   - wiki/implants/alenezi-2025-short-long-implants-sinus-floor-elevation.md
-  - wiki/implants/kim-2026-long-term-outcomes-short-standard-implants.md
+  - wiki/implants/survival/kim-2026-long-term-outcomes-short-standard-implants.md
 relations:
   - type: extends
     target: short-implant-vs-sinus-augmentation-decision
@@ -126,6 +126,6 @@ Decision logic in prose:
 - [[implants/zhang-2024-short-vs-long-implants-sinus]] — short as the simpler posterior-maxilla protocol.
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — ≥5 y caveat.
 - [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — the MBL edge is measured against a grafted long arm.
-- [[implants/kim-2026-long-term-outcomes-short-standard-implants]] — length-vs-length MBL equal; insertion depth, not length/C-I, is the driver.
+- [[implants/survival/kim-2026-long-term-outcomes-short-standard-implants]] — length-vs-length MBL equal; insertion depth, not length/C-I, is the driver.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — companion: the augmentation branch in detail.
 - [[overviews/implants-clinical-decision-ladder]] — where length sits in the broader implant decision ladder.
