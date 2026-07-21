@@ -1075,6 +1075,7 @@ tags: []
 - [[complete-denture/li-2021-optical-jaw-tracking-edentulous-jaw-relations-in-vitro]] — Li 2021 · in-vitro (초록전용) · 광학 턱추적의 무치악 편심위(전방·측방·소개구) 기록 정확도, 교합기상 3D 편차 112–133 μm(<200 μm). **같은 팀 임상판(li-2022)은 0.76–1.35mm로 약 6–10배 열화** — 벤치 정확도가 구강으로 얼마나 이월되는지 보여주는 정량적 사례. 중심위 자체가 아닌 궤적 포착의 검증임에 유의 (DOI 10.11607/ijp.7126)
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
+- [[overviews/veneers-category-synthesis-overview]] — Category Synthesis (28편, 2026): 3개 클러스터(재료/생존/프로토콜·최소삭제·교합비니어) 허브 — 통합원칙: 에나멜 구속(enamel confinement) — 상아질 마진 노출 시 실패위험 ~10×, 재료·삭제 깊이 무관(El-Mowafy 2018; Klein 2025·Reis 2025 확인)
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
 - [[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] — Morimoto 2016 SR+MA: feldspathic/glass-ceramic laminate veneer survival 89% at 9yr, fracture/chipping dominant complication, IJP
 - [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]] — Albanesi 2016 SR+MA: incisal coverage vs non-coverage OR 1.25 (NS), both preparation designs safe for ceramic veneers, J Dent
@@ -2438,6 +2439,7 @@ tags: []
 - [[overviews/tooth-wear-vdo-space-creation-overview]] — **NEW Overview (2026-07-17, 10편)**: 마모 치열의 수복공간 종합 — **첫 질문은 "고경을 얼마나 올릴까"가 아니라 "고경이 상실되긴 했는가"**(마모 ≠ 고경 상실). 공간은 네 축에서 얻는다: ①절단연(Dahl)·②전악(반부가형 VDO 거상)·③근단(치관연장술)·④교정적 압하 — **근거 경사가 직관을 뒤집는다**: 유일한 SR+MA를 가진 축이 **고경을 안 건드리는 ①번**(fan-2026: 후방교합 완전재확립 86.9%, 간접 AFR 0–0.7% vs 직접 0–8.7% P<.05, 단 추적 1.7–2.2 vs 1.3–7년 교란), ②는 후향 n=8·전향 n=20(ferrando 5년 90.1%이나 **교합면 비니어만 79.1%**·후방위치 HR 0.143 p=0.008 유일 유의인자·재료 무의미), ③은 **증례 1건**(alam-2024는 크라운변연 SCTA 침범 케이스지 마모 아님), ④는 **논문 0편**(Rule #4). 진단 도구(자유공극 2–4mm·발음공간 1–2mm)는 **총의치 맥락 외삽**임을 명시. TMJ 안전성 **상충**: 쥐에서 OVD거상 > 교합상실 연골손상(wang-2024) vs 임상 CBCT +2mm·1년 변화0(zhang-2024 n=12); **"Abduo ≤5mm"는 원논문 미보유 — 인용의 인용**. **결정적 경계: Cochrane이 TMD 목적 비가역적 교합처치에 강한 반대 권고**(singh-2024) → 마모수복 정당화는 심미·기능·구조보존이지 관절치료가 아님. 역설: 이갈이·거상은 실패와 무관(Milosevic n=164·8년), 위험인자는 **후방/교합면 위치**. 검증은 접촉 **개수 금지**(biren-2025: 개수 불변·위치 이동, 가상안궁 무효)
 
 ## 국소마취·진정 (Local Anesthesia / Sedation)
+- [[overviews/local-anesthesia-category-synthesis-overview]] — Category Synthesis (37편, 2026): 6개 테마 클러스터(하악마취·완충제·해부학적실패·컴퓨터전달·표면마취·합병증) 허브 — 핵심: IANB 단독 hot tooth 실패율 높음, 4% articaine 협측침윤(RR 1.06)·보충(RR 2.02)·이부프로펜 전투약(성공률 20→79%) 순차 대응
 - [[overviews/mandibular-anesthesia-efficacy-ladder]] — Synthesis 2026-06-03 (5편): 하악 마취 4단 ladder — articaine 협측침윤≈IANB(성인·소아), IANB 실패시 보충≈병용(RR~2), articaine 통증우위, N2O 진정 95%
 - [[overviews/topical-anesthetic-injection-pain-overview]] — Synthesis 2026-06-08 (4편): 표면마취로 주사·needle 통증 줄이기 — 위약 대비 효과·농도의존 확실하나 제제간(lidocaine/benzocaine/EMLA) 차이는 blinding 엄격할수록 소실(Subramanian↔Karkoutly 상충), 표면≠주사 완전대체(Wambier SRP), 레버는 약물명보다 농도·제형·도포술기
 - [[overviews/computerized-needle-free-anesthesia-delivery-overview]] — Synthesis 2026-07-01 (9편): 컴퓨터제어(CCLAD/The Wand/STA)·압력조절·바늘없는 마취 전달장치 — 엄격 대형 RCT일수록 주사통증 자체의 우위는 재현 안 됨(Küçükkurt 5-arm NS), 이득은 공포감소·보충마취 회피·소아협조도 같은 2차 지표에 일관(Garret-Bernardin·Cabral), 외과발치엔 부적합(Ramanathan 거상통↑)·비주사 경로 대안 존재(needle-free patch, 컴퓨터구동 골내)
@@ -2473,6 +2475,7 @@ tags: []
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
 
 ## 방사선 (Radiology / Dental Imaging)
+- [[overviews/radiology-category-synthesis-overview]] — Category Synthesis (53편, 2026): 5개 클러스터(선량·CBCT진단·아티팩트·해부변이·방사선감별진단) 허브 — 이분하악관 유병률 20.7%(CT/CBCT, Aung 2023 SR+MA), nutrient canal 당뇨 84%·고혈압 66%·치주염 52% vs 정상 20%(Hasan 2022)
 - [[radiology/mortazavi-2016-lesions-associated-with-periodontal-ligament]] — Mortazavi 2016 · narrative-review · PDL 확장 유발 병변 감별(교합외상·교정력·경피증·골육종·비호지킨림프종); 국소+골파괴면 악성 의심 (DOI 10.5624/isd.2016.46.4.229)
 - [[radiology/tay-2022-influence-cbct-endodontic-treatment-planning]] — Tay 2022 (SR, 16편, NUS): CBCT가 근관 치료계획 24-56% 변경; 고난도·재치료·치유평가서 정당화
 - [[radiology/brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment]] — Brochado Martins 2025 (SR+MA, 19편, ACTA): CBCT 치유율 loose 87%/strict 36% — 루틴 CBCT 결과추적 불필요 가능성(비판적)
