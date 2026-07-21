@@ -4,7 +4,7 @@ authors: "Hamid Syed et al."
 year: 2026
 date: 2026-07-21
 doi: "10.6026/973206300221429"
-source: "sources/hamid-2026-complex-cases-aligners-ohip14.md"
+source: hamid-2026-complex-cases-aligners-ohip14.md
 category: orthodontics/clear-aligner
 evidence_level: prospective
 source_collection: pubmed-text
