@@ -63,4 +63,4 @@ PECOS-framed question; pooled weighted mean difference via inverse-variance meta
 
 ## Related Papers
 
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 타입(조직수준 vs 골수준) 축의 MBL 논의를 보철 디자인 전 영역으로 확장(extends).
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 타입(조직수준 vs 골수준) 축의 MBL 논의를 보철 디자인 전 영역으로 확장(extends).
