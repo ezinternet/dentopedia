@@ -46,4 +46,4 @@ In vitro retention strength study comparing three complete primer-cement systems
 ## Related Papers
 - [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — self-adhesive cements comparison
 - [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]] — Z-Prime vs universal adhesive
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — bonding review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — bonding review
