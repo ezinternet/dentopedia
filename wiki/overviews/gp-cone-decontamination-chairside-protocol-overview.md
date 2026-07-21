@@ -11,10 +11,10 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 source_papers:
-  - wiki/endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr.md
-  - wiki/endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection.md
-  - wiki/endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection.md
-  - wiki/endodontics/teles-2024-gutta-percha-points-mrsa-mssa-contamination.md
+  - wiki/endodontics/obturation/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr.md
+  - wiki/endodontics/obturation/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection.md
+  - wiki/endodontics/obturation/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection.md
+  - wiki/endodontics/obturation/teles-2024-gutta-percha-points-mrsa-mssa-contamination.md
 tags: [gutta-percha, gp-cone, decontamination, disinfection, chairside, sodium-hypochlorite, chlorhexidine, silver-nanoparticles, chitosan, cross-infection, MRSA, obturation, endodontics, overview]
 relations:
   - type: extends
@@ -103,12 +103,12 @@ The decisive practical caveat, consistent across the cluster:
 
 ## Source Papers
 
-- [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — SR anchor (7 in vitro studies): NaOCl vs CHX; NaOCl the gold standard, CHX promising vs Candida.
-- [[endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — in-vitro: NaOCl vs Ag/chitosan nanoparticles + AFM surface data; NaOCl clears in 1 min, nanoparticles need 5 min.
-- [[endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — in-vitro: 22.9% of in-use cones contaminated (handling-driven, not brand); chairside NaOCl+detergent cleared 76.4%.
-- [[endodontics/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — in-vitro: 1.9% MRSA/MSSA contamination (PCR-confirmed); 3% NaOCl 60-s cleared 100%.
+- [[endodontics/obturation/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — SR anchor (7 in vitro studies): NaOCl vs CHX; NaOCl the gold standard, CHX promising vs Candida.
+- [[endodontics/obturation/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — in-vitro: NaOCl vs Ag/chitosan nanoparticles + AFM surface data; NaOCl clears in 1 min, nanoparticles need 5 min.
+- [[endodontics/obturation/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — in-vitro: 22.9% of in-use cones contaminated (handling-driven, not brand); chairside NaOCl+detergent cleared 76.4%.
+- [[endodontics/obturation/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — in-vitro: 1.9% MRSA/MSSA contamination (PCR-confirmed); 3% NaOCl 60-s cleared 100%.
 
 ## Related Pages
 
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — biofilm-mediated endodontic infection framing that motivates the aseptic chain, of which cone decontamination is one step.
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — addresses the *clinical seal* of the single GP cone; complements this page's focus on cone *sterility* before obturation.
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — addresses the *clinical seal* of the single GP cone; complements this page's focus on cone *sterility* before obturation.
