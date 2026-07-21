@@ -65,4 +65,4 @@ Umbrella review of systematic reviews of in vitro studies (PRISMA-guided), searc
 ## Related Papers
 - [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — earlier single SR (excluded from this umbrella review's synthesis for mixed in vivo/in vitro data) reaching a similar "no system ranks superior" conclusion; this umbrella review statistically confirms and extends it across 17 newer SRs.
 - [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — SR isolating tooth-preparation design (finish line, taper, occlusal reduction) as a marginal/internal-gap determinant, complementary to the variables tested here.
-- [[dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — in vitro study finding milled crowns have smaller marginal gaps than 3D-printed crowns, consistent with the "Mosaddad 2025" study included in this umbrella review.
+- [[dental-materials/ceramic/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — in vitro study finding milled crowns have smaller marginal gaps than 3D-printed crowns, consistent with the "Mosaddad 2025" study included in this umbrella review.
