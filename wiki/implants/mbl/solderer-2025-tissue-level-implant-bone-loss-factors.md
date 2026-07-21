@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1186/s40729-025-00613-x
 source: solderer-2025-tissue-level-implant-bone-loss-factors.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/solderer-2025-tissue-level-implant-bone-loss-factors.pdf
 pdf_filename: solderer-2025-tissue-level-implant-bone-loss-factors.pdf
