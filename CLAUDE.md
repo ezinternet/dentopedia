@@ -102,6 +102,16 @@ python3 scripts/daily-audit.py     # 20 audits → logs/
 
 3 classic + 1 rationale은 error(block), 나머지 16은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
 
+## Model Routing (3축 원칙 — 표에 없는 작업도 이 원칙으로 판단)
+
+| 축 | 모델 | 판단 기준 |
+|---|---|---|
+| **전사·정형** | **Haiku** | 답이 입력에 이미 있다 — 수치 옮기기, 링크 수정, 로그 읽기, 파일 복사, 스크립트 결과 해석 |
+| **표현·품질** | **Sonnet** | 문장을 새로 써야 한다 — 위키 본문, 세줄요약, 카테고리 정리, 임상 insights |
+| **추론·종합** | **Opus** | 여러 논문·페이지를 비교해 판단해야 한다 — supersession, 카테고리 경계, overview 종합 |
+
+애매할 때는 한 축 위로 올린다 (Haiku→Sonnet, Sonnet→Opus). 세부 매핑은 `ingest-paper` SKILL.md Step 0 참조.
+
 ## Knowledge Compounding
 
 가장 가치 있는 페이지는 논문을 가로질러 종합하는 `wiki/overviews/`다. 좋은 Q&A 세션 뒤엔: *"Save this as an overview page in wiki/overviews/"*.
