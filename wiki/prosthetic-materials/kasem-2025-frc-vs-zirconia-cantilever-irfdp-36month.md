@@ -54,4 +54,4 @@ RCT (n=32 patients, 40 cantilever IR-FDPs). Two ceramic materials: monolithic zi
 ## Related Papers
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — in vitro fracture load of zirconia vs ZrLS inlay-retained FDPs
 - [[inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year]] — 5-year enamel wear opposing 3Y-TZP RBFPDs
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for zirconia and high-strength ceramics
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for zirconia and high-strength ceramics
