@@ -53,6 +53,6 @@ Estimated prevalence 0.01-1%, young adults, female preponderance. Oral mucosa af
 
 ## Related Papers
 
-- [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — applies-to (HSV trigger link)
-- [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — applies-to (suppressive antiviral therapy)
+- [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] — applies-to (HSV trigger link)
+- [[oral-medicine/hsv/mancini-2025-oral-herpes-treatment-sr]] — applies-to (suppressive antiviral therapy)
 - [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — related (oral-ulcer differential)
