@@ -1,13 +1,15 @@
 ---
 title: "Modified Coronally Advanced Flaps: A Systematic Review and Meta-Analysis"
 stem: "gualtieri-2025-mcaf-gingival-recession-sr-ma"
+source: "sources/gualtieri-2025-mcaf-gingival-recession-sr-ma.md"
+source_collection: pubmed-abstract
 category: periodontics
 year: 2025
 authors: "Gualtieri M, Signoriello A, Pardo A, Muresan DA, Zangani A, Faccioni P, Corrocher G, Lombardo G"
 doi: "10.3390/dj13100477"
 pmid: "41149124"
 pmcid: "PMC12564554"
-evidence_level: sr-ma
+evidence_level: sr+ma
 tags: [periodontics, gingival-recession, maf, coronally-advanced-flap, connective-tissue-graft, root-coverage, keratinized-tissue, sr-ma, mucogingival-surgery]
 relations:
   - type: reinforces

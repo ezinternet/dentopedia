@@ -1,13 +1,15 @@
 ---
 title: "Clinical effects of probiotics on the treatment of gingivitis and periodontitis: a systematic review and meta-analysis"
 stem: "benavides-reyes-2025-probiotics-periodontitis-ma"
+source: "sources/benavides-reyes-2025-probiotics-periodontitis-ma.md"
+source_collection: pubmed-abstract
 category: periodontics
 year: 2025
 authors: "Benavides-Reyes C, Cabello I, Magán-Fernández A, Rodríguez-Barranco M, Usta SN, Mesa F"
 doi: "10.1186/s12903-025-05888-5"
 pmid: "40186219"
 pmcid: "PMC11971800"
-evidence_level: sr-ma
+evidence_level: sr+ma
 tags: [periodontics, probiotics, gingivitis, periodontitis, meta-analysis, sr-ma, plaque-index, bop, ppd]
 relations:
   - type: reinforces

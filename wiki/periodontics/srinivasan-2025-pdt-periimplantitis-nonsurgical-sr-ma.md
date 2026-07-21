@@ -1,12 +1,14 @@
 ---
 title: "Non-surgical management of peri-implantitis with photodynamic therapy: A systematic review and meta-analysis of clinical parameters and biomarkers"
 stem: "srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma"
+source: "sources/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md"
+source_collection: pubmed-abstract
 category: periodontics
 year: 2025
 authors: "Srinivasan M, Kamnoedboon P, Nantanapiboon D, Papi P, Romeo U"
 doi: "10.1016/j.jdent.2025.105680"
 pmid: "40081730"
-evidence_level: sr-ma
+evidence_level: sr+ma
 tags: [periodontics, photodynamic-therapy, pdt, peri-implantitis, non-surgical, sr-ma, bop, probing-depth, biomarkers]
 relations:
   - type: extends

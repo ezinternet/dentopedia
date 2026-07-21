@@ -1,13 +1,15 @@
 ---
 title: "Probiotics in the non-surgical treatment of periodontitis: a systematic review and network meta-analysis"
 stem: "mendoca-2024-probiotics-nspt-nma"
+source: "sources/mendoca-2024-probiotics-nspt-nma.md"
+source_collection: pubmed-abstract
 category: periodontics
 year: 2024
 authors: "Mendonça CD, Mata ADSPD, Azevedo LFR, Marques JF, Silveira JML, Marques DNDS"
 doi: "10.1186/s12903-024-05027-6"
 pmid: "39407177"
 pmcid: "PMC11481756"
-evidence_level: sr-ma
+evidence_level: sr+ma
 tags: [periodontics, probiotics, adjunct, network-meta-analysis, sr-ma, nspt, srp, lactobacillus, ppd, cal, bop]
 relations:
   - type: extends

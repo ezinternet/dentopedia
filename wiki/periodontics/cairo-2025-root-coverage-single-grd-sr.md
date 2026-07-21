@@ -1,6 +1,8 @@
 ---
 title: "Clinician- and patient-reported outcomes following the surgical treatment of single gingival recession defects: A systematic review"
 stem: "cairo-2025-root-coverage-single-grd-sr"
+source: "sources/cairo-2025-root-coverage-single-grd-sr.md"
+source_collection: pubmed-abstract
 category: periodontics
 year: 2025
 authors: "Cairo F, Couso-Queiruga E, Barbato L, Rupe C, Stuhr S, Chambrone L, Avila-Ortiz G"

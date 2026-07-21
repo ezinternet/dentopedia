@@ -1,13 +1,15 @@
 ---
 title: "Vitamin D in Peri-Implant and Periodontal Tissue"
 stem: "duarte-2025-vitamin-d-periimplant-periodontal"
+source: "sources/duarte-2025-vitamin-d-periimplant-periodontal.md"
+source_collection: pubmed-abstract
 category: periodontics
 year: 2025
 authors: "Duarte FS, Duarte ND, Mulinari-Santos G, Frigério PB, Okamoto R, Buchaim RL, Buchaim DV, Issa JPM"
 doi: "10.3390/dj13100448"
 pmid: "41149095"
 pmcid: "PMC12564239"
-evidence_level: review
+evidence_level: narrative-review
 tags: [periodontics, vitamin-d, supplementation, periimplant, osseointegration, bone-regeneration, periodontal-disease, review]
 relations:
   - type: extends
