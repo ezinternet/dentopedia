@@ -15,7 +15,7 @@ text_filename: regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnost
 
 ## Why Ingested
 
-First rigorous 16S multi-batch study on the salivary microbiome as a periodontitis diagnostic tool at ASV level — addresses the methodological fragmentation of prior studies (different technologies, gene regions, databases) and directly quantifies the impact of batch-effect removal on diagnostic model performance, providing a translational roadmap for precision periodontitis diagnostics.
+First rigorous 16S multi-batch study on the salivary microbiome as a periodontitis diagnostic tool at ASV level — addresses the methodological fragmentation of prior studies and directly quantifies batch-effect removal impact on diagnostic performance; complements [[periodontics/corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr]] which covers proteomic biomarkers on the same diagnostic axis.
 
 ## Three-line Summary
 

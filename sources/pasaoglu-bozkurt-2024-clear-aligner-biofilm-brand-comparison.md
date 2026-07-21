@@ -13,7 +13,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/pasaoglu-bozkurt-2024-clear-aligner-
 text_filename: pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.txt
 ---
 ## Why Ingested
-First head-to-head microbiological comparison of 6 clear aligner brands (Invisalign, Clarity, ClearCorrect, Smartee, Orthero, Graphy) for time-dependent biofilm formation — provides brand-level caries/periodontal risk data absent from clinical outcome studies.
+First head-to-head microbiological comparison of 6 clear aligner brands (Invisalign, Clarity, ClearCorrect, Smartee, Orthero, Graphy) for time-dependent biofilm formation — provides brand-level caries/periodontal risk data absent from clinical outcome studies; extends [[orthodontics/clear-aligner/kobkiatkawin-2025-clear-aligner-color-stability-brand]] which addressed color/mechanical brand differences.
 
 ## Three-line Summary
 In vitro time-course study comparing biofilm formation and microbial adhesion (S. mutans + L. acidophilus) on 6 clear aligner systems at 0, 24, 48, 72, 96, 120, 168, and 240 h; two-way repeated-measures ANOVA with Bonferroni T2 post-hoc.

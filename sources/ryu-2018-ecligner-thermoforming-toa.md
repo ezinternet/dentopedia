@@ -15,7 +15,7 @@ text_filename: ryu-2018-ecligner-thermoforming-toa.txt
 
 ## Why Ingested
 
-Only PubMed-indexed study directly benchmarking eCligner (Seoul, Korea; Orapix brand) material against reference thermoplastic aligner materials (Duran, Essix A+, Essix ACE). Provides the sole peer-reviewed in-vitro characterization of eCligner's physical and mechanical behavior before and after thermoforming, forming the evidence foundation for any clinical claim about eCligner material properties.
+Only PubMed-indexed study directly benchmarking eCligner (Seoul, Korea; Orapix brand) material against reference thermoplastic aligner materials (Duran, Essix A+, Essix ACE). Provides the sole peer-reviewed in-vitro characterization of eCligner's physical and mechanical behavior before and after thermoforming; forms the material-science foundation alongside [[orthodontics/clear-aligner/delgado-2025-thermoplastics-clear-aligners-review]] for clinical claims about aligner material properties.
 
 ## Three-line Summary
 

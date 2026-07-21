@@ -13,7 +13,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/saif-2026-clear-aligner-anterior-3d-
 text_filename: saif-2026-clear-aligner-anterior-3d-accuracy.txt
 ---
 ## Why Ingested
-Focused 3D analysis of anterior tooth movement accuracy (Invisalign, first set only, no refinement) — provides movement-specific benchmarks across 4 movement types for the anterior region that complement molar and rotational accuracy SRs; unique in isolating first-phase accuracy before any refinement.
+Focused 3D analysis of anterior tooth movement accuracy (Invisalign, first set only, no refinement) — provides movement-specific benchmarks across 4 movement types for the anterior region; complements [[orthodontics/clear-aligner/garcia-marin-2025-clear-aligner-molar-mesiodistal-sr]] (molar mesiodistal SR) to cover the full arch accuracy picture; unique in isolating first-phase accuracy before any refinement.
 
 ## Three-line Summary
 Retrospective study (40 adults, avg 27.8 years, Invisalign, non-extraction, first aligner set without refinement; 480 anterior teeth; 10-day aligner change; avg 27 aligners) comparing initial intraoral scans + ClinCheck predictions with actual final scans for 4 movement types (vertical, mesiodistal rotation, mesiodistal tipping, buccolingual tipping) in upper and lower anterior teeth.
