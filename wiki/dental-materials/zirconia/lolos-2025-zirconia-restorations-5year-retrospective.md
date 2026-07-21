@@ -53,5 +53,5 @@ Both ZrO₂ single crowns and FDPs showed high 5-year survival rates. FDPs had a
 
 ## Related Papers
 - [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — esthetic complications OR 16.88 in CAD/CAM SR+MA
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR for comparison
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — CAD/CAM all-ceramic FDP SR+MA
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR for comparison
