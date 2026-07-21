@@ -1,7 +1,7 @@
 ---
 title: "A pilot study comparing virtual treatment setups among clear aligner companies"
 stem: "telles-2025-clear-aligner-brand-virtual-setup-comparison"
-source: "sources/telles-2025-clear-aligner-brand-virtual-setup-comparison.md"
+source: telles-2025-clear-aligner-brand-virtual-setup-comparison.md
 source_collection: pubmed-abstract
 category: orthodontics
 year: 2025
