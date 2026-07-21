@@ -6,7 +6,7 @@ date: 2024-12-11
 doi: 10.11607/jomi.10885
 pmid: "38941170"
 source: malak-2024-implant-failure-marginal-bone-loss.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/malak-2024-implant-failure-marginal-bone-loss.pdf
 pdf_filename: malak-2024-implant-failure-marginal-bone-loss.pdf
