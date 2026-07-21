@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-17
 doi: 10.1186/s12903-025-05692-1
 source: gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
