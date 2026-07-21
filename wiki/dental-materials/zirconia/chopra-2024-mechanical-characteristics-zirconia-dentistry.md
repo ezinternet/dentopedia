@@ -81,7 +81,7 @@ Chopra et al. (2024) conducted a comprehensive narrative review of the mechanica
 
 ## Related Papers
 
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — broader all-ceramic review (zirconia in prosthetic context)
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — broader all-ceramic review (zirconia in prosthetic context)
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — types and development
 - [[dental-materials/zirconia/cesar-2024-dental-zirconia-15years-material-processing]] — 15-year material evolution (generations, processing)
 - [[dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — clinical defect origins in CAD/CAM zirconia
