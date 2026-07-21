@@ -64,5 +64,5 @@ PRISMA-guided systematic review of SCOPUS, PubMed, and Google Scholar (plus manu
 - [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] — animal-only SR+MA
 - [[implants/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative concept review
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — clinical sinus OD SR+MA
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — context for CBL outcome interpretation
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — context for CBL outcome interpretation
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — ISQ measurement context
