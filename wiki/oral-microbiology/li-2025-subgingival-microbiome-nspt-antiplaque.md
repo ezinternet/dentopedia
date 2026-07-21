@@ -1,6 +1,8 @@
 ---
 title: "Effect of an intensive antiplaque regimen on microbiome outcomes after nonsurgical periodontal therapy"
 stem: "li-2025-subgingival-microbiome-nspt-antiplaque"
+source: "sources/li-2025-subgingival-microbiome-nspt-antiplaque.md"
+source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2025
 authors: "Li L, Hayashi-Okada Y, Falkner KL, Shimizu Y, Zambon JJ, Kirkwood KL, Schifferle RE, Genco RJ, Diaz PI"

@@ -1,13 +1,15 @@
 ---
 title: "Salivary and serum inflammatory biomarkers during periodontitis progression and after treatment"
 stem: "teles-2024-salivary-biomarkers-periodontitis-progression"
+source: "sources/teles-2024-salivary-biomarkers-periodontitis-progression.md"
+source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2024
 authors: "Teles FRF, Chandrasekaran G, Martin L, Patel M, Kallan MJ, Furquim C, Hamza T, Cucchiara AJ, Kantarci A, Urquhart O, Sugai J, Giannobile WV"
 doi: "10.1111/jcpe.14048"
 pmid: "39104016"
 pmcid: "PMC11651721"
-evidence_level: cohort
+evidence_level: prospective
 tags: [oral-microbiology, salivary-biomarkers, periodontitis-progression, cytokines, mmp-8, il-1beta, ifng, nspt, longitudinal, serum-biomarkers, luminex]
 relations:
   - type: complements

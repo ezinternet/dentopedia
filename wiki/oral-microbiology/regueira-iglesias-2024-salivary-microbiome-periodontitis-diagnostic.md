@@ -1,13 +1,15 @@
 ---
 title: "The salivary microbiome as a diagnostic biomarker of periodontitis: a 16S multi-batch study"
 stem: "regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic"
+source: "sources/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic.md"
+source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2024
 authors: "Regueira-Iglesias A, Suárez-Rodríguez B, Blanco-Pintos T, Relvas M, Alonso-Sampedro M, Balsa-Castro C, Tomás I"
 doi: "10.3389/fcimb.2024.1405699"
 pmid: "39071165"
 pmcid: "PMC11272481"
-evidence_level: cohort
+evidence_level: cross-sectional
 tags: [oral-microbiology, salivary-microbiome, diagnostic-biomarker, periodontitis, 16s-rrna, machine-learning, auc, batch-effect, asv, precision-diagnostics]
 relations:
   - type: complements

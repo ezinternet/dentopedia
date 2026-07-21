@@ -1,6 +1,8 @@
 ---
 title: "Oral microbiome, periodontal disease and systemic bone-related diseases in the era of homeostatic medicine"
 stem: "hu-2024-oral-microbiome-bone-related-diseases-homeostasis"
+source: "sources/hu-2024-oral-microbiome-bone-related-diseases-homeostasis.md"
+source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2024
 authors: "Hu W, Chen S, Zou X, Chen Y, Luo J, Zhong P, Ma D"

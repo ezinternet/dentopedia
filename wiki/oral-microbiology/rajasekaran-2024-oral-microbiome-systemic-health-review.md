@@ -1,6 +1,8 @@
 ---
 title: "Oral Microbiome: A Review of Its Impact on Oral and Systemic Health"
 stem: "rajasekaran-2024-oral-microbiome-systemic-health-review"
+source: "sources/rajasekaran-2024-oral-microbiome-systemic-health-review.md"
+source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2024
 authors: "Rajasekaran JJ, Krishnamurthy HK, Bosco J, Jayaraman V, Krishna K, Wang T, Bei K"
