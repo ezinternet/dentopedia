@@ -61,6 +61,6 @@ SR+MA (11편, 1,727명, >2,000 임플란트): 임플란트의 자연치 근접 �
 - BL 임플란트가 TL보다 근접 거리에 더 민감 (Ng 2018)
 
 ## Related Papers
-- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — IID ≥3 mm 룰 (임플란트-임플란트); 본 논문은 임플란트-자연치 side
-- [[implants/ng-2018-implant-tooth-proximity-bone-loss]] — 이 SR에 포함; BL vs TL 구분 근거
+- [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]] — IID ≥3 mm 룰 (임플란트-임플란트); 본 논문은 임플란트-자연치 side
+- [[implants/mbl/ng-2018-implant-tooth-proximity-bone-loss]] — 이 SR에 포함; BL vs TL 구분 근거
 - [[implants/morales-schwarz-2025-1mm-interimplant-distance-10year-case]] — 좁은 IID 케이스 (임플란트-임플란트)
