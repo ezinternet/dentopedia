@@ -1,7 +1,7 @@
 ---
 title: "A 3D comparison of planned versus achieved anterior tooth position in clear aligner treatment"
 stem: "saif-2026-clear-aligner-anterior-3d-accuracy"
-source: "sources/saif-2026-clear-aligner-anterior-3d-accuracy.md"
+source: saif-2026-clear-aligner-anterior-3d-accuracy.md
 source_collection: pubmed-abstract
 category: orthodontics
 year: 2026
