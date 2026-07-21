@@ -1,7 +1,7 @@
 ---
 title: "Non-surgical management of peri-implantitis with photodynamic therapy: A systematic review and meta-analysis of clinical parameters and biomarkers"
 stem: "srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma"
-source: "sources/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md"
+source: srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md
 source_collection: pubmed-abstract
 category: periodontics
 year: 2025
