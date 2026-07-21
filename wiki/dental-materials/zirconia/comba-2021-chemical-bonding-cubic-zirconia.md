@@ -39,4 +39,4 @@ In vitro investigation of chemical-based bonding techniques on cubic (5Y-PSZ) hi
 ## Related Papers
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 3Y→5Y→6Y zirconia evolution
 - [[dental-materials/zirconia/jo-2018-liners-primers-zirconia-tensile-bond]] — glass-ceramic liners vs MDP
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec review
