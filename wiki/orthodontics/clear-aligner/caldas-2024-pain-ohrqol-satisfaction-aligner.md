@@ -4,7 +4,7 @@ authors: "Caldas et al."
 year: 2024
 date: 2026-07-21
 doi: "10.1186/s40510-024-00514-6"
-source: "sources/caldas-2024-pain-ohrqol-satisfaction-aligner.md"
+source: caldas-2024-pain-ohrqol-satisfaction-aligner.md
 category: orthodontics/clear-aligner
 evidence_level: cross-sectional
 source_collection: pubmed-text
