@@ -10,6 +10,7 @@
 
 | date | source | target | snippet_hash | reason |
 |------|--------|--------|--------------|--------|
+| 2026-07-20 | tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction | dinkova-2025-local-hemostasis-oral-surgery-review | deaafa2efcb7 | preclinical/animal study adds material layer beneath clinical review; different evidence tier not conflicting claims |
 | 2026-07-18 | achmadi-2025-intraoral-scanner-edentulous-accuracy-scoping | digital-workflow-decision-ladder | 259af0ffb738 | contrast is against vankos-2026 and singh-2025 not the overview |
 | 2026-07-18 | de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot | zamparini-2023-premixed-calcium-silicate-carrier-based-2year | da231582d55a | in-vitro cytotoxicity complements clinical cohort; Whereas contrasts study type |
 | 2026-07-18 | de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot | spinelli-2024-three-year-single-cone-ceraseal-cohort | da231582d55a | lab-versus-clinical framing no conflicting claim |
