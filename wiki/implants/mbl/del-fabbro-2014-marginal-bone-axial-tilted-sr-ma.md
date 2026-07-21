@@ -6,7 +6,7 @@ date: 2014-01-01
 doi: null
 pmid: "24977252"
 source: del-fabbro-2014-marginal-bone-axial-tilted-sr-ma.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma.txt
