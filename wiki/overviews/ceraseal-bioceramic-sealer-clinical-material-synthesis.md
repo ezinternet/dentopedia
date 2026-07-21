@@ -8,20 +8,20 @@ category: [overviews]
 evidence_level: synthesis
 tags: [ceraseal, bioceramic-sealer, calcium-silicate, single-cone, root-canal-sealer, post-obturation-pain, retreatment, biocompatibility, apatite, ah-plus, decision-synthesis]
 source_papers:
-  - wiki/endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma.md
-  - wiki/endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort.md
-  - wiki/endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year.md
-  - wiki/endodontics/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo.md
-  - wiki/endodontics/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma.md
-  - wiki/endodontics/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol.md
-  - wiki/endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct.md
-  - wiki/endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct.md
-  - wiki/endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment.md
-  - wiki/endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow.md
-  - wiki/endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph.md
-  - wiki/endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus.md
-  - wiki/endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot.md
-  - wiki/endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts.md
+  - wiki/endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma.md
+  - wiki/endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort.md
+  - wiki/endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year.md
+  - wiki/endodontics/obturation/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo.md
+  - wiki/endodontics/obturation/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma.md
+  - wiki/endodontics/obturation/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol.md
+  - wiki/endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct.md
+  - wiki/endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct.md
+  - wiki/endodontics/obturation/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment.md
+  - wiki/endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow.md
+  - wiki/endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph.md
+  - wiki/endodontics/obturation/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus.md
+  - wiki/endodontics/obturation/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot.md
+  - wiki/endodontics/obturation/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts.md
 ---
 
 ## 한국어 핵심요약
@@ -123,17 +123,17 @@ Synthesis: these two papers reframe single-cone obturation as a **system (prepar
 
 ## Related Papers
 
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — SR+MA (3 RCTs, n=259): single-cone bioceramic ≈ conventional obturation, meta-confirming the page's clinical-equivalence thesis.
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical anchor: longest (36-mo) Ceraseal + single-cone outcome.
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — clinical: Ceraseal + warm carrier vs AH Plus, 24 mo.
-- [[endodontics/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo]] — clinical: single-cone vs carrier-based with same CaSi sealer — equal healing, more extrusion with carrier-based.
-- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — RCT: post-obturation pain, CeraSeal < AH Plus.
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — RCT: CSBS ≈ ERBS, single-cone.
-- [[endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retrievability in retreatment.
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — wettability / contact angle.
-- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — bioactivity: apatite + pH.
-- [[endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]] — set-state cytotoxicity (L929).
-- [[endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]] — osteoblast cytotoxicity/bioactivity.
-- [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — gingival-fibroblast biocompatibility.
-- [[endodontics/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — technique: ultrasonic activation lowers single-cone porosity / deepens sealer penetration.
-- [[endodontics/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] — protocol: irrigation (HEDP continuous chelation) shapes the dentin–sealer interface and antimicrobial seal.
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — SR+MA (3 RCTs, n=259): single-cone bioceramic ≈ conventional obturation, meta-confirming the page's clinical-equivalence thesis.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical anchor: longest (36-mo) Ceraseal + single-cone outcome.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — clinical: Ceraseal + warm carrier vs AH Plus, 24 mo.
+- [[endodontics/obturation/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo]] — clinical: single-cone vs carrier-based with same CaSi sealer — equal healing, more extrusion with carrier-based.
+- [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]] — RCT: post-obturation pain, CeraSeal < AH Plus.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — RCT: CSBS ≈ ERBS, single-cone.
+- [[endodontics/obturation/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retrievability in retreatment.
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — wettability / contact angle.
+- [[endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph]] — bioactivity: apatite + pH.
+- [[endodontics/obturation/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]] — set-state cytotoxicity (L929).
+- [[endodontics/obturation/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]] — osteoblast cytotoxicity/bioactivity.
+- [[endodontics/obturation/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — gingival-fibroblast biocompatibility.
+- [[endodontics/obturation/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — technique: ultrasonic activation lowers single-cone porosity / deepens sealer penetration.
+- [[endodontics/obturation/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] — protocol: irrigation (HEDP continuous chelation) shapes the dentin–sealer interface and antimicrobial seal.
