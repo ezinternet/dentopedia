@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.7759/cureus.70067
 source: banerjee-2024-success-rate-dental-implants-smokers.md
-category: [implants]
+category: [implants/survival]
 evidence_level: sr+ma
 source_collection: pubmed-text
 pmid: "39449874"
