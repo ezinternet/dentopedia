@@ -21,7 +21,7 @@ relations:
     target: pacheco-2025-dental-implant-survival-irradiated
 ---
 
-> [!note] Partially superseded → [[implants/pacheco-2025-dental-implant-survival-irradiated]]
+> [!note] Partially superseded → [[implants/survival/pacheco-2025-dental-implant-survival-irradiated]]
 > Pacheco 2025 is a larger, PROSPERO-registered umbrella review on the same question (73,674 vs 24,996 implants; search through 2024 vs 2022) that independently reinforces this paper's direction of effect. Prefer Pacheco 2025 for current clinical decisions; this page retains value as an earlier, independent confirmation with a partly non-overlapping set of included systematic reviews.
 
 ## Three-line Summary
@@ -42,7 +42,7 @@ Umbrella review (SR 15편, 두경부암 환자 5,487명·임플란트 24,996개,
 
 ## Summary
 
-This umbrella review searched PubMed, Lilacs, DARE/Cochrane, and Google Scholar (through July 2022) for systematic reviews evaluating dental implant outcomes in head-and-neck-cancer patients treated with radiotherapy. From 958 initial records, 15 systematic reviews were selected, together covering 24,996 implants placed in 5,487 patients. Pooled success rate was 86.2% in irradiated patients versus 95.2% in non-irradiated patients. Methodological quality, assessed with AMSTAR 2, was high in only 1 of the 15 included systematic reviews — the remaining 14 fell short, and a subsequent published comment on this article (PMID 37191480, DOI 10.1111/scd.12875) specifically raised methodological questions about the review. The authors conclude that implant-based oral rehabilitation remains a valid therapy after head-and-neck radiotherapy, but call for better-designed primary studies to increase confidence in clinical decision-making. A later, larger, PROSPERO-registered umbrella review on the identical clinical question ([[implants/pacheco-2025-dental-implant-survival-irradiated]], 11 SRs, 73,674 implants, search through Feb 2024) independently reinforces the same direction of effect (81.52% vs 94.64% survival) with a substantially bigger and more consistently appraised evidence base (all 11 SRs rated critically low by AMSTAR 2, resolving the quality-rating inconsistency flagged for this earlier review).
+This umbrella review searched PubMed, Lilacs, DARE/Cochrane, and Google Scholar (through July 2022) for systematic reviews evaluating dental implant outcomes in head-and-neck-cancer patients treated with radiotherapy. From 958 initial records, 15 systematic reviews were selected, together covering 24,996 implants placed in 5,487 patients. Pooled success rate was 86.2% in irradiated patients versus 95.2% in non-irradiated patients. Methodological quality, assessed with AMSTAR 2, was high in only 1 of the 15 included systematic reviews — the remaining 14 fell short, and a subsequent published comment on this article (PMID 37191480, DOI 10.1111/scd.12875) specifically raised methodological questions about the review. The authors conclude that implant-based oral rehabilitation remains a valid therapy after head-and-neck radiotherapy, but call for better-designed primary studies to increase confidence in clinical decision-making. A later, larger, PROSPERO-registered umbrella review on the identical clinical question ([[implants/survival/pacheco-2025-dental-implant-survival-irradiated]], 11 SRs, 73,674 implants, search through Feb 2024) independently reinforces the same direction of effect (81.52% vs 94.64% survival) with a substantially bigger and more consistently appraised evidence base (all 11 SRs rated critically low by AMSTAR 2, resolving the quality-rating inconsistency flagged for this earlier review).
 
 ## Key Contributions
 
@@ -67,5 +67,5 @@ A published comment on this article (PMID 37191480, DOI 10.1111/scd.12875) raise
 
 ## Related Papers
 
-- [[implants/pacheco-2025-dental-implant-survival-irradiated]] — larger (73,674 vs 24,996 implants), PROSPERO-registered, more recently searched (through 2024 vs 2022) umbrella review on the identical clinical question; independently reinforces this paper's direction of effect. See `superseded_by`/`superseded_scope: partial` banner above — Pacheco 2025 is the preferred current reference, this page is retained as an earlier independent confirmation.
+- [[implants/survival/pacheco-2025-dental-implant-survival-irradiated]] — larger (73,674 vs 24,996 implants), PROSPERO-registered, more recently searched (through 2024 vs 2022) umbrella review on the identical clinical question; independently reinforces this paper's direction of effect. See `superseded_by`/`superseded_scope: partial` banner above — Pacheco 2025 is the preferred current reference, this page is retained as an earlier independent confirmation.
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — single-cohort study (RR 2.73 for head-and-neck radiation as an implant-failure risk factor) that this umbrella review's pooled findings are consistent with at the systematic-review level.
