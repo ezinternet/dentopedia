@@ -64,6 +64,83 @@ The preemptive axis extends the same logic to anesthesia. Rodrigues 2024 (DB-RCT
 7. **Plan supplemental anesthesia anyway.** Even premedicated, IANB success stays <40% in hot teeth — have intraligamentary, intrapulpal, or buccal articaine infiltration ready rather than relying on the block alone.
 8. **Preemptive planning beats reactive rescue.** The through-line of all four papers: for symptomatic teeth, deciding the drug/anesthesia plan *before* treatment outperforms managing symptoms afterward.
 
+## Treatment Algorithm (처치 알고리즘)
+
+### 치료 전 — 위험군 분류 (Pre-treatment Stratification)
+
+```
+술전 평가
+├── 자발통(Spontaneous Pain) 있음? → RR 5.83 → 고위험
+├── 타진통(Percussion Pain) 있음?  → RR 3.45 → 고위험
+├── 비생활치·치근단 병소·재치료·하악? → 추가 위험
+└── 위 없음 → 저위험 (전체 발생률 2.83%)
+```
+
+**고위험 치아 → 선제 약물 계획 의무화**
+
+---
+
+### "Hot Tooth" 선제 프로토콜 (치료 시작 60분 전)
+
+증상성 비가역적 치수염 (Irreversible Symptomatic Pulpitis), 하악구치 [확인 — Rodrigues 2024 RCT]
+
+| 선택지 | 용량 | IANB 성공률 | 6h 통증 | 24–72h 통증 |
+|---|---|---|---|---|
+| 덱사메타손 (Dexamethasone) 경구 | 4 mg, 60분 전 | **39.3%** | 위약 대비 우수 | 우수 |
+| 디클로페낙 칼륨 (Diclofenac Potassium) 경구 | 50 mg, 60분 전 | 21.4% | 중간 (NS) | 우수 |
+| 위약 | — | 3.6% | — | — |
+
+> **주의**: 선제투약 후에도 IANB 성공률 <40% → **보조 마취**(치주인대 주사·구강내 아티카인 침윤·치수 내 주사)를 항상 준비한다 [확인 — Rodrigues 2024]
+
+---
+
+### 술후 통증 처치 (Post-treatment Pain Management)
+
+**단계 1 — 중증도 분류**
+
+```
+Flare-up 발생
+│
+├── 전신 감염 징후 있음?
+│   (발열·개구장애(Trismus)·연하곤란·확산성 봉와직염(Cellulitis))
+│   ├── YES → 항생제 + 절개배농 (I&D) + 응급의뢰 고려 [미검증 — 일반 임상 원칙]
+│   └── NO  → 단계 2로
+│
+└── 배농 가능한 농양(Fluctuance) 있음?
+    ├── YES → 절개배농 우선 [미검증 — 일반 임상 원칙]
+    └── NO  → 단계 2로
+```
+
+**단계 2 — 약물 선택 (전신 감염 징후 없음)**
+
+| 우선순위 | 약물 | 근거 |
+|---|---|---|
+| 1 | NSAID (이부프로펜 400mg q6h) | [미검증 — 일반 임상 원칙] |
+| 2 | 코르티코스테로이드 점막하 주사 ↓ | [확인 — Yavari 2019 RCT] |
+| **≤24h** 통증 우선 | **덱사메타손 (Dexamethasone)** 점막하 | 6–24h 최우수 |
+| **≥72h** 통증 우선 | **베타메타손 장기형 (Betamethasone)** 점막하 | 72h–7일 최우수 |
+| 3 | 재개통 + 수산화칼슘 (Calcium Hydroxide, CH) 첩약 | [미검증 — 일반 임상 원칙] |
+
+**하지 않는 것 [확인 — Shamszadeh 2020 SR+MA, 8 RCT n=690]**
+
+> 예방적 항생제 처방 → 통증·부종 전 시점(6–72h) **무효** — 쓰지 않는다
+
+---
+
+### 통증 시간 경과 (공통)
+
+```
+0h ─── 6h ─── 12h(정점) ─── 24h ─── 48h ─── 72h ─── 7일
+                  ↑
+            모든 군에서 공통 정점
+            약물은 정점 전에 커버돼야 함
+```
+
+- 하악 통증 > 상악 통증 (전 군 공통) [확인 — Yavari 2019]
+- 세정·kinematics 축 → [[overviews/endodontic-postoperative-pain-overview]] 참조
+
+---
+
 ## Related Papers
 
 - [[endodontics/ohshima-2026-factors-associated-endodontic-flare-ups-sr]] — risk-factor SR/MA; supplies the incidence baseline and the risk hierarchy that opens the whole protocol.
