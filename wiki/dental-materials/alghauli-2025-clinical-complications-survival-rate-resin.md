@@ -94,4 +94,4 @@ Clinical implication: RMC/hybrid ceramics are NOT preferred for crown restoratio
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM failure modes SR+MA (fracture 55%, debonding 20%); mechanistic context for RMC crown failures
 - [[inlay/bresser-2023-intracoronal-restorations-longevity-sr-ma]] — intracoronal restoration longevity SR+MA; complements intracoronal RMC findings
 - [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]] — veneer survival SR+MA (feldspathic/leucite/LD); comparator for RMC veneer performance
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic CAD/CAM FDP SR+MA; broader CAD/CAM ceramic context
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic CAD/CAM FDP SR+MA; broader CAD/CAM ceramic context
