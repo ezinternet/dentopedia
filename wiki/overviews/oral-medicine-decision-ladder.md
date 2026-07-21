@@ -171,9 +171,9 @@ OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 �
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] | sr | 1차 헤르페스 치은구내염(PHGS, 소아) — 조기 아시클로버 약한 근거만. ~72h 진단지연이 효능 저해 |
-| [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] | sr | 재발성/구순 HSV — 국소제는 병변기간만 단축(재발 미감소), 전신 항바이러스제는 재발 예방 |
-| [[oral-medicine/lv-2025-anti-hsv1-agents-update]] | narrative-review | 항-HSV-1 약리 — 뉴클레오시드 유사체 1차, 내성 시 helicase-primase 억제제 |
+| [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] | sr | 1차 헤르페스 치은구내염(PHGS, 소아) — 조기 아시클로버 약한 근거만. ~72h 진단지연이 효능 저해 |
+| [[oral-medicine/hsv/mancini-2025-oral-herpes-treatment-sr]] | sr | 재발성/구순 HSV — 국소제는 병변기간만 단축(재발 미감소), 전신 항바이러스제는 재발 예방 |
+| [[oral-medicine/hsv/lv-2025-anti-hsv1-agents-update]] | narrative-review | 항-HSV-1 약리 — 뉴클레오시드 유사체 1차, 내성 시 helicase-primase 억제제 |
 | [[oral-medicine/kechichian-2024-erythema-multiforme-review]] | narrative-review | 다형홍반(EM) — HSV/마이코플라스마 유발. SJS/TEN 감별. 재발형은 억제 항바이러스 1차 |
 | [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] | narrative-review | 구강 만성 GVHD(동종 HCT 30-50%) — 태선양·건조·경화. NIH 2014 기준. 국소→전신 면역억제 |
 | [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] | narrative-review | PFAPA autoinflammatory 주기열 — 재발성 아프타+발열. 편도절제술 효과 |
@@ -216,9 +216,9 @@ OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 �
 - [[oral-medicine/opmd/kumari-2022-opmd-etiology-pathogenesis-transformation]] — OPMD 병인·MT 경로(OED 등급). 축 1 보강. (narrative-review, 2022)
 - [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — 구강 아프타 병태생리·치료 단계. 축 5 RAS 보강. (narrative-review, 2021)
 - [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — PFAPA autoinflammatory 주기열. 축 5·축 7 연결. (narrative-review, 2023)
-- [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — 1차 헤르페스 치은구내염 SR. 축 7 신설 spine. (sr, 2023)
-- [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — 구강 HSV 국소/전신 치료 SR. 축 7 spine. (sr, 2025)
-- [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — 항-HSV-1 약리 업데이트. 축 7 약물 근거. (narrative-review, 2025)
+- [[oral-medicine/hsv/coppola-2023-herpetic-gingivostomatitis-sr]] — 1차 헤르페스 치은구내염 SR. 축 7 신설 spine. (sr, 2023)
+- [[oral-medicine/hsv/mancini-2025-oral-herpes-treatment-sr]] — 구강 HSV 국소/전신 치료 SR. 축 7 spine. (sr, 2025)
+- [[oral-medicine/hsv/lv-2025-anti-hsv1-agents-update]] — 항-HSV-1 약리 업데이트. 축 7 약물 근거. (narrative-review, 2025)
 - [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — 다형홍반(EM) 리뷰. 축 7 spine. (narrative-review, 2024)
 - [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] — 구강 만성 GVHD 미니리뷰. 축 7 spine. (narrative-review, 2022)
 - [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Critical review (J Dent Res 2025, MA backbone): OLP 전신 동반질환 부담 — DM OR 1.64, Hashimoto OR 2.23, celiac OR 18.44, HCV OR 4.09, 우울 OR 6.15. 무증상·암 위험인자 → oral-systemic vigilance. 축 3 OLP에 전신 차원 추가. (narrative-review, 2025)
