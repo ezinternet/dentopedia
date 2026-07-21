@@ -96,4 +96,4 @@ Key finding: both material classes are mechanically viable for posterior occlusa
 - [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — minimally invasive veneer preparation context
 - [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — material properties narrative review
 - [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] — etiology of tooth wear relevant to occlusal veneer indications
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate clinical survival data
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate clinical survival data
