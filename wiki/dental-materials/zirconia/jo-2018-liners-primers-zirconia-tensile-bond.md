@@ -39,4 +39,4 @@ In vitro study comparing silica-based glass-ceramic liners (P-containing and P-f
 ## Related Papers
 - [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]] — Z-Prime Plus vs universal adhesive
 - [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — chemical bonding to cubic zirconia
-- [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — comprehensive bonding review
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — comprehensive bonding review
