@@ -55,4 +55,4 @@ Balanced permuted-block randomization (randomizer.org) in a split-mouth design; 
 
 ## Related Papers
 
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA의 플랫폼스위칭 골보존 효과를 RCT+바이오마커 근거로 보강(reinforce).
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA의 플랫폼스위칭 골보존 효과를 RCT+바이오마커 근거로 보강(reinforce).
