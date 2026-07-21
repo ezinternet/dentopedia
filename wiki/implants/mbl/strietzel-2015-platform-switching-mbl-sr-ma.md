@@ -5,7 +5,7 @@ year: 2015
 date: 2015-01-01
 doi: 10.1111/clr.12339
 source: strietzel-2015-platform-switching-mbl-sr-ma.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/strietzel-2015-platform-switching-mbl-sr-ma.pdf
 pdf_filename: strietzel-2015-platform-switching-mbl-sr-ma.pdf
