@@ -4,7 +4,7 @@ authors: "Chong et al."
 year: 2025
 date: 2026-07-21
 doi: "10.1093/ejo/cjaf017"
-source: "sources/chong-2025-patient-experiences-cat-scoping-review.md"
+source: chong-2025-patient-experiences-cat-scoping-review.md
 category: orthodontics/clear-aligner
 evidence_level: sr
 source_collection: pubmed-text
