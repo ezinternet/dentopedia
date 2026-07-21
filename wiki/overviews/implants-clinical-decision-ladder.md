@@ -138,21 +138,21 @@ Risk Tier 결정
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] | sr-ma (22편) | PS MBL 0.49 vs PM 1.01 mm |
-| [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] | sr-ma | PS MBL 유의 낮음 |
-| [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] | sr-ma (9편) | PS SMD −0.255mm |
-| [[implants/enkling-2013-platform-switching-bone-level-3year-rct]] | RCT 3y | PS 3y MBL 보존 |
-| [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] | RCT 3y | crestal bone 유지 |
-| [[implants/messias-2019-platform-switching-mbl-5year-rct]] | RCT 5y | PS 5y 유지 — 장기 confirmation |
-| [[implants/desai-2013-platform-switching-bone-loss-review]] | narrative | 기전·임상 적용 |
+| [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] | sr-ma (22편) | PS MBL 0.49 vs PM 1.01 mm |
+| [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]] | sr-ma | PS MBL 유의 낮음 |
+| [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] | sr-ma (9편) | PS SMD −0.255mm |
+| [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]] | RCT 3y | PS 3y MBL 보존 |
+| [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] | RCT 3y | crestal bone 유지 |
+| [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] | RCT 5y | PS 5y 유지 — 장기 confirmation |
+| [[implants/mbl/desai-2013-platform-switching-bone-loss-review]] | narrative | 기전·임상 적용 |
 
 ### 2-C. Tissue-level vs Bone-level
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma (5편 n=501) | peri-implantitis 실패 NS but TL RR 0.59 trend |
-| [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL implant bone loss 위험인자 분석 |
-| [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] | narrative | TL vs BL 골소실 종합 |
+| [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL implant bone loss 위험인자 분석 |
+| [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] | narrative | TL vs BL 골소실 종합 |
 
 [확인] TL 보호 trend 있으나 절대 우위 결론 안 됨. **abutment connection type·BBT·biotype**의 효과가 TL/BL 자체보다 큼.
 
@@ -294,7 +294,7 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] | sr-ma | TL vs BL peri-implantitis RR 0.59 trend |
-| [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL bone loss 위험인자 — 자세한 분석 |
+| [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]] | cohort | TL bone loss 위험인자 — 자세한 분석 |
 | [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | nested case-control | early failure 위험인자 |
 | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | sr | radiological bone loss SR |
 
@@ -356,7 +356,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 
 - [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — 7th ITI Consensus (Group 1, 2 underlying systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts worse vertical bone loss and … (consensus, 2023)
 - [[implants/kocak-oztug-2022-analysis-of-biomarkers-and]] — Split-mouth RCT (94 implants, 27 subjects, 12-month): platform-switched implants showed less marginal bone loss (0.51 ± 0.31 mm vs 0.75 ± 0.29 mm … (rct, 2022)
-- [[implants/tajti-2024-less-marginal-bone-loss]] — SR+MA of 8 studies (7 meta-analyzed; bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) … (sr+ma, 2024)
+- [[implants/mbl/tajti-2024-less-marginal-bone-loss]] — SR+MA of 8 studies (7 meta-analyzed; bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) … (sr+ma, 2024)
 
 ### 축별 spine·spoke (본문 인용)
 
@@ -384,16 +384,16 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]]
 - [[implants/anitua-2022-short-vs-longer-implants-single-crown]]
 - [[implants/hockova-2025-short-implants-microvascular-free-flaps]]
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]]
-- [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]]
-- [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]]
-- [[implants/enkling-2013-platform-switching-bone-level-3year-rct]]
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]]
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]]
-- [[implants/desai-2013-platform-switching-bone-loss-review]]
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]]
+- [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]]
+- [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]]
+- [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]]
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]]
+- [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]]
+- [[implants/mbl/desai-2013-platform-switching-bone-loss-review]]
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]
-- [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]]
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]]
+- [[implants/mbl/solderer-2025-tissue-level-implant-bone-loss-factors]]
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]]
 - [[implants/seong-2016-external-internal-implant-connection-system]]
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]]
 - [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
