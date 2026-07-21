@@ -44,5 +44,5 @@ Systematic search of existing systematic reviews.
 LD crowns perform excellently at 5 years. Monolithic single-layer LD eliminates veneering-related chipping. Implant-supported LD: comparable outcomes to conventional ceramics.
 
 ## Related Papers
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — related
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — related
 - [[inlay/malament-2021-lithium-disilicate-partial-coverage-109year]] — related
