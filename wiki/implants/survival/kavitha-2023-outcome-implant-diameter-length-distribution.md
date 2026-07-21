@@ -5,7 +5,7 @@ year: 2023
 date: 2023-07-11
 doi: 10.4103/jpbs.jpbs_100_23
 source: kavitha-2023-outcome-implant-diameter-length-distribution.md
-category: [implants]
+category: [implants/survival]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kavitha-2023-outcome-implant-diameter-length-distribution.pdf
 pdf_filename: kavitha-2023-outcome-implant-diameter-length-distribution.pdf
