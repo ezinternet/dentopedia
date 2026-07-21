@@ -1,7 +1,7 @@
 ---
 title: "Salivary and serum inflammatory biomarkers during periodontitis progression and after treatment"
 stem: "teles-2024-salivary-biomarkers-periodontitis-progression"
-source: "sources/teles-2024-salivary-biomarkers-periodontitis-progression.md"
+source: teles-2024-salivary-biomarkers-periodontitis-progression.md
 source_collection: pubmed-abstract
 category: oral-microbiology
 year: 2024
