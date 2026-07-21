@@ -5,7 +5,7 @@ year: 2022
 date: 2022-07-25
 doi: 10.3390/ma15155146
 source: song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
