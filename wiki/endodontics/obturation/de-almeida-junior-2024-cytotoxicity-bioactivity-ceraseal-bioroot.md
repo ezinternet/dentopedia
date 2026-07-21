@@ -5,7 +5,7 @@ year: 2024
 date: 2024-02-22
 doi: 10.1186/s12903-024-04021-2
 source: de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
