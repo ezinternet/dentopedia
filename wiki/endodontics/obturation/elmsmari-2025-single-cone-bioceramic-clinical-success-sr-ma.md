@@ -5,7 +5,7 @@ year: 2025
 date: 2025-09-02
 doi: 10.1016/j.jobcr.2025.08.031
 source: elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
