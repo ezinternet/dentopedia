@@ -138,7 +138,7 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 ## Related Papers
 
 - [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — SR: tilted ≈ axial in survival, MBL, prosthesis, PROMs (foundational equivalence claim).
-- [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — SR+MA: MBL NS at 1 yr; founding evidence for All-on-4; maxilla higher-risk arch.
+- [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — SR+MA: MBL NS at 1 yr; founding evidence for All-on-4; maxilla higher-risk arch.
 - [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA, 3–18 yr: surv 93.91%; modest long-term MBL penalty for tilted (P<.0001).
 - [[implants/murat-2025-all-on-4-implant-angulation-load-direction-fea]] — FEA+RSM: load direction (BL) outranks implant angle; 15° tilt optimal.
 - [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — FEA: stress rises with angle but stays <550 MPa; screw 3.5× framework stress.
