@@ -3785,3 +3785,23 @@ tags: []
 
 ### immediate-implant/esthetic-soft-tissue
 - [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (RCT only, Evid Based Dent 2023;24(2):93, 6 RCTs): 심미부위 즉시식립(IIP) vs 조기식립(EIP) 직접비교 — 수직 골레벨·치은열구탐침깊이 동등(둘 다 P>0.05), 핑크심미점수(PES)는 EIP 유의 우위(P<0.05); 압축형 근거요약 포맷(6 RCT)이라 결론은 지시적 수준 [sr+ma, abstract-only]
+
+## Batch ingest (added 2026-07-22) — 접근와동 설계 + 근관치료 항생제 (13편 중 12편 신규, 1편 중복)
+
+### endodontics/anatomy
+- [[endodontics/anatomy/motiwala-2022-effect-of-different-access]] — 14개 in vitro 연구 메타분석: 보존적 접근강(CEC)이 전통식(TEC)보다 파절저항성 562N 우수 (SUCRA CEC 51.4% > TEC 15.3%)
+- [[endodontics/anatomy/mrinalini-2024-endodontic-access-cavity-design-and]] — 보존적·트러스형 접근이 종래 설계 대비 유의미하게 높은 파절저항강도 (SMD = 2.61, −1.26; p < 0.001)
+- [[endodontics/anatomy/saeed-2021-impact-of-access-cavity]] — 대구치 10개 논문 체계적 고찰: 보존적 접근강(ConsAC) vs 전통적 접근강(TradAC) 파절저항성, 4개 논문만 ConsAC 우월성 입증, 전체적 근거 부족 *(부분 superseded by motiwala-2022)*
+- [[endodontics/anatomy/ballester-2021-current-strategies-for-conservative-endodontic]] — 네 가지 근관접근동 설계 비교(전통/보존/초보존/트러스): 변연능선 보존 시에만 보존적 설계의 파절저항성 우위 (33편 메타분석, 근거 수준 낮음)
+- [[endodontics/anatomy/barbosa-2020-the-influence-of-endodontic-access]] — 보존적·트러스 접근와동은 기계적 형성·미생물 감소·파절저항 어느 항목에서도 전통 직선 접근 대비 우월성 없음 (n=30 in vitro)
+- [[endodontics/anatomy/rover-2020-influence-minimally-invasive-endodontic-access]] — 최소침습 근관 접근법이 충전 공극을 유의미하게 증가 (P < 0.05), 파절강도 무차; 치질 보존 vs. 충전 질 간 임상적 균형 필요 (생체외, n=40 하악 전치)
+- [[endodontics/anatomy/lima-2021-influence-of-ultraconservative-access-cavities]] — 초보존 접근과 전통 접근·XP-endo Shaper/Reciproc 조합 (n=40): UltraAC에서 미성형부위·충전재료 남음 증가, Reciproc에서만 근관편이 증가; 하중용량은 동등
+
+### drug/antibiotics
+- [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — 근관치료 후 19% 환자에게 항생제 투여 (n=1,723, 국립 치과 진료기반 연구, PBRN), 진료지침 미준수 현황 문서화
+- [[drug/antibiotics/segura-egea-2016-antibiotics-in-endodontics-a-review]] — 근관치료 항생제 처방 리뷰: 불가역성 치수염·국소 농양은 항생제 불필요 (유럽 설문 40~86% 부적절), 아목시실린 1차약, 전신 파급·면역저하 시만 정당화
+- [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — 소아 항생제 처방 부적절성 검토: 2000–2015년 전 지구 소비량 65% 증가, 치과의사 7–11% 기여도, 1/3 부적절, 지침 준수 낮음, 내성균·비만·칸디다·치아결손 연계
+
+### post-and-core
+- [[post-and-core/shah-2021-effect-of-fibre-reinforced-composite-as]] — 체계적 문헌고찰(25개 논문): 섬유보강 복합레진 코어가 근관치료 치아의 파절저항성 증가(건전치 수준 미달); 폴리에틸렌·단섬유형 > 유리섬유형
+- [[post-and-core/selvaraj-2023-fracture-resistance-of-endodontically]] — SR 18 in-vitro 연구: FRC (EverX, Ribbond)가 통상 하이브리드 복합레진 대비 파절저항성 강한 근거 우위 (15/16편); 인레이·파이버포스트 대비 중등도 근거; 엔도크라운 대비 근거 없음
