@@ -12,7 +12,7 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [implant-survival, systemic-disease, smoking, diabetes, sjogren, radiotherapy, antiresorptive, mronj, risk-stratification, amstar-2, umbrella-review, overview]
 source_wiki:
-  - wiki/implants/banerjee-2024-success-rate-dental-implants-smokers.md
+  - wiki/implants/survival/banerjee-2024-success-rate-dental-implants-smokers.md
   - wiki/implants/oliveira-neto-2018-risk-bias-systematic-reviews-smokers.md
   - wiki/implants/zarzar-2023-implants-radiotherapy-head-neck.md
   - wiki/implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant.md
@@ -111,7 +111,7 @@ Narrative cross-cutting synthesis (no new pooling; the sources are themselves um
 
 ## Related Papers
 
-- [[implants/banerjee-2024-success-rate-dental-implants-smokers]] — umbrella; smoking RR/OR ≈1.9–2.9, dose-response ≥10 cig/day
+- [[implants/survival/banerjee-2024-success-rate-dental-implants-smokers]] — umbrella; smoking RR/OR ≈1.9–2.9, dose-response ≥10 cig/day
 - [[implants/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — ROBIS appraisal; 5/6 smoking MAs high/unclear risk of bias
 - [[implants/zarzar-2023-implants-radiotherapy-head-neck]] — umbrella; success 86.2% vs 95.2% irradiated
 - [[implants/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — umbrella; no significant DM failure signal, peri-implantitis trends up
