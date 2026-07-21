@@ -5,7 +5,7 @@ year: 2024
 date: 2024-09-09
 doi: 10.1055/s-0044-1788685
 source: maharti-2024-calcium-silicate-apatite-deposition-ph.md
-category: [endodontics]
+category: [endodontics/obturation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
