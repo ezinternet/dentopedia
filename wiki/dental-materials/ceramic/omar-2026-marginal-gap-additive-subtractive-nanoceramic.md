@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-02
 doi: 10.1186/s12903-026-07710-2
 source: omar-2026-marginal-gap-additive-subtractive-nanoceramic.md
-category: [dental-materials]
+category: [dental-materials/ceramic]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
