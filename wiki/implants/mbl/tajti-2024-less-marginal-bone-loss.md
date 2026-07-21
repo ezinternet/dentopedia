@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1111/prd.12534
 source: tajti-2024-less-marginal-bone-loss.md
-category: [implants]
+category: [implants/mbl]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/tajti-2024-less-marginal-bone-loss.pdf
 pdf_filename: tajti-2024-less-marginal-bone-loss.pdf
