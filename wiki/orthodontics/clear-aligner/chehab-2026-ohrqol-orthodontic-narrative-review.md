@@ -4,7 +4,7 @@ authors: "Chehab et al."
 year: 2026
 date: 2026-07-21
 doi: "10.3390/jcm15082973"
-source: "sources/chehab-2026-ohrqol-orthodontic-narrative-review.md"
+source: chehab-2026-ohrqol-orthodontic-narrative-review.md
 category: orthodontics/clear-aligner
 evidence_level: narrative-review
 source_collection: pubmed-text
