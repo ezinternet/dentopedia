@@ -174,6 +174,40 @@ def assemble_page(data: dict, pdf_filename: str) -> str:
     return "\n".join(fm_lines) + body + "\n"
 
 
+def call_gemini(pdf_path: Path, categories: list[str]) -> dict:
+    """Call Gemini CLI with the PDF and return parsed data dict."""
+    import subprocess, re
+
+    cat_list = "\n".join(f"- {c}" for c in categories)
+    prompt = (
+        SYSTEM_PROMPT
+        + f"\n\nAllowed `category` values (pick exactly one, verbatim):\n{cat_list}"
+        + "\n\nReturn your answer as a JSON object with these exact keys: "
+        "stem, title, authors, year, doi, category, body_markdown. "
+        "Wrap the JSON in a ```json ... ``` code fence so it can be parsed. "
+        "Do NOT include any text outside the code fence."
+        f"\n\n@{pdf_path.resolve()}"
+    )
+
+    print(f"→ reading {pdf_path.name} with Gemini CLI ...", file=sys.stderr)
+    result = subprocess.run(
+        ["gemini", "-p", prompt],
+        capture_output=True, text=True, timeout=300,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"gemini CLI error:\n{result.stderr[:1000]}")
+
+    raw = result.stdout
+    # extract JSON from ```json ... ``` fence
+    m = re.search(r"```json\s*([\s\S]+?)\s*```", raw)
+    if not m:
+        # fallback: try bare JSON object
+        m = re.search(r"(\{[\s\S]+\})", raw)
+    if not m:
+        raise RuntimeError(f"Could not find JSON in Gemini output:\n{raw[:500]}")
+    return json.loads(m.group(1))
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(
         description="Generate a sources/{stem}.md draft from a research PDF.",
@@ -188,6 +222,8 @@ def main() -> int:
     ap.add_argument("--max-tokens", type=int, default=16000)
     ap.add_argument("--force", action="store_true",
                     help="Overwrite the output file if it already exists")
+    ap.add_argument("--gemini", action="store_true",
+                    help="Use Gemini CLI instead of Claude API (saves Anthropic tokens)")
     args = ap.parse_args()
 
     pdf_path = Path(args.pdf).expanduser()
@@ -200,12 +236,6 @@ def main() -> int:
               "Split it or use the Files API.", file=sys.stderr)
         return 1
 
-    try:
-        import anthropic
-    except ImportError:
-        print("error: pip install anthropic", file=sys.stderr)
-        return 1
-
     categories = discover_categories()
     if not categories:
         print(f"error: no categories found under {WIKI}", file=sys.stderr)
@@ -213,6 +243,43 @@ def main() -> int:
     if args.category and args.category not in categories:
         print(f"warning: '{args.category}' is not an existing wiki category",
               file=sys.stderr)
+
+    # ── Gemini path ──────────────────────────────────────────────────────────
+    if args.gemini:
+        try:
+            data = call_gemini(pdf_path, categories)
+        except Exception as e:
+            print(f"error: {e}", file=sys.stderr)
+            return 1
+        if args.category:
+            data["category"] = args.category
+        elif data.get("category") not in categories:
+            print(f"warning: model chose category '{data.get('category')}' which is not "
+                  "an existing wiki folder — confirm before ingesting.", file=sys.stderr)
+        stem = data["stem"]
+        pdf_filename = f"{stem}.pdf"
+        page = assemble_page(data, pdf_filename)
+        if args.stdout:
+            print(page)
+            _print_next_steps(stem, data["category"], pdf_path, to_stderr=True)
+            return 0
+        out = Path(args.out).expanduser() if args.out else SOURCES / f"{stem}.md"
+        if out.exists() and not args.force:
+            print(f"error: {out} already exists. Use --force to overwrite.",
+                  file=sys.stderr)
+            return 1
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(page, encoding="utf-8")
+        print(f"✓ wrote {out}", file=sys.stderr)
+        _print_next_steps(stem, data["category"], pdf_path, to_stderr=True)
+        return 0
+
+    # ── Claude path (original) ───────────────────────────────────────────────
+    try:
+        import anthropic
+    except ImportError:
+        print("error: pip install anthropic", file=sys.stderr)
+        return 1
 
     pdf_b64 = base64.standard_b64encode(pdf_path.read_bytes()).decode("ascii")
 
