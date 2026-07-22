@@ -24,7 +24,7 @@ tags:
   - pain-pharmacology
 relations:
   - type: extended_by
-    target: "[[endodontics/caviedes-bucheli-2025-endogenous-opioid-orthodontic-pain]]"
+    target: "[[endodontics/caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic]]"
     note: "2025 IEJ paper by same group extends neuropeptide framework to opioid system in orthodontic pain"
   - type: extended_by
     target: "[[endodontics/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]]"
@@ -78,5 +78,5 @@ This 2008 review represents the foundational reference for the same group's subs
 
 ## Relations
 
-- Extended by [[endodontics/caviedes-bucheli-2025-endogenous-opioid-orthodontic-pain]] — same group, extends framework to opioid system in orthodontic pain context
+- Extended by [[endodontics/caviedes-bucheli-2025-opioid-system-orthodontic-neurogenic]] — same group, extends framework to opioid system in orthodontic pain context
 - Extended by [[endodontics/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]] — focused 2026 review of NPY, one neuropeptide covered in this foundational paper
