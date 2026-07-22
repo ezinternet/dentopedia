@@ -16,7 +16,7 @@ pdf_filename: "caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf"
 
 ## Why Ingested
 
-Foundational 2008 narrative review by Caviedes-Bucheli et al. — the earliest anchor paper in the series that this same group extended in 2025 (endogenous opioid system in orthodontic pain) and 2026 (Neuropeptide Y in dental pulp) IEJ reviews. Establishes the evidence base for five key neuropeptides (SP, CGRP, NKA, NPY, VIP) in dental pulp physiology, neurogenic inflammation, and periapical pathology. Essential for contextualizing the later papers' mechanistic claims. **Abstract-only: full text requires login; extracted from abstract + reference list.**
+Foundational 2008 narrative review by Caviedes-Bucheli et al. — the earliest anchor paper in the series that this same group extended in 2025 (endogenous opioid system in orthodontic pain) and 2026 (Neuropeptide Y in dental pulp) IEJ reviews. Establishes the evidence base for five key neuropeptides (SP, CGRP, NKA, NPY, VIP) in dental pulp physiology, neurogenic inflammation, and periapical pathology. Essential for contextualizing the later papers' mechanistic claims. **Abstract-only: full text requires login; extracted from abstract + reference list.** See [[endodontics/caviedes-bucheli-2026-neuropeptide-y-dental-pulp]].
 
 ## Paper Type
 
