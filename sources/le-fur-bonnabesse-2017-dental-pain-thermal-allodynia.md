@@ -1,7 +1,7 @@
 # Le Fur-Bonnabesse 2017 — Dental Pain Induced by Ambient Thermal Differential
 
 ## Why Ingested
-Narrative review proposing a pathophysiological mechanism for an underrecognized form of dental pain — thermal allodynia triggered by cold-to-warm ambient temperature gradient — distinct from classical dentin hypersensitivity. Clinically relevant because patients are frequently misdiagnosed and standard DH treatments fail.
+Narrative review proposing a pathophysiological mechanism for an underrecognized form of dental pain — thermal allodynia triggered by cold-to-warm ambient temperature gradient — distinct from classical dentin hypersensitivity. Clinically relevant because patients are frequently misdiagnosed and standard DH treatments fail. See [[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]].
 
 ## Bibliographic Information
 - **Authors**: Anaïs Le Fur-Bonnabesse, Céline Bodéré, Cyrielle Hélou, Valérie Chevalier, Jean-Paul Goulet
