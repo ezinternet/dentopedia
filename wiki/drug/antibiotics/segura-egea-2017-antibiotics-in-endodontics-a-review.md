@@ -4,11 +4,11 @@ authors: J. J. Segura-Egea, K. Gould, B. Hakan Şen, P. Jonasson, E. Cotti, A. M
 year: 2017
 date: 2017-01-01
 doi: 10.1111/iej.12741
-source: segura-egea-2016-antibiotics-in-endodontics-a-review.md
+source: segura-egea-2017-antibiotics-in-endodontics-a-review.md
 category: drug/antibiotics
 evidence_level: narrative-review
-pdf_path: /Users/oracleneo/llm-wiki/papers/segura-egea-2016-antibiotics-in-endodontics-a-review.pdf
-pdf_filename: segura-egea-2016-antibiotics-in-endodontics-a-review.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/segura-egea-2017-antibiotics-in-endodontics-a-review.pdf
+pdf_filename: segura-egea-2017-antibiotics-in-endodontics-a-review.pdf
 source_collection: external
 tags: [antibiotics, endodontics, antibiotic-stewardship, amoxicillin, clindamycin, apical-abscess, prescribing-patterns, antibiotic-resistance]
 ---
