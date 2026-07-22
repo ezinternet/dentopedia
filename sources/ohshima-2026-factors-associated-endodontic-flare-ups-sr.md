@@ -14,7 +14,7 @@ year: 2026
 doi: "10.1111/iej.70164"
 category: endodontics
 evidence_level: sr-ma
-source_collection: pubmed
+source_collection: pubmed-abstract
 full_text: false
 pmid: "42026978"
 pdf_path: N/A
