@@ -3799,7 +3799,7 @@ tags: []
 
 ### drug/antibiotics
 - [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — 근관치료 후 19% 환자에게 항생제 투여 (n=1,723, 국립 치과 진료기반 연구, PBRN), 진료지침 미준수 현황 문서화
-- [[drug/antibiotics/segura-egea-2016-antibiotics-in-endodontics-a-review]] — 근관치료 항생제 처방 리뷰: 불가역성 치수염·국소 농양은 항생제 불필요 (유럽 설문 40~86% 부적절), 아목시실린 1차약, 전신 파급·면역저하 시만 정당화
+- [[drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review]] — 근관치료 항생제 처방 리뷰: 불가역성 치수염·국소 농양은 항생제 불필요 (유럽 설문 40~86% 부적절), 아목시실린 1차약, 전신 파급·면역저하 시만 정당화
 - [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — 소아 항생제 처방 부적절성 검토: 2000–2015년 전 지구 소비량 65% 증가, 치과의사 7–11% 기여도, 1/3 부적절, 지침 준수 낮음, 내성균·비만·칸디다·치아결손 연계
 
 ### post-and-core
