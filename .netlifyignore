@@ -1,0 +1,6 @@
+# 원본 PDF 파일 — 빌드에 불필요, 3GB 이상
+papers/
+
+# Quartz 소스 (빌드 결과물은 quartz/public/에 생성됨)
+quartz/node_modules/
+quartz/.quartz-cache/
