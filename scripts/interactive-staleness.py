@@ -91,7 +91,16 @@ COSMETIC_SUBJECT_RE = re.compile(
     # relations 스코프면 예외 없이 typed-edge(frontmatter relations: 리스트)만 건드리고
     # 도구가 인용하는 본문 임상 수치는 안 바뀐다. docs(relations):/fix(relations):/
     # feat(relations):/refactor(relations): 전부 해당 (2026-07-17/18 재라벨링 12건이 계기).
-    r"|^(docs|fix|feat|refactor)\(relations\):)",
+    r"|^(docs|fix|feat|refactor)\(relations\):"
+    # wikilink 경로 이관 커밋 — 카테고리 서브폴더 이동(예: dental-materials/ →
+    # dental-materials/ceramic/, implants/ → implants/mbl+survival/) 후 참조 경로만
+    # 일괄 갱신한다. 본문 임상 수치는 한 글자도 안 바뀐다 — 실측: 2026-07-21 스윕의
+    # kasem-2025·moy-2005·laumacher-2025는 각각 1줄(±1), implants-clinical-decision-ladder
+    # 20줄, drug-antibiotic-stewardship-overview 48줄이 전부 [[...]] 또는 frontmatter
+    # source_wiki: 경로였다. 이 스윕이 도구 4개를 가짜 STALE로 밀어 추가(2026-07-23).
+    r"|^fix\(links\):"
+    r"|update [\w/+-]* ?wikilinks?\b"
+    r"|wikilink paths?\b)",
     re.IGNORECASE,
 )
 
