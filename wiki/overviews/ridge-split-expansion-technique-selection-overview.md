@@ -32,6 +32,7 @@ source: synthesis
 > - 상악 vs 하악: 상악은 점탄성·낮은 피질밀도(D2–D4)로 분할이 더 예측 가능, 하악(D1–D2)은 두꺼운 피질로 녹색골절(greenstick fracture) 제어가 어려워 협측분절 완전골절(malfracture) 위험 → 하악 치밀골은 **2단계 또는 지연식립** 권장(Lin 2023).
 > - 2단계 고전 해법(Enislidis 2006): 1차 협측 피질골절단(corticotomy)으로 골절선을 미리 정하고 40일 치유 후 분할, 협측분절을 골막 유경피판으로 유지 → 6개월 17개 임플란트 전부 안정·부하 성공(소규모 n=5, case-report 수준).
 > - 기구 선택(Manekar 2022 SR+MA): 초음파/피에조(USG)가 골폭 증가 3.40 mm로 전동확장기(Motorized Ridge Expander, MRE) 2.83 mm보다 큼(p<0.0001)이나 생존은 동등(~98%) — USG는 골이동술(osteo-mobilization, 지연식립), MRE는 최소침습 골응축(osteo-condensation, 즉시식립)에 적합. GRADE는 very low.
+> - **같은 가족의 인접 술식 — 치조제 유래 골편 셸(bone shell, Pohl 2023)**: 나이프에지 치조제의 **치관측 분절 자체를 측방으로 이동**시켜 자가 셸로 쓰는 술식(공여부와 수여부가 일치). 심한 전방 하악 수평 위축 5명·20부위에서 치조정 1 mm 아래 **3.6 ± 0.76 mm**, 5 mm 아래 3.4 ± 0.92 mm 증대 — 위 서열의 치조제 분할술(3.66 mm)과 사실상 같은 급이고 골유도재생술(4.04 mm)보다 약간 낮다. 20부위 전부 단계식립 가능 골량 회복, 추가 경조직 이식 필요는 2/20뿐. **가장 큰 술식적 함의: 공여부=수여부이므로 골막이완절개(Periosteal Releasing Incision, PRI)나 판막 전진 없이 일차폐쇄가 가능**했다고 보고 — 판막 장력 문제 자체를 우회한다. 단 **초록 수준 근거·n=5/20·대조군 없음**으로 위 SR+MA들과 같은 무게로 읽으면 안 된다. [확인(수치)/미검증(비교 우열)]
 > - OD 보조 분할(Guner 2025 후향, n=268): OD가 분할 맥락에서 상악·하악구치부 ISQ를 유의하게 높이고(전부 ISQ ≥65 달성) 골폭 증대는 동등 — 즉 OD는 폭을 더 늘리진 않아도 저밀도골 1차 안정성을 보강. 단 in-vitro(Chen 2022)는 OD 확장 이득이 좁은 골(6.75 mm)에서만 나타나고 탄성반발로 식립깊이가 얕아지는 trade-off를 보임.
 > - 합병증·안전 경고: 주된 술중 위험은 협측판 골절(buccal plate fracture, 4–10%)·열개(dehiscence)이며 골폭 <3 mm에서 급증(Lin 2023); 과도한 OD 압축은 혈류 감소·발열로 임플란트 실패를 유발할 수 있음(Rizk 2024 RCT 3건 실패, López-Valverde 2025 인용). 임상근거 전반은 비무작위 위주·GRADE 낮음 → 동의서에 근거 수준 명시 권장.
 
@@ -198,3 +199,4 @@ Piezosurgery is the recurring complication-reducer (Abdallaoui 2025 ranks it as 
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — RS 수평증대 증례 (위 SR+MA들이 pool한 technique family의 case-level 예)
 - [[overviews/bone-regeneration-protocol-ladder]] — 골재생 술식 사다리(GBR>RS>OD gain hierarchy를 증대 결정 ladder에 공급)
 - [[overviews/osseodensification-clinical-applications]] — OD 전반 의사결정(narrow-ridge spoke를 본 overview가 보강)
+- [[bone-regeneration/pohl-2023-bone-shell-technique-relocated-crestal]] — 치조제 치관측 분절을 측방 이동시켜 자가 셸로 쓰는 공여부-없는 수평증대(5명·20부위, 3.6 mm gain, PRI·판막전진 불필요); 초록 수준·무대조 — 위 서열의 동급 후보이나 근거 무게는 낮음
