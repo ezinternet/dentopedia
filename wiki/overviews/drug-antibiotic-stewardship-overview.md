@@ -6,25 +6,25 @@ date: 2026-06-19
 category: [overviews]
 tags: [antibiotic, stewardship, prophylaxis, infective-endocarditis, third-molar, implant, AMR, amoxicillin, clindamycin, doxycycline, periodontics, sinus-lift, overview]
 source_papers:
-  - drug/wilson-2021-ie-prophylaxis-aha-scientific-statement
-  - drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma
-  - drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures
-  - drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr
-  - drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr
-  - drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma
-  - drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma
-  - drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists
-  - drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review
-  - drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set
-  - drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey
-  - drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia
-  - drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation
-  - drug/botelho-2025-antibiotics-periodontal-treatment-umbrella
-  - drug/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr
-  - drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella
-  - drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr
-  - drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr
-  - drug/rajan-2025-doxycycline-safety-children-dental-sr
+  - drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement
+  - drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma
+  - drug/antibiotics/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures
+  - drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr
+  - drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr
+  - drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma
+  - drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma
+  - drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists
+  - drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review
+  - drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set
+  - drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey
+  - drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia
+  - drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation
+  - drug/antibiotics/botelho-2025-antibiotics-periodontal-treatment-umbrella
+  - drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr
+  - drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella
+  - drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr
+  - drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr
+  - drug/antibiotics/rajan-2025-doxycycline-safety-children-dental-sr
   - periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct
   - periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct
   - drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review
@@ -339,53 +339,53 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 
 ### 신규 추가 (2026-06)
 
-- [[drug/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Narrative review: odontogenic infection/pain affects >43% of pregnant women (narrative-review, 2022)
-- [[drug/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Retrospective ED case-control (n=36): no documented disulfiram-like reaction in any metronidazole patient (retrospective, 2023)
-- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — Focused literature review (11 studies): evidence does not strongly support clinically significant disulfiram-like reaction (narrative-review, 2026)
-- [[drug/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Umbrella review (44 SR, 221 MA): systemic abx CAL gain 0.3–0.4 mm but overall evidence "weak"; stewardship call for mild-moderate periodontitis (sr+ma, 2025)
-- [[drug/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — SR in pediatric CHD: bacteremia reduction OR 0.24 (I²=0%); IE prevention evidence very low GRADE; daily oral hygiene optimization reduces cumulative bacteremia more (sr, 2025)
-- [[drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Umbrella review (7 SR/MA, 18,900+ pts): pre-op Amoxicillin 2g reduces SSI; post-op extension not recommended; high-risk scenarios only (sr+ma, 2025)
-- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — SR+MA (23 studies): audit+feedback reduces inappropriate prescribing 70%; digital CDS most effective (sr+ma, 2025)
-- [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Scoping review (125 studies): perioperative ≤24h sufficient for OMFS; extended courses increase SSI risk (sr, 2025)
-- [[drug/rajan-2025-doxycycline-safety-children-dental-sr]] — SR+MA (5 studies, n=162 <8y): tooth staining 0.62% (premature infant only); supports cautious doxycycline use in children for life-threatening indications (sr+ma, 2025)
+- [[drug/antibiotics/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Narrative review: odontogenic infection/pain affects >43% of pregnant women (narrative-review, 2022)
+- [[drug/antibiotics/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Retrospective ED case-control (n=36): no documented disulfiram-like reaction in any metronidazole patient (retrospective, 2023)
+- [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — Focused literature review (11 studies): evidence does not strongly support clinically significant disulfiram-like reaction (narrative-review, 2026)
+- [[drug/antibiotics/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Umbrella review (44 SR, 221 MA): systemic abx CAL gain 0.3–0.4 mm but overall evidence "weak"; stewardship call for mild-moderate periodontitis (sr+ma, 2025)
+- [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — SR in pediatric CHD: bacteremia reduction OR 0.24 (I²=0%); IE prevention evidence very low GRADE; daily oral hygiene optimization reduces cumulative bacteremia more (sr, 2025)
+- [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Umbrella review (7 SR/MA, 18,900+ pts): pre-op Amoxicillin 2g reduces SSI; post-op extension not recommended; high-risk scenarios only (sr+ma, 2025)
+- [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — SR+MA (23 studies): audit+feedback reduces inappropriate prescribing 70%; digital CDS most effective (sr+ma, 2025)
+- [[drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Scoping review (125 studies): perioperative ≤24h sufficient for OMFS; extended courses increase SSI risk (sr, 2025)
+- [[drug/antibiotics/rajan-2025-doxycycline-safety-children-dental-sr]] — SR+MA (5 studies, n=162 <8y): tooth staining 0.62% (premature infant only); supports cautious doxycycline use in children for life-threatening indications (sr+ma, 2025)
 - [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — RCT (n=38): local piperacillin+tazobactam equivalent to systemic amoxicillin+metronidazole at 6 months; prefer local to minimize systemic AMR (rct, 2025)
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — RCT (n=60): BOOST local DOX 2 weeks pre-MIST → CAL 4.1 vs 3.2 mm, COM 83.3% vs 46.7% (NNT=2.73); repositions local antimicrobials as pre-surgical optimization tool (rct, 2025)
 
 ### IE Prophylaxis (1차 근거)
-- [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — 2021 AHA, 2007 가이드라인 유지
-- [[drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — JAMA Cardiol SR-MA, n=1.15M
+- [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — 2021 AHA, 2007 가이드라인 유지
+- [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — JAMA Cardiol SR-MA, n=1.15M
 
 ### 처치별 SR
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane 단순 발치 prophylaxis
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — 매복 third molar
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 prophylaxis
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane 단순 발치 prophylaxis
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — 매복 third molar
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 prophylaxis
 
 ### 치주치료·국소 항생제
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — BOOST local DOX pre-MIST RCT
 - [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Local vs systemic perio RCT
-- [[drug/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Umbrella review systemic abx in perio
+- [[drug/antibiotics/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Umbrella review systemic abx in perio
 
 ### 상악동·구강외과
-- [[drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — 상악동거상술 umbrella review
-- [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — 구강악안면외과 전반
+- [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — 상악동거상술 umbrella review
+- [[drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — 구강악안면외과 전반
 
 ### 과잉처방·Stewardship 중재
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — AP 과잉처방
-- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Stewardship 중재 효과 SR+MA
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — AP 과잉처방
+- [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Stewardship 중재 효과 SR+MA
 
 ### 약물 안전성·선택
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS 7년 부작용·치명률
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices 종합
-- [[drug/rajan-2025-doxycycline-safety-children-dental-sr]] — 소아 독시사이클린 치아 착색 SR+MA
-- [[drug/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — 구강안면감염 744명 10년 후향: amox-clav 내성 4.9% 최저, 경험적 1차 선택 근거 (retrospective, 2024)
-- [[drug/chunduri-2012-bacterial-spectrum-orofacial-infections]] — 구강안면감염 68명 감수성: amox-clav 우수·erythromycin 무용성, Vavro의 초기·독립 지역 reinforce (cross-sectional, 2012)
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS 7년 부작용·치명률
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — Best practices 종합
+- [[drug/antibiotics/rajan-2025-doxycycline-safety-children-dental-sr]] — 소아 독시사이클린 치아 착색 SR+MA
+- [[drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — 구강안면감염 744명 10년 후향: amox-clav 내성 4.9% 최저, 경험적 1차 선택 근거 (retrospective, 2024)
+- [[drug/antibiotics/chunduri-2012-bacterial-spectrum-orofacial-infections]] — 구강안면감염 68명 감수성: amox-clav 우수·erythromycin 무용성, Vavro의 초기·독립 지역 reinforce (cross-sectional, 2012)
 
 ### Stewardship·처방 행태
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — Delphi core outcome set
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — 이탈리아 행태 조사
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 10년 추세
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Karolinska restrictive 평가
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 적응증 narrowing narrative
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — Delphi core outcome set
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — 이탈리아 행태 조사
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 10년 추세
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Karolinska restrictive 평가
+- [[drug/antibiotics/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 적응증 narrowing narrative
 
 ### 인접 overview
 - [[drug-antibiotic-odontogenic-pain-overview]] — **자매 오버뷰**: 치수·근단 통증 및 치성감염 항생제 (SIP/AP/AAA/치관주위염/근관치료 후/소아/임플란트 NNT=143)
