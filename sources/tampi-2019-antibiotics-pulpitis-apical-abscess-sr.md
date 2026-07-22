@@ -35,7 +35,7 @@ ADA 2019 CPG(Lockhart 2019) 동반 SR+MA: 기존 코크란 리뷰 2편 갱신 �
 
 ## Why Ingested
 
-Companion evidence synthesis paper to Lockhart 2019 (ADA CPG, DOI 10.1016/j.adaj.2019.08.020). While Lockhart 2019 states the recommendations, Tampi 2019 is the underlying SR+MA that documents the full evidence base, GRADE evidence profiles, forest plots, and harm data that justify those recommendations. Together these two papers form the complete ADA 2019 antibiotic stewardship pair.
+Companion evidence synthesis paper to Lockhart 2019 (ADA CPG, DOI 10.1016/j.adaj.2019.08.020). While Lockhart 2019 states the recommendations, Tampi 2019 is the underlying SR+MA that documents the full evidence base, GRADE evidence profiles, forest plots, and harm data that justify those recommendations. Together these two papers form the complete ADA 2019 antibiotic stewardship pair. See [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]].
 
 ## Objectives
 
