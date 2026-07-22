@@ -17,7 +17,7 @@ A personal knowledge base of dental research papers, following [Karpathy's LLM W
 **Canonical publish URL** (single source — every hard-coded absolute URL references THIS; if the deploy domain changes, change it here and grep for the old host):
 
 ```
-PUBLISH_BASE = https://dentopedia.netlify.app
+PUBLISH_BASE = https://ezinternet.github.io/dentopedia
 ```
 
 ---
