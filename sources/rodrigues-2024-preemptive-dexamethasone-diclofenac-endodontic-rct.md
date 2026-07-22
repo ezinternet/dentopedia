@@ -6,7 +6,7 @@ doi: 10.1111/iej.14030
 pmid: "38279778"
 category: drug/analgesics
 evidence_level: rct
-source_collection: pubmed
+source_collection: pubmed-abstract
 full_text: false
 pdf_path: N/A
 pdf_filename: N/A
