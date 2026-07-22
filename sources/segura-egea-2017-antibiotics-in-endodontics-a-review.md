@@ -4,8 +4,8 @@ authors: J. J. Segura-Egea, K. Gould, B. Hakan Şen, P. Jonasson, E. Cotti, A. M
 year: 2017
 doi: 10.1111/iej.12741
 category: drug/antibiotics
-pdf_path: /Users/oracleneo/llm-wiki/papers/segura-egea-2016-antibiotics-in-endodontics-a-review.pdf
-pdf_filename: segura-egea-2016-antibiotics-in-endodontics-a-review.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/segura-egea-2017-antibiotics-in-endodontics-a-review.pdf
+pdf_filename: segura-egea-2017-antibiotics-in-endodontics-a-review.pdf
 source_collection: external
 ---
 
