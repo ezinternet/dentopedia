@@ -10,6 +10,10 @@ evidence_level: narrative-review
 stem: ye-2021-glia-orofacial-pain-progress-directions
 ---
 
+## Why Ingested
+
+Narrative review covering glial cell contributions to orofacial pain across four conditions — migraine/headache, TMD, dental pulp injury, and HNC pain. Provides the mechanistic framework (SGC connexin 43, p38MAPK, glutamine synthetase) that connects peripheral sensitization at the trigeminal ganglion to central sensitization, essential context for understanding why endodontic pain can persist beyond the pulp. See [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]].
+
 ## Three-line Summary
 
 Narrative review of glial cell (Schwann cells, satellite glial cells, microglia, astrocytes) contributions to orofacial pain in four conditions: migraine/headache, TMD, dental pulp injury, and head and neck cancer pain. Peripheral glia (SGCs, Schwann cells) modulate trigeminal ganglion neuronal excitability via connexins, pro-inflammatory cytokines (IL-1β, PGE2), and gap junctions; central glia (microglia, astrocytes) drive sensitization in the trigeminal nucleus. Key therapeutic targets include connexin 43, COX-2/PGE2 axis, p38MAPK in microglia, and glutamine synthetase in astrocytes.
