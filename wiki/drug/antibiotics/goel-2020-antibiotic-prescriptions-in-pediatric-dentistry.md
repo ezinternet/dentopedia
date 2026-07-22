@@ -92,4 +92,4 @@ This narrative review synthesizes literature from 2000–2019 on antibiotic pres
 4. Right **Duration** — shortest effective course
 
 ## Related Papers
-- [[drug/antibiotics/segura-egea-2016-antibiotics-in-endodontics-a-review]] — broader endodontic antibiotic use review providing adult-practice context this pediatric review extends
+- [[drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review]] — broader endodontic antibiotic use review providing adult-practice context this pediatric review extends
