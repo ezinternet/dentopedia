@@ -8,7 +8,6 @@ category: drug/analgesics
 evidence_level: rct
 source: "Journal of Endodontics"
 source_collection: pubmed-abstract
-superseded_by: null
 date: 2019-05-01
 tags:
   - corticosteroid
