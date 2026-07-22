@@ -12,6 +12,9 @@ source_wiki:
   - wiki/periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.md
   - wiki/periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma.md
   - wiki/periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct.md
+  - wiki/periodontics/mendoca-2024-probiotics-nspt-nma.md
+  - wiki/periodontics/benavides-reyes-2025-probiotics-periodontitis-ma.md
+  - wiki/periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma.md
 category: [periodontics]
 evidence_level: synthesis
 tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment, subgingival-irrigation, clean-and-seal, NaOCl, hyaluronic-acid]
@@ -54,6 +57,8 @@ Chemical subgingival irrigation adds no benefit over water/saline (da Silveira 2
 
 The best-available evidence (2017 NMA, 9 adjuncts, 61 RCTs) establishes a ceiling effect: no adjunct to SRP is superior to any other for clinical attachment gain, and the collective increment is modest (~0.3 mm). Within this landscape, 2026 double-blind RCTs show that specific probiotic combinations (Lactobacillus PB01 + Enterococcus EB10) reliably reduce BoP and deep pockets as NSPT adjuncts through a documented microbiome-remodelling mechanism — but leave CAL unchanged. Dual-light aPDT (405+810 nm) offers an additional plaque-control pathway in patients where mechanical access is limited, though evidence remains pilot-level. Clinicians should frame adjunct selection around achievable targets (BoP and pocket count rather than attachment) and patient-specific barriers to mechanical self-care.
 
+**2026-07-23 update — the pooled tier now confirms the ceiling.** Two meta-analyses added since this page was written (Mendonça 2024, 33 RCTs; Benavides-Reyes 2025, 24 RCTs) agree that probiotics reduce bleeding and plaque and do not produce CAL gain, and disagree on probing depth in a way that tracks methodology rather than biology — the star-network NMA reports PPD MD 1.48 mm while the direct pairwise MA finds PPD non-significant overall. The conservative read is that pocket-depth benefit is transient at best. Separately, Srinivasan 2025 (25 studies) supplies the first pooled aPDT evidence on this page, in **peri-implantitis**, showing real 3-month gains in BOP/PD/PI/crestal bone loss that are not sustained at longer follow-up. Neither addition overturns the thesis; both sharpen it.
+
 ## The Adjunct Landscape — Context from NMA
 
 John et al. (2017) performed a star-shaped frequentist network meta-analysis reusing the 2015 ADA Clinical Practice Guideline's primary RCT library: 61 RCTs, 74 SRP+adjunct vs SRP-alone comparisons, 9 adjuncts (systemic antimicrobials, sub-antimicrobial doxycycline [SDD], chlorhexidine chips, doxycycline hyclate gel, minocycline microspheres, diode-laser PDT, diode laser non-PDT, Nd:YAG laser, erbium laser). The Guideline had compared each adjunct only against SRP alone, never head-to-head; this NMA generated 36 indirect comparisons.
@@ -63,6 +68,24 @@ John et al. (2017) performed a star-shaped frequentist network meta-analysis reu
 **Benchmark implication**: any new adjunct RCT (probiotic, aPDT, or other) should be interpreted against this ~0.3 mm ceiling and with the knowledge that surpassing the ceiling on CAL is unlikely. Reframing to patient-relevant outcomes — BoP resolution, pocket count reduction, patient-reported outcomes — may be more appropriate.
 
 See [[periodontics/john-2017-network-meta-analysis-studies-included]].
+
+## The Pooled Probiotic Tier — Two Meta-Analyses That Disagree, and Why
+
+Two 2024–2025 pooled syntheses now sit above the individual RCTs below, and they do not agree on probing depth. Reading the disagreement is more informative than either paper alone.
+
+**Mendonça 2024** — network meta-analysis, 33 RCTs, 1,290 patients, probiotic strains as adjuncts to professional mechanical plaque removal (PMPR). Short-term probing pocket depth (PPD) reduction with SRP + *Lactobacillus* reached **MD 1.48 mm (95% CI 1.24–1.72)**. Long-term benefit persisted only with *L. reuteri* (**MD 0.80 mm, 95% CI 0.30–1.29, p=0.0016** beyond 3 months). Therapy duration ≤1 month appeared sufficient. Critically, **evidence certainty was very low for 92% of comparisons** — the network is star-shaped with only **9% direct evidence**, the same topological weakness as John 2017.
+
+**Benavides-Reyes 2025** — conventional pairwise meta-analysis, 24 RCTs, 951 participants (14 periodontitis, 10 gingivitis). In periodontitis, plaque index (**SMD −0.35, p=0.001**) and bleeding on probing (**SMD −0.32, p=0.021**) were significantly reduced, but **PPD was non-significant overall**. Effects were time-dependent: the PI benefit was larger at >8 weeks, the BOP benefit confined to ≤12 weeks, and PPD reached significance *only* in ≤12-week studies (SMD −0.42, p=0.019). In gingivitis, **no parameter reached significance** (I²=94–96%). Overall GRADE quality: low.
+
+### Reconciling them
+
+1. **The disagreement tracks methodology, not biology.** [미검증] Mendonça's 1.48 mm sits roughly five times above the ~0.3 mm adjunct ceiling that John 2017 established across 61 RCTs. That magnitude is implausible for an adjunct on top of adequate SRP, and it arises from a network in which 91% of comparisons are indirect. Benavides-Reyes, pooling direct comparisons only, finds no overall PPD effect. When an indirect star network and a direct pairwise analysis diverge this far on the same question, the direct estimate is the more conservative read.
+2. **Where they agree is the durable finding.** [확인] Both report benefit on the inflammation/plaque axis — Mendonça on BOP, Benavides-Reyes on PI and BOP. Neither demonstrates clinical attachment level (CAL) gain. This reproduces exactly what the individual RCTs below show (Kim 2026: BoP p=0.03, CAL not significant) and exactly what the ceiling predicts.
+3. **The benefit is transient.** [확인] Benavides-Reyes found BOP significance confined to ≤12-week follow-up and PPD significance only within that window; Mendonça found long-term persistence for *L. reuteri* alone. Both point to an effect that requires ongoing dosing rather than producing a durable ecological reset.
+4. **Strain matters more than the class.** [확인] *L. reuteri* was the only strain retaining long-term benefit in Mendonça's ranking. Generalizing from one product to "probiotics" is not supported.
+5. **Gingivitis is not periodontitis here.** [확인] Benavides-Reyes found nothing significant in gingivitis with extreme heterogeneity (I²=94–96%) — the periodontitis signal should not be extended to gingivitis management.
+
+**Practical synthesis**: probiotics move bleeding and plaque, do not move attachment, and probably do not durably move pocket depth. Prescribe against BOP targets, dose continuously if used, prefer *L. reuteri* where a strain choice exists, and disregard the 1.48 mm figure as a planning number.
 
 ## Probiotics as NSPT Adjunct
 
@@ -138,6 +161,23 @@ See [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]].
 
 The John 2017 NMA included diode-laser PDT as one of its nine adjuncts and ranked it second by SUCRA — but this referred to in-office delivery devices (typically single wavelength, applied by clinician). The Gusseva 2026 protocol extends this toward home-use, daily self-administration, which is a fundamentally different delivery model with different adherence and cost implications.
 
+### aPDT for Peri-implantitis — the Pooled Evidence (Srinivasan 2025)
+
+The strongest aPDT evidence on this page is not in periodontitis but in **peri-implantitis**. Srinivasan 2025 pooled 25 studies of PDT as an adjunct to non-surgical mechanical debridement (MD) around implants and found that at **3 months**, MD+PDT beat MD alone on every primary clinical measure:
+
+| Outcome at 3 months | Effect (SMD) | p |
+|---|---|---|
+| Bleeding on probing (BOP) | 0.90 | 0.005 |
+| Probing depth (PD) | 1.15 | <0.0001 |
+| Plaque index (PI) | 0.74 | 0.0004 |
+| Crestal bone loss (CBL) | 0.38 | 0.04 |
+
+Benefits were **less pronounced for CAL, mucosal recession, and inflammatory biomarkers**, and — the decisive limitation — **no significant additional advantage was maintained at extended follow-up**. The adjunct effect is short-term and site-specific rather than sustained.
+
+**Why this matters for the page's structure**: the periodontitis aPDT evidence here is a 30-patient crossover pilot in healthy adults using plaque as the outcome. The peri-implant evidence is 25 pooled studies with hard clinical endpoints including crestal bone loss. Clinicians should not read the peri-implantitis result as validating home-use aPDT in periodontitis — different population, different delivery, different endpoint — but it does establish that clinician-applied aPDT can produce measurable short-term clinical gain where mechanical access is genuinely compromised, which is exactly the access-limited profile the section above identifies as the candidate group.
+
+**Clinical framing**: a 3-month window of improved BOP/PD/CBL after MD+PDT is a *retreatment-interval* benefit, not a cure. Plan re-evaluation at 3 months and expect the differential to fade; do not present PDT as a substitute for surgical management of established peri-implantitis. This complements [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]], the Cochrane review that flagged the peri-implantitis evidence gap Srinivasan 2025 now partially fills.
+
 ## Subgingival Irrigation & Local "Clean and Seal" Adjuncts
 
 The probiotic and aPDT data above target the biofilm or microbiome ecology. A separate adjunct family acts at the moment of instrumentation itself — delivering a chemical agent into the pocket during scaling or re-instrumentation. Two 2026 studies bracket this family and, read together, deliver a sharp lesson: **delivery mode, not agent identity, governs whether a local chemical adjunct works.**
@@ -184,6 +224,9 @@ The contrast is the synthesis point. A passive chemical *irrigation* (da Silveir
 | Paper | Adjunct | n | Design | Primary Outcome | Key Result | Confidence |
 |---|---|---|---|---|---|---|
 | John 2017 | 9 adjuncts (NMA) | 61 RCTs | SR+MA (NMA) | CAL gain vs SRP alone | ~0.3–0.35 mm; no adjunct superior to another | sr+ma |
+| Mendonça 2024 | Probiotic strains + PMPR (NMA) | 33 RCTs (1290) | SR+MA (NMA) | PPD/CAL/BOP | Short-term PPD MD 1.48 mm; long-term only *L. reuteri* MD 0.80 mm (p=0.0016); ≤1 month sufficient — **very low certainty in 92% of comparisons, 9% direct evidence** | sr+ma |
+| Benavides-Reyes 2025 | Probiotics + periodontal therapy | 24 RCTs (951) | SR+MA | PI/BOP/PPD | Periodontitis: PI SMD −0.35 (p=0.001), BOP SMD −0.32 (p=0.021), **PPD non-significant overall**; gingivitis nothing significant (I²=94–96%); GRADE low | sr+ma |
+| Srinivasan 2025 | aPDT + non-surgical MD (peri-implantitis) | 25 studies | SR+MA | BOP/PD/PI/CBL at 3 mo | BOP SMD 0.90 (p=0.005), PD 1.15 (p<0.0001), PI 0.74 (p=0.0004), CBL 0.38 (p=0.04); **no advantage sustained at extended follow-up** | sr+ma |
 | Kim (Lundtorp-Olsen) 2026 | Lactobacillus PB01 + Enterococcus EB10 + NSPT | 80 (61 completed) | Double-blind RCT | Subgingival microbiota abundance | BoP% p=0.03; PPD ≥5 mm p=0.01; CAL NS | rct |
 | Jeon 2026 | OraCMU (probiotic tablets, standalone) | 80 | Double-blind RCT | Gingival index (GI) | GI −0.19 vs −0.08 (p=.035); BOP −7.74 vs −2.82 (p=.030) | rct |
 | Gusseva 2026 | Dual-light aPDT (405+810 nm + ICG) | 30 | Crossover pilot RCT | Plaque (Greene-Vermillion) | −21.2% aPDT vs −6.5% conventional (p=0.0001) | rct |
@@ -221,8 +264,11 @@ The contrast is the synthesis point. A passive chemical *irrigation* (da Silveir
 
 | Goal | First-line adjunct | Evidence level | Notes |
 |---|---|---|---|
-| Reduce BoP after NSPT | Probiotics (Lactobacillus + Enterococcus) | rct (n=80) | 12-week course; no CAL benefit |
-| Reduce residual deep pockets (PPD ≥5 mm) | Probiotics adjunct to NSPT | rct (n=80) | PPD count, not depth magnitude |
+| Reduce BoP after NSPT | Probiotics (*L. reuteri* preferred; Lactobacillus + Enterococcus evidenced) | sr+ma (24 RCTs) + rct (n=80) | Continuous dosing; benefit confined to ≤12 weeks; no CAL benefit |
+| Reduce plaque index after NSPT | Probiotics | sr+ma (24 RCTs) | SMD −0.35; benefit larger at >8 weeks |
+| Reduce residual deep pockets (PPD ≥5 mm) | Probiotics adjunct to NSPT | rct (n=80); **pooled PPD evidence conflicting** | PPD count, not depth magnitude; do not plan around Mendonça's 1.48 mm |
+| Short-term control of peri-implantitis where access is limited | Clinician-applied aPDT + mechanical debridement | sr+ma (25 studies) | BOP/PD/PI/CBL gain at 3 months only; not sustained; not a surgical substitute |
+| Gingivitis (any parameter) | No probiotic support | sr+ma (10 RCTs) | Nothing significant, I²=94–96% — do not extend the periodontitis signal |
 | CAL gain | Doxycycline hyclate gel or systemic antimicrobials | sr+ma NMA | ~0.3 mm; no head-to-head winner |
 | Plaque control where mechanical access limited | Dual-light aPDT (home use) | pilot rct (n=30) | Hypothesis-generating only |
 | Overall adjunct choice | No single adjunct dominant | sr+ma NMA | Cost, access, patient preference govern |
@@ -275,3 +321,6 @@ See [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]]
 - [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — mechanical plaque control baseline; pediatric electric vs manual RCT
 - [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — chemical-agent subgingival irrigation SR+MA (16 RCTs); null vs water/saline, reaffirms NMA ceiling and antimicrobial stewardship against routine irrigation
 - [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — "clean and seal" (AA-NaOCl + cross-linked HA) adjunct to SRI in maintenance; positive ~0.5 mm PD / 0.57 mm CAL gain, doubled pocket closure — delivery-mode counterpoint to da Silveira's null irrigation
+- [[periodontics/mendoca-2024-probiotics-nspt-nma]] — network MA of 33 RCTs (1290 patients) ranking probiotic strains as PMPR adjuncts; *L. reuteri* the only strain with long-term benefit; very low certainty in 92% of comparisons due to star topology (9% direct evidence)
+- [[periodontics/benavides-reyes-2025-probiotics-periodontitis-ma]] — pairwise MA of 24 RCTs (951 participants); periodontitis PI and BOP significant, PPD non-significant overall, effects time-dependent; gingivitis null with I²=94–96% — the conservative counterweight to Mendonça's PPD estimate
+- [[periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — SR+MA of 25 studies on aPDT adjunct to non-surgical debridement in peri-implantitis; significant 3-month BOP/PD/PI/CBL gains that do not persist at extended follow-up; partially fills the Cochrane-identified peri-implantitis gap
