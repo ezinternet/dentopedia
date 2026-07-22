@@ -388,6 +388,7 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 적응증 narrowing narrative
 
 ### 인접 overview
+- [[drug-antibiotic-odontogenic-pain-overview]] — **자매 오버뷰**: 치수·근단 통증 및 치성감염 항생제 (SIP/AP/AAA/치관주위염/근관치료 후/소아/임플란트 NNT=143)
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브
 - [[drug-mronj-antiresorptive-overview]] — IV BP·Antiangiogenic prophylaxis
 - [[oral-surgery-decision-ladder]] — 외과적 처치 결정
