@@ -253,3 +253,4 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-07-21 | --stem | other | --type abstract-only --note PMC full text body empty (PMC12422387). Abstract-only ingest. Angle Orthod. |
 | 2026-07-21 | pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison | abstract-only | No PMC full text; abstract-only. PMID 39412467, AJO-DO paywalled. |
 | 2026-07-21 | garcia-marin-2025-clear-aligner-molar-mesiodistal-sr | abstract-only | PMC body empty (PMC12422387). Abstract-only. Angle Orthod. |
+| 2026-07-22 | saeed-2021-impact-of-access-cavity | supersession-judgment | Motiwala 2022 (14-study NMA, SUCRA ranking) likely supersedes this 10-study SR; both cover CEC vs TEC fracture resistance in molars, but NMA provides methodologically superior evidence and definitive SUCRA ranking (CEC=51.4%, TEC=15.3%). Recommend marking Saeed 2021 as superseded_by:motiwala-2022-effect-of-different-access (full scope). |
