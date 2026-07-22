@@ -1,5 +1,5 @@
 ---
-title: "개원치과 처방 종결자 — chairside 처방 레퍼런스 인터랙티브"
+title: "쓸 것인가, 말 것인가 — 치과 처방 결정 레퍼런스 인터랙티브"
 type: agenda
 date: 2026-07-22
 status: done
