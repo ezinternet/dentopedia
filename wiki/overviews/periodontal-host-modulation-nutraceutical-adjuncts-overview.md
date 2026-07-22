@@ -84,6 +84,11 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 - **Aimetti 2025** (triple-blind RCT, n=60, stage III/IV): local doxycycline 2 weeks before MIST + EMD + xenograft (BOOST) → CAL gain 4.1 vs 3.2 mm (p=0.019), composite success 83.3% vs 46.7% (NNT=2.73), radiographic bone fill 3.5 vs 2.7 mm at 1 year.
 - **Interpretation:** the one cluster member with a clinically meaningful effect — but it is an MMP-modulating antibiotic deployed inside a regenerative-surgical protocol, the opposite of a standalone supplement. It anchors the "host modulation works *when integrated with definitive therapy*" end of the spectrum. (Systemic sub-antimicrobial-dose doxycycline / Periostat is the textbook HMT agent and shares this MMP-inhibition mechanism.)
 
+### 7. Vitamin D (bone-anabolic / immunomodulatory) — the only agent here with a documented *upper* threshold
+- **Duarte 2025** (narrative review, SANRA, PubMed-only): vitamin D deficiency is consistently associated with impaired osseointegration, reduced bone-to-implant contact (BIC), and accelerated marginal bone loss (MBL). Mechanistically, calcitriol upregulates RUNX2, ALP, osteopontin (OPN), and osteocalcin (OCN) in periodontal ligament and peri-implant cells, suppresses RANKL/TNF-α/IL-1 signaling, and enhances mineral nodule formation. Both systemic supplementation and topical implant-surface coating are documented strategies.
+- **The threshold finding**: hypervitaminosis D (**>70 ng/mL**) was associated with a **21.1-fold increase in peri-implant bone loss**. This makes vitamin D the only agent in this cluster where the dose–response is explicitly non-monotonic — more is not better, and the harm signal sits above the deficiency signal in clinical consequence.
+- **Interpretation:** the evidence base is predominantly **preclinical** (animal and in vitro) with only limited clinical studies, no standardized dosing protocol, and unknown behavior in diabetes, osteoporosis, or other systemic comorbidities. The practical takeaway is asymmetric: **correcting documented deficiency is defensible; supplementing to high-normal or above is not**, and the U-shape means "just take vitamin D for your implants" is affirmatively bad advice. Where a patient is already supplementing, a serum 25(OH)D level is the relevant check before implant surgery — not a reflexive dose increase. [확인(수치)/미검증(임상 인과)]
+
 ## Decision Framework
 
 | Adjunct | Best evidence | Effect size | Certainty | Practical stance |
@@ -96,6 +101,8 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 | Melatonin 3 mg/night (T2DM only) | SR+MA, 3 RCT (Angelopoulou 2026) | PPD SMD −1.99, CAL SMD −1.49, HbA1c SMD −1.15 | **low** | T2DM-specific exploratory signal; not standard |
 | ASU | animal (Oliveira 2024) | bone-loss reduction | preclinical | Hypothesis-generating only |
 | Local doxycycline + regen surgery | RCT (Aimetti 2025) | CAL +0.9 mm, NNT 2.73 | moderate | Meaningful — but surgical/regenerative context |
+| Vitamin D — correcting deficiency | narrative review (Duarte 2025) | impaired BIC/MBL when deficient | preclinical-dominant | Correct documented deficiency before implant surgery |
+| Vitamin D — supplementing above normal | narrative review (Duarte 2025) | **>70 ng/mL → 21.1× peri-implant bone loss** | preclinical-dominant | **Do not** push high-dose; check 25(OH)D if already supplementing |
 
 **Clinical rule of thumb:** Foundation = SRP/PMPR (± regenerative surgery for deep intrabony defects). Supplements (omega-3, CoQ10, antioxidant vitamins, ASU) are optional, low-yield add-ons — counsel honestly that benefit is sub-millimeter and certainty weak. If host modulation is genuinely pursued for advanced disease, the evidence points to MMP-targeting drugs integrated with definitive (often surgical) therapy, not to consumer nutraceuticals.
 
@@ -108,6 +115,7 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 - [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
 - [[periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
+- [[periodontics/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
 
 ## Related Overviews
 - [[periodontal-adjunctive-therapy-probiotics-pdt-overview]] — local/microbiome adjuncts (probiotics, aPDT)
