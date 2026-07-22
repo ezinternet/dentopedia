@@ -16,12 +16,12 @@ source: synthesis
 > - 근관 접근와동(access cavity) 설계 결정 트리 — 세 전략 TEC(전통 직선 접근, Traditional Endodontic Cavity)·MIA(최소침습 접근, Minimally Invasive Access)·유도 근관치료(Guided Endodontics)의 적응증·근거·한계를 정리.
 > - 결론 한 줄: 정상 해부 → TEC 표준 / 보존 MIA는 근거 불충분 → TEC 대체 불가 / 석회화(PCO)·복잡 해부 → 유도 근관치료(정적 SN 또는 동적 DN).
 > - TEC 원칙: 치수강 지붕 + 경부 상아질 돌출 제거 후 직선 진입(straight-line access) — 회전 NiTi 기구 원활·세정액 균등 침투·근관 형성 예측 가능.
-> - MIA(닌자 와동·트러스 와동)는 치관 구조 보존이 목표이나, 파절 저항성 향상 근거가 상충·불확실하고 임상 RCT 없음; 오히려 잔류 debris↑·근관구 탐지↓·천공 위험↑(Kapetanaki 2021, Dioguardi 2024) → 숙련 술자의 단순 단근관 케이스에서만 선택적.
+> - MIA(닌자 와동·트러스 와동)는 치관 구조 보존이 목표이나, 파절 저항성 이득은 **조건부**다 — 변연능선(marginal ridge)이 모두 온전할 때만 유의하고 1개라도 소실되면 소멸(Ballester 2021); 임상 RCT는 여전히 없고 잔류 debris↑·근관구 탐지↓·천공 위험↑(Kapetanaki 2021, Dioguardi 2024) → 숙련 술자의 단순 단근관 케이스에서만 선택적. 생역학 근거 전체는 → [[overviews/conservative-access-cavity-biomechanics-overview]]
 > - 유도 근관치료 적응증: 근관강 석회화(Pulp Canal Obliteration, PCO)·근관구 비가시·MB2·변이 해부(C-shape, dens invaginatus)·경험 부족 술자.
 > - 정적(Static, SN, CBCT→3D 프린팅 템플릿) vs 동적(Dynamic, DN, 실시간 추적): SN은 예측 가능 해부·중간 비용, DN은 술중 경로 수정 가능·고비용·가파른 학습곡선·변이 해부에 적합(Ribeiro 2022, 63편).
 > - 탐지 실패 시 백업: GP point 삽입 후 술중 CBCT 촬영 → 3D 거리 계산 → 초음파 삭제(Floratos 2017, 3증례 모두 천공 없이 성공, 증례 수준 근거).
 > - 결정 트리: ①해부 복잡도 평가(PA + 필요시 CBCT) → 단순이면 TEC 직선 접근 / 복잡이면 CBCT 처방 후 유도 근관치료(SN 또는 DN) → 탐지 실패 시 술중 CBCT → 여전히 실패면 범위 문서화·환자 설명·전문의 의뢰.
-> - 근거 수준: TEC 확립(기초+임상), ConsAC debris/탐지 저하는 낮음(scoping 10편 이질성↑), MIA 파절 저항 향상은 낮음·불확실, 유도 근관치료는 전도유망하나 RCT 부재(주로 in vitro·증례).
+> - 근거 수준: TEC 확립(기초+임상), ConsAC debris/탐지 저하는 낮음(scoping 10편 이질성↑), MIA 파절 저항 이득은 조건부(변연능선 온전 시에만; 근거는 전부 in vitro), 유도 근관치료는 전도유망하나 RCT 부재(주로 in vitro·증례).
 
 ## Three-line Summary
 
@@ -57,7 +57,7 @@ Evidence levels: TEC — established (basic + clinical); MIA fracture resistance
 | **기구 파절 위험** | 낮음 | **높음** (굴곡 증가) | 낮음 |
 | **의원성 천공** | 낮음 | 증가 (시야 제한) | 매우 낮음 |
 | **치아 구조 보존** | 표준 | 최대 보존 | 선택적 보존 |
-| **파절 저항성** | 표준 | 상충 근거 (일부 향상, 일부 무관) | 유지 |
+| **파절 저항성** | 표준 | **조건부 향상** (변연능선 온전 시에만; 능선 소실 시 이득 소멸) | 유지 |
 | **적응증** | 정상 해부, 모든 경우 | 단순 단근관치 | PCO, 석회화, 복잡 해부 |
 | **근거 수준** | 확립됨 | **불충분** | 신흥 (전도유망, RCT 부재) |
 
@@ -98,11 +98,15 @@ Evidence levels: TEC — established (basic + clinical); MIA fracture resistance
 ### 근거 현황 (2021 기준)
 | 주장 | 근거 | 결론 |
 |---|---|---|
-| 치아 파절 저항성 향상 | 상충 (일부 향상, 일부 무관) | 불확실 |
+| 치아 파절 저항성 향상 | 조건부 — 변연능선 2개 온전 시 유의(Ballester 2021); 풀링 MA 2편도 이득 보고(Motiwala 2022 SUCRA 51.4% vs 15.3%; Mrinalini 2024 SMD 2.61) | 조건부 인정 (전부 in vitro) |
 | 근관 치료 성공률 동등 | 임상 RCT 없음 | 미검증 |
 | 의원성 합병증 감소 | 없음; 오히려 증가 가능 | 부정적 |
 
 > **결론**: MIA는 이론적으로 매력적이지만 임상 근거가 부족하여 **TEC를 대체할 수 없다** (Kapetanaki 2021). 경험 많은 술자가 단순 단근관 케이스에서 선택적으로 적용 가능.
+
+> [!warning] 2026-07-23 갱신 — 파절저항 항목은 "근거 없음"이 아니라 "조건부"로 정정됨
+> 위 표의 2021년 판정 이후 축적된 근거(NMA 1편·MA 2편·통제 체외연구 3편)는 다른 그림을 그린다: 파절저항 이득은 **변연능선이 모두 온전할 때만** 유의하고 1개라도 소실되면 소멸한다(Ballester 2021, 33편). 반면 미형성 근관면·충전 공극 증가라는 **대가는 조건 없이 재현**된다(Barbosa 2020, Lima 2021, Rover 2020). 임상 RCT가 없다는 사실만 2021년과 동일하다.
+> 전체 논증·수치·근거 한계 → [[overviews/conservative-access-cavity-biomechanics-overview]]
 
 ---
 
@@ -192,7 +196,8 @@ TEC 표준        CBCT 처방 (술전 3D 파악)
 | MB2 의심 (상악 제1대구치) | TEC 기반, MB2 탐지 단계 추가 | 확립 |
 | PCO (석회화 근관) | 유도 근관치료 (SN 또는 DN) | 전도유망 |
 | 극심 석회화, 도구 실패 | 술중 CBCT (Floratos protocol) | 증례 수준 |
-| 단순 케이스, 숙련 술자 | MIA 선택 가능 (단, 근거 제한) | 불충분 |
+| 단순 케이스, 숙련 술자, **변연능선 2개 온전 + DOM·초음파 보유** | MIA 선택 가능 | 조건부 (전부 in vitro) |
+| 변연능선 1개 이상 이미 소실 | **MIA 명분 소멸 → TEC로 시야 확보** | 조건부 (Ballester 2021) |
 
 ---
 
@@ -202,7 +207,10 @@ TEC 표준        CBCT 처방 (술전 3D 파악)
 |---|---|---|
 | TEC: 직선 접근이 기구 조작·세정 우수 | 확립 (기초 + 임상) | Kapetanaki 2021 |
 | ConsAC: debris 증가, 근관구 탐지 저하 | 낮음 (scoping, 10편, 이질성↑) | Dioguardi 2024 |
-| MIA: 파절 저항성 향상 근거 없음 | 낮음–불확실 | Kapetanaki 2021 |
+| MIA: 파절 저항성 이득은 변연능선 온전 시에만 유의 | 중간 (MA 33편, 전부 in vitro) | Ballester 2021 |
+| MIA: 풀링 순위·효과크기에서 CEC > TEC | 낮음–중간 (NMA/MA, 전부 in vitro) | Motiwala 2022, Mrinalini 2024 |
+| MIA: 미형성 근관면·충전 공극 증가 (무조건부 대가) | 낮음 (in vitro 3편, 방향 일치) | Barbosa 2020, Lima 2021, Rover 2020 |
+| ConsAC: DOM+초음파 없으면 근관 미발견률 유의 증가 | 중간 (MA 33편) | Ballester 2021 |
 | 유도 근관치료: PCO에서 정밀·안전 | 낮음 (주로 in vitro·증례) | Ribeiro 2022 |
 | 술중 CBCT: 석회화 근관 위치 확인 | 매우 낮음 (3증례) | Floratos 2017 |
 
@@ -215,3 +223,4 @@ TEC 표준        CBCT 처방 (술전 3D 파악)
 - [[endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping]] — ConsAC vs TradAC: 잔류 debris·근관구 탐지 scoping review
 - [[endodontics/anatomy/floratos-2017-intraoperative-cbct-calcified-canals]] — 술중 CBCT GP point protocol (3증례)
 - [[overviews/mb2-detection-strategy]] — MB2 탐지 전략 (본 결정 트리의 Step 2 상세)
+- [[overviews/conservative-access-cavity-biomechanics-overview]] — 보존적 접근와동의 생역학 근거 종합(논문 9편): 파절저항 이득의 조건부성(변연능선)·무조건부 대가·수복 레버. 본 결정 트리의 근거층
