@@ -82,7 +82,5 @@ This international multiauthor narrative review, produced by a European Endodont
 
 ## Related Papers
 
-- [[drug/antibiotics/shamszadeh-2020-prophylactic-antibiotics-endodontics]] — systematic review + meta-analysis (8 RCTs, n=690) directly reinforces this review: prophylactic oral antibiotics do NOT reduce postoperative pain/swelling after endodontic treatment in adults with pulpal necrosis
-- [[drug/antibiotics/antibiotics-after-non-surgical-root-canals-nwrn]] — US practice-based research network findings on antibiotic prescribing after non-surgical root canals; complements European prescribing survey data reported here
-- [[drug/antibiotics/antibiotic-prescriptions-in-pediatric-dentistry-a-review]] — pediatric-specific prescribing review; extends the stewardship framework to the pediatric population not covered in this adult-focused review
-- [[drug/antibiotics/segura-egea-2018-worldwide-pattern-of-antibiotic-prescription]] — follow-up global prescribing survey by the same lead author; extends geographic scope beyond the European surveys collated in this 2016/2017 review
+- [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — US practice-based research network findings on antibiotic prescribing after non-surgical root canals; complements European prescribing survey data reported here
+- [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — pediatric-specific prescribing review; extends the stewardship framework to the pediatric population not covered in this adult-focused review
