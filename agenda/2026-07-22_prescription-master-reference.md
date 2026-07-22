@@ -6,6 +6,22 @@ status: done
 owner: 원장
 priority: P1
 tags: [drug, antibiotics, analgesics, prescription, chairside, interactive]
+source_wiki:
+  - wiki/overviews/drug-clinical-decision-ladder.md
+  - wiki/overviews/drug-antibiotic-odontogenic-pain-overview.md
+  - wiki/overviews/drug-antibiotic-stewardship-overview.md
+  - wiki/overviews/drug-analgesics-postop-pain-overview.md
+  - wiki/overviews/drug-anticoagulant-antiplatelet-perioperative-overview.md
+  - wiki/overviews/drug-systemic-disease-dental-management-overview.md
+  - wiki/drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella.md
+  - wiki/drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement.md
+  - wiki/drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.md
+  - wiki/oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
+  - wiki/oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations.md
+  - wiki/periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking.md
+  - wiki/periodontics/herrera-2014-acute-periodontal-lesions.md
+output_wiki:
+  - interactives/2026-07-23_dental-rx-evidence-based.html
 ---
 
 # Goal
