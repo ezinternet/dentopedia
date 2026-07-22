@@ -6,7 +6,7 @@ doi: "10.1016/j.joen.2019.01.005"
 pmid: "30910353"
 category: drug/analgesics
 evidence_level: rct
-source_collection: pubmed
+source_collection: pubmed-abstract
 full_text: false
 pdf_path: N/A
 pdf_filename: N/A
