@@ -897,10 +897,37 @@ function render(filter){
   out.querySelectorAll('.copy').forEach(b=>{
     b.onclick=()=>{
       const txt=CARDS[+b.dataset.rx].rx;
-      navigator.clipboard.writeText(txt).then(()=>{
-        b.textContent='복사됨 ✓'; b.classList.add('done');
-        setTimeout(()=>{b.textContent='복사';b.classList.remove('done');},1600);
-      }).catch(()=>{b.textContent='복사 실패';setTimeout(()=>b.textContent='복사',1600);});
+      const pre=b.parentElement.querySelector('pre');
+      const flash=(msg,ok)=>{
+        b.textContent=msg; b.classList.toggle('done',!!ok);
+        setTimeout(()=>{b.textContent='복사';b.classList.remove('done');},2200);
+      };
+      // 3단계: Clipboard API → execCommand → 텍스트 선택(길게 눌러 복사)
+      const legacy=()=>{
+        try{
+          const ta=document.createElement('textarea');
+          ta.value=txt; ta.setAttribute('readonly','');
+          ta.style.cssText='position:fixed;top:-1000px;opacity:0';
+          document.body.appendChild(ta); ta.select(); ta.setSelectionRange(0,txt.length);
+          const ok=document.execCommand('copy'); document.body.removeChild(ta);
+          return ok;
+        }catch(e){ return false; }
+      };
+      const selectText=()=>{
+        // 클립보드가 막힌 브라우저(일부 인앱 브라우저·WebView)에서의 최종 대비책 —
+        // 처방문을 선택 상태로 만들어 길게 눌러 복사할 수 있게 한다.
+        try{
+          const r=document.createRange(); r.selectNodeContents(pre);
+          const s=window.getSelection(); s.removeAllRanges(); s.addRange(r);
+          pre.scrollIntoView({block:'nearest'});
+          return true;
+        }catch(e){ return false; }
+      };
+      const fallback=()=>{ legacy() ? flash('복사됨 ✓',1)
+                                    : flash(selectText()?'길게 눌러 복사':'복사 실패'); };
+      if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(txt).then(()=>flash('복사됨 ✓',1), fallback);
+      } else { fallback(); }
     };
   });
 }
