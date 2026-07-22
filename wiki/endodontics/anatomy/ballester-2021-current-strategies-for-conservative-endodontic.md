@@ -12,9 +12,9 @@ pdf_filename: ballester-2021-current-strategies-for-conservative-endodontic.pdf
 source_collection: external
 tags: [access-cavity, conservative-endodontics, fracture-resistance, canal-detection, systematic-review, meta-analysis, minimally-invasive]
 relations:
-  - target: endodontics/anatomy/rivera-2020-conservative-access-upper-molars
+  - target: endodontics/anatomy/rover-2020-influence-minimally-invasive-endodontic-access
     type: extends
-  - target: endodontics/anatomy/rover-2020-ultraconservative-mandibular-incisors
+  - target: endodontics/anatomy/lima-2021-influence-of-ultraconservative-access-cavities
     type: extends
 ---
 
@@ -84,5 +84,5 @@ This PRISMA-compliant systematic review and meta-analysis synthesized 33 clinica
 
 ## Related Papers
 
-- [[endodontics/anatomy/rivera-2020-conservative-access-upper-molars]] — RCT on conservative vs traditional AC in maxillary molars; individual study subsumed into this meta-analysis framework
-- [[endodontics/anatomy/rover-2020-ultraconservative-mandibular-incisors]] — ultraconservative access cavity effects on mandibular incisors; single-tooth-type study whose findings align with the UltraAC limited-indication conclusion here
+- [[endodontics/anatomy/rover-2020-influence-minimally-invasive-endodontic-access]] — in vitro study on minimally invasive access cavities in mandibular incisors; individual study subsumed into this meta-analysis framework
+- [[endodontics/anatomy/lima-2021-influence-of-ultraconservative-access-cavities]] — ultraconservative access cavity effects on mandibular molars; single-tooth-type study whose findings align with the UltraAC limited-indication conclusion here
