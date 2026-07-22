@@ -29,9 +29,11 @@ tags: [drug, antibiotics, analgesics, prescription, chairside, reference]
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
 <title>개원치과 처방 종결자 — Chairside 처방 레퍼런스</title>
 <style>
   :root{
+    color-scheme:light;   /* OS가 다크여도 밝은 배경 고정 — chairside 조명·인쇄 기준 */
     --bg:#f5f7fa; --panel:#ffffff; --ink:#111827; --ink2:#4b5563; --ink3:#8b94a3;
     --line:#e3e8ef; --line2:#eef2f7;
     --accent:#0f766e; --accent-bg:#ecfdf5;
@@ -40,18 +42,6 @@ tags: [drug, antibiotics, analgesics, prescription, chairside, reference]
     --case:#b45309; --case-bg:#fffbeb; --case-line:#fde68a;
     --never:#be123c;--never-bg:#fff1f2;--never-line:#fecdd3;
     --shadow:0 1px 2px rgba(16,24,40,.05), 0 1px 3px rgba(16,24,40,.06);
-  }
-  @media (prefers-color-scheme: dark){
-    :root{
-      --bg:#0e1116; --panel:#161b22; --ink:#e6edf3; --ink2:#9aa5b1; --ink3:#6b7684;
-      --line:#252c36; --line2:#1e242c;
-      --accent:#2dd4bf; --accent-bg:#0d2a27;
-      --no:#34d399;   --no-bg:#0d2620;   --no-line:#1f5145;
-      --yes:#60a5fa;  --yes-bg:#0f1d33;  --yes-line:#1e3a68;
-      --case:#fbbf24; --case-bg:#2a2110; --case-line:#5a4413;
-      --never:#fb7185;--never-bg:#2b1017;--never-line:#63202c;
-      --shadow:none;
-    }
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html{-webkit-text-size-adjust:100%}
@@ -107,7 +97,6 @@ tags: [drug, antibiotics, analgesics, prescription, chairside, reference]
   }
   .tab:hover{border-color:var(--accent);color:var(--ink)}
   .tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
-  @media (prefers-color-scheme: dark){ .tab.on{color:#08211f} }
 
   /* ---------- cards ---------- */
   .group-title{
