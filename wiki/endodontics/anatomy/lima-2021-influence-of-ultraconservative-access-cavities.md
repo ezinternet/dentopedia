@@ -73,5 +73,5 @@ This in vitro study investigated how ultraconservative versus traditional access
 ## Related Papers
 
 - [[endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping]] — scoping review defining access-cavity classification taxonomy that contextualizes the ultraconservative vs traditional distinction operationalized here
-- [[endodontics/anatomy/barbosa-2020-influence-endodontic-access-cavity-design]] — parallel group publication examining access-cavity design impact on instrumentation efficacy and fracture resistance; shares authorship lineage and overlapping outcomes
-- [[endodontics/anatomy/rover-2020-influence-minimally-invasive-endodontic-access-cavities]] — related in vitro study of minimally invasive access cavities on shaping, filling ability, and fracture resistance in mandibular incisors
+- [[endodontics/anatomy/barbosa-2020-the-influence-of-endodontic-access]] — parallel group publication examining access-cavity design impact on instrumentation efficacy and fracture resistance; shares authorship lineage and overlapping outcomes
+- [[endodontics/anatomy/rover-2020-influence-minimally-invasive-endodontic-access]] — related in vitro study of minimally invasive access cavities on shaping, filling ability, and fracture resistance in mandibular incisors
