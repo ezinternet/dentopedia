@@ -9,7 +9,7 @@ source_papers:
   - drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling
   - drug/antibiotics/tampi-2019-antibiotics-pulpitis-apical-abscess-sr
   - drug/antibiotics/shamszadeh-2020-antibiotics-postoperative-endodontic-symptoms-sr
-  - drug/antibiotics/segura-egea-2016-antibiotics-in-endodontics-a-review
+  - drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review
   - drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections
   - drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry
   - drug/antibiotics/law-2026-antibiotics-after-non-surgical-root
@@ -322,7 +322,7 @@ Patient presents with dental pain, swelling, or odontogenic infection
 - [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — PBRN prospective: 19% post-RCT prescribing, equity gap (prospective, 2026)
 
 ### Endodontic antibiotic framework
-- [[drug/antibiotics/segura-egea-2016-antibiotics-in-endodontics-a-review]] — ESE official narrative review; indication matrix; European 40–86% over-prescribing (narrative-review, 2017)
+- [[drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review]] — ESE official narrative review; indication matrix; European 40–86% over-prescribing (narrative-review, 2017)
 
 ### Acute odontogenic infection
 - [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — empirical antibiotic SR; drainage primary; narrow-spectrum preferred (sr, 2021)
