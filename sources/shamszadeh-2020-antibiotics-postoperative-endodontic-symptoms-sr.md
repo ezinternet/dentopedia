@@ -6,7 +6,7 @@ doi: "10.1111/joor.13057"
 pmid: "32681652"
 category: drug/antibiotics
 evidence_level: sr-ma
-source_collection: pubmed
+source_collection: pubmed-abstract
 full_text: false
 pdf_path: N/A
 pdf_filename: N/A
