@@ -44,6 +44,8 @@ tags: [vertical-ridge-augmentation, gbr, titanium-mesh, ptfe, peek-mesh, collage
 > - **Ti-mesh 골획득량 자체는 안정적**: 수직 ~2.56–4.78 mm(Abu-Mostafa SR), pooled 3.36 mm 수직·3.26 mm 수평(Sabri 2024 SR+MA, 합병증 10.8%) — collagen membrane 대비 수평 비열등. [확인]
 > - **★ 새 축 — 메시 노출이 VRA 결과를 가르는 지배 변수, 그리고 노출률 편차가 극단적(0~78%)**: 일반 3D-print Ti-mesh 77.8%(Soares 2025, 22%는 완전 조기노출→이식 전손실) vs **미세천공 DMLS + 순수 자가골 0%**(Keller 2026), preformed 30%(Jung 2014). 노출 타이밍이 핵심 — 조기(<4주) 노출은 재생 실패, 후기 노출은 경미 손실(Abu-Mostafa). [확인]
 > - **노출 저감 레버 [미검증]**: ①micro-perforation 메시 ②순수 자가골(이종골 비율↓) ③장력 없는 폐쇄 — Keller 0% 사례의 조합. plain 3D-print + 큰 결손은 노출 위험 최고.
+> - **★'장력 없는 폐쇄'가 정량화됨(Zhou 2025, 돼지 하악 60술식 ex vivo)**: 수평 골증대 비함몰(uncontained) 결손에서 **대폭 판막 전진(9.20 mm)이 오히려 더 낮은 장력(0.02 N)** 을 만들고, 그 결과 치조정 이식골 변위가 유의하게 작았다(−35.66% vs 중등도 전진 −44.99%, p<0.001). 반면 **2-pin 막 고정은 어느 레벨에서도 효과가 없었다(p≥0.19)**. 함의: 이식골을 지키는 수정 가능 인자는 **고정핀을 더 박는 것이 아니라 무장력이 될 만큼 충분히 전진시키는 것**이다 — 위 '장력 없는 폐쇄' 레버에 수치 근거가 붙었다. 단 ex vivo·치유기간 없음·수평 증대 모델. [확인]
+> - **판막 축의 방향성이 세 논문에서 일치**: 사전 연조직 확장으로 열개 0/10(Kaner 2017), 골막이완절개(PRI) 없는 개방치유가 열개 8.3% vs PRI군 41.7–50%(Wang 2025), 그리고 무장력 전진이 이식골 보존(Zhou 2025) — **공격적 PRI로 억지로 덮는 전략에서 멀어지는 방향**. 인체 RCT는 여전히 없다. [미검증(종합 해석)]
 > - **collagen membrane 부가는 여전히 효용 논쟁**: mesh 위 CM은 SR에선 골증대·합병증 차이 없음(Yousefi-Koma 2025), RCT에선 수치상 유리하나 비열등성 입증 실패(Cucchi 2021 CAD/CAM ± CM, 합병증 33→13%·재생 74.3→82.3% 모두 numerically favor membrane이나 inconclusive); Urban 2025은 연조직 침투 차단 기전 이점. 결정적이지 않음. [미검증]
 > - **장기(>5y) 데이터 확보**: Wurtz 2026 5년 추적 — CAD/CAM Ti-mesh ≈ tenting screw+흡수성막, 골획득 동등·수술시간 단축(62.4 vs 72.7분)·임플란트 생존 100% → 기존 "Ti-mesh 장기 데이터 부족" 갭 부분 해소. [확인]
 > - **PEEK mesh 대안(Alshikh 2026 RCT, 수평 위주)**: Ti 대비 절대 골부피↑(499 vs 371 mm³)지만 이식골 손실도↑, 비례흡수·노출(7.1 vs 14.3%, NS) 유사 — 수직 우위 근거는 아직 부족. [미검증]
@@ -111,6 +113,7 @@ collagen membrane 부가 효용은 미결(SR 차이 없음 vs RCT 수치상 유�
 | [[implants/vertical-ridge-augmentation/keller-2026-3d-printed-titanium-mesh-autologous-bone]] | retrospective | 16 | DMLS micro-perforated Ti-mesh + 순수 자가골 → **노출 0%**; 계획 vs 실제 CBCT 골증대 통계적 동등 | retrospective |
 | [[implants/vertical-ridge-augmentation/soares-2025-3d-printed-titanium-mesh-volumetric-cbct]] | retrospective | 9 | 3D-print Ti-mesh: 수직 4.8±2.4mm·체적 0.49cm³; **노출 77.8%**, 22.2% 완전 조기노출→이식 전손실 | retrospective |
 | [[implants/vertical-ridge-augmentation/wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr]] | retrospective | 40, 5yr | CAD/CAM Ti-mesh vs tenting screw+흡수성막: 6개월 골획득 동등, 수술시간 단축(62.4 vs 72.7분), 생존 100% | retrospective |
+| [[bone-regeneration/zhou-2025-flap-advancement-bone-graft-displacement]] | animal | 60 procedures / 30 pig hemimandible | **판막 전진량이 아니라 '낮은 장력에서의 전진'이 이식골을 지킨다**: 대폭 전진(FA2) 9.20±0.55mm·장력 0.02±0.01N이 중등도(FA1) 4.42±0.67mm·0.09±0.02N보다 치조정 이식골 변위 유의하게 작음(−35.66% vs −44.99%, p<0.001); **2-pin 막 고정은 전 레벨에서 무효(p≥0.19)** — 고정핀 추가보다 무장력 전진 확보가 수정 가능 인자. ex vivo·치유기간 없음 | animal |
 
 ## Clinical Decision Points
 
