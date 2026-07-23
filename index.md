@@ -2932,7 +2932,7 @@ tags: []
 - [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — Réus et al. 2024 · sr · 임플란트 관련 IAN 신경병성 손상 유병률(0–40%)·관리 SR: 신경측방이동술 후 90%→42% 부담 vs 비이동술 12%→5%; 근거 매우 부족 (J Oral Facial Pain Headache)
 - [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — Juodzbalys et al. 2011 · narrative-review · 임플란트 식립 중 IAN 손상 문헌 고찰: 원인·기전·진단·치료지침; 30–36h 임플란트 제거 기준, 3개월 미세신경수술 결정점
 - [[oral-surgery/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct]] — Ma et al. 2026 · rct · 레이저 침술 vs 직접 PBM vs 가짜치료(n=60): TPD −3.2 vs −2.6 vs −0.8 mm, SWME 85% vs 80% vs 25% 개선, VAS −60% vs −48% vs −12% (808nm, 9J/site×15회)
-- [[oral-surgery/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — Lin 2007 · animal · 은행잎추출물(EGb) 용량반응 rat 좌골신경 절단모델(n=120): 200>100>50 mg/kg/d 순 MNCV·CMAP·축삭지수 향상; SFI는 용량간 차이 없음 (Microsurgery)
+- [[oral-surgery/nerve-injury/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — Lin 2007 · animal · 은행잎추출물(EGb) 용량반응 rat 좌골신경 절단모델(n=120): 200>100>50 mg/kg/d 순 MNCV·CMAP·축삭지수 향상; SFI는 용량간 차이 없음 (Microsurgery)
 - [[oral-surgery/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — Zhang 2020 · animal · 메코발라민 함유 PLCL 신경도관: 15% MeCbl 최적, 21일 서방형 방출, rat 10mm 좌골신경 결손 모델에서 축삭직경·수초두께 최대
 
 ### Orthodontics — miniscrew/TAD

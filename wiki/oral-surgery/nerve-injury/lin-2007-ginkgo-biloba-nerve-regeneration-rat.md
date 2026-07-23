@@ -6,7 +6,7 @@ date: 2007-10-16
 doi: 10.1002/micr.20430
 journal: Microsurgery
 source: lin-2007-ginkgo-biloba-nerve-regeneration-rat.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2007-ginkgo-biloba-nerve-regeneration-rat.pdf
 pdf_filename: lin-2007-ginkgo-biloba-nerve-regeneration-rat.pdf
@@ -67,4 +67,4 @@ The proposed mechanism centers on EGb's multimodal neuroprotective/neuroregenera
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — clinical IAN injury management; this rat study provides preclinical dose rationale for EGb adjunct use
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — clinical IAN injury management; this rat study provides preclinical dose rationale for EGb adjunct use
