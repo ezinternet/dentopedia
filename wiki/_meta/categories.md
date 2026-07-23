@@ -118,7 +118,9 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
+| `oral-surgery` | 구강외과 | Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap). (third molar/wisdom tooth surgery → `oral-surgery/third-molar`; IAN/lingual/trigeminal nerve injury → `oral-surgery/nerve-injury`) |
+| `oral-surgery/third-molar` | 구강외과·제3대구치(사랑니) | Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management) |
+| `oral-surgery/nerve-injury` | 구강외과·신경손상 | Inferior alveolar nerve (IAN) / lingual / trigeminal nerve injury — etiology, diagnosis (CBCT risk assessment, neurosensory testing), management (corticosteroids, vitamin B12, LLLT/photobiomodulation); any cause (third-molar extraction, implant placement, orthognathic surgery); includes peripheral nerve regeneration basic science |
 | `suture-wound-closure` | 봉합·창상폐쇄 | Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps) |
 | `local-anesthesia` | 국소마취·진정 | LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, buffered/preheated LA, N2O & procedural sedation, topical anesthetics, injection landmarks; pregnancy/pediatric LA; supplemental injections for irreversible pulpitis |
 | `dental-trauma` | 외상치학 | Traumatic dental injuries — tooth avulsion & replantation (storage media, root resorption), splinting (rigid vs flexible, duration), luxation injuries & pulp survival, crown/root fracture, mouthguard prevention, IADT guidelines. (REP for traumatized immature teeth also → `endodontics/regenerative`) |
