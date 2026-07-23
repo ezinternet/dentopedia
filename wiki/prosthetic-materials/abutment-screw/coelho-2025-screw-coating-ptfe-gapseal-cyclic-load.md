@@ -7,7 +7,7 @@ doi: 10.3390/ma18122921
 pmid: "40573051"
 pmcid: "PMC12194849"
 source: coelho-2025-screw-coating-ptfe-gapseal-cyclic-load.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/coelho-2025-screw-coating-ptfe-gapseal-cyclic-load.txt
@@ -84,4 +84,4 @@ The null hypothesis (coatings do not affect preload or RTV) was rejected for PTF
 
 ## Related Papers
 
-- [[prosthetic-materials/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] — parent study (same authors, same coatings, nCL only); this paper extends with CL condition
+- [[prosthetic-materials/abutment-screw/coelho-2024-preload-removal-torque-screw-coatings-laboratory]] — parent study (same authors, same coatings, nCL only); this paper extends with CL condition
