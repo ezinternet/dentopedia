@@ -5,7 +5,7 @@ year: 2015
 date: 2015-05-01
 doi: "10.1016/j.prosdent.2014.09.017"
 source: bulaqi-2015-dynamic-nature-abutment-screw-retightening.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
@@ -68,9 +68,9 @@ This finite element study models the **full dynamic life cycle** of an implant a
 
 ## Related Papers
 
-- [[prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes]] — extends: Kim measures settling (axial displacement) and removal-torque change across five connections under static load; this FEA explains the friction/roughness mechanism behind that settling.
-- [[prosthetic-materials/nithyapriya-2018-factors-loss-preload-dental-implants]] — reinforces: provides the quantitative friction/roughness mechanism for the "factors of preload loss" it reviews.
-- [[prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] — relates: dynamic-fatigue preload loss is the in-vitro outcome this simulation rationalizes.
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — relates: abutment subsidence/locking-force in Morse-taper joints is a connection-specific manifestation of settling.
-- [[prosthetic-materials/vinhas-2022-preload-loss-implant-abutment-connection-designs]] — relates: connection-design dependence of preload loss.
-- [[prosthetic-materials/lee-2025-abutment-screw-design-torque-loss-fatigue]] — relates: screw-design effect on torque loss under fatigue.
+- [[prosthetic-materials/abutment-screw/kim-2020-axial-displacements-removal-torque-changes]] — extends: Kim measures settling (axial displacement) and removal-torque change across five connections under static load; this FEA explains the friction/roughness mechanism behind that settling.
+- [[prosthetic-materials/abutment-screw/nithyapriya-2018-factors-loss-preload-dental-implants]] — reinforces: provides the quantitative friction/roughness mechanism for the "factors of preload loss" it reviews.
+- [[prosthetic-materials/abutment-screw/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] — relates: dynamic-fatigue preload loss is the in-vitro outcome this simulation rationalizes.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — relates: abutment subsidence/locking-force in Morse-taper joints is a connection-specific manifestation of settling.
+- [[prosthetic-materials/abutment-screw/vinhas-2022-preload-loss-implant-abutment-connection-designs]] — relates: connection-design dependence of preload loss.
+- [[prosthetic-materials/abutment-screw/lee-2025-abutment-screw-design-torque-loss-fatigue]] — relates: screw-design effect on torque loss under fatigue.
