@@ -5,7 +5,7 @@ year: 2022
 date: 2022-10-26
 doi: 10.1155/2022/1816748
 source: firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -77,7 +77,7 @@ This umbrella review synthesizes evidence from meta-analyses on seven nonpharmac
 
 ## Related Papers
 
-- [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF vs PRP after mandibular third molar extraction; this umbrella review's PRF-derivative ranking gives broader network context to that head-to-head comparison.
-- [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — LLLT for third molar complications; consistent with this review's finding that LLLT is comparatively weak for early pain control.
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — concentrated growth factor (CGF), a PRF-family adjunct not separately ranked here.
-- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF specifically for alveolar osteitis prevention, a related but distinct outcome from pain control.
+- [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF vs PRP after mandibular third molar extraction; this umbrella review's PRF-derivative ranking gives broader network context to that head-to-head comparison.
+- [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — LLLT for third molar complications; consistent with this review's finding that LLLT is comparatively weak for early pain control.
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — concentrated growth factor (CGF), a PRF-family adjunct not separately ranked here.
+- [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF specifically for alveolar osteitis prevention, a related but distinct outcome from pain control.
