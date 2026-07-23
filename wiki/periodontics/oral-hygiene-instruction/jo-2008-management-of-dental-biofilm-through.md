@@ -6,7 +6,7 @@ doi: ""
 date: 2014-01-01
 source: jo-2008-management-of-dental-biofilm-through.md
 evidence_level: narrative-review
-category: periodontics
+category: periodontics/oral-hygiene-instruction
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2008-management-of-dental-biofilm-through.pdf
 pdf_filename: jo-2008-management-of-dental-biofilm-through.pdf
 source_collection: local
@@ -32,7 +32,7 @@ SPT는 수동 전문 청소에서 능동 환자기술 훈련으로 패러다임 
 
 # Management of Dental Biofilm Through Professional Oral Health Care
 
-**Source**: [[periodontics/jo-2008-management-of-dental-biofilm-through]]  
+**Source**: [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]]  
 **Year**: 2014 (Doctoral dissertation) | **Study Type**: Longitudinal clinical study | **Focus**: Plaque control efficacy through professional care
 
 ## Clinical Research Question
@@ -137,4 +137,4 @@ Since patient compliance with home care is make-or-break factor for disease cont
 **Longitudinal Clinical Study (Dissertation Research)** — Doctoral-level rigor with extended observation period; provides evidence for educational intervention efficacy
 
 ---
-**Related**: [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] | Oral hygiene technique and disease control | Patient education methods
+**Related**: [[periodontics/non-surgical-instrumentation/unknown-2009-non-surgical-and-surgical-periodontal]] | Oral hygiene technique and disease control | Patient education methods

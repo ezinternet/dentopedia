@@ -931,7 +931,7 @@ tags: []
 - [[periodontics/miron-2024-autogenous-platelet-concentrates-intrabony-defects]] — Miron 2024 · sr+ma · PRF 골내결손 55 RCT: OFD 대비 PPD 1.27mm·CAL 1.22mm·RBF 1.59mm↑, PRF≈EMD/PRP/graft/membrane, graft+PRF·biomolecule(메트포르민/비스포스포네이트/스타틴) 추가이득 · DOI 10.1111/prd.12598
 - [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] — Barootchi 2024 · sr+ma (NMA, 109 RCT · RT1 치은퇴축 4712 · 3188명): CAF에 더한 APC 중 PRF만 평균 근면피복 +6.12%(p=0.02), PRP·CGF 무의미; baseline KTW 클수록 PRF 효과↑, KTW·GT는 개선 못함 · DOI 10.1111/prd.12614
 - [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — Evidence-based hierarchy: non-surgical therapy primary, surgery adjunctive only; mandatory re-evaluation 4–6 weeks post-SRP before surgical consideration; SPT required indefinitely
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — Professional oral health care demonstrably improves patient's plaque control ability; paradigm shift from passive cleaning to active capability enhancement; baseline assessment guides SPT frequency
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — Professional oral health care demonstrably improves patient's plaque control ability; paradigm shift from passive cleaning to active capability enhancement; baseline assessment guides SPT frequency
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 지침(15개 SR): 1–3기 치주염 단계적 치료(행동변화→SRP±보조→수술→SPT); GRADE 기반 권고
 - [[periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp]] — EFP S3 지침(13개 SR): 4기 치주염 다학제 재활(교정·보철·임플란트) + 집중 SPT; Sanz 2020의 후속 가이드라인
 - [[periodontics/meng-2024-nspt-cardiovascular-risk-markers-sr-ma]] — SR+MA(21개 RCT): 치주 비수술치료 후 CRP·IL-6·SBP 유의 감소; 지질·DBP는 유의미한 변화 없음
