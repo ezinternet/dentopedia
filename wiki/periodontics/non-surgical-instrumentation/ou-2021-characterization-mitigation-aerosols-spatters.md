@@ -5,7 +5,7 @@ year: 2021
 date: 2021-09-16
 doi: 10.1016/j.adaj.2021.06.007
 source: ou-2021-characterization-mitigation-aerosols-spatters.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
