@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-29
 doi: 10.1111/idh.12904
 source: suvan-2025-complex-world-toothpaste-diversity-meeting.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: false
@@ -53,6 +53,6 @@ Umbrella review design following a PRISMA-based quality checklist; electronic se
 
 ## Related Papers
 
-- [[periodontics/valkenburg-2019-plaque-control-dentifrices-evidence]] — SR+MA specifically on dentifrice efficacy for plaque control/gingivitis; this umbrella review extends that scope to five additional oral conditions beyond plaque/gingivitis.
+- [[periodontics/oral-hygiene-instruction/valkenburg-2019-plaque-control-dentifrices-evidence]] — SR+MA specifically on dentifrice efficacy for plaque control/gingivitis; this umbrella review extends that scope to five additional oral conditions beyond plaque/gingivitis.
 - [[caries/chen-2026-root-caries-toothpastes-network-meta-analysis]] — deeper dive into toothpaste efficacy for root caries specifically, one of the six conditions covered here.
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — dentine hypersensitivity management, another of the six conditions this umbrella review addresses.
