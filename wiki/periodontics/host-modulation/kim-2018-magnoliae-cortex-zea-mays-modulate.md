@@ -6,7 +6,7 @@ date: 2018-04-30
 doi: 10.5051/jpis.2018.48.2.70
 journal: J Periodontal Implant Sci 2018;48(2):70-83
 source: kim-2018-magnoliae-cortex-zea-mays-modulate.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2018-magnoliae-cortex-zea-mays-modulate.pdf
 pdf_filename: kim-2018-magnoliae-cortex-zea-mays-modulate.pdf
