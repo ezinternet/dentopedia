@@ -5,7 +5,7 @@ year: 2018
 date: 2018-07-01
 doi: "10.4103/jips.jips_294_17"
 source: nithyapriya-2018-factors-loss-preload-dental-implants.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
@@ -76,5 +76,5 @@ The factors found to cause loss of preload, as enumerated by the paper:
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — reinforces: an in-depth experimental probe of one factor mapped here (Morse-taper abutment-screw insertion torque vs implant-abutment misfit), grounding this review's "torque method / connection type" branch.
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: characterizes Morse-taper abutment subsidence and locking force, a concrete instance of the connection-type and settling-effect mechanisms catalogued here.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — reinforces: an in-depth experimental probe of one factor mapped here (Morse-taper abutment-screw insertion torque vs implant-abutment misfit), grounding this review's "torque method / connection type" branch.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: characterizes Morse-taper abutment subsidence and locking force, a concrete instance of the connection-type and settling-effect mechanisms catalogued here.
