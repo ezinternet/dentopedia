@@ -5,7 +5,7 @@ year: 2021
 date: 2021-06-24
 doi: 10.3390/ijerph18136796
 source: schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations.md
-category: oral-surgery
+category: oral-surgery/third-molar
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
@@ -89,5 +89,5 @@ Pericoronitis is inflammation of pericoronal soft tissue around an incompletely 
 ## Related Papers
 
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — broader SR on antibiotic stewardship in dentistry; Schmidt 2021 provides pericoronitis-specific prescribing data that reinforces the stewardship case
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — third molar surgical indications; Schmidt 2021 applies the NICE pericoronitis extraction guideline (2nd episode threshold) in clinical context
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third molar surgical indications; Schmidt 2021 applies the NICE pericoronitis extraction guideline (2nd episode threshold) in clinical context
 - [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — prophylactic antibiotic SR for third molar extraction; Schmidt 2021 addresses the separate pericoronitis treatment (not prophylaxis) scenario
