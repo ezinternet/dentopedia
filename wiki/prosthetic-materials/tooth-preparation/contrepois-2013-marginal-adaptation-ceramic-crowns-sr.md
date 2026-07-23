@@ -5,7 +5,7 @@ year: 2013
 date: 2013-12-01
 doi: 10.1016/j.prosdent.2013.04.003
 source: contrepois-2013-marginal-adaptation-ceramic-crowns-sr.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/contrepois-2013-marginal-adaptation-ceramic-crowns-sr.pdf
 pdf_filename: contrepois-2013-marginal-adaptation-ceramic-crowns-sr.pdf
@@ -72,7 +72,7 @@ Contrepois and colleagues systematically reviewed marginal-adaptation literature
 ## Related Papers
 
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — prep-geometry synthesis hub; finish-line configuration links marginal adaptation to preparation design
-- [[prosthetic-materials/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — refines its conclusion that finish-line type does not affect marginal fit
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — TOC/seating interaction relevant to marginal adaptation
-- [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — preparation design influence on margin
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — companion JPD SR on preparation geometry/measurement
+- [[prosthetic-materials/tooth-preparation/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — refines its conclusion that finish-line type does not affect marginal fit
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — TOC/seating interaction relevant to marginal adaptation
+- [[prosthetic-materials/tooth-preparation/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — preparation design influence on margin
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — companion JPD SR on preparation geometry/measurement
