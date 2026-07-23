@@ -2948,7 +2948,7 @@ tags: []
 - [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — Contrepois 2013 · sr · 54편/17 세라믹 시스템: 변연간격 94.9% 임상 허용; 적합 4요인(finish line·시멘트공간·veneering·합착) (DOI 10.1016/j.prosdent.2013.04.003)
 - [[prosthetic-materials/lee-2025-screwless-hook-retained-implant-fea]] — Lee 2025 FEA: novel screwless hook-retained (HRP) vs SCRP vs SRP — HRP stress comparable to SRP, lower than SCRP
 - [[prosthetic-materials/abutment-screw/aalaei-2017-segmented-nonsegmented-abutment-fea]] — Aalaei 2017 FEA: segmented vs non-segmented abutment stress — segmented better for peri-implant bone under angular load
-- [[prosthetic-materials/lee-2021-cement-vs-cementless-screw-retained-fea]] — Lee 2021 FEA: cement-retained vs cementless screw-retained zirconia crown — screw-retained shows lower bone/implant stress
+- [[prosthetic-materials/abutment-screw/lee-2021-cement-vs-cementless-screw-retained-fea]] — Lee 2021 FEA: cement-retained vs cementless screw-retained zirconia crown — screw-retained shows lower bone/implant stress
 
 ### Resin bonding — wet-bonding
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — Zhao 2023 · in-vitro · acetone wet-bonding preserved aged bond strength (p<0.05) and suppressed MMP (60 third molars)

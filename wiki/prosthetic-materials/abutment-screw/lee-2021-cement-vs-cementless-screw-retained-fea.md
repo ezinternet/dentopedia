@@ -5,7 +5,7 @@ year: 2021
 date: 2021-05-19
 doi: 10.3390/ma14102666
 source: lee-2021-cement-vs-cementless-screw-retained-fea.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-cement-vs-cementless-screw-retained-fea.pdf
 pdf_filename: lee-2021-cement-vs-cementless-screw-retained-fea.pdf
@@ -76,7 +76,7 @@ Under 100 N vertical and 30° oblique loading, the cementless screw-retained mod
 
 ## Related Papers
 
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — systematic review of clinical outcomes for screw vs cement retention; this FEA provides biomechanical mechanistic data
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA on cement vs screw zirconia crowns; updated clinical evidence for same comparison
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] — FEA study of abutment material effects on stress; complementary FEA approach
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — clinical complications comparison of screw vs cement crowns
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — systematic review of clinical outcomes for screw vs cement retention; this FEA provides biomechanical mechanistic data
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA on cement vs screw zirconia crowns; updated clinical evidence for same comparison
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] — FEA study of abutment material effects on stress; complementary FEA approach
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — clinical complications comparison of screw vs cement crowns
