@@ -90,4 +90,4 @@ For this wiki the page's value is as the **canonical 4-META composition referenc
 - [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — 10-MDP behaviour under saliva contamination; same monomer-chemistry frame.
 - [[overviews/adhesive-bonding-strategies-overview]] — cross-paper synthesis of E&R vs SE strategies that this monomer-chemistry review feeds.
 - [[resin-bonding/kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries]] — sibling Super-Bond page: fillers in 4-META-MMA-TBB resin for root caries (clinical application of the 4-META chemistry detailed here).
-- [[oral-surgery/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — sibling Super-Bond page: 4-META-MMA-TBB resin in vertical-root-fracture bonding/repair.
+- [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — sibling Super-Bond page: 4-META-MMA-TBB resin in vertical-root-fracture bonding/repair.

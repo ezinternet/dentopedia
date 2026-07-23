@@ -68,6 +68,6 @@ HFSEP ≈ SEP ≈ HF (no significant difference, p>0.05). All inferior groups si
 
 ## Related Papers
 
-- [[resin-bonding/radhi-2023-lithium-disilicate-cleaning-resin-cement]] — direct predecessor: LiSi cleaning protocols
-- [[resin-bonding/al-akhali-2025-zirconia-cleaning-bonding-duration]] — parallel topic for zirconia decontamination
+- [[dental-materials/ceramic/radhi-2023-lithium-disilicate-cleaning-resin-cement]] — direct predecessor: LiSi cleaning protocols
+- [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] — parallel topic for zirconia decontamination
 - [[resin-bonding/simasetha-2021-surface-treatment-lithium-disilicate-bond-strength]] — chemical bonding strategies for LiSi
