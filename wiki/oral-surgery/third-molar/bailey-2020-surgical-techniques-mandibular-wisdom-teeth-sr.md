@@ -5,7 +5,7 @@ year: 2020
 date: 2020-07-01
 doi: 10.1002/14651858.CD004345.pub3
 source: bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.pdf
 pdf_filename: bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr.pdf
@@ -60,6 +60,6 @@ Key outcome measures across technique comparisons:
 Evidence certainty generally low; technique differences for most outcomes not definitively established. Lingual nerve protection data available but interpretation limited by trial heterogeneity.
 
 ## Related Papers
-- [[oral-surgery/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — Mandibular fracture as a complication of lower third molar surgery
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis to prevent dry socket after lower third molar extraction
+- [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — Mandibular fracture as a complication of lower third molar surgery
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis to prevent dry socket after lower third molar extraction
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — Complications after simple (non-surgical) exodontia
