@@ -5,7 +5,7 @@ year: 2025
 date: 2025-07-01
 doi: 10.4317/medoral.27125
 source: pena-cardelles-2025-ian-damage-implant-placement-sr-ma.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -94,8 +94,8 @@ Two cautions temper the message. First, the confidence intervals for the risky b
 
 ## Related Papers
 
-- [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — refines its classic ≥2 mm safety margin toward 1 mm with pooled MA data; that review's aetiology/classification (Seddon/Sunderland) and management algorithm remain standalone-valid.
-- [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — reinforces the distance/trauma-dependent IAN neuropathy risk gradient (Réus stratifies by nerve lateralization; this paper by apex-to-canal distance).
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — extends the IAN-position ↔ nerve-injury evidence with explicit distance-band incidence.
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — management of the injuries this paper quantifies.
+- [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — refines its classic ≥2 mm safety margin toward 1 mm with pooled MA data; that review's aetiology/classification (Seddon/Sunderland) and management algorithm remain standalone-valid.
+- [[oral-surgery/nerve-injury/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — reinforces the distance/trauma-dependent IAN neuropathy risk gradient (Réus stratifies by nerve lateralization; this paper by apex-to-canal distance).
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — extends the IAN-position ↔ nerve-injury evidence with explicit distance-band incidence.
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — management of the injuries this paper quantifies.
 - [[overviews/ian-nerve-injury-management-overview]] — synthesis page whose safety-distance/prevention branch this updates.
