@@ -5,7 +5,7 @@ year: 2026
 date: 2026-03-12
 doi: 10.1177/1096620X261430298
 source: jeon-2026-probioticcmu-gingivitis-rct.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false
@@ -69,5 +69,5 @@ According to PubMed ([DOI 10.1177/1096620X261430298](https://doi.org/10.1177/109
 
 ## Related Papers
 
-- [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — sibling 2026 double-blind probiotic RCT, but as an *adjunct to non-surgical periodontal therapy*; reinforces the probiotic-for-periodontal-inflammation signal, with this Jeon trial adding a standalone-supplement design in milder disease.
+- [[periodontics/host-modulation/kim-2026-probiotics-nspt-periodontal-db-rct]] — sibling 2026 double-blind probiotic RCT, but as an *adjunct to non-surgical periodontal therapy*; reinforces the probiotic-for-periodontal-inflammation signal, with this Jeon trial adding a standalone-supplement design in milder disease.
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — biofilm-induced gingivitis in children/adolescents; same gingival-inflammation outcome focus (GI, BOP, plaque) in a younger, non-probiotic context.
