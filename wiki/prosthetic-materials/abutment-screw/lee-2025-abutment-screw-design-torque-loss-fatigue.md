@@ -5,7 +5,7 @@ year: 2025
 date: 2025-10-21
 doi: "10.3390/bioengineering12101131"
 source: lee-2025-abutment-screw-design-torque-loss-fatigue.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -79,5 +79,5 @@ KSIII showed **significantly higher T1 and T2 than TSIII at every torque level (
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — reinforces: same abutment-screw-design / preload theme, internal Morse-taper connection; this Osstem study extends it with a torque-vs-screw-geometry dissociation and a 35 Ncm optimum.
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: conical/Morse-taper mechanical behavior under load; complements with the same finding that connection/screw geometry governs mechanical stability of the implant–abutment joint.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — reinforces: same abutment-screw-design / preload theme, internal Morse-taper connection; this Osstem study extends it with a torque-vs-screw-geometry dissociation and a 35 Ncm optimum.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: conical/Morse-taper mechanical behavior under load; complements with the same finding that connection/screw geometry governs mechanical stability of the implant–abutment joint.
