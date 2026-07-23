@@ -5,7 +5,7 @@ year: 2025
 date: 2025-06-11
 doi: 10.3390/engproc2025087077
 source: damico-2025-third-molar-surgical-indications-guidelines.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/damico-2025-third-molar-surgical-indications-guidelines.pdf
 pdf_filename: damico-2025-third-molar-surgical-indications-guidelines.pdf
@@ -59,5 +59,5 @@ Clinical decision to extract third molars is based on a risk-benefit analysis: e
 | High IAN contact on imaging | Consider coronectomy |
 
 ## Related Papers
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — IAC lingual position = highest IAN injury risk
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN paresthesia 0.35–8.4%; risk factor profile
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — IAC lingual position = highest IAN injury risk
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — IAN paresthesia 0.35–8.4%; risk factor profile
