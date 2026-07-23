@@ -7,7 +7,7 @@ doi: 10.1002/14651858.CD008676.pub2
 pmid: "28362061"
 pmcid: "PMC6464488"
 source: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
@@ -75,7 +75,7 @@ CHX는 치태·치은염에 근거 충분한 보조요법이나, 모든 농도�
 ## Related Papers
 
 - [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — 수술 후 CHX; 0.12% 권장
-- [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — NMA; 에센셜오일 > CHX ≥0.10%
-- [[periodontics/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — 0.05% CHX + CPC RCT
-- [[periodontics/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — 0.12% CHX vs SPM RCT
-- [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — 화학적 세정제 adjunct SR
+- [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — NMA; 에센셜오일 > CHX ≥0.10%
+- [[periodontics/oral-hygiene-instruction/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — 0.05% CHX + CPC RCT
+- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — 0.12% CHX vs SPM RCT
+- [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — 화학적 세정제 adjunct SR
