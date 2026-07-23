@@ -5,7 +5,7 @@ year: 2024
 date: 2024-09-18
 doi: 10.1186/s12903-024-04898-z
 source: cyris-2024-guided-biofilm-therapy-versus-conventional.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/cyris-2024-guided-biofilm-therapy-versus-conventional.pdf
 pdf_filename: cyris-2024-guided-biofilm-therapy-versus-conventional.pdf
@@ -64,5 +64,5 @@ This split-mouth randomized controlled trial from the University of Kiel compare
 
 ## Related Papers
 
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the SRP-centric NSPT evidence base by showing a low-abrasive air-polishing protocol matches SRP outcomes.
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — reinforces biofilm-management principles in periodontal therapy with a head-to-head modern protocol comparison.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the SRP-centric NSPT evidence base by showing a low-abrasive air-polishing protocol matches SRP outcomes.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — reinforces biofilm-management principles in periodontal therapy with a head-to-head modern protocol comparison.

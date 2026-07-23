@@ -2632,7 +2632,7 @@ tags: []
 
 - [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — Hom-Lay Wang 2025 · consensus · AO/AAP consensus on prevention and management of peri-implant diseases and conditions: Summary report
 - [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — SR+MA (12 RCTs): sustained-release subgingival antiseptics aid SRP (PD/CAL/BOP p=0.001), irrigation does not
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — split-mouth RCT (n=60): GBT vs conventional SRP equivalent in NSPT, GBT faster
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — split-mouth RCT (n=60): GBT vs conventional SRP equivalent in NSPT, GBT faster
 - [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA (9 RCTs): SRP lowers HbA1c (0.56%) and CRP in type 2 diabetics with periodontitis
 - [[periodontics/joseph-2024-systematic-review-meta-analysis-randomized]] — SR+MA of 44 RCTs: NSPT cuts mean PD by 0.55 mm at 3 mo vs controls in periodontitis patients with systemic conditions
 - [[periodontics/herrera-2014-acute-periodontal-lesions]] — narrative review of acute periodontal lesions (abscesses, necrotizing periodontal diseases, other acute gingival conditions): etiology, diagnosis, and emergency/definitive management
