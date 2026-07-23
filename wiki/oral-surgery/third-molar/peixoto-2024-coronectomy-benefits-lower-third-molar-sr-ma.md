@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1016/j.joms.2023.07.016
 source: peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.pdf
 pdf_filename: peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.pdf
@@ -60,8 +60,8 @@ This systematic review and meta-analysis (J Oral Maxillofac Surg 2024;82(1):73-9
 - Heterogeneity moderate; variation in study design and surgical protocols
 
 ## Related Papers
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — earlier systematic review on coronectomy
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — IAN-focused coronectomy SR
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — IAN position and injury risk meta-analysis
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — IAN injury management
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — third molar surgical indications
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — earlier systematic review on coronectomy
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — IAN-focused coronectomy SR
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — IAN position and injury risk meta-analysis
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — IAN injury management
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third molar surgical indications
