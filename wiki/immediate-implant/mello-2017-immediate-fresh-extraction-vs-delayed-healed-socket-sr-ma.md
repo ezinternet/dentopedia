@@ -79,4 +79,4 @@ Across 3,049 pooled implants in 1,435 patients (mean age 46.68 years, ≥6-month
 - [[immediate-implant/lang-2012-immediate-implant-survival-success-sr]] — SR reporting generally favorable immediate-implant survival rates; useful counterpoint when weighing this paper's significant survival gap.
 - [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]] — contrasting finding: RCT-focused 2022 SR+MA reporting no significant survival difference between immediate and delayed placement.
 - [[immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma]] — companion SR+MA on maxillary single-tooth implant timing protocols.
-- [[immediate-implant/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — companion SR+MA focused on esthetic-zone immediate vs early implant placement.
+- [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — companion SR+MA focused on esthetic-zone immediate vs early implant placement.

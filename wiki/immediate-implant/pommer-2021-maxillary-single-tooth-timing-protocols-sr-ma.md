@@ -80,4 +80,4 @@ No impact of one abutment-one time concept, flap design, or simultaneous bone/so
 - [[immediate-implant/lang-2012-immediate-implant-survival-success-sr]] — earlier SR of immediate implant survival/success rates; this paper extends the question to ≥3-year follow-up and cross-tabulates with loading timing.
 - [[immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma]] — complementary null-result context: sibling SR/MA on immediate vs. delayed placement timing.
 - [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]] — sibling SR/MA; some reported outcome differences contrast with this paper's uniformly null findings.
-- [[immediate-implant/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — sibling SR/MA in the same aesthetic-zone timing literature, ingested in the same batch.
+- [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — sibling SR/MA in the same aesthetic-zone timing literature, ingested in the same batch.

@@ -53,5 +53,5 @@ This meta-analysis (12 studies) tested whether subepithelial connective tissue g
 
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — extends: adds GBR/ADM/XCM comparators
 - [[immediate-implant/esthetic-soft-tissue/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]] — RCT-only CTG synthesis
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO consensus on soft-tissue augmentation
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO consensus on soft-tissue augmentation
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — Bayesian network ranking of grafting strategies

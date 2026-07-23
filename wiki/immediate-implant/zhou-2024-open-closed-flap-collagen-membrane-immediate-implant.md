@@ -61,4 +61,4 @@ The cohorts were balanced at baseline (age, gender, implant site, brand; P > 0.0
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — flap vs flapless at immediate implant; this study extends the question to exposed-membrane open healing.
 - [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — RCT of open vs closed healing at immediate implants; same open-healing concept tested prospectively.
 - [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] — bone grafting the immediate-implant gap, the GBR context here.
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus on simultaneous GBR over dehiscence defects, the broader rationale for membrane coverage.
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus on simultaneous GBR over dehiscence defects, the broader rationale for membrane coverage.

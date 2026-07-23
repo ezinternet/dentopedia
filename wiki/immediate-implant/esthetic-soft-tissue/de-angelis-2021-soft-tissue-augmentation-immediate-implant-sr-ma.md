@@ -92,4 +92,4 @@ Surgical protocol across included studies: flapless, non-traumatic extraction, b
 - [[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] — SR+MA comparing SCTG for immediate vs delayed implants; reinforces SCTG benefit findings
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — Bayesian NMA ranking multiple STA strategies at IIPP; extends this MA's binary comparison
 - [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]] — animal study on loading/grafting interaction at immediate implants; provides biologic context
-- [[immediate-implant/type-1a-immediate-placement-immediate-loading-decision]] — synthesis overview for type 1a IIPP decision; this MA supplies key quantitative benchmarks
+- [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — synthesis overview for type 1a IIPP decision; this MA supplies key quantitative benchmarks
