@@ -5,7 +5,7 @@ year: 2024
 date: 2024-10-25
 doi: 10.1186/s12903-024-05084-x
 source: aykol-sahin-2024-toothbrush-types-orthodontic-gingivitis.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -76,5 +76,5 @@ This single-blind RCT (Istanbul Okan University, Sept 2023–Apr 2024; NCT065101
 
 ## Related Papers
 
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — that SR+MA (GRADE-LOW) found powered toothbrushes statistically beat manual ones on plaque/gingivitis/bleeding in fixed-appliance patients but concluded brushing **technique** quality matters more than device type; this RCT extends that idea onto a manual-brush-design axis (conventional vs. orthodontic vs. single-tufted, each with a matched technique) specifically in gingivitis patients, showing single-tufted+Solo-technique sustains benefit to 3 months where orthodontic-brush+Bass-technique does not.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR finding modified Bass superior to unstructured brushing but no single technique universally best; this RCT's use of modified Bass (C-TB) vs. Bass (O-TB) vs. Solo (ST-TB) provides new comparative data on technique-device pairings in a fixed-orthodontic-gingivitis subgroup not covered by that review.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — that SR+MA (GRADE-LOW) found powered toothbrushes statistically beat manual ones on plaque/gingivitis/bleeding in fixed-appliance patients but concluded brushing **technique** quality matters more than device type; this RCT extends that idea onto a manual-brush-design axis (conventional vs. orthodontic vs. single-tufted, each with a matched technique) specifically in gingivitis patients, showing single-tufted+Solo-technique sustains benefit to 3 months where orthodontic-brush+Bass-technique does not.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR finding modified Bass superior to unstructured brushing but no single technique universally best; this RCT's use of modified Bass (C-TB) vs. Bass (O-TB) vs. Solo (ST-TB) provides new comparative data on technique-device pairings in a fixed-orthodontic-gingivitis subgroup not covered by that review.
