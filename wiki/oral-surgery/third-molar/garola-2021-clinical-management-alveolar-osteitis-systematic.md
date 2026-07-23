@@ -5,7 +5,7 @@ year: 2021
 date: 2021-11-01
 doi: 10.4317/medoral.24256
 source: garola-2021-clinical-management-alveolar-osteitis-systematic.md
-category: oral-surgery
+category: oral-surgery/third-molar
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/garola-2021-clinical-management-alveolar-osteitis-systematic.pdf
 pdf_filename: garola-2021-clinical-management-alveolar-osteitis-systematic.pdf
@@ -38,7 +38,7 @@ No single best treatment can be designated — first-line management is intra-al
 
 ## Summary
 
-건성 발치와(AO)는 발치의 가장 흔한 합병증이지만 **치료 표준 프로토콜이 없다.** 본 SR(Garola 2021)은 2010–2020 임상시험 17편·치료 39개를 통증조절 관점에서 평가했다. 저자는 명확한 임상 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통)을 제시했고, 39개 중 **53.8%만** 이를 충족했다. 성공한 치료는 **기본 처치(발치와 내 세척)**와 **특정 처치(Alveogyl·Neocones·SaliCept Patch·저출력 레이저·PRF)**로 분류된다. 다만 연구 간 이질성이 커 메타분석·순위화는 불가능하며, 임상에서는 가용성과 장단점에 따라 선택하라는 결론이다. 예방에 강한 [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] Cochrane SR의 얇은 치료 근거를 보완하는 위치.
+건성 발치와(AO)는 발치의 가장 흔한 합병증이지만 **치료 표준 프로토콜이 없다.** 본 SR(Garola 2021)은 2010–2020 임상시험 17편·치료 39개를 통증조절 관점에서 평가했다. 저자는 명확한 임상 기준(2일째 VAS ≤4 또는 7일째 ≥85% 무통)을 제시했고, 39개 중 **53.8%만** 이를 충족했다. 성공한 치료는 **기본 처치(발치와 내 세척)**와 **특정 처치(Alveogyl·Neocones·SaliCept Patch·저출력 레이저·PRF)**로 분류된다. 다만 연구 간 이질성이 커 메타분석·순위화는 불가능하며, 임상에서는 가용성과 장단점에 따라 선택하라는 결론이다. 예방에 강한 [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] Cochrane SR의 얇은 치료 근거를 보완하는 위치.
 
 ## Key Contributions
 
@@ -66,10 +66,10 @@ No single best treatment can be designated — first-line management is intra-al
 
 - 확립된 건성 발치와의 1차는 **발치와 세척(기본)** — 그 자체로 다수에서 통증조절 성공.
 - 추가 처치가 필요하면 Alveogyl·Neocones·SaliCept·LLLT·PRF 중 가용성·장단점으로 선택; 단일 최우수 치료는 근거상 정할 수 없음.
-- 예방(고위험 발치의 CHX)과 치료(세척±특정 처치)는 별개 의사결정 — [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]]와 함께 읽을 것.
+- 예방(고위험 발치의 CHX)과 치료(세척±특정 처치)는 별개 의사결정 — [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]]와 함께 읽을 것.
 
 ## Related Papers
 
-- [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] — 예방에 강한 Cochrane SR; 본 SR이 치료 지형을 확장(extends).
-- [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — LLLT의 AO 치료 효과를 독립적으로 보강(reinforces).
-- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF의 AO 효과를 보강(reinforces).
+- [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] — 예방에 강한 Cochrane SR; 본 SR이 치료 지형을 확장(extends).
+- [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] — LLLT의 AO 치료 효과를 독립적으로 보강(reinforces).
+- [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF의 AO 효과를 보강(reinforces).
