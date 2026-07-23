@@ -5,7 +5,7 @@ year: 2017
 date: 2017-01-01
 doi: 10.15171/joddd.2017.020
 source: saleh-saber-2017-repeated-torque-tightening-abutment-lengths.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/saleh-saber-2017-repeated-torque-tightening-abutment-lengths.pdf
 pdf_filename: saleh-saber-2017-repeated-torque-tightening-abutment-lengths.pdf
