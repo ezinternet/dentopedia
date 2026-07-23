@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-24
 doi: 10.4047/jap.2026.18.2.145
 source: sun-2026-abutment-contamination-internal-hex-preload.md
-category: prosthetic-materials
+category: prosthetic-materials/abutment-screw
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/sun-2026-abutment-contamination-internal-hex-preload.pdf
 pdf_filename: sun-2026-abutment-contamination-internal-hex-preload.pdf
@@ -65,7 +65,7 @@ Key finding: two mechanistically distinct failure stages exist. First, any degre
 - SEM: Line-angle wear on hexagonal surfaces in CT6; minimal alteration in CT0
 
 ## Related Papers
-- [[prosthetic-materials/bulaqi-2015-dynamic-nature-abutment-screw-retightening]] — complementary preload loss mechanism (screw retightening dynamics)
-- [[prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] — similar ISO 14801 fatigue protocol, preload loss focus
-- [[prosthetic-materials/lee-2025-abutment-screw-design-torque-loss-fatigue]] — abutment screw design effects on torque loss and fatigue
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — implant connection and abutment design effects on screw loosening
+- [[prosthetic-materials/abutment-screw/bulaqi-2015-dynamic-nature-abutment-screw-retightening]] — complementary preload loss mechanism (screw retightening dynamics)
+- [[prosthetic-materials/abutment-screw/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue]] — similar ISO 14801 fatigue protocol, preload loss focus
+- [[prosthetic-materials/abutment-screw/lee-2025-abutment-screw-design-torque-loss-fatigue]] — abutment screw design effects on torque loss and fatigue
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — implant connection and abutment design effects on screw loosening
