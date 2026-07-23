@@ -50,4 +50,4 @@ Narrative review of 51 studies (1990–2023) evaluating 국소지혈제 (local h
 | Topical TXA | 80% ↓ hemorrhagic events in anticoagulated patients |
 
 ## Related Papers
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — continuation vs discontinuation of anticoagulants
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — continuation vs discontinuation of anticoagulants
