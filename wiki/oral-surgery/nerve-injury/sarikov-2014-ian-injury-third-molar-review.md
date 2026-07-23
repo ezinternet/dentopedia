@@ -5,7 +5,7 @@ year: 2014
 date: 2014-11-22
 doi: 10.5037/jomr.2014.5401
 source: sarikov-2014-ian-injury-third-molar-review.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/sarikov-2014-ian-injury-third-molar-review.pdf
 pdf_filename: sarikov-2014-ian-injury-third-molar-review.pdf
@@ -61,5 +61,5 @@ IAN paresthesia incidence: 0.35–8.4% depending on technique, patient populatio
 - Most cases recover spontaneously or with conservative management
 
 ## Related Papers
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — lingual IAC position = highest injury risk; SR+MA
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — coronectomy for high-risk cases; guideline overview
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — lingual IAC position = highest injury risk; SR+MA
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — coronectomy for high-risk cases; guideline overview
