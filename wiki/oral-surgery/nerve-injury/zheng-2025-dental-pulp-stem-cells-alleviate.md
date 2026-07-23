@@ -5,7 +5,7 @@ year: 2025
 date: 2025-02-11
 doi: 10.1016/j.bioactmat.2025.01.031
 source: zheng-2025-dental-pulp-stem-cells-alleviate.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: animal
 source_collection: pubmed-text
 full_text: true
@@ -72,6 +72,6 @@ For dentistry, the clinical relevance is the cell source: DPSCs come from a tiss
 
 ## Related Papers
 
-- [[oral-surgery/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — same nerve-regeneration domain (PLCL conduit + methylcobalamin); this paper extends the field from a conduit + pharmacologic-adjunct strategy to a conduit + cell-therapy strategy with a defined intercellular mitochondrial-transfer mechanism.
-- [[oral-surgery/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — pharmacologic (ginkgo biloba) nerve-regeneration adjunct in a rat model; sibling paper in the nerve-regeneration adjunct literature.
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — clinical inferior alveolar nerve injury management; provides the clinical-context bookend for where a future DPSC-based cell therapy could eventually apply.
+- [[oral-surgery/nerve-injury/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — same nerve-regeneration domain (PLCL conduit + methylcobalamin); this paper extends the field from a conduit + pharmacologic-adjunct strategy to a conduit + cell-therapy strategy with a defined intercellular mitochondrial-transfer mechanism.
+- [[oral-surgery/nerve-injury/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — pharmacologic (ginkgo biloba) nerve-regeneration adjunct in a rat model; sibling paper in the nerve-regeneration adjunct literature.
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — clinical inferior alveolar nerve injury management; provides the clinical-context bookend for where a future DPSC-based cell therapy could eventually apply.
