@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-05
 doi: 10.1186/s12903-026-07852-3
 source: marenzi-2026-torque-limiting-devices-accuracy-manufacturers.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/marenzi-2026-torque-limiting-devices-accuracy-manufacturers.txt
