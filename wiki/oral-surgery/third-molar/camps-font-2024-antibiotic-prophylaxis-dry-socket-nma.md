@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1016/j.ijom.2023.08.001
 source: camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.pdf
 pdf_filename: camps-font-2024-antibiotic-prophylaxis-dry-socket-nma.pdf
@@ -59,6 +59,6 @@ Camps-Font et al. (2024) conducted a systematic review and network meta-analysis
 **Clinical recommendation**: Evaluate individual patient's systemic status and personal risk of developing postoperative infection before prescribing antibiotic prophylaxis.
 
 ## Related Papers
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Surgical techniques and complication prevention in mandibular wisdom tooth removal
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Surgical techniques and complication prevention in mandibular wisdom tooth removal
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — Postoperative complications including alveolitis after simple exodontia
-- [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — Laser therapy as treatment for established dry socket
+- [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] — Laser therapy as treatment for established dry socket
