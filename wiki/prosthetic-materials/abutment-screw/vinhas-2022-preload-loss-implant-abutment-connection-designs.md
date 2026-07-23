@@ -5,7 +5,7 @@ year: 2022
 date: 2022-02-14
 doi: "10.3390/ma15041392"
 source: vinhas-2022-preload-loss-implant-abutment-connection-designs.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -72,5 +72,5 @@ Screw loosening is the most frequent mechanical complication of implant-supporte
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — reinforces: both study abutment-screw preload/torque mechanics; Vélez (Morse-taper insertion torque vs misfit) and Vinhas converge on the screw joint as the critical, retightening-dependent point of the implant-abutment complex, independent of geometry.
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: Ren examines Morse-taper abutment subsidence/locking force; Vinhas complements it by showing that across external and internal (including conical) connections, cyclic loading erodes preload — supporting attention to the joint mechanics rather than any single connection type.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — reinforces: both study abutment-screw preload/torque mechanics; Vélez (Morse-taper insertion torque vs misfit) and Vinhas converge on the screw joint as the critical, retightening-dependent point of the implant-abutment complex, independent of geometry.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: Ren examines Morse-taper abutment subsidence/locking force; Vinhas complements it by showing that across external and internal (including conical) connections, cyclic loading erodes preload — supporting attention to the joint mechanics rather than any single connection type.
