@@ -5,7 +5,7 @@ year: 2016
 date: 2016-07-01
 doi: 10.4317/medoral.21074
 source: cervera-espert-2016-coronectomy-mandibular-third-molar-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cervera-espert-2016-coronectomy-mandibular-third-molar-sr.pdf
 pdf_filename: cervera-espert-2016-coronectomy-mandibular-third-molar-sr.pdf
@@ -50,6 +50,6 @@ Systematic review and meta-analysis of 12 studies evaluating 관상절제술 (co
 | Root migration | ~2 mm / 2 years |
 
 ## Related Papers
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR 2176 coronectomies, IAN 0.59%
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN injury risk factors
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR 2176 coronectomies, IAN 0.59%
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — IAN injury risk factors
 - ~~(미ingest) li-2022-inferior-alveolar-nerve-position-injury-sr-ma~~ — IAC lingual position OR 4.96
