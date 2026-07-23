@@ -73,7 +73,7 @@ Gutta-percha (GP) cones cannot be autoclaved (thermoplastic), so contaminated co
 
 ## Related Papers
 
-- [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — SR anchor of the GP-cone-decontamination cluster; this in vitro study adds nanoparticle comparators and AFM surface data to the NaOCl/CHX evidence base.
-- [[endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — establishes that GP cones carry contamination and need chairside disinfection; this paper benchmarks which agents clear it fastest.
-- [[endodontics/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — documents clinically relevant GP-point contamination (MRSA/MSSA), the risk that chairside disinfection here aims to eliminate.
+- [[endodontics/obturation/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — SR anchor of the GP-cone-decontamination cluster; this in vitro study adds nanoparticle comparators and AFM surface data to the NaOCl/CHX evidence base.
+- [[endodontics/obturation/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — establishes that GP cones carry contamination and need chairside disinfection; this paper benchmarks which agents clear it fastest.
+- [[endodontics/obturation/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — documents clinically relevant GP-point contamination (MRSA/MSSA), the risk that chairside disinfection here aims to eliminate.
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — frames the endodontic-microbiology/persistent-infection context that motivates aseptic-chain steps like cone disinfection.

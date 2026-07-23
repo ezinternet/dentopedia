@@ -68,8 +68,8 @@ The discriminating finding is **apical extrusion**: carrier-based extruded seale
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — same group's single-cone Ceraseal cohort; this extends to NeoSealer Flo + carrier-based at 36 mo.
-- [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — NeoSealer Flo biocompatibility (in vitro) underpinning benign extrusion behavior.
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — RCT-level meta context for single-cone bioceramic success.
-- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — extrusion raised post-obturation pain (technique otherwise irrelevant).
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — same group's single-cone Ceraseal cohort; this extends to NeoSealer Flo + carrier-based at 36 mo.
+- [[endodontics/obturation/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — NeoSealer Flo biocompatibility (in vitro) underpinning benign extrusion behavior.
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — RCT-level meta context for single-cone bioceramic success.
+- [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]] — extrusion raised post-obturation pain (technique otherwise irrelevant).
 - [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] — bioceramic single-cone synthesis.

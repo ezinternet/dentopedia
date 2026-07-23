@@ -61,6 +61,6 @@ This single-center pilot RCT (Pusan National University Dental Hospital, Nov 202
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — 3-year clinical cohort of CeraSeal single-cone obturation; extends this short-term RCT to longer follow-up.
-- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — RCT on obturation techniques and post-obturation pain; complements the postoperative-pain endpoint here.
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — 2-year premixed calcium-silicate carrier-based outcomes; adjacent bioceramic-sealer clinical evidence.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — 3-year clinical cohort of CeraSeal single-cone obturation; extends this short-term RCT to longer follow-up.
+- [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]] — RCT on obturation techniques and post-obturation pain; complements the postoperative-pain endpoint here.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — 2-year premixed calcium-silicate carrier-based outcomes; adjacent bioceramic-sealer clinical evidence.

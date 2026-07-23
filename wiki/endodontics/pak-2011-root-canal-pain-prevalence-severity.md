@@ -51,6 +51,6 @@ MEDLINE, Embase, Cochrane, PsycINFO searched. 5,517 articles identified → titl
 Supplemental injection requirement: 60 ± 24%.
 
 ## Related Papers
-- [[drug/smith-2017-nsaids-postoperative-endodontic-pain]] — NSAIDs efficacy SR+MA in high preoperative pain patients
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — pharmacological + technical management overview
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — drug efficacy at 8–72 h post-RCT
+- [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — NSAIDs efficacy SR+MA in high preoperative pain patients
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — pharmacological + technical management overview
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — drug efficacy at 8–72 h post-RCT

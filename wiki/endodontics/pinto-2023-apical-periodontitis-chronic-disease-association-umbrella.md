@@ -64,4 +64,4 @@ Overall AMSTAR-2 grading of the 9 included SRs: 1 "high," 6 "moderate," 2 "low."
 
 ## Related Papers
 
-- [[wiki/endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — covers AP etiology, diagnosis (histopathology vs CBCT/MRI/echography), and treatment modalities; this umbrella review adds the systemic-disease-association dimension that Karamifar 2020 does not address. Together they anchor the periapical-lesion knowledge cluster: local biology/diagnosis (Karamifar) + systemic association evidence (Pinto, this page).
+- [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — covers AP etiology, diagnosis (histopathology vs CBCT/MRI/echography), and treatment modalities; this umbrella review adds the systemic-disease-association dimension that Karamifar 2020 does not address. Together they anchor the periapical-lesion knowledge cluster: local biology/diagnosis (Karamifar) + systemic association evidence (Pinto, this page).

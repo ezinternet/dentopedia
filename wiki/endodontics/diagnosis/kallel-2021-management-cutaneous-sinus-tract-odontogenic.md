@@ -66,4 +66,4 @@ The case underscores that odontogenic cutaneous sinus tracts can present without
 
 - [[endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]] — 동일 질환의 진단·치료 리뷰를 증례로 확장(extends).
 - [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — 치성 피부누공 증례군을 보강(reinforces).
-- [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — 감염원 제거 우선 원리; 본 증례는 장기 무효 항생제의 반면교사.
+- [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — 감염원 제거 우선 원리; 본 증례는 장기 무효 항생제의 반면교사.

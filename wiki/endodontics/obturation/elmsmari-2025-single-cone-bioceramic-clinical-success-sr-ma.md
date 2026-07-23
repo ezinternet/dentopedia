@@ -71,9 +71,9 @@ The clinical message mirrors the single-paper signals already in this wiki: the 
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — single-cohort 3-y Ceraseal data consistent with the pooled bioceramic success rate.
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — unit-level RCT (CaSi ≈ epoxy) that this meta aggregates.
-- [[endodontics/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo]] — 36-mo cohort extending the technique-equivalence finding to carrier-based.
-- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — pain endpoint: technique irrelevant, AH Plus more painful.
-- [[endodontics/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — lab-quality modifier (ultrasonic activation) for single-cone fills.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — single-cohort 3-y Ceraseal data consistent with the pooled bioceramic success rate.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — unit-level RCT (CaSi ≈ epoxy) that this meta aggregates.
+- [[endodontics/obturation/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo]] — 36-mo cohort extending the technique-equivalence finding to carrier-based.
+- [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]] — pain endpoint: technique irrelevant, AH Plus more painful.
+- [[endodontics/obturation/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — lab-quality modifier (ultrasonic activation) for single-cone fills.
 - [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] — synthesis this SR reinforces.

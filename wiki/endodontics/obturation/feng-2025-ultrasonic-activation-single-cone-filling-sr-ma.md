@@ -69,7 +69,7 @@ This sits one layer below the clinical papers in the single-cone cluster: it is 
 
 ## Related Papers
 
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — clinical RCT (no void/extrusion difference) that this lab-quality evidence refines.
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — clinical-outcome meta this technique-modifier feeds into.
-- [[endodontics/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo]] — clinical single-cone vs carrier-based fill comparison.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — clinical RCT (no void/extrusion difference) that this lab-quality evidence refines.
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — clinical-outcome meta this technique-modifier feeds into.
+- [[endodontics/obturation/zamparini-2026-single-cone-vs-carrier-based-neosealer-36mo]] — clinical single-cone vs carrier-based fill comparison.
 - [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] — single-cone material-quality context.

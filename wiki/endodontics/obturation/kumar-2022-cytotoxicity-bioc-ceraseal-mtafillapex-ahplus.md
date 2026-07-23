@@ -69,4 +69,4 @@ Mean % cell viability (+/- SD), n=6 per cell:
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — CeraSeal single-cone 3-year clinical cohort; this in-vitro page supplies the biocompatibility rationale behind those outcomes.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — CeraSeal single-cone 3-year clinical cohort; this in-vitro page supplies the biocompatibility rationale behind those outcomes.

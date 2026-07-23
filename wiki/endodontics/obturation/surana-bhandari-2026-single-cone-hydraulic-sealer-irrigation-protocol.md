@@ -62,7 +62,7 @@ Two findings matter for single-cone protocols. First, **HEDP continuous chelatio
 
 ## Related Papers
 
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — clinical-outcome meta for single-cone bioceramic; this supplies the irrigation–interface mechanism.
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — resin vs calcium-silicate single-cone comparison.
-- [[endodontics/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — complementary technique-modifier (ultrasonic activation) for single-cone fill quality.
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — clinical-outcome meta for single-cone bioceramic; this supplies the irrigation–interface mechanism.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — resin vs calcium-silicate single-cone comparison.
+- [[endodontics/obturation/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — complementary technique-modifier (ultrasonic activation) for single-cone fill quality.
 - [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] — material/biocompatibility synthesis this extends to irrigation.

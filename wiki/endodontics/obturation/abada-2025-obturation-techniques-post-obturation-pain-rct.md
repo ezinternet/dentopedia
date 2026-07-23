@@ -71,7 +71,7 @@ This prospective, CONSORT-registered randomized clinical trial enrolled 150 pati
 
 ## Related Papers
 
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — extends; Song found no pain/extrusion difference between calcium-silicate and AH Plus, whereas this RCT detects an AH Plus pain penalty.
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — reinforces the single-cone CeraSeal evidence base with a short-term clinical pain/extrusion anchor.
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — context for premixed bioceramic apical-extrusion behavior.
-- [[endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retreatment/retrievability counterpoint to the obturation choice studied here.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — extends; Song found no pain/extrusion difference between calcium-silicate and AH Plus, whereas this RCT detects an AH Plus pain penalty.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — reinforces the single-cone CeraSeal evidence base with a short-term clinical pain/extrusion anchor.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — context for premixed bioceramic apical-extrusion behavior.
+- [[endodontics/obturation/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retreatment/retrievability counterpoint to the obturation choice studied here.

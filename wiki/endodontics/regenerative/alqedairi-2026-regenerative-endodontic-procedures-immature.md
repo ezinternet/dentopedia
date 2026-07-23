@@ -60,6 +60,6 @@ Narrative (non-systematic) literature review of PubMed/MEDLINE, Scopus, and Web 
 
 ## Related Papers
 
-- [[wiki/endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — reinforces: this narrative review's root-development and periapical-healing findings align with Panda 2022's SR+MA showing RET superior to apexification for root length/dentinal wall thickness with similar survival/success
-- [[wiki/endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus]] — reinforces: consensus protocol (1.5% NaOCl, TAP/DAP, blood-clot induction, MTA barrier) and reported outcome ranges (85–90% healing, 60–80% root maturation, 30–60% vitality) closely match this review's synthesis and clinical-protocol description
-- [[wiki/endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — extends: adds updated biological mechanism detail (SCAP, PRP/PRF, growth factor delivery) and 2025-era outcome data to the earlier RET-vs-MTA-apical-plug comparison
+- [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — reinforces: this narrative review's root-development and periapical-healing findings align with Panda 2022's SR+MA showing RET superior to apexification for root length/dentinal wall thickness with similar survival/success
+- [[endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus]] — reinforces: consensus protocol (1.5% NaOCl, TAP/DAP, blood-clot induction, MTA barrier) and reported outcome ranges (85–90% healing, 60–80% root maturation, 30–60% vitality) closely match this review's synthesis and clinical-protocol description
+- [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — extends: adds updated biological mechanism detail (SCAP, PRP/PRF, growth factor delivery) and 2025-era outcome data to the earlier RET-vs-MTA-apical-plug comparison

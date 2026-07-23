@@ -64,7 +64,7 @@ Gutta-percha (GP) points are the obturation gold standard but, because of their 
 
 ## Related Papers
 
-- [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — systematic-review anchor of the GP-cone-decontamination cluster; provides the pooled NaOCl/CHX evidence that this single in-vitro study feeds into.
-- [[endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — sibling in-vitro study comparing NaOCl against silver/chitosan-nanoparticle disinfection; extends beyond this paper's single-agent (NaOCl) protocol.
-- [[endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — the same Porto group's earlier total-contamination/chairside-disinfection study (Teles is a co-author); this paper is the direct MRSA/MSSA-specific follow-up using the same sampling design, and its results (<2% contamination, 100% disinfection) replicate it.
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — addresses the *clinical seal* of the GP cone; complements this paper's focus on cone *sterility* before obturation.
+- [[endodontics/obturation/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — systematic-review anchor of the GP-cone-decontamination cluster; provides the pooled NaOCl/CHX evidence that this single in-vitro study feeds into.
+- [[endodontics/obturation/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — sibling in-vitro study comparing NaOCl against silver/chitosan-nanoparticle disinfection; extends beyond this paper's single-agent (NaOCl) protocol.
+- [[endodontics/obturation/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — the same Porto group's earlier total-contamination/chairside-disinfection study (Teles is a co-author); this paper is the direct MRSA/MSSA-specific follow-up using the same sampling design, and its results (<2% contamination, 100% disinfection) replicate it.
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — addresses the *clinical seal* of the GP cone; complements this paper's focus on cone *sterility* before obturation.

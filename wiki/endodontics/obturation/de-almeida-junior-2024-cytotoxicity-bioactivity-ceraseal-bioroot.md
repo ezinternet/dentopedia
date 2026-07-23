@@ -70,10 +70,10 @@ The answer is that none of the three sealers — including CeraSeal — was cyto
 
 ## Related Papers
 
-- [[endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]] — CeraSeal cytotoxicity vs MTA Fillapex / AH Plus (related bioceramic-sealer cytotoxicity)
-- [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — CeraSeal inflammatory response in fibroblasts (different cell model)
-- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — calcium-silicate apatite deposition / pH bioactivity
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical 3-year CeraSeal single-cone outcomes
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — premixed calcium-silicate 2-year clinical outcomes
+- [[endodontics/obturation/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]] — CeraSeal cytotoxicity vs MTA Fillapex / AH Plus (related bioceramic-sealer cytotoxicity)
+- [[endodontics/obturation/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — CeraSeal inflammatory response in fibroblasts (different cell model)
+- [[endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph]] — calcium-silicate apatite deposition / pH bioactivity
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical 3-year CeraSeal single-cone outcomes
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — premixed calcium-silicate 2-year clinical outcomes
 
 (According to PubMed; full text from PubMed Central PMC10882839. DOI: https://doi.org/10.1186/s12903-024-04021-2)

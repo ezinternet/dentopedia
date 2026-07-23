@@ -87,7 +87,7 @@ Cytokine output rose with concentration in all groups (p<0.05); AH Plus highest 
 
 ## Related Papers
 
-- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — reinforces; CeraSeal in-vitro bioactivity (apatite deposition / pH).
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — reinforces; CeraSeal vs AH Plus wettability characterization.
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical 3-year CeraSeal single-cone outcomes; cellular-safety substrate to those results.
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — premixed CaSi carrier-based 2-year outcomes; Zamparini cited here on bioceramic ion release.
+- [[endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph]] — reinforces; CeraSeal in-vitro bioactivity (apatite deposition / pH).
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — reinforces; CeraSeal vs AH Plus wettability characterization.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical 3-year CeraSeal single-cone outcomes; cellular-safety substrate to those results.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — premixed CaSi carrier-based 2-year outcomes; Zamparini cited here on bioceramic ion release.

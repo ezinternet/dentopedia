@@ -73,8 +73,8 @@ The bottom line: **Ceraseal with a warm carrier-based technique performed equiva
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — same Bologna group, Ceraseal with *cold* single-cone over 3 years; together they bracket Ceraseal clinical evidence across warm vs cold obturation.
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — RCT contrasting epoxy-resin vs calcium-silicate sealer-based obturation.
-- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — obturation technique vs post-obturation pain.
-- [[endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retrievability of AH Plus vs Ceraseal in retreatment.
-- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — bench rationale (apatite deposition / pH) for why extruded Ceraseal may resorb.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — same Bologna group, Ceraseal with *cold* single-cone over 3 years; together they bracket Ceraseal clinical evidence across warm vs cold obturation.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — RCT contrasting epoxy-resin vs calcium-silicate sealer-based obturation.
+- [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]] — obturation technique vs post-obturation pain.
+- [[endodontics/obturation/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retrievability of AH Plus vs Ceraseal in retreatment.
+- [[endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph]] — bench rationale (apatite deposition / pH) for why extruded Ceraseal may resorb.

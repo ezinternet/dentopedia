@@ -65,5 +65,5 @@ SEM and CLSM at 12 min confirmed total biofilm disruption and 100% cell death by
 
 ## Related Papers
 
-- [[endodontics/irrigation/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — SR on CAP antimicrobial efficacy; Li 2015 is a primary study this review would include
+- [[implants/surface/plasma/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — SR on CAP antimicrobial efficacy; Li 2015 is a primary study this review would include
 - [[endodontics/cold-plasma/li-2015-cold-plasma-efaecalis-biofilm-safety]] — this page (self)

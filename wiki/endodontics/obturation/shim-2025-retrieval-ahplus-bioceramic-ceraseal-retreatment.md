@@ -75,9 +75,9 @@ Shim et al. (Kyung Hee University) used micro-CT to ask whether biomineralizing 
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — applies-to: the clinical 3-year Ceraseal single-cone cohort whose obturation this study shows is retrievable if retreatment is later needed.
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — reinforces: the superior wettability (low contact angle) of AHB/Ceraseal mechanistically explains why irrigants infiltrate and these CSBSs come out more easily than epoxy AH Plus.
-- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — mechanistic complement: apatite deposition / alkalinization underlying the intra-tubular mineral deposits seen here.
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — premixed CaSi clinical context.
-- [[endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]], [[endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]], [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Ceraseal biocompatibility cluster.
-- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]], [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — single-cone / CaSi vs epoxy obturation context.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — applies-to: the clinical 3-year Ceraseal single-cone cohort whose obturation this study shows is retrievable if retreatment is later needed.
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — reinforces: the superior wettability (low contact angle) of AHB/Ceraseal mechanistically explains why irrigants infiltrate and these CSBSs come out more easily than epoxy AH Plus.
+- [[endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph]] — mechanistic complement: apatite deposition / alkalinization underlying the intra-tubular mineral deposits seen here.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — premixed CaSi clinical context.
+- [[endodontics/obturation/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]], [[endodontics/obturation/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]], [[endodontics/obturation/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Ceraseal biocompatibility cluster.
+- [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]], [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]] — single-cone / CaSi vs epoxy obturation context.

@@ -61,7 +61,7 @@ Gutta-percha (GP) is thermolabile and cannot be heat-sterilized, so it must be c
 
 ## Related Papers
 
-- [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — cluster SR synthesizing NaOCl vs CHX cone decontamination; this study is one of its empirical building blocks.
-- [[endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — extends beyond NaOCl to silver/chitosan-nanoparticle cone disinfection agents.
-- [[endodontics/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — same-group follow-up identifying MRSA/MSSA on GP points, adding species-level detail this study lacked.
+- [[endodontics/obturation/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — cluster SR synthesizing NaOCl vs CHX cone decontamination; this study is one of its empirical building blocks.
+- [[endodontics/obturation/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — extends beyond NaOCl to silver/chitosan-nanoparticle cone disinfection agents.
+- [[endodontics/obturation/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — same-group follow-up identifying MRSA/MSSA on GP points, adding species-level detail this study lacked.
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — frames the endodontic-microbiology / aseptic-chain rationale behind decontaminating cones.

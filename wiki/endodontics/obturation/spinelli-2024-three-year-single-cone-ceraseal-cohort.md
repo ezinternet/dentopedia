@@ -72,9 +72,9 @@ Spinelli et al. (University of Bologna) report the first 36-month prospective cl
 
 ## Related Papers
 
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — extends (same Bologna group; 24-month carrier-based premixed CaSi outcome, here pushed to 36 months with single-cone).
-- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — mechanistic complement (apatite deposition / alkalinization explaining the bioactive healing).
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — in-vitro Ceraseal wettability underpinning single-cone sealing.
-- [[endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retreatment counterpart (retrievability of set Ceraseal).
-- [[endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]], [[endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]], [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — biocompatibility basis for the favourable clinical extrusion behaviour.
-- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]], [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — single-cone / CaSi obturation context.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — extends (same Bologna group; 24-month carrier-based premixed CaSi outcome, here pushed to 36 months with single-cone).
+- [[endodontics/obturation/maharti-2024-calcium-silicate-apatite-deposition-ph]] — mechanistic complement (apatite deposition / alkalinization explaining the bioactive healing).
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — in-vitro Ceraseal wettability underpinning single-cone sealing.
+- [[endodontics/obturation/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — retreatment counterpart (retrievability of set Ceraseal).
+- [[endodontics/obturation/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]], [[endodontics/obturation/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]], [[endodontics/obturation/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — biocompatibility basis for the favourable clinical extrusion behaviour.
+- [[endodontics/obturation/abada-2025-obturation-techniques-post-obturation-pain-rct]], [[endodontics/obturation/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — single-cone / CaSi obturation context.

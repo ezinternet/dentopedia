@@ -60,5 +60,5 @@ According to PubMed, this work is reported in the *European Journal of Dentistry
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — extends: supplies the in-vitro biomineralization rationale behind Ceraseal's clinical single-cone outcomes.
-- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — contrasts: this study's continuous pH rise for Ceraseal differs from Zamparini's reported pH decrease, but agrees Ceraseal is the more alkaline/calcium-releasing sealer.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — extends: supplies the in-vitro biomineralization rationale behind Ceraseal's clinical single-cone outcomes.
+- [[endodontics/obturation/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — contrasts: this study's continuous pH rise for Ceraseal differs from Zamparini's reported pH decrease, but agrees Ceraseal is the more alkaline/calcium-releasing sealer.

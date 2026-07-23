@@ -71,6 +71,6 @@ Gutta-percha (GP) cones are the standard root-canal filling material but cannot 
 
 ## Related Papers
 
-- [[endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — sibling cluster paper; extends NaOCl comparison to silver/chitosan-nanoparticle GP cone disinfection agents.
-- [[endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — sibling cluster paper; documents baseline GP-cone bacterial contamination motivating the chairside chemical decontamination this SR evaluates.
-- [[endodontics/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — sibling cluster paper; characterises MRSA/MSSA contamination of GP points, reinforcing the cross-infection rationale for cone decontamination.
+- [[endodontics/obturation/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — sibling cluster paper; extends NaOCl comparison to silver/chitosan-nanoparticle GP cone disinfection agents.
+- [[endodontics/obturation/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — sibling cluster paper; documents baseline GP-cone bacterial contamination motivating the chairside chemical decontamination this SR evaluates.
+- [[endodontics/obturation/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — sibling cluster paper; characterises MRSA/MSSA contamination of GP points, reinforcing the cross-infection rationale for cone decontamination.

@@ -38,7 +38,7 @@ This in vitro goniometry study measured how well three root canal sealers wet hu
 
 AH Plus (epoxy resin) had the lowest contact angle (mean 47.40°) and thus the best wettability, followed by Ceraseal (calcium-silicate bioceramic, 61.64°), with Guttaflow bioseal (silicone, 95.64°) the worst. Because Guttaflow bioseal exceeded 90°, it was classified as nonwetting on the treated dentin, whereas AH Plus and Ceraseal were wetting (<90°). All three sealers differed from each other with high statistical significance (ANOVA F=537.74, P<0.001; all Tukey pairwise P<0.001). The authors attribute AH Plus's advantage to penetration of dentin microirregularities and covalent bonding to collagen amino groups, Ceraseal's intermediate behavior to small grain size and water affinity letting it creep into lateral micro-canals, and Guttaflow's poor wetting to high silicone surface tension and hydrophobic gutta-percha.
 
-This page seeds the wiki's first Ceraseal / calcium-silicate-bioceramic sealer cluster, providing the bench interface-property data (wettability) that complements clinical Ceraseal outcome evidence such as [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]].
+This page seeds the wiki's first Ceraseal / calcium-silicate-bioceramic sealer cluster, providing the bench interface-property data (wettability) that complements clinical Ceraseal outcome evidence such as [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]].
 
 ## Key Contributions
 
@@ -73,4 +73,4 @@ Based on articles retrieved from PubMed. DOI: [10.4103/JCDE.JCDE_484_24](https:/
 
 ## Related Papers
 
-- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical 3-year survival of Ceraseal single-cone obturation; this page supplies the bench wettability physics behind Ceraseal's dentin adaptation.
+- [[endodontics/obturation/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — clinical 3-year survival of Ceraseal single-cone obturation; this page supplies the bench wettability physics behind Ceraseal's dentin adaptation.

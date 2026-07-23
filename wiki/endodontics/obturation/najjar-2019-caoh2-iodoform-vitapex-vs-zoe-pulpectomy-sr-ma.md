@@ -59,5 +59,5 @@ PRISMA-guided SR+MA; PubMed/MEDLINE, Google Scholar, Scopus searched without lan
 
 ## Related Papers
 
-- [[wiki/endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — companion evidence on primary-tooth pulp therapy (Cochrane review focused on pulpotomy materials/success); this paper extends the evidence base to pulpectomy root-filling material choice.
-- [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA comparing pulpotomy vs. pulpectomy as treatment modalities for irreversible pulpitis in primary teeth; this paper addresses the downstream material choice once pulpectomy is selected.
+- [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — companion evidence on primary-tooth pulp therapy (Cochrane review focused on pulpotomy materials/success); this paper extends the evidence base to pulpectomy root-filling material choice.
+- [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA comparing pulpotomy vs. pulpectomy as treatment modalities for irreversible pulpitis in primary teeth; this paper addresses the downstream material choice once pulpectomy is selected.
