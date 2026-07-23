@@ -6,7 +6,7 @@ date: 2019-05-31
 doi: 10.1111/jcpe.13127
 pmid: "31058336"
 source: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr+ma
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.txt
@@ -78,5 +78,5 @@ CHX 유효 농도 임계값은 ≥0.10%로 확인됐으며, 에센셜오일은 �
 
 ## Related Papers
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; CHX 단독 SR+MA
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane; CHX 단독 SR+MA
 - [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — 수술 후 CHX SR
