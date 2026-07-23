@@ -5,7 +5,7 @@ year: 2022
 date: 2022-04-27
 doi: 10.1016/j.jds.2022.04.011
 source: park-2022-scrp-vs-crp-upper-premolar.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: retrospective
 pmid: "36299302"
 pmcid: "PMC9588807"
@@ -72,5 +72,5 @@ SCRP is widely preferred for its retrievability and passive fit, but the narrow 
 ## Related Papers
 
 - Heo et al. (2015), SCRP newly-designed abutment *(아직 위키 미수록)* — 원조 SCRP 설계 및 원리
-- [[prosthetic-materials/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — SCRP vs BSRP 전향적 RCT
+- [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — SCRP vs BSRP 전향적 RCT
 - [[implants/kim-2022-abutment-connection-mbl-survival]] — SCRP와 MBL 감소 연관성
