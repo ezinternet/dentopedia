@@ -5,7 +5,7 @@ year: 2018
 date: 2018-12-27
 doi: "10.1002/14651858.CD004625.pub5"
 source: lamont-2018-routine-scale-and-polish-periodontal-health.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lamont-2018-routine-scale-and-polish-periodontal-health.txt
 pdf_filename: lamont-2018-routine-scale-and-polish-periodontal-health.txt
@@ -73,7 +73,7 @@ This Cochrane review (update of the 2013 version) asks whether **routine scaling
 
 ## Related Papers
 
-- [[periodontics/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — contrast: PMPR adds benefit as an adjunct to OHI in *established* gingivitis, whereas this review finds no benefit of *routine* prophylaxis in low-risk healthy adults (different population/question).
+- [[periodontics/non-surgical-instrumentation/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — contrast: PMPR adds benefit as an adjunct to OHI in *established* gingivitis, whereas this review finds no benefit of *routine* prophylaxis in low-risk healthy adults (different population/question).
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — reinforces risk-based recall concept in periodontal maintenance.
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — modality comparison within professional prophylaxis.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — modality comparison within professional prophylaxis.
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — synthesis this page feeds into.
