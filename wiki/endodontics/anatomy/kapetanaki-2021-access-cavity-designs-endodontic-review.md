@@ -54,3 +54,4 @@ Literature review evaluating traditional 근관 접근와동 (Traditional Endodo
 - [[endodontics/anatomy/ribeiro-2022-guided-endodontics-static-dynamic-review]] — static vs dynamic guided endodontics
 - [[endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr]] — CBCT for canal anatomy assessment
 - [[endodontics/anatomy/hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr]] — MB2 Iranian prevalence
+- [[overviews/conservative-access-cavity-biomechanics-overview]] — 2026 synthesis (9 papers) refines this review's "conflicting/insufficient" fracture-resistance verdict into a conditional-benefit finding (real advantage, but only with intact marginal ridges + magnification); this page's practical caution against broadly replacing TEC still holds — no clinical/RCT data exists in either source
