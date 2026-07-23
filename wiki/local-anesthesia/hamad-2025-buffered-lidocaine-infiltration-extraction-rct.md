@@ -86,12 +86,12 @@ The notable methodological strength is **measuring the pH** with a calibrated me
 
 [미검증] Prepare buffered solution immediately before injection (precipitation risk on standing). No dose adjustment was made for weight/age in this ASA I/II adult cohort.
 
-[wiki-living-document] Healthy adult, non-inflamed (chronic periapical, not acute SIP) population; reinjection was the only efficacy proxy and was NS. Apply as "buffering improves comfort/onset/duration in routine maxillary infiltration," not as evidence for rescuing failed anesthesia — for the high-failure SIP scenario see [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] and [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]].
+[wiki-living-document] Healthy adult, non-inflamed (chronic periapical, not acute SIP) population; reinjection was the only efficacy proxy and was NS. Apply as "buffering improves comfort/onset/duration in routine maxillary infiltration," not as evidence for rescuing failed anesthesia — for the high-failure SIP scenario see [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] and [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]].
 
 ## Related Papers
 
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset in mandibular IANB extraction; this page confirms onset and adds injection-pain + duration in the infiltration route (reinforces).
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered lidocaine IANB in SIP; success-rate evidence in inflamed tissue.
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — buffered vs preheated lignocaine IANB in SIP.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration LA-formulation question in extraction (reinforces the formulation-optimization theme).
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context.
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset in mandibular IANB extraction; this page confirms onset and adds injection-pain + duration in the infiltration route (reinforces).
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered lidocaine IANB in SIP; success-rate evidence in inflamed tissue.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — buffered vs preheated lignocaine IANB in SIP.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration LA-formulation question in extraction (reinforces the formulation-optimization theme).
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context.

@@ -74,5 +74,5 @@ Elective dental care is best timed at weeks 14–20 with semi-supine/left-tilt p
 
 ## Related Papers
 
-- [[drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — reinforces: systematic review on vasoconstrictors in pregnancy reaching the same low-dose-epinephrine conclusion; this review supplies the physiological mechanism.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — applies-to: the RCT-level equivalence evidence (1:80,000 vs 1:200,000) this review cites to justify the 1:200,000 recommendation.
+- [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — reinforces: systematic review on vasoconstrictors in pregnancy reaching the same low-dose-epinephrine conclusion; this review supplies the physiological mechanism.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — applies-to: the RCT-level equivalence evidence (1:80,000 vs 1:200,000) this review cites to justify the 1:200,000 recommendation.

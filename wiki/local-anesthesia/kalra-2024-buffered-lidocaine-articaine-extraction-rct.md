@@ -88,12 +88,12 @@ The trial is small (7 per arm), so many pairwise post-hoc comparisons were non-s
 
 [미검증] If using 4% articaine, buffering further trims onset, but buffered solutions precipitate if held too long, so prepare immediately before use.
 
-[wiki-living-document] Onset-only evidence; for the injection-pain and duration benefits of buffering, see the sibling pages [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] and [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]]. Apply this page's conclusion as "buffering speeds onset," qualified by the small sample.
+[wiki-living-document] Onset-only evidence; for the injection-pain and duration benefits of buffering, see the sibling pages [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] and [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]]. Apply this page's conclusion as "buffering speeds onset," qualified by the small sample.
 
 ## Related Papers
 
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine in maxillary infiltration; confirms onset + adds injection-pain and duration benefits (reinforces).
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered vs precooled lidocaine IANB in SIP; extends buffering to success-rate and inflamed-tissue setting.
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — buffered vs preheated lignocaine IANB in SIP; another LA-enhancement comparison.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration variable in mandibular extraction; complementary LA-formulation question.
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline framework into which buffering evidence feeds.
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine in maxillary infiltration; confirms onset + adds injection-pain and duration benefits (reinforces).
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered vs precooled lidocaine IANB in SIP; extends buffering to success-rate and inflamed-tissue setting.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — buffered vs preheated lignocaine IANB in SIP; another LA-enhancement comparison.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration variable in mandibular extraction; complementary LA-formulation question.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline framework into which buffering evidence feeds.

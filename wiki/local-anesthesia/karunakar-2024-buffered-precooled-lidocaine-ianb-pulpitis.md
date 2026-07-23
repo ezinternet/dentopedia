@@ -93,11 +93,11 @@ A caution for citation: the paper is internally inconsistent. The abstract/concl
 
 [미검증] Korean cartridges are typically 1:80,000 or 1:100,000 epinephrine 2% lidocaine; the 1:10 NaHCO3 buffering protocol applies directly. Prepare fresh — buffered solution precipitates if held too long.
 
-[wiki-living-document] Single-center n=45 with a borderline success Chi-square (p=0.03) and an internal data inconsistency. Apply the "buffering ~doubles SIP success" message as directionally strong but quantitatively soft; the larger sibling [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] (n=252) corroborates buffering's intraoperative-pain benefit in the same SIP model.
+[wiki-living-document] Single-center n=45 with a borderline success Chi-square (p=0.03) and an internal data inconsistency. Apply the "buffering ~doubles SIP success" message as directionally strong but quantitatively soft; the larger sibling [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] (n=252) corroborates buffering's intraoperative-pain benefit in the same SIP model.
 
 ## Related Papers
 
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — larger (n=252) SIP RCT; buffered vs preheated, both beat conventional (reinforces this page's buffering benefit).
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset data in non-inflamed extraction; this page extends it to SIP success/duration.
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration; injection-pain/onset/duration benefits in a non-SIP model.
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context for hot-tooth management.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — larger (n=252) SIP RCT; buffered vs preheated, both beat conventional (reinforces this page's buffering benefit).
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset data in non-inflamed extraction; this page extends it to SIP success/duration.
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration; injection-pain/onset/duration benefits in a non-SIP model.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context for hot-tooth management.

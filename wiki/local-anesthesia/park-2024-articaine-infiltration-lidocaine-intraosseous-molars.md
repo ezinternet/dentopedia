@@ -76,5 +76,5 @@ A Korean retrospective comparison (SNU Bundang Hospital, conservative dentistry)
 
 ## Related Papers
 
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — extends: same drug class, concentration axis (1:80,000 vs 1:200,000) for mandibular surgery; this paper adds the technique axis (infiltration vs intraosseous).
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — applies-to: provides Korean clinical-guideline context for the difficult mandibular-molar anesthesia case this study tackles.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — extends: same drug class, concentration axis (1:80,000 vs 1:200,000) for mandibular surgery; this paper adds the technique axis (infiltration vs intraosseous).
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — applies-to: provides Korean clinical-guideline context for the difficult mandibular-molar anesthesia case this study tackles.

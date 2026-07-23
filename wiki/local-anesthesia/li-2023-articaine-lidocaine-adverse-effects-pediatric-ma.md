@@ -41,7 +41,7 @@ This PRISMA systematic review + meta-analysis (PROSPERO CRD42022293058) is the f
 
 [확인] No significant between-drug difference appeared on any outcome-specific subgroup: postoperative pain (RR 1.62, 0.84–3.12), soft-tissue injury (RR 0.93, 0.32–2.70), or edema (RR 1.03, 0.15–6.96). Adverse events were mostly captured by postoperative phone follow-up.
 
-[미검증] A key conditioning caveat: across the included RCTs, **articaine was predominantly used for buccal infiltration (BI) and lidocaine for inferior alveolar nerve block (IANB)**. The safety equivalence therefore holds most firmly for articaine-as-infiltration; articaine safety via IANB in children remains under-evidenced. This aligns with the broader infiltration-superiority / IANB-paresthesia-caution picture in [[drug/becker-2012-local-anesthetics-pharmacological-considerations]] (4% articaine paresthesia 7.3×).
+[미검증] A key conditioning caveat: across the included RCTs, **articaine was predominantly used for buccal infiltration (BI) and lidocaine for inferior alveolar nerve block (IANB)**. The safety equivalence therefore holds most firmly for articaine-as-infiltration; articaine safety via IANB in children remains under-evidenced. This aligns with the broader infiltration-superiority / IANB-paresthesia-caution picture in [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] (4% articaine paresthesia 7.3×).
 
 ## Key Contributions
 
@@ -75,7 +75,7 @@ This PRISMA systematic review + meta-analysis (PROSPERO CRD42022293058) is the f
 
 ## Related Papers
 
-- [[drug/becker-2012-local-anesthetics-pharmacological-considerations]] — pharmacology of articaine (4% paresthesia 7.3×; plasma-esterase clearance) that contextualizes the BI-vs-IANB caveat.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — adult lidocaine/epinephrine choice; this page extends the agent-safety question to children.
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA clinical-guideline proposal; pediatric dosing context.
+- [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — pharmacology of articaine (4% paresthesia 7.3×; plasma-esterase clearance) that contextualizes the BI-vs-IANB caveat.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — adult lidocaine/epinephrine choice; this page extends the agent-safety question to children.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA clinical-guideline proposal; pediatric dosing context.
 </content>

@@ -76,4 +76,4 @@ The needle-free patch is feasible as primary anesthesia for medium-complexity vi
 
 ## Related Papers
 
-- [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — extends: that review flags needle-free/topical patch formulations as promising-but-understudied; this cohort provides the clinical data point, relevant to the injection-pain-and-anxiety problem (including in pregnancy, where minimizing injection pain is emphasized).
+- [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — extends: that review flags needle-free/topical patch formulations as promising-but-understudied; this cohort provides the clinical data point, relevant to the injection-pain-and-anxiety problem (including in pregnancy, where minimizing injection pain is emphasized).

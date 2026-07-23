@@ -87,11 +87,11 @@ The trade-off is practical: preheating needs a cartridge warmer and thermometer,
 
 [미검증] Korean 2% lidocaine/1:80,000 cartridges fit both protocols directly. Buffered solution must be used fresh (precipitation); preheated requires verifying the solution reaches body temperature before injection.
 
-[wiki-living-document] Outcome is VAS reduction, not a hard success %; preheated-vs-buffered equivalence (p=0.183) means neither can be claimed superior for pulpal anesthesia. Apply as "either enhancement strongly outperforms conventional in SIP." The sibling [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] adds the success-rate dimension (buffering ~doubles SIP success).
+[wiki-living-document] Outcome is VAS reduction, not a hard success %; preheated-vs-buffered equivalence (p=0.183) means neither can be claimed superior for pulpal anesthesia. Apply as "either enhancement strongly outperforms conventional in SIP." The sibling [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] adds the success-rate dimension (buffering ~doubles SIP success).
 
 ## Related Papers
 
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — SIP IANB, buffered vs precooled; reports success rates and corroborates buffering's intraoperative benefit (reinforces).
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset in non-inflamed extraction; this page extends buffering to SIP efficacy/injection-pain.
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration; onset/duration/injection-pain in a non-SIP model.
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context for hot-tooth anesthesia.
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — SIP IANB, buffered vs precooled; reports success rates and corroborates buffering's intraoperative benefit (reinforces).
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffering onset in non-inflamed extraction; this page extends buffering to SIP efficacy/injection-pain.
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration; onset/duration/injection-pain in a non-SIP model.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Korean LA guideline context for hot-tooth anesthesia.

@@ -49,4 +49,4 @@ No primary outcomes — this is a guideline overview. For numerical thresholds (
 
 ## Related Papers
 
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — paired article in the same JKDA issue
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — paired article in the same JKDA issue

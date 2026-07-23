@@ -43,7 +43,7 @@ LW/E (2% lidocaine + 1:100,000 epinephrine, unchanged since 1948) carries three 
 
 [확인] In Sprague-Dawley rats, Sample 3A's anesthetic duration was **comparable to commercial LW/E** on both assays: hot-plate paw-withdrawal (max 10 s at 1 min for 3A vs 12.33 s at 5 min for LW/E; NS except 20 min) and radiant-heat tail-flick latency (effect observed to 270 min; NS except 20/50/60 min). Viscosity, injectability comparable; ETongue showed reduced bitterness; Draize local toxicity was minor and transient (erythema/eschar 1.4 ± 0.6 at 6 h resolving by 24 h).
 
-[미검증] This sits **upstream** of the clinical buffered-lidocaine RCTs in the wiki — those buffer a *conventional* LW/E cartridge chairside to improve onset/comfort; this paper instead designs a *vasoconstrictor-free* buffered product whose duration comes from osmolality/viscosity. It is positioned as `contradicts` to the epinephrine-concentration framing of [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] only in the narrow sense that it questions whether epinephrine is needed at all for duration — not as a clinical refutation (rat surrogate, no human data).
+[미검증] This sits **upstream** of the clinical buffered-lidocaine RCTs in the wiki — those buffer a *conventional* LW/E cartridge chairside to improve onset/comfort; this paper instead designs a *vasoconstrictor-free* buffered product whose duration comes from osmolality/viscosity. It is positioned as `contradicts` to the epinephrine-concentration framing of [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] only in the narrow sense that it questions whether epinephrine is needed at all for duration — not as a clinical refutation (rat surrogate, no human data).
 
 ## Key Contributions
 
@@ -79,10 +79,10 @@ LW/E (2% lidocaine + 1:100,000 epinephrine, unchanged since 1948) carries three 
 
 ## Related Papers
 
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — clinical buffered-LA RCT (extraction); this paper extends the buffering concept to a vasoconstrictor-free product.
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered + precooled lidocaine IANB onset.
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration RCT.
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — preheated buffered lignocaine IANB.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration question this formulation sidesteps entirely.
-- [[drug/becker-2012-local-anesthetics-pharmacological-considerations]] — vasopressor duration rationale (delayed absorption) this design tries to replace.
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — clinical buffered-LA RCT (extraction); this paper extends the buffering concept to a vasoconstrictor-free product.
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered + precooled lidocaine IANB onset.
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration RCT.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — preheated buffered lignocaine IANB.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — epinephrine-concentration question this formulation sidesteps entirely.
+- [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — vasopressor duration rationale (delayed absorption) this design tries to replace.
 </content>

@@ -43,7 +43,7 @@ This is the foundational pharmacology reference for the wiki's local-anesthesia 
 
 [확인] **Metabolism**: amides hepatic, esters plasma-esterase. Articaine is an amide whose ester side chain gives plasma-esterase clearance (t½ 20–40 min vs >90 min for other amides) — lower systemic-toxicity risk during long appointments.
 
-[미검증] This page underpins the epinephrine-concentration evidence in [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] (it explains why >1:200,000 epinephrine adds no onset/duration benefit for IANB) and the buffered-LA RCTs (it explains the pH/pKa onset mechanism those papers manipulate by raising cartridge pH).
+[미검증] This page underpins the epinephrine-concentration evidence in [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] (it explains why >1:200,000 epinephrine adds no onset/duration benefit for IANB) and the buffered-LA RCTs (it explains the pH/pKa onset mechanism those papers manipulate by raising cartridge pH).
 
 ## Key Contributions
 
@@ -89,10 +89,10 @@ Narrative (non-systematic) CE review synthesizing landmark pharmacokinetic studi
 
 ## Related Papers
 
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT support for the "1:200,000 epinephrine adds no benefit over 1:100,000 for blocks" principle stated here.
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffered LA; this page supplies the pH/pKa onset mechanism it exploits.
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered/precooled lidocaine onset.
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration.
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — preheated buffered lignocaine.
-- [[drug/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma]] — pediatric articaine safety, contextualized by the 4% paresthesia caveat here.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — RCT support for the "1:200,000 epinephrine adds no benefit over 1:100,000 for blocks" principle stated here.
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — buffered LA; this page supplies the pH/pKa onset mechanism it exploits.
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — buffered/precooled lidocaine onset.
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — buffered lidocaine infiltration.
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — preheated buffered lignocaine.
+- [[local-anesthesia/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma]] — pediatric articaine safety, contextualized by the 4% paresthesia caveat here.
 </content>

@@ -73,4 +73,4 @@ True allergy to amide LAs is extremely rare — most "LA allergy" reports reflec
 
 ## Related Papers
 
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — refines: adds the rare amide-allergic / ester-untestable fallback pathway to the standard agent-selection guideline.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — refines: adds the rare amide-allergic / ester-untestable fallback pathway to the standard agent-selection guideline.

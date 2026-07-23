@@ -37,7 +37,7 @@ A short position paper from a Korean OMS academic, arguing for the development o
 
 - Documents the standardization gap in Korean dental local anesthesia practice.
 - Articulates the scope a future guideline must cover.
-- Pairs with [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] as a "sedation has a guideline; local anesthesia does not" message in the same JKDA issue.
+- Pairs with [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] as a "sedation has a guideline; local anesthesia does not" message in the same JKDA issue.
 
 ## Methodology
 
@@ -49,4 +49,4 @@ No primary outcomes. The contribution is institutional rather than empirical.
 
 ## Related Papers
 
-- [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — paired sedation guideline introduction in the same JKDA issue
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — paired sedation guideline introduction in the same JKDA issue
