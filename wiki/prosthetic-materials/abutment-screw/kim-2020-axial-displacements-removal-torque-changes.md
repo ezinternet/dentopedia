@@ -5,7 +5,7 @@ year: 2020
 date: 2020-02-04
 doi: "10.3390/ma13030699"
 source: kim-2020-axial-displacements-removal-torque-changes.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2020-axial-displacements-removal-torque-changes.pdf
 pdf_filename: kim-2020-axial-displacements-removal-torque-changes.pdf
@@ -94,7 +94,7 @@ Order: **Int-O2 < Int-H2 < Ext < Int-H1, Int-O1**.
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — extends: Vélez links abutment-screw insertion torque to Morse-taper misfit; this paper supplies the post-loading settling/removal-torque mechanism.
-- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: independent evidence that Morse-taper interfaces undergo measurable axial subsidence/settling under load.
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — extends: Vélez links abutment-screw insertion torque to Morse-taper misfit; this paper supplies the post-loading settling/removal-torque mechanism.
+- [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — reinforces: independent evidence that Morse-taper interfaces undergo measurable axial subsidence/settling under load.
 - [[implants/seong-2016-external-internal-implant-connection-system]] — applies-to: connection-design comparison; settling magnitude here is one mechanical determinant of external vs internal performance.
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — settling-driven preload loss is a root cause of the screw-loosening complications it tabulates.
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — settling-driven preload loss is a root cause of the screw-loosening complications it tabulates.
