@@ -67,4 +67,4 @@ Case report demonstrating a fully digital, prosthetically driven workflow for im
 
 ## Related Papers
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — hydrophilic surface long-term outcomes
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue graft for peri-implant health
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue graft for peri-implant health
