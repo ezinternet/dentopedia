@@ -6,7 +6,7 @@ date: 2017-01-13
 doi: 10.1016/j.joms.2017.01.002
 pmid: "28189661"
 source: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
@@ -75,4 +75,4 @@ CHX 겔이 가글보다 약간 우수 (RR 0.47 vs 0.58); 이질성 낮음 (I²=9
 ## Related Papers
 
 - [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — CHX 효능 기초 근거 (치은염/치태)
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — 사랑니 발치 후 결과 SR
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — 사랑니 발치 후 결과 SR
