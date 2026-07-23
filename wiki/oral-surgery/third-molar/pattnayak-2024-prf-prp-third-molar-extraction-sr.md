@@ -5,7 +5,7 @@ year: 2024
 date: 2024-12-20
 doi: 10.5005/jp-journals-10024-3727
 source: pattnayak-2024-prf-prp-third-molar-extraction-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pattnayak-2024-prf-prp-third-molar-extraction-sr.pdf
 pdf_filename: pattnayak-2024-prf-prp-third-molar-extraction-sr.pdf
@@ -57,5 +57,5 @@ Clinical context: Mandibular third molars have denser cortical bone, leading to 
 
 ## Related Papers
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — PRF in extraction socket healing (broader scope, vs. spontaneous healing)
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Surgical techniques for mandibular wisdom tooth removal
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Prevention of dry socket after lower third molar extraction
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Surgical techniques for mandibular wisdom tooth removal
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Prevention of dry socket after lower third molar extraction
