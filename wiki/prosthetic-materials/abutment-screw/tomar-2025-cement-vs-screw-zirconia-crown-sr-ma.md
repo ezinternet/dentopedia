@@ -7,7 +7,7 @@ doi: 10.7759/cureus.83370
 journal: Cureus
 source: tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.md
 evidence_level: sr+ma
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.pdf
 pdf_filename: tomar-2025-cement-vs-screw-zirconia-crown-sr-ma.pdf
 source_collection: external
@@ -70,5 +70,5 @@ First SR+MA specifically for zirconia implant crowns (monolithic/layered). Key f
 - Long-term prognosis equivalent — patient preference and esthetic zone concerns can guide final choice
 
 ## Related Papers
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR (all materials): no survival difference; CR = biological, SR = mechanical complications
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — prospective 12mo: SR screw loosening 18%; CR marginal/cement issues higher
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR (all materials): no survival difference; CR = biological, SR = mechanical complications
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — prospective 12mo: SR screw loosening 18%; CR marginal/cement issues higher

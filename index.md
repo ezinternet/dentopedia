@@ -991,7 +991,7 @@ tags: []
 - [[prosthetic-materials/abutment-screw/park-2022-scrp-vs-crp-upper-premolar]] — Park 2022 · retrospective · CBCT 가상 식립(47명, 58개): 상악 제1소구치 SCRP 가능 52%·제2소구치 78.8%; RA(보철축-치조골각 차)가 CRP 선택 독립 예측인자(OR=1.885)
 - [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — Kim 2023 · rct · 다기관 전향적 RCT(64임플란트, 12개월, 부산대+연세대): BSRP vs SCRP 생존율 100% 동등·MBL 차이 없음; BSRP 나사 풀림↑·SCRP 나사 파절↑
 - [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR(12편): 나사 vs 시멘트 유지형 생존율 동등; 생물학적 합병증 시멘트형↑, 기계적 합병증 나사형↑; 재진입성 나사형 우수
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA(7편, 334개 지르코니아): 나사형 6개월 MBL 유의하게 낮음(SMD -0.63, p=0.002); 장기 동등; 합병증 46% 감소(RR 0.54)
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA(7편, 334개 지르코니아): 나사형 6개월 MBL 유의하게 낮음(SMD -0.63, p=0.002); 장기 동등; 합병증 46% 감소(RR 0.54)
 - [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]] — 전향적코호트(n=20, 439 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자); 리튬디실리케이트 79.7%; 환자만족 심미 9.5/기능 9.3
 - [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] — RCT(n=40, 36mo): 지르코니아 vs FRC 캔틸레버 IR-FDP 생존율 97.5%·성공률 96.6%; 양군 유의차 없음; 최소침습 후방 결손 해결책
 - [[prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr]] — 리튬 디실리케이트 단단관 보철 임상 결과 SR 개요 — 5년 생존율 95–98%, 임플란트 지지 LD 근거 증가.
