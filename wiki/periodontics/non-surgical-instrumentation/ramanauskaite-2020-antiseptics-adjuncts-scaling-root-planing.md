@@ -5,7 +5,7 @@ year: 2020
 date: 2020-05-24
 doi: 10.1186/s12903-020-01127-1
 source: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing.pdf
 pdf_filename: ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing.pdf
@@ -54,5 +54,5 @@ Scaling and root planing (SRP) is the cornerstone of nonsurgical periodontal the
 - Conclusion: adjunctive subgingivally delivered antiseptics with a **sustained-release** vehicle have significant clinical benefits over SRP alone; irrigation does not.
 
 ## Related Papers
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the SRP-alone guideline by quantifying when a sustained-release antiseptic adjunct adds significant PD/CAL/BOP benefit.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — extends the SRP-alone guideline by quantifying when a sustained-release antiseptic adjunct adds significant PD/CAL/BOP benefit.
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — reinforces the staged EFP treatment framework with delivery-mode-specific evidence for local antiseptic adjuncts in step-2 therapy.
