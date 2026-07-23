@@ -5,7 +5,7 @@ year: 2001
 date: 2001-04-01
 doi: 10.1067/mpr.2001.114685
 source: goodacre-2001-tooth-preparations-complete-crowns-art-form.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/goodacre-2001-tooth-preparations-complete-crowns-art-form.pdf
 pdf_filename: goodacre-2001-tooth-preparations-complete-crowns-art-form.pdf
@@ -75,7 +75,7 @@ Goodacre, Campagni, and Aquilino review ~250 years of complete-coverage tooth pr
 ## Related Papers
 
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — central synthesis hub; this review is the canonical guideline source it builds on
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — SR quantifying the historic TOC drift (6° → 10-22°) this review narrates
-- [[prosthetic-materials/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — in-vitro confirmation of auxiliary grooves/boxes for short molars (principle #5)
-- [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary resistance features and marginal fit in short molars
-- [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — ceramic-era SR addressing the marginal-fit question left open here
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — SR quantifying the historic TOC drift (6° → 10-22°) this review narrates
+- [[prosthetic-materials/tooth-preparation/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — in-vitro confirmation of auxiliary grooves/boxes for short molars (principle #5)
+- [[prosthetic-materials/tooth-preparation/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary resistance features and marginal fit in short molars
+- [[prosthetic-materials/tooth-preparation/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — ceramic-era SR addressing the marginal-fit question left open here
