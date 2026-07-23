@@ -5,7 +5,7 @@ year: 2022
 date: 2022-02-27
 doi: 10.1111/jcpe.13603
 source: heo-2022-omega-3-fatty-acids-periodontitis-ma.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
@@ -68,8 +68,8 @@ All significant overall; low risk of bias; no publication bias. Effect sizes sma
 ## Related Papers
 
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 guideline recommending *against* omega-3 PUFA adjunct (Grade A); the direct conflict.
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — sibling antioxidant/host-modulation adjunct (CoQ10): route-stratified, oral 120 mg/day positive, gel null.
-- [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — CoQ10 MA reaching a pro-gel conclusion.
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — mechanical-therapy backbone underneath any adjunct.
-- [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — probiotics, the most-evidenced periodontal adjunct.
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — sibling antioxidant/host-modulation adjunct (CoQ10): route-stratified, oral 120 mg/day positive, gel null.
+- [[periodontics/host-modulation/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — CoQ10 MA reaching a pro-gel conclusion.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — mechanical-therapy backbone underneath any adjunct.
+- [[periodontics/host-modulation/kim-2026-probiotics-nspt-periodontal-db-rct]] — probiotics, the most-evidenced periodontal adjunct.
 - [[overviews/periodontics-treatment-ladder]] — where host-modulation adjuncts sit in the overall ladder.
