@@ -6,7 +6,7 @@ date: 2026-03-14
 doi: "10.1016/j.joms.2026.03.008"
 pmid: "41912025"
 source: thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.txt
@@ -71,6 +71,6 @@ This SR+MA by Thereza-Bussolaro et al. (JOMS 2026) is a companion to their JADA 
 - Substantial heterogeneity across studies; results should be interpreted with caution
 
 ## Related Papers
-- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — reinforces: companion paper by same group reporting OR values (JADA 2026)
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — extends: advances beyond panoramic to CBCT-stratified absolute risk
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — extends: classic foundational IAN review
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — reinforces: companion paper by same group reporting OR values (JADA 2026)
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — extends: advances beyond panoramic to CBCT-stratified absolute risk
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — extends: classic foundational IAN review
