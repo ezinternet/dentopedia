@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-25
 doi: 10.3390/jcm15114071
 source: angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -82,6 +82,6 @@ Pooled (2 RCTs, n=94, 8 weeks) — all favoring adjunctive melatonin; all GRADE-
 ## Related Papers
 
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — extends: same T2DM + periodontitis NSPT-adjunct question, local ozone gel vs systemic melatonin here.
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis SRP adjunct (mechanical method) — same population, different adjunct class.
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — another antioxidant host-modulation NSPT adjunct.
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — anti-inflammatory dietary adjunct to periodontal therapy.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis SRP adjunct (mechanical method) — same population, different adjunct class.
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — another antioxidant host-modulation NSPT adjunct.
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — anti-inflammatory dietary adjunct to periodontal therapy.
