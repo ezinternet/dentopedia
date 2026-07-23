@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-03
 doi: 10.1007/s00784-026-06955-z
 source: luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -110,6 +110,6 @@ The network is connected through the manual common comparator, supplemented by t
 
 ## Related Papers
 
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — extends: professional care raising patient plaque-control capability; this NMA quantifies the home-care tool (brush-technology) axis of plaque control.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — extends: professional care raising patient plaque-control capability; this NMA quantifies the home-care tool (brush-technology) axis of plaque control.
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — reinforces: biofilm matrix biology that the O-R 3D shear-force mechanical disruption rationale acts upon.
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — related: professional biofilm removal in NSPT; complements home-care device ranking here.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — related: professional biofilm removal in NSPT; complements home-care device ranking here.
