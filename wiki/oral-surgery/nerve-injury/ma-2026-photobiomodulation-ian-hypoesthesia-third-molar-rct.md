@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-01
 doi: 10.1177/25785478261462397
 source: ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct.pdf
 pdf_filename: ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct.pdf
@@ -83,5 +83,5 @@ Both active strategies produced statistically and clinically meaningful improvem
 
 ## Related Papers
 
-- [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — SR-MA of LLLT/PBM for third molar surgical complications; this RCT adds head-to-head strategy comparison
-- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — literature review on altered sensation after mandibular nerve procedures; this RCT provides high-level evidence for PBM management
+- [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — SR-MA of LLLT/PBM for third molar surgical complications; this RCT adds head-to-head strategy comparison
+- [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — literature review on altered sensation after mandibular nerve procedures; this RCT provides high-level evidence for PBM management
