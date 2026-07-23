@@ -61,4 +61,4 @@ Periosteal releasing incision (PRI) is the standard maneuver for tension-free pr
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — quantifies PRI as the largest single advancement contributor (+5.5 mm); this paper is the laser-device execution of that maneuver.
 - [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] — alternative closure technique (lingual advancement) for tension-free GBR closure.
 - [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] — major-advancement closure over Ti-mesh.
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.

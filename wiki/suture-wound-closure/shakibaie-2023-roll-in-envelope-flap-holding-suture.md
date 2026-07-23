@@ -57,6 +57,6 @@ This prospective case series addresses peri-implant soft-tissue management rathe
 
 ## Related Papers
 
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — flap-management context; RIE extends the closure/soft-tissue theme toward phenotype (thickness) outcomes.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — flap-management context; RIE extends the closure/soft-tissue theme toward phenotype (thickness) outcomes.
 - [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] — sibling flap-design study, but for major GBR/Ti-mesh closure rather than soft-tissue thickening (contrast in goal).
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — systematic-review flap-design taxonomy.

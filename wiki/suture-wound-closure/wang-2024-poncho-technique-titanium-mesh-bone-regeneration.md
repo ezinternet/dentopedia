@@ -58,4 +58,4 @@ Soft-tissue dehiscence and titanium-mesh exposure (documented at 15.2–23.9% in
 - [[suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh]] — direct sibling: another flap technique aimed at eliminating Ti-mesh exposure (RCT-level evidence vs this case series).
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — MPT instantiates the major-advancement (≥7 mm) stratum of this taxonomy.
 - [[suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr]] — alternative advancement maneuver (periosteal releasing incision) for tension-free closure.
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.

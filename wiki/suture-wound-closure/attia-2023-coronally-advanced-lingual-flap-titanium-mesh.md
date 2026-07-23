@@ -61,4 +61,4 @@ In horizontal ridge augmentation of the posterior mandible with titanium mesh (T
 - [[suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration]] — sibling Ti-mesh primary-closure flap (major advancement); independent technique addressing the same mesh-exposure problem.
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — systematic-review framework; CALF is a major-advancement (≥7 mm) lingual technique within its taxonomy.
 - [[suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr]] — alternative advancement route (periosteal releasing incision) for tension-free GBR closure.
-- [[suture-wound-closure/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — broader flap-management context.
