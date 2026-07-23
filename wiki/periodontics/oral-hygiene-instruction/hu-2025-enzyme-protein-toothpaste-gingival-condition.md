@@ -5,7 +5,7 @@ year: 2025
 date: 2025-11-03
 doi: 10.1186/s12903-025-07096-7
 source: hu-2025-enzyme-protein-toothpaste-gingival-condition.md
-category: periodontics
+category: periodontics/oral-hygiene-instruction
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -81,4 +81,4 @@ This 26-week, double-blind, two-arm parallel RCT (Xi'an, China; NCT06932211) tes
 
 ## Related Papers
 
-- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — **reinforces**. Shares the **lysozyme** active ingredient, but as a *systemic* 이가탄/CELC oral tablet for periodontitis adjunct rather than this *topical* enzyme-protein toothpaste. Contrast of delivery route: this RCT shows strong local GI/plaque benefit for lysozyme-containing toothpaste, complementing the more limited systemic-tablet evidence.
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — **reinforces**. Shares the **lysozyme** active ingredient, but as a *systemic* 이가탄/CELC oral tablet for periodontitis adjunct rather than this *topical* enzyme-protein toothpaste. Contrast of delivery route: this RCT shows strong local GI/plaque benefit for lysozyme-containing toothpaste, complementing the more limited systemic-tablet evidence.
