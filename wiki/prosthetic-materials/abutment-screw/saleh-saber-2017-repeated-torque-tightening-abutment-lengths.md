@@ -69,4 +69,4 @@ All between-group differences: p<0.001. Repeated 30 Ncm: significant change 1st�
 
 ## Related Papers
 
-- [[prosthetic-materials/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — clinical evidence linking implant–prosthesis misfit to marginal bone loss; this study provides mechanical basis for connection-type misfit differences
+- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — clinical evidence linking implant–prosthesis misfit to marginal bone loss; this study provides mechanical basis for connection-type misfit differences

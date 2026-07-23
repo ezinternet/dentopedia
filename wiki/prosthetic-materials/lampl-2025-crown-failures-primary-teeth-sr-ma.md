@@ -73,5 +73,5 @@ Descriptive RCT retention ranges: compomer 77.8–100%; composite resin 80.6–1
 
 ## Related Papers
 
-- [[wiki/prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — another SR+MA in the prosthetic-materials category; while that paper addresses implant zirconia-crown retention mode (cement vs screw) rather than pediatric crowns, both establish zirconia's clinical retention/complication profile across restorative contexts.
-- [[wiki/prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — long-term zirconia prosthetic-restoration survival SR; complements this paper's zirconia-specific gingival-inflammation and retention findings by providing broader (non-pediatric) zirconia longevity context.
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — another SR+MA in the prosthetic-materials category; while that paper addresses implant zirconia-crown retention mode (cement vs screw) rather than pediatric crowns, both establish zirconia's clinical retention/complication profile across restorative contexts.
+- [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — long-term zirconia prosthetic-restoration survival SR; complements this paper's zirconia-specific gingival-inflammation and retention findings by providing broader (non-pediatric) zirconia longevity context.
