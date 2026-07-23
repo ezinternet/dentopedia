@@ -6,7 +6,7 @@ date: 2010-01-19
 doi: 10.1111/j.1600-051X.2009.01521.x
 pmid: "20088984"
 source: escribano-2010-low-concentration-chlorhexidine-periodontitis.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 source_collection: external
 pdf_path: /Users/oracleneo/llm-wiki/papers/escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
@@ -42,7 +42,7 @@ Low-concentration CHX (0.05%) achieves microbial and anti-inflammatory benefit b
 - **미생물**: F. nucleatum, P. intermedia 치은열구 균수 감소; 타액 총균수 감소
 - **PPD/CAL**: 군간 차이 없음 — 구조적 개선 없이 미생물/염증 제어에 국한
 
-**임상적 의의**: 표준 CHX(0.12%/0.2%)의 절반 이하 농도(0.05%)도 플라크 억제·항균 효과를 나타냄 → [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] "농도별 차이 없음" 결론의 실증 데이터.
+**임상적 의의**: 표준 CHX(0.12%/0.2%)의 절반 이하 농도(0.05%)도 플라크 억제·항균 효과를 나타냄 → [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] "농도별 차이 없음" 결론의 실증 데이터.
 
 ## Key Contributions
 
@@ -70,5 +70,5 @@ Low-concentration CHX (0.05%) achieves microbial and anti-inflammatory benefit b
 
 ## Related Papers
 
-- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA; 이 RCT 포함
-- [[periodontics/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — 0.12% CHX RCT
+- [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — Cochrane SR+MA; 이 RCT 포함
+- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — 0.12% CHX RCT
