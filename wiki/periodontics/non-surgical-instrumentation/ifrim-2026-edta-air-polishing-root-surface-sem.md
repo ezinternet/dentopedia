@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-14
 doi: 10.3390/medicina62040753
 source: ifrim-2026-edta-air-polishing-root-surface-sem.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
