@@ -1,0 +1,49 @@
+{
+  "overview": "vital-pulp-therapy-decision-ladder",
+  "date": "2026-07-23",
+  "title": "생활치수요법(VPT) 결정 사다리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/vital-pulp-therapy-decision-ladder.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "생활치수요법(VPT)에서 결과를 가장 좌우하는 것은?",
+      "opts": [
+        "사용 재료의 종류",
+        "진단(case selection) — 가역성 치수염 진단이 핵심 게이트, 올바르게 선별된 증례 안에서만 재료·술식이 결과를 최적화",
+        "술자의 경력",
+        "환자의 나이"
+      ],
+      "ans": 1,
+      "rat": "가장 중요한 takeaway: 진단이 술식보다 결과를 좌우 — 가역성 치수염 진단이 핵심 게이트. 올바르게 선별된 증례에서는 재료 차이가 사라진다 — 3-way DPC RCT(Hu 2026, n=120): iRoot BP Plus 88.5%·MTA 93.1%·Ca(OH)₂ 84.6% 유의차 없음(p=0.6), 실패 최강 예측인자는 재료가 아니라 근심면 우식(OR=18.18).",
+      "cite": "overviews/vital-pulp-therapy-decision-ladder"
+    },
+    {
+      "id": "q2",
+      "q": "직접치수복조(DPC) 재료 위계와 수산화칼슘의 위치는?",
+      "opts": [
+        "Ca(OH)₂가 1차 재료다",
+        "Biodentine·MTA가 1차(Ca(OH)₂ 대비 OR 4.41·3.02, Hatipoglu 2025); Ca(OH)₂는 MTA 대비 2.3–2.5배 실패로 1차 비권장 — silicate끼리(MTA vs Biodentine)는 우열 없음",
+        "TheraCal이 가장 우수",
+        "재료 간 차이는 항상 크다"
+      ],
+      "ans": 1,
+      "rat": "재료 위계: Biodentine·MTA가 1차 — DPC서 Ca(OH)₂ 대비 OR 4.41(Biodentine)·3.02(MTA), SUCRA Biodentine>MTA>TheraCal>Ca(OH)₂(Hatipoglu 2025). Ca(OH)₂는 어떤 VPT에서도 1차 비권장(MTA 대비 2.3–2.5배 실패, Komora 2024). 전체 VPT 성공률 >93%(Elmsmari 2026), MTA vs Ca(OH)₂ HIGH certainty 우월, silicate끼리는 우열 없음.",
+      "cite": "overviews/vital-pulp-therapy-decision-ladder"
+    },
+    {
+      "id": "q3",
+      "q": "ESE 2019의 VPT 4단계 위계(침습도 순)와 진단 게이트는?",
+      "opts": [
+        "전부치수절단술 → 부분치수절단술 → DPC → IPC",
+        "간접치수복조(IPC) → 직접치수복조(DPC) → 부분치수절단술 → 전부치수절단술; 자발통·30초 이상 지속통이면 비가역성 → 근관치료",
+        "모든 케이스에 전부치수절단술",
+        "진단 게이트는 없다"
+      ],
+      "ans": 1,
+      "rat": "ESE 2019 4단계 위계(침습도 순): IPC → DPC → 부분치수절단술 → 전부치수절단술. 진단 게이트: 냉/EPT 양성, 자발통·30초 이상 지속통이면 비가역성 → 근관치료; 노출부 출혈이 선홍색·5분내 지혈되면 양호. 생활치수절단술(Jang 2026)은 치관부+상부치근 치수만 제거하고 근첨 생활치수 보존.",
+      "cite": "overviews/vital-pulp-therapy-decision-ladder"
+    }
+  ]
+}
