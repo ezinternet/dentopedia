@@ -54,5 +54,5 @@ This is the domain-specific application of the communication/SDM principles to t
 ## Related Papers
 - [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] — shared decisions to set realistic expectations.
 - [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — communication strategies/consent.
-- [[implants/index]] — clinical implant outcomes expectations are measured against.
+- [[index]] — clinical implant outcomes expectations are measured against.
 - [[overviews/behavioral-dentistry-overview]] — category synthesis.
