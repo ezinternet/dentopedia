@@ -2925,7 +2925,7 @@ tags: []
 - [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — Thereza-Bussolaro 2026 · sr+ma · CBCT 11개 코호트: 전체 IAN 손상률 9.52%; 고위험군 14.76%; 피질골 소실 15.65% vs 존재 0.39% (40배 차이) (JOMS)
 - [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — Al-Aroomi 2025 · sr · 11개 RCT: 사랑니 발치 후 CGF(농축성장인자) 적용 시 통증 75%·진통제 100% 개선; 방사선 골충전 80%·치주 지표 100% 향상; 부기·치조골염 효과 불명확
 - [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — 서사적 문헌 고찰(2010): 하악 구치부 임플란트 식립 후 감각이상(Altered Sensation) 이환율 0–55%로 이질적; 하치조신경·이신경 주로 손상, 일시적 증례는 6개월 이내 회복, NSAIDs·미세신경문합술로 치료
-- [[oral-surgery/misch-2010-mandibular-nerve-neurosensory-implant-management]] — Misch & Resnik 2010 · narrative-review · 임플란트 식립 후 IAN 신경감각손상 관리·프로토콜: 손상 분류(neuropraxia→neurotmesis), 발생률 0–44%, 즉각적 처치 알고리듬
+- [[oral-surgery/nerve-injury/misch-2010-mandibular-nerve-neurosensory-implant-management]] — Misch & Resnik 2010 · narrative-review · 임플란트 식립 후 IAN 신경감각손상 관리·프로토콜: 손상 분류(neuropraxia→neurotmesis), 발생률 0–44%, 즉각적 처치 알고리듬
 - [[oral-surgery/nerve-injury/khawaja-2009-ian-implant-removal-nerve-injury-cases]] — Khawaja & Renton 2009 · case-report · 임플란트 조기 제거(18h–4d)로 IAN 손상 회복 4증례: 18h·36h 제거 → 거의 완전 회복, 2d·4d → 영구 감각장애 (BDJ)
 - [[oral-surgery/nerve-injury/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — Kämmerer et al. 2024 · narrative-review · IAN·설신경 손상 스코핑 리뷰: 발생률(지혜치 0.4–5.5% 영구, 임플란트 >30% 일시적), Seddon 분류, 신경감각검사, 보존·수술 치료 결정 (Clin Oral Invest)
 - [[oral-surgery/nerve-injury/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — Keykha et al. 2024 · sr · 의인성 만성 하악신경 감각이상 치료 SR(7 RCT): PBM·비타민B12·prednisolone 각각 회복 가속; 근거 수준 낮음 (Max Plast Reconstr Surg)

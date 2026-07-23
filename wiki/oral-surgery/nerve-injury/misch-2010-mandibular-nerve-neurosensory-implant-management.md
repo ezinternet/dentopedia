@@ -5,7 +5,7 @@ year: 2010
 date: 2010-01-01
 doi: "10.1097/ID.0b013e3181effa92"
 source: misch-2010-mandibular-nerve-neurosensory-implant-management.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/misch-2010-mandibular-nerve-neurosensory-implant-management.pdf
 pdf_filename: misch-2010-mandibular-nerve-neurosensory-implant-management.pdf
@@ -77,4 +77,4 @@ Expert narrative review integrating:
 
 ## Related Papers
 
-- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — systematic literature review on altered sensation in the mandible, complementary evidence base for IAN injury outcomes
+- [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — systematic literature review on altered sensation in the mandible, complementary evidence base for IAN injury outcomes
