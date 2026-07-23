@@ -5,7 +5,7 @@ year: 2026
 date: 2026-07-01
 doi: 10.1016/j.prosdent.2026.03.003
 source: zhang-2026-bibliometric-implant-abutment-research-2005-2024.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2026-bibliometric-implant-abutment-research-2005-2024.pdf
 pdf_filename: zhang-2026-bibliometric-implant-abutment-research-2005-2024.pdf
@@ -81,10 +81,10 @@ Thematically, the corpus tells a clear story: an early titanium/stress-distribut
 ## Related Papers
 
 - [[immediate-implant/socket-shield/fang-2025-socket-shield-ai-bibliometric-analysis]] — methodological sibling: same bibliometric approach applied to a different topic (socket-shield technique)
-- [[prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — the hybrid/zirconia-vs-titanium clinical question the field's material-shift theme maps onto
-- [[prosthetic-materials/angermair-2024-microgap-abutment-displacement-implant-connection]] — mechanistic detail behind the "sealing material" / "bacterial leakage" clusters
-- [[prosthetic-materials/lee-2025-abutment-screw-design-torque-loss-fatigue]] — mechanistic detail behind the "mechanical stability" cluster
-- [[prosthetic-materials/bulaqi-2015-dynamic-nature-abutment-screw-retightening]] — abutment-screw preload mechanics
+- [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — the hybrid/zirconia-vs-titanium clinical question the field's material-shift theme maps onto
+- [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]] — mechanistic detail behind the "sealing material" / "bacterial leakage" clusters
+- [[prosthetic-materials/abutment-screw/lee-2025-abutment-screw-design-torque-loss-fatigue]] — mechanistic detail behind the "mechanical stability" cluster
+- [[prosthetic-materials/abutment-screw/bulaqi-2015-dynamic-nature-abutment-screw-retightening]] — abutment-screw preload mechanics
 - [[overviews/abutment-emergence-profile-peri-implant-tissue-overview]] — the peri-implant tissue / emergence-profile theme
 - [[overviews/abutment-screw-preload-joint-stability-overview]] — joint-stability synthesis
 - [[overviews/implant-prosthesis-misfit-connection-mbl-overview]] — connection/microgap–marginal-bone-loss synthesis (platform-switching theme)
