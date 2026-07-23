@@ -74,4 +74,4 @@ Authors' conclusion (verbatim): "There is inconsistent, low-quality evidence reg
 - [[glass-ionomer/singh-2024-gic-rmgic-biological-response-sr]] — applies-to: GIC vs RMGI cytotoxicity / biological response is the pulp-protection premise this Cochrane SR tests; Schenkel shows the premise does not yield a consistent clinical benefit beneath composite.
 - [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — GIC clinical applications including liner/base indications.
 - [[glass-ionomer/panetta-2024-gic-longevity-umbrella-review]] — GIC restorative longevity context complementing the longevity (null) finding here.
-- [[glass-ionomer/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] — ion-releasing/GIC liner-base material behavior.
+- [[dental-materials/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] — ion-releasing/GIC liner-base material behavior.

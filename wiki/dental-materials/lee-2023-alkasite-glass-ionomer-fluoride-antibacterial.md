@@ -55,5 +55,5 @@ Bench comparison of Cention N (alkasite) against Fuji IX GP (conventional GIC) a
 - Agar diffusion = diffusible effect, not contact killing.
 
 ## Related Papers
-- [[dental-materials/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — GIC secondary caries SR/MA
-- [[dental-materials/schmidt-2024-root-caries-restorative-adhesive-nma]] — root caries restorative network MA
+- [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — GIC secondary caries SR/MA
+- [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — root caries restorative network MA

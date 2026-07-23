@@ -70,4 +70,4 @@ Milling was significantly superior to 3D printing at every timepoint; the null h
 
 - [[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]] — same 3D-printed hybrid ceramic material class shows low, challenging resin bond strength values; this paper's finding of larger marginal gaps for 3D-printed hybrid nanoceramic reinforces the broader picture of 3D-printed hybrid ceramics underperforming milled counterparts on multiple fit/adhesion metrics.
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — SR+MA identifying restoration thickness and adhesive protocol as key CAD/CAM failure drivers; marginal gap and cement layer thickness findings here are mechanistically linked to that failure-mode evidence.
-- [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — clinical CAD/CAM all-ceramic FDP outcomes context for interpreting in-vitro marginal fit results.
+- [[dental-materials/ceramic/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — clinical CAD/CAM all-ceramic FDP outcomes context for interpreting in-vitro marginal fit results.

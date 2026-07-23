@@ -52,5 +52,5 @@ Five-year survival rates for all-ceramic FDPs generally >90% for single crowns. 
 
 ## Related Papers
 - [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — esthetic OR 16.88 for CAD/CAM vs PFM
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
 - [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — ZrO₂ crowns vs FPDs 5-year retrospective

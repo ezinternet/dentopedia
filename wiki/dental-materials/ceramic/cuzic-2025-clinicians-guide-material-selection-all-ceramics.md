@@ -77,8 +77,8 @@ Cuzic et al. (2025) is a narrative/comprehensive review that reframes contempora
 
 ## Related Papers
 
-- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — earlier all-ceramic narrative review; this page updates it with monolithic-CAD/CAM and resin-cement framing (reinforces).
-- [[resin-bonding/blatz-2018-resin-bonding-high-strength-ceramics-review]] — adhesive principles for high-strength ceramics, extended here into the material-selection decision (extends).
+- [[dental-materials/ceramic/warreth-2020-all-ceramic-restorations-narrative-review]] — earlier all-ceramic narrative review; this page updates it with monolithic-CAD/CAM and resin-cement framing (reinforces).
+- [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — adhesive principles for high-strength ceramics, extended here into the material-selection decision (extends).
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM restoration failure modes; the failure-side counterpart to this selection guide.
 - [[dental-materials/zirconia/cesar-2024-dental-zirconia-15years-material-processing]] — deep-dive on the zirconia class (3Y-TZP↔5Y-PSZ, multilayer, translucency) referenced here.
-- [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — survival evidence for the lithium-disilicate class named in the indication map.
+- [[dental-materials/ceramic/almashaan-2023-lithium-disilicate-survival-sr]] — survival evidence for the lithium-disilicate class named in the indication map.
