@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-30
 doi: 10.1186/s12903-026-08694-9
 source: jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -87,7 +87,7 @@ For residual pockets in maintenance, adding the "clean and seal" (AA-NaOCl + xHA
 
 ## Related Papers
 
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — extends: systemic-antimicrobial adjunct evidence to non-surgical therapy; this trial tests a local "clean and seal" adjunct in the re-instrumentation/maintenance setting.
-- [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — companion on subgingival debridement and GCF biomarker dynamics (here IL-1β/MMP-8 unchanged).
-- [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — mechanical instrumentation effects on root hard tissue, context for repeated SRI.
-- [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] — PD predicts SRP response, consistent with the deeper-pocket effect modifier here.
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — extends: systemic-antimicrobial adjunct evidence to non-surgical therapy; this trial tests a local "clean and seal" adjunct in the re-instrumentation/maintenance setting.
+- [[periodontics/non-surgical-instrumentation/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — companion on subgingival debridement and GCF biomarker dynamics (here IL-1β/MMP-8 unchanged).
+- [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — mechanical instrumentation effects on root hard tissue, context for repeated SRI.
+- [[periodontics/non-surgical-instrumentation/meseli-2016-probing-depth-srp-response-periodontitis]] — PD predicts SRP response, consistent with the deeper-pocket effect modifier here.
