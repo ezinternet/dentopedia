@@ -3723,7 +3723,7 @@ tags: []
 - [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — 골밀도화(OD) vs 통상드릴링 umbrella review (SR 9편): 저밀도골에서 1차 안정성(IT/ISQ) 향상, MBL·생존율(>95%)은 유사 [sr+ma, abstract-only]
 
 ### prosthetic-materials
-- [[prosthetic-materials/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
+- [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
 
 ### implants/peri-implantitis
 - [[implants/peri-implantitis/quirynen-2025-peri-implantitis-risk-assessment-pira]] — 후향연구(460명·임플란트 1,432개), 임플란트 주위염 술전 예측모델(PiRA), 부분무치악군 민감도 90.2%/특이도 55.0%, 무료 온라인 도구 배포 [retrospective]

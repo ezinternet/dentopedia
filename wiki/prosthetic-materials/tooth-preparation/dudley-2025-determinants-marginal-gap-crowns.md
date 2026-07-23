@@ -5,7 +5,7 @@ year: 2026
 date: 2026-02-01
 doi: 10.1016/j.prosdent.2025.10.010
 source: dudley-2025-determinants-marginal-gap-crowns.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/dudley-2025-determinants-marginal-gap-crowns.pdf
 pdf_filename: dudley-2025-determinants-marginal-gap-crowns.pdf
@@ -63,6 +63,6 @@ Umbrella review of systematic reviews of in vitro studies (PRISMA-guided), searc
 | Contemporary acceptable limit | 120 µm |
 
 ## Related Papers
-- [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — earlier single SR (excluded from this umbrella review's synthesis for mixed in vivo/in vitro data) reaching a similar "no system ranks superior" conclusion; this umbrella review statistically confirms and extends it across 17 newer SRs.
-- [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — SR isolating tooth-preparation design (finish line, taper, occlusal reduction) as a marginal/internal-gap determinant, complementary to the variables tested here.
+- [[prosthetic-materials/tooth-preparation/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — earlier single SR (excluded from this umbrella review's synthesis for mixed in vivo/in vitro data) reaching a similar "no system ranks superior" conclusion; this umbrella review statistically confirms and extends it across 17 newer SRs.
+- [[prosthetic-materials/tooth-preparation/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — SR isolating tooth-preparation design (finish line, taper, occlusal reduction) as a marginal/internal-gap determinant, complementary to the variables tested here.
 - [[dental-materials/ceramic/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — in vitro study finding milled crowns have smaller marginal gaps than 3D-printed crowns, consistent with the "Mosaddad 2025" study included in this umbrella review.
