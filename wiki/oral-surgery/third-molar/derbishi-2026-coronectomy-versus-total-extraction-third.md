@@ -5,7 +5,7 @@ year: 2026
 date: 2026-03-22
 doi: 10.7759/cureus.105646
 source: derbishi-2026-coronectomy-versus-total-extraction-third.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/derbishi-2026-coronectomy-versus-total-extraction-third.pdf
 pdf_filename: derbishi-2026-coronectomy-versus-total-extraction-third.pdf
@@ -57,6 +57,6 @@ This 2026 meta-analysis is the methodologically strongest coronectomy-vs-total-e
 
 ## Related Papers
 
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 동일 방향의 IAN 보호 효과를 현대적·확정적 추정치로 보강
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA 결과 수렴
-- [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — 낮은 재수술률(1.2% vs 4.45%) 데이터와 상호 참조
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 동일 방향의 IAN 보호 효과를 현대적·확정적 추정치로 보강
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA 결과 수렴
+- [[oral-surgery/third-molar/di-spirito-2025-re-intervention-rate-timing-indications]] — 낮은 재수술률(1.2% vs 4.45%) 데이터와 상호 참조
