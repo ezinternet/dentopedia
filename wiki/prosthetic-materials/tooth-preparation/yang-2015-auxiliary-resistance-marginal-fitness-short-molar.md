@@ -5,7 +5,7 @@ year: 2015
 date: 2015-10-01
 doi: 10.7518/hxkq.2015.05.007
 source: yang-2015-auxiliary-resistance-marginal-fitness-short-molar.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2015-auxiliary-resistance-marginal-fitness-short-molar.pdf
 pdf_filename: yang-2015-auxiliary-resistance-marginal-fitness-short-molar.pdf
@@ -83,6 +83,6 @@ In vitro experimental study (West China Journal of Stomatology 2015) — bilingu
 - No long-term degradation simulation
 
 ## Related Papers
-- [[prosthetic-materials/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — adjacent paper on auxiliary features WITHOUT marginal fit measurement
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — baseline retention by TOC
-- [[prosthetic-materials/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal seating in FPDs
+- [[prosthetic-materials/tooth-preparation/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — adjacent paper on auxiliary features WITHOUT marginal fit measurement
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — baseline retention by TOC
+- [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal seating in FPDs
