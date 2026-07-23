@@ -1,0 +1,49 @@
+{
+  "overview": "interdental-cleaning-devices-synthesis",
+  "date": "2026-07-23",
+  "title": "치간 청소도구 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/interdental-cleaning-devices-synthesis.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "치간 청소도구 선택에서 가장 큰 변수는?",
+      "opts": [
+        "도구 자체의 이론적 효능",
+        "순응도(adherence) — 단일 보편 우승 도구는 없고, 환자가 실제로 매일 쓰는 도구가 최선",
+        "도구의 가격",
+        "제조사 브랜드"
+      ],
+      "ans": 1,
+      "rat": "단일 보편 우승 도구 없음 — 가장 큰 변수는 도구가 아니라 순응도. Yilmaz 2025 RCT(24주): 고무 치간 픽 규칙사용 12.61주 vs 치실 4.96주(p=0.003), 양군 모두 규칙 사용 주수와 플라크·출혈이 음의 상관 → '가장 오래 쓰는 도구가 이긴다'. 공간 허용 시 치간칫솔(IDB)이 1순위.",
+      "cite": "overviews/interdental-cleaning-devices-synthesis"
+    },
+    {
+      "id": "q2",
+      "q": "치실(DF)의 권장 위치와 '치실은 기술만 가르치면 된다'는 통념에 대한 근거는?",
+      "opts": [
+        "모든 부위에서 1순위 도구",
+        "치간칫솔이 안 들어가는 좁은/정상 접촉에만 한정; 술식 교육으로 flossing 술식은 향상돼도 치태 제거는 개선 안 됨(Jung 2025) — 통념 반박",
+        "치실은 어떤 교육으로도 효과 없다",
+        "치실이 치간칫솔보다 항상 우월하다"
+      ],
+      "ans": 1,
+      "rat": "치실은 치간칫솔이 안 들어가는 좁은/정상 접촉에만 한정 권장. Jung 2025(n=37): 동영상 교육으로 flossing 술식(FPS 2.0→2.83, p<.001)은 향상됐으나 치태 제거(PSPI 차이 p=.112)는 개선 안 됨, 술식과 무관 → '기술만 가르치면 된다'는 통념 반박, DF를 좁은 접촉 한정으로 두는 결정 보강.",
+      "cite": "overviews/interdental-cleaning-devices-synthesis"
+    },
+    {
+      "id": "q3",
+      "q": "구강세정기/워터플로서(WF)의 강점을 옳게 요약한 것은?",
+      "opts": [
+        "치면세균막(플라크) 제거에서 모든 도구보다 우월",
+        "플라크보다 출혈·치은염 개선에 강함(Badahdah 2025 18 RCT) — 이득은 '칫솔질 단독' 대비이며 교정환자에서 더 뚜렷; 플라크 우위는 없음",
+        "교정환자에서 가장 효과가 없다",
+        "임플란트 주위에서 칫솔질보다 확실히 우월"
+      ],
+      "ans": 1,
+      "rat": "WF는 플라크보다 출혈·치은염에 강함 — Badahdah 2025(18 RCT): 출혈지수(중등도 근거)·치은지수 개선하나 플라크 우위 없음, 이득은 칫솔질 단독 대비·교정환자에서 뚜렷. 이 해석이 Mohapatra(WF 우위) vs Yiamwattana(교정서 NS) 갈등을 해소. 단 임플란트 주위·교정 단독 부가는 칫솔질 대비 NS.",
+      "cite": "overviews/interdental-cleaning-devices-synthesis"
+    }
+  ]
+}
