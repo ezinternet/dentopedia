@@ -5,7 +5,7 @@ year: 2019
 date: 2019-09-05
 doi: 10.1186/s40902-019-0222-4
 source: tojyo-2019-risk-of-lingual-nerve-injuries.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/tojyo-2019-risk-of-lingual-nerve-injuries.pdf
 pdf_filename: tojyo-2019-risk-of-lingual-nerve-injuries.pdf
@@ -65,7 +65,7 @@ The central finding is that **distoangular impaction** of the mandibular third m
 
 ## Related Papers
 
-- [[oral-surgery/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — broader scoping review of IAN and lingual nerve injury diagnosis/management; this paper adds impaction-type risk stratification specifically for severe lingual nerve injury that the Kämmerer review does not isolate.
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review of surgical technique choices (including lingual nerve protection) for mandibular third molar removal; complements this paper's risk-factor focus with technique-level evidence.
-- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — literature review of altered sensation after mandibular third molar surgery, relevant background context.
+- [[oral-surgery/nerve-injury/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — broader scoping review of IAN and lingual nerve injury diagnosis/management; this paper adds impaction-type risk stratification specifically for severe lingual nerve injury that the Kämmerer review does not isolate.
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review of surgical technique choices (including lingual nerve protection) for mandibular third molar removal; complements this paper's risk-factor focus with technique-level evidence.
+- [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — literature review of altered sensation after mandibular third molar surgery, relevant background context.
 - [[overviews/ian-nerve-injury-management-overview]] — cross-paper synthesis of IAN/lingual nerve injury management this paper's distoangular-impaction risk finding could inform.

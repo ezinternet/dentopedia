@@ -1606,7 +1606,7 @@ tags: []
 - [[oral-surgery/zheng-2025-dental-pulp-stem-cells-alleviate]] — Zheng 2025 · animal (게잡이원숭이 신경도관 + 랫드 FNI 모델 + in vitro): 치수줄기세포 (Dental Pulp Stem Cells, DPSC)가 터널링 나노튜브 (Tunneling Nanotube, TNT)로 미토콘드리아를 슈반세포에 전달해 파이롭토시스·미토콘드리아 활성산소종 (Reactive Oxygen Species, ROS)을 억제 → 안면신경 재생·수초 회복 촉진; 세포간 접합 또는 미토콘드리아 기능 차단 시 효과 소실, TNFα 전처리 DPSC는 효능 증대. 전임상 단계 — 임상 적용 아님 (DOI 10.1016/j.bioactmat.2025.01.031)
 - [[oral-surgery/chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery]] — 이비인후과 관점 리뷰+증례(abstract-only): 치과·구강악안면외과 수술 후 의인성 BPPV — sinus lift에 국한되지 않은 일반화된 기전(수술적 외상 유래) 근거
 - [[oral-surgery/nerve-injury/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Daware 2021 · prospective (n=163) · 매복 하악 제3대구치 (Mandibular Third Molar, M3) 발치 후 합병증 평가 — 설신경 손상 (Lingual Nerve Injury, LNI) 발생률 2.45%(4건), 12주 내 전원 완전 회복; 하치조신경 감각이상 (Inferior Alveolar Nerve Paresthesia, IANP) 및 건성 발치와 (Alveolar Osteitis / Dry Socket, AO) 발생률 0%
-- [[oral-surgery/tojyo-2019-risk-of-lingual-nerve-injuries]] — Tojyo 2019 · retrospective case-control (n=79, 설신경 미세수술 봉합례) · 원심경사 (Distoangular) 매복 하악 제3대구치가 6개 문헌대조군 대비 중증 설신경손상 (Lingual Nerve Injury, LNI)군에서 유의하게 과다대표(30.8% vs 0.2–15.8%); 여성·고령도 유의 연관, 손상측(좌/우)은 무관 — 대조군이 비매칭 문헌자료라는 한계 (DOI 10.1186/s40902-019-0222-4)
+- [[oral-surgery/nerve-injury/tojyo-2019-risk-of-lingual-nerve-injuries]] — Tojyo 2019 · retrospective case-control (n=79, 설신경 미세수술 봉합례) · 원심경사 (Distoangular) 매복 하악 제3대구치가 6개 문헌대조군 대비 중증 설신경손상 (Lingual Nerve Injury, LNI)군에서 유의하게 과다대표(30.8% vs 0.2–15.8%); 여성·고령도 유의 연관, 손상측(좌/우)은 무관 — 대조군이 비매칭 문헌자료라는 한계 (DOI 10.1186/s40902-019-0222-4)
 
 
 ## 레진 (Resin)
