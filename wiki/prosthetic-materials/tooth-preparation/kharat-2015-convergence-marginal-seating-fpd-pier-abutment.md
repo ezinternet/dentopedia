@@ -5,7 +5,7 @@ year: 2015
 date: 2015-07-01
 doi: 10.7860/JCDR/2015/13155.6206
 source: kharat-2015-convergence-marginal-seating-fpd-pier-abutment.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/kharat-2015-convergence-marginal-seating-fpd-pier-abutment.pdf
 pdf_filename: kharat-2015-convergence-marginal-seating-fpd-pier-abutment.pdf
@@ -55,6 +55,6 @@ In vitro experimental study (Journal of Clinical and Diagnostic Research July 20
 - 0° convergence는 임상적으로 의미 없는 수치로 trend만 보기 위한 비교축
 
 ## Related Papers
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — convergence × retention in multi-unit FPDs
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — Dubai practice TOC values
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — SR context for TOC literature
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — convergence × retention in multi-unit FPDs
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — Dubai practice TOC values
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — SR context for TOC literature
