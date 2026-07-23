@@ -5,7 +5,7 @@ year: 2024
 date: 2024-08-13
 doi: 10.3390/dj12080253
 source: wink-2024-effect-novel-adaptive-handle-design.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: in-vivo
 source_collection: pubmed-text
 full_text: true
@@ -70,4 +70,4 @@ This pilot in vivo study (UC Irvine, IRB-exempt) compared the ergonomic performa
 
 ## Related Papers
 
-- [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — applies-to: that narrative review ranks hand instrumentation as the most abrasive debridement modality for cementum/enamel among the three professional modalities, but with the best tactile feedback; this study quantifies the complementary clinician-facing cost of the same hand-instrumentation modality (musculoskeletal load) and shows an adaptive handle can reduce that cost without sacrificing tactile feedback.
+- [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — applies-to: that narrative review ranks hand instrumentation as the most abrasive debridement modality for cementum/enamel among the three professional modalities, but with the best tactile feedback; this study quantifies the complementary clinician-facing cost of the same hand-instrumentation modality (musculoskeletal load) and shows an adaptive handle can reduce that cost without sacrificing tactile feedback.
