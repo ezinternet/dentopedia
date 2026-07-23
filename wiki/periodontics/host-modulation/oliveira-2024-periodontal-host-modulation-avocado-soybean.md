@@ -5,7 +5,7 @@ year: 2024
 date: 2024-07-04
 doi: 10.23736/S2724-6329.24.04854-X
 source: oliveira-2024-periodontal-host-modulation-avocado-soybean.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: animal
 source_collection: pubmed-text
 full_text: false
@@ -71,6 +71,6 @@ Sixty rats were split into four groups (healthy vs arthritic × ASU vs saline). 
 
 ## Related Papers
 
-- [[periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]] — Zea mays (corn) unsaponifiable is the active of 인사돌; ASU here is the international avocado/soybean counterpart in the same unsaponifiable host-modulation family.
-- [[periodontics/kim-2018-magnoliae-cortex-zea-mays-modulate]] — earlier work on the Magnoliae cortex + Zea mays extract pairing; ASU reinforces the cross-species mechanistic case for unsaponifiable HMT on periodontal bone loss.
-- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — clinical RCT of the 인사돌플러스 (Insadol-family) OTC product; this animal ASU evidence is the international-analog preclinical complement to that human trial.
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — Zea mays (corn) unsaponifiable is the active of 인사돌; ASU here is the international avocado/soybean counterpart in the same unsaponifiable host-modulation family.
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — earlier work on the Magnoliae cortex + Zea mays extract pairing; ASU reinforces the cross-species mechanistic case for unsaponifiable HMT on periodontal bone loss.
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — clinical RCT of the 인사돌플러스 (Insadol-family) OTC product; this animal ASU evidence is the international-analog preclinical complement to that human trial.
