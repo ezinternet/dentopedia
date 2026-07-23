@@ -75,8 +75,11 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `periodontics` | 치주치료 | Periodontal disease, regeneration, SPT |
-| `interdental-cleaning` | 치간 청소 | Interdental cleaning devices/aids — dental floss, interdental brush (IDB), water flosser / oral irrigator (Waterpik), wooden toothpick; efficacy RCTs/SRs, device head-to-heads, adherence, gingival abrasion, papilla harm. (Watanabe toothpick *toothbrushing* method → `periodontics`; peri-implant device comparisons → `implants/peri-implantitis`) |
+| `periodontics` | 치주치료 | Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory. (patient/home plaque-control mechanical+chemical → `periodontics/oral-hygiene-instruction`; professional non-surgical instrumentation → `periodontics/non-surgical-instrumentation`; nutraceutical/probiotic/herbal adjuncts → `periodontics/host-modulation`) |
+| `periodontics/oral-hygiene-instruction` | 치주치료·치면세균막관리 | Patient/home plaque control — toothbrush (manual/powered/electric) design & technique, Watanabe/Bass toothpick methods, toothpaste/dentifrice, chemical plaque control (chlorhexidine & other mouthrinse adjuncts), plaque-disclosing agents & indices, digital plaque monitoring |
+| `periodontics/non-surgical-instrumentation` | 치주치료·비외과적기구처치 | Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines |
+| `periodontics/host-modulation` | 치주치료·숙주조절요법 | Host-modulation therapy adjuncts to periodontal treatment — probiotics, coenzyme Q10, omega-3, melatonin, vitamins, herbal/nutraceutical extracts (magnoliae cortex, avocado-soybean unsaponifiables, etc.) |
+| `interdental-cleaning` | 치간 청소 | Interdental cleaning devices/aids — dental floss, interdental brush (IDB), water flosser / oral irrigator (Waterpik), wooden toothpick; efficacy RCTs/SRs, device head-to-heads, adherence, gingival abrasion, papilla harm. (Watanabe toothpick *toothbrushing* method → `periodontics/oral-hygiene-instruction`; peri-implant device comparisons → `implants/peri-implantitis`) |
 | `oral-microbiology` | 구강미생물학 | Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P. gingivalis, F. nucleatum), polymicrobial synergy & dysbiosis (PSD) model, Streptococcus/Candida interactions, microbiome–systemic/cancer links |
 | `halitosis` | 구취 | Halitosis etiology (VSC, bacteria, systemic), prevalence, measurement (organoleptic/halitometric), management (oral hygiene, probiotics, PDT), systemic associations (periodontitis, H. pylori, OHRQoL) |
 
@@ -98,7 +101,9 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
-| `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
+| `prosthetic-materials` | 보철재료 | Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory. (abutment screw/retention biomechanics → `prosthetic-materials/abutment-screw`; tooth preparation geometry → `prosthetic-materials/tooth-preparation`) |
+| `prosthetic-materials/abutment-screw` | 보철재료·지대주나사 | Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons |
+| `prosthetic-materials/tooth-preparation` | 보철재료·지대치형성 | Tooth preparation geometry for crowns/FPDs — total occlusal convergence (TOC)/taper, finish-line design, marginal adaptation/gap, resistance & retention form, preparation-quality assessment |
 | `complete-denture` | 총의치·가철성보철 | Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics. (denture *occlusal scheme* balanced/lingualized → `occlusion`) |
 | `occlusion` | 교합 | Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment |
 | `digital-workflow` | 디지털워크플로우 | IOS accuracy, CBCT, CAD/CAM, guided surgery |
