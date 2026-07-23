@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-03
 doi: 10.1111/idh.70083
 source: hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: case-report
 source_collection: pubmed-text
 full_text: false
@@ -59,4 +59,4 @@ Single-patient case report. Glycine-based air-powder abrasion was applied subgin
 
 ## Related Papers
 
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — refines: adds a device-/protocol-specific safety caveat (subcutaneous facial emphysema risk) to the largely favorable Guided Biofilm Therapy / air-polishing evidence.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — refines: adds a device-/protocol-specific safety caveat (subcutaneous facial emphysema risk) to the largely favorable Guided Biofilm Therapy / air-polishing evidence.
