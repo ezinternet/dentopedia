@@ -1027,7 +1027,7 @@ tags: []
 - [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — in-vitro (West China J Stom 2015;33(5):474, 山东, 70 Nissin teeth, 20° TOC/2.5 mm): proximal groove·occlusal hole × 0°/6°/20° — 0° groove(443N)·0° hole(485N) 저항↑ 유의(P<0.05) BUT 20° groove 제외 모든 보조형 변연 부유↑; 유지력-적합 trade-off
 - [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — Alammar & Att 2022 SR: zirconia bonding durability clinical outcomes (24 studies), APA+MDP protocol, IJP
 - [[prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload]] — 내부 육각형 연결부 어버트먼트 오염 시 부분 오염만으로도 RTV 감소, 완전 오염(CT6)은 반복하중 후 예비하중 손실 가속화 (n=90, in vitro)
-- [[prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem]] — 체외 피로 시험(200만 사이클, ISO-14801): CAD-CAM 맞춤 어버트먼트 vs 기성 어버트먼트 예압 유지 동등, 최대 예압 소실은 초기 50만 사이클 이내 발생 → 조기 재조임 권장
+- [[prosthetic-materials/abutment-screw/selvi-2025-custom-stock-abutment-fatigue-sem]] — 체외 피로 시험(200만 사이클, ISO-14801): CAD-CAM 맞춤 어버트먼트 vs 기성 어버트먼트 예압 유지 동등, 최대 예압 소실은 초기 50만 사이클 이내 발생 → 조기 재조임 권장
 - [[prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws]] — Varvara 2020, 재조임 타이밍(2·5·10분) vs 프리로드 손실; 내부 헥사곤이 외부 헥사곤보다 프리로드 유지 우수; 2분 재조임 최적 (in vitro)
 - [[prosthetic-materials/abutment-screw/saleh-saber-2017-repeated-torque-tightening-abutment-lengths]] — Saleh Saber 2017, 반복 토크 조임이 내부 임플란트-어버트먼트 연결부 총 길이에 미치는 영향; 내부 옥타곤이 최소 침강, 2회차 이후 추가 변화 없음 (in vitro)
 - [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]] — Angermair 2024, 신크로트론 CT로 4종 IAC 마이크로갭·어버트먼트 변위 측정; 소각 원추형(<12°) 연결 시 외부 임플란트 벽 변형 주의 (in vitro)
