@@ -5,7 +5,7 @@ year: 2025
 date: 2025-04-29
 doi: 10.1111/clr.14443
 source: sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -78,5 +78,5 @@ Bottom line: the prosthetic/technical/esthetic profile of the hybrid abutment cr
 ## Related Papers
 
 - [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]] — different comparison (zirconia vs metal-ceramic abutment/crown material, not implant-body material) reported 5-year survival parity (96% both arms); read alongside this RCT as a caution against generalizing "zirconia = non-inferior" from restorative-material comparisons to implant-material comparisons, since here the implant body material itself was the source of the survival gap.
-- [[prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem]] — in-vitro fatigue data on custom vs stock conical-hex abutment retention; complements this RCT's clinical finding that screw/retention-loosening events (both studies) are a real but manageable mechanical concern for hybrid/screw-retained abutment systems, distinct from the osseointegration issue seen here.
+- [[prosthetic-materials/abutment-screw/selvi-2025-custom-stock-abutment-fatigue-sem]] — in-vitro fatigue data on custom vs stock conical-hex abutment retention; complements this RCT's clinical finding that screw/retention-loosening events (both studies) are a real but manageable mechanical concern for hybrid/screw-retained abutment systems, distinct from the osseointegration issue seen here.
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — broader SR/MA context on monolithic zirconia vs metal-ceramic implant crowns; this RCT adds implant-body-material-specific RCT-level evidence not previously available.

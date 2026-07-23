@@ -3652,7 +3652,7 @@ tags: []
 
 ### New batch — 2026-07-10 ingest (지르코니아 어버트먼트 · PMC full-text)
 - [[implants/soft-tissue/barwacz-2024-cadcam-abutment-morphology-implant-outcomes]] — Barwacz 2024 · rct(n=54/60, 1년) · CAD/CAM 지르코니아 지대주 오목(concave) vs 선형발산(linear divergent) 형태 — 점막정점·연조직두께·KMW·MBL·PD·BOP 모두 군간 유의차 없음(임플란트 생존율 100%)
-- [[prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — Sterzenbach 2025 · rct(n=60, 3년) · 투피스 지르코니아 vs 티타늄 임플란트 스크류 하이브리드 어버트먼트 크라운 — 지르코니아군 누적생존 티타늄(100%)보다 10.7%↓로 비열등성 미입증(골유착 부전 원인), 보철 기술적 실패는 0건
+- [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — Sterzenbach 2025 · rct(n=60, 3년) · 투피스 지르코니아 vs 티타늄 임플란트 스크류 하이브리드 어버트먼트 크라운 — 지르코니아군 누적생존 티타늄(100%)보다 10.7%↓로 비열등성 미입증(골유착 부전 원인), 보철 기술적 실패는 0건
 - [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] — Bressan 2024 · consensus(IAO, 4개 SR) · 골막상 각화점막은 주위염·심미·청소용이성에 유리(골흡수 방지엔 무관), 각화점막 증대는 FGG·두께 증대는 CTG 최선, 티타늄/지르코니아 지대주 연조직 건강 차이 없음(MBL 영향은 미해결)
 
 ### New batch — 2026-07-10 ingest (PRF/PRP 아시아저널 PMC 풀텍스트 — 발치와/상악동거상/치주재생/임플란트주위염/GBR)
