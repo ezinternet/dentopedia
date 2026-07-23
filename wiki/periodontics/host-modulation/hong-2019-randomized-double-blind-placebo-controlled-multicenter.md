@@ -6,7 +6,7 @@ date: 2019-02-26
 doi: 10.1186/s12903-019-0728-2
 journal: BMC Oral Health 2019;19:40
 source: hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2019-randomized-double-blind-placebo-controlled-multicenter.pdf
 pdf_filename: hong-2019-randomized-double-blind-placebo-controlled-multicenter.pdf
