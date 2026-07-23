@@ -5,7 +5,7 @@ year: 2011
 date: 2011-11-01
 doi: 10.1016/S0022-3913(11)60135-2
 source: roudsari-2011-auxiliary-features-resistance-short-molars-invitro.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/roudsari-2011-auxiliary-features-resistance-short-molars-invitro.pdf
 pdf_filename: roudsari-2011-auxiliary-features-resistance-short-molars-invitro.pdf
@@ -61,6 +61,6 @@ In vitro study (Journal of Prosthetic Dentistry November 2011) testing two pract
 - For Korean clinics: 짧은 대구치 prep 시 인접면 groove 추가가 가장 실용적 retention/resistance recovery
 
 ## Related Papers
-- [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary features in short molars, with marginal fit trade-off quantification
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 12° vs 20° baseline retention
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature context
+- [[prosthetic-materials/tooth-preparation/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — auxiliary features in short molars, with marginal fit trade-off quantification
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 12° vs 20° baseline retention
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature context
