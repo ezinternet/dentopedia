@@ -5,7 +5,7 @@ year: 2017
 date: 2017-01-01
 doi: 10.1016/j.ijom.2016.09.018
 source: pires-2017-late-mandibular-fracture-third-molar-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pires-2017-late-mandibular-fracture-third-molar-sr.pdf
 pdf_filename: pires-2017-late-mandibular-fracture-third-molar-sr.pdf
@@ -58,6 +58,6 @@ This systematic review (Int J Oral Maxillofac Surg 2017;46(1):46-53) analyzes 12
 - **Prevention**: Conservative bone removal, avoidance of aggressive levering on thin lingual plate, preoperative CBCT in high-risk cases
 
 ## Related Papers
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — third molar surgical decision-making and indications
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — coronectomy as alternative for high-risk third molars
-- [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — management of third molar extraction complications
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third molar surgical decision-making and indications
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — coronectomy as alternative for high-risk third molars
+- [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — management of third molar extraction complications

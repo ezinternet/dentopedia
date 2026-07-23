@@ -1582,7 +1582,7 @@ tags: []
 - [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — SR (BMC Oral Health 2025): PRF 발치 소켓 적용 → 건성치조염 발생 유의하게 감소, 통증·부종·개구제한 모두 대조군 대비 유의한 개선
 - [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA (JOMS 2024;82:73-92): 하악 IAN 고위험 제3대구치에서 치관절제술은 완전 발치 대비 IAN 손상 위험 유의하게 감소; 재수술률 5–12%; 잔존근 이동 ~2–3 mm/2년
 - [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — SR+MA (JADA 2025;156:211-224): 저출력 다이오드 레이저(LLLT) 제3대구치 발치 후 통증·부종·개구제한 유의하게 감소; 파장 800–940 nm 효과 최적; 부작용 없음
-- [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] — SR (Int J OMS 2017;46:46-53, 124증례): 발치 후 지연성 하악 골절 피크 1–3주; 하악각 부위; 수평매복·Pell-Gregory III/C·얇은 설측판이 주요 위험인자
+- [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] — SR (Int J OMS 2017;46:46-53, 124증례): 발치 후 지연성 하악 골절 피크 1–3주; 하악각 부위; 수평매복·Pell-Gregory III/C·얇은 설측판이 주요 위험인자
 - [[oral-surgery/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases]] — 후향적(n=63, 남아공): 루드비히 앙기나 균배양 = 연쇄구균 우세(아미노글리코사이드 내성); 경험적 아미노글리코사이드 사용 미생물학적 근거 부족; β-lactam 기반 요법 권장
 - [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — 전향적(n=150, 인도): 심경부 감염 치성 42.66%, 루드비히 앙기나 24.66%, 연쇄구균 31.33%; 절개배농 38%, 응급기관절개술 일부
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
