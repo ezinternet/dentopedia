@@ -5,7 +5,7 @@ year: 2023
 date: 2023-08-28
 doi: 10.4047/jap.2023.15.4.202
 source: kim-2023-bsrp-vs-scrp-prospective-multicenter.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: rct
 pmid: "37662852"
 pmcid: "PMC10471505"
@@ -81,6 +81,6 @@ A two-center (Pusan National University Dental Hospital + Yonsei University Dent
 
 ## Related Papers
 
-- [[prosthetic-materials/park-2022-scrp-vs-crp-upper-premolar]] — SCRP 해부학적 한계 (상악 소구치)
+- [[prosthetic-materials/abutment-screw/park-2022-scrp-vs-crp-upper-premolar]] — SCRP 해부학적 한계 (상악 소구치)
 - [[prosthetic-materials/kim-2022-abutment-connection-mbl-survival]] — SCRP 사용 시 MBL 감소 연관성
 - [[food-impaction]] — 임플란트 보철 음식 잔류 합병증

@@ -989,7 +989,7 @@ tags: []
 - [[prosthetic-materials/lee-2025-abutment-screw-design-torque-loss-fatigue]] — in-vitro 피로(Osstem 50개): KSIII는 전 torque에서 토크손실 <25% vs TSIII 36.5–51.8%(~2.5–3.0배); ~35 Ncm이 가장 안정적 preload (2025)
 - [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] — 전향적(100명, 12mo): 나사 유지형 풀림 18% vs 시멘트 4%; 변연 간격·시멘트 용해는 시멘트형↑ — 합병증 프로파일 반대 방향
 - [[prosthetic-materials/park-2022-scrp-vs-crp-upper-premolar]] — Park 2022 · retrospective · CBCT 가상 식립(47명, 58개): 상악 제1소구치 SCRP 가능 52%·제2소구치 78.8%; RA(보철축-치조골각 차)가 CRP 선택 독립 예측인자(OR=1.885)
-- [[prosthetic-materials/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — Kim 2023 · rct · 다기관 전향적 RCT(64임플란트, 12개월, 부산대+연세대): BSRP vs SCRP 생존율 100% 동등·MBL 차이 없음; BSRP 나사 풀림↑·SCRP 나사 파절↑
+- [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — Kim 2023 · rct · 다기관 전향적 RCT(64임플란트, 12개월, 부산대+연세대): BSRP vs SCRP 생존율 100% 동등·MBL 차이 없음; BSRP 나사 풀림↑·SCRP 나사 파절↑
 - [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — SR(12편): 나사 vs 시멘트 유지형 생존율 동등; 생물학적 합병증 시멘트형↑, 기계적 합병증 나사형↑; 재진입성 나사형 우수
 - [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA(7편, 334개 지르코니아): 나사형 6개월 MBL 유의하게 낮음(SMD -0.63, p=0.002); 장기 동등; 합병증 46% 감소(RR 0.54)
 - [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]] — 전향적코호트(n=20, 439 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자); 리튬디실리케이트 79.7%; 환자만족 심미 9.5/기능 9.3
