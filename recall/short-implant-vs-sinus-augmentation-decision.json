@@ -1,0 +1,49 @@
+{
+  "overview": "short-implant-vs-sinus-augmentation-decision",
+  "date": "2026-07-23",
+  "title": "짧은 임플란트 vs 상악동 증대 결정 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/short-implant-vs-sinus-augmentation-decision.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "위축된 후방 상악에서 짧은 임플란트(4–8mm, 무거상)와 표준/장축+상악동거상의 생존율·변연골소실(MBL) 비교는?",
+      "opts": [
+        "짧은 임플란트가 생존율이 유의하게 낮다",
+        "생존율은 6개 독립 MA 모두 동등(NS), MBL은 짧은 임플란트가 일관되게 더 적음 — 선택 기준은 생존율이 아니라 잔존골고·C/I비·환자경험",
+        "상악동거상이 MBL이 더 적다",
+        "짧은 임플란트는 합병증이 더 많다"
+      ],
+      "ans": 1,
+      "rat": "생존율 6개 MA 모두 NS(Toledano 2022 RR 1.02, Chaware 2021 RR 1.01 I²=0%). MBL은 짧은 임플란트 일관 우위(Mester 2023 WMD −0.29 p=0.005, Alenezi 2025 MD −0.26 p<0.001), 생물학적 합병증도 우위(Mester RR 0.46). 10년 RCT 생존 96.0 vs 100%(NS, Thoma 2024). 선택은 생존율 아닌 RBH·C/I·환자경험으로.",
+      "cite": "overviews/short-implant-vs-sinus-augmentation-decision"
+    },
+    {
+      "id": "q2",
+      "q": "잔존골고(RBH)에 따른 1차 결정 gate는?",
+      "opts": [
+        "RBH와 무관하게 항상 상악동거상",
+        "RBH ~5–6mm 이상 → 6–8mm 짧은 임플란트가 저이환 default; ~4–5mm 미만 → 상악동거상(생존 벤치마크 >97%)이 신뢰 경로",
+        "RBH ~2mm에서도 짧은 임플란트 우선",
+        "RBH는 결정에 영향을 주지 않는다"
+      ],
+      "ans": 1,
+      "rat": "1차 gate(RBH): ~5–6mm 이상 → 6–8mm 짧은 임플란트가 저이환 default; ~4–5mm 미만 → 상악동거상(survival >97%, Derbishi 2026)이 신뢰 경로. 2차 gate는 교합부하/parafunction(C/I비 단독은 상실·MBL에 유의 영향 없음, Torres-Alemany 2020). 동등 시 짧은 임플란트는 이환·비용·시간 우위, 거상은 track record 우위로 tie-break.",
+      "cite": "overviews/short-implant-vs-sinus-augmentation-decision"
+    },
+    {
+      "id": "q3",
+      "q": "비고정(nonsplinted) 짧은 단일치관(≤6mm)에 관한 예외적 주의점은?",
+      "opts": [
+        "비고정 단일치관이 가장 안전하다",
+        "비고정 짧은 단일치관(≤6mm)은 장기 생존 열위(Xu 2020, RR 0.94, p=.01) → splinting 또는 거상 고려",
+        "splinting은 생존율을 낮춘다",
+        "단일치관과 연결관은 차이 없다"
+      ],
+      "ans": 1,
+      "rat": "예외: 비고정(nonsplinted) 짧은 단일치관(≤6mm)은 장기 생존 열위(Xu 2020, RR 0.94, p=.01) → splinting 또는 거상 고려. 높은 C/I 단독은 짧은 임플란트 거부의 약한 이유이나, 이 비고정 단일치관 시나리오는 실질 gate. 거상 시 RBH 충분하면 경치조골이 측방창보다 술후 통증 적음(Menini 2025, 미검증).",
+      "cite": "overviews/short-implant-vs-sinus-augmentation-decision"
+    }
+  ]
+}
