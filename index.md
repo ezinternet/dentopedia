@@ -2638,7 +2638,7 @@ tags: []
 - [[periodontics/herrera-2014-acute-periodontal-lesions]] — narrative review of acute periodontal lesions (abscesses, necrotizing periodontal diseases, other acute gingival conditions): etiology, diagnosis, and emergency/definitive management
 - [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA: ozone adjunct to SRP for periodontitis, small non-significant pooled effects, high heterogeneity (I2=80.49%)
 - [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA (35 RCTs): subgingival instrumentation lowers HbA1c ~0.43% in diabetics
-- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA (45 RCTs): very-low-certainty, clinically marginal benefit of systemic antibiotics added to SRP
+- [[periodontics/non-surgical-instrumentation/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA (45 RCTs): very-low-certainty, clinically marginal benefit of systemic antibiotics added to SRP
 - [[periodontics/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal]] — SR on managing periodontal abscesses & endodontic-periodontal lesions (drainage + perio therapy; weak/heterogeneous evidence)
 - [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — RCT (n=41, 1y): erythritol air-polishing GBM vs SRP in SPC, clinically equivalent
 - [[periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking]] — case report: acute periodontal abscess mimicking apical abscess, pulp vitality testing for differential diagnosis

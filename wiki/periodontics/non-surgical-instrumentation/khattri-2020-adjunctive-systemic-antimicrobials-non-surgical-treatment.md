@@ -5,7 +5,7 @@ year: 2020
 date: 2020-11-01
 doi: 10.1002/14651858.CD012568.pub2
 source: khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment.pdf
 pdf_filename: khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment.pdf
