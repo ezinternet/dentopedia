@@ -15,7 +15,7 @@ text_filename: pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue.t
 
 ## Why Ingested
 
-Provides the synthesizing in-vitro evidence base behind the connection-geometry claim that [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] and [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] make about Morse-taper joints — this 10-study systematic review quantifies the post-fatigue torque-loss range (16.1%–39%) and consolidates that internal connection + Morse taper best resist screw loosening under cyclic loading, anchoring those single-paper findings in a body of comparative bench data.
+Provides the synthesizing in-vitro evidence base behind the connection-geometry claim that [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] and [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] make about Morse-taper joints — this 10-study systematic review quantifies the post-fatigue torque-loss range (16.1%–39%) and consolidates that internal connection + Morse taper best resist screw loosening under cyclic loading, anchoring those single-paper findings in a body of comparative bench data.
 
 ## Three-line Summary
 
@@ -80,8 +80,8 @@ Systematic review (10 in-vitro cyclic-loading studies) finding that abutment-scr
 
 ## 6. Related Work
 
-- Vélez 2020 — Morse-taper (11°) abutment-screw insertion torque (10/20/30 Ncm) vs implant–abutment misfit ([[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]]).
-- Ren 2024 — Morse-taper abutment subsidence and locking force ([[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]]).
+- Vélez 2020 — Morse-taper (11°) abutment-screw insertion torque (10/20/30 Ncm) vs implant–abutment misfit ([[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]]).
+- Ren 2024 — Morse-taper abutment subsidence and locking force ([[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]]).
 - Seong 2016 — external vs internal implant connection system ([[implants/seong-2016-external-internal-implant-connection-system]]).
 
 ## 7. Glossary

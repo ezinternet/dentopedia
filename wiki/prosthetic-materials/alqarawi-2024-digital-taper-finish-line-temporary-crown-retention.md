@@ -77,6 +77,6 @@ In vitro factorial study (Saudi Dental Journal 2024) on aged provisional molar c
 - Resin chemistry differences (printed vs milled PMMA) not isolated as confounders
 
 ## Related Papers
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — definitive crown retention, 12° vs 20° TOC
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — definitive crown retention, 12° vs 20° TOC
 - [[prosthetic-materials/harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro]] — definitive zirconia retention with surface treatment
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature SR
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — TOC literature SR

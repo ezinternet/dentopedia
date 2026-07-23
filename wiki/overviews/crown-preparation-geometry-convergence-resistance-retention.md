@@ -247,20 +247,20 @@ prep 기하는 retention만이 아니라 **(a) 최종 변연 간극**과 **(b) �
 
 ### 신규 추가 (2026-06)
 
-- [[prosthetic-materials/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Cross-sectional STL audit (n=392 posterior preparations from 3 labs) found most monolithic zirconia preparations exceeded 20° TOC and >50% had undercu … (cross-sectional, 2021)
-- [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation … (sr, 2025)
-- [[prosthetic-materials/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — 클러스터 6 과학적 9원칙 canonical anchor (TOC 10-20°, ratio ≥0.4, 보조형 조건)
-- [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — 클러스터 7 세라믹 변연적합 54편 SR (94.9% 허용, finish line·cement space·veneering·합착 4요인)
+- [[prosthetic-materials/tooth-preparation/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Cross-sectional STL audit (n=392 posterior preparations from 3 labs) found most monolithic zirconia preparations exceeded 20° TOC and >50% had undercu … (cross-sectional, 2021)
+- [[prosthetic-materials/tooth-preparation/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation … (sr, 2025)
+- [[prosthetic-materials/tooth-preparation/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — 클러스터 6 과학적 9원칙 canonical anchor (TOC 10-20°, ratio ≥0.4, 보조형 조건)
+- [[prosthetic-materials/tooth-preparation/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — 클러스터 7 세라믹 변연적합 54편 SR (94.9% 허용, finish line·cement space·veneering·합착 4요인)
 - [[digital-workflow/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr]] — 클러스터 7 prep 기하 → IOS 정확도 39편 SR
 - [[digital-workflow/sadid-zadeh-2020-teeth-prepared-students-cadcam]] — 클러스터 7 finish line이 최빈 prep 오류 (n=334)
 - [[digital-workflow/han-2023-software-automated-tooth-preparation-evaluation]] — 클러스터 7 TOC·교합삭제 software 자동평가(SAE)
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — 클러스터 1 SR anchor
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 클러스터 2 정량 anchor
-- [[prosthetic-materials/amine-2022-convergence-tooth-preparation-students-typodont]] — 클러스터 1 학생 데이터
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — 클러스터 1 임상 데이터
-- [[prosthetic-materials/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — 클러스터 3 retention 측면
-- [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — 클러스터 3 trade-off 정량
-- [[prosthetic-materials/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — pier abutment FPD 특수 케이스
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — 클러스터 1 SR anchor
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 클러스터 2 정량 anchor
+- [[prosthetic-materials/tooth-preparation/amine-2022-convergence-tooth-preparation-students-typodont]] — 클러스터 1 학생 데이터
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — 클러스터 1 임상 데이터
+- [[prosthetic-materials/tooth-preparation/roudsari-2011-auxiliary-features-resistance-short-molars-invitro]] — 클러스터 3 retention 측면
+- [[prosthetic-materials/tooth-preparation/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — 클러스터 3 trade-off 정량
+- [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — pier abutment FPD 특수 케이스
 - [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — 클러스터 4 임시 크라운
 - [[prosthetic-materials/harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro]] — 클러스터 5 지르코니아 표면처리
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — ZLS ceramic 본딩 context (인접 토픽)

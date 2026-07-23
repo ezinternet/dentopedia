@@ -99,11 +99,11 @@ Narrative synthesis (no new pooling). Base: 2 umbrella reviews (Davoudi, Dudley)
 ## Related Papers
 
 - [[dental-materials/zirconia/davoudi-2025-zirconia-abutments-biological-mechanical-esthetic]] — umbrella; Zr ≈ Ti abutment survival/complications, bench strength favors Ti
-- [[prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — RCT; hybrid abutment/crown equal, but 2-piece zirconia implant body 89.3% vs 100%
+- [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — RCT; hybrid abutment/crown equal, but 2-piece zirconia implant body 89.3% vs 100%
 - [[implants/soft-tissue/barwacz-2024-cadcam-abutment-morphology-implant-outcomes]] — RCT; linear vs concave emergence no 1-yr difference; convexity is the risk
 - [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] — IAO consensus; KM ≥2 mm & thickness matter, abutment material esthetics-driven
-- [[prosthetic-materials/dudley-2025-determinants-marginal-gap-crowns]] — umbrella; marginal gap ~79 µm regardless of type/material/method; measurement artifact dominates
-- [[prosthetic-materials/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — bibliometric; titanium→zirconia→hybrid + digital surge = unresolved uncertainty
+- [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — umbrella; marginal gap ~79 µm regardless of type/material/method; measurement artifact dominates
+- [[prosthetic-materials/abutment-screw/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — bibliometric; titanium→zirconia→hybrid + digital surge = unresolved uncertainty
 
 ## Related Overviews
 

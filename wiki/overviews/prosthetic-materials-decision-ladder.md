@@ -82,10 +82,10 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] | sr+ma (7편 334 imp, 3-10y) | Screw 6mo MBL SMD −0.63 낮음. 장기 NS. 합병증 46% ↓ |
-| [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] | sr (12편) | 생존 동등. 생물학적 합병증 cement↑, 기계적 합병증 screw↑ |
-| [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] | prospective (100명 12mo) | Screw loosening 18% > cement 4%. 변연·시멘트 용해 cement↑ |
-| [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] | narrative-review | Astra screw loosening 예방 — 35 Ncm 토크·교합력 조절 |
+| [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] | sr+ma (7편 334 imp, 3-10y) | Screw 6mo MBL SMD −0.63 낮음. 장기 NS. 합병증 46% ↓ |
+| [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] | sr (12편) | 생존 동등. 생물학적 합병증 cement↑, 기계적 합병증 screw↑ |
+| [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]] | prospective (100명 12mo) | Screw loosening 18% > cement 4%. 변연·시멘트 용해 cement↑ |
+| [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] | narrative-review | Astra screw loosening 예방 — 35 Ncm 토크·교합력 조절 |
 
 **임상 ladder (screw vs cement)**:
 1. **1차 권장: screw retention** — Excess cement → peri-implantitis 위험 회피 (Hamed 2020). 회수 가능.
@@ -118,9 +118,9 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]] | in-vitro (FEA) | CAD/CAM Zr crown + 3D-printed hybrid abutment — custom abutment 응력 −90%, Ti-base −27% |
-| [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] | in-vitro (FEA) | Internal connection × abutment material — Ti가 일관된 응력 분포. Co-Cr·Zr 비교 |
-| [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] | sr (23편) | 권장 TOC 1960s 2-5° → 현재 10-22°. in-mouth 측정 평균 11-22° |
-| [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] | cross-sectional | All-ceramic prep TOC 평균 MD 21° |
+| [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] | in-vitro (FEA) | Internal connection × abutment material — Ti가 일관된 응력 분포. Co-Cr·Zr 비교 |
+| [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] | sr (23편) | 권장 TOC 1960s 2-5° → 현재 10-22°. in-mouth 측정 평균 11-22° |
+| [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] | cross-sectional | All-ceramic prep TOC 평균 MD 21° |
 | [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] | sr (14편 3-10y) | RBFDP 생존 76-100%. Cantilever > fixed-fixed. e.max ZirCAD 등 |
 | [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] | rct (36mo) | Zr vs FRC cantilever IR-FDP — 생존 97.5%, 성공 96.6% NS |
 | [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]] | rct (8y, 64 RBFDP) | 캔틸레버 지르코니아 RBFDP — 비침습 나노알루미나코팅(NAC) 유지율 88.4% ≈ 분사연마(APA) 89.1% (p=0.99), 보철 생존 100% |
@@ -159,19 +159,19 @@ Two common misjudgments: "veneered ceramic is esthetically superior" (monolithic
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]]
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]]
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]]
-- [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]]
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]
-- [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]]
-- [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]]
+- [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]]
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]
+- [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]]
+- [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]]
 - [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]]
 - [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]]
 - [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]]
 - [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]]
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]]
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]]
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]]
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]]
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]]
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]]
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]]
 - [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]]
 - [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]]

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Goodacre 2001 [[prosthetic-materials/goodacre-2001-tooth-preparations-complete-crowns-art-form]] concluded that finish-line type had no proven effect on marginal fit, but that predated all-ceramic CAD-CAM systems. This Contrepois 2013 SR (54 studies, 17 ceramic systems) re-opens and refines that conclusion for the ceramic era, identifying finish-line configuration, cement-space setting, veneering, and cementation as the real drivers of marginal adaptation — directly extending the prep-margin discussion that anchors [[overviews/crown-preparation-geometry-convergence-resistance-retention]].
+Goodacre 2001 [[prosthetic-materials/tooth-preparation/goodacre-2001-tooth-preparations-complete-crowns-art-form]] concluded that finish-line type had no proven effect on marginal fit, but that predated all-ceramic CAD-CAM systems. This Contrepois 2013 SR (54 studies, 17 ceramic systems) re-opens and refines that conclusion for the ceramic era, identifying finish-line configuration, cement-space setting, veneering, and cementation as the real drivers of marginal adaptation — directly extending the prep-margin discussion that anchors [[overviews/crown-preparation-geometry-convergence-resistance-retention]].
 
 ## Three-line Summary
 

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-세그먼트형(분리형) 어버트먼트와 비세그먼트형(일체형) 어버트먼트가 나사 유지형 보철물의 골 응력 분포에 미치는 영향을 FEA로 비교한 드문 연구. 기존 [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]]가 임플란트 연결부·어버트먼트 디자인 일반론을 다루지만, 분절형 vs 비분절형 나사 어버트먼트 간 골 응력 차이를 직접 정량화한 데이터는 없어 보강 근거로 활용.
+세그먼트형(분리형) 어버트먼트와 비세그먼트형(일체형) 어버트먼트가 나사 유지형 보철물의 골 응력 분포에 미치는 영향을 FEA로 비교한 드문 연구. 기존 [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]]가 임플란트 연결부·어버트먼트 디자인 일반론을 다루지만, 분절형 vs 비분절형 나사 어버트먼트 간 골 응력 차이를 직접 정량화한 데이터는 없어 보강 근거로 활용.
 
 ## Three-line Summary
 

@@ -45,5 +45,5 @@ Trefoil: highest prosthetic stress (156.48 MPa axial, 119.32 oblique). All-on-4:
 FEA idealizations; immediate-loading friction coefficient is a model assumption; no clinical outcome translation.
 
 ## Related Papers
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]]

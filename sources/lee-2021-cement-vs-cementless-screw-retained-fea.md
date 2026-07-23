@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]는 임상 SR로 나사유지형의 치주·합병증 우위를 보여주나, FEA 관점의 응력분포 차이는 다루지 않는다. 본 연구(Lee 2021)는 신형 시멘트-프리 나사유지형(base abutment + titanium link screw) 지르코니아 크라운이 기존 시멘트 유지형 대비 임플란트·골 응력을 수치적으로 얼마나 줄이는지를 3D FEA로 정량화해, 유지 방식 선택의 생역학적 근거를 보강한다.
+기존 [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]는 임상 SR로 나사유지형의 치주·합병증 우위를 보여주나, FEA 관점의 응력분포 차이는 다루지 않는다. 본 연구(Lee 2021)는 신형 시멘트-프리 나사유지형(base abutment + titanium link screw) 지르코니아 크라운이 기존 시멘트 유지형 대비 임플란트·골 응력을 수치적으로 얼마나 줄이는지를 3D FEA로 정량화해, 유지 방식 선택의 생역학적 근거를 보강한다.
 
 ## Three-line Summary
 

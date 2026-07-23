@@ -15,7 +15,7 @@ text_filename: nithyapriya-2018-factors-loss-preload-dental-implants.txt
 
 ## Why Ingested
 
-This is the foundational reference page for the *complete inventory of factors that cause loss of preload* in implant abutment screws — the upstream mechanism behind screw loosening and implant failure. It anchors the more specific connection/torque papers such as [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]], giving each one a shared map of which variable (material, connection type, torque method/sequence, lubrication, settling effect, collar length) it is probing.
+This is the foundational reference page for the *complete inventory of factors that cause loss of preload* in implant abutment screws — the upstream mechanism behind screw loosening and implant failure. It anchors the more specific connection/torque papers such as [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]], giving each one a shared map of which variable (material, connection type, torque method/sequence, lubrication, settling effect, collar length) it is probing.
 
 ## Three-line Summary
 

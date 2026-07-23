@@ -77,4 +77,4 @@ External hex > Internal hex > Conical > Morse taper
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical bone and primary stability
 - [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — minimally invasive vs standard implant biocompatibility
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — bone type effect on implant survival
-- [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] — abutment connection and screw loosening
+- [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] — abutment connection and screw loosening

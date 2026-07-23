@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]에서 스크류 유지 vs 시멘트 유지 비교가 주된 논쟁이었으나, 스크류와 시멘트를 모두 사용하지 않는 신규 후크(hook) 유지 방식(HRP)에 대한 FEA 근거가 없었음. 본 연구는 SCRP·SRP·HRP 세 시스템을 동일 조건에서 직접 비교한 최초 FEA 논문으로, HRP의 생역학적 타당성을 뒷받침하는 기초 근거를 제공함.
+기존 [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]에서 스크류 유지 vs 시멘트 유지 비교가 주된 논쟁이었으나, 스크류와 시멘트를 모두 사용하지 않는 신규 후크(hook) 유지 방식(HRP)에 대한 FEA 근거가 없었음. 본 연구는 SCRP·SRP·HRP 세 시스템을 동일 조건에서 직접 비교한 최초 FEA 논문으로, HRP의 생역학적 타당성을 뒷받침하는 기초 근거를 제공함.
 
 ## Three-line Summary
 
@@ -101,7 +101,7 @@ Key findings:
 
 ## 6. Related Work
 
-- Hamed 2020 — screw vs cement SR+MA: [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]
+- Hamed 2020 — screw vs cement SR+MA: [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]]
 - Chan 2026 — FEA CAD/CAM zirconia vs 3D-printed hybrid: [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]]
 
 ## 7. Glossary

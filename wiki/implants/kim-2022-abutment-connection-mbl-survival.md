@@ -82,6 +82,6 @@ This single-center retrospective study at Gangneung-Wonju National University De
 
 ## Related Papers
 
-- [[prosthetic-materials/park-2022-scrp-vs-crp-upper-premolar]] — SCRP 해부학적 적용 한계
-- [[prosthetic-materials/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — SCRP vs BSRP RCT
+- [[prosthetic-materials/abutment-screw/park-2022-scrp-vs-crp-upper-premolar]] — SCRP 해부학적 적용 한계
+- [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — SCRP vs BSRP RCT
 - [[implants/peri-implantitis]] — 변연골흡수와 임플란트 주위염

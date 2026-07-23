@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[prosthetic-materials/angermair-2024-microgap-abutment-displacement-implant-connection]]가 정하중 하 임플란트-지대주 연결부의 마이크로갭·지대주 변위를 in-vitro로 규명했으나, 그 마이크로갭 위치(implant-level vs abutment-level)가 실제 임상 결과(변연골소실·탐침깊이·생존율)에 미치는 영향은 다루지 않았다. 본 SR+MA(3 RCT, 8편, 126명·341 implant)는 그 임상적 공백을 직접 메우며, intermediate abutment(AL) 사용이 IL 대비 36개월 시점 MBL·탐침깊이를 통계적으로 유의하게 감소시키나(각각 -0.13mm, -0.66mm) 임상적으로는 미미함을 정량화한다.
+기존 [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]]가 정하중 하 임플란트-지대주 연결부의 마이크로갭·지대주 변위를 in-vitro로 규명했으나, 그 마이크로갭 위치(implant-level vs abutment-level)가 실제 임상 결과(변연골소실·탐침깊이·생존율)에 미치는 영향은 다루지 않았다. 본 SR+MA(3 RCT, 8편, 126명·341 implant)는 그 임상적 공백을 직접 메우며, intermediate abutment(AL) 사용이 IL 대비 36개월 시점 MBL·탐침깊이를 통계적으로 유의하게 감소시키나(각각 -0.13mm, -0.66mm) 임상적으로는 미미함을 정량화한다.
 
 ## Three-line Summary
 
@@ -84,7 +84,7 @@ Intermediate abutments improve soft-tissue health (reduced PD) without added com
 ## 6. Related Work
 
 - Cites the "one abutment, one time" concept (minimizing abutment disconnection to preserve biological width) as a plausible mechanism for the PD benefit.
-- Discusses biomechanical rationale: AL abutments may act as a mechanical buffer redistributing occlusal loads before reaching the implant platform, versus IL connections exposing the implant-abutment interface directly to masticatory forces — consistent with in-vitro microgap/displacement findings in [[prosthetic-materials/angermair-2024-microgap-abutment-displacement-implant-connection]].
+- Discusses biomechanical rationale: AL abutments may act as a mechanical buffer redistributing occlusal loads before reaching the implant platform, versus IL connections exposing the implant-abutment interface directly to masticatory forces — consistent with in-vitro microgap/displacement findings in [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]].
 - Notes differing torque protocols between AL (secondary screw, 15-20 Ncm) and IL (single long screw, 30-35 Ncm) restorations as a possible explanation for equivalent mechanical-complication rates despite theoretical differences in preload/clamping force.
 
 ## 7. Glossary

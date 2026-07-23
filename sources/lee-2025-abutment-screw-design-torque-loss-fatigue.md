@@ -15,7 +15,7 @@ text_filename: lee-2025-abutment-screw-design-torque-loss-fatigue.txt
 
 ## Why Ingested
 
-An Osstem TSIII vs KSIII head-to-head torque-loss study directly relevant to a Korean practice (both systems are in routine domestic use), reinforcing and quantifying the abutment-screw-design / preload theme of [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]]. It supports the ~35 Ncm tightening recommendation by showing 35 Ncm gave the most stable preload in both systems, while demonstrating that screw geometry (KSIII modified screw) is itself a dominant determinant of preload maintenance independent of torque level.
+An Osstem TSIII vs KSIII head-to-head torque-loss study directly relevant to a Korean practice (both systems are in routine domestic use), reinforcing and quantifying the abutment-screw-design / preload theme of [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]]. It supports the ~35 Ncm tightening recommendation by showing 35 Ncm gave the most stable preload in both systems, while demonstrating that screw geometry (KSIII modified screw) is itself a dominant determinant of preload maintenance independent of torque level.
 
 ## Three-line Summary
 

@@ -65,4 +65,4 @@ Take-aways:
 - [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant OD subset; ball/bar/ERA similar MBL, telescopic worse.
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk-factor review of OD failure.
 - [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — maxillary OD implant-number question (4 vs 6).
-- [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — different prosthetic decision (retention type) in fixed prostheses.
+- [[prosthetic-materials/abutment-screw/hamed-2020-screw-vs-cement-implant-sr]] — different prosthetic decision (retention type) in fixed prostheses.

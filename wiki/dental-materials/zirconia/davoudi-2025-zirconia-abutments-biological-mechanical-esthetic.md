@@ -63,5 +63,5 @@ Umbrella review (SR/MA of SRs/MAs). Search: PubMed, Scopus, Embase, Web of Scien
 ## Related Papers
 
 - [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]] — companion umbrella review in the same category, but on zirconia adhesive/bonding chemistry rather than abutment-material clinical outcomes.
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] — FEA finding that titanium abutments minimize peri-implant stress most reliably; this umbrella review refines that bench-level conclusion by showing clinical survival/mechanical-complication rates are statistically equivalent between Zr and Ti despite Ti's biomechanical advantage.
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] — FEA finding that titanium abutments minimize peri-implant stress most reliably; this umbrella review refines that bench-level conclusion by showing clinical survival/mechanical-complication rates are statistically equivalent between Zr and Ti despite Ti's biomechanical advantage.
 - [[implants/soft-tissue/barwacz-2024-cadcam-abutment-morphology-implant-outcomes]] — RCT on zirconia abutment transmucosal morphology (not material) and 1-year soft-tissue outcomes; complementary evidence on abutment design vs. material as drivers of peri-implant tissue response.

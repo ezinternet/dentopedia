@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Fills a gap noted by both [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] (single-material FEA of one-piece zirconia vs titanium in the anterior maxilla) and [[prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] (hybrid-abutment-crown material comparison): this paper is the first in the wiki to combine FEA with a matched systematic review specifically for maxillary lateral incisor agenesis (MLIA), directly comparing titanium/titanium (TT), titanium/hybrid (TH), and zirconia/zirconia (ZZ) implant-abutment configurations across narrow (3.0 mm) and standard (3.5 mm) diameters in both control and atrophic anterior maxilla geometries. It also confirms, via a 25-study systematic review, that no clinical study to date has used zirconia implants for MLIA — a gap the FEA component is designed to address in silico.
+Fills a gap noted by both [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] (single-material FEA of one-piece zirconia vs titanium in the anterior maxilla) and [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] (hybrid-abutment-crown material comparison): this paper is the first in the wiki to combine FEA with a matched systematic review specifically for maxillary lateral incisor agenesis (MLIA), directly comparing titanium/titanium (TT), titanium/hybrid (TH), and zirconia/zirconia (ZZ) implant-abutment configurations across narrow (3.0 mm) and standard (3.5 mm) diameters in both control and atrophic anterior maxilla geometries. It also confirms, via a 25-study systematic review, that no clinical study to date has used zirconia implants for MLIA — a gap the FEA component is designed to address in silico.
 
 ## Three-line Summary
 
@@ -93,7 +93,7 @@ FEA 결과 모든 임플란트-어버트먼트 조합의 파괴위험도는 0.7 
 ## 6. Related Work
 
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — earlier FEA comparing one-piece zirconia vs titanium implants in the anterior maxilla across three bone-loss geometries; this paper extends that single-material comparison into a three-way (TT/TH/ZZ) matched design with a companion systematic review.
-- [[prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — direct clinical/prosthetic comparison of hybrid abutment crowns on zirconia vs titanium implants; complements this paper's FEA-level hybrid-abutment (TH) findings with clinical technical/esthetic/osseointegration-failure data.
+- [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — direct clinical/prosthetic comparison of hybrid abutment crowns on zirconia vs titanium implants; complements this paper's FEA-level hybrid-abutment (TH) findings with clinical technical/esthetic/osseointegration-failure data.
 - [[overviews/zirconia-implant-clinical-outcomes]] — cross-paper synthesis of zirconia implant survival/MBL trends; this SR's zero-zirconia-implant-in-MLIA finding is a notable gap relative to that broader survival literature.
 - [[implants/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA of narrow/extra-narrow one- vs two-piece implants; relevant to this paper's narrow-diameter (3.0 mm) stress-distribution findings.
 

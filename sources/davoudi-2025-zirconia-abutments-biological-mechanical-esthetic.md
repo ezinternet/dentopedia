@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]]가 지르코니아의 접착(bonding) 측면 umbrella review라면, 본 논문은 지르코니아 *어버트먼트(abutment)* 선택 자체를 생물학적·기계적·심미적 측면에서 티타늄과 직접 비교한 umbrella review로 범위가 다르다. 또한 [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]의 FEA 결과(티타늄이 응력 측면에서 가장 안전)와 대비해, 본 논문은 임상 데이터상 생존율·기계적 합병증률이 Zr↔Ti 간 유의차 없음을 보고해 이론적 재료물성과 임상 결과 간 간극을 보여준다.
+기존 [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]]가 지르코니아의 접착(bonding) 측면 umbrella review라면, 본 논문은 지르코니아 *어버트먼트(abutment)* 선택 자체를 생물학적·기계적·심미적 측면에서 티타늄과 직접 비교한 umbrella review로 범위가 다르다. 또한 [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]의 FEA 결과(티타늄이 응력 측면에서 가장 안전)와 대비해, 본 논문은 임상 데이터상 생존율·기계적 합병증률이 Zr↔Ti 간 유의차 없음을 보고해 이론적 재료물성과 임상 결과 간 간극을 보여준다.
 
 ## Three-line Summary
 

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-User request: papers on the implant abutment-screw **settling effect**. This in-vitro study directly quantifies settling (axial displacement) and post-loading removal torque across 5 connection geometries, mechanistically extending [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] (insertion-torque vs misfit) and [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] (Morse-taper subsidence), and complementing the connection-design comparison in [[implants/seong-2016-external-internal-implant-connection-system]]. It supplies the "settling effect" mechanism that underlies screw-loosening risk discussed in [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]].
+User request: papers on the implant abutment-screw **settling effect**. This in-vitro study directly quantifies settling (axial displacement) and post-loading removal torque across 5 connection geometries, mechanistically extending [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] (insertion-torque vs misfit) and [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] (Morse-taper subsidence), and complementing the connection-design comparison in [[implants/seong-2016-external-internal-implant-connection-system]]. It supplies the "settling effect" mechanism that underlies screw-loosening risk discussed in [[prosthetic-materials/abutment-screw/khurshid-2025-screw-vs-cement-crown-complications]].
 
 ## Three-line Summary
 

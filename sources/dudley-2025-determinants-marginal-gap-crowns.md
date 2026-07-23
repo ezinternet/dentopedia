@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]]는 세라믹 크라운 단일 SR(54편, 1994–2012)로 이질성 때문에 메타분석·시스템 순위화가 불가능했다고 결론지었다. 본 umbrella review(Dudley 2025)는 그 이후 발표된 17편의 SR(301건 in vitro 측정)을 통계적으로 통합(Welch test, 다중회귀)해 crown type·재료·제작법이 변연 간극에 유의한 영향이 없음을 정량적으로 재확인하고, 대신 측정 기구(impression replica가 과대평가)가 진짜 교란 변수임을 새로 밝혀 기존 SR의 "이질성 때문에 결론 불가" 한계를 부분적으로 극복한다.
+기존 [[prosthetic-materials/tooth-preparation/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]]는 세라믹 크라운 단일 SR(54편, 1994–2012)로 이질성 때문에 메타분석·시스템 순위화가 불가능했다고 결론지었다. 본 umbrella review(Dudley 2025)는 그 이후 발표된 17편의 SR(301건 in vitro 측정)을 통계적으로 통합(Welch test, 다중회귀)해 crown type·재료·제작법이 변연 간극에 유의한 영향이 없음을 정량적으로 재확인하고, 대신 측정 기구(impression replica가 과대평가)가 진짜 교란 변수임을 새로 밝혀 기존 SR의 "이질성 때문에 결론 불가" 한계를 부분적으로 극복한다.
 
 ## Three-line Summary
 

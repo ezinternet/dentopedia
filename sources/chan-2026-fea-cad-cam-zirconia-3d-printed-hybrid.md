@@ -43,7 +43,7 @@ Crown VMS 102–214 MPa; CAD/CAM custom abutment 45–423 MPa; abutment screw 15
 FEA idealizations; linear elasticity; bone stress relatively flat across groups limits clinical conclusions on bone biology.
 
 ## 6. Related Work
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]]
 - [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
 
 ## 7. Glossary
