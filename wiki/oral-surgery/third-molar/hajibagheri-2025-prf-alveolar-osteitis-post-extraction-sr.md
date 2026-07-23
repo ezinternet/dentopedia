@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1186/s12903-025-06238-1
 source: hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.pdf
 pdf_filename: hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr.pdf
@@ -57,6 +57,6 @@ This systematic review (BMC Oral Health 2025;25:869) synthesizes evidence on pla
 - Heterogeneity across studies in PRF preparation protocols (centrifugation speed and time)
 
 ## Related Papers
-- [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — complementary adjunct therapy (LLLT) for post-extraction complications
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — third molar surgery decision-making (coronectomy vs extraction)
-- [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] — rare serious complication of third molar extraction
+- [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — complementary adjunct therapy (LLLT) for post-extraction complications
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — third molar surgery decision-making (coronectomy vs extraction)
+- [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] — rare serious complication of third molar extraction
