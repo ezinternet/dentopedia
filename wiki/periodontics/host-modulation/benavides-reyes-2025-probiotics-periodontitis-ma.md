@@ -3,7 +3,7 @@ title: "Clinical effects of probiotics on the treatment of gingivitis and period
 stem: "benavides-reyes-2025-probiotics-periodontitis-ma"
 source: benavides-reyes-2025-probiotics-periodontitis-ma.md
 source_collection: pubmed-abstract
-category: periodontics
+category: periodontics/host-modulation
 year: 2025
 authors: "Benavides-Reyes C, Cabello I, Magán-Fernández A, Rodríguez-Barranco M, Usta SN, Mesa F"
 doi: "10.1186/s12903-025-05888-5"
@@ -36,7 +36,7 @@ In gingivitis, no parameter reached significance (high heterogeneity I²=94–96
 
 ## Background
 
-While [[periodontics/mendoca-2024-probiotics-nspt-nma]] provides the definitive network comparison of probiotic strains, this 2025 meta-analysis complements by stratifying effects by disease stage (gingivitis vs. periodontitis) and by follow-up duration, addressing a gap in the NMA's parallel-group-only design. The key question answered here: does the probiotic benefit on PI and BOP differ between early (gingivitis) and established (periodontitis) disease?
+While [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] provides the definitive network comparison of probiotic strains, this 2025 meta-analysis complements by stratifying effects by disease stage (gingivitis vs. periodontitis) and by follow-up duration, addressing a gap in the NMA's parallel-group-only design. The key question answered here: does the probiotic benefit on PI and BOP differ between early (gingivitis) and established (periodontitis) disease?
 
 ## Methods
 
@@ -75,7 +75,7 @@ The stark contrast between periodontitis (responsive) and gingivitis (non-respon
 
 ## Clinical Takeaway
 
-Probiotics as SRP adjuncts can reduce plaque accumulation (PI) and gingival bleeding (BOP) in periodontitis patients, with effects most pronounced at moderate follow-up (8–12 weeks). Pocket depth benefit is clinically marginal and not sustained. No clear benefit demonstrated for gingivitis patients. Should be interpreted alongside [[periodontics/mendoca-2024-probiotics-nspt-nma]] for strain-specific guidance (*L. reuteri* preferred).
+Probiotics as SRP adjuncts can reduce plaque accumulation (PI) and gingival bleeding (BOP) in periodontitis patients, with effects most pronounced at moderate follow-up (8–12 weeks). Pocket depth benefit is clinically marginal and not sustained. No clear benefit demonstrated for gingivitis patients. Should be interpreted alongside [[periodontics/host-modulation/mendoca-2024-probiotics-nspt-nma]] for strain-specific guidance (*L. reuteri* preferred).
 
 ## Evidence Map
 
