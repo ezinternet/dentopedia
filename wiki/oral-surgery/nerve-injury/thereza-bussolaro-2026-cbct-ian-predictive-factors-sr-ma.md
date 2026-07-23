@@ -6,7 +6,7 @@ date: 2026-03-02
 doi: "10.1016/j.adaj.2025.12.016"
 pmid: "41770179"
 source: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: sr+ma
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
@@ -67,6 +67,6 @@ This PROSPERO-registered SR+MA synthesized 18 CBCT-based studies to identify tom
 - GRADE: moderate to high certainty for top 3 predictors
 
 ## Related Papers
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — extends: panoramic-based IAN position SR+MA; this paper advances to CBCT quantification
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — reinforces: foundational IAN injury review
-- [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — reinforces: companion paper by same group reporting absolute risk percentages by CBCT feature
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — extends: panoramic-based IAN position SR+MA; this paper advances to CBCT quantification
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — reinforces: foundational IAN injury review
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — reinforces: companion paper by same group reporting absolute risk percentages by CBCT feature
