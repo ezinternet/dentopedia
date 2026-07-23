@@ -5,7 +5,7 @@ year: 2021
 date: 2021-09-27
 doi: 10.3390/dj9100112
 source: sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental.pdf
 pdf_filename: sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental.pdf
@@ -54,4 +54,4 @@ Cross-sectional descriptive audit. 392 STL files (intraoral or desktop scanned) 
 
 ## Related Papers
 
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — Tiu 2015 SR이 정리한 이상적 프렙 기준(TOC·occluso-cervical·변연선)을 실제 임상 프렙 392건이 얼마나 못 지키는지 정량화해 보강.
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — Tiu 2015 SR이 정리한 이상적 프렙 기준(TOC·occluso-cervical·변연선)을 실제 임상 프렙 392건이 얼마나 못 지키는지 정량화해 보강.

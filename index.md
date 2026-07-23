@@ -2941,7 +2941,7 @@ tags: []
 - [[orthodontics/jaramillo-bedoya-2022-scoping-review-characteristics-success-failure]] — Jaramillo-Bedoya 2022 · sr · Scoping review (103 studies): typical TAD 1.6×8 mm self-drilled, 40–800 g; 47.6% report ≥90% success
 
 ### Prosthetic — crown preparation geometry
-- [[prosthetic-materials/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Sadid-Zadeh 2021 · cross-sectional · STL audit of 392 posterior preps; >50% undercut/unsupported enamel/poor finish line, most TOC >20°
+- [[prosthetic-materials/tooth-preparation/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Sadid-Zadeh 2021 · cross-sectional · STL audit of 392 posterior preps; >50% undercut/unsupported enamel/poor finish line, most TOC >20°
 - [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Sengottaiyan 2025 · sr · 27 in-vitro studies: rounded-shoulder favored marginal fit, chamfer favored internal adaptation (digital zirconia)
 - [[prosthetic-materials/hardan-2022-treatment-tooth-wear-using-direct]] — SR (16 studies, ≤10y): direct vs indirect restorations for tooth wear; no technique/material proven superior
 - [[prosthetic-materials/tooth-preparation/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — Goodacre 2001 · narrative-review · 완전피개 삭제 9대 원칙 — TOC 10–20°, 대구치 교합치경높이 ≥4 mm, O-C:F-L ≥0.4, line angle 보존, 부족 시 보조 groove/box (DOI 10.1067/mpr.2001.114685)
