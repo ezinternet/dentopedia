@@ -5,7 +5,7 @@ year: 2018
 date: 2018-12-01
 doi: 10.4317/jced.55305
 source: abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.pdf
 pdf_filename: abdulla-2018-convergence-all-ceramic-crowns-dubai-practice.pdf
@@ -68,6 +68,6 @@ Cross-sectional clinical practice survey (Journal of Clinical and Experimental D
 - No outcome correlation — high TOC may or may not predict crown failure given adhesive cementation
 
 ## Related Papers
-- [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — 10-22° SR-derived "realistic" range that Dubai practice exceeds
-- [[prosthetic-materials/amine-2022-convergence-tooth-preparation-students-typodont]] — student preclinical TOC ~12° (much tighter than practice)
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — retention implications of high TOC
+- [[prosthetic-materials/tooth-preparation/tiu-2015-clinical-tooth-preparations-measuring-sr]] — 10-22° SR-derived "realistic" range that Dubai practice exceeds
+- [[prosthetic-materials/tooth-preparation/amine-2022-convergence-tooth-preparation-students-typodont]] — student preclinical TOC ~12° (much tighter than practice)
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — retention implications of high TOC
