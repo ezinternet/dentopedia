@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-02
 doi: 10.1093/ejo/cjag026
 source: liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -95,6 +95,6 @@ GS and BS action-mode subgroups were all non-significant — no action mode beat
 
 ## Related Papers
 
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — extends plaque/biofilm control from professional care to the home-care toothbrush-type axis in the orthodontic context.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — extends plaque/biofilm control from professional care to the home-care toothbrush-type axis in the orthodontic context.
 - [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] — periodontium biology during orthodontic tooth movement; motivates why plaque control in fixed-appliance patients matters for periodontal stability.
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — professional biofilm-removal protocol, complementary mechanical-plaque-control evidence.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — professional biofilm-removal protocol, complementary mechanical-plaque-control evidence.
