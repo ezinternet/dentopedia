@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-28
 doi: "10.3390/jcm15031049"
 source: zeytinoglu-2026-comparative-effects-low-level-laser.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: prospective
 source_collection: pubmed-text
 full_text: true
@@ -62,6 +62,6 @@ LLLT: significant improvement (p<0.05) in numbness, pain, stabbing, electric sho
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — extends: adds a comparative non-invasive-modality (LLLT vs TENS) dataset alongside Lee 2015's steroid-protocol case for IAN neuropraxia management.
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — extends: adds a comparative non-invasive-modality (LLLT vs TENS) dataset alongside Lee 2015's steroid-protocol case for IAN neuropraxia management.
 - [[overviews/trigeminal-injury-neuropathic-pain-cascade-overview]] — applies-to: this study's fiber-type-specific CSP protocol operationalizes the Aβ/Aδ/C fiber distinctions central to the cascade's peripheral-sensitization stages, and its LLLT finding offers an empirical (if small, non-randomized) treatment data point for the overview's "early intervention window" discussion.
-- [[oral-surgery/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — related diagnosis/treatment review of IAN/LN injury.
+- [[oral-surgery/nerve-injury/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — related diagnosis/treatment review of IAN/LN injury.
