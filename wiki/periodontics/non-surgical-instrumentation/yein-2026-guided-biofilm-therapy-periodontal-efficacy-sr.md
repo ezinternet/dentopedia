@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-24
 doi: 10.1186/s12903-026-08418-z
 source: yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr
 source_collection: pubmed-text
 full_text: true
@@ -71,6 +71,6 @@ Across **5 RCTs (231 participants)**, GBT delivered clear **patient-centered** a
 
 ## Related Papers
 
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — included Stage III/IV split-mouth RCT; this SR refines its favorable single-trial reading into "no consistent clinical superiority."
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — included Stage III/IV split-mouth RCT; this SR refines its favorable single-trial reading into "no consistent clinical superiority."
 - [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — included supportive-periodontal-care RCT; reinforces the patient-centered-benefit-only conclusion.
-- [[periodontics/jo-2008-management-of-dental-biofilm-through]] — biofilm-management context.
+- [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — biofilm-management context.
