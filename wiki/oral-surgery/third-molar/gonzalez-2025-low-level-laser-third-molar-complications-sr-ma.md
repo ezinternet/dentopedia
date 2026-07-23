@@ -5,7 +5,7 @@ year: 2025
 date: 2025-03-01
 doi: 10.1016/j.adaj.2024.09.005
 source: gonzalez-2025-low-level-laser-third-molar-complications-sr-ma.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma.pdf
 pdf_filename: gonzalez-2025-low-level-laser-third-molar-complications-sr-ma.pdf
@@ -58,6 +58,6 @@ This systematic review and meta-analysis (JADA 2025;156(3):211-224.E11) evaluate
 - High heterogeneity in laser parameters (wavelength, energy density, session number) limits precise protocol recommendation
 
 ## Related Papers
-- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF as alternative adjunct for post-extraction complications
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — third molar surgical decision-making
-- [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] — serious extraction complication prevention
+- [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF as alternative adjunct for post-extraction complications
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — third molar surgical decision-making
+- [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] — serious extraction complication prevention
