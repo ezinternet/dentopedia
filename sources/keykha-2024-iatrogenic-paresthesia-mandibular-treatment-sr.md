@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Only SR focused specifically on *late* (chronic, ≥1 week post-op) iatrogenic paresthesia treatments in the IAN/LN territory — distinguishing preemptive/adjunctive use from true therapeutic intervention. Fills the "what works for established paresthesia" gap. Links to [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] for IAN injury context.
+Only SR focused specifically on *late* (chronic, ≥1 week post-op) iatrogenic paresthesia treatments in the IAN/LN territory — distinguishing preemptive/adjunctive use from true therapeutic intervention. Fills the "what works for established paresthesia" gap. Links to [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] for IAN injury context.
 
 ## Three-line Summary
 

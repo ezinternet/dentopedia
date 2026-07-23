@@ -15,7 +15,7 @@ text_filename: firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr
 
 ## Why Ingested
 
-제3대구치 발치 후 비약물적 보조요법(PRF·오존치료·LLLT·Kinesio taping 등) 근거를 통합한 엄브렐라 리뷰. 기존 [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]]는 PRF vs PRP 국소 비교에 그치지만, 본 리뷰(Firoozi 2022)는 network meta-analysis로 7개 비약물적 개입을 서로 순위화해 PRF·오존이 최상위임을 정량 근거로 보강한다. [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]]의 LLLT 효과를 "상대적으로 약함"이라는 맥락으로 재확인.
+제3대구치 발치 후 비약물적 보조요법(PRF·오존치료·LLLT·Kinesio taping 등) 근거를 통합한 엄브렐라 리뷰. 기존 [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]]는 PRF vs PRP 국소 비교에 그치지만, 본 리뷰(Firoozi 2022)는 network meta-analysis로 7개 비약물적 개입을 서로 순위화해 PRF·오존이 최상위임을 정량 근거로 보강한다. [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]]의 LLLT 효과를 "상대적으로 약함"이라는 맥락으로 재확인.
 
 ## Three-line Summary
 
@@ -78,10 +78,10 @@ Findings limited by unclear risk of bias in most included reviews and lack of a 
 
 ## 6. Related Work
 
-- [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF vs PRP head-to-head after mandibular third molar extraction.
-- [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — LLLT for third molar postoperative complications.
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — concentrated growth factor (CGF) after third molar surgery.
-- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF for alveolar osteitis prevention.
+- [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — PRF vs PRP head-to-head after mandibular third molar extraction.
+- [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — LLLT for third molar postoperative complications.
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — concentrated growth factor (CGF) after third molar surgery.
+- [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF for alveolar osteitis prevention.
 
 ## 7. Glossary
 

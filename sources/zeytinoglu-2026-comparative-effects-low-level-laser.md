@@ -15,7 +15,7 @@ text_filename: zeytinoglu-2026-comparative-effects-low-level-laser.txt
 
 ## Why Ingested
 
-Aβ(A-beta)·Aδ(A-delta)·C 섬유와 하치조신경(Inferior Alveolar Nerve, IAN) 관련 논문 요청에 따라 PubMed에서 탐색. 본 논문은 IAN/설신경(Lingual Nerve, LN) 손상 후 전기생리학적 평가(피부 무반응기, Cutaneous Silent Period, CSP)에서 통증성 자극이 Aδ·C 섬유를, 무통성 자극이 Aβ 섬유를 각각 활성화한다는 섬유 유형별 자극 프로토콜을 명시적으로 채택·보고한 임상연구로, 기존 [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] (스테로이드 증례)와 [[overviews/trigeminal-injury-neuropathic-pain-cascade-overview]] (말초-중추 캐스케이드 종합)에 신경손상 후 비침습적 치료(LLLT/TENS) 옵션과 섬유 특이적 전기생리 평가라는 새 축을 추가한다.
+Aβ(A-beta)·Aδ(A-delta)·C 섬유와 하치조신경(Inferior Alveolar Nerve, IAN) 관련 논문 요청에 따라 PubMed에서 탐색. 본 논문은 IAN/설신경(Lingual Nerve, LN) 손상 후 전기생리학적 평가(피부 무반응기, Cutaneous Silent Period, CSP)에서 통증성 자극이 Aδ·C 섬유를, 무통성 자극이 Aβ 섬유를 각각 활성화한다는 섬유 유형별 자극 프로토콜을 명시적으로 채택·보고한 임상연구로, 기존 [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] (스테로이드 증례)와 [[overviews/trigeminal-injury-neuropathic-pain-cascade-overview]] (말초-중추 캐스케이드 종합)에 신경손상 후 비침습적 치료(LLLT/TENS) 옵션과 섬유 특이적 전기생리 평가라는 새 축을 추가한다.
 
 ## Three-line Summary
 

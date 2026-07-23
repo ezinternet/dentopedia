@@ -79,4 +79,4 @@ Only perineural invasion was significantly associated with lavage positivity (p=
 
 ## Related Papers
 
-- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — post-operative wound healing context; saline irrigation is a standard component of post-surgical protocols
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — post-operative wound healing context; saline irrigation is a standard component of post-surgical protocols

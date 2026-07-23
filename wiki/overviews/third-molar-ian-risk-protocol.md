@@ -242,20 +242,20 @@ OPG 판독
 
 ## 관련 페이지
 
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN 손상 유병률·위험인자·회복률 (JOMR 2014)
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — IAC 위치(설측 vs 협측) SR+MA; OR 4.96 (Healthcare 2022) *(설측 OR은 Thereza-Bussolaro 2026으로 업데이트됨)*
-- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — CBCT 8대 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82 (JADA 2026, 18편, GRADE 중-고)
-- [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — CBCT별 절대위험률: 전체 9.52%, 피질골 소실 15.65% vs 정상 0.39%(40배 차이) (JOMS 2026, 11편)
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 관상절제술 SR+MA; IAN↓·건성발치창↓ (Med Oral 2016)
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 관상절제술 2,176례 SR; IAN 0.59% (Healthcare 2021)
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — NICE·AAOMS 가이드라인 검토 (Eng Proc 2025)
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — IAN 손상 유병률·위험인자·회복률 (JOMR 2014)
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — IAC 위치(설측 vs 협측) SR+MA; OR 4.96 (Healthcare 2022) *(설측 OR은 Thereza-Bussolaro 2026으로 업데이트됨)*
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — CBCT 8대 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82 (JADA 2026, 18편, GRADE 중-고)
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — CBCT별 절대위험률: 전체 9.52%, 피질골 소실 15.65% vs 정상 0.39%(40배 차이) (JOMS 2026, 11편)
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 관상절제술 SR+MA; IAN↓·건성발치창↓ (Med Oral 2016)
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 관상절제술 2,176례 SR; IAN 0.59% (Healthcare 2021)
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — NICE·AAOMS 가이드라인 검토 (Eng Proc 2025)
 
 ## Related Papers
 
 ### 신규 추가 (2026-06)
 
-- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — SR+MA (18편, GRADE 중-고): CBCT 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82, 3개 동시 OR 5.06 (sr+ma, 2026)
-- [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — SR+MA (11편): CBCT 절대위험률 — 전체 9.52%, 고위험군 14.76%, 피질골 소실 15.65% vs 정상 0.39% (sr+ma, 2026)
-- [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001 … (sr+ma, 2026)
-- [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months … (sr, 2025)
-- [[oral-surgery/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction) … (sr, 2026)
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — SR+MA (18편, GRADE 중-고): CBCT 예측인자 OR — 피질골 소실 OR 9.87, 아령형 OR 8.25, 설측 OR 3.82, 3개 동시 OR 5.06 (sr+ma, 2026)
+- [[oral-surgery/nerve-injury/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — SR+MA (11편): CBCT 절대위험률 — 전체 9.52%, 고위험군 14.76%, 피질골 소실 15.65% vs 정상 0.39% (sr+ma, 2026)
+- [[oral-surgery/third-molar/derbishi-2026-coronectomy-versus-total-extraction-third]] — SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001 … (sr+ma, 2026)
+- [[oral-surgery/third-molar/di-spirito-2025-re-intervention-rate-timing-indications]] — Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months … (sr, 2025)
+- [[oral-surgery/third-molar/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction) … (sr, 2026)

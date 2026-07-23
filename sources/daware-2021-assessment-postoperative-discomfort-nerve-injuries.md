@@ -15,7 +15,7 @@ text_filename: daware-2021-assessment-postoperative-discomfort-nerve-injuries.tx
 
 ## Why Ingested
 
-하악 제3대구치 (Mandibular Third Molar, M3) 발치 시 발생하는 하치조신경 손상 (Inferior Alveolar Nerve Injury, IANI) 및 설신경 손상 (Lingual Nerve Injury, LNI) 등 합병증의 실제 임상 발생율 및 삶의 질(Quality of Life, QoL) 영향을 전향적 연구로 파악하고자 함. 기존 문헌고찰 [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] 및 [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]]에서 제시한 외과적 합병증 수치를 임상 코호트로 대조 및 보강함.
+하악 제3대구치 (Mandibular Third Molar, M3) 발치 시 발생하는 하치조신경 손상 (Inferior Alveolar Nerve Injury, IANI) 및 설신경 손상 (Lingual Nerve Injury, LNI) 등 합병증의 실제 임상 발생율 및 삶의 질(Quality of Life, QoL) 영향을 전향적 연구로 파악하고자 함. 기존 문헌고찰 [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] 및 [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]]에서 제시한 외과적 합병증 수치를 임상 코호트로 대조 및 보강함.
 
 ## Three-line Summary
 
@@ -91,8 +91,8 @@ Although surgical extraction is a safe procedure with low long-term morbidity, a
 ## 6. Related Work
 
 * **Reinforces**:
-  * [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — on the incidence rates of sensory alterations following M3 extractions.
-  * [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — regarding the classification of nerve injury recovery timelines.
+  * [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — on the incidence rates of sensory alterations following M3 extractions.
+  * [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — regarding the classification of nerve injury recovery timelines.
 * **Contrasts**:
   * Shows a lower rate of IANP compared to Blondeau and Daniel (2007) who reported a 3.9% IANP incidence, highlighting the role of surgical experience and anatomical difficulty variation.
 

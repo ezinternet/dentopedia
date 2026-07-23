@@ -68,5 +68,5 @@ Key clinical balance: antibiotics reduce post-extraction infection (NNT 19) and 
 ## Related Papers
 - [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — updated narrative review of dental antibiotic prophylaxis indications
 - [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — IE-specific prophylaxis; limited to four high-risk cardiac conditions
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar surgical decision-making
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar surgical decision-making
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — local hemostasis strategies; complementary to peri-extraction management

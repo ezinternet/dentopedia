@@ -13,7 +13,7 @@ text_filename: al-aroomi-2025-cgf-third-molar-postop-sr.txt
 
 ## Why Ingested
 
-기존 [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] 및 [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]]는 PRP/PRF/L-PRF를 다루지만, CGF(Concentrated Growth Factors)는 별도 원심분리 프로토콜로 생성되는 2세대 이후 농축물로 기존 SR에 포함되지 않음. 본 SR은 CGF 단독 효과를 평가한 첫 종합 review.
+기존 [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] 및 [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]]는 PRP/PRF/L-PRF를 다루지만, CGF(Concentrated Growth Factors)는 별도 원심분리 프로토콜로 생성되는 2세대 이후 농축물로 기존 SR에 포함되지 않음. 본 SR은 CGF 단독 효과를 평가한 첫 종합 review.
 
 ## Three-line Summary
 

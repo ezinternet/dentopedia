@@ -328,7 +328,7 @@ Patient presents with dental pain, swelling, or odontogenic infection
 - [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — empirical antibiotic SR; drainage primary; narrow-spectrum preferred (sr, 2021)
 
 ### Pericoronitis
-- [[oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — pericoronitis SR; 75% inappropriate prescribing; local treatment first (sr, 2021)
+- [[oral-surgery/third-molar/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — pericoronitis SR; 75% inappropriate prescribing; local treatment first (sr, 2021)
 
 ### Pediatric
 - [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — pediatric antibiotic prescribing; 4 D's; enamel defects (narrative-review, 2020)

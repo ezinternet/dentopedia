@@ -58,6 +58,6 @@ Complication categories:
 Key risk factors: surgeon inexperience, prolonged surgery duration, excessive tissue trauma
 
 ## Related Papers
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review on surgical third molar techniques and postoperative outcomes
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis for dry socket after lower third molar extraction
-- [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — Laser therapy for dry socket treatment
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane review on surgical third molar techniques and postoperative outcomes
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis for dry socket after lower third molar extraction
+- [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] — Laser therapy for dry socket treatment

@@ -15,7 +15,7 @@ text_filename: pena-cardelles-2025-ian-damage-implant-placement-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]]의 ≥2 mm 안전 거리 권고가 CBCT·디지털 플래닝 시대에도 유효한지 의문. 본 SR+MA (Peña-Cardelles 2025)는 임플란트-하악관 거리(0–1 / 1–2 / ≥2 mm / 관 침범)를 계층화해 신경감각변화(NA) 발생률을 정량화하고, 2 mm가 아닌 **1 mm**가 안전할 수 있다는 갱신 근거를 제시해 고전적 2 mm 규칙을 refine한다. 또한 [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]]의 하악 임플란트 신경병증 유병률 데이터와 거리-종속적 위험 구배를 상호 보강하고, [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]]의 IAN 위치–신경손상 SR-MA를 확장하며, [[overviews/ian-nerve-injury-management-overview]] synthesis의 안전거리·예방 분기를 갱신하는 입력.
+기존 [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]]의 ≥2 mm 안전 거리 권고가 CBCT·디지털 플래닝 시대에도 유효한지 의문. 본 SR+MA (Peña-Cardelles 2025)는 임플란트-하악관 거리(0–1 / 1–2 / ≥2 mm / 관 침범)를 계층화해 신경감각변화(NA) 발생률을 정량화하고, 2 mm가 아닌 **1 mm**가 안전할 수 있다는 갱신 근거를 제시해 고전적 2 mm 규칙을 refine한다. 또한 [[oral-surgery/nerve-injury/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]]의 하악 임플란트 신경병증 유병률 데이터와 거리-종속적 위험 구배를 상호 보강하고, [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]]의 IAN 위치–신경손상 SR-MA를 확장하며, [[overviews/ian-nerve-injury-management-overview]] synthesis의 안전거리·예방 분기를 갱신하는 입력.
 
 ## Three-line Summary
 
@@ -93,10 +93,10 @@ NA 발생률은 ≥2 mm에서 0%, 1–2 mm에서 0%였으나 0–1 mm에서 68%,
 
 ## 6. Related Work
 
-- [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — refines its ≥2 mm safety margin toward 1 mm with pooled MA data (aetiology/classification framework of the older review remains standalone-valid).
-- [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — reinforces the distance/trauma-dependent IAN neuropathy risk gradient (Réus stratifies by nerve lateralization; this paper by apex-to-canal distance).
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — extends the IAN-position ↔ nerve-injury evidence with explicit distance-band incidence.
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — management context for the injuries this paper quantifies.
+- [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — refines its ≥2 mm safety margin toward 1 mm with pooled MA data (aetiology/classification framework of the older review remains standalone-valid).
+- [[oral-surgery/nerve-injury/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — reinforces the distance/trauma-dependent IAN neuropathy risk gradient (Réus stratifies by nerve lateralization; this paper by apex-to-canal distance).
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — extends the IAN-position ↔ nerve-injury evidence with explicit distance-band incidence.
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — management context for the injuries this paper quantifies.
 - [[overviews/ian-nerve-injury-management-overview]] — synthesis page whose safety-distance/prevention branch this updates.
 
 ## 7. Glossary

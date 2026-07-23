@@ -13,7 +13,7 @@ text_filename: thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma.txt
 
 ## Why Ingested
 
-기존 [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] 및 [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]](OR 값)를 보완하는 동일 그룹의 companion SR+MA — 이 논문은 OR 대신 절대 위험률(%)을 CBCT 특징별로 계층화해 환자 상담과 수술 계획 결정에 직접 사용 가능한 수치를 제공한다.
+기존 [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] 및 [[oral-surgery/nerve-injury/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]](OR 값)를 보완하는 동일 그룹의 companion SR+MA — 이 논문은 OR 대신 절대 위험률(%)을 CBCT 특징별로 계층화해 환자 상담과 수술 계획 결정에 직접 사용 가능한 수치를 제공한다.
 
 ## Three-line Summary
 

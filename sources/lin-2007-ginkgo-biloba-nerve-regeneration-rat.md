@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-Provides preclinical dose-response evidence for Ginkgo biloba extract (EGb) as a neuroprotective/neuroregenerative agent in peripheral nerve injury — directly relevant to IAN paresthesia adjunct pharmacology discussions. Links to and extends [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] by supplying dose-level detail missing from clinical reviews.
+Provides preclinical dose-response evidence for Ginkgo biloba extract (EGb) as a neuroprotective/neuroregenerative agent in peripheral nerve injury — directly relevant to IAN paresthesia adjunct pharmacology discussions. Links to and extends [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] by supplying dose-level detail missing from clinical reviews.
 
 ## Three-line Summary
 

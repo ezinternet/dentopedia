@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-SR quantifying IAN neuropathy prevalence across implant modalities — fills a critical evidence-base gap for mandibular implant risk counseling. Directly extends [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] with pooled prevalence figures and a management evidence summary.
+SR quantifying IAN neuropathy prevalence across implant modalities — fills a critical evidence-base gap for mandibular implant risk counseling. Directly extends [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] with pooled prevalence figures and a management evidence summary.
 
 ## Three-line Summary
 

@@ -66,16 +66,16 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] | narrative-review | NICE·AAOMS — 절대적응증 (관주위염·낭종·인접 흡수). IAN 고위험 coronectomy |
-| [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] | sr (Cochrane) | 피판·설신경 보호·골삭제 — 종합 비교 |
-| [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] | narrative-review (14편) | IAN 손상 0.35-8.4%. 24세 초과·수평매복·수련의 위험 |
-| [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] | sr+ma (11편) | 설측 canal 위치 → IAN 손상 위험↑. 사전 영상평가 |
-| [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] | case-report | IAN 노출 → dexamethasone 국소 + prednisolone tapering → 36d 회복 |
-| [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] | sr (124례) | 지연 골절 1-3주 내 하악각. 깊은 매복·수평·얇은 설측판 위험 |
+| [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] | narrative-review | NICE·AAOMS — 절대적응증 (관주위염·낭종·인접 흡수). IAN 고위험 coronectomy |
+| [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] | sr (Cochrane) | 피판·설신경 보호·골삭제 — 종합 비교 |
+| [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] | narrative-review (14편) | IAN 손상 0.35-8.4%. 24세 초과·수평매복·수련의 위험 |
+| [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] | sr+ma (11편) | 설측 canal 위치 → IAN 손상 위험↑. 사전 영상평가 |
+| [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] | case-report | IAN 노출 → dexamethasone 국소 + prednisolone tapering → 36d 회복 |
+| [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] | sr (124례) | 지연 골절 1-3주 내 하악각. 깊은 매복·수평·얇은 설측판 위험 |
 | [[guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] | sr | 의인성 골절 0.0033-0.075%. 40-60세 남성·깊은 매복 |
-| [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] | sr+ma (12편) | Coronectomy — IAN·dry socket 유의 감소. 치근편 2y 2mm 이동 |
-| [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] | sr+ma | IAN 고위험 — coronectomy IAN 손상↓. 재수술 5-12% |
-| [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] | sr (16편 2,176례) | Coronectomy IAN 손상 0.59%. 안전·실행 가능 대안 |
+| [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] | sr+ma (12편) | Coronectomy — IAN·dry socket 유의 감소. 치근편 2y 2mm 이동 |
+| [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] | sr+ma | IAN 고위험 — coronectomy IAN 손상↓. 재수술 5-12% |
+| [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] | sr (16편 2,176례) | Coronectomy IAN 손상 0.59%. 안전·실행 가능 대안 |
 
 **임상 ladder (제3대구치)**:
 1. **적응증 평가** — 무증상 매복 (asymptomatic impacted) → AAOMS 가이드라인은 risk-management. NICE는 무증상은 보존.
@@ -89,15 +89,15 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] | sr+ma (NMA, 16 RCT 2158명) | 항생제 예방 dry socket·SSI 위험 감소. 매복·외과 적응 |
-| [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] | sr+ma | LLLT — 통증·부종·trismus 유의 감소. 중등도 효과 |
+| [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] | sr+ma (NMA, 16 RCT 2158명) | 항생제 예방 dry socket·SSI 위험 감소. 매복·외과 적응 |
+| [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] | sr+ma | LLLT — 통증·부종·trismus 유의 감소. 중등도 효과 |
 | [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] | sr (20편) | PRF — 2-3mo 통증 66%↓, 연조직 75%↑, 골 충전 85%↑ |
-| [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] | sr (6편) | PRF > PRP — 연조직 치유·골밀도. PRF 준비 용이·완전 자가 |
-| [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] | sr | PRF — dry socket·부종·trismus·통증 유의 감소 |
-| [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] | sr (3편) | LLLT — Alvogyl 대비 dry socket 치료 유효, 최소침습 대안 |
+| [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] | sr (6편) | PRF > PRP — 연조직 치유·골밀도. PRF 준비 용이·완전 자가 |
+| [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] | sr | PRF — dry socket·부종·trismus·통증 유의 감소 |
+| [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] | sr (3편) | LLLT — Alvogyl 대비 dry socket 치료 유효, 최소침습 대안 |
 | [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] | sr (3편) | 단순 발치 합병증 — trismus·치조염·잔존치근 흔함. 술자 경험 영향 |
-| [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] | sr+ma Cochrane (49 RCT, n=6,771) | CHX rinse (OR 0.38) · intrasocket gel (OR 0.44) — 건성 발치와 예방, 중등도 확실성; NNT≈7 (기저 유병률 30%) |
-| [[oral-surgery/garola-2021-clinical-management-alveolar-osteitis-systematic]] | sr (17편, 39 치료, 2010–2020) | 성공 치료(통증 VAS ≤4 by day 2 또는 ≥85% pain-free by day 7) 53.8%; Alveogyl·Neocones·SaliCept·LLLT·PRF 유효 군집 |
+| [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] | sr+ma Cochrane (49 RCT, n=6,771) | CHX rinse (OR 0.38) · intrasocket gel (OR 0.44) — 건성 발치와 예방, 중등도 확실성; NNT≈7 (기저 유병률 30%) |
+| [[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]] | sr (17편, 39 치료, 2010–2020) | 성공 치료(통증 VAS ≤4 by day 2 또는 ≥85% pain-free by day 7) 53.8%; Alveogyl·Neocones·SaliCept·LLLT·PRF 유효 군집 |
 
 **임상 ladder (발치 합병증 감소)**:
 1. **단순 발치** → 표준 처치, 항생제 불요 (de Angelis 2025).
@@ -105,7 +105,7 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 3. **고위험 환자 (당뇨·면역저하·심내막염 고위험)** → 항생제 + 적극 monitoring.
 4. **PRF 적응** — 심미부 발치, 임플란트 계획, 자가 치유 가속 원하는 환자. 2-3mo benefit, 6mo 자연치유와 동등.
 5. **LLLT 보조** — 발치 직후 + 24/48h. 통증·부종 중등도 감소.
-6. **Dry socket 발생** — Alvogyl 또는 LLLT 대안 (Rosa 2024). 통증 조절. For **prevention** in high-risk extractions (surgical third molars, baseline prevalence ≥30%): chlorhexidine (CHX) rinse 0.12–0.2% (OR 0.38, 95% CI 0.25–0.58) or CHX intrasocket gel 0.2% (OR 0.44, 95% CI 0.27–0.71) reduce dry socket with moderate certainty — NNT≈7 at 30% prevalence; NNT rises to 33 at 5% and 162 at 1% ([[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]], Cochrane SR+MA, 49 RCTs, n=6,771). For **treatment** of established dry socket: only 53.8% of 39 interventions met the pain-control benchmark (VAS ≤4 by day 2 or ≥85% pain-free by day 7); successful options cluster as basic (intra-alveolar irrigation) and specific (Alveogyl, Neocones, SaliCept Patch, LLLT, PRF) — no single agent ranks superior due to heterogeneity ([[oral-surgery/garola-2021-clinical-management-alveolar-osteitis-systematic]], SR, 17 trials).
+6. **Dry socket 발생** — Alvogyl 또는 LLLT 대안 (Rosa 2024). 통증 조절. For **prevention** in high-risk extractions (surgical third molars, baseline prevalence ≥30%): chlorhexidine (CHX) rinse 0.12–0.2% (OR 0.38, 95% CI 0.25–0.58) or CHX intrasocket gel 0.2% (OR 0.44, 95% CI 0.27–0.71) reduce dry socket with moderate certainty — NNT≈7 at 30% prevalence; NNT rises to 33 at 5% and 162 at 1% ([[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]], Cochrane SR+MA, 49 RCTs, n=6,771). For **treatment** of established dry socket: only 53.8% of 39 interventions met the pain-control benchmark (VAS ≤4 by day 2 or ≥85% pain-free by day 7); successful options cluster as basic (intra-alveolar irrigation) and specific (Alveogyl, Neocones, SaliCept Patch, LLLT, PRF) — no single agent ranks superior due to heterogeneity ([[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]], SR, 17 trials).
 
 ### 축 3 — 지혈 (Hemostasis)
 
@@ -146,7 +146,7 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 |---|---|---|
 | [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] | narrative-review (book chapter) | 골 drilling — 47°C/1min, 50°C/30s, 56°C 임계 — osteonecrosis; drill geometry·feed rate·irrigation |
 | [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] | narrative-review | 악골 재건 free flap + guided implant 위치 선정 |
-| [[oral-surgery/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] | sr | **하악 제3대구치 발치 의인성 골절** 유병률 0.0033%–0.075%; intra-/post-op 위험인자 |
+| [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] | sr | **하악 제3대구치 발치 의인성 골절** 유병률 0.0033%–0.075%; intra-/post-op 위험인자 |
 
 **임상 함의**:
 - 임플란트 osteotomy 시 열 control — 충분한 saline irrigation, sharp bur, intermittent drilling. Bertollo 2011 임계 47°C 인지.
@@ -179,9 +179,9 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 ### 신규 추가 (2026-06)
 
 - [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — Retrospective case series (n=28 children, mean age 10.25y): cutaneous sinus tract (CST) of dental origin most often arises from a carious mandibular f … (retrospective, 2012)
-- [[oral-surgery/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Evidence-Based Dentistry summary review of a double-blind, split-mouth RCT (48 patients): irrigating with cooled saline (4°C or 10°C) during mandibula … (narrative-review, 2022)
-- [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] — Cochrane SR+MA (49 RCTs, n=6,771): CHX rinse (OR 0.38) and intrasocket gel (OR 0.44) reduce dry socket with moderate certainty; NNT≈7 at 30% baseline prevalence; Alvogyl > ZOE for pain at day 7 (very low certainty). (sr+ma, 2022)
-- [[oral-surgery/garola-2021-clinical-management-alveolar-osteitis-systematic]] — SR (17 trials, 39 treatments, 2010–2020): 53.8% of AO treatments met pain-control benchmark (VAS ≤4 by day 2 or ≥85% pain-free by day 7); successful options = intra-alveolar irrigation, Alveogyl, Neocones, SaliCept Patch, LLLT, PRF; heterogeneity prevents ranking. (sr, 2021)
+- [[oral-surgery/third-molar/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Evidence-Based Dentistry summary review of a double-blind, split-mouth RCT (48 patients): irrigating with cooled saline (4°C or 10°C) during mandibula … (narrative-review, 2022)
+- [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] — Cochrane SR+MA (49 RCTs, n=6,771): CHX rinse (OR 0.38) and intrasocket gel (OR 0.44) reduce dry socket with moderate certainty; NNT≈7 at 30% baseline prevalence; Alvogyl > ZOE for pain at day 7 (very low certainty). (sr+ma, 2022)
+- [[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]] — SR (17 trials, 39 treatments, 2010–2020): 53.8% of AO treatments met pain-control benchmark (VAS ≤4 by day 2 or ≥85% pain-free by day 7); successful options = intra-alveolar irrigation, Alveogyl, Neocones, SaliCept Patch, LLLT, PRF; heterogeneity prevents ranking. (sr, 2021)
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (10 studies, 388 teeth, network MA) of hemostatic agents in periapical (endodontic) surgery: mean efficacy 63±6.6%, epinephrine & aluminum chloride > collagen (P<.05); hemostasis unrelated to prognosis; informs hemostasis axis 3. (sr+ma, 2026)
 
 ### 신규 추가 (2026-07)

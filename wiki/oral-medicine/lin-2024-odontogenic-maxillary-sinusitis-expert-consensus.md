@@ -71,5 +71,5 @@ This open-access expert consensus, led by Beijing TongRen Hospital (Capital Medi
 ## Related Papers
 - [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — complementary narrative review (Greek ENT/dental perspective); overlapping epidemiology and treatment rationale
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — peri-implantitis as an OMS cause
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar decisions including OAF risk management
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar decisions including OAF risk management
 - [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — antibiotic evidence relevant to peri-extraction/OMS antibiotic decisions

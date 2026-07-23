@@ -115,8 +115,8 @@ Clinical implication: for hemodynamically vulnerable patients — uncontrolled h
 - [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — third molar post-op analgesia (acetaminophen + ibuprofen ≥ opioid); pairs with the intra-op anesthesia question this paper answers.
 - [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — concurrent vs alternating ibuprofen + paracetamol dosing post-op.
 - [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — current Korean LA clinical guideline that operationalizes this epinephrine-concentration choice for CV-risk patients (the "broader guidelines" this RCT defers to).
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR on mandibular third molar surgical technique; provides the procedural context.
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — post-op antibiotic prophylaxis for third molar surgery; NNT-driven antibiotic stewardship complements the anesthesia choice question here.
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR on mandibular third molar surgical technique; provides the procedural context.
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — post-op antibiotic prophylaxis for third molar surgery; NNT-driven antibiotic stewardship complements the anesthesia choice question here.
 
 ## See Also
 

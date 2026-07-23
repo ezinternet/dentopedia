@@ -51,7 +51,7 @@ SR of antibiotic prophylaxis RCTs/cohorts in third molar extraction.
 For Korean dental practice: routine antibiotic prophylaxis for simple third molar extraction in healthy adults is not justified. For complex impacted cases (Pell-Gregory III/C, anatomically high-risk), consider preoperative single-dose amoxicillin 2g — but the NNT remains high and the AMR argument increasingly weighs against it.
 
 ## Related Papers
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion.
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion.
 - [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane companion.
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical technique SR.
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — surgical technique SR.
 - [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.

@@ -79,5 +79,5 @@ This comprehensive narrative review from Aristotle University of Thessaloniki co
 
 ## Related Papers
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — expert consensus (2024); more structured classification and multidisciplinary treatment algorithms
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar extraction decision-making (relevant to OAF risk)
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — third-molar extraction decision-making (relevant to OAF risk)
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — peri-implantitis (implants as OMS etiology)

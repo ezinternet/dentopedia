@@ -15,7 +15,7 @@ text_filename: sun-2026-third-molar-health-management-expert-consensus.txt
 
 ## Why Ingested
 
-A 2026 Chinese multi-center expert consensus covering the full clinical lifecycle of third molar management — from developmental classification through surgical technique, socket regeneration, severe-complication rescue, and functional utilization — represents the highest-level synthesis available on this topic. It directly complements and extends [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]], which is limited to extraction-indication frameworks, by adding surgical protocol granularity, a modified Pell & Gregory Category D subclassification, coronectomy decision rules, and autotransplantation criteria. It also contextualizes [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] recommendations within a broader operative decision tree.
+A 2026 Chinese multi-center expert consensus covering the full clinical lifecycle of third molar management — from developmental classification through surgical technique, socket regeneration, severe-complication rescue, and functional utilization — represents the highest-level synthesis available on this topic. It directly complements and extends [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]], which is limited to extraction-indication frameworks, by adding surgical protocol granularity, a modified Pell & Gregory Category D subclassification, coronectomy decision rules, and autotransplantation criteria. It also contextualizes [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] recommendations within a broader operative decision tree.
 
 ## Three-line Summary
 
@@ -101,12 +101,12 @@ This document is an expert consensus produced by a Chinese multi-center panel an
 
 ## 6. Related Work
 
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — Extraction indications framework this consensus extends
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR on coronectomy outcomes informing this consensus's coronectomy protocol
-- [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — RCT-level evidence on coronectomy vs total extraction
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — Coronectomy nerve-injury risk evidence
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA on coronectomy benefits
-- [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] — Inferior alveolar nerve injury outcomes
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — Extraction indications framework this consensus extends
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR on coronectomy outcomes informing this consensus's coronectomy protocol
+- [[oral-surgery/third-molar/derbishi-2026-coronectomy-versus-total-extraction-third]] — RCT-level evidence on coronectomy vs total extraction
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — Coronectomy nerve-injury risk evidence
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA on coronectomy benefits
+- [[oral-surgery/nerve-injury/li-2022-ian-position-nerve-injury-sr-ma]] — Inferior alveolar nerve injury outcomes
 
 ## 7. Glossary
 

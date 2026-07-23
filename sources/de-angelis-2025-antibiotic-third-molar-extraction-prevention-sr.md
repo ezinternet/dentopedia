@@ -47,7 +47,7 @@ SR of antibiotic prophylaxis studies in third molar extraction.
 - Limited subgroup analysis (Pell-Gregory class)
 
 ## 6. Related Work
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion (NNT=25 for dry socket).
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — NMA companion (NNT=25 for dry socket).
 - [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — Cochrane companion.
 
 ## 7. Glossary

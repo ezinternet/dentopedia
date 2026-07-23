@@ -15,7 +15,7 @@ text_filename: yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment.tx
 
 ## Why Ingested
 
-사용자가 감각이상/신경손상(paresthesia/nerve injury)에 대한 **처방(약물)치료** 관련 논문을 요청. 기존 [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]]는 하치조신경 손상에 대한 국소/전신 스테로이드 프로토콜의 단일 증례보고(n=1)에 그쳤는데, 본 논문(Yaniv-Klein 2026)은 정악교정수술(orthognathic surgery) 287례 코호트에서 발생한 17건의 신경손상에 대해 **저출력레이저치료(LLLT)·코르티코스테로이드·비타민B 복합제**라는 세 가지 치료 modality를 실제 임상 데이터로 비교한 최신 후향적 연구로, 근거 규모와 범위를 확장(extends)한다. PubMed Central 풀텍스트로 확보(PMC13036608, DOI: 10.22514/jofph.2026.023).
+사용자가 감각이상/신경손상(paresthesia/nerve injury)에 대한 **처방(약물)치료** 관련 논문을 요청. 기존 [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]]는 하치조신경 손상에 대한 국소/전신 스테로이드 프로토콜의 단일 증례보고(n=1)에 그쳤는데, 본 논문(Yaniv-Klein 2026)은 정악교정수술(orthognathic surgery) 287례 코호트에서 발생한 17건의 신경손상에 대해 **저출력레이저치료(LLLT)·코르티코스테로이드·비타민B 복합제**라는 세 가지 치료 modality를 실제 임상 데이터로 비교한 최신 후향적 연구로, 근거 규모와 범위를 확장(extends)한다. PubMed Central 풀텍스트로 확보(PMC13036608, DOI: 10.22514/jofph.2026.023).
 
 ## Three-line Summary
 
@@ -46,7 +46,7 @@ No standardized step-by-step pharmacologic/physical-therapy protocol exists for 
 
 - One of the few studies reporting real-world incidence (5.9%) and treatment outcomes of trigeminal nerve injury specifically in the **orthognathic surgery** context (most prior IAN-injury literature focuses on third-molar extraction or implant placement).
 - Directly compares three adjunctive treatment modalities in the same clinical cohort: low-level laser therapy (LLLT), vitamin B complex supplementation, and corticosteroids (perioperative dexamethasone).
-- Explicitly states — after a literature search — that **no published step-by-step protocol exists** for managing IAN/trigeminal neurosensory deficits after orthognathic surgery or third-molar extraction, reinforcing the same evidence gap noted by [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]].
+- Explicitly states — after a literature search — that **no published step-by-step protocol exists** for managing IAN/trigeminal neurosensory deficits after orthognathic surgery or third-molar extraction, reinforcing the same evidence gap noted by [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]].
 - Identifies operative time (230 min vs 198 min median) as a potential surrogate marker for neural traction risk.
 
 ## 3. Methodology and Architecture
@@ -80,9 +80,9 @@ No standardized step-by-step pharmacologic/physical-therapy protocol exists for 
 
 ## 6. Related Work
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of topical + tapering-dose systemic dexamethasone for third-molar-extraction IAN neuropraxia; this paper's discussion explicitly reconfirms "no published step-by-step protocol" exists, at much larger (though still retrospective) scale and in the orthognathic-surgery context.
-- [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — narrative review of IAN injury etiology/recovery after third-molar extraction (background epidemiology, different surgical context).
-- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — narrative review of altered sensation after posterior mandibular implant placement (different surgical cause, same nerve).
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of topical + tapering-dose systemic dexamethasone for third-molar-extraction IAN neuropraxia; this paper's discussion explicitly reconfirms "no published step-by-step protocol" exists, at much larger (though still retrospective) scale and in the orthognathic-surgery context.
+- [[oral-surgery/nerve-injury/sarikov-2014-ian-injury-third-molar-review]] — narrative review of IAN injury etiology/recovery after third-molar extraction (background epidemiology, different surgical context).
+- [[oral-surgery/nerve-injury/baek-2010-literature-review-altered-sensation-mandibular]] — narrative review of altered sensation after posterior mandibular implant placement (different surgical cause, same nerve).
 - Cites Santos et al. and Sharifi et al. (not separately held in this wiki) on LLLT efficacy for post-BSSO neurosensory recovery, and a 20-patient RCT of LLLT vs vitamin B12 for third-molar-extraction IAN paresthesia.
 
 ## 7. Glossary

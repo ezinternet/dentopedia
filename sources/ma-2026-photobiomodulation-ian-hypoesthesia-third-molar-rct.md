@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Only RCT head-to-head comparing laser acupuncture (LA) vs direct photobiomodulation (PBM) along the IAN trajectory for post-extraction IAN hypoesthesia — directly informs adjunct treatment protocols for iatrogenic IAN paresthesia. Extends the photobiomodulation arm of [[overviews/ian-nerve-injury-management-overview]] with RCT-level dosimetry (808 nm, 9 J/site, 15 alternate-day sessions), a delivery-route question the SR-level evidence in [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] could not resolve.
+Only RCT head-to-head comparing laser acupuncture (LA) vs direct photobiomodulation (PBM) along the IAN trajectory for post-extraction IAN hypoesthesia — directly informs adjunct treatment protocols for iatrogenic IAN paresthesia. Extends the photobiomodulation arm of [[overviews/ian-nerve-injury-management-overview]] with RCT-level dosimetry (808 nm, 9 J/site, 15 alternate-day sessions), a delivery-route question the SR-level evidence in [[oral-surgery/nerve-injury/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] could not resolve.
 
 ## Three-line Summary
 

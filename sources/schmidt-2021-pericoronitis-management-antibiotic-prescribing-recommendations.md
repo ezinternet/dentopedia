@@ -15,7 +15,7 @@ text_filename: schmidt-2021-pericoronitis-management-antibiotic-prescribing-reco
 
 ## Why Ingested
 
-The wiki currently lacks any dedicated pericoronitis page, despite pericoronitis being one of the highest-frequency oral-surgery diagnoses driving inappropriate antibiotic use in dentistry. This paper fills that gap with a combined evidence-based therapy review (Part A) and systematic review of prescribing behaviour (Part B), directly reinforcing the stewardship principles already documented in [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] and providing the clinical context that is absent from [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] regarding pericoronitis-specific management.
+The wiki currently lacks any dedicated pericoronitis page, despite pericoronitis being one of the highest-frequency oral-surgery diagnoses driving inappropriate antibiotic use in dentistry. This paper fills that gap with a combined evidence-based therapy review (Part A) and systematic review of prescribing behaviour (Part B), directly reinforcing the stewardship principles already documented in [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] and providing the clinical context that is absent from [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] regarding pericoronitis-specific management.
 
 ## Three-line Summary
 
@@ -110,7 +110,7 @@ amoxicillin and metronidazole are most commonly prescribed, and systemic antibio
 ## 6. Related Work
 
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Broader SR on antibiotic stewardship in dentistry; Schmidt 2021 provides disease-specific prescribing data reinforcing stewardship need.
-- [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — Third molar surgical indications guidelines; Schmidt 2021 applies-to the pericoronitis-specific extraction decision context.
+- [[oral-surgery/third-molar/damico-2025-third-molar-surgical-indications-guidelines]] — Third molar surgical indications guidelines; Schmidt 2021 applies-to the pericoronitis-specific extraction decision context.
 - [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — SR on prophylactic antibiotics for third molar extraction; Schmidt 2021 complements by addressing the pericoronitis treatment (not prophylaxis) scenario.
 
 ## 7. Glossary

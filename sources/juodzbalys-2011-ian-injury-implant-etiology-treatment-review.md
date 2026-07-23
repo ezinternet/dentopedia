@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-하악 임플란트 식립 중 발생하는 하치조신경 (Inferior Alveolar Nerve, IAN) 손상의 원인, 기전, 증상, 진단, 치료를 포괄적으로 정리한 초기 문헌 리뷰 — 136편 검토 기반으로 임상 가이드라인을 최초로 체계화한 참조 논문. [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] 등 이후 관련 문헌들이 이 분류 체계를 인용함.
+하악 임플란트 식립 중 발생하는 하치조신경 (Inferior Alveolar Nerve, IAN) 손상의 원인, 기전, 증상, 진단, 치료를 포괄적으로 정리한 초기 문헌 리뷰 — 136편 검토 기반으로 임상 가이드라인을 최초로 체계화한 참조 논문. [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] 등 이후 관련 문헌들이 이 분류 체계를 인용함.
 
 ## Three-line Summary
 

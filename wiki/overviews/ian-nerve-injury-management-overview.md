@@ -275,18 +275,18 @@ WEEKS 1–12 (established paresthesia)
 
 ### 신규 ingest cluster (2026-07-15)
 
-- [[oral-surgery/tojyo-2019-risk-of-lingual-nerve-injuries]] — Retrospective case-control (n=79 microsurgically-repaired): distoangular impaction (30.8%), female (72.1%, P=0.001), older age associated with lingual nerve injury — distoangular M3 in 30–50s women higher-risk
+- [[oral-surgery/nerve-injury/tojyo-2019-risk-of-lingual-nerve-injuries]] — Retrospective case-control (n=79 microsurgically-repaired): distoangular impaction (30.8%), female (72.1%, P=0.001), older age associated with lingual nerve injury — distoangular M3 in 30–50s women higher-risk
 
-- [[oral-surgery/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — foundational classification & etiology
-- [[oral-surgery/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — prevalence SR
-- [[oral-surgery/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — treatment SR (7 RCTs)
-- [[oral-surgery/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — comprehensive 2024 review
-- [[oral-surgery/khawaja-2009-ian-implant-removal-nerve-injury-cases]] — 36-hour window cases
-- [[oral-surgery/misch-2010-mandibular-nerve-neurosensory-implant-management]] — time-based protocol
-- [[oral-surgery/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct]] — PBM RCT
+- [[oral-surgery/nerve-injury/juodzbalys-2011-ian-injury-implant-etiology-treatment-review]] — foundational classification & etiology
+- [[oral-surgery/nerve-injury/reus-2024-neuropathic-injury-dental-implant-prevalence-sr]] — prevalence SR
+- [[oral-surgery/nerve-injury/keykha-2024-iatrogenic-paresthesia-mandibular-treatment-sr]] — treatment SR (7 RCTs)
+- [[oral-surgery/nerve-injury/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review]] — comprehensive 2024 review
+- [[oral-surgery/nerve-injury/khawaja-2009-ian-implant-removal-nerve-injury-cases]] — 36-hour window cases
+- [[oral-surgery/nerve-injury/misch-2010-mandibular-nerve-neurosensory-implant-management]] — time-based protocol
+- [[oral-surgery/nerve-injury/ma-2026-photobiomodulation-ian-hypoesthesia-third-molar-rct]] — PBM RCT
 - [[drug/analgesics/han-2010-dexamethasone-trigeminal-neuropathic-pain-animal]] — dexamethasone timing animal
 - [[drug/analgesics/buesing-2019-vitamin-b12-pain-nerve-regeneration-review]] — B12 mechanisms/clinical
-- [[oral-surgery/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — methylcobalamin conduit animal
-- [[oral-surgery/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — ginkgo dose-response animal
-- [[oral-surgery/zheng-2025-dental-pulp-stem-cells-alleviate]] — DPSC-loaded conduit rescues Schwann-cell pyroptosis by mitochondrial transfer via tunneling nanotubes (macaque 12-mo + rat + in-vitro); autologous third-molar-derived cell source (Axis 4D, preclinical)
-- [[oral-surgery/rink-notzon-2022-trigeminal-sensory-supply-essential-motor]] — trigeminal sensory input is necessary for facial motor recovery; manual sensory stimulation halves pathological polyinnervation (rat) — the rationale behind sensory-stimulation rehab (Axis 4D, adjacent/rat)
+- [[oral-surgery/nerve-injury/zhang-2020-methylcobalamin-plcl-nerve-regeneration-conduit]] — methylcobalamin conduit animal
+- [[oral-surgery/nerve-injury/lin-2007-ginkgo-biloba-nerve-regeneration-rat]] — ginkgo dose-response animal
+- [[oral-surgery/nerve-injury/zheng-2025-dental-pulp-stem-cells-alleviate]] — DPSC-loaded conduit rescues Schwann-cell pyroptosis by mitochondrial transfer via tunneling nanotubes (macaque 12-mo + rat + in-vitro); autologous third-molar-derived cell source (Axis 4D, preclinical)
+- [[oral-surgery/nerve-injury/rink-notzon-2022-trigeminal-sensory-supply-essential-motor]] — trigeminal sensory input is necessary for facial motor recovery; manual sensory stimulation halves pathological polyinnervation (rat) — the rationale behind sensory-stimulation rehab (Axis 4D, adjacent/rat)
