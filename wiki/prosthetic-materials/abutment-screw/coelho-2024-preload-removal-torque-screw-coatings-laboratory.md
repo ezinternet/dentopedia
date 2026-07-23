@@ -7,7 +7,7 @@ doi: 10.3390/ma17061414
 pmid: "38541567"
 pmcid: "PMC10972164"
 source: coelho-2024-preload-removal-torque-screw-coatings-laboratory.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/coelho-2024-preload-removal-torque-screw-coatings-laboratory.txt
@@ -79,4 +79,4 @@ Clinical implication: at chairside, GapSeal can be applied to implant internal s
 
 ## Related Papers
 
-- [[prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws]] — settling effect and re-tightening timing on preload loss; this study extends by adding coating material comparison
+- [[prosthetic-materials/abutment-screw/varvara-2020-retightening-preload-loss-abutment-screws]] — settling effect and re-tightening timing on preload loss; this study extends by adding coating material comparison
