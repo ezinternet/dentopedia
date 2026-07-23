@@ -5,7 +5,7 @@ year: 2015
 date: 2015-03-01
 doi: 10.1016/j.prosdent.2014.09.018
 source: tiu-2015-clinical-tooth-preparations-measuring-sr.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/tooth-preparation]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/tiu-2015-clinical-tooth-preparations-measuring-sr.pdf
 pdf_filename: tiu-2015-clinical-tooth-preparations-measuring-sr.pdf
@@ -60,7 +60,7 @@ Systematic review (J Prosthet Dent March 2015) of clinical tooth preparation geo
 - For Korean dental education, teaching to 6° while measuring student work against 10-22° creates cognitive dissonance — adjust grading bands accordingly
 
 ## Related Papers
-- [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — quantitative 12° vs 20° retention
-- [[prosthetic-materials/amine-2022-convergence-tooth-preparation-students-typodont]] — student typodont/simulator TOC ~12°
-- [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — Dubai private practice clinical TOC ~25-32°
-- [[prosthetic-materials/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal seating
+- [[prosthetic-materials/tooth-preparation/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — quantitative 12° vs 20° retention
+- [[prosthetic-materials/tooth-preparation/amine-2022-convergence-tooth-preparation-students-typodont]] — student typodont/simulator TOC ~12°
+- [[prosthetic-materials/tooth-preparation/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] — Dubai private practice clinical TOC ~25-32°
+- [[prosthetic-materials/tooth-preparation/kharat-2015-convergence-marginal-seating-fpd-pier-abutment]] — convergence × marginal seating
