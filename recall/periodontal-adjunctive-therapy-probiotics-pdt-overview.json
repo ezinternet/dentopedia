@@ -1,0 +1,49 @@
+{
+  "overview": "periodontal-adjunctive-therapy-probiotics-pdt-overview",
+  "date": "2026-07-23",
+  "title": "치주 보조요법 — 프로바이오틱스·aPDT — 리콜",
+  "source_wiki": [
+    "wiki/overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "SRP에 더하는 보조요법(adjunct)의 근본적 한계(ceiling)는?",
+      "opts": [
+        "보조요법은 SRP를 대체할 수 있다",
+        "2017 NMA(61 RCT)가 확립한 ~0.3mm CAL 천장 — 어떤 adjunct도 서로 우월하지 않고 부착 이득은 작음(John 2017)",
+        "보조요법이 CAL을 2mm 이상 개선",
+        "adjunct 간 우열이 뚜렷하다"
+      ],
+      "ans": 1,
+      "rat": "John 2017 NMA(61 RCT, 9 adjuncts): 어떤 adjunct도 서로 우월하지 않고 CAL 증분은 ~0.3mm에 그침 = ceiling. 어떤 새 adjunct RCT도 이 천장에 비추어 해석해야 하며 CAL로 천장을 넘기는 어렵다 — BoP·pocket count 같은 환자 관련 결과로 재구성이 합리적.",
+      "cite": "overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview"
+    },
+    {
+      "id": "q2",
+      "q": "프로바이오틱스 풀링 메타분석 2편이 probing depth(PPD)에서 갈리는 이유와 실무 결론은?",
+      "opts": [
+        "생물학적으로 진짜 효과 차이가 있다",
+        "분산이 방법론을 따름 — 별 모양 NMA(Mendonca 2024)는 PPD MD 1.48mm(9% 직접근거)인 반면 직접 pairwise MA(Benavides-Reyes 2025)는 PPD 비유의; 둘 다 동의하는 것은 BOP·플라크 개선이며 CAL 이득은 없음",
+        "PPD 이득이 durable하다",
+        "프로바이오틱스가 CAL을 크게 개선"
+      ],
+      "ans": 1,
+      "rat": "Mendonca 2024 NMA(33 RCT, 별 모양·9% 직접근거)는 PPD MD 1.48mm이나 이는 ~0.3mm 천장의 5배로 비현실적; Benavides-Reyes 2025 직접 pairwise MA(24 RCT)는 PPD 비유의. 분산이 방법론을 따르므로 보수적 직접 추정을 취함 — 1.48mm는 planning number로 부적합. 둘 다 BOP·플라크 개선엔 동의, CAL 이득은 없음(전이적 효과).",
+      "cite": "overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview"
+    },
+    {
+      "id": "q3",
+      "q": "임플란트주위염에서 항균광역학치료(aPDT)의 근거는? (Srinivasan 2025)",
+      "opts": [
+        "aPDT는 장기적으로 지속되는 이점",
+        "비외과 기계적 debridement(MD) 보조로 3개월에 BOP·PD·PI·crestal bone loss 유의 개선(SMD 0.90/1.15/0.74/0.38)이나 장기 추적에서 지속되지 않음 — 단기·부위특이 이득",
+        "aPDT는 수술을 대체한다",
+        "aPDT는 어떤 지표도 개선 못 함"
+      ],
+      "ans": 1,
+      "rat": "Srinivasan 2025(SR+MA 25편): 임플란트주위염에서 aPDT+비외과 MD가 3개월에 BOP(SMD 0.90)·PD(1.15)·PI(0.74)·crestal bone loss(0.38) 유의 개선하나 장기 추적에서 지속 안 됨 — 단기·부위특이 이득이지 지속·전신적 아님. 3개월 window의 retreatment-interval 이득이지 cure 아님, 확립된 임플란트주위염 수술 대체 불가.",
+      "cite": "overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview"
+    }
+  ]
+}
