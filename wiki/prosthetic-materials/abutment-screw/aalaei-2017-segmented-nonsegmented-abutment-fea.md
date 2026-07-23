@@ -5,7 +5,7 @@ year: 2017
 date: 2017-07-04
 doi: 10.15171/joddd.2017.027
 source: aalaei-2017-segmented-nonsegmented-abutment-fea.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/aalaei-2017-segmented-nonsegmented-abutment-fea.pdf
 pdf_filename: aalaei-2017-segmented-nonsegmented-abutment-fea.pdf
@@ -82,6 +82,6 @@ Maximum stress always at implant neck; diminished with distance from implant. An
 
 ## Related Papers
 
-- [[prosthetic-materials/velez-2020-implant-connection-abutment-design-screw]] — abutment design and implant connection effects on screw mechanics (extends context)
-- [[prosthetic-materials/bulaqi-2015-dynamic-nature-abutment-screw-retightening]] — abutment screw dynamics and preload; relevant to the screw-stress trade-off found here
-- [[prosthetic-materials/angermair-2024-microgap-abutment-displacement-implant-connection]] — microgap and micro-motion at implant-abutment connection, mechanistically related
+- [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — abutment design and implant connection effects on screw mechanics (extends context)
+- [[prosthetic-materials/abutment-screw/bulaqi-2015-dynamic-nature-abutment-screw-retightening]] — abutment screw dynamics and preload; relevant to the screw-stress trade-off found here
+- [[prosthetic-materials/abutment-screw/angermair-2024-microgap-abutment-displacement-implant-connection]] — microgap and micro-motion at implant-abutment connection, mechanistically related
