@@ -5,7 +5,7 @@ year: 2022
 date: 2022-09-01
 doi: 10.1002/14651858.CD006968.pub3
 source: daly-2022-local-interventions-management-alveolar-osteitis.md
-category: oral-surgery
+category: oral-surgery/third-molar
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/daly-2022-local-interventions-management-alveolar-osteitis.pdf
 pdf_filename: daly-2022-local-interventions-management-alveolar-osteitis.pdf
@@ -75,6 +75,6 @@ For established dry socket, the old Alvogyl formulation reduced day-7 pain more 
 
 ## Related Papers
 
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — 항생제 예방투여의 건성 발치와 NNT(=25) 프레이밍을 본 CHX 예방의 NNT(고위험 7)와 같은 "기저 위험에 비례" 논리로 보강(reinforces).
-- [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — 확립된 건성 발치와 치료에서 LLLT가 Alvogyl 대안; 본 페이지의 Alvogyl(구) vs ZOE 치료 근거와 인접.
-- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF(≠본 SR의 PRP)는 건성 발치와 감소; 본 SR은 PRP에서 효과 불확실(NS, 매우 낮은 확실성) — 제제 구분 주의.
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — 항생제 예방투여의 건성 발치와 NNT(=25) 프레이밍을 본 CHX 예방의 NNT(고위험 7)와 같은 "기저 위험에 비례" 논리로 보강(reinforces).
+- [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] — 확립된 건성 발치와 치료에서 LLLT가 Alvogyl 대안; 본 페이지의 Alvogyl(구) vs ZOE 치료 근거와 인접.
+- [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — PRF(≠본 SR의 PRP)는 건성 발치와 감소; 본 SR은 PRP에서 효과 불확실(NS, 매우 낮은 확실성) — 제제 구분 주의.
