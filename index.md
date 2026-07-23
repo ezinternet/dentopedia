@@ -2914,7 +2914,7 @@ tags: []
 - [[endodontics/vpt/liu-2025-carnosol-pulpitis-rage-nfkb]] — 카르노솔이 RAGE/NF-κB 경로 억제를 통해 치수염의 IL-1β·IL-6·TNF-α를 농도의존적으로 감소시킨 최초의 연구 (in vitro hDPCs + SD 쥐 모델)
 
 ### Oral surgery — coronectomy
-- [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Di Spirito 2025 · sr · Umbrella review (6 SRs, 5896 subjects): coronectomy re-intervention 4.45%, mean 10.4 mo, IAN injury 0.76%
+- [[oral-surgery/third-molar/di-spirito-2025-re-intervention-rate-timing-indications]] — Di Spirito 2025 · sr · Umbrella review (6 SRs, 5896 subjects): coronectomy re-intervention 4.45%, mean 10.4 mo, IAN injury 0.76%
 - [[oral-surgery/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Rico-Barroso 2026 · sr · SR (16 studies, 2551 pts): IAN injury 0.56% coronectomy vs 6.53% extraction; 6.22% conversion failure
 - [[oral-surgery/third-molar/derbishi-2026-coronectomy-versus-total-extraction-third]] — Derbishi 2026 · sr+ma · SR+MA (8 studies, 1488 teeth): IAN injury Peto OR 0.23 (TSA-conclusive), re-operation 1.2%
 - [[oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Schmidt 2021 · sr · 관주위염(pericoronitis) 근거기반 관리 + 항생제 처방 SR: 치과의사 ~75%가 항생제 처방하나 국소세정·판막절제(operculectomy)가 1차; 항생제는 중증·전신침범에 한정 (amoxicillin·metronidazole 최다)

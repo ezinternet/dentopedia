@@ -5,7 +5,7 @@ year: 2025
 date: 2025-05-30
 doi: 10.3390/jcm14113877
 source: di-spirito-2025-re-intervention-rate-timing-indications.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-spirito-2025-re-intervention-rate-timing-indications.pdf
 pdf_filename: di-spirito-2025-re-intervention-rate-timing-indications.pdf
@@ -59,6 +59,6 @@ This is the first umbrella review (systematic review of systematic reviews) to q
 
 ## Related Papers
 
-- [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 2016 기초 SR+MA의 안전성·유효성 결론을 장기 재수술 차원으로 확장
-- [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 신경 보호 결과와 상호 보완
-- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — 최신 SR+MA 결과와 비교 참조
+- [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 2016 기초 SR+MA의 안전성·유효성 결론을 장기 재수술 차원으로 확장
+- [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 신경 보호 결과와 상호 보완
+- [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — 최신 SR+MA 결과와 비교 참조
