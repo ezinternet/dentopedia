@@ -86,4 +86,4 @@ At 60 months, overall survival was 90.1% (mean survival time 57.6 months). Of 21
 - [[veneers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma]] — SR+MA on composite veneer survival; material-level comparison context
 - [[veneers/al-akhali-2017-fracture-resistance-ceramic-polymer-occlusal]] — in-vitro fracture resistance comparison of ceramic vs polymer occlusal veneers
 - [[veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus]] — consensus on ceramic veneers; contextualizes material selection guidance
-- [[dental-erosion/dental-erosion-etiology-prevention-synthesis]] — overview of erosive tooth wear etiology, informing why full-mouth rehabilitation was indicated
+- [[overviews/dental-erosion-etiology-prevention-synthesis]] — overview of erosive tooth wear etiology, informing why full-mouth rehabilitation was indicated
