@@ -5,7 +5,7 @@ year: 2024
 date: 2024-06-15
 doi: 10.1186/s12903-024-04461-w
 source: rosa-2024-laser-therapy-dry-socket-sr.md
-category: [oral-surgery]
+category: [oral-surgery/third-molar]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosa-2024-laser-therapy-dry-socket-sr.pdf
 pdf_filename: rosa-2024-laser-therapy-dry-socket-sr.pdf
@@ -55,6 +55,6 @@ Rosa et al. (2024) conducted a systematic review and meta-analysis evaluating la
 Limitation: Only 3 qualifying studies; very limited evidence base; laser parameters not standardized across studies.
 
 ## Related Papers
-- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis to *prevent* dry socket after lower third molar extraction
+- [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — Antibiotic prophylaxis to *prevent* dry socket after lower third molar extraction
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — Alveolitis as most prevalent complication of simple exodontia
-- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Surgical technique factors influencing dry socket incidence
+- [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Surgical technique factors influencing dry socket incidence
