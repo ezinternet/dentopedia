@@ -5,7 +5,7 @@ year: 2013
 date: 2013-09-03
 doi: 10.1111/idh.12053
 source: mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct.md
-category: periodontics
+category: periodontics/oral-hygiene-instruction
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false
@@ -68,5 +68,5 @@ This record is **abstract-only** (full text not retrieved); only the figures rep
 
 ## Related Papers
 
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — Watanabe toothpick method tested in another medically compromised group (diabetic periodontitis); this paper applies the method in a special-needs psychiatric population.
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual plaque-control techniques; context for mechanical plaque-control efficacy.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — Watanabe toothpick method tested in another medically compromised group (diabetic periodontitis); this paper applies the method in a special-needs psychiatric population.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — SR of manual plaque-control techniques; context for mechanical plaque-control efficacy.
