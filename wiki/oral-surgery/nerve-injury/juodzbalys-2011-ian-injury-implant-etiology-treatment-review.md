@@ -5,7 +5,7 @@ year: 2011
 date: 2011-01-01
 doi: 10.5037/jomr.2011.2101
 source: juodzbalys-2011-ian-injury-implant-etiology-treatment-review.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/juodzbalys-2011-ian-injury-implant-etiology-treatment-review.pdf
 pdf_filename: juodzbalys-2011-ian-injury-implant-etiology-treatment-review.pdf
@@ -80,4 +80,4 @@ Narrative review; PubMed, Embase, Cochrane searched 1972–November 2010; Englis
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — subsequent clinical management guidelines updating this framework
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — subsequent clinical management guidelines updating this framework
