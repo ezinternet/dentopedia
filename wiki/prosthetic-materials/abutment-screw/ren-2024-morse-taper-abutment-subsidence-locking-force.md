@@ -5,7 +5,7 @@ year: 2024
 date: 2024-06-01
 doi: "10.7518/hxkq.2024.2023387"
 source: ren-2024-morse-taper-abutment-subsidence-locking-force.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
@@ -78,6 +78,6 @@ Pure Morse taper (taper-lock) implant-abutment connections — exemplified by Bi
 ## Related Papers
 
 - [[implants/seong-2016-external-internal-implant-connection-system]] — extends: adds taper-lock (screwless) subsidence/retention data to the external-vs-internal connection biomechanics framework.
-- [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] — reinforces: complementary biomechanical lens (FEA abutment stress) on the same implant-abutment interface.
+- [[prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea]] — reinforces: complementary biomechanical lens (FEA abutment stress) on the same implant-abutment interface.
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — related: one-piece abutment mechanics where seating/loading behavior also governs prosthetic performance.
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — clinical relevance: explains why taper-lock occlusion must be finalized after settling.
