@@ -5,7 +5,7 @@ year: 2023
 date: 2023-10-25
 doi: 10.1186/s12903-023-03518-6
 source: axe-2023-impact-manual-toothbrush-design.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: true
@@ -70,5 +70,5 @@ As an in vitro, industry-sponsored study (Haleon/Dr Best, with independent stati
 
 ## Related Papers
 
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of 10 manual brushing *techniques* found no technique superior for plaque/gingivitis, partly due to heterogeneity across 23 toothbrush brands in the pooled studies; Axe 2023 extends this by isolating *brush design* variables under controlled movement/force, offering a mechanistic account of how bristle hardware (independent of technique) drives plaque-removal variance.
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — compares powered vs manual toothbrushes in orthodontic patients; Axe 2023's rotating-movement findings (most effective, most design-sensitive) parallel the oscillating-rotating mechanism used by powered brushes in that review.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of 10 manual brushing *techniques* found no technique superior for plaque/gingivitis, partly due to heterogeneity across 23 toothbrush brands in the pooled studies; Axe 2023 extends this by isolating *brush design* variables under controlled movement/force, offering a mechanistic account of how bristle hardware (independent of technique) drives plaque-removal variance.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — compares powered vs manual toothbrushes in orthodontic patients; Axe 2023's rotating-movement findings (most effective, most design-sensitive) parallel the oscillating-rotating mechanism used by powered brushes in that review.
