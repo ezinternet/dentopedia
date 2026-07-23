@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-13
 doi: "10.1111/jcpe.70083"
 source: farina-2026-pmpr-biofilm-gingivitis-sr-ma.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
 pdf_filename: farina-2026-pmpr-biofilm-gingivitis-sr-ma.txt
@@ -72,7 +72,7 @@ Prepared for Working Group 1 of the 21st European Workshop on Periodontology, th
 
 ## Related Papers
 
-- [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]] — extends: routine prophylaxis has no benefit in low-risk healthy adults, whereas PMPR+OHI helps in *established* gingivitis; together they bracket the indication for professional cleaning.
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — reinforces air-polishing efficacy/efficiency vs conventional instrumentation.
-- [[periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] — related SR on guided biofilm therapy.
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — extends: routine prophylaxis has no benefit in low-risk healthy adults, whereas PMPR+OHI helps in *established* gingivitis; together they bracket the indication for professional cleaning.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — reinforces air-polishing efficacy/efficiency vs conventional instrumentation.
+- [[periodontics/non-surgical-instrumentation/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] — related SR on guided biofilm therapy.
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — synthesis this page feeds into.
