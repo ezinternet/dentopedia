@@ -5,7 +5,7 @@ year: 1998
 date: 1998-10-01
 doi: 10.1111/j.1600-051x.1998.tb02377.x
 source: morita-1998-toothpick-method-bass-supragingival-plaque-rct.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false
@@ -63,5 +63,5 @@ This 1998 split-mouth randomized clinical trial is the **cornerstone primary stu
 
 ## Related Papers
 
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual toothbrushing techniques (plaque & gingivitis) that cites this trial as primary evidence; this page reinforces it.
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — later RCT applying the Watanabe Toothpick method clinically (alongside SRP) in diabetic periodontitis.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — systematic review of manual toothbrushing techniques (plaque & gingivitis) that cites this trial as primary evidence; this page reinforces it.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — later RCT applying the Watanabe Toothpick method clinically (alongside SRP) in diabetic periodontitis.
