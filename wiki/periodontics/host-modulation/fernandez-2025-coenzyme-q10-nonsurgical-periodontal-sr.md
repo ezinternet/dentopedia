@@ -5,7 +5,7 @@ year: 2025
 date: 2025-02-07
 doi: 10.1111/eos.70002
 source: fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
@@ -68,8 +68,8 @@ Overall certainty of evidence: **very low**.
 
 ## Related Papers
 
-- [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — earlier CoQ10 SR+MA endorsing gel; the direct contradiction (route-pooling artifact).
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — sibling host-modulation/nutraceutical adjunct (omega-3), also small-effect.
+- [[periodontics/host-modulation/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — earlier CoQ10 SR+MA endorsing gel; the direct contradiction (route-pooling artifact).
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — sibling host-modulation/nutraceutical adjunct (omega-3), also small-effect.
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP guideline framing for SRP adjuncts.
-- [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — mechanical-therapy backbone.
+- [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — mechanical-therapy backbone.
 - [[overviews/periodontics-treatment-ladder]] — where antioxidant/host-modulation adjuncts sit in the ladder.
