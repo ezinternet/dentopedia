@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-10
 doi: 10.1007/s10735-025-10690-2
 source: park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: animal
 source_collection: pubmed-text
 full_text: true
@@ -72,5 +72,5 @@ In a ligature-induced periodontitis model (4-0 silk around maxillary second mola
 
 ## Related Papers
 
-- [[periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]] — same *Magnolia cortex* + *Zea mays* extract combination (the **ISD / Insadol Plus** formula); here that exact formula is the 250 mg/kg/day positive-control reference drug, and PBE is judged comparable to it. Reinforces Insadol's documented anti-periodontitis efficacy.
-- [[periodontics/kim-2018-magnoliae-cortex-zea-mays-modulate]] — earlier mechanistic study of the same Magnolia cortex + Zea mays (Insadol-family) extracts modulating periodontal inflammation/bone; this paper independently uses the formula as an efficacious benchmark.
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — same *Magnolia cortex* + *Zea mays* extract combination (the **ISD / Insadol Plus** formula); here that exact formula is the 250 mg/kg/day positive-control reference drug, and PBE is judged comparable to it. Reinforces Insadol's documented anti-periodontitis efficacy.
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — earlier mechanistic study of the same Magnolia cortex + Zea mays (Insadol-family) extracts modulating periodontal inflammation/bone; this paper independently uses the formula as an efficacious benchmark.
