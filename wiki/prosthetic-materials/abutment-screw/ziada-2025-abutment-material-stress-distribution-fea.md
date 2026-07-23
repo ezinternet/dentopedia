@@ -5,7 +5,7 @@ year: 2025
 date: 2025-12-01
 doi: 10.1186/s12903-025-07122-8
 source: ziada-2025-abutment-material-stress-distribution-fea.md
-category: [prosthetic-materials]
+category: [prosthetic-materials/abutment-screw]
 evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/ziada-2025-abutment-material-stress-distribution-fea.pdf
 pdf_filename: ziada-2025-abutment-material-stress-distribution-fea.pdf
