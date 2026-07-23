@@ -3,7 +3,7 @@ title: "Probiotics in the non-surgical treatment of periodontitis: a systematic 
 stem: "mendoca-2024-probiotics-nspt-nma"
 source: mendoca-2024-probiotics-nspt-nma.md
 source_collection: pubmed-abstract
-category: periodontics
+category: periodontics/host-modulation
 year: 2024
 authors: "Mendonça CD, Mata ADSPD, Azevedo LFR, Marques JF, Silveira JML, Marques DNDS"
 doi: "10.1186/s12903-024-05027-6"
