@@ -5,7 +5,7 @@ year: 2024
 date: 2024-03-15
 doi: 10.1007/s00784-024-05615-4
 source: kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review.md
-category: [oral-surgery]
+category: [oral-surgery/nerve-injury]
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review.pdf
 pdf_filename: kammerer-2024-ian-lingual-nerve-diagnosis-treatment-review.pdf
@@ -103,4 +103,4 @@ At first presentation, injury probability should be graded: certain / probable /
 
 ## Related Papers
 
-- [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — prior management reference for IAN injury in the wiki's oral-surgery cluster
+- [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — prior management reference for IAN injury in the wiki's oral-surgery cluster
