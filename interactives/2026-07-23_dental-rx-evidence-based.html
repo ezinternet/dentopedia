@@ -21,6 +21,7 @@
   --tb-bg:#FDECD8; --tb-t:#7D3510;
   --ts-bg:#EAE0F5; --ts-t:#562B8A;
   --tr-bg:#D8EAF5; --tr-t:#1B4F74;
+  --tg-bg:#F5EAF7; --tg-t:#6A2080;
   /* evidence colors */
   --ev-bg:   #FFFBF0;  --ev-t:  #7D5010; --ev-bdr: #F5C842;
   --war-bg:  #FFF3EE;  --war-t: #852810; --war-bdr:#E86030;
@@ -97,6 +98,7 @@ body{
 .tb2{background:var(--tb-bg);color:var(--tb-t)}
 .ts{background:var(--ts-bg);color:var(--ts-t)}
 .tr{background:var(--tr-bg);color:var(--tr-t)}
+.tg{background:var(--tg-bg);color:var(--tg-t)}
 
 /* ── DRUG ROW ── */
 .dr{
@@ -359,6 +361,43 @@ body{
 
     <div class="cat">
       <div class="cat-hd">
+        <span class="cat-lbl">위보호제 <span style="font-weight:400;font-size:10px;color:var(--tx3)">NSAIDs 병용 시</span></span>
+        <span class="tag tg">Gastroprotection</span>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">뮤코스타정 <small style="font-weight:400;color:var(--tx3)">100mg</small></div>
+          <div class="dg">레바미피드 · 식후 1일 3회 (위점막 보호)</div>
+        </div>
+        <div class="dsig">식후</div>
+        <div class="dday"><input value="3" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">가스터정 <small style="font-weight:400;color:var(--tx3)">20mg</small></div>
+          <div class="dg">파모티딘 (H2RA) · 식후 1일 2회</div>
+        </div>
+        <div class="dsig">식후</div>
+        <div class="dday"><input value="3" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">넥시움정 <small style="font-weight:400;color:var(--tx3)">20mg</small></div>
+          <div class="dg">에소메프라졸 (PPI) · 아침 식전 1일 1회 ★고위험 환자</div>
+        </div>
+        <div class="dsig">식전 30분</div>
+        <div class="dday"><input value="5" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="ev-note">
+        💡 NSAIDs 5일 이상 · 위궤양 과거력 · 고령(65세↑) · 스테로이드 병용 시 위보호제 추가 권고. 단기(3일 이내) 건강 환자는 선택적.
+      </div>
+    </div>
+
+    <div class="cat">
+      <div class="cat-hd">
         <span class="cat-lbl">구강소독제</span>
         <span class="tag tr">Rinse</span>
       </div>
@@ -493,6 +532,43 @@ body{
 
     <div class="cat">
       <div class="cat-hd">
+        <span class="cat-lbl">위보호제 <span style="font-weight:400;font-size:10px;color:var(--tx3)">NSAIDs·스테로이드 병용 시</span></span>
+        <span class="tag tg">Gastroprotection</span>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">뮤코스타정 <small style="font-weight:400;color:var(--tx3)">100mg</small></div>
+          <div class="dg">레바미피드 · 식후 1일 3회 (위점막 보호)</div>
+        </div>
+        <div class="dsig">식후</div>
+        <div class="dday"><input value="5" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">가스터정 <small style="font-weight:400;color:var(--tx3)">20mg</small></div>
+          <div class="dg">파모티딘 (H2RA) · 식후 1일 2회</div>
+        </div>
+        <div class="dsig">식후</div>
+        <div class="dday"><input value="5" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">넥시움정 <small style="font-weight:400;color:var(--tx3)">20mg</small></div>
+          <div class="dg">에소메프라졸 (PPI) · 아침 식전 1일 1회 ★고위험 환자</div>
+        </div>
+        <div class="dsig">식전 30분</div>
+        <div class="dday"><input value="7" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="ev-note">
+        💡 NSAIDs + 스테로이드 병용은 위장 위험 배가. 고령·궤양 과거력·항응고제 병용 시 PPI(넥시움) 적극 추가 권고.
+      </div>
+    </div>
+
+    <div class="cat">
+      <div class="cat-hd">
         <span class="cat-lbl">구강소독제</span>
         <span class="tag tr">Rinse</span>
       </div>
@@ -601,6 +677,42 @@ body{
         <span class="ev-sub">적응증: 급성감염 동반 — 발열 · 연조직 부종 · 림프절 종창 · AAA(급성 치근단 농양)에 한해 처방</span>
         <span class="ev-src">Shamszadeh 2020, SR+MA 8 RCTs n=690</span>
       </div>
+      <div class="cat">
+      <div class="cat-hd">
+        <span class="cat-lbl">위보호제 <span style="font-weight:400;font-size:10px;color:var(--tx3)">NSAIDs 병용 시</span></span>
+        <span class="tag tg">Gastroprotection</span>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">뮤코스타정 <small style="font-weight:400;color:var(--tx3)">100mg</small></div>
+          <div class="dg">레바미피드 · 식후 1일 3회 (위점막 보호)</div>
+        </div>
+        <div class="dsig">식후</div>
+        <div class="dday"><input value="3" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">가스터정 <small style="font-weight:400;color:var(--tx3)">20mg</small></div>
+          <div class="dg">파모티딘 (H2RA) · 식후 1일 2회</div>
+        </div>
+        <div class="dsig">식후</div>
+        <div class="dday"><input value="3" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="dr" onclick="toggleRow(this)">
+        <input type="checkbox">
+        <div class="di">
+          <div class="dn">넥시움정 <small style="font-weight:400;color:var(--tx3)">20mg</small></div>
+          <div class="dg">에소메프라졸 (PPI) · 아침 식전 1일 1회 ★고위험 환자</div>
+        </div>
+        <div class="dsig">식전 30분</div>
+        <div class="dday"><input value="5" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="ev-note">
+        💡 NSAIDs 5일 이상 · 위궤양 과거력 · 고령(65세↑) · 스테로이드 병용 시 위보호제 추가 권고. 단기(3일 이내) 건강 환자는 선택적.
+      </div>
+    </div>
 
       <div class="dr" onclick="toggleRow(this)">
         <input type="checkbox">
