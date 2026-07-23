@@ -5,7 +5,7 @@ year: 2019
 date: 2019-02-01
 doi: 10.1111/prd.12257
 source: valkenburg-2019-plaque-control-dentifrices-evidence.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -72,5 +72,5 @@ This meta-review (an umbrella review of systematic reviews, the dentifrice-focus
 
 ## Related Papers
 
-- [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — **reinforces**. Overlapping active ingredients (chlorhexidine, triclosan) evaluated via network meta-analysis, but for mouthrinse/gel delivery rather than dentifrice; both converge on chlorhexidine and triclosan/related actives providing meaningful chemical antiplaque/antigingivitis benefit.
+- [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — **reinforces**. Overlapping active ingredients (chlorhexidine, triclosan) evaluated via network meta-analysis, but for mouthrinse/gel delivery rather than dentifrice; both converge on chlorhexidine and triclosan/related actives providing meaningful chemical antiplaque/antigingivitis benefit.
 - [[interdental-cleaning/jung-2025-flossing-performance-plaque-removal]] — **applies-to**. This paper's finding that dentifrice adds no mechanical plaque-removal benefit is a relevant contrast when evaluating mechanical interdental cleaning (flossing) efficacy as the primary lever for plaque control.
