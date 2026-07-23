@@ -5,7 +5,7 @@ year: 2022
 date: 2022-03-04
 doi: 10.1016/j.jebdp.2022.101710
 source: rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma.md
-category: [periodontics]
+category: [periodontics/host-modulation]
 evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: false
@@ -41,7 +41,7 @@ This 2022 SR+MA pooled **11 controlled trials** and concluded **in favour of CoQ
 
 Two caveats hollow out the headline. First, **heterogeneity is very high** (I² 72–89%) on every outcome — the pooled estimates rest on inconsistent studies. Second, the authors themselves note that **high-risk-of-bias trials reported larger CoQ10 effects**, the classic signature of effect inflation.
 
-This page exists mainly as the **contrasting half of the CoQ10 evidence pair**. The newer, route-stratified [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] separates local from systemic delivery and finds the **gel route null**, with only oral 120 mg/day giving a small benefit at very low certainty. The disagreement is a methodology lesson: Rasoolzadeh pooled routes and mixed gingivitis-leaning indices, so its pro-gel conclusion should be read as an artifact of pooling and bias rather than evidence to recommend CoQ10 gel to patients.
+This page exists mainly as the **contrasting half of the CoQ10 evidence pair**. The newer, route-stratified [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] separates local from systemic delivery and finds the **gel route null**, with only oral 120 mg/day giving a small benefit at very low certainty. The disagreement is a methodology lesson: Rasoolzadeh pooled routes and mixed gingivitis-leaning indices, so its pro-gel conclusion should be read as an artifact of pooling and bias rather than evidence to recommend CoQ10 gel to patients.
 
 ## Key Contributions
 
@@ -69,7 +69,7 @@ Intra-pocket > topical; effect larger in high-risk-of-bias studies; heterogeneit
 
 ## Related Papers
 
-- [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — newer route-stratified SR finding gel null; the direct contradiction.
-- [[periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — sibling host-modulation/nutraceutical adjunct (omega-3).
+- [[periodontics/host-modulation/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — newer route-stratified SR finding gel null; the direct contradiction.
+- [[periodontics/host-modulation/heo-2022-omega-3-fatty-acids-periodontitis-ma]] — sibling host-modulation/nutraceutical adjunct (omega-3).
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — companion cautionary tale on over-read periodontal-supplement statistics.
 - [[overviews/periodontics-treatment-ladder]] — where antioxidant adjuncts sit in the ladder.
