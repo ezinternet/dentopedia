@@ -951,7 +951,7 @@ tags: []
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
 - [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — SR+MA (BMC Oral Health 2026, Ye, 14편/비흡연 성인 115,925명): 간접흡연(ETS) 노출과 치주염 OR 1.47 (95% CI 1.22-1.76), 치아상실은 무관; 코티닌 기반 평가가 자가보고보다 강한 연관성 — 능동 흡연 넘어 간접노출로 위험모델 확장.
 - [[periodontics/jkda-2025-63-11-005]] — Special issue (중앙보훈병원 치주과 송영우, JKDA 2025): 치주치료 EBM 권장사항 + 전신질환(CVD·DM) 연관성 강조 — 한국 임상 적용 framework
-- [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — DB-RCT (J Clin Periodontol 2026, PMC OA): probiotics adjunct to NSPT/SRP — PPD, BOP, CAL outcomes
+- [[periodontics/host-modulation/kim-2026-probiotics-nspt-periodontal-db-rct]] — DB-RCT (J Clin Periodontol 2026, PMC OA): probiotics adjunct to NSPT/SRP — PPD, BOP, CAL outcomes
 - [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Milinkovic 2025, RCT (n=38), 국소 피페라실린+타조박탐이 전신 아목시실린+메트로니다졸과 동등한 6개월 NSPT 임상 효과 확인
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — Aimetti 2025, rct, BOOST 전처치(수술 2주 전 국소 독시사이클린)가 MIST 재생술 결과를 유의하게 개선: CAL 획득 4.1 대 3.2 mm, 복합성공률 83.3% 대 46.7%(NNT=2.73), 방사선 골충전 3.5 대 2.7 mm
 - [[periodontics/oral-hygiene-instruction/axe-2023-impact-manual-toothbrush-design]] — Axe 2023 · in-vitro (로봇칫솔질 시뮬레이션, BMC Oral Health): 강모 직경·경도·절단높이·치간홈 등 수동칫솔 디자인 변수가 치태 제거효능에 미치는 영향 비교 (DOI 10.1186/s12903-023-03518-6)

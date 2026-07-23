@@ -7,7 +7,7 @@ doi: 10.1111/jcpe.70136
 pmid: "42076937"
 pmcid: "PMC13263718"
 source: kim-2026-probiotics-nspt-periodontal-db-rct.md
-category: periodontics
+category: periodontics/host-modulation
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
