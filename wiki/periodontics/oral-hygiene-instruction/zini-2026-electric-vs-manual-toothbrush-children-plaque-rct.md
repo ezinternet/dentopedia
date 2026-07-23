@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-28
 doi: 10.1111/ipd.70086
 source: zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.pdf
 pdf_filename: zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.pdf
@@ -92,5 +92,5 @@ Groups were well matched: demographics p≥0.848; all baseline TQHPI subregion s
 
 ## Related Papers
 
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — network meta-analysis of electric-toothbrush technologies for plaque/gingivitis (adults); this RCT adds paediatric primary data reinforcing OR-power superiority.
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — SR+MA of powered vs manual toothbrushes in orthodontic patients; complementary powered-vs-manual comparison in another special population.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — network meta-analysis of electric-toothbrush technologies for plaque/gingivitis (adults); this RCT adds paediatric primary data reinforcing OR-power superiority.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — SR+MA of powered vs manual toothbrushes in orthodontic patients; complementary powered-vs-manual comparison in another special population.
