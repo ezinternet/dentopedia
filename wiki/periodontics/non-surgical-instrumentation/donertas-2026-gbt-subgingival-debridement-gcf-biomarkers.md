@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-17
 doi: 10.1186/s12903-026-08748-y
 source: donertas-2026-gbt-subgingival-debridement-gcf-biomarkers.md
-category: [periodontics]
+category: [periodontics/non-surgical-instrumentation]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: false
@@ -67,5 +67,5 @@ Note: abstract-only — full text not retrieved.
 
 ## Related Papers
 
-- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — reinforces: GBT vs conventional RCT on clinical indices; this paper adds a concordant biomarker-level (IL-1β) advantage.
-- [[periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] — refines: the SR concluded GBT is not clinically superior; this RCT qualifies that by showing GBT does beat conventional on GI/PI/IL-1β but not on TNF-α/IL-10/MMP-8.
+- [[periodontics/non-surgical-instrumentation/cyris-2024-guided-biofilm-therapy-versus-conventional]] — reinforces: GBT vs conventional RCT on clinical indices; this paper adds a concordant biomarker-level (IL-1β) advantage.
+- [[periodontics/non-surgical-instrumentation/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] — refines: the SR concluded GBT is not clinically superior; this RCT qualifies that by showing GBT does beat conventional on GI/PI/IL-1β but not on TNF-α/IL-10/MMP-8.
