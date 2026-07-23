@@ -132,7 +132,7 @@ MRONJ 결론: 카탈로그 언급(Ku 2025)에서 분자기전 근거로 격상. 
 
 ## 임상 적용 Ladder (원장 의사결정)
 
-1. **발치(특히 매복 제3대구치) 술후 통증·치유 보조** → submucosal PDRN injection 고려 가능. human RCT(Kim 2026) 뒷받침되는 유일 영역. [확인] / 대안: NSAID 표준 진통 프로토콜(별도 [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]]) — trade-off: PDRN은 비용↑·근거 단일 RCT, NSAID는 저비용·강근거지만 위장·신장 부담.
+1. **발치(특히 매복 제3대구치) 술후 통증·치유 보조** → submucosal PDRN injection 고려 가능. human RCT(Kim 2026) 뒷받침되는 유일 영역. [확인] / 대안: NSAID 표준 진통 프로토콜(별도 [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]]) — trade-off: PDRN은 비용↑·근거 단일 RCT, NSAID는 저비용·강근거지만 위장·신장 부담.
 
 2. **골재생(GBR·sinus·dehiscence) graft adjunct** → graft에 PDRN soaking은 초기 신생골·apical zone에 marginal 이득 기대 가능하나 BIC/osseointegration 개선 근거 없음. 표준 graft를 대체하지 말 것. animal-only. [미검증] / 대안: 표준 graft+membrane 단독 — trade-off: PDRN 추가는 저위험이나 비용·근거 대비 이득 marginal.
 

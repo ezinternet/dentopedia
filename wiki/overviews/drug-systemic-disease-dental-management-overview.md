@@ -125,7 +125,7 @@ Clinical decision thresholds: HbA1c <7.0% proceed normally; 7.0–9.0% proceed w
 
 [미검증] **Shahi 2026 SR** (BMC Oral Health, article-in-press) — Al-Ansari 2022 SR-MA의 직접 후속으로 post-2022 DM 임플란트 근거를 갱신. 현재 unedited 버전이라 pooled estimate는 final PDF 확정 대기 — 본 overview의 주 수치는 Al-Ansari 2022 OR 1.78을 유지하고, 정식 출판 후 재감사(re-audit) 대상. [미검증] 정량 결론은 final 버전에서 변동 가능.
 
-[prospective/case-control] **Maftei 2021** (n=86: 45 healthy vs 41 T2DM, paired pre/post-extraction) — [[drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] showed that salivary RANKL was a near-perfect non-invasive predictor of HbA1c >6.5% (AUC 0.999, cut-off 15 pg/mL), and that three months after tooth extraction HbA1c fell significantly in the DM group (7.98% → 7.62%, p=0.05) alongside a drop in TNF-α, with post-extraction total oxidant status (TOS) positively correlating with HbA1c (r=+0.777) and total antioxidant capacity (TAC) negatively (r=−0.475). Single-center case-control; associations not causality — the HbA1c drop cannot be attributed to extraction alone.
+[prospective/case-control] **Maftei 2021** (n=86: 45 healthy vs 41 T2DM, paired pre/post-extraction) — [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] showed that salivary RANKL was a near-perfect non-invasive predictor of HbA1c >6.5% (AUC 0.999, cut-off 15 pg/mL), and that three months after tooth extraction HbA1c fell significantly in the DM group (7.98% → 7.62%, p=0.05) alongside a drop in TNF-α, with post-extraction total oxidant status (TOS) positively correlating with HbA1c (r=+0.777) and total antioxidant capacity (TAC) negatively (r=−0.475). Single-center case-control; associations not causality — the HbA1c drop cannot be attributed to extraction alone.
 
 → **임상 적용**:
 - HbA1c <7.0% — 정상에 준한 임플란트 가능
@@ -333,47 +333,47 @@ NRS (Numeric Rating Scale)를 outcome으로.
 
 ### 신규 추가 (2026-06)
 
-- [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Narrative review - the relationship between diabetes mellitus and periodontal/peri-implant disease is bidirectional and appears causal … (narrative-review, 2024)
+- [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Narrative review - the relationship between diabetes mellitus and periodontal/peri-implant disease is bidirectional and appears causal … (narrative-review, 2024)
 
 ### 일반 framework
-- [[drug/kim-2000-dental-patients-systemic-disease-general-hospital]] — 한국 일반병원 OMFS, 전신질환 동반 12.2%
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — UF dental school 148p 가이드
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — 보철 관점 9개 질환군
+- [[drug/anticoagulants/kim-2000-dental-patients-systemic-disease-general-hospital]] — 한국 일반병원 OMFS, 전신질환 동반 12.2%
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — UF dental school 148p 가이드
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — 보철 관점 9개 질환군
 
 ### Diabetes Mellitus
-- [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — DM 임플란트 실패 OR 1.78 SR-MA
-- [[drug/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 조절 DM = 정상 동등 SR
-- [[drug/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — DM implant outcome 최신 SR(2026 in-press), al-ansari 후속·정량 결과 재확인 보류
-- [[drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — T2DM 발치 전후 타액 8종 마커·HbA1c case-control; RANKL AUC 0.999, 발치 후 HbA1c·TNF-α 유의 감소
+- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — DM 임플란트 실패 OR 1.78 SR-MA
+- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 조절 DM = 정상 동등 SR
+- [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — DM implant outcome 최신 SR(2026 in-press), al-ansari 후속·정량 결과 재확인 보류
+- [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — T2DM 발치 전후 타액 8종 마커·HbA1c case-control; RANKL AUC 0.999, 발치 후 HbA1c·TNF-α 유의 감소
 
 ### HbA1c 해석
-- [[drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — HbA1c 간섭 3분류
-- [[drug/nathan-2008-translating-a1c-assay-estimated-average]] — eAG 환산식
-- [[drug/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — HbA1c 측정 5가지 review
+- [[drug/systemic-disease/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — HbA1c 간섭 3분류
+- [[drug/systemic-disease/nathan-2008-translating-a1c-assay-estimated-average]] — eAG 환산식
+- [[drug/systemic-disease/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — HbA1c 측정 5가지 review
 
 ### Sjögren 증후군
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — 2016 ACR-EULAR 기준
-- [[drug/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — 기준 변화점 해설
-- [[drug/legoff-2017-sjogren-classification-criteria-comparison]] — 2002 vs 2016 + SGUS
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — 2016 ACR-EULAR 기준
+- [[drug/systemic-disease/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — 기준 변화점 해설
+- [[drug/systemic-disease/legoff-2017-sjogren-classification-criteria-comparison]] — 2002 vs 2016 + SGUS
 
 ### 구강내과·BMS
-- [[drug/lee-2024-burning-mouth-syndrome-clinical-treatment]] — 서울대 BMS 단계적 protocol
+- [[oral-medicine/lee-2024-burning-mouth-syndrome-clinical-treatment]] — 서울대 BMS 단계적 protocol
 
 ### Corticosteroid
-- [[drug/satpathi-2024-corticosteroids-dentistry-review]] — 치과 corticosteroid narrative
+- [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — 치과 corticosteroid narrative
 
 ### DDI·고령자
-- [[drug/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 치과 환자 DDI 분석
-- [[drug/pyo-2026-drug-interactions-prescription-safety-elderly]] — 한국 고령자 DDI·polypharmacy
+- [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 치과 환자 DDI 분석
+- [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — 한국 고령자 DDI·polypharmacy
 
 ### Local Anesthetic·Vasoconstrictor·진정 (흡수)
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 1:200,000 vs 1:80,000 RCT
-- [[drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — 임신 시 vasoconstrictor SR
-- [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — 2022 한국 진정 가이드 15 PICO 해설 (consensus)
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — 한국 치과 국소마취 표준 가이드 부재 지적 proposal
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 1:200,000 vs 1:80,000 RCT
+- [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — 임신 시 vasoconstrictor SR
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — 2022 한국 진정 가이드 15 PICO 해설 (consensus)
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — 한국 치과 국소마취 표준 가이드 부재 지적 proposal
 
 ### 종양·이식
-- [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — allo-HSCT AML 구강 합병증
+- [[drug/systemic-disease/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — allo-HSCT AML 구강 합병증
 
 ### 인접 overview
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브

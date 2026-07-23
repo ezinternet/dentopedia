@@ -90,7 +90,7 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 | [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] | sr+nma (7 RCT 338 imp 291명) | 즉시식립 dynamic/full-static/partial-static vs freehand — 정확도 순위 |
 | [[digital-workflow/lu-2021-digital-stackable-osteotomy-template-precision]] | case-report (n=4) | Stackable digital template — 절골+식립 가이드 일체 |
 | [[digital-workflow/jamil-2020-surgeon-reliability-implant-high-risk-panoramic]] | prospective (148 imp) | 파노라마만으로 길이 선택 — 술자 신뢰도 측정 |
-| [[digital-workflow/cebrian-carretero-2014-free-flap-implant-guided-surgery]] | narrative-review | Free flap 재건 환자 — guided implant가 골/금속 회피에 유리 |
+| [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] | narrative-review | Free flap 재건 환자 — guided implant가 골/금속 회피에 유리 |
 
 **임상 ladder (CAIS 선택)**:
 1. **단순 single-tooth implant + 단순 anatomy** → Freehand 가능 (술자 숙련).

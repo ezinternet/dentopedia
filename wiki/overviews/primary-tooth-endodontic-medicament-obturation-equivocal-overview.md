@@ -198,5 +198,5 @@ The practical clinical flow: meet the patient → [[overviews/primary-molar-cari
 - [[endodontics/obturation/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — Axis 2 source: SR+MA of Vitapex/Metapex vs ZOE for primary pulpectomy (15 studies, 1,669 teeth)
 - [[endodontics/xiao-2026-pulpotomy-vs-pulpectomy-equivocal-primary-molars]] — Axis 3 source: propensity-matched cohort of pulpotomy vs pulpectomy for equivocal pulp status (312 molars, 156 pairs)
 - [[overviews/primary-molar-caries-pulp-restoration-decision-tree]] — companion overview covering upstream caries management, Hall technique, and reversible pulpitis pulpotomy decisions
-- [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA for confirmed irreversible pulpitis (2 studies, very low certainty; no difference); complements Axis 3 by providing the clearer-diagnosis comparator
-- [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD guideline defining the ≤5-min hemostasis criterion that Axis 3 stress-tests in the equivocal zone
+- [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA for confirmed irreversible pulpitis (2 studies, very low certainty; no difference); complements Axis 3 by providing the clearer-diagnosis comparator
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD guideline defining the ≤5-min hemostasis criterion that Axis 3 stress-tests in the equivocal zone

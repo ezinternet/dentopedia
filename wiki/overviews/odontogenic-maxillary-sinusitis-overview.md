@@ -194,7 +194,7 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 
 - 진단 인접: [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — 치근단병소 병인·진단 일반.
 - 예방·거상술 인접: [[overviews/sinus-lift-pseudocyst-mrc-overview]] — 상악동 병변 동반 거상술 결정 트리.
-- 항생제 스튜어드십: [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]], [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — "항생제보다 감염원 제거" 원리의 약물 측 근거.
+- 항생제 스튜어드십: [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]], [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — "항생제보다 감염원 제거" 원리의 약물 측 근거.
 
 ## Source Papers
 

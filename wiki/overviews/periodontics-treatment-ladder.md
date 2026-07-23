@@ -368,9 +368,9 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 
 다음 paper들은 drug/ 카테고리에 있으나 임상 적용은 치주염 보조치료. 본 ladder의 spine 근거는 아니며, 환자별 SRP 보조 옵션 참고용. 본문 갱신 시 axis 2 (비외과 SRP ± 보조) 확장 후보.
 
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 한국 다기관 RCT (BMC Oral Health 2019, n=100): Vitamin C/E + lysozyme + carbazochrome (IGATAN F) 8주 SRP 보조 — GI 유의 감소, PD·CAL·PI 무변화. [확인] 단일 RCT, SRP 1차에 보조 옵션.
-- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro: Magnoliae cortex + Zea mays 추출물이 P. gingivalis 유발 inflammatory cascade 조절. [in-vitro]
-- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 개 모델 in vivo: 동일 추출물 혼합제 항염 효과. [animal]
+- [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 한국 다기관 RCT (BMC Oral Health 2019, n=100): Vitamin C/E + lysozyme + carbazochrome (IGATAN F) 8주 SRP 보조 — GI 유의 감소, PD·CAL·PI 무변화. [확인] 단일 RCT, SRP 1차에 보조 옵션.
+- [[periodontics/host-modulation/kim-2018-magnoliae-cortex-zea-mays-modulate]] — In vitro: Magnoliae cortex + Zea mays 추출물이 P. gingivalis 유발 inflammatory cascade 조절. [in-vitro]
+- [[periodontics/host-modulation/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 개 모델 in vivo: 동일 추출물 혼합제 항염 효과. [animal]
 
 ### Related overviews
 

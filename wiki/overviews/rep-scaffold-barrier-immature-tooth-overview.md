@@ -48,7 +48,7 @@ Alqedairi 2026(내러티브 리뷰)과 Li 2026(SR+MA, 15편, RCT 4편, PROSPERO 
 
 ## Summary
 
-The existing REP overview ([[wiki/overviews/regenerative-endodontics-rep-overview]]) established that regenerative endodontic procedures (재생근관치료, REP) and MTA apical plug (무기삼산화물집합체 근단 폐쇄, MAP) achieve equivalent survival and success rates while REP is significantly superior for structural root development. Two new papers (2026) add two material-selection refinements that complete the decision framework:
+The existing REP overview ([[overviews/regenerative-endodontics-rep-overview]]) established that regenerative endodontic procedures (재생근관치료, REP) and MTA apical plug (무기삼산화물집합체 근단 폐쇄, MAP) achieve equivalent survival and success rates while REP is significantly superior for structural root development. Two new papers (2026) add two material-selection refinements that complete the decision framework:
 
 1. **Scaffold axis**: PRP (혈소판풍부혈장) and PRF (혈소판풍부 피브린) scaffolds outperform blood clot (혈병) for dentinal wall thickening, while periapical healing equivalence is maintained. The two scaffold types also differ in the dimension of root development they preferentially drive.
 
@@ -146,7 +146,7 @@ Combining both axes into a clinical decision table for necrotic immature permane
 
 ## Integration with Existing REP Overview
 
-The existing overview ([[wiki/overviews/regenerative-endodontics-rep-overview]]) established:
+The existing overview ([[overviews/regenerative-endodontics-rep-overview]]) established:
 
 1. REP ≈ MAP for survival (97.8% vs 97.1%) and success (91.3% vs 94.6%), LOW evidence (Torabinejad 2017 SR+MA)
 2. REP > MAP for root elongation and dentinal wall thickening (Panda 2022, Stefanidou 2024, two independent SR+MAs)
@@ -183,9 +183,9 @@ Intracanal medicament?
 
 ## Related Papers
 
-- [[wiki/overviews/regenerative-endodontics-rep-overview]] — parent synthesis: REP vs MAP survival/success equivalence, disinfection protocol, LPRF scaffold warning; this overview extends it with scaffold-type and barrier-material axes
-- [[wiki/endodontics/regenerative/alqedairi-2026-regenerative-endodontic-procedures-immature]] — narrative review (Cureus 2026): biological mechanisms, scaffold comparison, clinical protocol, 2-decade outcome synthesis
-- [[wiki/endodontics/regenerative/li-2026-white-mta-regenerative-apexification-immature]] — SR+MA (PROSPERO CRD420261337704; 15 studies, 4 RCTs): WMTA radiographic success 0.99, PC vs BC OR 3.56, WMTA discolouration 58.33% vs Biodentine 7.69% (P=.01)
-- [[wiki/endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — SR+MA: REP superior to apexification for root length and dentinal wall thickness with similar survival/success; foundational evidence for Axis 1 scaffold interpretation
-- [[wiki/endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — SR+MA: REP vs MTA apical plug survival/success equivalence; earlier WMTA evidence base
-- [[wiki/endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — companion SR+MA on revitalization vs apexification outcomes; adds scaffold-type granularity context
+- [[overviews/regenerative-endodontics-rep-overview]] — parent synthesis: REP vs MAP survival/success equivalence, disinfection protocol, LPRF scaffold warning; this overview extends it with scaffold-type and barrier-material axes
+- [[endodontics/regenerative/alqedairi-2026-regenerative-endodontic-procedures-immature]] — narrative review (Cureus 2026): biological mechanisms, scaffold comparison, clinical protocol, 2-decade outcome synthesis
+- [[endodontics/regenerative/li-2026-white-mta-regenerative-apexification-immature]] — SR+MA (PROSPERO CRD420261337704; 15 studies, 4 RCTs): WMTA radiographic success 0.99, PC vs BC OR 3.56, WMTA discolouration 58.33% vs Biodentine 7.69% (P=.01)
+- [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — SR+MA: REP superior to apexification for root length and dentinal wall thickness with similar survival/success; foundational evidence for Axis 1 scaffold interpretation
+- [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — SR+MA: REP vs MTA apical plug survival/success equivalence; earlier WMTA evidence base
+- [[endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — companion SR+MA on revitalization vs apexification outcomes; adds scaffold-type granularity context

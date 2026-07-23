@@ -62,7 +62,7 @@ The method's distinctive claim is a **dual mechanism**: it is not only a plaque-
 | [[periodontics/oral-hygiene-instruction/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] | RCT, n=73 | mental-disorder patients | TPM as one component of a video+brochure+TPM program → plaque index ↓ (P<0.0001); isolated effect not separable |
 | [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] | SR, 13 studies | adults | **No manual technique proven superior** (excess heterogeneity); TPM tested in only 1 study (Morita) where it beat Bass |
 | [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] | RCT, n=60 | T2DM periodontitis | SRP + weekly professional TPM vs SRP alone: **BOP −16.5% vs −7.3%**; only TPM arm cut **serum endotoxin** (−0.78 EU/mL, p=0.003) |
-| [[periodontics/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] | RCT, n=60 | peri-implant mucositis | All arms TPM-delivered; **saline-TPM (mechanical only) increased 5/12 bacteria** — needs an antimicrobial agent (CB extract / CHX) |
+| [[implants/peri-implantitis/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] | RCT, n=60 | peri-implant mucositis | All arms TPM-delivered; **saline-TPM (mechanical only) increased 5/12 bacteria** — needs an antimicrobial agent (CB extract / CHX) |
 | [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] | cross-sectional, n=69 | toothpick users | **Wooden toothpick** (NOT the brushing method): overuse → interdental papilla loss / black triangles |
 
 **What the evidence supports.**
@@ -97,5 +97,5 @@ The method's distinctive claim is a **dual mechanism**: it is not only a plaque-
 - [[periodontics/oral-hygiene-instruction/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] — special-needs application
 - [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — technique-comparison SR (no method superior)
 - [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis adjunct (bleeding, endotoxin)
-- [[periodontics/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] — peri-implant mucositis (agent vehicle)
+- [[implants/peri-implantitis/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] — peri-implant mucositis (agent vehicle)
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — wooden-toothpick harm (papilla loss) — naming counterpoint

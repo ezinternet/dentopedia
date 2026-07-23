@@ -95,7 +95,7 @@ Fontes Pereira 2023 SR을 spine으로 37편을 4개 임상 시나리오(상악�
 
 ## Summary
 
-이 overview는 [[wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr|Fontes Pereira et al. 2023 (JCM, SR, search 2016–2023)]]를 spine으로 OD의 전체 그림을 잡는다. 그 SR이 명시적으로 분류한 4개 적용 시나리오를 축으로, llm-wiki에 들어와 있는 OD 관련 페이지들을 spoke로 묶는다.
+이 overview는 [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr|Fontes Pereira et al. 2023 (JCM, SR, search 2016–2023)]]를 spine으로 OD의 전체 그림을 잡는다. 그 SR이 명시적으로 분류한 4개 적용 시나리오를 축으로, llm-wiki에 들어와 있는 OD 관련 페이지들을 spoke로 묶는다.
 
 핵심 질문 5개:
 
@@ -109,9 +109,9 @@ Fontes Pereira 2023 SR을 spine으로 37편을 4개 임상 시나리오(상악�
 
 ## 1. 메커니즘 — CCW + 점탄성 + 자가골 압축
 
-[[wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability|Huwais & Meyer 2017 (in vitro, 돼지경골 n=72)]]가 OD를 정의한 원위논문이다. 핵심 4가지:
+[[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability|Huwais & Meyer 2017 (in vitro, 돼지경골 n=72)]]가 OD를 정의한 원위논문이다. 핵심 4가지:
 
-- **회전 방향**: Densahbur는 다날 (multi-flute) bur로 시계방향 (Clockwise, CW)에서는 cutting, 반시계방향 (CCW)에서는 burnishing/compacting [확인, Huwais 2016]. **단 CCW가 OD의 절대조건은 아닐 수 있다** — [[wiki/implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric|Rittipakorn et al. 2025 (사람 경골 사체, D3/D4, n=20/group)]] [in-vitro]은 densifying bur를 *절삭방향인 CW·더 낮은 800 rpm*으로 돌리는 단순화 프로토콜(**CW-OD**)을 처음 검증했다. 가설: bur의 음의 rake angle과 비예리 flute가 CW에서도 측방 압축을 만든다. 결과는 SD 대비 ISQ(67.5 vs 62.9, p=0.077)·IT(34.0 vs 29.5 Ncm, p=0.052) 모두 수치상 높으나 NS였고, 대신 OD가 **IQR이 더 좁고 저토크 outlier가 없어 일관**됐으며 IT–ISQ 상관이 OD에서만 유의(ρ=0.577, p=0.0077). 즉 표준 CCW가 reverse-cutting flute로 실제 골을 깎아 술기민감도가 높다는 한계의 대안으로 CW-OD가 제시되나, 작은 표본·사체·정성영상·CCW arm 부재로 in-vivo 검증 필요 [미검증: CCW 컨벤션을 흔드는 첫 직접 데이터].
+- **회전 방향**: Densahbur는 다날 (multi-flute) bur로 시계방향 (Clockwise, CW)에서는 cutting, 반시계방향 (CCW)에서는 burnishing/compacting [확인, Huwais 2016]. **단 CCW가 OD의 절대조건은 아닐 수 있다** — [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric|Rittipakorn et al. 2025 (사람 경골 사체, D3/D4, n=20/group)]] [in-vitro]은 densifying bur를 *절삭방향인 CW·더 낮은 800 rpm*으로 돌리는 단순화 프로토콜(**CW-OD**)을 처음 검증했다. 가설: bur의 음의 rake angle과 비예리 flute가 CW에서도 측방 압축을 만든다. 결과는 SD 대비 ISQ(67.5 vs 62.9, p=0.077)·IT(34.0 vs 29.5 Ncm, p=0.052) 모두 수치상 높으나 NS였고, 대신 OD가 **IQR이 더 좁고 저토크 outlier가 없어 일관**됐으며 IT–ISQ 상관이 OD에서만 유의(ρ=0.577, p=0.0077). 즉 표준 CCW가 reverse-cutting flute로 실제 골을 깎아 술기민감도가 높다는 한계의 대안으로 CW-OD가 제시되나, 작은 표본·사체·정성영상·CCW arm 부재로 in-vivo 검증 필요 [미검증: CCW 컨벤션을 흔드는 첫 직접 데이터].
 - **속도**: 800–1500 rpm, 무관수 또는 소량 관수 [확인, Fontes Pereira 2023].
 - **bone behavior**: 골의 점탄성 (viscoelasticity) → spring-back으로 osteotomy 직경이 bur보다 작게 회복되어 임플란트와 bone wall이 강하게 접촉 [확인].
 - **autograft 효과**: 절삭 대신 횡방향 압축 → 자가골이 walls/apex에 미세이식되어 BIC ↑ [확인, in vitro × 3], [확인, in vivo].
@@ -126,13 +126,13 @@ Fontes Pereira 2023 SR을 spine으로 37편을 4개 임상 시나리오(상악�
 
 **읽는 법을 반드시 제한한다** (이 문단이 "OD는 해롭다"로 오독되면 이 위키는 후퇴한다): ① 쥐 상악 ≠ 사람 턱, ② 발치와 ≠ 치유된 치조제, ③ **미스핏(언더사이즈 골삭제) ≠ 버 매개 OD** — 저자들이 densification을 misfit의 *결과*로 취급한다는 점에서만 기계론적으로 연결된다. 이 논문의 주장은 **과잉**에 관한 것이지 OD 일반에 관한 것이 아니다. 결정적으로 **초록에 표본수·토크값·미스핏 크기·BIC·p값이 일절 없어 어떤 수치도 인용할 수 없다** — 즉 이 논문은 천장이 **있다**고 말할 뿐 **어디인지 말하지 않는다** [미검증: 크기 미상]. 그럼에도 방향이 독립적으로 재현된다: §3-2의 Rizk 2024 RCT가 좁은 치조정 **과잉 밀도화로 임플란트 실패 3건**(혈류 감소·발열)을 보고했다. 토크 축에서의 상세 — 특히 Coyac이 Trisi 2011의 "골압박괴사 없음"을 어떻게 부위·크기 한정으로 되돌리는지 — 는 [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]].
 
-**발열·버 재사용 안전** [[wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw|Soldatos et al. 2024 (cadaver tibiae, 360 osteotomy)]] [확인]: CCW(densification) 모드에서 **3.0/4.0 버를 23회 이상 재사용 + 800/1200 RPM 조합 시 ΔT가 골괴사 임계 47°C 초과**. **1000 RPM이 두 모드 모두 최저 발열**. → 임상 규칙: ① 버는 ~23회에서 교체, ② 저밀도골이라도 RPM을 무작정 높이지 말 것(1000 rpm 부근 권장), ③ 관수 보조. 무관수 고RPM + 마모 버 조합이 가장 위험.
+**발열·버 재사용 안전** [[implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw|Soldatos et al. 2024 (cadaver tibiae, 360 osteotomy)]] [확인]: CCW(densification) 모드에서 **3.0/4.0 버를 23회 이상 재사용 + 800/1200 RPM 조합 시 ΔT가 골괴사 임계 47°C 초과**. **1000 RPM이 두 모드 모두 최저 발열**. → 임상 규칙: ① 버는 ~23회에서 교체, ② 저밀도골이라도 RPM을 무작정 높이지 말 것(1000 rpm 부근 권장), ③ 관수 보조. 무관수 고RPM + 마모 버 조합이 가장 위험.
 
 ---
 
 ## 2. Outcome Matrix — Fontes Pereira 2023 spine
 
-[[wiki/implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr|SR (JCM 2023, search 2016–2023)]] 결론을 기준점으로:
+[[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr|SR (JCM 2023, search 2016–2023)]] 결론을 기준점으로:
 
 | Outcome | OD vs Conventional | Consistency | Confidence | 비고 |
 |---------|--------------------|-------------|------------|------|
@@ -177,20 +177,20 @@ graph LR
 **원리**: Densahbur로 sinus floor까지 CCW로 진행 → 골을 floor 쪽으로 압축하며 hydraulic + 자가골 이식 효과로 막 거상.
 
 **최강 근거**:
-- [[wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis|Starch-Jensen et al. 2025 SR+MA (6 RCTs, low GRADE)]] [확인, 그러나 GRADE low] — TSMEOD가 osteotome·측방창 대비 식립시·지대주 연결시 ISQ 유의하게 높음. 생존율 동등.
-- [[wiki/sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] [확인, RCT] — RCT, OD가 osteotome 대비 ISQ ↑.
-- [[wiki/sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification|Mazor et al. 2024 multicenter cross-sectional (6센터·670 sites)]] [확인] — OD 기반 TSFE **슈나이더막 천공률 7.31%** (기존 7–58% 하단). **RBH ≤3 mm가 천공 독립 위험인자**; 부위·socket 상태(healed/fresh)는 무관.
-- [[wiki/sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation|Samir 2024 RCT (OD vs 피에조)]] [확인, RCT] — OD가 골량·골밀도·수술시간·만족도 우위, 피에조는 당일 1차 안정성 우위 — 둘 다 유효, 강점이 다름.
+- [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis|Starch-Jensen et al. 2025 SR+MA (6 RCTs, low GRADE)]] [확인, 그러나 GRADE low] — TSMEOD가 osteotome·측방창 대비 식립시·지대주 연결시 ISQ 유의하게 높음. 생존율 동등.
+- [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] [확인, RCT] — RCT, OD가 osteotome 대비 ISQ ↑.
+- [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification|Mazor et al. 2024 multicenter cross-sectional (6센터·670 sites)]] [확인] — OD 기반 TSFE **슈나이더막 천공률 7.31%** (기존 7–58% 하단). **RBH ≤3 mm가 천공 독립 위험인자**; 부위·socket 상태(healed/fresh)는 무관.
+- [[sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation|Samir 2024 RCT (OD vs 피에조)]] [확인, RCT] — OD가 골량·골밀도·수술시간·만족도 우위, 피에조는 당일 1차 안정성 우위 — 둘 다 유효, 강점이 다름.
 
 **대안 OD 버 시스템 — HaeNaem CW-OD (시계방향 회전)** ⚠️ **(아래 Changrani 2024는 이후 RETRACTED/철회됨 — 임상근거로 인용 금지)**:
-[[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani et al. 2024 (Cureus, 전향적 단일군, n=12) — RETRACTED]]은 경치조골 간접 상악동 거상에 시계방향 (Clockwise, CW) 회전 OD 버인 HaeNaem Zero Bone Loss Kit을 적용한 (현존) 유일한 전향적 임상 데이터였다. RCBH 6–8 mm, 무이식, 동시식립 조건에서 4개월 CBCT 4방향(근심·원심·협측·구개측) 모두 유의한 골고 증가(p<0.01)로 보고됐으나, **이 논문은 이후 철회(retracted)되었으므로 위 수치를 근거로 사용해서는 안 된다.** 제조사 주장("Densah 대비 risk-to-benefit 우위")은 내부 비교 데이터 없는 assertion이며, 단일군(대조군 없음)이라 Densah와의 head-to-head 비교도 아니었다. 따라서 HaeNaem CW-OD에 대한 유효한 전향적 임상근거는 **현재 부재**하다. [철회됨 — 근거 무효]
+[[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani et al. 2024 (Cureus, 전향적 단일군, n=12) — RETRACTED]]은 경치조골 간접 상악동 거상에 시계방향 (Clockwise, CW) 회전 OD 버인 HaeNaem Zero Bone Loss Kit을 적용한 (현존) 유일한 전향적 임상 데이터였다. RCBH 6–8 mm, 무이식, 동시식립 조건에서 4개월 CBCT 4방향(근심·원심·협측·구개측) 모두 유의한 골고 증가(p<0.01)로 보고됐으나, **이 논문은 이후 철회(retracted)되었으므로 위 수치를 근거로 사용해서는 안 된다.** 제조사 주장("Densah 대비 risk-to-benefit 우위")은 내부 비교 데이터 없는 assertion이며, 단일군(대조군 없음)이라 Densah와의 head-to-head 비교도 아니었다. 따라서 HaeNaem CW-OD에 대한 유효한 전향적 임상근거는 **현재 부재**하다. [철회됨 — 근거 무효]
 
 **주의**:
 - ESBG (Endo-Sinus Bone Gain)는 측방창 대비 OD에서 적음. 수직 골증대가 1차 목표면 측방창 우선 [확인, Starch-Jensen 2025].
 - **RBH ≤3 mm에서는 OD-TSFE 천공 위험 ↑** (Mazor 2024) → 이 영역은 측방창 고려.
-- **CBCT가 RBH를 ~1.86 mm 과소평가** ([[wiki/sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus|Ragher 2026]], n=50) → borderline RBH 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
+- **CBCT가 RBH를 ~1.86 mm 과소평가** ([[sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus|Ragher 2026]], n=50) → borderline RBH 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
 
-**진입점**: [[wiki/overviews/sinus-lift-technique-selection|sinus-lift-technique-selection overview]].
+**진입점**: [[overviews/sinus-lift-technique-selection|sinus-lift-technique-selection overview]].
 
 ### 3-2. 좁은 치조골릉 (narrow alveolar ridge)
 
@@ -230,22 +230,22 @@ graph LR
 **원리**: trabecular bone 압축으로 walls에 미세 cortical layer 형성 → IT·ISQ 즉시 상승.
 
 **최강 근거 (지지)**:
-- [[wiki/implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr|Althobaiti et al. 2023 SR (ISQ-focused)]] [확인] — D3/D4에서 OD ISQ ↑ 효과 가장 큼.
-- [[wiki/implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct|Konuklu et al. 2026 RCT (5 protocols)]] [확인, RCT] — 5개 osteotomy protocol 직접 비교.
-- [[wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary|Bergamo et al. 2021 multicenter CCT (56명·150 임플란트)]] [확인] — OD가 IT·ISQ 모두 유의 우위, ISQ 3주 dip 후 6주 회복하나 OD는 전 기간 ISQ≥68 유지. **단 short 임플란트는 예외(차이 없음)** — 이 예외는 직경 조절변수로 정밀화된다(아래 Koutouzis 2025).
-- [[wiki/implants/versah-protocols/koutouzis-2025-osteotomy-preparation-short-implants-stability|Koutouzis et al. 2025 (돼지경골, 6mm short 임플란트 90개, 3직경×3술식)]] [animal] — **OD의 IT 이득이 직경 의존적**: 광폭(5.4mm)에서만 OD가 SD 대비 유의↑(50.0 vs 28.0 Ncm, p=0.005), 세폭(4.2mm)·표준폭(4.8mm)은 NS. OD 내에서도 W-OD(50.0) > N-OD(31.5, p=0.04)로 직경 효과가 가산적. 단 osteotome도 광폭에서 OD와 동등하게 IT를 올려(46.9 Ncm, p=0.026) **OD가 압축술식 중 유일하게 우월한 것은 아님**. 조직계측(골수강·결합조직 접촉)은 NS. → **임상: short 임플란트에 OD를 쓸 때는 직경 ≥5.4mm를 함께 선택해야 IT 이득 실현** (Bergamo의 short 예외를 "직경이 좁아서"로 설명).
-- [[wiki/implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv|Moghaddas & Banazadeh 2025 전향 임상 (21명·39 임플란트, 상악 구치부)]] [prospective] — 인체 임상에서 OD가 IT를 ~37%↑(50.3 vs 36.1 Ncm, p<0.001)했으나 **ISQ는 식립·3개월 모두 NS, 양 군 ISQ 68↑ 유지** — IT↑/ISQ NS 해리를 cadaver/animal이 아닌 실제 환자에서 재현. 단 ridge ≥9mm·≥6mm cohort라 SD도 이미 충분한 안정성 달성.
-- [[wiki/implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers|Mercier et al. 2022 (사람 하악 사체 21개·58 osteotomy)]] [in-vitro] — OD가 SD 대비 IT 유의↑(34.9 vs 23.6 Ncm, +48%, p=0.036)·CBCT 골밀도↑(p=0.026), IT–ISQ 상관 OD에서만(ρ=0.527). Rittipakorn 2025 CW-OD의 IT(34.0 Ncm)와 거의 일치 — 골원·OD 변형 무관하게 OD IT 일관됨.
-- [[wiki/implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit|Arpudaswamy 2025 (토끼 D4 split-body RCT)]] [animal] — 식립 시점 ISQ는 차이 없으나 **3개월 ISQ·IT 유의 ↑ → 이득은 2차 안정성**.
-- [[wiki/implants/neiva-2018-effects-osseodensification-astra-tx-ev|Neiva 2018 (sheep e-poster)]] [animal] — IT/RFA OD 압도적 우위, EV 시스템에서 BIC/BAFO도 ↑.
-- [[wiki/implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification|Barberá-Millán et al. 2021 (in vitro, 돼지경골 Type IV, n=55/group)]] [확인, in-vitro] — **대조군이 plain drilling이 아닌 conventional under-drilling(UD)**이라는 점에서 가장 엄격한 D4 비교: OD가 UD 대비 IT 21.72 vs 8.87 Ncm (≈2.4배, p=0.000)·ISQ 69.75 vs 65.16 (p=0.001) 모두 유의 우위. torque–ISQ는 sigmoid 관계로 ISQ가 ~75.6에서 plateau (그 이상의 torque는 추가 안정성 없음). 즉 **이미 under-sizing한 soft-bone 프로토콜조차 OD가 능가** — D4에서 OD의 1차 안정성 이득을 보강.
-- [[wiki/implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant|Tao et al. 2025 (in vitro CNC, Type IV foam 0.160 g/cm³)]] [확인, in-vitro] — **드릴링 파라미터 최적화** 관점을 추가: OD vs CD(BLT tapered)에서 IT 11.73 vs 7.77 N·m·RT 9.28 vs 6.65 N·m (모두 p<0.001)로 torque 우위·골벽 결함 적음·발열 낮음이나 **ISQ는 동등(47.1 vs 46.7, p=0.86)** — torque↑/ISQ NS divergence를 CNC 통제 환경에서 깔끔하게 재현. 권장 OD 셋팅 **1500 rpm·0.04 mm·z⁻¹·관수 동반**(Type IV).
+- [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr|Althobaiti et al. 2023 SR (ISQ-focused)]] [확인] — D3/D4에서 OD ISQ ↑ 효과 가장 큼.
+- [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct|Konuklu et al. 2026 RCT (5 protocols)]] [확인, RCT] — 5개 osteotomy protocol 직접 비교.
+- [[implants/bergamo-2021-osseodensification-effect-implants-primary-secondary|Bergamo et al. 2021 multicenter CCT (56명·150 임플란트)]] [확인] — OD가 IT·ISQ 모두 유의 우위, ISQ 3주 dip 후 6주 회복하나 OD는 전 기간 ISQ≥68 유지. **단 short 임플란트는 예외(차이 없음)** — 이 예외는 직경 조절변수로 정밀화된다(아래 Koutouzis 2025).
+- [[implants/versah-protocols/koutouzis-2025-osteotomy-preparation-short-implants-stability|Koutouzis et al. 2025 (돼지경골, 6mm short 임플란트 90개, 3직경×3술식)]] [animal] — **OD의 IT 이득이 직경 의존적**: 광폭(5.4mm)에서만 OD가 SD 대비 유의↑(50.0 vs 28.0 Ncm, p=0.005), 세폭(4.2mm)·표준폭(4.8mm)은 NS. OD 내에서도 W-OD(50.0) > N-OD(31.5, p=0.04)로 직경 효과가 가산적. 단 osteotome도 광폭에서 OD와 동등하게 IT를 올려(46.9 Ncm, p=0.026) **OD가 압축술식 중 유일하게 우월한 것은 아님**. 조직계측(골수강·결합조직 접촉)은 NS. → **임상: short 임플란트에 OD를 쓸 때는 직경 ≥5.4mm를 함께 선택해야 IT 이득 실현** (Bergamo의 short 예외를 "직경이 좁아서"로 설명).
+- [[implants/versah-protocols/moghaddas-2025-osseodensification-standard-drilling-isq-itv|Moghaddas & Banazadeh 2025 전향 임상 (21명·39 임플란트, 상악 구치부)]] [prospective] — 인체 임상에서 OD가 IT를 ~37%↑(50.3 vs 36.1 Ncm, p<0.001)했으나 **ISQ는 식립·3개월 모두 NS, 양 군 ISQ 68↑ 유지** — IT↑/ISQ NS 해리를 cadaver/animal이 아닌 실제 환자에서 재현. 단 ridge ≥9mm·≥6mm cohort라 SD도 이미 충분한 안정성 달성.
+- [[implants/versah-protocols/mercier-2022-osseodensification-primary-stability-cadavers|Mercier et al. 2022 (사람 하악 사체 21개·58 osteotomy)]] [in-vitro] — OD가 SD 대비 IT 유의↑(34.9 vs 23.6 Ncm, +48%, p=0.036)·CBCT 골밀도↑(p=0.026), IT–ISQ 상관 OD에서만(ρ=0.527). Rittipakorn 2025 CW-OD의 IT(34.0 Ncm)와 거의 일치 — 골원·OD 변형 무관하게 OD IT 일관됨.
+- [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit|Arpudaswamy 2025 (토끼 D4 split-body RCT)]] [animal] — 식립 시점 ISQ는 차이 없으나 **3개월 ISQ·IT 유의 ↑ → 이득은 2차 안정성**.
+- [[implants/neiva-2018-effects-osseodensification-astra-tx-ev|Neiva 2018 (sheep e-poster)]] [animal] — IT/RFA OD 압도적 우위, EV 시스템에서 BIC/BAFO도 ↑.
+- [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification|Barberá-Millán et al. 2021 (in vitro, 돼지경골 Type IV, n=55/group)]] [확인, in-vitro] — **대조군이 plain drilling이 아닌 conventional under-drilling(UD)**이라는 점에서 가장 엄격한 D4 비교: OD가 UD 대비 IT 21.72 vs 8.87 Ncm (≈2.4배, p=0.000)·ISQ 69.75 vs 65.16 (p=0.001) 모두 유의 우위. torque–ISQ는 sigmoid 관계로 ISQ가 ~75.6에서 plateau (그 이상의 torque는 추가 안정성 없음). 즉 **이미 under-sizing한 soft-bone 프로토콜조차 OD가 능가** — D4에서 OD의 1차 안정성 이득을 보강.
+- [[implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant|Tao et al. 2025 (in vitro CNC, Type IV foam 0.160 g/cm³)]] [확인, in-vitro] — **드릴링 파라미터 최적화** 관점을 추가: OD vs CD(BLT tapered)에서 IT 11.73 vs 7.77 N·m·RT 9.28 vs 6.65 N·m (모두 p<0.001)로 torque 우위·골벽 결함 적음·발열 낮음이나 **ISQ는 동등(47.1 vs 46.7, p=0.86)** — torque↑/ISQ NS divergence를 CNC 통제 환경에서 깔끔하게 재현. 권장 OD 셋팅 **1500 rpm·0.04 mm·z⁻¹·관수 동반**(Type IV).
 - [[wiki/overviews/d4-bone-densah-protocol|d4-bone-densah-protocol]] — **D4 전용 chairside 인터랙티브**.
 
 **반례 (논쟁) — living-document 갱신 핵심**:
-- [[wiki/implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma|Mohammadi et al. 2025 SR+MA (7편)]] [확인, 반례] — 저밀도골 OD vs CD에서 **1차 ISQ MD=4.13 (p=0.13)·2차 MD=1.78 (p=0.11) 모두 NS**, MBL·PI도 NS. 12개월 PD·구개측 CBL만 OD 유리. 결론: "장기 우월성 입증 부족".
-- [[wiki/implants/shilpi-2025-osseodensification-conventional-low-bone-sr-ma|Shilpi et al. 2025 SR+MA (인체 RCT/NRCT 6편)]] [확인, 반례·보강] — Mohammadi와 **독립된 팀·같은 해·인체전용 제한**으로 같은 결론 재확인: ISQ 즉시 SMD=2.13 (95% CI −0.08–4.35, p=0.06)·추적 SMD=1.81 (p=0.11) 둘 다 NS. **단 식립 직후 peri-implant 골밀도는 SMD=2.14 (p=0.004) 유의↑** (압축효과 확인)이나 3–7개월엔 NS (remodeling으로 정상화). ISQ 즉시 p=0.06이 간발의 차로 NS·CI 하한이 0을 살짝 넘음 → "표본부족으로 검정력 미달한 양의 trend" 해석을 보강. **2025년 두 번째 인체 SR+MA로 "ISQ는 trend, 이득은 초기 골밀도에 국한" 패턴 강화**.
-- [[wiki/implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw|Al-Ahmari 2022 split-mouth (20명·40 임플란트)]] [확인, 반례] — **골밀도만 OD↑, 1차·2차 안정성·PI·BOP·PD·MBL은 NS**.
+- [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma|Mohammadi et al. 2025 SR+MA (7편)]] [확인, 반례] — 저밀도골 OD vs CD에서 **1차 ISQ MD=4.13 (p=0.13)·2차 MD=1.78 (p=0.11) 모두 NS**, MBL·PI도 NS. 12개월 PD·구개측 CBL만 OD 유리. 결론: "장기 우월성 입증 부족".
+- [[implants/shilpi-2025-osseodensification-conventional-low-bone-sr-ma|Shilpi et al. 2025 SR+MA (인체 RCT/NRCT 6편)]] [확인, 반례·보강] — Mohammadi와 **독립된 팀·같은 해·인체전용 제한**으로 같은 결론 재확인: ISQ 즉시 SMD=2.13 (95% CI −0.08–4.35, p=0.06)·추적 SMD=1.81 (p=0.11) 둘 다 NS. **단 식립 직후 peri-implant 골밀도는 SMD=2.14 (p=0.004) 유의↑** (압축효과 확인)이나 3–7개월엔 NS (remodeling으로 정상화). ISQ 즉시 p=0.06이 간발의 차로 NS·CI 하한이 0을 살짝 넘음 → "표본부족으로 검정력 미달한 양의 trend" 해석을 보강. **2025년 두 번째 인체 SR+MA로 "ISQ는 trend, 이득은 초기 골밀도에 국한" 패턴 강화**.
+- [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw|Al-Ahmari 2022 split-mouth (20명·40 임플란트)]] [확인, 반례] — **골밀도만 OD↑, 1차·2차 안정성·PI·BOP·PD·MBL은 NS**.
 - [[implants/versah-protocols/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems|de Agostinho Neto et al. 2026 (Sci Rep, 신선 저밀도 소 늑골 in vitro, 3군)]] [확인, 반례·null] — 기존 드릴링(SIN) vs OD(VERSAH) vs 골확장기(MAXIMUS) 비교에서 **아무것도 유의하지 않았다**: 시스템 간 미세구조 차이 없음, 식립 토크도 NS (SIN 35±21.5 · VERSAH 43.2±27.1 · MAXIMUS 59.6±28.5 Ncm). 두 가지가 특기할 만하다. ① **경부·체부·근단부를 나눠 micro-CT로 본 첫 보유 논문이며, 부위 간 차이가 없었다** — 이는 [[implants/kim-2019-double-spiral-condensing-screw-implant|HaeNaem 특허]]의 공학적 전제("기존 OD 버는 측벽은 강하게·골삭제 바닥은 약하게 밀도화한다, d2 ≪ d1")를 **처음으로 계측에 부친 결과이며 그 전제를 지지하지 않는다.** 단 아래 검정력 문제로 *반증*이라고까지 말할 수 없다 — 특허 전제는 여전히 **미검증인 채로 남는다** [미검증]. ② 저자들은 극도로 다공성인 골에서 밀도화가 **"유용성의 한계점 (threshold of utility)"**에 도달 — 압축할 해면골 자체가 부족 — 해 드릴 선택보다 해면골 생물학이 1차 안정성을 지배한다고 읽는다. **단 이 null은 조심해서 읽어야 한다**: 군당 n=5–8에 표준편차 21–28 Ncm가 평균 격차 24.6 Ncm를 덮는다 — **검정력 부족이 유력하며 "차이가 없다"가 아니라 "차이를 못 찾았다"**이다 [확인, 페이지가 스스로 명시]. 게다가 대조군(SIN)조차 3.5 mm 임플란트에 최종 3.0 mm 골삭제로 **이미 언더사이즈**였다.
 
 **임상 종합**: Fontes Pereira 2023은 D3–D4를 "greatest OD benefit" 시나리오로 명시했으나, **2025년 두 인체 SR+MA(mohammadi 7편·shilpi 6편)가 나란히 ISQ 이득을 재현하지 못함** (shilpi는 식립 직후 골밀도만 유의↑·3–7개월엔 소실). 현재 합의: IT(1차 기계적 고정)는 일관되게 ↑, 그러나 **RFA로 측정되는 ISQ 이득은 인체에서 불확실**하고 이득이 있다면 2차 안정성(동물 RCT)에 가까움. 이 IT↑/ISQ NS 해리는 이제 cadaver(mercier·rittipakorn)·bench(tao)·동물(arpudaswamy)에 더해 **인체 임상시험(moghaddas 2025)에서도 직접 관찰**돼 측정 노이즈가 아닌 구조적 현상으로 굳어졌다. 추가로 short 임플란트에서는 IT 이득조차 **직경 의존적**(koutouzis 2025: 광폭 5.4mm에서만)이라 OD 적용 시 직경 선택이 변수다. 환자 설명 시 "삽입 토크는 확실히 개선, 안정성 수치(ISQ) 이득은 근거 혼재"로 분리 권장.

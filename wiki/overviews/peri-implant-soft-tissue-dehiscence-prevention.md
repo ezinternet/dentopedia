@@ -242,8 +242,8 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 | Type II socket, space maintenance 중요 (gap 크거나 fenestration) | Open-flap GBR + collagen/d-PTFE membrane (더 긴 space 유지) |
 
 ## Related Pages
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]]
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]]
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
 - [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]]

@@ -114,12 +114,12 @@ JKDA 61권 4호(2023) 짝 논문 2편 기반 스캐폴드 overview: 한국 2022�
 ## Related Papers
 
 ### 한국 가이드라인 현황 (본 overview 1차 근거)
-- [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — 2022 한국 진정 가이드라인 15-PICO 해설
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — 한국 LA 가이드라인 제정 필요성 제안
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — 2022 한국 진정 가이드라인 15-PICO 해설
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — 한국 LA 가이드라인 제정 필요성 제안
 
 ### 정량 근거 (systemic overview에 수록)
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 1:200,000 vs 1:80,000 RCT
-- [[drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — 임신 vasoconstrictor SR
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 1:200,000 vs 1:80,000 RCT
+- [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — 임신 vasoconstrictor SR
 
 ### 인접 overview
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브

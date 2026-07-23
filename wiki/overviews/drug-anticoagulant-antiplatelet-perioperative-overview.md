@@ -349,7 +349,7 @@ TXA 제형(양치액·분말·병용·거즈), 제제 간 head-to-head 비교, �
 **이 두 편을 읽는 법:**
 
 - **권고가 아니라 진단이다.** 설문은 무엇이 효과적인지 말해주지 않는다. "X%가 이렇게 한다"는 진료 편차의 기술일 뿐, 그 행동이 옳다는 근거가 아니다.
-- **관찰된 편차의 방향은 과잉경계 쪽이다.** 이 오버뷰가 보유한 SR·SR+MA는 대부분의 발치에서 루틴 INR 검사나 일률적 처방의 자문을 요구하지 않는다([[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]], [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]]). §1의 Katz 2025 위양성 92건과 같은 방향을 가리킨다.
+- **관찰된 편차의 방향은 과잉경계 쪽이다.** 이 오버뷰가 보유한 SR·SR+MA는 대부분의 발치에서 루틴 INR 검사나 일률적 처방의 자문을 요구하지 않는다([[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]], [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]]). §1의 Katz 2025 위양성 92건과 같은 방향을 가리킨다.
 - **DOAC이 취약 지점이다.** 검사 시행률(27.1% → 8.7%)과 "어떤 검사인지 모르겠다"는 응답이 겹치는 곳이 곧 교육이 필요한 지점인데, 실은 **DOAC에서 루틴 검사가 불필요한 것이 정답**이다(§2-2: INR은 DOAC의 신뢰할 수 없는 지표). 즉 이 불확실성은 지식 공백이지 진짜 임상 딜레마가 아니다.
 - **환자 교육이 지렛대다.** 환자가 자의로 약을 끊는 것(Radia의 3명)은 이 오버뷰가 막으려는 바로 그 위해다. 술자만 교육해서는 닿지 않는 층이 있다.
 - **일반화 한계**: 미국 PBRN 표본과 영국 단일 병원 n=26 — 한국 진료 환경으로의 외삽은 제한적이며, 자가보고이지 관찰된 행동이 아니다.
@@ -400,33 +400,33 @@ TXA 제형(양치액·분말·병용·거즈), 제제 간 head-to-head 비교, �
 - [[drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] — 한국 후향 코호트 (n=293): DOAC 유지 vs 중단 출혈 NS (4.9% vs 0%), INR 비신뢰. (retrospective, 2024) — Korean real-world support for §1·§2-2.
 - [[drug/anticoagulants/yari-2023-bleeding-after-dental-extraction]] — 전향 (n=100, PCI ≤1년): 단일 vs 이중 항혈소판 비중단 발치 출혈 NS, 전부 국소 조절. (prospective, 2023) — high-risk recent-PCI evidence for §2-3.
 - [[drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant]] — 전향 split-mouth (40명): 항응고 환자 발치와에서 Surgicel(oxidized cellulose) > Gelfoam(gelatin sponge). (prospective, 2025) — dressing-choice evidence for §3.
-- [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thrombo … (narrative-review, 2024)
+- [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thrombo … (narrative-review, 2024)
 
 ### SR·가이드라인 (1차 근거)
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: VKA·DOAC·항혈소판 중단 불필요; TXA 1차 지혈
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR 7편: 지속 vs 중단 vs 브리징 출혈 차이 없음
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — SR-MA: 항혈소판 perioperative 중단 vs 지속 비교
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Warfarin + 항혈소판 동시 복용 환자 발치 관리
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — Warfarin INR 기준·DOAC 관리 기관 프로토콜
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: VKA·DOAC·항혈소판 중단 불필요; TXA 1차 지혈
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR 7편: 지속 vs 중단 vs 브리징 출혈 차이 없음
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — SR-MA: 항혈소판 perioperative 중단 vs 지속 비교
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — Warfarin + 항혈소판 동시 복용 환자 발치 관리
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — Warfarin INR 기준·DOAC 관리 기관 프로토콜
 
 ### 항혈소판 비중단 임상 근거
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — 단일·DAPT 비중단 발치 출혈시간 평가
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — DAPT 환자 발치 시 chitosan vs cellulose 국소 지혈 RCT
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — 단일·DAPT 비중단 발치 출혈시간 평가
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — DAPT 환자 발치 시 chitosan vs cellulose 국소 지혈 RCT
 
 ### Aspirin·CVD 맥락
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF Aspirin 1차 예방 권고
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — CVD 환자 치과 관리 종합
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF Aspirin 1차 예방 권고
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — CVD 환자 치과 관리 종합
 
 ### NSAID ↔ Aspirin 상호작용
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — NEJM 최초 보고: Ibuprofen이 Aspirin 항혈소판 효과 차단
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — Celecoxib는 무영향, Ibuprofen 차단 확인
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — Pyrazolinone계 진통제와 Aspirin 상호작용 약역학
-- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — NSAIDs 종류별 Aspirin 효과 영향 비교
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — NEJM 최초 보고: Ibuprofen이 Aspirin 항혈소판 효과 차단
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — Celecoxib는 무영향, Ibuprofen 차단 확인
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — Pyrazolinone계 진통제와 Aspirin 상호작용 약역학
+- [[drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — NSAIDs 종류별 Aspirin 효과 영향 비교
 
 ### 한국 가이드라인·특수 케이스
-- [[drug/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — 한국 허혈성 뇌졸중 이차예방 항혈전제 가이드
-- [[drug/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — 소화기 내시경 항혈전제 관리 (단순 발치 = low risk procedure 참고)
-- [[drug/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — JAK2 클론성 조혈 환자 혈소판 hyperactivity·혈전 위험
+- [[drug/anticoagulants/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — 한국 허혈성 뇌졸중 이차예방 항혈전제 가이드
+- [[drug/anticoagulants/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — 소화기 내시경 항혈전제 관리 (단순 발치 = low risk procedure 참고)
+- [[drug/anticoagulants/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — JAK2 클론성 조혈 환자 혈소판 hyperactivity·혈전 위험
 
 ### 인접 overview
 - [[overviews/local-hemostasis-agents-overview]] — **지혈제 선택의 단일 출처** (2026-07-19 본 페이지 §3에서 분리): 세 맥락별 제제군, head-to-head 비교, TXA 제형 사다리, 전임상 재료 격리

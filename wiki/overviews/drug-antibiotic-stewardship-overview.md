@@ -385,7 +385,7 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — 이탈리아 행태 조사
 - [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 10년 추세
 - [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Karolinska restrictive 평가
-- [[drug/antibiotics/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 적응증 narrowing narrative
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 적응증 narrowing narrative
 
 ### 인접 overview
 - [[drug-antibiotic-odontogenic-pain-overview]] — **자매 오버뷰**: 치수·근단 통증 및 치성감염 항생제 (SIP/AP/AAA/치관주위염/근관치료 후/소아/임플란트 NNT=143)

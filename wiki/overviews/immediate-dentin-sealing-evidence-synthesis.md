@@ -79,7 +79,7 @@ IDS is defensible as routine practice for indirect restorations (inlay, onlay, v
 
 ## 1. IDS protocol — 개념과 술기 (Magne 2005)
 
-[[wiki/resin-bonding/magne-2005-immediate-dentin-sealing-fundamental-procedure|Magne 2005 (JERD, narrative, 30+ articles)]]가 IDS를 명명·정의한 origin paper다.
+[[resin-bonding/magne-2005-immediate-dentin-sealing-fundamental-procedure|Magne 2005 (JERD, narrative, 30+ articles)]]가 IDS를 명명·정의한 origin paper다.
 
 - **정의**: 삭제 직후 갓 절단된(freshly cut) 상아질에 DBA 도포 + 광중합 → **인상 채득 전**에 완료.
 - **권장 조합**: DBA + **filled adhesive resin liner**(low elastic modulus) 병용 — 응력 흡수 + 임상 handling.
@@ -106,14 +106,14 @@ IDS is defensible as routine practice for indirect restorations (inlay, onlay, v
 ## 3. in-vitro 결합강도 — 강하고 일관 (Magne·Hardan·Abo-Alazm)
 
 ### 3-1. Magne lab 원시 µTBS 데이터
-- [[wiki/resin-bonding/magne-2005-ids-improves-bond-strength-indirect|Magne 2005 µTBS]] (15 molars, OptiBond FL 3-step E&R): **IDS 58.25 MPa ≈ direct control 55.06 MPa >> DDS 11.58 MPa** (P=.0081). SEM에서 IDS·control은 3–5 µm 잘 조직된 hybrid layer, DDS는 disruption.
-- [[wiki/resin-bonding/magne-2007-ids-supports-delayed-restoration-placement|Magne 2007]] (50 molars, 10 groups): **IDS는 provisional 12주까지 µTBS >45 MPa 유지**, 시점 간 차이 없음 → **lab 지연(임시 기간) 동안 bond 보존** = 임상적 안전 마진. DDS는 SE Bond에서 1.81 MPa로 매우 낮음.
+- [[resin-bonding/magne-2005-ids-improves-bond-strength-indirect|Magne 2005 µTBS]] (15 molars, OptiBond FL 3-step E&R): **IDS 58.25 MPa ≈ direct control 55.06 MPa >> DDS 11.58 MPa** (P=.0081). SEM에서 IDS·control은 3–5 µm 잘 조직된 hybrid layer, DDS는 disruption.
+- [[resin-bonding/magne-2007-ids-supports-delayed-restoration-placement|Magne 2007]] (50 molars, 10 groups): **IDS는 provisional 12주까지 µTBS >45 MPa 유지**, 시점 간 차이 없음 → **lab 지연(임시 기간) 동안 bond 보존** = 임상적 안전 마진. DDS는 SE Bond에서 1.81 MPa로 매우 낮음.
 
 ### 3-2. SR+MA 정량화
-- [[wiki/resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma|Hardan 2022 SR+MA (21편, in-vitro)]] [확인, in-vitro]: IDS가 **즉시·노화 모두에서** DDS 대비 결합강도 우세. 효과 최대는 **3-step etch-and-rinse(E&R) 또는 (접착제 + flowable resin) 조합**.
+- [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma|Hardan 2022 SR+MA (21편, in-vitro)]] [확인, in-vitro]: IDS가 **즉시·노화 모두에서** DDS 대비 결합강도 우세. 효과 최대는 **3-step etch-and-rinse(E&R) 또는 (접착제 + flowable resin) 조합**.
 
 ### 3-3. Universal adhesive 시대로 확장
-- [[wiki/resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure|Abo-Alazm 2022]] (50 molars, 모의 치수압 1주 + 6개월 노화) [확인, in-vitro]:
+- [[resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure|Abo-Alazm 2022]] (50 molars, 모의 치수압 1주 + 6개월 노화) [확인, in-vitro]:
   - **universal adhesive로도 IDS µTBS 우위 재현** — Magne 시대 OptiBond FL 한정 권고를 universal로 확장.
   - **MDP-함유 universal(GLUMA Bond Universal) > MDP-free(iBOND)** — IDS에서도 MDP 우선.
   - 두 adhesive 모두 **6개월 Weibull 강도 감소** → IDS도 long-term degradation을 피하지 못함.
@@ -124,7 +124,7 @@ IDS is defensible as routine practice for indirect restorations (inlay, onlay, v
 ## 4. 임상 outcome — survival 신호 vs POS 충돌
 
 ### 4-1. Survival·complication — IDS 우위 (Alghauli 2025)
-- [[wiki/resin-bonding/alghauli-2025-clinical-benefits-immediate-dentin-sealing|Alghauli 2025 SR+MA (11 임상연구, 2023년까지)]] [확인]:
+- [[resin-bonding/alghauli-2025-clinical-benefits-immediate-dentin-sealing|Alghauli 2025 SR+MA (11 임상연구, 2023년까지)]] [확인]:
   - **survival: IDS 96.4–100% vs non-IDS 81.8–96.7%**. 단 **관찰기간이 길수록 격차 축소(음의 상관)** → 초기 차이가 수년에 걸쳐 약화될 가능성.
   - complication rate: IDS < non-IDS(정성적 방향).
   - **첫 임상(non-in-vitro) outcome 중심 SR+MA**.
@@ -142,7 +142,7 @@ IDS is defensible as routine practice for indirect restorations (inlay, onlay, v
 > **양쪽 다 유효**. 더 크고 최신(Alghauli) vs 더 엄격한 GRADE(Josic). 임상 입장: **"POS 감소는 결론 미정"**. 환자에게 "IDS가 시린 느낌을 줄여준다"고 단정하지 말 것.
 
 ### 4-3. Narrative anchor
-- [[wiki/resin-bonding/samartzi-2021-immediate-dentin-sealing-review|Samartzi 2021 (88편 narrative, 1990–2020)]]: 결합강도·gap·세균누출·상아질 과민에 유리하나 **인상재 상호작용·임시수복 단계·최종접착 전 조건화 방법은 추가 연구 필요**. **임상 적용 금기는 없음**.
+- [[resin-bonding/samartzi-2021-immediate-dentin-sealing-review|Samartzi 2021 (88편 narrative, 1990–2020)]]: 결합강도·gap·세균누출·상아질 과민에 유리하나 **인상재 상호작용·임시수복 단계·최종접착 전 조건화 방법은 추가 연구 필요**. **임상 적용 금기는 없음**.
 
 ---
 

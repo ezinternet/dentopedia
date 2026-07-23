@@ -74,7 +74,7 @@ Peri-implantitis management follows a stepwise ladder: mucositis (BoP+, no bone 
 | [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] | sr-ma (n=59,246) | 흡연 → 조기 실패 OR 2.59. Dose-dependent |
 | [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] | sr-ma | 흡연자 실패·MBL 유의 |
 | [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] | sr-ma (23편) | Cigarettes/day dose-dependent |
-| [[implants/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] | narrative-review | 기전 — neutrophil·MMP·미생물군 |
+| [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] | narrative-review | 기전 — neutrophil·MMP·미생물군 |
 | [[implants/moy-2005-dental-implant-failure-rates-risk]] | retrospective (early) | 실패 위험인자 stratification 초기 cohort |
 
 DM 위험은 [[drug-systemic-disease-dental-management-overview]] 2절(Al-Ansari 2022, Wagner 2022). 조절 DM = 정상 동등, 비조절 OR 1.78.
@@ -262,9 +262,9 @@ Risk Tier 결정
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] | sr-ma | FGG/CTG로 KT 3–4mm 증가. KT <2mm → plaque·BoP·MBL↑ |
-| [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] | sr-ma (221편) | STD prevalence + apical shift + MREC quant |
-| [[implants/kim-2009-blood-vessels-peri-implant-mucosa]] | histology | peri-implant mucosa vasculature 기초 |
+| [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] | sr-ma | FGG/CTG로 KT 3–4mm 증가. KT <2mm → plaque·BoP·MBL↑ |
+| [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] | sr-ma (221편) | STD prevalence + apical shift + MREC quant |
+| [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] | histology | peri-implant mucosa vasculature 기초 |
 
 상세는 [[overviews/peri-implant-soft-tissue-dehiscence-prevention]]. 본 축은 ladder만 유지.
 
@@ -303,7 +303,7 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] | narrative/protocol | 임상 적용 flowchart |
-| [[implants/kim-2025-management-peri-implantitis-perspectives]] | perspectives | 최신 perspectives (KAP 인접) |
+| [[periodontics/kim-2025-management-peri-implantitis-perspectives]] | perspectives | 최신 perspectives (KAP 인접) |
 | [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] | clinical | Mg membrane regenerative |
 | [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] | clinical | one-piece implant protocol |
 
@@ -354,7 +354,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 
 ### 신규 추가 (2026-06)
 
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — 7th ITI Consensus (Group 1, 2 underlying systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts worse vertical bone loss and … (consensus, 2023)
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — 7th ITI Consensus (Group 1, 2 underlying systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts worse vertical bone loss and … (consensus, 2023)
 - [[implants/kocak-oztug-2022-analysis-of-biomarkers-and]] — Split-mouth RCT (94 implants, 27 subjects, 12-month): platform-switched implants showed less marginal bone loss (0.51 ± 0.31 mm vs 0.75 ± 0.29 mm … (rct, 2022)
 - [[implants/mbl/tajti-2024-less-marginal-bone-loss]] — SR+MA of 8 studies (7 meta-analyzed; bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) … (sr+ma, 2024)
 
@@ -365,7 +365,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/fan-2024-smoking-early-implant-failure-sr-ma]]
 - [[implants/mustapha-2022-smoking-dental-implants-sr-ma]]
 - [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]]
-- [[implants/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
+- [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
 - [[implants/moy-2005-dental-implant-failure-rates-risk]]
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]]
 - [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]]
@@ -440,16 +440,16 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]]
 
 축 4 — 연조직:
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]]
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
-- [[implants/kim-2009-blood-vessels-peri-implant-mucosa]]
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]]
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
+- [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]]
 
 축 5 — Peri-implantitis:
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]]
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
 - [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
-- [[implants/kim-2025-management-peri-implantitis-perspectives]]
+- [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
 - [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]]
 - [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]]
 

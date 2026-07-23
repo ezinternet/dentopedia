@@ -72,7 +72,7 @@ geriatric-dentistry 5편 종합: 구강노쇠는 11지표·4영역(구강상태�
 ### 임상 ladder (노년 구강 관리)
 
 1. **스크리닝** — 잔존치아 수·저작/연하·구강건조를 routine 평가. OFI 척도 사용 시 도구 명시(OFI-8/OFI-6 유병률 다름).
-2. **구강건조 평가** — 주관(xerostomia)·객관(hyposalivation) 구분, polypharmacy 검토([[drug/pyo-2026-drug-interactions-prescription-safety-elderly]]).
+2. **구강건조 평가** — 주관(xerostomia)·객관(hyposalivation) 구분, polypharmacy 검토([[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]]).
 3. **근관면 우식 비침습 1차** — 고농도 불소·CHX·SDF([[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] 위계), 위생사 적용.
 4. **영양 연계** — 구강건조·저작 저하 → 영양실조 위험 환자 식이·의과 연계.
 5. **재평가** — 가역적 인자이므로 정기 추적으로 회복 가능성 모니터.

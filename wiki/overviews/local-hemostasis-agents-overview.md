@@ -101,7 +101,7 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 
 | 제형 | 프로토콜 | 근거 | 쓰는 상황 |
 |---|---|---|---|
-| **4.8% 양치액** | 10 mL × 2분, 1일 4회, 7일 (삼키지 않도록 지도) | SR, 출혈 50–60%↓ — [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] | 기본 1차 |
+| **4.8% 양치액** | 10 mL × 2분, 1일 4회, 7일 (삼키지 않도록 지도) | SR, 출혈 50–60%↓ — [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] | 기본 1차 |
 | **분쇄정제 분말/페이스트** | 정제 **250–500 mg** 분쇄 + 생리식염수 페이스트 → 흡수성 스폰지에 적셔 발치와 충전 | scoping review 10편, 전부 항응고 **중단 없이** 지혈 성공 — [[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]] | 순응도 낮은 환자, 즉시 지혈, 양치액 미비 |
 | **젤라틴 스폰지 + TXA 병용** | 표준 방식 **없음** (동시/순차/불명) | scoping review 16편, 이질성 과다로 프로토콜 제시 불가 — [[drug/anticoagulants/swissdentj-2026-gelatin-sponge-tranexamic-acid-anticoagulated]] | 관행은 흔하나 근거는 "유망" 수준 |
 | **즉시사용 TXA 거즈** | 2.5%(w/v) ≡ 5%, 1분 내 87% 방출, 180일 안정 | **전임상만** (시험관·건강 지원자 혈액) — [[drug/anticoagulants/sitthikornvanich-2026-tranexamic-acid-gauze-hemostatic-oral-surgery]] | 아직 임상 적용 근거 없음 |
@@ -174,7 +174,7 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 - [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — within-person 단일맹검 RCT: 이중항혈소판 환자에서 키토산 > 산화셀룰로오스 (출혈시간·치유). (rct, 2023)
 
 ### TXA 제형
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: TXA 양치액을 1차 국소 지혈제로 규정. (sr, 2024)
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: TXA 양치액을 1차 국소 지혈제로 규정. (sr, 2024)
 - [[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]] — scoping review 10편: 분쇄정제 분말 250–500 mg 페이스트, 전편 항응고 중단 없이 지혈 성공. (sr, 2026)
 - [[drug/anticoagulants/swissdentj-2026-gelatin-sponge-tranexamic-acid-anticoagulated]] — scoping review 16편: 젤라틴 스폰지+TXA 병용, 이질성 과다로 표준 프로토콜 제시 불가. (sr, 2026)
 

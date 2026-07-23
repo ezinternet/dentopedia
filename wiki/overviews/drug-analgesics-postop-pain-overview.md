@@ -305,40 +305,40 @@ p=0.002, 명확한 차이.
 - [[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — contradicts/extends: NSAID-preemptive 무효(Costa)와 달리 술전 dexamethasone은 third molar에 유효 (rct, 2025)
 - [[drug/analgesics/altuhafy-2026-tenoxicam-postoperative-dental-pain-sr]] — extends: oxicam 계열 tenoxicam 근거 추가 (대체 NSAID 옵션) (sr, 2026)
 - [[drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring]] — 17년 SJS/TEN 68례: 메타미졸(피린계) 단일 최다 원인(8건, 사망률 51%) — 피린계 알레르기의 임상적 심각도 근거 (retrospective, 2025)
-- [[drug/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — SR+MA of 8 high-quality trials (6 pooled) found etoricoxib (120 mg the dominant dose) significantly reduced the NUMBER of patients needing rescue anal … (sr+ma, 2021)
-- [[drug/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD … (sr, 2025)
+- [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — SR+MA of 8 high-quality trials (6 pooled) found etoricoxib (120 mg the dominant dose) significantly reduced the NUMBER of patients needing rescue anal … (sr+ma, 2021)
+- [[drug/analgesics/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD … (sr, 2025)
 
 ### 1차 약물 효과 (Network MA·SR-MA)
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — 발치 통증 Network MA n=9,095
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Single-dose Cochrane overview
-- [[drug/moore-2015-otc-oral-analgesics-cochrane-overview]] — OTC Cochrane overview
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — Third molar APAP+codeine vs Ibuprofen
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — 발치 통증 Network MA n=9,095
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Single-dose Cochrane overview
+- [[drug/analgesics/moore-2015-otc-oral-analgesics-cochrane-overview]] — OTC Cochrane overview
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — Third molar APAP+codeine vs Ibuprofen
 
 ### Opioid 회피·비-opioid 비교 (RCT)
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — n=1,815 multisite
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — n=1,815 multisite
 
 ### 투약 패턴·병용 (RCT)
-- [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — Alternate vs concurrent
-- [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — Endo necrosis 병용
+- [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — Alternate vs concurrent
+- [[drug/analgesics/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — Endo necrosis 병용
 
 ### Endodontic Pain
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — Overview of SRs
-- [[drug/smith-2017-nsaids-postoperative-endodontic-pain]] — 술전 통증 동반 endo SR-MA
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — Endo Network MA
-- [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — Diclofenac K RCT
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — 근관 통증 prevalence SR-MA
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — Overview of SRs
+- [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — 술전 통증 동반 endo SR-MA
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — Endo Network MA
+- [[drug/analgesics/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — Diclofenac K RCT
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — 근관 통증 prevalence SR-MA
 
 ### Preemptive Analgesia
-- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Third molar Meta 무효
-- [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — 치주·임플란트 SR-MA 효과 있음
-- [[drug/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — 치주수술 후 NSAIDs vs SAIDs 직접 비교 SR-MA: NSAIDs 초기 통증(0–6h)·SAIDs 48h 통증 우위, 부종·rescue 동등 (sr+ma, 2025)
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Third molar Meta 무효
+- [[drug/analgesics/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — 치주·임플란트 SR-MA 효과 있음
+- [[drug/analgesics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — 치주수술 후 NSAIDs vs SAIDs 직접 비교 SR-MA: NSAIDs 초기 통증(0–6h)·SAIDs 48h 통증 우위, 부종·rescue 동등 (sr+ma, 2025)
 
 ### NSAID 안전성·기전
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAID 종합 narrative
-- [[drug/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — Ibuprofen 약리·안전성 review
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — COX-2 골유착 우려
-- [[drug/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID AKI OR 1.98
-- [[drug/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — RA·AS 환자 NSAID CV 안전
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAID 종합 narrative
+- [[drug/analgesics/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — Ibuprofen 약리·안전성 review
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — COX-2 골유착 우려
+- [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID AKI OR 1.98
+- [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — RA·AS 환자 NSAID CV 안전
 
 ### 인접 overview
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브

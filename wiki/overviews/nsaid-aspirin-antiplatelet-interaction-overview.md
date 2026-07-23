@@ -95,9 +95,9 @@ For aspirin-dependent dental patients (especially secondary prevention, where as
 
 ## Related Papers
 
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — 이부프로펜–아스피린 순서 의존 상호작용을 인간에서 확립한 기초 약력학 RCT (로페콕시브·디클로페낙·아세트아미노펜 무간섭 확인)
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — 실제 OA+IHD 환자 대상 RCT; 셀레콕시브 안전·이부프로펜 효과 소실 확인, 선택성 비율이 결정 인자임을 입증
-- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — 9종 NSAID 인비트로 스크린; 이부프로펜(48.1%)·메페남산(22.7%)만 방해, 순서 규칙 확립
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 디피론/메타미졸(피라졸리논) MAA 대사체가 Ser-530 수소결합으로 차단, 클래스 이펙트
-- [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — 저용량 아스피린 기전·주변수술기 관리 종설 (기전 토대)
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — 이부프로펜–아스피린 순서 의존 상호작용을 인간에서 확립한 기초 약력학 RCT (로페콕시브·디클로페낙·아세트아미노펜 무간섭 확인)
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — 실제 OA+IHD 환자 대상 RCT; 셀레콕시브 안전·이부프로펜 효과 소실 확인, 선택성 비율이 결정 인자임을 입증
+- [[drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — 9종 NSAID 인비트로 스크린; 이부프로펜(48.1%)·메페남산(22.7%)만 방해, 순서 규칙 확립
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 디피론/메타미졸(피라졸리논) MAA 대사체가 Ser-530 수소결합으로 차단, 클래스 이펙트
+- [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — 저용량 아스피린 기전·주변수술기 관리 종설 (기전 토대)
 - [[overviews/nsaid-osseointegration-impairment-overview]] — 자매 오버뷰; **COX-2 딜레마**의 반대편 — 여기선 셀레콕시브가 항혈소판 보존에 안전하지만, 신선 임플란트 골형성엔 COX-2 선택제가 오히려 위험 방향

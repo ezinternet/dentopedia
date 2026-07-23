@@ -94,7 +94,7 @@ Implants placed after antiresorptive initiation carry 23% failure (83% MRONJ-rel
 
 ### Radiographic and Haematological Monitoring Signals
 
-[중간 근거] [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Retrospective record review of bisphosphonate-treated patients comparing BRONJ vs non-BRONJ groups: **alkaline phosphatase (ALP) and ESR were significantly elevated in the BRONJ group**, and BRONJ was associated with anaemia, leukocytosis, smoking, and tooth extraction.  Radiographic signs significantly more prevalent in BRONJ on panoramic/periapical imaging: persisting alveolar socket, osteolysis, bone sclerosis, and narrowing of the mandibular canal.  CTX did **not** differ significantly between groups — consistent with AAOMS 2022's exclusion of CTX from risk stratification (see §3 above).
+[중간 근거] [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Retrospective record review of bisphosphonate-treated patients comparing BRONJ vs non-BRONJ groups: **alkaline phosphatase (ALP) and ESR were significantly elevated in the BRONJ group**, and BRONJ was associated with anaemia, leukocytosis, smoking, and tooth extraction.  Radiographic signs significantly more prevalent in BRONJ on panoramic/periapical imaging: persisting alveolar socket, osteolysis, bone sclerosis, and narrowing of the mandibular canal.  CTX did **not** differ significantly between groups — consistent with AAOMS 2022's exclusion of CTX from risk stratification (see §3 above).
 
 [미검증] 초록 기반 추출(전문 비공개)로 표본 크기·통계 세부가 불명 — 효과 크기 해석 불가. 그러나 "ALP·ESR 상승 + 잔존 발치와·골경화·골용해·하악관 협착"이 BRONJ를 감별하는 panoramic 신호라는 패턴은 Moreno Rabie 2023의 CBCT 소견(오steosclerosis, sequestrum)과 방향이 일치하며, CTX 무용론은 Ruggiero 2022 position paper와 부합.
 
@@ -162,7 +162,7 @@ Implants placed after antiresorptive initiation carry 23% failure (83% MRONJ-rel
 
 ### Pre-extraction CBCT Risk Signals (Oncologic Patients)
 
-[중간 근거] [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Retrospective case–control (n=47 oncologic ARD patients, 87 extractions; KU Leuven): pre-operative CBCT identified **sequestrum formation and periosteal reaction as exclusive or borderline markers of the study group** (sequestrum: ARD group only; periosteal reaction borderline p=0.051), suggesting these 3D signs may represent pre-clinical MRONJ before frank bone exposure.  MRONJ incidence was 38% per extraction site; **smoking (all current smokers developed MRONJ), multiple simultaneous extractions, and a shorter drug holiday** (MRONJ+ mean 7.8 mo vs MRONJ− 27.5 mo, p=0.021) were the strongest clinical risk factors.  Drug-type note: bisphosphonate use produced significantly more osteosclerosis on CBCT; denosumab showed no early radiographic warning signal, raising the risk of late detection.
+[중간 근거] [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Retrospective case–control (n=47 oncologic ARD patients, 87 extractions; KU Leuven): pre-operative CBCT identified **sequestrum formation and periosteal reaction as exclusive or borderline markers of the study group** (sequestrum: ARD group only; periosteal reaction borderline p=0.051), suggesting these 3D signs may represent pre-clinical MRONJ before frank bone exposure.  MRONJ incidence was 38% per extraction site; **smoking (all current smokers developed MRONJ), multiple simultaneous extractions, and a shorter drug holiday** (MRONJ+ mean 7.8 mo vs MRONJ− 27.5 mo, p=0.021) were the strongest clinical risk factors.  Drug-type note: bisphosphonate use produced significantly more osteosclerosis on CBCT; denosumab showed no early radiographic warning signal, raising the risk of late detection.
 
 [미검증] 종양학적 고용량 ARD 환자(n=47, 단일 기관)에 국한된 결과이며 골막반응 연관은 borderline(p=0.051)이고 다변량 회귀 없음 — 일반화 전 신중. 그러나 "발치 전 CBCT에서 격리골(sequestrum)·골막반응이 보이면 MRONJ 위험 고위험 신호로 재평가하라"는 메시지는 임상적으로 유의미하며, 경구 BP 저위험군이 아닌 암 적응증 고위험군에 적용.
 
@@ -259,27 +259,27 @@ Implants placed after antiresorptive initiation carry 23% failure (83% MRONJ-rel
 ## Related Papers
 
 ### Position·SR (1차 근거)
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 position update, staging·drug holiday·Romosozumab·CTX
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2007→2014→2022 변천, 2022 3대 변경 해설
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 position update, staging·drug holiday·Romosozumab·CTX
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2007→2014→2022 변천, 2022 3대 변경 해설
 - [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]] — 한국 5개 학회 공동 2025 포지션 스테이트먼트: 약제별 drug holiday 타이밍 구체화, 전 병기 수술 권고, CTX 비권장, teriparatide 최강 근거 (consensus, JKAOMS 2025)
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — 4-level prevention framework
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — 항흡수제 후 임플란트 23% 실패, 83% MRONJ
-- [[drug/jkda-2021-60-1-004]] — BMA 복용 환자 implant가 MRONJ trigger인가, 4단계 결정 framework (Choi/JKDA 2022)
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — 4-level prevention framework
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — 항흡수제 후 임플란트 23% 실패, 83% MRONJ
+- [[drug/mronj/jkda-2021-60-1-004]] — BMA 복용 환자 implant가 MRONJ trigger인가, 4단계 결정 framework (Choi/JKDA 2022)
 
 ### Cohort·임상 근거
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — 골다공증 5년 cohort, RA가 독립 위험인자
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 유방암 골전이 cohort, 누적 dose ≥32 임계
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — 골다공증 5년 cohort, RA가 독립 위험인자
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 유방암 골전이 cohort, 누적 dose ≥32 임계
 - [[drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related]] — KNUDH 5년 코호트(n=178 DRONJ): Xgeva 53.8% vs Prolia 85.0% 치료 성공(p=0.027); 고용량 Dmab 유일한 독립 예측인자(OR 5.13); BP→Prolia 전환 발생 앞당기되 예후 불변 (retrospective, JKAOMS 2026)
-- [[drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 단일 vs 3일 AMPC 동등
+- [[drug/mronj/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 단일 vs 3일 AMPC 동등
 
 ### 영상·진단·모니터링
-- [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — 발치 전 CBCT에서 sequestrum·periosteal reaction이 종양학적 MRONJ 위험 신호; denosumab은 조기 방사선 징후 없음; MRONJ incidence 38%/site (oncologic cohort, n=47, case–control)
-- [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — BRONJ vs 비BRONJ 비스포스포네이트 환자 비교: ALP·ESR 상승, panoramic 소견(잔존 발치와·골용해·골경화·하악관 협착), CTX 유의차 없음 — AAOMS 2022 CTX 제외 권고와 부합
+- [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — 발치 전 CBCT에서 sequestrum·periosteal reaction이 종양학적 MRONJ 위험 신호; denosumab은 조기 방사선 징후 없음; MRONJ incidence 38%/site (oncologic cohort, n=47, case–control)
+- [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — BRONJ vs 비BRONJ 비스포스포네이트 환자 비교: ALP·ESR 상승, panoramic 소견(잔존 발치와·골용해·골경화·하악관 협착), CTX 유의차 없음 — AAOMS 2022 CTX 제외 권고와 부합
 
 ### Narrative·교육
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP 종류·작용·치과 안전·국소 도포 골유착 촉진
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS position paper 변천(2007→2014→2022) 한국어 해설, 2022 변경 3가지
-- [[drug/jkda-2021-60-1-004]] — BMA 환자에서 implant가 MRONJ 위험인자, 한국 임상 perspective
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP 종류·작용·치과 안전·국소 도포 골유착 촉진
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — AAOMS position paper 변천(2007→2014→2022) 한국어 해설, 2022 변경 3가지
+- [[drug/mronj/jkda-2021-60-1-004]] — BMA 환자에서 implant가 MRONJ 위험인자, 한국 임상 perspective
 
 ### Cross-category (임플란트·골질)
 - [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — 골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나, 골다공증 임플란트 장기 생존율은 82.6–94.1%로 하락(골질 문제 별개). drug holiday는 고위험 한정 (narrative-review, 2026)
