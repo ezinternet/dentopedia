@@ -5,7 +5,7 @@ year: 2020
 date: 2020-10-02
 doi: 10.3290/j.ohpd.a45354
 source: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.pdf
 pdf_filename: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.pdf
@@ -78,6 +78,6 @@ Selected findings:
 
 ## Related Papers
 
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — ranks *powered* brush technologies for plaque/gingivitis; Rajwani provides the *manual*-technique comparator baseline against which powered-brush effect sizes are interpreted.
-- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual in orthodontic patients; Rajwani explicitly *excludes* fixed-appliance patients, so the two cover complementary populations.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — ranks *powered* brush technologies for plaque/gingivitis; Rajwani provides the *manual*-technique comparator baseline against which powered-brush effect sizes are interpreted.
+- [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered vs manual in orthodontic patients; Rajwani explicitly *excludes* fixed-appliance patients, so the two cover complementary populations.
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — biofilm-induced gingivitis and oral hygiene measures in <18; Rajwani excludes <17, so this is the adjacent pediatric prevention evidence.
