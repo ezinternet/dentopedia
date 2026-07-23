@@ -55,7 +55,7 @@ Only 1 of 5 studies provided weak evidence favoring aciclovir for faster oral-le
 
 ## Related Papers
 
-- [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — reinforces (recurrent/labial HSV therapy companion)
-- [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — extends (antiviral pharmacology basis)
+- [[oral-medicine/hsv/mancini-2025-oral-herpes-treatment-sr]] — reinforces (recurrent/labial HSV therapy companion)
+- [[oral-medicine/hsv/lv-2025-anti-hsv1-agents-update]] — extends (antiviral pharmacology basis)
 - [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — applies-to (HSV as EM trigger)
 - [[overviews/oral-medicine-decision-ladder]] — vesiculo-ulcerative axis
