@@ -5,7 +5,7 @@ year: 2024
 date: 2024-09-21
 doi: 10.3390/dj12090296
 source: dang-2024-effect-novel-ergonomic-sheath-dental.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
