@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.1007/s00784-022-04442-9
 source: laleman-2022-instrumentation-during-second-stage.md
-category: periodontics
+category: periodontics/non-surgical-instrumentation
 evidence_level: cross-sectional
 source_collection: pubmed-text
 full_text: false
@@ -71,5 +71,5 @@ This cross-sectional survey (n=2008) captures real-world instrumentation practic
 ## Related Papers
 
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — applies-to: this survey reports real-world clinician practice during Step 2 (subgingival instrumentation) of the EFP S3-level stepwise framework this guideline defines.
-- [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — the hand-curette/ultrasonic-scaler combination this survey finds dominant in practice (94.4%) is exactly the modality pair whose comparative hard-tissue loss this in-vitro SR quantifies.
-- [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — narrative review ranking abrasiveness of the same hand/ultrasonic instrumentation this survey shows clinicians combine in everyday practice.
+- [[periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — the hand-curette/ultrasonic-scaler combination this survey finds dominant in practice (94.4%) is exactly the modality pair whose comparative hard-tissue loss this in-vitro SR quantifies.
+- [[periodontics/non-surgical-instrumentation/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — narrative review ranking abrasiveness of the same hand/ultrasonic instrumentation this survey shows clinicians combine in everyday practice.
