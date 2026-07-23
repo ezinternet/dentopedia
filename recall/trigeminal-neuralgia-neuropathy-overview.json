@@ -1,0 +1,49 @@
+{
+  "overview": "trigeminal-neuralgia-neuropathy-overview",
+  "date": "2026-07-23",
+  "title": "삼차신경통·신경병증 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/trigeminal-neuralgia-neuropathy-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "삼차신경통(TN)과 외상후 삼차신경병증(PTTN)의 통증 성격 차이는?",
+      "opts": [
+        "둘 다 동일한 지속통",
+        "TN은 유발점을 건드리면 순간적 전기충격성 발작통, PTTN은 신경외상 후 3개월 이상 지속되는 연속성 작열·박동통(이질통 동반)",
+        "TN이 연속통, PTTN이 발작통",
+        "둘 다 자극과 무관하다"
+      ],
+      "ans": 1,
+      "rat": "TN은 안면·구강점막 유발점(trigger zone)을 가벼운 접촉·저작·양치질이 건드리면 순간적 전기충격성 발작통(Khan 2023) — 치통과 혼동. PTTN은 신경외상 후 3개월 이상 지속되는 연속성 작열·박동통이며 이질통(allodynia) 동반(Alkhutari 2023). 신경병성 통증을 치성통증으로 오진하면 죄 없는 치아에 불필요한 근관치료·발치.",
+      "cite": "overviews/trigeminal-neuralgia-neuropathy-overview"
+    },
+    {
+      "id": "q2",
+      "q": "삼차신경통(TN)의 1차 약물과 혈관압박형의 1차 수술은?",
+      "opts": [
+        "1차 약물은 아세트아미노펜, 수술은 발치",
+        "1차 약물은 카르바마제핀(0.4–1.2 g/day)·옥스카르바제핀; 혈관압박형(classical) TN의 1차 수술은 미세혈관감압술(MVD)",
+        "1차 약물은 오피오이드",
+        "TN은 근관치료로 치료"
+      ],
+      "ans": 1,
+      "rat": "TN 1차 약물: 카르바마제핀(0.4–1.2 g/day)·옥스카르바제핀(0.9–1.8 g/day), 2차 라모트리진·바클로펜, 난치성엔 보툴리눔독소 A·정맥 리도카인. 혈관압박형(classical) TN의 1차 수술은 미세혈관감압술(MVD)(Khan 2023 SR). 카르바마제핀 외 대부분 저근거.",
+      "cite": "overviews/trigeminal-neuralgia-neuropathy-overview"
+    },
+    {
+      "id": "q3",
+      "q": "외상후 삼차신경병증(PTTN)의 의인성 원인 순위는? (Van der Cruyssen 2020)",
+      "opts": [
+        "국소마취가 압도적 1위",
+        "사랑니 발치 48% > 임플란트 13% ≈ 비-사랑니 발치 13% > 국소마취 12% > 근관치료 8% — 근관치료는 저평가돼 온 비-무시 원인",
+        "근관치료가 1위",
+        "임플란트가 절반 이상"
+      ],
+      "ans": 1,
+      "rat": "PTTN 의인성 원인 순위(Van der Cruyssen 2020, n=1,331): 사랑니 발치 48% > 임플란트 13% ≈ 비-사랑니 발치 13% > 국소마취 12% > 근관치료 8%. 근관치료는 저평가돼 온 비-무시 원인. PTTN은 근관치료 후 3–48개월, 40대 중반 여성 호발, 비전형 치통(AO)·지속성 치조통(PDAP)으로 오진. IAN 감각이상 예방은 안전대 ≥2mm(파노라마)·≥1mm(CT).",
+      "cite": "overviews/trigeminal-neuralgia-neuropathy-overview"
+    }
+  ]
+}
