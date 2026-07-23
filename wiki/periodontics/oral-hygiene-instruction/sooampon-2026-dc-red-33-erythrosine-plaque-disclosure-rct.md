@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-04
 doi: 10.1186/s12903-026-08786-6
 source: sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: rct
 source_collection: pubmed-text
 full_text: true
@@ -70,5 +70,5 @@ According to PubMed ([DOI 10.1186/s12903-026-08786-6](https://doi.org/10.1186/s1
 
 ## Related Papers
 
-- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — applies-to: disclosing agents operationalize the oral-hygiene instruction underpinning the mechanical plaque-removal effectiveness compared in this NMA.
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — applies-to: disclosing agents operationalize the oral-hygiene instruction underpinning the mechanical plaque-removal effectiveness compared in this NMA.
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — reinforces: plaque disclosure is a core biofilm-visualization tool in gingivitis-prevention and biofilm-control programs.
