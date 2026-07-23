@@ -50,7 +50,7 @@ Systematic review + meta-analysis. English-language RCTs only. Inclusion: ≥1 P
 - Conclusion: PS technique effectively limits crestal bone resorption
 
 ## Related Papers
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA: PS 0.49 mm vs PM 1.01 mm MBL (p<0.0001), 22 studies
-- [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA: PS bone loss MD 0.255 mm less (2022 update)
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — RCT: PS 0.28 vs PM 0.68 mm at 3 years
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — RCT 5-year: PS 0.23 mm lower MBL
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA: PS 0.49 mm vs PM 1.01 mm MBL (p<0.0001), 22 studies
+- [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA: PS bone loss MD 0.255 mm less (2022 update)
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] — RCT: PS 0.28 vs PM 0.68 mm at 3 years
+- [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — RCT 5-year: PS 0.23 mm lower MBL

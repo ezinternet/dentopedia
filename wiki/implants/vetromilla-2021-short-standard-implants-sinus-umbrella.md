@@ -56,6 +56,6 @@ Umbrella review of SR/MAs (Medline, Scopus, Cochrane). AMSTAR-2 methodological q
 - Review quality: 57.1% critically low, remainder low.
 
 ## Related Papers
-- [[implants/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces (RCT-level SR+MA reaching same direction)
+- [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces (RCT-level SR+MA reaching same direction)
 - [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — reinforces (newer RCT SR+MA)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — feeds decision overview

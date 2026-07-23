@@ -106,7 +106,7 @@ When delayed implant placement is chosen, immediate loading and delayed loading 
 
 ## Related Papers
 
-- [[implants/implant-loading-protocol-prosthesis-type-overview]] — overview of loading protocol evidence stratified by prosthesis type
+- [[overviews/implant-loading-protocol-prosthesis-type-overview]] — overview of loading protocol evidence stratified by prosthesis type
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — parallel SR for single-unit implant crowns (extends the present study's scope to single units)
 - [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — SR+MA on loading protocols for single-unit crowns; this study is the multiple-unit counterpart
 - [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — SR+MA on loading timing for overdentures; complements the FDP loading timing evidence

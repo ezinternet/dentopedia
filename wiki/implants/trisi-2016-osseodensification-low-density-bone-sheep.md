@@ -67,7 +67,7 @@ The paper is widely cited as proof that OD raises bone volume in low-density bon
 
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique
-- [[implants/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — sheep OD on porous tantalum
+- [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — sheep OD on porous tantalum
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle outside dental
 - [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR that includes this study
 - [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA that includes this study

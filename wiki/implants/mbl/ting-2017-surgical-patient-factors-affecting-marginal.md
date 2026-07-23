@@ -66,6 +66,6 @@ Narrative overview of systematic reviews (umbrella-style; no new pooled meta-ana
 
 ## Related Papers
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
-- [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — one of the 4 tilted-vs-axial SRs pooled in this overview's "no significant MBL difference" conclusion on implant position.
+- [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — one of the 4 tilted-vs-axial SRs pooled in this overview's "no significant MBL difference" conclusion on implant position.
 - [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — one of the 5 flapless-vs-flapped SRs pooled in this overview's "no significant MBL difference" conclusion on flap design.
-- [[implants/malak-2024-implant-failure-marginal-bone-loss]] — later, narrower umbrella review specifically on axial vs tilted MBL/failure; this 2017 overview's NS conclusion on implant position was the earlier, broader-scope evidence base for that question.
+- [[implants/mbl/malak-2024-implant-failure-marginal-bone-loss]] — later, narrower umbrella review specifically on axial vs tilted MBL/failure; this 2017 overview's NS conclusion on implant position was the earlier, broader-scope evidence base for that question.

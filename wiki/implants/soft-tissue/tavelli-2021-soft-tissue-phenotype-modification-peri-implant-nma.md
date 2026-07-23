@@ -88,8 +88,8 @@ Tavelli et al. (J Periodontol 2021) conducted the first network meta-analysis (N
 
 ## Related Papers
 
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — predecessor SR+MA (pair-wise only, no NMA); this paper extends with network comparisons
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — later SR updating the soft tissue augmentation evidence base
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR specifically comparing substitutes vs autogenous grafts for KM augmentation
-- [[implants/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA on buccal soft tissue dehiscence outcomes, contextualizes dehiscence reduction finding
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — predecessor SR+MA (pair-wise only, no NMA); this paper extends with network comparisons
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — later SR updating the soft tissue augmentation evidence base
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR specifically comparing substitutes vs autogenous grafts for KM augmentation
+- [[implants/soft-tissue/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA on buccal soft tissue dehiscence outcomes, contextualizes dehiscence reduction finding
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview incorporating this NMA's technique rankings

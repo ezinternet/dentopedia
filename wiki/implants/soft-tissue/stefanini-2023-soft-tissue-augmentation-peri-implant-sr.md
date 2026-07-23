@@ -84,7 +84,7 @@ STA was performed with either an apically positioned flap (APF) combined with a 
 
 ## Related Papers
 
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — short-term network MA establishing STA efficacy; this SR extends to medium/long term
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO 2021 consensus on peri-implant soft tissue management, clinical guidance context
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — short-term network MA establishing STA efficacy; this SR extends to medium/long term
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO 2021 consensus on peri-implant soft tissue management, clinical guidance context
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — overview on soft tissue dehiscence prevention strategies, to which this SR contributes long-term outcome data
 - [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year keratinized mucosa data extending the long-term perspective

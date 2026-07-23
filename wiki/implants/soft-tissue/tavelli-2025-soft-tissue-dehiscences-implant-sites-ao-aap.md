@@ -48,7 +48,7 @@ Systematic search per AO/AAP standards. 221 eligible studies included. Mixed-eff
 임플란트 주위 연조직 dehiscence는 'disease 없음'에도 매우 흔함 (PSTD ~46%). 식립 전 risk assessment + 필요 시 CTG·SCTG·KT 증대 술식 적용으로 예방. AO/AAP consensus급 reference.
 
 ## Related Papers
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation 효과 SR+MA
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation 효과 SR+MA
 - [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG가 dehiscence 예방에 어떻게 작용하는지
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline
 

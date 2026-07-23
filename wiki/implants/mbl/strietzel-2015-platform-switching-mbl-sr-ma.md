@@ -52,7 +52,7 @@ SR+MA. Databases: PubMed, Web of Science, Journals@Ovid, Embase. Inclusion: RCTs
 - Risk of bias: mostly unclear or high in included studies
 
 ## Related Papers
-- [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA: 15 RCTs, 1439 implants, confirming PS benefit
-- [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — 2022 SR+MA update (9 studies, MD 0.255 mm)
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 3yr RCT: PS 0.28 vs PM 0.68 mm
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — 5yr RCT: PS 0.23 mm lower MBL
+- [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA: 15 RCTs, 1439 implants, confirming PS benefit
+- [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — 2022 SR+MA update (9 studies, MD 0.255 mm)
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 3yr RCT: PS 0.28 vs PM 0.68 mm
+- [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5yr RCT: PS 0.23 mm lower MBL

@@ -73,7 +73,7 @@ This finite element analysis evaluated stress distribution in peri-implant bone,
 
 ## Related Papers
 
-- [[implants/implants-clinical-decision-ladder]] — clinical decision framework
+- [[overviews/implants-clinical-decision-ladder]] — clinical decision framework
 - [[implants/lin-2018-clinical-performance-tilted-versus-axial]] — SR: no clinical survival difference tilted vs axial
 - [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — SR+MA: axial shows lower MBL than tilted long-term
 - [[implant-occlusion-loading-biomechanics-overview]] — peri-implant loading biomechanics overview

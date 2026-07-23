@@ -64,12 +64,12 @@ OD significantly outperformed regular drilling on all three outcomes: pullout st
 
 ## Living Document Notes
 - Cite for **mechanism transferability** and **proof of OD principle outside dental** — not for dental clinical numbers.
-- Pair with [[implants/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] when discussing bone-chip nucleation as the OD mechanism — both papers show the same histological pattern.
+- Pair with [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] when discussing bone-chip nucleation as the OD mechanism — both papers show the same histological pattern.
 - The BAFO dip-and-recover time pattern is useful general bone-healing context, not OD-specific.
 
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original dental OD paper
 - [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — dental OD in sheep, biomechanical
-- [[implants/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — dental OD × porous tantalum
+- [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — dental OD × porous tantalum
 - [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — SR (dental scope, excludes this study)
 - [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — SR+MA (dental scope, excludes this study)

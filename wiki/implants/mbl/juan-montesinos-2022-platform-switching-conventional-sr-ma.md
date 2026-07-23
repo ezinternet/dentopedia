@@ -53,7 +53,7 @@ SR+MA following PRISMA. Multiple databases. Inclusion: studies comparing PS vs c
 - Probing depth finding warrants further investigation
 
 ## Related Papers
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — earlier SR+MA: PS 0.49 mm vs PM 1.01 mm (p<0.0001)
-- [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA: 15 RCTs, PS bone loss benefit confirmed
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 3yr RCT: p=0.002 favouring PS
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — 5yr RCT: PS 0.23 mm lower MBL
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — earlier SR+MA: PS 0.49 mm vs PM 1.01 mm (p<0.0001)
+- [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA: 15 RCTs, PS bone loss benefit confirmed
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 3yr RCT: p=0.002 favouring PS
+- [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5yr RCT: PS 0.23 mm lower MBL

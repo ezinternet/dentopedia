@@ -50,7 +50,7 @@ Multicentre RCT. Patients with ≥2 missing adjacent posterior mandibular teeth.
 - No significant difference in implant survival rates
 
 ## Related Papers
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — 5-year follow-up of the same RCT cohort
-- [[implants/enkling-2013-platform-switching-bone-level-3year-rct]] — parallel 3-year RCT confirming PS benefit
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA: PS MBL 0.49 vs PM 1.01 mm
-- [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA confirming PS superiority
+- [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5-year follow-up of the same RCT cohort
+- [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]] — parallel 3-year RCT confirming PS benefit
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA: PS MBL 0.49 vs PM 1.01 mm
+- [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA confirming PS superiority

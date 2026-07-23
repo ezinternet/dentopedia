@@ -57,6 +57,6 @@ SR+MA (PRISMA; PROSPERO CRD42023455643). PubMed, Scopus, Cochrane CENTRAL + manu
 - Aesthetics comparable; XCM lower morbidity, analgesic need, and surgical time. CMX/XCM resorption (shrinkage) is a recurring caveat.
 
 ## Related Papers
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — reinforces (FGG > substitutes for KMW)
-- [[implants/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — extends (CTG vs XCM around implants)
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — soft tissue augmentation as protective factor for peri-implant dehiscence
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — reinforces (FGG > substitutes for KMW)
+- [[implants/soft-tissue/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — extends (CTG vs XCM around implants)
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — soft tissue augmentation as protective factor for peri-implant dehiscence

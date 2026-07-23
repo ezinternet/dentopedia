@@ -118,7 +118,7 @@ No significant overall difference vs autogenous (WMD −3.7%; p = .256). Allogra
 
 ## Related Papers
 
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement for the same SEPA/DGI/Osteology workshop; Montero SR is the primary evidence base
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on augmentation around functioning implants; this SR provides the substitute-vs-autograft subgroup perspective
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on soft tissue augmentation peri-implant outcomes; complementary scope on phenotype modification
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement for the same SEPA/DGI/Osteology workshop; Montero SR is the primary evidence base
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on augmentation around functioning implants; this SR provides the substitute-vs-autograft subgroup perspective
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on soft tissue augmentation peri-implant outcomes; complementary scope on phenotype modification
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis page on KM role and augmentation decisions; Montero provides the CM vs autograft arm of the clinical decision tree

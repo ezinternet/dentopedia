@@ -72,5 +72,5 @@ PRISMA-guided two-reviewer screen of PubMed-Medline, Embase, Google Scholar (Jan
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD technique paper that this SR catalogs
 - [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] — successor SR+MA with quantitative pooling
 - [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — animal histologic study included in the SR
-- [[implants/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — related sheep histologic study
+- [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — related sheep histologic study
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle in orthopaedic context

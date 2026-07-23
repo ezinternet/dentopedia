@@ -50,6 +50,6 @@ Narrative short communication review. Literature overview of platform switching 
 - Simple, effective technique for long-term peri-implant bone maintenance
 
 ## Related Papers
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA quantifying PS benefit (0.49 vs 1.01 mm)
-- [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA: 15 RCTs confirming PS efficacy
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — RCT evidence for PS bone preservation
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA quantifying PS benefit (0.49 vs 1.01 mm)
+- [[implants/mbl/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA: 15 RCTs confirming PS efficacy
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] — RCT evidence for PS bone preservation

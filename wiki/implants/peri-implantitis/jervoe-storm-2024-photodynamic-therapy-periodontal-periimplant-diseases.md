@@ -47,4 +47,4 @@ aPDT 보조효과는 단기·저certainty 경향으로 알려짐 [미검증]. �
 
 ## Related Papers
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — 비외과 보조요법 위치
-- [[implants/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — 외과 제염과 보조요법 대비
+- [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — 외과 제염과 보조요법 대비

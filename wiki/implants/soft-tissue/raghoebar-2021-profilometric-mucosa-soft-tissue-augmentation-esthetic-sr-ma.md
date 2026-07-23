@@ -85,6 +85,6 @@ The bottom line: soft-tissue augmentation in the esthetic zone is most impactful
 
 ## Related Papers
 
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on medium/long-term peri-implant soft tissue conditions following augmentation; extends stability question beyond this SR+MA's timeframe
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — compares CTG vs tissue substitutes for keratinized mucosa augmentation; addresses material choice question raised by this SR+MA
-- [[implants/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview integrating numerical evidence from this SR+MA on tissue dimension thresholds and esthetic-zone grafting rationale
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR on medium/long-term peri-implant soft tissue conditions following augmentation; extends stability question beyond this SR+MA's timeframe
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — compares CTG vs tissue substitutes for keratinized mucosa augmentation; addresses material choice question raised by this SR+MA
+- [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis overview integrating numerical evidence from this SR+MA on tissue dimension thresholds and esthetic-zone grafting rationale

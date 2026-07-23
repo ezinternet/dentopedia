@@ -52,4 +52,4 @@ TL 임플란트: 근접 거리 허용 범위가 더 넓을 수 있음 (다만 �
 
 ## Related Papers
 - [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] — SR+MA: 이 논문 포함; ≥1.5 mm 안전거리 권고
-- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — 임플란트-임플란트 간격 룰 원조; 유사 메커니즘
+- [[implants/mbl/tarnow-2000-inter-implant-distance-crestal-bone-height]] — 임플란트-임플란트 간격 룰 원조; 유사 메커니즘

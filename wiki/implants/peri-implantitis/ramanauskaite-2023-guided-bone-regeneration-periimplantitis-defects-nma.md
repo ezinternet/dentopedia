@@ -47,4 +47,4 @@ Network meta-analysis. 재건/비재건/병용 비교. (구체 SUCRA·effect는 
 
 ## Related Papers
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — 외과 재건 단계
-- [[implants/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — 재건 전 표면제염
+- [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — 재건 전 표면제염

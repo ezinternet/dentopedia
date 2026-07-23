@@ -66,6 +66,6 @@ No clinical or bench measurements (patent document). Asserted effects only: grea
 
 - [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(RETRACTED/철회됨 — do not cite)** the only prospective clinical data on this HaeNaem bur (n=12); subsequently retracted, so no valid clinical evidence remains. This patent is its engineering basis (unaffected)
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Densah/Versah OD bur mechanism (CW=extraction / CCW=densify); contrasting reversible-direction design
-- [[implants/kim-2019-bone-collector-drill-assembly]] — companion (주)해냄 / Kim Seong-ju patent (bone collector drill)
+- [[oral-surgery/kim-2019-bone-collector-drill-assembly]] — companion (주)해냄 / Kim Seong-ju patent (bone collector drill)
 - [[overviews/osseodensification-clinical-applications]] — OD evidence overview
 - [[overviews/versah-protocol-selection-map]] — Versah OD protocol map (Densah-centric)

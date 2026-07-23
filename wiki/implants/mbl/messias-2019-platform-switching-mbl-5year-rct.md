@@ -51,7 +51,7 @@ Extension of multicentre equivalence RCT (Rocha 2016). 33 patients/72 PM + 35 pa
 - Benefit maintained and significant through 5 years
 
 ## Related Papers
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 3-year results of the same cohort (p=0.002)
-- [[implants/enkling-2013-platform-switching-bone-level-3year-rct]] — parallel 3-year RCT
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA pooling PS vs PM RCTs
-- [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — 2022 SR+MA update
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] — 3-year results of the same cohort (p=0.002)
+- [[implants/mbl/enkling-2013-platform-switching-bone-level-3year-rct]] — parallel 3-year RCT
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA pooling PS vs PM RCTs
+- [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — 2022 SR+MA update

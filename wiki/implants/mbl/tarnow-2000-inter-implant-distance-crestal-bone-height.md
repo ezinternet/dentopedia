@@ -61,4 +61,4 @@ Tarnow 2000은 인접 임플란트 사이 수평 골소실(측방 골소실)을 
 ## Related Papers
 - [[implants/morales-schwarz-2025-1mm-interimplant-distance-10year-case]] — 1 mm IID에서도 10년 골 유지 (현대 임플란트 디자인); 3 mm 룰의 한계 제시
 - [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] — 자연치 측 안전거리: ≥1.5 mm (analogous)
-- [[implants/ng-2018-implant-tooth-proximity-bone-loss]] — 자연치 <1 mm 거리 → BL 임플란트 골소실↑
+- [[implants/mbl/ng-2018-implant-tooth-proximity-bone-loss]] — 자연치 <1 mm 거리 → BL 임플란트 골소실↑

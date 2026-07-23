@@ -86,7 +86,7 @@ At baseline all groups were equivalent (~ISQ 50–53). At 6 months, i-PRF and sy
 
 ## Related Papers
 
-- [[implants/isq/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft]] — RFA/ISQ outcomes for crestal sinus elevation without graft; baseline reference this RCT extends
+- [[sinus-lift/transcrestal/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft]] — RFA/ISQ outcomes for crestal sinus elevation without graft; baseline reference this RCT extends
 - [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] — platelet concentrates vs grafted crestal sinus augmentation
 - [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — SR/MA on graft-free transcrestal sinus; context for no-graft group
 - [[sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus]] — same first author; CBCT-based residual ridge evaluation for indirect sinus planning

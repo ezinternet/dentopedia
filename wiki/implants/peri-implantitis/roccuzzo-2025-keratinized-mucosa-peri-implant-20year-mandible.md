@@ -96,6 +96,6 @@ No implants were lost between 10 and 20 years, confirming long-term osseointegra
 ## Related Papers
 
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — synthesis overview on KM augmentation for peri-implant soft-tissue dehiscence prevention; this study is among the highest-quality longitudinal evidence supporting that overview's thesis
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP position paper on soft-tissue dehiscences at implant sites; this cohort's 100% dehiscence rate in AM group provides a direct clinical anchor
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR showing KM augmentation improves peri-implant health; this 20-year cohort is the highest-quality longitudinal evidence corroborating that SR
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP position paper on soft-tissue dehiscences at implant sites; this cohort's 100% dehiscence rate in AM group provides a direct clinical anchor
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR showing KM augmentation improves peri-implant health; this 20-year cohort is the highest-quality longitudinal evidence corroborating that SR
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — companion 20-year prospective cohort from the same patient pool examining periodontitis history as a risk factor; same implants, different exposure variable

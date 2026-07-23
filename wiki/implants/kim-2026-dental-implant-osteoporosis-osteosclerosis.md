@@ -62,6 +62,6 @@ This narrative review consolidates implant decision-making at the two extremes o
 
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — extends: broadens the bone-density-and-implant frame to include high-density pathologic lesions, not only low-density bone.
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]] — reinforces: low-density (D3/D4) bone primary-stability challenge echoed in the osteoporosis section.
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — reinforces: antiresorptive/MRONJ-and-implant risk; this review's bisphosphonate section is consistent (oral agents low-risk, IV high-risk).
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — relates: osteoporosis antiresorptive long-term MRONJ context.
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — reinforces: antiresorptive/MRONJ-and-implant risk; this review's bisphosphonate section is consistent (oral agents low-risk, IV high-risk).
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — relates: osteoporosis antiresorptive long-term MRONJ context.
 - [[overviews/drug-systemic-disease-dental-management-overview]] — relates: systemic-disease dental management umbrella; osteoporosis/antiresorptive nodes overlap.

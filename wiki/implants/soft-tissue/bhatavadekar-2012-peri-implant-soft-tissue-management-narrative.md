@@ -74,7 +74,7 @@ The paper closes with future directions: cyto-detachment single-cell adhesion qu
 
 ## Related Papers
 
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — higher-level SR on soft tissue augmentation outcomes around implants; this narrative provides the conceptual framework underlying those findings
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement on KM necessity; directly addresses the debate Bhatavadekar frames in 2012
-- [[implants/kim-2009-blood-vessels-peri-implant-mucosa]] — detailed histological characterization of the hypovascular-hypocellular zone Bhatavadekar cites as the anatomical basis of soft tissue challenges
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — systematic review on stability/favorability of soft tissue augmentation techniques, providing evidence-level follow-up to this 2012 narrative
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — higher-level SR on soft tissue augmentation outcomes around implants; this narrative provides the conceptual framework underlying those findings
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus statement on KM necessity; directly addresses the debate Bhatavadekar frames in 2012
+- [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] — detailed histological characterization of the hypovascular-hypocellular zone Bhatavadekar cites as the anatomical basis of soft tissue challenges
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — systematic review on stability/favorability of soft tissue augmentation techniques, providing evidence-level follow-up to this 2012 narrative

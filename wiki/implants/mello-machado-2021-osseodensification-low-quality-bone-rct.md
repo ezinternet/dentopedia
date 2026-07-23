@@ -60,7 +60,7 @@ Sixteen patients with D3 or D4 bone (Misch classification) were randomized; outc
 
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD concept.
-- [[implants/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium evidence of higher IT and BIC with OD.
+- [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium evidence of higher IT and BIC with OD.
 - [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry of OD vs osteotome vs standard.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — OD in ridge expansion (related indication).
 - [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR pooling this RCT.

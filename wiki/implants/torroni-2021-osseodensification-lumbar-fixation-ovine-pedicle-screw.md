@@ -66,5 +66,5 @@ Exact P-values and 95% CIs for the pullout difference are not retrievable from t
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of the OD concept in dental bench testing.
 - [[implants/tian-2019-alveolar-ridge-expansion-osseodensification-osteotome]] — sister dental study from the same group, ridge-expansion model.
-- [[implants/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium OD biomechanics, complementary anatomy.
+- [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium OD biomechanics, complementary anatomy.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — clinical translation in dentistry.

@@ -49,4 +49,4 @@ Ex vivo human cadaver study; 4 unfixed maxillae/mandibles; 48 stepped cylinder s
 ## Related Papers
 - [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — reinforces; cortical thickness–ISQ correlation.
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — related; BIC–torque-integral correlation.
-- [[implants/al-juboori-2024-cortical-thickness-implant-stability-sr]] — related; cortical-thickness–stability SR.
+- [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — related; cortical-thickness–stability SR.

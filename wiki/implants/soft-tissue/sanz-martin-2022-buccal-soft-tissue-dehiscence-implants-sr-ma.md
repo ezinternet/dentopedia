@@ -102,6 +102,6 @@ No significant association between BSTD frequency and follow-up duration or stud
 ## Related Papers
 
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — synthesis overview on BSTD prevention; this SR is a primary evidence source
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — subsequent AO/AAP SR on soft tissue dehiscences at implant sites; extends and updates this evidence
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa around implants; contextualizes the KM data gap identified in this SR
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — subsequent AO/AAP SR on soft tissue dehiscences at implant sites; extends and updates this evidence
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus on keratinized mucosa around implants; contextualizes the KM data gap identified in this SR
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — overview on KM and peri-implant health; BSTD risk overlaps with KM quantity considerations

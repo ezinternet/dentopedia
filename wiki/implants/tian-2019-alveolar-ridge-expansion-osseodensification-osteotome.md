@@ -59,7 +59,7 @@ Porcine model: 8 weeks after bilateral premolar extractions, ridges had become h
 
 ## Related Papers
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — originating OD bench paper.
-- [[implants/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium OD vs regular drilling, complementary biology.
+- [[implants/surface/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep ilium OD vs regular drilling, complementary biology.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — human multicenter retrospective on OD ridge expansion.
 - [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA evidence base on torque/ISQ for OD.
 - [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — three-way bench comparison of standard/osteotome/OD.

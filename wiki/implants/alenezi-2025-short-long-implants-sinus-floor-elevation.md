@@ -56,6 +56,6 @@ PRISMA + Cochrane Handbook; PubMed, Scopus, Web of Science, Cochrane (inception�
 - Prosthetic complications: no difference (OR 2.18; 95% CI 0.82–5.82; p=0.12).
 
 ## Related Papers
-- [[implants/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces
+- [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — reinforces
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — reinforces (umbrella-level)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — updates decision overview currency

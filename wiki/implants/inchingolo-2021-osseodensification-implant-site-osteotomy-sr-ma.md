@@ -74,5 +74,5 @@ PubMed-Medline-only systematic search per PRISMA. 16 papers included. The meta-a
 - [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — earlier qualitative SR superseded by this one quantitatively
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — primary technique source
 - [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — included sheep histology study
-- [[implants/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — included sheep × tantalum study
+- [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — included sheep × tantalum study
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — OD principle outside dental implantology

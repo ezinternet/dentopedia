@@ -83,7 +83,7 @@ Four main technique categories are reviewed and compared:
 
 ## Related Papers
 
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — foundational Osteology Foundation consensus establishing ≥2 mm buccal KM threshold and rationale for augmentation; this paper extends with technique-selection decision tree
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO 2021 consensus on peri-implant soft tissue management; this consensus applies those principles to the second-stage surgery context specifically
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — systematic review on soft tissue augmentation around implants providing the evidence base for technique comparisons
-- [[implants/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year mandibular follow-up data on KM and peri-implant health, supporting the strong recommendation for FGG in the mandible
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — foundational Osteology Foundation consensus establishing ≥2 mm buccal KM threshold and rationale for augmentation; this paper extends with technique-selection decision tree
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — EAO 2021 consensus on peri-implant soft tissue management; this consensus applies those principles to the second-stage surgery context specifically
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — systematic review on soft tissue augmentation around implants providing the evidence base for technique comparisons
+- [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-year mandibular follow-up data on KM and peri-implant health, supporting the strong recommendation for FGG in the mandible

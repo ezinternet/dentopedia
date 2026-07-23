@@ -59,4 +59,4 @@ Several pooled CIs cross zero — the bone-protective direction is consistent bu
 
 ## Related Papers
 
-- [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 타입별 MBL 논의를 어버트먼트 높이(긴 vs 짧은) 단일 변수로 좁혀 확장(extends).
+- [[implants/mbl/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — 임플란트 타입별 MBL 논의를 어버트먼트 높이(긴 vs 짧은) 단일 변수로 좁혀 확장(extends).

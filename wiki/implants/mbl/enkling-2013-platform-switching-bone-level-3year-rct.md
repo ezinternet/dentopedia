@@ -49,6 +49,6 @@ Randomized clinical trial. Two-piece dental implants randomized to PS or PM abut
 - Results extend and confirm short-term PS advantages to 3 years
 
 ## Related Papers
-- [[implants/rocha-2016-platform-switching-crestal-bone-3year-rct]] — another 3-year multicenter RCT: PS 0.28 vs PM 0.68 mm
-- [[implants/messias-2019-platform-switching-mbl-5year-rct]] — 5-year follow-up of same PS/PM RCT cohort
-- [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA confirming PS benefit across 22 studies
+- [[implants/mbl/rocha-2016-platform-switching-crestal-bone-3year-rct]] — another 3-year multicenter RCT: PS 0.28 vs PM 0.68 mm
+- [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5-year follow-up of same PS/PM RCT cohort
+- [[implants/mbl/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA confirming PS benefit across 22 studies

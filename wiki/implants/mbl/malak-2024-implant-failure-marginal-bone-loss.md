@@ -70,5 +70,5 @@ Umbrella review with meta-analysis: electronic literature search without languag
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — synthesized into this cross-paper late-implant-failure/MBL risk-factor overview
 
 - [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — single SR+MA (n=2,637, 3–18yr) whose long-term significant axial<tilted MBL finding (P<.0001) is independently reinforced by this umbrella review's 3-year/long-term results.
-- [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — earlier single SR+MA (2014) found NS MBL difference at ≤3yr, matching this paper's short-term NS finding; this umbrella review extends the timeline by adding significant 3-year/long-term strata.
+- [[implants/mbl/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — earlier single SR+MA (2014) found NS MBL difference at ≤3yr, matching this paper's short-term NS finding; this umbrella review extends the timeline by adding significant 3-year/long-term strata.
 - [[implants/barboza-2026-bruxism-implant-failure-umbrella-review]] — sibling umbrella review in the same evidence tier, addressing a different implant-failure risk factor (bruxism/occlusal overload) rather than implant angulation.

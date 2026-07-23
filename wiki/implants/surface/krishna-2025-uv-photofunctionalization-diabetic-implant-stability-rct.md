@@ -74,6 +74,6 @@ UVP yielded greater secondary stability gain, higher OSI, and ~45% less distal c
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — UVP ISQ early-loading case reports (no stability dip); this RCT extends to diabetics
 - [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] — 7-yr prospective UVP; overcomes anatomical (not pathophysiological) compromise
 - [[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]] — comprehensive UVP review
-- [[implants/surface/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — photo/plasma activation SR+MA
+- [[implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — photo/plasma activation SR+MA
 - [[overviews/early-implant-failure-risk-prevention-overview]] — diabetes as early-failure risk; UVP as a mitigating surface strategy
 - [[overviews/plasma-surface-treatment-dental-implants]] — surface-activation synthesis

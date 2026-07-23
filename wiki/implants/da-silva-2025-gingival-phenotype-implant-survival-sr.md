@@ -58,5 +58,5 @@ Does gingival phenotype (thin vs thick) decide whether an implant survives? This
 
 ## Related Papers
 
-- [[implants/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]] — reinforces by addressing the intervention side: modifying a thin soft-tissue phenotype to improve peri-implant outcomes.
+- [[implants/soft-tissue/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]] — reinforces by addressing the intervention side: modifying a thin soft-tissue phenotype to improve peri-implant outcomes.
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — adjacent soft-tissue determinant (keratinized mucosa) of peri-implant health.

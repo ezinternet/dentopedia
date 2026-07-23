@@ -53,7 +53,7 @@ In vitro experimental bench study (8 polyurethane-foam bone blocks, density 0.32
 | Abutment displacement, in vitro (µm) | 346.6 | 414.5 | 548.0 | 668.0 |
 | Abutment displacement, FEA (µm) | 281.4 | 312.4 | 558.2 | ~602.6* |
 
-(*Source Table 2 prints "6026" for this cell — almost certainly a typesetting artifact; see [[sources/sahoo-2024-finite-element-analysis-influence-implant]] for the flagged discrepancy.)
+(*Source Table 2 prints "6026" for this cell — almost certainly a typesetting artifact; see [[implants/sahoo-2024-finite-element-analysis-influence-implant]] for the flagged discrepancy.)
 
 - Oblique-load micromotion was 2.6–3.9× greater than vertical-load micromotion in both groups.
 - Tilted-implant micromotion was 19% lower than axial under oblique load; nearly identical under vertical load.

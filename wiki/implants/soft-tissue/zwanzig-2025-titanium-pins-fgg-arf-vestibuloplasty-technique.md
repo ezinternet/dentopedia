@@ -64,6 +64,6 @@ Authors recommend randomized clinical trials for formal efficacy evaluation.
 ## Related Papers
 
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — synthesis of KM adequacy thresholds and peri-implant health consequences; provides the clinical rationale for why this technique matters
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on KM augmentation outcomes around functioning implants; establishes efficacy benchmark for FGG
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus document on KM around implants including technique recommendations that this paper's approach augments
-- [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — expert consensus on KM augmentation at second-stage surgery; technique choice context
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA on KM augmentation outcomes around functioning implants; establishes efficacy benchmark for FGG
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — consensus document on KM around implants including technique recommendations that this paper's approach augments
+- [[implants/soft-tissue/zhang-2025-expert-consensus-km-augmentation-second-stage]] — expert consensus on KM augmentation at second-stage surgery; technique choice context
