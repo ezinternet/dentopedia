@@ -5,7 +5,7 @@ year: 1995
 date: 1995-09-01
 doi: "n/a (PMID 8534877)"
 source: ishikawa-1995-toothpick-method-instruction-frequency-community-perio.md
-category: [periodontics]
+category: [periodontics/oral-hygiene-instruction]
 evidence_level: prospective
 source_collection: pubmed-text
 full_text: false
@@ -64,6 +64,6 @@ This classic Japanese community study (Okayama University Dental School; **T. Wa
 
 ## Related Papers
 
-- [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — reinforces: SR cataloging manual toothbrushing techniques, including the toothpick (Watanabe) method, for plaque/gingivitis control.
-- [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — reinforces: RCT using professional repeated Watanabe/toothpick-method brushing as an SRP adjunct (BOP and serum endotoxin reduction) in diabetic periodontitis.
+- [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — reinforces: SR cataloging manual toothbrushing techniques, including the toothpick (Watanabe) method, for plaque/gingivitis control.
+- [[periodontics/oral-hygiene-instruction/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — reinforces: RCT using professional repeated Watanabe/toothpick-method brushing as an SRP adjunct (BOP and serum endotoxin reduction) in diabetic periodontitis.
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — contrast: harms of *wooden interdental toothpick* use (papilla loss) — a different intervention from the Watanabe *brushing* method despite the shared "toothpick" name.
